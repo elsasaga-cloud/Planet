@@ -73,6 +73,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 118 批（AU · 1 次检索：prospeo.io/c/hme-solutions（Perth, Western Australia；11-20；Todd Pearce Owner/Founder Managing Director；Ajay Koppisetty CTO；Manufacturer of Fleet Management Solutions）+ hmesolutions.com.au（FMS Live™ open-pit and underground；fully integrated ecosystem of software, hardware, and networking infrastructure）+ 领英 todd-pearce-101a7419；ABN 未得；2026-10-28，2026-10-28 查；https://www.hmesolutions.com.au/）：**
+
+- 法定名 / 登记号：HME Solutions（hmesolutions.com.au；**珀斯 WA；11–20 人；Todd Pearce = Owner / Founder / Managing Director（prospeo + 领英）；CTO Ajay Koppisetty；法人名 / ABN 1 查未得 → 部分坐实**）— **矿业重型移动设备车队管理系统制造商（FMS Live™ 露天 / 井下、Asset IQ、VDL 车载硬件 + 软件 + 网络基础设施一体，按月服务费）**；阿里巴巴询盘「升压 5 口」（车载）；Ubiquiti 在用；表内未跟进 · 未取（ABN 1 查未得） · 状态 **营业中（官网 + 领英活跃）** · 成立 未取 · Pty Ltd（推定）
+- 行业码 / 经营范围：矿业车队管理系统 软硬件制造（Perth WA）
+- 注册地址：Perth WA（门牌未取）, Australia
+- 规模档：小型（11–20）
+- 账目：未取；—
+- 高管：Todd Pearce — Owner / Founder / Managing Director（研究档 KP；info@hmesolutions.com.au）
+- 控制人 / 股东：Todd Pearce
+- **这意味着什么：**
+  - **需求 = 车载升压 PoE（Saga 无）+ 井下（防爆不做）→ 不动（B 保留；地面 / 井口侧工业 PoE 需求来询再按集成商 25% 报 STI 线）**
+- 备注：不动（需求不对位 升压 + 井下）；部分坐实（企业库 + 官网：城市 + 规模 + 创始人；法人 / ABN 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -106,15 +119,16 @@ updated: 2026-10-28
 - **【用户表】升压 5 口询盘**
   > 升压5口 / from: 阿里巴巴询盘
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Todd Pearce（）info@hmesolutions.com.au 〔用户表〕
+- **KP**：Todd Pearce（Owner / Founder / Managing Director（prospeo + 领英；阿里巴巴询盘 升压 5 口）— 不动，不发（地面 / 井口侧工业 PoE 需求再按集成商 25% 报）（第 118 批 官方登记核实 2026-10-28））info@hmesolutions.com.au 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 澳大利亚 |
-| 其他 | 官网 hmesolutions.com.au，语言 en，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | HME Solutions（法人名 / ABN 1 查未得） |
+| 总部/地址 | Perth WA（门牌未取）（第 118 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 hmesolutions.com.au，语言 en，快照状态 ok；角色判定来源：用户表；第 118 批：矿业重型移动设备车队管理系统制造商（FMS Live™ 露天 / 井下；VDL 车载硬件 + 软件 + 网络），需求 = 车载升压 PoE（Saga 无）+ 井下防爆不做 → **不动（B 保留）**；部分坐实（企业库 + 官网）（第 118 批 官方登记核实 2026-10-28） |
 
 - **业务线**：矿业车队管理系统 / 数字矿山（澳大利亚）
 - **触达通道（公开）**：role: 矿业车队管理方案商（澳大利亚，升压 PoE 询盘）；region: 澳大利亚；contact: info@hmesolutions.com.au
@@ -175,7 +189,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Todd Pearce | — | info@hmesolutions.com.au | 调研核实（公开页） | 用户表 |
+| Todd Pearce | Owner / Founder / Managing Director（prospeo + 领英；阿里巴巴询盘 升压 5 口）— 不动，不发（地面 / 井口侧工业 PoE 需求再按集成商 25% 报）（第 118 批 官方登记核实 2026-10-28） | info@hmesolutions.com.au | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

@@ -78,6 +78,21 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 118 批（AU · 1 次检索：australia247.info（Jea Technologies；1/72 Bayfield Rd E, Bayswater North VIC 3153；(03) 8736 0330；Robustel Industrial Routers & Modems）+ ithistory.org（JEA Technologies Pty Ltd was established in 2003 as a specialist distributor of electronic peripherals covering Australia and New Zealand；Unit 1, 72 Bayfield Road East）+ zoominfo（41-49 Norcal Rd Unit 36, Nunawading VIC 3131；+61 386720214）；ABN 未得；2026-10-28，2026-10-28 查；https://www.ithistory.org/db/companies/jea-technologies）：**
+
+- 法定名 / 登记号：JEA Technologies Pty Ltd（jeatech.com.au；**2003 年成立；Unit 1, 72 Bayfield Road East, Bayswater North VIC 3153（旧址 Unit 36, 41-49 Norcal Rd, Nunawading）；(03) 8736 0330；ABN 1 查未得 → 部分坐实**）— **澳新工业电子外设专业分销（工业 4G/5G 路由 Robustel / Teltonika / Milesight、工业面板 PC、电子纸、HMI、呼吸器；在售 ORing IDGPS-C1042GP = 表内「卖 ORing 的」；备库存 + 自修）**；KP Craig Kinder（Manager；craigk@）/ Tony Ioannidis（Operations Manager）；7 次跟进无回复 · 未取（ABN 1 查未得） · 状态 **营业中（官网在）** · 成立 2003 · Pty Ltd
+- 行业码 / 经营范围：工业电子外设分销（澳新；Bayswater North VIC）
+- 注册地址：Unit 1, 72 Bayfield Road East, Bayswater North VIC 3153, Australia
+- 规模档：小型
+- 账目：未取；—
+- 高管：Craig Kinder — Manager（研究档 KP；craigk@jeatech.com.au）= 收件人
+- 高管：Tony Ioannidis — Operations Manager（研究档 KP；tony.ioannidis@jeatech.com.au）= 抄送
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **22 年澳新工业分销、已卖台系工业交换机、经理为 KP → 分销 20% B，一页纸一次（切口：对位其在售 10 口 PoE 工业机的 STI-288DGGPM $137 / STI-488DGGPM $147 + STI-154GP + 宽温 3 年保 + 备库存建议 MOQ 1 起 + 付费样机；路由 / HMI 不做明说；英文，Craig 直呼、抄 Tony）— 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（RCM 不声称、由买方自办；DAP 买方清关）**；回信 → 加厚
+  - 守界：不点名 ORing / Robustel；RCM 不声称
+- 备注：分销 20%；一页纸一次（回声再加厚）；部分坐实（名录 + 历史库：成立年 + 地址 + 电话；ABN 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -119,16 +134,18 @@ updated: 2026-10-28
 - **【用户表】卖 ORing 的**
   > 卖Oring的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Craig Kinder（）craigk@jeatech.com.au 〔用户表〕
-- **KP**：Tony Ioannidis（） 〔用户表〕
+- **KP**：Craig Kinder（Manager（研究档；7 次跟进无回复）= 收件人 — 一页纸一次：分销 20% B、对位其在售 10 口工业 PoE 的 STI-288DGGPM $137 / STI-488DGGPM $147 + STI-154GP、宽温 3 年保 + 备库存 MOQ 1 起 + 付费样机、路由 / HMI 不做明说 — 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、RCM 不声称（DAP 买方清关）（第 118 批 官方登记核实 2026-10-28））craigk@jeatech.com.au 〔用户表〕
+- **KP**：Tony Ioannidis（Operations Manager（研究档）= 抄送（第 118 批 官方登记核实 2026-10-28）） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 澳大利亚 |
-| 其他 | 官网 jeatech.com.au，语言 en-AU，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | JEA Technologies Pty Ltd（ABN 1 查未得） |
+| 成立 | 2003（第 118 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Unit 1, 72 Bayfield Road East, Bayswater North VIC 3153（(03) 8736 0330；旧址 Unit 36, 41-49 Norcal Rd, Nunawading）（第 118 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 jeatech.com.au，语言 en-AU，快照状态 ok；角色判定来源：官网文案；第 118 批：澳新工业电子外设专业分销（Robustel / Teltonika / Milesight 路由、工业面板 PC、ORing IDGPS-C1042GP 在售；备库存 + 自修）→ **分销 20% B，一页纸一次**；回信 → 加厚；部分坐实（名录 + ithistory：成立年 + 地址）（第 118 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业蜂窝路由 / 面板 PC / 电子纸 / HMI 分销；工业交换机（ORing）
 
@@ -229,8 +246,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Craig Kinder | — | craigk@jeatech.com.au | 调研核实（公开页） | 用户表 |
-| Tony Ioannidis | — | — | 调研核实（公开页） | 用户表 |
+| Craig Kinder | Manager（研究档；7 次跟进无回复）= 收件人 — 一页纸一次：分销 20% B、对位其在售 10 口工业 PoE 的 STI-288DGGPM $137 / STI-488DGGPM $147 + STI-154GP、宽温 3 年保 + 备库存 MOQ 1 起 + 付费样机、路由 / HMI 不做明说 — 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、RCM 不声称（DAP 买方清关）（第 118 批 官方登记核实 2026-10-28） | craigk@jeatech.com.au | 调研核实（公开页） | 用户表 |
+| Tony Ioannidis | Operations Manager（研究档）= 抄送（第 118 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

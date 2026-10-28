@@ -74,6 +74,20 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 118 批（PK · 1 次检索：zoominfo（AyeZee Group；363 Rehman Abad Stop Main Muree Rawalpindi Rd, Islamabad Gpo 44000；telecom and power solutions；over 17 years）+ yellowpages.net（AYEZEE GROUP OAKTEQ；Gulberg Greens Expressway Service Road Bhatti Society, Islamabad；+92 512326001；ayezeegroup.com）；NTN 未得；2026-10-28，2026-10-28 查；https://www.yellowpages.net/phone_92-512326001_software-company_Islamabad_PKEN81132.html）：**
+
+- 法定名 / 登记号：AyeZee Group（ayezeegroup.com；**363 Rehman Abad Stop, Main Murree Road, Rawalpindi（ZoomInfo 员工地址）+ Gulberg Greens Expressway Service Road, Bhatti Society, Islamabad 44000（黄页；+92 51 232 6001；子品牌 OAKTEQ 软件）；1999 创立 / 2009 登记合伙（自述）；NTN 1 查未得 → 部分坐实**）— 电信 + 电源方案供应商（PCM / PDH / MC、整流器 / UPS、管理 / 非管理交换机、Cisco / Huawei 路由、Juniper / Fortinet 防火墙、太阳能、安防；设 sales.dubai@）；表内「做项目的」；KP Syed（WA 已加，无邮箱） · 未取（合伙企业；NTN 1 查未得） · 状态 **营业中（企业库 + 黄页）** · 成立 1999 / 2009（自述） · 合伙企业（自述）
+- 行业码 / 经营范围：电信 / 电源 / IT 设备供应 + 项目（Rawalpindi–Islamabad）
+- 注册地址：363 Rehman Abad Stop, Main Murree Road, Rawalpindi / Gulberg Greens, Islamabad, Pakistan
+- 规模档：小型（10 人 RocketReach；领英 51–200 存疑）
+- 账目：未取；—
+- 高管：Syed — 表内联系人（研究档 KP；+92 300 850 5900 WA 已加；无邮箱；职务未核）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **项目型设备供应商、在售管理 / 非管理交换机、只有 WA → 集成商 25% B small，一页纸一次（WA 发链接：STC-228GP $33 / STC-2224GP $86 / STC-4424GCPM $165 + 工业 STI-288DGGPM $137 一口价 + MOQ 1 + 付费样机；英文）— 巴基斯坦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（PTA 不声称；进口清关 / 关税全由买方）**；再无回声 → 不动
+  - 守界：PCM / PDH / MC / 电源不碰；不点名 Cisco / Huawei 替代
+- 备注：集成商 25% small；一页纸一次（WA；预付 100%）；部分坐实（企业库 + 黄页：两地地址 + 电话；NTN 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -105,17 +119,17 @@ updated: 2026-10-28
 - **【用户表】需求与回复**
   > 网站：PDH MC modem SFP FS 做项目的 中国有office；2023.12.15 → 有需求会说；2024.1.20 → 暂时没需求；2024.3.18 → 暂时没需求；2024.5.16 mini工业交换机图 → let me check；2025.4.3 → 暂时没需求
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Syed（（表内联系人）） +92 300 850 5900（WA 已加）〔用户 Clients 表〕
+- **KP**：Syed（表内联系人（WA +92 300 850 5900 已加；无邮箱；职务未核）= 收件人（WA 发链接）— 一页纸一次：集成商 25% B small、STC-228GP $33 / STC-2224GP $86 / STC-4424GCPM $165 + 工业 STI-288DGGPM $137 一口价、MOQ 1 + 付费样机 — 巴基斯坦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、PTA 不声称（第 118 批 官方登记核实 2026-10-28）） +92 300 850 5900（WA 已加）〔用户 Clients 表〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + LinkedIn 核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | AyeZee Group（Association of Persons，Partnership Act 1932） |
-| 成立 | 1999（2009 登记） |
-| 总部/地址 | 363 Rehman Abad Stop, Main Murree Road, Rawalpindi/Islamabad 44000；+92 51 232 6001；info@ayezeegroup.com / sales.dubai@ayezeegroup.com |
-| 其他 | 注册于伊斯兰堡工商会与巴基斯坦工程委员会；域名 ayezeegroup.com 2012 注册，另有 ayezeegroupae.com（阿联酋） |
+| 法定名称 | AyeZee Group（合伙企业，自述 1999 创立 / 2009 登记；NTN 1 查未得；子品牌 OAKTEQ） |
+| 成立 | 1999 / 2009（自述）（第 118 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 363 Rehman Abad Stop, Main Murree Road, Rawalpindi / Gulberg Greens Expressway Service Road, Islamabad 44000（+92 51 232 6001）（第 118 批 官方登记核实 2026-10-28） |
+| 其他 | 注册于伊斯兰堡工商会与巴基斯坦工程委员会；域名 ayezeegroup.com 2012 注册，另有 ayezeegroupae.com（阿联酋）；第 118 批：电信 + 电源 + IT 设备项目型供应商（PCM / PDH / MC、UPS、管理 / 非管理交换机、Cisco / Huawei 路由、防火墙；sales.dubai@），只有 WA → **集成商 25% B small，一页纸一次（WA）**；再无回声 → 不动；部分坐实（ZoomInfo + 黄页）；不点名 Cisco / Huawei 替代（第 118 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电信有源/无源设备供应（PCM 复用、PDH、媒体转换器、光缆终端）；电源系统（DC 电源、整流器、AVR、UPS、电池）；IT 与网络（管理/非管理交换机、路由、防火墙、Wi-Fi、VoIP）；太阳能、安防监控、软件/培训
 
@@ -203,7 +217,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Syed | （表内联系人） | +92 300 850 5900（WA 已加） | 调研核实（公开页） | 用户 Clients 表 |
+| Syed | 表内联系人（WA +92 300 850 5900 已加；无邮箱；职务未核）= 收件人（WA 发链接）— 一页纸一次：集成商 25% B small、STC-228GP $33 / STC-2224GP $86 / STC-4424GCPM $165 + 工业 STI-288DGGPM $137 一口价、MOQ 1 + 付费样机 — 巴基斯坦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、PTA 不声称（第 118 批 官方登记核实 2026-10-28） | +92 300 850 5900（WA 已加） | 调研核实（公开页） | 用户 Clients 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；无邮箱：只能电话 / WhatsApp / 官网表单
 

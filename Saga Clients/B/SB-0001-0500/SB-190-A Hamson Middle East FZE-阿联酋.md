@@ -74,6 +74,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 118 批（AE · 1 次检索（首查 0 结果、简化词重试 1 次）：ahamson.com/contact（MIDDLE EAST: Office 920 Burjuman Business Towers Dubai；Pakistan: 3rd Floor, Al-Baber Centre, F-8 Markaz, Islamabad；design, build, operate and support of customer networks）+ ibm.com/partnerplus/directory/company/9661（A HAMSON INC.；Islamabad 44000；+92 51 2818094；System Integrator / MSP / VAR）；FZE 牌照号未得；2026-10-28，2026-10-28 查；https://www.ahamson.com/contact.html）：**
+
+- 法定名 / 登记号：A Hamson Middle East FZE（ahamson.com；**迪拜办公室 920 Burjuman Business Towers, Dubai；集团 A Hamson Inc. 1985 年创立、总部多伦多；巴基斯坦 3rd Floor, Al-Baber Centre, F-8 Markaz, Islamabad（+92 51 281 8094）；IBM PartnerPlus 目录（SI / MSP / VAR）；FZE 牌照号 1 查未得 → 部分坐实**）— 企业 / 运营商网络集成（设计 / 建设 / 运维；Cisco 体系）；KP Tahmad（WA 已加）2024-04 询 Cisco GLC-LH-SMD 光模块 9 只（Saga 无） · 未取（FZE；牌照号 1 查未得） · 状态 **营业中（官网 + IBM 目录）** · 成立 集团 1985（多伦多）；FZE 未取 · FZE（迪拜自贸区）；集团 A Hamson Inc.（加拿大）
+- 行业码 / 经营范围：企业 / 运营商网络集成（Cisco 体系；迪拜 / 伊斯兰堡 / 多伦多）
+- 注册地址：920 Burjuman Business Towers, Dubai, UAE
+- 规模档：中小（实际 51–200 量级；LinkedIn 自报存疑）
+- 账目：未取；—
+- 高管：Tahmad — 表内联系人（研究档 KP；tahmad@ahamson.com；+971 55 144 9500 WA 已加；职务未核）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **Cisco 体系集成商、唯一需求是 Cisco 光模块（Saga 不做）→ 不动（B 保留；交换机需求出现再按集成商 25% 预付）**
+- 备注：不动（需求不对位 + 原厂体系）；部分坐实（官网 + IBM 目录：三地地址；FZE 牌照未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -108,17 +121,17 @@ updated: 2026-10-28
 - **【用户表】需求与回复**
   > GLC-LH-SMD 9个；916 2.5G Ethernet → 问一下他客户是否需要
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Tahmad（（职位未核；表内联系人））tahmad@ahamson.com +971 55 144 9500（WA 已加）〔用户 Clients 表〕
+- **KP**：Tahmad（表内联系人（WA +971 55 144 9500 已加；职务未核；2024-04 询 Cisco 光模块）— 不动，不发（第 118 批 官方登记核实 2026-10-28））tahmad@ahamson.com +971 55 144 9500（WA 已加）〔用户 Clients 表〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + LinkedIn/IBM 伙伴页核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | A Hamson Inc.（中东：A Hamson Middle East FZE） |
-| 成立 | 1985 |
-| 总部/地址 | Toronto/Milton, Ontario, Canada；中东：920 Burjuman Business Towers, Dubai；巴基斯坦：3rd Floor, Al-Baber Centre, F-8 Markaz, Islamabad |
-| 其他 | IBM PartnerPlus 目录收录；巴基斯坦 Branches.pk 联系人 Mirza Naveed Hameed naveed@ahamson.com；hr@ahamson.com 招聘 |
+| 法定名称 | A Hamson Middle East FZE（FZE 牌照号 1 查未得；集团 A Hamson Inc. 加拿大 1985） |
+| 成立 | 集团 1985（多伦多）；FZE 未取（第 118 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 920 Burjuman Business Towers, Dubai；巴基斯坦 3rd Floor, Al-Baber Centre, F-8 Markaz, Islamabad（+92 51 281 8094）；集团总部多伦多（第 118 批 官方登记核实 2026-10-28） |
+| 其他 | IBM PartnerPlus 目录收录；巴基斯坦 Branches.pk 联系人 Mirza Naveed Hameed naveed@ahamson.com；hr@ahamson.com 招聘；第 118 批：Cisco 体系网络集成商（迪拜 / 伊斯兰堡 / 多伦多），唯一需求 Cisco GLC-LH-SMD 光模块（Saga 无）→ **不动（B 保留；交换机需求再按集成商 25% 预付）**；部分坐实（官网 contact + IBM 目录）（第 118 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT 与电信网络的设计/建设/运维（公共与私营大客户）；软件开发、BI、DDoS 安全服务；项目型设备供应（思科光模块等）
 
@@ -201,7 +214,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Tahmad | （职位未核；表内联系人） | tahmad@ahamson.com / +971 55 144 9500（WA 已加） | 调研核实（公开页） | 用户 Clients 表 |
+| Tahmad | 表内联系人（WA +971 55 144 9500 已加；职务未核；2024-04 询 Cisco 光模块）— 不动，不发（第 118 批 官方登记核实 2026-10-28） | tahmad@ahamson.com / +971 55 144 9500（WA 已加） | 调研核实（公开页） | 用户 Clients 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 

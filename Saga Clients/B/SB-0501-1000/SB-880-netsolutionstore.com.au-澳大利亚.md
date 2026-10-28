@@ -78,6 +78,19 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 118 批（AU · 1 次检索：netsolutionstore.com.au 页脚（NetSolutionStore.com.au is a division of Virtual Graffiti Australia Pty Limited, an authorised Extreme Networks reseller；Copyright 2000-2022）；ABN 未得；2026-10-28，2026-10-28 查；https://www.netsolutionstore.com.au/）：**
+
+- 法定名 / 登记号：NetSolutionStore.com.au = Virtual Graffiti Australia Pty Limited 的分部（**Extreme Networks 授权经销网店；页脚自列母公司；ABN 1 查未得 → 部分坐实**）— Extreme 专营（AP / 控制器 / NAC / 800 / S / K 系列交换机 / NAS / NVR）；无 KP（sales@）；7 次跟进无回复 · 未取（母公司 Virtual Graffiti Australia Pty Limited；ABN 1 查未得） · 状态 **营业中（网店在）** · 成立 未取 · Pty Limited（分部网店）
+- 行业码 / 经营范围：Extreme Networks 专营网店（澳洲）
+- 注册地址：未取（澳洲）
+- 规模档：未取
+- 账目：未取；—
+- 高管：（研究档无 KP：sales@netsolutionstore.com.au）
+- 控制人 / 股东：Virtual Graffiti（母公司）
+- **这意味着什么：**
+  - **单一原厂（Extreme）专营网店 + 无 KP + 7×0 → 不动（B 保留）**
+- 备注：不动（原厂渠道 + 无 KP）；部分坐实（页脚母公司名；ABN 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -117,8 +130,9 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 澳大利亚 |
-| 其他 | 官网 netsolutionstore.com.au，语言 en-au，快照状态 ok；角色判定来源：官网文案；第 91 批检索未命中（netsolutionstore.com.au：1 次检索仅无关 Net Solutions / Netsol；ABR 常用词检索易截断）→ 下轮试 ABR「net solution store」（第 91 批 官方登记核实 2026-10-27） |
+| 法定名称 | NetSolutionStore.com.au = Virtual Graffiti Australia Pty Limited 分部（ABN 1 查未得；Extreme Networks 授权经销） |
+| 总部/地址 | 未取（澳洲）（第 118 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 netsolutionstore.com.au，语言 en-au，快照状态 ok；角色判定来源：官网文案；第 91 批检索未命中（netsolutionstore.com.au：1 次检索仅无关 Net Solutions / Netsol；ABR 常用词检索易截断）→ 下轮试 ABR「net solution store」（第 91 批 官方登记核实 2026-10-27）；第 118 批：单一原厂（Extreme）专营网店 + 无 KP + 7×0 → **不动（B 保留）**；部分坐实（页脚母公司名）（第 118 批 官方登记核实 2026-10-28） |
 
 - **业务线**：Extreme Networks 产品专营
 - **触达通道（公开）**：role: Extreme Networks 专营网店（澳洲）；region: 澳大利亚；contact: sales@netsolutionstore.com.au

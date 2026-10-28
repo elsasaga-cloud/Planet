@@ -3501,7 +3501,7 @@
    "p1": "STI-288DGGPM",
    "tier": 20,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-066": {
@@ -18879,7 +18879,7 @@
    "p1": "—",
    "tier": 20,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-625": {
@@ -23411,7 +23411,7 @@
    "p1": "STI-050GE",
    "tier": 25,
    "signals": 0,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-831": {

@@ -75,6 +75,20 @@ updated: 2026-10-28
 
 - 法定假日：11-09 Iqbal Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 118 批（PK · 1 次检索：litech.com.pk/about-litech（Established in 1999, Litech Sdn Bhd；In 2018 LITECH Pakistan Private Limited was established；PTCL, Wateen Telecom, Zong, Mobilink；Huawei, ZTE；5.25 acres Faisalabad manufacturing；Islamabad, Faisalabad, Lahore and Karachi；(+92) 41 262 6672；(+92) 310 0924444；Office No. 01, Ground Floor, Layallpur Regency Plaza, 949-Mall Road, New Civil Lines, Faisalabad）+ dnb（LITECH PAKISTAN (PRIVATE) LIMITED；Faisalabad, Punjab 38850）+ zoominfo；SECP 号未得；2026-10-28，2026-10-28 查；https://litech.com.pk/about-litech/）：**
+
+- 法定名 / 登记号：LITECH Pakistan (Private) Limited（litech.com.pk；**2018 年设立（母公司 Litech Sdn Bhd 马来西亚 1999）；总部 Office No. 01, Ground Floor, Layallpur Regency Plaza, 949-Mall Road, New Civil Lines, Faisalabad 38850；+92 41 262 6672 / +92 310 092 4444（= KP 手机 ✓）；费萨拉巴德 5.25 英亩光缆制造基地；办公室 伊斯兰堡 / 费萨拉巴德 / 拉合尔 / 卡拉奇；客户 PTCL / Wateen / Zong / Mobilink + Huawei / ZTE 承包商；D&B 收录；SECP 号 1 查未得 → 部分坐实**）— 光缆 / 光纤器材制造 + 分销 + 项目承包；**2024-03-09 主动 RFQ（接入 / 汇聚交换机 + 路由器，华为型号为参照，要技术符合性声明，称多项目在管线、想长期合作）→ 我方欠答**；KP Hassan Ijaz Cheema（Manager Business Development） · 未取（(Private) Limited；SECP 号 1 查未得） · 状态 **营业中（官网 + D&B）** · 成立 2018 · (Private) Limited（马来西亚 Litech Sdn Bhd 子公司）
+- 行业码 / 经营范围：光缆制造 + 电信器材分销 + 项目承包（Faisalabad；四城）
+- 注册地址：Office No. 01, Ground Floor, Layallpur Regency Plaza, 949-Mall Road, New Civil Lines, Faisalabad 38850, Pakistan
+- 规模档：中小（制造 + 四地办公室）
+- 账目：未取；—
+- 高管：Hassan Ijaz Cheema — Manager Business Development（研究档 KP；hassancheema@litech.com.pk；+92 310 092 4444 = 官网电话）= 收件人
+- 控制人 / 股东：Litech Sdn Bhd（母公司）
+- **这意味着什么：**
+  - **主动 RFQ + 多项目 + 制造商 + 我方欠答 → 集成商 25% B（升 A 候选 ★），一页纸 + 补答（切口：接入 = STC-4424GCPM $165（L2+ Marvell）/ 汇聚 10G = STH-2C24XF-HSI $1,500（CENTEC；24 光 10G）；路由器不做明说；技术符合性逐条按我方实际规格答、不套华为型号；MOQ 1 + 付费样机；英文，Hassan 直呼；opener 引 2024-03-09 他的 RFQ 主题）— 巴基斯坦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（PTA 不声称；进口清关 / 关税全由买方）**；回信 → 加厚 + 升 A
+  - 守界：电信运营商 / 承包商项目按单核；PTA 不声称
+- 备注：集成商 25%（升 A 候选 ★）；一页纸 + 补答 2024-03 RFQ（预付 100%）；部分坐实（官网 + D&B：法定名 + 总部 + 电话 + 成立年；SECP 号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -101,7 +115,7 @@ updated: 2026-10-28
 - **【email】主动 RFQ + 长期合作意向（来询未回）**
   > Attached herewith are the technical specifications of different Access/Aggregation switches and Routers for your working for technical compliance statement… customer has prepared these specifications with reference to different models of Huawei Switches… number of projects are in pipe line and we want long business partnership with you（附 Access and aggregation switches specs.docx）
   > 来源：data/gmail_s/messages/2024/2024-03.jsonl（from hassancheema@litech.com.pk，主题 RFQ Switches）（抓取 2024-03-09）
-- **KP**：Hassan Ijaz Cheema（Manager Business Development）hassancheema@litech.com.pk +92 310 092 4444 / +92 51 8744109〔S 邮箱签名〕
+- **KP**：Hassan Ijaz Cheema（Manager Business Development（S 邮箱签名；+92 310 092 4444 = 官网电话；2024-03-09 主动 RFQ 接入 / 汇聚交换机 + 路由器，我方欠答）= 收件人 — 一页纸 + 补答：集成商 25% B（升 A 候选 ★）、接入 STC-4424GCPM $165（L2+ Marvell）/ 汇聚 10G STH-2C24XF-HSI $1,500（CENTEC）、路由器不做明说、技术符合性按我方实际规格逐条答不套华为型号、MOQ 1 + 付费样机、opener 引其 2024-03-09 RFQ 主题 — 巴基斯坦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、PTA 不声称（第 118 批 官方登记核实 2026-10-28））hassancheema@litech.com.pk +92 310 092 4444 / +92 51 8744109〔S 邮箱签名〕
 - **调研后定级**：B（原自动 B）——具名 BD 经理 + 真实 RFQ，但年代久、规格对标华为（部分做不了）、未回 → B
 - 备注：2.5 年前的 RFQ，先确认 Simon 当时是否在别的渠道回过；若没有，可发一封「当年没接上，现在 L2+/L3 线成熟」的短信重新开门（只对交换机部分，路由器不做）。公共项目/运营商类项目注意守界。
 
@@ -151,7 +165,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Hassan Ijaz Cheema | Manager Business Development | hassancheema@litech.com.pk / +92 310 092 4444 / +92 51 8744109 | 调研核实（公开页） | S 邮箱签名 |
+| Hassan Ijaz Cheema | Manager Business Development（S 邮箱签名；+92 310 092 4444 = 官网电话；2024-03-09 主动 RFQ 接入 / 汇聚交换机 + 路由器，我方欠答）= 收件人 — 一页纸 + 补答：集成商 25% B（升 A 候选 ★）、接入 STC-4424GCPM $165（L2+ Marvell）/ 汇聚 10G STH-2C24XF-HSI $1,500（CENTEC）、路由器不做明说、技术符合性按我方实际规格逐条答不套华为型号、MOQ 1 + 付费样机、opener 引其 2024-03-09 RFQ 主题 — 巴基斯坦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、PTA 不声称（第 118 批 官方登记核实 2026-10-28） | hassancheema@litech.com.pk / +92 310 092 4444 / +92 51 8744109 | 调研核实（公开页） | S 邮箱签名 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

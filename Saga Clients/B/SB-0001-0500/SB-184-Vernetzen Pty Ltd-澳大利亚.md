@@ -82,6 +82,20 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 118 批（AU · 1 次检索：vernetzen.com/about-us 2026-10-08（The Global Specialists in Mining Network Management；ruggedised network solutions designed specifically for mining environments；Australia Unit 26, 23 Ashtan Place, Banyo QLD 4014；Europe Richtistrasse 7, 8304 Wallisellen, Switzerland；(07) 4276 6665；sales@vernetzen.com；Wi-Fi Over Coax / OT Network Consulting / Managed OT Services）；ABN 未得；2026-10-28，2026-10-28 查；https://www.vernetzen.com/about-us/）：**
+
+- 法定名 / 登记号：Vernetzen Pty Ltd（vernetzen.com.au / vernetzen.com；**Unit 26, 23 Ashtan Place, Banyo QLD 4014（布里斯班）+ 欧洲 Richtistrasse 7, 8304 Wallisellen, Switzerland；(07) 4276 6665；ABN 1 查未得 → 部分坐实**）— **矿业 OT 网络专家（井下 / 露天：自有 Wi-Fi over Coax、光纤转 PoE 注入器 VP-CI-FCPI、工业双口 PoE+ 延长器 VP-CI-PEXT、Veto OT 工具、OT 咨询 / 托管 / 培训）；官网 2026-10 更新**；KP Luke King；需求 **4 光 8 电、4 光 16 电、10G 光 + BT 大功率**；WA 无实质回复；自有产品线 = 可贴 Vernetzen 标 · 未取（ABN 1 查未得） · 状态 **营业中（官网 2026-10 更新）** · 成立 未取 · Pty Ltd
+- 行业码 / 经营范围：矿业 OT 网络方案 + 自有工业网络产品（Banyo QLD；瑞士分部）
+- 注册地址：Unit 26, 23 Ashtan Place, Banyo QLD 4014, Australia
+- 规模档：小型（两国办公室）
+- 账目：未取；—
+- 高管：Luke King — 负责人 / 技术（研究档 KP；luke@vernetzen.com.au；+61 422 049 988）= 拍板人 / 收件人
+- 控制人 / 股东：Luke King（推定）
+- **这意味着什么：**
+  - **自有产品线 + 需求具体（4 光 8 电 / 4 光 16 电 / 10G + 大功率）→ 贴标 OEM 30% B，一页纸一次（切口：Vernetzen 标 / 中性包装：4 光 8 电 = STI-488DGGPM $147（宽温、管理）；4 光 16 电 主表无 → 明说以 STC-4424GCPM（24 电 + 4 光，Marvell 管理）替代；10G 光上联 + 大功率 = STC-424XGGPM-280W $198（商用机房级，非宽温，明说）；BT 90 W 不声称；付费样机 + MOQ 1 + 3 年保（STI）；英文，Luke 直呼，WA + 邮件）— 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（RCM 不声称、由买方自办；DAP 买方清关）**；回信 → 加厚
+  - 守界：井下防爆（IECEx / ATEX）不做、不声称；只供地面 / 机房 / 井口侧
+- 备注：贴标 OEM 30%；一页纸一次（回声再加厚）；部分坐实（官网：两国地址 + 电话；ABN 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -117,17 +131,17 @@ updated: 2026-10-28
 - **【用户表】4 光 8 电、4 光 16 电、10G 光带 BT**
   > 兴趣：4光8电 4光16电 10G光带BT
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Luke King（）luke@vernetzen.com.au +61 422 049 988〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Luke King（负责人 / 技术（研究档；WA +61 422 049 988；需求 4 光 8 电 / 4 光 16 电 / 10G + 大功率）= 拍板人 / 收件人 — 一页纸一次：贴标 OEM 30% B、Vernetzen 标 / 中性包装 STI-488DGGPM $147（4 光 8 电）、4 光 16 电 主表无 → STC-4424GCPM 替代明说、10G 上联 + 大功率 = STC-424XGGPM-280W $198（商用级明说）、BT 90 W 不声称、付费样机 + MOQ 1 + 3 年保 — 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、RCM 不声称（DAP 买方清关）（第 118 批 官方登记核实 2026-10-28））luke@vernetzen.com.au +61 422 049 988〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：自有品牌 + 矿业））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Vernetzen Pty Ltd |
+| 法定名称 | Vernetzen Pty Ltd（ABN 1 查未得） |
 | 成立 | （待核） |
-| 总部/地址 | Queensland, Australia（+61 7 4276） |
-| 其他 | 矿业客户；培训业务 |
+| 总部/地址 | Unit 26, 23 Ashtan Place, Banyo QLD 4014（(07) 4276 6665）；欧洲 Richtistrasse 7, 8304 Wallisellen, Switzerland（第 118 批 官方登记核实 2026-10-28） |
+| 其他 | 矿业客户；培训业务；第 118 批：矿业 OT 网络专家（自有 Wi-Fi over Coax / 光纤 PoE 注入器 / PoE+ 延长器；官网 2026-10 更新），自有产品线 + 需求具体 → **贴标 OEM 30% B，一页纸一次**；回信 → 加厚；部分坐实（官网两国地址 + 电话；ABN 未取）；井下防爆不做不声称（第 118 批 官方登记核实 2026-10-28） |
 
 - **业务线**：矿业工业网络方案与培训；自有产品：Wi-Fi over Coax、光纤 PoE 注入器、PoE 延长器；OT 网络诊断工具
 
@@ -215,7 +229,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Luke King | — | luke@vernetzen.com.au / +61 422 049 988 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Luke King | 负责人 / 技术（研究档；WA +61 422 049 988；需求 4 光 8 电 / 4 光 16 电 / 10G + 大功率）= 拍板人 / 收件人 — 一页纸一次：贴标 OEM 30% B、Vernetzen 标 / 中性包装 STI-488DGGPM $147（4 光 8 电）、4 光 16 电 主表无 → STC-4424GCPM 替代明说、10G 上联 + 大功率 = STC-424XGGPM-280W $198（商用级明说）、BT 90 W 不声称、付费样机 + MOQ 1 + 3 年保 — 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、RCM 不声称（DAP 买方清关）（第 118 批 官方登记核实 2026-10-28） | luke@vernetzen.com.au / +61 422 049 988 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 

@@ -84,6 +84,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 118 批（AU · 1 次检索：yeastar.com.au/contact（Head Office: Aristel Networks Pty Ltd ABN: 57 095 422 450；Unit 1, 25 Howleys Road Notting Hill, VICTORIA 3168；Sales 1800 00 21 33；Support 03 8542 2308）+ dnb（ARISTEL NETWORKS PTY. LTD.；FY 1 25 HOWLEYS ROAD NOTTING HILL VIC 3168；Household Appliances and Electrical and Electronic Goods Merchant Wholesalers）+ zoominfo（+61 3 8542 2308）；2026-10-28，2026-10-28 查；https://yeastar.com.au/contact/）：**
+
+- 法定名 / 登记号：Aristel Networks Pty Ltd（aristel.com.au；**ABN 57 095 422 450；Unit 1, 25 Howleys Road, Notting Hill VIC 3168；03 8542 2308 / 1800 00 21 33；D&B 行业 电器电子产品批发**）— **电话 / 网络系统分销商（「Over 60k Systems Installed」；Yeastar Australia 总代、EnGenius、Durafon GSM；自有 AN42N 4 口 PoE 交换机 = 表内「商业 PoE，洪瑞（HRUI）的」→ Q-33 口径）**；KP Abraha Teklu（Technical Manager；sales@）；22 次跟进无回复 · ABN 57 095 422 450 · 状态 **营业中（ABN 在；官网在）** · 成立 未取（ABN 095 → 约 2000–2001 ACN 段） · Pty Ltd（Australian Private Company）
+- 行业码 / 经营范围：电话 / 网络系统分销（Notting Hill VIC）
+- 注册地址：Unit 1, 25 Howleys Road, Notting Hill VIC 3168, Australia
+- 规模档：小型
+- 账目：未取；—
+- 高管：Abraha Teklu — Technical Manager（研究档 KP；sales@aristel.com.au）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **HRUI 在供（Q-33 口径：只推 Marvell 管理 / 工业线）+ 22 次 0 回复 → 不动（B 保留；Q-33 口径确认后若 Simon 点名再发管理线一页纸）**
+- 备注：不动（22×0 + Q-33 口径待定）；坐实（ABN + 地址 + 电话）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -128,15 +141,17 @@ updated: 2026-10-28
 - **【用户表】商业 PoE 洪瑞的**
   > 商业POE 洪瑞的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Abraha Teklu（）sales@aristel.com.au 〔用户表〕
+- **KP**：Abraha Teklu（Technical Manager（研究档；sales@；22 次跟进无回复）— 不动，不发（Q-33 口径确认后若 Simon 点名再发管理线一页纸）（第 118 批 官方登记核实 2026-10-28））sales@aristel.com.au 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 澳大利亚 |
-| 其他 | 官网 aristel.com.au，语言 en-AU，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Aristel Networks Pty Ltd（ABN 57 095 422 450；D&B 行业 电器电子产品批发） |
+| 成立 | 未取（ABN 095 段 ≈ 2000–2001）（第 118 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Unit 1, 25 Howleys Road, Notting Hill VIC 3168（03 8542 2308 / 1800 00 21 33）（第 118 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 aristel.com.au，语言 en-AU，快照状态 ok；角色判定来源：官网文案；第 118 批：电话 / 网络系统分销商（Yeastar Australia 总代、EnGenius、Durafon；自有 AN42N 4 口 PoE = HRUI 在供 → Q-33 口径）+ 22×0 → **不动（B 保留）**；坐实（yeastar.com.au 自列 ABN + 地址 + 电话）— 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、RCM 不声称（DAP 买方清关）（第 118 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电话系统 / 网络设备（自有品牌 Aristel）；PoE 交换机（HRUI 供货）
 
@@ -248,7 +263,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Abraha Teklu | — | sales@aristel.com.au | 调研核实（公开页） | 用户表 |
+| Abraha Teklu | Technical Manager（研究档；sales@；22 次跟进无回复）— 不动，不发（Q-33 口径确认后若 Simon 点名再发管理线一页纸）（第 118 批 官方登记核实 2026-10-28） | sales@aristel.com.au | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 22 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

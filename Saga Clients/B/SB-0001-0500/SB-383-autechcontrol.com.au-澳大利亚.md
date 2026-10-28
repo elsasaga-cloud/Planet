@@ -78,6 +78,21 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 118 批（AU · 1 次检索：processonline.com.au（Autech Control Group Pty Ltd；Supply and support of Automation, Electrical and Instrumentation products and software；Unit 15, 104 Ferntree Gully Road, Oakleigh East Vic 3166；sales@autechcontrol.com.au）+ zaubee / facebook（15/104-106 Ferntree Gully Rd, Oakleigh East VIC 3166；+61 3 9544 0733；industrial/commercial automation and electrical product solutions）；ABN 未得；2026-10-28，2026-10-28 查；https://www.processonline.com.au/directories/autech-control-group-pty-ltd-1315942775）：**
+
+- 法定名 / 登记号：Autech Control Group Pty Ltd（autechcontrol.com.au；**Unit 15, 104-106 Ferntree Gully Road, Oakleigh East VIC 3166；+61 3 9544 0733；ABN 1 查未得（页面所示 ABN 22 152 305 336 为名录运营方 Westwick-Farrow Media，≠）→ 部分坐实**）— **自动化 / 电气 / 仪表产品供应与支持（Schneider 电表、Horner HMI、COME-STAR 串口服务器、Advantech ECU 网关、Maiwe 5 口导轨工业交换机 在供）**；KP Zifei Li（Automation Products Manager；zli@）；4 次跟进无回复 · 未取（ABN 1 查未得） · 状态 **营业中（名录 + 社媒）** · 成立 未取 · Pty Ltd
+- 行业码 / 经营范围：自动化 / 电气 / 仪表产品分销（Oakleigh East VIC）
+- 注册地址：Unit 15, 104-106 Ferntree Gully Road, Oakleigh East VIC 3166, Australia
+- 规模档：小型
+- 账目：未取；—
+- 高管：Zifei Li — Automation Products Manager（研究档 KP；zli@autechcontrol.com.au）= 收件人
+- 高管：sales@autechcontrol.com.au = 抄送
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自动化产品分销、已直接用国内 Maiwe 导轨机、产品经理为 KP、只跟过 4 次 → 分销 20% B small，一页纸一次（切口：对位其 5 口导轨机的 STI-054GP（4 PoE + 1 GE）/ STI-154GP（4 PoE + 1 GE + 1 SFP）+ 管理 STI-288DGGPM 一口价 + 3 年保 + MOQ 1 + 付费样机；串口服务器 / 网关不做明说；英文稿、英文称呼，不走中文直联）— 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（RCM 不声称、由买方自办；DAP 买方清关）**；再无回声 → 不动
+  - 守界：不点名 Maiwe；RCM 不声称
+- 备注：分销 20% small；一页纸一次；部分坐实（名录 + 社媒：法定名 + 地址 + 电话；ABN 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -120,15 +135,16 @@ updated: 2026-10-28
 - **【用户表】串口 工业 FS**
   > 串口 工业FS
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Zifei Li（）zli@autechcontrol.com.au 〔用户表〕
+- **KP**：Zifei Li（Automation Products Manager（研究档；4 次跟进无回复）= 收件人（sales@ 抄送）— 一页纸一次：分销 20% B small、对位其 5 口导轨机的 STI-054GP / STI-154GP + 管理 STI-288DGGPM 一口价、3 年保 + MOQ 1 + 付费样机、串口服务器 / 网关不做明说、英文称呼不走中文直联 — 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、RCM 不声称（DAP 买方清关）（第 118 批 官方登记核实 2026-10-28））zli@autechcontrol.com.au 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 澳大利亚 |
-| 其他 | 官网 autechcontrol.com.au，语言 en-AU，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Autech Control Group Pty Ltd（ABN 1 查未得；名录页所示 22 152 305 336 为 Westwick-Farrow Media ≠） |
+| 总部/地址 | Unit 15, 104-106 Ferntree Gully Road, Oakleigh East VIC 3166（+61 3 9544 0733）（第 118 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 autechcontrol.com.au，语言 en-AU，快照状态 ok；角色判定来源：官网文案；第 118 批：自动化 / 电气 / 仪表产品分销（Schneider 电表、Horner HMI、Advantech 网关、Maiwe 5 口导轨机在供），产品经理为 KP、只跟过 4 次 → **分销 20% B small，一页纸一次**；再无回声 → 不动；部分坐实（processonline 名录 + 社媒）（第 118 批 官方登记核实 2026-10-28） |
 
 - **业务线**：自动化产品分销与服务
 
@@ -226,7 +242,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Zifei Li | — | zli@autechcontrol.com.au | 调研核实（公开页） | 用户表 |
+| Zifei Li | Automation Products Manager（研究档；4 次跟进无回复）= 收件人（sales@ 抄送）— 一页纸一次：分销 20% B small、对位其 5 口导轨机的 STI-054GP / STI-154GP + 管理 STI-288DGGPM 一口价、3 年保 + MOQ 1 + 付费样机、串口服务器 / 网关不做明说、英文称呼不走中文直联 — 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、RCM 不声称（DAP 买方清关）（第 118 批 官方登记核实 2026-10-28） | zli@autechcontrol.com.au | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

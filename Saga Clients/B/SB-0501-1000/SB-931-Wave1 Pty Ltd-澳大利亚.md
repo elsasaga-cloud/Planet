@@ -81,6 +81,20 @@ updated: 2026-10-28
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 - 【惯例】12-18→01-25：澳新夏休：12-18 起到 1 月下旬，很多公司直接关到澳大利亚日（1-26）后
 
+**公司底数 · 第 118 批（AU · 1 次检索：creditorwatch.com.au/credit/profile/74006395026（WAVE1 PTY LTD；ABN 74 006 395 026；ACN 006 395 026；first registered with ASIC 1985-04-01；ABN Registered Date 09-02-2000；Entity Status Active；Australian Private Company；GST from 01-07-2000；Rowville Victoria 3178）+ dnb（19 LASER DR ROWVILLE VIC 3178；+61-392127200）+ crunchbase（11-50；Licensed Microwave Systems）；2026-10-28，2026-10-28 查；https://creditorwatch.com.au/credit/profile/74006395026）：**
+
+- 法定名 / 登记号：Wave1 Pty Ltd（wave1.com.au；**ABN 74 006 395 026 / ACN 006 395 026；ASIC 注册 1985-04-01；ABN 生效 2000-02-09；GST 2000-07-01 起；Australian Private Company, Limited by Shares；Active**；19 Laser Drive, Rowville VIC 3178；+61 3 9212 7200；11–50 人）— **无线 / 微波通信集成商（许可微波系统、自协调许可短距链路、楼宇间无线、塔架 / 拖车基础设施、安装）**；KP Wayne Anderson（CEO）；表内「工业 FS」「可以多跟进一下」；22 次跟进无回复 · ABN 74 006 395 026 / ACN 006 395 026 · 状态 **Active（ASIC Registered；GST 登记）** · 成立 1985-04-01 · Australian Proprietary Company, Limited by Shares
+- 行业码 / 经营范围：无线 / 微波通信系统集成 + 安装（Rowville VIC）
+- 注册地址：19 Laser Drive, Rowville VIC 3178, Australia
+- 规模档：小型（11–50）
+- 账目：未取；—
+- 高管：Wayne Anderson — CEO（研究档 KP；wayne@wave1.com.au；备用 wayneand4305@icloud.com）= 拍板人 / 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **41 年无线集成商、CEO 为 KP、Simon「可以多跟进」→ 集成商 25% B，一页纸一次（最后一次：切口 = 基站 / 塔架侧宽温 PoE STI-154GP / STI-288DGGPM（802.3at，给 PoE 供电的无线电 / 摄像机）+ 机房侧 STC-4424GCPM 一口价 + 3 年保 + MOQ 1 + 付费样机；无源 PoE 电台不兼容明说；英文，Wayne 直呼，发 wave1 邮箱抄 icloud）— 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（RCM 不声称、由买方自办；DAP 买方清关）**；22×0 在先 → 再无回声即不动
+  - 守界：微波 / 射频设备不碰；RCM 不声称
+- 备注：集成商 25%；一页纸一次（最后一次）；坐实（ABN + ACN + 注册日 + 类型 + GST + 地址）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -123,15 +137,17 @@ updated: 2026-10-28
 - **【用户表】工业 FS；可以多跟进**
   > 工业FS；Wayne Anderson / CEO 可以多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Wayne Anderson（）wayne@wave1.com.au 〔用户表〕
+- **KP**：Wayne Anderson（CEO（研究档；备用 wayneand4305@icloud.com；22 次跟进无回复；Simon「可以多跟进一下」）= 拍板人 / 收件人 — 一页纸一次（最后一次）：集成商 25% B、基站 / 塔架侧宽温 PoE STI-154GP / STI-288DGGPM（802.3at 给 PoE 电台 / 摄像机供电）+ 机房 STC-4424GCPM 一口价、无源 PoE 电台不兼容明说、3 年保 + MOQ 1 + 付费样机 — 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、RCM 不声称（DAP 买方清关）（第 118 批 官方登记核实 2026-10-28））wayne@wave1.com.au 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 澳大利亚 |
-| 其他 | 官网 wave1.com.au，语言 en-AU，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Wave1 Pty Ltd（ABN 74 006 395 026 / ACN 006 395 026；Australian Proprietary Company, Limited by Shares；Active；GST 2000-07-01 起） |
+| 成立 | 1985-04-01（ASIC）；ABN 2000-02-09（第 118 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 19 Laser Drive, Rowville VIC 3178（+61 3 9212 7200）（第 118 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 wave1.com.au，语言 en-AU，快照状态 ok；角色判定来源：官网文案；第 118 批：41 年无线 / 微波通信集成商（许可微波、楼宇间无线、塔架 / 拖车、安装），CEO 为 KP → **集成商 25% B，一页纸一次（最后一次）**；22×0 在先 → 再无回声即不动；坐实（creditorwatch：ABN + ACN + 注册日 + 类型 + GST）；微波 / 射频不碰（第 118 批 官方登记核实 2026-10-28） |
 
 - **业务线**：无线微波通信 / 基础设施集成（澳大利亚）
 - **触达通道（公开）**：role: 无线微波通信集成商（澳大利亚）；region: 澳大利亚；contact: wayneand4305@icloud.com、wayne@wave1.com.au
@@ -241,7 +257,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Wayne Anderson | — | wayne@wave1.com.au | 调研核实（公开页） | 用户表 |
+| Wayne Anderson | CEO（研究档；备用 wayneand4305@icloud.com；22 次跟进无回复；Simon「可以多跟进一下」）= 拍板人 / 收件人 — 一页纸一次（最后一次）：集成商 25% B、基站 / 塔架侧宽温 PoE STI-154GP / STI-288DGGPM（802.3at 给 PoE 电台 / 摄像机供电）+ 机房 STC-4424GCPM 一口价、无源 PoE 电台不兼容明说、3 年保 + MOQ 1 + 付费样机 — 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、RCM 不声称（DAP 买方清关）（第 118 批 官方登记核实 2026-10-28） | wayne@wave1.com.au | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 22 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

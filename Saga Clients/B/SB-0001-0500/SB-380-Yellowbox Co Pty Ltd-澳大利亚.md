@@ -73,6 +73,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 118 批（AU · 1 次检索：buy.nsw.gov.au/supplier/profile/43702（Yellowbox Co Pty Ltd；ABN 14 634 603 697；SME；NSW-based）+ crunchbase（Legal Name Yellowbox Co Pty Ltd；Kensington, South Australia；1-10；Pre-Seed；founder Adrian Brossard）+ ict.co 手册（Adrian Brossard +61 426 292 533 adrian@yellowbox.com.au；Australia / NZ / US）；2026-10-28，2026-10-28 查；https://buy.nsw.gov.au/supplier/profile/43702）：**
+
+- 法定名 / 登记号：Yellowbox Co Pty Ltd（yellowbox.app / yellowboxglobal.com；**ABN 14 634 603 697（ACN 634 段 ≈ 2019 注册）；NSW 政府 buy.nsw 供应商（SME、NSW-based）；Crunchbase 1–10 人、Pre-Seed、Kensington SA；创始人 Adrian Brossard（+61 426 292 533，公开手册 adrian@yellowbox.com.au）**）— 职场 / 公共智能储物柜系统（电子锁 + 触屏 kiosk + App；澳 / 欧 / 新 / 北美装机）；阿里巴巴 RFQ「千兆 PoE Injector」；表内未跟进 · ABN 14 634 603 697 · 状态 **营业中（ABN 在；官网在）** · 成立 约 2019（ACN 634 段推定） · Pty Ltd（初创）
+- 行业码 / 经营范围：智能储物柜系统（软硬件；澳洲）
+- 注册地址：Kensington SA / NSW（门牌未取）, Australia
+- 规模档：微型（1–10）
+- 账目：未取；—
+- 高管：Adrian Brossard — Founder（研究档 KP；contact@yellowbox.app；公开手册 adrian@yellowbox.com.au + 手机）
+- 控制人 / 股东：Adrian Brossard（推定）
+- **这意味着什么：**
+  - **需求 = PoE 注入器（Saga 无）+ 初创 1–10 人 + kiosk 单点用电 → 不动（B 保留；若 kiosk 组网要小 PoE 交换机再按集成商 25% 报 STI-054GP）**
+- 备注：不动（需求不对位 + 微型初创）；坐实（政府供应商库 ABN + 法人名）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -105,15 +118,17 @@ updated: 2026-10-28
 - **【用户表】千兆 PoE Injector RFQ**
   > 千兆PoE Injector / from: 阿里巴巴RFQ
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Adrian Brossard（）contact@yellowbox.app 〔用户表〕
+- **KP**：Adrian Brossard（Founder（Crunchbase 创始人；公开手册 +61 426 292 533 / adrian@yellowbox.com.au；阿里巴巴 RFQ 千兆 PoE 注入器）— 不动，不发（kiosk 组网要小 PoE 交换机再按集成商 25% 报 STI-054GP）（第 118 批 官方登记核实 2026-10-28））contact@yellowbox.app 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 澳大利亚 |
-| 其他 | 官网 yellowbox.app，语言 en-AU，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Yellowbox Co Pty Ltd（ABN 14 634 603 697；buy.nsw 供应商 SME / NSW-based） |
+| 成立 | 约 2019（ACN 634 段推定）（第 118 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Kensington SA / NSW（门牌未取）（第 118 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 yellowbox.app，语言 en-AU，快照状态 ok；角色判定来源：官网文案；第 118 批：职场 / 公共智能储物柜系统初创（澳 / 欧 / 新 / 北美装机），需求 = PoE 注入器（Saga 无）→ **不动（B 保留）**；坐实（政府供应商库 ABN + 法人名）（第 118 批 官方登记核实 2026-10-28） |
 
 - **业务线**：智能储物柜系统（澳大利亚）
 - **触达通道（公开）**：role: 智能储物柜系统商（澳大利亚，PoE 为配套）；region: 澳大利亚；contact: contact@yellowbox.app
@@ -172,7 +187,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Adrian Brossard | — | contact@yellowbox.app | 调研核实（公开页） | 用户表 |
+| Adrian Brossard | Founder（Crunchbase 创始人；公开手册 +61 426 292 533 / adrian@yellowbox.com.au；阿里巴巴 RFQ 千兆 PoE 注入器）— 不动，不发（kiosk 组网要小 PoE 交换机再按集成商 25% 报 STI-054GP）（第 118 批 官方登记核实 2026-10-28） | contact@yellowbox.app | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

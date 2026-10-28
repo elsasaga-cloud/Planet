@@ -73,6 +73,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 118 批（PK · 1 次检索：businesslist.pk/company/243438（SYNCHCOM Private Limited；established in 2004；693, Rehman Baba Road, Sector I-8/4, Islamabad；+923355225522；synchcom.com.pk）+ citybase 分类广告（+92-321-5280052 Skype muhammad.babar294 SYNCHCOM (PVT) LTD 693 Rahman Baba Road）+ tendata（SYNCHCOM PVT LTD.；HO NO 915, ST NO 90, SECTOR I-8/4；most recent trade date 07 May 2026；HS 85176990, 85176260, 85340000）；SECP 号未得；2026-10-28，2026-10-28 查；https://www.businesslist.pk/company/243438/synchcom-private-limited）：**
+
+- 法定名 / 登记号：SYNCHCOM (Pvt) Ltd（synchsoft.com.pk / synchcom.com.pk；**2004 年成立；693 Rehman Baba Road, Sector I-8/4, Islamabad 44000（名录 + KP 广告署名）/ House 915, Street 90, I-8/4（海关记录）；+92 335 522 5522；Muhammad Babar +92 321 528 0052 = 广告署名 ✓；海关进口记录至 2026-05（HS 8517.69 / 8517.62 网络通信设备、8534 PCB）→ 坐实（名录 + 海关三合一）**）— 电信 / 光纤器材贸易 + IT（SDH / PMUX / 光 modem / ODF / 跳线 / 无线路由 / G.SHDSL；站内 PoE 词频 19）；需求 USB 转千兆 MC（Saga 无）；价格敏感；WA 4 次无实质回复 · 未取（(Pvt) Ltd；SECP 号 1 查未得；海关进口记录在） · 状态 **营业中（2026-05 仍在进口）** · 成立 2004 · (Pvt) Ltd
+- 行业码 / 经营范围：电信 / 光纤器材贸易 + 进口（I-8/4, Islamabad）
+- 注册地址：693 Rehman Baba Road, Sector I-8/4, Islamabad 44000, Pakistan
+- 规模档：小型
+- 账目：未取；—
+- 高管：Muhammad Babar — 表内联系人（研究档 KP；bob@synchsoft.com.pk；+92 321 528 0052；广告署名吻合）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **真实进口商但需求 = USB 千兆 MC（Saga 无）+ 价格敏感 + WA 4×0 → 不动（B 保留；交换机来询按分销 20% 报，预付 100%）**
+- 备注：不动（需求不对位 + 4×0）；坐实（名录 + KP 署名 + 海关进口记录；SECP 号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -98,15 +111,17 @@ updated: 2026-10-28
 - **【用户表】USB to 1000M media converter；对价格比较敏感**
   > 兴趣：USB to 1000M media converter
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Muhammad Babar（）bob@synchsoft.com.pk +92 321 528 0052〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Muhammad Babar（表内联系人（SYNCHCOM 分类广告署名 +92 321 528 0052 吻合；需求 USB 千兆 MC；价格敏感；WA 4 次无实质回复）— 不动，不发（交换机来询按分销 20% 报，预付 100%）（第 118 批 官方登记核实 2026-10-28））bob@synchsoft.com.pk +92 321 528 0052〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | SYNCHCOM (Pvt) Ltd |
-| 总部/地址 | 巴基斯坦 |
+| 法定名称 | SYNCHCOM (Pvt) Ltd（synchsoft.com.pk / synchcom.com.pk；SECP 号 1 查未得；海关进口记录至 2026-05，HS 8517.69 / 8517.62 / 8534） |
+| 成立 | 2004（第 118 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 693 Rehman Baba Road, Sector I-8/4, Islamabad 44000（+92 335 522 5522）；海关地址 House 915, Street 90, I-8/4（第 118 批 官方登记核实 2026-10-28） |
+| 其他 | 第 118 批：电信 / 光纤器材贸易 + 进口商（SDH / PMUX / 光 modem / ODF / 无线路由），需求 USB MC（Saga 无）+ 4×0 → **不动（B 保留）**；坐实（businesslist 名录 + KP 广告署名 + tendata 进口记录）（第 118 批 官方登记核实 2026-10-28） |
 
 - **触达通道（公开）**：role: IT 经销（推断）；region: 巴基斯坦
 - **风险/边界**：需求 USB MC 不在 Saga 线；价格敏感
@@ -166,7 +181,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Muhammad Babar | — | bob@synchsoft.com.pk / +92 321 528 0052 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Muhammad Babar | 表内联系人（SYNCHCOM 分类广告署名 +92 321 528 0052 吻合；需求 USB 千兆 MC；价格敏感；WA 4 次无实质回复）— 不动，不发（交换机来询按分销 20% 报，预付 100%）（第 118 批 官方登记核实 2026-10-28） | bob@synchsoft.com.pk / +92 321 528 0052 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 

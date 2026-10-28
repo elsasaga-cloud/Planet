@@ -74,6 +74,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 118 批（AE · 1 次检索：yello.ae（Niaar General Trading LLC；established in 2006；Box No. 183583, Dubai；niaar.net）+ niaar.net 页脚 2026-06（Office 109, Al wasl Building, Al Wasl, Sheikh Zayed Road, Dubai；Mining Industry Solutions；lubrication / grease pumps 等工业品）；牌照号未得；2026-10-28，2026-10-28 查；https://www.yello.ae/company/80950/niaar-general-trading-llc）：**
+
+- 法定名 / 登记号：Niaar General Trading LLC（niaar.net；**2006 年成立；P.O. Box 183583；Office 109, Al Wasl Building, Al Wasl, Sheikh Zayed Road, Dubai；牌照号 1 查未得 → 部分坐实**）— 工业采购 / 供应平台（矿业 / 能源 / 制造 / 海事：ABB、Advantech、Schneider、Moxa、SKF、Goodyear …；项目驱动、比价）；KP Pouriya Najafabadi；2024-01 对 2 光 4「暂时没需求」；WA 23 次无回复 · 未取（LLC；牌照号 1 查未得） · 状态 **营业中（官网 2026 更新）** · 成立 2006 · LLC（General Trading）
+- 行业码 / 经营范围：工业品采购 / 供应平台（Sheikh Zayed Road）
+- 注册地址：Office 109, Al Wasl Building, Sheikh Zayed Road, Dubai, UAE (P.O. Box 183583)
+- 规模档：小型
+- 账目：未取；—
+- 高管：Pouriya Najafabadi — 负责人（研究档 KP；pouriya@niaar.net；+971 50 858 0255）
+- 控制人 / 股东：Pouriya Najafabadi（推定）
+- **这意味着什么：**
+  - **比价型工业采购平台 + 明说「暂时没需求」+ WA 23 次 0 回复 → 不动（B 保留；项目来询按分销 20% 预付）**
+- 备注：不动（比价平台 + 23×0）；部分坐实（名录 + 官网页脚；牌照号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -100,17 +113,17 @@ updated: 2026-10-28
 - **【用户表】兴趣收发器；2024-01 2 光 4→暂时没需求**
   > 兴趣：收发器；回复：暂时没需求
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Pouriya Najafabadi（）pouriya@niaar.net +971 50 858 0255〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Pouriya Najafabadi（负责人（研究档；WA 23 次无回复；2024-01「暂时没需求」）— 不动，不发（第 118 批 官方登记核实 2026-10-28））pouriya@niaar.net +971 50 858 0255〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 守界标注））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | NIAAR（待核） |
-| 成立 | （待核） |
-| 总部/地址 | Office 109, Al Wasl Building, Sheikh Zayed Road, Dubai |
-| 其他 | ISO 9001；伊朗裔经营（注意最终用户去向，守界：不供伊朗） |
+| 法定名称 | Niaar General Trading LLC（牌照号 1 查未得） |
+| 成立 | 2006（第 118 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Office 109, Al Wasl Building, Sheikh Zayed Road, Dubai（P.O. Box 183583）（第 118 批 官方登记核实 2026-10-28） |
+| 其他 | ISO 9001；伊朗裔经营（注意最终用户去向，守界：不供伊朗）；第 118 批：工业品采购 / 供应平台（矿业 / 能源 / 制造；ABB / Advantech / Schneider / Moxa / SKF …，比价型）+ 明说没需求 + 23×0 → **不动（B 保留）**；部分坐实（yello.ae 名录 + 官网页脚）（第 118 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业品采购 / 供应（电气、自动化、IT 通信）
 - **触达通道（公开）**：role: 采购平台 / 贸易商；region: 阿联酋 + 中东（注意再出口）
@@ -199,7 +212,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Pouriya Najafabadi | — | pouriya@niaar.net / +971 50 858 0255 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Pouriya Najafabadi | 负责人（研究档；WA 23 次无回复；2024-01「暂时没需求」）— 不动，不发（第 118 批 官方登记核实 2026-10-28） | pouriya@niaar.net / +971 50 858 0255 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Mr.Pouriya | — | info@niaar.net / sales@niaar.net / +971508580255 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；邮件已推送 23 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板

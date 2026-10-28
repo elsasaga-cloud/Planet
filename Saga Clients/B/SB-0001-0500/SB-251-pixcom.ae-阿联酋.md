@@ -75,6 +75,20 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 118 批（AE · 1 次检索：pixcom.ae（PIXCOM TECHNOLOGIES LLC is a full-service solution provider of digital signage, LED Displays interactive kiosks, Media network solutions；Kiosk Manufacturing；P O Box 252173, Dubai；+971 4 580 6222；marketing@pixcom.ae）+ pixcom.ae/contact（India Pixcom HQ / Dubai / Hong Kong / London）；牌照号未得；2026-10-28，2026-10-28 查；https://pixcom.ae/contact/）：**
+
+- 法定名 / 登记号：Pixcom Technologies LLC（pixcom.ae；**P.O. Box 252173, Dubai；+971 4 580 6222；办公室 印度 HQ / 迪拜 / 香港 / 伦敦；牌照号 1 查未得 → 部分坐实**）— **数字标牌 / LED 显示 / 互动一体机 / 自制 kiosk 全案商（City Walk LED、迪拜智能警局合作方；集团含 Pixcom Industries / Prosign Systems，100–200+ 人级）**；表内 KP Khaleel Aboobacker（gmail，WA 已加）2024-03 回「multicast support switch」= 要支持组播的管理型小交换机（标牌 / 视频墙组播分发） · 未取（LLC；牌照号 1 查未得） · 状态 **营业中（官网在）** · 成立 2003 / 2004（自述） · LLC（Pixcom Technologies LLC；集团多法人）
+- 行业码 / 经营范围：数字标牌 / LED / 互动 kiosk 全案 + 制造（迪拜）
+- 注册地址：P.O. Box 252173, Dubai, UAE（门牌未取）
+- 规模档：中小（100–200+ 级，自述）
+- 账目：未取；—
+- 高管：Khaleel Aboobacker — 表内联系人（研究档 KP；khaleel.abckrk@gmail.com；+971 50 671 7325 WA 已加；职务未核）= 收件人（WA 为主）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **标牌全案商、KP 明确要「支持组播的交换机」→ 集成商 25% B small，一页纸一次（切口：直接答组播 = L2+ 管理 STC-4424GCPM（IGMP Snooping，Marvell）$165 + 小机位用 STI-288DGGPM（管理、IGMP）$137；非管理 STC 系列不做组播控制明说；MOQ 1、付费样机、DAP 迪拜；opener 引 2024-03 他的「multicast」一句；WA 发链接；英文）— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关；TDRA / ESMA 不声称、由买方自办）**；再无回声 → 不动
+  - 守界：gmail KP → 预付 100%；LED / 标牌产品不碰
+- 备注：集成商 25% small；一页纸一次（预付；WA）；部分坐实（官网：法定名 + P.O. Box + 电话 + 四地办公室；牌照号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -109,17 +123,17 @@ updated: 2026-10-28
 - **【用户表】2024-03-15 回复：multicast support switch**
   > 发了2光8商业POE管理信息 → multicast support switch
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Khaleel Aboobacker（（职位未核；表内联系人））khaleel.abckrk@gmail.com +971 50 671 7325（WA 已加）〔用户 Clients 表〕
+- **KP**：Khaleel Aboobacker（表内联系人（gmail；WA +971 50 671 7325 已加；2024-03 回「multicast support switch」）= 收件人（WA 为主）— 一页纸一次：集成商 25% B small、直接答组播 = STC-4424GCPM（L2+ Marvell，IGMP Snooping）$165 / STI-288DGGPM $137、非管理 STC 不做组播控制明说、MOQ 1 + 付费样机 + DAP 迪拜 — 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关）、TDRA / ESMA 不声称（第 118 批 官方登记核实 2026-10-28））khaleel.abckrk@gmail.com +971 50 671 7325（WA 已加）〔用户 Clients 表〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + LinkedIn/RocketReach 核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Pixcom Technologies LLC |
-| 成立 | 2003（LinkedIn/CB Insights）/ 2004（官网创始人叙述） |
-| 总部/地址 | Company C05, Dubai Production City（IMPZ），P.O. Box 252173, Dubai, UAE；+971 4 580 6222；marketing@pixcom.ae |
-| 其他 | 创始人 Shihas Kizhisseri 与 Shabab Kizhisseri 兄弟（喀拉拉裔）；集团含 Pixcom Industries（一体机/LED 结构制造）、Prosign Systems FZ LLC、Pixcom Engineering & Contracting；客户 Nakheel、Emaar、Meraas、Aldar |
+| 法定名称 | PIXCOM TECHNOLOGIES LLC（牌照号 1 查未得；集团 Pixcom Industries / Prosign Systems） |
+| 成立 | 2003 / 2004（自述）（第 118 批 官方登记核实 2026-10-28） |
+| 总部/地址 | P.O. Box 252173, Dubai（+971 4 580 6222）；办公室 印度 HQ / 迪拜 / 香港 / 伦敦（第 118 批 官方登记核实 2026-10-28） |
+| 其他 | 创始人 Shihas Kizhisseri 与 Shabab Kizhisseri 兄弟（喀拉拉裔）；集团含 Pixcom Industries（一体机/LED 结构制造）、Prosign Systems FZ LLC、Pixcom Engineering & Contracting；客户 Nakheel、Emaar、Meraas、Aldar；第 118 批：数字标牌 / LED / 互动 kiosk 全案 + 自制（City Walk LED、迪拜智能警局合作方），KP 明确要支持组播的交换机 → **集成商 25% B small，一页纸一次（WA）**；再无回声 → 不动；部分坐实（官网：法定名 + P.O. Box + 电话 + 四地办公室）；gmail KP → 预付 100%（第 118 批 官方登记核实 2026-10-28） |
 
 - **业务线**：数字标牌与 LED 显示屏（室内外、楼宇幕墙、电梯屏网络）；互动一体机/Kiosk 设计制造；内容管理软件、托管服务、远程监控与运维；大型标识结构与土建安装
 - **触达通道（公开）**：official: marketing@pixcom.ae / +971 4 580 6222；contact: Khaleel Aboobacker khaleel.abckrk@gmail.com，+971 50 671 7325（WA 已加）；linkedin: linkedin.com/company/pixcom-technologies
@@ -206,7 +220,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Khaleel Aboobacker | （职位未核；表内联系人） | khaleel.abckrk@gmail.com / +971 50 671 7325（WA 已加） | 调研核实（公开页） | 用户 Clients 表 |
+| Khaleel Aboobacker | 表内联系人（gmail；WA +971 50 671 7325 已加；2024-03 回「multicast support switch」）= 收件人（WA 为主）— 一页纸一次：集成商 25% B small、直接答组播 = STC-4424GCPM（L2+ Marvell，IGMP Snooping）$165 / STI-288DGGPM $137、非管理 STC 不做组播控制明说、MOQ 1 + 付费样机 + DAP 迪拜 — 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关）、TDRA / ESMA 不声称（第 118 批 官方登记核实 2026-10-28） | khaleel.abckrk@gmail.com / +971 50 671 7325（WA 已加） | 调研核实（公开页） | 用户 Clients 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；仅免费邮箱：可发，但优先找官网公开的企业邮箱（见调研 KP）
 

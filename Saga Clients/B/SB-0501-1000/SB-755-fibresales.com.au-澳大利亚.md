@@ -86,6 +86,19 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 118 批（AU · 1 次检索：fibresalesau.medium.com（FibreSales: Australia’s number 1 online supplier of patch cables, pigtails, media converters；Yamasaki media converter）+ slideserve 2016（fibresales.com.au；Call us at 03-9761-7925）；ABN 未得；2026-10-28，2026-10-28 查；https://fibresales.com.au/）：**
+
+- 法定名 / 登记号：Fibresales（fibresales.com.au；墨尔本东区 03-9761-7925；**法人 / ABN 1 查未得 → 部分坐实**）— 光纤产品网店（跳线 / 尾纤 / MC / SFP / 熔接工具；自有牌 Yamasaki MC）；表内「MC SFP 自己的牌子（周边）… 没有工业 FS … 质量一般」；无 KP（sales@）；表内未跟进 · 未取（ABN 1 查未得） · 状态 **营业中（官网重定向 + 社媒）** · 成立 未取 · 未取（Pty Ltd 推定）
+- 行业码 / 经营范围：光纤配件 / MC / SFP 网店（墨尔本）
+- 注册地址：未取（Melbourne VIC；03 区号）
+- 规模档：微型
+- 账目：未取；—
+- 高管：（研究档无 KP：sales@fibresales.com.au）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **产品不对位（MC / SFP 网店；Saga 仅 STC-110XGE 一款 MC、无 SFP）+ 无 KP + 从未跟进 → 不动（B 保留）**
+- 备注：不动（产品不对位 + 无 KP）；部分坐实（社媒 + 电话；ABN 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -120,8 +133,9 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 澳大利亚 |
-| 其他 | 官网 fibresales.com.au，语言 ?，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Fibresales（法人 / ABN 1 查未得） |
+| 总部/地址 | Melbourne VIC（03-9761-7925；门牌未取）（第 118 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 fibresales.com.au，语言 ?，快照状态 ok；角色判定来源：用户表；第 118 批：光纤配件 / MC / SFP 网店（自有牌 Yamasaki MC；「质量一般」）→ 产品不对位（Saga 仅 STC-110XGE）+ 无 KP + 从未跟进 → **不动（B 保留）**；部分坐实（社媒 + 电话）（第 118 批 官方登记核实 2026-10-28） |
 
 - **业务线**：光纤配件 / MC（自有品牌）
 - **触达通道（公开）**：role: 光纤配件品牌商（澳大利亚，自有标 MC）；region: 澳大利亚；contact: sales@fibresales.com.au

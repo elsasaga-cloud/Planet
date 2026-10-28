@@ -72,6 +72,20 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 118 批（PK · 1 次检索：linkedin.com/in/abdul-mateen-awan-050a5a93（Swift Solution & Services；Islāmābād）+ 研究档 icci.pk/listing/swift-solution-services（Proprietor Abdul Mateen Awan；+92 333 512 0078）；登记号未得；2026-10-28，2026-10-28 查；https://www.icci.pk/listing/swift-solution-services/）：**
+
+- 法定名 / 登记号：Swift Solution & Services（swift.net.pk；**伊斯兰堡；业主 Abdul Mateen Awan（领英 + ICCI 会员名录）；2003 年成立；登记号 1 查未得 → 部分坐实**）— 电信 / 网络 / 广播方案商（视频会议、数据通信、生物识别、RFID、无线电广播、IP 电话；客户含政府 / 广播 / 国防 / 教育 → 守界按单核）；表内兴趣「1 光 8 ST」、2024-05 要商用交换机价目 · 未取（独资；登记号 1 查未得） · 状态 **营业中（商会名录 + 领英）** · 成立 2003 · 独资（Proprietor 口径）
+- 行业码 / 经营范围：电信 / 网络 / 广播方案（Islamabad）
+- 注册地址：Islamabad, Pakistan（门牌未取）
+- 规模档：小型
+- 账目：未取；—
+- 高管：Abdul Mateen Awan — Proprietor（研究档 KP；mateen@swift.net.pk；+92 333 512 0078）= 拍板人 / 收件人
+- 控制人 / 股东：Abdul Mateen Awan
+- **这意味着什么：**
+  - **业主本人要过价目、需求明确（1 光 8 电）→ 集成商 25% B，一页纸一次（切口：STC-228GP $33（8 电 + 2 SFP）/ STI-288DGGPM $137（工业管理）+ STC-2224GP $86 一口价 + MOQ 1 + 付费样机；英文，Mateen 直呼；opener 引 2024-05 他要价目）— 巴基斯坦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（PTA 不声称；进口清关 / 关税全由买方）**；再无回声 → 不动
+  - 守界：国防 / 政府 / 广播项目按单核，不主动提；PTA 不声称
+- 备注：集成商 25%；一页纸一次（预付 100%）；部分坐实（商会名录 + 领英：业主 + 成立年；登记号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -103,17 +117,17 @@ updated: 2026-10-28
 - **【用户表】兴趣 1 光 8 ST；2024-05 mini 工业机→要商业交换机 price list**
   > 兴趣：1光8 ST；回复：商业交换机的price list
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Abdul Mateen Awan（）mateen@swift.net.pk +92 333 512 0078〔https://www.icci.pk/listing/swift-solution-services/〕
+- **KP**：Abdul Mateen Awan（Proprietor（ICCI 会员名录 + 领英；2024-05 要商用交换机价目；兴趣 1 光 8 电）= 拍板人 / 收件人 — 一页纸一次：集成商 25% B、STC-228GP $33（8 电 + 2 SFP）/ STI-288DGGPM $137 / STC-2224GP $86 一口价、MOQ 1 + 付费样机、opener 引 2024-05 他要价目 — 巴基斯坦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、PTA 不声称（第 118 批 官方登记核实 2026-10-28））mateen@swift.net.pk +92 333 512 0078〔https://www.icci.pk/listing/swift-solution-services/〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 名录核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Swift Solution & Services |
-| 成立 | 2003 |
-| 总部/地址 | D-14L Naval Shopping Complex, E-8, Islamabad, Pakistan |
-| 其他 | ICCI 会员 |
+| 法定名称 | Swift Solution & Services（独资；登记号 1 查未得） |
+| 成立 | 2003（第 118 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Islamabad（门牌未取）（第 118 批 官方登记核实 2026-10-28） |
+| 其他 | ICCI 会员；第 118 批：电信 / 网络 / 广播方案商（视频会议 / 数据通信 / RFID / IP 电话；客户含政府 / 广播 / 国防 / 教育）→ **集成商 25% B，一页纸一次**；再无回声 → 不动；部分坐实（商会名录 + 领英）；国防 / 政府 / 广播项目按单核不主动提（第 118 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电信 / 数据通信集成；广播与无线电；视频会议 / IP 电话；生物识别 / RFID
 - **触达通道（公开）**：role: 系统集成 / 方案商（项目）；region: 巴基斯坦
@@ -182,7 +196,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Abdul Mateen Awan | — | mateen@swift.net.pk / +92 333 512 0078 | 调研核实（公开页） | https://www.icci.pk/listing/swift-solution-services/ |
+| Abdul Mateen Awan | Proprietor（ICCI 会员名录 + 领英；2024-05 要商用交换机价目；兴趣 1 光 8 电）= 拍板人 / 收件人 — 一页纸一次：集成商 25% B、STC-228GP $33（8 电 + 2 SFP）/ STI-288DGGPM $137 / STC-2224GP $86 一口价、MOQ 1 + 付费样机、opener 引 2024-05 他要价目 — 巴基斯坦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、PTA 不声称（第 118 批 官方登记核实 2026-10-28） | mateen@swift.net.pk / +92 333 512 0078 | 调研核实（公开页） | https://www.icci.pk/listing/swift-solution-services/ |
 | Mr.Abdul Mateen Awan | — | mateen@swift.net.pk / +923335120078 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发

@@ -89,6 +89,21 @@ updated: 2026-10-28
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 - 【惯例】12-18→01-25：澳新夏休：12-18 起到 1 月下旬，很多公司直接关到澳大利亚日（1-26）后
 
+**公司底数 · 第 118 批（AU · 1 次检索：rocketreach（Eltech Australia Pty Ltd；31 Jersey Rd, Bayswater VIC 3153；+61 1800 007 458；Founded 1995；78 employees；$5.7M）+ top4.com.au（established in 1995 in Melbourne … standalone importer and wholesale distributor of electrical accessories；Industrial Cables / Enclosures / Switchgear / Panel Accessories）+ lusha（Wholesale；1995；11-50）；ABN 未得；2026-10-28，2026-10-28 查；https://rocketreach.co/eltech-australia-pty-ltd-profile_b5f09e47f622651c）：**
+
+- 法定名 / 登记号：Eltech Australia Pty Ltd（eltech.com.au；**1995 年墨尔本创立；31 Jersey Road, Bayswater VIC 3153；1800 007 458；墨尔本 / 悉尼 / 布里斯班三仓；78 人 / 营收 $5.7M（RocketReach 口径）；ABN 1 查未得 → 部分坐实**）— **独立进口 + 电气配件批发分销商（工业电缆、箱体、开关设备 KIKBLOX 模块化配电、面板配件、线缆管理 / 端接、线管）**；表内「少量 switch，自己的 logo」；KP Todd Cuneo（Product Manager）/ Jolyn Soo（Engineering Manager）；21 次跟进无回复 · 未取（ABN 1 查未得） · 状态 **营业中（官网在）** · 成立 1995 · Pty Ltd
+- 行业码 / 经营范围：电气配件进口 + 批发分销（Bayswater VIC；三仓）
+- 注册地址：31 Jersey Road, Bayswater VIC 3153, Australia
+- 规模档：中小（11–78，口径不一）
+- 账目：未取；—
+- 高管：Todd Cuneo — Product Manager（研究档 KP；todd.cuneo@eltech.com.au）= 收件人
+- 高管：Jolyn Soo — Engineering Manager（研究档 KP；邮箱未取）= 抬头抄送
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自有 logo 已上过交换机、产品经理为 KP、30 年进口批发商 → 贴标 OEM 30% B，一页纸一次（最后一次：Eltech 标 / 中性包装 STC-028GP / STC-228GP / STC-2216GP 非管理 PoE + 导轨 STI-054GP / STI-154GP（配电柜场景）+ MOQ 1 起贴标试单 + 付费样机；英文，Todd 直呼）— 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（RCM 不声称、由买方自办；DAP 买方清关）**；21×0 在先 → 再无回声即不动
+  - 守界：RCM 不声称；配电 / 开关设备不碰
+- 备注：贴标 OEM 30%；一页纸一次（最后一次）；部分坐实（企业库 + 名录：法定名 + 地址 + 成立年；ABN 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -131,16 +146,18 @@ updated: 2026-10-28
 - **【用户表】少量 switch 自己的 logo**
   > 少量switch 自己的logo
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Todd Cuneo（）todd.cuneo@eltech.com.au 〔用户表〕
-- **KP**：Jolyn Soo（） 〔用户表〕
+- **KP**：Todd Cuneo（Product Manager（研究档；21 次跟进无回复）= 收件人 — 一页纸一次（最后一次）：贴标 OEM 30% B、Eltech 标 / 中性包装 STC-028GP / STC-228GP / STC-2216GP + 导轨 STI-054GP / STI-154GP（配电柜场景）、MOQ 1 起贴标试单 + 付费样机 — 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、RCM 不声称（DAP 买方清关）（第 118 批 官方登记核实 2026-10-28））todd.cuneo@eltech.com.au 〔用户表〕
+- **KP**：Jolyn Soo（Engineering Manager（研究档；邮箱未取）= 抬头抄送（第 118 批 官方登记核实 2026-10-28）） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 澳大利亚 |
-| 其他 | 官网 eltech.com.au，语言 en-AU，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Eltech Australia Pty Ltd（ABN 1 查未得） |
+| 成立 | 1995（墨尔本）（第 118 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 31 Jersey Road, Bayswater VIC 3153（1800 007 458）；墨尔本 / 悉尼 / 布里斯班三仓（第 118 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 eltech.com.au，语言 en-AU，快照状态 ok；角色判定来源：用户表；第 118 批：独立进口 + 电气配件批发分销（工业电缆 / 箱体 / KIKBLOX 配电 / 面板配件），自有 logo 已上过交换机 → **贴标 OEM 30% B，一页纸一次（最后一次）**；21×0 在先 → 再无回声即不动；部分坐实（企业库 + 名录）（第 118 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电气批发（配电 / 自动化 / 线缆）；自有 logo 交换机（少量）
 - **触达通道（公开）**：role: 电气批发商（澳洲，少量自有 logo 交换机）；region: 澳大利亚；contact: sales@eltech.com.au、todd.cuneo@eltech.com.au
@@ -248,8 +265,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Todd Cuneo | — | todd.cuneo@eltech.com.au | 调研核实（公开页） | 用户表 |
-| Jolyn Soo | — | — | 调研核实（公开页） | 用户表 |
+| Todd Cuneo | Product Manager（研究档；21 次跟进无回复）= 收件人 — 一页纸一次（最后一次）：贴标 OEM 30% B、Eltech 标 / 中性包装 STC-028GP / STC-228GP / STC-2216GP + 导轨 STI-054GP / STI-154GP（配电柜场景）、MOQ 1 起贴标试单 + 付费样机 — 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、RCM 不声称（DAP 买方清关）（第 118 批 官方登记核实 2026-10-28） | todd.cuneo@eltech.com.au | 调研核实（公开页） | 用户表 |
+| Jolyn Soo | Engineering Manager（研究档；邮箱未取）= 抬头抄送（第 118 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 21 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

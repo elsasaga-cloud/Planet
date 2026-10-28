@@ -87,6 +87,19 @@ updated: 2026-10-28
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 - 【惯例】12-18→01-25：澳新夏休：12-18 起到 1 月下旬，很多公司直接关到澳大利亚日（1-26）后
 
+**公司底数 · 第 118 批（AU · 1 次检索：krysma.com.au（Unit 6, 26 Rushdale St, Knoxfield, VIC 3180；03 8806 8356；sales@krysma.com.au；consumer and industrial connectivity products）+ krysma.com.au/contact 2024-10（Contact Info Uniqmac Technologies；Fax 03 8555 0816）+ uniqmac.com.au/product/krysma-beyond-connectivity；ABN 未得；2026-10-28，2026-10-28 查；https://krysma.com.au/contact/）：**
+
+- 法定名 / 登记号：Krysma – Beyond Connectivity = Uniqmac Technologies 的品牌 / 商号（krysma.com.au；**Unit 6, 26 Rushdale St, Knoxfield VIC 3180；03 8806 8356；法人 / ABN 1 查未得 → 部分坐实**）— 消费 + 工业连接产品（AOA 周边为主；工业 FS / MC 少）；表内「可以多跟进一下」；无 KP（sales@）；24 次跟进无回复 · 未取（ABN 1 查未得；母体 Uniqmac Technologies） · 状态 **营业中（官网 2024 更新）** · 成立 未取 · 商号（Uniqmac Technologies 旗下）
+- 行业码 / 经营范围：连接产品 / 周边 分销（Knoxfield VIC）
+- 注册地址：Unit 6, 26 Rushdale St, Knoxfield VIC 3180, Australia
+- 规模档：微型
+- 账目：未取；—
+- 高管：（研究档无 KP：sales@krysma.com.au）
+- 控制人 / 股东：Uniqmac Technologies
+- **这意味着什么：**
+  - **周边产品为主 + 无 KP + 24×0 → 不动（B 保留）**
+- 备注：不动（24×0 + 无 KP）；部分坐实（官网：商号 + 母体名 + 地址 + 电话；ABN 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -130,8 +143,9 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 澳大利亚 |
-| 其他 | 官网 krysma.com.au，语言 ?，快照状态 http_error；角色判定来源：待核 |
+| 法定名称 | Krysma – Beyond Connectivity = Uniqmac Technologies 的商号（法人 / ABN 1 查未得） |
+| 总部/地址 | Unit 6, 26 Rushdale St, Knoxfield VIC 3180（03 8806 8356）（第 118 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 krysma.com.au，语言 ?，快照状态 http_error；角色判定来源：待核；第 118 批：消费 + 工业连接产品（AOA 周边为主）+ 无 KP + 24×0 → **不动（B 保留）**；部分坐实（官网 contact：商号 + 母体 + 地址）（第 118 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业网络配件经销（澳大利亚）
 - **触达通道（公开）**：role: 工业网络配件经销商（澳大利亚，AOA）；region: 澳大利亚；contact: sales@krysma.com.au

@@ -86,6 +86,20 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 118 批（PK · 1 次检索：ite.net.pk（Founded in 2004；Trusted by Corporate, Industrial & Government sectors；Karachi, Lahore & Islamabad；partnerships with Cisco, Juniper, Fortinet, HPE & Dell；The Forum, Suite 611, 6th Floor, Clifton, Karachi 75600；021-34598598）+ zoominfo（Faisal Javed Director at International Technology Exchanger；Block g4/737 Khokhar Chowk Johar Town, Lahore）+ facebook（M1-A, Falak Naz Center, Main Shahra-e-Faisal, Karachi）；SECP 未得；2026-10-28，2026-10-28 查；https://ite.net.pk/）：**
+
+- 法定名 / 登记号：International Technology Exchanger (ITE)（ite.net.pk；**2004 年创立；卡拉奇 The Forum, Suite 611, 6th Floor, Clifton, Karachi 75600；021-3459 8598；另 M1-A Falak Naz Center, Shahrah-e-Faisal（FB）+ 拉合尔 Johar Town 办公室；Faisal Javed = Director（ZoomInfo）；SECP / NTN 1 查未得 → 部分坐实**）— IT 方案商（Cisco / Juniper / Fortinet / HPE / Dell 伙伴；企业 / 工业 / 政府；卡拉奇 / 拉合尔 / 伊斯兰堡）；2025-04 反问「有 1 GE + 4 FE 路由器吗」（Saga 无） · 未取（SECP / NTN 1 查未得） · 状态 **营业中（官网 + 企业库）** · 成立 2004 · 未取（Pvt Ltd 推定）
+- 行业码 / 经营范围：IT 方案 / 设备供应（Clifton, Karachi；三城）
+- 注册地址：The Forum, Suite 611, 6th Floor, Clifton, Karachi 75600, Pakistan
+- 规模档：小型
+- 账目：未取；—
+- 高管：Faisal Javed — Director（研究档 KP；faisal@ite.net.pk；+92 21 3459 8598）= 拍板人 / 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **20 年 SI、Director 本人回信（问路由器）→ 集成商 25% B，一页纸一次（切口：路由器不做明说；接入 STC-4424GCPM $165（L2+ Marvell）/ STC-2224GP $86 / STC-228GP $33 一口价 + MOQ 1 + 付费样机；英文，Faisal 直呼）— 巴基斯坦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（PTA 不声称；进口清关 / 关税全由买方）**；再无回声 → 不动
+  - 守界：政府项目不主动提；不点名 Cisco 替代
+- 备注：集成商 25%；一页纸一次（预付 100%）；部分坐实（官网 + 企业库：成立年 + 地址 + 电话 + Director；SECP 号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -112,17 +126,17 @@ updated: 2026-10-28
 - **【用户表】兴趣 switch；2025-04 群发 22 迷你→have Routers with 1GE and 4 FE ports?**
   > 回复：have Routers with 1GE and 4 FE ports?
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Faisal Javed（）faisal@ite.net.pk +92 21 3459 8598〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Faisal Javed（Director（ZoomInfo；2025-04 回信问 1 GE + 4 FE 路由器）= 拍板人 / 收件人 — 一页纸一次：集成商 25% B、路由器不做明说、接入 STC-4424GCPM $165 / STC-2224GP $86 / STC-228GP $33 一口价、MOQ 1 + 付费样机 — 巴基斯坦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、PTA 不声称（第 118 批 官方登记核实 2026-10-28））faisal@ite.net.pk +92 21 3459 8598〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | International Technology Exchanger |
-| 成立 | 约 2005（20+ 年） |
-| 总部/地址 | Karachi, Pakistan |
-| 其他 | info@/sales@ite.net.pk |
+| 法定名称 | International Technology Exchanger (ITE)（SECP / NTN 1 查未得） |
+| 成立 | 2004（第 118 批 官方登记核实 2026-10-28） |
+| 总部/地址 | The Forum, Suite 611, 6th Floor, Clifton, Karachi 75600（021-3459 8598）；另 M1-A Falak Naz Center, Shahrah-e-Faisal + 拉合尔 Johar Town（第 118 批 官方登记核实 2026-10-28） |
+| 其他 | info@/sales@ite.net.pk；第 118 批：20 年 IT 方案商（Cisco / Juniper / Fortinet / HPE / Dell 伙伴；企业 / 工业 / 政府；三城），Director 本人回信 → **集成商 25% B，一页纸一次**；再无回声 → 不动；部分坐实（官网 + ZoomInfo + FB）；政府项目不主动提（第 118 批 官方登记核实 2026-10-28） |
 
 - **业务线**：企业网络 / 安全集成（多品牌）
 - **触达通道（公开）**：role: IT 方案商 / 经销；region: 巴基斯坦
@@ -183,7 +197,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Faisal Javed | — | faisal@ite.net.pk / +92 21 3459 8598 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Faisal Javed | Director（ZoomInfo；2025-04 回信问 1 GE + 4 FE 路由器）= 拍板人 / 收件人 — 一页纸一次：集成商 25% B、路由器不做明说、接入 STC-4424GCPM $165 / STC-2224GP $86 / STC-228GP $33 一口价、MOQ 1 + 付费样机 — 巴基斯坦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、PTA 不声称（第 118 批 官方登记核实 2026-10-28） | faisal@ite.net.pk / +92 21 3459 8598 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：企业邮箱可直发
 

@@ -88,6 +88,21 @@ updated: 2026-10-28
 
 - 法定假日：11-09 Iqbal Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 118 批（PK · 1 次检索：ict-integrators.com/integrators（Over 11 years；IT and Telecom Value Added Reseller for Telcos, Enterprise and SMEs；Muhammad Waleed CEO；349 - H/3, Johar Town, Lahore；+92-42-35951406-7；Industrial Grade Networking）+ lcci.pk/listing/ict-integrators 2021-11（MR. MUHAMMAD WALEED – MANAGING PARTNER；TELECOM EQUPT & ACCESSORIES；349-H/3 Johar Town；+92-42-35867776）+ branches.pk；SECP / NTN 未得；2026-10-28，2026-10-28 查；https://lcci.pk/listing/ict-integrators/）：**
+
+- 法定名 / 登记号：ICT Integrators（ict-integrators.com；**349-H/3, Johar Town, Lahore；+92 42 3595 1406-7 / 3586 7776；拉合尔商会 LCCI 会员名录：Muhammad Waleed = Managing Partner、业务线 Telecom Equipment & Accessories（→ 合伙企业口径，非 Pvt Ltd）；SECP / NTN 1 查未得 → 部分坐实**）— **IT / 电信系统集成 + 增值分销（电信运营商 / 企业 / 工业 / 医疗 / 教育 / 银行；融合数据网 / 宽带 / 光网 / UC / 安防；官网设「Industrial Grade Networking」栏）**；KP Muhammad Waleed（CEO）/ Ihsan Ullah（Director Commercial） · 未取（SECP / NTN 1 查未得；LCCI 会员） · 状态 **营业中（官网 + 商会名录）** · 成立 约 2007（自述 11+ 年 / 研究档 2007） · 合伙企业（LCCI 口径 Managing Partner）
+- 行业码 / 经营范围：IT / 电信系统集成 + 增值分销（Johar Town, Lahore）
+- 注册地址：349-H/3, Johar Town, Lahore, Pakistan
+- 规模档：小型（22 人 RocketReach；领英 51–200 存疑）
+- 账目：未取；—
+- 高管：Muhammad Waleed — CEO / Managing Partner（研究档 KP；apac@ict-integrators.com 公司箱）= 拍板人 / 收件人（Attn）
+- 高管：Ihsan Ullah — Director Commercial（研究档 KP）= 抄送抬头
+- 控制人 / 股东：Muhammad Waleed（推定）
+- **这意味着什么：**
+  - **真实 SI / VAR、有工业网络栏目、CEO 具名 → 集成商 25% B，一页纸一次（切口：工业栏目对位 STI-288DGGPM $137 / STI-488DGGPM $147 + 企业接入 STC-4424GCPM $165 / STC-2224GP $86 一口价 + MOQ 1 + 付费样机；英文，Attn: Muhammad Waleed, CEO）— 巴基斯坦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（PTA 不声称；进口清关 / 关税全由买方）**；回信 → 加厚
+  - 守界：电信运营商 / 银行项目不主动提；PTA 型号核准不声称
+- 备注：集成商 25%；一页纸一次（预付 100%）；部分坐实（官网 + 商会名录：地址 + 电话 + 负责人；SECP 号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -124,8 +139,8 @@ updated: 2026-10-28
 - **【用户表】富通天下：买了飞宇的；switch PoE 等**
   > switch POE等 / 买了飞宇的 / 富通天下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Muhammad Waleed（CEO（官网公开））apac@ict-integrators.com（公司） +92 42 3595 1406（公司）〔https://www.ict-integrators.com/integrators/〕
-- **KP**：Ihsan Ullah（Director Commercial（官网公开））— —〔https://www.ict-integrators.com/integrators/〕
+- **KP**：Muhammad Waleed（CEO / Managing Partner（官网 + LCCI 会员名录；公司箱 apac@）= 拍板人 / 收件人（Attn）— 一页纸一次：集成商 25% B、工业栏目对位 STI-288DGGPM $137 / STI-488DGGPM $147 + 企业接入 STC-4424GCPM $165 / STC-2224GP $86 一口价、MOQ 1 + 付费样机 — 巴基斯坦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、PTA 不声称（第 118 批 官方登记核实 2026-10-28））apac@ict-integrators.com（公司） +92 42 3595 1406（公司）〔https://www.ict-integrators.com/integrators/〕
+- **KP**：Ihsan Ullah（Director Commercial（官网）= 抄送抬头（第 118 批 官方登记核实 2026-10-28））— —〔https://www.ict-integrators.com/integrators/〕
 - **调研后定级**：B（原自动 A）——仅历史成交标记、无互动、南亚非主攻区（−6）→ B 待机回访。
 - 备注：老客户回访一封（STC-28DGGPM / STC-424DGGPM-280W）。
 
@@ -133,10 +148,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | ICT Integrators（Partnership） |
-| 成立 | 2007（LinkedIn）/ 2005（Tracxn） |
-| 总部/地址 | 349-H/3, Johar Town, Lahore 54000（+92 42 3595 1406-7；apac@ict-integrators.com）；Dubai: Sobha Ivory 1 Office 206 |
-| 其他 | 电信运营商 VAR；物理安全/CCTV 亦在能力范围 |
+| 法定名称 | ICT Integrators（LCCI 口径 Managing Partner → 合伙企业；SECP / NTN 1 查未得） |
+| 成立 | 约 2007（自述 11+ 年）（第 118 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 349-H/3, Johar Town, Lahore（+92 42 3595 1406-7 / 3586 7776）（第 118 批 官方登记核实 2026-10-28） |
+| 其他 | 电信运营商 VAR；物理安全/CCTV 亦在能力范围；第 118 批：IT / 电信系统集成 + 增值分销（运营商 / 企业 / 工业 / 医疗 / 教育 / 银行；官网 Industrial Grade Networking 栏），CEO 具名 → **集成商 25% B，一页纸一次**；回信 → 加厚；部分坐实（官网 + LCCI 名录）；运营商 / 银行项目不主动提（第 118 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电信/企业网络系统集成；网络与物理安全；云/虚拟化/UC
 - **触达通道（公开）**：网站: https://www.ict-integrators.com/integrators/；电话: +92 42 3595 1406-7（公开）；邮箱（公开）: apac@ict-integrators.com；LinkedIn: https://pk.linkedin.com/company/ict-integrators
@@ -210,8 +225,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Muhammad Waleed | CEO（官网公开） | apac@ict-integrators.com（公司） / +92 42 3595 1406（公司） | 调研核实（公开页） | https://www.ict-integrators.com/integrators/ |
-| Ihsan Ullah | Director Commercial（官网公开） | — / — | 调研核实（公开页） | https://www.ict-integrators.com/integrators/ |
+| Muhammad Waleed | CEO / Managing Partner（官网 + LCCI 会员名录；公司箱 apac@）= 拍板人 / 收件人（Attn）— 一页纸一次：集成商 25% B、工业栏目对位 STI-288DGGPM $137 / STI-488DGGPM $147 + 企业接入 STC-4424GCPM $165 / STC-2224GP $86 一口价、MOQ 1 + 付费样机 — 巴基斯坦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、PTA 不声称（第 118 批 官方登记核实 2026-10-28） | apac@ict-integrators.com（公司） / +92 42 3595 1406（公司） | 调研核实（公开页） | https://www.ict-integrators.com/integrators/ |
+| Ihsan Ullah | Director Commercial（官网）= 抄送抬头（第 118 批 官方登记核实 2026-10-28） | — / — | 调研核实（公开页） | https://www.ict-integrators.com/integrators/ |
 
 - **通道建议**：企业邮箱可直发
 

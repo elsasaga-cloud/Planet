@@ -76,6 +76,20 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 118 批（PK · 1 次检索：omicronenergy.com/en/contact/addresses/pakistan（AYK (Pvt) Ltd；Contact Sajjad Qaiser；Al-Sharif Market, Main Model Town Road, Gujranwala；+92 55 3255800）+ ayk.com.pk/contact-us（Head Office 2nd Floor, U-Block, Trust Plaza, Model Town, Gujranwala 52250；Lahore / Islamabad / Multan 办公室）+ ayk.com.pk/products/omicorn/mpd-600（+92-55-3822444；Faisalabad 分支）；SECP / NTN 未得；2026-10-28，2026-10-28 查；https://ayk.com.pk/contact-us/）：**
+
+- 法定名 / 登记号：Ayk (Pvt.) Ltd.（ayk.com.pk；**总部 2nd Floor, U-Block, Trust Plaza, opposite Standard Chartered Bank, Model Town, Gujranwala 52250；+92 55 3822444 / 3255800；分支 拉合尔 Gulberg-II / 伊斯兰堡 G-11 Markaz / 木尔坦 / 费萨拉巴德；OMICRON 官网列为巴基斯坦官方 Sales & Service Partner（联系人 Sajjad Qaiser）；SECP / NTN 1 查未得 → 部分坐实**）— **电力测试与工程公司（变压器 / 电缆 / 开关设备高压测试服务、电力测试设备独家分销 Omicron / Chauvin Arnoux / Opal-RT …、自制变电站蓄电池充电器 NTDC 认证；官网设 PLANET 工业以太网专区 = 原厂经销）**；无具名 KP（info@） · 未取（SECP / NTN 1 查未得） · 状态 **营业中（官网 + 原厂 partner 页）** · 成立 1996 创立 / 2006 注册（自述） · (Pvt.) Ltd.
+- 行业码 / 经营范围：电力测试服务 + 测试设备分销（Gujranwala；四地分支）
+- 注册地址：2nd Floor, U-Block, Trust Plaza, Model Town, Gujranwala 52250, Pakistan
+- 规模档：中小（约 90 人，自述）
+- 账目：未取；—
+- 高管：Sajjad Qaiser — Omicron 业务联系人（原厂 partner 页）
+- 高管：（研究档无具名 KP：info@ayk.com.pk）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **电力行业（守界）+ PLANET 原厂经销 + 无具名 KP → 不动（B 保留）**
+- 备注：不动（守界 电力 + 原厂经销）；部分坐实（官网 + Omicron 官方 partner 页：法定名 + 总部 + 分支；SECP 号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -117,6 +131,7 @@ updated: 2026-10-28
   > 卖planet的switch / 买过管理FS / 谷歌
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） 〔用户 Clients 表〕
+- **KP**：Sajjad Qaiser（Omicron 业务联系人（OMICRON 官网 partner 页）— 不动，不发（第 118 批 官方登记核实 2026-10-28）） 〔omicronenergy.com/en/contact/addresses/pakistan/〕
 - **调研后定级**：B（原自动 A）——历史成交但无时间与互动记录，南亚非主攻区 → B 待机回访。
 - 备注：老客户回访一封。
 
@@ -124,10 +139,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Ayk (Pvt.) Ltd. |
-| 成立 | 1996（注册商号）/ 2006（公司） |
-| 总部/地址 | 2nd Floor, U-Block, Trust Plaza, Model Town, Gujranwala 52250（+92 55 3255800 / +92 55 3822444；info@ayk.com.pk；sales@ayk.com.pk）；分支 Lahore、Islamabad |
-| 其他 | PLANET 产品经销；电力测试设备独家分销多品牌；自制变电站充电器 |
+| 法定名称 | Ayk (Pvt.) Ltd.（SECP / NTN 1 查未得；OMICRON 巴基斯坦官方 Sales & Service Partner） |
+| 成立 | 1996 创立 / 2006 注册（自述）（第 118 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 2nd Floor, U-Block, Trust Plaza, opposite Standard Chartered Bank, Model Town, Gujranwala 52250（+92 55 3822444 / 3255800）；分支 拉合尔 / 伊斯兰堡 / 木尔坦 / 费萨拉巴德（第 118 批 官方登记核实 2026-10-28） |
+| 其他 | PLANET 产品经销；电力测试设备独家分销多品牌；自制变电站充电器；第 118 批：电力测试与工程公司（高压测试服务 + Omicron 等测试设备独家分销 + 自制变电站充电器 NTDC 认证；官网 PLANET 工业以太网专区 = 原厂经销）→ 电力守界 + 原厂经销 + 无具名 KP → **不动（B 保留）**；部分坐实（官网 + Omicron 官方 partner 页）（第 118 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电力测试与调试服务（变压器、电缆、开关设备）；测试设备与网络设备分销（PLANET 工业以太网）；变电站蓄电池充电器制造
 
@@ -199,7 +214,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@ayk.com.pk | 用户表原值 | Clients/ 表 |
+| Sajjad Qaiser | Omicron 业务联系人（OMICRON 官网 partner 页）— 不动，不发（第 118 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | omicronenergy.com/en/contact/addresses/pakistan/ |
 
 - **通道建议**：企业邮箱可直发
 
@@ -266,7 +281,7 @@ updated: 2026-10-28
 **主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Sajjad,
 
 Thank you again for your earlier order with us - this is a short update rather than a cold mail. Hello Ayk team, next to the PLANET DIN-rail L2+ ring PoE switches you list: our same-port-type 2× SFP + 8× GbE PoE+ L2+ (ERPS, −40/+75 °C) is $137.5 EXW at distributor level, industrial gigabit media converter $22.4 — would a sample pair for your utility projects be useful?
 

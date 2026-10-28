@@ -73,6 +73,20 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 118 批（AE · 1 次检索：binhilaltrading.ae（A Part of the Bin Hilal Holdings；Fire Life Safety / Emergency Light / Central Gas；Honeywell, Dahua …；BIN HILAL HOLDING HEAD OFFICE, 9TH STREET, UMM RAMOOL RASHIDIYA, DUBAI；+971 521 77 1075）+ zoominfo（Bin Hilal Group Corporate Management LLC；14 St, Dubai；201-500；Muhammad Asad — Head of Procurement, Department；Bin Hilal Holdings established in 2005）+ dnb（BIN HILAL ENTERPRISES L.L.C.；bhe.ae；Machinery, Equipment, and Supplies Merchant Wholesalers）；牌照号未得；2026-10-28，2026-10-28 查；https://binhilaltrading.ae/）：**
+
+- 法定名 / 登记号：Bin Hilal Group / Bin Hilal Holdings（**2005 年成立；总部 9th Street, Umm Ramool, Rashidiya, Dubai；集团法人 Bin Hilal Group Corporate Management LLC（14 St, Dubai；201–500 人 ZoomInfo）/ Bin Hilal Enterprises L.L.C.（bhe.ae；机械设备批发）/ BinHilal Trading（消防安全 / 应急灯 / 中央气体；Honeywell / Dahua 经销；沙迦 Hemayah 消防）；牌照号 1 查未得 → 部分坐实**）— 多元集团（安防 / 能源公用 / 贸易 / 建筑基建 / 设施管理）；**表内 KP Mehar Asad = ZoomInfo「Muhammad Asad, Head of Procurement Department」（gmail）**；阿里巴巴 RFQ「5 电口」；表内未跟进 · 未取（集团多 LLC；牌照号 1 查未得） · 状态 **营业中（官网 + 企业库）** · 成立 2005（集团） · Holdings（多 LLC）
+- 行业码 / 经营范围：设施管理 / 安防 / 消防 / 贸易 / 建筑 多元集团（Rashidiya）
+- 注册地址：Bin Hilal Holding Head Office, 9th Street, Umm Ramool, Rashidiya, Dubai, UAE
+- 规模档：中型（201–500，ZoomInfo 口径）
+- 账目：未取；—
+- 高管：Mehar / Muhammad Asad — Head of Procurement Department（研究档 KP；mehar.asad786@gmail.com；ZoomInfo 职务吻合）= 收件人
+- 控制人 / 股东：Bin Hilal 家族（推定）
+- **这意味着什么：**
+  - **集团采购部负责人本人发过 RFQ（5 电口）、从未跟进 → 集成商 25% B small，一页纸一次（切口：直接答 5 口 = STI-054GP（4 PoE + 1 GE，导轨）+ 桌面 8 口 STC-028GP $28 一口价 + 设施管理项目量用 STC-2216GP / 2224GP + MOQ 1 + 付费样机 + DAP 迪拜；opener 引其阿里巴巴 RFQ；英文，Asad 直呼）— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关；TDRA / ESMA 不声称、由买方自办）**；再无回声 → 不动
+  - 守界：gmail KP + 牌照未核 → 预付 100%；能源 / 公用事业板块项目不主动提
+- 备注：集成商 25% small；一页纸一次（预付）；部分坐实（官网 + 企业库：集团总部 + 法人名 + KP 职务；牌照号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -105,15 +119,17 @@ updated: 2026-10-28
 - **【用户表】5 电口 RFQ**
   > 5电口 / from: 阿里巴巴RFQ
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Mehar Asad（）mehar.asad786@gmail.com 〔用户表〕
+- **KP**：Mehar Asad（Head of Procurement Department（ZoomInfo「Muhammad Asad」职务吻合；gmail；阿里巴巴 RFQ 5 电口）= 收件人 — 一页纸一次：集成商 25% B small、直接答 5 口 = STI-054GP（4 PoE + 1 GE）+ 桌面 STC-028GP $28 + 设施管理量用 STC-2216GP / 2224GP、MOQ 1 + 付费样机 + DAP 迪拜 — 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关）、TDRA / ESMA 不声称（第 118 批 官方登记核实 2026-10-28））mehar.asad786@gmail.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 阿联酋 |
-| 其他 | 官网 binhilal.ae，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Bin Hilal Holdings（集团；法人 Bin Hilal Group Corporate Management LLC / Bin Hilal Enterprises L.L.C. / BinHilal Trading；牌照号 1 查未得） |
+| 成立 | 2005（集团）（第 118 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Bin Hilal Holding Head Office, 9th Street, Umm Ramool, Rashidiya, Dubai（+971 521 77 1075）（第 118 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 binhilal.ae，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 118 批：多元集团（安防 / 消防 / 设施管理 / 贸易 / 建筑；Honeywell / Dahua 经销），集团采购部负责人本人发过 RFQ 且从未跟进 → **集成商 25% B small，一页纸一次**；再无回声 → 不动；部分坐实（官网 + ZoomInfo + D&B）；gmail KP → 预付 100%；能源 / 公用板块不主动提（第 118 批 官方登记核实 2026-10-28） |
 
 - **业务线**：多元化集团（安防 / 能源 / 贸易 / 建筑，阿联酋）
 - **触达通道（公开）**：role: 多元化集团采购（阿联酋，5 口 RFQ）；region: 阿联酋；contact: mehar.asad786@gmail.com
@@ -167,7 +183,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Mehar Asad | — | mehar.asad786@gmail.com | 调研核实（公开页） | 用户表 |
+| Mehar Asad | Head of Procurement Department（ZoomInfo「Muhammad Asad」职务吻合；gmail；阿里巴巴 RFQ 5 电口）= 收件人 — 一页纸一次：集成商 25% B small、直接答 5 口 = STI-054GP（4 PoE + 1 GE）+ 桌面 STC-028GP $28 + 设施管理量用 STC-2216GP / 2224GP、MOQ 1 + 付费样机 + DAP 迪拜 — 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关）、TDRA / ESMA 不声称（第 118 批 官方登记核实 2026-10-28） | mehar.asad786@gmail.com | 调研核实（公开页） | 用户表 |
 | Mehar Asad, Head of Department Procurement | — | mehar.asad786@gmail.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：仅免费邮箱：可发，但优先找官网公开的企业邮箱（见调研 KP）

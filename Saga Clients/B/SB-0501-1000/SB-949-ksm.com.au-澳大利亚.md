@@ -89,6 +89,20 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 118 批（AU · 1 次检索：ksm.com.au/terms-conditions（KSM Australia Pty Ltd ABN: 98 071 589 690；Suite 18, 12 Tryon Rd, Lindfield, NSW 2070；Tel 02 8003 3372）+ ksm.com.au 首页 2026（Welcome to KSM Solutions e-store；+61 (0)41 2921435；Kevin - Director）+ /form/contact-us；2026-10-28，2026-10-28 查；https://www.ksm.com.au/terms-conditions/）：**
+
+- 法定名 / 登记号：KSM Australia Pty Ltd / KSM Solutions 网店（ksm.com.au；**ABN 98 071 589 690；Suite 18, 12 Tryon Rd, Lindfield NSW 2070；+61 412 921 435 / 02 8003 3372；Kevin = Director（官网署名）；官网 2026 在线**）— 工业 MC / 工业 FS / 商业 FS / SFP 网店（产品外壳「有像国内的」「常总的工业 FS」= 已直接进口国内工业机）；KP Kevin（Director；kevin@）；22 次跟进无回复 · ABN 98 071 589 690 · 状态 **营业中（官网 2026；ABN 在）** · 成立 未取（ABN 071 → 约 1995–1996 ACN 段） · Pty Ltd
+- 行业码 / 经营范围：工业网络产品网店（Lindfield NSW）
+- 注册地址：Suite 18, 12 Tryon Rd, Lindfield NSW 2070, Australia
+- 规模档：微型（一人公司级）
+- 账目：未取；—
+- 高管：Kevin — Director（研究档 KP；kevin@ksm.com.au；官网署名）= 拍板人 / 收件人
+- 控制人 / 股东：Kevin（推定）
+- **这意味着什么：**
+  - **已直接进口国内工业机的一人网店、Director 为 KP → 分销 20% B small，一页纸一次（最后一次：STI-288DGGPM $137 / STI-488DGGPM $147 / STI-154GP 宽温 + 3 年保 + MOQ 1 + 付费样机 + 现供应商同级比价；英文，Kevin 直呼）— 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（RCM 不声称、由买方自办；DAP 买方清关）**；22×0 在先 → 再无回声即不动
+  - 守界：MC / SFP 不碰（仅 STC-110XGE）；RCM 不声称
+- 备注：分销 20% small；一页纸一次（最后一次）；坐实（官网自列 ABN + 法定名 + 地址 + Director）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -128,15 +142,17 @@ updated: 2026-10-28
 - **【用户表】常总的工业 FS**
   > 工业MC 很多外壳 有像国内的 常总的工业FS 商业FS SFP
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Kevin（）kevin@ksm.com.au 〔用户表〕
+- **KP**：Kevin（Director（官网署名「Kevin - Director」；22 次跟进无回复）= 拍板人 / 收件人 — 一页纸一次（最后一次）：分销 20% B small、STI-288DGGPM $137 / STI-488DGGPM $147 / STI-154GP 宽温 + 3 年保 + MOQ 1 + 付费样机、与现供应商同级比价 — 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、RCM 不声称（DAP 买方清关）（第 118 批 官方登记核实 2026-10-28））kevin@ksm.com.au 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 澳大利亚 |
-| 其他 | 官网 ksm.com.au，语言 ?，快照状态 unreachable；角色判定来源：待核 |
+| 法定名称 | KSM Australia Pty Ltd / KSM Solutions 网店（ABN 98 071 589 690） |
+| 成立 | 未取（ABN 071 段 ≈ 1995–1996）（第 118 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Suite 18, 12 Tryon Rd, Lindfield NSW 2070（+61 412 921 435 / 02 8003 3372）（第 118 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 ksm.com.au，语言 ?，快照状态 unreachable；角色判定来源：待核；第 118 批：工业 MC / FS / SFP 网店、已直接进口国内工业机，Director 为 KP → **分销 20% B small，一页纸一次（最后一次）**；22×0 在先 → 再无回声即不动；坐实（官网 T&C 自列 ABN + 地址 + Director）（第 118 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业网络产品经销（澳大利亚）
 - **触达通道（公开）**：role: 工业网络经销商（澳大利亚，国内货源在供）；region: 澳大利亚；contact: sales@ksm.com.au、kevin@ksm.com.au
@@ -236,7 +252,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Kevin | — | kevin@ksm.com.au | 调研核实（公开页） | 用户表 |
+| Kevin | Director（官网署名「Kevin - Director」；22 次跟进无回复）= 拍板人 / 收件人 — 一页纸一次（最后一次）：分销 20% B small、STI-288DGGPM $137 / STI-488DGGPM $147 / STI-154GP 宽温 + 3 年保 + MOQ 1 + 付费样机、与现供应商同级比价 — 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、RCM 不声称（DAP 买方清关）（第 118 批 官方登记核实 2026-10-28） | kevin@ksm.com.au | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 22 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

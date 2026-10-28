@@ -24,7 +24,7 @@ price_tier: 20%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -71,6 +71,19 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 118 批（0 查（无域名 + gmail；公司名 = SB-878 法定名 Magnus Infotech Trading LLC，第 117 批已坐实其地址 Al Tawhidi Building II, Al Mankhool Rd）；2026-10-28，2026-10-28 查；）：**
+
+- 法定名 / 登记号：Magnus Infotech Dubai（领英线索；Gireesh Kumar K，仅 gmail；**= SB-878 Magnus Infotech Trading LLC（Magnus Gulf）同一公司 → 并线 → SB-878**；0 查） · 并线 → SB-878 · 状态 **并线** · 成立 — · —
+- 行业码 / 经营范围：IT 增值分销（= SB-878）
+- 注册地址：= SB-878：Al Tawhidi Building II – M4, Al Mankhool Rd, Bur Dubai
+- 规模档：—
+- 账目：—；—
+- 高管：Gireesh Kumar K — 领英线索（研究档 KP；gireeshk70@gmail.com；职务待核）— 并入 SB-878 备用联系人
+- 控制人 / 股东：—
+- **这意味着什么：**
+  - **并线 → SB-878（一页纸发 Saleem Shaikh MD；Gireesh 作备用联系人，不另发）**
+- 备注：并线 → SB-878；0 查。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -97,15 +110,16 @@ updated: 2026-10-27
 - **【用户表】分销工业交换机（领英）**
   > 分销工业交换机 / from: 领英
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Gireesh Kumar K（）gireeshk70@gmail.com 〔用户表〕
+- **KP**：Gireesh Kumar K（领英线索（gmail；职务待核）— 并入 SB-878 Magnus Infotech Trading LLC 备用联系人，不另发（第 118 批 官方登记核实 2026-10-28））gireeshk70@gmail.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 阿联酋 |
-| 其他 | 无官网快照；角色判定来源：用户表 |
+| 法定名称 | = SB-878 Magnus Infotech Trading LLC（Magnus Gulf）— 并线 |
+| 总部/地址 | = SB-878：Al Tawhidi Building II – M4, Al Mankhool Rd, Bur Dubai（第 118 批 官方登记核实 2026-10-28） |
+| 其他 | 无官网快照；角色判定来源：用户表；第 118 批：无域名 + gmail → 0 查；公司名 = SB-878 法定名 → **并线 → SB-878（一页纸发 Saleem Shaikh MD；Gireesh 作备用联系人）**（第 118 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业交换机分销（阿联酋，待核）
 - **触达通道（公开）**：role: 工业交换机分销商（阿联酋，实体待核）；region: 阿联酋；contact: gireeshk70@gmail.com
@@ -134,7 +148,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Gireesh Kumar K | — | gireeshk70@gmail.com | 调研核实（公开页） | 用户表 |
+| Gireesh Kumar K | 领英线索（gmail；职务待核）— 并入 SB-878 Magnus Infotech Trading LLC 备用联系人，不另发（第 118 批 官方登记核实 2026-10-28） | gireeshk70@gmail.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；仅免费邮箱：可发，但优先找官网公开的企业邮箱（见调研 KP）
 
@@ -229,12 +243,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 28）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 28）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

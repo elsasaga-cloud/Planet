@@ -73,6 +73,20 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 118 批（PK · 1 次检索：sunmars.enic.pk（SUNMARS Enterprises；Fire Alarm & Gas Detection System alongwith CCTV；M-2, Mezzanine Floor, Raza Arcade, Main Sharah-e-Faisal；0092-300-0770770）+ lookup.pk/87420（Mezzanine Floor 2, Raza Arcade, Block 7 & 8, PECHS, Karachi；+92-321-2755707；Managed By Mr. Ghulam Mohiuddin - CEO；Y.O.E 2006）+ businessbook.pk（92-21-34544758；honeywell distributor；sunmarsent.com）；SECP 未得；2026-10-28，2026-10-28 查；https://www.lookup.pk/87420/sunmars-enterprises）：**
+
+- 法定名 / 登记号：SUNMARS Enterprises（sunmarsent.com；**M-2, Mezzanine Floor, Raza Arcade, Main Shahrah-e-Faisal（近 Days Inn）, PECHS Block 7 & 8, Karachi 75400；+92 321 275 5707 / 021 3454 4758 / 0300 077 0770；CEO Ghulam Mohiuddin = 表内 Ghulam Mohuied Din ✓；2006 年起；Honeywell 经销；SECP / NTN 1 查未得 → 部分坐实**）— 消防 / 安防系统集成（FACP / 气体探测 / 气体灭火 / PA / CCTV-IP / 门禁 / 停车 / 排队 / BMS）；1–10 人；营销 Aasma Nasir；2024-03 回「问我是谁」后发目录、无下文；无邮箱（仅 WA） · 未取（SECP / NTN 1 查未得） · 状态 **营业中（名录 + 社媒）** · 成立 2006 · Enterprises（独资 / 合伙口径）
+- 行业码 / 经营范围：消防 / 安防系统集成（PECHS, Karachi）
+- 注册地址：M-2, Mezzanine Floor, Raza Arcade, Main Shahrah-e-Faisal, PECHS, Karachi 75400, Pakistan
+- 规模档：微型（1–10）
+- 账目：未取；—
+- 高管：Ghulam Mohiuddin — CEO（研究档 KP；+92 321 275 5707；名录 Managed By 吻合）
+- 高管：Aasma Nasir — Marketing（研究档 KP；+92 305 222 1659）
+- 控制人 / 股东：Ghulam Mohiuddin
+- **这意味着什么：**
+  - **微型消防集成商 + 无邮箱 + 目录已发无下文 → 不动（B 保留；WA 来询按集成商 25% 报 STC-028GP / STC-228GP 摄像机 PoE，预付 100%）**
+- 备注：不动（微型 + 无邮箱）；部分坐实（名录三源：地址 + 电话 + CEO + 成立年；SECP 号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -107,18 +121,18 @@ updated: 2026-10-28
 - **【用户表】网站偏向 CCTV、有很多办事处；2024-03 回复问我是谁，2024-04 发了目录册**
   > 网站：偏向CCTV 有很多办事处；回复：问我是谁/2024.4.17 发了目录册
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Asma (Aasma) Nasir（） +92 305 222 1659〔（本地 Clients/ 表格，无公开 URL）〕
-- **KP**：Ghulam Mohuied Din（） +92 321 275 5707〔https://www.businessbook.pk/detail/sunmars-enterprises-karachi-122447〕
+- **KP**：Asma (Aasma) Nasir（Marketing（研究档；2010 至今）— 不动（第 118 批 官方登记核实 2026-10-28）） +92 305 222 1659〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Ghulam Mohuied Din（CEO（lookup.pk「Managed By Mr. Ghulam Mohiuddin - CEO」吻合；WA +92 321 275 5707）— 不动，不发（WA 来询按集成商 25% 报摄像机 PoE，预付 100%）（第 118 批 官方登记核实 2026-10-28）） +92 321 275 5707〔https://www.businessbook.pk/detail/sunmars-enterprises-karachi-122447〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对；国家更正））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | SunMars Enterprises |
-| 成立 | （名录称 1970，待核） |
-| 总部/地址 | M-2 Raza Arcade, Main Shahrah-e-Faisal, Karachi 75400, Pakistan |
-| 其他 | 消防为主、CCTV 为辅 |
+| 法定名称 | SUNMARS Enterprises（独资 / 合伙口径；SECP / NTN 1 查未得；Honeywell 经销） |
+| 成立 | 2006（第 118 批 官方登记核实 2026-10-28） |
+| 总部/地址 | M-2, Mezzanine Floor, Raza Arcade, Main Shahrah-e-Faisal, PECHS Block 7 & 8, Karachi 75400（+92 321 275 5707 / 021 3454 4758）（第 118 批 官方登记核实 2026-10-28） |
+| 其他 | 消防为主、CCTV 为辅；第 118 批：消防 / 安防系统集成（FACP / 气体灭火 / PA / CCTV / 门禁 / BMS），微型 + 无邮箱 + 目录已发无下文 → **不动（B 保留）**；部分坐实（名录三源）（第 118 批 官方登记核实 2026-10-28） |
 
 - **业务线**：火灾报警 / 气体探测 / 气体灭火（生命安全系统）；CCTV / IP 监控、门禁、PA；停车 / 排队 / 楼宇管理
 - **触达通道（公开）**：role: 消防 + 安防系统集成商；region: 巴基斯坦（卡拉奇）
@@ -184,8 +198,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Asma (Aasma) Nasir | — | +92 305 222 1659 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
-| Ghulam Mohuied Din | — | +92 321 275 5707 | 调研核实（公开页） | https://www.businessbook.pk/detail/sunmars-enterprises-karachi-122447 |
+| Asma (Aasma) Nasir | Marketing（研究档；2010 至今）— 不动（第 118 批 官方登记核实 2026-10-28） | +92 305 222 1659 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Ghulam Mohuied Din | CEO（lookup.pk「Managed By Mr. Ghulam Mohiuddin - CEO」吻合；WA +92 321 275 5707）— 不动，不发（WA 来询按集成商 25% 报摄像机 PoE，预付 100%）（第 118 批 官方登记核实 2026-10-28） | +92 321 275 5707 | 调研核实（公开页） | https://www.businessbook.pk/detail/sunmars-enterprises-karachi-122447 |
 | Asma Nasir | — | +03052221659 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；无邮箱：只能电话 / WhatsApp / 官网表单

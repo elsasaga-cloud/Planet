@@ -72,6 +72,21 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 118 批（PK · 1 次检索：jamals.com/futurist-pvt-ltd./61581（FUTURIST (PVT) LTD.；House #898, Street #27, I-10/4, Islamabad；051-4446394；Electrical Test Equipment … Computer Networking … Fibre Optics）+ tendata（FUTURIST PVT. LTD.；HOUSE NO. 524, GROUND FLOOR, DOUBLE ROAD, I-10/4, ISLAMABAD 44000；15 Sep 2025 importing from 11 suppliers across China）；SECP 号未得；2026-10-28，2026-10-28 查；https://www.jamals.com/futurist-pvt-ltd./61581?preview=1）：**
+
+- 法定名 / 登记号：FUTURIST (PVT) LTD.（futurist.com.pk；**House 898, Street 27, I-10/4, Islamabad（黄页；051-444 6394）/ House 524, Ground Floor, Double Road, I-10/4（海关记录 2025-09）；2011 年成立；CEO Aqeel Abbas；海关：Volza 128 票进口（47 家供应商，中国 + 美国）、Tendata 2025-09「11 家中国供应商」→ 坐实（法定名 + 地址 + 进口记录三合一）**）— 网络工程承包 + 通信 / 电测 / 电源 / 安防设备经销（黄页 20+ 类目：测试仪、线缆、CCTV、太阳能、UPS、光纤、机柜、RF 连接器；Yokogawa / OPNET / Furukawa 关联）；多次问 2 光 8 电管理 PoE、2 光 4 小壳、mini 工业机价格、工业电源「可搭配工业交换机」；最初要光猫（Saga 无）；KP Tajamal Ishaq（Manager） · 未取（(Pvt) Ltd；SECP 号 1 查未得；海关进口记录在） · 状态 **营业中（2025-09 仍在进口）** · 成立 2011 · (Pvt) Ltd
+- 行业码 / 经营范围：网络工程承包 + 通信 / 电测 / 电源设备经销 + 进口（I-10/4, Islamabad）
+- 注册地址：House 898, Street 27, I-10/4, Islamabad, Pakistan（海关地址 House 524, Double Road, I-10/4）
+- 规模档：小型
+- 账目：未取；—
+- 高管：Tajamal Ishaq — Manager（研究档 KP；tajamal@futurist.com.pk；+92 333 519 9946）= 收件人
+- 高管：Aqeel Abbas — CEO（研究档 KP；邮箱未取）= 抄送抬头
+- 控制人 / 股东：Aqeel Abbas（推定）
+- **这意味着什么：**
+  - **真实进口商（128 票）+ 多次主动问价（工业管理 PoE / 小壳 / mini）→ 分销 20% B，一页纸一次（切口：STI-288DGGPM $137（2 光 8 电管理 PoE）/ STI-154GP（小壳 4+1+1）/ STI-054GP mini + 工业电源搭配说明 + 一口价 + MOQ 1 + 付费样机；光猫不做明说；英文，Tajamal 直呼、抬头抄 CEO Aqeel）— 巴基斯坦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（PTA 不声称；进口清关 / 关税全由买方）**；回信 → 加厚
+  - 守界：电测 / 电源 / 光缆不碰；PTA 不声称
+- 备注：分销 20%；一页纸一次（预付 100%）；坐实（黄页 + 海关进口记录：法定名 + 地址 + 成立年；SECP 号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -106,18 +121,18 @@ updated: 2026-10-28
 - **【用户表】回复链：2 光 8 管理 PoE 出货图→问价；工业电源→「可以搭配工业交换机」；2 光 4 小壳→price；mini 工业机→will check；4/8 口工业 PoE→发来竞品图（疑天博通信）**
   > 发了2光8管理POE出货图等信息→问了价格；发了工业电源相关信息→有用 可以搭配工业交换机；发了2光4小壳信息→price；4 8口工业PoE→发了右图 应该是天博通信的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Tajamal Ishaq（）tajamal@futurist.com.pk +92 333 519 9946〔（本地 Clients/ 表格，无公开 URL）〕
-- **KP**：Aqeel Abbas（） 〔https://rocketreach.co/aqeel-abbas-email_44568110〕
+- **KP**：Tajamal Ishaq（Manager（研究档；多次问 2 光 8 电管理 PoE / 2 光 4 小壳 / mini 工业机价格）= 收件人 — 一页纸一次：分销 20% B、STI-288DGGPM $137 / STI-154GP / STI-054GP mini + 工业电源搭配说明、一口价 + MOQ 1 + 付费样机、光猫不做明说 — 巴基斯坦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、PTA 不声称（第 118 批 官方登记核实 2026-10-28））tajamal@futurist.com.pk +92 333 519 9946〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Aqeel Abbas（CEO（研究档；邮箱未取）= 抄送抬头（第 118 批 官方登记核实 2026-10-28）） 〔https://rocketreach.co/aqeel-abbas-email_44568110〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（名录 + 海关核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Futurist (Pvt) Ltd. |
-| 成立 | 2011 |
-| 总部/地址 | 524 Main Double Road, I-10/4, Islamabad, Pakistan |
-| 其他 | info@futurist.com.pk；座机 +92-51-4446394 |
+| 法定名称 | FUTURIST (PVT) LTD.（Jamals 黄页 + tendata 海关 2025-09；SECP 号 1 查未得） |
+| 成立 | 2011（第 118 批 官方登记核实 2026-10-28） |
+| 总部/地址 | House 898, Street 27, I-10/4, Islamabad（051-444 6394）；海关地址 House 524, Ground Floor, Double Road, I-10/4（第 118 批 官方登记核实 2026-10-28） |
+| 其他 | info@futurist.com.pk；座机 +92-51-4446394；第 118 批：网络工程承包 + 通信 / 电测 / 电源 / 安防设备经销 + 进口商（Volza 128 票 / 47 家供应商；2025-09 仍从 11 家中国供应商进口）→ **分销 20% B，一页纸一次**；回信 → 加厚；坐实（黄页 + 海关：法定名 + 地址 + 成立年）（第 118 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络 / 光纤工程承包；通信与测试设备进口经销（Yokogawa、Furukawa 关联）；CCTV / UPS / 太阳能供应
 
@@ -194,8 +209,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Tajamal Ishaq | — | tajamal@futurist.com.pk / +92 333 519 9946 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
-| Aqeel Abbas | — | — | 调研核实（公开页） | https://rocketreach.co/aqeel-abbas-email_44568110 |
+| Tajamal Ishaq | Manager（研究档；多次问 2 光 8 电管理 PoE / 2 光 4 小壳 / mini 工业机价格）= 收件人 — 一页纸一次：分销 20% B、STI-288DGGPM $137 / STI-154GP / STI-054GP mini + 工业电源搭配说明、一口价 + MOQ 1 + 付费样机、光猫不做明说 — 巴基斯坦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、PTA 不声称（第 118 批 官方登记核实 2026-10-28） | tajamal@futurist.com.pk / +92 333 519 9946 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Aqeel Abbas | CEO（研究档；邮箱未取）= 抄送抬头（第 118 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://rocketreach.co/aqeel-abbas-email_44568110 |
 | Mr.Tajamal Ishaq | — | tajamal@futurist.com.pk / +923335199946 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发

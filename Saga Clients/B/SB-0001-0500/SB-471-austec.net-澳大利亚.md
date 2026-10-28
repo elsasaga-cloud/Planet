@@ -83,6 +83,20 @@ updated: 2026-10-28
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 - 【惯例】12-18→01-25：澳新夏休：12-18 起到 1 月下旬，很多公司直接关到澳大利亚日（1-26）后
 
+**公司底数 · 第 118 批（AU · 1 次检索：austec.net/contact-us（Austec.net Pty Ltd；Austec Communications；1025A Pumicestone Road, Toorbul QLD 4510；1300 663 442；sales@austec.net）+ /about-us（Australia’s leading provider of weatherproof emergency telephones；design, manufacture and distribute；over 30 years；roadside and rail applications, mines, power stations, police …）+ /products（Emergency Help Phones / 3G 4G 5G / WiFi / CCTV / M2M / Solar）；ABN 未得；2026-10-28，2026-10-28 查；https://www.austec.net/contact-us/）：**
+
+- 法定名 / 登记号：Austec.net Pty Ltd / Austec Communications（austec.net；**1025A Pumicestone Road, Toorbul QLD 4510；1300 663 442；30+ 年；ABN 1 查未得 → 部分坐实**）— **偏远 / 恶劣环境语音数据通信方案商：自研自产防风雨紧急求助电话 + 分销（Dahua CCTV、Teltonika 工业路由、Cambium、D-Link、ONV 工业 PoE 在售；客户 公路 / 铁路 / 矿山 / 电站 / 警消急救，覆盖亚太）**；表内「ONV 的工业 FS 比较少，有兴趣」；无具名 KP（sales@）；11 次跟进无实质回复 · 未取（ABN 1 查未得） · 状态 **营业中（官网在）** · 成立 未取（自述 30+ 年） · Pty Ltd
+- 行业码 / 经营范围：紧急电话制造 + 通信设备分销（Toorbul QLD）
+- 注册地址：1025A Pumicestone Road, Toorbul QLD 4510, Australia
+- 规模档：小型
+- 账目：未取；—
+- 高管：（研究档无具名 KP：sales@austec.net；+61 1300 663 442）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自产 + 分销、已在售国内工业 PoE、Simon「有兴趣」→ 分销 20% B，一页纸一次（切口：对位其在售工业 PoE 的 STI-154GP / STI-288DGGPM / STI-488DGGPM 宽温 + 3 年保 + MOQ 1 + 付费样机；给求助电话 / 摄像机供电的 802.3at 口；英文，sales@ 抬头 Attn: Sales Manager）— 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（RCM 不声称、由买方自办；DAP 买方清关）**；11×0 在先 → 再无回声即不动
+  - 守界：铁路 / 电站 / 警消项目不主动提（只供通用工业 PoE）；不点名 ONV；RCM 不声称
+- 备注：分销 20%；一页纸一次（无具名 KP）；部分坐实（官网：法定名 + 地址 + 电话；ABN 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -119,17 +133,17 @@ updated: 2026-10-28
 - **【用户表】ONV 的工业 FS 比较少；有兴趣**
   > 兴趣：ONV的工业FS 比较少
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：（销售）（）sales@austec.net +61 1300 663 442〔https://www.austec.net/〕
+- **KP**：（销售）（公用销售箱（无具名 KP；11 次跟进无实质回复；Simon「有兴趣」）= 收件人（Attn: Sales Manager）— 一页纸一次：分销 20% B、对位其在售工业 PoE 的 STI-154GP / STI-288DGGPM / STI-488DGGPM 宽温 + 3 年保 + MOQ 1 + 付费样机、给求助电话 / 摄像机供电的 802.3at 口 — 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、RCM 不声称（DAP 买方清关）（第 118 批 官方登记核实 2026-10-28））sales@austec.net +61 1300 663 442〔https://www.austec.net/〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：ONV 替换））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Austec Communications Pty Ltd（待核） |
-| 成立 | （待核） |
-| 总部/地址 | 1025A Pumicestone Road, Toorbul QLD 4510, Australia |
-| 其他 | 紧急求助电话自有系列 Teltek |
+| 法定名称 | Austec.net Pty Ltd / Austec Communications（ABN 1 查未得） |
+| 成立 | 未取（自述 30+ 年）（第 118 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 1025A Pumicestone Road, Toorbul QLD 4510（1300 663 442）（第 118 批 官方登记核实 2026-10-28） |
+| 其他 | 紧急求助电话自有系列 Teltek；第 118 批：偏远 / 恶劣环境通信方案商（自研自产防风雨紧急电话 + 分销 Dahua / Teltonika / Cambium / ONV 工业 PoE；客户 公路 / 铁路 / 矿山 / 电站 / 警消）→ **分销 20% B，一页纸一次**；11×0 在先 → 再无回声即不动；部分坐实（官网 contact：法定名 + 地址）；铁路 / 电站 / 警消项目不主动提，不点名 ONV（第 118 批 官方登记核实 2026-10-28） |
 
 - **业务线**：CCTV / 网络交换机 / 工业路由分销；紧急求助电话 Teltek
 

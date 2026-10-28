@@ -77,6 +77,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 118 批（PK · 1 次检索：mutexsystemsltd.com/about（UK-headquartered technology company with engineering hubs in Pakistan；Ealing Cross, 85 Uxbridge Road, London W5 5BW；Karachi · Lahore · Islamabad；Pakistan Regional Office Suite # 716, 7th Floor, Park Avenue, PECHS Block 6, Sharah-e-Faisal, Karachi）+ /contact + /get-a-quote 2025-07（+92 213-4331335）；CH 号 / SECP 未得；2026-10-28，2026-10-28 查；https://mutexsystemsltd.com/about）：**
+
+- 法定名 / 登记号：Mutex Systems Ltd（mutexsystemsltd.com；**英国总部 Ealing Cross, 85 Uxbridge Road, London W5 5BW + 巴基斯坦区域办公室 Suite 716, 7th Floor, Park Avenue, PECHS Block 6, Shahrah-e-Faisal, Karachi（+92 21 3433 1335）；工程中心 卡拉奇 / 拉合尔 / 伊斯兰堡；英国 Companies House 号 1 查未取 → 部分坐实**）— **软件 / AI / 网络安全 / 云 DevOps 服务 + 自有 POS ERP / CRM / 金融 POS 产品（含「hardware manufacturing」自述）**；曾买非管理 / 百兆交换机；无 KP（support@ / info@）；群发无互动 · 未取（英国 Ltd；CH 号 1 查未取） · 状态 **营业中（官网 2025 更新）** · 成立 未取 · Ltd（英国）+ 巴基斯坦办公室
+- 行业码 / 经营范围：IT 服务 / 软件 / 网络安全（伦敦 + 卡拉奇）
+- 注册地址：Suite 716, 7th Floor, Park Avenue, PECHS Block 6, Shahrah-e-Faisal, Karachi, Pakistan（英国总部 London W5 5BW）
+- 规模档：小型
+- 账目：未取；—
+- 高管：（研究档无 KP：info@ / support@mutexsystemsltd.com）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **IT 服务公司（非目标行业）+ 无 KP + 无互动 → 不动（B 保留；国别保持 PK 按采购地，英国总部备注）**
+- 备注：不动（非目标行业 + 无 KP）；部分坐实（官网：两国地址 + 电话；登记号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -112,9 +125,9 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Mutex Systems Ltd（mutexsystemsltd.com） |
-| 总部/地址 | Pakistan |
-| 其他 | 用户注：IT 居多，买过非管理/百兆交换机；网站看不出业务 |
+| 法定名称 | Mutex Systems Ltd（英国 Ltd；CH 号 1 查未取；巴基斯坦区域办公室） |
+| 总部/地址 | 英国总部 Ealing Cross, 85 Uxbridge Road, London W5 5BW；巴基斯坦 Suite 716, 7th Floor, Park Avenue, PECHS Block 6, Shahrah-e-Faisal, Karachi（+92 21 3433 1335）；工程中心 卡拉奇 / 拉合尔 / 伊斯兰堡（第 118 批 官方登记核实 2026-10-28） |
+| 其他 | 用户注：IT 居多，买过非管理/百兆交换机；网站看不出业务；第 118 批：软件 / AI / 网络安全 / 云 DevOps 服务 + 自有 POS ERP / CRM 产品（IT 服务 = 非目标行业）+ 无 KP + 无互动 → **不动（B 保留）**；部分坐实（官网两国地址）；国别按采购地保持 PK（第 118 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT 产品供应（推测）
 - **触达通道（公开）**：网站: mutexsystemsltd.com（用户注：花哨、看不明白）；邮箱: info@mutexsystemsltd.com / support@mutexsystemsltd.com（用户表）

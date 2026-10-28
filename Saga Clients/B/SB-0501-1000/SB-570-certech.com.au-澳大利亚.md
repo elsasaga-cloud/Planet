@@ -84,6 +84,21 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 118 批（AU · 1 次检索：certech.com.au 页脚（Head Office 1/33 Heathcote Road Moorebank NSW 2170；Freecall 1300 144 111；Ph 02 87989965；ABN 17 149 306 785；© 2026 CERTECH Pty Ltd；designed and manufactured specifically for Australia）+ certech.com.au/register（CERTECH Pty Ltd (ACN 149 306 785)）+ misterwhat-au（Certech Pty Ltd；Unit 2/12 Cunningham St Moorebank 旧址；ABN 17 149 306 785；Number of Employees 50；data, AV, security and connectivity distributor；20-year warranty）；2026-10-28，2026-10-28 查；https://www.certech.com.au/）：**
+
+- 法定名 / 登记号：CERTECH Pty Ltd（certech.com.au；**ABN 17 149 306 785 / ACN 149 306 785（ACN 149 段 ≈ 2011 注册）；总部 1/33 Heathcote Road, Moorebank NSW 2170；1300 144 111 / 02 8798 9965；约 50 人（名录口径）；自有 CERTECH 品牌布线 / 机柜「designed and manufactured specifically for Australia」+ 20 年布线质保**）— **数据 / AV / 安防 / 连接产品分销商（结构化布线、服务器机柜、PDU、网络硬件、HDMI / AV；网店 + 1300 热线；在售 Edimax 工业交换机 IGS-5654PLX / 5428PLC / 5218PLC / 1210P = 表内「Edimax 的」）**；KP Thomas Boer（Senior Network Solutions Specialist）/ Sophia Wong（Product & Brands Program Manager） · ABN 17 149 306 785 / ACN 149 306 785 · 状态 **营业中（官网 2026；ABN 在）** · 成立 约 2011（ACN 149 段推定） · Pty Ltd
+- 行业码 / 经营范围：数据 / AV / 安防 / 连接产品分销 + 自有品牌布线机柜（Moorebank NSW）
+- 注册地址：1/33 Heathcote Road, Moorebank NSW 2170, Australia
+- 规模档：中小（约 50 人）
+- 账目：未取；—
+- 高管：Sophia Wong — Product & Brands Program Manager（研究档 KP；sophiaw@certech.com.au / info@）= 收件人（选品拍板）
+- 高管：Thomas Boer — Senior Network Solutions Specialist（研究档 KP；thomasb@certech.com.au）= 抄送
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **50 人级分销商、有自有品牌、品牌项目经理为 KP、已上架台系工业交换机 → 分销 20% B（升 A 候选），一页纸一次（切口：① 对位其 Edimax 工业线的 STI-288DGGPM / STI-488DGGPM / STI-0240GE + 商用 PoE STC-2216GP / 2224GP / 4424GCPM 一口价（分销 20%）；② 或 CERTECH 标 / 中性包装 贴标 30% 二选一；MOQ 1 + 付费样机 + 3 年保（STI）；英文，Sophia 直呼、抄 Thomas）— 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（RCM 不声称、由买方自办；DAP 买方清关）**；回信 → 加厚 + 升 A
+  - 守界：不点名 Edimax；RCM 不声称；机柜 / 布线不碰
+- 备注：分销 20%（升 A 候选；可转贴标 30%）；一页纸一次（回声再加厚）；坐实（官网自列 ABN / ACN + 地址 + 电话）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -126,16 +141,18 @@ updated: 2026-10-28
 - **【用户表】Edimax 的，工业 FS 周边产品**
   > Edimax的 / 工业FS 周边产品；在用edimax的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Sophia Wong（）info@certech.com.au 〔用户表〕
-- **KP**：Thomas Boer（）thomasb@certech.com.au 〔用户表〕
+- **KP**：Sophia Wong（Product & Brands Program Manager（研究档；sophiaw@ / info@）= 收件人（选品拍板）— 一页纸一次：分销 20% B（升 A 候选 ★）、① 对位其 Edimax 工业线的 STI-288DGGPM / STI-488DGGPM / STI-0240GE + 商用 STC-2216GP / 2224GP / 4424GCPM 一口价 ② 或 CERTECH 标 / 中性包装 贴标 30% 二选一、MOQ 1 + 付费样机 + 3 年保 — 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、RCM 不声称（DAP 买方清关）（第 118 批 官方登记核实 2026-10-28））info@certech.com.au 〔用户表〕
+- **KP**：Thomas Boer（Senior Network Solutions Specialist（研究档）= 抄送（第 118 批 官方登记核实 2026-10-28））thomasb@certech.com.au 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 澳大利亚 |
-| 其他 | 官网 certech.com.au，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | CERTECH Pty Ltd（ABN 17 149 306 785 / ACN 149 306 785） |
+| 成立 | 约 2011（ACN 149 段推定）（第 118 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 1/33 Heathcote Road, Moorebank NSW 2170（1300 144 111 / 02 8798 9965；旧址 Unit 2/12 Cunningham St）（第 118 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 certech.com.au，语言 en，快照状态 ok；角色判定来源：官网文案；第 118 批：数据 / AV / 安防 / 连接产品分销商 + 自有 CERTECH 品牌布线机柜（20 年布线质保；Edimax 工业交换机在售），品牌项目经理为 KP → **分销 20% B，一页纸一次；升 A 候选 ★**；回信 → 加厚 + 升 A；坐实（官网页脚 + T&C 自列 ABN / ACN）；不点名 Edimax（第 118 批 官方登记核实 2026-10-28） |
 
 - **业务线**：结构化布线 / 机柜 / 网络连接产品分销
 
@@ -230,8 +247,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Sophia Wong | — | info@certech.com.au | 调研核实（公开页） | 用户表 |
-| Thomas Boer | — | thomasb@certech.com.au | 调研核实（公开页） | 用户表 |
+| Sophia Wong | Product & Brands Program Manager（研究档；sophiaw@ / info@）= 收件人（选品拍板）— 一页纸一次：分销 20% B（升 A 候选 ★）、① 对位其 Edimax 工业线的 STI-288DGGPM / STI-488DGGPM / STI-0240GE + 商用 STC-2216GP / 2224GP / 4424GCPM 一口价 ② 或 CERTECH 标 / 中性包装 贴标 30% 二选一、MOQ 1 + 付费样机 + 3 年保 — 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、RCM 不声称（DAP 买方清关）（第 118 批 官方登记核实 2026-10-28） | info@certech.com.au | 调研核实（公开页） | 用户表 |
+| Thomas Boer | Senior Network Solutions Specialist（研究档）= 抄送（第 118 批 官方登记核实 2026-10-28） | thomasb@certech.com.au | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

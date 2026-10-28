@@ -76,6 +76,20 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 118 批（PK · 1 次检索：pronet-tech.net/about-us（Pronet began in 1996 … 200-strong team with offices in Karachi, Lahore and Islamabad, supported by a Dubai-based procurement and technology liaison；Sole Diamond Business Partner for Avaya in Pakistan since 2015；Expert Partnership status with Fortinet；Horizon Tower, Plot# Commercial 2/6, Block No.3, Clifton, Karachi；(+92-21)35822401-4）+ /contact-us（Islamabad 3rd Floor, Redco Plaza, Jinnah Avenue, Blue Area）；SECP 号未得；2026-10-28，2026-10-28 查；https://pronet-tech.net/about-us/）：**
+
+- 法定名 / 登记号：Pronet (Pvt) Ltd（pronet-tech.net；**1996 年起；约 200 人；卡拉奇 Horizon Tower, Plot Commercial 2/6, Block 3, Clifton；+92 21 3582 2401-4；伊斯兰堡 3rd Floor, Redco Plaza, Jinnah Avenue, Blue Area；拉合尔；迪拜采购联络（LinkQuest）；Avaya 巴基斯坦独家 Diamond 伙伴（2015 起）、Fortinet Expert；SECP 号 1 查未得 → 部分坐实**）— IT 基础设施 / 网络安全 / 数据中心 / 联络中心集成商（金融 / 企业客户）；表内 Muhammad Azhar Yousfani 2024-01 要「商用 FE/GE 收发器 5–7 USD」目标价、此后「有需求会说」×3 · 未取（(Pvt) Ltd；SECP 号 1 查未得） · 状态 **营业中（官网 2025 更新）** · 成立 1996 · (Pvt) Ltd
+- 行业码 / 经营范围：IT 基础设施 / 安全 / 数据中心集成（Clifton, Karachi；三城 + 迪拜）
+- 注册地址：Horizon Tower, Plot Commercial 2/6, Block 3, Clifton, Karachi, Pakistan
+- 规模档：中型（约 200 人，自述）
+- 账目：未取；—
+- 高管：Muhammad Azhar Yousfani — 表内联系人（研究档 KP；ayousfani@pronet-tech.net；+92 302 261 0124；职务未核）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **200 人级集成商但需求 = 5–7 USD 低端收发器（Saga 无）+ 三次「有需求会说」→ 不动（B 保留；企业接入 / 数据中心需求来询按集成商 25% 报 STC-4424GCPM / STH 线，预付 100%）**
+  - 守界：金融 / 关键基础设施项目不主动提
+- 备注：不动（需求不对位 + 婉拒式回复）；部分坐实（官网：成立年 + 规模 + 三城地址 + 电话；SECP 号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -102,16 +116,17 @@ updated: 2026-10-28
 - **【用户表】兴趣 protocol converter，需求低端；回复商业 FE GE 5/7usd, DS, profile；有需求会说 ×3**
   > 兴趣：protocol converter 需求产品较为低端；回复：商业FE GE 5/7usd,DS, profile
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Muhammad Azhar Yousfani（）ayousfani@pronet-tech.net +92 302 261 0124〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Muhammad Azhar Yousfani（表内联系人（职务未核；2024-01 要 5–7 USD 商用收发器目标价；「有需求会说」×3）— 不动，不发（企业接入 / 数据中心需求来询按集成商 25% 报）（第 118 批 官方登记核实 2026-10-28））ayousfani@pronet-tech.net +92 302 261 0124〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Pronet (Private) Limited |
-| 总部/地址 | Horizon Tower, Clifton Block 3, Karachi, Pakistan |
-| 其他 | +92-21-35822401-4；迪拜关联公司 LinkQuest |
+| 法定名称 | Pronet (Pvt) Ltd（表内 Pronet Connectivity (Pvt) Ltd.；SECP 号 1 查未得） |
+| 成立 | 1996（第 118 批 官方登记核实 2026-10-28） |
+| 总部/地址 | Horizon Tower, Plot Commercial 2/6, Block 3, Clifton, Karachi（+92 21 3582 2401-4）；伊斯兰堡 3rd Floor, Redco Plaza, Jinnah Avenue, Blue Area；拉合尔；迪拜采购联络（第 118 批 官方登记核实 2026-10-28） |
+| 其他 | +92-21-35822401-4；迪拜关联公司 LinkQuest；第 118 批：IT 基础设施 / 安全 / 数据中心 / 联络中心集成商（Avaya 巴基斯坦独家 Diamond、Fortinet Expert；金融 / 企业客户），需求 = 低端收发器 + 婉拒式回复 → **不动（B 保留）**；部分坐实（官网）；金融 / 关键基础设施项目不主动提（第 118 批 官方登记核实 2026-10-28） |
 
 - **业务线**：企业网络 / 数据中心；网络安全（Fortinet）；监控 / 门禁 / 无线（Ubiquiti）
 - **触达通道（公开）**：role: 系统集成商；region: 巴基斯坦 + 阿联酋
@@ -184,7 +199,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Muhammad Azhar Yousfani | — | ayousfani@pronet-tech.net / +92 302 261 0124 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Muhammad Azhar Yousfani | 表内联系人（职务未核；2024-01 要 5–7 USD 商用收发器目标价；「有需求会说」×3）— 不动，不发（企业接入 / 数据中心需求来询按集成商 25% 报）（第 118 批 官方登记核实 2026-10-28） | ayousfani@pronet-tech.net / +92 302 261 0124 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Mr. Muhammad Azhar Yousfani | — | ayousfani@pronet-tech.net / +03022610124 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发

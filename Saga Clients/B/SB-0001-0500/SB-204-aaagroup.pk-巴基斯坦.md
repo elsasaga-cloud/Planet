@@ -74,6 +74,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 118 批（PK · 1 次检索：aaa-group.com.pk（AAA Group of Companies；209J DHA Rahbar Lahore；0322-413 2000；Construction / Trading / Science Academy）+ pakistanplaces（AAA Group Head Office Karachi；C-117, Sector 31-A Korangi Industrial Area）— 均非 aaagroup.pk，不采信；2026-10-28，2026-10-28 查；）：**
+
+- 法定名 / 登记号：AAA Group（aaagroup.pk；**1 查仅得同名异域：aaa-group.com.pk（拉合尔 209J DHA Rahbar；建筑 / 贸易 / 学院）与「AAA Group Head Office Karachi」（Korangi Industrial Area C-117, Sector 31-A）— 域名 / 页脚 / 负责人均无法对上 → 未坐实**）— 联系人 Nadeem Shar Din（企业邮箱 + WA）；2023-04 要 4 口光猫（ONU，Saga 无）、其后「will check」×2、主动发新年贺卡；21 次推送 2 次实质回复 · 未坐实（同名异域） · 状态 **未坐实** · 成立 未取 · 未取
+- 行业码 / 经营范围：未坐实（巴基斯坦；联系人企业邮箱 aaagroup.pk）
+- 注册地址：未取
+- 规模档：未取
+- 账目：未取；—
+- 高管：Nadeem Shar Din — 表内联系人（研究档 KP；nadeem.sd@aaagroup.pk；+92 300 402 5659 WA 已加；职务未核）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **需求（ONU）不在 Saga 产品线 + 实体未坐实 → 不动（B 保留；关系在（贺卡），交换机需求来询即按集成商 25% 报，预付 100%）**
+- 备注：不动（需求不对位）；未坐实（同名异域，1 查止）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -99,17 +112,17 @@ updated: 2026-10-28
 - **【第三方】同名公司排除记录**
   > AAA Group of Companies（aaa-group.com.pk：Construction / Trading / Science Academy）；AAA Solutions（纺织，North Karachi）——均非 aaagroup.pk
   > 来源：https://aaa-group.com.pk/（抓取 2026-10-21）
-- **KP**：Nadeem Shar Din（（职位未核））nadeem.sd@aaagroup.pk +92 300 402 5659（WA 已加）〔用户 Clients 表〕
+- **KP**：Nadeem Shar Din（表内联系人（职务未核；WA 已加；2023-04 要 4 口光猫；主动发过新年贺卡）— 不动，不发（交换机需求来询即按集成商 25% 报，预付 100%）（第 118 批 官方登记核实 2026-10-28））nadeem.sd@aaagroup.pk +92 300 402 5659（WA 已加）〔用户 Clients 表〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（身份待核 · 需求映射））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | 待核（aaagroup.pk） |
+| 法定名称 | AAA Group（aaagroup.pk；1 查仅得同名异域 aaa-group.com.pk / AAA Group Korangi → 未坐实） |
 | 成立 | 待核 |
 | 总部/地址 | 巴基斯坦（城市待核；+92 300 402 5659 为移动号） |
-| 其他 | 搜索命中的多家 AAA Group（卡拉奇建筑贸易、北卡拉奇纺织、拉合尔代工）均未使用 aaagroup.pk 域，不能判定为同一主体 |
+| 其他 | 搜索命中的多家 AAA Group（卡拉奇建筑贸易、北卡拉奇纺织、拉合尔代工）均未使用 aaagroup.pk 域，不能判定为同一主体；第 118 批：需求（ONU）不在 Saga 产品线 + 实体未坐实 → **不动（B 保留；关系在）**；未坐实（同名异域，1 查止）（第 118 批 官方登记核实 2026-10-28） |
 
 - **业务线**：待核（表内需求：ONU/光猫、工业电源、10G 收发器→偏 ISP/网络工程采购）
 - **触达通道（公开）**：contact: Nadeem Shar Din nadeem.sd@aaagroup.pk，+92 300 402 5659（WA 已加）
@@ -191,7 +204,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Nadeem Shar Din | （职位未核） | nadeem.sd@aaagroup.pk / +92 300 402 5659（WA 已加） | 调研核实（公开页） | 用户 Clients 表 |
+| Nadeem Shar Din | 表内联系人（职务未核；WA 已加；2023-04 要 4 口光猫；主动发过新年贺卡）— 不动，不发（交换机需求来询即按集成商 25% 报，预付 100%）（第 118 批 官方登记核实 2026-10-28） | nadeem.sd@aaagroup.pk / +92 300 402 5659（WA 已加） | 调研核实（公开页） | 用户 Clients 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 

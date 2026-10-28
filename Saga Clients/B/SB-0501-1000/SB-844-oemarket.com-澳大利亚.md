@@ -72,6 +72,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 118 批（AU · 1 次检索：oemarket.com/catalog/about_us.php（Oemarket.com is owned and operated by Bitline System Pty Ltd (ABN 48 093 949 921)；Sydney, New South Wales；designing and manufacturing fiber-optic products … photonics design tools）+ zoominfo（Bitline System；10 Fishburns Rd, Galston NSW；+61 298991412）+ electronicsonline.net.au（Bitline System Pty Ltd；8 Princes Street, Bexley NSW 2207；info@oemarket.com.au）；2026-10-28，2026-10-28 查；http://www.oemarket.com/catalog/about_us.php?currency=AUD）：**
+
+- 法定名 / 登记号：oeMarket.com = Bitline System Pty Ltd（**ABN 48 093 949 921；悉尼：10 Fishburns Rd, Galston NSW（ZoomInfo）/ 8 Princes Street, Bexley NSW 2207（名录）；+61 2 9899 1412**）— 光电子 / 光纤产品网店 + 自研设计制造（MC、收发器、激光二极管、无源器件、测试仪、光子学设计工具；客户 科研院校 / 电信设备商，全球 30+ 国）；表内「MC 像公司之前的灰色外壳」；无 KP（info@）；表内未跟进 · ABN 48 093 949 921 · 状态 **营业中（ABN 在；官网间歇可达）** · 成立 未取（ABN 093 → 约 2000 ACN 段） · Pty Ltd
+- 行业码 / 经营范围：光电子 / 光纤产品 网店 + 设计制造（悉尼）
+- 注册地址：8 Princes Street, Bexley NSW 2207 / 10 Fishburns Rd, Galston NSW, Australia
+- 规模档：微型
+- 账目：未取；—
+- 高管：（研究档无 KP：info@oemarket.com）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **产品不对位（光子学 / 无源 / MC 网店；Saga 仅 STC-110XGE）+ 无 KP + 从未跟进 → 不动（B 保留）**
+- 备注：不动（产品不对位 + 无 KP）；坐实（官网自列 ABN + 法人名 + 地址）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -104,8 +117,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 澳大利亚 |
-| 其他 | 官网 oemarket.com，语言 ?，快照状态 http_error；角色判定来源：待核 |
+| 法定名称 | Bitline System Pty Ltd（ABN 48 093 949 921；经营 oeMarket.com） |
+| 成立 | 未取（ABN 093 段 ≈ 2000）（第 118 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 8 Princes Street, Bexley NSW 2207 / 10 Fishburns Rd, Galston NSW（+61 2 9899 1412）（第 118 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 oemarket.com，语言 ?，快照状态 http_error；角色判定来源：待核；第 118 批：光电子 / 光纤产品网店 + 自研设计制造（MC / 收发器 / 激光二极管 / 无源 / 测试仪；全球 30+ 国科研电信客户）→ 产品不对位 + 无 KP → **不动（B 保留）**；坐实（官网 about 自列 ABN + 法人名）（第 118 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络配件网店（澳大利亚）
 - **触达通道（公开）**：role: 网络配件网店（澳大利亚，MC）；region: 澳大利亚；contact: info@oemarket.com

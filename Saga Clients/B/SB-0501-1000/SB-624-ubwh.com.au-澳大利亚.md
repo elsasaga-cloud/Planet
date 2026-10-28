@@ -79,6 +79,20 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 118 批（AU · 1 次检索：ubwh.com.au（UBWH Australia；02 8412 8312；store@ubwh.com.au；Office: 3 Barker Place Bicton WA 6157；Australian business focused on bringing Ubiquiti products to the Australian market；ABN: 79 153 180 888）+ scamadviser（Organisation Freenet Warehouse Pty Ltd；Owner Robert Clark；ubwh.com.au / netonix.com.au）；2026-10-28，2026-10-28 查；https://ubwh.com.au/index.php?nfc=1&page=1）：**
+
+- 法定名 / 登记号：UBWH Australia = Freenet Warehouse Pty Ltd（ubwh.com.au / netonix.com.au；**ABN 79 153 180 888；Office 3 Barker Place, Bicton WA 6157；02 8412 8312；所有人 Robert Clark（域名 whois）**）— **Ubiquiti 专营进口网店（UniFi / airFiber / EdgeMAX；「lowest possible price」大量进口囤货）**；无 KP（cs@ / store@）；6 次跟进无回复 · ABN 79 153 180 888 · 状态 **营业中（网店在）** · 成立 未取（ABN 153 → 约 2011 ACN 段） · Pty Ltd
+- 行业码 / 经营范围：Ubiquiti 专营进口网店（Bicton WA）
+- 注册地址：3 Barker Place, Bicton WA 6157, Australia
+- 规模档：微型
+- 账目：未取；—
+- 高管：Robert Clark — 所有人（域名 whois）
+- 高管：（研究档无 KP：cs@ubwh.com.au）
+- 控制人 / 股东：Robert Clark（推定）
+- **这意味着什么：**
+  - **单一原厂（Ubiquiti）专营网店 + 无 KP + 6×0 → 不动（B 保留）**
+- 备注：不动（原厂专营 + 无 KP）；坐实（网店自列 ABN + 地址；法人名 whois）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -114,14 +128,17 @@ updated: 2026-10-28
 - **【用户表】很多品牌 销售平台**
   > 很多品牌子的；销售平台
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Robert Clark（所有人（域名 whois：Freenet Warehouse Pty Ltd）— 不动，不发（第 118 批 官方登记核实 2026-10-28）） 〔scamadviser.com/check-website/ubwh.com.au〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 澳大利亚 |
-| 其他 | 官网 ubwh.com.au，语言 ?，快照状态 http_error；角色判定来源：待核 |
+| 法定名称 | Freenet Warehouse Pty Ltd（ABN 79 153 180 888；经营 UBWH Australia / netonix.com.au） |
+| 成立 | 未取（ABN 153 段 ≈ 2011）（第 118 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 3 Barker Place, Bicton WA 6157（02 8412 8312）（第 118 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 ubwh.com.au，语言 ?，快照状态 http_error；角色判定来源：待核；第 118 批：Ubiquiti 专营进口网店（「lowest possible price」囤货）+ 无 KP + 6×0 → **不动（B 保留）**；坐实（网店自列 ABN + 地址；法人名 whois）（第 118 批 官方登记核实 2026-10-28） |
 
 - **业务线**：多品牌网店（澳大利亚）
 - **触达通道（公开）**：role: 多品牌网店（澳大利亚，平台型）；region: 澳大利亚；contact: cs@ubwh.com.au
@@ -201,7 +218,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | cs@ubwh.com.au | 用户表原值 | Clients/ 表 |
+| Robert Clark | 所有人（域名 whois：Freenet Warehouse Pty Ltd）— 不动，不发（第 118 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | scamadviser.com/check-website/ubwh.com.au |
 
 - **通道建议**：企业邮箱可直发
 

@@ -89,6 +89,21 @@ updated: 2026-10-28
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 - 【惯例】12-18→01-25：澳新夏休：12-18 起到 1 月下旬，很多公司直接关到澳大利亚日（1-26）后
 
+**公司底数 · 第 118 批（AU · 1 次检索：psaproducts.com.au 2026-10-01（17 Millicent Street, Burwood VIC 3125；PSA Centrii / Lifesaver / Panacom / Homeguard / Hilook）+ rexelha.com.au 2022-04 PDF（PSA Products Pty Ltd ABN 99 076 468 703；PSA House 17 Millicent Street, Burwood VIC 3125；03 9888 9889 or marcus@psaproducts.com.au）+ psacentrii.com.au/pages/warranty（PSA Products Pty Ltd (ABN: 99 076 468 703)）；2026-10-28，2026-10-28 查；https://www.rexelha.com.au/wp-content/uploads/2022/04/PSA-Price-change-notification-1st-May-2022.pdf）：**
+
+- 法定名 / 登记号：PSA Products Pty Ltd（psaproducts.com.au；**ABN 99 076 468 703；PSA House, 17 Millicent Street, Burwood VIC 3125；03 9888 9889；官网 2026-10 在线**）— **澳洲安防批发分销商（自有品牌 PSA Centrii / Lifesaver 烟感 / Panacom 对讲 / Homeguard + HiLook 代理；电气批发渠道 Rexel 等）**；表内「商业 PoE 主要是 HiLook 牌子的」「可以多跟进一下」；KP Marcus Ooi（General Manager；marcus@ 见 2022 调价函）/ Vince Bruzzese（BDM）；21 次跟进无回复 · ABN 99 076 468 703 · 状态 **营业中（ABN 在；官网 2026-10）** · 成立 未取（ABN 076 → 约 1996–1997 ACN 段） · Pty Ltd
+- 行业码 / 经营范围：安防产品批发分销 + 自有品牌（Burwood VIC）
+- 注册地址：PSA House, 17 Millicent Street, Burwood VIC 3125, Australia
+- 规模档：中小
+- 账目：未取；—
+- 高管：Marcus Ooi — General Manager（研究档 KP；marcus@psaproducts.com.au；2022 调价函署名）= 拍板人 / 收件人
+- 高管：Vince Bruzzese — Business Development Manager（研究档 KP；enquiry@）= 抄送
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **多自有品牌安防分销商、GM 为 KP、Simon「可以多跟进」→ 贴标 OEM 30% B，一页纸一次（最后一次：PSA / Panacom 标 PoE：STC-028GP $28 / STC-228GP / STC-2216GP / STC-2224GP（摄像机供电 250 m 延长模式）+ 管理 STC-4424GCPM + MOQ 1 起贴标 + 付费样机；对位其 HiLook 商业 PoE 不点名；英文，Marcus 直呼、抄 Vince）— 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（RCM 不声称、由买方自办；DAP 买方清关）**；21×0 在先 → 再无回声即不动
+  - 守界：RCM 不声称；烟感 / 对讲 / 摄像机不碰
+- 备注：贴标 OEM 30%；一页纸一次（最后一次）；坐实（ABN + 法定名 + 地址 + 电话，三源一致）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -132,16 +147,18 @@ updated: 2026-10-28
 - **【用户表】商业 PoE 主要 HiLook**
   > 商业POE 主要是hilook牌子的；可以多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Marcus Ooi（）marcus@psaproducts.com.au 〔用户表〕
-- **KP**：Vince Bruzzese（）enquiry@psaproducts.com.au 〔用户表〕
+- **KP**：Marcus Ooi（General Manager（研究档；2022 调价函署名 marcus@；21 次跟进无回复；Simon「可以多跟进一下」）= 拍板人 / 收件人 — 一页纸一次（最后一次）：贴标 OEM 30% B、PSA / Panacom 标 PoE STC-028GP $28 / STC-228GP / STC-2216GP / STC-2224GP（摄像机 250 m 延长模式）+ 管理 STC-4424GCPM、MOQ 1 起贴标 + 付费样机 — 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、RCM 不声称（DAP 买方清关）（第 118 批 官方登记核实 2026-10-28））marcus@psaproducts.com.au 〔用户表〕
+- **KP**：Vince Bruzzese（Business Development Manager（研究档）= 抄送（第 118 批 官方登记核实 2026-10-28））enquiry@psaproducts.com.au 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 澳大利亚 |
-| 其他 | 官网 psaproducts.com.au，语言 en-AU，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | PSA Products Pty Ltd（ABN 99 076 468 703） |
+| 成立 | 未取（ABN 076 段 ≈ 1996–1997）（第 118 批 官方登记核实 2026-10-28） |
+| 总部/地址 | PSA House, 17 Millicent Street, Burwood VIC 3125（03 9888 9889）（第 118 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 psaproducts.com.au，语言 en-AU，快照状态 ok；角色判定来源：官网文案；第 118 批：澳洲安防批发分销商（自有品牌 PSA Centrii / Lifesaver / Panacom / Homeguard + HiLook 代理；电气批发渠道 Rexel），GM 为 KP → **贴标 OEM 30% B，一页纸一次（最后一次）**；21×0 在先 → 再无回声即不动；坐实（三源一致 ABN + 地址）；对位 HiLook 不点名（第 118 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防系统批发分销（澳大利亚）
 - **触达通道（公开）**：role: 安防批发分销商（澳大利亚，PoE 现 HiLook）；region: 澳大利亚；contact: enquiry@psaproducts.com.au、marcus@psaproducts.com.au
@@ -255,8 +272,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Marcus Ooi | — | marcus@psaproducts.com.au | 调研核实（公开页） | 用户表 |
-| Vince Bruzzese | — | enquiry@psaproducts.com.au | 调研核实（公开页） | 用户表 |
+| Marcus Ooi | General Manager（研究档；2022 调价函署名 marcus@；21 次跟进无回复；Simon「可以多跟进一下」）= 拍板人 / 收件人 — 一页纸一次（最后一次）：贴标 OEM 30% B、PSA / Panacom 标 PoE STC-028GP $28 / STC-228GP / STC-2216GP / STC-2224GP（摄像机 250 m 延长模式）+ 管理 STC-4424GCPM、MOQ 1 起贴标 + 付费样机 — 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、RCM 不声称（DAP 买方清关）（第 118 批 官方登记核实 2026-10-28） | marcus@psaproducts.com.au | 调研核实（公开页） | 用户表 |
+| Vince Bruzzese | Business Development Manager（研究档）= 抄送（第 118 批 官方登记核实 2026-10-28） | enquiry@psaproducts.com.au | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 21 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

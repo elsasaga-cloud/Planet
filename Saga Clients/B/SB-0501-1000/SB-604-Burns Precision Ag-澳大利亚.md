@@ -73,6 +73,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 118 批（AU · 1 次检索：burnsprecisionag.com.au（02 6344 8246；22 Main Street, Gooloogong NSW 2805；Master Licence 000104216；ISOBUS / SAGRO 10 / IBX100）+ agtechfinder（Dealer for Arag & AgLeader；Distributor for CHCNAV GNSS；Manufacturers of KestrelEye Products；Year Established June 2017；0401 441 050）+ 官网 Network Switches 页；ABN 未得；2026-10-28，2026-10-28 查；https://www.agtechfinder.com/company/burns-precision-ag）：**
+
+- 法定名 / 登记号：Burns Precision Ag（burnsprecisionag.com.au；**22 Main Street, Gooloogong NSW 2805；02 6344 8246；2017-06 成立；NSW 安防 Master Licence 000104216；法人 / ABN 1 查未得 → 部分坐实**）— 精准农业硬件经销（Arag / AgLeader 经销、CHCNAV GNSS 分销、MM 喷洒设备、自产 KestrelEye 农机摄像头；网站设「Network Switches」页）；阿里巴巴询盘「升压 5 口」；KP Preston Burns（负责人）；表内未跟进 · 未取（ABN 1 查未得；安防牌照 000104216） · 状态 **营业中（官网 2024 更新）** · 成立 2017-06 · 未取（Pty Ltd 推定）
+- 行业码 / 经营范围：精准农业硬件经销 + 农机摄像头制造（Gooloogong NSW）
+- 注册地址：22 Main Street, Gooloogong NSW 2805, Australia
+- 规模档：微型
+- 账目：未取；—
+- 高管：Preston Burns — 负责人（研究档 KP；preston@burnsprecisionag.com.au）
+- 控制人 / 股东：Preston Burns（推定）
+- **这意味着什么：**
+  - **需求 = 升压 PoE（车载 12/24 V；Saga 无）+ 乡镇微型经销 → 不动（B 保留；标准 48 V PoE 需求来询再按分销 20% 报 STI-054GP / STC-028GP）**
+- 备注：不动（需求不对位 升压 + 微型）；部分坐实（官网 + 名录：地址 + 电话 + 成立年 + 牌照；ABN 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -105,15 +118,17 @@ updated: 2026-10-28
 - **【用户表】升压 5 口询盘**
   > 升压5口 / from: 阿里巴巴询盘
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Preston Burns（）preston@burnsprecisionag.com.au 〔用户表〕
+- **KP**：Preston Burns（负责人（研究档；阿里巴巴询盘 升压 5 口）— 不动，不发（标准 48 V PoE 需求再按分销 20% 报）（第 118 批 官方登记核实 2026-10-28））preston@burnsprecisionag.com.au 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 澳大利亚 |
-| 其他 | 官网 burnsprecisionag.com.au，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Burns Precision Ag（法人 / ABN 1 查未得；NSW 安防 Master Licence 000104216） |
+| 成立 | 2017-06（第 118 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 22 Main Street, Gooloogong NSW 2805（02 6344 8246）（第 118 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 burnsprecisionag.com.au，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 118 批：精准农业硬件经销（Arag / AgLeader / CHCNAV；自产 KestrelEye 农机摄像头；网站有 Network Switches 页），需求 = 升压 PoE（Saga 无）+ 乡镇微型 → **不动（B 保留）**；部分坐实（官网 + agtechfinder）（第 118 批 官方登记核实 2026-10-28） |
 
 - **业务线**：精准农业设备（澳大利亚）
 - **触达通道（公开）**：role: 精准农业设备商（澳大利亚，车载低压 PoE 需求）；region: 澳大利亚；contact: preston@burnsprecisionag.com.au
@@ -171,7 +186,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Preston Burns | — | preston@burnsprecisionag.com.au | 调研核实（公开页） | 用户表 |
+| Preston Burns | 负责人（研究档；阿里巴巴询盘 升压 5 口）— 不动，不发（标准 48 V PoE 需求再按分销 20% 报）（第 118 批 官方登记核实 2026-10-28） | preston@burnsprecisionag.com.au | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 
