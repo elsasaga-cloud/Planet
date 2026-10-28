@@ -1,0 +1,52 @@
+{
+ "code": "XA-M332",
+ "name": "Philippe ROBERT",
+ "round": "W2-R04",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "summary": "= XA-M201 ENGITECH S.A.（同公司顾问 Philippe Robert）；MikroTik 生态切入",
+ "type_final": "= XA-M201 ENGITECH S.A.（同公司顾问 Philippe Robert）",
+ "size": "未量化",
+ "brands_seen": [
+  "MikroTik 培训伙伴",
+  "持 MTCNA MTCRE MTCTCE MTCUME MTCSWE"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "Engitech S.A.。持 MTCSWE，瑞士首位进库。 【2026-09-27 A210–A239联络核验】来源等级：official。Engitech现官网联系页正文总邮箱及+41763264000匹配原电话；Carouge地址不自动改Geneve城市。2019 MUM官方PDF搜索把Philippe ROBERT/Engitech Genève与p.robert@engitech.ch相连，但未抓PDF正文，个人邮箱只历史待核",
+   "quote": "",
+   "url": "https://engitech.ch/",
+   "date": "2026-09-27"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-01 发 office@engitech.ch「24 Port PoE Managed Switch」，去 2 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-06"
+  }
+ ],
+ "contacts": {
+  "email": "office@engitech.ch",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-01 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "同公司并线 → C",
+ "next_move": {
+  "action": "并线",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": ""
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

@@ -1,0 +1,42 @@
+{
+ "code": "XA-E017",
+ "name": "PROFIcomms s.r.o.",
+ "round": "W2-R04",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "= XA-M154 Proficomms（同公司，mik 库条目有邮箱）",
+ "type_final": "= XA-M154 Proficomms（同公司，mik 库条目有邮箱）",
+ "size": "未量化",
+ "brands_seen": [],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "- https://www.edge-core.com/where-to-buy/emea-distributors/（2026-10-18 检索，官方渠道名录）；批次：batch/contact_research_2026-10-18_R1_官方渠道全量.json",
+   "quote": "",
+   "url": "https://proficomms.cz/",
+   "date": "2026-09-28"
+  }
+ ],
+ "contacts": {
+  "email": "dorociak@proficomms.cz",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "跨库重复 → C 并线",
+ "next_move": {
+  "action": "并线",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": ""
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

@@ -1,6 +1,6 @@
 # XA-C0012 · Inter Projekt S.A. · 波兰
 
-> **初判 XA 长期跟进** ｜ 来源 CCTV-PoE `smartbyte/profile/inter-projekt-poland.md`:1（其分级 A类） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+> **现判 XA 长期跟进** ｜ 来源 CCTV-PoE `smartbyte/profile/inter-projekt-poland.md`:1（其分级 A类） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W2-R04 2026-10-27）→ 下一动作 第二封
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家（分销/集成/安装/零售/OEM 品牌）+ 有邮箱
@@ -151,7 +151,43 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究与跟进（第 2 步起填）
-- 研究状态：未研究
-- 研究结论 / 升降建议：—
-- 下一步：—
+## 8. 研究卡（第 2 步，W2-R04，2026-10-27）
+
+- **结论：XA** — PL 次重点区网络进口分销 → 维持 A（优先）
+- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 一句话：网络设备进口分销商（Gliwice，Inter Projekt S.A.）
+- 是什么人：网络设备进口分销商（Gliwice，Inter Projekt S.A.）；规模：未量化
+- 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — 进口分销，PoE 全线可供
+- 找得到人吗：orders@interprojekt.pl（来源库公开邮箱）；KP：无具名
+- 已触达：S 箱 2026-10-01 群发「24 Port PoE Managed Switch」→ 已发未回
+- 与 Saga Clients：无
+- **下一动作：第二封** — 分销三件套：HRUI 24 口 + SmartByte 24 口 L2+ + STI；型号 STC-2224GP / STC-424XGGPM-280W / STI-288DGGPM；价 USD 86 / USD 170 / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)；窗口 PL 周四 12–14；建议 2026-11-12
+
+证据：
+| 类型 | 说明 | 摘录 | 来源 | 日期 |
+|---|---|---|---|---|
+| 来源库官网/名录核对 | 网络设备进口分销商 |  | https://interprojekt.pl/ | 2026-09-28 |
+| S 箱群发记录 | S 箱 2026-10-01 发 orders@interprojekt.pl「24 Port PoE Managed Switch」，去 1 来 0 |  | data/gmail_s/2026-09_10群发名单_未入库.csv | 2026-10-01 |
+
+草稿（英文，第二封；Simon 发，Agent 不发）：
+
+```text
+Subject: PoE switch line for your reseller channel - distributor pricing
+
+Hi,
+
+I wrote on 1 October about our 24-port PoE L2+ switch ('24 Port PoE Managed Switch'); this is a different angle, so a fresh note rather than a reply.
+
+Three PoE switches our distributor partners move most, all EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE, under our label or yours:
+
+- STC-2224GP: 24 x GE PoE+ (300 W) + 2 x GE + 2 x SFP, USD 86.
+- STC-424XGGPM-280W: 24 x GE PoE+ (280 W) + 4 x 10G SFP+, Marvell-based L2+ managed, USD 170.
+- STI-288DGGPM: DIN-rail industrial L2+, 8 x GE PoE+ (240 W) + 2 x SFP, -40 to +75 C, USD 137, 3-year warranty (12 months on the commercial units).
+
+Which of the three would be worth a sample for your product team first - the 24-port L2+, the 24-port entry PoE, or the DIN-rail unit?
+
+Simon
+Saga Telecom - sagatele.com
+```
+
+- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。

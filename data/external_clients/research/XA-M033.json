@@ -1,0 +1,44 @@
+{
+ "code": "XA-M033",
+ "name": "Ihor Hreskiv / mtik.pl",
+ "round": "W2-R04",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "MikroTik 讲师（Kraków，mtik.pl）；MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战",
+ "type_final": "MikroTik 讲师（Kraków，mtik.pl）",
+ "size": "未量化",
+ "brands_seen": [
+  "MikroTik 认证顾问 10 证全拿"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "★ MikroTik 认证讲师，已授课 300+ 场；20+ 年经验，ISP 咨询、动态路由、交换、WiFi/CAPsMAN；英/波/乌三语",
+   "quote": "",
+   "url": "https://mtik.pl/",
+   "date": "2026-09-28"
+  }
+ ],
+ "contacts": {
+  "email": "biuro@mtik.pl",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "顾问/培训/小集成商，非渠道 → B（不进第二封）",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

@@ -1,0 +1,58 @@
+{
+ "code": "XA-E006",
+ "name": "Nine-One-One Communication Supply",
+ "round": "W2-R04",
+ "researched_at": "2026-10-27",
+ "alive": "本轮 web_search 复核在线（2026-10-27）",
+ "summary": "电信硬件批发分销（Calgary，1989 起，Ericsson-LG 加拿大独家分销，11–50 人；经销商网络全国）",
+ "type_final": "电信硬件批发分销（Calgary，1989 起，Ericsson-LG 加拿大独家分销，11–50 人；经销商网络全国）",
+ "size": "电信硬件批发分销（Calgary，1989 起，Ericsson-LG 加拿大独家分销，11–50 人；经销商网络全国）",
+ "brands_seen": [],
+ "saga_line": "SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE",
+ "fit": "全国经销商网络，PoE 配 IP 话机/酒店部署",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "- https://www.edge-core.com/where-to-buy/NorthAmerica-reseller/（2026-10-18 检索，官方渠道名录）；批次：batch/contact_research_2026-10-18_R1_官方渠道全量.json",
+   "quote": "",
+   "url": "https://nine-one-one.ca/",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-19 发 jesse.foster@nine-one-one.ca「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-19"
+  }
+ ],
+ "contacts": {
+  "email": "jesse.foster@nine-one-one.ca",
+  "email_status": "来源库公开邮箱",
+  "kp": [
+   {
+    "name": "Jesse Foster",
+    "role": "V.P. Sales & Marketing",
+    "source": "BusinessWire 2024-05 伙伴稿 / S 箱收件人"
+   }
+  ]
+ },
+ "touch_status": "S 箱 2026-10-19 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "A",
+ "grade_reason_final": "CA 主攻区电信分销、KP 实名 → 维持 A",
+ "next_move": {
+  "action": "第二封",
+  "angle": "分销三件套：HRUI 24 口 + SmartByte 24 口 L2+ + STI",
+  "model": "STC-2224GP / STC-424XGGPM-280W / STI-288DGGPM",
+  "price": "USD 86 / USD 170 / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "CA 周三 08–10 当地",
+  "when": "2026-11-18"
+ },
+ "notes": "本轮 web_search 复核：nine-one-one.ca「wholesale distributor servicing all of Canada… network switches」；Boom Collaboration 稿 Jesse Foster V.P. Sales & Marketing。 ",
+ "draft_en": {
+  "subject": "PoE switch line for your reseller channel - distributor pricing",
+  "body": "Hi Jesse,\n\nI wrote on 19 October about our 24-port PoE L2+ switch ('24 Port PoE Managed Switch'); this is a different angle, so a fresh note rather than a reply.\n\nThree PoE switches our distributor partners move most, all EXW Shenzhen (snapshot 2026-10-27, valid 15 days), FCC/ISED, under our label or yours:\n\n- STC-2224GP: 24 x GE PoE+ (300 W) + 2 x GE + 2 x SFP, USD 86.\n- STC-424XGGPM-280W: 24 x GE PoE+ (280 W) + 4 x 10G SFP+, Marvell-based L2+ managed, USD 170.\n- STI-288DGGPM: DIN-rail industrial L2+, 8 x GE PoE+ (240 W) + 2 x SFP, -40 to +75 C, USD 137, 3-year warranty (12 months on the commercial units).\n\nFor your interconnect dealers, is PoE for phone and camera deployments something you would rather carry under your own label or ours?\n\nSimon\nSaga Telecom - sagatele.com"
+ },
+ "deep": false
+}

@@ -1,0 +1,53 @@
+{
+ "code": "XA-M078",
+ "name": "Frédéric Gauthier / ProRéseau",
+ "round": "W2-R04",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "一人公司（ProRéseau，Québec）；MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战",
+ "type_final": "一人公司（ProRéseau，Québec）",
+ "size": "一人公司（ProRéseau，Québec）",
+ "brands_seen": [
+  "MikroTik 认证顾问 MTCNA",
+  "MTCSE",
+  "MTCEWE"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "【2026-09-28 R53 B段复筛达标升级】官网核对：ProRéseau（魁北克城）为一人公司，服务含结构化布线、routeur ou switch 编程、5.2GHz 83km 点对点、SIP 电话；官网直接给出负责人手机与 fgauthier@proreseau.net。原 B-063 → 现 A-444，物理位置不动、原 B 号空置不回填；证据与原文摘录见批次文件。 证据：[1](https://www.proreseau.",
+   "quote": "",
+   "url": "https://proreseau.net/",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-05 发 fgauthier@proreseau.net「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-05"
+  }
+ ],
+ "contacts": {
+  "email": "fgauthier@proreseau.net",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-05 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "顾问/培训/小集成商，非渠道 → B（不进第二封）",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

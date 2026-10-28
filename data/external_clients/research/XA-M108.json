@@ -1,0 +1,44 @@
+{
+ "code": "XA-M108",
+ "name": "QEDV IT-Lösungen（Raum4 GmbH）",
+ "round": "W2-R04",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "IT 网店（QEDV，Tirol）；MikroTik 官方分销，商用线可直接比价，工业线为零 → 新品类增量",
+ "type_final": "IT 网店（QEDV，Tirol）",
+ "size": "未量化",
+ "brands_seen": [
+  "MikroTik（Reseller）"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "Hall in Tirol 【2026-09-28 R53 B段复筛达标升级】官网核对：QEDV（Tirol）IT 网店出售 «Mikrotik 24-Port Switch mit 2x SFP+ lüfterlos»（24口无风扇 SFP+ 交换机）与 24-Port PoE 交换机，另售 MikroTik 路由器/AP 与 PoE 注入器。原 B-112 → 现 A-468，物理位置不动、原 B 号空置不回填；证据与原文摘录见批次",
+   "quote": "",
+   "url": "https://shop.qedv.at/",
+   "date": "2026-09-28"
+  }
+ ],
+ "contacts": {
+  "email": "office@qedv.at",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "小网店 → B",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

@@ -1,0 +1,47 @@
+{
+ "code": "XA-M477",
+ "name": "DDS Netcom AG",
+ "round": "W2-R04",
+ "researched_at": "2026-10-27",
+ "alive": "本轮 web_search 复核在线（2026-10-27）",
+ "summary": "OT/工业网络专业商 + 网店（DDS NetCom AG，Fehraltorf，1992 起，2–10 人；2023 起为美国 McNaughton-McKay 全资子公司）；Marvell Prestera 接入层切入",
+ "type_final": "OT/工业网络专业商 + 网店（DDS NetCom AG，Fehraltorf，1992 起，2–10 人；2023 起为美国 McNaughton-McKay 全资子公司）",
+ "size": "OT/工业网络专业商 + 网店（DDS NetCom AG，Fehraltorf，1992 起，2–10 人；2023 起为美国 McNaughton-McKay 全资子公司）",
+ "brands_seen": [
+  "Allied Telesis（Marvell Prestera 接入层）"
+ ],
+ "saga_line": "SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE",
+ "fit": "工业/楼宇自动化网络，DIN 轨 PoE 对位",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "【人工定级保留】原无邮箱说明已由本轮来源核验结果替代；不改评级。 伙伴等级：Resell。 【2026-09-27 A210–A239联络核验】来源等级：official-obfuscated。dds.ch实际跳转官网商城，正文DDS NETCOM AG、Allmendstrasse 8 CH-8320 Fehraltorf及info(at)dds.ch，可逆规范化不是猜测。电话正文同时有+41 43 3552211和+41 44 35",
+   "quote": "",
+   "url": "https://webshop.dds.ch/",
+   "date": "2026-09-27"
+  }
+ ],
+ "contacts": {
+  "email": "info@dds.ch",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "A",
+ "grade_reason_final": "CH 工业网络渠道、未触达 → A 首触（小，权重中）",
+ "next_move": {
+  "action": "首触",
+  "angle": "工业 DIN 轨 PoE 首触",
+  "model": "STI-288DGGPM",
+  "price": "USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "CH 周四 12–14",
+  "when": "2026-11-19"
+ },
+ "notes": "本轮 web_search 复核：LinkedIn「seit Mai 2023 eine 100%ige Tochter der McNaughton-McKay… kritische IT-Netzwerke in Industrie, Produktion und Gebäudeautomation」；os.dds.ch「Industrial Networking Solutions… Switching」。 ",
+ "draft_en": {
+  "subject": "DIN-rail industrial PoE switches - second source for your line card",
+  "body": "Hi,\n\nSaga Telecom builds DIN-rail industrial Ethernet switches for distributors who already carry automation and industrial communication brands and want a second source at a lower price point, CE.\n\nSTI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.\n\nWould a lower-priced DIN-rail PoE switch be worth a test unit for your OT network projects?\n\nSimon\nSaga Telecom - sagatele.com"
+ },
+ "deep": false
+}

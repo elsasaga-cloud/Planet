@@ -1,0 +1,52 @@
+{
+ "code": "XA-M298",
+ "name": "Mikrotik Warsaw Training Center",
+ "round": "W2-R04",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "summary": "华沙 MikroTik 官方培训中心；MikroTik 生态切入",
+ "type_final": "华沙 MikroTik 官方培训中心",
+ "size": "未量化",
+ "brands_seen": [
+  "MikroTik 认证培训伙伴",
+  "持 MTCNA MTCRE MTCWE MTCTCE MTCUME MTCINE MTCIPv6E MTCSE MTCSWE MTCEWE"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "华沙官方培训中心（M.Filipek / P.Wasyk / I.Hreskiv），持 MTCSWE。 【2026-09-27 A240–A259联络核验】来源等级：official。官网/kontakt/实际返回新版站正文，第2块有总邮箱及Michał +48 796171971/michal@mwtc.pl、Piotr +48 513322115/piotr@mwtc.pl，Ogrodowa58 Warszawa、NIP527284",
+   "quote": "",
+   "url": "https://mwtc.pl/",
+   "date": "2026-09-27"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-01 发 info@mwtc.pl「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-01"
+  }
+ ],
+ "contacts": {
+  "email": "info@mwtc.pl",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-01 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "顾问/培训/小集成商，非渠道 → B（不进第二封）",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

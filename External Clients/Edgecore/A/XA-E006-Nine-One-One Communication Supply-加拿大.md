@@ -1,6 +1,6 @@
 # XA-E006 · Nine-One-One Communication Supply · 加拿大
 
-> **初判 XA 长期跟进** ｜ 来源 Edgecore `A-050`（原评级 A，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+> **现判 XA 长期跟进** ｜ 来源 Edgecore `A-050`（原评级 A，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W2-R04 2026-10-27）→ 下一动作 第二封
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱
@@ -94,7 +94,43 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究与跟进（第 2 步起填）
-- 研究状态：未研究
-- 研究结论 / 升降建议：—
-- 下一步：—
+## 8. 研究卡（第 2 步，W2-R04，2026-10-27）
+
+- **结论：XA** — CA 主攻区电信分销、KP 实名 → 维持 A
+- 活着吗：本轮 web_search 复核在线（2026-10-27）
+- 一句话：电信硬件批发分销（Calgary，1989 起，Ericsson-LG 加拿大独家分销，11–50 人；经销商网络全国）
+- 是什么人：电信硬件批发分销（Calgary，1989 起，Ericsson-LG 加拿大独家分销，11–50 人；经销商网络全国）；规模：电信硬件批发分销（Calgary，1989 起，Ericsson-LG 加拿大独家分销，11–50 人；经销商网络全国）
+- 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — 全国经销商网络，PoE 配 IP 话机/酒店部署
+- 找得到人吗：jesse.foster@nine-one-one.ca（来源库公开邮箱）；KP：Jesse Foster（V.P. Sales & Marketing，BusinessWire 2024-05 伙伴稿 / S 箱收件人）
+- 已触达：S 箱 2026-10-19 群发「24 Port PoE Managed Switch」→ 已发未回
+- 与 Saga Clients：无
+- **下一动作：第二封** — 分销三件套：HRUI 24 口 + SmartByte 24 口 L2+ + STI；型号 STC-2224GP / STC-424XGGPM-280W / STI-288DGGPM；价 USD 86 / USD 170 / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)；窗口 CA 周三 08–10 当地；建议 2026-11-18
+
+证据：
+| 类型 | 说明 | 摘录 | 来源 | 日期 |
+|---|---|---|---|---|
+| 来源库官网/名录核对 | - https://www.edge-core.com/where-to-buy/NorthAmerica-reseller/（2026-10-18 检索，官方渠道名录）；批次：batch/contact_research_2026-10-18_R1_官方渠道全量.json |  | https://nine-one-one.ca/ | 2026-09-28 |
+| S 箱群发记录 | S 箱 2026-10-19 发 jesse.foster@nine-one-one.ca「24 Port PoE Managed Switch」，去 1 来 0 |  | data/gmail_s/2026-09_10群发名单_未入库.csv | 2026-10-19 |
+
+草稿（英文，第二封；Simon 发，Agent 不发）：
+
+```text
+Subject: PoE switch line for your reseller channel - distributor pricing
+
+Hi Jesse,
+
+I wrote on 19 October about our 24-port PoE L2+ switch ('24 Port PoE Managed Switch'); this is a different angle, so a fresh note rather than a reply.
+
+Three PoE switches our distributor partners move most, all EXW Shenzhen (snapshot 2026-10-27, valid 15 days), FCC/ISED, under our label or yours:
+
+- STC-2224GP: 24 x GE PoE+ (300 W) + 2 x GE + 2 x SFP, USD 86.
+- STC-424XGGPM-280W: 24 x GE PoE+ (280 W) + 4 x 10G SFP+, Marvell-based L2+ managed, USD 170.
+- STI-288DGGPM: DIN-rail industrial L2+, 8 x GE PoE+ (240 W) + 2 x SFP, -40 to +75 C, USD 137, 3-year warranty (12 months on the commercial units).
+
+For your interconnect dealers, is PoE for phone and camera deployments something you would rather carry under your own label or ours?
+
+Simon
+Saga Telecom - sagatele.com
+```
+
+- 备注：本轮 web_search 复核：nine-one-one.ca「wholesale distributor servicing all of Canada… network switches」；Boom Collaboration 稿 Jesse Foster V.P. Sales & Marketing。 

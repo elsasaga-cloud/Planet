@@ -1,6 +1,6 @@
 # XA-M086 · AccessPoint Kft. · 匈牙利
 
-> **初判 XA 长期跟进** ｜ 来源 mikrotik-info `A-452`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+> **现判 XA 长期跟进** ｜ 来源 mikrotik-info `A-452`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W2-R04 2026-10-27）→ 下一动作 首触
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱
@@ -69,7 +69,40 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究与跟进（第 2 步起填）
-- 研究状态：未研究
-- 研究结论 / 升降建议：—
-- 下一步：—
+## 8. 研究卡（第 2 步，W2-R04，2026-10-27）
+
+- **结论：XA** — HU B2B 分销、未触达 → A 首触
+- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 一句话：B2B 批发/官方分销（AccessPoint Kft，Budapest；明列 switch / PoE switch）；卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口
+- 是什么人：B2B 批发/官方分销（AccessPoint Kft，Budapest；明列 switch / PoE switch）；规模：未量化
+- 在卖/在用：MikroTik（Master）
+- 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — B2B 批发，PoE 交换机已是品类
+- 找得到人吗：info@accesspoint.hu（来源库公开邮箱）；KP：无具名
+- 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
+- 与 Saga Clients：无
+- **下一动作：首触** — 分销首触：24 口 PoE + STI 工业线；型号 STC-424XGGPM-280W / STI-288DGGPM；价 USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days) / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)；窗口 HU 周四 12–14；建议 2026-11-19
+
+证据：
+| 类型 | 说明 | 摘录 | 来源 | 日期 |
+|---|---|---|---|---|
+| 来源库官网/名录核对 | Budapest 【2026-09-28 R53 B段复筛达标升级】官网核对：AccessPoint 为 B2B 批发/官方分销（安装商与系统集成商渠道），明列 switch / POE switch / industrial switch（OT 组网），代理 Ubiquiti、MikroTik（含 Cloud Router Switch CRS、SwitchOS）、Cambium cnMatrix、Teltonika TSW、Beld |  | https://accesspoint.hu/ | 2026-09-28 |
+
+草稿（英文，首触；Simon 发，Agent 不发）：
+
+```text
+Subject: L2+ PoE and industrial switches for your reseller channel
+
+Hi,
+
+Saga Telecom supplies network distributors with Marvell-based L2+ PoE switches and Centec-based L3 10G/25G/100G switches, under our label or the distributor's own, CE. Two lines that usually interest MikroTik and WISP channels:
+
+- STC-424XGGPM-280W: 24 x GE PoE+ (280 W) + 4 x 10G SFP+, L2+ managed, USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days).
+- STI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.
+
+Which of the two would be more relevant for your installer customers - the 24-port PoE or the DIN-rail line?
+
+Simon
+Saga Telecom - sagatele.com
+```
+
+- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。

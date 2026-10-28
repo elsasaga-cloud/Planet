@@ -1,0 +1,49 @@
+{
+ "code": "XA-M031",
+ "name": "Westercom",
+ "round": "W2-R04",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-22 核对在线；本轮未复查",
+ "summary": "工业网络分销（Westercom，Westermo Silver + Advantech EKI + B+B SmartWorx）；同时代理 Westermo 与 B+B SmartWorx → 典型多品牌工业分销",
+ "type_final": "工业网络分销（Westercom，Westermo Silver + Advantech EKI + B+B SmartWorx）",
+ "size": "未量化",
+ "brands_seen": [
+  "Westermo",
+  "B",
+  "B SmartWorx"
+ ],
+ "saga_line": "SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE",
+ "fit": "工业交换机专类",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "已验证：站内还在卖 B+B SmartWorx 全线 【范围外】不在本次目标区域（欧洲+美加）内，暂不触达，留档备用；【2026-09-22 补】经 Advantech（台厂）EKI 系列渠道确认为其分销商。站点有 Advantech EKI 工业以太网设备专区，共 440 个型号、153 个现货，含 EKI-2528-BE（€103）、EKI-5528I-AE（€160）、EKI-7712G-4FPI-BE（€298）、EKI-772",
+   "quote": "",
+   "url": "https://westercom.eu/",
+   "date": "2026-09-22"
+  }
+ ],
+ "contacts": {
+  "email": "eshop@westercom.eu",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "A",
+ "grade_reason_final": "CZ 工业网络分销、未触达 → A 首触",
+ "next_move": {
+  "action": "首触",
+  "angle": "工业 DIN 轨 PoE 首触",
+  "model": "STI-288DGGPM",
+  "price": "USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "CZ 周四 12–14",
+  "when": "2026-11-19"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "draft_en": {
+  "subject": "DIN-rail industrial PoE switches - second source for your line card",
+  "body": "Hi,\n\nSaga Telecom builds DIN-rail industrial Ethernet switches for distributors who already carry automation and industrial communication brands and want a second source at a lower price point, CE.\n\nSTI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.\n\nWould a lower-priced DIN-rail PoE switch be worth a test unit as a second source next to the industrial brands you carry?\n\nSimon\nSaga Telecom - sagatele.com"
+ },
+ "deep": false
+}

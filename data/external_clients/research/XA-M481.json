@@ -1,0 +1,54 @@
+{
+ "code": "XA-M481",
+ "name": "Stovaris Sp. z o.o.",
+ "round": "W2-R04",
+ "researched_at": "2026-10-27",
+ "alive": "本轮 web_search 复核在线（2026-10-27）",
+ "summary": "增值分销 VAD（Stovaris，Warszawa，1987 起，原 Alstor SDS；有 IT 网络与工业/IoT 事业部）；Marvell Prestera 接入层切入",
+ "type_final": "增值分销 VAD（Stovaris，Warszawa，1987 起，原 Alstor SDS；有 IT 网络与工业/IoT 事业部）",
+ "size": "未量化",
+ "brands_seen": [
+  "Allied Telesis（Marvell Prestera 接入层）"
+ ],
+ "saga_line": "SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE",
+ "fit": "VAD，网络 + 工业 IoT 两个事业部都对口",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "【人工定级保留】原无邮箱说明已由本轮来源核验结果替代；不改评级。 伙伴等级：Resell。 【2026-09-27 A210–A239联络核验】来源等级：official-store。官方B2B商城联系页正文公开商城邮箱；+48 22 2484000，Staniewicka 12 Warszawa，NIP5242877169/KRS0000758346；不是采购联系人。搜索办公室页具名邮箱未抓取正文，本轮不用其作为已确认主入口。 证据：",
+   "quote": "",
+   "url": "https://stovaris.pl/",
+   "date": "2026-09-27"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-01 发 esklep@stovaris.pl「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-01"
+  }
+ ],
+ "contacts": {
+  "email": "biuro@stovaris.pl",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-01 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "A",
+ "grade_reason_final": "PL 次重点区 VAD → 维持 A（优先）",
+ "next_move": {
+  "action": "第二封",
+  "angle": "分销三件套：HRUI 24 口 + SmartByte 24 口 L2+ + STI",
+  "model": "STC-2224GP / STC-424XGGPM-280W / STI-288DGGPM",
+  "price": "USD 86 / USD 170 / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "PL 周四 12–14",
+  "when": "2026-11-12"
+ },
+ "notes": "本轮 web_search 复核：stovaris.pl/en/specjalizacje「value-added distributor (VAD)… IT networks… Industrial and IoT systems」；KRS 0000758346。S 箱 10-01 发的是 esklep@，本封改总信箱 biuro@。 ",
+ "draft_en": {
+  "subject": "PoE switch line for your reseller channel - distributor pricing",
+  "body": "Hi,\n\nI wrote on 1 October about our 24-port PoE L2+ switch ('24 Port PoE Managed Switch'); this is a different angle, so a fresh note rather than a reply.\n\nThree PoE switches our distributor partners move most, all EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE, under our label or yours:\n\n- STC-2224GP: 24 x GE PoE+ (300 W) + 2 x GE + 2 x SFP, USD 86.\n- STC-424XGGPM-280W: 24 x GE PoE+ (280 W) + 4 x 10G SFP+, Marvell-based L2+ managed, USD 170.\n- STI-288DGGPM: DIN-rail industrial L2+, 8 x GE PoE+ (240 W) + 2 x SFP, -40 to +75 C, USD 137, 3-year warranty (12 months on the commercial units).\n\nWhich of your divisions would be the right home for this - IT networks or Industrial & IoT - and who should I send the datasheets to?\n\nSimon\nSaga Telecom - sagatele.com"
+ },
+ "deep": false
+}

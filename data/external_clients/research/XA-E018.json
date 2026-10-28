@@ -1,0 +1,52 @@
+{
+ "code": "XA-E018",
+ "name": "FONEX Data Systems Inc.",
+ "round": "W2-R04",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "电信/数据网络设备分销（FONEX Data Systems，Montréal）",
+ "type_final": "电信/数据网络设备分销（FONEX Data Systems，Montréal）",
+ "size": "未量化",
+ "brands_seen": [],
+ "saga_line": "SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE",
+ "fit": "分销",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "- 邮箱：info@fonex.com（Crunchbase 登记）；官网 Contact 页仅给电话与表单 - 第三方库称创始人邮箱为 pdipierro@fonex.com（AeroLeads「valid」标——非官方公开渠道，未经证实，慎用） - 电话：+1 514-333-6639 / 1-800-36-FONEX；官网 https://www.fonex.com - 地址：5400 chemin St-François, St",
+   "quote": "",
+   "url": "https://fonex.com/",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-20 发 pdipierro@fonex.com「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-20"
+  }
+ ],
+ "contacts": {
+  "email": "pdipierro@fonex.com",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-20 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "A",
+ "grade_reason_final": "CA 主攻区分销 → 维持 A",
+ "next_move": {
+  "action": "第二封",
+  "angle": "分销三件套：HRUI 24 口 + SmartByte 24 口 L2+ + STI",
+  "model": "STC-2224GP / STC-424XGGPM-280W / STI-288DGGPM",
+  "price": "USD 86 / USD 170 / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "CA 周三 08–10 当地",
+  "when": "2026-11-18"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "draft_en": {
+  "subject": "PoE switch line for your reseller channel - distributor pricing",
+  "body": "Hi,\n\nI wrote on 20 October about our 24-port PoE L2+ switch ('24 Port PoE Managed Switch'); this is a different angle, so a fresh note rather than a reply.\n\nThree PoE switches our distributor partners move most, all EXW Shenzhen (snapshot 2026-10-27, valid 15 days), FCC/ISED, under our label or yours:\n\n- STC-2224GP: 24 x GE PoE+ (300 W) + 2 x GE + 2 x SFP, USD 86.\n- STC-424XGGPM-280W: 24 x GE PoE+ (280 W) + 4 x 10G SFP+, Marvell-based L2+ managed, USD 170.\n- STI-288DGGPM: DIN-rail industrial L2+, 8 x GE PoE+ (240 W) + 2 x SFP, -40 to +75 C, USD 137, 3-year warranty (12 months on the commercial units).\n\nWhich of the three would fit your catalogue first, and is there a product manager I should send the datasheets to?\n\nSimon\nSaga Telecom - sagatele.com"
+ },
+ "deep": false
+}
