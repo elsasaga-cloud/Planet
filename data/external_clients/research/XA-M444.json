@@ -1,0 +1,44 @@
+{
+ "code": "XA-M444",
+ "name": "Goretti Technological System S.r.l.",
+ "round": "W2-R05b",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "summary": "IT 集成商/VAR（Goretti Technological Systems）；Marvell Prestera 接入层切入",
+ "type_final": "IT 集成商/VAR（Goretti Technological Systems）",
+ "size": "未量化",
+ "brands_seen": [
+  "Allied Telesis（Marvell Prestera 接入层）"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "伙伴等级：Resell。 【2026-09-27 联系方式核验】第三方旧目录邮箱；待官网/本人确认。第三方B2all目录完整公开旧域名具名邮箱，P.IVA/地址/电话与现官网对应；现官网只给表单/电话，未独立确认邮箱仍有效。目录夹有保险业务异常句，故降为待核，不凭姓推定岗位；PEC不作普通业务邮箱。 来源：[1](http://b2all.piccolamediaimpresa.com/goretti-technological-sys",
+   "quote": "",
+   "url": "https://gorettitechnologicalsystems.it/",
+   "date": "2026-09-27"
+  }
+ ],
+ "contacts": {
+  "email": "m.fucelli@gtstec.com",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "小项目集成商（Allied Telesis 伙伴名录批量导入），非渠道 → B 慢慢跟进",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

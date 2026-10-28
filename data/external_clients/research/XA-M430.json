@@ -1,0 +1,51 @@
+{
+ "code": "XA-M430",
+ "name": "C.G.T. Elettronica SpA",
+ "round": "W2-R05b",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "summary": "IT 集成商/VAR（C.G.T. Elettronica）；Marvell Prestera 接入层切入",
+ "type_final": "IT 集成商/VAR（C.G.T. Elettronica）",
+ "size": "未量化",
+ "brands_seen": [
+  "Allied Telesis（Marvell Prestera 接入层）"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "伙伴等级：Resell。 【2026-09-27 A320–A339联络核验】来源等级：official-company。官网联系页给info@cgtelettronica.it（罗马与维泰博两处同邮箱）、罗马办公室Via Adriano Olivetti 24/26（+39 06 65793119）与Viterbo Via Dell'Artigianato（+39 761 250537）；公司介绍自述1985年由Ing. Michel",
+   "quote": "",
+   "url": "https://cgtelettronica.it/",
+   "date": "2026-09-27"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-04 发 info@cgtelettronica.it「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-04"
+  }
+ ],
+ "contacts": {
+  "email": "info@cgtelettronica.it",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-04 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "小项目集成商（Allied Telesis 伙伴名录批量导入），非渠道 → B 慢慢跟进",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

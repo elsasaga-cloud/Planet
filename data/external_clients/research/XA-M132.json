@@ -1,0 +1,45 @@
+{
+ "code": "XA-M132",
+ "name": "Allnet.Italia S.p.A.",
+ "round": "W2-R05b",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "ALLNET 集团意大利分销（Allnet.Italia S.p.A.，Bologna；MikroTik 官方分销）；ALLNET 集团意大利站（德/法同集团）",
+ "type_final": "ALLNET 集团意大利分销（Allnet.Italia S.p.A.，Bologna；MikroTik 官方分销）",
+ "size": "未量化",
+ "brands_seen": [
+  "MikroTik（Master",
+  "VAD）"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "Bologna",
+   "quote": "",
+   "url": "https://shop.allnet-italia.it/",
+   "date": "2026-09-28"
+  }
+ ],
+ "contacts": {
+  "email": "networking@allnet-italia.it",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "自有 ALLNET 品牌同行集团 → B",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

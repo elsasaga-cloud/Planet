@@ -1,0 +1,51 @@
+{
+ "code": "XA-M427",
+ "name": "A.G.informatica S.r.l.",
+ "round": "W2-R05b",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "summary": "IT 集成商/VAR（A.G.informatica）；Marvell Prestera 接入层切入",
+ "type_final": "IT 集成商/VAR（A.G.informatica）",
+ "size": "未量化",
+ "brands_seen": [
+  "Allied Telesis（Marvell Prestera 接入层）"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "伙伴等级：Resell。 【2026-09-27 联系方式核验】公开邮箱·一方/伙伴来源。官网公开邮箱，Roma Via Eugenio Chiesa 地址和税号可匹配；页面含模板电话，不采用该假电话。 来源：[3](https://www.aginformaticasrl.it/)",
+   "quote": "",
+   "url": "https://aginformaticasrl.it/",
+   "date": "2026-09-27"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-09-30 发 info@aginformaticasrl.it「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-09-30"
+  }
+ ],
+ "contacts": {
+  "email": "info@aginformaticasrl.it",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-09-30 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "小项目集成商（Allied Telesis 伙伴名录批量导入），非渠道 → B 慢慢跟进",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

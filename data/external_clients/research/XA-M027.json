@@ -1,0 +1,46 @@
+{
+ "code": "XA-M027",
+ "name": "Cristian Delogu / Netify",
+ "round": "W2-R05b",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "顾问（Netify）；MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战",
+ "type_final": "顾问（Netify）",
+ "size": "未量化",
+ "brands_seen": [
+  "MikroTik 认证顾问 MTCNA",
+  "MTCRE",
+  "MTCSE"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "WISP/ISP 咨询：有线无线规划设计与迁移；VLAN、PPPoE、防火墙、OSPF、BGP、MPLS、无线、队列与流量整形、脚本、安全",
+   "quote": "",
+   "url": "https://netify.it/",
+   "date": "2026-09-28"
+  }
+ ],
+ "contacts": {
+  "email": "cristian.delogu@netify.it",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "顾问/培训/小集成商，非渠道 → B（不进第二封）",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

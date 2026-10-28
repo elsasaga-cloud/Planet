@@ -1,0 +1,51 @@
+{
+ "code": "XA-M453",
+ "name": "Net Engineering SpA",
+ "round": "W2-R05b",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "summary": "IT 集成商/VAR（Net Engineering）；Marvell Prestera 接入层切入",
+ "type_final": "IT 集成商/VAR（Net Engineering）",
+ "size": "未量化",
+ "brands_seen": [
+  "Allied Telesis（Marvell Prestera 接入层）"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "伙伴等级：Resell。 【2026-09-27 A340–A359联络核验】来源等级：official-company。Allied Telesis伙伴页列Net Engineering SpA（Via G. Di Vittorio 427, Sesto S.Giovanni 20099；+39 02 2412541），其“Visit Website”指向netengineering.it；该站联系页给mail@netengineer",
+   "quote": "",
+   "url": "https://netengineering.it/",
+   "date": "2026-09-27"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-10-04 发 mail@netengineering.it「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-10-04"
+  }
+ ],
+ "contacts": {
+  "email": "mail@netengineering.it",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-04 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "小项目集成商（Allied Telesis 伙伴名录批量导入），非渠道 → B 慢慢跟进",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

@@ -1,0 +1,51 @@
+{
+ "code": "XA-M451",
+ "name": "N&C TELECOMUNICAZIONI S.p.a.",
+ "round": "W2-R05b",
+ "researched_at": "2026-10-27",
+ "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "summary": "IT 集成商/VAR（N&C Telecomunicazioni）；Marvell Prestera 接入层切入",
+ "type_final": "IT 集成商/VAR（N&C Telecomunicazioni）",
+ "size": "未量化",
+ "brands_seen": [
+  "Allied Telesis（Marvell Prestera 接入层）"
+ ],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "伙伴等级：Resell。 【2026-09-27 联系方式核验】旧官网搜索索引邮箱；页面404，待核。旧域名nectelecomunicazioni.it实际跳转新官网。info邮箱来自旧官网联系页/旧招聘PDF搜索索引，旧联系页及SA8000 PDF实际404，未在新站正文再次确认；新站有效表单/get-in-touch/为备用。官网自述700全球人员，存在规模/总部采购风险，保留原级不擅改口径。 来源：[1](https://www",
+   "quote": "",
+   "url": "https://nectlc.com/",
+   "date": "2026-09-27"
+  },
+  {
+   "kind": "S 箱群发记录",
+   "claim": "S 箱 2026-09-30 发 info@nectlc.com「24 Port PoE Managed Switch」，去 1 来 0",
+   "quote": "",
+   "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
+   "date": "2026-09-30"
+  }
+ ],
+ "contacts": {
+  "email": "info@nectlc.com",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-09-30 群发「24 Port PoE Managed Switch」→ 已发未回",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "小项目集成商（Allied Telesis 伙伴名录批量导入），非渠道 → B 慢慢跟进",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}
