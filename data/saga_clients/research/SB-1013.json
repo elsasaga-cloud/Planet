@@ -45,11 +45,12 @@
   "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-022，W 批次调研 2026-10-19/20）"
  },
  "company_facts": {
-  "legal_name": "Business Systems Connection Inc.",
-  "founded": "",
-  "hq": "Fenton, MO, 美国",
+  "legal_name": "Business Systems Consulting（bizsyscon.com；密苏里；法律形式未核 —— 同名企业多，1 次检索未命中）",
+  "founded": "1997（自述）（第 99 批 官方登记核实 2026-10-28）",
+  "hq": "圣路易斯郊区（门牌未核）",
   "size": "",
-  "other": "Planet 渠道档案 PB-022（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：是（Lysora）；最大未知：Mikrotik 侧是否已首触及结果；Lysora 现有 ODM"
+  "other": "Planet 渠道档案 PB-022（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：是（Lysora）；最大未知：Mikrotik 侧是否已首触及结果；Lysora 现有 ODM；第 99 批：**未坐实**；研究档「自有品牌 Lysora + 在售 PLANET GS-4210-24P4C / IGS」仍成立 → 贴标试探 small：Lysora 标 STI-288DGGPM 对标 PLANET IGS；一页纸；下轮不追（第 99 批 官方登记核实 2026-10-28）",
+  "staff": "2–10 人"
  },
  "business_lines": [
   "分销商（WISP/网络分销：Ubiquiti / MikroTik / Cambium / PLANET，1997 年起，2–10 人）+ 自有品牌 Lysora"

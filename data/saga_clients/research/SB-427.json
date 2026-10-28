@@ -31,7 +31,8 @@
    "title": "",
    "email": "info@longlinenetwork.com",
    "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "公域（Longline 集团；收件人点名「ürün müdürü / satın alma」；2020-10 迁入自有 Longline Plaza）（第 99 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -42,11 +43,12 @@
   "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "legal_name": "Longline Network（待核）",
-  "founded": "",
-  "hq": "Türkiye",
+  "legal_name": "Longline Bilişim Teknolojileri Ltd. Şti.（İstanbul Bayrampaşa；注册资本 50M–500M TL 档；自有品牌 Longline）",
+  "founded": "2000（第 99 批 官方登记核实 2026-10-28）",
+  "hq": "Kartaltepe Mah. Hakan Sok. Longline Plaza No 18, 34040 Bayrampaşa / İstanbul（+ 罗马尼亚 / 中国 / 迪拜 / 美国办事处）",
   "size": "小型经销 / 网店",
-  "other": "已售 E-link 10G MC"
+  "other": "已售 E-link 10G MC；第 99 批：自有品牌（SFP / 内存 / SSD / 网卡 / MC / 跳线）+ 800 经销伙伴 + 中国办事处 → **贴标 OEM 30% 目标：Longline 标 L2+ 管理型 / PoE 交换机补齐产品线；B BIG，升 A 候选，加厚**（STC-228GP / STC-2224GP / STI-0240GE / STH-2C24XF-HSI；与其自有标 SFP 配套）；不提其中国办事处（第 99 批 官方登记核实 2026-10-28）",
+  "staff": "11–50 人（22）"
  },
  "business_lines": [
   "SFP / MC / 网卡销售"

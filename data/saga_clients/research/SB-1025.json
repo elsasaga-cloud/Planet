@@ -1,115 +1,126 @@
 {
-  "code": "SB-1025",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（elfon.com.pl，快照 2026-10-21）",
-  "summary": "波兰 ELFON（数字对讲/可视对讲制造商：Optima 255 系统、模拟/双线对讲、电源与继电器、PC-OPTIMA 软件；表内「商业 PoE」）；表内未跟进。",
-  "type": "楼宇对讲制造商（波兰，自有品牌，PoE 为配套）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Domofony - Wideodomofony - Producent - Optima255 ELFON Systemy cyfrowe",
-      "quote": "Produkujemy domofony cyfrowe ELFON Optima, domofony analogowe, dwuprzewodowe, systemy domofonowe, wideodomofony, zasilacze i przekaÅºniki",
-      "url": "https://elfon.com.pl/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "商业POE",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "ELFON 定位",
-      "quote": "Domofony - Wideodomofony - Producent - Optima255 ELFON Systemy cyfrowe ; Produkujemy domofony cyfrowe ELFON Optima, domofony analogowe, dwuprzewodowe",
-      "url": "https://elfon.com.pl/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "商业 PoE",
-      "quote": "商业POE",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-1025",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（elfon.com.pl，快照 2026-10-21）",
+ "summary": "波兰 ELFON（数字对讲/可视对讲制造商：Optima 255 系统、模拟/双线对讲、电源与继电器、PC-OPTIMA 软件；表内「商业 PoE」）；表内未跟进。",
+ "type": "楼宇对讲制造商（波兰，自有品牌，PoE 为配套）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Domofony - Wideodomofony - Producent - Optima255 ELFON Systemy cyfrowe",
+   "quote": "Produkujemy domofony cyfrowe ELFON Optima, domofony analogowe, dwuprzewodowe, systemy domofonowe, wideodomofony, zasilacze i przekaÅºniki",
+   "url": "https://elfon.com.pl/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "波兰",
-    "other": "官网 elfon.com.pl，语言 ?，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "商业POE",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "楼宇对讲 / 可视对讲制造（波兰，自有品牌 ELFON）"
-  ],
-  "channels": {
-    "role": "楼宇对讲制造商（波兰，自有品牌，PoE 为配套）",
-    "region": "波兰",
-    "contact": "zamowienia@elfon.com.pl"
+  {
+   "kind": "官网快照",
+   "claim": "ELFON 定位",
+   "quote": "Domofony - Wideodomofony - Producent - Optima255 ELFON Systemy cyfrowe ; Produkujemy domofony cyfrowe ELFON Optima, domofony analogowe, dwuprzewodowe",
+   "url": "https://elfon.com.pl/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：Domofony - Wideodomofony - Producent - Optima255 ELFON Systemy cyfrowe ; Produkujemy domofony cyfrowe ELFON Optima, domofony analogowe, dwuprzewodowe, systemy domofonowe, wideodomofony, zasilacze",
-    "表内：商业 PoE"
-  ],
-  "risks": [
-    "对讲产品线以模拟/双线为主（IP PoE 用量待核）；仅 zamowienia@（订单邮箱），未跟进过"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 30,
-    "why": "IP 对讲配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 ELFON 标；非管理 4/8 PoE 位 HRUI（列表价，注明）"
-  },
-  "email_hook": "For the PoE switches that power your IP intercom and video-door systems, we can be an ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; budget 4/8-PoE unmanaged) in ELFON packaging from small lots, CE/RoHS — which PoE SKU do your installers order most with Optima IP kits?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（1 封盘点通知群发）；Elsa 群发 BCC 已触达 2026-08-20「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，RU/UZ/KZ/BY/TR+PL 个别 批次 To info@smartsystems.jo，0 回（第 74 批 Bcc 头核对 msg 1a01e5768ba94543）",
-      "type": "波兰楼宇对讲制造商（Elfon）",
-      "sieve": "0",
-      "stop": "自动回复/机器人，无人工回复",
-      "revive": "不动",
-      "lane": "PL",
-      "cadence": "不动",
-      "evidence": "k=5d17b345298031ed；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@smartsystems.jo）本户见于 2026-08-20 名单；该批次最早 2025-03-04 起共 14 轮，更早轮次 Bcc 未读"
-    },
-    "situation": "来信全部为机器回复；无人读信或无人回信。",
-    "need": "—",
-    "breakpoint": "—",
-    "saga_now": {
-      "p1": "—",
-      "tier": 30,
-      "price": "—；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-20；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "—",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2026-08-20",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@smartsystems.jo，RU/UZ/KZ/BY/TR+PL 个别 批次）",
-        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 elfon.com.pl, zamowienia@elfon.com.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-25"
+  {
+   "kind": "用户表",
+   "claim": "商业 PoE",
+   "quote": "商业POE",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Marek Andrzej Miękina",
+   "role": "Prezes Zarządu（普通合伙人 ELFON BIS Sp. z o.o.，2015-10-29 起）= 实控人 = 收件人（抄 biuro@elfon.com.pl）（第 99 批 官方登记核实 2026-10-28）",
+   "email": "biuro@elfon.com.pl",
+   "phone": "",
+   "source": "https://rejestr.io/krs/700362/elfon-miekina"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "ul. Półłanki 27A, 30-740 Kraków（2026-02-01 起；旧址 Ruciana 3）",
+  "other": "官网 elfon.com.pl，语言 ?，快照状态 ok；角色判定来源：官网文案；第 99 批：波兰楼宇对讲 / IP-SIP 可视对讲制造商 → IP 对讲必配 PoE → 贴标 small（OEM 30%）/ 配套 25%：ELFON 标 STC-028GP / STI-054GP 随其 IP 系统成套；一页纸 + 配套图（第 99 批 官方登记核实 2026-10-28）",
+  "legal_name": "ELFON Miękina Sp. K.（原 ELFON BIS Sp. z o.o. Sp. K.；KRS 0000700362；NIP 6792955142；REGON 120559355；GP ELFON BIS Sp. z o.o. KRS 0000583435）",
+  "founded": "2007-10-12（开业）/ 2017-10-23（现登记）（第 99 批 官方登记核实 2026-10-28）",
+  "staff": "小型（未取；自有生产 + 区域销售）"
+ },
+ "business_lines": [
+  "楼宇对讲 / 可视对讲制造（波兰，自有品牌 ELFON）"
+ ],
+ "channels": {
+  "role": "楼宇对讲制造商（波兰，自有品牌，PoE 为配套）",
+  "region": "波兰",
+  "contact": "zamowienia@elfon.com.pl"
+ },
+ "signals": [
+  "官网：Domofony - Wideodomofony - Producent - Optima255 ELFON Systemy cyfrowe ; Produkujemy domofony cyfrowe ELFON Optima, domofony analogowe, dwuprzewodowe, systemy domofonowe, wideodomofony, zasilacze",
+  "表内：商业 PoE"
+ ],
+ "risks": [
+  "对讲产品线以模拟/双线为主（IP PoE 用量待核）；仅 zamowienia@（订单邮箱），未跟进过"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "IP 对讲配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 ELFON 标；非管理 4/8 PoE 位 HRUI（列表价，注明）"
+ },
+ "email_hook": "For the PoE switches that power your IP intercom and video-door systems, we can be an ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; budget 4/8-PoE unmanaged) in ELFON packaging from small lots, CE/RoHS — which PoE SKU do your installers order most with Optima IP kits?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（1 封盘点通知群发）；Elsa 群发 BCC 已触达 2026-08-20「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，RU/UZ/KZ/BY/TR+PL 个别 批次 To info@smartsystems.jo，0 回（第 74 批 Bcc 头核对 msg 1a01e5768ba94543）",
+   "type": "波兰楼宇对讲制造商（Elfon）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "PL",
+   "cadence": "不动",
+   "evidence": "k=5d17b345298031ed；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@smartsystems.jo）本户见于 2026-08-20 名单；该批次最早 2025-03-04 起共 14 轮，更早轮次 Bcc 未读"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 30,
+   "price": "—；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-20；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-08-20",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@smartsystems.jo，RU/UZ/KZ/BY/TR+PL 个别 批次）",
+    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 elfon.com.pl, zamowienia@elfon.com.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-25"
+ }
 }

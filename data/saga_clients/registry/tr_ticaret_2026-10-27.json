@@ -4,7 +4,7 @@
   "source": "Turkey · Ticaret Sicil / MERSIS（公开可得部分）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 64
+  "count": 70
  },
  "rows": {
   "SA-086": {
@@ -2115,6 +2115,198 @@
    ],
    "notes": "B BIG；OEM 30% 首选；升 A 候选。",
    "code": "SB-1006"
+  },
+  "SB-1010": {
+   "batch": 99,
+   "name": "Bayiden Bilgi Teknolojileri ve E-Ticaret（bayiden.com.tr「Teknolojinin Bayisi」；Kayseri）— 微型电子 / 安防 B2B 电商平台（背后 12 Volt Elektronik 技术实验室）",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：bayiden.com.tr 首页 / Hakkımızda（Gevhernesibe Mah. Anıt Cad. No 5, Kocasinan / Kayseri 38280；0850 441 1 352；info@bayiden.com.tr；「Arkamızda 12 Volt Elektronik’in teknik laboratuvar gücü」）+ bayiden.tr 预告页（「Bayiden Bilgi Teknolojileri ve E-Ticaret’in bir iştiraki」；Merkez Kayseri）；ETBİS 命中的 BAYDEN TEKNOLOJİ SAN. VE TİC. LTD. ŞTİ.（İstanbul Başakşehir）为同名他户，不采",
+   "url": "https://www.bayiden.com.tr/ic/hakkimizda",
+   "number": "MERSİS / 法律后缀未取（公开名 Bayiden Bilgi Teknolojileri ve E-Ticaret；1 次即停）",
+   "status": "Active（站点在线，2026）",
+   "incorporated": "未取（站点新；12 Volt Elektronik 为母体）",
+   "company_type": "推定 Ltd. Şti.（Kayseri）",
+   "sic": [
+    "电子元件 / 安防摄像机 / 网络配件 B2B-B2C 电商（Kayseri）"
+   ],
+   "address": "Gevhernesibe Mah. Anıt Caddesi No 5, Kocasinan / Kayseri 38280",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（电商平台；人数未取）",
+   "officers": [
+    "未取（研究档无 KP）"
+   ],
+   "psc": "12 Volt Elektronik（推定母体）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**微型 Kayseri 电商平台**（内陆二线城市，非 İstanbul 渠道）→ 单量小、无复利 → **一页纸即止**：HRUI STC-028GP $28 / STC-228GP $33 对标其在售 PoE 交换机价位；收件 info@",
+    "发信窗口 Thu 10–12 TRT；不加厚、下轮不追"
+   ],
+   "notes": "微型电商；一页纸。",
+   "code": "SB-1010"
+  },
+  "SB-1051": {
+   "batch": 99,
+   "name": "KLEMSAN Elektrik Elektronik Sanayi ve Ticaret A.Ş.（klemsan.com.tr；İzmir Kemalpaşa）— 1974 年成立的接线端子 / 电气连接件制造商（201–500 人；100% 本土资本；IoT / 电子产品线；表内「从 VOLKTEK 买工业交换机」）",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：EMIS（Klemsan Elektrik Elektronik A.S.；成立 1974-07-20；Kızılüzüm Mah. Kemalpaşa Kızılüzüm Cad. No 15, 35730 Kemalpaşa / İzmir）+ Bloomberg（0996344D:TI；1974；noncurrent-carrying wiring devices）+ LinkedIn（201–500 人；1974；Özel Şirket）+ ENOSAD / SASAD 会员页（KLEMSAN Elektrik Elektronik San. ve Tic. A.Ş.；Yetkili İlke Kider）+ 2024-09 50 周年报道（Yönetim Kurulu Başkanı Kadir Ferahlı；450 人晚宴）+ 官网 History（1974 年 100% 国内资本创立；Pınarbaşı 第二工厂）+ D&B（Key Principal Dilek Geçer）",
+   "url": "https://www.emis.com/php/company-profile/TR/Klemsan_Elektrik_Elektronik_AS_en_3358804.html",
+   "number": "A.Ş.（İzmir 商会；MERSİS 号未取）",
+   "status": "Active（2024 50 周年；2026 官网更新）",
+   "incorporated": "1974-07-20",
+   "company_type": "Anonim Şirket（私有；100% 本土资本）",
+   "sic": [
+    "接线端子（klemens）、线槽、电子产品（电源 / 继电器）、标识、IoT、连接器、工具 —— 自产 + 出口"
+   ],
+   "address": "Kızılüzüm Mah. Kemalpaşa Kızılüzüm Cad. No 15, 35730 Kemalpaşa / İzmir（总部工厂）；İzmir Pınarbaşı 第二工厂",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "大型（201–500 人；SASAD 国防工业协会会员）",
+   "officers": [
+    "Kadir Ferahlı — Yönetim Kurulu Başkanı（董事长）",
+    "A. Savaş Yalçın — Kemalpaşa 工厂总经理（EMO 刊物）",
+    "Dilek Geçer — Key Principal（D&B）",
+    "İlke Kider — ENOSAD 联络人"
+   ],
+   "psc": "Ferahlı 家族（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**第 99 批 TR 最大户**：50 年老牌电气连接件制造商，自有 IoT / 电子产品线，表内「从 VOLKTEK（台湾工业交换机 ODM）买工业交换机」= **现成的 OEM 30% 需求（Klemsan 标导轨工业交换机）→ OEM 30% 首选，B BIG，升 A 候选**",
+    "对口：STI-054GP / STI-144GP / STI-288DGGPM（导轨、宽温、Marvell 管理型）对标 VOLKTEK 同规格 → 价格差 + 3 年保修 + MOQ 1 是切口；不提 VOLKTEK 名字",
+    "收件人：研究档无 KP → 写 IoT / 电子产品线产品经理（technicalsupport@klemsan.com.tr 为官网唯一公开邮箱，可作起点）；发信窗口 Thu 10–12 TRT；**加厚**（规格 + 对比价一页）"
+   ],
+   "notes": "OEM 30% 首选；B BIG；升 A 候选；加厚。",
+   "code": "SB-1051"
+  },
+  "SB-1056": {
+   "batch": 99,
+   "name": "Mikrodev Bilişim Yazılım Elektronik San. ve Tic. Ltd. Şti.（mikrodev.com；İstanbul 注册，Gebze TÜBİTAK 自贸区生产；英国 / 南非分支）— 本土 PLC / RTU / 网关 / 工业路由器制造商（自有品牌 MIKRODEV，2011 注册商标）",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：官网（2006 年 İstanbul 成立，2011 起商业化生产；PLC / RTU / 网关 / HMI / SCADA；「headquarters in UK, manufacturing in Turkey, branch in South Africa」）+ Kariyer.net（Mikrodev Bilişim Yazılım Elektronik San. ve Tic. Ltd. Şti.；2011 起在 Gebze 高等技术大学校园生产；首家本土 RTU 制造商）+ IoT Tech Expo（20 工程师 + 16 技术员；TÜBİTAK 自贸区；163 型号；土耳其 14 家经销商 + 海外 3 家）+ turkishexporter（2011 注册 MİKRODEV 商标）+ ContactOut / Apollo（Habil Sekibağ = Managing Director；Erdem Öztürk = Deputy MD；Kocaeli；16 人口径）+ EtherCAT 会员页",
+   "url": "https://www.mikrodev.com/about/",
+   "number": "Ltd. Şti.（İstanbul / Kocaeli；MERSİS 号未取）",
+   "status": "Active（官网 2025-09 更新）",
+   "incorporated": "2006",
+   "company_type": "Limited Şirket（私有；UK 分支 Mikrodev Ltd 自称总部）",
+   "sic": [
+    "工业自动化硬件：PLC、RTU、协议转换器、网关、工业路由器（2G/LTE/Wi-Fi）、HMI、SCADA 软件 —— 自研自产（TÜBİTAK 支持）"
+   ],
+   "address": "TÜBİTAK MAM Teknoloji Serbest Bölgesi, Gebze / Kocaeli（生产）；İstanbul（注册）；英国 / 南非分支",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（16–36 人）",
+   "officers": [
+    "Habil Sekibağ — Managing Director（创办人）",
+    "Erdem Öztürk — Deputy Managing Director"
+   ],
+   "psc": "Habil Sekibağ（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**准同行（工业路由器 / 网关自产）但不做交换机** → 与 comtime（SB-833）同型：**贴标 small（OEM 30%）**：MIKRODEV 标导轨工业交换机（STI-054GP / STI-144GP）补齐其 PLC / RTU 柜内组网，走其土耳其 14 家经销商",
+    "收件人 Habil Sekibağ（MD 本人）；发信窗口 Thu 10–12 TRT；一页纸即止；英国 / 南非分支可作第二落点（不另发）"
+   ],
+   "notes": "准同行；贴标 small；一页纸。",
+   "code": "SB-1056"
+  },
+  "SB-737": {
+   "batch": 99,
+   "name": "Uğur İmre（ISAF 展会联系人；无公司名 / 无域名）— 未坐实",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索「Uğur İmre güvenlik kamera network distribütör」未命中任何同名企业或个人主页（仅返回 İzmir / İstanbul 安防经销商泛结果）→ 按规程停；研究档：ISAF 展会名录联系人，仅有姓名 + 个人邮箱 + 历史群发记录",
+   "url": "",
+   "number": "未坐实（无公司主体可核）",
+   "status": "未核",
+   "incorporated": "未取",
+   "company_type": "未取（疑个人 / 微型经销）",
+   "sic": [
+    "安防 / 网络经销（ISAF 展会观众名录推定）"
+   ],
+   "address": "未取",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "未取（疑微型）",
+   "officers": [
+    "Uğur İmre — 本人（ISAF 名录）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**未坐实且无公司主体** → 不再花检索；保留 B 不降（有打开记录）；下一次群发顺带一封 HRUI STC-028GP / STC-228GP 价目即可，**不单独写信、不加厚**"
+   ],
+   "notes": "未坐实；仅群发带过。",
+   "code": "SB-737"
+  },
+  "SB-427": {
+   "batch": 99,
+   "name": "Longline Bilişim Teknolojileri Ltd. Şti.（longline.com.tr / longlinenetwork.com；İstanbul Bayrampaşa「Longline Plaza」）— 自有品牌 Longline（SFP 光模块 / 内存 / SSD / 网卡 / 光纤跳线 / 媒体转换器）+ 网络 / 服务器配件分销（800+ 经销伙伴；罗马尼亚 / 中国 / 迪拜 / 美国办事处）",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：官网 Hakkımızda / İletişim（Longline Bilişim Teknolojileri Ltd Şti；Kartaltepe Mah. Hakan Sok. Longline Plaza No 18, 34040 Bayrampaşa / İstanbul；info@longline.com.tr；2020-10-26 迁入自有大楼，与集团公司同楼）+ LinkedIn（11–50 人；2000 年成立）+ Crunchbase（Legal Name Longline Bilişim Teknolojileri Ltd. Şti.；Longline SFP Transceiver）+ makinaturkiye（Limited Şirketi；2000；注册资本 50,000,001–500,000,000 TL 档；合作伙伴 Romania / China / Dubai / USA）+ ZoomInfo（22 人）+ longlinenetwork.com İletişim（同址；0212 321 75 14）",
+   "url": "https://longline.com.tr/en/products/",
+   "number": "Ltd. Şti.（İstanbul；MERSİS 号未取）",
+   "status": "Active（官网 2025 更新）",
+   "incorporated": "2000",
+   "company_type": "Limited Şirket（私有集团；自有大楼）",
+   "sic": [
+    "自有品牌 Longline：SFP / 光模块、内存、SSD、网卡、媒体转换器、光纤跳线（自称生产 = 贴标 / 组装）",
+    "网络 / 服务器配件分销（800+ 土耳其经销伙伴；电信 / 公共部门客户）"
+   ],
+   "address": "Kartaltepe Mah. Hakan Sok. Longline Plaza No 18, 34040 Bayrampaşa / İstanbul；旧址 Yeniköy Park Sok. No 29",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 人；注册资本 ≥50M TL）",
+   "officers": [
+    "未取（研究档无 KP；info@）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌 + 800 经销伙伴 + 中国办事处** → 已在华直采光模块 / 配件；交换机 329 页在售（研究档）但未见 Longline 标交换机 → **贴标 OEM 30% 目标（Longline 标 L2+ 管理型 / PoE 交换机补齐产品线）**，B BIG，升 A 候选（回信即 A）",
+    "对口：STC-228GP / STC-2224GP（PoE）+ STI-0240GE / STH-2C24XF-HSI（电信 / 公共部门投标用 Marvell L2+/L3）；卖点 = 与其 SFP 自有标配套 + 3 年保修；不提其中国办事处",
+    "收件人 info@longline.com.tr 点名「ürün müdürü / purchasing」；发信窗口 Thu 10–12 TRT；**加厚**（一页规格 + 贴标流程）"
+   ],
+   "notes": "自有标 OEM 30% 目标；B BIG；升 A 候选；加厚。",
+   "code": "SB-427"
+  },
+  "SB-465": {
+   "batch": 99,
+   "name": "Koza Güvenlik Elektronik Sistemleri San. Tic. Ltd. Şti.（kozaguvenlik.com.tr；İstanbul Perpa A Blok + Koza Plaza Okmeydanı）— Teletek（保加利亚）报警 / 消防、Kodicom、Dahua 分销商 + 自有注册品牌（Greentech Güvenlik 集团成员）",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：官网 İletişim / Hakkımızda（Koza Güvenlik Elektronik Sistemleri San. Tic. Ltd. Şti.；Perpa Ticaret Merkezi A Blok No 808-810-940 Şişli；Koza Plaza Arel Aralığı No 8 Okmeydanı；2005 年成立；「kendi tescilli markaları + distribütörlük」）+ kobitek 会员页（2005）+ LinkedIn（11–50 人；2005）+ Teletek Electronics 官方 Distributors 页（KOZA GÜVENLİK … LTD. ŞTİ. = 土耳其分销商）+ greentechguvenlik.com.tr Grup Şirketlerimiz（Koza = 集团公司；2010 起全国经销网）+ ISAF Exclusive 2019（Kodicom IP / HD 摄像机、Teletek 报警 / 消防）+ 官网页题「Teletek Electronics Distribütörü & Dahua Türkiye Dağıtıcısı」",
+   "url": "https://www.kozaguvenlik.com.tr/hakkimizda",
+   "number": "Ltd. Şti.（İstanbul；MERSİS 号未取）",
+   "status": "Active（官网 © 2005–2025；Teletek 2026-03 分销商名单在列）",
+   "incorporated": "2005",
+   "company_type": "Limited Şirket（Greentech Güvenlik 集团成员）",
+   "sic": [
+    "电子安防分销：Teletek 报警 / 消防（独家）、Kodicom IP 摄像机、Dahua 二级分销、智能家居；自有注册品牌（摄像机 / 配件）；全国经销网"
+   ],
+   "address": "Halil Rıfat Paşa Mah. Yüzer Havuz Sok. Perpa Ticaret Merkezi A Blok Kat 8 No 808-810-940, 34384 Şişli / İstanbul；Koza Plaza, Arel Aralığı No 8, Okmeydanı",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 人）",
+   "officers": [
+    "未取（研究档无 KP；info@）"
+   ],
+   "psc": "Greentech Güvenlik 集团（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**Perpa 安防分销商 + 自有注册品牌 + 全国经销网 → 分销 20% 为主、贴标 small 为辅**：Teletek / Kodicom 系统配套的 PoE 交换机（HRUI STC-028GP $28 / STC-228GP $33 / STC-2216GP）",
+    "收件人 info@kozaguvenlik.com.tr 点名「satın alma」；发信窗口 Thu 10–12 TRT；一页纸即止"
+   ],
+   "notes": "分销 20% + 贴标 small；一页纸。",
+   "code": "SB-465"
   }
  }
 }

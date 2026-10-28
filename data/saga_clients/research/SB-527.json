@@ -43,14 +43,23 @@
    "title": "Director",
    "email": "cindy.powers@avalan.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Director（AvaLAN，Dover Fueling Solutions 业务单元）= 抄送（第 99 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "John W",
    "title": "Product Manager",
    "email": "sales@volumeinc.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Product Manager, Volume Inc.（燃油中心托管网络 + 网络设备批发；AvaLAN 2020 起合作商）= **主收件人（分销 20% 线）**（第 99 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Matt Nelson",
+   "role": "Managing Director & GM（原 CEO / President 2008 起；2021-04 Dover 收购后任 Sr. Director & GM；2024-02 起兼管 Bulloch Technologies）= 拍板人（集团流程）（第 99 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.cbinsights.com/company/avalan-wireless"
   }
  ],
  "grade_override": null,
@@ -61,8 +70,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 avalan.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  "hq": "127 Jetplex Circle, Madison, AL 35758 / Huntsville, AL",
+  "other": "官网 avalan.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 99 批：Dover 子公司 → 自有标 AW24PTPOE 等 PoE 已有代工 + 集团供应商准入 → OEM 30% 低概率；现实线 = Volume Inc. 分销 20%（STC-028GP / STC-2216GP + 工业 STI-054GP 给加油机 / 前庭）；一页纸（第 99 批 官方登记核实 2026-10-28）",
+  "legal_name": "AvaLAN Wireless Systems Incorporated（AvaLAN Networks；2021-04-19 起 Dover Fueling Solutions / Dover Corporation NYSE: DOV 全资）",
+  "founded": "2004（硅谷）→ 2008 迁 Alabama（第 99 批 官方登记核实 2026-10-28）",
+  "staff": "11–50 人"
  },
  "business_lines": [
   "工业无线 / 以太网方案（加油站 EMV，自有品牌 AvaLAN）"

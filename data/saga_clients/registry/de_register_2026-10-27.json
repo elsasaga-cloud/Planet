@@ -4,7 +4,7 @@
   "source": "Germany · Handelsregister / Northdata（登记摘要）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 41
+  "count": 45
  },
  "rows": {
   "SA-008": {
@@ -1420,6 +1420,149 @@
    ],
    "notes": "KP = 老板本人；分销 20% + 贴标。",
    "code": "SB-1003"
+  },
+  "SB-1015": {
+   "batch": 99,
+   "name": "BR Network Solutions GmbH（br-network-shop.de / br-network.de；Kleve）— 数据网络 / 电信 / 监控技术专业批发商（Fachgroßhandel）+ 自有品牌「BR Network」（自配线缆 / 机柜；3M Volition 主分销）",
+   "iso": "DE",
+   "fetched": "2026-10-28",
+   "source": "DE · 1 次检索：Impressum（BR Network Solutions GmbH, Emmericher Str. 261, 47533 Kleve；Amtsgericht Kleve HRB 3402；GF Wilfried van den Beek, Barthel Robitzsch；USt-ID DE 813 479 263）+ handelsregister.ai（登记 2002-05-28；GF 二人 2004 起；Prokura Gerome Ramakers / Kyra Kubina 2024 起；股东 van den Beek 50% / Robitzsch 50%，各 165k €）+ Northdata（2004-02 登记，原 Sitz Emmerich am Rhein，资本 45k → 65k €）+ Kompass（WZ08 46520 电子元件与电信设备批发；10–19 人）+ 官网 Markenseite（inhabergeführt；20+ 年；合作 3M / Corning / CommScope / Prysmian / KTI Networks / MICROSENS；3M Volition Master Distributor；延续原 Quante AG 机柜产品线）",
+   "url": "https://www.br-network-shop.de/content/2-impressum",
+   "number": "HRB 3402（Amtsgericht Kleve）",
+   "status": "Active（AGB 2025-09；2024 新增两名 Prokura）",
+   "incorporated": "2002-05-28（Northdata 2004-02-19 迁址登记）",
+   "company_type": "GmbH（两位创办人各 50%）",
+   "sic": [
+    "WZ08 46520 电子元件与电信设备批发：数据网络布线 / 电信 / 监控系统（Fachgroßhandel）",
+    "自有品牌 BR Network（自配线缆、机柜、工具）；KTI Networks / MICROSENS 交换机在售"
+   ],
+   "address": "Emmericher Straße 261, 47533 Kleve（下莱茵，荷兰边境）",
+   "accounts": "—（小型 GmbH，Bundesanzeiger 简式）",
+   "accounts_due": "—",
+   "size_band": "小型（10–19 人；股本 330k €）",
+   "officers": [
+    "Wilfried van den Beek — Geschäftsführer（2004 起；50%）",
+    "Barthel Robitzsch — Geschäftsführer（2004 起；50%；网站内容负责人）",
+    "Gerome Ramakers — Prokura（2024）",
+    "Kyra Kubina — Prokura（2024）"
+   ],
+   "psc": "van den Beek 50% / Robitzsch 50%",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老板直营专业批发 + 自有标「BR Network」+ 已卖 KTI / MICROSENS 交换机** → 分销 20% 为主、贴标 small 为辅（BR Network 标 PoE 交换机补齐其机柜 + 布线套餐）",
+    "对口：HRUI STC-028GP $28 / STC-228GP $33 / STC-2224GP $86 对标其 KTI 同级；2024 新任两名 Prokura = 接班梯队，适合「新供应商」议题",
+    "收件人：Barthel Robitzsch（GF，网站负责人）；info@br-network.de；发信窗口 Thu 12–14 CET；一页纸"
+   ],
+   "notes": "分销 20% + 贴标 small；一页纸。",
+   "code": "SB-1015"
+  },
+  "SB-1039": {
+   "batch": 99,
+   "name": "ICO Innovative Computer GmbH（ico.de；Diez, Rheinland-Pfalz）— 1982 年起家的 IT 分销商 / 进口商 + 自产工业 PC / 服务器 / POS（120 人；≈€20M；ISO 9001；20,000 客户，60% 经销商 / 40% 工业客户）",
+   "iso": "DE",
+   "fetched": "2026-10-28",
+   "source": "DE · 1 次检索：Impressum（ICO Innovative Computer GmbH；GF Oliver Schröder, Alexander Solzer；Amtsgericht Montabaur HRB 20217；USt-ID DE 246038247）+ Northdata（HRB 20217；资本 €500,000；曾用名 DRJ GmbH）+ implisense（登记 2005-01-15；2023 资产负债表 €5.03M）+ cylex（2006-03-03 登记；Zuckmayerstr. 15, 65582 Diez）+ wer-zu-wem（120 人；营收档 €10–50M；1982 Klaus Jeschke 创立）+ LinkedIn / 官网（1991 由 Klaus Jeschke Hard- und Software 转为 GmbH；「Distributor und Importeur von Computer- und Kommunikations-Komponenten」；DIN EN ISO 9001:2015；自有装配）+ Wiley 2025（120+ 员工、8 学徒；20,000 客户；2022/23 营收 ≈€20M）",
+   "url": "https://www.ico.de/impressum",
+   "number": "HRB 20217（Amtsgericht Montabaur）",
+   "status": "Active",
+   "incorporated": "1982（个体）→ 1991 GmbH → 2005/2006 现登记（原 DRJ GmbH 壳）",
+   "company_type": "GmbH（资本 €500,000；私有）",
+   "sic": [
+    "IT 分销与进口（服务器、存储、工业 PC、面板 PC、嵌入式、条码 / MDE、POS 组件、医疗 PC）",
+    "自有装配 / 系统集成（Systemhaus）"
+   ],
+   "address": "Zuckmayerstraße 15, 65582 Diez",
+   "accounts": "2023 资产负债表 €5.03M；营收 ≈€20M（2022/23）",
+   "accounts_due": "—",
+   "size_band": "中型（120 人）",
+   "officers": [
+    "Oliver Schröder — Geschäftsführer",
+    "Alexander Solzer — Geschäftsführer",
+    "Klaus Jeschke — 创办人（1982）"
+   ],
+   "psc": "未取（私有）",
+   "charges": "",
+   "prev_names": [
+    "DRJ GmbH（壳名）",
+    "Klaus Jeschke Hard- und Software（1982–1991）"
+   ],
+   "lines": [
+    "**第 99 批 DE 最大户**：自称「Distributor und Importeur」+ 20,000 客户（60% 经销商）+ 自有工业 PC 装配 → **分销 20% 首选（B BIG，升 A 候选）**；进口经验 = 《背景信息》目标顺位第二",
+    "对口：工业 PC / 嵌入式客群 → STI-054GP / STI-288DGGPM 工业 PoE；POS / Systemhaus 客群 → STC-228GP / STC-2224GP / STI-0240GE；卖点 = 直接进口价 + 3 年保修 + MOQ 1 试单",
+    "收件人：vertrieb@ico.de 点名「Produktmanagement Netzwerk / Einkauf」，抄 GF Oliver Schröder；发信窗口 Thu 12–14 CET；**加厚**（一页规格 + 三档价）"
+   ],
+   "notes": "分销 20% 首选；B BIG；升 A 候选；加厚。",
+   "code": "SB-1039"
+  },
+  "SB-1080": {
+   "batch": 99,
+   "name": "SPHINX Computer Vertriebs-GmbH（sphinxcomputer.de；Laudenbach bei Weinheim）— 工业通信 / 数据通信分销商（MOXA、Advantech、Perle、Adder、Opengear、Raritan 等；1989）",
+   "iso": "DE",
+   "fetched": "2026-10-28",
+   "source": "DE · 1 次检索：Impressum（SPHINX Computer Vertriebs-GmbH, Heinrich-Lanz-Straße 14, 69514 Laudenbach；GF Hubert Engelhardt；Registergericht Mannheim HRB 431843；USt-ID DE 113585714）+ openregister.de（成立 1989-07-06；GF Hubert Engelhardt 2005-11-18 起（70 岁）；Einzelprokura Markus Brenner 2005 起（63）、Stefanie Engelhardt 2012 起（66）；原资本 300,000 DEM）+ handelsregister.ai（1989-04-25 登记；GF 为 Diplom-Volkswirt，Hemsbach；单独代表，免 §181）+ Creditreform（1 名股东；3 名管理者）+ implisense（股本 €155,000）+ 官网 Über（1989 成立；「führender Distributor von Industrieautomationsprodukten in Europa」；总部与主仓 Laudenbach；自称 19 个欧洲站点）",
+   "url": "https://shop.sphinxcomputer.de/Quick-Links/Impressum/",
+   "number": "HRB 431843（Amtsgericht Mannheim）",
+   "status": "Active（2020-01 章程修订）",
+   "incorporated": "1989-04-25",
+   "company_type": "GmbH（单一股东；家族：Engelhardt）",
+   "sic": [
+    "工业通信 / 数据通信分销：MOXA（工业交换机 / 串口服务器）、Advantech、Perle、Adder、Multitech、Barix、Opengear、Raritan、Server Technology、VXL"
+   ],
+   "address": "Heinrich-Lanz-Straße 14, 69514 Laudenbach（Rhein-Neckar）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（股本 €155k；人数未取）",
+   "officers": [
+    "Hubert Engelhardt — Geschäftsführer（2005 起；Diplom-Volkswirt；70 岁）",
+    "Markus Brenner — Einzelprokura（2005 起）= 研究档 KP markus.brenner@",
+    "Stefanie Engelhardt — Einzelprokura（2012 起）"
+   ],
+   "psc": "Hubert Engelhardt（单一股东，推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**研究档 KP Markus Brenner 坐实 = 2005 起单独代理权 Prokurist**（相当于总经理级别）→ 收件人正确",
+    "但主业是 **MOXA 等品牌工业交换机的正规分销** → 品牌忠诚度高，Saga 只能做「预算线 / 第二来源」→ **分销 20% 低概率，一页纸即止**：STI-054GP / STI-144GP / STI-288DGGPM 对标 MOXA EDS 系列价差（不点名 MOXA）",
+    "GF 70 岁 + 女儿 Prokura = 传承期，决策保守；发信窗口 Thu 12–14 CET；不加厚"
+   ],
+   "notes": "分销 20% 低概率；KP 坐实；一页纸。",
+   "code": "SB-1080"
+  },
+  "SB-281": {
+   "batch": 99,
+   "name": "multiGuide GmbH（multiguide.com；Oberhaching bei München）— 停车引导系统（Parkleitsystem：传感器 / 显示 / 软件）开发与制造商（2011；GF 兼股东 Dr. Roland Kraus，前 Siemens 全球停车业务负责人）",
+   "iso": "DE",
+   "fetched": "2026-10-28",
+   "source": "DE · 1 次检索：Impressum（Multiguide GmbH, Linienstraße 1, 82041 Oberhaching；GF Dr. Roland Kraus；Amtsgericht München HRB 194714；USt-ID DE279778200）+ Northdata（HRB 194714；2011-10-12 登记；资本 €25,000 → €26,596；经营范围「Entwicklung, Produktion, Vertrieb und Wartung von Verkehrssystemen」）+ companyhouse.de（成立 2011-10-17；Prokura Marion Schmitz / Javier Ferre Torres / Annika Heinz）+ firmenwissen（4 名管理者；最近变更 2021-03）+ XING（Dr. Roland Kraus 2012 起 GF；2007–2011 Leiter Urban Parking Siemens AG）+ LinkedIn（11–50 人；Javier Ferre Torres = Produkt Manager Parkleitsystem；Kraus = Geschäftsführender Gesellschafter）",
+   "url": "https://www.multiguide.com/Impressum/",
+   "number": "HRB 194714（Amtsgericht München）",
+   "status": "Active（2025-08 最近变更）",
+   "incorporated": "2011-10-17",
+   "company_type": "GmbH（GF 兼股东 Dr. Roland Kraus）",
+   "sic": [
+    "停车引导系统（单车位传感器、LED 显示、控制器、软件；停车场 / 商场 / 机场）— 开发 / 生产 / 安装 / 维护"
+   ],
+   "address": "Linienstraße 1, 82041 Oberhaching（慕尼黑南）",
+   "accounts": "—（小型 GmbH）",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 人）",
+   "officers": [
+    "Dr. Roland Kraus — Geschäftsführender Gesellschafter（2012 起）",
+    "Javier Ferre Torres — Prokura / Produkt Manager Parkleitsystem = 研究档 KP javier.ferre@",
+    "Marion Schmitz — Prokura",
+    "Annika Heinz — Prokura"
+   ],
+   "psc": "Dr. Roland Kraus",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**研究档 KP Javier Ferre 坐实 = Prokurist + 停车引导产品经理**（选型人）",
+    "系统商自用 + 项目配套 → **集成商 25%**：停车场是 PoE 交换机典型场景（传感器 / 摄像机 / 显示屏供电，地下车库宽温）→ STI-054GP / STI-144GP（导轨）+ STC-2224GP（机房）；卖点 = 工业温宽 + 3 年保修 + 小批量",
+    "收件人 Javier Ferre Torres；发信窗口 Thu 12–14 CET；一页纸即止（单一行业、量随项目）"
+   ],
+   "notes": "集成商 25%；KP 坐实；一页纸。",
+   "code": "SB-281"
   }
  }
 }

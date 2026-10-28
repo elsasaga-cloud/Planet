@@ -4,7 +4,7 @@
   "source": "Poland · KRS 官方 API（api-krs.ms.gov.pl）+ 财政部 VAT 白名单 API（wl-api.mf.gov.pl）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 38
+  "count": 42
  },
  "rows": {
   "SA-023": {
@@ -1285,6 +1285,137 @@
    ],
    "notes": "低概率；下轮不追。",
    "code": "SB-1061"
+  },
+  "SB-1065": {
+   "batch": 99,
+   "name": "DELTA-OPTI Monika Matysiak sp. z o.o.（原 DELTA-OPTI MATYSIAK sp. k.；delta.poznan.pl / shopdelta.eu；Poznań）— CCTV / 天线 / WLAN 批发 + 零售 + 自产机械配件（桅杆 / 支架）；多语种出口网店",
+   "iso": "PL",
+   "fetched": "2026-10-28",
+   "source": "PL · 1 次检索：shopdelta.eu About Us（Trading Company DELTA-OPTI MATYSIAK SPÓŁKA KOMANDYTOWA, ul. Graniczna 10, 60-713 Poznań；NIP PL 7792602869；REGON 544106600；Design & Manufacturing Company Przedsiębiorstwo Wielobranżowe DELTA Arkadiusz Matysiak NIP 779-000-84-58）+ rejestr.io（KRS 0001225221；sp. z o.o.；2026-03-02 登记；资本 100 tys. zł；Prezes Arkadiusz Jerzy Matysiak、Wiceprezes Monika Małgorzata Matysiak、Członek Arkadiusz Tomasz Topolski）+ krs-pobierz（2026-03-02 注册，2026-03-25 最近变更）+ X @delta_opti（批发 + 零售：监控、报警、Smart Home、电气 / 网络配件、电源）+ shopdelta.eu 数据表页脚（delta-opti@delta.poznan.pl）",
+   "url": "https://rejestr.io/krs/1225221/delta-opti-monika-matysiak",
+   "number": "KRS 0001225221 · NIP 7792602869 · REGON 544106600",
+   "status": "Active（2026-03 由 sp. k. 转为 sp. z o.o.）",
+   "incorporated": "sp. k. 期未取 → 2026-03-02 sp. z o.o. 登记",
+   "company_type": "Spółka z o.o.（Matysiak 家族；资本 100k zł）+ 关联个体制造企业 P.W. DELTA Arkadiusz Matysiak",
+   "sic": [
+    "CCTV（模拟 / AHD / CVI / TVI / IP）、录像机、光纤、放大器、天线 / SAT、WLAN、网络配件批发与零售",
+    "自产机械配件（桅杆、烟囱 / 墙面抱箍、支架、夹具）"
+   ],
+   "address": "ul. Graniczna 10, 60-713 Poznań",
+   "accounts": "—（新主体首年）",
+   "accounts_due": "—",
+   "size_band": "小型（人数未取；多语种出口网店 + 自产车间）",
+   "officers": [
+    "Arkadiusz Jerzy Matysiak — Prezes Zarządu（兼 P.W. DELTA 业主）",
+    "Monika Małgorzata Matysiak — Wiceprezes Zarządu",
+    "Arkadiusz Tomasz Topolski — Członek Zarządu"
+   ],
+   "psc": "Matysiak 家族",
+   "charges": "",
+   "prev_names": [
+    "DELTA-OPTI MATYSIAK SPÓŁKA KOMANDYTOWA"
+   ],
+   "lines": [
+    "**家族批发商 + 自产配件 + 多语种出口网店（shopdelta.eu）** → 分销 20%（B BIG 候选）：PoE 交换机是其 CCTV 套餐刚需 → HRUI STC-028GP $28 / STC-228GP $33 / STC-2216GP + 工业 STI-054GP（户外天线 / 桅杆场景）",
+    "2026-03 刚改制为 sp. z o.o. = 扩张 / 传承节点，适合「新供应商」议题；收件人 Prezes Arkadiusz Matysiak（delta-opti@delta.poznan.pl）；发信窗口 Thu 12–14 CET；**加厚一次**（规格 + 三档价）"
+   ],
+   "notes": "分销 20%；B BIG 候选；加厚。",
+   "code": "SB-1065"
+  },
+  "SB-1095": {
+   "batch": 99,
+   "name": "VIDOM（vidom.pl；LED 照明 + Grenton 智能家居网店，PoE / CCTV / WiFi 为配套）— 官方登记 1 次未命中（检索命中的 VIDOM Systemy Zabezpieczeń sp. z o.o. Mińsk Mazowiecki = vidom.com.pl 同名他户，不采）→ 未坐实",
+   "iso": "PL",
+   "fetched": "2026-10-28",
+   "source": "PL · 1 次检索「Vidom sp. z o.o. KRS NIP vidom.pl」→ 仅命中 vidom.com.pl 的 VIDOM Systemy Zabezpieczeń sp. z o.o.（KRS 0001021691；Mińsk Mazowiecki；Grązka 家族）与其关联公司 —— 域名不同、业务（安防集成）不同于研究档 vidom.pl（LED / Grenton 智能家居网店，邮箱 grenton@）→ 视为同名他户，按规程停；研究档：表内「PoE switch 国内的」「质量一般」",
+   "url": "",
+   "number": "未坐实（vidom.pl 运营主体 NIP / KRS 未取）",
+   "status": "未核（站点在线 2026-10-21）",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "LED 照明 / Grenton 智能家居网店（PoE 交换机、CCTV、WiFi 为配套类目）"
+   ],
+   "address": "未取",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "未取（疑微型网店）",
+   "officers": [
+    "未取（研究档无 KP；grenton@ 邮箱）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**未坐实 + 同名陷阱**（vidom.pl ≠ vidom.com.pl）；智能家居网店对 PoE 只是配套且表内「质量一般」→ **一页纸即止**：STC-028GP $28 单品；不加厚、下轮不追"
+   ],
+   "notes": "未坐实；同名他户不采；一页纸。",
+   "code": "SB-1095"
+  },
+  "SB-1058": {
+   "batch": 99,
+   "name": "PHU Multiproject（Multiproject Hurtownia Teletechniczna；multiproject.com.pl；Gdańsk）— 弱电 / 安防 / 电子全品类 B2B 批发电商（PLANET 工业 PoE 在售；NIP 5842509422）",
+   "iso": "PL",
+   "fetched": "2026-10-28",
+   "source": "PL · 1 次检索：multiproject.com.pl 页脚（Multiproject Hurtownia Teletechniczna；NIP 5842509422（584 = Gdańsk 税务局号段）；biuro@multiproject.com.pl；具名 Damian Lis 535 840 740 damian.lis@ / Sławomir Janusch 535 840 640 slawek.janusch@）；同名 Multiprojekt（Białystok / Kraków / Wrocław / Szczecin / Radom 多家 sp. z o.o.）均为他户，不采；CEIDG 未查（1 次即停）",
+   "url": "https://www.multiproject.com.pl/",
+   "number": "NIP 5842509422（法律形式未核；「PHU」= 个体商号 Przedsiębiorstwo Handlowo-Usługowe 推定）",
+   "status": "部分坐实（NIP 已核；站点在线）",
+   "incorporated": "未取",
+   "company_type": "推定 JDG / PHU（个体经营）",
+   "sic": [
+    "弱电批发：CCTV / SSWiN / PPOŻ、双绞线 / 网络配件（PLANET IGS-624HPT / GSD-1002M / GSW-4800 在售）、汽车 / 家用电子全品类 B2B 电商"
+   ],
+   "address": "Gdańsk（门牌未取）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型 / 小型（两位具名销售）",
+   "officers": [
+    "Damian Lis — 销售（研究档 KP）",
+    "Sławomir Janusch — 销售（研究档 KP）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**PLANET 工业 PoE 在售但两款缺货** = 现成替代切口 → **分销 20% small**：STI-288DGGPM $137 对标 PLANET IGS-624HPT（1 350 zł 净 ≈ $335）、STC-110XGE / STC-228GP 对标 GSD / GSW 系列",
+    "收件人 Damian Lis（具名销售）；发信窗口 Thu 12–14 CET；一页纸即止（全品类批发，弱电只是一类）"
+   ],
+   "notes": "分销 20% small；PLANET 替代切口；一页纸。",
+   "code": "SB-1058"
+  },
+  "SB-1025": {
+   "batch": 99,
+   "name": "ELFON Miękina Sp. K.（原 ELFON BIS Sp. z o.o. Sp. K.；elfon.com.pl；Kraków）— 波兰楼宇对讲 / IP-SIP 可视对讲制造商（2007 起；普通合伙人 ELFON BIS Sp. z o.o.，Prezes Marek Miękina）",
+   "iso": "PL",
+   "fetched": "2026-10-28",
+   "source": "PL · 1 次检索：官网 Polityka / Regulamin / Kontakt（KRS 0000700362；NIP 6792955142；BDO 000010168；ul. Półłanki 27A, 30-740 Kraków，2026-02-01 自 Ruciana 3 迁入；普通合伙人 KRS 0000583435 NIP 6793117911；「polski producent domofonów, wideodomofonów IP/SIP」）+ bizraport（ELFON BIS Sp. z o.o. Sp. K.；登记 2017-10-23；开业 2007-10-12；spółka komandytowa）+ rejestr.io（ELFON MIĘKINA KRS 0000700362 REGON 120559355；ELFON BIS Sp. z o.o. KRS 0000583435 Prezes Marek Andrzej Miękina 2015-10-29 起，资本 5 tys. zł）+ elfon-sklep.pl（ELFON Miękina Sp.K.）",
+   "url": "https://rejestr.io/krs/700362/elfon-miekina",
+   "number": "KRS 0000700362 · NIP 6792955142 · REGON 120559355（GP：KRS 0000583435）",
+   "status": "Active（2026-02 迁新址；招聘区域销售经理）",
+   "incorporated": "2007-10-12（开业）/ 2017-10-23（现 sp. k. 登记）",
+   "company_type": "Spółka komandytowa（普通合伙人 ELFON BIS Sp. z o.o.；Miękina 家族）",
+   "sic": [
+    "楼宇对讲制造：数字 / 模拟 / 两线制对讲、ELFON Optima、IP/SIP 可视对讲、电源 / 继电器（多户住宅 + 独栋）；分销可视对讲、CO / 燃气探测器"
+   ],
+   "address": "ul. Półłanki 27A, 30-740 Kraków（2026-02 起）；旧址 ul. Ruciana 3 / ul. Pana Tadeusza 4",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（人数未取；自有生产 + 区域销售网）",
+   "officers": [
+    "Marek Andrzej Miękina — Prezes Zarządu（普通合伙人 ELFON BIS Sp. z o.o.）= 实控人"
+   ],
+   "psc": "Marek Miękina（推定）",
+   "charges": "",
+   "prev_names": [
+    "ELFON BIS Sp. z o.o. Sp. K."
+   ],
+   "lines": [
+    "**本土制造商 + IP/SIP 对讲产品线** → IP 对讲必配 PoE 交换机 → **贴标 small（OEM 30%）/ 配套 25%**：ELFON 标 STC-028GP（8+2，对讲 + 门口机供电）/ STI-054GP（楼道配电箱导轨）随其 IP 系统成套卖给安装商",
+    "收件人 Marek Miękina（实控人）抄 biuro@；发信窗口 Thu 12–14 CET；一页纸 + 一张配套图即可（不加厚）"
+   ],
+   "notes": "贴标 small / 配套 25%；一页纸。",
+   "code": "SB-1025"
   }
  }
 }

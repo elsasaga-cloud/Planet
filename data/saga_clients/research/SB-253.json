@@ -36,7 +36,8 @@
    "title": "Technical & Presale Manager",
    "email": "sales@provisionisr.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Technical & Presale Manager（选型人）= 收件人（第 99 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -47,8 +48,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 provision-isr.com，语言 ?，快照状态 ok；角色判定来源：用户表"
+  "hq": "11 Atir Yeda St, Kfar Saba 4442510, Israel（+ 2472 Southwell Rd, Dallas TX 75229；Medley FL 物流；深圳宝安办公室）",
+  "other": "官网 provision-isr.com，语言 ?，快照状态 ok；角色判定来源：用户表；第 99 批：**国别更正 US → 以色列**；CCTV 品牌商，摄像机由深圳 TVT 贴牌 + 宝安办公室 → 自有标 PoE 交换机已同源直采 → OEM 30% 低概率；Simon「可以尝试多跟进一下」→ 一页纸 Marvell 管理型 L2+ PoE（STC-424XGGPM-280W）差异化，写 Leonardo Severi 抄 sales@；发信窗口 Sun–Thu 10–12 IST；不提 TVT（第 99 批 官方登记核实 2026-10-28）",
+  "legal_name": "Provision-ISR（以色列 Kfar Saba 私有公司；美国销售子公司 Provision-ISR USA, Dallas TX；公司号未取）",
+  "founded": "2007（第 99 批 官方登记核实 2026-10-28）",
+  "staff": "51–200 人；USA 11 人 ≈$22M"
  },
  "business_lines": [
   "CCTV / PoE（自有品牌 Provision-ISR）"
@@ -139,5 +143,6 @@
    "body": "Hi Leonardo,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 9 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the PoE switches in the Provision-ISR range, in your packaging from small lots, CE/RoHS/FCC: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $145.7; 802.3bt ports on request. For the unmanaged PoE positions, a budget 8 x PoE+ + 2 x uplink unit - STC-028GP - $27.2. Your Bao'an office can see samples in Shenzhen any day.\n\nOne question: which PoE SKU do your distributors reorder most with camera kits - that is the one to sample first?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "country_fix": "以色列"
 }

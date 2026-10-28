@@ -40,7 +40,8 @@
    "title": "Technical Manager",
    "email": "deniz@kozaguvenlik.com.tr",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档联系人（职务未核）= 收件人，抄 info@ 点名「satın alma」（第 99 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -51,8 +52,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "土耳其",
-  "other": "官网 kozaguvenlik.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Perpa Ticaret Merkezi A Blok Kat 8 No 808-810-940, 34384 Şişli / İstanbul（+ Koza Plaza, Arel Aralığı No 8, Okmeydanı）",
+  "other": "官网 kozaguvenlik.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案；第 99 批：Teletek（BG）报警 / 消防独家 + Kodicom + Dahua 二级分销 + 自有注册品牌 + 全国经销网 → 分销 20% 为主、贴标 small 为辅（STC-028GP / STC-228GP / STC-2216GP）；一页纸（第 99 批 官方登记核实 2026-10-28）",
+  "legal_name": "Koza Güvenlik Elektronik Sistemleri San. Tic. Ltd. Şti.（İstanbul；Greentech Güvenlik 集团成员；Teletek 土耳其官方分销商）",
+  "founded": "2005（第 99 批 官方登记核实 2026-10-28）",
+  "staff": "11–50 人"
  },
  "business_lines": [
   "安防经销（报警 / 摄像机 / NVR / 智能家居 / 考勤）"

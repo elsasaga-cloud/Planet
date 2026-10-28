@@ -4,7 +4,7 @@
   "source": "France · API Recherche d'entreprises（recherche-entreprises.api.gouv.fr，官方免费：SIRENE + RNE + 财报）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 43
+  "count": 47
  },
  "rows": {
   "SA-015": {
@@ -1499,6 +1499,141 @@
    ],
    "notes": "低概率；下轮不追。",
    "code": "SB-1067"
+  },
+  "SB-1094": {
+   "batch": 99,
+   "name": "VideoBits（videobits.co.uk）= L2tek 的网店，运营主体 Leading Light Technologies Ltd（Lincoln）— 广播 / ProAV 零配件电商（光模块、BNC / SDI / HDMI 延长器、小批量现货）",
+   "iso": "GB",
+   "fetched": "2026-10-28",
+   "source": "GB · 1 次检索：videobits.co.uk 页脚（Leading Light Technologies Ltd；Registered in England & Wales Reg No. 06496207；Reg Office Tower House, Lucy Tower Street, Lincoln LN1 1XW）+ About（「VideoBits is the online store for L2tek」；广播 / ProAV 硬件；小批量 / 样品；英国现货）+ ZoomInfo（<25 人；<$5M；Telecommunication Equipment）+ X 账号（2017-10 上线）",
+   "url": "https://videobits.co.uk/about/",
+   "number": "06496207（Leading Light Technologies Ltd；CH 页未开，页脚自述）",
+   "status": "Active（站点 2025-07）",
+   "incorporated": "2008（06496207 号段推定；未开 CH）",
+   "company_type": "Private limited company（L2tek 品牌 / VideoBits 网店）",
+   "sic": [
+    "广播 / ProAV 硬件电商：光模块（SMPTE 视频 SFP / QSFP）、BNC / 光纤线缆、SDI / HDMI 延长器、视频流系统；小批量"
+   ],
+   "address": "Tower House, Lucy Tower Street, Lincoln LN1 1XW（注册处）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（<25 人）",
+   "officers": [
+    "未取（研究档无 KP；CH 页未开）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [
+    "L2tek（母品牌）"
+   ],
+   "lines": [
+    "**广播 / ProAV 小批量电商**，主营光模块 / 线缆（Saga 不做光模块）→ 唯一切口是 **AV-over-IP 的 PoE 交换机（IGMP / 多播）**：STC-2224GP / STC-424XGGPM-280W → 分销 20% small，一页纸即止",
+    "发信窗口 Thu 12–14 GMT；不加厚"
+   ],
+   "notes": "分销 20% small；一页纸。",
+   "code": "SB-1094"
+  },
+  "SB-1099": {
+   "batch": 99,
+   "name": "ZXTECH LTD（zxtech.co / zxtechuk.com；注册地 Mayfair 虚拟办公室）— 英国家用安防摄像系统品牌（PoE NVR 套装；经 domar.com 销售；FCA 消费信贷授权）",
+   "iso": "GB",
+   "fetched": "2026-10-28",
+   "source": "GB · 1 次检索：Companies House（ZXTECH LTD 12495813；成立 2020-03-03；Berkeley Square House, Berkeley Square, Mayfair, London W1J 6BD；Active；1 名董事）+ Endole（Micro；营业额 <£1M；董事 / PSC Timothy Mak，1980-01 生；2 名股东）+ opengovuk（PSC 75–100% 股权与表决权）+ Northdata（资本 £1.00）+ zxtechuk.com 页脚（FCA 授权号 940104）+ 2020-12 迁址（自 Lansdowne House）",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/12495813",
+   "number": "12495813",
+   "status": "Active（账目至 2025-12-31）",
+   "incorporated": "2020-03-03",
+   "company_type": "Private limited company（Micro；资本 £1）",
+   "sic": [
+    "家用 CCTV 品牌电商（5MP / 4K / 12MP IP 与模拟套装、PoE 摄像机、配套 6 口 PoE 小交换机）；直销 + domar.com"
+   ],
+   "address": "Berkeley Square House, Berkeley Square, Mayfair, London W1J 6BD（虚拟办公室；实际仓储未取）",
+   "accounts": "Micro（营业额 <£1M）",
+   "accounts_due": "—",
+   "size_band": "微型（1 董事）",
+   "officers": [
+    "Timothy Mak — Director / PSC（75–100%）"
+   ],
+   "psc": "Timothy Mak",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**定性：不是同行**，是消费级 CCTV 自有标卖家（Amazon / 自营站套装）；配套 PoE 交换机已随套装从华南采购 → 守界（消费级）+ 微型 → **一页纸即止、不加厚**：若要试探只报 HRUI STC-028GP $28（4/8 口 PoE）贴 Zxtech 标 MOQ",
+    "发信窗口 Thu 12–14 GMT；收件人 Timothy Mak（董事本人）"
+   ],
+   "notes": "消费级自有标；微型；一页纸。",
+   "code": "SB-1099"
+  },
+  "SB-1019": {
+   "batch": 99,
+   "name": "Connectix Limited（Connectix Cabling Systems；connectix.co.uk；Braintree, Essex）— 英国结构化布线 / 机柜 / 光纤连接制造商（1993；137 人；营业额 £46.3M；Hancock 家族；2026-03 宣布关闭 4 家英国工厂、生产外移印度 / 中国）",
+   "iso": "GB",
+   "fetched": "2026-10-28",
+   "source": "GB · 1 次检索：Companies House（CONNECTIX LIMITED 02814569；成立 1993-05-04；500 Avenue West, Skyline 120, Great Notley, Braintree CM77 7AA；Active；董事 Kevin Arthur Hancock 1993 起、Timothy Roland Brown / Mark Hancock / Steven John Hancock 1998-12-01 起；秘书 Sarah Jane Hancock）+ Endole（Medium；137 人；营业额 £46.32M；Kevin Hancock = MD / PSC，1968-01 生）+ LinkedIn（51–200；1993；Structured Cabling / Data Centres / Cabinets / Networking Equipment）+ The Manufacturer 2026-03-16（MD Kevin Hancock：将关闭 4 家英国工厂，生产迁往印度或中国；1999 Daily Mail 奖）+ ContactOut（Tim Dickens = Director of Brands）",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/02814569",
+   "number": "02814569",
+   "status": "Active（2026-03 重组：生产外移）",
+   "incorporated": "1993-05-04",
+   "company_type": "Private limited company（Hancock 家族控股）",
+   "sic": [
+    "结构化布线（Cat 5e–7、OM/OS 光纤）、机柜 / 机箱、光纤连接件、FTTx / 数据中心 / 广播 / 恶劣环境 / 智能家居 — 自有品牌 Connectix，英国研发 + 生产（外移中）"
+   ],
+   "address": "500 Avenue West, Skyline 120, Great Notley, Braintree, Essex CM77 7AA",
+   "accounts": "营业额 £46.32M；137 人（Endole 最新）",
+   "accounts_due": "—",
+   "size_band": "中型（137 人；£46M）",
+   "officers": [
+    "Kevin Arthur Hancock — Managing Director / PSC（创办人，1993 起）",
+    "Timothy Roland Brown — Marketing & Development Director（1998 起）",
+    "Mark Hancock — Director（1998 起）",
+    "Steven John Hancock — Director（1998 起）",
+    "Sarah Jane Hancock — Company Secretary",
+    "Tim Dickens — Director of Brands",
+    "Matthew Craig — 研究档 KP matt.craig@（职务未核）"
+   ],
+   "psc": "Kevin Arthur Hancock",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**第 99 批 GB 最大户、OEM 30% 首选**：自有品牌 Connectix 涵盖「Networking Equipment」，£46M 规模，2026-03 公开宣布把生产外移到印度 / 中国 = **正在找亚洲供应商的窗口期** → Connectix 标 PoE / 管理型交换机补齐其布线 + 机柜套餐；**B BIG，升 A 候选（回信即 A）**",
+    "对口：STC-228GP / STC-2224GP / STI-0240GE / STC-424XGGPM-280W（数据中心 / 园区）+ STI 系列（恶劣环境线）；卖点 = Marvell 管理型 + 3 年保修 + 小批量贴标 + 已服务欧洲品牌（不点名）",
+    "收件人：Tim Dickens（Director of Brands）主送，Timothy Brown（Marketing & Development Director）抄，研究档 Matthew Craig 保留；**不提**其关厂新闻；发信窗口 Thu 12–14 GMT；**加厚**（一页规格 + 贴标流程 + 三档价）"
+   ],
+   "notes": "OEM 30% 首选；B BIG；升 A 候选；加厚。",
+   "code": "SB-1019"
+  },
+  "SB-1045": {
+   "batch": 99,
+   "name": "ITM Components Limited（itm-components.co.uk；Wimborne, Dorset）— 连接 / KVM / AV 延长小众分销商（L-Com、NTI、Extron、Aten、Austin Hughes 等；1991 起；7 人）",
+   "iso": "GB",
+   "fetched": "2026-10-28",
+   "source": "GB · 1 次检索：Companies House（ITM COMPONENTS LIMITED 03129914；成立 1995-11-23；10 Whittle Road, Ferndown Industrial Estate, Wimborne BH21 7RU；Active；账目至 2024-05-31，小型豁免；2024-10-28 Ian Flemming 辞任董事 / 秘书 / PSC；2024-09 新章程）+ datalog（董事 Michael John Cook 1997 起；营业额 <£6.5M；<50 人）+ Endole（Michael John Cook 85 岁；1 名股东 / PSC；7 人；现金 £671.87K，同比 −46%；关联 ITM Direct Ltd）+ checkthecompany（1991 起营业；分销 L-Com / NTI / Extron / Ophit / VPI / Gefen / Acces IO / Aten / Austin Hughes / EKS / Hetec / Ingke / Newnex）+ firmbase（7 人）",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/03129914",
+   "number": "03129914",
+   "status": "Active（2024-10 股权集中至 Michael John Cook）",
+   "incorporated": "1995-11-23（1991 起营业）",
+   "company_type": "Private limited company（单一股东）",
+   "sic": [
+    "电子连接 / KVM / AV 延长 / 工控卡分销（L-Com、NTI、Extron、Aten、Austin Hughes 等；定制线缆）"
+   ],
+   "address": "10 Whittle Road, Ferndown Industrial Estate, Wimborne, Dorset BH21 7RU",
+   "accounts": "小型豁免（营业额 <£6.5M）；现金 £672K（2025-05）",
+   "accounts_due": "2026-02-28（2025 账目）",
+   "size_band": "微型（7 人）",
+   "officers": [
+    "Michael John Cook — Director / PSC（1997 起；1940-12 生）",
+    "Ian Flemming — 前董事 / 秘书（1999–2024-10-28 辞任）",
+    "Neil Stratford / Philip Savill — 研究档 KP（职务未核）"
+   ],
+   "psc": "Michael John Cook（2024-10 起唯一）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**微型、85 岁单一股东、合伙人 2024-10 退出、现金减半** → 复利低 → **分销 20% small，一页纸即止**：Aten / NTI 客群配套的 STC-028GP / STC-228GP",
+    "收件人：研究档 Neil Stratford / Philip Savill（销售）；发信窗口 Thu 12–14 GMT；不加厚、下轮不追"
+   ],
+   "notes": "分销 20% small；一页纸。",
+   "code": "SB-1045"
   }
  }
 }

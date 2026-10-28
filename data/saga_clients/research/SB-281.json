@@ -39,11 +39,12 @@
  ],
  "kp": [
   {
-   "name": "Javier Ferre",
+   "name": "Javier Ferre Torres",
    "title": "（职务待核）",
    "email": "javier.ferre@multiguide.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Prokura + Produkt Manager Parkleitsystem（companyhouse.de / LinkedIn）= **坐实 = 选型人 = 收件人**；GF 兼股东 Dr. Roland Kraus（前 Siemens 全球停车业务负责人）（第 99 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -54,8 +55,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "德国",
-  "other": "官网 multiguide.com，语言 de，快照状态 ok；角色判定来源：待核"
+  "hq": "Linienstraße 1, 82041 Oberhaching",
+  "other": "官网 multiguide.com，语言 de，快照状态 ok；角色判定来源：待核；第 99 批：停车引导系统开发 / 制造 / 安装商 → 集成商 25%（地下车库传感器 / 摄像机 / 显示屏 PoE：STI-054GP / STI-144GP 导轨 + STC-2224GP 机房）；一页纸（第 99 批 官方登记核实 2026-10-28）",
+  "legal_name": "multiGuide GmbH（Amtsgericht München HRB 194714；资本 €26,596；USt-ID DE279778200）",
+  "founded": "2011-10-17（第 99 批 官方登记核实 2026-10-28）",
+  "staff": "11–50 人"
  },
  "business_lines": [
   "停车引导系统（自有品牌 multiGuide）"
