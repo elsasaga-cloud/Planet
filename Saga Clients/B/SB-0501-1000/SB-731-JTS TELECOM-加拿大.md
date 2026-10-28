@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -79,6 +79,19 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 113 批（CA · 1 次检索：「"JTS Telecom" Canada Ontario」无对应法人（命中 jts.net 德州 JTS（Jim Johnston 1988，≠）/ jtsconsulting.ca（JTS Consulting Inc.，基础设施咨询，≠）/ jts-contracting.com（装修，≠）/ JTS Mechanical Systems Inc. Guelph（暖通，≠））；1 查即停；2026-10-28，2026-10-28 查；）：**
+
+- 法定名 / 登记号：「JTS Telecom」（Hotmail joejts@；署名 Joe / 显示名 joy tann；加拿大小型电信承包 / 个体）— 1 次检索无命中（jts.net = 美国德州 JTS 无线集成商 ≠；JTS Consulting Inc. / JTS Contracting / JTS Mechanical 均 ≠）→ 未坐实；2024-07-30 索价表后 2025-11-21 回「No」 · 未取 · 状态 **未取** · 成立 未取 · 个体 / 未登记（推定）
+- 行业码 / 经营范围：小型电信承包（加拿大，待证）
+- 注册地址：未取
+- 规模档：个人 / 微型
+- 账目：—；—
+- 高管：Joe（显示名 joy tann）— 来信署名人（研究档 KP joejts@hotmail.com）
+- 控制人 / 股东：—
+- **这意味着什么：**
+  - **Hotmail 个体 + 查无实体 + 已回「No」→ 不动（B 保留）**
+- 备注：未坐实（1 查即停）→ 不动。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -118,9 +131,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | JTS Telecom（表内；未能核实） |
+| 法定名称 | 未坐实（「JTS Telecom」Hotmail；1 查无对应加拿大法人；jts.net 德州 JTS / JTS Consulting Inc. / JTS Mechanical 均 ≠） |
+| 成立 | 未取（第 113 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 加拿大 |
-| 其他 | 第 91 批检索未命中（「JTS Telecom」加拿大：1 次检索仅 JTS Consulting 温哥华 / JTS Services 蒙特利尔 POS 等同名，均无法与 joejts@hotmail.com 对上）→ 不写回（第 91 批 官方登记核实 2026-10-27） |
+| 其他 | 第 91 批检索未命中（「JTS Telecom」加拿大：1 次检索仅 JTS Consulting 温哥华 / JTS Services 蒙特利尔 POS 等同名，均无法与 joejts@hotmail.com 对上）→ 不写回（第 91 批 官方登记核实 2026-10-27）；第 113 批：Hotmail 个体 + 查无实体 + 2025-11-21 已回「No」→ **不动（B 保留）**（第 113 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电信布线/承包（推断）；欲进入光纤转换/视频传输领域
 - **触达通道（公开）**：邮箱: （表内 Hotmail）
@@ -284,12 +298,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -83,9 +83,9 @@ updated: 2026-10-28
 - 高管：Erno T.（姓氏未取全）— Toiminimen haltija = 拍板人 / 收件人（esoft@esoft.fi）
 - 控制人 / 股东：Erno T.
 - **这意味着什么：**
-  - **一人网店但 PoE 专精（219 个 PoE SKU、已售台系 + 中系 PoE）→ 例外不按「一人网店」不动：分销 20% small，一页纸一次（切口：STC-028GP / STC-228GP / STC-2224GP + STI-054GP 作现有 PoE 货架的第二价位 + 预付款 + FI DAP 小起订；芬兰语 / 英文引子）；再无回声 → 不动**
-  - 稿内不点名 PLANET / HRUI；发信窗口 Thu 12–14 EET
-- 备注：分销 20% small；一页纸一次（一人网店例外：PoE 专精）；坐实（Y-tunnus + 成立日 + 形式）。
+  - **芬兰一人 PoE 专精网店（已售 HRUI 同类 PoE）→ 一页纸一次（一人网店例外：PoE 专精）— Q-33 HRUI 口径：只推 SmartByte / Marvell 管理型 STC-4424GCPM / STC-424XGGPM-280W + 工业 STI-054GP / STI-144GP，不报 HRUI 同款非管理 PoE；MOQ 1 一口价**
+  - 稿内不点名 PLANET / HRUI
+- 备注：分销 20% small；一页纸一次（Q-33 HRUI 口径：只推 Marvell 管理 / 工业线）；坐实（Y-tunnus + 业主）。第 113 批勘误。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -130,7 +130,7 @@ updated: 2026-10-28
 | 法定名称 | eSoft Tmi Erno T.（Y-tunnus 1962756-7；toiminimi；在售 PLANET + HRUI） |
 | 成立 | 2009-10-30（第 112 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 芬兰 |
-| 其他 | 芬兰语站；PoE 全品类（含 Saga 价目缺口的注入器/分离器/COAX/SFP）；第 112 批：芬兰一人 PoE 专精网店（已售同类 PoE）→ **分销 20% small，一页纸一次（一人网店例外：PoE 专精；STC-028GP / STC-228GP / STC-2224GP 一口价 + MOQ 1）**；稿内不点名 PLANET / HRUI（第 112 批 官方登记核实 2026-10-28） |
+| 其他 | 芬兰语站；PoE 全品类（含 Saga 价目缺口的注入器/分离器/COAX/SFP）；第 112 批：芬兰一人 PoE 专精网店（已售同类 PoE）→ **分销 20% small，一页纸一次（一人网店例外：PoE 专精；STC-028GP / STC-228GP / STC-2224GP 一口价 + MOQ 1）**；稿内不点名 PLANET / HRUI（第 112 批 官方登记核实 2026-10-28）；第 113 批 Q-33 口径勘误：已售 HRUI 同类 PoE → 一页纸切口改为 **只推 SmartByte / Marvell 管理型 STC-4424GCPM / STC-424XGGPM-280W + 工业 STI-054GP / STI-144GP，不报 HRUI 同款非管理 PoE；MOQ 1 一口价**（第 113 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络设备网店：PoE 交换机 / 工业 PoE / 注入器 / 分离器 / SFP / MC / GPS 追踪
 

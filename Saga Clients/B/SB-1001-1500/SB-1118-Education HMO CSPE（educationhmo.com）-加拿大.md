@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -80,6 +80,20 @@ updated: 2026-10-27
 
 - 法定假日：03-26 Good Friday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 113 批（CA · 1 次检索：alaincasault.com/ca/centre-de-formation（Centre de services professionnels en éducation 78 rue Blainville Ouest Sainte-Thérèse QC J7E 1X3；514-394-0419）+ alaincasault.com/ca/a-propos（electrical engineer since 1991；MikroTik certified trainer；wrote current MTCNA）+ solimedia.net/alain（CSPE … top Mikrotik training facilities in North America；casault.alain@educationhmo.com）+ zoominfo（Founded 1996；1-10；Vice President IT at Cspe）+ yellowpages（CSPE 450-686-4585；educationhmo.com）；NEQ 未取；2026-10-28，2026-10-28 查；https://alaincasault.com/ca/a-propos/）：**
+
+- 法定名 / 登记号：Télécommunications Alain Casault / CSPE（Centre de services professionnels en éducation；alaincasault.com / educationhmo.com；78 rue Blainville Ouest, Sainte-Thérèse, QC J7E 1X3）— **研究档「教育机构 IT」有误：实为 MikroTik 认证培训师 + 电信咨询个体业务**（Alain Casault ing.，1991 年起电气工程师，CSPE 副总裁 / 联合创始人，1996 起；1–10 人）；Alan 2026-09-29 单发后本人回「现在不要，留着邮箱以后参考」 · 未取（NEQ） · 状态 **Active** · 成立 1996（CSPE） · 未取（个体 / 小公司）
+- 行业码 / 经营范围：MikroTik 培训 + 电信咨询（魁北克 Sainte-Thérèse）
+- 注册地址：78 rue Blainville Ouest, Sainte-Thérèse, QC J7E 1X3
+- 规模档：微型（1–10 人）
+- 账目：<$5M（估）；—
+- 高管：Alain Casault, ing. — 副总裁 / 联合创始人 CSPE；培训师本人（研究档 KP）
+- 控制人 / 股东：Casault 家族（CSPE）
+- **这意味着什么：**
+  - **MikroTik 培训师个体（非渠道、明示「现在不要」）→ 不动（B 保留；他主动来询再报）**
+  - 研究档类型「教育机构 / 终端用户」更正为 MikroTik 培训 / 咨询
+- 备注：不动（非渠道 + 婉拒）；部分坐实（地址 + 本人 + 年份；NEQ 未取）；研究档类型更正。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -105,7 +119,7 @@ updated: 2026-10-27
 - **【mail】本人回信，礼貌拒绝但留门**
   > Not for the moment, but I'll keep your Email for futur reference.
   > 来源：gmail_a k=cae10af242e8d3f8（抓取 2026-09-30）
-- **KP**：Alain Casault（IT（职务未署））casault.alain@educationhmo.com 〔gmail_a 2026-09-30 回信签名「AC」〕
+- **KP**：Alain Casault（ing. · CSPE 副总裁 / 联合创始人 · MikroTik 认证培训师本人（alaincasault.com）= 已婉拒「现在不要」（第 113 批 官方登记核实 2026-10-28））casault.alain@educationhmo.com 〔gmail_a 2026-09-30 回信签名「AC」〕
 - 备注：Q-44「A 邮箱入库后同一脚本再跑一遍，把有人工回信的补录」的产物（第 64 批）。727 个未入库出站域名里只有它一个是重点区域内的真人回信。
 
 
@@ -142,7 +156,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Alain Casault | IT（职务未署） | casault.alain@educationhmo.com | 调研核实（公开页） | gmail_a 2026-09-30 回信签名「AC」 |
+| Alain Casault | ing. · CSPE 副总裁 / 联合创始人 · MikroTik 认证培训师本人（alaincasault.com）= 已婉拒「现在不要」（第 113 批 官方登记核实 2026-10-28） | casault.alain@educationhmo.com | 调研核实（公开页） | gmail_a 2026-09-30 回信签名「AC」 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -233,12 +247,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 36）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 36）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -94,8 +94,8 @@ updated: 2026-10-28
 - 高管：Prof. Yihong Qi / Dr. Fred Yu — 创始人
 - 控制人 / 股东：创始团队
 - **这意味着什么：**
-  - **PoE 现由洪瑞（HRUI）供货 → Q-33「不碰，标记」→ 不动（B 保留；不发信、不报价；若对方主动来询再按 Simon 口径处理）**
-- 备注：Q-33 不跟 → 不动；部分坐实（法定名 + 址 + 创始人；登记号未取）。
+  - **Q-33 口径勘误（第 113 批）：PoE 现由洪瑞（HRUI）供货 ≠「不碰」；Q-33 裁定「不碰」仅针对 SmartByte 经销名单，HRUI 在供户默认「只推 SmartByte / Marvell 管理 / 工业线，不报 HRUI 同款」→ 改为 一页纸一次（切口：Mesh / CPE 配套的 Marvell 管理型 STC-4424GCPM / STC-424XGGPM-280W + 工业 STI-288GPM 作 ISP 项目配套，不报非管理 PoE；英文，Ge Shi 直呼）；再无回声 → 不动**
+- 备注：Q-33 HRUI 口径 → 一页纸一次（只推 Marvell 管理 / 工业线）；部分坐实（法定名 + 址 + 创始人；登记号未取）。第 113 批勘误。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -147,7 +147,7 @@ updated: 2026-10-28
 | 法定名称 | Mercku Inc.（51 Breithaupt St, Kitchener, ON N2H；2017-09 创立于 Waterloo：Prof. Yihong Qi / Dr. Fred Yu / Alex Qi；登记号未取；≈50 人） |
 | 成立 | 2017-09（第 112 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 加拿大 |
-| 其他 | 官网 mercku.com，语言 ?，快照状态 ok；角色判定来源：待核；第 112 批：Mesh Wi-Fi / CPE 品牌商；**PoE 现由洪瑞（HRUI）供货 → Q-33「不碰，标记」→ 不动（B 保留；不发信、不报价）**（第 112 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 mercku.com，语言 ?，快照状态 ok；角色判定来源：待核；第 112 批：Mesh Wi-Fi / CPE 品牌商；**PoE 现由洪瑞（HRUI）供货 → Q-33「不碰，标记」→ 不动（B 保留；不发信、不报价）**（第 112 批 官方登记核实 2026-10-28）；第 113 批 Q-33 口径勘误：PoE 现由洪瑞（HRUI）供货 ≠「不碰」（Q-33「不碰」裁定仅针对 SmartByte 经销名单；HRUI 在供户默认「只推 SmartByte / Marvell 管理 / 工业线，不报 HRUI 同款」）→ 第 112 批「不动」改为 **一页纸一次（Mesh / CPE 配套的 Marvell 管理型 STC-4424GCPM / STC-424XGGPM-280W + 工业 STI-288GPM 作 ISP 项目配套，不报非管理 PoE；英文，Ge Shi 直呼）**；再无回声 → 不动（第 113 批 官方登记核实 2026-10-28） |
 
 - **业务线**：Mesh Wi-Fi 设备（自有品牌 Mercku）
 - **触达通道（公开）**：role: Wi-Fi 设备品牌商（加拿大，PoE 现 HRUI）；region: 加拿大；contact: connect@mercku.com、ge.shi@mercku.com

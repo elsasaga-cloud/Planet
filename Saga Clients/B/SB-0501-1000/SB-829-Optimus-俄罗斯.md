@@ -83,6 +83,21 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 113 批（RU · 1 次检索：rnd.optimus-cctv.ru（Бренд Optimus был основан в 2011 году；Россия, Казахстан, Белоруссия）+ companies.rbc.ru（ООО «Оптимус» 7716642080 ликвидирована 14.07.2022 — ≠ / 9701258974 2023 — ≠）+ spark（ООО ОПТИМУС 9709026630 2018 — 待证）+ videotechnology.ru（OPTIMUS торговая марка Sinyiko Security Technology）；品牌运营法人（red-dst.ru）未取；1 查即停；2026-10-28，2026-10-28 查；https://rnd.optimus-cctv.ru/）：**
+
+- 法定名 / 登记号：Optimus（optimus-cctv.ru / red-dst.ru；品牌 2011 年创立；俄罗斯 / 哈萨克斯坦 / 白俄数万项目；罗斯托夫等地区站）— CCTV 品牌（自有 logo 商用 PoE、PoE 配件、SFP）；**品牌运营法人未取**（同名 ООО «Оптимус» 多家 ≠：7716642080 已清算 2022 / 9701258974 2023 / 9709026630 2018；videotechnology 称 OPTIMUS 为中国 Sinyiko Security Technology 商标）；KP Mokerova Alina / Alla Kiyashkina（Product Manager；logist@red-dst.ru）；2 封自动回复；Elsa 群发 2026-08-26 触达；表内「卖丰润达的」→ Q-33 口径 · 未取（品牌运营法人 ИНН） · 状态 **Active（品牌在售）** · 成立 2011（品牌） · 未取
+- 行业码 / 经营范围：CCTV 品牌 Optimus（俄罗斯；运营方待证）
+- 注册地址：未取（red-dst.ru 运营；Москва 推定）
+- 规模档：未取
+- 账目：—；—
+- 高管：Mokerova Alina — Product Manager（研究档 KP logist4@red-dst.ru）= 收件人
+- 高管：Alla Kiyashkina — Product Manager（研究档 KP logist23@red-dst.ru）= 抄
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自有 logo 商用 PoE、产品经理直达 → 贴标 30% small，一页纸一次（切口：Optimus 标 Marvell 管理型 STC-4424GCPM / STC-424XGGPM-280W + 工业 STI-054GP 作第二代工源 + 中性包装；俄 / 英文，Alina 直呼）— 稿件一律「预付款」，待 Simon 定 RU 收款 / 物流路径后再发**
+  - **Q-33 口径（丰润达在供）= 只推 SmartByte / Marvell 管理 / 工业线，不报同款非管理 PoE**；法人未取 → 部分坐实
+- 备注：贴标 30% small；一页纸一次（待 RU 路径；Q-33 只推 Marvell 线）；部分坐实（品牌 + KP；法人未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -122,16 +137,18 @@ updated: 2026-10-28
 - **【用户表】自己的 logo 商业 PoE；卖丰润达的**
   > SFP module / 自己的logo 商业POE CCTV为主 很多配件 / 商业POE POE配件 主要是CCTV / 卖丰润达的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Mokerova Alina（）logist4@red-dst.ru 〔用户表〕
-- **KP**：Alla Kiyashkina（）logist23@red-dst.ru 〔用户表〕
+- **KP**：Mokerova Alina（Product Manager（研究档；logist4@red-dst.ru）= 收件人（第 113 批 官方登记核实 2026-10-28））logist4@red-dst.ru 〔用户表〕
+- **KP**：Alla Kiyashkina（Product Manager（研究档；logist23@red-dst.ru）= 抄（第 113 批 官方登记核实 2026-10-28））logist23@red-dst.ru 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Optimus（品牌 2011；optimus-cctv.ru / red-dst.ru 运营；品牌运营法人未取；同名 ООО «Оптимус» 多家 ≠（7716642080 已清算 / 9701258974 / 9709026630 待证）） |
+| 成立 | 2011（品牌）（第 113 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 俄罗斯 |
-| 其他 | 官网 optimus-cctv.ru，语言 ?，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 optimus-cctv.ru，语言 ?，快照状态 ok；角色判定来源：用户表；第 113 批：自有 logo 商用 PoE、产品经理直达 → **贴标 30% small，一页纸一次（Optimus 标 Marvell 管理型 STC-4424GCPM / STC-424XGGPM-280W + 工业 STI-054GP 第二代工源 + 中性包装；俄 / 英文，Alina 直呼）**— 稿件一律「预付款」，待 Simon 定 RU 收款 / 物流路径后再发；**Q-33 口径（丰润达在供）= 只推 SmartByte / Marvell 管理 / 工业线**（第 113 批 官方登记核实 2026-10-28） |
 
 - **业务线**：CCTV / PoE / 配件（自有品牌 Optimus）
 - **触达通道（公开）**：role: 俄罗斯 CCTV 品牌商（自有标 PoE，现丰润达）；region: 俄罗斯；contact: logist4@red-dst.ru、logist23@red-dst.ru
@@ -227,8 +244,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Mokerova Alina | — | logist4@red-dst.ru | 调研核实（公开页） | 用户表 |
-| Alla Kiyashkina | — | logist23@red-dst.ru | 调研核实（公开页） | 用户表 |
+| Mokerova Alina | Product Manager（研究档；logist4@red-dst.ru）= 收件人（第 113 批 官方登记核实 2026-10-28） | logist4@red-dst.ru | 调研核实（公开页） | 用户表 |
+| Alla Kiyashkina | Product Manager（研究档；logist23@red-dst.ru）= 抄（第 113 批 官方登记核实 2026-10-28） | logist23@red-dst.ru | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 17 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

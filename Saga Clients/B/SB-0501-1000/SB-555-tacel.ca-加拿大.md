@@ -73,6 +73,23 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 113 批（CA · 1 次检索：companiesofcanada.com（TACEL LTD. 081582-9；Canada Business Corporations Act 1979-02-14；Non-distributing corporation）+ LinkedIn Tacel Ltd（incorporated in 1979；ITS Specialists & Canadian Traffic Cabinet Manufacturer；11-50；Scarborough）+ roadauthority.com（1148 Bellamy Road North Scarborough ON M1H 1H2；Manufacturer, Distributor；Gil Marques gil.marques@）+ zoominfo（$19.1M；Gil Marques President；Anjou QC 分部 8008 Rue Jarry）+ sensysnetworks 2023-03-27（sole distributor for Canada）+ rocketreach（ISO 9001:2015；branch offices AB / BC / QC）；2026-10-28，2026-10-28 查；https://www.companiesofcanada.com/company/081582-9/）：**
+
+- 法定名 / 登记号：TACEL LTD.（tacel.ca；联邦公司号 081582-9，CBCA 1979-02-14；总部 1148 Bellamy Road North, Scarborough (Toronto), ON M1H 1H2；分部 QC（8008 Rue Jarry, Anjou）/ AB / BC）— 加拿大领先的智能交通（ITS）与交通控制设备供应商 **兼交通机柜制造商**（ISO 9001:2015；ATC 控制器、交通管理系统、机柜总成、行人声响信号、检测器；Sensys Networks 加拿大独家分销 2023）；11–50 人；估 $19.1M；President Gil Marques（2015–；研究档 KP）、VP & GM Jeffrey Smart、George Soares GM；表内「Etherwan 的工业 FS」「可以多跟进一下」；8 封 0 回 · 联邦公司号 081582-9（Corporations Canada） · 状态 **Active** · 成立 1979-02-14 · Ltd.（联邦 CBCA）
+- 行业码 / 经营范围：智能交通 ITS 设备供应 + 交通机柜制造（多伦多）
+- 注册地址：1148 Bellamy Road North, Scarborough, ON M1H 1H2
+- 规模档：中小型（11–50 人）
+- 账目：估 $19.1M（zoominfo）；—
+- 高管：Gil Marques — President（2015–；研究档 KP gil.marques@）= 拍板人 / 收件人
+- 高管：Gabor Szabo — 研究档 KP（gabor.szabo@；职务待核）= 抄
+- 高管：George Soares — General Manager（研究档 KP）
+- 高管：Kevan Correia — VP / Sales Manager
+- 控制人 / 股东：未取（100% 加拿大私有）
+- **这意味着什么：**
+  - **交通机柜制造商 + ITS 分销、现用台系工业交换机 → 配套 / 集成 25–30% B，加厚一次（切口：机柜内 CCTV / 通信用工业 PoE / 非 PoE 交换机 STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-488DGGPM 作第二来源 + 宽温 + 3 年保 + 加拿大 DAP；英文，Gil 直呼 + Gabor 抄；一问：非信号机网络（CCTV / 通信）是否可接受工业级 CE / FCC 而非 NEMA TS2）；回信 → 次候选**
+  - 守界：Saga 无 NEMA TS2 / 交通信号认证 → 稿内绝不声称；只谈机柜内 CCTV / 通信侧网络；不点名 EtherWAN；发信窗口 CA Wed 08–10 ET
+- 备注：配套 / 集成 25–30%；B 加厚一次；坐实（联邦公司号 + 成立日 + 地址 + 总裁）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -116,17 +133,19 @@ updated: 2026-10-28
 - **【用户表】EtherWAN 的工业 FS**
   > Etherwan的工业FS；可以多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Gabor Szabo（）gabor.szabo@tacel.ca 〔用户表〕
-- **KP**：Gil Marques（）gil.marques@tacel.ca 〔用户表〕
-- **KP**：George Soares（） 〔用户表〕
+- **KP**：Gabor Szabo（Tacel 研究档 KP（职务待核）= 抄（第 113 批 官方登记核实 2026-10-28））gabor.szabo@tacel.ca 〔用户表〕
+- **KP**：Gil Marques（President（2015–；LinkedIn / zoominfo；gil.marques@）= 拍板人 / 收件人（第 113 批 官方登记核实 2026-10-28））gil.marques@tacel.ca 〔用户表〕
+- **KP**：George Soares（General Manager（datanyze）（第 113 批 官方登记核实 2026-10-28）） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | TACEL LTD.（联邦公司号 081582-9；CBCA 1979-02-14；1148 Bellamy Road North, Scarborough, ON M1H 1H2；分部 Anjou QC / AB / BC；ISO 9001:2015；11–50 人；估 $19.1M） |
+| 成立 | 1979-02-14（第 113 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 加拿大 |
-| 其他 | 官网 tacel.ca，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 tacel.ca，语言 en，快照状态 ok；角色判定来源：官网文案；第 113 批：加拿大 ITS / 交通控制设备供应商兼交通机柜制造商（Sensys 加拿大独家分销）→ **配套 / 集成 25–30% B，加厚一次（机柜内 CCTV / 通信用工业交换机 STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-488DGGPM 第二来源 + 宽温 + 3 年保 + 加拿大 DAP；Gil 直呼 + Gabor 抄；一问非信号机网络是否可接受工业级 CE / FCC）**；守界：Saga 无 NEMA TS2 / 交通信号认证，稿内绝不声称；不点名 EtherWAN（第 113 批 官方登记核实 2026-10-28） |
 
 - **业务线**：交通管理 / 道路安全 / ITS 方案
 - **触达通道（公开）**：role: ITS/交通方案集成商（加拿大，EtherWAN 在用）；region: 加拿大；contact: gabor.szabo@tacel.ca、gil.marques@tacel.ca
@@ -222,9 +241,9 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Gabor Szabo | — | gabor.szabo@tacel.ca | 调研核实（公开页） | 用户表 |
-| Gil Marques | — | gil.marques@tacel.ca | 调研核实（公开页） | 用户表 |
-| George Soares | — | — | 调研核实（公开页） | 用户表 |
+| Gabor Szabo | Tacel 研究档 KP（职务待核）= 抄（第 113 批 官方登记核实 2026-10-28） | gabor.szabo@tacel.ca | 调研核实（公开页） | 用户表 |
+| Gil Marques | President（2015–；LinkedIn / zoominfo；gil.marques@）= 拍板人 / 收件人（第 113 批 官方登记核实 2026-10-28） | gil.marques@tacel.ca | 调研核实（公开页） | 用户表 |
+| George Soares | General Manager（datanyze）（第 113 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
