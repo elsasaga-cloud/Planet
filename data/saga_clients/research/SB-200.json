@@ -59,8 +59,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "泰国",
-  "other": "官网 sysnetcenter.com，语言 th，快照状态 ok；角色判定来源：表内早期 AI 描述"
+  "hq": "807/147 Moo 8, Khu Khot, Lam Luk Ka, Pathum Thani 12130（behind Zeer Rangsit；02-102-4284）（第 117 批 官方登记核实 2026-10-28）",
+  "other": "官网 sysnetcenter.com，语言 th，快照状态 ok；角色判定来源：表内早期 AI 描述；第 117 批：多品牌网店 + 安装（TP-Link / Reyee / Ruijie / UniFi 原厂渠道货）+ 无 KP → **不动（B 保留；来询按分销 20% 预付）**；坐实（官网自列登记号 + 许可号）（第 117 批 官方登记核实 2026-10-28）",
+  "legal_name": "ห้างหุ้นส่วนจำกัด ซิสเน็ต เซ็นเตอร์ SYSNET CENTER LIMITED PARTNERSHIP（เลขทะเบียน 0133552003338；有限合伙；注册资本 ฿500,000；NBTC 无线电设备经营许可 050356000200；财报 2564–2568 连续）",
+  "founded": "2009-07-21（第 117 批 官方登记核实 2026-10-28）",
+  "size": "微型（有限合伙）（第 117 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "网络设备零售/经销（Switch / Wireless / Router）",

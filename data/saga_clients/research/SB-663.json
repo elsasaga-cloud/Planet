@@ -48,8 +48,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "泰国",
-  "other": "官网 hstn.co.th，语言 th-TH，快照状态 ok；角色判定来源：表内早期 AI 描述"
+  "hq": "17/14 Moo 6, Phutthamonthon Sai 5 Rd., Bang Krathuek, Sam Phran, Nakhon Pathom 73210（02-889-4701）（第 117 批 官方登记核实 2026-10-28）",
+  "other": "官网 hstn.co.th，语言 th-TH，快照状态 ok；角色判定来源：表内早期 AI 描述；第 117 批：酒店 / 医院 IPTV / SMATV / FTTx / CCTV 集成商（在用 Cisco 智能交换机）、无具名 KP → **集成商 25% B small，一页纸一次**（收 info@，抄 rungruengh@ / khomkits@）；再无回声 → 不动；坐实（第 117 批 官方登记核实 2026-10-28）",
+  "legal_name": "บริษัท ไฮ โซลูชั่น อ๊อฟ เทคโนโลยี เน็ตเวิร์ค จำกัด HIGH SOLUTION OF TECHNOLOGY NETWORK CO., LTD.（HSTN；เลขทะเบียน 0105552017802；注册资本 ฿5,140,000；9 名泰籍股东）",
+  "founded": "2009-02-20（第 117 批 官方登记核实 2026-10-28）",
+  "size": "小型（第 117 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "网络基础设施 / 酒店 IPTV / MATV / CCTV 集成（泰国）"

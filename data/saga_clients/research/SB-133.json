@@ -31,7 +31,8 @@
    "title": "Director",
    "email": "jw@gigalight.com.sg",
    "phone": "+65 9023 9663",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "Director（= 老板本人；要过海报产品信息）= 拍板人 / 收件人 — 一页纸一次：分销 20% B small、承包商渠道 PoE 阶梯 STC-028GP / 228GP / 2216GP / 2224GP + STC-4424GCPM、MOQ 1、付费样机、预付— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 117 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -42,11 +43,11 @@
   "level": "B 级加厚 v1（官网快照 + 表内）"
  },
  "company_facts": {
-  "legal_name": "Gigalight Pte. Ltd.",
-  "founded": "（待核）",
-  "hq": "Singapore",
-  "size": "小型布线分销",
-  "other": "与深圳 Gigalight（易飞扬）无关"
+  "legal_name": "Gigalight Pte. Ltd.（UEN 1 查未得；与深圳易飞扬 Gigalight 无关）",
+  "founded": "未取（第 117 批 官方登记核实 2026-10-28）",
+  "hq": "970 Toa Payoh North #02-04, Singapore 318992（+65 6353 3679）（第 117 批 官方登记核实 2026-10-28）",
+  "size": "小型；营收 <$5M（ZoomInfo 口径）（第 117 批 官方登记核实 2026-10-28）",
+  "other": "与深圳 Gigalight（易飞扬）无关；第 117 批：结构化布线 / 光纤配线分销商（Softing 区域分销、Schneider Actassi、Premium Line）→ **分销 20% B small，一页纸一次**；再无回声 → 不动；部分坐实（分销商页 + 企业库，UEN 未取）（第 117 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "结构化布线 / 光纤配线分销",

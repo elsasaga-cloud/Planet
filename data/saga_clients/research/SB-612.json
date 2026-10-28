@@ -49,8 +49,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "泰国",
-  "other": "官网 clouditnetwork.com，语言 en-US，快照状态 ok；角色判定来源：表内早期 AI 描述"
+  "hq": "51/1 Mongkhon Niwet Village, Soi Ngamwongwan 48, Lat Yao, Chatuchak, Bangkok 10900（第 117 批 官方登记核实 2026-10-28）",
+  "other": "官网 clouditnetwork.com，语言 en-US，快照状态 ok；角色判定来源：表内早期 AI 描述；第 117 批：15 年 VoIP 方案商（已从佛山进口 IP PBX）、Simon「可以尝试多跟进」→ **分销 20% B small，一页纸一次（IP 话机配套 PoE STC-028GP / 2216GP / 2224GP + STC-4424GCPM VLAN；预付）**（收 sales@）；再无回声 → 不动；坐实（第 117 批 官方登记核实 2026-10-28）",
+  "legal_name": "บริษัท คลาวด์ ไอที เน็ทเวิร์ค จำกัด CLOUD IT NETWORK CO., LTD.（เลขทะเบียน 0125554018059；注册资本 ฿1,000,000；股东权益 ฿1,880,014；3 名泰籍股东；财报 2563–2567 连续）",
+  "founded": "2011-09-29（第 117 批 官方登记核实 2026-10-28）",
+  "size": "微型（第 117 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "VoIP / 云方案（LVswitch、Grandstream）"

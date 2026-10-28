@@ -46,14 +46,16 @@
    "title": "Purchasing Manager",
    "email": "sales@riverplus.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Purchasing Manager（研究档 Jiraporn Teeramasvanich；เลขทะเบียน 0125548003398）= 收件人 — 一页纸一次：分销 20% B（升 A 候选）、对位其工业 LAN 交换机线的 STI-154GP / 288DGGPM / 488DGGPM / 0240GE + CCTV PoE STC-2216GP / 2224GP、3 年保、付费样机、串口 / 路由不做— 泰国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、NBTC 不声称（第 117 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Prapapim Phetnoi",
    "title": "System Engineer",
    "email": "prapapim@riverplus.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "System Engineer = 抄送（第 117 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -64,8 +66,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "泰国",
-  "other": "官网 riverplus.com，语言 en，快照状态 ok；角色判定来源：表内早期 AI 描述"
+  "hq": "85/120-121 Moo 3, Bang Kruai-Sai Noi Rd., Bang Rak Phatthana, Bang Bua Thong, Nonthaburi 11110（第 117 批 官方登记核实 2026-10-28）",
+  "other": "官网 riverplus.com，语言 en，快照状态 ok；角色判定来源：表内早期 AI 描述；第 117 批：TSIC 46521；2005 年起工业 4.0 / IoT 进口分销（工业 5G/4G 路由网关 + 交换机 + CCTV PoE 方案），采购经理为 KP → **分销 20% B（升 A 候选），一页纸一次**；回信 → 加厚 + 升 A；坐实（第 117 批 官方登记核实 2026-10-28）",
+  "legal_name": "บริษัท ริเวอร์พลัส จำกัด RIVERPLUS COMPANY LIMITED（เลขทะเบียน 0125548003398；旧号 0127354803391；注册资本 ฿5,000,000；股东权益 ฿141,848,531；6 名泰籍股东；财报 2564–2568 连续）",
+  "founded": "2005-03-14（第 117 批 官方登记核实 2026-10-28）",
+  "size": "中小（权益 ฿141.8M ≈ $4.2M）（第 117 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工业 IoT / 蜂窝路由 / 工业交换机分销（Teltonika / Milesight）"

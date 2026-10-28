@@ -46,14 +46,16 @@
    "title": "（表内联系人）",
    "email": "ler@securevision.com.sg",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP（PLRD 持牌安防集成商；UEN 200614644E）= 收件人 — 一页纸一次：集成商 25% B、Q-33 口径只推 Marvell 管理 PoE STC-4424GCPM + STC-110XGE + 工业 STI、不碰其 HRUI 非管理同款、付费样机— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 117 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Abdul Hameed",
    "title": "Technical Specialist",
    "email": "",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Technical Specialist = 抄送（第 117 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -64,8 +66,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "新加坡",
-  "other": "官网 securevision.com.sg，语言 en-GB，快照状态 ok；角色判定来源：官网文案"
+  "hq": "新加坡（recordowl 未展示详址）（第 117 批 官方登记核实 2026-10-28）",
+  "other": "官网 securevision.com.sg，语言 en-GB，快照状态 ok；角色判定来源：官网文案；第 117 批：20 年持牌安防 SI（CCTV / 门禁 / 报警 / LPR / 数据中心门禁）、HRUI 在供、Simon「可以多跟进」→ **集成商 25% B，一页纸一次（Q-33 口径）**；回信 → 加厚；坐实（UEN + 注册日 + 牌照）（第 117 批 官方登记核实 2026-10-28）",
+  "legal_name": "SECUREVISION PTE. LTD.（UEN 200614644E；Live；PLRD 保安承包商牌照 + bizSAFE Level 3 + BCA 注册）",
+  "founded": "2006-10-03（第 117 批 官方登记核实 2026-10-28）",
+  "size": "中小（2,000+ 新加坡安装点）（第 117 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "安防系统集成（CCTV / 门禁 / 对讲 / 报警）"

@@ -29,7 +29,8 @@
    "title": "（表内联系人，备注可多跟进）",
    "email": "amyhoi@bio-cognitive.com",
    "phone": "+65 9656 8498",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "名录登记联系人（manufacturerss：Contact Person Ms. Amy Hoi；2025-07 问过 16 电口具体型号）= 收件人 — 一页纸一次：集成商 25% B small、直接答 16 电口 = STC-2216GP（+ STC-2224GP 带 SFP）、MOQ 1、付费样机、预付 100%— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 117 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -40,11 +41,11 @@
   "level": "B 级加厚 v1（官网快照核对）"
  },
  "company_facts": {
-  "legal_name": "Bio-Cognitive Pte Ltd（待核）",
-  "founded": "",
-  "hq": "Singapore",
-  "size": "小型安防服务商",
-  "other": "enquiries@bio-cognitive.com；+65 6553 2128"
+  "legal_name": "BIO-COGNITIVE SOLUTIONS PTE. LTD.（UEN 200807513Z；Exempt Private Company Limited By Shares；Live；recordowl 最近年报 2012-04-27）",
+  "founded": "2008-04-17（第 117 批 官方登记核实 2026-10-28）",
+  "hq": "5 Ang Mo Kio Industrial Park 2A #05-30 AMK Tech II, Singapore 567760（旧址 67 Ubi Crescent #04-11）（第 117 批 官方登记核实 2026-10-28）",
+  "size": "小型（自称 200+ 安装点）（第 117 批 官方登记核实 2026-10-28）",
+  "other": "enquiries@bio-cognitive.com；+65 6553 2128；第 117 批：生物识别门禁 / CCTV 集成 + IT/OT 安全；年报记录停于 2012 → 只做预付；Simon「可以多跟进」→ **集成商 25% B small，一页纸一次（预付）**；再无回声 → 不动；坐实（年报停滞待核）（第 117 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "物理安防集成（生物识别门禁、监控）",

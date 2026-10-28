@@ -58,8 +58,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "泰国",
-  "other": "官网 ifocusshop.com，语言 th，快照状态 ok；角色判定来源：表内早期 AI 描述"
+  "hq": "149/237 9th Fl., Moo 9, Chonburi（芭提雅；门牌后段未取）（第 117 批 官方登记核实 2026-10-28）",
+  "other": "官网 ifocusshop.com，语言 th，快照状态 ok；角色判定来源：表内早期 AI 描述；第 117 批：地方 CCTV 安装店（Hikvision / Dahua 经销点，原厂 PoE 随摄像机走）+ hotmail + 无 KP + 9×0 → **不动（B 保留）**；坐实（第 117 批 官方登记核实 2026-10-28）",
+  "legal_name": "บริษัท โฟกัส ซิสเต็ม แอนด์ ดีไซน์ จำกัด FOCUS SYSTEM AND DESIGN COMPANY LIMITED（iFocus；เลขทะเบียน 0205549023031；注册资本 ฿3,000,000）",
+  "founded": "2006-08-24（第 117 批 官方登记核实 2026-10-28）",
+  "size": "小型（第 117 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "CCTV 设计 / 安装 / 维护（芭提雅、春武里）",

@@ -48,8 +48,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "泰国",
-  "other": "官网 focomm-cabling.com，语言 th，快照状态 ok；角色判定来源：官网文案"
+  "hq": "12 Soi Sukhaphiban 5 Soi 5 Yaek 3, Tha Raeng, Bang Khen, Bangkok（与 SB-609 Ablelink 同址）（第 117 批 官方登记核实 2026-10-28）",
+  "other": "官网 focomm-cabling.com，语言 th，快照状态 ok；角色判定来源：官网文案；第 117 批：与 SB-609 Ablelink (Thailand) 同址同构 → **并线 → SB-609，本户不另发**；坐实（第 117 批 官方登记核实 2026-10-28）",
+  "legal_name": "บริษัท โฟคอมม์ (ประเทศไทย) จำกัด FOCOMM (THAILAND) COMPANY LIMITED（เลขทะเบียน 0105559051071；注册资本 ฿1,000,000；3 名泰籍股东；网站 focomm-cabling.com 登记页核到）",
+  "founded": "2016-03-24（第 117 批 官方登记核实 2026-10-28）",
+  "size": "微型（第 117 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "光缆 / 铜缆 / 机柜分销",

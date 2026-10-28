@@ -43,14 +43,16 @@
    "title": "（姓氏/职务待核）",
    "email": "kennedy@alston-systems.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP（姓氏 / 职务待核；自有品牌 Alston）= 收件人 — 一页纸一次（最后一次）：贴标 OEM 30% B、Alston 标 / 中性包装 STC 阶梯 + STC-4424GCPM + MC STC-110XGE、SFP 模块不做、付费样机— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关）、TDRA / ESMA 不声称（第 117 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Ross",
    "title": "（姓氏/职务待核）",
    "email": "purchase@alston-systems.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "采购箱（Ross）= 抄送（第 117 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -61,8 +63,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "阿联酋",
-  "other": "官网 alston-systems.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  "hq": "801 Reef Tower, Jumeirah Lake Towers, P.O. Box 62201, Dubai, UAE（第 117 批 官方登记核实 2026-10-28）",
+  "other": "官网 alston-systems.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 117 批：自有品牌 ICT / 安防 / 节能产品商（铜缆 / 光缆 / 有源 / 电源 / CCTV / LED），自称制造商 → **贴标 OEM 30% B，一页纸一次（最后一次；预付）**；16×0 在先 → 再无回声即不动；部分坐实（官网 contact）（第 117 批 官方登记核实 2026-10-28）",
+  "legal_name": "Alston Systems Inc.（迪拜 JLT；美国法人 Alston Systems LLC, Delaware（注册代理地址）；阿联酋牌照号 1 查未得）",
+  "founded": "未取（第 117 批 官方登记核实 2026-10-28）",
+  "size": "小型（第 117 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "铜缆 / 光纤布线系统（自有品牌 Alston）",

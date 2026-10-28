@@ -51,6 +51,12 @@
    "email": "weijun.chee@global-tgm.com",
    "phone": "",
    "source": "用户表"
+  },
+  {
+   "name": "Chang Poo Geok",
+   "email": "",
+   "role": "Key Principal（D&B）— 不动，不发（第 117 批 官方登记核实 2026-10-28）",
+   "source": "dnb.com TGM GLOBAL PTE. LTD."
   }
  ],
  "grade_override": null,
@@ -61,8 +67,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "新加坡",
-  "other": "官网 global-tgm.com，语言 en，快照状态 ok；角色判定来源：待核"
+  "hq": "50 Ubi Crescent #01-04, Singapore 408568（+65 6848 2146；旧址 10 Ubi Crescent #06-92）（第 117 批 官方登记核实 2026-10-28）",
+  "other": "官网 global-tgm.com，语言 en，快照状态 ok；角色判定来源：待核；第 117 批：电力资产状态监测（局放 / DTS / SF6）+ 数据中心能效方案商，客户 油气 / 发电 / 输电（守界边缘），唯一需求 16 槽收发器机架（Saga 无）→ **不动（B 保留）**；部分坐实（企业库）（第 117 批 官方登记核实 2026-10-28）",
+  "legal_name": "TGM Global Pte. Ltd.（UEN 1 查未得）",
+  "founded": "2011（第 117 批 官方登记核实 2026-10-28）",
+  "size": "小型（10–50 人）（第 117 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工程 / 线缆 / 自动化贸易（新加坡）"

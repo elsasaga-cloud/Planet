@@ -50,8 +50,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "泰国",
-  "other": "官网 winnerintertech.com，语言 th-TH，快照状态 ok；角色判定来源：表内早期 AI 描述"
+  "hq": "未取（泰国）（第 117 批 官方登记核实 2026-10-28）",
+  "other": "官网 winnerintertech.com，语言 th-TH，快照状态 ok；角色判定来源：表内早期 AI 描述；第 117 批：Moxa / Adder / Robustel 官方经销（原厂渠道）+ Defense & Security 展客户（守界）+ 6×0 + 未坐实 → **不动（B 保留）**（第 117 批 官方登记核实 2026-10-28）",
+  "legal_name": "Winner Intertech Co., Ltd.（法人 1 查未得 → 未坐实；命中 WINNER TECH (THAILAND) 0105556021529 / WINNER INTERGREAT LP / WE WINER INTERTRADE 均 ≠）",
+  "founded": "未取（第 117 批 官方登记核实 2026-10-28）",
+  "size": "未取（第 117 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工业网络 / KVM / 工业路由分销（Moxa、Adder、Robustel）"

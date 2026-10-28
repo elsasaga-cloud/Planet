@@ -96,8 +96,8 @@ put('SB-919', key='other', batch=B, name='บริษัท บิสม่อ�
     number='เลขทะเบียนนิติบุคคล 0105546131011', status='ยังดำเนินกิจการอยู่（营业中）', incorporated='2003-10-29', company_type='บริษัทจำกัด（Co., Ltd.）',
     sic=['计算机 / 网络设备 进口销售 + 自有品牌 Bismon（Sai Mai）'],
     address='298 Moo 1, O Ngoen, Sai Mai, Bangkok 10220', accounts='注册资本 ฿20,000,000（财报未取）', accounts_due='—', size_band='小型',
-    officers=['Anek Thongdee — Chief Executive Officer（研究档 KP；sale@bismon.com / anek@bismon.com）= 拍板人 / 收件人'], psc='未取', charges='', prev_names=[],
-    lines=['**23 年进口商、自有品牌 Bismon 与 Saga 产品线相似（= 外购贴牌）、CEO 为 KP、Simon「可以尝试多跟进」→ 贴标 OEM 30% B，一页纸一次（切口：Bismon 标 / 自编货号 / 中性包装 的 STC-028GP / STC-228GP / STC-2216GP / STC-2224GP / STC-4424GCPM 阶梯 + 工业 STI-154GP / STI-288DGGPM + 付费样机；MC 只有 STC-110XGE 明说；英文，Anek 直呼，发 anek@ 抄 sale@）' + TH + '**；回信 → 加厚；16 次 0 回复在先 → 再无回声即不动',
+    officers=['Anek Thongdee — Chief Executive Officer（研究档 KP；sale@bismon.com（唯一公开邮箱））= 拍板人 / 收件人'], psc='未取', charges='', prev_names=[],
+    lines=['**23 年进口商、自有品牌 Bismon 与 Saga 产品线相似（= 外购贴牌）、CEO 为 KP、Simon「可以尝试多跟进」→ 贴标 OEM 30% B，一页纸一次（切口：Bismon 标 / 自编货号 / 中性包装 的 STC-028GP / STC-228GP / STC-2216GP / STC-2224GP / STC-4424GCPM 阶梯 + 工业 STI-154GP / STI-288DGGPM + 付费样机；MC 只有 STC-110XGE 明说；英文，Anek 直呼，发 sale@ 并抬头写明 Attn: Mr. Anek Thongdee, CEO）' + TH + '**；回信 → 加厚；16 次 0 回复在先 → 再无回声即不动',
            '守界：不点名其现供应商；NBTC 不声称'],
     notes='贴标 OEM 30%；一页纸一次（最后一次）；坐实（登记号 + 注册日 + 资本 + 地址 + 登记业务）。')
 put('SB-023', key='other', batch=B, name='บริษัท ไอทีเค คอนเน็คติ้ง จำกัด ITK CONNECTING COMPANY LIMITED（itk.co.th；**เลขทะเบียน 0205557021718；注册 2014-06-25；注册资本 ฿5,000,000；股东权益 ฿10,035,499（资本 200%）；2 名泰籍股东；状态 营业中**；2/6 Rat Phatthana Rd., Rat Phatthana, Saphan Sung, Bangkok 10240；电话 02-460-9200；TSIC 62090 IT 服务 / 电气安装）— **IT 产品电商 + 安装商（曼谷 4–9 小时速递、5 年保）；网店在售 ONV（深圳光网视）工业交换机全线（ONV-IPS33108PF ฿8,330 / ONV-IPS33148PFM ฿14,960 …）**；无具名 KP（sales@）', iso='TH', fetched=F,

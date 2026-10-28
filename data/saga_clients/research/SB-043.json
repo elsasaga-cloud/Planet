@@ -57,6 +57,12 @@
    "email": "info@eurotechnology.net（公开）",
    "phone": "+971 2 6417222 / +971 50 751 4160（WA）",
    "source": "用户 Clients 表 + 官网"
+  },
+  {
+   "name": "M. Maarouf",
+   "email": "m.maarouf@eurotechnology.ae",
+   "role": "表内具名邮箱（姓名职务待核；WA +971 50 751 4160 在线；41 次里回 4 次要资料）= 收件人 — 一页纸一次：集成商 25% B small、只给他要过的「资料」= CCTV PoE 阶梯 STC-028GP / 228GP / 2216GP / 2224GP + STC-4424GCPM 一口价、付费样机、MOQ 1、DAP 阿布扎比、WA 发链接— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关）、TDRA / ESMA 不声称（第 117 批 官方登记核实 2026-10-28）",
+   "source": "Clients 表邮箱（entities）"
   }
  ],
  "grade_override": "B",
@@ -68,10 +74,11 @@
   "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
  },
  "company_facts": {
-  "legal_name": "Euro Technology（eurotechnology.ae / eurotechnology.net；关联 Neton Technologies netontechnologies.com）",
-  "hq": "Abu Dhabi, UAE（+971 2 641 7222；+971 50 751 4160 已加 WA）",
-  "size": "约 9 人；营收估 $7M（首轮调研）",
-  "other": "安防集成（CCTV、门禁、报警、门闸、PA、消防报警）；品牌 Paradox / CAME / Deister / Virdi / CDVI；伊拉克业务"
+  "legal_name": "Euro Technology（eurotechnology.ae / .net；Paradox / CAME / Deister 授权经销；另列 迪拜 Abu Hail-Deira 总部 + 孟买；牌照号 1 查未得）",
+  "hq": "M4 Ruby Saloon Bldg, Opp Al Wahda Mall, Defence Rd (Hazaa Bin Zaid Rd), Abu Dhabi, UAE (P.O. Box 27709；+971 2 641 7222)（第 117 批 官方登记核实 2026-10-28）",
+  "size": "微型（约 9 人；营收估 $7M 口径不引用）（第 117 批 官方登记核实 2026-10-28）",
+  "other": "安防集成（CCTV、门禁、报警、门闸、PA、消防报警）；品牌 Paradox / CAME / Deister / Virdi / CDVI；伊拉克业务；第 117 批：安防系统集成（CCTV / 门禁 / 报警 / 门闸 / PA / 消防报警）；唯一在 41 次里回过 4 次要资料的阿联酋安防集成商 → **集成商 25% B small，一页纸一次（预付；守界：军方 / 宫殿 / 政府 / 伊拉克项目一律不提不接）**；再无回声 → 不动；部分坐实（名录）（第 117 批 官方登记核实 2026-10-28）",
+  "founded": "未取（第 117 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "安防系统集成（阿布扎比 + 伊拉克）",

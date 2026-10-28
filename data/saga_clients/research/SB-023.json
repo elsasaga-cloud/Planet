@@ -42,7 +42,7 @@
  "kp": [
   {
    "name": "（无具名）",
-   "role": "",
+   "role": "公用销售箱（无具名 KP）= 收件人 — 一页纸一次：分销 20% B small、对位其网店 ONV 工业线的 STI 8 口 PoE + 2 SFP 档（STI-288GPM / STI-288DGGPM）、MOQ 1、付费样机— 泰国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、NBTC 不声称（第 117 批 官方登记核实 2026-10-28）",
    "email": "sales@itk.co.th",
    "phone": "",
    "source": "用户 Clients 表"
@@ -57,10 +57,11 @@
   "level": "B 级加厚 v1（网店核对）"
  },
  "company_facts": {
-  "legal_name": "ITK Connecting（泰文全称待核）",
-  "hq": "Bangkok, Thailand（02-460-9200）",
-  "size": "中小型电商/安装商",
-  "other": "ONV 工业交换机、多品牌 IT；5 年保修；Project inquiry 通道"
+  "legal_name": "บริษัท ไอทีเค คอนเน็คติ้ง จำกัด ITK CONNECTING COMPANY LIMITED（เลขทะเบียน 0205557021718；注册资本 ฿5,000,000；股东权益 ฿10,035,499；2 名泰籍股东）",
+  "hq": "2/6 Rat Phatthana Rd., Rat Phatthana, Saphan Sung, Bangkok 10240（02-460-9200）（第 117 批 官方登记核实 2026-10-28）",
+  "size": "小型（权益 = 资本 2 倍）（第 117 批 官方登记核实 2026-10-28）",
+  "other": "ONV 工业交换机、多品牌 IT；5 年保修；Project inquiry 通道；第 117 批：IT 产品电商 + 安装商，网店在售深圳 ONV 工业交换机全线 → **分销 20% B small，一页纸一次**；再无回声 → 不动；坐实（第 117 批 官方登记核实 2026-10-28）",
+  "founded": "2014-06-25（第 117 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "IT 网络产品电商（交换机、PoE、工业交换机）",
