@@ -43,14 +43,16 @@
    "title": "Managing Director",
    "email": "ahmad@techsouq.com",
    "phone": "+971 50 653 4953",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "Managing Director（ZoomInfo，2009 至今；2024-09 回 interesting）= 拍板人 / 收件人 — 一页纸一次：分销 20% B small、电商上架 STC-028GP $28 / STC-228GP / STC-2216GP 一口价 + MOQ 1 + 付费样机 + DAP 迪拜、机架 / 周边不做明说 — 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜、TDRA / ESMA 不声称（第 119 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Shifan Shivani",
    "title": "Co-Founder",
    "email": "info@techsouq.com",
    "phone": "+971 4 355 0600",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "Co-Founder（研究档 Shifan Shivani）= 抄送（第 119 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -61,11 +63,11 @@
   "level": "B 级加厚 v1（名录 + 官网核对）"
  },
  "company_facts": {
-  "legal_name": "Techsouq Computers L.L.C.",
-  "founded": "1999",
-  "hq": "Bayan Business Center, Dubai Investments Park 1, Dubai, UAE（PO Box 27570）",
-  "size": "约 8 人，营收约 $1M",
-  "other": "WooCommerce 电商；沙特免费热线"
+  "legal_name": "Techsouq Computers L.L.C.（迪拜；牌照号 1 查未得）",
+  "founded": "1999（自述）（第 119 批 官方登记核实 2026-10-28）",
+  "hq": "Bayan Business Center, Dubai Investments Park 1, Dubai, UAE (P.O. Box 27570；+971 4 355 0600；旧址 Al Abbas Bldg, Khalid Bin Al Waleed Rd)（第 119 批 官方登记核实 2026-10-28）",
+  "size": "微型（约 8 人）（第 119 批 官方登记核实 2026-10-28）",
+  "other": "WooCommerce 电商；沙特免费热线；第 119 批：老牌 IT 电商（「难找的 IT 产品」采购），表内沙特为分站 → country_fix 阿联酋；MD 本人回过 interesting → **分销 20% B small，一页纸一次**；再无回声 → 不动；部分坐实（企业库）（第 119 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "IT 产品电商（服务器、网络、外设）",
@@ -137,5 +139,6 @@
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
- }
+ },
+ "country_fix": "阿联酋"
 }

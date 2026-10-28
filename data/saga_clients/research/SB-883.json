@@ -1,112 +1,116 @@
 {
-  "code": "SB-883",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "快照失败（timeout）",
-  "summary": "越南 Phuong Dung（phuongdung.com：分销商/批发零售商，switch 有 ONV 的；KP Văn Đức Phương；官网 timeout）；表内 1 次跟进无回复。",
-  "type": "网络产品分销/批发商（越南，ONV 在售）",
-  "size": "",
-  "brands_seen": [
-    "ONV"
-  ],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "分销商 批发零售商；switch 有ONV的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "分销商 批发零售 switch ONV",
-      "quote": "分销商 批发零售商 / switch 有ONV的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Văn Đức Phương",
-      "title": "（负责人）",
-      "email": "info@phuongdung.com",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-883",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "快照失败（timeout）",
+ "summary": "越南 Phuong Dung（phuongdung.com：分销商/批发零售商，switch 有 ONV 的；KP Văn Đức Phương；官网 timeout）；表内 1 次跟进无回复。",
+ "type": "网络产品分销/批发商（越南，ONV 在售）",
+ "size": "",
+ "brands_seen": [
+  "ONV"
+ ],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "分销商 批发零售商；switch 有ONV的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "越南",
-    "other": "官网 phuongdung.com，语言 ?，快照状态 timeout；角色判定来源：用户表"
-  },
-  "business_lines": [
-    "网络产品分销 / 批发零售（越南）"
-  ],
-  "channels": {
-    "role": "网络产品分销/批发商（越南，ONV 在售）",
-    "region": "越南",
-    "contact": "info@phuongdung.com"
-  },
-  "signals": [
-    "表内：分销商 批发零售商 / switch 有 ONV 的；KP Mr.Phuong Van / Mr.Van Duc Phuong",
-    "快照：timeout"
-  ],
-  "risks": [
-    "非主攻区（T5，越南）；现供 ONV 价格基准低；官网 timeout；1 次无回复"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 20,
-    "why": "ONV 位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8 PoE 位 HRUI（列表价，注明）"
-  },
-  "email_hook": "Mr. Phương, alongside the ONV switches you wholesale, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS, EXW USD — which PoE port count do your retail and installer customers buy most?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（2 封越南语自动回复）；Elsa 1:1 去信 1 封（2025-02-10「8 Port Industrial PoE Switch」；To 仅本户 info@phuongdung.com；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:info@phuongdung.com` 仅此 1 条，complete）（第 74 批(m)）",
-      "type": "越南网络分销（Phuong Dung；ONV 在售）",
-      "sieve": "0",
-      "stop": "自动回复/机器人，无人工回复",
-      "revive": "不动",
-      "lane": "VN",
-      "cadence": "不动",
-      "evidence": "k=3ea34507e854cd6f / 1a8db5fe61ecbe82"
-    },
-    "situation": "来信全部为机器回复；无人读信或无人回信。",
-    "need": "—",
-    "breakpoint": "—",
-    "saga_now": {
-      "p1": "—",
-      "tier": 20,
-      "price": "—",
-      "why": "—",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "首封前知悉：Elsa 仅 2025-02-10 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2025-02-10",
-        "dir": "out",
-        "who": "Elsa → info@phuongdung.com",
-        "quote": "8 Port Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-        "k": "elsa_1to1",
-        "msg_id": "194ede81f9a170ff"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "分销商 批发零售 switch ONV",
+   "quote": "分销商 批发零售商 / switch 有ONV的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Văn Đức Phương",
+   "title": "（负责人）",
+   "email": "info@phuongdung.com",
+   "phone": "",
+   "source": "用户表",
+   "role": "负责人 / 法人代表（masothue VĂN ĐỨC PHƯƠNG 吻合；另代表 Univision Việt Nam JSC、Sài Gòn New；1 次跟进无回复）= 拍板人 / 收件人 — 一页纸一次：分销 20% B small、摄像机 PoE STC-028GP $28 / STC-228GP / STC-2216GP 一口价 + MOQ 1 + 付费样机、不点名 ONV — 越南常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、MIC 不声称（第 119 批 官方登记核实 2026-10-28）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "40/14 Tân Thành, P. Tân Phú, TP. Hồ Chí Minh（0989 865 766；分支 Đà Nẵng / Tây Ninh）（第 119 批 官方登记核实 2026-10-28）",
+  "other": "官网 phuongdung.com，语言 ?，快照状态 timeout；角色判定来源：用户表；第 119 批：监控摄像机批发零售 + 安装（Vantech / KBVision / Hikvision / Dahua；站内 ONV 交换机），老板 = 法人代表 → **分销 20% B small，一页纸一次**；1×0 在先 → 再无回声即不动；坐实（MST + 地址 + 法人代表 + 分支）（第 119 批 官方登记核实 2026-10-28）",
+  "legal_name": "CÔNG TY TNHH VIỄN THÔNG PHƯƠNG DUNG / PHUONG DUNG TELECOM CO., LTD（MST 0315321631；GCN 变更 2024-04-10）",
+  "founded": "约 2018（MST 0315 段）（第 119 批 官方登记核实 2026-10-28）",
+  "size": "小型（第 119 批 官方登记核实 2026-10-28）"
+ },
+ "business_lines": [
+  "网络产品分销 / 批发零售（越南）"
+ ],
+ "channels": {
+  "role": "网络产品分销/批发商（越南，ONV 在售）",
+  "region": "越南",
+  "contact": "info@phuongdung.com"
+ },
+ "signals": [
+  "表内：分销商 批发零售商 / switch 有 ONV 的；KP Mr.Phuong Van / Mr.Van Duc Phuong",
+  "快照：timeout"
+ ],
+ "risks": [
+  "非主攻区（T5，越南）；现供 ONV 价格基准低；官网 timeout；1 次无回复"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "ONV 位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8 PoE 位 HRUI（列表价，注明）"
+ },
+ "email_hook": "Mr. Phương, alongside the ONV switches you wholesale, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS, EXW USD — which PoE port count do your retail and installer customers buy most?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（2 封越南语自动回复）；Elsa 1:1 去信 1 封（2025-02-10「8 Port Industrial PoE Switch」；To 仅本户 info@phuongdung.com；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:info@phuongdung.com` 仅此 1 条，complete）（第 74 批(m)）",
+   "type": "越南网络分销（Phuong Dung；ONV 在售）",
+   "sieve": "0",
+   "stop": "自动回复/机器人，无人工回复",
+   "revive": "不动",
+   "lane": "VN",
+   "cadence": "不动",
+   "evidence": "k=3ea34507e854cd6f / 1a8db5fe61ecbe82"
+  },
+  "situation": "来信全部为机器回复；无人读信或无人回信。",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—",
+   "why": "—",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "首封前知悉：Elsa 仅 2025-02-10 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2025-02-10",
+    "dir": "out",
+    "who": "Elsa → info@phuongdung.com",
+    "quote": "8 Port Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "194ede81f9a170ff"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

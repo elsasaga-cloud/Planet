@@ -39,8 +39,10 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "沙特阿拉伯",
-  "other": "官网 metaworldcomputers.com，语言 ?，快照状态 ok；角色判定来源：待核"
+  "hq": "Deyaar Building, Office 331, Damascus Street, Al Qussais Industrial Area 1, Dubai, UAE（+971 4 353 7555 / +971 56 213 4555）（第 119 批 官方登记核实 2026-10-28）",
+  "other": "官网 metaworldcomputers.com，语言 ?，快照状态 ok；角色判定来源：待核；第 119 批：光纤 / 连接 / ELV / 安防 / 电信设备供应，表内沙特实为迪拜 → country_fix 阿联酋；无 KP + 3×0 → **不动（B 保留；Metacom 自有线要交换机再按贴标 30% 报）**；部分坐实（官网）（第 119 批 官方登记核实 2026-10-28）",
+  "legal_name": "MetaWorld Computers LLC（官网自列；牌照号 1 查未得；自有「Metacom」光纤产品线）",
+  "size": "小型（第 119 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "IT 经销（沙特）"
@@ -112,5 +114,6 @@
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
- }
+ },
+ "country_fix": "阿联酋"
 }

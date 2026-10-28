@@ -45,14 +45,16 @@
    "title": "Chief Operating Officer",
    "email": "m.nejadi@eworldme.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Chief Operating Officer（研究档；Moxa 官方分销商）— 不动，不发（自有品牌 / 低价补位线诉求出现再按贴标 OEM 30% 报）（第 119 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Akram Jafari",
    "title": "Sales Manager",
    "email": "",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Sales Manager（研究档）— 不动（第 119 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -63,8 +65,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "沙特阿拉伯",
-  "other": "官网 eworldme.com，语言 en，快照状态 ok；角色判定来源：用户表"
+  "hq": "Office 204, Building 1, Emaar Business Park, Sheikh Zayed Road, Dubai, UAE (P.O. Box 29505；+971 4 447 1137)；分支 Al Khobar（+966 13 850 6010）/ Riyadh（+966 11 275 1110）/ Muscat（第 119 批 官方登记核实 2026-10-28）",
+  "other": "官网 eworldme.com，语言 en，快照状态 ok；角色判定来源：用户表；第 119 批：工业数据通信 / 自动化 VAD（Moxa 官方分销 = 同行渠道），总部迪拜 → country_fix 阿联酋；无 OEM 诉求 → **不动（B 保留）**；部分坐实（官网）（第 119 批 官方登记核实 2026-10-28）",
+  "legal_name": "Easy World Automation L.L.C（eWorld；牌照号 1 查未得；Moxa 中东领先分销商近 20 年）",
+  "founded": "2002（第 119 批 官方登记核实 2026-10-28）",
+  "size": "中小（第 119 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工业自动化 / 数据通信 / IIoT 分销（Moxa 等）"
@@ -167,5 +172,6 @@
    "body": "Hi Mohsen,\n\nOver the past months you had a few product mails from us - most recently \"Managed PoE Switches\" on 29 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the Moxa EDS-205 / EDS-208 unmanaged switches you distribute, a lower price tier for the SI customers who do not need the Moxa name on the panel, neutral packing, at distributor price, EXW, MOQ 1, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit unmanaged, 12-58 V DC - model STI-080GE - $32.5 USD; 5-port, 12-36 V DC - STI-050GE - $17.0; 8 x Gigabit PoE+ + 2 x SFP unmanaged - STI-288GP - $60. Rail-grade (TN series) positions we do not quote.\n\nOne question: would a sample of the 8-port for comparison be useful for your SI customers - and to Dubai or Riyadh?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "country_fix": "阿联酋"
 }

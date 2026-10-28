@@ -49,7 +49,8 @@
    "title": "Project Director",
    "email": "anhpt@hoangthienan.com.vn",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Project Director（研究档；自建站询 16 槽机架）= 收件人 — 一页纸一次：分销 20% B small、STI-288DGGPM / STI-154GP 对位 + 3 年保 + MOQ 1 + 付费样机、机架 / SFP 不做明说、不点名 ORing — 越南常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、MIC 不声称（第 119 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -60,8 +61,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "越南",
-  "other": "官网 hoangthienan.com.vn，语言 vi，快照状态 ok；角色判定来源：用户表"
+  "hq": "29 Đường DD11, P. Tân Hưng Thuận, Q.12, TP. Hồ Chí Minh（第 119 批 官方登记核实 2026-10-28）",
+  "other": "官网 hoangthienan.com.vn，语言 vi，快照状态 ok；角色判定来源：用户表；第 119 批：SFP / GPON SFP / Wintop MC / Cisco / EtherWAN / ORing / Huawei 小贸易商，项目总监为 KP → **分销 20% B small，一页纸一次**；再无回声 → 不动；坐实（MST + 发证日 + 地址 + 法人代表；域名后缀差异已注）（第 119 批 官方登记核实 2026-10-28）",
+  "legal_name": "CÔNG TY CỔ PHẦN THƯƠNG MẠI KỸ THUẬT HOÀNG THIÊN ÂN / HOANG THIEN AN TECHNOLOGY CORP（MST 0313394377；法人代表 Lê Thị Kim Thoa；黄页列域名 hoangthienan.vn，表内 .com.vn）",
+  "founded": "2015-08-11（发证）（第 119 批 官方登记核实 2026-10-28）",
+  "size": "微型（5–24）（第 119 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "光通信产品贸易（SFP / MC / GPON）"

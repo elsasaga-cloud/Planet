@@ -29,7 +29,8 @@
    "title": "Kinh doanh（销售）",
    "email": "kinhdoanh8@nnc.net.vn",
    "phone": "+84 946 129 891",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "Kinh doanh（销售）Hoa（研究档；询盘表来源；WA×0）— 不动，不发（第 119 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -40,11 +41,11 @@
   "level": "B 级加厚 v1（快照 HTTP 错误 + 表内）"
  },
  "company_facts": {
-  "legal_name": "NNC（待核）",
-  "founded": "",
-  "hq": "Vietnam",
-  "size": "",
-  "other": ""
+  "legal_name": "Công ty TNHH Nhất Nước (NNC)（MST 0101403703；义安分厂 -001）",
+  "founded": "2003（第 119 批 官方登记核实 2026-10-28）",
+  "hq": "Tòa G03 Căn 2412, Vinhomes Greenbay, 7 Đại Lộ Thăng Long, Nam Từ Liêm, Hà Nội（024 3784 9934）（第 119 批 官方登记核实 2026-10-28）",
+  "size": "中小（第 119 批 官方登记核实 2026-10-28）",
+  "other": "第 119 批：电气设备制造 + 电站 / 变电站 / 线路工程（电力守界）+ 无需求描述 → **不动（B 保留）**；坐实（MST + 成立年 + 地址）（第 119 批 官方登记核实 2026-10-28）"
  },
  "channels": {
   "role": "（未知）",

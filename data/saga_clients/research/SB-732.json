@@ -1,212 +1,213 @@
 {
-  "code": "SB-732",
-  "name_official": "Maxitulin Sdn Bhd（马来西亚）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（maxitulin.com，快照 2026-10-21）",
-  "summary": "马来西亚安防公司 Maxitulin（「First Line of Security Defence」；camera 28 / cctv 19；+60 3 8062 2255），设计分析工程师 P. Kumar：PoE 交换机用得多，对 bypass 有兴趣拍照，对 CWDM 有点兴趣，只关注 IPC，项目用 Cisco/Aruba 偶用普通品牌；无跟进。",
-  "type": "",
-  "size": "",
-  "brands_seen": [
-    "Cisco",
-    "Aruba",
-    "Ubiquiti"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "安防公司；关键词 camera 28 / cctv 19；+60 3-8062 2255",
-      "quote": "Maxitulin – Providing First Line Of Security Defence",
-      "url": "https://maxitulin.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "用 POE 交换机比较多，对 bypass 有兴趣拍了照片，对 CWDM 有点兴趣，只关注 IPC，项目用 Cisco/Aruba 但有时用普通品牌",
-      "quote": "兴趣：用POE交换机比较多，对bypass有兴趣，拍了照片… 做项目用一些Cisco/Aruba，但有时候用一些普通的品牌",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "P. Kumar",
-      "title": "Design Analyst Engineer",
-      "email": "kumar@maxitulin.com",
-      "phone": "+60 17 409 2070",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照 + 表内）"
+ "code": "SB-732",
+ "name_official": "Maxitulin Sdn Bhd（马来西亚）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（maxitulin.com，快照 2026-10-21）",
+ "summary": "马来西亚安防公司 Maxitulin（「First Line of Security Defence」；camera 28 / cctv 19；+60 3 8062 2255），设计分析工程师 P. Kumar：PoE 交换机用得多，对 bypass 有兴趣拍照，对 CWDM 有点兴趣，只关注 IPC，项目用 Cisco/Aruba 偶用普通品牌；无跟进。",
+ "type": "",
+ "size": "",
+ "brands_seen": [
+  "Cisco",
+  "Aruba",
+  "Ubiquiti"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "安防公司；关键词 camera 28 / cctv 19；+60 3-8062 2255",
+   "quote": "Maxitulin – Providing First Line Of Security Defence",
+   "url": "https://maxitulin.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Maxitulin Sdn Bhd",
-    "founded": "（待核）",
-    "hq": "Malaysia（Puchong，+60 3 8062）",
-    "size": "中小型安防集成",
-    "other": ""
-  },
-  "business_lines": [
-    "IPC 监控项目集成"
-  ],
-  "channels": {
-    "role": "安防集成商",
-    "region": "马来西亚"
-  },
-  "signals": [
-    "PoE 用量大 + 接受普通品牌 → 可切入非核心项目",
-    "bypass 有兴趣"
-  ],
-  "risks": [
-    "Cisco/Aruba 主导项目；无跟进"
-  ],
-  "saga_fit": {
-    "p1": "STC-424DGGPM-280W",
-    "tier": 25,
-    "why": "IPC 项目走量 24 PoE → STC-424DGGPM-280W（$140.1 @25%）；8 PoE STC-28DGGPM；bypass → SmartByte FBP（注明）。"
-  },
-  "email_hook": "Kumar, for the IPC jobs where Cisco/Aruba is overkill — 24-PoE + 4 uplinks L2+ (Marvell, 280 W) at $140 EXW and 8-PoE + 2-SFP at $84; and the bypass unit you photographed is $194. Want a 1-pc sample of the 24-port?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（S 邮箱 8 封 2024，无记录打开，0 回；收件 kumar@maxitulin.com；主题多为「L3 managed PoE Switch、24 port poe switch」）；Elsa 群发 BCC 已触达 9 轮 2025-04-11→2026-09-08（锚 To sofyan@mutiara-teknologi.com.my 9 轮 2025-04-11→2026-09-08；本户在 Bcc；主题 Industrial PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:maxitulin.com` 全程 complete：命中 9 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）",
-      "type": "—",
-      "sieve": "1（只收到群发）",
-      "stop": "8 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "马来西亚 非主攻",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 8；用户表：「兴趣：用POE交换机比较多，对bypass有兴趣，拍了照片… 做项目用一些Cisco/Aruba，但有时候用一些普通的品牌」；研究档 risks：Cisco/Aruba 主导项目；无跟进"
-    },
-    "situation": "马来西亚安防公司 Maxitulin（「First Line of Security Defence」；camera 28 / cctv 19；+60 3 8062 2255），设计分析工程师 P. Kumar：PoE 交换机用得多，对 bypass 有兴趣拍照，对 CWDM 有点兴趣，只关注 IPC，项目用 Cisco/Aruba 偶用普通品牌；无跟进。",
-    "need": "IPC 项目走量 24 PoE → STC-424DGGPM-280W（$140.1 @25%）；8 PoE STC-28DGGPM；bypass → SmartByte FBP（注明）。",
-    "breakpoint": "Cisco/Aruba 主导项目；无跟进",
-    "saga_now": {
-      "p1": "STC-424DGGPM-280W",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-09 $65（PoE media converter）、2024-11-11 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-26 $65（10G Media Converter）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-04 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-05-04；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-06 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-06；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "IPC 项目走量 24 PoE → STC-424DGGPM-280W（$140.1 @25%）；8 PoE STC-28DGGPM；bypass → SmartByte FBP（注明）。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "首封前知悉：Elsa 群发 BCC 已触达 9 轮（2025-04-11→2026-09-08，锚 To sofyan@mutiara-teknologi.com.my，0 回）（第 74 批(n)）；观察打开",
-      "one_question": "Kumar, for the IPC jobs where Cisco/Aruba is overkill — 24-PoE + 4 uplinks L2+ (Marvell, 280 W) at $140 EXW and 8-PoE + 2-SFP at $84; and the bypass unit you photographed is $194. Want a 1-pc sample of the 24-port?"
-    },
-    "facts": [
-      {
-        "date": "2023-07-01",
-        "dir": "备",
-        "who": "Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹）",
-        "quote": "名单行：「42 Maxitulin P.Kumar Design Analyst Engineer Mitec 2023 用POE交换机比较多，对bypass有兴趣，拍了照片，对CWDM有点兴趣，问了比较多，对光端机懂一些，但基本不用，只关注IPC，做项目用一些Cisco/Aruba，但有时候用一些普通的品牌 公司地址：29, Jalan Puteri 5/16Bandar Puteri, 47100 PuchongSelangor, Malay」",
-        "why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点；Mitec 2023 现场见过面 = 可用「we met at MITEC 2023」开头",
-        "k": "Drive PI 文件夹 9_马来西亚_Sugito"
-      },
-      {
-        "date": "2024-12-26",
-        "dir": "去",
-        "who": "S 群发",
-        "quote": "L3 managed PoE Switch、24 port poe switch",
-        "why": "8 封 / 0 次打开 / 0 回｜首封 2024-06-14 → 末封 2024-12-26（8 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2025-04-11",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "16 Port Ethernet Switch（Elsa 群发第 1/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:maxitulin.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "19623a5f07b9a5bf"
-      },
-      {
-        "date": "2025-05-04",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "48 Port PoE Managed Switch（Elsa 群发第 2/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:maxitulin.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "19699a96e93d4ea9"
-      },
-      {
-        "date": "2025-06-05",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "8 Port Industrial PoE Switch（Elsa 群发第 3/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:maxitulin.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "1973f4fbd2176398"
-      },
-      {
-        "date": "2025-07-04",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "Mini Industrial PoE Switch（Elsa 群发第 4/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:maxitulin.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "197d44f5b17bb6b9"
-      },
-      {
-        "date": "2025-10-06",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "10G Enterprise SFP Switch（Elsa 群发第 5/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:maxitulin.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "199b7cd286b8997d"
-      },
-      {
-        "date": "2025-11-20",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "Industrial PoE Switch（Elsa 群发第 6/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:maxitulin.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "19a9f3c99302ff20"
-      },
-      {
-        "date": "2026-02-05",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "OEM Core Switching Solution（Elsa 群发第 7/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:maxitulin.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "19c2c14168a821f5"
-      },
-      {
-        "date": "2026-04-29",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "Updated Ethernet Switches Links（Elsa 群发第 8/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:maxitulin.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "19dd7f65aff0636e"
-      },
-      {
-        "date": "2026-09-08",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "24 Port PoE Managed Switch（Elsa 群发第 9/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:maxitulin.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
-        "k": "elsa_bcc",
-        "msg_id": "1a07fb58f139416e"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：用POE交换机比较多，对bypass有兴趣，拍了照片… 做项目用一些Cisco/Aruba，但有时候用一些普通的品牌",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "用 POE 交换机比较多，对 bypass 有兴趣拍了照片，对 CWDM 有点兴趣，只关注 IPC，项目用 Cisco/Aruba 但有时用普通品牌",
+   "quote": "兴趣：用POE交换机比较多，对bypass有兴趣，拍了照片… 做项目用一些Cisco/Aruba，但有时候用一些普通的品牌",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "P. Kumar",
+   "title": "Design Analyst Engineer",
+   "email": "kumar@maxitulin.com",
+   "phone": "+60 17 409 2070",
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "Design Analyst Engineer（研究档；PoE 用量大、项目 Cisco / Aruba）= 收件人（选型）— 一页纸一次：集成商 25% B、STC-2216GP / 2224GP + 室外 STI-154GP / STI-288DGGPM + STC-4424GCPM 一口价、bypass 不做明说、MOQ 1 + 付费样机 — 马来西亚常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、SIRIM 不声称（第 119 批 官方登记核实 2026-10-28）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Maxitulin Sdn Bhd（MATRADE 服务名录；SSM 号 1 查未得）",
+  "founded": "（待核）",
+  "hq": "Unit 2-1, 1st Floor, Pusat Komersial Koi, Jalan Puchong Batu 13 1/2, 47100 Puchong, Selangor（+60 3 8062 2255；旧址 No. 29, Jalan Puteri 5/16）（第 119 批 官方登记核实 2026-10-28）",
+  "size": "小型（第 119 批 官方登记核实 2026-10-28）",
+  "other": "第 119 批：CCTV 供应 / 安装 / 维保 + 门禁 SI，工程师为 KP → **集成商 25% B，一页纸一次**；再无回声 → 不动；部分坐实（官网 + MATRADE）（第 119 批 官方登记核实 2026-10-28）"
+ },
+ "business_lines": [
+  "IPC 监控项目集成"
+ ],
+ "channels": {
+  "role": "安防集成商",
+  "region": "马来西亚"
+ },
+ "signals": [
+  "PoE 用量大 + 接受普通品牌 → 可切入非核心项目",
+  "bypass 有兴趣"
+ ],
+ "risks": [
+  "Cisco/Aruba 主导项目；无跟进"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 25,
+  "why": "IPC 项目走量 24 PoE → STC-424DGGPM-280W（$140.1 @25%）；8 PoE STC-28DGGPM；bypass → SmartByte FBP（注明）。"
+ },
+ "email_hook": "Kumar, for the IPC jobs where Cisco/Aruba is overkill — 24-PoE + 4 uplinks L2+ (Marvell, 280 W) at $140 EXW and 8-PoE + 2-SFP at $84; and the bypass unit you photographed is $194. Want a 1-pc sample of the 24-port?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（S 邮箱 8 封 2024，无记录打开，0 回；收件 kumar@maxitulin.com；主题多为「L3 managed PoE Switch、24 port poe switch」）；Elsa 群发 BCC 已触达 9 轮 2025-04-11→2026-09-08（锚 To sofyan@mutiara-teknologi.com.my 9 轮 2025-04-11→2026-09-08；本户在 Bcc；主题 Industrial PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:maxitulin.com` 全程 complete：命中 9 行、To 均为锚地址 ⇒ 本户在锚的 Bcc 名单）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "8 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "马来西亚 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 8；用户表：「兴趣：用POE交换机比较多，对bypass有兴趣，拍了照片… 做项目用一些Cisco/Aruba，但有时候用一些普通的品牌」；研究档 risks：Cisco/Aruba 主导项目；无跟进"
+  },
+  "situation": "马来西亚安防公司 Maxitulin（「First Line of Security Defence」；camera 28 / cctv 19；+60 3 8062 2255），设计分析工程师 P. Kumar：PoE 交换机用得多，对 bypass 有兴趣拍照，对 CWDM 有点兴趣，只关注 IPC，项目用 Cisco/Aruba 偶用普通品牌；无跟进。",
+  "need": "IPC 项目走量 24 PoE → STC-424DGGPM-280W（$140.1 @25%）；8 PoE STC-28DGGPM；bypass → SmartByte FBP（注明）。",
+  "breakpoint": "Cisco/Aruba 主导项目；无跟进",
+  "saga_now": {
+   "p1": "STC-424DGGPM-280W",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-09 $65（PoE media converter）、2024-11-11 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-26 $65（10G Media Converter）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-04 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-05-04；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-06 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-06；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+   "why": "IPC 项目走量 24 PoE → STC-424DGGPM-280W（$140.1 @25%）；8 PoE STC-28DGGPM；bypass → SmartByte FBP（注明）。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "首封前知悉：Elsa 群发 BCC 已触达 9 轮（2025-04-11→2026-09-08，锚 To sofyan@mutiara-teknologi.com.my，0 回）（第 74 批(n)）；观察打开",
+   "one_question": "Kumar, for the IPC jobs where Cisco/Aruba is overkill — 24-PoE + 4 uplinks L2+ (Marvell, 280 W) at $140 EXW and 8-PoE + 2-SFP at $84; and the bypass unit you photographed is $194. Want a 1-pc sample of the 24-port?"
+  },
+  "facts": [
+   {
+    "date": "2023-07-01",
+    "dir": "备",
+    "who": "Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹）",
+    "quote": "名单行：「42 Maxitulin P.Kumar Design Analyst Engineer Mitec 2023 用POE交换机比较多，对bypass有兴趣，拍了照片，对CWDM有点兴趣，问了比较多，对光端机懂一些，但基本不用，只关注IPC，做项目用一些Cisco/Aruba，但有时候用一些普通的品牌 公司地址：29, Jalan Puteri 5/16Bandar Puteri, 47100 PuchongSelangor, Malay」",
+    "why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点；Mitec 2023 现场见过面 = 可用「we met at MITEC 2023」开头",
+    "k": "Drive PI 文件夹 9_马来西亚_Sugito"
+   },
+   {
+    "date": "2024-12-26",
+    "dir": "去",
+    "who": "S 群发",
+    "quote": "L3 managed PoE Switch、24 port poe switch",
+    "why": "8 封 / 0 次打开 / 0 回｜首封 2024-06-14 → 末封 2024-12-26（8 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2025-04-11",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+    "quote": "16 Port Ethernet Switch（Elsa 群发第 1/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:maxitulin.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+    "k": "elsa_bcc",
+    "msg_id": "19623a5f07b9a5bf"
+   },
+   {
+    "date": "2025-05-04",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+    "quote": "48 Port PoE Managed Switch（Elsa 群发第 2/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:maxitulin.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+    "k": "elsa_bcc",
+    "msg_id": "19699a96e93d4ea9"
+   },
+   {
+    "date": "2025-06-05",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+    "quote": "8 Port Industrial PoE Switch（Elsa 群发第 3/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:maxitulin.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+    "k": "elsa_bcc",
+    "msg_id": "1973f4fbd2176398"
+   },
+   {
+    "date": "2025-07-04",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+    "quote": "Mini Industrial PoE Switch（Elsa 群发第 4/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:maxitulin.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+    "k": "elsa_bcc",
+    "msg_id": "197d44f5b17bb6b9"
+   },
+   {
+    "date": "2025-10-06",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+    "quote": "10G Enterprise SFP Switch（Elsa 群发第 5/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:maxitulin.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+    "k": "elsa_bcc",
+    "msg_id": "199b7cd286b8997d"
+   },
+   {
+    "date": "2025-11-20",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+    "quote": "Industrial PoE Switch（Elsa 群发第 6/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:maxitulin.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+    "k": "elsa_bcc",
+    "msg_id": "19a9f3c99302ff20"
+   },
+   {
+    "date": "2026-02-05",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+    "quote": "OEM Core Switching Solution（Elsa 群发第 7/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:maxitulin.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+    "k": "elsa_bcc",
+    "msg_id": "19c2c14168a821f5"
+   },
+   {
+    "date": "2026-04-29",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+    "quote": "Updated Ethernet Switches Links（Elsa 群发第 8/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:maxitulin.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+    "k": "elsa_bcc",
+    "msg_id": "19dd7f65aff0636e"
+   },
+   {
+    "date": "2026-09-08",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+    "quote": "24 Port PoE Managed Switch（Elsa 群发第 9/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:maxitulin.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径",
+    "k": "elsa_bcc",
+    "msg_id": "1a07fb58f139416e"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：用POE交换机比较多，对bypass有兴趣，拍了照片… 做项目用一些Cisco/Aruba，但有时候用一些普通的品牌",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

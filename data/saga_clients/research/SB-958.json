@@ -59,8 +59,10 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "越南",
-  "other": "官网 sieuthivienthong.com，语言 vi-VN，快照状态 ok；角色判定来源：官网文案"
+  "hq": "TP. Hồ Chí Minh（Q.12 或 Tân Bình，待定）（第 119 批 官方登记核实 2026-10-28）",
+  "other": "官网 sieuthivienthong.com，语言 vi-VN，快照状态 ok；角色判定来源：官网文案；第 119 批：电信 / 安防设备电商（Hikvision / Dahua / TP-Link / Ubiquiti；在卖深圳白牌 PoE）+ 无 KP + 归属未定 → **不动（B 保留）**；部分坐实（两同名候选）（第 119 批 官方登记核实 2026-10-28）",
+  "legal_name": "Siêu Thị Viễn Thông（sieuthivienthong.com 归属未定：.com.vn = Công ty TNHH Kỹ Thuật Viễn Thông Thiên Long MST 0312485663（Q.12）/ .net = Công ty TNHH Siêu Thị Viễn Thông（Tân Bình））",
+  "size": "微型（第 119 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "电信 / 安防 / 网络设备电商（全国配送）"

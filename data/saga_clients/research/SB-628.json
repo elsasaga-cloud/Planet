@@ -48,7 +48,8 @@
    "title": "Inside Sales & Administrative",
    "email": "diana.wang@bright.net.my",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Inside Sales & Administrative（研究档；非拍板；阿里巴巴询光模块）— 不动，不发（第 119 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -59,8 +60,10 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "马来西亚",
-  "other": "官网 bright.net.my，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  "hq": "No. 20-4-10, Jalan 2/101C, Cheras Business Centre, 56100 Kuala Lumpur（03-9130 9887）（第 119 批 官方登记核实 2026-10-28）",
+  "other": "官网 bright.net.my，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 119 批：一站式 SI（Cisco / Aruba / Huawei / Ubiquiti 含翻新），需求 = 光模块（Saga 无）+ KP 非拍板 → **不动（B 保留）**；部分坐实（名录）（第 119 批 官方登记核实 2026-10-28）",
+  "legal_name": "BrightNet Services Sdn Bhd（SSM 号 1 查未得）",
+  "size": "小型（第 119 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "系统集成（企业网络 / 安防 / 硬件 / 翻新）"

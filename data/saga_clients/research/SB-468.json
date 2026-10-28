@@ -45,7 +45,8 @@
    "title": "CEO",
    "email": "dinhtu.vu@ninhthanh.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "CEO / 法人代表（登记 VŨ ĐÌNH TƯ 吻合；阿里巴巴 RFQ 1 光 4 电）= 拍板人 / 收件人 — 一页纸一次：集成商 25% B small、STI-154GP / STC-228GP $33 一口价 + MOQ 1 + 付费样机、opener 引其 RFQ — 越南常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、MIC 不声称（第 119 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -56,8 +57,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "越南",
-  "other": "官网 ninhthanh.com，语言 en，快照状态 ok；角色判定来源：用户表"
+  "hq": "Số 20, ngách 24, ngõ 38, đường Xuân La, Xuân Đỉnh / Tây Hồ, Hà Nội（0904 550 273）（第 119 批 官方登记核实 2026-10-28）",
+  "other": "官网 ninhthanh.com，语言 en，快照状态 ok；角色判定来源：用户表；第 119 批：电信 / 数字化方案分销商，CEO 本人发过 RFQ 且从未跟进 → **集成商 25% B small，一页纸一次**；再无回声 → 不动；坐实（MST + 发证日 + 地址 + 法人代表 = KP）（第 119 批 官方登记核实 2026-10-28）",
+  "legal_name": "CÔNG TY TNHH SẢN XUẤT VÀ THƯƠNG MẠI NINH THANH / NINH THANH PRODUCTION AND TRADING CO., LTD（MST 0106778512）",
+  "founded": "2015-02-27（发证）（第 119 批 官方登记核实 2026-10-28）",
+  "size": "小型（第 119 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "电信 / 数字化方案贸易（越南）"

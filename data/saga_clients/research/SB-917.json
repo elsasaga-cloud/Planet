@@ -1,130 +1,132 @@
 {
-  "code": "SB-917",
-  "name_official": "Fuzzy Logic Automation（Torqsys，阿联酋；表内沙特）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（fuzzylogicautomation.com，快照 2026-10-21）",
-  "summary": "阿联酋工业自动化集成商（SCADA、PLC、UPS、控制系统；水 / 污水与工业厂站；100+ 客户；+971 54 585 1777），Arjun Muralidharan（LinkedIn 来源）：做项目，让发介绍资料，2023-04 已读 featured models 册；7 次跟进无实质回复。表内国家沙特，域名 / 电话为阿联酋（待核，不改）。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "SCADA / PLC / UPS / 控制系统，水、污水与工业厂站；100+ 客户；+971 545851777",
-      "quote": "Industrial automation experts in UAE offering SCADA, PLC, UPS, and control systems for water, sewage, and industrial plants. Trusted by 100+ clients.",
-      "url": "https://www.fuzzylogicautomation.com",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "做项目的，让发介绍资料；2023-04 featured models 宣传册→read",
-      "quote": "兴趣：做项目的 让发介绍资料；回复：read",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Arjun Muralidharan",
-      "title": "（项目 / 技术）",
-      "email": "arjun.murali@fuzzylogicautomation.com",
-      "phone": "+971 54 585 1777",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照核对）"
+ "code": "SB-917",
+ "name_official": "Fuzzy Logic Automation（Torqsys，阿联酋；表内沙特）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（fuzzylogicautomation.com，快照 2026-10-21）",
+ "summary": "阿联酋工业自动化集成商（SCADA、PLC、UPS、控制系统；水 / 污水与工业厂站；100+ 客户；+971 54 585 1777），Arjun Muralidharan（LinkedIn 来源）：做项目，让发介绍资料，2023-04 已读 featured models 册；7 次跟进无实质回复。表内国家沙特，域名 / 电话为阿联酋（待核，不改）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "SCADA / PLC / UPS / 控制系统，水、污水与工业厂站；100+ 客户；+971 545851777",
+   "quote": "Industrial automation experts in UAE offering SCADA, PLC, UPS, and control systems for water, sewage, and industrial plants. Trusted by 100+ clients.",
+   "url": "https://www.fuzzylogicautomation.com",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Fuzzy Logic Automation LLC（待核）",
-    "founded": "（待核）",
-    "hq": "UAE",
-    "size": "小型 SCADA 集成商",
-    "other": "水务 / 污水厂站（公用事业，按单核）"
-  },
-  "business_lines": [
-    "SCADA / PLC 控制系统集成",
-    "水 / 污水厂站自动化"
-  ],
-  "channels": {
-    "role": "工业自动化集成商",
-    "region": "阿联酋"
-  },
-  "signals": [
-    "SCADA 厂站 = 工业管理交换机场景（ERPS、DIN、宽温）"
-  ],
-  "risks": [
-    "公用事业项目（守界：民用水务可供，按单核最终用户）",
-    "无回复"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GPM",
-    "tier": 25,
-    "why": "SCADA 柜内工业管理交换机 → STI-288GPM（$82.2 @25%）；非 PoE STI-280GM。"
-  },
-  "email_hook": "Arjun, for the SCADA panels on water/sewage sites — DIN-rail managed switches (ERPS ring, −40~75 ℃, 12–48 V, SNMP) at $71–82 EXW; want the industrial sheet with the ring-redundancy test report?",
-  "mail_review": {
-    "binding": {
-      "level": "Elsa 群发 BCC 已触达 2026-05-12「10G Enterprise SFP Switch」（正文「Price: 280usd/pc」，第 74 批(p) 读稿），misc(TR/TN/TZ/NL/SA/BE/RU) 批次 To info@andasis.com，0 回（第 73 批(o) Bcc 头核对 msg 19e1b893e9c06378）；S/A 箱：S/A 邮箱均无往来；来源：用户表「兴趣：做项目的 让发介绍资料；回复：read」",
-      "type": "—",
-      "sieve": "—（未入筛）",
-      "stop": "Elsa 群发 BCC 触达过（最近 2026-05-12）无回；S/A 箱从未单独发过",
-      "revive": "不动（非主攻区；J5：有证据再动）",
-      "lane": "沙特阿拉伯 非主攻",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 0；用户表：「兴趣：做项目的 让发介绍资料；回复：read」；研究档 risks：公用事业项目（守界：民用水务可供，按单核最终用户）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@andasis.com）2025-03-01→2026-05-12 共 14 轮群发（8 Port Industrial PoE Switch、Marvell Alleycat5 Solution、Commercial Network Switch、Industrial PoE Switch、16 Port Ethernet Switch、48 Port PoE Managed Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch、Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
-    },
-    "situation": "阿联酋工业自动化集成商（SCADA、PLC、UPS、控制系统；水 / 污水与工业厂站；100+ 客户；+971 54 585 1777），Arjun Muralidharan（LinkedIn 来源）：做项目，让发介绍资料，2023-04 已读 featured models 册；7 次跟进无实质回复。表内国家沙特，域名 / 电话为阿联酋（待核，不改）。",
-    "need": "SCADA 柜内工业管理交换机 → STI-288GPM（$82.2 @25%）；非 PoE STI-280GM。",
-    "breakpoint": "公用事业项目（守界：民用水务可供，按单核最终用户）",
-    "saga_now": {
-      "p1": "STI-288GPM",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-12 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-12；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）",
-      "why": "SCADA 柜内工业管理交换机 → STI-288GPM（$82.2 @25%）；非 PoE STI-280GM。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2025-03-01",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@andasis.com，misc(TR/TN/TZ/NL/SA/BE/RU) 批次）",
-        "quote": "8 Port Industrial PoE Switch — This is a Marvell based unmanaged 8 Port Gigabit PoE switch. 1. 30W per port for outdoor IP cameras 2. Support 250-meter PoE distance, PoE watchdog an",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 arjun.murali@fuzzylogicautomation.com, fuzzylogicautomation.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-05-12",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@andasis.com，misc(TR/TN/TZ/NL/SA/BE/RU) 批次）",
-        "quote": "10G Enterprise SFP Switch — 24×1G SFP + 8 combo + 4×10G SFP+ managed, dual AC（价格不在摘要里；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 arjun.murali@fuzzylogicautomation.com, fuzzylogicautomation.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：做项目的 让发介绍资料；回复：read",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-25"
+  {
+   "kind": "用户表",
+   "claim": "做项目的，让发介绍资料；2023-04 featured models 宣传册→read",
+   "quote": "兴趣：做项目的 让发介绍资料；回复：read",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Arjun Muralidharan",
+   "title": "（项目 / 技术）",
+   "email": "arjun.murali@fuzzylogicautomation.com",
+   "phone": "+971 54 585 1777",
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "项目 / 技术（研究档；邮箱域 = Fuzzy Logic Equipment Trading Ltd，阿布扎比 KIZAD；+971 54 585 1777 吻合；7×0）— 不动，不发（第 119 批 官方登记核实 2026-10-28）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对）"
+ },
+ "company_facts": {
+  "legal_name": "Torque Automation Systems FZE（torqsys.com；沙迦 P.O. Box 121718 + 迪拜 SZR）；KP 现属 Fuzzy Logic Equipment Trading Ltd（阿布扎比 KIZAD）；牌照号 1 查未得",
+  "founded": "（待核）",
+  "hq": "Building 280, Taweelah, KIZAD Free Zone, Abu Dhabi, UAE（Torque：P.O. Box 121718, Sharjah；+971 4 432 9204）（第 119 批 官方登记核实 2026-10-28）",
+  "size": "小型（第 119 批 官方登记核实 2026-10-28）",
+  "other": "水务 / 污水厂站（公用事业，按单核）；第 119 批：工业自动化 / SCADA 承包（水 / 污水 / 工业厂站），表内沙特实为阿联酋 → country_fix 阿联酋；项目型 + 7×0 → **不动（B 保留）**；部分坐实（两官网 + 企业库）（第 119 批 官方登记核实 2026-10-28）"
+ },
+ "business_lines": [
+  "SCADA / PLC 控制系统集成",
+  "水 / 污水厂站自动化"
+ ],
+ "channels": {
+  "role": "工业自动化集成商",
+  "region": "阿联酋"
+ },
+ "signals": [
+  "SCADA 厂站 = 工业管理交换机场景（ERPS、DIN、宽温）"
+ ],
+ "risks": [
+  "公用事业项目（守界：民用水务可供，按单核最终用户）",
+  "无回复"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 25,
+  "why": "SCADA 柜内工业管理交换机 → STI-288GPM（$82.2 @25%）；非 PoE STI-280GM。"
+ },
+ "email_hook": "Arjun, for the SCADA panels on water/sewage sites — DIN-rail managed switches (ERPS ring, −40~75 ℃, 12–48 V, SNMP) at $71–82 EXW; want the industrial sheet with the ring-redundancy test report?",
+ "mail_review": {
+  "binding": {
+   "level": "Elsa 群发 BCC 已触达 2026-05-12「10G Enterprise SFP Switch」（正文「Price: 280usd/pc」，第 74 批(p) 读稿），misc(TR/TN/TZ/NL/SA/BE/RU) 批次 To info@andasis.com，0 回（第 73 批(o) Bcc 头核对 msg 19e1b893e9c06378）；S/A 箱：S/A 邮箱均无往来；来源：用户表「兴趣：做项目的 让发介绍资料；回复：read」",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "Elsa 群发 BCC 触达过（最近 2026-05-12）无回；S/A 箱从未单独发过",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "沙特阿拉伯 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：做项目的 让发介绍资料；回复：read」；研究档 risks：公用事业项目（守界：民用水务可供，按单核最终用户）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@andasis.com）2025-03-01→2026-05-12 共 14 轮群发（8 Port Industrial PoE Switch、Marvell Alleycat5 Solution、Commercial Network Switch、Industrial PoE Switch、16 Port Ethernet Switch、48 Port PoE Managed Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch、Booster PoE Switch、OEM Core Switching Solution、Updated Ethernet Switches Links、Marvell Managed Commercial Switches），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
+  },
+  "situation": "阿联酋工业自动化集成商（SCADA、PLC、UPS、控制系统；水 / 污水与工业厂站；100+ 客户；+971 54 585 1777），Arjun Muralidharan（LinkedIn 来源）：做项目，让发介绍资料，2023-04 已读 featured models 册；7 次跟进无实质回复。表内国家沙特，域名 / 电话为阿联酋（待核，不改）。",
+  "need": "SCADA 柜内工业管理交换机 → STI-288GPM（$82.2 @25%）；非 PoE STI-280GM。",
+  "breakpoint": "公用事业项目（守界：民用水务可供，按单核最终用户）",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-12 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-12；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）",
+   "why": "SCADA 柜内工业管理交换机 → STI-288GPM（$82.2 @25%）；非 PoE STI-280GM。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2025-03-01",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@andasis.com，misc(TR/TN/TZ/NL/SA/BE/RU) 批次）",
+    "quote": "8 Port Industrial PoE Switch — This is a Marvell based unmanaged 8 Port Gigabit PoE switch. 1. 30W per port for outdoor IP cameras 2. Support 250-meter PoE distance, PoE watchdog an",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 arjun.murali@fuzzylogicautomation.com, fuzzylogicautomation.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-05-12",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@andasis.com，misc(TR/TN/TZ/NL/SA/BE/RU) 批次）",
+    "quote": "10G Enterprise SFP Switch — 24×1G SFP + 8 combo + 4×10G SFP+ managed, dual AC（价格不在摘要里；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 arjun.murali@fuzzylogicautomation.com, fuzzylogicautomation.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：做项目的 让发介绍资料；回复：read",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-25"
+ },
+ "country_fix": "阿联酋"
 }

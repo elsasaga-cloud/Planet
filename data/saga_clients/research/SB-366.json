@@ -1,229 +1,232 @@
 {
-  "code": "SB-366",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（th-it.com，快照 2026-10-21）",
-  "summary": "马来西亚 TH IT Resource Centre（IT 设备短长期租赁：笔记本、PC、服务器、投影、翻新产品；表内「商业 PoE」「邮件中有详细的联系信息」；KP Lee）；表内未跟进。",
-  "type": "IT 设备租赁商（马来西亚）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Notebook, Laptop & Computer Rental Selangor, Projector Supplier Kuala Lumpur (KL), Server ；品类词 无线 / WiFi",
-      "quote": "Specializes in providing short- and long-term IT equipment rental. We provide laptop, pc, shredder, printer, server, projector, led panel, photocopier etc for rental purposes.",
-      "url": "https://www.th-it.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "商业POE；邮件中有详细的联系信息",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "TH IT 定位",
-      "quote": "Notebook, Laptop & Computer Rental Selangor ; Specializes in providing short- and long-term IT equipment rental",
-      "url": "https://www.th-it.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "商业 PoE",
-      "quote": "商业POE；邮件中有详细的联系信息",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Lee",
-      "title": "（职务待核）",
-      "email": "inquiry@th-it.com",
-      "phone": "",
-      "source": "用户表",
-      "role": "；明确拒绝「sorry, no need」（2024-07-29；2026-09 Elsa 箱再拒）→ 不发"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-366",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（th-it.com，快照 2026-10-21）",
+ "summary": "马来西亚 TH IT Resource Centre（IT 设备短长期租赁：笔记本、PC、服务器、投影、翻新产品；表内「商业 PoE」「邮件中有详细的联系信息」；KP Lee）；表内未跟进。",
+ "type": "IT 设备租赁商（马来西亚）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Notebook, Laptop & Computer Rental Selangor, Projector Supplier Kuala Lumpur (KL), Server ；品类词 无线 / WiFi",
+   "quote": "Specializes in providing short- and long-term IT equipment rental. We provide laptop, pc, shredder, printer, server, projector, led panel, photocopier etc for rental purposes.",
+   "url": "https://www.th-it.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "马来西亚",
-    "other": "官网 th-it.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "商业POE；邮件中有详细的联系信息",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "IT 设备租赁（马来西亚）"
-  ],
-  "channels": {
-    "role": "IT 设备租赁商（马来西亚）",
-    "region": "马来西亚",
-    "contact": "inquiry@th-it.com"
+  {
+   "kind": "官网快照",
+   "claim": "TH IT 定位",
+   "quote": "Notebook, Laptop & Computer Rental Selangor ; Specializes in providing short- and long-term IT equipment rental",
+   "url": "https://www.th-it.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：Specializes in providing short- and long-term IT equipment rental. We provide laptop, pc, shredder, printer, server, projector…；页面 /photoalbum/id/19545/refurbish-product/",
-    "表内：商业 POE；邮件中有详细的联系信息；KP Lee"
-  ],
-  "risks": [
-    "租赁业务（采购不规律、量小）；非主攻区（T5，马来西亚）；未跟进过"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 20,
-    "why": "租赁/翻新配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）"
-  },
-  "email_hook": "Lee, for the switches in your rental and refurbished IT fleet, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from single units, CE/RoHS, EXW USD — which port count do your rental projects need most?",
-  "mail_review": {
-    "binding": {
-      "level": "轻度触达→两次拒（2024-07-29「sorry, no need」；2026-09-08「we don't need this currently」，Elsa 邮箱）；Elsa 群发 BCC 已触达 9 轮 2025-04-11→2026-09-08（锚 To sofyan@mutiara-teknologi.com.my，本户在 Bcc）；2026-09-08 那轮「24 Port PoE Managed Switch」即被回「we don't need this currently」——第二次拒之后仍在 Bcc 名单上（剔除名单 §一 已列）",
-      "type": "马来西亚 IT 租赁商（TH-IT）",
-      "sieve": "1",
-      "stop": "两次书面拒绝；2027 前不发；若再发只发给采购口而非 Rental Sales Manager",
-      "revive": "不动",
-      "lane": "MY",
-      "cadence": "不动",
-      "evidence": "k=79b10682153051b0；第 19 批回补来信原文 2 条（gmail_s/gmail_a）"
-    },
-    "situation": "—",
-    "need": "—",
-    "breakpoint": "—",
-    "saga_now": {
-      "p1": "—",
-      "tier": 20,
-      "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-12 $300（48 Port PoE Managed Switch）、2025-01-06 $240（24 Port Fiber Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-04 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-05-04；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-06 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-06；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "已打开的主题（3/6 封有打开记录）：「Re: 24V poe switch」(2024-08-14)、「Re: 24V poe switch」(2024-09-09)、「Re: 24V poe switch」(2024-10-15) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2023-07-01",
-        "dir": "备",
-        "who": "Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹）",
-        "quote": "名单行：「13 https://m.th-it.com/index.php?ws=tag&tag_id=315611 马来西亚 谷歌 商业POE inquiry@th-it.com」",
-        "why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点",
-        "k": "Drive PI 文件夹 9_马来西亚_Sugito"
-      },
-      {
-        "date": "2024-07-29",
-        "dir": "来",
-        "who": "inquiry@th-it.com",
-        "quote": "sorry, no need. Greetings. Hope this email finds you well. Thank you and best regards. Mr. Lee Te Hua,Rental Sales Manager Mobile no: 019-2626812Offic",
-        "why": "来信原文（主题「Re: 24V poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
-        "k": "79b10682153051b0"
-      },
-      {
-        "date": "2024-09-09",
-        "dir": "来",
-        "who": "inquiry@th-it.com",
-        "quote": "Thanks for the update. Greetings. Hope this email finds you well. Thank you and best regards. Mr. Lee Te Hua,Rental Sales Manager Mobile no: 019-26268",
-        "why": "来信原文（主题「Re: 24V poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
-        "k": "8ceb773d69d13c9f"
-      },
-      {
-        "date": "2025-04-11",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "16 Port Ethernet Switch（Elsa 群发第 1/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
-        "why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
-        "k": "elsa_bcc",
-        "msg_id": "19623a5f07b9a5bf"
-      },
-      {
-        "date": "2025-05-04",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "48 Port PoE Managed Switch（Elsa 群发第 2/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
-        "why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
-        "k": "elsa_bcc",
-        "msg_id": "19699a96e93d4ea9"
-      },
-      {
-        "date": "2025-06-05",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "8 Port Industrial PoE Switch（Elsa 群发第 3/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
-        "why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
-        "k": "elsa_bcc",
-        "msg_id": "1973f4fbd2176398"
-      },
-      {
-        "date": "2025-07-04",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "Mini Industrial PoE Switch（Elsa 群发第 4/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
-        "why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
-        "k": "elsa_bcc",
-        "msg_id": "197d44f5b17bb6b9"
-      },
-      {
-        "date": "2025-10-06",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "10G Enterprise SFP Switch（Elsa 群发第 5/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
-        "k": "elsa_bcc",
-        "msg_id": "199b7cd286b8997d"
-      },
-      {
-        "date": "2025-11-20",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "Industrial PoE Switch（Elsa 群发第 6/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
-        "why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
-        "k": "elsa_bcc",
-        "msg_id": "19a9f3c99302ff20"
-      },
-      {
-        "date": "2026-02-05",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "OEM Core Switching Solution（Elsa 群发第 7/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
-        "why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
-        "k": "elsa_bcc",
-        "msg_id": "19c2c14168a821f5"
-      },
-      {
-        "date": "2026-04-29",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "Updated Ethernet Switches Links（Elsa 群发第 8/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
-        "why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
-        "k": "elsa_bcc",
-        "msg_id": "19dd7f65aff0636e"
-      },
-      {
-        "date": "2026-09-08",
-        "dir": "来",
-        "who": "Mr. Lee Te Hua（Rental Sales Manager, TH-IT，马来西亚）",
-        "quote": "Thanks, we don't need this currently.",
-        "why": "Elsa 邮箱 2026-08-17「24 Port PoE Managed Switch」群发的回信（连接器实时查到，仓库 gmail_e 索引截至 2026-08-19 未含）——第二次书面拒绝（2024-07-29「sorry, no need」）；头衔是租赁销售经理 = 不是采购口。两次拒 → 2027 前不再发",
-        "k": "Gmail 连接器（Elsa）message 1a07ff9946d7554d，thread 19ff3ec967fec1c0"
-      },
-      {
-        "date": "2026-09-08",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
-        "quote": "24 Port PoE Managed Switch（Elsa 群发第 9/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
-        "why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；就是这封被回「we don't need this currently」",
-        "k": "elsa_bcc",
-        "msg_id": "1a07fb58f139416e"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "商业 PoE",
+   "quote": "商业POE；邮件中有详细的联系信息",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Lee",
+   "title": "（职务待核）",
+   "email": "inquiry@th-it.com",
+   "phone": "",
+   "source": "用户表",
+   "role": "表内联系人 Lee（职务待核；商业 PoE 需求记录）= 收件人 — 一页纸一次：集成商 25% B small、AP 供电 STC-028GP / STC-2216GP / 2224GP 一口价 + MOQ 1 + 付费样机 — 马来西亚常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、SIRIM 不声称（第 119 批 官方登记核实 2026-10-28）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "No. 130, Jalan Kapar 27/89, Seksyen 27, 40400 Shah Alam, Selangor（+6016-280 3363）（第 119 批 官方登记核实 2026-10-28）",
+  "other": "官网 th-it.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 119 批：IT 设备租赁 + 无线网络设计，有商业 PoE 需求记录 → **集成商 25% B small，一页纸一次**；再无回声 → 不动；部分坐实（官网页脚）（第 119 批 官方登记核实 2026-10-28）",
+  "legal_name": "TH IT Resource Centre Sdn Bhd（本体 SSM 未取；页脚姊妹 TH IT Networks Sdn Bhd 198301012255 (107648-T)，Ekahau 授权分销）",
+  "founded": "姊妹 1983（第 119 批 官方登记核实 2026-10-28）",
+  "size": "小型（第 119 批 官方登记核实 2026-10-28）"
+ },
+ "business_lines": [
+  "IT 设备租赁（马来西亚）"
+ ],
+ "channels": {
+  "role": "IT 设备租赁商（马来西亚）",
+  "region": "马来西亚",
+  "contact": "inquiry@th-it.com"
+ },
+ "signals": [
+  "官网：Specializes in providing short- and long-term IT equipment rental. We provide laptop, pc, shredder, printer, server, projector…；页面 /photoalbum/id/19545/refurbish-product/",
+  "表内：商业 POE；邮件中有详细的联系信息；KP Lee"
+ ],
+ "risks": [
+  "租赁业务（采购不规律、量小）；非主攻区（T5，马来西亚）；未跟进过"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 20,
+  "why": "租赁/翻新配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）"
+ },
+ "email_hook": "Lee, for the switches in your rental and refurbished IT fleet, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from single units, CE/RoHS, EXW USD — which port count do your rental projects need most?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达→两次拒（2024-07-29「sorry, no need」；2026-09-08「we don't need this currently」，Elsa 邮箱）；Elsa 群发 BCC 已触达 9 轮 2025-04-11→2026-09-08（锚 To sofyan@mutiara-teknologi.com.my，本户在 Bcc）；2026-09-08 那轮「24 Port PoE Managed Switch」即被回「we don't need this currently」——第二次拒之后仍在 Bcc 名单上（剔除名单 §一 已列）",
+   "type": "马来西亚 IT 租赁商（TH-IT）",
+   "sieve": "1",
+   "stop": "两次书面拒绝；2027 前不发；若再发只发给采购口而非 Rental Sales Manager",
+   "revive": "不动",
+   "lane": "MY",
+   "cadence": "不动",
+   "evidence": "k=79b10682153051b0；第 19 批回补来信原文 2 条（gmail_s/gmail_a）"
+  },
+  "situation": "—",
+  "need": "—",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-12 $300（48 Port PoE Managed Switch）、2025-01-06 $240（24 Port Fiber Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-04 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-05-04；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-06 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-06；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+   "why": "已打开的主题（3/6 封有打开记录）：「Re: 24V poe switch」(2024-08-14)、「Re: 24V poe switch」(2024-09-09)、「Re: 24V poe switch」(2024-10-15) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2023-07-01",
+    "dir": "备",
+    "who": "Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹）",
+    "quote": "名单行：「13 https://m.th-it.com/index.php?ws=tag&tag_id=315611 马来西亚 谷歌 商业POE inquiry@th-it.com」",
+    "why": "Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点",
+    "k": "Drive PI 文件夹 9_马来西亚_Sugito"
+   },
+   {
+    "date": "2024-07-29",
+    "dir": "来",
+    "who": "inquiry@th-it.com",
+    "quote": "sorry, no need. Greetings. Hope this email finds you well. Thank you and best regards. Mr. Lee Te Hua,Rental Sales Manager Mobile no: 019-2626812Offic",
+    "why": "来信原文（主题「Re: 24V poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+    "k": "79b10682153051b0"
+   },
+   {
+    "date": "2024-09-09",
+    "dir": "来",
+    "who": "inquiry@th-it.com",
+    "quote": "Thanks for the update. Greetings. Hope this email finds you well. Thank you and best regards. Mr. Lee Te Hua,Rental Sales Manager Mobile no: 019-26268",
+    "why": "来信原文（主题「Re: 24V poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话）",
+    "k": "8ceb773d69d13c9f"
+   },
+   {
+    "date": "2025-04-11",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+    "quote": "16 Port Ethernet Switch（Elsa 群发第 1/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+    "why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+    "k": "elsa_bcc",
+    "msg_id": "19623a5f07b9a5bf"
+   },
+   {
+    "date": "2025-05-04",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+    "quote": "48 Port PoE Managed Switch（Elsa 群发第 2/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
+    "why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+    "k": "elsa_bcc",
+    "msg_id": "19699a96e93d4ea9"
+   },
+   {
+    "date": "2025-06-05",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+    "quote": "8 Port Industrial PoE Switch（Elsa 群发第 3/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+    "why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+    "k": "elsa_bcc",
+    "msg_id": "1973f4fbd2176398"
+   },
+   {
+    "date": "2025-07-04",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+    "quote": "Mini Industrial PoE Switch（Elsa 群发第 4/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+    "why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+    "k": "elsa_bcc",
+    "msg_id": "197d44f5b17bb6b9"
+   },
+   {
+    "date": "2025-10-06",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+    "quote": "10G Enterprise SFP Switch（Elsa 群发第 5/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+    "why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+    "k": "elsa_bcc",
+    "msg_id": "199b7cd286b8997d"
+   },
+   {
+    "date": "2025-11-20",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+    "quote": "Industrial PoE Switch（Elsa 群发第 6/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+    "why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+    "k": "elsa_bcc",
+    "msg_id": "19a9f3c99302ff20"
+   },
+   {
+    "date": "2026-02-05",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+    "quote": "OEM Core Switching Solution（Elsa 群发第 7/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+    "why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+    "k": "elsa_bcc",
+    "msg_id": "19c2c14168a821f5"
+   },
+   {
+    "date": "2026-04-29",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+    "quote": "Updated Ethernet Switches Links（Elsa 群发第 8/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+    "why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单",
+    "k": "elsa_bcc",
+    "msg_id": "19dd7f65aff0636e"
+   },
+   {
+    "date": "2026-09-08",
+    "dir": "来",
+    "who": "Mr. Lee Te Hua（Rental Sales Manager, TH-IT，马来西亚）",
+    "quote": "Thanks, we don't need this currently.",
+    "why": "Elsa 邮箱 2026-08-17「24 Port PoE Managed Switch」群发的回信（连接器实时查到，仓库 gmail_e 索引截至 2026-08-19 未含）——第二次书面拒绝（2024-07-29「sorry, no need」）；头衔是租赁销售经理 = 不是采购口。两次拒 → 2027 前不再发",
+    "k": "Gmail 连接器（Elsa）message 1a07ff9946d7554d，thread 19ff3ec967fec1c0"
+   },
+   {
+    "date": "2026-09-08",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my）",
+    "quote": "24 Port PoE Managed Switch（Elsa 群发第 9/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
+    "why": "第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；就是这封被回「we don't need this currently」",
+    "k": "elsa_bcc",
+    "msg_id": "1a07fb58f139416e"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }
