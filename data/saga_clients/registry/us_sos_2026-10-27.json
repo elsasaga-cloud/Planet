@@ -4,7 +4,7 @@
   "source": "USA · 州务卿登记 / OpenCorporates",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 123
+  "count": 132
  },
  "rows": {
   "SA-002": {
@@ -4175,6 +4175,292 @@
    ],
    "notes": "机会型采购 低概率；一页纸；部分坐实；母体实体清单身份只记档。",
    "code": "SB-004"
+  },
+  "SB-548": {
+   "batch": 106,
+   "name": "Netsys-America, LLC（d/b/a netsys-direct.com；马里兰 Millersville）— 台湾 Netsys 网通产品在美 / 加 / 中南美 / 加勒比的授权代表（Shopify 直销：VDSL2 / G.hn / EoC 以太网延长器、PoE 延长器；自有 NV 系列 = Netsys 产品）；MD SDAT 号未取 → 部分坐实；群发 9 次无回复",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：官网 About（Netsys-America (d/b/a www.netsys-direct.com), a Limited Liability Company headquartered in Millersville, Maryland … Authorized Representative for Netsys Products & Services in the United States, Canada, Central America, South America and the Caribbean）+ Customer Service（8338 Veterans Highway Suite 205A Millersville MD 21108；1-877-638-7971；info@netsys-america.com）+ Crunchbase（Legal Name Netsys-America, LLC；原 Derwood MD）+ RocketReach（PO Box 5719 Derwood；营收口径 $5M 不采）+ 新闻稿（NL-230FKIT 等新品）；MD SDAT 登记号未取",
+   "url": "https://www.netsys-direct.com/pages/about-us",
+   "number": "MD LLC（SDAT 号未取）",
+   "status": "Active（网店在线）",
+   "incorporated": "未取",
+   "company_type": "LLC（私有；小型）",
+   "sic": [
+    "网络延长设备代理 / 网店（台湾 Netsys 美洲授权代表；DSL / G.hn / EoC / PoE 延长器）"
+   ],
+   "address": "8338 Veterans Highway, Suite 205A, Millersville, MD 21108（旧址 Derwood / Bowie MD）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小微（推定 <5 人）",
+   "officers": [
+    "（未具名）— 收件人 info@netsys-america.com"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**同行品牌代理（卖台湾 Netsys 的延长器）→ PoE 交换机是它的相邻缺口：分销 20% small，一页纸（STC-028GP / STC-228GP 配其 PoE 延长器）一次后不动**",
+    "9 次群发无回复；稿内不点名 Netsys；发信窗口 Wed 08–10 ET"
+   ],
+   "notes": "分销 20% small；一页纸后不动；部分坐实（LLC 名 + 地址官网自述）。",
+   "code": "SB-548"
+  },
+  "SB-742": {
+   "batch": 106,
+   "name": "VIZMA TECHNOLOGY, LLC（d/b/a CCTVROOM / VIZMA / S-VIDIA；华盛顿州 Tacoma；WA UBI 602984088）— 2010-01-11 成立的家族 CCTV 网店 + 安装商（住宅 / 商业 / 工业 / DIY；2–4 人；业主兼注册代理人 Val Zakharov）；表内「MC / SFP / 工业 FS 都有但不多；用 Utepo 工业 FS」；群发 18 次无回复",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：datalog（WA SoS 登记：VIZMA TECHNOLOGY, LLC；USWA602984088；founded 2010-01-11；Active；Registered Agent VAL ZAKHAROV 222 E 26TH ST STE 105 TACOMA WA 98421；trade names CCTVROOM / VIZMA 2010-01-21）+ Manta（Vizma Technology LLC dba CCTVRoom；family owned；2–4 employees；SIC 7382）+ ZoomInfo（15+ 年；residential / commercial / industrial / DIY）+ D&B（Lakewood WA 旧址；2 人）",
+   "url": "http://www.datalog.co.uk/browse/detail.php/CompanyNumber/USWA602984088/CompanyName/VIZMA+TECHNOLOGY,+LLC",
+   "number": "WA UBI 602984088",
+   "status": "Active",
+   "incorporated": "2010-01-11",
+   "company_type": "LLC（家族私有）",
+   "sic": [
+    "CCTV 网店 + 安装（SIC 7382 安防系统服务）"
+   ],
+   "address": "222 E 26th St, Ste 105, Tacoma, WA 98421",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小微（2–4 人）",
+   "officers": [
+    "Val Zakharov — 业主 / 注册代理人 = 收件人（info@ / sales@）"
+   ],
+   "psc": "Val Zakharov",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**家族 CCTV 小店（用 Utepo 工业 FS）→ 集成商 25% small，一页纸（STI-054GP / STI-144GP 替代其工业 FS + STC-028GP）一次后不动**；18 次无回复，二次触达必换切口且仅一次",
+    "收件人 Val Zakharov；稿内不点名 Utepo；发信窗口 Wed 08–10 PT"
+   ],
+   "notes": "集成商 25% small；一页纸一次后不动；坐实（WA UBI）。",
+   "code": "SB-742"
+  },
+  "SB-760": {
+   "batch": 106,
+   "name": "Galaxy Security Corporation（galaxysecurity.com；**加拿大安大略 Markham**，非美国）— 2006 年成立的北美 CCTV 自有品牌商 / 批发商（自称 manufacturer；面向 dealers & installers；Uniview Canada 合作伙伴；25–50 人；Markham 总部 + Mississauga 仓）；CEO Annie Chen（2006 起；= 研究档 KP annie@）；安大略公司号未取 → 部分坐实；群发 19 次无回复",
+   "iso": "CA",
+   "fetched": "2026-10-28",
+   "source": "US→CA · 1 次检索：官网 About（leading manufacturer of Security Cameras Systems (CCTV) in North America, headquartered in Markham, Canada；Motto 署名 Annie Chen, Chief Executive Officer；7755 Warden Ave Unit 1 Markham ON L3R 0N3；info@；1-866-946-8998）+ LinkedIn 公司页（Founded 2006；Markham ON + Mississauga 1200 Aerowood Dr；51–200 口径）+ PitchBook（25 人）+ prospeo（21–50；Founded 2006；CEO Annie Chen）+ Uniview Canada 合作伙伴页 + Annie Chen LinkedIn（CEO Jun 2006–present）；安大略公司登记号未取",
+   "url": "https://www.galaxysecurity.com/pages/about-us",
+   "number": "安大略公司（登记号未取）",
+   "status": "Active",
+   "incorporated": "2006",
+   "company_type": "Corporation（私有）",
+   "sic": [
+    "CCTV / IP 摄像机 / 对讲 / 门禁自有品牌批发（dealers & installers）；Uniview 加拿大合作伙伴"
+   ],
+   "address": "7755 Warden Ave, Unit 1, Markham, ON L3R 0N3, Canada（+ 1200 Aerowood Dr, Mississauga）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "中小（25–50 人）",
+   "officers": [
+    "Annie Chen — CEO（2006 起）= 拍板人 / 收件人（annie@）",
+    "Sven Liang — Branch Manager（研究档；info@）"
+   ],
+   "psc": "Annie Chen",
+   "charges": "",
+   "prev_names": [
+    "Smart Vision Direct（关联商号）"
+   ],
+   "lines": [
+    "**自有品牌 CCTV 批发商（卖给安装商）→ 贴标 OEM 30% 可谈（Galaxy 标 PoE 交换机配其摄像机套装）+ 分销 20%，B BIG，加厚一次；升 A 次候选**",
+    "**国别更正：加拿大安大略（研究档误记美国）**；收件人 annie@（CEO 本人）+ 抄 info@；19 次无回复 → 二次触达换切口「PoE switch under your own label for your dealer kits」；发信窗口 Wed 08–10 ET；华裔 CEO → 中文直联 Simon 定（默认否）"
+   ],
+   "notes": "贴标 30% 可谈 + 分销 20%；B BIG；加厚一次；升 A 次候选；country_fix 加拿大；部分坐实。",
+   "code": "SB-760"
+  },
+  "SB-262": {
+   "batch": 106,
+   "name": "Software Effect Enterprises, Inc（seei.biz / softwareeffect.com；佐治亚 Newnan）— 2 人数据中心 / 网络支持工具小公司（Red Hat / CentOS / Cacti / Nagios / Juniper；站内发交换机操作文章）；业主 Charles H. Deling（= 研究档 KP charles@）；Shopify 询盘「4 光 8 电管理型交换机 MIB」；GA 公司号未取 → 部分坐实",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：官网 seei.biz（Software Effect Enterprises, Inc；Specialized Products For Network Support；Red Hat / Centos / Cacti / Nagios / Juniper）+ ZoomInfo（PO Box 1514 Newnan GA 30264；2 employees；(678) 854-0250）+ peoplefinders（Charles Deling，Newnan GA；Workplaces Software Effect Enterprises, Inc）；GA SoS 控制号未取",
+   "url": "https://www.seei.biz/",
+   "number": "GA Corporation（控制号未取）",
+   "status": "Active（官网在线）",
+   "incorporated": "未取",
+   "company_type": "Inc（个人公司）",
+   "sic": [
+    "网络支持工具 / 技术站（2 人）"
+   ],
+   "address": "PO Box 1514, Newnan, GA 30264",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小微（2 人）",
+   "officers": [
+    "Charles H. Deling — 业主 = 收件人本人"
+   ],
+   "psc": "Charles H. Deling",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**2 人技术站，要的是 MIB 资料 → 采购型 small：一页纸（回 MIB 可提供 + STC-228GP 8 电 2 光 2 SFP 管理型价）一次后不动**",
+    "收件人 charles@ 直呼 Charles；发信窗口 Wed 08–10 ET"
+   ],
+   "notes": "采购型 small；一页纸后不动；部分坐实。",
+   "code": "SB-262"
+  },
+  "SB-293": {
+   "batch": 106,
+   "name": "VIRTUAL PROTECTIVE LLC（virtualprotective.com；德州 New Braunfels / Spring Branch；TX SoS 0802032860）— 2014-07-24 成立的工地 / 物业移动太阳能监控塔租赁 + 远程监控公司（SPP-2SP 太阳能杆机；≈8 人；TX 安保执照 B19488）；President Louis Byrd；研究档 KP Jonathan（Jon）Byrd 技术经理 = 收件人；Shopify 订单 90W PoE Injector（外购品）",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：OpenCorporates（VIRTUAL PROTECTIVE LLC；TX 0802032860；Incorporation 2014-07-24；In Existence；Agent LOUIS BYRD 4215 Richmond Spring Branch TX；Officers LOUIS BYRD president / director）+ 官网首页 / Contact（Virtual Protective LLC；License # B19488；244 FM 306 Ste 120-604 New Braunfels TX 78130；info@；830-542-2241）+ buzzfile（Spring Branch TX；≈8 人；Louis Byrd Prin）+ Google Play 开发者（jon@virtualprotective.com；New Braunfels）+ 官网 Solar Pole（7+ 年；SPP-2SP）",
+   "url": "https://opencorporates.com/companies/us_tx/0802032860",
+   "number": "TX SoS 0802032860",
+   "status": "In Existence",
+   "incorporated": "2014-07-24",
+   "company_type": "LLC（家族私有）",
+   "sic": [
+    "工地 / 物业移动太阳能监控塔租赁 + 远程视频监控（SIC 7382）"
+   ],
+   "address": "244 FM 306, Ste. 120-604, New Braunfels, TX 78130（登记代理 4215 Richmond Ave, Spring Branch, TX 78070）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小微（≈8 人）",
+   "officers": [
+    "Louis Byrd — President / 注册代理人 = 拍板人",
+    "Jonathan (Jon) Byrd — Technical Manager = 研究档 KP = 收件人"
+   ],
+   "psc": "Louis Byrd",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自建太阳能监控塔的小运营商 → 采购型 small：一页纸（塔内小型工业 PoE：STI-054GP 4 PoE+1 GE / STI-144GP 4+1 SFP；宽温 DC 供电）一次后不动**；其「USA built / NDAA」是它自家口径，我方稿内不碰 NDAA",
+    "收件人 jon@ 直呼 Jon，抄 Louis；发信窗口 Wed 08–10 CT"
+   ],
+   "notes": "采购型 small；一页纸后不动；坐实（TX SoS）。",
+   "code": "SB-293"
+  },
+  "SB-466": {
+   "batch": 106,
+   "name": "MicroFast Technologies / MRDS Distributers（mrdsdistributers.com；美国；酒店 / 办公 CCTV·PBX·布线 方案商）— 1 次检索仅命中印度 MICROFAST TECHNOLOGIES PRIVATE LIMITED（CIN U72900TG2018PTC125645）与英国 MICROFAST TECHNOLOGIES LTD（06696569）两家同名他家，美国主体未命中 → 未坐实；阿里巴巴询盘「同轴转网 EoC」（非 Saga 品类）；KP Manishkumar Patel；表内未跟进",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索未命中（sparkzont 印度 CIN 页 + Companies House 06696569 均为同名他家，不采）→ 未坐实，按规程不补查",
+   "url": "",
+   "number": "未取",
+   "status": "未知",
+   "incorporated": "未取",
+   "company_type": "未知",
+   "sic": [
+    "酒店 / 办公 CCTV·PBX·综合布线 方案（自述）"
+   ],
+   "address": "未取",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "未知",
+   "officers": [
+    "Manishkumar Patel — 研究档 KP（sales@mrdsdistributers.com）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**主体未坐实 + 询盘品类（EoC）我们不做 → 不动**；若其回信再问公司全称",
+    "同名陷阱：MicroFast Technologies Pvt Ltd（印度）/ Microfast Technologies Ltd（英国）均 ≠ 本户"
+   ],
+   "notes": "未坐实；不动。",
+   "code": "SB-466"
+  },
+  "SB-477": {
+   "batch": 106,
+   "name": "eminnovate.com（用户表：美国；公司名未核）— 1 次检索仅命中印度浦那 Eminnovate（eminnovate.co；IT 服务 / 全渠道平台；CEO Amit Lalwani）同名他家，.com 主体未命中 → 未坐实；用户表 1 次实质回复 + 2 次跟进；表内「待核」",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索未命中（prospectoo Eminnovate eminnovate.co 印度 ≠ 本户，不采）→ 未坐实，按规程不补查",
+   "url": "",
+   "number": "未取",
+   "status": "未知",
+   "incorporated": "未取",
+   "company_type": "未知",
+   "sic": [
+    "未知（用户表无业务描述）"
+   ],
+   "address": "未取",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "未知",
+   "officers": [
+    "（未具名）— 用户表联系人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**主体未坐实、业务未知 → 不动**；曾有 1 次实质回复，若再回信先问公司全称与业务，再定级",
+    "同名陷阱：Eminnovate（印度 eminnovate.co）≠ 本户"
+   ],
+   "notes": "未坐实；不动（回信时问全称）。",
+   "code": "SB-477"
+  },
+  "SB-252": {
+   "batch": 106,
+   "name": "Platinum CCTV（platinumcctv.com；伊利诺伊 Warrenville；自有品牌 Platinum CCTV™）— 2003 年以网店 Ez-Toyz.com 起家、后转自有品牌并在 Naperville / Warrenville 开展厅的商用监控方案商（选型式而非套装；车牌 / 热成像 / 仓库监控；≈6 人）；KP Paul Cutrano 现场运营总监（2019 起；= 研究档 KP paul@）+ Scott Davidson 客户经理；法定主体名 / IL 号未取 → 部分坐实；Simon「可以尝试多跟进一下」；群发 10 次无回复",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：Yelp 自述（Established in 2003；started as online-only ecommerce website under the name Ez-Toyz.com … transitioned into our branded Platinum CCTV™ name … opened our showroom facility in Naperville）+ LinkedIn 公司页（Warrenville IL；2–10 人；Founded 2003；30W270 Butterfield Rd #101）+ RocketReach（6 人；Paul Cutrano Director of Field Operations；Scott Davidson Account Manager）+ ZoomInfo（Paul Cutrano 2019–present；前 AT&T 技师）+ BBB / 官网 Contact（630-225-0693）；IL SoS 主体名 / 号未取",
+   "url": "https://www.linkedin.com/company/platinumcctv",
+   "number": "IL 主体（号未取）",
+   "status": "Active",
+   "incorporated": "2003",
+   "company_type": "私有小公司（法定形式未取）",
+   "sic": [
+    "商用监控系统选型 / 安装 / 展厅（自有品牌 Platinum CCTV™）"
+   ],
+   "address": "30W270 Butterfield Rd #101, Warrenville, IL 60555",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小微（≈6 人）",
+   "officers": [
+    "Paul Cutrano — Director of Field Operations（2019 起）= 研究档 KP = 收件人",
+    "Scott Davidson — Account Manager"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [
+    "Ez-Toyz.com（2003 起网店名）"
+   ],
+   "lines": [
+    "**自有标 CCTV 小方案商 + Simon 点名多跟 → 集成商 25%（商用 PoE：STC-028GP / STC-228GP / STC-2224GP）+ 小批量贴标 30% 可提，B，加厚一次（small）**",
+    "收件人 paul@ 直呼 Paul；10 次无回复 → 二次触达换切口「PoE switch matched to your camera counts, not a kit」；发信窗口 Wed 08–10 CT"
+   ],
+   "notes": "集成商 25%；B；加厚一次（small）；部分坐实。",
+   "code": "SB-252"
+  },
+  "SB-662": {
+   "batch": 106,
+   "name": "HSSL Technologies = HSSL Systems Integrator LLC（hssl.us / hsslcorp.com；纽约 99 Wall St Suite 553 虚拟办公室 + 加州 Irvine 邮箱地址）— 2018 年起的目录型企业 IT 硬件经销 / 报价站（自称 6,000+ 厂商 / 3M+ 产品；BigCommerce 网店；关联 hssl.ng 尼日利亚 + 英国 Kemp House 虚拟办公室）；业主 James Dubois；LinkedIn 201–500 口径与 RocketReach 12 人矛盾，取小；NY LLC 号未取 → 部分坐实；表内「卖 Edgecore 的」；群发 7 次无回复",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：scamadviser / scam-detector（域名注册组织 HSSL Systems Integrator LLC；James Dubois；99 Wall St 553 New York NY 10005）+ LinkedIn 公司页（HSSL Technologies；HSSL Systems Integrator；Founded 2018；NY + Irvine）+ hsslcorp.com About / Contact（authorised distributor for hundreds of manufacturers；Irvine CA 340 Culver Drive）+ hssl.ng 隐私政策（Americas 主体 HSSL Systems Integrator LLC；UK Branch Kemp House 160 City Road）+ RocketReach（12 人）+ Alignable（HSSL Systems Integrator LLC New York）；NY DOS 号未取",
+   "url": "https://www.linkedin.com/company/hsslus",
+   "number": "NY LLC（DOS 号未取）",
+   "status": "Active（网店在线）",
+   "incorporated": "2018",
+   "company_type": "LLC（私有；目录型）",
+   "sic": [
+    "企业 IT 硬件目录经销 / 报价站（网络 / 数据中心 / 存储 / 安防）"
+   ],
+   "address": "99 Wall St, Suite 553, New York, NY 10005（虚拟办公室）；340 Culver Drive, Irvine, CA 92604（邮箱）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小微（≈12 人口径；虚拟办公室）",
+   "officers": [
+    "James Dubois — 业主（域名注册人）= 收件人（info@hssl.us）"
+   ],
+   "psc": "James Dubois",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**虚拟办公室的目录型经销（卖 Edgecore 等）→ 分销 20% 低概率：一页纸（STH 10G/25G/100G 与 STC 价位表）一次后不动**；成交条件 100% 前 T/T，不做账期",
+    "收件人 info@ 点名 James Dubois；稿内不点名 Edgecore；7 次无回复；发信窗口 Wed 08–10 ET"
+   ],
+   "notes": "分销 20% 低概率；一页纸后不动；部分坐实；付款 100% 前 T/T。",
+   "code": "SB-662"
   }
  }
 }
