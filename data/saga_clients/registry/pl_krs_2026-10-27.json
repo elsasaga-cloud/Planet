@@ -4,7 +4,7 @@
   "source": "Poland · KRS 官方 API（api-krs.ms.gov.pl）+ 财政部 VAT 白名单 API（wl-api.mf.gov.pl）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 34
+  "count": 38
  },
  "rows": {
   "SA-023": {
@@ -1147,6 +1147,144 @@
    ],
    "notes": "OEM 首选；A 候选。",
    "code": "SB-784"
+  },
+  "SB-058": {
+   "batch": 98,
+   "name": "„SABMARTV” Marcin Wypiór（sabmar.tv；Rybnik）— 体育赛事网络直播 / 转播制作个体企业（摩托车速道赛 PPV）= 终端用户",
+   "iso": "PL",
+   "fetched": "2026-10-28",
+   "source": "PL · 1 次检索：GoWork（Nazwa pełna „SABMARTV” MARCIN WYPIOR；ul. Gruntowa 43D, 44-270 Rybnik；**NIP 6421823587；REGON 273230435**；Forma prawna Indywidualna działalność gospodarcza；Data rozpoczęcia 1997-05-14）+ Targeo（PKD 59.11.Z 影视 / 电视节目制作）+ krs-online / pkt.pl（Sabmar Studio foto-video，1996 起）+ WP SportoweFakty 2024-09-16（Marcin Wypiór = 网络电视 SABMARtv 所有人；速道赛转播）+ ppv.stream 规则页（组织者 SABMARtv, Rybnik, NIP 642-182-35-87）",
+   "url": "https://www.gowork.pl/sabmartv-marcin-wypior,25701005/dane-kontaktowe-firmy",
+   "number": "NIP 6421823587；REGON 273230435（CEIDG）",
+   "status": "Active（2024 转播活跃）",
+   "incorporated": "1997-05-14（CEIDG）",
+   "company_type": "Indywidualna działalność gospodarcza（个体）",
+   "sic": [
+    "59.11.Z 体育赛事网络直播 / 转播制作（2 辆转播车、虚拟演播室、PPV 平台）",
+    "27.31.Z 光缆生产（登记副业）"
+   ],
+   "address": "ul. Gruntowa 43D, 44-270 Rybnik（旧址 Modrzewiowa 22）",
+   "accounts": "—（个体）",
+   "accounts_due": "—",
+   "size_band": "微型（家庭经营；子 Błażej Wypiór 参与）",
+   "officers": [
+    "Marcin Wypiór — 业主 = 研究档 KP biuro@sabmar.tv"
+   ],
+   "psc": "Marcin Wypiór",
+   "charges": "",
+   "prev_names": [
+    "Sabmar Studio foto-video（1996）"
+   ],
+   "lines": [
+    "**终端用户（转播制作个体）**：买交换机只为自己转播车 / 演播室的 IP 视频网（SMPTE 2110 需要 PTP / 大缓存，非我们强项）→ **不加厚，一页纸即止**；若回信只报 STC-110XGE（10G）/ STC-424XGGPM-280W 两行",
+    "登记副业 27.31.Z 光缆生产 = 他们自己做光缆跳线 → 与我们无交集；复利无"
+   ],
+   "notes": "终端用户；低概率；下轮不追。",
+   "code": "SB-058"
+  },
+  "SB-1009": {
+   "batch": 98,
+   "name": "Batna Sp. z o.o.（batna24.com / anteny24.pl；Częstochowa）— Ubiquiti / MikroTik 欧洲主力分销商（2001 起；Mucha 家族）",
+   "iso": "PL",
+   "fetched": "2026-10-28",
+   "source": "PL · 1 次检索：rejestr.io（BATNA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ；**KRS 0001003926**；Prezes Zarządu Magdalena Mucha 2022-12-01 起；Kapitał 40,000 zł；Olgi Boznańskiej 3E, 42-202 Częstochowa）+ aleo（股东 Łukasz Jan Mucha 5 份 / Magdalena Marzena Mucha 5 份）+ D&B（REGON 380387214）+ rejestr.io 24 BATNA Sp. z o.o. Sp. k.（KRS 0000908391；NIP 5732927213；REGON 389288258；2021-06-25；komplementariusz = Batna Sp. z o.o.；komandytariusz Łukasz Jan Mucha）+ bizraport（主业 46.52 电子 / 电信设备批发；页面示「392,5 mln zł」规模指标，口径未明 → 仅作区间）+ kadorf / Facebook（2001 起；「main European distributor of Ubiquiti Networks and MikroTik」）+ batna24.com 产品卡（Batna sp. z o. o., ul. 1 Maja 23, 42-217 Częstochowa；+48 34 361 04 48）",
+   "url": "https://rejestr.io/krs/1003926/batna",
+   "number": "KRS 0001003926（Batna Sp. z o.o.）；REGON 380387214；关联 24 BATNA Sp. z o.o. Sp. k. KRS 0000908391 / NIP 5732927213",
+   "status": "Active（2026-09 产品卡仍以 Batna sp. z o.o. 开票）",
+   "incorporated": "2022-12-01（现 Sp. z o.o.；业务 2001 起；Sp. k. 2021-06-25）",
+   "company_type": "Sp. z o.o.（资本 40,000 zł；Mucha 夫妇各半）+ Sp. k. 经营体",
+   "sic": [
+    "46.52 无线 / 网络设备批发：Ubiquiti、MikroTik、Extralink、LigoWave、TP-Link、RF elements、Totolink（switch 301 / camera 231 / poe 92 SKU）",
+    "多语种电商（PL / IT / CS …）"
+   ],
+   "address": "ul. Olgi Boznańskiej 3E, 42-202 Częstochowa（注册）；ul. 1 Maja 23, 42-217 Częstochowa（开票 / 门店）",
+   "accounts": "第三方规模指标：数亿 zł 级（bizraport，口径未明）",
+   "accounts_due": "—",
+   "size_band": "大型（欧洲级 Ubiquiti / MikroTik 分销；B BIG）",
+   "officers": [
+    "Magdalena (Marzena) Mucha — Prezes Zarządu + 股东 50%",
+    "Łukasz Jan Mucha — 股东 50% + Sp. k. komandytariusz（实际经营者，推定）"
+   ],
+   "psc": "Mucha 夫妇",
+   "charges": "",
+   "prev_names": [
+    "24 BATNA Sp. z o.o. Sp. k.（经营体）"
+   ],
+   "lines": [
+    "**B BIG，分销 20%**：欧洲级 Ubiquiti / MikroTik 分销商 = 正是我们对标的两个牌子的货架 → 对标 MikroTik CRS / Ubiquiti USW 报 STC-424XGGPM-280W（$198 list）+ HRUI 入门线 + STC-110XGE（10G $65），卖点 = 同规格 -30% + Marvell L2+",
+    "2022-12 重组为 Sp. z o.o.（原 Sp. k.）= 正常化；研究档 KP 只有 shop@ → 写 zakupy / product manager「switche」抄 shop@；波兰为次级战场，但这家是 PL 名单里最大的渠道",
+    "意大利语站点曾被归入意大利名单（研究档）→ 以 PL 主体为准，不重复发；发信窗口 Thu 12–14 CET；**升 A 候选**（回信即 A）"
+   ],
+   "notes": "B BIG；分销 20%；升 A 候选。",
+   "code": "SB-1009"
+  },
+  "SB-1017": {
+   "batch": 98,
+   "name": "Cellco Communications Sp. z o.o.（cellco.com.pl；Kobylanka k. Szczecina + Warszawa 分部）— 光纤技术供应商 / 光缆生产（Wieczorek 家族）",
+   "iso": "PL",
+   "fetched": "2026-10-28",
+   "source": "PL · 1 次检索：官网 Kontakt（Cellco Communications Sp. z o.o.；ul. Szczecińska 30E, 73-108 Kobylanka；分部 Plac Konesera 12, 03-736 Warszawa；**NIP 852-18-26-706；KRS 0000213509 Sąd Rejonowy w Szczecinie；Kapitał 52,000 zł**；Tomasz Wieczorek = CEO / Prezes Zarządu tomasz.wieczorek@；Piotr Wieczorek = Zastępca Prezesa；Bartosz Wieczorek = Head of Technology (R&D)）+ rejestr.io（2004-08-03；Prezes Tomasz Piotr Wieczorek 2004 起 = 股东 + 实际受益人；规模指标 24 mln）+ aleo（Tomasz Piotr Wieczorek 416 份 / 41,600 zł = 80%）+ krs-online（PKD 27.31.Z 光缆生产）+ gowork（Piotr Mariusz Wieczorek 副总）",
+   "url": "https://www.cellco.com.pl/kontakt.htm",
+   "number": "KRS 0000213509（Szczecin）；NIP 8521826706",
+   "status": "Active（2026 官网更新）",
+   "incorporated": "2004-08-03",
+   "company_type": "Sp. z o.o.（资本 52,000 zł；Tomasz Wieczorek 80%）",
+   "sic": [
+    "27.31.Z 光缆生产 / 光纤技术供应：光缆、CWDM、GPON、跳线、光纤配线架、10G / FTTH",
+    "少量 MC / 交换机配套"
+   ],
+   "address": "ul. Szczecińska 30E, 73-108 Kobylanka（总部）；Plac Konesera 12, 03-736 Warszawa（分部）",
+   "accounts": "第三方规模指标 ≈24 mln zł（rejestr.io，口径未明）",
+   "accounts_due": "—",
+   "size_band": "小型 / 中型（家族企业）",
+   "officers": [
+    "Tomasz Piotr Wieczorek — Prezes Zarządu + 80% 股东 + 实际受益人 = 研究档 KP tomasz.wieczorek@ 本人",
+    "Piotr Mariusz Wieczorek — Zastępca Prezesa",
+    "Bartosz Wieczorek — Head of Technology (R&D)"
+   ],
+   "psc": "Tomasz Piotr Wieczorek（80%）",
+   "charges": "",
+   "prev_names": [
+    "Cellco S.A.（KRS 0000206576，2005-01 注销的前身）"
+   ],
+   "lines": [
+    "**研究档 KP 坐实 = 老板本人**（Prezes + 80% 股东）→ 发信直达决策人",
+    "光纤为主、交换机只是配套（表内「MC 较多 没咋看到 switch」）→ **分销 20%，窄品类**：只报带 SFP 上联 / 全光口的型号（STC-228GP 8+2 SFP $33–35、STC-2224GP 24+2+2、STC-110XGE 10G $65、STI-144GP 4+1 SFP 工业）做「光缆 + 光口交换机」配套，不发整本价格表",
+    "华沙 Plac Konesera（Koneser 园区）分部 = 面向运营商 / FTTH 项目；发信窗口 Thu 12–14 CET；不加厚"
+   ],
+   "notes": "KP = 老板本人；窄品类分销 20%。",
+   "code": "SB-1017"
+  },
+  "SB-1061": {
+   "batch": 98,
+   "name": "FHU „TELSAT” s.c.（obserwuj.pl；Tarnów）— CCTV 网店（民事合伙；Dahua 为主）",
+   "iso": "PL",
+   "fetched": "2026-10-28",
+   "source": "PL · 1 次检索：obserwuj.pl Regulamin / Kontakt（Właścicielem sklepu jest FHU„TELSAT” s.c.；ul. Rolnicza 7, 33-100 Tarnów；**NIP 993-00-03-405**；tel. 14 627 44 11）+ Ceneo 店铺页（NIP 9930003405；卖家为 CEIDG 登记个体经营者）",
+   "url": "https://www.obserwuj.pl/kontakt,p1.html",
+   "number": "NIP 9930003405（s.c.；合伙人 CEIDG 登记）",
+   "status": "Active（Ceneo 在列；官网 timeout 偶发）",
+   "incorporated": "未取（1 次即停）",
+   "company_type": "Spółka cywilna（FHU = Firma Handlowo-Usługowa，民事合伙）",
+   "sic": [
+    "CCTV 网店：AHD / IP 监控套装、录像机、摄像机（Dahua 为主）、配套 FS / VC / MC / SFP"
+   ],
+   "address": "ul. Rolnicza 7, 33-100 Tarnów",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型",
+   "officers": [
+    "合伙人姓名未公开（s.c.）"
+   ],
+   "psc": "合伙人",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "微型 CCTV 网店（民事合伙，Dahua 套装为主）→ **低概率，一页纸即止，不加厚**；若回信只报 HRUI STC-028GP $28 / STC-228GP $33",
+    "表内「大华产品比较多」= Dahua 自带 PoE 交换机 → 我们只在「非 Dahua 8/16 口价格带」有位置"
+   ],
+   "notes": "低概率；下轮不追。",
+   "code": "SB-1061"
   }
  }
 }

@@ -48,8 +48,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 engeniustech.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  "hq": "1580 Scenic Ave, Costa Mesa, CA 92626",
+  "other": "官网 engeniustech.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 98 批：**同行（台湾原厂自有品牌交换机的美国销售公司）→ 不发、剔出群发**；表内「商业 FS 大口、SFP、PoE 配件」是其产品线而非需求（第 98 批 官方登记核实 2026-10-28）",
+  "legal_name": "EnGenius Technologies, Inc.（加州；Senao Networks, Inc. 台湾 3558 100% 子公司）",
+  "founded": "1999（第 98 批 官方登记核实 2026-10-28）",
+  "staff": "201–500 人（母公司 2,500）"
  },
  "business_lines": [
   "Wi-Fi / 交换机 / 监控 / VPN 路由 / PDU（自有品牌）"

@@ -50,11 +50,12 @@
   "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-041，W 批次调研 2026-10-19/20）"
  },
  "company_facts": {
-  "legal_name": "Nokta Elektronik ve Bilişim Sistemleri",
-  "founded": "",
-  "hq": "İstanbul, 土耳其",
+  "legal_name": "Nokta Elektronik ve Bilişim Sistemleri Sanayi ve Ticaret A.Ş.（MERSİS 0631-0730-5210-0020；İstanbul Tic. Sicil 555138-0；原 Ltd. Şti.）",
+  "founded": "2005-05-26（A.Ş.；业务 2000 / 25 年以上）（第 98 批 官方登记核实 2026-10-28）",
+  "hq": "Perpa Ticaret Merkezi B Blok Kat 8 No. 906, 34384 Şişli / İstanbul；工厂 Arnavutköy",
   "size": "",
-  "other": "Planet 渠道档案 PB-041（2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL.json）；自有品牌：否；最大未知：Mikrotik 侧首触状态；PLANET 占比；是否要求 bt/LCD（Saga 无）"
+  "other": "Planet 渠道档案 PB-041（2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL.json）；自有品牌：否；最大未知：Mikrotik 侧首触状态；PLANET 占比；是否要求 bt/LCD（Saga 无）；第 98 批：**自有注册商标 upTech（TPTO 2008/13951，保护至 2028）下卖 PoE 交换机 / SFP / MC + 自有工厂 + bayi 渠道 + 中东 / 突厥 / 巴尔干出口 → OEM 30% 首选（TR），升 A 候选**；Dahua 分销伙伴；首页主推 PLANET GS-5220 → 对标报 STC-424XGGPM-280W；收件人 nokta@ 点名 upTech ürün müdürü / satın alma（第 98 批 官方登记核实 2026-10-28）",
+  "staff": "51–200 人"
  },
  "business_lines": [
   "分销商（自述「Güvenlik ve Network Distribütörü」安防与网络分销；ORing 授权；设 B2B 批发平台）"

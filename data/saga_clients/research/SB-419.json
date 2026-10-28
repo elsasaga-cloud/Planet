@@ -39,7 +39,15 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Andy Herron",
+   "role": "MXnet Systems Group（商业系统，2024-10 起；BusinessWire）= 收件人（研究档无 KP；邮箱未公开 → 官网表单 / sales@）（第 98 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.businesswire.com/news/home/20241010489206/en/AVPro-Global-Expands-MXnet-Systems-Group"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -48,8 +56,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 avproglobal.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Sioux Falls, SD（卫星：St. Petersburg / Seattle / Minneapolis / Bratislava / 深圳）",
+  "other": "官网 avproglobal.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 98 批：2026-01-14 CTO Matt Murray 升 CEO，创办人 Jeff Murray 任 Chairman；自有标 MXnet 交换机 AC-MXNET-SW24E / SW48E / 10G-SW24C → OEM 30% 目标；但有深圳办公室 = 已直采 → 卖点只能是 Marvell L2+ / IGMP 调优 / 3 年保修 / MOQ 1；B BIG（第 98 批 官方登记核实 2026-10-28）",
+  "legal_name": "AVPro Global Holdings, LLC（南达科他；Inc. 5000 2026 No. 4,514）",
+  "founded": "2013（第 98 批 官方登记核实 2026-10-28）",
+  "staff": "51–200 人"
  },
  "business_lines": [
   "AV 分配 / HDMI 延长 / 矩阵 / AV-over-IP（MXnet）",

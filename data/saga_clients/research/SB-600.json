@@ -49,8 +49,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 t1nexus.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  "hq": "47257 Fremont Blvd, Fremont, CA 94538（旧址 Santa Clara）；Swindon SN5 7EX",
+  "other": "官网 t1nexus.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 98 批：准同行（光模块品牌 + 白盒交换机 JV；姊妹公司 US OPTO）→ 低概率；唯一缝隙 = 其 MC / T1-DS2024G 小交换机凑品类 → 一页纸 STC / STI OEM 贴 T1 标 30%（第 98 批 官方登记核实 2026-10-28）",
+  "legal_name": "T1 Nexus（T1Nexus；台湾 / 亚洲光模块厂美国合资；CA 实体名未取；英国子公司 T1Nexus UK Limited）",
+  "founded": "2018（第 98 批 官方登记核实 2026-10-28）",
+  "staff": "11–50 人；≈$4M"
  },
  "business_lines": [
   "兼容光模块 / 线缆 / MC / 交换机（自有品牌 T1）"

@@ -4,7 +4,7 @@
   "source": "USA · 州务卿登记 / OpenCorporates",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 64
+  "count": 70
  },
  "rows": {
   "SA-002": {
@@ -2162,6 +2162,215 @@
    ],
    "notes": "OEM 首选。",
    "code": "SB-806"
+  },
+  "SB-823": {
+   "batch": 98,
+   "name": "SynchroNet Industries, Inc.（synchronet.net；West Seneca / Buffalo, NY）— 托管 IT 服务商（MSP，1998 起）",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：Clutch 档案引 NY Department of State Division of Corporations（Business Entity Name SynchroNet Industries, Inc.；Jurisdiction New York；Date of Formation 1999-02-12；Status Active；ID 2345709；Last Updated 2025-12-20）+ 官网 About（CEO Jerry Sheehan；Vice President Tanner Sanderson；serving Buffalo since 1998）+ ZoomInfo（1800 N America Dr Ste A, West Seneca NY 14224）+ RocketReach（27 人；$7M；旧址 3654 Clinton St）",
+   "url": "https://clutch.co/profile/synchronet-industries",
+   "number": "NY DOS ID 2345709",
+   "status": "Active（NY DOS，2025-12-20 更新）",
+   "incorporated": "1999-02-12（业务 1998 起）",
+   "company_type": "Inc.（纽约州；私有，老板 Jerry Sheehan）",
+   "sic": [
+    "托管 IT 服务 / IT 外包（MSP）：中小企业（医疗 / 制造 / 专业服务）网络运维、网络安全、备份、M365"
+   ],
+   "address": "1800 N America Dr, Suite A, West Seneca, NY 14224（旧址 3654 Clinton St, West Seneca）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（10–49 人；≈$7M）",
+   "officers": [
+    "Jerry Sheehan — CEO / President（创办人，1998 起）",
+    "Tanner Sanderson — Vice President（Sales / Business Development，2019 起）= 研究档 KP tanner@ 本人",
+    "Gordon Brandt — Engineer（研究档 KP gbrandt@）",
+    "Jason Carnevale — vCIO",
+    "Michael Zekas — Operations Manager"
+   ],
+   "psc": "Jerry Sheehan（推定；私有）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**研究档 KP 坐实**：Tanner Sanderson = 公司 VP（销售 / BD）本人，不是普通销售 → 发信对象正确；Gordon Brandt 为工程师 = 技术选型人，抄送",
+    "性质 = MSP（给客户采购 + 代运维）→ 不是品牌商也不是分销商，走 **小项目集成商 25%**；买点是「客户项目用的堆叠 / PoE 接入交换机便宜 30–40%、3 年保修（STI）」",
+    "表内「Stacking」→ 只有 STH（CENTEC）能堆叠；MSP 中小客户更可能用 STC-4424GCPM / STC-424XGGPM-280W 做接入 + 10G 上联，一页纸写两档价即可",
+    "发信窗口 Wed 08–10 ET；不加厚（MSP 复购靠项目，复利一般）"
+   ],
+   "notes": "",
+   "code": "SB-823"
+  },
+  "SB-988": {
+   "batch": 98,
+   "name": "Go Get International LLC（dba Infinity Hardware；infinityhardware.us；High Point, NC）— 微型 IT 硬件转售 + BPO 混业",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：infinityhardware.com Terms（Supplier Go Get International LLC dba Infinity Hardware；EIN 85-3229984；Reseller ID 601316851；registered office 3975 Netherstone Ln, High Point NC 27265）+ cage.report / DUNS 011668947（Not Fully Registered in SAM；Year Established 2020；LLC；Other Minority Owned, Subcontinent Asian American；812 Parliament St）+ MapQuest（Go Get International 业务 = Infinity Hardware / Eutility / GSS BPO / lead generation / app development）+ LinkedIn（Muhammad Awais Liaqat, Go Get International LLC）",
+   "url": "https://infinityhardware.com/terms-and-conditions/",
+   "number": "EIN 85-3229984；DUNS 011668947（NC SoS 号未取，1 次即停）",
+   "status": "在营（SAM 未完成注册）",
+   "incorporated": "2020",
+   "company_type": "LLC（北卡；少数族裔所有）",
+   "sic": [
+    "新品 / 翻新服务器、存储、网络设备（Cisco 等）、IP 话机、监控摄像转售",
+    "兼营 BPO / 线索生成 / App 开发（Go Get International 多业务）"
+   ],
+   "address": "3975 Netherstone Ln, High Point, NC 27265（注册办公地 = 住宅区街道）/ 812 Parliament St, High Point, NC 27265",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（2–10 人）",
+   "officers": [
+    "Muhammad Awais Liaqat — Go Get International LLC（LinkedIn；职务未列）",
+    "研究档 KP「Purchase Manager」姓名仍未核"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "2020 年新起的家庭式 IT 转售 + BPO 混业微型 LLC（注册地为住宅街道，SAM 未完成）→ **低概率，一页纸即止，不加厚**；sales@ 群发保留",
+    "翻新设备为主 → 对新品 PoE 交换机价格敏感；若回信只给 HRUI 线（STC-028GP $28 / STC-228GP $33）两行价，付款 T/T 前 100%，不做账期"
+   ],
+   "notes": "低概率；下轮不追。",
+   "code": "SB-988"
+  },
+  "SB-419": {
+   "batch": 98,
+   "name": "AVPro Global Holdings, LLC（avproglobal.com；Sioux Falls, SD）— 自有品牌 AV 制造商（AVPro Edge / MXnet AV-over-IP 自有标网络交换机）",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：avproglobal.com 新闻稿 2026-01-14（AVPro Global Holdings LLC = AVPro Edge / AudioControl Pro / Bullet Train / RTI / ProControl / ThenAudio / Murideo 母公司；Matt Murray 由 CTO 升 CEO，创办人 Jeff Murray 转任 Chairman；总部 Sioux Falls SD，卫星办公室 St. Petersburg FL / Seattle / Minneapolis，欧洲 Bratislava，**深圳办公室**）+ Inc. 5000 2026（No. 4,514；Year Founded 2013；51–200 人）+ BusinessWire 2024-10-10（MXnet Systems Group 新设，Andy Herron / Deby Jimenez 负责商业系统）+ D&B（Key Principal Jeffrey Murray）",
+   "url": "https://www.avproglobal.com/blogs/news/avpro-global-names-matt-murray-ceo-as-founder-jeff-murray-becomes-chairman",
+   "number": "SD 登记号未取（SD SoS 可查，本次 1 次即停）",
+   "status": "Active（Inc. 5000 2026 上榜）",
+   "incorporated": "2013",
+   "company_type": "LLC（南达科他；私有家族控股，Murray 父子）",
+   "sic": [
+    "AV 分配 / AV-over-IP 设备制造（HDMI 矩阵、编解码器、控制系统 RTI）",
+    "自有标网络交换机 AC-MXNET-SW24E / SW48E / 10G-SW24C（配 MXnet 生态，含 PoE / 10G）"
+   ],
+   "address": "Sioux Falls, SD（总部）；卫星：St. Petersburg FL / Seattle WA / Minneapolis MN / Bratislava SK / 深圳",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "中型（51–200 人；Inc. 5000 2026）",
+   "officers": [
+    "Matt Murray — CEO（2026-01-14 起；原 CTO）",
+    "Jeff (Jeffrey) Murray — Chairman（创办人，原 CEO）",
+    "Andy Herron / Deby Jimenez — MXnet Systems Group（商业系统，2024-10 起）"
+   ],
+   "psc": "Murray 家族（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有标交换机品牌商 = OEM 30% 目标**：MXnet 生态里的 24 / 48 口 PoE + 10G 交换机是贴 AVPro Edge 标的 → 对标 STC-424XGGPM-280W（24×GE PoE + 4×10G）与 STC-448XGGPM（48 口）做 OEM 报价",
+    "**难点**：公司在深圳有自己的办公室 → 他们已直接在华南找代工，我们的位置只能是「Marvell 管理型 L2+、IGMP / 多播调优（AV-over-IP 刚需）、3 年质保、MOQ 1 试产」而非价格",
+    "收件人：研究档无 KP → 写 MXnet Systems Group（商业系统负责人 Andy Herron）而非 CEO；主题点「IGMP snooping / fast leave 调优 + PoE 预算 280 W」最对口",
+    "2026-01 换帅（CTO 升 CEO = 技术派当家）→ 技术参数信比价格信有效；B BIG；发信窗口 Wed 08–10 CT"
+   ],
+   "notes": "B BIG；OEM 30% 目标但有深圳办公室（已直采）；加厚一次即可。",
+   "code": "SB-419"
+  },
+  "SB-600": {
+   "batch": 98,
+   "name": "T1 Nexus（T1Nexus；t1nexus.com；Fremont / Santa Clara, CA + T1Nexus UK Limited, Swindon）— OEM 兼容光模块品牌 = 台湾 / 亚洲光模块厂美国合资（准同行）",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：LinkedIn（T1Nexus；Founded 2018；11–50；HQ 4701 Patrick Henry Dr, Santa Clara CA）+ 官网 Contact（Corporate HQ 47257 Fremont Blvd, Fremont CA 94538；T1Nexus UK Limited, Basepoint, Rivermead Drive, Swindon SN5 7EX）+ tech-intercept / sapply（「US joint venture partnered with leading optical transceiver manufacturers with factories in Taiwan and China / Malaysia」；white box switches）+ AI Infra Summit 2026（姊妹公司 US OPTO Corporation，Fremont，Penang 制造）+ konaequity（≈$4.4M，25 人）",
+   "url": "https://t1nexus.com/contact-t1nexus/",
+   "number": "CA 实体名 / SoS 号未取（CA SoS JS；英国子公司 T1Nexus UK Limited CH 号未取）",
+   "status": "在营（2026 展会活跃）",
+   "incorporated": "2018",
+   "company_type": "合资公司（台湾 / 亚洲光模块厂 + 美国团队；私有）",
+   "sic": [
+    "OEM 兼容光模块 / DAC / AOC 自有品牌（终身保修）",
+    "白盒交换机 / MC（T1-DS2024G）转售",
+    "浸没冷却等数据中心配件"
+   ],
+   "address": "47257 Fremont Blvd, Fremont, CA 94538（2025 起）；旧址 4701 Patrick Henry Dr Bldg 16, Santa Clara, CA 95054；英国 Swindon SN5 7EX",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 人；≈$4M）",
+   "officers": [
+    "未取（官网不列高管；「executive team from large telecom companies」）"
+   ],
+   "psc": "亚洲光模块厂合资方（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**准同行**：自己就是亚洲光模块厂的美国品牌壳，货源在台湾 / 马来西亚 / 中国 → 对我们的光模块无需求（Saga 本来不做光模块），交换机也走白盒合作方 → **低概率**",
+    "唯一缝隙 = 他们网店的 MC / 小交换机（T1-DS2024G）是凑品类的 → 可一页纸提 STI 工业 MC 替代 + STC 系列 OEM 贴 T1 标 30%（MOQ 1），回信再谈；不加厚",
+    "表内「MC 光路的」= 他们问过 MC；3 次跟进无回复 → 第二次触达只换主题，不换人（info@）"
+   ],
+   "notes": "低概率；准同行。",
+   "code": "SB-600"
+  },
+  "SB-713": {
+   "batch": 98,
+   "name": "Netronics Communications Inc.（netronicsnetworks.com；Markham, Ontario, 加拿大 + 迪拜办公室）— 无线宽带 / 微波 PtP-PtMP 设备品牌商（国别更正 US → CA）",
+   "iso": "CA",
+   "fetched": "2026-10-28",
+   "source": "US→CA · 1 次检索：官网 About（Headquarters Netronics Communications Inc., 600-15 Allstate Avenue Markham, Ontario L3R 5B4, Canada）+ LinkedIn（Netronics Technologies；1996；11–50；Markham + Dubai Oud Metha 办公室）+ PRNewswire 2020-06-16（Netronics Communications 迪拜办公室，母公司 Netronics Technologies 加拿大 Markham；MENA 市场 2002 起；Aviat 渠道协议）+ CB Insights（1996；Markham）",
+   "url": "https://www.netronicsnetworks.com/about-us",
+   "number": "Ontario 公司号未取（Ontario 登记付费 / JS）",
+   "status": "在营",
+   "incorporated": "1996",
+   "company_type": "Inc.（安大略；私有；Netronics Technologies 为母公司）",
+   "sic": [
+    "无线宽带设备设计 / 制造：PtP / PtMP 微波、毫米波、户外 Wi-Fi 基站、SCADA 电台（WISP / 政府 / 油气）",
+    "中东北非为主要市场（迪拜办公室）"
+   ],
+   "address": "600-15 Allstate Parkway, Markham, Ontario L3R 5B4, Canada；G-12 Al Nasr Plaza, Oud Metha, Dubai",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 人；≈$3M）",
+   "officers": [
+    "Khatri Diallo — CEO（ZoomInfo，待核）",
+    "Kenneth Kioria — System Engineer"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [
+    "Netronics Technologies（母公司 / 品牌）"
+   ],
+   "lines": [
+    "**国别更正**：用户表归 US，实为加拿大 Markham（美国无地址）→ country_fix 加拿大；发信窗口按 ET（Wed 08–10）",
+    "性质 = 无线电台品牌商，交换机只是配套（表内「推 PoE」= 给基站配 PoE 交换机 / 注入器）→ 可贴 Netronics 标的工业 PoE 小口数（STI-054GP / STI-144GP）= **贴标试探 small（OEM 30%）**，但销量跟随其电台卖到 MENA，复利有限",
+    "一页纸写「outdoor-cabinet 工业 PoE 4+1 / 4+1 SFP，-40~75 °C，3 年保修，可贴标」，收件人 info@；不加厚"
+   ],
+   "notes": "国别更正 CA；低概率。",
+   "code": "SB-713"
+  },
+  "SB-751": {
+   "batch": 98,
+   "name": "EnGenius Technologies, Inc.（engeniustech.com；Costa Mesa, CA）— 台湾 Senao Networks（TWSE 3558）全资美国销售子公司 = 交换机品牌商 → 同行",
+   "iso": "US",
+   "fetched": "2026-10-28",
+   "source": "US · 1 次检索：Senao Networks 2021 年报 / 合并报表（EnGenius Technologies, Inc. 100% 子公司，Sales of communication products；Senao International Co., Ltd. 持 33.79% Senao Networks；Senao Networks 2006-10-12 自 Senao International 无线事业部分拆）+ LinkedIn（EnGenius Technologies；1999；201–500；Costa Mesa CA；Specialties Switches / Access Points / cloud management）+ Bloomberg 3900490Z:US + Wikitia（GM MC Leo；Senao Networks 董事长 Tommy Tsai）",
+   "url": "https://static.engeniuscdn.com/wp-content/uploads/2022/08/09163213/%E7%A5%9E%E6%BA%962021Q4%E8%8B%B1%E6%96%87%E8%B2%A1%E5%A0%B1.pdf",
+   "number": "CA 公司（SoS 号未取）；母公司 Senao Networks, Inc. 台湾股票代码 3558",
+   "status": "Active",
+   "incorporated": "1999",
+   "company_type": "Inc.（加州；Senao Networks 100% 持有）",
+   "sic": [
+    "自有品牌网络设备销售：Wi-Fi AP、交换机（含云管理 EnGenius Cloud）、VPN 路由、PDU、AI 监控",
+    "母公司台湾桃园自产"
+   ],
+   "address": "1580 Scenic Ave, Costa Mesa, CA 92626（LinkedIn / 官网）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "中型（201–500 人；母公司 2,500 人）",
+   "officers": [
+    "MC Leo — General Manager, EnGenius Technologies, Inc.",
+    "Tommy Tsai — Chairman & CEO, Senao Networks（母公司）"
+   ],
+   "psc": "Senao Networks, Inc.（100%）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**同行**：这是台湾原厂（神準科技 Senao）自有品牌交换机的美国销售公司，交换机自产 + 云管理 → 不会买我们的 → **B 不动**（群发 10 次无回复也印证）",
+    "记档价值：表内「商业 FS 大口、SFP、PoE 配件」说的是他们的产品线而非需求；剔出群发名单"
+   ],
+   "notes": "同行；不动。",
+   "code": "SB-751"
   }
  }
 }

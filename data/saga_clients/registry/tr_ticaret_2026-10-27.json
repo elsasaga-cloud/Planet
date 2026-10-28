@@ -4,7 +4,7 @@
   "source": "Turkey · Ticaret Sicil / MERSIS（公开可得部分）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 58
+  "count": 64
  },
  "rows": {
   "SA-086": {
@@ -1905,6 +1905,216 @@
    ],
    "notes": "OEM 首选；A 候选。",
    "code": "SB-890"
+  },
+  "SB-1119": {
+   "batch": 98,
+   "name": "Nokta Elektronik ve Bilişim Sistemleri Sanayi ve Ticaret A.Ş.（noktaelektronik.net / .com.tr；Perpa, Şişli, İstanbul + Arnavutköy 工厂）— 安防 / 网络 B2B 分销商，自有品牌 upTech（PoE 交换机 / SFP / MC）",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：官网 künye（Nokta Elektronik ve Bilişim Sistemleri A.Ş.；**MERSİS 0631-0730-5210-0020；Tic. Sicil No 555138-0**；Perpa Ticaret Merkezi B Blok Kat 8 No. 906, 34384 Şişli；KEP noktaelektronikvebilisim@hs03.kep.tr）+ 官网 About（25 年以上；自有品牌 upTech = TPTO 注册商标 2008/13951，2008-03-11 首次注册、保护至 2028；upTech 产品 = ethernet / PoE 交换机、SFP、MC、跳线、连接器；市场土耳其 + 中东 + 突厥语国家 + 巴尔干；Dahua 分销伙伴）+ 官网 Offices（总部 / 两分部 Şişli + **İstanbul Fabrika Arnavutköy**）+ EMIS（A.Ş. 2005-05-26 设立）+ LinkedIn（51–200 人；2000）+ Perpa 旧名录「…San. Tic. Ltd. Şti.」",
+   "url": "https://www.noktaelektronik.net/en/hakkimizda",
+   "number": "MERSİS 0631-0730-5210-0020；İstanbul Tic. Sicil 555138-0",
+   "status": "Active（ETBİS 在册；KEP 有效）",
+   "incorporated": "2005-05-26（A.Ş.；业务 2000 / 「25 年以上」）",
+   "company_type": "A.Ş.（原 Ltd. Şti.，Perpa 旧名录）",
+   "sic": [
+    "安防（CCTV / IP 摄像 / NVR）、网络（PoE 交换机 / SFP / MC / 布线）、火灾报警、护士呼叫 B2B 分销（bayi 体系，B2B 平台）",
+    "自有品牌 upTech 制造 / 贴牌（Arnavutköy 工厂）"
+   ],
+   "address": "Perpa Ticaret Merkezi B Blok Kat 8 No. 906, 34384 Şişli / İstanbul（总部）；Arnavutköy / İstanbul（工厂）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "中型（51–200 人）",
+   "officers": [
+    "未取（官网不列董事；研究档无 KP）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [
+    "Nokta Elektronik ve Bilişim Sistemleri San. Tic. Ltd. Şti.（Perpa 名录旧称）"
+   ],
+   "lines": [
+    "**OEM 30% 首选（TR）**：自有注册商标 upTech 下明确卖 PoE 交换机 / SFP / MC，且有 bayi 渠道 + 中东 / 突厥 / 巴尔干出口 → 正是「贴 upTech 标的 PoE 交换机」买家；首页主推 PLANET GS-5220 说明高端管理型也有需求 → 对标 PLANET 报 STC-424XGGPM-280W（Marvell L2+）+ HRUI 线做入门",
+    "收件人：研究档无 KP → nokta@noktaelektronik.net 点名「upTech ürün müdürü / satın alma」；首信只提 OEM 贴标 + MOQ 1 + 3 年保修（STI 工业线对其 Endüstriyel ethernet 品类）",
+    "**升 A 候选**（回信即 A）：规模 51–200 + 自有品牌 + 工厂 + 出口渠道，四项全中；B BIG",
+    "发信窗口 Thu 10–12 TRT；ETBİS 在册 = 正规电商主体，付款走 T/T 无障碍"
+   ],
+   "notes": "B BIG；OEM 30% 首选；升 A 候选。",
+   "code": "SB-1119"
+  },
+  "SB-286": {
+   "batch": 98,
+   "name": "Rima Elektronik Bilişim ve Güvenlik Sistemleri San. ve Dış Tic. Ltd. Şti.（rimaelektronik.com；İstanbul）— 安防 / 网络集成商兼网店，注册商标 newstream",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：n11 店铺 künye（Şirket Ünvanı rima elektronik bilişim ve güvenlik sistemleri san. dış tic. ltd. şti.；**Tescilli Marka newstream；Vergi No 7350681650；MERSİS 0735068165000012**；KEP bilgi@）+ find.com.tr（Kuruluş 2010-07-15；Sermaye 123.456 TL）+ Turkcell Partner 页（2010 年更名为 Rima Elektronik Bilişim ve Güvenlik Sistemleri）+ kariyer.net（1997 起电脑 / 办公设备供应，2001 起安防）+ D&B（Key Principal Aycan Türkay）+ LinkedIn（11–50 人）+ 官网 Kurumsal（2000 年设立；校园 4 处监控项目参考）",
+   "url": "https://www.n11.com/magaza/rimaelektronik",
+   "number": "MERSİS 0735068165000012；VKN 7350681650",
+   "status": "Active（n11 / Turkcell 伙伴在列）",
+   "incorporated": "2010-07-15（现名；业务 1997 / 2000 起）",
+   "company_type": "Ltd. Şti.（资本 123,456 TL）",
+   "sic": [
+    "IP CCTV / 视频分析 / 光纤基础设施 / 结构化布线 / 门禁 / 消防报警设计安装（校园、企业）",
+    "网店在售 PLANET PoE 交换机（PL-GS-4210-8P2S、IGS-5225-8P4S）与自有品牌 newstream"
+   ],
+   "address": "İstanbul（Kadıköy 侧；具体门牌官网未列；n11 店铺地址经核）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 人；资本 123,456 TL）",
+   "officers": [
+    "Aycan Türkay — Key Principal（D&B；推定 müdür / 股东）"
+   ],
+   "psc": "Aycan Türkay（推定）",
+   "charges": "",
+   "prev_names": [
+    "Rima Bilişim（2010 前）"
+   ],
+   "lines": [
+    "集成商为主（自己设计安装校园 / 企业监控）→ **集成商 25%**；网店在售 PLANET 管理型 PoE 说明有 PLANET 价位的客户 → 对标 PLANET GS-4210-8P2S 报 STC-228GP（8+2，$33–35）/ IGS 系列报 STI-288DGGPM（$137）",
+    "注册商标 newstream（摄像 / 记录仪）→ **贴标试探 small**：newstream 标 PoE 交换机配套其 NVR 套装（MOQ 1，30%）一句带过",
+    "收件人：bilgi@rimaelektronik.com 点名 Aycan Türkay；发信窗口 Thu 10–12 TRT；不加厚"
+   ],
+   "notes": "",
+   "code": "SB-286"
+  },
+  "SB-402": {
+   "batch": 98,
+   "name": "SFPTURKEY Elektronik İthalat İhracat Ticaret Ltd. Şti.（sfpturkey.com.tr；Koşuyolu, Kadıköy, İstanbul）— 光模块 / 网络设备进口商与电商，自有品牌 Gigacom / SFPTürkiye / geMaxx",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：RocketReach（SFPTURKEY Elektronik İth. İhr. Ticaret Ltd. Şti.；**Managing Partner Ufuk Gören**）+ ZoomInfo（Ufuk Gören = Managing Partner；此前 Cinch Connectivity Solutions 土耳其国家经理、Vestel；Dokuz Eylül BA + Işık MSc）+ X @Kreasis（Sfpturkey Elektronik İthalat İhracat Ticaret Ltd Sti；Koşuyolu Mah, Kadıköy；0212 270 57 32 / 37）；研究档已载 2012 Kreasis 起家、2014 Gigacom / 2015 SFPTürkiye / 2016 geMaxx 三品牌唯一进口分销、2018 自营电商、2020 起 amazon.com.tr / hepsiburada / trendyol",
+   "url": "https://rocketreach.co/sfpturkey-elektronik-ith-ihr-ticaret-ltd-sti-profile_b7669894c53eb398",
+   "number": "MERSİS / 税号未取（1 次即停）",
+   "status": "Active（2023 社媒活跃；电商平台在售）",
+   "incorporated": "2012（Kreasis 起）",
+   "company_type": "Ltd. Şti.",
+   "sic": [
+    "光模块 / DAC / MC / 交换机进口与电商（自有品牌 Gigacom / SFPTürkiye / geMaxx 唯一进口商）",
+    "Amazon.com.tr / Hepsiburada / Trendyol 店铺"
+   ],
+   "address": "Koşuyolu Mah., Kadıköy / İstanbul",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型 / 小型",
+   "officers": [
+    "Ufuk Gören — Managing Partner（老板）= 研究档 KP ufuk.goren@ 本人"
+   ],
+   "psc": "Ufuk Gören（推定）",
+   "charges": "",
+   "prev_names": [
+    "Kreasis（2012 起）"
+   ],
+   "lines": [
+    "**研究档 KP 坐实 = 老板本人**（Managing Partner，连接器行业出身 Cinch 国家经理）→ 发信直达决策人",
+    "三个「自有品牌」实为进口贴牌（Gigacom / geMaxx）→ **贴标试探（OEM 30%）**：geMaxx 标 MC / 小 PoE 交换机（STI-054GP / STC-028GP）MOQ 1 起；光模块本身 Saga 不做，信里不提",
+    "电商为主 → 价格敏感、小批量多频次 → HRUI 线报价 + DAP 伊斯坦布尔（百运网）一句；发信窗口 Thu 10–12 TRT；不加厚"
+   ],
+   "notes": "KP = 老板本人。",
+   "code": "SB-402"
+  },
+  "SB-572": {
+   "batch": 98,
+   "name": "Özel Elektronik（FOURLINE 品牌；fourline.com.tr；Yıldırım, Bursa）— 天线 / 卫星 + CCTV / 报警批发零售（微型，自有品牌 2007）",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：官网 Hakkımızda（ÖZEL ELEKTRONİK；2007 年取得品牌名称权；Şükraniye Mah. Ankara Cad. No 242 Yıldırım / Bursa；**Vergi Dairesi Setbaşı，Vergi No 2360002288**；info@fourline.com.tr）+ 官网 Bayilerimiz（经销商 = 布尔萨本地电工 / 电子铺 5 家）+ 官网首页（自有 Fourline HD 卫星接收机、16 V 2 A 适配器；合作品牌 Botech / Hiremco / Komsis / Yu-Ma-Tu）+ Bursa İş Rehberi（Özel Elektronik Uydu Servis Montaj Satış）",
+   "url": "https://www.fourline.com.tr/hakkimizda.asp",
+   "number": "VKN 2360002288（Setbaşı VD；未见 Ltd. / A.Ş. 后缀 → 推定 şahıs işletmesi）",
+   "status": "在营（官网在线）",
+   "incorporated": "2007（品牌）",
+   "company_type": "şahıs işletmesi（推定；未注册公司后缀）",
+   "sic": [
+    "卫星 / 天线系统批发零售（Fourline 自有品牌接收机）",
+    "CCTV / 报警 / 楼宇对讲配套（FRL 系列摄像机、适配器）"
+   ],
+   "address": "Şükraniye Mah. Ankara Cad. No 242, Yıldırım / Bursa",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "微型（经销商为本地 5 家电工铺）",
+   "officers": [
+    "业主姓名未公开（官网 / 名录均无）"
+   ],
+   "psc": "业主",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "微型卫星 / 天线批发（客户是布尔萨本地电工铺），PoE 只是 CCTV 配套 → **低概率，一页纸即止，不加厚**；若回信只报 HRUI STC-028GP / STC-228GP 两行价",
+    "「自有品牌 2007」= 卫星接收机 / 适配器贴牌，有贴标习惯 → 一句「Fourline 标 4 口 PoE（MOQ 1）」带过即可",
+    "发信窗口 Thu 10–12 TRT；收件人 info@（业主）"
+   ],
+   "notes": "低概率；下轮不追。",
+   "code": "SB-572"
+  },
+  "SB-602": {
+   "batch": 98,
+   "name": "Anıl Telekomünikasyon Güvenlik ve Bilişim Sistemleri San. Tic. Ltd. Şti.（aniltelekom.com；Perpa A Blok, Şişli, İstanbul）— 安防 / 通信 / 网络「Ana Dağıtıcı」总分销（Dahua / Karel / TP-Link / Ruijie / Lande）",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：官网页脚（© 2025 ANIL TELEKOMÜNİKASYON GÜVENLİK VE BİLİŞİM SİSTEMLERİ SAN. TİC. LTD. ŞTİ.）+ 官网 Contact（Head Office PERPA Tic. Merkezi A Blok No 1440-1442-1575-1577-1579 Kat 10-11-12 Şişli）+ Perpa 名录（旧称 Anıl Telekomünikasyon Elektrik Malz. Kablo Paz. San. ve Tic. Ltd. Şti.；A Blok 1442；Adres Kodu 2588833232）+ find.com.tr（「…Merkez Şubesi」分支 2025-02-26 登记）+ Karel 官方 Dağıtıcılar 名单（ANIL Telekom）+ Instagram（Ana Dağıtıcı：Dahua / Gigaset / Karel / Yealink / Panasonic / TP-Link / Ruijie / Lande / Ajax / Paradox / Westa / Decon）+ YouTube（2002 起）+ ZoomInfo（11–50 人）",
+   "url": "https://www.aniltelekom.com/Default.aspx",
+   "number": "MERSİS 未取（1 次即停）；Perpa Adres Kodu 2588833232",
+   "status": "Active（Karel 官方分销名单在列；2025 新登记分支）",
+   "incorporated": "2002",
+   "company_type": "Ltd. Şti.（2025-02 新设 Merkez Şubesi 分支）",
+   "sic": [
+    "电子安防 / 消费电子 / 通信产品总分销（bayi 渠道）：Dahua 摄像、Karel / Yealink / Gigaset 话机、TP-Link / Ruijie / Lande 网络、Ajax / Paradox 报警"
+   ],
+   "address": "Perpa Ticaret Merkezi A Blok No 1440-1442-1575-1577-1579, Kat 10-11-12, Şişli / İstanbul",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 人；Perpa 三层五铺）",
+   "officers": [
+    "Cumhur Ölmez — Pazarlama ve Satış Yöneticisi（市场与销售经理）= 研究档 KP cumhur@ 本人",
+    "股东 / müdür 未取"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [
+    "Anıl Telekomünikasyon Elektrik Malz. Kablo Paz. San. ve Tic. Ltd. Şti.（Perpa 旧名录）",
+    "Anıl Telekomünikasyon San. ve Tic. Ltd. Şti.（YouTube 简介）"
+   ],
+   "lines": [
+    "**分销 20%**：已是 TP-Link / Ruijie / Lande 的总分销 → 对标 TP-Link / Ruijie 入门 PoE 报 HRUI 线（STC-028GP $28 / STC-228GP $33 / STC-2224GP $86），卖点 = 同档价 + 比 TP-Link 多 2 个 SFP + 1 年保修（HRUI）/ 3 年（STI）",
+    "Perpa 三层五铺 + 2025 新开分支 = 在扩张；KP Cumhur Ölmez 是销售负责人（非采购）→ 信里问「hangi PoE modelleri bayilerinizde en çok dönüyor」一个问题即可",
+    "Dahua 总分销 → NVR 配套 PoE 交换机走量大，但 Dahua 自己也有 PoE 交换机 → 我们只能打「非 Dahua 品牌 8/16/24 口价格带」；发信窗口 Thu 10–12 TRT"
+   ],
+   "notes": "",
+   "code": "SB-602"
+  },
+  "SB-1006": {
+   "batch": 98,
+   "name": "Audio Elektronik İthalat İhracat Sanayi ve Ticaret A.Ş.（audio.com.tr；Dudullu-Ümraniye, İstanbul）— 楼宇可视对讲 / IP 对讲 / 智能家居制造商（1979 起，6,000 m² 工厂）",
+   "iso": "TR",
+   "fetched": "2026-10-28",
+   "source": "TR · 1 次检索：官网 İletişim / KVKK（Audio Elektronik A.Ş；Fabrika Esenkent Mh. Barajyolu Cd. No 26, 34776 Dudullu-Ümraniye；0216 527 46 71）+ 官网 History（1979 起对讲行业；土耳其首家对讲 / 智能家居制造商；6,000 m² 工厂；ISO 9001）+ EMIS（Audio Elektronik A.S.；1988-09-20 设立；Audio and Video Equipment Manufacturing）+ Kompass（Audio Elektronik İthalat İhracat Sanayi ve Ticaret Ltd.Şti. 旧档；Registration No 103 004 9698 / Anadolu Kurumlar；1977；100–249 人）+ TÜBİTAK 名单（AUDIO ELEKTRONİK İTHALAT-İHRACAT SAN. VE TİC. AŞ；KOBİ）+ RocketReach（≈$66.9M；119 人）+ Crunchbase（101–250 人）",
+   "url": "https://www.audio.com.tr/en/corporate/history/",
+   "number": "VKN 1030049698（Anadolu Kurumlar VD）；MERSİS 未取",
+   "status": "Active（2026-09 官网更新）",
+   "incorporated": "1988-09-20（A.Ş.；业务 1977 / 1979 起）",
+   "company_type": "A.Ş.（原 Ltd. Şti.；KOBİ 名录）",
+   "sic": [
+    "楼宇可视 / 音频对讲、IP 对讲系统、智能家居、门口机制造（100% 本土生产）",
+    "别墅 / 小区 IP 系统方案"
+   ],
+   "address": "Esenkent Mah. Barajyolu Cad. No 26, 34776 Dudullu-Ümraniye / İstanbul（工厂 = 总部）",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "中型（100–249 人；≈$67M）",
+   "officers": [
+    "董事会未取（官网不列；1 次即停）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [
+    "Audio Elektronik İthalat İhracat Sanayi ve Ticaret Ltd. Şti.（Kompass 旧档）"
+   ],
+   "lines": [
+    "**OEM 30% 首选（TR）**：IP 对讲系统（室内机 / 门口机 PoE 供电）需要配套 PoE 交换机，表内「买的 Hisource 的 PoE」= 已在从华南采购贴牌 → 对标 Hisource 报 Audio 标 STC-028GP（8+2）/ STC-228GP / STC-2224GP（24 口 300 W，小区楼栋用），MOQ 1 试产，30%",
+    "制造商 + 100% 本土生产口号 → 贴标要「中性包装 + Audio 标」且不提我们是 trading；卖点 = PoE 预算 / 长距（250 m 模式）/ 3 年保修（STI 工业线用于室外机柜）",
+    "收件人：研究档无 KP → info@audio.com.tr 点名「IP Sistemler ürün müdürü / satın alma müdürü」；**升 A 候选**（回信即 A）；B BIG；发信窗口 Thu 10–12 TRT"
+   ],
+   "notes": "B BIG；OEM 30% 首选；升 A 候选。",
+   "code": "SB-1006"
   }
  }
 }

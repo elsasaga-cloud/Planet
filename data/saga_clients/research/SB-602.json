@@ -55,7 +55,7 @@
  "kp": [
   {
    "name": "Cumhur Ölmez",
-   "role": "Pazarlama ve Satış Yöneticisi（市场与销售经理；ZoomInfo/ContactOut 公开）",
+   "role": "Pazarlama ve Satış Yöneticisi（市场与销售经理；ZoomInfo / ContactOut）= 收件人（销售负责人，非采购 → 信里只问一个渠道问题）（第 98 批 官方登记核实 2026-10-28）",
    "email": "cumhur@aniltelekom.com（用户表）",
    "phone": "+90 212 292 90 90（公司）",
    "source": "https://www.zoominfo.com/p/Cumhur-O%CC%88lmez/9253646140"
@@ -69,11 +69,12 @@
   "level": "B 级加厚 v1（官网 + 名录核对）"
  },
  "company_facts": {
-  "legal_name": "Anıl Telekomünikasyon Güvenlik ve Bilişim Sistemleri Sanayi Ticaret Limited Şirketi",
-  "founded": "2002",
-  "hq": "Perpa Ticaret Merkezi A Blok No:1440-1442-1575-1577-1579 Kat:10-11-12, Şişli / İstanbul（0212 292 90 90；aniltelekom@aniltelekom.com / info@aniltelekom.com）",
+  "legal_name": "Anıl Telekomünikasyon Güvenlik ve Bilişim Sistemleri San. Tic. Ltd. Şti.（官网 © 2025；Perpa 旧名录 Anıl Telekomünikasyon Elektrik Malz. Kablo Paz. San. ve Tic. Ltd. Şti.；2025-02-26 新登记 Merkez Şubesi；MERSİS 未取）",
+  "founded": "2002（第 98 批 官方登记核实 2026-10-28）",
+  "hq": "Perpa Ticaret Merkezi A Blok No 1440-1442-1575-1577-1579, Kat 10-11-12, Şişli / İstanbul",
   "size": "11–50（ZoomInfo）",
-  "other": "总分销：Dahua、Gigaset、Karel、Yealink、Panasonic、TP-Link、Ruijie、Lande、Ajax、Paradox、Westa、Decon"
+  "other": "总分销：Dahua、Gigaset、Karel、Yealink、Panasonic、TP-Link、Ruijie、Lande、Ajax、Paradox、Westa、Decon；第 98 批：Dahua / Karel / Yealink / TP-Link / Ruijie / Lande 「Ana Dağıtıcı」总分销 → 分销 20%：对标 TP-Link / Ruijie 入门 PoE 报 HRUI 线（STC-028GP $28 / STC-228GP $33 / STC-2224GP $86）；Dahua 自带 PoE → 只打「非 Dahua 8/16/24 口价格带」（第 98 批 官方登记核实 2026-10-28）",
+  "staff": "11–50 人（Perpa A Blok 三层五铺）"
  },
  "business_lines": [
   "安防（Dahua、Ajax、Paradox）分销",

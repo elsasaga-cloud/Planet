@@ -43,7 +43,15 @@
    "title": "（职务待核）",
    "email": "jd@comtime-com.de",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Vertriebsleiter（Marketing und Vertrieb；PresseBox / wlw，2013 起）= 销售总监本人 = 抄送；主收件人改写新 GF（第 98 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Markus Kasten",
+   "role": "Geschäftsführer（*1995；HRB 4574 NO Kiel，2026-02-04 登记新任）= 第二次触达主收件人（info@ 点名）（第 98 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://comtime-com.de/impressum/"
   }
  ],
  "grade_override": null,
@@ -54,8 +62,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "德国",
-  "other": "官网 comtime-com.de，语言 de，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Gutenbergring 67b, 22848 Norderstedt（2025-03 迁入）；研发招聘 Bremen",
+  "other": "官网 comtime-com.de，语言 de，快照状态 ok；角色判定来源：官网文案；第 98 批：工业路由器厂「Made in Germany」= 准同行 → 缝隙 = DIN 导轨路由器旁缺工业 PoE 交换机 → 贴 comtime 标 STI-054GP / STI-144GP「Router + Switch 套件」贴标试探 small；2026-02 新 GF → 新管理层补产品线的窗口；低优先（第 98 批 官方登记核实 2026-10-28）",
+  "legal_name": "comtime GmbH（Amtsgericht Kiel HRB 4574 NO；USt-IdNr. DE 813138753；WEEE DE 84024192）",
+  "founded": "2000（登记）（第 98 批 官方登记核实 2026-10-28）",
+  "staff": "小型"
  },
  "business_lines": [
   "工业路由器 / 调制解调器（自有品牌 comtime）"

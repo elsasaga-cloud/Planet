@@ -45,14 +45,16 @@
    "title": "Business Development",
    "email": "tanner@synchronet.net",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Vice President（Sales / Business Development，2019 起；官网 About 列第二号人物）= **拍板人之一 = 收件人**（第 98 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Gordon Brandt",
    "title": "Engineer",
    "email": "gbrandt@synchronet.net",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Engineer（技术选型）= 抄送（第 98 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -63,8 +65,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "美国",
-  "other": "官网 synchronet.net，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  "hq": "1800 N America Dr, Suite A, West Seneca, NY 14224",
+  "other": "官网 synchronet.net，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 98 批：MSP（托管 IT）→ 小项目集成商 25%；CEO Jerry Sheehan（创办人）；表内「Stacking」只有 STH 能做，MSP 客户更可能用 STC-4424GCPM / STC-424XGGPM-280W（第 98 批 官方登记核实 2026-10-28）",
+  "legal_name": "SynchroNet Industries, Inc.（NY DOS ID 2345709；1999-02-12 成立；Active）",
+  "founded": "1999-02-12（业务 1998）（第 98 批 官方登记核实 2026-10-28）",
+  "staff": "10–49 人；≈$7M"
  },
  "business_lines": [
   "托管 IT 服务（MSP）"

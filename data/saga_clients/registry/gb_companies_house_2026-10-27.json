@@ -4,7 +4,7 @@
   "source": "France · API Recherche d'entreprises（recherche-entreprises.api.gouv.fr，官方免费：SIRENE + RNE + 财报）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 39
+  "count": 43
  },
  "rows": {
   "SA-015": {
@@ -1357,6 +1357,148 @@
    ],
    "notes": "",
    "code": "SB-255"
+  },
+  "SB-1054": {
+   "batch": 98,
+   "name": "Luxrite Ltd（luxritesecurity.com；Stevenage, Hertfordshire）— Trade-only CCTV / 门禁 / 报警分销商，自有品牌 SPRO / Vectus",
+   "iso": "GB",
+   "fetched": "2026-10-28",
+   "source": "GB · 1 次检索：Companies House 06801342（Private limited company；Incorporated 2009-01-26；Active；Unit 3 Eastman Way, Pin Green Industrial Estate, Stevenage SG1 4SZ；Officers 3 / 0 resignations：LUO, Chin Ping, Ms.（Director，2009-01-26 起，British，b. 1977-09）；LO, Liu Jung（Director 2013-05-23 起 + Secretary 2009-01-26 起，b. 1975-09））+ Endole（PSC = Chin Ping Luo + Liu Jung Lo；Small）+ companiesintheuk（Capital £1,000；Accounts Total Exemption Full；Charges 0）+ LinkedIn（11–50 人；「home to the SPRO and Vectus brand of CCTV equipment」；Rio Luo = Director）+ 官网（© 2026；Registered in England No 6801342；Ruijie PoE 交换机在售）",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/06801342",
+   "number": "Companies House 06801342；VAT 未取",
+   "status": "Active（2026 官网在线；Charges 0）",
+   "incorporated": "2009-01-26",
+   "company_type": "Private limited company（资本 £1,000；两位董事 = PSC 夫妇式持股）",
+   "sic": [
+    "Trade-only 安防分销：HD / IP CCTV、报警（Ajax / Texecom / Dahua Airshield）、可视门禁、门禁；只供批发商 / 零售商 / 安装商",
+    "自有品牌 SPRO / Vectus（CCTV）"
+   ],
+   "address": "Unit 3 Eastman Way, Pin Green Industrial Estate, Stevenage, Hertfordshire SG1 4SZ",
+   "accounts": "Total Exemption Full（小型；资产负债表 <£7.5M）",
+   "accounts_due": "未取（CH 页未抓到期日）",
+   "size_band": "小型（11–50 人）",
+   "officers": [
+    "Chin Ping (Rio) Luo — Director / Sales Director + PSC（2009 起）",
+    "Liu Jung Lo — Director（2013 起）+ Secretary（2009 起）+ PSC",
+    "Vinny Lomonaco — Account Manager",
+    "Peter Cheung — IT Operations Manager"
+   ],
+   "psc": "Chin Ping Luo + Liu Jung Lo",
+   "charges": "0",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌 SPRO / Vectus + 在售 Ruijie PoE** → 两条线：① 对标 Ruijie RG-ES2xx 报 HRUI STC-028GP / STC-228GP / STC-2224GP（分销 20%）；② **SPRO 标 PoE 交换机 OEM 30%**（他们已给摄像机贴自有标，PoE 配套贴标顺理成章）",
+    "两位董事 = PSC（Luo / Lo，华人姓氏，2009 起）→ 大概率已有华南 / 台湾直采渠道 → 卖点只能是「Marvell 管理型 + 3 年保修 + MOQ 1 混批」，不是价格；收件人：研究档无 KP → 写 Rio Luo（Sales Director）",
+    "**升 A 候选**（回信即 A）：自有标 + 已进口 + 决策人直达 + 英国主战场；发信窗口 Thu 12–14 GMT；不提是否中文沟通（默认不）"
+   ],
+   "notes": "自有标 SPRO / Vectus；OEM 30% + 分销 20%；升 A 候选。",
+   "code": "SB-1054"
+  },
+  "SB-1002": {
+   "batch": 98,
+   "name": "Amplicon Liveline Limited（amplicon.com；Brighton）— 工业计算 / 数据通信 / 测控 / 安防自动化分销商（1973；Amplicon Group）",
+   "iso": "GB",
+   "fetched": "2026-10-28",
+   "source": "GB · 1 次检索：Companies House 01091353（Private limited company；Incorporated 1973-01-18；Active；Unit 11 Centenary Industrial Estate, Hollingdean Road, Brighton BN2 4AW（2024-03-15 自 Hughes Road 地址更正）；Officers 21 / 20 resignations：CITRONI, Gina（Director，2004-07-01 起，Occupation Commercial Director，b. 1958-11）；BUSHBY, Mark / SAUNDERS, Douglas（Operations Director）；Filing：AA 小型公司账目至 2024-06-30（2025-03-20 交）；PSC02 2024-12-13：Amplicon Group Holdings Ltd（14466238）自 2024-11-20 持股 ≥75%，接替 Amplicon Group Limited（06201353））+ Endole（Medium：50–250 人或 £10–50M）",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/01091353",
+   "number": "Companies House 01091353",
+   "status": "Active（账目至 2024-06-30 已交 2025-03-20）",
+   "incorporated": "1973-01-18",
+   "company_type": "Private limited company（Amplicon Group Holdings Ltd 14466238 持股 ≥75%，2024-11 集团重组）",
+   "sic": [
+    "工业计算（工控机 / 嵌入式）、数据通信（工业交换机：Moxa / Hirschmann / Advantech / Cisco）、测控（DAQ）、安防自动化分销（面向系统集成商、OEM、制造商）"
+   ],
+   "address": "Unit 11 Centenary Industrial Estate, Hollingdean Road, Brighton BN2 4AW",
+   "accounts": "小型公司账目至 2024-06-30（2025-03-20 交；Endole 评 Medium）",
+   "accounts_due": "2025-06-30 期账目应于 2026-03-31 前交（按例推算，未核）",
+   "size_band": "中型（50–250 人 / £10–50M，Endole）",
+   "officers": [
+    "Gina Citroni — Director + Commercial Director（2004 起；亦为 Amplicon Group Ltd 董事 2007 起）= 研究档 KP gina.c@ 本人",
+    "Mark Bushby — Director",
+    "Douglas Saunders — Operations Director（CH 现列 resigned / 名录列现任，待核）"
+   ],
+   "psc": "Amplicon Group Holdings Ltd（14466238；2024-11-20 起）",
+   "charges": "未取",
+   "prev_names": [],
+   "lines": [
+    "**研究档 KP 坐实 = 商务总监兼董事本人**（Gina Citroni，2004 起）→ 发信直达采购决策人",
+    "表内「工业 FS 很多牌子的销售平台」= Moxa / Hirschmann / Advantech 工业交换机分销 → **分销 20%（工业线）**：对标 Moxa EDS 系列报 STI-288DGGPM（$137）/ STI-244DGGPM（$121）/ STI-0240GE（$130），卖点 = Moxa 同规格 -50%、3 年保修、-40~75 °C",
+    "2024-11 集团重组（新控股公司 14466238）+ 50 余年老牌 → 采购流程正规，先要证书（CE / RoHS / UKCA 齐）与样机（付费样机）；B BIG",
+    "发信窗口 Thu 12–14 GMT；不提 UL / 军工"
+   ],
+   "notes": "KP = 商务总监本人；B BIG；分销 20% 工业线。",
+   "code": "SB-1002"
+  },
+  "SB-1020": {
+   "batch": 98,
+   "name": "Cratsol Technology LLC（cratsol.ae；Dubai Business Bay）+ 英国壳 CRATSOL LTD（Newcastle upon Tyne）— IT 硬件增值转售商（VAR；国别更正 GB → AE）",
+   "iso": "AE",
+   "fetched": "2026-10-28",
+   "source": "GB→AE · 1 次检索：LinkedIn（Cratsol Technology LLC - UAE；2017；11–50；601 One by Omniyat, Business Bay, Dubai；另列 Chicago IL 地址）+ Crunchbase（Legal Name Cratsol Technology LLC；sales@cratsol.ae）+ 官网 Contact（CRATSOL TECHNOLOGY LLC, Office 605 Silver Tower, Business Bay）+ ZoomInfo（<$5M；Faisal Shahid 2019 起）+ **Companies House 11084123 CRATSOL LTD**（Incorporated 2017-11-27；Active；G18 Amber Court, William Armstrong Drive, Newcastle upon Tyne NE4 7YA = 注册地址服务）",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/11084123",
+   "number": "UAE 营业执照号未取；英国壳 Companies House 11084123",
+   "status": "Active（UAE 主体 2026-09 仍在；英国壳 Active）",
+   "incorporated": "2017（UAE）/ 2017-11-27（英国壳）",
+   "company_type": "LLC（迪拜）+ Private limited company（英国，注册地址服务）",
+   "sic": [
+    "IT 硬件 / 软件增值转售（台式机、工作站、显示器、打印机、网络；多品牌）面向 UAE 与海外"
+   ],
+   "address": "601 One by Omniyat / Office 605 Silver Tower, Business Bay, Dubai, UAE；英国壳 G18 Amber Court, William Armstrong Drive, Newcastle upon Tyne NE4 7YA",
+   "accounts": "英国壳：未取",
+   "accounts_due": "未取",
+   "size_band": "小型（11–50 人；<$5M）",
+   "officers": [
+    "Faisal Shahid — Cratsol Technology（ZoomInfo）",
+    "Issac Grant / Amir Zahirshah — 研究档询盘联系人（Skype）",
+    "英国壳董事未取"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**国别更正**：cratsol.co.uk 只是迪拜 VAR 的英国壳（Newcastle 注册地址服务）→ country_fix 阿联酋；不属四大主战场",
+    "唯一询盘是「10G DAC 3 m × 300 单价」= Saga 不做的品类 → 只能一页纸回 STC-110XGE（10G 交换机 $65）做关联，**低概率，不加厚**",
+    "迪拜 IT VAR 做政府 / 企业标 → 会要 Cisco 级品牌；我们没有位置；若回信按分销 20% 报，T/T 前 100%"
+   ],
+   "notes": "国别更正 AE；低概率；下轮不追。",
+   "code": "SB-1020"
+  },
+  "SB-1067": {
+   "batch": 98,
+   "name": "Raytel Security Systems Limited（raytelsecurity.com；South Woodham Ferrers, Essex）— 门禁 / 门口机制造商兼库存商（1979；Vimar Elvox / Soyal 英国授权分销；Raytel Group）",
+   "iso": "GB",
+   "fetched": "2026-10-28",
+   "source": "GB · 1 次检索：官网 About（Raytel Security Systems Limited；Raytel House, 1-5 Cutlers Road, South Woodham Ferrers, Chelmsford CM3 5WA；Established 1979；**Company Registration No 1280393**；VAT GB 394 9607 00；Directors R. Lawrence (Managing), D. G. Brookes）+ Companies House 01280393（Incorporated 1976-10-06；Active；前名 ELEKTROFLO SYSTEMS LIMITED 1976-10-06 → 1979-12-31；Officers：BROOKES, David Gary（Director）；LAWRENCE, Roy（Director））+ Endole（Roy Lawrence b. 1934-04 = PSC，1991-11 起董事，92 岁，活跃于 6 家公司；David Gary Brookes b. 1960-02 Engineer；Secretary Michelle Mead；股东 2）+ raytel.co.uk（Raytel Group 1980 成立 = Rayleigh Instruments 1964 + Raytel Security Systems 1979 母公司）+ LinkedIn（2–10 人）",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/01280393",
+   "number": "Companies House 01280393；VAT GB 394 9607 00",
+   "status": "Active",
+   "incorporated": "1976-10-06（业务 1979 起）",
+   "company_type": "Private limited company（Raytel Group 成员；PSC Roy Lawrence）",
+   "sic": [
+    "门禁 / 门口机（音视频对讲）产品制造 + 库存分销（自有 Raytel / AR- 系列读卡器 + Vimar Elvox + Soyal 英国授权分销）",
+    "ISO 9001（1991 起）"
+   ],
+   "address": "Raytel House, 1-5 Cutlers Road, South Woodham Ferrers, Chelmsford, Essex CM3 5WA",
+   "accounts": "未取（1 次即停）",
+   "accounts_due": "未取",
+   "size_band": "微型（2–10 人）",
+   "officers": [
+    "Roy Lawrence — Managing Director + PSC（b. 1934；1991 起）",
+    "David Gary Brookes — Director（Engineer，b. 1960）",
+    "Michelle Mead — Secretary"
+   ],
+   "psc": "Roy Lawrence",
+   "charges": "未取",
+   "prev_names": [
+    "Elektroflo Systems Limited（1976–1979）"
+   ],
+   "lines": [
+    "微型（2–10 人）+ 92 岁老板 + 门禁为主、CCTV / PoE 只是配套 → **低概率，一页纸即止，不加厚**",
+    "自有品牌 Raytel 门禁产品 + Elvox IP 门口机需要 PoE → 一句「Raytel 标 4 / 8 口 PoE（STI-054GP / STC-028GP），MOQ 1」带过；收件人 info@ 点名 David Brookes（工程董事，更可能看技术信）",
+    "发信窗口 Thu 12–14 GMT"
+   ],
+   "notes": "低概率；下轮不追。",
+   "code": "SB-1067"
   }
  }
 }

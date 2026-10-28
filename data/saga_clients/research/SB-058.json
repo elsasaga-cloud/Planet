@@ -1,155 +1,157 @@
 {
-  "code": "SB-058",
-  "name_official": "Sabmartv Marcin Wypior（SABMARtv / KIM Group，Rybnik, PL；sabmar.tv）",
-  "website_status": "在线",
-  "summary": "波兰 Rybnik 的体育赛事网络直播/转播制作公司（个体企业 Sabmartv Marcin Wypior，NIP 6421823587，PKD 59.11.Z；另登记 27.31.Z 光缆生产）：2 辆 FullHD 转播车（8 路 SMPTE、CCU、Replay、CG、4 编码器、内通）、Unreal Engine 5 虚拟演播室（18 工位、6 台 URSA G2）、摩托车速道赛事（żużel）直播多年、2017 年 18 场直播 42 万终端。曾向 Saga 购买压缩 HDMI 光端机样品（成单）。转播车/演播室 IP 化需千兆/10G 交换机与光纤链路——STC-424XGGM 为对口机型。WhatsApp 已加。",
-  "type": "视频/广电技术经销商",
-  "size": "待补证",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户记录",
-      "claim": "压缩 HDMI 光端机成样品单；WA 已加",
-      "quote": "压缩HDMI光端机 成样品单；48-5017 76652 已加（用户 Clients 表摘录）",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "业务与设备",
-      "quote": "OB VAN 2 wozy transmisyjne FullHD. 8 torów SMPTE, CCU, Replay, Grafiki CG, 4 Encodery, Interkom … STUDIO Wirtualne studio Unreal Engine 5. 18 stanowisk, 2 reżyserki … biuro@sabmar.tv … +48 501 776 652",
-      "url": "http://www.sabmar.tv/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "登记",
-      "claim": "法人与地址",
-      "quote": "6421823587 - NIP Sabmartv\" Marcin Wypior … Działalność związana z produkcją filmów, nagrań wideo i programów telewizyjnych (PKD 59.11.Z) - Modrzewiowa 22, 44-270 Rybnik",
-      "url": "https://mapa.targeo.pl/6421823587/nip/firma",
-      "date": "2019-04-25"
-    },
-    {
-      "kind": "媒体",
-      "claim": "直播规模",
-      "quote": "Łącznie wykonaliśmy osiemnaście transmisji na żywo, gdzie oglądano nas z 420 tys. komputerów.",
-      "url": "https://sportowefakty.wp.pl/zuzel/664514/18-transmisji-ponad-pol-miliona-widzow-sabmartv-pokazywal-to-czego-nie-chcialy-w",
-      "date": "2017-02-07"
-    },
-    {
-      "kind": "用户表",
-      "claim": "压缩 HDMI 光端机成样品单；WhatsApp 已加",
-      "quote": "（用户表字段）",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Marcin Wypiór",
-      "role": "Owner（官网/媒体公开）",
-      "email": "biuro@sabmar.tv（公司公开）",
-      "phone": "+48 501 776 652",
-      "source": "http://www.sabmar.tv/"
-    }
-  ],
-  "grade_override": "B",
-  "override_reason": "成交品类为 HDMI 光端机（Saga 三供应商不覆盖），交换机需求未见；成交记录使其不降 C，B 待机。",
-  "notes": "若其视频项目需 PoE 交换机再报；不主动投入。",
-  "researched_at": "2026-10-21",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网 + 登记核对）"
+ "code": "SB-058",
+ "name_official": "Sabmartv Marcin Wypior（SABMARtv / KIM Group，Rybnik, PL；sabmar.tv）",
+ "website_status": "在线",
+ "summary": "波兰 Rybnik 的体育赛事网络直播/转播制作公司（个体企业 Sabmartv Marcin Wypior，NIP 6421823587，PKD 59.11.Z；另登记 27.31.Z 光缆生产）：2 辆 FullHD 转播车（8 路 SMPTE、CCU、Replay、CG、4 编码器、内通）、Unreal Engine 5 虚拟演播室（18 工位、6 台 URSA G2）、摩托车速道赛事（żużel）直播多年、2017 年 18 场直播 42 万终端。曾向 Saga 购买压缩 HDMI 光端机样品（成单）。转播车/演播室 IP 化需千兆/10G 交换机与光纤链路——STC-424XGGM 为对口机型。WhatsApp 已加。",
+ "type": "视频/广电技术经销商",
+ "size": "待补证",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "压缩 HDMI 光端机成样品单；WA 已加",
+   "quote": "压缩HDMI光端机 成样品单；48-5017 76652 已加（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Sabmartv Marcin Wypior（NIP 6421823587）",
-    "hq": "Modrzewiowa 22, 44-270 Rybnik, Polska（+48 501 776 652；biuro@sabmar.tv）",
-    "size": "微型（家族经营，Marcin + Błażej Wypiór）",
-    "other": "PKD 59.11.Z 影视制作；27.31.Z 光缆生产（登记）；Facebook 53 评 98% 推荐"
+  {
+   "kind": "官网",
+   "claim": "业务与设备",
+   "quote": "OB VAN 2 wozy transmisyjne FullHD. 8 torów SMPTE, CCU, Replay, Grafiki CG, 4 Encodery, Interkom … STUDIO Wirtualne studio Unreal Engine 5. 18 stanowisk, 2 reżyserki … biuro@sabmar.tv … +48 501 776 652",
+   "url": "http://www.sabmar.tv/",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "体育/文化/会议赛事网络直播与电视信号制作（OB van）",
-    "虚拟演播室与远程制作",
-    "光纤/HDMI 信号传输自用与小批量采购"
-  ],
-  "channels": {
-    "网站": "http://www.sabmar.tv/",
-    "电话": "+48 501 776 652（官网公开）",
-    "邮箱（公开）": "biuro@sabmar.tv / telewizjasabmar@gmail.com",
-    "Facebook": "https://www.facebook.com/sabmartv/"
+  {
+   "kind": "登记",
+   "claim": "法人与地址",
+   "quote": "6421823587 - NIP Sabmartv\" Marcin Wypior … Działalność związana z produkcją filmów, nagrań wideo i programów telewizyjnych (PKD 59.11.Z) - Modrzewiowa 22, 44-270 Rybnik",
+   "url": "https://mapa.targeo.pl/6421823587/nip/firma",
+   "date": "2019-04-25"
   },
-  "signals": [
-    "已成样品单（HDMI 光端机）→ 信任基础；转播车 IP 化（NDI/SMPTE 2110）需 10G 上联交换机与 SFP+ 光模块"
-  ],
-  "risks": [
-    "终端用户、采购量小且不定期；需求偏 AV 传输而非交换机"
-  ],
-  "saga_fit": {
-    "p1": "STC-424XGGM",
-    "tier": 25,
-    "why": "终端 25% 档：STC-424XGGM（24 GE + 4×10G SFP+，L2+，$132.7）作转播车/演播室 IP 视频骨干；配 SFP+ 光模块与 HDMI 光端机复购"
+  {
+   "kind": "媒体",
+   "claim": "直播规模",
+   "quote": "Łącznie wykonaliśmy osiemnaście transmisji na żywo, gdzie oglądano nas z 420 tys. komputerów.",
+   "url": "https://sportowefakty.wp.pl/zuzel/664514/18-transmisji-ponad-pol-miliona-widzow-sabmartv-pokazywal-to-czego-nie-chcialy-w",
+   "date": "2017-02-07"
   },
-  "email_hook": "After the HDMI-over-fibre extender you tested, the next piece for an IP OB van is a 24-port gigabit switch with 4×10G SFP+ uplinks at $132.7 EXW; are you moving the vans to NDI/2110 this season?",
-  "mail_review": {
-    "binding": {
-      "level": "Elsa 群发 BCC 已触达 2026-09-01「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，PL 批次 To biuro@zintronic.pl，0 回（第 73 批(o) Bcc 头核对 msg 1a05bfb71364077f）；S/A 箱：S/A 邮箱均无往来；来源：用户表「（用户表字段）」",
-      "type": "视频/广电技术经销商",
-      "sieve": "—（未入筛）",
-      "stop": "Elsa 群发 BCC 触达过（最近 2026-09-01）无回；S/A 箱从未单独发过",
-      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-      "lane": "PL 次级重点",
-      "cadence": "首封后看打开",
-      "evidence": "gmail_digest：out 0；用户表：「（用户表字段）」；研究档 risks：终端用户、采购量小且不定期；需求偏 AV 传输而非交换机；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@axuse.com）本户见于 2025-10-09 名单；该批次最早 2025-04-03 起共 7 轮，更早轮次 Bcc 未读；同批次（To biuro@zintronic.pl）本户见于 2026-09-01 名单；2025-04-03 首轮名单无此地址 → 中途加入"
-    },
-    "situation": "波兰 Rybnik 的体育赛事网络直播/转播制作公司（个体企业 Sabmartv Marcin Wypior，NIP 6421823587，PKD 59.11.Z；另登记 27.31.Z 光缆生产）：2 辆 FullHD 转播车（8 路 SMPTE、CCU、Replay、CG、4 编码器、内通）、Unreal Engine 5 虚拟演播室（18 工位、6 台 URSA G2）、摩托车速道赛事（żużel）直播多年、2017 年 18 场直播 42 万终端。曾向 Saga 购买压缩 HDMI 光端机样品（成单）。转播车/演播室 IP 化需千兆/10G 交换机与光纤链路——STC-424XGGM 为对口机型。WhatsApp 已加。",
-    "need": "终端 25% 档：STC-424XGGM（24 GE + 4×10G SFP+，L2+，$132.7）作转播车/演播室 IP 视频骨干；配 SFP+ 光模块与 HDMI 光端机复购",
-    "breakpoint": "终端用户、采购量小且不定期；需求偏 AV 传输而非交换机",
-    "saga_now": {
-      "p1": "STC-424XGGM",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-09 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-09；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-01；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "终端 25% 档：STC-424XGGM（24 GE + 4×10G SFP+，L2+，$132.7）作转播车/演播室 IP 视频骨干；配 SFP+ 光模块与 HDMI 光端机复购",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱 → biuro@sabmar.tv（Marcin Wypiór）",
-      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-01「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(d) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-      "one_question": "After the HDMI-over-fibre extender you tested, the next piece for an IP OB van is a 24-port gigabit switch with 4×10G SFP+ uplinks at $132.7 EXW; are you moving the vans to NDI/2110 this season?"
-    },
-    "facts": [
-      {
-        "date": "2025-10-09",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@axuse.com，PL-3（大分销 aat/lanberg/elmark/dipol/a2s） 批次）",
-        "quote": "10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring（正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 studio.sabmar@poczta.fm）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-09-01",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To biuro@zintronic.pl，PL 批次）",
-        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 studio.sabmar@poczta.fm）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "（用户表字段）",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来"
-    ],
-    "draft_en": {
-      "subject": "After the HDMI-over-fibre extender - the switch for an IP OB van",
-      "body": "Hi Marcin,\n\nAfter the HDMI-over-fibre extender you tested with us, this is the next piece for the vans and the virtual studio. (You also had a couple of our general product mails this year - no need to answer those.)\n\nFor an IP OB van or the UE5 studio backbone: 24 x Gigabit RJ45 + 4 x 10G SFP+ uplinks, L2+ managed (VLAN, IGMP snooping for multicast video, QoS), Marvell-based, CE/RoHS - model STC-424XGGM - $132.7 USD EXW (MOQ 1, 15-day validity). We do not supply the SFP+ optics, so you keep your usual modules.\n\nOne question: are you moving the vans to NDI or SMPTE 2110 this season, or staying SDI for now?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-    },
-    "as_of": "2026-10-25"
+  {
+   "kind": "用户表",
+   "claim": "压缩 HDMI 光端机成样品单；WhatsApp 已加",
+   "quote": "（用户表字段）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Marcin Wypiór",
+   "role": "业主（CEIDG „SABMARTV” Marcin Wypiór；NIP 6421823587；REGON 273230435）= 终端用户，不加厚（第 98 批 官方登记核实 2026-10-28）",
+   "email": "biuro@sabmar.tv（公司公开）",
+   "phone": "+48 501 776 652",
+   "source": "http://www.sabmar.tv/"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "成交品类为 HDMI 光端机（Saga 三供应商不覆盖），交换机需求未见；成交记录使其不降 C，B 待机。",
+ "notes": "若其视频项目需 PoE 交换机再报；不主动投入。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网 + 登记核对）"
+ },
+ "company_facts": {
+  "legal_name": "„SABMARTV” Marcin Wypiór（Indywidualna działalność gospodarcza；NIP 6421823587；REGON 273230435）",
+  "hq": "ul. Gruntowa 43D, 44-270 Rybnik",
+  "size": "微型（家族经营，Marcin + Błażej Wypiór）",
+  "other": "PKD 59.11.Z 影视制作；27.31.Z 光缆生产（登记）；Facebook 53 评 98% 推荐；第 98 批：体育赛事网络直播制作个体（速道赛 PPV）= 终端用户，交换机只为转播车 / 演播室 → 一页纸即止（STC-110XGE / STC-424XGGPM-280W 两行）（第 98 批 官方登记核实 2026-10-28）",
+  "founded": "1997-05-14（CEIDG）（第 98 批 官方登记核实 2026-10-28）",
+  "staff": "微型（家庭经营）"
+ },
+ "business_lines": [
+  "体育/文化/会议赛事网络直播与电视信号制作（OB van）",
+  "虚拟演播室与远程制作",
+  "光纤/HDMI 信号传输自用与小批量采购"
+ ],
+ "channels": {
+  "网站": "http://www.sabmar.tv/",
+  "电话": "+48 501 776 652（官网公开）",
+  "邮箱（公开）": "biuro@sabmar.tv / telewizjasabmar@gmail.com",
+  "Facebook": "https://www.facebook.com/sabmartv/"
+ },
+ "signals": [
+  "已成样品单（HDMI 光端机）→ 信任基础；转播车 IP 化（NDI/SMPTE 2110）需 10G 上联交换机与 SFP+ 光模块"
+ ],
+ "risks": [
+  "终端用户、采购量小且不定期；需求偏 AV 传输而非交换机"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGM",
+  "tier": 25,
+  "why": "终端 25% 档：STC-424XGGM（24 GE + 4×10G SFP+，L2+，$132.7）作转播车/演播室 IP 视频骨干；配 SFP+ 光模块与 HDMI 光端机复购"
+ },
+ "email_hook": "After the HDMI-over-fibre extender you tested, the next piece for an IP OB van is a 24-port gigabit switch with 4×10G SFP+ uplinks at $132.7 EXW; are you moving the vans to NDI/2110 this season?",
+ "mail_review": {
+  "binding": {
+   "level": "Elsa 群发 BCC 已触达 2026-09-01「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，PL 批次 To biuro@zintronic.pl，0 回（第 73 批(o) Bcc 头核对 msg 1a05bfb71364077f）；S/A 箱：S/A 邮箱均无往来；来源：用户表「（用户表字段）」",
+   "type": "视频/广电技术经销商",
+   "sieve": "—（未入筛）",
+   "stop": "Elsa 群发 BCC 触达过（最近 2026-09-01）无回；S/A 箱从未单独发过",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "PL 次级重点",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「（用户表字段）」；研究档 risks：终端用户、采购量小且不定期；需求偏 AV 传输而非交换机；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@axuse.com）本户见于 2025-10-09 名单；该批次最早 2025-04-03 起共 7 轮，更早轮次 Bcc 未读；同批次（To biuro@zintronic.pl）本户见于 2026-09-01 名单；2025-04-03 首轮名单无此地址 → 中途加入"
+  },
+  "situation": "波兰 Rybnik 的体育赛事网络直播/转播制作公司（个体企业 Sabmartv Marcin Wypior，NIP 6421823587，PKD 59.11.Z；另登记 27.31.Z 光缆生产）：2 辆 FullHD 转播车（8 路 SMPTE、CCU、Replay、CG、4 编码器、内通）、Unreal Engine 5 虚拟演播室（18 工位、6 台 URSA G2）、摩托车速道赛事（żużel）直播多年、2017 年 18 场直播 42 万终端。曾向 Saga 购买压缩 HDMI 光端机样品（成单）。转播车/演播室 IP 化需千兆/10G 交换机与光纤链路——STC-424XGGM 为对口机型。WhatsApp 已加。",
+  "need": "终端 25% 档：STC-424XGGM（24 GE + 4×10G SFP+，L2+，$132.7）作转播车/演播室 IP 视频骨干；配 SFP+ 光模块与 HDMI 光端机复购",
+  "breakpoint": "终端用户、采购量小且不定期；需求偏 AV 传输而非交换机",
+  "saga_now": {
+   "p1": "STC-424XGGM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-09 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-09；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-01；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+   "why": "终端 25% 档：STC-424XGGM（24 GE + 4×10G SFP+，L2+，$132.7）作转播车/演播室 IP 视频骨干；配 SFP+ 光模块与 HDMI 光端机复购",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → biuro@sabmar.tv（Marcin Wypiór）",
+   "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-01「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(d) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "After the HDMI-over-fibre extender you tested, the next piece for an IP OB van is a 24-port gigabit switch with 4×10G SFP+ uplinks at $132.7 EXW; are you moving the vans to NDI/2110 this season?"
+  },
+  "facts": [
+   {
+    "date": "2025-10-09",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@axuse.com，PL-3（大分销 aat/lanberg/elmark/dipol/a2s） 批次）",
+    "quote": "10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring（正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 studio.sabmar@poczta.fm）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-09-01",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To biuro@zintronic.pl，PL 批次）",
+    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 studio.sabmar@poczta.fm）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "（用户表字段）",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": {
+   "subject": "After the HDMI-over-fibre extender - the switch for an IP OB van",
+   "body": "Hi Marcin,\n\nAfter the HDMI-over-fibre extender you tested with us, this is the next piece for the vans and the virtual studio. (You also had a couple of our general product mails this year - no need to answer those.)\n\nFor an IP OB van or the UE5 studio backbone: 24 x Gigabit RJ45 + 4 x 10G SFP+ uplinks, L2+ managed (VLAN, IGMP snooping for multicast video, QoS), Marvell-based, CE/RoHS - model STC-424XGGM - $132.7 USD EXW (MOQ 1, 15-day validity). We do not supply the SFP+ optics, so you keep your usual modules.\n\nOne question: are you moving the vans to NDI or SMPTE 2110 this season, or staying SDI for now?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-25"
+ }
 }

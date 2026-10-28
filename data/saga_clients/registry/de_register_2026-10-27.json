@@ -4,7 +4,7 @@
   "source": "Germany · Handelsregister / Northdata（登记摘要）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 37
+  "count": 41
  },
  "rows": {
   "SA-008": {
@@ -1275,6 +1275,151 @@
    ],
    "notes": "低概率。",
    "code": "SB-794"
+  },
+  "SB-232": {
+   "batch": 98,
+   "name": "AIXONTEC GmbH（aixontec.com；Aachen）— 网络基础设施产品开发 / 组装 / 销售（自有品牌线缆 + 工业以太网；Amazon 卖家）",
+   "iso": "DE",
+   "fetched": "2026-10-28",
+   "source": "DE · 1 次检索：官网 Imprint（AIXONTEC GmbH；general manager Ashkan Ghaznavi；Freunder Weg 106, 52068 Aachen；VAT DE 301189253；**Amtsgericht Aachen HRB 19851**）+ Northdata（HRB 19851；2015-08-11 登记；MD A. Ghaznavi Monfared；Capital €25,000）+ webvalid（Gesellschaftsvertrag 2015-07-21；Unternehmensgegenstand「Entwicklung, Konfektion und Vertrieb von innovativen Produkten für die Netzwerk-Infrastruktur」；GF Ghaznavi Monfared, Ashkan，单独代表权 + 自我交易豁免）+ XING（Dipl.-Ing. Ashkan Ghaznavi = Partner / Gesellschafter + GF since 2011；此前 Leoni Kerpen 区域销售、Niedax 中东 / 印度区域销售经理）+ Amazon.de 卖家 Impressum",
+   "url": "https://www.northdata.com/AIXONTEC%20GmbH,%20Aachen/HRB%2019851",
+   "number": "Amtsgericht Aachen HRB 19851；USt-IdNr. DE 301189253",
+   "status": "Active",
+   "incorporated": "2015-07-21（合同）/ 2015-08-11（登记）；业务自称 2011 起",
+   "company_type": "GmbH（资本 €25,000；一人 GF = 股东）",
+   "sic": [
+    "网络基础设施产品开发 / 线缆组装 / 销售（Verlegekabel、跳线、RFID 线缆资产管理、工业以太网、家庭光纤）",
+    "Amazon.de 自有品牌 AIXONTEC 卖家"
+   ],
+   "address": "Freunder Weg 106, 52068 Aachen",
+   "accounts": "—（GmbH 小型，Bundesanzeiger 简式）",
+   "accounts_due": "—",
+   "size_band": "微型 / 小型（资本 €25,000；一人 GF）",
+   "officers": [
+    "Dipl.-Ing. Ashkan Ghaznavi Monfared — Geschäftsführer + Gesellschafter（*1974；2011 起）= 研究档 KP ashkan.ghaznavi@ 本人"
+   ],
+   "psc": "Ashkan Ghaznavi Monfared（推定全资）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**研究档 KP 坐实 = 老板本人**（GF + 股东，线缆行业销售出身）→ 发信直达决策人；14 次群发无回复 = 读而不回或进垃圾箱，第二次触达换主题不换人",
+    "自有品牌 AIXONTEC（Amazon 卖家 + 自家网店）+ 表内「工业 FS 常总的 / 现从国内供应商采购」= **已在华南买工业交换机贴自己标** → 对标现供应商报 STI 工业线贴 AIXONTEC 标（OEM 30%，MOQ 1），卖点 3 年保修 + Marvell 管理型（STI-288DGGPM $137）",
+    "规模微型（€25k 资本、一人 GF）→ 单量小但「自有标 + 已进口 + 决策人直达」三项全中 → **贴标试探首选 small**；Simon 表内「可以着重跟一下」与此一致",
+    "发信窗口 Thu 12–14 CET；信用：Amazon 卖家 + 2015 起无变更，T/T 前 100% 起步"
+   ],
+   "notes": "贴标试探 small（KP = 老板本人）。",
+   "code": "SB-232"
+  },
+  "SB-1091": {
+   "batch": 98,
+   "name": "TRIOTRONIK GmbH（2026-09-16 更名自 TRIOTRONIK Computer und Netzwerktechnik GmbH；triotronik.com；Weiz / Krottendorf, Steiermark, 奥地利）— 网络组件批发「der Netzwerkdistributor」+ 光纤 / 铜缆组件与 WLAN 天线制造（国别更正 DE → AT）",
+   "iso": "AT",
+   "fetched": "2026-10-28",
+   "source": "DE→AT · 1 次检索：akademie.triotronik.com Impressum（TRIOTRONIK Computer und Netzwerktechnik GmbH；Energiestraße 10, 8160 Weiz；UID ATU63017835；**Firmenbuchnr. 287460k LG ZRS Graz**；Geschäftsführung Peter Hofer-Perner, Thomas Thir；Beteiligung TRIOTRONIK Holding GmbH 100%；Unternehmensgegenstand 网络组件批发 + 光纤 / 铜缆网络组件与 WLAN 天线制造）+ firmenatlas（FN 287460K 活跃；**2026-09-16 更名 TRIOTRONIK GmbH**；2007-02-07 设立；2025 年报 Bilanzsumme €12.4M / Eigenkapital €3.7M / Jahresüberschuss €3.6M；GF Thomas Thir-Greiter *1983 + Peter Hofer-Perner *1967（均 2021-10-11 起单独代表）；Prokurist Bernhard Flicker *1986）+ WKO（GISA 20818319 / 20895938；Krottendorf 站点 2012-11-20 起）+ unternehmen24（资本 €35,000）+ Kleine Zeitung 2026-09-30「So will die Firma Triotronik in Weiz weiter wachsen」（三位股东 Thir-Greiter / Flicker 销售总监 / Hofer-Perner）",
+   "url": "https://www.firmenatlas.com/firma/287460k",
+   "number": "FN 287460k（LG ZRS Graz）；UID ATU63017835；GLN 9110017050682",
+   "status": "Active（2026-09-16 更名；2025 年报已交）",
+   "incorporated": "2007-02-07",
+   "company_type": "GmbH（资本 €35,000；TRIOTRONIK Holding GmbH 100% → 三位经营股东）",
+   "sic": [
+    "网络组件批发（MikroTik Master 分销、PLANET 在线销售专页、Ubiquiti 等）",
+    "光纤 / 铜缆网络组件与 WLAN 天线制造（自有品牌）",
+    "TRIOTRONIK Akademie 培训"
+   ],
+   "address": "Energiestraße 10, 8160 Weiz（Krottendorf）, Steiermark, Austria",
+   "accounts": "2025 年报：资产总额 €12.4M；权益 €3.7M（30.1%）；净利 €3.6M（firmenatlas）",
+   "accounts_due": "—",
+   "size_band": "中型（净利 €3.6M；奥地利区域性分销商）",
+   "officers": [
+    "Thomas Thir-Greiter — Geschäftsführer + Gesellschafter（2021-10-11 起；此前 Prokurist）",
+    "Peter (Hubert) Hofer-Perner — Geschäftsführer + Gesellschafter（2021-10-11 起）",
+    "Bernhard Flicker — Prokurist + Vertriebsleiter + Gesellschafter",
+    "Wolfgang Sembacher — 前 GF（已卸任）"
+   ],
+   "psc": "TRIOTRONIK Holding GmbH（100%）→ Thir-Greiter / Hofer-Perner / Flicker",
+   "charges": "",
+   "prev_names": [
+    "TRIOTRONIK Computer und Netzwerktechnik GmbH（2007-02-07 → 2026-09-16）"
+   ],
+   "lines": [
+    "**国别更正**：用户表归 DE，实为奥地利施蒂利亚 Weiz → country_fix 奥地利；发信窗口与 DE 同（Thu 12–14 CET）",
+    "**分销 20%，B BIG**：MikroTik Master 分销 + PLANET 专页 = 正好卖我们对标的两个牌子；2025 净利 €3.6M、2021 管理层收购后三位股东经营、2026-09 更名 + 扩张报道 → 有钱有渠道有决策人",
+    "收件人：研究档无 KP → 写 Bernhard Flicker（Vertriebsleiter + 股东，产品线决策）抄 office@；对标 PLANET GS-4210 / MikroTik CRS 报 STC-424XGGPM-280W（$198 list）+ HRUI 入门线，卖点 = PLANET 同规格 -30%、Marvell L2+、3 年保修（STI）",
+    "自有制造（光纤 / 铜缆组件 + 天线）= 有贴标习惯 → 第二句带「TRIOTRONIK 标 PoE 交换机 OEM 30%，MOQ 1」；升 A 候选（回信即 A）"
+   ],
+   "notes": "国别更正 AT；B BIG；分销 20% + 贴标；升 A 候选。",
+   "code": "SB-1091"
+  },
+  "SB-833": {
+   "batch": 98,
+   "name": "comtime GmbH（comtime-com.de；Norderstedt bei Hamburg）— 工业路由器 / M2M 调制解调器制造商「Made in Germany」（DIN 导轨；为他牌 OEM）",
+   "iso": "DE",
+   "fetched": "2026-10-28",
+   "source": "DE · 1 次检索：官网 Impressum（comtime GmbH；Gutenbergring 67b, 22848 Norderstedt；GF Markus Kasten；**HRB Kiel 4574 NO**；USt-ID DE 813138753；WEEE DE 84024192）+ Creditreform（HRB 4574 NO Amtsgericht Kiel；2026-02-04 公告：GF 3. Kasten, Markus *1995 Hamburg 单独代表；2025-03-24 公告：地址迁 Gutenbergring 67b）+ Creditsafe（2000 年登记）+ firmenwissen（Active；1 GF）+ PresseBox / wlw（Josef Dorfer = Marketing und Vertrieb, Vertriebsleiter）+ stellenwerk Bremen 2026-06（「Industrierouter Made in Germany – von der Hardware bis zur Firmware」）",
+   "url": "https://comtime-com.de/impressum/",
+   "number": "Amtsgericht Kiel HRB 4574 NO；USt-IdNr. DE 813138753",
+   "status": "Active（2026-02 新任 GF）",
+   "incorporated": "2000（登记）",
+   "company_type": "GmbH",
+   "sic": [
+    "工业路由器 / M2M 调制解调器（5G / LTE / DSL / LAN、OpenVPN 连接服务器、WebCenter 设备管理）自研自产",
+    "为第三方 OEM（站内 OEM 19 处）"
+   ],
+   "address": "Gutenbergring 67b, 22848 Norderstedt（2025-03 迁入；旧址 Gutenbergring 22）；研发招聘地 Bremen",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "Markus Kasten — Geschäftsführer（*1995；2026-02-04 登记，新任）",
+    "Josef Dorfer — Vertriebsleiter（Marketing und Vertrieb）= 研究档 KP jd@ 本人（2013 起即是销售负责人）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**准同行（工业路由器厂）**：不买交换机做转售，只可能「配套」→ 缝隙 = 他们的 DIN 导轨路由器旁边缺工业 PoE 交换机 → 贴 comtime 标的 STI-054GP / STI-144GP（4+1 SFP）做「Router + Switch 套件」= **贴标试探 small（OEM 30%）**",
+    "2026-02 换了 30 岁的新 GF（Markus Kasten）→ 新管理层常会补产品线 → 第二次触达写给新 GF 抄 Josef Dorfer，主题「DIN-rail PoE switch to pair with your LTE routers」",
+    "8 次群发无回复 + 「Made in Germany」品牌叙事 → 贴标要中性包装 + 不提产地争议；低优先，一页纸即止"
+   ],
+   "notes": "准同行；贴标试探 small；低概率。",
+   "code": "SB-833"
+  },
+  "SB-1003": {
+   "batch": 98,
+   "name": "aplus Datenkabel und Kommunikationssysteme GmbH & Co. KG（aplusnet.de / kabelprofi.net；Oldenburg）— 线缆组装起家的网络产品专业分销商（商标 a-plus / aplusNet；二代家族企业）",
+   "iso": "DE",
+   "fetched": "2026-10-28",
+   "source": "DE · 1 次检索：官网 Impressum（aplus Datenkabel und Kommunikationssysteme GmbH & Co. KG；Gerhard-Stalling-Straße 34, 26135 Oldenburg；**Amtsgericht Oldenburg HRA 4241**；Komplementärin aplusNET Beteiligungs-GmbH HRB 5681；GF Smilka Geserick, Sonja Geserick；USt-IdNr. DE814202910）+ companyhouse（2005-02-28；Kapital €250,000；Gesellschafter Sonja Geserick；Prokurist Arno Geserick 1994 起）+ kabelprofi.net Über uns / Compliance（1986 Arno Geserick 创办；1996 起扩至 IT 分销；1997 注册商标 a-plus / aplusNet；2005 二代 Smilka + Sonja Geserick 接班）+ Northdata（HRA 4241；文字图形商标 aplusNET）+ ChannelPartner「Spezial-Distributoren」名录（网络产品 + 定制线缆组装）",
+   "url": "https://www.aplusnet.de/Informationen/Impressum/",
+   "number": "Amtsgericht Oldenburg HRA 4241（KG）/ HRB 5681（Komplementär-GmbH）；USt-IdNr. DE814202910",
+   "status": "Active",
+   "incorporated": "1986（业务）/ 2005-02-28（现 KG 形式）",
+   "company_type": "GmbH & Co. KG（资本 €250,000；家族二代）",
+   "sic": [
+    "网络产品专业分销（SFP、工业交换机、MC、PoE；Digitus 等）",
+    "定制线缆 / 线束组装（机械设备、车辆测量、IT / 电信）",
+    "自有商标 a-plus / aplusNet"
+   ],
+   "address": "Gerhard-Stalling-Straße 34, 26135 Oldenburg",
+   "accounts": "—（KG 简式）",
+   "accounts_due": "—",
+   "size_band": "小型 / 中型（资本 €250,000；专业分销）",
+   "officers": [
+    "Sonja Geserick — Geschäftsführerin（Komplementär-GmbH）+ Gesellschafterin = 研究档 KP sonja.geserick@ 本人",
+    "Smilka Geserick — Geschäftsführerin",
+    "Arno Geserick — 创办人，Prokurist（1994 起）"
+   ],
+   "psc": "Geserick 家族",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**研究档 KP 坐实 = 老板本人**（二代 GF + 股东）→ 发信直达决策人",
+    "表内「Digitus 的产品很多，价格很高」= 现用 Assmann/Digitus 做 MC / 工业 FS / PoE 货源 → **分销 20%**：对标 Digitus 报 STC-110XGE（$65）/ STI-288DGGPM（$137）/ STC-228GP（$33），卖点 = 同规格 -30~40%",
+    "自有商标 aplusNet 已注册 29 年 + 自有线缆组装 = 有贴标基因 → 第二句「aplusNet 标 MC / PoE 交换机 OEM 30%，MOQ 1」；收件人 Sonja Geserick；发信窗口 Thu 12–14 CET",
+    "官网 unreachable（研究档）但 kabelprofi.net / Impressum 2026 在线 → 地址与邮箱有效；表内「质量一般」= Simon 对其货的评价，不影响发信"
+   ],
+   "notes": "KP = 老板本人；分销 20% + 贴标。",
+   "code": "SB-1003"
   }
  }
 }

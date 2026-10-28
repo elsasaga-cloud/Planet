@@ -32,7 +32,15 @@
    "date": "2026-10-19"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Aycan Türkay",
+   "role": "Key Principal（D&B；推定 müdür / 股东）= 收件人（bilgi@rimaelektronik.com 点名）（第 98 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "phone": "",
+   "source": "https://www.dnb.com/business-directory/company-profiles.rima_elektronik_bilisim_ve_guvenlik_sistemleri_sanayi_dis_ticaret_limited_sirketi.d597b24a4b8d4b314b57e7a2b00e6fc1.html"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -41,11 +49,12 @@
   "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-032，W 批次调研 2026-10-19/20）"
  },
  "company_facts": {
-  "legal_name": "Rima Elektronik Bilişim ve Güvenlik Sistemleri San. ve Dış Tic. Ltd. Şti.",
-  "founded": "",
-  "hq": "İstanbul（Florya）, 土耳其",
+  "legal_name": "Rima Elektronik Bilişim ve Güvenlik Sistemleri San. ve Dış Tic. Ltd. Şti.（MERSİS 0735068165000012；VKN 7350681650；资本 123,456 TL；注册商标 newstream）",
+  "founded": "2010-07-15（现名；业务 1997 / 2000 起）（第 98 批 官方登记核实 2026-10-28）",
+  "hq": "İstanbul",
   "size": "",
-  "other": "Planet 渠道档案 PB-032（2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json）；自有品牌：否；最大未知：年项目数与交换机台数；是否也转售给其他安装商"
+  "other": "Planet 渠道档案 PB-032（2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json）；自有品牌：否；最大未知：年项目数与交换机台数；是否也转售给其他安装商；第 98 批：安防集成商为主（校园 / 企业监控设计安装）→ 集成商 25%；网店在售 PLANET PoE → 对标 GS-4210-8P2S 报 STC-228GP、IGS 报 STI-288DGGPM；商标 newstream → 贴标试探 small 一句带过（第 98 批 官方登记核实 2026-10-28）",
+  "staff": "11–50 人"
  },
  "business_lines": [
   "安防集成商/经销（2000 年起；CCTV/IP 监控系统设计、安装、技术服务 + 产品销售；兼工业自动化方案；Turkcell 数字业务合作伙伴）"

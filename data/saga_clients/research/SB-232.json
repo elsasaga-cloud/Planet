@@ -43,7 +43,8 @@
    "title": "Managing Director",
    "email": "ashkan.ghaznavi@aixontec.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Geschäftsführer + Gesellschafter（HRB 19851 Aachen；Dipl.-Ing.，*1974；前 Leoni Kerpen / Niedax 销售）= **老板本人 = 收件人**（第 98 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -54,8 +55,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "德国",
-  "other": "官网 aixontec.com，语言 de，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Freunder Weg 106, 52068 Aachen",
+  "other": "官网 aixontec.com，语言 de，快照状态 ok；角色判定来源：官网文案；第 98 批：自有品牌 AIXONTEC（Amazon 卖家）+ 表内「工业 FS 现从国内供应商采购」= 已在华南买工业交换机贴标 → **贴标试探首选 small（OEM 30%）**：STI 工业线贴 AIXONTEC 标，MOQ 1，3 年保修；14 次群发无回复 → 第二次触达换主题不换人（第 98 批 官方登记核实 2026-10-28）",
+  "legal_name": "AIXONTEC GmbH（Amtsgericht Aachen HRB 19851；USt-IdNr. DE 301189253；资本 €25,000）",
+  "founded": "2015-07-21（合同）/ 2015-08-11（登记）；自称 2011 起（第 98 批 官方登记核实 2026-10-28）",
+  "staff": "微型 / 小型（一人 GF）"
  },
  "business_lines": [
   "网络技术网店（电缆 / 工业以太网 / 光纤）",
