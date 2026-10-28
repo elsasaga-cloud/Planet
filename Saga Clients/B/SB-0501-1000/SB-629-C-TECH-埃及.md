@@ -24,7 +24,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -146,16 +146,16 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **最近变化摘要**：2026-10-28 feed_auto：恢复可达（上轮 HTTP 509）
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-629/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://c-techeg.com/) | html | HTTP 509 | 2026-10-23T04:20:51Z | 官网首页（T27 快照状态 ok） |
-| [sitemap](https://c-techeg.com/wp-sitemap.xml) | sitemap | HTTP 509 | 2026-10-23T04:20:51Z | 站点地图（2026-10-21 时 29 条） |
-| [news_1](https://c-techeg.com/projects/) | html | HTTP 509 | 2026-10-23T04:20:51Z | 导航「Projects」 |
-| [feed_auto](https://c-techeg.com/feed/) | rss | HTTP 509 | 2026-10-23T04:20:51Z | 首页自动发现的 feed |
+| [home](https://c-techeg.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5357 字符；首行：C-TECH – Systems Integration Excellence |
+| [sitemap](https://c-techeg.com/wp-sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
+| [news_1](https://c-techeg.com/projects/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3051 字符；首行：Projects – C-TECH |
+| [feed_auto](https://c-techeg.com/feed/) | rss | HTTP 200 | 2026-10-28T08:44:48Z | 1 条；最新：Thu, 25 Jun 2026 13:13:29 Hello world! |
 
 - **人工定期看（登录墙，不自动抓）**：LinkedIn: https://www.linkedin.com/；Facebook: https://www.facebook.com/
 
@@ -265,12 +265,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

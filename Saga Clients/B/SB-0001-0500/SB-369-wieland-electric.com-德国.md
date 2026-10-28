@@ -240,15 +240,15 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-26T07:56:19Z
-- **最近变化摘要**：2026-10-26 news_1：内容变化：+141 −2 行
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **最近变化摘要**：2026-10-28 news_1：内容变化：+142 −2 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-369/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.wieland-electric.com/en/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 16720 字符；首行：Wieland Electric: Pioneer for electrical connection technology WEBSITE SETTING |
+| [home](https://www.wieland-electric.com/en/) | html | HTTP 200 | 2026-10-28T08:44:48Z | 16844 字符；首行：Wieland Electric: Pioneer for electrical connection technology WEBSITE SETTING |
 | [sitemap](https://www.wieland-electric.com/en/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
-| [news_1](https://www.wieland-electric.com/en/company/news/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 16400 字符；首行：Press & Public Relations \| Wieland Electric WEBSITE SETTINGS |
+| [news_1](https://www.wieland-electric.com/en/company/news/) | html | HTTP 200 | 2026-10-28T08:44:48Z | 16524 字符；首行：Press & Public Relations \| Wieland Electric WEBSITE SETTINGS |
 | [youtube](https://www.youtube.com/user/wielandelectric) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-06-26T10:15:37+00:00 Wieland PREFAB® x Tinglev \| Pilotprojekt N48: Elektroin |
 
 - **人工定期看（登录墙，不自动抓）**：LinkedIn: https://www.linkedin.com/company/wielandelectric

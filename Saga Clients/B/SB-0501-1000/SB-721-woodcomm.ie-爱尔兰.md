@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -73,6 +73,22 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 108 批（IE · 1 次检索：solocheck.ie / vision-net.ie（Wood Communications Limited；CRO 226087；B10 董事变更 2024–2026；Mr Mahony director since 2005）+ woodcomm.ie About / Planet 页（Founded in 1924；Irish owned and managed；Head Office L7 Ballymount Industrial Estate Dublin D12 FV07；PRL number IE01544W；sales@woodcomm.ie；+353 1 426 4000）+ electric.ie 百年报道（2007-11 MBO；Keith Mahony MD、Derek Finlay Sales Director、Pat Kennedy FD）+ irishtrade（Keith Mahony Managing Director），2026-10-28 查；https://www.solocheck.ie/Irish-Company/Wood-Communications-Limited-226087）：**
+
+- 法定名 / 登记号：Wood Communications Limited（woodcomm.ie；都柏林 Unit L7 Ballymount Industrial Estate, Ballymount Drive, Dublin 12, D12 FV07；CRO 226087；PRL IE01544W）— 1924 年起、2007-11 MBO 后爱尔兰本土持有的网络 / 布线 / 数据中心 / 安防分销商（Planet Technology 为其交换机品牌之一；面向集成商与数据中心；全岛 + 欧陆）；MD Keith Mahony（2005 起董事）、Sales Director Derek Finlay、FD Pat Kennedy；11–50 人（≈16）；群发 3 次打开 · CRO 226087 · 状态 **Normal** · 成立 1924（活动）；公司号 226087 · Limited（管理层持有）
+- 行业码 / 经营范围：网络 / 布线 / 数据中心 / IP CCTV 产品分销 + 培训（Planet 分销）
+- 注册地址：Unit L7, Ballymount Industrial Estate, Ballymount Drive, Dublin 12, D12 FV07
+- 规模档：小型（11–50 人）
+- 账目：—；—
+- 高管：Keith Mahony — Managing Director（2007 MBO 核心）= 拍板人
+- 高管：Derek Finlay — Sales Director = 收件人（sales@ 点名）
+- 高管：Pat Kennedy — Financial Director
+- 控制人 / 股东：管理层（Mahony / Finlay / Kennedy）
+- **这意味着什么：**
+  - **爱尔兰老牌网络分销商（台系交换机为其品牌之一）→ 分销 20%，B BIG，加厚一次**：STC-028GP / STC-228GP / STC-2224GP / STC-424XGGPM-280W + STI-054GP / STI-144GP 一页纸 + 1:1 对照 GSD-804P 类；稿内不点名 Planet；**UKCA 不适用（IE = CE）**
+  - 收件人 sales@ 点名 Derek Finlay，抄 Keith Mahony；3 次打开无回复 → 二次触达换切口「a second switch line for your trade counter」；发信窗口 Thu 12–14 GMT
+- 备注：分销 20%；B BIG；加厚一次；坐实（CRO）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -99,15 +115,18 @@ updated: 2026-10-27
 - **【第三方】L7 Ballymount Ind. Est., Dublin D12 FV07；约 16 人；数据中心基础设施分销**
   > distributor IP/infrastructure/security for data centres, 16 staff（名录摘要）
   > 来源：https://www.woodcomm.ie/（抓取 2026-10-19）
+- **KP**：Derek Finlay（Sales Director（2007 MBO 核心；electric.ie）= 收件人（sales@woodcomm.ie 点名）（第 108 批 官方登记核实 2026-10-28））sales@woodcomm.ie 〔https://electric.ie/wood-communications-celebrate-100-years-of-leadership-in-data-and-telecoms-infrastructure-solutions/〕
+- **KP**：Keith Mahony（Managing Director（2005 起董事；vision-net / irishtrade）= 拍板人（抄送）（第 108 批 官方登记核实 2026-10-28）） 〔https://www.vision-net.ie/Company-Info/Wood-Communications-Limited-226087〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-013，W 批次调研 2026-10-19/20））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Wood Communications Ltd |
+| 法定名称 | Wood Communications Limited（CRO 226087；PRL IE01544W） |
+| 成立 | 1924（活动）；公司号 226087（第 108 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Dublin 12, 爱尔兰 |
-| 其他 | Planet 渠道档案 PB-013（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：否；最大未知：PLANET 在其交换机销量占比；采购决策人 |
+| 其他 | Planet 渠道档案 PB-013（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：否；最大未知：PLANET 在其交换机销量占比；采购决策人；第 108 批：都柏林 Ballymount 老牌网络 / 布线 / 数据中心 / IP CCTV 分销商（Planet Technology 为其交换机品牌之一；2007-11 MBO 后管理层持有；11–50 人）→ **分销 20%，B BIG，加厚一次；次候选升 A**；UKCA 不适用（IE = CE）（第 108 批 官方登记核实 2026-10-28） |
 
 - **业务线**：分销商（IP/基础设施/安防分销，数据中心方向，约 16 人）
 
@@ -161,7 +180,7 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-721/`；本节随档案重渲染刷新，实时看日志。
 
@@ -187,6 +206,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Derek Finlay | Sales Director（2007 MBO 核心；electric.ie）= 收件人（sales@woodcomm.ie 点名）（第 108 批 官方登记核实 2026-10-28） | sales@woodcomm.ie | 调研核实（公开页） | https://electric.ie/wood-communications-celebrate-100-years-of-leadership-in-data-and-telecoms-infrastructure-solutions/ |
+| Keith Mahony | Managing Director（2005 起董事；vision-net / irishtrade）= 拍板人（抄送）（第 108 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.vision-net.ie/Company-Info/Wood-Communications-Limited-226087 |
 | Louise Burdock | — | louise@woodcomm.ie / pat@woodcomm.ie | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
@@ -254,7 +275,7 @@ updated: 2026-10-27
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hi Louise,
+Hi Derek,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Wood Communications lists PLANET switches in its infrastructure catalogue for Irish integrators, so an 8-port PoE+ with 2 SFP at a lower price point slots in without re-training anyone. Which PLANET switch size do your integrators order most, the 8-port PoE or the 24-port?
 
@@ -279,12 +300,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 33）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 33）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

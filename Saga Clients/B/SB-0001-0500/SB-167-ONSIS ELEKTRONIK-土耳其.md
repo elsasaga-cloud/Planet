@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -172,15 +172,15 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
-- **最近变化摘要**：2026-10-27 feed_auto：新增 3 条：Tue, 27 Oct 2026 03 The Hunger Games: Sunrise on the Reaping 2026 BRRip Eng Subs Ga
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **最近变化摘要**：2026-10-28 feed_auto：新增 1 条：Tue, 27 Oct 2026 21 Realdraw Crack only
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-167/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://onsis.com.tr/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1266 字符；首行：Onsis Elektrik Elektronik Güvenlik Sistemleri – Kalite ve Üstün Hizmetle Teknol |
 | [sitemap](https://onsis.com.tr/wp-sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
-| [feed_auto](https://onsis.com.tr/feed) | rss | HTTP 200 | 2026-10-27T08:02:45Z | 10 条；最新：Tue, 27 Oct 2026 03:47:40 The Hunger Games: Sunrise on the Reaping 2026 BRRip Eng  |
+| [feed_auto](https://onsis.com.tr/feed) | rss | HTTP 200 | 2026-10-28T08:44:48Z | 10 条；最新：Tue, 27 Oct 2026 21:41:41 Realdraw Crack only |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/www.oncuelektronik.net/；X/Twitter: http://www.twitter.com；LinkedIn: https://www.linkedin.com/company/onsis；Instagram: http://www.instagram.com
 
@@ -278,12 +278,12 @@ Esef Bey, ISAF'ta istediğiniz numune: 2 SFP + 8 port PoE L2 yönetilebilir end�
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 53）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 53）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -80,6 +80,21 @@ updated: 2026-10-28
 
 - 法定假日：10-31 All Saints' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 108 批（SE · 1 次检索：allabolag（Fibersystem AB；Org.nr 556605-4325；Gårdsfogdevägen 18 b 168 67 Bromma；Del av Addtech Nordic AB；Registreringsdatum 2001-01-22；13 anställda；VD John Oscar Lindberg f 1988；Ordförande Michael Ullskog f 1966）+ ratsit（Omsättning 266,9 MSEK 2025；+55,2 %）+ syna（Aktivt；SNI 26200 Tillverkning av datorer och kringutrustning）+ bolagsfakta（Deloitte 审计；Ledamot Anders Fallheden），2026-10-28 查；https://www.allabolag.se/foretag/fibersystem-ab/bromma/datorer-och-kringutrustningar-tillverkning/2K1VV05I63ILT）：**
+
+- 法定名 / 登记号：Fibersystem AB（fibersystem.se；斯德哥尔摩 Bromma Gårdsfogdevägen 18 A/B, 168 67；org.nr 556605-4325；VAT SE556605432501）— 2001-01-22 登记、Addtech Nordic AB（上市 Addtech 集团）子公司的安全通信设备**制造商**（SNI 26200：数据二极管、光纤隔离 / TEMPEST 级介质转换器等高保密网络产品，客户以国防 / 政府为主）；VD John Oscar Lindberg（1988 年生）；董事长 Michael Ullskog；13 人；2025 营收 SEK 266.9M（+55%）；表内「工业 FS」；群发 2 次打开 · Org.nr 556605-4325 · 状态 **Aktivt** · 成立 2001-01-22 · Aktiebolag（Addtech 集团子公司）
+- 行业码 / 经营范围：安全通信 / 高保密网络设备制造（SNI 26200；国防 / 政府客户）
+- 注册地址：Gårdsfogdevägen 18 A/B, 168 67 Bromma (Stockholm)
+- 规模档：小型高产值（13 人）
+- 账目：2025 营收 SEK 266.9M；—
+- 高管：John Oscar Lindberg — VD（Addtech 体系）
+- 高管：Michael Ullskog — Styrelseordförande
+- 控制人 / 股东：Addtech Nordic AB（Addtech AB 上市集团）
+- **这意味着什么：**
+  - **上市集团旗下、以国防 / 政府为主业的保密通信制造商 → 守界（军工 / 政府主营，Saga 不碰）+ 自研产品非我方品类 → 不动**；Addtech 集团采购自有体系
+  - 不进发送包；记为「守界不动」
+- 备注：坐实（org.nr）；守界不动（国防 / 政府主业）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -114,14 +129,17 @@ updated: 2026-10-28
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Oscar Lindberg（）oscar.lindberg@fibersystem.com 〔用户表〕
 - **KP**：Anne Ekblad（）anne.ekblad@fibersystem.com 〔用户表〕
+- **KP**：John Oscar Lindberg（VD（allabolag；Addtech 体系）— 仅记录，不发（第 108 批 官方登记核实 2026-10-28）） 〔https://www.allabolag.se/foretag/fibersystem-ab/bromma/datorer-och-kringutrustningar-tillverkning/2K1VV05I63ILT〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Fibersystem AB（org.nr 556605-4325；Addtech Nordic AB 子公司） |
+| 成立 | 2001-01-22（第 108 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 瑞士 |
-| 其他 | 官网 fibersystem.com，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 fibersystem.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 108 批：Bromma 保密通信设备制造商（SNI 26200；数据二极管 / TEMPEST 级产品；13 人；2025 营收 SEK 266.9M；客户国防 / 政府）→ **守界不动（军工 / 政府主业；自研产品非我方品类）**（第 108 批 官方登记核实 2026-10-28） |
 
 - **业务线**：光纤传输设备 / 视频 / 以太网（自有品牌）；数据二极管 / TEMPEST 安全产品
 - **触达通道（公开）**：role: 光纤安全产品开发商（瑞典，自有品牌；MC/FS 外采）；region: 瑞典；contact: info@fibersystem.com、oscar.lindberg@fibersystem.com
@@ -161,7 +179,7 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1029/`；本节随档案重渲染刷新，实时看日志。
 
@@ -190,6 +208,7 @@ updated: 2026-10-28
 |---|---|---|---|---|
 | Oscar Lindberg | — | oscar.lindberg@fibersystem.com | 调研核实（公开页） | 用户表 |
 | Anne Ekblad | — | anne.ekblad@fibersystem.com | 调研核实（公开页） | 用户表 |
+| John Oscar Lindberg | VD（allabolag；Addtech 体系）— 仅记录，不发（第 108 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.allabolag.se/foretag/fibersystem-ab/bromma/datorer-och-kringutrustningar-tillverkning/2K1VV05I63ILT |
 
 - **通道建议**：企业邮箱可直发
 

@@ -79,6 +79,20 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day; National Unity Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 108 批（IT · 1 次检索：grinsrl.it（Grin srl C.da Mascolo s.n.c. 74020 Torricella (TA)；tel/fax +39 099 957 31 54；info@grinsrl.it；Partita IVA 02710060738；Electro-instrumental plants；Competences for 4 sectors；Partners Terna / Peroni / Heineken / Enea / Sidel / Unilever / Siemens）；REA / 营收未取（1 次检索无登记站命中）→ 部分坐实，2026-10-28 查；http://www.grinsrl.it/?page_id=7023&lang=en）：**
+
+- 法定名 / 登记号：Grin s.r.l.（grinsrl.it；塔兰托 Torricella C.da Mascolo s.n.c., 74020 (TA)；P.IVA 02710060738；REA 未取）— 电气 / 仪表工程承包商（配电柜设计制造、中低压线路、高压变电站电气仪表接线、灌装 / 包装线布线、光伏电站；4 个领域：配电柜 / 工业自动化 / 能源 / 可再生能源；客户 Terna、Peroni、Heineken、Sidel、Unilever、Siemens 等）；群发 2 次打开；表内「switch」「质量一般」 · P.IVA 02710060738（REA 未取） · 状态 **Active（站点口径）** · 成立 未取 · S.r.l.（私有）
+- 行业码 / 经营范围：电气 / 仪表工程承包 + 配电柜制造（工业、能源、光伏）
+- 注册地址：C.da Mascolo s.n.c., 74020 Torricella (TA)
+- 规模档：小型（推定）
+- 账目：—；—
+- 高管：（未具名）— 收件人 info@grinsrl.it（点名 ufficio tecnico / acquisti quadri）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **配电柜制造 + 工业电气承包商（柜内要工业交换机）→ 集成 25% small，一页纸一次（STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM 配 PLC 柜）；有回声再加厚**；不谈 IEC 61850 / 变电站认证
+  - 2 次打开无回复 → 二次触达换切口「DIN-rail switches for your panel builds」；发信窗口 Thu 12–14 CET；意语一句引子
+- 备注：集成 25% small；一页纸一次；部分坐实（P.IVA 站脚）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -118,8 +132,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Grin s.r.l.（P.IVA 02710060738；REA 未取 → 部分坐实） |
+| 成立 | 未取（第 108 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 grinsrl.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 grinsrl.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案；第 108 批：Torricella (TA) 电气 / 仪表工程承包 + 配电柜制造（客户 Terna / Heineken / Sidel / Siemens 等）→ **集成 25% small，一页纸一次（STI 配 PLC 柜）**（第 108 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电气仪表安装（工业 / 能源）
 - **触达通道（公开）**：role: 电气仪表安装商（意大利，网络为边缘品类）；region: 意大利；contact: info@grinsrl.it
@@ -154,7 +170,7 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1036/`；本节随档案重渲染刷新，实时看日志。
 

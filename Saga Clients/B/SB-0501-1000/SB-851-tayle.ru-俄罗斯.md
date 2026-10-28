@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 4
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -186,17 +186,17 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
-- **最近变化摘要**：2026-10-27 telegram：内容变化：+106 −26 行
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **最近变化摘要**：2026-10-28 telegram：内容变化：+113 −29 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-851/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.tayle.ru/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 1502 字符；首行：Тайле |
-| [sitemap](https://www.tayle.ru/sitemap.xml) | sitemap | HTTP 200 | 2026-10-27T08:02:45Z | 900 个 URL；最新 lastmod 2026-10-27 |
+| [sitemap](https://www.tayle.ru/sitemap.xml) | sitemap | HTTP 200 | 2026-10-28T08:44:48Z | 900 个 URL；最新 lastmod 2026-10-27 |
 | [news_1](https://www.tayle.ru/pubs/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1097 字符；首行：All publications |
 | [vk](https://vk.com/taylenews) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7 字符；首行：‌ |
-| [telegram](https://t.me/s/taylenews) | html | HTTP 200 | 2026-10-27T08:02:45Z | 20449 字符；首行：ТАЙЛЕ – Telegram |
+| [telegram](https://t.me/s/taylenews) | html | HTTP 200 | 2026-10-28T08:44:48Z | 20065 字符；首行：ТАЙЛЕ – Telegram |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -310,12 +310,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 B，分数 30）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 B，分数 30）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

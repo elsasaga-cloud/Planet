@@ -78,6 +78,20 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 108 批（NL · 1 次检索：ipcamerawebwinkel.nl 页脚 / 条款（Ipcamerawebwinkel/Zeevalk IT；Nijverheidsstraat 4 2995 AP Heerjansdam；K.v.K. 60651792；BTW NL199719214B01；h.o.d.n. Zeevalk IT）+ oozo.nl（Zeevalk IT；kvk 60651792；1 persoon werkzaam）+ drimble（Eigenaar Laurens Marnix Zeevalk；12 jaar actief）+ reolinkcamera.nl 经销名单，2026-10-28 查；https://www.ipcamerawebwinkel.nl/）：**
+
+- 法定名 / 登记号：Zeevalk IT（h.o.d.n. Ipcamerawebwinkel；ipcamerawebwinkel.nl / zeevalk.nl；个体；Heerjansdam Nijverheidsstraat 4, 2995 AP（前 Rotterdam Nieuwenoord 175）；KvK 60651792；BTW NL199719214B01）— 鹿特丹地区网页设计 + IT 服务 + IP 摄像机网店（Hikvision / Reolink 经销）；业主 Laurens Marnix Zeevalk；1 人；群发 2 次打开；表内「线缆 PoE 相关产品较少」 · KvK 60651792 · 状态 **Actief** · 成立 ≈2014（KvK 6065…） · Eenmanszaak（个体）
+- 行业码 / 经营范围：网页设计 / IT 服务 + IP 摄像机网店
+- 注册地址：Nijverheidsstraat 4, 2995 AP Heerjansdam
+- 规模档：个体（1 人）
+- 账目：—；—
+- 高管：Laurens Marnix Zeevalk — Eigenaar
+- 控制人 / 股东：业主本人
+- **这意味着什么：**
+  - **一人兼营网店（主业网页设计）→ 不动；B 保留但不进发送包**
+  - 若日后询盘再按分销 20% small 对待
+- 备注：坐实（KvK 个体）；不动（一人兼营）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -111,14 +125,17 @@ updated: 2026-10-28
 - **【用户表】线缆 PoE 产品较少**
   > 线缆 POE相关的 产品较少
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Laurens Marnix Zeevalk（Eigenaar（drimble；个体）— 仅记录（第 108 批 官方登记核实 2026-10-28）） 〔https://drimble.nl/bedrijf/heerjansdam/29829178/zeevalk-it.html〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Zeevalk IT（h.o.d.n. Ipcamerawebwinkel；eenmanszaak；KvK 60651792；BTW NL199719214B01） |
+| 成立 | ≈2014（第 108 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 荷兰 |
-| 其他 | 官网 ipcamerawebwinkel.nl，语言 nl-NL，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 ipcamerawebwinkel.nl，语言 nl-NL，快照状态 ok；角色判定来源：官网文案；第 108 批：Heerjansdam 一人兼营（主业网页设计 + IP 摄像机网店）→ **不动**（第 108 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IP 摄像机网店 / 网页设计与 IT 服务（荷兰）
 - **触达通道（公开）**：role: IP 摄像机网店（荷兰，IT 服务公司兼营）；region: 荷兰；contact: info@zeevalk.nl
@@ -154,7 +171,7 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1043/`；本节随档案重渲染刷新，实时看日志。
 
@@ -177,7 +194,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@zeevalk.nl | 用户表原值 | Clients/ 表 |
+| Laurens Marnix Zeevalk | Eigenaar（drimble；个体）— 仅记录（第 108 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://drimble.nl/bedrijf/heerjansdam/29829178/zeevalk-it.html |
 
 - **通道建议**：企业邮箱可直发
 
@@ -212,7 +229,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：欧洲主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -229,7 +246,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ✅ |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |

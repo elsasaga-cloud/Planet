@@ -1,7 +1,7 @@
 # securame.com
 **官方名称（调研核实）**：Securame（意大利 / 西班牙）
 
-> **评级 B**　|　意大利　|　档案编号 `SB-1072`　|　优先级 ★★　|　状态：名单内·未触达
+> **评级 B**　|　西班牙　|　档案编号 `SB-1072`　|　优先级 ★★　|　状态：名单内·未触达
 >
 > **类型**：安防集成/经销（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:Italy、表:Spain　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -11,7 +11,8 @@ rating: B
 rating_auto: B
 name_official: "Securame（意大利 / 西班牙）"
 score: 25
-country: 意大利
+country: 西班牙
+country_table: 意大利  # 表内原填；调研纠正为 西班牙（research JSON country_fix）
 region: 欧洲
 website: securame.com
 type: 安防集成/经销
@@ -78,16 +79,30 @@ updated: 2026-10-28
 
 - `securame.com` → 主机商 cPanel 类邮箱（MX：mail.securame.com）。主机商附带邮箱（主机商 cPanel 类邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（意大利 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
+**假日避让（西班牙 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
 
-- 法定假日：11-01 All Saints' Day; National Unity Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 窗口内无该国法定假日
+
+**公司底数 · 第 108 批（ES · 1 次检索：securame.com 首页 / Contacte（C. Sepúlveda 161 08011 Barcelona；933 90 88 29；contacto@securame.com）+ axesor（Securame sl；CIF B62808498；Fecha de constitución 01/03/2002；C/ SEPULVEDA 161 P.BA. 08011 BARCELONA）+ einforma（Denominación Antigua TWISTED REALITY S.L.；domicilio anterior Calle Rosselló 372）+ empresia（CNAE 4652；Ventas 0.5M €；Administradores solidarios）+ confianzaonline（Razón social SECURAME, S.L.）+ LinkedIn（2–10；1999 活动），2026-10-28 查；https://www.axesor.es/Informes-Empresas/2385474/SECURAME_SL.html）：**
+
+- 法定名 / 登记号：SECURAME, S.L.（原 TWISTED REALITY S.L.；securame.com；巴塞罗那 C/ Sepúlveda 161 local, 08011；CIF B62808498）— 2002-03-01 成立的视频监控 / 安防批发网店（Safire 经销点、CCTV / 报警 / 录像机；CNAE 4652）；2–10 人；销售额 ≈€0.5M（2021）；**研究档误记意大利 → 实为西班牙（country_fix）**；群发 2 次打开 · CIF B62808498 · 状态 **Active** · 成立 2002-03-01 · S.L.（私有；小微）
+- 行业码 / 经营范围：视频监控 / 安防设备批发 + 网店（CNAE 4652）
+- 注册地址：C/ Sepúlveda 161, local, 08011 Barcelona
+- 规模档：小微（2–10 人）
+- 账目：销售额 ≈€0.5M（2021 口径）；—
+- 高管：（未具名；administradores solidarios）— 收件人 contacto@securame.com
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **巴塞罗那小型 CCTV 批发网店 → 分销 20% small，一页纸一次（STC-028GP / STC-228GP 配其摄像机套件）；有回声再加厚**；国别改为西班牙（发信窗口 Thu 12–14 CET；西语一句引子）
+  - 2 次打开无回复 → 二次触达换切口；稿内不点名 Safire / Hikvision
+- 备注：分销 20% small；一页纸一次；坐实（CIF）；country_fix 西班牙。
 
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | securame.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 意大利（另见：西班牙） | 事实（用户表）|
+| 国家 | 西班牙（另见：西班牙） | 事实（用户表）|
 | 网站/域名 | securame.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 安防集成/经销 | 推断（据兴趣/备注关键词） |
 | 联系人 | 质量一般 | 事实（用户表） |
@@ -108,16 +123,17 @@ updated: 2026-10-28
 - **【用户表】FS 也有其他牌子，CCTV 为主海康大华；商业 POE 很多种外壳**
   > 兴趣：FS 也有其他牌子 CCTV为主 海康大华;商业POE 很多种外壳
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：（未具名）（）contacto@securame.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：（未具名）（通用箱（administradores solidarios 未具名）= 收件人（第 108 批 官方登记核实 2026-10-28））contacto@securame.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Securame（待核） |
+| 法定名称 | SECURAME, S.L.（原 TWISTED REALITY S.L.；CIF B62808498；Registro Mercantil de Barcelona） |
+| 成立 | 2002-03-01（第 108 批 官方登记核实 2026-10-28） |
 | 总部/地址 | （西班牙 / 意大利，待核） |
-| 其他 | 国别待核（contacto@ 西语） |
+| 其他 | 国别待核（contacto@ 西语）；第 108 批：**巴塞罗那（研究档误记意大利 → country_fix 西班牙）** 视频监控 / 安防批发网店（Safire 经销；2–10 人；销售 ≈€0.5M）→ **分销 20% small，一页纸一次**；发信窗口 Thu 12–14 CET；西语引子（第 108 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防电商
 - **触达通道（公开）**：role: 电商；region: 西班牙 / 意大利
@@ -155,13 +171,13 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
-- **最近变化摘要**：2026-10-27 home：内容变化：+28 −8 行
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **最近变化摘要**：2026-10-28 home：内容变化：+31 −11 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1072/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.securame.com/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 13333 字符；首行：Securame |
+| [home](https://www.securame.com/) | html | HTTP 200 | 2026-10-28T08:44:48Z | 13333 字符；首行：Securame |
 
 ## 联系方式（已有 · 原值照录）
 

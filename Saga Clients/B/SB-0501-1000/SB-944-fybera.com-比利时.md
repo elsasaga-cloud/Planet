@@ -76,6 +76,20 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-11 Armistice Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 108 批（BE · 1 次检索「Fybera BVBA ondernemingsnummer」→ 仅 brandfetch 摘要（Fybera；optical communication distributor；founded 2010；2–10 employees）+ 同名异主 Fyber49 SRL 0839.140.763 / Fiberbroker BVBA 0649.404.805 / T.V.S.-FIBER BV（≠）；查不到即停，2026-10-28 查；https://fybera.com/）：**
+
+- 法定名 / 登记号：Fybera（fybera.com；研究档记比利时；「leading distributor in the optical communication industry」：无源器件、光纤工具、线缆、测试仪、端接配件；表内「MC 自己的 logo，周边产品较多，看着像国内的外壳」）— 官网快照不可达 + 1 次检索（KBO / companyweb 口径）未命中任何 Fybera 法人（仅 Fyber49 / Fiberbroker / F.I.B.E.R. 等同名异主）→ **未坐实**；群发 12 次无回复 · 未取（未坐实） · 状态 **未核（官网不可达）** · 成立 2010（brandfetch 口径） · 未取
+- 行业码 / 经营范围：光通信产品分销（自贴标 MC）— 口径来自研究档
+- 注册地址：未取（研究档：比利时）
+- 规模档：小微（2–10 口径）
+- 账目：—；—
+- 高管：（未具名）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自贴标 MC 本是贴标目标，但官网不可达 + 12 次无回复 + 法人未坐实 → 不动**
+  - 不进发送包；记入「待补证」
+- 备注：未坐实；不动（官网不可达 + 12 次无回复）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -108,8 +122,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Fybera（品牌；比利时法人未取 → 未坐实） |
+| 成立 | 2010（brandfetch 口径）（第 108 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 比利时 |
-| 其他 | 官网 fybera.com，语言 ?，快照状态 unreachable；角色判定来源：用户表 |
+| 其他 | 官网 fybera.com，语言 ?，快照状态 unreachable；角色判定来源：用户表；第 108 批：官网不可达 + 1 次检索（KBO / companyweb 口径）未命中法人 + 12 次群发无回复 → **不动**（自贴标 MC 本是贴标目标，待官网 / 法人恢复可查再议）（第 108 批 官方登记核实 2026-10-28） |
 
 - **业务线**：光纤配件 / MC（自有品牌 Fybera）
 - **触达通道（公开）**：role: 光纤配件品牌商（比利时，自有标 MC；官网待核）；region: 比利时；contact: sales@fybera.com
@@ -154,7 +170,7 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-27T08:02:45Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-28T08:44:48Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-944/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |

@@ -1,168 +1,177 @@
 {
-  "code": "SB-1088",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（tipteh.com，快照 2026-10-21）",
-  "summary": "斯洛文尼亚卢布尔雅那 Tipteh d.o.o.（「your automation partner」：工业自动化分销集团，东南欧多国子公司；站内 Hirschmann GREYHOUND2000 / BAT120、Robox、工业 PC（Axiomtek）、Secomea 远程访问、ATEX 安全开关；表内「工业 FS 好几个牌子的」「很多欧洲国家办事处」；表内国别未填 → 官网/集团总部为斯洛文尼亚）；表内无跟进记录。",
-  "type": "工业自动化分销集团（Hirschmann 等）",
-  "size": "",
-  "brands_seen": [
-    "Ubiquiti",
-    "Hirschmann",
-    "Secomea",
-    "Axiomtek"
-  ],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：Tipteh - your automation partner；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "Tipteh is a leading industrial automation company and we are constantly expanding the scope of its activities and product range.",
-      "url": "https://tipteh.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "工业FS 好几个牌子的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "领先的工业自动化公司，持续扩展产品范围",
-      "quote": "Tipteh is a leading industrial automation company and we are constantly expanding the scope of its activities and product range.",
-      "url": "https://tipteh.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "工业 FS 多品牌、多国办事处",
-      "quote": "工业FS 好几个牌子的；很多欧洲国家办事处",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-1088",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（tipteh.com，快照 2026-10-21）",
+ "summary": "斯洛文尼亚卢布尔雅那 Tipteh d.o.o.（「your automation partner」：工业自动化分销集团，东南欧多国子公司；站内 Hirschmann GREYHOUND2000 / BAT120、Robox、工业 PC（Axiomtek）、Secomea 远程访问、ATEX 安全开关；表内「工业 FS 好几个牌子的」「很多欧洲国家办事处」；表内国别未填 → 官网/集团总部为斯洛文尼亚）；表内无跟进记录。",
+ "type": "工业自动化分销集团（Hirschmann 等）",
+ "size": "",
+ "brands_seen": [
+  "Ubiquiti",
+  "Hirschmann",
+  "Secomea",
+  "Axiomtek"
+ ],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：Tipteh - your automation partner；品类词 安防监控（CCTV / 门禁） / 工业自动化 / OT 网络 / 无线 / WiFi / 布线 / 线缆 / 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "Tipteh is a leading industrial automation company and we are constantly expanding the scope of its activities and product range.",
+   "url": "https://tipteh.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "欧洲（国别未填）",
-    "other": "官网 tipteh.com，语言 en-GB，快照状态 ok；角色判定来源：官网文案"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS 好几个牌子的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "工业自动化分销（传感 / 驱动 / 工业 PC / 工业网络）",
-    "ATEX 防爆设备",
-    "远程访问（Secomea）"
-  ],
-  "channels": {
-    "role": "工业自动化分销集团（Hirschmann 等）",
-    "region": "斯洛文尼亚",
-    "contact": "info@tipteh.com"
+  {
+   "kind": "官网快照",
+   "claim": "领先的工业自动化公司，持续扩展产品范围",
+   "quote": "Tipteh is a leading industrial automation company and we are constantly expanding the scope of its activities and product range.",
+   "url": "https://tipteh.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：leading industrial automation company，不断扩展产品范围",
-    "站内型号 GREYHOUND2000、BAT120（Hirschmann）、ROBOX300",
-    "产品页 /industrial-computers-networking/powerful-industrial-pc-with-poe-ports/"
-  ],
-  "risks": [
-    "Hirschmann/Belden 渠道：白牌工业机引入门槛高，预期低",
-    "集团多国子公司：决策在卢布尔雅那总部还是各国分公司需核",
-    "斯洛文尼亚为小国（不主动挖掘名单），但为表内既有线索故保留 B"
-  ],
-  "saga_fit": {
-    "p1": "STI-288GPM",
-    "tier": 20,
-    "why": "代理 Hirschmann 等高端工业网络 → Saga 作预算位：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）；首触只谈「非关键节点预算位」"
-  },
-  "email_hook": "For the automation sites where a Hirschmann-class switch is over-specified, we supply DIN-rail 8-port managed (Marvell L2+) and unmanaged industrial switches (2 SFP, −40~75 °C, neutral packing) from small lots — which of your country offices would run a first bench test?",
-  "products_seen": [
-    {
-      "brand": "Hirschmann",
-      "model": "GREYHOUND2000",
-      "spec": "工业管理型交换机（Belden）",
-      "saga": "STI-288GPM（预算位）",
-      "url": "https://tipteh.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "brand": "Hirschmann",
-      "model": "BAT120",
-      "spec": "工业 WLAN",
-      "saga": "（Saga 不做）",
-      "url": "https://tipteh.com/",
-      "date": "2026-10-21"
-    }
-  ],
-  "country_fix": "斯洛文尼亚",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（S 邮箱 1 封 2024，无记录打开，0 回；收件 info@tipteh.com；主题多为「24 port poe switch」）；Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，北欧/中东欧 批次 To info@dasys.fi，0 回（第 73 批(o) Bcc 头核对 msg 19ffb43006420c22）",
-      "type": "工业自动化分销集团（Hirschmann 等）",
-      "sieve": "1（只收到群发）",
-      "stop": "只打通用邮箱，无记录打开",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "斯洛文尼亚（欧洲全域主攻）",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 1；用户表：「工业FS 好几个牌子的」；研究档 risks：Hirschmann/Belden 渠道：白牌工业机引入门槛高，预期低；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@dasys.fi）2025-02-16→2026-08-13 共 10 轮群发（Industrial PoE Switch、8 Port Industrial PoE Switch、Marvell Alleycat5 Solution、48 Port PoE Managed Switch、16 Port Ethernet Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
-    },
-    "situation": "斯洛文尼亚卢布尔雅那 Tipteh d.o.o.（「your automation partner」：工业自动化分销集团，东南欧多国子公司；站内 Hirschmann GREYHOUND2000 / BAT120、Robox、工业 PC（Axiomtek）、Secomea 远程访问、ATEX 安全开关；表内「工业 FS 好几个牌子的」「很多欧洲国家办事处」；表内国别未填 → 官网/集团总部为斯洛文尼亚）；表内无跟进记录。",
-    "need": "代理 Hirschmann 等高端工业网络 → Saga 作预算位：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）；首触只谈「非关键节点预算位」",
-    "breakpoint": "Hirschmann/Belden 渠道：白牌工业机引入门槛高，预期低",
-    "saga_now": {
-      "p1": "STI-288GPM",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-13；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "代理 Hirschmann 等高端工业网络 → Saga 作预算位：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）；首触只谈「非关键节点预算位」",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "For the automation sites where a Hirschmann-class switch is over-specified, we supply DIN-rail 8-port managed (Marvell L2+) and unmanaged industrial switches (2 SFP, −40~75 °C, neutral packing) from small lots — which of your country offices would run a first bench test?"
-    },
-    "facts": [
-      {
-        "date": "2024-09-01",
-        "dir": "去",
-        "who": "S 群发",
-        "quote": "24 port poe switch",
-        "why": "1 封 / 0 次打开 / 0 回｜首封 2024-09-01 → 末封 2024-09-01（1 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2025-02-16",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@alphatelecom.cc，北欧/中东欧 批次）",
-        "quote": "Industrial PoE Switch — This is a Marvell based industrial PoE switch for you. Port: 2*Gigabit SFP+4*Gigabit PoE Feature: 120W budget, PoE watchdog, 250-meter poe distance, s",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@tipteh.com, tipteh.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-08-13",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@dasys.fi，北欧/中东欧 批次）",
-        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@tipteh.com, tipteh.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "工业FS 好几个牌子的",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-25"
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 多品牌、多国办事处",
+   "quote": "工业FS 好几个牌子的；很多欧洲国家办事处",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Damijan Jager",
+   "role": "Direktor（bizi.si / ebonitete / companywall.si）= 拍板人 / 收件人（info@tipteh.si 点名）（第 108 批 官方登记核实 2026-10-28）",
+   "email": "info@tipteh.si",
+   "source": "https://www.bizi.si/TIPTEH-D-O-O/"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "欧洲（国别未填）",
+  "other": "官网 tipteh.com，语言 en-GB，快照状态 ok；角色判定来源：官网文案；第 108 批：卢布尔雅那工业自动化分销集团（30+ 品牌含 Hirschmann 工业交换机；子公司 SI / HR / BA / RS / MK，集团 140+ 人；SI 本体 30 人、营收 €9.42M、权益 €7.76M）→ **分销 20%，B BIG，加厚一次（STI 作 Hirschmann 第二价位）；升 A 候选（回信即 A）**（第 108 批 官方登记核实 2026-10-28）",
+  "legal_name": "TIPTEH d.o.o., zastopanje in distribucija（matična 5935652000；DŠ SI53509382）",
+  "founded": "1996-03-15（第 108 批 官方登记核实 2026-10-28）"
+ },
+ "business_lines": [
+  "工业自动化分销（传感 / 驱动 / 工业 PC / 工业网络）",
+  "ATEX 防爆设备",
+  "远程访问（Secomea）"
+ ],
+ "channels": {
+  "role": "工业自动化分销集团（Hirschmann 等）",
+  "region": "斯洛文尼亚",
+  "contact": "info@tipteh.com"
+ },
+ "signals": [
+  "官网：leading industrial automation company，不断扩展产品范围",
+  "站内型号 GREYHOUND2000、BAT120（Hirschmann）、ROBOX300",
+  "产品页 /industrial-computers-networking/powerful-industrial-pc-with-poe-ports/"
+ ],
+ "risks": [
+  "Hirschmann/Belden 渠道：白牌工业机引入门槛高，预期低",
+  "集团多国子公司：决策在卢布尔雅那总部还是各国分公司需核",
+  "斯洛文尼亚为小国（不主动挖掘名单），但为表内既有线索故保留 B"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 20,
+  "why": "代理 Hirschmann 等高端工业网络 → Saga 作预算位：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）；首触只谈「非关键节点预算位」"
+ },
+ "email_hook": "For the automation sites where a Hirschmann-class switch is over-specified, we supply DIN-rail 8-port managed (Marvell L2+) and unmanaged industrial switches (2 SFP, −40~75 °C, neutral packing) from small lots — which of your country offices would run a first bench test?",
+ "products_seen": [
+  {
+   "brand": "Hirschmann",
+   "model": "GREYHOUND2000",
+   "spec": "工业管理型交换机（Belden）",
+   "saga": "STI-288GPM（预算位）",
+   "url": "https://tipteh.com/",
+   "date": "2026-10-21"
+  },
+  {
+   "brand": "Hirschmann",
+   "model": "BAT120",
+   "spec": "工业 WLAN",
+   "saga": "（Saga 不做）",
+   "url": "https://tipteh.com/",
+   "date": "2026-10-21"
+  }
+ ],
+ "country_fix": "斯洛文尼亚",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（S 邮箱 1 封 2024，无记录打开，0 回；收件 info@tipteh.com；主题多为「24 port poe switch」）；Elsa 群发 BCC 已触达 2026-08-13「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，北欧/中东欧 批次 To info@dasys.fi，0 回（第 73 批(o) Bcc 头核对 msg 19ffb43006420c22）",
+   "type": "工业自动化分销集团（Hirschmann 等）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "斯洛文尼亚（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 1；用户表：「工业FS 好几个牌子的」；研究档 risks：Hirschmann/Belden 渠道：白牌工业机引入门槛高，预期低；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To info@dasys.fi）2025-02-16→2026-08-13 共 10 轮群发（Industrial PoE Switch、8 Port Industrial PoE Switch、Marvell Alleycat5 Solution、48 Port PoE Managed Switch、16 Port Ethernet Switch、Mini Industrial PoE Switch、10G Enterprise SFP Switch、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
+  },
+  "situation": "斯洛文尼亚卢布尔雅那 Tipteh d.o.o.（「your automation partner」：工业自动化分销集团，东南欧多国子公司；站内 Hirschmann GREYHOUND2000 / BAT120、Robox、工业 PC（Axiomtek）、Secomea 远程访问、ATEX 安全开关；表内「工业 FS 好几个牌子的」「很多欧洲国家办事处」；表内国别未填 → 官网/集团总部为斯洛文尼亚）；表内无跟进记录。",
+  "need": "代理 Hirschmann 等高端工业网络 → Saga 作预算位：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）；首触只谈「非关键节点预算位」",
+  "breakpoint": "Hirschmann/Belden 渠道：白牌工业机引入门槛高，预期低",
+  "saga_now": {
+   "p1": "STI-288GPM",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-13；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+   "why": "代理 Hirschmann 等高端工业网络 → Saga 作预算位：工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）；首触只谈「非关键节点预算位」",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "For the automation sites where a Hirschmann-class switch is over-specified, we supply DIN-rail 8-port managed (Marvell L2+) and unmanaged industrial switches (2 SFP, −40~75 °C, neutral packing) from small lots — which of your country offices would run a first bench test?"
+  },
+  "facts": [
+   {
+    "date": "2024-09-01",
+    "dir": "去",
+    "who": "S 群发",
+    "quote": "24 port poe switch",
+    "why": "1 封 / 0 次打开 / 0 回｜首封 2024-09-01 → 末封 2024-09-01（1 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2025-02-16",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@alphatelecom.cc，北欧/中东欧 批次）",
+    "quote": "Industrial PoE Switch — This is a Marvell based industrial PoE switch for you. Port: 2*Gigabit SFP+4*Gigabit PoE Feature: 120W budget, PoE watchdog, 250-meter poe distance, s",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@tipteh.com, tipteh.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-08-13",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@dasys.fi，北欧/中东欧 批次）",
+    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@tipteh.com, tipteh.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业FS 好几个牌子的",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-25"
+ }
 }

@@ -79,6 +79,20 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 108 批（RO · 1 次检索：bluenote.ro 首页 / Contact（Număr de înregistrare ONRC J22/101/22.01.2003；CUI RO15146404；Capital social vărsat 105 000 RON；SC Bluenote Communications SA；Str. Stejar Nr. 18 Construcția C1 Iași；office@bluenote.ro；0232 265 995）+ termene.ro（J2003000101225；22 ianuarie 2003）+ risco.ro / icapb2b（Registration Date 22/01/2003）+ TED 593082-2020（供应商），2026-10-28 查；https://termene.ro/firma/15146404-BLUENOTE-COMMUNICATIONS-SA）：**
+
+- 法定名 / 登记号：BLUENOTE COMMUNICATIONS SA（bluenote.ro / bluevoice.ro；雅西 Iași Str. Stejar 18, Construcția C1, 700327；CUI RO15146404；J22/101/22.01.2003）— 2003 年由信息 / 电信工程师创立的 SCADA / IoT / IIoT 方案集成商 + 通话录音系统开发商（自产 + 进口电子设备，EEE 生产者登记 RO-2017-12-EEE-2996-I；公共采购供应商 TED 2020）；实缴股本 105,000 RON；表内「工业 FS」；群发 2 次打开 · CUI RO15146404；J22/101/2003 · 状态 **Active** · 成立 2003-01-22 · S.A.（私有）
+- 行业码 / 经营范围：SCADA / IoT / IIoT 方案集成 + 通话录音系统开发（自产 + 进口）
+- 注册地址：Str. Stejar 18, Construcția C1, 700327 Iași
+- 规模档：小型（推定 10–50）
+- 账目：—；—
+- 高管：（未具名）— 收件人 office@bluenote.ro（点名 departament tehnic / achiziții）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **工业 SCADA / IoT 集成商（含公共采购项目）→ 集成 25%，B，一页纸一次（STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM 配 SCADA 现场柜）；有回声再加厚**；不谈政府项目本身
+  - 2 次打开无回复 → 二次触达换切口「DIN-rail switches sized for SCADA cabinets」；发信窗口 Thu 12–14 EET；罗语一句引子
+- 备注：集成 25%；B；一页纸一次；坐实（CUI + J）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -119,8 +133,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | BLUENOTE COMMUNICATIONS SA（CUI RO15146404；J22/101/2003） |
+| 成立 | 2003-01-22（第 108 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 罗马尼亚 |
-| 其他 | 官网 bluenote.ro，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 bluenote.ro，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 108 批：雅西 SCADA / IoT / IIoT 集成商 + 通话录音系统开发商（实缴股本 105,000 RON；EEE 生产者登记）→ **集成 25%，B，一页纸一次（STI 配 SCADA 柜）**；收件人 office@bluenote.ro（第 108 批 官方登记核实 2026-10-28） |
 
 - **业务线**：SCADA / IoT / IIoT 集成；电话录音系统；远程抄表 / 能效监测
 - **触达通道（公开）**：role: SCADA/IoT 集成商（罗马尼亚，现用宇航工业 FS）；region: 罗马尼亚；contact: petru.pislariu@bluenote.ro
@@ -160,7 +176,7 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-24T04:35:40Z
 - **最近变化摘要**：2026-10-24 home：内容变化：+3 −266 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1014/`；本节随档案重渲染刷新，实时看日志。
 

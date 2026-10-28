@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -79,6 +79,20 @@ updated: 2026-10-27
 - `shop4power.nl` → Microsoft 365（MX：shop4power-nl.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 
 **假日避让：** 下一步为「不动」，不排发信，略。
+
+**公司底数 · 第 108 批（NL · 1 次检索：shop4power.nl Bedrijf / Voorwaarden（Duisterendijk 5a Wijhe；KvK 63967588；BTW NL001646847B50；Planet-specialist）+ compadex / transfirm（Shop4power.nl Eenmanszaak，h.o.d.n. Shop4networks.nl；KvK 63967588；vestiging 000032833652；8131 RA Wijhe）+ Over ons（dé Planet Specialist van Nederland & België；hoge eigen voorraad），2026-10-28 查；https://shop4power.nl/bedrijf/）：**
+
+- 法定名 / 登记号：Shop4power.nl（又名 Shop4networks.nl；eenmanszaak 个体；韦耶 Wijhe Duisterendijk 5a, 8131 RA；KvK 63967588；BTW NL001646847B50）— 荷比 UPS / 电池 / 网络设备网店，「Planet-specialist」自备库存（PLANET 工业 / 商用交换机多款现货 + E-Link 交换机线）；表内 3 次打开 · KvK 63967588 · 状态 **Active** · 成立 未取（KvK 639… ≈2015） · Eenmanszaak（个体）
+- 行业码 / 经营范围：UPS / 电池 / 网络设备网店（Planet 专营 + E-Link）
+- 注册地址：Duisterendijk 5a, 8131 RA Wijhe
+- 规模档：个体（1–2 人）
+- 账目：—；—
+- 高管：（业主，未具名）— 收件人 info@shop4power.nl
+- 控制人 / 股东：业主本人
+- **这意味着什么：**
+  - **一人 Planet 专营网店，已同时卖国产 E-Link → 分销 20% small，一页纸一次（STC-028GP / STC-228GP / STI-054GP / STI-144GP 1:1 对照其 IGS-624HPT 类）；有回声再加厚**；MOQ 1 + 15 天有效价对网店友好
+  - 3 次打开无回复 → 二次触达换切口「a value line beside your Planet shelf」；发信窗口 Thu 12–14 CET；荷语一句引子；稿内不点名 Planet / E-Link
+- 备注：分销 20% small；一页纸一次；坐实（KvK 个体）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -137,9 +151,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Shop4Power (Shop4power / shop4networks) |
+| 法定名称 | Shop4power.nl（eenmanszaak；h.o.d.n. Shop4networks.nl；KvK 63967588；BTW NL001646847B50） |
+| 成立 | ≈2015（KvK 639…）（第 108 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Wijhe（Overijssel）, 荷兰 |
-| 其他 | Planet 渠道档案 PB-045（2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL.json）；自有品牌：待核（E-Link：Mikrotik 侧记为自有品牌；首触第一问核实）；最大未知：E-Link 归属（自有/转售）；PLANET 年台数；是否从 PLANET 荷兰渠道拿货 |
+| 其他 | Planet 渠道档案 PB-045（2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL.json）；自有品牌：待核（E-Link：Mikrotik 侧记为自有品牌；首触第一问核实）；最大未知：E-Link 归属（自有/转售）；PLANET 年台数；是否从 PLANET 荷兰渠道拿货；第 108 批：Wijhe 一人 UPS / 电池 / 网络网店，「Planet-specialist」自备库存并兼卖 E-Link → **分销 20% small，一页纸一次**；MOQ 1 友好（第 108 批 官方登记核实 2026-10-28） |
 
 - **业务线**：专业网店/经销（自述「Power Supply, Switches & Planet Ethernet Specialist」「De Power Specialist van Nederland & België」；UPS/电池 + PLANET 交换机 + E-Link 交换机；NL/BE 发货，多数现货）
 
@@ -229,7 +244,7 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-779/`；本节随档案重渲染刷新，实时看日志。
 
@@ -344,12 +359,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

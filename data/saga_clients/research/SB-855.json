@@ -40,7 +40,9 @@
  },
  "company_facts": {
   "hq": "捷克",
-  "other": "官网 nextlan.cz，语言 cs，快照状态 ok；角色判定来源：用户表"
+  "other": "官网 nextlan.cz，语言 cs，快照状态 ok；角色判定来源：用户表；第 108 批：Chrudim 网络 / 电信 VAD（Axis、Fluke、IMC、Lantech；6–25 人）仍在册，但 19 次群发无回复 + 研究档域名曾易主 → **不动**（第 108 批 官方登记核实 2026-10-28）",
+  "legal_name": "NEXTLAN s. r. o.（IČO 25924826；DIČ CZ25924826；C 14968 KS Hradec Králové）",
+  "founded": "1999-08-03（第 108 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "网络设备分销（捷克，待核）"

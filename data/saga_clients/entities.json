@@ -89839,7 +89839,20 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Fredrik Kärrander",
+"role": "Marknadsföring（官网 Kontakta oss；fredrik@avnordic.se）= 收件人（第 108 批 官方登记核实 2026-10-28）",
+"email": "fredrik@avnordic.se",
+"source": "https://avnordic.se/om-av-nordic/kontakta-oss/"
+},
+{
+"name": "Martin Carlzon",
+"role": "VD / ägare（官网；Bolagsverket 登记 VD Hans Martin Karlsson，同一人待核）= 拍板人（抄 info@ 点名）（第 108 批 官方登记核实 2026-10-28）",
+"email": "info@avnordic.se",
+"source": "https://www.allabolag.se/foretag/av-nordic-hemsat-ab/bor%C3%A5s/elektronik-och-telekommunikationsutrustning/2K1TMEFI63IFR"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -89849,7 +89862,9 @@
 },
 "company_facts": {
 "hq": "瑞典",
-"other": "官网 avnordic.se，语言 sv-SE，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 avnordic.se，语言 sv-SE，快照状态 ok；角色判定来源：官网文案；第 108 批：Borås 安防 / 网络 / 音响 B2B 批发商（Uniview / Milesight；登记 1 名雇员；2025 营收 SEK 8.4M −36%）→ **分销 20% small，一页纸一次**（第 108 批 官方登记核实 2026-10-28）",
+"legal_name": "AV Nordic Hemsat AB（org.nr 556594-9863；Hemfast Holding AB 子公司）",
+"founded": "2000-07-11（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "安防 / 网络 / 音响 B2B 批发"
@@ -92023,7 +92038,9 @@
 },
 "company_facts": {
 "hq": "罗马尼亚",
-"other": "官网 bluenote.ro，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 bluenote.ro，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 108 批：雅西 SCADA / IoT / IIoT 集成商 + 通话录音系统开发商（实缴股本 105,000 RON；EEE 生产者登记）→ **集成 25%，B，一页纸一次（STI 配 SCADA 柜）**；收件人 office@bluenote.ro（第 108 批 官方登记核实 2026-10-28）",
+"legal_name": "BLUENOTE COMMUNICATIONS SA（CUI RO15146404；J22/101/2003）",
+"founded": "2003-01-22（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "SCADA / IoT / IIoT 集成",
@@ -92497,7 +92514,14 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Bruno Poisson",
+"role": "Président du groupe ADALTRA（CCI Essonne 2025-09）= 拍板层（不直发；收件人 = direction achats via contact@adaltra.fr）（第 108 批 官方登记核实 2026-10-28）",
+"email": "contact@adaltra.fr",
+"source": "https://www.essonne.cci.fr/actualites/adaltra-un-nouveau-nom-pour-cae-groupe-et-de-fortes-ambitions-linternational"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -92507,7 +92531,9 @@
 },
 "company_facts": {
 "hq": "法国",
-"other": "官网 cae-groupe.com，语言 fr，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 cae-groupe.com，语言 fr，快照状态 ok；角色判定来源：官网文案；第 108 批：Massy（2025-12 起）线缆与连接方案设计分销集团（自有品牌 MMC / S2CEB / Axindus / Casanova；4,500 SKU；Villabé 23,000 m² 仓；SAS 股本 €2,727,360；2025-09 更名）→ **贴标 OEM 30% 正中目标 + 分销 20%，B BIG，加厚一次；升 A 候选（回信即 A）**；旧域名 cae-groupe.fr 邮箱或失效 → 用 adaltra.fr（第 108 批 官方登记核实 2026-10-28）",
+"legal_name": "ADALTRA（原 CAE GROUPE / CAE - DATA；SIREN 320 921 364 RCS Évry；TVA FR13320921364；Président = ADALTRA GROUP 498 664 010）",
+"founded": "1989-12-28（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "线缆与连接方案设计分销（数据网络 / 工业 / 楼宇）"
@@ -93085,7 +93111,14 @@
 "date": "2026-10-19"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "A. Fallerini（姓名待核）",
+"role": "研究档联系人 a.fallerini@coeldistribution.it = 收件人（抄 info@ 点名 ufficio acquisti）（第 108 批 官方登记核实 2026-10-28）",
+"email": "a.fallerini@coeldistribution.it",
+"source": "https://www.coeldistribution.it/contattaci/"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -93094,11 +93127,11 @@
 "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-024，W 批次调研 2026-10-19/20）"
 },
 "company_facts": {
-"legal_name": "Coel Distribution srl",
-"founded": "",
+"legal_name": "COEL DISTRIBUTION SRL（P.IVA / CF 11989650152；REA MB-2629252，旧 MI-1521836）",
+"founded": "1994（活动）/ 1997（登记）（第 108 批 官方登记核实 2026-10-28）",
 "hq": "Muggiò (MB), 意大利",
 "size": "",
-"other": "Planet 渠道档案 PB-024（2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json）；自有品牌：否；最大未知：Mikrotik 侧是否已首触（A-191 状态未触达）；PLANET 占比"
+"other": "Planet 渠道档案 PB-024（2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json）；自有品牌：否；最大未知：Mikrotik 侧是否已首触（A-191 状态未触达）；PLANET 占比；第 108 批：Muggiò (MB) 布线 / 网络 / 电信分销商（Planet Networking / Prysmian / R&M / Rosenberger；目录含 IGS-801T / IGS-1020PTF 工业交换机）；11–50 人；研究档 2023 营收 €9.4M → **分销 20%，B BIG，加厚一次（STI 1:1 对照台系工业机型；不点名 Planet）；次候选升 A**（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "分销商（1994 年起；结构化布线、网络、电信与连接产品分销，服务安装商与系统集成商；11–50 人，营收 €9.4M 2023）"
@@ -96747,6 +96780,12 @@
 "email": "anne.ekblad@fibersystem.com",
 "phone": "",
 "source": "用户表"
+},
+{
+"name": "John Oscar Lindberg",
+"role": "VD（allabolag；Addtech 体系）— 仅记录，不发（第 108 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.allabolag.se/foretag/fibersystem-ab/bromma/datorer-och-kringutrustningar-tillverkning/2K1VV05I63ILT"
 }
 ],
 "grade_override": null,
@@ -96758,7 +96797,9 @@
 },
 "company_facts": {
 "hq": "瑞士",
-"other": "官网 fibersystem.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 fibersystem.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 108 批：Bromma 保密通信设备制造商（SNI 26200；数据二极管 / TEMPEST 级产品；13 人；2025 营收 SEK 266.9M；客户国防 / 政府）→ **守界不动（军工 / 政府主业；自研产品非我方品类）**（第 108 批 官方登记核实 2026-10-28）",
+"legal_name": "Fibersystem AB（org.nr 556605-4325；Addtech Nordic AB 子公司）",
+"founded": "2001-01-22（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "光纤传输设备 / 视频 / 以太网（自有品牌）",
@@ -99079,7 +99120,9 @@
 },
 "company_facts": {
 "hq": "意大利",
-"other": "官网 grinsrl.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 grinsrl.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案；第 108 批：Torricella (TA) 电气 / 仪表工程承包 + 配电柜制造（客户 Terna / Heineken / Sidel / Siemens 等）→ **集成 25% small，一页纸一次（STI 配 PLC 柜）**（第 108 批 官方登记核实 2026-10-28）",
+"legal_name": "Grin s.r.l.（P.IVA 02710060738；REA 未取 → 部分坐实）",
+"founded": "未取（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "电气仪表安装（工业 / 能源）"
@@ -99326,7 +99369,9 @@
 },
 "company_facts": {
 "hq": "法国",
-"other": "官网 hightrade-international.com，语言 fr-FR，快照状态 ok；角色判定来源：用户表"
+"other": "官网 hightrade-international.com，语言 fr-FR，快照状态 ok；角色判定来源：用户表；第 108 批：实为驻港电子元器件 / 家电配件寻源中间商（华南 200 家工厂为欧美大客户寻源；+86 电话；Gmail 联系人）→ **不动**；国别存疑（研究档法国 ← 网站香港）暂不改 iso（第 108 批 官方登记核实 2026-10-28）",
+"legal_name": "High’Trade International（网站署 High Trade International Ltd；总部香港 Sheung Wan；法人 / 注册号未取 → 未坐实）",
+"founded": "未取（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "跨境采购 / 分销中介（港台中国大陆 → 法国/欧洲）"
@@ -100481,11 +100526,11 @@
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "（待核，ICP DAS 罗马尼亚分销）",
-"founded": "",
+"legal_name": "CHT DATA SRL（CUI RO 32791574；J40/8808/2020；关联 Instruments CHT SRL Ploiești = ICP DAS 官方列名经销商）",
+"founded": "≈2014；J40 2020 迁册（第 108 批 官方登记核实 2026-10-28）",
 "hq": "Romania",
 "size": "小型工业网店",
-"other": "小国名单"
+"other": "小国名单；第 108 批：布加勒斯特 ICP DAS 网店 + Axiomtek 工控（office@icpdas.ro）→ **分销 20% small，一页纸一次（STI 作第二价位；不点名 ICP DAS）**（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工业自动化 / 通信网店"
@@ -100962,7 +101007,9 @@
 },
 "company_facts": {
 "hq": "斯洛伐克",
-"other": "官网 iotkomponenty.sk，语言 en，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 iotkomponenty.sk，语言 en，快照状态 ok；角色判定来源：官网文案；第 108 批：布拉迪斯拉发工业物联网元件网店（USR IoT / Mean Well / Teltonika；配送全欧盟）→ **分销 20% small，一页纸一次（STI 配串口服务器）**（第 108 批 官方登记核实 2026-10-28）",
+"legal_name": "MCV Systems s.r.o.（经营 iotkomponenty.sk；IČO 47 378 352；IČ DPH SK2023841930）",
+"founded": "≈2013（IČO 4737…）（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "IoT 组件网店（USR 蜂窝路由 / 串口服务器）"
@@ -101188,7 +101235,14 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Laurens Marnix Zeevalk",
+"role": "Eigenaar（drimble；个体）— 仅记录（第 108 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://drimble.nl/bedrijf/heerjansdam/29829178/zeevalk-it.html"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -101198,7 +101252,9 @@
 },
 "company_facts": {
 "hq": "荷兰",
-"other": "官网 ipcamerawebwinkel.nl，语言 nl-NL，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 ipcamerawebwinkel.nl，语言 nl-NL，快照状态 ok；角色判定来源：官网文案；第 108 批：Heerjansdam 一人兼营（主业网页设计 + IP 摄像机网店）→ **不动**（第 108 批 官方登记核实 2026-10-28）",
+"legal_name": "Zeevalk IT（h.o.d.n. Ipcamerawebwinkel；eenmanszaak；KvK 60651792；BTW NL199719214B01）",
+"founded": "≈2014（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "IP 摄像机网店 / 网页设计与 IT 服务（荷兰）"
@@ -101422,7 +101478,14 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Andreas (Andy) Tautschnig",
+"role": "Gesellschafter / Geschäftsführer（UID 公示 / kompass / dachsen.ch）= 拍板人 / 收件人（andy.tautschnig@ipcctv.ch）（第 108 批 官方登记核实 2026-10-28）",
+"email": "andy.tautschnig@ipcctv.ch",
+"source": "https://www.ipcctv.ch/info_ip_cctv.htm"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -101432,7 +101495,9 @@
 },
 "company_facts": {
 "hq": "瑞士",
-"other": "官网 ipcctv.ch，语言 de，快照状态 ok；角色判定来源：用户表"
+"other": "官网 ipcctv.ch，语言 de，快照状态 ok；角色判定来源：用户表；第 108 批：Dachsen (ZH) 视频监控 / 门禁 / 对讲贸易 + 服务（1–4 人；股本 CHF 20,000）→ **分销 20% small，一页纸一次**；瑞士非欧盟 → DAP 注明清关由买方（第 108 批 官方登记核实 2026-10-28）",
+"legal_name": "IP CCTV GmbH（UID CHE-112.152.195；CH-020.4.030.130-0）",
+"founded": "2004（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "IP / HD-CVI 视频监控",
@@ -102770,7 +102835,26 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Stephen Carroll",
+"role": "Commercial Director（LinkedIn；前 Dahua UK & Ireland）= 收件人（sales@kdelectronics.ie 点名）（第 108 批 官方登记核实 2026-10-28）",
+"email": "sales@kdelectronics.ie",
+"source": "https://ie.linkedin.com/company/kd-electronics-ireland"
+},
+{
+"name": "Sean Kennedy",
+"role": "Director / 业主（D&B Key Principal SEAN ANTHONY KENNEDY；Sean Jr 亦任 Director）= 拍板人（抄送）（第 108 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.kdelectronics.ie/meet-the-team.html"
+},
+{
+"name": "Jiawei Sun",
+"role": "Head of Sales / BDM（LinkedIn；华人）— 中文直联 Simon 定（默认否）（第 108 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://ie.linkedin.com/company/kd-electronics-ireland"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -102780,7 +102864,9 @@
 },
 "company_facts": {
 "hq": "爱尔兰",
-"other": "官网 kdelectronics.ie，语言 en，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 kdelectronics.ie，语言 en，快照状态 ok；角色判定来源：官网文案；第 108 批：科克 + 都柏林两地仓的安防 / 消防 / 网络 / AV 贸易批发商（「Ireland’s premier Dahua distributor」+ i-PRO / Ajax / TP-Link；21–50 人）→ **分销 20%，B BIG，加厚一次；次候选升 A**；UKCA 不适用（IE = CE）（第 108 批 官方登记核实 2026-10-28）",
+"legal_name": "KENNEDY O’DONOVAN ELECTRONICS LIMITED（t/a KD Electronics / KD ELECTRONICS LTD；CRO 号未取 → 部分坐实）",
+"founded": "1994（活动）（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "CCTV / 安防 / AV / 网络产品贸易供应"
@@ -104718,7 +104804,9 @@
 },
 "company_facts": {
 "hq": "意大利",
-"other": "官网 marcomweb.it，语言 ?，快照状态 http_error；角色判定来源：待核"
+"other": "官网 marcomweb.it，语言 ?，快照状态 http_error；角色判定来源：待核；第 108 批：维罗纳工业自动化通信分销商（Moxa 工业交换机、工业路由器、LoRaWAN），网店自编 ISE 系列工业交换机 SKU；股本 €20,000；11–50 人 → **分销 20% + 贴标可谈，B，加厚一次（small）**；收件人 info@ 点名 ufficio acquisti（第 108 批 官方登记核实 2026-10-28）",
+"legal_name": "MARCOM S.r.l.（P.IVA / CF 03718740230；Registro Imprese di Verona）",
+"founded": "2001（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工业网络产品经销（意大利）"
@@ -105190,7 +105278,14 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Ovidiu Pătru",
+"role": "商务联系人（gmdu 口径 Mr. Patru Ovidiu）= 收件人（timisoara@mondoplast.net 点名）（第 108 批 官方登记核实 2026-10-28）",
+"email": "timisoara@mondoplast.net",
+"source": "https://www.gmdu.net/corp-738086.html"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -105200,7 +105295,9 @@
 },
 "company_facts": {
 "hq": "罗马尼亚",
-"other": "官网 mondoplast.ro，语言 ro，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 mondoplast.ro，语言 ro，快照状态 ok；角色判定来源：官网文案；第 108 批：蒂米什瓦拉电信设备进口分销商（CATV / CCTV / 光缆 / 卫星 / 电台 / UPS / 交换机 / MC；Hirschmann + Hikvision；供 Hornbach；仓 București / Timișoara / Brașov / Gyál (HU)；股本 7.4M lei；县 CAEN 4652 第 2）→ **分销 20%，B BIG，加厚一次；次候选升 A**（第 108 批 官方登记核实 2026-10-28）",
+"legal_name": "SC MONDO PLAST SRL（CUI RO12755240；J2000000053116；注册地 Bocșa）",
+"founded": "2000-02-22（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "电信设备进口分销（光纤 / 线缆 / 无线 / 安防 / 网络）"
@@ -106265,7 +106362,9 @@
 },
 "company_facts": {
 "hq": "立陶宛",
-"other": "官网 norteh.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 norteh.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 108 批：维尔纽斯多语言 CCTV 网店（Hikvision / Dahua / Longse / Reolink / Ajax）→ **分销 20% small，一页纸一次**（第 108 批 官方登记核实 2026-10-28）",
+"legal_name": "UAB Enzas（经营 norteh.com「NORTEH」；įmonės kodas 303005607；PVM LT100009310917）",
+"founded": "≈2013（kodas 3030…）（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "CCTV / 报警 / 对讲 / 门禁 / 网络设备网店（跨境）"
@@ -107034,7 +107133,9 @@
 },
 "company_facts": {
 "hq": "意大利",
-"other": "官网 pc-industriali.it，语言 it，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 pc-industriali.it，语言 it，快照状态 ok；角色判定来源：官网文案；第 108 批：Fiorano Modenese 工业 PC / HMI 集成分销商（Advantech Integrator Partner、APLEX 分销）；2024 营收 €8.09M / 净利 €1.40M / 10 人 → **采购型 25% + 分销 20%，B，一页纸一次（STI 配 IPC 机柜）**（第 108 批 官方登记核实 2026-10-28）",
+"legal_name": "HARDWARE SOLUTIONS S.R.L.（P.IVA 02974270361；REA MO-347206）",
+"founded": "2005-02-22（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工业 PC 设计生产与分销"
@@ -108538,7 +108639,9 @@
 },
 "company_facts": {
 "hq": "意大利",
-"other": "官网 reweb.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 reweb.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案；第 108 批：雷焦艾米利亚 IT / IoT 增值分销商（M2M SIM、蜂窝路由 + 天线 + 交换机打包、Advantech、Opengear）；2024 营收 €2.61M / 净利 €399k / 10 人 → **分销 20%，B，一页纸一次（STI 配蜂窝路由柜）**（第 108 批 官方登记核实 2026-10-28）",
+"legal_name": "REWEB S.R.L.（P.IVA 02026760351；REA RE-244931）",
+"founded": "2002-12-07（活动 1983 起）（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "IT / IoT 集成（M2M SIM、Advantech、Opengear）",
@@ -108986,11 +109089,11 @@
 "level": "B 级加厚 v1（官网快照核对：ONV 贴牌）"
 },
 "company_facts": {
-"legal_name": "GLM Group LLC（待核）",
-"founded": "（待核）",
+"legal_name": "GLM GROUP LTD（第比利斯 Didube；ს/კ 未取 → 部分坐实）",
+"founded": "未取（第 108 批 官方登记核实 2026-10-28）",
 "hq": "Tbilisi, Georgia",
 "size": "中小型安防方案 / 电商",
-"other": "消防报警线（守界：仅供网络层）"
+"other": "消防报警线（守界：仅供网络层）；第 108 批：安防 / 电信方案商 + 电商（CCTV、门禁、PoE），在售 ONV 交换机并自编号 GLMH1064PL → **贴标 30% 可谈 + 分销 20%，B，一页纸一次**；发信窗口 Thu 12–14 GET（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "消防报警 / CCTV / 门禁系统",
@@ -109475,7 +109578,9 @@
 },
 "company_facts": {
 "hq": "意大利",
-"other": "官网 scada-hmi.it，语言 en，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 scada-hmi.it，语言 en，快照状态 ok；角色判定来源：官网文案；第 108 批：科莫 Guanzate 工业自动化软硬件厂商（Winlog SCADA、IOlog Modbus I/O、PClog 面板 PC；网店兼售工业交换机；2–10 人）→ **贴标可谈 small（Sielco 标 DIN 交换机）+ 分销 20%，B，一页纸一次**（第 108 批 官方登记核实 2026-10-28）",
+"legal_name": "SIELCO SISTEMI S.r.l.（P.IVA 02854460132；REA CO-282515）",
+"founded": "2004-12-07（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "Modbus I/O 模块 / SCADA-HMI 软件制造",
@@ -109569,8 +109674,8 @@
 "name": "securame.com",
 "name_src": "domain",
 "names": [],
-"country": "意大利",
-"iso": "IT",
+"country": "西班牙",
+"iso": "ES",
 "region": "欧洲",
 "other_countries": [
 "西班牙"
@@ -109735,7 +109840,8 @@
 "title": "",
 "email": "contacto@securame.com",
 "phone": "",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "通用箱（administradores solidarios 未具名）= 收件人（第 108 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -109746,11 +109852,11 @@
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "Securame（待核）",
-"founded": "",
+"legal_name": "SECURAME, S.L.（原 TWISTED REALITY S.L.；CIF B62808498；Registro Mercantil de Barcelona）",
+"founded": "2002-03-01（第 108 批 官方登记核实 2026-10-28）",
 "hq": "（西班牙 / 意大利，待核）",
 "size": "小型安防电商",
-"other": "国别待核（contacto@ 西语）"
+"other": "国别待核（contacto@ 西语）；第 108 批：**巴塞罗那（研究档误记意大利 → country_fix 西班牙）** 视频监控 / 安防批发网店（Safire 经销；2–10 人；销售 ≈€0.5M）→ **分销 20% small，一页纸一次**；发信窗口 Thu 12–14 CET；西语引子（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "安防电商"
@@ -109849,8 +109955,10 @@
 "body": "Hello,\n\nOver the past year you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 2 September - and there was no reason to answer a mass mail. This one is specific to the PoE switch category on securame.com.\n\nFor the switches your customers buy together with Hikvision / Dahua kits, two neutral-brand options from small lots, with photos and CE/RoHS documentation ready for your product pages:\n\n- Managed: 8 x Gigabit PoE+ + 2 x SFP, L2+ (VLAN, QoS, IGMP, web GUI), Marvell-based, model STC-28DGGPM - $80.7 USD EXW (MOQ 1, 15-day validity).\n- Unmanaged: 8 x Gigabit PoE+ (120 W) + 2 x Gigabit uplinks, model STC-028GP - $25.1 USD EXW.\n\nBoth ship in neutral packaging; your own label is possible from small lots.\n\nOne question: who at Securame handles new suppliers for the switch category - and may I send the two datasheets to that person directly?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
 },
 "as_of": "2026-10-25"
-}
-}
+},
+"country_fix": "西班牙"
+},
+"country_table": "意大利"
 },
 {
 "name": "sensoguard.com",
@@ -110235,11 +110343,11 @@
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "Setik S.r.l.（待核）",
-"founded": "",
+"legal_name": "SETIK S.R.L.（P.IVA 09729650961；REA MB-1910472）",
+"founded": "2017-01-09（第 108 批 官方登记核实 2026-10-28）",
 "hq": "Lombardia, Italy（+39 0362）",
 "size": "中小型安防电商",
-"other": ""
+"other": "第 108 批：Cesano Maderno / Lissone 安防套件电商（Dahua / Hikvision / TP-Link；2025 营收 €3.89M、净利 €9k、10 人；法国分支 2025-11 注销）→ **分销 20% small，一页纸一次（PoE 交换机配摄像机套件）**（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "安防电商"
@@ -113303,7 +113411,14 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Karl Gustaf Michael Kahlau",
+"role": "VD（allabolag；1963 年生）= 拍板人 / 收件人（info@standardaudio.se 点名 Michael Kahlau）（第 108 批 官方登记核实 2026-10-28）",
+"email": "info@standardaudio.se",
+"source": "https://www.allabolag.se/foretag/standard-audio-systems-ab/arlandastad/radio-tv-programbolag/2JZHTBII5YH40"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -113313,7 +113428,9 @@
 },
 "company_facts": {
 "hq": "瑞典",
-"other": "官网 standardaudio.se，语言 sv，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 standardaudio.se，语言 sv，快照状态 ok；角色判定来源：官网文案；第 108 批：Arlandastad 专业音频 / 语音疏散 / AV 控制分销商（EV / Dynacord；15 人；2025 营收 SEK 61.2M；股本 SEK 1M；子公司 Public Audio Systems）→ **分销 20%，B，一页纸一次（管理型 PoE 配 AV 机柜）**（第 108 批 官方登记核实 2026-10-28）",
+"legal_name": "Standard Audio Systems AB（org.nr 556203-9726；VAT SE556203972601）",
+"founded": "1980-02-25（活动 1979）（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "AV 技术 / 专业音频 / 语音疏散 / 控制系统分销"
@@ -114689,7 +114806,14 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Damijan Jager",
+"role": "Direktor（bizi.si / ebonitete / companywall.si）= 拍板人 / 收件人（info@tipteh.si 点名）（第 108 批 官方登记核实 2026-10-28）",
+"email": "info@tipteh.si",
+"source": "https://www.bizi.si/TIPTEH-D-O-O/"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -114699,7 +114823,9 @@
 },
 "company_facts": {
 "hq": "欧洲（国别未填）",
-"other": "官网 tipteh.com，语言 en-GB，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 tipteh.com，语言 en-GB，快照状态 ok；角色判定来源：官网文案；第 108 批：卢布尔雅那工业自动化分销集团（30+ 品牌含 Hirschmann 工业交换机；子公司 SI / HR / BA / RS / MK，集团 140+ 人；SI 本体 30 人、营收 €9.42M、权益 €7.76M）→ **分销 20%，B BIG，加厚一次（STI 作 Hirschmann 第二价位）；升 A 候选（回信即 A）**（第 108 批 官方登记核实 2026-10-28）",
+"legal_name": "TIPTEH d.o.o., zastopanje in distribucija（matična 5935652000；DŠ SI53509382）",
+"founded": "1996-03-15（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工业自动化分销（传感 / 驱动 / 工业 PC / 工业网络）",
@@ -116433,7 +116559,20 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Chris Standaar",
+"role": "Technisch Tekenaar – Inkoop Coördinator（官网 Team）= 收件人（第 108 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.vercoma.nl/over-vercoma/team-vercoma"
+},
+{
+"name": "Gian Zandonà",
+"role": "Algemeen directeur（2024 起；官网 / companyinfo）= 拍板人（抄送）（第 108 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.vercoma.nl/nieuws/een-warm-welkom-voor-gian-zandona-nieuwe-directeur-vercoma"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -116443,7 +116582,9 @@
 },
 "company_facts": {
 "hq": "荷兰",
-"other": "官网 vercoma.nl，语言 nl，快照状态 ok；角色判定来源：用户表"
+"other": "官网 vercoma.nl，语言 nl，快照状态 ok；角色判定来源：用户表；第 108 批：Wormerveer 门禁 / 对讲 / CCTV 进口分销（Golmar 荷兰独家；11–50 人；安装商渠道）→ **分销 20% small，一页纸一次（PoE 配 IP 对讲项目）**；回声后考虑并线 Golmar 总部（第 108 批 官方登记核实 2026-10-28）",
+"legal_name": "Vercoma Communicatie Systemen B.V.（KvK 34219252；BTW NL814413146B01；Golmar Sistemas de Comunicación S.A. 子公司）",
+"founded": "1978（活动）；B.V. ≈2005（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "对讲 / 门禁 / CCTV 方案（荷兰）"
@@ -117393,7 +117534,14 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Martin Wokoun",
+"role": "Jednatel（2007-10-31 起；finmag / zivefirmy）= 拍板人 / 收件人（obchod@yatun.cz 点名）（第 108 批 官方登记核实 2026-10-28）",
+"email": "obchod@yatun.cz",
+"source": "https://www.finmag.cz/obchodni-rejstrik/28176791-yatun-s-r-o"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -117403,7 +117551,9 @@
 },
 "company_facts": {
 "hq": "捷克",
-"other": "官网 yatun.cz，语言 cs，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 yatun.cz，语言 cs，快照状态 ok；角色判定来源：官网文案；第 108 批：布拉格智能家居 / 楼宇自动化 / AV 专业分销商（Control4 / Fibaro / Ekinex CZ+SK 独家；安装商渠道）→ **分销 20%，B，加厚一次（small；STC 配智能家居机柜）**（第 108 批 官方登记核实 2026-10-28）",
+"legal_name": "YATUN, s.r.o.（IČO 28176791；DIČ CZ28176791）",
+"founded": "2007-10-30（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "自动化 / AV 控制 / 智能电气安装 / 安防技术供应"
@@ -208499,7 +208649,9 @@
 },
 "company_facts": {
 "hq": "瑞典",
-"other": "官网 verdelon.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 verdelon.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 108 批：1 次检索（allabolag / bolagsverket 口径）未命中任何 Verdelon 法人（仅 Verdion AB 同名异主）→ 未坐实；自有品牌工业 PoE 交换机（贴 Elink）= **贴标 OEM 30% 目标，先一页纸一次，回声后补核法人再加厚**（第 108 批 官方登记核实 2026-10-28）",
+"legal_name": "Verdelon（品牌；瑞典法人未取 → 未坐实）",
+"founded": "未取（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "工业以太网 / PoE 交换机 / MC / 电源（自有品牌 Verdelon）"
@@ -241589,7 +241741,14 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Pavle Pulek",
+"role": "Direktor / 法定代表（companywall.rs / netiks.ls.rs）= 拍板人 / 收件人（info@netiks.rs 点名）（第 108 批 官方登记核实 2026-10-28）",
+"email": "info@netiks.rs",
+"source": "https://www.companywall.rs/firma/netiks-doo-beograd/MMouX76q"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -241599,7 +241758,9 @@
 },
 "company_facts": {
 "hq": "塞尔维亚",
-"other": "官网 netiks.rs，语言 sr-yu，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 netiks.rs，语言 sr-yu，快照状态 ok；角色判定来源：官网文案；第 108 批：贝尔格莱德网络设备 B2B 商店 + 工程，44 人（2025），**自有「NT」光模块品牌** → **贴标 OEM 30% 可谈（NT 标 PoE / L2 交换机）+ 分销 20%，B BIG，加厚一次；次候选升 A**（第 108 批 官方登记核实 2026-10-28）",
+"legal_name": "NETIKS DOO BEOGRAD（PRIVREDNO DRUŠTVO NETIKS DOO BEOGRAD (ZVEZDARA)；МБ 17326163；ПИБ 101720299）",
+"founded": "2001-07-24（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "网络与通信产品商店（光模块自有标）"
@@ -263998,7 +264159,9 @@
 },
 "company_facts": {
 "hq": "捷克",
-"other": "官网 maxlink.cz，语言 cs，快照状态 ok；角色判定来源：用户表"
+"other": "官网 maxlink.cz，语言 cs，快照状态 ok；角色判定来源：用户表；第 108 批：面向 ISP 的网络配件自有品牌（天线、SFP/SFP+/DAC、无源 / 有源 PoE 注入器含 10G bt、PoE 面板、**PoE 交换机**、安装箱）→ **贴标 OEM 30% 正中目标，B BIG，加厚一次（只报 OEM 档）；升 A 候选（回信即 A）；法人回声后补核**（第 108 批 官方登记核实 2026-10-28）",
+"legal_name": "MaxLink（品牌 2006 起；总部 Plzeň–Lobzy Cvokařská 1216/8；运营法人 / IČO 未取 → 部分坐实）",
+"founded": "品牌 2006（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "WiFi 天线 / 尾纤 / PoE 注入器与面板 / SFP 模块（自有品牌）",
@@ -290217,14 +290380,16 @@
 "title": "Buyer",
 "email": "mdl@atlantis-land.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Buyer（研究档）；法人 / 官网均未核出（第 108 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Massimo Liddo",
 "title": "Director",
 "email": "info@atlantis-land.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Director（研究档）；法人 / 官网均未核出（第 108 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -290236,7 +290401,9 @@
 },
 "company_facts": {
 "hq": "意大利",
-"other": "官网 atlantis-land.com，语言 ?，快照状态 unreachable；角色判定来源：待核"
+"other": "官网 atlantis-land.com，语言 ?，快照状态 unreachable；角色判定来源：待核；第 108 批：官网不可达 + 1 次检索仅命中 Atlantis S.r.l. 罗马 / 布雷西亚同名异主 + 13 次群发无回复 → **不动**（Simon 曾说可多跟进：若官网恢复再补核法人并发一页纸）（第 108 批 官方登记核实 2026-10-28）",
+"legal_name": "Atlantis-Land（品牌；法人 / P.IVA 未取 → 未坐实）",
+"founded": "未取（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "网络 / 安防产品品牌（自有品牌 Atlantis）"
@@ -294091,7 +294258,14 @@
 "title": "Partner",
 "email": "contact@elfcams.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "研究档联系人（contact@）= 收件人；拍板人 = gérant Xia Liu（第 108 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "Xia Liu",
+"role": "Gérant / 业主（2018 起；1988 年生；华人）= 拍板人（抄送）；中文直联 Simon 定（默认否）（第 108 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.pappers.fr/entreprise/elfcam-844111856"
 }
 ],
 "grade_override": null,
@@ -294103,7 +294277,9 @@
 },
 "company_facts": {
 "hq": "法国",
-"other": "官网 elfcams.com，语言 fr-FR，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 elfcams.com，语言 fr-FR，快照状态 ok；角色判定来源：官网文案；第 108 批：Thiais 光纤 / 网络设备电商（自称工厂直销；3–5 人；股本 €20,000）→ **分销 20% small，一页纸一次**；华人业主（第 108 批 官方登记核实 2026-10-28）",
+"legal_name": "ELFCAM SARL（SIREN 844 111 856；TVA FR36844111856；RCS Créteil）",
+"founded": "2018-11-20（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "光缆 / 光模块 / 铜缆（自有品牌直销）",
@@ -308607,7 +308783,9 @@
 },
 "company_facts": {
 "hq": "德国",
-"other": "官网 cablematic.com，语言 en，快照状态 ok；角色判定来源：用户表"
+"other": "官网 cablematic.com，语言 en，快照状态 ok；角色判定来源：用户表；第 108 批：巴塞罗那电脑周边 / 网络 / 线缆进出口分销 + 多平台电商（自有品牌 BeMatik / Cablemarkt；股本 €2,547,000；≈49 人）→ **贴标 OEM 30% 正中目标（BeMatik 标 PoE 交换机 / MC）+ 分销 20%，B BIG，加厚一次；升 A 候选（回信即 A）**；收件人 comercial@ 点名 compras（第 108 批 官方登记核实 2026-10-28）",
+"legal_name": "CABLEMATIC DOS MIL, S.L.U.（CIF B62231261；Registro Mercantil de Barcelona）",
+"founded": "2000-04-01（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "电脑周边 / 线缆 / 光纤 / 机柜分销（自有品牌 BeMatik）"
@@ -309268,10 +309446,16 @@
 "kp": [
 {
 "name": "Daniel Šuškevič",
-"role": "Projektų vadovas（电气/火灾/安防报警/自动化系统项目经理）（LinkedIn 公开）；名录显示现任 Smartion UAB 董事（可能已离职）",
+"role": "Projektų vadovas（LinkedIn；可能已离职）→ 改点名 direktorius（第 108 批 官方登记核实 2026-10-28）",
 "email": "info@energus.eu（用户表，通用箱）",
 "phone": "—",
 "source": "https://lt.linkedin.com/posts/daniel-%C5%A1u%C5%A1kevi%C4%8D-625bba1b7_projekt%C5%B3-vadovas-e-pva-er-gss-as-sistem%C5%B3-activity-6889582648549765120-1obe"
+},
+{
+"name": "Povilas Šidlauskas",
+"role": "Direktorius（rekvizitai / okredo）= 拍板人 / 收件人（info@energus.eu 点名）（第 108 批 官方登记核实 2026-10-28）",
+"email": "info@energus.eu",
+"source": "https://rekvizitai.vz.lt/en/company/energus_group/"
 }
 ],
 "grade_override": null,
@@ -309282,11 +309466,11 @@
 "level": "B 级加厚 v1（官网 + 登记核对；国家更正 LT）"
 },
 "company_facts": {
-"legal_name": "UAB „Energus Group“（公司代码 304419130；VAT LT100011259419）",
-"founded": "2016-11-02（集团）/ Energus 2010",
+"legal_name": "UAB „ENERGUS GROUP“（įmonės kodas 304419130；PVM LT100011259419）",
+"founded": "2016-11-02（Energus 品牌 2010）（第 108 批 官方登记核实 2026-10-28）",
 "hq": "Savanorių pr. 176C, LT-03154 Vilnius（+370 626 99994；uzklausos@energus.eu）",
 "size": "150+ 专业人员（集团）；109 员工（Sodra，Energus Group UAB）；2025 营收 1,295 万欧元",
-"other": "LINPRA 与建筑商协会成员；EU 能效/IoT 研发项目"
+"other": "LINPRA 与建筑商协会成员；EU 能效/IoT 研发项目；第 108 批：维尔纽斯电气 / 能源工程承包商（光伏、变电、充电桩；117–133 人；2025 营收 €12.95M / 净利 €289k；股本 €27,000）→ **集成 25%，B，一页纸一次（STI 配 PV 监控柜 / 变电站；不谈 IEC 61850）**（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "电气与自动化工程总包（零售中心、工业）",
@@ -336506,7 +336690,8 @@
 "title": "CTO - Director",
 "email": "jrsalvador@davantel.com",
 "phone": "+34 93 340 8712",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "CTO（研究档）= 收件人 / 技术拍板（第 108 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -336517,11 +336702,11 @@
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "Desarrollos Avanzados en Telecomunicaciones, S.L.",
-"founded": "",
+"legal_name": "DESARROLLOS AVANZADOS EN TELECOMUNICACIONES, S.L.（DAVANTEL；CIF B63615553）",
+"founded": "2004-10-15（第 108 批 官方登记核实 2026-10-28）",
 "hq": "Barcelona, Spain",
 "size": "中小型电信方案商（自有产品 + 外购）",
-"other": "外购 10G MC"
+"other": "外购 10G MC；第 108 批：巴塞罗那电信接入 / 传输方案分销商（2–10 人；分销 Teltonika、**Fiberroad、Kyland**、Gigalight、Raisecom、Loop Telecom）→ **分销 20%，B，加厚一次（small；STI 1:1 对照其在售中国工业管理型 FS；不点名）**（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "电信接入 / 传输方案（运营商）",
@@ -354304,7 +354489,8 @@
 "title": "（表内联系人）",
 "email": "hristo.chankov@ic-intracom.bg",
 "phone": "+359 2 923 1781",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "Управител + 55% 股东 + Търговски директор（papagal.bg / 官网 За нас；公开 QQ / WeChat = 直采中国）= 拍板人 / 收件人（第 108 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -354315,11 +354501,11 @@
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "IC Intracom Bulgaria EOOD（待核）",
-"founded": "",
+"legal_name": "АйСи ИНТРАКОМ ООД（IC INTRACOM Ltd.；ЕИК 200758666；ДДС BG200758666）",
+"founded": "2009-06-19（第 108 批 官方登记核实 2026-10-28）",
 "hq": "Sofia, Bulgaria",
 "size": "中型分销（IC Intracom 集团：Intellinet / Manhattan 品牌）",
-"other": "集团自有品牌 Intellinet 网络产品"
+"other": "集团自有品牌 Intellinet 网络产品；第 108 批：索非亚光纤网络有源 / 无源 + 布线 + 数据中心产品分销商（电信与 DC 客户；7 人；营业额 2.045M лв. 2020；股东 Чанков 55% / Желева 45%）→ **分销 20%，B，加厚一次（small；老板已直采中国，切口「factory-direct with EU-side invoicing」）**；WeChat 不用（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "网络设备 / 布线 / 机柜分销"
@@ -358266,7 +358452,20 @@
 "date": "2026-10-19"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Derek Finlay",
+"role": "Sales Director（2007 MBO 核心；electric.ie）= 收件人（sales@woodcomm.ie 点名）（第 108 批 官方登记核实 2026-10-28）",
+"email": "sales@woodcomm.ie",
+"source": "https://electric.ie/wood-communications-celebrate-100-years-of-leadership-in-data-and-telecoms-infrastructure-solutions/"
+},
+{
+"name": "Keith Mahony",
+"role": "Managing Director（2005 起董事；vision-net / irishtrade）= 拍板人（抄送）（第 108 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.vision-net.ie/Company-Info/Wood-Communications-Limited-226087"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -358275,11 +358474,11 @@
 "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-013，W 批次调研 2026-10-19/20）"
 },
 "company_facts": {
-"legal_name": "Wood Communications Ltd",
-"founded": "",
+"legal_name": "Wood Communications Limited（CRO 226087；PRL IE01544W）",
+"founded": "1924（活动）；公司号 226087（第 108 批 官方登记核实 2026-10-28）",
 "hq": "Dublin 12, 爱尔兰",
 "size": "",
-"other": "Planet 渠道档案 PB-013（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：否；最大未知：PLANET 在其交换机销量占比；采购决策人"
+"other": "Planet 渠道档案 PB-013（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：否；最大未知：PLANET 在其交换机销量占比；采购决策人；第 108 批：都柏林 Ballymount 老牌网络 / 布线 / 数据中心 / IP CCTV 分销商（Planet Technology 为其交换机品牌之一；2007-11 MBO 后管理层持有；11–50 人）→ **分销 20%，B BIG，加厚一次；次候选升 A**；UKCA 不适用（IE = CE）（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "分销商（IP/基础设施/安防分销，数据中心方向，约 16 人）"
@@ -375195,7 +375394,14 @@
 "title": "Technical Manager",
 "email": "maxence@inv-technology.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Technical Manager（研究档；Noireaux 家族）= 收件人（第 108 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "Alexandre Noireaux",
+"role": "Président / 创始人（2015 起；1966 年生；manageo / societe.com）= 拍板人（抄送）（第 108 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.societe.com/societe/import-network-video-technology-inv-technologie-808965941.html"
 }
 ],
 "grade_override": null,
@@ -375207,7 +375413,9 @@
 },
 "company_facts": {
 "hq": "法国",
-"other": "官网 inv-technology.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 inv-technology.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 108 批：科西嘉 Borgo 视频监控 / 门禁进口批发商，**自有品牌 DYNAVISION 已由中国 / 韩国合作厂代工近 10 年**；3–5 人；2025 营收 €760k → **贴标 OEM 30% 正中目标（Dynavision 标 PoE 交换机），B，加厚一次（small）**（第 108 批 官方登记核实 2026-10-28）",
+"legal_name": "IMPORT NETWORK VIDEO TECHNOLOGY – INV-TECHNOLOGIE SAS（Dynavision；SIREN 808 965 941；TVA FR30808965941）",
+"founded": "2015-01-22（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "视频监控 / 安防（自有品牌 Dynavision）",
@@ -381285,11 +381493,11 @@
 "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-045，W 批次调研 2026-10-19/20）"
 },
 "company_facts": {
-"legal_name": "Shop4Power (Shop4power / shop4networks)",
-"founded": "",
+"legal_name": "Shop4power.nl（eenmanszaak；h.o.d.n. Shop4networks.nl；KvK 63967588；BTW NL001646847B50）",
+"founded": "≈2015（KvK 639…）（第 108 批 官方登记核实 2026-10-28）",
 "hq": "Wijhe（Overijssel）, 荷兰",
 "size": "",
-"other": "Planet 渠道档案 PB-045（2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL.json）；自有品牌：待核（E-Link：Mikrotik 侧记为自有品牌；首触第一问核实）；最大未知：E-Link 归属（自有/转售）；PLANET 年台数；是否从 PLANET 荷兰渠道拿货"
+"other": "Planet 渠道档案 PB-045（2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL.json）；自有品牌：待核（E-Link：Mikrotik 侧记为自有品牌；首触第一问核实）；最大未知：E-Link 归属（自有/转售）；PLANET 年台数；是否从 PLANET 荷兰渠道拿货；第 108 批：Wijhe 一人 UPS / 电池 / 网络网店，「Planet-specialist」自备库存并兼卖 E-Link → **分销 20% small，一页纸一次**；MOQ 1 友好（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "专业网店/经销（自述「Power Supply, Switches & Planet Ethernet Specialist」「De Power Specialist van Nederland & België」；UPS/电池 + PLANET 交换机 + E-Link 交换机；NL/BE 发货，多数现货）"
@@ -408618,7 +408826,9 @@
 },
 "company_facts": {
 "hq": "捷克",
-"other": "官网 nextlan.cz，语言 cs，快照状态 ok；角色判定来源：用户表"
+"other": "官网 nextlan.cz，语言 cs，快照状态 ok；角色判定来源：用户表；第 108 批：Chrudim 网络 / 电信 VAD（Axis、Fluke、IMC、Lantech；6–25 人）仍在册，但 19 次群发无回复 + 研究档域名曾易主 → **不动**（第 108 批 官方登记核实 2026-10-28）",
+"legal_name": "NEXTLAN s. r. o.（IČO 25924826；DIČ CZ25924826；C 14968 KS Hradec Králové）",
+"founded": "1999-08-03（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "网络设备分销（捷克，待核）"
@@ -425821,7 +426031,9 @@
 },
 "company_facts": {
 "hq": "荷兰",
-"other": "官网 besd.nl，语言 nl，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 besd.nl，语言 nl，快照状态 ok；角色判定来源：官网文案；第 108 批：Weert 工业嵌入式 + 数据通信进口分销商（2–10 人；PI Nederland 会员；姊妹站 EKS 光纤）→ **分销 20% small，一页纸一次**；收件人 sales@besd.nl（第 108 批 官方登记核实 2026-10-28）",
+"legal_name": "B.E.S.D. Benelux B.V.（KvK 50025619）",
+"founded": "1989（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "嵌入式系统 / 工业数据通信产品分销"
@@ -441115,7 +441327,9 @@
 },
 "company_facts": {
 "hq": "比利时",
-"other": "官网 fybera.com，语言 ?，快照状态 unreachable；角色判定来源：用户表"
+"other": "官网 fybera.com，语言 ?，快照状态 unreachable；角色判定来源：用户表；第 108 批：官网不可达 + 1 次检索（KBO / companyweb 口径）未命中法人 + 12 次群发无回复 → **不动**（自贴标 MC 本是贴标目标，待官网 / 法人恢复可查再议）（第 108 批 官方登记核实 2026-10-28）",
+"legal_name": "Fybera（品牌；比利时法人未取 → 未坐实）",
+"founded": "2010（brandfetch 口径）（第 108 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "光纤配件 / MC（自有品牌 Fybera）"

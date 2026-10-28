@@ -77,6 +77,21 @@ updated: 2026-10-28
 
 - 法定假日：10-31 All Saints' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 108 批（SE · 1 次检索：allabolag（AV Nordic Hemsat AB；Org.nr 556594-9863；Elinsdalsgatan 15 504 33 Borås；Del av Hemfast Holding AB；Registreringsdatum 2000-07-11；1 anställd；SNI 46502；VD Hans Martin Karlsson f 1976）+ ratsit（Omsättning 8,4 MSEK 2025；−36,1 %；VAT SE556594986301）+ avnordic.se Kontakta oss（Martin Carlzon VD/ägare；Fredrik Kärrander Marknadsföring fredrik@；info@avnordic.se）+ LinkedIn（2000；2–10），2026-10-28 查；https://www.allabolag.se/foretag/av-nordic-hemsat-ab/bor%C3%A5s/elektronik-och-telekommunikationsutrustning/2K1TMEFI63IFR）：**
+
+- 法定名 / 登记号：AV Nordic Hemsat AB（avnordic.se；布罗斯 Borås Elinsdalsgatan 15, 504 33；org.nr 556594-9863；VAT SE556594986301）— 2000-07-11 登记的安防 / 网络 / 音响 B2B 批发商（面向安装商与经销商：Uniview / Milesight 摄像机、Cvedia 分析、Global Caché；起家于天线 / 卫星分销）；Hemfast Holding AB 子公司；VD / 业主 Hans Martin Karlsson（官网署 Martin Carlzon VD/ägare，同一人待核）；登记 1 名雇员（LinkedIn 2–10）；2025 营收 SEK 8.4M（−36%）；群发 2 次打开 · Org.nr 556594-9863 · 状态 **Aktivt** · 成立 2000-07-11 · Aktiebolag（Hemfast Holding AB 子公司）
+- 行业码 / 经营范围：安防 / 网络 / 音响 B2B 批发（SNI 46502）
+- 注册地址：Elinsdalsgatan 15, 504 33 Borås
+- 规模档：小微（1–10 人）
+- 账目：2025 营收 SEK 8.4M（−36%）；—
+- 高管：Martin Carlzon / Hans Martin Karlsson — VD / ägare = 拍板人（同一人待核）
+- 高管：Fredrik Kärrander — Marknadsföring（fredrik@）= 收件人
+- 控制人 / 股东：Hemfast Holding AB
+- **这意味着什么：**
+  - **营收下滑的小型安防批发商 → 分销 20% small，一页纸一次（STC-028GP / STC-228GP 配其摄像机品牌）；有回声再加厚**
+  - 收件人 fredrik@ 直呼 Fredrik，抄 info@ 点名 Martin；2 次打开无回复 → 二次触达换切口；发信窗口 Thu 12–14 CET；瑞典语一句引子；稿内不点名 Uniview / Milesight
+- 备注：分销 20% small；一页纸一次；坐实（org.nr）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -110,14 +125,18 @@ updated: 2026-10-28
 - **【用户表】switch 主要是 Wi-Tek 的**
   > switch 主要是witek的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Fredrik Kärrander（Marknadsföring（官网 Kontakta oss；fredrik@avnordic.se）= 收件人（第 108 批 官方登记核实 2026-10-28））fredrik@avnordic.se 〔https://avnordic.se/om-av-nordic/kontakta-oss/〕
+- **KP**：Martin Carlzon（VD / ägare（官网；Bolagsverket 登记 VD Hans Martin Karlsson，同一人待核）= 拍板人（抄 info@ 点名）（第 108 批 官方登记核实 2026-10-28））info@avnordic.se 〔https://www.allabolag.se/foretag/av-nordic-hemsat-ab/bor%C3%A5s/elektronik-och-telekommunikationsutrustning/2K1TMEFI63IFR〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | AV Nordic Hemsat AB（org.nr 556594-9863；Hemfast Holding AB 子公司） |
+| 成立 | 2000-07-11（第 108 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 瑞典 |
-| 其他 | 官网 avnordic.se，语言 sv-SE，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 avnordic.se，语言 sv-SE，快照状态 ok；角色判定来源：官网文案；第 108 批：Borås 安防 / 网络 / 音响 B2B 批发商（Uniview / Milesight；登记 1 名雇员；2025 营收 SEK 8.4M −36%）→ **分销 20% small，一页纸一次**（第 108 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防 / 网络 / 音响 B2B 批发
 - **触达通道（公开）**：role: 安防/网络/音响 B2B 批发商（瑞典，Wi-Tek 交换机）；region: 瑞典；contact: info@avnordic.se
@@ -155,7 +174,7 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1007/`；本节随档案重渲染刷新，实时看日志。
 
@@ -176,7 +195,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@avnordic.se | 用户表原值 | Clients/ 表 |
+| Fredrik Kärrander | Marknadsföring（官网 Kontakta oss；fredrik@avnordic.se）= 收件人（第 108 批 官方登记核实 2026-10-28） | fredrik@avnordic.se | 调研核实（公开页） | https://avnordic.se/om-av-nordic/kontakta-oss/ |
+| Martin Carlzon | VD / ägare（官网；Bolagsverket 登记 VD Hans Martin Karlsson，同一人待核）= 拍板人（抄 info@ 点名）（第 108 批 官方登记核实 2026-10-28） | info@avnordic.se | 调研核实（公开页） | https://www.allabolag.se/foretag/av-nordic-hemsat-ab/bor%C3%A5s/elektronik-och-telekommunikationsutrustning/2K1TMEFI63IFR |
 
 - **通道建议**：企业邮箱可直发
 
@@ -211,7 +231,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：欧洲主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -228,7 +248,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ✅ |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |

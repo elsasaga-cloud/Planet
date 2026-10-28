@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -82,6 +82,20 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 108 批（ES · 1 次检索：davantel.com 首页 / Aviso legal（DESARROLLOS AVANZADOS EN TELECOMUNICACIONES, S.L.；CIF B63615553；C/Pardo 8 bajos 08027 Barcelona；+34 93 3408712；info@davantel.com）+ davantel.es Contacto（foundingDate 2004-10-15；NIF B63615553）+ Iberinform（CIF B63615553；Sociedad Limitada；CALLE PARDO 6, 8 BJ；marca DAVANTEL）+ LinkedIn（2–10；2004；distribuidores de Teltonika, Fiberroad, Kyland, Gigalight, Elproma, Raisecom y Loop Telecom），2026-10-28 查；https://www.iberinform.es/empresa/2029783/desarrollos-avanzados-en-telecomunicaciones）：**
+
+- 法定名 / 登记号：DESARROLLOS AVANZADOS EN TELECOMUNICACIONES, S.L.（DAVANTEL；davantel.com；巴塞罗那 C/ Pardo 8 bajos, 08027；CIF B63615553）— 2004-10-15 成立的电信接入 / 传输方案分销商（面向运营商、工程公司、公用事业与大企业；分销 Teltonika Networks、**Fiberroad、Kyland**、Gigalight、Elproma、Raisecom、Loop Telecom；网店 shop.davantel.com）；2–10 人；CTO Jose Salvador Collado（研究档 KP）；表内「外购 10G MC、工业 FS 管理型」；群发 2 次打开 · CIF B63615553 · 状态 **Active** · 成立 2004-10-15 · S.L.（私有；小微）
+- 行业码 / 经营范围：电信接入 / 传输设备分销 + 方案（运营商 / 工程公司 / 公用事业）
+- 注册地址：C/ Pardo 8 bajos, 08027 Barcelona
+- 规模档：小微（2–10 人）
+- 账目：—；—
+- 高管：Jose Salvador Collado — CTO（研究档 KP，jrsalvador@）= 收件人 / 技术拍板
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **已分销两家中国工业交换机品牌的巴塞罗那方案商 → 分销 20%，B，加厚一次（small）**：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-0240GE + STC-110XGE 一页纸 + 1:1 对照其在售工业管理型 FS 口数；稿内不点名 Fiberroad / Kyland / Teltonika
+  - 收件人 jrsalvador@ 直呼 Jose（CTO）；2 次打开无回复 → 二次触达换切口「a third industrial source with Marvell L2+ management」；发信窗口 Thu 12–14 CET；西语一句引子
+- 备注：分销 20%；B；加厚一次（small）；坐实（CIF）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -108,16 +122,17 @@ updated: 2026-10-27
 - **【用户表】外购 10G MC；工业 FS 管理**
   > 兴趣：外购10G MC 工业FS 管理
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Jose Salvador Collado（）jrsalvador@davantel.com +34 93 340 8712〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Jose Salvador Collado（CTO（研究档）= 收件人 / 技术拍板（第 108 批 官方登记核实 2026-10-28））jrsalvador@davantel.com +34 93 340 8712〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Desarrollos Avanzados en Telecomunicaciones, S.L. |
+| 法定名称 | DESARROLLOS AVANZADOS EN TELECOMUNICACIONES, S.L.（DAVANTEL；CIF B63615553） |
+| 成立 | 2004-10-15（第 108 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Barcelona, Spain |
-| 其他 | 外购 10G MC |
+| 其他 | 外购 10G MC；第 108 批：巴塞罗那电信接入 / 传输方案分销商（2–10 人；分销 Teltonika、**Fiberroad、Kyland**、Gigalight、Raisecom、Loop Telecom）→ **分销 20%，B，加厚一次（small；STI 1:1 对照其在售中国工业管理型 FS；不点名）**（第 108 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电信接入 / 传输方案（运营商）；工业网络产品（部分外购）
 - **触达通道（公开）**：role: 方案商 / 品牌商（OEM 采购）；region: 西班牙
@@ -198,15 +213,15 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
-- **最近变化摘要**：2026-10-27 feed_auto：新增 221 条：Mon, 26 Oct 2026 09 SD-WAN: Guía Técnica Completa para Ingenieros y Gestores de R
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **最近变化摘要**：2026-10-28 feed_auto：新增 220 条：Mon, 26 Oct 2026 09 SD-WAN: Guía Técnica Completa para Ingenieros y Gestores de R
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-654/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.davantel.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 11957 字符；首行：Soluciones avanzadas para telecomunicaciones corporativas - Davantel |
+| [home](https://www.davantel.com/) | html | HTTP 200 | 2026-10-28T08:44:48Z | 11974 字符；首行：Soluciones avanzadas para telecomunicaciones corporativas - Davantel |
 | [sitemap](https://www.davantel.com/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
-| [feed_auto](https://www.davantel.com/feed) | rss | HTTP 200 | 2026-10-27T08:02:45Z | 300 条；最新：Mon, 26 Oct 2026 09:00:00 SD-WAN: Guía Técnica Completa para Ingenieros y Gestore |
+| [feed_auto](https://www.davantel.com/feed) | rss | HTTP 200 | 2026-10-28T08:44:48Z | 300 条；最新：Mon, 26 Oct 2026 09:00:00 SD-WAN: Guía Técnica Completa para Ingenieros y Gestore |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -221,7 +236,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Jose Salvador Collado | — | jrsalvador@davantel.com / +34 93 340 8712 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Jose Salvador Collado | CTO（研究档）= 收件人 / 技术拍板（第 108 批 官方登记核实 2026-10-28） | jrsalvador@davantel.com / +34 93 340 8712 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：邮件已推送 14 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -315,12 +330,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 34）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 34）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

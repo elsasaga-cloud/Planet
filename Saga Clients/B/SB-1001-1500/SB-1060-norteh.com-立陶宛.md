@@ -76,6 +76,20 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-02 All Souls' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 108 批（LT · 1 次检索：norteh.com 页脚 / 结构化数据（legalName UAB Enzas；Company code 303005607；VAT LT100009310917；Ukmergės g. 219, 07152 Vilnius；info@norteh.com；+370 663 77000）+ rekvizitai.vz.lt 搜索（Enzas, UAB；Ukmergės g. 219-1 Vilnius；vaizdo stebėjimo sistemos），2026-10-28 查；https://www.norteh.com/）：**
+
+- 法定名 / 登记号：UAB Enzas（经营 norteh.com「NORTEH」多语言网店 EN/IT/DE/DK；维尔纽斯 Ukmergės g. 219, LT-07152；įmonės kodas 303005607；PVM LT100009310917）— CCTV 与安防设备网店（Hikvision / Dahua / Longse / Reolink / Ajax / Paradox；摄像机、套装、录像机、报警、对讲、网络设备、门禁）；群发 2 次打开 · Įmonės kodas 303005607；PVM LT100009310917 · 状态 **Aktyvi** · 成立 ≈2013（kodas 3030…） · UAB（私有；小微）
+- 行业码 / 经营范围：CCTV / 安防设备 网店（多语言，面向欧盟）
+- 注册地址：Ukmergės g. 219, LT-07152 Vilnius
+- 规模档：小微
+- 账目：—；—
+- 高管：（未具名）— 收件人 info@norteh.com
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **多语言 CCTV 网店 → 分销 20% small，一页纸一次（STC-028GP / STC-228GP 配其摄像机套装）；有回声再加厚**；稿内不点名 Hikvision / Dahua
+  - 2 次打开无回复 → 二次触达换切口；发信窗口 Thu 12–14 EET；立陶宛语一句引子
+- 备注：分销 20% small；一页纸一次；坐实（kodas 站脚 + rekvizitai）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -115,8 +129,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | UAB Enzas（经营 norteh.com「NORTEH」；įmonės kodas 303005607；PVM LT100009310917） |
+| 成立 | ≈2013（kodas 3030…）（第 108 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 立陶宛 |
-| 其他 | 官网 norteh.com，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 norteh.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 108 批：维尔纽斯多语言 CCTV 网店（Hikvision / Dahua / Longse / Reolink / Ajax）→ **分销 20% small，一页纸一次**（第 108 批 官方登记核实 2026-10-28） |
 
 - **业务线**：CCTV / 报警 / 对讲 / 门禁 / 网络设备网店（跨境）
 - **触达通道（公开）**：role: 安防设备跨境网店（多语言，多供应商）；region: 立陶宛；contact: info@norteh.com
@@ -154,13 +170,13 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
-- **最近变化摘要**：2026-10-27 home：内容变化：+1035 −2 行
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **最近变化摘要**：2026-10-28 home：内容变化：+1038 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1060/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.norteh.com/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 29544 字符；首行：CCTV Cameras & Security Equipment Online \| Norteh |
+| [home](https://www.norteh.com/) | html | HTTP 200 | 2026-10-28T08:44:48Z | 29551 字符；首行：CCTV Cameras & Security Equipment Online \| Norteh |
 | [sitemap](https://www.norteh.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
 
 ## 联系方式（已有 · 原值照录）

@@ -42,7 +42,14 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Pavle Pulek",
+   "role": "Direktor / 法定代表（companywall.rs / netiks.ls.rs）= 拍板人 / 收件人（info@netiks.rs 点名）（第 108 批 官方登记核实 2026-10-28）",
+   "email": "info@netiks.rs",
+   "source": "https://www.companywall.rs/firma/netiks-doo-beograd/MMouX76q"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -52,7 +59,9 @@
  },
  "company_facts": {
   "hq": "塞尔维亚",
-  "other": "官网 netiks.rs，语言 sr-yu，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 netiks.rs，语言 sr-yu，快照状态 ok；角色判定来源：官网文案；第 108 批：贝尔格莱德网络设备 B2B 商店 + 工程，44 人（2025），**自有「NT」光模块品牌** → **贴标 OEM 30% 可谈（NT 标 PoE / L2 交换机）+ 分销 20%，B BIG，加厚一次；次候选升 A**（第 108 批 官方登记核实 2026-10-28）",
+  "legal_name": "NETIKS DOO BEOGRAD（PRIVREDNO DRUŠTVO NETIKS DOO BEOGRAD (ZVEZDARA)；МБ 17326163；ПИБ 101720299）",
+  "founded": "2001-07-24（第 108 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "网络与通信产品商店（光模块自有标）"

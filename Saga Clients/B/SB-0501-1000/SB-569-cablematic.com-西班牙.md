@@ -78,6 +78,21 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 108 批（ES · 1 次检索：cablematic.com Copyright / Help（Cablematic Dos Mil SLU；Tax ID B62231261；Santander 61 08020 Barcelona；info@cablematic.com；VAT ES-B62231261）+ infoempresa（Incorporation Date 01/04/2000）+ empresia（Capital social 2.547.000 €；www.cablematic.com / cablematic.es / bematik.com；25 años）+ mercadodefacturas（49 empleados）+ Iberinform（CNAE 4664；marca CABLEMATIC）+ einforma（SLU；BORME 47 actos；domicilio anterior Santander 85），2026-10-28 查；https://www.iberinform.es/empresa/182040/cablematic-dos-mil）：**
+
+- 法定名 / 登记号：CABLEMATIC DOS MIL, S.L.U.（cablematic.com / bematik.com / Cablemarkt；巴塞罗那 Calle Santander 61, 08020（前 Santander 85）；CIF B62231261；Registro Mercantil de Barcelona）— 2000-04-01 成立的电脑周边与技术产品进出口分销 + 电商（自有品牌 BeMatik；品类 机柜 / 音视频 / 光纤 / 线缆 / 工业 / 监控；Amazon / PcComponentes / eBay 多平台）；股本 €2,547,000；≈49 人；CNAE 4664 / 4650；群发 ≥2 次 · CIF B62231261 · 状态 **Active** · 成立 2000-04-01 · S.L.U.（单一股东；股本 €2,547,000）
+- 行业码 / 经营范围：电脑周边 / 网络 / 线缆产品 进出口分销 + 电商（自有品牌 BeMatik）
+- 注册地址：Calle Santander 61, 08020 Barcelona
+- 规模档：中小（≈49 人）
+- 账目：—（股本 €2.55M）；—
+- 高管：（未具名；administrador único）— 拍板人
+- 高管：（未具名）— compras / product manager redes = 收件人（comercial@ / info@ 点名）
+- 控制人 / 股东：单一股东（未取）
+- **这意味着什么：**
+  - **49 人、自有品牌 BeMatik 的巴塞罗那进口分销商 → 贴标 OEM 30% 正中目标（BeMatik 标 PoE 交换机 / MC）+ 分销 20%，B BIG，加厚一次**：STC-028GP / STC-228GP / STC-2224GP / STC-110XGE + STI-054GP / STI-144GP 一页纸 + 1:1 对照其 BeMatik 在售 PoE 交换机；只报 OEM 档
+  - 收件人 comercial@ 点名 departamento de compras；群发无回复 → 二次触达换切口「a second OEM source for BeMatik switches」；发信窗口 Thu 12–14 CET；西语一句引子
+- 备注：贴标 30% 目标 + 分销 20%；B BIG；加厚一次；坐实（CIF + 成立日）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -117,8 +132,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | CABLEMATIC DOS MIL, S.L.U.（CIF B62231261；Registro Mercantil de Barcelona） |
+| 成立 | 2000-04-01（第 108 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 德国 |
-| 其他 | 官网 cablematic.com，语言 en，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 cablematic.com，语言 en，快照状态 ok；角色判定来源：用户表；第 108 批：巴塞罗那电脑周边 / 网络 / 线缆进出口分销 + 多平台电商（自有品牌 BeMatik / Cablemarkt；股本 €2,547,000；≈49 人）→ **贴标 OEM 30% 正中目标（BeMatik 标 PoE 交换机 / MC）+ 分销 20%，B BIG，加厚一次；升 A 候选（回信即 A）**；收件人 comercial@ 点名 compras（第 108 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电脑周边 / 线缆 / 光纤 / 机柜分销（自有品牌 BeMatik）
 - **触达通道（公开）**：role: 电脑周边分销 + 自有品牌 BeMatik（OEM 采购）；region: 西班牙；contact: info@cablematic.com
@@ -157,13 +174,13 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
-- **最近变化摘要**：2026-10-27 home：内容变化：+1952 −3 行
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **最近变化摘要**：2026-10-28 home：内容变化：+1949 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-569/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://cablematic.com/en/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 44955 字符；首行：Cablematic |
+| [home](https://cablematic.com/en/) | html | HTTP 200 | 2026-10-28T08:44:48Z | 44955 字符；首行：Cablematic |
 
 ## 联系方式（已有 · 原值照录）
 

@@ -77,6 +77,20 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 108 批（NL · 1 次检索：besd.nl（B.E.S.D Benelux B.V.；Oude Graaf 3b 6002NL Weert；founded 1989；more than 30 years；Member of PI Nederland）+ creditsafe（KvK-nummer 50025619）+ eks-glasvezel.nl（K: 50025619；原址 Wilhelminahof 7-8 Deurne）+ industrievandaag（importeur en distributeur embedded systemen en datacommunicatie；sales@besd.nl；+31 493 316 554）+ LinkedIn（2–10；1989）+ RocketReach（3 人），2026-10-28 查；https://www.besd.nl/en/company-details-about-besd）：**
+
+- 法定名 / 登记号：B.E.S.D. Benelux B.V.（besd.nl；韦尔特 Weert „De Kempen“ Oude Graaf 3b, 6002 NL（原 Deurne）；KvK 50025619）— 1989 年起的工业自动化嵌入式系统 + 数据通信产品进口分销商（串口 / 光纤 / 无线 / 以太网转换器与交换机、PC/104、EN 50155 整机；姊妹站 EKS 光纤）；2–10 人（≈3）；PI Nederland 会员；表内「几个有名牌子的工业 FS；bypass 基本研华」；1 次跟进无回复；群发 5 次打开 · KvK 50025619 · 状态 **Active** · 成立 1989 · B.V.（私有；小微）
+- 行业码 / 经营范围：工业自动化嵌入式系统 + 数据通信产品进口分销（Benelux）
+- 注册地址：Oude Graaf 3b, 6002 NL Weert
+- 规模档：小微（2–10 人）
+- 账目：—；—
+- 高管：（未具名）— 收件人 sales@besd.nl（点名 inkoop / productmanager Ethernet）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **3 人工业通信进口分销商（研华式产品线）→ 分销 20% small，一页纸一次（STI-054GP / STI-144GP / STI-288DGGPM / STI-0240GE）；有回声再加厚**
+  - 收件人 sales@ 点名 inkoop；1 次跟进 + 5 次打开无回复 → 二次触达换切口「an industrial switch line for your Benelux catalogue」；发信窗口 Thu 12–14 CET；荷语一句引子
+- 备注：分销 20% small；一页纸一次；坐实（KvK）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -116,8 +130,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | B.E.S.D. Benelux B.V.（KvK 50025619） |
+| 成立 | 1989（第 108 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 荷兰 |
-| 其他 | 官网 besd.nl，语言 nl，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 besd.nl，语言 nl，快照状态 ok；角色判定来源：官网文案；第 108 批：Weert 工业嵌入式 + 数据通信进口分销商（2–10 人；PI Nederland 会员；姊妹站 EKS 光纤）→ **分销 20% small，一页纸一次**；收件人 sales@besd.nl（第 108 批 官方登记核实 2026-10-28） |
 
 - **业务线**：嵌入式系统 / 工业数据通信产品分销
 - **触达通道（公开）**：role: 工业自动化数据通信分销商（名牌组合，含研华）；region: 荷兰；contact: info@besd.nl、sales@besd.nl
@@ -174,7 +190,7 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-907/`；本节随档案重渲染刷新，实时看日志。
 

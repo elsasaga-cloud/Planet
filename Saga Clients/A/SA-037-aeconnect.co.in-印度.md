@@ -26,7 +26,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -227,14 +227,14 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
-- **最近变化摘要**：2026-10-27 news_1：内容变化：+169 −1 行
+- **监控层**：A 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **最近变化摘要**：2026-10-28 news_1：内容变化：+173 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-037/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://aeconnect.co.in/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 5974 字符；首行：Networking Products Manufacturer in India \| AE Connect |
-| [news_1](https://aeconnect.co.in/blog/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 25131 字符；首行：AE Connect Blog – Insights on Networking & IoT |
+| [home](https://aeconnect.co.in/) | html | HTTP 200 | 2026-10-28T08:44:48Z | 5952 字符；首行：Networking Products Manufacturer in India \| AE Connect |
+| [news_1](https://aeconnect.co.in/blog/) | html | HTTP 200 | 2026-10-28T08:44:48Z | 25409 字符；首行：AE Connect Blog – Insights on Networking & IoT |
 | [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCqw4MRNMDXjB0FkJe6p-Rhw) | rss | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-10-20T05:02:46+00:00 Happy Dussehra! |
 | [feed_auto](https://aeconnect.co.in/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Thu, 30 Jul 2026 05:58:37 3-Port Gigabit PoE Extender AEIN-PEG02 |
 
@@ -344,12 +344,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-10**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-11**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 79）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 79）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

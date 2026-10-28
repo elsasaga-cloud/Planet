@@ -256,14 +256,14 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
-- **最近变化摘要**：2026-10-27 sitemap：新增 400 条： BECOL； Serial-Over-T1-E1-Multiplexer； TDM-over-IP-Jumboswitch； Fiber； Network-Co
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **最近变化摘要**：2026-10-28 sitemap：新增 400 条： BECOL； Serial-Over-T1-E1-Multiplexer； TDM-over-IP-Jumboswitch； Fiber； Network-Co
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-787/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://tccomm.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 9456 字符；首行：TC Communications - Fiber Optic Networks and Industrial Ethernet Solutions |
-| [sitemap](https://tccomm.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-27T08:02:45Z | 481 个 URL；最新 lastmod - |
+| [sitemap](https://tccomm.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-28T08:44:48Z | 481 个 URL；最新 lastmod - |
 | [news_1](https://tccomm.com/NewsEvents) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6586 字符；首行：Product Updates on How TC Integrates Ethernet, TDM & Voice on One Rugged GigE P |
 | [news_2](https://tccomm.com/NewsandUpdates) | html | HTTP 200 | 2026-10-23T04:20:51Z | 8930 字符；首行：Product Updates on How TC Integrates Ethernet, TDM & Voice on One Rugged GigE P |
 | [youtube](https://www.youtube.com/@TCCommInc) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-10-21T15:47:13+00:00 RS-366 Dial-Up Fiber Optic Modem \| TC1230 |

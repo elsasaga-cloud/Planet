@@ -239,14 +239,14 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
-- **最近变化摘要**：2026-10-27 sitemap：新增 289 条：2017-10-31 60；2017-10-31 55；2017-10-31 54；2017-10-31 53；2017-10-31 59；2017-10-31 
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **最近变化摘要**：2026-10-28 sitemap：新增 289 条：2017-10-31 60；2017-10-31 55；2017-10-31 54；2017-10-31 53；2017-10-31 59；2017-10-31 
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-867/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.erete.com.tr/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1284 字符；首行：Erete Bilgi Sistemleri |
-| [sitemap](https://www.erete.com.tr/sitemap.xml) | sitemap | HTTP 200 | 2026-10-27T08:02:45Z | 369 个 URL；最新 lastmod 2017-10-31 |
+| [sitemap](https://www.erete.com.tr/sitemap.xml) | sitemap | HTTP 200 | 2026-10-28T08:44:48Z | 369 个 URL；最新 lastmod 2017-10-31 |
 | [news_1](https://www.erete.com.tr/Kullanici/Home/Duyurular) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2787 字符；首行：Haberler/Duyurular \| Erete Bilgi Sistemleri |
 | [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCu6QpJWkTqt-bi3jMjqhBlg) | rss | HTTP 200 | 2026-10-24T07:26:33Z | 13 条；最新：2018-06-10T12:24:32+00:00 XP Marka Kablolama ve Aktif Sistemler Ürünleri |
 

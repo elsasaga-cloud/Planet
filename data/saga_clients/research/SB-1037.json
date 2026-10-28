@@ -1,145 +1,147 @@
 {
-  "code": "SB-1037",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（hightrade-international.com，快照 2026-10-21）",
-  "summary": "法国 High’Trade International（「We provide the world industry from Hong Kong, Taiwan and China Mainland」采购/分销中介：成本节约、物流、分销、研发、增值服务、绿色能源；表内询盘「40 个 24 口 PoE 交换机，distributor」；KP Thomas Lemaire）；表内未跟进。",
-  "type": "采购中介/分销商（法国，24 口 PoE ×40 询盘）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：High'Trade International；品类词 工业自动化 / OT 网络",
-      "quote": "We provide the world industry from Hong Kong, Taiwan and China Mainland.；Cost saving；Logistics；Distribution；R&D；Added-value services",
-      "url": "https://www.hightrade-international.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "40个 24口POE交换机 distributor",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "High’Trade 定位",
-      "quote": "Home - High’Trade International ; We provide the world industry from Hong Kong, Taiwan and China Mainland. ; Cost saving ; Logistics ; Distribution ; R&D",
-      "url": "https://www.hightrade-international.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "40 个 24 口 PoE 交换机 询盘",
-      "quote": "40个 24口POE交换机 distributor",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Thomas Lemaire",
-      "title": "（职务待核）",
-      "email": "thomas.lemaire@hightrade-international.com",
-      "phone": "",
-      "source": "用户表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-1037",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（hightrade-international.com，快照 2026-10-21）",
+ "summary": "法国 High’Trade International（「We provide the world industry from Hong Kong, Taiwan and China Mainland」采购/分销中介：成本节约、物流、分销、研发、增值服务、绿色能源；表内询盘「40 个 24 口 PoE 交换机，distributor」；KP Thomas Lemaire）；表内未跟进。",
+ "type": "采购中介/分销商（法国，24 口 PoE ×40 询盘）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：High'Trade International；品类词 工业自动化 / OT 网络",
+   "quote": "We provide the world industry from Hong Kong, Taiwan and China Mainland.；Cost saving；Logistics；Distribution；R&D；Added-value services",
+   "url": "https://www.hightrade-international.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "法国",
-    "other": "官网 hightrade-international.com，语言 fr-FR，快照状态 ok；角色判定来源：用户表"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "40个 24口POE交换机 distributor",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "跨境采购 / 分销中介（港台中国大陆 → 法国/欧洲）"
-  ],
-  "channels": {
-    "role": "采购中介/分销商（法国，24 口 PoE ×40 询盘）",
-    "region": "法国",
-    "contact": "thomas.lemaire@hightrade-international.com、info@hightrade-international.com"
+  {
+   "kind": "官网快照",
+   "claim": "High’Trade 定位",
+   "quote": "Home - High’Trade International ; We provide the world industry from Hong Kong, Taiwan and China Mainland. ; Cost saving ; Logistics ; Distribution ; R&D",
+   "url": "https://www.hightrade-international.com/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "首页 We provide the world industry from Hong Kong, Taiwan and China Mainland. ; Cost saving ; Logistics ; Distribution ; R&D ; Added-value services ; Green energy；kw distributor 9 / industrial 8",
-    "表内：40 个 24 口 PoE 交换机 distributor；KP Thomas Lemaireh（thomas.lemaire@）"
-  ],
-  "risks": [
-    "采购中介（为终端客户比价，忠诚度低）；询盘时间/有效性待核（表内未跟进）",
-    "仅信息型联系人（职务待核）"
-  ],
-  "saga_fit": {
-    "p1": "STC-424DGGPM-280W",
-    "tier": 20,
-    "why": "询盘 40 台 24 口 PoE → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%，40 台约 $5,380 EXW）；10G 上联版 STC-424XGGPM-280W（$180）；非管理 24 PoE 位 HRUI STC-2024GP（列表价，注明）"
-  },
-  "email_hook": "Thomas, regarding your requirement for 40 units of 24-port PoE switches: we can supply Marvell-based 24-PoE + 4 SFP L2+ (280 W, VLAN/QoS, web-managed) with neutral or your packaging, CE/RoHS, 10–15 days lead time, EXW USD — do you need managed or unmanaged, and what PoE budget per unit?",
-  "mail_review": {
-    "binding": {
-      "level": "Elsa 群发 BCC 已触达 2026-09-03「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，FR 批次 To kairosmusique@gmail.com，0 回（第 73 批(o) Bcc 头核对 msg 1a0673806b7c310d）；S/A 箱：S/A 邮箱均无往来；来源：用户表「40个 24口POE交换机 distributor」",
-      "type": "采购中介/分销商（法国，24 口 PoE ×40 询盘）",
-      "sieve": "—（未入筛）",
-      "stop": "Elsa 群发 BCC 触达过（最近 2026-09-03）无回；S/A 箱从未单独发过",
-      "revive": "首封（具名 KP 优先，用研究档 email_hook）",
-      "lane": "法国（欧洲全域主攻）",
-      "cadence": "首封后看打开",
-      "evidence": "gmail_digest：out 0；用户表：「40个 24口POE交换机 distributor」；研究档 risks：采购中介（为终端客户比价，忠诚度低）；询盘时间/有效性待核（表内未跟进）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To kairosmusique@gmail.com）2025-04-07→2026-09-03 共 10 轮群发（90W PoE Managed Switch、8 Port Industrial PoE Switch、Mini Industrial PoE Switch、16 Port Ethernet Switch、Industrial PoE Switch、10G Enterprise SFP Switch、OEM Core Switching Solution、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
-    },
-    "situation": "法国 High’Trade International（「We provide the world industry from Hong Kong, Taiwan and China Mainland」采购/分销中介：成本节约、物流、分销、研发、增值服务、绿色能源；表内询盘「40 个 24 口 PoE 交换机，distributor」；KP Thomas Lemaire）；表内未跟进。",
-    "need": "询盘 40 台 24 口 PoE → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%，40 台约 $5,380 EXW）；10G 上联版 STC-424XGGPM-280W（$180）；非管理 24 PoE 位 HRUI STC-2024GP（列表价，注明）",
-    "breakpoint": "采购中介（为终端客户比价，忠诚度低）；询盘时间/有效性待核（表内未跟进）",
-    "saga_now": {
-      "p1": "STC-424DGGPM-280W",
-      "tier": 20,
-      "price": "首触锚价 STC-424DGGPM-280W $134.5 EXW（主表档位（PDF 上限 $165；SB-070 2025-02 实报 $150）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-03 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-03；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）",
-      "why": "询盘 40 台 24 口 PoE → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%，40 台约 $5,380 EXW）；10G 上联版 STC-424XGGPM-280W（$180）；非管理 24 PoE 位 HRUI STC-2024GP（列表价，注明）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "待 Simon 排期（首封）",
-      "channel": "A 邮箱 → thomas.lemaire@hightrade-international.com（Thomas Lemaire）",
-      "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-03「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 74 批(q) 2026-10-25：英文信稿已写 `draft_en`，开头按 ㉝ 写明 Elsa 群发主题/日期，价按 ㉕ 锚价）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-      "one_question": "Thomas, regarding your requirement for 40 units of 24-port PoE switches: we can supply Marvell-based 24-PoE + 4 SFP L2+ (280 W, VLAN/QoS, web-managed) with neutral or your packaging, CE/RoHS, 10–15 days lead time, EXW USD — do you need managed or unmanaged, and what PoE budget per unit? Reference: STC-424DGGPM-280W at $134.5 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2025-04-07",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To gildas.rault@faiveleytransport.com，FR 批次）",
-        "quote": "90W PoE Managed Switch — This is a Marvell based layer 2 managed PoE switch. 1. Highly programmable GUI 2. 2*PoE af/at/bt+6*PoE af/at, 240W budget 3. Support PoE management It",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 hightrade-international.com, info@hightrade-international.com, thomas.lemaire@hightrade-international.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-09-03",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To kairosmusique@gmail.com，FR 批次）",
-        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 hightrade-international.com, info@hightrade-international.com, thomas.lemaire@hightrade-international.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "40个 24口POE交换机 distributor",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来"
-    ],
-    "draft_en": {
-      "subject": "Your 40 x 24-port PoE switch requirement - one concrete option",
-      "body": "Hi Thomas,\n\nSome time ago you had a product mail from us - \"24 Port PoE Managed Switch\" on 3 September, priced at $170 - and there was no reason to answer a mass mail. This one is about your own requirement: 40 units of 24-port PoE switches.\n\nTwo ways to fill it, both Marvell-based L2+ managed (VLAN / QoS / IGMP, web GUI), CE/RoHS, neutral or your packaging, 10-15 days for 40 units:\n\n- 24 x Gigabit PoE+ (280 W) + 4 x Gigabit SFP, model STC-424DGGPM-280W - $134.5 USD EXW each (about $5,380 for 40, MOQ 1, 15-day validity).\n- 24 x Gigabit PoE+ (280 W) + 4 x 10G SFP+, model STC-424XGGPM-280W - now $180 USD EXW (the September mail said $170; the RMB moved from 7.2 to 6.7 against the dollar since then).\n\nIf the end customer only needs unmanaged 24-port PoE, there is a lower-cost unit on our Realtek line as well - I would quote it once I know the PoE budget they expect.\n\nOne question: is the 40-unit requirement still open, and which uplink does the end customer need - Gigabit SFP or 10G SFP+?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-    },
-    "as_of": "2026-10-25"
+  {
+   "kind": "用户表",
+   "claim": "40 个 24 口 PoE 交换机 询盘",
+   "quote": "40个 24口POE交换机 distributor",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Thomas Lemaire",
+   "title": "（职务待核）",
+   "email": "thomas.lemaire@hightrade-international.com",
+   "phone": "",
+   "source": "用户表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "法国",
+  "other": "官网 hightrade-international.com，语言 fr-FR，快照状态 ok；角色判定来源：用户表；第 108 批：实为驻港电子元器件 / 家电配件寻源中间商（华南 200 家工厂为欧美大客户寻源；+86 电话；Gmail 联系人）→ **不动**；国别存疑（研究档法国 ← 网站香港）暂不改 iso（第 108 批 官方登记核实 2026-10-28）",
+  "legal_name": "High’Trade International（网站署 High Trade International Ltd；总部香港 Sheung Wan；法人 / 注册号未取 → 未坐实）",
+  "founded": "未取（第 108 批 官方登记核实 2026-10-28）"
+ },
+ "business_lines": [
+  "跨境采购 / 分销中介（港台中国大陆 → 法国/欧洲）"
+ ],
+ "channels": {
+  "role": "采购中介/分销商（法国，24 口 PoE ×40 询盘）",
+  "region": "法国",
+  "contact": "thomas.lemaire@hightrade-international.com、info@hightrade-international.com"
+ },
+ "signals": [
+  "首页 We provide the world industry from Hong Kong, Taiwan and China Mainland. ; Cost saving ; Logistics ; Distribution ; R&D ; Added-value services ; Green energy；kw distributor 9 / industrial 8",
+  "表内：40 个 24 口 PoE 交换机 distributor；KP Thomas Lemaireh（thomas.lemaire@）"
+ ],
+ "risks": [
+  "采购中介（为终端客户比价，忠诚度低）；询盘时间/有效性待核（表内未跟进）",
+  "仅信息型联系人（职务待核）"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 20,
+  "why": "询盘 40 台 24 口 PoE → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%，40 台约 $5,380 EXW）；10G 上联版 STC-424XGGPM-280W（$180）；非管理 24 PoE 位 HRUI STC-2024GP（列表价，注明）"
+ },
+ "email_hook": "Thomas, regarding your requirement for 40 units of 24-port PoE switches: we can supply Marvell-based 24-PoE + 4 SFP L2+ (280 W, VLAN/QoS, web-managed) with neutral or your packaging, CE/RoHS, 10–15 days lead time, EXW USD — do you need managed or unmanaged, and what PoE budget per unit?",
+ "mail_review": {
+  "binding": {
+   "level": "Elsa 群发 BCC 已触达 2026-09-03「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，FR 批次 To kairosmusique@gmail.com，0 回（第 73 批(o) Bcc 头核对 msg 1a0673806b7c310d）；S/A 箱：S/A 邮箱均无往来；来源：用户表「40个 24口POE交换机 distributor」",
+   "type": "采购中介/分销商（法国，24 口 PoE ×40 询盘）",
+   "sieve": "—（未入筛）",
+   "stop": "Elsa 群发 BCC 触达过（最近 2026-09-03）无回；S/A 箱从未单独发过",
+   "revive": "首封（具名 KP 优先，用研究档 email_hook）",
+   "lane": "法国（欧洲全域主攻）",
+   "cadence": "首封后看打开",
+   "evidence": "gmail_digest：out 0；用户表：「40个 24口POE交换机 distributor」；研究档 risks：采购中介（为终端客户比价，忠诚度低）；询盘时间/有效性待核（表内未跟进）；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To kairosmusique@gmail.com）2025-04-07→2026-09-03 共 10 轮群发（90W PoE Managed Switch、8 Port Industrial PoE Switch、Mini Industrial PoE Switch、16 Port Ethernet Switch、Industrial PoE Switch、10G Enterprise SFP Switch、OEM Core Switching Solution、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
+  },
+  "situation": "法国 High’Trade International（「We provide the world industry from Hong Kong, Taiwan and China Mainland」采购/分销中介：成本节约、物流、分销、研发、增值服务、绿色能源；表内询盘「40 个 24 口 PoE 交换机，distributor」；KP Thomas Lemaire）；表内未跟进。",
+  "need": "询盘 40 台 24 口 PoE → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%，40 台约 $5,380 EXW）；10G 上联版 STC-424XGGPM-280W（$180）；非管理 24 PoE 位 HRUI STC-2024GP（列表价，注明）",
+  "breakpoint": "采购中介（为终端客户比价，忠诚度低）；询盘时间/有效性待核（表内未跟进）",
+  "saga_now": {
+   "p1": "STC-424DGGPM-280W",
+   "tier": 20,
+   "price": "首触锚价 STC-424DGGPM-280W $134.5 EXW（主表档位（PDF 上限 $165；SB-070 2025-02 实报 $150）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-03 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-03；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）",
+   "why": "询盘 40 台 24 口 PoE → 24 口 PoE+ 4 SFP L2+ STC-424DGGPM-280W（$134.5 @20%，40 台约 $5,380 EXW）；10G 上联版 STC-424XGGPM-280W（$180）；非管理 24 PoE 位 HRUI STC-2024GP（列表价，注明）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "待 Simon 排期（首封）",
+   "channel": "A 邮箱 → thomas.lemaire@hightrade-international.com（Thomas Lemaire）",
+   "action": "首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-03「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 74 批(q) 2026-10-25：英文信稿已写 `draft_en`，开头按 ㉝ 写明 Elsa 群发主题/日期，价按 ㉕ 锚价）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Thomas, regarding your requirement for 40 units of 24-port PoE switches: we can supply Marvell-based 24-PoE + 4 SFP L2+ (280 W, VLAN/QoS, web-managed) with neutral or your packaging, CE/RoHS, 10–15 days lead time, EXW USD — do you need managed or unmanaged, and what PoE budget per unit? Reference: STC-424DGGPM-280W at $134.5 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2025-04-07",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To gildas.rault@faiveleytransport.com，FR 批次）",
+    "quote": "90W PoE Managed Switch — This is a Marvell based layer 2 managed PoE switch. 1. Highly programmable GUI 2. 2*PoE af/at/bt+6*PoE af/at, 240W budget 3. Support PoE management It",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 hightrade-international.com, info@hightrade-international.com, thomas.lemaire@hightrade-international.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-09-03",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To kairosmusique@gmail.com，FR 批次）",
+    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 hightrade-international.com, info@hightrade-international.com, thomas.lemaire@hightrade-international.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "40个 24口POE交换机 distributor",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": {
+   "subject": "Your 40 x 24-port PoE switch requirement - one concrete option",
+   "body": "Hi Thomas,\n\nSome time ago you had a product mail from us - \"24 Port PoE Managed Switch\" on 3 September, priced at $170 - and there was no reason to answer a mass mail. This one is about your own requirement: 40 units of 24-port PoE switches.\n\nTwo ways to fill it, both Marvell-based L2+ managed (VLAN / QoS / IGMP, web GUI), CE/RoHS, neutral or your packaging, 10-15 days for 40 units:\n\n- 24 x Gigabit PoE+ (280 W) + 4 x Gigabit SFP, model STC-424DGGPM-280W - $134.5 USD EXW each (about $5,380 for 40, MOQ 1, 15-day validity).\n- 24 x Gigabit PoE+ (280 W) + 4 x 10G SFP+, model STC-424XGGPM-280W - now $180 USD EXW (the September mail said $170; the RMB moved from 7.2 to 6.7 against the dollar since then).\n\nIf the end customer only needs unmanaged 24-port PoE, there is a lower-cost unit on our Realtek line as well - I would quote it once I know the PoE budget they expect.\n\nOne question: is the 40-unit requirement still open, and which uplink does the end customer need - Gigabit SFP or 10G SFP+?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-25"
+ }
 }

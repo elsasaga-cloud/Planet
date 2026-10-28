@@ -77,6 +77,22 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 108 批（IE · 1 次检索：D&B（KENNEDY O’DONOVAN ELECTRONICS LIMITED；Doing Business As KD ELECTRONICS；Key Principal SEAN ANTHONY KENNEDY）+ kdelectronics.ie About / Meet the team / 欢迎手册 2024-11（KD ELECTRONICS LTD；Unit 4 Metro Business Park Ballycurreen Cork T12 HP60；Unit 19 Naas Road Business Park Dublin D12 W5H2；sales@ / salesdublin@；Dahua 主分销；Sean Jr Kennedy Director；Greg Clausen Dublin Branch Manager）+ LinkedIn（Since 1994；Stephen Carroll Commercial Director；Jiawei Sun BDM / Head of Sales）+ prospeo（21–50；Jiali Liu Business Analyst & Director Assistant）；CRO 号 1 次检索未命中，2026-10-28 查；https://www.kdelectronics.ie/menu/about_us.html）：**
+
+- 法定名 / 登记号：KENNEDY O’DONOVAN ELECTRONICS LIMITED（t/a KD Electronics / KD ELECTRONICS LTD；kdelectronics.ie；科克 Unit 4 Metro Business Park, Ballycurreen, Cork T12 HP60 + 都柏林 Unit 19 Naas Road Business Park, D12 W5H2）— 1994 年起面向安防 / 消防 / 网络 / AV 行业的贸易批发商（「Ireland’s premier and most rapidly expanding distributor of Dahua」= Dahua 主分销 + i-PRO、Ajax、TP-Link、Connectix）；Director Sean Kennedy（Sr./Jr.）、Commercial Director Stephen Carroll（前 Dahua UK & Ireland）、Head of Sales Jiawei Sun（华人）、Director Assistant Jiali Liu（华人）；21–50 人；CRO 号未取 → 部分坐实；群发 2 次打开 · CRO 未取（法人名 KENNEDY O’DONOVAN ELECTRONICS LIMITED） · 状态 **Active** · 成立 1994（活动） · Limited（Kennedy 家族）
+- 行业码 / 经营范围：安防 / 消防 / 网络 / AV 贸易批发（Dahua 主分销）
+- 注册地址：Unit 4 Metro Business Park, Ballycurreen, Cork T12 HP60（都柏林分部 D12 W5H2）
+- 规模档：中小（21–50 人）
+- 账目：—；—
+- 高管：Sean Kennedy — Director / 业主 = 拍板人
+- 高管：Stephen Carroll — Commercial Director（前 Dahua UK&I）= 收件人（sales@ 点名）
+- 高管：Jiawei Sun — Head of Sales / BDM（华人）；Jiali Liu — Director Assistant（华人）
+- 控制人 / 股东：Kennedy 家族
+- **这意味着什么：**
+  - **爱尔兰 Dahua 主分销商（两地仓、华人销售主管）→ 分销 20%，B BIG，加厚一次**：STC-028GP / STC-228GP / STC-2224GP / STC-424XGGPM-280W 一页纸 + 1:1 对照其在售 Dahua / TP-Link PoE 交换机价位；稿内不点名 Dahua / TP-Link；**UKCA 不适用（IE = CE）**
+  - 收件人 sales@ 点名 Stephen Carroll，抄 Sean Kennedy；华人同事 Jiawei Sun → 中文直联 Simon 定（默认否）；2 次打开无回复 → 二次触达换切口「a second PoE switch line beside your camera brand」；发信窗口 Thu 12–14 GMT
+- 备注：分销 20%；B BIG；加厚一次；部分坐实（法人名 D&B，CRO 号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -110,14 +126,19 @@ updated: 2026-10-28
 - **【用户表】VC PoE 工业 FS；大华 PoE**
   > VC POE 工业FS；大华POE
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Stephen Carroll（Commercial Director（LinkedIn；前 Dahua UK & Ireland）= 收件人（sales@kdelectronics.ie 点名）（第 108 批 官方登记核实 2026-10-28））sales@kdelectronics.ie 〔https://ie.linkedin.com/company/kd-electronics-ireland〕
+- **KP**：Sean Kennedy（Director / 业主（D&B Key Principal SEAN ANTHONY KENNEDY；Sean Jr 亦任 Director）= 拍板人（抄送）（第 108 批 官方登记核实 2026-10-28）） 〔https://www.kdelectronics.ie/meet-the-team.html〕
+- **KP**：Jiawei Sun（Head of Sales / BDM（LinkedIn；华人）— 中文直联 Simon 定（默认否）（第 108 批 官方登记核实 2026-10-28）） 〔https://ie.linkedin.com/company/kd-electronics-ireland〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | KENNEDY O’DONOVAN ELECTRONICS LIMITED（t/a KD Electronics / KD ELECTRONICS LTD；CRO 号未取 → 部分坐实） |
+| 成立 | 1994（活动）（第 108 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 爱尔兰 |
-| 其他 | 官网 kdelectronics.ie，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 kdelectronics.ie，语言 en，快照状态 ok；角色判定来源：官网文案；第 108 批：科克 + 都柏林两地仓的安防 / 消防 / 网络 / AV 贸易批发商（「Ireland’s premier Dahua distributor」+ i-PRO / Ajax / TP-Link；21–50 人）→ **分销 20%，B BIG，加厚一次；次候选升 A**；UKCA 不适用（IE = CE）（第 108 批 官方登记核实 2026-10-28） |
 
 - **业务线**：CCTV / 安防 / AV / 网络产品贸易供应
 - **触达通道（公开）**：role: 安防/网络贸易供应商（爱尔兰，Dahua 总分销）；region: 爱尔兰；contact: info@kdelectronics.ie、sales@kdelectronics.ie
@@ -157,13 +178,13 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **最近变化摘要**：2026-10-28 home：内容变化：+319 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1049/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.kdelectronics.ie/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 18511 字符；首行：KD Electronics Ireland - Trade Supplier of CCTV, Security Systems, Audio Visua |
+| [home](https://www.kdelectronics.ie/) | html | HTTP 200 | 2026-10-28T08:44:48Z | 18511 字符；首行：KD Electronics Ireland - Trade Supplier of CCTV, Security Systems, Audio Visua |
 | [youtube](https://www.youtube.com/@kdelectronics) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2025-07-25T08:52:02+00:00 Dahua AirShield \| Setting up DMSS & DoLynk Care App |
 
 - **人工定期看（登录墙，不自动抓）**：Instagram: https://www.instagram.com/kdelectronics.ie/；LinkedIn: https://www.linkedin.com/company/kd-electronics-ireland
@@ -180,7 +201,9 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@kdelectronics.ie / sales@kdelectronics.ie | 用户表原值 | Clients/ 表 |
+| Stephen Carroll | Commercial Director（LinkedIn；前 Dahua UK & Ireland）= 收件人（sales@kdelectronics.ie 点名）（第 108 批 官方登记核实 2026-10-28） | sales@kdelectronics.ie | 调研核实（公开页） | https://ie.linkedin.com/company/kd-electronics-ireland |
+| Sean Kennedy | Director / 业主（D&B Key Principal SEAN ANTHONY KENNEDY；Sean Jr 亦任 Director）= 拍板人（抄送）（第 108 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.kdelectronics.ie/meet-the-team.html |
+| Jiawei Sun | Head of Sales / BDM（LinkedIn；华人）— 中文直联 Simon 定（默认否）（第 108 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://ie.linkedin.com/company/kd-electronics-ireland |
 
 - **通道建议**：企业邮箱可直发
 

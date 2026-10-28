@@ -86,6 +86,20 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day; National Unity Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 108 批（IT · 1 次检索：ufficiocamerale（HARDWARE SOLUTIONS S.R.L.；P.IVA 02974270361；VIA GHIAROLA VECCHIA 32 41042 FIORANO MODENESE (MO)；Rea 347206；Data Iscrizione 22/02/2005；Fatturato € 8.090.684 2024；Dipendenti 10 2026；Utile € 1.396.504；ATECO 332003）+ companyreports（REA MO 347206）+ 官网 Contatti / Partner（Advantech Integrator Partner；distributore ufficiale APLEX）+ LinkedIn（2005；11–50），2026-10-28 查；https://www.ufficiocamerale.it/9547/hardware-solutions-srl）：**
+
+- 法定名 / 登记号：HARDWARE SOLUTIONS S.R.L.（hardwaresolutions.it / pc-industriali.it；摩德纳 Fiorano Modenese Via Ghiarola Vecchia 32, 41042；P.IVA 02974270361；REA MO-347206）— 2005-02-22 登记的工业 PC / HMI 集成分销商（Advantech Integrator Partner + Key account、APLEX 官方分销；Box PC、机架、工业平板、EN 50155 整机）；2024 营收 €8.09M、净利 €1.40M；10 人；表内「工业 FS 研华的」；群发 5 次打开 · P.IVA / CF 02974270361；REA MO-347206 · 状态 **Active** · 成立 2005-02-22 · S.r.l.（私有）
+- 行业码 / 经营范围：工业 PC / HMI / 嵌入式 集成分销（ATECO 33.20.03）
+- 注册地址：Via Ghiarola Vecchia 32, 41042 Fiorano Modenese (MO)
+- 规模档：小型（10 人；人均 €800k）
+- 账目：2024 营收 €8,090,684；净利 €1,396,504；—
+- 高管：（未具名）— 收件人 info@hardwaresolutions.it（点名 ufficio acquisti / responsabile networking）
+- 控制人 / 股东：创始合伙人（未取）
+- **这意味着什么：**
+  - **高毛利的工业 PC 集成分销商（研华渠道），工业交换机是其整机配套件 → 采购型 25% + 分销 20%，B，一页纸一次（STI-054GP / STI-144GP / STI-288DGGPM 配 IPC 机柜）；有回声再加厚**；稿内不点名 Advantech
+  - 收件人 info@ 点名 ufficio acquisti；5 次打开无回复 → 二次触达换切口「DIN-rail switches that ship with your IPC racks」；发信窗口 Thu 12–14 CET；意语一句引子
+- 备注：采购型 25% + 分销 20%；B；一页纸一次；坐实（P.IVA + REA + 营收）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -125,8 +139,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | HARDWARE SOLUTIONS S.R.L.（P.IVA 02974270361；REA MO-347206） |
+| 成立 | 2005-02-22（第 108 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 pc-industriali.it，语言 it，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 pc-industriali.it，语言 it，快照状态 ok；角色判定来源：官网文案；第 108 批：Fiorano Modenese 工业 PC / HMI 集成分销商（Advantech Integrator Partner、APLEX 分销）；2024 营收 €8.09M / 净利 €1.40M / 10 人 → **采购型 25% + 分销 20%，B，一页纸一次（STI 配 IPC 机柜）**（第 108 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业 PC 设计生产与分销
 - **触达通道（公开）**：role: 工业 PC 制造/分销商（意大利，Advantech 工业 FS）；region: 意大利；contact: info@hardwaresolutions.it
@@ -177,7 +193,7 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1063/`；本节随档案重渲染刷新，实时看日志。
 

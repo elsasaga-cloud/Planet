@@ -79,6 +79,20 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day; National Unity Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 108 批（IT · 1 次检索：ufficiocamerale（REWEB S.R.L.；P.IVA 02026760351；VIA FERRUCCIO FERRARI 6 42124 REGGIO NELL’EMILIA；Rea 244931；Data Iscrizione 07/12/2002；Fatturato € 2.614.110 2024；Dipendenti 10；Utile € 399.426；ATECO 46501）+ reweb.it 首页 / Contatti（Innovazione tecnologica dal 1983；cuse@reweb.it；0522 1712600）+ LinkedIn（1983；11–50；Value added distributor；SIM M2M；console server），2026-10-28 查；https://www.ufficiocamerale.it/9437/reweb-srl）：**
+
+- 法定名 / 登记号：REWEB S.R.L.（reweb.it；雷焦艾米利亚 Via Ferruccio Ferrari 6, 42124；P.IVA 02026760351；REA RE-244931）— 1983 年起、2002-12-07 现法人登记的 IT / IoT 增值分销商（M2M 多运营商 SIM、IoT 连接方案含蜂窝路由 / 天线 / 交换机、Advantech、Opengear 控制台服务器、数据中心）；2024 营收 €2.61M、净利 €399k；10 人；表内「工业 FS」；群发 2 次打开 · P.IVA / CF 02026760351；REA RE-244931 · 状态 **Active** · 成立 2002-12-07（活动 1983 起） · S.r.l.（私有）
+- 行业码 / 经营范围：IT / IoT 增值分销（M2M SIM、蜂窝路由、工控、控制台服务器）
+- 注册地址：Via Ferruccio Ferrari 6, 42124 Reggio Emilia
+- 规模档：小型（10 人）
+- 账目：2024 营收 €2,614,110；净利 €399,426；—
+- 高管：（未具名）— 收件人 cuse@reweb.it（点名 ufficio acquisti / product manager IoT）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **IoT 连接方案 VAD（路由 + 天线 + 交换机打包卖集成商）→ 分销 20%，B，一页纸一次（STI-054GP / STI-144GP / STI-154GP 配蜂窝路由柜）；有回声再加厚**；稿内不点名 Advantech
+  - 2 次打开无回复 → 二次触达换切口「a DIN-rail switch to bundle with your cellular routers」；发信窗口 Thu 12–14 CET；意语一句引子
+- 备注：分销 20%；B；一页纸一次；坐实（P.IVA + REA + 营收）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -119,8 +133,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | REWEB S.R.L.（P.IVA 02026760351；REA RE-244931） |
+| 成立 | 2002-12-07（活动 1983 起）（第 108 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 reweb.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 reweb.it，语言 it-IT，快照状态 ok；角色判定来源：官网文案；第 108 批：雷焦艾米利亚 IT / IoT 增值分销商（M2M SIM、蜂窝路由 + 天线 + 交换机打包、Advantech、Opengear）；2024 营收 €2.61M / 净利 €399k / 10 人 → **分销 20%，B，一页纸一次（STI 配蜂窝路由柜）**（第 108 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT / IoT 集成（M2M SIM、Advantech、Opengear）；工业交换机 / MC 分销（Perle）
 - **触达通道（公开）**：role: IT/IoT 集成商兼工业网络分销（意大利，Perle/Advantech 在售）；region: 意大利；contact: cuse@reweb.it、m.colli@reweb.it
@@ -160,7 +176,7 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-24T07:26:33Z
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-24T07:26:33Z
 - **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1069/`；本节随档案重渲染刷新，实时看日志。
 

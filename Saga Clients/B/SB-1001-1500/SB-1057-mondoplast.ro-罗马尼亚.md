@@ -78,6 +78,21 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 108 批（RO · 1 次检索：mondoplast.ro Contact（SC Mondo Plast SRL；Nr. Registru com. J2000000053116；CIF RO12755240；Capital Social 7.400.000 lei；Sediul Social BOCSA；Timisoara main office Industrial Park Artemis Sânandrei；Bucharest branch Bragadiru；timisoara@mondoplast.net）+ risco.ro（12755240；J2000000053116；Date of establishment February 22, 2000；CAEN 4650 / 4652）+ targetare（Locul 2 Companii din Caras-Severin CAEN 4652 2023–2024）+ gmdu（big warehouses Bucharest, Timisoara, Brasov & Gyal / Budapest；Contact Mr. Patru Ovidiu）+ hornbach GPSR 制造商信息（S.C. MONDO PLAST S.R.L. Str. Gloriei 11 Timișoara），2026-10-28 查；https://www.risco.ro/en/verifica-firma/mondo-plast-cui-12755240）：**
+
+- 法定名 / 登记号：SC MONDO PLAST SRL（mondoplast.ro / mondoplast.net；注册地 Bocșa (Caraș-Severin)；运营总部 Timișoara Str. Gloriei 11, 300562 + Industrial Park Artemis DN 69 km 10+510 Sânandrei；布加勒斯特分部 Bragadiru Șos. Alexandriei 72-74；仓 București / Timișoara / Brașov / Gyál (HU)；CUI RO12755240；J2000000053116）— 2000-02-22 成立的电信设备进口分销商（CATV 网络、视频监控、光缆、卫星接收、电台、UPS、天线、机柜、路由、交换机、MC；Hirschmann / Hikvision；供 Hornbach；CAEN 4650 / 4652；县 CAEN 4652 排名第 2）；股本 7,400,000 lei；联系人 Ovidiu Pătru；群发 2 次打开 · CUI RO12755240；J2000000053116（Bocșa） · 状态 **Active** · 成立 2000-02-22 · S.R.L.（私有；股本 7.4M lei）
+- 行业码 / 经营范围：电信 / CATV / 安防 / 光纤设备进口分销（罗马尼亚 + 匈牙利仓）
+- 注册地址：Str. Gloriei 11, 300562 Timișoara（注册地 Bocșa；布加勒斯特 Bragadiru）
+- 规模档：中型（4 仓；推定 50+）
+- 账目：—（县级 CAEN 4652 第 2）；—
+- 高管：Ovidiu Pătru — 商务联系人（gmdu 口径）= 收件人
+- 高管：（未具名）— administrator（拍板人未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **罗马尼亚 + 匈牙利 4 仓的电信设备进口商（已卖 Hirschmann 工业 + Hikvision 安防）→ 分销 20%，B BIG，加厚一次**：STC-028GP / STC-228GP / STC-2224GP / STC-424XGGPM-280W + STI-054GP / STI-144GP / STI-288DGGPM 一页纸 + 1:1 对照（工业档作 Hirschmann 第二价位）；稿内不点名
+  - 收件人 timisoara@mondoplast.net 点名 Ovidiu Pătru / departament achiziții；2 次打开无回复 → 二次触达换切口「a factory-direct switch line for your four warehouses」；发信窗口 Thu 12–14 EET；罗语一句引子
+- 备注：分销 20%；B BIG；加厚一次；坐实（CUI + J）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -111,14 +126,17 @@ updated: 2026-10-28
 - **【用户表】多外壳国产；switch MC WDM**
   > 比较多的外壳 有国内的 switch MC WDM等
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Ovidiu Pătru（商务联系人（gmdu 口径 Mr. Patru Ovidiu）= 收件人（timisoara@mondoplast.net 点名）（第 108 批 官方登记核实 2026-10-28））timisoara@mondoplast.net 〔https://www.gmdu.net/corp-738086.html〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | SC MONDO PLAST SRL（CUI RO12755240；J2000000053116；注册地 Bocșa） |
+| 成立 | 2000-02-22（第 108 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 罗马尼亚 |
-| 其他 | 官网 mondoplast.ro，语言 ro，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 mondoplast.ro，语言 ro，快照状态 ok；角色判定来源：官网文案；第 108 批：蒂米什瓦拉电信设备进口分销商（CATV / CCTV / 光缆 / 卫星 / 电台 / UPS / 交换机 / MC；Hirschmann + Hikvision；供 Hornbach；仓 București / Timișoara / Brașov / Gyál (HU)；股本 7.4M lei；县 CAEN 4652 第 2）→ **分销 20%，B BIG，加厚一次；次候选升 A**（第 108 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电信设备进口分销（光纤 / 线缆 / 无线 / 安防 / 网络）
 - **触达通道（公开）**：role: 电信设备进口分销商（罗马尼亚）；region: 罗马尼亚；contact: timisoara@mondoplast.net
@@ -156,13 +174,13 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
-- **最近变化摘要**：2026-10-27 home：内容变化：+153 −133 行
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **最近变化摘要**：2026-10-28 home：内容变化：+123 −144 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1057/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.mondoplast.ro/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 5466 字符；首行：Mondo Plast - Cabluri si echipamente pentru telecomunicatii |
+| [home](https://www.mondoplast.ro/) | html | HTTP 200 | 2026-10-28T08:44:48Z | 4949 字符；首行：Mondo Plast - Cabluri si echipamente pentru telecomunicatii |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/mondo.plast.srl
 
@@ -177,7 +195,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | timisoara@mondoplast.net | 用户表原值 | Clients/ 表 |
+| Ovidiu Pătru | 商务联系人（gmdu 口径 Mr. Patru Ovidiu）= 收件人（timisoara@mondoplast.net 点名）（第 108 批 官方登记核实 2026-10-28） | timisoara@mondoplast.net | 调研核实（公开页） | https://www.gmdu.net/corp-738086.html |
 
 - **通道建议**：企业邮箱可直发
 
@@ -212,7 +230,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：欧洲主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -229,7 +247,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ✅ |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |

@@ -166,12 +166,13 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-27T08:02:45Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **最近变化摘要**：2026-10-28 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1003/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://aplusnet.de/) | html | ConnectionError: HTTPSConnectionPool(host='aplusnet.de', por | - | 官网首页（T27 快照状态 unreachable） |
+| [home](https://aplusnet.de/) | html | HTTP 200 | 2026-10-28T08:44:48Z | 59614 字符；首行：Online Casinos mit schneller Auszahlung: Im Test 2026 |
 
 ## 联系方式（已有 · 原值照录）
 

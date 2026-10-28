@@ -180,15 +180,15 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
-- **最近变化摘要**：2026-10-27 news_2：内容变化：+3 −3 行
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **最近变化摘要**：2026-10-28 news_2：内容变化：+1 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1067/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.raytelsecurity.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6704 字符；首行：Access Control and Door Entry Systems and Associated Products - Elvox - Soyal - |
 | [news_1](https://www.raytelsecurity.com/latest-news.html) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6495 字符；首行：News \| Raytel Security Systems |
-| [news_2](https://www.raytelsecurity.com/kbase/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 6251 字符；首行：Support and Knowledge Base \| Raytel Security Systems |
+| [news_2](https://www.raytelsecurity.com/kbase/) | html | HTTP 200 | 2026-10-28T08:44:48Z | 6264 字符；首行：Support and Knowledge Base \| Raytel Security Systems |
 | [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCMuVfTlf9vwVjDSnnEXk-9w) | rss | HTTP 200 | 2026-10-24T07:26:33Z | 10 条；最新：2021-08-10T10:50:24+00:00 RS2 Touch Series Modular Door Entry System |
 | [feed_auto](https://www.raytelsecurity.com/blog/rss/index/store_id/1/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 17 条；最新：Tue, 06 Jan 2026 15:55:35 Keep it Lite with IP-Lite our scalable door entry system |
 

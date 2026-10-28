@@ -77,6 +77,21 @@ updated: 2026-10-28
 
 - 法定假日：10-31 All Saints' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 108 批（SE · 1 次检索：allabolag（Standard Audio Systems AB；Org.nr 556203-9726；Turbingatan 2 195 60 Arlandastad；Registreringsdatum 1979-01-01；Omsättning 2025 61 241 tkr；15 anställda；VD Karl Gustaf Michael Kahlau f 1963；Ordförande Anders Emanuel Arestav f 1953）+ hitta（Omsättning 2023–2025 63.1 / 64.5 / 61.2 MSEK；koncernmoder；Public Audio Systems Arlandastad AB）+ kreditrapporten（Registreringsdatum 1980-02-25；Aktiekapital 1 000 000 SEK；至少 1 次 betalningsanmärkning）+ ratsit（Aktiv；−5,0 %），2026-10-28 查；https://www.allabolag.se/foretag/standard-audio-systems-ab/arlandastad/radio-tv-programbolag/2JZHTBII5YH40）：**
+
+- 法定名 / 登记号：Standard Audio Systems AB（standardaudio.se；阿兰达 Arlandastad Turbingatan 2, 195 60（Sigtuna 市）；org.nr 556203-9726；VAT SE556203972601）— 1979 年起（Bolagsverket 1980-02-25）的 AV 技术系统分销商（专业音频 Electro-Voice / Dynacord、EN 54 语音疏散、控制系统、门口机；面向安装商）；VD Karl Gustaf Michael Kahlau（1963 年生）；董事长 Anders Arestav；15 人；2025 营收 SEK 61.2M（−5%）；股本 SEK 1M；子公司 Public Audio Systems Arlandastad AB；群发 2 次打开 · Org.nr 556203-9726 · 状态 **Aktiv** · 成立 1980-02-25（活动 1979） · Aktiebolag（私有；集团母公司）
+- 行业码 / 经营范围：专业音频 / 语音疏散 / AV 控制 系统分销（安装商渠道）
+- 注册地址：Turbingatan 2, 195 60 Arlandastad
+- 规模档：小型（15 人）
+- 账目：2025 营收 SEK 61,241k；—
+- 高管：Karl Gustaf Michael Kahlau — VD = 拍板人 / 收件人（info@ 点名）
+- 高管：Anders Arestav — Styrelseordförande
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **AV 系统分销商（Dante / AV-over-IP 机柜要 PoE 管理型交换机）→ 分销 20%，B，一页纸一次（STC-228GP / STC-2224GP / STC-424XGGPM-280W：IGMP / QoS 管理型，配 AV 机柜）；有回声再加厚**
+  - 收件人 info@ 点名 Michael Kahlau；2 次打开无回复 → 二次触达换切口「managed PoE switches for AV racks」；发信窗口 Thu 12–14 CET；瑞典语一句引子；稿内不点名 EV / Dynacord
+- 备注：分销 20%；B；一页纸一次；坐实（org.nr + 财务）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -110,14 +125,17 @@ updated: 2026-10-28
 - **【用户表】VC switch**
   > VC switch
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Karl Gustaf Michael Kahlau（VD（allabolag；1963 年生）= 拍板人 / 收件人（info@standardaudio.se 点名 Michael Kahlau）（第 108 批 官方登记核实 2026-10-28））info@standardaudio.se 〔https://www.allabolag.se/foretag/standard-audio-systems-ab/arlandastad/radio-tv-programbolag/2JZHTBII5YH40〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Standard Audio Systems AB（org.nr 556203-9726；VAT SE556203972601） |
+| 成立 | 1980-02-25（活动 1979）（第 108 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 瑞典 |
-| 其他 | 官网 standardaudio.se，语言 sv，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 standardaudio.se，语言 sv，快照状态 ok；角色判定来源：官网文案；第 108 批：Arlandastad 专业音频 / 语音疏散 / AV 控制分销商（EV / Dynacord；15 人；2025 营收 SEK 61.2M；股本 SEK 1M；子公司 Public Audio Systems）→ **分销 20%，B，一页纸一次（管理型 PoE 配 AV 机柜）**（第 108 批 官方登记核实 2026-10-28） |
 
 - **业务线**：AV 技术 / 专业音频 / 语音疏散 / 控制系统分销
 - **触达通道（公开）**：role: AV/专业音频系统分销商（瑞典）；region: 瑞典；contact: info@standardaudio.se
@@ -154,7 +172,7 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-27T08:02:45Z
 - **最近变化摘要**：2026-10-27 home：内容变化：+376 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1082/`；本节随档案重渲染刷新，实时看日志。
 
@@ -172,7 +190,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@standardaudio.se | 用户表原值 | Clients/ 表 |
+| Karl Gustaf Michael Kahlau | VD（allabolag；1963 年生）= 拍板人 / 收件人（info@standardaudio.se 点名 Michael Kahlau）（第 108 批 官方登记核实 2026-10-28） | info@standardaudio.se | 调研核实（公开页） | https://www.allabolag.se/foretag/standard-audio-systems-ab/arlandastad/radio-tv-programbolag/2JZHTBII5YH40 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -207,7 +225,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：欧洲主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -224,7 +242,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ✅ |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |

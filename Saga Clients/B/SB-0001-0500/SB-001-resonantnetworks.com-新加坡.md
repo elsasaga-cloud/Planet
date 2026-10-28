@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -319,14 +319,14 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：6 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
-- **最近变化摘要**：2026-10-27 github_committer：新增 2 条：2026-10-27T07:57:11 rina-zpe（）；2026-10-27T00:35:51 PublicEvent Resonant-Networks/ai
+- **监控层**：成单精选层　|　**自动源**：6 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **最近变化摘要**：2026-10-28 github_committer：新增 3 条：2026-10-27T10:49:30 rina-zpe（）；2026-10-27T07:57:12 CreateEvent Resonant-Networks/ri
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-001/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [github_org](https://github.com/Resonant-Networks) | github | HTTP 200 | 2026-10-27T08:02:45Z | Organization Resonant-Networks · 仓库 7 · 最近推送 2026-10-27T00:55:51Z |
-| [github_committer](https://github.com/acestraxionweb) | github | HTTP 200 | 2026-10-27T08:02:45Z | User acestraxionweb · 仓库 2 · 最近推送 2026-10-27T07:57:11Z |
+| [github_org](https://github.com/Resonant-Networks) | github | HTTP 200 | 2026-10-28T08:44:48Z | Organization Resonant-Networks · 仓库 8 · 最近推送 2026-10-27T10:49:30Z |
+| [github_committer](https://github.com/acestraxionweb) | github | HTTP 200 | 2026-10-28T08:44:48Z | User acestraxionweb · 仓库 1 · 最近推送 2026-10-27T10:49:30Z |
 | [site_feed](https://resonantnetworks.com/feed/) | rss | HTTP 200 | 2026-10-23T02:54:23Z | 10 条；最新：Fri, 28 Mar 2025 08:41:21 Homepage Banner Slide 4 |
 | [home](https://resonantnetworks.com/) | html | HTTP 200 | 2026-10-23T02:54:23Z | 6076 字符；首行：Resonant Networks \| We Build the Earth's Digital Connectivity |
 | [auto_sitemap](https://resonantnetworks.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 8 个 URL；最新 lastmod - |
@@ -448,12 +448,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 130）；人工/调研定级 → B
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 130）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

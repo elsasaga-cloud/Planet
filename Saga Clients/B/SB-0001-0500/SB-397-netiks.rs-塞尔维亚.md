@@ -77,6 +77,20 @@ updated: 2026-10-28
 
 - 法定假日：11-11 Armistice Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 108 批（RS · 1 次检索：companywall.rs（PRIVREDNO DRUŠTVO NETIKS DOO BEOGRAD (ZVEZDARA)；Bulevar Kralja Aleksandra 193 11050 Beograd；Aktivan；PIB 101720299；MB 17326163；Datum osnivanja 24.7.2001；2620）+ netiks.ls.rs / kompanije.net（Zakonski zastupnik Pavle Pulek - Direktor）+ EMIS（established July 24, 2001；44 (2025) employees）+ netiks.rs Kontakt（Bregalnička 9a；info@netiks.rs；+381 11 340-96-96 30 linija）+ privredni-imenik（PIB / MB 同），2026-10-28 查；https://www.companywall.rs/firma/netiks-doo-beograd/MMouX76q）：**
+
+- 法定名 / 登记号：NETIKS DOO BEOGRAD（netiks.rs；贝尔格莱德 Zvezdara Bulevar Kralja Aleksandra 193（门店 Bregalnička 9a）；матични број 17326163；ПИБ 101720299）— 2001-07-24 登记的网络 / 通信设备 B2B 商店 + 工程（光纤配件 361、**自有「NT」光模块品牌 SFP/SFP+/XFP/QSFP+/GPON**、TP-Link Omada、MikroTik、Grandstream、PoE 设备；шифра 2620）；董事 Pavle Pulek；44 人（2025）；表内「有 DCN 的」；群发 5 次打开 · Матични број 17326163；ПИБ 101720299 · 状态 **Aktivan** · 成立 2001-07-24 · d.o.o.（私有）
+- 行业码 / 经营范围：网络 / 通信设备 B2B 销售 + 网络工程（自有 NT 光模块标；шифра 2620）
+- 注册地址：Bulevar Kralja Aleksandra 193, 11050 Beograd（门店 Bregalnička 9a）
+- 规模档：中小（44 人）
+- 账目：—；—
+- 高管：Pavle Pulek — Direktor（法定代表）= 拍板人 / 收件人（info@netiks.rs 点名）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **44 人、已经自贴 NT 标光模块的网络设备商 → 贴标 OEM 30% 可谈（NT 标 PoE / L2 交换机）+ 分销 20%，B BIG，加厚一次**：STC-028GP / STC-228GP / STC-2224GP / STC-424XGGPM-280W 一页纸 + 1:1 对照其在售 TP-Link / MikroTik 价位；稿内不点名 DCN / TP-Link
+  - 收件人 info@ 点名 Pavle Pulek；5 次打开无回复 → 二次触达换切口「switches under your NT label, same as your optics」；发信窗口 Thu 12–14 CET；塞语一句引子
+- 备注：贴标 30% 可谈 + 分销 20%；B BIG；加厚一次；坐实（МБ + ПИБ）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -120,14 +134,17 @@ updated: 2026-10-28
 - **【用户表】有 DCN 的**
   > 有DCN的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Pavle Pulek（Direktor / 法定代表（companywall.rs / netiks.ls.rs）= 拍板人 / 收件人（info@netiks.rs 点名）（第 108 批 官方登记核实 2026-10-28））info@netiks.rs 〔https://www.companywall.rs/firma/netiks-doo-beograd/MMouX76q〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | NETIKS DOO BEOGRAD（PRIVREDNO DRUŠTVO NETIKS DOO BEOGRAD (ZVEZDARA)；МБ 17326163；ПИБ 101720299） |
+| 成立 | 2001-07-24（第 108 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 塞尔维亚 |
-| 其他 | 官网 netiks.rs，语言 sr-yu，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 netiks.rs，语言 sr-yu，快照状态 ok；角色判定来源：官网文案；第 108 批：贝尔格莱德网络设备 B2B 商店 + 工程，44 人（2025），**自有「NT」光模块品牌** → **贴标 OEM 30% 可谈（NT 标 PoE / L2 交换机）+ 分销 20%，B BIG，加厚一次；次候选升 A**（第 108 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络与通信产品商店（光模块自有标）
 - **触达通道（公开）**：role: 网络产品商店（塞尔维亚，自有标光模块）；region: 塞尔维亚；contact: info@netiks.rs、netiks@gmail.com
@@ -182,13 +199,13 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
-- **最近变化摘要**：2026-10-27 home：内容变化：+55 −4 行
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **最近变化摘要**：2026-10-28 home：内容变化：+58 −7 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-397/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](http://www.netiks.rs/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 21717 字符；首行：Netiks |
+| [home](http://www.netiks.rs/) | html | HTTP 200 | 2026-10-28T08:44:48Z | 21717 字符；首行：Netiks |
 | [sitemap](http://www.netiks.rs/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 55 个 URL；最新 lastmod 2011-03-03 |
 | [feed_auto](http://www.netiks.rs/feed/rss) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Fri, 08 Jan 2021 11:36:45 MikroTik Gigabit outdoor PtP / PtMP wireless 802.11ay/ad |
 
@@ -203,7 +220,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@netiks.rs / netiks@gmail.com | 用户表原值 | Clients/ 表 |
+| Pavle Pulek | Direktor / 法定代表（companywall.rs / netiks.ls.rs）= 拍板人 / 收件人（info@netiks.rs 点名）（第 108 批 官方登记核实 2026-10-28） | info@netiks.rs | 调研核实（公开页） | https://www.companywall.rs/firma/netiks-doo-beograd/MMouX76q |
 
 - **通道建议**：企业邮箱可直发
 
@@ -239,7 +256,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：欧洲主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -256,7 +273,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ❓ 表内兴趣不含交换机关键词 |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
@@ -272,7 +289,7 @@ updated: 2026-10-28
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Pavle,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Next to the DCN and TP-Link switches in your shop, we supply a neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switch (pairs with your own NT SFP modules) from small lots, CE/RoHS — would a budget L2+ PoE model fit your range?
 

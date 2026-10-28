@@ -78,6 +78,20 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 108 批（RO · 1 次检索：icpdas.ro 首页 / About us（Company name CHT DATA SRL；VAT ID RO 32791574；Registry of Commerce J40/8808/2020；Str. Av. Popișteanu nr. 54A Expo Business Park Clădirea 2 Etaj 2 București；0756 427 327；office@icpdas.ro）+ icpdas.com Distributors（Instruments CHT SRL, Aleea Biruintei 134A Ploiesti；+40 756 427 327；office@icpdas.ro；www.icpdas.ro），2026-10-28 查；https://icpdas.ro/en/content/6-about-us）：**
+
+- 法定名 / 登记号：CHT DATA SRL（icpdas.ro「ICP DAS Romania」网店；布加勒斯特 Str. Av. Popișteanu nr. 54A, Expo Business Park, Clădirea 2, Etaj 2；CUI RO 32791574；J40/8808/2020；前身 / 关联 Instruments CHT SRL Ploiești = ICP DAS 官方列名经销商）— 工业自动化 / 数据采集 / 通信网店（ICP DAS I/O、串口 / 介质转换器、工业交换机、Axiomtek 工控机）；office@icpdas.ro；群发 2 次打开 · CUI RO 32791574；J40/8808/2020 · 状态 **Active** · 成立 2014（CUI 3279… 口径）/ J40 2020 迁册 · S.R.L.（私有；小微）
+- 行业码 / 经营范围：工业自动化 / 数据采集 / 工业通信 网店（ICP DAS + Axiomtek）
+- 注册地址：Str. Av. Popișteanu 54A, Expo Business Park, Clădirea 2, Et. 2, București
+- 规模档：小微
+- 账目：—；—
+- 高管：（未具名）— 收件人 office@icpdas.ro（点名 responsabil vânzări）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **台系 I/O 品牌的罗马尼亚网店（该品牌自带工业交换机线）→ 分销 20% small，一页纸一次（STI-054GP / STI-144GP / STI-288DGGPM 作「第二价位」）；有回声再加厚**；稿内不点名 ICP DAS
+  - 2 次打开无回复 → 二次触达换切口「a value industrial switch line beside your I/O brand」；发信窗口 Thu 12–14 EET；罗语一句引子
+- 备注：分销 20% small；一页纸一次；坐实（CUI + J40）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -111,9 +125,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | （待核，ICP DAS 罗马尼亚分销） |
+| 法定名称 | CHT DATA SRL（CUI RO 32791574；J40/8808/2020；关联 Instruments CHT SRL Ploiești = ICP DAS 官方列名经销商） |
+| 成立 | ≈2014；J40 2020 迁册（第 108 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Romania |
-| 其他 | 小国名单 |
+| 其他 | 小国名单；第 108 批：布加勒斯特 ICP DAS 网店 + Axiomtek 工控（office@icpdas.ro）→ **分销 20% small，一页纸一次（STI 作第二价位；不点名 ICP DAS）**（第 108 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业自动化 / 通信网店
 - **触达通道（公开）**：role: 工业分销网店；region: 罗马尼亚（小国）
@@ -149,7 +164,7 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1040/`；本节随档案重渲染刷新，实时看日志。
 

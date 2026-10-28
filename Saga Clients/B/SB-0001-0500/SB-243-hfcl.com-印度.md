@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -230,14 +230,14 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
-- **最近变化摘要**：2026-10-27 sitemap：新增 528 条：2026-04-17T11:57:33 5g-catalyzing-extended-realities；2026-04-17T11:57:33 5g-for-e
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **最近变化摘要**：2026-10-28 sitemap：新增 528 条：2026-08-21T18:47:11 defence-solutions；2026-04-17T11:57:33 5g-catalyzing-extended-
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-243/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.hfcl.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 8189 字符；首行：HFCL - Leading Provider of Telecom and Networking Solutions |
-| [sitemap](https://www.hfcl.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-27T08:02:45Z | 608 个 URL；最新 lastmod 2026-10-24T12:18:44 |
+| [home](https://www.hfcl.com/) | html | HTTP 200 | 2026-10-28T08:44:48Z | 8155 字符；首行：HFCL - Leading Provider of Telecom and Networking Solutions |
+| [sitemap](https://www.hfcl.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-28T08:44:48Z | 608 个 URL；最新 lastmod 2026-10-24T12:18:44 |
 | [news_1](https://www.hfcl.com/insights/news) | html | HTTP 200 | 2026-10-23T04:20:51Z | 19360 字符；首行：HFCL News - Latest Announcements & Industry Updates |
 | [news_2](https://www.hfcl.com/insights) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7357 字符；首行：Insights \| HFCL - Innovating Digital Networks for a Sustainable Future |
 | [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UC7DsrJOOuofW4mfsJf6oEBA) | rss | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-10-16T09:29:00+00:00 How Fire Safety is Reshaping Fiber Design |
@@ -351,12 +351,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 49）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 49）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -79,6 +79,20 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day; National Unity Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 108 批（IT · 1 次检索：sielcosistemi.com Company（SIELCO SISTEMI srl；Via Roma 24 22070 Guanzate (CO)；P.IVA IT02854460132；Winlog / PClog / IOlog）+ fatturatoitalia（REA CO-282515；sede legale Via Regina 24 Fino Mornasco；ATECO 62.01；Fondazione 2004）+ registroaziende（Data di costituzione 07 Dicembre 2004；Dipendenti 0–9）+ reteimprese（Via Roma 24 Guanzate；+39 031899671）+ LinkedIn（2–10；2005）+ modbus.org 会员页，2026-10-28 查；https://www.sielcosistemi.com/en/company）：**
+
+- 法定名 / 登记号：SIELCO SISTEMI S.r.l.（sielcosistemi.com / scada-hmi.it；科莫 法定 Via Regina 24, 22073 Fino Mornasco (CO)；运营 Via Roma 24, 22070 Guanzate (CO)；P.IVA 02854460132；REA CO-282515）— 2004-12-07 成立的工业自动化软硬件厂商（Winlog SCADA/HMI 软件、IOlog Modbus I/O 模块与网关、PClog 无风扇面板 PC；网店兼售工业交换机 / 工业电源；面向系统集成商与方案商，全球）；2–10 人；Modbus 组织成员；群发 2 次打开 · P.IVA / CF 02854460132；REA CO-282515 · 状态 **Active** · 成立 2004-12-07 · S.r.l.（私有；小微）
+- 行业码 / 经营范围：工业自动化软硬件（SCADA/HMI、Modbus I/O、面板 PC）+ 网店
+- 注册地址：Via Regina 24, 22073 Fino Mornasco (CO)（运营 Guanzate）
+- 规模档：小微（2–10 人）
+- 账目：—；—
+- 高管：（未具名）— 收件人 info@sielcosistemi.com（点名 product manager hardware）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **有自有硬件品牌（IOlog / PClog）且网店在卖工业交换机的 SCADA 厂商 → 贴标可谈 small（Sielco 标 DIN 交换机配 IOlog）+ 分销 20%，B，一页纸一次（STI-054GP / STI-144GP / STI-154GP）；有回声再加厚**
+  - 2 次打开无回复 → 二次触达换切口「a DIN-rail switch under your IOlog family」；发信窗口 Thu 12–14 CET；意语一句引子
+- 备注：贴标可谈 small + 分销 20%；B；一页纸一次；坐实（P.IVA + REA）。
+
 **官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
 
 - €88 ← 「0 Add to Cart Add to Wish List Add to Compare Opal8 8 Port Entry Level Unmanaged Din-Rail Switch €88」（https://scada-hmi.it/）
@@ -124,8 +138,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | SIELCO SISTEMI S.r.l.（P.IVA 02854460132；REA CO-282515） |
+| 成立 | 2004-12-07（第 108 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 scada-hmi.it，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 scada-hmi.it，语言 en，快照状态 ok；角色判定来源：官网文案；第 108 批：科莫 Guanzate 工业自动化软硬件厂商（Winlog SCADA、IOlog Modbus I/O、PClog 面板 PC；网店兼售工业交换机；2–10 人）→ **贴标可谈 small（Sielco 标 DIN 交换机）+ 分销 20%，B，一页纸一次**（第 108 批 官方登记核实 2026-10-28） |
 
 - **业务线**：Modbus I/O 模块 / SCADA-HMI 软件制造；工业配件网店（交换机 / 电源 / 路由）
 - **触达通道（公开）**：role: 工业 I/O 与 SCADA 软件制造商兼网店（意大利）；region: 意大利；contact: info@sielcosistemi.com
@@ -162,7 +178,7 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1071/`；本节随档案重渲染刷新，实时看日志。
 

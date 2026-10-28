@@ -196,15 +196,15 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
-- **最近变化摘要**：2026-10-27 news_1：内容变化：+6 −1 行
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **最近变化摘要**：2026-10-28 news_1：内容变化：+9 −8 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1054/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.luxritesecurity.com/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 7784 字符；首行：Luxrite Ltd - Trade CCTV Distributor |
-| [sitemap](https://www.luxritesecurity.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-27T08:02:45Z | 900 个 URL；最新 lastmod 2026-10-26T17:18:00 |
-| [news_1](https://www.luxritesecurity.com/blog/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 9701 字符；首行：News |
+| [sitemap](https://www.luxritesecurity.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-28T08:44:48Z | 900 个 URL；最新 lastmod 2026-10-27T17:39:00 |
+| [news_1](https://www.luxritesecurity.com/blog/) | html | HTTP 200 | 2026-10-28T08:44:48Z | 10012 字符；首行：News |
 | [youtube](https://www.youtube.com/@luxrite1) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-07-29T15:46:02+00:00 📲 How to Add a CCTV Recorder to DMSS App (Quick & Easy)  |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/LuxriteLtd/；Instagram: https://www.instagram.com/luxriteltd；LinkedIn: https://www.linkedin.com/company/luxrite

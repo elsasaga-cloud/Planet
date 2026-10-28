@@ -77,6 +77,22 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-11 Armistice Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 108 批（FR · 1 次检索：societe.com（ADALTRA；SIREN 320 921 364；SIRET 00339；TVA FR13320921364；création 28/12/1989；NAF 4669A；14 MAIL DU COMMANDANT COUSTEAU 91300 MASSY siège depuis 1/12/2025；Président ADALTRA GROUP 498664010）+ lefigaro（CAE - DATA SAS capital 2 727 360 €；RCS EVRY；更名 ADALTRA 决议 26/11/2025 生效 01/12/2025）+ CCI Essonne 2025-09-30（Bruno Poisson président；40 ans；10 gammes；4 500 articles；entrepôt 23 000 m² Villabé；doubler l’export）+ adaltra.com 新闻稿 2025-09（marques MMC, S2CEB, Axindus, Casanova），2026-10-28 查；https://www.societe.com/societe/adaltra-320921364.html）：**
+
+- 法定名 / 登记号：ADALTRA（原 CAE Groupe / CAE - DATA；adaltra.com / cae-groupe.fr；马西 Massy 14 Mail du Commandant Cousteau, 91300（2025-12-01 起；前 Wissous Air Park de Paris）；SIREN 320 921 364 RCS Évry；TVA FR13320921364）— 1989-12-28 登记、近 40 年的线缆与连接方案设计分销商（自有品牌 MMC / S2CEB / Axindus / Casanova；10 大产品线、4,500 SKU、Villabé 23,000 m² 仓；14 个市场；数据网络线 switch / ethernet / fibre）；SAS 股本 €2,727,360；Président = ADALTRA GROUP（498 664 010），集团总裁 Bruno Poisson；2025-09 更名；群发 2 次打开 · SIREN 320 921 364；TVA FR13320921364 · 状态 **Active** · 成立 1989-12-28 · SAS（ADALTRA GROUP 控股；股本 €2,727,360）
+- 行业码 / 经营范围：线缆 / 连接 / 数据网络产品设计分销（自有品牌 MMC / S2CEB / Axindus / Casanova）
+- 注册地址：14 Mail du Commandant Cousteau, 91300 Massy
+- 规模档：中型（多品牌集团；仓 23,000 m²）
+- 账目：—（集团级未取）；—
+- 高管：Bruno Poisson — Président du groupe ADALTRA = 拍板层
+- 高管：（未具名）— direction achats / chef de produit réseau = 收件人（研究档联系人为 Gmail，不用）
+- 控制人 / 股东：ADALTRA GROUP（498 664 010）
+- 曾用名：CAE GROUPE / CAE - DATA（→ ADALTRA 2025-12-01）
+- **这意味着什么：**
+  - **多自有品牌的法国线缆 / 网络分销集团（MMC 等标下已有网络产品）→ 贴标 OEM 30% 正中目标 + 分销 20%，B BIG，加厚一次**：STC-028GP / STC-228GP / STC-2224GP / STC-424XGGPM-280W + STI-054GP / STI-144GP 一页纸 + 「under your MMC label」切口；只报 OEM 档
+  - 收件人 contact@adaltra.fr 点名 direction achats / chef de produit réseaux；2 次打开无回复 → 二次触达换切口「a second OEM source for your house-brand switches」；发信窗口 Thu 12–14 CET；法语一句引子；更名后旧域名 cae-groupe.fr 邮箱可能失效 → 改用 adaltra.fr
+- 备注：贴标 30% 目标 + 分销 20%；B BIG；加厚一次；坐实（SIREN + 更名公告）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -109,14 +125,17 @@ updated: 2026-10-28
 - **【用户表】cable switch 周边产品**
   > cable switch 周边产品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Bruno Poisson（Président du groupe ADALTRA（CCI Essonne 2025-09）= 拍板层（不直发；收件人 = direction achats via contact@adaltra.fr）（第 108 批 官方登记核实 2026-10-28））contact@adaltra.fr 〔https://www.essonne.cci.fr/actualites/adaltra-un-nouveau-nom-pour-cae-groupe-et-de-fortes-ambitions-linternational〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | ADALTRA（原 CAE GROUPE / CAE - DATA；SIREN 320 921 364 RCS Évry；TVA FR13320921364；Président = ADALTRA GROUP 498 664 010） |
+| 成立 | 1989-12-28（第 108 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 法国 |
-| 其他 | 官网 cae-groupe.com，语言 fr，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 cae-groupe.com，语言 fr，快照状态 ok；角色判定来源：官网文案；第 108 批：Massy（2025-12 起）线缆与连接方案设计分销集团（自有品牌 MMC / S2CEB / Axindus / Casanova；4,500 SKU；Villabé 23,000 m² 仓；SAS 股本 €2,727,360；2025-09 更名）→ **贴标 OEM 30% 正中目标 + 分销 20%，B BIG，加厚一次；升 A 候选（回信即 A）**；旧域名 cae-groupe.fr 邮箱或失效 → 用 adaltra.fr（第 108 批 官方登记核实 2026-10-28） |
 
 - **业务线**：线缆与连接方案设计分销（数据网络 / 工业 / 楼宇）
 - **触达通道（公开）**：role: 线缆与连接方案分销商（法国，数据网络线含交换机）；region: 法国；contact: contact@cae-groupe.fr
@@ -152,7 +171,7 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-24T07:26:33Z
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-24T07:26:33Z
 - **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1016/`；本节随档案重渲染刷新，实时看日志。
 
@@ -176,7 +195,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | contact@cae-groupe.fr | 用户表原值 | Clients/ 表 |
+| Bruno Poisson | Président du groupe ADALTRA（CCI Essonne 2025-09）= 拍板层（不直发；收件人 = direction achats via contact@adaltra.fr）（第 108 批 官方登记核实 2026-10-28） | contact@adaltra.fr | 调研核实（公开页） | https://www.essonne.cci.fr/actualites/adaltra-un-nouveau-nom-pour-cae-groupe-et-de-fortes-ambitions-linternational |
 
 - **通道建议**：企业邮箱可直发
 
@@ -211,7 +230,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：欧洲主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -228,7 +247,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ✅ |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |

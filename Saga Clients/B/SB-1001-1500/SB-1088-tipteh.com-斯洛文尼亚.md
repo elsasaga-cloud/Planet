@@ -79,6 +79,21 @@ updated: 2026-10-28
 
 - 法定假日：10-31 Reformation Day；11-01 Day of Remembrance for the Dead —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 108 批（SI · 1 次检索：bizi.si（TIPTEH d.o.o., zastopanje in distribucija；Ulica Ivana Roba 23 Ljubljana；Davčna SI53509382；Matična 5935652000；Datum vpisa 15. 3. 1996；info@tipteh.si）+ ebonitete（direktor Damijan Jager；G46.190）+ companywall.si（Aktivna；15.03.1996；direktor Jager Damijan）+ sloexport（30 employees；Medium-sized；Income 9.416.401 €；Total equity 7.760.498 €；Tradition since 1996）+ b2b.tipteh.com（30+ manufacturers；60+ workers；subsidiaries SI / HR / BA / RS / MK）+ tipteh.com 30 周年（140+ zaposlenimi），2026-10-28 查；https://www.bizi.si/TIPTEH-D-O-O/）：**
+
+- 法定名 / 登记号：TIPTEH d.o.o., zastopanje in distribucija（tipteh.si / tipteh.com；卢布尔雅那 Ulica Ivana Roba 23, 1000；matična 5935652000；DŠ SI53509382）— 1996-03-15 登记的工业自动化分销集团（代理 30+ 制造商：Hirschmann 工业交换机 / Secomea / Axiomtek / Robox 等；子公司 SI / HR / BA / RS / MK，集团 140+ 人；斯洛文尼亚本体 30 人、营收 €9.42M、权益 €7.76M）；直通 Damijan Jager；表内「工业 FS 很多牌子」；群发 5 次打开 · Matična številka 5935652000；DŠ SI53509382 · 状态 **Aktivna** · 成立 1996-03-15 · d.o.o.（私有；东南欧 5 国子公司）
+- 行业码 / 经营范围：工业自动化元件 / 系统分销（代理 30+ 品牌；含工业以太网）
+- 注册地址：Ulica Ivana Roba 23, 1000 Ljubljana
+- 规模档：中型（SI 30 人；集团 140+）
+- 账目：营收 €9,416,401；权益 €7,760,498（sloexport）；—
+- 高管：Damijan Jager — Direktor = 拍板人 / 收件人（info@tipteh.si 点名）
+- 高管：工业计算机与以太网技术支持部（TIS 专线）— 技术接口
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **东南欧 5 国的工业自动化分销集团，工业交换机现卖 Hirschmann（高价）→ STI 做「第二价位」：分销 20%，B BIG，加厚一次**：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-0240GE 一页纸 + 1:1 对照 Hirschmann SPIDER / GREYHOUND 口数；稿内不点名 Hirschmann
+  - 收件人 info@ 点名 Damijan Jager，并点「工业以太网技术支持」部门；5 次打开无回复 → 二次触达换切口「a value industrial line for the Balkans subsidiaries」；发信窗口 Thu 12–14 CET；斯语一句引子
+- 备注：分销 20%；B BIG；加厚一次；坐实（matična + 财务）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -112,14 +127,17 @@ updated: 2026-10-28
 - **【用户表】工业 FS 多品牌、多国办事处**
   > 工业FS 好几个牌子的；很多欧洲国家办事处
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Damijan Jager（Direktor（bizi.si / ebonitete / companywall.si）= 拍板人 / 收件人（info@tipteh.si 点名）（第 108 批 官方登记核实 2026-10-28））info@tipteh.si 〔https://www.bizi.si/TIPTEH-D-O-O/〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | TIPTEH d.o.o., zastopanje in distribucija（matična 5935652000；DŠ SI53509382） |
+| 成立 | 1996-03-15（第 108 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 欧洲（国别未填） |
-| 其他 | 官网 tipteh.com，语言 en-GB，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 tipteh.com，语言 en-GB，快照状态 ok；角色判定来源：官网文案；第 108 批：卢布尔雅那工业自动化分销集团（30+ 品牌含 Hirschmann 工业交换机；子公司 SI / HR / BA / RS / MK，集团 140+ 人；SI 本体 30 人、营收 €9.42M、权益 €7.76M）→ **分销 20%，B BIG，加厚一次（STI 作 Hirschmann 第二价位）；升 A 候选（回信即 A）**（第 108 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业自动化分销（传感 / 驱动 / 工业 PC / 工业网络）；ATEX 防爆设备；远程访问（Secomea）
 
@@ -177,7 +195,7 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-26T07:56:19Z
 - **最近变化摘要**：2026-10-26 news_1：内容变化：+2 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1088/`；本节随档案重渲染刷新，实时看日志。
 
@@ -202,7 +220,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@tipteh.com | 用户表原值 | Clients/ 表 |
+| Damijan Jager | Direktor（bizi.si / ebonitete / companywall.si）= 拍板人 / 收件人（info@tipteh.si 点名）（第 108 批 官方登记核实 2026-10-28） | info@tipteh.si | 调研核实（公开页） | https://www.bizi.si/TIPTEH-D-O-O/ |
 
 - **通道建议**：企业邮箱可直发
 
@@ -270,7 +288,7 @@ updated: 2026-10-28
 **主题**：STI-288GPM - industrial DIN-rail L2 managed switch (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Damijan,
 
 Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 13 August 2026 - and there was no reason to answer a mass mail. This one is specific. For the automation sites where a Hirschmann-class switch is over-specified, we supply DIN-rail 8-port managed (Marvell L2+) and unmanaged industrial switches (2 SFP, −40~75 °C, neutral packing) from small lots — which of your country offices would run a first bench test?
 

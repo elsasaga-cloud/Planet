@@ -76,6 +76,20 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-11 Armistice Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 108 批（FR/HK · 2 次检索（首轮「High’Trade SAS SIREN」仅命中 HEIGHT TRADE FRANCE 909350159 / HIGH TRADE 419963970 等同名异主 ≠；次轮按域名）：hightrade-international.com Home / About / Contact（27 Hillier Street Sheung Wan HONG KONG；+86 137 2826 2828；warehouses in China Mainland, Taiwan and Hong Kong；New headquarters in Hong Kong；20 years in home appliances）；UK HIGHTRADE INTERNATIONAL LIMITED 09842369 已注销（2025-09-02；Basingstoke）疑似无关；查不到即停，2026-10-28 查；https://www.hightrade-international.com/about-us/）：**
+
+- 法定名 / 登记号：High’Trade International（hightrade-international.com；研究档记法国，实际总部 27 Hillier Street, Sheung Wan, Hong Kong（Fu Fai Commercial Center 702）、联系电话 +86 137…；联系人用 Gmail）— 电子元器件 / 家电配件采购代理与「授权分销」（保险丝、电容、风扇、光伏连接器、金属件；「200 家华南工厂」为欧美大客户寻源）；法人名（High Trade International Ltd？）与注册号未取 → **未坐实**；群发 2 次打开 · 未取（未坐实） · 状态 **未核** · 成立 未取 · 未取（网站署名 High Trade International Ltd）
+- 行业码 / 经营范围：电子元器件 / 家电配件 采购代理 + 分销（华南寻源，服务欧美）
+- 注册地址：27 Hillier Street, Sheung Wan, Hong Kong（网站口径；研究档：法国）
+- 规模档：未取（小型）
+- 账目：—；—
+- 高管：（未具名；Gmail 联系人）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **本质是驻港的寻源中间商（元器件 / 家电件），不是网络设备买家 → 不动；国别存疑（法国 ← 香港）暂不改 iso（仅网站口径）**
+  - 不进发送包；若日后出现交换机采购询盘再按 OEM 30% 对待（同行 / 中间商口径）
+- 备注：未坐实；不动（寻源中间商；国别存疑）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -115,8 +129,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | High’Trade International（网站署 High Trade International Ltd；总部香港 Sheung Wan；法人 / 注册号未取 → 未坐实） |
+| 成立 | 未取（第 108 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 法国 |
-| 其他 | 官网 hightrade-international.com，语言 fr-FR，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 hightrade-international.com，语言 fr-FR，快照状态 ok；角色判定来源：用户表；第 108 批：实为驻港电子元器件 / 家电配件寻源中间商（华南 200 家工厂为欧美大客户寻源；+86 电话；Gmail 联系人）→ **不动**；国别存疑（研究档法国 ← 网站香港）暂不改 iso（第 108 批 官方登记核实 2026-10-28） |
 
 - **业务线**：跨境采购 / 分销中介（港台中国大陆 → 法国/欧洲）
 - **触达通道（公开）**：role: 采购中介/分销商（法国，24 口 PoE ×40 询盘）；region: 法国；contact: thomas.lemaire@hightrade-international.com、info@hightrade-international.com
@@ -150,7 +166,7 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1037/`；本节随档案重渲染刷新，实时看日志。
 

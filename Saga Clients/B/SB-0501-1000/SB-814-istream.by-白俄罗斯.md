@@ -148,14 +148,14 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
-- **最近变化摘要**：2026-10-27 sitemap：新增 808 条： nerezerviruemye-bloki-pitaniya； rezerviruemye-bloki-pitaniya； akkumulyatory； alt
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **最近变化摘要**：2026-10-28 sitemap：新增 808 条： nerezerviruemye-bloki-pitaniya； rezerviruemye-bloki-pitaniya； akkumulyatory； alt
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-814/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://istream.by/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7343 字符；首行：Купить видеонаблюдение по низким ценам от Айстрим Плюс |
-| [sitemap](https://istream.by/sitemap.xml) | sitemap | HTTP 200 | 2026-10-27T08:02:45Z | 900 个 URL；最新 lastmod 2026-10-27 |
+| [sitemap](https://istream.by/sitemap.xml) | sitemap | HTTP 200 | 2026-10-28T08:44:48Z | 900 个 URL；最新 lastmod 2026-10-28 |
 | [news_1](https://istream.by/blog) | html | HTTP 200 | 2026-10-23T04:20:51Z | 11223 字符；首行：Блог о видеонаблюдении и не только... |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://facebook.com；X/Twitter: https://twitter.com

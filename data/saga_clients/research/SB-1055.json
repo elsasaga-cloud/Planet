@@ -1,125 +1,127 @@
 {
-  "code": "SB-1055",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "快照失败（http_error）",
-  "summary": "意大利 Marcom（marcomweb.it：工业 FS「很多牌子的」多品牌经销；表内「质量一般」；官网 http_error）；表内未跟进。",
-  "type": "工业网络多品牌经销商（意大利）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "工业FS 很多牌子的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "工业 FS 很多牌子",
-      "quote": "工业FS 很多牌子的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-1055",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "快照失败（http_error）",
+ "summary": "意大利 Marcom（marcomweb.it：工业 FS「很多牌子的」多品牌经销；表内「质量一般」；官网 http_error）；表内未跟进。",
+ "type": "工业网络多品牌经销商（意大利）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS 很多牌子的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "意大利",
-    "other": "官网 marcomweb.it，语言 ?，快照状态 http_error；角色判定来源：待核"
-  },
-  "business_lines": [
-    "工业网络产品经销（意大利）"
-  ],
-  "channels": {
-    "role": "工业网络多品牌经销商（意大利）",
-    "region": "意大利",
-    "contact": "info@marcomweb.it"
-  },
-  "signals": [
-    "表内：工业 FS 很多牌子的；质量一般",
-    "快照：http_error"
-  ],
-  "risks": [
-    "官网 http_error（经营状态待核）；多品牌经销（白牌契合度待核）；表内「质量一般」；未跟进过"
-  ],
-  "saga_fit": {
-    "p1": "STI-280GE",
-    "tier": 20,
-    "why": "工业 FS 多品牌 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）作白牌预算位"
-  },
-  "email_hook": "Alongside the industrial switch brands you carry, we supply neutral-brand DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS; managed versions on a Marvell platform) from single units, EXW USD — is there a budget industrial position your customers ask for?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（S 邮箱 1 封 2026，无记录打开，0 回；收件 info@marcomweb.it；主题多为「24 Port PoE Managed Switch」）；Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IT 批次 To INFO@sarcitalia.it，0 回（第 73 批(o) Bcc 头核对 msg 1a057bf756774b15）",
-      "type": "工业网络多品牌经销商（意大利）",
-      "sieve": "1（只收到群发）",
-      "stop": "只打通用邮箱，无记录打开",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "意大利（欧洲全域主攻）",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 1；用户表：「工业FS 很多牌子的」；研究档 risks：官网 http_error（经营状态待核）；多品牌经销（白牌契合度待核）；表内「质量一般」；未跟进过；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To INFO@sarcitalia.it）2025-04-01→2026-08-31 共 9 轮群发（Marvell Alleycat5 Solution、8 Port Industrial PoE Switch、Commercial PoE Switch、48 Port PoE Managed Switch、16 Port Ethernet Switch、10G Enterprise SFP Switch、Industrial PoE Switch、OEM Core Switching Solution、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
-    },
-    "situation": "意大利 Marcom（marcomweb.it：工业 FS「很多牌子的」多品牌经销；表内「质量一般」；官网 http_error）；表内未跟进。",
-    "need": "工业 FS 多品牌 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）作白牌预算位",
-    "breakpoint": "官网 http_error（经营状态待核）；多品牌经销（白牌契合度待核）；表内「质量一般」；未跟进过",
-    "saga_now": {
-      "p1": "STI-280GE",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-10-06 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "工业 FS 多品牌 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）作白牌预算位",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "观察打开",
-      "one_question": "Alongside the industrial switch brands you carry, we supply neutral-brand DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS; managed versions on a Marvell platform) from single units, EXW USD — is there a budget industrial position your customers ask for?"
-    },
-    "facts": [
-      {
-        "date": "2025-04-01",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次）",
-        "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@marcomweb.it, marcomweb.it）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-08-31",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次）",
-        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@marcomweb.it, marcomweb.it）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-10-06",
-        "dir": "去",
-        "who": "S 群发",
-        "quote": "24 Port PoE Managed Switch",
-        "why": "1 封 / 0 次打开 / 0 回｜首封 2026-10-06 → 末封 2026-10-06（1 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "工业FS 很多牌子的",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-25"
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 很多牌子",
+   "quote": "工业FS 很多牌子的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "意大利",
+  "other": "官网 marcomweb.it，语言 ?，快照状态 http_error；角色判定来源：待核；第 108 批：维罗纳工业自动化通信分销商（Moxa 工业交换机、工业路由器、LoRaWAN），网店自编 ISE 系列工业交换机 SKU；股本 €20,000；11–50 人 → **分销 20% + 贴标可谈，B，加厚一次（small）**；收件人 info@ 点名 ufficio acquisti（第 108 批 官方登记核实 2026-10-28）",
+  "legal_name": "MARCOM S.r.l.（P.IVA / CF 03718740230；Registro Imprese di Verona）",
+  "founded": "2001（第 108 批 官方登记核实 2026-10-28）"
+ },
+ "business_lines": [
+  "工业网络产品经销（意大利）"
+ ],
+ "channels": {
+  "role": "工业网络多品牌经销商（意大利）",
+  "region": "意大利",
+  "contact": "info@marcomweb.it"
+ },
+ "signals": [
+  "表内：工业 FS 很多牌子的；质量一般",
+  "快照：http_error"
+ ],
+ "risks": [
+  "官网 http_error（经营状态待核）；多品牌经销（白牌契合度待核）；表内「质量一般」；未跟进过"
+ ],
+ "saga_fit": {
+  "p1": "STI-280GE",
+  "tier": 20,
+  "why": "工业 FS 多品牌 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）作白牌预算位"
+ },
+ "email_hook": "Alongside the industrial switch brands you carry, we supply neutral-brand DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS; managed versions on a Marvell platform) from single units, EXW USD — is there a budget industrial position your customers ask for?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（S 邮箱 1 封 2026，无记录打开，0 回；收件 info@marcomweb.it；主题多为「24 Port PoE Managed Switch」）；Elsa 群发 BCC 已触达 2026-08-31「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，IT 批次 To INFO@sarcitalia.it，0 回（第 73 批(o) Bcc 头核对 msg 1a057bf756774b15）",
+   "type": "工业网络多品牌经销商（意大利）",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "意大利（欧洲全域主攻）",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 1；用户表：「工业FS 很多牌子的」；研究档 risks：官网 http_error（经营状态待核）；多品牌经销（白牌契合度待核）；表内「质量一般」；未跟进过；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To INFO@sarcitalia.it）2025-04-01→2026-08-31 共 9 轮群发（Marvell Alleycat5 Solution、8 Port Industrial PoE Switch、Commercial PoE Switch、48 Port PoE Managed Switch、16 Port Ethernet Switch、10G Enterprise SFP Switch、Industrial PoE Switch、OEM Core Switching Solution、24 Port PoE Managed Switch），本户在首尾两轮 Bcc 名单内，名单稳定、中间轮次按同名单推断"
+  },
+  "situation": "意大利 Marcom（marcomweb.it：工业 FS「很多牌子的」多品牌经销；表内「质量一般」；官网 http_error）；表内未跟进。",
+  "need": "工业 FS 多品牌 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）作白牌预算位",
+  "breakpoint": "官网 http_error（经营状态待核）；多品牌经销（白牌契合度待核）；表内「质量一般」；未跟进过",
+  "saga_now": {
+   "p1": "STI-280GE",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-10-06 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+   "why": "工业 FS 多品牌 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）作白牌预算位",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "观察打开",
+   "one_question": "Alongside the industrial switch brands you carry, we supply neutral-brand DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS; managed versions on a Marvell platform) from single units, EXW USD — is there a budget industrial position your customers ask for?"
+  },
+  "facts": [
+   {
+    "date": "2025-04-01",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次）",
+    "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@marcomweb.it, marcomweb.it）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-08-31",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次）",
+    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@marcomweb.it, marcomweb.it）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-10-06",
+    "dir": "去",
+    "who": "S 群发",
+    "quote": "24 Port PoE Managed Switch",
+    "why": "1 封 / 0 次打开 / 0 回｜首封 2026-10-06 → 末封 2026-10-06（1 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业FS 很多牌子的",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-25"
+ }
 }

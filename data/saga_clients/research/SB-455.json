@@ -50,7 +50,9 @@
  },
  "company_facts": {
   "hq": "捷克",
-  "other": "官网 maxlink.cz，语言 cs，快照状态 ok；角色判定来源：用户表"
+  "other": "官网 maxlink.cz，语言 cs，快照状态 ok；角色判定来源：用户表；第 108 批：面向 ISP 的网络配件自有品牌（天线、SFP/SFP+/DAC、无源 / 有源 PoE 注入器含 10G bt、PoE 面板、**PoE 交换机**、安装箱）→ **贴标 OEM 30% 正中目标，B BIG，加厚一次（只报 OEM 档）；升 A 候选（回信即 A）；法人回声后补核**（第 108 批 官方登记核实 2026-10-28）",
+  "legal_name": "MaxLink（品牌 2006 起；总部 Plzeň–Lobzy Cvokařská 1216/8；运营法人 / IČO 未取 → 部分坐实）",
+  "founded": "品牌 2006（第 108 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "WiFi 天线 / 尾纤 / PoE 注入器与面板 / SFP 模块（自有品牌）",

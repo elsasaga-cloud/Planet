@@ -77,6 +77,22 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 108 批（NL · 1 次检索：vercoma.nl Contact / 结构化数据（Vercoma Communicatie Systemen；KvK 34219252；BTW NL814413146B01；Rosbayerweg 41 1521 RW Wormerveer；Onderdeel van de Golmar Group；sinds 1978）+ Team 页（Gian Zandonà Algemeen directeur；Andy Menheere Manager Sales；Chris Standaar Technisch Tekenaar - Inkoop Coördinator）+ companyinfo.nl（Aandeelhouder Golmar Sistemas de Comunicación SA；KvK 34219252）+ LinkedIn（1978；11–50），2026-10-28 查；https://www.vercoma.nl/contact）：**
+
+- 法定名 / 登记号：Vercoma Communicatie Systemen B.V.（vercoma.nl；沃尔默费尔 Wormerveer Rosbayerweg 41, 1521 RW（站内另示 Alkmaar Kanaalkade 16c）；KvK 34219252；BTW NL814413146B01）— 1978 年起荷兰门禁 / 对讲 / CCTV 专家，Golmar Sistemas de Comunicación S.A.（巴塞罗那）集团成员 + 荷兰独家进口商（IP 对讲 PoE 监视器 iPlus、门禁、CCTV 套件；客户安装商 / 建筑师 / 住房公司 / VvE；项目如 500 套学生公寓）；Algemeen directeur Gian Zandonà（2024 起）；Manager Sales Andy Menheere；Inkoop Coördinator Chris Standaar；11–50 人；群发 2 次打开 · KvK 34219252；BTW NL814413146B01 · 状态 **Actief** · 成立 1978（活动）；B.V. ≈2005 · B.V.（Golmar 集团子公司）
+- 行业码 / 经营范围：门禁 / 对讲 / CCTV 系统进口分销（安装商渠道）
+- 注册地址：Rosbayerweg 41, 1521 RW Wormerveer
+- 规模档：小型（11–50 人）
+- 账目：—；—
+- 高管：Gian Zandonà — Algemeen directeur = 拍板人
+- 高管：Chris Standaar — Inkoop Coördinator = 收件人
+- 高管：Andy Menheere — Manager Sales
+- 控制人 / 股东：Golmar Sistemas de Comunicación S.A.（Barcelona）
+- **这意味着什么：**
+  - **西班牙 Golmar 集团的荷兰分销子公司（IP 对讲项目要 PoE 交换机）→ 分销 20% small，一页纸一次（STC-028GP / STC-228GP / STC-2224GP 配 IP 对讲 / 门禁项目）；有回声再加厚**；集团采购在巴塞罗那 → 回声后考虑并线 Golmar 总部
+  - 收件人 Chris Standaar（inkoop）抄 Andy Menheere；2 次打开无回复 → 二次触达换切口「PoE switches sized for IP intercom projects」；发信窗口 Thu 12–14 CET；荷语一句引子
+- 备注：分销 20% small；一页纸一次；坐实（KvK）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -109,14 +125,18 @@ updated: 2026-10-28
 - **【用户表】CCTV 少量商业 PoE**
   > 主要是CCTV 少量商业POE
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Chris Standaar（Technisch Tekenaar – Inkoop Coördinator（官网 Team）= 收件人（第 108 批 官方登记核实 2026-10-28）） 〔https://www.vercoma.nl/over-vercoma/team-vercoma〕
+- **KP**：Gian Zandonà（Algemeen directeur（2024 起；官网 / companyinfo）= 拍板人（抄送）（第 108 批 官方登记核实 2026-10-28）） 〔https://www.vercoma.nl/nieuws/een-warm-welkom-voor-gian-zandona-nieuwe-directeur-vercoma〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Vercoma Communicatie Systemen B.V.（KvK 34219252；BTW NL814413146B01；Golmar Sistemas de Comunicación S.A. 子公司） |
+| 成立 | 1978（活动）；B.V. ≈2005（第 108 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 荷兰 |
-| 其他 | 官网 vercoma.nl，语言 nl，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 vercoma.nl，语言 nl，快照状态 ok；角色判定来源：用户表；第 108 批：Wormerveer 门禁 / 对讲 / CCTV 进口分销（Golmar 荷兰独家；11–50 人；安装商渠道）→ **分销 20% small，一页纸一次（PoE 配 IP 对讲项目）**；回声后考虑并线 Golmar 总部（第 108 批 官方登记核实 2026-10-28） |
 
 - **业务线**：对讲 / 门禁 / CCTV 方案（荷兰）
 - **触达通道（公开）**：role: 对讲/门禁/CCTV 方案分销商（荷兰）；region: 荷兰；contact: info@vercoma.nl
@@ -153,7 +173,7 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-24T07:26:33Z
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-24T07:26:33Z
 - **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1093/`；本节随档案重渲染刷新，实时看日志。
 
@@ -175,7 +195,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@vercoma.nl | 用户表原值 | Clients/ 表 |
+| Chris Standaar | Technisch Tekenaar – Inkoop Coördinator（官网 Team）= 收件人（第 108 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.vercoma.nl/over-vercoma/team-vercoma |
+| Gian Zandonà | Algemeen directeur（2024 起；官网 / companyinfo）= 拍板人（抄送）（第 108 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.vercoma.nl/nieuws/een-warm-welkom-voor-gian-zandona-nieuwe-directeur-vercoma |
 
 - **通道建议**：企业邮箱可直发
 
@@ -210,7 +231,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：欧洲主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STC-28DGGPM 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -227,7 +248,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ✅ |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |

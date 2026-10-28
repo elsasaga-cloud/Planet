@@ -208,13 +208,13 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
-- **最近变化摘要**：2026-10-27 home：内容变化：+9 −9 行
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **最近变化摘要**：2026-10-28 home：内容变化：+8 −8 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-427/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.longlinenetwork.com/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 3267 字符；首行：Anasayfa \| Longline Network |
+| [home](https://www.longlinenetwork.com/) | html | HTTP 200 | 2026-10-28T08:44:48Z | 3255 字符；首行：Anasayfa \| Longline Network |
 | [news_1](https://www.longlinenetwork.com/blog/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 32360 字符；首行：Blog \| Longline Network |
 | [feed_auto](https://www.longlinenetwork.com/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Thu, 04 Dec 2025 11:09:23 Longline 5 Port Gigabit Ethernet Switch \| 10/100/1000 M |
 

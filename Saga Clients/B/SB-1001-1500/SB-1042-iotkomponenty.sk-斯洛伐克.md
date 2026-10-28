@@ -77,6 +77,20 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 108 批（SK · 1 次检索：iotkomponenty.sk Contact / Dodávatelia / 页脚（MCV Systems s.r.o.；Agátová 3412/7C 841 01 Bratislava；IČO 47 378 352；IČ DPH SK2023841930；+421 905 509 859；info@iotkomponenty.sk；suppliers Jinan USR IOT Technology Limited / MEAN WELL / TELTONIKA；We deliver to all EU countries）；ORSR 全文未取，2026-10-28 查；https://www.iotkomponenty.sk/en/contact-us）：**
+
+- 法定名 / 登记号：MCV Systems s.r.o.（经营 iotkomponenty.sk「IOT Components」；布拉迪斯拉发 Agátová 3412/7C, 841 01；IČO 47 378 352；IČ DPH SK2023841930）— 工业物联网元件网店（USR IoT（济南有人）蜂窝路由 / 串口服务器、Mean Well 电源、Teltonika；配送全欧盟）；群发 2 次打开 · IČO 47378352；IČ DPH SK2023841930 · 状态 **Active** · 成立 未取（IČO 4737… ≈2013） · s.r.o.（私有；小微）
+- 行业码 / 经营范围：工业物联网元件网店（蜂窝路由 / 串口服务器 / 电源）
+- 注册地址：Agátová 3412/7C, 841 01 Bratislava
+- 规模档：小微
+- 账目：—；—
+- 高管：（未具名）— 收件人 info@iotkomponenty.sk
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **已直接进口中国 IoT 品牌的斯洛伐克小网店 → 分销 20% small，一页纸一次（STI-054GP / STI-144GP 配其串口服务器 / 路由）；有回声再加厚**；稿内不点名 USR / Teltonika
+  - 2 次打开无回复 → 二次触达换切口「a DIN-rail switch to pair with your serial servers」；发信窗口 Thu 12–14 CET；斯洛伐克语一句引子
+- 备注：分销 20% small；一页纸一次；坐实（IČO 站脚）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -116,8 +130,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | MCV Systems s.r.o.（经营 iotkomponenty.sk；IČO 47 378 352；IČ DPH SK2023841930） |
+| 成立 | ≈2013（IČO 4737…）（第 108 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 斯洛伐克 |
-| 其他 | 官网 iotkomponenty.sk，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 iotkomponenty.sk，语言 en，快照状态 ok；角色判定来源：官网文案；第 108 批：布拉迪斯拉发工业物联网元件网店（USR IoT / Mean Well / Teltonika；配送全欧盟）→ **分销 20% small，一页纸一次（STI 配串口服务器）**（第 108 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IoT 组件网店（USR 蜂窝路由 / 串口服务器）
 - **触达通道（公开）**：role: 小型 IoT 组件网店（USR 为主）；region: 斯洛伐克；contact: info@iotkomponenty.sk
@@ -156,7 +172,7 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1042/`；本节随档案重渲染刷新，实时看日志。
 

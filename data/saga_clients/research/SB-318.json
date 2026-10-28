@@ -56,7 +56,9 @@
  },
  "company_facts": {
   "hq": "瑞典",
-  "other": "官网 verdelon.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 verdelon.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 108 批：1 次检索（allabolag / bolagsverket 口径）未命中任何 Verdelon 法人（仅 Verdion AB 同名异主）→ 未坐实；自有品牌工业 PoE 交换机（贴 Elink）= **贴标 OEM 30% 目标，先一页纸一次，回声后补核法人再加厚**（第 108 批 官方登记核实 2026-10-28）",
+  "legal_name": "Verdelon（品牌；瑞典法人未取 → 未坐实）",
+  "founded": "未取（第 108 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工业以太网 / PoE 交换机 / MC / 电源（自有品牌 Verdelon）"

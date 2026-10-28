@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -81,6 +81,21 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 108 批（IT · 1 次检索：coeldistribution.it 页脚 / Contattaci（Coel Distribution srl；Via Fratelli Bandiera 9A 20835 Muggiò (MB)；C.F. e P.IVA 11989650152；+39 039 578 831；info@）+ aziende.it（SOCIETA’ A RESPONSABILITA’ LIMITATA；ATECO 46.64.2 dal 1997；REA MI-1521836）+ fatturatoitalia（REA MB 2629252；ATECO 46.69.2）+ ufficiocamerale（P.IVA 11989650152；MUGGIO’）+ LinkedIn（Dal 1994；11–50）+ 目录页 Planet Networking / IGS-801T / IGS-1020PTF，2026-10-28 查；https://www.aziende.it/coel-distribution-srl）：**
+
+- 法定名 / 登记号：COEL DISTRIBUTION SRL（coeldistribution.it；蒙扎-布里安扎 Muggiò Via Fratelli Bandiera 9/A, 20835（原 Sesto San Giovanni）；P.IVA / CF 11989650152；REA MB-2629252（旧 MI-1521836）；1994 / 1997 起）— 布线 / 网络 / 电信 / 连接产品分销商（面向安装商与集成商；品牌 Planet Networking / Prysmian / R&M / Rosenberger / Trend Networks；目录内 PLANET IGS-801T / IGS-1020PTF 工业交换机）；11–50 人；研究档营收 €9.4M（2023）；KP a.fallerini（姓名待核）；群发 3 次打开 · P.IVA / CF 11989650152；REA MB-2629252 · 状态 **Active** · 成立 1994（活动）/ 1997（登记） · S.r.l.（私有）
+- 行业码 / 经营范围：结构化布线 / 网络 / 电信 / 连接产品分销（面向安装商、集成商；Planet 分销）
+- 注册地址：Via Fratelli Bandiera 9/A, 20835 Muggiò (MB)
+- 规模档：小型（11–50 人）
+- 账目：研究档：2023 营收 €9.4M；—
+- 高管：（a.fallerini，姓名待核）— 研究档联系人 = 收件人
+- 高管：（未具名）— ufficio acquisti（抄 info@ 点名）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **米兰北郊 €9.4M 的布线 + 网络分销商，目录已有台系工业小交换机自有货号 → 分销 20%，B BIG，加厚一次**：STI-054GP / STI-144GP / STI-154GP（1:1 对照 IGS-801T / IGS-1020PTF）+ STC-028GP / STC-228GP / STC-2224GP 一页纸；稿内不点名 Planet
+  - 收件人 a.fallerini@ + 抄 info@ 点名 ufficio acquisti；3 次打开无回复 → 二次触达换切口「a second industrial line next to your Taiwanese brand」；发信窗口 Thu 12–14 CET；意语一句引子
+- 备注：分销 20%；B BIG；加厚一次；坐实（P.IVA + REA）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -126,15 +141,17 @@ updated: 2026-10-27
 - **【Mikrotik 仓库】A-191 同户（人工 A，info@ 公开）**
   > A-191 Coel Distribution srl 意大利 集成商/代理（Allied Telesis）… info@coeldistribution.it [Publicly listed; delivery not tested]
   > 来源：https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv（抓取 2026-10-19）
+- **KP**：A. Fallerini（姓名待核）（研究档联系人 a.fallerini@coeldistribution.it = 收件人（抄 info@ 点名 ufficio acquisti）（第 108 批 官方登记核实 2026-10-28））a.fallerini@coeldistribution.it 〔https://www.coeldistribution.it/contattaci/〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-024，W 批次调研 2026-10-19/20））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Coel Distribution srl |
+| 法定名称 | COEL DISTRIBUTION SRL（P.IVA / CF 11989650152；REA MB-2629252，旧 MI-1521836） |
+| 成立 | 1994（活动）/ 1997（登记）（第 108 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Muggiò (MB), 意大利 |
-| 其他 | Planet 渠道档案 PB-024（2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json）；自有品牌：否；最大未知：Mikrotik 侧是否已首触（A-191 状态未触达）；PLANET 占比 |
+| 其他 | Planet 渠道档案 PB-024（2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json）；自有品牌：否；最大未知：Mikrotik 侧是否已首触（A-191 状态未触达）；PLANET 占比；第 108 批：Muggiò (MB) 布线 / 网络 / 电信分销商（Planet Networking / Prysmian / R&M / Rosenberger；目录含 IGS-801T / IGS-1020PTF 工业交换机）；11–50 人；研究档 2023 营收 €9.4M → **分销 20%，B BIG，加厚一次（STI 1:1 对照台系工业机型；不点名 Planet）；次候选升 A**（第 108 批 官方登记核实 2026-10-28） |
 
 - **业务线**：分销商（1994 年起；结构化布线、网络、电信与连接产品分销，服务安装商与系统集成商；11–50 人，营收 €9.4M 2023）
 
@@ -208,15 +225,15 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **最近变化摘要**：2026-10-28 news_1：内容变化：+46 −23 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1018/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.coeldistribution.it/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 9269 字符；首行：Coel Distribution \| componenti e sistemi per le infrastrutture tecnologiche ne |
 | [sitemap](https://www.coeldistribution.it/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
-| [news_1](https://www.coeldistribution.it/blog/) | html | HTTP 200 | 2026-10-24T07:26:33Z | 8106 字符；首行：Blog \| Coel Distribution +39 039.578.831 info@coeldistribution.it |
+| [news_1](https://www.coeldistribution.it/blog/) | html | HTTP 200 | 2026-10-28T08:44:48Z | 8054 字符；首行：Blog \| Coel Distribution |
 | [youtube](https://www.youtube.com/user/COELDISTRIBUTION) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-01-22T16:01:11+00:00 Video Corporate |
 | [feed_auto](https://www.coeldistribution.it/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 12 条；最新：Wed, 29 Jul 2026 10:27:05 1401060320ME |
 
@@ -235,6 +252,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| A. Fallerini（姓名待核） | 研究档联系人 a.fallerini@coeldistribution.it = 收件人（抄 info@ 点名 ufficio acquisti）（第 108 批 官方登记核实 2026-10-28） | a.fallerini@coeldistribution.it | 调研核实（公开页） | https://www.coeldistribution.it/contattaci/ |
 | Simone Fallerini | — | info@coeldistribution.it / a.fallerini@coeldistribution.it | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
@@ -328,12 +346,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

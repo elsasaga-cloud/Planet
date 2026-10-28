@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -210,8 +210,8 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
-- **最近变化摘要**：2026-10-27 feed_auto：新增 5 条：Mon, 26 Oct 2026 19 LolaJack Casino FR – bonus, promotions et programme VIP；Mon, 26
+- **监控层**：B 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **最近变化摘要**：2026-10-28 feed_auto：新增 6 条：Wed, 28 Oct 2026 07 Golden Panda Live Chat : tout ce que vous devez savoir；Tue, 27 
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-655/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
@@ -221,7 +221,7 @@ updated: 2026-10-27
 | [news_1](https://www.digisol.com/category/digisol-blogs/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 2759 字符；首行：Digisol Blogs - Digisol |
 | [news_2](https://www.digisol.com/resources/case-study/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2866 字符；首行：Case Study - Digisol |
 | [youtube](https://www.youtube.com/c/DIGISOL) | youtube_handle | HTTP 200 | 2026-10-27T08:02:45Z | 15 条；最新：2026-10-27T05:25:15+00:00 Digisol hosted “SI’s for India“ in Chennai |
-| [feed_auto](https://www.digisol.com/feed/) | rss | HTTP 200 | 2026-10-27T08:02:45Z | 10 条；最新：Mon, 26 Oct 2026 19:44:46 LolaJack Casino FR – bonus, promotions et programme VIP |
+| [feed_auto](https://www.digisol.com/feed/) | rss | HTTP 200 | 2026-10-28T08:44:48Z | 10 条；最新：Wed, 28 Oct 2026 07:09:01 Golden Panda Live Chat : tout ce que vous devez savoir |
 
 - **人工定期看（登录墙，不自动抓）**：LinkedIn: https://www.linkedin.com/company/digisol-systems-ltd；Facebook: https://www.facebook.com/DIGISOLINDIA/；Instagram: https://www.instagram.com/digisol_solutions/；X/Twitter: https://twitter.com/DIGISOL_SNSL；WhatsApp: https://wa.me/919607893444
 
@@ -331,12 +331,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

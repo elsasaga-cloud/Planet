@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -149,14 +149,14 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-24T04:35:40Z
-- **最近变化摘要**：2026-10-24 feed_auto：新增 1 条：Fri, 23 Oct 2026 06 Avoin työpaikka: Aluemyyntipäällikkö tuotemerkintätiimiin, haku
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **最近变化摘要**：2026-10-28 feed_auto：新增 1 条：Tue, 27 Oct 2026 14 Domino Cx350i – mustesuihkutulostin suurten pakkausmerkintöjen 
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1126/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://klinger.fi/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 9697 字符；首行：Etusivu - KLINGER Finland |
-| [feed_auto](https://klinger.fi/feed/) | rss | HTTP 200 | 2026-10-24T04:35:40Z | 10 条；最新：Fri, 23 Oct 2026 06:06:09 Avoin työpaikka: Aluemyyntipäällikkö tuotemerkintätiimii |
+| [home](https://klinger.fi/) | html | HTTP 200 | 2026-10-28T08:44:48Z | 9649 字符；首行：Etusivu - KLINGER Finland |
+| [feed_auto](https://klinger.fi/feed/) | rss | HTTP 200 | 2026-10-28T08:44:48Z | 10 条；最新：Tue, 27 Oct 2026 14:02:43 Domino Cx350i – mustesuihkutulostin suurten pakkausmerki |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -262,12 +262,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 17）；人工/调研定级 → B
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 17）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -79,6 +79,20 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 108 批（CZ · 1 次检索：finmag（YATUN, s.r.o.；IČO 28176791；DIČ CZ28176791；vznik 2007；V olšinách 2300/75 Praha-Strašnice；Jednatel Martin Wokoun od 31.10.2007）+ yatun.cz Kontakty（Fakturační údaje IČ 28176791）+ zivefirmy（Martin Wokoun jednatel）+ ifirmy（založení 30.10.2007）+ LinkedIn（výhradní zástupci Control4 / Fibaro / Ekinex / Amina pro ČR a SR；2007；11–50），2026-10-28 查；https://www.finmag.cz/obchodni-rejstrik/28176791-yatun-s-r-o）：**
+
+- 法定名 / 登记号：YATUN, s.r.o.（yatun.cz；布拉格 10 Strašnice V Olšinách 2300/75, 100 00（展厅 Slapská 2115/1；办公 Litevská 8）；IČO 28176791；DIČ CZ28176791）— 2007-10-30 登记的智能家居 / 楼宇自动化 / AV 控制 / 安防 专业分销商（Control4、Fibaro、Ekinex、MDT KNX 等捷克 + 斯洛伐克独家代理；面向电气安装商，自研软件 + 培训）；jednatel Martin Wokoun；11–50（LinkedIn）/ 2（ifirmy 口径）；表内「商业 PoE 在卖别人的牌子」；群发 2 次打开 · IČO 28176791；DIČ CZ28176791 · 状态 **Active** · 成立 2007-10-30 · s.r.o.（私有）
+- 行业码 / 经营范围：智能家居 / 楼宇自动化 / AV 控制 / 安防 专业分销（Control4 独家）
+- 注册地址：V Olšinách 2300/75, 100 00 Praha 10 – Strašnice
+- 规模档：小型（2–50 口径不一）
+- 账目：—；—
+- 高管：Martin Wokoun — Jednatel（2007 起）= 拍板人 / 收件人（obchod@yatun.cz 点名）
+- 控制人 / 股东：Martin Wokoun（推定）
+- **这意味着什么：**
+  - **智能家居安装商渠道的独家分销商（Control4 系统需 PoE 交换机配套）→ 分销 20%，B，加厚一次（small）**：STC-028GP / STC-228GP / STC-2224GP（机柜静音 / 住宅 AV 场景）一页纸；稿内不点名 Planet
+  - 收件人 obchod@ 点名 Martin Wokoun；2 次打开无回复 → 二次触达换切口「PoE switches sized for smart-home racks」；发信窗口 Thu 12–14 CET；捷克语一句引子
+- 备注：分销 20%；B；加厚一次（small）；坐实（IČO）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -112,14 +126,17 @@ updated: 2026-10-27
 - **【用户表】商业 PoE 在卖别人的牌子**
   > 商业POE 在卖别人的牌子；质量一般
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Martin Wokoun（Jednatel（2007-10-31 起；finmag / zivefirmy）= 拍板人 / 收件人（obchod@yatun.cz 点名）（第 108 批 官方登记核实 2026-10-28））obchod@yatun.cz 〔https://www.finmag.cz/obchodni-rejstrik/28176791-yatun-s-r-o〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | YATUN, s.r.o.（IČO 28176791；DIČ CZ28176791） |
+| 成立 | 2007-10-30（第 108 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 捷克 |
-| 其他 | 官网 yatun.cz，语言 cs，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 yatun.cz，语言 cs，快照状态 ok；角色判定来源：官网文案；第 108 批：布拉格智能家居 / 楼宇自动化 / AV 专业分销商（Control4 / Fibaro / Ekinex CZ+SK 独家；安装商渠道）→ **分销 20%，B，加厚一次（small；STC 配智能家居机柜）**（第 108 批 官方登记核实 2026-10-28） |
 
 - **业务线**：自动化 / AV 控制 / 智能电气安装 / 安防技术供应
 - **触达通道（公开）**：role: 智能家居/AV 集成分销商（捷克，PLANET 等品牌在售）；region: 捷克；contact: info@yatun.cz
@@ -170,13 +187,13 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **最近变化摘要**：2026-10-28 home：内容变化：+5 −5 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1097/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.yatun.cz/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 11341 字符；首行：Domů \| Yatun.cz |
+| [home](https://www.yatun.cz/) | html | HTTP 200 | 2026-10-28T08:44:48Z | 11308 字符；首行：Domů \| Yatun.cz |
 | [news_1](https://www.yatun.cz/blog-novinky) | html | HTTP 200 | 2026-10-23T04:20:51Z | 15988 字符；首行：Novinky \| Yatun.cz |
 | [youtube](https://www.youtube.com/@yatun-cz) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-06-05T07:32:40+00:00 Webinář novinky v ETS |
 
@@ -193,7 +210,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@yatun.cz | 用户表原值 | Clients/ 表 |
+| Martin Wokoun | Jednatel（2007-10-31 起；finmag / zivefirmy）= 拍板人 / 收件人（obchod@yatun.cz 点名）（第 108 批 官方登记核实 2026-10-28） | obchod@yatun.cz | 调研核实（公开页） | https://www.finmag.cz/obchodni-rejstrik/28176791-yatun-s-r-o |
 
 - **通道建议**：企业邮箱可直发
 
@@ -260,7 +277,7 @@ updated: 2026-10-27
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Martin,
 
 Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 28 August 2026 - and there was no reason to answer a mass mail. This one is specific. Alongside the Control4 and PLANET networking you supply to AV integrators, we offer neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches (silent/fanless options, CE/RoHS) from small lots, EXW USD — which size do your home-automation installs use most?
 
@@ -285,12 +302,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

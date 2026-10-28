@@ -75,6 +75,20 @@ updated: 2026-10-28
 
 - 法定假日：10-31 All Saints' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 108 批（SE · 1 次检索「Verdelon AB organisationsnummer verdelon.com allabolag」→ 仅返回 Verdion AB / Svenska Verde AB 等同名异主（≠），无 Verdelon 法人记录；查不到即停，2026-10-28 查；https://verdelon.com/）：**
+
+- 法定名 / 登记号：Verdelon（verdelon.com；研究档记瑞典；「Industrial-Grade Networking Hardware」自有品牌工业以太网 / PoE 交换机（L2 管理 8 / 16 / 24 / 44 口 PoE）、MC、SFP、48 V 电源；表内「Elink 的」= 贴标国产）— 1 次检索（allabolag / bolagsverket 口径）未命中任何瑞典法人 → **未坐实**（法人名 / org.nr / 所在国均待补证）；表内未跟进；群发 5 次打开 · 未取（未坐实） · 状态 **未核** · 成立 未取 · 未取（品牌名，法人待补证）
+- 行业码 / 经营范围：自有品牌工业网络硬件（贴标国产工业 PoE 交换机）— 口径来自研究档
+- 注册地址：未取（研究档：瑞典）
+- 规模档：未取
+- 账目：—；—
+- 高管：（未具名）— 收件人 官网表单 / info@（点名 purchasing / product manager）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **贴标型自有品牌（现贴 Elink）= 贴标 OEM 30% 的正中目标，但法人未坐实 → 先一页纸一次（STI-288DGGPM / STI-244DGGPM / STI-488DGGPM / STC-424XGGPM-280W 1:1 对照其 8 / 16 / 24 / 44 口 PoE）；回声后再补核法人并加厚**
+  - 5 次打开无回复 → 二次触达换切口「second OEM source for your industrial PoE family」；发信窗口 Thu 12–14 CET；稿内不点名 Elink
+- 备注：贴标 30% 目标（未坐实）；一页纸一次；回声后补核。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -133,8 +147,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Verdelon（品牌；瑞典法人未取 → 未坐实） |
+| 成立 | 未取（第 108 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 瑞典 |
-| 其他 | 官网 verdelon.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 verdelon.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 108 批：1 次检索（allabolag / bolagsverket 口径）未命中任何 Verdelon 法人（仅 Verdion AB 同名异主）→ 未坐实；自有品牌工业 PoE 交换机（贴 Elink）= **贴标 OEM 30% 目标，先一页纸一次，回声后补核法人再加厚**（第 108 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业以太网 / PoE 交换机 / MC / 电源（自有品牌 Verdelon）
 - **触达通道（公开）**：role: 工业网络自有品牌商（瑞典，现 Elink ODM）；region: 瑞典；contact: info@verdelon.com
@@ -182,7 +198,7 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-318/`；本节随档案重渲染刷新，实时看日志。
 

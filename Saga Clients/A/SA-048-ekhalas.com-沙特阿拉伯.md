@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -278,16 +278,16 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
-- **最近变化摘要**：2026-10-27 sitemap：新增 420 条：2026-09-20T11:53:40 www.ekhalas.com；2026-09-20T11:53:40 ?action=yith-woocompare-v
+- **监控层**：A 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **最近变化摘要**：2026-10-28 sitemap：新增 420 条：2026-09-20T11:53:40 www.ekhalas.com；2026-09-20T11:53:40 ?action=yith-woocompare-v
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-048/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.ekhalas.com/) | html | ReadTimeout: HTTPSConnectionPool(host='www.ekhalas.com', por | 2026-10-26T07:56:19Z | 官网首页（T27 快照状态 ok） |
-| [sitemap](https://www.ekhalas.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-27T08:02:45Z | 500 个 URL；最新 lastmod 2026-10-18T08:22:17 |
-| [news_1](https://www.ekhalas.com/blog/) | html | HTTP 429 | 2026-10-23T04:20:51Z | 导航「Blog」 |
-| [feed_auto](https://www.ekhalas.com/feed/) | rss | HTTP 429 | 2026-10-24T07:26:33Z | 首页自动发现的 feed |
+| [home](https://www.ekhalas.com/) | html | HTTP 200 | 2026-10-28T08:44:48Z | 22381 字符；首行：Best online Shopping in Saudi Arabia, Riyadh KSA |
+| [sitemap](https://www.ekhalas.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-28T08:44:48Z | 500 个 URL；最新 lastmod 2026-10-18T08:22:17 |
+| [news_1](https://www.ekhalas.com/blog/) | html | HTTP 404 | 2026-10-23T04:20:51Z | 导航「Blog」 |
+| [feed_auto](https://www.ekhalas.com/feed/) | rss | HTTP 404 | 2026-10-24T07:26:33Z | 首页自动发现的 feed |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -394,12 +394,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-10**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-11**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 75）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 75）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

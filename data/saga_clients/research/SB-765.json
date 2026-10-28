@@ -46,7 +46,14 @@
    "title": "Technical Manager",
    "email": "maxence@inv-technology.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Technical Manager（研究档；Noireaux 家族）= 收件人（第 108 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Alexandre Noireaux",
+   "role": "Président / 创始人（2015 起；1966 年生；manageo / societe.com）= 拍板人（抄送）（第 108 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.societe.com/societe/import-network-video-technology-inv-technologie-808965941.html"
   }
  ],
  "grade_override": null,
@@ -58,7 +65,9 @@
  },
  "company_facts": {
   "hq": "法国",
-  "other": "官网 inv-technology.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 inv-technology.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 108 批：科西嘉 Borgo 视频监控 / 门禁进口批发商，**自有品牌 DYNAVISION 已由中国 / 韩国合作厂代工近 10 年**；3–5 人；2025 营收 €760k → **贴标 OEM 30% 正中目标（Dynavision 标 PoE 交换机），B，加厚一次（small）**（第 108 批 官方登记核实 2026-10-28）",
+  "legal_name": "IMPORT NETWORK VIDEO TECHNOLOGY – INV-TECHNOLOGIE SAS（Dynavision；SIREN 808 965 941；TVA FR30808965941）",
+  "founded": "2015-01-22（第 108 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "视频监控 / 安防（自有品牌 Dynavision）",

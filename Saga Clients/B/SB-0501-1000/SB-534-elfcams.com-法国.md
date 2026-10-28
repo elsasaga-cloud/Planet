@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -80,6 +80,21 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 108 批（FR · 1 次检索：annuaire-entreprises.data.gouv.fr（ELFCAM；SIREN 844 111 856；siège 6-8 RUE DU TRAVY 94320 THIAIS，création 01/06/2025；NAF 47.91B）+ pappers（Création 20/11/2018；Effectif 3–5 2023；Dirigeant Liu Xia）+ societe.com（SARL；Xia LIU Gérant depuis 2018-12-04，né en 1988）+ lefigaro（capital 20.000 €；构成公告 Gérant M. LIU Xia；TVA FR36844111856）+ rubypayeur（activité e-commerce vidéosurveillance / télécom），2026-10-28 查；https://www.pappers.fr/entreprise/elfcam-844111856）：**
+
+- 法定名 / 登记号：ELFCAM SARL（elfcams.com；蒂埃 Thiais 6-8 rue du Travy, 94320（2025-06 起；前 Villejuif / Sartrouville / Meudon）；SIREN 844 111 856 RCS Créteil；TVA FR36844111856）— 2018-11-20 成立的光纤 / 网络设备电商（FTTx / 数据中心光缆、SFP、Cat6A–Cat8、PoE 交换机、10G 交换机、Starlink 配件；「Prix vente directe usine」自有品牌直销）；股本 €20,000；3–5 人；Gérant Xia LIU（1988 年生，华人）；研究档 KP Franck Dupont（contact@）；群发 3 次打开 · SIREN 844 111 856；TVA FR36844111856 · 状态 **Active** · 成立 2018-11-20 · SARL（华人业主；股本 €20,000）
+- 行业码 / 经营范围：光纤 / 网络设备电商（自有品牌「工厂直销」）
+- 注册地址：6-8 rue du Travy, 94320 Thiais
+- 规模档：小微（3–5 人）
+- 账目：—；—
+- 高管：Xia Liu（刘霞，译名待核）— Gérant / 业主（2018 起）= 拍板人
+- 高管：Franck Dupont — 研究档 KP（contact@elfcams.com）= 收件人
+- 控制人 / 股东：Xia Liu
+- **这意味着什么：**
+  - **华人自营的光纤 / 网络电商，自称工厂直销（大概率已有国内货源）→ 分销 20% small，一页纸一次（STC-028GP / STC-228GP / STC-110XGE 对照其 /poe-switch、/10g-switch 品类）；有回声再加厚**；华人业主 → 中文直联 Simon 定（默认否）
+  - 收件人 contact@ 直呼 Franck，抄 Xia Liu；3 次打开无回复 → 二次触达换切口；发信窗口 Thu 12–14 CET；法语一句引子
+- 备注：分销 20% small；一页纸一次；坐实（SIREN）；华人业主。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -123,15 +138,18 @@ updated: 2026-10-27
 - **【用户表】商业 PoE，外壳一般**
   > 商业POE 外壳普遍一般
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Franck Dupont（）contact@elfcams.com 〔用户表〕
+- **KP**：Franck Dupont（研究档联系人（contact@）= 收件人；拍板人 = gérant Xia Liu（第 108 批 官方登记核实 2026-10-28））contact@elfcams.com 〔用户表〕
+- **KP**：Xia Liu（Gérant / 业主（2018 起；1988 年生；华人）= 拍板人（抄送）；中文直联 Simon 定（默认否）（第 108 批 官方登记核实 2026-10-28）） 〔https://www.pappers.fr/entreprise/elfcam-844111856〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | ELFCAM SARL（SIREN 844 111 856；TVA FR36844111856；RCS Créteil） |
+| 成立 | 2018-11-20（第 108 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 法国 |
-| 其他 | 官网 elfcams.com，语言 fr-FR，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 elfcams.com，语言 fr-FR，快照状态 ok；角色判定来源：官网文案；第 108 批：Thiais 光纤 / 网络设备电商（自称工厂直销；3–5 人；股本 €20,000）→ **分销 20% small，一页纸一次**；华人业主（第 108 批 官方登记核实 2026-10-28） |
 
 - **业务线**：光缆 / 光模块 / 铜缆（自有品牌直销）；交换机 & PoE；Starlink 专业配件
 - **触达通道（公开）**：role: 自有品牌网络配件电商（工厂直销定位，OEM 采购）；region: 法国；contact: contact@elfcams.com
@@ -204,7 +222,7 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-26T07:56:19Z
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-26T07:56:19Z
 - **最近变化摘要**：2026-10-26 home：内容变化：+18 −6 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-534/`；本节随档案重渲染刷新，实时看日志。
 
@@ -228,7 +246,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Franck Dupont | — | contact@elfcams.com | 调研核实（公开页） | 用户表 |
+| Franck Dupont | 研究档联系人（contact@）= 收件人；拍板人 = gérant Xia Liu（第 108 批 官方登记核实 2026-10-28） | contact@elfcams.com | 调研核实（公开页） | 用户表 |
+| Xia Liu | Gérant / 业主（2018 起；1988 年生；华人）= 拍板人（抄送）；中文直联 Simon 定（默认否）（第 108 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.pappers.fr/entreprise/elfcam-844111856 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -322,12 +341,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

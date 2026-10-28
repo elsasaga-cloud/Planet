@@ -84,6 +84,20 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day; National Unity Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 108 批（IT · 1 次检索：marcomweb.it 首页 / Company info（MARCOM S.r.l.；via della Metallurgia 11 37139 Verona；P.IVA 03718740230；Paid in capital 20.000 €；Register of Enterprises of Verona）+ shop.marcomweb.it Meet Us（VAT 03718740230；SDI M5UXCR1；PEC amministrazione@pec.marcomweb.it；Share Capital €20.000）+ LinkedIn（2001；11–50；Telecomunicazioni）+ 网店品类（Switch industriale PoE；ISE2005 / ISE5308F-S；marchio Moxa），2026-10-28 查；https://www.marcomweb.it/en/company-info.html）：**
+
+- 法定名 / 登记号：MARCOM S.r.l.（marcomweb.it / shop.marcomweb.it；维罗纳 Bassone Via della Metallurgia 11, 37139；P.IVA 03718740230；Registro Imprese di Verona）— 2001 年起的工业自动化通信分销商（现场总线 / PLC / SCADA 软件、Moxa 工业交换机、工业路由器 2G–5G、LoRaWAN / Sigfox；网店自编 ISE 系列工业交换机 SKU）；股本 €20,000；11–50 人；表内「工业 FS 很多牌子」；群发 5 次打开 · P.IVA / CF 03718740230（REA 未取） · 状态 **Active** · 成立 2001 · S.r.l.（私有；股本 €20,000）
+- 行业码 / 经营范围：工业自动化 / 工业通信设备分销 + 自动化软件（Moxa 工业交换机、工业路由器、LoRaWAN）
+- 注册地址：Via della Metallurgia 11, 37139 Verona (VR)
+- 规模档：小型（11–50 口径）
+- 账目：—；—
+- 高管：（未具名）— 收件人 info@marcomweb.it / 网店 commerciale（点名 ufficio acquisti）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **卖 Moxa 的工业通信分销商，网店自编 ISE 系列工业交换机 SKU → 分销 20% + 小批量贴标可谈，B，加厚一次（small）**：STI-054GP / STI-144GP / STI-288DGGPM / STI-0240GE 一页纸 1:1 对照 Moxa EDS 口数价位；稿内不点名 Moxa
+  - 收件人 info@ 点名 ufficio acquisti；5 次打开无回复 → 二次触达换切口「a second-price industrial line beside your premium brand」；发信窗口 Thu 12–14 CET；意语一句引子
+- 备注：分销 20% + 贴标可谈；B；加厚一次（small）；坐实（P.IVA 官网 + 注册处名）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -116,8 +130,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | MARCOM S.r.l.（P.IVA / CF 03718740230；Registro Imprese di Verona） |
+| 成立 | 2001（第 108 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 marcomweb.it，语言 ?，快照状态 http_error；角色判定来源：待核 |
+| 其他 | 官网 marcomweb.it，语言 ?，快照状态 http_error；角色判定来源：待核；第 108 批：维罗纳工业自动化通信分销商（Moxa 工业交换机、工业路由器、LoRaWAN），网店自编 ISE 系列工业交换机 SKU；股本 €20,000；11–50 人 → **分销 20% + 贴标可谈，B，加厚一次（small）**；收件人 info@ 点名 ufficio acquisti（第 108 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业网络产品经销（意大利）
 - **触达通道（公开）**：role: 工业网络多品牌经销商（意大利）；region: 意大利；contact: info@marcomweb.it
@@ -160,7 +176,7 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1055/`；本节随档案重渲染刷新，实时看日志。
 

@@ -79,6 +79,21 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day；11-02 All Souls' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 108 批（LT · 1 次检索：rekvizitai.vz.lt（ENERGUS GROUP, UAB；Savanorių pr. 176C Vilnius；Manager Povilas Šidlauskas direktorius；įregistruota 2016-11-02；įstatinis kapitalas 27000 EUR；100 akcijų）+ okredo（304419130；PVM nuo 2017-11-17；EVRK 43.21.90；117 darbuotojų 2026-10-09）+ fsaskaita（128 darbuotojai；Pardavimo pajamos 12 954 561 € 2025）+ tax.lt（2025 pelnas 289 tūkst. €；133 darbuotojai 2026-06），2026-10-28 查；https://rekvizitai.vz.lt/en/company/energus_group/）：**
+
+- 法定名 / 登记号：UAB „ENERGUS GROUP“（energus.eu / energusgroup.com；维尔纽斯 Savanorių pr. 176C, LT-03154；įmonės kodas 304419130；PVM LT100011259419）— 2016-11-02 登记（Energus 品牌 2010 起）的电气 / 能源工程承包商（EVRK 43.21 建筑与构筑物电网安装：光伏电站、变电、充电桩、楼宇电气）；股本 €27,000；direktorius Povilas Šidlauskas；117–133 人（2026）；2025 营收 €12.95M、净利 €289k；15 辆登记车辆；表内「工业 FS」；群发 2 次打开 · Įmonės kodas 304419130；PVM LT100011259419 · 状态 **Aktyvi** · 成立 2016-11-02 · UAB（私有；100 股）
+- 行业码 / 经营范围：电气 / 能源工程承包（光伏、变电、充电桩；EVRK 43.21）
+- 注册地址：Savanorių pr. 176C, LT-03154 Vilnius
+- 规模档：中型（117–133 人）
+- 账目：2025 营收 €12,954,561；净利 €289k；—
+- 高管：Povilas Šidlauskas — Direktorius = 拍板人
+- 高管：（研究档联系人见 kp）— 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **130 人的能源工程承包商（光伏 / 变电项目要工业交换机做监控网）→ 集成 25%，B，一页纸一次（STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM 配 PV 监控柜与变电站）；有回声再加厚**；不谈 IEC 61850
+  - 2 次打开无回复 → 二次触达换切口「DIN-rail switches for PV monitoring cabinets」；发信窗口 Thu 12–14 EET；立陶宛语一句引子
+- 备注：集成 25%；B；一页纸一次；坐实（kodas + 财务）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -119,17 +134,18 @@ updated: 2026-10-28
 - **【用户表】展会：switch，拿彩页**
   > switch ，拿了彩页 / Daniel Suskevic / http://energus.eu/
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Daniel Šuškevič（Projektų vadovas（电气/火灾/安防报警/自动化系统项目经理）（LinkedIn 公开）；名录显示现任 Smartion UAB 董事（可能已离职））info@energus.eu（用户表，通用箱） —〔https://lt.linkedin.com/posts/daniel-%C5%A1u%C5%A1kevi%C4%8D-625bba1b7_projekt%C5%B3-vadovas-e-pva-er-gss-as-sistem%C5%B3-activity-6889582648549765120-1obe〕
+- **KP**：Daniel Šuškevič（Projektų vadovas（LinkedIn；可能已离职）→ 改点名 direktorius（第 108 批 官方登记核实 2026-10-28））info@energus.eu（用户表，通用箱） —〔https://lt.linkedin.com/posts/daniel-%C5%A1u%C5%A1kevi%C4%8D-625bba1b7_projekt%C5%B3-vadovas-e-pva-er-gss-as-sistem%C5%B3-activity-6889582648549765120-1obe〕
+- **KP**：Povilas Šidlauskas（Direktorius（rekvizitai / okredo）= 拍板人 / 收件人（info@energus.eu 点名）（第 108 批 官方登记核实 2026-10-28））info@energus.eu 〔https://rekvizitai.vz.lt/en/company/energus_group/〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 国别由表内「波兰」更正为「立陶宛」（country_fix，依据见加厚块）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 登记核对；国家更正 LT））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | UAB „Energus Group“（公司代码 304419130；VAT LT100011259419） |
-| 成立 | 2016-11-02（集团）/ Energus 2010 |
+| 法定名称 | UAB „ENERGUS GROUP“（įmonės kodas 304419130；PVM LT100011259419） |
+| 成立 | 2016-11-02（Energus 品牌 2010）（第 108 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Savanorių pr. 176C, LT-03154 Vilnius（+370 626 99994；uzklausos@energus.eu） |
-| 其他 | LINPRA 与建筑商协会成员；EU 能效/IoT 研发项目 |
+| 其他 | LINPRA 与建筑商协会成员；EU 能效/IoT 研发项目；第 108 批：维尔纽斯电气 / 能源工程承包商（光伏、变电、充电桩；117–133 人；2025 营收 €12.95M / 净利 €289k；股本 €27,000）→ **集成 25%，B，一页纸一次（STI 配 PV 监控柜 / 变电站；不谈 IEC 61850）**（第 108 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电气与自动化工程总包（零售中心、工业）；弱电/安防/火灾报警系统（守界：火警主系统不供）；能效与 IoT 能源管理平台
 - **触达通道（公开）**：网站: http://energus.eu/en/apie-mus/ · https://energus.lt/；电话: +370 626 99994（公开）；邮箱（公开）: uzklausos@energus.eu；info@energus.eu（用户表）
@@ -159,7 +175,7 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-571/`；本节随档案重渲染刷新，实时看日志。
 
@@ -179,7 +195,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Daniel Šuškevič | Projektų vadovas（电气/火灾/安防报警/自动化系统项目经理）（LinkedIn 公开）；名录显示现任 Smartion UAB 董事（可能已离职） | info@energus.eu（用户表，通用箱） / — | 调研核实（公开页） | https://lt.linkedin.com/posts/daniel-%C5%A1u%C5%A1kevi%C4%8D-625bba1b7_projekt%C5%B3-vadovas-e-pva-er-gss-as-sistem%C5%B3-activity-6889582648549765120-1obe |
+| Daniel Šuškevič | Projektų vadovas（LinkedIn；可能已离职）→ 改点名 direktorius（第 108 批 官方登记核实 2026-10-28） | info@energus.eu（用户表，通用箱） / — | 调研核实（公开页） | https://lt.linkedin.com/posts/daniel-%C5%A1u%C5%A1kevi%C4%8D-625bba1b7_projekt%C5%B3-vadovas-e-pva-er-gss-as-sistem%C5%B3-activity-6889582648549765120-1obe |
+| Povilas Šidlauskas | Direktorius（rekvizitai / okredo）= 拍板人 / 收件人（info@energus.eu 点名）（第 108 批 官方登记核实 2026-10-28） | info@energus.eu | 调研核实（公开页） | https://rekvizitai.vz.lt/en/company/energus_group/ |
 | Daniel Suskevic | — | info@energus.eu | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

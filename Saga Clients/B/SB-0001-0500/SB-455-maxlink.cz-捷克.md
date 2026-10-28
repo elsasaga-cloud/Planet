@@ -76,6 +76,20 @@ updated: 2026-10-28
 
 - 法定假日：10-28 Independent Czechoslovak State Day；11-17 Struggle for Freedom and Democracy Day and International Students' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 108 批（CZ · 1 次检索：maxlink.cz About / 页脚（MaxLink brand 2006；specific solutions according to ISP requirements；own solution WiFi antennas → passive / active PoE injectors, PoE switches, patch panels, assembly boxes, SFP modules；Sídlo společnosti Cvokařská 1216/8 31200 Plzeň）+ maxlink.eu O nás（2018 = 12 let）；运营法人未在检索中出现（btcomp / ipopular 等为经销商）；查不到即停，2026-10-28 查；https://www.maxlink.cz/en/about）：**
+
+- 法定名 / 登记号：MaxLink（maxlink.cz / maxlink.eu；品牌 2006 年起；总部 Plzeň–Lobzy Cvokařská 1216/8, 312 00）— 面向 ISP 的网络元件与配件「制造商品牌」（WiFi 天线、尾纤、SFP/SFP+/DAC（含 H3C / Cisco 兼容）、无源 / 有源 PoE 注入器（含 10G bt）、PoE 面板、PoE 交换机、安装箱）；运营法人名 / IČO 1 次检索未取（仅品牌页 + 经销商页）→ 部分坐实；表内「whole」; 群发 ≥3 次 · 未取（品牌；法人待补证） · 状态 **Active（站点 2026）** · 成立 品牌 2006 · 未取（私有）
+- 行业码 / 经营范围：ISP 网络配件自有品牌（天线 / SFP / PoE 注入器 / PoE 交换机）
+- 注册地址：Cvokařská 1216/8, 312 00 Plzeň–Lobzy
+- 规模档：未取
+- 账目：—；—
+- 高管：（未具名）— 收件人 官网表单 / info@maxlink.cz（点名 product manager PoE）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **已自贴 MaxLink 标 PoE 交换机 / 注入器 / SFP 的捷克 ISP 配件品牌 → 贴标 OEM 30% 正中目标，B BIG，加厚一次（STC-028GP / STC-228GP / STC-2224GP / STC-424XGGPM-280W + STI-054GP 1:1 对照其 PoE 交换机页）；只报 OEM 档；法人回声后补核**
+  - 群发无回复 → 二次触达换切口「a second OEM source for your MaxLink PoE switches」；发信窗口 Thu 12–14 CET；捷克语一句引子；稿内不点名 Ubiquiti / MikroTik
+- 备注：贴标 30% 目标；B BIG；加厚一次；部分坐实（品牌 + 地址）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -115,8 +129,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | MaxLink（品牌 2006 起；总部 Plzeň–Lobzy Cvokařská 1216/8；运营法人 / IČO 未取 → 部分坐实） |
+| 成立 | 品牌 2006（第 108 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 捷克 |
-| 其他 | 官网 maxlink.cz，语言 cs，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 maxlink.cz，语言 cs，快照状态 ok；角色判定来源：用户表；第 108 批：面向 ISP 的网络配件自有品牌（天线、SFP/SFP+/DAC、无源 / 有源 PoE 注入器含 10G bt、PoE 面板、**PoE 交换机**、安装箱）→ **贴标 OEM 30% 正中目标，B BIG，加厚一次（只报 OEM 档）；升 A 候选（回信即 A）；法人回声后补核**（第 108 批 官方登记核实 2026-10-28） |
 
 - **业务线**：WiFi 天线 / 尾纤 / PoE 注入器与面板 / SFP 模块（自有品牌）；PoE 交换机（自有 logo）
 - **触达通道（公开）**：role: 捷克网络配件品牌商（自有 logo，PoE/SFP，OEM 采购）；region: 捷克；contact: （表内无邮箱）
@@ -155,14 +171,14 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
-- **最近变化摘要**：2026-10-27 sitemap：新增 820 条： product； product； product； product； product； product； product； product…
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **最近变化摘要**：2026-10-28 sitemap：新增 820 条： product； product； product； product； product； product； product； product…
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-455/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.maxlink.cz/cs/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 3931 字符；首行：MaxLink - výrobce síťových prvků a příslušenství |
-| [sitemap](https://www.maxlink.cz/sitemap.xml) | sitemap | HTTP 200 | 2026-10-27T08:02:45Z | 900 个 URL；最新 lastmod - |
+| [home](https://www.maxlink.cz/cs/) | html | HTTP 200 | 2026-10-28T08:44:48Z | 3820 字符；首行：MaxLink - výrobce síťových prvků a příslušenství |
+| [sitemap](https://www.maxlink.cz/sitemap.xml) | sitemap | HTTP 200 | 2026-10-28T08:44:48Z | 900 个 URL；最新 lastmod - |
 
 ## 联系方式（已有 · 原值照录）
 

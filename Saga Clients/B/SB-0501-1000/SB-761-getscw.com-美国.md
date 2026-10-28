@@ -268,16 +268,16 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
-- **最近变化摘要**：2026-10-27 news_1：内容变化：+84 −2 行
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **最近变化摘要**：2026-10-28 news_2：内容变化：+120 −2 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-761/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.getscw.com/) | html | HTTP 200 | 2026-10-26T07:56:19Z | 5262 字符；首行：SCW - Commercial Security Cameras Systems for Businesses |
-| [sitemap](https://www.getscw.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-27T08:02:45Z | 900 个 URL；最新 lastmod 2026-10-27T07:30:36 |
-| [news_1](https://www.getscw.com/resources) | html | HTTP 200 | 2026-10-27T08:02:45Z | 14258 字符；首行：Resources |
-| [news_2](https://www.getscw.com/knowledge-base/the-ban) | html | HTTP 200 | 2026-10-26T07:56:19Z | 21831 字符；首行：Which Security Cameras are NDAA Compliant? \| SCW |
+| [home](https://www.getscw.com/) | html | HTTP 200 | 2026-10-28T08:44:48Z | 5260 字符；首行：SCW - Commercial Security Cameras Systems for Businesses |
+| [sitemap](https://www.getscw.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-28T08:44:48Z | 900 个 URL；最新 lastmod 2026-10-28T07:45:32 |
+| [news_1](https://www.getscw.com/resources) | html | HTTP 200 | 2026-10-28T08:44:48Z | 14256 字符；首行：Resources |
+| [news_2](https://www.getscw.com/knowledge-base/the-ban) | html | HTTP 200 | 2026-10-28T08:44:48Z | 21829 字符；首行：Which Security Cameras are NDAA Compliant? \| SCW |
 | [youtube](https://www.youtube.com/c/SCWcameras) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-10-01T23:25:49+00:00 PTZ Cameras Explained: Are Pan-Tilt-Zoom Cameras Right f |
 
 - **人工定期看（登录墙，不自动抓）**：LinkedIn: https://www.linkedin.com/company/getscw/

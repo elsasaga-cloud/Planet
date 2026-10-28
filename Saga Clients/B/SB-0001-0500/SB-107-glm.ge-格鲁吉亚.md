@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -90,6 +90,20 @@ updated: 2026-10-27
 - 【宗教】01-07：东正教圣诞
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 108 批（GE · 1 次检索：glm.ge（GLM Group - Solutions for Security and Telecommunications Systems；Tbilisi, Akaki-Tsereteli Ave.140；0322 05 08 28；© 2021-2026 GLM GROUP LTD.）+ yell.ge（GLM GROUP LTD；Didube, 140 Akaki Tsereteli Ave.；Security systems / Building management system）；companyinfo.ge / br.geostat.ge 未命中同名（GLG Group 400097300 ≠），2026-10-28 查；https://glm.ge/en/）：**
+
+- 法定名 / 登记号：GLM GROUP LTD（glm.ge；第比利斯 Didube Akaki Tsereteli Ave. 140）— 安防与电信系统方案商 + 电商（消防报警、CCTV / NVR、门禁、Wi-Fi、PoE；在售 ONV PoE 交换机并有自编号 GLMH1064PL = 贴标雏形）；格鲁吉亚 ს/კ（识别码）未取 → 部分坐实；群发 3 次打开 · ს/კ 未取（GLM GROUP LTD 站脚） · 状态 **Active（站点 2026）** · 成立 未取 · შპს / LTD（私有）
+- 行业码 / 经营范围：安防 / 电信系统方案 + 电商（CCTV、门禁、PoE 设备）
+- 注册地址：Akaki Tsereteli Ave. 140, Tbilisi（Didube）
+- 规模档：小型（推定）
+- 账目：—；—
+- 高管：（未具名）— 收件人 info@glm.ge（点名 procurement / 技术负责人）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **已给 ONV 交换机打自编号的格鲁吉亚安防电商 → 贴标 OEM 30% 可谈（GLM 标 PoE）+ 分销 20%，B，一页纸一次（STC-028GP / STC-228GP / STC-2224GP 1:1 对照 ONV-H1064PSD 类）；有回声再加厚**；稿内不点名 ONV
+  - 3 次打开无回复 → 二次触达换切口；发信窗口 Thu 12–14 GET（UTC+4）；俄语 / 英语双语一句引子
+- 备注：贴标 30% 可谈 + 分销 20%；B；一页纸一次；部分坐实。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -133,10 +147,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | GLM Group LLC（待核） |
-| 成立 | （待核） |
+| 法定名称 | GLM GROUP LTD（第比利斯 Didube；ს/კ 未取 → 部分坐实） |
+| 成立 | 未取（第 108 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Tbilisi, Georgia |
-| 其他 | 消防报警线（守界：仅供网络层） |
+| 其他 | 消防报警线（守界：仅供网络层）；第 108 批：安防 / 电信方案商 + 电商（CCTV、门禁、PoE），在售 ONV 交换机并自编号 GLMH1064PL → **贴标 30% 可谈 + 分销 20%，B，一页纸一次**；发信窗口 Thu 12–14 GET（第 108 批 官方登记核实 2026-10-28） |
 
 - **业务线**：消防报警 / CCTV / 门禁系统；网络与 PoE 设备（ONV 贴牌 + 自编号）
 
@@ -220,7 +234,7 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-107/`；本节随档案重渲染刷新，实时看日志。
 
@@ -335,12 +349,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 59）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 59）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

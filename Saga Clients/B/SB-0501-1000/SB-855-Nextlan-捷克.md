@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -85,6 +85,20 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 108 批（CZ · 1 次检索：rejstrik.penize.cz（NEXTLAN s. r. o.；IČO 25924826；Datum vzniku a zápisu 3. 8. 1999；Tovární 1112 Chrudim；C 14968/KSHK；DIČ CZ25924826）+ channeltrends（Specializovaný distributor；Axis / FLUKE / IMC / Microtest / SMC；sales@nextlan.cz；25 zaměstnanců）+ edb.cz（Lantech / Verax；6–25 zaměstnanců；obrat 10–50 mil. Kč）+ nextlan.cz 首页（Value Added Distributor … kamerové systémy, měřicí přístroje），2026-10-28 查；https://rejstrik.penize.cz/25924826-nextlan-s-r-o）：**
+
+- 法定名 / 登记号：NEXTLAN s. r. o.（nextlan.cz；赫鲁迪姆 Chrudim Tovární 1112, 537 01；IČO 25924826；DIČ CZ25924826；C 14968 KS Hradec Králové）— 1999-08-03 登记的网络 / 电信 VAD（Axis、Fluke Networks、IMC Networks、Lantech、SNMPc；B2C 子站 fluketestery.cz / netcam.cz / mediakonvertory.cz）；6–25 人；研究档：nextlan.cz 快照曾显示会计站 dgaccounting.cz（域名易主？经营状态待核）；群发 19 次无回复 3 次打开 · IČO 25924826；DIČ CZ25924826；C 14968 KSHK · 状态 **Active（登记）；经营活跃度待核（研究档域名异常）** · 成立 1999-08-03 · s.r.o.（私有）
+- 行业码 / 经营范围：网络 / 电信 增值分销（测试仪、摄像机、介质转换器、工业交换机 Lantech）
+- 注册地址：Tovární 1112, 537 01 Chrudim
+- 规模档：小型（6–25 人）
+- 账目：营业额 10–50 mil. Kč（edb 口径）；—
+- 高管：（未具名）— sales@nextlan.cz
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **19 次群发无回复 + 域名曾易主 → 不动；法人仍在册，若 Simon 点名可发一页纸（STI 1:1 对照 Lantech 口数）**
+  - 不进发送包；稿内不点名 Lantech / Axis
+- 备注：坐实（IČO）；不动（19 次无回复 + 活跃度存疑）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -120,8 +134,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | NEXTLAN s. r. o.（IČO 25924826；DIČ CZ25924826；C 14968 KS Hradec Králové） |
+| 成立 | 1999-08-03（第 108 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 捷克 |
-| 其他 | 官网 nextlan.cz，语言 cs，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 nextlan.cz，语言 cs，快照状态 ok；角色判定来源：用户表；第 108 批：Chrudim 网络 / 电信 VAD（Axis、Fluke、IMC、Lantech；6–25 人）仍在册，但 19 次群发无回复 + 研究档域名曾易主 → **不动**（第 108 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络设备分销（捷克，待核）
 - **触达通道（公开）**：role: 网络设备分销商（捷克，经营状态待核）；region: 捷克；contact: sales@nextlan.cz
@@ -198,7 +214,7 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-855/`；本节随档案重渲染刷新，实时看日志。
 
@@ -314,12 +330,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 29）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 29）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

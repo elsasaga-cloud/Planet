@@ -25,7 +25,20 @@
    "date": "2026-10-19"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Derek Finlay",
+   "role": "Sales Director（2007 MBO 核心；electric.ie）= 收件人（sales@woodcomm.ie 点名）（第 108 批 官方登记核实 2026-10-28）",
+   "email": "sales@woodcomm.ie",
+   "source": "https://electric.ie/wood-communications-celebrate-100-years-of-leadership-in-data-and-telecoms-infrastructure-solutions/"
+  },
+  {
+   "name": "Keith Mahony",
+   "role": "Managing Director（2005 起董事；vision-net / irishtrade）= 拍板人（抄送）（第 108 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.vision-net.ie/Company-Info/Wood-Communications-Limited-226087"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -34,11 +47,11 @@
   "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-013，W 批次调研 2026-10-19/20）"
  },
  "company_facts": {
-  "legal_name": "Wood Communications Ltd",
-  "founded": "",
+  "legal_name": "Wood Communications Limited（CRO 226087；PRL IE01544W）",
+  "founded": "1924（活动）；公司号 226087（第 108 批 官方登记核实 2026-10-28）",
   "hq": "Dublin 12, 爱尔兰",
   "size": "",
-  "other": "Planet 渠道档案 PB-013（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：否；最大未知：PLANET 在其交换机销量占比；采购决策人"
+  "other": "Planet 渠道档案 PB-013（2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json）；自有品牌：否；最大未知：PLANET 在其交换机销量占比；采购决策人；第 108 批：都柏林 Ballymount 老牌网络 / 布线 / 数据中心 / IP CCTV 分销商（Planet Technology 为其交换机品牌之一；2007-11 MBO 后管理层持有；11–50 人）→ **分销 20%，B BIG，加厚一次；次候选升 A**；UKCA 不适用（IE = CE）（第 108 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "分销商（IP/基础设施/安防分销，数据中心方向，约 16 人）"

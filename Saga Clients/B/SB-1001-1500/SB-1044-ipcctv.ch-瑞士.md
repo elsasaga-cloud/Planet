@@ -77,6 +77,21 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 108 批（CH · 1 次检索：ipcctv.ch Über（IP CCTV GmbH, Marthalerstrasse 5, CH-8447 Dachsen；Zweck Handel mit Kommunikations-, Sicherheits- und EDV-Systemen；Tautschnig Andreas Gesellschafter, Geschäftsführer, Einzelunterschrift；Uehlinger Andreas Gesellschafter；CHE-112.152.195；CH-020.4.030.130-0）+ kompass（Gründungsjahr 2004；Kapital 20’000 CHF；UID CHE-112.152.195；Andreas Tautschnig Geschäftsführer）+ dachsen.ch 名录（andy.tautschnig@ipcctv.ch）+ wlw（1–4 Mitarbeiter；Großhändler），2026-10-28 查；https://www.ipcctv.ch/info_ip_cctv.htm）：**
+
+- 法定名 / 登记号：IP CCTV GmbH（ipcctv.ch；达克森 Dachsen Marthalerstrasse 5, CH-8447（苏黎世州）；UID CHE-112.152.195）— 2004 年起的视频监控 / 门禁 / 可视对讲 贸易 + 服务商（CBC/GANZ、lunaIP / lunaHD 网络 + HD-CVI、BPT 对讲、WATEC；PoE 供电摄像机与录像）；股本 CHF 20,000；Gesellschafter / Geschäftsführer Andreas（Andy）Tautschnig；1–4 人；群发 2 次打开 · UID CHE-112.152.195；CH-020.4.030.130-0 · 状态 **Aktiv** · 成立 2004 · GmbH（Tautschnig / Uehlinger；股本 CHF 20,000）
+- 行业码 / 经营范围：视频监控 / 门禁 / 对讲 贸易 + 服务（批发 + 安装支持）
+- 注册地址：Marthalerstrasse 5, CH-8447 Dachsen
+- 规模档：小微（1–4 人）
+- 账目：—；—
+- 高管：Andreas（Andy）Tautschnig — Gesellschafter / Geschäftsführer = 拍板人 + 收件人（andy.tautschnig@）
+- 高管：Andreas Uehlinger — Gesellschafter
+- 控制人 / 股东：Tautschnig / Uehlinger
+- **这意味着什么：**
+  - **2 人瑞士 CCTV 批发 + 安装商 → 分销 20% small，一页纸一次（STC-028GP / STC-228GP 配其 PoE 摄像机）；有回声再加厚**；瑞士非欧盟 → 报价 DAP 注明清关由买方
+  - 收件人 andy.tautschnig@ 直呼 Andy；2 次打开无回复 → 二次触达换切口；发信窗口 Thu 12–14 CET；德语一句引子；稿内不点名 Dahua / CBC
+- 备注：分销 20% small；一页纸一次；坐实（UID）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -109,14 +124,17 @@ updated: 2026-10-28
 - **【用户表】CVI PoE 工业 FS SDI，围绕 CCTV**
   > CVI POE 工业FS SDI 主要是围绕着CCTV来的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Andreas (Andy) Tautschnig（Gesellschafter / Geschäftsführer（UID 公示 / kompass / dachsen.ch）= 拍板人 / 收件人（andy.tautschnig@ipcctv.ch）（第 108 批 官方登记核实 2026-10-28））andy.tautschnig@ipcctv.ch 〔https://www.ipcctv.ch/info_ip_cctv.htm〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | IP CCTV GmbH（UID CHE-112.152.195；CH-020.4.030.130-0） |
+| 成立 | 2004（第 108 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 瑞士 |
-| 其他 | 官网 ipcctv.ch，语言 de，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 ipcctv.ch，语言 de，快照状态 ok；角色判定来源：用户表；第 108 批：Dachsen (ZH) 视频监控 / 门禁 / 对讲贸易 + 服务（1–4 人；股本 CHF 20,000）→ **分销 20% small，一页纸一次**；瑞士非欧盟 → DAP 注明清关由买方（第 108 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IP / HD-CVI 视频监控；视频对讲 / 门禁对讲
 - **触达通道（公开）**：role: 瑞士 CCTV 与对讲方案商/分销；region: 瑞士；contact: info@ipcctv.ch
@@ -156,14 +174,14 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
-- **最近变化摘要**：2026-10-27 sitemap：新增 820 条：2008-07-23T23:01:11 km8100mdw.pdf；2008-07-23T23:01:15 km8100mxw.pdf；2008-07-23T23
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **最近变化摘要**：2026-10-28 sitemap：新增 820 条：2008-07-23T23:01:11 km8100mdw.pdf；2008-07-23T23:01:15 km8100mxw.pdf；2008-07-23T23
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1044/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://ipcctv.ch/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 8140 字符；首行：IP CCTV GmbH IP Videosysteme und Videosprechanlagen |
-| [sitemap](https://ipcctv.ch/sitemap.xml) | sitemap | HTTP 200 | 2026-10-27T08:02:45Z | 900 个 URL；最新 lastmod 2018-09-12T09:50:03 |
+| [sitemap](https://ipcctv.ch/sitemap.xml) | sitemap | HTTP 200 | 2026-10-28T08:44:48Z | 900 个 URL；最新 lastmod 2018-09-12T09:50:03 |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/ipcctvGmbH/
 
@@ -177,7 +195,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@ipcctv.ch | 用户表原值 | Clients/ 表 |
+| Andreas (Andy) Tautschnig | Gesellschafter / Geschäftsführer（UID 公示 / kompass / dachsen.ch）= 拍板人 / 收件人（andy.tautschnig@ipcctv.ch）（第 108 批 官方登记核实 2026-10-28） | andy.tautschnig@ipcctv.ch | 调研核实（公开页） | https://www.ipcctv.ch/info_ip_cctv.htm |
 
 - **通道建议**：企业邮箱可直发
 
@@ -212,7 +230,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：欧洲主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STC-28DGGPM 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -229,7 +247,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ✅ |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ✅ FS |
 | 采购量/预算 | ❓ 未确认 |

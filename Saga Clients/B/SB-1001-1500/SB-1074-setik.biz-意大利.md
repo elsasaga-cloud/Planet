@@ -80,6 +80,20 @@ updated: 2026-10-28
 
 - 法定假日：11-01 All Saints' Day; National Unity Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 108 批（IT · 1 次检索：ufficiocamerale（SETIK S.R.L.；P.IVA 09729650961；VIA SAN CARLO BORROMEO 78/B 20811 CESANO MADERNO (MB)；Rea 1910472；Data Iscrizione 09/01/2017；Fatturato € 3.890.337 2025；Dipendenti 10；Utile € 8.961；Capitale € 30.000）+ fatturatoitalia（REA MB 1910472；ATECO 47.91.1；Attiva）+ setik.biz 页脚（Sede Operativa Via Giovanni Cimabue 35 Lissone；Magazzino Via Guarenti 2/B）+ societe.com（法国分支 890 543 416 Radiée 30/11/2025），2026-10-28 查；https://www.ufficiocamerale.it/5024/setik-srl）：**
+
+- 法定名 / 登记号：SETIK S.R.L.（setik.biz；蒙扎-布里安扎 法定 Via San Carlo Borromeo 78/B, 20811 Cesano Maderno (MB)；运营 Via Giovanni Cimabue 35, 20851 Lissone；P.IVA 09729650961；REA MB-1910472）— 2017-01-09 登记的 CCTV / 报警 / 对讲 / 安防套件电商（Dahua、Hikvision、ZKTeco、TP-Link；poe 150 / switch 122 品类词频）；2025 营收 €3.89M、净利 €9k；10 人；股本 €30,000；法国分支 SETIK S.R.L. 890 543 416 已于 2025-11-30 注销；群发 2 次打开 · P.IVA / CF 09729650961；REA MB-1910472 · 状态 **Attiva** · 成立 2017-01-09 · S.r.l.（私有；股本 €30,000）
+- 行业码 / 经营范围：CCTV / 报警 / 安防套件 电商（ATECO 47.91.1）
+- 注册地址：Via San Carlo Borromeo 78/B, 20811 Cesano Maderno (MB)（运营 Lissone）
+- 规模档：小型（10 人；薄利）
+- 账目：2025 营收 €3,890,337；净利 €8,961；—
+- 高管：（未具名）— 收件人 info@setik.biz（点名 ufficio acquisti）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **€3.9M 薄利安防电商（PoE 交换机是其套件配件）→ 分销 20% small，一页纸一次（STC-028GP / STC-228GP / STC-2224GP 对照其在售 TP-Link 价位）；有回声再加厚**；稿内不点名 Dahua / Hikvision / TP-Link
+  - 2 次打开无回复 → 二次触达换切口「PoE switches priced for camera kits」；发信窗口 Thu 12–14 CET；意语一句引子
+- 备注：分销 20% small；一页纸一次；坐实（P.IVA + REA + 营收）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -113,8 +127,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Setik S.r.l.（待核） |
+| 法定名称 | SETIK S.R.L.（P.IVA 09729650961；REA MB-1910472） |
+| 成立 | 2017-01-09（第 108 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Lombardia, Italy（+39 0362） |
+| 其他 | 第 108 批：Cesano Maderno / Lissone 安防套件电商（Dahua / Hikvision / TP-Link；2025 营收 €3.89M、净利 €9k、10 人；法国分支 2025-11 注销）→ **分销 20% small，一页纸一次（PoE 交换机配摄像机套件）**（第 108 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防电商
 - **触达通道（公开）**：role: 电商 / 分销；region: 意大利
@@ -152,14 +168,14 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
-- **最近变化摘要**：2026-10-27 sitemap：新增 820 条：2025-03-31 407-video-surveillance；2025-03-31 407-videosurveillance；2025-03-31 407
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **最近变化摘要**：2026-10-28 sitemap：新增 820 条：2025-03-31 407-video-surveillance；2025-03-31 407-videosurveillance；2025-03-31 407
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1074/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.setik.biz/en/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 12111 字符；首行：CCTV Cameras, Alarm Systems and Security Kits \| Setik - Setik.biz |
-| [sitemap](https://www.setik.biz/sitemap.xml) | sitemap | HTTP 200 | 2026-10-27T08:02:45Z | 900 个 URL；最新 lastmod 2026-10-26 |
+| [home](https://www.setik.biz/en/) | html | HTTP 200 | 2026-10-28T08:44:48Z | 12078 字符；首行：CCTV Cameras, Alarm Systems and Security Kits \| Setik - Setik.biz |
+| [sitemap](https://www.setik.biz/sitemap.xml) | sitemap | HTTP 200 | 2026-10-28T08:44:48Z | 900 个 URL；最新 lastmod 2026-10-27 |
 
 ## 联系方式（已有 · 原值照录）
 

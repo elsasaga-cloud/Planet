@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -87,6 +87,21 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 108 批（FR · 1 次检索：manageo（IMPORT NETWORK VIDEO TECHNOLOGY - INV-TECHNOLOGIE；SIREN 808 965 941；SIRET 00038；TVA FR30808965941；Capital 5 000 €；Dirigeant Alexandre NOIREAUX；3 à 5 salariés；CA 760 070 € 2025；SAS；Borgo；créée janvier 2015）+ societe.com（Président depuis 22 janvier 2015，né en 1966）+ lefigaro（Rainbow Strada Vecchia 20290 Borgo）+ LinkedIn Alexandre Noireaux（DYNAVISION 代工于中国与韩国合作厂；premier importateur / grossiste en Corse），2026-10-28 查；https://www.societe.com/societe/import-network-video-technology-inv-technologie-808965941.html）：**
+
+- 法定名 / 登记号：IMPORT NETWORK VIDEO TECHNOLOGY – INV-TECHNOLOGIE SAS（Dynavision；inv-technology.com；上科西嘉 Borgo Rainbow Strada Vecchia, 20290；SIREN 808 965 941；TVA FR30808965941）— 2015-01 成立的科西嘉视频监控 / 门禁进口批发商，**自有品牌 DYNAVISION（按其工程师规格由中国 / 韩国合作厂代工近 10 年）**，在售 PoE 交换机 / 分离器 / 注入器；股本 €5,000；3–5 人；2025 营收 €760k；Président Alexandre Noireaux（1966 年生）；研究档 KP Maxence Noireaux（Technical Manager，家族）；群发 3 次打开 · SIREN 808 965 941；TVA FR30808965941 · 状态 **Active** · 成立 2015-01-22 · SAS（Noireaux 家族；股本 €5,000）
+- 行业码 / 经营范围：视频监控 / 门禁 进口批发 + 自有品牌 Dynavision（中韩代工）
+- 注册地址：Rainbow Strada Vecchia, 20290 Borgo（Haute-Corse）
+- 规模档：小微（3–5 人）
+- 账目：2025 营收 €760,070；—
+- 高管：Alexandre Noireaux — Président / 创始人（2015 起）= 拍板人（抄送）
+- 高管：Maxence Noireaux — Technical Manager（研究档 KP，maxence@）= 收件人
+- 控制人 / 股东：Noireaux 家族
+- **这意味着什么：**
+  - **已在中国代工自有品牌的科西嘉批发商 → 贴标 OEM 30% 正中目标（Dynavision 标 PoE 交换机配其摄像机），B，加厚一次（small，年收 €760k）**：STC-028GP / STC-228GP / STC-2224GP 一页纸 + 1:1 对照其在售 RG-ES2xx 类；只报 OEM 档；稿内不点名 Ruijie
+  - 收件人 maxence@ 直呼 Maxence，抄 Alexandre；3 次打开无回复 → 二次触达换切口「a second OEM source for your Dynavision switches」；发信窗口 Thu 12–14 CET；法语一句引子
+- 备注：贴标 30% 目标；B；加厚一次（small）；坐实（SIREN + 营收）。
+
 **官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
 
 - €1,266 ← 「Price, low to high Price, high to low Showing 1-9 of 9 item(s)  Quick view  View Detail Switch Manageable RG-ES228GS-P €1,266」（https://inv-technology.com/en/38-switch-manageable）
@@ -137,15 +152,18 @@ updated: 2026-10-27
 - **【用户表】商业 PoE 配件等**
   > 商业POE 配件等
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Maxence Noireaux（）maxence@inv-technology.com 〔用户表〕
+- **KP**：Maxence Noireaux（Technical Manager（研究档；Noireaux 家族）= 收件人（第 108 批 官方登记核实 2026-10-28））maxence@inv-technology.com 〔用户表〕
+- **KP**：Alexandre Noireaux（Président / 创始人（2015 起；1966 年生；manageo / societe.com）= 拍板人（抄送）（第 108 批 官方登记核实 2026-10-28）） 〔https://www.societe.com/societe/import-network-video-technology-inv-technologie-808965941.html〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | IMPORT NETWORK VIDEO TECHNOLOGY – INV-TECHNOLOGIE SAS（Dynavision；SIREN 808 965 941；TVA FR30808965941） |
+| 成立 | 2015-01-22（第 108 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 法国 |
-| 其他 | 官网 inv-technology.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 inv-technology.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 108 批：科西嘉 Borgo 视频监控 / 门禁进口批发商，**自有品牌 DYNAVISION 已由中国 / 韩国合作厂代工近 10 年**；3–5 人；2025 营收 €760k → **贴标 OEM 30% 正中目标（Dynavision 标 PoE 交换机），B，加厚一次（small）**（第 108 批 官方登记核实 2026-10-28） |
 
 - **业务线**：视频监控 / 安防（自有品牌 Dynavision）；PoE 交换机与配件（Ruijie）
 - **触达通道（公开）**：role: 安防品牌商/网店（法国科西嘉，Ruijie PoE 在售）；region: 法国；contact: contact@inv-technology.com、maxence@inv-technology.com
@@ -227,14 +245,14 @@ updated: 2026-10-27
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-27T08:02:45Z
-- **最近变化摘要**：2026-10-27 sitemap：新增 228 条：2020-10-09T14:26:03 33-accessories；2020-10-09T14:26:03 34-access-control-kits；202
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **最近变化摘要**：2026-10-28 sitemap：新增 228 条：2020-10-09T14:26:03 33-accessories；2020-10-09T14:26:03 34-access-control-kits；202
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-765/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://inv-technology.com/en/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 3355 字符；首行：Video surveillance and security in Corsica - Dynavision |
-| [sitemap](https://inv-technology.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-27T08:02:45Z | 308 个 URL；最新 lastmod 2020-10-09T14:26:03 |
+| [home](https://inv-technology.com/en/) | html | HTTP 200 | 2026-10-28T08:44:48Z | 3355 字符；首行：Video surveillance and security in Corsica - Dynavision |
+| [sitemap](https://inv-technology.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-28T08:44:48Z | 308 个 URL；最新 lastmod 2020-10-09T14:26:03 |
 | [news_1](https://inv-technology.com/en/blog/test-actu-dynavision-b1.html) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1370 字符；首行：INV-Technology |
 | [news_2](https://inv-technology.com/en/content/6-our-references) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2376 字符；首行：Our references |
 | [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCmR8v1WcK5Q0-KXFmQRbdUg) | rss | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-10-15T14:36:50+00:00 Tutoriel Ruijie RG-EST330FP \| Appairage et configuratio |
@@ -253,7 +271,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Maxence Noireaux | — | maxence@inv-technology.com | 调研核实（公开页） | 用户表 |
+| Maxence Noireaux | Technical Manager（研究档；Noireaux 家族）= 收件人（第 108 批 官方登记核实 2026-10-28） | maxence@inv-technology.com | 调研核实（公开页） | 用户表 |
+| Alexandre Noireaux | Président / 创始人（2015 起；1966 年生；manageo / societe.com）= 拍板人（抄送）（第 108 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.societe.com/societe/import-network-video-technology-inv-technologie-808965941.html |
 
 - **通道建议**：邮件已推送 17 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -346,12 +365,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

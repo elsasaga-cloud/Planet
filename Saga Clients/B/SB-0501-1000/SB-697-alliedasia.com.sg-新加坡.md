@@ -195,14 +195,14 @@ updated: 2026-10-28
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-27T08:02:45Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **最近变化摘要**：2026-10-28 news_1：内容变化：+953 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-697/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://alliedasia.com.sg/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 29464 字符；首行：Allied Asia – Your Trusted Connectivity Solutions |
-| [news_1](https://alliedasia.com.sg/whats-new/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 28967 字符；首行：whats new – Allied Asia |
+| [home](https://alliedasia.com.sg/) | html | HTTP 200 | 2026-10-28T08:44:48Z | 29562 字符；首行：Allied Asia – Your Trusted Connectivity Solutions |
+| [news_1](https://alliedasia.com.sg/whats-new/) | html | HTTP 200 | 2026-10-28T08:44:48Z | 29065 字符；首行：whats new – Allied Asia |
 | [feed_auto](https://alliedasia.com.sg/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 5 条；最新：Wed, 27 Sep 2017 15:52:53 Logitech SmartDock Runs the Analyst’s Gauntlet |
 
 ## 联系方式（已有 · 原值照录）
