@@ -1,12 +1,12 @@
 {
  "code": "XB-C1079",
  "name": "Dallmeier Components GmbH",
- "round": "W3-R06",
+ "round": "W3-R10",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "Dallmeier Components GmbH（DACH 视频安防分销）",
- "type_final": "Dallmeier Components GmbH（DACH 视频安防分销）",
- "size": "未量化",
+ "summary": "厂商自有 VAD（Dallmeier Components GmbH，Hamburg；Dallmeier 集团；18 人）",
+ "type_final": "厂商自有 VAD（Dallmeier Components GmbH，Hamburg；Dallmeier 集团；18 人）",
+ "size": "厂商自有 VAD（Dallmeier Components GmbH，Hamburg；Dallmeier 集团；18 人）",
  "brands_seen": [],
  "saga_line": "—",
  "fit": "",
@@ -17,6 +17,13 @@
    "quote": "",
    "url": "",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "Dallmeier 新闻稿：specialist installers in Germany…purchase components from…Dallmeier directly from the company's own distributor Dallmeier Components；Impressum info@d-components.com",
+   "quote": "Dallmeier establishes own distribution in Germany",
+   "url": "https://www.dallmeier.com/about-us/press-center/distribution-dallmeier-components"
   }
  ],
  "contacts": {
@@ -27,7 +34,7 @@
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
  "grade_final": "B",
- "grade_reason_final": "邮箱待补（下一轮网查）→ B 不动",
+ "grade_reason_final": "制造商自营分销（只走 Dallmeier 全线）→ B 不动；info@d-components.com 已记",
  "next_move": {
   "action": "不动",
   "angle": "",

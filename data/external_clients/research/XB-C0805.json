@@ -1,12 +1,12 @@
 {
  "code": "XB-C0805",
  "name": "Re-solution",
- "round": "W3-R06",
+ "round": "W3-R10",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "Re-solution（英国网络经销）",
- "type_final": "Re-solution（英国网络经销）",
- "size": "未量化",
+ "summary": "Cisco Premier Partner / 托管服务商（Re-solution Data Ltd，London；2–10 人；住房协会、智能楼宇）",
+ "type_final": "Cisco Premier Partner / 托管服务商（Re-solution Data Ltd，London；2–10 人；住房协会、智能楼宇）",
+ "size": "Cisco Premier Partner / 托管服务商（Re-solution Data Ltd，London；2–10 人；住房协会、智能楼宇）",
  "brands_seen": [],
  "saga_line": "—",
  "fit": "",
@@ -17,6 +17,13 @@
    "quote": "",
    "url": "",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "官网：Re-solution is a Cisco-certified partner…hello@re-solution.co.uk；LinkedIn 2–10 人、2015 起",
+   "quote": "Security first Cisco Experts. Specialising in Cisco Networks, Security, Datacentre & Cloud",
+   "url": "https://re-solution.co.uk/contact/"
   }
  ],
  "contacts": {
@@ -27,7 +34,7 @@
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
  "grade_final": "B",
- "grade_reason_final": "邮箱待补 → B 不动",
+ "grade_reason_final": "Cisco 系集成商，非分销 → B 不动；hello@re-solution.co.uk 已记",
  "next_move": {
   "action": "不动",
   "angle": "",

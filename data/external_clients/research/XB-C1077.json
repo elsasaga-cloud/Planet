@@ -1,11 +1,11 @@
 {
  "code": "XB-C1077",
  "name": "IT made in Germany / Brauns IT",
- "round": "W3-R06",
+ "round": "W3-R10",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "IT made in Germany / Brauns IT（Teltonika/Ubiquiti）",
- "type_final": "IT made in Germany / Brauns IT（Teltonika/Ubiquiti）",
+ "summary": "「IT made in Germany」网店（Brauns IT，Berlin 个体；Teltonika/Ubiquiti）",
+ "type_final": "「IT made in Germany」网店（Brauns IT，Berlin 个体；Teltonika/Ubiquiti）",
  "size": "未量化",
  "brands_seen": [],
  "saga_line": "—",
@@ -17,6 +17,13 @@
    "quote": "",
    "url": "",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "Impressum：IT made in Germany | Brauns IT Inh. Torsten Brauns…info@it-made-in-germany.de；Unternehmen 页：deutsche Hard- und Software…bündeln",
+   "quote": "Wir haben es uns zur Aufgabe gemacht, deutsche Hard- und Software auf it-made-in-germany.de zu bündeln",
+   "url": "https://it-made-in-germany.de/impressum/"
   }
  ],
  "contacts": {
@@ -27,7 +34,7 @@
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
  "grade_final": "B",
- "grade_reason_final": "小型 IT 商，邮箱待补 → B 不动",
+ "grade_reason_final": "「德国制造」定位与我方相悖 + 个体网店；info@it-made-in-germany.de 已记 → B 不动",
  "next_move": {
   "action": "不动",
   "angle": "",

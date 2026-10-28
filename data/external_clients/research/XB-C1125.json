@@ -1,12 +1,12 @@
 {
  "code": "XB-C1125",
  "name": "MR Datentechnik（IT零售商，多品牌PoE）",
- "round": "W3-R06",
+ "round": "W3-R10",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "MR Datentechnik（IT 零售/分销，多品牌 PoE）",
- "type_final": "MR Datentechnik（IT 零售/分销，多品牌 PoE）",
- "size": "未量化",
+ "summary": "IT 系统集成商 + 网店（MR Datentechnik Vertriebs- und Service GmbH，Nürnberg；1994 起；250–499 人）",
+ "type_final": "IT 系统集成商 + 网店（MR Datentechnik Vertriebs- und Service GmbH，Nürnberg；1994 起；250–499 人）",
+ "size": "IT 系统集成商 + 网店（MR Datentechnik Vertriebs- und Service GmbH，Nürnberg；1994 起；250–499 人）",
  "brands_seen": [],
  "saga_line": "—",
  "fit": "",
@@ -17,17 +17,30 @@
    "quote": "",
    "url": "https://mr-daten-shop.de/",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "unternehmen24：Gründung 08.12.1994…Mitarbeiter 250-499；官网 Kontakt info@mr-daten.de；网店 Impressum shop@mr-daten.de",
+   "quote": "MR Datentechnik Vertriebs- und Service GmbH Emmericher Strasse 13 90411 Nürnberg",
+   "url": "https://www.mr-daten-shop.de/de/impressum"
   }
  ],
  "contacts": {
   "email": "",
   "email_status": "缺",
-  "kp": []
+  "kp": [
+   {
+    "name": "Helge Schön",
+    "role": "Leitung Vertrieb",
+    "source": "https://www.nik-nbg.de/netzwerk/mitglieder/mr-datentechnik-vertriebs-und-service-gmbh/"
+   }
+  ]
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
  "grade_final": "B",
- "grade_reason_final": "零售为主，邮箱待补 → B 不动",
+ "grade_reason_final": "大型系统集成商，采购链长 → B 不动；info@mr-daten.de / shop@mr-daten.de 已记",
  "next_move": {
   "action": "不动",
   "angle": "",

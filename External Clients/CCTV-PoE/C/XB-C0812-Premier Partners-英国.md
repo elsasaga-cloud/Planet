@@ -1,30 +1,25 @@
-# XB-C0657 · Advanced Tech Solutions · 美国
+# XB-C0812 · Premier Partners · 英国
 
-> **现判 XB 慢慢跟进** ｜ 来源 CCTV-PoE `smartbyte/03-SmartByte海外客户开发清单.md`:405（其分级 B类） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W3-R06 2026-10-28）→ 下一动作 不动
+> **现判 XC 暂不管** ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:7469 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W3-R10 2026-10-28）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XB** — 主攻区渠道型买家，但来源库只给了官网/—，没有邮箱 → 先 XB，补到邮箱再升
-- 标记：smartbyte子库、缺联系
+- 研究后改级：XB → **XC**（W3-R10，来源库误把展会赞助计划当公司 → C 不动）；编号不变
+- 标记：缺联系
 - 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
 - 规则：编号一次分配、永不重排；深度研究后升降只改「等级」字段并移动文件夹（见 00-总索引）
 
 ## 2. 基本事实（来源库口径，未经本库复核）
 | 项 | 内容 |
 |---|---|
-| 公司 | Advanced Tech Solutions |
-| 国家 / 城市 | 美国 |
-| ISO | US |
+| 公司 | Premier Partners |
+| 国家 / 城市 | 英国 |
+| ISO | GB |
 | 网站 | — |
 | 类型 / 角色 | — |
 | 他们首推（仅参考，不照搬） | — |
-| 来源库分级 / 星级（仅参考） | B类 |
-| 来源章节 | SmartByte 海外客户开发清单 — 商业级管理型交换机 > 四、欧洲/CIS/美国（5家） > 36-38. 其他欧洲/CIS客户 |
-| 来源库字段·# | 37 |
-| 来源库字段·联系 | IT Alliance listing |
-| 来源库字段·推荐产品 | STC-424XGGM(L3) + STC-448XGGM(L3) |
-| 来源库字段·核心卖点 | CIS IT基础设施 |
-| 来源库字段·级别 | B |
-| 来源文件 | `smartbyte/03-SmartByte海外客户开发清单.md` 第 405 行 @ elsasaga-cloud/CCTV-PoE@9be1416 (arena/01a0c908-cctv-poe) |
+| 来源章节 | 海外客户开发清单 — Saga PoE交换机 > 102.99 UK安防展会 (IFSEC+Security Expo+Infosecurity, 600+展商) > International Security Expo 2026 — UK最活跃安防展 |
+| 来源文件 | `03-海外客户开发清单.md` 第 7469 行 @ elsasaga-cloud/CCTV-PoE@9be1416 (arena/01a0c908-cctv-poe) |
 
 ## 3. 联系方式
 - 邮箱：无（表单或待挖）
@@ -40,20 +35,19 @@
 
 ## 6b. 来源库原文块（原样，含其产品主张——不采信型号与价格）
 
-> | # | 公司 | 国家 | 联系 | 推荐产品 | 核心卖点 | 级别 |
-> | 37 | Advanced Tech Solutions | CIS | IT Alliance listing | STC-424XGGM(L3) + STC-448XGGM(L3) | CIS IT基础设施 | B |
+> - **Premier Partners**: Rohde & Schwarz, Multicontrol, **Smiths Detection**, CLD Physical Security, **Abloy**, Hirsch, Astrophysics, **Jacksons Fencing**, LINEV Systems UK, Pitagone, **Gallagher Security**, Varex Imaging, Selfcair, Inner Range, **Rapiscan Systems**, OpusApeiro, Nice(新)
 
 ## 7. 我方产品线提示
 - HRUI PoE 非管理型为主 + SmartByte PoE 管理型（安防/CCTV 渠道：价格 + 交期 + 长距 PoE）
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W3-R06，2026-10-28）
+## 8. 研究卡（第 2 步，W3-R10，2026-10-28）
 
-- **结论：XB** — 邮箱待补 → B 不动
+- **结论：XC** — 来源库误把展会赞助计划当公司 → C 不动
 - 活着吗：来源库 2026-09-28 核对在线；本轮未复查
-- 一句话：Advanced Tech Solutions（美国）
-- 是什么人：Advanced Tech Solutions（美国）；规模：未量化
+- 一句话：非公司（「Premier Partners」= International Security Expo 的赞助商计划名，名下为 Smiths Detection/Abloy/Hirsch 等展商）
+- 是什么人：非公司（「Premier Partners」= International Security Expo 的赞助商计划名，名下为 Smiths Detection/Abloy/Hirsch 等展商）；规模：未量化
 - 对口哪条线：—
 - 找得到人吗：（缺）；KP：无具名
 - 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
@@ -64,5 +58,6 @@
 | 类型 | 说明 | 摘录 | 来源 | 日期 |
 |---|---|---|---|---|
 | 来源库官网/名录核对 |  |  |  | 2026-09-28 |
+| 本轮网查 | ISE 官网：Our Premier Partners Programme is for companies with stands over 48sqm | Our Premier Partners Programme is for companies with stands over 48sqm | https://www.internationalsecurityexpo.com/premier-partners | 2026-10-28 |
 
 - 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。

@@ -1,15 +1,15 @@
 {
  "code": "XB-C1062",
  "name": "ModiTech Service GmbH / Digital Key World",
- "round": "W3-R06",
+ "round": "W3-R10",
  "researched_at": "2026-10-28",
  "alive": "来源库 2026-09-28 核对在线；本轮未复查",
- "summary": "ModiTech Service GmbH / Digital Key World（2N/SimonsVoss/SALTO）",
- "type_final": "ModiTech Service GmbH / Digital Key World（2N/SimonsVoss/SALTO）",
+ "summary": "视频/安防技术经销 + B2B 门户（ModiTech Service GmbH，Chemnitz；b2b.moditech.de；2N 等门禁/视频品牌；品牌 Digital Key World）",
+ "type_final": "视频/安防技术经销 + B2B 门户（ModiTech Service GmbH，Chemnitz；b2b.moditech.de；2N 等门禁/视频品牌；品牌 Digital Key World）",
  "size": "未量化",
  "brands_seen": [],
- "saga_line": "—",
- "fit": "",
+ "saga_line": "SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE",
+ "fit": "面向安装商的 B2B 经销，小公司决策快",
  "evidence": [
   {
    "kind": "来源库官网/名录核对",
@@ -17,26 +17,42 @@
    "quote": "",
    "url": "",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "shop.moditech.de 联系页：ModiTech Video- und Sicherheitstechnik…E-Mail: shop@moditech.de；b2b.moditech.de 为 B2B 订购门户；Impressum GF André Dietze",
+   "quote": "ModiTech Video- und Sicherheitstechnik André Dietze Bernsdorfer Straße 291 09125 Chemnitz",
+   "url": "https://shop.moditech.de/Ueber-uns/Kontakt"
   }
  ],
  "contacts": {
-  "email": "",
-  "email_status": "缺",
-  "kp": []
+  "email": "shop@moditech.de",
+  "email_status": "来源库公开邮箱",
+  "kp": [
+   {
+    "name": "André Dietze",
+    "role": "Geschäftsführer",
+    "source": "https://www.moditech.de/impressum/"
+   }
+  ]
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
- "grade_final": "B",
- "grade_reason_final": "门禁服务商为主，邮箱待补 → B 不动",
+ "grade_final": "A",
+ "grade_reason_final": "DE、B2B 经销、邮箱已补 → 升 A 首触（轻，排 2027-01-21 周四）",
  "next_move": {
-  "action": "不动",
-  "angle": "",
-  "model": "",
-  "price": "",
-  "window": "",
-  "when": "不动"
+  "action": "首触",
+  "angle": "分销三件套：HRUI 24 口 + SmartByte 24 口 L2+ + STI",
+  "model": "STC-2224GP / STC-424XGGPM-280W / STI-288DGGPM",
+  "price": "USD 86 / USD 170 / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "DE 周四 12–14",
+  "when": "2027-01-21"
  },
  "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
- "deep": false,
- "draft_en": null
+ "draft_en": {
+  "subject": "PoE switch line for your reseller channel - distributor pricing",
+  "body": "Hi,\n\nSaga Telecom supplies network and security distributors in Europe and North America with PoE and industrial switches; we are an engineering and supply-chain-first telecom partner, so you deal directly with the people who specify the product.\n\nThree PoE switches our distributor partners move most, all EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE, under our label or yours:\n\n- STC-2224GP: 24 x GE PoE+ (300 W) + 2 x GE + 2 x SFP, USD 86.\n- STC-424XGGPM-280W: 24 x GE PoE+ (280 W) + 4 x 10G SFP+, Marvell-based L2+ managed, USD 170.\n- STI-288DGGPM: DIN-rail industrial L2+, 8 x GE PoE+ (240 W) + 2 x SFP, -40 to +75 C, USD 137, 3-year warranty (12 months on the commercial units).\n\nWhich would be worth a sample for your installer customers first - the 24-port entry PoE switch or the DIN-rail unit?\n\nSimon\nSaga Telecom - sagatele.com"
+ },
+ "deep": false
 }
