@@ -4,7 +4,7 @@
   "source": "France · API Recherche d'entreprises（recherche-entreprises.api.gouv.fr：INSEE SIRENE + RNE + 年报，官方免费）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 13
+  "count": 14
  },
  "rows": {
   "SA-011": {
@@ -435,6 +435,37 @@
    ],
    "notes": "未坐实（1 查即停）→ 不动；可能线索 CG SYSTEMES 待证。",
    "code": "SB-155"
+  },
+  "SB-838": {
+   "batch": 111,
+   "name": "GMI DATABOX SAS（原 SARL；gmidatabox.fr；32 rue de Tournenfils, 91540 Mennecy；SIREN 320 290 190；RCS Évry；TVA FR28320290190）— 1980-11-18 成立的工业通信 / 电信 / 数据中心基础设施增值分销商 + 制造商（Moxa / CTC Union / Patton / GarrettCom / Winmate 等；DAXTEN 法国独家；自产机柜封闭 / 监控方案；1,000+ 客户）；Président Robert Gérard José Bugnet；6–9 名雇员；资本 €182,938；CA 2025 €1.59M（FY 09-30；2023 €1.17M）；表内 ventes@；群发 8 次无回复；官网快照 timeout",
+   "iso": "FR",
+   "fetched": "2026-10-28",
+   "source": "FR · 1 次检索：pappers.fr（GMI DATABOX；320 290 190；Active；32 RUE DE TOURNENFILS 91540 MENNECY；Commerce de gros de composants et d'équipements électroniques；Effectif 6–9 (2022)；Création 18/11/1980；Dirigeant Bugnet Robert；SAS；TVA FR28320290190；clôture 30/09）+ manageo（Capital 182 938 €；Robert Gérard José BUGNET；CA 1 589 859 € (2025)）+ verif（Président；CA 1 174 231 € bilan 30/09/2023）+ gmidatabox.fr/gmi-databox（Fondée en 1980；fabricant et distributeur；Mennecy；R&D / labo）+ locale.online（品牌 Moxa, CTC union, Patton, Garrettcom, Winmate, Telebyte, Icron, AKCP）；2026-10-28",
+   "url": "https://www.pappers.fr/entreprise/gmi-databox-320290190",
+   "number": "SIREN 320 290 190",
+   "status": "Active",
+   "incorporated": "1980-11-18",
+   "company_type": "SAS（原 SARL）",
+   "sic": [
+    "工业通信 / 电信 / 数据中心基础设施 增值分销 + 制造"
+   ],
+   "address": "32 rue de Tournenfils, 91540 Mennecy",
+   "accounts": "CA 2025 €1,589,859（2023 €1,174,231）",
+   "accounts_due": "FY 09-30",
+   "size_band": "小型（6–9 人）",
+   "officers": [
+    "Robert Gérard José Bugnet — Président（pappers / verif）= 拍板人 / 收件人（ventes@ 点名）"
+   ],
+   "psc": "Robert Bugnet（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老牌工业通信 VAD（台系 / Moxa 价位带）→ 分销 20% small，一页纸一次（换切口：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM 作第二价位 + 3 年保 + 法国 DAP；法语引子，ventes@ 点名 M. Bugnet）；有回声再加厚**",
+    "稿内不点名 Moxa / CTC Union / Patton；只提工业 / 能源 / 楼宇，不提轨交；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "分销 20% small；一页纸一次；坐实（SIREN + Président + CA）。",
+   "code": "SB-838"
   }
  }
 }

@@ -4,7 +4,7 @@
   "source": "Czechia · ARES 官方 API（ares.gov.cz）+ or.justice.cz 商业登记",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 18
+  "count": 21
  },
  "rows": {
   "SA-089": {
@@ -599,6 +599,99 @@
    ],
    "notes": "部分坐实（卷号不一致）；法人状态异常 → 不动。",
    "code": "SB-266"
+  },
+  "SB-520": {
+   "batch": 111,
+   "name": "ABCtech s.r.o.（abctech.cz；注册地 Nerudova 742, 552 03 Česká Skalice；门店 / 发货 Piletická 55/36, 500 03 Hradec Králové；IČO 27546624；DIČ CZ27546624；C 25333 KS Hradec Králové）— 2008-08-28 成立的网络设备 / 电子产品网店 + 批发（MikroTik / Ubiquiti / Cambium / TP-Link / Netis / RF Elements / Hikvision / Solarix / Carspa 逆变器；「možnost velkoobchodní spolupráce」；Heureka 1,304 评价）；股本 CZK 200k；jednatel Jan Hofman；表内「同行的，帧田的；也有 TP-Link 的」；群发 8 次无回复",
+   "iso": "CZ",
+   "fetched": "2026-10-28",
+   "source": "CZ · 1 次检索：finmag.cz（ABCtech s.r.o.；IČO 27546624；C 25333/KSHK；základní kapitál 200 000 Kč；vznikla 28. 8. 2008；sídlo Nerudova 742 Česká Skalice；kontaktní adresa Piletická 55/36 Hradec Králové）+ abctech.cz/o-nas（IČ 27546624；DIČ CZ27546624；Jednatel: Jan Hofman；reklamace@abctech.cz）+ firmy.cz（品牌 Mikrotik, Cambium, UBNT, TP-Link, RF Elements, Hikvision, Solarix）+ heureka（Mikrotik, Ubiquiti, Netis, TP-Link, H-tools, Solarix）；2026-10-28",
+   "url": "https://www.finmag.cz/obchodni-rejstrik/27546624-abctech-s-r-o",
+   "number": "IČO 27546624",
+   "status": "Aktivní",
+   "incorporated": "2008-08-28",
+   "company_type": "s.r.o.",
+   "sic": [
+    "网络设备网店 + 批发（WISP / MikroTik 渠道）"
+   ],
+   "address": "Nerudova 742, 552 03 Česká Skalice（门店 Piletická 55/36, Hradec Králové）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "Jan Hofman — jednatel（abctech.cz 法律信息）= 拍板人（收件人 info@ / obchod@ 点名）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**MikroTik / Ubiquiti 渠道网店（提供批发合作）→ 分销 20% small，一页纸一次（换切口：MikroTik / TP-Link 价位带之间的第二 PoE 货源 STC-028GP / STC-228GP / STC-2224GP + 捷克 DAP 小起订；捷语引子，info@ 点名 Jan Hofman）；再无回声 → 不动**",
+    "稿内不点名 MikroTik / Ubiquiti / TP-Link；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "分销 20% small；一页纸一次；坐实（IČO + 卷号 + jednatel）。",
+   "code": "SB-520"
+  },
+  "SB-748": {
+   "batch": 111,
+   "name": "dnaelektro.cz（经营者 Lukáš Wagner 个体工商户；IČO 74378945；DIČ CZ8509045446；注册地 Pod Císařkou 2454/1, 150 00 Praha 5；收发 Unhošťská 65, 273 51 Červený Újezd 与 DNA Group s.r.o. IČ 24282197 / GRW Company s.r.o. 共用）— 综合电子邮购网店（自称 45,000 种商品：网络路由器 / 交换机 / PoE 组件 / 游戏外设 / 汽车配件 Doplnkynaauto.cz）；表内「外壳比较杂」；群发 8 次无回复",
+   "iso": "CZ",
+   "fetched": "2026-10-28",
+   "source": "CZ · 1 次检索：dnaelektro.cz/obchodni-podminky（prodávající Lukáš Wagner；sídlo Pod Císařkou 2454/1 Praha 5；IČ 74378945；živnostenské oprávnění；doručování K Vodojemu 140 Chrášťany；dnaelektro@email.cz）+ /kontakt（výdejní místo Doplnkynaauto.cz, DNA Group s.r.o. a GRW Company s.r.o.；Unhošťská 65 Červený Újezd；IČ 24282197）+ internetoveobchody.cz（Provozovatel Lukáš Wagner；DIČ CZ8509045446）+ heureka（45.000 výrobků）；2026-10-28",
+   "url": "https://www.dnaelektro.cz/obchodni-podminky",
+   "number": "IČO 74378945（OSVČ）",
+   "status": "Aktivní（živnost）",
+   "incorporated": "—（个体）",
+   "company_type": "OSVČ（个体工商户）",
+   "sic": [
+    "综合电子 / 汽配 邮购网店"
+   ],
+   "address": "Pod Císařkou 2454/1, 150 00 Praha 5（收发 Unhošťská 65, Červený Újezd）",
+   "accounts": "—（个体，无公开账）",
+   "accounts_due": "—",
+   "size_band": "微型（个体）",
+   "officers": [
+    "Lukáš Wagner — 经营者（OSVČ）"
+   ],
+   "psc": "Lukáš Wagner",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**个体工商户综合网店（网络只是 45,000 SKU 中的一类；8 次无回复）→ 按「一人网店」规则 不动（主动询盘走零售价 / 预付款）**",
+    "关联实体 DNA Group s.r.o. IČ 24282197 仅记录"
+   ],
+   "notes": "不动（OSVČ 综合网店）；坐实（IČO + 经营者）。",
+   "code": "SB-748"
+  },
+  "SB-977": {
+   "batch": 111,
+   "name": "eltrox.cz（经营者 E-commerce Group, s.r.o.；注册地 Laca Novomeského 2630/13, 085 01 Bardejov, Slovensko；IČO 47589175；IČ DPH SK2024000066；OR Okresný súd Prešov Sro 31437/P）— 安防系统 / 智能家居跨境网店（CZ 站，另有 .sk / .pl 等站；Hikvision / Dahua / Ajax / Netgear / Ubiquiti；「vlastní sklady」）；联系人 Martin Kundrik（info@）；≠ 同名 Eltrox s.r.o. Ostrava IČO 29382289（安防安装商）；表内「Hasivo 的」「质量高」；群发 8 次无回复",
+   "iso": "CZ",
+   "fetched": "2026-10-28",
+   "source": "CZ/SK · 1 次检索：eltrox.cz/kontakty（E-commerce Group, s.r.o.；Laca Novomeského 2630/13 Bardejov；IČO 47589175；IČ DPH SK2024000066；Sro 31437/P Okresní soud Prešov；info@eltrox.cz）+ /obchodni-podminky（同一经营者）+ eltrox.cz 首页 schema（employee Martin Kundrik）+ info-ostrava.cz（Eltrox s.r.o. Ostrava IČO 29382289 = 另一家安装商，≠）+ heureka（4,4 满意度）；2026-10-28",
+   "url": "https://www.eltrox.cz/kontakty/",
+   "number": "IČO 47589175（SK）",
+   "status": "Aktívna",
+   "incorporated": "—（未取）",
+   "company_type": "s.r.o.（斯洛伐克法人）",
+   "sic": [
+    "安防 / 智能家居 跨境网店"
+   ],
+   "address": "Laca Novomeského 2630/13, 085 01 Bardejov, Slovensko（CZ 站点）",
+   "accounts": "未取（finstat 可取，未展开）",
+   "accounts_due": "—",
+   "size_band": "小型（跨境网店）",
+   "officers": [
+    "Martin Kundrik — 站点联系人（eltrox.cz schema；职务未取）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**斯洛伐克法人运营的 CZ/SK 安防网店（已上架 Hasivo 等白牌 PoE）→ 分销 20% small，一页纸一次（换切口：STC-028GP / STC-228GP / STC-2224GP 作摄像机套件 PoE SKU + 比价 + 斯洛伐克 DAP；捷 / 斯语引子）；有回声再加厚**",
+    "实体为斯洛伐克法人但站点面向捷克 → entities iso CZ 不改，registry 注明 SK；稿内不点名 Hasivo / Hikvision / Dahua；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "分销 20% small；一页纸一次；坐实（经营者 IČO + 卷号；成立日未取）。",
+   "code": "SB-977"
   }
  }
 }

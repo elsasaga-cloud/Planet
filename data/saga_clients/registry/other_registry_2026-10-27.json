@@ -4,7 +4,7 @@
   "source": "其他国家官方 / 准官方登记",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 119
+  "count": 124
  },
  "rows": {
   "SA-061": {
@@ -3791,6 +3791,166 @@
    ],
    "notes": "部分坐实（ΑΦΜ 待证）；非目标 → 不动。",
    "code": "SB-075"
+  },
+  "SB-514": {
+   "batch": 111,
+   "name": "ELECTRO PNEUMATIC SOLUTIONS DOO（商号 EP Solutions；ep-solutions.rs；贝尔格莱德 Daničareva 16, 11050 Beograd (Vračar)；PIB 108600536；MB 21032018）— 2014-07-17 成立的工业自动化 / 气动 / 工业机器人分销商（EPSON 工业机器人官方分销；Helmholz PROFINET 工业网络；变频器 / 软启动 / 伺服；办事处 Beograd / Novi Sad / Kraljevo）；研究档官网 257.cz 为误判（过期域名页），实体为 ep-solutions.rs；表内「几个有名气的牌子 工业 FS」；群发 8 次无回复",
+   "iso": "RS",
+   "fetched": "2026-10-28",
+   "source": "RS · 1 次检索：companywall.rs（ELECTRO PNEUMATIC SOLUTIONS DOO；DANIČAREVA 16 Beograd Vračar；Aktivan；PIB 108600536；MB 21032018；posluje od 17.7.2014；office@ep-solutions.rs）+ pretraga.cubepartner.rs（同址 + 电话）+ ep-solutions.rs/en（osnovan 2014 kao d.o.o.；kancelarije Beograd / Novi Sad / Kraljevo；EPSON 工业机器人官方分销）+ /industrijske-mreze（Helmholz PROFINET 合作）；2026-10-28",
+   "url": "https://www.companywall.rs/firma/electro-pneumatic-solutions-doo/MMQWGcDq",
+   "number": "MB 21032018 / PIB 108600536",
+   "status": "Aktivan",
+   "incorporated": "2014-07-17",
+   "company_type": "d.o.o.",
+   "sic": [
+    "工业自动化 / 气动 / 机器人 / 工业网络 分销"
+   ],
+   "address": "Daničareva 16, 11050 Beograd (Vračar), Srbija",
+   "accounts": "未取（companywall 可取，未展开）",
+   "accounts_due": "—",
+   "size_band": "小型（3 办事处）",
+   "officers": [
+    "（未取）— 收件人 office@ep-solutions.rs"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**工业自动化分销商（Helmholz PROFINET 线 + EPSON 机器人）→ 分销 20% small，一页纸一次（STI-054GP / STI-144GP / STI-288DGGPM 作 PROFINET 现场网络第二价位 + 塞尔维亚非欧盟 DAP 买方清关；塞语引子）；有回声再加厚**",
+    "研究档网址 257.cz 需改为 ep-solutions.rs（registry name 已记）；收件人 office@；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "分销 20% small；一页纸一次；坐实（PIB + MB + 地址）；研究档域名误判已注明。",
+   "code": "SB-514"
+  },
+  "SB-980": {
+   "batch": 111,
+   "name": "IP Voice Group Services B.V.（网店 ipvoiceshop.nl「Powered by IP Voice Group」；Grootzeil 1, 3891 KH Zeewolde；KvK 61046655；vestiging 000030181968）— 2011/2012 起的荷兰中小企业托管 VoIP / 云电话 / IT 服务商（Mitel Gold Partner、3CX、Vodafone SIP；ISO 27001；≈7 人）；网店（VoIP 话机 / TP-Link Omada / 耳机）快照显示「维护中」；表内「主要是 TP-Link 的商业交换机」；群发 15 次无回复",
+   "iso": "NL",
+   "fetched": "2026-10-28",
+   "source": "NL · 1 次检索：drimble.nl（IP Voice Group Services B.V.；Grootzeil Zeewolde；KVK 61046655；vestigingsnr 000030181968；BV）+ company.info（KVK 61046655；www.ipvoicegroup.com）+ ipvoiceshop.nl/shop（Powered by IP Voice Group；Grootzeil 1 3891 KH Zeewolde；info@ipvoiceshop.nl）+ ipvoicegroup.com（Sinds 2011；ISO 27001；eigen infrastructuur）+ rocketreach（7 employees；founded 2012）+ LinkedIn（Mitel / 3CX / Vodafone / HPE）；2026-10-28",
+   "url": "https://drimble.nl/bedrijf/zeewolde/30181968/ip-voice-group-services-bv.html",
+   "number": "KvK 61046655",
+   "status": "Actief",
+   "incorporated": "≈2014（KvK 号段；业务 2011）",
+   "company_type": "B.V.",
+   "sic": [
+    "托管 VoIP / 云电话 / IT 服务（附网店）"
+   ],
+   "address": "Grootzeil 1, 3891 KH Zeewolde",
+   "accounts": "未取（BV 微型）",
+   "accounts_due": "—",
+   "size_band": "微型（≈7 人）",
+   "officers": [
+    "（未取）— 收件人 info@ipvoiceshop.nl"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**VoIP 服务商（网店停摆、15 次无打开）→ 集成 25% small，一页纸一次（换切口：IP 话机部署的 PoE 配套 STC-028GP / STC-228GP + MOQ 1；荷语引子）；再无回声 → 不动**",
+    "稿内不点名 TP-Link / Mitel / 3CX；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "集成 25% small；一页纸一次；坐实（KvK + 地址）；网店维护中。",
+   "code": "SB-980"
+  },
+  "SB-333": {
+   "batch": 111,
+   "name": "YLI ETERNIT ACCES S.R.L.（商号 YLI Control Acces；yli.ro；Str. Haiducului 3A, 400040 Cluj-Napoca；CUI 19284558）— 2006 年创立的门禁 / 安防系统进口分销商（YLI 品牌罗马尼亚 + 匈牙利独家；ZKTeco / Dahua / Dorcas / Akuvox / UTEPO / Silin；办事处 Cluj / București / Budapesta；3,000+ B2B 客户；自有库存 24–48h 送达；eMAG 卖家；Senior ERP）；11–50 名雇员；KP Andreea Toderici（Security System Engineer）；表内「基本都是 UTEPO 的」；群发 18 次无回复",
+   "iso": "RO",
+   "fetched": "2026-10-28",
+   "source": "RO · 1 次检索：emag.ro 卖家页（YLI ETERNIT ACCES S.R.L.；STR. HAIDUCULUI NR.3A Cluj-Napoca 400040；CUI 19284558）+ yli.ro/compania（SC YLI ETERNIT ACCES SRL；sedii Cluj, Bucuresti si Budapesta；2006；distribuitori unici YLI RO + HU）+ revista-alarma.ro（18+ 年；3000+ clienți B2B；stocuri proprii）+ LinkedIn YLI CONTROL ACCES（11–50；品牌 YLI, ZKTeco, Dahua, Dorcas, Vtec, Akuvox, Quiko, BOOMX, UTEPO, Silin）+ kompass（Founded 2006）；2026-10-28",
+   "url": "https://www.emag.ro/ylietegj/10825/v",
+   "number": "CUI 19284558",
+   "status": "Activă",
+   "incorporated": "2006",
+   "company_type": "S.R.L.",
+   "sic": [
+    "门禁 / 安防 进口分销（RO + HU）"
+   ],
+   "address": "Str. Haiducului 3A, 400040 Cluj-Napoca",
+   "accounts": "未取（termene 可取，未展开）",
+   "accounts_due": "—",
+   "size_band": "中小型（11–50 人；3 办事处）",
+   "officers": [
+    "Andreea Toderici — Security System Engineer（研究档 KP；andreea.toderici@）= 收件人",
+    "（管理层未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**两国门禁分销商（已上架 UTEPO PoE）→ 分销 20%，B，加厚 small 一次（换切口：门禁 / 对讲 PoE 配套 STC-028GP / STC-228GP / STC-2224GP + 工业 STI-054GP；RO + HU 两国 DAP 小起订；罗语引子，andreea 直呼 + ofertare@ 抄）；回信 → 次候选**",
+    "稿内不点名 UTEPO / ZKTeco / Dahua；发信窗口 Thu 12–14 EET"
+   ],
+   "notes": "分销 20%；B 加厚 small；坐实（CUI + 地址 + 规模）；营收 / 管理层未取。",
+   "code": "SB-333"
+  },
+  "SB-479": {
+   "batch": 111,
+   "name": "EZY Infotech d.o.o.（全称 EZY Infotech društvo s ograničenom odgovornošću za trgovinu；ezy.hr；Ulica Miroslava Krleže 28, 40000 Čakovec + Zagreb Slavonska avenija 19（销售 / 仓）；OIB 79541484681；MBS 070061024；MB 01643550；Trgovački sud Varaždin）— 2002-05-16 成立的克罗地亚 IT 设备分销商（网络 / 光纤 / 无线 / PC 组件；PLANET 在售；MikroTik / Ubiquiti 培训；资本 HRK 830,000）；Direktor Branko Novosel；KP Petra Novosel（Managing Director）、David Dolenec（Product Manager）；11–50 名雇员；收入 ≈€6.68M（companywall）；群发 6 次无回复",
+   "iso": "HR",
+   "fetched": "2026-10-28",
+   "source": "HR · 1 次检索：companywall.hr（EZY Infotech d.o.o.；OIB 79541484681；MBS 070061024；Datum osnivanja 16.05.2002；Income 6.684.29…）+ poslovna.hr（Trgovački sud u Varaždinu；46.51；mali）+ infobiz.fina.hr（Matični broj 01643550）+ ezy.hr/kontakti（Temeljni kapital 830.000,00 kn；Direktor i član uprave Branko Novosel；Zagreb Slavonska avenija 19）+ LinkedIn（11–50；Čakovec；2002）；2026-10-28",
+   "url": "https://www.companywall.hr/tvrtka/ezy-infotech-doo/MM17CHn0",
+   "number": "OIB 79541484681 / MBS 070061024",
+   "status": "Aktivan",
+   "incorporated": "2002-05-16",
+   "company_type": "d.o.o.",
+   "sic": [
+    "IT / 网络设备 分销（克罗地亚）"
+   ],
+   "address": "Ulica Miroslava Krleže 28, 40000 Čakovec（+ Zagreb）",
+   "accounts": "收入 ≈€6.68M（companywall，年度未取）",
+   "accounts_due": "—",
+   "size_band": "中小型（11–50 人）",
+   "officers": [
+    "Branko Novosel — Direktor i član uprave（ezy.hr 法律信息）= 拍板人",
+    "Petra Novosel — Managing Director（研究档 KP；petra@）= 收件人",
+    "David Dolenec — Product Manager（研究档 KP）= 收件人（抄）"
+   ],
+   "psc": "Novosel 家族（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**克罗地亚两城 IT 分销商（€6.7M；在售台系 PLANET、做 MikroTik / Ubiquiti 培训）→ 分销 20%，B BIG，加厚一次（换切口：台系 / MikroTik 价位带之间的第二 PoE 货源 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + 工业 STI-054GP / STI-144GP；克罗地亚 DAP 小起订）；回信 → 次候选升 A**",
+    "稿内不点名 PLANET / MikroTik / Ubiquiti；收件人 Petra（直呼）+ David 抄；发信窗口 Thu 12–14 CET"
+   ],
+   "notes": "分销 20%；B BIG 加厚一次；坐实（OIB + MBS + Direktor + 收入）。",
+   "code": "SB-479"
+  },
+  "SB-483": {
+   "batch": 111,
+   "name": "MELBYE AS（商号 Melbye Skandinavia Norge AS；melbye.no / melbyefiber.com；Prost Stabels vei 22, 2019 Skedsmokorset；org.nr 941 009 697；Melbye Group AS 100% 子公司，集团 1907 创立）— 1986-05-26 成立的北欧关键基础设施方案供应商（电力 / 数据 / 光纤 / 移动 / 楼宇 / 安防；自产 + 分销；中央仓 Skedsmokorset + Jönköping；员工瑞典 / 英国 / 亚洲；EcoVadis 金级）；Daglig leder + styreleder Hege Nordahl；48–74 名雇员（集团 ≈115）；营业额 NOK 342M（≈€29M）；2025 税前利润 NOK 30.5M；KP Amber Miller（Customer & Logistics Coordinator，melbye.com）；表内「用的 AOA 的」；2 封自动回复；退信 te@melbye.com",
+   "iso": "NO",
+   "fetched": "2026-10-28",
+   "source": "NO · 1 次检索：proff.no（Melbye Skandinavia Norge AS；Org nr 941 009 697；Juridisk navn MELBYE AS；Registreringsdato 19.02.1995；Stiftelsesdato 26.05.1986；Antall ansatte 48；NACE 46.640；Daglig leder Hege Nordahl；Aksjekapital 1 160；Del av Melbye Group AS）+ gulesider（Omsetning 342 158 tkr；74 ansatte）+ 1881.no（Styrets leder / Daglig leder Hege Nordahl；Styremedlem Kim Edvardsen；Aksjonærer Melbye Group AS 100%）+ proff aksjonærer（Resultat før skatt 2025 30 539' NOK）+ melbye.no/om-oss（≈115 medarbeidere；Sverige / Storbritannia / Asia）+ no.wikipedia（1907；Hege Nordahl adm.dir.）；2026-10-28",
+   "url": "https://www.proff.no/selskap/melbye-skandinavia-norge-as/skedsmokorset/grossister/IFK93Q910NS",
+   "number": "org.nr 941 009 697",
+   "status": "Aktivt",
+   "incorporated": "1986-05-26",
+   "company_type": "AS（Melbye Group AS 100%）",
+   "sic": [
+    "关键基础设施 / 光纤 / 电力 / 安防 方案供应商（自产 + 分销）"
+   ],
+   "address": "Prost Stabels vei 22, 2019 Skedsmokorset",
+   "accounts": "营业额 NOK 342.2M；2025 税前利润 NOK 30.5M",
+   "accounts_due": "—",
+   "size_band": "中型（48–74 人；集团 ≈115）",
+   "officers": [
+    "Hege Nordahl — Daglig leder / Styrets leder（proff / 1881）= 拍板人",
+    "Kim Edvardsen — Styremedlem",
+    "Amber Miller — Customer and Logistics Coordinator（研究档 KP；amm@melbye.com）= 现有收件人（非决策）"
+   ],
+   "psc": "Melbye Group AS（100%；HCA Melbye AS + Melbye-Larsen Invest AS）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌光纤 / 基础设施产品 + NOK 342M 规模 → 贴标 / 配套 30% 目标，B BIG，加厚一次（换切口：光纤到边缘的配套 PoE / 工业交换机 STC-028GP / STC-228GP / STI-054GP / STI-144GP / STI-288DGGPM，可贴 Melbye 标 + 中性包装；挪威非欧盟 DAP 买方清关）；收件人改为产品 / 采购负责人（Amber 为物流协调员，非决策）；回信 → 次候选升 A**",
+    "稿内不点名 AOA；发信窗口 Thu 12–14 CET；te@melbye.com 已退信，不再用"
+   ],
+   "notes": "贴标 / 配套 30% 目标；B BIG 加厚一次；坐实（org.nr + 法定名 + 营业额 + 管理层）。",
+   "code": "SB-483"
   }
  }
 }
