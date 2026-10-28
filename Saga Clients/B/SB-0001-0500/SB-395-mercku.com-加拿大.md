@@ -82,6 +82,21 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 112 批（CA · 1 次检索：mercku.com/about-us（Founded in Canada's Waterloo technology hub in 2017；full-stack CPE）+ mercku.com/legals（founded September 2017 Waterloo；Prof. Yihong Qi, Dr. Fred Yu；450 patents）+ crunchbase（Legal Name Mercku Inc.；Founders Alex S. Qi, Fred Yu, Yihong Qi）+ contactout（51 Breithaupt St Kitchener ON N2H；11-50）+ LinkedIn（Kitchener；Ge SHI CEO）+ sourcefromontario（Staff 50；$1M+）；安省 / 联邦登记号未取；2026-10-28，2026-10-28 查；https://www.mercku.com/about-us/）：**
+
+- 法定名 / 登记号：Mercku Inc.（mercku.com；51 Breithaupt St, Kitchener, ON N2H（创立于 Waterloo）；2017-09 创立：Prof. Yihong Qi / Dr. Fred Yu / Alex Qi；450+ 专利）— Mesh Wi-Fi / CPE 品牌商（M2 / M6 Wi-Fi 6 EasyMesh、WISe 无线感知；面向 ISP 渠道；中国 / 日本 / 新加坡 / 欧洲有据点）；11–50 人（自报 50）；KP Ge Shi（研究档 Co-Founder；LinkedIn 现 CEO / 此前 CFO-COO）；**表内「商业 PoE 用的洪瑞（HRUI）的」→ 现供应商为我方合作厂 → Q-33 口径不跟**；27 封 0 打开 · 未取（登记号） · 状态 **Active** · 成立 2017-09 · Inc.
+- 行业码 / 经营范围：Mesh Wi-Fi / CPE 品牌（基奇纳 - 滑铁卢）
+- 注册地址：51 Breithaupt St, Kitchener, ON N2H
+- 规模档：小型（≈50 人）
+- 账目：未取（自报 $1M+）；—
+- 高管：Ge Shi — CEO（LinkedIn）/ Co-Founder（研究档 KP ge.shi@）
+- 高管：Alex Qi — Co-Founder（原 CEO）
+- 高管：Prof. Yihong Qi / Dr. Fred Yu — 创始人
+- 控制人 / 股东：创始团队
+- **这意味着什么：**
+  - **PoE 现由洪瑞（HRUI）供货 → Q-33「不碰，标记」→ 不动（B 保留；不发信、不报价；若对方主动来询再按 Simon 口径处理）**
+- 备注：Q-33 不跟 → 不动；部分坐实（法定名 + 址 + 创始人；登记号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -122,15 +137,17 @@ updated: 2026-10-28
 - **【用户表】商业 PoE 用的洪瑞的**
   > 商业POE 用的洪瑞的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Ge Shi（）ge.shi@mercku.com 〔用户表〕
+- **KP**：Ge Shi（CEO（LinkedIn；研究档 Co-Founder；此前 CFO / COO）— Q-33 不跟（第 112 批 官方登记核实 2026-10-28））ge.shi@mercku.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Mercku Inc.（51 Breithaupt St, Kitchener, ON N2H；2017-09 创立于 Waterloo：Prof. Yihong Qi / Dr. Fred Yu / Alex Qi；登记号未取；≈50 人） |
+| 成立 | 2017-09（第 112 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 加拿大 |
-| 其他 | 官网 mercku.com，语言 ?，快照状态 ok；角色判定来源：待核 |
+| 其他 | 官网 mercku.com，语言 ?，快照状态 ok；角色判定来源：待核；第 112 批：Mesh Wi-Fi / CPE 品牌商；**PoE 现由洪瑞（HRUI）供货 → Q-33「不碰，标记」→ 不动（B 保留；不发信、不报价）**（第 112 批 官方登记核实 2026-10-28） |
 
 - **业务线**：Mesh Wi-Fi 设备（自有品牌 Mercku）
 - **触达通道（公开）**：role: Wi-Fi 设备品牌商（加拿大，PoE 现 HRUI）；region: 加拿大；contact: connect@mercku.com、ge.shi@mercku.com
@@ -225,7 +242,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ge Shi | — | ge.shi@mercku.com | 调研核实（公开页） | 用户表 |
+| Ge Shi | CEO（LinkedIn；研究档 Co-Founder；此前 CFO / COO）— Q-33 不跟（第 112 批 官方登记核实 2026-10-28） | ge.shi@mercku.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 20 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

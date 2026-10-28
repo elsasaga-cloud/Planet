@@ -90,6 +90,21 @@ updated: 2026-10-28
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 112 批（CA · 1 次检索：canadacompanyregistry.com（Mapleye Technologies Corp.；16-207 Edgeley Boulevard Vaughan ON L4K 4B5；registered 09-Sep-2022；bn 704129105RC0001；corporation number 14357191；Canada Business Corporations Act；Active；Directors Elmir Mammadov / Aytan Mammadova）+ mapleye.com/about-mapleye（Mapleye Technologies Corporation；207 Edgeley Boulevard Vaughan）+ amazon.ca（Brand Mapleye 8MP PoE IP camera）+ LinkedIn AZECAM（Elmir Mammadov Founder/CEO；procurement specialists）+ rocketreach（Co-Founder Mapleye Technologies）；2026-10-28，2026-10-28 查；https://www.canadacompanyregistry.com/companies/mapleye-technologies-corp/）：**
+
+- 法定名 / 登记号：Mapleye Technologies Corp.（mapleye.com；16-207 Edgeley Boulevard, Vaughan, ON L4K 4B5；联邦公司号 14357191；BN 704129105RC0001；CBCA 2022-09-09 注册；Active；≤50 股东非发行公司）— 多伦多安防品牌 / 安装商（**自有品牌 Mapleye 摄像机 / NVR / PoE 套装（Amazon.ca 在售）**，姊妹公司 AZECAM Security Systems（安装 + 采购专员团队）；董事 Elmir Mammadov（= 研究档 KP Co-Founder）、Aytan Mammadova）；表内「PoE switch，HiSource 的」；26 封 0 打开 · 联邦公司号 14357191 / BN 704129105RC0001 · 状态 **Active** · 成立 2022-09-09 · Corp.（联邦 CBCA）
+- 行业码 / 经营范围：安防品牌 + 安装（沃恩 / 多伦多）
+- 注册地址：16-207 Edgeley Boulevard, Vaughan, ON L4K 4B5
+- 规模档：微型
+- 账目：未取；—
+- 高管：Elmir Mammadov — Director / Co-Founder（Corporations Canada；研究档 KP elmir@）= 拍板人 / 收件人
+- 高管：Aytan Mammadova — Director
+- 控制人 / 股东：Mammadov 家族
+- **这意味着什么：**
+  - **自有品牌 Mapleye（摄像机 / NVR / PoE 套装）+ 姊妹安装公司 → 贴标 30% small，B 加厚 small 一次（切口：Mapleye 标 PoE 交换机 STC-028GP / STC-228GP / STC-2224GP 配 4K 套装 + 中性包装 / 自编货号 + 小 MOQ + 加拿大 DAP；英文，Elmir 直呼）；回信 → 次候选**
+  - 稿内不点名 HiSource；发信窗口 CA Wed 08–10 ET；稿内 FCC / CE
+- 备注：贴标 30% small；加厚 small 一次；坐实（联邦公司号 + BN + 董事）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -133,15 +148,18 @@ updated: 2026-10-28
 - **【用户表】PoE switch，HiSource 的**
   > POE switch；hisource的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Elmir Mammadov（）elmir@mapleye.com 〔用户表〕
+- **KP**：Elmir Mammadov（Director / Co-Founder（Corporations Canada 14357191；elmir@；姊妹公司 AZECAM Security Systems Founder/CEO）= 拍板人 / 收件人（第 112 批 官方登记核实 2026-10-28））elmir@mapleye.com 〔用户表〕
+- **KP**：Aytan Mammadova（Director（Corporations Canada）（第 112 批 官方登记核实 2026-10-28）） 〔https://www.canadacompanyregistry.com/companies/mapleye-technologies-corp/〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Mapleye Technologies Corp.（联邦公司号 14357191；BN 704129105RC0001；CBCA 2022-09-09；16-207 Edgeley Boulevard, Vaughan, ON L4K 4B5；Active） |
+| 成立 | 2022-09-09（第 112 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 加拿大 |
-| 其他 | 官网 mapleye.com，语言 en-CA，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 mapleye.com，语言 en-CA，快照状态 ok；角色判定来源：官网文案；第 112 批：多伦多自有品牌安防（Mapleye 摄像机 / NVR / PoE 套装，Amazon.ca 在售）+ 姊妹安装公司 → **贴标 30% small，加厚 small 一次（Mapleye 标 STC-028GP / STC-228GP / STC-2224GP 配 4K 套装 + 中性包装 / 自编货号 + 小 MOQ + 加拿大 DAP；Elmir 直呼）**；稿内不点名 HiSource；旁线索 AZECAM Security Systems（第 112 批 官方登记核实 2026-10-28） |
 
 - **业务线**：视频监控系统（自有标套装）；配套 PoE 交换机 / NVR
 
@@ -251,7 +269,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Elmir Mammadov | — | elmir@mapleye.com | 调研核实（公开页） | 用户表 |
+| Elmir Mammadov | Director / Co-Founder（Corporations Canada 14357191；elmir@；姊妹公司 AZECAM Security Systems Founder/CEO）= 拍板人 / 收件人（第 112 批 官方登记核实 2026-10-28） | elmir@mapleye.com | 调研核实（公开页） | 用户表 |
+| Aytan Mammadova | Director（Corporations Canada）（第 112 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.canadacompanyregistry.com/companies/mapleye-technologies-corp/ |
 | hisource | — | info@mapleye.com / elmir@mapleye.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：邮件已推送 16 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板

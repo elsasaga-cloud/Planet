@@ -75,6 +75,21 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 112 批（NO · 1 次检索：proff.no（Foss AS Fiberoptisk Systemsalg；Org nr 936 010 229；Dansrudveien 45 3036 Drammen；Juridisk navn FOSS FIBER OPTICS AS；Registreringsdato 19.02.1995；Stiftelsesdato 02.11.1984；AS；65 ansatte；Regnskap 2026-03 Sum driftsinntekter 265 333 / Resultat før skatt 50 423 / Årsresultat 40 019 / Sum egenkapital 108 087（NOK 1000）；Aktivt）+ 1881.no（Aksjonærer Discoverie Nordic Holdings Ltd. 100%；Regnskap 2025 Årsresultat 36 190 000）+ proff 分部（NACE 27.310 Produksjon av optiske fiberkabler；66 ansatte）+ fossfibreoptics.com（Company id NO936010229MVA；info@foss-as.no；/sk/ 斯洛伐克站）；2026-10-28，2026-10-28 查；https://www.proff.no/selskap/foss-as-fiberoptisk-systemsalg/drammen/kabler-og-kraftledninger/IFH9Y4500OK-1）：**
+
+- 法定名 / 登记号：FOSS FIBER OPTICS AS（商号 Foss AS Fiberoptisk Systemsalg；fossfibreoptics.com / foss-as.no / fossfiberoptikk.no；Dansrudveien 45, 3036 Drammen（Postboks 3614, 3007 Drammen）+ Lillesand 分部 + 斯洛伐克办公室 office.sk@；org.nr 936 010 229；MVA）— 1984-11-02 创立（Foretaksregisteret 1995-02-19）的光纤系统供应商 + 光纤光缆制造商（NACE 27.310；数据 / 电信 / 宽带 / 数据中心 / 工业 MIL-DTL-38999；台系有源设备 + CWDM 在售）；65–73 名雇员；FY 2026-03 营业收入 NOK 265.3M、税前 NOK 50.4M、净利 NOK 40.0M、权益 NOK 108M；**股东 Discoverie Nordic Holdings Ltd. 100%（英国 discoverIE Group plc）**；股本 NOK 2.0M；KP Peter Fric（Purchases, Sales & Logistics，SK 办公室）；仅 1 封 GDPR 告知信 · org.nr 936 010 229 · 状态 **Aktivt** · 成立 1984-11-02（登记 1995-02-19） · AS（discoverIE 集团 100%）
+- 行业码 / 经营范围：光纤系统供应 + 光纤光缆制造（德拉门 / 利勒桑 / 斯洛伐克）
+- 注册地址：Dansrudveien 45, 3036 Drammen
+- 规模档：中型（65–73 人）
+- 账目：FY 2026-03 营业收入 NOK 265.3M / 税前 NOK 50.4M / 净利 NOK 40.0M；2025 净利 NOK 36.2M；—
+- 高管：Peter Fric — Purchases, Sales and Logistics（研究档 KP；office.sk@fossfibreoptics.com）= 收件人
+- 高管：（Daglig leder 未取；proff roller 可取）
+- 控制人 / 股东：Discoverie Nordic Holdings Ltd.（100%；discoverIE Group plc）
+- **这意味着什么：**
+  - **NOK 265M 光纤系统商、英国上市集团子公司、已售台系有源设备 → 贴标 / 配套 30% 目标，B BIG，加厚一次（切口：光纤系统配套的工业 MC / PoE 交换机 STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM + 商用 STC-228GP，可贴 Foss 标 + 中性包装；NO 非欧盟 DAP 买方清关、SK 办公室走欧盟 DAP；英文，Peter 直呼 + info@ 抄）；回信 → 次候选升 A**
+  - 光缆为其自产（Saga 不做光缆 / 光模块，不冲突）；稿内不点名台系品牌；发信窗口 Thu 12–14 CET
+- 备注：贴标 / 配套 30%；B BIG 加厚一次；坐实（org.nr + 法定名 + 账目 + 股东）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -117,15 +132,17 @@ updated: 2026-10-28
 - **【用户表】台湾品牌设备 / CWDM**
   > 卖一些台湾品牌的设备 / CWDM；销售平台
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Peter Fric（）office.sk@fossfibreoptics.com 〔用户表〕
+- **KP**：Peter Fric（研究档 KP（SK；FOSS FIBER OPTICS AS / discoverIE 集团）= 收件人（第 112 批 官方登记核实 2026-10-28））office.sk@fossfibreoptics.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | FOSS FIBER OPTICS AS（org.nr 936 010 229；Drammen；discoverIE Group plc 100%；FY2026-03 营收 NOK 265.3M；65–73 人） |
+| 成立 | 1984-11-02（第 112 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 挪威 |
-| 其他 | 官网 fossfibreoptics.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 fossfibreoptics.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 112 批：挪威光纤 / 工业通信配套制造分销（集团 discoverIE）→ **贴标 / 配套 30% B BIG，加厚一次（STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-488DGGPM 工业线贴标 + 中性包装 + 非欧盟 DAP 买方清关；Peter 直呼）**；升 A 候选；旁线索 discoverIE Group plc（第 112 批 官方登记核实 2026-10-28） |
 
 - **业务线**：光纤基础设施（光缆 / 配线 / 数据中心 / 工业）
 - **触达通道（公开）**：role: 光纤基础设施供应商（挪威/斯洛伐克，台湾品牌有源设备在售）；region: 挪威；contact: info@foss-as.no、office.sk@fossfibreoptics.com
@@ -215,7 +232,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Peter Fric | — | office.sk@fossfibreoptics.com | 调研核实（公开页） | 用户表 |
+| Peter Fric | 研究档 KP（SK；FOSS FIBER OPTICS AS / discoverIE 集团）= 收件人（第 112 批 官方登记核实 2026-10-28） | office.sk@fossfibreoptics.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

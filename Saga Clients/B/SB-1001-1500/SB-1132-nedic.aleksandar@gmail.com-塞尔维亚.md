@@ -28,7 +28,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -88,6 +88,20 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 112 批（RS · 1 次检索（Gmail 户 1 查即停）：LinkedIn（Aleksandar Nedić — NAT tech doo；Belgrade；Various integration projects；Telecommunications systems；Licence LT3 security systems maintenance and installation Issued Dec 2021 Expires Dec 2026；「Founder and owner of NAT tech」）；companywall 未查（人名→法人待证）；2026-10-28，2026-10-28 查；https://www.linkedin.com/in/aleksandar-nedi%C4%87-149940200/）：**
+
+- 法定名 / 登记号：Aleksandar Nedić（Gmail；塞尔维亚）— LinkedIn 同名「Founder and owner of NAT tech doo, Belgrade；电信 / 安防系统集成；安防系统安装维护许可 LT3（2021-12 → 2026-12）」（待证为同一人）；法人 NAT tech doo 的 PIB / MB 未取；2024-05-16 两封来信要目录 + 想订测试机，我方两次仅给 Drive 链接（我方欠答）；2026-09-15 推 16 口无回 · 未取（NAT tech doo PIB / MB 待证） · 状态 **未取** · 成立 未取 · d.o.o.（待证）
+- 行业码 / 经营范围：电信 / 安防 系统集成（贝尔格莱德，待证）
+- 注册地址：Belgrade（待证）
+- 规模档：微型（推定）
+- 账目：—；—
+- 高管：Aleksandar Nedić — Founder / owner NAT tech doo（LinkedIn，待证）= 收件人（Gmail）
+- 控制人 / 股东：Aleksandar Nedić（推定）
+- **这意味着什么：**
+  - **我方欠答户（两次只给链接）→ 集成 25% small，一页纸一次（切口：直接补上当年没给的东西——STC-028GP / STC-228GP / STC-2224GP 一口价 + MOQ 1 + 测试机预付款 + RS 非欧盟 DAP；英文，顺带一问公司名 / 公司邮箱）；回信 → 加厚**
+  - 发信窗口 Thu 12–14 CET
+- 备注：集成 25% small；一页纸一次（欠答补发）；部分坐实（人名 + LinkedIn 法人待证）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -125,7 +139,7 @@ updated: 2026-10-27
 - **【邮件】问价表与 MOQ**
   > Is there a price list and MOQ on your equipment? We have some peaces of equipment we are looking for. We are looking to expand our business in networking.
   > 来源：data/gmail_a|gmail_s/messages/<year>/<month>.jsonl（抓取 2024-05-16）
-- **KP**：Aleksandar Nedić（）nedic.aleksandar@gmail.com 〔data/gmail_a|gmail_s/messages/<year>/<month>.jsonl〕
+- **KP**：Aleksandar Nedić（NAT tech doo（LinkedIn 自述；贝尔格莱德；法人待证）= 收件人 / 拍板人（第 112 批 官方登记核实 2026-10-28））nedic.aleksandar@gmail.com 〔data/gmail_a|gmail_s/messages/<year>/<month>.jsonl〕
 - **调研后定级**：B（原自动 C）——欧洲（塞尔维亚）、两封主动来信、明确想买测试样机；断点在我们（让客户自己去 Drive 翻）；B 慢慢跟进。
 - 备注：典型「自助式回复」断点（Simon 2024 的做法）。
 
@@ -133,8 +147,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | （未知） |
+| 法定名称 | NAT tech doo（Beograd；仅 LinkedIn 自述，APR 登记未取 → 部分坐实） |
+| 成立 | 未取（第 112 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 塞尔维亚 |
+| 其他 | 第 112 批：塞尔维亚小型网络集成（我方欠答）→ **集成 25% small，一页纸一次（欠答补发：STC-028GP / STC-228GP / STC-2224GP 一口价 + 非欧盟 DAP 买方清关）**（第 112 批 官方登记核实 2026-10-28） |
 
 - **触达通道（公开）**：role: 经销/集成；region: 塞尔维亚
 - **风险/边界**：小体量；gmail 身份
@@ -198,7 +214,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Aleksandar Nedić | — | nedic.aleksandar@gmail.com | 调研核实（公开页） | data/gmail_a\|gmail_s/messages/<year>/<month>.jsonl |
+| Aleksandar Nedić | NAT tech doo（LinkedIn 自述；贝尔格莱德；法人待证）= 收件人 / 拍板人（第 112 批 官方登记核实 2026-10-28） | nedic.aleksandar@gmail.com | 调研核实（公开页） | data/gmail_a\|gmail_s/messages/<year>/<month>.jsonl |
 
 - **通道建议**：邮件已推送 14 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -296,12 +312,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 8）；人工/调研定级 → B
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 8）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

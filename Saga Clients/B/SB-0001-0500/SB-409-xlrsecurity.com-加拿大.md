@@ -90,6 +90,21 @@ updated: 2026-10-28
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 112 批（CA · 1 次检索：xlrsecurity.com（legalName XLR Security Inc.；1 High Meadow Pl Unit 15 Toronto；founder Jaeden Wiens）+ xlrsecurity.com/about（owned and operated by Jaeden Wiens；2022 opened；Uniview authorized distributor）+ xlrsecurity.com/blog/introducing-lysora（We're an authorized distributor for Lysora … USA buy from ENS Security）+ LinkedIn（2-10；Etobicoke；Founded 2022）+ bbb.org（XLR Security Inc；Jaeden Wiens）；安省 / 联邦登记号未取；2026-10-28，2026-10-28 查；https://www.xlrsecurity.com/about/）：**
+
+- 法定名 / 登记号：XLR Security Inc.（xlrsecurity.com；Unit 15 – 1 High Meadow Pl, Toronto (Etobicoke / North York), ON M9L 0A3；2022 年由 Jaeden Wiens 创立）— 面向全加拿大安装商 / 经销商的 CCTV 增值分销（Uniview 授权分销；Ruijie；**Lysora 云管理网络设备为第三方品牌（美国由 ENS Security 分销）、XLR 只是授权分销 → 研究档「自有品牌 Lysora」有误，更正**）；2–10 人；BBB 建档 2022-11；KP Jaeden Wiens（Founder / Account Manager）、June Wang（Project Coordinator）；26 封 0 打开 · 未取（登记号） · 状态 **Active** · 成立 2022 · Inc.
+- 行业码 / 经营范围：CCTV 增值分销（多伦多）
+- 注册地址：Unit 15 – 1 High Meadow Pl, Toronto, ON M9L 0A3
+- 规模档：微型（2–10 人）
+- 账目：未取；—
+- 高管：Jaeden Wiens — Founder / 业主（研究档 KP jaeden@）= 拍板人 / 收件人
+- 高管：June Wang — Project Coordinator
+- 控制人 / 股东：Jaeden Wiens
+- **这意味着什么：**
+  - **新创 2 年 CCTV 分销、PoE 卖第三方云管理品牌 → 分销 20% small，一页纸一次（切口：非云管理的普通 / 管理型 PoE STC-028GP / STC-228GP / STC-2224GP 作经销商第二价位 + MOQ 1 + 加拿大 DAP；英文，Jaeden 直呼）；再无回声 → 不动**
+  - 稿内不点名 Uniview / Lysora；发信窗口 CA Wed 08–10 ET
+- 备注：分销 20% small；一页纸一次；部分坐实（法定名 + 址 + 业主；登记号未取）；研究档「自有品牌 Lysora」更正为第三方品牌。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -134,7 +149,7 @@ updated: 2026-10-28
 - **【用户表】CCTV 为主、在用 Itoonertech 商业 PoE**
   > FS 主要是CCTV 在用Itoonertech商业POE
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Jaeden Wiens（）jaeden@xlrsecurity.com 〔用户表〕
+- **KP**：Jaeden Wiens（Founder / 业主（xlrsecurity.com legalName XLR Security Inc.；BBB）= 拍板人 / 收件人（第 112 批 官方登记核实 2026-10-28））jaeden@xlrsecurity.com 〔用户表〕
 - **KP**：June Wang（） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
@@ -142,8 +157,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | XLR Security Inc.（Unit 15 – 1 High Meadow Pl, Toronto, ON M9L 0A3；登记号未取；2–10 人） |
+| 成立 | 2022（第 112 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 加拿大 |
-| 其他 | 官网 xlrsecurity.com，语言 en-CA，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 xlrsecurity.com，语言 en-CA，快照状态 ok；角色判定来源：用户表；第 112 批：新创 CCTV 增值分销（Uniview 授权）；**研究档「自有云管理交换机品牌 Lysora」有误 — Lysora 为第三方品牌（美国由 ENS Security 分销），XLR 仅授权分销** → **分销 20% small，一页纸一次（非云管理 PoE STC-028GP / STC-228GP / STC-2224GP 作经销商第二价位 + MOQ 1 + 加拿大 DAP；Jaeden 直呼）**；稿内不点名 Uniview / Lysora（第 112 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防设备分销（视频监控 / 对讲 / 网络 / PoE 供电），面向安装商；自有品牌 Lysora 云管理交换机
 
@@ -261,7 +278,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Jaeden Wiens | — | jaeden@xlrsecurity.com | 调研核实（公开页） | 用户表 |
+| Jaeden Wiens | Founder / 业主（xlrsecurity.com legalName XLR Security Inc.；BBB）= 拍板人 / 收件人（第 112 批 官方登记核实 2026-10-28） | jaeden@xlrsecurity.com | 调研核实（公开页） | 用户表 |
 | June Wang | — | — | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 16 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板

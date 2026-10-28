@@ -79,6 +79,19 @@ updated: 2026-10-28
 - 窗口内无该国法定假日
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 112 批（CA · 1 次检索：cctv.technosources.ca/about + /contact（Technosource Smart Services Inc. … established in 2016；3000 Danforth Avenue Unit #4 Toronto ON M4C 1M7；4165612243；over 200 houses and 50 business places）+ zoominfo（Technosource Smart Services Inc.；3000 Danforth Ave Unit 4）；安省登记号未取；2026-10-28，2026-10-28 查；https://cctv.technosources.ca/about）：**
+
+- 法定名 / 登记号：Technosource Smart Services Inc.（technosources.ca；3000 Danforth Avenue, Unit #4, Toronto (Scarborough), ON M4C 1M7；2016 年成立）— 住宅 / 小商业 CCTV 安装与零售（自述已装 200 户住宅 + 50 家商铺；Swann / EZVIZ 套装、门铃、IPTV、网页设计兼营）；Gmail 备用邮箱；无 KP；13 封 0 打开；表内「小口商业 Switch；BDCOM」 · 未取（安省登记号） · 状态 **Active** · 成立 2016 · Inc.（安省）
+- 行业码 / 经营范围：住宅 / 小商业 CCTV 安装 + 零售（士嘉堡）
+- 注册地址：3000 Danforth Avenue, Unit #4, Toronto, ON M4C 1M7
+- 规模档：微型
+- 账目：未取；—
+- 高管：（业主未具名；info@ / Gmail）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **微型住宅安装商（零售套装、无 KP、0 打开）→ 不动（B 保留）**
+- 备注：不动（微型无 KP）；部分坐实（法定名 + 址 + 年份；登记号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -128,8 +141,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Technosource Smart Services Inc.（3000 Danforth Avenue, Unit #4, Toronto, ON M4C 1M7；安省登记号未取） |
+| 成立 | 2016（第 112 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 加拿大 |
-| 其他 | 官网 technosources.ca，语言 ?，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 technosources.ca，语言 ?，快照状态 ok；角色判定来源：官网文案；第 112 批：士嘉堡微型住宅 / 小商业 CCTV 安装 + 零售套装（无 KP、0 打开）→ **不动（微型无 KP；B 保留）**（第 112 批 官方登记核实 2026-10-28） |
 
 - **业务线**：CCTV 套装网店与安装
 - **触达通道（公开）**：role: CCTV 网店/安装商（加拿大，BDCOM 小口交换机）；region: 加拿大；contact: info@technosources.ca、technosources.ca@gmail.com

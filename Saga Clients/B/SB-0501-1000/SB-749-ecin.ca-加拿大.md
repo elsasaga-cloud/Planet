@@ -86,6 +86,23 @@ updated: 2026-10-28
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 112 批（CA · 1 次检索：LinkedIn（E.C.I. NETWORKS INC.；Montreal；11-50；Founded 1998；Wassim Mekkaoui President）+ businesswire 2024-10-30（E.C.I. Networks Acquires NoviFlow；Headquarters Rigaud Quebec；CEO Wassim Mekkaoui；Employees 18）+ signalhire（1405 Trans Canada Route Montreal H9P 2V9）+ theorg（Hassan Khanafer CTO；Eilidh Mekkaoui Global Sales Director）+ ecin.ca（SONiC switches, optics, TAPs, timing；120 sites case）；REQ NEQ 未取；2026-10-28，2026-10-28 查；https://www.ecin.ca/home）：**
+
+- 法定名 / 登记号：E.C.I. Networks Inc.（ECI Networks；ecin.ca；蒙特利尔 1405 Trans Canada Route, Dorval, QC H9P 2V9（BusinessWire 总部 Rigaud, QC）；1998 年创立）— 开放网络系统集成 / 分销（SONiC 白盒交换机「Ready-to-Plug」、1G–1.6T 光模块、网络 TAP / 分组代理 PacketMaestro、Microchip 时钟同步；2024-10 收购 NoviFlow（SRv6 / 可编程交换）；案例「120 站点边缘计算 + 开放交换」）；President / CEO Wassim Mekkaoui（2015–；研究档 KP）、CTO Hassan Khanafer（研究档 KP）、Global Sales Director Eilidh Mekkaoui；18 人；26 封 0 打开；表内「有 Utepo 的；工业 FS、SFP、DAC」 · 未取（NEQ） · 状态 **Active** · 成立 1998 · Inc.（魁北克）
+- 行业码 / 经营范围：开放网络 / 数据中心 系统集成 + 分销（蒙特利尔）
+- 注册地址：1405 Trans Canada Route, Dorval, QC H9P 2V9
+- 规模档：小型（18 人）
+- 账目：估 $1–10M；—
+- 高管：Wassim Mekkaoui — President / CEO（研究档 KP wassim.mekkaoui@）= 拍板人 / 收件人
+- 高管：Hassan Khanafer — CTO（研究档 KP）= 技术抄
+- 高管：Eilidh Mekkaoui — Global Sales Director
+- 控制人 / 股东：Mekkaoui 家族（推定）
+- 曾用名：NoviFlow（2024-10 并入）
+- **这意味着什么：**
+  - **DC 交换机客户优先级 + 多站点边缘项目 → 集成 / 分销 20–25% B BIG，加厚一次，CENTEC 敲门砖（切口：STH-2C24XF-HSI（24×25G+2×100G）/ STH-8C48DX-HSI（48×10G+8×100G）/ STH-32C-HSI（32×100G）作 120 站点级边缘 / 汇聚的固定配置 L3 第二来源 + 工业 STI 副线；英文，Wassim 直呼 + Hassan 抄，一问是否愿评估一台样机（付费））；回信 → 次候选升 A**
+  - 守界：稿内不声称 SONiC / ONIE 兼容（未验证），不点名 Utepo；发信窗口 CA Wed 08–10 ET
+- 备注：集成 / 分销 20–25%；B BIG 加厚一次（CENTEC 敲门砖）；部分坐实（法定名 + 址 + 高管 + 规模；NEQ 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -129,16 +146,18 @@ updated: 2026-10-28
 - **【用户表】有 Utepo 的；工业 FS（宇航外壳）SFP DAC**
   > 似乎是个分销商 有Upeto的；工业FS（宇航外壳） SFP DAC；有很多办事处
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Wassim Mekkaoui（）wassim.mekkaoui@ecin.ca 〔用户表〕
-- **KP**：Hassan Khanafer（） 〔用户表〕
+- **KP**：Wassim Mekkaoui（President / CEO（2015–；LinkedIn / businesswire）= 拍板人 / 收件人（第 112 批 官方登记核实 2026-10-28））wassim.mekkaoui@ecin.ca 〔用户表〕
+- **KP**：Hassan Khanafer（CTO（theorg）= 技术抄（第 112 批 官方登记核实 2026-10-28）） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | E.C.I. Networks Inc.（ECI Networks；1405 Trans Canada Route, Dorval, QC H9P 2V9（总部 Rigaud, QC）；NEQ 未取；18 人；2024-10 收购 NoviFlow） |
+| 成立 | 1998（第 112 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 加拿大 |
-| 其他 | 官网 ecin.ca，语言 en-US，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 ecin.ca，语言 en-US，快照状态 ok；角色判定来源：用户表；第 112 批：蒙特利尔开放网络 / 数据中心系统集成 + 分销（SONiC 白盒、光模块、TAP、时钟；120 站点边缘案例）→ **集成 / 分销 20–25% B BIG，加厚一次，CENTEC 敲门砖（STH-2C24XF-HSI / STH-8C48DX-HSI / STH-32C-HSI 作边缘 / 汇聚固定配置 L3 第二来源 + STI 副线；Wassim 直呼 + Hassan 抄，一问是否愿评估付费样机）**；升 A 候选；守界：稿内不声称 SONiC / ONIE 兼容（未验证），不点名 Utepo；旁线索 NoviFlow（第 112 批 官方登记核实 2026-10-28） |
 
 - **业务线**：开放网络（SONiC 交换机 / 光模块 / TAP）集成；工业交换机（Utepo，副线）
 - **触达通道（公开）**：role: 开放网络集成商/分销（加拿大，数据中心为主；工业 FS 为副线）；region: 加拿大；contact: sales@ecin.ca、wassim.mekkaoui@ecin.ca
@@ -247,8 +266,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Wassim Mekkaoui | — | wassim.mekkaoui@ecin.ca | 调研核实（公开页） | 用户表 |
-| Hassan Khanafer | — | — | 调研核实（公开页） | 用户表 |
+| Wassim Mekkaoui | President / CEO（2015–；LinkedIn / businesswire）= 拍板人 / 收件人（第 112 批 官方登记核实 2026-10-28） | wassim.mekkaoui@ecin.ca | 调研核实（公开页） | 用户表 |
+| Hassan Khanafer | CTO（theorg）= 技术抄（第 112 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 16 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

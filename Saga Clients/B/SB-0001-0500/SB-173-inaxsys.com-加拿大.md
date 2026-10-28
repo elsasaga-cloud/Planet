@@ -78,6 +78,20 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 112 批（CA · 1 次检索：inaxsys.com 新闻 2024-10（Inaxsys Security Systems Inc. 11685 Avenue Philippe-Panneton Montréal H1E 4M1；Mark McRae President）+ rocketreach（Founded 2004；24 employees；$5.4M；Mark McRae President）+ ajax.systems 2022-06-01（first official distributor of Ajax in Canada；Mark McRae 35 years）+ LinkedIn（11-50；Montréal；Founded 2004；POE network switches）+ Mark McRae LinkedIn 2026-10（ICT Protege 美国渠道经 ADI / Wesco）；REQ NEQ 未取；2026-10-28，2026-10-28 查；https://inaxsys.com/en/news-and-articles/details/inaxsys-at-security-canada-central-2024/）：**
+
+- 法定名 / 登记号：Inaxsys Security Systems Inc.（inaxsys.com；11685 Avenue Philippe-Panneton, Montréal (QC) H1E 4M1；2004 年创立）— 安防品牌 / 分销（Inaxsys 摄像机、Arkiv VMS、录像服务器、PoE 交换机；Ajax 加拿大首家官方分销（2022）；ICT Protege 美国渠道（2026）；经 ADI / Wesco 分销）；President Mark McRae（ex-Paradox / ADT；研究档 KP）、Alain Boisvert（VP International Sales）；22–24 人（$5.4–7.2M 估）；**表内「HRUI（洪瑞）的，贴了自己的牌子」→ 现供应商为我方合作厂 → Q-33 口径不跟**；6 封来信全为工单自动回复 · 未取（NEQ） · 状态 **Active** · 成立 2004 · Inc.（魁北克）
+- 行业码 / 经营范围：安防品牌 / 分销（蒙特利尔）
+- 注册地址：11685 Avenue Philippe-Panneton, Montréal, QC H1E 4M1
+- 规模档：小型（22–24 人）
+- 账目：估 $5.4–7.2M；—
+- 高管：Mark McRae — President（研究档 KP）
+- 高管：Alain Boisvert — VP International Sales（研究档 KP sales@）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **交换机现由洪瑞（HRUI）代工贴标 → Q-33「不碰，标记」→ 不动（B 保留；不发信、不报价）**
+- 备注：Q-33 不跟 → 不动；部分坐实（法定名 + 址 + 总裁；NEQ 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -122,15 +136,17 @@ updated: 2026-10-28
   > 有一部分是自己的 / 洪瑞的 贴了自己的牌子
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Alain Boisvert（）sales@inaxsys.com 〔用户表〕
-- **KP**：Mark McRae（） 〔用户表〕
+- **KP**：Mark McRae（President（inaxsys.com 2024 新闻；ex-Paradox / ADT）— Q-33 不跟（第 112 批 官方登记核实 2026-10-28）） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Inaxsys Security Systems Inc.（11685 Avenue Philippe-Panneton, Montréal, QC H1E 4M1；NEQ 未取；22–24 人；Ajax 加拿大首家官方分销 2022） |
+| 成立 | 2004（第 112 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 加拿大 |
-| 其他 | 官网 inaxsys.com，语言 ?，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 inaxsys.com，语言 ?，快照状态 ok；角色判定来源：用户表；第 112 批：蒙特利尔安防品牌 / 分销；**交换机现由洪瑞（HRUI）代工贴标 → Q-33「不碰，标记」→ 不动（B 保留；不发信、不报价）**（第 112 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防系统（自有品牌摄像机 / VMS / 录像机 / 电源）；PoE 交换机（HRUI 代工贴标）
 - **触达通道（公开）**：role: 加拿大安防品牌商（交换机现由 HRUI 代工贴标 → Q-33 口径，OEM 采购）；region: 加拿大；contact: sales@inaxsys.com、support@inaxsys.com
@@ -226,7 +242,7 @@ updated: 2026-10-28
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
 | Alain Boisvert | — | sales@inaxsys.com | 调研核实（公开页） | 用户表 |
-| Mark McRae | — | — | 调研核实（公开页） | 用户表 |
+| Mark McRae | President（inaxsys.com 2024 新闻；ex-Paradox / ADT）— Q-33 不跟（第 112 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

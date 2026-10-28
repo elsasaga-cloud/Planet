@@ -1,6 +1,6 @@
 # invidtech.com
 
-> **评级 B**　|　加拿大　|　档案编号 `SB-766`　|　优先级 ★★　|　状态：已推送 16 次·未回复
+> **评级 B**　|　美国　|　档案编号 `SB-766`　|　优先级 ★★　|　状态：已推送 16 次·未回复
 >
 > **类型**：北美安防品牌商（PoE 部分由深圳 Centro 供货，OEM 采购）（推断）　|　**历史关系**：推送 16 次（2024-05-10 → 2025-10-17）　|　**所在清单**：A优质名单(Canada)、AI评估(CA)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -9,7 +9,8 @@ code: SB-766
 rating: B
 rating_auto: B
 score: 32
-country: 加拿大
+country: 美国
+country_table: 加拿大  # 表内原填；调研纠正为 美国（research JSON country_fix）
 region: 北美
 website: invidtech.com
 type: 北美安防品牌商（PoE 部分由深圳 Centro 供货，OEM 采购）
@@ -82,18 +83,33 @@ updated: 2026-10-28
 
 - `invidtech.com` → Microsoft 365（MX：invidtech-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 
-**假日避让（加拿大 · 按下一步「2027-Q1」窗口 2027-01-01→2027-03-31）：**
+**假日避让（美国 · 按下一步「2027-Q1」窗口 2027-01-01→2027-03-31）：**
 
-- 法定假日：01-01 New Year's Day；03-26 Good Friday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 法定假日：01-01 New Year's Day；01-18 Martin Luther King Jr. Day；02-15 Washington's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
+
+**公司底数 · 第 112 批（US · 1 次检索：acornbids SAM 记录（Legal name INNOVATIVE VIDEO TECHNOLOGY, INC.；DBA INVID TECH；UEI C15VFM1N1VS6；CAGE 8N8G4；355 OSER AVE HAUPPAUGE NY 11788；NAICS 334111）+ gsaelibrary（47QTCA25D004R；joe.troiano@invidtech.com；Small Business）+ LinkedIn（Hauppauge NY；11-50；Founded 2016）+ rocketreach（13 employees；$7M）+ contactout（Joe Troiano President since 2016-09）；NY DOS 实体号未取；2026-10-28，2026-10-28 查；https://app.acornbids.com/contractors/C15VFM1N1VS6/innovative-video-technology-inc）：**
+
+- 法定名 / 登记号：INNOVATIVE VIDEO TECHNOLOGY, INC.（dba InVid Tech；invidtech.com；355 Oser Avenue, Hauppauge, NY 11788, USA（另 5 Adams Ave）；SAM UEI C15VFM1N1VS6 / CAGE 8N8G4；GSA 合同 47QTCA25D004R）— 2016 年创立的北美安防品牌（AI 摄像机 / NVR / 云存储 / 太阳能塔 / 商用 PoE 周边）；President Joe Troiano（研究档 KP）、Matt Troiano（Director of Sales）；11–50 人（RocketReach 13 人 / $7M）；**研究档国别 CA 有误 → 美国纽约州 → country_fix US**；表内「一部分商业 PoE、周边产品；Centro 的（深圳公司）」；26 封 0 打开 · SAM UEI C15VFM1N1VS6 / CAGE 8N8G4（NY DOS 号未取） · 状态 **Active（SAM 登记 E）** · 成立 2016 · Inc.（纽约州）
+- 行业码 / 经营范围：视频监控 品牌商（长岛）
+- 注册地址：355 Oser Avenue, Hauppauge, NY 11788, USA
+- 规模档：小型（11–50 人）
+- 账目：估 $7M（RocketReach）；—
+- 高管：Joe (Joseph) Troiano — President（SAM / GSA 联系人；研究档 KP joe.troiano@）= 拍板人 / 收件人
+- 高管：Matt Troiano — Director of Sales（研究档 KP）= 抄
+- 控制人 / 股东：Troiano 家族（推定）
+- **这意味着什么：**
+  - **自有品牌安防 + 商用 PoE 现由深圳同行供货 → 贴标 OEM 30% 目标，B，加厚 small 一次（切口：InVid 标 PoE 交换机 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM 作第二代工源 + 中性包装 / 自编货号 + FCC + 小 MOQ；英文，Joe 直呼）；回信 → 次候选**
+  - **country_fix US**（发信窗口 US Wed 08–10 ET）；守界：持 GSA 合同 → 稿内绝不提政府 / NDAA / TAA / GSA；不点名 Centro
+- 备注：贴标 30%；加厚 small 一次；坐实（SAM 法定名 + UEI + 地址 + 总裁）；country_fix US。
 
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | invidtech.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 加拿大 | 事实（用户表）|
+| 国家 | 美国 | 事实（用户表）|
 | 网站/域名 | invidtech.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 北美安防品牌商（PoE 部分由深圳 Centro 供货，OEM 采购） | 推断（据兴趣/备注关键词） |
 | 联系人 | Centro的 深圳公司 Joe / Joe Troiano / President / Matt Troiano / Director of Sales | 事实（用户表） |
@@ -131,16 +147,18 @@ updated: 2026-10-28
 - **【用户表】一部分商业 PoE 周边；Centro 的**
   > 一部分商业POE 周边产品；Centro的 深圳公司
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Joe Troiano（）joe.troiano@invidtech.com 〔用户表〕
-- **KP**：Matt Troiano（） 〔用户表〕
+- **KP**：Joe Troiano（President（SAM / GSA 联系人；joe.troiano@）= 拍板人 / 收件人（第 112 批 官方登记核实 2026-10-28））joe.troiano@invidtech.com 〔用户表〕
+- **KP**：Matt Troiano（Director of Sales = 抄（第 112 批 官方登记核实 2026-10-28）） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | INNOVATIVE VIDEO TECHNOLOGY, INC.（dba InVid Tech；SAM UEI C15VFM1N1VS6 / CAGE 8N8G4；355 Oser Avenue, Hauppauge, NY 11788, USA；GSA 47QTCA25D004R；NY DOS 号未取） |
+| 成立 | 2016（第 112 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 加拿大 |
-| 其他 | 官网 invidtech.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 invidtech.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 112 批：研究档国别 CA 有误 → 美国纽约州 → **country_fix US**；北美安防品牌（商用 PoE 现由深圳同行供货）→ **贴标 OEM 30%，加厚 small 一次（InVid 标 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM 第二代工源 + 中性包装 / 自编货号 + FCC + 小 MOQ；Joe 直呼）**；守界：持 GSA 合同，稿内绝不提政府 / NDAA / TAA / GSA；不点名 Centro（第 112 批 官方登记核实 2026-10-28） |
 
 - **业务线**：AI 安防摄像机 / NVR / 云存储（自有品牌）；配套 PoE 交换机（贴标）
 - **触达通道（公开）**：role: 北美安防品牌商（PoE 部分由深圳 Centro 供货，OEM 采购）；region: 加拿大；contact: sales@invidtech.com、joe.troiano@invidtech.com
@@ -246,8 +264,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Joe Troiano | — | joe.troiano@invidtech.com | 调研核实（公开页） | 用户表 |
-| Matt Troiano | — | — | 调研核实（公开页） | 用户表 |
+| Joe Troiano | President（SAM / GSA 联系人；joe.troiano@）= 拍板人 / 收件人（第 112 批 官方登记核实 2026-10-28） | joe.troiano@invidtech.com | 调研核实（公开页） | 用户表 |
+| Matt Troiano | Director of Sales = 抄（第 112 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 用户表 |
 | Centro | — | sales@invidtech.com / joe.troiano@invidtech.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：邮件已推送 16 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板

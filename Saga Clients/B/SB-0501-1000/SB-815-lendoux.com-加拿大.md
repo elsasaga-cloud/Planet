@@ -76,6 +76,20 @@ updated: 2026-10-28
 - 窗口内无该国法定假日
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 112 批（CA · 1 次检索：lendoux.com/en（Lendoux Specialized Store；data center / telecom / security / industrial instrumentation；LENDOUX Head Office Toronto Ontario；Sales.ca@ / info@）+ LinkedIn Rasel Haddadi（Lendoux CEO；Houper Manager 2013–；Shiraz University）+ zoominfo（Rasel Haddadi Regional Business Manager HOUPER Thornhill Ontario；CEO Lendoux Group 2024–）+ lendoux.com/en/manufacturer/houper-group（Houper Company is a Canadian brand … network, data center, ELV）；安省登记号未取；2026-10-28，2026-10-28 查；https://lendoux.com/en/）：**
+
+- 法定名 / 登记号：Lendoux（Lendoux Group / Lendoux Specialized Store；lendoux.com；Toronto, Ontario；法定名 / 安省登记号未取）— 数据中心 / 电信网络 / 安防 / 工业仪表的多品牌目录式商店（时间服务器 15+ 品牌、IPTV、周界防护、XPON、「ordinary / office / data center / industrial / military」交换机类目）；**CEO Rasel Haddadi 同时任 HOUPER（Thornhill, ON）区域经理，站内把 Houper 列为「加拿大品牌」→ 疑自有 / 关联品牌**；2 封 0 打开；表内「也有光路的工业 FS」 · 未取（安省 / 联邦登记号） · 状态 **Active（站点活跃，2025 博文）** · 成立 ≈2024（LinkedIn 任期） · 未取
+- 行业码 / 经营范围：IT / 电信 / 安防 / 仪表 目录式商店（多伦多）
+- 注册地址：Toronto, Ontario（街道未取）
+- 规模档：微型
+- 账目：—；—
+- 高管：Rasel Haddadi — CEO（LinkedIn；研究档 KP）= 拍板人 / 收件人（info@ / Sales.ca@）
+- 控制人 / 股东：Rasel Haddadi（推定）
+- **这意味着什么：**
+  - **目录式商店 + 关联自有品牌 Houper → 贴标 30% small，一页纸一次（切口：Houper / Lendoux 标工业 FS / MC STI-054GP / STI-144GP / STI-154GP + 商用 STC-2224GP 作目录第二价位 + 中性包装 + 加拿大 DAP；英文，Rasel 直呼）；有回声再加厚**
+  - 守界：站内有「military」类目 → 稿内只谈商用 / 工业，绝不提军用；发信窗口 CA Wed 08–10 ET
+- 备注：贴标 30% small；一页纸一次；部分坐实（CEO + 城市；法人号未取）。
+
 **官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
 
 - $29,160 ← 「00 Price      Edgecore Datacenter switch DCS810-AS9516-32D-with 32X400G Switch and router store $29,160」（https://lendoux.com/）
@@ -111,15 +125,17 @@ updated: 2026-10-28
 - **【用户表】也有光路的工业 FS**
   > 也有光路的工业FS
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Rasel Haddadi（）info@lendoux.com 〔用户表〕
+- **KP**：Rasel Haddadi（CEO（LinkedIn；同时任 HOUPER 区域经理 → Houper 疑为关联自有品牌）= 拍板人 / 收件人（第 112 批 官方登记核实 2026-10-28））info@lendoux.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Lendoux / Lendoux Group（Toronto, ON；法定名 / 登记号未取） |
+| 成立 | ≈2024（LinkedIn 任期）（第 112 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 加拿大 |
-| 其他 | 官网 lendoux.com，语言 en，快照状态 parked_or_empty；角色判定来源：待核 |
+| 其他 | 官网 lendoux.com，语言 en，快照状态 parked_or_empty；角色判定来源：待核；第 112 批：多伦多目录式 IT / 安防 / 仪表商店 + 关联品牌 Houper → **贴标 30% small，一页纸一次（Houper / Lendoux 标 STI-054GP / STI-144GP / STI-154GP + STC-2224GP 作目录第二价位 + 中性包装 + 加拿大 DAP；Rasel 直呼）**；守界：站内有「military」类目，稿内只谈商用 / 工业（第 112 批 官方登记核实 2026-10-28） |
 
 - **业务线**：数据中心 / 电信 / 安防 / 工业仪表多品牌商店（加拿大）
 - **触达通道（公开）**：role: 多品牌 IT/工业设备商店（加拿大，工业 FS 现光路）；region: 加拿大；contact: info@lendoux.com
@@ -178,7 +194,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Rasel Haddadi | — | info@lendoux.com | 调研核实（公开页） | 用户表 |
+| Rasel Haddadi | CEO（LinkedIn；同时任 HOUPER 区域经理 → Houper 疑为关联自有品牌）= 拍板人 / 收件人（第 112 批 官方登记核实 2026-10-28） | info@lendoux.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

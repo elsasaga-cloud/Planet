@@ -1,6 +1,6 @@
 # ovisscctv.com
 
-> **评级 B**　|　加拿大　|　档案编号 `SB-096`　|　优先级 ★★　|　状态：已推送 10 次·未回复
+> **评级 B**　|　美国　|　档案编号 `SB-096`　|　优先级 ★★　|　状态：已推送 10 次·未回复
 >
 > **类型**：CCTV 品牌商（加拿大，自有标 PoE；官网待核）（推断）　|　**历史关系**：推送 10 次（2024-11-08 → 2025-10-16）　|　**所在清单**：A优质名单(Canada)、AI评估(CA)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -9,7 +9,8 @@ code: SB-096
 rating: B
 rating_auto: B
 score: 61
-country: 加拿大
+country: 美国
+country_table: 加拿大  # 表内原填；调研纠正为 美国（research JSON country_fix）
 region: 北美
 website: ovisscctv.com
 type: CCTV 品牌商（加拿大，自有标 PoE；官网待核）
@@ -80,18 +81,32 @@ updated: 2026-10-28
 
 - `ovisscctv.com` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、alt3.aspmx.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
 
-**假日避让（加拿大 · 按下一步「2027-Q1」窗口 2027-01-01→2027-03-31）：**
+**假日避让（美国 · 按下一步「2027-Q1」窗口 2027-01-01→2027-03-31）：**
 
-- 法定假日：01-01 New Year's Day；03-26 Good Friday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 法定假日：01-01 New Year's Day；01-18 Martin Luther King Jr. Day；02-15 Washington's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
+
+**公司底数 · 第 112 批（US · 1 次检索：ovisscctv.com（46259 Warm Springs Blvd Fremont CA 94539；(510) 962-8900；CEO 自述 16 年安防经验）+ crunchbase（Legal Name Oviss Labs Inc.；Fremont；hello@ovisscctv.com；11-50）+ pressable 2020-03-21（Oviss Labs Inc announced the launch of OVISSCCTV.com）+ dandb（Founded 2004；Incorporated）+ LinkedIn Oviss Labs Inc.（Fremont CA；11-50；2004）；California SoS 实体号未取；2026-10-28，2026-10-28 查；https://www.crunchbase.com/organization/oviss）：**
+
+- 法定名 / 登记号：Oviss Labs Inc.（商号 OVISS CCTV；ovisscctv.com；46259 Warm Springs Blvd, Fremont, CA 94539, USA）— 2004 年起（Oviss Labs 2015 建站）的湾区商用监控系统托管安装商 / 品牌（「managed commercial security camera systems 99% uptime」；加油站 / 酒店 / 连锁餐饮客户；POS / 报警 / 支付系统）；11–50 人（LinkedIn）；收入 <$5M；**研究档国别 CA 有误 → 美国加州 → country_fix US**；表内「商业 PoE 自己的 logo，主要是 CCTV」；仅 hello@；20 封 1 次打开 0 回 · 未取（CA SoS 实体号） · 状态 **Active** · 成立 2004（业务） · Inc.（加州）
+- 行业码 / 经营范围：商用 CCTV 托管安装 / 品牌（弗里蒙特）
+- 注册地址：46259 Warm Springs Blvd, Fremont, CA 94539, USA
+- 规模档：小型（11–50 人）
+- 账目：<$5M（zoominfo 估）；—
+- 高管：（CEO 未具名；hello@ovisscctv.com）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自有标商用 PoE 配套 CCTV 安装 → 贴标 30% small，一页纸一次（切口：OVISS 标 STC-028GP / STC-228GP / STC-2224GP 配托管摄像机系统 + 中性包装 + FCC + 小 MOQ；英文，hello@ 一问采购 / 运营负责人）；有回声再加厚**
+  - **country_fix US**（发信窗口 US Wed 08–10 PT）
+- 备注：贴标 30% small；一页纸一次；部分坐实（法定名 + 址；SoS 号未取）；country_fix US。
 
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | ovisscctv.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 加拿大 | 事实（用户表）|
+| 国家 | 美国 | 事实（用户表）|
 | 网站/域名 | ovisscctv.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | CCTV 品牌商（加拿大，自有标 PoE；官网待核） | 推断（据兴趣/备注关键词） |
 | 联系人 | 可以多跟进一下 | 事实（用户表） |
@@ -130,8 +145,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Oviss Labs Inc.（商号 OVISS CCTV；46259 Warm Springs Blvd, Fremont, CA 94539, USA；CA SoS 号未取） |
+| 成立 | 2004（业务）（第 112 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 加拿大 |
-| 其他 | 官网 ovisscctv.com，语言 ?，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 ovisscctv.com，语言 ?，快照状态 ok；角色判定来源：用户表；第 112 批：研究档国别 CA 有误 → 美国加州 → **country_fix US**；湾区商用监控托管安装商 / 品牌（11–50 人）→ **贴标 30% small，一页纸一次（OVISS 标 STC-028GP / STC-228GP / STC-2224GP 配托管摄像机系统 + 中性包装 + FCC + 小 MOQ；hello@ 一问采购 / 运营负责人）**（第 112 批 官方登记核实 2026-10-28） |
 
 - **业务线**：CCTV 与配套 PoE（自有品牌）
 - **触达通道（公开）**：role: CCTV 品牌商（加拿大，自有标 PoE；官网待核）；region: 加拿大；contact: hello@ovisscctv.com

@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -75,6 +75,19 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 112 批（BG · 1 次检索（名片户 1 查即停）：revenuebase / dnb / europages 保加利亚电子分销商名录均无「Elektronik LTD + Toshko Todorov」命中（D&B 命中 AGAT-56 TODOR TODOROV ET ELEKTRIKA LTD EOOD = 人名不符，≠）；2026-10-28，2026-10-28 查；）：**
+
+- 法定名 / 登记号：「Elektronik LTD」（Toshko Todorov；ISAF 名片；无邮箱 / 域名 / 电话入库；Ady 加过 WhatsApp；要商用级 PoE + 目录）— 1 次检索未命中任何对应法人（保加利亚同名 ЕООД 众多、无「Toshko Todorov」关联）；国别暂按人名记 BG · 未取 · 状态 **未取** · 成立 未取 · 未取（LTD / ЕООД）
+- 行业码 / 经营范围：安防 / 电子 经销（待核）
+- 注册地址：未取
+- 规模档：未取
+- 账目：—；—
+- 高管：Toshko Todorov — 名片联系人（WA 在 Ady 手里）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **查无实体（仅名片 + WA）→ 不动；Simon 若能从 WA 对出公司名 / 邮箱再立户（商用 PoE 目录一页纸即可）**
+- 备注：未坐实（1 查即停）→ 不动。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -104,9 +117,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | … Elektronik LTD（全称待核） |
+| 法定名称 | 未坐实（名片「Elektronik LTD」Toshko Todorov；保加利亚登记未命中） |
+| 成立 | 未取（第 112 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 待核（ISAF 记为土耳其；人名为保加利亚式） |
-| 其他 | 公司彩页在新桥处（可据此补公司名/域名） |
+| 其他 | 公司彩页在新桥处（可据此补公司名/域名）；第 112 批：1 查即停，查无实体 → **不动（WA 对公司名可选，Simon 定）**（第 112 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电子/安防分销（推测）
 - **触达通道（公开）**：WhatsApp: Ady 已加；线下: 公司彩页（新桥持有）
@@ -218,12 +232,12 @@ Hello Toshko, following ISAF: here is the commercial PoE catalogue — 2× SFP +
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

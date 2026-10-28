@@ -82,6 +82,21 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 112 批（CA · 1 次检索：gaotek.com/about-us（GAO Group headquartered in Toronto；Canadian Office GAO Tek Inc. 1885 Clements Rd Suites 215-218 Pickering ON L1W 3V4；Head Office USA 244 Fifth Avenue Suite A31 New York）+ LinkedIn Frank Gao（CEO GAO Tek Inc. May 2005 – Present）+ tracxn（founded 1992；3,720 employees 自报）+ glassdoor（1 to 50 Employees）+ theorg（601 Milner Ave Toronto）；安省 / 联邦登记号未取；2026-10-28，2026-10-28 查；https://gaotek.com/about-us/）：**
+
+- 法定名 / 登记号：GAO Tek Inc.（GAO Group；gaotek.com / gaorfid.com；加拿大办公室 1885 Clements Rd, Suites 215-218, Pickering, ON L1W 3V4（旧址 601 Milner Ave, Toronto）+ 纽约 244 Fifth Avenue Suite A31）— 集团 1992 年起、GAO Tek 2005 年起（CEO Frank Gao, Ph.D.）的 B2B 技术目录供应商（IoT 硬件 / 测试仪器 / 光纤 / RFID；自有 logo 贴牌 MC / PoE / FS；大量远程实习生）；员工数各源差异极大（1–50 至 3,720）；sales@gaotek.com 2025-06-26 退信；表内「似乎是个销售平台；非常大的公司」；KP Ashish Prakash（Network Specialist） · 未取（登记号） · 状态 **Active** · 成立 2005（GAO Tek；集团 1992） · Inc.（加 / 美两地注册）
+- 行业码 / 经营范围：B2B 技术产品 目录供应 / 贴牌（皮克林）
+- 注册地址：1885 Clements Rd, Suites 215-218, Pickering, ON L1W 3V4
+- 规模档：不明（1–50 ↔ 自报数千）
+- 账目：未取；—
+- 高管：Frank Gao, Ph.D. — Founder & CEO（LinkedIn）= 拍板人（邮箱未取）
+- 高管：Ashish Prakash — Network Specialist（研究档 KP；sales@ 已退信）
+- 控制人 / 股东：Frank Gao
+- **这意味着什么：**
+  - **贴牌目录平台（自有 logo 卖中系 MC / PoE；sales@ 退信）→ 贴标 OEM 30% small，一页纸一次（切口：GAO 标 MC / PoE 交换机 STC-028GP / STI-054GP 作第二代工源 + 中性包装；英文，经 sales@gaorfid.com 或站内表单，一问采购）；再无回声 → 不动**
+  - 发信窗口 CA Wed 08–10 ET；平台型、低优先
+- 备注：贴标 30% small；一页纸一次；部分坐实（址 + CEO；登记号未取；退信）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -125,15 +140,18 @@ updated: 2026-10-28
 - **【用户表】MC 多外壳自有 logo；PoE FS 周边；非常大的公司**
   > MC 很多种外壳 刷了自己的logo POE FS 周边无源产品 配件；非常大的公司！
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Ashish Prakash（）sales@gaotek.com 〔用户表〕
+- **KP**：Ashish Prakash（Network Specialist（研究档 KP Ashish Prakash；sales@gaotek.com 2025-06-26 退信 → 改经 sales@gaorfid.com / 站内表单）（第 112 批 官方登记核实 2026-10-28））sales@gaotek.com 〔用户表〕
+- **KP**：Frank Gao（Founder & CEO, Ph.D.（LinkedIn；GAO Tek Inc. 2005–）= 拍板人（邮箱未取）（第 112 批 官方登记核实 2026-10-28）） 〔https://gaotek.com/about-us/〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | GAO Tek Inc.（GAO Group；1885 Clements Rd, Suites 215-218, Pickering, ON L1W 3V4 + 244 Fifth Avenue Suite A31, New York；登记号未取；员工数各源 1–50 ↔ 自报数千） |
+| 成立 | 2005（GAO Tek；集团 1992）（第 112 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 加拿大 |
-| 其他 | 官网 gaotek.com，语言 en，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 gaotek.com，语言 en，快照状态 ok；角色判定来源：用户表；第 112 批：B2B 技术目录供应 / 贴牌平台（自有 logo MC / PoE；sales@ 退信）→ **贴标 30% small，一页纸一次（GAO 标 STC-028GP / STI-054GP 第二代工源 + 中性包装；经 sales@gaorfid.com 或站内表单一问采购）**；平台型低优先（第 112 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IoT 硬件 / 测试仪器目录销售；光纤 MC / PoE / 无源配件（自有 logo）
 - **触达通道（公开）**：role: 北美 IoT/测试仪器目录供应商（自有 logo 贴牌，OEM 采购）；region: 加拿大；contact: sales@gaorfid.com、sales@gaotek.com
@@ -239,7 +257,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ashish Prakash | — | sales@gaotek.com | 调研核实（公开页） | 用户表 |
+| Ashish Prakash | Network Specialist（研究档 KP Ashish Prakash；sales@gaotek.com 2025-06-26 退信 → 改经 sales@gaorfid.com / 站内表单）（第 112 批 官方登记核实 2026-10-28） | sales@gaotek.com | 调研核实（公开页） | 用户表 |
+| Frank Gao | Founder & CEO, Ph.D.（LinkedIn；GAO Tek Inc. 2005–）= 拍板人（邮箱未取）（第 112 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://gaotek.com/about-us/ |
 
 - **通道建议**：邮件已推送 17 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

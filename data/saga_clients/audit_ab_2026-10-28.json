@@ -4166,8 +4166,8 @@
   },
   "SB-096": {
    "grade": "B",
-   "iso": "CA",
-   "country": "加拿大",
+   "iso": "US",
+   "country": "美国",
    "facts": 3,
    "in": 0,
    "out": 2,
@@ -5706,8 +5706,8 @@
   },
   "SB-106": {
    "grade": "B",
-   "iso": "CA",
-   "country": "加拿大",
+   "iso": "US",
+   "country": "美国",
    "facts": 2,
    "in": 0,
    "out": 1,
@@ -8715,7 +8715,7 @@
    "p1": "STI-288GPM",
    "tier": 30,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-163": {
@@ -10260,8 +10260,8 @@
   },
   "SB-233": {
    "grade": "B",
-   "iso": "CA",
-   "country": "加拿大",
+   "iso": "US",
+   "country": "美国",
    "facts": 3,
    "in": 0,
    "out": 2,
@@ -11289,7 +11289,7 @@
    "p1": "—",
    "tier": 20,
    "signals": 2,
-   "kp": 2,
+   "kp": 3,
    "summary": true
   },
   "SB-280": {
@@ -12922,8 +12922,8 @@
   },
   "SB-354": {
    "grade": "B",
-   "iso": "CA",
-   "country": "加拿大",
+   "iso": "US",
+   "country": "美国",
    "facts": 3,
    "in": 0,
    "out": 2,
@@ -12961,7 +12961,7 @@
    "p1": "—",
    "tier": 30,
    "signals": 3,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-356": {
@@ -13797,7 +13797,7 @@
    "p1": "STC-28DGGPM",
    "tier": 30,
    "signals": 3,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-394": {
@@ -15782,8 +15782,8 @@
   },
   "SB-484": {
    "grade": "B",
-   "iso": "CA",
-   "country": "加拿大",
+   "iso": "US",
+   "country": "美国",
    "facts": 2,
    "in": 0,
    "out": 1,
@@ -21986,8 +21986,8 @@
   },
   "SB-766": {
    "grade": "B",
-   "iso": "CA",
-   "country": "加拿大",
+   "iso": "US",
+   "country": "美国",
    "facts": 3,
    "in": 0,
    "out": 2,
@@ -22993,7 +22993,7 @@
    "p1": "STI-288GP",
    "tier": 20,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-812": {
@@ -27129,7 +27129,7 @@
    "p1": "STC-28DGGPM",
    "tier": 30,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   }
  },

@@ -80,6 +80,21 @@ updated: 2026-10-28
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 112 批（CA · 1 次检索：wirewerks.com/en（Founded 1991；35 years；50K+ products；19144 Cruickshank Avenue Baie-d'Urfé QC H9X 3P1；info@；514.635.1103）+ wirewerks.com 新闻 2017-11-16（new World Headquarters Baie-D'Urfé TechnoPark 40,000 sq ft；Optical Fiber and Copper Manufacturing Centers）+ rocketreach（44 employees；$24.4M）+ zoominfo / crunchbase（manufacturer of optical fiber and copper structured cabling systems）；REQ NEQ 未取；2026-10-28，2026-10-28 查；https://wirewerks.com/en/）：**
+
+- 法定名 / 登记号：Wirewerks（法定名待取：Wirewerks Inc.；wirewerks.com；19144 Cruickshank Avenue, Baie-d'Urfé (Québec) H9X 3P1）— 1991 年创立的蒙特利尔结构化布线制造商（铜缆 / 光纤连接产品 50K+ SKU、Keywerks 系统、数据中心 / LAN / 宽带；2017 年 40,000 sq ft 新总部含光纤 / 铜缆制造中心；23 项行业奖）；RocketReach 估 44 人 / $24.4M；表内「MC 自己的 logo；别人在卖他们的」；KP Carl Lindquist（职务待核）；20 封 1 次打开 0 回 · 未取（NEQ） · 状态 **Active（经营中）** · 成立 1991 · Inc.（魁北克）
+- 行业码 / 经营范围：结构化布线 制造（铜缆 / 光纤；蒙特利尔）
+- 注册地址：19144 Cruickshank Avenue, Baie-d'Urfé, QC H9X 3P1
+- 规模档：中小型（估 44 人）
+- 账目：估 $24.4M（RocketReach）；—
+- 高管：Carl Lindquist — 研究档 KP（clindquist@；职务待核）= 收件人
+- 高管：（总裁未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **布线制造商、已有自有标 MC 副线且有人在转售 → 贴标 / 配套 30% 目标，B BIG，加厚一次（切口：Wirewerks 标 MC / 工业与商用交换机 STC-028GP / STC-228GP / STC-2224GP / STI-054GP / STI-144GP 作布线系统配套的有源端 + 中性包装 / 自编货号 + 加拿大 DAP；英 / 法文，Carl 直呼，一问产品经理）；回信 → 次候选升 A**
+  - 发信窗口 CA Wed 08–10 ET；稿内 FCC / CE
+- 备注：贴标 / 配套 30%；B BIG 加厚一次；部分坐实（地址 + 历史 + 规模估；NEQ 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -122,15 +137,17 @@ updated: 2026-10-28
 - **【用户表】MC 自己的 logo**
   > MC 自己的logo 别人在卖他们的；可以多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Carl Lindquist（）clindquist@wirewerks.com 〔用户表〕
+- **KP**：Carl Lindquist（Wirewerks 研究档 KP（职务待核）= 收件人，一问产品经理（第 112 批 官方登记核实 2026-10-28））clindquist@wirewerks.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Wirewerks（法定名 / NEQ 未取；19144 Cruickshank Avenue, Baie-d'Urfé, QC H9X 3P1；1991；估 44 人 / $24.4M） |
+| 成立 | 1991（第 112 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 加拿大 |
-| 其他 | 官网 wirewerks.com，语言 en，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 wirewerks.com，语言 en，快照状态 ok；角色判定来源：用户表；第 112 批：蒙特利尔结构化布线制造商（自有标 MC 副线、有人转售）→ **贴标 / 配套 30% B BIG，加厚一次（Wirewerks 标 MC / 交换机 STC-028GP / STC-228GP / STC-2224GP / STI-054GP / STI-144GP 作布线系统有源端 + 中性包装 / 自编货号 + 加拿大 DAP；英 / 法文，Carl 直呼）**；升 A 候选（第 112 批 官方登记核实 2026-10-28） |
 
 - **业务线**：结构化布线（铜缆 / 光纤 / 数据中心 / 宽带）
 - **触达通道（公开）**：role: 布线制造商（加拿大，自有标 MC 为副线）；region: 加拿大；contact: clindquist@wirewerks.com、info@wirewerks.com
@@ -227,7 +244,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Carl Lindquist | — | clindquist@wirewerks.com | 调研核实（公开页） | 用户表 |
+| Carl Lindquist | Wirewerks 研究档 KP（职务待核）= 收件人，一问产品经理（第 112 批 官方登记核实 2026-10-28） | clindquist@wirewerks.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 10 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

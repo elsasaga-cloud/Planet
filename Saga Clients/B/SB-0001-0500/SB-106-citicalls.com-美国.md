@@ -1,6 +1,6 @@
 # citicalls.com
 
-> **评级 B**　|　加拿大　|　档案编号 `SB-106`　|　优先级 ★★　|　状态：已推送 1 次·未回复
+> **评级 B**　|　美国　|　档案编号 `SB-106`　|　优先级 ★★　|　状态：已推送 1 次·未回复
 >
 > **类型**：VoIP 网店（加拿大，兼营网络设备）（推断）　|　**历史关系**：推送 1 次（2025-10-18 → 2025-10-18）　|　**所在清单**：A优质名单(Canada)、AI评估(CA)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -9,7 +9,8 @@ code: SB-106
 rating: B
 rating_auto: B
 score: 59
-country: 加拿大
+country: 美国
+country_table: 加拿大  # 表内原填；调研纠正为 美国（research JSON country_fix）
 region: 北美
 website: citicalls.com
 type: VoIP 网店（加拿大，兼营网络设备）
@@ -73,17 +74,31 @@ updated: 2026-10-28
 
 - `citicalls.com` → Hostinger / Titan（MX：mx1.hostinger.com、mx2.hostinger.com）。主机商附带邮箱（Hostinger / Titan）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（加拿大 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
+**假日避让（美国 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
 
-- 窗口内无该国法定假日
+- 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
+
+**公司底数 · 第 112 批（US · 1 次检索：citicalls.com/pages/about-us（owned and operated by WinWealth Tech Inc.；commenced operations in May 2003；170 W Pomona Ave Monrovia CA 91016；626-240-0785）+ ebay seller citicalls（Member since Mar 09, 2006；United States）+ rocketreach（Monrovia California；$2.4M；0 employees）+ owler（online retailer of telecommunications equipment）；California SoS 实体号未取；2026-10-28，2026-10-28 查；https://citicalls.com/pages/about-us）：**
+
+- 法定名 / 登记号：WinWealth Tech Inc.（商号 citiCalls；citicalls.com；170 W Pomona Ave, Monrovia, CA 91016, USA；2003-05 起营业；eBay 卖家 2006 起）— VoIP 设备网店（Yealink / Grandstream / Fanvil / Cisco / Avaya / Yeastar / OpenVox；兼营杂项网络设备）；RocketReach 估 $2.4M、0 名员工（一人网店）；**研究档国别 CA 有误 → 美国加州 → country_fix US**；仅 sales@；13 封 0 打开 · 未取（CA SoS 实体号） · 状态 **Active** · 成立 2003-05（业务） · Inc.（加州）
+- 行业码 / 经营范围：VoIP 设备 网店（洛杉矶 Monrovia）
+- 注册地址：170 W Pomona Ave, Monrovia, CA 91016, USA
+- 规模档：微型（一人网店）
+- 账目：估 $2.4M；—
+- 高管：（业主未具名；sales@citicalls.com）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **一人 VoIP 网店（无 KP、0 打开）→ 不动（一人网店规则；B 保留）**
+  - **country_fix US**
+- 备注：不动（一人网店）；部分坐实（法定名 + 址；SoS 号未取）；country_fix US。
 
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | citicalls.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 加拿大 | 事实（用户表）|
+| 国家 | 美国 | 事实（用户表）|
 | 网站/域名 | citicalls.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | VoIP 网店（加拿大，兼营网络设备） | 推断（据兴趣/备注关键词） |
 | 联系人 | BDCOM | 事实（用户表） |
@@ -127,8 +142,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | WinWealth Tech Inc.（商号 citiCalls；170 W Pomona Ave, Monrovia, CA 91016, USA；CA SoS 号未取；2003-05 起；eBay 卖家 2006 起；估 $2.4M / 0 员工） |
+| 成立 | 2003-05（业务）（第 112 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 加拿大 |
-| 其他 | 官网 citicalls.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 citicalls.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 112 批：研究档国别 CA 有误 → 美国加州 → **country_fix US**；一人 VoIP 网店（无 KP、0 打开）→ **不动（一人网店规则；B 保留）**（第 112 批 官方登记核实 2026-10-28） |
 
 - **业务线**：VoIP 话机 / PBX 网店；网络设备（BDCOM 等）
 - **触达通道（公开）**：role: VoIP 网店（加拿大，兼营网络设备）；region: 加拿大；contact: sales@citicalls.com

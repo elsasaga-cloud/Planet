@@ -77,6 +77,21 @@ updated: 2026-10-28
 - 窗口内无该国法定假日
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 112 批（CA · 1 次检索：canadacompanyregistry.com（YM INC. (SALES)；50 DUFFLAW ROAD TORONTO ON M6A 2W1；registered 28-Oct-2012；bn 105261705RC0005；corporation number 8228426；4 directors）+ datanyze（50 Dufflaw Rd；Eric Grundy；Mario Elia Director, Network Infrastructure）+ rocketreach（YM INC. 1,340 employees；Mario Elia 2025– Director Network Infrastructure）+ prospeo（General Retail；1001-2000；ym-inc.com）；2026-10-28，2026-10-28 查；https://www.canadacompanyregistry.com/companies/ym-inc-sales-4/）：**
+
+- 法定名 / 登记号：YM Inc.（yminc.ca / ym-inc.com；50 Dufflaw Road, Toronto, ON M6A 2W1；销售实体 YM INC. (SALES) 联邦公司号 8228426 / BN 105261705RC0005，2012-10-28 注册，4 名董事）— **多伦多服装零售集团（Urban Planet / Stitches / Bluenotes 等 ≈700 店）**，非网络贸易商 → 研究档类型更正：零售连锁终端 IT；CEO Eric Grundy；1,300+ 员工；研究档 KP Mario Elia = Director, Network Infrastructure（2025–；此前网络与安全架构师）；2025 年阿里 RFQ「工业 PoE Extender」；1 封 0 打开 · 联邦公司号 8228426（YM INC. (SALES)）/ BN 105261705RC0005 · 状态 **Active** · 成立 2012-10-28（销售实体；集团 1975） · Inc.（联邦）
+- 行业码 / 经营范围：服装零售连锁（多伦多）— 终端 IT 采购
+- 注册地址：50 Dufflaw Road, Toronto, ON M6A 2W1
+- 规模档：大型（1,300+ 人）
+- 账目：未取（集团）；—
+- 高管：Mario Elia — Director, Network Infrastructure（研究档 KP mario@）= 收件人（IT 采购）
+- 高管：Eric Grundy — CEO
+- 控制人 / 股东：私有（Grundy 家族）
+- **这意味着什么：**
+  - **零售连锁终端 IT（≈700 店的门店 IDF 网络）→ 终端 25% small，一页纸一次（切口：门店摄像机 / AP / POS 用 PoE STC-028GP / STC-228GP / STC-2224GP 一口价 + 1 年保 + 付费样机；英文，Mario 直呼；PoE 延长器非我方品类，明说不做）；再无回声 → 不动**
+  - 研究档类型「网络 / 安防贸易商」更正为零售连锁终端；发信窗口 CA Wed 08–10 ET
+- 备注：终端 25% small；一页纸一次；坐实（联邦公司号 + BN + 址）；研究档类型更正。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -103,15 +118,17 @@ updated: 2026-10-28
 - **【用户表】工业 PoE Extender RFQ 2025**
   > 2025年使用国际站 / 工业PoE Extender / from: 阿里巴巴RFQ
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Mario Elia（）mario@yminc.ca 〔用户表〕
+- **KP**：Mario Elia（Director, Network Infrastructure（YM Inc.；2025–；终端 IT 采购）= 收件人（第 112 批 官方登记核实 2026-10-28））mario@yminc.ca 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | YM Inc.（服装零售集团 Urban Planet / Stitches / Bluenotes 等；50 Dufflaw Road, Toronto, ON M6A 2W1；销售实体 YM INC. (SALES) 联邦公司号 8228426 / BN 105261705RC0005；CEO Eric Grundy；1,300+ 人） |
+| 成立 | 2012-10-28（销售实体）（第 112 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 加拿大 |
-| 其他 | 官网 yminc.ca，语言 ?，快照状态 timeout；角色判定来源：待核 |
+| 其他 | 官网 yminc.ca，语言 ?，快照状态 timeout；角色判定来源：待核；第 112 批：**研究档类型「网络 / 安防贸易商」有误 → 零售连锁终端 IT**（≈700 店门店网络）→ **终端 25% small，一页纸一次（门店摄像机 / AP / POS 用 STC-028GP / STC-228GP / STC-2224GP 一口价 + 1 年保 + 付费样机；Mario 直呼；PoE 延长器非我方品类明说不做）**（第 112 批 官方登记核实 2026-10-28） |
 
 - **业务线**：（待核，加拿大）
 - **触达通道（公开）**：role: 网络/安防贸易商（加拿大，PoE 延长器 RFQ）；region: 加拿大；contact: mario@yminc.ca
@@ -169,7 +186,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Mario Elia | — | mario@yminc.ca | 调研核实（公开页） | 用户表 |
+| Mario Elia | Director, Network Infrastructure（YM Inc.；2025–；终端 IT 采购）= 收件人（第 112 批 官方登记核实 2026-10-28） | mario@yminc.ca | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

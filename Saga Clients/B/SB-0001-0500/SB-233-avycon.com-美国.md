@@ -1,6 +1,6 @@
 # avycon.com
 
-> **评级 B**　|　加拿大　|　档案编号 `SB-233`　|　优先级 ★★　|　状态：已推送 8 次·未回复
+> **评级 B**　|　美国　|　档案编号 `SB-233`　|　优先级 ★★　|　状态：已推送 8 次·未回复
 >
 > **类型**：安防品牌商（北美，PoE 现 ONV）（推断）　|　**历史关系**：推送 8 次（2025-03-01 → 2025-10-17）　|　**所在清单**：A优质名单(Canada)、AI评估(CA)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -9,7 +9,8 @@ code: SB-233
 rating: B
 rating_auto: B
 score: 49
-country: 加拿大
+country: 美国
+country_table: 加拿大  # 表内原填；调研纠正为 美国（research JSON country_fix）
 region: 北美
 website: avycon.com
 type: 安防品牌商（北美，PoE 现 ONV）
@@ -83,18 +84,33 @@ updated: 2026-10-28
 
 - `avycon.com` → 主机商 cPanel 类邮箱（MX：mail.avycon.com）。主机商附带邮箱（主机商 cPanel 类邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（加拿大 · 按下一步「2027-Q1」窗口 2027-01-01→2027-03-31）：**
+**假日避让（美国 · 按下一步「2027-Q1」窗口 2027-01-01→2027-03-31）：**
 
-- 法定假日：01-01 New Year's Day；03-26 Good Friday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 法定假日：01-01 New Year's Day；01-18 Martin Luther King Jr. Day；02-15 Washington's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
+
+**公司底数 · 第 112 批（US · 1 次检索：avyconaivo.com/contact（AVYCON HQ 16682 Millikan Ave. Irvine CA 92606；+1 (949) 752-7606；info@）+ rocketreach（Founded 2012；17 employees；$6.1M）+ leadiq（NAICS 56162；11-50）+ zoominfo（Jorge Del Valle Manager Technical Support Team）+ LinkedIn（Irvine；51-200 自报）+ AVYCON Product Guide 26（190+ products；cameras / recorders / networking）；California SoS 实体号未取；2026-10-28，2026-10-28 查；https://avyconaivo.com/page/?pid=contactus）：**
+
+- 法定名 / 登记号：AVYCON（法定名待取：Avycon Inc.；avycon.com；16682 Millikan Ave., Irvine, CA 92606, USA）— 2012 年创立的北美视频监控品牌（IP 摄像机 / NVR / 网络产品 190+ 款；经销商渠道、项目注册、站内自述 NDAA / TAA 定位（我方稿内不得引用））；17–50 人；营收估 $6.1M；**研究档国别 CA 有误 → 美国加州 → country_fix US**；KP John L（President；john@）、Jorge Del Valle（Technical Support Manager）；表内「商业 PoE 工业 FS 周边产品，有 ONV 的」「质量高」；29 封 0 打开 · 未取（CA SoS 实体号） · 状态 **Active** · 成立 2012 · Inc.（加州，待取）
+- 行业码 / 经营范围：视频监控 品牌商（尔湾）
+- 注册地址：16682 Millikan Ave., Irvine, CA 92606, USA
+- 规模档：小型（17–50 人）
+- 账目：估 $6.1M（RocketReach）；—
+- 高管：John L — President（研究档 KP；john@avycon.com）= 拍板人 / 收件人
+- 高管：Jorge Del Valle — Technical Support Team Manager（zoominfo；研究档 KP Jorge D）= 抄
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自有品牌 CCTV 含网络产品线（PoE 现中系）→ 贴标 OEM 30% 目标，B，加厚 small 一次（切口：AVYCON 标 PoE 交换机 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM 作第二代工源 + 中性包装 / 自编货号 + FCC + 小 MOQ；英文，John 直呼）；回信 → 次候选**
+  - **country_fix US**（发信窗口 US Wed 08–10 PT）；稿内绝不提 NDAA / TAA（禁词）
+- 备注：贴标 30%；加厚 small 一次；部分坐实（址 + 规模；法定名 / SoS 号未取）；country_fix US。
 
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | avycon.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 加拿大 | 事实（用户表）|
+| 国家 | 美国 | 事实（用户表）|
 | 网站/域名 | avycon.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 安防品牌商（北美，PoE 现 ONV） | 推断（据兴趣/备注关键词） |
 | 联系人 | 质量高 / John L / President / Jorge D / Technical Support Team Manager | 事实（用户表） |
@@ -132,16 +148,18 @@ updated: 2026-10-28
 - **【用户表】商业 PoE 工业 FS 有 ONV**
   > 商业POE 工业FS 周边产品 有ONV的；质量高
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：John L（）john@avycon.com 〔用户表〕
-- **KP**：Jorge D（）info@avycon.com 〔用户表〕
+- **KP**：John L（President（john@avycon.com）= 拍板人 / 收件人（第 112 批 官方登记核实 2026-10-28））john@avycon.com 〔用户表〕
+- **KP**：Jorge D（Technical Support Team Manager（Jorge Del Valle；zoominfo）= 抄（第 112 批 官方登记核实 2026-10-28））info@avycon.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | AVYCON（法定名待取 Avycon Inc.；16682 Millikan Ave., Irvine, CA 92606, USA；CA SoS 号未取；17–50 人；估 $6.1M） |
+| 成立 | 2012（第 112 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 加拿大 |
-| 其他 | 官网 avycon.com，语言 en，快照状态 ok；角色判定来源：待核 |
+| 其他 | 官网 avycon.com，语言 en，快照状态 ok；角色判定来源：待核；第 112 批：研究档国别 CA 有误 → 美国加州 → **country_fix US**；北美视频监控品牌（190+ 款含网络产品）→ **贴标 OEM 30%，加厚 small 一次（AVYCON 标 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM 第二代工源 + 中性包装 / 自编货号 + FCC + 小 MOQ；John 直呼）**；稿内绝不提 NDAA / TAA（第 112 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防摄像机 / 录像机 / PoE（自有品牌 AVYCON）
 - **触达通道（公开）**：role: 安防品牌商（北美，PoE 现 ONV）；region: 加拿大；contact: info@avycon.com、john@avycon.com
@@ -231,8 +249,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| John L | — | john@avycon.com | 调研核实（公开页） | 用户表 |
-| Jorge D | — | info@avycon.com | 调研核实（公开页） | 用户表 |
+| John L | President（john@avycon.com）= 拍板人 / 收件人（第 112 批 官方登记核实 2026-10-28） | john@avycon.com | 调研核实（公开页） | 用户表 |
+| Jorge D | Technical Support Team Manager（Jorge Del Valle；zoominfo）= 抄（第 112 批 官方登记核实 2026-10-28） | info@avycon.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

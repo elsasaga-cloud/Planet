@@ -74,6 +74,21 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 112 批（CA · 1 次检索：globall.ca/fr/collections/globall（Profil corporatif – Globall Distribution；importateur, distributeur；marques Planet, Engenius, Milesight, Globall, …；Entrepôt 4185 rue Marcel Lacasse Boisbriand J7H 1N4；514-374-7117）+ globall.ca/pages/about-us（imports and provides data and networking products, surveillance and telephony）+ rocketreach（2 employees；Founded 2011；Boisbriand）+ LinkedIn（2-10；Self-Owned；Founded 2011；773 Boulevard Industriel Blainville）；REQ NEQ 未取；2026-10-28，2026-10-28 查；https://www.globall.ca/fr/collections/globall）：**
+
+- 法定名 / 登记号：Globall Distribution（globall.ca；仓库 4185 rue Marcel Lacasse, Boisbriand, QC J7H 1N4；LinkedIn 旧址 773 Boul. Industriel, Blainville QC J7C 3V3；法定名 / NEQ 未取）— 2011 年起的小型进口分销商（Self-Owned；2–10 人，RocketReach 2 人）：数据网络 / 监控 / 电话产品供 IT 经销商、集成商与零售；**PLANET 加拿大分销 + 站内「Globall」自有品牌系列**（Engenius / Milesight / Fanvil / Snom / Ubiquiti / Aruba Instant On / Eaton 等）；KP Corinne Defay（Marketing Manager，无邮箱）；仅 info@；Elsa 1:1 去信 1 轮 2025-02-28 无回 · 未取（NEQ） · 状态 **Active** · 成立 2011 · 未取（Self-Owned）
+- 行业码 / 经营范围：网络 / 监控 / 电话 进口分销（蒙特利尔北郊）
+- 注册地址：4185 rue Marcel Lacasse, Boisbriand, QC J7H 1N4
+- 规模档：微型（2–10 人）
+- 账目：未取；—
+- 高管：（业主未具名；info@globall.ca）
+- 高管：Corinne Defay — Marketing Manager（研究档 KP，无邮箱）
+- 控制人 / 股东：未取（Self-Owned）
+- **这意味着什么：**
+  - **微型进口分销 + 自有「Globall」系列 → 分销 20% / 贴标 small，一页纸一次（切口：Globall 标或中性 PoE STC-028GP / STC-228GP / STC-2224GP + 工业 STI-054GP 作目录第二价位 + 小 MOQ + 加拿大 DAP；法 / 英双语，info@ 一问业主）；再无回声 → 不动**
+  - 稿内不点名 PLANET；发信窗口 CA Wed 08–10 ET
+- 备注：分销 20% small；一页纸一次；部分坐实（址 + 年份 + 规模；NEQ 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -119,7 +134,7 @@ updated: 2026-10-28
 - **【Mikrotik 仓库】C-015 同户：分销（PLANET 授权），B下放·无邮箱**
   > C-015 Globall Distribution 加拿大 分销（PLANET 授权）… B下放·无邮箱（群发触达不到）… ①补到邮箱 可重评
   > 来源：https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv（抓取 2026-10-19）
-- **KP**：Corinne Defay（） +1 514-374-7117〔https://www.yeastar.com/news/globall-distribution-partnership/〕
+- **KP**：Corinne Defay（Marketing Manager（研究档 KP，无邮箱）；收件 info@globall.ca 一问业主（第 112 批 官方登记核实 2026-10-28）） +1 514-374-7117〔https://www.yeastar.com/news/globall-distribution-partnership/〕
 - **调研后定级**：B（原自动 C）——Planet 渠道档案 PB-036 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B
 - 备注：（无首轮调研；由 deepen.py 建档）
 
@@ -127,9 +142,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Globall Distribution |
+| 法定名称 | Globall Distribution（法定名 / NEQ 未取；仓库 4185 rue Marcel Lacasse, Boisbriand, QC J7H 1N4；旧址 773 Boul. Industriel, Blainville；Self-Owned；2–10 人） |
+| 成立 | 2011（第 112 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Boisbriand / Blainville, QC, 加拿大 |
-| 其他 | Planet 渠道档案 PB-036（2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json）；自有品牌：否；最大未知：PLANET 占比（专区显示依赖度高）；CSA/cUL 要求；年台数 |
+| 其他 | Planet 渠道档案 PB-036（2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json）；自有品牌：否；最大未知：PLANET 占比（专区显示依赖度高）；CSA/cUL 要求；年台数；第 112 批：微型进口分销（PLANET 加拿大分销 + 站内「Globall」自有系列）→ **分销 20% small，一页纸一次（Globall 标或中性 STC-028GP / STC-228GP / STC-2224GP + STI-054GP 作目录第二价位 + 小 MOQ + 加拿大 DAP；法 / 英双语，info@ 一问业主）**；稿内不点名 PLANET（第 112 批 官方登记核实 2026-10-28） |
 
 - **业务线**：分销商/进口商（2011 年起；数据网络、监控、光纤与电话产品进口分销，面向 B2B IT 经销商、集成商与零售；2–10 人；Yeastar/Milesight/Planet/EnGenius 等）
 
@@ -211,7 +227,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Corinne Defay | — | +1 514-374-7117 | 调研核实（公开页） | https://www.yeastar.com/news/globall-distribution-partnership/ |
+| Corinne Defay | Marketing Manager（研究档 KP，无邮箱）；收件 info@globall.ca 一问业主（第 112 批 官方登记核实 2026-10-28） | +1 514-374-7117 | 调研核实（公开页） | https://www.yeastar.com/news/globall-distribution-partnership/ |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

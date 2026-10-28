@@ -74,6 +74,20 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 112 批（IT · 1 次检索：ufficiocamerale（ECONNET S.R.L.；P.IVA 02965231208；VIA DEI LAPIDARI 20/B BOLOGNA；Iscrizione 15/09/2009；46501；Utile € 212.506 (2025)）+ econnet.it 页脚（REA BO-0481011；Stormshield, Edge-Core, Ignitenet, Switch, Industrial, IOT）+ wedoinnov.it/distributore（Econnet SRL distributore ufficiale Italia；REA BO-0481011）+ LinkedIn（2–10 dipendenti；2009；Value added distribution）+ contactout（Networking Micronet / Planet 历史线）；2026-10-28，2026-10-28 查；https://www.ufficiocamerale.it/7185/econnet-srl）：**
+
+- 法定名 / 登记号：ECONNET S.R.L.（econnet.it；Via dei Lapidari 20/B, 40129 Bologna；P.IVA / CF 02965231208；REA BO-0481011）— 2009-09-15 登记的网络 / 网络安全 / 统一通信增值分销商（Stormshield / G DATA / Bitdefender / Logpoint、Fanvil / Yeastar / Yealink、**Edge-Core / IgniteNet 交换机**、WeDoInnov 意大利官方分销；面向经销商与系统集成商）；2–10 人（LinkedIn）；2025 净利 €212.5k（营收未取）；仅 marketing@；表内「商业 PoE 丰润达的」；未发过信 · P.IVA 02965231208 / REA BO-0481011 · 状态 **Attiva** · 成立 2009-09-15 · S.r.l.
+- 行业码 / 经营范围：网络 / 安全 / UC 增值分销（博洛尼亚）
+- 注册地址：Via dei Lapidari 20/B, 40129 Bologna (BO)
+- 规模档：小型（2–10 人）
+- 账目：2025 净利 €212,506（营收未取）；—
+- 高管：（Amministratore 未取）— 收件人 marketing@econnet.it，一问网络产品经理
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **小而专的 VAD、已分销白牌 / 台系交换机线 → 分销 20%，B 加厚 small 一次（切口：经销商渠道的第二价位 PoE STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + 工业 STI-054GP / STI-144GP，并提 STH 数据中心交换机作白牌机架线；IT DAP 小起订；意语引子）；回信 → 次候选**
+  - 稿内不点名 Edge-Core / Micronet；发信窗口 Thu 12–14 CET
+- 备注：分销 20%；加厚 small 一次；坐实（P.IVA + REA + 成立日）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -107,9 +121,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Econnet S.r.l. |
+| 法定名称 | ECONNET S.R.L.（P.IVA 02965231208；REA BO-0481011；Bologna；Edge-Core 增值分销；2–10 人） |
+| 成立 | 2009-09-15（第 112 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Italy |
-| 其他 | 已售中国同行丰润达商用 PoE |
+| 其他 | 已售中国同行丰润达商用 PoE；第 112 批：博洛尼亚网络增值分销（VAD）→ **分销 20% small，加厚 small 一次（STC-2224GP / STC-4424GCPM / STC-424XGGPM-280W / STC-110XGE 作第二价位 + STH 10G / 25G 敲门砖；中性包装）**；稿内不点名 Edge-Core（第 112 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络安全 / UC / 网络增值分销
 - **触达通道（公开）**：role: 增值分销商（已售丰润达）；region: 意大利

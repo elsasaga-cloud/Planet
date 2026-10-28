@@ -73,6 +73,22 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 112 批（CA · 1 次检索：provowire.com/about-provo（Established in Montreal in 1958；headquartered in Toronto；offices in Montreal）+ provowire.com/contact-us（620 Rowntree Dairy Rd. Woodbridge ON L4L 5T8；401 rue Locke St-Laurent QC H4T 1X7）+ provowire.com/careers（in-house developed and sub-distributed product lines）+ rocketreach（44 employees；$14.8M；Elliot Greenberg VP of Operations）+ dnb（Key Principal Haskell Greenberg）+ LinkedIn（11-50；Woodbridge；Founded 1958）；安省 / 联邦登记号未取；2026-10-28，2026-10-28 查；https://www.provowire.com/about-provo）：**
+
+- 法定名 / 登记号：Provo Ltd. / Provo Ltée（provowire.com；总部 620 Rowntree Dairy Rd., Woodbridge, ON L4L 5T8；蒙特利尔 401 rue Locke, St-Laurent, QC H4T 1X7；1958 年创立于蒙特利尔）— 加拿大最大的电子线缆 / 低压 / CCTV / AV 配件分销商之一（安防 / 自动化 / 对讲 / 电信渠道；**「in-house developed and sub-distributed product lines」= 自有开发产品线 + 代理线（PLANET、Provision-ISR 等）**）；家族企业（Key Principal Haskell Greenberg；Elliot Greenberg VP Operations = 研究档 KP；Sy / Spencer Greenberg 数字营销 / 采购）；44 人 / $14.8M 估；13 封 0 打开；表内「大口 FS；BDCOM」 · 未取（登记号） · 状态 **Active** · 成立 1958 · Ltd. / Ltée
+- 行业码 / 经营范围：低压线缆 / CCTV / AV 配件 分销（大多伦多 + 蒙特利尔）
+- 注册地址：620 Rowntree Dairy Rd., Woodbridge, ON L4L 5T8
+- 规模档：中小型（≈44 人）
+- 账目：估 $14.8M；—
+- 高管：Elliot Greenberg — Vice President of Operations（研究档 KP elliot@）= 拍板人 / 收件人
+- 高管：Sy Greenberg — Procurement and Operations / Digital Marketing（研究档 KP）= 抄
+- 高管：Haskell Greenberg — Key Principal（D&B）
+- 控制人 / 股东：Greenberg 家族
+- **这意味着什么：**
+  - **全国性低压 / CCTV 分销 + 自有开发产品线 → 分销 20% + 贴标 30% 两线，B BIG，加厚一次（切口：Provo 标或中性 PoE STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + 工业 STI-054GP / STI-144GP 作代理线第二价位或自有线补位 + 多伦多 / 蒙特利尔两仓 DAP；英 / 法文，Elliot 直呼 + Sy 抄）；回信 → 次候选升 A**
+  - 稿内不点名 PLANET / BDCOM / Provision-ISR；发信窗口 CA Wed 08–10 ET
+- 备注：分销 20% / 贴标 30%；B BIG 加厚一次；部分坐实（址 + 历史 + 家族 + 规模；登记号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -116,16 +132,18 @@ updated: 2026-10-28
 - **【用户表】大口 FS；BDCOM**
   > 大口FS / 大口FS BDCOM
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Elliot Greenberg（）elliot@provowire.com 〔用户表〕
-- **KP**：Sy Greenberg（） 〔用户表〕
+- **KP**：Elliot Greenberg（Vice President of Operations（rocketreach；Greenberg 家族；elliot@）= 拍板人 / 收件人（第 112 批 官方登记核实 2026-10-28））elliot@provowire.com 〔用户表〕
+- **KP**：Sy Greenberg（Procurement and Operations / Digital Marketing（LinkedIn Sy Greenberg, MBA）= 抄（第 112 批 官方登记核实 2026-10-28）） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Provo Ltd. / Provo Ltée（620 Rowntree Dairy Rd., Woodbridge, ON L4L 5T8 + 401 rue Locke, St-Laurent, QC H4T 1X7；登记号未取；Key Principal Haskell Greenberg；≈44 人；估 $14.8M） |
+| 成立 | 1958（第 112 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 加拿大 |
-| 其他 | 官网 provowire.com，语言 en-CA，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 provowire.com，语言 en-CA，快照状态 ok；角色判定来源：官网文案；第 112 批：加拿大最大低压线缆 / CCTV / AV 配件分销之一（自有开发产品线 + 代理线）→ **分销 20% + 贴标 30% 两线，B BIG，加厚一次（Provo 标或中性 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + STI-054GP / STI-144GP + 两仓 DAP；英 / 法文，Elliot 直呼 + Sy 抄）**；升 A 候选；稿内不点名 PLANET / BDCOM / Provision-ISR（第 112 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电子线缆 / CCTV / AV 配件分销（加拿大）
 - **触达通道（公开）**：role: 线缆/安防分销商（加拿大，PLANET/BDCOM 在售）；region: 加拿大；contact: sales@provowire.com、elliot@provowire.com
@@ -211,8 +229,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Elliot Greenberg | — | elliot@provowire.com | 调研核实（公开页） | 用户表 |
-| Sy Greenberg | — | — | 调研核实（公开页） | 用户表 |
+| Elliot Greenberg | Vice President of Operations（rocketreach；Greenberg 家族；elliot@）= 拍板人 / 收件人（第 112 批 官方登记核实 2026-10-28） | elliot@provowire.com | 调研核实（公开页） | 用户表 |
+| Sy Greenberg | Procurement and Operations / Digital Marketing（LinkedIn Sy Greenberg, MBA）= 抄（第 112 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 用户表 |
 | BDCOM | — | sales@provowire.com / elliot@provowire.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发

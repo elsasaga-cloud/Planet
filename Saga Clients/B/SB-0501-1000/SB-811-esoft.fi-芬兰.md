@@ -73,6 +73,20 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 112 批（FI · 1 次检索：finder.fi（eSoft Verkkokauppa；Y-tunnus 1962756-7；Mätästie 3 C 31 00770 Helsinki；Perustettu 30.10.2009；Yksityinen elinkeinonharjoittaja；eSoft - Verkkokauppa (Tmi Erno T)）+ asiakastieto.fi（Y-tunnus 1962756-7；Muu postimyynti ja verkkokauppa 47919）+ esoft.fi（Power over Ethernet 219 / Industrial PoE 104 / PoE-kytkimet 64；PLANET MGS-910XP；Nouto Vantaalta）；2026-10-28，2026-10-28 查；https://www.finder.fi/Turvallisuustuotteet+turvallisuuspalvelut/eSoft+Verkkokauppa/Helsinki/yhteystiedot/2239784）：**
+
+- 法定名 / 登记号：eSoft – Verkkokauppa (Tmi Erno T.)（esoft.fi；Mätästie 3 C 31, 00770 Helsinki；自提 Vantaa；Y-tunnus 1962756-7）— 2009-10-30 成立的个人独资网店（yksityinen elinkeinonharjoittaja；TOL 47919 邮购 / 网店），**PoE 专精：Power over Ethernet 219 SKU（工业 PoE 104 / PoE 交换机 64 / 注入器分离器 36），在售 PLANET 与 HRUI PoE+ 交换机**；仅 esoft@ / asiakaspalvelu@；表内「AOA 的；工业 FS」；未发过信 · Y-tunnus 1962756-7 · 状态 **Aktiivinen** · 成立 2009-10-30 · Tmi（个人独资）
+- 行业码 / 经营范围：网络设备网店（PoE 专精，赫尔辛基）
+- 注册地址：Mätästie 3 C 31, 00770 Helsinki
+- 规模档：微型（1 人）
+- 账目：—（个人独资，无公开账）；—
+- 高管：Erno T.（姓氏未取全）— Toiminimen haltija = 拍板人 / 收件人（esoft@esoft.fi）
+- 控制人 / 股东：Erno T.
+- **这意味着什么：**
+  - **一人网店但 PoE 专精（219 个 PoE SKU、已售台系 + 中系 PoE）→ 例外不按「一人网店」不动：分销 20% small，一页纸一次（切口：STC-028GP / STC-228GP / STC-2224GP + STI-054GP 作现有 PoE 货架的第二价位 + 预付款 + FI DAP 小起订；芬兰语 / 英文引子）；再无回声 → 不动**
+  - 稿内不点名 PLANET / HRUI；发信窗口 Thu 12–14 EET
+- 备注：分销 20% small；一页纸一次（一人网店例外：PoE 专精）；坐实（Y-tunnus + 成立日 + 形式）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -106,16 +120,17 @@ updated: 2026-10-28
   > AOA的；工业FS
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（销售）（）esoft@esoft.fi 〔https://www.esoft.fi/〕
+- **KP**：Erno T.（Tmi 业主（eSoft Tmi Erno T.；finder.fi）= 拍板人 / 收件人（第 112 批 官方登记核实 2026-10-28）） 〔https://www.finder.fi/〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照品牌识别：已售 HRUI））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | （待核，eSoft Oy？） |
-| 成立 | （待核） |
+| 法定名称 | eSoft Tmi Erno T.（Y-tunnus 1962756-7；toiminimi；在售 PLANET + HRUI） |
+| 成立 | 2009-10-30（第 112 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 芬兰 |
-| 其他 | 芬兰语站；PoE 全品类（含 Saga 价目缺口的注入器/分离器/COAX/SFP） |
+| 其他 | 芬兰语站；PoE 全品类（含 Saga 价目缺口的注入器/分离器/COAX/SFP）；第 112 批：芬兰一人 PoE 专精网店（已售同类 PoE）→ **分销 20% small，一页纸一次（一人网店例外：PoE 专精；STC-028GP / STC-228GP / STC-2224GP 一口价 + MOQ 1）**；稿内不点名 PLANET / HRUI（第 112 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络设备网店：PoE 交换机 / 工业 PoE / 注入器 / 分离器 / SFP / MC / GPS 追踪
 
@@ -180,6 +195,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Erno T. | Tmi 业主（eSoft Tmi Erno T.；finder.fi）= 拍板人 / 收件人（第 112 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.finder.fi/ |
 | AOA | — | — | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：无邮箱：只能电话 / WhatsApp / 官网表单
@@ -248,7 +264,7 @@ updated: 2026-10-28
 **主题**：STI-288GP - industrial DIN-rail switch (neutral label)
 
 ```text
-Hello,
+Hi Erno,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Your Industrial PoE category already runs to 100+ SKUs — we build DIN-rail PoE switches (8 PoE + 2 SFP, managed on a Marvell platform or unmanaged) in neutral packing, 1-pc MOQ; which price point in that category is currently hardest for you to fill?
 

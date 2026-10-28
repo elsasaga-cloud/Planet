@@ -78,6 +78,22 @@ updated: 2026-10-28
 - 窗口内无该国法定假日
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 112 批（CA · 1 次检索：bbb.org（Cozzmic；Business Incorporated 7/5/2010；Business Started 1/10/2013；Corporation；Alternate Names 7546246 Canada Inc; Cozzmic Communications；Years in Business 12）+ ministryofcyberaffairs ISP 名录（7546246 Canada Inc. (Cozzmic Communications)；BITS licensee；Reseller；20 Ryan Place Unit 3 Brantford）+ contactout（Founded 2013；6 employees；Rob Simmons Chief Do-er；Sachinder Singh Azure and System Administrator）+ bctcommunicationsystems.ca（BCT has merged with Cozzmic）+ alignable（创始人自述）；2026-10-28，2026-10-28 查；https://www.bbb.org/ca/on/brantford/profile/telecommunications/cozzmic-0107-1401089）：**
+
+- 法定名 / 登记号：7546246 Canada Inc.（商号 Cozzmic / Cozzmic Communications；cozzmic.com；20 Ryan Place, Unit 3, Brantford, ON N3S 7S1）— 联邦公司 2010-05-07 注册、2013-10-01 起营业的电信 / 安防 / 网络集成商（VoIP / Hosted PBX、CCTV / 门禁 / 报警监控、结构化布线、CRTC 登记的互联网转售商；2023 并入 BCT Communication Systems）；6 名员工；BBB 建档；KP Rob Simmons（Chief Do-er = 创始人 / 业主）、Sachinder Singh（Network & VoIP / Azure 管理员）；11 封 0 打开 · 联邦公司号 7546246（Corporations Canada） · 状态 **Active** · 成立 2010-05-07（营业 2013-10-01） · Inc.（联邦）
+- 行业码 / 经营范围：电信 / 安防 / 网络 集成 + ISP 转售（布兰特福德）
+- 注册地址：20 Ryan Place, Unit 3, Brantford, ON N3S 7S1
+- 规模档：微型（6 人）
+- 账目：<$5M（zoominfo 估）；—
+- 高管：Rob Simmons — Chief Do-er / 创始人（contactout / shopbrantford）= 拍板人 / 收件人
+- 高管：Sachinder Singh — Network & VoIP Engineer / Azure 管理员（研究档 KP）= 抄
+- 控制人 / 股东：Rob Simmons（推定）
+- 曾用名：BCT Communication Systems（并入）
+- **这意味着什么：**
+  - **6 人 VoIP + CCTV 集成商 → 集成 25% small，一页纸一次（切口：话机 + 摄像机部署的 PoE STC-028GP / STC-228GP / STC-2224GP 一口价 + MOQ 1 + 加拿大 DAP；英文，Rob 直呼）；再无回声 → 不动**
+  - 发信窗口 CA Wed 08–10 ET；稿内 FCC / CE
+- 备注：集成 25% small；一页纸一次；坐实（联邦公司号 + 成立日 + 业主）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -120,16 +136,18 @@ updated: 2026-10-28
 - **【用户表】安防**
   > 安防
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Sachinder Singh（）sachinders@cozzmic.com 〔用户表〕
-- **KP**：Rob Simmons（）sales@cozzmic.com 〔用户表〕
+- **KP**：Sachinder Singh（Network & VoIP Engineer / Azure 管理员 = 抄（第 112 批 官方登记核实 2026-10-28））sachinders@cozzmic.com 〔用户表〕
+- **KP**：Rob Simmons（Chief Do-er / 创始人 · 业主（contactout / shopbrantford；7546246 Canada Inc.）= 拍板人 / 收件人（第 112 批 官方登记核实 2026-10-28））sales@cozzmic.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | 7546246 Canada Inc.（商号 Cozzmic / Cozzmic Communications；联邦公司号 7546246；20 Ryan Place, Unit 3, Brantford, ON N3S 7S1；BCT Communication Systems 并入） |
+| 成立 | 2010-05-07（营业 2013-10-01）（第 112 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 加拿大 |
-| 其他 | 官网 cozzmic.com，语言 en-US，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 cozzmic.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 112 批：布兰特福德 6 人 VoIP + CCTV 集成商（CRTC 登记 ISP 转售）→ **集成 25% small，一页纸一次（STC-028GP / STC-228GP / STC-2224GP 一口价 + MOQ 1 + 加拿大 DAP；Rob 直呼）**（第 112 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电信 / 安防 / 基础设施集成（加拿大）
 - **触达通道（公开）**：role: 电信/安防集成商（加拿大）；region: 加拿大；contact: sales@cozzmic.com、sachinders@cozzmic.com
@@ -209,8 +227,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Sachinder Singh | — | sachinders@cozzmic.com | 调研核实（公开页） | 用户表 |
-| Rob Simmons | — | sales@cozzmic.com | 调研核实（公开页） | 用户表 |
+| Sachinder Singh | Network & VoIP Engineer / Azure 管理员 = 抄（第 112 批 官方登记核实 2026-10-28） | sachinders@cozzmic.com | 调研核实（公开页） | 用户表 |
+| Rob Simmons | Chief Do-er / 创始人 · 业主（contactout / shopbrantford；7546246 Canada Inc.）= 拍板人 / 收件人（第 112 批 官方登记核实 2026-10-28） | sales@cozzmic.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

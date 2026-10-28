@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -76,6 +76,19 @@ updated: 2026-10-27
 
 - 法定假日：11-01 All Saints' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 112 批（HU · 1 次检索：companywall.hu Aura Trans Kft.（Rákóczi út 22 Budapest；2009；tel 01/2679704 20/9466366 20/9675389；E-mail info@hersnet.hu；web www.hersnet.hu/auratrans）= 与研究档手机号 36-20-94 66366 一致；opten / nemzeticegtar 无 Hersnet Kft 命中（HIRNET Kft. 11055640-2-04 Békéscsaba / HS-NET Kft. Soponya = 同音他家，≠）；2026-10-28，2026-10-28 查；https://www.companywall.hu/v%C3%A1llalat/aura-trans-kft/MM9wgtCC）：**
+
+- 法定名 / 登记号：「Hersnet Ltd」（匈牙利；邮箱 antennatechnika…；手机 +36 20 946 6366）— 1 次检索：companywall.hu 显示 **info@hersnet.hu + 电话 20/9466366 挂在 Aura Trans Kft.（Budapest, Rákóczi út 22；2009 年登记；web hersnet.hu/auratrans）名下** → Hersnet 疑为 Aura Trans Kft. 的商号 / 关联站（电话一致，待证）；无 Hersnet 独立法人；需求 HDMI KVM 延长器（Saga 不做）；WA 1 次回复后 20 次跟进无果 · 未取（Aura Trans Kft. 税号未取） · 状态 **未取** · 成立 2009（Aura Trans Kft.） · Kft.（待证）
+- 行业码 / 经营范围：天线 / 弱电 技术（布达佩斯，待证）
+- 注册地址：Rákóczi út 22, Budapest（Aura Trans Kft.，待证）
+- 规模档：微型
+- 账目：—；—
+- 高管：（无 KP；WA 联系人未具名）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **需求为 HDMI KVM 延长器（非 Saga 品类）+ 微型 + 20 次无果 → 不动**
+- 备注：部分坐实（电话对上 Aura Trans Kft.，法人待证）→ 不动（非目标品类）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -105,8 +118,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Hersnet Ltd（表内；未能核实） |
+| 法定名称 | 「Hersnet Ltd」未登记；电话 +36 20 946 6366 与 info@hersnet.hu 挂在 Aura Trans Kft.（Budapest, Rákóczi út 22；2009）名下 → 疑为其商号（待证） |
+| 成立 | 2009（Aura Trans Kft.）（第 112 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 匈牙利（+36 20 移动号） |
+| 其他 | 第 112 批：匈牙利天线 / 弱电微型户，需求 HDMI KVM 延长器（非 Saga 品类）+ 20 次无果 → **不动**（第 112 批 官方登记核实 2026-10-28） |
 
 - **业务线**：天线/弱电安装（据邮箱推断）；HDMI KVM 延长需求
 - **触达通道（公开）**：邮箱: （表内 Gmail）；WhatsApp: 已加
@@ -242,12 +257,12 @@ For the HDMI KVM extension you asked about, do you need it over Cat6 (up to 70 m
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 28）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 28）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

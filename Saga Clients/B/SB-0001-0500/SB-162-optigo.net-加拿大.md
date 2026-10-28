@@ -78,6 +78,22 @@ updated: 2026-10-28
 - 窗口内无该国法定假日
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 112 批（CA · 1 次检索：crunchbase（Legal Name Optigo Networks Inc.；Burnaby / Vancouver BC；Pook-Ping Yao CTO Co-Founder；John Attala Chief Growth Officer）+ cbinsights（#320 – 887 Great Northern Way Vancouver BC V5T 4T5）+ optigo.net 2020-06-02（Optigo Connect line of networking products … router management）+ LinkedIn（11–50；Founded 2012）+ prospeo（21–50；revenue $2,395,540）+ tracxn（founded 2012 by Dan Ronald and Pook Ping Yao）；BC 登记号未取；2026-10-28，2026-10-28 查；https://www.crunchbase.com/organization/optigo-networks）：**
+
+- 法定名 / 登记号：Optigo Networks Inc.（optigo.net；#320 – 887 Great Northern Way, Vancouver, BC V5T 4T5）— 2012 年创立（联合创始人 Pook-Ping Yao CTO、Dan Ronald）的智能楼宇 OT 网络公司：软件 OptigoVN / Visual BACnet（监控诊断）+ **Optigo Connect 自有品牌 OT 网络硬件线（光纤交换机 / 路由器，2020 扩线）**；21–50 人；营收估 $2.4M；Plug and Play / New Ventures BC 投资；表内「工业 FS 自己的品牌」「质量高」；仅 info@；7 封 0 打开 · 未取（BC 登记号） · 状态 **Active** · 成立 2012 · Inc.（BC）
+- 行业码 / 经营范围：智能楼宇 OT 网络 软件 + 自有品牌硬件（温哥华）
+- 注册地址：#320 – 887 Great Northern Way, Vancouver, BC V5T 4T5
+- 规模档：小型（21–50 人）
+- 账目：估 $2.4M（prospeo）；—
+- 高管：Pook-Ping Yao — CTO / Co-Founder（crunchbase）= 拍板人（邮箱未取）
+- 高管：John Attala — Chief Growth Officer（crunchbase）
+- 高管：（收件人 info@optigo.net，一问硬件产品经理）
+- 控制人 / 股东：创始人 + Plug and Play / New Ventures BC（少数）
+- **这意味着什么：**
+  - **自有品牌 Optigo Connect 硬件线（楼宇 OT 光纤 / PoE 交换机）→ 贴标 OEM 30% 目标，B，加厚 small 一次（切口：Optigo Connect 标 DIN 导轨 / 机架 PoE 交换机 STI-144GP / STI-154GP / STI-288DGGPM / STI-488DGGPM + STC-2224GP 作第二代工源 + 管理型 L2 + 3 年保 + 加拿大 DAP；英文，info@ 点名 CTO）；回信 → 次候选**
+  - 发信窗口 CA Wed 08–10 PT；稿内 FCC / CE
+- 备注：贴标 30%；加厚 small 一次；部分坐实（法定名 + 址 + 创始人；BC 登记号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -110,14 +126,17 @@ updated: 2026-10-28
 - **【用户表】工业 FS 自己的品牌**
   > 工业FS 自己的品牌；质量高
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Pook-Ping Yao（CTO / Co-Founder（crunchbase）= 拍板人（邮箱未取；info@ 点名）（第 112 批 官方登记核实 2026-10-28）） 〔https://www.crunchbase.com/organization/optigo-networks〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Optigo Networks Inc.（#320 – 887 Great Northern Way, Vancouver, BC V5T 4T5；BC 登记号未取；21–50 人；估 $2.4M） |
+| 成立 | 2012（第 112 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 加拿大 |
-| 其他 | 官网 optigo.net，语言 en-US，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 optigo.net，语言 en-US，快照状态 ok；角色判定来源：用户表；第 112 批：智能楼宇 OT 网络软件 + 自有品牌 Optigo Connect 硬件线 → **贴标 OEM 30%，加厚 small 一次（Optigo Connect 标 STI-144GP / STI-154GP / STI-288DGGPM / STI-488DGGPM + STC-2224GP 第二代工源 + 管理型 L2 + 3 年保 + 加拿大 DAP；info@ 点名 CTO）**（第 112 批 官方登记核实 2026-10-28） |
 
 - **业务线**：智能楼宇 OT 网络监控软件
 - **触达通道（公开）**：role: 楼宇 OT 网络软件商（加拿大，硬件线存疑）；region: 加拿大；contact: info@optigo.net
@@ -200,7 +219,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@optigo.net | 用户表原值 | Clients/ 表 |
+| Pook-Ping Yao | CTO / Co-Founder（crunchbase）= 拍板人（邮箱未取；info@ 点名）（第 112 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.crunchbase.com/organization/optigo-networks |
 
 - **通道建议**：企业邮箱可直发
 
@@ -268,7 +287,7 @@ updated: 2026-10-28
 **主题**：STI-288GPM - industrial DIN-rail L2 managed switch (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Pook-Ping,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For any Optigo-branded switches you still bundle with Visual Networks deployments in smart buildings, we can supply Marvell-based DIN-rail 8-PoE + 2 SFP managed units (SNMP/LLDP, −40~75 °C, FCC/CE/RoHS) under your label from small lots — do your integrator partners still ask you for hardware alongside the software?
 

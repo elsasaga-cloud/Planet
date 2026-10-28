@@ -70,6 +70,22 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 112 批（ES · 1 次检索：iberinform（RISTER TECNOLOGIA SL；CIF B67260901；marcas RISTER；AVENIDA ROMA 97 P BJ 08029 BARCELONA；constituida 16/07/2018；CNAE 4650）+ einforma（10 empleados 2025；importa y exporta；ranking entre las 350 primeras CNAE 4652）+ datoscif（capital 3,600 €）+ rister.com 首页（marcas ADILEC / AVIGILON / COMMEND / DLINK / GENETEC / HANWHA / NEOVO / PELCO / PRESENTCO 多系列）+ cuadernosdeseguridad 2018-01（distribuidor oficial AxxonSoft y D-Link）+ LinkedIn（11–50；Founded 1979）；2026-10-28，2026-10-28 查；https://www.iberinform.es/empresa/8097580/rister-tecnologia）：**
+
+- 法定名 / 登记号：RISTER TECNOLOGIA SL（rister.com；Avenida Roma 97, P. BJ, 08029 Barcelona；CIF B67260901；Registro Mercantil de Barcelona）— 2018-07-16 设立（RISTER 品牌 1979 起）的安防系统分销商（Avigilon / Hanwha / Pelco / Genetec / Commend / D-Link 官方分销（2018-01）/ AxxonSoft；**自有品牌 PRESENTCO（CCTV / IP / 热成像 / LPR / 服务器 / 太阳能 CCTV）**）；10 名雇员（2025）；股本 €3,600；进出口；CNAE 4652 前 350；KP Manu Mari（CCO，mmv@）、Fran Hita（Technical Manager）；表内「质量一般」；1 次跟进无回复；Elsa BCC 2025-03-29 已触达 · CIF B67260901 · 状态 **Activa** · 成立 2018-07-16（品牌 1979） · S.L.
+- 行业码 / 经营范围：安防系统 分销（自有品牌 PRESENTCO，巴塞罗那）
+- 注册地址：Avenida Roma 97, P. BJ, 08029 Barcelona
+- 规模档：小型（10 人）
+- 账目：未取（小型；股本 €3,600）；—
+- 高管：Manu Mari — Chief Commercial Officer（研究档 KP；mmv@）= 收件人
+- 高管：Fran Hita — Technical Manager（研究档 KP；info@）= 抄
+- 高管：（Administrador 未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **已有自有品牌 PRESENTCO（含服务器 / CCTV 整机）→ 贴标 30% small，B 加厚 small 一次（切口：PRESENTCO 标 PoE 交换机 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM 配自家 IP / 热成像摄像机 + 中性包装 / 自编货号 + 小 MOQ；西语引子，Manu 直呼）；回信 → 次候选**
+  - 稿内不点名 D-Link / Hanwha / Avigilon；发信窗口 Thu 12–14 CET
+- 备注：贴标 30% small；加厚 small 一次；坐实（CIF + 成立日 + 自有品牌证据）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -105,8 +121,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | RISTER TECNOLOGIA SL（CIF B67260901；自有品牌 PRESENTCO；10 人） |
+| 成立 | 2018-07-16（第 112 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 西班牙 |
-| 其他 | 官网 rister.com，语言 ?，快照状态 http_error；角色判定来源：用户表 |
+| 其他 | 官网 rister.com，语言 ?，快照状态 http_error；角色判定来源：用户表；第 112 批：巴塞罗那自有品牌（PRESENTCO）AV / 网络方案商 → **贴标 30% small，加厚 small 一次（PRESENTCO 标 PoE STC-028GP / STC-228GP / STC-2224GP + 中性包装 / 自编货号 + 小 MOQ；Manu 直呼）**（第 112 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络产品网店 / 销售平台（西班牙）
 - **触达通道（公开）**：role: 网络产品网店（西班牙，D-Link 为主）；region: 西班牙；contact: info@rister.com、mmv@rister.com

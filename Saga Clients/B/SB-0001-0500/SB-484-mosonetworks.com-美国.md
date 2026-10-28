@@ -1,6 +1,6 @@
 # mosonetworks.com
 
-> **评级 B**　|　加拿大　|　档案编号 `SB-484`　|　优先级 ★★　|　状态：已推送 2 次·未回复
+> **评级 B**　|　美国　|　档案编号 `SB-484`　|　优先级 ★★　|　状态：已推送 2 次·未回复
 >
 > **类型**：网络方案商（加拿大）（推断）　|　**历史关系**：推送 2 次（2025-09-23 → 2025-10-18）　|　**所在清单**：A优质名单(Canada)、AI评估(CA)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -9,7 +9,8 @@ code: SB-484
 rating: B
 rating_auto: B
 score: 40
-country: 加拿大
+country: 美国
+country_table: 加拿大  # 表内原填；调研纠正为 美国（research JSON country_fix）
 region: 北美
 website: mosonetworks.com
 type: 网络方案商（加拿大）
@@ -72,17 +73,32 @@ updated: 2026-10-28
 
 - `mosonetworks.com` → Microsoft 365（MX：mosonetworks-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 
-**假日避让（加拿大 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
+**假日避让（美国 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
 
-- 窗口内无该国法定假日
+- 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
+
+**公司底数 · 第 112 批（US · 1 次检索：mosonetworks.com/contact-us（2108 N ST # 9184 Sacramento CA 95816）+ prnewswire 2025-02-03（MosoLabs becomes Moso Networks；US-based；Stephen Leotis president and co-founder）+ ongoalliance.org（member MosoLabs Inc.；Stephen Leotis）+ iwceexpo（Stephen Leotis CEO and founder；prior Sercomm / ARRIS / Luma / First Alert）；California SoS 实体号未取；2026-10-28，2026-10-28 查；https://www.mosonetworks.com/about/）：**
+
+- 法定名 / 登记号：Moso Networks（原 MosoLabs；法定名待取：MosoLabs Inc.；mosonetworks.com；2108 N St #9184, Sacramento, CA 95816, USA）— 私有 5G / CBRS 小基站与中立主机网络设备商（Moso Canopy 5GID2 室内 5G 小基站、Moso Connect 5G RedCap 适配器；Qualcomm FSM200；OnGo 联盟成员；站内自述 TAA（我方不得引用））；President & CEO / Co-Founder Stephen Leotis（研究档 KP；ex-Sercomm / ARRIS）；**研究档国别 CA 有误 → 美国加州 → country_fix US**；14 封 0 打开 · 未取（CA SoS 实体号） · 状态 **Active** · 成立 未取（MosoLabs） · Inc.（加州，待取）
+- 行业码 / 经营范围：私有 5G 小基站 设备商（萨克拉门托）
+- 注册地址：2108 N St #9184, Sacramento, CA 95816, USA
+- 规模档：小型
+- 账目：未取；—
+- 高管：Stephen Leotis — President & CEO / Co-Founder（研究档 KP stephen@）= 拍板人 / 收件人
+- 控制人 / 股东：创始团队
+- 曾用名：MosoLabs（2025-02 更名）
+- **这意味着什么：**
+  - **自有品牌小基站全靠 PoE / PoE+ 供电 → 贴标 / 配套 30% small，一页纸一次（切口：Moso 标或中性 PoE+ / PoE++ STC-228GP / STC-2224GP / STI-288GPM 作小基站配套供电交换机 + FCC + 中性包装；英文，Stephen 直呼）；再无回声 → 不动**
+  - **country_fix US**（发信窗口 US Wed 08–10 PT）；稿内绝不提 TAA / 政府 / 中立主机运营商名
+- 备注：贴标 / 配套 30% small；一页纸一次；部分坐实（址 + 创始人 + 更名；法定名 / SoS 号未取）；country_fix US。
 
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | mosonetworks.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 加拿大 | 事实（用户表）|
+| 国家 | 美国 | 事实（用户表）|
 | 网站/域名 | mosonetworks.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 网络方案商（加拿大） | 推断（据兴趣/备注关键词） |
 | 联系人 | Stephen Leotis / President & Co-Founder | 事实（用户表） |
@@ -116,15 +132,17 @@ updated: 2026-10-28
 - **【用户表】Networking**
   > Networking
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Stephen Leotis（）stephen@mosonetworks.com 〔用户表〕
+- **KP**：Stephen Leotis（President & CEO / Co-Founder（prnewswire 2025-02；ex-Sercomm / ARRIS）= 拍板人 / 收件人（第 112 批 官方登记核实 2026-10-28））stephen@mosonetworks.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Moso Networks（原 MosoLabs；法定名待取 MosoLabs Inc.；2108 N St #9184, Sacramento, CA 95816, USA；CA SoS 号未取） |
+| 成立 | 未取（2025-02 更名）（第 112 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 加拿大 |
-| 其他 | 官网 mosonetworks.com，语言 ?，快照状态 ok；角色判定来源：待核 |
+| 其他 | 官网 mosonetworks.com，语言 ?，快照状态 ok；角色判定来源：待核；第 112 批：研究档国别 CA 有误 → 美国加州 → **country_fix US**；私有 5G / CBRS 小基站设备商（自有品牌、全靠 PoE 供电）→ **贴标 / 配套 30% small，一页纸一次（Moso 标或中性 PoE+ / PoE++ STC-228GP / STC-2224GP / STI-288GPM 配套供电 + FCC + 中性包装；Stephen 直呼）**；稿内绝不提 TAA / 政府 / 运营商名（第 112 批 官方登记核实 2026-10-28） |
 
 - **业务线**：网络 / Wi-Fi 方案（加拿大）
 - **触达通道（公开）**：role: 网络方案商（加拿大）；region: 加拿大；contact: sales@mosonetworks.com、stephen@mosonetworks.com
@@ -198,7 +216,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Stephen Leotis | — | stephen@mosonetworks.com | 调研核实（公开页） | 用户表 |
+| Stephen Leotis | President & CEO / Co-Founder（prnewswire 2025-02；ex-Sercomm / ARRIS）= 拍板人 / 收件人（第 112 批 官方登记核实 2026-10-28） | stephen@mosonetworks.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

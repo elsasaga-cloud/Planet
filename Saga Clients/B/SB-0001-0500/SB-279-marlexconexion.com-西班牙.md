@@ -72,6 +72,21 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 112 批（ES · 1 次检索：empresia.es（MARLEX CONEXION SL；CIF B65398588；CL ESPRONCEDA 300 LOCAL PTA.1；16 años；Capital 3.010 €；Ventas 0.5M €；2024；2 empleados；Administrador único / Propietario Donjoan Albert Torras Madolell）+ einforma（NIF B65398588；domicilio anterior Calle Pisto 6；CNAE 4650；Registro Mercantil de Barcelona）+ empresite（Sociedad limitada unipersonal；bajada de 5.290 posiciones ranking provincial）+ marlexconexion.com（distribuidor oficial ATEN；División Profesional / Retail）；2026-10-28，2026-10-28 查；https://www.empresia.es/empresa/marlex-conexion/）：**
+
+- 法定名 / 登记号：MARLEX CONEXION SL（S.L.U.；marlexconexion.com；Calle Espronceda 300, Local Pta 1, 08027 Barcelona（原 Calle Pisto 6）；CIF B65398588；Registro Mercantil de Barcelona）— ≈2010 年成立的 IT 连接性产品进口批发商（ATEN 西班牙官方分销；LogiLink / Retex；专业 + 零售两条线；网络卡 / 交换机 / PDU）；股本 €3,010；2024 销售 €0.5M；2 名雇员；省内排名下滑；Administrador único / 业主 Joan Albert Torras Madolell（= 研究档 KP Joan Torras Owner）；KP Philippe Provost（Sales Technician）；7 次跟进无回复 · CIF B65398588 · 状态 **Activa** · 成立 ≈2010（16 años） · S.L.U.
+- 行业码 / 经营范围：IT 连接性产品 进口批发（巴塞罗那）
+- 注册地址：Calle Espronceda 300, Local Pta 1, 08027 Barcelona
+- 规模档：微型（2 人）
+- 账目：2024 销售 €0.5M；股本 €3,010；—
+- 高管：Joan Albert Torras Madolell — Administrador único / 业主（empresia）= 拍板人 / 收件人（研究档 KP Joan Torras）
+- 高管：Philippe Provost — Sales Technician（研究档 KP；marlex@）= 抄
+- 控制人 / 股东：Joan Albert Torras Madolell
+- **这意味着什么：**
+  - **微型连接性批发商（2 人、€0.5M、排名下滑；7 次无回复）→ 分销 20% small，一页纸一次（切口：STC-028GP / STC-228GP 配 KVM / 机柜配件的 PoE 小件一口价 + MOQ 1；西语引子，Joan 直呼）；再无回声 → 不动**
+  - 稿内不点名 ATEN；发信窗口 Thu 12–14 CET
+- 备注：分销 20% small；一页纸一次；坐实（CIF + 业主 + 规模）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -103,14 +118,17 @@ updated: 2026-10-28
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Joan Torras（）joan@marlexconexion.com 〔用户表〕
 - **KP**：Philippe Provost（）marlex@marlexconexion.com 〔用户表〕
+- **KP**：Joan Albert Torras Madolell（Administrador único / 业主（empresia / iberinform）= 拍板人 / 收件人（第 112 批 官方登记核实 2026-10-28）） 〔https://www.empresia.es/〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | MARLEX CONEXION SL（CIF B65398588；Barcelona；2 人；≈€0.5M） |
+| 成立 | ≈2010（第 112 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 西班牙 |
-| 其他 | 官网 marlexconexion.com，语言 en，快照状态 ok；角色判定来源：表内早期 AI 描述 |
+| 其他 | 官网 marlexconexion.com，语言 en，快照状态 ok；角色判定来源：表内早期 AI 描述；第 112 批：巴塞罗那微型网络分销（2 人）→ **分销 20% small，一页纸一次（STC-028GP / STC-228GP / STC-2224GP 一口价 + MOQ 1）**（第 112 批 官方登记核实 2026-10-28） |
 
 - **业务线**：连接 / 网络产品分销（西班牙）
 - **触达通道（公开）**：role: 网络产品分销商（西班牙，多品牌）；region: 西班牙；contact: marlex@marlexconexion.com、joan@marlexconexion.com
@@ -196,6 +214,7 @@ updated: 2026-10-28
 |---|---|---|---|---|
 | Joan Torras | — | joan@marlexconexion.com | 调研核实（公开页） | 用户表 |
 | Philippe Provost | — | marlex@marlexconexion.com | 调研核实（公开页） | 用户表 |
+| Joan Albert Torras Madolell | Administrador único / 业主（empresia / iberinform）= 拍板人 / 收件人（第 112 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.empresia.es/ |
 
 - **通道建议**：企业邮箱可直发
 

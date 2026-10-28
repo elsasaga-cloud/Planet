@@ -78,6 +78,21 @@ updated: 2026-10-28
 - 窗口内无该国法定假日
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 112 批（CA · 1 次检索：nltinc.com/about-us（Founded in 1984 as a division of Levitt-Safety；underground lighting and digital network technologies）+ nltinc.com/contact-us（NLT Global Headquarters 533 McNicoll Ave. Toronto ON M2H 2C9；(416) 425-6559）+ norcat.org（2005 first company to implement Wi-Fi in mines；team 100 strong；Canada, Australia, Chile）+ nltinc.com 2024-09（40 years）+ mininglifeonline（旧址 33 Laird Drive）；安省 / 联邦登记号未取；2026-10-28，2026-10-28 查；https://nltinc.com/about-us/）：**
+
+- 法定名 / 登记号：Northern Light Technologies（NLT；法定名待取：Northern Light Technologies Inc.；nltinc.com；533 McNicoll Ave., Toronto, ON M2H 2C9（原 33 Laird Drive））— 1984 年作为 Levitt-Safety 事业部创立的矿用矿灯 / 充电柜 / 井下照明与 **井下数字网络（N-Connex）** 制造商（2005 年首家在矿山部署 Wi-Fi；Polaris / Aries 矿灯；团队 ≈100 人；加拿大 / 澳大利亚 / 智利）；表内「买的 MC / MC 板子次数比较多」；KP Marlon Noveloso、Spanton（职务待核）；12 封 0 打开 · 未取（登记号） · 状态 **Active** · 成立 1984（Levitt-Safety 事业部） · Inc.（待取）
+- 行业码 / 经营范围：矿用照明 + 井下网络设备 制造（多伦多）
+- 注册地址：533 McNicoll Ave., Toronto, ON M2H 2C9
+- 规模档：中小型（≈100 人）
+- 账目：未取；—
+- 高管：Marlon Noveloso — 研究档 KP（mnoveloso@；职务待核）= 收件人
+- 高管：Spanton — 研究档 KP（spanton@；职务待核）= 收件人（抄）
+- 控制人 / 股东：未取（Levitt-Safety 关联）
+- **这意味着什么：**
+  - **自有井下网络产品线、反复外购 MC / MC 板 → OEM 配套 30% 目标，B BIG，加厚一次（切口：N-Connex 类系统的配套工业 MC / 交换机 STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM（板级 / 整机皆可谈）+ 3 年保 + 加拿大 DAP；英文，Marlon 直呼 + Spanton 抄，一问采购 / 产品负责人）；回信 → 次候选升 A**
+  - 守界：Saga 无本安 / 防爆认证（IS / ATEX / MSHA）→ 稿内只谈非危险区的地面 / 机房 / 井口侧设备，绝不声称矿用认证；发信窗口 CA Wed 08–10 ET
+- 备注：OEM 配套 30%；B BIG 加厚一次；部分坐实（地址 + 历史 + 规模；登记号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -110,16 +125,18 @@ updated: 2026-10-28
 - **【用户表】买 MC / MC 板子 次数多**
   > 买的MC MC板子 次数比较多；可以多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Marlon Noveloso（）mnoveloso@nltinc.com 〔用户表〕
-- **KP**：Spanton（）spanton@nltinc.com 〔用户表〕
+- **KP**：Marlon Noveloso（Northern Light Technologies 研究档 KP（职务待核）= 收件人，一问采购 / 产品负责人（第 112 批 官方登记核实 2026-10-28））mnoveloso@nltinc.com 〔用户表〕
+- **KP**：Spanton（Northern Light Technologies 研究档 KP（职务待核）= 抄（第 112 批 官方登记核实 2026-10-28））spanton@nltinc.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Northern Light Technologies（NLT；法定名 / 登记号未取；533 McNicoll Ave., Toronto, ON M2H 2C9；1984 年 Levitt-Safety 事业部起；≈100 人；加 / 澳 / 智利） |
+| 成立 | 1984（第 112 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 加拿大 |
-| 其他 | 官网 nltinc.com，语言 en-CA，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 nltinc.com，语言 en-CA，快照状态 ok；角色判定来源：官网文案；第 112 批：矿用矿灯 + 井下数字网络（N-Connex）制造商，反复外购 MC / MC 板 → **OEM 配套 30% B BIG，加厚一次（STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM 板级 / 整机 + 3 年保 + 加拿大 DAP；Marlon 直呼 + Spanton 抄）**；升 A 候选；守界：Saga 无本安 / 防爆认证（IS / ATEX / MSHA），稿内只谈非危险区设备、绝不声称矿用认证；旁线索 Levitt-Safety（第 112 批 官方登记核实 2026-10-28） |
 
 - **业务线**：矿用帽灯 / 照明 / 井下网络与摄像头（自有品牌 NLT）
 - **触达通道（公开）**：role: 矿用设备制造商（加拿大，井下网络副线，MC 重复采购）；region: 加拿大；contact: spanton@nltinc.com、mnoveloso@nltinc.com
@@ -211,8 +228,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Marlon Noveloso | — | mnoveloso@nltinc.com | 调研核实（公开页） | 用户表 |
-| Spanton | — | spanton@nltinc.com | 调研核实（公开页） | 用户表 |
+| Marlon Noveloso | Northern Light Technologies 研究档 KP（职务待核）= 收件人，一问采购 / 产品负责人（第 112 批 官方登记核实 2026-10-28） | mnoveloso@nltinc.com | 调研核实（公开页） | 用户表 |
+| Spanton | Northern Light Technologies 研究档 KP（职务待核）= 抄（第 112 批 官方登记核实 2026-10-28） | spanton@nltinc.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

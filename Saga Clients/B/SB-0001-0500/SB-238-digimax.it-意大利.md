@@ -81,6 +81,22 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 112 批（IT · 1 次检索：ufficiocamerale（DIGIMAX SRL；P.IVA 00916230246；VIA DEI LAGHI 31 ALTAVILLA VICENTINA；Rea 237542；Fatturato € 61.280.498 (2025)；Dipendenti 93 (2026)；Iscrizione 27/05/1996；Utile € 4.021.740）+ aziende.it（ATECO 46.50.2 dal 1996；ricavi 2025 €61,280,498）+ digimax.it/en/9meanwell（first MEAN WELL distributor in Italy；P.IVA IT00916230246；Single-member company subject to direction and coordination of M2 NEXT HOLDING SRL）+ gruppogiovannini.it（brand partner Mean Well, Snappy, Eaglerise, Dalcnet…）+ fortronic（distributore ufficiale Meanwell；2000+ prodotti a stock）；2026-10-28，2026-10-28 查；https://www.ufficiocamerale.it/2543/digimax-srl）：**
+
+- 法定名 / 登记号：DIGIMAX SRL（digimax.it；Via dei Laghi 31, 36077 Altavilla Vicentina (VI)；P.IVA / CF 00916230246；REA VI-237542；PEC digimax.amministrazione@pec.it；SDI ZRUT8VN；单一股东，受 M2 NEXT HOLDING SRL（Gruppo Giovannini）管理协调）— 1996-05-27 登记的工业电源 / LED 驱动 / 工业 PC 与显示器增值分销商（**意大利首家 Mean Well 分销商**，2,000+ 现货；Snappy / P-Duke / Eaglerise；在售 Maiwe 工业交换机）；93 名雇员（2026）；2025 营收 €61.3M、净利 €4.02M；KP Matteo Tirapelle（Operations Manager，m.tirapelle@）、Flavio Zordan（IT Manager）；仅 1 封自动回复 · P.IVA 00916230246 / REA VI-237542 · 状态 **Attiva** · 成立 1996-05-27 · S.r.l.（socio unico；M2 NEXT HOLDING）
+- 行业码 / 经营范围：工业电源 / LED 驱动 / 工业 PC 增值分销（维琴察）
+- 注册地址：Via dei Laghi 31, 36077 Altavilla Vicentina (VI)
+- 规模档：中型（93 人）
+- 账目：2025 营收 €61,280,498 / 净利 €4,021,740；—
+- 高管：Matteo Tirapelle — Operations Manager（研究档 KP；m.tirapelle@）= 收件人
+- 高管：Flavio Zordan — IT Manager（研究档 KP）= 抄
+- 高管：（Amministratore 未取；Gruppo Giovannini）
+- 控制人 / 股东：M2 NEXT HOLDING SRL（Gruppo Giovannini）
+- **这意味着什么：**
+  - **€61M 工业电源分销巨头、已上架中系工业交换机 → 分销 20%，B BIG，加厚一次（切口：工业 PoE STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-488DGGPM 作现有工业交换机线的第二价位（同为 DIN 导轨 + 24/48V 电源配套场景）+ 3 年保 + IT DAP 小起订；意语引子，Matteo 直呼，一问工业网络产品经理）；回信 → 次候选升 A**
+  - 稿内不点名 Mean Well / Maiwe；发信窗口 Thu 12–14 CET
+- 备注：分销 20%；B BIG 加厚一次；坐实（P.IVA + REA + 营收 + 集团）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -132,8 +148,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | DIGIMAX SRL（P.IVA / CF 00916230246；REA VI-237542；Vicenza；母公司 M2 NEXT HOLDING SRL / Gruppo Giovannini；Mean Well 意大利首家分销） |
+| 成立 | 1996-05-27（第 112 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 意大利 |
-| 其他 | 官网 digimax.it，语言 it，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 digimax.it，语言 it，快照状态 ok；角色判定来源：官网文案；第 112 批：维琴察工业电子 / 电源分销商（2025 营收 €61.28M；93 人）→ **分销 20% B BIG，加厚一次（STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-488DGGPM 工业线 + STC-2224GP；Matteo 直呼）**；升 A 候选；旁线索 M2 NEXT HOLDING SRL（第 112 批 官方登记核实 2026-10-28） |
 
 - **业务线**：工业开关电源 / LED 驱动（Mean Well 等）分销；工业 PC / 显示器；工业交换机（Maiwe）
 - **触达通道（公开）**：role: 工业电源与工业 PC 分销商（在售 Maiwe 工业交换机）；region: 意大利；contact: digimax@digimax.it、m.tirapelle@digimax.it

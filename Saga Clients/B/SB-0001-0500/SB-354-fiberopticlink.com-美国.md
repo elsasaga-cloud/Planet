@@ -1,6 +1,6 @@
 # fiberopticlink.com
 
-> **评级 B**　|　加拿大　|　档案编号 `SB-354`　|　优先级 ★★　|　状态：已推送 17 次·未回复
+> **评级 B**　|　美国　|　档案编号 `SB-354`　|　优先级 ★★　|　状态：已推送 17 次·未回复
 >
 > **类型**：光纤网络品牌商（加拿大，自有标工业 FS/MC，高定价）（推断）　|　**历史关系**：推送 17 次（2024-05-09 → 2025-10-18）　|　**所在清单**：A优质名单(Canada)、AI评估(CA)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -9,7 +9,8 @@ code: SB-354
 rating: B
 rating_auto: B
 score: 44
-country: 加拿大
+country: 美国
+country_table: 加拿大  # 表内原填；调研纠正为 美国（research JSON country_fix）
 region: 北美
 website: fiberopticlink.com
 type: 光纤网络品牌商（加拿大，自有标工业 FS/MC，高定价）
@@ -81,18 +82,34 @@ updated: 2026-10-28
 
 - `fiberopticlink.com` → Microsoft 365（MX：fiberopticlink-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 
-**假日避让（加拿大 · 按下一步「2027-Q1」窗口 2027-01-01→2027-03-31）：**
+**假日避让（美国 · 按下一步「2027-Q1」窗口 2027-01-01→2027-03-31）：**
 
-- 法定假日：01-01 New Year's Day；03-26 Good Friday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 法定假日：01-01 New Year's Day；01-18 Martin Luther King Jr. Day；02-15 Washington's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
+
+**公司底数 · 第 112 批（US · 1 次检索：fiberopticlink.com 首页 / About（RLH Industries, Inc. 936 N. Main Street Orange, CA 92867；since 1988；designs, engineers, manufactures；Industrial Ethernet Switches / PoE Managed / Unmanaged；Local (714) 532-1672）+ rlhfiber.com（sister site）+ thomasnet（Fiber Optic Link Orange CA；1-9 employees；$1M–$4.9M；established 1988；Manufacturer / Distributor）+ entelec 2020 产品手册；California SoS 实体号未取；2026-10-28，2026-10-28 查；https://www.fiberopticlink.com/contact-us/about-rlh/）：**
+
+- 法定名 / 登记号：RLH Industries, Inc.（商号 Fiber Optic Link；fiberopticlink.com / rlhfiber.com；936 N. Main Street, Orange, CA 92867, USA）— 1988 年创立的加固型光纤通信设备品牌商 / 制造商（工业 MC、工业以太网交换机（含 PoE 管理 / 非管理）、光纤隔离 / Power over Fiber、机柜、电源；面向公用事业 / 交通 / 能源 / 政府 / 工业）；ThomasNet 估 1–9 人、$1–4.9M；**研究档国别 CA 有误 → 美国加州（714 区号）→ country_fix US**；KP Gary Gunning、Albert Gregory（EVP）、Cesar Ordaz（Purchasing Agent）；27 封 1 次打开 0 回；表内「自己的牌子，标价很高」「很有实力」 · 未取（CA SoS 实体号） · 状态 **Active（经营中）** · 成立 1988 · Inc.（加州）
+- 行业码 / 经营范围：加固型光纤通信设备 品牌商（橙县）
+- 注册地址：936 N. Main Street, Orange, CA 92867, USA
+- 规模档：小型（估 1–9 人；自报规模更大）
+- 账目：估 $1–4.9M（ThomasNet）；—
+- 高管：Albert Gregory — Executive Vice President（研究档 KP；agregory@）= 拍板人
+- 高管：Cesar Ordaz — Purchasing Agent（研究档 KP；cordaz@）= 收件人
+- 高管：Gary Gunning — 研究档 KP（ggunning@；职务待核）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自有品牌工业 MC / 交换机、定价高、有采购专员 → 贴标 OEM 30% 目标，B，加厚一次（切口：RLH 标工业 PoE / 非 PoE 交换机 STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-488DGGPM 作第二代工源 + 中性包装 / 自编货号 + 3 年保 + FCC / CE；英文，Cesar 直发 + Albert 抄）；回信 → 次候选升 A**
+  - **country_fix US**（发信窗口 US Wed 08–10 PT；稿内 FCC 必有、UKCA 不提）；守界：不提政府 / 军用项目线
+- 备注：贴标 30%；B 加厚一次；部分坐实（法定名 + 址；SoS 号未取）；country_fix US。
 
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | fiberopticlink.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 加拿大 | 事实（用户表）|
+| 国家 | 美国 | 事实（用户表）|
 | 网站/域名 | fiberopticlink.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 光纤网络品牌商（加拿大，自有标工业 FS/MC，高定价） | 推断（据兴趣/备注关键词） |
 | 联系人 | 很有实力 Gary Gunning / Albert G / Executive Vice President / Cesar H / Purchasing Agent | 事实（用户表） |
@@ -125,17 +142,19 @@ updated: 2026-10-28
 - **【用户表】自有牌子 工业 FS MC 光猫；标价高**
   > 工业FS MC 光猫 KAPDE功能的设备 自己的牌子 标价很高；很有实力 Gary Gunning
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Cesar H（）info@fiberopticlink.com 〔用户表〕
-- **KP**：Gary Gunning（）ggunning@fiberopticlink.com 〔用户表〕
-- **KP**：Albert G（） 〔用户表〕
+- **KP**：Cesar H（Purchasing Agent（Cesar Ordaz；cordaz@）= 收件人（第 112 批 官方登记核实 2026-10-28））info@fiberopticlink.com 〔用户表〕
+- **KP**：Gary Gunning（RLH Industries 研究档 KP（职务待核）= 抄（第 112 批 官方登记核实 2026-10-28））ggunning@fiberopticlink.com 〔用户表〕
+- **KP**：Albert G（Executive Vice President（Albert Gregory；agregory@）= 拍板人（抄）（第 112 批 官方登记核实 2026-10-28）） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | RLH Industries, Inc.（商号 Fiber Optic Link；fiberopticlink.com / rlhfiber.com；936 N. Main Street, Orange, CA 92867, USA；CA SoS 号未取） |
+| 成立 | 1988（第 112 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 加拿大 |
-| 其他 | 官网 fiberopticlink.com，语言 ?，快照状态 http_error；角色判定来源：用户表 |
+| 其他 | 官网 fiberopticlink.com，语言 ?，快照状态 http_error；角色判定来源：用户表；第 112 批：研究档国别 CA 有误 → 美国加州（714 区号）→ **country_fix US**；加固型光纤 MC / 工业以太网交换机自有品牌商（定价高、有采购专员）→ **贴标 OEM 30%，B，加厚一次（RLH 标 STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM / STI-488DGGPM 第二代工源 + 中性包装 / 自编货号 + 3 年保 + FCC / CE；Cesar 直发 + Albert 抄）**；守界：不提政府 / 军用线（第 112 批 官方登记核实 2026-10-28） |
 
 - **业务线**：光纤网络设备（自有品牌：工业 FS / MC / ONU）
 - **触达通道（公开）**：role: 光纤网络品牌商（加拿大，自有标工业 FS/MC，高定价）；region: 加拿大；contact: ggunning@fiberopticlink.com、info@fiberopticlink.com
@@ -233,9 +252,9 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Cesar H | — | info@fiberopticlink.com | 调研核实（公开页） | 用户表 |
-| Gary Gunning | — | ggunning@fiberopticlink.com | 调研核实（公开页） | 用户表 |
-| Albert G | — | — | 调研核实（公开页） | 用户表 |
+| Cesar H | Purchasing Agent（Cesar Ordaz；cordaz@）= 收件人（第 112 批 官方登记核实 2026-10-28） | info@fiberopticlink.com | 调研核实（公开页） | 用户表 |
+| Gary Gunning | RLH Industries 研究档 KP（职务待核）= 抄（第 112 批 官方登记核实 2026-10-28） | ggunning@fiberopticlink.com | 调研核实（公开页） | 用户表 |
+| Albert G | Executive Vice President（Albert Gregory；agregory@）= 拍板人（抄）（第 112 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 17 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

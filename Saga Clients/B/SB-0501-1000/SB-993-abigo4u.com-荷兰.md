@@ -75,6 +75,20 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 112 批（NL · 1 次检索：tweakers.net shopreview（Abigo4u；www.abigo4u.com；KVK 17140959；Cereslaan 10 5384 VT Heesch）+ abigo-staging.magento-2-migratie.nl/contact（www.AbiGo4u.com is een onderdeel van Arcobel Embedded Solutions BV；KvK 17140959；BTW NL810271382801）+ abigo4u.com/nl/industrial-networking/media-converter（Utepo UOF7301E-POE / Antaira FCU 系列；lokaal op voorraad）；2026-10-28，2026-10-28 查；https://abigo4u.com/nl/industrial-networking/media-converter.html）：**
+
+- 法定名 / 登记号：AbiGo4u.com — onderdeel van Arcobel Embedded Solutions BV（Cereslaan 10, 5384 VT Heesch；KvK 17140959；BTW NL810271382801）— 工业网络产品网店（工业 MC / PoE MC / 交换机；Utepo、Antaira 等多品牌，「lokaal op voorraad」，Benelux €250 起免运）；母体 Arcobel 为嵌入式计算分销商；Elsa 群发 BCC 2025-02-16 已触达；仅 info@ / sales@；官网 http_error（现可达） · KvK 17140959 · 状态 **Actief** · 成立 未取（KvK 171… 号段 ≈2000 年代初） · B.V.（网店为 Arcobel Embedded Solutions BV 一部分）
+- 行业码 / 经营范围：工业网络 / 嵌入式计算 分销 + 网店（Heesch）
+- 注册地址：Cereslaan 10, 5384 VT Heesch
+- 规模档：小型
+- 账目：未取；—
+- 高管：（无 KP；info@ / sales@abigo4u.com）— 一问产品经理
+- 控制人 / 股东：Arcobel（未取）
+- **这意味着什么：**
+  - **工业网络网店（已售台系 / 中系工业 MC 与 PoE）→ 分销 20% small，一页纸一次（第二次触达：STI-054GP / STI-144GP / STI-154GP + 工业 MC 作现有 Antaira / Utepo 价位之下的第二档 + NL DAP 小起订；荷语引子）；有回声再加厚**
+  - 稿内不点名 Antaira / Utepo；发信窗口 Thu 12–14 CET；旁线索 Arcobel Embedded Solutions BV（嵌入式分销，同法人）
+- 备注：分销 20% small；一页纸一次；坐实（KvK + 母体 + 地址）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -107,8 +121,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Arcobel Embedded Solutions BV（网店 AbiGo4u / abigo4u.com；KvK 17140959；BTW NL810271382801；Heesch） |
+| 成立 | ≈2002（KvK 1714…）（第 112 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 荷兰 |
-| 其他 | 官网 abigo4u.com，语言 ?，快照状态 http_error；角色判定来源：待核 |
+| 其他 | 官网 abigo4u.com，语言 ?，快照状态 http_error；角色判定来源：待核；第 112 批：Heesch 嵌入式 / 工业计算分销商的网店品牌（同一法人）→ **分销 20% small，一页纸一次（STI-054GP / STI-144GP / STI-154GP / STI-288GPM 工业线 + 中性包装）**；旁线索 Arcobel Embedded Solutions BV（同法人，主站另评估）（第 112 批 官方登记核实 2026-10-28） |
 
 - **业务线**：MC / 工业 MC 经销（荷兰）
 - **触达通道（公开）**：role: MC 多品牌经销商（荷兰）；region: 荷兰；contact: info@abigo4u.com、sales@abigo4u.com
