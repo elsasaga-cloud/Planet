@@ -1,0 +1,52 @@
+{
+ "code": "XB-C0877",
+ "name": "ITESA-VEDITEC",
+ "round": "W3-R06",
+ "researched_at": "2026-10-28",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "安防电子独立分销第一（ITESA-VEDITEC，Marseille；1978 起；155 人、15 家分部；175 家供应商、6,000 SKU；仅售专业客户）",
+ "type_final": "安防电子独立分销第一（ITESA-VEDITEC，Marseille；1978 起；155 人、15 家分部；175 家供应商、6,000 SKU；仅售专业客户）",
+ "size": "安防电子独立分销第一（ITESA-VEDITEC，Marseille；1978 起；155 人、15 家分部；175 家供应商、6,000 SKU；仅售专业客户）",
+ "brands_seen": [],
+ "saga_line": "SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE",
+ "fit": "品类广、供应商多 → 可纳入新 PoE 线",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "法国#1独立安防分销, 1978年创立, 15个办事处, 155员工, €41M+",
+   "quote": "",
+   "url": "",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "官网首页 contact@itesa.eu；175 fournisseurs et fabricants，6000 références",
+   "quote": "175 fournisseurs et fabricants … Un stock de 6000 références produits",
+   "url": "https://www.itesa-veditec.com/"
+  }
+ ],
+ "contacts": {
+  "email": "contact@itesa.eu",
+  "email_status": "来源库公开邮箱",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "A",
+ "grade_reason_final": "FR 安防分销龙头（中大型）、邮箱已补 → 升 A 首触",
+ "next_move": {
+  "action": "首触",
+  "angle": "分销三件套：HRUI 24 口 + SmartByte 24 口 L2+ + STI",
+  "model": "STC-2224GP / STC-424XGGPM-280W / STI-288DGGPM",
+  "price": "USD 86 / USD 170 / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "FR 周四 12–14",
+  "when": "2026-12-17"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "draft_en": {
+  "subject": "PoE switch line for your reseller channel - distributor pricing",
+  "body": "Hi,\n\nSaga Telecom supplies network and security distributors in Europe and North America with PoE and industrial switches; we are an engineering and supply-chain-first telecom partner, so you deal directly with the people who specify the product.\n\nThree PoE switches our distributor partners move most, all EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE, under our label or yours:\n\n- STC-2224GP: 24 x GE PoE+ (300 W) + 2 x GE + 2 x SFP, USD 86.\n- STC-424XGGPM-280W: 24 x GE PoE+ (280 W) + 4 x 10G SFP+, Marvell-based L2+ managed, USD 170.\n- STI-288DGGPM: DIN-rail industrial L2+, 8 x GE PoE+ (240 W) + 2 x SFP, -40 to +75 C, USD 137, 3-year warranty (12 months on the commercial units).\n\nWhich would be worth a sample for your installer customers first - the 24-port entry PoE switch or the DIN-rail unit?\n\nSimon\nSaga Telecom - sagatele.com"
+ },
+ "deep": false
+}

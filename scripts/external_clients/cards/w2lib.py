@@ -11,7 +11,7 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from common import DATA, ROOT  # noqa: E402
 from research_store import put  # noqa: E402
 
-D = '2026-10-27'
+D = '2026-10-28'
 R = 'W2'
 SIG = "\n\nSimon\nSaga Telecom - sagatele.com"
 SNAP = 'USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)'
@@ -22,8 +22,10 @@ CERT = {'CA': 'FCC/ISED', 'US': 'FCC/CE', 'GB': 'UKCA/CE', 'TR': 'CE'}
 
 def cert(iso):
     return CERT.get(iso, CERT_DEFAULT)
-WHEN_EU = {'W46': '2026-11-12', 'W47': '2026-11-19', 'W48': '2026-11-26', 'W49': '2026-12-03', 'W50': '2026-12-10', 'W51': '2026-12-17'}
-WHEN_CA = {'W46': '2026-11-11', 'W47': '2026-11-18', 'W48': '2026-11-25', 'W49': '2026-12-02', 'W50': '2026-12-09'}
+WHEN_EU = {'W46': '2026-11-12', 'W47': '2026-11-19', 'W48': '2026-11-26', 'W49': '2026-12-03', 'W50': '2026-12-10', 'W51': '2026-12-17',
+           'W02': '2027-01-14', 'W03': '2027-01-21', 'W04': '2027-01-28', 'W05': '2027-02-04'}
+WHEN_CA = {'W46': '2026-11-11', 'W47': '2026-11-18', 'W48': '2026-11-25', 'W49': '2026-12-02', 'W50': '2026-12-09', 'W51': '2026-12-16',
+           'W02': '2027-01-13', 'W03': '2027-01-20', 'W04': '2027-01-27', 'W05': '2027-02-03'}
 SNAP86 = 'USD 86'
 def window(iso):
     return 'CA 周三 08–10 当地' if iso in ('CA', 'US') else iso + ' 周四 12–14'
@@ -104,9 +106,9 @@ def dist2_intro(iso):
             "we are an engineering and supply-chain-first telecom partner, so you deal directly with the people who specify the product.\n\n%s" % dist2_block(iso))
 
 
-def j(J, code, g, act, slot=None, typ='', fit='', reason='', lead='Hi,', q='', to=None, kp=None, notes='', kind=None, angle='', force_first=False, hits_domain=None, touch=None):
+def j(J, code, g, act, slot=None, typ='', fit='', reason='', lead='Hi,', q='', to=None, kp=None, notes='', kind=None, angle='', force_first=False, hits_domain=None, touch=None, iso=None, ev=None):
     J[code] = dict(g=g, act=act, slot=slot, typ=typ, fit=fit, reason=reason, lead=lead, q=q, to=to, kp=kp or [], notes=notes, kind=kind, angle=angle,
-                   force_first=force_first, hits_domain=hits_domain, touch=touch)
+                   force_first=force_first, hits_domain=hits_domain, touch=touch, iso=iso, ev=ev or [])
 
 
 CONS = '顾问/培训/小集成商，非渠道 → B（不进第二封）'
@@ -120,13 +122,14 @@ def run(J, R, expect=None):
     cards = []
     for code, jj in J.items():
         r = recs[code]
-        iso = r['iso']
+        iso = jj.get('iso') or r['iso']
         dom = (r.get('domain') or r.get('website') or '').split(' ')[0].lower()
         hits = [] if jj['force_first'] else SB.get(jj['hits_domain'] or dom, [])
         email = jj['to'] or src_email(r) or (hits[0]['邮箱'] if hits else '')
         sdate = src_date(r)
         note_src = r.get('src_note') or r.get('evidence_text') or r.get('type') or ''
         evidence = [{'kind': '来源库官网/名录核对', 'claim': clean(note_src), 'quote': '', 'url': 'https://' + dom + '/' if dom else '', 'date': sdate}]
+        evidence += [dict({'kind': '本轮网查', 'date': D}, **e) for e in jj.get('ev', [])]
         opener = ''
         if hits:
             h = hits[0]

@@ -1,0 +1,58 @@
+{
+ "code": "XB-C0880",
+ "name": "TEVAH Systèmes",
+ "round": "W3-R06",
+ "researched_at": "2026-10-28",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "安防进口分销（Tevah Systèmes，Gennevilliers；2004 起；125 人；进口商+分销+集成；Dahua/Hikvision 为主；销售总监 Romain Mallay）",
+ "type_final": "安防进口分销（Tevah Systèmes，Gennevilliers；2004 起；125 人；进口商+分销+集成；Dahua/Hikvision 为主；销售总监 Romain Mallay）",
+ "size": "安防进口分销（Tevah Systèmes，Gennevilliers；2004 起；125 人；进口商+分销+集成；Dahua/Hikvision 为主；销售总监 Romain Mallay）",
+ "brands_seen": [],
+ "saga_line": "SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE",
+ "fit": "自己做进口 → 对直接从中国采购交换机有经验",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "法国安防进口/分销/集成, 14年+, 3000+产品, 5000m²仓库",
+   "quote": "",
+   "url": "",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "官网：Depuis 2004…importation, intégration et distribution；équipe de plus de 125 personnes；adv@tevah.fr",
+   "quote": "spécialisé dans l’importation, l’intégration et la distribution de solutions de sécurité innovantes",
+   "url": "https://www.tevah.fr/qui-sommes-nous"
+  }
+ ],
+ "contacts": {
+  "email": "romain.m@tevah.fr",
+  "email_status": "来源库公开邮箱",
+  "kp": [
+   {
+    "name": "Romain Mallay",
+    "role": "Directeur Commercial（romain.m@tevah.fr，GPMSE 合作伙伴页公开）",
+    "source": "https://www.gpmse.com/partenaires-assemblee-generale/"
+   }
+  ]
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "A",
+ "grade_reason_final": "FR 进口分销、KP 实名 → 升 A 首触（优先）",
+ "next_move": {
+  "action": "首触",
+  "angle": "分销三件套：HRUI 24 口 + SmartByte 24 口 L2+ + STI",
+  "model": "STC-2224GP / STC-424XGGPM-280W / STI-288DGGPM",
+  "price": "USD 86 / USD 170 / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "FR 周四 12–14",
+  "when": "2026-12-17"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "draft_en": {
+  "subject": "PoE switch line for your reseller channel - distributor pricing",
+  "body": "Hi Romain,\n\nSaga Telecom supplies network and security distributors in Europe and North America with PoE and industrial switches; we are an engineering and supply-chain-first telecom partner, so you deal directly with the people who specify the product.\n\nThree PoE switches our distributor partners move most, all EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE, under our label or yours:\n\n- STC-2224GP: 24 x GE PoE+ (300 W) + 2 x GE + 2 x SFP, USD 86.\n- STC-424XGGPM-280W: 24 x GE PoE+ (280 W) + 4 x 10G SFP+, Marvell-based L2+ managed, USD 170.\n- STI-288DGGPM: DIN-rail industrial L2+, 8 x GE PoE+ (240 W) + 2 x SFP, -40 to +75 C, USD 137, 3-year warranty (12 months on the commercial units).\n\nWhich would be worth a sample for your installer customers first - the 24-port entry PoE switch or the DIN-rail unit?\n\nSimon\nSaga Telecom - sagatele.com"
+ },
+ "deep": false
+}

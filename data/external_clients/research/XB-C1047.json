@@ -1,0 +1,42 @@
+{
+ "code": "XB-C1047",
+ "name": "Teltonika Germany GmbH",
+ "round": "W3-R06",
+ "researched_at": "2026-10-28",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "Teltonika Germany GmbH（厂商子公司）",
+ "type_final": "Teltonika Germany GmbH（厂商子公司）",
+ "size": "未量化",
+ "brands_seen": [],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "A类 — Teltonika德国子公司,PoE+交换机",
+   "quote": "",
+   "url": "",
+   "date": "2026-09-28"
+  }
+ ],
+ "contacts": {
+  "email": "",
+  "email_status": "缺",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "厂商自身，不是采购方 → C",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

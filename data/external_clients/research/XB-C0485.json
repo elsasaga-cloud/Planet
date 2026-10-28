@@ -1,0 +1,58 @@
+{
+ "code": "XB-C0485",
+ "name": "KTI Distribution",
+ "round": "W3-R06",
+ "researched_at": "2026-10-28",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "网络产品进口分销（KTI Distribution GmbH，Bielefeld；1996 起；台湾 KTI Networks 介质转换器/交换机/光模块德语区进口商；也做 OEM/ODM；总经理 Paul Peter Kaiser）",
+ "type_final": "网络产品进口分销（KTI Distribution GmbH，Bielefeld；1996 起；台湾 KTI Networks 介质转换器/交换机/光模块德语区进口商；也做 OEM/ODM；总经理 Paul Peter Kaiser）",
+ "size": "未量化",
+ "brands_seen": [],
+ "saga_line": "SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE",
+ "fit": "直接从厂商进口交换机 → 对自有标签/第二来源有经验",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "KTI Networks德语区独家分销, 工业PoE交换机(KGS-1060-HP+KGS-1064-BP+KFS-1640-L+KGC-460-HP), 201个产品组合",
+   "quote": "",
+   "url": "https://europages/",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "官网：Wir importieren … direkt vom Hersteller Katron Technologies Inc. aus Taiwan；sales@kti.de",
+   "quote": "Wir importieren qualitativ hochwertigen Ethernet-Produkte direkt vom Hersteller Katron Technologies Inc. aus Taiwan",
+   "url": "https://kti.de/ueber-uns"
+  }
+ ],
+ "contacts": {
+  "email": "sales@kti.de",
+  "email_status": "来源库公开邮箱",
+  "kp": [
+   {
+    "name": "Paul Peter Kaiser",
+    "role": "Geschäftsführer（PKaiser@kti.de，见官网 Datenschutz）",
+    "source": "https://www.kti.de/datenschutz"
+   }
+  ]
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "A",
+ "grade_reason_final": "DE 进口分销、邮箱已补 → 升 A 首触",
+ "next_move": {
+  "action": "首触",
+  "angle": "分销三件套：HRUI 24 口 + SmartByte 24 口 L2+ + STI",
+  "model": "STC-2224GP / STC-424XGGPM-280W / STI-288DGGPM",
+  "price": "USD 86 / USD 170 / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)",
+  "window": "DE 周四 12–14",
+  "when": "2026-12-17"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "draft_en": {
+  "subject": "PoE switch line for your reseller channel - distributor pricing",
+  "body": "Hi,\n\nSaga Telecom supplies network and security distributors in Europe and North America with PoE and industrial switches; we are an engineering and supply-chain-first telecom partner, so you deal directly with the people who specify the product.\n\nThree PoE switches our distributor partners move most, all EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE, under our label or yours:\n\n- STC-2224GP: 24 x GE PoE+ (300 W) + 2 x GE + 2 x SFP, USD 86.\n- STC-424XGGPM-280W: 24 x GE PoE+ (280 W) + 4 x 10G SFP+, Marvell-based L2+ managed, USD 170.\n- STI-288DGGPM: DIN-rail industrial L2+, 8 x GE PoE+ (240 W) + 2 x SFP, -40 to +75 C, USD 137, 3-year warranty (12 months on the commercial units).\n\nWho on your product team looks after new networking vendors, and would a sample or a price sheet be the better first step?\n\nSimon\nSaga Telecom - sagatele.com"
+ },
+ "deep": false
+}

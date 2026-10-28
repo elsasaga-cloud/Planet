@@ -1,0 +1,49 @@
+{
+ "code": "XB-C0123",
+ "name": "Axellence GmbH（德国）",
+ "round": "W3-R06",
+ "researched_at": "2026-10-28",
+ "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "summary": "电子元器件厂商代表（Axellence GmbH，Olching；2000 起；2–10 人；代理 Centec 芯片/白盒方案等）",
+ "type_final": "电子元器件厂商代表（Axellence GmbH，Olching；2000 起；2–10 人；代理 Centec 芯片/白盒方案等）",
+ "size": "电子元器件厂商代表（Axellence GmbH，Olching；2000 起；2–10 人；代理 Centec 芯片/白盒方案等）",
+ "brands_seen": [],
+ "saga_line": "—",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "C类 — CENTEC欧洲分销",
+   "quote": "",
+   "url": "https://axellence.de/",
+   "date": "2026-09-28"
+  },
+  {
+   "kind": "本轮网查",
+   "date": "2026-10-28",
+   "claim": "官网产品页列 Centec 芯片与白盒；LinkedIn：manufacturer’s representative，2–10 人",
+   "quote": "Pan-European Manufacturer’s Representation connecting innovative Suppliers to innovative Users",
+   "url": "https://www.linkedin.com/company/axellence-gmbh"
+  }
+ ],
+ "contacts": {
+  "email": "",
+  "email_status": "缺",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "是厂商销售代表而非交换机分销商，不是采购方；记录 Centec 欧洲代表身份供内部参考；info@axellence.eu",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "不动"
+ },
+ "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "deep": false,
+ "draft_en": null
+}

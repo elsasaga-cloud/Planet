@@ -141,7 +141,7 @@ def write_package(wk, mon, sun, items_wk, rest, now):
             pk.append('To: ' + i['email'])
             pk.append('Subject: ' + i['draft']['subject'])
             pk.append('')
-            pk.append(i['draft']['body'])
+            pk.append(re.sub(r'snapshot \d{4}-\d{2}-\d{2}', 'snapshot ' + (i['when'] or ''), i['draft']['body']) if i.get('when') else i['draft']['body'])
             pk.append('```')
             pk.append('')
     if rest:
@@ -247,6 +247,7 @@ def main():
     bd.append('')
     bd.append('- 每周 20–30 封；美加 周三 08–10 当地，英/德/欧 周四 12–14，土耳其 周四 10–12；Simon 发，Agent 只备稿。')
     bd.append('- 每封一问、不伪造 Re:、价 = 快照 + 15 天、不提供应商/客户/同行、不写电话。')
+    bd.append('- 发送包里的报价快照日期按该封的发送日刷新（研究卡 JSON 不改）；价格取自 `data/价格主表.csv` / `价格主表_HRUI.csv` 现行价，每轮生成发送包前核对一次，主表变了先改卡再发。')
     bd.append('- 回了 → 记到该户档案（研究卡 touch_status）并通知我改下一动作；退信 → 换地址或改 LinkedIn。')
     open(os.path.join(ROOT, 'docs', '跟进总台.md'), 'w', encoding='utf-8').write('\n'.join(bd))
     print('board ok', dict(cards=len(cards), send=len(send), this_week=len(this_week), later=len(later), waiting=len(waiting), idle=len(idle), week=wk))
