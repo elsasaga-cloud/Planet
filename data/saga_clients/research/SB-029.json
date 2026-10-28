@@ -61,18 +61,20 @@
    "source": "用户 Clients 表（Secon 2023）"
   },
   {
-   "name": "Woosy",
+   "name": "Woosy（우성영 Woo Sung-young）",
    "title": "（表内联系人）",
    "email": "woosy777@naver.com",
    "phone": "+82 10 6616 5491",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "대표이사 (주)이트레이딩코리아 ETRADINGKOREA Co., Ltd.（etradingkorea.com 公司概要）= 拍板人 / 收件人（第 115 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Reesung Park",
    "title": "（表内联系人）",
    "email": "reesung.park@etradingkorea.com",
    "phone": "+82 2 6672 0008",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "ETRADINGKOREA 研究档联系人（公司邮箱）= 抄送（第 115 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": "B",
@@ -84,11 +86,11 @@
   "level": "B 级加厚 v1（官网快照核对：自有品牌 OEM）"
  },
  "company_facts": {
-  "legal_name": "ETRADINGKOREA Co., Ltd.",
-  "founded": "（待核）",
+  "legal_name": "(주)이트레이딩코리아 ETRADINGKOREA Co., Ltd.（사업자등록번호 109-86-25355；서울 영등포구 영신로 220, KnK디지털타워 1413호；3 人；营收 10–50억 档；自有品牌 ETK 交换机 / 光模块 / 工业 bypass；进口代行；公共采购供应商；파랑새 网店）",
+  "founded": "2010-09-15（第 115 批 官方登记核实 2026-10-28）",
   "hq": "Seoul, Korea（+82 2 6672 0008）",
   "size": "中小型分销商",
-  "other": "自有 ETK 系列交换机"
+  "other": "自有 ETK 系列交换机；第 115 批：自有品牌 ETK + 自营进口 + 代表本人为 KP、2025-06 有回声 → **贴标 OEM 30% B，加厚一次（ETK 标 STI-288DGGPM / STI-488DGGPM / STI-0240GE + STC-2224GP / STC-4424GCPM + 自编货号 / 中性包装 / MOQ 1 / 付费样机；bypass / 光模块明说没有；Woosy 直呼、抄 reesung.park@）**；回信 → 次候选；微型 → 只做预付— 韩国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、KC 不声称（第 115 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "企业网络分销（Cisco / Aruba / Fortinet / Juniper）",

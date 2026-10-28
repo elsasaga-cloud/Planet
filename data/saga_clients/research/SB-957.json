@@ -40,7 +40,14 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "김영일 Kim Young-il",
+   "role": "대표 써보테크TS(주) Servo-Tech TS Co., Ltd.（servo-tech.co.kr 页脚）= 拍板人（研究档无具名 KP → 收件 sales@ 称 Mr. Kim）（第 115 批 官方登记核实 2026-10-28）",
+   "email": "sales@servo-tech.co.kr",
+   "source": "https://www.servo-tech.co.kr/"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
@@ -50,7 +57,9 @@
  },
  "company_facts": {
   "hq": "韩国",
-  "other": "官网 servo-tech.co.kr，语言 ko，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 servo-tech.co.kr，语言 ko，快照状态 ok；角色判定来源：官网文案；第 115 批：自动化元器件分销、无网络线 → **分销 20% B small，一页纸一次（配 PLC / 伺服柜的 DIN 导轨工业交换机 STI-054GP / STI-144GP / STI-154GP + 管理 STI-288DGGPM、宽温、3 年保、MOQ 1、付费样机；不点名 Weidmüller；收 sales@ 称 Mr. Kim）**；再无回声 → 不动— 韩国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、KC 不声称（第 115 批 官方登记核实 2026-10-28）",
+  "legal_name": "써보테크TS(주) Servo-Tech TS Co., Ltd.（사업자등록번호 130-86-06691；경기도 광명시 새빛공원로 67, 광명자이타워 B동 409–411호；三菱 / Apex / Weidmüller / Alpha Robotics 特约店；设立 / 规模未取）",
+  "founded": "未取（第 115 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工业自动化产品分销（韩国）"

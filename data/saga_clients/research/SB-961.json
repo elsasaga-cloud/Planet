@@ -40,7 +40,14 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "정기조 Jung Ki-jo",
+   "role": "대표 팩토스 FACTOS / TOP-FA（个人事业者；top-fa.com）— 不动（第 115 批 官方登记核实 2026-10-28）",
+   "email": "master@factos.co.kr",
+   "source": "http://www.top-fa.com/sub11.php"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
@@ -50,7 +57,9 @@
  },
  "company_facts": {
   "hq": "韩国",
-  "other": "官网 top-fa.com，语言 ko，快照状态 ok；角色判定来源：用户表"
+  "other": "官网 top-fa.com，语言 ko，快照状态 ok；角色判定来源：用户表；第 115 批：个体自动化网店（串口 / 采集为主、非 PoE 专营）+ 23 次 0 回复 → **不动（B 保留；自来询盘按一口价 + T/T 预付）**（第 115 批 官方登记核实 2026-10-28）",
+  "legal_name": "팩토스 FACTOS / TOP-FA（个人事业者 사업자등록번호 708-35-00450；통신판매 2019-안양동안-1270；경기도 안양시 동안구 엘에스로116번길 25-32, 안양 SK V1 센터 1003호；工业自动化网店：工业电脑 / 采集 / 视觉 / 通信模块、ICP DAS）",
+  "founded": "2019（第 115 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工业自动化产品网店（串口 / 采集 / 网络 / 线缆）"

@@ -34,11 +34,12 @@
  ],
  "kp": [
   {
-   "name": "Lee",
+   "name": "KJ Lee",
    "title": "（姓名/职务待核）",
    "email": "kjlee@cansol.co.kr",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "CEO, CANSOL Co., Ltd.（cansol.co.kr/about；MONAD Inc. 研发姊妹）= 拍板人 / 收件人（第 115 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -50,7 +51,9 @@
  },
  "company_facts": {
   "hq": "韩国",
-  "other": "官网 cansol.co.kr，语言 ?，快照状态 ok；角色判定来源：用户表"
+  "other": "官网 cansol.co.kr，语言 ?，快照状态 ok；角色判定来源：用户表；第 115 批：自研工业 L2 交换机 + ITS / 道路项目方、CEO = KP、曾问 bypass → **贴标 / 配套 30% B small，一页纸一次（bypass 明说没有；STI-288DGGPM / STI-488DGGPM / STI-0240GE 宽温 + 3 年保 + 自编货号；KJ Lee 直呼）**；再无回声 → 不动；部分坐实、只做预付— 韩国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、KC 不声称（第 115 批 官方登记核实 2026-10-28）",
+  "legal_name": "CANSOL Co., Ltd.（销售）+ MONAD Inc.（研发；monadinc.co.kr）；#1209 B-Dong, Seongnam Central BIZ Tower 2차, 사기막골로 99, 중원구, 성남시 13201；사업자등록번호 两查未取",
+  "founded": "未取（第 115 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工业交换机（自有品牌 Monad）"

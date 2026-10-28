@@ -43,10 +43,16 @@
  "kp": [
   {
    "name": "노현진（MCSS support@）",
-   "role": "来信署名人（职务未在邮件署名里出现）",
+   "role": "MCS Solution 研究档 KP（support@）= 收件人（抄 sales@）；대표이사 이일우 = 拍板人（第 115 批 官方登记核实 2026-10-28）",
    "email": "support@mcss.co.kr",
    "phone": "",
    "source": "S/A 邮箱来信 2026-01-16 来信 1 封（第 72 批从邮件表头补）"
+  },
+  {
+   "name": "이일우 Lee Il-woo",
+   "role": "대표이사 (주)엠씨에스솔루션 MCS Solution Co., Ltd.（mcss.co.kr 页脚 / jobkorea）= 拍板人（第 115 批 官方登记核实 2026-10-28）",
+   "email": "sales@mcss.co.kr",
+   "source": "https://www.mcss.co.kr/"
   }
  ],
  "grade_override": null,
@@ -58,7 +64,9 @@
  },
  "company_facts": {
   "hq": "韩国",
-  "other": "官网 mcss.co.kr，语言 ko，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 mcss.co.kr，语言 ko，快照状态 ok；角色判定来源：官网文案；第 115 批：PLANET 工业线代理 + UniFi 集成、未触达 → **集成 25% B small，一页纸一次（台系工业线的性价比第二来源 STI-154GP / STI-288DGGPM / STI-488DGGPM + STC-2224GP；不点名 PLANET / UniFi；收 support@ + 抄 sales@）**；营收腰斩 → 只做 T/T 预付— 韩国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、KC 不声称（第 115 批 官方登记核实 2026-10-28）",
+  "legal_name": "(주)엠씨에스솔루션 MCS Solution Co., Ltd.（사업자등록번호 106-86-25768；통신판매업 제2017-서울금천-1333호；서울 금천구 디지털로 178, 현대가산퍼블릭 A동 1009호；9 人；자본금 1억；매출 2025 23.4억원（2022 58.7억）；PLANET 工业网络代理 + UniFi）",
+  "founded": "2004-01-30（第 115 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "网络集成 / 云 / IoT / IT 外包",

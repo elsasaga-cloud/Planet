@@ -1,135 +1,144 @@
 {
-  "code": "SB-511",
-  "name_official": "",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（rivershop.co.kr，快照 2026-10-21）",
-  "summary": "韩国 리버네트워크 River Network / Rivershop（NEXI 品牌官方商城：显示器线、网线、PoE、SFP、2.5G/10G、无线、转换器；表内「工业 FS 自己的品牌 NEXi」「质量高」；邮箱 scale@goriver.co.kr）；群发 22 次无回复。",
-  "type": "韩国配件品牌商（NEXI，OEM 采购）",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "官网标题：리버샵 - Rivershop；品类词 光纤 / 媒体转换 / 网络交换 / PoE",
-      "quote": "리버네트워크의 넥시 브랜드 공식 쇼핑몰 - 모니터 케이블, 인터넷 선, 모니터 받침대 등 다양한 NEXI 제품을 만나보세요.",
-      "url": "https://rivershop.co.kr/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "表内兴趣/备注",
-      "quote": "工业FS 自己的品牌 NEXi",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "Rivershop 定位",
-      "quote": "리버샵 - Rivershop ; 리버네트워크의 넥시 브랜드 공식 쇼핑몰 - 모니터 케이블, 인터넷 선, 모니터 받침대 등 다양한 NEXI 제품을 만나보세요",
-      "url": "https://rivershop.co.kr/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "工业 FS 自己的品牌 NEXi",
-      "quote": "工业FS 自己的品牌 NEXi；质量高",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ "code": "SB-511",
+ "name_official": "",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（rivershop.co.kr，快照 2026-10-21）",
+ "summary": "韩国 리버네트워크 River Network / Rivershop（NEXI 品牌官方商城：显示器线、网线、PoE、SFP、2.5G/10G、无线、转换器；表内「工业 FS 自己的品牌 NEXi」「质量高」；邮箱 scale@goriver.co.kr）；群发 22 次无回复。",
+ "type": "韩国配件品牌商（NEXI，OEM 采购）",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "官网标题：리버샵 - Rivershop；品类词 光纤 / 媒体转换 / 网络交换 / PoE",
+   "quote": "리버네트워크의 넥시 브랜드 공식 쇼핑몰 - 모니터 케이블, 인터넷 선, 모니터 받침대 등 다양한 NEXI 제품을 만나보세요.",
+   "url": "https://rivershop.co.kr/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "hq": "韩国",
-    "other": "官网 rivershop.co.kr，语言 ko，快照状态 ok；角色判定来源：用户表"
+  {
+   "kind": "用户表",
+   "claim": "表内兴趣/备注",
+   "quote": "工业FS 自己的品牌 NEXi",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "IT 配件 / 网络产品（自有品牌 NEXI）"
-  ],
-  "channels": {
-    "role": "韩国配件品牌商（NEXI，OEM 采购）",
-    "region": "韩国",
-    "contact": "scale@goriver.co.kr"
+  {
+   "kind": "官网快照",
+   "claim": "Rivershop 定位",
+   "quote": "리버샵 - Rivershop ; 리버네트워크의 넥시 브랜드 공식 쇼핑몰 - 모니터 케이블, 인터넷 선, 모니터 받침대 등 다양한 NEXI 제품을 만나보세요",
+   "url": "https://rivershop.co.kr/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "官网：리버네트워크의 넥시 브랜드 공식 쇼핑몰 - 모니터 케이블, 인터넷 선, 모니터 받침대 등 다양한 NEXI 제품；kw poe 16 / sfp 9 / 10g 4 / 2.5g 3；页面 /category/컨버터/74/",
-    "表内：工业 FS 自己的品牌 NEXi；质量高"
-  ],
-  "risks": [
-    "非主攻区（T5，韩国）；KC 由客户申报；22 次无回复，仅通用邮箱"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 30,
-    "why": "NEXI 自有标 PoE/交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；工业 FS 位 STI-288GPM（$85.5）；2.5G 位 SmartByte 2.5G 系列（注明）"
-  },
-  "email_hook": "For the PoE and industrial switches sold under the NEXI label, we can be an ODM source (8-PoE + 2 SFP L2+, DIN-rail 8-PoE + 2 SFP, 2.5G options; managed versions on a Marvell platform) from small lots in your retail packaging, CE/RoHS; KC by your side — which network SKU sells most in the Rivershop range?",
-  "mail_review": {
-    "binding": {
-      "level": "读而不回（A/S 邮箱 34 封 2024→2026，其中 3 封被打开，0 回；收件 scale@goriver.co.kr；被打开主题「Managed Optical Bypass Switch、Marvell Industrial Alert System」）；Elsa 1:1 去信 1 封（2025-02-25「16 Port Ethernet Switch」；To 仅本户 scale@goriver.co.kr；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:scale@goriver.co.kr` 仅此 1 条，complete）（第 74 批(m)）",
-      "type": "韩国配件品牌商（NEXI，OEM 采购）",
-      "sieve": "2（有人在读，无人回）",
-      "stop": "读而不回 = 内容未命中或没有当下需求",
-      "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
-      "lane": "KR 次级（点名）",
-      "cadence": "一封；回了再说",
-      "evidence": "gmail_digest：out 34，Opened 标签 3（Simon 群发追踪）；用户表：「工业FS 自己的品牌 NEXi」；研究档 risks：非主攻区（T5，韩国）；KC 由客户申报；22 次无回复，仅通用邮箱"
-    },
-    "situation": "韩国 리버네트워크 River Network / Rivershop（NEXI 品牌官方商城：显示器线、网线、PoE、SFP、2.5G/10G、无线、转换器；表内「工业 FS 自己的品牌 NEXi」「质量高」；邮箱 scale@goriver.co.kr）；群发 22 次无回复。",
-    "need": "NEXI 自有标 PoE/交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；工业 FS 位 STI-288GPM（$85.5）；2.5G 位 SmartByte 2.5G 系列（注明）",
-    "breakpoint": "非主攻区（T5，韩国）；KC 由客户申报；22 次无回复，仅通用邮箱",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 30,
-      "price": "首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-27 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-22 $240（24 Port Fiber Switch）、2025-09-11 $65（10G Media Converter）、2025-09-29 $280（10G Enterprise SFP Switch）",
-      "why": "NEXI 自有标 PoE/交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；工业 FS 位 STI-288GPM（$85.5）；2.5G 位 SmartByte 2.5G 系列（注明）。已打开的主题（3/34 封有打开记录）：「8 Port Ethernet Switch」(2024-09-24)、「8 Port Industrial PoE Switch」(2024-12-19)、「Optional Marvell Chipset Solutions」(2025-12-09) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Saga Software Function List_7.3, 7.4, (2025-10-24)、Product Link_2026Q2(2026-03-16)、Saga Feature List_7.5.x_L2+(2026-06-29)、Product Link_2026Q3(2026-07-21)；7.5 Feature List 与 2026Q3 链接都已给过 → 下一封不能再是资料推送，只能是针对其需求的一句话/一个问题",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11",
-      "channel": "A 邮箱 → scale@goriver.co.kr",
-      "action": "首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「16 Port Ethernet Switch」，之后没再碰他（第 74 批(m)）；短信一问（email_hook）",
-      "one_question": "For the PoE and industrial switches sold under the NEXI label, we can be an ODM source (8-PoE + 2 SFP L2+, DIN-rail 8-PoE + 2 SFP, 2.5G options; managed versions on a Marvell platform) from small lots in your retail packaging, CE/RoHS; KC by your side — which network SKU sells most in the Rivershop range? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2025-02-25",
-        "dir": "out",
-        "who": "Elsa → scale@goriver.co.kr",
-        "quote": "16 Port Ethernet Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-        "k": "elsa_1to1",
-        "msg_id": "1953a9e2e725aa91"
-      },
-      {
-        "date": "2026-09-08",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
-        "why": "34 封 / 3 次打开 / 0 回｜首封 2024-06-27 → 末封 2026-09-08（34 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "工业FS 自己的品牌 NEXi",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": {
-      "subject": "One question — Managed Optical Bypass Switch",
-      "body": "Hi Scale,\n\nWe have sent you a few mails on \"Managed Optical Bypass Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE and industrial switches sold under the NEXI label, we can be an ODM source (8-PoE + 2 SFP L2+, DIN-rail 8-PoE + 2 SFP, 2.5G options; managed versions on a Marvell platform) from small lots in your retail packaging, CE/RoHS; KC by your side — which network SKU sells most in the Rivershop range?\n\nReference price: 8-PoE + 2 × 1G/2.5G SFP L2+ managed switch (Marvell AC5), 120 W (STC-28DGGPM) $87.4 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "工业 FS 自己的品牌 NEXi",
+   "quote": "工业FS 自己的品牌 NEXi；质量高",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "한석준 Han Seok-jun",
+   "role": "대표이사 주식회사 리버네트워크 River Network Co., Ltd.（rivershop.co.kr 页脚 / jobkorea）= 拍板人（研究档无具名 KP → 收件 scale@goriver.co.kr 称 Mr. Han）（第 115 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://rivershop.co.kr/"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+ },
+ "company_facts": {
+  "hq": "韩国",
+  "other": "官网 rivershop.co.kr，语言 ko，快照状态 ok；角色判定来源：用户表；第 115 批：自有品牌 NEXI 进口分销商（≈$20M）→ **贴标 OEM 30% B BIG，加厚一次（补「NEXI Pro」管理 / PoE / 工业层：STC-228GP / STC-2224GP / STC-4424GCPM + STI-154GP / STI-288DGGPM + 自编货号 / 中性包装 / MOQ 1 / 付费样机；收 scale@ 称 Mr. Han）**；回信 → 次候选 / 升 A 候选— 韩国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、KC 不声称（第 115 批 官方登记核实 2026-10-28）",
+  "legal_name": "주식회사 리버네트워크 River Network Co., Ltd.（사업자등록번호 106-86-14301；통신판매업 용산 01487；서울 용산구 원효로 68-5；45 人；매출 ≈280억원；自有品牌 NEXI（2009 起）；Cisco SMB / QNAP / Dell / HPE Aruba / TP-Link 代理）",
+  "founded": "2002-11-14（第 115 批 官方登记核实 2026-10-28）"
+ },
+ "business_lines": [
+  "IT 配件 / 网络产品（自有品牌 NEXI）"
+ ],
+ "channels": {
+  "role": "韩国配件品牌商（NEXI，OEM 采购）",
+  "region": "韩国",
+  "contact": "scale@goriver.co.kr"
+ },
+ "signals": [
+  "官网：리버네트워크의 넥시 브랜드 공식 쇼핑몰 - 모니터 케이블, 인터넷 선, 모니터 받침대 등 다양한 NEXI 제품；kw poe 16 / sfp 9 / 10g 4 / 2.5g 3；页面 /category/컨버터/74/",
+  "表内：工业 FS 自己的品牌 NEXi；质量高"
+ ],
+ "risks": [
+  "非主攻区（T5，韩国）；KC 由客户申报；22 次无回复，仅通用邮箱"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 30,
+  "why": "NEXI 自有标 PoE/交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；工业 FS 位 STI-288GPM（$85.5）；2.5G 位 SmartByte 2.5G 系列（注明）"
+ },
+ "email_hook": "For the PoE and industrial switches sold under the NEXI label, we can be an ODM source (8-PoE + 2 SFP L2+, DIN-rail 8-PoE + 2 SFP, 2.5G options; managed versions on a Marvell platform) from small lots in your retail packaging, CE/RoHS; KC by your side — which network SKU sells most in the Rivershop range?",
+ "mail_review": {
+  "binding": {
+   "level": "读而不回（A/S 邮箱 34 封 2024→2026，其中 3 封被打开，0 回；收件 scale@goriver.co.kr；被打开主题「Managed Optical Bypass Switch、Marvell Industrial Alert System」）；Elsa 1:1 去信 1 封（2025-02-25「16 Port Ethernet Switch」；To 仅本户 scale@goriver.co.kr；Bcc 未逐封读头；同类名单抽读 24 封均无 Bcc；此后再未进 Elsa 任何名单——全箱 `from:e.sagatelecom to:scale@goriver.co.kr` 仅此 1 条，complete）（第 74 批(m)）",
+   "type": "韩国配件品牌商（NEXI，OEM 采购）",
+   "sieve": "2（有人在读，无人回）",
+   "stop": "读而不回 = 内容未命中或没有当下需求",
+   "revive": "一封「只问一句」的短信给打开过的地址（不附图不附表）",
+   "lane": "KR 次级（点名）",
+   "cadence": "一封；回了再说",
+   "evidence": "gmail_digest：out 34，Opened 标签 3（Simon 群发追踪）；用户表：「工业FS 自己的品牌 NEXi」；研究档 risks：非主攻区（T5，韩国）；KC 由客户申报；22 次无回复，仅通用邮箱"
+  },
+  "situation": "韩国 리버네트워크 River Network / Rivershop（NEXI 品牌官方商城：显示器线、网线、PoE、SFP、2.5G/10G、无线、转换器；表内「工业 FS 自己的品牌 NEXi」「质量高」；邮箱 scale@goriver.co.kr）；群发 22 次无回复。",
+  "need": "NEXI 自有标 PoE/交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；工业 FS 位 STI-288GPM（$85.5）；2.5G 位 SmartByte 2.5G 系列（注明）",
+  "breakpoint": "非主攻区（T5，韩国）；KC 由客户申报；22 次无回复，仅通用邮箱",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 30,
+   "price": "首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-27 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-22 $240（24 Port Fiber Switch）、2025-09-11 $65（10G Media Converter）、2025-09-29 $280（10G Enterprise SFP Switch）",
+   "why": "NEXI 自有标 PoE/交换机 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；工业 FS 位 STI-288GPM（$85.5）；2.5G 位 SmartByte 2.5G 系列（注明）。已打开的主题（3/34 封有打开记录）：「8 Port Ethernet Switch」(2024-09-24)、「8 Port Industrial PoE Switch」(2024-12-19)、「Optional Marvell Chipset Solutions」(2025-12-09) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Saga Software Function List_7.3, 7.4, (2025-10-24)、Product Link_2026Q2(2026-03-16)、Saga Feature List_7.5.x_L2+(2026-06-29)、Product Link_2026Q3(2026-07-21)；7.5 Feature List 与 2026Q3 链接都已给过 → 下一封不能再是资料推送，只能是针对其需求的一句话/一个问题",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → scale@goriver.co.kr",
+   "action": "首封前知悉：Elsa 仅 2025-02-25 单发过 1 封「16 Port Ethernet Switch」，之后没再碰他（第 74 批(m)）；短信一问（email_hook）",
+   "one_question": "For the PoE and industrial switches sold under the NEXI label, we can be an ODM source (8-PoE + 2 SFP L2+, DIN-rail 8-PoE + 2 SFP, 2.5G options; managed versions on a Marvell platform) from small lots in your retail packaging, CE/RoHS; KC by your side — which network SKU sells most in the Rivershop range? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2025-02-25",
+    "dir": "out",
+    "who": "Elsa → scale@goriver.co.kr",
+    "quote": "16 Port Ethernet Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "1953a9e2e725aa91"
+   },
+   {
+    "date": "2026-09-08",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "Managed Optical Bypass Switch、Marvell Industrial Alert System",
+    "why": "34 封 / 3 次打开 / 0 回｜首封 2024-06-27 → 末封 2026-09-08（34 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "工业FS 自己的品牌 NEXi",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": {
+   "subject": "One question — Managed Optical Bypass Switch",
+   "body": "Hi Scale,\n\nWe have sent you a few mails on \"Managed Optical Bypass Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE and industrial switches sold under the NEXI label, we can be an ODM source (8-PoE + 2 SFP L2+, DIN-rail 8-PoE + 2 SFP, 2.5G options; managed versions on a Marvell platform) from small lots in your retail packaging, CE/RoHS; KC by your side — which network SKU sells most in the Rivershop range?\n\nReference price: 8-PoE + 2 × 1G/2.5G SFP L2+ managed switch (Marvell AC5), 120 W (STC-28DGGPM) $87.4 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

@@ -29,7 +29,8 @@
    "title": "CEO",
    "email": "cjkim@ione.kr",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档「CEO Kim」（ione.kr）— 与 ionetech.com 主体（(주)아이원테크놀러지 대표 황동현）不符，身份不清，不动（第 115 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -41,7 +42,9 @@
  },
  "company_facts": {
   "hq": "韩国",
-  "other": "官网 ionetech.com，语言 ?，快照状态 http_error；角色判定来源：待核"
+  "other": "官网 ionetech.com，语言 ?，快照状态 http_error；角色判定来源：待核；第 115 批：域名主体与 KP 身份不符（误归属嫌疑）+ 19 次 0 回复 → **不动（B 保留；对方自来再核 ione.kr 主体）**（第 115 批 官方登记核实 2026-10-28）",
+  "legal_name": "未坐实（ionetech.com = (주)아이원테크놀러지 iOne Technology；사업자번호 113-86-34135；대표 황동현；서울 구로구 구로3동 1128-4 HK-Tower 817；IT 方案 / 备份 — 代表非 Kim，与 KP 域 ione.kr 对应关系未证）",
+  "founded": "未取（第 115 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工业网络（韩国）"

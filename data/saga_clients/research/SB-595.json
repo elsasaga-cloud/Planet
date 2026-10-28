@@ -25,10 +25,11 @@
   "level": "B 级加厚 v1（基于用户表整理 + 需求映射；邮箱退信；「成交」为富通天下外贸数据）"
  },
  "company_facts": {
-  "legal_name": "MPCL（全称待核）",
+  "legal_name": "未坐实（mpcl.in 无公开主体；1 查仅命中同名 MPCL Industries Limited U26959DL1993PLC219546 mpcl.co.in 德里电气设备集团 ≠）",
   "hq": "India",
   "size": "待核",
-  "other": "chetan@mpcl.in 退信"
+  "other": "chetan@mpcl.in 退信；第 115 批：域名无主体 + 邮箱退信 + 非 Saga 成交 → **不动（地址失效；同名不并线）**（第 115 批 官方登记核实 2026-10-28）",
+  "founded": "未取（第 115 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "（待核）IT/安防产品"

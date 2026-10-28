@@ -44,11 +44,12 @@
  ],
  "kp": [
   {
-   "name": "Jaesik Lee",
+   "name": "Jaesik Lee（이재식）",
    "title": "（职务待核）",
    "email": "help@ubiqnet.co.kr",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "대표이사 주식회사 유비큐넷 Ubiqnet Co., Ltd.（starlink.co.kr 页脚）= 拍板人 / 收件人（第 115 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -60,7 +61,9 @@
  },
  "company_facts": {
   "hq": "韩国",
-  "other": "官网 starlink.co.kr，语言 ?，快照状态 ok；角色判定来源：用户表"
+  "other": "官网 starlink.co.kr，语言 ?，快照状态 ok；角色判定来源：用户表；第 115 批：自有品牌 Starlink 贴标 + 代表本人为 KP → **贴标 OEM 30% B，加厚一次（Starlink 标 STI-154GP / STI-288DGGPM + STC-228GP / STC-2224GP + 中性包装 / 自编货号 / MOQ 1 / 付费样机；Jaesik 直呼）**；回信 → 次候选— 韩国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、KC 不声称（第 115 批 官方登记核实 2026-10-28）",
+  "legal_name": "주식회사 유비큐넷 Ubiqnet Co., Ltd.（사업자등록번호 876-81-02587；통신판매업 제2022-서울용산-1075호；서울 용산구 청파로 113-6, 넥서스밸리 905호；自有品牌 Starlink）",
+  "founded": "≈2022（通信贩卖申报 2022）（第 115 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "网络设备分销（自有品牌 Starlink；HP / Cisco / Netgear / Soltech）",

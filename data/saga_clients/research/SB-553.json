@@ -45,7 +45,14 @@
    "title": "Team Leader",
    "email": "ussales@sequrinet.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Team Leader, US sales, SEQURINET / (주)DG-ITX = 收件人；대표이사 박상열 = 拍板人（第 115 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "박상열 Park Sang-yeol",
+   "role": "대표이사 (주)DG-ITX（SEQURINET；前 ㈜아이티엑스시큐리티）（sequrinet.com 회사연혁）= 拍板人（第 115 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "http://sequrinet.com/KR/Sequrinet/history.asp"
   }
  ],
  "grade_override": null,
@@ -57,7 +64,9 @@
  },
  "company_facts": {
   "hq": "韩国",
-  "other": "官网 sequrinet.us，语言 ko，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 sequrinet.us，语言 ko，快照状态 ok；角色判定来源：官网文案；第 115 批：出口型 CCTV / NVR 品牌厂、在用台系工业 FS、KP 为美国销售线 → **配套 OEM 30% B，一页纸一次（随 NVR 套件出货的 STC-028GP / STC-228GP / STC-2224GP + STI-154GP / STI-288DGGPM 贴 SEQURINET 标 + 中性包装 / 自编货号 / MOQ 1 / 付费样机；CE / FCC / RoHS 报告齐；Eva 直呼）**；再无回声 → 不动；不点名 Utepo、不提 NDAA— 韩国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、KC 不声称（第 115 批 官方登记核实 2026-10-28）",
+  "legal_name": "(주)DG-ITX（SEQURINET；前 ㈜아이티엑스시큐리티 ITX Security，2008-03 改名；사업자등록번호 120-81-78820；통신판매업 제2016-서울금천-0029호；서울 금천구 가산디지털1로 212, 코오롱디지털타워 애스턴 906호；水原工厂 2007；2008 三千万美元出口塔；子公司 VMSoft；에스원 S1 协力企业）",
+  "founded": "≤2007（第 115 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "VMS / NVR 方案（韩国，美国销售）"

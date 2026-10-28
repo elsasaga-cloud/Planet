@@ -43,7 +43,14 @@
    "title": "（职务待核）",
    "email": "",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "대표이사 (주)한요 Hanyo Co., Ltd.（jobkorea / incruit）= 拍板人 / 收件人（sales@hanyotele.com）（第 115 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "(주)한요 영업팀 sales@",
+   "role": "官方销售邮箱（blog.naver hanyotele）= 收件地址（第 115 批 官方登记核实 2026-10-28）",
+   "email": "sales@hanyotele.com",
+   "source": "https://m.blog.naver.com/hanyotele/220024781772"
   }
  ],
  "grade_override": null,
@@ -55,7 +62,9 @@
  },
  "company_facts": {
   "hq": "韩国",
-  "other": "官网 hanyotele.com，语言 ?，快照状态 ok；角色判定来源：用户表"
+  "other": "官网 hanyotele.com，语言 ?，快照状态 ok；角色判定来源：用户表；第 115 批：自有 logo 光 / MC 厂、代表本人为 KP、从未触达 → **配套 OEM 30% B small，一页纸一次（随其光配线 / MC 成套的 STC-228GP / STC-2224GP + STI-154GP / STI-288DGGPM + 贴 Hanyo 标 / 自编货号 / MOQ 1 / 付费样机；光模块 / 尾纤明说不做；收 sales@ 称 Mr. Nam）**；营收下滑 → 只做预付；部分坐实— 韩国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、KC 不声称（第 115 批 官方登记核实 2026-10-28）",
+  "legal_name": "(주)한요 Hanyo Co., Ltd.（인천 계양구 장제로 714, 5층 세종팰리스빌딩；27 人（2013）；자본금 2억；매출 2021 9.8억원（2016 27억）；光通信元件 / PoE 媒体转换器制造 + 出口；사업자등록번호 未取）",
+  "founded": "2001-02-01（第 115 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "MC / 工业 FS / 无源产品（自有品牌，韩国）"

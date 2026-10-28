@@ -40,7 +40,9 @@
  },
  "company_facts": {
   "hq": "韩国",
-  "other": "官网 sun-flowers.co.kr，语言 ko，快照状态 ok；角色判定来源：用户表"
+  "other": "官网 sun-flowers.co.kr，语言 ko，快照状态 ok；角色判定来源：用户表；第 115 批：官网不可读 + 两查无主体 + 无 KP + 23 次 0 回复 → **不动（B 保留）**（第 115 批 官方登记核实 2026-10-28）",
+  "legal_name": "未坐实（sun-flowers.co.kr 官网为防机器人验证页；2 查仅同名 썬플라워리조트 / 썬플라워 电商个体 / 썬플라워유통 ≠）",
+  "founded": "未取（第 115 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "CCTV 与配套 PoE（自有品牌）"

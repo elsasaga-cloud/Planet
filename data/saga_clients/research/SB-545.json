@@ -39,7 +39,14 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "김기성 Kim Ki-seong",
+   "role": "대표이사 미래정보기술 주식회사 Mirae Information Technology Co., Ltd.（bizno）= 拍板人（研究档无具名 KP → 收件 customer@ 称 Mr. Kim）（第 115 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://bizno.net/article/7928700191"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
@@ -49,7 +56,9 @@
  },
  "company_facts": {
   "hq": "韩国",
-  "other": "官网 mreit.co.kr，语言 ?，快照状态 ok；角色判定来源：待核"
+  "other": "官网 mreit.co.kr，语言 ?，快照状态 ok；角色判定来源：待核；第 115 批：HRUI 商用 PoE 贴标在供（Q-33 口径：不碰现线、只推 Marvell 管理 / 工业线）→ **贴标 OEM 30% B small，一页纸一次（MR- 标的上层机型 STC-4424GCPM + STI-154GP / STI-288DGGPM + 自编货号 / 中性包装 / MOQ 1；2.5G 等 SB-263 口径；收 customer@ 称 Mr. Kim）**；再无回声 → 不动— 韩国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、KC 不声称（第 115 批 官方登记核实 2026-10-28）",
+  "legal_name": "미래정보기술 주식회사 Mirae Information Technology Co., Ltd.（사업자등록번호 792-87-00191；법인등록번호 131111-0424132；경기도 성남시 중원구 둔촌대로 388, 302호 크란츠 테크노；5 人；自有 MR- 系列 PoE = HRUI 贴标在供）",
+  "founded": "2015-10-01（第 115 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "PoE 交换机 / CCTV 配套（自有品牌 MR 系列，HRUI 贴标）"

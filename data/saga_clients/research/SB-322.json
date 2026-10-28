@@ -31,7 +31,8 @@
    "title": "President",
    "email": "eki@blackbear-ics.com",
    "phone": "+81 90 8493 5120",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "President, BlackBear TechHive（日本子公司 BlackBear TechHive Japan 株式会社 法人番号 8010401158437；母体 台灣黑熊網路安全 統編 83305324，Atop 同址）— 同行集团，不动（第 115 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -42,11 +43,11 @@
   "level": "B 级加厚 v1（官网快照核对：OEM 意向）"
  },
  "company_facts": {
-  "legal_name": "BlackBear TechHive（待核：台湾 / 日本）",
-  "founded": "（待核）",
+  "legal_name": "台灣黑熊網路安全股份有限公司 BlackBear (Taiwan) Industrial Networking Security Ltd.（統編 83305324；新竹縣竹北市東興路一段146號 = Atop 同址；代表人 謝秋蓮）+ BlackBear TechHive Japan 株式会社（法人番号 8010401158437；東京都港区六本木3-6-9）",
+  "founded": "2020-11-26（TW）/ 2021-03（JP）（第 115 批 官方登记核实 2026-10-28）",
   "hq": "台湾（生产）/ 日本（+81 3 4530 3390）",
   "size": "小型安全设备商",
-  "other": "Atop 代工关联"
+  "other": "Atop 代工关联；第 115 批：工业交换机厂 Atop 关联的网安硬件商、问的是 OEM/ODM 代工、33 次 0 回复 → **同行集团 + 守界，不动（B 保留）**；表内 iso KR 为展会地 → country_fix 台湾（第 115 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工业网络安全设备（数据二极管 / 网闸）",
@@ -122,5 +123,6 @@
    "body": "Dear Mr. Eki,\n\nAt SECON you asked whether we do OEM/ODM, and the mails you had from us since were general product mails rather than an answer - so, the answer: yes. For the industrial switch that sits next to your DD9000 / BIG9000 units, under the BlackBear label from small lots, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $85.5 USD EXW (MOQ 1, 15-day validity); the L2+ version with ring redundancy - STI-288DGGPM - $137.5; 802.3bt ports on request. Standard industrial units - no security-product claims. KC for the Korean channel stays on your side. Happy to continue in Chinese if easier.\n\nOne question: how many ports does the switch next to the diode need, and is 802.3bt power required?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "country_fix": "台湾"
 }

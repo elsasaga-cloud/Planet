@@ -29,14 +29,22 @@
    "title": "（表内联系人，可多跟进）",
    "email": "byron@intercoax.com",
    "phone": "+82 10 3605 5714",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "INTERCOAX 研究档 KP（买过样品；问 8 PoE + 2 GE + 2 SFP = STC-228GP）= 收件人（第 115 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Jongmin",
    "title": "（表内联系人）",
    "email": "jongmin@intercoax.com",
    "phone": "+82 31 365 3133",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "INTERCOAX 研究档 KP = 抄送（第 115 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "이일묵 Lee Il-muk",
+   "role": "대표이사 (주)인터코엑스 INTERCOAX Co., Ltd.（jobkorea / rndcircle）= 拍板人（第 115 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.jobkorea.co.kr/recruit/co_read/c/intercoax"
   }
  ],
  "grade_override": null,
@@ -47,11 +55,11 @@
   "level": "B 级加厚 v1（快照空页 + 表内：设备厂商 OEM）"
  },
  "company_facts": {
-  "legal_name": "INTERCOAX Co., Ltd.",
-  "founded": "（待核）",
+  "legal_name": "(주)인터코엑스 INTERCOAX Co., Ltd.（사업자등록번호 140-81-85228；경기도 안양시 동안구 학의로 250；17 人；자본금 6억；매출 2025 11.3억원）",
+  "founded": "2014-04-17（第 115 批 官方登记核实 2026-10-28）",
   "hq": "Gyeonggi-do, Korea（+82 31 365）",
   "size": "中小型设备厂商",
-  "other": "EoC / 以太网延长产品品牌；曾购样"
+  "other": "EoC / 以太网延长产品品牌；曾购样；第 115 批：自有品牌 EoC 厂、买过样品、明确要 8+2+2 → **贴标 OEM 30% B，加厚一次（对位 STC-228GP 一口价 + 自编货号 / 中性包装 + 付费样机复购价；Byron 直呼、抄 Jongmin）**；营收下滑 → 只做 T/T 预付— 韩国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、KC 不声称（第 115 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "以太网 over 同轴 / 延长设备（自有品牌）",

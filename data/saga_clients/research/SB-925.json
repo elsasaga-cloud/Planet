@@ -45,7 +45,8 @@
    "title": "（职务待核）",
    "email": "sjyeo@miraesignal.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Mirae Signal 研究档 KP（展会当面婉拒：已有深圳供应商）— 不动（第 115 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "윤지봉（Yoon Ji-bong）차장",
@@ -53,6 +54,12 @@
    "email": "jbyoon@miraesignal.com",
    "phone": "",
    "source": "S 邮箱 2025-03-06 来信表头"
+  },
+  {
+   "name": "심수만 Shim Su-man",
+   "role": "대표 (주)미래시그널 Mirae Signal Co., Ltd.（miraesignal.com 页脚）— 婉拒，不动（第 115 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "http://www.miraesignal.com/"
   }
  ],
  "grade_override": null,
@@ -64,7 +71,9 @@
  },
  "company_facts": {
   "hq": "韩国",
-  "other": "官网 miraesignal.com，语言 kr-KR，快照状态 ok；角色判定来源：待核"
+  "other": "官网 miraesignal.com，语言 kr-KR，快照状态 ok；角色判定来源：待核；第 115 批：自有品牌 MV- 线已有深圳交换机供应商、当面婉拒 → **婉拒者剔出群发：不动（B 保留）**；군 무선통신 线不碰（第 115 批 官方登记核实 2026-10-28）",
+  "legal_name": "(주)미래시그널 Mirae Signal Co., Ltd.（사업자번호 142-81-31693；경기도 성남시 분당구 판교로 744, 분당테크노파크 C동 405호；매출 ≈19.4억원；自有 MV- 系列交换机 + 无线网桥 + 军用无线开发）",
+  "founded": "2010-10-28（第 115 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "有线 / 无线网络产品（自有品牌 MV 系列）"

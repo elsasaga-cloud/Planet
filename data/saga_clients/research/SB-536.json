@@ -40,7 +40,14 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "김윤섭 Kim Yoon-seop",
+   "role": "대표이사 주식회사 하이링크 Highlink Co., Ltd.（highlink.co.kr/about-us）= 拍板人（研究档无具名 KP → 收件 support@ 称 Mr. Kim）（第 115 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.highlink.co.kr/about-us"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
@@ -50,7 +57,9 @@
  },
  "company_facts": {
   "hq": "韩国",
-  "other": "官网 highlink.co.kr，语言 ko，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 highlink.co.kr，语言 ko，快照状态 ok；角色判定来源：官网文案；第 115 批：自研工业无线厂 + HRUI 商用 PoE 在供（Q-33 口径：只推 Marvell 管理 / 工业线）→ **配套 OEM 30% B small，一页纸一次（工业 PoE STI-154GP / STI-288DGGPM / STI-488DGGPM + 商用只给 STC-4424GCPM；贴 Highlink 标可谈；收 support@ 称 Mr. Kim）**；再无回声 → 不动；部分坐实、只做预付— 韩国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、KC 不声称（第 115 批 官方登记核实 2026-10-28）",
+  "legal_name": "주식회사 하이링크 Highlink Co., Ltd.（경기도 광주시 464-865；工业无线 DIVA 系列 / RF 调制解调器自研自产；在售 HRUI 商用 PoE；사업자등록번호 两查未取）",
+  "founded": "未取（第 115 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "工业无线 / RF 调制解调器（自有品牌 DIVA）",

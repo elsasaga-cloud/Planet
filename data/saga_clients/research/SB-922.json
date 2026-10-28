@@ -45,7 +45,8 @@
    "title": "（职务待核）",
    "email": "michael_kang@fiberbase.co.kr",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "대표 파이버베이스 Fiberbase（강민철 Kang Min-cheol；kofis.co.kr 页脚；推定同人）= 拍板人 / 收件人（第 115 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -57,7 +58,9 @@
  },
  "company_facts": {
   "hq": "韩国",
-  "other": "官网 fiberbase.co.kr，语言 ?，快照状态 ok；角色判定来源：待核"
+  "other": "官网 fiberbase.co.kr，语言 ?，快照状态 ok；角色判定来源：待核；第 115 批：光测试仪器自产 + 光网络分销（在用 Diva MC）、代表本人为 KP → **分销 20% B small，一页纸一次（PoE / 工业交换机补位 STC-228GP / STC-2224GP + STI-154GP / STI-288DGGPM + 贴 Fiberbase 标可谈 30%、MOQ 1、付费样机；MC / 光模块明说不做；Michael Kang 直呼）**；再无回声 → 不动；个人事业者档 → 只做预付— 韩国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、KC 不声称（第 115 批 官方登记核实 2026-10-28）",
+  "legal_name": "파이버베이스 Fiberbase（个人事业者 사업자번호 135-17-28243；통신판매 제2011-경기수원-2231호；경기 용인시 기흥구 영덕동 흥덕IT밸리 컴플렉스동 516호；后设 (주)파이버베이스 法人（号未取）；OTDR FISCAN9 制造 + 光网络分销；kofis.co.kr 商城）",
+  "founded": "≤2011（第 115 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "MC / PoE 交换机 / 光猫分销（韩国）"
