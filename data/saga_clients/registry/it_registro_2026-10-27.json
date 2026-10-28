@@ -4,7 +4,7 @@
   "source": "Italy · Registro Imprese 公开摘要",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 34
+  "count": 38
  },
  "rows": {
   "SA-070": {
@@ -1102,6 +1102,135 @@
    ],
    "notes": "分销 20% small；一页纸一次；坐实（P.IVA + REA + 财务）。",
    "code": "SB-201"
+  },
+  "SB-1079": {
+   "batch": 110,
+   "name": "SPESA ELETTRICA S.C.A.R.L.（società consortile；spesaelettrica.it；米兰 Assago Viale Milanofiori Strada 4, Palazzo A5, 20057；P.IVA / CF 08699710961；REA MI-2042985）— 2014-07-28 登记的电气材料网店联合体（由多家电气批发商共同持有：70+ 品牌、100,000 SKU、「300 个仓库」、仅意大利境内发货；表内「switch」= 电气开关语境）；股本 €89,000；**0 名雇员**；2025 营收 €774k；ATECO 47.12.9；表内未跟进",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：spesaelettrica.it 页脚（SPESA ELETTRICA S.C.A.R.L.；Viale Milanofiori Strada 4 Palazzo A5 20057 Assago；P.IVA e CF 08699710961；REA MI-2042985；Capitale € 89.000）+ Chi siamo（Fondata nel 2014；distributori e produttori da cui si rifornisce；70 marchi；100.000 articoli；spedizioni solo in Italia）+ ufficiocamerale（Iscrizione 28/07/2014；Fatturato € 774.244 2025；Dipendenti 0；ATECO 47129；Utile € 20.245）",
+   "url": "https://www.ufficiocamerale.it/4930/spesa-elettrica-societa-consortile-a-responsabilita-limitata",
+   "number": "P.IVA / CF 08699710961；REA MI-2042985",
+   "status": "Active",
+   "incorporated": "2014-07-28",
+   "company_type": "S.c.a r.l.（电气批发商联合体）",
+   "sic": [
+    "电气材料 网店平台（联合体；无自有采购 / 雇员）"
+   ],
+   "address": "Viale Milanofiori Strada 4, Palazzo A5, 20057 Assago (MI)",
+   "accounts": "2025 营收 €774k；净利 €20k",
+   "accounts_due": "—",
+   "size_band": "平台（0 雇员）",
+   "officers": [
+    "（未具名）— amministratore（联合体代表；未取）"
+   ],
+   "psc": "成员电气批发商（未取）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**0 雇员的电气材料网店联合体（采购在成员批发商手里，「switch」= 电气开关）→ 不动**",
+    "若要碰电气批发渠道 → 另找其成员批发商（单独立户）"
+   ],
+   "notes": "坐实（P.IVA + REA）；非目标（平台 / 电气开关）→ 不动。",
+   "code": "SB-1079"
+  },
+  "SB-1005": {
+   "batch": 110,
+   "name": "ASIT S.p.A.（asit.it；运营总部 都灵 Mappano Via Goretta 90/F, 10079；法定 Torino Via Andrea Massena 44, 10128；P.IVA / CF 06221270017；Registro AEE IT22010000013576）— 1984 年起（登记 1992-05-12）的意大利专业 ICT 分销商（布线 / 网络 / 安全 / UCC / 专业 AV / 视频监控；35+ 品牌、1,500 活跃客户、5 分公司 Torino / Milano / Vicenza / Roma / Catania + 2 代理、5,000 m² 仓）；股本 €250,000；42 人；2025 营收 €41.8M；Presidente e AD Joris Ganz；AD Jacopo Ganz（= 研究档 KP）；VP Sales Marco Gabriele（= 研究档 KP）；创始人 Valentino Ganz；群发 4 次无回复",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：asit.it 首页（Asit SpA；P. Iva 06221270017；Sede Via Goretta 90/F 10079 Mappano (TO)；Capitale Sociale €250.000；42 Dipendenti；5 sedi；35 brand）+ aziende.it（ricavi 2025 41.833.533 €；Iscrizione 12/05/1992；Via Massena 44 Torino）+ asit.it/nuove-nomine 2024-06（Joris Ganz Presidente e AD；Jacopo Ganz AD；Cristina Ganz Consigliera）+ techcompany360 2019（nato nel 1984；Valentino Ganz / Marco Gabriele / Joris Ganz）+ sieconline 2026-05（5 uffici Torino Milano Vicenza Roma Catania）",
+   "url": "https://www.aziende.it/asit-s-p-a",
+   "number": "P.IVA / CF 06221270017",
+   "status": "Active",
+   "incorporated": "1992-05-12（活动 1984）",
+   "company_type": "S.p.A.（Ganz 家族）",
+   "sic": [
+    "专业 ICT 分销（布线 / 网络 / 安全 / UCC / AV / CCTV）（ATECO 46.50.2）"
+   ],
+   "address": "Via Goretta 90/F, 10079 Mappano (TO)（法定 Via Andrea Massena 44, 10128 Torino）",
+   "accounts": "2025 营收 €41,833,533",
+   "accounts_due": "—",
+   "size_band": "中型（42 人；€41.8M）",
+   "officers": [
+    "Jacopo Ganz — Amministratore Delegato（研究档 KP jacopo.ganz@）= 拍板人 / 收件人",
+    "Marco Gabriele — Vice President Sales（研究档 KP marco.gabriele@）= 收件人（抄）",
+    "Joris Ganz — Presidente e AD",
+    "Valentino Ganz — 创始人"
+   ],
+   "psc": "Ganz 家族",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**€42M、5 分公司的都灵 ICT 分销商（4 次群发无回）→ 分销 20%，B BIG，加厚一次（换切口：安装商渠道「第二价位」+ 意大利 DAP 小起订）**：STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + STI-054GP / STI-144GP 一页纸；次候选升 A",
+    "收件人 Jacopo 直呼、抄 Marco；发信窗口 Thu 12–14 CET；意语一句引子"
+   ],
+   "notes": "分销 20%；B BIG；加厚一次（换切口）；坐实（P.IVA + 财务）。",
+   "code": "SB-1005"
+  },
+  "SB-230": {
+   "batch": 110,
+   "name": "ADVANCED INNOVATIONS S.R.L.（ad-in.net / adin.it；Monza e Brianza Usmate Velate Via dell’Artigianato 32/F, 20865；P.IVA / CF 04994260968；REA MB-1789621）— 2005-10-26 登记的 IP 视频监控进口分销商（1979 年安防制造集团旗下；**2016 起 UTEPO 意大利独家分销、2017 起 Uniview 分销、Anrecson 显示器、Axxon 软件**；培训课程）；6 人；2024 营收 €1.13M（2021 €2.04M → 持续下滑）、亏损 −€66k；KP Fabio Cavalleri（Vice President）",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：ufficiocamerale（ADVANCED INNOVATIONS S.R.L.；P.IVA 04994260968；VIA DELL’ARTIGIANATO 32 F 20865 USMATE VELATE；Rea 1789621；Fatturato € 1.134.277 2024；Dipendenti 6；Iscrizione 26/10/2005；Utile € -65.984）+ reportaziende（Fatturato 2021–2024 2.04 / 2.04 / 1.86 / 1.13 M€）+ smartbuildingitalia 2018（dal 2016 distributore esclusivo italiano UTEPO；dal 2017 Uniview；Anrecson；AXXON）+ adin.it/en（distributore ufficiale UNIVIEW e UTEPO；gruppo fondato nel 1979）+ LinkedIn（2005；11–50）",
+   "url": "https://www.ufficiocamerale.it/4361/advanced-innovations-srl",
+   "number": "P.IVA / CF 04994260968；REA MB-1789621",
+   "status": "Active",
+   "incorporated": "2005-10-26",
+   "company_type": "S.r.l.（安防制造集团旗下）",
+   "sic": [
+    "IP 视频监控 / PoE 网络产品 进口分销（ATECO 46.52）"
+   ],
+   "address": "Via dell’Artigianato 32/F, 20865 Usmate Velate (MB)",
+   "accounts": "2024 营收 €1,134,277；净利 −€65,984",
+   "accounts_due": "—",
+   "size_band": "小微（6 人；下滑中）",
+   "officers": [
+    "Fabio Cavalleri — Vice President（研究档 KP fabio@ad-in.net）= 拍板人 / 收件人",
+    "（未具名）— amministratore（集团；未取）"
+   ],
+   "psc": "安防制造集团（1979；未取）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**国产 PoE 品牌的意大利独家分销商（营收 3 年腰斩、亏损 → 需要毛利 / 第二货源）→ 分销 20% small，一页纸一次（STC-028GP / STC-228GP / STC-2224GP / STI-054GP 1:1 对照其独家品牌在售型号；只给毛利切口）；有回声再加厚**；稿内绝不点名 UTEPO / Uniview",
+    "收件人 Fabio 直呼；发信窗口 Thu 12–14 CET；意语一句引子"
+   ],
+   "notes": "分销 20% small；一页纸一次；坐实（P.IVA + REA + 财务）。",
+   "code": "SB-230"
+  },
+  "SB-269": {
+   "batch": 110,
+   "name": "Contradata Milano S.r.l.（contradata.it；运营 Monza Via Solferino 12, 20900；法定 Milano Via Lorenzo Mascheroni 14；P.IVA / CF 04099800155；REA MI-987346）— 1978 年成立的工业 PC / 嵌入式 / 工业以太网分销商（面向 OEM 与系统集成商；Panel PC、SBC、工业 SSD、工业交换机）；股本 €78,000；10–15 人；2024 营收 €3.69M（−22.5%）、净利 €34k；KP Alessandro Damian（General Manager）、Tiziano Cerato（Sales Engineer）；表内 4 次跟进无回复",
+   "iso": "IT",
+   "fetched": "2026-10-28",
+   "source": "IT · 1 次检索：contradata.it 页脚 / Partners（Contradata Milano S.r.l.；Via Solferino 12 20900 Monza；CAPITALE SOCIALE 78000 €；REA 0987346；C.F. e P.IVA IT04099800155）+ companyreports（sede Via Lorenzo Mascheroni 14 Milano；REA MI 987346；fatturato 2024 3.691.160 €；utile 34.156 €；10–15 dipendenti）+ fatturatoaziende（−22.5 % vs 2023）+ pmilombarde（Fondata nel 1978）+ LinkedIn（11–50；1978）",
+   "url": "https://www.contradata.it/contatti/",
+   "number": "P.IVA / CF 04099800155；REA MI-987346",
+   "status": "Active",
+   "incorporated": "1978",
+   "company_type": "S.r.l.（私有；股本 €78,000）",
+   "sic": [
+    "工业 PC / 嵌入式 / 工业以太网 分销（ATECO 26.2）"
+   ],
+   "address": "Via Solferino 12, 20900 Monza (MB)（法定 Via Lorenzo Mascheroni 14, Milano）",
+   "accounts": "2024 营收 €3,691,160；净利 €34,156",
+   "accounts_due": "—",
+   "size_band": "小型（10–15 人）",
+   "officers": [
+    "Alessandro Damian — General Manager（研究档 KP adamian@）= 拍板人 / 收件人",
+    "Tiziano Cerato — Sales Engineer（研究档 KP info@）= 收件人（抄）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**1978 年起的工业 PC 分销商（工业交换机为台系；营收 −22%；4 次无回）→ 分销 20% small，一页纸一次（换切口：STI-054GP / STI-144GP / STI-154GP / STI-288DGGPM 作台系第二价位 + 交期）；有回声再加厚**",
+    "收件人 Alessandro 直呼、抄 Tiziano；发信窗口 Thu 12–14 CET；意语一句引子"
+   ],
+   "notes": "分销 20% small；一页纸一次（换切口）；坐实（P.IVA + REA + 财务）。",
+   "code": "SB-269"
   }
  }
 }

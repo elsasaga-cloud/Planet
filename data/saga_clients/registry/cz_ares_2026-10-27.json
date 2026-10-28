@@ -4,7 +4,7 @@
   "source": "Czechia · ARES 官方 API（ares.gov.cz）+ or.justice.cz 商业登记",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 16
+  "count": 18
  },
  "rows": {
   "SA-089": {
@@ -536,6 +536,69 @@
    ],
    "notes": "分销 20%；B BIG；加厚一次；坐实（IČO + 法院卷号）。",
    "code": "SB-470"
+  },
+  "SB-469": {
+   "batch": 110,
+   "name": "Novy Telecom s.r.o.（novytel.cz；布拉格 2 Nové Město Legerova 1820/39, 120 00；IČO 28481968）— 2008-10-30 成立的亚洲 / 中国货源采购代理与进出口商（「Supply of machinery from Asia and China」：农机 / 配件 / OEM-ODM 寻源 / 质检 / 物流；2024 出口额 ≈US$0.77M，1,004 票主要发往乌克兰）；KP Miloš Holec（procurement@）；表内未跟进",
+   "iso": "CZ",
+   "fetched": "2026-10-28",
+   "source": "CZ · 1 次检索：novytel.cz（Supply of machinery from Asia and China；About；Our Contacts Praha 2 Legerova 1820/39 PSČ 12000；info@novytel.cz）+ tracxn（incorporated Oct 30 2008；CIN 28481968；Active）+ podnikatel.cz / finmag（IČO 28481968；Legerova 1820/39 Praha Nové Město）+ chytryrejstrik（zprostředkování a dodávky zboží z Asie, zejména z Číny；OEM/ODM；kontrola kvality）+ volza（1,004 shipments to 14 buyers incl. Ukraine）+ marketinsidedata（export USD 770.44k 2024）",
+   "url": "https://www.podnikatel.cz/rejstrik/novy-telecom-s-r-o-28481968/",
+   "number": "IČO 28481968",
+   "status": "Aktivní",
+   "incorporated": "2008-10-30",
+   "company_type": "s.r.o.（私有）",
+   "sic": [
+    "采购代理 / 进出口（中国货源 → 乌克兰等）"
+   ],
+   "address": "Legerova 1820/39, 120 00 Praha 2 – Nové Město",
+   "accounts": "2024 出口 ≈US$770k",
+   "accounts_due": "—",
+   "size_band": "小微",
+   "officers": [
+    "Miloš Holec — 研究档 KP（procurement@novytel.cz）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**采购代理 / 转口商（主营农机，出口乌克兰）→ 按规则「采购代理 不动」**",
+    "若其以终端客户名义询价 → 只做预付款、不给渠道价"
+   ],
+   "notes": "坐实（IČO）；采购代理 → 不动。",
+   "code": "SB-469"
+  },
+  "SB-266": {
+   "batch": 110,
+   "name": "Axilogi s.r.o.（axilogi.com；比尔森 Plzeň – Skvrňany Daimlerova 1161/6, 301 00；IČO 10964703；DIČ CZ10964703）— 2021-06-23 成立的 IT / 安防网店与分销（Mean Well / WD / Ubiquiti / Hikvision / MikroTik / TP-Link）；股本 CZK 2M；法人 jednatel = DC Europe system a.s.（IČO 06532802，代表人 Ing. Milan Harmáček = 研究档 KP CEO）；**2026-01-19 Harmáček 从代表人中注销、2026-03-10 法院登记 opatrovník（监护人）Mgr. Martin Svoboda；网站自称 KS Plzeň C 47636 与 ARES 卷号 C 123877 不一致 → 法人状态异常**；群发 4 次无回复",
+   "iso": "CZ",
+   "fetched": "2026-10-28",
+   "source": "CZ · 1 次检索：finmag（Axilogi s.r.o.；IČO 10964703；DIČ CZ10964703；Daimlerova 1161/6 Plzeň - Skvrňany；jednatel DC Europe system a.s. 06532802；při výkonu funkce zastupuje Ing. Milan Harmáček zapsáno 2. 6. 2025；19. 1. 2026 vymazán；10. 3. 2026 zapsán opatrovník Mgr. Martin Svoboda；základní kapitál 2 000 000 Kč 23. 6. 2021）+ ov.gov.cz（Oddíl C vložka 123877；Datum zápisu 23.6.2021；Milan Harmáček nar. 30.12.1975）+ axilogi.com/kontakty（KS v Plzni oddíl C vložka 47636）+ rocketreach（Milan Harmacek CEO）",
+   "url": "https://www.finmag.cz/obchodni-rejstrik/10964703-axilogi-s-r-o",
+   "number": "IČO 10964703；DIČ CZ10964703；C 123877（网站称 C 47636 → 不一致）",
+   "status": "Aktivní（统法机关缺位；2026-03 法院指定 opatrovník）",
+   "incorporated": "2021-06-23",
+   "company_type": "s.r.o.（jednatel = DC Europe system a.s.）",
+   "sic": [
+    "IT / 安防 网店与分销"
+   ],
+   "address": "Daimlerova 1161/6, 301 00 Plzeň – Skvrňany",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小微",
+   "officers": [
+    "Milan Harmáček（Ing.）— 研究档 KP CEO（milan@）；2026-01 起不再是登记代表人",
+    "Mgr. Martin Svoboda — Opatrovník（法院 2026-03-10）"
+   ],
+   "psc": "DC Europe system a.s.（Harmáček 股东）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**法人状态异常（代表人注销 + 法院监护人 + 卷号不一致）→ 信用风险 → 不动（B 保留，不进发送包）**",
+    "若 Milan 主动询盘 → 只做全额预付款"
+   ],
+   "notes": "部分坐实（卷号不一致）；法人状态异常 → 不动。",
+   "code": "SB-266"
   }
  }
 }

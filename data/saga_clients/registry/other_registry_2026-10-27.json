@@ -4,7 +4,7 @@
   "source": "其他国家官方 / 准官方登记",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 97
+  "count": 104
  },
  "rows": {
   "SA-061": {
@@ -3080,6 +3080,228 @@
    ],
    "notes": "分销 20% small；一页纸一次（WA）；部分坐实（ΑΦΜ 未取；ΓΕΜΗ 推定）。",
    "code": "SB-057"
+  },
+  "SB-1084": {
+   "batch": 110,
+   "name": "Frekvent Forklift Kft.（原 PHOENIX FORKLIFT Kft.，2023-07-12 更名；frekvent.com / targoncavilla.com / targoncaalkatresz.com；Bács-Kiskun Jánoshalma Kisszállási út 11, 6440；adószám 12678859-2-03；cégjegyzékszám 03-09-109129 Kecskeméti Törvényszék）— 2001-06-19 成立的叉车配件 / 二手叉车 / 建筑机械 / 拖拉机配件批发商与网店（TEÁOR 4672；2021 起 Magento 网店）；jegyzett tőke HUF 3M；2025 净营收 HUF 1.08bn（≈€2.7M）；表内「工业 FS」= 误判（叉车配件）；表内未跟进",
+   "iso": "HU",
+   "fetched": "2026-10-28",
+   "source": "HU · 1 次检索：frekvent.com/kapcsolat + impresszum（Frekvent Forklift Kft.；Jánoshalma 6440；Adószám 12678859-2-03；Cégjegyzékszám 03-09-109129；Kecskeméti Törvényszék Cégbírósága）+ frekvent.com/blog（2023. július 12-től új neve Frekvent Forklift Kft.；前 Phoenix Forklift Kft.）+ ceginformacio.hu（Full name Frekvent Forklift Korlátolt Felelősségű Társaság；6440 Jánoshalma Kisszállási út 11；Main activity 4672；establishment 19/06/2001；capital 3 000 000 HUF；Net revenue 1 079 947 010 HUF 2025）+ targoncavilla.com（Frekvent Forklift Kft.；villa@frekvent.com）",
+   "url": "https://www.ceginformacio.hu/cr9310989059_EN",
+   "number": "Adószám 12678859-2-03；Cégjegyzékszám 03-09-109129",
+   "status": "Active",
+   "incorporated": "2001-06-19",
+   "company_type": "Kft.（私有；HUF 3M）",
+   "sic": [
+    "叉车 / 建筑机械 / 拖拉机 配件批发 + 网店（TEÁOR 4672）"
+   ],
+   "address": "Kisszállási út 11, 6440 Jánoshalma",
+   "accounts": "2025 净营收 HUF 1,079,947k",
+   "accounts_due": "—",
+   "size_band": "小型（≈€2.7M）",
+   "officers": [
+    "（未具名）— ügyvezető（未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [
+    "PHOENIX FORKLIFT Kft."
+   ],
+   "lines": [
+    "**叉车配件商（表内「工业 FS」为误判）→ 非目标行业 → 不动**"
+   ],
+   "notes": "坐实（adószám + 财务）；非目标行业 → 不动。",
+   "code": "SB-1084"
+  },
+  "SB-1087": {
+   "batch": 110,
+   "name": "TEHNO ELECTRIC SRL（tehnoelectric.ro；奥拉迪亚 Oradea Str. Louis Pasteur nr. 63, 410154 (Bihor)；CUI RO16179086；J05/330/2004（EUID ROONRC.J2004000330051））— 2004-02-25 成立的电子元器件 / 电气 / 配件 / 自动化直接进口商兼网店（PoE 注入器等「比较杂」）；CAEN 4650（年报 4651）；11 人（2025）；2024 净销售额 −8.7%；**≠ 同名 TEHNOELECTRIC SRL（CUI 16855137，电气安装）**；表内未跟进",
+   "iso": "RO",
+   "fetched": "2026-10-28",
+   "source": "RO · 1 次检索：targetare.ro（TEHNO ELECTRIC SRL；CUI 16179086；J2004000330051；înființare 25 februarie 2004；website tehnoelectric.ro）+ risco.ro（Main CAEN 4650；NACE 2025 4651；February 25 2004）+ emis（ORADEA；incorporated February 25 2004；11 employees 2025；2024 net sales −8.74 %）+ tehnoelectric.ro/contact（Str. Louis Pasteur nr.63 Oradea 410154；office@tehnoelectric.ro；Importator direct）；同名 TEHNOELECTRIC SRL 16855137 CAEN 4321 ≠",
+   "url": "https://www.risco.ro/en/verifica-firma/tehno-electric-cui-16179086",
+   "number": "CUI RO16179086；J05/330/2004",
+   "status": "Activă",
+   "incorporated": "2004-02-25",
+   "company_type": "SRL（私有）",
+   "sic": [
+    "电子元器件 / 电气 / 自动化 直接进口 + 网店（CAEN 4650 / 4651）"
+   ],
+   "address": "Str. Louis Pasteur nr. 63, 410154 Oradea (Bihor)",
+   "accounts": "—（11 人；2024 下滑）",
+   "accounts_due": "—",
+   "size_band": "小型（11 人）",
+   "officers": [
+    "（未具名）— administrator（未取）；收件人 office@tehnoelectric.ro"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**11 人元器件直接进口网店（PoE 注入器杂牌）→ 分销 20% small，一页纸一次（STC-028GP / STC-228GP 一口价 + MOQ 1；罗语引子）；有回声再加厚**",
+    "表内未跟进 → 首触 office@；发信窗口 Thu 12–14 EET"
+   ],
+   "notes": "分销 20% small；一页纸一次；坐实（CUI + J）。",
+   "code": "SB-1087"
+  },
+  "SB-078": {
+   "batch": 110,
+   "name": "SITIS Sàrl（sitis.ch；日内瓦 Rue Rousseau 15, 1201；UID CHE-150.026.203；CH-660.0.018.012-4）— 2012-01-04 登记的小型 IT / 电信 / 安防销售与服务公司（IT 支持、布线、VoIP / 云 PBX、混合视频监控服务器、防盗 / 火警）；股本 CHF 20,000；associé-gérant Arno Freudenreich（200 份 = 100%；单独签字；= 研究档 KP）；雇员未申报；表内 5 次打开",
+   "iso": "CH",
+   "fetched": "2026-10-28",
+   "source": "CH · 1 次检索：moneyhouse（SITIS Sàrl；Genève；entry 04.01.2012；CH-660.0.018.012-4；UID CHE-150.026.203；Capital CHF 20’000；Associé-gérant Freudenreich Arno de Wohlen bei Bern à Bernex pour 200 parts de CHF 100 signature individuelle；but informatique, télécommunications et sécurité）+ kompass（Rue Rousseau 15 1201 Genève；Arno Freudenreich gérant；effectif non déclaré）+ opencorporates（Rue Rousseau 15）",
+   "url": "https://www.moneyhouse.ch/en/company/sitis-sarl-5661522431",
+   "number": "UID CHE-150.026.203；CH-660.0.018.012-4",
+   "status": "Aktiv",
+   "incorporated": "2012-01-04",
+   "company_type": "Sàrl（Arno Freudenreich 100%）",
+   "sic": [
+    "IT / 电信 / 安防 销售与服务（微型）"
+   ],
+   "address": "Rue Rousseau 15, 1201 Genève",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小微（1–4 人）",
+   "officers": [
+    "Arno Freudenreich — Associé-gérant / 100% 所有人（研究档 KP afcn@sitis.ch）= 拍板人 / 收件人"
+   ],
+   "psc": "Arno Freudenreich 100%",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**日内瓦一人 IT / 安防服务商（打开 5 次）→ 集成 25% small，一页纸一次（STC-028GP / STC-228GP / STI-054GP 一口价 + MOQ 1 + DAP 瑞士买方清关）；再无回声 → 不动**",
+    "收件人 Arno 直呼；发信窗口 Thu 12–14 CET；法语一句引子"
+   ],
+   "notes": "集成 25% small；一页纸一次；坐实（UID + 所有人）。",
+   "code": "SB-078"
+  },
+  "SB-126": {
+   "batch": 110,
+   "name": "CABLEWINDOW SL（原名 HAI NUO SRL；商号 CABLE WINDOW；cablewindow.com / cablewindow.es；马德里 Calle Laguna del Marquesado 12, Nave 11, Pol. Ind., 28021；CIF B83027185）— 2001-06-15 成立的网络 / 安防线缆与设备进口网店（Utepo 交换机等；原名 HAI NUO 提示华人背景）；股本 €3,065；2–6 名雇员；年销售 ≈€0.5M；仅 info@；群发 5 次无回复",
+   "iso": "ES",
+   "fetched": "2026-10-28",
+   "source": "ES · 1 次检索：empresite（Cablewindow Sl.；CIF B83027185；2 trabajadores 2025；www.cablewindow.com）+ einforma（Denominación Antigua HAI NUO SRL；constitución 15/06/2001；Capital 3.065 €；domicilio anterior Calle Torres Miranda 21）+ iberinform / empresia（CALLE LAGUNA DEL MARQUESADO 12 NAVE 11 28021 MADRID；6 empleados 2024；ventas 0.5M €；CNAE 4652）+ cablewindow.es（Calle Laguna del Marquesado 12 Nave 11；info@cablewindow.com）",
+   "url": "https://www.iberinform.es/empresa/1173988/cablewindow",
+   "number": "CIF B83027185",
+   "status": "Activa",
+   "incorporated": "2001-06-15",
+   "company_type": "S.L.（微型；原 HAI NUO SRL）",
+   "sic": [
+    "网络 / 安防线缆与设备 进口网店（CNAE 4652）"
+   ],
+   "address": "Calle Laguna del Marquesado 12, Nave 11, 28021 Madrid",
+   "accounts": "年销售 ≈€0.5M",
+   "accounts_due": "—",
+   "size_band": "小微（2–6 人）",
+   "officers": [
+    "（未具名）— Administrador único（原 HAI NUO；推定华人业主）；收件人 info@cablewindow.com"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [
+    "HAI NUO SRL"
+   ],
+   "lines": [
+    "**微型华人背景进口网店（卖国产 PoE；5 次无回）→ 分销 20% small，一页纸一次（英文稿；中文直联 Simon 定，默认否）；再无回声 → 不动**",
+    "收件人 info@；发信窗口 Thu 12–14 CET；稿内不点名 Utepo"
+   ],
+   "notes": "分销 20% small；一页纸一次；坐实（CIF + 曾用名）。",
+   "code": "SB-126"
+  },
+  "SB-127": {
+   "batch": 110,
+   "name": "IZUX INGENIERIA Y SEGURIDAD SL（izux.es；瓦伦西亚 C/ José Chabás Bordehore 3, Bl. 4, 3º 21, 46019；CIF B98126444；RM Valencia H V-133381）— 2009-02-25 成立的安防批发网店（Hikvision / Dahua / Uniview / Ajax / 门禁考勤 / 酒店锁 / 可视门铃）；微型（1–10 人；销售 ≤€250k）；Administrador único / Gerente Igor Vidal Guimerá（= 研究档 KP Igor Guimerá）；表内「商用 PoE，CCTV 为主」",
+   "iso": "ES",
+   "fetched": "2026-10-28",
+   "source": "ES · 1 次检索：iberinform（IZUX INGENIERIA Y SEGURIDAD SL；CIF B98126444；CALLE JOSE CHABAS BORDEHORE 3 BLQ 4 3 21 46019 VALENCIA；CNAE 4650；BORME 23/03/2009）+ infonif（25/02/2009；Administrador único VIDAL GIMERA IGOR）+ axesor（constitución 25/02/2009；1–10 empleados；ventas 1–250.000 €）+ LinkedIn（2–10；Igor Vidal Guimerá GERENTE）+ izux.es（Distribuidor mayorista CCTV Hikvision Dahua Uniview Ajax）",
+   "url": "https://www.iberinform.es/empresa/3694807/izux-ingenieria-y-seguridad",
+   "number": "CIF B98126444",
+   "status": "Activa",
+   "incorporated": "2009-02-25",
+   "company_type": "S.L.（Igor Vidal Guimerá）",
+   "sic": [
+    "安防产品 批发网店（CNAE 4650）"
+   ],
+   "address": "C/ José Chabás Bordehore 3, Bl. 4, 3º 21, 46019 Valencia",
+   "accounts": "—（微型）",
+   "accounts_due": "—",
+   "size_band": "小微（2–10 人）",
+   "officers": [
+    "Igor Vidal Guimerá — Administrador único / Gerente（研究档 KP Igor Guimerá，comercial@izux.es）= 拍板人 / 收件人"
+   ],
+   "psc": "Igor Vidal Guimerá（推定）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**瓦伦西亚微型 CCTV 批发网店 → 分销 20% small，一页纸一次（STC-028GP / STC-228GP 配 Hikvision / Dahua 套件一口价 + MOQ 1）；再无回声 → 不动**",
+    "收件人 Igor 直呼；发信窗口 Thu 12–14 CET；西语一句引子"
+   ],
+   "notes": "分销 20% small；一页纸一次；坐实（CIF + 管理人）。",
+   "code": "SB-127"
+  },
+  "SB-130": {
+   "batch": 110,
+   "name": "BONMAG INTERNATIONAL S.R.L.（品牌 OmniSecurity；omnisecurity.ro；登博维察 Dâmbovița Voinești Str. Aldescu nr. 624；CUI 37299107；J15/334/2017）— 2017-03-29 成立的一人安防 / 自动化安装商（IP 监控、门禁考勤、道闸、对讲、弱电；SICAP 小额公共采购）；CAEN 4321（年报 4690）；1 名雇员；2025 销售 €100.8k、净利 €30.7k；KP Bogdan（bogdan@）",
+   "iso": "RO",
+   "fetched": "2026-10-28",
+   "source": "RO · 1 次检索：termene.ro（BONMAG INTERNATIONAL S.R.L.；CUI 37299107；J15/334/2017；VOINEȘTI Str. ALDESCU Nr. 624 DÂMBOVIȚA；cifra de afaceri 333,896 RON 2024；profit 174,404 RON；1 angajat）+ risco.ro（March 29 2017；Main CAEN 4321；NACE 2025 4690；Sales 2025 100.816 euro；net profit 30.659；1 employee）+ sicap.ai（DA37570300 camere video, switch, cabluri）",
+   "url": "https://www.risco.ro/en/verifica-firma/bonmag-international-cui-37299107",
+   "number": "CUI 37299107；J15/334/2017",
+   "status": "Activă",
+   "incorporated": "2017-03-29",
+   "company_type": "SRL（一人）",
+   "sic": [
+    "安防 / 自动化 安装（一人；CAEN 4321 / 4690）"
+   ],
+   "address": "Str. Aldescu nr. 624, Voinești (Dâmbovița)",
+   "accounts": "2025 销售 €100,816；净利 €30,659",
+   "accounts_due": "—",
+   "size_band": "小微（1 人）",
+   "officers": [
+    "Bogdan（姓未公开）— 研究档 KP（bogdan@omnisecurity.ro）= 业主（推定）/ 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**一人安装商（打开 5 次；年销 €10 万）→ 集成 25% small，一页纸一次（STC-028GP / STC-228GP 一口价 + MOQ 1 + 预付款）；再无回声 → 不动**",
+    "收件人 Bogdan 直呼；发信窗口 Thu 12–14 EET；罗语一句引子"
+   ],
+   "notes": "集成 25% small；一页纸一次；坐实（CUI + 财务）。",
+   "code": "SB-130"
+  },
+  "SB-265": {
+   "batch": 110,
+   "name": "Videotronic AG（videotronic.ch；苏黎世州 Regensdorf Moosäckerstrasse 73, 8105；UID CHE-107.888.942；CH-020.3.927.830-8）— 1976-08-03 登记的视频安防 / 门禁 / 门口通信方案分销与集成商；股本 CHF 316,000；1–10 人；Verwaltungsratspräsident / Geschäftsführer Christos Sgouros（= 研究档 KP）；**2026 起由德国 VIDEOR E. Hartig GmbH（Rödermark；自有品牌 eneo 的大型 CCTV 分销商）控股**，董事 Dominik Mizdrak（Videor GF）、Sascha Dyroff；表内 6 次跟进无回复；≠ Videotronic (Schweiz) AG CHE-106.761.351 Oberuzwil",
+   "iso": "CH",
+   "fetched": "2026-10-28",
+   "source": "CH · 1 次检索：help.ch（Videotronic AG Regensdorf；UID CHE-107.888.942；HR-Eintragung 03.08.1976；Kapital 316’000 CHF；CH-020.3.927.830-8；Moosäckerstrasse 73 8105）+ business-monitor（Christos Sgouros President；Dominik Mizdrak / Sascha Dyroff board；Simon David Schnetzler signatory）+ ranq（Employees 1 to 10；last change April 10 2026）+ videotronic.ch（Seit 2026 gehört Videotronic mehrheitlich zur VIDEOR E. Hartig GmbH）+ git-sicherheit 2026-03-26（Videor Mehrheitsbeteiligung）+ Impressum（Firmenbuch CHE-107.888.942）",
+   "url": "https://business-monitor.ch/en/companies/197640-videotronic-ag",
+   "number": "UID CHE-107.888.942；CH-020.3.927.830-8",
+   "status": "Aktiv（2026 起 VIDEOR 控股）",
+   "incorporated": "1976-08-03",
+   "company_type": "AG（VIDEOR E. Hartig GmbH 多数股权）",
+   "sic": [
+    "视频安防 / 门禁 / 对讲 分销与集成（瑞士）"
+   ],
+   "address": "Moosäckerstrasse 73, 8105 Regensdorf (ZH)",
+   "accounts": "—",
+   "accounts_due": "—",
+   "size_band": "小微（1–10 人）",
+   "officers": [
+    "Christos Sgouros — VR-Präsident / Geschäftsführer（研究档 KP c.sgouros@）= 拍板人 / 收件人",
+    "Dominik Mizdrak — Verwaltungsrat（VIDEOR Geschäftsführer）",
+    "Sascha Dyroff — Verwaltungsrat"
+   ],
+   "psc": "VIDEOR E. Hartig GmbH（多数）",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**刚被德国 VIDEOR（自有品牌 eneo）控股的瑞士小分销商（6 次无回）→ 分销 20% small，一页纸一次（换切口：并入 Videor 后供应商重审；STC-028GP / STC-228GP / STI-054GP；DAP 瑞士买方清关）；再无回声 → 不动**",
+    "**旁线索（DE 池核对）：VIDEOR E. Hartig GmbH，Rödermark，自有品牌 eneo（含 PoE 交换机）→ 贴标 30% 目标候选，另立户 / 查 DE 池是否已有**"
+   ],
+   "notes": "分销 20% small；一页纸一次（换切口）；坐实（UID + 董事会）；旁线索 VIDEOR / eneo。",
+   "code": "SB-265"
   }
  }
 }

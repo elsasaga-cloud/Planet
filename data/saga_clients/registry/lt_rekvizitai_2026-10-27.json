@@ -4,7 +4,7 @@
   "source": "Lithuania · Registrų centras / Sodra 公开数据（rekvizitai.vz.lt）",
   "created": "2026-10-27",
   "updated": "2026-10-28",
-  "count": 6
+  "count": 7
  },
  "rows": {
   "SB-789": {
@@ -202,6 +202,39 @@
    ],
    "notes": "采购型 25% small；一页纸一次；坐实（kodas + 财务）。",
    "code": "SB-998"
+  },
+  "SB-195": {
+   "batch": 110,
+   "name": "BK grupė, UAB（Uždaroji akcinė bendrovė Baltijos kontaktų grupė；bkgrupe.lt；考纳斯 Pramonės pr. 4D, LT-51329；įmonės kodas 210599550；PVM LT105995515；LEI 529900OT8O55VWSU5596）— 1994-03-07 登记的波罗的海三国 + 波兰安防系统分销商（管理中心在塔林；Kaunas / Vilnius / Šiauliai 等分部；电商部）；股本 €67,320；95 名雇员（SODRA 2026-07）；销售收入 €41.9M；vadovas Andrius Dapkevičius；KP Andrius Daubaras = Padalinio prekybos vadovas（分部销售负责人）；表内 4 次跟进无回复",
+   "iso": "LT",
+   "fetched": "2026-10-28",
+   "source": "LT · 1 次检索：rekvizitai.vz.lt（BK grupė, UAB；Registration code 210599550；VAT LT105995515；Share capital 67 320 €；Manager Andrius Dapkevičius；Pramonės pr. 4D LT-51329 Kaunas；LEI）+ bkgrupe.lt/kontaktai（Įmonės kodas 210599550；Justas Kudirka Elektroninės prekybos vadovas；Andrius Daubaras Padalinio prekybos vadovas andrius.d@；Vilnius Domantas Gedžius / Justinas Daubara）+ okredo（95 darbuotojai 2026-07-02）+ infocloud（Pardavimo pajamos 41 889 642 Eur）+ 1551.lt（įkurta 1994；Lietuva Latvija Estija Lenkija；centras Taline）+ scoris（Registration 1994-03-07）",
+   "url": "https://rekvizitai.vz.lt/en/company/bk_grupe/",
+   "number": "Įmonės kodas 210599550；PVM LT105995515",
+   "status": "Veikiantis",
+   "incorporated": "1994-03-07",
+   "company_type": "UAB（私有）",
+   "sic": [
+    "安防系统 分销（LT / LV / EE / PL）+ 电商"
+   ],
+   "address": "Pramonės pr. 4D, LT-51329 Kaunas",
+   "accounts": "销售收入 €41,889,642；95 人",
+   "accounts_due": "—",
+   "size_band": "中型（95 人；€41.9M）",
+   "officers": [
+    "Andrius Daubaras — Padalinio prekybos vadovas（研究档 KP andrius.d@；官网 Kontaktai）= 收件人",
+    "Andrius Dapkevičius — Vadovas（rekvizitai）= 拍板人（抄）",
+    "Justas Kudirka — Elektroninės prekybos vadovas（电商）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**€42M / 95 人的波罗的海安防分销商（在售国产 PoE；4 次无回）→ 分销 20%，B BIG，加厚一次（换切口：波罗的海 + 波兰四国渠道第二货源 + 电商部 SKU）**：STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM + STI-054GP 一页纸；次候选升 A；稿内不点名 Utepo",
+    "收件人 Andrius Daubaras 直呼、抄 Andrius Dapkevičius；发信窗口 Thu 12–14 EET；立陶宛语一句引子"
+   ],
+   "notes": "分销 20%；B BIG；加厚一次（换切口）；坐实（kodas + 财务 + 人数）。",
+   "code": "SB-195"
   }
  }
 }
