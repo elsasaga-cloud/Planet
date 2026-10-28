@@ -78,6 +78,22 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 104 批（DE · 1 次检索：Northdata（Tech-Point GmbH, Stuhr；Amtsgericht Walsrode HRB 211027；EUID DEP2716.HRB211027；Managing Director Cedric Krämer；Capital €25,000）+ 官网 Über uns（Jussef Hussein Geschäftsführung；Cedric Krämer Geschäftsführung & Gründer；2022 年由 Hansebau Krämer 更名为 Tech-Point GmbH；Retail- und Digital-Signage-Branche 服务伙伴）+ 官网 Referenzen（专业服务企业：零售领域技术系统规划、安装、维护、维修）；同名 TechPoint GmbH Krefeld（HRB 20968/20969，Ahmet Pinar）、TecPoint GmbH Wolfratshausen（HRB 191653）、Tec-Point GmbH Rheda（HRB 12001）均为他家，不采，2026-10-28 查；https://www.northdata.com/Tech-Point%20GmbH,%20Stuhr/Amtsgericht%20Walsrode%20HRB%20211027）：**
+
+- 法定名 / 登记号：Tech-Point GmbH（techpoint-gmbh.de；下萨克森 Stuhr；Amtsgericht Walsrode HRB 211027）— 零售与数字标牌行业的全国性技术服务商（规划 / 安装 / 维护 / 维修零售技术系统；前身 Hansebau Krämer，2022 年更名）；创始人 Cedric Krämer + Jussef Hussein 任 Geschäftsführung；股本 €25,000；研究档无 KP；表内未跟进 · HRB 211027（Amtsgericht Walsrode） · 状态 **Active** · 成立 ≈2022（更名登记；前身 Hansebau Krämer） · GmbH（私有；股本 €25,000）
+- 行业码 / 经营范围：零售 / 数字标牌技术系统的现场服务（规划、安装、维护、维修；全国出勤）
+- 注册地址：Stuhr（下萨克森，不来梅南郊；门牌未取）
+- 规模档：小型（推定 10–30 人）
+- 账目：—；—
+- 高管：Cedric Krämer — Geschäftsführer & Gründer（Northdata 登记）= 收件人
+- 高管：Jussef Hussein — Geschäftsführung（官网）
+- 控制人 / 股东：Cedric Krämer（推定）
+- 曾用名：Hansebau Krämer（2022 年前）
+- **这意味着什么：**
+  - **现场服务商（交换机为门店项目附带）→ 集成商 25% small，首触一页纸即止**：STC-028GP / STC-228GP（门店 POS / 数字标牌 / 摄像机 PoE）；不加厚；一页纸无回复 → `不动`
+  - 收件人 info@ 点名 Cedric Krämer；发信窗口 Thu 12–14 CET
+- 备注：集成商 25% small；一页纸后不动；HRB 已取。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -108,14 +124,18 @@ updated: 2026-10-28
 - **【官网快照】Tech-Point 定位**
   > Startseite - Tech-Point GmbH ; Effizienz trifft Innovation! ; Ihr Partner im Retail Service ; Standorte
   > 来源：https://www.techpoint-gmbh.de/（抓取 2026-10-21）
+- **KP**：Cedric Krämer（Geschäftsführer & Gründer（Walsrode HRB 211027 在册）= 收件人（经 info@）（第 104 批 官方登记核实 2026-10-28）） 〔https://www.northdata.com/Tech-Point%20GmbH,%20Stuhr/Amtsgericht%20Walsrode%20HRB%20211027〕
+- **KP**：Jussef Hussein（Geschäftsführung（官网团队页）（第 104 批 官方登记核实 2026-10-28）） 〔https://www.techpoint-gmbh.de/ueber-uns/〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Tech-Point GmbH（Amtsgericht Walsrode HRB 211027；Stuhr；股本 €25,000；前身 Hansebau Krämer，2022 更名；勿与 TechPoint GmbH Krefeld / TecPoint GmbH Wolfratshausen 混淆） |
+| 成立 | ≈2022（更名登记）（第 104 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 德国 |
-| 其他 | 官网 techpoint-gmbh.de，语言 de，快照状态 ok；角色判定来源：待核 |
+| 其他 | 官网 techpoint-gmbh.de，语言 de，快照状态 ok；角色判定来源：待核；第 104 批：零售 / 数字标牌技术系统全国现场服务商（规划、安装、维护、维修）→ **集成商 25% small；首触一页纸后不动**（第 104 批 官方登记核实 2026-10-28） |
 
 - **业务线**：零售业 IT 服务 / 现场服务（德国）
 - **触达通道（公开）**：role: 零售 IT 服务商（德国）；region: 德国；contact: service@team-techpoint.de
@@ -188,7 +208,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | service@team-techpoint.de | 用户表原值 | Clients/ 表 |
+| Cedric Krämer | Geschäftsführer & Gründer（Walsrode HRB 211027 在册）= 收件人（经 info@）（第 104 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.northdata.com/Tech-Point%20GmbH,%20Stuhr/Amtsgericht%20Walsrode%20HRB%20211027 |
+| Jussef Hussein | Geschäftsführung（官网团队页）（第 104 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.techpoint-gmbh.de/ueber-uns/ |
 
 - **通道建议**：企业邮箱可直发
 
@@ -223,7 +244,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：欧洲主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STC-28DGGPM 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -240,7 +261,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ❓ 表内兴趣不含交换机关键词 |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
@@ -256,7 +277,7 @@ updated: 2026-10-28
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Cedric,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the access switches in your retail-site rollouts, we supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ models (VLAN/QoS, 802.3at/bt options) from single units, CE/RoHS, EXW USD — which port count do your store installations standardise on?
 

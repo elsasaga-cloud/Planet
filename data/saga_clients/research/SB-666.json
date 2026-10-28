@@ -28,7 +28,14 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Aziz Vasıf Durmaz",
+   "role": "Yetkili / Genel Müdür（makinaturkiye 在册负责人）= 收件人（第 104 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.makinaturkiye.com/firma/mavi-alarm-kamera-ve-guvenlik-teknolojileri-tic-ltd-sti"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -38,7 +45,9 @@
  },
  "company_facts": {
   "hq": "土耳其",
-  "other": "官网 mavialarm.com.tr，语言 ?，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 mavialarm.com.tr，语言 ?，快照状态 ok；角色判定来源：官网文案；第 104 批：Kartal 电子安防安装商 / 多品牌经销站（hikvisiontr.net / dahua-tr.com；11–50 人）→ **集成商 25% small；一页纸**（第 104 批 官方登记核实 2026-10-28）",
+  "legal_name": "MaviAlarm Kamera ve Güvenlik Teknolojileri Tic. Ltd. Şti.（İstanbul Kartal Yakacık Çarşı Mah. Mülayim Sok. No:55；MERSİS 未取）",
+  "founded": "2010（第 104 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "摄像 / 报警 / 火灾探测 / 门禁安装（土耳其）"

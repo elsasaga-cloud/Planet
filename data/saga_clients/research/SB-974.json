@@ -37,7 +37,20 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Alexander Noack",
+   "role": "Geschäftsführer b-plus technologies GmbH（HRB 5261；ADAS 测试工具实体）= 对口实体负责人（第 104 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.b-plus.com/de/impressum"
+  },
+  {
+   "name": "Michael Sieg",
+   "role": "Geschäftsführer b-plus GmbH（集团母公司 HRB 1753；2005 年接任）= 拍板人（第 104 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.b-plus.com/de/impressum"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -47,7 +60,9 @@
  },
  "company_facts": {
   "hq": "德国",
-  "other": "官网 b-plus.com，语言 de，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 b-plus.com，语言 de，快照状态 ok；角色判定来源：官网文案；第 104 批：Deggendorf 自动驾驶 / ADAS 开发工具集团（数据记录仪、车载 10G/25G 以太网；automotive ≈70 人）→ 车载以太网不对口，只有实验室 / 测试台汇聚一线 → **采购型 20% 低概率；按 Simon「着重跟一下」做一次定向一页纸（STC-110XGE / STI-0240GE / STH-2C24XF-HSI），之后不动**（第 104 批 官方登记核实 2026-10-28）",
+  "legal_name": "b-plus GmbH（Amtsgericht Deggendorf HRB 1753；股本 €62,000）+ b-plus technologies GmbH（HRB 5261）+ b-plus automotive GmbH（HRB 4269）+ b-plus mobile control GmbH",
+  "founded": "1996-07-17（母公司）（第 104 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "自动驾驶/ADAS 数据采集与存储工具",

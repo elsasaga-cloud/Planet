@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -79,6 +79,22 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 104 批（US · 1 次检索：官网 About（1997-04 成为丹佛地区首家专注通信级光纤产品的分销商；团队 Bryan Hogan President / Eddie Holub Sales-Web / Greg Charlton Sales）+ BBB（2171 S Trenton Way Ste 223, Denver, CO 80231-5359；Business Started 1998-04-02；Type of Entity Corporation；Owner Mr. Bryan Hogan；27 年）+ LinkedIn（2–10；Denver；1997；Bryan Hogan Owner）+ ZoomInfo（(303) 743-0916）；同名 Fiber Optic Supply, Inc.（fosupply.com）= 他家，不采，2026-10-28 查；https://fiberopticsupply.com/about-us/）：**
+
+- 法定名 / 登记号：FiberOptic Supply（fiberopticsupply.com；Denver, Colorado）— 1997-04 起（BBB 登记 1998-04-02；Corporation）的通信级光纤产品分销商（光缆、组件、配线管理、熔接耗材、OSP、测试仪、工具；MC / SFP 有源分类）；Owner / President Bryan Hogan（2001 起）；2–10 人；CO SoS 号未取 → 部分坐实；表内 2 次跟进无回复 · CO Corporation（SoS 号未取 → 部分坐实） · 状态 **Active（站点在线；BBB 在册）** · 成立 1997-04（BBB 1998-04-02） · Corporation（私有；Bryan Hogan）
+- 行业码 / 经营范围：光纤产品分销（光缆、组件、配线管理、耗材、熔接材料、OSP、测试仪、工具；MC / SFP 有源配套）
+- 注册地址：2171 S Trenton Way, Suite 223, Denver, CO 80231
+- 规模档：微型（2–10 人）
+- 账目：—；—
+- 高管：Bryan Hogan — Owner / President（2001 起）= 拍板人 / 收件人
+- 高管：Eddie Holub — Sales / Web
+- 高管：Greg Charlton — Sales
+- 控制人 / 股东：Bryan Hogan
+- **这意味着什么：**
+  - **微型光纤分销网店（卖别人的 MC）→ 分销 20% small**：STI-144GP / STC-110XGE / STC-228GP（光口交换机作 MC 替代）；一页纸；2 次无回复 → 一次后 `不动`
+  - 收件人 sales@ 点名 Owner Bryan Hogan；发信窗口 Wed 08–10 MT
+- 备注：分销 20% small；一页纸后不动；部分坐实。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -111,14 +127,17 @@ updated: 2026-10-27
 - **【用户表】卖别人的 MC**
   > SFP MC 周边产品 / 卖别人的MC
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Bryan Hogan（Owner / President（2001 起）= 拍板人 / 收件人（经 sales@）（第 104 批 官方登记核实 2026-10-28）） 〔https://www.bbb.org/us/co/denver/profile/fiber-optics/fiberoptic-supply-1296-14001062〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | FiberOptic Supply（CO Corporation；SoS 号未取 → 部分坐实；勿与 Fiber Optic Supply, Inc. fosupply.com 混淆） |
+| 成立 | 1997-04（BBB 登记 1998-04-02）（第 104 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 美国 |
-| 其他 | 官网 fiberopticsupply.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 fiberopticsupply.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 104 批：Denver CO 通信级光纤产品分销商（交换机为边角配套）→ **分销 20% small；一页纸后不动**（第 104 批 官方登记核实 2026-10-28） |
 
 - **业务线**：光纤材料 / 工具 / 有源组件网店（美国）
 - **触达通道（公开）**：role: 光纤材料网店（美国，MC 为有源副线）；region: 美国；contact: sales@fiberopticsupply.com
@@ -194,7 +213,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | sales@fiberopticsupply.com | 用户表原值 | Clients/ 表 |
+| Bryan Hogan | Owner / President（2001 起）= 拍板人 / 收件人（经 sales@）（第 104 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.bbb.org/us/co/denver/profile/fiber-optics/fiberoptic-supply-1296-14001062 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -231,7 +250,7 @@ updated: 2026-10-27
 ## SWOT
 
 - **S**：北美主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STI-110GE 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -248,7 +267,7 @@ updated: 2026-10-27
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ✅ |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
@@ -264,7 +283,7 @@ updated: 2026-10-27
 **主题**：STI-110GE - industrial mini Gigabit media converter (neutral label)
 
 ```text
-Hello,
+Hi Bryan,
 
 Picking up our earlier exchange about PoE / industrial switches. For the media converters in your active-components category, we supply neutral-brand gigabit and PoE MCs (industrial DIN-rail and desktop) from single units, FCC/CE/RoHS, EXW USD — which MC configuration do your fibre-installer customers order most?
 
@@ -289,12 +308,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 30）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 30）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

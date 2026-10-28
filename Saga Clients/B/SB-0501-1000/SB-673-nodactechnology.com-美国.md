@@ -80,6 +80,20 @@ updated: 2026-10-28
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 104 批（US · 1 次检索：bisprofiles / Sunbiz（NODAC TECHNOLOGY, INC.；Domestic for Profit；Filed Number P05000037533；FEI 202538531；Date of Incorporation 2005-03-10；Active；Doral FL）+ 官网 About（Since 2001；美国 / 拉美 / 加勒比；Hikvision / ZKTeco / Ruijie / TP-Link / Wi-Tek / Dahua / Keri / Uniview / TVT Distributor；2236 NW 82 Av, Miami FL 33122；1301 W Copans Rd #A-3 Pompano Beach；+1 305-471-0422；WhatsApp +1 786 377-4190）+ ZoomInfo（Oscar Cortes President；11–50；<$5M；2001）+ Manta（20–49 人；Owner Oscar Cortes），2026-10-28 查；https://bisprofiles.com/fl/nodac-technology-p05000037533）：**
+
+- 法定名 / 登记号：NODAC TECHNOLOGY, INC.（nodactechnology.com；Doral / Miami, Florida + Pompano Beach）— 2005-03-10 登记（业务 2001 起）的安防与弱电分销商（Hikvision / Dahua / Uniview / ZKTeco / TVT / Ruijie / TP-Link / Wi-Tek 分销；覆盖美国、拉美、加勒比；经销商与项目登记计划）；FL Sunbiz **P05000037533**，FEI 20-2538531；President / Owner Oscar Cortes；11–50 人，<$5M；研究档无 KP · FL Sunbiz P05000037533 · FEI 20-2538531 · 状态 **Active** · 成立 2005-03-10（业务 2001 起） · Florida Profit Corporation（私有；Oscar Cortes）
+- 行业码 / 经营范围：安防 / 弱电产品分销（CCTV、门禁、网络、对讲、报警、音频、VoIP、GPS / IoT SIM；中国品牌为主），面向美国 + 拉美 + 加勒比经销商与集成商
+- 注册地址：2236 NW 82nd Ave, Doral (Miami), FL 33122；1301 W Copans Rd #A-3, Pompano Beach, FL
+- 规模档：小型（11–50 人）
+- 账目：第三方 <$5M（仅作区间）；—
+- 高管：Oscar Cortes — President / Owner = 拍板人 / 收件人
+- 控制人 / 股东：Oscar Cortes（推定）
+- **这意味着什么：**
+  - **中国品牌（含 Ruijie / TP-Link / Wi-Tek 交换机）分销商，面向拉美 → 价格敏感、懂中国直采 → 分销 20%**：STC-028GP / STC-228GP / STC-2216GP / STC-2224GP（对标 Wi-Tek / TP-Link 价位，Marvell L2+ 为差异）；一页纸 + 价格对照；不加厚
+  - 收件人 info@ 点名 President Oscar Cortes；表内未跟进 → 首信一页纸（西语市场，英文稿即可）；发信窗口 Wed 08–10 ET
+- 备注：分销 20%（拉美渠道、价格敏感）；一页纸。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -113,14 +127,17 @@ updated: 2026-10-28
 - **【用户表】很多品牌**
   > 很多品牌子的；销售平台
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Oscar Cortes（President / Owner（Sunbiz 在册）= 拍板人 / 收件人（第 104 批 官方登记核实 2026-10-28）） 〔https://search.sunbiz.org/ P05000037533〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | NODAC TECHNOLOGY, INC.（FL Sunbiz P05000037533；FEI 20-2538531；Active） |
+| 成立 | 2005-03-10（业务 2001 起）（第 104 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 美国 |
-| 其他 | 官网 nodactechnology.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 nodactechnology.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 104 批：Doral / Miami FL + Pompano Beach 安防与网络产品分销商（拉美出口渠道、价格敏感）→ **分销 20%；一页纸**（第 104 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防 / 弱电分销（CCTV、报警、门禁、网络、VoIP）
 - **触达通道（公开）**：role: 安防弱电分销商（美国/加勒比）；region: 美国；contact: info@nodactechnology.com
@@ -212,7 +229,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@nodactechnology.com | 用户表原值 | Clients/ 表 |
+| Oscar Cortes | President / Owner（Sunbiz 在册）= 拍板人 / 收件人（第 104 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://search.sunbiz.org/ P05000037533 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -279,7 +296,7 @@ updated: 2026-10-28
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Oscar,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alongside the Uniview and ZKTeco lines you distribute, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP switches plus budget 8/16-port PoE units for installer kits from small lots, FCC/CE/RoHS, EXW USD — which port count do your dealers order most?
 

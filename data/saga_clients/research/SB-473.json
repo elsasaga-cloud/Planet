@@ -45,7 +45,8 @@
    "title": "Chief Executive",
    "email": "mkanarellis@bturesearch.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP（职务未核；INTEPO 转型后不再对口）（第 104 批 官方登记核实 2026-10-28）"
   }
  ],
  "grade_override": null,
@@ -57,7 +58,9 @@
  },
  "company_facts": {
   "hq": "美国",
-  "other": "官网 bturesearch.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  "other": "官网 bturesearch.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 104 批：现以「INTEPO Sovereign Infrastructure」定位（AI 推理边缘基础设施、IP68 / 国防线守界）→ **不动**；未坐实不补查（第 104 批 官方登记核实 2026-10-28）",
+  "legal_name": "BTU Research / INTEPO（未坐实：1 次检索未命中登记）",
+  "founded": "未取（第 104 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "AI 边缘物理基础设施平台（美国）"

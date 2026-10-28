@@ -85,6 +85,23 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 104 批（DE · 1 次检索：官网 Impressum（b-plus GmbH Ulrichsberger Straße 17 94469 Deggendorf；HRB 1753；GF Michael Sieg；USt DE 812 023 423 ／ b-plus technologies GmbH HRB 5261 GF Alexander Noack USt DE 815 887 874 ／ b-plus automotive GmbH HRB 4269 GF Marius Reuther）+ Northdata（b-plus technologies GmbH HRB 5261；MD Alexander Noack；ppa Thomas Limbrunner、Michael Sieg；€25,000）+ online-handelsregister（b-plus GmbH HRB 1753；1996-07-17；€62,000）+ 官网新闻（1996 年 Prof. Dr. Böttcher 创立；2005 年 Michael Sieg 接任后发展为四家公司的集团）+ hanser-automotive 2024-02（Marius Reuther 任 b-plus automotive GF；≈70 人；Regensburg + Deggendorf），2026-10-28 查；https://www.b-plus.com/de/impressum）：**
+
+- 法定名 / 登记号：b-plus 集团（b-plus.com；巴伐利亚 Deggendorf）— 母公司 b-plus GmbH（Amtsgericht Deggendorf HRB 1753；1996-07-17；股本 €62,000；GF Michael Sieg）+ 子公司 b-plus technologies GmbH（HRB 5261；GF Alexander Noack；ADAS / 自动驾驶测试验证数据记录与存储工具、车载 10G/25G 以太网）、b-plus automotive GmbH（HRB 4269；GF Marius Reuther；≈70 人）、b-plus mobile control GmbH（GF Harald Bügel）；研究档无 KP；群发 15 次无回复；表内「可以着重跟一下」 · HRB 1753（b-plus GmbH）/ HRB 5261（b-plus technologies GmbH）/ HRB 4269（b-plus automotive GmbH）— Amtsgericht Deggendorf · 状态 **Active** · 成立 1996-07-17（母公司） · GmbH 集团（私有；四家公司）
+- 行业码 / 经营范围：汽车 / 越野机械的自动驾驶与 ADAS 开发工具（数据采集记录仪、测量技术、存储、车载以太网 10G/25G、IEC 62443）+ 移动机械控制单元
+- 注册地址：Ulrichsberger Straße 17, 94469 Deggendorf（另 Regensburg / Lindau / Cham 站点）
+- 规模档：中型（集团 ≈200 人；automotive ≈70）
+- 账目：—；—
+- 高管：Michael Sieg — Geschäftsführer b-plus GmbH（集团）
+- 高管：Alexander Noack — Geschäftsführer b-plus technologies GmbH
+- 高管：Marius Reuther — Geschäftsführer b-plus automotive GmbH（2024-01 起）
+- 高管：Harald Bügel — Geschäftsführer b-plus mobile control GmbH
+- 控制人 / 股东：Michael Sieg（推定；2005 年管理层收购）
+- **这意味着什么：**
+  - **自研 ADAS 测试工具厂商（实验室 / 测试台需 10G/25G 汇聚，车载以太网本身不对口）→ 采购型 / 实验室线，分销 20% 低概率**：STC-110XGE / STI-0240GE / STH-2C24XF-HSI（25G 测试台汇聚）；一页纸（按 Simon「着重跟一下」做一次定向），不加厚；15 次无回复 → 一页纸后 `不动`
+  - 收件人 services@ 点名 b-plus technologies 采购 / 测试实验室负责人；发信窗口 Thu 12–14 CET
+- 备注：采购型 / 实验室线 20% 低概率；一页纸后不动；HRB 已取（三家）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -117,14 +134,18 @@ updated: 2026-10-28
 - **【用户表】工业 FS 周边产品，可着重跟**
   > 工业FS 周边产品；可以着重跟一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Alexander Noack（Geschäftsführer b-plus technologies GmbH（HRB 5261；ADAS 测试工具实体）= 对口实体负责人（第 104 批 官方登记核实 2026-10-28）） 〔https://www.b-plus.com/de/impressum〕
+- **KP**：Michael Sieg（Geschäftsführer b-plus GmbH（集团母公司 HRB 1753；2005 年接任）= 拍板人（第 104 批 官方登记核实 2026-10-28）） 〔https://www.b-plus.com/de/impressum〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | b-plus GmbH（Amtsgericht Deggendorf HRB 1753；股本 €62,000）+ b-plus technologies GmbH（HRB 5261）+ b-plus automotive GmbH（HRB 4269）+ b-plus mobile control GmbH |
+| 成立 | 1996-07-17（母公司）（第 104 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 德国 |
-| 其他 | 官网 b-plus.com，语言 de，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 b-plus.com，语言 de，快照状态 ok；角色判定来源：官网文案；第 104 批：Deggendorf 自动驾驶 / ADAS 开发工具集团（数据记录仪、车载 10G/25G 以太网；automotive ≈70 人）→ 车载以太网不对口，只有实验室 / 测试台汇聚一线 → **采购型 20% 低概率；按 Simon「着重跟一下」做一次定向一页纸（STC-110XGE / STI-0240GE / STH-2C24XF-HSI），之后不动**（第 104 批 官方登记核实 2026-10-28） |
 
 - **业务线**：自动驾驶/ADAS 数据采集与存储工具；移动机械自动化
 - **触达通道（公开）**：role: 汽车测试/数据采集技术公司（德国；车载场景守界，仅实验室网络可谈）；region: 德国；contact: services@b-plus.com
@@ -227,7 +248,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | services@b-plus.com | 用户表原值 | Clients/ 表 |
+| Alexander Noack | Geschäftsführer b-plus technologies GmbH（HRB 5261；ADAS 测试工具实体）= 对口实体负责人（第 104 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.b-plus.com/de/impressum |
+| Michael Sieg | Geschäftsführer b-plus GmbH（集团母公司 HRB 1753；2005 年接任）= 拍板人（第 104 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.b-plus.com/de/impressum |
 
 - **通道建议**：邮件已推送 15 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -295,7 +317,7 @@ updated: 2026-10-28
 **主题**：STI-488XGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Alexander,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the bench and lab networks around your data-logging systems (outside the in-vehicle scope), we supply Marvell-based DIN-rail 8-PoE + 4×10G and 8-GE industrial switches (−40~75 °C, CE/RoHS) from small lots — is there a lab-side switch requirement we could quote?
 

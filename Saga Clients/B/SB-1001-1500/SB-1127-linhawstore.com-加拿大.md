@@ -1,7 +1,7 @@
 # linhawstore.com
 **官方名称（调研核实）**：Lin Haw International Co., Ltd.
 
-> **评级 B**　|　美国　|　档案编号 `SB-1127`　|　优先级 ★★　|　状态：名单内·未触达
+> **评级 B**　|　加拿大　|　档案编号 `SB-1127`　|　优先级 ★★　|　状态：名单内·未触达
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:US　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -12,7 +12,8 @@ rating_auto: C
 rating_research: B  # Planet 渠道档案 PB-053 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B
 name_official: "Lin Haw International Co., Ltd."
 score: 17
-country: 美国
+country: 加拿大
+country_table: 美国  # 表内原填；调研纠正为 加拿大（research JSON country_fix）
 region: 北美
 website: linhawstore.com
 type: 经销/集成（类型待核）
@@ -27,7 +28,7 @@ price_tier: 20%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -101,12 +102,27 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 104 批（CA · 1 次检索：官网 About（LIN HAW INTERNATIONAL；1986 成立；西加拿大 IT / AV 批发；仅对注册公司账户 B2B）+ CyberPower Where-to-buy（Lin Haw International Co., Ltd；8620 Glenlyon Pkwy #108, Burnaby, BC V5J 0H6；加拿大自有）+ LinkedIn（Lin Haw International Company Ltd；11–50；Burnaby；1986；importer 20+ 年）+ RocketReach（$4M；14 人；+1 604-325-8880）+ Frasers（17 人；1986）+ Yelp（strictly B2B；linhaw.com）+ 官网品牌页（helpdesk@linhaw.com），2026-10-28 查；https://www.linhawstore.com/aboutus）：**
+
+- 法定名 / 登记号：Lin Haw International Company Ltd（linhawstore.com / linhaw.com；**本拿比 Burnaby, BC，加拿大 — 研究档归美国误，country_fix 加拿大**）— 1986 年起的加拿大自有 B2B IT / AV / 安防硬件批发商（2,500+ SKU：线缆、网络硬件、机柜、监控、Ubiquiti；自台湾直接进口 PLANET 交换机，亦从中国 OEM 进口）；11–50 人（14–21），$4M；BC 公司注册号未取 → 部分坐实；研究档无 KP · BC 公司（注册号未取 → 部分坐实） · 状态 **Active（2026 站点在线）** · 成立 1986 · Company Ltd（私有；加拿大自有）
+- 行业码 / 经营范围：B2B IT / AV / 安防硬件批发（线缆连接器、网络硬件、服务器机柜、监控设备、Ubiquiti、KVM；进口商）
+- 注册地址：#108 – 8620 Glenlyon Parkway, Burnaby, BC V5J 0B6, Canada
+- 规模档：小型（14–21 人）
+- 账目：第三方 $4M（仅作区间）；—
+- 高管：无具名（研究档无 KP；sales / helpdesk@linhaw.com）
+- 高管：Derek Rankin — 员工（RocketReach，职务未核）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **已在直接进口 PLANET + 中国 OEM 的加拿大批发商 → 分销 20%，可谈贴标**：STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM（对标 PLANET 价位的 Marvell L2+ 替代，不点名 Planet）；一页纸 + 价格对照，加厚一次
+  - 收件人 sales@ 点名 purchasing / owner；表内未跟进 → 首信一页纸；发信窗口 Wed 08–10 PT；国家改加拿大
+- 备注：分销 20% / 可谈贴标；country_fix 加拿大；加厚一次；部分坐实。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | linhawstore.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 美国 | 事实（用户表）|
+| 国家 | 加拿大 | 事实（用户表）|
 | 网站/域名 | linhawstore.com / linhaw.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
 | 联系人 | 销售平台 | 事实（用户表） |
@@ -155,9 +171,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Lin Haw International Co., Ltd. |
+| 法定名称 | Lin Haw International Company Ltd（BC 公司；注册号未取 → 部分坐实） |
+| 成立 | 1986（第 104 批 官方登记核实 2026-10-28） |
 | 总部/地址 | Burnaby, BC, 加拿大 |
-| 其他 | Planet 渠道档案 PB-053（2026-10-20_W08_安防分销与美国海关提单反查_US-CA.json）；自有品牌：是（PC Cable World：站内 549 件，以线缆/配件为主；是否含交换机待补证）；最大未知：Q-15 裁定；PC Cable World 是否含交换机；当前交换机进货渠道（经 Netgear/TP-Link 加拿大分销还是直接进口）；Rob Baerg 直邮 |
+| 其他 | Planet 渠道档案 PB-053（2026-10-20_W08_安防分销与美国海关提单反查_US-CA.json）；自有品牌：是（PC Cable World：站内 549 件，以线缆/配件为主；是否含交换机待补证）；最大未知：Q-15 裁定；PC Cable World 是否含交换机；当前交换机进货渠道（经 Netgear/TP-Link 加拿大分销还是直接进口）；Rob Baerg 直邮；第 104 批：本拿比 Burnaby BC（研究档归美国误 → country_fix 加拿大）网络 / 电源产品进口分销商（自有网店 linhawstore；进口 PLANET 等台系品牌）→ **分销 20% / 可谈贴标；加厚一次；升 A 次候选**；发信窗口 Wed 08–10 PT（第 104 批 官方登记核实 2026-10-28） |
 
 - **业务线**：分销商/进口商（加拿大本土 B2B 批发：IT 基础设施、连接线缆、网络、AV、安防硬件，1986 年起；17 人、营收 $10–25M（Frasers）；展厅 3,500+ 产品；美国海关记录显示为 PLANET 直接进口商）
 - **触达通道（公开）**：role: 分销商/进口商（加拿大本土 B2B 批发：IT 基础设施、连接线缆、网络、AV、安防硬件，1986 年起；17 人、营收 $10–25M（Frasers）；展厅 3,500+ 产品；美国海关记录显示为 PLANET 直接进口商）；region: 加拿大
@@ -289,12 +306,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 17）；人工/调研定级 → B
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 17）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

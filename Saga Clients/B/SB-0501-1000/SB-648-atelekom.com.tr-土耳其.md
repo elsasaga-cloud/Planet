@@ -80,6 +80,20 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 104 批（TR · 1 次检索：官网首页（A Telekomünikasyon 2002 年成立；Siemens / Karel / Hikvision；「Hikvision İnterkom Sistemleri Türkiye Distribütörü」）+ 产品页（2002 年起全国分销弱电产品）+ Karel 品牌页（0 212 222 88 44；Halil Rıfat Paşa Mah. Yüzer Havuz Sok. Perpa Ticaret Merkezi A Blok Kat:8 No:827-829）；法定名未见，2026-10-28 查；https://atelekom.com.tr/）：**
+
+- 法定名 / 登记号：A Telekomünikasyon（atelekom.com.tr；伊斯坦布尔 Şişli Perpa）— 2002 年起的弱电产品分销商（Siemens / Panasonic / Karel 电话交换机与话机分销；**Hikvision 对讲系统土耳其分销商**；Hikvision 安防 / PoE 交换机在售）；法定名 / MERSİS 未取 → 部分坐实；研究档无 KP；表内 1 次跟进无回复 · 未取（商号 A Telekomünikasyon；法定形式 / MERSİS 未取 → 部分坐实） · 状态 **Active（2026-09 站点更新）** · 成立 2002 · 未取（疑 Ltd.）
+- 行业码 / 经营范围：弱电产品分销（PBX / 话机 Siemens·Panasonic·Karel；Hikvision 对讲土耳其分销；Hikvision 安防与 PoE 交换机）
+- 注册地址：Halil Rıfat Paşa Mah. Yüzer Havuz Sok. Perpa Ticaret Merkezi A Blok Kat:8 No:827-829, Şişli / İstanbul
+- 规模档：小型（推定 10–30 人）
+- 账目：—；—
+- 高管：无具名（info@）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **Hikvision 对讲分销商（PoE 交换机现卖 Hikvision 自家）→ 分销 20%，可做对讲配套 PoE 第二线**：STC-028GP / STC-228GP / STC-2216GP（对讲 / 话机 PoE，对标 Hikvision DS-3E 价）；一页纸；不加厚
+  - 收件人 info@ 点名 satın alma；1 次无回复 → 二次触达换切口「a PoE line beside your intercom range」；发信窗口 Thu 10–12 TRT
+- 备注：分销 20%；一页纸；部分坐实。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -114,8 +128,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | A Telekomünikasyon（Şişli Perpa A Blok Kat 8 No:827-829；法定形式 / MERSİS 未取 → 部分坐实） |
+| 成立 | 2002（第 104 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 土耳其 |
-| 其他 | 官网 atelekom.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 atelekom.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案；第 104 批：Perpa 弱电产品分销商（Siemens / Panasonic / Karel PBX；Hikvision 对讲系统土耳其分销商；Hikvision PoE 在售）→ **分销 20%（对讲配套 PoE 第二线）；一页纸**（第 104 批 官方登记核实 2026-10-28） |
 
 - **业务线**：弱电方案（PBX / CCTV / 对讲 / 视频会议）
 - **触达通道（公开）**：role: 弱电方案商/经销（土耳其，Hikvision 为主）；region: 土耳其；contact: info@atelekom.com.tr

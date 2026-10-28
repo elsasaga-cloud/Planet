@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -74,6 +74,22 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 104 批（US · 1 次检索：官网 Contact / 博客（Server Blink LLC；2024-07-24 登记地址由 7301 Fegenbush Ln 201-5001 迁至 2210 Goldsmith Lane Ste 126-5001, Louisville, KY 40218；博文署名 Muhammad Amir - Owner）+ D&B（2210 Goldsmith Ln Ste 126 **PMB** 5001 = 邮箱）+ LinkedIn（2–10；Louisville；2022）+ Datanyze（4 人；$1.9M；2022）+ 官网开户页（接受 Fortune 1000 / 政府 / 国防 PO）+ Trustpilot（Account Manager Steve Warner），2026-10-28 查；https://www.serverblink.com/blog/serverblinks-registered-address-has-changed/）：**
+
+- 法定名 / 登记号：Server Blink LLC（serverblink.com；Louisville, Kentucky — 登记地址为邮箱套房 PMB 5001）— 2022 年成立的 IT 硬件网店（PC / 服务器配件、网络设备代发；站内 Zyxel 多千兆 / 10G 型号；接受政府 / 国防采购单）；Owner Muhammad Amir；2–10 人（≈4），$1.9M；KY SoS 号未取 → 部分坐实；研究档无 KP · KY LLC（SoS 号未取 → 部分坐实） · 状态 **Active（2026 评论活跃）** · 成立 2022 · LLC（私有；Owner Muhammad Amir；邮箱地址经营）
+- 行业码 / 经营范围：IT 硬件电商 / 代发（PC、服务器配件、存储、网络设备、电源），面向企业 / 政府 / 教育
+- 注册地址：2210 Goldsmith Lane, Ste 126-5001 (PMB), Louisville, KY 40218
+- 规模档：微型（≈4 人）
+- 账目：第三方 $1.9M（仅作区间）；—
+- 高管：Muhammad Amir — Owner
+- 高管：Steve Warner — Account Manager
+- 控制人 / 股东：Muhammad Amir
+- 曾用名：旧址 7301 Fegenbush Ln #201-5001, Louisville, KY 40228
+- **这意味着什么：**
+  - **2022 年邮箱地址代发网店（无仓、项目制转卖）→ 采购型 small**：一页纸即止（STC-2224GP / STC-4424GCPM / STC-424XGGPM-280W 作其 Zyxel 多千兆 / 10G 类目的价位替代）；无回复 → `不动`；**不提政府 / 国防**
+  - 收件人 sales@ 点名 Owner Muhammad Amir；表内未跟进 → 首信一页纸；发信窗口 Wed 08–10 ET
+- 备注：采购型 small；一页纸后不动；部分坐实。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -107,14 +123,17 @@ updated: 2026-10-27
 - **【用户表】多品牌，有 Marvell 方案**
   > 卖几个牌子的 有marvell方案
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Muhammad Amir（Owner（KY LLC）= 收件人（第 104 批 官方登记核实 2026-10-28）） 〔https://serverblink.com/about〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Server Blink LLC（KY；SoS 号未取 → 部分坐实；登记地址为邮箱套房 PMB 5001） |
+| 成立 | 2022（第 104 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 美国 |
-| 其他 | 官网 serverblink.com，语言 en，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 serverblink.com，语言 en，快照状态 ok；角色判定来源：用户表；第 104 批：Louisville KY IT 硬件网店（PC / 服务器配件 / 网络设备转售）→ **采购型 small；一页纸后不动**（第 104 批 官方登记核实 2026-10-28） |
 
 - **业务线**：PC / 服务器配件电商；网络设备（交换机 / 无线 / 光模块）
 
@@ -204,7 +223,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | sales@serverblink.com | 用户表原值 | Clients/ 表 |
+| Muhammad Amir | Owner（KY LLC）= 收件人（第 104 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://serverblink.com/about |
 
 - **通道建议**：企业邮箱可直发
 
@@ -272,7 +291,7 @@ updated: 2026-10-27
 **主题**：STC-424XGGM - 24-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Muhammad,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Next to the Zyxel XGS2220 and XMG lines you list, we can supply Marvell-based 24-GE + 4×10G SFP+ L2+ switches and the 24-PoE+ version in neutral packing from small lots — would a listed price band under the Zyxel equivalents work for your store, and which of the two first?
 
@@ -297,12 +316,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

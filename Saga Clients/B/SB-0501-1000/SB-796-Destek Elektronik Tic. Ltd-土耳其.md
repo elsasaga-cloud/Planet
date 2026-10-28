@@ -90,6 +90,20 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 104 批（TR · 1 次检索：destekelektronik.com.tr 首页（Destek Elektronik；Hanwha Vision、Aritech、Kilsen、CQR、Texecom、Klaxon、Elmdene、Paxton、Phihong、FLIR、IPX、Unitech 等品牌土耳其代表 / 分销；IP 系统类目）+ hanwhavision.eu 分销名录（EDS Elektronik Destek Sanayi ve Ticaret Ltd. Şti.；Meclis Mah. Teraziler Cad. Hayran Sok. No:4 34785 Sancaktepe；eds@eds.com.tr）+ SourceSecurity（1990-02 成立；+90 216 528 4500；产品线火灾 / 入侵 / 门禁 / 自动化 / 环境监控 / 电力电子）+ Lusha（100% 本土；出口 35+ 国；≈60 人；5,000 m² 工厂；独家分销名单与 Destek 站品牌完全一致 → 推定同一主体），2026-10-28 查；https://hanwhavision.eu/distributors/eds-elektronik-destek-sanayi-ve-ticaret-ltd-sti/）：**
+
+- 法定名 / 登记号：EDS Elektronik Destek San. ve Tic. Ltd. Şti.（品牌站 Destek Elektronik；destekelektronik.com.tr / eds.com.tr；伊斯坦布尔 Sancaktepe）— 1990-02 成立的安防电子制造 + 分销商（自产火灾 / 入侵 / 门禁 / 环境监控 / 电力电子，5,000 m² 工厂；**Hanwha Vision / FLIR / Aritech·UTC / Kilsen / Texecom / CQR / Paxton / Phihong 等独家分销**；出口 35+ 国）；≈60 人；研究档无 KP；表内 1 次跟进无回复 · Ltd. Şti.（İstanbul 商事登记；MERSİS 未取）；Destek Elektronik = EDS 分销品牌（品牌名单完全一致，推定） · 状态 **Active（Hanwha 名录 2025）** · 成立 1990-02 · Limited Şirket（私有；100% 本土）
+- 行业码 / 经营范围：安防电子制造（火灾、入侵、门禁、环境监控、电力电子）+ 世界品牌土耳其独家分销（Hanwha Vision、FLIR、Aritech、Texecom、Paxton、Phihong PoE 电源等）
+- 注册地址：Meclis Mah. Teraziler Cad. Hayran Sok. No:4, 34785 Sancaktepe / İstanbul
+- 规模档：中型（≈60 人）
+- 账目：—；—
+- 高管：无具名（研究档无 KP；eds@ / pazarlama@eds.com.tr）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **制造 + 独家分销双身份、出口 35 国、PoE 类目在售（Phihong 注入器）→ 分销 20%，B BIG，可谈 EDS 标**：STC-028GP / STC-228GP / STC-2216GP / STC-2224GP / STC-4424GCPM（Hanwha 摄像机配套 PoE 全档）；一页纸 + 产品线卡，加厚一次
+  - 收件人 pazarlama@eds.com.tr 点名 ürün müdürü；1 次无回复 → 二次触达换切口；发信窗口 Thu 10–12 TRT；升 A 次候选
+- 备注：分销 20%；B BIG；加厚一次；升 A 次候选；品牌站 = EDS（推定）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -127,8 +141,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | EDS Elektronik Destek San. ve Tic. Ltd. Şti.（品牌站 Destek Elektronik；İstanbul Sancaktepe Meclis Mah. Teraziler Cad. Hayran Sok. No:4；MERSİS 未取；品牌名单与 Hanwha 名录完全一致 → 推定同一主体） |
+| 成立 | 1990-02（第 104 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 土耳其 |
-| 其他 | 官网 destekelektronik.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 destekelektronik.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案；第 104 批：安防电子制造（火灾 / 入侵 / 门禁 / 环境监控 / 电力电子，5,000 m² 工厂）+ Hanwha Vision / FLIR / Aritech / Texecom / Paxton / Phihong 等土耳其独家分销，出口 35+ 国，≈60 人 → **分销 20%，B BIG，可谈 EDS 标，加厚一次；升 A 次候选**；收件人 pazarlama@eds.com.tr 点名 ürün müdürü（第 104 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防电子系统分销（CCTV / 消防 / 入侵 / 门禁 / 电源）
 - **触达通道（公开）**：role: 安防电子分销商（土耳其，Hanwha 为主）；region: 土耳其；contact: destek@destekelektronik.com.tr

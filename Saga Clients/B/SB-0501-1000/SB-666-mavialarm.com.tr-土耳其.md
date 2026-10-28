@@ -80,6 +80,21 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 104 批（TR · 1 次检索：LinkedIn（Mavi Alarm Kamera ve Güvenlik Teknolojileri Tic. Ltd. Şti.；11–50；Kartal；2010；Yakacık Çarşı Mah. Mülayim Sok. No:55 34876）+ 官网 İletişim（0216 488 0 888；同址）+ makinaturkiye（Yetkili Aziz Vasıf Durmaz；Limited Şirketi；2010；11–50）+ adresrehberin（2010 起；创始团队 25 年经验；成立以来增长 15 倍）+ hikvisiontr.net / dahua-tr.com 隐私页（运营主体 MaviAlarm Ltd. Şti.）+ D&B（法定名），2026-10-28 查；https://tr.linkedin.com/company/mavialarm）：**
+
+- 法定名 / 登记号：MaviAlarm Kamera ve Güvenlik Teknolojileri Tic. Ltd. Şti.（mavialarm.com.tr；伊斯坦布尔 Kartal）— 2010 年成立的电子安防安装商 / 经销商（报警、CCTV Hikvision / Dahua / Uniview / Axis、火灾、门禁；运营 hikvisiontr.net / dahua-tr.com 经销站）；11–50 人；负责人 Aziz Vasıf Durmaz；研究档无 KP；表内 1 次跟进无回复 · Ltd. Şti.（İstanbul 商事登记；MERSİS 未取） · 状态 **Active（LinkedIn 近期更新）** · 成立 2010 · Limited Şirket（私有）
+- 行业码 / 经营范围：电子安防安装与经销（报警、CCTV、火灾探测、门禁；多品牌经销站 hikvisiontr.net / dahua-tr.com）
+- 注册地址：Yakacık Çarşı Mah. Mülayim Sok. No:55, 34876 Kartal / İstanbul（另 Pendik 旧址）
+- 规模档：小型（11–50 人）
+- 账目：—；—
+- 高管：Aziz Vasıf Durmaz — Yetkili / Genel Müdür（推定）= 收件人
+- 高管：Figen Yetiş — 员工（2022 起）
+- 控制人 / 股东：Aziz Vasıf Durmaz（推定）
+- **这意味着什么：**
+  - **安装商 + 多品牌经销站 → 集成商 25% / 采购型 small**：STC-028GP / STC-228GP / STC-2216GP（Hikvision / Dahua 摄像机配套 PoE）；一页纸；不加厚
+  - 收件人 info@ 点名 Aziz Vasıf Durmaz；1 次无回复 → 二次触达一次；发信窗口 Thu 10–12 TRT
+- 备注：集成商 25% small；一页纸。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -108,14 +123,17 @@ updated: 2026-10-28
 - **【官网快照】Mavi Alarm 定位**
   > Mavi Alarm Kamera ve Güvenlik Sistemleri ; kamera sistemleri, hırsız alarm sistemi, yangın algılama ve geçiş kontrol sistemleri ; Endüstriyel Çözümler
   > 来源：https://mavialarm.com.tr/（抓取 2026-10-21）
+- **KP**：Aziz Vasıf Durmaz（Yetkili / Genel Müdür（makinaturkiye 在册负责人）= 收件人（第 104 批 官方登记核实 2026-10-28）） 〔https://www.makinaturkiye.com/firma/mavi-alarm-kamera-ve-guvenlik-teknolojileri-tic-ltd-sti〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | MaviAlarm Kamera ve Güvenlik Teknolojileri Tic. Ltd. Şti.（İstanbul Kartal Yakacık Çarşı Mah. Mülayim Sok. No:55；MERSİS 未取） |
+| 成立 | 2010（第 104 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 土耳其 |
-| 其他 | 官网 mavialarm.com.tr，语言 ?，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 mavialarm.com.tr，语言 ?，快照状态 ok；角色判定来源：官网文案；第 104 批：Kartal 电子安防安装商 / 多品牌经销站（hikvisiontr.net / dahua-tr.com；11–50 人）→ **集成商 25% small；一页纸**（第 104 批 官方登记核实 2026-10-28） |
 
 - **业务线**：摄像 / 报警 / 火灾探测 / 门禁安装（土耳其）
 - **触达通道（公开）**：role: 安防安装商（土耳其）；region: 土耳其；contact: info@mavialarm.com.tr
@@ -190,7 +208,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@mavialarm.com.tr | 用户表原值 | Clients/ 表 |
+| Aziz Vasıf Durmaz | Yetkili / Genel Müdür（makinaturkiye 在册负责人）= 收件人（第 104 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.makinaturkiye.com/firma/mavi-alarm-kamera-ve-guvenlik-teknolojileri-tic-ltd-sti |
 
 - **通道建议**：企业邮箱可直发
 
@@ -225,7 +243,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：土耳其主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STC-28DGGPM 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -242,7 +260,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ❓ 表内兴趣不含交换机关键词 |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
@@ -259,7 +277,7 @@ updated: 2026-10-28
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Aziz,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the PoE switches in your camera and access-control installations, we supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-PoE industrial units from single units, CE/RoHS, EXW USD — which PoE port count do your industrial-site projects use most?
 

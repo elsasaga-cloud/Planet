@@ -80,6 +80,20 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 104 批（TR · 1 次检索：官网 Hakkımızda（2004 yılında kurulmuş olan Arby Bilgisayar San. Tic. Ltd. Şti.；İdealtepe Mah. Denizciler Sk. Blumaq Plaza No:14 Kat:2 Daire:3 İdealtepe-Maltepe / İstanbul；+90 216 519 71 99；bilgi@）+ LinkedIn（BT Hizmetleri；11–50；Maltepe；2004；Özel Şirket）+ firmadan / kurumsal.web.tr（同法定名同址，34841）+ 官网 kamera 页（IP 摄像机与智能安防方案）；MERSİS 未取，2026-10-28 查；https://www.arbybilgisayar.com.tr/）：**
+
+- 法定名 / 登记号：Arby Bilgisayar San. Tic. Ltd. Şti.（arbybilgisayar.com.tr；伊斯坦布尔 Maltepe）— 2004 年成立的企业 IT 维护合约 / IT 咨询公司（7/24 支持、云、网络安全 DDoS / Pentest、IP 摄像机系统）；11–50 人；研究档无 KP；表内 1 次跟进无回复 · Ltd. Şti.（İstanbul 商事登记；MERSİS 未取） · 状态 **Active（站点在线）** · 成立 2004 · Limited Şirket（私有）
+- 行业码 / 经营范围：企业 IT 维护合约 / IT 咨询 / 云 / 网络安全 + IP 摄像机系统安装（MSP 型）
+- 注册地址：İdealtepe Mah. Denizciler Sk. Blumaq Plaza No:14 Kat:2 D:3, 34841 Maltepe / İstanbul
+- 规模档：小型（11–50 人）
+- 账目：—；—
+- 高管：无具名（bilgi@）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **MSP 型 IT 服务商（项目附带交换机）→ 集成商 25% small，一页纸即止**：STC-028GP / STC-228GP / STC-2224GP（摄像机 / 办公网项目 PoE）；不加厚；1 次无回复 → 二次触达一次后 `不动`
+  - 收件人 bilgi@ 点名 satın alma / teknik müdür；发信窗口 Thu 10–12 TRT
+- 备注：集成商 25% small；一页纸后不动。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -113,8 +127,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Arby Bilgisayar San. Tic. Ltd. Şti.（İstanbul Maltepe；MERSİS 未取 → 部分坐实） |
+| 成立 | 2004（第 104 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 土耳其 |
-| 其他 | 官网 arbybilgisayar.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 arbybilgisayar.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案；第 104 批：Maltepe 企业 IT 维护合约 / IT 咨询 / 网络安全 + IP 摄像机系统（MSP 型，11–50 人）→ **集成商 25% small；一页纸后不动**；收件人 bilgi@ 点名 satın alma / teknik müdür（第 104 批 官方登记核实 2026-10-28） |
 
 - **业务线**：企业 IT 维护 / 支持（土耳其）
 - **触达通道（公开）**：role: 企业 IT 服务商（土耳其）；region: 土耳其；contact: bilgi@arbybilgisayar.com.tr

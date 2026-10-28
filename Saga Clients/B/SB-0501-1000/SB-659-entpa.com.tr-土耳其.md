@@ -79,6 +79,20 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 104 批（TR · 1 次检索：官网 Hakkımızda / Sitemap（ENTPA Elektronik Cihazlar Tic. ve Turizm A.Ş.；Y.Dudullu OSB 1.Cadde No:23 34775 Ümraniye；+90 216 314 36 44；info@ / satis@；「ENTPA bir ENTES kuruluşudur」）+ index_en（2003 年由 ENTES 股东创立；ENTES 1980 起，出口近 50 国）+ hanwhavision.eu 分销名录（ENTPA ELEKTRONİK CİHAZLAR TİCARET PAZARLAMA VE TURİZM AŞ；Dudullu OSB 1. Cad. No:23）+ EMIS（法定名；34771）+ LinkedIn（11–50；Ümraniye）+ entcam.com.tr（自有品牌 Entcam），2026-10-28 查；https://entpa.com.tr/hakkimizda_tr.asp）：**
+
+- 法定名 / 登记号：ENTPA Elektronik Cihazlar Ticaret Pazarlama ve Turizm A.Ş.（entpa.com.tr / entcam.com.tr；伊斯坦布尔 Ümraniye Y. Dudullu OSB）— 2003 年由 ENTES Elektronik（1980 年起的土耳其电子制造商，出口 50 国）股东创立的安防分销商（**Hanwha Vision 官方分销**、Honeywell CCTV / 火灾、Sunell；**自有品牌 Entcam CCTV**；门锁、门禁、可视对讲、智能家居）；11–50 人；研究档 KP etekyildiz@；表内 1 次跟进无回复 · A.Ş.（İstanbul 商事登记；MERSİS 未取）；母体 ENTES 集团 · 状态 **Active（Hanwha 名录 2025）** · 成立 2003 · Anonim Şirket（ENTES 股东持有）
+- 行业码 / 经营范围：安防产品分销（Hanwha Vision 官方分销、Honeywell、Sunell）+ 自有品牌 Entcam CCTV + 门锁 / 门禁 / 对讲 / 智能家居
+- 注册地址：Yukarı Dudullu OSB 1. Cadde No:23, 34775 Ümraniye / İstanbul
+- 规模档：小型（11–50 人；集团背景）
+- 账目：—；—
+- 高管：E. Tekyıldız — 研究档 KP（etekyildiz@；职务未核）
+- 控制人 / 股东：ENTES Elektronik 股东
+- **这意味着什么：**
+  - **自有品牌 Entcam + ENTES 制造集团背景 + Hanwha 分销 → 贴标 OEM 30% 可谈（Entcam 标 PoE）+ 分销 20%，B BIG**：Entcam 标 STC-028GP / STC-228GP / STC-2216GP / STC-2224GP（Hanwha 摄像机配套 PoE）；一页纸 + 贴标条款，加厚一次
+  - 收件人 etekyildiz@ 点名 + 抄 satis@；1 次无回复 → 二次触达换切口「a PoE switch line under the Entcam label」；发信窗口 Thu 10–12 TRT；升 A 候选（回信即 A）
+- 备注：贴标 OEM 30% 可谈（Entcam）/ 分销 20%；B BIG；加厚一次；升 A 候选。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -113,8 +127,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | ENTPA Elektronik Cihazlar Ticaret Pazarlama ve Turizm A.Ş.（İstanbul Ümraniye Y. Dudullu OSB 1. Cad. No:23；ENTES Elektronik 股东创立；MERSİS 未取） |
+| 成立 | 2003（第 104 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 土耳其 |
-| 其他 | 官网 entpa.com.tr，语言 ?，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 entpa.com.tr，语言 ?，快照状态 ok；角色判定来源：官网文案；第 104 批：Hanwha Vision 官方分销 + Honeywell / Sunell + **自有品牌 Entcam CCTV**，背靠 ENTES 制造集团（1980 起，出口 50 国）→ **贴标 OEM 30% 可谈（Entcam 标 PoE）+ 分销 20%，B BIG，加厚一次；升 A 候选（回信即 A）**；收件人 etekyildiz@ 点名 + 抄 satis@（第 104 批 官方登记核实 2026-10-28） |
 
 - **业务线**：电子产品制造 / 安防分销（土耳其）
 - **触达通道（公开）**：role: 电子制造商兼安防分销（土耳其，自有设计）；region: 土耳其；contact: etekyildiz@entpa.com.tr

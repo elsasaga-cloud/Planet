@@ -80,6 +80,20 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 104 批（TR · 1 次检索：n11 店铺信息（Şirket Ünvanı Troyy Bilişim Geçiş Kontrol Sistemleri Elektronik Güv. San. ve Tic. Ltd.；Tescilli Marka Troyy Kontrol；KEP info@troyykontrol.com；Vergi No 8590630315；Mersis No 0859063031500011）+ 官网 Hakkında（2016 年初于安卡拉 OSTİM 成立；İvedik OSB 1354. Cad. Fora İşmerkezi A Blok 1. Kat No:138/100 Yenimahalle / Ankara；+90 312 395 18 02）+ yenifirma.com.tr（法定名全称 + 地址）+ guvenlikonline（Access Nova 首个国产 Web 门禁面板；Smek Web），2026-10-28 查；https://www.n11.com/magaza/msec）：**
+
+- 法定名 / 登记号：Troyy Bilişim Geçiş Kontrol Sistemleri Elektronik Güvenlik San. ve Tic. Ltd. Şti.（Troyy Kontrol；troyykontrol.com；**安卡拉 İvedik OSB — 非伊斯坦布尔**）— 2016 年初成立的门禁 / 考勤（PDKS）系统开发商与集成商（自研 Smek PDKS / Access Nova 面板、闸机、停车道闸、手持探测器；n11 店 Msec）；**MERSİS 0859063031500011 · Vergi No 8590630315**；研究档无 KP；表内 1 次跟进无回复 · MERSİS 0859063031500011 · Vergi No 8590630315（Ankara 商事登记） · 状态 **Active（站点在线；n11 店在营）** · 成立 2016 · Limited Şirket（私有）
+- 行业码 / 经营范围：门禁 / 考勤（PDKS）系统软硬件开发与集成（闸机、道闸、人脸 / 指纹终端、访客系统、手持探测器）
+- 注册地址：İvedik OSB Mah. 1354. Cad. Fora İş Merkezi A Blok Kat 1 No:138/100, Yenimahalle / Ankara
+- 规模档：小型（推定 10–30 人）
+- 账目：—；—
+- 高管：无具名（info@）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自研门禁 / PDKS 厂商（读头 / 闸机需 PoE）→ 集成商 25% small，可谈 Troyy 标小批量**：STC-028GP / STC-228GP / STI-054GP（门禁点位 PoE）；一页纸；不加厚
+  - 收件人 info@ 点名 teknik müdür / satın alma；1 次无回复 → 二次触达一次；发信窗口 Thu 10–12 TRT；城市 = 安卡拉
+- 备注：集成商 25% small；一页纸；MERSİS 已取；城市 = 安卡拉。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -113,8 +127,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Troyy Bilişim Geçiş Kontrol Sistemleri Elektronik Güvenlik San. ve Tic. Ltd. Şti.（Troyy Kontrol；MERSİS 0859063031500011 · Vergi No 8590630315） |
+| 成立 | 2016（第 104 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 土耳其 |
-| 其他 | 官网 troyykontrol.com，语言 ?，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 troyykontrol.com，语言 ?，快照状态 ok；角色判定来源：官网文案；第 104 批：**安卡拉 İvedik OSB（非伊斯坦布尔）** 门禁 / 考勤 PDKS 软硬件开发商与集成商（自研 Smek PDKS / Access Nova 面板、闸机、道闸；n11 店 Msec）→ **集成商 25% small / 可谈 Troyy 标小批量；一页纸**；收件人 info@ 点名 teknik müdür（第 104 批 官方登记核实 2026-10-28） |
 
 - **业务线**：门禁 / 考勤 / 闸机 / 道闸（土耳其）
 - **触达通道（公开）**：role: 门禁/考勤系统商（土耳其，PoE 为配套）；region: 土耳其；contact: info@troyykontrol.com

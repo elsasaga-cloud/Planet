@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -88,6 +88,20 @@ updated: 2026-10-27
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 104 批（DE · 1 次检索：官网首页 / Kontakt（NetCat SYSTEMS GmbH；Weißdornweg 24, 59174 Kamen；+49 2307 96 10-0；sales@；20+ 年；ISO9001:2015）+ 官网 Netzwerk 页（Cisco、Ubiquiti、Airtame；EOL / EOS 稀缺硬件采购；翻新网络硬件买卖）+ LinkedIn 公司页（2003 年成立；IT distribution；Kamen；51–200）+ LinkedIn Jörg Ridder（CEO of NetCat SYSTEMS GmbH；帖文提及 defense industry 供货、OEM 光模块）；HRB（Amtsgericht Hamm 推定）未命中，2026-10-28 查；https://netcatsystems.de/）：**
+
+- 法定名 / 登记号：NetCat SYSTEMS GmbH（netcatsystems.de；北威州 Kamen）— 2003 年成立的 IT 采购 / 供应链服务商（「We supply IT」：Cisco / HP / Lenovo / Ubiquiti 全品类，EOL / EOS 与翻新硬件买卖，ISO 9001:2015，项目型政企与国防行业供货）；CEO Jörg Ridder（= 研究档 KP joerg.ridder@）；LinkedIn 自报 51–200 人（存疑）；HRB 未取 → 部分坐实；群发 15 次无回复；表内「可以着重跟一下」 · 未取（GmbH；Amtsgericht Hamm 推定；部分坐实） · 状态 **Active（LinkedIn 近期发帖）** · 成立 2003 · GmbH（私有）
+- 行业码 / 经营范围：IT 采购 / 供应链服务（Cisco / HP / Lenovo / Ubiquiti 转售、EOL/EOS 与翻新硬件买卖、OEM 光模块、项目型供货）
+- 注册地址：Weißdornweg 24, 59174 Kamen（NRW）
+- 规模档：小型（自报 51–200 存疑；推定 10–30 人）
+- 账目：—；—
+- 高管：Jörg Ridder — CEO / Geschäftsführer（LinkedIn）= 收件人（研究档 KP joerg.ridder@）
+- 控制人 / 股东：Jörg Ridder（推定）
+- **这意味着什么：**
+  - **采购型 IT 供货商 + 翻新 / EOL 贩售（半同行）→ 分销 20% 低概率；Simon「着重跟一下」→ 对 CEO 做一次定向一页纸**：STC-2224GP / STC-4424GCPM / STI-288DGGPM（标案里的 Cisco 替代位，强调 3 年保 + 持续供货）；不加厚；15 次无回复 → 一页纸后 `不动`
+  - 收件人 joerg.ridder@ 直呼 Jörg；切口「a second-source managed PoE line for your project tenders」；不提国防（守界）；发信窗口 Thu 12–14 CET
+- 备注：分销 20% 低概率；一页纸后不动；部分坐实。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -131,15 +145,17 @@ updated: 2026-10-27
 - **【用户表】PoE；着重跟**
   > POE；可以着重跟一下；T 49-2307-96100 加不上
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Joerg Ridder（）joerg.ridder@netcatsystems.de 〔用户表〕
+- **KP**：Jörg Ridder（CEO / Geschäftsführer = 收件人本人 / 拍板人（第 104 批 官方登记核实 2026-10-28））joerg.ridder@netcatsystems.de 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | NetCat SYSTEMS GmbH（Kamen NRW Weißdornweg 24；HRB 未取 → 部分坐实；ISO 9001:2015） |
+| 成立 | 2003（第 104 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 德国 |
-| 其他 | 官网 netcatsystems.de，语言 de，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 netcatsystems.de，语言 de，快照状态 ok；角色判定来源：官网文案；第 104 批：IT 采购 / 供应链服务商（Cisco / HP / Lenovo / Ubiquiti 转售、EOL / 翻新硬件买卖、OEM 光模块、项目型供货含国防 — 守界不提）→ **分销 20% 低概率（采购型 + 翻新半同行）；按 Simon「着重跟一下」对 CEO 做一次定向一页纸（标案 Cisco 替代位），之后不动**（第 104 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IT 采购 / 供应链服务
 - **触达通道（公开）**：role: IT 采购服务商/经销（德国，用户标「着重跟」）；region: 德国；contact: joerg.ridder@netcatsystems.de
@@ -238,7 +254,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Joerg Ridder | — | joerg.ridder@netcatsystems.de | 调研核实（公开页） | 用户表 |
+| Jörg Ridder | CEO / Geschäftsführer = 收件人本人 / 拍板人（第 104 批 官方登记核实 2026-10-28） | joerg.ridder@netcatsystems.de | 调研核实（公开页） | 用户表 |
 | Mr. Joerg Ridder | — | joerg.ridder@netcatsystems.de / +49230796100 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；邮件已推送 15 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
@@ -332,12 +348,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 29）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 29）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

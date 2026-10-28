@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: unreachable  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -81,6 +81,24 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 104 批（DE · 1 次检索：官网 Legal Notice（STORDIS GmbH Ruebteile 24 72574 Bad Urach Hengen；District Court Stuttgart HRB 724261；VAT DE 256406445；Waldemar Scheck）+ implisense（HRB 724261；2007-09-18 登记；€50,000；批发 IT 设备）+ Northdata（Rübteile 24 Bad Urach；MD Waldemar Scheck；字图商标「STORDIS The High Performance DIstributor」）+ webvalid（迁址 Bad Urach；Scheck 单独代表权）+ cylex（2007-10-15 i.G. 登记；原址 Rosenwiesstr. 17 70567 Stuttgart；早期 GF Jeffries Alexander + Scheck Waldemar）+ LinkedIn（2007；11–50；Stuttgart）+ Chelsio 伙伴页（开放网络全服务：咨询、采购、安装、售后）+ 2021-05 新闻稿（Microtel Innovation 10/25/100G 包探针分销），2026-10-28 查；https://stordis.com/legal-notice-impressum/）：**
+
+- 法定名 / 登记号：STORDIS GmbH（stordis.com；巴登-符腾堡 Bad Urach，原斯图加特；Amtsgericht Stuttgart HRB 724261）— 2007 年成立的开放网络 / 白盒交换机增值分销商（「The Open Networking Expert」；600+ 网络产品；Microtel 包探针分销；细分：学术科研、媒体广播、网络安全、运营商、金融交易、国防）；GF Waldemar Scheck；股本 €50,000；11–50 人；英国分公司；研究档 KP Tomasz Sadowski（Technical）/ Mariusz Ślęzak；群发 6 次无回复；表内「AC5 芯片交换机很多，高速」 · HRB 724261（Amtsgericht Stuttgart） · 状态 **Active** · 成立 2007-09-18 · GmbH（私有；股本 €50,000）
+- 行业码 / 经营范围：开放网络 / 白盒交换机与存储的增值分销（咨询 + 采购 + 安装 + 售后；10/25/100G 包探针；曾为存储 VAD）
+- 注册地址：Rübteile 24, 72574 Bad Urach（原 Rosenwiesstr. 17, 70567 Stuttgart）；英国分公司
+- 规模档：小型（11–50 人）
+- 账目：—；—
+- 高管：Waldemar Scheck — Geschäftsführer（单独代表）= 决策人
+- 高管：Tomasz Sadowski — Technical（研究档 KP）
+- 高管：Mariusz Ślęzak — 研究档 KP（职务未核）
+- 高管：Alexander Jeffries — 早期 GF（已不在册）
+- 控制人 / 股东：Waldemar Scheck（推定）
+- 曾用名：STORDIS GmbH i.G.（2007）
+- **这意味着什么：**
+  - **开放网络 / 白盒分销商 = STH 高速线的天然渠道 → 分销 20%，B BIG，加厚一次**：STH-2C24XF-HSI（25G/100G 汇聚）/ STH-8C48DX-HSI / STH-32C-HSI（CENTEC 敲门砖）+ STC-448XGGPM 作 10G 接入；强调 1:1 规格书对照与持续供货；不谈国防细分（守界）
+  - 收件人 tomasz.sadowski@ 点名 + 抄 info@ 请转 Waldemar Scheck；6 次无回复 → 二次触达换切口「a CENTEC-based 25G/100G line beside your white-box portfolio」；发信窗口 Thu 12–14 CET；升 A 次候选
+- 备注：分销 20%（STH 高速线）；B BIG；加厚一次；升 A 次候选；HRB 已取。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -114,16 +132,19 @@ updated: 2026-10-27
 - **【用户表】AC5 芯片交换机 高速；英国分公司**
   > AC5芯片交换机很多 高速；英国有个分公司
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Tomasz Sadowski（）tomasz.sadowski@stordis.com 〔用户表〕
-- **KP**：Mariusz Ślęzak（）mariusz.szlezak@stordis.com 〔用户表〕
+- **KP**：Tomasz Sadowski（Technical（研究档）= 技术收件人（第 104 批 官方登记核实 2026-10-28））tomasz.sadowski@stordis.com 〔用户表〕
+- **KP**：Mariusz Ślęzak（研究档 KP（职务未核）（第 104 批 官方登记核实 2026-10-28））mariusz.szlezak@stordis.com 〔用户表〕
+- **KP**：Waldemar Scheck（Geschäftsführer（单独代表；Stuttgart HRB 724261 在册）= 拍板人（经 info@ 转）（第 104 批 官方登记核实 2026-10-28）） 〔https://stordis.com/legal-notice-impressum/〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | STORDIS GmbH（Amtsgericht Stuttgart HRB 724261；Rübteile 24, 72574 Bad Urach，原 Rosenwiesstr. 17 Stuttgart；股本 €50,000；VAT DE 256406445；英国分公司） |
+| 成立 | 2007-09-18（第 104 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 德国 |
-| 其他 | 官网 stordis.com，语言 ?，快照状态 unreachable；角色判定来源：待核 |
+| 其他 | 官网 stordis.com，语言 ?，快照状态 unreachable；角色判定来源：待核；第 104 批：开放网络 / 白盒交换机增值分销商（600+ 产品；Microtel 10/25/100G 包探针分销；学术 / 媒体 / 安全 / 运营商 / 金融 / 国防细分 — 国防不提）→ **分销 20%，STH 高速线天然渠道，B BIG，加厚一次（STH-2C24XF-HSI / 8C48DX / 32C + STC-448XGGPM）；升 A 次候选**；6 次无回复 → 二次触达换切口（第 104 批 官方登记核实 2026-10-28） |
 
 - **业务线**：开放网络 / 白盒交换机分销（德国，英国分公司）
 - **触达通道（公开）**：role: 开放网络分销商（德国/英国，Marvell AC5 平台）；region: 德国；contact: tomasz.sadowski@stordis.com、mariusz.szlezak@stordis.com
@@ -206,8 +227,9 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Tomasz Sadowski | — | tomasz.sadowski@stordis.com | 调研核实（公开页） | 用户表 |
-| Mariusz Ślęzak | — | mariusz.szlezak@stordis.com | 调研核实（公开页） | 用户表 |
+| Tomasz Sadowski | Technical（研究档）= 技术收件人（第 104 批 官方登记核实 2026-10-28） | tomasz.sadowski@stordis.com | 调研核实（公开页） | 用户表 |
+| Mariusz Ślęzak | 研究档 KP（职务未核）（第 104 批 官方登记核实 2026-10-28） | mariusz.szlezak@stordis.com | 调研核实（公开页） | 用户表 |
+| Waldemar Scheck | Geschäftsführer（单独代表；Stuttgart HRB 724261 在册）= 拍板人（经 info@ 转）（第 104 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://stordis.com/legal-notice-impressum/ |
 | Tomasz  Technical | — | tomasz.sadowski@stordis.com / mariusz.szlezak@stordis.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
@@ -303,12 +325,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 29）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 29）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

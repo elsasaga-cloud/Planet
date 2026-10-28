@@ -97758,9 +97758,9 @@
 "name": "foppex.com",
 "name_src": "domain",
 "names": [],
-"country": "美国",
-"iso": "US",
-"region": "北美",
+"country": "塞浦路斯",
+"iso": "CY",
+"region": "欧洲",
 "other_countries": [],
 "domains": [
 "foppex.com"
@@ -97898,7 +97898,9 @@
 },
 "company_facts": {
 "hq": "美国",
-"other": "官网 foppex.com，语言 ?，快照状态 ok；角色判定来源：待核"
+"other": "官网 foppex.com，语言 ?，快照状态 ok；角色判定来源：待核；第 104 批：尼科西亚 Strovolos（研究档「美国」误 → country_fix 塞浦路斯；站内「Melbourne FL」为模板占位地址）电信 / 网络产品小分销商 → **贴标 small / 分销 20%；一页纸**；发信窗口 Thu 12–14 EET；稿内 UKCA 不适用（CE / RoHS）（第 104 批 官方登记核实 2026-10-28）",
+"legal_name": "Foppex Ltd.（塞浦路斯 Private Limited；HE 号未取 → 部分坐实；Akçaba Communications 股东）",
+"founded": "2010-04（第 104 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "MC / 跳线 / SFP 光网络产品经销（美国）"
@@ -97980,8 +97982,10 @@
 ],
 "draft_en": null,
 "as_of": "2026-10-25"
-}
-}
+},
+"country_fix": "塞浦路斯"
+},
+"country_table": "美国"
 },
 {
 "name": "garmasl.com",
@@ -127349,8 +127353,8 @@
 "name": "linhawstore.com",
 "name_src": "domain",
 "names": [],
-"country": "美国",
-"iso": "US",
+"country": "加拿大",
+"iso": "CA",
 "region": "北美",
 "other_countries": [],
 "domains": [
@@ -127531,11 +127535,11 @@
 "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-053，W 批次调研 2026-10-19/20）"
 },
 "company_facts": {
-"legal_name": "Lin Haw International Co., Ltd.",
-"founded": "",
+"legal_name": "Lin Haw International Company Ltd（BC 公司；注册号未取 → 部分坐实）",
+"founded": "1986（第 104 批 官方登记核实 2026-10-28）",
 "hq": "Burnaby, BC, 加拿大",
 "size": "",
-"other": "Planet 渠道档案 PB-053（2026-10-20_W08_安防分销与美国海关提单反查_US-CA.json）；自有品牌：是（PC Cable World：站内 549 件，以线缆/配件为主；是否含交换机待补证）；最大未知：Q-15 裁定；PC Cable World 是否含交换机；当前交换机进货渠道（经 Netgear/TP-Link 加拿大分销还是直接进口）；Rob Baerg 直邮"
+"other": "Planet 渠道档案 PB-053（2026-10-20_W08_安防分销与美国海关提单反查_US-CA.json）；自有品牌：是（PC Cable World：站内 549 件，以线缆/配件为主；是否含交换机待补证）；最大未知：Q-15 裁定；PC Cable World 是否含交换机；当前交换机进货渠道（经 Netgear/TP-Link 加拿大分销还是直接进口）；Rob Baerg 直邮；第 104 批：本拿比 Burnaby BC（研究档归美国误 → country_fix 加拿大）网络 / 电源产品进口分销商（自有网店 linhawstore；进口 PLANET 等台系品牌）→ **分销 20% / 可谈贴标；加厚一次；升 A 次候选**；发信窗口 Wed 08–10 PT（第 104 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "分销商/进口商（加拿大本土 B2B 批发：IT 基础设施、连接线缆、网络、AV、安防硬件，1986 年起；17 人、营收 $10–25M（Frasers）；展厅 3,500+ 产品；美国海关记录显示为 PLANET 直接进口商）"
@@ -127616,8 +127620,10 @@
 ],
 "draft_en": null,
 "as_of": "2026-10-25"
-}
-}
+},
+"country_fix": "加拿大"
+},
+"country_table": "美国"
 },
 {
 "name": "losan.cz",
@@ -167939,7 +167945,8 @@
 "title": "Product Manager",
 "email": "juanjomichel@denwaip.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Product Manager = 收件人本人 / 选型人（第 104 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -167951,7 +167958,9 @@
 },
 "company_facts": {
 "hq": "美国",
-"other": "官网 denwaip.com，语言 en，快照状态 ok；角色判定来源：用户表"
+"other": "官网 denwaip.com，语言 en，快照状态 ok；角色判定来源：用户表；第 104 批：Miami / Pembroke Pines FL 统一通信 / IP 话机品牌商（自有 Denwa 标话机、网关、交换机，美 / 阿根廷 / 拉美渠道）→ **贴标 OEM 30% 目标，B BIG，加厚一次；升 A 候选**；11 次无回复 → 二次触达换切口（第 104 批 官方登记核实 2026-10-28）",
+"legal_name": "DENWA TECHNOLOGY CORP（FL Sunbiz P11000054719；另 DENWAIP TECH LLC L21000046981）",
+"founded": "2002（GlobalThink 起源）；FL 登记 2011（第 104 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "IP 通信 / UC（自有品牌 DENWA）",
@@ -269539,7 +269548,8 @@
 "title": "Chief Executive",
 "email": "mkanarellis@bturesearch.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "研究档 KP（职务未核；INTEPO 转型后不再对口）（第 104 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -269551,7 +269561,9 @@
 },
 "company_facts": {
 "hq": "美国",
-"other": "官网 bturesearch.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+"other": "官网 bturesearch.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 104 批：现以「INTEPO Sovereign Infrastructure」定位（AI 推理边缘基础设施、IP68 / 国防线守界）→ **不动**；未坐实不补查（第 104 批 官方登记核实 2026-10-28）",
+"legal_name": "BTU Research / INTEPO（未坐实：1 次检索未命中登记）",
+"founded": "未取（第 104 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "AI 边缘物理基础设施平台（美国）"
@@ -333278,7 +333290,9 @@
 },
 "company_facts": {
 "hq": "土耳其",
-"other": "官网 arbybilgisayar.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 arbybilgisayar.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案；第 104 批：Maltepe 企业 IT 维护合约 / IT 咨询 / 网络安全 + IP 摄像机系统（MSP 型，11–50 人）→ **集成商 25% small；一页纸后不动**；收件人 bilgi@ 点名 satın alma / teknik müdür（第 104 批 官方登记核实 2026-10-28）",
+"legal_name": "Arby Bilgisayar San. Tic. Ltd. Şti.（İstanbul Maltepe；MERSİS 未取 → 部分坐实）",
+"founded": "2004（第 104 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "企业 IT 维护 / 支持（土耳其）"
@@ -333810,7 +333824,9 @@
 },
 "company_facts": {
 "hq": "土耳其",
-"other": "官网 arthaberlesme.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 arthaberlesme.com，语言 ?，快照状态 ok；角色判定来源：官网文案；第 104 批：Tuzla Karel PBX / IP 交换机经销小店（云 PBX、MPLS、对讲、安防）→ **集成商 25% small；一页纸后不动**（第 104 批 官方登记核实 2026-10-28）",
+"legal_name": "ART Haberleşme ve Güvenlik Sistemleri（Tuzla；Karel 授权经销与服务；法定形式 / MERSİS 未取 → 部分坐实；勿与 Arter Haberleşme Kartal 混淆）",
+"founded": "未取（第 104 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "通信 / 安防系统集成（土耳其）"
@@ -334530,7 +334546,9 @@
 },
 "company_facts": {
 "hq": "土耳其",
-"other": "官网 atelekom.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 atelekom.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案；第 104 批：Perpa 弱电产品分销商（Siemens / Panasonic / Karel PBX；Hikvision 对讲系统土耳其分销商；Hikvision PoE 在售）→ **分销 20%（对讲配套 PoE 第二线）；一页纸**（第 104 批 官方登记核实 2026-10-28）",
+"legal_name": "A Telekomünikasyon（Şişli Perpa A Blok Kat 8 No:827-829；法定形式 / MERSİS 未取 → 部分坐实）",
+"founded": "2002（第 104 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "弱电方案（PBX / CCTV / 对讲 / 视频会议）"
@@ -336857,7 +336875,9 @@
 },
 "company_facts": {
 "hq": "土耳其",
-"other": "官网 dijitalbina.com，语言 tr，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 dijitalbina.com，语言 tr，快照状态 ok；角色判定来源：官网文案；第 104 批：楼宇自动化 / BMS 集成商（Jade Bird / Esmi 火灾、CCTV）→ **集成商 25% small；一页纸后不动**；未坐实不补查（第 104 批 官方登记核实 2026-10-28）",
+"legal_name": "Dijital Bina（dijitalbina.com；Schneider EcoXpert 伙伴；法定名 / 地址 / 登记均未取 → 未坐实）",
+"founded": "未取（第 104 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "楼宇控制 / 消防系统集成（土耳其）"
@@ -337342,7 +337362,9 @@
 },
 "company_facts": {
 "hq": "土耳其",
-"other": "官网 ekingen.com.tr，语言 tr-TR，快照状态 ok；角色判定来源：待核"
+"other": "官网 ekingen.com.tr，语言 tr-TR，快照状态 ok；角色判定来源：待核；第 104 批：安防 / 电子批发进出口商（Uniview 官方分销 + Wi-Tek 土耳其分销；Ajax / Ezviz / GST / Edwards；自营品牌 GENBAYİ B2B / DIGILINE / WESTA / DECON / LEXENCE / FUJITRON；多门店；43–200 人；第三方 $5.8M）→ **分销 20% + 可谈贴标（DIGILINE / WESTA 标），B BIG，加厚一次；升 A 次候选**；收件人 info@ 点名 satın alma müdürü；稿内不点 Wi-Tek 名（第 104 批 官方登记核实 2026-10-28）",
+"legal_name": "Ekingen Elektronik Paz. İth. İhr. San. ve Tic. Ltd. Şti.（İstanbul Bağcılar Mahmutbey；MERSİS 未取）",
+"founded": "1985（第 104 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "安防产品分销（土耳其）"
@@ -337574,7 +337596,9 @@
 },
 "company_facts": {
 "hq": "土耳其",
-"other": "官网 entpa.com.tr，语言 ?，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 entpa.com.tr，语言 ?，快照状态 ok；角色判定来源：官网文案；第 104 批：Hanwha Vision 官方分销 + Honeywell / Sunell + **自有品牌 Entcam CCTV**，背靠 ENTES 制造集团（1980 起，出口 50 国）→ **贴标 OEM 30% 可谈（Entcam 标 PoE）+ 分销 20%，B BIG，加厚一次；升 A 候选（回信即 A）**；收件人 etekyildiz@ 点名 + 抄 satis@（第 104 批 官方登记核实 2026-10-28）",
+"legal_name": "ENTPA Elektronik Cihazlar Ticaret Pazarlama ve Turizm A.Ş.（İstanbul Ümraniye Y. Dudullu OSB 1. Cad. No:23；ENTES Elektronik 股东创立；MERSİS 未取）",
+"founded": "2003（第 104 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "电子产品制造 / 安防分销（土耳其）"
@@ -339409,7 +339433,14 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Aziz Vasıf Durmaz",
+"role": "Yetkili / Genel Müdür（makinaturkiye 在册负责人）= 收件人（第 104 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.makinaturkiye.com/firma/mavi-alarm-kamera-ve-guvenlik-teknolojileri-tic-ltd-sti"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -339419,7 +339450,9 @@
 },
 "company_facts": {
 "hq": "土耳其",
-"other": "官网 mavialarm.com.tr，语言 ?，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 mavialarm.com.tr，语言 ?，快照状态 ok；角色判定来源：官网文案；第 104 批：Kartal 电子安防安装商 / 多品牌经销站（hikvisiontr.net / dahua-tr.com；11–50 人）→ **集成商 25% small；一页纸**（第 104 批 官方登记核实 2026-10-28）",
+"legal_name": "MaviAlarm Kamera ve Güvenlik Teknolojileri Tic. Ltd. Şti.（İstanbul Kartal Yakacık Çarşı Mah. Mülayim Sok. No:55；MERSİS 未取）",
+"founded": "2010（第 104 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "摄像 / 报警 / 火灾探测 / 门禁安装（土耳其）"
@@ -341485,7 +341518,14 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Oscar Cortes",
+"role": "President / Owner（Sunbiz 在册）= 拍板人 / 收件人（第 104 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://search.sunbiz.org/ P05000037533"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -341495,7 +341535,9 @@
 },
 "company_facts": {
 "hq": "美国",
-"other": "官网 nodactechnology.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 nodactechnology.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 104 批：Doral / Miami FL + Pompano Beach 安防与网络产品分销商（拉美出口渠道、价格敏感）→ **分销 20%；一页纸**（第 104 批 官方登记核实 2026-10-28）",
+"legal_name": "NODAC TECHNOLOGY, INC.（FL Sunbiz P05000037533；FEI 20-2538531；Active）",
+"founded": "2005-03-10（业务 2001 起）（第 104 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "安防 / 弱电分销（CCTV、报警、门禁、网络、VoIP）"
@@ -343984,7 +344026,9 @@
 },
 "company_facts": {
 "hq": "土耳其",
-"other": "官网 serrackkabin.com.tr，语言 ?，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 serrackkabin.com.tr，语言 ?，快照状态 ok；角色判定来源：官网文案；第 104 批：19\" 机柜 / 数据中心机柜制造销售商（本土制造；铜缆 / 光纤 / 有源设备配套；1–10 人）→ **分销 20% small / 可谈 SER 标捆绑；一页纸**；收件人 satis@ 点名 satış müdürü（第 104 批 官方登记核实 2026-10-28）",
+"legal_name": "SER Rack Kabin Teknoloji ve Bilişim Sistemleri San. Tic. Ltd. Şti.（İstanbul Sancaktepe Emek Mah. Ordu Cad. Arzu Sok. No:46；Perpa 销售处 A Blok Kat 11 No:1469；LANDE 家族；MERSİS 未取）",
+"founded": "2013（第 104 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "机柜 / 数据中心柜制造（土耳其）",
@@ -344269,7 +344313,14 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Muhammad Amir",
+"role": "Owner（KY LLC）= 收件人（第 104 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://serverblink.com/about"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -344279,7 +344330,9 @@
 },
 "company_facts": {
 "hq": "美国",
-"other": "官网 serverblink.com，语言 en，快照状态 ok；角色判定来源：用户表"
+"other": "官网 serverblink.com，语言 en，快照状态 ok；角色判定来源：用户表；第 104 批：Louisville KY IT 硬件网店（PC / 服务器配件 / 网络设备转售）→ **采购型 small；一页纸后不动**（第 104 批 官方登记核实 2026-10-28）",
+"legal_name": "Server Blink LLC（KY；SoS 号未取 → 部分坐实；登记地址为邮箱套房 PMB 5001）",
+"founded": "2022（第 104 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "PC / 服务器配件电商",
@@ -346868,7 +346921,9 @@
 },
 "company_facts": {
 "hq": "土耳其",
-"other": "官网 troyykontrol.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 troyykontrol.com，语言 ?，快照状态 ok；角色判定来源：官网文案；第 104 批：**安卡拉 İvedik OSB（非伊斯坦布尔）** 门禁 / 考勤 PDKS 软硬件开发商与集成商（自研 Smek PDKS / Access Nova 面板、闸机、道闸；n11 店 Msec）→ **集成商 25% small / 可谈 Troyy 标小批量；一页纸**；收件人 info@ 点名 teknik müdür（第 104 批 官方登记核实 2026-10-28）",
+"legal_name": "Troyy Bilişim Geçiş Kontrol Sistemleri Elektronik Güvenlik San. ve Tic. Ltd. Şti.（Troyy Kontrol；MERSİS 0859063031500011 · Vergi No 8590630315）",
+"founded": "2016（第 104 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "门禁 / 考勤 / 闸机 / 道闸（土耳其）"
@@ -379452,7 +379507,14 @@
 "title": "（表内联系人）",
 "email": "jenn@patton.com",
 "phone": "",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "Account Manager（销售侧，非采购；改投产品 / 采购）（第 104 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "Robert R. (Bobby) Patton",
+"role": "President & CEO（2009 起；共同创办人）= 拍板人（第 104 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.patton.com/company/"
 }
 ],
 "grade_override": null,
@@ -379463,11 +379525,11 @@
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "Patton Electronics Company",
-"founded": "1984",
+"legal_name": "Patton Electronics Co.（Maryland Corporation；SAM UEI CETFWF46TQ69）",
+"founded": "1984（第 104 批 官方登记核实 2026-10-28）",
 "hq": "7622 Rickenbacker Dr, Gaithersburg, MD 20879, USA",
 "size": "中型制造商（约 100+ 人）",
-"other": "自有品牌；工业以太网 / 光纤线部分外购"
+"other": "自有品牌；工业以太网 / 光纤线部分外购；第 104 批：Gaithersburg MD 网络 / 通信设备制造商（VoIP 网关、以太网延长、工业交换机自有线）→ **同行制造商，贴标 OEM 30% 低中概率；一页纸**（补位其没有的 L2+ PoE 规格）（第 104 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "VoIP 网关 / UC（自产）",
@@ -388154,7 +388216,9 @@
 },
 "company_facts": {
 "hq": "土耳其",
-"other": "官网 destekelektronik.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 destekelektronik.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案；第 104 批：安防电子制造（火灾 / 入侵 / 门禁 / 环境监控 / 电力电子，5,000 m² 工厂）+ Hanwha Vision / FLIR / Aritech / Texecom / Paxton / Phihong 等土耳其独家分销，出口 35+ 国，≈60 人 → **分销 20%，B BIG，可谈 EDS 标，加厚一次；升 A 次候选**；收件人 pazarlama@eds.com.tr 点名 ürün müdürü（第 104 批 官方登记核实 2026-10-28）",
+"legal_name": "EDS Elektronik Destek San. ve Tic. Ltd. Şti.（品牌站 Destek Elektronik；İstanbul Sancaktepe Meclis Mah. Teraziler Cad. Hayran Sok. No:4；MERSİS 未取；品牌名单与 Hanwha 名录完全一致 → 推定同一主体）",
+"founded": "1990-02（第 104 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "安防电子系统分销（CCTV / 消防 / 入侵 / 门禁 / 电源）"
@@ -391803,7 +391867,14 @@
 "title": "（职务待核）",
 "email": "marcela.g@enssecurity.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "分部销售 / 采购（职务未核；经其转产品部）（第 104 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "Kevin Zhou",
+"role": "Founder & CEO（华裔；2000 年 College Point NY 起家）= 拍板人（第 104 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.enssecurity.com/about-us"
 }
 ],
 "grade_override": null,
@@ -391815,7 +391886,9 @@
 },
 "company_facts": {
 "hq": "美国",
-"other": "官网 enssecurity.com，语言 ?，快照状态 ok；角色判定来源：待核"
+"other": "官网 enssecurity.com，语言 ?，快照状态 ok；角色判定来源：待核；第 104 批：Plainview NY 安防批发商 + 自有贴标厂（11 个分部，自有 ENS 标 NVR / 摄像机 / PoE 交换机）→ **贴标 OEM 30% 目标，B BIG，加厚一次；升 A 候选**；15 次无回复 → 二次触达换切口；中文直联由 Simon 定（默认否）（第 104 批 官方登记核实 2026-10-28）",
+"legal_name": "ENS Security（原 EasternCCTV；NY 实体法定名 / DOS 号未取 → 部分坐实）",
+"founded": "2000（第 104 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "安防产品分销（美国，大型）"
@@ -400321,7 +400394,14 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Bryan Hogan",
+"role": "Owner / President（2001 起）= 拍板人 / 收件人（经 sales@）（第 104 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.bbb.org/us/co/denver/profile/fiber-optics/fiberoptic-supply-1296-14001062"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -400331,7 +400411,9 @@
 },
 "company_facts": {
 "hq": "美国",
-"other": "官网 fiberopticsupply.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 fiberopticsupply.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 104 批：Denver CO 通信级光纤产品分销商（交换机为边角配套）→ **分销 20% small；一页纸后不动**（第 104 批 官方登记核实 2026-10-28）",
+"legal_name": "FiberOptic Supply（CO Corporation；SoS 号未取 → 部分坐实；勿与 Fiber Optic Supply, Inc. fosupply.com 混淆）",
+"founded": "1997-04（BBB 登记 1998-04-02）（第 104 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "光纤材料 / 工具 / 有源组件网店（美国）"
@@ -407754,11 +407836,12 @@
 ],
 "kp": [
 {
-"name": "Joerg Ridder",
+"name": "Jörg Ridder",
 "title": "（职务待核）",
 "email": "joerg.ridder@netcatsystems.de",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "CEO / Geschäftsführer = 收件人本人 / 拍板人（第 104 批 官方登记核实 2026-10-28）"
 }
 ],
 "grade_override": null,
@@ -407770,7 +407853,9 @@
 },
 "company_facts": {
 "hq": "德国",
-"other": "官网 netcatsystems.de，语言 de，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 netcatsystems.de，语言 de，快照状态 ok；角色判定来源：官网文案；第 104 批：IT 采购 / 供应链服务商（Cisco / HP / Lenovo / Ubiquiti 转售、EOL / 翻新硬件买卖、OEM 光模块、项目型供货含国防 — 守界不提）→ **分销 20% 低概率（采购型 + 翻新半同行）；按 Simon「着重跟一下」对 CEO 做一次定向一页纸（标案 Cisco 替代位），之后不动**（第 104 批 官方登记核实 2026-10-28）",
+"legal_name": "NetCat SYSTEMS GmbH（Kamen NRW Weißdornweg 24；HRB 未取 → 部分坐实；ISO 9001:2015）",
+"founded": "2003（第 104 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "IT 采购 / 供应链服务"
@@ -419176,14 +419261,22 @@
 "title": "Technical",
 "email": "tomasz.sadowski@stordis.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Technical（研究档）= 技术收件人（第 104 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Mariusz Ślęzak",
 "title": "（职务待核）",
 "email": "mariusz.szlezak@stordis.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "研究档 KP（职务未核）（第 104 批 官方登记核实 2026-10-28）"
+},
+{
+"name": "Waldemar Scheck",
+"role": "Geschäftsführer（单独代表；Stuttgart HRB 724261 在册）= 拍板人（经 info@ 转）（第 104 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://stordis.com/legal-notice-impressum/"
 }
 ],
 "grade_override": null,
@@ -419195,7 +419288,9 @@
 },
 "company_facts": {
 "hq": "德国",
-"other": "官网 stordis.com，语言 ?，快照状态 unreachable；角色判定来源：待核"
+"other": "官网 stordis.com，语言 ?，快照状态 unreachable；角色判定来源：待核；第 104 批：开放网络 / 白盒交换机增值分销商（600+ 产品；Microtel 10/25/100G 包探针分销；学术 / 媒体 / 安全 / 运营商 / 金融 / 国防细分 — 国防不提）→ **分销 20%，STH 高速线天然渠道，B BIG，加厚一次（STH-2C24XF-HSI / 8C48DX / 32C + STC-448XGGPM）；升 A 次候选**；6 次无回复 → 二次触达换切口（第 104 批 官方登记核实 2026-10-28）",
+"legal_name": "STORDIS GmbH（Amtsgericht Stuttgart HRB 724261；Rübteile 24, 72574 Bad Urach，原 Rosenwiesstr. 17 Stuttgart；股本 €50,000；VAT DE 256406445；英国分公司）",
+"founded": "2007-09-18（第 104 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "开放网络 / 白盒交换机分销（德国，英国分公司）"
@@ -420048,7 +420143,20 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Cedric Krämer",
+"role": "Geschäftsführer & Gründer（Walsrode HRB 211027 在册）= 收件人（经 info@）（第 104 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.northdata.com/Tech-Point%20GmbH,%20Stuhr/Amtsgericht%20Walsrode%20HRB%20211027"
+},
+{
+"name": "Jussef Hussein",
+"role": "Geschäftsführung（官网团队页）（第 104 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.techpoint-gmbh.de/ueber-uns/"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -420058,7 +420166,9 @@
 },
 "company_facts": {
 "hq": "德国",
-"other": "官网 techpoint-gmbh.de，语言 de，快照状态 ok；角色判定来源：待核"
+"other": "官网 techpoint-gmbh.de，语言 de，快照状态 ok；角色判定来源：待核；第 104 批：零售 / 数字标牌技术系统全国现场服务商（规划、安装、维护、维修）→ **集成商 25% small；首触一页纸后不动**（第 104 批 官方登记核实 2026-10-28）",
+"legal_name": "Tech-Point GmbH（Amtsgericht Walsrode HRB 211027；Stuhr；股本 €25,000；前身 Hansebau Krämer，2022 更名；勿与 TechPoint GmbH Krefeld / TecPoint GmbH Wolfratshausen 混淆）",
+"founded": "≈2022（更名登记）（第 104 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "零售业 IT 服务 / 现场服务（德国）"
@@ -453514,7 +453624,20 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Alexander Noack",
+"role": "Geschäftsführer b-plus technologies GmbH（HRB 5261；ADAS 测试工具实体）= 对口实体负责人（第 104 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.b-plus.com/de/impressum"
+},
+{
+"name": "Michael Sieg",
+"role": "Geschäftsführer b-plus GmbH（集团母公司 HRB 1753；2005 年接任）= 拍板人（第 104 批 官方登记核实 2026-10-28）",
+"email": "",
+"source": "https://www.b-plus.com/de/impressum"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -453524,7 +453647,9 @@
 },
 "company_facts": {
 "hq": "德国",
-"other": "官网 b-plus.com，语言 de，快照状态 ok；角色判定来源：官网文案"
+"other": "官网 b-plus.com，语言 de，快照状态 ok；角色判定来源：官网文案；第 104 批：Deggendorf 自动驾驶 / ADAS 开发工具集团（数据记录仪、车载 10G/25G 以太网；automotive ≈70 人）→ 车载以太网不对口，只有实验室 / 测试台汇聚一线 → **采购型 20% 低概率；按 Simon「着重跟一下」做一次定向一页纸（STC-110XGE / STI-0240GE / STH-2C24XF-HSI），之后不动**（第 104 批 官方登记核实 2026-10-28）",
+"legal_name": "b-plus GmbH（Amtsgericht Deggendorf HRB 1753；股本 €62,000）+ b-plus technologies GmbH（HRB 5261）+ b-plus automotive GmbH（HRB 4269）+ b-plus mobile control GmbH",
+"founded": "1996-07-17（母公司）（第 104 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "自动驾驶/ADAS 数据采集与存储工具",
@@ -456173,7 +456298,8 @@
 "title": "Product Manager",
 "email": "ssmith@l-com.com",
 "phone": "",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "Product Manager = 收件人本人 / 选型对口（第 104 批 官方登记核实 2026-10-28）"
 },
 {
 "name": "Mary Kleinfelter",
@@ -456191,11 +456317,11 @@
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "L-com, Inc.（Infinite Electronics）",
-"founded": "1982",
+"legal_name": "L-com, LLC（MA；母体 Infinite Electronics International, Inc.，UEI NYEMFJ7MMJB5 · CAGE 43321）",
+"founded": "1983-01-02（1982 创立）（第 104 批 官方登记核实 2026-10-28）",
 "hq": "North Andover, MA, USA",
 "size": "大型目录分销（集团）",
-"other": "自有品牌工业以太网产品（贴牌采购）"
+"other": "自有品牌工业以太网产品（贴牌采购）；第 104 批：North Andover MA 连接产品品牌商（自有 L-com 标 PoE 交换机 / 注入器线，PE 控股 Infinite Electronics 集团）→ **贴标 OEM 30% 目标，B BIG，加厚一次；升 A 候选**（第 104 批 官方登记核实 2026-10-28）"
 },
 "business_lines": [
 "线缆 / 天线 / 工业网络目录销售（自有品牌）"

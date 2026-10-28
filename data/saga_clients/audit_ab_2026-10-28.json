@@ -5041,8 +5041,8 @@
   },
   "SB-1032": {
    "grade": "B",
-   "iso": "US",
-   "country": "美国",
+   "iso": "CY",
+   "country": "塞浦路斯",
    "facts": 3,
    "in": 0,
    "out": 2,
@@ -7329,8 +7329,8 @@
   },
   "SB-1127": {
    "grade": "B",
-   "iso": "US",
-   "country": "美国",
+   "iso": "CA",
+   "country": "加拿大",
    "facts": 3,
    "in": 0,
    "out": 3,
@@ -19798,7 +19798,7 @@
    "p1": "STC-28DGGPM",
    "tier": 25,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-667": {
@@ -19952,7 +19952,7 @@
    "p1": "STC-28DGGPM",
    "tier": 20,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-674": {
@@ -20150,7 +20150,7 @@
    "p1": "STC-424XGGM",
    "tier": 20,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-683": {
@@ -22196,7 +22196,7 @@
    "p1": "—",
    "tier": 30,
    "signals": 2,
-   "kp": 3,
+   "kp": 4,
    "summary": true
   },
   "SB-776": {
@@ -22966,7 +22966,7 @@
    "p1": "—",
    "tier": 20,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-811": {
@@ -23516,7 +23516,7 @@
    "p1": "—",
    "tier": 20,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-836": {
@@ -24682,7 +24682,7 @@
    "p1": "—",
    "tier": 20,
    "signals": 2,
-   "kp": 2,
+   "kp": 3,
    "summary": true
   },
   "SB-889": {
@@ -24748,7 +24748,7 @@
    "p1": "STC-28DGGPM",
    "tier": 25,
    "signals": 2,
-   "kp": 0,
+   "kp": 2,
    "summary": true
   },
   "SB-892": {
@@ -26574,7 +26574,7 @@
    "p1": "STI-488XGGPM",
    "tier": 25,
    "signals": 2,
-   "kp": 0,
+   "kp": 2,
    "summary": true
   },
   "SB-975": {

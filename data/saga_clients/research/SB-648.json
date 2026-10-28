@@ -39,7 +39,9 @@
  },
  "company_facts": {
   "hq": "土耳其",
-  "other": "官网 atelekom.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案"
+  "other": "官网 atelekom.com.tr，语言 tr，快照状态 ok；角色判定来源：官网文案；第 104 批：Perpa 弱电产品分销商（Siemens / Panasonic / Karel PBX；Hikvision 对讲系统土耳其分销商；Hikvision PoE 在售）→ **分销 20%（对讲配套 PoE 第二线）；一页纸**（第 104 批 官方登记核实 2026-10-28）",
+  "legal_name": "A Telekomünikasyon（Şişli Perpa A Blok Kat 8 No:827-829；法定形式 / MERSİS 未取 → 部分坐实）",
+  "founded": "2002（第 104 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "弱电方案（PBX / CCTV / 对讲 / 视频会议）"

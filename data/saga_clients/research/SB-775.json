@@ -46,7 +46,14 @@
    "title": "（表内联系人）",
    "email": "jenn@patton.com",
    "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "Account Manager（销售侧，非采购；改投产品 / 采购）（第 104 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Robert R. (Bobby) Patton",
+   "role": "President & CEO（2009 起；共同创办人）= 拍板人（第 104 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.patton.com/company/"
   }
  ],
  "grade_override": null,
@@ -57,11 +64,11 @@
   "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "legal_name": "Patton Electronics Company",
-  "founded": "1984",
+  "legal_name": "Patton Electronics Co.（Maryland Corporation；SAM UEI CETFWF46TQ69）",
+  "founded": "1984（第 104 批 官方登记核实 2026-10-28）",
   "hq": "7622 Rickenbacker Dr, Gaithersburg, MD 20879, USA",
   "size": "中型制造商（约 100+ 人）",
-  "other": "自有品牌；工业以太网 / 光纤线部分外购"
+  "other": "自有品牌；工业以太网 / 光纤线部分外购；第 104 批：Gaithersburg MD 网络 / 通信设备制造商（VoIP 网关、以太网延长、工业交换机自有线）→ **同行制造商，贴标 OEM 30% 低中概率；一页纸**（补位其没有的 L2+ PoE 规格）（第 104 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "VoIP 网关 / UC（自产）",

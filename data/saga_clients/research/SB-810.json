@@ -38,7 +38,14 @@
    "title": "（职务待核）",
    "email": "marcela.g@enssecurity.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "分部销售 / 采购（职务未核；经其转产品部）（第 104 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Kevin Zhou",
+   "role": "Founder & CEO（华裔；2000 年 College Point NY 起家）= 拍板人（第 104 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.enssecurity.com/about-us"
   }
  ],
  "grade_override": null,
@@ -50,7 +57,9 @@
  },
  "company_facts": {
   "hq": "美国",
-  "other": "官网 enssecurity.com，语言 ?，快照状态 ok；角色判定来源：待核"
+  "other": "官网 enssecurity.com，语言 ?，快照状态 ok；角色判定来源：待核；第 104 批：Plainview NY 安防批发商 + 自有贴标厂（11 个分部，自有 ENS 标 NVR / 摄像机 / PoE 交换机）→ **贴标 OEM 30% 目标，B BIG，加厚一次；升 A 候选**；15 次无回复 → 二次触达换切口；中文直联由 Simon 定（默认否）（第 104 批 官方登记核实 2026-10-28）",
+  "legal_name": "ENS Security（原 EasternCCTV；NY 实体法定名 / DOS 号未取 → 部分坐实）",
+  "founded": "2000（第 104 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "安防产品分销（美国，大型）"

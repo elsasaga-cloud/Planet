@@ -1,6 +1,6 @@
 # foppex.com
 
-> **评级 B**　|　美国　|　档案编号 `SB-1032`　|　优先级 ★★　|　状态：名单内·未触达
+> **评级 B**　|　塞浦路斯　|　档案编号 `SB-1032`　|　优先级 ★★　|　状态：名单内·未触达
 >
 > **类型**：光网络产品经销商（美国，Planet 工业 FS 在售）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:US　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -9,8 +9,9 @@ code: SB-1032
 rating: B
 rating_auto: B
 score: 25
-country: 美国
-region: 北美
+country: 塞浦路斯
+country_table: 美国  # 表内原填；调研纠正为 塞浦路斯（research JSON country_fix）
+region: 欧洲
 website: foppex.com
 type: 光网络产品经销商（美国，Planet 工业 FS 在售）
 tier_tags: ["群发(筛选后质量一般的_群发)", "表:US"]
@@ -24,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -75,12 +76,26 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 104 批（CY · 1 次检索：官网 About（Foppex Ltd is registered in the Republic of Cyprus by shareholders of Akçaba Communications in April 2010；光纤尾纤 / 跳线 / 连接器 / 配线架 / 终端盒营销）+ Our Brand（2010 年塞浦路斯首家光纤尾纤跳线制造设施；Akçaba Communications 子公司）+ 官网页脚（Foppex Ltd.；Thiseos 7, Strovolos, P.C. 2042, Nicosia, Cyprus；+357 22 030250；info@foppex.com）+ 产品页（10/100/1000M 光纤 MC、1.25G SFP / 10G SFP+ / 40G QSFP+ 自有标）；fiber-catalog 页的「123 6th St. Melbourne, FL」为模板占位符，非地址；塞浦路斯公司注册号（HE）未取，2026-10-28 查；https://foppex.com/about/）：**
+
+- 法定名 / 登记号：Foppex Ltd.（foppex.com；**尼科西亚 Strovolos，塞浦路斯 — 研究档「美国」误，country_fix 塞浦路斯**）— 2010-04 由 Akçaba Communications 股东在塞浦路斯共和国注册的光纤产品制造 / 分销商（塞浦路斯首家光纤尾纤 / 跳线工厂；光收发器、光纤 MC、配线、测试仪；电话 / VoIP / 网络 / 安防方案）；表内「有 Planet 的工业 FS」；研究档无 KP · 塞浦路斯 Ltd.（HE 号未取 → 部分坐实）；母体 Akçaba Communications · 状态 **Active（2025 站点更新）** · 成立 2010-04 · Private Limited Company（塞浦路斯；Akçaba 股东）
+- 行业码 / 经营范围：光纤产品制造与分销（尾纤 / 跳线自产；光收发器、光纤 MC、配线、测试仪、工具自有标 Foppex）+ 电话 / VoIP / 网络 / 安防方案
+- 注册地址：Thiseos 7, Strovolos, 2042 Nicosia, Cyprus
+- 规模档：小型（推定 10–30 人）
+- 账目：—；—
+- 高管：无具名（info@）
+- 控制人 / 股东：Akçaba Communications 股东
+- **这意味着什么：**
+  - **塞浦路斯（欧盟）光纤自有标 + 在卖 Planet 工业交换机 → 贴标 small / 分销 20%**：Foppex 标 STI-144GP / STI-054GP / STC-110XGE / STC-228GP（光纤 MC 替代 + Planet 工业线的价位替代，不点名 Planet）；一页纸 + 贴标条款；不加厚
+  - 收件人 info@ 点名 purchasing / product；表内未跟进 → 首信一页纸；发信窗口 Thu 12–14 EET（欧盟稿 CE/RoHS，不用 UKCA/FCC）；国家改塞浦路斯
+- 备注：贴标 small / 分销 20%；country_fix 塞浦路斯；一页纸；部分坐实。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | foppex.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 美国 | 事实（用户表）|
+| 国家 | 塞浦路斯 | 事实（用户表）|
 | 网站/域名 | foppex.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 光网络产品经销商（美国，Planet 工业 FS 在售） | 推断（据兴趣/备注关键词） |
 | 联系人 | — | 事实（用户表） |
@@ -110,8 +125,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Foppex Ltd.（塞浦路斯 Private Limited；HE 号未取 → 部分坐实；Akçaba Communications 股东） |
+| 成立 | 2010-04（第 104 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 美国 |
-| 其他 | 官网 foppex.com，语言 ?，快照状态 ok；角色判定来源：待核 |
+| 其他 | 官网 foppex.com，语言 ?，快照状态 ok；角色判定来源：待核；第 104 批：尼科西亚 Strovolos（研究档「美国」误 → country_fix 塞浦路斯；站内「Melbourne FL」为模板占位地址）电信 / 网络产品小分销商 → **贴标 small / 分销 20%；一页纸**；发信窗口 Thu 12–14 EET；稿内 UKCA 不适用（CE / RoHS）（第 104 批 官方登记核实 2026-10-28） |
 
 - **业务线**：MC / 跳线 / SFP 光网络产品经销（美国）
 - **触达通道（公开）**：role: 光网络产品经销商（美国，Planet 工业 FS 在售）；region: 美国；contact: info@foppex.com
@@ -193,7 +210,7 @@ updated: 2026-10-27
 
 ## SWOT
 
-- **S**：北美主攻区，复购与口碑可外溢
+- **S**：欧洲主攻区，复购与口碑可外溢
 - **W**：无具名决策人，仍是公司级触达
 - **O**：P1 STI-280GE 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 planet：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
@@ -252,12 +269,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -80,6 +80,20 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 104 批（TR · 1 次检索：firmasec（SER RACK KABİN TEKNOLOJİ VE BİLİŞİM SİSTEMLERİ SAN.TİC.LTD.ŞTİ；Emek, Arzu Sok. No:46 D:3 34785 Dudullu OSB Sancaktepe；「LANDE ailesinin bir üyesidir」；2013 年入行 19" 机柜）+ 官网 Biz Kimiz / İletişim（SER 2013 年成立；Emek Mah. Ordu Cad. Arzu Sok. No:46 Sancaktepe；+90 216 572 68 60；satis@；Perpa Ticaret Merkezi A Blok 11. Kat No:1469 Şişli 销售处）+ ZoomInfo（1–10 人；机柜、铜缆 / 光纤网络产品、PDU），2026-10-28 查；https://www.serrackkabin.com.tr/Ser-Rack-Kabinet/Biz-Kimiz---Misyon---Vizyon）：**
+
+- 法定名 / 登记号：SER Rack Kabin Teknoloji ve Bilişim Sistemleri San. Tic. Ltd. Şti.（serrackkabin.com.tr；伊斯坦布尔 Sancaktepe + Perpa 销售处）— 2013 年成立的 19" 机柜 / 数据中心机柜 / 电信户外柜制造销售商（「Yerli ve Milli Üretim」；LANDE 家族成员；站内铜缆 / 光纤网络产品与「Aktif Cihazlar / Switchler」有源分类）；1–10 人；研究档无 KP；表内 1 次跟进无回复 · Ltd. Şti.（İstanbul 商事登记；MERSİS 未取）；LANDE 关联 · 状态 **Active（站点在线）** · 成立 2013 · Limited Şirket（私有；LANDE 家族）
+- 行业码 / 经营范围：19" 机柜 / 服务器与数据中心机柜 / 电信户外柜制造销售 + 铜缆 / 光纤网络产品 + 有源设备（交换机）转售
+- 注册地址：Emek Mah. Ordu Cad. Arzu Sok. No:46, 34785 Sancaktepe / İstanbul；销售处 Perpa Ticaret Merkezi A Blok Kat 11 No:1469, Şişli
+- 规模档：小微（1–10 人；集团背景）
+- 账目：第三方 $7.2M（存疑，不采）；—
+- 高管：无具名（satis@ / perpa@）
+- 控制人 / 股东：LANDE 家族（推定）
+- **这意味着什么：**
+  - **机柜制造商把交换机当配套卖 → 分销 20% small，可谈 SER 标捆绑**：STC-028GP / STC-228GP / STC-2224GP（机柜 + PoE 套餐）；一页纸 + 贴标条款；不加厚
+  - 收件人 satis@ 点名 satış müdürü；1 次无回复 → 二次触达换切口「a PoE switch to bundle with your cabinets」；发信窗口 Thu 10–12 TRT
+- 备注：分销 20% small / 可谈贴标；一页纸。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -113,8 +127,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | SER Rack Kabin Teknoloji ve Bilişim Sistemleri San. Tic. Ltd. Şti.（İstanbul Sancaktepe Emek Mah. Ordu Cad. Arzu Sok. No:46；Perpa 销售处 A Blok Kat 11 No:1469；LANDE 家族；MERSİS 未取） |
+| 成立 | 2013（第 104 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 土耳其 |
-| 其他 | 官网 serrackkabin.com.tr，语言 ?，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 serrackkabin.com.tr，语言 ?，快照状态 ok；角色判定来源：官网文案；第 104 批：19" 机柜 / 数据中心机柜制造销售商（本土制造；铜缆 / 光纤 / 有源设备配套；1–10 人）→ **分销 20% small / 可谈 SER 标捆绑；一页纸**；收件人 satis@ 点名 satış müdürü（第 104 批 官方登记核实 2026-10-28） |
 
 - **业务线**：机柜 / 数据中心柜制造（土耳其）；网络有源/无源产品经销
 - **触达通道（公开）**：role: 机柜制造商兼网络产品经销（土耳其）；region: 土耳其；contact: satis@serrackkabin.com.tr

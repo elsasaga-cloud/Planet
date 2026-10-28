@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -92,6 +92,23 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 104 批（US · 1 次检索：BBB（L-com；Business Started 1982-01-01；Incorporated 1983-01-02；LLC；Alternate Names L-com Global Connectivity / L-com, LLC；Manager Lester Smock；400 人）+ Infinite Electronics 品牌页（Founded 1982；wired and wireless connectivity）+ PitchBook（1982；201 人；Buyout/LBO；母公司 Infinite Electronics；50 High Street, West Mill, 3rd Floor Suite 30, North Andover, MA 01845）+ PRWeb 40 周年（1982 成立；1949 ALCO 根源；1984 转连接产品；MA / FL / 中国 工厂）+ HigherGov（Infinite Electronics International, Inc.；UEI NYEMFJ7MMJB5；CAGE 43321；DE 公司；North Andover）+ LinkedIn（201–500），2026-10-28 查；https://www.bbb.org/us/ma/north-andover/profile/wholesale-computers/l-com-0021-10171）：**
+
+- 法定名 / 登记号：L-com, LLC（L-com Global Connectivity；l-com.com；North Andover, Massachusetts）— 1982 年 Alfred F. Contarino Sr. 创立（根源 1949 ALCO Electronics）、1983-01-02 登记的有线 / 无线连接产品制造分销商（线缆组件、连接器、天线、机箱、浪涌、**自有标工业以太网交换机 / PoE 注入器**；5 万 SKU 当日发货；ISO 9001:2015）；**2016 起为 Infinite Electronics 品牌（PE 控股；Infinite Electronics International, Inc. UEI NYEMFJ7MMJB5 / CAGE 43321）**；201–500 人；KP Steve Smith（Product Manager）/ Mary Kleinfelter · L-com, LLC（MA；SoS 号未取）；母体 Infinite Electronics International, Inc.（DE；UEI NYEMFJ7MMJB5 · CAGE 43321） · 状态 **Active** · 成立 1983-01-02（1982 创立） · LLC（Infinite Electronics / PE 控股品牌）
+- 行业码 / 经营范围：有线 / 无线连接产品制造与分销（线缆组件、连接器、适配器、天线、机箱、浪涌、工业以太网 / PoE 自有标）；5 万 SKU 当日发货；MA / FL / 中国 工厂
+- 注册地址：50 High Street, West Mill, 3rd Floor Suite 30, North Andover, MA 01845
+- 规模档：大型（201–500 人；集团）
+- 账目：第三方 $5–25M（L-com 单品牌；集团更大）；—
+- 高管：Steve Smith — Product Manager = 研究档 KP = 选型对口
+- 高管：Mary Kleinfelter — 研究档 KP（职务未核）
+- 高管：Lester Smock — Manager（BBB）
+- 控制人 / 股东：Infinite Electronics（Warburg Pincus 系 PE）
+- 曾用名：ALCO Electronics（1949，根源）
+- **这意味着什么：**
+  - **自有标工业以太网 / PoE 线（亚洲外采）+ 产品经理为 KP → 贴标 OEM 30% 目标，B BIG**：L-com 标 STI-054GP / STI-144GP / STI-288DGGPM / STI-488DGGPM + STC-228GP；供应商准入资料包（CE/FCC/RoHS、保修 3 年、MOQ 1）；加厚一次
+  - 收件人 ssmith@ 点名 Product Manager Steve Smith，抄 mkleinfelter@；表内未跟进 → 首信一页纸；发信窗口 Wed 08–10 ET；升 A 候选（回信即 A）
+- 备注：贴标 OEM 30% 目标；B BIG；加厚一次；升 A 候选。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -118,7 +135,7 @@ updated: 2026-10-27
 - **【用户表】工业 switch；工业 FS MC POE 周边产品；Steve Smith Product Manager**
   > 兴趣：工业switch;工业FS MC POE 周边产品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Steve Smith（）ssmith@l-com.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Steve Smith（Product Manager = 收件人本人 / 选型对口（第 104 批 官方登记核实 2026-10-28））ssmith@l-com.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Mary Kleinfelter（）mkleinfelter@l-com.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
@@ -126,10 +143,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | L-com, Inc.（Infinite Electronics） |
-| 成立 | 1982 |
+| 法定名称 | L-com, LLC（MA；母体 Infinite Electronics International, Inc.，UEI NYEMFJ7MMJB5 · CAGE 43321） |
+| 成立 | 1983-01-02（1982 创立）（第 104 批 官方登记核实 2026-10-28） |
 | 总部/地址 | North Andover, MA, USA |
-| 其他 | 自有品牌工业以太网产品（贴牌采购） |
+| 其他 | 自有品牌工业以太网产品（贴牌采购）；第 104 批：North Andover MA 连接产品品牌商（自有 L-com 标 PoE 交换机 / 注入器线，PE 控股 Infinite Electronics 集团）→ **贴标 OEM 30% 目标，B BIG，加厚一次；升 A 候选**（第 104 批 官方登记核实 2026-10-28） |
 
 - **业务线**：线缆 / 天线 / 工业网络目录销售（自有品牌）
 - **触达通道（公开）**：role: 目录分销商（自有品牌 OEM 采购）；region: 美国
@@ -224,7 +241,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Steve Smith | — | ssmith@l-com.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Steve Smith | Product Manager = 收件人本人 / 选型对口（第 104 批 官方登记核实 2026-10-28） | ssmith@l-com.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Mary Kleinfelter | — | mkleinfelter@l-com.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Steve Smith, Product Manager | — | ssmith@l-com.com / mkleinfelter@l-com.com | 用户表原值 | Clients/ 表 |
 
@@ -320,12 +337,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 26）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 26）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

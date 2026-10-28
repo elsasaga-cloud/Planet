@@ -80,6 +80,20 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 104 批（TR · 1 次检索：DistributorIndex（Ekingen Elektronik Paz. İth. İhr. San. ve Tic. Ltd. Şti.；Uniview 名录；Mahmutbey Mahallesi 2650 Sokak No:15/11 Bağcılar；+90 850 811 34 36）+ 官网 Contact / Brands（Head Office Mahmutbey 2650 St. No:15/11 Bağcılar；品牌 GENBAYİ / DIGILINE / WESTA / DECON / LEXENCE / FUJITRON / AV-JEFE / TOPP PRO / AJAX / UNV / WI-TEK / EZVIZ / CODE / GST / ALARMLINE II / EDWARDS）+ witekturkiye.com（Wi-tek Türkiye Distribütörü Ekingen Elektronik）+ LinkedIn（Toptan İthalat İhracat；51–200；Bağcılar；1985；多门店）+ RocketReach（$5.8M；43 人；1985），2026-10-28 查；https://www.distributorindex.com/distributors/ekingen-elektronik-paz-ith-ihr-san-ve-tic-ltd-sti/）：**
+
+- 法定名 / 登记号：Ekingen Elektronik Paz. İth. İhr. San. ve Tic. Ltd. Şti.（ekingen.com.tr / genbayi.com；伊斯坦布尔 Bağcılar）— 1985 年成立的安防 / 电子批发进出口商（**Uniview 官方分销 + Wi-Tek 土耳其分销商**；Ajax、Ezviz、GST、Edwards；自有 / 自营品牌 GENBAYİ B2B 平台、DIGILINE、WESTA、DECON、LEXENCE、FUJITRON 等）；51–200 人（≈43），$5.8M；研究档无 KP；表内 1 次跟进无回复 · Ltd. Şti.（İstanbul 商事登记；MERSİS 未取） · 状态 **Active（2026-05 站点更新）** · 成立 1985 · Limited Şirket（私有）
+- 行业码 / 经营范围：安防 / 电子产品批发进出口（CCTV Uniview·Ezviz、报警 Ajax、火灾 GST·Edwards、音频、网络 Wi-Tek；B2B 平台 GENBAYİ；多门店）+ 自营品牌线
+- 注册地址：Mahmutbey Mah. 2650 Sok. No:15/11, Bağcılar / İstanbul（另 Avcılar / Güngören / Bahçelievler 门店）
+- 规模档：中型（43–200 人）
+- 账目：第三方 $5.8M（仅作区间）；—
+- 高管：无具名（研究档无 KP；info@）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **Wi-Tek（中国 PoE 交换机）土耳其分销 + 自营品牌多条 → 懂中国直采、有贴标习惯 → 分销 20% + 可谈贴标（DIGILINE / WESTA 标），B BIG**：STC-028GP / STC-228GP / STC-2216GP / STC-2224GP（对标 Wi-Tek 价位，Marvell L2+ 差异）；一页纸 + 价格对照 + 贴标条款，加厚一次
+  - 收件人 info@ 点名 satın alma müdürü / ürün müdürü；1 次无回复 → 二次触达换切口；发信窗口 Thu 10–12 TRT；升 A 次候选
+- 备注：分销 20% / 可谈贴标；B BIG；加厚一次；升 A 次候选。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -114,8 +128,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Ekingen Elektronik Paz. İth. İhr. San. ve Tic. Ltd. Şti.（İstanbul Bağcılar Mahmutbey；MERSİS 未取） |
+| 成立 | 1985（第 104 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 土耳其 |
-| 其他 | 官网 ekingen.com.tr，语言 tr-TR，快照状态 ok；角色判定来源：待核 |
+| 其他 | 官网 ekingen.com.tr，语言 tr-TR，快照状态 ok；角色判定来源：待核；第 104 批：安防 / 电子批发进出口商（Uniview 官方分销 + Wi-Tek 土耳其分销；Ajax / Ezviz / GST / Edwards；自营品牌 GENBAYİ B2B / DIGILINE / WESTA / DECON / LEXENCE / FUJITRON；多门店；43–200 人；第三方 $5.8M）→ **分销 20% + 可谈贴标（DIGILINE / WESTA 标），B BIG，加厚一次；升 A 次候选**；收件人 info@ 点名 satın alma müdürü；稿内不点 Wi-Tek 名（第 104 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防产品分销（土耳其）
 - **触达通道（公开）**：role: 安防分销商（土耳其，Uniview/Ajax）；region: 土耳其；contact: info@ekingen.com.tr、enes@ekingen.com.tr

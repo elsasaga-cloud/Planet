@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -90,6 +90,23 @@ updated: 2026-10-27
 - 法定假日：12-25 Christmas Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 
+**公司底数 · 第 104 批（US · 1 次检索：官网 About / Careers（2000 年 College Point NY 首店；2010 City of Industry；2011 Plainview；2014–15 Panorama City / Houston；50 Commercial St. Plainview, NY 11803；「Wholesale distributor of OEM surveillance and security products」「design, development, manufacturing and distribution」）+ Crunchbase（Founder & CEO Kevin Zhou；2000；sales@；+1 516-870-3779）+ LinkedIn（51–200；Plainview NY；2000；Partnership）+ RocketReach（$34.1M；146 人）+ Indeed（新增 Markham, Ontario 分部）+ Lensa（11 个网点）+ Yelp（was EasternCCTV），2026-10-28 查；https://enssecurity.com/about-us/）：**
+
+- 法定名 / 登记号：ENS Security（原 EasternCCTV；enssecurity.com；Plainview, New York）— 2000 年 College Point NY 起家的美国安防批发商 + 自有贴标厂（「Wholesale distributor of OEM surveillance products」：摄像机 / NVR / PoE 交换机均贴 ENS 标，表内 PoE 疑 Ewind 代工）；11 个网点（NY / CA / TX / IL / FL + 加拿大 Markham）；Founder & CEO Kevin Zhou；51–200 人（≈146），$34.1M；法定实体名与 NY DOS 号未取 → 部分坐实；KP Marcela Garza；群发 15 次无回复 · NY 实体（法定名 / DOS 号未取 → 部分坐实） · 状态 **Active（2026 站点更新）** · 成立 2000 · 私有（Partnership / Corporation 未核；华裔创办人 Kevin Zhou）
+- 行业码 / 经营范围：安防产品批发分销 + 自有贴标（CCTV 摄像机、DVR/NVR、PoE 交换机、报警、对讲；面向安装商，项目支持）；11 个网点
+- 注册地址：50 Commercial St., Plainview, NY 11803（总部）；分部 College Point NY / City of Industry CA / Panorama City CA / Houston TX / IL / FL / Markham ON
+- 规模档：中型（51–200 人）
+- 账目：第三方 $34.1M（仅作区间）；—
+- 高管：Kevin Zhou — Founder & CEO = 拍板人
+- 高管：Marcela Garza — 研究档 KP（分部销售 / 采购？职务未核）
+- 高管：Xianjie Xiong — 管理层（Glassdoor）
+- 控制人 / 股东：Kevin Zhou（推定）
+- 曾用名：EasternCCTV（2000–）
+- **这意味着什么：**
+  - **全线贴标批发商（PoE 交换机现由同行代工）→ 贴标 OEM 30% 目标，B BIG**：ENS 标 STC-028GP / STC-228GP / STC-2216GP / STC-2224GP / STC-4424GCPM（第二货源 + 管理型升级）；15 次群发无回复 → 二次触达必须换路径：产品 / 采购总监点名 + 华裔创办人（**中文直联与否由 Simon 定，默认否**）；加厚一次
+  - 收件人 marcela.g@ 点名 + 抄 purchasing；发信窗口 Wed 08–10 ET；升 A 候选（回信即 A）
+- 备注：贴标 OEM 30% 目标；B BIG；加厚一次；升 A 候选；部分坐实；15 次无回复。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -129,15 +146,18 @@ updated: 2026-10-27
 - **【用户表】商业 PoE 像 Ewind；大公司**
   > 有同行的 商业PoE / 商业PoE 像是Ewind的；大公司
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Marcela Garza（）marcela.g@enssecurity.com 〔用户表〕
+- **KP**：Marcela Garza（分部销售 / 采购（职务未核；经其转产品部）（第 104 批 官方登记核实 2026-10-28））marcela.g@enssecurity.com 〔用户表〕
+- **KP**：Kevin Zhou（Founder & CEO（华裔；2000 年 College Point NY 起家）= 拍板人（第 104 批 官方登记核实 2026-10-28）） 〔https://www.enssecurity.com/about-us〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | ENS Security（原 EasternCCTV；NY 实体法定名 / DOS 号未取 → 部分坐实） |
+| 成立 | 2000（第 104 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 美国 |
-| 其他 | 官网 enssecurity.com，语言 ?，快照状态 ok；角色判定来源：待核 |
+| 其他 | 官网 enssecurity.com，语言 ?，快照状态 ok；角色判定来源：待核；第 104 批：Plainview NY 安防批发商 + 自有贴标厂（11 个分部，自有 ENS 标 NVR / 摄像机 / PoE 交换机）→ **贴标 OEM 30% 目标，B BIG，加厚一次；升 A 候选**；15 次无回复 → 二次触达换切口；中文直联由 Simon 定（默认否）（第 104 批 官方登记核实 2026-10-28） |
 
 - **业务线**：安防产品分销（美国，大型）
 - **触达通道（公开）**：role: 大型安防分销商（美国，自有标 PoE 现 Ewind）；region: 美国；contact: sales@enssecurity.com、marcela.g@enssecurity.com
@@ -230,7 +250,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Marcela Garza | — | marcela.g@enssecurity.com | 调研核实（公开页） | 用户表 |
+| Marcela Garza | 分部销售 / 采购（职务未核；经其转产品部）（第 104 批 官方登记核实 2026-10-28） | marcela.g@enssecurity.com | 调研核实（公开页） | 用户表 |
+| Kevin Zhou | Founder & CEO（华裔；2000 年 College Point NY 起家）= 拍板人（第 104 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.enssecurity.com/about-us |
 | John G | — | sales@enssecurity.com / marcela.g@enssecurity.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：邮件已推送 15 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
@@ -325,12 +346,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 31）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 31）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

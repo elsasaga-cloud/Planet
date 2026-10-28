@@ -80,6 +80,20 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 104 批（TR · 1 次检索：官网首页 / Hakkımızda（ART Haberleşme ve Güvenlik Sistemleri；Karel Yetkili Satıcı ve Servisi；İçmeler Mah. Aydınlı Yolu Cad. Erdoğan Sk. No:14/K2 Tuzla İstanbul；(0216) 593 4242 - 371 4141；05336224142）+ 产品页（MPLS VPN、Metro Ethernet、İnterkom、Telefon Santralları）；同名 Arter Haberleşme（Kartal）= 他家，不采；法定名 / MERSİS 未取，2026-10-28 查；https://www.arthaberlesme.com/hakkimizda/）：**
+
+- 法定名 / 登记号：ART Haberleşme ve Güvenlik Sistemleri（arthaberlesme.com；伊斯坦布尔 Tuzla）— Karel 授权经销与服务（Kartal 区）：IP 交换机 IPG500/1000、云 PBX、MPLS VPN、Metro Ethernet、对讲、安防（Dahua）、二手设备；法定形式未见 → 部分坐实；研究档无 KP；表内 1 次跟进无回复 · 未取（商号 ART Haberleşme ve Güvenlik Sistemleri；法定形式 / MERSİS 未取 → 部分坐实） · 状态 **Active（站点在线）** · 成立 未取 · 未取（疑个体 / Ltd.）
+- 行业码 / 经营范围：Karel 授权经销与服务（PBX / IP 交换机 / 云 PBX / 运营商线路代理）+ 安防与对讲安装
+- 注册地址：İçmeler Mah. Aydınlı Yolu Cad. Erdoğan Sk. No:14/K2, Tuzla / İstanbul
+- 规模档：小微（推定 <10 人）
+- 账目：—；—
+- 高管：无具名（info@）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **Karel 经销小店（PBX 为主，交换机附带）→ 集成商 25% small，一页纸即止**：STC-028GP / STC-228GP（IP 话机配套 PoE）；不加厚；无回复 → `不动`
+  - 收件人 info@ 点名 sahibi；发信窗口 Thu 10–12 TRT
+- 备注：集成商 25% small；一页纸后不动；部分坐实。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -114,8 +128,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | ART Haberleşme ve Güvenlik Sistemleri（Tuzla；Karel 授权经销与服务；法定形式 / MERSİS 未取 → 部分坐实；勿与 Arter Haberleşme Kartal 混淆） |
+| 成立 | 未取（第 104 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 土耳其 |
-| 其他 | 官网 arthaberlesme.com，语言 ?，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 arthaberlesme.com，语言 ?，快照状态 ok；角色判定来源：官网文案；第 104 批：Tuzla Karel PBX / IP 交换机经销小店（云 PBX、MPLS、对讲、安防）→ **集成商 25% small；一页纸后不动**（第 104 批 官方登记核实 2026-10-28） |
 
 - **业务线**：通信 / 安防系统集成（土耳其）
 - **触达通道（公开）**：role: 通信/安防集成商（土耳其，Karel 经销）；region: 土耳其；contact: info@arthaberlesme.com

@@ -79,6 +79,21 @@ updated: 2026-10-28
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
 
+**公司底数 · 第 104 批（US · 1 次检索：仅命中 intepo.com 首页（INTEPO Sovereign Infrastructure；页面标题仍为「UPS POE Switches and UPS POE Injectors」；IP68 hermetically sealed、convection-cooled；Sentinel / Hermes 框架；2026-05 更新）；BTU Research LLC / Intepo 法人、州、地址、官员均未命中 → 未坐实（规则：1 次未命中即停），2026-10-28 查；https://intepo.com/）：**
+
+- 法定名 / 登记号：BTU Research / INTEPO（bturesearch.com → intepo.com）— 现以「INTEPO Sovereign Infrastructure」定位：面向 AI 推理的去中心化自治边缘基础设施平台（IP68 密封、对流散热节点；「mission intelligence」国防色彩；原 UPS PoE 交换机 / 注入器）；KP Michael Kanarellis；**1 次检索未命中法人登记 → 未坐实** · 未取（未坐实） · 状态 **未取（站点 2026-05 在线）** · 成立 未取 · 未取
+- 行业码 / 经营范围：AI 边缘基础设施平台（IP68 密封节点、自治治理）；历史产品 UPS PoE 交换机 / 注入器
+- 注册地址：未取（研究档：美国）
+- 规模档：未取（推定微型）
+- 账目：—；—
+- 高管：Michael Kanarellis — 研究档 KP（职务未核）
+- 控制人 / 股东：未取
+- 曾用名：BTU Research（UPS PoE 产品）
+- **这意味着什么：**
+  - **IP68 密封 + 国防色彩的自研平台（Saga 不做 IP67/IP68、不碰军工）→ `不动`**；未坐实，不补查
+  - 不发信
+- 备注：不动（IP68 / 国防守界）；未坐实。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -122,15 +137,17 @@ updated: 2026-10-28
 - **【用户表】户外安防 比较专业**
   > 户外安防 感觉比较专业
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Michael Kanarellis（）mkanarellis@bturesearch.com 〔用户表〕
+- **KP**：Michael Kanarellis（研究档 KP（职务未核；INTEPO 转型后不再对口）（第 104 批 官方登记核实 2026-10-28））mkanarellis@bturesearch.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | BTU Research / INTEPO（未坐实：1 次检索未命中登记） |
+| 成立 | 未取（第 104 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 美国 |
-| 其他 | 官网 bturesearch.com，语言 en-US，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 bturesearch.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 104 批：现以「INTEPO Sovereign Infrastructure」定位（AI 推理边缘基础设施、IP68 / 国防线守界）→ **不动**；未坐实不补查（第 104 批 官方登记核实 2026-10-28） |
 
 - **业务线**：AI 边缘物理基础设施平台（美国）
 - **触达通道（公开）**：role: 边缘基础设施平台商（美国，定位转型待核）；region: 美国；contact: info@bturesearch.com、mkanarellis@bturesearch.com
@@ -214,7 +231,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Michael Kanarellis | — | mkanarellis@bturesearch.com | 调研核实（公开页） | 用户表 |
+| Michael Kanarellis | 研究档 KP（职务未核；INTEPO 转型后不再对口）（第 104 批 官方登记核实 2026-10-28） | mkanarellis@bturesearch.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

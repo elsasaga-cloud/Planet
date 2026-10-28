@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -84,6 +84,22 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 104 批（US · 1 次检索：官网 Company（DENWA TECHNOLOGY CORP. founded in 2002 based on GlobalThink；1995 起 IP 电话经验，NASA VoIP 部署；2003 首款 GBILL；销售办公室 1000 N.W. 57th Court Suite 1040, Miami, FL 33126；+1 305 587 2453；sales@denwaip.com）+ Sunbiz 实体名单（DENWA TECHNOLOGY CORP P11000054719 Active；DENWAIP TECH LLC L21000046981 Active；DENWA HOLDINGS, INC. P99000030761 INACT）+ LinkedIn（Denwa IP；Telecommunications；51–200；HQ 1931 NW 150th Ave, Pembroke Pines, FL 33028；2002）+ Google Play 开发者（Denwa Technology Corp；1000 NW 57th Ct Ste 1040 Miami；lmartinez@denwaip.com）+ Tracxn / CB Insights，2026-10-28 查；https://www.denwaip.com/en/company.php）：**
+
+- 法定名 / 登记号：DENWA TECHNOLOGY CORP（Denwa IP；denwaip.com；Miami / Pembroke Pines, Florida）— 2002 年起（GlobalThink 起家）的统一通信 / IP 电话自有品牌商（IP-PBX、软交换、IP 话机、视频会议、WebRTC；「Switching your Life」自有标 PoE 交换机）；美国 + 阿根廷 + 智利办公室，经官方分销网络覆盖美洲；FL Sunbiz **P11000054719**（另 DENWAIP TECH LLC L21000046981）；51–200 人；**KP Juan Jose Michel = Product Manager**；群发 11 次无回复 · FL Sunbiz P11000054719（DENWA TECHNOLOGY CORP）· 另 DENWAIP TECH LLC L21000046981 · 状态 **Active** · 成立 2002（公司起源）；FL 登记 2011 · Florida Profit Corporation（私有；美 / 阿根廷 / 智利）
+- 行业码 / 经营范围：统一通信自有品牌（IP-PBX、软交换、IP 话机、视频、WebRTC）+ 配套自有标 PoE 交换机，经美洲官方分销网络销售
+- 注册地址：1000 NW 57th Court Suite 1040, Miami, FL 33126（销售）；1931 NW 150th Ave, Pembroke Pines, FL 33028（LinkedIn 总部）
+- 规模档：中型（51–200 人）
+- 账目：第三方 $7M–$50M+ 分歧大（不采）；—
+- 高管：Juan Jose Michel — Product Manager = 研究档 KP 本人 = 选型人
+- 高管：L. Martinez — 开发者账户联系人（lmartinez@）
+- 控制人 / 股东：未取
+- 曾用名：GlobalThink（2002）
+- **这意味着什么：**
+  - **自有品牌 UC 厂商，PoE 交换机已挂自家标（表内「商业 PoE 自己的 logo」）→ 贴标 OEM 30% 目标，B BIG**：Denwa 标 STC-028GP / STC-228GP / STC-2224GP（话机配套 PoE）+ STC-4424GCPM；11 次群发无回复 → 二次触达换成产品经理一对一「a second-source PoE line under the Denwa label — CE/FCC, 3-year option, MOQ 1, DAP Miami」；加厚一次
+  - 收件人 juanjomichel@ 点名 Product Manager；发信窗口 Wed 08–10 ET；升 A 候选（回信即 A）
+- 备注：贴标 OEM 30% 目标；B BIG；加厚一次；升 A 候选；11 次无回复。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -126,15 +142,17 @@ updated: 2026-10-27
 - **【用户表】商业 PoE 自己的 logo**
   > 商业PoE 自己的logo；可以尝试多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Juan Jose Michel（）juanjomichel@denwaip.com 〔用户表〕
+- **KP**：Juan Jose Michel（Product Manager = 收件人本人 / 选型人（第 104 批 官方登记核实 2026-10-28））juanjomichel@denwaip.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | DENWA TECHNOLOGY CORP（FL Sunbiz P11000054719；另 DENWAIP TECH LLC L21000046981） |
+| 成立 | 2002（GlobalThink 起源）；FL 登记 2011（第 104 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 美国 |
-| 其他 | 官网 denwaip.com，语言 en，快照状态 ok；角色判定来源：用户表 |
+| 其他 | 官网 denwaip.com，语言 en，快照状态 ok；角色判定来源：用户表；第 104 批：Miami / Pembroke Pines FL 统一通信 / IP 话机品牌商（自有 Denwa 标话机、网关、交换机，美 / 阿根廷 / 拉美渠道）→ **贴标 OEM 30% 目标，B BIG，加厚一次；升 A 候选**；11 次无回复 → 二次触达换切口（第 104 批 官方登记核实 2026-10-28） |
 
 - **业务线**：IP 通信 / UC（自有品牌 DENWA）；配套 PoE 交换机
 - **触达通道（公开）**：role: IP 通信品牌商（美国/拉美，自有标 PoE）；region: 美国；contact: sales@denwaip.com、juanjomichel@denwaip.com
@@ -221,7 +239,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Juan Jose Michel | — | juanjomichel@denwaip.com | 调研核实（公开页） | 用户表 |
+| Juan Jose Michel | Product Manager = 收件人本人 / 选型人（第 104 批 官方登记核实 2026-10-28） | juanjomichel@denwaip.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 11 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -314,12 +332,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 50）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 50）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

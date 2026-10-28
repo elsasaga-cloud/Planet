@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-28
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -101,6 +101,23 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 104 批（US · 1 次检索：Patton 官方 Corporate Profile PDF（Established 1984；Registered Maryland “C” Corporation；Robert R. Patton President；Burton A. Patton EVP Sales/Marketing；Bruce E. Patton VP Finance；总部 Gaithersburg；200+ 分销商；ISO 9001）+ opengovus SAM（PATTON ELECTRONICS CO；7622 Rickenbacker Dr, Gaithersburg, MD 20879-4773；UEI CETFWF46TQ69；业务始于 1984-01-01；officers Burton A. Patton EVP、Jennefer Staub ACCOUNT MANAGER、Natalie Parnell Inside Sales Manager）+ Crunchbase（Bobby Patton 2009-01 任 CEO）+ Zippia（350 人）/ LinkedIn Bobby Patton（170+ 人；出口 30+ 国）+ Thomasnet（Manufacturer；Bobby Patton Pres & CEO；Burt Patton EVP）+ Bloomberg，2026-10-28 查；https://opengovus.com/sam-entity/CETFWF46TQ69）：**
+
+- 法定名 / 登记号：Patton Electronics Co.（Patton LLC；patton.com；Gaithersburg, Maryland）— 1984 年 Patton 兄弟创立的美国网络 / 通信设备制造商（VoIP 网关、UC、SmartNode、工业以太网与光纤延长、SFP；「US Manufactured」；ISO 9001；200+ 分销商覆盖 170 国）；马里兰 C 型公司；SAM UEI CETFWF46TQ69；President & CEO Robert R.「Bobby」Patton，EVP Burton A. Patton（共同创办人 / 所有人）；170–350 人；研究档 KP Jennefer Staub（Account Manager）/ Gary Portellas / Jerry Roznovsky · Maryland C Corporation（SDAT 号未取）· SAM UEI CETFWF46TQ69 · 状态 **Active（SAM 在册；2026 站点）** · 成立 1984 · Corporation（Patton 家族私有）
+- 行业码 / 经营范围：网络 / 通信设备设计制造（VoIP 网关、UC、IoT、工业以太网、光纤延长、SFP、串口）+ 全球分销渠道
+- 注册地址：7622 Rickenbacker Drive, Gaithersburg, MD 20879
+- 规模档：中型（170–350 人）
+- 账目：—；—
+- 高管：Robert R. "Bobby" Patton — President & CEO（2009 起；共同创办人）
+- 高管：Burton A. Patton — EVP / 共同创办人 / 所有人
+- 高管：Jennefer Staub — Account Manager = 研究档 KP（销售侧，非采购）
+- 高管：Joachim Wlotzka — VP Engineering
+- 控制人 / 股东：Patton 家族
+- **这意味着什么：**
+  - **同行制造商（自有工业以太网线，部分外采）→ 贴标 OEM 30% 低中概率**：切口 = 「a managed L2+ PoE / 10G uplink line to complement your industrial Ethernet portfolio」STC-2224GP / STC-4424GCPM / STI-288DGGPM；**不提 TAA / US-made / 政府**；一页纸给产品管理，不加厚
+  - 收件人改 product management（研究档 KP 为销售侧，不是对口）；表内 3 KP 均销售 → 首信一页纸；发信窗口 Wed 08–10 ET
+- 备注：贴标 OEM 30% 低中概率（同行制造商）；一页纸。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -139,17 +156,18 @@ updated: 2026-10-27
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Jerry Roznovsky（）sales@patton.com +1 301 975 1000〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Gary Portellas（）gportellas@patton.com 〔（本地 Clients/ 表格，无公开 URL）〕
-- **KP**：Jennefer Staub（）jenn@patton.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Jennefer Staub（Account Manager（销售侧，非采购；改投产品 / 采购）（第 104 批 官方登记核实 2026-10-28））jenn@patton.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Robert R. (Bobby) Patton（President & CEO（2009 起；共同创办人）= 拍板人（第 104 批 官方登记核实 2026-10-28）） 〔https://www.patton.com/company/〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Patton Electronics Company |
-| 成立 | 1984 |
+| 法定名称 | Patton Electronics Co.（Maryland Corporation；SAM UEI CETFWF46TQ69） |
+| 成立 | 1984（第 104 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 7622 Rickenbacker Dr, Gaithersburg, MD 20879, USA |
-| 其他 | 自有品牌；工业以太网 / 光纤线部分外购 |
+| 其他 | 自有品牌；工业以太网 / 光纤线部分外购；第 104 批：Gaithersburg MD 网络 / 通信设备制造商（VoIP 网关、以太网延长、工业交换机自有线）→ **同行制造商，贴标 OEM 30% 低中概率；一页纸**（补位其没有的 L2+ PoE 规格）（第 104 批 官方登记核实 2026-10-28） |
 
 - **业务线**：VoIP 网关 / UC（自产）；工业以太网交换机、MC、光纤延长（部分外购贴牌）
 - **触达通道（公开）**：role: 美国制造商（OEM 采购）；region: 美国
@@ -265,7 +283,8 @@ updated: 2026-10-27
 |---|---|---|---|---|
 | Jerry Roznovsky | — | sales@patton.com / +1 301 975 1000 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Gary Portellas | — | gportellas@patton.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
-| Jennefer Staub | — | jenn@patton.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Jennefer Staub | Account Manager（销售侧，非采购；改投产品 / 采购）（第 104 批 官方登记核实 2026-10-28） | jenn@patton.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Robert R. (Bobby) Patton | President & CEO（2009 起；共同创办人）= 拍板人（第 104 批 官方登记核实 2026-10-28） | — | 调研核实（公开页） | https://www.patton.com/company/ |
 
 - **通道建议**：邮件已推送 19 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -359,12 +378,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

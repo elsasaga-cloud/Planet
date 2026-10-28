@@ -29,14 +29,22 @@
    "title": "Technical",
    "email": "tomasz.sadowski@stordis.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Technical（研究档）= 技术收件人（第 104 批 官方登记核实 2026-10-28）"
   },
   {
    "name": "Mariusz Ślęzak",
    "title": "（职务待核）",
    "email": "mariusz.szlezak@stordis.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "研究档 KP（职务未核）（第 104 批 官方登记核实 2026-10-28）"
+  },
+  {
+   "name": "Waldemar Scheck",
+   "role": "Geschäftsführer（单独代表；Stuttgart HRB 724261 在册）= 拍板人（经 info@ 转）（第 104 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://stordis.com/legal-notice-impressum/"
   }
  ],
  "grade_override": null,
@@ -48,7 +56,9 @@
  },
  "company_facts": {
   "hq": "德国",
-  "other": "官网 stordis.com，语言 ?，快照状态 unreachable；角色判定来源：待核"
+  "other": "官网 stordis.com，语言 ?，快照状态 unreachable；角色判定来源：待核；第 104 批：开放网络 / 白盒交换机增值分销商（600+ 产品；Microtel 10/25/100G 包探针分销；学术 / 媒体 / 安全 / 运营商 / 金融 / 国防细分 — 国防不提）→ **分销 20%，STH 高速线天然渠道，B BIG，加厚一次（STH-2C24XF-HSI / 8C48DX / 32C + STC-448XGGPM）；升 A 次候选**；6 次无回复 → 二次触达换切口（第 104 批 官方登记核实 2026-10-28）",
+  "legal_name": "STORDIS GmbH（Amtsgericht Stuttgart HRB 724261；Rübteile 24, 72574 Bad Urach，原 Rosenwiesstr. 17 Stuttgart；股本 €50,000；VAT DE 256406445；英国分公司）",
+  "founded": "2007-09-18（第 104 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "开放网络 / 白盒交换机分销（德国，英国分公司）"

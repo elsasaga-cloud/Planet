@@ -32,7 +32,20 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Cedric Krämer",
+   "role": "Geschäftsführer & Gründer（Walsrode HRB 211027 在册）= 收件人（经 info@）（第 104 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.northdata.com/Tech-Point%20GmbH,%20Stuhr/Amtsgericht%20Walsrode%20HRB%20211027"
+  },
+  {
+   "name": "Jussef Hussein",
+   "role": "Geschäftsführung（官网团队页）（第 104 批 官方登记核实 2026-10-28）",
+   "email": "",
+   "source": "https://www.techpoint-gmbh.de/ueber-uns/"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
@@ -42,7 +55,9 @@
  },
  "company_facts": {
   "hq": "德国",
-  "other": "官网 techpoint-gmbh.de，语言 de，快照状态 ok；角色判定来源：待核"
+  "other": "官网 techpoint-gmbh.de，语言 de，快照状态 ok；角色判定来源：待核；第 104 批：零售 / 数字标牌技术系统全国现场服务商（规划、安装、维护、维修）→ **集成商 25% small；首触一页纸后不动**（第 104 批 官方登记核实 2026-10-28）",
+  "legal_name": "Tech-Point GmbH（Amtsgericht Walsrode HRB 211027；Stuhr；股本 €25,000；前身 Hansebau Krämer，2022 更名；勿与 TechPoint GmbH Krefeld / TecPoint GmbH Wolfratshausen 混淆）",
+  "founded": "≈2022（更名登记）（第 104 批 官方登记核实 2026-10-28）"
  },
  "business_lines": [
   "零售业 IT 服务 / 现场服务（德国）"

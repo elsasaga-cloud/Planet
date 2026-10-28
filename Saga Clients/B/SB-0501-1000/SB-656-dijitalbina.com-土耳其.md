@@ -80,6 +80,20 @@ updated: 2026-10-28
 - 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
 
+**公司底数 · 第 104 批（TR · 1 次检索：仅命中 dijitalbina.com Hakkımızda / EcoXpert 页（「Dijital Bina EcoXpert by Schneider iş birliği」）；其余结果为 Schneider 官方与他家 EcoXpert（Emo Otomasyon、İntegra）；法定名、地址、MERSİS 均未命中 → 未坐实（规则：1 次未命中即停），2026-10-28 查；https://dijitalbina.com/hakkimizda/）：**
+
+- 法定名 / 登记号：Dijital Bina（dijitalbina.com；土耳其）— 楼宇自动化集成商（Schneider Electric EcoXpert 伙伴；Jade Bird / Esmi 火灾系统；CCTV）；**1 次检索仅命中官网页面，法定名 / 地址 / 登记均未取 → 未坐实**；表内 1 次跟进无回复 · 未取（未坐实） · 状态 **未取（站点 2025-09 更新）** · 成立 未取 · 未取
+- 行业码 / 经营范围：楼宇自动化 / BMS 集成（Schneider EcoXpert）+ 火灾 + CCTV
+- 注册地址：未取（研究档：土耳其）
+- 规模档：未取（推定小型）
+- 账目：—；—
+- 高管：无具名
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **BMS 集成商（交换机为项目附带）→ 集成商 25% small，一页纸即止**：STC-228GP / STC-2224GP（BMS / CCTV 项目 PoE）；未坐实，不补查；无回复 → `不动`
+  - 收件人 info@；发信窗口 Thu 10–12 TRT
+- 备注：集成商 25% small；未坐实；一页纸后不动。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -114,8 +128,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Dijital Bina（dijitalbina.com；Schneider EcoXpert 伙伴；法定名 / 地址 / 登记均未取 → 未坐实） |
+| 成立 | 未取（第 104 批 官方登记核实 2026-10-28） |
 | 总部/地址 | 土耳其 |
-| 其他 | 官网 dijitalbina.com，语言 tr，快照状态 ok；角色判定来源：官网文案 |
+| 其他 | 官网 dijitalbina.com，语言 tr，快照状态 ok；角色判定来源：官网文案；第 104 批：楼宇自动化 / BMS 集成商（Jade Bird / Esmi 火灾、CCTV）→ **集成商 25% small；一页纸后不动**；未坐实不补查（第 104 批 官方登记核实 2026-10-28） |
 
 - **业务线**：楼宇控制 / 消防系统集成（土耳其）
 - **触达通道（公开）**：role: 楼宇控制/消防系统集成商（土耳其，民用网络侧）；region: 土耳其；contact: info@dijitalbina.com
