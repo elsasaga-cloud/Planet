@@ -2,7 +2,7 @@
 
 > **评级 C**　|　印度　|　档案编号 `SC-1734`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：印度 Joohitha Power Systems Pvt Ltd（gridx.in；光猫 + 工业 2 光 2）：具体型号需求 ✔（STI-154GP / STI-244DGGPM 同口型）对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 印度 · 电力 EPC 集成 25%：Joohitha Power Systems Pvt Ltd — GridX（Hyderabad；CIN U74999TG2011PTC077260；2011；₹10 lakh；SCADA / OLTE / PLCC EPC；11–50 人）坐实；工业 2 光 2 电具体需求 ✔ 工业对位 ✔ → P 池候选
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(IN)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1734
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 4
 country: 印度
 region: 南亚
@@ -39,6 +39,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STI-288DGGPM（工业 L2+ 8 PoE + 2×2.5G SFP）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `gridx.in` → GoDaddy 邮箱（MX：smtp.secureserver.net、mailstore1.secureserver.net）。主机商附带邮箱（GoDaddy 邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 131 批（IN · 1 次检索：correst（CIN / 成立 / 资本 / 地址）+ zoominfo（GridX / 业务 / 规模）；2026-10-29，2026-10-29 查；https://correst.io/public/company/joohitha-power-systems-pvt-ltd）：**
+
+- 法定名 / 登记号：Joohitha Power Systems Private Limited — GridX（gridx.in / joohithapower.com；**CIN U74999TG2011PTC077260；2011-11-04；ROC Hyderabad；授权 / 实收 ₹10 lakh；H.No.1-8-12/20/A/NR, 3rd Floor, Street No.8, Habsiguda, Hyderabad 500007；SCADA / RTU / OLTE（光通信）/ PLCC EPC 咨询，服务电力公用事业；11–50 人；<$5M；info@joohithapower.com**）；表内：光猫 + 工业 2 光 2 电 · U74999TG2011PTC077260（CIN） · 状态 **Active（MCA）** · 成立 2011-11-04 · Private Limited
+- 行业码 / 经营范围：电力 SCADA / 光通信 EPC 咨询（海得拉巴）
+- 注册地址：H.No.1-8-12/20/A/NR, 3rd Floor, Street No.8, Habsiguda, Hyderabad, Telangana 500007
+- 规模档：小型（₹10 lakh；11–50 人）
+- 账目：未取；—
+- 高管：（具名 KP 未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **印度 · 电力 EPC 集成 25%：一页纸一次（STI-154GP $36 样机 4+1+1 SFP / STI-244DGGPM 2 光 2 电场景 + MOQ 1 + 付费样机；光猫走本职线）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST**
+- 备注：集成 25%；P 池候选 ○（具体型号需求 ✔ 工业对位 ✔ 坐实 ✔ Simon 点名印度 ✔）；坐实（CIN）。
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -2,7 +2,7 @@
 
 > **评级 C**　|　坦桑尼亚　|　档案编号 `SC-1803`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：坦桑尼亚 Habari（habari.co.tz；常规千兆小外电 20 个；具名 KP liliani.mboya@ / eliangiringa@）：数量询问 = 真需求 ✔ 对位（STC-028GP）✔ 决策人可点名 ✔；→ 闸 2 查底数（官网 / 目录；BRELA ✗）；非点名国 → 低优先
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 坦桑尼亚 · 区域 ISP 自用 直客 25%：Habari Node Limited（Arusha AICC；Cert. 75466；2010；接续 1994 起 ISP；数据中心）坐实；千兆 20 台数量询问 ✔ 具名 KP ✔ 对位 ✔ → P 池候选
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(已重新审核/一般 常规)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1803
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 3
 country: 坦桑尼亚
 region: 非洲
@@ -38,6 +38,30 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `habari.co.tz` → Microsoft 365（MX：habari-co-tz.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 131 批（TZ · 1 次检索：africa-internet（Cert. No. / 创立 / 牌照 / 地址）+ datacenterplatform（数据中心 / 电话）；2026-10-29，2026-10-29 查；https://www.africa-internet.com/en/provider/tanzania/habari-node/）：**
+
+- 法定名 / 登记号：Habari Node Limited（habari.co.tz；**Arusha，AICC Ngorongoro Wing 4F Room 403；2010 由 Afam (T) Ltd + Arusha Node Marie 创立，Certificate of Incorporation 75466（Companies Act 2002）；接续 1994 起的 Arusha Node Marie ISP；持 National Application Services License；DSL / 无线 / 光纤 + iDirect VSAT；1 个数据中心（colocation）；+255 27 250 4220；sales@habari.co.tz**）；表内：常规千兆小外电 20 个；具名 KP liliani.mboya@ / eliangiringa@ · 75466（Certificate of Incorporation） · 状态 **营业中（目录 2025）** · 成立 2010 · Limited
+- 行业码 / 经营范围：区域 ISP + 数据中心（阿鲁沙）
+- 注册地址：AICC Ngorongoro Wing, 4th Floor, Room 403, Arusha
+- 规模档：小型（区域 ISP）
+- 账目：未取；—
+- 高管：Liliani Mboya — 表内具名 KP（职务未取）
+- 高管：Eliangiringa — 表内具名 KP（职务未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **坦桑尼亚 · 区域 ISP 自用 直客 25% + 预付 100%：点名 Liliani Mboya 一页纸一次（STC-028GP $28 ×20 / STC-228GP $33 ×20 + 运费 DAP 买方清关 + 付费样机）— 其他区常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关；周二 / 周四 当地 10–12**
+- 备注：直客 25%；P 池候选 ○（数量询问 ✔ 具名 KP ✔ 对位 ✔ 坐实 ✔；中型区域 ISP ≠ 巨头运营商）；坐实（Cert. No.）。
 
 ## 基本事实（事实/推断/假设分层）
 

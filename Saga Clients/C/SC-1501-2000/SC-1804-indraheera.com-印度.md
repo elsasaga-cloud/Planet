@@ -2,7 +2,7 @@
 
 > **评级 C**　|　印度　|　档案编号 `SC-1804`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：印度 Indraheera（indraheera.com / .org；洪瑞）：中国品牌分销 ✔ 对位 ✔ Simon 点名印度；洪瑞现供 → Q-33 口径待 Simon（默认只推 SmartByte / Marvell 管理 + 工业线）；→ 闸 2 查底数（zaubacorp）；低优先
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 印度 · 自有品牌（政府渠道）OEM 30%：Indra Heera Group / IHT（Arrah Bihar；Make-in-India 制造商 + RDI；NSDTS Trusted Source / GeM）部分坐实（CIN 未取）；自有品牌 ✔ 政府渠道 ✔ 对位 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon）　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:India　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1804
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 3
 country: 印度
 region: 南亚
@@ -39,6 +39,30 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `indraheera.com` → 主机商 cPanel 类邮箱（MX：mail.indraheera.com）。主机商附带邮箱（主机商 cPanel 类邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+- `indraheera.org` → 主机商 cPanel 类邮箱（MX：mail.indraheera.org）。主机商附带邮箱（主机商 cPanel 类邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 131 批（IN · 1 次检索：indraheera.com/aboutus + indraheera.org/aboutus（地址 / 电话 / 自述资质）+ x.com/indraheeragroup（OEM/ODM 自述）；CIN 未取；2026-10-29，2026-10-29 查；https://www.indraheera.com/aboutus）：**
+
+- 法定名 / 登记号：Indra Heera Group / IHT — Indra Heera Technologies（indraheera.com / indraheera.org；**注册办公室 Narayan Colony, Old Police Line, Arrah, Bhojpur, Bihar 802301；自述 Make-in-India 制造商 + RDI（电信 / 网络 / IoT）；OEM/ODM（X 账号自述）；NSDTS「Trusted Source」+ DPIIT 认可（自述）；GeM / ONDC 上架；60% 元件本地采购（自述）；trade@indraheera.org；+91-6182 459639；Toll-free 18008908761**）；CIN 未取；表内：洪瑞现供 · 未取（CIN 未查；集团自报） · 状态 **营业中（官网 2025）** · 成立 未取 · Private Limited（待核）
+- 行业码 / 经营范围：电信 / 网络自有品牌 + 政府采购（比哈尔 Arrah）
+- 注册地址：Narayan Colony, Old Police Line, Arrah, Bhojpur, Bihar 802301
+- 规模档：小型 → 中型（政府渠道；规模自述）
+- 账目：未取；—
+- 高管：（具名 KP 未取；trade@ 公共）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **印度 · 自有品牌（政府渠道）OEM 30%：一页纸一次（STC-228GP / STC-2224GP / STC-4424GCPM 中性包装 + 贴 IHT 牌 + MOQ 1；洪瑞现供 → Q-33 口径：默认只推 SmartByte / Marvell 管理 + 工业线；「Make in India」要求 = 买方自行处理，Saga 不承诺本地化）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST**
+- 备注：OEM 30%；P 池候选 ★（自有品牌 ✔ 政府渠道 ✔ 对位 ✔ Simon 点名印度 ✔）；部分坐实（CIN 未取）；Q-33 洪瑞现供待 Simon。
 
 ## 基本事实（事实/推断/假设分层）
 

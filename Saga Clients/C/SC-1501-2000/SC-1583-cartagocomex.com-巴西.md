@@ -2,7 +2,7 @@
 
 > **评级 C**　|　巴西　|　档案编号 `SC-1583`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：巴西 Cartago Comex（cartagocomex.com；HTB MC 100 对，拿 BYXGD 牌子来问）：数量询问 = 真需求 ✔ 进口中国同类 ✔ 巴西有先例（Teltex / Parks）；→ 闸 2 查 CNPJ；MC 仅 STC-110XGE 对位 → 低优先
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：△ 观察档 · 巴西进口代理 贸易 20% + 预付 100%：Cartago Comex Ltda（Maringá；CNPJ 36.699.505/0001-33；2020；报关行 + 商业代理；R$1,000；1–10 人）坐实但微型；MC 100 对数量询问 ✔ 有进口经验 ✔ 对位（STC-110XGE）✔ → 入池观察档；可否决
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:BR　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1583
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 7
 country: 巴西
 region: 拉美
@@ -38,6 +38,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STI-110GE（工业迷你 1 光 1 电（MC 位））
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `cartagocomex.com` → Microsoft 365（MX：cartagocomex-com.mail.protection.outlook.com、ms64971320.msv1.invalid）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 131 批（BR · 1 次检索：casadosdados（CNPJ / 资本 / CNAE / 邮箱 / WA）+ econodata（人数）；2026-10-29，2026-10-29 查；https://casadosdados.com.br/solucao/cnpj/cartago-comex-ltda-36699505000133）：**
+
+- 法定名 / 登记号：Cartago Comex Ltda（cartagocomex.com；**CNPJ 36.699.505/0001-33；2020-03-17；Rua Joubert de Carvalho 623, Sala 804, Zona 01, Maringá PR 87013-200；资本 R$1,000；1–10 人；CNAE 主 5250-8/02 报关行 + 次 4619-2/00 商业代理；matheus@cartagocomex.com；WhatsApp 44 98831-9311**）；表内：拿 BYXGD 牌子问 HTB MC 100 对 · 36.699.505/0001-33（CNPJ） · 状态 **Ativa（Receita 2025-08）** · 成立 2020-03-17 · Ltda
+- 行业码 / 经营范围：报关 / 进口代理（马林加）
+- 注册地址：Rua Joubert de Carvalho, 623, Sala 804, Zona 01, Maringá - PR, 87013-200
+- 规模档：微型（R$1,000 资本；1–10 人）
+- 账目：未取；—
+- 高管：Matheus — 登记邮箱 matheus@cartagocomex.com（职务未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **巴西 · 进口代理 △ 观察档 · 贸易 20% + 预付 100%：WA 一页纸一次（STC-110XGE $65 千兆 MC + MOQ 1；百兆 MC 无 → 如实说；代理背后终端 100 对需求）— 巴西常规：英文 / 葡文稿、20 / 25 / 30 + 预付 100%（首单）+ FOB 深圳（巴西进口税高、买方清关；不承诺 Anatel）；周二 / 周四 10–12 BRT**
+- 备注：贸易 20% + 预付 100%；P 池候选 △ 观察档（数量询问 ✔ 进口代理 = 有进口经验者 ✔ 对位（千兆 MC）✔；微型报关行 → 可否决）；坐实（CNPJ）。
 
 ## 基本事实（事实/推断/假设分层）
 

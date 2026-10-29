@@ -2,7 +2,7 @@
 
 > **评级 C**　|　智利　|　档案编号 `SC-1714`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：Omni Ray（omniray.ch；表内「智利」实为 .ch 瑞士 → 国别待核；Moxa）：欧洲主区 ✔ 台湾工业品牌分销 ✔ 对位（STI 工业线）✔；未触达 → 闸 2 查底数（zefix / 官网 Impressum）并核国别
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 欧洲 · 工业自动化分销 20%：Omni Ray AG（Dübendorf；CHE-105.959.689；1950；CHF 2.05M；20–49 人；MD Roger Müller；Moxa 分销）坐实；欧洲 ✔ 台湾工业品牌分销 ✔ 对位 ✔ → P 池候选；表内「智利」→ 瑞士 country_fix 待 Simon
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(杂)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1714
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 5
 country: 智利
 region: 拉美
@@ -38,6 +38,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `omniray.ch` → Microsoft 365（MX：omniray-ch.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 131 批（CH · 1 次检索：northdata（CHE / LEI / 成立日 / 地址）+ kompass（资本 / 人数 / MD / 业务）；2026-10-29，2026-10-29 查；https://www.northdata.com/Omni%20Ray%20AG,%20D%C3%BCbendorf/CHE-105.959.689）：**
+
+- 法定名 / 登记号：Omni Ray AG（omniray.ch；**Schweizer Handelsregister CHE-105.959.689；LEI 967600D74EO0N5PVE227；Im Schörli 5, 8600 Dübendorf；1950-08-16 创立于苏黎世；AG，资本 CHF 2,050,000；20–49 人；工业自动化贸易 + 服务商（kompass：进口 西欧 / 中亚 / 北美）；MD Roger Müller；Moxa 分销**）；表内「智利」实为瑞士 → 国别待核 · CHE-105.959.689 · 状态 **Active（Handelsregister）** · 成立 1950-08-16 · AG
+- 行业码 / 经营范围：工业自动化分销（迪本多夫）
+- 注册地址：Im Schörli 5, 8600 Dübendorf
+- 规模档：中型（CHF 2.05M 资本；20–49 人；75 年）
+- 账目：未取；—
+- 高管：Roger Müller — Managing Director
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **欧洲 · 工业自动化分销 20%：点名 Roger Müller 一页纸一次（STI-280GE / STI-288GPM / STI-488DGGPM $147 工业线 + MOQ 1 + 付费样机；Moxa 不点名；瑞士非 EU 自清关）— 欧洲常规：英文 / 德文稿、20 / 25 / 30 + T/T 50/50 + DAP 买方清关（CE / RoHS / REACH；瑞士非 EU 买方自清关）；周二 / 周四 10–12 CET**
+- 备注：分销 20%；P 池候选 ★（欧洲 ✔ 台湾工业品牌分销 ✔ 对位 ✔ 坐实 ✔ 决策人具名 ✔）；坐实（Handelsregister）；表内「智利」→ 瑞士 country_fix 待 Simon。
 
 ## 基本事实（事实/推断/假设分层）
 

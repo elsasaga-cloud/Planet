@@ -2,7 +2,7 @@
 
 > **评级 C**　|　香港　|　档案编号 `SC-2587`　|　优先级 —　|　状态：已推送 8 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：香港 Tactio（tactio.net；工业 FS / PoE / MC 周边；「工业 FS 看着像国内外壳，有人卖他们的」= 贴自有牌；8 推 0 回）：自有品牌 = OEM 对象 ✔ 对位 ✔；→ 闸 2 查底数（HK 公司注册 / 官网）后换 OEM 稿；低优先　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 香港 · 品牌商 OEM 30%：tactio Corporation（Lai Chi Kok；2006；自有品牌 INEO 工业 PoE + 交换机 8–48 口 + MC + AP 全线）部分坐实（CR 未取）；自有品牌全线 ✔ 已贴牌中国同类 ✔ 对位 ✔ → P 池候选（换 OEM 稿）　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：分销商/经销商（推断）　|　**历史关系**：推送 8 次（2025-02-12 → 2025-10-14）　|　**所在清单**：A优质名单(HK)、AI评估(HK)·DONE、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-2587
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: -27
 country: 香港
 region: 亚太
@@ -39,6 +39,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STI-288DGGPM（工业 L2+ 8 PoE + 2×2.5G SFP）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `tactio.net` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、alt3.aspmx.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 131 批（HK · 1 次检索：tactio.net 首页 / about / contact（创立 / 地址 / 电话 / 产品线）；CR No. 未取；2026-10-29，2026-10-29 查；https://tactio.net/about）：**
+
+- 法定名 / 登记号：tactio Corporation（tactio.net；**2006 创立于香港；Unit 1–9, 8/F, Global Gateway Tower, 63 Wing Hong Street, Lai Chi Kok, Kowloon；Tel (852) 3188 0767；marketing@tactio.net；自有品牌 INEO 工业 PoE 交换机（IGM0840P 8 PoE+ 4 SFP / IGU0420P 4+2）+ 交换机 8–48 口至 10G + MC + PoE + AP + 线缆；自述「R&D 与制造团队」**）；CR No. 未取；表内：「国内外壳贴自有牌，有人卖他们的」，8 推 0 回 · 未取（CR 未查） · 状态 **营业中（官网 2023）** · 成立 2006 · Corporation（Ltd 待核）
+- 行业码 / 经营范围：网络设备自有品牌（香港荔枝角）
+- 注册地址：Unit 1–9, 8th Floor, Global Gateway Tower, 63 Wing Hong Street, Lai Chi Kok, Kowloon, Hong Kong
+- 规模档：小型 → 中型（全线自有品牌）
+- 账目：未取；—
+- 高管：（具名 KP 未取；marketing@ 公共）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **香港 · 品牌商 OEM 30%：换 OEM 稿一页纸一次（STI-288GPM $78.9 / STI-244DGGPM $121 / STC-228GP $33 中性包装 + 贴 tactio / INEO 牌 + MOQ 1 + 付费样机；中文稿可）— 其他区常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关；周二 / 周四 当地 10–12**
+- 备注：OEM 30%；P 池候选 ★（自有品牌全线 ✔ 已贴牌中国同类 ✔ 对位 ✔）；部分坐实（CR 未取）。
 
 ## 基本事实（事实/推断/假设分层）
 

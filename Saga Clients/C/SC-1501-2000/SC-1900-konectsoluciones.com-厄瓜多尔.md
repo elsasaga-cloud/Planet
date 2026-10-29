@@ -2,7 +2,7 @@
 
 > **评级 C**　|　厄瓜多尔　|　档案编号 `SC-1900`　|　优先级 —　|　状态：已推送 1 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：厄瓜多尔 Konect Soluciones（konectsoluciones.com；洪瑞 + 买的海硕的 PON；1 推 0 回）：中国品牌进口 ✔ 对位 ✔ 厄瓜多尔有先例（SC-2402）；洪瑞现供 → Q-33 口径待 Simon；→ 闸 2 查底数（supercias 镜像 / 官网 RUC）；低优先
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 厄瓜多尔 · 进口集成 25%：Soluciones Tecnológicas Konect Cía. Ltda.（Quito；2019；17 人；Tendata 进口商 36 供应商）部分坐实（RUC 未取）；中国品牌进口 ✔ 对位 ✔ WA ✔ 先例 SC-2402 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 1 次（2025-10-08 → 2025-10-08）　|　**所在清单**：E冷名单(厄瓜多尔)、群发(富通天下)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1900
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 1
 country: 厄瓜多尔
 region: 拉美
@@ -39,6 +39,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `konectsoluciones.com` → Microsoft 365（MX：konectsoluciones-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 131 批（EC · 1 次检索：emis（法人名 / 成立 / 人数 / 财务趋势）+ facebook（WA / 邮箱）+ tendata（进口记录）；RUC 未取；2026-10-29，2026-10-29 查；https://www.emis.com/php/company-profile/EC/Soluciones_Tecnologicas_Konect_CiaLtda_es_9651873.html）：**
+
+- 法定名 / 登记号：Soluciones Tecnológicas Konect Cía. Ltda.（konectsoluciones.com；**Quito，Pio Valdivieso E5-10；2019-05-17 成立；17 人（2024）；电信（有线 + 无线）；emis：2024 净收入 −20.8% / 总资产 +15.8%；Tendata：进口商，36 家供应商（中国 / 拉脱维亚）光纤工具 / 适配器 / PTZ 摄像机；WhatsApp +593 99 565 3148；ventas@konectsoluciones.com**）；RUC 未取；表内：洪瑞 + 海硕 PON，1 推 0 回 · 未取（RUC 未查；法人名 emis 坐实） · 状态 **营业中（emis 2025-02）** · 成立 2019-05-17 · Cía. Ltda.
+- 行业码 / 经营范围：电信设备进口 / 集成（基多）
+- 注册地址：Pio Valdivieso E5-10, Quito, Pichincha
+- 规模档：小型（17 人）
+- 账目：未取；—
+- 高管：（具名 KP 未取；WA +593 99 565 3148）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **厄瓜多尔 · 进口集成 25% + 首单预付 100%：WA 一页纸一次（STC-028GP / STC-228GP / STC-2224GP + MOQ 1 + 付费样机；洪瑞现供 → Q-33 口径：默认只推 SmartByte / Marvell 管理线；海硕 PON 不碰）— 其他区常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关；周二 / 周四 当地 10–12**
+- 备注：集成 25%；P 池候选 ○（进口商 ✔ 中国品牌 ✔ 对位 ✔ 厄瓜多尔先例 SC-2402 ✔）；部分坐实（RUC 未取）；Q-33 洪瑞现供待 Simon。
 
 ## 基本事实（事实/推断/假设分层）
 

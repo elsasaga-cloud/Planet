@@ -2,7 +2,7 @@
 
 > **评级 C**　|　未填　|　档案编号 `SC-1675`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：德国 Tekmodul（tekmodul.de；表内国别未填 → .de；「Atop 的，感觉比较专业」= 台湾工业品牌专业经销）：德国主区 ✔ 台湾品牌证据 ✔ 分销主体 ✔ 对位（STI 工业线）✔；未触达 → 闸 2 查底数（handelsregister 镜像 / 官网 Impressum）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 德国主区 · 工业通信分销 20%：tekmodul GmbH（München；HRB 158866；2005；GF Tassilo Halt；electronica 2024 参展；Atop 经销）坐实；主区 ✔ 台湾工业品牌经销 ✔ 对位 ✔ 决策人具名 ✔ → P 池候选
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:DE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1675
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 6
 country: 未填
 region: 未知
@@ -38,6 +38,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `tekmodul.de` → 其他主机商邮箱（www665.your-server.de）（MX：www665.your-server.de）。主机商附带邮箱（www665.your-server.de）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 131 批（DE · 1 次检索：tekmodul.de/impressum（HRB / USt / GF）+ webvalid（2005 成立 / 经营范围）+ electronica 2024 展商页；2026-10-29，2026-10-29 查；https://www.tekmodul.de/impressum/）：**
+
+- 法定名 / 登记号：tekmodul GmbH（tekmodul.de；**Impressum：Lindwurmstraße 97a, 80337 München；Registergericht München HRB 158866；USt-IdNr. DE240985730；Geschäftsführer Tassilo Halt；Gesellschaftsvertrag 2005-03-04；经营范围「技术 / 商业咨询 + 各类技术元件及电子电气设备买卖」；electronica 2024 参展（主展商 CompoTEK GmbH 名下）：5G / 4G / NB-IoT / LoRa / 蓝牙 / WLAN 模块 + 工业通信；+49 89 904 118 29-0；info@tekmodul.de**）；表内：Atop（台湾）工业交换机专业经销，国别未填 → .de · HRB 158866（Amtsgericht München） · 状态 **Active（Impressum 2022 / 展会 2024）** · 成立 2005-03-04 · GmbH
+- 行业码 / 经营范围：工业通信模块 / 元件分销（慕尼黑）
+- 注册地址：Lindwurmstraße 97a, 80337 München
+- 规模档：小型（专业分销；参展）
+- 账目：未取；—
+- 高管：Tassilo Halt — Geschäftsführer
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **德国主区 · 工业通信专业分销 20%：点名 Tassilo Halt 一页纸一次（STI-280GE $46.6 / STI-288GPM $78.9 / STI-244DGGPM $121 工业线 + MOQ 1 + 付费样机；Atop 不点名）— 欧洲常规：英文 / 德文稿、20 / 25 / 30 + T/T 50/50 + DAP 买方清关（CE / RoHS / REACH；瑞士非 EU 买方自清关）；周二 / 周四 10–12 CET**
+- 备注：分销 20%；P 池候选 ★（德国主区 ✔ 台湾工业品牌经销 ✔ 对位 ✔ 坐实 ✔ 决策人具名 ✔）；坐实（Impressum HRB）。
 
 ## 基本事实（事实/推断/假设分层）
 

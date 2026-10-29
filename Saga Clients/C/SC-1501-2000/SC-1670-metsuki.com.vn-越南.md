@@ -2,7 +2,7 @@
 
 > **评级 C**　|　越南　|　档案编号 `SC-1670`　|　优先级 —　|　状态：已推送 21 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：越南 Metsuki（metsuki.com.vn；CCTV 为主 + 商业 / 工业 PoE ONV，问到百千兆 4-8-16-24 口；21 推 0 回）：具体需求 ✔ 进口中国同类 ✔ 对位 ✔；→ 闸 2 查底数（masothue）；四主区外非点名国 → 低优先，换稿点名
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 越南 · CCTV 进口商 分销 20%：Công Ty TNHH Phát Triển Công Nghệ Metsuki VietNam（TP.HCM Q12；MST 0304967173；2007；51–100 人；电子电信进出口 + CCTV）坐实；进口商 ✔ 4-8-16-24 口需求 ✔ 对位 ✔ → P 池候选（21 推 0 回 → 换稿点名口数）
 >
 > **类型**：安防集成/经销（推断）　|　**历史关系**：推送 21 次（2024-01-30 → 2025-01-02）　|　**所在清单**：群发(VN/VN)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1670
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 6
 country: 越南
 region: 亚太
@@ -39,6 +39,30 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STI-288DGGPM（工业 L2+ 8 PoE + 2×2.5G SFP）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `metsuki.com.vn` → 主机商 cPanel 类邮箱（MX：mail8971.maychuemail.com）。主机商附带邮箱（主机商 cPanel 类邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+- `gmail.com` → Google Workspace（MX：gmail-smtp-in.l.google.com、alt1.gmail-smtp-in.l.google.com、alt2.gmail-smtp-in.l.google.com、alt3.gmail-smtp-in.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 131 批（VN · 1 次检索：yellowpages.vn（MST / 成立 / 人数 / 业务 / 地址）；2026-10-29，2026-10-29 查；https://www.yellowpages.vn/lgs/1187674716/cong-ty-tnhh-phat-trien-cong-nghe-metsuki-vietnam.html）：**
+
+- 法定名 / 登记号：Công Ty TNHH Phát Triển Công Nghệ Metsuki VietNam（metsuki.com.vn；**MST 0304967173；2007-05-02 成立；41/1F Tân Thới Nhất 1, KP 3, P. Tân Thới Nhất, Quận 12, TP.HCM；51–100 人；电子电信设备进出口 + CCTV（IP / analog）生产 / 销售 / 安装 + GPS 追踪 + 太阳能；0913 770 579；info@metsuki.com.vn**）；表内：CCTV 为主 + ONV 商业 / 工业 PoE，问 4-8-16-24 口；21 推 0 回 · 0304967173（MST） · 状态 **营业中（目录 2024）** · 成立 2007-05-02 · TNHH（有限）
+- 行业码 / 经营范围：CCTV / 电信设备进出口 + 安装（胡志明市）
+- 注册地址：41/1F Tân Thới Nhất 1, Khu Phố 3, Phường Tân Thới Nhất, Quận 12, TP. Hồ Chí Minh
+- 规模档：中型（51–100 人）
+- 账目：未取；—
+- 高管：（具名 KP 未取；0913 770 579 官网）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **越南 · CCTV 进口商 分销 20%：换稿点名 4 / 8 / 16 / 24 口（STC-028GP $28 / STC-228GP $33 / STC-2216GP / STC-2224GP $86 + MOQ 1 + 付费样机；ONV 不点名）— 其他区常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关；周二 / 周四 当地 10–12**
+- 备注：分销 20%；P 池候选 ○（进口商 ✔ 具体口数需求 ✔ 对位 ✔ 坐实 ✔；21 推 0 回 → 换稿）；坐实（MST）。
 
 ## 基本事实（事实/推断/假设分层）
 

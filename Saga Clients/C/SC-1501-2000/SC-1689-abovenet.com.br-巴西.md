@@ -2,7 +2,7 @@
 
 > **评级 C**　|　巴西　|　档案编号 `SC-1689`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：巴西 Abovenet（abovenet.com.br；三旺的）：中国工业品牌专营 ✔ 对位 ✔ 巴西有先例；未触达 → 闸 2 查 CNPJ；低优先
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 巴西 · 工业网络分销 / 集成 20%：Above-Net Comercio de Informatica, Telecomunicacao e Servicos Ltda（Rio de Janeiro；CNPJ 05.920.155/0001-60；2003；800+ 客户 / 1,500 项目）坐实；已进口中国工业线（三旺）✔ 对位 ✔ 巴西先例 ✔ → P 池候选
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：E冷名单(巴西)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1689
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 5
 country: 巴西
 region: 拉美
@@ -39,6 +39,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `abovenet.com.br` → Microsoft 365（MX：abovenet-com-br.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 131 批（BR · 1 次检索：abovenet.com.br 隐私政策（法人名 / CNPJ / 地址）+ cnpjagora + econodata（成立日 / CNAE）；2026-10-29，2026-10-29 查；https://www.econodata.com.br/consulta-empresa/05920155000160-abovenet-comercio-de-informatica-telecomunicacao-e-servicos-ltda）：**
+
+- 法定名 / 登记号：Above-Net Comercio de Informatica, Telecomunicacao e Servicos Ltda（abovenet.com.br；**CNPJ 05.920.155/0001-60；2003-09-11；Rua Dalcidio Jurandir 255, Loj 123, Barra da Tijuca, Rio de Janeiro RJ 22631-250；CNAE 4651-6/01 计算机设备批发；自述 20+ 年 / 800+ 客户 / 1,500 工程项目；sales@abovenet.com.br；+55 21 2294-3931**）；表内：三旺工业交换机进口 · 05.920.155/0001-60（CNPJ） · 状态 **Ativa（Receita 2026）** · 成立 2003-09-11 · Ltda
+- 行业码 / 经营范围：网络 / 电信设备批发 + 工程（里约）
+- 注册地址：Rua Dalcidio Jurandir, 255, Loj 123, Barra da Tijuca, Rio de Janeiro - RJ, 22631-250
+- 规模档：中型（22 年；800+ 客户）
+- 账目：未取；—
+- 高管：（具名 KP 未取；sales@ 公共）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **巴西 · 工业网络分销 / 集成 20–25%：一页纸一次（STI-280GE / STI-288GPM / STI-244DGGPM 工业线 + STC-228GP + MOQ 1 + 付费样机；三旺不点名）— 巴西常规：英文 / 葡文稿、20 / 25 / 30 + 预付 100%（首单）+ FOB 深圳（巴西进口税高、买方清关；不承诺 Anatel）；周二 / 周四 10–12 BRT**
+- 备注：分销 20%；P 池候选 ★（分销 + 工程 ✔ 已进口中国工业线 ✔ 对位 ✔ 坐实 ✔ 巴西先例 Teltex / Parks）；坐实（CNPJ）。
 
 ## 基本事实（事实/推断/假设分层）
 

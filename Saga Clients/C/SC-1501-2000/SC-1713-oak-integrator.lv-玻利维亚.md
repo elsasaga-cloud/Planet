@@ -2,7 +2,7 @@
 
 > **评级 C**　|　玻利维亚　|　档案编号 `SC-1713`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：OAK Integrator（oak-integrator.lv；表内「玻利维亚」实为 .lv 拉脱维亚 → 国别待核；Korenix）：欧洲 ✔ 台湾工业品牌集成 ✔ 对位 ✔；未触达 → 闸 2 查底数（firmas.lv / lursoft）并核国别
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 欧洲 · 工业自动化小分销 20%：OAK INTEGRATOR Products SIA（Rīga；Reģ. 40003540103；2001；原 Beijer Electronics SIA；Mitsubishi Electric 独家 + Westermo / Korenix；$1.33M / 3 人）坐实；欧洲 ✔ 台湾工业品牌集成 ✔ 对位 ✔ → P 池候选；表内「玻利维亚」→ 拉脱维亚 country_fix 待 Simon
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(杂)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1713
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 5
 country: 玻利维亚
 region: 拉美
@@ -38,6 +38,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `oak-integrator.lv` → Microsoft 365（MX：oakintegrator-lv0i.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 131 批（LV · 1 次检索：oak-integrator.lv/news（更名 / 品牌线）+ tracxn（两法人 Reģ. Nr. / 营收 / 人数 / 地址）；2026-10-29，2026-10-29 查；https://tracxn.com/d/companies/oak-integrator/__O2MYpO0NTFEGt-ZrtiwTJY37PXdoWkQrf5ABZ_ov2m4）：**
+
+- 法定名 / 登记号：OAK INTEGRATOR Products SIA（oak-integrator.lv；**Reģ. Nr. 40003540103；2001-04-04；原 Beijer Electronics SIA，2016-02-01 更名；Rīga, Mežkalna iela 5；拉脱维亚 Mitsubishi Electric 独家分销 + Beijer / Westermo / IDEC / Power Electronics / Korenix；2023 营收 $1.33M / 3 人；姊妹 OAK Integrator Solutions SIA（Reģ. 40103496615；2011-12-30；$286K / 1 人）**）；表内「玻利维亚」实为拉脱维亚 → 国别待核 · 40003540103（Products SIA）/ 40103496615（Solutions SIA） · 状态 **Active（tracxn 2025）** · 成立 2001-04-04 · SIA
+- 行业码 / 经营范围：工业自动化分销 + PLC 编程（里加）
+- 注册地址：Mežkalna iela 5, Rīga
+- 规模档：小型（$1.33M；3 人）
+- 账目：未取；—
+- 高管：（具名 KP 未取；官网 Happy clients 页列客户 ORKLA Latvija 等）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **欧洲 · 工业自动化小分销 20% + 首单 T/T 50/50：一页纸一次（STI-280GE / STI-288GPM 工业线 + MOQ 1 + 付费样机；Korenix / Westermo 不点名）— 欧洲常规：英文 / 德文稿、20 / 25 / 30 + T/T 50/50 + DAP 买方清关（CE / RoHS / REACH；瑞士非 EU 买方自清关）；周二 / 周四 10–12 CET**
+- 备注：分销 20%；P 池候选 ○（欧洲 ✔ 台湾工业品牌集成 ✔ 对位 ✔ 坐实 ✔；小型）；坐实（Reģ. Nr.）；表内「玻利维亚」→ 拉脱维亚 country_fix 待 Simon。
 
 ## 基本事实（事实/推断/假设分层）
 

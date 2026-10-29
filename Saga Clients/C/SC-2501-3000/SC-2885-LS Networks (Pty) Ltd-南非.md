@@ -2,7 +2,7 @@
 
 > **评级 C**　|　南非　|　档案编号 `SC-2885`　|　优先级 —　|　状态：用户判定不行
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：南非 LS Networks (Pty) Ltd（plugandplay.co.za；HDMI + 工业级 PoE 交换机 + MC；Simon 备注「单独跟进」）：真需求 ✔ 对位 ✔ 南非有先例（MiRO / Scoop / Reditron 已入池）；→ 闸 2 查底数（CIPC 镜像 / 官网）；低优先
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 南非 · 安防集成 25%：Plug & Play Solutions = 表内 LS Networks (Pty) Ltd（Centurion；2012；35 人；$5M；Sales Exec Kelvin Jordaan）部分坐实（Reg No 未取）；工业 PoE + MC 真需求 ✔ 对位 ✔ 南非先例 ✔ Simon「单独跟进」✔ → P 池候选
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:South Africa、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-2885
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: -49
 country: 南非
 region: 非洲
@@ -38,6 +38,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STI-288DGGPM（工业 L2+ 8 PoE + 2×2.5G SFP）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `plugandplay.co.za` → Microsoft 365（MX：plugandplay-co-za.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 131 批（ZA · 1 次检索：plugandplay.co.za（地址 / 电话 / 业务）+ facebook + rocketreach（2012 / 35 人 / $5M / 销售）；Reg No 未取；2026-10-29，2026-10-29 查；https://plugandplay.co.za/）：**
+
+- 法定名 / 登记号：Plug & Play Solutions = 表内 LS Networks (Pty) Ltd（plugandplay.co.za；**官网：1002 Pretorius Ave, Lyttelton Manor, Centurion 0157；012 667 2513 / 0861 PLUG PLAY；sales@plugandplay.co.za；AI 视频分析 + 门禁 + 安防集成（住宅 + 商业）；rocketreach：2012 创立 / 35 人 / $5M；Sales Executive Kelvin Jordaan**）；Reg No 未取，LS Networks 法人名与官网品牌对应未证；表内：HDMI + 工业级 PoE 交换机 + MC，Simon「单独跟进」 · 未取（Reg No 未查；LS Networks (Pty) Ltd 法人名表内自报） · 状态 **营业中（官网 2026）** · 成立 2012 · (Pty) Ltd（待核）
+- 行业码 / 经营范围：安防集成（森图里恩）
+- 注册地址：1002 Pretorius Ave, Lyttelton Manor, Centurion, 0157
+- 规模档：小型（35 人；$5M）
+- 账目：未取；—
+- 高管：Kelvin Jordaan — Sales Executive
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **南非 · 安防集成 25%：一页纸一次（STI-288GPM $78.9 / STI-244DGGPM $121 工业 PoE + STC-110XGE 千兆 MC + MOQ 1 + 付费样机；HDMI 延长器无 → 如实说）— 其他区常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关；周二 / 周四 当地 10–12**
+- 备注：集成 25%；P 池候选 ○（真需求 ✔ 对位 ✔ 南非先例 ✔）；部分坐实（Reg No 未取；法人名待对）。
 
 ## 基本事实（事实/推断/假设分层）
 

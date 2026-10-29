@@ -2,7 +2,7 @@
 
 > **评级 C**　|　印度　|　档案编号 `SC-2078`　|　优先级 —　|　状态：发不过去
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：印度 Zebeye → Zebronics（zebeye.com 退信；zebronics.com 正常 = 换址；洪瑞的商业 PoE / FS 贴 Zebronics 牌在卖）：自有品牌 = OEM 对象 ✔ Simon 点名印度 ✔ 对位 ✔；洪瑞现供 → Q-33 口径待 Simon；→ 闸 2 查底数（zaubacorp）+ 换 zebronics.com 地址　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 印度 · 全国品牌商 OEM 30%（长线）：Zebronics India Pvt Ltd（Chennai；CIN U30000TN1997PTC038037；1997；实收 ₹3.28 Cr；31 GST 登记；MCA 邮箱 sandeep.doshi@）坐实；自有品牌 ✔ 已贴牌中国 PoE ✔ 大型 ✔ 对位 ✔ → P 池候选（换 zebronics.com 地址；洪瑞现供 → Q-33 口径待 Simon）　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：分销商/经销商（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(已重新审核/一般 常规)、在用同行产品　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-2078
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: -4
 country: 印度
 region: 南亚
@@ -39,6 +39,30 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-28DGGPM（8 口 PoE + 2 SFP L2+）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `zebeye.com` → 主机商 cPanel 类邮箱（MX：mail.zebeye.com）。主机商附带邮箱（主机商 cPanel 类邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+- `zebronics.com` → Google Workspace（MX：smtp.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 131 批（IN · 1 次检索：thecompanycheck（CIN / 资本 / GST 网络）+ companyvakil（地址 / MCA 邮箱）+ kompass（制造 + 分销 / 监控线）；2026-10-29，2026-10-29 查；https://www.thecompanycheck.com/company/zebronics-india-private-limited/U30000TN1997PTC038037）：**
+
+- 法定名 / 登记号：Zebronics India Private Limited（zebronics.com；表内 zebeye.com 退信；**CIN U30000TN1997PTC038037（companyvakil 载 U30006TN1997PTC038037）；1997-04-23；ROC Chennai；授权 ₹4 Cr / 实收 ₹3.28 Cr；GSTIN 33AABCT0664P1Z4；31 个 GST 登记（25 活跃）= 全国网络；No.118 Poonamallee High Road, Vepery, Chennai 600084；MCA 登记邮箱 sandeep.doshi@zebronics.com；消费电子 + 监控自有品牌制造 / 零售**）；表内：洪瑞商业 PoE / FS 贴 Zebronics 牌 · U30000TN1997PTC038037（CIN） · 状态 **Active（MCA 2026）** · 成立 1997-04-23 · Private Limited
+- 行业码 / 经营范围：消费电子 / 监控自有品牌（金奈）
+- 注册地址：No.118, Poonamallee High Road, Vepery, Chennai, Tamil Nadu 600084
+- 规模档：大型（实收 ₹3.28 Cr；31 GST 登记；全国品牌）
+- 账目：未取；—
+- 高管：Sandeep Doshi — MCA 登记邮箱 sandeep.doshi@zebronics.com（职务未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **印度 · 全国品牌商 OEM 30%（长线）：换 zebronics.com 地址点名采购 / 监控产品线一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-2224GP $86 中性包装 + 贴 Zebronics 牌 + MOQ 1；洪瑞现供 → Q-33 口径：默认只推 SmartByte / Marvell 管理线）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST**
+- 备注：OEM 30%；P 池候选 ★ 长线（自有品牌 ✔ 大型 ✔ 已贴牌中国 PoE ✔ 对位 ✔ 坐实 ✔）；坐实（CIN / GST）；Q-33 洪瑞现供待 Simon。
 
 ## 基本事实（事实/推断/假设分层）
 

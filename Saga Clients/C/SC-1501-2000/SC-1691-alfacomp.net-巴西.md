@@ -2,7 +2,7 @@
 
 > **评级 C**　|　巴西　|　档案编号 `SC-1691`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：巴西 Alfacomp（alfacomp.net / alfacomp.ind.br；全线迈威产品 + 官网 WA 按钮）：中国工业品牌全线 ✔ 对位 ✔ WA 路径 ✔ 巴西有先例；未触达 → 闸 2 查 CNPJ；低优先
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 巴西 · 工业分销 20%：Alfacomp Automação Industrial Ltda（Porto Alegre + Campinas；CNPJ 04.430.358/0001-05；2001；R$400K）坐实；中国工业品牌全线（迈威）✔ 对位 ✔ WA ✔ → P 池候选
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：E冷名单(巴西)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1691
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 5
 country: 巴西
 region: 拉美
@@ -39,6 +39,30 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `alfacomp.net` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、alt3.aspmx.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+- `alfacomp.ind.br` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、alt3.aspmx.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 131 批（BR · 1 次检索：cnpja（分支 CNPJ / 资本 / 邮箱 / CNAE）+ cnpj.biz（总部 CNPJ / 成立日）；2026-10-29，2026-10-29 查；https://cnpja.com/en/office/04430358000296）：**
+
+- 法定名 / 登记号：Alfacomp Automação Industrial Ltda（alfacomp.ind.br / alfacomp.net；**CNPJ 04.430.358/0001-05（总部 Porto Alegre RS，2001-05-10）+ 分支 04.430.358/0002-96（Campinas SP Swiss Park, Av. Antonio Artioli 570 Bloco Lacorno Sala 204；Ativa；资本 R$400,000；matheus@alfacomp.ind.br；(51) 3029-7161）；CNAE 4751-2/01 信息设备零售 + 4742-3/00 电气材料 + 3314-7/05 工业传输设备维修**）；表内：全线迈威产品 + 官网 WA · 04.430.358/0001-05（CNPJ 总部） · 状态 **Ativa（Receita 2025-10）** · 成立 2001-05-10 · Ltda
+- 行业码 / 经营范围：工业自动化 / 网络设备分销 + 维修（阿雷格里港 / 坎皮纳斯）
+- 注册地址：Av. Antonio Artioli, 570, Bloco Lacorno Sala 204, Swiss Park, Campinas - SP, 13049-900（分支）
+- 规模档：中型（两地；R$400K 资本）
+- 账目：未取；—
+- 高管：Matheus — 分支登记邮箱 matheus@alfacomp.ind.br（职务未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **巴西 · 工业分销 20%：WA + 邮件一页纸一次（STI-280GE / STI-288GPM / STI-488DGGPM 工业线 + MOQ 1 + 付费样机；迈威不点名）— 巴西常规：英文 / 葡文稿、20 / 25 / 30 + 预付 100%（首单）+ FOB 深圳（巴西进口税高、买方清关；不承诺 Anatel）；周二 / 周四 10–12 BRT**
+- 备注：分销 20%；P 池候选 ★（工业分销 ✔ 中国工业品牌全线 ✔ 对位 ✔ WA ✔ 坐实 ✔）；坐实（CNPJ 两处）。
 
 ## 基本事实（事实/推断/假设分层）
 

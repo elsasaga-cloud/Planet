@@ -2,7 +2,7 @@
 
 > **评级 C**　|　孟加拉国　|　档案编号 `SC-2891`　|　优先级 —　|　状态：用户判定不行
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：孟加拉 Trimatrik（trimatrikbd.com；「ONV 的商业 PoE 带标卖」；官网手机 +880 1785 777722）：贴自有牌 = OEM 对象 ✔ 对位 ✔；非点名国 → 闸 2 查底数（官网 / RJSC 镜像）后换 OEM 稿；低优先　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：△ 观察档 · 孟加拉贴牌 CCTV 店 OEM 30% + 预付 100%：Trimatrik Multimedia（Dhaka Uttara + Mouchak 分店；进口商 / 安装）部分坐实（注册号未取）；ONV 带标卖 = 贴自有牌 ✔ 对位 ✔ WA 手机 ✔；小型 + 非点名国 → 入池观察档；可否决　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:其他亚洲、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-2891
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: -49
 country: 孟加拉国
 region: 南亚
@@ -39,6 +39,30 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-28DGGPM（8 口 PoE + 2 SFP L2+）
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `trimatrikbd.com` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、alt3.aspmx.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+- `gmail.com` → Google Workspace（MX：gmail-smtp-in.l.google.com、alt1.gmail-smtp-in.l.google.com、alt2.gmail-smtp-in.l.google.com、alt3.gmail-smtp-in.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 131 批（BD · 1 次检索：trimatrikbd.com 两页（地址 / 分店 / 热线 / 业务）+ YouTube 频道页；注册号未取；2026-10-29，2026-10-29 查；https://www.trimatrikbd.com/cctv-camera-company-in-bangladesh）：**
+
+- 法定名 / 登记号：Trimatrik Multimedia（trimatrikbd.com；**Corporate Office House#01 (GF), Road#20/B, Sector#04, Uttara, Dhaka-1230 + Mouchak 分店 Shop#34, 66 Property Plaza, Malibagh；热线 01711-461346 / 01785-777722 / 01711-766062 等；info@trimatrikbd.com；自述 CCTV supplier / importer / solution provider（IP / HD 摄像机、门禁、考勤）；YouTube 频道 TRIMATRIK BD**）；注册号未取；表内：ONV 商业 PoE 带标卖 · 未取（RJSC 未查） · 状态 **营业中（官网 2022 / YouTube）** · 成立 未取 · 未取（疑 proprietorship / Ltd）
+- 行业码 / 经营范围：CCTV 进口 + 零售 + 安装（达卡）
+- 注册地址：House#01 (Ground Floor), Road#20/B, Sector#04, Uttara, Dhaka-1230
+- 规模档：小型（2 店；多热线）
+- 账目：未取；—
+- 高管：（具名 KP 未取；官网手机 +880 1785 777722 WA 可试）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **孟加拉 · 贴牌 CCTV 店 △ 观察档 · OEM 30% + 预付 100%：WA 一页纸一次（STC-028GP $28 / STC-228GP $33 中性包装 + 贴 Trimatrik 牌 + MOQ 1；ONV 不点名）— 其他区常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关；周二 / 周四 当地 10–12**
+- 备注：OEM 30% + 预付 100%；P 池候选 △ 观察档（贴自有牌 ✔ 进口商 ✔ 对位 ✔；小型 + 非点名国 → 可否决）；部分坐实（注册号未取）。
 
 ## 基本事实（事实/推断/假设分层）
 
