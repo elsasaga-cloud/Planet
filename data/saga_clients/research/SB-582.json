@@ -45,7 +45,8 @@
    "title": "（负责人）",
    "email": "roh@smartintercom.eu",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "联系人（研究档 KP；主动要 4 口工业 PoE 报价）= 收件人 — 一页纸一次：集成商 25% B、STI-054GP 4 PoE + 1 GE / STI-154GP 一口价 + MOQ 1 + 付费样机；FOB 深圳 或 DAP 欧盟 买方清关；周四 12–14 当地；一句话问国别 （第 122 批 官方登记核实 2026-10-29）"
   }
  ],
  "grade_override": null,
@@ -56,8 +57,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "未填",
-  "other": "官网 smartintercom.eu，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  "hq": "未取（欧洲，.eu）（第 122 批 官方登记核实 2026-10-29）",
+  "other": "官网 smartintercom.eu，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 122 批：Akuvox 高端门禁对讲分销商、我方欠一页纸 → **集成商 25% 一页纸一次（预付 100%）**；未坐实（第 122 批 官方登记核实 2026-10-29）",
+  "legal_name": "SmartIntercom（.eu；1 查无命中；国别待核）",
+  "founded": "未取（第 122 批 官方登记核实 2026-10-29）",
+  "size": "小型（推定）（第 122 批 官方登记核实 2026-10-29）"
  },
  "business_lines": [
   "门禁对讲系统分销（Akuvox）"

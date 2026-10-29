@@ -57,14 +57,16 @@
    "title": "（表内联系人）",
    "email": "rndijuye@gmail.com",
    "phone": "+255 769 320 545",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "联系人（研究档 KP；2024–2025 问 5 电口价 / 确认千兆 / 工业 16–24 口「可能会用到」）= 收件人 — 一页纸一次：集成商 25% B、STI-054GP / STI-154GP + STI-288DGGPM $137 / STC-2216GP 一口价 + MOQ 1 + 付费样机；抄 CEO 公共箱 — 坦桑尼亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 达市、TBS / TCRA 不声称（第 122 批 官方登记核实 2026-10-29）"
   },
   {
    "name": "Eng. Daudi Charles",
    "title": "Co-Founder & CEO",
    "email": "info@teratech.co.tz",
    "phone": "+255 754 247 576",
-   "source": "https://ttel.co.tz/about"
+   "source": "https://ttel.co.tz/about",
+   "role": "CEO & Co-Founder（官网 about 2026-10-29；ERB 注册工程师）（第 122 批 官方登记核实 2026-10-29）"
   }
  ],
  "grade_override": null,
@@ -75,11 +77,11 @@
   "level": "B 级加厚 v1（官网 + LinkedIn + 名录核对）"
  },
  "company_facts": {
-  "legal_name": "Tera Technologies and Engineering Limited",
-  "founded": "2011-09-09",
-  "hq": "Mbezi Beach / Sinza, Dar es Salaam, Tanzania（P.O. Box 31257）",
-  "size": "35–50+ 人，营收约 $5M",
-  "other": "CRB Class One（Telecom/ICT/Security）；ASIS 会员"
+  "legal_name": "Tera Technologies and Engineering Limited（Certificate of Incorporation No. 85715，公司自述；BRELA 未核）",
+  "founded": "2011-09-09（第 122 批 官方登记核实 2026-10-29）",
+  "hq": "Plot No. 2283, Block H, Tarangire Street, Africana Drive, Mbezi Beach, P.O. Box 31257, Dar es Salaam, Tanzania（+255 22 270 1612；第二办公 Sinza Block A, Plot 173）（第 122 批 官方登记核实 2026-10-29）",
+  "size": "小型（11–50；约 10 名工程师）（第 122 批 官方登记核实 2026-10-29）",
+  "other": "CRB Class One（Telecom/ICT/Security）；ASIS 会员；第 122 批：CRB 一级承包商（电信 / ICT / 安防），世行 / TMA 中标 → **集成商 25% 一页纸一次（预付 100%）**；坐实（证书号 + 官网地址 + CEO）（第 122 批 官方登记核实 2026-10-29）"
  },
  "business_lines": [
   "电信与微波基础设施（站点建设、企业链路）",

@@ -46,10 +46,14 @@
  "kp": [
   {
    "name": "Rob（姓待核）",
-   "role": "（用户表邮箱前缀；疑负责人）",
+   "role": "Owner（ZoomInfo：Howell Robert = Rob）= 收件人 — 回访一页纸一次：集成商 25% B、STC-110XGE $65 + STC-228GP $33 / STC-2216GP 游艇机房一口价 + MOQ 1；船级 / 海事认证不声称 — 美国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP（买方清关）、NDAA / TAA / UL 不声称；周三 08–10 当地（第 122 批 官方登记核实 2026-10-29）",
    "email": "rob@prestigevsat.com（用户表）",
    "phone": "—",
    "source": "（本地 Clients/ 表格，无公开 URL）"
+  },
+  {
+   "name": "William Bye",
+   "role": "President / Registered Agent / Director & Engineer（Sunbiz + ZoomInfo 2026-10-29；无公开邮箱）（第 122 批 官方登记核实 2026-10-29）"
   }
  ],
  "grade_override": "B",
@@ -61,11 +65,11 @@
   "level": "B 级加厚 v1（官网 + 登记核对；国家待核 US/PE）"
  },
  "company_facts": {
-  "legal_name": "PRESTIGE SATELLITE COMMUNICATIONS INC（Florida P16000009000）",
-  "founded": "2016-01-26（FL 登记）",
-  "hq": "2873 SW 14th Street, Fort Lauderdale, FL 33312（登记）",
-  "size": "1–10（ZoomInfo）",
-  "other": "游艇 VSAT/TVRO/IT；用户表后缀 S.A.C.（秘鲁）待核"
+  "legal_name": "Prestige Satellite Communications Inc.（Florida Profit Corporation；Document No. P16000009000；EIN 81-1222208；ACTIVE）",
+  "founded": "2016-01-26（第 122 批 官方登记核实 2026-10-29）",
+  "hq": "2873 SW 14th Street, Fort Lauderdale, FL 33312, USA（第 122 批 官方登记核实 2026-10-29）",
+  "size": "微型（1–10）（第 122 批 官方登记核实 2026-10-29）",
+  "other": "游艇 VSAT/TVRO/IT；用户表后缀 S.A.C.（秘鲁）待核；第 122 批：表内「秘鲁 S.A.C.」误 → country_fix 美国（Sunbiz 登记劳德代尔堡）；★ 老客户（买过 MC + PoE）→ **回访一页纸一次；回信即升 A 候选**；坐实（Sunbiz 文件号 + EIN + 状态 + 地址）（第 122 批 官方登记核实 2026-10-29）"
  },
  "business_lines": [
   "超级游艇 VSAT / TVRO 安装维护",
@@ -131,5 +135,6 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
- }
+ },
+ "country_fix": "美国"
 }

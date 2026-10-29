@@ -43,7 +43,12 @@
    "title": "（职务待核）",
    "email": "ahmed.sonbol@c-techeg.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "联系人（研究档 KP；自站 RFQ 工业 1 光 1 电 PoE）= 收件人 — 一页纸一次：集成商 25% B、STI-154GP（1 SFP + 1 GE + 4 PoE）+ STI-054GP 一口价 + MOQ 1 + 付费样机 — 埃及常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方清关）、NTRA 不声称（第 122 批 官方登记核实 2026-10-29）"
+  },
+  {
+   "name": "Hamdy Elbadeea",
+   "role": "Managing Director（RocketReach 2026-10-29；无公开邮箱）（第 122 批 官方登记核实 2026-10-29）"
   }
  ],
  "grade_override": null,
@@ -54,8 +59,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "埃及",
-  "other": "官网 c-techeg.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Mohamed Maqrif St. 25, Nasr City, Cairo, Egypt（另 5th Settlement, New Cairo；+20 102 858 0334）（第 122 批 官方登记核实 2026-10-29）",
+  "other": "官网 c-techeg.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 122 批：网络 / 网安 / 数据中心 / ELV 集成 → **集成商 25% 一页纸一次（预付 100%）**；部分坐实（官网地址 + 成立年 + MD）（第 122 批 官方登记核实 2026-10-29）",
+  "legal_name": "C-TECH（埃及系统集成商；商业登记号 1 查未得）",
+  "founded": "2017（第 122 批 官方登记核实 2026-10-29）",
+  "size": "小型（<25–33）（第 122 批 官方登记核实 2026-10-29）"
  },
  "business_lines": [
   "系统集成（数据中心 / 自动化 / 安防，埃及）"

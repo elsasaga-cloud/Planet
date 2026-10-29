@@ -1,109 +1,109 @@
 {
-  "code": "SB-016",
-  "name_official": "（坦桑尼亚 · Richard Jackson，仅电话）",
-  "researched_at": "2026-10-21",
-  "website_status": "无域名（免费邮箱/仅电话）",
-  "summary": "坦桑尼亚买家 Richard Jackson（仅 WA 电话，无邮箱）。表内「主动联系问资料，说要下单」，2024-02 对 2 光 8 PoE 管理出货信息回「问了 catalog」；19 次推送 1 次实质回复，未成交。→ B 25%。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "表内需求与回复",
-      "quote": "主动联系问资料 说要下单；2024.2.28 发了2光8POE管理出货信息 → 问了catalog/2023.3.20",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Richard Jackson",
-      "role": "（个人）",
-      "email": "",
-      "phone": "+255 768 043 267（WA 已加）",
-      "source": "用户 Clients 表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "无域名 · 仅表内信息"
-  },
-  "company_facts": {
-    "legal_name": "待核",
-    "founded": "待核",
-    "hq": "待核",
-    "size": "待核",
-    "other": "+255 768 043 267；无邮箱/公司"
-  },
-  "business_lines": [
-    "待核（见表内需求）"
-  ],
-  "products_seen": [],
-  "channels": {
-    "contact": "Richard Jackson，+255 768 043 267（WA 已加）"
-  },
-  "signals": [
-    "曾主动联系并称要下单（未兑现）"
-  ],
-  "risks": [
-    "无邮箱与公司信息",
-    "坦桑尼亚小额订单物流/付款门槛"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 25,
-    "why": "其关注 2 光 8 PoE 管理出货信息 → 8 PoE + 2 SFP L2+ 起手"
-  },
-  "email_hook": "You asked for our catalog after the 8-port PoE managed switch shipment photos — I can send the PDF and a landed-cost estimate to Dar es Salaam for 5 or 10 units; which size is closer?",
-  "mail_review": {
-    "binding": {
-      "level": "轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「主动联系问资料 说要下单；2024.2.28 发了2光8POE管理出货信息 → 问了catalog/2023.3.20」；S/A 邮箱 0 封；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
-      "type": "—",
-      "sieve": "3（已加 WhatsApp，表内有往来）",
-      "stop": "仓库只有用户表一行；往来在 Simon 手机",
-      "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
-      "lane": "坦桑尼亚 非主攻",
-      "cadence": "一封",
-      "evidence": "gmail_digest：out 0；用户表：「主动联系问资料 说要下单；2024.2.28 发了2光8POE管理出货信息 → 问了catalog/2023.3.20」；研究档 risks：无邮箱与公司信息"
-    },
-    "situation": "坦桑尼亚买家 Richard Jackson（仅 WA 电话，无邮箱）。表内「主动联系问资料，说要下单」，2024-02 对 2 光 8 PoE 管理出货信息回「问了 catalog」；19 次推送 1 次实质回复，未成交。→ B 25%。",
-    "need": "其关注 2 光 8 PoE 管理出货信息 → 8 PoE + 2 SFP L2+ 起手",
-    "breakpoint": "无邮箱与公司信息",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）",
-      "why": "其关注 2 光 8 PoE 管理出货信息 → 8 PoE + 2 SFP L2+ 起手",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11（Simon）",
-      "channel": "A 邮箱首封 + WhatsApp（Simon）",
-      "action": "首封 + 一句话",
-      "one_question": "You asked for our catalog after the 8-port PoE managed switch shipment photos — I can send the PDF and a landed-cost estimate to Dar es Salaam for 5 or 10 units; which size is closer?"
-    },
-    "facts": [
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "主动联系问资料 说要下单；2024.2.28 发了2光8POE管理出货信息 → 问了catalog/2023.3.20",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "WhatsApp 往来未入库"
-    ],
-    "draft_en": {
-      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-      "body": "You asked for our catalog after the 8-port PoE managed switch shipment photos — I can send the PDF and a landed-cost estimate to Dar es Salaam for 5 or 10 units; which size is closer?"
-    },
-    "as_of": "2026-10-24"
+ "code": "SB-016",
+ "name_official": "（坦桑尼亚 · Richard Jackson，仅电话）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（免费邮箱/仅电话）",
+ "summary": "坦桑尼亚买家 Richard Jackson（仅 WA 电话，无邮箱）。表内「主动联系问资料，说要下单」，2024-02 对 2 光 8 PoE 管理出货信息回「问了 catalog」；19 次推送 1 次实质回复，未成交。→ B 25%。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "表内需求与回复",
+   "quote": "主动联系问资料 说要下单；2024.2.28 发了2光8POE管理出货信息 → 问了catalog/2023.3.20",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Richard Jackson",
+   "role": "WA 联系人（无邮箱 / 公司）— WA 最后一次一页纸：集成商 25% B、STI-288DGGPM $137 2 光 8 PoE 管理 一口价 + MOQ 1 — 坦桑尼亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 达市、TBS / TCRA 不声称（第 122 批 官方登记核实 2026-10-29）",
+   "email": "",
+   "phone": "+255 768 043 267（WA 已加）",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "未取（0 查：无邮箱 / 公司）",
+  "founded": "未取（第 122 批 官方登记核实 2026-10-29）",
+  "hq": "未取（坦桑尼亚；+255 768 043 267）（第 122 批 官方登记核实 2026-10-29）",
+  "size": "个人（第 122 批 官方登记核实 2026-10-29）",
+  "other": "+255 768 043 267；无邮箱/公司；第 122 批：曾言「要下单」、19×1 → **WA 最后一次一页纸（预付 100%）**；0 查（第 122 批 官方登记核实 2026-10-29）"
+ },
+ "business_lines": [
+  "待核（见表内需求）"
+ ],
+ "products_seen": [],
+ "channels": {
+  "contact": "Richard Jackson，+255 768 043 267（WA 已加）"
+ },
+ "signals": [
+  "曾主动联系并称要下单（未兑现）"
+ ],
+ "risks": [
+  "无邮箱与公司信息",
+  "坦桑尼亚小额订单物流/付款门槛"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "其关注 2 光 8 PoE 管理出货信息 → 8 PoE + 2 SFP L2+ 起手"
+ },
+ "email_hook": "You asked for our catalog after the 8-port PoE managed switch shipment photos — I can send the PDF and a landed-cost estimate to Dar es Salaam for 5 or 10 units; which size is closer?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（邮件无证，WhatsApp/WeChat 已加）：用户表「主动联系问资料 说要下单；2024.2.28 发了2光8POE管理出货信息 → 问了catalog/2023.3.20」；S/A 邮箱 0 封；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
+   "type": "—",
+   "sieve": "3（已加 WhatsApp，表内有往来）",
+   "stop": "仓库只有用户表一行；往来在 Simon 手机",
+   "revive": "首封邮件（A 邮箱，按 email_hook）+ WhatsApp 一句话",
+   "lane": "坦桑尼亚 非主攻",
+   "cadence": "一封",
+   "evidence": "gmail_digest：out 0；用户表：「主动联系问资料 说要下单；2024.2.28 发了2光8POE管理出货信息 → 问了catalog/2023.3.20」；研究档 risks：无邮箱与公司信息"
+  },
+  "situation": "坦桑尼亚买家 Richard Jackson（仅 WA 电话，无邮箱）。表内「主动联系问资料，说要下单」，2024-02 对 2 光 8 PoE 管理出货信息回「问了 catalog」；19 次推送 1 次实质回复，未成交。→ B 25%。",
+  "need": "其关注 2 光 8 PoE 管理出货信息 → 8 PoE + 2 SFP L2+ 起手",
+  "breakpoint": "无邮箱与公司信息",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "其关注 2 光 8 PoE 管理出货信息 → 8 PoE + 2 SFP L2+ 起手",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11（Simon）",
+   "channel": "A 邮箱首封 + WhatsApp（Simon）",
+   "action": "首封 + 一句话",
+   "one_question": "You asked for our catalog after the 8-port PoE managed switch shipment photos — I can send the PDF and a landed-cost estimate to Dar es Salaam for 5 or 10 units; which size is closer?"
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "主动联系问资料 说要下单；2024.2.28 发了2光8POE管理出货信息 → 问了catalog/2023.3.20",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "WhatsApp 往来未入库"
+  ],
+  "draft_en": {
+   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+   "body": "You asked for our catalog after the 8-port PoE managed switch shipment photos — I can send the PDF and a landed-cost estimate to Dar es Salaam for 5 or 10 units; which size is closer?"
+  },
+  "as_of": "2026-10-24"
+ }
 }

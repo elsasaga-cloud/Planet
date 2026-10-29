@@ -1,108 +1,109 @@
 {
-  "code": "SB-166",
-  "name_official": "Crown Security Solutions（卡塔尔；表内名）",
-  "researched_at": "2026-10-21",
-  "website_status": "无域名（仅表内信息）",
-  "summary": "卡塔尔安防分销商（Cudy 分销），Mohamed Safeer 提出 200 台工业 5 电口需求，2025-02 要工业 16/24 口 datasheet，2025-10 在 CPSE 展会沟通；无邮箱。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "兴趣：200 个工业 5 电口；Cudy 的分销商；回复 Datasheet；cpse 展会",
-      "quote": "兴趣：200个工业5电口 Cudy的分销商；回复：Datasheet；cpse展会",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Mohamed Safeer",
-      "title": "（表内联系人）",
-      "email": "",
-      "phone": "+974 3362 7118",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "无域名 · 仅表内信息"
-  },
-  "company_facts": {
-    "legal_name": "（待核）",
-    "founded": "",
-    "hq": "卡塔尔",
-    "size": "分销商（Cudy）",
-    "other": "CPSE 2025 到访"
-  },
-  "business_lines": [
-    "安防 / 网络设备分销（Cudy）"
-  ],
-  "channels": {
-    "role": "分销商",
-    "region": "卡塔尔"
-  },
-  "signals": [
-    "200 台工业 5 口 = 明确批量需求",
-    "CPSE 展会面谈过"
-  ],
-  "risks": [
-    "无邮箱，仅 WhatsApp",
-    "Cudy 分销 → 价格对标 Cudy 工业线"
-  ],
-  "saga_fit": {
-    "p1": "STI-050GE",
-    "tier": 20,
-    "why": "200 台工业 5 电口 → Saga STI-050GE（$17.0/17.8/18.5，列表 $34.1）；16/24 口 datasheet 对应 STI-21616GP / STI-4240DGGM。"
-  },
-  "email_hook": "（无邮箱；WhatsApp：Good to meet at CPSE — for the 200-pc 5-port industrial requirement, I can hold a 200-pc EXW price for 15 days once you confirm DC input range (12–36 V or 44–57 V).）",
-  "mail_review": {
-    "binding": {
-      "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：200个工业5电口 Cudy的分销商；回复：Datasheet；cpse展会」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
-      "type": "—",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "不动（非主攻区；J5：有证据再动）",
-      "lane": "卡塔尔 非主攻",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 0；用户表：「兴趣：200个工业5电口 Cudy的分销商；回复：Datasheet；cpse展会」；研究档 risks：无邮箱，仅 WhatsApp"
-    },
-    "situation": "卡塔尔安防分销商（Cudy 分销），Mohamed Safeer 提出 200 台工业 5 电口需求，2025-02 要工业 16/24 口 datasheet，2025-10 在 CPSE 展会沟通；无邮箱。",
-    "need": "200 台工业 5 电口 → Saga STI-050GE（$17.0/17.8/18.5，列表 $34.1）；16/24 口 datasheet 对应 STI-21616GP / STI-4240DGGM。",
-    "breakpoint": "无邮箱，仅 WhatsApp",
-    "saga_now": {
-      "p1": "STI-050GE",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）",
-      "why": "200 台工业 5 电口 → Saga STI-050GE（$17.0/17.8/18.5，列表 $34.1）；16/24 口 datasheet 对应 STI-21616GP / STI-4240DGGM。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：200个工业5电口 Cudy的分销商；回复：Datasheet；cpse展会",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来",
-      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+ "code": "SB-166",
+ "name_official": "Crown Security Solutions（卡塔尔；表内名）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（仅表内信息）",
+ "summary": "卡塔尔安防分销商（Cudy 分销），Mohamed Safeer 提出 200 台工业 5 电口需求，2025-02 要工业 16/24 口 datasheet，2025-10 在 CPSE 展会沟通；无邮箱。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "兴趣：200 个工业 5 电口；Cudy 的分销商；回复 Datasheet；cpse 展会",
+   "quote": "兴趣：200个工业5电口 Cudy的分销商；回复：Datasheet；cpse展会",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Mohamed Safeer",
+   "title": "（表内联系人）",
+   "email": "",
+   "phone": "+974 3362 7118",
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "Chief Technology Officer（RocketReach 2026-10-29；Crown Group 2012 起；仅 WA）= 收件人 — WA 一页纸 + 规格书：分销 20% B、STI-054GP / STI-280GE $46.6 ×200 阶梯一口价 + 工业 16 / 24 口 STI-0240GE $130 规格书 + 付费样机；Cudy 不点名 — 卡塔尔常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 多哈、CRA 不声称（第 122 批 官方登记核实 2026-10-29）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "Crown Security Solutions W.L.L.（Crown Group；地址 / CR 1 查未得）",
+  "founded": "未取（第 122 批 官方登记核实 2026-10-29）",
+  "hq": "未取（Doha, Qatar）（第 122 批 官方登记核实 2026-10-29）",
+  "size": "小型（第 122 批 官方登记核实 2026-10-29）",
+  "other": "CPSE 2025 到访；第 122 批：★ 200 台工业 5 电口需求 + 2025-02 要工业 16 / 24 口规格书 + 2025-10 CPSE 面谈 → **分销 20% WA 一页纸（预付 100%）；回信即升 A 候选**；部分坐实（KP 职务）（第 122 批 官方登记核实 2026-10-29）"
+ },
+ "business_lines": [
+  "安防 / 网络设备分销（Cudy）"
+ ],
+ "channels": {
+  "role": "分销商",
+  "region": "卡塔尔"
+ },
+ "signals": [
+  "200 台工业 5 口 = 明确批量需求",
+  "CPSE 展会面谈过"
+ ],
+ "risks": [
+  "无邮箱，仅 WhatsApp",
+  "Cudy 分销 → 价格对标 Cudy 工业线"
+ ],
+ "saga_fit": {
+  "p1": "STI-050GE",
+  "tier": 20,
+  "why": "200 台工业 5 电口 → Saga STI-050GE（$17.0/17.8/18.5，列表 $34.1）；16/24 口 datasheet 对应 STI-21616GP / STI-4240DGGM。"
+ },
+ "email_hook": "（无邮箱；WhatsApp：Good to meet at CPSE — for the 200-pc 5-port industrial requirement, I can hold a 200-pc EXW price for 15 days once you confirm DC input range (12–36 V or 44–57 V).）",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：200个工业5电口 Cudy的分销商；回复：Datasheet；cpse展会」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "卡塔尔 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：200个工业5电口 Cudy的分销商；回复：Datasheet；cpse展会」；研究档 risks：无邮箱，仅 WhatsApp"
+  },
+  "situation": "卡塔尔安防分销商（Cudy 分销），Mohamed Safeer 提出 200 台工业 5 电口需求，2025-02 要工业 16/24 口 datasheet，2025-10 在 CPSE 展会沟通；无邮箱。",
+  "need": "200 台工业 5 电口 → Saga STI-050GE（$17.0/17.8/18.5，列表 $34.1）；16/24 口 datasheet 对应 STI-21616GP / STI-4240DGGM。",
+  "breakpoint": "无邮箱，仅 WhatsApp",
+  "saga_now": {
+   "p1": "STI-050GE",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "200 台工业 5 电口 → Saga STI-050GE（$17.0/17.8/18.5，列表 $34.1）；16/24 口 datasheet 对应 STI-21616GP / STI-4240DGGM。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：200个工业5电口 Cudy的分销商；回复：Datasheet；cpse展会",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来",
+   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

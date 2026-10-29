@@ -40,14 +40,14 @@
  "kp": [
   {
    "name": "Bob",
-   "role": "技术/采购（表内）",
+   "role": "技术 / 采购（研究档 KP；WA 已加；价格 OK、要样、要自有标）= 收件人 — 一页纸一次：贴标 OEM 30% B、STC-028GP $28 / STC-228GP $33 / STC-2216GP 贴标 + 贴标 MOQ + 付费样机；小量先按集成商 25% 中性包装 — 乌干达常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 坎帕拉、UCC 不声称（第 122 批 官方登记核实 2026-10-29）",
    "email": "technical@itkati.com",
    "phone": "+256 704 575 328（WA 已加）",
    "source": "用户 Clients 表"
   },
   {
    "name": "Sarah Basemera",
-   "role": "Company manager（yellow.ug）",
+   "role": "Company manager（yellow.ug 2026-10-29；无公开邮箱）（第 122 批 官方登记核实 2026-10-29）",
    "email": "",
    "phone": "+256 785 284 579",
    "source": "yellow.ug"
@@ -61,11 +61,11 @@
   "level": "B 级加厚 v1（官网 + 黄页/FB 核对）"
  },
  "company_facts": {
-  "legal_name": "iTKATI UG LTD（ITKati Corp.）",
-  "founded": "2009（yellow.ug）/ 登记 2018-07（eastafricatenders）",
-  "hq": "Plot 965, Kyadondo, Makindye, Kampala, Uganda；+256 393 225 713；care@itkati.com / support@itkati.com",
-  "size": "6–10 人（yellow.ug）",
-  "other": "经理 Sarah Basemera（yellow.ug）；FB 联系 +256 704 575 328 itkaticorp@gmail.com；另有 eafricahost.itkati.com 主机业务"
+  "legal_name": "iTKATI UG Ltd（ITKati Corp.；URSB 号 1 查未得；登记日 2018-07-25）",
+  "founded": "2009（登记 2018-07-25）（第 122 批 官方登记核实 2026-10-29）",
+  "hq": "Block 244, Plot 965, Kyadondo, Makindye, Kampala, Uganda（+256 393 225 713 / +256 704 575 328）（第 122 批 官方登记核实 2026-10-29）",
+  "size": "微型（6–10）（第 122 批 官方登记核实 2026-10-29）",
+  "other": "经理 Sarah Basemera（yellow.ug）；FB 联系 +256 704 575 328 itkaticorp@gmail.com；另有 eafricahost.itkati.com 主机业务；第 122 批：IT / 网络 / 安防集成（企业网络 / CCTV / Starlink / VoIP）→ **贴标 OEM 30% 一页纸一次（小量 25%；预付 100%）**；部分坐实（登记日 + 地址 + 人数）（第 122 批 官方登记核实 2026-10-29）"
  },
  "business_lines": [
   "企业网络架构与布线、SD-WAN/云",

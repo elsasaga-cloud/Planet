@@ -1,190 +1,191 @@
 {
-  "code": "SB-192",
-  "name_official": "Core and Clad（Bahrain；Gmail；无域名）",
-  "researched_at": "2026-10-21",
-  "website_status": "无域名",
-  "summary": "用户表（Intersec 2011）：Core and Clad（巴林；Ebrahim Y. Alsada，采购；core.and.clad@gmail.com）——2011 年买过 2 次收发器（光纤收发器/媒体转换器）；E 冷名单 1 次跟进 0 回复。公司名「Core and Clad」（纤芯与包层）= 光纤领域贸易/工程商；无域名 → 仅表内信息；老客户。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "2011 年买过 2 次收发器；Intersec 2011",
-      "quote": "2011年买过2次收发器 / Mr. Ebrahim Y. Alsada 采购 / intersec 2011",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Ebrahim Y. Alsada",
-      "role": "采购（用户表）",
-      "email": "core.and.clad@gmail.com（用户表）",
-      "phone": "—",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "无域名 · 仅表内信息"
-  },
-  "company_facts": {
-    "legal_name": "Core and Clad（待核）",
-    "hq": "Bahrain",
-    "size": "待核",
-    "other": "2011 年成交 2 次（收发器）"
-  },
-  "business_lines": [
-    "光纤产品贸易/工程（推测自公司名）"
-  ],
-  "channels": {
-    "邮箱": "core.and.clad@gmail.com（用户表）"
-  },
-  "signals": [
-    "老客户（2 次成交）→ 以同品类（MC）复购切入"
-  ],
-  "risks": [
-    "中东非主攻区；Gmail；2011 后无互动"
-  ],
-  "saga_fit": {
-    "p1": "STI-110GE",
-    "tier": 25,
-    "why": "默认 25% 档：STI-110GE（工业千兆光纤收发器/MC，$23.4）= 当年品类升级；2 SFP 交换机 STC-228GP（$30.8）"
-  },
-  "email_hook": "Ebrahim, you bought fibre media converters from us twice in 2011; the current industrial gigabit model is $23.4 EXW (SFP slot, −40/+75 °C) — are you still supplying fibre links in Bahrain, and in what monthly volume?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A/S 邮箱 12 封 2024→2025，1 次记录打开，0 回；收件 core.and.clad@gmail.com；主题多为「industrial poe switch、16 Port Ethernet Switch」）；Elsa 1:1 去信 9 轮 2025-05-03→2026-08-06（To 仅本户 core.and.clad@gmail.com；头 msg 19fd5ccdb2ef1199 核对无 Bcc，称呼「Hi, Mr. Ebrahim」= 个性化逐月 1:1 名单（名字可来自名单，不等于回过信）；主题 Marvell Industrial Alert System、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:core.and.clad@gmail.com` 全程 complete，直收 9 条、无 Re: 行）",
-      "type": "—",
-      "sieve": "1~2（1 次打开）",
-      "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "巴林 非主攻",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 12，Opened 标签 1（Simon 群发追踪）；用户表：「2011年买过2次收发器 / Mr. Ebrahim Y. Alsada 采购 / intersec 2011」；研究档 risks：中东非主攻区；Gmail；2011 后无互动"
-    },
-    "situation": "用户表（Intersec 2011）：Core and Clad（巴林；Ebrahim Y. Alsada，采购；core.and.clad@gmail.com）——2011 年买过 2 次收发器（光纤收发器/媒体转换器）；E 冷名单 1 次跟进 0 回复。公司名「Core and Clad」（纤芯与包层）= 光纤领域贸易/工程商；无域名 → 仅表内信息；老客户。",
-    "need": "默认 25% 档：STI-110GE（工业千兆光纤收发器/MC，$23.4）= 当年品类升级；2 SFP 交换机 STC-228GP（$30.8）",
-    "breakpoint": "中东非主攻区；Gmail；2011 后无互动",
-    "saga_now": {
-      "p1": "STI-110GE",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-08-06 $220（48 port managed switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-27 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-27；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-05-05 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-08→2026-05-05；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-06；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "默认 25% 档：STI-110GE（工业千兆光纤收发器/MC，$23.4）= 当年品类升级；2 SFP 交换机 STC-228GP（$30.8）。已打开的主题（1/12 封有打开记录）：「2.5G Web Managed Switch」(2024-11-06) → 读者兴趣偏「2.5G」；当前 P1 属「10G 汇聚/L3」，下一封按「2.5G」给，不按 P1",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "首封前知悉：Elsa 已 1:1 去信 9 轮（2025-05-03→2026-08-06，0 回）（第 74 批(n)）；观察打开",
-      "one_question": "Ebrahim, you bought fibre media converters from us twice in 2011; the current industrial gigabit model is $23.4 EXW (SFP slot, −40/+75 °C) — are you still supplying fibre links in Bahrain, and in what monthly volume?"
-    },
-    "facts": [
-      {
-        "date": "2025-04-03",
-        "dir": "去",
-        "who": "A/S 群发",
-        "quote": "industrial poe switch、16 Port Ethernet Switch",
-        "why": "12 封 / 1 次打开 / 0 回｜首封 2024-06-16 → 末封 2025-04-03（12 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2025-05-03",
-        "dir": "out",
-        "who": "Elsa → core.and.clad@gmail.com",
-        "quote": "8 Port Industrial PoE Switch（Elsa 1:1 逐月名单第 1/9 轮；To 仅本户）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:core.and.clad@gmail.com` 全程 complete：9 轮直收（头 msg 19fd5ccdb2ef1199 无 Bcc，称呼「Hi, Mr. Ebrahim」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19695cd92d3cb4a1"
-      },
-      {
-        "date": "2025-06-27",
-        "dir": "out",
-        "who": "Elsa → core.and.clad@gmail.com",
-        "quote": "48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 2/9 轮；To 仅本户；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:core.and.clad@gmail.com` 全程 complete：9 轮直收（头 msg 19fd5ccdb2ef1199 无 Bcc，称呼「Hi, Mr. Ebrahim」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "197aff2463bb46a2"
-      },
-      {
-        "date": "2025-10-08",
-        "dir": "out",
-        "who": "Elsa → core.and.clad@gmail.com",
-        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/9 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:core.and.clad@gmail.com` 全程 complete：9 轮直收（头 msg 19fd5ccdb2ef1199 无 Bcc，称呼「Hi, Mr. Ebrahim」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "199c32f3c16396bd"
-      },
-      {
-        "date": "2025-12-02",
-        "dir": "out",
-        "who": "Elsa → core.and.clad@gmail.com",
-        "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 4/9 轮；To 仅本户）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:core.and.clad@gmail.com` 全程 complete：9 轮直收（头 msg 19fd5ccdb2ef1199 无 Bcc，称呼「Hi, Mr. Ebrahim」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19ade6ee19b66d79"
-      },
-      {
-        "date": "2026-01-06",
-        "dir": "out",
-        "who": "Elsa → core.and.clad@gmail.com",
-        "quote": "Marvell Industrial Alert System（Elsa 1:1 逐月名单第 5/9 轮；To 仅本户）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:core.and.clad@gmail.com` 全程 complete：9 轮直收（头 msg 19fd5ccdb2ef1199 无 Bcc，称呼「Hi, Mr. Ebrahim」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19b927686ff2a2c9"
-      },
-      {
-        "date": "2026-02-17",
-        "dir": "out",
-        "who": "Elsa → core.and.clad@gmail.com",
-        "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 6/9 轮；To 仅本户）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:core.and.clad@gmail.com` 全程 complete：9 轮直收（头 msg 19fd5ccdb2ef1199 无 Bcc，称呼「Hi, Mr. Ebrahim」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19c6a6610087ce28"
-      },
-      {
-        "date": "2026-03-24",
-        "dir": "out",
-        "who": "Elsa → core.and.clad@gmail.com",
-        "quote": "Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 7/9 轮；To 仅本户）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:core.and.clad@gmail.com` 全程 complete：9 轮直收（头 msg 19fd5ccdb2ef1199 无 Bcc，称呼「Hi, Mr. Ebrahim」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19d1f24d24ffcff0"
-      },
-      {
-        "date": "2026-05-05",
-        "dir": "out",
-        "who": "Elsa → core.and.clad@gmail.com",
-        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 8/9 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:core.and.clad@gmail.com` 全程 complete：9 轮直收（头 msg 19fd5ccdb2ef1199 无 Bcc，称呼「Hi, Mr. Ebrahim」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19df7020dbaf7fd5"
-      },
-      {
-        "date": "2026-08-06",
-        "dir": "out",
-        "who": "Elsa → core.and.clad@gmail.com",
-        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 9/9 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:core.and.clad@gmail.com` 全程 complete：9 轮直收（头 msg 19fd5ccdb2ef1199 无 Bcc，称呼「Hi, Mr. Ebrahim」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19fd5ccdb2ef1199"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "2011年买过2次收发器 / Mr. Ebrahim Y. Alsada 采购 / intersec 2011",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+ "code": "SB-192",
+ "name_official": "Core and Clad（Bahrain；Gmail；无域名）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名",
+ "summary": "用户表（Intersec 2011）：Core and Clad（巴林；Ebrahim Y. Alsada，采购；core.and.clad@gmail.com）——2011 年买过 2 次收发器（光纤收发器/媒体转换器）；E 冷名单 1 次跟进 0 回复。公司名「Core and Clad」（纤芯与包层）= 光纤领域贸易/工程商；无域名 → 仅表内信息；老客户。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "2011 年买过 2 次收发器；Intersec 2011",
+   "quote": "2011年买过2次收发器 / Mr. Ebrahim Y. Alsada 采购 / intersec 2011",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Ebrahim Y. Alsada",
+   "role": "采购（研究档 KP；2011 买过 2 次收发器）= 收件人 — 回访一页纸一次：分销 20% B、STC-110XGE $65 + STC-028GP $28 / STC-228GP $33 一口价 + MOQ 1 — 巴林常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 麦纳麦、TRA 不声称（第 122 批 官方登记核实 2026-10-29）",
+   "email": "core.and.clad@gmail.com（用户表）",
+   "phone": "—",
+   "source": "（本地 Clients/ 表格，无公开 URL）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "Core and Clad（0 查：gmail + 无域名）",
+  "hq": "未取（巴林）（第 122 批 官方登记核实 2026-10-29）",
+  "size": "小型（推定）（第 122 批 官方登记核实 2026-10-29）",
+  "other": "2011 年成交 2 次（收发器）；第 122 批：老客户（Intersec 2011）→ **回访一页纸一次（预付 100%）**；0 查（第 122 批 官方登记核实 2026-10-29）",
+  "founded": "未取（第 122 批 官方登记核实 2026-10-29）"
+ },
+ "business_lines": [
+  "光纤产品贸易/工程（推测自公司名）"
+ ],
+ "channels": {
+  "邮箱": "core.and.clad@gmail.com（用户表）"
+ },
+ "signals": [
+  "老客户（2 次成交）→ 以同品类（MC）复购切入"
+ ],
+ "risks": [
+  "中东非主攻区；Gmail；2011 后无互动"
+ ],
+ "saga_fit": {
+  "p1": "STI-110GE",
+  "tier": 25,
+  "why": "默认 25% 档：STI-110GE（工业千兆光纤收发器/MC，$23.4）= 当年品类升级；2 SFP 交换机 STC-228GP（$30.8）"
+ },
+ "email_hook": "Ebrahim, you bought fibre media converters from us twice in 2011; the current industrial gigabit model is $23.4 EXW (SFP slot, −40/+75 °C) — are you still supplying fibre links in Bahrain, and in what monthly volume?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A/S 邮箱 12 封 2024→2025，1 次记录打开，0 回；收件 core.and.clad@gmail.com；主题多为「industrial poe switch、16 Port Ethernet Switch」）；Elsa 1:1 去信 9 轮 2025-05-03→2026-08-06（To 仅本户 core.and.clad@gmail.com；头 msg 19fd5ccdb2ef1199 核对无 Bcc，称呼「Hi, Mr. Ebrahim」= 个性化逐月 1:1 名单（名字可来自名单，不等于回过信）；主题 Marvell Industrial Alert System、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:core.and.clad@gmail.com` 全程 complete，直收 9 条、无 Re: 行）",
+   "type": "—",
+   "sieve": "1~2（1 次打开）",
+   "stop": "12 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "巴林 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 12，Opened 标签 1（Simon 群发追踪）；用户表：「2011年买过2次收发器 / Mr. Ebrahim Y. Alsada 采购 / intersec 2011」；研究档 risks：中东非主攻区；Gmail；2011 后无互动"
+  },
+  "situation": "用户表（Intersec 2011）：Core and Clad（巴林；Ebrahim Y. Alsada，采购；core.and.clad@gmail.com）——2011 年买过 2 次收发器（光纤收发器/媒体转换器）；E 冷名单 1 次跟进 0 回复。公司名「Core and Clad」（纤芯与包层）= 光纤领域贸易/工程商；无域名 → 仅表内信息；老客户。",
+  "need": "默认 25% 档：STI-110GE（工业千兆光纤收发器/MC，$23.4）= 当年品类升级；2 SFP 交换机 STC-228GP（$30.8）",
+  "breakpoint": "中东非主攻区；Gmail；2011 后无互动",
+  "saga_now": {
+   "p1": "STI-110GE",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-08-06 $220（48 port managed switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-27 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-27；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-05-05 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-08→2026-05-05；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-06；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+   "why": "默认 25% 档：STI-110GE（工业千兆光纤收发器/MC，$23.4）= 当年品类升级；2 SFP 交换机 STC-228GP（$30.8）。已打开的主题（1/12 封有打开记录）：「2.5G Web Managed Switch」(2024-11-06) → 读者兴趣偏「2.5G」；当前 P1 属「10G 汇聚/L3」，下一封按「2.5G」给，不按 P1",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "首封前知悉：Elsa 已 1:1 去信 9 轮（2025-05-03→2026-08-06，0 回）（第 74 批(n)）；观察打开",
+   "one_question": "Ebrahim, you bought fibre media converters from us twice in 2011; the current industrial gigabit model is $23.4 EXW (SFP slot, −40/+75 °C) — are you still supplying fibre links in Bahrain, and in what monthly volume?"
+  },
+  "facts": [
+   {
+    "date": "2025-04-03",
+    "dir": "去",
+    "who": "A/S 群发",
+    "quote": "industrial poe switch、16 Port Ethernet Switch",
+    "why": "12 封 / 1 次打开 / 0 回｜首封 2024-06-16 → 末封 2025-04-03（12 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2025-05-03",
+    "dir": "out",
+    "who": "Elsa → core.and.clad@gmail.com",
+    "quote": "8 Port Industrial PoE Switch（Elsa 1:1 逐月名单第 1/9 轮；To 仅本户）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:core.and.clad@gmail.com` 全程 complete：9 轮直收（头 msg 19fd5ccdb2ef1199 无 Bcc，称呼「Hi, Mr. Ebrahim」）；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "19695cd92d3cb4a1"
+   },
+   {
+    "date": "2025-06-27",
+    "dir": "out",
+    "who": "Elsa → core.and.clad@gmail.com",
+    "quote": "48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 2/9 轮；To 仅本户；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:core.and.clad@gmail.com` 全程 complete：9 轮直收（头 msg 19fd5ccdb2ef1199 无 Bcc，称呼「Hi, Mr. Ebrahim」）；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "197aff2463bb46a2"
+   },
+   {
+    "date": "2025-10-08",
+    "dir": "out",
+    "who": "Elsa → core.and.clad@gmail.com",
+    "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/9 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:core.and.clad@gmail.com` 全程 complete：9 轮直收（头 msg 19fd5ccdb2ef1199 无 Bcc，称呼「Hi, Mr. Ebrahim」）；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "199c32f3c16396bd"
+   },
+   {
+    "date": "2025-12-02",
+    "dir": "out",
+    "who": "Elsa → core.and.clad@gmail.com",
+    "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 4/9 轮；To 仅本户）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:core.and.clad@gmail.com` 全程 complete：9 轮直收（头 msg 19fd5ccdb2ef1199 无 Bcc，称呼「Hi, Mr. Ebrahim」）；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "19ade6ee19b66d79"
+   },
+   {
+    "date": "2026-01-06",
+    "dir": "out",
+    "who": "Elsa → core.and.clad@gmail.com",
+    "quote": "Marvell Industrial Alert System（Elsa 1:1 逐月名单第 5/9 轮；To 仅本户）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:core.and.clad@gmail.com` 全程 complete：9 轮直收（头 msg 19fd5ccdb2ef1199 无 Bcc，称呼「Hi, Mr. Ebrahim」）；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "19b927686ff2a2c9"
+   },
+   {
+    "date": "2026-02-17",
+    "dir": "out",
+    "who": "Elsa → core.and.clad@gmail.com",
+    "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 6/9 轮；To 仅本户）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:core.and.clad@gmail.com` 全程 complete：9 轮直收（头 msg 19fd5ccdb2ef1199 无 Bcc，称呼「Hi, Mr. Ebrahim」）；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "19c6a6610087ce28"
+   },
+   {
+    "date": "2026-03-24",
+    "dir": "out",
+    "who": "Elsa → core.and.clad@gmail.com",
+    "quote": "Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 7/9 轮；To 仅本户）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:core.and.clad@gmail.com` 全程 complete：9 轮直收（头 msg 19fd5ccdb2ef1199 无 Bcc，称呼「Hi, Mr. Ebrahim」）；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "19d1f24d24ffcff0"
+   },
+   {
+    "date": "2026-05-05",
+    "dir": "out",
+    "who": "Elsa → core.and.clad@gmail.com",
+    "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 8/9 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:core.and.clad@gmail.com` 全程 complete：9 轮直收（头 msg 19fd5ccdb2ef1199 无 Bcc，称呼「Hi, Mr. Ebrahim」）；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "19df7020dbaf7fd5"
+   },
+   {
+    "date": "2026-08-06",
+    "dir": "out",
+    "who": "Elsa → core.and.clad@gmail.com",
+    "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 9/9 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:core.and.clad@gmail.com` 全程 complete：9 轮直收（头 msg 19fd5ccdb2ef1199 无 Bcc，称呼「Hi, Mr. Ebrahim」）；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "19fd5ccdb2ef1199"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "2011年买过2次收发器 / Mr. Ebrahim Y. Alsada 采购 / intersec 2011",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

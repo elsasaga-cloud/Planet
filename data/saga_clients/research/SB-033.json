@@ -45,7 +45,8 @@
    "title": "（表内联系人）",
    "email": "info@marvelitcs.com",
    "phone": "+973 3617 0186",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "联系人（研究档 KP；要 Cisco 同款型号）= 收件人 — 一页纸一次：集成商 25% B、CBS / SG 类对位 → STC-2224GP $86 / STC-4424GCPM $165 / STC-2216GP 一口价 + MOQ 1 + 付费样机；在用品牌不点名 — 巴林常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 麦纳麦、TRA 不声称（第 122 批 官方登记核实 2026-10-29）"
   }
  ],
  "grade_override": "B",
@@ -57,11 +58,11 @@
   "level": "B 级加厚 v1（官网快照核对）"
  },
  "company_facts": {
-  "legal_name": "Marvel Business Consultants W.L.L.（官网 About 页名；待核）",
-  "founded": "",
-  "hq": "Bahrain",
-  "size": "小型 MSP（<50 人推断）",
-  "other": "sales@marvelitcs.com；+973 3988 5090"
+  "legal_name": "Marvel Business Consultants Co. W.L.L.（品牌 Marvel IT Solutions；CR 号 1 查未得）",
+  "founded": "约 2008（自述 17 年）（第 122 批 官方登记核实 2026-10-29）",
+  "hq": "Office 0, Building 100, Road 56, Block 203, Muharraq, Bahrain（+973 3988 5090）（第 122 批 官方登记核实 2026-10-29）",
+  "size": "小型（<50 推定）（第 122 批 官方登记核实 2026-10-29）",
+  "other": "sales@marvelitcs.com；+973 3988 5090；第 122 批：托管 IT + 安防 + 网络交换 → **集成商 25% 一页纸一次（预付 100%）**；部分坐实（官网法定名 + 地址）（第 122 批 官方登记核实 2026-10-29）"
  },
  "business_lines": [
   "托管 IT / 数据网络 / 机房",

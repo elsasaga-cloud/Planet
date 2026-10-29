@@ -41,7 +41,13 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Kayode Oluwaseyi",
+   "email": "kayode.oluwaseyi@gigaxysafe.com.ng",
+   "role": "Managing Director（businesslist.com.ng 公开页 2022；抄 info@gigaxysafe.com.ng）= 收件人 — 一页纸一次：分销 20% B、STC-028GP $28 / STC-2216GP / STC-2224GP $86 / STC-4424GCPM $165 一口价 + MOQ 1 + 付费样机；在售品牌不点名；2.5G 不报 — 尼日利亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 拉各斯、SON / NCC 不声称（第 122 批 官方登记核实 2026-10-29）"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
@@ -50,8 +56,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "尼日利亚",
-  "other": "官网 gigaxysafe.com.ng，语言 en，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Suite 28F, Sabondale Shopping Complex, Obafemi Awolowo Way, Jabi, Abuja, Nigeria（+234 803 930 8003 / +234 702 500 1983）（第 122 批 官方登记核实 2026-10-29）",
+  "other": "官网 gigaxysafe.com.ng，语言 en，快照状态 ok；角色判定来源：官网文案；第 122 批：注册安防技术公司（通信 / 安防设备进口分销 + 网店 Cisco / PLANET / Ubiquiti / 2.5G）→ **分销 20% 一页纸一次（预付 100%）**；部分坐实（名录地址 + MD + 成立年）（第 122 批 官方登记核实 2026-10-29）",
+  "legal_name": "Gigaxysafe Technologies Ltd（CAC RC 号 1 查未得）",
+  "founded": "2012（第 122 批 官方登记核实 2026-10-29）",
+  "size": "微型（约 10 人）（第 122 批 官方登记核实 2026-10-29）"
  },
  "business_lines": [
   "网络 / 安防产品网店"

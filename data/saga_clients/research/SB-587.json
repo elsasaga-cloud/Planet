@@ -1,99 +1,99 @@
 {
-  "code": "SB-587",
-  "name_official": "Truetech Security Solutions（加纳；表内名）",
-  "researched_at": "2026-10-21",
-  "website_status": "无域名（仅表内信息）",
-  "summary": "加纳安防公司，WhatsApp 跟进 18 次，一次实质回复「在和 dja 合作」（已有供应商），对 PoE 交换机感兴趣；无邮箱、无官网，联系人姓名为表内记录（土耳其式人名，疑录入串行，待核）。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "对 POE switch 感兴趣；回复「在和 dja 合作」（已有供货方）",
-      "quote": "兴趣：对POE switch感兴趣；回复：在和dja合作",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "无域名 · 仅表内信息"
-  },
-  "company_facts": {
-    "legal_name": "（待核）",
-    "founded": "（待核）",
-    "hq": "加纳（表内）",
-    "size": "（待核）",
-    "other": "仅 WhatsApp +233 20 497 9197；表内联系人「İbrahim Gürgüneş」疑为串行录入"
-  },
-  "business_lines": [
-    "安防（CCTV）安装 / 供应（表内推断）"
-  ],
-  "channels": {
-    "role": "安防安装商（推断）",
-    "region": "加纳"
-  },
-  "signals": [
-    "对 PoE 交换机有兴趣但已有供应商"
-  ],
-  "risks": [
-    "无邮箱、无官网，仅 WhatsApp，不满足 B 级「有邮箱」口径（保留 B 因有实质回复）",
-    "联系人姓名疑录入错误"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 25,
-    "why": "安防安装商 8 口 PoE 入门款；仅能 WhatsApp 触达。"
-  },
-  "email_hook": "（无邮箱；WhatsApp 一句：Still working with your current PoE supplier? If a backup source for 8-port PoE at factory price helps, one sample ships from 1 pc.）",
-  "mail_review": {
-    "binding": {
-      "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：对POE switch感兴趣；回复：在和dja合作」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
-      "type": "—",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "不动（非主攻区；J5：有证据再动）",
-      "lane": "加纳 非主攻",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 0；用户表：「兴趣：对POE switch感兴趣；回复：在和dja合作」；研究档 risks：无邮箱、无官网，仅 WhatsApp，不满足 B 级「有邮箱」口径（保留 B 因有实质回复）"
-    },
-    "situation": "加纳安防公司，WhatsApp 跟进 18 次，一次实质回复「在和 dja 合作」（已有供应商），对 PoE 交换机感兴趣；无邮箱、无官网，联系人姓名为表内记录（土耳其式人名，疑录入串行，待核）。",
-    "need": "安防安装商 8 口 PoE 入门款；仅能 WhatsApp 触达。",
-    "breakpoint": "无邮箱、无官网，仅 WhatsApp，不满足 B 级「有邮箱」口径（保留 B 因有实质回复）",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）",
-      "why": "安防安装商 8 口 PoE 入门款；仅能 WhatsApp 触达。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：对POE switch感兴趣；回复：在和dja合作",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来",
-      "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+ "code": "SB-587",
+ "name_official": "Truetech Security Solutions（加纳；表内名）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名（仅表内信息）",
+ "summary": "加纳安防公司，WhatsApp 跟进 18 次，一次实质回复「在和 dja 合作」（已有供应商），对 PoE 交换机感兴趣；无邮箱、无官网，联系人姓名为表内记录（土耳其式人名，疑录入串行，待核）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "对 POE switch 感兴趣；回复「在和 dja 合作」（已有供货方）",
+   "quote": "兴趣：对POE switch感兴趣；回复：在和dja合作",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "Truetech Security Solutions（0 查：无邮箱 / 域名；表内联系人姓名疑串行）",
+  "founded": "未取（第 122 批 官方登记核实 2026-10-29）",
+  "hq": "未取（加纳；+233 20 497 9197）（第 122 批 官方登记核实 2026-10-29）",
+  "size": "微型（推定）（第 122 批 官方登记核实 2026-10-29）",
+  "other": "仅 WhatsApp +233 20 497 9197；表内联系人「İbrahim Gürgüneş」疑为串行录入；第 122 批：已有供应商（「在和 dja 合作」）+ 18×1 + 无 KP → **不动（B 保留）**；0 查（第 122 批 官方登记核实 2026-10-29）"
+ },
+ "business_lines": [
+  "安防（CCTV）安装 / 供应（表内推断）"
+ ],
+ "channels": {
+  "role": "安防安装商（推断）",
+  "region": "加纳"
+ },
+ "signals": [
+  "对 PoE 交换机有兴趣但已有供应商"
+ ],
+ "risks": [
+  "无邮箱、无官网，仅 WhatsApp，不满足 B 级「有邮箱」口径（保留 B 因有实质回复）",
+  "联系人姓名疑录入错误"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "安防安装商 8 口 PoE 入门款；仅能 WhatsApp 触达。"
+ },
+ "email_hook": "（无邮箱；WhatsApp 一句：Still working with your current PoE supplier? If a backup source for 8-port PoE at factory price helps, one sample ships from 1 pc.）",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：对POE switch感兴趣；回复：在和dja合作」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "加纳 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：对POE switch感兴趣；回复：在和dja合作」；研究档 risks：无邮箱、无官网，仅 WhatsApp，不满足 B 级「有邮箱」口径（保留 B 因有实质回复）"
+  },
+  "situation": "加纳安防公司，WhatsApp 跟进 18 次，一次实质回复「在和 dja 合作」（已有供应商），对 PoE 交换机感兴趣；无邮箱、无官网，联系人姓名为表内记录（土耳其式人名，疑录入串行，待核）。",
+  "need": "安防安装商 8 口 PoE 入门款；仅能 WhatsApp 触达。",
+  "breakpoint": "无邮箱、无官网，仅 WhatsApp，不满足 B 级「有邮箱」口径（保留 B 因有实质回复）",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）",
+   "why": "安防安装商 8 口 PoE 入门款；仅能 WhatsApp 触达。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：对POE switch感兴趣；回复：在和dja合作",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来",
+   "用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

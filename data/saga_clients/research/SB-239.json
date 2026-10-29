@@ -16,7 +16,12 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "（无具名 KP）",
+   "role": "收件 empicstar2014@gmail.com / WA +234 803 428 6012 — 最后一次一页纸：分销 20% B、STC-028GP $28 / STC-2216GP / STC-2224GP $86 一口价 + MOQ 1；在售品牌不点名 — 尼日利亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 拉各斯、SON / NCC 不声称（第 122 批 官方登记核实 2026-10-29）"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -25,11 +30,11 @@
   "level": "B 级加厚 v1（域名核对 → 存续待核 · 需求映射）"
  },
  "company_facts": {
-  "legal_name": "待核",
-  "founded": "待核",
-  "hq": "待核",
-  "size": "待核",
-  "other": "+234 803 428 6012；empicstar2014@gmail.com"
+  "legal_name": "Empicstar（0 查：gmail + 域名失效）",
+  "founded": "未取（第 122 批 官方登记核实 2026-10-29）",
+  "hq": "未取（尼日利亚）（第 122 批 官方登记核实 2026-10-29）",
+  "size": "微型（推定）（第 122 批 官方登记核实 2026-10-29）",
+  "other": "+234 803 428 6012；empicstar2014@gmail.com；第 122 批：平台转售（TP-Link / ONV 等）、18×1 → **分销 20% 最后一次一页纸（预付 100%）**；0 查（第 122 批 官方登记核实 2026-10-29）"
  },
  "business_lines": [
   "待核（见表内需求）"
