@@ -1,0 +1,71 @@
+# SC-274 alcadon.no · feed_auto · https://www.alcadon.no/WebPages/produkt/rss.aspx · fetched 2026-10-29T15:11:51Z · HTTP 200
+28.10.2026 12:13:10	Påbygg til DCCS datasenter renhold	https://www.alcadon.no/alcadon/dccs-iso/p%c3%a5bygg-til-dccs-datasenter-renhold-datasenter-kurs-1-timer
+26.10.2026 10:57:05	FiberKabel SM Kanal G144 2km/tr	https://www.alcadon.no/fiber-mikro-g144-sm/stl-144f-12-dot-7/fiberkabel-sm-kanal-g144-2km-tr-g652d-12-7mm-eia-tia-598
+23.10.2026 15:05:46	Inno View12X Ribbon skjøtemaskin	https://www.alcadon.no/inno-instruments/view12x/inno-view12x-ribbon-skj%c3%b8temaskin-inkl-dot--v7-plus--ts-pro-fh-12r-mh-250r
+23.10.2026 09:21:03	Fluke TRC MPO SM 0,3m	https://www.alcadon.no/fluke/trc-sm-mpoapc-uu-a/fluke-trc-mpo-sm-0-3m-mpoapc-mpoapc-unpinned-unpinned-type-a
+23.10.2026 09:19:44	Fluke TRC MPO SM 1,0m	https://www.alcadon.no/fluke/trc-sm-mpoapc-pp-a/fluke-trc-mpo-sm-1-0m-mpoapc-mpoapc-pinned-pinned-type-a
+23.10.2026 09:18:12	Fluke TRC MPO MM 0,3m	https://www.alcadon.no/fluke/trc-mpo-uu-b/fluke-trc-mpo-mm-0-3m-mpo-mpo-unpinned-unpinned-type-b
+23.10.2026 09:16:37	Fluke TRC MPO MM 1,0m	https://www.alcadon.no/fluke/trc-mpo-up-b/fluke-trc-mpo-mm-1-0m-mpo-mpo-unpinned-pinned-type-b
+23.10.2026 09:14:52	Fluke TRC MPO MM 1,0m	https://www.alcadon.no/fluke/trc-mpo-pp-b/fluke-trc-mpo-mm-1-0m-mpo-mpo-pinned-pinned-type-b
+20.10.2026 12:32:27	NTT CLETOP-MPO fiberrens kassett	https://www.alcadon.no/alcadon/14100201/ntt-cletop-mpo-fiberrens-kassett-white-tape-for-mpo-mtp-connector
+15.10.2026 12:58:35	AH IPDU Vertikal 32A, 400V 3-fas, sort	https://www.alcadon.no/austin-hughes/ipdu18xc13comc13-c19/ah-ipdu-vertikal-32a-400v-3-fas-sort-18xc13-plus-combo18xc13-c19-iec60309-2m
+14.10.2026 12:20:53	Temperatur + fuktighet sensor - 4m	https://www.alcadon.no/austin-hughes/ah-ig-z-th014m/temperatur--plus--fuktighet-sensor-4m-rj-45
+14.10.2026 10:57:26	AH ATS Overførings-Switch 16A,230V Svart	https://www.alcadon.no/austin-hughes/ats-h8c13-2c1916ac20/ah-ats-overf%c3%b8rings-switch-16a-230v-svart-8xc13-2xc19-iec320-horisontal-2x3m
+09.10.2026 09:46:12	NTT CLETOP-S LC/SC fiberrens kassett	https://www.alcadon.no/alcadon/14110501/ntt-cletop-s-lc-sc-fiberrens-kassett-two-slot-mid-weave
+09.10.2026 00:15:37	Enoc vertikal kabelguide CT1 24HE Svart	https://www.alcadon.no/enoc/56973/enoc-vertikal-kabelguide-ct1-24he-svart-b-88-x-d-167-x-h-888-mm-1stk
+08.10.2026 13:05:57	Austin Hughes IPDU 32A, 230V 1-fas, blå	https://www.alcadon.no/austin-hughes/ipdu-8xc13-2xc19-b/austin-hughes-ipdu-32a-230v-1-fas-bl%c3%a5-horisontal-8xc13-2xc19-iec60309-3m
+08.10.2026 13:01:26	Austin Hughes IPDU 32A, 400V 3-fas, blå	https://www.alcadon.no/austin-hughes/ipdu36xcomc13-c19-b/austin-hughes-ipdu-32a-400v-3-fas-bl%c3%a5-vertikal-36xcombo-c13-c19-iec60309-3m
+08.10.2026 12:51:04	Austin Hughes IPDU 32A, 230V 1-fas, rød	https://www.alcadon.no/austin-hughes/ipdu-8xc13-2xc19-r/austin-hughes-ipdu-32a-230v-1-fas-r%c3%b8d-horisontal-8xc13-2xc19-iec60309-3m
+07.10.2026 16:07:31	Austin Hughes IPDU 32A, 400V 3-fas, rød	https://www.alcadon.no/austin-hughes/ipdu36xcomc13-c19-r/austin-hughes-ipdu-32a-400v-3-fas-r%c3%b8d-vertikal-36xcombo-c13-c19-iec60309-3m
+30.09.2026 12:30:18	Austin Hughes IPDU 32A,230V 1-fas, Svart	https://www.alcadon.no/austin-hughes/v18l13-6x19-32a-z-cr/austin-hughes-ipdu-32a-230v-1-fas-svart-18xc13-plus-6xc13-c19-iec60309-vertikal-3m
+30.09.2026 12:03:41	Austin Hughes IPDU 16A,230V 1-fas, Svart	https://www.alcadon.no/austin-hughes/v18l13-6x19-16a-z-cr/austin-hughes-ipdu-16a-230v-1-fas-svart-18xc13-plus-6xc13-c19-iec60309-vertikal-3m
+30.09.2026 11:38:35	Austin Hughes PDU 32A,230V 1-fas, Svart	https://www.alcadon.no/austin-hughes/v18l13-6x19-32a-cr/austin-hughes-pdu-32a-230v-1-fas-svart-18xc13-plus-6xc13-c19-iec60309-vertikal-3m
+30.09.2026 11:15:53	Austin Hughes PDU 16A,230V 1-fas, Svart	https://www.alcadon.no/austin-hughes/v18l13-6x19-16a-cr/austin-hughes-pdu-16a-230v-1-fas-svart-18xc13-plus-6xc13-c19-iec60309-vertikal-3m
+18.09.2026 12:02:32	FS NVIDIA/Mellanox Compatible 200G	https://www.alcadon.no/direct-attach-cables-(dac)/qsfp-200g-pc01/fs-nvidia-mellanox-compatible-200g-qsfp56-to-qsfp56-dac-cable-1m-3ft
+18.09.2026 11:51:18	Mikrotik Cloud Router Switch CRS804 DDQ	https://www.alcadon.no/industri-switch/crs804-4ddq-hrm/mikrotik-cloud-router-switch-crs804-ddq-4-port-400gbe-qsfp56-dd-with-routeros-l6
+07.09.2026 12:09:07	AFL Fiber Optic Loss Test Kit SM/MM	https://www.alcadon.no/afl/smlp8-04-plus/afl-fiber-optic-loss-test-kit-sm-mm-sm-plus-mm-lyskilde-sm-plus-mm-effektmeter-sc-pc
+02.09.2026 23:13:55	Enoc Gulvskap Sort 19" IP 54 Glassdør	https://www.alcadon.no/enoc/57651/enoc-gulvskap-sort-19-ip-54-glassd%c3%b8r-b-800-x-d-1200-x-h-2000-mm
+18.08.2026 19:20:25	Triax Multiswitch TdSCR 5x12 S	https://www.alcadon.no/triax/318196/triax-multiswitch-tdscr-5x12-s-bruk-mot-sky-q
+18.08.2026 09:34:44	AH IPDU Vertikal Switched+Monitored, Blå	https://www.alcadon.no/austin-hughes/v18l13-6l19-en-3t-4/ah-ipdu-vertikal-switched-plus-monitored-bl%c3%a5-18xc13-plus-6xc19-16a-230v-1-fas-iec60309-3m
+18.08.2026 09:32:31	AH IPDU Vertikal Switched+Monitored, Rød	https://www.alcadon.no/austin-hughes/v18l13-6l19-en-3t-3/ah-ipdu-vertikal-switched-plus-monitored-r%c3%b8d-18xc13-plus-6xc19-16a-230v-1-fas-iec60309-3m
+18.08.2026 09:28:44	AH IPDU Vertikal Switched+Monitored, Blå	https://www.alcadon.no/austin-hughes/vp18l13-6l19-en-3t-4/ah-ipdu-vertikal-switched-plus-monitored-bl%c3%a5-18xc13-plus-6xc19-16a-400v-3-fas-iec60309-3m
+18.08.2026 09:25:10	AH IPDU Vertikal Switched+Monitored, Rød	https://www.alcadon.no/austin-hughes/vp18l13-6l19-en-3t-3/ah-ipdu-vertikal-switched-plus-monitored-r%c3%b8d-18xc13-plus-6xc19-16a-400v-3-fas-iec60309-3m
+13.08.2026 10:30:55	Festebånd med borrelås, 10mm/22,5m Hvit	https://www.alcadon.no/velcro/kbbr-10-22-dot-5-wh/festeb%c3%a5nd-med-borrel%c3%a5s-10mm-22-5m-hvit-kappes-etter-eget-%c3%b8nske
+13.08.2026 10:23:47	Festebånd med borrelås, 20mm/22,5m Hvit	https://www.alcadon.no/velcro/kbbr-20-22-dot-5-wh/festeb%c3%a5nd-med-borrel%c3%a5s-20mm-22-5m-hvit-kappes-etter-eget-%c3%b8nske
+31.07.2026 13:40:52	Prolabs TAA QSFP28 100GBase-ER1 40km DOM	https://www.alcadon.no/prolabs/qsfp-100gb-er1-c-c/prolabs-taa-qsfp28-100gbase-er1-40km-dom-cisco-comp-dot--single-lambda-smf-1310nm-lc
+20.07.2026 12:42:00	Miller MA01-7001 Fiberverktøysett	https://www.alcadon.no/ripley/miller-ma01-7001/miller-ma01-7001-fiberverkt%c3%b8ysett-med-fiberstripper-og-kevlar-saks
+10.07.2026 20:04:37	FiberKabel SM Mikro G24 A-DQ(ZN)2Y	https://www.alcadon.no/fiber-kanal-g24-96-sm/stl26910-24-0026/fiberkabel-sm-mikro-g24-a-dqzn2y-g657a1-5-7mm-eia-tia-598
+10.07.2026 19:55:52	FiberKabel SM Mikro G432 A-DQ(ZN)2Y	https://www.alcadon.no/fiber-mikro-g144-sm/stl26910-432-0026/fiberkabel-sm-mikro-g432-a-dqzn2y-g657a1-12-5mm-eia-tia-598
+10.07.2026 19:43:21	FiberKabel SM Mikro G288 A-DQ(ZN)2Y	https://www.alcadon.no/fiber-mikro-g144-sm/stl26910-288-0026/fiberkabel-sm-mikro-g288-a-dqzn2y-g657a1-9-4mm-eia-tia-598
+10.07.2026 19:37:13	FiberKabel SM Mikro G144 A-DQ(ZN)2Y	https://www.alcadon.no/fiber-mikro-g144-sm/stl26910-144-0026/fiberkabel-sm-mikro-g144-a-dqzn2y-g657a1-8mm-eia-tia-598
+10.07.2026 19:13:58	FiberKabel SM Mikro G96 A-DQ(ZN)2Y	https://www.alcadon.no/fiber-mikro-g24-96-sm/stl26910-96-0026/fiberkabel-sm-mikro-g96-a-dqzn2y-g657a1-6-0mm-eia-tia-598
+10.07.2026 19:11:50	FiberKabel SM Mikro G48 A-DQ(ZN)2Y	https://www.alcadon.no/fiber-kanal-g24-96-sm/stl26910-48-0026/fiberkabel-sm-mikro-g48-a-dqzn2y-g657a1-5-7mm-eia-tia-598
+10.07.2026 18:41:47	FiberKabel SM Mikro G12 A-DQ(ZN)2Y	https://www.alcadon.no/fiber-mikro-g02-12-sm/stl26910-12-0026/fiberkabel-sm-mikro-g12-a-dqzn2y-g657a1-5-7mm-eia-tia-598
+07.07.2026 15:01:18	FuturePath -4x16/12-DL-Gul- 1000m	https://www.alcadon.no/duraline/10100482/futurepath-4x16-12-dl-gul-1000m-gul-m-gul-ytterkappe
+03.07.2026 12:19:03	RapidNet panel for 16stk kassetter, 4U	https://www.alcadon.no/hellermanntyton/rna6uxx-pd4ucn/rapidnet-panel-for-16stk-kassetter-4u-m-kabelavlastning-metall
+03.07.2026 12:18:58	RapidNet kassett 50/125 OM4 MTP Elite	https://www.alcadon.no/hellermanntyton/rnfmd24-lc1mm4/rapidnet-kassett-50-125-om4-mtp-elite-1xmpo-24-fiber-rear-24xlc-front
+12.06.2026 11:02:00	Temperatur + fuktighet sensor - 2m	https://www.alcadon.no/austin-hughes/ig-th01-sensor/temperatur--plus--fuktighet-sensor-2m-rj-45
+04.06.2026 07:58:03	Triarca sokkel FT 785 XL RAL 7024	https://www.alcadon.no/triarca/252568/triarca-sokkel-ft-785-xl-ral-7024
+04.06.2026 07:32:18	Triarca Orion klimaskap CCO 138	https://www.alcadon.no/triarca/255503/triarca-orion-klimaskap-cco-138-enkelt-skap-uten-tilbeh%c3%b8r
+03.06.2026 10:03:39	Strømkabel C14 - C15 Halogenfri 5 m	https://www.alcadon.no/alcadon/117448-5m/str%c3%b8mkabel-c14-c15-halogenfri-5-m-sort
+30.05.2026 10:19:42	Strømkabel C13 - C14, Låsbar, Svart,0,5m	https://www.alcadon.no/powertek/p-c13-c14-0-dot-5-s-hffr/str%c3%b8mkabel-c13-c14-l%c3%a5sbar-svart-0-5m-hffr-halogenfri
+29.05.2026 10:32:24	Dempeledd F-type HQ ATT 05-F DKT	https://www.alcadon.no/dkt/dkt-50605/dempeledd-f-type-hq-att-05-f-dkt-f-han-f-hun-5-db-0-1-2400mhz
+19.05.2026 11:28:50	PoE Injector 95W/48V 802.3bt Planet	https://www.alcadon.no/planet/ipoe-171-95w/poe-injector-95w-48v-802-dot-3bt-planet-2x100m-1g-2-dot-5g-5gbase-t-rj45
+11.05.2026 15:22:49	FiberKabel SM Mikro G96 IK MiDiaAD PE	https://www.alcadon.no/lightera/ofs301166666/fiberkabel-sm-mikro-g96-ik-midiaad-pe-g657a1-qxxe-t%c3%b8rr-fuktsperre
+07.05.2026 13:27:01	HDMI Modulator 4x HDMI til DVB-C/T Triax	https://www.alcadon.no/triax/trx300133/hdmi-modulator-4x-hdmi-til-dvb-c-t-triax-cofdm-dvb-t-and-qam-dvb-c-1080p60
+30.04.2026 09:47:24	Raritan PDU-3P 32A 12+12 C13/CX-3m	https://www.alcadon.no/raritan/px4-5917-e7v2/raritan-pdu-3p-32a-12-plus-12-c13-cx-3m-pdu-med-m%c3%a5ling-og-styring-per-uttak
+30.04.2026 09:31:16	Raritan PDU-3P 32A 18+18 C13/CX-3m	https://www.alcadon.no/raritan/px4-5699-e7v2/raritan-pdu-3p-32a-18-plus-18-c13-cx-3m-pdu-med-m%c3%a5ling-og-styring-per-uttak
+30.04.2026 09:12:16	Raritan PDU-1P 32A 12+12 C13/CX-3m	https://www.alcadon.no/raritan/px4-5161-e7/raritan-pdu-1p-32a-12-plus-12-c13-cx-3m-pdu-med-m%c3%a5ling-og-styring-per-uttak
+30.04.2026 08:55:01	Raritan PDU-1P 32A 18+18 C13/CX-3m	https://www.alcadon.no/raritan/px4-5057-e7/raritan-pdu-1p-32a-18-plus-18-c13-cx-3m-pdu-med-m%c3%a5ling-og-styring-per-uttak
+30.04.2026 08:26:48	Raritan PDU-3P 32A 12+12 C13/CX-3m	https://www.alcadon.no/raritan/px4-4917-e7v2/raritan-pdu-3p-32a-12-plus-12-c13-cx-3m-pdu-med-m%c3%a5ling-per-uttak
+30.04.2026 08:04:04	Raritan PDU-3P 32A 18+18 C13/CX-3m	https://www.alcadon.no/raritan/px4-4699-e7v2/raritan-pdu-3p-32a-18-plus-18-c13-cx-3m-pdu-med-m%c3%a5ling-per-uttak
+30.04.2026 07:38:10	Raritan PDU-1P 32A 12+12 C13/CX-3m	https://www.alcadon.no/raritan/px4-4161-e7/raritan-pdu-1p-32a-12-plus-12-c13-cx-3m-pdu-med-m%c3%a5ling-per-uttak
+29.04.2026 12:27:27	Raritan PDU-1P 32A 18+18 C13/CX-3m	https://www.alcadon.no/raritan/px4-4057-e7/raritan-pdu-1p-32a-18-plus-18-c13-cx-3m-pdu-med-m%c3%a5ling-per-uttak
+15.04.2026 14:28:10	FTTx Single Set EZ.BOOSTER	https://www.alcadon.no/zeitler/zei100754/fttx-single-set-ez-dot-booster-for-fibere-r%c3%b8r-0-5-8-7-16-mm
+14.04.2026 10:32:59	FiberKabel SM Low Friction G02 LSZH 500m	https://www.alcadon.no/lightera/ofs24318/fiberkabel-sm-low-friction-g02-lszh-500m-g657a2-b2ca-reelex-boks-500m
+08.04.2026 13:07:33	Strips Svart 10cm 100 stk	https://www.alcadon.no/alcadon/kct102x2-dot-5-s/strips-svart-10cm-100-stk
+20.03.2026 15:43:58	SFP BIDI 1GE DDM SM 20km Generic	https://www.alcadon.no/transopto/s1g-bx20sc-53-g/sfp-bidi-1ge-ddm-sm-20km-generic-tx-rx1550-1310nm-14db-sc
+20.03.2026 15:41:10	SFP BIDI 1GE DDM SM 20km Generic	https://www.alcadon.no/transopto/s1g-bx20sc-35-g/sfp-bidi-1ge-ddm-sm-20km-generic-tx-rx1310-1550nm-14db-sc
+11.03.2026 12:13:50	Triarca Dør til skap 70cm Grønn RAL6012	https://www.alcadon.no/triarca/els-226029/triarca-d%c3%b8r-til-skap-70cm-gr%c3%b8nn-ral6012-m-trekant-l%c3%a5s-montert-til-art-dot-nr-226019
+24.02.2026 09:40:41	Fluke FiberInspector Pro Wi-Fi enabled	https://www.alcadon.no/fluke/fi2-7300-int/fluke-fiberinspector-pro-wi-fi-enabled-versiv2-main-unit--plus--inspection-camera
+23.02.2026 10:0

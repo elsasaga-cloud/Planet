@@ -1,14 +1,19 @@
 {
  "code": "XB-C1230",
  "name": "AZITECH (A Z I Technology LLC)",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 azitech.ae MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（azitech.ae，快照 2026-10-29）：Main Page - AZITECH",
  "summary": "AZITECH (A Z I Technology LLC)（阿联酋）：Cisco/HPE/APC授权合作伙伴；公司全称=A Z I Technology LLC (AZITECH)；公司类型=Cisco/HPE/APC授权合作伙伴；总部=Al Tawhidi Building II, Office M06 & M07, PO Box 115299, Bur；客户优先级=🟢 A类",
  "type_final": "Cisco/HPE/APC授权合作伙伴",
  "size": "",
  "brands_seen": [
-  "Cisco"
+  "Cisco",
+  "Fortinet",
+  "Aruba",
+  "Ubiquiti",
+  "Hikvision",
+  "Huawei"
  ],
  "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
  "fit": "",
@@ -26,12 +31,32 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Main Page - AZITECH",
+   "quote": "// about company YOUR TRUSTED INTEGRATION PARTNER AziTech is the partner of choice for many of the world’s leading enterprises, SMEs and technology challengers. We help businesses elevate their value through IT Infrastructure Solutions, Home Automation, QA and Consultancy Services. Experience Our gr",
+   "url": "https://azitech.ae/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@azitech.ae",
   "email_status": "活（来源库 9 月核对）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "engitech@mail.com",
+   "info@azitech.ae"
+  ],
+  "page_phones": [
+   "+971 4 33 58 701",
+   "+971-4 33 58 701",
+   "+971-4 34 77 571",
+   "+971-52 266 2432",
+   "+971-522 66 2432",
+   "+971-522662432"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -47,5 +72,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:53:22Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-280GE",
+  "why": "官网快照对位：工业/自动化词频 5、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手",
+  "date": "2026-10-29"
+ }
 }

@@ -58,10 +58,11 @@
  ],
  "grade_override": "B",
  "override_reason": "Planet 渠道档案 PB-095 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 国别更正为「德国」（country_fix）：域名 netram.de + 研究档 hq Wuppertal + 法定名 Netram Memory GmbH；表内国别空（Q-65 国别机检 2026-10-27）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 国别更正为「德国」（country_fix）：域名 netram.de + 研究档 hq Wuppertal + 法定名 Netram Memory GmbH；表内国别空（Q-65 国别机检 2026-10-27）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-095，W 批次调研 2026-10-19/20）"
+  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-095，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "company_facts": {
   "legal_name": "Netram Memory GmbH（HRB 19078 Amtsgericht Wuppertal；EUID DER1608.HRB19078；资本 €25,000）",
@@ -200,6 +201,14 @@
     "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
     "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@netram.de, netram.de）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
     "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "You are being redirected...",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.netram.de/"
    }
   ],
   "proof_gaps": [
@@ -208,5 +217,12 @@
   "draft_en": null,
   "as_of": "2026-10-25"
  },
- "country_fix": "德国"
+ "country_fix": "德国",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:32:32Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ }
 }

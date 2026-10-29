@@ -1,13 +1,22 @@
 {
  "code": "XA-C0001",
  "name": "JBN Security Systems B.V.（荷兰）",
- "round": "W2-R05a",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（jbnsecurity.com，快照 2026-10-29）：Beveiligingsgroothandel voor Installateurs.",
  "summary": "欧洲 B2B 安防批发（JBN Security Systems B.V.）",
  "type_final": "欧洲 B2B 安防批发（JBN Security Systems B.V.）",
  "size": "未量化",
- "brands_seen": [],
+ "brands_seen": [
+  "Hikvision",
+  "Dahua",
+  "Teltonika",
+  "TP-Link",
+  "Ruijie",
+  "Milesight",
+  "Ajax",
+  "Uniview"
+ ],
  "saga_line": "SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE",
  "fit": "安防批发，PoE 配摄像机",
  "evidence": [
@@ -17,12 +26,27 @@
    "quote": "",
    "url": "https://jbnsecurity.com/",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Beveiligingsgroothandel voor Installateurs.",
+   "quote": "JBN Security Systems: B2B-groothandel voor installateurs in CCTV, alarm en netwerk. Hikvision, Dahua, VIGI, Ajax, Omada en technisch advies.",
+   "url": "https://jbnsecurity.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@jbnsecurity.com",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "info@jbnsecurity.com",
+   "support@jbnsecurity.com"
+  ],
+  "page_phones": [
+   "+31 85 016 3355"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -36,10 +60,21 @@
   "window": "NL 周四 12–14",
   "when": "2026-11-26"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "draft_en": {
   "subject": "PoE switch line for your reseller channel - distributor pricing",
   "body": "Hi,\n\nSaga Telecom supplies network and security distributors in Europe and North America with PoE and industrial switches; we are an engineering and supply-chain-first telecom partner, so you deal directly with the people who specify the product.\n\nThree PoE switches our distributor partners move most, all EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE, under our label or yours:\n\n- STC-2224GP: 24 x GE PoE+ (300 W) + 2 x GE + 2 x SFP, USD 86.\n- STC-424XGGPM-280W: 24 x GE PoE+ (280 W) + 4 x 10G SFP+, Marvell-based L2+ managed, USD 170.\n- STI-288DGGPM: DIN-rail industrial L2+, 8 x GE PoE+ (240 W) + 2 x SFP, -40 to +75 C, USD 137, 3-year warranty (12 months on the commercial units).\n\nWhich of the three would be worth a sample for your product team first - the 24-port entry PoE, the 24-port L2+, or the DIN-rail unit?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "deep": false
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:42:23Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGPM-280W",
+  "why": "官网快照对位：PoE 词频 51、监控 123 → 24 口 PoE L2+ 走量款",
+  "date": "2026-10-29"
+ }
 }

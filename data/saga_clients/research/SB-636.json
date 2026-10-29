@@ -2,7 +2,7 @@
  "code": "SB-636",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（MARZETEK (Pty) Ltd：停放/空站（疑停业或仅占位），2026-10-21，第 1 次）",
+ "website_status": "快照失败（marzetek.com：停放/空站（疑停业或仅占位），2026-10-29，第 2 次）",
  "summary": "南非 MARZETEK (Pty) Ltd（marzetek.com；表内需求「4+24、4+48 10G 光」；KP Lloyd Thembani Moyo（Sales Engineer），电话 27 61 836 5820 未尝试加；官网快照为主机托管占位页）；群发 7 次无回复。",
  "type": "IT/网络方案商（南非，24/48 口 + 4×10G 需求）",
  "size": "",
@@ -35,7 +35,7 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
@@ -127,10 +127,12 @@
  },
  "snap_thicken": {
   "consumed": [
-   "2026-10-21T09:44:40Z"
+   "2026-10-21T09:44:40Z",
+   "2026-10-29T15:33:34Z"
   ],
   "fails": [
-   "2026-10-21"
+   "2026-10-21",
+   "2026-10-29"
   ],
   "batch": "LT-T03"
  }

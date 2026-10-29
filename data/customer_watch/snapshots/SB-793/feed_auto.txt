@@ -1,4 +1,5 @@
-# SB-793 worldstarsecuritycameras.com · feed_auto · https://worldstarsecuritycameras.com/feed/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-793 worldstarsecuritycameras.com · feed_auto · https://worldstarsecuritycameras.com/feed/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+Thu, 29 Oct 2026 02:20:40 +0000	A Guide to Camera Lens Selection for Security	https://worldstarsecuritycameras.com/guide-to-camera-lens-selection/
 Tue, 27 Oct 2026 04:01:43 +0000	Firewall for Security Camera Network Setup	https://worldstarsecuritycameras.com/firewall-for-security-camera-network-setup/
 Fri, 23 Oct 2026 04:04:35 +0000	How to Troubleshoot PoE Switch Failures Fast	https://worldstarsecuritycameras.com/troubleshoot-poe-switch-failures/
 Tue, 20 Oct 2026 21:50:25 +0000	Matched Cameras and NVR: Why One Brand Saves Time on Every Job	https://worldstarsecuritycameras.com/matched-security-cameras-and-nvr-save-time/
@@ -8,4 +9,3 @@ Wed, 07 Oct 2026 04:03:18 +0000	Security Equipment Pricing: What Drives Cost?	ht
 Thu, 01 Oct 2026 03:54:01 +0000	Cloud Networking for Security Systems That Scale	https://worldstarsecuritycameras.com/cloud-networking-security-systems/
 Wed, 23 Sep 2026 02:21:04 +0000	How to Configure NVR Motion Zones Correctly	https://worldstarsecuritycameras.com/configure-nvr-motion-zones/
 Tue, 15 Sep 2026 04:11:42 +0000	Best PoE Extenders for Cameras: 2026 Guide	https://worldstarsecuritycameras.com/best-poe-extenders-for-cameras/
-Sun, 13 Sep 2026 02:21:39 +0000	NVR Versus DVR Systems: Which Fits Your Site?	https://worldstarsecuritycameras.com/nvr-versus-dvr-systems/

@@ -40,7 +40,7 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · OEM 30% + 预付 100%：Novicam = ООО «НОВЫЕ КАМЕРЫ»（Москва；ИНН 7725668550 / ОГРН 1097746256332；2009；GD Макиевский Г. В.）ИНН 对上但 2025 纳税 0 → 运营主体存疑；自有品牌 CCTV + PV-Link 配件 ✔ 对位 ✔ → 入池观察档；可否决；闸 1：俄罗斯 Novicam（novicam.ru；自有品牌 CCTV，商业 PoE / 配件主要挂 PV-Link 牌）：自有品牌 = OEM 对象 ✔ 对位 ✔ Simon 点名俄罗斯；未触达 → 闸 2 查底数（rusprofile）；俄…",
- "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/saga_fit/deep/facts。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -71,7 +71,7 @@
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
    "p1": "STC-424XGGPM-280W",
-   "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
+   "why": "官网快照对位：PoE 词频 103、监控 0 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -93,6 +93,14 @@
     "quote": "RU · 1 次检索：rusprofile.ru/id/2707154（ИНН / ОГРН / 总经理）+ saby（域名 novicam.ru / dsnovik.ru 关联）+ checko（2025 纳税 0）；2026-10-29",
     "why": "闸 2 坐实来源（URL 见 company_facts.url）",
     "url": "https://www.rusprofile.ru/id/2707154"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Видеокамеры - IP, купольные и цилиндрические, домофоны купить в Москве: Novicam — Novicam интернет-магазин систем безопасности и видеонаблюдения в Москве. Большой ассортимент, подбор оборудования. Быстрая доставка по Москве и России. Тел.+7 495 648-60-70",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.novicam.ru/"
    }
   ],
   "proof_gaps": [
@@ -133,12 +141,53 @@
  "saga_fit": {
   "p1": "STC-424XGGPM-280W",
   "tier": 30,
-  "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
-  "basis": "默认 · 官网快照后按业务线校正"
+  "why": "官网快照对位：PoE 词频 103、监控 0 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）",
+  "basis": "官网快照自动对位（LT-T03）· 人工点名时再校"
  },
  "deep": {
   "done_at": "2026-10-29",
-  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
-  "batch": "LT-T01"
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T01",
+  "snapshot_at": "2026-10-29"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:41:58Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "ekb@novicam.ru",
+   "kz@novicam.ru",
+   "mail@vicam-sb.ru",
+   "opt@novicam.ru",
+   "service@novicam.ru"
+  ],
+  "phones": [
+   "+7 (495) 648-60-70",
+   "+7 (901) 854-28-18",
+   "+7 495 648-60-70"
+  ],
+  "social": [
+   "https://t.me/NOVI_GROUP_Techsupport_bot",
+   "https://t.me/novicam",
+   "https://vk.com/noviclub",
+   "https://www.youtube.com/user/novigroup"
+  ],
+  "models_on_site": [
+   "PV-GPOE04G1S1W",
+   "RJ-45",
+   "PV-POE04G2CL",
+   "PV-POE02FE",
+   "IEEE802",
+   "PV-RJ45",
+   "PV-WF2AP",
+   "NR1608X"
+  ],
+  "url": "https://www.novicam.ru/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

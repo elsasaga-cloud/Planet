@@ -1,4 +1,4 @@
-# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-10-29T15:11:51Z · HTTP 200
 Axilogi s.r.o.
 O nás
 Kontakty
@@ -41,38 +41,47 @@ Počítače a komponenty
 Merch
 Akce a novinky
 Nové produkty
-Triton plně výsuvná police 1U/450mm, 19", nosnost 30kg, šedá
-1 266 Kč bez DPH
-1 532 Kč s DPH
-MEAN WELL LRS-100-5 Průmyslový zdroj, 90W, 5V
-375 Kč bez DPH
-454 Kč s DPH
-Ubiquiti UTR-LR, UniFi Travel Router Long Range
-2 187 Kč bez DPH
-2 646 Kč s DPH
-QuWireless Anténa QuSpot pro Teltonika TRB500
-5 172 Kč bez DPH
-6 258 Kč s DPH
-DEYE GB-W-Pack12-2-A3 Bateriový modul, 12.03 kWh, HV
-38 130 Kč bez DPH
-46 137 Kč s DPH
-Luxmetr měřič intenzity světla Peakmeter PM6612/MS6612/R212A
-700 Kč bez DPH
-847 Kč s DPH
-Hikvision IP bullet kamera DS-2CD1067G3-LIU(2.8mm), 6Mpx, 2.8mm, ColorVu 3.0
-SanDisk Micro SDHC Ultra GO 32GB
-506 Kč bez DPH
-613 Kč s DPH
-Hikvision AX PRO Bezdrátová ústředna lite pro 64 zón
-Hikvision IP dome hybrid kamera DS-2CD2123G2-LIS2U(2.8mm)(BLACK), 2Mpx, 2.8mm, AcuSense, Černá
-Hikvision DS-DM4255W Nástěnný vesa držák pro monitory 42 až 55"
-Hikvision IP bullet kamera DS-2CD2067G3-LI2UY/SL(2.8mm), 6Mpx, 2.8mm, ColorVu 3.0
-MEAN WELL DDR-15G-24 Step-down měnič napětí DC/DC, 15W
-533 Kč bez DPH
-645 Kč s DPH
-Teltonika TeltoCharge HomeWizard P1 Dongle
-1 119 Kč bez DPH
-1 354 Kč s DPH
+MEAN WELL XDR-480E-24 Průmyslový zdroj na DIN lištu, 480W, 24V
+2 065 Kč bez DPH
+2 498 Kč s DPH
+Teltonika Security LT4, Dálkové ovládání
+430 Kč bez DPH
+521 Kč s DPH
+Ubiquiti Singlemode simplex optický patch cord SC UPC/SC UPC, 0,5m, 50 pack
+2 428 Kč bez DPH
+2 938 Kč s DPH
+Triton zámek pro bočnice u stojanových rozvaděčů
+143 Kč bez DPH
+173 Kč s DPH
+Ubiquiti Singlemode simplex optický patch cord SC APC/SC APC, 5m
+89 Kč bez DPH
+108 Kč s DPH
+Cudy M1300S Wi-Fi Mesh System, AC1200, 3 pack
+2 567 Kč bez DPH
+3 105 Kč s DPH
+Hikvision IP dome hybrid kamera DS-2CD2123G2-LIS2U(2.8mm), 2Mpx, 2.8mm, AcuSense
+MEAN WELL DRL-02, Montážní úhelník ke zdrojům
+35 Kč bez DPH
+42 Kč s DPH
+Ubiquiti UniFi patch kabel, 0,4m, Cat5e, černý, 24 pack
+1 214 Kč bez DPH
+1 469 Kč s DPH
+Hikvision IP bullet hybrid kamera DS-2CD2043G2-LI2U(2.8mm)(BLACK), 4Mpx, 2.8mm, AcuSense, Černá
+Triton plastový dveřní pant pro nástěnné plastové boxy
+43 Kč bez DPH
+53 Kč s DPH
+Teltonika TeltoCharge Montážní stojan pro 4 elektronabíječky EVC2
+18 880 Kč bez DPH
+22 845 Kč s DPH
+DEYE Solární ponorné čerpadlo 3000W s regulátorem DY-B3600AC/DC
+8 444 Kč bez DPH
+10 217 Kč s DPH
+Triton 19" stojanový rack 32U/600x800 prosklené dveře, šedý
+11 410 Kč bez DPH
+13 806 Kč s DPH
+Triton 19" stojanový rack 32U/600x900 prosklené dveře, šedý
+12 380 Kč bez DPH
+14 980 Kč s DPH
 Aktuality
 Představujeme Teltonika Security
 26.10.2026

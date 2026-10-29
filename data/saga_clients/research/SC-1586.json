@@ -2,11 +2,15 @@
  "code": "SC-1586",
  "name_official": "CÔNG TY TNHH GIẢI PHÁP VIỄN THÔNG THIÊN TÂN",
  "researched_at": "2026-10-29",
- "website_status": "域名 chuyendoiquang.com（官网快照待 Actions 补抓）",
+ "website_status": "在线（chuyendoiquang.com，快照 2026-10-29）：Thiên Tân Telecom cung cấp thiết bị và chuyển đổi quang",
  "summary": "C 池三闸捞出（○ 正式）：○ 越南 · 分销 20%：CÔNG TY TNHH GIẢI PHÁP VIỄN THÔNG THIÊN TÂN（Hà Nội Từ Liêm；MST 0105224649；电子 / 电信设备批发）坐实；越南先例 ✔ 中国品牌 ✔ 对位 ✔ 业务微信可达 ✔ → P 池候选；VC 本职线并行",
  "type": "分销（闸 2 判定 · 20% 档）",
  "size": "小型",
- "brands_seen": [],
+ "brands_seen": [
+  "Cisco",
+  "TP-Link",
+  "PLANET"
+ ],
  "evidence": [
   {
    "kind": "登记底数 / 官网（闸 2 坐实）",
@@ -40,7 +44,7 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 越南 · 分销 20%：CÔNG TY TNHH GIẢI PHÁP VIỄN THÔNG THIÊN TÂN（Hà Nội Từ Liêm；MST 0105224649；电子 / 电信设备批发）坐实；越南先例 ✔ 中国品牌 ✔ 对位 ✔ 业务微信可达 ✔ → P 池候选；VC 本职线并行；闸 1：越南 Chuyển Đổi Quang / Holink Tech / Viễn Thông Thiên Tân（chuyendoiquang.com / holinktech.com / vienthongthientan.com 均正…",
- "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：website_status/brands_seen/site_contacts/saga_fit/deep/facts。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -70,8 +74,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "STC-228GP",
-   "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
+   "p1": "STC-424XGGM",
+   "why": "官网快照对位：10G/2.5G 词频 3、交换机 325 → 24 GE + 4×10G L2+ 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -93,6 +97,14 @@
     "quote": "VN · 1 次检索：masothue（MST / 地址 / 状态 / 主业）+ tratencongty；2026-10-29",
     "why": "闸 2 坐实来源（URL 见 company_facts.url）",
     "url": "https://masothue.com/0105224649-cong-ty-tnhh-giai-phap-vien-thong-thien-tan"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Thiên Tân Telecom cung cấp thiết bị và chuyển đổi quang — Thiên Tân Telecom phân phối cung cấp Thiết bị quang,Thiết bị chuyển đổi quang điện,Bộ chuyển đổi quang điện.Độc quyền các thiết bị chuyển đổi quang GNETCOM,HO-LINK,đầy đủ giấy tờ COCQ",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://chuyendoiquang.com/"
    }
   ],
   "proof_gaps": [
@@ -127,14 +139,43 @@
   "表内兴趣：VC主要  很多国内的牌子 低价\nMC G-net的  FS 周边产品；工业FS 商业POE等"
  ],
  "saga_fit": {
-  "p1": "STC-228GP",
+  "p1": "STC-424XGGM",
   "tier": 20,
-  "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
-  "basis": "默认 · 官网快照后按业务线校正"
+  "why": "官网快照对位：10G/2.5G 词频 3、交换机 325 → 24 GE + 4×10G L2+ 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）",
+  "basis": "官网快照自动对位（LT-T03）· 人工点名时再校",
+  "p1_prev": "STC-228GP"
  },
  "deep": {
   "done_at": "2026-10-29",
-  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
-  "batch": "LT-T01"
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T01",
+  "snapshot_at": "2026-10-29"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:35:16Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "vienthongthientan@gmail.com"
+  ],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "RS-232",
+   "RS485",
+   "RS232",
+   "RS422",
+   "HL-1V-20T",
+   "GNC-1111S-20A",
+   "GNC-2111S-20A",
+   "GNC-1211S-20"
+  ],
+  "url": "https://chuyendoiquang.com/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

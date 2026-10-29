@@ -1,4 +1,4 @@
-# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-10-29T15:11:51Z · HTTP 200
 Cyberbajt Wireless, Światłowody, MikroTik, Ubiquiti, Anteny WiFi i LTE, Monitoring
 Koszyk
 Kontakt
@@ -40,9 +40,9 @@ Wyniki wyszukiwania:
 Kategorie
 Nowości
 Promocje
-Urządzenia (2732)
-Wszystkie 2732
-Switche 1014
+Urządzenia (2733)
+Wszystkie 2733
+Switche 1015
 Access Pointy 187
 Routery WiFi 389
 Routery zaawansowane 107
@@ -61,13 +61,13 @@ Modemy LTE/5G 8
 Lokalizatory GPS 9
 Teltonika 119
 VDSL, G.SHDSL, ADSL 1
-Światłowody (5056)
-Wszystkie 5056
+Światłowody (5058)
+Wszystkie 5058
 Kable DAC/AOC SFP+ QSFP+ SFP28 QSFP28 117
 Kable światłowodowe 1023
 Patchcordy światłowodowe 1328
 Pigtaile światłowodowe 118
-Moduły optyczne SFP, SFP+, QSFP+, SFP28, QSFP28 357
+Moduły optyczne SFP, SFP+, QSFP+, SFP28, QSFP28 358
 Adaptery światłowodowe 127
 Budowa sieci optotelekomunikacyjnej 353
 Spawarki światłowodowe i akcesoria 50
@@ -79,7 +79,7 @@ Narzędzia światłowodowe 128
 Osłonki spawów 18
 Przełącznice światłowodowe 321
 Splittery optyczne 58
-Stelaże zapasu kabla 41
+Stelaże zapasu kabla 42
 Szafy teleinformatyczne 165
 Tacki światłowodowe 33
 Tłumiki optyczne 46
@@ -121,12 +121,12 @@ System 45x45 40
 Kable sterownicze i alarmowe YTDY 9
 Ograniczniki przepięć LAN 21
 Kable telefoniczne 23
-Zasilanie (2245)
-Wszystkie 2245
+Zasilanie (2248)
+Wszystkie 2248
 Zasilacze UPS 372
 Zasilacze PoE 89
 Zasilacze buforowe 227
-Zasilacze impulsowe 512
+Zasilacze impulsowe 515
 Adaptery POE 52
 Akumulatory 106
 Przetwornice napięcia 158
@@ -246,9 +246,9 @@ Narzędzia i akcesoria (66)
 Wszystkie 66
 Komputer i biuro (107)
 Wszystkie 107
-Serwery i storage (240)
-Wszystkie 240
-Karty pamięci 1
+Serwery i storage (244)
+Wszystkie 244
+Karty pamięci 5
 Akcesoria 11
 Licencje 12
 Pamięci RAM 6
@@ -278,29 +278,29 @@ Produkty archiwalne (557)
 Wszystkie 557
 Czołowi producenci
 Nowości
-DIGITUS DS-12863 przełącznik KVM 2-portowy Triple Display 4K HDMI
-821.63 zł netto
+Mean Well HLG-185H-24B zasilacz LED 24 V 187,2 W IP67
+227.84 zł netto
 Do koszyka
-DIGITUS DS-12865 przełącznik KVM 2-portowy Dual Display 4K
-661.15 zł netto
+Mean Well HLG-185H-12A zasilacz LED 12 V 13 A 156 W IP65
+222.89 zł netto
 Do koszyka
-TP-Link Omada Flex Bridge 5 – zewnętrzny most bezprzewodowy 5 GHz
-554.4 zł netto
+Dystans do stelaża 15 cm z poprzeczkami, stal ocynkowana ogniowo
+24.65 zł netto
 Do koszyka
-TP-Link Omada Fusion G+ – brama sieciowa z kontrolerem
-971.19 zł netto
+Hikvision DS-2CD2143G2-LIPTRZS2UY(2.8/4mm) – biała kamera IP kopułkowa 4 MP PTRZ
+745.48 zł netto
 Do koszyka
-TP-Link Tapo T150 – czujnik obecności człowieka 5 w 1
-168 zł netto
+Hikvision DS-2CD2143G2-LIPTRZS2UY(2.8/4)O-STDBLACK – czarna kamera IP kopułkowa 4 MP PTRZ
+781.9 zł netto
 Do koszyka
-Mean Well HLG-150H-24B zasilacz LED 24 V 151,2 W z funkcją ściemniania
-212.98 zł netto
+Hikvision DS-2CD2143G2-LIS2U(2.8MM) – kamera IP 4 MP AcuSense
+677.82 zł netto
 Do koszyka
-Mean Well HLG-150H-24A zasilacz LED 24 V 150 W 6,3 A
-208.03 zł netto
+Hikvision DS-2CD2143G2-LIS2U(2.8mm)(BLACK) – kamera IP 4 MP AcuSense
+721.02 zł netto
 Do koszyka
-Mean Well HLG-150H-12B zasilacz LED 12 V 150 W IP67
-212.98 zł netto
+Hikvision DS-2CD2083G2-LI2U/SL 2.8mm BLACK PL – kamera IP 8 MP
+972.07 zł netto
 Do koszyka
 Projektowanie,
 budowa i integracja

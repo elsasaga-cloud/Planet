@@ -1,4 +1,4 @@
-# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-10-29T15:11:51Z · HTTP 200
 LAN Számítástecnikai Szolgáltató Kft.
 Ugrás a fő tartalomhoz
 Visszajelzés a kisegítő lehetőségekről
@@ -10,7 +10,7 @@ Ezek a cookie-k segítenek abban, hogy a webáruház használható és működő
 Marketing cookie-k
 Ezeket a cookie-k segítenek abban, hogy az Ön érdeklődési körének megfelelő reklámokat és termékeket jelenítsük meg a webáruházban.
 ×
-Miért érdemes szünetmentes tápegységet használni otthon?
+Az Ön véleménye segít minket a fejlődésben - Töltse ki elégedettségi kérdőívünket!
 2026.06.01-től változnak kiszállítási feltételeink.
 +36 1 415 2300
 Belépés
@@ -83,6 +83,10 @@ Kosárba
 Részletek
 Összes újdonság
 Hírek
+Az Ön véleménye segít minket a fejlődésben - Töltse ki elégedettségi kérdőívünket!
+2026. 10. 29.
+Az ügyfél-elégedettség kiemelten fontos számunkra, ezért folyamatosan azon dolgozunk, hogy szolgáltatásainkat az Ön igényeihez igazítsuk. Ennek egyik legfontosabb eszköze az ügyfeleinktől érkező visszajelzés.
+Részletek
 Miért érdemes szünetmentes tápegységet használni otthon és az irodában?
 2026. 10. 01.
 Az áramszünetek és a hálózati feszültségingadozások egyre gyakrabban okoznak kellemetlenséget mind az otthoni, mind az üzleti felhasználók számára. Egy váratlan áramkimaradás nemcsak a munkát szakíthatja félbe, hanem adatvesztést, hardverkárosodást és költséges leállásokat is eredményezhet. Erre kínálnak megbízható megoldást a szünetmentes tápegységek, más néven UPS-ek (Uninterruptible Power Supply).
@@ -126,11 +130,6 @@ Részletek
 A strukturált hálózatépítés hatékonysága nagyban függ a megfelelő komponensek kiválasztásától. A LAN Kft. legújabb terméke egy olyan komplex megoldást kínál, amely egyszerűsíti a beszerzést és gyorsítja a kivitelezést: megérkezett a moduláris patch panel szett keystone modulokkal.
 Termék
 Részletek
-Akciós 18U fali rackszekrények – 600x450 hegesztett és 600x600 kétrészes kivitel
-2026. 06. 23.
-A megfelelő rackszekrény kiválasztása fontos szerepet játszik a hálózati infrastruktúra rendezett és átlátható kialakításában. Kínálatunkban jelenleg két népszerű 18U fali rackszekrény is akciós áron érhető el: a 600x450 mm-es hegesztett , valamint a 600x600 mm-es kétrészes kivitel . Mindkét modell raktárról rendelhető.
-Termékek
-Részletek
 További hírek
 Top termékek
 Cat7 S/FTP PiMF LSOH/3 1200Mhz AWG23/1 500m DK-1743-VH-5
@@ -139,7 +138,7 @@ Cikkszám: K1131043
 Ár:
 248 Ft + ÁFA
 (315 Ft)
-23455 m raktáron
+22455 m raktáron
 m
 Kosárba
 Részletek
@@ -170,7 +169,7 @@ Cikkszám: TA-K661LSOH
 Ár:
 216 Ft + ÁFA
 (274 Ft)
-9810 m raktáron
+9505 m raktáron
 m
 Kosárba
 Részletek
@@ -190,7 +189,7 @@ Cikkszám: K1120501C6ADIG
 Ár:
 217 Ft + ÁFA
 (276 Ft)
-12410 m raktáron
+10580 m raktáron
 m
 Kosárba
 Részletek
@@ -210,7 +209,7 @@ Cikkszám: K1142060FÖLD
 Ár:
 186 Ft + ÁFA
 (236 Ft)
-3173 m raktáron
+2673 m raktáron
 m
 Kosárba
 Részletek
@@ -253,7 +252,7 @@ Cikkszám: K1131043
 Ár:
 248 Ft + ÁFA
 (315 Ft)
-23455 m raktáron
+22455 m raktáron
 m
 Kosárba
 Részletek
@@ -368,4 +367,11 @@ Nyitva: hétköznap -
 Információk
 Főoldal
 TERMÉKEK
-e-s
+e-számla
+Műszerbérlés 2026
+Hálózat
+Bemutatkozás
+kapcsolat ai
+Garancia
+Letölthető dokumentumok
+Kap

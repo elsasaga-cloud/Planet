@@ -40,11 +40,12 @@
    "source": "http://www.widen.co.th/"
   }
  ],
- "notes": "LT-T03 官网快照加厚（2026-10-21）：fail#1。\nA 确认：自有 logo 的光纤分销商，Saga MC/光纤交换机可直接贴牌；P1 = STI-110GE（MC）或 STC-28DGGPM 光口款，30% 档；泰国区可提 LINE 跟进。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\nA 确认：自有 logo 的光纤分销商，Saga MC/光纤交换机可直接贴牌；P1 = STI-110GE（MC）或 STC-28DGGPM 光口款，30% 档；泰国区可提 LINE 跟进。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1"
+  "level": "深挖 v1 + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "company_facts": {
   "legal_name": "WIDEN Co., Ltd.（Widen Trading / WIDEN NETWORK SOLUTIONS）",
@@ -189,6 +190,14 @@
     "quote": "Managed PoE Switches",
     "why": "最近一封去信（邮箱索引；去信共 27 封）",
     "k": "f68e0de76ea765a6"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "WIDEN Fiber Optic Patch Cord, Adapter, Closure, Media Converter, Video Converter, wall Mount, Rack Mount — บริษัทนำเข้าและจัดจำหน่ายด้าน Fiber Optic และอุปกรณ์ครบวงจร อาทิ เช่น Patch Cord, Adapter, Closure, Media Converter, Video Converter, Wall Mount และ Rack Mount เพื่อตอบโจทย์ความต้องการของลูกค้า",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "http://www.widen.co.th/"
    }
   ],
   "proof_gaps": [
@@ -202,11 +211,25 @@
  },
  "snap_thicken": {
   "consumed": [
-   "2026-10-21T09:19:35Z"
+   "2026-10-21T09:19:35Z",
+   "2026-10-29T15:26:46Z"
   ],
   "fails": [
    "2026-10-21"
   ],
-  "batch": "LT-T03"
+  "batch": "LT-T03",
+  "last_ok": "2026-10-29"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@widen.co.th",
+   "thawat@widen.co.th"
+  ],
+  "phones": [],
+  "social": [],
+  "models_on_site": [],
+  "url": "http://www.widen.co.th/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

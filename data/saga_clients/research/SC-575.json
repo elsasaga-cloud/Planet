@@ -46,7 +46,7 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 分销 20%：КСТ ООД / KST Ltd（София；ЕИК 831850563；1995；17–18 人；€3.26M；CATV / 布线分销 + Motorola 代表；管理人 Светлин Капитанов = 表内 skapitanov@）坐实；进口中国交换机 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔ 决策人直达 ✔ → P 池候选（13 推 0 回 → 点名换稿）；闸 1：保加利亚 KST（kst-bg.com；国内的交换机）：欧洲 + 已进口中国同类品牌 + 对位 ✔；13 推 0 回 → 闸 2 查底数，低优先",
- "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/saga_fit/deep/facts。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -76,8 +76,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "STC-228GP",
-   "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
+   "p1": "STC-424XGGM",
+   "why": "官网快照对位：10G/2.5G 词频 4、交换机 8 → 24 GE + 4×10G L2+ 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -99,6 +99,14 @@
     "quote": "BG · 1 次检索：papagal.bg（ЕИК / 状态 / 营业额 / 管理人）+ yox.bg（18 人；地址）+ linkedin（定位 / 11–50）；2026-10-29",
     "why": "闸 2 坐实来源（URL 见 company_facts.url）",
     "url": "https://papagal.bg/eik/831850563/93d8"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "KST Ltd",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.kst-bg.com/"
    }
   ],
   "proof_gaps": [
@@ -136,14 +144,50 @@
   "**CATV 分销补网络线 → 分销 20%：点名 Svetlin 一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-2224GP + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**"
  ],
  "saga_fit": {
-  "p1": "STC-228GP",
+  "p1": "STC-424XGGM",
   "tier": 20,
-  "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
-  "basis": "默认 · 官网快照后按业务线校正"
+  "why": "官网快照对位：10G/2.5G 词频 4、交换机 8 → 24 GE + 4×10G L2+ 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）",
+  "basis": "官网快照自动对位（LT-T03）· 人工点名时再校",
+  "p1_prev": "STC-228GP"
  },
  "deep": {
   "done_at": "2026-10-29",
-  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
-  "batch": "LT-T01"
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T01",
+  "snapshot_at": "2026-10-29"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:41:35Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [
+   "+359 2 927 72 54",
+   "+359 2 927 72 56",
+   "+35929277254"
+  ],
+  "social": [
+   "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.kst-bg.com%2F%25d0%25bd%25d0%25be%25d0%25b2%25d0%25be%25d1%2581%25d1%2582%25d0%25b8-%25d0%25b2-%25d1%2582%25d0%25b5%25d1%2585%25d0%25bd%25d0%25be%25d0%25bb%25d0%25be%25d0%25b3%25d0%25b8%25d0%25b8%25d1%2582%25d0%25b5%2F%25d0%25bd%25d0%25be%25d0%25b2%25d0%25b8-%25d0%25bc%25d0%25be%25d0%25b4%25d0%25b5%25d0%25bb%25d0%25b8-poe-%25d0%25ba%25d0%25be%25d0%25bc%25d1%2583%25d1%2582%25d0%25b0%25d1%2582%25d0%25be%25d1%2580%25d0%25b8-hi-tech%2F",
+   "https://www.facebook.com/KST-Ltd-110806232274514/",
+   "https://www.facebook.com/pages/KST-Ltd/110806232274514",
+   "https://x.com/intent/post?url=https%3A%2F%2Fwww.kst-bg.com%2F%25d0%25bd%25d0%25be%25d0%25b2%25d0%25be%25d1%2581%25d1%2582%25d0%25b8-%25d0%25b2-%25d1%2582%25d0%25b5%25d1%2585%25d0%25bd%25d0%25be%25d0%25bb%25d0%25be%25d0%25b3%25d0%25b8%25d0%25b8%25d1%2582%25d0%25b5%2F%25d0%25bd%25d0%25be%25d0%25b2%25d0%25b8-%25d0%25bc%25d0%25be%25d0%25b4%25d0%25b5%25d0%25bb%25d0%25b8-poe-%25d0%25ba%25d0%25be%25d0%25bc%25d1%2583%25d1%2582%25d0%25b0%25d1%2582%25d0%25be%25d1%2580%25d0%25b8-hi-tech%2F"
+  ],
+  "models_on_site": [
+   "IEEE802",
+   "AC1200",
+   "ISCOM6810-GP02-AC",
+   "ISCOM6810-GP02",
+   "AI2010GX",
+   "AI1016G",
+   "AI1010G",
+   "AI106G"
+  ],
+  "url": "https://www.kst-bg.com/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

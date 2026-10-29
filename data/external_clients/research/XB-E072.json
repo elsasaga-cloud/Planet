@@ -1,9 +1,9 @@
 {
  "code": "XB-E072",
  "name": "ITC Innovated Technology for Communication JSC",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 itc.com.vn MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（itc.com.vn，快照 2026-10-29）：ITC JSC",
  "summary": "ITC Innovated Technology for Communication JSC（越南 · Hanoi（含 HCMC / Da Nang））：系统集成商",
  "type_final": "系统集成商",
  "size": "",
@@ -38,12 +38,29 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；ITC JSC",
+   "quote": "ITC JSC",
+   "url": "https://itc.com.vn/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@itc.com.vn",
   "email_status": "活（来源库 9 月核对）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "info@itc.com.vn",
+   "infoitc@itc.com.vn"
+  ],
+  "page_phones": [
+   "+84-24) 3766 0066",
+   "+84-28) 39262651",
+   "+84-983) 174709"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-21 去信 1 / 来信 0（24 Port PoE Managed Switch）",
  "saga_overlap": "无",
@@ -59,5 +76,11 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:54:51Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

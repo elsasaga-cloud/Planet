@@ -1,13 +1,16 @@
 {
  "code": "XA-C0014",
  "name": "2IIBM TECH",
- "round": "W2-R05c",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（2iibm-tech.fr，快照 2026-10-29）：Spécialiste Câblage Réseau & Télécom France | 2IIBM TECH",
  "summary": "视频监控安装服务商（2IIBM Tech）",
  "type_final": "视频监控安装服务商（2IIBM Tech）",
  "size": "未量化",
- "brands_seen": [],
+ "brands_seen": [
+  "Ubiquiti",
+  "Cisco"
+ ],
  "saga_line": "—",
  "fit": "",
  "evidence": [
@@ -17,12 +20,30 @@
    "quote": "",
    "url": "https://2iibm-tech.fr/",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Spécialiste Câblage Réseau & Télécom France | 2IIBM TECH",
+   "quote": "Expertise en câblage réseau (VDI, fibre) et Télécom. Prestataire en vidéosurveillance, contrôle d’accès, téléphonie IP. Intervention pro",
+   "url": "https://www.2iibm-tech.fr/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "commercial@2iibm-tech.fr",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "commercial@2iibm-tech.fr"
+  ],
+  "page_phones": [
+   "+33) 06 76 64 52 65",
+   "+33) 6 76 64 52 65",
+   "+33)0676645265",
+   "+330676645265",
+   "+330677359783 2"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -36,7 +57,13 @@
   "window": "",
   "when": "不动"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:42:25Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

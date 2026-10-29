@@ -1,14 +1,15 @@
 {
  "code": "XC-C0174",
  "name": "Baltic Networks（美国）",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 balticnetworks.com MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（balticnetworks.com，快照 2026-10-29）：MikroTik & Ubiquiti Network Equipment | Baltic Networks",
  "summary": "Baltic Networks（美国）（美国）：MikroTik ISP设备；开发策略=美国MikroTik ISP分销；置信度=★★★★☆",
  "type_final": "MikroTik ISP设备",
  "size": "",
  "brands_seen": [
-  "MikroTik"
+  "MikroTik",
+  "Ubiquiti"
  ],
  "saga_line": "STC 汇聚 + STI 工业（25% 档）",
  "fit": "",
@@ -19,12 +20,24 @@
    "quote": "",
    "url": "https://balticnetworks.com",
    "date": "2026-09"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；MikroTik & Ubiquiti Network Equipment | Baltic Networks",
+   "quote": "Buy MikroTik and Ubiquiti networking gear including routers, switches, wireless, and IoT. In stock with fast US shipping and expert support.",
+   "url": "https://www.balticnetworks.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "",
   "email_status": "缺",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "hello@balticnetworks.com"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "Saga SC-562（balticnetworks.com）随主档",
@@ -40,5 +53,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:55:39Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGM",
+  "why": "官网快照对位：10G/2.5G 词频 25、交换机 103 → 24 GE + 4×10G L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

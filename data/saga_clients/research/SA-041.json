@@ -8,7 +8,10 @@
  "brands_seen": [
   "LightOptics",
   "磊通",
-  "GXCOM"
+  "GXCOM",
+  "Aruba",
+  "MikroTik",
+  "Cisco"
  ],
  "evidence": [
   {
@@ -49,11 +52,12 @@
    "source": "https://inwestrut.pl/fibermarkt-sp-z-o-o/"
   }
  ],
- "notes": "LT-T03 官网快照加厚（2026-10-21）：fail#1。\nA 确认（欧洲自有品牌 + 2 次实质回复 + 在售中国品牌）：对位 LO-IGS-M8GT2GF-HPOE ≈ STI-288DGGPM，MC = STI-110GE；贴牌 30%。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\nA 确认（欧洲自有品牌 + 2 次实质回复 + 在售中国品牌）：对位 LO-IGS-M8GT2GF-HPOE ≈ STI-288DGGPM，MC = STI-110GE；贴牌 30%。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1"
+  "level": "深挖 v1 + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "company_facts": {
   "legal_name": "FIBERMARKT SP. Z O.O.（KRS 0000356815 · NIP 6772343192 · REGON 121230858；2010-05-19；资本 123,700 PLN；Kraków）",
@@ -203,6 +207,14 @@
     "quote": "Managed PoE Switches",
     "why": "最近一封去信（邮箱索引；去信共 23 封）",
     "k": "c12866c8e3aa01f1"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Urządzenia światłowodowe - Postaw na Fibermarkt — Niezawodna i optymalna kosztowo optyka - moduły SFP, SFP+, XFP, QSFP+ oraz systemy CWDM. Ofertę uzupełniają wysokiej jakości patchcordy i konwertery mediów. Skontaktuj się z nami! Wysyłka w 24h. Polskie oprogramowanie. Bezpłatne doradztwo. Moduły opt",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://fibermarkt.com/pl"
    }
   ],
   "proof_gaps": [
@@ -216,11 +228,42 @@
  },
  "snap_thicken": {
   "consumed": [
-   "2026-10-21T09:20:19Z"
+   "2026-10-21T09:20:19Z",
+   "2026-10-29T15:26:46Z"
   ],
   "fails": [
    "2026-10-21"
   ],
-  "batch": "LT-T03"
+  "batch": "LT-T03",
+  "last_ok": "2026-10-29"
+ },
+ "site_contacts": {
+  "emails": [
+   "jan@firma.pl",
+   "sales@fibermarkt.com"
+  ],
+  "phones": [
+   "+48 533 533 575",
+   "+48 800 007 707",
+   "0000 4309 0600 1001"
+  ],
+  "social": [
+   "https://www.facebook.com/fibermarkt",
+   "https://www.linkedin.com/company/37852218",
+   "https://www.youtube.com/@fibermarkt6062"
+  ],
+  "models_on_site": [
+   "QSFP28",
+   "SFP28",
+   "SDR-480P-48",
+   "SFP-10G-SR",
+   "SFP-10G-LR",
+   "SFP-10G-LRM",
+   "LO-IGS-2GT1GF-POE",
+   "LO-IGS-4GT2GF-POE"
+  ],
+  "url": "https://fibermarkt.com/pl",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

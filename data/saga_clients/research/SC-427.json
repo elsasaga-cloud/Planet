@@ -42,7 +42,7 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · OEM 30%：TBK Vision（品牌真实：DVR 手册；域名关联法国 TBK SOLUTION SIREN 750660060；西班牙法人未得）部分坐实；自有品牌 ✔ 进口 Utepo ✔ 欧洲 ✔ → 入池观察档，预付 100%，先核法人 + 找新 KP；闸 1：西班牙 TBK Vision（安防品牌商，Utepo 工业交换机 + 自有型号，早期 AI 45% A）→ 主区 + 自有品牌 OEM 对象；退信但域名正常；14 次跟进 → 闸 2 找新 KP",
- "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：saga_fit.basis/deep/facts。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -111,6 +111,14 @@
     "quote": "ES · 1 次检索：verif.com（TBK SOLUTION FR 750660060；site tbkvision.com）+ manualslib（TBK NEO DVR）；西班牙登记无命中；2026-10-29",
     "why": "闸 2 坐实来源（URL 见 company_facts.url）",
     "url": "https://www.verif.com/en/company/TBK-SOLUTION-68d9c05a1299230338d95049/"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Plesk Obsidian 18.0.81",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://tbkvision.com/login_up.php"
    }
   ],
   "proof_gaps": [
@@ -152,11 +160,19 @@
   "p1": "STC-424XGGPM-280W",
   "tier": 30,
   "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
-  "basis": "默认 · 官网快照后按业务线校正"
+  "basis": "默认 · 官网快照已到（2026-10-29）无型号线索，沿用"
  },
  "deep": {
   "done_at": "2026-10-29",
-  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
-  "batch": "LT-T01"
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T01",
+  "snapshot_at": "2026-10-29"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:39:16Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
  }
 }

@@ -1,0 +1,6 @@
+# SC-1855 kirac bilisim · feed_auto · https://www.zkr.com.tr/feed/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+Thu, 23 Oct 2025 08:44:23 +0000	The Global Health Exhibition	https://www.zkr.com.tr/the-global-health-exhibition/
+Sat, 09 Sep 2023 14:41:30 +0000	The View Hospital QATAR Doha	https://www.zkr.com.tr/the-view-hospital-qatar-doha-2/
+Sat, 09 Sep 2023 14:40:56 +0000	Medica 2023 – Germany	https://www.zkr.com.tr/world-forum-for-medicene-2/
+Sat, 09 Sep 2023 14:39:54 +0000	Başakşehir Çam and Sakura City Hospital	https://www.zkr.com.tr/basaksehir-pine-and-sakura-city-hospital/
+Sat, 09 Sep 2023 14:38:05 +0000	ZKR MCW – Rooted Solution to Your Communication Problems	https://www.zkr.com.tr/zkr-mcw-rooted-solution-to-your-communication-problems/

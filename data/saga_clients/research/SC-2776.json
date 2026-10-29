@@ -33,7 +33,7 @@
  "kp": [],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 土耳其主区 · 巨头品牌商 OEM 30%（长线）：Karel Elektronik Sanayi ve Ticaret A.Ş.（Ankara Cyberpark 总部 + Sincan OSB 工厂；1986；≈ 2,500 人；100% 土耳其资本；IT 500 本土 IT 制造第一）部分坐实（ticaret sicil 未取）；Simon 二筛「用的丰润达的」= 已用中国 OEM ✔…；闸 1：土耳其 Karel（karel.com.tr 正常；Simon 二筛备注「用的丰润达的」✔ = 已采购中国 OEM 商业 PoE 交换机；Karel = 土耳其本土通信 / 网络设备品牌厂 → OEM 品牌商首选对象；无邮箱）：土耳其四主…",
- "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/saga_fit.basis/deep/facts。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -86,6 +86,14 @@
     "quote": "TR · 1 次检索：taysad.org.tr 会员页（法人名 / Cyberpark 地址）+ ostimsavunma.org（1986 / 2,500 人 / Sincan 工厂 / 出口 30+ 国）+ alo118（工厂地址）；ticaret sicil 未取；2026-10-29",
     "why": "闸 2 坐实来源（URL 见 company_facts.url）",
     "url": "https://www.ostimsavunma.org/companies/karel-elektronik-as-2"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Karel",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.karel.com.tr/"
    }
   ],
   "proof_gaps": [
@@ -125,11 +133,45 @@
   "p1": "STC-424XGGPM-280W",
   "tier": 30,
   "why": "默认对位（巨头品牌商 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
-  "basis": "默认 · 官网快照后按业务线校正"
+  "basis": "默认 · 官网快照已到（2026-10-29）无型号线索，沿用"
  },
  "deep": {
   "done_at": "2026-10-29",
-  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
-  "batch": "LT-T01"
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T01",
+  "snapshot_at": "2026-10-29"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:38:18Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "destek@karel.com.tr",
+   "satis@karel.com.tr"
+  ],
+  "phones": [],
+  "social": [
+   "https://twitter.com/karelcomtr",
+   "https://www.facebook.com/Karel.ComTr",
+   "https://www.instagram.com/karelcomtr",
+   "https://www.linkedin.com/company/karel-tr"
+  ],
+  "models_on_site": [
+   "WE105",
+   "VP129",
+   "IP138",
+   "IP136",
+   "IP132G",
+   "IP131",
+   "IP313G",
+   "IP311P"
+  ],
+  "url": "https://www.karel.com.tr/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

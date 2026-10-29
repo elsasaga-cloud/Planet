@@ -1,7 +1,7 @@
 {
  "code": "SA-079",
  "name_official": "Biz - Ethics Ltd.",
- "website_status": "",
+ "website_status": "快照失败（belnetworks.com：停放/空站（疑停业或仅占位），2026-10-29，第 1 次）",
  "summary": "已成单 12 个单号（2024-09-08 → 2026-08-30，RMB 单据合计 ≈101k，货代走账）；SmartByte + HRUI + Hohunet 三家都采购过；Simon 标签：活跃 · 货代走账 · 轻度绑定；详见 research/SA-079.json",
  "type": "网络设备经销/自有品牌 BNSC-（拉各斯）",
  "size": "",
@@ -136,7 +136,7 @@
    "source": "PI.zip 单据"
   }
  ],
- "notes": "",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：website_status/fail#1。\n",
  "researched_at": "2026-10-22",
  "deal_pi": {
   "folder": "12 尼日利亚 Mbata 活跃 货代走账 轻度绑定",
@@ -318,5 +318,14 @@
    "邮件 0 封，全部证据来自 Drive PI 包（PI + 采购合同 + 发货信息）；WhatsApp 聊天记录不在库"
   ],
   "breakpoint": "BNSC 线按 1–2 个月节奏复购（上次 2026-08-30），Netstream 线（CENTEC 核心 + 10G 上联 PoE）2025-11 之后未再买；渠道只有 WhatsApp（belnetworks.com 停放，info@ 不安全）；毛利 13–19%（低于 Realtek 20% 底线，Simon U28 绑定价不动）——断点 = Netstream 线为何停、以及任何涨价都会被货代走账的价格记忆顶住（全量审计 2026-10-25 U57 补）"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:26:47Z"
+  ],
+  "fails": [
+   "2026-10-29"
+  ],
+  "batch": "LT-T03"
  }
 }

@@ -5,7 +5,10 @@
  "summary": "国别纠偏：表内「玻利维亚」 → 拉脱维亚。OAK INTEGRATOR Products SIA：Reģ. Nr. 40003540103；2001-04-04；原 Beijer Electronics SIA，2016-02-01 更名；Rīga, Mežkalna iela 5。来源：公司底数登记（`data/saga_clients/registry/`，第 131 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。",
  "type": "工业自动化分销（Mitsubishi Electric 拉脱维亚独家 + Westermo / Korenix）",
  "size": "小型（$1.33M；3 人）",
- "brands_seen": [],
+ "brands_seen": [
+  "Westermo",
+  "Korenix"
+ ],
  "evidence": [
   {
    "kind": "登记",
@@ -17,7 +20,7 @@
  ],
  "researched_at": "2026-10-29",
  "country_fix": "拉脱维亚",
- "notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。\nT29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。",
  "override_history": [
   {
    "batch": "LT-01",
@@ -64,6 +67,14 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 欧洲 · 工业自动化小分销 20%：OAK INTEGRATOR Products SIA（Rīga；Reģ. 40003540103；2001；原 Beijer Electronics SIA；Mitsubishi Electric 独家 + Westermo / Korenix；$1.33M / 3 人）坐实；欧洲 ✔ 台湾工业品牌集成 ✔ 对位 ✔ → P 池候选；表内「玻利维亚」→ 拉脱维亚 country_fix 待 Simon",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Home Page | OAK INTEGRATOR — Special offer Buy any PLC from our new Mitsubishi Electric iQ-F (FX5) range and get GX Works 3 engineering software suit for just 1 EUR. Also get a GX Works 3 personalized training free-of-charge in our office. Learn more about Mitsubishi Electric iQ-F PLC and contact us",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://oak-integrator.lv/"
    }
   ],
   "proof_gaps": [
@@ -72,7 +83,39 @@
  },
  "deep": {
   "done_at": "2026-10-29",
-  "level": "邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓）",
-  "batch": "LT-T01"
+  "level": "邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T01",
+  "snapshot_at": "2026-10-29"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:36:11Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "alexander.kononov@oak-integrator.lv",
+   "email@oak-integrator.lv",
+   "kaspars.abolins@oak-integrator.lv",
+   "olga.vorobjova@oak-integrator.lv"
+  ],
+  "phones": [
+   "+371 26403573",
+   "+371 26441068",
+   "+371 29439448"
+  ],
+  "social": [
+   "https://www.facebook.com/oakintegrator/",
+   "https://www.linkedin.com/company/oak-integrator"
+  ],
+  "models_on_site": [
+   "LV-1058",
+   "MELSERVO-J4"
+  ],
+  "url": "https://oak-integrator.lv/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

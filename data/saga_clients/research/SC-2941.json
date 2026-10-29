@@ -11,7 +11,8 @@
   "3onedata",
   "Moxa",
   "Teltonika",
-  "Digitus"
+  "Digitus",
+  "Advantech"
  ],
  "evidence": [
   {
@@ -46,10 +47,11 @@
  "kp": [],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 工业 B2B 电商 + 自有商标 · OEM 30%：Lastella Trade S.r.l. = digitX.it（Funo di Argelato BO；P.I. 03695681209 / REA 539359；门户 2007 起；2018 注册商标 digitx；在售 Moxa / Planet / Teltonika）坐实；进口 3onedata / Planet ✔ 自有商标…；闸 1：意大利 Digitx（digitx.it；研究档：博洛尼亚工业电子 B2B 电商 2012 起，卖 Moxa / PLANET / 3onedata / Teltonika / Mean Well 给自动化客户；bypass / 工业电源…",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-028，W 批次调研 2026-10-19/20）"
+  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-028，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "company_facts": {
   "legal_name": "Lastella Trade S.r.l. (DigitX.it)",
@@ -131,10 +133,51 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 工业 B2B 电商 + 自有商标 · OEM 30%：Lastella Trade S.r.l. = digitX.it（Funo di Argelato BO；P.I. 03695681209 / REA 539359；门户 2007 起；2018 注册商标 digitx；在售 Moxa / Planet / Teltonika）坐实；进口 3onedata / Planet ✔ 自有商标 ✔ 欧洲 ✔ 对位 ✔ → P 池候选（退信 → 官网表单 / 电话）；Simon 曾判不行，可否决",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "DigitX - Soluzioni per l'Elettronica Industriale — Vendita on-line Prodotti Moxa, Teltonika, Takachi, Planet Technology, 3onedata, Patlite, Digitus, Mean Well, Advantech. Spedizioni in tutta Italia - DigitX",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.digitx.it/"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:38:48Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@digitx.it",
+   "postmaster@digitx.it"
+  ],
+  "phones": [],
+  "social": [
+   "https://twitter.com/lastellatrade",
+   "https://www.facebook.com/DigitX.it",
+   "https://www.linkedin.com/showcase/digitx-it",
+   "https://www.youtube.com/@digitX-it"
+  ],
+  "models_on_site": [
+   "AWK-3131A-EU",
+   "EDS-205",
+   "EDS-208",
+   "ISW-500T",
+   "RUT901",
+   "RS-232",
+   "RS-422",
+   "W2150A-W4-EU"
+  ],
+  "url": "https://www.digitx.it/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -1,0 +1,125 @@
+# P 级 / 资产池 · 动态监控 · 变化日志（append-only；每轮一节，无变化也记）
+
+## 2026-10-29T15:11:51Z（源 121）
+- XC-M092 VIDEOR E. Hartig GmbH · home（html）：首轮基线
+- XC-M118 EPTIMO S.A. · home（html）：首轮基线
+- XC-M082 ATYS-CO Kft · home（html）：首轮基线
+- XC-M349 SIA "EURO DK" · home（html）：首轮基线
+- XC-M349 SIA "EURO DK" · home_2（html）：首轮基线
+- XC-C0490 Smartplus Co. LLC · home（html）：首轮基线
+- XC-M090 Primation Systemtechnik GmbH & · home（html）：首轮基线
+- XC-M090 Primation Systemtechnik GmbH & · feed_auto（rss）：首轮基线
+- XC-M119 "MARITEX" Leszek Łosin Sp.j. · home（html）：首轮基线
+- XC-M119 "MARITEX" Leszek Łosin Sp.j. · home_2（html）：首轮基线
+- XC-M120 Tekniska Polska Przemysłowe Sy · home（html）：首轮基线
+- XC-M120 Tekniska Polska Przemysłowe Sy · home_2（html）：首轮基线
+- XC-M086 AIONA Automation GmbH · home（html）：首轮基线
+- XC-C0155 Sapphire Trading & Marketing L · home（html）：首轮基线
+- XC-C0155 Sapphire Trading & Marketing L · feed_auto（rss）：首轮基线
+- XC-C1023 IT Warehouse Distribution Inc. · home（html）：首轮基线
+- PA-002 Cartronic Memory S.A. · home（html）：首轮基线
+- PA-002 Cartronic Memory S.A. · feed_auto（rss）：首轮基线
+- PB-003 Konsorcjum FEN Sp. z o.o. · home（html）：首轮基线
+- PB-003 Konsorcjum FEN Sp. z o.o. · feed_auto（rss）：首轮基线
+- PB-003 Konsorcjum FEN Sp. z o.o. · home_2（html）：抓取失败：ConnectionError: HTTPSConnectionPool(host='planet.fen.pl', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='planet.fen.pl', port=443): Failed to resolve 'planet.fen.pl'
+- PA-012 SIR.tel. S.r.l. · home（html）：首轮基线
+- PB-018 Power Biztonságtechnikai Keres · home（html）：首轮基线
+- PB-018 Power Biztonságtechnikai Keres · home_2（html）：首轮基线
+- PA-013 Leteng AS · home（html）：首轮基线
+- PA-013 Leteng AS · feed_auto（rss）：首轮基线
+- PB-009 BTS NETWORK GmbH · home（html）：首轮基线
+- PB-009 BTS NETWORK GmbH · home_2（html）：首轮基线
+- PB-088 Mills Limited · home（html）：首轮基线
+- PA-007 ALARM ABSOLON, spol. s r.o. · home（html）：首轮基线
+- PA-008 Aspectis Informatikai és Bizto · home（html）：首轮基线
+- PB-011 ProVu Communications Ltd · home（html）：首轮基线
+- PB-020 Jlinks Technology Corp. · home（html）：首轮基线
+- PB-033 Hasan Ergen – Ergen Elektronik · home（html）：首轮基线
+- PB-040 H&V Security B.V. · home（html）：首轮基线
+- PC-011 Akçaba Communications · home（html）：首轮基线
+- PC-011 Akçaba Communications · feed_auto（rss）：首轮基线
+- PB-052 STS Lab, Inc. · home（html）：首轮基线
+- PB-058 JPF Industries SAS · home（html）：首轮基线
+- PB-058 JPF Industries SAS · feed_auto（rss）：首轮基线
+- PB-059 Europ Computer Performance SAR · home（html）：抓取失败：SSLError: HTTPSConnectionPool(host='europ-computer.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: 
+- PB-061 Elctron E-commerce Partners Sp · home（html）：首轮基线
+- PA-016 VOIP24SKLEP.PL Sp. z o.o. · home（html）：首轮基线
+- PB-082 Snugfort Limited · home（html）：首轮基线
+- PB-002 W3CAM SAS · home（html）：首轮基线
+- PA-010 iOC Tech Inc. · home（html）：首轮基线
+- PA-010 iOC Tech Inc. · home_2（html）：首轮基线
+- PB-025 Microdata Finland Oy · home（html）：首轮基线
+- PB-049 Intermédia – Informática, Lda · home（html）：首轮基线
+- XC-M095 GOMA ELETTRONICA SpA · home（html）：首轮基线
+- XC-M093 Compass Distribution · home（html）：首轮基线
+- XC-M185 Koning & Hartman B.V. · home（html）：首轮基线
+- XC-M185 Koning & Hartman B.V. · home_2（html）：首轮基线
+- XC-M186 SmartSD B.V. · home（html）：首轮基线
+- XC-M112 E.V.D.I. SAS · home（html）：首轮基线
+- XC-M115 PHOEBE Ile de France · home（html）：抓取失败：SSLError: HTTPSConnectionPool(host='phoebe.fr', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certifica
+- XC-M115 PHOEBE Ile de France · home_2（html）：首轮基线
+- XC-M117 SPHINX CONNECT FRANCE · home（html）：首轮基线
+- XC-M125 Electrobit OÜ · home（html）：首轮基线
+- XC-M127 AUTOMATIKOS CENTRAS, UAB · home（html）：首轮基线
+- XC-M187 MVA - Electrotécnia, Lda. · home（html）：首轮基线
+- XC-M194 Tektraco Ltd. · home（html）：首轮基线
+- XC-M194 Tektraco Ltd. · feed_auto（rss）：首轮基线
+- XC-M194 Tektraco Ltd. · home_2（html）：首轮基线
+- XC-M131 SC IMPERIAL ELECTRIC SA · home（html）：首轮基线
+- XC-M109 ELKOTEX d.o.o. · home（html）：首轮基线
+- XC-M109 ELKOTEX d.o.o. · home_2（html）：首轮基线
+- XC-M122 ATC AUTOMATION LIMITED · home（html）：首轮基线
+- XC-M122 ATC AUTOMATION LIMITED · feed_auto（rss）：首轮基线
+- XC-M103 Last Mile Communication AS · home（html）：首轮基线
+- XC-M121 Avtera BH d.o.o. · home（html）：抓取失败：ConnectionError: HTTPSConnectionPool(host='avtera.ba', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='avtera.ba', port=443): Failed to resolve 'avtera.ba' ([Errno -5]
+- XC-C1466 Hartford Electronics GmbH · home（html）：首轮基线
+- XC-E060 Delta Computer Products GmbH · home（html）：首轮基线
+- XC-M132 ABP Technology · home（html）：首轮基线
+- XC-M132 ABP Technology · feed_auto（rss）：首轮基线
+- XC-M154 Pulse Supply · home（html）：首轮基线
+- XC-M158 Santa Clara Systems, Inc. · home（html）：首轮基线
+- XC-M168 Marshall Wolf Automation, Inc. · home（html）：首轮基线
+- XC-M177 Distec Ltd · home（html）：首轮基线
+- XC-M177 Distec Ltd · feed_auto（rss）：首轮基线
+- XC-M179 LC Automation Ltd · home（html）：抓取失败：ConnectionError: HTTPSConnectionPool(host='lca.co.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='lca.co.uk', port=443): Failed to resolve 'lca.co.uk' ([Errno -5]
+- XC-E068 Vesper Technologies Ltd. · home（html）：首轮基线
+- XC-M124 DataLink Communications Ltd · home（html）：首轮基线
+- XC-M100 Adeptor AS · home（html）：首轮基线
+- XC-M100 Adeptor AS · feed_auto（rss）：首轮基线
+- XC-M101 Autic System AS · home（html）：首轮基线
+- XC-M101 Autic System AS · feed_auto（rss）：首轮基线
+- XC-M072 КОМИКОН ООД · home（html）：首轮基线
+- XC-M073 Ритбул ЕООД · home（html）：首轮基线
+- XC-E063 Xentech B.V. · home（html）：抓取失败：ConnectionError: HTTPSConnectionPool(host='xentech.nl', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='xentech.nl', port=443): Failed to resolve 'xentech.nl' ([Errno 
+- XC-M174 Control Technologies UK Ltd · home（html）：首轮基线
+- XC-M189 Ekanet Soluciones, S.L. · home（html）：首轮基线
+- XC-M097 Piero Bersanini · home（html）：首轮基线
+- XC-M087 Χ. Β. Τσακαρέλος & ΣΙΑ Ε.Ε. · home（html）：首轮基线
+- XC-M147 International Trade Carrier, L · home（html）：首轮基线
+- XC-M147 International Trade Carrier, L · feed_auto（rss）：首轮基线
+- XC-M116 QL3D · home（html）：首轮基线
+- XC-E059 Alyseo · home（html）：首轮基线
+- XC-E059 Alyseo · home_2（html）：抓取失败：ConnectionError: HTTPSConnectionPool(host='infra.alyseo.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='infra.alyseo.com', port=443): Failed to resolve 'infra.al
+- XC-M083 Aspect · home（html）：首轮基线
+- XC-E085 Racklive · home（html）：首轮基线
+- XC-M151 Power/mation · home（html）：首轮基线
+- XC-M151 Power/mation · feed_auto（rss）：首轮基线
+- XC-M140 CBT Company · home（html）：首轮基线
+- XC-M164 TMMI, LLC · home（html）：首轮基线
+- XC-M149 Logic, Inc. · home（html）：首轮基线
+- XC-M153 Process Technology, Inc. · home（html）：首轮基线
+- XC-C1449 EFCO Electronics GmbH · home（html）：首轮基线
+- XC-C1449 EFCO Electronics GmbH · home_2（html）：首轮基线
+- XC-M096 JAMPEL S.r.l. · home（html）：首轮基线
+- XC-C1431 HOTEL CARE · home（html）：首轮基线
+- XC-M126 evolvit Solutions AB · home（html）：首轮基线
+- XC-M126 evolvit Solutions AB · home_2（html）：首轮基线
+- XC-M184 Computer Products Professional · home（html）：首轮基线
+- XC-M176 Digital Controls · home（html）：首轮基线
+- XC-M133 Adcon Engineering Co., Inc. · home（html）：首轮基线
+- XC-M163 TCIC Inc. · home（html）：首轮基线
+- XC-M152 Power Motion Sales Inc. · home（html）：抓取失败：ConnectionError: HTTPSConnectionPool(host='powermotionsales.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='powermotionsales.com', port=443): Failed to resolve '
+- XC-M148 Lakeland Engineering Equipment · home（html）：首轮基线
+- XC-M148 Lakeland Engineering Equipment · feed_auto（rss）：首轮基线
+- XC-M141 Clayton Engineering Company · home（html）：首轮基线
+- 本轮抓取失败 14：PB-003/home_2：ConnectionError: HTTPSConnectionPool(host='planet.fen.pl', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='planet.fen.pl', port=443): Failed to resolve 'planet.fen.pl'；PB-009/home：HTTP 403；PB-059/home：SSLError: HTTPSConnectionPool(host='europ-computer.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: ；XC-M115/home：SSLError: HTTPSConnectionPool(host='phoebe.fr', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certifica；XC-M115/home_2：HTTP 404；XC-M121/home：ConnectionError: HTTPSConnectionPool(host='avtera.ba', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='avtera.ba', port=443): Failed to resolve 'avtera.ba' ([Errno -5]；XC-E060/home：HTTP 404；XC-M179/home：ConnectionError: HTTPSConnectionPool(host='lca.co.uk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='lca.co.uk', port=443): Failed to resolve 'lca.co.uk' ([Errno -5]；XC-E063/home：ConnectionError: HTTPSConnectionPool(host='xentech.nl', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='xentech.nl', port=443): Failed to resolve 'xentech.nl' ([Errno ；XC-M097/home：HTTP 403；XC-E059/home_2：ConnectionError: HTTPSConnectionPool(host='infra.alyseo.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='infra.alyseo.com', port=443): Failed to resolve 'infra.al；XC-M149/home：HTTP 403；XC-M133/home：HTTP 403；XC-M152/home：ConnectionError: HTTPSConnectionPool(host='powermotionsales.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='powermotionsales.com', port=443): Failed to resolve '

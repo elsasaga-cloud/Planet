@@ -1,9 +1,9 @@
 {
  "code": "XB-E069",
  "name": "Redinet CJSC",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 redinet.am MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（redinet.am，快照 2026-10-29）：",
  "summary": "Redinet CJSC（亚美尼亚 · Yerevan）：分销商",
  "type_final": "分销商",
  "size": "",
@@ -38,12 +38,30 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；",
+   "quote": "",
+   "url": "https://redinet.am/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "sales@redinet.am",
   "email_status": "活（来源库 9 月核对）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "hr@redinet.am",
+   "procurement@redinet.am",
+   "sales@redinet.am"
+  ],
+  "page_phones": [
+   "+374 10 20 05 60",
+   "+374 10 24 91 06",
+   "001 2002 2003 2004 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2001"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-21 去信 1 / 来信 0（24 Port PoE Managed Switch）",
  "saga_overlap": "无",
@@ -59,5 +77,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:54:42Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-280GE",
+  "why": "官网快照对位：工业/自动化词频 12、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手",
+  "date": "2026-10-29"
+ }
 }

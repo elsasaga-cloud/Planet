@@ -1,9 +1,9 @@
 {
  "code": "XC-M124",
  "name": "DataLink Communications",
- "round": "X1-02",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "alive": "在线（datalinkcom.net，快照 2026-10-29）：BASKET168 | Link Login Provider Pragmatic Slot Gacor Pasti Jackpot Malam Ini",
  "summary": "DataLink Communications Ltd：爱尔兰 / 英国工业通信分销（ORing 授权；emacsys 分销名录）；11–50 人",
  "type_final": "分销（ORing 授权）；DataLink Communications Ltd",
  "size": "",
@@ -36,6 +36,13 @@
    "quote": "",
    "url": "https://www.goldenpages.ie/dlc-datalink-communications-ltd-loughrea-H62/",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；BASKET168 | Link Login Provider Pragmatic Slot Gacor Pasti Jackpot Malam Ini",
+   "quote": "BASKET168 adalah platform yang menawarkan akses mudah untuk bermain berbagai permainan slot dari penyedia terkemuka, termasuk Pragmatic Play.",
+   "url": "https://www.datalinkcom.net/",
+   "date": "2026-10-29"
   }
  ],
  "touch_status": "未触达（路径 2026-10-29 新补）",
@@ -47,6 +54,12 @@
   "angle": "已入 P 池 → 按巡检节奏首触"
  },
  "deep": false,
- "notes": "DataLink Communications Ltd；Cloghaun, Kilchreest, Loughrea, Co. Galway, Ireland（LeadIQ 另列 Natick MA 地址，疑混淆）；+353 91 840838",
- "draft_en": null
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/evidence。\nDataLink Communications Ltd；Cloghaun, Kilchreest, Loughrea, Co. Galway, Ireland（LeadIQ 另列 Natick MA 地址，疑混淆）；+353 91 840838",
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:57:21Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

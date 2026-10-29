@@ -2,7 +2,7 @@
  "code": "SB-1003",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（aplusnet.de：域名不可达（DNS/连接失败），2026-10-21，第 1 次）",
+ "website_status": "在线（aplusnet.de，快照 2026-10-29）：Online Casinos mit schneller Auszahlung: Im Test 2026",
  "summary": "德国 A+ Net（aplusnet.de：SFP、工业 FS、MC、PoE；「Digitus 的产品很多，价格很高」；KP Sonja Geserick；表内「质量一般」；官网 unreachable）；表内未跟进。",
  "type": "网络产品经销商（德国，Digitus 为主）",
  "size": "",
@@ -37,10 +37,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：website_status/deep/facts。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "company_facts": {
   "hq": "Gerhard-Stalling-Straße 34, 26135 Oldenburg",
@@ -122,6 +123,14 @@
     "quote": "SFP 工业FS MC POE Digitus的产品很多 价格很高",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Online Casinos mit schneller Auszahlung: Im Test 2026 — Online Casinos mit Fokus auf schnelle Auszahlung: zehn Anbieter, Bonusbedingungen, Zahlungswege, KYC und Lizenzlage in Deutschland verständlich erklärt.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://aplusnet.de/"
    }
   ],
   "proof_gaps": [
@@ -135,11 +144,13 @@
  },
  "snap_thicken": {
   "consumed": [
-   "2026-10-21T09:27:15Z"
+   "2026-10-21T09:27:15Z",
+   "2026-10-29T15:31:45Z"
   ],
   "fails": [
    "2026-10-21"
   ],
-  "batch": "LT-T03"
+  "batch": "LT-T03",
+  "last_ok": "2026-10-29"
  }
 }

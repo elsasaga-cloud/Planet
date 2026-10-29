@@ -1,11 +1,18 @@
-# SB-815 lendoux.com · home · https://lendoux.com/en/ · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-815 lendoux.com · home · https://lendoux.com/en/ · fetched 2026-10-29T15:11:51Z · HTTP 200
 Lendoux Specialized Store
  New
 
+Review (0)
+Dell Unity XT 680
+$0.00
+ New
+
+Review (0)
 Dell Unity XT 480
 $0.00
  New
 
+Review (0)
 Dell PowerStore 1200
 $0.00
  The World of High-Tech at Your Fingertips: Fast, Easy, and Smart
@@ -53,24 +60,27 @@ More Category Less Category More Category Less Category
 Popular Products
 
 
-ColdLogik CL80 30kw data center InRow Coolers
+Microand smart Data Center package EDGE-8 with usystem ventilation
 Data center store
-$14,318.00 Price
 
-HAIRF R450C In Row 30kw data center air conditioning
-Data center store
-$6,500.00 Price
-
-NVIDIA MCX516A-CCAT dual port 100GbE server network card
-Data center store
-$978.00 Price
-
-FS Datacenter switch NC8200-4TD with 32*100G & 64*40G & 128*25G
+FS Datacenter switch MSN4410-WS2FC with 24*100G&8*400G
 Switch and router store
-$8,732.00 Price
+$67,350.00 Price
+
+Edgecore Datacenter switch DCS560-AS9817-64O-AS9817-64D-with 64*QSFP-DD800/OSFP800
+Switch and router store
+$1.00 Price
+
+HOP6862-54XC- 48 *10G Access 2x40G and 4x100G Uplink Switch
+Telecom and Network
+$5,700.00 Price
 All Featured Products 
 Latest Requests
 
+
+Dell Unity XT 680
+Home
+$0.00 Price
 
 Dell Unity XT 480
 Home
@@ -128,28 +138,34 @@ Most Viewed
  
 
 
-2250KVA CUMMINS DIESEL GENERATOR ,C2250D5P
-$283,500.00
+125KVA CUMMINS DIESEL GENERATOR ,C125D5P
 
  
  
 
 
-QSN14 Cummins Diesel Generator
+160KVA CUMMINS DIESEL GENERATOR ,C160D5P
 
  
  
 
 
-15 KVA CUMMINS DIESEL GENERATOR ,C15D5P
+625KVA CUMMINS DIESEL GENERATOR ,C625D5P
 
  
  
 
 
-1800KVA CUMMINS DIESEL GENERATOR ,C1800D5P
-$210,500.00
+QSK95 Cummins Diesel Generator
 New products
+New
+
+ 
+ 
+
+
+Dell Unity XT 680
+$0.00
 New
 
  
@@ -214,7 +230,7 @@ What is Milestone Video Surveillance Software and How Does It Work?
 Posted in:
 Products
 07/09/2025
-6686
+6695
 views
 Milestone Software | Optimal Choice for video Management Software
 Milestone's XProtect VMS products are designed as...
@@ -223,7 +239,7 @@ Getting to Know IPTV
 Posted in:
 Products
 06/12/2025
-4406
+4413
 views
 IPTV (Internet Protocol Television) is an innovative solution for the transmission of video, audio, image, and text...
 Read more
@@ -231,7 +247,7 @@ Industrial Dual PON ONU HOU14865
 Posted in:
 Products
 08/24/2023
-4667
+4679
 views
 HOU14865 is an industrial grade dual PON port ONU. Industrial-grade ONU equipment for natural heat dissipation of...
 Read more
@@ -239,7 +255,7 @@ Comparison of Microchip SyncServer S650 VS HOPF 8100
 Posted in:
 Products
 10/26/2024
-5358
+5367
 views
 Microchip, Hopf, Meinberg, WorldTime, and Saplink are among the best time server brands in the world from Germany,...
 Read more

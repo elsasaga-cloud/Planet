@@ -1,9 +1,9 @@
 {
  "code": "XA-C0008",
  "name": "Xortec GmbH",
- "round": "W1-R01",
- "researched_at": "2026-10-27",
- "alive": "活（官网 2026；2026-09 媒体仍报其并购）",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（xortec.de，快照 2026-10-29）：Xortec GmbH – Ihr Partner für Netzwerk- und Sicherheitstechnik",
  "summary": "法兰克福的 B2B 安防/网络增值分销商（2007 起，11–50 人，PE Beyond Capital 支持，2021–2022 连并柏林/慕尼黑/汉堡三家同行，全国多点），客户是 Facherrichter/经销商/电工企业；网店已卖 barox/Veracity/Hikvision 等网络与 PoE 产品，首页给出销售负责人 Michael Kahl 与 sales.fra@。",
  "type_final": "安防/网络增值分销商（全国多点）",
  "size": "11–50 人（LinkedIn，并购后或更多）",
@@ -11,7 +11,9 @@
   "Hikvision",
   "barox",
   "Veracity",
-  "eks"
+  "eks",
+  "Hanwha",
+  "Bosch"
  ],
  "saga_line": "HRUI PoE 主打 + SmartByte L2+ PoE",
  "fit": "安防 VAD 正是 HRUI PoE 的主渠道；已卖多牌 PoE，加一条中性低价线阻力小；有具名销售负责人",
@@ -43,6 +45,13 @@
    "quote": "",
    "url": "https://xortec.de/Produkte/Netzwerktechnik/IP-Extender/",
    "date": "2026-10-27"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Xortec GmbH – Ihr Partner für Netzwerk- und Sicherheitstechnik",
+   "quote": "Xortec GmbH – Ihr Partner für Netzwerk- und Sicherheitstechnik mit über 30 Jahren Erfahrung | Distribution and Solution Management.",
+   "url": "https://xortec.de/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
@@ -54,7 +63,19 @@
     "role": "法兰克福销售联系人",
     "source": "官网首页"
    }
-  ]
+  ],
+  "page_emails": [
+   "home@xortec.de",
+   "nutzer@beispiel.de",
+   "orders@xortec.de",
+   "sales.fra@xortec.de",
+   "vertrieb@xortec.de"
+  ],
+  "page_phones": [
+   "+49 (0) 69 5069886-0",
+   "000 1200 1500 3000 5000 6000"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "未发信",
  "saga_overlap": "无",
@@ -72,6 +93,17 @@
   "subject": "Neutral PoE switch line for your installer channel",
   "body": "Hello Mr. Kahl,\n\nSaga Telecom supplies PoE and L2+ switches to security and network distributors in Europe - under our label or the distributor's own. For a distributor serving Facherrichter, the line that usually moves is the one priced for the camera project rather than for the IT department.\n\nThree reference points at distributor level: STC-2224GP (24 x GE PoE+ + 2 x GE + 2 x SFP, 300 W, unmanaged) USD 86; 8-port PoE+ units from USD 28; and for the 10G-uplink tier STC-424XGGPM-280W (24 x GE PoE+ 280 W + 4 x 10G SFP+, Marvell L2+) USD 170, all EXW Shenzhen, snapshot 2026-10-27, valid 15 days, CE/RoHS/REACH, 12-month warranty. Your logo on the unit and carton is possible without MOQ.\n\nWould a PDF price sheet of the PoE range be useful for your product team, or do you prefer to start with a paid sample of the 24-port?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "notes": "不提 Hikvision 对比。",
- "deep": false
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\n不提 Hikvision 对比。",
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:42:23Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGM",
+  "why": "官网快照对位：10G/2.5G 词频 6、交换机 83 → 24 GE + 4×10G L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

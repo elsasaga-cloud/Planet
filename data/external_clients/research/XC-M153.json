@@ -1,19 +1,31 @@
 {
  "code": "XC-M153",
  "name": "Process Technology, Inc. (PTI)",
- "round": "X1-03",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "alive": "在线（process-tech.com，快照 2026-10-29）：Process Technology, Inc. - Process Instrumentation and Automation Control",
  "summary": "Process Technology, Inc.（PTI）：过程仪表 + 工厂自动化分销，1986 起，覆盖 8 州；11–50 人",
  "type_final": "分销（HMS/N-Tron·Red Lion 渠道）；Process Technology, Inc.（PTI）",
  "size": "",
  "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
  "fit": "○ 过程仪表 + 工厂自动化分销 20%：Process Technology, Inc.（Salt Lake City",
- "brands_seen": [],
+ "brands_seen": [
+  "Siemens"
+ ],
  "contacts": {
   "email": "process@process-tech.com",
   "email_status": "官网 / 名录公开（X1-03 补路径）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "ap@process-tech.com",
+   "danielg@process-tech.com",
+   "gregl@process-tech.com",
+   "marciem@process-tech.com",
+   "orders@process-tech.com",
+   "process@process-tech.com"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "evidence": [
   {
@@ -36,6 +48,13 @@
    "quote": "",
    "url": "https://www.crunchbase.com/organization/process-technology-inc",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Process Technology, Inc. - Process Instrumentation and Automation Control",
+   "quote": "Process Technology, Inc. delivers process instrumentation and automation control solutions with expert support across Utah, Arizona, and Colorado since 1986.",
+   "url": "https://process-tech.com/",
+   "date": "2026-10-29"
   }
  ],
  "touch_status": "未触达（路径 2026-10-29 新补）",
@@ -47,6 +66,17 @@
   "angle": "已入 P 池 → 按巡检节奏首触"
  },
  "deep": false,
- "notes": "Process Technology, Inc.（PTI）；4084 S 300 West, Salt Lake City, UT 84107（AZ / CO 分部）；+1 801 264 1114",
- "draft_en": null
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nProcess Technology, Inc.（PTI）；4084 S 300 West, Salt Lake City, UT 84107（AZ / CO 分部）；+1 801 264 1114",
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:57:43Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-280GE",
+  "why": "官网快照对位：工业/自动化词频 17、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手",
+  "date": "2026-10-29"
+ }
 }

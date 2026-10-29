@@ -1,9 +1,9 @@
 {
  "code": "XB-C0639",
  "name": "Neo Data Technologies",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 neodatatechnologies.com MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（neodatatechnologies.com，快照 2026-10-29）：You are being redirected...",
  "summary": "Neo Data Technologies（阿联酋）：MikroTik授权合作伙伴；公司全称=Neo Data Technologies；公司类型=IT硬件分销商；总部=Office 403, Sobha Ivory 1, Business Bay, Dubai, UAE；客户优先级=🟡 B类（多品牌IT硬件，含Hikvision/TP-Link）",
  "type_final": "MikroTik授权合作伙伴",
  "size": "",
@@ -28,6 +28,13 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；You are being redirected...",
+   "quote": "You are being redirected...",
+   "url": "https://neodatatechnologies.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
@@ -49,5 +56,11 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/evidence。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:53:16Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

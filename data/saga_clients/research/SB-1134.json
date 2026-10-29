@@ -6,7 +6,9 @@
  "summary": "A 邮箱 24 去 3 来；总经理 Antonio 三次真回：2025-05-28 要旁路交换机更多资料（给 STI-488XGGPM2B-2BT）；2026-01-19 对 CENTEC「OEM Core Switching Solution」说「Interesting solution. Please send the technical information so we can share it with our clients」→ Alan 01-20 发 PeakNetX V3.1 + Function List V2.4 + STH25G；01-20 回「Thank you for your support and for processing the information with the Data Center client. I'll leave you with some feedback」→ feedback 从未到；2026-09-09 推 16 口 DIN PoE 无回。",
  "type": "中美洲网络集成/分销商（为其客户转发方案）",
  "size": "（未核）",
- "brands_seen": [],
+ "brands_seen": [
+  "Huawei"
+ ],
  "evidence": [
   {
    "kind": "邮件",
@@ -42,10 +44,11 @@
  ],
  "grade_override": "A",
  "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
- "notes": "西语区（萨尔瓦多）；信件英文流畅。feedback 未到 = 典型「转发给客户后沉默」。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。\n西语区（萨尔瓦多）；信件英文流畅。feedback 未到 = 典型「转发给客户后沉默」。",
  "deep": {
   "done_at": "2026-10-24",
-  "level": "邮件证据 + 官网常识"
+  "level": "邮件证据 + 官网常识 + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "company_facts": {
   "legal_name": "Conexión de Redes de Centro América（NIT 1 查未得）",
@@ -138,6 +141,14 @@
     "quote": "This is our 16-port DIN PoE switch… Do you need some units for testing?",
     "why": "与 DC 话题无关的推送；无回",
     "k": "push"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Conexion de Redes | Equipos de Telecomunicaciones en El Salvador — Suministro e instalación de equipos de telecomunicaciones en El Salvador y Centroamérica. Especialistas en fibra óptica, FTTH, XGPON, Data Center, IPTV, microondas IP y redes LTE.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.conexionderedes.com/"
    }
   ],
   "proof_gaps": [
@@ -158,5 +169,32 @@
    "prev_reason": "总经理 3 次具名真回（2025-05、2026-01 ×2），有「Data Center client」在手并承诺反馈；自动 C 系无互动评分；按证据升 B（慢慢跟进，非主攻区）。",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）"
   }
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:26:55Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "gerencia@conexionderedes.com",
+   "tucorreo@ejemplo.com"
+  ],
+  "phones": [
+   "+503 2262-1049",
+   "+503 7553-2289"
+  ],
+  "social": [
+   "https://wa.me/50375532289?text=Hola%2C%20estoy%20interesado%20en%20el%20producto%3A%20ODF%20%20Din%20Riel%2C%20tipo%20Industrial",
+   "https://wa.me/50375532289?text=Hola%2C%20me%20gustar%C3%ADa%20obtener%20m%C3%A1s%20informaci%C3%B3n%20sobre%20sus%20productos%20y%20servicios."
+  ],
+  "models_on_site": [
+   "GR-326"
+  ],
+  "url": "https://www.conexionderedes.com/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

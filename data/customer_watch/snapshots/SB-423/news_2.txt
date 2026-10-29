@@ -1,4 +1,4 @@
-# SB-423 es-france.com · news_2 · https://www.es-france.com/blog/category/14-catalogues · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-423 es-france.com · news_2 · https://www.es-france.com/blog/category/14-catalogues · fetched 2026-10-29T15:11:51Z · HTTP 200
 Ressources d'ES France : Livres Blancs, Notes d'application, Etudes de cas, Catalogues
 Close
 Menu
@@ -321,14 +321,21 @@ Compteur & Industrie
 IOT & Smart Home
 Consommation en veille ultra-faible
 Dernières Actualités
+Développez des systèmes de test plus rapidement et plus intelligemment avec NI Nigel™ AI
+Découvrez le potentiel de NI Nigel™ AI lors de ce webinaire en replay
 Drones, UAV et eVTOL : solutions de test et mesure
 Les solutions ES France pour tester les drones et eVTOL : batteries, BMS, motorisation électrique, recharge, GNSS, RF...
 RF-Lambda : 5 solutions pour le filtrage, l'amplification et la mesure RF
 5 composants RF-Lambda pour filtrer, amplifier, coupler et détecter les signaux RF et hyperfréquences, de 30 MHz à...
-NI élargit sa gamme PXI avec de nouveaux DMM et oscilloscopes plus accessibles
-Découvrez les nouveautés NI PXI : multimètre PXIe-4086, oscilloscopes PXIe-5160/5162 et évolutions du logiciel...
 Ressources
-Il y a 398 Actualités.
+Il y a 399 Actualités.
+Développez des systèmes de test plus rapidement et plus intelligemment avec NI Nigel™ AI
+Posté le: 29/10/26
+|
+Catégories:
+Ressources , NI
+Découvrez le potentiel de NI Nigel™ AI lors de ce webinaire en replay
+Lire plus
 Drones, UAV et eVTOL : solutions de test et mesure
 Posté le: 28/10/26
 |
@@ -391,13 +398,6 @@ Posté le: 06/10/26
 Catégories:
 Ressources , TESTS & MESURES
 Découvrez les niveaux, montages, formes d’onde et critères d’évaluation des essais EFT/Burst.
-Lire plus
-Courantomètres Aqua Data : 5 applications réelles de mesure de débit
-Posté le: 02/10/26
-|
-Catégories:
-Ressources , BIO-TESTS & INDUSTRIES
-Hydrologie, recherche, enseignement et assainissement : découvrez 5 applications terrain des courantomètres Fluvia RC3 et FloStick RC4.
 Lire plus
 1
 2

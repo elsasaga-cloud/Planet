@@ -1,19 +1,28 @@
 {
  "code": "XC-M168",
  "name": "Wolf Automation",
- "round": "X1-02",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "alive": "在线（wolfautomation.com，快照 2026-10-29）：Industrial Controls Distributor | Marshall Wolf Automation",
  "summary": "Marshall Wolf Automation, Inc.：全线工业自动化分销（50+ 品牌授权；Advantech 授权）；11–50 人",
  "type_final": "分销（Advantech 授权）；Marshall Wolf Automation, Inc.",
  "size": "",
  "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
  "fit": "○ 全线工业自动化分销 20%：Marshall Wolf Automation, Inc.（Algonquin IL；",
- "brands_seen": [],
+ "brands_seen": [
+  "Advantech"
+ ],
  "contacts": {
   "email": "sales@wolfautomation.com",
   "email_status": "官网 / 名录公开（X1-02 补路径）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "sales@wolfautomation.com"
+  ],
+  "page_phones": [
+   "00037 186 1160 0037"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "evidence": [
   {
@@ -43,6 +52,13 @@
    "quote": "",
    "url": "https://www.glassdoor.com/Overview/Working-at-Marshall-Wolf-Automation-EI_IE1802137.11,35.htm",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Industrial Controls Distributor | Marshall Wolf Automation",
+   "quote": "Find industrial automation solutions for OEMs, manufacturers, system integrators, and end users. Fast shipping, expert support, and trusted brands.",
+   "url": "https://www.wolfautomation.com/",
+   "date": "2026-10-29"
   }
  ],
  "touch_status": "未触达（路径 2026-10-29 新补）",
@@ -54,6 +70,17 @@
   "angle": "已入 P 池 → 按巡检节奏首触"
  },
  "deep": false,
- "notes": "Marshall Wolf Automation, Inc.；210 Dowdle Street Ste 1 / 923 S Main St, Algonquin IL 60102；+1 847-658-8130",
- "draft_en": null
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nMarshall Wolf Automation, Inc.；210 Dowdle Street Ste 1 / 923 S Main St, Algonquin IL 60102；+1 847-658-8130",
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:57:47Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-288GPM",
+  "why": "官网快照对位：工业/自动化词频 42、PoE 3 → DIN 8 PoE+ 2 SFP 起手",
+  "date": "2026-10-29"
+ }
 }

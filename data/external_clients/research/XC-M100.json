@@ -1,9 +1,9 @@
 {
  "code": "XC-M100",
  "name": "Adeptor AS",
- "round": "X1-02",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "alive": "在线（adeptor.no，快照 2026-10-29）：Adeptor AS – Produkter og kompetanse for krevende miljøer",
  "summary": "Adeptor AS：电子 / 电气设备增值分销 20 年（HMS Red Lion / N-Tron 渠道）；部门负责人具名（elen.arnoy@ / leah.foseid@ / elias.storaas@ 见官网）",
  "type_final": "分销（HMS：Red Lion / N-Tron）；Adeptor AS",
  "size": "",
@@ -36,6 +36,13 @@
    "quote": "",
    "url": "https://www.proff.no/selskap/adeptor-as/bergen/elektronikk-og-telekommunikasjonsutstyr-engros/IGHRGUZ10MZ",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Adeptor AS – Produkter og kompetanse for krevende miljøer",
+   "quote": "Produkter og kompetanse for industriell kommunikasjon, automasjon, belysning, Ex-komponenter, test, inspeksjon og måleteknikk.",
+   "url": "https://www.adeptor.no/",
+   "date": "2026-10-29"
   }
  ],
  "touch_status": "未触达（路径 2026-10-29 新补）",
@@ -47,6 +54,12 @@
   "angle": "已入 P 池 → 按巡检节奏首触"
  },
  "deep": false,
- "notes": "Adeptor AS；Kanalveien 62, 5068 Bergen（+ Stavanger / Oslo / Kungälv SE）；+47 55 59 69 90；X1-02R 补证：Org.nr 997 293 851（2011-09-02）",
- "draft_en": null
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/evidence。\nAdeptor AS；Kanalveien 62, 5068 Bergen（+ Stavanger / Oslo / Kungälv SE）；+47 55 59 69 90；X1-02R 补证：Org.nr 997 293 851（2011-09-02）",
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:57:10Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

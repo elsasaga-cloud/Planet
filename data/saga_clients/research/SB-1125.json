@@ -8,7 +8,8 @@
  "size": "",
  "brands_seen": [
   "PLANET",
-  "MikroTik"
+  "MikroTik",
+  "Teltonika"
  ],
  "evidence": [
   {
@@ -59,10 +60,11 @@
  ],
  "grade_override": "B",
  "override_reason": "Planet 渠道档案 PB-036 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-036，W 批次调研 2026-10-19/20）"
+  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-036，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "company_facts": {
   "legal_name": "Globall Distribution（法定名 / NEQ 未取；仓库 4185 rue Marcel Lacasse, Boisbriand, QC J7H 1N4；旧址 773 Boul. Industriel, Blainville；Self-Owned；2–10 人）",
@@ -154,10 +156,49 @@
     "why": "Elsa 2025-02 对加拿大做过一轮 1:1（infralinknetworks / globall / communitech 同日），本户 0 回；之后未进任何 BCC 批次",
     "k": "elsa_1to1",
     "msg_id": "195483e565c421fc"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Home — Globall Distribution imports and supplies data and network products, monitoring and telephony. Complete solutions are offered to IT resellers, integrators and stores. We offer the best branded equipment.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.globall.ca/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:32:32Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@globall.ca"
+  ],
+  "phones": [],
+  "social": [
+   "https://www.facebook.com/globalldistribution",
+   "https://www.linkedin.com/company/2441118/admin/?feedType=following",
+   "https://www.youtube.com/channel/UCWYT9ajkP-f4GEW5v1rtSuw"
+  ],
+  "models_on_site": [
+   "TSW100000010",
+   "TSW100",
+   "UHV-20X-IPS-NDI-OPEN",
+   "IEEE802",
+   "UHV-20X-IPS-NDI",
+   "UHV-20X-IP-S",
+   "GDWBCA17",
+   "IPX-2200"
+  ],
+  "url": "https://www.globall.ca/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

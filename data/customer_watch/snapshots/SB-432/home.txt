@@ -1,4 +1,4 @@
-# SB-432 qubix.it · home · https://qubix.it/ · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-432 qubix.it · home · https://qubix.it/ · fetched 2026-10-29T15:11:51Z · HTTP 200
 QUBIX – Networking Solution
 ×
 Area riservata: login
@@ -407,7 +407,7 @@ Ventilazione (8)
 Gestione cablaggio (11)
 Alimentazione (2)
 Accessori (6)
-Cablaggio rame (215)
+Cablaggio rame (214)
 Cavi (23)
 Categoria 5E (6)
 Categoria 6 (9)
@@ -441,7 +441,7 @@ Isolatori di rete (1)
 Adattatori per serie civile (40)
 Scatole da parete (7)
 Supporti da parete (8)
-Industrial System (11)
+Industrial System (10)
 Cablaggio ottico (536)
 Cavi ottici (114)
 Per interno (12)

@@ -2,7 +2,7 @@
  "code": "SB-949",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（ksm.com.au：域名不可达（DNS/连接失败），2026-10-21，第 1 次）",
+ "website_status": "在线（ksm.com.au，快照 2026-10-29）：KSM Solutions",
  "summary": "澳大利亚 KSM（ksm.com.au：工业 MC「很多外壳 有像国内的」、常总的工业 FS、商业 FS、SFP；产品页 industrial-grade-managed-l2-ethernet-switch-l2t4m；KP Kevin（质量高）；官网 unreachable）；群发 22 次无回复。",
  "type": "工业网络经销商（澳大利亚，国内货源在供）",
  "size": "",
@@ -42,10 +42,11 @@
  ],
  "grade_override": "A",
  "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
- "notes": "LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/deep/facts。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "company_facts": {
   "hq": "Suite 18, 12 Tryon Rd, Lindfield NSW 2070（+61 412 921 435 / 02 8003 3372）（第 118 批 官方登记核实 2026-10-28）",
@@ -151,6 +152,14 @@
     "quote": "Thank you for your email, please select from one of the options below?｜In order to best service your inquiry, please make a selection:   For immediate attention please call reception: 02 8003",
     "why": "自动分流回复（「please select from one of the options」，机器）",
     "k": "44c06ef904f344a1"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "KSM Solutions — KSM Solutions, KSM Australia",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.ksm.com.au/"
    }
   ],
   "proof_gaps": [],
@@ -169,11 +178,26 @@
  ],
  "snap_thicken": {
   "consumed": [
-   "2026-10-21T09:25:36Z"
+   "2026-10-21T09:25:36Z",
+   "2026-10-29T15:27:00Z"
   ],
   "fails": [
    "2026-10-21"
   ],
-  "batch": "LT-T03"
+  "batch": "LT-T03",
+  "last_ok": "2026-10-29"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@ksm.com.au"
+  ],
+  "phones": [
+   "+61 (0)41 2921435"
+  ],
+  "social": [],
+  "models_on_site": [],
+  "url": "https://www.ksm.com.au/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

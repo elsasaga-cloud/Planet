@@ -1,9 +1,9 @@
 {
  "code": "XB-E058",
  "name": "PETACOM TECHNOLOGY CO., LTD.",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 petacom.com.tw MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（petacom.com.tw，快照 2026-10-29）：朔宇科技 PetaCom｜IT整合首選代理商",
  "summary": "PETACOM TECHNOLOGY CO., LTD.（中国台北 · Taipei）：分销商",
  "type_final": "分销商",
  "size": "",
@@ -38,12 +38,25 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；朔宇科技 PetaCom｜IT整合首選代理商",
+   "quote": "朔宇科技成立 2017 年，零壹科技子公司，專注企業 IT 軟硬體與整合：網路基礎、效能優化、資安、運算與儲存、虛擬化、協作平台，助夥伴提升競爭力與市場效益共贏。",
+   "url": "https://petacom.com.tw/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "marketing@petacom.com.tw",
   "email_status": "活（来源库 9 月核对）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "lau@petacom.com.tw",
+   "marketing@petacom.com.tw"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-21 去信 1 / 来信 0（24 Port PoE Managed Switch）",
  "saga_overlap": "无",
@@ -59,5 +72,11 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:54:40Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

@@ -1,19 +1,29 @@
 {
  "code": "XC-M147",
  "name": "International Trade Carrier, LLC",
- "round": "X1-02",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "alive": "在线（internationaltradecarrier.com，快照 2026-10-29）：Home - International Trade Carrier, LLC",
  "summary": "International Trade Carrier, LLC：电子元件 / 电源 B2B 批发采购（EtherWAN 授权）",
  "type_final": "分销（EtherWAN 授权）；International Trade Carrier, LLC",
  "size": "",
  "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
  "fit": "☆ 电子元件 / 电源 B2B 批发采购 20%：International Trade Carrier, LLC（Be",
- "brands_seen": [],
+ "brands_seen": [
+  "Advantech",
+  "EtherWAN"
+ ],
  "contacts": {
   "email": "info@internationaltradecarrier.com",
   "email_status": "官网 / 名录公开（X1-02 补路径）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "info@internationaltradecarrier.com"
+  ],
+  "page_phones": [
+   "+1 (888) 727-0440"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "evidence": [
   {
@@ -21,6 +31,13 @@
    "claim": "官网 Contact：International Trade Carrier, LLC · Bethesda MD 20817 · info@internationaltradecarrier.com",
    "quote": "",
    "url": "https://www.internationaltradecarrier.com/contact/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Home - International Trade Carrier, LLC",
+   "quote": "Home - International Trade Carrier, LLC",
+   "url": "https://www.internationaltradecarrier.com/",
    "date": "2026-10-29"
   }
  ],
@@ -33,6 +50,17 @@
   "angle": "观察档 → 试单后转正"
  },
  "deep": false,
- "notes": "International Trade Carrier, LLC；6710A Rockledge Drive Suite 400, Bethesda MD 20817；+1 888-727-0440",
- "draft_en": null
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nInternational Trade Carrier, LLC；6710A Rockledge Drive Suite 400, Bethesda MD 20817；+1 888-727-0440",
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:57:43Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-288GPM",
+  "why": "官网快照对位：工业/自动化词频 69、PoE 4 → DIN 8 PoE+ 2 SFP 起手",
+  "date": "2026-10-29"
+ }
 }

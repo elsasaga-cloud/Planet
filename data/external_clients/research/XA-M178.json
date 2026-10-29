@@ -1,14 +1,22 @@
 {
  "code": "XA-M178",
  "name": "NFTECH - WIFI France",
- "round": "W2-R05c",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（wifi-france.com，快照 2026-10-29）：WiFi France - Solutions WiFi, Réseaux & Téléphonie pour Entreprises et Particuliers",
  "summary": "企业 WiFi/网络/电话集成商（NFTECH - WiFi France，Metz）；卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口",
  "type_final": "企业 WiFi/网络/电话集成商（NFTECH - WiFi France，Metz）",
  "size": "未量化",
  "brands_seen": [
-  "MikroTik（Reseller）"
+  "MikroTik（Reseller）",
+  "TP-Link",
+  "Ubiquiti",
+  "D-Link",
+  "Teltonika",
+  "MikroTik",
+  "Zyxel",
+  "Cisco",
+  "Grandstream"
  ],
  "saga_line": "—",
  "fit": "",
@@ -26,12 +34,24 @@
    "quote": "",
    "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
    "date": "2026-10-06"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；WiFi France - Solutions WiFi, Réseaux & Téléphonie pour Entreprises et Particuliers",
+   "quote": "WiFi France | Expert en réseaux sans fil depuis 2014. Distributeur officiel UBIQUITI, MIKROTIK, TP-LINK, CISCO, CISCO MERAKI, YEALINK, GRANDSTREAM, RUCKUS... Points d'accès WiFi, antennes, routeurs, switches et téléphonie IP pour entreprises et collectivités. Conseil technique et livraison rapide.",
+   "url": "https://www.wifi-france.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "contact@wifi-france.com",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "contact@wifi-france.com"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-06 群发「24 Port PoE Managed Switch」→ 已发未回",
  "saga_overlap": "无",
@@ -45,7 +65,18 @@
   "window": "",
   "when": "不动"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:46:08Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGM",
+  "why": "官网快照对位：10G/2.5G 词频 10、交换机 116 → 24 GE + 4×10G L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

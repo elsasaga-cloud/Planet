@@ -1,0 +1,150 @@
+# XC-E059 Alyseo · home · https://alyseo.com/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+Home - Alyseo
+Notre concept
+Découvrez notre concept
+Décuplez le potentiel de vos bâtiments
+Nos produits
+WireBOS
+WireNode
+WireGet
+Nos solutions
+Découvrez toutes nos applications
+Le portail hypervision
+La suite applicative de vos occupants
+Nos services applicatifs
+Bilan énergétique
+Thermostat
+Qualité de l'air
+Smart Control
+Nos projets
+À propos
+Contact
+Supervisez et pilotez à distance tous vos équipements
+Grâce à la plateforme d'hypervision NeMa, analysez les consommations et productions d'énergies de vos bâtiments, économisez sur vos frais de maintenance avec des alertes préventives. Gérez la sécurité de vos bâtiments, pilotez les thermostats, éclairages, VMC et automatisez vos scénarios à distance.
+Découvrir NeMa
+Le système d'exploitation des bâtiments intelligents , durables , et sobres en énergie
+Simplifiez la gestion de vos bâtiments résidentiels et tertiaires , optimisez leurs performances énergétiques et maîtrisez vos coûts d'exploitation avec nos solutions Smart Buildings.
+Découvrez nos solutions
+Propulsez vos bâtiments dans l'ère numérique
+À la pointe des dernières technologies réseaux et de l'Internet des Objets (IoT), notre BOS collecte, standardise et analyse toutes les données de vos équipements pour des bâtiments réellement intelligents, autonomes et performants.
+Un BOS ? Quézako ?
+Valorisez votre patrimoine immobilier en proposant des services à vos occupants
+Prévenir les risques, améliorer le confort et sensibiliser à la sobriété énergétique, c'est possible grâce à notre suite applicative NeHo !
+Découvrir NeHo
+Plateforme d'hypervision des bâtiments
+Building Operating System (BOS)
+Smart Buildings
+Logements et bureaux connectés
+Nous vous proposons des solutions sur-mesure
+Découvrir nos réalisations
+Logement individuel
+Résidences collectives, hôtels...
+Collectivités, bâtiments publics, écoles...
+Bureaux, tertiaire, industrie...
+Nos solutions sont pensées pour tous les acteurs du bâtiment
+Je suis...
+MO, MOA, Facility Managers...
+Gestionnaire, bailleur, syndic...
+Intégrateur, installateur...
+Bureaux d'études
+Équipementiers, OEM
+Écoles, hôpitaux, ERP, bâtiments administratifs, logements sociaux...
+Optez pour une solution rapide à déployer, pour une mise en conformité simple aux nouvelles normes en vigueur
+Face aux nouvelles obligations réglementaires du décret tertiaire et BACS, Alyseo vous accompagne avec une solution clé en main pour répondre efficacement aux exigences de réduction des consommations énergétiques finales, et aux obligations d'installation d'un systèmes de suivi, de collecte et d'analyse des données de consommations de vos bâtiments.
+Bâtiments tertiaires, bureaux, résidences collectives...
+Alors que 70% des GTB installées sont sous-exploitées selon l'ADEME , nos solutions vous garantissent :
+Un pilotage simplifié et centralisé de l'ensemble de vos installations
+Un suivi précis de vos consommations énergétiques
+Des outils d'aide à la décision pour optimiser vos performances
+Un accompagnement dans votre démarche de sobriété énergétique
+Des outils de télédéclaration vers la plateforme OPERAT
+Simplifiez la gestion de votre parc immobilier
+Avec NeMa, supervisez et pilotez à distance l'ensemble de vos bâtiments sur une seule et même application. Nos solutions vous permettent de mieux anticiper vos interventions techniques grâce à des systèmes d'alertes paramétrables, de la maintenance préventive et des tableaux de bord d'analyse.
+Améliorez la gestion des charges énergétiques
+Impliquez vos usagers dans une démarche de sobriété énergétique pour économiser jusqu'à 15% d'énergie grâce à :
+Des outils de sensibilisation aux consommations d'énergie, avec de l'auto-comparaison et des référentiels à logement ou bureau équivalent, et des estimations prévisionnelles en euros et équivalent carbone
+Une meilleure acceptabilité des charges grâce au suivi continu et la possibilité d'individualiser les frais en se basant sur la consommation réelle
+Des suggestions adaptées d'éco-gestes permettant de réaliser des économies d'énergies
+Facilitez la relation avec vos occupants
+Gérez en quelques clics les arrivées et départ de nouveaux usagers
+Paramétrez finement les permissions et droits d'accès de vos occupants
+Communiquez plus facilement auprès de vos occupants
+Gagnez en efficacité avec sur vos installations
+Nos solutions ont été conçues pour vous faciliter la vie :
+Processus standardisés robustes qui s'adaptent quelle que soit l'avancée du chantier (déploiement à distance en quelques clics d'un nouveau projet, possibilité de pré-appairage en atelier avant intervention pour les sites avant même leur mise en électricité...)
+Mise à disposition des données et services simplifiée auprès de vos clients, via une plateforme web ou application mobile personnalisables, avec une gestion fine des comptes utilisateurs et de leurs droits d'accès au système
+Compatible avec la majorité des protocoles établis du marché (ZigBee, Matter, LoRa, ModBus, EnOcean, KNX, WiFi, Bluetooth...)
+Assurez une maintenance préventive efficace
+Simplifiez le suivi de vos installations grâce à :
+La détection automatique et préventive des pannes d'équipements
+Des alertes et un suivi en temps réel
+Un diagnostic à distance et un support technique dédié
+La gestion du silence, du bruit et des dérives
+Différenciez votre approche auprès de vos clients
+Démontrez l'efficacité de vos propositions et démarquez-vous en adoptant un écosystème qui propose des services à forte valeur ajoutée :
+Notre API documentée facilite l'intégration de services et produits existants dans notre écosystème d'applications
+Nos supportons déjà nativement la majorité des protocoles ouverts et standardisés du marché, sans développement à fournir de votre part
+Débloquez de nouvelles fonctionnalités et cas d'usages pour les équipements grâce à l'interopérabilité
+Consolidez vos audits et prestations
+Comparez les gains prévisionnels et réels après travaux avec des données mesurées et fiabilisées
+Générez des rapports automatisés au format PDF pour vos clients
+Facilitez votre travail d'audit et exploitez les données dans vos outils métiers grâce à nos exports de données brutes personnalisables
+Suivez en continu vos installations pour affiner vos préconisations
+Valorisez le potentiel de vos équipements
+Démontrez l'efficacité de vos produits au sein d'un écosystème qui les exploite comme base de services à forte valeur ajoutée :
+Notre API documentée facilite l'intégration de vos services et produits existants dans notre écosystème d'applications
+Nos supportons déjà nativement la majorité des protocoles ouverts et standardisés du marché, sans développement à fournir de votre part
+Débloquez de nouvelles fonctionnalités et cas d'usages pour vos équipements grâce à l'interopérabilité
+Gagnez en agilité dans votre proposition de valeur
+Développez votre offre de service autour de vos produits grâce à nos applications disponibles en marque blanche
+Adaptez vos solutions aux attentes du marché actuel et à venir
+Simplifiez l'exploitation de votre parc immobilier
+Vous cherchez à optimiser la gestion de vos bâtiments tout en faisant des économies d'énergie ?
+Avec WireBOS, Alyseo propose un système d'exploitation à la pointe de la technologie qui vous permet de visualiser les données de vos bâtiments et piloter vos équipements à distance. Simplifiez votre gestion tout en proposant des services à vos occupants : Alyseo vous accompagne vers des bâtiments connectés efficaces, performants et durables.
+Découvrir nos solutions
+Maîtrisez et anticipez vos coûts
+Gagnez en efficacité et faites des économies dans tous les domaines :
+Diminuez jusqu'à 15 à 30% vos factures énergétiques
+grâce à un thermostat autonome et économe, à l'analyse fine des consommations et alertes en cas de surconsommations, et en sensibilisant vos occupants à la sobriété énergétique
+Économisez en frais de maintenance
+grâce à nos interfaces de maintenance préventive vous permettant de recevoir des alertes personnalisées, ou d'établir un diagnostic à distance limitant ainsi les déplacements sur site
+Capitalisez sur vos investissements existants
+en faisant le choix d'un BOS qui mutualise vos ressources sur un seul appareil (interphone, thermostat, suivi des consos...) et rend vos équipements existants interopérables et compatibles
+Pilotage des volets
+Mesure de la QAI
+Tablette NeHo
+Contrôle de l'éclairage
+Thermostat
+Valorisez votre patrimoine tout en assurant le confort & la sécurité de vos occupants
+Améliorez la satisfaction de vos usagers au travers de services faciles d'utilisation. Personnalisez vos seuils d'alertes, ajustez les limites de consignes du thermostat, surveillez la qualité et le renouvellement de l'air de votre bâtiment. Protégez la vie privée de vos occupants et vos données en choisissant une solution française qui décentralise le stockage des informations, pour assurer leur souveraineté.
+Découvrir nos cas d'usages
+Optez pour une solution ouverte, compatible avec la plupart des équipements du marché
+Finis les problèmes de maintenance et de compatibilité des solutions propriétaires.
+connecte tous vos équipements pour une installation simple, robuste, indépendante d'Internet et qui répond à vos obligations règlementaires.
+La technologie WireBOS
+Découvrez nos solutions logicielles
+Que vous soyez exploitant, occupant, intégrateur ou technicien... Nous avons forcément une application faite pour vous.
+Découvrir nos suites applicatives
+Le portail hypervision des exploitants
+La suite applicative de vos occupants
+La plateforme collaborative et communautaire de proximité
+Vos bâtiments intelligents. Fort de plus de 20 ans d'expertise en infrastructures datacenters, Alyseo propose WireBOS, le système d'exploitation pour bâtiments intelligents. Notre savoir-faire en intégration et réseaux nous permet de développer des solutions qui centralisent le pilotage technique, optimisent la consommation énergétique et garantissent la conformité réglementaire de vos bâtiments. Grâce à notre écosystème d'applications, nous transformons vos espaces en bâtiments serviciels, et créons une véritable plateforme de services à valeur ajoutée pour les gestionnaires et les occupants.
+Notre concept
+Découvrez notre concept
+Nos produits
+WireBOS
+WireNode
+WireGet
+Nos solutions
+Découvrez tout nos solutions
+NeMa
+NeHo
+Alyseo
+Nos projets
+À propos
+Contact
+Mentions Légales
+© Alyseo 2025-2026 | Tous droits réservés
+Thème
+Clair
+Sombre

@@ -1,4 +1,4 @@
-# SB-332 simplelogin.com · feed_auto · https://simplelogin.io/blog/index.xml · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-332 simplelogin.com · feed_auto · https://simplelogin.io/blog/index.xml · fetched 2026-10-29T15:11:51Z · HTTP 200
 Tue, 19 Nov 2024 00:00:00 +0000	SimpleLogin and Proton Pass lifetime deal for $199	https://simplelogin.io/blog/simplelogin-proton-pass-lifetime/
 Thu, 07 Nov 2024 00:00:00 +0000	Proton Pass premium features are now included in SimpleLogin premium plan	https://simplelogin.io/blog/sl-premium-including-pass-plus/
 Mon, 01 Jan 2024 00:00:00 +0000	SimpleLogin is moving its legal domicile to Switzerland	https://simplelogin.io/blog/simplelogin-switzerland/

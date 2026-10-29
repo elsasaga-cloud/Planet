@@ -1,0 +1,11 @@
+# SC-571 gsl.com.tr · feed_auto · https://gsl.com.tr/feed · fetched 2026-10-29T15:11:51Z · HTTP 200
+Mon, 06 Jul 2026 11:20:16 +0000	Uç Noktalarda OT Ağ Güvenliği Nasıl Sağlanır? 7 Adımda Risk Değerlendirmesi	https://gsl.com.tr/uc-noktalarda-ot-ag-guvenligi.html
+Tue, 14 Apr 2026 14:40:00 +0000	eSIM Nedir? eSIM Router Kullanmanın Avantajları Nelerdir?	https://gsl.com.tr/esim-nedir-esim-router-avantajlari.html
+Fri, 05 Dec 2025 12:08:55 +0000	5G’ye Geçerken Doğru Partner Seçimi	https://gsl.com.tr/5gye-gecerken-dogru-partner-secimi
+Fri, 17 Oct 2025 07:44:22 +0000	5G İhalesi Sonuçlandı: 5G’ye Geçiş Resmi Olarak Başladı	https://gsl.com.tr/5g-ihalesi-sonuclandi.html
+Fri, 02 May 2025 12:51:23 +0000	5G İhalesi Ne Zaman? | 5G’ye Geçişi Süreci Nasıl İlerleyecek?	https://gsl.com.tr/5g-ihalesi-yaklasirken-dogru-donanim-secimi.html
+Wed, 02 Apr 2025 12:58:16 +0000	NAT Nedir? NAT Nasıl Çalışır?	https://gsl.com.tr/nat-nedir-nat-nasil-calisir.html
+Thu, 27 Mar 2025 14:45:35 +0000	Geleceğe Hazır Endüstriyel Ağlar Moxa Çözüm Günü	https://gsl.com.tr/gelecege-hazir-endustriyel-aglar-cozum-gunu.html
+Wed, 19 Mar 2025 07:04:00 +0000	AUTBUS – Yeni Nesil Endüstriyel Fieldbus Teknolojisi	https://gsl.com.tr/fieldbus-teknolojisi-autbus.html
+Tue, 04 Mar 2025 12:44:00 +0000	IEC 61850 ile Uyumlu Akıllı Şebeke Modernizasyonu Nasıl Yapılır?	https://gsl.com.tr/iec61850-akilli-sebeke-modernizasyonu.html
+Sat, 15 Feb 2025 07:59:00 +0000	Node-RED Kullanımı Endüstriyel Uygulamalara Nasıl Avantaj Sağlayabilir?	https://gsl.com.tr/endustriyel-uygulamalarda-node-red-kullanimi.html

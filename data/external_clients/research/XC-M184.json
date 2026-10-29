@@ -1,9 +1,9 @@
 {
  "code": "XC-M184",
  "name": "Computer Products Professional Benelux B.V.",
- "round": "X1-03",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "alive": "在线（cppb.nl，快照 2026-10-29）：Home",
  "summary": "Computer Products Professional Benelux B.V.：ATEX Zone II 工业以太网交换机等专业分销（与 RTP Europe 同址）；小型；KvK 一次检索未中",
  "type_final": "分销（HMS/N-Tron·Red Lion 渠道）；Computer Products Professional Benelux B.V.",
  "size": "",
@@ -13,7 +13,16 @@
  "contacts": {
   "email": "info@compprof-rtp.com",
   "email_status": "官网 / 名录公开（X1-03 补路径）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "info@compprof-rtp.com",
+   "info@rtp-europe.com"
+  ],
+  "page_phones": [
+   "+31 (0)78-676 2999",
+   "+31 (0)85-077 5030"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "evidence": [
   {
@@ -29,6 +38,13 @@
    "quote": "",
    "url": "https://cppb.nl/atex",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Home",
+   "quote": "Computer Products Professional Benelux B.V.",
+   "url": "https://cppb.nl/",
+   "date": "2026-10-29"
   }
  ],
  "touch_status": "未触达（路径 2026-10-29 新补）",
@@ -40,6 +56,17 @@
   "angle": "观察档 → 试单后转正"
  },
  "deep": false,
- "notes": "Computer Products Professional Benelux B.V.；Biezenvijver 4, 3297 GK Puttershoek；+31 78 676 2999",
- "draft_en": null
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\nComputer Products Professional Benelux B.V.；Biezenvijver 4, 3297 GK Puttershoek；+31 78 676 2999",
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:57:48Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-288GPM",
+  "why": "官网快照对位：工业/自动化词频 48、PoE 44 → DIN 8 PoE+ 2 SFP 起手",
+  "date": "2026-10-29"
+ }
 }

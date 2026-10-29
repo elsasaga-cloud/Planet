@@ -1,0 +1,19 @@
+# XC-M090 Primation Systemtechnik GmbH & Co. KG · feed_auto · https://www.primation.de/blog-feed.xml · fetched 2026-10-29T15:11:51Z · HTTP 200
+Mon, 12 Oct 2026 22:00:00 GMT	Cyber Resilience Act (CRA): Was die neue EU-Sicherheitsanforderung für die AV-Medientechnik bedeutet	https://www.primation.de/post/cyber-resilience-act-cra-was-die-neue-eu-sicherheitsanforderung-f%C3%BCr-die-av-medientechnik-bedeutet
+Mon, 21 Sep 2026 10:47:10 GMT	Explosive Atmospheres – Part 28: Protection of Equipment and Transmission Systems Using Optical Radiation	https://www.primation.de/en/post/explosive-atmospheres-part-28-protection-of-equipment-and-transmission-systems-using-optical-radi
+Sun, 20 Sep 2026 22:00:00 GMT	Explosionsgefährdete Bereiche – Teil 28: Schutz von Geräten und Übertragungssystemen mit optischer Strahlung	https://www.primation.de/post/explosionsgef%C3%A4hrdete-bereiche-teil-28-schutz-von-ger%C3%A4ten-und-%C3%BCbertragungssystemen-mit-optischer-s
+Wed, 05 Aug 2026 14:11:45 GMT	Singlemode oder Multimode? Die richtige Faser für moderne Netzwerke	https://www.primation.de/post/singlemode-oder-multimode-die-richtige-faser-f%C3%BCr-moderne-netzwerke
+Tue, 30 Jun 2026 22:00:00 GMT	Die Security Guideline - Von der Systemanforderung zur Gerätekonfiguration mit nachvollziehbarem Sicherheitsniveau	https://www.primation.de/post/die-security-guideline
+Mon, 18 May 2026 22:00:00 GMT	Kein Internet? Kein Problem: Wie wir mit 5G moderne Schulungsräume möglich machen	https://www.primation.de/post/kein-internet-kein-problem-wie-wir-mit-5g-moderne-schulungsr%C3%A4ume-m%C3%B6glich-machen
+Thu, 07 May 2026 12:49:37 GMT	DANTE, AES67 und SMPTE ST 2110: So bringst du alle Clocks unter einen Hut	https://www.primation.de/post/dante-aes67-und-smpte-st-2110-so-bringst-du-alle-clocks-unter-einen-hut
+Tue, 14 Apr 2026 12:32:08 GMT	IEC 62443 in mechanical and plant engineering	https://www.primation.de/en/post/iec-62443-in-mechanical-and-plant-engineering
+Tue, 14 Apr 2026 12:31:01 GMT	Professional cameras form the basis of every reliable monitoring solution - Armadex OZC3	https://www.primation.de/en/post/professional-cameras-form-the-basis-of-every-reliable-monitoring-solution-armadex-ozc3
+Tue, 14 Apr 2026 12:30:23 GMT	Optical fibers in hazardous areas	https://www.primation.de/en/post/optical-fibers-in-hazardous-areas
+Fri, 27 Mar 2026 10:09:12 GMT	IT-Sicherheit im Unternehmen zwischen OT (Maschinennetzwerk) und IT (Firmennetzwerk)	https://www.primation.de/post/it-sicherheit-im-unternehmen-zwischen-ot-maschinennetzwerk-und-it-firmennetzwerk
+Thu, 12 Mar 2026 08:54:25 GMT	Professionelle Kameras bilden die Grundlage jeder zuverlässigen Monitoring Lösung - Armadex OZC3	https://www.primation.de/post/professionelle-kameras-bilden-die-grundlage-jeder-zuverl%C3%A4ssigen-monitoring-l%C3%B6sung
+Wed, 11 Mar 2026 16:05:25 GMT	PTPv2, Boundary und Transparent Clock – das Uhrwerk hinter stabilen AV‑Netzen	https://www.primation.de/post/ptpv2-boundary-und-transparent-clock-das-uhrwerk-hinter-stabilen-av-netzen
+Mon, 16 Feb 2026 23:00:00 GMT	Luminex GigaCore 026i – High-Performance Netzwerk Switch für die moderne AV-Infrastruktur	https://www.primation.de/post/luminex-core-026i-high-performance-netzwerk-switch-f%C3%BCr-die-moderne-av-infrastruktur
+Tue, 20 Jan 2026 23:00:00 GMT	Sicherer Fernzugriff … zuverlässige Fernwartung … lückenloses Monitoring	https://www.primation.de/post/sicherer-fernzugriff-zuverl%C3%A4ssige-fernwartung-l%C3%BCckenloses-monitoring
+Wed, 26 Nov 2025 23:00:00 GMT	Die IEC 62443 im Maschinen- und Anlagenbau	https://www.primation.de/post/die-iec-62443-im-maschinen-und-anlagenbau
+Thu, 20 Nov 2025 16:05:09 GMT	Clocking in AV‑Netzwerken muss kein Glücksspiel sein	https://www.primation.de/post/clocking-in-av-netzwerken-muss-kein-gl%C3%BCcksspiel-sein
+Fri, 06 Sep 2024 13:44:18 GMT	Lichtwellenleiter im Ex-Bereich	https://www.primation.de/post/lichtwellenleiter-im-ex-bereich

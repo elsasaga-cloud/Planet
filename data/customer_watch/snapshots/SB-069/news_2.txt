@@ -1,4 +1,4 @@
-# SB-069 mutexsystemsltd.com · news_2 · https://mutexsystemsltd.com/portfolio · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-069 mutexsystemsltd.com · news_2 · https://mutexsystemsltd.com/portfolio · fetched 2026-10-29T15:11:51Z · HTTP 200
 Client Portfolio — 150+ Engagements | Mutex Systems
 Skip to main content
 Home
@@ -282,4 +282,146 @@ Dell OptiPlex 7070 Desktops; FortiGate 601E
 Enterprise IT
 Visit official website
 Education
-NED University of Engineering 
+NED University of Engineering and Technology
+Services delivered
+Network and Connectivity; Identity, Certificates and Email
+Project scope
+Symantec Messaging Gateway Renewal; Sangfor Next Generation Firewall (Next-Generation Firewall (NGFW))
+Network
+Visit official website
+Education
+SZABIST
+Services delivered
+Data Center and Servers; Network and Connectivity
+Project scope
+Dell PowerEdge Server; Sangfor Firewall
+Network
+Visit official website
+Energy, Chemicals and Utilities
+Fossil Energy
+Services delivered
+Cloud Platforms; Data Center and Servers
+Project scope
+XG 230 Security Appliance with Support; Office 365; Veeam Backup and Replication
+Backup
+Website not publicly verified
+Energy, Chemicals and Utilities
+K-Electric
+Services delivered
+Vulnerability and Penetration Testing
+Project scope
+Penetration Testing & Trellix Security Suite
+Enterprise IT
+Visit official website
+Energy, Chemicals and Utilities
+SABIC / MDSA (Saudi Arabia)
+Services delivered
+Data Protection
+Project scope
+Data Loss Prevention (DLP) Residency (Resource Outsourcing)
+Data Protection
+Visit official website
+Government and Public Sector
+Employees' Old-Age Benefits Institution (EOBI)
+Services delivered
+Data Center and Servers
+Project scope
+Veritas NetBackup Renewal with Service-Level Agreement (SLA)
+Backup
+Visit official website
+Healthcare and Pharmaceuticals
+Dow University Hospital
+Services delivered
+Data Center and Servers
+Project scope
+Hyperconverged Infrastructure (HCI) Security Suite
+Enterprise IT
+Visit official website
+Healthcare and Pharmaceuticals
+Getz Pharma
+Services delivered
+Network and Connectivity; Endpoints and Devices; Security Monitoring and SOC; Data Protection
+Project scope
+Palo Alto 500 Renewal; Symantec Endpoint Protection/Data Loss Prevention (DLP)/Encryption/VIP; IBM QRadar XGS Renewal
+Endpoint Data Protection
+Visit official website
+Healthcare and Pharmaceuticals
+Hoora Pharma
+Services delivered
+Data Center and Servers; ERP and Business Systems
+Project scope
+VMware 15 Workstation Pro; Microsoft SQL
+Enterprise IT
+Website not publicly verified
+Healthcare and Pharmaceuticals
+Novo Nordisk
+Services delivered
+Endpoints and Devices
+Project scope
+Dell Latitude 5300 CTO
+Enterprise IT
+Visit official website
+Insurance and Takaful
+Askari Life Assurance Company Limited
+Services delivered
+Data Center and Servers
+Project scope
+Sangfor Hyperconverged Infrastructure (HCI); Sangfor NGAF
+Enterprise IT
+Visit official website
+Insurance and Takaful
+EFU Insurance
+Services delivered
+Network and Connectivity; Endpoints and Devices
+Project scope
+Endpoint Protection Platform (EPP), Extended Detection and Response (XDR), Firewall
+Network Endpoint
+Visit official website
+Insurance and Takaful
+Pak-Qatar Family Takaful
+Services delivered
+Network and Connectivity; Endpoints and Devices
+Project scope
+Endpoint Protection Platform (EPP), Extended Detection and Response (XDR), Firewall
+Network Endpoint
+Visit official website
+Insurance and Takaful
+Sindh Insurance Limited
+Services delivered
+Endpoints and Devices
+Project scope
+Dell Deskpro 400; Kaspersky Endpoint Security
+Endpoint
+Website not publicly verified
+Logistics, Transport and Telematics
+Alfalah Tracking
+Services delivered
+Governance, Risk and Compliance; Vulnerability and Penetration Testing
+Project scope
+CTDISR Audit & Vulnerability Assessment and Penetration Testing (VAPT)
+VAPT Audit
+Website not publicly verified
+Logistics, Transport and Telematics
+DP World
+Services delivered
+Network and Connectivity
+Project scope
+Barracuda Load Balancer; PRTG Renewal
+Enterprise IT
+Visit official website
+ET
+Logistics, Transport and Telematics
+eTracking
+Services delivered
+Governance, Risk and Compliance; Vulnerability and Penetration Testing
+Project scope
+CTDISR Audit & Vulnerability Assessment and Penetration Testing (VAPT)
+VAPT Audit
+Website not publicly verified
+Logistics, Transport and Telematics
+M&P Express Logistics
+Services delivered
+Network and Connectivity; Endpoints and Devices
+Project scope
+Dell PowerEdge R740; FortiGate-501E Hardware; SSD Hard Drive
+Enterprise 

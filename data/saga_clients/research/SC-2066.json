@@ -40,7 +40,7 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 品牌商 + 成单 · OEM 30%：EthoSwitch LLC（NJ + CA；2012 起自有品牌加固工业交换机；「中国制造事业部」）部分坐实；买过 KONTEN 工业 FS → 成单 ✔ 主区 ✔ 对位 ✔ OEM ✔ → P 池候选；闸 1：美国 ethoswitch.com：买过台湾 KONTEN 工业 FS「质量不错」；退信但域名 MX 正常 → 北美主区 + 成单 + 对位 ✔ → 闸 2 找新 KP",
- "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：saga_fit.basis/deep。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -133,11 +133,19 @@
   "p1": "STC-424XGGPM-280W",
   "tier": 30,
   "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
-  "basis": "默认 · 官网快照后按业务线校正"
+  "basis": "默认 · 官网快照已到（2026-10-29）无型号线索，沿用"
  },
  "deep": {
   "done_at": "2026-10-29",
-  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
-  "batch": "LT-T01"
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T01",
+  "snapshot_at": "2026-10-29"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:36:29Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
  }
 }

@@ -1,4 +1,4 @@
-# SB-1023 dipol.pt · news_1 · https://www.dipol.pt/novos_produtos,items-news.htm · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-1023 dipol.pt · news_1 · https://www.dipol.pt/novos_produtos,items-news.htm · fetched 2026-10-29T15:11:51Z · HTTP 200
 Shopping, Novos produtos
 Esse website utiliza cookies
 Usamos cookies , o que torna nossa loja fiável e adaptada a si. Os cookies permitem que combine o conteúdo e a promoção com seus interesses.
@@ -505,7 +505,6 @@ Escreva-nos!
 «
 1
 2
-3
 »
 Todos
 Ao carrinho
@@ -572,4 +571,4 @@ A câmara WizColor grava imagens a cores 24 horas por dia, 7 dias por semana, e 
 • Resolução de 8 MPix – 3840 x 2160 a 20 fps
 • Sensor grande de 1/1,8" – sensibilidade de 0,0004 lx
 • Lente de distância focal fixa de 2,8 mm
-• Iluminador de luz branca com al
+• Iluminador de luz branca com alca

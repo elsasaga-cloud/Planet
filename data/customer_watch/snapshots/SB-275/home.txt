@@ -1,4 +1,4 @@
-# SB-275 gelecekbt.com · home · https://gelecekbt.com/ · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-275 gelecekbt.com · home · https://gelecekbt.com/ · fetched 2026-10-29T15:11:51Z · HTTP 200
 GelecekBT Bilgi ve İletişim Teknolojileri
 E-Posta
 İletişim
@@ -429,12 +429,6 @@ ONET
 Ağ Güvenliği
 Fieldbus
 Son Eklenenler
-Ön Sipariş Veriniz
-CLR Networks CS6400A Core Routing Switch 9U
-CLR Networks CS6400A Core Routing Switch 9UCS6400A 2 adet MSU ana kontrol kartı ve 4 adet servis..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
 İletişime Geçiniz
 CLR-IES-2506N @ 4*Gigabit RJ45 + 2*SFP Endüstriyel Switch L2+ Ring, Akıllı Cloud Switch
 CLR-IES-2506N 4 Port 10/100/1000Base-TX Gigabit RJ45 ve 2 Gigabit SFP Yuva 1000B..
@@ -442,103 +436,106 @@ Sepete Ekle
 Favorilere Ekle
 Karşılaştırma listesine ekle
 İletişime Geçiniz
-EKI-7712G-2FVI @ 8 Gigabit RJ45 + 4 1G SFP(VDSL2) Yönetilebilir Endüstriyel Switch
-Advantech EKI-7712G-2FVI 8 Port Gigabit RJ45 + 4 Port 1G VDSL2 Destekli SFP Yuvalı Y..
+Huawei S220-48P4X 48 Port 10/100/1000 Mbps 4 Port 10G SFP+ Gigabit PoE Yönetilebilir Switch
+S220-48P4X Huawei Yönetilebilir Switch 48 Port 10/100/1000 Mbps Gigabit PoE 4 Port 10..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+EoL
+Mini Fiber Switch 4*SFP + 2*RJ45 Unmanaged @ CLR-SWG-24F
+CLR-SWG-24F # Yönetilemez Gigabit Ethernet Mini Fiber Switch, Desktop4*1000Base-F..
 Sepete Ekle
 Favorilere Ekle
 Karşılaştırma listesine ekle
 İletişime Geçiniz
-Ethernet Switch 5 Port RJ45 + 1 Port SFP Smart @ DGS-1100-06
-DGS-1100-06 @ 5 Port RJ45 + 1 Port SFP Smart Ethernet Switch DGS-1100-06/ME b..
+6089 2 023-08 @ Koruma Magazini 3 kutuplu 10 per
+6089 2 023-08 @ Koruma Magazini 3 pole GD Tube Sigortalı 10Pair (Sigortalar dahil)Telefon hatlar..
 Sepete Ekle
 Favorilere Ekle
 Karşılaştırma listesine ekle
-Omurga Switch 48 Port SFP + 6 Port SFP/SFP+ L3 Managed @ CLR-SWT-3754F
-CLR-SWT-3754F CLR Networks Ethernet Omurga Switch. 48 Port Gigabit SFP ve 6..
+8 Port POE Switch 2 Port RJ45 Uplink CLR-SWG-1410P
+CLR-SWG-1410P 10 Port Gigabit RJ45 (8-Port POE) Yönetilmeyen 150W CLR-..
 Sepete Ekle
 Favorilere Ekle
 Karşılaştırma listesine ekle
-İletişime Geçiniz
-PoE Switch 48 Port RJ45 PoE + 4 SFP Managed L2+ @ DGS-1210-52MP
-D-Link DGS-1210-52MP Yönetilebilir PoE+ Gigabit Ethernet PoE Switch48xPoE RJ45 (1..
+CLR-MCG-LRM @ Gigabit Ethernet Fiber Media Converter LC MM 1km
+CLR-MCG-LRM 1-Port Gigabit Ethernet Fiber Optik Media Çevirici, Converter [ Mu..
 Sepete Ekle
 Favorilere Ekle
 Karşılaştırma listesine ekle
-CLR-GES-SXH @ Gigabit SFP Modül 1000Base-SX LC Duplex MM 850nm 550m HP/Aruba
-CLR-GES-SXH # Gigabit SFP Transceiver Modül 1000Base-SX, HP / Aruba UyumluMultimo..
+CLR-GES-B20A @ Tek Core BiDi SFP Modül 1000Base-BX LC Simplex SM 20km
+CLR-GES-B20A Fiber Optik Gigabit Bidi SFP Modül 1000Base-BX 1Core / 1 Kıl , ..
 Sepete Ekle
 Favorilere Ekle
 Karşılaştırma listesine ekle
-İletişime Geçiniz
-CLR Networks CLR-XGS-PS10G 10G XGS-PON SFP+ ONU/ONT Stick Modülü
-CLR Networks CLR-XGS-PS10G 10G XGS-PON SFP+ ONU/ONT Stick ModülüCLR Networks CLR-XGS..
+ON-DAC-CB405M @ 40Gbps QSFP+ 4*SFP+ DAC Breakout Bakır Kablo 24AWG 5m
+ON-DAC-CB405M # DAC (Direct Attached Cable) QSFP+ 4*SFP+ 40G 24 AWG 5m Breakout Bakır..
 Sepete Ekle
 Favorilere Ekle
 Karşılaştırma listesine ekle
-ON-DAC-CB402M @ 40Gbps QSFP+ 4*SFP+ DAC Breakout Bakır Kablo 24AWG 2m
-ON-DAC-CB402M # DAC (Direct Attached Cable) QSFP+ 4*SFP+ 40G 24 AWG 2m Breakout Bakır..
+ON-AOC-FB320M @ 40G QSFP+ 4*SFP+ MM OM3 AOC Kablo 20m
+ON-AOC-FB320M # AOC (Active Optical Cable) 40G QSFP+ 4*SFP+ Multimode OM3 Kablo ..
 Sepete Ekle
 Favorilere Ekle
 Karşılaştırma listesine ekle
-İletişime Geçiniz
-400G QSFP-DD - 4x100G QSFP28 Breakout AOC Kablo 5m CLR-400G-A40005
-CLR-400G-A40005 400G QSFP-DD - 4x100G QSFP28 Breakout AOC Active Optical Cable 5m&nb..
+ON-DAC-CB401M @ 40Gbps QSFP+ 4*SFP+ DAC Breakout Bakır Kablo 24AWG 1m
+ON-DAC-CB401M # DAC (Direct Attached Cable) QSFP+ 4*SFP+ 40G 24 AWG 1m Breakout Bakır..
 Sepete Ekle
 Favorilere Ekle
 Karşılaştırma listesine ekle
-CLR-CPRI-S1010B @ 10G CPRI Endüstriyel Bidi SFP+ Modül 10km
-CLR-CPRI-S1010B @ 10GBase-LR SFP+ CPRI Endüstriyel Bidi Modül 10k..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-ON-DAC-C103M @ 10Gbps SFP+ DAC Bakır Kablo 24AWG 3m
-ON-DAC-C103M # DAC (Direct Attached Cable) SFP+ 10G 24 AWG 3m Bakır Kablo&n..
+CLR-GES-C100 @ 1000Base-T RJ45 Bakır SFP Modül 100m
+CLR Networks CLR-GES-C100 10/100/1000Base-T RJ45 Bakır çıkışlı SFP Transceiver..
 Sepete Ekle
 Favorilere Ekle
 Karşılaştırma listesine ekle
 İletişime Geçiniz
-ATEN VE8662 4K HDMI H.265 IP Tabanlı Alıcı-Verici (Transceiver)
-ATEN VE8662 4K HDMI H.265 IP Tabanlı Alıcı-Verici (Transceiver) ATEN VE8662 modeli, p..
+CLR-S12G-T120 @ 12G-SDI 1310nm 20km Single SFP+ Transmitter Modül
+CLR-S12G-T120 @ 12G-SDI SFP+ Modül, 1310nm,20km, Transmitter, SingleTV st&uu..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+CLR-HDMI-LLT @ HDMI TCPIP Extender HDbitT 150m Transmitter Lokal HDMI Çıkışlı
+CLR-HDMI-LLT # HDMI TCP/IP Cat6 Ethernet Mesafe Uzatıcı HDbitT 150m Transmitter (TX)&..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+CLR-HDMI-L20T @ HDMI TCPIP Extender 200m Transmitter Lokal HDMI Çıkışlı
+CLR-HDMI-L20T # HDMI TCP/IP Cat6 Ethernet Mesafe Uzatıcı 200m Transmitter (TX) Lokal ..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+CLR-HDMI-L12 @ HDMI 4K*2K 60Hz Cat6 Mesafe Uzatma Seti 100m
+CLR-HDMI-L12 # 4Kx2K@60Hz HDMI Cat6 Extender 100m, IR uzaktan kumanda, SET&n..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+4Kx2K HDMI 1.4 Extender 60 Metre # CLR-HDMI-E603
+CLR-HDMI-E603 4K*2K@30Hz HDMI 1.4 Cat6 Extender Seti 60Metre CLR-HDMI-E603,..
 Sepete Ekle
 Favorilere Ekle
 Karşılaştırma listesine ekle
 İletişime Geçiniz
-CLR-WHD-388D @ Wireless HDMI Extender Dongle 30m
-CLR-WHD-388D # HDMI Dongle Kablosuz Mesafe Uzatıcı Seti 30m 1080P CLR-WHD-388..
+CLR-WHD-388N @ Wireless HDMI Extender Dual SSID 100m
+CLR-WHD-388N # HDMI Dual SSID Kablosuz Mesafe Uzatıcı Seti 100m 1080P CLR-WHD..
 Sepete Ekle
 Favorilere Ekle
 Karşılaştırma listesine ekle
 İletişime Geçiniz
-CLR-HDMI-LT @ HDMI TCPIP Ethernet Extender HDbitT 150m Transmitter
-CLR-HDMI-LT # HDMI TCP/IP Cat6 Ethernet Mesafe Uzatıcı HDbitT 150m Transmitter (TX)
-..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-CLR-HDMI-EL60 @ HDMI Mesafe Uzatıcı Set Lokal HDMI Çıkışlı
-CLR-HDMI-EL60 # HDMI Cat6 Extender Seti 60m, Lokal Loop IR uzaktan kumanda ..
+CLR-AVS-8250 HDMI KVM Extender | 8K@60Hz 50 Metre Cat6 Uzatma Cihazı
+CLR-AVS-8250 HDMI KVM Extender | 8K@60Hz 50 Metre Cat6 Uzatma Cihazı PtPCLR-AVS-8250 HDMI KVM ..
 Sepete Ekle
 Favorilere Ekle
 Karşılaştırma listesine ekle
 İletişime Geçiniz
-CLR-WHD-S1050 @ Wireless HDMI Extender 50Metre
-CLR-WHD-S1050 Full HD 1080P HDMI Kablosuz Mesafe Uzatıcı Extender Seti 50Metre [Hdmi Uzatı..
+Planet XT-705A 100M/1G/2.5G/5G/10G RJ45 to 10GBASE-X SFP+ Media Converter
+Planet XT-705A 100M/1G/2.5G/5G/10G RJ45 to 10GBASE-X SFP+ Media Converter PLANET XT-7..
 Sepete Ekle
 Favorilere Ekle
 Karşılaştırma listesine ekle
-Kablosuz Hdmi Görüntü Aktarıcı 200Metre CLR-WHD-K1201
-CLR-WHD-K1201 Kablosuz HDMI Görüntü Aktarıcı [Wireless HDMI KVM Extender] 1..
+CLR-MCF-11 @ Fast Ethernet Fiber Optik Media Converter SC SM 20km
+CLR-MCF-11 # 1 Port Fast Ethernet Fiber Optik Media Çevirici/Dönüştü..
 Sepete Ekle
 Favorilere Ekle
 Karşılaştırma listesine ekle
-CLR-FXS/FXO-041SF @ 4 Hat Analog Telefon 1 Port 10/100M Ethernet Fiber Optik Çevirici
-CLR-FXS/FXO-041SF 4-Hat Analog Telefon + 1-Port Fast Ethernet to Fiber Optik &Cc..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-CLR-RCA-F160 @ 16 Kanal RCA Audio SM Fiber optik Çevirici
-CLR-RCA-F160 # 16 Kanal Audio RCA Singlemode FC Mesafe Uzatıcı, UnidirectionalRCA Audi..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-İletişime Geçini
+İletişime Geçiniz
+CLR-FXS/FXO-020SF @ 2 Hat Analog Telefon Fiber Optik Ç

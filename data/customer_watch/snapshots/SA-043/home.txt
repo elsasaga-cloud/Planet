@@ -1,4 +1,4 @@
-# SA-043 direktronik.se · home · https://www.direktronik.se/ · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SA-043 direktronik.se · home · https://www.direktronik.se/ · fetched 2026-10-29T15:11:51Z · HTTP 200
 Direktronik - dataprodukter utöver det vanliga
 Varukorg
 Summa produkter:
@@ -576,77 +576,4 @@ LoRaWAN IoT
 Wi-Fi
 4G 5G LTE
 VHF UHF
-Wi-Fi
-Accesspunkter
-Länkar, bryggor
-Routrar, controller
-TIP OpenWi-Fi
-Tillbehör Wi-Fi
-Mobila nätverk
-Routrar, gateway
-Tillbehör mobila nätverk
-Lösningarna
-Så här gör du
-Kunskapsbanken
-Bli inspirerad och smart
-Kampanjer
-Våra unika erbjudanden
-Kundservice +46 8 52 400 700
-Meny
-Logga in
-Varukorg
-0
-Mina sidor
-Logga ut
-Sök
-Direktronik firar 40 år
-Samma drivkraft som från dag ett. Vi hjälper företag att hitta rätt lösningar inom nätverk, kommunikation och infrastruktur. Din partner sedan 1986.
-Läs mer om oss här!
-Direktronik firar 40 år
-Samma drivkraft som från dag ett. Vi hjälper företag att hitta rätt lösningar inom nätverk, kommunikation och infrastruktur. Din partner sedan 1986.
-Läs mer om oss här!
-Produktkatalogen
-Hitta dina produktfavoriter
-Kunskapsbanken
-Bli inspirerad och smart
-Lösningarna
-Så här gör du
-Produktnyheter hos oss!
-Vi introducerar över 1000 nya produkter varje år. Flera av dem är helt nya på den nordiska marknaden och erbjuder ofta en smart lösning på ett tidigare svårt problem. Tveka inte att kontakta oss om du står inför ett problem som fortfarande saknar en lösning.
-Best.nr 20127449
-IP-based 8-port Switched Power Manager
-Planet IPM-8222 är en switchad PDU i 1U som ger dig kontroll över strömmen i racket även när du inte är på plats. Vart och ett av de åtta C13-uttagen kan mätas, slås av och på och startas om via webbläsare eller SNMP, och en inbyggd sensor håller koll på temperatur och luftfuktighet i skåpet.
-5 970 SEK
-exkl. moms
-Lägg i varukorg
-Best.nr 20215901
-SFP+ Singlemode LC 1310nm 10km (LR) 10Gbps DDMI industriell
-För 10G-förbindelser mellan byggnader, noder och teknikutrymmen ger SFP+ LR en praktisk kombination av räckvidd och prestanda över singlemodefiber. Modulen når upp till 10 km och stöder 8,5–11,3 Gbit/s samt flera etablerade protokoll. Med temperaturområde från -5 till +85 °C och CDR på både sändar- och mottagarsidan är den anpassad för installationer där miljön är mer krävande än i ett temperaturkontrollerat datacenter.
-744 SEK
-exkl. moms
-Ange konfiguration
-Nyheter
-Vi introducerar mer än 600 nya produkter varje år. Här hittar du ett urval av de senaste »
-Best.nr 20127266
-Fibertrunk prefab inomhus, LC-LC OM4 Yd 4,5mm
-Maximera kapaciteten i minimala utrymmen. Vår specialdesignade prefab fibertrunk för trånga kanaler är den perfekta lösningen för installationer där utrymmet är begränsat men kraven på prestanda är höga. Breakoutdelen (fanout/piska) kan fås i standardfiber, alternativt med en armering runt fibern för extra tålighet vid installation.
-737 SEK
-exkl. moms
-Lägg i varukorg
-Logga in och upptäck...
-...möjligheten att få tillgång till exklusiva funktioner! På "Mina sidor" kan du skräddarsy din egen prislista, se din inköpshistorik, hantera företagsinformation och mycket mer. Få tillgång till unika kampanjer, lägg till kollegor som kontakter och skapa egna leveransadresser för en smidig checkout. Gör din shopping enklare och smartare – bli medlem idag!
-Mina sidor - Skapa dina egna produktlistor
-Loggar in så kan Du lätt skapa fler produktlistor för att få koll på dina planerade projekt och sedan enkelt omvandla dem till order »
-Mina sidor - Företagsinformation
-Se över vår information om ert företag. Du hittar fakturaadress och kundnummer. Ändrar gör du genom att kontakta oss »
-Mina sidor - Se dina priser med rabatt
-Om du loggar in får du automatiskt dina priser. Även tillgång till våra kampanjer och erbjudanden. Exklusivt för inloggade kunder »
-Mina sidor - Prislistor
-Med konto hos oss kan Du välja att ladda ner din prislista med dina priser och t o m egna artikelnummer om dessa finns registrerade hos oss »
-Vi kan nätverk
-Vi ser till att lösa dina problem genom vår expertis, nedan finner du ett urval av våra nätverksprodukter!
-Best.nr 20104379
-4-portars Gigabit PoE-injektorer
-Två DC/DC PoE-injektorer som tillhandahåller fyra olika spänningar för inkommande DC. Den utgående effekten är maximalt 35W per port för artikel 20104379 (aktiv PoE) eller 1A per port för 20104378 (passiv PoE)
-2 810 SEK
 

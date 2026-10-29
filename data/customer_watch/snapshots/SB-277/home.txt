@@ -1,4 +1,4 @@
-# SB-277 instantbyte.com · home · https://www.instantbyte.com/ · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-277 instantbyte.com · home · https://www.instantbyte.com/ · fetched 2026-10-29T15:11:51Z · HTTP 200
 Instant Byte - Mayorista Wifi, Camaras IP, VoIP, Networking, Wireless, Wimax, Fibra, Antenas, Multimedia, Ubiquiti, Huawei, Grandstream, Yealink, Mikrotik, Yealink, TP-Link, Cambium, Alfa, D-Link, Linksys, Cisco, Meraki, Aruba, Netgear, Sennheiser, Tenda
 91 084 10 11 Atención comercial: Lunes a jueves de a , y los viernes de a Instant Blog Estilo vintage Categorías clásicas ES EN PT
 Mayoristas especializados Soluciones networking.
@@ -396,9 +396,9 @@ ZTE
 Ofertas
 Liquidación
 ¿Eres profesional del sector? Date de alta y accede a los precios más competitivos del sector Quiero ver los precios Ofertas Ver todas
-Ubiquiti UVC-G3-LED UVC-G3 LED Ver precio −21 %
-Yealink UHM361 Auricular monoaural con conector de 3.5mm, micrófono con cancelación del ruido y almohadillas de cuero. Ver precio −13 %
-Netgear MSM4320-100NES NETGEAR M4350-16M4V 20-Port | 16x 2.5G Multigigabit PoE++ incl. 8x Neutrik etherCON | 4x 25G SFP28 hasta 1130W de PoE budget con RPS Ver precio −6 %
+Netgear GSM4248PX-100EUS NETGEAR M4250-40G8XF-PoE+ Managed Switch 40x1G PoE+ 960W and 8xSFP+ (GSM4248PX) Ver precio −14 %
+Panasonic KX-UT133NE Office SIP Telephone with large display and 24 Feature/Line Keys - Ideal for all business and home office u Ver precio −81 %
+Conceptronic CMULTICRSI Lector de tarjetas de color plata USB 2.0 ALL - IN - ONE Ver precio −67 %
 Grandes OFERTAS en productos Huawei seleccionados % % % WIFI 6 WIFI 6 HUAWEI eKit Transceiver
 óptico eSFP-GE-SX-MM850 Punto
 de acceso AP361 Punto
@@ -417,14 +417,14 @@ si quiere darse de alta como cliente nuestro pinche aquí
 Noticias Instant Byte
 Ir al blog
 Grandstream confirma que sus productos y servicios no están afectados por PHP2Shell
-29 oct 2026 MikroTik CLAIRÉ y CLAIRÉ Lite: calidad del aire interior con Matter over Thread
-28 oct 2026 UniFi Long-Range PoE: alimentación y datos hasta 800 metros para instalaciones remotas
-28 oct 2026 Grandstream GWN7672WM: Wi-Fi 7 tribanda de pared con uplink de 5 GbE
-27 oct 2026 Videoporteros IP Grandstream: control de accesos, comunicación y gestión en una sola solución
-26 oct 2026 Webinar práctico: Control de accesos y videoporteros IP con Grandstream | 6 de noviembre
-26 oct 2026 Yealink MP66W Teams: comunicación móvil y resistente para equipos de primera línea
-22 oct 2026 NETGEAR serie M4350: conectividad de hasta 100G y PoE++ en una sola plataforma
-20 oct 2026
+Grandstream ha comunicado que sus productos y servicios no están afectados por PHP2Shell, nombre con el que se conocen dos vulnerabilidades críticas de PHP: CVE-2026-109618 y CVE-2026-109619. Tras revisar su catálogo y sus servicios en la nube, el fabricante afirma que ni sus equipos, ni su firmware, ni sus aplicaciones de software, ni sus soluciones cloud utilizan PHP. Por ello, según el comunicado de Grandstream del 27 de octubre de 2026, sus clientes y partners no tienen que realizar ninguna acción específica en sus despliegues Grandstream por estas dos CVE. Qué ha comunicado Grandstream…
+29 oct 2026 Seguir leyendo MikroTik CLAIRÉ y CLAIRÉ Lite: calidad del aire interior con Matter over Thread
+28 oct 2026 Seguir leyendo UniFi Long-Range PoE: alimentación y datos hasta 800 metros para instalaciones remotas
+28 oct 2026 Seguir leyendo Grandstream GWN7672WM: Wi-Fi 7 tribanda de pared con uplink de 5 GbE
+27 oct 2026 Seguir leyendo Videoporteros IP Grandstream: control de accesos, comunicación y gestión en una sola solución
+26 oct 2026 Seguir leyendo Webinar práctico: Control de accesos y videoporteros IP con Grandstream | 6 de noviembre
+26 oct 2026 Seguir leyendo Yealink MP66W Teams: comunicación móvil y resistente para equipos de primera línea
+22 oct 2026 Seguir leyendo
 Formación y certificaciones
 Calendario
 Certificación oficial Ubiquiti BARCELONA 16, 17 y 18 de noviembre de 2026 - Unifi All in One: UFSP, UWA, URSCA 749,95 € + IVA
@@ -436,25 +436,15 @@ Webinar práctico Megafonía IP con Grandstream: integración de UCM y altavoces
 Webinar práctico Conecta edificios sin desplegar fibra: puesta en marcha del Grandstream GWN7302 | 4 diciembre l 2026 | 4 dic 2026 · Gratuito
 Productos destacados
 Ver todos
-Mikrotik CRS310-1G-5S-4S+OUT
-Switch de exterior con CPU ARMv7 800 MHz, 256 MB RAM, 4x SFP+, 5x SFP, 1x Gb (PoE-In) Ver precio
-Yeastar P560
-Centralita IP PBX modular. 100 usuarios (ampliable a 200), 30 llamadas (ampliable a 60), hasta 8x FXS,FXO,BRI, hast Ver precio
-Mikrotik CRS326-24S+2Q+RM
-Cloud Router Switch 2x QSFP+ de 40G, 24x SFP+ de 10G, 1 puerto LAN para gestión, RouterOS L5 o SwitchO Ver precio
-Grandstream GHP611
-Teléfono IP compacto negro,2 cuentas/lineas SIP, programables y 5 de función.1 puerto 10/100 PoE.Conferencia de 3 vías.Escritorio o pared.Compatible GDMS. Ver precio
-Dahua DHI-ASI6214J-MFW
-Terminal control de accesos Dahua con detección facial Ver precio
-Huawei eKit Ideahub IHS2-65SA
-Pantalla inteligente Ideahub S2, 65 inch. Blanco jade. BYOM. WiFi6. Latencia escritura 16ms. Pantalla y camara 4K. Sonido HD (4 altavoce 40dB). Micrófonos alcance 12m. Low Blue Light. Ver precio
+Yeastar TA2400
+Adaptador ATA 24 puertos FXS Ver precio
+Huawei eKit MiniFTTO F1001-AC −8 %
+MiniFTTO OLT GPON y Controladora WiFi 1xUplink XGPON 4xGE WAN/LAN 8 x Downlink XC/UPC POF (Power over Fiber) 16 puertos SC/UPS 300 clientes WiFi Roaming 50 ms 6 Gbit/s VXLAN 200 Mbits Ver precio
 Grandstream GWN7665
 Punto de acceso Wifi 6E de interior, velocidad máxima 5,4Gbps. Cobertura +175m. Soporta +384 clientes. Puertos: 1x GbE y 1x 2,5GbE PoE. Certificado para Wifi4EU. Ver precio
-Interline IP-G14-F7988-HV
-Antena Direccional PANEL 14 dbi, 867-870 MHz (IoT M2M), N-hembra Ver precio
-D-Link DGS-1210-52MP/E
-DGS-1210-52MP 52-Port 10/100/1000 Mbps Gigabit Smart Switch 370W PoE budget - Power budget 370W - 48 x PoE 10/100/1000Mbp Ver precio
-Huawei eKit MiniFTTO F100D-4G −3 %
-MiniFTTO ONT/ONU OptiXtar GPON 1xSC/UPC 4xGE Ver precio
-Yealink SIP-T46U
-Teléfono Diseño 16 cuentas SIP, CON PoE, SIN PSU Soporta el codec Opus Dos puer
+Ubiquiti USW-PRO-48-POE
+UniFi Gigabit Switch con 48 puertos, capa 2 y capa 3. Incluye auto-sensing 802.3at PoE+ y 802.3bt PoE++. 40x PoE+ y 8x PoE++ RJ45. 4x SFP+ 10Gb. PoE budget 600W Ver precio
+Interline IP-G08-F8688-SL
+Antena Panel/Planar Serie HELIUM SL, IoT M2M, 863-870MHz, Polarización Slant, Conector N-hembra Ver precio
+Grandstream GWN7811P
+Switch gestionable Capa 3 enracable. 8 puertos GbE RJ45 PoE con PoE budget 120W + 2 puertos 

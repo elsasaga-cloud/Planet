@@ -2,7 +2,7 @@
  "code": "SB-590",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（carritech.com：HTTP 错误，2026-10-21，第 1 次）",
+ "website_status": "在线（carritech.com，快照 2026-10-29）：Carritech | Your Complete Telecoms Network Support Provider",
  "summary": "英国 Carritech（电信设备供应商：「主要是光模块，有一些 MC」；官网 http_error）；表内 2 次跟进无回复。",
  "type": "电信设备/光模块供应商（英国，MC 为副线）",
  "size": "",
@@ -32,10 +32,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/deep/facts。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "company_facts": {
   "hq": "London（注册）+ Madrid（运营）",
@@ -109,6 +110,14 @@
     "quote": "主要是光模块 有一些MC",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Carritech | Your Complete Telecoms Network Support Provider — At Carritech, we offer a wide range of network support services, designed to extend the life of your telecommunications network.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://carritech.com/"
    }
   ],
   "proof_gaps": [],
@@ -117,11 +126,29 @@
  },
  "snap_thicken": {
   "consumed": [
-   "2026-10-21T09:43:40Z"
+   "2026-10-21T09:43:40Z",
+   "2026-10-29T15:33:33Z"
   ],
   "fails": [
    "2026-10-21"
   ],
-  "batch": "LT-T03"
+  "batch": "LT-T03",
+  "last_ok": "2026-10-29"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [
+   "+34 915 511 534",
+   "+44 203 006 1170"
+  ],
+  "social": [
+   "https://www.facebook.com/Carritech-271429599884265/",
+   "https://www.linkedin.com/company/1678487/",
+   "https://www.youtube.com/@carritech1036"
+  ],
+  "models_on_site": [],
+  "url": "https://carritech.com/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

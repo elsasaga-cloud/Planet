@@ -7,7 +7,8 @@
  "type": "",
  "size": "",
  "brands_seen": [
-  "Dahua"
+  "Dahua",
+  "Huawei"
  ],
  "evidence": [
   {
@@ -61,10 +62,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "LT-T03 官网快照加厚（2026-10-21）：fail#1。\n（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网核对 · 国别补齐）"
+  "level": "B 级加厚 v1（官网核对 · 国别补齐） + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "company_facts": {
   "legal_name": "UAB \"Eurodigital\"（Įmonės kodas 300638881；PVM LT100002890717；e-shop ExtraDigital）",
@@ -146,6 +148,14 @@
     "quote": "Hi, Austėja, How are you? Previously we had a discussion on brand and import issues. Fact 1: you now prefer a supplier from EU countries. Fact 2: you now have a Chinese partner for OEM manufacturing. This email is about, If possible to try our models if we have a strategic partner in Turkey? This pa…",
     "why": "Saga 实质答复原文（主题「Re: Passive PoE Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
     "k": "ed973dfae5902353"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Smart electronics, computer accessories and DAHUA distributor-Extradigital — Best DAHUA CCTV distributor in Europe. IP CVI cameras. NVR HCVR best cheap price. Largest warehouse in Europe. Fastest shipping same day. UAB EURODIGITAL. Ship across Europe. Printer HP cartridges. Canon toners cheapest pri",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.extradigital.eu/"
    }
   ],
   "proof_gaps": [],
@@ -155,11 +165,33 @@
  "country_fix": "立陶宛",
  "snap_thicken": {
   "consumed": [
-   "2026-10-21T09:37:04Z"
+   "2026-10-21T09:37:04Z",
+   "2026-10-29T15:32:40Z"
   ],
   "fails": [
    "2026-10-21"
   ],
-  "batch": "LT-T03"
+  "batch": "LT-T03",
+  "last_ok": "2026-10-29"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [
+   "+370-671-30065"
+  ],
+  "social": [],
+  "models_on_site": [
+   "AC230V",
+   "RS485",
+   "NF622",
+   "WP9525",
+   "WP9520",
+   "BTY-M6K",
+   "IPC-T22EP",
+   "IPC-C11EP"
+  ],
+  "url": "https://www.extradigital.eu/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

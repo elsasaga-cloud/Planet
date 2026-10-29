@@ -9,7 +9,9 @@
  "brands_seen": [
   "Ruijie",
   "Reyee",
-  "Uniview"
+  "Uniview",
+  "Hikvision",
+  "Milesight"
  ],
  "evidence": [
   {
@@ -56,7 +58,7 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★★ 首选 · OEM 30%：Visiotech Security S.L.（B80645518；Madrid；自有品牌 Safire / X-Security / Nivian；欧洲多国大分销）坐实；成单 ✔ 曾谈 OEM 交换机 ✔ 自有品牌 ✔ 具名 KP emussons@ ✔ → P 池候选；闸 1：西班牙 Visiotech（大型安防分销商，自有品牌 Safire，产品中见中科德能）：成单记录 + OEM 交换机合作邮件、31 次跟进 → 欧洲主区 + 自有品牌 + 分销体量 → 闸 2",
- "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/saga_fit/deep。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -86,8 +88,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "STC-424XGGPM-280W",
-   "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
+   "p1": "STI-288GPM",
+   "why": "官网快照对位：工业/自动化词频 6、PoE 34 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -147,14 +149,45 @@
   "**成单 + 曾谈 OEM 交换机 → OEM 30% 主线：按 Safire / X-Security 口型复盘（STC-028GP / STC-228GP / STC-2224GP 24 PoE + 2 SFP 丝印彩盒 MOQ + STI 工业线；付费样机）一页纸 + 旧线索点名回访— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买"
  ],
  "saga_fit": {
-  "p1": "STC-424XGGPM-280W",
+  "p1": "STI-288GPM",
   "tier": 30,
-  "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
-  "basis": "默认 · 官网快照后按业务线校正"
+  "why": "官网快照对位：工业/自动化词频 6、PoE 34 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）",
+  "basis": "官网快照自动对位（LT-T03）· 人工点名时再校",
+  "p1_prev": "STC-424XGGPM-280W"
  },
  "deep": {
   "done_at": "2026-10-29",
-  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
-  "batch": "LT-T01"
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T01",
+  "snapshot_at": "2026-10-29"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:39:10Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [
+   "+33) 01 82 88 09 26",
+   "+351) 308 802 598",
+   "+39) 039 930 04 08"
+  ],
+  "social": [],
+  "models_on_site": [
+   "IT10864770960",
+   "FR71907937221",
+   "VEC0804HC-M70-HDCVI",
+   "SF-T020CA-5B1-0360",
+   "UV-UAC-D125-AF28M",
+   "SF-B580Z-3KE1",
+   "UV-UAC-T125-AF28LM",
+   "SF-T020A-3KE1"
+  ],
+  "url": "https://www.visiotechsecurity.com/en/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -1,9 +1,9 @@
 {
  "code": "XC-M177",
  "name": "Distec Ltd",
- "round": "X1-02",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "alive": "在线（distec.co.uk，快照 2026-10-29）：Industrial Computing Experts - Distec Ltd",
  "summary": "Distec Ltd：工业计算 / IIoT 方案分销（InHand Networks 区域渠道分销 2025-09；与 Siemens 同台参展 Industry 4.0 Summit）",
  "type_final": "分销（HMS/N-Tron·Red Lion 渠道）；Distec Ltd",
  "size": "",
@@ -13,7 +13,12 @@
  "contacts": {
   "email": "sales@distec.co.uk",
   "email_status": "官网 / 名录公开（X1-02 补路径）",
-  "kp": []
+  "kp": [],
+  "page_emails": [],
+  "page_phones": [
+   "+44 (0) 161 777 4273"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "evidence": [
   {
@@ -36,6 +41,13 @@
    "quote": "",
    "url": "https://companycheck.co.uk/company/02718521/DISTEC-LIMITED/companies-house-data",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Industrial Computing Experts - Distec Ltd",
+   "quote": "Industrial Computing, Embedded Systems and Digital Signage solutions for Industrial Automation, Retail and Healthcare markets.",
+   "url": "https://www.distec.co.uk/",
+   "date": "2026-10-29"
   }
  ],
  "touch_status": "未触达（路径 2026-10-29 新补）",
@@ -47,6 +59,17 @@
   "angle": "已入 P 池 → 按巡检节奏首触"
  },
  "deep": false,
- "notes": "Distec Ltd；Huntsman Drive, Northbank Industrial Park, Irlam, Manchester M44 5EG；+44 161 777 4273；X1-02R 补证：Companies House 02718521（1992-05-29）",
- "draft_en": null
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\nDistec Ltd；Huntsman Drive, Northbank Industrial Park, Irlam, Manchester M44 5EG；+44 161 777 4273；X1-02R 补证：Companies House 02718521（1992-05-29）",
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:57:48Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-288GPM",
+  "why": "官网快照对位：工业/自动化词频 373、PoE 30 → DIN 8 PoE+ 2 SFP 起手",
+  "date": "2026-10-29"
+ }
 }

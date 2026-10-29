@@ -1,19 +1,34 @@
 {
  "code": "XC-M179",
  "name": "LC Automation Ltd",
- "round": "X1-02",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "alive": "在线（lcautomation.com，快照 2026-10-29）：LC Automation - Welcome to the Home of Industrial Automation",
  "summary": "LC Automation Ltd：自动化 / 运动控制 / 机械安全分销（Red Lion 分销商；Chippenham 分部）",
  "type_final": "分销（HMS/N-Tron·Red Lion 渠道）；LC Automation Ltd",
  "size": "",
  "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
  "fit": "○ 自动化 / 运动控制 / 机械安全分销 20%：LC Automation Ltd（Blackburn + Chip",
- "brands_seen": [],
+ "brands_seen": [
+  "Siemens",
+  "Teltonika",
+  "Phoenix Contact"
+ ],
  "contacts": {
   "email": "sales@lca.co.uk",
   "email_status": "官网 / 名录公开（X1-02 补路径）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "accounts@lca.co.uk",
+   "ales@lca.co.uk",
+   "sales.chippenham@lca.co.uk",
+   "sales@lca.co.uk",
+   "service@lca.co.uk"
+  ],
+  "page_phones": [
+   "+44 (0)1254 685900"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "evidence": [
   {
@@ -43,6 +58,13 @@
    "quote": "",
    "url": "https://www.datanyze.com/companies/lc-automation/43421003",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；LC Automation - Welcome to the Home of Industrial Automation",
+   "quote": "LC Automation is your leading supplier of Automation, Motion Control & Machine Safety products with Free Technical Support and Great Customer Service",
+   "url": "https://www.lcautomation.com:443/",
+   "date": "2026-10-29"
   }
  ],
  "touch_status": "未触达（路径 2026-10-29 新补）",
@@ -54,6 +76,17 @@
   "angle": "已入 P 池 → 按巡检节奏首触"
  },
  "deep": false,
- "notes": "LC Automation Ltd；Duttons Way, Shadsworth Business Park, Blackburn BB1 2QR；+44 1254 685900；X1-02R 补证：Companies House 01166468；VAT GB 834 8649 88",
- "draft_en": null
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nLC Automation Ltd；Duttons Way, Shadsworth Business Park, Blackburn BB1 2QR；+44 1254 685900；X1-02R 补证：Companies House 01166468；VAT GB 834 8649 88",
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:57:48Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-280GE",
+  "why": "官网快照对位：工业/自动化词频 21、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手",
+  "date": "2026-10-29"
+ }
 }

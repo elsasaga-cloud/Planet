@@ -1,13 +1,19 @@
 {
  "code": "XB-C1317",
  "name": "Pure Signal",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 puresignal.com.sa MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（puresignal.com.sa，快照 2026-10-29）：Pure Signal Saudi Arabia | Networking & IT Solutions",
  "summary": "Pure Signal（沙特）：网络设备/IT基础设施供应；公司类型=网络设备/IT基础设施供应；总部=Al Olaya, Riyadh；客户优先级=🟢 B类",
  "type_final": "网络设备/IT基础设施供应",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Cisco",
+  "Aruba",
+  "Huawei",
+  "Fortinet",
+  "Juniper"
+ ],
  "saga_line": "STC 项目集成款（25% 档：STC-2216GP / STC-228GP）",
  "fit": "",
  "evidence": [
@@ -24,12 +30,31 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Pure Signal Saudi Arabia | Networking & IT Solutions",
+   "quote": "Pure Signal (PureSignal) is a Saudi networking and IT infrastructure supplier serving businesses and projects across Saudi Arabia.",
+   "url": "https://shop.puresignal.com.sa/en",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@puresignal.com.sa",
   "email_status": "活（来源库 9 月核对）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "ahmed@company.com.sa",
+   "info@puresignal.com.sa",
+   "mohamed@puresignal.com.sa",
+   "nsales@puresignal.com.sa",
+   "sales@puresignal.com.sa"
+  ],
+  "page_phones": [
+   "+966 51 070 8827",
+   "+966510708827 03"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -45,5 +70,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:53:29Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGM",
+  "why": "官网快照对位：10G/2.5G 词频 15、交换机 49 → 24 GE + 4×10G L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

@@ -1,0 +1,435 @@
+# XC-M154 Pulse Supply · home · https://pulsesupply.com/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+Telecommunications & WAN Equipment Supplier – Pulse Supply
+Email: Sales and Support
+410.583.1701
+Pulse Supply .
+Suppliers of enabling technologies for Next Generation Networks
+Products
+Hardware
+Legacy
+Cabinets
+Cables
+Channel Banks
+Datacomm
+ATM Termination
+LA-110
+ACE-52
+ACE-202
+ACE-2002
+TA-600 Series
+OPTI-MX
+Channel Banks
+TA 850
+VCL-CB-E1
+VCL-CB-PRI
+CSU/DSU
+T1 ESF CSU ACE
+DSU 5600
+DSU 56/64
+ESU LT
+ESU 120e
+FCD-E1
+FCD-E1M
+TSU LT
+TSU 120e
+T3SU 300
+E3 IDSU
+Digital Cross Connects
+DXC-2
+DXC-Family 8R, 10A, 30, 30E
+DXC-100
+Atlas 550
+Atlas 830
+Atlas 890
+Limited Distance/Short Haul/DSL
+ASMi-50
+SRM-9
+ASMi-52
+ASM-60
+HTU-E1/T1
+LRS-24
+Express 6503
+Express 6530
+NTU-E1
+Fiber Optics
+Egate-20
+Egate-100
+FOM-9
+FOMi-40
+FOMi-E1/T1
+FOMi-E3/T3
+OCU-45
+OPTI-3
+Optimux 45
+Optimux XL
+OPTI-6100
+Optimux 1551/1553
+R-STM-1E
+F-TEL
+Kilomux 2100
+Multiplexers
+DV-MUX3
+STM-8/16/24 HS
+Kilomux 2100/2104
+Megaplex 2100/2104
+TSU 600e
+Optimux XL
+MX 2800
+MX 2820
+R-STM-1E
+Atlas 890
+P32mxi
+Exinda
+x700 Series
+x800 Series
+PowerLink
+IP Optimization
+Digital Patch Panels
+NSG Dynapatch
+Frame Relay
+Atlas 550
+Atlas 890
+Netperformer
+Interface Conversion
+Balun
+Balun Rack
+MIC Series
+NT1 ACE
+RIC-E1/T1
+RIC-E3/T3ETH
+UCI/HS
+AMC-101
+AMC-102
+ARC-101
+Egate-20
+Egate-100
+DXC-2
+Inverse Multiplexing
+IMX-2
+Remote Control
+Routers/Switches
+Adtran Routers/Switches
+Tiny Bridge
+Test and Access
+Video Encoders
+Voice Compression
+VMUX 104
+VMUX 110
+VMUX 210
+VMUX 2100
+Netperformer
+Cellular
+Boosters
+Extenders
+Gateways
+Industrial Routers
+POTS
+Serial
+SMS
+Ethernet Access
+Ethernet over Copper
+Ethernet over Fiber
+Ethernet over TDM
+Network Taps
+SFP Converter
+SFP Transceivers
+Fax
+Small to Medium Office
+Enterprise
+IoT
+IP Transport
+Business Gateways
+Industrial Routers
+ISDN over IP
+Load Balance
+Optimization
+Routers
+Security
+Switches
+TDM over IP
+Network Attached Storage
+Power
+Batteries
+Tripp Lite
+Satellite
+Signaling
+SS7 Gateways
+Converters
+Security & Access
+Video
+Body Temperature Scanner
+Encoders
+IP Cameras
+Management Software
+Microsoft Teams Room Kits
+NVR
+Zoom Room Kits
+VoIP
+Gateways
+IP PBX
+SBC - Session Border Controller
+Softswitch
+UCaaS
+VoIP Phones
+Wireless
+Backhaul
+Industrial Routers
+Laser
+LTE
+MM Wave
+Multi-Point
+Enclosures
+Tracking
+Wi-Fi
+WiMAX
+Cloud
+DDoS Protection
+Hosted VoIP
+SD-WAN
+Virtual SBC
+Servers
+Fiber Optic Cable
+Indoor/Outdoor (Bulk)
+Outside Plant (Bulk)
+Traceable Fiber Patch Cables
+Hot Products
+Used Equipment
+Line Card
+Manufacturers
+A-M
+Adtran
+Agile
+Arista Networks
+Buffalo
+Cel-Fi
+Comtech EF
+Datacom Systems
+Digi
+Eaton
+Encore Networks
+Extreme Networks
+GAI-Tronics
+Hanwha Techwin
+Hypermedia
+ioTRAN
+Kemp
+Luxriot
+Matrix
+Telecom Solutions
+Security Solutions
+MikroTik
+N-Z
+NorthStar
+Oberon
+Portech
+Rad
+Wired
+Wireless
+Siae
+Siklu
+SureCall
+TelcoBridges
+Teltonika
+Tripp Lite
+VeeCom
+Vtech
+Business Phones
+Hospitality Phones
+XPANDAcell
+Yealink
+IP Phones/Devices
+Zoom Room Kits
+MS Teams Room Kits
+Yealink Pricing
+Zhone (DZS)
+Solutions
+General Solutions
+Popular Solutions
+Ruggedized Communications for Nuclear Small Modular Reactors
+Class 4 and Class 5 Softswitch Replacement
+My network is under attack!
+Low-speed serial data and analog/digital voice are in demand!
+Help, stuck in an elevator and the emergency phone is broken!
+Cisco routers and switches: Alternative?
+SMS for business: Own a gateway?
+Cellular service for a town, Solution?
+Manage Wi-Fi from the Cloud?
+Terminate SS7: Media gateway?
+WAN optimization: Easy?
+Replace analog phone lines? A Solution?
+ISDN over IP - Solution?
+Services
+Consult & Design
+Installation
+Logistics
+Network Analysis
+Product Advice
+Product Distribution
+Product Export
+Project Management
+Reseller and Agent Program
+Systems Integration
+Service Contracts
+Wiring & Cabling
+Company
+Background
+What we do
+Mission Statement
+Contact
+How to Buy
+Offices
+Email
+Support
+Employment
+Sales Representative
+Reseller Partner Program
+Search
+Unique Products.
+Delivering Best In Class Solutions, Hardware, and Software.
+Service Assured Access
+Carrier Ethernet Demarcation for Telecom, Utilities, and Service Providers
+SLA-based MEF-certified Carrier Ethernet 2.0, Layer-3 VPN, and
+TDM-over-packet services include the RAD ETX-203AX, ETX-203AM, ETX-205A, ETX-220A, and ETX-2i
+Redefining TDM Networks
+SFP Network Converters for legacy networks and modern migration
+Are you struggling with legacy TDM connections and their associated operating expenses? We have the solution!
+Industrial Wireless Routers
+Is the environment determining your wireless networking solutions?
+Industrial Wireless Routers are at the heart of Utilities, Oil & Gas, Waste, Wastewater, Public Safety, Agriculture, Emergency Vehicles, and Smart Cities!
+Data in the Air
+Wireless Broadband for demanding applications and best performance
+The Airmux series of Wireless Broadband radios provide solid performance in Point-to-Point and Multi-Point while delivering incredible SLA!
+Digital Patch Panel
+Legacy patching for popular formats including Serial, RS-232, RS-530, V.35, and X.21
+Legacy access and patching to serial data connections in a modular chassis. These products are very hard to find, but Pulse Supply has brought them back!
+Power Solutions
+Heavy Duty Batteries for large scale solutions where disaster recovery is paramount
+We provide the most powerful batteries for Data Centers, Telecom, and Reserve Power. High-density solutions available.
+VoIP and Media Gateways
+High Density, Rock Solid
+VoIP and Media Gateways for demanding and scalable service provider solutions
+Let Pulse Supply solve legacy integration of SIP, TDM, SS7, E1, T1, PRI, and CAS signaling with our high performance gateway solutions.
+Business SIP Phones
+We distribute the market leader, Quality
+Yealink Business Phones for every business
+Pulse Supply is a stocking distributor of the extremely popular Yealink business phones and accessories! Get the pricing you deserve.
+Millimeter-Wave
+Multi-Gigabit Wireless Solutions for building to building or long haul broadband
+Point-to-Point and Multi-Point wireless products for extending high-speed IP and Internet Networks! Across the street or between two cities.
+Industrial Telephone
+and Communication Platforms for the most demanding environments
+Provides heavy-duty telephony products and platforms for manufacturing, mining, utilities, warehouse and more.
+Branch Office Connectivity
+SIP, T1, PRI, FXS, and Router. High performance Business IP Gateway
+The premier solution for branch office connectivity. This unit is the defacto standard for getting businesses connected!
+IP and Serial Wireless Router
+Cellular LTE Industrial Gateway for wireless IP Connectivity for data and voice
+High-performance low-cost broadband router designed for Ethernet and Legacy Serial Data over LTE Cellular networks!
+Cellular Extension
+Carrier grade, large area cellular extender and repeater for valleys, hills and underground
+Extends cellular reception to large areas, valleys and tunnels where existing cell towers are inadequate
+Introducing.
+Pulse Supply delivers results for telecom service providers.
+Pulse Supply continues to innovate in telecommunications service provider networks. We proudly offer RAD and Adtran Ethernet and Fiber access solutions. Up to 400Gb of performance and MEF 3.0 certifications. Let's scale together!
+RAD ETX Ethernet Access Series
+As a best-of-breed edge solutions leader with the agility to customize, we meet real-world deployment needs at scale. From advanced L2 Ethernet capabilities to effortless, secure cloud access.
+Also referred to as a carrier ethernet switch or network edge device, RAD’s ethernet network devices and products are MEF CE 3.0 certified and powered by a comprehensive service assured access toolset.
+That’s why a new breed of high-density edge technology is urgently required. What enterprise and mobile networks need is a range of solutions able to deliver MEF 3.0 Carrier Ethernet 100Gbit/s demarcation and high-scale 10Gbit/s service aggregation in an incredibly compact form factor.
+Adtran FSP 150-XG400 Series
+Enormous bandwidth growth in fixed, mobile and cable networks is forcing service providers to take the next step in scaling their metro networks.
+The move to 100Gbit/s aggregated capacity in the access network enables reliable aggregation of multiple 10Gbit/s streams, but at the same time increases the need for 100Gbit/s bandwidth services.
+Our FSP 150-XG400 Series is the ultimate tool for scaling edge networks. For the first time, fixed and mobile operators can deploy a MEF 3.0-certified 100Gbit/s demarcation device that enables a seamless expansion of their access networks. This breakthrough technology provides the improved distribution of precise synchronization needed for 5G applications.
+Learn more abou t
+A True Value-Added Distributor
+Where Legacy Networks Meet Modern Networking
+Ruggedized Communications - Nuclear and Data Center
+Small Module Reactor Solutions from Pulse Supply
+Mini nuclear reactor plants require rugged, high-integrity, secure communications and power generation safety systems.
+SMR facilities need seamless, unified communication across reactor containment, turbine buildings, control rooms, and outdoor perimeters. GAI-Tronics is the global gold standard for high-performance industrial communications and emergency notification infrastructure.
+Pulse Supply delivers carrier-grade GAI-Tronics industrial communications systems , rugged phones, and integrated safety communication systems tailored for Small Modular Reactor (SMR) nuclear plants.
+Pulse Supply is a leading provider of industrial and ruggedized communications equipment in North America. Call for a free consultation.
+Secure your Small Reactor Plant Communications!
+Our Mission
+Your Key to Success!
+Pulse Supply is your premier telecommunications equipment supplier and is one of the largest distributors of data communications hardware and software. Pulse Supply is also your one-stop WAN equipment supplier. We specifically help companies and organizations reach their goals through technology.
+We work with service providers, carriers, utilities, government, enterprise, MSPs, IT providers, and resellers looking to leverage our 25+ years of relationships, manufacturers, and experience.
+Browse Our Website
+Spend some time getting to know Pulse Supply as your telecommunications service supplier.
+Speak With Our Representatives
+Contact a Pulse Supply customer representative closest to your region.
+Purchase or Lease Today!
+Let us show you what we can do for your company or organization:
+- Data Center buildout and Infrastructure
+- Redefining Ethernet Edge Access
+- Redefining TDM Networks
+- SFP Network Converters
+- Convert legacy TDM connections and reduce operating expenses
+- Carrier Grade, Large Area Cellular Extender and Repeater Extends cellular reception to large areas, valleys, and tunnels where existing cell towers are inadequate
+- Leading Edge Communications Cellular and SMS Gateways
+- Tap into the world of VoIP/SIP to save money and improve network efficiency
+Leading Edge Solutions.
+Hosted PBX/UCaaS/Class 5 Softswitch Replacement
+We provide the ioTRAN Cloud Communications Platform for SaaS, Hybrid, or On-premise.
+This powerful modern white-label platform supports all the telephony and UCaaS features required in modern businesses that today's service providers are looking for:
+ioTRAN is a North American-based developer of carrier-grade cloud communications platforms, dedicated exclusively to service providers and their quest to provide world-class communications services to their customers.
+ioTRAN released its 7th generation platform, forging an exciting new future for both existing customers and new markets. These markets include on-premise software sales to large service providers and telcos seeking a class 5 softswitch replacement and pathways to modern UCaaS and emerging technologies
+Get Carrier Grade UCaaS!
+Our Services.
+25+ Years of Experience in Data and Telecommunications Services.
+Product Distribution
+Pulse Supply is a trusted master distributor for specialized telecommunications and networking products. We are one of the largest suppliers of telecommunications & WAN equipment.
+Cloud Services
+Looking for modern cloud product services? Pulse Supply can provide you with some of the most powerful SaaS and Cloud services in the industry. We are experts and know the cloud.
+Consulting
+Are you looking to expand, change, or modify your communications network? Pulse Supply can help with over 30 years of industry experience. Outsource with Pulse Supply today!
+Logistics
+Are you looking to streamline your communications network purchases, configurations, and shipments? Pulse Supply simplifies your internal processes.
+Services
+Whether you need technical support or project management, Pulse Supply provides a wide array of custom-tailored services to fit your requirements.
+High Availability
+Looking for redundancy and high availability solutions to virtualize/hyper-connected application servers that don't require complex implementation?
+IoT Solutions
+We provide IoT connectivity solutions based on wireless requirements and environments. We also provide specialized IoT Wireless Gateways and Modems.
+Conversion Solutions
+We provide solutions for voice, video, and data conversions. Our specialty is addressing legacy network requirements for modern networks.
+Carrier Solutions
+From broadband wireless extension to Class 5 switch replacement, Pulse Supply delivers scalable and secure solutions.
+Data Center Solutions
+Pulse Supply provides the core components of Data Center buildouts, including power distribution, cabinets, cabling, servers, and switches.
+Systems Integration
+Using our proven methodology, we work with our customers to fully understand their business and the project requirements. We then integrate diverse technologies from our best-of-breed manufacturers.
+Cloud Communications Platforms
+Pulse Supply delivers cloud communications platforms in SaaS or On-premises. Provides Hosted PBX, Residential, SIP Trunking, AI, Messaging, Video, Fax, and UCaaS. Available for MSPs, IT Providers, Broadband Providers, Data Centers, and Telcos.
+View more Services
+Your White-Label Telecommunications & WAN Equipment Supplier
+Suppose you are an IT solutions or technology provider, VAR, distributor, reseller, or service provider looking for new ways to increase opportunity and revenue. In that case, Pulse Supply can be your trusted partner for telecommunications equipment. We help you win new business in technology areas where you may have limited experience, giving you the confidence to expand your offerings. Our team also enables you to deliver highly profitable niche solutions that many providers overlook—helping you stand out and grow your revenue.
+- Increase your revenue and grow your business by partnering with the premier WAN hardware distributor
+- Access to thousands of specialized communications and networking products
+- Pre-sales support to make sure it’s the right solution
+- Work with people who care about seeing your business succeed
+- Your customers require products that fall outside of your expertise. Fill technology and product gaps
+- Choose between agent or reseller programs for maximum flexibility
+Get started today!
+Navigate.
+Home
+Products
+Manufacturers
+Solutions
+Services
+Contact Us
+Company.
+About Us
+What We Do
+Mission Statement
+Contact.
+Offices
+Email
+Support
+Careers.
+Employment
+Sales Positions
+Partner Program
+Terms & Privacy.
+Terms & Conditions
+Social.
+Copyright © 2026 Pulse Supply. All Rights Reserved. .

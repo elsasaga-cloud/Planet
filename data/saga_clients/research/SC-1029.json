@@ -42,7 +42,7 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · OEM 30% + 预付 100%：Xentino Technologies Corp.（基隆；統編 54303706 官网自报；2013；6–10 人；GM Sinan Bedir；品牌面向土耳其 / 中东 / 东欧）坐实但微型；自有品牌 ✔ 主区市场 ✔ → 入池观察档；可否决；闸 1：台湾 Xentino（xentino.com；工业 FS / SFP，表内「用的 ONV 的，就换了个标」= 贴牌自有品牌）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔；群发 8 次 0 回 → 闸 2 查底数（twinc…",
- "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/saga_fit/deep/facts。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -72,8 +72,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "STC-424XGGPM-280W",
-   "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
+   "p1": "STI-288GPM",
+   "why": "官网快照对位：工业/自动化词频 20、PoE 36 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -95,6 +95,14 @@
     "quote": "TW · 1 次检索：xentino.com/index.cfm?fuseaction=objects2.company（Tax No / 地址 / 产品线）+ xentino.en.ec21.com（规模 / GM）；2026-10-29",
     "why": "闸 2 坐实来源（URL 见 company_facts.url）",
     "url": "https://www.xentino.com/index.cfm?fuseaction=objects2.company"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Xentino | Home Page — Bilgisayar, Ağ ve İletisim alanında ürün ve hizmetler, LAN, WAN, networking ve entegrasyon uygulamaları. Communication and Networking products and solutions...",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://xentino.com/"
    }
   ],
   "proof_gaps": [
@@ -129,14 +137,46 @@
   "表内兴趣：工业FS SFP模块"
  ],
  "saga_fit": {
-  "p1": "STC-424XGGPM-280W",
+  "p1": "STI-288GPM",
   "tier": 30,
-  "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
-  "basis": "默认 · 官网快照后按业务线校正"
+  "why": "官网快照对位：工业/自动化词频 20、PoE 36 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）",
+  "basis": "官网快照自动对位（LT-T03）· 人工点名时再校",
+  "p1_prev": "STC-424XGGPM-280W"
  },
  "deep": {
   "done_at": "2026-10-29",
-  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
-  "batch": "LT-T01"
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T01",
+  "snapshot_at": "2026-10-29"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:34:24Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [],
+  "social": [
+   "https://tw.linkedin.com/company/xentino",
+   "https://twitter.com/",
+   "https://wa.me/90XXXXXXXX",
+   "https://www.facebook.com/xentinoTW/"
+  ],
+  "models_on_site": [
+   "SI306",
+   "DA840",
+   "DT650",
+   "AC260",
+   "VS80T",
+   "MR401-TPG",
+   "SI305",
+   "SI804GP"
+  ],
+  "url": "https://xentino.com/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

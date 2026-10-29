@@ -1,4 +1,4 @@
-# SB-247 jpg.lt · sitemap · https://jpg.lt/sitemap.xml · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-247 jpg.lt · sitemap · https://jpg.lt/sitemap.xml · fetched 2026-10-29T15:11:51Z · HTTP 200
 	https://jpg.lt/
 	https://jpg.lt/gps-sekliai-priedai/
 	https://jpg.lt/vaizdo-stebejimo-sistemos/

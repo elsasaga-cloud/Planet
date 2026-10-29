@@ -1,9 +1,9 @@
 {
  "code": "XB-E029",
  "name": "COMPUTERS NETWORK & TELECOM",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 cntindia.net MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（cntindia.net，快照 2026-10-29）：CNT India | Information Technology Consulting",
  "summary": "COMPUTERS NETWORK & TELECOM（印度 · Gurgaon）：SI/VAR/集成商",
  "type_final": "SI/VAR/集成商",
  "size": "",
@@ -31,6 +31,13 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；CNT India | Information Technology Consulting",
+   "quote": "Computers Network & Telecom India Pvt. Ltd. is an award winning ISO certified Information Technology company with a mission to harness enterprise potential and modernize IT infrastructure using innovative end to end technology solutions across a range of industries.",
+   "url": "https://cntindia.net/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
@@ -42,7 +49,13 @@
     "role": "CEO/董事",
     "source": "来源库 KP 段"
    }
-  ]
+  ],
+  "page_emails": [
+   "info@cntindia.net",
+   "sales@cntindia.net"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-20 去信 1 / 来信 0（24 Port PoE Managed Switch）",
  "saga_overlap": "无",
@@ -58,5 +71,11 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:53:50Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

@@ -40,7 +40,7 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 印度 · 自有品牌安防商 OEM 30%：VIgIL – M/s Udaya Security Vision（Cuttack, Odisha；CCTV 自有品牌 22 年；vigil_usv@yahoo.co.in）部分坐实（GST 未取）；印度先例 ✔ 自有品牌 ✔ hisource PoE 现供 ✔ → P 池候选（仅 yahoo 邮箱）；闸 1：印度 Vigil（vigilworld.com no_mx；vigil_usv@yahoo.co.in；PoE switch，hisource 的 ✔）：点名中国品牌 ✔ 印度先例 ✔ 对位 ✔ 可达 ✔ → 闸 2 查底数（MCA 镜像…",
- "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：saga_fit.basis/deep/facts。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -93,6 +93,14 @@
     "quote": "IN · 1 次检索：vigilworld.com/contact-us（法人名 / 地址 / 邮箱 / 业务）；GST 未取；2026-10-29",
     "why": "闸 2 坐实来源（URL 见 company_facts.url）",
     "url": "https://vigilworld.com/contact-us/"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Your domain is expired — Domain is expired",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://vigilworld.com/"
    }
   ],
   "proof_gaps": [
@@ -133,11 +141,19 @@
   "p1": "STC-424XGGPM-280W",
   "tier": 30,
   "why": "默认对位（自有品牌安防商 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
-  "basis": "默认 · 官网快照后按业务线校正"
+  "basis": "默认 · 官网快照已到（2026-10-29）无型号线索，沿用"
  },
  "deep": {
   "done_at": "2026-10-29",
-  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
-  "batch": "LT-T01"
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T01",
+  "snapshot_at": "2026-10-29"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:36:20Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
  }
 }

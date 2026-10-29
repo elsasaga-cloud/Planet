@@ -1,9 +1,9 @@
 {
  "code": "XA-M314",
  "name": "Kidwell Inc.",
- "round": "W1-R02",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（kidwellinc.com，快照 2026-10-29）：Kidwell",
  "summary": "集成商（NE）；Marvell 接入层生态切入",
  "type_final": "集成商（NE）",
  "size": "未量化",
@@ -26,12 +26,25 @@
    "quote": "",
    "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
    "date": "2026-09-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Kidwell",
+   "quote": "Kidwell creates fully integrated technology systems for schools, hospitals, businesses and other establishments to help streamline daily IT, electrical and communication operations.",
+   "url": "https://www.kidwellinc.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@kidwellinc.com",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "info@kidwellinc.com",
+   "user@domain.com"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-09-29 群发「24 Port PoE Managed Switch」→ 已发未回",
  "saga_overlap": "无",
@@ -45,7 +58,13 @@
   "window": "",
   "when": "不动"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:48:29Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

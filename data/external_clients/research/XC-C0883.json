@@ -1,13 +1,18 @@
 {
  "code": "XC-C0883",
  "name": "ATOP（台湾）",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 industrialcomms.com MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（industrialcomms.com，快照 2026-10-29）：Industrial Communication Products Ltd | IndustrialComms",
  "summary": "ATOP（台湾）（中国台湾）：A类竞品 — ERPS工业PoE管理型交换机；开发策略=台湾工业品牌，ERPS能力，竞品情报；置信度=★★★★★",
  "type_final": "A类竞品 — ERPS工业PoE管理型交换机",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Hirschmann",
+  "EtherWAN",
+  "Siemens",
+  "Allied Telesis"
+ ],
  "saga_line": "STI 工业 PoE（25% 档：STI-288GPM）",
  "fit": "",
  "evidence": [
@@ -17,12 +22,29 @@
    "quote": "",
    "url": "https://industrialcomms.com",
    "date": "2026-09"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Industrial Communication Products Ltd | IndustrialComms",
+   "quote": "Leading distributor of Industrial Communication Products and Power Supplies. IndustrialComms is the brand name for Industrial Communications Products Ltd. We are a dedicated Business to Business (B2B) supplier serving the needs of Business and Pub...",
+   "url": "https://www.industrialcomms.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "",
   "email_status": "缺",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "sales@industrialcomms.com",
+   "support@starapps.studio",
+   "you@yourcompany.com"
+  ],
+  "page_phones": [
+   "+44 (0) 203 086 9569",
+   "+44 0203 086 9569"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "Saga SC-331（industrialcomms.com）随主档",
@@ -38,5 +60,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:55:50Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-280GE",
+  "why": "官网快照对位：工业/自动化词频 70、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手",
+  "date": "2026-10-29"
+ }
 }

@@ -1,4 +1,4 @@
-# SB-230 adin.it · sitemap · https://adin.it/sitemap.xml · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-230 adin.it · sitemap · https://adin.it/sitemap.xml · fetched 2026-10-29T15:11:51Z · HTTP 200
 	https://adin.it/
 	https://adin.it/it/prodotti/
 	https://adin.it/it/k-new-2/
@@ -18,54 +18,45 @@
 	https://adin.it/it/sotware-tvcc/
 	https://adin.it/it/tvt/
 	https://adin.it/it/bdcom/
-	https://adin.it/it/managed-switch/
-	https://adin.it/it/managed-switch/bdcs25008t2s/
-	https://adin.it/it/managed-switch/bdcs250024t4s/
-	https://adin.it/it/managed-switch/bdcs29008t4x/
-	https://adin.it/it/managed-switch/bdcs29008t4x2ac/
-	https://adin.it/it/managed-switch/bdcs290024t4x/
-	https://adin.it/it/managed-switch/bdcs290024t4x2ac/
-	https://adin.it/it/managed-switch/bdcs290024t4xdc/
-	https://adin.it/it/managed-switch/bdcs290024s8c4x/
-	https://adin.it/it/managed-switch/bdcs290024s8c4x2ac/
-	https://adin.it/it/managed-switch/bdcs290024s8c4xdc/
-	https://adin.it/it/managed-switch/bdcs290024s8c4x2dc/
-	https://adin.it/it/managed-switch/bdcs290048t4x/
-	https://adin.it/it/managed-switch/bdcs290048t4x2ac/
-	https://adin.it/it/managed-switch/bdcs290048t4xdc/
-	https://adin.it/it/managed-switch/bdcs290048t4x2dc/
-	https://adin.it/it/managed-switch/bdcs290048t6x/
-	https://adin.it/it/managed-switch/bdcs290048t6x2ac/
-	https://adin.it/it/managed-switch/bdcs290048t6xdc/
-	https://adin.it/it/managed-switch/bdcs290048t6x2dc/
-	https://adin.it/it/managed-switch/bdcs290048s6x/
-	https://adin.it/it/managed-switch/bdcs290048s6x2ac/
-	https://adin.it/it/managed-switch/bdcs29002t10x/
-	https://adin.it/it/managed-switch/bdcs29002t10x2ac/
-	https://adin.it/it/managed-switch/bdcs29008tg4x/
-	https://adin.it/it/managed-switch/bdcs29008tg4x2ac/
-	https://adin.it/it/managed-switch/bdcs390024t6x/
-	https://adin.it/it/managed-switch/bdcs390048t6x/
-	https://adin.it/it/managed-switch/bdcs390024s8t6x/
-	https://adin.it/it/managed-switch/bdcs390048m6x/
-	https://adin.it/it/managed-switch/bdcs390048s6x/
-	https://adin.it/it/managed-switch/bdcs390048s4c8x/
-	https://adin.it/it/managed-switch/bdcs5612e/
-	https://adin.it/it/managed-switch/bdcs5612e2ac/
-	https://adin.it/it/managed-switch/bdcs570024et6xv1/
-	https://adin.it/it/managed-switch/bdcs570048et4x2q/
-	https://adin.it/it/managed-switch/bdcs580024x2c/
-	https://adin.it/it/managed-switch/bdcs5864hb/
-	https://adin.it/it/managed-switch/bdcs580048x8ce/
-	https://adin.it/it/managed-switch/bdcs580048y8ce/
-	https://adin.it/it/managed-switch/bdcs580032ce/
-	https://adin.it/it/managed-switch/bdcs57008et4xv1/
-	https://adin.it/it/managed-switch/bdcs580016x8y4c/
-	https://adin.it/it/managed-switch/bdcs250048t4s/
-	https://adin.it/it/managed-switch/bdcs25008t2sw/
-	https://adin.it/it/managed-switch/bdcs25008p2sw/
-	https://adin.it/it/managed-switch/bdcs250024t2g2sw/
-	https://adin.it/it/managed-switch/bdcs250024p2g2sw/
+	https://adin.it/it/poe-switch/
+	https://adin.it/it/poe-switch/bdcs10004p2f/
+	https://adin.it/it/poe-switch/bdcs10008p2f/
+	https://adin.it/it/poe-switch/bdcs12008p2g/
+	https://adin.it/it/poe-switch/bdcs120016p2g1s/
+	https://adin.it/it/poe-switch/bdcs120024p2g1s/
+	https://adin.it/it/poe-switch/bdcs120024p2g1s370/
+	https://adin.it/it/poe-switch/bdcs15004p2g/
+	https://adin.it/it/poe-switch/bdcs15004p1g1s/
+	https://adin.it/it/poe-switch/bdcs15004p2s/
+	https://adin.it/it/poe-switch/bdcs15008p2g/
+	https://adin.it/it/poe-switch/bdcs15008p1g1s/
+	https://adin.it/it/poe-switch/bdcs15008p2s/
+	https://adin.it/it/poe-switch/bdcs15008p2g2s/
+	https://adin.it/it/poe-switch/bdcs150016p2s/
+	https://adin.it/it/poe-switch/bdcs150024p2s/
+	https://adin.it/it/poe-switch/bdcs150024p2s370/
+	https://adin.it/it/poe-switch/bdcs150016p2g2s/
+	https://adin.it/it/poe-switch/bdcs150024p2g2s/
+	https://adin.it/it/poe-switch/bdcs250016p2s2c/
+	https://adin.it/it/poe-switch/bdcs250024p4c/
+	https://adin.it/it/poe-switch/bdcs25008p2s/
+	https://adin.it/it/poe-switch/bdcs250024p4s/
+	https://adin.it/it/poe-switch/bdcs29008p4x/
+	https://adin.it/it/poe-switch/bdcs290024p4xv1/
+	https://adin.it/it/poe-switch/bdcs290048p6x370/
+	https://adin.it/it/poe-switch/bdcs290048p6x/
+	https://adin.it/it/poe-switch/bdcs290048p6x760/
+	https://adin.it/it/poe-switch/bdcs390048p6x/
+	https://adin.it/it/poe-switch/bdcpoe500ac/
+	https://adin.it/it/poe-switch/bdcs57008ep4x120/
+	https://adin.it/it/poe-switch/bdcs57008ep4x370/
+	https://adin.it/it/poe-switch/bdcs570024ep6x370/
+	https://adin.it/it/poe-switch/bdcs570024ep6x760/
+	https://adin.it/it/poe-switch/bdcs150016p2esh/
+	https://adin.it/it/poe-switch/bdcs150024p2esh/
+	https://adin.it/it/poe-switch/bdcs250016p4s/
+	https://adin.it/it/poe-switch/bdcs390024p6x/
+	https://adin.it/it/poe-switch/bdcs250048p4s370/
 	https://adin.it/it/azienda/
 	https://adin.it/it/servizi/
 	https://adin.it/it/supporto/
@@ -207,4 +198,13 @@
 2019-10-24	https://adin.it/it/telecamere-ip-bullet-2/unvipc2324lbr3spd/
 2019-10-24	https://adin.it/en/telecamere-ip-bullet-2/unvipc2324lbr3spd/
 2023-07-20	https://adin.it/it/moduli-sfp/aivufsfp155m2k/
-202
+2023-07-20	https://adin.it/en/moduli-sfp/aivufsfp155m2k/
+2020-12-01	https://adin.it/it/telecamere-ip-bullet-3/unvipc2124sr3dpf36/
+2020-12-01	https://adin.it/en/telecamere-ip-bullet-3/unvipc2124sr3dpf36/
+2023-07-20	https://adin.it/it/moduli-sfp/aivuf2202am05/
+2023-07-20	https://adin.it/en/moduli-sfp/aivuf2202am05/
+2023-11-23	https://adin.it/it/switch-ethernet-industriali/aivutp7108epoe/
+2023-11-23	https://adin.it/en/switch-ethernet-industriali/aivutp7108epoe/
+2024-11-04	https://adin.it/it/switch-ethernet-da-rack/aivutp7524gepoe4gf/
+2024-11-04	https://adin.it/en/switch-ethernet-da-rack/aivutp7524gepoe4gf/
+2023-11-23	https:/

@@ -1,9 +1,9 @@
 {
  "code": "XA-M128",
  "name": "Neunetia GmbH",
- "round": "W1-R01",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-28 官网核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（neunetia.de，快照 2026-10-29）：Netzwerktechnik kaufen: Router, Switches & Firewalls | Neunetia",
  "summary": "科隆网络技术网店，「Switches」为首位热门类目，在售 MikroTik 配件、Cisco C1000/C1200 PoE+ 交换机、Fortinet、Aruba AP。",
  "type_final": "网络设备网店（多牌，交换机为主类）",
  "size": "小型（未查）",
@@ -11,7 +11,11 @@
   "MikroTik",
   "Cisco",
   "Fortinet",
-  "HPE Aruba"
+  "HPE Aruba",
+  "Aruba",
+  "Juniper",
+  "Ubiquiti",
+  "Teltonika"
  ],
  "saga_line": "SmartByte 商用 L2+（已发）→ 第二封换 STI 工业 L2+ PoE 补位",
  "fit": "交换机主类、多牌，接受新牌上架",
@@ -29,12 +33,26 @@
    "quote": "",
    "url": "External Clients/mikrotik-info/A/XA-M128",
    "date": "2026-10-12"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Netzwerktechnik kaufen: Router, Switches & Firewalls | Neunetia",
+   "quote": "Netzwerktechnik & IT-Hardware günstig kaufen: Switches, Router, Firewalls & Access Points von MikroTik, Cisco und HPE Aruba – Neuware mit Rechnung. Jetzt bestellen.",
+   "url": "https://neunetia.de/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "sales@neunetia.de",
   "email_status": "来源库首选（official-company/channel）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "support@neunetia.de"
+  ],
+  "page_phones": [
+   "+49 (221) 66961118"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "9-28~10-10 群发 24 口 PoE L2+ → 已发未回",
  "saga_overlap": "无",
@@ -48,10 +66,21 @@
   "window": "DE 周四 12–14",
   "when": "2026-10-29"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网核对（R53 2026-09-28 / R63 2026-10-06）。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\n轻卡：本轮未外查，沿用来源库官网核对（R53 2026-09-28 / R63 2026-10-06）。",
  "draft_en": {
   "subject": "Industrial DIN-rail PoE switches - the category MikroTik does not cover",
   "body": "Hello,\n\nI wrote in late September about our 24-port PoE L2+ switch; this is a different product line, so a fresh note rather than a reply.\n\nSTI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE/RoHS, 3-year warranty. Also 4-port (USD 121) and 8 + 4 SFP (USD 147) versions, and PoE++ 90 W variants.\n\nWould an industrial PoE category be worth adding to the Neunetia shop, and may I send the datasheet set for listing?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "deep": false
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:44:59Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-288GPM",
+  "why": "官网快照对位：工业/自动化词频 53、PoE 44 → DIN 8 PoE+ 2 SFP 起手",
+  "date": "2026-10-29"
+ }
 }

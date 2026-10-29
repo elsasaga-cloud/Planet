@@ -1,15 +1,16 @@
 {
  "code": "XA-M294",
  "name": "Tomislav Vrebac / Kerberos",
- "round": "W2-R05d",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（kerberos.hr，快照 2026-10-29）：Kerberos d.o.o. • Inovacije, sigurnost i edukacija u IT-u",
  "summary": "顾问（Kerberos）；MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战",
  "type_final": "顾问（Kerberos）",
  "size": "未量化",
  "brands_seen": [
   "MikroTik 认证顾问 MTCNA",
-  "MTCEWE"
+  "MTCEWE",
+  "MikroTik"
  ],
  "saga_line": "—",
  "fit": "",
@@ -27,12 +28,26 @@
    "quote": "",
    "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
    "date": "2026-10-05"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Kerberos d.o.o. • Inovacije, sigurnost i edukacija u IT-u",
+   "quote": "Dobrodošli na službenu stranicu Kerberos d.o.o., vaše destinacije za kvalitetna IT rješenja, mrežnu sigurnost i stručnu edukaciju. Pomažemo malim i srednjim tvrtkama, edukacijskim ustanovama i IT profesionalcima u optimizaciji infrastrukture i razvoju mrežnih znanja kroz certificirane Mikrotik treni",
+   "url": "https://www.kerberos.hr/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "mikrotik@kerberos.hr",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "tomislav.vrebac@kerberos.hr"
+  ],
+  "page_phones": [
+   "+385 98 983 80 91"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-05 群发「24 Port PoE Managed Switch」→ 已发未回",
  "saga_overlap": "无",
@@ -46,7 +61,18 @@
   "window": "",
   "when": "不动"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:47:46Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-28DGGPM",
+  "why": "官网快照对位：交换机词频 10、无 PoE/工业侧重 → 8 口 L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

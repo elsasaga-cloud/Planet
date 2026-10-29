@@ -1,9 +1,9 @@
 {
  "code": "XA-M017",
  "name": "Dinko Ivanov / MBN Glasfaser",
- "round": "W1-R03",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（mbn-glasfaser.de，快照 2026-10-29）：Mobile Breitbandnetze GmbH",
  "summary": "光纤接入 ISP（Westhofen）；MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战",
  "type_final": "光纤接入 ISP（Westhofen）",
  "size": "未量化",
@@ -20,6 +20,13 @@
    "quote": "",
    "url": "https://mbn-glasfaser.de/",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Mobile Breitbandnetze GmbH",
+   "quote": "Internet, Hotspot, VOIP, VPN, IP TV",
+   "url": "https://mbn-glasfaser.de/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
@@ -39,7 +46,13 @@
   "window": "",
   "when": "不动"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/evidence。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:43:15Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

@@ -1,9 +1,9 @@
 {
  "code": "XA-C0023",
  "name": "KOSATEC Computer GmbH",
- "round": "W1-R01",
- "researched_at": "2026-10-27",
- "alive": "活（轻卡：未外查）",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（kosatec.de，快照 2026-10-29）：KOSATEC Empowering Global Innovation GmbH - IT for Professionals | KOSATEC AI First IT Distribution",
  "summary": "布伦瑞克的全品类 IT 分销商（德国 Top-5 Vollsortimenter，营收数亿欧元级——据公开常识，待补证）。广线分销商上新要走厂商准入与 listing 流程，小供应商直邮进不去。",
  "type_final": "全品类 IT 分销商（大）",
  "size": "待补证（公开常识：数亿欧元级）",
@@ -17,11 +17,24 @@
    "quote": "",
    "url": "External Clients/CCTV-PoE/A/XA-C0023",
    "date": "2026-10-27"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；KOSATEC Empowering Global Innovation GmbH - IT for Professionals | KOSATEC AI First IT Distribution",
+   "quote": "KOSATEC - Your online shop for IT products. Notebooks, PCs, components, peripherals and more.",
+   "url": "https://shop.kosatec.de/en",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@kosatec.de",
-  "email_status": "公开"
+  "email_status": "公开",
+  "page_emails": [
+   "haendler@kosatec.de",
+   "info@kosatec.de"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "未发信",
  "saga_overlap": "无",
@@ -35,7 +48,18 @@
   "window": "",
   "when": ""
  },
- "notes": "轻卡。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\n轻卡。",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:42:42Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGM",
+  "why": "官网快照对位：10G/2.5G 词频 14、交换机 29 → 24 GE + 4×10G L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

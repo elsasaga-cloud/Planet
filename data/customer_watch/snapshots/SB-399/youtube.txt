@@ -1,4 +1,5 @@
-# SB-399 petawise.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCU3Nq4CjuDP8-51g6jo4njw · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-399 petawise.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCU3Nq4CjuDP8-51g6jo4njw · fetched 2026-10-29T15:11:51Z · HTTP 200
+2026-10-29T13:00:37+00:00	Search Security Footage with Prompts - SeekFree Uniview	https://www.youtube.com/shorts/reooHnbuajo
 2026-10-08T13:11:26+00:00	How to Share Uniview cameras through the UniEase mobile app #tutorial #shorts #securitytech #unv	https://www.youtube.com/shorts/4sj-C0uafQQ
 2026-10-01T12:00:39+00:00	Zoom Faster than ever before with Uniview's 360° Multi Sensor PTZ IPC98344ER-GX42-E8-W-VH3	https://www.youtube.com/watch?v=7s1fNpWGXpM
 2026-08-31T17:06:04+00:00	Monitor Remote Locations with a SIM Card, an IP Camera, and a Solar Panel | IPC2A14LP-ADF40KC-4G-US	https://www.youtube.com/watch?v=59GC9CeRlnI
@@ -13,4 +14,3 @@
 2026-06-23T19:51:33+00:00	How to Register a New Account for the UniEase Mobile App and View your Cameras	https://www.youtube.com/shorts/NQzaRyeGn6o
 2026-06-15T17:30:28+00:00	AI Cloud View User Guide: How to set up a new site and NVR from the Insight Portal | AICLUV	https://www.youtube.com/watch?v=zkAZVKskkiA
 2026-06-11T12:39:27+00:00	A Mounted Security Guard - This All-Weather Patrol PTZ does it all. IPC6824ER X42 W VH2	https://www.youtube.com/watch?v=yFsNKuVhhMA
-2026-06-02T12:40:04+00:00	AI Cloud View Partner Portal Configuration Guide for Onboarding Customers | AICLUV	https://www.youtube.com/watch?v=Cfkxkc-dKR0

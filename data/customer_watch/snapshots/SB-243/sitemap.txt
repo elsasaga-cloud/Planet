@@ -1,4 +1,4 @@
-# SB-243 hfcl.com · sitemap · https://www.hfcl.com/sitemap.xml · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-243 hfcl.com · sitemap · https://www.hfcl.com/sitemap.xml · fetched 2026-10-29T15:11:51Z · HTTP 200
 2026-10-23T09:12:01.892Z	https://www.hfcl.com
 2026-08-21T18:47:11.298Z	https://www.hfcl.com/products/defence-solutions
 2026-10-23T05:18:26.786Z	https://www.hfcl.com/insights
@@ -123,4 +123,37 @@
 2026-08-05T05:03:33.156Z	https://www.hfcl.com/insights/blogs/how-ems-connects-ztp-to-zero-touch-operations-in-ip-mpls-networks
 2026-05-21T19:50:12.721Z	https://www.hfcl.com/insights/blogs/how-fiber-optic-infrastructure-improves-data-center-sustainability
 2026-04-17T11:57:33.381Z	https://www.hfcl.com/insights/blogs/how-hfcl-and-mediatek-are-enabling-self-install-5g-broadband
-2026-05-21T19:50:12.
+2026-05-21T19:50:12.721Z	https://www.hfcl.com/insights/blogs/how-hyperscalers-use-fiber-to-power-the-future-of-ai-networks
+2026-07-14T09:50:52.072Z	https://www.hfcl.com/insights/blogs/how-ibr-fibre-cable-improves-data-centre-sustainability-and-energy-efficiency
+2026-04-17T11:57:33.381Z	https://www.hfcl.com/insights/blogs/how-private-5g-is-reshaping-the-future-of-logistics
+2026-08-26T10:00:49.641Z	https://www.hfcl.com/insights/blogs/how-the-ai-infrastructure-boom-is-reshaping-fiber-optic-network-design
+2026-04-17T11:57:33.381Z	https://www.hfcl.com/insights/blogs/indian-telco-network-capacity-boost
+2026-04-17T11:57:33.381Z	https://www.hfcl.com/insights/blogs/industrial-use-cases-of-optical-fiber-innovation-across-industries
+2026-10-16T07:25:53.150Z	https://www.hfcl.com/insights/blogs/inside-the-ai-data-center-the-hidden-fiber-tech-powering-quantum-networks
+2026-04-17T11:57:33.381Z	https://www.hfcl.com/insights/blogs/interoperability
+2026-04-17T11:57:33.381Z	https://www.hfcl.com/insights/blogs/ipvpn-for-secure-scalable-networks
+2026-04-17T11:57:33.381Z	https://www.hfcl.com/insights/blogs/its-time-to-bridge-the-gap-the-need-for-more-women-in-the-manufacturing-sector
+2026-04-17T11:57:33.381Z	https://www.hfcl.com/insights/blogs/legacy-access-points-vs-wifi6-upgrade
+2026-04-17T11:57:33.381Z	https://www.hfcl.com/insights/blogs/mastering-wi-fi-mesh-routers-the-definitive-guide-to-seamless-wireless-networking
+2026-04-17T11:57:33.381Z	https://www.hfcl.com/insights/blogs/microduct-cable-selection-selecting-the-right-cable-for-microduct-applications
+2026-04-17T11:57:33.381Z	https://www.hfcl.com/insights/blogs/mpls-still-worth-it-2025
+2026-04-17T11:57:33.381Z	https://www.hfcl.com/insights/blogs/mpo-patch-cords-whats-the-hype-and-why-should-you-care
+2026-04-17T11:57:33.381Z	https://www.hfcl.com/insights/blogs/navigating-the-digital-age-optical-fiber-cables-for-seamless-connectivity
+2026-10-23T09:51:27.567Z	https://www.hfcl.com/insights/blogs/network-connectivity-in-2026-access-fibre-5g-and-what-it-means-for-business
+2026-04-17T11:57:33.381Z	https://www.hfcl.com/insights/blogs/network-disaggregation-revolutionizing-network-performance
+2026-04-17T11:57:33.381Z	https://www.hfcl.com/insights/blogs/network-interoperability-challenges-solutions
+2026-04-17T11:57:33.381Z	https://www.hfcl.com/insights/blogs/network-switches-for-bfsi-security-compliance
+2026-04-17T11:57:33.381Z	https://www.hfcl.com/insights/blogs/next-generation-wireless-networks-the-importance-of-fiber-to-the-antenna-ftta-infrastructure
+2026-04-17T11:57:33.381Z	https://www.hfcl.com/insights/blogs/optical-fiber-and-wireless-networks-seamless-connectivity-solutions
+2026-04-17T11:57:33.381Z	https://www.hfcl.com/insights/blogs/optical-fiber-cable-interoperability-best-practices
+2026-04-17T11:57:33.381Z	https://www.hfcl.com/insights/blogs/optical-fiber-communication-the-science-behind-it
+2026-04-21T09:45:05.457Z	https://www.hfcl.com/insights/blogs/optical-fiber-in-data-centers-powering-the-digital-infrastructure
+2026-04-17T11:57:33.381Z	https://www.hfcl.com/insights/blogs/optical-fiber-manufacturers-73566
+2026-04-17T11:57:33.381Z	https://www.hfcl.com/insights/blogs/optical-fiber-network-interoperability-considerations
+2026-05-04T16:23:45.158Z	https://www.hfcl.com/insights/blogs/optical-fiber-networks-essential-role-in-5g-evolution
+2026-04-29T13:10:46.862Z	https://www.hfcl.com/insights/blogs/optical-fiber-splicing-the-complete-technical-guide-to-methods-standards-and-best-practices
+2026-04-17T11:57:33.381Z	https://www.hfcl.com/insights/blogs/optical-fiber-the-backbone-of-modern-data-centers
+2026-04-17T11:57:33.381Z	https://www.hfcl.com/insights/blogs/optical-fiber-working-principle--delving-into-details
+2026-10-17T15:40:28.291Z	https://www.hfcl.com/insights/blogs/optiq-ai-solutions-for-next-generation-ai-infrastructure
+2026-04-17T11:57:33.381Z	https://www.hfcl.com/insights/blogs/otdr-vs-olts-optical-fiber-testing-explained
+2026-04-17T11:57:33.381Z	https://www.hfcl.com/insights/blogs/powering-seamless-connecti

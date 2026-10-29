@@ -1,9 +1,9 @@
 {
  "code": "XA-C0029",
  "name": "wilkon Systems GmbH & Co. KG",
- "round": "W1-R01",
- "researched_at": "2026-10-27",
- "alive": "活（轻卡：未外查）",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（wilkon.de，快照 2026-10-29）：wilkon – Night-Audit-Dienstleister für Hotels seit 1989",
  "summary": "纽伦堡的 VdS 认证视频监控集成商（规划/安装/运营，含光纤/无线桥接/PoE 交换），自建 PoE 网络。项目型终端买家。",
  "type_final": "视频监控集成商（VdS Errichter）",
  "size": "未查",
@@ -17,11 +17,29 @@
    "quote": "",
    "url": "External Clients/CCTV-PoE/A/XA-C0029",
    "date": "2026-10-27"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；wilkon – Night-Audit-Dienstleister für Hotels seit 1989",
+   "quote": "Night Audit outsourcen statt Personal suchen: garantierte Besetzung, geschulte Night Auditoren, planbare Kosten. In Deutschland und Österreich, seit 1989.",
+   "url": "https://wilkon.de/de/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@wilkon-sicherheitstechnik.de",
-  "email_status": "公开"
+  "email_status": "公开",
+  "page_emails": [
+   "info@wilkon.at",
+   "info@wilkon.de"
+  ],
+  "page_phones": [
+   "+43-(0)-720513158",
+   "+43-720-513158",
+   "+49 911 600 44 58 0",
+   "+49-911-6004458-0"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "未发信",
  "saga_overlap": "无",
@@ -35,7 +53,13 @@
   "window": "",
   "when": ""
  },
- "notes": "轻卡。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence。\n轻卡。",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:42:45Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

@@ -1,0 +1,319 @@
+# SC-678 QVIS · home · https://qvis.co.uk/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+Home |
+{ scrolled = window.scrollY > 100 })"
+:class="scrolled ? 'bg-brand-light-blue shadow-md' : 'bg-transparent shadow-0'">
+{ scrolled = window.scrollY > 100 })"
+x-cloak
+name="header-mobile"
+class="header__mobile block lg:hidden relative"
+>
+this.$refs.input.focus())
+},
+closeSearch() {
+this.searchOpen = false
+this.q = ''
+this.results = ''
+this.open = false
+},
+search() {
+if (this.q.length res.text())
+.then(html => {
+this.results = html.trim()
+this.open = true
+})
+}
+}"
+class=""
+>
+0
+Home
+Products
+Lighting
+Security and Fire
+Services
+Arrange a Site Visit
+Request Lighting Design/ROI
+Specialist Ceiling Type Support
+Warranty Registration
+Warranty Claims
+Build a Project
+Wireless & Controls
+UK Assembly
+Technical Support
+Lighting Support
+Security Support
+Company
+Our Story
+Careers
+Case Studies
+Contact Us
+{ scrolled = window.scrollY > 100 })">
+Home
+Products
+Lighting
+External
+Industrial
+Surface & Suspended
+Modular
+Downlight
+Emergency
+Security and Fire
+HD Analogue
+IP CCTV
+Accessories
+Domestic Fire and Environmental
+Lighting Products
+Security & Fire
+Services
+Arrange a Site Visit
+Request Lighting Design/ROI
+Specialist Ceiling Type Support
+Warranty Registration
+Warranty Claims
+Build a Project
+Wireless & Controls
+UK Assembly
+Technical Support
+Lighting Support
+Security Support
+Company
+Our Story
+Careers
+Case Studies
+Contact Us
+this.$refs.input.focus())
+},
+closeSearch() {
+this.searchOpen = false
+this.q = ''
+this.results = ''
+this.open = false
+},
+search() {
+if (this.q.length res.text())
+.then(html => {
+this.results = html.trim()
+this.open = true
+})
+}
+}"
+class=""
+>
+0
+Service-Led, Project-Focused, UK Assembled
+Your trusted project partner for sustainable, specification-driven lighting and security solutions- providing complete end-to-end service from design through to delivery.
+Lighting
+Security and Fire
+this.setOpenState(i, i === this.activeIndex));
+this.startCycle();
+},
+startCycle() {
+// Cancel any previous cycle + start a new one
+const myRun = ++this.runId;
+this.cycle(myRun);
+},
+async cycle(myRun) {
+while (myRun === this.runId) {
+await this.playActive(myRun);
+if (myRun !== this.runId) return;
+this.activeIndex = (this.activeIndex + 1) % this.blocks.length;
+this.blocks.forEach((b, i) => this.setOpenState(i, i === this.activeIndex));
+await this.sleep(this.gapAfter);
+}
+},
+userActivate(index) {
+// User interaction should reset timer and activate the clicked/tapped item
+this.activeIndex = index;
+this.blocks.forEach((b, i) => this.setOpenState(i, i === this.activeIndex));
+this.resetLoader(index);
+this.startCycle();
+},
+async playActive(myRun) {
+const block = this.blocks[this.activeIndex];
+if (!block) return;
+const text = block.querySelector('.js-text');
+const loader = block.querySelector('.loader__inner');
+// Ensure open
+this.setOpenState(this.activeIndex, true);
+// Animate loader for duration (cancel-safe)
+await this.animateLoader(loader, this.duration, myRun);
+if (myRun !== this.runId) return;
+// Close current
+this.setOpenState(this.activeIndex, false);
+// Reset loader ready for next
+loader.style.width = '0%';
+},
+setOpenState(index, isOpen) {
+const block = this.blocks[index];
+if (!block) return;
+const text = block.querySelector('.js-text');
+if (!text) return;
+if (isOpen) {
+text.style.display = 'block';
+// Let it measure correctly
+requestAnimationFrame(() => {
+text.style.maxHeight = text.scrollHeight + 'px';
+});
+} else {
+text.style.maxHeight = '0px';
+setTimeout(() => {
+// Only hide if it is still closed
+if (this.activeIndex !== index) text.style.display = 'none';
+}, 500);
+}
+},
+resetLoader(index) {
+const block = this.blocks[index];
+if (!block) return;
+const loader = block.querySelector('.loader__inner');
+if (!loader) return;
+loader.style.width = '0%';
+},
+animateLoader(loader, ms, myRun) {
+return new Promise(resolve => {
+let start = null;
+const step = (t) => {
+if (myRun !== this.runId) return resolve(); // cancelled
+if (!start) start = t;
+const progress = (t - start) / ms;
+if (progress setTimeout(r, ms));
+}
+}"
+x-init="$nextTick(() => initBlocks())"
+>
+The QVIS Story
+Built on quality, driven by innovation, committed to servicing you.
+At QVIS Lighting & Security, everything we do is guided by four core principles: Quality, Versatility, Integrity, and Service . These values shape how we design, develop, and deliver our solutions.
+From engineered LED luminaires and intelligent lighting controls to cutting-edge security systems, every product is created with our customers at the centre. Our strength lies in our versatility — delivering seamless integration, scalable systems, and tailored solutions that adapt to real-world needs.
+We listen, we innovate, and we deliver with integrity. It’s this commitment that has earned the trust of industry professionals and fostered long-term partnerships that continue to define QVIS today.
+Want to learn more?
+Quality
+ISO accredited, UK assembled and made in Britain registered. Maintaining the commitment to purchasing LED drivers and lighting controls from recognise brands and continuously improving luminaire capabilities, whilst producing the highest lumen efficacy achievable.
+Versatility
+A commitment to offering lighting solutions and not a ‘one product fits all’ approach- with luminaire flexibility around design requirements, through selectable power and colour temperatures, to RAL colour alterations and sensor integration.
+Integrity
+Treated with the upmost importance and through clear communication, honesty and transparency, we continue to build trust between our peers, with our suppliers and most importantly, our customers.
+Service
+Born with the belief that our customers should receive the highest level of service both internally and externally, we continue to monitor our customer interactions, with continuous improvement in giving clear and concise information and delivering product in the time scale we’ve committed to.
+this.handleModeChange());
+},
+handleModeChange() {
+// md and up - destroy swiper and show grid
+if (this.mql.matches) {
+this.destroySwiper();
+return;
+}
+// mobile - init swiper
+this.initSwiper();
+},
+initSwiper() {
+if (this.swiper) return;
+this.swiper = new Swiper(this.$refs.swiper, {
+slidesPerView: 1,
+spaceBetween: 16,
+speed: 500,
+watchOverflow: true,
+navigation: {
+nextEl: this.$refs.next,
+prevEl: this.$refs.prev,
+},
+});
+},
+destroySwiper() {
+if (!this.swiper) return;
+this.swiper.destroy(true, true);
+this.swiper = null;
+},
+}"
+x-init="init()"
+>
+Next Day Delivery
+We offer next-day delivery across most of the UK and mainland Europe, along with convenient same-day collection options.
+Stock Holding
+With strong UK stock availability and efficient logistics, we are strategically positioned to ensure timely delivery for your projects.
+Dedicated Team
+Our highly knowledgeable and dedicated team is committed to supporting you at every stage, ensuring your projects run smoothly and efficiently.
+Next Day Delivery
+We offer next-day delivery across most of the UK and mainland Europe, along with convenient same-day collection options.
+Stock Holding
+With strong UK stock availability and efficient logistics, we are strategically positioned to ensure timely delivery for your projects.
+Dedicated Team
+Our highly knowledgeable and dedicated team is committed to supporting you at every stage, ensuring your projects run smoothly and efficiently.
+Services
+Specialist Services
+View all Services
+Design Services
+Whether it’s lighting or security, our in-house experts are here to support you with solution recommendations and tailored design services to meet your project requirements.
+View Service
+Specialist Ceiling Solutions
+As a manufacturer with extensive experience working with specialist ceiling systems — including SAS, Burgess, and Armstrong — we have the capability to custom-tailor luminaires to suit virtually any space or specification. Whether it’s a bespoke profile, unique mounting requirement, or integration with complex ceiling layouts, our team can engineer lighting solutions that deliver both performance and precision.
+View Service
+Comprehensive Warranties
+For added peace of mind, QVIS offers industry-leading warranties, including onsite service with many of our products.
+View Service
+Site Support
+We offer local representation that can support you with every aspect of your project — from initial consultation and design to delivery. Our team is on hand to provide personalised, face-to-face assistance whenever you need it.
+View Service
+Case Study
+View All Case Studies
+Fabb Sofas
+For Fabb Sofas, we needed to implement a solution for all branches to suit the high, suspension-based ceilings while still providing a good level of brightness to compliment the colourful, eye catching decor. We used our high-power Glowbrite highbays to achieve this. We also installed LED panels in the staff areas and our NCF fittings for storage rooms.
+4PX Warehouse
+Our NCF vapour-proof linear fittings are built for industrial use, with Tridonic flicker-free drivers and polycarbonate housing giving IP65 dirt & moisture resistance. We installed these fittings throughout the warehouse areas of 4PX's London base and we also provided some Lynx panels for back-areas such as the staff room.
+Want to know more?
+If you're looking for a trusted solutions provider that puts customers first, QVIS Lighting & Security should be your first choice. We collaborate closely with wholesalers, contractors, consultants, and architects to fine-tune and deliver some of the most advanced lighting and security solutions on the market.
+Speak to the team
+Affordability without compromise
+About
+Company
+Careers
+Our Story
+Lighting
+Services
+Warranty Registration
+Arrange a Site Visit
+Request Lighting Design/ROI
+Specialist Ceiling Type Support
+Build a Project
+Wireless & Controls
+UK Assembly
+Lighting
+Services
+Warranty Registration
+Lighting
+External
+Industrial
+Modular
+Surface & Suspended
+Downlight
+Emergency
+Security & Fire
+HD Analogue
+IP CCTV
+Accessories
+Domestic Fire and Environmental
+Contact Us
+023 9387 0050
+sales@qvis.co.uk
+Facebook
+Linkedin
+Terms and Conditions
+Policies and Statements
+Privacy & Cookies
+Terms & Conditions
+Warranty Registration
+Customer Satisfaction Form
+Quality Policy
+Environmental Policy
+Modern Slavery Statement
+ISO 9001:2015
+ISO 14001:2015
+© Copyright 2026 QVIS Lighting & Security Ltd. All rights reserved. WEEE Account Number - 255072
+Website by We Are Jungle
+This site uses cookies
+By using this site, you agree to our use of cookies. Cookies help improve your browsing experience and provide personalized content.
+Necessary
+Analytics
+These cookies are used to provide us with analytics on which content visitors read, etc.
+Save Preferences
+You can always change your preferences later.

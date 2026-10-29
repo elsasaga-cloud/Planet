@@ -2,7 +2,7 @@
  "code": "SB-834",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（eneo-security.com：HTTP 错误，2026-10-21，第 1 次）",
+ "website_status": "在线（eneo-security.com，快照 2026-10-29）：eneo – Produkte und Lösungen für Videosicherheit",
  "summary": "德国 eneo Security（Videor 旗下 CCTV 品牌 eneo；表内「UTEPO 的」「可以着重跟一下」；官网 http_error）；群发 9 次无回复。",
  "type": "CCTV 品牌商（德国，PoE 现 Utepo，用户着重）",
  "size": "",
@@ -41,10 +41,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/deep/facts。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "company_facts": {
   "hq": "德国",
@@ -117,6 +118,14 @@
     "quote": "UTEPO的",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "eneo – Produkte und Lösungen für Videosicherheit — eneo - Ihr Partner für Videosicherheit. Hochwertige Qualität, exzellentes Preis-Leistungs-Verhältnis und 3 Jahre Garantie. Jetzt erkunden!",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://eneo-security.com/de/"
    }
   ],
   "proof_gaps": [],
@@ -135,11 +144,31 @@
  "override_history": [],
  "snap_thicken": {
   "consumed": [
-   "2026-10-21T09:48:31Z"
+   "2026-10-21T09:48:31Z",
+   "2026-10-29T15:34:14Z"
   ],
   "fails": [
    "2026-10-21"
   ],
-  "batch": "LT-T03"
+  "batch": "LT-T03",
+  "last_ok": "2026-10-29"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "IEEE802",
+   "WB-24",
+   "INB-68M2812MJBA",
+   "INP-54M2812M0A",
+   "INB-68M0550MJBA",
+   "AK-20",
+   "IND-32F0016P0A",
+   "NSMI-4008M0A"
+  ],
+  "url": "https://eneo-security.com/de/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

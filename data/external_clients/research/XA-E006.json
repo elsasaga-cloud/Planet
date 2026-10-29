@@ -1,9 +1,9 @@
 {
  "code": "XA-E006",
  "name": "Nine-One-One Communication Supply",
- "round": "W2-R04",
- "researched_at": "2026-10-27",
- "alive": "本轮 web_search 复核在线（2026-10-27）",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（nine-one-one.ca，快照 2026-10-29）：Nine-One-One Communication Supply Inc.",
  "summary": "电信硬件批发分销（Calgary，1989 起，Ericsson-LG 加拿大独家分销，11–50 人；经销商网络全国）",
  "type_final": "电信硬件批发分销（Calgary，1989 起，Ericsson-LG 加拿大独家分销，11–50 人；经销商网络全国）",
  "size": "电信硬件批发分销（Calgary，1989 起，Ericsson-LG 加拿大独家分销，11–50 人；经销商网络全国）",
@@ -24,6 +24,13 @@
    "quote": "",
    "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
    "date": "2026-10-19"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Nine-One-One Communication Supply Inc.",
+   "quote": "Nine-One-One Communication Supply Inc.",
+   "url": "https://nine-one-one.ca/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
@@ -35,7 +42,13 @@
     "role": "V.P. Sales & Marketing",
     "source": "BusinessWire 2024-05 伙伴稿 / S 箱收件人"
    }
-  ]
+  ],
+  "page_emails": [
+   "accountsreceivable@nine-one-one.ca",
+   "sales@nine-one-one.ca"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-19 群发「24 Port PoE Managed Switch」→ 已发未回",
  "saga_overlap": "无",
@@ -49,10 +62,21 @@
   "window": "CA 周三 08–10 当地",
   "when": "2026-11-18"
  },
- "notes": "本轮 web_search 复核：nine-one-one.ca「wholesale distributor servicing all of Canada… network switches」；Boom Collaboration 稿 Jesse Foster V.P. Sales & Marketing。 ",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\n本轮 web_search 复核：nine-one-one.ca「wholesale distributor servicing all of Canada… network switches」；Boom Collaboration 稿 Jesse Foster V.P. Sales & Marketing。 ",
  "draft_en": {
   "subject": "PoE switch line for your reseller channel - distributor pricing",
   "body": "Hi Jesse,\n\nI wrote on 19 October about our 24-port PoE L2+ switch ('24 Port PoE Managed Switch'); this is a different angle, so a fresh note rather than a reply.\n\nThree PoE switches our distributor partners move most, all EXW Shenzhen (snapshot 2026-10-27, valid 15 days), FCC/ISED, under our label or yours:\n\n- STC-2224GP: 24 x GE PoE+ (300 W) + 2 x GE + 2 x SFP, USD 86.\n- STC-424XGGPM-280W: 24 x GE PoE+ (280 W) + 4 x 10G SFP+, Marvell-based L2+ managed, USD 170.\n- STI-288DGGPM: DIN-rail industrial L2+, 8 x GE PoE+ (240 W) + 2 x SFP, -40 to +75 C, USD 137, 3-year warranty (12 months on the commercial units).\n\nFor your interconnect dealers, is PoE for phone and camera deployments something you would rather carry under your own label or ours?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "deep": false
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:42:50Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGPM-280W",
+  "why": "官网快照对位：PoE 词频 4、监控 21 → 24 口 PoE L2+ 走量款",
+  "date": "2026-10-29"
+ }
 }

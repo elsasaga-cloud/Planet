@@ -40,7 +40,7 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 本土自有品牌 · OEM 30%：PixieTech（Ташкент, ул. Янгизамон 31/1；2020 创立「首家本土电信设备制造商」；交换机 / 路由 / GPON / IP 话机 / 机柜 / UPS 全线贴牌）部分坐实（ИНН 未取）；全线贴牌 = OEM 对象 ✔ 对位 ✔ 同区先例 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon：默认只推 Smart…；闸 1：乌兹别克斯坦 Pixietech（pixietech.uz；洪瑞的 = 洪瑞现供）：进口中国同类 ✔ 对位 ✔ 同区先例 SETKO 成单；未触达 → 闸 2 查底数；低优先；洪瑞现供客户 → Q-33 口径待 Simon（默认只推 Sm…",
- "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/saga_fit/deep/facts。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -71,7 +71,7 @@
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
    "p1": "STC-424XGGPM-280W",
-   "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
+   "why": "官网快照对位：PoE 词频 15、监控 0 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -93,6 +93,14 @@
     "quote": "UZ · 1 次检索：pixietech.uz 首页（品牌 / 2020 / 产品线 / 地址 / 邮箱）+ itmir.uz/pixietech（经销价目）；ИНН 未取；2026-10-29",
     "why": "闸 2 坐实来源（URL 见 company_facts.url）",
     "url": "https://pixietech.uz/"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Pixie Tech — Производитель телекоммуникационного оборудования — Pixie Tech — узбекский производитель телекоммуникационного оборудования.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://pixietech.uz/ru"
    }
   ],
   "proof_gaps": [
@@ -133,12 +141,44 @@
  "saga_fit": {
   "p1": "STC-424XGGPM-280W",
   "tier": 30,
-  "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
-  "basis": "默认 · 官网快照后按业务线校正"
+  "why": "官网快照对位：PoE 词频 15、监控 0 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）",
+  "basis": "官网快照自动对位（LT-T03）· 人工点名时再校"
  },
  "deep": {
   "done_at": "2026-10-29",
-  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
-  "batch": "LT-T01"
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T01",
+  "snapshot_at": "2026-10-29"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:41:59Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@pixietech.uz",
+   "support@pixietech.uz"
+  ],
+  "phones": [
+   "+998 71 205 85 07",
+   "+998 71 205 96 69",
+   "+998 71 205-85-85"
+  ],
+  "social": [],
+  "models_on_site": [
+   "PXT-S2795G-48TX-POE",
+   "PXT-S2790G-24TX-POE",
+   "PXT-S2790G-48TX",
+   "IEC60309",
+   "IEC320",
+   "SFP28",
+   "QSFP28"
+  ],
+  "url": "https://pixietech.uz/ru",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

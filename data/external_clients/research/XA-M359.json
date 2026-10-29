@@ -1,9 +1,9 @@
 {
  "code": "XA-M359",
  "name": "RWL Advanced Solutions",
- "round": "W1-R02",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（rwlas.com，快照 2026-10-29）：Home - RWL Advanced Solutions",
  "summary": "数据布线集成（都柏林）；Marvell Prestera 接入层切入",
  "type_final": "数据布线集成（都柏林）",
  "size": "未量化",
@@ -26,12 +26,28 @@
    "quote": "",
    "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
    "date": "2026-09-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Home - RWL Advanced Solutions",
+   "quote": "Home for RWL Advanced Solutions, Europe’s leading independent distributor for Data Cabling and Network products.",
+   "url": "https://www.rwlas.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "sales@rwlas.com",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [],
+  "page_phones": [
+   "+31 (0) 88 606 6700",
+   "+353 (0) 1 424 2414",
+   "+353 (0)1 4242414",
+   "+44 (0) 0208 058 3178",
+   "+44 (0) 208 058 3178"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-09-29 群发「24 Port PoE Managed Switch」→ 已发未回",
  "saga_overlap": "无",
@@ -45,7 +61,13 @@
   "window": "",
   "when": "不动"
  },
- "notes": "国家应为 IE；下次重建数据时修 iso。 轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence。\n国家应为 IE；下次重建数据时修 iso。 轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:49:02Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

@@ -1,19 +1,27 @@
 {
  "code": "XC-M141",
  "name": "Clayton Engineering Company",
- "round": "X1-03",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "alive": "在线（claytonengineering.com，快照 2026-10-29）：Clayton Engineering",
  "summary": "Clayton Engineering Company：电气分销 + 培训 / 咨询，1947 起，AHTD（高科技分销商协会）会员；11–50 人；Owner Don Bohn",
  "type_final": "分销（HMS/N-Tron·Red Lion 渠道）；Clayton Engineering Company",
  "size": "",
  "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
  "fit": "☆ 电气分销 + 培训 / 咨询 20%：Clayton Engineering Company（Cuddy / Bri",
- "brands_seen": [],
+ "brands_seen": [
+  "Schneider"
+ ],
  "contacts": {
   "email": "sales@clayeng.net",
   "email_status": "官网 / 名录公开（X1-03 补路径）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "sales@clayeng.net",
+   "techsupport@clayeng.net"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "evidence": [
   {
@@ -29,6 +37,13 @@
    "quote": "",
    "url": "https://www.crunchbase.com/organization/clayton-engineering-4b76",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Clayton Engineering",
+   "quote": "The Leading Brands in Automation and Control",
+   "url": "https://www.claytonengineering.com/",
+   "date": "2026-10-29"
   }
  ],
  "touch_status": "未触达（路径 2026-10-29 新补）",
@@ -40,6 +55,17 @@
   "angle": "观察档 → 试单后转正"
  },
  "deep": false,
- "notes": "Clayton Engineering Company；685 Millers Run Rd, Cuddy (Bridgeville), PA 15031；+1 800 252 9866",
- "draft_en": null
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nClayton Engineering Company；685 Millers Run Rd, Cuddy (Bridgeville), PA 15031；+1 800 252 9866",
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:57:43Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-280GE",
+  "why": "官网快照对位：工业/自动化词频 8、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手",
+  "date": "2026-10-29"
+ }
 }

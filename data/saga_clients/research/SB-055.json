@@ -47,11 +47,12 @@
  ],
  "grade_override": "B",
  "override_reason": "欧洲主攻区、CCTV 对位 PoE，但 1 次回复后 15 次推送无果 → 慢跟。",
- "notes": "LT-T03 官网快照加厚（2026-10-21）：fail#1。\nWA 季度触达一次（STC-28DGGPM / STC-424DGGPM-280W，项目 25%）。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\nWA 季度触达一次（STC-28DGGPM / STC-424DGGPM-280W，项目 25%）。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + 注册核对）"
+  "level": "B 级加厚 v1（官网 + 注册核对） + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "company_facts": {
   "legal_name": "Epic Europe B.V.（KvK 59111380 · vestiging 000028430891；2013-10-29；法定住所 Etten-Leur、经营地 De Meeten 82, 4706 NH Roosendaal；SBI 80.20；商号 DIOS / DIOS Industries / DIOS Ultra HD Security Systems；母公司 Kiyi Holding B.V.；旧 Dios Industries V.O.F. KvK 76083926（2019）已注销；2026-01-23 另有新登记 KvK 99697149 待核）",
@@ -134,6 +135,14 @@
     "quote": "Please see attached 2 price lists.",
     "why": "给价表后停",
     "k": "955016f874e9ee64"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Dios Ultra HD Video Security Systems gespecialiseerd in Ultra HD en/of 4k — Dios Ultra HD Video Security Systems gespecialiseerd in Ultra HD en/of 4k camerabeveiliging oplossingen. Altijd goed beveiligt",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://dios-industries.com/"
    }
   ],
   "proof_gaps": [],
@@ -155,11 +164,29 @@
  "override_history": [],
  "snap_thicken": {
   "consumed": [
-   "2026-10-21T09:22:15Z"
+   "2026-10-21T09:22:15Z",
+   "2026-10-29T15:31:42Z"
   ],
   "fails": [
    "2026-10-21"
   ],
-  "batch": "LT-T03"
+  "batch": "LT-T03",
+  "last_ok": "2026-10-29"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@dios-industries.com"
+  ],
+  "phones": [
+   "+31 (0)85 4018 169"
+  ],
+  "social": [
+   "https://twitter.com/DIOS_INDUSTRIES",
+   "https://www.instagram.com/diosindustries/"
+  ],
+  "models_on_site": [],
+  "url": "https://dios-industries.com/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -1,14 +1,16 @@
 {
  "code": "XA-M378",
  "name": "Dresdner ProSoft GmbH",
- "round": "W1-R03",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（dresdner-prosoft.com，快照 2026-10-29）：Dresdner ProSoft GmbH - IT-Systemhaus & Computer",
  "summary": "IT 系统之家（Dresden）；Marvell Prestera 接入层切入",
  "type_final": "IT 系统之家（Dresden）",
  "size": "未量化",
  "brands_seen": [
-  "Allied Telesis（Marvell Prestera 接入层）"
+  "Allied Telesis（Marvell Prestera 接入层）",
+  "Cisco",
+  "Allied Telesis"
  ],
  "saga_line": "—",
  "fit": "",
@@ -19,12 +21,29 @@
    "quote": "",
    "url": "https://dresdner-prosoft.com/",
    "date": "2026-09-27"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Dresdner ProSoft GmbH - IT-Systemhaus & Computer",
+   "quote": "Ihr Kontakt rund ums Thema IT. Die Dresdner ProSoft bietet Hard- und Software fÃ¼r eine leistungsstarke IT-Infrastruktur in Ihrem Unternehmen.",
+   "url": "https://www.dresdner-prosoft.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@prosoft-dresden.com",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "dpo-google@google.com",
+   "dpo@wordpress.org",
+   "info@prosoft-dresden.com"
+  ],
+  "page_phones": [
+   "+49 (0) 351 85 343-0",
+   "+49 (0) 351 85 343-11"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -38,7 +57,18 @@
   "window": "",
   "when": "不动"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:49:10Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-28DGGPM",
+  "why": "官网快照对位：交换机词频 3、无 PoE/工业侧重 → 8 口 L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

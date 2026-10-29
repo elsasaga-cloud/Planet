@@ -1,4 +1,4 @@
-# SB-679 saratota.com · news_1 · https://www.saratota.com/News · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-679 saratota.com · news_1 · https://www.saratota.com/News · fetched 2026-10-29T15:11:51Z · HTTP 200
 News
 Menu
 Your Cart
@@ -120,7 +120,7 @@ Read More
 29 Jan
 admin_saratota
 152
-9871
+9873
 Launch of World's First-and-Only Dante Extender for Pro-AV Systems
 The Patton CopperLink™ CL1151E can revolutionise infrastructure requirements for Pro-AV systems that use Dante-enabled devices by extending Ethernet up to 3,300 feet (1,000 meters) over common copper ..
 Read More

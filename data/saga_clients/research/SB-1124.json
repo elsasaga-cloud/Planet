@@ -7,7 +7,13 @@
  "type": "",
  "size": "",
  "brands_seen": [
-  "PLANET"
+  "PLANET",
+  "Pulsar",
+  "Uniview",
+  "Ubiquiti",
+  "Extralink",
+  "TP-Link",
+  "Hikvision"
  ],
  "evidence": [
   {
@@ -48,10 +54,11 @@
  ],
  "grade_override": "B",
  "override_reason": "Planet 渠道档案 PB-057 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-057，W 批次调研 2026-10-19/20）"
+  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-057，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "company_facts": {
   "legal_name": "FONEX K.T.M. Borowscy Sp. j.（KRS 0000317918；NIP 9492100567；REGON 241058180；BDO 000427576；PKD 46.52.Z）",
@@ -141,6 +148,14 @@
     "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
     "why": "Elsa 箱群发 BCC 触达证据（命中地址 fonex.pl, sklep@fonex.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
     "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Alarmy, Monitoring i Domofony › Sklep internetowy Fonex.pl — Sklep internetowy. Dystrybucja systemów alarmowych, oddymiania, monitoringu CCTV, domofonów, wideodomofonów, kontroli dostępu, oddymiania, P-POŻ / SSP",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.fonex.pl/"
    }
   ],
   "proof_gaps": [
@@ -158,5 +173,37 @@
   "note": "琴斯托霍瓦安防分销商 Fonex（SATEL 授权；PLANET 为 CCTV 配套）：行业内 ✔ 对位 ✔ 波兰 → 留 B",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 Elsa 群））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": []
+ "override_history": [],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:32:32Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@fonex.pl",
+   "sklep@fonex.pl"
+  ],
+  "phones": [
+   "0000 5065 1900 1002",
+   "0000 5065 1900 1006",
+   "0000 5065 1900 1007"
+  ],
+  "social": [],
+  "models_on_site": [
+   "RJ-45",
+   "BCS-L-DIP14FCR3L3",
+   "BCS-L-EIP14FCL3",
+   "BCS-L-TIP14FCL5",
+   "BCS-X2W",
+   "BCS-L-SP04G02G",
+   "BCS-L-SP0802G",
+   "BCS-L-SP1602G-2SFP-M"
+  ],
+  "url": "https://www.fonex.pl/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

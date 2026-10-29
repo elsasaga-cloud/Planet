@@ -1,9 +1,9 @@
 {
  "code": "XC-M238",
  "name": "Michal Stepanek / i4wifi 100MEGA Distribution s.r.o.",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 100mega.cz MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（100mega.cz，快照 2026-10-29）：100MEGA Distribution s.r.o.",
  "summary": "Michal Stepanek / i4wifi 100MEGA Distribution s.r.o.（捷克 · Neratovice）：集成商/顾问（MikroTik 认证）；MikroTik 认证顾问 MTCNA+MTCTCE+MTCSE",
  "type_final": "集成商/顾问（MikroTik 认证）",
  "size": "",
@@ -19,12 +19,24 @@
    "quote": "",
    "url": "https://100mega.cz",
    "date": "2026-09"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；100MEGA Distribution s.r.o.",
+   "quote": "100MEGA Distribution s.r.o.",
+   "url": "https://www.100mega.cz/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "mikrotikpodpora@gmail.com",
   "email_status": "活（来源库 9 月核对）",
-  "kp": []
+  "kp": [],
+  "page_emails": [],
+  "page_phones": [
+   "+420) 548 220 077"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "Saga SC-656（100mega.cz）随主档",
@@ -40,5 +52,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:57:56Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-28DGGPM",
+  "why": "官网快照对位：PoE 词频 1 → 8 口 PoE+ 2 SFP L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

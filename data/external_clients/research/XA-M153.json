@@ -1,15 +1,21 @@
 {
  "code": "XA-M153",
  "name": "PCV Computers, s.r.o.",
- "round": "W2-R04",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（pcvcomp.cz，快照 2026-10-29）：PCV Computers, s.r.o.",
  "summary": "MikroTik 分销（PCV Computers，České Budějovice）；MikroTik 官方分销，商用线可直接比价，工业线为零 → 新品类增量",
  "type_final": "MikroTik 分销（PCV Computers，České Budějovice）",
  "size": "未量化",
  "brands_seen": [
   "MikroTik（Master",
-  "VAD）"
+  "VAD）",
+  "Hikvision",
+  "MikroTik",
+  "Grandstream",
+  "Ubiquiti",
+  "Huawei",
+  "Ajax"
  ],
  "saga_line": "SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE",
  "fit": "MikroTik 渠道",
@@ -20,12 +26,32 @@
    "quote": "",
    "url": "https://pcvcomp.cz/",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；PCV Computers, s.r.o.",
+   "quote": "PCV Computers, s.r.o.",
+   "url": "https://pcvcomp.cz/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "obchod@pcvcomp.cz",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "obchod@pcvcomp.cz",
+   "poklop@pcvcomp.cz",
+   "support@mikrotik.com",
+   "uhlir@pcvcomp.cz"
+  ],
+  "page_phones": [
+   "+420 380 420 700",
+   "+420 380 420 704",
+   "+420 380 420 717",
+   "+420 386 351 666"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -39,10 +65,21 @@
   "window": "CZ 周四 12–14",
   "when": "2026-11-19"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "draft_en": {
   "subject": "L2+ PoE and industrial switches for your reseller channel",
   "body": "Hi,\n\nSaga Telecom supplies network distributors with Marvell-based L2+ PoE switches and Centec-based L3 10G/25G/100G switches, under our label or the distributor's own, CE. Two lines that usually interest MikroTik and WISP channels:\n\n- STC-424XGGPM-280W: 24 x GE PoE+ (280 W) + 4 x 10G SFP+, L2+ managed, USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days).\n- STI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.\n\nWould either line be relevant for your MikroTik customers, or is switching outside what PCV stocks?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "deep": false
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:45:11Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGPM-280W",
+  "why": "官网快照对位：PoE 词频 49、监控 6 → 24 口 PoE L2+ 走量款",
+  "date": "2026-10-29"
+ }
 }

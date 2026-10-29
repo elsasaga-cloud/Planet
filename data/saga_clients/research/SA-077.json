@@ -320,11 +320,12 @@
    "source": "PI.zip 单据"
   }
  ],
- "notes": "A 级（成单）。边界提示：其终端客户为土耳其警察、Turk Telekom、NATO 项目（2025-07 媒体转换器询价，合作方已放弃）——属公共部门/运营商，Saga 以 Angora 为客户、不直接对公共部门，沿用 Simon 既有做法。PI 包入库后用发票级数据补「订单明细」。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。\nA 级（成单）。边界提示：其终端客户为土耳其警察、Turk Telekom、NATO 项目（2025-07 媒体转换器询价，合作方已放弃）——属公共部门/运营商，Saga 以 Angora 为客户、不直接对公共部门，沿用 Simon 既有做法。PI 包入库后用发票级数据补「订单明细」。",
  "researched_at": "2026-10-22",
  "deep": {
   "done_at": "2026-10-22",
-  "level": "S 邮箱一手往来 v1（PI 明细待补）"
+  "level": "S 邮箱一手往来 v1（PI 明细待补） + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "company_facts": {
   "legal_name": "ANGORA NETWORKS BİLİŞİM TEKNOLOJİ TİCARET SANAYİ A.Ş.（2016-11-28 设立；NACE 62.09.02；登记地 Alacaatlı Mah. Park Cad. 47/31 Yenimahalle, Ankara）（第 83 批 官方登记核实 2026-10-27）",
@@ -1145,6 +1146,14 @@
     "quote": "Levent: We expect an order for 88 pieces of L2+ industrial 8-port together with 48V power supply. Can you please share a pricing for this in the same box → Simon: STI-288DGGPM 875RMB/PC; Power supply 240W Meanwell original brand 250RMB/PC; for the switch itself we keep the price low, basically the same as last order; we will handle the material costs here; will use same packing box → Levent: Thanks Simon. Great.",
     "why": "最新一单正在路上：88 台 STI-288DGGPM + 240W 明纬电源，人民币计价（875+250），同包装；10-03 至今无 PI 文件夹 → 现在要做的是催 PO/预付款，而不是谈 CENTEC",
     "k": "wechat_ocr"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Anasayfa - Angora Networks — Angora Networks anasayfa, mainpage",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.angoranetworks.com/"
    }
   ],
   "proof_gaps": [
@@ -1161,5 +1170,38 @@
    "body": "Levent, quick one on the 88 × STI-288DGGPM + 240W Meanwell PSU (quoted Oct 3: 875 + 250 RMB/pc, same box as last order): when do you expect the PO and the deposit?\n\nI will block the production slot the day it lands — same ANW label format, serial numbers and packing as STSC20250619007, so no new confirmations are needed from your side. If the quantity or the PSU option changes, just tell me the new number and I will re-issue the PI the same day.\n\nSeparately (no rush): once this batch ships I would like to put one CENTEC L3 unit in your Ankara test depot before the next Turk Telekom cycle — we can talk after the PI.\n\nSimon"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:26:46Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [
+   "+90 (312) 241 7747",
+   "+90 312 241 7747"
+  ],
+  "social": [
+   "https://twitter.com/angoranetworks",
+   "https://www.instagram.com/angora_networks/",
+   "https://www.linkedin.com/company/angora-networks/",
+   "https://www.youtube.com/channel/UCCAG46dVy-wxXtO-_b7fTPA"
+  ],
+  "models_on_site": [
+   "QSFP28",
+   "ANW-2023-E8GT",
+   "ANW-IND-8P-2SFP",
+   "ANW-2023-8G",
+   "ANW-2023-24G",
+   "ANW-2023-48G",
+   "ANW-2712-8T4X",
+   "ANW-2712-24T4X"
+  ],
+  "url": "https://www.angoranetworks.com/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

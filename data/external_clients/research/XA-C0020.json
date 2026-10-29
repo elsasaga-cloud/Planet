@@ -1,9 +1,9 @@
 {
  "code": "XA-C0020",
  "name": "Lieske Elektronik / Industry-Electronics",
- "round": "W1-R01",
- "researched_at": "2026-10-27",
- "alive": "活（轻卡：未外查，沿用来源库）",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（industry-electronics.de，快照 2026-10-29）：Industry-Electronics - B2B-Onlineshop für Elektronik & Elektrotechnik",
  "summary": "Vörstetten 的工业网络设备 B2B 分销商（Moxa/Hirschmann/Siemens/Weidmüller/Antaira/barox）。纯工业自动化渠道，与 Saga 的商用 PoE/L2+ 主线不交叉；STI 工业线只能当补位，且对手是 Moxa/Hirschmann 级别。",
  "type_final": "工业网络设备分销商",
  "size": "未查",
@@ -13,7 +13,14 @@
   "Siemens",
   "Weidmüller",
   "Antaira",
-  "barox"
+  "barox",
+  "TP-Link",
+  "Ubiquiti",
+  "Cisco",
+  "Netgear",
+  "D-Link",
+  "Aruba",
+  "Juniper"
  ],
  "saga_line": "（STI 工业线补位，暂不推）",
  "fit": "工业自动化渠道，非主线",
@@ -24,11 +31,28 @@
    "quote": "",
    "url": "External Clients/CCTV-PoE/A/XA-C0020",
    "date": "2026-10-27"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Industry-Electronics - B2B-Onlineshop für Elektronik & Elektrotechnik",
+   "quote": "Ihr B2B-Onlineshop für Elektronik & Elektrotechnik. Als Online-Fachhandel für Industriekunden, Gewerbekunden und öffentliche Einrichtungen bieten wir derzeit ...",
+   "url": "https://industry-electronics.de/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "vertrieb@industry-electronics.de",
-  "email_status": "公开"
+  "email_status": "公开",
+  "page_emails": [
+   "info@industry-electronics.de",
+   "vertrieb@industry-electronics.de"
+  ],
+  "page_phones": [
+   "+49 (0)7666",
+   "+497666884990",
+   "+49766688499111"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "未发信",
  "saga_overlap": "无",
@@ -42,7 +66,18 @@
   "window": "",
   "when": ""
  },
- "notes": "轻卡。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\n轻卡。",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:42:38Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-280GE",
+  "why": "官网快照对位：工业/自动化词频 7、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手",
+  "date": "2026-10-29"
+ }
 }

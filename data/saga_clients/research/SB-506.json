@@ -2,7 +2,7 @@
  "code": "SB-506",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（fibertek-ap.com：超时（站慢或封锁），2026-10-21，第 1 次）",
+ "website_status": "在线（fibertek-ap.com，快照 2026-10-29）：FiberTek | A top supplier in fiber optic panels & cables",
  "summary": "新加坡 Fibertek-AP（自有品牌：工业 FS、多功能 VC、SFP、MC、光猫、小壳系列周边产品；表内「看着像国内的外壳」；官网超时）；群发 17 次无回复。",
  "type": "光网络产品自有品牌商（新加坡，疑似国内货源）",
  "size": "",
@@ -26,10 +26,11 @@
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/deep/facts。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "company_facts": {
   "hq": "3015A Ubi Road 1, Singapore（樓層未取；與 Velocity Technology Industries / Fiberlan 同樓）（第 116 批 官方登记核实 2026-10-28）",
@@ -103,6 +104,14 @@
     "quote": "工业FS 多功能VC SFP MC 光猫 看着像国内的外壳 周边产品 小壳系列 自己的牌子",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "FiberTek | A top supplier in fiber optic panels & cables — FiberTek provides fiber optic cables, fiber patch panel, fiber optic test equipment, fiber media converters and other fiber optic products since 1999.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.fibertek-ap.com/"
    }
   ],
   "proof_gaps": [],
@@ -114,11 +123,35 @@
  },
  "snap_thicken": {
   "consumed": [
-   "2026-10-21T09:42:20Z"
+   "2026-10-21T09:42:20Z",
+   "2026-10-29T15:33:21Z"
   ],
   "fails": [
    "2026-10-21"
   ],
-  "batch": "LT-T03"
+  "batch": "LT-T03",
+  "last_ok": "2026-10-29"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@fibertek-ap.com"
+  ],
+  "phones": [
+   "+65 6280 1966"
+  ],
+  "social": [],
+  "models_on_site": [
+   "FCRID-1EN-1R2",
+   "DPPY12",
+   "FCNCS-110GN-110GS",
+   "FCNID-1EP-1ES",
+   "FCNID-4EP-2ES",
+   "FCNID-1GP-1GS",
+   "FCNID-4GP-2GS",
+   "FCNID-8GP-2GS"
+  ],
+  "url": "https://www.fibertek-ap.com/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

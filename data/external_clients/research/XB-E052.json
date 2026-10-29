@@ -1,13 +1,15 @@
 {
  "code": "XB-E052",
  "name": "E-TECH IT Sdn Bhd",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 etech.com.my MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（etech.com.my，快照 2026-10-29）：E-Tech IT: Leading IT Distributor & Solution Provider in Malaysia",
  "summary": "E-TECH IT Sdn Bhd（马来西亚 · Shah Alam）：分销商",
  "type_final": "分销商",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "TP-Link"
+ ],
  "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
  "fit": "",
  "evidence": [
@@ -38,12 +40,27 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；E-Tech IT: Leading IT Distributor & Solution Provider in Malaysia",
+   "quote": "At E-Tech IT, we offer IT products distribution and innovative technology solution, tailored to meet your business needs",
+   "url": "https://www.etech.com.my/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "enquiries@etech.com.my",
   "email_status": "活（来源库 9 月核对）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "enquiries@etech.com.my"
+  ],
+  "page_phones": [
+   "+603 7846 2338",
+   "009758 (425254"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-21 去信 1 / 来信 0（24 Port PoE Managed Switch）",
  "saga_overlap": "无",
@@ -59,5 +76,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:53:59Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGPM-280W",
+  "why": "官网快照对位：PoE 词频 7、监控 14 → 24 口 PoE L2+ 走量款",
+  "date": "2026-10-29"
+ }
 }

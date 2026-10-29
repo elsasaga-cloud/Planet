@@ -1,9 +1,9 @@
 {
  "code": "XB-C0522",
  "name": "Precious Island Corp / Expose",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 pic-expose.ph MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（pic-expose.ph，快照 2026-10-29）：Precious Island Corp #1 Hikvision Distributor In the Philippines - CCTV Camera, DVR, NVR, Dome, Bullet, Cable, POE, Kit, Access Control - Precious Island Corpor",
  "summary": "Precious Island Corp / Expose（菲律宾）：菲律宾#1 Hikvision分销，Dahua/Ruijie/Ezviz；地址=1629 Laguna St., Santa Cruz, Manila；业务=菲律宾#1 Hikvision分销，Dahua/Ruijie/Ezviz；开发策略=菲律宾Hikvision第一",
  "type_final": "菲律宾#1 Hikvision分销，Dahua/Ruijie/Ezviz",
  "size": "",
@@ -28,12 +28,24 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Precious Island Corp #1 Hikvision Distributor In the Philippines - CCTV Camera, DVR, NVR, Dome, Bullet, Cable, POE, Kit, Access Control - Precious Island Corpor",
+   "quote": "Precious Island Corporation #1 Hikvision Distributor In the Philippines - CCTV, Camera, DVR, NVR, Dome, Bullet, Cable, POE, Kit, Access Control, PTZ, IP Camera etc.",
+   "url": "https://pic-expose.ph/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "pic.salesdept@gmail.com",
   "email_status": "活（来源库 9 月核对）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "pic.salesdept@gmail.com"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "Saga SC-3138（同域 pic-expose.ph，Saga 侧 C 储备、无研究档）→ 以本卡为长期群主档（交叉检查 LT-X01 2026-10-29）",
@@ -49,5 +61,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:52:43Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGPM-280W",
+  "why": "官网快照对位：PoE 词频 50、监控 110 → 24 口 PoE L2+ 走量款",
+  "date": "2026-10-29"
+ }
 }

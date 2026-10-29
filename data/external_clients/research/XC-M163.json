@@ -1,9 +1,9 @@
 {
  "code": "XC-M163",
  "name": "TCIC（Total Control & Instrumentation）",
- "round": "X1-03",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "alive": "在线（tcicinc.com，快照 2026-10-29）：Tcic – Technlogy Controls and Industrial Communications",
  "summary": "TCIC Inc.（Technology Controls and Industrial Communications）：工业自动化 + 工业通信 / 无线分销；President & CEO Christine Frank（收购该公司）；小型",
  "type_final": "分销（HMS/N-Tron·Red Lion 渠道）；TCIC Inc.（Technology Controls and Industrial Communications）",
  "size": "",
@@ -13,7 +13,13 @@
  "contacts": {
   "email": "info@tcicinc.com",
   "email_status": "官网 / 名录公开（X1-03 补路径）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "info@tcic.com",
+   "info@tcicinc.com"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "evidence": [
   {
@@ -29,6 +35,13 @@
    "quote": "",
    "url": "https://www.findingautomation.com/christine-frank-tcic-inc",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Tcic – Technlogy Controls and Industrial Communications",
+   "quote": "Tcic – Technlogy Controls and Industrial Communications",
+   "url": "https://www.tcicinc.com/",
+   "date": "2026-10-29"
   }
  ],
  "touch_status": "未触达（路径 2026-10-29 新补）",
@@ -40,6 +53,17 @@
   "angle": "观察档 → 试单后转正"
  },
  "deep": false,
- "notes": "TCIC Inc.（Technology Controls and Industrial Communications）；628 Mendelssohn Avenue North, Golden Valley, MN 55427；+1 763 557 6648",
- "draft_en": null
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\nTCIC Inc.（Technology Controls and Industrial Communications）；628 Mendelssohn Avenue North, Golden Valley, MN 55427；+1 763 557 6648",
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:57:46Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-280GE",
+  "why": "官网快照对位：工业/自动化词频 25、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手",
+  "date": "2026-10-29"
+ }
 }

@@ -1,13 +1,17 @@
 {
  "code": "XB-E071",
  "name": "South Bangla Computers",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 southbanglabd.com MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（southbanglabd.com，快照 2026-10-29）：South Bangla Computers",
  "summary": "South Bangla Computers（孟加拉 · Dhaka）：网络方案商",
  "type_final": "网络方案商",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Cisco",
+  "Ubiquiti",
+  "Tenda"
+ ],
  "saga_line": "STC 项目集成款（25% 档：STC-2216GP / STC-228GP）",
  "fit": "",
  "evidence": [
@@ -38,12 +42,33 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；South Bangla Computers",
+   "quote": "South Bangla Computers, dealing in business since 1999 as a specialized organization to full fill all kinds of networking demands. South Bangla Computers the recognized leading supplier of networking devices and equipment's for consumer, SOHO and small bu",
+   "url": "https://www.southbanglabd.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@southbanglabd.com",
   "email_status": "活（来源库 9 月核对）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "info@southbanglabd.com",
+   "sales@southbanglabd.com",
+   "support@southbanglabd.com"
+  ],
+  "page_phones": [
+   "+88 01611500112",
+   "+88 01618040437",
+   "+88 01631-074824",
+   "+88 01678 040435",
+   "+88 01678-040438",
+   "+88 01678-040445"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-21 去信 1 / 来信 0（24 Port PoE Managed Switch）",
  "saga_overlap": "无",
@@ -59,5 +84,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:54:51Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGM",
+  "why": "官网快照对位：10G/2.5G 词频 26、交换机 92 → 24 GE + 4×10G L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

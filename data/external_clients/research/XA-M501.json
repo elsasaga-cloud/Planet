@@ -1,16 +1,17 @@
 {
  "code": "XA-M501",
  "name": "The Junction",
- "round": "W2-R05a",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（thejunction.eu，快照 2026-10-29）：The Junction – Your technology crossroads",
  "summary": "Perle 授权分销（The Junction AS，Drammen）；Marvell Prestera 接入层切入",
  "type_final": "Perle 授权分销（The Junction AS，Drammen）",
  "size": "未量化",
  "brands_seen": [
   "Perle Systems（工业 PoE 交换机",
   "媒体转换",
-  "串口设备联网）"
+  "串口设备联网）",
+  "Ubiquiti"
  ],
  "saga_line": "SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE",
  "fit": "工业/串口网络分销",
@@ -28,12 +29,26 @@
    "quote": "",
    "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
    "date": "2026-10-01"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；The Junction – Your technology crossroads",
+   "quote": "The Junction supplies specialist hardware and software for data connectivity, embedded computing, air traffic control, voice recording and rugged display systems across Europe and Scandinavia.",
+   "url": "https://thejunction.eu/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@thejunction.eu",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "info@thejunction.eu"
+  ],
+  "page_phones": [
+   "+47 40 40 34 02"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-01 群发「24 Port PoE Managed Switch」→ 已发未回",
  "saga_overlap": "无",
@@ -47,10 +62,21 @@
   "window": "NO 周四 12–14",
   "when": "2026-12-03"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "draft_en": {
   "subject": "A second-source DIN-rail PoE switch for your industrial customers",
   "body": "Hi,\n\nI wrote on 1 October about our 24-port PoE L2+ switch ('24 Port PoE Managed Switch'); this is a different angle, so a fresh note rather than a reply.\n\nSTI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.\n\nWould a DIN-rail PoE switch be a sensible addition next to your industrial connectivity range?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "deep": false
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:51:42Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-288GPM",
+  "why": "官网快照对位：工业/自动化词频 49、PoE 11 → DIN 8 PoE+ 2 SFP 起手",
+  "date": "2026-10-29"
+ }
 }

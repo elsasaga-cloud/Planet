@@ -1,9 +1,9 @@
 {
  "code": "XA-E020",
  "name": "Advanced HPC",
- "round": "W1-R01",
- "researched_at": "2026-10-27",
- "alive": "活（网店在售 NVIDIA/Edgecore 交换机），2026-10-27",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（advancedhpc.com，快照 2026-10-29）：High Performance Computing | Advanced HPC",
  "summary": "圣地亚哥 HPC 集成商兼网店，卖 NVIDIA/Mellanox InfiniBand 与以太交换机、光模块，也上架 Edgecore AS7712-32X 100G；客户是 HPC/AI 集群。10-21 发 sales@ 未回。",
  "type_final": "HPC 集成商 + DC 组件网店",
  "size": "中小（私营）",
@@ -35,6 +35,13 @@
    "quote": "",
    "url": "https://www.advancedhpc.com/pages/contact-us",
    "date": "2026-10-27"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；High Performance Computing | Advanced HPC",
+   "quote": "Advanced HPC provides high performance computing, storage systems and clusters to enable the latest in technology, from AI to machine learning.",
+   "url": "https://www.advancedhpc.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
@@ -46,7 +53,14 @@
     "role": "President",
     "source": "官网 About + 加州登记（来源库）"
    }
-  ]
+  ],
+  "page_emails": [
+   "template.page@template.product.js",
+   "vendors@layout.theme.js",
+   "vendors@template.index"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-21 发 sales@ → 已发未回",
  "saga_overlap": "无",
@@ -64,6 +78,17 @@
   "subject": "32 x 100G L3 switch as a price tier next to the AS7712-32X",
   "body": "Hi,\n\nI wrote on 21 October under \"24 Port PoE Managed Switch\"; this is a different angle, so a fresh note rather than a reply.\n\nYou list the Edgecore AS7712-32X; we build a Centec-based equivalent for the budget end of the same shelf: STH-32C-HSI, 32 x 100G QSFP28, L3 (BGP/EVPN-VXLAN), dual hot-swap PSUs, 12-month warranty, USD 6,000 EXW Shenzhen (snapshot 2026-10-27, valid 15 days). Smaller 24 x 10G + 2 x 100G and 48 x 25G + 8 x 100G models in the same family.\n\nDo your cluster customers ever ask for a lower-priced 100G option, or is it NVIDIA end to end?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "notes": "",
- "deep": false
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\n",
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:43:10Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-28DGGPM",
+  "why": "官网快照对位：交换机词频 20、无 PoE/工业侧重 → 8 口 L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

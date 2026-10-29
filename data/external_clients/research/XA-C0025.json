@@ -1,9 +1,9 @@
 {
  "code": "XA-C0025",
  "name": "TAROX AG",
- "round": "W1-R01",
- "researched_at": "2026-10-27",
- "alive": "活（轻卡：未外查）",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（tarox.de，快照 2026-10-29）：TAROX. Wir machen komplexe IT für Menschen einfach nutzbar.",
  "summary": "Lünen 的 IT 制造商（自有品牌 PC/服务器/工作站「Made in Germany」）兼分销。网络交换机非其品牌主线。",
  "type_final": "IT 制造商 + 分销（自有 PC 品牌）",
  "size": "待补证",
@@ -19,11 +19,32 @@
    "quote": "",
    "url": "External Clients/CCTV-PoE/A/XA-C0025",
    "date": "2026-10-27"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；TAROX. Wir machen komplexe IT für Menschen einfach nutzbar.",
+   "quote": "TAROX – führender IT‑Komplettdienstleister mit System‑, Cloud‑ und Security‑Lösungen. Innovative Technik, starke Eigenmarke und Service für Unternehmen.",
+   "url": "https://www.tarox.de/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@tarox.de",
-  "email_status": "公开"
+  "email_status": "公开",
+  "page_emails": [
+   "joerg.potthoff@tarox.de",
+   "nutzer@beispiel.de",
+   "pm-clients@tarox.de",
+   "pmeigenmarke@tarox.de"
+  ],
+  "page_phones": [
+   "+49 (0) 231",
+   "+49 (351) 83287 - 413",
+   "+49 231 98980-357",
+   "+49 231 98980-390",
+   "+49 351 83287-413"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "未发信",
  "saga_overlap": "无",
@@ -37,7 +58,18 @@
   "window": "",
   "when": ""
  },
- "notes": "轻卡。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\n轻卡。",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:42:44Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-28DGGPM",
+  "why": "官网快照对位：交换机词频 1、无 PoE/工业侧重 → 8 口 L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

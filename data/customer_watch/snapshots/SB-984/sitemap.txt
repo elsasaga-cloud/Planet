@@ -1,4 +1,4 @@
-# SB-984 olsontech.com · sitemap · https://olsontech.com/sitemap.xml · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-984 olsontech.com · sitemap · https://olsontech.com/sitemap.xml · fetched 2026-10-29T15:11:51Z · HTTP 200
 2026-10-23	https://olsontech.com/aboutus
 2026-10-21	https://olsontech.com/bead
 2026-10-22	https://olsontech.com/bragg-gratings
@@ -34,10 +34,15 @@
 	https://olsontech.com/shop
 	https://olsontech.com/blog
 	https://olsontech.com/
+	https://olsontech.com/blog/fiber-optic-work-book-5/feed
+	https://olsontech.com/blog/intro-to-fiber-optics-6/feed
 	https://olsontech.com/blog/olsontech-new-website-3/feed
 	https://olsontech.com/blog/our-blog-1/feed
 	https://olsontech.com/blog/what-is-pon-2/feed
 	https://olsontech.com/blog/what-is-rf-over-fiber-4/feed
+	https://olsontech.com/blog/fiber-optic-work-book-5/link-budgets-5
+	https://olsontech.com/blog/intro-to-fiber-optics-6/intro-to-fiber-optics-6
+	https://olsontech.com/blog/olsontech-new-website-3/optical-fiber-wavelength-bands-o-e-s-c-l-u-band-explained-4
 	https://olsontech.com/blog/olsontech-new-website-3/olsontech-new-website-2
 	https://olsontech.com/blog/what-is-pon-2/what-is-pon-1
 	https://olsontech.com/blog/what-is-rf-over-fiber-4/what-is-rf-over-fiber-3
@@ -45,6 +50,8 @@
 	https://olsontech.com/shop/edgepon-10x-4
 	https://olsontech.com/shop/edgeswitch-10x-3
 	https://olsontech.com/shop/txm-mpolt-051olt-2
+	https://olsontech.com/blog/fiber-optic-work-book-5
+	https://olsontech.com/blog/intro-to-fiber-optics-6
 	https://olsontech.com/blog/olsontech-new-website-3
 	https://olsontech.com/blog/our-blog-1
 	https://olsontech.com/blog/what-is-pon-2

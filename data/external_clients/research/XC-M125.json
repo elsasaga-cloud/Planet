@@ -1,19 +1,39 @@
 {
  "code": "XC-M125",
  "name": "Electrobit",
- "round": "X1-02",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "alive": "在线（electrobit.ee，快照 2026-10-29）：Electrobit OÜ - Tööstusautomaatika tooted ja tarkus",
  "summary": "Electrobit OÜ（原 Beijer Electronics Eesti OÜ）：工业自动化产品分销（Mitsubishi 等；Westermo Reseller）；销售工程师具名 arvo.lokk@ / andrei.dorosh@ / rene.erkman@（官网）",
  "type_final": "分销（Westermo Reseller）；Electrobit OÜ（原 Beijer Electronics Eesti OÜ）",
  "size": "",
  "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
  "fit": "○ 工业自动化分销 20%：Electrobit OÜ（Tallinn Suur-Sõjamäe 13A；Registr",
- "brands_seen": [],
+ "brands_seen": [
+  "Westermo",
+  "Korenix"
+ ],
  "contacts": {
   "email": "info@electrobit.ee",
   "email_status": "官网 / 名录公开（X1-02 补路径）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "andrei.dorosh@electrobit.ee",
+   "arvo.lokk@electrobit.ee",
+   "email@oak-integrator.lv",
+   "indrek.vendelin@electrobit.ee",
+   "info@automatikoscentras.lt",
+   "info@electrobit.ee"
+  ],
+  "page_phones": [
+   "+370 37 262707",
+   "+371 67842280",
+   "+372 5017179",
+   "+372 5076809",
+   "+372 5162070",
+   "+372 5217126"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "evidence": [
   {
@@ -29,6 +49,13 @@
    "quote": "",
    "url": "https://www.e-krediidiinfo.ee/10668940-ELECTROBIT",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Electrobit OÜ - Tööstusautomaatika tooted ja tarkus",
+   "quote": "Avasta Electrobit OÜ tööstusautomaatika tooted: sagedusmuundurid, tööstuskontrollerid, robotid, foto- ja induktiivandurid, servoajamid, switchid.",
+   "url": "https://www.electrobit.ee/",
+   "date": "2026-10-29"
   }
  ],
  "touch_status": "未触达（路径 2026-10-29 新补）",
@@ -40,6 +67,17 @@
   "angle": "已入 P 池 → 按巡检节奏首触"
  },
  "deep": false,
- "notes": "Electrobit OÜ（原 Beijer Electronics Eesti OÜ）；Suur-Sõjamäe 13A, 11415 Tallinn；Registrikood 10668940；KMKR EE101082723；+372 6518 140",
- "draft_en": null
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nElectrobit OÜ（原 Beijer Electronics Eesti OÜ）；Suur-Sõjamäe 13A, 11415 Tallinn；Registrikood 10668940；KMKR EE101082723；+372 6518 140",
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:57:21Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-288GPM",
+  "why": "官网快照对位：工业/自动化词频 17、PoE 40 → DIN 8 PoE+ 2 SFP 起手",
+  "date": "2026-10-29"
+ }
 }

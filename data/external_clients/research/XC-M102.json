@@ -1,9 +1,9 @@
 {
  "code": "XC-M102",
  "name": "Hatteland Technology",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 hattelandtechnology.com MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（hattelandtechnology.com，快照 2026-10-29）：One stop shop technology partner | Hatteland Technology",
  "summary": "Hatteland Technology（挪威）：分销（Moxa 授权）；Moxa 全线产品官方分销商，合作 30 年以上；在挪威、瑞典、芬兰三国各自设有 Moxa 网店",
  "type_final": "分销（Moxa 授权）",
  "size": "",
@@ -19,12 +19,26 @@
    "quote": "",
    "url": "https://hattelandtechnology.com",
    "date": "2026-09"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；One stop shop technology partner | Hatteland Technology",
+   "quote": "Hatteland Technology is a global provider of industrial technologies to system integrators within a wide range of industries. Hatteland Technology is the result of a merger between Hatteland Display and Elektronix.",
+   "url": "https://www.hattelandtechnology.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "",
   "email_status": "缺",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "camilla.heggelund@hattelandtechnology.com",
+   "pontus.hult@hattelandtechnology.com",
+   "timo.myllyla@hattelandtechnology.com"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "Saga SC-490（hattelandtechnology.com）随主档",
@@ -40,5 +54,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:57:11Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-288GPM",
+  "why": "官网快照对位：工业/自动化词频 148、PoE 2 → DIN 8 PoE+ 2 SFP 起手",
+  "date": "2026-10-29"
+ }
 }

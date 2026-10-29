@@ -1,9 +1,9 @@
 {
  "code": "XC-M187",
  "name": "MVA - Electrotécnia",
- "round": "X1-02",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "alive": "在线（mva.pt，快照 2026-10-29）：Home - MVA - Electrotécnia",
  "summary": "MVA - Electrotécnia, Lda.：自动化 / 通信 / 能源系统方案伙伴（GSM / RF / Ethernet / 光纤通信系统；Westermo Reseller）；comercial@ = 报价箱",
  "type_final": "分销（Westermo Reseller）；MVA - Electrotécnia, Lda.",
  "size": "",
@@ -13,7 +13,24 @@
  "contacts": {
   "email": "comercial@mva.pt",
   "email_status": "官网 / 名录公开（X1-02 补路径）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "administrativo@mva.pt",
+   "comercial@mva.pt",
+   "encomendas@mva.pt",
+   "faturacao@mva.pt",
+   "financeira@mva.pt",
+   "mva@mva.pt"
+  ],
+  "page_phones": [
+   "+351) 214 879 000 - 300 400",
+   "+351) 214 879 007",
+   "+351) 963 827 422",
+   "0010 0000 3235 1520 0018 1",
+   "00269 07560020315328833",
+   "0033 0000 45463826863 05"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "evidence": [
   {
@@ -21,6 +38,13 @@
    "claim": "官网 General Contacts：MVA - Electrotécnia, Lda. · VAT 502 539 186 · comercial@mva.pt（报价）· mva@mva.pt",
    "quote": "",
    "url": "https://www.mva.pt/en/general-contacts",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Home - MVA - Electrotécnia",
+   "quote": "Home",
+   "url": "https://www.mva.pt/en/",
    "date": "2026-10-29"
   }
  ],
@@ -33,6 +57,17 @@
   "angle": "已入 P 池 → 按巡检节奏首触"
  },
  "deep": false,
- "notes": "MVA - Electrotécnia, Lda.；Rua Inácio Duarte 9A, 2790-226 Carnaxide；NIF 502 539 186；+351 214 879 000",
- "draft_en": null
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\nMVA - Electrotécnia, Lda.；Rua Inácio Duarte 9A, 2790-226 Carnaxide；NIF 502 539 186；+351 214 879 000",
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:57:54Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-280GE",
+  "why": "官网快照对位：工业/自动化词频 7、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手",
+  "date": "2026-10-29"
+ }
 }

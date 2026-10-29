@@ -46,7 +46,7 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 自有品牌 · OEM 30%：Hi-Focus Electronics India Pvt Ltd（Chennai；CIN U51909TN2015PTC099815；GSTIN 33AADCH5807L1ZJ；2015；实收 ₹1 Cr；15 GST 登记 = 多邦网络；MD Shobhalal Mukesh Kumar）坐实；自有品牌 ✔ 中国代工 ✔ 对位 ✔ 坐实 ✔ → P 池候选；闸 1：印度 HiFocus（hifocuscctv.com；自有品牌 CCTV，表内「买丰润达的商业 PoE」）：自有品牌 ✔ 进口中国同类 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先",
- "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/saga_fit/deep/facts。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -76,8 +76,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "STC-424XGGPM-280W",
-   "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
+   "p1": "STI-288GPM",
+   "why": "官网快照对位：工业/自动化词频 14、PoE 61 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -99,6 +99,14 @@
     "quote": "IN · 1 次检索：thecompanycheck（CIN / GSTIN / 董事 / 官网 hifocuscctv.com 对上）+ indiafilings + falconebiz（4 董事）；2026-10-29",
     "why": "闸 2 坐实来源（URL 见 company_facts.url）",
     "url": "https://www.thecompanycheck.com/company/hifocus-electronics-india-private-limited/U51909TN2015PTC099815"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Most Trusted CCTV Camera Brand in India | Hi-Focus — Explore advanced CCTV solutions from the most reliable and trusted CCTV camera brand in India, Hi-Focus. Shop for HD CCTV Cameras, IP, PTZ cameras, DVRs & more.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://hifocuscctv.com/"
    }
   ],
   "proof_gaps": [
@@ -139,14 +147,51 @@
   "**自有品牌 CCTV 配套 PoE → OEM 30%：一页纸一次（STC-028GP $28 / STC-228GP $33 中性包装 + 贴牌 HiFocus + MOQ 1 + 付费样机）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS /"
  ],
  "saga_fit": {
-  "p1": "STC-424XGGPM-280W",
+  "p1": "STI-288GPM",
   "tier": 30,
-  "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
-  "basis": "默认 · 官网快照后按业务线校正"
+  "why": "官网快照对位：工业/自动化词频 14、PoE 61 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）",
+  "basis": "官网快照自动对位（LT-T03）· 人工点名时再校",
+  "p1_prev": "STC-424XGGPM-280W"
  },
  "deep": {
   "done_at": "2026-10-29",
-  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
-  "batch": "LT-T01"
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T01",
+  "snapshot_at": "2026-10-29"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:39:15Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "support@hifocuscctv.com"
+  ],
+  "phones": [
+   "+91 1800-103-9001",
+   "+919500123850"
+  ],
+  "social": [
+   "https://wa.me/919500123850",
+   "https://www.facebook.com/hifocusadmin/",
+   "https://www.instagram.com/hifocusindia/",
+   "https://www.linkedin.com/company/hifocuscctv"
+  ],
+  "models_on_site": [
+   "HF-S08E2-120WH",
+   "HF-S08G2-120WH",
+   "HC-IPC-SD0440T-AL",
+   "HIPC-S5513-DLSG-I3",
+   "HF-S16G2F1-300W",
+   "HF-SG04G2F1-75WG",
+   "HF-S08E2-120WQ-U3",
+   "HF-S04E2-65WQ-U3"
+  ],
+  "url": "https://hifocuscctv.com/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

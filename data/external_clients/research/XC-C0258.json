@@ -1,9 +1,9 @@
 {
  "code": "XC-C0258",
  "name": "TVC",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 tvc.mx MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（tvc.mx，快照 2026-10-29）：TVCenLínea.com Mayorista Soluciones de Seguridad Electrónica",
  "summary": "TVC（墨西哥）：安防电子批发分销商；业务=20分支墨西哥, Dahua/DSC/Ubiquiti/Vivotek/ZKTeco, CCTV/门禁/报警/网络；开发策略=A类(墨西哥安防分销), 20分支量大, 推荐Saga PoE+HRUI非管理",
  "type_final": "安防电子批发分销商",
  "size": "",
@@ -11,7 +11,12 @@
   "Dahua",
   "Ubiquiti",
   "Vivotek",
-  "HRUI"
+  "HRUI",
+  "ZKTeco",
+  "Ajax",
+  "TP-Link",
+  "Grandstream",
+  "Bosch"
  ],
  "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
  "fit": "",
@@ -22,12 +27,24 @@
    "quote": "TVCenLínea (墨西哥)",
    "url": "https://tvc.mx",
    "date": "2026-09"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；TVCenLínea.com Mayorista Soluciones de Seguridad Electrónica",
+   "quote": "Distribuimos Cámaras de Seguridad, CCTV, Acceso, Alarmas, Redes. Marcas Dahua, DSC, Ubiquiti, Vivotek, ZKTeco. 20 sucursales. Regístrate con precios especiales.",
+   "url": "https://tvc.mx/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "",
   "email_status": "缺",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "fasyl@tvc.mx"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "Saga SC-3130（tvc.mx）随主档",
@@ -43,5 +60,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:55:40Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGPM-280W",
+  "why": "官网快照对位：PoE 词频 5、监控 5 → 24 口 PoE L2+ 走量款",
+  "date": "2026-10-29"
+ }
 }

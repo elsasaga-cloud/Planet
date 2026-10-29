@@ -1,4 +1,4 @@
-# SA-088 ute.de · feed_auto · https://www.ute.de/?format=feed&type=rss · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SA-088 ute.de · feed_auto · https://www.ute.de/?format=feed&type=rss · fetched 2026-10-29T15:11:51Z · HTTP 200
 Sat, 18 Apr 2026 10:00:00 +0200	Automatischer Transferschalter für redundante Stromversorgung im Serverrack für bis zu 16A	https://www.ute.de/pressemitteilungen/82-automatischer-transferschalter-f%C3%BCr-redundante-stromversorgung-im-serverrack-f%C3%BCr-bis-zu-16a
 Mon, 07 Apr 2025 10:00:00 +0200	IP-Streaming-Lösungen mit 1G erobern den AV Markt	https://www.ute.de/pressemitteilungen/78-ip-streaming-loesungen-mit-1g
 Mon, 27 Jan 2025 08:00:00 +0100	Aurora TPG-8K: 8K60/ 4K120 HDMI2.1 Testbildgenerator und Signalanalysator für HDMI- und AV over IP Signale	https://www.ute.de/pressemitteilungen/77-aurora-tpg-8k

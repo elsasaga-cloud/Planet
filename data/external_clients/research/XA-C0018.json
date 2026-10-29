@@ -1,9 +1,9 @@
 {
  "code": "XA-C0018",
  "name": "Almas Industries AG",
- "round": "W1-R01",
- "researched_at": "2026-10-27",
- "alive": "活",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（almas-industries.de，快照 2026-10-29）：Almas Industries - Sicherheitstechnik für Unternehmen",
  "summary": "曼海姆的安防方案商（2004 起，生物识别门禁/视频/报警/除颤器，集团 300 人 8 国，德国公司 2024 营收 2,170 万欧元、123 人，母公司 Almas Industries Ltd 伦敦）。自装自卖的终端方案商，不是分销商（原库「Hikvision DACH Distributor」有误）。",
  "type_final": "安防方案商/集成商（自有安装队伍）",
  "size": "123 人；€21.7M（2024，德国公司）",
@@ -27,11 +27,27 @@
    "quote": "",
    "url": "https://handelsregister.ai/en/organizations/mannheim/activities-of-holding-companies/almas-industries-ag-7c813be78ba568775f946c8ea2d1d63b",
    "date": "2026-10-27"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Almas Industries - Sicherheitstechnik für Unternehmen",
+   "quote": "Innovative Sicherheitstechnik für Unternehmen zur Absicherung von Objekte & Räumlichkeiten ✓Sicherheitsberatung ✓Projektierung ✓Installation",
+   "url": "https://almas-industries.de/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@almas-industries.de",
-  "email_status": "公开；无采购口"
+  "email_status": "公开；无采购口",
+  "page_emails": [
+   "info@almas-industries.de"
+  ],
+  "page_phones": [
+   "+49 ( 0) 621 842 528",
+   "+49 (0) 800 256 27 42",
+   "+49 621 842 528-0"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "未发信",
  "saga_overlap": "无",
@@ -45,7 +61,13 @@
   "window": "DE 周四 12–14",
   "when": "2026-12"
  },
- "notes": "",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence。\n",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:42:34Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

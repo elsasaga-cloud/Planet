@@ -2,7 +2,7 @@
  "code": "SB-239",
  "name_official": "Empicstar（empicstar.com，尼日利亚；域名现不可达）",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（empicstar.com：域名不可达（DNS/连接失败），2026-10-21，第 1 次）",
+ "website_status": "在线（empicstar.com，快照 2026-10-29）：तेज़ क्रिकेट लाइव स्ट्रीम और हाइलाइट्स | एम्पिक क्रिकेट",
  "summary": "尼日利亚网络产品平台/转售商 Empicstar（用户备注「FS MC 周边产品，似乎是平台，出现了 TP-Link、ONV 等牌子」；gmail + WA）。2024-03 对商业 PoE 128 信息回「price」；18 次推送 1 次实质回复。域名快照不可达 → 存续待核；→ B 20%（平台转售）。",
  "type": "",
  "size": "",
@@ -24,10 +24,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/deep/facts。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（域名核对 → 存续待核 · 需求映射）"
+  "level": "B 级加厚 v1（域名核对 → 存续待核 · 需求映射） + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "company_facts": {
   "legal_name": "Empicstar（0 查：gmail + 域名失效）",
@@ -92,6 +93,14 @@
     "quote": "FS MC 周边产品 似乎是平台 出现了TP-link ONV等牌子；2024.3.28 发了商业POE 128信息 → price",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "तेज़ क्रिकेट लाइव स्ट्रीम और हाइलाइट्स | एम्पिक क्रिकेट — देखिए हर IPL मैच और टीम इंडिया की लाइव स्ट्रीम, बिजली की रफ़्तार से स्कोर और शानदार हाइलाइट्स। Asia Cup और T20 World Cup के रोमांचक पलों का पूरा अनुभव यहीं पाएं।",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.empicstar.com/"
    }
   ],
   "proof_gaps": [
@@ -103,11 +112,28 @@
  },
  "snap_thicken": {
   "consumed": [
-   "2026-10-21T09:38:04Z"
+   "2026-10-21T09:38:04Z",
+   "2026-10-29T15:32:42Z"
   ],
   "fails": [
    "2026-10-21"
   ],
-  "batch": "LT-T03"
+  "batch": "LT-T03",
+  "last_ok": "2026-10-29"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [
+   "+0.189 16 5",
+   "+0.309 15 6",
+   "+0.524 18 4"
+  ],
+  "social": [],
+  "models_on_site": [
+   "ILT20"
+  ],
+  "url": "https://www.empicstar.com/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

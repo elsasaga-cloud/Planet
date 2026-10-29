@@ -1,9 +1,9 @@
 {
  "code": "XA-C0013",
  "name": "WAV, LLC",
- "round": "W1-R01",
- "researched_at": "2026-10-27",
- "alive": "活（2026-09 AFL 战略分销稿）",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（wavonline.com，快照 2026-10-29）：Top Wireless Equipment Distributor For WISP & ISP",
  "summary": "伊利诺伊 Aurora 的北美 WISP/ISP 设备分销商（1990 起，51–200 人，$40.9M，4 个美国仓 + 加拿大 MBSI WAV），卖 Cambium/Ubiquiti/TP-Link/MikroTik 与光纤设备，2024-11 收购 ISP Supplies。营销 EVP Zach Hubeck 实名邮箱已公开。",
  "type_final": "WISP/ISP 设备分销商（北美）",
  "size": "51–200 人；$40.9M",
@@ -46,6 +46,13 @@
    "quote": "",
    "url": "https://www.prweb.com/releases/wav-and-mbsi-wav-named-among-afls-strategic-distribution-partners-in-the-us-and-canada-302882264.html",
    "date": "2026-09-17"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Top Wireless Equipment Distributor For WISP & ISP",
+   "quote": "WAV is the top wireless equipment distributor for WISPs and ISPs. From private LTE to fixed wireless broadband we specialize in making the Internet work.",
+   "url": "https://www.wavonline.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
@@ -62,7 +69,13 @@
     "role": "CEO/Owner",
     "source": "D&B"
    }
-  ]
+  ],
+  "page_emails": [
+   "sales@wavonline.com",
+   "username@domain.com"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "未发信",
  "saga_overlap": "无",
@@ -80,6 +93,17 @@
   "subject": "L2+ PoE and 10G aggregation switches for WAV's WISP partners",
   "body": "Hi Zach,\n\nSaga Telecom supplies switches to ISP and WISP distributors - Marvell-based L2+ PoE access switches and Centec-based L3 10G/25G/100G aggregation - under our label or the distributor's own, FCC/CE.\n\nTwo reference points at distributor level: STC-424XGGPM-280W, 24 x GE PoE+ (280 W) + 4 x 10G SFP+, L2+ with ERPS ring and SNMPv3, USD 170; STH-2C24XF-HSI, 24 x 10G SFP+ + 2 x 100G, full L3 (OSPF/BGP, VXLAN), dual PSU, USD 1,500. Both EXW Shenzhen, snapshot 2026-10-27, valid 15 days, 12-month warranty.\n\nWhat is WAV's process for evaluating a new switch vendor - a line review with your product team, or samples first?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "notes": "",
- "deep": false
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\n",
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:42:24Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGM",
+  "why": "官网快照对位：10G/2.5G 词频 3、交换机 6 → 24 GE + 4×10G L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

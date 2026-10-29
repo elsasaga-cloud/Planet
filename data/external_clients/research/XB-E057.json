@@ -1,13 +1,15 @@
 {
  "code": "XB-E057",
  "name": "COMMVERGE TECHNOLOGIES HOLDINGS (ASIA)",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名修正为 commverge.com（原 sales.tw 是邮箱用户名 / 注释 / 旧域）；DNS 2026-10-29 MX + A 正常；官网快照待 Actions 补抓",
+ "alive": "在线（commverge.com，快照 2026-10-29）：The leading network solutions integration company",
  "summary": "COMMVERGE TECHNOLOGIES HOLDINGS (ASIA)（中国台北 · Taipei）：SI/VAR/集成商",
  "type_final": "SI/VAR/集成商",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Juniper"
+ ],
  "saga_line": "STC 项目集成款（25% 档：STC-2216GP / STC-228GP）",
  "fit": "",
  "evidence": [
@@ -52,6 +54,13 @@
    "quote": "domain_prev=sales.tw",
    "url": "https://commverge.com/",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；The leading network solutions integration company",
+   "quote": "The leading network solutions integration company",
+   "url": "https://www.commverge.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
@@ -79,6 +88,17 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-X01b 域名修正同步（2026-10-29）：sales.tw → commverge.com。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
- "domain_fix": "commverge.com"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/evidence/site_p1_hint。\nLT-X01b 域名修正同步（2026-10-29）：sales.tw → commverge.com。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "domain_fix": "commverge.com",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:54:40Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-280GE",
+  "why": "官网快照对位：工业/自动化词频 5、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手",
+  "date": "2026-10-29"
+ }
 }

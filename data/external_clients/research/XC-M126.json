@@ -1,9 +1,9 @@
 {
  "code": "XC-M126",
  "name": "Dialect Skövde（evolvit.se）",
- "round": "X1-03",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "alive": "在线（shop.evolvit.se，快照 2026-10-29）：Evolvit",
  "summary": "evolvit Solutions AB（曾用名 Dialect Skövde / Dialect Noracom）：IT 服务 / 系统集成 / 电信（51–100 人）；MikroTik 官方分销名录（shop.evolvit.se）；org.nr 一次检索未中",
  "type_final": "分销（MikroTik 官方）；evolvit Solutions AB（曾用名 Dialect Skövde / Dialect Noracom）",
  "size": "",
@@ -29,6 +29,13 @@
    "quote": "",
    "url": "https://www.crunchbase.com/organization/evolvit-solutions",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Evolvit",
+   "quote": "Evolvit",
+   "url": "https://shop.evolvit.se/",
+   "date": "2026-10-29"
   }
  ],
  "touch_status": "未触达（路径 2026-10-29 新补）",
@@ -40,6 +47,12 @@
   "angle": "已入 P 池 → 按巡检节奏首触"
  },
  "deep": false,
- "notes": "evolvit Solutions AB（曾用名 Dialect Skövde / Dialect Noracom）；Gesällgatan 1, 541 50 Skövde；+46 500 105 300",
- "draft_en": null
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/evidence。\nevolvit Solutions AB（曾用名 Dialect Skövde / Dialect Noracom）；Gesällgatan 1, 541 50 Skövde；+46 500 105 300",
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:57:22Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

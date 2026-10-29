@@ -1,9 +1,9 @@
 {
  "code": "XA-M452",
  "name": "NA.EL Srl",
- "round": "W2-R05b",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（nael.it，快照 2026-10-29）：Contatti - Nael",
  "summary": "IT 集成商/VAR（NA.EL）；Marvell Prestera 接入层切入",
  "type_final": "IT 集成商/VAR（NA.EL）",
  "size": "未量化",
@@ -26,12 +26,29 @@
    "quote": "",
    "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
    "date": "2026-09-30"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Contatti - Nael",
+   "quote": "SediSEDE LEGALE:Via Ferrante Imparato, 190 - 80146 Napoli SEDE OPERATIVA: Via Ferrante Imparato, 190 - 80146 Napoli ContattiTel e Fax : +39 081 559.51.54 Emailinfo@nael.it info@pec.nael.it P.I. 02077090617 C.F.05841550634",
+   "url": "https://www.nael.it/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@nael.it",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "emailinfo@nael.it",
+   "info@nael.it",
+   "info@pec.nael.it"
+  ],
+  "page_phones": [
+   "+39 081 559.51.54",
+   "+39 081.559.5154"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-09-30 群发「24 Port PoE Managed Switch」→ 已发未回",
  "saga_overlap": "无",
@@ -45,7 +62,13 @@
   "window": "",
   "when": "不动"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:50:23Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

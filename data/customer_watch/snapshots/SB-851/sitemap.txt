@@ -1,4 +1,4 @@
-# SB-851 tayle.ru · sitemap · https://www.tayle.ru/sitemap.xml · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-851 tayle.ru · sitemap · https://www.tayle.ru/sitemap.xml · fetched 2026-10-29T15:11:51Z · HTTP 200
 	https://www.tayle.ru/partner_register/
 2017-05-26	https://www.tayle.ru/videos/
 2025-02-06	https://www.tayle.ru/vendor/

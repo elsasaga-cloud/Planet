@@ -1,15 +1,20 @@
 {
  "code": "XA-M090",
  "name": "Expert Zrt.",
- "round": "W2-R04",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（expert.hu，快照 2026-10-29）：Expert webáruház - notebook, számítógép periféria és informatikai eszköz nagykereskedés",
  "summary": "MikroTik 分销（Expert Zrt，Budapest）；MikroTik 官方分销，商用线可直接比价，工业线为零 → 新品类增量",
  "type_final": "MikroTik 分销（Expert Zrt，Budapest）",
  "size": "未量化",
  "brands_seen": [
   "MikroTik（Master",
-  "VAD）"
+  "VAD）",
+  "Ubiquiti",
+  "D-Link",
+  "MikroTik",
+  "TP-Link",
+  "Teltonika"
  ],
  "saga_line": "SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE",
  "fit": "MikroTik 渠道",
@@ -27,12 +32,26 @@
    "quote": "",
    "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
    "date": "2026-10-08"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Expert webáruház - notebook, számítógép periféria és informatikai eszköz nagykereskedés",
+   "quote": "Számítógép, számítógép periféria és tartozék, notebook, egyéb irodai- és szórakoztató elektronikai eszköz nagykereskedelme.",
+   "url": "https://www.expert.hu/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "network@expert.hu",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "info@expert.hu"
+  ],
+  "page_phones": [
+   "002130 2304"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-08 群发「24 Port PoE Managed Switch」→ 已发未回",
  "saga_overlap": "无",
@@ -46,10 +65,21 @@
   "window": "HU 周四 12–14",
   "when": "2026-11-12"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "draft_en": {
   "subject": "Industrial DIN-rail PoE switches - the category MikroTik does not cover",
   "body": "Hi,\n\nI wrote on 8 October about our 24-port PoE L2+ switch ('24 Port PoE Managed Switch'); this is a different angle, so a fresh note rather than a reply.\n\nSTI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.\n\nDo your reseller customers ask for DIN-rail PoE switches, or is that a category you have not needed to stock?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "deep": false
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:44:03Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGM",
+  "why": "官网快照对位：10G/2.5G 词频 37、交换机 45 → 24 GE + 4×10G L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

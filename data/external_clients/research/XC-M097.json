@@ -1,9 +1,9 @@
 {
  "code": "XC-M097",
  "name": "Piero Bersanini",
- "round": "X1-02",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "alive": "快照失败（pierobersanini.com：HTTP 错误，2026-10-29，第 1 次）",
  "summary": "Piero Bersanini（P.IVA IT09290730150）：工业电气 / 自动化元件网店 + 分销（Westermo Gold、PULS、E-T-A）；help@ 为客服箱",
  "type_final": "分销（Westermo Gold）；Piero Bersanini（P.IVA IT09290730150）",
  "size": "",
@@ -33,6 +33,14 @@
   "angle": "观察档 → 试单后转正"
  },
  "deep": false,
- "notes": "Piero Bersanini（P.IVA IT09290730150）；via Giacosa 3, 20127 Milano；P.IVA IT09290730150；+39 02 268531",
- "draft_en": null
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\nPiero Bersanini（P.IVA IT09290730150）；via Giacosa 3, 20127 Milano；P.IVA IT09290730150；+39 02 268531",
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:57:07Z"
+  ],
+  "fails": [
+   "2026-10-29"
+  ]
+ }
 }

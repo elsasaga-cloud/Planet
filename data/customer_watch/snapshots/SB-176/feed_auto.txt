@@ -1,4 +1,4 @@
-# SB-176 oksa.co.uk · feed_auto · https://oksa.co.uk/feed/ · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-176 oksa.co.uk · feed_auto · https://oksa.co.uk/feed/ · fetched 2026-10-29T15:11:51Z · HTTP 200
 Thu, 08 Oct 2026 07:18:43 +0000	Ethernet I/O modules with built-in OPC UA Server and MQTT Client services	https://oksa.co.uk/ethernet-i-o-modules-with-built-in-opc-ua-server-and-mqtt-client-services/
 Fri, 21 Aug 2026 13:31:40 +0000	Industrial Networks with a 5G NR PoE Cellular Gateway	https://oksa.co.uk/title-test-post/
 Sat, 11 Jul 2026 12:31:54 +0000	Water & Wastewater	https://oksa.co.uk/water-wastewater/

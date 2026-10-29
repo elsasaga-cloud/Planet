@@ -1,19 +1,31 @@
 {
  "code": "XC-M174",
  "name": "Control Technologies UK Ltd",
- "round": "X1-02",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "alive": "在线（controltech.uk.com，快照 2026-10-29）：Control Technologies UK | Webshop",
  "summary": "Control Technologies UK Ltd：CAN / 嵌入式与工业通信分销（Ixxat / Kunbus / CSS Electronics 等品牌）；微型",
  "type_final": "分销（HMS/N-Tron·Red Lion 渠道）；Control Technologies UK Ltd",
  "size": "",
  "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
  "fit": "☆ CAN / 嵌入式与工业通信分销 20%：Control Technologies UK Ltd（Sharnbroo",
- "brands_seen": [],
+ "brands_seen": [
+  "Teltonika",
+  "Aruba",
+  "Bosch"
+ ],
  "contacts": {
   "email": "info@controltech.uk.com",
   "email_status": "官网 / 名录公开（X1-02 补路径）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "info@controltech.uk.com",
+   "support@controltech.uk.com"
+  ],
+  "page_phones": [
+   "+44 (0) 1234 247176"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "evidence": [
   {
@@ -21,6 +33,13 @@
    "claim": "官网 Privacy：info@controltech.uk.com · Company No 07901679 · VAT GB266046990 · Sharnbrook MK44 1NN",
    "quote": "",
    "url": "https://controltechuk.com/privacy-policy/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Control Technologies UK | Webshop",
+   "quote": "Control Technologies is a leading UK supplier of CAN bus tools and control hardware, helping engineers design, connect, and deliver smarter automation systems.",
+   "url": "https://controltech.uk.com/",
    "date": "2026-10-29"
   }
  ],
@@ -33,6 +52,17 @@
   "angle": "观察档 → 试单后转正"
  },
  "deep": false,
- "notes": "Control Technologies UK Ltd；The Granary, Mill Road, Stoke Mill, Sharnbrook MK44 1NN；Company No 07901679；VAT GB266046990；+44 1234 247176",
- "draft_en": null
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nControl Technologies UK Ltd；The Granary, Mill Road, Stoke Mill, Sharnbrook MK44 1NN；Company No 07901679；VAT GB266046990；+44 1234 247176",
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:57:47Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-288GPM",
+  "why": "官网快照对位：工业/自动化词频 46、PoE 2 → DIN 8 PoE+ 2 SFP 起手",
+  "date": "2026-10-29"
+ }
 }

@@ -7,7 +7,10 @@
  "type": "进口集成（闸 2 判定 · 25% 档）",
  "size": "小型（17 人）",
  "brands_seen": [
-  "Tenda"
+  "Tenda",
+  "Ubiquiti",
+  "MikroTik",
+  "Huawei"
  ],
  "evidence": [
   {
@@ -42,7 +45,7 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 厄瓜多尔 · 进口集成 25%：Soluciones Tecnológicas Konect Cía. Ltda.（Quito；2019；17 人；Tendata 进口商 36 供应商）部分坐实（RUC 未取）；中国品牌进口 ✔ 对位 ✔ WA ✔ 先例 SC-2402 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon）；闸 1：厄瓜多尔 Konect Soluciones（konectsoluciones.com；洪瑞 + 买的海硕的 PON；1 推 0 回）：中国品牌进口 ✔ 对位 ✔ 厄瓜多尔有先例（SC-2402）；洪瑞现供 → Q-33 口径待 Simo…",
- "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/saga_fit/deep/facts。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -72,8 +75,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "STC-2216GP",
-   "why": "默认对位（进口集成 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）"
+   "p1": "STC-424XGGPM-280W",
+   "why": "官网快照对位：PoE 词频 9、监控 5 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-2216GP）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -95,6 +98,14 @@
     "quote": "EC · 1 次检索：emis（法人名 / 成立 / 人数 / 财务趋势）+ facebook（WA / 邮箱）+ tendata（进口记录）；RUC 未取；2026-10-29",
     "why": "闸 2 坐实来源（URL 见 company_facts.url）",
     "url": "https://www.emis.com/php/company-profile/EC/Soluciones_Tecnologicas_Konect_CiaLtda_es_9651873.html"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Home | Tienda_Konect",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.konectsoluciones.com"
    }
   ],
   "proof_gaps": [
@@ -133,14 +144,47 @@
   "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
  ],
  "saga_fit": {
-  "p1": "STC-2216GP",
+  "p1": "STC-424XGGPM-280W",
   "tier": 25,
-  "why": "默认对位（进口集成 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）",
-  "basis": "默认 · 官网快照后按业务线校正"
+  "why": "官网快照对位：PoE 词频 9、监控 5 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-2216GP）",
+  "basis": "官网快照自动对位（LT-T03）· 人工点名时再校",
+  "p1_prev": "STC-2216GP"
  },
  "deep": {
   "done_at": "2026-10-29",
-  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
-  "batch": "LT-T01"
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T01",
+  "snapshot_at": "2026-10-29"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:36:20Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "soporte@empresa-telecom.com"
+  ],
+  "phones": [
+   "+34 912-345-678"
+  ],
+  "social": [
+   "https://wa.me/+593995653148"
+  ],
+  "models_on_site": [
+   "AC1200",
+   "TC-C32QN",
+   "CCR2216-1G-12XS-2XQ",
+   "CCR2116-12G-4S",
+   "CCR2004-16G-2S",
+   "CCR2004-1G-12S",
+   "U7-IW",
+   "UVC-G5"
+  ],
+  "url": "https://www.konectsoluciones.com",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

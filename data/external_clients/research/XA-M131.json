@@ -1,9 +1,9 @@
 {
  "code": "XA-M131",
  "name": "hsc solutions",
- "round": "W1-R01",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-28 官网核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（hsc-solutions.de，快照 2026-10-29）：hsc solutions e.K.",
  "summary": "开姆尼茨的小型系统集成商/MikroTik 经销（业主 Tom Zschockelt，Dipl.-Inf.），分销信号通用、无差异化切入点。",
  "type_final": "小型 SI / MikroTik 经销",
  "size": "小型（未查）",
@@ -26,6 +26,13 @@
    "quote": "",
    "url": "External Clients/mikrotik-info/A/XA-M131",
    "date": "2026-10-12"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；hsc solutions e.K.",
+   "quote": "Wir kümmern uns um deine IT, damit dein Unternehmen stabil arbeiten kann – zuverlässig, verständlich und langfristig betreut.",
+   "url": "https://hsc-solutions.de/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
@@ -37,7 +44,16 @@
     "role": "Inhaber",
     "source": "Impressum + XING"
    }
-  ]
+  ],
+  "page_emails": [
+   "john@company.com",
+   "office@hsc-solutions.eu",
+   "terminetomzschockelthscsolutions@hsc-solutions.eu"
+  ],
+  "page_phones": [
+   "+49 (0) 371"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "9-28~10-10 群发 24 口 PoE L2+ → 已发未回",
  "saga_overlap": "无",
@@ -51,7 +67,13 @@
   "window": "DE 周四 12–14",
   "when": "2027-01"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网核对（R53 2026-09-28 / R63 2026-10-06）。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence。\n轻卡：本轮未外查，沿用来源库官网核对（R53 2026-09-28 / R63 2026-10-06）。",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:44:59Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

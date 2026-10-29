@@ -1,9 +1,9 @@
 {
  "code": "XA-M324",
  "name": "Wire Technologies, Inc.",
- "round": "W1-R02",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（wiretechnologies.com，快照 2026-10-29）：Wire Technologies - Wire Technologies",
  "summary": "布线/集成（WI，未触达）；Marvell 接入层生态切入",
  "type_final": "布线/集成（WI，未触达）",
  "size": "未量化",
@@ -19,12 +19,24 @@
    "quote": "",
    "url": "https://wiretechnologies.com/",
    "date": "2026-09-27"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Wire Technologies - Wire Technologies",
+   "quote": "Discover a realm of technological mastery with Wire Technologies. From seamless connectivity solutions to robust security measures, we craft innovative, reliable, and future-ready IT solutions tailored for your success.",
+   "url": "https://wiretechnologies.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@wiretech-inc.com",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "info@wiretech-inc.com"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -38,7 +50,18 @@
   "window": "",
   "when": "不动"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:48:42Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-280GE",
+  "why": "官网快照对位：工业/自动化词频 4、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手",
+  "date": "2026-10-29"
+ }
 }

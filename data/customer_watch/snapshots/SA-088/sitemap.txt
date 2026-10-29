@@ -1,4 +1,4 @@
-# SA-088 ute.de · sitemap · https://www.ute.de/sitemap.xml · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SA-088 ute.de · sitemap · https://www.ute.de/sitemap.xml · fetched 2026-10-29T15:11:51Z · HTTP 200
 	https://www.ute.de/
 	https://www.ute.de/adder-produkte
 	https://www.ute.de/adder-produkte/adderlink-kvm-extender
@@ -141,50 +141,4 @@
 	https://www.ute.de/produkte/abgekuendigt/4k-hdmi-glasfaser-extender-set-fouh303.html
 	https://www.ute.de/produkte/abgekuendigt/4k-hdmi2-0-lwl-exender-uh-300x-lwl1.html
 	https://www.ute.de/produkte/abgekuendigt/4k-hdmi2-0-lwl-exender-uh-300x-lwl4.html
-	https://www.ute.de/produkte/abgekuendigt/4k-praesentations-umschalter-und-scaler-mit-6-eingaengen-sc61e.html
-	https://www.ute.de/produkte/abgekuendigt/4k-praesentations-umschalter-und-scaler-mit-6-eingaengen-uh-61.html
-	https://www.ute.de/produkte/abgekuendigt/4k-ultraline-fiber-kvm-extender-uvx1-f-von-kvm-tec.html
-	https://www.ute.de/produkte/abgekuendigt/4k-ultraline-kvm-extender-uvx1-von-kvm-tec.html
-	https://www.ute.de/produkte/abgekuendigt/4x4-4k-hdmi-matrix-mit-hdbaset-uh-44.html
-	https://www.ute.de/produkte/abgekuendigt/4x4-dvi-matrix-mit-videowall-und-skalierfunktion-vm5404d-von-aten.html
-	https://www.ute.de/produkte/abgekuendigt/4x4-ultra-hd-hdmi-matrixschalter-muh44a-von-ptn.html
-	https://www.ute.de/produkte/abgekuendigt/4x4-ultra-hd-hdmi-matrixschalter-uh-44a-v1.html
-	https://www.ute.de/produkte/abgekuendigt/4x4-ultra-hd-hdmi-matrixschalter-uh-44a.html
-	https://www.ute.de/produkte/abgekuendigt/5-polige-einphasen-stromschiene-probar-1-5-von-iskra.html
-	https://www.ute.de/produkte/abgekuendigt/6-fach-vga-verteiler-100m-vga6x-von-6swaps.html
-	https://www.ute.de/produkte/abgekuendigt/6-fach-vga-verteiler-65m-vga6xlite-von-6swaps.html
-	https://www.ute.de/produkte/abgekuendigt/6-polige-dreiphasen-stromschiene-probar-3-6-von-iskra.html
-	https://www.ute.de/produkte/abgekuendigt/6-polige-einphasen-stromschiene-probar-1-6-von-iskra.html
-	https://www.ute.de/produkte/abgekuendigt/6swaps-hdmi-fo22.html
-	https://www.ute.de/produkte/abgekuendigt/7-polige-einphasen-stromschiene-probar-1-7-von-iskra.html
-	https://www.ute.de/produkte/abgekuendigt/7-port-usb-2-0-hub-mit-netzteil.html
-	https://www.ute.de/produkte/abgekuendigt/7-port-usb-2-0-hub-usb2-hub-7-von-nti.html
-	https://www.ute.de/produkte/abgekuendigt/8-polige-dreiphasen-stromschiene-probar-3-8-von-iskra.html
-	https://www.ute.de/produkte/abgekuendigt/8-polige-einphasen-stromschiene-probar-1-8-von-iskra.html
-	https://www.ute.de/produkte/abgekuendigt/8-polige-zweiphasen-stromschiene-probar-2-8-von-iskra.html
-	https://www.ute.de/produkte/abgekuendigt/8-port-17-lcd-kvm-switch-kl9108-dual-rail-von-aten-altusen.html
-	https://www.ute.de/produkte/abgekuendigt/8-port-dvi-video-audio-splitter-vopex-dvisa-8-von-nti.html
-	https://www.ute.de/produkte/abgekuendigt/8-port-dvi-video-splitter-vopex-dvis-8-von-nti.html
-	https://www.ute.de/produkte/abgekuendigt/8-port-kvm-over-ip-switch-kn9108-von-altusen.html
-	https://www.ute.de/produkte/abgekuendigt/8-port-kvm-switch-cs1758-von-aten.html
-	https://www.ute.de/produkte/abgekuendigt/8-port-kvm-switch-cs9138.html
-	https://www.ute.de/produkte/abgekuendigt/8-tasten-desktop-bedienfeld-tf8-desktop.html
-	https://www.ute.de/produkte/abgekuendigt/8-x-8-a-v-matrix-switch-vm0808t-von-aten.html
-	https://www.ute.de/produkte/abgekuendigt/8800.html
-	https://www.ute.de/produkte/abgekuendigt/8x4-vga-matrix-mit-audio-mvg84a-von-ptn.html
-	https://www.ute.de/produkte/abgekuendigt/8x8-4k-hdmi-matrix-mit-hdbaset-uh-88.html
-	https://www.ute.de/produkte/abgekuendigt/8x8-dvi-matrix-mit-videowall-und-skalierfunktion-vm5808d-von-aten.html
-	https://www.ute.de/produkte/abgekuendigt/8x8-hdbaset-matrix-mhd88tp-von-ptn.html
-	https://www.ute.de/produkte/abgekuendigt/8x8-ultra-hd-hdmi-matrixschalter-muh88a-von-ptn.html
-	https://www.ute.de/produkte/abgekuendigt/8x8-ultra-hd-hdmi-matrixschalter-uh-88a-v1.html
-	https://www.ute.de/produkte/abgekuendigt/8x8-ultra-hd-hdmi-matrixschalter-uh-88a-v2.html
-	https://www.ute.de/produkte/abgekuendigt/8x8-vga-a-v-matrix-switch-vm0808-von-aten.html
-	https://www.ute.de/produkte/abgekuendigt/9258-pro.html
-	https://www.ute.de/produkte/abgekuendigt/9258ds.html
-	https://www.ute.de/produkte/abgekuendigt/9258hp.html
-	https://www.ute.de/produkte/abgekuendigt/9258s.html
-	https://www.ute.de/produkte/abgekuendigt/9258sg.html
-	https://www.ute.de/produkte/abgekuendigt/9258wifi.html
-	https://www.ute.de/produkte/abgekuendigt/aavara-pce122-hdmi-over-coax-extender-set.html
-	https://www.ute.de/produkte/abgekuendigt/aavara-pce122-r-hdmi-over-coax-receiver.html
-	https://www.ute.de/produkte/abgekuendigt/aavara-pce122-s-hdmi-
+	https://www.ute.de/produkte/abgekuendigt/4k-praesentations-

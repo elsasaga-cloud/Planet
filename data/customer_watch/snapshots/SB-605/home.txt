@@ -1,4 +1,4 @@
-# SB-605 Elkov Elektro · home · https://www.elkov.cz/ · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-605 Elkov Elektro · home · https://www.elkov.cz/ · fetched 2026-10-29T15:11:51Z · HTTP 200
 Elektromateriál a svítidla | ELKOV
 Přejít na obsah
 Přihlášení
@@ -31,86 +31,79 @@ Kontakty
 Přihlásit se
 Vyberte si pobočku
 Brno - Kšírova (centrála)
-Otevřeno do
+Zavíráme za 5 minut
 28.10. ZAVŘENO
 Brno - Řečkovice
-Otevřeno do
+Zavíráme za 35 minut
 Blansko
-Otevřeno do
+Zavřeno · otevíráme zítra od
 Bystřice nad Pernštejnem
-Otevřeno do
+Zavřeno · otevíráme zítra od
 Čáslav
-Otevřeno do
+Zavřeno · otevíráme zítra od
 Česká Třebová
-Otevřeno do
+Zavřeno · otevíráme zítra od
 Hradec Králové
-Otevřeno do
+Zavíráme za 5 minut
 Hustopeče
-Otevřeno do
+Zavíráme za 5 minut
 Chotěboř
-Otevřeno do
+Zavřeno · otevíráme zítra od
 Jevíčko
-Otevřeno do
+Zavřeno · otevíráme zítra od
 Kladno
-Otevřeno do
+Zavřeno · otevíráme zítra od
 Kroměříž
-Otevřeno do
+Zavřeno · otevíráme zítra od
 23.10. od 11 hod. ZAVŘENO
 Liberec
-Otevřeno do
+Zavřeno · otevíráme zítra od
 Pardubice
-Otevřeno do
+Zavřeno · otevíráme zítra od
 Praha 13 - Stodůlky
-Otevřeno do
+Zavřeno · otevíráme zítra od
 Praha 4 - Spořilov
-Otevřeno do
+Zavřeno · otevíráme zítra od
 Praha 9 - Horní Počernice
-Otevřeno do
+Zavřeno · otevíráme zítra od
 Prostějov
-Otevřeno do
+Zavřeno · otevíráme zítra od
 Rychnov nad Kněžnou
-Otevřeno do
+Zavřeno · otevíráme zítra od
 Sokolov
-Otevřeno do
+Zavřeno · otevíráme zítra od
 Svitavy
-Otevřeno do
+Zavřeno · otevíráme zítra od
 Šenov u Nového Jičína
-Otevřeno do
+Zavřeno · otevíráme zítra od
 30. 10. od 11 hod. ZAVŘENO
 Tišnov
-Otevřeno do
+Zavřeno · otevíráme zítra od
 Trutnov
-Otevřeno do
+Zavřeno · otevíráme zítra od
 Třebíč
-Otevřeno do
+Zavřeno · otevíráme zítra od
 Uherské Hradiště
-Otevřeno do
+Zavřeno · otevíráme zítra od
 Uherské Hradiště - Jaktáře
-Otevřeno do
+Zavřeno · otevíráme zítra od
 Velké Meziříčí
-Otevřeno do
+Zavřeno · otevíráme zítra od
 Vysoké Mýto
-Otevřeno do
+Zavřeno · otevíráme zítra od
 Zábřeh
-Otevřeno do
+Zavřeno · otevíráme zítra od
 Zastávka u Brna
-Otevřeno do
+Zavřeno · otevíráme zítra od
 Zlín
-Otevřeno do
+Zavřeno · otevíráme zítra od
 Žďár nad Sázavou
-Otevřeno do
+Zavřeno · otevíráme zítra od
 Mapa poboček
 Hledat
 Zapnout/vypnout vyhledávací panel
 Přihlásit/registrovat účet
 AKČNÍ NABÍDKA
-Říjnová akce s osvětlením
-Osvětlení
-FVE
-Chrániče
-Topná technika
-Automatizace
-Novinky
 ABB výprodej
 Letní výprodej
 Svítidla a světelné zdroje
@@ -567,25 +560,4 @@ Kabelové příslušenství
 Značení vodičů kabelové příslušenství
 Ostatní kabelové příslušenství
 Kabelové vidlice
-Ochranné oplety
-Sady koncovek a konektorů
-Cupalové podložky a plechy
-Další kategorie
-Izolační pásky
-Teplem smrštitelné trubice
-Izolační trubičky
-Kabelové dutinky
-Kabelové kolíky
-Kabelové konektory a fastony
-Svazkovací spirály
-Kabelová oka
-Kabelové spojky
-Přípojnicové systémy
-Kabely USB, audio a video
-Kabely CINCH
-Kabely JACK
-Kabely SCART
-Kabely USB
-Kabely a redukce HDMI
-Vybraní výrobci
-Pečlivě vybíráme výrobce, kteří splňují naše nároky 
+

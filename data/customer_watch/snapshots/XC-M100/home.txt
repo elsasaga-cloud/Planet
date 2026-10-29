@@ -1,0 +1,85 @@
+# XC-M100 Adeptor AS · home · https://adeptor.no/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+Adeptor AS – Produkter og kompetanse for krevende miljøer
+1007001
+/search
+Adeptor_D4
+Oppdaterer, vennligst vent...
+0">
+Produkter
+0">
+Totalt antall treff:
+Se hele resultatet...
+Kategorier
+Merker
+Merkenavn
+0 && ! ShowArticlesRHS()">
+Artikler
+Antall artikler funnet:
+Tilbehør
+Alternativer
+Artikler
+Antall artikler funnet:
+Kundesenter
+Til svensk shop
+Logg inn
+-1 && isVisible())" style="display: none;">
+0 }">
+0, text: favoriteCount()">
+0 }">
+= 0, css: { 'cart-small-has-item': cartItems().length > 0 }, popover: { html: true, titleid: 'small-cart-title', contentid: 'small-cart-content', contentClass: 'cart-small-popover' + (OrderbookActive ? ' cart-small-orderbook' : '') }"
+style="display: none;">
+Ingen varer i handlevognen
+Ingen varer i ordreboka
+0), text: cartName" style="display: none;">
+0 && isVisible())" style="display: none;">
+produkt
+1 && isVisible())">
+produkter
+( )
+0, css: { 'cart-small-togle-open': popoverOpen() }" style="display: none;">
+0" style="display: none;">
+Til kassen
+×
+0" class="btn-group" role="group" aria-label="...">
+Aktiv leveringsdato
+Leveringsdatoer
+Handlevogn
+0 && !showOrderbookSummary()" style="display: none;">
+varer i handlevognen
+0, text: displayDate ">
+0">
+0 && numberOfItemsToShow() > 0 && cartItems().length > numberOfItemsToShow())">
+Klikk her for å se alle
+Handlevognen er tom.
+Priser inkl. mva.
+Veil.
+Skjul Netto
+0" style="display: none;">
+Totalt eks. mva
+Eller kjøp nå for
+0), text: summarySumAfterCostReductionsIncVat">
+Totalt eks. mva
+Totalt ink. mva
+0), text: summarySumAfterCostReductionsIncVat">
+0)">
+Eller leasing for
+0">
+Kampanjefradrag
+0">
+Totalt eks. fradrag
+Total eks. fradrag
+0)">
+Til handlevogn
+0 && OrderbookDate() != null && OrderbookDate().length > 0, text: displayDate">
+0)">
+Til kassen
+0 && OrderbookDate() != null && OrderbookDate().length > 0, text: displayDate">
+Søk
+Copyright © 2026 Adeptor AS - All rights reserved
+Forretningssystem og nettbutikkløsning levert av Multicase™ Norge AS
+Filter
+Logg inn / Ny kunde
+Registrer meg som kunde
+Kundesenter
+Til svensk shop
+Tilbake

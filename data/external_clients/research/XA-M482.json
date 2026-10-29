@@ -1,9 +1,9 @@
 {
  "code": "XA-M482",
  "name": "Titan Security Group",
- "round": "W1-R02",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（titan-security.com，快照 2026-10-29）：Titan Security Group | Your Premier Security Solutions Provider",
  "summary": "安防/消防集成商（Marksman Titan，Resell 级）；Marvell Prestera 接入层切入",
  "type_final": "安防/消防集成商（Marksman Titan，Resell 级）",
  "size": "未量化",
@@ -26,6 +26,13 @@
    "quote": "",
    "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Titan Security Group | Your Premier Security Solutions Provider",
+   "quote": "Titan Security Group is your premier security solutions provider. Flexible and efficient solutions for the security challenges of today.",
+   "url": "https://titan-security.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
@@ -45,7 +52,13 @@
   "window": "",
   "when": "不动"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/evidence。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:51:32Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

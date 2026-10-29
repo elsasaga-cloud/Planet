@@ -2,7 +2,7 @@
  "code": "SB-635",
  "name_official": "LMD Hitech India (P) Ltd. / Radiant Group（印度）",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（LMD Hitech India (P) Ltd.：域名不可达（DNS/连接失败），2026-10-21，第 1 次）",
+ "website_status": "快照失败（radiantgroup.org：域名不可达（DNS/连接失败），2026-10-29，第 2 次）",
  "summary": "印度 LMD Hitech（Radiant Group，Dinesh Sharma），询盘表来源，无兴趣描述；域名不可达；WA 无实质回复。",
  "type": "",
  "size": "",
@@ -35,7 +35,7 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（快照不可达 + 表内）"
@@ -107,10 +107,12 @@
  },
  "snap_thicken": {
   "consumed": [
-   "2026-10-21T09:44:39Z"
+   "2026-10-21T09:44:39Z",
+   "2026-10-29T15:33:34Z"
   ],
   "fails": [
-   "2026-10-21"
+   "2026-10-21",
+   "2026-10-29"
   ],
   "batch": "LT-T03"
  }

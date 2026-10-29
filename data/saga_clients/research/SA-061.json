@@ -47,11 +47,12 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "LT-T03 官网快照加厚（2026-10-21）：fail#1。\n规格明确（12 光 12 电，2 台）、3 次回复、WA 在线 → 可追溯真实需求且小单可成；南美非主攻区但不需额外投入。P1：SmartByte 12 光 12 电管理型（按 docs/smartbyte/products 核对 24 口 combo 机型，报价前核价），项目价阶 25%。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：deep/facts。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\n规格明确（12 光 12 电，2 台）、3 次回复、WA 在线 → 可追溯真实需求且小单可成；南美非主攻区但不需额外投入。P1：SmartByte 12 光 12 电管理型（按 docs/smartbyte/products 核对 24 口 combo 机型，报价前核价），项目价阶 25%。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v2（政府采购名录 + LinkedIn + 官网核对）"
+  "level": "深挖 v2（政府采购名录 + LinkedIn + 官网核对） + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "company_facts": {
   "legal_name": "RYMTECH E.A.S.（RUC 80125463-9；股东 Nancy Carolina Elizalde de Osorio、Ruslan Osorio Guerra）",
@@ -165,6 +166,14 @@
     "quote": "用户表跟进：推「mini」→ 对方「问了高速的 后续没进展了」",
     "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
     "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.52 1.2"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Carbonio Authentication",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://rym-tech.net/static/login/"
    }
   ],
   "proof_gaps": [
@@ -178,11 +187,13 @@
  },
  "snap_thicken": {
   "consumed": [
-   "2026-10-21T09:20:38Z"
+   "2026-10-21T09:20:38Z",
+   "2026-10-29T15:26:46Z"
   ],
   "fails": [
    "2026-10-21"
   ],
-  "batch": "LT-T03"
+  "batch": "LT-T03",
+  "last_ok": "2026-10-29"
  }
 }

@@ -5,7 +5,12 @@
  "summary": "美国小公司（Owner Christopher Fikes，电话区号 409 = 德州 Beaumont 一带），2026-10-03 回复群发表示有兴趣，关心 OEM 定制层级与控制器 API 集成；Simon 10-04 发完整 OEM 清单 + MIB + 规格书 + CLI/Web 手册并反问控制器架构，10-19 追问样品，客户未回。S 邮箱 4 封。",
  "type": "IT 集成 / 网络顾问（一人公司；客群 = 地方政府 / K-12 与高校 / SMB；方案 = 企业网络、数据中心网络、VoIP、MikroTik 咨询）",
  "size": "小（Owner 直接回信）",
- "brands_seen": [],
+ "brands_seen": [
+  "MikroTik",
+  "Grandstream",
+  "Ubiquiti",
+  "Aruba"
+ ],
  "evidence": [
   {
    "kind": "email",
@@ -45,7 +50,7 @@
    "source": "S 邮箱签名"
   }
  ],
- "notes": "LT-T02 官网实查（2026-10-29）：见 evidence「LT-T02 官网实查」。\nAPI/控制器集成是关键未知：Saga 线（SmartByte Marvell AC5）有 SNMP/CLI/Web，无云控制器 REST API——下一封应直说 SNMP + CLI 自动化可做、REST/云控不做，别吊着。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。\nLT-T02 官网实查（2026-10-29）：见 evidence「LT-T02 官网实查」。\nAPI/控制器集成是关键未知：Saga 线（SmartByte Marvell AC5）有 SNMP/CLI/Web，无云控制器 REST API——下一封应直说 SNMP + CLI 自动化可做、REST/云控不做，别吊着。",
  "researched_at": "2026-10-22",
  "saga_fit": {
   "p1": "STC-424XGGPM-280W",
@@ -108,6 +113,14 @@
     "quote": "Any feedback about our product information? Maybe arrange 2 samples for testing?",
     "why": "15 天内第二封去信无回；美国 SOHO 咨询商（Owner 一人）10-03 的热情之后沉默——按「只问一句」规则，下一封放到 2026-11 上旬，且要把 10-04 没说清的 API 边界一句说死",
     "k": "gmail_s（fikesmedia.com，jsonl client 字段为空，按域名重扫）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Home",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.fikesmedia.com/"
    }
   ],
   "proof_gaps": [],
@@ -137,10 +150,33 @@
  ],
  "deep": {
   "done_at": "2026-10-29",
-  "level": "邮件证据 + 官网实查 v1（LT-T02）",
-  "batch": "LT-T02"
+  "level": "邮件证据 + 官网实查 v1（LT-T02） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T02",
+  "snapshot_at": "2026-10-29"
  },
  "signals": [
   "「function, not vendors」+ 自建数据中心网络页（ToR / VXLAN）→ 对白牌 Marvell 管理型 + 10G 上联接受度高；MikroTik 顾问身份 = 懂 CLI / SNMP，回信时直说 SNMP + CLI 自动化可做、REST 云控不做（见 notes）"
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:26:52Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@fikesmedia.com",
+   "support@fikesmedia.com"
+  ],
+  "phones": [
+   "+1 409.877.4220",
+   "+1.409.877.4220"
+  ],
+  "social": [],
+  "models_on_site": [],
+  "url": "https://www.fikesmedia.com/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

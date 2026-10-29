@@ -81,10 +81,11 @@
  ],
  "grade_override": "B",
  "override_reason": "Planet 渠道档案 PB-083 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-083，W 批次调研 2026-10-19/20）"
+  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-083，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "company_facts": {
   "legal_name": "REDCORP SA/NV（BCE / TVA BE 0448.875.715，2021-10 起；吸收原 Redcorp 0437.509.887）",
@@ -302,6 +303,14 @@
     "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
     "why": "Elsa 箱群发 BCC 触达证据（命中地址 redcorp.com, sales@redcorp.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
     "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Redcorp - Our mission, Making IT buying simple",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.Redcorp.com/"
    }
   ],
   "proof_gaps": [
@@ -319,5 +328,32 @@
   "note": "布鲁塞尔 1989 起 B2B IT 供应商兼电商 Redcorp，PLANET 品牌页以工业 IGS 为主：对位 ✔ 欧洲 → 留 B",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 Elsa 群））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": []
+ "override_history": [],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:32:32Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "customercare@redcorp.com",
+   "johan@redcorp.com"
+  ],
+  "phones": [
+   "+32 (0)2 558 30 00",
+   "+32 (0)2 558 30 22",
+   "+32 (0)2 558 30 50"
+  ],
+  "social": [
+   "http://www.linkedin.com/company/redcorp",
+   "https://twitter.com/redcorp",
+   "https://www.facebook.com/RedcorpITShop"
+  ],
+  "models_on_site": [],
+  "url": "https://www.Redcorp.com/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

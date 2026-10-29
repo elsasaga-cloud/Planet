@@ -1,13 +1,20 @@
 {
  "code": "XB-E060",
  "name": "SSS Vietnam Joint Stock Company",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 sss.net.vn MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（sss.net.vn，快照 2026-10-29）：Nhà phân phối Cisco, Aruba, Ruijie, Rosenberger uy tín số 1️⃣",
  "summary": "SSS Vietnam Joint Stock Company（越南 · Hanoi）：分销商",
  "type_final": "分销商",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Cisco",
+  "H3C",
+  "Aruba",
+  "Ruijie",
+  "Fortinet",
+  "Huawei"
+ ],
  "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
  "fit": "",
  "evidence": [
@@ -38,12 +45,24 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Nhà phân phối Cisco, Aruba, Ruijie, Rosenberger uy tín số 1️⃣",
+   "quote": "Báo giá phân phối switch Cisco, Module sfp Cisco, Aruba, H3C, Ruijie, Rosenberger, cáp quang, chính hãng uy tín số 1️⃣ Việt Nam ⭕ Đầy đủ CO,CQ ⭕",
+   "url": "https://sss.net.vn/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "contact@sss.net.vn",
   "email_status": "活（来源库 9 月核对）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "contact@sss.net.vn"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-21 去信 1 / 来信 0（24 Port PoE Managed Switch）",
  "saga_overlap": "无",
@@ -59,5 +78,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:54:40Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-288GPM",
+  "why": "官网快照对位：工业/自动化词频 42、PoE 26 → DIN 8 PoE+ 2 SFP 起手",
+  "date": "2026-10-29"
+ }
 }

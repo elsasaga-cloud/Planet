@@ -1,0 +1,9 @@
+# SC-2066 ethoswitch.com · home · https://ethoswitch.com/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+AbleCommerce License
+Error
+The error message is:
+The AbleCommerce license has expired. Please update your license file.
+Update your license key now
+For assistance,
+please visit our technical
+support page.

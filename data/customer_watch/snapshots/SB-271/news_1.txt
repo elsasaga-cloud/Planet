@@ -1,4 +1,4 @@
-# SB-271 dodicelettronica.it · news_1 · https://www.dodicgroup.it/news/ · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-271 dodicelettronica.it · news_1 · https://www.dodicgroup.it/news/ · fetched 2026-10-29T15:11:51Z · HTTP 200
 News - Dodic Group
 0775 840029
 marketing@dodic.it
@@ -159,6 +159,12 @@ Novità
 Eventi
 Corsi di formazione
 Editoriali
+Corso Ajax – Roma Nord
+Iscriviti al corso formativo Ajax su TVCC e gamma Superior in data 19 Novembre presso Roma Nord.
+Scopri di più
+Corso Ajax – Latina
+Riserva il tuo posto al corso Ajax in data 12 novembre e scopri le potenzialità Superior e TVCC.
+Scopri di più
 Risco – Promo Sensori Radio
 Offerta valida da Ottobre a Dicembre 2026 salvo esaurimento scorte. Scopri l'ecosistema Risco!
 Scopri di più
@@ -170,12 +176,6 @@ Scopri le potenzialità dei sistemi Hikvision MX Pro il 23 Ottobre 2026.
 Scopri di più
 Corso Risco – Roma Ovest
 Riserva il tuo posto al corso Risco in data 20 ottobre e scopri le potenzialità di VuPoint Ai.
-Scopri di più
-Corso Risco – Fiumicino
-Non mancare al nuovo corso formativo sulle soluzioni Risco. Prenota ora e scopri le novità!
-Scopri di più
-Corso Micromac – Latina
-Non perderti il nuovo corso Micromac sulla rilevazione gas professionale presso la sede DSL
 Scopri di più
 Scopri i meno recenti
 Fine articolo
@@ -189,10 +189,10 @@ Linkedin-in
 Categorie
 Altro (Non Pubblicato) (2)
 Comunicazioni (8)
-Corsi di formazione (51)
+Corsi di formazione (53)
 Editoriali (6)
 Eventi (31)
-Non Pubblicati (6)
+Non Pubblicati (4)
 Novità (4)
 Sede di Casoria (7)
 Sede di Fiumicino (12)
@@ -286,10 +286,10 @@ Sede di Casoria
 Novità
 Comunicazioni
 Corsi di formazione
+Corso Ajax – Roma Nord
+Ottobre 26, 2026
+Corso Ajax – Latina
+Ottobre 26, 2026
 Risco – Promo Sensori Radio
 Ottobre 22, 2026
-Percorso formativo – CNA Roma
-Ottobre 13, 2026
-Corso Hikvision – Latina
-Ottobre 9, 2026
 Torna in alto

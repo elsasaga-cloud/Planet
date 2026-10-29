@@ -5,7 +5,9 @@
  "summary": "国别纠偏：表内「智利」 → 瑞士。Omni Ray AG：Schweizer Handelsregister CHE-105.959.689；LEI 967600D74EO0N5PVE227；Im Schörli 5, 8600 Dübendorf；1950 创立；资本 CHF 2,050,000。来源：公司底数登记（`data/saga_clients/registry/`，第 131 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。",
  "type": "工业自动化分销商（Moxa 分销）",
  "size": "中型（CHF 2.05M 资本；20–49 人；75 年）",
- "brands_seen": [],
+ "brands_seen": [
+  "Moxa"
+ ],
  "evidence": [
   {
    "kind": "登记",
@@ -17,7 +19,7 @@
  ],
  "researched_at": "2026-10-29",
  "country_fix": "瑞士",
- "notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。\nT29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。",
  "override_history": [
   {
    "batch": "LT-01",
@@ -64,6 +66,14 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 欧洲 · 工业自动化分销 20%：Omni Ray AG（Dübendorf；CHE-105.959.689；1950；CHF 2.05M；20–49 人；MD Roger Müller；Moxa 分销）坐实；欧洲 ✔ 台湾工业品牌分销 ✔ 对位 ✔ → P 池候选；表内「智利」→ 瑞士 country_fix 待 Simon",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Omni Ray AG | Ihr Automationspartner | E-Shop | Top Preise — Omni Ray bietet innovative Lösungen, Produkte und einen E-Shop für Industrie- und Gebäudeautomation â von Netzwerktechnik, Steuerungs- und Antriebstechnik bis hin zu Sensorik, Elektromechanik und Mechanikkomponenten.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.omniray.ch:443/"
    }
   ],
   "proof_gaps": [
@@ -72,7 +82,43 @@
  },
  "deep": {
   "done_at": "2026-10-29",
-  "level": "邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓）",
-  "batch": "LT-T01"
+  "level": "邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T01",
+  "snapshot_at": "2026-10-29"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:36:11Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@omniray.ch",
+   "mrsmith@dynamicweb.com",
+   "mrssmith@dynamicweb.com"
+  ],
+  "phones": [
+   "+41 (0)44 802 28 80"
+  ],
+  "social": [
+   "https://www.facebook.com/pages/Omni-Ray-AG/143299605760802",
+   "https://www.linkedin.com/company/5893673?trk=vsrp_companies_cluster_name&trkInfo=VSRPsearchId%3A97313311460533796262%2CVSRPtargetId%3A5893673%2CVSRPcmpt%3Acompanies_cluster",
+   "https://www.youtube.com/channel/UCko1wbHBtjxkADlSDuPGO2Q"
+  ],
+  "models_on_site": [
+   "GOT2000",
+   "TTL-RS422-HTL",
+   "EN50155",
+   "IEC61850-3",
+   "CH-8600",
+   "EN50121-4",
+   "MR-J4",
+   "MR-J5"
+  ],
+  "url": "https://www.omniray.ch:443/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

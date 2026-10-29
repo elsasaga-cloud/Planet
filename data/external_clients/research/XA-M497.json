@@ -1,16 +1,17 @@
 {
  "code": "XA-M497",
  "name": "EQUIPAGES",
- "round": "W2-R05c",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（equipages.fr，快照 2026-10-29）：Equipages - Votre partenaire informatique de confiance",
  "summary": "系统集成商/MSP（Equipages，Voisins-le-Bretonneux；20–49 人，三地分支）；Marvell Prestera 接入层切入",
  "type_final": "系统集成商/MSP（Equipages，Voisins-le-Bretonneux；20–49 人，三地分支）",
  "size": "系统集成商/MSP（Equipages，Voisins-le-Bretonneux；20–49 人，三地分支）",
  "brands_seen": [
   "Perle Systems（工业 PoE 交换机",
   "媒体转换",
-  "串口设备联网）"
+  "串口设备联网）",
+  "Fortinet"
  ],
  "saga_line": "—",
  "fit": "",
@@ -28,12 +29,27 @@
    "quote": "",
    "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Equipages - Votre partenaire informatique de confiance",
+   "quote": "Depuis 10 ans, Equipages, prestataire informatique, accompagne et infogère les entreprises dans la gestion sécurisée de leur parc informatique.",
+   "url": "https://www.equipages.fr/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "contact@equipages.fr",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "commercial@equipages.fr",
+   "contact@equipages.fr",
+   "drh@equipages.fr",
+   "support@equipages.fr"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-09-28 群发「24 Port PoE Managed Switch」→ 已发未回",
  "saga_overlap": "无",
@@ -47,7 +63,13 @@
   "window": "",
   "when": "不动"
  },
- "notes": "本轮 web_search：equipages.fr「intégrateur système, réseau et sécurité」。 轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence。\n本轮 web_search：equipages.fr「intégrateur système, réseau et sécurité」。 轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:51:39Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

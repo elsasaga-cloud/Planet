@@ -1,9 +1,9 @@
 {
  "code": "XA-E025",
  "name": "Network Distributors",
- "round": "W1-R01",
- "researched_at": "2026-10-27",
- "alive": "活（网店 + LinkedIn 375 粉），2026-10-27",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（networkdistributors.com，快照 2026-10-29）：Network Distributors â Fibre Optic Cables and More",
  "summary": "圣何塞的兼容光模块专业分销商（1999/2001 起，12 人，$8–26M，PE Salt Creek 控股），为 50+ OEM 品牌做兼容光模块/线缆，近年加「open networking solutions」。10-21 发 sales@ 未回。",
  "type_final": "光模块/线缆专业分销商（开放网络延伸）",
  "size": "12 人；$8M（RocketReach）–$26M（Prospeo）",
@@ -43,6 +43,13 @@
    "quote": "",
    "url": "https://networkdistributors.com/hp_gbic.html",
    "date": "2026-10-27"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Network Distributors â Fibre Optic Cables and More",
+   "quote": "Network Distributors â Fibre Optic Cables and More",
+   "url": "https://networkdistributors.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
@@ -72,6 +79,12 @@
   "subject": "Switches to sell alongside your compatible optics",
   "body": "Hi Rick,\n\nI wrote on 21 October under \"24 Port PoE Managed Switch\"; this is a different angle, so a fresh note rather than a reply.\n\nSince ND ships compatible optics into 50+ OEM platforms, a neutral switch line that takes third-party optics without coding games may fit next to it: Marvell-based L2+ switches with 4 x 10G SFP+ uplinks for the campus side, and Centec-based L3 ToR (STH-2C24XF-HSI, 24 x 10G SFP+ + 2 x 100G, USD 1,500 EXW Shenzhen, snapshot 2026-10-27, valid 15 days) for the data-center side. Open SFP policy on all of them.\n\nHave you considered adding a switch line to the optics business, or do you prefer to stay optics-only?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "notes": "",
- "deep": false
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/evidence。\n",
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:43:10Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

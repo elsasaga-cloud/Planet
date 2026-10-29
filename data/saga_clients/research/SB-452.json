@@ -2,7 +2,7 @@
  "code": "SB-452",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（espuk.com：超时（站慢或封锁），2026-10-21，第 1 次）",
+ "website_status": "在线（espuk.com，快照 2026-10-29）：ESP | Trusted Fire & Security Products",
  "summary": "英国 ESP (Elite Security Products)（espuk.com / esp-uk.com：安防品牌（CCTV 套装、门禁、对讲），Scolmore 集团旗下；表内「用的 Folksafe 的产品」「可以多跟进一下」；KP Paul Panini（Director / Technical）；官网 timeout）；群发 12 次无回复。",
  "type": "安防品牌商（英国，PoE 现 Folksafe）",
  "size": "",
@@ -44,10 +44,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/deep/facts。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "company_facts": {
   "hq": "Unit 7 Target Park, Shawbank Road, Lakeside, Redditch B98 8YN",
@@ -129,6 +130,14 @@
     "quote": "Managed PoE Switches",
     "why": "本日去信真实主题（邮箱索引 4f1abec4563b0bac；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
     "k": "4f1abec4563b0bac"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "ESP | Trusted Fire & Security Products — Protect what matters with ESPs certified fire and security solutions. Discover CCTV, access control, alarms, and more for home and business use.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://espuk.com/"
    }
   ],
   "proof_gaps": [],
@@ -150,11 +159,38 @@
  "override_history": [],
  "snap_thicken": {
   "consumed": [
-   "2026-10-21T09:41:31Z"
+   "2026-10-21T09:41:31Z",
+   "2026-10-29T15:33:21Z"
   ],
   "fails": [
    "2026-10-21"
   ],
-  "batch": "LT-T03"
+  "batch": "LT-T03",
+  "last_ok": "2026-10-29"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [
+   "+44 (0) 1527 515 150"
+  ],
+  "social": [
+   "https://www.facebook.com/espltduk?type=web",
+   "https://www.linkedin.com/company/espuk/?type=web",
+   "https://www.youtube.com/c/ESPUK2011",
+   "https://x.com/esp_uk?type=web"
+  ],
+  "models_on_site": [
+   "CAB-10",
+   "CAB-20",
+   "CAB-40",
+   "CAB-80",
+   "CABIP10",
+   "CABIP20",
+   "CABIP40",
+   "BS5839-1"
+  ],
+  "url": "https://espuk.com/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

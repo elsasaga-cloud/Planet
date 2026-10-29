@@ -1,4 +1,4 @@
-# SB-248 nellyssecurity.com · home · https://nellyssecurity.com/ · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-248 nellyssecurity.com · home · https://nellyssecurity.com/ · fetched 2026-10-29T15:11:51Z · HTTP 200
 Nelly's Security | CCTV, Access Control, and Intrusion Alarms
 Skip to content
 855-340-9999 / 9AM - 5PM CST / Monday - Friday
@@ -318,13 +318,6 @@ $739.00
 Unit price
 /
 per
-UNV 5MP HD Wide Angle 180° Field of View NDAA Compliant Weatherproof IR Fixed Turret IP Security Camera with Deep Learning AI (IPC3605SB-ADF16KM-I0)
-Translation missing: en.products.product.sku: SKU# 3600
-Vendor:
-Uniview
-UNV 5MP HD Wide Angle 180° Field of View NDAA Compliant Weatherproof IR Fixed Turret IP Security Camera with Deep Learning AI (IPC3605SB-ADF16KM-I0)
-Regular price
-$719.00
 L-Series 4K Ultra HD Weatherproof Active Deterrence 24/7 Color Turret IP Security Camera with a 2.8mm Fixed Lens and Built-in Mic and Speaker (L8T-DT)
 Translation missing: en.products.product.sku: SKU# 3926
 Vendor:
@@ -339,6 +332,13 @@ $219.99
 Unit price
 /
 per
+UNV 5MP HD Wide Angle 180° Field of View NDAA Compliant Weatherproof IR Fixed Turret IP Security Camera with Deep Learning AI (IPC3605SB-ADF16KM-I0)
+Translation missing: en.products.product.sku: SKU# 3600
+Vendor:
+Uniview
+UNV 5MP HD Wide Angle 180° Field of View NDAA Compliant Weatherproof IR Fixed Turret IP Security Camera with Deep Learning AI (IPC3605SB-ADF16KM-I0)
+Regular price
+$719.00
 UNV 4K Tri-Guard NDAA-Compliant Weatherproof Turret IP Security Camera 2.8mm Fixed Lens with Deep Learning AI, Active Deterrence, and 24/7 Color Illumination (IPC3618SB-ADF28KMC-I0)
 Translation missing: en.products.product.sku: SKU# 3603
 Vendor:
@@ -406,4 +406,97 @@ UNV 5MP LightHunter Weatherproof HD Turret TVI/AHD/CVI/CVBS Analog Security Came
 Translation missing: en.products.product.sku: SKU# 3709
 Vendor:
 Uniview
-UNV 5MP LightHunter Weatherproof HD Turret TVI/A
+UNV 5MP LightHunter Weatherproof HD Turret TVI/AHD/CVI/CVBS Analog Security Camera with a 2.8mm Fixed Lens (UAC-T125-AF28M)
+Regular price
+$169.00
+UNV 12MP 4K Ultra HD Panoramic IR Fisheye Security Camera (IPC86CEB-AF18KC-I0)
+Translation missing: en.products.product.sku: SKU# 3604
+Vendor:
+Uniview
+UNV 12MP 4K Ultra HD Panoramic IR Fisheye Security Camera (IPC86CEB-AF18KC-I0)
+Regular price
+$2,349.00
+UNV 5MP Tri-Guard NDAA-Compliant Mini PTZ Dome IP Security Camera Dual-light with Active Deterrence, Deep Learning AI, 24/7 Color Illumination, 5X Zoom Lens, and Autotracking (IPC6325LFW-AX5C-VG)
+Translation missing: en.products.product.sku: SKU# 3843
+Vendor:
+Uniview
+UNV 5MP Tri-Guard NDAA-Compliant Mini PTZ Dome IP Security Camera Dual-light with Active Deterrence, Deep Learning AI, 24/7 Color Illumination, 5X Zoom Lens, and Autotracking (IPC6325LFW-AX5C-VG)
+Regular price
+$1,009.00
+L-Series 4K Wide Angle 226° FOV Panoramic NDAA Compliant Weatherproof Turret IP Security Camera with 24/7 Color, Active Deterrence, AI-Powered Smart Events, IR Lights, Built-in Mic (L8T-WIDE)
+Translation missing: en.products.product.sku: SKU# 3983
+Vendor:
+L-Series
+L-Series 4K Wide Angle 226° FOV Panoramic NDAA Compliant Weatherproof Turret IP Security Camera with 24/7 Color, Active Deterrence, AI-Powered Smart Events, IR Lights, Built-in Mic (L8T-WIDE)
+Regular price
+$334.99
+Sale price
+$334.99
+Regular price
+$344.99
+Unit price
+/
+per
+Uniarch by Uniview FullHD 1080p 2MP Weatherproof Turret IP Security Camera with a 2.8mm Fixed Lens (IPC-T122-APF28)
+Translation missing: en.products.product.sku: SKU# 3497
+Vendor:
+Uniarch
+Uniarch by Uniview FullHD 1080p 2MP Weatherproof Turret IP Security Camera with a 2.8mm Fixed Lens (IPC-T122-APF28)
+Regular price
+$125.00
+Sale price
+$125.00
+Regular price
+Unit price
+/
+per
+Guard Series 8MP 4K UltraHD Weatherproof Vandal Dome IP Security Camera with a 2.8mm Fixed Lens and a Built-In Microphone (H1D-8F28)
+Translation missing: en.products.product.sku: SKU# 3494NB
+Vendor:
+Guard Series
+Guard Series 8MP 4K UltraHD Weatherproof Vandal Dome IP Security Camera with a 2.8mm Fixed Lens and a Built-In Microphone (H1D-8F28)
+Regular price
+$529.00
+Guard Series 4MP NDAA-Compliant Weatherproof Turret IP Security Camera 2.8mm Fixed Lens w/ Built-in Mic (E1T-4F28)
+Translation missing: en.products.product.sku: SKU# 3791NB
+Vendor:
+Guard Series
+Guard Series 4MP NDAA-Compliant Weatherproof Turret IP Security Camera 2.8mm Fixed Lens w/ Built-in Mic (E1T-4F28)
+Regular price
+$299.00
+Guard Series 4MP Wise-ISP 24/7 Color Turret IP Security Camera with a 2.8mm Fixed Lens (O1T-4F28)
+Translation missing: en.products.product.sku: SKU# 3830NB
+Vendor:
+Guard Series
+Guard Series 4MP Wise-ISP 24/7 Color Turret IP Security Camera with a 2.8mm Fixed Lens (O1T-4F28)
+Regular price
+$419.00
+Sale price
+$419.00
+Regular price
+$519.00
+Unit price
+/
+per
+UNV 4MP Easystar Weatherproof Bullet IP Security Camera with a 2.8mm Fixed Lens and a Built-In Mic (IPC2124SR-ADF28KM-H)
+Translation missing: en.products.product.sku: SKU# 3459
+Vendor:
+Uniview
+UNV 4MP Easystar Weatherproof Bullet IP Security Camera with a 2.8mm Fixed Lens and a Built-In Mic (IPC2124SR-ADF28KM-H)
+Regular price
+$399.00
+UNV 4MP Tri-Guard NDAA-Compliant Weatherproof Turret IP Security Camera 2.8mm Fixed Lens with Deep Learning AI, Active Deterrence, and 24/7 Color Illumination (IPC3614SB-ADF28KMC-I0)
+Translation missing: en.products.product.sku: SKU# 3452
+Vendor:
+Uniview
+UNV 4MP Tri-Guard NDAA-Compliant Weatherproof Turret IP Security Camera 2.8mm Fixed Lens with Deep Learning AI, Active Deterrence, and 24/7 Color Illumination (IPC3614SB-ADF28KMC-I0)
+Regular price
+$569.00
+UNV 4MP Dual Lens, Dual Channel Non-Splicing IP Vandal Dome, 2 Lenses, NDAA, Deep Learning, Lighthunter (IPC3224SS-ADF28K-I1)
+Translation missing: en.products.product.sku: SKU# 3722
+Vendor:
+Uniview
+UNV 4MP Dual Lens, Dual Channel Non-Splicing IP Vandal Dome, 2 Lenses, NDAA, Deep Learning, Lighthunter (IPC3224SS-ADF28K-I1)
+Regular price
+$1,249.00
+OwlView 4MP Wise-ISP Bullet IP Security Camera wit

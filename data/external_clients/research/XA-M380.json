@@ -1,9 +1,9 @@
 {
  "code": "XA-M380",
  "name": "EDV-Beratung u Dienstleistungen Berg-Duda",
- "round": "W1-R03",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（berg-duda.de，快照 2026-10-29）：EDV Beratung & Dienstleistungen Berg-Duda |",
  "summary": "IT 系统之家（Bergneustadt）；Marvell Prestera 接入层切入",
  "type_final": "IT 系统之家（Bergneustadt）",
  "size": "未量化",
@@ -26,12 +26,24 @@
    "quote": "",
    "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
    "date": "2026-10-03"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；EDV Beratung & Dienstleistungen Berg-Duda |",
+   "quote": "EDV Beratung & Dienstleistungen Berg-Duda |",
+   "url": "https://berg-duda.de/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@berg-duda.de",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "info@berg-duda.de"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-03 群发「24 Port PoE Managed Switch」→ 已发未回",
  "saga_overlap": "无",
@@ -45,7 +57,13 @@
   "window": "",
   "when": "不动"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:49:12Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

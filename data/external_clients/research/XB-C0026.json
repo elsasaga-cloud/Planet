@@ -1,14 +1,16 @@
 {
  "code": "XB-C0026",
  "name": "PANACO（胡志明市）",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 panaco.vn MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（panaco.vn，快照 2026-10-29）：PANACO | Đơn Vị Phân Phối Và Lắp Đặt Thiết Bị An Ninh Uy Tín",
  "summary": "PANACO（胡志明市）（越南）：ONV PoE交换机；地址=32/39 Bùi Đình Túy, Bình Thạnh, HCM；开发策略=ONV品牌越南渠道；置信度=★★★★☆",
  "type_final": "ONV PoE交换机",
  "size": "",
  "brands_seen": [
-  "ONV"
+  "ONV",
+  "Hikvision",
+  "Dahua"
  ],
  "saga_line": "STC 项目集成款（25% 档：STC-2216GP / STC-228GP）",
  "fit": "",
@@ -26,12 +28,24 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；PANACO | Đơn Vị Phân Phối Và Lắp Đặt Thiết Bị An Ninh Uy Tín",
+   "quote": "PANACO là đơn vị phân phối và cung cấp giải pháp lắp đặt các thiết bị an ninh chính hãng. Dịch vụ tận tâm, giá cả cạnh tranh, freeship TPHCM.",
+   "url": "https://panaco.vn/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@panaco.vn",
   "email_status": "活（来源库 9 月核对）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "info@panaco.vn"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -47,5 +61,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:52:16Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGPM-280W",
+  "why": "官网快照对位：PoE 词频 156、监控 1477 → 24 口 PoE L2+ 走量款",
+  "date": "2026-10-29"
+ }
 }

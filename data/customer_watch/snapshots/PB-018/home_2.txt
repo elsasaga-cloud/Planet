@@ -1,0 +1,350 @@
+# PB-018 Power Biztonságtechnikai Kereskedelmi Kft. · home_2 · https://techson.hu/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+Főoldal - Techson
+0 || parent > 0"
+x-transition:enter-start="-translate-x-full xl:translate-x-0"
+x-transition:enter-end="translate-x-0"
+x-transition:leave-start="translate-x-0"
+x-transition:leave-end="-translate-x-full xl:translate-x-0"
+x-on:click.away="reset"
+>
+Menu
+Főoldal
+Termékek
+Kamerák
+Analog
+SmartStart
+SmartView
+SmartPro
+Rögzítők
+SmartSpeed Analog HD
+SmartSpeed IP
+Videómenedzsment
+Szoftverek
+Célhardverek
+Kaputelefonok
+IP kaputelefon kültéri
+IP kaputelefon beltéri
+Kaputelefon kiegészítők
+Switchek
+Kamera konzolok
+Kiegészítők
+Megoldások
+VMS funkciók
+Kamera funkciók
+Rögzítő funkciók
+Hírek
+Videók
+Rólunk
+Referenciák
+HU
+EN
+{
+if (val) {
+$nextTick(() => {
+$refs.input.focus();
+})
+}
+})"
+>
+= 3) { $wire.call('search') }"
+>
+{
+if (!value) {
+window.livewire.find('tPNtssLHWT9rpxefO9nw').call('resetSearch')
+}
+$dispatch('force:toggle', { toggle });
+})"
+x-on:click.away="setClosed, toggle = false"
+x-show="toggle"
+x-transition
+x-cloak
+>
+HU
+EN
+{
+document.addEventListener('DOMContentLoaded', () => {
+if (window.innerWidth
+{
+document.addEventListener('DOMContentLoaded', () => {
+if (window.innerWidth
+Techson® kameraszériák
+A Techson kamerakínálatában változatos termékekkel találkozhatsz az analóg termékektől egészen az IP-kamerákig. A termékek tudásszintjük szerint több csoportba sorolhatóak. Az Analog szériában az analóg termékek találhatóak, a SmartStart család a belépő szintű IP-kamerákat tartalmazza, a SmartView szériában a közép/felsőkategóriás IP-kamerák, míg a SmartPro termékek között a professzionális, egyedi feladatok megoldására alkalmas IP-kamerák kaptak helyet.
+Bővebben itt olvashatsz
+Láss többet, láss tisztán
+A Techson dual lencsés hőkamerák számos különböző helyzetben és helyszínen lehetnek segítségünkre. Remek választás lehet területvédelemi, tűzérzékelési és hőmérsékletmérési feladatokra.
+Tudj meg többet
+Stílus és elegancia a videotechnikában
+A Techson antracit színű kamerái a kiváló képminőségen túl eleganciát hoznak magukkal a megfigyelt területre. Remek választás a sötétes, szürkés telepítési környezetekben, hogy megfelelően illeszkedjen a dizájnhoz.
+Nézd meg a termékeket
+SmartCenter
+A Techson SmartCenter minden igényt kielégítő, ugyanakkor egyszerűen beállítható és kezelhető megoldást kínál az otthoni vagy kisebb irodák megfigyelőrendszereinek és a több ezres kameraszámú központi távfelügyeleteknek egyaránt.
+A SmartCenter a megszokott és egy VMS szoftvertől elvárható tulajdonságokat, valamint számos innovatív és a használatot megkönnyítő funkciót tartalmaz.
+Tudj meg többet
+Professzionális rögzítők
+A rögzítők kapják meg és dolgozzák fel a kamerákból beérkező képeket. A legtöbb digitális funkció a megfelelő rögzítő kiválasztásával válik elérhetővé. Egyes rögzítők akár képesek a rendszert analitikai funkciókkal ellátni akkor is, ha a kamerák maguk nem támogatják ezt. A Techson palettájában IP és analóg rögzítők egyaránt megtalálhatóak. 4 csatornás eszközöktől egészen 128 csatornáig, illetve 1 HDD-től befogadásától kezdve akár 16 HDD-ig. A lakossági felasználástól kezdve, irodai biztonsági rendszereken át, akár ipari létesítmények biztosításáig minden felhasználó megtalálhatja a számára megfelelő eszközt rögzítőink között.
+Találd meg a neked valót!
+SmartView kameraszéria
+A legsokoldalúbb megoldást a Techson SmartView kameraszéria kínálja. Széles felhasználási kört tesz lehetővé ez az erős hardverrel szerelt, töretlenül fejlődő kameracsalád. Kiemelkedő optikai tulajdonságokkal rendelkezik, és az alakfelismerésen alapuló, intelligens funkciókon túl, akár személyszámlálást és arcfelismerést is megvalósíthatunk vele.
+Méltán állíthatjuk, hogy aki SmartView kamerával épít megfigyelőrendszert, a legjobb ár-érték arányú készüléket választotta.
+Fedezd fel a SmartView szériát
+Beléptetés biztonságosan
+Arcfelismerés, lázdetektálás, riasztás, bármilyen környezetben megállja a helyét.
+Ismerd meg a megoldást
+Auto-track PTZ
+Sose veszítsd szem elől a fontos dolgokat: legyen az ember, állat, tárgy, incidens, kövesd automatikusan és biztosítsd a helyszínt!
+Auto-track PTZ kameráink
+')"
+>
+Techson® kameraszériák
+76"
+class="hero__slider__content"
+:class="{ 'is-open': isOpen }"
+>
+A Techson kamerakínálatában változatos termékekkel találkozhatsz az analóg termékektől egészen az IP-kamerákig. A termékek tudásszintjük szerint több csoportba sorolhatóak. Az Analog szériában az analóg termékek találhatóak, a SmartStart család a belépő szintű IP-kamerákat tartalmazza, a SmartView szériában a közép/felsőkategóriás IP-kamerák, míg a SmartPro termékek között a professzionális, egyedi feladatok megoldására alkalmas IP-kamerák kaptak helyet.
+Bővebben itt olvashatsz
+Láss többet, láss tisztán
+76"
+class="hero__slider__content"
+:class="{ 'is-open': isOpen }"
+>
+A Techson dual lencsés hőkamerák számos különböző helyzetben és helyszínen lehetnek segítségünkre. Remek választás lehet területvédelemi, tűzérzékelési és hőmérsékletmérési feladatokra.
+Tudj meg többet
+Stílus és elegancia a videotechnikában
+76"
+class="hero__slider__content"
+:class="{ 'is-open': isOpen }"
+>
+A Techson antracit színű kamerái a kiváló képminőségen túl eleganciát hoznak magukkal a megfigyelt területre. Remek választás a sötétes, szürkés telepítési környezetekben, hogy megfelelően illeszkedjen a dizájnhoz.
+Nézd meg a termékeket
+SmartCenter
+76"
+class="hero__slider__content"
+:class="{ 'is-open': isOpen }"
+>
+A Techson SmartCenter minden igényt kielégítő, ugyanakkor egyszerűen beállítható és kezelhető megoldást kínál az otthoni vagy kisebb irodák megfigyelőrendszereinek és a több ezres kameraszámú központi távfelügyeleteknek egyaránt.
+A SmartCenter a megszokott és egy VMS szoftvertől elvárható tulajdonságokat, valamint számos innovatív és a használatot megkönnyítő funkciót tartalmaz.
+Tudj meg többet
+Professzionális rögzítők
+76"
+class="hero__slider__content"
+:class="{ 'is-open': isOpen }"
+>
+A rögzítők kapják meg és dolgozzák fel a kamerákból beérkező képeket. A legtöbb digitális funkció a megfelelő rögzítő kiválasztásával válik elérhetővé. Egyes rögzítők akár képesek a rendszert analitikai funkciókkal ellátni akkor is, ha a kamerák maguk nem támogatják ezt. A Techson palettájában IP és analóg rögzítők egyaránt megtalálhatóak. 4 csatornás eszközöktől egészen 128 csatornáig, illetve 1 HDD-től befogadásától kezdve akár 16 HDD-ig. A lakossági felasználástól kezdve, irodai biztonsági rendszereken át, akár ipari létesítmények biztosításáig minden felhasználó megtalálhatja a számára megfelelő eszközt rögzítőink között.
+Találd meg a neked valót!
+SmartView kameraszéria
+76"
+class="hero__slider__content"
+:class="{ 'is-open': isOpen }"
+>
+A legsokoldalúbb megoldást a Techson SmartView kameraszéria kínálja. Széles felhasználási kört tesz lehetővé ez az erős hardverrel szerelt, töretlenül fejlődő kameracsalád. Kiemelkedő optikai tulajdonságokkal rendelkezik, és az alakfelismerésen alapuló, intelligens funkciókon túl, akár személyszámlálást és arcfelismerést is megvalósíthatunk vele.
+Méltán állíthatjuk, hogy aki SmartView kamerával épít megfigyelőrendszert, a legjobb ár-érték arányú készüléket választotta.
+Fedezd fel a SmartView szériát
+Beléptetés biztonságosan
+76"
+class="hero__slider__content"
+:class="{ 'is-open': isOpen }"
+>
+Arcfelismerés, lázdetektálás, riasztás, bármilyen környezetben megállja a helyét.
+Ismerd meg a megoldást
+Auto-track PTZ
+76"
+class="hero__slider__content"
+:class="{ 'is-open': isOpen }"
+>
+Sose veszítsd szem elől a fontos dolgokat: legyen az ember, állat, tárgy, incidens, kövesd automatikusan és biztosítsd a helyszínt!
+Auto-track PTZ kameráink
+')"
+>
+Termék kategóriák
+Összes
+Switchek
+Kamerák
+Beléptető terminálok
+Videórögzítők
+Konzolok
+Kaputelefon kiegészítők
+Kiegészítők
+VMS
+Kaputelefon moduláris egységek
+IP kaputelefon kültéri
+IP kaputelefon beltéri
+')"
+>
+Összes
+Brand Story
+Magyarország egyik meghatározó professzionális CCTV márkája, mely 2005 óta van jelen a piacon.
+Életútját az analóg rendszerek világában kezdte meg, ahol villámgyors sikert aratott a telepítők körében, köszönhetően az eszközei képminőségének és megbízhatóságának.
+A sikeres kezdés hamar népszerűvé tette a márkát , ami a folyamatos technológiai újításoknak köszönhetően mindmáig a CCTV rendszerek piacának élvonalába tartozik. Termékei között ma is megtalálhatók az analóg HD-rendszerű kamerák és rögzítők, de lépést tartva a technológia fejlődésével, tudása az IP-alapú megfigyelőrendszerek világában teljesedik ki igazán.
+A Techson eszközei stabil működést biztosítanak , ugyanakkor a hálózat adta lehetőségeket kihasználva folyamatos fejlesztéseken mennek keresztül, így biztosítva mindig a naprakész állapotot, a biztonságot és az értékállóságot. A márka professzionalitását tükrözi, hogy V ideo M anagement S oftware-rel és az ezt futtató célhardverekkel is rendelkezik, a rendszerek könnyebb áttekinthetősége és menedzselése végett. A kamerákon és rögzítőkön túlmenően a Techson hálózati és speciális jeltovábbító eszközökkel is támogatja a CCTV rendszerek teljes körű kiépítését.
+0}"
+>
+2003
+Gyártópartnerek felkutatása a koreai és tajvani régióban
+2004
+CCTV tesztelőlabor felállítása
+2005
+Techson márka hivatalos megszületése
+2007
+Már 12 gyártó Partner képezi a Techson® hátterét
+2010
+Több mint 20 Partner alkotja a Techson® analóg CCTV termékek beszállítói rétegét
+2012
+Megkezdődik a CCTV tápegységek fejlesztése és bővül a viszonteladói kör
+2018
+Stratégiai együttműködés magasan kvalifikált gyártókkal és saját logisztikai megoldások
+2020
+Magasan képzett sales és műszaki támogatási rendszer indul, megjelennek az AI funkciók
+2021
+Termikus kameraszenzor és kifinomult mesterséges intelligencia funkció a fedélzeten
+2022
+Megújult a Techson® arculata, tovább törünk a jövő technológiái felé
+')"
+x-bind:disabled="index === 10 - 2"
+>
+Megoldások
+VMS funkciók
+A funkció leírásért kattints!
+Kamera funkciók
+A funkció leírásért kattints!
+Rögzítő funkciók
+A funkció leírásért kattints!
+referenciák
+Kategória
+Összes
+Iroda és Bemutatóterem
+Élelmiszergyártás és Agráripar
+Településvédelem
+Magas kockázatú publikus helyek
+Ipar és Gyár
+Összes
+Iroda és Bemutatóterem
+Élelmiszergyártás és Agráripar
+Településvédelem
+Magas kockázatú publikus helyek
+Ipar és Gyár
+Lexus márkakereskedés és szerviz
+A Reálszisztéma Kft. telephelyeit a Techson biztosítja.
+Toyota autószalon
+A Reálszisztéma Kft. telephelyeit a Techson biztosítja.
+Master Good Agrár- és élelmiszeripari cég
+Master Good | Minőség és hagyomány. A Master Good Kft. integrált takarmány-termeltetéssel, baromfitenyésztéssel, keltetéssel, brojlerhízlalással és feldolgozással foglalkozik.
+Várpalota közterület-felügyelet
+Várpalota közterület-felügyeletének munkáját a Techson kamerái segítik a mindennapokban.
+MAZSIHISZ épületvédelem
+A Techson termékek 15 éve jelentik a megbízható működés és a költséghatékony beruházás szimbólumát. A termékek együtt fejlődtek felhasználói igényeinkkel, így nagyvállalati szinten is lépést tudunk ...
+Schwarzmüller gyár és logisztikai központ
+A Schwarzmüller Kft. 1990 óta gyárt, értékesít és javít haszonjárműveket, valamint alkatrészeket és használt járműveket értékesít. A gyár az M0 autópálya dunaharaszti kijárata mellett a ...
+Magyar Doka Zsalutechnika Kft.
+A Magyar Doka Kft. az osztrák székhelyű Umdasch Group tagja, amely világszerte 150 éve kínál innovatív zsaluzási és állványozási megoldásokat. 1991 óta támogatja a hazai építőipari projekt-specifikus mérnöki tervezéssel, ...
+Forrás SportPark
+A sportparkban több sportág számára épültek pályák: mountainbike, futás, sízés, tenisz, tollas és padel. Az ingyenesen igénybevehető sportkomplexus biztonságáról a Techson kamerák több mint 15 éves megbízható, magas minőségű ...
+BMW Budapest Motors
+A BMW Budapest Motors modern autószalonja és szervizközpontja kiemelt figyelmet fordít a prémium ügyfélélményre és a biztonságra. A létesítmény megbízható működését és vagyonvédelmét a Techson professzionális biztonságtechnikai me
+Összes referencia
+{
+if(!open) video = null
+})"
+x-on:reference:video.window="($event) => {
+video = $event.detail.video;
+title = $event.detail.title;
+}"
+x-on:click.away="setClosed"
+>
+{
+if(!open) image = null
+})"
+x-on:reference:image.window="($event) => {
+image = $event.detail.image;
+title = $event.detail.title;
+}"
+x-on:click.away="setClosed"
+>
+Hírek/Cikkek
+')"
+class="disabled:opacity-20 duration-300"
+>
+Összes cikk
+A Digitális Kidobó ember – Így védi meg a hálózatot a Techson Switch és a 802.1X szabvány
+Mit ér a legdrágább tűzfal, ha a parkolóban lógó kamerakábelre bárki rádughatja a laptopját és máris bent van a belső hálózaton? A legtöbb rendszer ezen a ponton elvérzik. De nem akkor, ha a Techson Switch "Kidobó ember" üzemmódba kapcsol. Ha érdekel a megoldás olvass tovább!
+Elolvasom
+2026. 04. 21.
+(Olvasatlan)
+Zöld lakat a Techson kamera felett – HTTPS tanúsítványkezelés házon belül
+Ismerős a helyzet? Belépsz a vadiúj IP kamerád webes felületére, és a böngésződ címsorában egy nagy, piros, „Nem biztonságos” felirat fogad. Ez zavaró tud lenni, ha http kapcsolatot használsz az meg biztonsági kockázat lehet. De hogyan varázsoljunk oda egy zöld lakatot anélkül, hogy drága, publikus tanúsítványokat vásárolnánk? Bemutatjuk a saját „tanúsítványgyár” (Local CA) felépítését egyszerűen. Lapozz tovább, ha érdekel a téma!
+Elolvasom
+2026. 04. 13.
+(Olvasatlan)
+Amikor a Kapuőrből Parkolóőr lesz – Hogyan turbózzuk fel a Techson LPR kamerát egyedi zónafigyeléssel?
+Korábbi cikkünkben bemutattuk, hogyan válnak a Techson LPR kamerák a beléptetés megbízható kapuőreivé. De mi történik a sorompón túl? Mi van, ha nem csak az a kérdés, hogy bemehet-e az autó, hanem az is, hogy hova áll? Ebben a cikkben megmutatjuk, hogyan lehet a Techson kamerák metaadatait és a Node-RED-et segítségül hívva egy filléres, de profi parkoló-felügyeleti rendszert építeni – 2 vagy akár 5 zónás figyeléssel! Ha érdekel a megoldás olvass tovább!
+Elolvasom
+2026. 03. 19.
+(Olvasatlan)
+')"
+class="disabled:opacity-20 duration-300"
+>
+Összes cikk
+')"
+>
+Termékeink
+Legújabb termékek
+')"
+wire:ignore
+>
+Smartpro
+Techson TCI MA2 F112 I ADM 12 Mpx-es IP kamera
+Techson SmartPro IP kamera.
+12 Mpx-es, kültéri fisheye, 1,65 mm fisheye 360° objektív, VCA , objektumazonosítás, beépített mikrofon , microSD, PoE
+Megnézem
+Techson TCA EB3 C005 I50 A -2.8 GRAY 5 Mpx-es Analóg HD kamera
+Techson Analóg HD kamera.
+5 Mpx-es, kültéri csőkamera, 2,8 mm fix objektív, videomód átkapcsolás: Nyomógomb
+Megnézem
+Techson TCA EB3 C905 I A -2.8 5 Mpx-es Analóg HD kamera
+Techson Analóg HD kamera.
+5 Mpx-es, kültéri csőkamera, 2,8 mm fix objektív, videomód átkapcsolás: Nyomógomb
+Megnézem
+Techson TCA EB3 E005 I A -2.8 5 Mpx-es Analóg HD kamera
+Techson Analóg HD kamera.
+5 Mpx-es, kültéri eyeball, 2,8 mm fix objektív, videomód átkapcsolás: Nyomógomb
+Megnézem
+Techson TCA EB3 E105 I50 Z4 5 Mpx-es Analóg HD kamera
+Techson Analóg HD kamera.
+5 Mpx-es, kültéri eyeball, 2,8 - 12 mm varifokális objektív, 4x motoros zoom , videomód átkapcsolás: Nyomógomb
+Megnézem
+Techson BKTDB1A konzol
+Techson BKTDB1A felületszerelt konzol
+Megnézem
+')"
+>
+{
+$watch('visible', (val) => {
+if (!val) open = false;
+})
+}"
+>
+{
+image = $event.details.image
+alt = $event.details.alt
+}"
+>
+Iratkozz fel a Techson legfrissebb híreire és frissítéseire!
+Feliratkozás
+Feliratkozásommal hozzájárulok, hogy a Power Kft. számomra direkt marketing üzeneteket küldjön és kijelentem, hogy elolvastam és tudomásul vettem az Adatkezelési tájékoztatóban írtakat.
+©2026 Techson
+Elérhetőség
+Impresszum
+Adatvédelem
+A weboldal sütiket (cookiet) használ az alapvető működés, valamint a jobb felhasználói élmény elérése érdekében.
+Az oldal használatával elfogadja a sütikkel kapcsolatos irányelveket valamint az adatvédelmi tájékoztatóban foglaltakat. Süti tájékoztató
+Elfogadom
+{
+window.scrollY > 250 ? visible = true : visible = false;
+}"
+x-on:scroll.window="() => {
+let bottom = document.body.clientHeight - window.scrollY - window.innerHeight;
+window.scrollY > 250 ? visible = true : visible = false;
+}"
+x-show.transitation="visible"
+href="#to-top"
+x-ref="scrollTop"
+class="fixed z-50 duration-300 text-primary-light hover:text-white hover:bg-primary rounded-full bottom-5 right-

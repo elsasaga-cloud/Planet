@@ -1,9 +1,9 @@
 {
  "code": "XA-E021",
  "name": "ASA Computers",
- "round": "W1-R01",
- "researched_at": "2026-10-27",
- "alive": "活（官网 2026，CRN SP500 2024，ISC West 2025 发布）",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（asacomputers.com，快照 2026-10-29）：Custom IT Infrastructure From Servers to Storage | ASA Computers",
  "summary": "Fremont 1989 年起的定制服务器/机柜集成商 + OEM 代工（51–200 人，ISO 9001，9.3 万平方英尺自有厂房），做 AI/HPC/云机柜，开放网络（Cumulus）组合，Racklive 是其系统部门。10-21 发 rchen@ 被拦截。",
  "type_final": "服务器/机柜集成商 + OEM 代工（开放网络组合）",
  "size": "51–200 人；自有 93K ft² 厂房",
@@ -11,7 +11,8 @@
   "Supermicro",
   "Intel/AMD",
   "Cumulus/开放网络",
-  "Edgecore（官方 SI 名录）"
+  "Edgecore（官方 SI 名录）",
+  "Cisco"
  ],
  "saga_line": "CENTEC + SmartByte（OEM 整机柜配套）",
  "fit": "机柜交付要配 ToR 与管理网交换机，且他们本身做 OEM，接受白牌；10-21 那封被拦截等于没到",
@@ -43,6 +44,13 @@
    "quote": "",
    "url": "External Clients/Edgecore/A/XA-E021",
    "date": "2026-10-24"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Custom IT Infrastructure From Servers to Storage | ASA Computers",
+   "quote": "ASA Computers delivers custom AI, HPC, cloud, and data center infrastructure solutions including GPU servers, storage, networking, and rack integration services.",
+   "url": "https://www.asacomputers.com/home.php",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
@@ -59,7 +67,19 @@
     "role": "Founder & CEO",
     "source": "官网 Leadership"
    }
-  ]
+  ],
+  "page_emails": [
+   "cs1@asacomputers.com",
+   "info@asacomputers.com",
+   "sales@asacomputers.com",
+   "tech1@asacomputers.com"
+  ],
+  "page_phones": [
+   "+1 (650) 230-8000",
+   "+1 (650) 230-8050",
+   "+1 (800) 732-5727"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-21 发 rchen@ → 被拦截（未到）",
  "saga_overlap": "无",
@@ -77,6 +97,17 @@
   "subject": "ToR and management switches for your rack builds, under ASA label",
   "body": "Hi Robert,\n\nA note sent to you last week bounced, so I am trying the sales desk.\n\nASA integrates racks and does OEM manufacturing; we build the switches that go into such racks and ship them under the integrator's label: Centec-based L3 ToR (e.g. STH-2C24XF-HSI, 24 x 10G SFP+ + 2 x 100G, BGP/VXLAN, dual PSU, USD 1,500 EXW Shenzhen, snapshot 2026-10-27, valid 15 days) and Marvell-based 1G/10G management switches. No MOQ, your UI and part numbers, FCC/CE, 12-month warranty.\n\nWho on your side owns switch sourcing for rack projects - would it make sense to send the ToR datasheets to them directly?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "notes": "一封一问：问对接人。",
- "deep": false
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\n一封一问：问对接人。",
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:43:10Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGM",
+  "why": "官网快照对位：10G/2.5G 词频 44、交换机 303 → 24 GE + 4×10G L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

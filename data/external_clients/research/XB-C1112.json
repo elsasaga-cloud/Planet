@@ -1,9 +1,9 @@
 {
  "code": "XB-C1112",
  "name": "Geutebrück GmbH",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 geutebrueck.com MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（geutebrueck.com，快照 2026-10-29）：Geutebrück Video-Management solutions",
  "summary": "Geutebrück GmbH（德国）：55+年视频安防VMS制造商(net_porter NVR+PoE交换机)",
  "type_final": "55+年视频安防VMS制造商(net_porter NVR+PoE交换机)",
  "size": "",
@@ -23,6 +23,13 @@
    "claim": "桌面复核（来源库核对 + 研究卡）：A类 — 55+年视频安防VMS制造商(net_porter NVR+PoE交换机)；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（主区 / 欧洲）",
    "quote": "",
    "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Geutebrück Video-Management solutions",
+   "quote": "Geutebrück provides tailor-made video management solutions for logistics process documentation and optimization, and for video security. Learn more!",
+   "url": "https://www.geutebrueck.com/",
    "date": "2026-10-29"
   }
  ],
@@ -45,5 +52,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:53:16Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGPM-280W",
+  "why": "官网快照对位：PoE 词频 1、监控 42 → 24 口 PoE L2+ 走量款",
+  "date": "2026-10-29"
+ }
 }

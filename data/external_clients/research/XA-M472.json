@@ -1,14 +1,17 @@
 {
  "code": "XA-M472",
  "name": "Kappa Data Belgium",
- "round": "W2-R05a",
- "researched_at": "2026-10-27",
- "alive": "本轮 web_search 复核在线（2026-10-27）",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（kappadata.be，快照 2026-10-29）：Kappa Data | Value-Added Distributor voor Networking, Security en IoT",
  "summary": "泛欧增值分销 VAD（Kappa Data，De Pinte 总部；1998 起，约 100 人，比/荷/法/波四国；网络连接、安全、IoT）；Marvell Prestera 接入层切入",
  "type_final": "泛欧增值分销 VAD（Kappa Data，De Pinte 总部；1998 起，约 100 人，比/荷/法/波四国；网络连接、安全、IoT）",
  "size": "泛欧增值分销 VAD（Kappa Data，De Pinte 总部；1998 起，约 100 人，比/荷/法/波四国；网络连接、安全、IoT）",
  "brands_seen": [
-  "Allied Telesis（Marvell Prestera 接入层）"
+  "Allied Telesis（Marvell Prestera 接入层）",
+  "Extreme",
+  "Juniper",
+  "Allied Telesis"
  ],
  "saga_line": "SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE",
  "fit": "VAD，网络 + IoT 事业部对口",
@@ -26,12 +29,24 @@
    "quote": "",
    "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
    "date": "2026-10-04"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Kappa Data | Value-Added Distributor voor Networking, Security en IoT",
+   "quote": "Zoek je netwerkinfrastructuur-, security- en IoT-oplossingen voor je bedrijf of klanten? Welkom bij Kappa Data, jouw value-added IT distributor.",
+   "url": "https://www.kappadata.be/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "sales@kappadata.be",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [],
+  "page_phones": [
+   "+32 (0)9 243 42 10"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-04 群发「24 Port PoE Managed Switch」→ 已发未回",
  "saga_overlap": "无",
@@ -45,10 +60,21 @@
   "window": "BE 周四 12–14",
   "when": "2026-11-19"
  },
- "notes": "本轮 web_search 复核：kappadata.be/en/about-us「value-added distributor… network connectivity, security and IoT since 1998」；kappadata.eu「5 countries… 75 employees」。S 箱 10-04 发 info@，本封改 sales@。 ",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\n本轮 web_search 复核：kappadata.be/en/about-us「value-added distributor… network connectivity, security and IoT since 1998」；kappadata.eu「5 countries… 75 employees」。S 箱 10-04 发 info@，本封改 sales@。 ",
  "draft_en": {
   "subject": "PoE switch line for your reseller channel - distributor pricing",
   "body": "Hi,\n\nI wrote on 4 October about our 24-port PoE L2+ switch ('24 Port PoE Managed Switch'); this is a different angle, so a fresh note rather than a reply.\n\nThree PoE switches our distributor partners move most, all EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE, under our label or yours:\n\n- STC-2224GP: 24 x GE PoE+ (300 W) + 2 x GE + 2 x SFP, USD 86.\n- STC-424XGGPM-280W: 24 x GE PoE+ (280 W) + 4 x 10G SFP+, Marvell-based L2+ managed, USD 170.\n- STI-288DGGPM: DIN-rail industrial L2+, 8 x GE PoE+ (240 W) + 2 x SFP, -40 to +75 C, USD 137, 3-year warranty (12 months on the commercial units).\n\nWho on your product team looks after new networking vendors, and would a sample or a price sheet be the better first step?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "deep": false
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:50:34Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-288GPM",
+  "why": "官网快照对位：工业/自动化词频 16、PoE 2 → DIN 8 PoE+ 2 SFP 起手",
+  "date": "2026-10-29"
+ }
 }

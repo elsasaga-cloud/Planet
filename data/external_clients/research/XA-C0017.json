@@ -1,9 +1,9 @@
 {
  "code": "XA-C0017",
  "name": "i-Alarmsysteme GmbH",
- "round": "W1-R01",
- "researched_at": "2026-10-27",
- "alive": "活（2025-10 搬新址 Alte Gießerei 12, Erkrath）",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（i-alarmsysteme.de，快照 2026-10-29）：i-Alarmsysteme GmbH - Deutschland",
  "summary": "奥地利 Weikersdorf 总部、DACH 5 个点、50+ 人的报警/视频/门禁批发商（1980 起），德国分部在 Erkrath；Dahua 官方分销（Excellent Distributor 2020），并把中国品牌 Wi-Tek 的 PoE 交换机/AP 作为自家「网络与传输技术」线在卖——说明已接受中国 PoE 品牌直供。",
  "type_final": "安防批发商（DACH，Dahua 分销 + 自选中国 PoE 品牌）",
  "size": ">50 人，5 个点",
@@ -11,7 +11,10 @@
   "Dahua",
   "Wi-Tek",
   "Ajax",
-  "其他报警/门禁"
+  "其他报警/门禁",
+  "Uniview",
+  "barox",
+  "Pulsar"
  ],
  "saga_line": "HRUI PoE（对标其 Wi-Tek 线）+ SmartByte L2+",
  "fit": "已在卖中国 PoE 品牌，采购路径现成；DE 分部有 vertrieb@ 口",
@@ -43,11 +46,27 @@
    "quote": "",
    "url": "https://www.i-alarmsysteme.de/blog/i-Alarmsysteme-Deutschland-ist-umgezogen",
    "date": "2025-10-31"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；i-Alarmsysteme GmbH - Deutschland",
+   "quote": "Ihr Großhändler für Alarmanlagen, Videoüberwachung und Zutrittskontrollen ✅ Top Marken ✅ Günstige Preise ✅ Online-Shop",
+   "url": "https://www.i-alarmsysteme.de/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "vertrieb@i-alarmsysteme.de",
-  "email_status": "Dahua 伙伴页 + 官网公开（德国分部销售口）"
+  "email_status": "Dahua 伙伴页 + 官网公开（德国分部销售口）",
+  "page_emails": [],
+  "page_phones": [
+   "+49 211 819 98 900",
+   "000 1100 1135 1250 1500 1600 2000 2500 3000 3500 3830 4000 5000 5500 6000 7000 8000 10000 14000 15000 20000",
+   "000 1200 1250 1500 1600 1810 2000 2500 2700 3000 4600 5000 6900 10000 10600 15000 16000 20000",
+   "000 2000 65532",
+   "007 1 2 3 4 5"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "未发信",
  "saga_overlap": "无",
@@ -65,6 +84,17 @@
   "subject": "A second PoE switch line for your Facherrichter, own label possible",
   "body": "Hello,\n\nSaga Telecom supplies PoE and L2+ switches to security and network distributors in Europe - under our label or the distributor's own. You already carry a dedicated network and transmission line for installers, so I will keep this to numbers.\n\nAt distributor level: STC-2224GP (24 x GE PoE+ + 2 x GE + 2 x SFP, 300 W, unmanaged) USD 86; 8-port PoE+ units from USD 28; STC-424XGGPM-280W (24 x GE PoE+ 280 W + 4 x 10G SFP+, Marvell L2+) USD 170, all EXW Shenzhen, snapshot 2026-10-27, valid 15 days, CE/RoHS/REACH, 12-month warranty. Units can carry the i-Alarmsysteme logo and your article numbers from the first order.\n\nIs a second PoE source of interest for your 2027 line card, or is the current one exclusive?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "notes": "不提 Wi-Tek 名字。",
- "deep": false
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\n不提 Wi-Tek 名字。",
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:42:34Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGPM-280W",
+  "why": "官网快照对位：PoE 词频 121、监控 4 → 24 口 PoE L2+ 走量款",
+  "date": "2026-10-29"
+ }
 }

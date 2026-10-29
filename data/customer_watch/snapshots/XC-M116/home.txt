@@ -1,0 +1,647 @@
+# XC-M116 QL3D · home · https://ql3d.fr/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+QL3D
+Toutes les catégories
+Accueil
+- Produits
+-- Capteurs sur IP et/ou 4G
+--- Boîtiers sur IP (Cuivre et/ou WiFi)
+--- Boîtiers avec 4G natif
+--- Capteurs & détecteurs
+--- Logiciels
+--- Options
+---- Modems
+--- Accessoires
+---- Kits de montage
+---- Caméras
+---- Accessoires divers
+--- WatchDog sur IP / Série
+-- Solutions d'Entrées/Sorties
+--- Filaires
+---- Fixes sur IP
+---- Fixes sur port série
+---- Modulaires
+----- Modules d'extension
+----- Alimentation pour contrôleurs modulaires
+----- Chassis pour contrôleurs modulaires
+--- Sans-fil
+---- Entrées/Sorties WiFi
+---- E/S Cellulaire
+-- LoRaWan, NBIoT, LTE-M, CAT-M1
+--- LoRaWan
+---- Capteurs, détecteurs & E/S
+---- Répéteurs & Gateway Modbus
+---- Gateways
+---- Tracker GPS
+---- Logiciels/Licences
+---- Testeurs de réseau
+---- Modules LoRaWAN
+--- NB-IoT
+--- LTE-M
+--- Tracker GPS NB-IoT/LTE-M
+--- Accessoires et options IoT
+-- Connectivité industrielle
+--- Switchs Ethernet Industriels
+--- Convertisseurs de médias
+--- Injecteurs PoE
+--- Splitters PoE
+--- Extendeurs Ethernet
+--- Parafoudres & Parasurtenseurs
+--- Routeurs Industriels
+-- Passerelles protocolées
+--- Passerelles protocolées
+--- Passerelles protocolées WiFi
+--- Passerelles protocolées Cellulaires
+--- Profibus vers fibre
+--- Accessoires MBS
+--- Logiciels MBS
+--- Protocoles MBS
+--- Points de données MBS
+--- Services MBS
+-- Solutions Bluetooth
+--- Capteurs & Détecteurs
+--- Points d'accès Bluetooth
+--- Convertisseurs série - Bluetooth
+--- Clés USB - Bluetooth
+--- Modules Bluetooth
+--- Accessoires
+-- Solutions Cellulaires
+--- Routeurs cellulaires
+--- Modems
+--- Antennes Cellulaires
+-- Solutions série
+--- Serveurs de port(s) série
+---- Serveurs de port(s) série sur IP
+---- Serveurs de port(s) série WiFi
+---- Serveurs de port(s) série Cellulaire
+---- Serveurs de port(s) série embarqués
+--- Convertisseurs série - Bluetooth
+--- Convertisseurs série/can - fibre
+--- Convertisseurs série - série
+--- Convertisseurs USB - série
+--- Cartes série
+-- Solutions WiFi
+--- Points d'accès / Clients WiFi
+--- Serveurs de ports série sur WiFi
+--- Antennes WiFi
+-- Contrôle d'accès sur IP
+--- Unités de contrôle
+--- Ventouses et poignées
+--- Lecteurs et cartes/tags
+-- Synchronisation du temps
+--- Serveurs de temps NTP / Grandmasters PTP
+---- Accessoires
+--- Switches PTP IEEE 1588 (Transparent & Boundary Clock)
+Accueil
+Produits
+Connectivité industrielle
+Switchs Ethernet Industriels
+Convertisseurs de médias
+Injecteurs PoE
+Splitters PoE
+Extendeurs Ethernet
+Parafoudres & Parasurtenseurs
+Routeurs Industriels
+Entrées/sorties sur IP
+Filaires
+Fixes sur IP
+Fixes sur port série
+Modulaires
+Sans-fil
+Entrées/Sorties WiFi
+E/S Cellulaire
+Connectivité série
+Serveurs de port(s) série
+Serveurs de port(s) série sur IP
+Serveurs de port(s) série WiFi
+Serveurs de port(s) série Cellulaire
+Serveurs de port(s) série embarqués
+Convertisseurs série - Bluetooth
+Convertisseurs série/can - fibre
+Convertisseurs série - série
+Convertisseurs USB - série
+Cartes série
+Solutions WiFi
+Points d'accès / Clients WiFi
+Serveurs de ports série sur WiFi
+Antennes WiFi
+Passerelles protocolées
+Passerelles protocolées WiFi
+Passerelles protocolées Cellulaires
+Profibus vers fibre
+Accessoires MBS
+Logiciels MBS
+Protocoles MBS
+Points de données MBS
+Services MBS
+Solutions Bluetooth
+Capteurs & Détecteurs
+Points d'accès Bluetooth
+Convertisseurs série - Bluetooth
+Clés USB - Bluetooth
+Modules Bluetooth
+Accessoires
+Solutions Cellulaires
+Routeurs cellulaires
+Modems
+Antennes Cellulaires
+Contrôle d'accès sur IP
+Unités de contrôle
+Ventouses et poignées
+Lecteurs et cartes/tags
+Synchronisation du temps
+Serveurs de temps NTP / Grandmasters PTP
+Accessoires
+Switches PTP IEEE 1588 (Transparent & Boundary Clock)
+Capteurs sur IP et/ou 4G
+Boîtiers sur IP (Cuivre et/ou WiFi)
+Boîtiers avec 4G natif
+Capteurs & détecteurs
+Logiciels
+Options
+Modems
+Accessoires
+Kits de montage
+Caméras
+Accessoires divers
+WatchDog sur IP / Série
+LoRaWAN, NB-IoT, LTE-M, CAT-1
+LoRaWan
+Capteurs, détecteurs & E/S
+Répéteurs & Gateway Modbus
+Gateways
+Tracker GPS
+Logiciels/Licences
+Testeurs de réseau
+Modules LoRaWAN
+NB-IoT
+LTE-M
+Tracker GPS NB-IoT/LTE-M
+Accessoires et options IoT
+Marques
+Services
+Qui sommes-nous ?
+Actualités
+Support
+Applications
+Contact
+Menu
+Mon compte
+Toutes les catégories
+Accueil
+- Produits
+-- Capteurs sur IP et/ou 4G
+--- Boîtiers sur IP (Cuivre et/ou WiFi)
+--- Boîtiers avec 4G natif
+--- Capteurs & détecteurs
+--- Logiciels
+--- Options
+---- Modems
+--- Accessoires
+---- Kits de montage
+---- Caméras
+---- Accessoires divers
+--- WatchDog sur IP / Série
+-- Solutions d'Entrées/Sorties
+--- Filaires
+---- Fixes sur IP
+---- Fixes sur port série
+---- Modulaires
+----- Modules d'extension
+----- Alimentation pour contrôleurs modulaires
+----- Chassis pour contrôleurs modulaires
+--- Sans-fil
+---- Entrées/Sorties WiFi
+---- E/S Cellulaire
+-- LoRaWan, NBIoT, LTE-M, CAT-M1
+--- LoRaWan
+---- Capteurs, détecteurs & E/S
+---- Répéteurs & Gateway Modbus
+---- Gateways
+---- Tracker GPS
+---- Logiciels/Licences
+---- Testeurs de réseau
+---- Modules LoRaWAN
+--- NB-IoT
+--- LTE-M
+--- Tracker GPS NB-IoT/LTE-M
+--- Accessoires et options IoT
+-- Connectivité industrielle
+--- Switchs Ethernet Industriels
+--- Convertisseurs de médias
+--- Injecteurs PoE
+--- Splitters PoE
+--- Extendeurs Ethernet
+--- Parafoudres & Parasurtenseurs
+--- Routeurs Industriels
+-- Passerelles protocolées
+--- Passerelles protocolées
+--- Passerelles protocolées WiFi
+--- Passerelles protocolées Cellulaires
+--- Profibus vers fibre
+--- Accessoires MBS
+--- Logiciels MBS
+--- Protocoles MBS
+--- Points de données MBS
+--- Services MBS
+-- Solutions Bluetooth
+--- Capteurs & Détecteurs
+--- Points d'accès Bluetooth
+--- Convertisseurs série - Bluetooth
+--- Clés USB - Bluetooth
+--- Modules Bluetooth
+--- Accessoires
+-- Solutions Cellulaires
+--- Routeurs cellulaires
+--- Modems
+--- Antennes Cellulaires
+-- Solutions série
+--- Serveurs de port(s) série
+---- Serveurs de port(s) série sur IP
+---- Serveurs de port(s) série WiFi
+---- Serveurs de port(s) série Cellulaire
+---- Serveurs de port(s) série embarqués
+--- Convertisseurs série - Bluetooth
+--- Convertisseurs série/can - fibre
+--- Convertisseurs série - série
+--- Convertisseurs USB - série
+--- Cartes série
+-- Solutions WiFi
+--- Points d'accès / Clients WiFi
+--- Serveurs de ports série sur WiFi
+--- Antennes WiFi
+-- Contrôle d'accès sur IP
+--- Unités de contrôle
+--- Ventouses et poignées
+--- Lecteurs et cartes/tags
+-- Synchronisation du temps
+--- Serveurs de temps NTP / Grandmasters PTP
+---- Accessoires
+--- Switches PTP IEEE 1588 (Transparent & Boundary Clock)
+Accueil
+Produits
+Connectivité industrielle
+Switchs Ethernet Industriels
+Convertisseurs de médias
+Injecteurs PoE
+Splitters PoE
+Extendeurs Ethernet
+Parafoudres & Parasurtenseurs
+Routeurs Industriels
+Entrées/sorties sur IP
+Filaires
+Fixes sur IP
+Fixes sur port série
+Modulaires
+Sans-fil
+Entrées/Sorties WiFi
+E/S Cellulaire
+Connectivité série
+Serveurs de port(s) série
+Serveurs de port(s) série sur IP
+Serveurs de port(s) série WiFi
+Serveurs de port(s) série Cellulaire
+Serveurs de port(s) série embarqués
+Convertisseurs série - Bluetooth
+Convertisseurs série/can - fibre
+Convertisseurs série - série
+Convertisseurs USB - série
+Cartes série
+Solutions WiFi
+Points d'accès / Clients WiFi
+Serveurs de ports série sur WiFi
+Antennes WiFi
+Passerelles protocolées
+Passerelles protocolées WiFi
+Passerelles protocolées Cellulaires
+Profibus vers fibre
+Accessoires MBS
+Logiciels MBS
+Protocoles MBS
+Points de données MBS
+Services MBS
+Solutions Bluetooth
+Capteurs & Détecteurs
+Points d'accès Bluetooth
+Convertisseurs série - Bluetooth
+Clés USB - Bluetooth
+Modules Bluetooth
+Accessoires
+Solutions Cellulaires
+Routeurs cellulaires
+Modems
+Antennes Cellulaires
+Contrôle d'accès sur IP
+Unités de contrôle
+Ventouses et poignées
+Lecteurs et cartes/tags
+Synchronisation du temps
+Serveurs de temps NTP / Grandmasters PTP
+Accessoires
+Switches PTP IEEE 1588 (Transparent & Boundary Clock)
+Capteurs sur IP et/ou 4G
+Boîtiers sur IP (Cuivre et/ou WiFi)
+Boîtiers avec 4G natif
+Capteurs & détecteurs
+Logiciels
+Options
+Modems
+Accessoires
+Kits de montage
+Caméras
+Accessoires divers
+WatchDog sur IP / Série
+LoRaWAN, NB-IoT, LTE-M, CAT-1
+LoRaWan
+Capteurs, détecteurs & E/S
+Répéteurs & Gateway Modbus
+Gateways
+Tracker GPS
+Logiciels/Licences
+Testeurs de réseau
+Modules LoRaWAN
+NB-IoT
+LTE-M
+Tracker GPS NB-IoT/LTE-M
+Accessoires et options IoT
+Marques
+Services
+Qui sommes-nous ?
+Actualités
+Support
+Applications
+Contact
+Menu
+Mon compte
+Connectivité industrielle, supervision environnementale et IoT...
+Capteurs, entrées/sorties, LoRaWAN, routeurs cellulaires, switchs : des milliers de références, avec un conseil technique en français avant et après l'achat.
+Parcourir le catalogue
+Demander conseil
+Des milliers de références en stock ou sur commande
+26 ans d'expertise
+Support technique en français, avant et après achat
+Devis sous 24h 01 34 91 90 20
+Nos univers produits
+Plusieurs milliers de références, organisées par besoin.
+Capteurs sur IP et/ou 4G
+Température, humidité, fuites d'eau : surveillez vos locaux techniques à distance.
+Radio, LoRa, NB-IoT, LTE-M
+Capteurs autonomes longue portée, sans câblage ni alimentation secteur.
+Entrées/sorties sur IP
+Pilotez relais et contacts secs par le réseau, en filaire ou sans fil.
+Connectivité industrielle
+Switchs, convertisseurs, PoE : le réseau qui tient en armoire électrique.
+Solutions cellulaires
+Routeurs 4G/5G, modems et antennes pour les sites sans réseau filaire.
+Connectivité série
+Serveurs de ports et convertisseurs pour vos équipements RS232/RS485.
+Passerelles protocolées
+Faites dialoguer Modbus, BACnet, Profibus et vos automates.
+Contrôle d'accès sur IP
+Unités de contrôle, ventouses, lecteurs et badges en réseau.
+Nos produits phares
+Huit produits que nous distribuons, testons et supportons (comme tous les autres).
+HW group Perseus 155 Centrale de supervision : 16 entrées, relais, détection d'eau, Modbus.
+Dragino Capteurs, détecteurs et passerelles LoRaWAN / NB-IoT.
+AKCP sensorProbe+ Surveillance environnementale des salles serveurs et datacenters.
+Solvimus MUC Concentrateurs de comptage M-Bus / wM-Bus / Modbus / BACnet.
+ControlByWeb X400 Entrées/sorties modulaires pilotables par le réseau.
+DNIL LR210 / LR260 Relais LoRaWAN sur rail DIN, 277 VAC 10 A / 30 VDC 5 A.
+Robustel R1510 Routeur 4G WiFi compact et économique.
+Poynting gamme Puck Antennes omnidirectionnelles LTE/5G, WiFi, GPS, IP68.
+Toutes nos marques — AKCP, Atop Technologies, ControlByWeb, Dragino, Digital Matter, Efento, HWgroup…
+Vous ne savez pas quel produit choisir ?
+Décrivez votre besoin — environnement, protocole, contraintes — et nous vous orienterons vers la meilleure solution.
+Décrire mon besoin
+ou par téléphone : 01 34 91 90 20
+Nos sites dédiés constructeurs
+Six sites en français, dédiés chacun à une marque.
+AKCP Surveillance environnementale
+ControlByWeb E/S sur IP et plus
+DNIL Relais et 4-20 mA / 0-10 V LoRaWAN
+HW group — gamme STE2 Thermomètres IP / WiFi
+Dragino Capteurs & détecteurs LoRaWAN & NB-IoT
+HW group — gamme Perseus Centrales de supervision
+Actualités
+Applications, retours d'expérience et vie de QL3D.
+Nouveau
+08/09/2026 QL3D sera présent sur le Salon IBS le 14 et 15 octobre !
+24/02/2025 Acquisition et contrôle EDGE des E/S industrielles dans l'industrie 4.0
+22/01/2025 Technologies de suivi des actifs IoT : Core vs Edge vs Fusion vs GPS
+29/07/2024 AKCP contrôle le refroidissement d'un Data Center
+Toutes les actualités
+Newsletter
+Obtenez nos dernières informations
+S’abonner
+Connectivité industrielle, IoT et supervision environnementale — des milliers de références, avec un conseil en français avant et après l'achat.
+9 chemin de la Fosse — 78550 Bazainville
+01 34 91 90 20
+info@ql3d.fr
+Produits
+Tout le catalogue
+Connectivité industrielle
+Entrées/sorties sur IP
+Radio, LoRa, NB-IoT, LTE-M
+Capteurs sur IP et/ou 4G
+Informations
+Actualités
+Exemples d'applications
+Support
+Nous contacter
+Plan du site
+Notre société
+Qui sommes-nous ?
+Services
+Marques
+Livraison
+Mentions légales
+C.G.V.
+Copyright © 2026, QL3D. Tous droits réservés.
+close
+Filtrer par
+close
+Connexion
+Créez votre compte
+E-mail
+Mot de passe
+Afficher
+Mot de passe oublié ?
+Connexion
+close
+Home
+Contact
+close
+Menu
+Accueil
+Produits
+Connectivité industrielle
+Switchs Ethernet Industriels
+Convertisseurs de médias
+Injecteurs PoE
+Splitters PoE
+Extendeurs Ethernet
+Parafoudres & Parasurtenseurs
+Routeurs Industriels
+Entrées/sorties sur IP
+Filaires
+Fixes sur IP
+Fixes sur port série
+Modulaires
+Sans-fil
+Entrées/Sorties WiFi
+E/S Cellulaire
+Connectivité série
+Serveurs de port(s) série
+Serveurs de port(s) série sur IP
+Serveurs de port(s) série WiFi
+Serveurs de port(s) série Cellulaire
+Serveurs de port(s) série embarqués
+Convertisseurs série - Bluetooth
+Convertisseurs série/can - fibre
+Convertisseurs série - série
+Convertisseurs USB - série
+Cartes série
+Solutions WiFi
+Points d'accès / Clients WiFi
+Serveurs de ports série sur WiFi
+Antennes WiFi
+Passerelles protocolées
+Passerelles protocolées WiFi
+Passerelles protocolées Cellulaires
+Profibus vers fibre
+Accessoires MBS
+Logiciels MBS
+Protocoles MBS
+Points de données MBS
+Services MBS
+Solutions Bluetooth
+Capteurs & Détecteurs
+Points d'accès Bluetooth
+Convertisseurs série - Bluetooth
+Clés USB - Bluetooth
+Modules Bluetooth
+Accessoires
+Solutions Cellulaires
+Routeurs cellulaires
+Modems
+Antennes Cellulaires
+Contrôle d'accès sur IP
+Unités de contrôle
+Ventouses et poignées
+Lecteurs et cartes/tags
+Synchronisation du temps
+Serveurs de temps NTP / Grandmasters PTP
+Accessoires
+Switches PTP IEEE 1588 (Transparent & Boundary Clock)
+Capteurs sur IP et/ou 4G
+Boîtiers sur IP (Cuivre et/ou WiFi)
+Boîtiers avec 4G natif
+Capteurs & détecteurs
+Logiciels
+Options
+Modems
+Accessoires
+Kits de montage
+Caméras
+Accessoires divers
+WatchDog sur IP / Série
+LoRaWAN, NB-IoT, LTE-M, CAT-1
+LoRaWan
+Capteurs, détecteurs & E/S
+Répéteurs & Gateway Modbus
+Gateways
+Tracker GPS
+Logiciels/Licences
+Testeurs de réseau
+Modules LoRaWAN
+NB-IoT
+LTE-M
+Tracker GPS NB-IoT/LTE-M
+Accessoires et options IoT
+Marques
+Services
+Qui sommes-nous ?
+Actualités
+Support
+Applications
+Contact
+close
+Que cherchez-vous?
+Toutes les catégories
+Accueil
+- Produits
+-- Capteurs sur IP et/ou 4G
+--- Boîtiers sur IP (Cuivre et/ou WiFi)
+--- Boîtiers avec 4G natif
+--- Capteurs & détecteurs
+--- Logiciels
+--- Options
+---- Modems
+--- Accessoires
+---- Kits de montage
+---- Caméras
+---- Accessoires divers
+--- WatchDog sur IP / Série
+-- Solutions d'Entrées/Sorties
+--- Filaires
+---- Fixes sur IP
+---- Fixes sur port série
+---- Modulaires
+----- Modules d'extension
+----- Alimentation pour contrôleurs modulaires
+----- Chassis pour contrôleurs modulaires
+--- Sans-fil
+---- Entrées/Sorties WiFi
+---- E/S Cellulaire
+-- LoRaWan, NBIoT, LTE-M, CAT-M1
+--- LoRaWan
+---- Capteurs, détecteurs & E/S
+---- Répéteurs & Gateway Modbus
+---- Gateways
+---- Tracker GPS
+---- Logiciels/Licences
+---- Testeurs de réseau
+---- Modules LoRaWAN
+--- NB-IoT
+--- LTE-M
+--- Tracker GPS NB-IoT/LTE-M
+--- Accessoires et options IoT
+-- Connectivité industrielle
+--- Switchs Ethernet Industriels
+--- Convertisseurs de médias
+--- Injecteurs PoE
+--- Splitters PoE
+--- Extendeurs Ethernet
+--- Parafoudres & Parasurtenseurs
+--- Routeurs Industriels
+-- Passerelles protocolées
+--- Passerelles protocolées
+--- Passerelles protocolées WiFi
+--- Passerelles protocolées Cellulaires
+--- Profibus vers fibre
+--- Accessoires MBS
+--- Logiciels MBS
+--- Protocoles MBS
+--- Points de données MBS
+--- Services MBS
+-- Solutions Bluetooth
+--- Capteurs & Détecteurs
+--- Points d'accès Bluetooth
+--- Convertisseurs série - Bluetooth
+--- Clés USB - Bluetooth
+--- Modules Bluetooth
+--- Accessoires
+-- Solutions Cellulaires
+--- Routeurs cellulaires
+--- Modems
+--- Antennes Cellulaires
+-- Solutions série
+--- Serveurs de port(s) série
+---- Serveurs de port(s) série sur IP
+---- Serveurs de port(s) série WiFi
+---- Serveurs de port(s) série Cellulaire
+---- Serveurs de port(s) série embarqués
+--- Convertisseurs série - Bluetooth
+--- Convertisseurs série/can - fibre
+--- Convertisseurs série - série
+--- Convertisseurs USB - série
+--- Cartes sé

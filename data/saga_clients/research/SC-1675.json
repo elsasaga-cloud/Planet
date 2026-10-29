@@ -17,7 +17,7 @@
  ],
  "researched_at": "2026-10-29",
  "country_fix": "德国",
- "notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。\nT29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。",
  "override_history": [
   {
    "batch": "LT-01",
@@ -64,6 +64,14 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 德国主区 · 工业通信分销 20%：tekmodul GmbH（München；HRB 158866；2005；GF Tassilo Halt；electronica 2024 参展；Atop 经销）坐实；主区 ✔ 台湾工业品牌经销 ✔ 对位 ✔ 决策人具名 ✔ → P 池候选",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "News | Techniknachrichten aus dem Wireless-Sektor | tekmodul GmbH — Neueste Techniknachrichten aus dem Wireless-Sektor. Funkmodule, Automatisierungstechnick, Industriekommunikation und vieles mehr. Jetzt bei tekmodul!",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.tekmodul.de/en/"
    }
   ],
   "proof_gaps": [
@@ -72,7 +80,38 @@
  },
  "deep": {
   "done_at": "2026-10-29",
-  "level": "邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓）",
-  "batch": "LT-T01"
+  "level": "邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T01",
+  "snapshot_at": "2026-10-29"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:36:11Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@tekmodul.de",
+   "iwantajob@tekmodul.de",
+   "quectel@tekmodul.de"
+  ],
+  "phones": [],
+  "social": [
+   "https://twitter.com/share?url=https%3A%2F%2Fwww.tekmodul.de%2Fen%2Flc76-family-gnss-en%2F&text=LC76%20%E2%80%93%20brand%20new%20family%20of%20multi-constellation%20GNSS%20modules",
+   "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.tekmodul.de%2Fen%2Flc76-family-gnss-en%2F&t=LC76%20%26%238211%3B%20brand%20new%20family%20of%20multi-constellation%20GNSS%20modules",
+   "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.tekmodul.de%2Fen%2Flc76-family-gnss-en%2F&title=LC76%20%26%238211%3B%20brand%20new%20family%20of%20multi-constellation%20GNSS%20modules&summary=New%20LC76%20family%20of%20innovative%20multi-constellation%20GNSS%20modules%0D%0A-%20also%20with%20extremely%20low%20power%20consumption%0D%0AWith%20the%20LC76GPA%2C%20Quectel%20presents%20a%20new%20GNSS%20module%20that%20is%20characterized%20by%20a%20current%20consumption%20of%20only%20approx.%2010.5mA%20in%20active%20acquisition%20or"
+  ],
+  "models_on_site": [
+   "LC76GPA",
+   "AG3352",
+   "LC76GAB",
+   "LC76F",
+   "GK9501"
+  ],
+  "url": "https://www.tekmodul.de/en/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -1,9 +1,9 @@
 {
  "code": "XB-C0049",
  "name": "JRP Distribution（曼谷）",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 jrp.co.th MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（jrp.co.th，快照 2026-10-29）：Home | บริษัท เจอาร์พี ดิสทริบิวชั่น จำกัด แห่งประเทศไทย",
  "summary": "JRP Distribution（曼谷）（泰国）：Ruijie/Reyee/Teltonika分销；地址=230/51 Soi Krungthonburi 6, Khlong San, BKK 10600；开发策略=泰国Ruijie专业分销，可推Saga替代；置信度=★★★★★",
  "type_final": "Ruijie/Reyee/Teltonika分销",
  "size": "",
@@ -28,12 +28,24 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Home | บริษัท เจอาร์พี ดิสทริบิวชั่น จำกัด แห่งประเทศไทย",
+   "quote": "จัดจำหน่ายอุปกรณ์ Engenius พร้อมบริการ โซลูชันที่เกี่ยวข้อง ฿1,590.00 Reyee RG-EW300T N300 เร้าเตอร์ซิม เชื่อ",
+   "url": "https://jrp.co.th/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "sale@cyn.co.th",
   "email_status": "活（来源库 9 月核对）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "sale@cyn.co.th"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -49,5 +61,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:52:16Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGM",
+  "why": "官网快照对位：10G/2.5G 词频 5、交换机 34 → 24 GE + 4×10G L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

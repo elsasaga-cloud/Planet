@@ -1,4 +1,4 @@
-# SB-888 stordis.com · feed_auto · https://stordis.com/feed/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-888 stordis.com · feed_auto · https://stordis.com/feed/ · fetched 2026-10-29T15:11:51Z · HTTP 200
 Fri, 09 Oct 2026 13:02:31 +0000	Coherent Optics Explained: 6 Critical Facts Powering 100G ZR Transceivers	https://stordis.com/coherent-optics-explained/
 Fri, 25 Sep 2026 10:28:45 +0000	RHS vs IHS OSFP Transceivers: Cooling & Compatibility	https://stordis.com/rhs-vs-ihs-osfp-transceivers/
 Mon, 21 Sep 2026 13:28:39 +0000	How to Configure and Debug Layer 1 in SONiC	https://stordis.com/how-to-configure-and-debug-layer-1-in-sonic/

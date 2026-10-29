@@ -1,9 +1,9 @@
 {
  "code": "XB-E067",
  "name": "VPX Systems",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 vpx.systems MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（vpx.systems，快照 2026-10-29）：VPX Systems – Transforme sua rede com a VPX. Equipamentos de rede Open Netwoorking robustos, suporte especializado e preÃ§os competitivos fazem a VPX sua fonte ",
  "summary": "VPX Systems（巴西 · Florianópolis）：分销商",
  "type_final": "分销商",
  "size": "",
@@ -38,6 +38,13 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；VPX Systems – Transforme sua rede com a VPX. Equipamentos de rede Open Netwoorking robustos, suporte especializado e preÃ§os competitivos fazem a VPX sua fonte ",
+   "quote": "VPX Systems – Transforme sua rede com a VPX. Equipamentos de rede Open Netwoorking robustos, suporte especializado e preÃ§os competitivos fazem a VPX sua fonte ",
+   "url": "https://vpx.systems/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
@@ -49,7 +56,12 @@
     "role": "Administrador（股东兼管理人）",
     "source": "来源库 KP 段"
    }
-  ]
+  ],
+  "page_emails": [
+   "contato@vpx.systems"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-21 去信 1 / 来信 0（24 Port PoE Managed Switch）",
  "saga_overlap": "无",
@@ -65,5 +77,11 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:54:40Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

@@ -1,14 +1,16 @@
 {
  "code": "XA-M303",
  "name": "Cayman Wireless",
- "round": "W1-R02",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-23 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（caymanwireless.com，快照 2026-10-29）：Cayman Wireless INC | Value-Added Reseller & Programming",
  "summary": "WISP 分销/集成（Netonix 代理）；WISP 接入层替换",
  "type_final": "WISP 分销/集成（Netonix 代理）",
  "size": "未量化",
  "brands_seen": [
-  "Netonix 授权渠道（WISP 接入层交换机）"
+  "Netonix 授权渠道（WISP 接入层交换机）",
+  "MikroTik",
+  "Grandstream"
  ],
  "saga_line": "SmartByte 商用 L2+（已发/首触）+ Saga STI 工业 L2+ PoE 补位",
  "fit": "WISP 渠道，已卖户外交换机",
@@ -26,6 +28,13 @@
    "quote": "",
    "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
    "date": "2026-10-03"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Cayman Wireless INC | Value-Added Reseller & Programming",
+   "quote": "Cayman Wireless INC | Value-Added Reseller & Programming",
+   "url": "https://caymanwireless.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
@@ -45,10 +54,16 @@
   "window": "US 周三 08–10 当地",
   "when": "2026-11-04"
  },
- "notes": "Netonix 用 Vitesse 芯片，对其不讲 Marvell 话术。 轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/evidence。\nNetonix 用 Vitesse 芯片，对其不讲 Marvell 话术。 轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "draft_en": {
   "subject": "Industrial DIN-rail PoE switches - the category MikroTik does not cover",
   "body": "Hi,\n\nI wrote on 3 October about our 24-port PoE L2+ switch ('24 Port PoE Managed Switch'); this is a different product line, so a fresh note rather than a reply.\n\nSTI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), FCC/CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.\n\nWould a DIN-rail PoE switch be a useful second option for your tower-site builds, or is your current line fully covering that?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "deep": false
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:47:46Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

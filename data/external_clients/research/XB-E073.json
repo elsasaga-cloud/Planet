@@ -1,9 +1,9 @@
 {
  "code": "XB-E073",
  "name": "PT Konexindo Unitama（Scodeno Indonesia）",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 konexindo.co.id MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（konexindo.co.id，快照 2026-10-29）：Home - Konexindo Unitama",
  "summary": "PT Konexindo Unitama（Scodeno Indonesia）（印尼 · Jakarta Pusat（Cideng））：工业网络设备分销商/贴牌商",
  "type_final": "工业网络设备分销商/贴牌商",
  "size": "",
@@ -45,12 +45,27 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Home - Konexindo Unitama",
+   "quote": "IT Distribution, Project Management, Training, Certified Technicians",
+   "url": "https://konexindo.co.id/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "sales@konexindo.co.id",
   "email_status": "活（来源库 9 月核对）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "marketing@konexindo.co.id",
+   "sales@konexindo.co.id"
+  ],
+  "page_phones": [
+   "+62 817 625 884"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-21 去信 1 / 来信 0（24 Port PoE Managed Switch）",
  "saga_overlap": "无",
@@ -66,5 +81,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:54:52Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-288GPM",
+  "why": "官网快照对位：工业/自动化词频 26、PoE 49 → DIN 8 PoE+ 2 SFP 起手",
+  "date": "2026-10-29"
+ }
 }

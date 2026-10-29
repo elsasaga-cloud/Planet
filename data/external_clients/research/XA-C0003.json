@@ -1,9 +1,9 @@
 {
  "code": "XA-C0003",
  "name": "CCTVburada (Istanbul)",
- "round": "W1-R01",
- "researched_at": "2026-10-27",
- "alive": "活（网店 2025-12 博客）",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（cctvburada.com，快照 2026-10-29）：CCTV & Güvenlik Sistemleri – CCTV & Güvenlik Sistemleri",
  "summary": "伊斯坦布尔 Kartal 的安防经销/安装商 + 网店，Hikvision 授权经销商，网店有「24 Port Switchler」类目在卖 Ruijie Reyee 管理型交换机（5,500 TL），另做全市摄像头安装服务。小型经销 + 安装，土耳其主攻区。",
  "type_final": "安防经销商/安装商 + 网店（TR）",
  "size": "小",
@@ -30,11 +30,23 @@
    "quote": "",
    "url": "https://www.cctvburada.com/collections/24-port-switchler",
    "date": "2026-10-27"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；CCTV & Güvenlik Sistemleri – CCTV & Güvenlik Sistemleri",
+   "quote": "CCTV & Güvenlik Sistemleri",
+   "url": "https://www.cctvburada.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@cctvburada.com",
-  "email_status": "官网公开"
+  "email_status": "官网公开",
+  "page_emails": [
+   "info@cctvburada.com"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "未发信",
  "saga_overlap": "无",
@@ -52,6 +64,12 @@
   "subject": "PoE switches for your web shop - 8/16/24 ports, CE",
   "body": "Hello,\n\nSaga Telecom supplies PoE switches to security dealers and distributors in Türkiye and Europe, under our label or yours. Your shop already lists 24-port switches, so a PoE line for camera installations may fit next to them.\n\nReference points: STC-2224GP (24 x GE PoE+ + 2 x GE + 2 x SFP, 300 W, unmanaged) USD 86; 8-port PoE+ units from USD 28; 16-port PoE+ USD 63, all EXW Shenzhen, snapshot 2026-10-27, valid 15 days, CE/RoHS/REACH, 12-month warranty. Extend mode to 250 m and PoE watchdog on all unmanaged units.\n\nDo you import directly, or do you buy switches through a local distributor? Either way I can send the full PoE price list.\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "notes": "",
- "deep": false
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence。\n",
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:42:23Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

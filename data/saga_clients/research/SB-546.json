@@ -2,12 +2,16 @@
  "code": "SB-546",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（ness.com.au：域名不可达（DNS/连接失败），2026-10-21，第 1 次）",
+ "website_status": "在线（ness.com.au，快照 2026-10-29）：Alarm, Security, Camera, Intercom, Monitoring, Supplier - Ness Corporation",
  "summary": "澳大利亚 Ness Corporation（澳洲安防产品制造/分销商：报警主机、CCTV；表内「主要是 CCTV 少量商业 PoE 有 Utepo 的」「可以多跟进一下」；KP Gerard Mace（Project Manager）、Mary Cartisano（Supply Manager）；官网 unreachable）；群发 21 次无回复。",
  "type": "安防产品制造/分销商（澳大利亚，PoE 现 Utepo）",
  "size": "",
  "brands_seen": [
-  "Utepo"
+  "Utepo",
+  "Hikvision",
+  "TP-Link",
+  "Bosch",
+  "Ubiquiti"
  ],
  "evidence": [
   {
@@ -43,10 +47,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：website_status/brands_seen/site_contacts/deep/facts。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "company_facts": {
   "hq": "Seven Hills NSW 2147（悉尼西）（第 89 批 官方登记核实 2026-10-27）",
@@ -121,6 +126,14 @@
     "quote": "主要是CCTV 少量商业POE 有Utepo的",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Alarm, Security, Camera, Intercom, Monitoring, Supplier - Ness Corporation — Trusted family-run Ness systems, helping tradies secure homes, businesses & industries with burglar alarms, security cameras, monitoring and video intercoms since 1972",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://ness.com.au/"
    }
   ],
   "proof_gaps": [],
@@ -132,11 +145,39 @@
  },
  "snap_thicken": {
   "consumed": [
-   "2026-10-21T09:42:58Z"
+   "2026-10-21T09:42:58Z",
+   "2026-10-29T15:33:26Z"
   ],
   "fails": [
    "2026-10-21"
   ],
-  "batch": "LT-T03"
+  "batch": "LT-T03",
+  "last_ok": "2026-10-29"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@ness.com.au"
+  ],
+  "phones": [
+   "+61 2 8825 9222"
+  ],
+  "social": [
+   "https://twitter.com/NESSCorporation",
+   "https://www.facebook.com/NessCorporationAus/",
+   "https://www.youtube.com/user/nesscorporation"
+  ],
+  "models_on_site": [
+   "DS-2CD2367G3-LIS2UY",
+   "DS-2CD2387G3-LIS2UY",
+   "MIC-7522-Z30W",
+   "NDE-3000",
+   "NDV-3000",
+   "NDE-3502-AL",
+   "NPD-6001B",
+   "DS-2CD2367G2P-LSU"
+  ],
+  "url": "https://ness.com.au/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

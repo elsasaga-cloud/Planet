@@ -1,4 +1,4 @@
-# SB-524 armadi-rack.it · sitemap · https://www.armadi-rack.it/sitemap.xml · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-524 armadi-rack.it · sitemap · https://www.armadi-rack.it/sitemap.xml · fetched 2026-10-29T15:11:51Z · HTTP 200
 2026-10-29	https://www.armadi-rack.it/
 2026-10-29	https://www.armadi-rack.it/1-rack-19/
 2026-10-29	https://www.armadi-rack.it/423-subrack/

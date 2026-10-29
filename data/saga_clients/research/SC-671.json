@@ -40,7 +40,7 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 自有品牌 · OEM 30%：LEADER OPTEC LIMITED（St Asaph；Co. No. 03936485；2000；11–50 人；$5.1M；董事 Paul Anthony Desmond = 表内 pauldesmond@）坐实；自有品牌布线商 ✔ 中国采购 30–40% ✔ 四主区 ✔ 决策人直达 ✔ → P 池候选；闸 1：英国 Leader Optec（leaderoptec.com；passive / FTTH 为主的 trader，30–40% 业务在中国，表内邮箱 = 其国内负责人、负责采购 active 产品）：四主区 + 进口经验 + 中国采购 …",
- "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/saga_fit.basis/deep/facts。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -93,6 +93,14 @@
     "quote": "GB · 1 次检索：companycheck.co.uk（公司号 / 董事 / 状态）+ zoominfo（11–50；$5.1M）+ crunchbase（MD Paul Desmond）；2026-10-29",
     "why": "闸 2 坐实来源（URL 见 company_facts.url）",
     "url": "https://companycheck.co.uk/company/03936485/LEADER-OPTEC-LIMITED/companies-house-data"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "UK Fibre Optic Cable Assembly Manufacturer | Leader Optec — UK manufacturer of fibre optic cable assemblies since 1993: pre-terminated, MTP, patch leads and Mil-Tac. Official Sumitomo distributor and service centre.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://leaderoptec.com/"
    }
   ],
   "proof_gaps": [
@@ -135,11 +143,50 @@
   "p1": "STC-424XGGPM-280W",
   "tier": 30,
   "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
-  "basis": "默认 · 官网快照后按业务线校正"
+  "basis": "默认 · 官网快照已到（2026-10-29）无型号线索，沿用"
  },
  "deep": {
   "done_at": "2026-10-29",
-  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
-  "batch": "LT-T01"
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T01",
+  "snapshot_at": "2026-10-29"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:41:45Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "accounts@leaderoptec.com",
+   "john.smith@leaderoptec.com",
+   "sales@leaderoptec.com",
+   "talk@viewcreative.co.uk"
+  ],
+  "phones": [
+   "+44 (0)1745 586600",
+   "+44 (0)1745 586601",
+   "+44(0)1745 586600"
+  ],
+  "social": [
+   "https://www.facebook.com/LeaderOptecLtd",
+   "https://www.instagram.com/leaderoptec/",
+   "https://www.linkedin.com/company/leader-optec-ltd/"
+  ],
+  "models_on_site": [
+   "OTDR-1000",
+   "MPO-12",
+   "MPO-24",
+   "MIL-DTL-83526",
+   "QSFP28",
+   "MPO-16",
+   "PSM10",
+   "EIA-568-C"
+  ],
+  "url": "https://leaderoptec.com/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

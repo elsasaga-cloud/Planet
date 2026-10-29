@@ -1,14 +1,24 @@
 {
  "code": "XC-M026",
  "name": "Discomp s.r.o.",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 discomp.cz MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（discomp.cz，快照 2026-10-29）：Discomp | dodÃ¡vÃ¡me sÃ­Å¥ovÃ© prvky a bezdrÃ¡tovÃ© ÅeÅ¡enÃ­ pro firmy",
  "summary": "Discomp s.r.o.（捷克）：分销（MikroTik 官方）；MikroTik（Master+VAD+WiFi6）",
  "type_final": "分销（MikroTik 官方）",
  "size": "",
  "brands_seen": [
-  "MikroTik"
+  "MikroTik",
+  "Ubiquiti",
+  "TP-Link",
+  "Huawei",
+  "Cambium",
+  "Uniview",
+  "D-Link",
+  "Hikvision",
+  "Ruijie",
+  "Grandstream",
+  "Teltonika"
  ],
  "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
  "fit": "",
@@ -26,6 +36,13 @@
    "quote": "",
    "url": "https://www.discomp.cz",
    "date": "2026-10-12"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Discomp | dodÃ¡vÃ¡me sÃ­Å¥ovÃ© prvky a bezdrÃ¡tovÃ© ÅeÅ¡enÃ­ pro firmy",
+   "quote": "Best distributor of WiFi, fiber optic and LAN components, camera systems, brackets and racks â­ thousands products in stock and ready for immediate delivery!",
+   "url": "https://www.discomp.cz/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
@@ -37,7 +54,16 @@
     "role": "IT specialista(LinkedIn 员工页谱)",
     "source": "third-party-LinkedIn·谱/leads-only(直发需 opt-in)"
    }
-  ]
+  ],
+  "page_emails": [],
+  "page_phones": [
+   "+420 370 380 965",
+   "+420 377 221 177",
+   "+420 377 221 871",
+   "+420 377 221 872",
+   "+420 377 477 794"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "Saga SC-1335（discomp.cz）随主档",
@@ -53,5 +79,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:56:11Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-288GPM",
+  "why": "官网快照对位：工业/自动化词频 7、PoE 339 → DIN 8 PoE+ 2 SFP 起手",
+  "date": "2026-10-29"
+ }
 }

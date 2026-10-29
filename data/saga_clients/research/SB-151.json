@@ -6,7 +6,9 @@
  "summary": "伦敦 Enfield 的远程监控安防服务商（2015-05 注册；创办人 Tim Chege；11–50 人 / RocketReach 15 人；营业额 <£1M 口径）：面向建筑工地的远程视频监控（AI 入侵检测、音频喊话、虚拟巡更）、门禁、入侵检测、火灾预防，自有 24/7 监控中心；隶属 Optimum Group（optimum-group.co.uk）。工地临时监控塔/柜需宽温 PoE 交换机——STI 系列直接适用。用户表：17 次跟进 0 回复。",
  "type": "",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Hikvision"
+ ],
  "evidence": [
   {
    "kind": "官网",
@@ -55,10 +57,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "LT-T03 官网快照加厚（2026-10-21）：fail#1。\n（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + Companies House 核对）"
+  "level": "B 级加厚 v1（官网 + Companies House 核对） + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "company_facts": {
   "legal_name": "OPTIWATCH LTD（Companies House 09595034；2015-05-18；Unit 5 Martinbridge Trading Estate, Lincoln Road, Enfield EN1 1SP（真实工业园地址）；SIC 80200；账目至 2025-05-31 已报，下期 2027-02-28 到期）",
@@ -134,6 +137,14 @@
     "quote": "（用户表字段）",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Remote Monitoring Solutions | Construction Site Security | Optiwatch Limited — London, Enfield, United Kingdom, Physical Security, Security, Safety, Construction Site Security, Building Site Security, Remote Monitoring, Video Surveillance, Remote Video Surveillance Monitoring, CCTV, Remote CCTV Moni",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://optiwatchgroup.com/"
    }
   ],
   "proof_gaps": [],
@@ -145,11 +156,30 @@
  },
  "snap_thicken": {
   "consumed": [
-   "2026-10-21T09:23:52Z"
+   "2026-10-21T09:23:52Z",
+   "2026-10-29T15:32:36Z"
   ],
   "fails": [
    "2026-10-21"
   ],
-  "batch": "LT-T03"
+  "batch": "LT-T03",
+  "last_ok": "2026-10-29"
+ },
+ "site_contacts": {
+  "emails": [
+   "marketing@optiwatchgroup.com"
+  ],
+  "phones": [
+   "+44 (0) 208 443 0077"
+  ],
+  "social": [
+   "https://twitter.com/optiwatch",
+   "https://www.facebook.com/optiwatch/",
+   "https://www.linkedin.com/company/optiwatchlimited"
+  ],
+  "models_on_site": [],
+  "url": "https://optiwatchgroup.com/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -1,9 +1,9 @@
 {
  "code": "XC-M103",
  "name": "Last Mile Communication",
- "round": "X1-02",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "alive": "在线（lastmile.no，快照 2026-10-29）：Last Mile AS",
  "summary": "Last Mile Communication AS（org 913821289；官网现署 Last Mile AS）：工业数据通信 + IP 摄像方案（1999 起；Westermo Gold）；11–50 人；CEO Hans-Jørgen Solli；市政 / 电力 / 海事 / 油气 → 工业交换机对位 ✔",
  "type_final": "分销（Westermo Gold）；Last Mile Communication AS（org 913821289；官网现署 Last Mile AS）",
  "size": "",
@@ -13,7 +13,13 @@
  "contacts": {
   "email": "salg@lastmile.no",
   "email_status": "官网 / 名录公开（X1-02 补路径）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "info@lastmile.no",
+   "salg@lastmile.no"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "evidence": [
   {
@@ -36,6 +42,13 @@
    "quote": "",
    "url": "https://www.crunchbase.com/organization/last-mile-communication-as",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Last Mile AS",
+   "quote": "Last Mile AS er Skandinavias ledende leverandør av kommunikasjons- og sikkerhetsløsninger for alle industrielle miljøer på land og til vanns.",
+   "url": "https://www.lastmile.no/",
+   "date": "2026-10-29"
   }
  ],
  "touch_status": "未触达（路径 2026-10-29 新补）",
@@ -47,6 +60,17 @@
   "angle": "已入 P 池 → 按巡检节奏首触"
  },
  "deep": false,
- "notes": "Last Mile Communication AS（org 913821289；官网现署 Last Mile AS）；Lensmannslia 4, 1386 Asker；Org.nr 913821289；+47 66 90 79 80",
- "draft_en": null
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\nLast Mile Communication AS（org 913821289；官网现署 Last Mile AS）；Lensmannslia 4, 1386 Asker；Org.nr 913821289；+47 66 90 79 80",
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:57:13Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-28DGGPM",
+  "why": "官网快照对位：PoE 词频 2 → 8 口 PoE+ 2 SFP L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

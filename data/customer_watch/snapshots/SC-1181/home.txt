@@ -1,0 +1,95 @@
+# SC-1181 agendaage.hu · home · https://agendaage.hu/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+Agenda-Age Kft. | A hálózatspecialista
+Belépés
+Regisztráció
+Termékek Szolgáltatások Rólunk Kapcsolat Tudásbázis
+AKCIÓ Börze Leértékelt termékek
+HÁLÓZATI aktív eszközök Switch Távfelügyelet Média konverter
+ETHERNET (réz) hálózati termékek Kábel - folyóméter Kábel - szerelt (patch) Csatlakozó és törésgátló Fali aljzat, -keret, kiemelő keret Modulár betét, -toldó, -összekötő Patch panel Kábel Y adapter Szerelési anyag Szerszám, eszköz Teszter, Műszer Konverter
+OPTIKAI hálózati elemek Kábel - folyóméter Kábel - szerelt (patch, pigtail) Csatlakozó, Toldó Kötődoboz, Kötéstartó Patch panel PLC elosztó Kábel Y adapter Switch konverterek Konverterek optikai (Média konverterek) Konverter Ethernet, -SFP, -HDMI Konverter video, -audio SFP Modul Teszter, Műszer és kiegészítőik Szerszám, Kellék Szerelési anyag Alkatrész Bérbeadás
+RACK szekrények és tartozékaik Rack Szekrény, Keret Rack Kiegészítő
+KÁBELBEHÚZÓK (ESTIARE) Kábelbehúzó/-berudaló Kábelbehúzó tartozékok
+KÁBELCSATORNÁK és kiegészítők (KOPOS) Kábelcsatorna, idom Kábelcsatorna kiegészítő
+SZOLGÁLTATÁSAINK Tanfolyam Kölcsönzés (bérlés) Műszaki szolgáltatás Elektronikai hulladék átvétel
+TÁPELLÁTÁS UPS, Akkumulátorbank Akkumulátor Elosztósáv, túlfesz. védő Fali aljzat, asztali aljzat Csatlakozó Tápkábel Tápegység, PoE
+TELEFON Kábel Csatlakozó Modulár betét, -toldó, -összekötő Szerszám, eszköz Szerelési anyag Teszter, Műszer
+KOAX Kábel - folyóméter Csatlakozó Teszter, Műszer Szerszám
+Kezdőlap Szolgáltatások Tanfolyamok Kábelelszámolás felhasználás alapján Házhoz szállítás Kölcsönzés Szerviz Műszaki tanácsadás Terméktámogatás, katalógusok Partnerprogram Segítse szolgáltatásunkat - Kérdőív Tartós-bérleti konstrukciók - Grenke Iskolák támogatása Leselejtezett eszközök átvétele Hírleveleink
+Rólunk Bemutatkozás Bisnode oklevél Vélemények rólunk Cégünk működési alapjai Képviseletek Képviseletek Aplus Apower Draka Estiare EXW Galaxy Grandway Legrand Noyafa OptiC RackSys Signal Fire Triton Wintop Zyxel Yuasa
+Munkatársaink Karrier - Álláslehetőség Karrier - Álláslehetőség
+Kapcsolat Elérhetőségünk Vásárlási feltételek ÁSZF Szállítási feltételek Adatkezelési tájékoztató Adatkezelési tájékoztató beszállítóknak
+Weboldal használata Opten.hu céginformáció
+Tudásbázis Videótár Tekintse meg videóinkat
+Alapfogalmak Videótár Videók Signal Fire 8az1-ben optikai szálcsupaszoló Signal Fire AI-10A bemutató videók Ajánlatadás közvetlenül webáruházunkból IP Kamera hálózati teszter - Optical EasyPlug Modulár dugó szerelése Keline kültéri RJ45 fali aljzat Keline üres fali aljzat kompatibilitás megoldása Cat6A SFTP modulár betét szerelése Cat6 SFTP betűzős patch panel szerelése Easy strip / laza csöves pigtail Optikai kábel hosszanti csupaszoló / lékelő Ipari Redundáns Menedzselhető Switch CAT6 STP 3P RJ45 csatlakozó szerelése CAT6 UTP 3P RJ45 csatlakozó szerelése Optikai Patch panel bemutatása és szerelése /17060 Lan teszter és érpárkereső műszer | Noyafa NF-168S Szerelhető, kábel nélküli elosztósáv -APower- Lazacsöves pigtail hegesztése EasyPlug Modulár dugó szerelése UTP&FTP FALI kábelen EasyPlug Modulár dugó szerelése UTP&FTP PATCH kábelen Optikai Patch panel bemutatása és szerelése /17059 DIN-sínes optikai kötődoboz bemutatása és szerelése /17058 RJ45 "fésűs" csatlakozó szerelése Grandway FHO5000 OTDR rendszer frissítése Signal Fire szálhegesztő használata extrém körülmények között Signal Fire szálhegesztő ütésállóságának bemutatása Signal Fire szálhegesztő gyári beállítások visszaállítása Signal Fire AI-9 szálhegesztő készlet bemutatása "Laza csöves" Pigtail kábel bemutatása Szerszám nélküli modulár betét szerelése - RJ45 CAT6 SFTP Szerszám nélküli modulár betét szerelése - RJ45 CAT5E UTP Szerszám nélküli modulár betét szerelése - RJ45 CAT6A SFTP Splice-on csatlakozó szerelése | 1. Hegesztés előkészítése Splice-on csatlakozó szerelése | 2. Hegesztés FTTH kábelre Splice-on csatlakozó szerelése | 3. Hegesztés Micro ADSS kábelre Noyafa Teszterek és Szerelőkészletek APower állítható rögzítésű elosztósáv Optikai szálillesztő mérőtoldó használata HDMI + 2x2 audio csatornás + RS485 Optikai Konverter Fujikura optikai csatlakozó szerelése Grandway FHP3P01 Optikai Teljesítménymérő termékbemutató Grandway FHP2P01 Optikai Teljesítménymérő termékbemutató Grandway FHP2A04 Teljesítménymérő termékbemutató Grandway FHO3000 OTDR termékbemutató Grandway FHO5000 OTDR termékbemutató Optikai kábelosztó bemutatása és szerelése Optikai szálösszekötő/-toldó összeszerelés Optikai Gyorscsatlakozó Optikai kötéstartó szálkötő-/toldó Optikai csatlakozó SC/UPC 9/125 SM SLX használata Optikai szálkötő Optikai csatlakozó SC/APC 9/125 SM SLX használata
+Tudásbázis ismertető Tudásbázis ismertető Tudás, Gyakorlat, Rutin? Gondolatébresztő idézetek Hatékony olvasás és tanulás
+Általános Információk Általános Információk AWG kábel és vezeték méretek Kábeldob méretek Alkalmazott műanyagok IP védettség IK védelem Teljesítménynyilatkozatokról LSZH / LSOH / FRNC kábelek
+Alapfogalmak Nyersanyagárak a világpiacon
+Szabványok MSZ EN 61850
+Adatátviteli Hálózatokhoz 6to4 Tunnel ACL - Bluetooth ACL - Ethernet ARP ARP Proxy ARP Spoofing BFD BGP EVPN Configured Tunnel
+Általános Tudnivalók telepítéshez Általános Tudnivalók telepítéshez Rendszerek Stabilitása Kábelcsatornák és telepítésük Fali aljzatbetét kompatibilitás Berendezés Üzembehelyezése
+Szerszámok, Segédeszközök Szerszámok, Segédeszközök A kábelbehúzás eszközei VL-2013 Kábelbehúzó / berudaló Ragasztó kábelbehúzó javításához
+VoIP Olcsó, "Ad hoc" Hálózatok PoE Rendszerek, Megoldások PoE Rendszerek, Megoldások Passzív PoE Szabvány 802.3 PoE kapcsán
+Villám és Túlfeszültség védelem Extrém megoldások Extrém megoldások Koax Ethernet (vékony/vastag) Koaxiális Ethernet kábelezésen 108Mbps
+Video, Projector rendszerek Video, Projector rendszerek HDMI csatlakozó
+KVM / CPU Switch -ek Veszélyes anyagok és hulladékok kezelése Veszélyes anyagok és hulladékok kezelése Akkumulátor mint veszélyes hulladék Elektronikai hulladékok Kábeldob újrahasznosítás
+Rézalapú hálózatok Rézalapú hálózatok Sodort Érpáras Hálózatok Sodort Érpáras Hálózatok Sodort érpáras Kábelek Tipikus felépítései Sodort érpáras Kábelek Kategórizálása Tévhitek és Tények
+UTP, FTP, SFTP csatlakozók UTP, FTP, SFTP csatlakozók Csatlakozó dugók RJ(45) RJ45 S-FTP-Patch/Fali (3p)-Cat6 RJ45 UTP-Patch/Fali (3p)-Cat6 "Easy Plug" Cat6 modulár dugó Csatlakozó aljzatok Ethernet kábel Y adapter
+Modulár "RJ" csatlakozók Modulár "RJ" csatlakozók
+Hálózati alapismeretek Hálózati alapismeretek Hálózatok kialakítása, szabványai Helyi (LAN) Hálózatok kialakítása Hálózataink központi időbeállításai TCP és UDP portok IP-n Vezetékes hálózatok Vezeték nélküli hálózatok Teljesítmény átváltási táblázat 50Ohm Teljesítmény átváltási táblázat 75Ohm
+Távvezérlés hálózaton, -Interneten Távvezérlés hálózaton, -Interneten AA Remote Controller Egyedi fejlesztés lehetőségei
+Kábelek és használatuk Érpárak (12-es) színkódolása Színes patch kábelek Kábelek vezetőiről Árnyékolt kábel használata kültéren Kábelszerelésről általában Kábelek csomagolása Kábelgyártás múlt és jelen
+Rack szekrények Rack szekrényekről röviden Érintésvédelmi, földelés megfelelő kialakítása Rack szekrények kábelezése Speciális fali szekrény Rack szervereknek Élvédő megoldás rack szekrényekhez Rack szekrények és keretek méretezése, kialakítása Rack szekrény egyedi típus
+Tápellátás Tápellátás UPS - Szünetmentes Áramforrások UPS - Szünetmentes Áramforrások A leggyakoribb hibák egyike Áramszünetekről UPS méretezés Green Mode és Auto start funkciók Bypass kapcsoló és mód UPS karbantartás, ellenőrzés Fogyasztók teljesítményigénye UPS - Szünetmentes áramforrások webáruházunkban
+UPS - Szünetmentes Megoldások Kazán és segédberendezéseinek energiaellátása, és fogyasztása
+Management lehetőségek Management lehetőségek UPS és Rendszer távfelügyelet WinPower menedzsment Univerzális - NUT - UPS manager sw. - imate & Pro UPSilon 2000 menedzsment UPSMON menedzsment Kommunikáció megoldások
+Akkumulátorok Akkumulátorok Akkumulátorok általában Környezetvédelmi szempontok Akkumulátorok helyes kezelése Yuasa akkumulátorok
+Elosztók Elosztósávok A FI relé Szerelhető, kábel nélküli elosztósáv
+Mérések, műszerek, módszerek Mérések, műszerek, módszerek Pockethernet 2 Grandway Műszerek Grandway Műszerek Optikai mérőműszerek FHP2A - (OPM) szoftver Grandway FHO5000 Szoftverfrissítés
+Optikai hálózatok Optikai hálózatok Optikai Rendszerek Optikai hálózatok felépítése, passzív és aktív elemei Optikai hálózatok felépítése, passzív és aktív elemei Optikai konverterekről Ipari menedzselhető redundáns switch [17953] Optikai SFP modulokról általában Optikai SFP modulok és kompatibilitás Optikai kábelosztó Optikai száltípusok jellemzői Kábelek színkódjai Kábel - Páncélozott, Rágcsálóvédett Kábel - FTTH Kábel - Szál - Vizsgálati módszerek Kábel - Loose tube Kábel - Tight buffer Kábel - ADSS Kábel - optikai szálak - G.652D Tesztkábelek és karbantartásuk Pigtailek Optikai PLC osztók
+Optikai hálózatok kábelezése Optikai Jelátalakítók Optikai hálózatok szerelése - Technológiák, Eszközök, Szerszámok Optikai hálózatok szerelése - Technológiák, Eszközök, Szerszámok Optikai szálhegesztés I. Optikai Szálhegesztő készletek FSKV2015Y SignalFire AI-7C/AI-8C SignalFire AI-9 Szálhegesztő hibák okai, javítása Signal Fire gyári beállítások viszaállítása Szálhegesztő elektródák cseréjének fontossága Signal Fire szálhegesztő elektródák karbantartása és cseréje Szerelés, lehetőségek, szerszámok Optikai precíziós száltörő Optikai szál-csupaszoló Optikai Szerelőkészletek
+Optikai hálózatok egyszerű mérése és műszerei Optikai hálózatok egyszerű mérése és műszerei FHO5000 OTDR család FHO5000 PRO új és tovább fejlesztett funkciókkal FHO3000 Mini OTDR család OTDR jegyzőkönyvek készítése OTDR Analizátor Szoftverek Teljesítmény és Csillapításmérő OPM410 Közvetlen szálmérés és ellenőrzés Beállítások a távolság és az impulzus-szélesség összefüggésében Előtét szálak, launch kábelek FLM OTDR funkció leírása
+Optikai Csatlakozók és Kötések Optikai Csatlakozók és Kötések Splice-On / Hot Melt hegeszthető típusok Csatlakozók ragasztómentes típusai és szerelésük Csatlakozók ragasztott szerelése, csiszolása LC - SM/MM gyorscsatlakozó MTP és MPO csatlakozók
+Optikai kapcsolatok hibakeresése Hibakereső, -ellenőrző Lézerek
+Optikai hálózatok üzemeltetése Karbantartási feladatok
+Esettanulmányok Esettanulmányok Megoldások Esettanulmányok Megoldások Esettanulmányok Egerek és Rágcsálók
+Védőcsövezés hiánya
+Saját fiók Kosár Írjon nekünk! Nyitott ügyek Lezárt ügyek Kedvencek Fiók adatok
+❮
+❯
+Üdvözöljük webáruházunkban!
+Cégünk hálózatinformatikai nagykereskedés, ezért kizárólag jogi személyeket, szerződött viszonteladókat és hivatalos telepítőket áll módunkban kiszolgálni! Magánszemélyeket nem!
+Webáruházban történő rendelés leadásához előzetes regisztráció szükséges, melyet kollégáink ellenőriznek és hagynak jóvá!
+Kedves ügyfeleink! Felhívjuk figyelmüket, hogy weboldalunk a jobb használhatóság érdekében folyamatos fejlesztés alatt áll, így előfordulhatnak apróbb hiányosságok, hibák a működésében.
+Az okozott kellemetlenségekért szíves elnézésüket kérjük!
+Amennyiben meglátása, javaslata van webáruházunk működésével kapcsolatban vagy hibával találkozik, írja meg a web@agendaage.hu címre, így mi is hatékonyabban intézhetjük a fejlesztéseket.
+Termékeink
+AKCIÓ
+HÁLÓZATI aktív eszközök
+ETHERNET (réz) hálózati termékek
+OPTIKAI hálózati elemek
+RACK szekrények és tartozékaik
+KÁBELBEHÚZÓK (ESTIARE)
+KÁBELCSATORNÁK és kiegészítők (KOPOS)
+SZOLGÁLTATÁSAINK
+TÁPELLÁTÁS
+TELEFON
+KOAX
+Ajánló
+KICSI a Grandway MT500, de ERŐS!
+Érkeznek az új generációs szálhegesztők
+Megérkeztek új páncélozott patch kábeleink
+Bemutatjuk a Grandway OTDR családot
+Így védje meg rendszereit a villamos hálózat bizonytalansága ellen!
+Megérkezett az új RackSys katalógus
+A megbízhatóság nem megy szabadságra!
+KIEMELT KÁBEL AKCIÓ! Csak a héten! (05.29-ig)
+ÚJDONSÁGOK! Továbbfejlesztett OTDR: FHO3100
+Kapcsolat
++36 1 313 1073
+info@agendaage.hu
+1095 Budapest,
+Soroksári út 48. 8.ép.fsz
+H-P: 8-17
+Vásárlói fiók
+Kosár
+

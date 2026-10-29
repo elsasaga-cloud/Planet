@@ -61,7 +61,7 @@
    "source": "https://www.zaubacorp.com/DNC-TECHNOSOLUTIONS-PRIVATE-LIMITED-U33125KL2013PTC034130"
   }
  ],
- "notes": "LT-T03 官网快照加厚（2026-10-21）：fail#1。\nA 维持（2 次实质回复 + 自有品牌 + 官网电话即 WhatsApp）；主需求 MC 与 VC：P1 = STI-110GE（MC）贴牌 30%；VC/HDMI 光端机 Saga 不做，如实说明。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：fail#2。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\nA 维持（2 次实质回复 + 自有品牌 + 官网电话即 WhatsApp）；主需求 MC 与 VC：P1 = STI-110GE（MC）贴牌 30%；VC/HDMI 光端机 Saga 不做，如实说明。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
@@ -208,10 +208,12 @@
  },
  "snap_thicken": {
   "consumed": [
-   "2026-10-21T09:20:15Z"
+   "2026-10-21T09:20:15Z",
+   "2026-10-29T15:26:46Z"
   ],
   "fails": [
-   "2026-10-21"
+   "2026-10-21",
+   "2026-10-29"
   ],
   "batch": "LT-T03"
  }

@@ -1,4 +1,4 @@
-# SB-832 alidex.es · home · https://www.alidex.es/ · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-832 alidex.es · home · https://www.alidex.es/ · fetched 2026-10-29T15:11:51Z · HTTP 200
 ALIDEX | Networking Industrial, Redes IoT, Ciberseguridad OT
 Toggle navigation
 Empresa
@@ -30,10 +30,10 @@ Ethernet Industrial
 Wireless Industrial
 Router & Access Point
 Novedades
+TGS-9200-M12-BP2 - Industrial Switch EN50155
 IGS-T9062DGP Switch Industrial Managed TSN
 IGS-3084GP-LA Switch Industrial 8x 1G + 4x SFP
 IGS-3164GP-LA Switch Industrial 16x 1G + 4x SFP
-PSI-MOS-RS232/FO 1300 E Serial Converter
 Módulos SFP
 Dual y Single Fiber, C/D WDM. Rango extendido. Ethernet, Fiber Channel, SONET /SDH/OTN hasta 400Gbps
 Captura de Tráfico y Análisis

@@ -1,19 +1,32 @@
 {
  "code": "XC-M189",
  "name": "Ekanet",
- "round": "X1-02",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "alive": "在线（ekanet.es，快照 2026-10-29）：Ekanet, mayorista de material para redes de voz y datos, fibra óptica.",
  "summary": "Ekanet Soluciones, S.L.：19\" 机柜制造 + 网络设备（交换机 / UPS / 光纤）分销；小型",
  "type_final": "分销；Ekanet Soluciones, S.L.",
  "size": "",
  "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
  "fit": "☆ 19\" 机柜制造 + 网络设备（交换机 / UPS / 光纤）分销 20%：Ekanet Soluciones, S",
- "brands_seen": [],
+ "brands_seen": [
+  "TP-Link",
+  "Netgear",
+  "Ubiquiti",
+  "MikroTik"
+ ],
  "contacts": {
   "email": "comercial@ekanet.es",
   "email_status": "官网 / 名录公开（X1-02 补路径）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "info@alcalink.com",
+   "license@prestashop.com"
+  ],
+  "page_phones": [
+   "+34 912 522 443"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "evidence": [
   {
@@ -29,6 +42,13 @@
    "quote": "",
    "url": "https://empresite.eleconomista.es/EKANET-SOLUCIONES.html",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Ekanet, mayorista de material para redes de voz y datos, fibra óptica.",
+   "quote": "mayorista de armarios Rack, Redes y Cableado Estructurado, fibra óptica, sais, switch y todo tipo de material para redes de voz y datos. Venta a profesionales.",
+   "url": "https://ekanet.es/",
+   "date": "2026-10-29"
   }
  ],
  "touch_status": "未触达（路径 2026-10-29 新补）",
@@ -40,6 +60,17 @@
   "angle": "观察档 → 试单后转正"
  },
  "deep": false,
- "notes": "Ekanet Soluciones, S.L.；C/ Dalia 8, 28970 Humanes de Madrid；CIF B86905536；+34 912 522 443",
- "draft_en": null
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nEkanet Soluciones, S.L.；C/ Dalia 8, 28970 Humanes de Madrid；CIF B86905536；+34 912 522 443",
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:57:55Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-288GPM",
+  "why": "官网快照对位：工业/自动化词频 39、PoE 95 → DIN 8 PoE+ 2 SFP 起手",
+  "date": "2026-10-29"
+ }
 }

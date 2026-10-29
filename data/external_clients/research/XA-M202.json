@@ -1,14 +1,15 @@
 {
  "code": "XA-M202",
  "name": "INOVIS Live Automation AG",
- "round": "W2-R04",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（shop.inovis-group.com，快照 2026-10-29）：Home",
  "summary": "工业自动化/IIoT 产品分销（INOVIS Live Automation AG，Rüti ZH）；工业自动化分销 → 最贴你的工业线",
  "type_final": "工业自动化/IIoT 产品分销（INOVIS Live Automation AG，Rüti ZH）",
  "size": "未量化",
  "brands_seen": [
-  "MikroTik（Reseller）"
+  "MikroTik（Reseller）",
+  "Teltonika"
  ],
  "saga_line": "SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE",
  "fit": "工业分销",
@@ -19,12 +20,35 @@
    "quote": "",
    "url": "https://shop.inovis-group.com/",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Home",
+   "quote": "Home",
+   "url": "https://shop.inovis-group.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "sales@inovis-group.com",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "sales.ch@inovis-group.com",
+   "sales.ie@inovis-group.com",
+   "sales.pl@inovis-group.com",
+   "sales.tw@inovis-group.com",
+   "sales.uk@inovis-group.com",
+   "sales@inovis-group.com"
+  ],
+  "page_phones": [
+   "+353 1 535 2896",
+   "+41 55 253 44 88",
+   "+48 544 295 015",
+   "+886 2 8698 3608",
+   "000 2500 10"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -38,10 +62,21 @@
   "window": "CH 周四 12–14",
   "when": "2026-11-19"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "draft_en": {
   "subject": "DIN-rail industrial PoE switches - second source for your line card",
   "body": "Hi,\n\nSaga Telecom builds DIN-rail industrial Ethernet switches for distributors who already carry automation and industrial communication brands and want a second source at a lower price point, CE.\n\nSTI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.\n\nWould a DIN-rail PoE switch line sit alongside your IIoT hardware, or is switching outside your scope?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "deep": false
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:46:23Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-288GPM",
+  "why": "官网快照对位：工业/自动化词频 11、PoE 12 → DIN 8 PoE+ 2 SFP 起手",
+  "date": "2026-10-29"
+ }
 }

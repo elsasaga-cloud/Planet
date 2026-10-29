@@ -5,7 +5,9 @@
  "summary": "阿联酋 IT + ELV 系统集成商（IT 基础设施、智能楼宇、安防、BMS），2004 年创立，迪拜/阿布扎比/艾因/印度科钦设办公室，11–50 人；用户记录 3 次回复并已加 WhatsApp（Rafi），询过 HDMI 转换器。",
  "type": "系统集成商（IT/ELV）",
  "size": "小型（11–50 人，3 个本地办公室）",
- "brands_seen": [],
+ "brands_seen": [
+  "Ubiquiti"
+ ],
  "evidence": [
   {
    "kind": "官网",
@@ -75,11 +77,12 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "LT-T03 官网快照加厚（2026-10-21）：fail#1。\n3 次回复 + WA 在线 + 高管级联系人；集成商身份与 ELV 项目用 PoE 交换机高度相关，虽历史询盘为 HDMI 转换器（Saga 不做）。中东非主攻区但可直接转为项目报价。P1：STC-424DGGPM-280W（楼宇安防 24 口 PoE），项目价阶 25%。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\n3 次回复 + WA 在线 + 高管级联系人；集成商身份与 ELV 项目用 PoE 交换机高度相关，虽历史询盘为 HDMI 转换器（Saga 不做）。中东非主攻区但可直接转为项目报价。P1：STC-424DGGPM-280W（楼宇安防 24 口 PoE），项目价阶 25%。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v2（官网 2026 新闻 + 名录核对）"
+  "level": "深挖 v2（官网 2026 新闻 + 名录核对） + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "company_facts": {
   "legal_name": "Tecpro Solutions Co. L.L.C.（TPS）",
@@ -189,6 +192,14 @@
     "quote": "用户表跟进：推「8电口」→ 对方「最近来中国」",
     "why": "Simon 跟进表里的回应记录（邮箱看不到的渠道）；按原文留存",
     "k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.38 1025"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "System Integrator in UAE | Tecpro Solutions — Tecpro Solutions is UAE's trusted system integrator with 20+ years' experience in IT infrastructure, smart buildings & digital transformation.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.tecprosolutions.com/"
    }
   ],
   "proof_gaps": [
@@ -202,11 +213,33 @@
  },
  "snap_thicken": {
   "consumed": [
-   "2026-10-21T09:20:30Z"
+   "2026-10-21T09:20:30Z",
+   "2026-10-29T15:26:46Z"
   ],
   "fails": [
    "2026-10-21"
   ],
-  "batch": "LT-T03"
+  "batch": "LT-T03",
+  "last_ok": "2026-10-29"
+ },
+ "site_contacts": {
+  "emails": [
+   "dxb@tecprosolutions.com"
+  ],
+  "phones": [
+   "00971 2 6767373 00971 52 9250500",
+   "00971 3 7662264 00971 52 913 9002",
+   "00971 4 3266881 00971 52 9250501"
+  ],
+  "social": [
+   "https://twitter.com/intent/tweet?text=Tecpro+Solutions+Expands+Sustainability+Portfolio+with+CLIMACERT+X+Partnership&url=https%3A%2F%2Fwww.tecprosolutions.com%2Ftecpro-solutions-expands-sustainability-portfolio-with-climacert-x-partnership%2F",
+   "https://twitter.com/intent/tweet?text=Unified+Physical+Security%3A+Integrating+CCTV%2C+Access+Control%2C+Perimeter+Security%2C+and+Intelligent+Monitoring&url=https%3A%2F%2Fwww.tecprosolutions.com%2Funified-physical-security-integrating-cctv-access-control-perimeter-security-and-intelligent-monitoring%2F",
+   "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.tecprosolutions.com%2Ftecpro-solutions-expands-sustainability-portfolio-with-climacert-x-partnership%2F",
+   "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.tecprosolutions.com%2Funified-physical-security-integrating-cctv-access-control-perimeter-security-and-intelligent-monitoring%2F"
+  ],
+  "models_on_site": [],
+  "url": "https://www.tecprosolutions.com/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

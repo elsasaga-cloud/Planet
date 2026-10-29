@@ -5,7 +5,10 @@
  "summary": "国别纠偏：表内「俄罗斯」 → 捷克。Conexpro 官网 About / Contact：总部 Hřbitovní 1479/25, 312 00 Plzeň, Czech Republic（另列 Sídlo Daimlerova 6, 312 00 Plzeň）；info@conexpro.com。来源：公司底数登记（`data/saga_clients/registry/`，第 136 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。",
  "type": "品牌商（ISP / 安装商全线网络配件自有品牌：PoE 交换机 / SFP / 注入器 / 机柜）",
  "size": "中型（全线品牌 + 多国分销）",
- "brands_seen": [],
+ "brands_seen": [
+  "Ubiquiti",
+  "MikroTik"
+ ],
  "evidence": [
   {
    "kind": "官网",
@@ -17,7 +20,7 @@
  ],
  "researched_at": "2026-10-29",
  "country_fix": "捷克",
- "notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。\nT29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。",
  "override_history": [
   {
    "batch": "LT-01",
@@ -64,6 +67,14 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 捷克（欧洲）· 自有品牌商 OEM 30%（长线）：Conexpro（conexpro.com About / Contact 直取：ISP / 安装商全线网络配件品牌，PoE 交换机 / SFP / 注入器 / 机柜 / 电池；Hřbitovní 1479/25, 312 00 Plzeň；info@conexpro.com；多国分销）部分坐实（IČO 未取，法人疑 i4wifi a.s.）；表内「俄罗斯」→ 实为捷克 = 国别纠偏待 Simon；Simon 二筛「全线帧田」= 已用中国 OEM ✔ 欧洲 ✔ 邮箱 ✔ → P 池候选（Simon 原「判定不行」可否决）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Conexpro - accessories for ISPs — We offer quality installation accessories for assembly companies and ISP providers - UTP/FTP/STP/SSTP data cables, patch cables, data cabinets, mounting boxes, batteries (AGM/GEL/LiFePO4), PoE, power adapters , reduction and much more.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://conexpro.com/"
    }
   ],
   "proof_gaps": [
@@ -72,7 +83,33 @@
  },
  "deep": {
   "done_at": "2026-10-29",
-  "level": "邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓）",
-  "batch": "LT-T01"
+  "level": "邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T01",
+  "snapshot_at": "2026-10-29"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:38:48Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "GNT-IG1210GF-DC",
+   "GNT-IG1008GL-AC",
+   "GNT-40603",
+   "AFA-1",
+   "GNT-ES20GDH2-P",
+   "GNT-IG1210FP-DC",
+   "GNT-IG1008GP-DC",
+   "GNT-IG1218F8-AC"
+  ],
+  "url": "https://conexpro.com/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

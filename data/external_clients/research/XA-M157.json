@@ -1,15 +1,21 @@
 {
  "code": "XA-M157",
  "name": "eD's system Czech",
- "round": "W2-R04",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（edshop.edsystem.cz，快照 2026-10-29）：IT | eD system a.s.",
  "summary": "大型 IT 分销（eD system Czech）；MikroTik 官方分销，商用线可直接比价，工业线为零 → 新品类增量",
  "type_final": "大型 IT 分销（eD system Czech）",
  "size": "未量化",
  "brands_seen": [
   "MikroTik（Master",
-  "VAD）"
+  "VAD）",
+  "Aruba",
+  "Ubiquiti",
+  "Intellinet",
+  "Cisco",
+  "PLANET",
+  "TP-Link"
  ],
  "saga_line": "—",
  "fit": "",
@@ -20,12 +26,29 @@
    "quote": "",
    "url": "https://edshop.edsystem.cz/",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；IT | eD system a.s.",
+   "quote": "eD system a.s. - distributor hardware, software, PC komponent, mobilit a digitální techniky",
+   "url": "https://edshop.edsystem.cz/info-other/it/n-52,0,0",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@edsystem.cz",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "info@elinkx.cz"
+  ],
+  "page_phones": [
+   "+0 (121) 2",
+   "000 (2) 1200 (1) 1300 (4) 1400 (1) 1900 (1) 2100 (1) 2300 (1) 4000 (1) 4500 (1) 5800 (1) 9600 (1",
+   "000 (9) 1200 (8) 1400 (7) 1800 (5) 1900 (1) 2400 (2) 2600 (6) 3000 (1) 3600 (3) 4000 (1) 4500 (1) 4700 (8) 4800 (8) 5000 (1) 6000 (3) 7500 (5) 12500 (1",
+   "0000 (14) 1000 (101) 2500 (8) 96 (4) 131 (10) 715 (3) 1070 (9"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -39,7 +62,18 @@
   "window": "",
   "when": "不动"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:45:15Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGM",
+  "why": "官网快照对位：10G/2.5G 词频 4、交换机 74 → 24 GE + 4×10G L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

@@ -1,13 +1,19 @@
 {
  "code": "XB-C0350",
  "name": "IV Pro International",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 ivprodistribution.com MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（ivprodistribution.com，快照 2026-10-29）：IVPRO International Ltd | IT, Networking & CCTV Distributor",
  "summary": "IV Pro International（加纳）：西非区域分销；业务=西非区域分销；开发策略=西非多国覆盖",
  "type_final": "西非区域分销",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Ubiquiti",
+  "Hikvision",
+  "MikroTik",
+  "TP-Link",
+  "Grandstream"
+ ],
  "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
  "fit": "",
  "evidence": [
@@ -24,12 +30,32 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；IVPRO International Ltd | IT, Networking & CCTV Distributor",
+   "quote": "IVPRO International Ltd supplies IT, networking, CCTV, power and security solutions across Ghana, Cameroon, UAE and India.",
+   "url": "https://ivprodistribution.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@ivprodistribution.com",
   "email_status": "活（来源库 9 月核对）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "info@ivprodistribution.com",
+   "ivproghana@gmail.com"
+  ],
+  "page_phones": [
+   "+233 530313190",
+   "+233 536558266",
+   "+233 537859933",
+   "+233 554420946",
+   "+233530313190",
+   "+237 681133021"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -45,5 +71,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:52:36Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-28DGGPM",
+  "why": "官网快照对位：交换机词频 31、无 PoE/工业侧重 → 8 口 L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

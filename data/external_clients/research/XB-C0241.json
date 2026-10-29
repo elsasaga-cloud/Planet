@@ -1,14 +1,20 @@
 {
  "code": "XB-C0241",
  "name": "Pentagon Solutions (坦桑尼亚)",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 pentagon-solutions.com MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（pentagon-solutions.com，快照 2026-10-29）：Pentagon Solutions | Tanzania's Safety & Security Experts",
  "summary": "Pentagon Solutions (坦桑尼亚)（坦桑尼亚）：Hikvision国家分销商；地址=Uhuru Street (Near Lumumba St), Dar es Salaam；业务=Hikvision全国分销（全品类：CCTV/门禁/交换机/线缆/HDD）；开发策略=坦桑尼亚Hikvision全国分销",
  "type_final": "Hikvision国家分销商",
  "size": "",
  "brands_seen": [
-  "Hikvision"
+  "Hikvision",
+  "Ubiquiti",
+  "Ruijie",
+  "TP-Link",
+  "MikroTik",
+  "ZKTeco",
+  "H3C"
  ],
  "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
  "fit": "",
@@ -26,12 +32,26 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Pentagon Solutions | Tanzania's Safety & Security Experts",
+   "quote": "Pentagon Solutions is a national distributor of security products and services in Tanzania: Hikvision CCTV, Sparkx electric fencing and Centurion gate automation, with survey, installation, training and after-sales support.",
+   "url": "https://pentagon-solutions.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@pentagon-solutions.co.tz",
   "email_status": "活（来源库 9 月核对）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "info@pentagon-solutions.com"
+  ],
+  "page_phones": [
+   "+255 744 222 333"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -47,5 +67,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:52:22Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-288GPM",
+  "why": "官网快照对位：工业/自动化词频 5、PoE 9 → DIN 8 PoE+ 2 SFP 起手",
+  "date": "2026-10-29"
+ }
 }

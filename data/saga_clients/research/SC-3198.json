@@ -6,7 +6,9 @@
  "summary": "C 池三闸捞出（★ 正式）：★ 印度 · 自有品牌 OEM 30%：Techroutes Network Pvt Ltd（Gurgaon；CIN U72200RJ2003PTC018583；2003；实收 ₹2 Cr；营业额 ₹5–25 Cr；自有路由 / 交换 / VoIP 产品线经分销商销售）坐实；自有品牌 ✔ 印度点名国 ✔ 对位 ✔ 决策人具名 ✔ → P 池候选（Simon 曾标 Spam → 可否决）",
  "type": "自有品牌 OEM（闸 2 判定 · 30% 档）",
  "size": "中型（实收 ₹2 Cr；营业额 ₹5–25 Cr；IEC）",
- "brands_seen": [],
+ "brands_seen": [
+  "Ubiquiti"
+ ],
  "evidence": [
   {
    "kind": "登记底数 / 官网（闸 2 坐实）",
@@ -52,7 +54,7 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 印度 · 自有品牌 OEM 30%：Techroutes Network Pvt Ltd（Gurgaon；CIN U72200RJ2003PTC018583；2003；实收 ₹2 Cr；营业额 ₹5–25 Cr；自有路由 / 交换 / VoIP 产品线经分销商销售）坐实；自有品牌 ✔ 印度点名国 ✔ 对位 ✔ 决策人具名 ✔ → P 池候选（Simon 曾标 Spam → 可否决）；闸 1：印度 Techroutes（techroutes.com；商业 FS + 工业 FS switch；dinesh.rastogi@ / kdeepak@ 两位具名；手机 93000 69633「好像是没加」；Simon 标 Spam）：印…",
- "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/saga_fit/deep/facts。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -82,8 +84,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "STC-424XGGPM-280W",
-   "why": "默认对位（自有品牌 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
+   "p1": "STI-288GPM",
+   "why": "官网快照对位：工业/自动化词频 10、PoE 4 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -105,6 +107,14 @@
     "quote": "IN · 1 次检索：zaubacorp（CIN / 地址 / MCA 邮箱）+ instafinancials（成立 / 实收 / 前 CIN）+ indiamart（业务 / 营业额 / IEC）；2026-10-29",
     "why": "闸 2 坐实来源（URL 见 company_facts.url）",
     "url": "https://www.instafinancials.com/company/techroutes-network-private-limited-U72200RJ2003PTC018583"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Techroutes Network - Connecting people, enterprises, Communities — Techroutes Network is a technology rich ISO 9001-2014 organization, with proven products and solutions in the networking arena.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://techroutes.com/"
    }
   ],
   "proof_gaps": [
@@ -143,14 +153,44 @@
   "**印度 · 自有品牌 OEM 30%：点名 Dinesh Rastogi 一页纸一次（STC-228GP $33 / STC-2224GP $86 / STC-4424GCPM $165 + STI-288GPM 工业线 中性包装 + 贴 Techroutes 牌 + MOQ 1 + 付费样机）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100"
  ],
  "saga_fit": {
-  "p1": "STC-424XGGPM-280W",
+  "p1": "STI-288GPM",
   "tier": 30,
-  "why": "默认对位（自有品牌 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
-  "basis": "默认 · 官网快照后按业务线校正"
+  "why": "官网快照对位：工业/自动化词频 10、PoE 4 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）",
+  "basis": "官网快照自动对位（LT-T03）· 人工点名时再校",
+  "p1_prev": "STC-424XGGPM-280W"
  },
  "deep": {
   "done_at": "2026-10-29",
-  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
-  "batch": "LT-T01"
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T01",
+  "snapshot_at": "2026-10-29"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:39:03Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@techroutes.com",
+   "investor@techroutes.com",
+   "overseas@techroutes.com",
+   "sales@techroutes.com",
+   "support@techroutes.com"
+  ],
+  "phones": [
+   "+91 0124 2340341",
+   "+91 124 2340341",
+   "+91-124-2340341"
+  ],
+  "social": [],
+  "models_on_site": [
+   "ISO9001-2014"
+  ],
+  "url": "https://techroutes.com/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

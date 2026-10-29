@@ -1,13 +1,25 @@
 {
  "code": "XB-E034",
  "name": "SEC Communications Pvt Ltd.",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 seccom.in MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（seccom.in，快照 2026-10-29）：IT System Integrator in India for Turnkey Projects | SECCOM",
  "summary": "SEC Communications Pvt Ltd.（印度 · Bangalore）：SI/VAR/集成商",
  "type_final": "SI/VAR/集成商",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Cisco",
+  "Schneider",
+  "Netgear",
+  "D-Link",
+  "Aruba",
+  "Grandstream",
+  "Siemens",
+  "Hanwha",
+  "Bosch",
+  "Fortinet",
+  "Juniper"
+ ],
  "saga_line": "STC 项目集成款（25% 档：STC-2216GP / STC-228GP）",
  "fit": "",
  "evidence": [
@@ -31,12 +43,26 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；IT System Integrator in India for Turnkey Projects | SECCOM",
+   "quote": "Leading pan-India system integrator since 1997. Design, supply, installation, commissioning and AMC across nine solutions, from cabling to command centres.",
+   "url": "https://seccom.in/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "janaki@seccom.org",
   "email_status": "活（来源库 9 月核对）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "info@seccom.in"
+  ],
+  "page_phones": [
+   "+91 77229 92266"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-20 去信 1 / 来信 0（24 Port PoE Managed Switch）",
  "saga_overlap": "无",
@@ -52,5 +78,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:53:53Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-280GE",
+  "why": "官网快照对位：工业/自动化词频 10、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手",
+  "date": "2026-10-29"
+ }
 }

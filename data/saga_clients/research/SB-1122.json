@@ -41,10 +41,11 @@
  ],
  "grade_override": "A",
  "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
- "notes": "俄罗斯付款：T/T USD 受限，口径里的「RMB via CN agent」是可行路径——信里不展开，对方问再说。他 2024-05 问的 48×25G+8×100G 正是 STH-8C48DX-HSI（$4,800 EXW）；32×100G = STH-32C-HSI（$6,000）。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。\n俄罗斯付款：T/T USD 受限，口径里的「RMB via CN agent」是可行路径——信里不展开，对方问再说。他 2024-05 问的 48×25G+8×100G 正是 STH-8C48DX-HSI（$4,800 EXW）；32×100G = STH-32C-HSI（$6,000）。",
  "deep": {
   "done_at": "2026-10-24",
-  "level": "邮件证据"
+  "level": "邮件证据 + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "company_facts": {
   "legal_name": "Comtinu（comtinu.ru；法人名未定位 —— ЕГРЮЛ 镜像无关联，官网快照 timeout）（第 87 批 官方登记核实 2026-10-27）",
@@ -137,6 +138,14 @@
     "quote": "For now, we are still focusing on access switches. It will be CENTEC based=a famous Chinese chip… Please let me know if this is acceptable to you.",
     "why": "断点：没给网站、没给型号价",
     "k": "reply"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Home - ООО \"Комтиню\". Оборудование, приборы и системы для телекоммуникации. — Новости Все новости Популярные продукты Каталог Партнеры О компании ООО «КОМТИНЮ» является Российским поставщиком оборудования тактовой сетевой синхронизации (ТСС) и систем единого времени, тестового измерительного оборудо",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.comtinu.ru/"
    }
   ],
   "proof_gaps": [
@@ -158,5 +167,36 @@
    "prev_reason": "两次具名真互动均为 25G/100G 数据中心需求（Simon：DC 交换机客户优先）；2025-12 明说「we have 100-25G projects」后被我们一句「still focusing on access」放掉；俄罗斯为次要市场，按 B 慢慢跟进。",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）"
   }
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:26:54Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "office@comtinu.ru",
+   "sales@comtinu.ru"
+  ],
+  "phones": [
+   "+7 495 937-36-08",
+   "+7 495 937-36-09"
+  ],
+  "social": [],
+  "models_on_site": [
+   "QSFP28",
+   "TP4100",
+   "MAP-300",
+   "SPT-N4U",
+   "BD-1024-PS",
+   "BD-1024",
+   "ODU-C120",
+   "CPE-C260"
+  ],
+  "url": "https://www.comtinu.ru/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

@@ -1,0 +1,11 @@
+# XC-M151 Power/mation · feed_auto · https://www.powermation.com/feed/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+Wed, 22 Apr 2026 21:51:00 +0000	How Modern PLC Automation is Changing ICS	https://www.powermation.com/blog/how-modern-plc-automation-is-changing-ics/
+Thu, 30 Oct 2025 13:51:33 +0000	2026 Macro Outlook for U.S. Manufacturing in Industrial Automation	https://www.powermation.com/blog/2026-macro-outlook-for-u-s-manufacturing-in-industrial-automation/
+Thu, 25 Sep 2025 14:07:36 +0000	Driving Smarter Production with Festo Electric Automation	https://www.powermation.com/blog/festo-electric-automation/
+Thu, 28 Aug 2025 14:09:52 +0000	On-Premise Data Centers and Liquid Cooling on the Plant Floor	https://www.powermation.com/blog/ai-and-liquid-cooling-come-to-the-plant-floor/
+Wed, 16 Jul 2025 23:08:58 +0000	Power/mation and the Data Center Boom	https://www.powermation.com/blog/power-mation-and-the-data-center-boom/
+Fri, 11 Apr 2025 23:13:40 +0000	Mastering Machine Safety	https://www.powermation.com/blog/mastering-machine-safety/
+Thu, 20 Mar 2025 14:53:03 +0000	BABAA Compliance – Strengthening American Manufacturing	https://www.powermation.com/blog/babaa-compliance-strengthening-american-manufacturing/
+Fri, 17 Jan 2025 21:33:13 +0000	Improving Workflow Dynamics Using EPLAN’s Software Solutions	https://www.powermation.com/blog/improving-workflow-dynamics-using-eplans-software-solutions/
+Tue, 15 Oct 2024 17:49:22 +0000	Custom Fencing Solutions for Industrial Safety	https://www.powermation.com/blog/custom-fencing-solutions-for-industrial-safety/
+Wed, 25 Sep 2024 15:41:56 +0000	Artificial Intelligence & Industrial Automation	https://www.powermation.com/blog/artificial-intelligence-industrial-automation/

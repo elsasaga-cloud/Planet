@@ -7,7 +7,10 @@
  "type": "工业网络分销（闸 2 判定 · 20% 档）",
  "size": "小型（$5.1M）",
  "brands_seen": [
-  "PLANET"
+  "PLANET",
+  "Antaira",
+  "D-Link",
+  "Teltonika"
  ],
  "evidence": [
   {
@@ -42,7 +45,7 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 印度 · 工业网络分销 20%：Bluboxx Communication Pvt Ltd — BBCPL（Pune；$5.1M；工业网络 + 自动化分销）部分坐实（CIN 未取）；台湾品牌（Planet）经销 ✔ 对位 ✔ Simon 点名印度 ✔ → P 池候选；闸 1：印度 BBCPL（bbcpl.in；主要是 Planet 的）：台湾品牌分销 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先",
- "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/saga_fit/deep/facts。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -72,8 +75,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "STC-228GP",
-   "why": "默认对位（工业网络分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
+   "p1": "STI-288GPM",
+   "why": "官网快照对位：工业/自动化词频 244、PoE 15 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -95,6 +98,14 @@
     "quote": "IN · 1 次检索：tracxn 法人页（法人名 / 品牌 / 地址）+ zoominfo（营收 / 电话）；CIN 未取；2026-10-29",
     "why": "闸 2 坐实来源（URL 见 company_facts.url）",
     "url": "https://tracxn.com/d/legal-entities/india/bluboxx-communication-private-limited/__4o5mhod8UCZdybdTAdXuS4HYOKFEZoqCL-v4QWaJ-30"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Industrial Networking Solutions | We Help You Connect — BluBoxx Communication — Authorized distributor of Planet, 3onedata, Antaira, Kyland & ADLINK. Industrial Ethernet, Fiber Optics, IoT Gateways. ISO 9001-2015 Certified.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://bbcpl.in/"
    }
   ],
   "proof_gaps": [
@@ -133,14 +144,44 @@
   "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
  ],
  "saga_fit": {
-  "p1": "STC-228GP",
+  "p1": "STI-288GPM",
   "tier": 20,
-  "why": "默认对位（工业网络分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
-  "basis": "默认 · 官网快照后按业务线校正"
+  "why": "官网快照对位：工业/自动化词频 244、PoE 15 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）",
+  "basis": "官网快照自动对位（LT-T03）· 人工点名时再校",
+  "p1_prev": "STC-228GP"
  },
  "deep": {
   "done_at": "2026-10-29",
-  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
-  "batch": "LT-T01"
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T01",
+  "snapshot_at": "2026-10-29"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:36:11Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "your@email.com"
+  ],
+  "phones": [
+   "+91 9513164464"
+  ],
+  "social": [
+   "https://twitter.com/BluBoxx_IND",
+   "https://www.facebook.com/BluBoxxIND/",
+   "https://www.instagram.com/bluboxx_communication/",
+   "https://www.linkedin.com/company/bluboxx/"
+  ],
+  "models_on_site": [
+   "EN50155",
+   "IEC61850-3"
+  ],
+  "url": "https://bbcpl.in/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

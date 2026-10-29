@@ -1,9 +1,9 @@
 {
  "code": "XA-C0021",
  "name": "uniVorx GmbH (DrayTek D-A-CH)",
- "round": "W1-R01",
- "researched_at": "2026-10-27",
- "alive": "活",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（draytek.de，快照 2026-10-29）：TwoCom Web-Services",
  "summary": "柏林近郊 Schönefeld 的 DrayTek DACH 独家总代（2014 年底接手，11–50 人），只卖 DrayTek 一牌（含 VigorSwitch PoE 全线），下面再分给 Comline/TwoCom/TKR 等分销。品牌独家总代不会上第二家交换机。",
  "type_final": "单品牌独家总代（DrayTek）",
  "size": "11–50 人",
@@ -26,6 +26,13 @@
    "quote": "",
    "url": "https://www.heise.de/newsticker/meldung/Neuer-Distributionsweg-fuer-DrayTek-Router-2499623.html",
    "date": "2014-12-18"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；TwoCom Web-Services",
+   "quote": "TwoCom Web-Services",
+   "url": "https://draytek.de/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
@@ -44,7 +51,13 @@
   "window": "",
   "when": ""
  },
- "notes": "",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/evidence。\n",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:42:41Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

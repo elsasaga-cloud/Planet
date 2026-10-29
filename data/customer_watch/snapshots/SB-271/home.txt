@@ -1,4 +1,4 @@
-# SB-271 dodicelettronica.it · home · https://www.dodicgroup.it/ · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-271 dodicelettronica.it · home · https://www.dodicgroup.it/ · fetched 2026-10-29T15:11:51Z · HTTP 200
 Dodic: soluzioni di sicurezza antifurto, video e domotica -
 0775 840029
 marketing@dodic.it
@@ -168,6 +168,10 @@ Sistemi di Accumulo
 Porte Automatiche
 Con 50 anni di esperienza, offriamo ai nostri clienti installatori e professionisti del settore della sicurezza, le soluzioni ed il supporto adeguati ad ogni esigenza: prodotti dei migliori brand, assistenza tecnica, consulenza di vendita, corsi di formazione, e-commerce, sopralluoghi in affiancamento; preventivi strutturati e supporto nei progetti.
 Scopri le ultime novità Dodic!
+Corso Ajax – Roma Nord
+Iscriviti al corso formativo Ajax su TVCC e gamma Superior in data 19 Novembre presso Roma Nord.
+Corso Ajax – Latina
+Riserva il tuo posto al corso Ajax in data 12 novembre e scopri le potenzialità Superior e TVCC.
 Risco – Promo Sensori Radio
 Offerta valida da Ottobre a Dicembre 2026 salvo esaurimento scorte. Scopri l'ecosistema Risco!
 Percorso formativo – CNA Roma
@@ -184,11 +188,7 @@ Corso UNV – Casoria
 Il 30 settembre la sede Dodic Elettronica ospiterà un corso tecnico UNV dedicato alle soluzioni TVCC.
 Corso UNV – Frosinone
 Non perderti il nuovo corso formativo sulle soluzioni TVCC. Prenota ora e scopri le novità in programma!
-Corso UNV – Fiumicino
-Il 29 settembre Secur Matica ospita un corso tecnico UNV dedicato alle soluzioni TVCC.
-Corso UNV – Roma Ovest
-Iscriviti al corso UNV TVCC in data 29 Settembre e scopri le potenzialità dei nuovi sistemi Uniview.
-Showing Slide 1 of 10: Risco – Promo Sensori Radio
+Showing Slide 1 of 10: Corso Ajax – Roma Nord
 Il punto di riferimento per i professionisti del settore.
 Dal 1975, una storia di sicurezza e innovazione.
 Supporto Tecnico
@@ -333,4 +333,4 @@ News Recenti
 All Post
 Sede di Roma Sud
 Sede di Roma Ovest
-Sede di Pescar
+Sede di Pescara

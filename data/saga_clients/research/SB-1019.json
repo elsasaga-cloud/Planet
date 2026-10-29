@@ -2,7 +2,7 @@
  "code": "SB-1019",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（connectixcablingsystems.com：HTTP 错误，2026-10-21，第 1 次）",
+ "website_status": "在线（connectixcablingsystems.com，快照 2026-10-29）：Connectix Cabling Systems",
  "summary": "英国 Connectix Cabling Systems（connectix.co.uk：结构化布线系统品牌；表内「Networking / Startech」「质量一般」；KP Matthew Craig（Product Designer））；表内未跟进。",
  "type": "结构化布线品牌商（英国，有源为副线）",
  "size": "",
@@ -51,10 +51,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/deep/facts。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "company_facts": {
   "hq": "500 Avenue West, Skyline 120, Great Notley, Braintree, Essex CM77 7AA",
@@ -128,6 +129,14 @@
     "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
     "why": "Elsa 箱群发 BCC 触达证据（命中地址 connectix.co.uk, paul.farrelly@connectix.co.uk, sales@connectix.co.uk）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
     "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Connectix Cabling Systems",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.connectixcablingsystems.com/"
    }
   ],
   "proof_gaps": [],
@@ -146,11 +155,37 @@
  "override_history": [],
  "snap_thicken": {
   "consumed": [
-   "2026-10-21T09:27:56Z"
+   "2026-10-21T09:27:56Z",
+   "2026-10-29T15:31:46Z"
   ],
   "fails": [
    "2026-10-21"
   ],
-  "batch": "LT-T03"
+  "batch": "LT-T03",
+  "last_ok": "2026-10-29"
+ },
+ "site_contacts": {
+  "emails": [
+   "edinburgh@connectix.co.uk",
+   "sales@connectix.co.uk",
+   "sales@connectix.ie"
+  ],
+  "phones": [
+   "+353 1 6236751",
+   "+44 131 440 4012"
+  ],
+  "social": [
+   "https://uk.linkedin.com/company/connectix-cabling-systems",
+   "https://www.instagram.com/connectixcs/"
+  ],
+  "models_on_site": [
+   "BS6701",
+   "BS7671",
+   "SFP28",
+   "QSFP28"
+  ],
+  "url": "https://www.connectixcablingsystems.com/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

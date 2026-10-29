@@ -1,9 +1,9 @@
 {
  "code": "XB-E015",
  "name": "VESC Solution Sdn. Bhd.",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 vesc.com.my MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（vesc.com.my，快照 2026-10-29）：VESC Solution Sdn Bhd Malaysia | Wireless | Network Switch | WiFi",
  "summary": "VESC Solution Sdn. Bhd.（马来西亚 · Petaling Jaya）：SI/VAR/集成商",
  "type_final": "SI/VAR/集成商",
  "size": "",
@@ -30,6 +30,13 @@
    "claim": "桌面复核（来源库核对 + 研究卡）：SI/VAR/集成商；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））",
    "quote": "",
    "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；VESC Solution Sdn Bhd Malaysia | Wireless | Network Switch | WiFi",
+   "quote": "Network Design We help our customer design whole network infrastructure from A to Z using Cloud managed or on premise managed design. See More Superior Features Design Our design will provide superior design with advanced features that you never ever think about it is possible. See More Easy Maintai",
+   "url": "https://vesc.com.my/",
    "date": "2026-10-29"
   }
  ],
@@ -58,5 +65,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:53:35Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-28DGGPM",
+  "why": "官网快照对位：交换机词频 1、无 PoE/工业侧重 → 8 口 L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

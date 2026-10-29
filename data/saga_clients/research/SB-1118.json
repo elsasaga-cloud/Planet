@@ -24,7 +24,7 @@
    "source": "gmail_a 2026-09-30 回信签名「AC」"
   }
  ],
- "notes": "Q-44「A 邮箱入库后同一脚本再跑一遍，把有人工回信的补录」的产物（第 64 批）。727 个未入库出站域名里只有它一个是重点区域内的真人回信。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。\nQ-44「A 邮箱入库后同一脚本再跑一遍，把有人工回信的补录」的产物（第 64 批）。727 个未入库出站域名里只有它一个是重点区域内的真人回信。",
  "researched_at": "2026-10-24",
  "saga_fit": {
   "p1": "STC-424XGGPM-280W（校园楼层 PoE，24 口 + 4×10G）",
@@ -80,6 +80,14 @@
     "quote": "Not for the moment, but I'll keep your Email for futur reference.",
     "why": "真人回信，礼貌留门；邮件系统横幅为法语外部邮件警示（CSPE）",
     "k": "gmail_a cae10af242e8d3f8"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Hélène Marcil – Orthopédagogue – Une aide à votre portée — Les troubles d’apprentissages… le TDAH… les mots épeurants qui finissent en « xie » … En tant que parent, on se sent parfois démuni. En tant que personne avec une ou plusieurs de ces conditions, ça fait peur. On se sent parfois seul, différe",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://helenemarcil.wordpress.com/"
    }
   ],
   "proof_gaps": [
@@ -99,7 +107,26 @@
  },
  "deep": {
   "done_at": "2026-10-29",
-  "level": "邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓）",
-  "batch": "LT-T01"
+  "level": "邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T01",
+  "snapshot_at": "2026-10-29"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:32:00Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "marcil.helene@educationhmo.com"
+  ],
+  "phones": [],
+  "social": [],
+  "models_on_site": [],
+  "url": "https://helenemarcil.wordpress.com/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

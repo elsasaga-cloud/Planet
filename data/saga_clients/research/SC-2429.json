@@ -7,7 +7,8 @@
  "type": "",
  "size": "",
  "brands_seen": [
-  "PLANET"
+  "PLANET",
+  "ZKTeco"
  ],
  "evidence": [
   {
@@ -63,10 +64,11 @@
  "kp": [],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 中型分销 20%：El Paso Communication Systems, Inc. — EPCOM（1987；95 人；$23.7M；三仓；PLANET 双线在售；purchasing@ 在表）坐实；对位 ✔ 主区 ✔ 体量 ✔ 坐实 ✔ → P 池候选；Simon 曾判不行，可否决；闸 1：美国 Epcom（El Paso；Syscom 美方；约 100 人；PLANET 商用 + 工业两线备货、Wi-Tek 在用；研究档对位 STC-424DGGM）：美国主区 + 分销主体 + 对位 ✔；8 推 0 回 → 闸 2 查底数…",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-066，W 批次调研 2026-10-19/20）"
+  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-066，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "company_facts": {
   "legal_name": "El Paso Communication Systems, Inc.（dba EPCOM）",
@@ -197,10 +199,50 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 中型分销 20%：El Paso Communication Systems, Inc. — EPCOM（1987；95 人；$23.7M；三仓；PLANET 双线在售；purchasing@ 在表）坐实；对位 ✔ 主区 ✔ 体量 ✔ 坐实 ✔ → P 池候选；Simon 曾判不行，可否决",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "EPCOM - Everything in Security, Emergency and Communication Systems — The most complete technology catalog for US integrators. 75,000+ certified products: Video Surveillance, IT Networking, Audio/Video, Access Control, Telecommunications, Solar Energy and more. Same-day shipping, lifetime support.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://epcom.net/"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:37:59Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@epcom.net"
+  ],
+  "phones": [],
+  "social": [
+   "https://www.facebook.com/epcomusa/",
+   "https://www.instagram.com/epcom_usa/",
+   "https://www.linkedin.com/company/epcomusa/",
+   "https://youtube.com/c/EPCOM_USA"
+  ],
+  "models_on_site": [
+   "STZ30G",
+   "STZ35G",
+   "STZ-30G",
+   "STZ45G",
+   "HWP-HBX48",
+   "TXG-5070",
+   "S8-POE",
+   "AES-128"
+  ],
+  "url": "https://epcom.net/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -1,9 +1,9 @@
 {
  "code": "XB-E053",
  "name": "Loi Heng International",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 loiheng.com MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（loiheng.com，快照 2026-10-29）：Bot Verification",
  "summary": "Loi Heng International（缅甸 · Yangon）：分销商",
  "type_final": "分销商",
  "size": "",
@@ -38,6 +38,13 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Bot Verification",
+   "quote": "Bot Verification",
+   "url": "https://loiheng.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
@@ -59,5 +66,11 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/evidence。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:53:59Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

@@ -1,0 +1,634 @@
+# XC-M092 VIDEOR E. Hartig GmbH · home · https://videor.com/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+VIDEOR E. Hartig GmbH | Ihr Partner für professionelle Videoüberwachung und Sicherheitstechnik
+Direkt zum Inhalt
+Site Suche
+DE/AT/CH
+International
+{
+const searchInput = document.querySelector('#search');
+searchInput.focus();
+searchInput.select();
+});
+">
+Suchen
+Mein Konto
+Merkliste
+Vergleichen
+0) }">
+99">99+
+Artikel
+1" class="sr-only">
+Artikel
+1
+? hyva.str('%1 Artikel', cart.summary_count)
+: hyva.str('%1 Element', cart.summary_count)
+}`"
+href="https://www.videor.com/de/checkout/cart/index/"
+title="Warenkorb ansehen"
+>
+Warenkorb
+Menü
+Leistungen
+Alle ansehen
+Solutions
+Alle ansehen
+System Connector
+Milestone Plug Ins
+Cloud
+Baustellendokumentation
+Mobile Videoüberwachung
+Prozessüberwachung
+Unterstützung vor Ort
+Kameramasten
+Produkte
+Alle ansehen
+Kameratechnik
+Übertragungstechnik
+Visualisierung und Storage
+Perimeterschutz
+Zutrittslösungen und Intercom
+IP-Audio
+Einbruchschutz und Brandschutz
+Consulting & Customizing
+Alle ansehen
+Beratung und Planung
+IP Vorkonfiguration
+Inbetriebnahmeunterstützung
+Lackierservice
+OEM/ODM Produktionen
+IT Services
+Alle ansehen
+EDI Übersicht
+Produktdaten
+Digitale Belege
+eswawi Anbindung
+Fulfillment
+OCI (Open Catalog Interface)
+EDI Hilfe
+ZUGFeRD - Fragen und Antworten
+Produkte
+Alle ansehen
+Kameratechnik
+Alle ansehen
+Boxed Type Kameras
+Fix Domes
+PTZ Domes
+Bullet Kameras
+Panorama
+Remote Head Kameras
+Gehäuse
+Wärmebildkameras
+Ex-Kameras
+Spezialkameras
+Industriekameras
+Analog HD-Kameras
+Objektive
+Positioniersysteme
+Beleuchtung
+Zubehör
+Garantieverlängerungen
+Übertragungstechnik
+Alle ansehen
+Encoder
+Decoder
+Switches
+Medienkonverter
+WLAN
+PoE
+Router
+SFP Module
+Zweidraht
+Glasfaser
+HD-TVI
+Quads
+Umschalter & Verstärker
+Zubehör
+Visualisierung & Storage
+Alle ansehen
+Analog Rekorder
+Dienstleistungen
+DVR
+Festplatten
+Cloud
+Hybrid
+Kamera Plug-Ins
+Monitore
+NAS
+Netzwerk Komponenten
+NVR
+Software
+Speicherkarten
+VMS Hardware
+Zubehör
+Garantieverlängerungen
+Perimeterschutz
+Alle ansehen
+Zaunsensorik
+Radar Detektoren
+Infrarot Melder
+LiDAR Sensoren
+Zubehör
+Masten
+Zutritt & Intercom
+Alle ansehen
+Türcontroller
+Leseeinheiten
+Digitale Schließsysteme
+Karten & Transponder
+IP Türstationen
+Erweiterungen
+IP Innensprechstellen
+IP Telefone
+Aufzug-Notrufsysteme
+Analoge Türstationen
+Software & Lizenzen
+Zubehör
+IP Audio
+Alle ansehen
+IP Lautsprecher
+IP Encoder & Decoder
+IP Paging
+Software & Lizenzen
+Zubehör
+Einbruch & Brand
+Alle ansehen
+Alarmzentralen
+Melder
+Signalgeber
+Komfort
+Brandmelder
+Zubehör
+%SALE%
+Alle ansehen
+Kameratechnik
+Übertragungstechnik
+Visualisierung & Storage
+Sensorik & Perimeterschutz
+Zutrittskontrolle & Intercom
+Einbruch- & Brandmeldetechnik
+Zubehör
+Audio
+Marken
+Alle ansehen
+Academy
+Adpro
+Advantech
+AG Neovo
+Ajax
+AMG
+Araani
+Avigilon
+Axis
+Canon
+ComNet
+Dallmeier
+eneo
+Essence Security
+FLIR
+Fujinon Security
+Global Proof
+Hanwha Vision
+HID
+Hikvision
+i-PRO
+IFS
+IQSIGHT
+Jetrics
+MAGOS
+Milestone
+Netgear
+Nitek
+Novostable
+Phihong
+Promise
+Raytec
+SAMCON
+SanDisk
+Seagate
+SeeEyes
+Senstar
+Sentech
+Solvido
+Synology
+Tamron
+TAROX
+Theia Technologies
+TOSIBOX
+Veracity
+VIDEOR
+Videotec
+Western Digital
+Xovis
+2N
+Aktuelles & Wissen
+Alle ansehen
+Newsroom
+Termine
+Schulungen
+Kundenmagazin
+KRITIS
+Unternehmen
+Alle ansehen
+Über VIDEOR
+Karriere
+Videotronic AG
+Vergleichen
+Merkliste
+DE/AT/CH
+International
+Schließen
+{
+$dispatch('unset-category-image');
+openSubmenuId = '440';
+$dispatch('set-category-image');
+}, 400);
+"
+@mouseleave="
+clearTimeout(this.openSubmenuTimeout);
+"
+@keydown.escape="onSubmenuEscape"
+>
+Leistungen
+Toggle submenu for Leistungen
+a]:!underline-offset-4 [&>a]:py-4 [&>a]:font-semibold [&>a]:px-6 w-full items-center"
+:class="openLevel2SubmenuId === '444' ? '[&>a]:text-primary-AA' : '[&>a]:text-white transition-colors'"
+@mouseenter="$dispatch('unset-category-image')"
+>
+Solutions
+a]:!underline-offset-4 [&>a]:py-4 [&>a]:font-semibold [&>a]:px-6 w-full items-center"
+:class="openLevel2SubmenuId === '309' ? '[&>a]:text-primary-AA' : '[&>a]:text-white transition-colors'"
+@mouseenter="$dispatch('unset-category-image')"
+>
+Produkte
+a]:!underline-offset-4 [&>a]:py-4 [&>a]:font-semibold [&>a]:px-6 w-full items-center"
+:class="openLevel2SubmenuId === '311' ? '[&>a]:text-primary-AA' : '[&>a]:text-white transition-colors'"
+@mouseenter="$dispatch('unset-category-image')"
+>
+Consulting & Customizing
+a]:!underline-offset-4 [&>a]:py-4 [&>a]:font-semibold [&>a]:px-6 w-full items-center"
+:class="openLevel2SubmenuId === '319' ? '[&>a]:text-primary-AA' : '[&>a]:text-white transition-colors'"
+@mouseenter="$dispatch('unset-category-image')"
+>
+IT Services
+{ if (value === '444') updateCategoryImage() })"
+x-cloak
+>
+System Connector
+Milestone Plug Ins
+Cloud
+Baustellendokumentation
+Mobile Videoüberwachung
+Prozessüberwachung
+Unterstützung vor Ort
+Kameramasten
+{ if (value === '309') updateCategoryImage() })"
+x-cloak
+>
+Kameratechnik
+Übertragungstechnik
+Visualisierung und Storage
+Perimeterschutz
+Zutrittslösungen und Intercom
+IP-Audio
+Einbruchschutz und Brandschutz
+{ if (value === '311') updateCategoryImage() })"
+x-cloak
+>
+Beratung und Planung
+IP Vorkonfiguration
+Inbetriebnahmeunterstützung
+Lackierservice
+OEM/ODM Produktionen
+{ if (value === '319') updateCategoryImage() })"
+x-cloak
+>
+EDI Übersicht
+Produktdaten
+Digitale Belege
+eswawi Anbindung
+Fulfillment
+OCI (Open Catalog Interface)
+EDI Hilfe
+ZUGFeRD - Fragen und Antworten
+{
+$dispatch('unset-category-image');
+openSubmenuId = '656';
+$dispatch('set-category-image');
+}, 400);
+"
+@mouseleave="
+clearTimeout(this.openSubmenuTimeout);
+"
+@keydown.escape="onSubmenuEscape"
+>
+Produkte
+Toggle submenu for Produkte
+a]:!underline-offset-4 [&>a]:py-4 [&>a]:font-semibold [&>a]:px-6 w-full items-center"
+:class="openLevel2SubmenuId === '657' ? '[&>a]:text-primary-AA' : '[&>a]:text-white transition-colors'"
+@mouseenter="$dispatch('unset-category-image')"
+>
+Kameratechnik
+a]:!underline-offset-4 [&>a]:py-4 [&>a]:font-semibold [&>a]:px-6 w-full items-center"
+:class="openLevel2SubmenuId === '659' ? '[&>a]:text-primary-AA' : '[&>a]:text-white transition-colors'"
+@mouseenter="$dispatch('unset-category-image')"
+>
+Übertragungstechnik
+a]:!underline-offset-4 [&>a]:py-4 [&>a]:font-semibold [&>a]:px-6 w-full items-center"
+:class="openLevel2SubmenuId === '661' ? '[&>a]:text-primary-AA' : '[&>a]:text-white transition-colors'"
+@mouseenter="$dispatch('unset-category-image')"
+>
+Visualisierung & Storage
+a]:!underline-offset-4 [&>a]:py-4 [&>a]:font-semibold [&>a]:px-6 w-full items-center"
+:class="openLevel2SubmenuId === '663' ? '[&>a]:text-primary-AA' : '[&>a]:text-white transition-colors'"
+@mouseenter="$dispatch('unset-category-image')"
+>
+Perimeterschutz
+a]:!underline-offset-4 [&>a]:py-4 [&>a]:font-semibold [&>a]:px-6 w-full items-center"
+:class="openLevel2SubmenuId === '665' ? '[&>a]:text-primary-AA' : '[&>a]:text-white transition-colors'"
+@mouseenter="$dispatch('unset-category-image')"
+>
+Zutritt & Intercom
+a]:!underline-offset-4 [&>a]:py-4 [&>a]:font-semibold [&>a]:px-6 w-full items-center"
+:class="openLevel2SubmenuId === '667' ? '[&>a]:text-primary-AA' : '[&>a]:text-white transition-colors'"
+@mouseenter="$dispatch('unset-category-image')"
+>
+IP Audio
+a]:!underline-offset-4 [&>a]:py-4 [&>a]:font-semibold [&>a]:px-6 w-full items-center"
+:class="openLevel2SubmenuId === '669' ? '[&>a]:text-primary-AA' : '[&>a]:text-white transition-colors'"
+@mouseenter="$dispatch('unset-category-image')"
+>
+Einbruch & Brand
+a]:!underline-offset-4 [&>a]:py-4 [&>a]:font-semibold [&>a]:px-6 w-full items-center"
+:class="openLevel2SubmenuId === '671' ? '[&>a]:text-primary-AA' : '[&>a]:text-white transition-colors'"
+@mouseenter="$dispatch('unset-category-image')"
+>
+%SALE%
+{ if (value === '657') updateCategoryImage() })"
+x-cloak
+>
+Boxed Type Kameras
+Fix Domes
+PTZ Domes
+Bullet Kameras
+Panorama
+Remote Head Kameras
+Gehäuse
+Wärmebildkameras
+Ex-Kameras
+Spezialkameras
+Industriekameras
+Analog HD-Kameras
+Objektive
+Positioniersysteme
+Beleuchtung
+Zubehör
+Garantieverlängerungen
+{ if (value === '659') updateCategoryImage() })"
+x-cloak
+>
+Encoder
+Decoder
+Switches
+Medienkonverter
+WLAN
+PoE
+Router
+SFP Module
+Zweidraht
+Glasfaser
+HD-TVI
+Quads
+Umschalter & Verstärker
+Zubehör
+{ if (value === '661') updateCategoryImage() })"
+x-cloak
+>
+Analog Rekorder
+Dienstleistungen
+DVR
+Festplatten
+Cloud
+Hybrid
+Kamera Plug-Ins
+Monitore
+NAS
+Netzwerk Komponenten
+NVR
+Software
+Speicherkarten
+VMS Hardware
+Zubehör
+Garantieverlängerungen
+{ if (value === '663') updateCategoryImage() })"
+x-cloak
+>
+Zaunsensorik
+Radar Detektoren
+Infrarot Melder
+LiDAR Sensoren
+Zubehör
+Masten
+{ if (value === '665') updateCategoryImage() })"
+x-cloak
+>
+Türcontroller
+Leseeinheiten
+Digitale Schließsysteme
+Karten & Transponder
+IP Türstationen
+Erweiterungen
+IP Innensprechstellen
+IP Telefone
+Aufzug-Notrufsysteme
+Analoge Türstationen
+Software & Lizenzen
+Zubehör
+{ if (value === '667') updateCategoryImage() })"
+x-cloak
+>
+IP Lautsprecher
+IP Encoder & Decoder
+IP Paging
+Software & Lizenzen
+Zubehör
+{ if (value === '669') updateCategoryImage() })"
+x-cloak
+>
+Alarmzentralen
+Melder
+Signalgeber
+Komfort
+Brandmelder
+Zubehör
+{ if (value === '671') updateCategoryImage() })"
+x-cloak
+>
+Kameratechnik
+Übertragungstechnik
+Visualisierung & Storage
+Sensorik & Perimeterschutz
+Zutrittskontrolle & Intercom
+Einbruch- & Brandmeldetechnik
+Zubehör
+Audio
+{
+$dispatch('unset-category-image');
+openSubmenuId = '303';
+$dispatch('set-category-image');
+}, 400);
+"
+@mouseleave="
+clearTimeout(this.openSubmenuTimeout);
+"
+@keydown.escape="onSubmenuEscape"
+>
+Marken
+Toggle submenu for Marken
+Academy
+Adpro
+Advantech
+AG Neovo
+Ajax
+AMG
+Araani
+Avigilon
+Axis
+Canon
+ComNet
+Dallmeier
+eneo
+Essence Security
+FLIR
+Fujinon Security
+Global Proof
+Hanwha Vision
+HID
+Hikvision
+i-PRO
+IFS
+IQSIGHT
+Jetrics
+MAGOS
+Milestone
+Netgear
+Nitek
+Novostable
+Phihong
+Promise
+Raytec
+SAMCON
+SanDisk
+Seagate
+SeeEyes
+Senstar
+Sentech
+Solvido
+Synology
+Tamron
+TAROX
+Theia Technologies
+TOSIBOX
+Veracity
+VIDEOR
+Videotec
+Western Digital
+Xovis
+2N
+{
+$dispatch('unset-category-image');
+openSubmenuId = '307';
+$dispatch('set-category-image');
+}, 400);
+"
+@mouseleave="
+clearTimeout(this.openSubmenuTimeout);
+"
+@keydown.escape="onSubmenuEscape"
+>
+Aktuelles & Wissen
+Toggle submenu for Aktuelles & Wissen
+Newsroom
+Termine
+Schulungen
+Kundenmagazin
+KRITIS
+{
+$dispatch('unset-category-image');
+openSubmenuId = '305';
+$dispatch('set-category-image');
+}, 400);
+"
+@mouseleave="
+clearTimeout(this.openSubmenuTimeout);
+"
+@keydown.escape="onSubmenuEscape"
+>
+Unternehmen
+Toggle submenu for Unternehmen
+Über VIDEOR
+Karriere
+Videotronic AG
+Liebe Kunden, aufgrund kurzfristig erforderlicher Wartungsarbeiten steht unser Online-Shop heute ab Uhr vorübergehend nicht zur Verfügung.
+Wir bemühen uns, die Arbeiten so zügig wie möglich abzuschließen, und danken Ihnen herzlich für Ihr Verständnis.
+VIDEOR TechDay 2026: Perimeterschutz und Freigeländesicherung
+Erleben Sie live Angriffszenarien und Schutzmaßnahmen.
+Jetzt anmelden
+VIDEOR. Sicherheit für Ihr Business.
+Ihr Distributor, Technologie- und
+Kompetenzpartner für Sicherheit
+Neu: Die VIDEOR Cloud. Sicherer Zugriff. Jederzeit. Überall.
+VIDEOR ist Ihr kompetenter Partner wenn es um Sicherheitslösungen geht. Mit herstellerunabhängiger Beratung, eigener Entwicklungskompetenz, einer starken Distribution und hoher Expertise in Hard- und Software reduzieren wir Komplexität und unterstützen Sie persönlich dabei, im Wettbewerb erfolgreich zu bestehen.
+Jetzt Kunde werden!
+Unser Leistungsspektrum
+Lösungen made by VIDEOR
+Von der Software-Integration bis zur Baustellendokumentation.
+Lösungen
+Gut beraten
+Mit unseren Experten von Vertrieb, Pre- und After Sales rundum betreut.
+Beratung
+Sicher in allen Bereichen
+IP-Kameras, Videomanagement-Systeme, Aufzeichnungs- und Speicherlösungen u.v.m.
+Produkte
+Das sagen unsere Kunden
+„K ompetente Beratung und der herausragende Support von VIDEOR ermöglichen es uns, komplexe Projekte reibungslos zu realisieren.”
+„W ir schätzen die vertrauensvolle Zusammenarbeit und wissen, dass wir uns jederzeit auf VIDEOR verlassen können.”
+„I hr Engagement für Qualität und Innovation hebt sie deutlich von anderen Anbietern ab.”
+Beliebte Kategorie
+Kameratechnik
+Visualisierung & Storage
+Sensorik & Perimeterschutz
+Zutrittskontrolle & Intercom
+Services
+Consulting & Customizing
+Beratung und Planung
+Hersteller Partnerprogramme
+Hersteller-Service Levels
+Info & Hilfe
+CRA Sicherheitslücke melden
+Innen- & Außendienst
+Produktberatung & Support
+Versandkosten
+Transportschäden
+Reparaturen
+Warenrücksendung
+FAQ ZUGFeRD
+VIDEOR
+Karriere bei VIDEOR
+Newsletter abonnieren
+Hinweisgeberschutzgesetz
+Rechtliches
+VIDEOR Faktenindex
+Impressum
+Allgemeine Verkaufsbedingungen
+Haftungsausschluss
+Datenschutzerklärung
+Cookie-Einstellungen
+© Videor E. Hartig GmbH
+{
+onInputName();
+})"
+x-bind="eventListeners">
+$refs.inputadd.focus());">
++ Neue Merkliste anlegen
+Hinzufügen
+A List With The Same Name Already Exist.

@@ -50,10 +50,11 @@
  ],
  "grade_override": "B",
  "override_reason": "第 71 批(g)：欧洲主攻区 + 2026-05 真人回复「tell us more」——C（垃圾）口径不成立；按 B 慢慢跟进。表内 Claude 评 5% C 是按「纯工程服务」判的，但对方对 10G L3 核心机表态有兴趣，先当有项目的集成商看。",
- "notes": "由第 71 批(g)建档（Replied 标签出站 × 事实表无来信 的复核发现）。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。\n由第 71 批(g)建档（Replied 标签出站 × 事实表无来信 的复核发现）。",
  "deep": {
   "done_at": "2026-10-24",
-  "level": "邮件复核 · 未爬官网"
+  "level": "邮件复核 · 未爬官网 + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "company_facts": {
   "legal_name": "CNSTECH / CNS Tech（Peristeri；ΑΦΜ / ΓΕΜΗ 未取 → 部分坐实）",
@@ -166,6 +167,14 @@
     "quote": "Hi, Akism, This is our 16-port DIN PoE switch… 240W budget",
     "why": "抬头拼错（Akism）；无回",
     "k": "gmail_a 9a6326e41b0e0371"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "CNSTECH | Διαχειριζόμενες Υπηρεσίες IT & Συστήματα Ασφαλείας — Managed IT, CCTV, συστήματα ασφαλείας, δίκτυα και τεχνική υποστήριξη από την CNSTECH στο Περιστέρι για επιχειρήσεις και επαγγελματικούς χώρους.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.cnstech.gr/"
    }
   ],
   "proof_gaps": [
@@ -176,5 +185,30 @@
    "subject": "Re: 10G L3 Managed Switch — the one-paragraph answer I owed you in May",
    "body": "Hi Akis,\n\nIn May you wrote \"you got our attention, tell us more\" and I replied with a folder of links. That was not an answer, so here it is in one paragraph.\n\nThe half-width switch is STH-2C24XF-HSI: 24 x 10G SFP+ plus 2 x 100G uplinks, 1U half-width, hot-swappable fans, full L3 (VXLAN/EVPN, stacking; MPLS via licence), CENTEC silicon, white-label possible. Price $1,500 USD EXW per unit, optics quoted separately by type and quantity, 15-day validity, 1-year warranty with lifetime technical support and 2 free spare units per 100 pcs.\n\nIf your day-to-day is camera sites, the fit there is our 24-port PoE+ L2+ switch with 10G uplinks at $180 USD EXW.\n\nOne question so I quote the right thing: what is the project — a core for an office/campus network, or aggregation for camera sites, and roughly how many 10G ports?\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
   }
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:32:32Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@cnstech.gr"
+  ],
+  "phones": [
+   "+30 210 5713 048"
+  ],
+  "social": [
+   "https://twitter.com/cnstechgr",
+   "https://www.akuvox.com/",
+   "https://www.facebook.com/cnstech",
+   "https://www.instagram.com/cnstechgr/"
+  ],
+  "models_on_site": [],
+  "url": "https://www.cnstech.gr/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

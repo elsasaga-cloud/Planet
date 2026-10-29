@@ -42,7 +42,7 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 印度 · 工业分销 20%：Axis Solutions Pvt Ltd（Ahmedabad Kathwada GIDC；Leonton 印度授权分销；info@axisindia.in）部分坐实（CIN 未取）；印度先例 ✔ 台湾工业品牌分销 = 进口经验 ✔ 对位 ✔ → P 池候选；闸 1：印度 Axis India（axisindia.in 正常；Lavesh Savale Sales Engineer，gmail；2022-12 问了 website；在用 Leonton 工业 FS ✔）：印度先例 ✔ 台湾工业品牌在用…",
- "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/saga_fit/deep/facts。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -72,8 +72,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "STC-228GP",
-   "why": "默认对位（工业分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
+   "p1": "STI-280GE",
+   "why": "官网快照对位：工业/自动化词频 28、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -95,6 +95,14 @@
     "quote": "IN · 1 次检索：axisindia.in 产品页页脚（法人名 / 注册地址 / 电话）+ Leonton 数据表（授权分销）；CIN 未取；2026-10-29",
     "why": "闸 2 坐实来源（URL 见 company_facts.url）",
     "url": "https://axisindia.in/products/partners/automation/leonton/industrial-ethernet-switch/unmanaged-switch/16-port-industrial-gigabit-ethernet-switch/"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Axis Solutions | Analytical, Automation & Engineering Solutions — Axis Solutions Limited is a BSE-listed engineering and manufacturing company providing analytical instrumentation, process automation, industrial shelters, hazardous area HVAC, environmental monitoring, SWAS and Industry 4.0 solutions",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://axisindia.in/"
    }
   ],
   "proof_gaps": [
@@ -132,14 +140,45 @@
   "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
  ],
  "saga_fit": {
-  "p1": "STC-228GP",
+  "p1": "STI-280GE",
   "tier": 20,
-  "why": "默认对位（工业分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
-  "basis": "默认 · 官网快照后按业务线校正"
+  "why": "官网快照对位：工业/自动化词频 28、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）",
+  "basis": "官网快照自动对位（LT-T03）· 人工点名时再校",
+  "p1_prev": "STC-228GP"
  },
  "deep": {
   "done_at": "2026-10-29",
-  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
-  "batch": "LT-T01"
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T01",
+  "snapshot_at": "2026-10-29"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:36:11Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@axisindia.in"
+  ],
+  "phones": [
+   "+919909906354"
+  ],
+  "social": [
+   "https://in.linkedin.com/company/axis-solutions-limited1999",
+   "https://www.linkedin.com/pulse/april-edition-axis-ascending-3a-momentum-vt7sf/?trackingId=eWWRgG1sIEewCzdWnOzaPQ%3D%3D",
+   "https://www.linkedin.com/pulse/august-beyond-measurements-building-intelligence-hyanf/?trackingId=yW8%2Bp5XSQX6q1w0M7ZfelA%3D%3D",
+   "https://www.linkedin.com/pulse/july-2026-edition-celebrating-our-legacy-engineering-4xn9f?trk=public_post_feed-article-content"
+  ],
+  "models_on_site": [
+   "DA084",
+   "DA284",
+   "DS013"
+  ],
+  "url": "https://axisindia.in/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

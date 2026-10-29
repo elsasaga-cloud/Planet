@@ -1,4 +1,4 @@
-# SB-257 voxplus.it · feed_auto · https://www.voxplus.it/feed/ · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-257 voxplus.it · feed_auto · https://www.voxplus.it/feed/ · fetched 2026-10-29T15:11:51Z · HTTP 200
 Fri, 23 Oct 2026 09:43:27 +0000	Server seriali industriali Maisvch: soluzioni da 1 a 32 porte	https://www.voxplus.it/server-seriali-industriali-maisvch-soluzioni-da-1-a-32-porte/
 Thu, 15 Oct 2026 09:19:22 +0000	Da RS232/RS485 a Ethernet: come scegliere la soluzione per collegare i dispositivi seriali	https://www.voxplus.it/server-seriale-ethernet-guida/
 Thu, 01 Oct 2026 08:47:26 +0000	RS485 ed Ethernet: come scegliere la soluzione giusta per la comunicazione industriale	https://www.voxplus.it/convertitore-rs485-ethernet-scelta/

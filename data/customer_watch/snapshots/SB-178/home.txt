@@ -1,4 +1,4 @@
-# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-10-29T15:11:51Z · HTTP 200
 WISP.PL Dystrybutor sprzętu sieciowego, MikroTik, Ubiquiti, TP-Link, Światłowody
 WISP.PL Sieci bezprzewodowe - Dystrybutor sprzętu sieciowego
 WISP.PL
@@ -291,44 +291,45 @@ MikroTik SXTsq Embedded LTE4 Global (EG25-G&SXTsq) – z rozszerzoną obsługą 
 #MikroTik #SXTsq
 More
 Promocje
-Płytka sterowania ON/OFF/PWM - nakładka TR
-60,27 zł z VAT
-79,95 zł
-49,00 zł netto
+TornadoBox 18 dBi (mmcx)
+104,55 zł z VAT
+147,60 zł
+85,00 zł netto
 szt
-Najniższa cena z 30 dni: 79,95 zł
-Wisnetworks WIS-ANS2417-90 MIMO Sector
-244,77 zł z VAT
-420,22 zł
-199,00 zł netto
+Najniższa cena z 30 dni: 147,60 zł
+NOWOŚĆ WYPRZEDAŻ
+Grandstream HT818 v2 bramka VoIP
+503,07 zł z VAT
+626,11 zł
+409,00 zł netto
 szt
-Najniższa cena z 30 dni: 420,22 zł
+Najniższa cena z 30 dni: 626,11 zł
 WYPRZEDAŻ
-SparkLAN WMIA-166AG
-11,07 zł z VAT
-86,04 zł
-9,00 zł netto
+Grandstream HT881 analogowa bramka FXO
+699,87 zł z VAT
+951,36 zł
+569,00 zł netto
 szt
-Najniższa cena z 30 dni: 86,04 zł
+Najniższa cena z 30 dni: 951,36 zł
+Zasilacz do laptopa Acer, 40W 2.1A 19V, Qoltec, (50058.40W)
+35,67 zł z VAT
+39,98 zł
+29,00 zł netto
+szt
+Najniższa cena z 30 dni: 39,98 zł
+Wisnetworks WIS-L5820S Sector Base Station
+479,70 zł z VAT
+719,55 zł
+390,00 zł netto
+szt
+Najniższa cena z 30 dni: 719,55 zł
 WYPRZEDAŻ
-Uchwyt kablowy KO10, na przewód okrągły ø 10 mm
-4,92 zł z VAT
-9,84 zł
-4,00 zł netto
+Uchwyt kablowy KP10/10, na przewód płaski 10x10 mm
+2,34 zł z VAT
+8,61 zł
+1,90 zł netto
 szt
-Najniższa cena z 30 dni: 9,84 zł
-Tenda TEG1126P-24-410W
-836,40 zł z VAT
-984,00 zł
-680,00 zł netto
-szt
-Najniższa cena z 30 dni: 984,00 zł
-Wisnetworks WIS-L713AC Dual-Band Sector Base Station
-725,70 zł z VAT
-978,59 zł
-590,00 zł netto
-szt
-Najniższa cena z 30 dni: 978,59 zł
+Najniższa cena z 30 dni: 8,61 zł
 Najnowsze propozycje
 NOWOŚĆ
 D-Link C36/ISP/E
@@ -383,6 +384,4 @@ Tenda CP6 obrotowa kamera do monitoringu domowego
 more
 WYSYŁKA
 Zamówienia złożone i potwierdzone do godz. 15-tej są realizowane w tym samym dniu*.
-Koszty przesyłki:
-DHL: od 13 PLN (netto)
-FedEx: od 1
+Koszty

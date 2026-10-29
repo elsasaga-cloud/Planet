@@ -1,15 +1,21 @@
 {
  "code": "XB-E087",
  "name": "ROOT IT Support",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 rootitsupport.com MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（rootitsupport.com，快照 2026-10-29）：Leading IT Equipment & Business Solutions in Phnom Penh",
  "summary": "ROOT IT Support（柬埔寨 · Phnom Penh（Sen Sok））：Ruijie/Reyee 分销+IT 支持",
  "type_final": "Ruijie/Reyee 分销+IT 支持",
  "size": "",
  "brands_seen": [
   "Ruijie",
-  "Reyee"
+  "Reyee",
+  "Ubiquiti",
+  "TP-Link",
+  "ZKTeco",
+  "MikroTik",
+  "Hikvision",
+  "Dahua"
  ],
  "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
  "fit": "",
@@ -41,12 +47,25 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Leading IT Equipment & Business Solutions in Phnom Penh",
+   "quote": "Trusted IT partner since 2008, providing high-quality genuine hardware and professional IT outsourcing services in Phnom Penh.",
+   "url": "https://rootitsupport.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "sales@rootitsupport.com",
   "email_status": "活（来源库 9 月核对）",
-  "kp": []
+  "kp": [],
+  "page_emails": [],
+  "page_phones": [
+   "+855 17 925 629",
+   "+855 70 925 629"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -62,5 +81,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:55:04Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGPM-280W",
+  "why": "官网快照对位：PoE 词频 1、监控 90 → 24 口 PoE L2+ 走量款",
+  "date": "2026-10-29"
+ }
 }

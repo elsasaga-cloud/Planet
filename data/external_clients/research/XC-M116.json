@@ -1,9 +1,9 @@
 {
  "code": "XC-M116",
  "name": "QL3D",
- "round": "X1-02",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "alive": "在线（ql3d.fr，快照 2026-10-29）：QL3D",
  "summary": "QL3D：工业 / 交通 / 数据中心网络方案分销（HW group 法国独家；HMS Red Lion / N-Tron）；联系人 Ludovic Debôves",
  "type_final": "分销（HMS/N-Tron·Red Lion 渠道）；QL3D",
  "size": "",
@@ -13,7 +13,12 @@
  "contacts": {
   "email": "info@ql3d.fr",
   "email_status": "官网 / 名录公开（X1-02 补路径）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "info@ql3d.fr"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "evidence": [
   {
@@ -43,6 +48,13 @@
    "quote": "",
    "url": "https://www.manageo.fr/entreprises/429607740.html",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；QL3D",
+   "quote": "QL3D - Connectivity & Control Solutions",
+   "url": "https://ql3d.fr/",
+   "date": "2026-10-29"
   }
  ],
  "touch_status": "未触达（路径 2026-10-29 新补）",
@@ -54,6 +66,17 @@
   "angle": "观察档 → 试单后转正"
  },
  "deep": false,
- "notes": "QL3D；9 chemin de la Fosse, 78550 Bazainville；+33 1 34 91 90 20；X1-02R 补证：SIREN 429 607 740；SIRET 429 607 740 00041；TVA FR43429607740",
- "draft_en": null
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\nQL3D；9 chemin de la Fosse, 78550 Bazainville；+33 1 34 91 90 20；X1-02R 补证：SIREN 429 607 740；SIRET 429 607 740 00041；TVA FR43429607740",
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:57:18Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGM",
+  "why": "官网快照对位：10G/2.5G 词频 11、交换机 155 → 24 GE + 4×10G L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

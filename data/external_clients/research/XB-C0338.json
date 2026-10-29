@@ -1,14 +1,16 @@
 {
  "code": "XB-C0338",
  "name": "MACROQUIL S.A.",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 macroquil.com MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（macroquil.com，快照 2026-10-29）：MACROQUIL S.A.",
  "summary": "MACROQUIL S.A.（厄瓜多尔）：Hikvision官方全国分销20年+；地址=6城市（Guayaquil/Quito/Cuenca/Manta/Machala/Ambato）；业务=Hikvision官方全国分销20年+；开发策略=厄瓜多尔最大Hikvision分销商",
  "type_final": "Hikvision官方全国分销20年+",
  "size": "",
  "brands_seen": [
-  "Hikvision"
+  "Hikvision",
+  "Ruijie",
+  "ZKTeco"
  ],
  "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
  "fit": "",
@@ -26,12 +28,28 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；MACROQUIL S.A.",
+   "quote": "Somos un equipo de personas apasionadas con la finalidad de brindar equipos y soluciones con la mejor tecnología que resuelvan sus necesidades empresariales.",
+   "url": "https://macroquil.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "ventasgye@macroquil.com",
   "email_status": "活（来源库 9 月核对）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "ventascue@macroquil.com",
+   "ventasgye@macroquil.com",
+   "ventasuio@macroquil.com"
+  ],
+  "page_phones": [
+   "+593) 04-6020 435"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -47,5 +65,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:52:34Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGPM-280W",
+  "why": "官网快照对位：PoE 词频 9、监控 23 → 24 口 PoE L2+ 走量款",
+  "date": "2026-10-29"
+ }
 }

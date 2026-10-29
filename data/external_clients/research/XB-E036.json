@@ -1,9 +1,9 @@
 {
  "code": "XB-E036",
  "name": "Fixar Telecom / FONPERU",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 fonperu.com MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（fonperu.com，快照 2026-10-29）：FONPERU - Soluciones Integrales en Redes Informáticas",
  "summary": "Fixar Telecom / FONPERU（秘鲁 · Lima）：SI/VAR/集成商",
  "type_final": "SI/VAR/集成商",
  "size": "",
@@ -31,12 +31,29 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；FONPERU - Soluciones Integrales en Redes Informáticas",
+   "quote": "Fon Perú - Soluciones Integrales en Redes Informáticas a través de su página web le da la bienvenida al mundo de las redes y tecnologías de la información, mediante el cual pretendemos lograr la satisfacción de las necesidades de nuestros clientes a un alto alto grado de costo beneficio y calidad.",
+   "url": "https://www.fonperu.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@fonperu.com",
   "email_status": "活（来源库 9 月核对）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "info@fon-network.com",
+   "info@fonperu.com"
+  ],
+  "page_phones": [
+   "+49 2405 4069087",
+   "+51 1 255-8587",
+   "+51 1 255-8633"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-19 去信 1 / 来信 0（24 Port PoE Managed Switch）",
  "saga_overlap": "无",
@@ -52,5 +69,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:53:55Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-28DGGPM",
+  "why": "官网快照对位：交换机词频 48、无 PoE/工业侧重 → 8 口 L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

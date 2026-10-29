@@ -1,14 +1,19 @@
 {
  "code": "XB-C0331",
  "name": "SEKUNET S.A.",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 sekunet.com MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（sekunet.com，快照 2026-10-29）：Sekunet | Mayorista de seguridad electrónica y redes en Costa Rica",
  "summary": "SEKUNET S.A.（哥斯达黎加）：Hikvision哥斯达黎加官方授权分销商；地址=San José, Costa Rica；业务=Hikvision哥斯达黎加官方授权分销商；开发策略=Hikvision官方渠道，PoE交换机为核心产品",
  "type_final": "Hikvision哥斯达黎加官方授权分销商",
  "size": "",
  "brands_seen": [
-  "Hikvision"
+  "Hikvision",
+  "Ubiquiti",
+  "MikroTik",
+  "Huawei",
+  "ZKTeco",
+  "H3C"
  ],
  "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
  "fit": "",
@@ -26,12 +31,28 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Sekunet | Mayorista de seguridad electrónica y redes en Costa Rica",
+   "quote": "Mayorista de seguridad electrónica y redes en Costa Rica: CCTV, control de acceso y conectividad para instaladores. Stock local, soporte técnico y cuenta B2B.",
+   "url": "https://www.sekunet.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@sekunet.com",
   "email_status": "活（来源库 9 月核对）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "info@sekunet.com"
+  ],
+  "page_phones": [
+   "+506 2290 5585",
+   "+506 8757 5820",
+   "001-3-3.4-6"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -47,5 +68,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:52:34Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGM",
+  "why": "官网快照对位：10G/2.5G 词频 40、交换机 46 → 24 GE + 4×10G L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

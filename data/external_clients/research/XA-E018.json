@@ -1,9 +1,9 @@
 {
  "code": "XA-E018",
  "name": "FONEX Data Systems Inc.",
- "round": "W2-R04",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "快照失败（fonex.com：域名不可达（DNS/连接失败），2026-10-29，第 1 次）",
  "summary": "电信/数据网络设备分销（FONEX Data Systems，Montréal）",
  "type_final": "电信/数据网络设备分销（FONEX Data Systems，Montréal）",
  "size": "未量化",
@@ -43,10 +43,18 @@
   "window": "CA 周三 08–10 当地",
   "when": "2026-11-18"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "draft_en": {
   "subject": "PoE switch line for your reseller channel - distributor pricing",
   "body": "Hi,\n\nI wrote on 20 October about our 24-port PoE L2+ switch ('24 Port PoE Managed Switch'); this is a different angle, so a fresh note rather than a reply.\n\nThree PoE switches our distributor partners move most, all EXW Shenzhen (snapshot 2026-10-27, valid 15 days), FCC/ISED, under our label or yours:\n\n- STC-2224GP: 24 x GE PoE+ (300 W) + 2 x GE + 2 x SFP, USD 86.\n- STC-424XGGPM-280W: 24 x GE PoE+ (280 W) + 4 x 10G SFP+, Marvell-based L2+ managed, USD 170.\n- STI-288DGGPM: DIN-rail industrial L2+, 8 x GE PoE+ (240 W) + 2 x SFP, -40 to +75 C, USD 137, 3-year warranty (12 months on the commercial units).\n\nWhich of the three would fit your catalogue first, and is there a product manager I should send the datasheets to?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "deep": false
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:43:10Z"
+  ],
+  "fails": [
+   "2026-10-29"
+  ]
+ }
 }

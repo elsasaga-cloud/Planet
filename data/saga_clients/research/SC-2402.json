@@ -5,7 +5,16 @@
  "summary": "国别纠偏：表内「美国」 → 厄瓜多尔。SISEGUSA 官网：Urdesa Central, Av. Las Lomas 403, Guayaquil, Ecuador；+593 4 371 2850；关联 Siseg Global Solutions = 迈阿密 LLC（电商 / 3PL）。来源：公司底数登记（`data/saga_clients/registry/`，第 126 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。",
  "type": "安防 / 网络批发分销（经迈阿密进口）",
  "size": "小型（推定）",
- "brands_seen": [],
+ "brands_seen": [
+  "TP-Link",
+  "Hikvision",
+  "Ubiquiti",
+  "MikroTik",
+  "D-Link",
+  "Huawei",
+  "Grandstream",
+  "ZKTeco"
+ ],
  "evidence": [
   {
    "kind": "官网",
@@ -17,7 +26,7 @@
  ],
  "researched_at": "2026-10-29",
  "country_fix": "厄瓜多尔",
- "notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。\nT29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。",
  "override_history": [
   {
    "batch": "LT-01",
@@ -64,6 +73,14 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "△ 观察档 · 分销 20%：SISEGUSA = Sistemas de Seguridad S.A.（厄瓜多尔 Guayaquil 安防批发 + 迈阿密 LLC）→ 国别纠偏 美国 → 厄瓜多尔；进口 Utepo ✔ 对位 ✔ 坐实 ✔ 但区域外 → 入池观察档；Simon 曾判不行，可否决",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Sisegusa / Sistemas de Seguridad S.A. — Mayorista de Seguridad Electrónica, Tecnología y Redes Inalámbricas para Hogar y Oficina. Tenemos líneas como CCTV, Videoporteros, Control de Accesos, Alarmas contra Robo e Incendio, Automatización para Hogar y oficina, Routers, Potenciador de WIFI",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.sisegusa.com/"
    }
   ],
   "proof_gaps": [
@@ -72,7 +89,41 @@
  },
  "deep": {
   "done_at": "2026-10-29",
-  "level": "邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓）",
-  "batch": "LT-T01"
+  "level": "邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T01",
+  "snapshot_at": "2026-10-29"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:37:59Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "a.feijoo@sisegusa.com",
+   "a.gonzalez@sisegusa.com",
+   "a.toapanta@sisegusa.com",
+   "b.perez@sisegusa.com",
+   "c.aucapena@sisegusa.com"
+  ],
+  "phones": [
+   "+593 4 3712850"
+  ],
+  "social": [],
+  "models_on_site": [
+   "ST-12V-7AMP",
+   "PPA-A16811",
+   "PA-TRALARM2",
+   "DS-2CE16D0T-IRPF",
+   "DS-2CE56D0T-IRPF",
+   "DS-1H18-A",
+   "PA-K10H",
+   "ST-L-MG401"
+  ],
+  "url": "https://www.sisegusa.com/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -1,0 +1,270 @@
+# XC-M095 GOMA ELETTRONICA SpA · home · https://goma.it/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+GOMA ELETTRONICA - Soluzioni Embedded per Edge Computing
++39 011 7725024 info@goma.it
+Contatti Supporto Richiesta RMA Lavora con noi IT | EN
+Prodotti Partners Mercati Eventi e News Azienda
+Richiedi un preventivo
+Soluzioni Embedded per Edge Computing
+GOMA ELETTRONICA SPA è l'azienda leader di soluzioni edge computing avanzate per i mercati dell'aerospazio, della difesa navale e terrestre, dei trasporti e dell'industria.
+Esplora il catalogo Contattaci
+Nuovi Prodotti
+Computer Edge AI fanless con Jetson AGX Orin.
+PN
+JCO-6000-ORN-A_2EBIO
+Modulo AI
+NVIDIA Jetson AGX Orin
+Prestazioni AI
+fino a 275 TOPS
+Temperatura
+−40 a 85 °C
+Vedi la scheda
+Nuovi Prodotti
+Workstation mobile rugged con GPU NVIDIA RTX 3500 Ada, certificata IP66.
+PN
+Z14I-HG
+GPU
+NVIDIA RTX 3500 Ada 12 GB
+Display
+14″ FHD · oltre 1000 nit
+Qualifiche
+IP66 · MIL-STD-810 · 461
+Vedi la scheda
+Nuovi Prodotti
+Scheda CompactPCI Serial 3U con processori Intel Xeon / Core i7.
+PN
+CPCI-A3535
+CPU
+Intel Xeon W / Core i7
+RAM
+fino a 64 GB DDR4 ECC
+Formato
+3U CompactPCI Serial 4HP/8HP
+Vedi la scheda
+Nuovi Prodotti
+Edge AI Mission Computer basato su Jetson Orin NX.
+PN
+AIX-NX
+Modulo AI
+NVIDIA Jetson Orin NX
+RAM
+16 GB LPDDR5
+Qualifiche
+MIL-STD-810 · 461 · DO-160
+Vedi la scheda ↗
+Nuovi Prodotti
+Switch Ethernet unmanaged 10 porte, certificato IP30.
+PN
+IGPS-1082GP-BT
+Porte
+8× PoE++ · 2× SFP
+Budget PoE
+240 W
+Temperatura
+−40 a 75 °C
+Vedi la scheda
+Nuovi prodotti
+Gli ultimi prodotti presentati dai nostri partners, pronti da configurare e quotare.
+Vedi tutte le novità
+ADLINK
+Scheda CompactPCI Serial 3U con processori Intel Xeon / Core i7
+CompactPCI Serial
+cPCI-A3535 →
+ORing Industrial Networking
+Switch Ethernet unmanaged 10 porte, certificato IP30
+Switch Ethernet Industriali
+IGPS-1082GP-BT →
+GOMA RUGGED SOLUTIONS
+Edge AI Mission Computer basato su Jetson Orin NX
+Serie AIX
+AIX-NX →
+Premio
+Computer Edge AI fanless con Jetson AGX Orin
+Piattaforme Edge AI
+JCO-6000-ORN-A_2EBIO →
+Durabook
+Workstation mobile rugged con GPU NVIDIA RTX 3500 Ada, certificata IP66
+Notebook Rugged
+Z14I-HG →
+ORing Industrial Networking
+Switch Ethernet PoE certificato EN 50155 con connettori M12
+Switch Ethernet Industriali
+TXPS-141XT-M12-MV →
+IEI
+Monitor industriale 10.1" touch capacitivo con frontale IP65
+Pannello / VESA
+DM2-W101G-R10 →
+GOMA RUGGED SOLUTIONS
+Workstation rugged 2U con processore Intel Core di 14ª generazione
+Serie GAP W9
+GAP-245F-W9 →
+Sintrones
+Computer embedded fanless certificato EN 50155
+Computer Embedded
+RBOX-1001-M12X →
+EIZO Rugged
+Single-board computer rugged SOSA 3U OpenVPX con NVIDIA Jetson Thor
+OpenVPX e SOSA
+CONDOR T5-IOX →
+Sintrones
+Computer Edge AI fanless NVIDIA Jetson Orin NX, 8 ingressi TVI/AHD, montaggio a parete
+Piattaforme Edge AI
+IBOX-601-TVI8 →
+ADLINK
+Blade GPGPU 3U VPX con NVIDIA RTX 5000 / 2000 Ada, SOSA-aligned
+OpenVPX e SOSA
+VPX3-XMXM →
+Ogni mese nuove referenze selezionate a catalogo.
+Vedi tutte le novità →
+Un catalogo, cinque domini
+Oltre 2.000 prodotti dei principali partners internazionali, organizzati per trovarli in fretta.
+Sistemi e Piattaforme
+Edge AI, computer embedded e sistemi rugged COTS pronti all'impiego.
+Computer Embedded 127
+Server, Workstation e PC Industriali 107
+Sistemi su Architetture Aperte 90
+Computer Embedded 127
+Server, Workstation e PC Industriali 107
+Sistemi su Architetture Aperte 90
+484 prodotti →
+HMI e Panel PC
+Monitor industriali e rugged, panel PC, tastiere, consolle e cassetti KVM da rack.
+Monitor Industriali 195
+Panel PC Industriali 144
+Monitor Rugged 35
+Monitor Industriali 195
+Panel PC Industriali 144
+Monitor Rugged 35
+461 prodotti →
+Schede e Moduli
+VME, OpenVPX, CompactPCI, COM e mezzanine: l'embedded scheda per scheda.
+Moduli Mezzanine 184
+MicroTCA 173
+Schede di I/O PCI e PCIe 163
+Moduli Mezzanine 184
+MicroTCA 173
+Schede di I/O PCI e PCIe 163
+877 prodotti →
+Dispositivi Networking
+Switch, router e media converter per reti industriali affidabili.
+Switch Ethernet Industriali 136
+PoE Injector & Splitter 13
+Media Converter Industriali 10
+Switch Ethernet Industriali 136
+PoE Injector & Splitter 13
+Media Converter Industriali 10
+181 prodotti →
+Marchio GOMA ELETTRONICA
+Rack e Cabinet
+Armadi 19″, telai open frame e strutture di contenimento per ogni installazione.
+Armadi IP e EMC 5
+Armadi Server 5
+Armadi a Rack 19″ da Parete 4
+Armadi IP e EMC 5
+Armadi Server 5
+Armadi a Rack 19″ da Parete 4
+23 prodotti →
+2.000 +
+Tutto il catalogo
+Cerca per categoria, architettura, standard o part number.
+Esplora tutto il catalogo →
+Rappresentiamo i partners che definiscono gli standard
+Distribuzione ufficiale e supporto applicativo diretto, in italiano, per 42 partners internazionali.
+Vedi tutti i partners
+Perché GOMA
+Quello che un distributore da solo non fa.
+Selezione, non assortimento
+42 partners rappresentati ufficialmente: ogni prodotto entra a catalogo dopo una valutazione tecnica, non per volume.
+La prima risposta è tecnica
+Chi risponde sa leggere uno schema: la linea diretta è quella dell'ufficio tecnico-commerciale di Torino.
+Accanto per tutto il ciclo di vita
+Scelta, qualifica, revisioni, obsolescenze e RMA: un interlocutore unico dal prototipo alla dismissione.
+Dal componente al sistema
+Progettiamo e integriamo quello che il catalogo non copre: dall'armadio cablato al sistema completo, collaudato.
+Dove lavora la nostra elettronica
+Ogni piattaforma è scelta per le condizioni in cui dovrà vivere: tre mercati, un metodo di selezione.
+Tutti i mercati
+Aerospazio e difesa
+Cielo, mare, terra: avionica, plancia e piattaforme veicolari qualificate. →
+Trasporti e ferroviario
+Bordo treno, segnalamento e veicoli. →
+Automazione industriale
+Controllo di linea, celle robotizzate e HMI a bordo macchina. →
+3
+mercati serviti
+Aerospazio e difesa, trasporti e ferroviario, automazione industriale: applicazioni, referenze e qualifiche.
+Tutti i mercati →
+Tav. 01 — Sistemi su specifica
+Non è a catalogo? Lo progettiamo
+Il nostro ufficio tecnico disegna e integra la soluzione: dall'armadio cablato al sistema completo.
+Tav. 01 — Sistemi su specifica
+A disegno
+Ripeti
+01 Armadi industriali e rugged integrati Cablaggio, condizionamento e collaudo: l'armadio arriva pronto all'accensione. →
+02 Monitor e panel PC rugged custom Ottiche, trattamenti e formati a disegno, qualificati per l'ambiente d'impiego. →
+03 Server e workstation rugged custom Prestazioni da data center, in configurazioni robuste per il campo e il mezzo. →
+04 Sistemi SWaP rugged custom Dimensioni, peso e consumi ottimizzati per piattaforme aeree e veicolari. →
+Scopri i servizi →
+GOMA ELETTRONICA SpA Ufficio Tecnico
+Oggetto: sistema integrato su specifica cliente
+Torino, IT · Rev. 07-2026 · Scala 1:1
+Parliamo del tuo progetto
+Novità su prodotti e tecnologie
+Le ultime dai laboratori dei nostri partners.
+Tutte le novità
+Novità | 20 ottobre 2026 | 2 min di lettura
+JCO-6000-ORN-A_2EBIO: Computer Edge AI ad alte prestazioni basato su NVIDIA Jetson AGX Orin
+JCO-6000-ORN-A_2EBIO basato su un modulo NVIDIA Jetson AGX Orin, fino a 275 TOPS, in un telaio fanless in alluminio da parete: alimentazione 9–110 V DC, da -40 a 85 °C, EN 50155 ed EN 50121 per il ferroviario, E-Mark per il veicolare.
+JCO-6000-ORN-A_2EBIO · Premio Leggi la novità →
+Novità | 20 ottobre 2026
+Z14I-HG: Workstation mobile rugged con GPU NVIDIA RTX 3500 Ada, certificata IP66
+Una NVIDIA RTX 3500 Ada da 12 GB accanto a un Intel Core Ultra Serie 1: display 14″ FHD da oltre 1000 nit con touch PCAP, fino a 64 GB di DDR5, due SSD NVMe estraibili, telaio in magnesio IP66, MIL-STD-810 e MIL-STD-461.
+Z14I-HG · Durabook
+Novità | 20 ottobre 2026
+CPCI-A3535: Scheda CompactPCI Serial 3U con processori Intel Xeon / Core i7
+Due configurazioni di CPU, Xeon W-11555MLE o Core i7-11850HE, su una scheda 3U in formato 4HP o 8HP. Fino a 64 GB DDR4-3200 ECC, storage SLC a bordo, due porte 2.5GbE su M12 X-coded, da -40 a 70 °C e certificazione EN 50155 per il bordo treno.
+cPCI-A3535 · ADLINK
+Parliamo del tuo progetto
+Telefono ed email arrivano direttamente all'ufficio tecnico-commerciale di Torino: la prima risposta è già una risposta tecnica.
++39 011 7725024 info@goma.it
+Richiedi un preventivo Contatta il supporto
+Iscriviti alla newsletter
+Nuove referenze a catalogo, qualifiche ottenute e appuntamenti in fiera. Una email al mese, niente spam.
+Email di lavoro Iscriviti
+Ho letto l' Informativa privacy e acconsento al trattamento dei miei dati per l'invio della newsletter.
+Soluzioni Embedded per Edge Computing
+Contatti
++39 011 7725024
+info@goma.it
+GOMA ELETTRONICA SpA
+Strada Antica di Collegno 225
+10146 Torino — Italia
+Prodotti
+Sistemi e Piattaforme
+HMI e Panel PC
+Schede e Moduli
+Dispositivi Networking
+Rack e Cabinet
+Tutto il catalogo →
+Azienda
+Chi siamo
+Competenze
+Qualità
+Partners
+Lavora con noi
+Eventi e News
+Fiere ed eventi
+Novità di prodotto
+Blog e approfondimenti
+Servizi e supporto
+Supporto tecnico
+Richiesta RMA
+Richiesta di preventivo
+Legal
+Privacy Policy
+Privacy Visitatori
+Cookie Policy
+Condizioni Generali di Acquisto
+Sicurezza prodotti
+Whistleblowing
+Preferenze cookie
+© 2026 GOMA ELETTRONICA SpA — P.IVA 02367820012 · Iscr. Trib. Torino n. 526/79 · C.C.I.A.A. 551868 · Cap. Soc. € 3.000.000 i.v.

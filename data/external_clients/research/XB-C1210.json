@@ -1,15 +1,25 @@
 {
  "code": "XB-C1210",
  "name": "Instant Technology LLC",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 instec.ae MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（instec.ae，快照 2026-10-29）：Instant Technology -Supplier of IT, ELV, AV & Security systems - Instant Technology",
  "summary": "Instant Technology LLC（阿联酋）：Etisalat/du认证光纤+Cisco/Fortinet；公司全称=Instant Technology LLC；公司类型=Etisalat/du认证光纤+Cisco/Fortinet；总部=Officer's Court Building, Office 521, Near Oud Metha Metro, ；客户优先级=🟡 B类（Etisalat认证+多品牌网络设备）",
  "type_final": "Etisalat/du认证光纤+Cisco/Fortinet",
  "size": "",
  "brands_seen": [
   "Cisco",
-  "Fortinet"
+  "Fortinet",
+  "Ubiquiti",
+  "Aruba",
+  "Grandstream",
+  "Schneider",
+  "TP-Link",
+  "MikroTik",
+  "Hikvision",
+  "Dahua",
+  "Moxa",
+  "D-Link"
  ],
  "saga_line": "STC 项目集成款（25% 档：STC-2216GP / STC-228GP）",
  "fit": "",
@@ -27,12 +37,26 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Instant Technology -Supplier of IT, ELV, AV & Security systems - Instant Technology",
+   "quote": "Distributor, supplier, dealer of Cisco, Fortinet, Belden, Panduit, Commscope, Systimax in Dubai, UAE",
+   "url": "https://www.instec.ae/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@instec.ae",
   "email_status": "活（来源库 9 月核对）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "info@instec.ae"
+  ],
+  "page_phones": [
+   "+971 54 548 5705"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -48,5 +72,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:53:18Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-28DGGPM",
+  "why": "官网快照对位：交换机词频 1、无 PoE/工业侧重 → 8 口 L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

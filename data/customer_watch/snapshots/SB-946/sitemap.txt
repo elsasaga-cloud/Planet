@@ -1,8 +1,8 @@
-# SB-946 intrising.com.tw · sitemap · https://www.intrising.com.tw/sitemap.xml · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-946 intrising.com.tw · sitemap · https://www.intrising.com.tw/sitemap.xml · fetched 2026-10-29T15:11:51Z · HTTP 200
 2026-04-02T14:56:17+08:00	https://www.intrising.com.tw
 2026-01-16T14:15:07+08:00	https://www.intrising.com.tw/about
 2026-02-04T15:03:23+08:00	https://www.intrising.com.tw/contact_us
-2026-07-24T17:35:31+08:00	https://www.intrising.com.tw/news
+2026-10-29T12:39:35+08:00	https://www.intrising.com.tw/news
 2026-02-12T10:37:18+08:00	https://www.intrising.com.tw/news/case_study/gptp_vehicle_solution
 2023-06-15T21:34:42+08:00	https://www.intrising.com.tw/news/case_study/location_existed_prp_topology
 2023-06-17T18:10:02+08:00	https://www.intrising.com.tw/news/case_study/odm_ftto_networking_solution
@@ -14,7 +14,7 @@
 2022-11-14T16:44:03+08:00	https://www.intrising.com.tw/news/expo/nab_2019
 2024-11-07T16:03:16+08:00	https://www.intrising.com.tw/news/expo/sps_2024
 2025-11-24T17:51:26+08:00	https://www.intrising.com.tw/news/expo/sps_2025
-	https://www.intrising.com.tw/news/expo/sps_2026
+2026-10-29T12:39:35+08:00	https://www.intrising.com.tw/news/expo/sps_2026
 2022-11-14T16:44:03+08:00	https://www.intrising.com.tw/news/expo/vcom_2019
 2023-10-27T16:55:43+08:00	https://www.intrising.com.tw/news/new_feature/ddos_protection
 2022-12-08T10:01:19+08:00	https://www.intrising.com.tw/news/new_feature/gptp_solution
@@ -97,8 +97,8 @@
 2025-02-21T10:43:02+08:00	https://www.intrising.com.tw/products/industrial_switches/d_series/des/DES-8EP-2FS-2E
 2025-02-21T10:43:02+08:00	https://www.intrising.com.tw/products/industrial_switches/d_series/des/DES-8EP-4FS
 	https://www.intrising.com.tw/products/industrial_switches/d_series/drs
-2026-10-21T18:11:19+08:00	https://www.intrising.com.tw/products/industrial_switches/d_series/drs/DRS-8G-2S2SR
-2026-10-21T18:11:19+08:00	https://www.intrising.com.tw/products/industrial_switches/d_series/drs/DRS-8G-2XR
+2026-10-29T12:39:35+08:00	https://www.intrising.com.tw/products/industrial_switches/d_series/drs/DRS-8G-2S2SR
+2026-10-29T12:39:35+08:00	https://www.intrising.com.tw/products/industrial_switches/d_series/drs/DRS-8G-2XR
 	https://www.intrising.com.tw/products/industrial_switches/d_series/dts
 2026-09-15T17:32:18+08:00	https://www.intrising.com.tw/products/industrial_switches/d_series/dts/DTS-16G(P)-6X
 2026-08-06T16:36:34+08:00	https://www.intrising.com.tw/products/industrial_switches/d_series/dts/DTS-4G(P)-2M
@@ -131,4 +131,4 @@
 	https://www.intrising.com.tw/products/industrial_switches/r_series/rts
 2026-10-08T13:40:15+08:00	https://www.intrising.com.tw/products/industrial_switches/r_series/rts/RTS-16G(P)-6X
 2026-10-08T13:40:15+08:00	https://www.intrising.com.tw/products/industrial_switches/r_series/rts/RTS-24G(P)-6X
-2026-10-08T13:40:15+08:00	https://www.intrising.com.tw/products/
+2026-10-08T13:40:15+08:00	https://www.i

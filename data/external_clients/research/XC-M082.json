@@ -1,9 +1,9 @@
 {
  "code": "XC-M082",
  "name": "ATYS Co Controll Engineering",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 atysco.hu MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（atysco.hu，快照 2026-10-29）：ATYS-CO | főoldal",
  "summary": "ATYS Co Controll Engineering（匈牙利）：分销（Westermo Reseller）；Westermo",
  "type_final": "分销（Westermo Reseller）",
  "size": "",
@@ -47,6 +47,13 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；ATYS-CO | főoldal",
+   "quote": "ATYS-CO | főoldal",
+   "url": "https://atysco.hu/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
@@ -58,7 +65,12 @@
     "role": "ATYS-CO Kft. 官网 Impressum 列 Managing Director",
     "source": "official-company-page·管理职务公开，采购职责未知"
    }
-  ]
+  ],
+  "page_emails": [
+   "ifj.jasz.otto@atysco.hu"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-01 去信 1 / 来信 0（24 Port PoE Managed Switch）",
  "saga_overlap": "无",
@@ -74,5 +86,11 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:56:58Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

@@ -1,0 +1,11 @@
+# SC-1379 parks.com.br · feed_auto · https://www.parks.com.br/blog-feed.xml · fetched 2026-10-29T15:11:51Z · HTTP 200
+Wed, 10 Sep 2025 12:39:23 GMT	Cibersegurança: como evitar ataques aos equipamentos dos seus assinantes	https://www.parks.com.br/post/ciberseguranca-como-evitar-ataques-aos-equipamentos-dos-seus-assinantes
+Fri, 22 Aug 2025 14:20:44 GMT	Portfólio de Switches MPLS Parks: Desempenho e Escalabilidade para sua Rede	https://www.parks.com.br/post/portfolio-de-switches-mpls-parks-desempenho-e-escalabilidade-para-sua-rede
+Mon, 30 Jun 2025 12:23:44 GMT	Como entregar serviços corporativos com alta disponibilidade e controle: desafios e soluções para ISPs e operadoras	https://www.parks.com.br/post/servicos-corporativos-switch-agregacao-e-acesso-edd-pk700-12x
+Tue, 24 Jun 2025 12:18:20 GMT	ONT AX3000 Fiberlink 611 e o fenômeno Multipath	https://www.parks.com.br/post/ont-ax3000-fiberlink-611-e-o-fenomeno-multipath
+Mon, 12 May 2025 18:44:49 GMT	Conheça o novo Switch de Agregação e Acesso PK700-12X da Parks	https://www.parks.com.br/post/pk700-12x-conheca-o-novo-switch-de-agregacao-e-acesso-da-parks
+Mon, 17 Feb 2025 12:01:18 GMT	PK1600: A Solução DCI da Parks para ISPs	https://www.parks.com.br/post/pk1600-a-solucao-dci-da-parks-para-isps
+Wed, 06 Nov 2024 20:12:46 GMT	PARKS Recebe Provedores de Internet Afetados pelas Enchentes no RS e Doa Equipamentos para Apoiar a Retomada	https://www.parks.com.br/post/parks-recebe-provedores-de-internet-afetados-pelas-enchentes-no-rs-e-doa-equipamentos
+Mon, 07 Oct 2024 15:53:17 GMT	Entenda a Tecnologia DCI: Interconexão de Data Centers	https://www.parks.com.br/post/entenda-a-tecnologia-dci-interconexao-de-data-centers
+Tue, 10 Sep 2024 19:22:42 GMT	Parks Expande Portfólio através de parceria estratégica com a Cudy	https://www.parks.com.br/post/parks-expande-portfolio-atraves-de-parceria-estrategica-com-a-cudy
+Mon, 02 Sep 2024 18:22:13 GMT	Fiberlink 611 Wi-fi6 AX3000: A Escolha Inteligente para Provedores que Buscam Excelência em planos de internet	https://www.parks.com.br/post/fiberlink-611-wi-fi6-ax3000-a-escolha-inteligente-para-provedores-que-buscam-excelencia

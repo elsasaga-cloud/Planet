@@ -1,0 +1,273 @@
+# SC-1883 anfatech.com.vn · home · https://anfatech.com.vn/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+ANFA - Integrity and Kindness Skip to content Email : info@anfatech.com.vn
+Hotline : (+84) 909 560 555
+Shop
+Search
+Trang chủ
+Sản phẩm QNAP Storage NAS-Network Attached Storage Personal and Home NAS
+Small and Midsize Business
+Enterprise NAS
+All-Flash NAS
+Dual Controller NAS
+JBOD Expansion JBOD & RAID
+DAS & Accessories Direct Attached Storage (PC/Workstations)
+PC/Server Performance Accessories
+Networking Routers QHora Series
+Switches Guardian Series
+QSW Series
+Computing Accelerators
+Giải pháp Hệ thống giám sát
+Data Protection Best Data Backup Solution
+Backup, Restoration & Sync
+Backup Deduplication
+SaaS Backup
+Back up VMs (vSphere & Hyper-V)
+Back up VMs with Veeam
+Back up VMs with NAKIVO
+Back up with Veritas
+Back up with Archiware
+RAID Management
+Snapshots
+PACS Server
+Remote Backup
+Bảo mật
+Tính năng
+Tutorials Beginner
+System
+Storage & Snapshots
+Surveillance QVR Pro
+Software
+Tin tức
+Đánh giá
+Liên hệ
+Trang chủ
+Sản phẩm QNAP Storage NAS-Network Attached Storage Personal and Home NAS
+Small and Midsize Business
+Enterprise NAS
+All-Flash NAS
+Dual Controller NAS
+JBOD Expansion JBOD & RAID
+DAS & Accessories Direct Attached Storage (PC/Workstations)
+PC/Server Performance Accessories
+Networking Routers QHora Series
+Switches Guardian Series
+QSW Series
+Computing Accelerators
+Giải pháp Hệ thống giám sát
+Data Protection Best Data Backup Solution
+Backup, Restoration & Sync
+Backup Deduplication
+SaaS Backup
+Back up VMs (vSphere & Hyper-V)
+Back up VMs with Veeam
+Back up VMs with NAKIVO
+Back up with Veritas
+Back up with Archiware
+RAID Management
+Snapshots
+PACS Server
+Remote Backup
+Bảo mật
+Tính năng
+Tutorials Beginner
+System
+Storage & Snapshots
+Surveillance QVR Pro
+Software
+Tin tức
+Đánh giá
+Liên hệ
+Shop
+PoE chuẩn công nghiệp
+Sản phẩm
+Storage, Switche, QVR Pro
+Sản phẩm
+IP Camera, Network Video Recoder
+Sản phẩm
+QNAP
+Storage
+Networking
+Surveillance
+License
+Tất cả sản phẩm QNAP
+Sản phẩm nổi bật
+HUNT
+IP Camera
+Network Video Recorder
+Tất cả sản phẩm HUNT
+Sản phẩm nổi bật
+ONV
+L3 PoE Switch
+Industrial PoE Switch
+PoE Switch
+PoE Devices
+Tất cả sản phẩm ONV
+Sản phẩm nổi bật
+Tin tức
+QNAP QSW-M7230P-2X4F24T – Switch 100GbE L3 Lite với PoE++ 800W
+QSW-M7230P-2X4F24T QNAP công bố QSW-M7230P-2X4F24T ngày 07/10/2026, kết hợp mạng tốc độ cao và cấp nguồn PoE trong thiết bị rack 1U. Switch hướng đến
+Xem thêm »
+Giải pháp
+Seagate làm thế nào giúp nhà máy kiểm soát quy trình sản xuất?
+Câu chuyện khách hàng Seagate làm thế nào giúp nhà máy kiểm soát quy trình sản xuất? Giải pháp Seagate kết hợp QNAP giúp nhà
+Xem thêm »
+Giải pháp
+QSN-7530 – All-Flash Scale-out NAS 30 Bay hiệu suất cao
+QSN-7530 Scale-out all-flash NAS, thiết kế chuyên biệt cho các cụm hiệu suất cao QSN-7530 là nút lưu trữ All-flash SATA hỗ trợ Scale-out, được
+Xem thêm »
+Giải pháp
+QSN-3050 – Scale-out NAS 30 Bay cho doanh nghiệp
+QSN-3050 Phá vỡ giới hạn đơn nút. Khai phóng sức mạnh Scale-out vượt trội. Nút lưu trữ Scale-out QSN-3050 cấp doanh nghiệp được trang bị
+Xem thêm »
+Giải pháp
+QSN-3000 – Scale-out NAS 18 Bay cho doanh nghiệp
+QSN-3000 Phá vỡ giới hạn đơn nút. Khai phóng sức mạnh Scale-out vượt trội. Nút lưu trữ Scale-out QSN-3000 cấp doanh nghiệp được trang bị
+Xem thêm »
+Tin tức
+QXG-25G2SF-BCM – Card mạng mở rộng 25GbE hai cổng
+QXG-25G2SF-BCM Card mạng mở rộng Dual-port, 25GbE Card mạng mở rộng QXG-25G2SF-BCM 25GbE hỗ trợ giao tiếp PCIe 4.0 và cung cấp băng thông tổng
+Xem thêm »
+Xem thêm
+Giải pháp
+Hướng dẫn cấu hình High Availability Cluster QNAP NAS
+Hướng dẫn thiết lập High Availability cluster QNAP NAS Sản phẩm áp dụng Thiết bị QNAP NAS chạy hệ điều hành QuTS Hero h5.3.0 trở
+Xem thêm »
+Beginner
+Thin Volume, Thick Volume và Static Volume trên QNAP NAS: So sánh và lưu ý quan trọng
+Thin Volume, Thick Volume và Static Volume trên QNAP NAS So sánh và lưu ý quan trọng Tổng quan về các loại Volume trên QNAP
+Xem thêm »
+Giải pháp
+RAID không phải là tính năng backup!
+RAID không phải là tính năng backup! Nhiều người dùng nhầm lẫn RAID với tính năng backup dữ liệu. Tuy nhiên, RAID thực chất là
+Xem thêm »
+Giải pháp
+QVR Smart Search
+qvr_smart_searchCreated with Sketch. QVR Smart Search Tìm kiếm sự kiện giám sát được hỗ trợ bởi AI Thay vì tìm kiếm thủ công các sự
+Xem thêm »
+Giải pháp
+QVR Human
+QVR Human Giải pháp đếm người QVR Human phân tích và cung cấp dữ liệu đếm theo thời gian thực để giúp bạn đưa ra
+Xem thêm »
+Giải pháp
+Quản lý RAID
+Quản lý RAID Quản lý RAID linh hoạt, nâng cấp và di chuyển RAID là gì? Redundant Array of Independent Disks (RAID) là một cơ
+Xem thêm »
+Xem thêm
+Đánh giá
+Đánh giá sản phẩm QNAP TS-h2477AXU-RP-32GB
+TS-h2477AXU-RP Bộ xử lý AMD Ryzen™ 7 PRO 7000 Series và tính toàn vẹn dữ liệu ZFS cho lưu trữ doanh nghiệp và ảo hóa
+Xem thêm »
+Đánh giá
+TS-h1077AFU – LƯU TRỮ ALL-FLASH SATA 1U RYZEN™ 7000
+TS-h1077AFU LƯU TRỮ ALL-FLASH SATA 1U KẾT HỢP VỚI ZFS ĐẢM BẢO TÍNH TOÀN VẸN DỮ LIỆU TS-h1077AFU là lựa chọn lý tưởng cho các
+Xem thêm »
+Đánh giá
+TS-h1090FU – LƯU TRỮ ALL-FLASH NVMe 1U HIỆU NĂNG CAO
+TS-h1090FU LƯU TRỮ ALL-FLASH NVMe 1U MẬT ĐỘ CAO, HIỆU SUẤT CỰC CAO CHO ĐA TÁC VỤ TS-h1090FU là thiết bị lưu trữ all-flash NVMe
+Xem thêm »
+Đánh giá
+ĐÁNH GIÁ QNAP NAS TS-864eU-8G
+Mua ĐÁNH GIÁ QNAP NAS TS-864eU-8G Mua Tổng quan về TS-864eU-8G​ Đóng gói bao bì và phụ kiện đi kèm Sản phẩm của QNAP vẫn
+Xem thêm »
+Đánh giá
+TS-h2287XU-RP – Giải pháp lưu trữ lai HDD/SSD hiệu năng cao
+TS-h2287XU-RP Giải pháp lưu trữ lai HDD/SSD giải phóng sức mạnh hệ thống ZFS cấp máy chủ tuyệt vời TS-h2287XU-RP dung lượng cao được trang
+Xem thêm »
+Đánh giá
+TL-R6020Sep-RP – Thiết bị mở rộng SAS/SATA 4U 60 khay
+TL-R6020Sep-RP Giải pháp bộ mở rộng SAS/SATA 4U 60 khay lên đến 1 PB dung lượng khả dụng trong một khung duy nhất Thiết bị
+Xem thêm »
+Xem thêm
+Tính Năng Tính Năng
+Hướng dẫn cấu hình High Availability Cluster QNAP NAS
+Thin Volume, Thick Volume và Static Volume trên QNAP NAS: So sánh và lưu ý quan trọng
+RAID không phải là tính năng backup!
+QVR Smart Search
+QVR Human
+Quản lý RAID
+SMB 3.0 Multichannel
+QTS 5.1.0
+QuTS Hero
+Xem thêm
+Tin Tức
+QNAP QSW-M7230P-2X4F24T – Switch 100GbE L3 Lite với PoE++ 800W
+Seagate làm thế nào giúp nhà máy kiểm soát quy trình sản xuất?
+QSN-7530 – All-Flash Scale-out NAS 30 Bay hiệu suất cao
+QSN-3050 – Scale-out NAS 30 Bay cho doanh nghiệp
+QSN-3000 – Scale-out NAS 18 Bay cho doanh nghiệp
+QXG-25G2SF-BCM – Card mạng mở rộng 25GbE hai cổng
+TS-h1077AFU – LƯU TRỮ ALL-FLASH SATA 1U RYZEN™ 7000
+Seagate ra mắt ổ cứng 32TB CMR: Exos, SkyHawk AI và IronWolf Pro
+Giải Pháp Sao Lưu QNAP Dưới Thương Hiệu Mới Hyper Data Protection
+Xem thêm
+Đánh Giá
+Đánh giá sản phẩm QNAP TS-h2477AXU-RP-32GB
+TS-h1077AFU – LƯU TRỮ ALL-FLASH SATA 1U RYZEN™ 7000
+TS-h1090FU – LƯU TRỮ ALL-FLASH NVMe 1U HIỆU NĂNG CAO
+ĐÁNH GIÁ QNAP NAS TS-864eU-8G
+TS-h2287XU-RP – Giải pháp lưu trữ lai HDD/SSD hiệu năng cao
+TL-R6020Sep-RP – Thiết bị mở rộng SAS/SATA 4U 60 khay
+TS-h1655XeU-RP – NAS rackmount độ sâu ngắn ZFS 10GbE
+TDS-h2489FU R2 – NAS all-flash U.2 NVMe 24-bay cao cấp với hai CPU
+TS-h2477AXU-RP – Nền tảng lưu trữ ZFS và ảo hóa doanh nghiệp
+Xem thêm
+Văn phòng Tp. Hồ Chí Minh
+Công ty TNHH A.N.F.A Việt Nam
+Địa chỉ: 129E Nguyễn Đình Chính, Phường Phú Nhuận, Tp.Hồ Chí Minh
+Hotline: 0974 05 01 07
+Email: info@anfatech.com.vn
+Văn phòng Hà Nội
+Địa chỉ: Số 3 16/254 Phố Vĩnh Hưng, Hoàng Mai
+Điện thoại: 0974 05 01 07
+Email: info@anfatech.com.vn
+Kinh doanh
+Mr. Thái: 0974 81 00 03
+Email: sales@anfatech.com.vn
+Trang Thanh: 0973 845 319
+Email: thanh.ltt@anfatech.com.vn
+Ms. Thi: 0974037774
+Email: thi.nn@anfatech.com.vn
+Ms. Trân: 0974024448
+Email: tran.nlb@anfatech.com.vn
+Users Facebook Youtube
+Hỗ trợ các vấn đề khác
+Điện thoại: 0909 560 555 (Mr. Thắng)
+Email: thang.nv@anfatech.com.vn
+Copyright © 2020 - 2026 ANFA. All Rights Reserved.
+Trang chủ
+Sản phẩm QNAP Storage NAS-Network Attached Storage Personal and Home NAS
+Small and Midsize Business
+Enterprise NAS
+All-Flash NAS
+Dual Controller NAS
+JBOD Expansion JBOD & RAID
+DAS & Accessories Direct Attached Storage (PC/Workstations)
+PC/Server Performance Accessories
+Networking Routers QHora Series
+Switches Guardian Series
+QSW Series
+Computing Accelerators
+Giải pháp Hệ thống giám sát
+Data Protection Best Data Backup Solution
+Backup, Restoration & Sync
+Backup Deduplication
+SaaS Backup
+Back up VMs (vSphere & Hyper-V)
+Back up VMs with Veeam
+Back up VMs with NAKIVO
+Back up with Veritas
+Back up with Archiware
+RAID Management
+Snapshots
+PACS Server
+Remote Backup
+Bảo mật
+Tính năng
+Tutorials Beginner
+System
+Storage & Snapshots
+Surveillance QVR Pro
+Software
+Tin tức
+Đánh giá
+Liên hệ

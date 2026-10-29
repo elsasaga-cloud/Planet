@@ -1,4 +1,4 @@
-# SB-771 lanprosa.com · home · https://lanprosa.com/ · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-771 lanprosa.com · home · https://lanprosa.com/ · fetched 2026-10-29T15:11:51Z · HTTP 200
 lanprosa - Lanprosa
 Skip to navigation
 Skip to main content
@@ -52,10 +52,10 @@ SEGURIDAD
 ALARMAS
 CONTROL DE ACCESO
 VEHICULAR
-Sensor Exteriores QUAD PIR dual MW 30KG PET 868MHz, LANTEK SEN.89R
-$ 117 + IVA
-HIKVISION DS-PMA-BELL, Sirena 5W 110dB 12VDC (SIRENAS)
-$ 14 + IVA
+Sensor cableado QUAD infrared & MW interiores PET 25Kg, LANTEK SEN.8350
+$ 54 + IVA
+Control remoto 4 botones 1832 / 1737 868 mhz, LANTEK SEN.443R
+$ 8 + IVA
 OTROS
 ENERGIA
 Search
@@ -202,23 +202,23 @@ Todos los productos
 Compare
 Quick view
 Add to wishlist
-CONTROL DE ACCESO
-Soporte LC para chapas doble h/dentro p/angosta, L...
-$ 24 + IVA
+SEGURIDAD , CONTROL DE ACCESO
+Chapa magnetica CON LED (600lbs), LANTEK LTK-MAG60...
+$ 31 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
-CONTROL DE ACCESO
-Soporte L para chapas con cobertor h/afuera, LANTE...
-$ 12 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
-CONTROL DE ACCESO
-Soporte U para chapas en puerta de vidrio s/marco,...
+ESTRUCTURADO , FIBRA OPTICA
+Patch cord fibra optica SC/LC Multimodo OM4 3 metr...
 $ 7 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
+SEGURIDAD , CONTROL DE ACCESO
+Kit Videoportero IP WIFI 4MP Audio Bidireccional M...
+$ 241 + IVA
 Añadir al carrito
 Compare
 Quick view
@@ -230,9 +230,9 @@ Añadir al carrito
 Compare
 Quick view
 Add to wishlist
-SEGURIDAD , ALARMAS
-Expansor de señal inalámbrico AX PRO, HIKVISION ...
-$ 76 + IVA
+CONTROL DE ACCESO
+Timbre para puerta door bell control acceso Ding D...
+$ 6 + IVA
 Añadir al carrito
 Ofertas limitadas!
 ¡Aprovecha estos productos con descuento por tiempo limitado!
@@ -265,16 +265,9 @@ Todos los productos
 Compare
 Quick view
 Add to wishlist
-SWITCHES
-Consola KVM 17.3 8 Port CAT5 LCD KVM over IP Switc...
-$ 1,457 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
 REDES , SWITCHES
-Switch 4 GE PoE+ / 1GE + 1SFP uplink, AF/AT/BT 60W...
-$ 39 + IVA
+Switch Acceso L2 / 48 GE / 4 x SFP+ / PoE 370w, RE...
+$ 806 + IVA
 Añadir al carrito
 Compare
 Quick view
@@ -287,15 +280,22 @@ Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Inyector PoE pasivo, 24V, 12W, 0.5A, LANTEK RP023-...
-$ 10 + IVA
+Switch Acceso L2 / 8 GE / 2 SFP, REYEE RG-NBS3100-...
+$ 125 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Switch Distribucion L2+ / 48 GE / 4 x SFP+ / PoE 7...
-$ 1,271 + IVA
+Switch PoE+ 8 GE(2.5GB) 1 uplink SFP+ 10GE, Max 13...
+$ 152 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
+REDES , SWITCHES
+Switch Industrial PoE administrable 10 GE / 1 PoE+...
+$ 170 + IVA
 Añadir al carrito
 Accesorios de Fibra Óptica
 Todos los productos

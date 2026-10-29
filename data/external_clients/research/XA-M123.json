@@ -1,9 +1,9 @@
 {
  "code": "XA-M123",
  "name": "ATEG Automation GmbH",
- "round": "W1-R03",
- "researched_at": "2026-10-27",
- "alive": "本轮 web_search 复核在线（2026-10-27）",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（ateg.de，快照 2026-10-29）：Industrietastaturen | Folientastaturen | Industrie Monitore | Led Großanzeigen | Berührungslose Temperaturmessung – Ateg Automation GmbH",
  "summary": "工业自动化组件分销（Remscheid，1995 起，>1000 客户；HMS Networks Strategic Partner 2026-03；2–10 人）；卖 N-Tron/Red Lion 工业交换机（8口非网管约 $500+）→ 中性货同规格 STI-280GE（Saga）约 $64（EXW 快照，15 天有效），做第二供应商/替换，价差 5 倍",
  "type_final": "工业自动化组件分销（Remscheid，1995 起，>1000 客户；HMS Networks Strategic Partner 2026-03；2–10 人）",
  "size": "工业自动化组件分销（Remscheid，1995 起，>1000 客户；HMS Networks Strategic Partner 2026-03；2–10 人）",
@@ -29,12 +29,29 @@
    "quote": "",
    "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
    "date": "2026-10-06"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Industrietastaturen | Folientastaturen | Industrie Monitore | Led Großanzeigen | Berührungslose Temperaturmessung – Ateg Automation GmbH",
+   "quote": "ATEG Automation GmbH liefert Industrietastaturen, Folientastaturen, Industrie Monitore, Led Großanzeigen, Infrarotsensoren und Infrarot Thermometer für berührungslose Temperaturmessung sowie Infrarotkameras. Ihr Spezialist für Edelstahltastatur, Metalltastatur, wasserdichte, auch medizinische Tastat",
+   "url": "https://www.ateg.de/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@ateg.de",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [],
+  "page_phones": [
+   "+49 (0) 2191-591457-0",
+   "+49 (0)2191",
+   "+49 2191 591457-0",
+   "000-04000-00210 4",
+   "000-04000-00310 4",
+   "000-07000-00210 7"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-06 群发「24 Port PoE Managed Switch」→ 已发未回",
  "saga_overlap": "无",
@@ -48,10 +65,21 @@
   "window": "DE 周四 12–14",
   "when": "2026-11-12"
  },
- "notes": "本轮 web_search 复核：ateg.de/ueber-uns「1995 als Vertriebsgesellschaft für Komponenten der Automatisierungstechnik… über 1000 Kunden」；ateg.de/news 2026-03-04 HMS Networks Strategic Partner；implisense：industrielle Netzwerktechnik 在产品线内。 ",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\n本轮 web_search 复核：ateg.de/ueber-uns「1995 als Vertriebsgesellschaft für Komponenten der Automatisierungstechnik… über 1000 Kunden」；ateg.de/news 2026-03-04 HMS Networks Strategic Partner；implisense：industrielle Netzwerktechnik 在产品线内。 ",
  "draft_en": {
   "subject": "A second-source DIN-rail PoE switch for your industrial customers",
   "body": "Hi,\n\nI wrote on 6 October about our 24-port PoE L2+ switch ('24 Port PoE Managed Switch'); this is a different product line, so a fresh note rather than a reply.\n\nSTI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.\n\nWould a DIN-rail PoE switch at this price be worth a test unit for your panel-builder and machine-builder customers?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "deep": false
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:44:59Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-280GE",
+  "why": "官网快照对位：工业/自动化词频 7、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手",
+  "date": "2026-10-29"
+ }
 }

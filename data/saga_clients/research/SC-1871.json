@@ -5,7 +5,9 @@
  "summary": "国别纠偏：表内「尼泊尔」 → 印度。Bay Datacom Solutions Pvt. Ltd.：CIN U32100TG1998PTC028943；1998-02-28；Hyderabad Jubilee Hills Road No. 92, 500096；200–500 人；FY22 净销售 ₹2,405 lakh。来源：公司底数登记（`data/saga_clients/registry/`，第 131 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。",
  "type": "网络 / 安全 / 数据中心系统集成商",
  "size": "中型（200–500 人；₹24 Cr）",
- "brands_seen": [],
+ "brands_seen": [
+  "Ubiquiti"
+ ],
  "evidence": [
   {
    "kind": "登记",
@@ -17,7 +19,7 @@
  ],
  "researched_at": "2026-10-29",
  "country_fix": "印度",
- "notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。\nT29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。",
  "override_history": [
   {
    "batch": "LT-01",
@@ -64,6 +66,14 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 印度 · 大集成 25%：Bay Datacom Solutions Pvt Ltd（Hyderabad + Bengaluru；CIN U32100TG1998PTC028943；1998；200–500 人；₹24 Cr）坐实；4 光 24 电 PoE 具体需求 ✔ 中型集成 ✔ → P 池候选；表内「尼泊尔」→ 印度 country_fix 待 Simon",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Bay Datacom Solutions Pvt Ltd",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.baydatacom.com/"
    }
   ],
   "proof_gaps": [
@@ -72,7 +82,30 @@
  },
  "deep": {
   "done_at": "2026-10-29",
-  "level": "邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓）",
-  "batch": "LT-T01"
+  "level": "邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T01",
+  "snapshot_at": "2026-10-29"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:36:19Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@baydatacom.com"
+  ],
+  "phones": [
+   "+91) 40 40064430",
+   "+91) 40 40064433",
+   "+91-40-40064430"
+  ],
+  "social": [],
+  "models_on_site": [],
+  "url": "https://www.baydatacom.com/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

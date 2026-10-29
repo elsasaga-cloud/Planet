@@ -61,7 +61,7 @@
    "source": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0001095976?rejestr=P&format=json"
   }
  ],
- "notes": "LT-T03 官网快照加厚（2026-10-21）：fail#1。\nA 确认：欧洲中型分销商 + 自有 logo 意向 + 已回复；P1 = STC-28DGGPM / STC-424DGGPM-280W 贴牌，20% 分销档（贴牌另议 30%）。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：fail#2。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\nA 确认：欧洲中型分销商 + 自有 logo 意向 + 已回复；P1 = STC-28DGGPM / STC-424DGGPM-280W 贴牌，20% 分销档（贴牌另议 30%）。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
@@ -242,10 +242,12 @@
  },
  "snap_thicken": {
   "consumed": [
-   "2026-10-21T09:19:43Z"
+   "2026-10-21T09:19:43Z",
+   "2026-10-29T15:26:46Z"
   ],
   "fails": [
-   "2026-10-21"
+   "2026-10-21",
+   "2026-10-29"
   ],
   "batch": "LT-T03"
  }

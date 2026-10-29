@@ -1,0 +1,11 @@
+# SC-1446 lojacctv.com · feed_auto · https://www.lojacctv.com/rss · fetched 2026-10-29T15:11:51Z · HTTP 200
+Thu, 24 Sep 2026 01:02:16 +0100	Câmara IP PT WiFi Uniarch 5MP Lente Dupla IR 30m IP66	https://www.lojacctv.com/product/camara-ip-pt-wifi-uniarch-5mp-lente-dupla-ir-30m-ip66
+Thu, 24 Sep 2026 01:02:16 +0100	Câmara IP WiFi Uniarch Panda Dual Light 3MP PTZ Auto Tracking IP66	https://www.lojacctv.com/product/camara-ip-wifi-uniarch-panda-dual-light-3mp-ptz-auto-tracking-ip66
+Sun, 13 Sep 2026 19:37:00 +0100	Uniarch Câmara PTZ IP WiFi 5MP Panda Deteção Áudio Visão Noturna	https://www.lojacctv.com/product/uniarch-camara-ptz-ip-wifi-5mp-panda-detecao-audio-visao-noturna
+Thu, 10 Sep 2026 06:42:07 +0100	Câmera IP WiFi Uniarch Panda S 3MP Deteção Inteligente	https://www.lojacctv.com/product/camera-ip-wifi-uniarch-panda-s-3mp-detecao-inteligente
+Wed, 09 Sep 2026 10:26:00 +0100	Câmara IP PT Uniarch UV-UHO-S2E 3MP WiFi Áudio 2 Vias IR Noite ONVIF	https://www.lojacctv.com/product/camara-ip-pt-uniarch-uv-uho-s2e-3mp-wifi-audio-2-vias-ir-noite-onvif
+Wed, 09 Sep 2026 10:21:21 +0100	Câmara IP PTZ Uniarch 4MP Wi-Fi Luz Branca 30m IP66	https://www.lojacctv.com/product/camara-ip-ptz-uniarch-4mp-wi-fi-luz-branca-30m-ip66
+Wed, 09 Sep 2026 10:21:19 +0100	Câmara IP Uniarch Panda S 3MP WiFi PTZ com Deteção Inteligente	https://www.lojacctv.com/product/camara-ip-uniarch-panda-s-3mp-wifi-ptz-com-detecao-inteligente
+Wed, 09 Sep 2026 10:21:17 +0100	Câmara IP WiFi Uniarch Panda Série S 5MP com Deteção Inteligente	https://www.lojacctv.com/product/camara-ip-wifi-uniarch-panda-serie-s-5mp-com-detecao-inteligente
+Wed, 09 Sep 2026 10:21:15 +0100	Câmara IP PT Wi-Fi Uniarch 5MP Lente 4mm ColorHunter	https://www.lojacctv.com/product/camara-ip-pt-wi-fi-uniarch-5mp-lente-4mm-colorhunter
+Sat, 29 Aug 2026 01:12:26 +0100	Câmara Dome IP AJAX 5MP, Lente 4mm, IR 15m, Luz Branca, PoE, IP65	https://www.lojacctv.com/product/camara-dome-ip-ajax-5mp-lente-4mm-ir-15m-luz-branca-poe-ip65-2

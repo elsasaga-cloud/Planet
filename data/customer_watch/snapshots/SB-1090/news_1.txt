@@ -1,4 +1,4 @@
-# SB-1090 tramaweb.com.br · news_1 · https://www.tramaweb.com.br/blog/ · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-1090 tramaweb.com.br · news_1 · https://www.tramaweb.com.br/blog/ · fetched 2026-10-29T15:11:51Z · HTTP 200
 Blog da Trama | Um canal cheio de Comunicação e Conteúdo Blog da Trama | Um canal cheio de Comunicação e Conteúdo
 Ir para o menu do site
 Ir para o conteúdo do site
@@ -74,14 +74,6 @@ Blog
 Últimas da Trama
 Pesquise no blog
 Todas as categorias
-Marketing de Busca
-Transporte
-Relações Públicas
-Podcast Diálogos
-Mídias Sociais
-Produção de Conteúdo
-Opinião Pública
-Videocast Diálogos
 Eventos
 Consumo
 Inbound Marketing
@@ -131,7 +123,19 @@ Bastidores da Trama
 Logística
 Marketing
 Employer Branding
-Comunicação Agências de PR no Brasil: como escolher a ideal para sua marca?
+Marketing de Busca
+Transporte
+Relações Públicas
+Podcast Diálogos
+Mídias Sociais
+Produção de Conteúdo
+Opinião Pública
+Videocast Diálogos
+Comunicação Corporativa Ghostwriting: seu executivo tem boas ideias, mas quem escreve?
+Entenda como essa estratégia de Relações Públicas transforma o conhecimento das lideranças em conteúdos que fortalecem autoridade, posicionamento e reputação.
+29 outubro 2026 | Jessyca Costa Caires
+Comunicação
+Agências de PR no Brasil: como escolher a ideal para sua marca?
 Sua empresa precisa fortalecer a reputação, ganhar espaço na imprensa ou construir autoridade no mercado? Entenda o que avaliar antes de contratar uma agência de Relações Públicas.
 26 outubro 2026 | Trama Comunicação
 Assessoria de Imprensa
@@ -142,11 +146,11 @@ Eventos
 Grupo Trama Reputale participa do WEConnect Brasil Summit 2026 em São Paulo
 Representado por Leila Gasparindo, Helen Garcia e Karina Belo, grupo acompanhou encontro dedicado ao empreendedorismo feminino, à diversidade de fornecedores e às oportunidades de negócios.
 20 outubro 2026 | Trama Comunicação
-Comunicação Corporativa
-Como contratar uma agência de comunicação? 10 boas práticas para uma concorrência justa
+Comunicação Corporativa Como contratar uma agência de comunicação? 10 boas práticas para uma concorrência justa
 Guia atualizado da Abracom e da ABA orienta profissionais de Comunicação e Compras sobre briefings, exercícios criativos, critérios de avaliação e seleção de agências.
 19 outubro 2026 | Trama Comunicação
-Eventos Grupo Trama Reputale participa do Entre Agências da Abracom sobre modelos de contrato
+Eventos
+Grupo Trama Reputale participa do Entre Agências da Abracom sobre modelos de contrato
 Leila Gasparindo, CEO do Grupo Trama Reputale e suplente do Conselho Fiscal da Abracom, participará de encontro online exclusivo para agências associadas, em 28 de outubro.
 16 outubro 2026 | Trama Comunicação
 Prêmios
@@ -157,18 +161,14 @@ Eventos
 Grupo Trama Reputale participa do 1º Summit de Reputação e Comunicação Setorial
 Evento promovido pela Abracom e ESPM reunirá especialistas para discutir os desafios da reputação em diferentes setores. Leila Gasparindo, CEO do Grupo Trama Reputale, participará do painel Educação.
 14 outubro 2026 | Trama Comunicação
-Comunicação Interna
-Excesso de informação nas empresas: quando comunicar muito começa a gerar ruído
+Comunicação Interna Excesso de informação nas empresas: quando comunicar muito começa a gerar ruído
 Excesso de informação nas empresas acontece quando a Comunicação Interna comunica muito, mas ajuda pouco a organizar prioridades.
 13 outubro 2026 | Denise Pragana
-Inteligência Artificial Grupo Trama Reputale debate IA e reputação algorítmica no Brunch de Ideias
-Evento reuniu Helen Garcia e Paulo Silvestre Jr. para discutir como a IA muda buscas digitais, reputação das marcas e reforça a importância de manter visão crítica em tempos de automação.
-7 outubro 2026 | Trama Comunicação
 Anteriores
 Próximos
 Receba o boletim diálogos
 Newsletter semanal com curadoria de conteúdo desenvolvida por nós. Uma visão integrada e de futuro da comunicação. Assine.
-Name
+Phone
 Este campo é para fins de validação e não deve ser alterado.
 Nome *
 E-mail *
@@ -178,7 +178,7 @@ Peça uma proposta
 Venha trabalhar com a gente
 Informação para a mídia
 Nossos projetos inspiram pessoas e negócios a se moverem rumo ao futuro. Quer ser um cliente do Grupo Trama Reputale? Entre em contato com a gente!
-URL
+Name
 Este campo é para fins de validação e não deve ser alterado.
 Nome *
 E-mail *

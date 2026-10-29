@@ -1,4 +1,4 @@
-# SB-017 Securitytec · sitemap · https://www.securitytec.co.uk/sitemap.xml · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-017 Securitytec · sitemap · https://www.securitytec.co.uk/sitemap.xml · fetched 2026-10-29T15:11:51Z · HTTP 200
 	https://www.securitytec.co.uk/
 2022-05-13T21:00:54+00:00	https://www.securitytec.co.uk/our-products.html
 2022-05-01T16:45:39+00:00	https://www.securitytec.co.uk/featured-products.html
@@ -106,4 +106,31 @@
 2022-05-16T18:59:31+00:00	https://www.securitytec.co.uk/back-plate-for-ds-2ce56d8t-it3e-f-ds-2ce56h0-5-t-it3e-f-ds-2ce71-8-u1t-it3f-cameras-18.html
 2022-05-16T18:59:31+00:00	https://www.securitytec.co.uk/back-plate-for-ds-2ce56d8t-it3e-f-ds-2ce56h0-5-t-it3e-f-ds-2ce71-8-u1t-it3f-cameras-19.html
 2022-05-16T18:59:31+00:00	https://www.securitytec.co.uk/back-plate-for-ds-2ce56d8t-it3e-f-ds-2ce56h0-5-t-it3e-f-ds-2ce71-8-u1t-it3f-cameras-15.html
-2022-05-16T18:59:31+00:00	https://www.securitytec.co.uk/4mp-2-8mm-colorvu-white-light-le
+2022-05-16T18:59:31+00:00	https://www.securitytec.co.uk/4mp-2-8mm-colorvu-white-light-led-acusense-turret-built-in-mic-1.html
+2022-05-16T18:59:31+00:00	https://www.securitytec.co.uk/4mp-acusense-2-8mm-50m-ir-turret-ip-camera-built-in-mic-and-speaker-2-way-audio-strobe-2-8mm-1.html
+2022-05-16T18:59:31+00:00	https://www.securitytec.co.uk/4mp-acusense-2-8mm-50m-ir-turret-ip-camera-built-in-mic-and-speaker-2-way-audio-strobe-2-8mm-2.html
+2022-05-16T18:59:31+00:00	https://www.securitytec.co.uk/4mp-acusense-2-8mm-50m-ir-turret-ip-camera-built-in-mic-and-speaker-2-way-audio-strobe-2-8mm-3.html
+2022-05-16T18:59:31+00:00	https://www.securitytec.co.uk/4mp-acusense-2-8mm-50m-ir-turret-ip-camera-built-in-mic-and-speaker-2-way-audio-strobe-2-8mm-4.html
+2022-05-16T18:59:31+00:00	https://www.securitytec.co.uk/8mp-acusense-4mm-ir-fixed-turret-network-camera-mic-built-in-1.html
+2022-05-16T18:59:31+00:00	https://www.securitytec.co.uk/8mp-acusense-4mm-ir-fixed-turret-network-camera-mic-built-in-2.html
+2022-05-16T18:59:31+00:00	https://www.securitytec.co.uk/8mp-acusense-4mm-ir-fixed-turret-network-camera-mic-built-in-3.html
+2022-05-16T18:59:31+00:00	https://www.securitytec.co.uk/4mp-acusense-2-8mm-50m-ir-turret-ip-camera-built-in-mic-and-speaker-2-way-audio-strobe-2-8mm-5.html
+2022-05-16T18:59:31+00:00	https://www.securitytec.co.uk/4mp-acusense-2-8mm-50m-ir-turret-ip-camera-built-in-mic-and-speaker-2-way-audio-strobe-2-8mm-6.html
+2022-05-16T18:59:31+00:00	https://www.securitytec.co.uk/4mp-acusense-2-8-12mm-motor-driven-lens-ir-turret-network-camera-1.html
+2022-05-16T18:59:31+00:00	https://www.securitytec.co.uk/4mp-acusense-2-8mm-50m-ir-turret-ip-camera-built-in-mic-and-speaker-2-way-audio-strobe-2-8mm-7.html
+2022-05-16T18:59:31+00:00	https://www.securitytec.co.uk/back-plate-for-ds-2ce56d8t-it3e-f-ds-2ce56h0-5-t-it3e-f-ds-2ce71-8-u1t-it3f-cameras-20.html
+2022-05-16T18:59:31+00:00	https://www.securitytec.co.uk/back-plate-for-ds-2ce56d8t-it3e-f-ds-2ce56h0-5-t-it3e-f-ds-2ce71-8-u1t-it3f-cameras-21.html
+2022-05-15T12:16:34+00:00	https://www.securitytec.co.uk/4mp-acusense-2-8mm-50m-ir-turret-ip-camera-built-in-mic-and-speaker-2-way-audio-strobe-2-8mm-8.html
+2022-05-16T18:59:31+00:00	https://www.securitytec.co.uk/4mp-acusense-2-8mm-50m-ir-turret-ip-camera-built-in-mic-and-speaker-2-way-audio-strobe-2-8mm-9.html
+2022-05-16T18:59:31+00:00	https://www.securitytec.co.uk/4mp-acusense-2-8mm-50m-ir-turret-ip-camera-built-in-mic-and-speaker-2-way-audio-strobe-2-8mm-10.html
+2022-05-16T18:59:31+00:00	https://www.securitytec.co.uk/4mp-acusense-2-8mm-50m-ir-turret-ip-camera-built-in-mic-and-speaker-2-way-audio-strobe-2-8mm-11.html
+2022-05-16T18:59:31+00:00	https://www.securitytec.co.uk/4mp-acusense-2-8mm-50m-ir-turret-ip-camera-built-in-mic-and-speaker-2-way-audio-strobe-2-8mm-12.html
+2022-05-16T18:59:31+00:00	https://www.securitytec.co.uk/4mp-acusense-2-8mm-50m-ir-turret-ip-camera-built-in-mic-and-speaker-2-way-audio-strobe-2-8mm-13.html
+2022-05-16T18:59:31+00:00	https://www.securitytec.co.uk/4mp-acusense-2-8mm-50m-ir-turret-ip-camera-built-in-mic-and-speaker-2-way-audio-strobe-2-8mm-14.html
+2022-05-16T18:59:31+00:00	https://www.securitytec.co.uk/4mp-acusense-2-8mm-50m-ir-turret-ip-camera-built-in-mic-and-speaker-2-way-audio-strobe-2-8mm-15.html
+2022-05-16T18:59:31+00:00	https://www.securitytec.co.uk/4mp-acusense-2-8mm-50m-ir-turret-ip-camera-built-in-mic-and-speaker-2-way-audio-strobe-2-8mm-16.html
+2022-05-16T18:59:31+00:00	https://www.securitytec.co.uk/4mp-acusense-2-8mm-50m-ir-turret-ip-camera-built-in-mic-and-speaker-2-way-audio-strobe-2-8mm-17.html
+2022-05-16T18:59:31+00:00	https://www.securitytec.co.uk/4mp-acusense-2-8mm-50m-ir-turret-ip-camera-built-in-mic-and-speaker-2-way-audio-strobe-2-8mm-18.html
+2022-05-16T18:59:31+00:00	https://www.securitytec.co.uk/4mp-acusense-2-8mm-50m-ir-turret-ip-camera-built-in-mic-and-speaker-2-way-audio-strobe-2-8mm-19.html
+2022-05-16T18:59:31+00:00	https://www.securitytec.co.uk/4mp-acusense-2-8mm-50m-ir-turret-ip-camera-built-in-mic-and-speaker-2-way-audio-strobe-2-8mm-20.html
+2022-05-16T18:59:31+00:00	https://w

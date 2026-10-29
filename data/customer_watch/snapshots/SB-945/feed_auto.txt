@@ -1,4 +1,4 @@
-# SB-945 grep.sg · feed_auto · https://www.grep.sg/feed/ · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-945 grep.sg · feed_auto · https://www.grep.sg/feed/ · fetched 2026-10-29T15:11:51Z · HTTP 200
 Wed, 30 Jul 2025 16:02:45 +0000	How AI is Revolutionizing Traditional CCTV Surveillance	https://www.grep.sg/2025/07/31/how-ai-is-revolutionizing-traditional-cctv-surveillance/
 Wed, 30 Jul 2025 15:46:53 +0000	Why We’re All-In on AI, Edge Computing, and Video Analysis	https://www.grep.sg/2025/07/30/why-were-all-in-on-ai-edge-computing-and-video-analysis/
 Wed, 30 Jul 2025 07:51:38 +0000	Tripwire vs Motion Detection: Which is Better for Smart Video Surveillance?	https://www.grep.sg/2025/07/30/tripwire-vs-motion-detection-which-is-better-for-smart-video-surveillance/

@@ -1,9 +1,9 @@
 {
  "code": "XA-M389",
  "name": "Inducio GmbH",
- "round": "W1-R03",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（inducio-services.net，快照 2026-10-29）：inducio GmbH | Managed Services & IT Security from Traunstein",
  "summary": "IT 系统之家（Traunstein）；Marvell Prestera 接入层切入",
  "type_final": "IT 系统之家（Traunstein）",
  "size": "未量化",
@@ -19,12 +19,28 @@
    "quote": "",
    "url": "https://inducio-services.net/",
    "date": "2026-09-27"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；inducio GmbH | Managed Services & IT Security from Traunstein",
+   "quote": "inducio operates and secures networks around the clock. Managed services, NOC, monitoring and security for KRITIS, engineering and mid-sized businesses.",
+   "url": "https://inducio-services.net/en",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@inducio.de",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "info@inducio.de",
+   "support@inducio.de"
+  ],
+  "page_phones": [
+   "+49 861 901190 70",
+   "+49 861 90119070"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -38,7 +54,18 @@
   "window": "",
   "when": "不动"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:49:15Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-280GE",
+  "why": "官网快照对位：工业/自动化词频 4、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手",
+  "date": "2026-10-29"
+ }
 }

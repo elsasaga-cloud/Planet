@@ -1,9 +1,9 @@
 {
  "code": "XA-M028",
  "name": "Efa Automazione S.p.A.",
- "round": "W2-R05b",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-22 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（efa.it，快照 2026-10-29）：Efa Automazione - Soluzioni di Digital Transformationper il mondo industriale",
  "summary": "工业通信分销（EFA Automazione S.p.A.，Cernusco sul Naviglio；1988 起，约 34 人，HMS/N-Tron/eWON 意大利分销，Relatech 集团）；卖 N-Tron/Red Lion 工业交换机（8口非网管约 $500+）→ 中性货同规格 STI-280GE（Saga）约 $64（EXW 快照，15 天有效），做第二供应商，价差 5 倍",
  "type_final": "工业通信分销（EFA Automazione S.p.A.，Cernusco sul Naviglio；1988 起，约 34 人，HMS/N-Tron/eWON 意大利分销，Relatech 集团）",
  "size": "工业通信分销（EFA Automazione S.p.A.，Cernusco sul Naviglio；1988 起，约 34 人，HMS/N-Tron/eWON 意大利分销，Relatech 集团）",
@@ -20,12 +20,27 @@
    "quote": "",
    "url": "https://efa.it/",
    "date": "2026-09-22"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Efa Automazione - Soluzioni di Digital Transformationper il mondo industriale",
+   "quote": "Efa Automazione - Soluzioni di Digital Transformationper il mondo industriale",
+   "url": "https://www.efa.it/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "vendite@efa.it",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "info@efa.it",
+   "info@pec.efa.it"
+  ],
+  "page_phones": [
+   "00964550966"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -39,10 +54,21 @@
   "window": "IT 周四 12–14",
   "when": "2026-11-26"
  },
- "notes": "本轮 web_search：efa.it/marchio/n-tron；contactout 34 人；集团归属不入文案。 轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\n本轮 web_search：efa.it/marchio/n-tron；contactout 34 人；集团归属不入文案。 轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "draft_en": {
   "subject": "DIN-rail industrial PoE switches - second source for your line card",
   "body": "Hi,\n\nSaga Telecom builds DIN-rail industrial Ethernet switches for distributors who already carry automation and industrial communication brands and want a second source at a lower price point (CE certified).\n\nSTI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.\n\nWould a lower-priced DIN-rail PoE switch be worth a test unit as a second source next to the industrial switches you carry?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "deep": false
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:43:17Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-280GE",
+  "why": "官网快照对位：工业/自动化词频 31、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手",
+  "date": "2026-10-29"
+ }
 }

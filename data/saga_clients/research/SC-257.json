@@ -31,7 +31,7 @@
    "source": "S 邮箱签名"
   }
  ],
- "notes": "T29-U13 ② F16 补录。中东不在区域重点（US/CA + 欧洲 + 土耳其）→ 不主动跟；留档。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。\nT29-U13 ② F16 补录。中东不在区域重点（US/CA + 欧洲 + 土耳其）→ 不主动跟；留档。",
  "researched_at": "2026-10-22",
  "saga_fit": {
   "p1": "STI-154GP",
@@ -84,6 +84,14 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ DC 集成 25%：Al Rajhi Telecom（利雅得；Al Rajhi Building & Construction 子公司；2013；51–100 ～ 501–1,000 人；弱电 / DC / Cisco Premium；DC Division Manager Inam 真回索样）部分坐实（CR 未取）；具名真回 ✔ 样品意向 ✔ 对位 ✔ 体量 ✔ → P 池候选（次优区）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Home - — ABOUT US Established in 2014 as a subsidiary of Al Rajhi Building & Construction Al Rajhi Telecom Company is a Saudi-based technology solutions provider serving government, commercial, industrial, and telecommunications sectors. Specializing in ICT infrastructure, MEP systems, ELV solutions",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.alrajhitel.com/"
    }
   ],
   "proof_gaps": [
@@ -92,7 +100,37 @@
  },
  "deep": {
   "done_at": "2026-10-29",
-  "level": "邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓）",
-  "batch": "LT-T01"
+  "level": "邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T01",
+  "snapshot_at": "2026-10-29"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:38:03Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "contactus@mobi-egypt.com",
+   "info@alrajhitel.com",
+   "showroom@alrajhitel.com"
+  ],
+  "phones": [
+   "+20 2 2380 8707",
+   "+20 2 2380 9807",
+   "+919000112965"
+  ],
+  "social": [
+   "https://twitter.com/alrajhitel",
+   "https://www.facebook.com/alrajhitelecommunication/",
+   "https://www.instagram.com/alrajhitel/",
+   "https://www.linkedin.com/in/alrajhitel/"
+  ],
+  "models_on_site": [],
+  "url": "https://www.alrajhitel.com/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -1,9 +1,9 @@
 {
  "code": "XC-M119",
  "name": "Maritex Leszek Łosin Sp.j.",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 maritex.eu MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（maritex.eu，快照 2026-10-29）：Maritex",
  "summary": "Maritex Leszek Łosin Sp.j.（波兰）：分销（ORing 授权）；ORing",
  "type_final": "分销（ORing 授权）",
  "size": "",
@@ -47,6 +47,13 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Maritex",
+   "quote": "Maritex",
+   "url": "https://www.maritex.eu/en",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
@@ -58,7 +65,20 @@
     "role": "IES-1080A 商品页标注的 Product Manager（卖方产品咨询角色）",
     "source": "仅验证为该商品页的产品咨询/产品经理；不是已确认的交换机采购或品牌准入负责人；本轮未联系"
    }
-  ]
+  ],
+  "page_emails": [
+   "k.kowalska-aziz@maritex.eu",
+   "k.wasiniewska@maritex.eu",
+   "l.orlowski@maritex.eu",
+   "m.federak@maritex.eu",
+   "maritex@maritex.eu"
+  ],
+  "page_phones": [
+   "+48 58 622 89 00",
+   "+48 58 6228900",
+   "+48 58 662 05 60"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -74,5 +94,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:57:19Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-280GE",
+  "why": "官网快照对位：工业/自动化词频 49、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手",
+  "date": "2026-10-29"
+ }
 }

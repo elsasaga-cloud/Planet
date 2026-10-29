@@ -1,4 +1,4 @@
-# SB-1057 mondoplast.ro · home · https://www.mondoplast.ro/ · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-1057 mondoplast.ro · home · https://www.mondoplast.ro/ · fetched 2026-10-29T15:11:51Z · HTTP 200
 Mondo Plast - Cabluri si echipamente pentru telecomunicatii
 Cariere
 Produse
@@ -45,24 +45,24 @@ Galerie foto
 Diplome si premii
 Curs valutar
 29-Oct-2026
-1 EURO = 5.3495 RON
-1 USD = 4.8088 RON
+1 EURO = 5.3449 RON
+1 USD = 4.7943 RON
 Mondo Plast
 fibra optica switch router poe gigabit router wireless switch gigabit sfp ap stabilizator de tensiune ceiling tavan cablu utp z-wave switch cu management industrial cabinet 19" 10g statie radio cb
 ANPC
 Pagini produse: 1 2 3 4 5 6 7 8 9 10
 Balun pasiv 1 canal video AHD, HDCVI, HDTVI, Video Balun VB108, cleme, IP68, blister/ pereche
 Braun Group - VB-108
-7.76 LEI
+7.75 LEI
 pret fara TVA
-cuTVA: 9.39 LEI
+cuTVA: 9.38 LEI
 Set/ Kit PoE pasiv, injector & splitter pentru camere supraveghere IP, peste cablu cat5E, 10/100
 Braun Group - POE-KIT-F, POEKIT pasiv
-13.99 LEI
+13.98 LEI
 fara TVA
 9.94 LEI
 pret fara TVA
-cuTVA: 12.03 LEI
+cuTVA: 12.02 LEI
 Sursa alimentare DC12V/ 3A Full protection
 Braun Group - YK30-12V3A
 26.71 LEI
@@ -70,33 +70,33 @@ pret fara TVA
 cuTVA: 32.32 LEI
 Sursa 15V 1200mA, tripla protectie, pt alimentare AP, camere, pe cablu la distante mari, 18W
 BraunGroup - EN-EU15V1200
-26.75 LEI
+26.72 LEI
 fara TVA
-13.91 LEI
+13.90 LEI
 pret fara TVA
-cuTVA: 16.83 LEI
+cuTVA: 16.82 LEI
 Sursa alimentare 5V-2A cu mufa USB, full protection,2000-3000mA,15W,alb,5020
 Braun Group - PSU 5V/2A USB
 8.77 LEI
 pret fara TVA
-cuTVA: 10.62 LEI
+cuTVA: 10.61 LEI
 Sursa alimentare 5V-1A cu mufa USB, full protection,1000-1600mA,8W,alb,5010
 Braun Group - PSU 5V/1A USB
-6.74 LEI
+6.73 LEI
 pret fara TVA
-cuTVA: 8.16 LEI
+cuTVA: 8.15 LEI
 Adaptor DC mama la microUSB
 Braun Group - DCMCRUSB
-3.16 LEI
+3.15 LEI
 pret fara TVA
 cuTVA: 3.82 LEI
 Camera IP WiFi 1.0 Mpx, Audio, PIR
 Qihan - QH-NM311-WP
-505.24 LEI
+504.80 LEI
 fara TVA
-443.97 LEI
+443.59 LEI
 pret fara TVA
-cuTVA: 537.20 LEI
+cuTVA: 536.74 LEI
 Camera dome AHD 1.3 Mpx LED Array
 Braun Group - AHD-PE20A-130
 203.06 LEI
@@ -137,26 +137,26 @@ pret fara TVA
 cuTVA: 822.80 LEI
 CAB OUT-16U-600 INOX, Rack industrial outdoor (600x600x817mm), IP55, 19inch 16U , 2 fans, double layers, cu kit de montare pe stilpi
 Braun Group - CAB-OUT-16U-600 INOX
-2,460.77 LEI
+2,458.65 LEI
 pret fara TVA
-cuTVA: 2,977.53 LEI
+cuTVA: 2,974.97 LEI
 CAB OUT-16U-600, Rack industrial outdoor (600x600x817mm), IP55, 19inch 16U , 2 fans, double layers, cu kit de montare pe stilpi
 Braun Group - CAB-OUT-16U-600 N
-1,310.63 LEI
+1,309.50 LEI
 pret fara TVA
-cuTVA: 1,585.86 LEI
+cuTVA: 1,584.50 LEI
 Rack industrial pentru exterior 12U-600 IP55, montanti 19inch 12Unitati, 2 fans, double layers
 LMS Data - CAB-OUT-12U600
-919.95 LEI
+919.16 LEI
 pret fara TVA
-cuTVA: 1,113.14 LEI
+cuTVA: 1,112.19 LEI
 Cutie distributie fibra optica pentru 12 conexiuni
 Braun Group - FDB-12M
-154.76 LEI
+154.63 LEI
 fara TVA
-128.39 LEI
+128.28 LEI
 pret fara TVA
-cuTVA: 155.35 LEI
+cuTVA: 155.22 LEI
 Osciloscop digital
 Atten - ADS2202SA
 3,851.02 LEI
@@ -192,7 +192,7 @@ Braun Group - PCT-604
 pret fara TVA
 cuTVA: 0.32 LEI
 Pagini produse: 1 2 3 4 5 6 7 8 9 10
-Pagina generata in : 0.139 s
+Pagina generata in : 0.126 s
 ©2004 - 2026 mondo plast srl (cod fiscal RO-12755240 / Reg. Com. J 11/53/2000) . Toate drepturile rezervate. Termeni si conditii .
 Pentru orice problema referitoare la acest site contactati webmaster
 Utilizăm cookie-uri pentru a îmbunătăți experiența site-ului și pentru a analiza traficul și publicul pe site. Continuând să navigați pe site-ul nostru, sunteți de acord cu acceptarea utilizării cookie-urilor în conformitate cu Politica de utilizare a cookie-urilor, de acord cu Politica de prelucrare a datelor personale și ați notat Notă de procesare a informațiilor personale. Accept

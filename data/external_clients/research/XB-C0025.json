@@ -1,13 +1,26 @@
 {
  "code": "XB-C0025",
  "name": "Vietnam Network / Đức Mỹ（岘港）",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 vietnamnetwork.vn 有 A 记录、无 MX（邮箱可能托管在别的域；DNS 2026-10-29）",
+ "alive": "在线（vietnamnetwork.vn，快照 2026-10-29）：Thiết bị mạng chính hãng - Giải pháp điện nhẹ tổng thể",
  "summary": "Vietnam Network / Đức Mỹ（岘港）（越南）：网络设备分销；地址=31 Nguyễn Đức Trung, Thanh Khê, Đà Nẵng；开发策略=中部分销，多品牌；置信度=★★★★★",
  "type_final": "网络设备分销",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Ruijie",
+  "H3C",
+  "Cisco",
+  "Grandstream",
+  "Ubiquiti",
+  "MikroTik",
+  "Aruba",
+  "Juniper",
+  "Cambium",
+  "Allied Telesis",
+  "Hikvision",
+  "Fortinet"
+ ],
  "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
  "fit": "",
  "evidence": [
@@ -24,12 +37,25 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Thiết bị mạng chính hãng - Giải pháp điện nhẹ tổng thể",
+   "quote": "Vietnam Network cung cấp sản phẩm thiết bị mạng, camera giám sát, báo cháy, khóa thông minh, âm thanh. Giá cạnh tranh, lắp đặt chuyên nghiệp",
+   "url": "https://vietnamnetwork.vn/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "vietnamnetwork.vn@gmail.com",
   "email_status": "活（来源库 9 月核对）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "vietnamnetwork.vn@gmail.com",
+   "vietnamnetwork@gmail.com"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -45,5 +71,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:52:16Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGM",
+  "why": "官网快照对位：10G/2.5G 词频 18、交换机 783 → 24 GE + 4×10G L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

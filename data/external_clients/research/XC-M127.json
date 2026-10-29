@@ -1,9 +1,9 @@
 {
  "code": "XC-M127",
  "name": "Automatikos centras, UAB",
- "round": "X1-02",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "alive": "在线（automatikoscentras.lt，快照 2026-10-29）：Acentras.lt - Automatikos centras",
  "summary": "AUTOMATIKOS CENTRAS, UAB：工业自动化（PLC / 变频 / 伺服 / 机器人）分销 + 集成（Westermo Reseller）；经理 Saulius +370 615 25580；Vadovas Liudgardas Skruodenis",
  "type_final": "分销（Westermo Reseller）；AUTOMATIKOS CENTRAS, UAB",
  "size": "",
@@ -13,7 +13,24 @@
  "contacts": {
   "email": "info@automatikoscentras.lt",
   "email_status": "官网 / 名录公开（X1-02 补路径）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "administracija@automatikoscentras.lt",
+   "email@oak-integrator.lv",
+   "info@automatikoscentras.lt",
+   "info@electrobit.ee",
+   "saulius@automatikoscentras.lt",
+   "servisas@automatikoscentras.lt"
+  ],
+  "page_phones": [
+   "+370 37 262707",
+   "+370 37 455605",
+   "+370 609 80338",
+   "+370 615 25580",
+   "+371 67842280",
+   "+372 6518 140"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "evidence": [
   {
@@ -29,6 +46,13 @@
    "quote": "",
    "url": "https://geltoni.lt/imones/automatikos-centras-uab/23403",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Acentras.lt - Automatikos centras",
+   "quote": "Automatikos centras – įmonė, dirbanti su pažangiausia pramonine automatikos įranga ir siūlanti šiuolaikinius sprendimus procesų automatizavimui.",
+   "url": "https://automatikoscentras.lt/",
+   "date": "2026-10-29"
   }
  ],
  "touch_status": "未触达（路径 2026-10-29 新补）",
@@ -40,6 +64,12 @@
   "angle": "已入 P 池 → 按巡检节奏首触"
  },
  "deep": false,
- "notes": "AUTOMATIKOS CENTRAS, UAB；Pramonės pr. 17H, LT-51327 Kaunas；Įmonės kodas 111760799；+370 37 262707",
- "draft_en": null
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence。\nAUTOMATIKOS CENTRAS, UAB；Pramonės pr. 17H, LT-51327 Kaunas；Įmonės kodas 111760799；+370 37 262707",
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:57:24Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

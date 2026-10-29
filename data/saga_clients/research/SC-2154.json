@@ -40,7 +40,7 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 印度 · 增值分销 20%：RoundRobin Tech Services Pvt. Ltd.（Mumbai；网络安全 VAD 14 年+；11–50 人；Pradeep Patel Regional Manager 真回）部分坐实（CIN 未取）；印度先例 ✔ 分销对位 ✔ 真回 ✔ → P 池候选；闸 1：印度 Round Robin Tech（roundrobintech.com 正常；Pradeep Patel Regional 具名，gmail；「分销商，有需求会说」= 真实回复 ✔；另有 Bakhtavar Usmani）：印度先例…",
- "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：fail#1。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -140,5 +140,14 @@
   "done_at": "2026-10-29",
   "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
   "batch": "LT-T01"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:36:34Z"
+  ],
+  "fails": [
+   "2026-10-29"
+  ],
+  "batch": "LT-T03"
  }
 }

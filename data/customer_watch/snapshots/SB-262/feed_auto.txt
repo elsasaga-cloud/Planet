@@ -1,4 +1,4 @@
-# SB-262 Software Effect Enterprises, Inc · feed_auto · https://www.seei.biz/feed/ · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-262 Software Effect Enterprises, Inc · feed_auto · https://www.seei.biz/feed/ · fetched 2026-10-29T15:11:51Z · HTTP 200
 Mon, 14 Sep 2026 12:50:17 +0000	Configure BIND to prefer IPv4 without disabling IPv6	https://www.seei.biz/configure-bind-to-prefer-ipv4-without-disabling-ipv6/
 Sun, 23 Aug 2026 21:58:07 +0000	GrapheneOS / Pixel 9a – screen turning on every time you move phone	https://www.seei.biz/grapheneos-pixel-9a-screen-turning-on-every-time-you-move-phone/
 Sat, 18 Jul 2026 18:29:35 +0000	Calculate power from falling water	https://www.seei.biz/calculate-power-from-falling-water/

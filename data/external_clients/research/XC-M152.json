@@ -1,9 +1,9 @@
 {
  "code": "XC-M152",
  "name": "Power Motion",
- "round": "X1-03",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "alive": "在线（powermotionsales.com，快照 2026-10-29）：Power Motion | Industrial Automation Solutions Provider",
  "summary": "Power Motion Sales Inc.：自动化元件与系统分销（视觉 / 传感 / 运动 / 安全 / 机器人 / 远程连接）；Owner Christopher Tremblay；体量未知",
  "type_final": "分销（HMS/N-Tron·Red Lion 渠道）；Power Motion Sales Inc.",
  "size": "",
@@ -29,6 +29,13 @@
    "quote": "",
    "url": "https://www.explorium.ai/manufacturing/companies/power-motion-sales",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Power Motion | Industrial Automation Solutions Provider",
+   "quote": "Power Motion partners with leading manufacturers and your company to deliver industrial automation, systems engineering and project support – contact us now to see how we can help.",
+   "url": "https://www.powermotionsales.com/",
+   "date": "2026-10-29"
   }
  ],
  "touch_status": "未触达（路径 2026-10-29 新补）",
@@ -40,6 +47,12 @@
   "angle": "观察档 → 试单后转正"
  },
  "deep": false,
- "notes": "Power Motion Sales Inc.；652 Axminister Dr, Fenton, MO 63026（St. Louis / KC / Little Rock）；+1 800 844 7879",
- "draft_en": null
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/evidence。\nPower Motion Sales Inc.；652 Axminister Dr, Fenton, MO 63026（St. Louis / KC / Little Rock）；+1 800 844 7879",
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:57:43Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

@@ -17,7 +17,9 @@
   "Siklu",
   "TP-Link",
   "Tenda",
-  "Ubiquiti"
+  "Ubiquiti",
+  "Huawei",
+  "Cambium"
  ],
  "evidence": [
   {
@@ -51,7 +53,7 @@
    "source": "S 邮箱签名"
   }
  ],
- "notes": "LT-T02 官网实查（2026-10-29）：见 evidence「LT-T02 官网实查」。\n分销商的采购/品类经理才是对的人；现有联系人是销售。南非不在 Planet 仓重点区域，但 Saga Clients 全域覆盖：慢慢跟，换「渠道/贴牌」角度找品类负责人再发。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。\nLT-T02 官网实查（2026-10-29）：见 evidence「LT-T02 官网实查」。\n分销商的采购/品类经理才是对的人；现有联系人是销售。南非不在 Planet 仓重点区域，但 Saga Clients 全域覆盖：慢慢跟，换「渠道/贴牌」角度找品类负责人再发。",
  "researched_at": "2026-10-22",
  "saga_fit": {
   "p1": "STC-424DGGPM-280W",
@@ -104,6 +106,14 @@
     "quote": "Please see the attached sales quote above on what we can offer and stock is available.（回 Simon「48 Port PoE Managed Switch, 300usd/pc」）",
     "why": "对方反向给 Saga 报价 + 有现货 = 同行分销商，不是买家；Saga 的 300 USD 52 口 L2+ 价对它没有意义，除非谈 OEM/白牌供货。维持不动；若要动，只能以「supplier onboarding」口径找其采购而不是 Account Manager",
     "k": "gmail_s（switchcom.co.za，jsonl client 字段为空，按域名重扫）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Switchcom Distribution — Switchcom Distribution is a leading distributor of high-end wired and wireless networking equipment, VoIP, surveillance, and more. We offer a vast product portfolio consisting of top brands like Cambium Networks, Hikvision, MikroTik, Ubiquiti Networks, and more to meet all y",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.switchcom.co.za/"
    }
   ],
   "proof_gaps": [],
@@ -129,11 +139,44 @@
  ],
  "deep": {
   "done_at": "2026-10-29",
-  "level": "邮件证据 + 官网实查 v1（LT-T02）",
-  "batch": "LT-T02"
+  "level": "邮件证据 + 官网实查 v1（LT-T02） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T02",
+  "snapshot_at": "2026-10-29"
  },
  "signals": [
   "官网首页品牌墙：Huawei eKit / Siklu / ALGcom / MikroTik / Fanvil / Ubiquiti / TP-Link / Extralink / Hikvision / Mercusys / Tenda + 自有配件线「Switchcom Distribution」（2026-10-29）→ 走量分销 + 自有配件标 = 20% 档 + 贴牌话题可谈",
   "Best sellers 全是 Ubiquiti airMAX CPE（WISP 客群）→ 对位 = WISP 汇聚 PoE（STC-228GP / STC-2224GP）而不是企业核心"
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:26:53Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@switchcom.co.za"
+  ],
+  "phones": [],
+  "social": [
+   "http://www.facebook.com/sharer.php?u=_bc_product_uri_",
+   "https://twitter.com/SwitchcomD",
+   "https://twitter.com/share?url=_bc_product_uri_",
+   "https://twitter.com/share?url=https://www.switchcom.co.za/products/fanvil-2sip-1-button-ip54-mini-poe-intercom&text=fanvil-2sip-1-button-ip54-mini-poe-intercom"
+  ],
+  "models_on_site": [
+   "FAN-I16V",
+   "FAN-I10V",
+   "FAN-I10",
+   "PBE-M5-300",
+   "LBE-5AC",
+   "PBE-M5-400",
+   "SH-5800-18-30-D",
+   "SH-5800-13-60-D"
+  ],
+  "url": "https://www.switchcom.co.za/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

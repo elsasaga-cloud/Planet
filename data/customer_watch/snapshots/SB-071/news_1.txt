@@ -1,4 +1,4 @@
-# SB-071 nkstech.net · news_1 · https://nkstech.net/projects.php · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-071 nkstech.net · news_1 · https://nkstech.net/projects.php · fetched 2026-10-29T15:11:51Z · HTTP 200
 Nayon Kontrol Systems
 » Projects
 NKS Projects Highlights
@@ -360,4 +360,39 @@ System design and implementation for SCADA of two (2) substation - Sagkahan subs
 Supply, installation, configuration and commissioning of GE-Harris D20 RTU
 Integration of IEDs - TPUs DPUs, and GE-Harris RTU
 Supply and configuration HMI/MMI - Man Machine Interface
-Supply, installation and commissioning of 4 km wireless communication of C
+Supply, installation and commissioning of 4 km wireless communication of Campitik substation to the HMI in the engineering office
+Shall conduct training on the HMI/MMI system development including configuration and database buildup
+Bataan Polyethelene Corporation /
+Southern Energy Mobile Inc.
+Limay, Bataan (Aug 2000)
+Supply, installation and configuration of a GE-Harris D20 RTU
+Siemens EV / National Power Corporation
+(Nov 1999)
+Supply of five (5) HMI/MMI-Man Machine Interface on an HP Vectra 8i hardware platform and with BJ Software RealFlex 4.0 system
+Pagbilao Coal Fired Thermal Power Plant (2x300 MW) / Southern Energy Mobile Inc.
+Pagbilao, Quezon (Mar 1999)
+Implementation of switchyard SCADA system by refurbishing the switchyard data and control system
+Reconfiguration of the GE-Harris D20 RTU
+Supply and Configuration of the HMI/MMI-Man Machine Interface
+Commissioning of the 1 km fiber optic communication cable from the RTU in the switchyard to the HMI located in the main control room
+Conducted training on the HMI/MMI system development including configuration and database buildup
+Mindanao Geothermal Plant (2x50 MW) /
+Philippine National Oil Company
+(Aug 1998)
+Installation and Configuration of GE Harris D20 RTU
+South Luzon Thermal Energy Corporation (SLTEC)
+Substation Automation and Protection System
+Carmen Copper Corporation
+Integrated SCADA System including existing System and New Carcon SS
+ILJIN Electric Co., Ltd.
+SCADA RTU Assembly for Limay, Bataan
+Synergy Industrial Supply Inc.
+RTU Spares, Switches and Accessories
+SMS Global Tech. Inc.
+Data Acquisition for VPN Connected Stations
+Copyright © 2013 Nayon Kontrol Systems. All rights reserved.
+No. 4 Illinois St., Brgy. Silangan, District III, Cubao, Quezon City, Philippines 1109
+Phone: (+632) 913-1347 • (+632) 514-6912 | Telfax No. (+632) 411-2337
+Email: info@nks.ph
+Terms of Use
+Site Map

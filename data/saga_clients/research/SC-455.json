@@ -6,7 +6,9 @@
  "summary": "C 池三闸捞出（△ 观察）：△ 观察档 · 分销 20%：AGS Electronics（ags-electronics.com；ZoomInfo 载 Albuquerque NM 美国 11–50 人）国别存疑（表内韩国 → 疑美国，待 Simon 核）+ 法人未取 → 部分坐实；进口台湾工业线 ✔ 对位 ✔ → 入池观察档（若美国 = 主区 ✔）",
  "type": "分销（闸 2 判定 · 20% 档）",
  "size": "小型（11–50 人）",
- "brands_seen": [],
+ "brands_seen": [
+  "Korenix"
+ ],
  "evidence": [
   {
    "kind": "登记底数 / 官网（闸 2 坐实）",
@@ -40,7 +42,7 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · 分销 20%：AGS Electronics（ags-electronics.com；ZoomInfo 载 Albuquerque NM 美国 11–50 人）国别存疑（表内韩国 → 疑美国，待 Simon 核）+ 法人未取 → 部分坐实；进口台湾工业线 ✔ 对位 ✔ → 入池观察档（若美国 = 主区 ✔）；闸 1：韩国 AGS Electronics（ags-electronics.com；在售 Atop 台湾工业交换机）：进口台湾同类 ✔ 对位 ✔ Simon 点名韩国；未触达 → 闸 2 查底数（bizno）；低优先",
- "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/saga_fit/deep/facts。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -70,8 +72,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "STC-228GP",
-   "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
+   "p1": "STI-288GPM",
+   "why": "官网快照对位：工业/自动化词频 26、PoE 2 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -93,6 +95,14 @@
     "quote": "KR/US · 1 次检索：zoominfo.com/c/ags-electronics-inc/368409713（域名对上但落美国）；韩国 사업자 未取；2026-10-29",
     "why": "闸 2 坐实来源（URL 见 company_facts.url）",
     "url": "https://www.zoominfo.com/c/ags-electronics-inc/368409713"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Electronics Electronic Products Manufacturing | United States | AGS-Electronics — AGS-Electronics, Electronic Products Design and Manufacturing, Electronics Assembly such as PCB, PCBA....etc., Electronics Global Supplier, Prototyping House, Mass Producer, Custom Manufacturer, Engineering Integrator,",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.ags-electronics.com/"
    }
   ],
   "proof_gaps": [
@@ -131,14 +141,46 @@
   "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
  ],
  "saga_fit": {
-  "p1": "STC-228GP",
+  "p1": "STI-288GPM",
   "tier": 20,
-  "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
-  "basis": "默认 · 官网快照后按业务线校正"
+  "why": "官网快照对位：工业/自动化词频 26、PoE 2 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）",
+  "basis": "官网快照自动对位（LT-T03）· 人工点名时再校",
+  "p1_prev": "STC-228GP"
  },
  "deep": {
   "done_at": "2026-10-29",
-  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
-  "batch": "LT-T01"
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T01",
+  "snapshot_at": "2026-10-29"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:39:17Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@ags-electronics.com"
+  ],
+  "phones": [],
+  "social": [
+   "https://mix.com/agstech",
+   "https://www.dropbox.com/request/o2NgZZR8StYXO6HswZq8",
+   "https://www.dropbox.com/s/ft3pr0bc41wqkrn/Catalog%20for%20LED%20Lights%20from%20AGS-Electronics-OICASLOWCLED.pdf",
+   "https://www.dropbox.com/s/hy0pio7uwiieol2/Degson%20Model%20Terminal-Blocks-General-Catalogue.pdf?dl=0"
+  ],
+  "models_on_site": [
+   "RJ-45",
+   "RS-232",
+   "PET-7H16M",
+   "CASE-1",
+   "CASE-2",
+   "CASE-3"
+  ],
+  "url": "https://www.ags-electronics.com/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

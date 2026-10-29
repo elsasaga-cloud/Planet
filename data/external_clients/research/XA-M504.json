@@ -1,16 +1,17 @@
 {
  "code": "XA-M504",
  "name": "DSSI",
- "round": "W2-R05c",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（dssi.pt，快照 2026-10-29）：As melhores Soluções Tecnológicas | DSSI PT",
  "summary": "Perle 授权分销/集成（DSSI，Agualva-Cacém）；Marvell Prestera 接入层切入",
  "type_final": "Perle 授权分销/集成（DSSI，Agualva-Cacém）",
  "size": "未量化",
  "brands_seen": [
   "Perle Systems（工业 PoE 交换机",
   "媒体转换",
-  "串口设备联网）"
+  "串口设备联网）",
+  "Ubiquiti"
  ],
  "saga_line": "—",
  "fit": "",
@@ -28,12 +29,35 @@
    "quote": "",
    "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
    "date": "2026-10-01"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；As melhores Soluções Tecnológicas | DSSI PT",
+   "quote": "A DSSI, oferece as melhores soluções tecnológicas para os seus parceiros e clientes",
+   "url": "https://dssi.pt/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "comercial@dssi.pt",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "comercial@dssi.co.ao",
+   "comercial@dssi.co.mz",
+   "comercial@dssi.es",
+   "comercial@dssi.pt",
+   "comercial@dssibrasil.com.br"
+  ],
+  "page_phones": [
+   "+244) 939 779 320",
+   "+258) 84 684 9914",
+   "+258) 87 207 4064",
+   "+351 21 805 15 60",
+   "+351 93 720 4492",
+   "+55) 11 98124 9007"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-01 群发「24 Port PoE Managed Switch」→ 已发未回",
  "saga_overlap": "无",
@@ -47,7 +71,13 @@
   "window": "",
   "when": "不动"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:51:45Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

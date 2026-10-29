@@ -1,9 +1,9 @@
 {
  "code": "XC-M151",
  "name": "Power Mation",
- "round": "X1-03",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "alive": "在线（powermation.com，快照 2026-10-29）：Innovative Industrial Automation Distributor | Power/mation",
  "summary": "Power/mation：工业自动化分销，1961 起，≈159 人；CEO Jim Landes（allbiz 名录）",
  "type_final": "分销（HMS/N-Tron·Red Lion 渠道）；Power/mation",
  "size": "",
@@ -13,7 +13,12 @@
  "contacts": {
   "email": "info@powermation.com",
   "email_status": "官网 / 名录公开（X1-03 补路径）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "contact@powermation.com"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "evidence": [
   {
@@ -29,6 +34,13 @@
    "quote": "",
    "url": "https://aeroleads.com/c/powermation",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Innovative Industrial Automation Distributor | Power/mation",
+   "quote": "Power/mation is an industrial automation distributor and solutions provider with multiple locations in the Midwest including MN, WI, IA, IL, ND, and SD.",
+   "url": "https://www.powermation.com/",
+   "date": "2026-10-29"
   }
  ],
  "touch_status": "未触达（路径 2026-10-29 新补）",
@@ -40,6 +52,17 @@
   "angle": "已入 P 池 → 按巡检节奏首触"
  },
  "deep": false,
- "notes": "Power/mation；1310 Energy Lane, St. Paul, MN 55108（+ Waukesha WI）；+1 651 605 3300",
- "draft_en": null
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\nPower/mation；1310 Energy Lane, St. Paul, MN 55108（+ Waukesha WI）；+1 651 605 3300",
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:57:43Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-280GE",
+  "why": "官网快照对位：工业/自动化词频 143、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手",
+  "date": "2026-10-29"
+ }
 }

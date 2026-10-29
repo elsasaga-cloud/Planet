@@ -1,9 +1,9 @@
 {
  "code": "XA-C0019",
  "name": "MICHAEL AG (MichaelTelecom)",
- "round": "W1-R01",
- "researched_at": "2026-10-27",
- "alive": "活（2026-05-01 二代 Magnus Michael 任董事长）",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（michael-ag.de，快照 2026-10-29）：Ihr ITK Distributor und Großhandel aus dem Osnabrücker Land | MICHAEL AG",
  "summary": "下萨克森 Bohmte 的 ITK 分销商（1984 起，家族企业，2024 更名 Michael AG），Hikvision「第一代」分销商、2025-08 升为德国战略分销商；产品线含网络组件（工业/车载/标准交换机、路由器、PoE 注入器、UPS）、TK 设备与网络业务，面向经销商/系统商。",
  "type_final": "ITK 分销商（Hikvision 战略分销 + 网络组件）",
  "size": "中型家族企业（员工数待补证）",
@@ -43,6 +43,13 @@
    "quote": "",
    "url": "https://www.channelpartner.de/article/4160956/die-michael-ag-bekommt-einen-neuen-chef.html",
    "date": "2026-04-20"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Ihr ITK Distributor und Großhandel aus dem Osnabrücker Land | MICHAEL AG",
+   "quote": "Herzlich Willkommen bei der MichaelTelecom, Ihrem ITK Distributor und Großhandel aus Bohmte / Osnabrück. Netzvermarktung, Schulung, Dropshipping, uvm. - wir beraten Sie gerne!",
+   "url": "https://www.michael-ag.de/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
@@ -59,7 +66,15 @@
     "role": "Produktmanager Videoüberwachung（2018 报道）",
     "source": "官网 2018 奖项稿"
    }
-  ]
+  ],
+  "page_emails": [
+   "info@michael-ag.de"
+  ],
+  "page_phones": [
+   "+49) 5471 806-0",
+   "+49) 5471 806-222"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "未发信",
  "saga_overlap": "无",
@@ -77,6 +92,17 @@
   "subject": "PoE switches for your video-surveillance resellers",
   "body": "Hello,\n\nSaga Telecom supplies PoE and L2+ switches to security and network distributors in Europe - under our label or the distributor's own. Your network-components line already lists several switch types; what we add is a PoE line priced for camera projects and sold at distributor level.\n\nReference points: STC-424XGGPM-280W (24 x GE PoE+ 280 W + 4 x 10G SFP+, Marvell L2+) USD 170; STC-2224GP (24 x GE PoE+ + 2 x GE + 2 x SFP, 300 W, unmanaged) USD 86; 8-port PoE+ units from USD 28, all EXW Shenzhen, snapshot 2026-10-27, valid 15 days, CE/RoHS/REACH, 12-month warranty. Voice/camera VLAN, PoE watchdog and 250 m extend mode included where relevant.\n\nCould you forward this to the product manager for video surveillance, or tell me who that is so I can send the full price sheet directly?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "notes": "不提 Hikvision 自家交换机。",
- "deep": false
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\n不提 Hikvision 自家交换机。",
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:42:37Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGM",
+  "why": "官网快照对位：电信/FTTH 词频 20 → 汇聚 24 GE + 4×10G",
+  "date": "2026-10-29"
+ }
 }

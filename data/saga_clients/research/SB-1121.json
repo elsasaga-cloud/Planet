@@ -41,10 +41,11 @@
  ],
  "grade_override": "A",
  "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌",
- "notes": "巨头规则（INH：体量不匹配）→ C 不动；但这是仓内少有的英国品牌商 VP 两次具名提问，按 Q-55「巨头例外档」处理：档案齐全，只允许一封收尾信（把 2026-01-22 的 REST 承诺交代清楚），不进群发。flags.wa_failed=1（WhatsApp 加不上）。｜第 77 批：C→B（见 override_reason）；收尾信不变，2026-11 发。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。\n巨头规则（INH：体量不匹配）→ C 不动；但这是仓内少有的英国品牌商 VP 两次具名提问，按 Q-55「巨头例外档」处理：档案齐全，只允许一封收尾信（把 2026-01-22 的 REST 承诺交代清楚），不进群发。flags.wa_failed=1（WhatsApp 加不上）。｜第 77 批：C→B（见 override_reason）；收尾信不变，2026-11 发。",
  "deep": {
   "done_at": "2026-10-24",
-  "level": "邮件证据 + 官网常识"
+  "level": "邮件证据 + 官网常识 + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "company_facts": {
   "legal_name": "TECHNETIX LIMITED（Companies House 02484988；SIC 26110 / 26400 / 46520；账目至 2025-12-31 已报，下期 2027-09-30 到期）（第 84 批 官方登记核实 2026-10-27）",
@@ -153,6 +154,14 @@
     "quote": "C→B：品牌商 VP 两次具名提问 + 我方未兑现承诺待交代",
     "why": "T29-U56；仍按 Q-55 只发一封收尾信",
     "k": "—"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Welcome to Technetix - Technetix — You will be redirected to your local region. If you are not, please select your region below:",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://technetix.com/"
    }
   ],
   "proof_gaps": [
@@ -174,5 +183,25 @@
    "prev_reason": "2026-10-25 第 77 批（T29-U56 Simon「值得捞的处理一下」）：C → B。理由：英国品牌商 VP Product Management 两次具名提问（2025-04 定制/芯片；2026-01 2.5G/供电/REST/样机），Alan 2026-01-22 的答复含一个未兑现承诺（REST/JSON Q2）——欠一封收尾信；《背景信息》把 OEM 品牌商排第一。原 C 来自 INH 体量规则（-45 巨头/品牌厂商），Simon 备注「加不上 比较专业」。B = 慢慢跟进：仍只发 Q-55 规定的那一封收尾信，不进群发。",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌"
   }
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:26:53Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [],
+  "social": [
+   "https://americas.technetix.com/",
+   "https://emea.technetix.com",
+   "https://technetix.com/"
+  ],
+  "models_on_site": [],
+  "url": "https://technetix.com/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

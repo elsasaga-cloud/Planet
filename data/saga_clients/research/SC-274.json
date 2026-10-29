@@ -42,7 +42,7 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 集团分销 20%：ALCADON AS（Oslo；org.nr 952 334 891；1989；16 人；NOK 85.8M；Alcadon 集团瑞典控股）坐实；Planet 渠道 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔ = 冷户四条 → P 池候选（长线，同步找集团产品管理）；闸 1：挪威 Alcadon（北欧布线 / 网络分销集团，很多 Planet 产品，CWDM）：欧洲 + 分销主体 + 对位 ✔；10 推 0 回 → 闸 2 查底数（体量偏大）",
- "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：saga_fit.basis/deep/facts。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -95,6 +95,14 @@
     "quote": "NO · 1 次检索：proff.no（org / 成立 / 股东 / 16 人）+ gulesider（营业额 85,842 tkr；3.1% 利润率）；2026-10-29",
     "why": "闸 2 坐实来源（URL 见 company_facts.url）",
     "url": "https://www.proff.no/selskap/alcadon-as/oslo/elektronikk-og-telekommunikasjonsutstyr-engros/IFQZUAZ10MZ-1"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Alcadon AS - Leverandør av infrastruktur for nettverk — Alcadon tilbyr et bredt spekter av produkter av høy kvalitet og komponenter fra ledende merker og eget merke ECS, European Cabling Systems.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.alcadon.no/"
    }
   ],
   "proof_gaps": [
@@ -135,11 +143,19 @@
   "p1": "STC-228GP",
   "tier": 20,
   "why": "默认对位（集团分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
-  "basis": "默认 · 官网快照后按业务线校正"
+  "basis": "默认 · 官网快照已到（2026-10-29）无型号线索，沿用"
  },
  "deep": {
   "done_at": "2026-10-29",
-  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
-  "batch": "LT-T01"
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T01",
+  "snapshot_at": "2026-10-29"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:38:10Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
  }
 }

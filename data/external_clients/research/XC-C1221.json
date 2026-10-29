@@ -1,14 +1,17 @@
 {
  "code": "XC-C1221",
  "name": "Videcon",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 videcon.co.uk MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（videcon.co.uk，快照 2026-10-29）：CCTV, Fire, Intruder & Access Control Solutions - Videcon",
  "summary": "Videcon（英国）：Uniview + 自有品牌",
  "type_final": "Uniview + 自有品牌",
  "size": "",
  "brands_seen": [
-  "Uniview"
+  "Uniview",
+  "Ubiquiti",
+  "Zyxel",
+  "Ajax"
  ],
  "saga_line": "STC 贴牌 / 自有品牌线（30% 档）",
  "fit": "",
@@ -19,12 +22,26 @@
    "quote": "Uniview + 自有品牌",
    "url": "https://videcon.co.uk",
    "date": "2026-09"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；CCTV, Fire, Intruder & Access Control Solutions - Videcon",
+   "quote": "Videcon is a leading trade-only distributor of CCTV, Fire, Intruder & Access Control products to the UK security market.",
+   "url": "https://videcon.co.uk/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "",
   "email_status": "缺",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "sales@videcon.co.uk"
+  ],
+  "page_phones": [
+   "+44 (0) 1924 528000"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "Saga SC-2954（videcon.co.uk）随主档",
@@ -40,5 +57,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:55:53Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGPM-280W",
+  "why": "官网快照对位：PoE 词频 75、监控 316 → 24 口 PoE L2+ 走量款",
+  "date": "2026-10-29"
+ }
 }

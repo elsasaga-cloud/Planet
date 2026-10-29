@@ -1,9 +1,9 @@
 {
  "code": "XB-E043",
  "name": "FIBERGET",
- "round": "W3-R06",
- "researched_at": "2026-10-28",
- "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（fiberget.by，快照 2026-10-29）：FIBERGET - Оптовая торговля коммутационным оборудованием IT решения и интеграция в Брестской области",
  "summary": "网络分销/集成（FIBERGET，白俄罗斯布列斯特；info@fiberget.by）",
  "type_final": "网络分销/集成（FIBERGET，白俄罗斯布列斯特；info@fiberget.by）",
  "size": "未量化",
@@ -24,12 +24,28 @@
    "quote": "",
    "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
    "date": "2026-10-20"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；FIBERGET - Оптовая торговля коммутационным оборудованием IT решения и интеграция в Брестской области",
+   "quote": "Телекоммуникационное оборудование. Комплекс IT услуг и решений - FIBERGET",
+   "url": "https://fiberget.by/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@fiberget.by",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "info@fiberget.by"
+  ],
+  "page_phones": [
+   "+375 (162) 53-52-94",
+   "+375 (29) 722-12-64",
+   "+375 (29) 729-05-95"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-20 群发「24 Port PoE Managed Switch」→ 已发未回",
  "saga_overlap": "无",
@@ -43,7 +59,18 @@
   "window": "",
   "when": "不动"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:53:58Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-28DGGPM",
+  "why": "官网快照对位：交换机词频 1、无 PoE/工业侧重 → 8 口 L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

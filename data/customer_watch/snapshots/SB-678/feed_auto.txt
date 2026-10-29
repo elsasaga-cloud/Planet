@@ -1,4 +1,4 @@
-# SB-678 qntmnet.com · feed_auto · https://www.qntmnet.com/feed/ · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-678 qntmnet.com · feed_auto · https://www.qntmnet.com/feed/ · fetched 2026-10-29T15:11:51Z · HTTP 200
 Fri, 03 Apr 2026 07:56:21 +0000	How does Quantum Networks Help the Hospitality Industry?	https://www.qntmnet.com/how-does-quantum-networks-help-the-hospitality-industry/
 Thu, 26 Mar 2026 12:11:12 +0000	Why Open Networks Are a Business Risk	https://www.qntmnet.com/why-open-networks-are-a-business-risk/
 Mon, 23 Mar 2026 12:14:15 +0000	OpenRoaming: What If Wi-Fi Just Connected?	https://www.qntmnet.com/openroaming-what-if-wi-fi-just-connected/

@@ -1,9 +1,9 @@
 {
  "code": "XA-E008",
  "name": "Cambridge Computer",
- "round": "W1-R01",
- "researched_at": "2026-10-27",
- "alive": "官网活（2026-07 更新）、SAM 登记有效至 2027-05",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（cambridgecomputer.com，快照 2026-10-29）：Cambridge Computer | Advanced Computing Solutions",
  "summary": "1991 年起的存储/数据保护/HPC 经销商（51–200 人，$10–50M 级），女性企业认证，NVIDIA 网络经销商、NetApp 州合同经销商，客户为大企业/顶尖高校/药企；自称 broker-agent 而非 VAR。10-19 发 sgay@ 未回。",
  "type_final": "存储/HPC 方向 VAR（技术型买家为主）",
  "size": "51–200 人；$10–50M（GovTribe）",
@@ -43,6 +43,13 @@
    "quote": "",
    "url": "https://cioreview.com/cambridge-computer",
    "date": "2026-10-27"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Cambridge Computer | Advanced Computing Solutions",
+   "quote": "Trusted technology integrator offering tailored solutions in enterprise, research, and edge computing for advanced technical users.",
+   "url": "https://www.cambridgecomputer.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
@@ -59,7 +66,12 @@
     "role": "CTO/联合创始人",
     "source": "官网 About"
    }
-  ]
+  ],
+  "page_emails": [
+   "info@cambridgecomputer.com"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-19 发 sgay@ → 已发未回",
  "saga_overlap": "无",
@@ -77,6 +89,12 @@
   "subject": "Low-cost 10G/100G ToR for lab and research networks",
   "body": "Hi John,\n\nI wrote on 19 October under \"24 Port PoE Managed Switch\"; this is a different angle, so a fresh note rather than a reply.\n\nFor the research and university accounts you serve, we supply Centec-based L3 ToR switches as a lower-cost tier next to the mainstream brands: STH-2C24XF-HSI, 24 x 10G SFP+ + 2 x 100G QSFP28, L3 (OSPF/BGP, VXLAN), dual hot-swap PSUs, 12-month warranty, USD 1,500 EXW Shenzhen (snapshot 2026-10-27, valid 15 days).\n\nIs a price-first ToR option something your lab customers ask for, or do they stay with the incumbent brands regardless?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "notes": "下一封改发 joliverio@（实名关系经理），比 sgay@ 更对口。",
- "deep": false
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence。\n下一封改发 joliverio@（实名关系经理），比 sgay@ 更对口。",
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:42:51Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

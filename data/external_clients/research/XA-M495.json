@@ -1,9 +1,9 @@
 {
  "code": "XA-M495",
  "name": "Noriak Distribution",
- "round": "W2-R05c",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（noriak-distri.com，快照 2026-10-29）：Accueil",
  "summary": "进口分销商（Noriak Distribution / Micro Tech Distribution SAS，Cesson-Sévigné 35；2006 起，20–49 人，6 名外勤销售；Noriak Réseau 3,500 个网络/工业网络/监控 SKU）；Marvell Prestera 接入层切入",
  "type_final": "进口分销商（Noriak Distribution / Micro Tech Distribution SAS，Cesson-Sévigné 35；2006 起，20–49 人，6 名外勤销售；Noriak Réseau 3,500 个网络/工业网络/监控 SKU）",
  "size": "进口分销商（Noriak Distribution / Micro Tech Distribution SAS，Cesson-Sévigné 35；2006 起，20–49 人，6 名外勤销售；Noriak Réseau 3,500 个网络/工业网络/监控 SKU）",
@@ -28,12 +28,24 @@
    "quote": "",
    "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
    "date": "2026-10-01"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Accueil",
+   "quote": "Noriak Distri < ... > Tous nos partenaires",
+   "url": "https://www.noriak-distri.com",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "contact@noriak-distri.com",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "contact@noriak-distri.com"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-01 群发「24 Port PoE Managed Switch」→ 已发未回",
  "saga_overlap": "无",
@@ -47,10 +59,16 @@
   "window": "FR 周四 12–14",
   "when": "2026-12-03"
  },
- "notes": "本轮 web_search：noriak-distri.com「importation et distribution … produits réseaux」；pappers 20–49 人；noriak-reseau.com「réseau industriel … switches」。 轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence。\n本轮 web_search：noriak-distri.com「importation et distribution … produits réseaux」；pappers 20–49 人；noriak-reseau.com「réseau industriel … switches」。 轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "draft_en": {
   "subject": "PoE switch line for your reseller channel - distributor pricing",
   "body": "Hi,\n\nI wrote on 1 October about our 24-port PoE L2+ switch ('24 Port PoE Managed Switch'); this is a different angle, so a fresh note rather than a reply.\n\nThree PoE switches our distributor partners move most, all EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE, under our label or yours:\n\n- STC-2224GP: 24 x GE PoE+ (300 W) + 2 x GE + 2 x SFP, USD 86.\n- STC-424XGGPM-280W: 24 x GE PoE+ (280 W) + 4 x 10G SFP+, Marvell-based L2+ managed, USD 170.\n- STI-288DGGPM: DIN-rail industrial L2+, 8 x GE PoE+ (240 W) + 2 x SFP, -40 to +75 C, USD 137, 3-year warranty (12 months on the commercial units).\n\nWho on your product team looks after new networking vendors, and would a sample or a price sheet be the better first step?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "deep": false
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:51:39Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

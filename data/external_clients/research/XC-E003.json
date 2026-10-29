@@ -1,13 +1,15 @@
 {
  "code": "XC-E003",
  "name": "Pine Networks",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 pine-networks.com MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（pine-networks.com，快照 2026-10-29）：Home - Pine Networks",
  "summary": "Pine Networks（法国 · Garches）：SI/VAR/集成商",
  "type_final": "SI/VAR/集成商",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Cisco"
+ ],
  "saga_line": "STC 项目集成款（25% 档：STC-2216GP / STC-228GP）",
  "fit": "",
  "evidence": [
@@ -24,12 +26,27 @@
    "quote": "",
    "url": "https://www.edge-core.com/where-to-buy/emea-reseller/",
    "date": "2026-10-27"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Home - Pine Networks",
+   "quote": "Pine Networks supports organizations on their journey away from vendor lock-in toward open, flexible networking solutions. We design and deliver turnkey open networking solutions—covering hardware, software, support, and services. We work with cloud providers, Internet Service Providers, and Enterpr",
+   "url": "https://pine-networks.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "contact@pine-networks.com",
   "email_status": "活（来源库 9 月核对）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "contact@pine-networks.com"
+  ],
+  "page_phones": [
+   "+33 (0)1 88 94 77 04",
+   "+33 01 88 94 77 04"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "Saga SC-345（pine-networks.com）随主档",
@@ -45,5 +62,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:55:53Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGM",
+  "why": "官网快照对位：10G/2.5G 词频 30、交换机 194 → 24 GE + 4×10G L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

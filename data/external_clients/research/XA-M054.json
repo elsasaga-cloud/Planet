@@ -1,14 +1,15 @@
 {
  "code": "XA-M054",
  "name": "Modelec Data-Industrie",
- "round": "W2-R05a",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-23 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（modelec.nl，快照 2026-10-29）：MODELEC weet te verbinden met betrouwbare en veilige netwerkoplossingen",
  "summary": "工业数据通信分销（Modelec Data-Industrie；Westermo 官方名录 reseller，全套技术支持）；工业/轨道同规格 1/3 价第二供应源",
  "type_final": "工业数据通信分销（Modelec Data-Industrie；Westermo 官方名录 reseller，全套技术支持）",
  "size": "未量化",
  "brands_seen": [
-  "Westermo"
+  "Westermo",
+  "Moxa"
  ],
  "saga_line": "SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE",
  "fit": "工业交换机品类现成",
@@ -26,12 +27,32 @@
    "quote": "",
    "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
    "date": "2026-10-03"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；MODELEC weet te verbinden met betrouwbare en veilige netwerkoplossingen",
+   "quote": "Industriële netwerken en OT-cybersecurity zijn onze specialismen. Vanaf de start helpen wij je met jouw OT-netwerkoplossing. Onze expertise zorgt voor de optimale samenwerking van systemen, processen en mensen.",
+   "url": "https://www.modelec.nl/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "contact@modelec.nl",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "administratie@modelec.nl",
+   "contact@modelec.nl",
+   "order@modelec.nl",
+   "sales@modelec.nl",
+   "support@modelec.nl"
+  ],
+  "page_phones": [
+   "+31 (0)318",
+   "+31 (0)318 - 636 262",
+   "+31 (0)318 63 62 62"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-03 群发「24 Port PoE Managed Switch」→ 已发未回",
  "saga_overlap": "无",
@@ -45,10 +66,21 @@
   "window": "NL 周四 12–14",
   "when": "2026-11-19"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "draft_en": {
   "subject": "A second-source DIN-rail PoE switch for your industrial customers",
   "body": "Hi,\n\nI wrote on 3 October about our 24-port PoE L2+ switch ('24 Port PoE Managed Switch'); this is a different angle, so a fresh note rather than a reply.\n\nSTI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.\n\nWould a lower-priced DIN-rail PoE switch be worth a test unit as a second source next to your Westermo range?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "deep": false
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:43:22Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-28DGGPM",
+  "why": "官网快照对位：交换机词频 24、无 PoE/工业侧重 → 8 口 L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

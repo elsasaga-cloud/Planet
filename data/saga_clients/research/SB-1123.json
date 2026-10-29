@@ -10,7 +10,9 @@
   "PLANET",
   "MikroTik",
   "Hikvision",
-  "Tenda"
+  "Tenda",
+  "Ruijie",
+  "H3C"
  ],
  "evidence": [
   {
@@ -70,10 +72,11 @@
  ],
  "grade_override": "B",
  "override_reason": "Planet 渠道档案 PB-042 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-042，W 批次调研 2026-10-19/20）"
+  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-042，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "company_facts": {
   "legal_name": "CONNECTEC LIMITED（Companies House 10933159；VAT GB277433186；D-U-N-S 223187960；SIC 47910）",
@@ -164,6 +167,14 @@
     "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
     "why": "Elsa 箱群发 BCC 触达证据（命中地址 connectec.uk, sales@connectec.uk）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
     "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Trade Security, Networking, AV, TV & Satellite Supplier - Connectec.uk — Get trade prices on 1000's of Security, Networking, AV, TV & Satellite products. Buy online with free next day delivery on orders over £150 or visit our trade counter.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://connectec.uk/"
    }
   ],
   "proof_gaps": [
@@ -181,5 +192,37 @@
   "note": "Wrexham 安防 / 网络 / 电气贸易分销商 Connectec（PLANET 授权分销，供全英安装商）：进口 ✔ 对位 ✔ 四主区 → 留 B",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 Elsa 群））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": []
+ "override_history": [],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:32:32Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@connectec.uk"
+  ],
+  "phones": [],
+  "social": [
+   "https://twitter.com/ConnectecUK",
+   "https://www.facebook.com/connectecltd/",
+   "https://www.linkedin.com/company/connectec-limited/",
+   "https://www.youtube.com/channel/UCVvKx0BJhcxrhTvqXb77GFg"
+  ],
+  "models_on_site": [
+   "LL137YP",
+   "GB277433186",
+   "RG-RAP62",
+   "AX3000",
+   "DS-2CD2343G2-IU",
+   "DS-2CD2E43G2-U",
+   "DS-2CD2143G2-IS",
+   "DS-2CD23166G3-IS2UY"
+  ],
+  "url": "https://connectec.uk/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

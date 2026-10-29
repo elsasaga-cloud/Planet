@@ -1,9 +1,9 @@
 {
  "code": "XC-M118",
  "name": "Eptimo",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 eptimo.pl 有 A 记录、无 MX（邮箱可能托管在别的域；DNS 2026-10-29）",
+ "alive": "在线（eptimo.pl，快照 2026-10-29）：",
  "summary": "Eptimo（波兰）：分销（MikroTik 官方）；MikroTik（Master Distributor）",
  "type_final": "分销（MikroTik 官方）",
  "size": "",
@@ -47,6 +47,13 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；",
+   "quote": "",
+   "url": "https://eptimo.pl/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
@@ -74,5 +81,11 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/evidence。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:57:18Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

@@ -1,9 +1,9 @@
 {
  "code": "XB-C0051",
  "name": "ThaiCCTVShop / ANA System（曼谷）",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 thaicctvshop.com MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（thaicctvshop.com，快照 2026-10-29）：รับติดตั้งกล้องวงจรปิด กรุงเทพ | ANA System ประสบการณ์ 20 ปี ทีมช่างบริษัท ไม่ใช้ Sub",
  "summary": "ThaiCCTVShop / ANA System（曼谷）（泰国）：Hikvision/Dahua PoE；地址=79/54 Thanon Chaeng Watthana, Bang Khen, BKK 10220；开发策略=泰国CCTV专业分销；置信度=★★★★★",
  "type_final": "Hikvision/Dahua PoE",
  "size": "",
@@ -27,12 +27,25 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；รับติดตั้งกล้องวงจรปิด กรุงเทพ | ANA System ประสบการณ์ 20 ปี ทีมช่างบริษัท ไม่ใช้ Sub",
+   "quote": "ANA System รับติดตั้งกล้องวงจรปิดครบวงจร กรุงเทพและปริมณฑล ประสบการณ์ 20 ปี ทีมช่างบริษัทเอง ระบบ Tracking งาน มีอุปกรณ์สำรอง ฟรี Survey ไม่มีข้อผูกมัด",
+   "url": "https://www.thaicctvshop.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@thaicctvshop.com",
   "email_status": "活（来源库 9 月核对）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "apichart_ko@hotmail.com",
+   "info@thaicctvshop.com"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -48,5 +61,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:52:16Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGPM-280W",
+  "why": "官网快照对位：PoE 词频 284、监控 370 → 24 口 PoE L2+ 走量款",
+  "date": "2026-10-29"
+ }
 }

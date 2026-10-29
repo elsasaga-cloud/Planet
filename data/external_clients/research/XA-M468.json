@@ -1,9 +1,9 @@
 {
  "code": "XA-M468",
  "name": "Lineas y Cables S.A.",
- "round": "W2-R05c",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（grupolineasycables.com，快照 2026-10-29）：Inicio",
  "summary": "布线/电气集成商（Líneas y Cables S.A.）；Marvell Prestera 接入层切入",
  "type_final": "布线/电气集成商（Líneas y Cables S.A.）",
  "size": "未量化",
@@ -19,12 +19,28 @@
    "quote": "",
    "url": "https://grupolineasycables.com/",
    "date": "2026-09-27"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Inicio",
+   "quote": "Empresa dedicada a Telecomunicaciones, Seguridad y Defensa.",
+   "url": "https://grupolineasycables.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "lyc@lineasycables.com",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "lyc@lineasycables.com"
+  ],
+  "page_phones": [
+   "+34 915 12 13 20",
+   "+34 915 121 320",
+   "+34 915121320"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -38,7 +54,13 @@
   "window": "",
   "when": "不动"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:50:32Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

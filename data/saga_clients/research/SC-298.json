@@ -13,7 +13,10 @@
   "Grandstream",
   "Tenda",
   "Cambium",
-  "Mimosa"
+  "Mimosa",
+  "Teltonika",
+  "Uniview",
+  "Milesight"
  ],
  "evidence": [
   {
@@ -60,7 +63,7 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 大分销 20%：MiRO Distribution（Centurion；Enterprise No. B2002068592；2002；VAT 9199666141；R25M+；Cambium / Ubiquiti / BDCOM / MikroTik / Edge-corE；南部非洲 10 国）坐实；已进口中国同类 ✔ 对位 ✔ 坐实 ✔ 同区先例 ✔ → P 池候选；闸 1：南非 MiRO（miro.co.za；表内「很多有名的牌子，有 Edimax 的；商业 PoE / FS / 工业 FS / 周边设备；分销商」= 多牌分销 + 进口台湾同类）：同区先例 Duxbury ★ + 对位 ✔，群发 8 次 0…",
- "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/saga_fit/deep/facts。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -90,8 +93,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "STC-228GP",
-   "why": "默认对位（大分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
+   "p1": "STI-288GPM",
+   "why": "官网快照对位：工业/自动化词频 34、PoE 110 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -113,6 +116,14 @@
     "quote": "ZA · 1 次检索：b2bhint（注册号 / VAT / 法定地址 / 规模档）+ opening-hours（品牌 / 覆盖国）+ africabz；2026-10-29",
     "why": "闸 2 坐实来源（URL 见 company_facts.url）",
     "url": "https://b2bhint.com/en/company/za/miro-distribution--B2002068592"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "MiRO | Leading IT/ICT Distributor specialising in IP Convergence solutions — We are a leading IT/ICT Distributor in South Africa and the SADC region, specialising in only the best-of-breed IP Convergence solutions.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://miro.co.za/"
    }
   ],
   "proof_gaps": [
@@ -147,14 +158,47 @@
   "表内兴趣：很多有名的牌子 有Edimax的\n商业PoE FS  工业FS 周边设备；很多有名的牌子 有Edimax的\n商业PoE FS  工业FS 周边设备  分销商"
  ],
  "saga_fit": {
-  "p1": "STC-228GP",
+  "p1": "STI-288GPM",
   "tier": 20,
-  "why": "默认对位（大分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
-  "basis": "默认 · 官网快照后按业务线校正"
+  "why": "官网快照对位：工业/自动化词频 34、PoE 110 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）",
+  "basis": "官网快照自动对位（LT-T03）· 人工点名时再校",
+  "p1_prev": "STC-228GP"
  },
  "deep": {
   "done_at": "2026-10-29",
-  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
-  "batch": "LT-T01"
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T01",
+  "snapshot_at": "2026-10-29"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:38:48Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "online@miro.co.za",
+   "sales@miro.co.za"
+  ],
+  "phones": [
+   "+27 12 657 0960",
+   "+27 87 353 8222"
+  ],
+  "social": [],
+  "models_on_site": [
+   "BDCOM-PS2226PB",
+   "SNOM-M5",
+   "NTX-WS-26400-IDC",
+   "GS-GWN7701",
+   "GS-GWN7806PH-PRO",
+   "ED-GS-1008PL-V2",
+   "CLT-SFP-RJ45-1G",
+   "CLT-SFP-RJ45-10G"
+  ],
+  "url": "https://miro.co.za/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

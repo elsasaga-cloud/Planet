@@ -1,13 +1,17 @@
 {
  "code": "XB-C0234",
  "name": "Sumitelco (哥伦比亚)",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 sumitelco.com MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（sumitelco.com，快照 2026-10-29）：Sumitelco | Seguridad Electrónica, Domótica y CCTV en Colombia",
  "summary": "Sumitelco (哥伦比亚)（哥伦比亚）：安防电子进口商/分销商",
  "type_final": "安防电子进口商/分销商",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Dahua",
+  "Hikvision",
+  "Uniview"
+ ],
  "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
  "fit": "",
  "evidence": [
@@ -24,12 +28,30 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Sumitelco | Seguridad Electrónica, Domótica y CCTV en Colombia",
+   "quote": "Importador distribuidor mayorista en Colombia de cámaras de seguridad, vigilancia, domótica e IT. DTX, HikVision, EZVIZ, IMOU, Tuya.",
+   "url": "https://sumitelco.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "contacto@sumitelco.com",
   "email_status": "活（来源库 9 月核对）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "contacto@sumitelco.com",
+   "ejemplo@correo.com",
+   "example@domain.com",
+   "tu@correo.com"
+  ],
+  "page_phones": [
+   "+57 313 890 4740",
+   "+57 3138904740"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -45,5 +67,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:52:17Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGPM-280W",
+  "why": "官网快照对位：PoE 词频 91、监控 105 → 24 口 PoE L2+ 走量款",
+  "date": "2026-10-29"
+ }
 }

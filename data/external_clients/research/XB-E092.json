@@ -1,13 +1,15 @@
 {
  "code": "XB-E092",
  "name": "ST Networks",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 stn.kz MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（stn.kz，快照 2026-10-29）：STN - ведущий дистрибьютор электроники РК",
  "summary": "ST Networks（哈萨克斯坦 · Almaty）：电信/网络/SCS 设备供应商",
  "type_final": "电信/网络/SCS 设备供应商",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "TP-Link"
+ ],
  "saga_line": "STC 汇聚 + STI 工业（25% 档）",
  "fit": "",
  "evidence": [
@@ -31,12 +33,35 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；STN - ведущий дистрибьютор электроники РК",
+   "quote": "STN – дистрибутор IT продуктов, телекоммуникационного оборудования и бытовой техники. Свыше 20 лет опыта в сфере дистрибуции. 65+ брендов в портфеле",
+   "url": "https://stn.kz/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@stn.kz",
   "email_status": "活（来源库 9 月核对）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "145@stn.kz",
+   "147@stn.kz",
+   "148@stn.kz",
+   "149@stn.kz",
+   "andrey.ganzuk@stn.kz",
+   "danagul.tolendinova@stn.kz"
+  ],
+  "page_phones": [
+   "+7 (727) 331-51-35",
+   "+7 (727) 333 0 999",
+   "+7 (727) 333-06-66",
+   "+7 (727) 333-09-99",
+   "+77085481860"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -52,5 +77,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:55:12Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-28DGGPM",
+  "why": "官网快照对位：交换机词频 2、无 PoE/工业侧重 → 8 口 L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

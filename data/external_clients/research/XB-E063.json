@@ -1,13 +1,19 @@
 {
  "code": "XB-E063",
  "name": "Green Cube Technologies Pvt. Ltd.",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 greencube.com.np MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（greencube.com.np，快照 2026-10-29）：Green Cube Technologies",
  "summary": "Green Cube Technologies Pvt. Ltd.（尼泊尔 · Kathmandu）：分销商",
  "type_final": "分销商",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Ruijie",
+  "Cambium",
+  "Cisco",
+  "Aruba",
+  "Fortinet"
+ ],
  "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
  "fit": "",
  "evidence": [
@@ -38,6 +44,13 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Green Cube Technologies",
+   "quote": "Green Cube Technologies",
+   "url": "https://greencube.com.np/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
@@ -49,7 +62,12 @@
     "role": "Founder / Director IP-Engineering",
     "source": "来源库 KP 段"
    }
-  ]
+  ],
+  "page_emails": [
+   "info@greencube.com.np"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-21 去信 1 / 来信 0（24 Port PoE Managed Switch）",
  "saga_overlap": "无",
@@ -65,5 +83,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:54:40Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-28DGGPM",
+  "why": "官网快照对位：交换机词频 17、无 PoE/工业侧重 → 8 口 L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

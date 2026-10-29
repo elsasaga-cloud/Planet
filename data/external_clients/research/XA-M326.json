@@ -1,9 +1,9 @@
 {
  "code": "XA-M326",
  "name": "Berdin Grupo",
- "round": "W2-R05c",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（berdin.com，快照 2026-10-29）：Líderes en Soluciones Eléctricas e Industriales | Berdin Grupo",
  "summary": "大型电气/安防/自动化分销集团（Berdin Grupo）；Marvell 接入层生态切入",
  "type_final": "大型电气/安防/自动化分销集团（Berdin Grupo）",
  "size": "未量化",
@@ -32,6 +32,13 @@
    "quote": "",
    "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
    "date": "2026-10-03"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Líderes en Soluciones Eléctricas e Industriales | Berdin Grupo",
+   "quote": "Desde 1980, BERDIN ha iluminado y conectado vidas con eficiencia. Especialistas en 6 áreas tecnológicas, ofrecemos soluciones innovadoras. Conócenos y evoluciona.",
+   "url": "https://www.berdin.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
@@ -51,7 +58,18 @@
   "window": "",
   "when": "不动"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/evidence/site_p1_hint。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:48:43Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-280GE",
+  "why": "官网快照对位：工业/自动化词频 99、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手",
+  "date": "2026-10-29"
+ }
 }

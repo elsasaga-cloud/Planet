@@ -1,0 +1,53 @@
+# SC-1134 xp-networks.com · home · https://xp-networks.com/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+XP Active Systems – Get Your Connection
+Menu
+About Us
+Contact Info
+Contact Us
+Where to Buy
++
+Products
+Converters
+Industrial Media Converters
+Industrial PoE Media Converters
+Media Converters
+PoE Media Converters
++
+Fiber Switches
+Indoor Switches
+Managed Indoor Switches
+Managed PoE Indoor Switches
+Unmanaged Indoor Switches
+Unmanaged PoE Indoor Switches
++
+Industrial Switches
+Managed Industrial PoE Switches
+Managed Industrial Switches
+Unmanaged Industrial PoE Switches
+Unmanaged Industrial Switches
++
+Modules
+HDMI Fiber Converter
+XPON Solutions
+High Temperature Fiber Optic Cable
++
+Port Capacity
+12 port 10/100/1000T (8 ports PoE) + 8 port 100/1000 SFP + 4 port 10G SFP+ L2+ Managed Industrial Switch
+Total PoE Budget
+240W, IEEE802.3af, IEEE802.3at
+Switching Capacity & Forwarding Rate:
+120 Gbps & 89.28 Mpps
+Management Specification
+STP, RSTP, MSTP, 802.1Q VLAN, G.8032 ERPS, IEEE802.3x, LACP, SNMP, DHCP Client, DHCP Snooping, ARP, RADIUS, TACACS+, ACL, SSL, SSH, LLDP, SNTP, TFTP, Auto MDI/MDIX
+Operating and Storage Temperature
+-40 – 75 ℃ / -50 – 85 ℃
+Operating Humidity
+5% – 95%
+Standarts
+CE, FCC, RoHS, ISO 9001, EN55022, EN61000-6-4, EN61000-3-2, EN61000-3-3, EN61000-6-2, EN61000-4-2, EN61000-4-3, EN61000-4-4, EN61000-4-5, EN61000-4-6, EN61000-4-8, IEC60068-2-6, IEC60068-2-27 Ea
+Installation
+IP30 rating , DIN-rail
+Contact Us
+11F, 51 HENGYANG ROAD, 100 TAIPEI, TAIWAN, R.O.C.
++886 2-29124340
+info@xp-networks.com

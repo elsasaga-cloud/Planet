@@ -1,0 +1,99 @@
+# SC-2262 1st-embedded.com · home · https://1st-embedded.com/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+Fanless Embedded PC,5G Router,Switche,Panel PC |1ST-embedded
+Navigationsmenü umschalten
+Home
+Products
+Blog
+Contact us
+My Cart
+Sign in
+Embedded and Industrial
+Computer Boards
+Together we will find a solution
+for your special requirements
+Contact 1ST-embedded
+1U and 2U
+Network Security Appliances
+for your Networks: with Hardware
+modular concept, redundant Power Supply
+Contact 1ST-embedded
+5G
+Industrial Cellular Router
+for stable and secure
+IoT and M2M communication
+Contact 1ST-embedded
+Rugged fanless
+Industrial Edge Computers
+8-bit DIO, DIN rail / wall mounting,
+rugged, Real-time OS
+Contact 1ST-embedded
+Mini-PC lüfterlos
+ultrakompakt und leistungsstark
+with AMD Ryzen™ quad-core CPU
+and RADEON™ Vega 8 GPU
+Contact 1ST-embedded
+1ST-embedded Products
+reliable, low-maintenance and cost-efficient Hardware
+Edge AI Workstations for AIoT Applikationen, Industry Edge Computing
+Edge AI offers many advantages: first and foremost, speed and data protection. The data is processed locally, which increases processing speed and data security.
+The Edge Computer performs real-time data processing in harsh environments.
+Applications: Machine Learning and Vision, AR, Videoanalyse, Transportation, Automation, Face, voice and image recognition.
+Industrial Computer with active cooling for DIN rail / wall mounting
+The Edge Computers with Rich IO interfaces, wide operating temperature and expansion slots for extra PCI/PCIe cards.
+Fanless Embedded Computer:
+Box, DIN Rail or Rack mounting
+We equip our Edge Computers , miniPCs , 1U Computers , Ultra Thin Computers and Embedded Box PCs according to your needs with RAM, SSDs and additional cards.
+The fanless Systems are characterized by high reliability and maintenance-free operation .
+We assemble all industrial PCs in our in-house production facility and subject them to comprehensive quality assurance measures. The customer-specific system integration and our build-to-order service enable the delivery of systems tailored to your needs.
+Industrial Cellular Router
+Particularly robust and reliable 4G/5G routers for tough operating conditions in industrial environments offer you easy implementation, seamless, secure and fast wireless connections to M2M / IoT applications.
+Secure VPN connections via LTE / 5G enable you to connect machines and systems even from locations without wired communication.
+Network Security Appliances
+Our network security appliances are suitable for use in industrial environments and, in addition to their robust design, have a wide operating temperature range . The modular structure of the rack systems equipped with server processors enables the use of up to 32 Gigabit Ethernet interfaces with RJ45 or SFP connections.
+Fanless network security appliances are largely maintenance-free. All appliances work with Linux, FreeBSD or Windows-based software and are suitable as UTM firewalls , VPN routers , Intrusion detection / intrusion prevention systems both in industrial environments and in corporate IT.
+Embedded Motherboards
+Industrial Thin Mini ITX and Mini ITX single board computers offer you maximum I / Os and industrial features at an interesting price-performance ratio. With SBC also in other form factors such as 3.5 ", 2.5", your projects can be realized quickly, since all standard interfaces are already available on the boards or can be retrofitted via expansion cards. The suitability for 24/7 operation and an extended temperature range are, in addition to the industry-specific hardware and BIOS features, an important argument for the integration into your application. The selection of processors ranges from energy-saving ARM processors to Intel® Atom® , AMD Ryzen™ and Intel® Core™ .
+Industrial Ethernet-Switches
+managed or unmanaged, Rack mount or DIN-Rail mount
+In factory automation, intelligent transport systems, video surveillance systems, IT & IA networks, etc., intelligent switches with high-grade industrial hardware specifications and numerous IT and telecommunications-related software functions as well a advanced network security management are essential for use in critical environments.
+With our partner ISON Technology we offer a comprehensive range of world-class industrial Ethernet switches: managed or unmanaged, rack or DIN rail mounting , AC or DC power supply, redundant or non-redundant, with or without PoE .
+Fiber optic Tansceiver and cables: SFP / SFP+ / QSFP
+Fiber optic transceiver modules 1G, 10G, 25G, 40G, 48G, 100G, 200G and faster for reliable data communication in data centers, for cloud service providers, telecommunications, data communication, storage servers, video surveillance, industrial controls, 5G / 4G / LTE backhaul and broadcasting applications. We work together with leading Asian manufacturers such as Formerica Optoelectronics Inc.
+Rugged Industry Tablet PCs
+These industrial and Outdoor-Tablets enable wireless connectivity via cellular networks, dual band WIFI, Bluetooth and GPS.
+The extended temperature range, MIL-STD-810G and IP68 certifications ensure safe operation in mobile industrial and outdoor use: Industry, Logistic, Forestry, Automotive, Police, Fish husbandry, Agriculture, Service/Field work, Rescue service, Catering trade, Healthcare, Community facilities: Fire service.
+Industrial Panel PCs
+We offer fanless industrial panel PCs with a resistiv touchscreen or capacitive PCAP multitouch for various purposes. The panel PCs have expansion slots for upgrading functions with PCI or PCIe cards . With their cast aluminum housing, they are extremely robust and are suitable both as built-in devices and as stand-alone devices with VESA mounting . The IP-65 protection class is offered as standard on the front. For applications that require all-round protection, we offer waterproof panel PCs in a stainless steel housing .
+Industrial Touch Screen Displays: Capacitive/Resistive, IP65 protection
+Accessories: PoE Splitter, Antennas. Memory, Expansion Cards
+To perfect our offer, we offer accessories for use with our systems. A wide range of offers is available. Not every accessory available from us is listed on our website. Talk to us - we are optimistic that we can meet your needs.
+1ST-embedded Products and Services
+Home
+Industrial Computer with active Cooling
+Fanless Embedded Computer
+Industrial Cellular Router
+Network Security Appliances
+Embedded Motherboards
+Industrial Ethernet Switches
+Fiberoptic Transceiver and Cables
+Rugged Industrial Tablet PCs
+Panel PC
+Industrial Monitors
+Accessories
+Contact and Informations
+Contact
+Shipping and payment Terms
+General Terms and conditions
+Privacy Statement
+Imprint
+News
++49407003550
+info@1ST-embedded.com
+1ST-embedded GmbH
+- About 1ST-embedded GmbH
+Our innovative and dedicated team specializes in computer components and systems for use in the industry.
+We are happy to advise you without obligation on the selection of a suitable system platform for your application and support you in your projects with our expertise and services.
+You as a customer are at the center of our activity with your special requirements and you determine the depth of our cooperation: from the delivery of individual boards or components through pre-qualified systems to customer-specific system solutions.
+English
+Deutsch
+Copyright © 1ST-embedded GmbH

@@ -1,13 +1,26 @@
 {
  "code": "XB-C1228",
  "name": "WiFiDubai.ae",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 wifidubai.ae MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（wifidubai.ae，快照 2026-10-29）：Wi-Fi Dubai | Set Up Wi-Fi at Your home and Office | Fix Wi-Fi Signal Issue | Wi-Fi Network Setup and Support in Dubai",
  "summary": "WiFiDubai.ae（阿联酋）：多品牌网络设备授权分销商；公司全称=WiFiDubai.ae；公司类型=多品牌网络设备授权分销商；总部=G-2, Ali Obaid Building, Khalid Bin Waleed Street, Bur Dubai；客户优先级=🟢 A类",
  "type_final": "多品牌网络设备授权分销商",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "TP-Link",
+  "D-Link",
+  "Zyxel",
+  "MikroTik",
+  "Cisco",
+  "Ubiquiti",
+  "Ruijie",
+  "Aruba",
+  "Tenda",
+  "Grandstream",
+  "Cambium",
+  "Huawei"
+ ],
  "saga_line": "STC 贴牌 / 自有品牌线（30% 档）",
  "fit": "",
  "evidence": [
@@ -24,12 +37,29 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Wi-Fi Dubai | Set Up Wi-Fi at Your home and Office | Fix Wi-Fi Signal Issue | Wi-Fi Network Setup and Support in Dubai",
+   "quote": "Wi-Fi Dubai, Wi-Fi Network Setup and Support in Dubai. We setup your home or office Wi-Fi network, so all of your devices can connect to the internet wireless without wire, Wi-Fi Dubai, Set Up Wi-Fi at Your home and Office, Fix Wi-Fi Signal Issue, Wi-Fi Network Setup and Support in Dubai, Wifi suppl",
+   "url": "https://wifidubai.ae/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "sales@wifidubai.ae",
   "email_status": "活（来源库 9 月核对）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "sales@wifidubai.ae"
+  ],
+  "page_phones": [
+   "+971 4 2380921",
+   "+971 4 354 4115",
+   "+971 56 411 0486",
+   "+97142380921"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -45,5 +75,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:53:21Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-288GPM",
+  "why": "官网快照对位：工业/自动化词频 37、PoE 70 → DIN 8 PoE+ 2 SFP 起手",
+  "date": "2026-10-29"
+ }
 }

@@ -1,0 +1,101 @@
+# PA-013 Leteng AS · feed_auto · https://www.leteng.no/WebPages/produkt/rss.aspx · fetched 2026-10-29T15:11:51Z · HTTP 200
+29.10.2026 15:00:34	EFB 19" Universal DIN Rail Holder 4U	https://www.leteng.no/efb-elektronik/53719-dot-1v3/efb-19-universal-din-rail-holder-4u-rack-brakett
+29.10.2026 13:54:31	Aten KVM Switch 4-Port Triple Head	https://www.leteng.no/aten/cs1964-at-g/aten-kvm-switch-4-port-triple-head-4k-displayport-usb-3-dot-0
+28.10.2026 11:30:37	IHSE Draco vario secure IP gateway	https://www.leteng.no/ihse/r488-bipc/ihse-draco-vario-secure-ip-gateway-con-module-cat-dot-x
+27.10.2026 09:44:07	HighSecLabs Secure KVM 2p DP/HDMI 4K	https://www.leteng.no/highseclabs/sk21ph-n/highseclabs-secure-kvm-2p-dp-hdmi-4k-baa--and--taa
+27.10.2026 09:39:16	HighSecLabs Secure KVM 2p DP 4K	https://www.leteng.no/highseclabs/sk21p-n/highseclabs-secure-kvm-2p-dp-4k-baa--and--taa
+23.10.2026 10:53:30	Fiberpatch 50/125 LC-SC - 15 m LSZH	https://www.leteng.no/leteng-as/o0314ft-dot-15/fiberpatch-50-125-lc-sc-15-m-lszh-multimode-duplex-om3-flat-aqua
+16.10.2026 15:23:56	Lindy Extender HDMI - IR Rx	https://www.leteng.no/lindy/38399/lindy-extender-hdmi-ir-rx-1920x108060hz-loop-out
+15.10.2026 15:59:57	Lindy Extender HDMI USB-C 4K	https://www.leteng.no/lindy/38387_b/lindy-extender-hdmi-usb-c-4k-hdbaset-cat-dot-6-kvm--asteriks-b-vare-asteriks-
+15.10.2026 14:02:34	DFY Artplug Slim 65w, Sort	https://www.leteng.no/leteng-as/eap-blk-sac/dfy-artplug-slim-65w-sort-1xusb-a-1x-usb-c-1-8-m-ledning
+14.10.2026 11:11:39	DL Adapter USB A Hun > USB A Hun	https://www.leteng.no/leteng-as/65012/dl-adapter-usb-a-hun--gt--usb-a-hun-chipset-ftdi-ft232r-gender-changer
+13.10.2026 15:44:13	HighSecLabs Secure Mini-Matrix KVM 2p	https://www.leteng.no/highseclabs/sx22h-n/highseclabs-secure-mini-matrix-kvm-2p-2p-hdmi--gt-2p-hdmi-uhd-4k
+13.10.2026 15:36:30	HSL Secure Audio Isolator	https://www.leteng.no/highseclabs/fa10a-4/hsl-secure-audio-isolator-audio-diode
+12.10.2026 12:28:12	Smartkeeper Pro Fiber Optic Module Lås	https://www.leteng.no/smartkeeper/csk-fo11/smartkeeper-pro-fiber-optic-module-l%c3%a5s-sfp-uten-n%c3%b8kkel
+12.10.2026 11:01:27	EFB USB-C Lader 35W 0,7 m	https://www.leteng.no/efb-elektronik/g352ce/efb-usb-c-lader-35w-0-7-m-uttrekkbar
+12.10.2026 10:56:24	EFB USB-C Lader 100W 0,7 m	https://www.leteng.no/efb-elektronik/g1001a3ce/efb-usb-c-lader-100w-0-7-m-2xusb-c-usb-a-uttrekkbar
+12.10.2026 10:43:27	EFB USB-C Lader 65W 0,7 m	https://www.leteng.no/efb-elektronik/g652ce/efb-usb-c-lader-65w-0-7-m-uttrekkbar
+12.10.2026 10:01:50	EFB Rack Skap Vegg 19" 4U	https://www.leteng.no/efb-elektronik/691704vgr-dot-40/efb-rack-skap-vegg-19-4u-rack-4u-400mm-gr%c3%a5-maks-50kg
+06.10.2026 12:41:30	DFY Artplug 60 GST18, Sort	https://www.leteng.no/leteng-as/eap-blk-60gst/dfy-artplug-60-gst18-sort-2x-usb-c-usb-a-pd
+06.10.2026 12:05:49	APTO Penneskuff i filt Mørkgrå	https://www.leteng.no/apto/4000-0002-0026/apto-penneskuff-i-filt-m%c3%b8rkgr%c3%a5-h-44mm-b-562-733mm-d-260mm
+06.10.2026 10:16:22	Clevertouch CL Touch Totem 65"	https://www.leteng.no/clevertouch/12965cltouchtotem/clevertouch-cl-touch-totem-65-touch-24-7-audio-2x5-watt
+06.10.2026 10:14:35	Clevertouch CL Touch Totem 55"	https://www.leteng.no/clevertouch/12955cltouchtotem/clevertouch-cl-touch-totem-55-touch-24-7-audio-2x5-watt
+05.10.2026 18:52:31	HighSecLabs Office Mini-Matrix KVM 4p	https://www.leteng.no/highseclabs/sx42phu-n/highseclabs-office-mini-matrix-kvm-4p-4p--gt--2p-hdmi-video-susb-3-dot-0-uhd-4k60
+05.10.2026 15:54:09	AH Cables 4 star ECON Cat.6A 50 m	https://www.leteng.no/adam-hall/k4cat65000/ah-cables-4-star-econ-cat-dot-6a-50-m-cat-dot-6a-cable-rj45-to-rj45
+05.10.2026 14:53:16	Clevertouch CL PRO 2 98"	https://www.leteng.no/clevertouch/12998clpro2/clevertouch-cl-pro-2-98-4k-24-7
+05.10.2026 14:48:41	Clevertouch CL PRO 2 86"	https://www.leteng.no/clevertouch/12986clpro2/clevertouch-cl-pro-2-86-4k-24-7
+05.10.2026 14:41:57	Clevertouch CL PRO 2 75"	https://www.leteng.no/clevertouch/12975clpro2/clevertouch-cl-pro-2-75-4k-24-7
+05.10.2026 14:21:15	Apto CPU-holder Newline	https://www.leteng.no/apto-plus/1360-0000-9005/apto-cpu-holder-newline-sort
+05.10.2026 14:16:37	Apto CPU-holder Classic Stor	https://www.leteng.no/apto-plus/1160-0000-9005/apto-cpu-holder-classic-stor-sort
+05.10.2026 14:01:02	Clevertouch CL PRO 2 65"	https://www.leteng.no/clevertouch/12965clpro2/clevertouch-cl-pro-2-65-4k-24-7
+05.10.2026 13:40:22	Clevertouch CL PRO 2 55"	https://www.leteng.no/clevertouch/12955clpro2/clevertouch-cl-pro-2-55-4k-24-7
+01.10.2026 12:51:08	AVer 4K BYOM Matrix Switcher	https://www.leteng.no/aver/hub30/aver-4k-byom-matrix-switcher-4x2-usb-hdmi-ia-usb-c-pd
+01.10.2026 11:33:56	AVer 4K BYOM Matrix Switcher Kit	https://www.leteng.no/aver/hub35-ext35-kit/aver-4k-byom-matrix-switcher-kit-5x2-usb-og-hdmi-usb-c-pd
+30.09.2026 15:58:30	SCP Patch Panel 24 port Unloaded 1RU	https://www.leteng.no/scp/s45-2024up/scp-patch-panel-24-port-unloaded-1ru-med-kabelsstyring
+30.09.2026 15:28:29	LD Høyttaler PA 12" Aktiv DAVE 12 G4X	https://www.leteng.no/ld-systems/lddave12g4x/ld-h%c3%b8yttaler-pa-12-aktiv-dave-12-g4x-500w-12-2x6-dot-5-sort
+30.09.2026 14:08:55	ACT Kabelhylle justerbar med klemmefeste	https://www.leteng.no/act/ac8379/act-kabelhylle-justerbar-med-klemmefeste-bredde-43-72-cm
+30.09.2026 14:03:07	ACT Kabelhylle med klemmefeste	https://www.leteng.no/act/ac8378/act-kabelhylle-med-klemmefeste-bredde-40-cm
+30.09.2026 11:12:41	MS USB-C Extender Kit 100m	https://www.leteng.no/mediasolutions/ms-dpa-cp/ms-usb-c-extender-kit-100m-4k60-alt-mode--plus--60w-charging
+29.09.2026 10:09:57	Kramer EXT3-H-KIT	https://www.leteng.no/kramer-avsm/ext3-h-kit/kramer-ext3-h-kit-hdbaset-3-dot-0-extender-4k60-tx-og-rx
+28.09.2026 15:10:14	Clevertouch CL PRO 2 43"	https://www.leteng.no/clevertouch/12943clpro2/clevertouch-cl-pro-2-43-4k-24-7
+28.09.2026 10:14:54	Icron USB 3 Arbutus 63301 Kit	https://www.leteng.no/icron/2m2-0002-eu/icron-usb-3-arbutus-63301-kit-usb-c-dp-alt-mode--and--usb-3-100m-cat-dot-6a
+25.09.2026 14:36:33	ACT Strømkabel C20 - C21 3,0 m	https://www.leteng.no/act/ak5364/act-str%c3%b8mkabel-c20-c21-3-0-m-c20-hann-c21-hunn-r%c3%b8d
+25.09.2026 14:34:21	ACT Strømkabel C20 - C21 3,0 m	https://www.leteng.no/act/ak5369/act-str%c3%b8mkabel-c20-c21-3-0-m-c20-hann-c21-hunn-bl%c3%a5
+25.09.2026 11:38:28	Palmer Passive Microphone Merge Box	https://www.leteng.no/palmer-audio-tools/ptauber/palmer-passive-microphone-merge-box-balanced-unbalanced
+25.09.2026 10:31:48	UTP Patch Cat.6A - 3 m Sort	https://www.leteng.no/act/da3903/utp-patch-cat-dot-6a-3-m-sort-nettverkskabel-slimline-1xrj45-90-ned
+25.09.2026 10:29:56	UTP Patch Cat.6A - 2 m Sort	https://www.leteng.no/act/da4902/utp-patch-cat-dot-6a-2-m-sort-nettverkskabel-slimline-1xrj45-90-opp
+25.09.2026 10:27:04	UTP Patch Cat.6A - 2 m Sort	https://www.leteng.no/act/da3902/utp-patch-cat-dot-6a-2-m-sort-nettverkskabel-slimline-1xrj45-90-ned
+24.09.2026 12:40:09	ZyPer XSE Rack Kit 6RU	https://www.leteng.no/kramer/z4krackxse/zyper-xse-rack-kit-6ru-plass-til-8-xse-enheter
+23.09.2026 10:38:40	Planet Industri EtherCAT Mediakonverter	https://www.leteng.no/planet-technology-corp-dot-/iecc-210r/planet-industri-ethercat-mediakonverter-fiber--gt--kobber-ip30-din-40-75c
+21.09.2026 12:36:28	Palmer Audio USB-C media DI box	https://www.leteng.no/palmer-audio-tools/pspree/palmer-audio-usb-c-media-di-box-usb-c--gt--balanced-xlr
+17.09.2026 11:09:52	Aten KVM Switch 4-Port DP USB3 8K	https://www.leteng.no/aten/cs1944dpa-at-g/aten-kvm-switch-4-port-dp-usb3-8k-displayport-usb3-audio-4xkabel
+17.09.2026 10:50:30	Aten KVM Switch 2-Port DP USB3 8K	https://www.leteng.no/aten/cs1942dpa-at-g/aten-kvm-switch-2-port-dp-usb3-8k-displayport-usb3-audio-4xkabel
+17.09.2026 10:39:28	Aten KVM Switch 4-Port DP USB3 8K	https://www.leteng.no/aten/cs1924atc-at-g/aten-kvm-switch-4-port-dp-usb3-8k-displayport-usb3-audio-4xkabel
+17.09.2026 09:22:09	UTP Patch Cat.6 - 1,5 m Gul	https://www.leteng.no/act/ib8851/utp-patch-cat-dot-6-1-5-m-gul-nettverkskabel-250mhz-24awg
+16.09.2026 13:52:58	Dante AVIO Install Output Adapter 2x2 Ch	https://www.leteng.no/audienate/avio-a-2in2out-eb/dante-avio-install-output-adapter-2x2-ch
+16.09.2026 12:16:28	SFTP Patch Cat.7- Rull 100m Gul LSZH	https://www.leteng.no/efb-elektronik/mk7104-dot-100y/sftp-patch-cat-dot-7-rull-100m-gul-lszh-600mhz-26-27awg-pimf-halogenfri-snagless
+15.09.2026 14:33:36	SFTP Patch Cat.7- Rull 100m Oransje LSZH	https://www.leteng.no/efb-elektronik/mk7104-dot-100o/sftp-patch-cat-dot-7-rull-100m-oransje-lszh-600mhz-26-27awg-pimf-halogenfri-snagless
+15.09.2026 14:31:18	SFTP Patch Cat.7 - Rull 100 m Grå LSZH	https://www.leteng.no/efb-elektronik/mk7104-dot-100g/sftp-patch-cat-dot-7-rull-100-m-gr%c3%a5-lszh-600mhz-26-27awg-pimf-halogenfri-snagless
+15.09.2026 14:29:46	SFTP Patch Cat.7 - Rull 100 m Blå LSZH	https://www.leteng.no/efb-elektronik/mk7104-dot-100bl/sftp-patch-cat-dot-7-rull-100-m-bl%c3%a5-lszh-600mhz-26-27awg-pimf-halogenfri-snagless
+14.09.2026 10:58:34	DFY Bordgjennomføring, Hvit	https://www.leteng.no/leteng-as/kde-wht-cf22/dfy-bordgjennomf%c3%b8ring-hvit-%c3%b822mm
+14.09.2026 10:57:49	DFY Bordgjennomføring, Sort	https://www.leteng.no/leteng-as/kde-blk-cf22/dfy-bordgjennomf%c3%b8ring-sort-%c3%b822mm
+11.09.2026 09:50:06	Planet Redundant PSU for 15-Slot Chassis	https://www.leteng.no/planet-technology-corp-dot-/mc-15rps200/planet-redundant-psu-for-15-slot-chassis-rack2-dot-4u-redundant-power-240v-200w
+10.09.2026 15:22:14	ACT Strømkabel C20 - C21 2,0 m	https://www.leteng.no/act/ak5344/act-str%c3%b8mkabel-c20-c21-2-0-m-c20-hann-c21-hunn-sort
+10.09.2026 15:12:25	ACT Strømkabel C20 - C21 1,0 m	https://www.leteng.no/act/ak5343/act-str%c3%b8mkabel-c20-c21-1-0-m-c20-hann-c21-hunn-sort
+10.09.2026 15:08:52	Strømkabel C5 C14 - 1,0 m	https://www.leteng.no/act/ak5433/str%c3%b8mkabel-c5-c14-1-0-m-3x0-75mm-max-2-dot-5a-sort-mikke-mus
+10.09.2026 15:05:32	Strømkabel C5 C14 - 0,5 m	https://www.leteng.no/act/ak5218/str%c3%b8mkabel-c5-c14-0-5-m-3x0-75mm-max-2-dot-5a-sort-mikke-mus
+10.09.2026 15:00:36	Strømkabel C13 C14 - 3,0 m	https://www.leteng.no/act/ak5111/str%c3%b8mkabel-c13-c14-3-0-m-3x0-75mm-bl%c3%a5
+10.09.2026 14:58:03	Strømkabel C13 C14 - 1,8 m	https://www.leteng.no/act/ak5110/str%c3%b8mkabel-c13-c14-1-8-m-3x0-75mm-bl%c3%a5
+10.09.2026 14:55:51	Strømkabel C13 C14 - 1,2 m	https://www.leteng.no/act/ak5109/str%c3%b8mkabel-c13-c14-1-2-m-3x0-75mm-bl%c3%a5
+10.09.2026 14:53:50	Strømkabel C13 C14 - 0,6 m	https://www.leteng.no/act/ak5108/str%c3%b8mkabel-c13-c14-0-6-m-3x0-75mm-bl%c3%a5
+10.09.2026 14:44:03	Strømkabel C13 C14 - 1,8 m	https://www.leteng.no/act/ak5114/str%c3%b8mkabel-c13-c14-1-8-m-3x0-75mm-gr%c3%b8nn
+10.09.2026 14:39:56	Strømkabel C13 C14 - 1,2 m	https://www.leteng.no/act/ak5113/str%c3%b8mkabel-c13-c14-1-2-m-3x0-75mm-gr%c3%b8nn
+10.09.2026 14:36:01	Strømkabel C13 C14 - 0,6 m	https://www.leteng.no/act/ak5112/str%c3%b8mkabel-c13-c14-0-6-m-3x0-75mm-gr%c3%b8nn
+10.09.2026 11:29:20	Aten KVM Switch 2-Port DP USB3 8K	https://www.leteng.no/aten/cs1922a-at-g/aten-kvm-switch-2-port-dp-usb3-8k-mst-displayport-usb3-hd-audio
+09.09.2026 12:29:13	Kramer EXT3-H-POE-T	https://www.leteng.no/kramer/ext3-h-poe-t/kramer-ext3-h-poe-t-hdbaset-3-dot-0-extender-4k60-poe
+09.09.2026 12:23:28	Kramer EXT3-H-POE-R	https://www.leteng.no/kramer/ext3-h-poe-r/kramer-ext3-h-poe-r-hdbaset-3-dot-0-extender-4k60-poe
+08.09.2026 11:38:24	Apto Kabelhylle Sort, 147 cm	https://www.leteng.no/apto-plus/3070-0002-9005/apto-kabelhylle-sort-147-cm-sort-metall-1470x152x78mm-lxbxh
+08.09.2026 11:31:57	Apto Kabelhylle Åpen Sort, 74cm	https://www.leteng.no/apto-plus/3052-0000-9005/apto-kabelhylle-%c3%a5pen-sort-74cm-sort-metall-740x151x81mm-lxbxh
+08.09.2026 10:37:32	DFY Kabelpose Mini	https://www.leteng.no/aic-all-in-cable/kde-gry-cb/dfy-kabelpose-mini-m%c3%b8rk-gr%c3%a5-250x200x350-160
+08.09.2026 10:34:39	DFY KabelposeSmall	https://www.leteng.no/aic-all-in-cable/kde-gry-cb380/dfy-kabelposesmall-m%c3%b8rk-gr%c3%a5-380x200x350-160
+08.09.2026 10:31:08	DFY Kabelpose Large	https://www.leteng.no/aic-all-in-cable/kde-gry-cb645/dfy-kabelpose-large-m%c3%b8rk-gr%c3%a5-645x200x350-160
+04.09.2026 10:44:48	Planet Industri EtherCAT Junction Slave	https://www.leteng.no/planet-technology-corp-dot-/iecj-410ft/planet-industri-ethercat-junction-slave-3-port-rj45-ip30
+04.09.2026 09:12:43	Kramer KDS17 LITE - AVIP - Tranceiver	https://www.leteng.no/kramer/kds-17-lite/kramer-kds17-lite-avip-tranceiver-4k60-4-4-4-1-gbps-poe
+03.09.2026 14:17:06	UTP Patch Cat.6 - 25 m Grå LSZH	https://www.leteng.no/efb-elektronik/k8104gr-dot-25/utp-patch-cat-dot-6-25-m-gr%c3%a5-lszh-250mhz-24awg-halogenfri-snagless
+03.09.2026 12:40:28	AiC PlugIt - Adapterring	https://www.leteng.no/aic-all-in-cable/aic-plugit-126w/aic-plugit-adapterring-hvit
+03.09.2026 12:27:03	Purelink USB-C Dock *B-vare*	https://www.leteng.no/purelink/pt-hub-100_b/purelink-usb-c-dock--asteriks-b-vare-asteriks--18gbps-4k-60hz-4-4-4
+01.09.2026 13:07:34	HSL SecureKVM Extender Fiber	https://www.leteng.no/highseclabs/fife11ph-mt/hsl-securekvm-extender-fiber-dp-hdmi--and--usb-tastatur-mus
+01.09.2026 09:55:04	Fiberpatch 9/125 LC-LC - 1,5 m	https://www.leteng.no/act/rl9951/fiberpatch-9-125-lc-lc-1-5-m-os2
+27.08.2026 13:04:54	Planet Power Switch 8-p med cascad 2-p	https://www.leteng.no/planet-technology-corp-dot-/ipm-8221/planet-power-switch-8-p-med-cascad-2-p-snmp
+27.08.2026 12:32:17	ACT 2-port USB-C 100W	https://www.leteng.no/act/ac2175/act-2-port-usb-c-100w-power-delivery-pps-ganfast
+27.08.2026 12:21:41	Planet Konverter 2-p10G	https://www.leteng.no/planet-technology-corp-dot-/ixt-815at/planet-konverter-2-p10g-10g-2-dot-5g-1g-100base-x-sfp-plus--ip30
+27.08.2026 11:16:19	Aten CN9000 VGA over IP	https://www.leteng.no/aten/cn9000-at-g/aten-cn9000-vga-over-ip-1-bruker-over-ip-local-remote
+27.08.2026 10:58:42	EFB Strømskinne 10" 4xSCHUKO 2,0 m	https://www.leteng.no/efb-elektronik/ek631de-dot-10/efb-str%c3%b8mskinne-10-4xschuko-2-0-m-pdu-1u-kontakter-p%c3%a5-45-sort
+26.08.2026 13:03:53	DFY Link Audio/Video Modul 4K	https://www.leteng.no/leteng-as/kde-blk-linkav/dfy-link-audio-video-modul-4k-usb-c-usb3-dot-2-1-5gbps
+25.08.2026 13:33:24	ACT Laptop brett for monitorarmer	https://www.leteng.no/act/ac8346/act-laptop-brett-for-monitorarmer-laptop-11-6-17-3-vesa-75x75
+25.08.2026 11:17:26	AVer TR322 - Auto Track PTZ-kamera Sort	https://www.leteng.no/aver/tr322b/aver-tr322-auto-track-ptz-kamera-sort-dual-lens-22x-zoom
+25.08.2026 10:27:28	Chief Takring for CMS og CPAE	https://www.leteng.no/chief-manufacturing-inc-dot-/cpa640w/chief-takring-for-cms-og-cpae-hvit
+24.08.2026 14:28:26	Cypress Extender HDMI - HDCP med OAR Rx	https://www.leteng.no/cypress/ch-1529rx/cypress-extender-hdmi-hdcp-med-oar-rx-audio-insertion-4k-maks-70-m
+24.08.2026 13:45:53	Cypress Extender HDMI over HDBaseT Tx	https://www.leteng.no/cypress/ch-1536tx/cypress-extender-hdmi-over-hdbaset-tx-ir-rs-232-lan-max-70-m-poe
+21.08.2026 15:17:00	Kramer Høyttaler Vegg 30W PoE Dante	https://www.leteng.no/kramer/wm-6d/kramer-h%c3%b8yttaler-vegg-30w-poe-dante-6-dot-5-2-veis-poe-dante-sort-1-stk
+21.08.2026 14:47:53	AVer Medisinsk PTZ Kamera Hvit	https://www.leteng.no/aver/md331ui/aver-medisinsk-ptz-kamera-hvit-30x-zoom-4k-ir-illumination-10w-h%c3%b8yttale

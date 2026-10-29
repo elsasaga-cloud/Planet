@@ -1,4 +1,4 @@
-# SB-1046 ivolta.pl · youtube · https://www.youtube.com/user/VoltaCCTV · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-1046 ivolta.pl · youtube · https://www.youtube.com/user/VoltaCCTV · fetched 2026-10-29T15:11:51Z · HTTP 200
 2026-06-01T14:25:23+00:00	Radiacode field test - strage rogue radiation source found	https://www.youtube.com/shorts/Fc-8f1XeIbM
 2026-02-02T11:48:24+00:00	Thermal Camera vs Standard Visual Camera Bonkers test	https://www.youtube.com/watch?v=4svfU7-s91M
 2026-01-29T17:09:09+00:00	From an exposed camera to Home NAS and Google Drive leak #cctv #vulnerability #leak	https://www.youtube.com/shorts/oX_wtkJan3U

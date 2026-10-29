@@ -5,7 +5,9 @@
  "summary": "印尼公司，2011 年买过 12 台延长器，E 冷名单 1 次跟进 0 回复。",
  "type": "经销/集成商",
  "size": "待补证",
- "brands_seen": [],
+ "brands_seen": [
+  "H3C"
+ ],
  "evidence": [
   {
    "kind": "用户记录",
@@ -31,11 +33,12 @@
  ],
  "grade_override": "B",
  "override_reason": "2011 年一次小额成交后沉寂 14 年、公司名不完整（PT. Anugerah 为常见前缀，主体待核）→ B 待机。",
- "notes": "LT-T03 官网快照加厚（2026-10-21）：fail#1。\n回访一封；待补证：完整公司名与网站。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\n回访一封；待补证：完整公司名与网站。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射） + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "company_facts": {
   "legal_name": "PT Anugerah Artha Guna（pt-aag.co.id 官网；NIB / NPWP 1 查未得）",
@@ -178,6 +181,14 @@
     "why": "本户不是 BCC 群发对象，而是 Elsa 的 1:1 月度序列收件人（9 轮无 Bcc）；S 箱 6 封 + Elsa 9 封 = 15 封 0 回 → 「未触达」应改读为「读而不回/地址冷」",
     "k": "elsa_1to1",
     "msg_id": "19fea7899c2e971b"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "PT. Anugerah Artha Guna – Konsultan IT – Aplikasi – Jaringan",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://pt-aag.co.id/"
    }
   ],
   "proof_gaps": [
@@ -188,11 +199,30 @@
  },
  "snap_thicken": {
   "consumed": [
-   "2026-10-21T09:21:54Z"
+   "2026-10-21T09:21:54Z",
+   "2026-10-29T15:31:42Z"
   ],
   "fails": [
    "2026-10-21"
   ],
-  "batch": "LT-T03"
+  "batch": "LT-T03",
+  "last_ok": "2026-10-29"
+ },
+ "site_contacts": {
+  "emails": [
+   "marketing@pt-aag.co.id"
+  ],
+  "phones": [
+   "+62 851-8282-8360"
+  ],
+  "social": [
+   "https://wa.me/6285182828360"
+  ],
+  "models_on_site": [
+   "AHU-0150119"
+  ],
+  "url": "https://pt-aag.co.id/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

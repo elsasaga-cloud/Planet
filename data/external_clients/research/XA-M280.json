@@ -1,16 +1,17 @@
 {
  "code": "XA-M280",
  "name": "Enric Perpinyà Pitarch / Perpi.tech",
- "round": "W2-R05c",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（perpi.tech，快照 2026-10-29）：Perpi.tech",
  "summary": "小集成商（Perpi.tech）；MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战",
  "type_final": "小集成商（Perpi.tech）",
  "size": "未量化",
  "brands_seen": [
   "MikroTik 认证顾问 MTCNA",
   "MTCRE",
-  "MTCSE"
+  "MTCSE",
+  "MikroTik"
  ],
  "saga_line": "—",
  "fit": "",
@@ -28,12 +29,28 @@
    "quote": "",
    "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
    "date": "2026-10-10"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Perpi.tech",
+   "quote": "Stay connected. Stay protected. Keep it Simple. Nos encargamos de gestionar, diseÃ±ar y mantener tus informÃ¡tica y redes para que siempre funcione y estÃ© securizada.",
+   "url": "https://perpi.tech/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "enric@perpi.tech",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "enric@perpi.tech",
+   "info@perpi.tech"
+  ],
+  "page_phones": [
+   "+34) 657 33 43 18",
+   "+34)662607785"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-10 群发「24 Port PoE Managed Switch」→ 已发未回",
  "saga_overlap": "无",
@@ -47,7 +64,13 @@
   "window": "",
   "when": "不动"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:47:46Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

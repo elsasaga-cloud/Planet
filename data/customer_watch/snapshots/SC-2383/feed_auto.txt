@@ -1,0 +1,11 @@
+# SC-2383 3grouterstore.co.uk · feed_auto · https://routerstore.com/feed/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+Mon, 19 Oct 2026 10:44:27 +0000	IoT SIM cards for vending machines: multi-network 4G for cashless and telemetry	https://routerstore.com/iot-sim-cards-for-vending-machines/
+Tue, 06 Oct 2026 13:09:18 +0000	Lift SIM cards: multi-network 4G VoLTE SIMs for lift autodiallers	https://routerstore.com/lift-sim-cards/
+Tue, 04 Aug 2026 14:01:08 +0000	Teltonika RUTX50 end of life: what it means and how to plan your upgrade	https://routerstore.com/teltonika-rutx50-end-of-life/
+Mon, 13 Jul 2026 11:30:12 +0000	Teltonika Bluetooth routers: RUTX10, RUTX11, RUTX12 and RUTX14	https://routerstore.com/teltonika-bluetooth-routers-rutx10-rutx11-rutx12-rutx14/
+Fri, 10 Jul 2026 11:30:08 +0000	4G Routers with PoE Out: A Practical Use Case Guide	https://routerstore.com/4g-routers-with-poe-out-a-practical-use-case-guide/
+Fri, 10 Jul 2026 08:50:50 +0000	10 Use Cases for the InHand IR302 4G Router	https://routerstore.com/10-use-cases-for-the-inhand-ir302-4g-router/
+Tue, 23 Jun 2026 12:27:15 +0000	Milesight UR75 and Node-RED: Industrial Automation Without the PLC	https://routerstore.com/milesight-ur75-and-node-red-industrial-automation-without-the-plc/
+Thu, 04 Jun 2026 11:17:39 +0000	Teltonika RUT200 Use Cases	https://routerstore.com/teltonika-rut200-use-cases/
+Tue, 02 Jun 2026 07:06:45 +0000	Teltonika RUTX50 Use Cases	https://routerstore.com/teltonika-rutx50-use-cases/
+Fri, 15 May 2026 12:59:07 +0000	Secure remote access for industrial and OT networks: brilliant technology with one critical weakness	https://routerstore.com/secure-ot-remote-access-sim-antenna-connectivity/

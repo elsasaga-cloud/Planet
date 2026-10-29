@@ -1,14 +1,16 @@
 {
  "code": "XA-M447",
  "name": "Irene",
- "round": "W2-R05b",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（irenesrl.it，快照 2026-10-29）：Progettazione e Realizzazione di Sistemi Elettronici e Informatici | Industrial Embedded PC Home",
  "summary": "IT 集成商/VAR（Irene）；Marvell Prestera 接入层切入",
  "type_final": "IT 集成商/VAR（Irene）",
  "size": "未量化",
  "brands_seen": [
-  "Allied Telesis（Marvell Prestera 接入层）"
+  "Allied Telesis（Marvell Prestera 接入层）",
+  "Cisco",
+  "Allied Telesis"
  ],
  "saga_line": "—",
  "fit": "",
@@ -26,12 +28,24 @@
    "quote": "",
    "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
    "date": "2026-10-04"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Progettazione e Realizzazione di Sistemi Elettronici e Informatici | Industrial Embedded PC Home",
+   "quote": "Dal 1991 Irene offre Soluzioni IT, Workstation, Server e Monitor per il Settore Navale | PC Industrial Embedded | Videowall Multi Display | Controller Video | Rugged Workstation | Automazione di Sottostazioni Elettriche | Industrial Cybersecurity",
+   "url": "https://www.irenesrl.it/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@irenesrl.it",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "info@irenesrl.it"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-04 群发「24 Port PoE Managed Switch」→ 已发未回",
  "saga_overlap": "无",
@@ -45,7 +59,18 @@
   "window": "",
   "when": "不动"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:50:19Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-280GE",
+  "why": "官网快照对位：工业/自动化词频 69、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手",
+  "date": "2026-10-29"
+ }
 }

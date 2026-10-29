@@ -1,9 +1,9 @@
 {
  "code": "XA-C0022",
  "name": "ASSMANN Electronic GmbH (DIGITUS)",
- "round": "W1-R01",
- "researched_at": "2026-10-27",
- "alive": "活（网店 2026 在售多款 PoE 交换机）",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（assmann.com，快照 2026-10-29）：ASSMANN Electronic GmbH | Lüdenscheid, Germany",
  "summary": "Lüdenscheid 1969 年起的 IT 基础设施品牌商（ASSMANN 集团，201–500 人，11 国分公司），自有品牌 DIGITUS 覆盖机柜/布线/网络，网店在售 DIGITUS 牌 PoE 交换机全线（8 口 10\" 非管理 DN-95317、8 口 L2+ 管理 PoE DN-95331、工业 16+2 L2 PoE DN-651159 等）。这些有源产品是外采贴牌——典型 OEM 品牌商。",
  "type_final": "IT 基础设施品牌商（DIGITUS，OEM 外采）",
  "size": "201–500 人；11 国子公司",
@@ -40,11 +40,25 @@
    "quote": "",
    "url": "External Clients/CCTV-PoE/A/XA-C0022",
    "date": "2026-10-27"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；ASSMANN Electronic GmbH | Lüdenscheid, Germany",
+   "quote": "Your partner for data network & media technology, fiber optic & copper cables as well as IT accessories for the ergonomically equipped workplace of the DIGITUS® brand.",
+   "url": "https://www.assmann.com/en/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@assmann.com",
-  "email_status": "公开总口；有源产品的产品经理待找（LinkedIn）"
+  "email_status": "公开总口；有源产品的产品经理待找（LinkedIn）",
+  "page_emails": [
+   "info@assmann.com"
+  ],
+  "page_phones": [
+   "+49 2351 554 0"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "未发信",
  "saga_overlap": "无",
@@ -62,6 +76,17 @@
   "subject": "OEM supply for DIGITUS PoE switches - 8 to 48 ports, L2+ and 10G uplinks",
   "body": "Hello,\n\nWe supply PoE and L2+ switches to European infrastructure brands under the brand's own label: 8- to 48-port PoE+/PoE++, unmanaged and L2/L2+ managed (Marvell on the L2+ line), 1G/2.5G/10G uplinks, 10-inch and 19-inch, plus DIN-rail industrial models. CE/RoHS/REACH documentation, custom UI, firmware branding and carton artwork are standard; no MOQ on first orders.\n\nSince DIGITUS already carries a full PoE switch range, a model-by-model proposal against your current 8-, 16- and 24-port items would be the quickest way to compare.\n\nWho is the right person for active network components - product management or purchasing - so I can send the proposal directly?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "notes": "KP 待找：LinkedIn「ASSMANN Produktmanager aktive Netzwerkkomponenten」。",
- "deep": false
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\nKP 待找：LinkedIn「ASSMANN Produktmanager aktive Netzwerkkomponenten」。",
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:42:42Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-28DGGPM",
+  "why": "官网快照对位：PoE 词频 4 → 8 口 PoE+ 2 SFP L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

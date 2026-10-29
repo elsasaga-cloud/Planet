@@ -1,9 +1,9 @@
 {
  "code": "XC-C0490",
  "name": "Smartplus Co. LLC",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 smartplus.com.sa MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（smartplus.com.sa，快照 2026-10-29）：SmartPlus Ø°ÙØ§Ø¡ ÙØ£ÙØ«Ø±",
  "summary": "Smartplus Co. LLC（沙特）：Hikvision战略级全国分销；地址=Al Laban, Riyadh；业务=Hikvision战略级全国分销；开发策略=沙特Hikvision主力",
  "type_final": "Hikvision战略级全国分销",
  "size": "",
@@ -26,12 +26,29 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；SmartPlus Ø°ÙØ§Ø¡ ÙØ£ÙØ«Ø±",
+   "quote": "Smartplus is a leading Saudi distributor specializing in Consumer Electronics and Surveillance & Networking (Low Current). We deliver innovative products, tailored solutions, and comprehensive support, ensuring success for our partners and customers.",
+   "url": "https://www.smartplus.com.sa/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "hello@smartplus.com.sa",
   "email_status": "活（来源库 9 月核对）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "breseller@smartplus.com.sa",
+   "bvendor@smartplus.com.sa",
+   "hello@smartplus.com.sa",
+   "you@company.com"
+  ],
+  "page_phones": [
+   "+966 920 011 291"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -47,5 +64,11 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:55:48Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

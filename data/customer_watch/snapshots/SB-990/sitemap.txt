@@ -1,4 +1,4 @@
-# SB-990 Precision · sitemap · https://precisionsolutions.com.br/sitemap.xml · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-990 Precision · sitemap · https://precisionsolutions.com.br/sitemap.xml · fetched 2026-10-29T15:11:51Z · HTTP 200
 2026-10-29	https://precisionsolutions.com.br/
 2026-10-29	https://precisionsolutions.com.br/produtos/
 2026-10-29	https://precisionsolutions.com.br/servicos/

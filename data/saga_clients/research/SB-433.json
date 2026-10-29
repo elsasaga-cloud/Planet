@@ -2,12 +2,13 @@
  "code": "SB-433",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（rister.com：HTTP 错误，2026-10-21，第 1 次）",
+ "website_status": "在线（rister.com，快照 2026-10-29）：RISTER es una empresa líder en la distribución de sistemas de seguridad.",
  "summary": "西班牙 Rister（销售平台型网店，「基本都是 D-Link 的」；KP Manu Mari（Chief Commercial Officer）、Fran Hita（Technical Manager）；表内「质量一般」；官网 http_error）；表内 1 次跟进无回复。",
  "type": "网络产品网店（西班牙，D-Link 为主）",
  "size": "",
  "brands_seen": [
-  "D-Link"
+  "D-Link",
+  "Extreme"
  ],
  "evidence": [
   {
@@ -43,10 +44,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：website_status/brands_seen/site_contacts/deep/facts。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "company_facts": {
   "hq": "西班牙",
@@ -111,6 +113,14 @@
     "quote": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere",
     "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@rister.com, rister.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
     "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "RISTER es una empresa líder en la distribución de sistemas de seguridad. — RISTER es una empresa líder en la distribución de sistemas de seguridad.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://rister.com/"
    }
   ],
   "proof_gaps": [],
@@ -129,11 +139,40 @@
  "override_history": [],
  "snap_thicken": {
   "consumed": [
-   "2026-10-21T09:41:05Z"
+   "2026-10-21T09:41:05Z",
+   "2026-10-29T15:33:21Z"
   ],
   "fails": [
    "2026-10-21"
   ],
-  "batch": "LT-T03"
+  "batch": "LT-T03",
+  "last_ok": "2026-10-29"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@rister.com",
+   "pedidos@rister.com",
+   "proyectos@rister.com",
+   "rrhh@rister.com",
+   "sat@rister.com"
+  ],
+  "phones": [],
+  "social": [
+   "https://www.linkedin.com/company/rister",
+   "https://www.youtube.com/channel/UCPEgXpzcEk8kQn1vyUwlQww"
+  ],
+  "models_on_site": [
+   "RS485",
+   "NXM36",
+   "DC-1E",
+   "FM1010",
+   "DC12V",
+   "H5A-IRPTZ-DP40-WP",
+   "EABE1-2X40QF06-SPT0-AC",
+   "NXM36K1000"
+  ],
+  "url": "https://rister.com/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -1,16 +1,19 @@
 {
  "code": "XA-M016",
  "name": "Alexej Sokolow / DECOIT",
- "round": "W1-R03",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（decoit.de，快照 2026-10-29）：DECOIT – IT-Systemintegrator & Softwarehaus aus Bremen",
  "summary": "IT 安全/网络公司内的 MikroTik 认证顾问（Bremen）；MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战",
  "type_final": "IT 安全/网络公司内的 MikroTik 认证顾问（Bremen）",
  "size": "未量化",
  "brands_seen": [
   "MikroTik 认证顾问 MTCNA",
   "MTCRE",
-  "MTCSWE"
+  "MTCSWE",
+  "Ubiquiti",
+  "MikroTik",
+  "Aruba"
  ],
  "saga_line": "—",
  "fit": "",
@@ -21,12 +24,27 @@
    "quote": "",
    "url": "https://decoit.de/",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；DECOIT – IT-Systemintegrator & Softwarehaus aus Bremen",
+   "quote": "DECOIT® GmbH & Co. KG: inhabergeführter IT-Systemintegrator und Softwarehaus aus Bremen. Sichere, herstellerneutrale IT-Lösungen für Mittelstand, KRITIS und Forschung seit 2001.",
+   "url": "https://decoit.de/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "sokolow@decoit.de",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "info@decoit.de",
+   "max@beispiel.de"
+  ],
+  "page_phones": [
+   "+49 (0) 421"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -40,7 +58,18 @@
   "window": "",
   "when": "不动"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:43:14Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-28DGGPM",
+  "why": "官网快照对位：交换机词频 2、无 PoE/工业侧重 → 8 口 L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

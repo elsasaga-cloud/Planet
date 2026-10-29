@@ -1,19 +1,28 @@
 {
  "code": "XC-M101",
  "name": "Autic System AS",
- "round": "X1-02",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "alive": "在线（autic.no，快照 2026-10-29）：Automasjonsutstyr & programvare - Autic System AS",
  "summary": "Autic System AS：自动化 / 工业 IT 软硬件 + 工业通信方案供应商（NO / SE / DK 站点；HMS Red Lion / N-Tron 渠道）",
  "type_final": "分销（HMS/N-Tron·Red Lion 渠道）；Autic System AS",
  "size": "",
  "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
  "fit": "○ 自动化 / 工业 IT + 工业通信方案供应 20%：Autic System AS（Tønsberg；NO / S",
- "brands_seen": [],
+ "brands_seen": [
+  "Siemens"
+ ],
  "contacts": {
   "email": "post@autic.no",
   "email_status": "官网 / 名录公开（X1-02 补路径）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "post@autic.no"
+  ],
+  "page_phones": [
+   "+47 33 30 09 50"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "evidence": [
   {
@@ -43,6 +52,13 @@
    "quote": "",
    "url": "https://www.proff.no/s%C3%B8k-etter-firmanavn?q=Systue&nspage=10",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Automasjonsutstyr & programvare - Autic System AS",
+   "quote": "AUTIC SYSTEM er leverandør av produkter for automatisering og industriell IT. Les mer om våre produkter her.",
+   "url": "https://www.autic.no/",
+   "date": "2026-10-29"
   }
  ],
  "touch_status": "未触达（路径 2026-10-29 新补）",
@@ -54,6 +70,17 @@
   "angle": "已入 P 池 → 按巡检节奏首触"
  },
  "deep": false,
- "notes": "Autic System AS；Træleborgveien 2, 3112 Tønsberg；+47 33 30 09 50；X1-02R 补证：Org.nr 968 614 150（1995 登记；1994-01-03 成立）",
- "draft_en": null
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nAutic System AS；Træleborgveien 2, 3112 Tønsberg；+47 33 30 09 50；X1-02R 补证：Org.nr 968 614 150（1995 登记；1994-01-03 成立）",
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:57:11Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-288GPM",
+  "why": "官网快照对位：工业/自动化词频 123、PoE 224 → DIN 8 PoE+ 2 SFP 起手",
+  "date": "2026-10-29"
+ }
 }

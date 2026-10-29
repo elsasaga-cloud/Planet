@@ -1,9 +1,9 @@
 {
  "code": "XA-M279",
  "name": "Ditecom",
- "round": "W2-R05c",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（ditecom.com，快照 2026-10-29）：DITECOM - Equipos de test y medida, control remoto de temperatura — Tienda DITECOM",
  "summary": "小型电子仪器设计/分销网店（Ditecom Design SL，Madrid；在售 1 款工业交换机）；第二供应源；公开电话与邮箱",
  "type_final": "小型电子仪器设计/分销网店（Ditecom Design SL，Madrid；在售 1 款工业交换机）",
  "size": "未量化",
@@ -19,12 +19,27 @@
    "quote": "",
    "url": "https://ditecom.com/",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；DITECOM - Equipos de test y medida, control remoto de temperatura — Tienda DITECOM",
+   "quote": "Tienda de instrumentos de test y medida. Soluciones de medición en remoto - temperatura por IP, gestión del E/S remota. Networking.",
+   "url": "https://www.ditecom.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@ditecom.com",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "ditecom@ditecom.com",
+   "info@ditecom.com"
+  ],
+  "page_phones": [
+   "+34) 91 528 54 37"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -38,7 +53,18 @@
   "window": "",
   "when": "不动"
  },
- "notes": "本轮 web_search：ditecom.com 工业交换机类目仅 ISW-801。 轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\n本轮 web_search：ditecom.com 工业交换机类目仅 ISW-801。 轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:47:46Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-280GE",
+  "why": "官网快照对位：工业/自动化词频 10、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手",
+  "date": "2026-10-29"
+ }
 }

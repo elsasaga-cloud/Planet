@@ -1,9 +1,9 @@
 {
  "code": "XB-C1190",
  "name": "3M Star Computers LLC",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 3mstar.com MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（3mstar.com，快照 2026-10-29）：SIRA Certified CCTV Company in Dubai | 3M Star Computers LLC",
  "summary": "3M Star Computers LLC（阿联酋）：SIRA认证CCTV+IT服务；公司全称=3M Star Computers LLC；公司类型=SIRA认证CCTV+IT服务；总部=Office 605, Al Zahra Techno Centre, Khalid Bin Al Waleed Rd,；客户优先级=🟡 B类（SIRA认证+布线+光纤）",
  "type_final": "SIRA认证CCTV+IT服务",
  "size": "",
@@ -24,12 +24,29 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；SIRA Certified CCTV Company in Dubai | 3M Star Computers LLC",
+   "quote": "Get elite commercial security camera setup from a SIRA-approved CCTV company in Dubai. Contact 3M Star Computers LLC CCTV integration.",
+   "url": "https://www.3mstar.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "sales@3mstar.com",
   "email_status": "活（来源库 9 月核对）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "info@3mstar.com",
+   "sales@3mstar.com"
+  ],
+  "page_phones": [
+   "+971 5650 50801",
+   "+97143857783",
+   "+971565050801"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -45,5 +62,11 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:53:16Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

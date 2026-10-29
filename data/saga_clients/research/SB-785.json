@@ -2,12 +2,20 @@
  "code": "SB-785",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（smartsystems.jo：HTTP 错误，2026-10-21，第 1 次）",
+ "website_status": "在线（smartsystems.jo，快照 2026-10-29）：Smart Systems | Online Computer Store in Amman",
  "summary": "约旦 Smart Systems（smartsystems.jo；表内「大口 FS / BDCOM / switch」；KP Motaz Alsharif（Owner）；官网 http_error）；表内未跟进。",
  "type": "网络集成/分销商（约旦，BDCOM 在供）",
  "size": "",
  "brands_seen": [
-  "BDCOM"
+  "BDCOM",
+  "TP-Link",
+  "Hikvision",
+  "Dahua",
+  "D-Link",
+  "Zyxel",
+  "Huawei",
+  "TRENDnet",
+  "PLANET"
  ],
  "evidence": [
   {
@@ -37,10 +45,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：website_status/brands_seen/site_contacts/deep/facts。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "company_facts": {
   "hq": "Jawhara Halima Complex, 6 Wasfi Al Tal Street (Gardens), Amman, Jordan（+962 6 562 7771）（第 123 批 官方登记核实 2026-10-29）",
@@ -130,6 +139,14 @@
     "quote": "大口FS；大口FS BDCOM；switch",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Smart Systems | Online Computer Store in Amman — Smart Systems for computers located in Amman - Jordan, offering online shopping for all Computer Systems, Computer Accessories and Computing Equipment.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://smartsystems.jo/"
    }
   ],
   "proof_gaps": [],
@@ -141,11 +158,38 @@
  },
  "snap_thicken": {
   "consumed": [
-   "2026-10-21T09:47:24Z"
+   "2026-10-21T09:47:24Z",
+   "2026-10-29T15:34:14Z"
   ],
   "fails": [
    "2026-10-21"
   ],
-  "batch": "LT-T03"
+  "batch": "LT-T03",
+  "last_ok": "2026-10-29"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [
+   "+962 6 562 7771",
+   "+962 6 5627771 12",
+   "+962 6 5627771 3 12"
+  ],
+  "social": [
+   "https://www.facebook.com/SmartSystems.jo/",
+   "https://www.instagram.com/smartsystems1991/"
+  ],
+  "models_on_site": [
+   "IL-114",
+   "SMARTSYS91",
+   "MK120",
+   "LC-PS611",
+   "CF412A",
+   "KM3322W",
+   "KMH-200",
+   "MK270"
+  ],
+  "url": "https://smartsystems.jo/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

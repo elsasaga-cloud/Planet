@@ -1,9 +1,9 @@
 {
  "code": "XB-E047",
  "name": "MBUZZ",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 mbuzz.com.sa MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（mbuzz.com.sa，快照 2026-10-29）：Driving Global Innovation",
  "summary": "MBUZZ（沙特/阿联酋 · Riyadh/Dubai）：分销商",
  "type_final": "分销商",
  "size": "",
@@ -31,6 +31,13 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Driving Global Innovation",
+   "quote": "AI & ICT Solutions and Services Provider",
+   "url": "https://mbuzz.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
@@ -42,7 +49,12 @@
     "role": "CEO",
     "source": "来源库 KP 段"
    }
-  ]
+  ],
+  "page_emails": [
+   "info@mbuzz.com"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-20 去信 1 / 来信 0（24 Port PoE Managed Switch）",
  "saga_overlap": "无",
@@ -58,5 +70,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:53:58Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGM",
+  "why": "官网快照对位：电信/FTTH 词频 32 → 汇聚 24 GE + 4×10G",
+  "date": "2026-10-29"
+ }
 }

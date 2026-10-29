@@ -1,19 +1,28 @@
 {
  "code": "XC-M073",
  "name": "Rittbul",
- "round": "X1-02",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "alive": "在线（rittbul.bg，快照 2026-10-29）：Ритбул ЕООД | Oборудване и решения за индустрията",
  "summary": "Ритбул ЕООД（Rittbul EOOD）：德系电气 / 自动化产品进口分销（Druseidt 等；Westermo Reseller），索非亚 + 普罗夫迪夫展厅；所有人 Мария Божкова",
  "type_final": "分销（Westermo Reseller）；Ритбул ЕООД（Rittbul EOOD）",
  "size": "",
  "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
  "fit": "○ 德系电气 / 自动化产品进口分销 20%：Ритбул ЕООД（Sofia + Plovdiv 展厅；Drusei",
- "brands_seen": [],
+ "brands_seen": [
+  "Westermo"
+ ],
  "contacts": {
   "email": "office@rittbul.bg",
   "email_status": "官网 / 名录公开（X1-02 补路径）",
-  "kp": []
+  "kp": [],
+  "page_emails": [],
+  "page_phones": [
+   "+359882525765",
+   "+359882525765 08",
+   "+359888201509"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "evidence": [
   {
@@ -43,6 +52,13 @@
    "quote": "",
    "url": "https://old.rittbul.bg/privacy-policy/",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Ритбул ЕООД | Oборудване и решения за индустрията",
+   "quote": "Ритбул ЕООД е оторизиран вносител и търговец на електроапаратура, компоненти за автоматизация и индустриална комуникация, професионални ръчни инструменти и машини от водещи брандове като ABB, ETI, WAGO, FESTO, EPLAN, HARTING и WESTERMO.",
+   "url": "https://rittbul.bg/",
+   "date": "2026-10-29"
   }
  ],
  "touch_status": "未触达（路径 2026-10-29 新补）",
@@ -54,6 +70,12 @@
   "angle": "已入 P 池 → 按巡检节奏首触"
  },
  "deep": false,
- "notes": "Ритбул ЕООД（Rittbul EOOD）；София 1407, ул. Ст. Л. Костов 16, ет.2（+ Пловдив 办公室）；+359 2 439 78 45；X1-02R 补证：ЕИК 130521622（2001-04-18）；ДДС BG130521622",
- "draft_en": null
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence。\nРитбул ЕООД（Rittbul EOOD）；София 1407, ул. Ст. Л. Костов 16, ет.2（+ Пловдив 办公室）；+359 2 439 78 45；X1-02R 补证：ЕИК 130521622（2001-04-18）；ДДС BG130521622",
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:56:58Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

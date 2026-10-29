@@ -1,4 +1,5 @@
-# SB-877 ltv-cctv.ru · youtube · https://www.youtube.com/user/TheLuisplus · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-877 ltv-cctv.ru · youtube · https://www.youtube.com/user/TheLuisplus · fetched 2026-10-29T15:11:51Z · HTTP 200
+2026-10-29T13:25:31+00:00	Недостаток освещения при детекции автомобильного номера	https://www.youtube.com/shorts/w83U0JUZzhM
 2026-10-28T14:00:55+00:00	Взлом нейросетьевой аналитики shorts	https://www.youtube.com/shorts/Bd-67XVoReY
 2026-10-27T06:00:38+00:00	Видеоаналитика ТЕОРИЯ VS ПРАКТИКА	https://www.youtube.com/shorts/y5P0b4_LgZo
 2026-10-26T06:00:31+00:00	ИИ в видеонаблюдении: что реально работает, а что остаётся красивым демо	https://www.youtube.com/watch?v=srpRnpC5TSQ
@@ -13,4 +14,3 @@
 2026-08-21T08:00:08+00:00	Забывать про UPLINK и скорость	https://www.youtube.com/shorts/ZYSWmVG13EI
 2026-08-16T14:00:37+00:00	Смотреть на наличие POE без подсчета мощности	https://www.youtube.com/shorts/8xYtwgY17DI
 2026-08-15T14:04:04+00:00	Брать сетевые порты коммутатора впритык под текущие задачи — грубая ошибка проектирования	https://www.youtube.com/shorts/k6caUkKjMQY
-2026-08-11T05:00:26+00:00	КАК ВЫБРАТЬ СЕТЕВОЕ ОБОРУДОВАНИЕ? Для видеонаблюдения	https://www.youtube.com/watch?v=zXy1_eO1zwk

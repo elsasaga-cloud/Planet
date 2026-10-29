@@ -1,9 +1,9 @@
 {
  "code": "XA-M127",
  "name": "NSR One GmbH (nsr-tik.com)",
- "round": "W1-R01",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-28 官网核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（nsr-tik.com，快照 2026-10-29）：NSR for Protection Systems and Communications",
  "summary": "Hilden 的小型 MikroTik 经销（保护系统与通信），自述提供路由/交换/无线及批发价给企业与转售商；联系口为手机号 + 另一域名邮箱，规模很小。",
  "type_final": "小型 MikroTik 经销/集成",
  "size": "小型（未查）",
@@ -26,12 +26,27 @@
    "quote": "",
    "url": "External Clients/mikrotik-info/A/XA-M127",
    "date": "2026-10-12"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；NSR for Protection Systems and Communications",
+   "quote": "NSR for Protection Systems and Communications",
+   "url": "https://nsr-tik.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@nsr-sy.com",
   "email_status": "来源库首选（official-company/channel）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "info@nsr-logistic.de",
+   "support@webador.de"
+  ],
+  "page_phones": [
+   "+49 2173 2019943"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "9-28~10-10 群发 24 口 PoE L2+ → 已发未回",
  "saga_overlap": "无",
@@ -45,7 +60,18 @@
   "window": "DE 周四 12–14",
   "when": "2027-01"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网核对（R53 2026-09-28 / R63 2026-10-06）。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\n轻卡：本轮未外查，沿用来源库官网核对（R53 2026-09-28 / R63 2026-10-06）。",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:44:59Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGM",
+  "why": "官网快照对位：10G/2.5G 词频 15、交换机 13 → 24 GE + 4×10G L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

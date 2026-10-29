@@ -1,0 +1,9 @@
+# SC-2516 novuscctv.com · feed_auto · https://novuscctv.com/en/rss.xml · fetched 2026-10-29T15:11:51Z · HTTP 200
+Tue, 21 Apr 2020 09:37:28 +0000	New functions of NOVUS 4000 series IP recorders	https://novuscctv.com/en/aktualnosci/new-functions-novus-4000-series-ip-recorders
+Tue, 11 Feb 2020 14:03:51 +0000	Smart IR in 6000 series of NOVUS IP cameras	https://novuscctv.com/en/aktualnosci/smart-ir-6000-series-novus-ip-cameras
+Tue, 11 Feb 2020 10:36:19 +0000	Better data security in NOVUS network video recorders- series 6000	https://novuscctv.com/en/aktualnosci/better-data-security-novus-network-video-recorders-series-6000
+Wed, 15 Jan 2020 14:23:21 +0000	SMART IR W KAMERACH SERII 6000	https://novuscctv.com/en/node/1322
+Tue, 06 Oct 2015 06:36:04 +0000	Newsletter	https://novuscctv.com/en/node/852
+Wed, 08 Oct 2014 14:21:49 +0000	бюллетень	https://novuscctv.com/en/node/441
+Wed, 08 Oct 2014 14:21:08 +0000	Newsletter	https://novuscctv.com/en/node/440
+Wed, 08 Oct 2014 14:06:10 +0000	Newsletter	https://novuscctv.com/en/webform/newsletter

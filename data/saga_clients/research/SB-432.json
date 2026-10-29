@@ -2,7 +2,7 @@
  "code": "SB-432",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（qubix.it：HTTP 错误，2026-10-21，第 1 次）",
+ "website_status": "在线（qubix.it，快照 2026-10-29）：QUBIX – Networking Solution",
  "summary": "意大利 Qubix（工业网络分销：「几乎全是 Planet 的设备」——工业 FS、MC、SFP、工业电源；KP Filippo Gnocco（General Manager）、Davide Villotti（Business Developer Manager）；表内「质量一般」；官网 http_error）；表内 1 次跟进无回复。",
  "type": "工业网络分销商（意大利，Planet 为主）",
  "size": "",
@@ -45,10 +45,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/deep/facts。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "company_facts": {
   "hq": "意大利",
@@ -129,6 +130,14 @@
     "quote": "主要是planet的；工业FS MC SFP 工业电源 几乎全是Planet的设备",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "QUBIX – Networking Solution",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.qubix.it/"
    }
   ],
   "proof_gaps": [],
@@ -137,11 +146,34 @@
  },
  "snap_thicken": {
   "consumed": [
-   "2026-10-21T09:41:05Z"
+   "2026-10-21T09:41:05Z",
+   "2026-10-29T15:33:21Z"
   ],
   "fails": [
    "2026-10-21"
   ],
-  "batch": "LT-T03"
+  "batch": "LT-T03",
+  "last_ok": "2026-10-29"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [
+   "+39 049 775667",
+   "+39 049 7801994"
+  ],
+  "social": [],
+  "models_on_site": [
+   "IEEE802",
+   "OM3-OM4",
+   "SGS-6341-24P4X",
+   "SGS-6310-8P4X",
+   "GS-6311-24HP4X",
+   "SGS-6341-48P6XR",
+   "FGSD-1008HPS",
+   "FGSW-1816HPS"
+  ],
+  "url": "https://www.qubix.it/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

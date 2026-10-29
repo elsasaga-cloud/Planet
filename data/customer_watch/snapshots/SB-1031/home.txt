@@ -1,4 +1,4 @@
-# SB-1031 findcontrols.com · home · https://ralakde.com/ · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-1031 findcontrols.com · home · https://ralakde.com/ · fetched 2026-10-29T15:11:51Z · HTTP 200
 Your partner in automation
 – Ralakde Automation
 Home
@@ -852,4 +852,10 @@ Layout, design, and compilation of content on this website are Copyright © 2025
 This website is not sanctioned or approved by any manufacturer or trademark owner listed herein. Ralakde Ltd is not an authorized distributor, affiliate, or representative for the listed manufacturers unless explicitly stated otherwise.
 All designated trademarks, brand names, and logos are the property of their respective owners.
 Manufacturer Disclaimer (e.g., Rockwell Automation)
-Products sold by Ralakde Ltd may be used or surplus items. Ralakde Ltd is not an authorized surplus dealer or affiliate for the manufacturer 
+Products sold by Ralakde Ltd may be used or surplus items. Ralakde Ltd is not an authorized surplus dealer or affiliate for the manufacturer of these products. Items may have older date codes or differ in series from those available directly
+from the manufacturer or their authorized distributors. As Ralakde Ltd is not an authorized distributor, the original manufacturer's warranty does not apply.
+Some programmable logic controller (PLC) products may come with pre-installed firmware; however, Ralakde Ltd makes no representation regarding the presence, absence, or revision level of such firmware. Ralakde Ltd does not guarantee your
+ability to download, access, or install firmware from the manufacturer, its affiliates, or other sources. It is your responsibility to comply with any End-User License Agreement (EULA) or similar legal requirements applicable to obtaining
+or installing firmware. Ralakde Ltd will not obtain or supply firmware on your behalf.
+Choosing a selection results in a full page refresh.
+Opens in a new window.

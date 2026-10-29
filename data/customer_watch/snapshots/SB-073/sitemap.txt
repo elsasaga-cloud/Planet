@@ -1,4 +1,4 @@
-# SB-073 ANB rimex · sitemap · https://anb-rimex.be/sitemap.xml · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-073 ANB rimex · sitemap · https://anb-rimex.be/sitemap.xml · fetched 2026-10-29T15:11:51Z · HTTP 200
 2026-08-25	https://anb-rimex.be/fr/
 2022-11-20	https://anb-rimex.be/fr/nouvelles/
 2023-09-21	https://anb-rimex.be/fr/nouvelles/anb-rimex-dahua/

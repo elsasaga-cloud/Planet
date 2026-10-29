@@ -1,19 +1,28 @@
 {
  "code": "XC-M158",
  "name": "Santa Clara Systems",
- "round": "X1-02",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "alive": "在线（santaclarasystems.com，快照 2026-10-29）：Industrial Controls Distributor - Santa Clara Systems",
  "summary": "Santa Clara Systems, Inc.：工业自动化与控制分销（Allen Bradley 等；Moxa 授权）；11–50 人",
  "type_final": "分销（Moxa 授权）；Santa Clara Systems, Inc.",
  "size": "",
  "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
  "fit": "○ 工业自动化与控制分销 20%：Santa Clara Systems, Inc.（Alameda CA；Moxa 授",
- "brands_seen": [],
+ "brands_seen": [
+  "Siemens"
+ ],
  "contacts": {
   "email": "sales@santaclarasystems.com",
   "email_status": "官网 / 名录公开（X1-02 补路径）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "sales@santaclarasystems.com"
+  ],
+  "page_phones": [
+   "+1.888.450.0301"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "evidence": [
   {
@@ -43,6 +52,13 @@
    "quote": "",
    "url": "https://www.datanyze.com/companies/santa-clara-systems/105300573",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Industrial Controls Distributor - Santa Clara Systems",
+   "quote": "Santa Clara Systems is the leading distributor of industrial automation and controls. We carry Allen Bradley and many more. Fast shipping! Call (888) 450-0301.",
+   "url": "https://www.santaclarasystems.com/",
+   "date": "2026-10-29"
   }
  ],
  "touch_status": "未触达（路径 2026-10-29 新补）",
@@ -54,6 +70,17 @@
   "angle": "已入 P 池 → 按巡检节奏首触"
  },
  "deep": false,
- "notes": "Santa Clara Systems, Inc.；2060 North Loop Road, Alameda CA 94502；+1 888-450-0301；X1-02R 补证：SAM.gov UEI KNKRVNQCAEJ7 / CAGE 392W1（CA 公司，2002-07-02 成立，2005-05 联邦登记）",
- "draft_en": null
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nSanta Clara Systems, Inc.；2060 North Loop Road, Alameda CA 94502；+1 888-450-0301；X1-02R 补证：SAM.gov UEI KNKRVNQCAEJ7 / CAGE 392W1（CA 公司，2002-07-02 成立，2005-05 联邦登记）",
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:57:44Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-280GE",
+  "why": "官网快照对位：工业/自动化词频 47、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手",
+  "date": "2026-10-29"
+ }
 }

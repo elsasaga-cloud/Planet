@@ -1,4 +1,4 @@
-# SB-1009 batna24.com · home · https://www.batna24.com/gb/ · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-1009 batna24.com · home · https://www.batna24.com/gb/ · fetched 2026-10-29T15:11:51Z · HTTP 200
 Batna24.com | Network equipment store
 Menu
 Search
@@ -361,6 +361,12 @@ Next
 New
 favorite
 favorite_border
+Network equipment MikroTik LHGGM&EG18-EA LTE Antenna + Modem, CAT18 LTE, 1x RJ45 1000Mb/s
+832.23 zł gross
+Add to basket
+New
+favorite
+favorite_border
 File servers Ubiquiti UNAS-Pro NAS Server, 2U, 7x HDD, 1x SFP+, 1x GbE RJ45
 2,613.18 zł gross
 Add to basket
@@ -374,7 +380,7 @@ New
 favorite
 favorite_border
 Power supply Ubiquiti POE-24-24W-5P, PoE power supply, 24V, 1A, 24W, 5-pack
-214.89 zł gross
+174.71 zł gross
 Add to basket
 New
 favorite
@@ -400,22 +406,9 @@ favorite_border
 Switches Ubiquiti Switch USW-Flex-2.5G-8-EU, 8x 2.5GbE RJ45, 1x 10GbE SFP+
 791.98 zł gross
 Add to basket
-New
-favorite
-favorite_border
-Switches Ubiquiti Switch USW-PRO-HD-24-POE-EU, Etherlighting, 2x 10GbE PoE++, 22x 2.5GbE PoE++, 4x 10G SFP+
-4,956.08 zł gross
-Add to basket
 On sale
 Previous
 Next
--17.13 zł
-favorite
-favorite_border
-UPS ARMAC HOME 1000F LINE INTERACTIVE UPS, SCHUKO OUTPUT
-307.50 zł gross 324.63 zł gross
-Lowest price in 30 days: 324.63 zł gross
-Add to basket
 -141.00 zł
 favorite
 favorite_border
@@ -423,12 +416,19 @@ Ip cameras Petcube Play 2 - Pet Monitoring Camera with Laser, WiFi, 1080p
 299.00 zł gross 440.00 zł gross
 Lowest price in 30 days: 440.00 zł gross
 Add to basket
+-17.13 zł
+favorite
+favorite_border
+UPS ARMAC HOME 1000F LINE INTERACTIVE UPS, SCHUKO OUTPUT
+246.80 zł gross 263.93 zł gross
+Lowest price in 30 days: 263.93 zł gross
+Add to basket
 -20.00 zł
 favorite
 favorite_border
 Flashlights Extralink EFL-1031 Odin LED Flashlight, Built-in Battery, 10W, 400lm
-27.99 zł gross 47.99 zł gross
-Lowest price in 30 days: 47.99 zł gross
+19.02 zł gross 39.02 zł gross
+Lowest price in 30 days: 39.02 zł gross
 Add to basket
 Learn how to design and optimize UniFi Wi-Fi networks
 Certified UniFi UWA Training
@@ -436,6 +436,7 @@ Blog
 See all
 Previous
 Next
+MikroTik – co to jest i dlaczego jest popularny w sieciach?
 How to Improve Wi-Fi Coverage at Home? 10 Ways to Get a Strong Signal
 Batna – oficjalny dystrybutor marki BETAFPV w Polsce
 Wi-Fi 8: A revolution in wireless connectivity technology
@@ -443,7 +444,6 @@ Batna - Official Distributor of the MOMCOZY brand in Poland
 When Your Wi-Fi Router Asks for Replacement: Key Signs and Solutions
 Is there life beyond Starlink? A review of satellite internet alternatives
 UniFi Network 9.1 - News and Enhancements
-Privacy policy of Extralink Smart Life application
 ul. 1 Maja 23
 42-217 Częstochowa
 Products

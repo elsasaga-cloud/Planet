@@ -26,10 +26,11 @@
  ],
  "grade_override": "A",
  "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
- "notes": "（建档：第 77 批 C 薄切片，T29-U56；证据全部来自 Elsa 邮箱 `data/gmail_e/text/` + `index_replied.jsonl`）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。\n（建档：第 77 批 C 薄切片，T29-U56；证据全部来自 Elsa 邮箱 `data/gmail_e/text/` + `index_replied.jsonl`）",
  "deep": {
   "done_at": "2026-10-25",
-  "level": "仅 Elsa 邮箱证据"
+  "level": "仅 Elsa 邮箱证据 + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "company_facts": {
   "legal_name": "DevRay IT Solutions Private Limited（CIN U62013UP2024PTC204532；2024-06-13；Noida）+ MapleCloud Tech Services Private Limited（CIN U72900DL2018PTC338066；2018-08-31；实缴 ₹4 lakh；董事 Yogendra Kumar Rajput / Ruchi Lal / Suresh Chand Jain）；100+ 人；500+ 企业客户；FY26 目标 ₹100 Cr（含 Iris Global 全国分销）",
@@ -138,6 +139,14 @@
     "quote": "C→B；CENTEC 内存规格核自 STH10G/2.5G 规格书「DRAM: 2GB on all models」、S5500/S4600 系列「Flash 8GB EMMC（OS）/ 4MB SPI（Boot）」、STH400G「DRAM: 4GB」",
     "why": "补答第 ① 点的依据（`data/extra_info_2026-10/text/Extra_Info__STH__*`）",
     "k": "—"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "DevRay | Next-Gen Firewall, SD-WAN, Routers and Switches — DevRay delivers next-generation firewall, SD-WAN, routers, industrial switches and enterprise networking solutions for secure, scalable business connectivity.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://devray.in/"
    }
   ],
   "proof_gaps": [
@@ -158,5 +167,23 @@
    "prev_reason": "2026-10-25 第 77 批（T29-U56 Simon「值得捞的处理一下」）：C → B。理由：Managing Director 本人 4 轮具名提问，明确要 SKD（印度本地组装 = 绕产地限制的常见做法）+ 价格；两处是我方欠答而非对方冷。印度非主战场，B = 慢慢跟进；原 C 理由「低价值区域冷线索」留此备查。",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）"
   }
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:26:57Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@devray.in"
+  ],
+  "phones": [],
+  "social": [],
+  "models_on_site": [],
+  "url": "https://devray.in/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

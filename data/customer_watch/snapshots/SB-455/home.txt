@@ -1,4 +1,4 @@
-# SB-455 maxlink.cz · home · https://www.maxlink.cz/cs/ · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-455 maxlink.cz · home · https://www.maxlink.cz/cs/ · fetched 2026-10-29T15:11:51Z · HTTP 200
 MaxLink - výrobce síťových prvků a příslušenství
 EN
 CZ
@@ -29,18 +29,18 @@ RF spojky
 RF konektory
 Montážní Krabice
 Nové produkty
-ML-S31D-20-HPE MaxLink 1.25G SFP optický HP modul, SM, 1310nm, 20km, 2x LC konektor, DDM, HPE kompatibilní
-Maxlink ML-S31D-20-HPE je 1.25G SFP modul s 1310nm vlnovou délkou, dvěmi LC konektory a maximální vzdáleností 20km po singlemode optickém vlákně. SFP modul podporuje monitoring (DDM).LC konektory v SFP modulu mají broušení typu UPC.HPE kom ... VÍCE INFORMACÍ
-ML-S+2733-10-H3C MaxLink 10G SFP+ optický HP modul, WDM(BiDi), SM, Tx 1270/Rx1330nm, 10km, 1x LC konektor, DDM, H3C kompatibilní
-Maxlink ML-S+2733-10-H3C je 10G SFP+ WDM modul s vlnovou délkou Tx 1270 / Rx 1330, jedním LC konektorem a maximální vzdáleností 20km po singlemode optickém vlákně. SFP+ modul podporuje monitoring (DDM).LC konektor v SFP+ modulu má broušení ... VÍCE INFORMACÍ
-ML-S+31D-10-HPE MaxLink 10G SFP+ optický HP modul, SM, 1310nm, 10km, 2x LC konektor, DDM, HPE kompatibilní
-Maxlink ML-S+31D-10-HPE je 10G SFP+ modul s 1310nm vlnovou délkou, dvěmi LC konektory a maximální vzdáleností 10km po singlemode optickém vlákně. SFP+ modul podporuje monitoring (DDM).LC konektory v SFP+ modulu mají broušení typu UPC.HPE k ... VÍCE INFORMACÍ
-ML-S+31Dout-40 MaxLink 10G SFP+ optický modul, SM, 1310nm, 40km, průmyslový -40°C až +85°C, 2x LC konektor, DDM
-ML-S+31Dout-40 je singlemode 10G SFP+ modul s vlnovou délkou 1310 nm a dvěma LC konektory pro spojení až na vzdálenost 40 km. Modul je "cisco compatibile" a je kompatibilní téměř se všemi aktivními prvky.LC konektory v SFP modulu mají bro ... VÍCE INFORMACÍ
+ML-SFP-RJ45-10G-HPE MaxLink SFP+ 1/2.5/5/10G metalický modul, RJ-45, 30m, 10Gbps, HPE
+ML-SFP-RJ45-10G-HPE je 10 Gbps SFP+ metalický modul s konektorem RJ45 pro metalický kabel. Jedná se o cisco kompatiblní modul. Dosah modulu pro 10G přenos je 30m.HPE kompatibilitaModuly jsou kompatibilní se switchi HPE Aruba Networking Pro ... VÍCE INFORMACÍ
+ML-S+2733-10-HPE MaxLink 10G SFP+ optický HP modul, WDM(BiDi), SM, Tx 1270/Rx1330nm, 10km, 1x LC konektor, DDM, HPE kompatibilní
+Maxlink ML-S+2733-10-HPE je 10G SFP+ WDM modul s vlnovou délkou Tx 1270 / Rx 1330, jedním LC konektorem a maximální vzdáleností 10km po singlemode optickém vlákně. SFP+ modul podporuje monitoring (DDM).LC konektor v SFP+ modulu má broušení ... VÍCE INFORMACÍ
 ML-S31D-3-HPE MaxLink 1.25G SFP optický HP modul, SM, 1310nm, 3km, 2x LC konektor, DDM, HPE kompatibilní
 Maxlink ML-S31D-3-HPE je 1.25G SFP modul s 1310nm vlnovou délkou, dvěmi LC konektory a maximální vzdáleností 3km po singlemode optickém vlákně. SFP modul podporuje monitoring (DDM).LC konektory v SFP modulu mají broušení typu UPC.HPE kompa ... VÍCE INFORMACÍ
-ML-S3155-20-HPE MaxLink 1.25G SFP optický HP modul, WDM(BiDi), SM, Tx 1310/Rx1550nm, 20km, 1x LC konektor, DDM, HPE kompatibilní
-Maxlink ML-S3155-20-HPE je 1.25G SFP WDM modul s vlnovou délkou Tx 1310 / Rx 1550, jedním LC konektorem a maximální vzdáleností 20km po singlemode optickém vlákně. SFP modul podporuje monitoring (DDM).LC konektor v SFP modulu má broušení t ... VÍCE INFORMACÍ
+10GBT-1-WM MaxLink aktivní PoE injektor 10G
+Maxlink 10GBT-1-WM je jednoduchý aktivní PoE injektor s podporou standardů 802.3af/at/bt a také 10G ethernetu (10/100M/1/2.5/10G). Je vybaven dvojicí stíněných ethernetových konektorů (1x vstup, 1x výstup) a napájení probíhá po 4 párech (n ... VÍCE INFORMACÍ
+ML-S31D-20-HPE MaxLink 1.25G SFP optický HP modul, SM, 1310nm, 20km, 2x LC konektor, DDM, HPE kompatibilní
+Maxlink ML-S31D-20-HPE je 1.25G SFP modul s 1310nm vlnovou délkou, dvěmi LC konektory a maximální vzdáleností 20km po singlemode optickém vlákně. SFP modul podporuje monitoring (DDM).LC konektory v SFP modulu mají broušení typu UPC.HPE kom ... VÍCE INFORMACÍ
+ML-S+31Dout-40 MaxLink 10G SFP+ optický modul, SM, 1310nm, 40km, průmyslový -40°C až +85°C, 2x LC konektor, DDM
+ML-S+31Dout-40 je singlemode 10G SFP+ modul s vlnovou délkou 1310 nm a dvěma LC konektory pro spojení až na vzdálenost 40 km. Modul je "cisco compatibile" a je kompatibilní téměř se všemi aktivními prvky.LC konektory v SFP modulu mají bro ... VÍCE INFORMACÍ
 Proč MaxLink
 Široký sortiment a vysoká kvalita produktů
 Sortiment našich produktů je ucelený a neustále se rozšiřuje. Výhodou je i testování našich produktů před uvedením na trh, čímž dokážeme produkt vyladit do nejmenších detailů. Nízká cena
@@ -66,4 +66,4 @@ Czech republic
 Show website in english
 Tento web používá k poskytování služeb, personalizaci reklam a analýze návštěvnosti soubory cookie. Používáním tohoto webu s tím souhlasíte. Další informace (EN) .
 Všechna práva vyhrazena © 2026 - Discomp s.r.o.
-server: IIS01, userIP: 52.159.244.65, 172.71.155.71
+server: IIS01, userIP: 172.172.157.5, 104.22.56.38

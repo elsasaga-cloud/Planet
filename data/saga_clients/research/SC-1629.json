@@ -6,7 +6,9 @@
  "summary": "C 池三闸捞出（○ 正式）：○ 进口商 · 分销 20%：UAB SOMI NETWORKS（300528292；Vilnius 2006；8 人；+ SIA 拉脱维亚；中性产品来自不同国内供应商）坐实；进口经验 ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔ → P 池候选；并线核对 SC-2767 SOMI RT",
  "type": "分销（闸 2 判定 · 20% 档）",
  "size": "小型（8）",
- "brands_seen": [],
+ "brands_seen": [
+  "Cisco"
+ ],
  "evidence": [
   {
    "kind": "登记底数 / 官网（闸 2 坐实）",
@@ -52,7 +54,7 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 进口商 · 分销 20%：UAB SOMI NETWORKS（300528292；Vilnius 2006；8 人；+ SIA 拉脱维亚；中性产品来自不同国内供应商）坐实；进口经验 ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔ → P 池候选；并线核对 SC-2767 SOMI RT；闸 1：立陶宛 Somi Networks（MC / SFP / 工业 FS / VC / 机架，宇航的设备，「中性、来自不同国内供应商、价格 OK」）：欧洲 + 已进口中国中性产品 + 对位 ✔；15 次跟进无回复（冷）→ 闸 2 查底数",
- "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/saga_fit/deep/facts。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -82,8 +84,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "STC-228GP",
-   "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
+   "p1": "STI-288GPM",
+   "why": "官网快照对位：工业/自动化词频 46、PoE 13 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -105,6 +107,14 @@
     "quote": "LT · 1 次检索：sominetworks.com/contacts（300528292；LT100002144113；Ukmergės 283A）+ spec.lt（2006；8 darbuotojai）+ okredo（Active）；2026-10-29",
     "why": "闸 2 坐实来源（URL 见 company_facts.url）",
     "url": "https://sominetworks.com/contacts/"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Networking equipment and materials - SOMI NETWORKS",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://sominetworks.com/"
    }
   ],
   "proof_gaps": [
@@ -143,14 +153,51 @@
   "**中性进口商 → 分销 20%：点名 Vytas 一页纸一次（STI-154GP / STI-288GPM 工业 + STC-228GP 对标宇航 + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；并线核对 SC-2767"
  ],
  "saga_fit": {
-  "p1": "STC-228GP",
+  "p1": "STI-288GPM",
   "tier": 20,
-  "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
-  "basis": "默认 · 官网快照后按业务线校正"
+  "why": "官网快照对位：工业/自动化词频 46、PoE 13 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）",
+  "basis": "官网快照自动对位（LT-T03）· 人工点名时再校",
+  "p1_prev": "STC-228GP"
  },
  "deep": {
   "done_at": "2026-10-29",
-  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
-  "batch": "LT-T01"
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T01",
+  "snapshot_at": "2026-10-29"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:35:20Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@sominetworks.com",
+   "info@sominetworks.lv"
+  ],
+  "phones": [
+   "+370 (5) 260 1919",
+   "+370 5 260 19 19",
+   "+371 67 627 212"
+  ],
+  "social": [
+   "https://www.facebook.com/Sominetworks/",
+   "https://www.linkedin.com/company/uab-somi-rt"
+  ],
+  "models_on_site": [
+   "RJ45G",
+   "SP-630",
+   "CCR2004-1G-12S",
+   "CTB-1",
+   "TB-6201Z",
+   "RJ45E",
+   "N-GFP-4F",
+   "TB-24SC"
+  ],
+  "url": "https://sominetworks.com/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

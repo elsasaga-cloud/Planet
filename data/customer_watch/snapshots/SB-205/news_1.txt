@@ -1,4 +1,4 @@
-# SB-205 barox.de · news_1 · https://www.barox.ch/en-us/news/ · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-205 barox.de · news_1 · https://www.barox.ch/en-us/news/ · fetched 2026-10-29T15:11:51Z · HTTP 200
 News | barox.ch
 Support
 Contact
@@ -222,4 +222,58 @@ Event | 29.01.2024
 Invitation to the KRITIS Days 2024 at Zurich Airport
 Commend AG and barox Kommunikation AG cordially invite you to the KRITIS Days 2024 at Zurich Airport. The KRITIS Days 2024 offer a unique platform for exchanging knowledge, ideas, and experiences on the security and resilience of our vital systems.
 LEARN MORE
-Th
+The company | 15.01.2024
+New Partnership with Leading Distributor in the Middle East, Amstergi
+Founded in 2004 and headquartered in Dubai, Amstergi offers security integrators in the United Arab Emirates and Qatar a broad and deep product range from the most renowned technology brands in video surveillance.
+LEARN MORE
+Event | 02.01.2024
+Course Program 2024 for Switches and PoE Products
+In our practical courses, learn about the powerful functionality of barox Switches and gain many tips for planning video systems with PoE products.
+LEARN MORE
+The company | 03.11.2023
+Cooperation between Media-4-cast GmbH and Barox
+We are pleased to announce the new cooperation between Media-4-cast GmbH from Emden and barox Kommunikation AG. With the Multi Capture V4 software and hardware solution, up to 6 video and audio streams can be simultaneously recorded, reviewed, and output in a lip-synchronous and legally admissible manner.
+LEARN MORE
+Products | 25.10.2023
+Dallmeier Has Approved Barox Switches for Use with Panomera Cameras
+In a recent performance test conducted by Dallmeier, barox Switches were integrated with Panomera cameras in an extensive installation and successfully tested. The test was carried out to test the feasibility and video transmission performance of the combination of barox Switches and Panomera cameras.
+LEARN MORE
+The company | 01.09.2023
+A Swiss Success Story
+barox Kommunikation AG celebrates its 25th anniversary. Angelo Banfi and Rudolf Rohr founded their company 25 years ago on September 1, 1998, in Baden, Switzerland.
+LEARN MORE
+Products | 22.08.2023
+Integration between Geutebrück’s VMS G-Core and barox
+The G-Core Video Management Software from our partner Geutebrück manages your video images and thus forms the basis for an optimally customizable complete solution.
+LEARN MORE
+Products | 13.06.2023
+Take Control of  Network!
+barox introduces its new Genetec plug-in under the name barox Network Management. The Genetec plug-in offers the user a high degree of flexibility, enhanced user control and a significant reduction in support costs for the operation of security networks.
+LEARN MORE
+The company | 30.03.2023
+24-Hour Video Surveillance for the Highest Demands
+Integrated system solution from Dallmeier electronic, barox, and Freihoff Sicherheitsservice proves itself in a challenging simulation
+LEARN MORE
+Products | 27.03.2023
+Switch RY-LPITE-442XGME – the 10gb “Game Changer”
+barox Kommunikation AG has launched a new 10 GB L2/L3 managed Ethernet switch series, which is referred to as a "Game Changer" for system integrators and planners who want to use a highly efficient and secure managed switch solution for IP surveillance camera networks.
+LEARN MORE
+The company | 06.03.2023
+Barox is Now ISO 14001 Certified!
+barox Kommunikation AG, the globally active manufacturer of professional standard switches, PoE media converters and IP extenders specially developed for video applications, has been awarded ISO 14001 status.
+LEARN MORE
+The company | 16.01.2023
+«PKE Gulf WLL» Selects Barox Ethernet Video Switches for Major Oil Refinery Project
+One of the largest regional oil companies in the Middle East has chosen barox Ethernet/PoE video Switches to secure its various refineries in its flagship project.
+LEARN MORE
+The company | 06.01.2023
+Barox Continues its International Expansion
+barox Kommunikation AG, the globally active manufacturer of professional switches, media converters, and IP extenders specifically for video applications, is strengthening its international approach with the appointment of Sara Fisher as International Market Development Specialist.
+LEARN MORE
+Products | 19.12.2022
+Now in Black and White: PoE Compatibility Test Bosch Cameras
+Now in black and white: PoE compatibility test Bosch cameras
+LEARN MORE
+Products | 15.09.2022
+White Blood Cells in the Network – from Bits and Bytes to Amps and Volts: PoE Switches for Video Systems
+barox is presenting itself at Security Essen with two of its central themes: Cybersecur

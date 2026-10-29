@@ -1,9 +1,9 @@
 {
  "code": "XA-M098",
  "name": "Poyraz Network",
- "round": "W1-R01",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-28 官网核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（poyraznetwork.com，快照 2026-10-29）：Dealer Dashboard | Poyraz Network",
  "summary": "Kocaeli 的 MikroTik Master Distributor（另 Ubiquiti 授权分销、Mimosa/Cudy/V-Sol），5000+ 产品、B2B 经销商价、培训项目，10 年经验。",
  "type_final": "MikroTik Master Distributor + 多牌（B2B）",
  "size": "小型（未查）",
@@ -12,7 +12,9 @@
   "Ubiquiti",
   "Mimosa",
   "Cudy",
-  "V-Sol"
+  "V-Sol",
+  "Cambium",
+  "Tenda"
  ],
  "saga_line": "SmartByte 商用 L2+（已发）→ 第二封换 STI 工业 L2+ PoE 补位",
  "fit": "TR 头部 MikroTik 分销，交换机专类，经销商网络大",
@@ -30,12 +32,30 @@
    "quote": "",
    "url": "External Clients/mikrotik-info/A/XA-M098",
    "date": "2026-10-12"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Dealer Dashboard | Poyraz Network",
+   "quote": "B2B Dealer Dashboard",
+   "url": "https://poyraznetwork.com/us",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "sales@poyraznetwork.com",
   "email_status": "来源库首选（official-company/channel）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "accounting@yourcompany.com",
+   "example@email.com",
+   "example@mail.com",
+   "muhasebe@poyraznetwork.com",
+   "satis@poyraznetwork.com"
+  ],
+  "page_phones": [
+   "001 14001 27001 45001"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "9-28~10-10 群发 24 口 PoE L2+ → 已发未回",
  "saga_overlap": "无",
@@ -49,10 +69,21 @@
   "window": "TR 周四 10–12",
   "when": "2026-11-05"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网核对（R53 2026-09-28 / R63 2026-10-06）。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\n轻卡：本轮未外查，沿用来源库官网核对（R53 2026-09-28 / R63 2026-10-06）。",
  "draft_en": {
   "subject": "Industrial DIN-rail PoE switches - the category MikroTik does not cover",
   "body": "Hi,\n\nI wrote in late September about our 24-port PoE L2+ switch; this is a different product line, so a fresh note rather than a reply.\n\nSTI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE/RoHS, 3-year warranty. Also 4-port (USD 121) and 8 + 4 SFP (USD 147) versions, and PoE++ 90 W variants.\n\nWould you like a sample unit for your lab, or first the full industrial price list for your reseller tiers?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "deep": false
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:44:11Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGM",
+  "why": "官网快照对位：10G/2.5G 词频 11、交换机 103 → 24 GE + 4×10G L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

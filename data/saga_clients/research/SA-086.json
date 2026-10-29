@@ -104,10 +104,11 @@
  ],
  "grade_override": "A",
  "override_reason": "规模大 + 守界：BIST 上市电信设备/系统集成巨头（1967 年成立；约 1,264–1,403 名员工；ZTE 持股 48.05%、土耳其武装部队基金会持股 15%）——集团级采购、ZTE 供应链关联且军方基金会股东，超出 Saga 可赢范围；PI 包成单客户，Simon 标签 活跃 → A",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（年报核对 → 规模大降 C）"
+  "level": "B 级加厚 v1（年报核对 → 规模大降 C） + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "company_facts": {
   "legal_name": "Netaş Telekomünikasyon A.Ş.",
@@ -571,6 +572,14 @@
     "quote": "Q4/2025（02-09）、Q1/2026（05-05）、Q2/2026（08-12）三期《A Letter from Chief Export Compliance Officer to Business Partners》+ 2026-03-02《2025-2026 ZTE 出口管制合规政策与管理承诺》均发到 A 邮箱",
     "why": "Saga 仍在 Netaş「业务伙伴」合规分发名单上（最近一期 2026-08-12）——供应商账号没有被清理，是被动绑定仍在的硬证据；Netaş 是 ZTE 参股公司，其合规口径跟 ZTE 走：下次报 CENTEC（国产芯片）或任何含美国成分的型号前，ECCN/EAR99 表要和 2025-12 那份一致",
     "k": "gmail_a 2026-02-09 / 2026-03-02 / 2026-05-05 / 2026-08-12"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "NETAŞ - Bilgi ve İletişim Teknolojileri — Bilgi ve iletişim teknolojileri alanında, uçtan uca katma değerli çözümler, sistem entegrasyonu ve teknoloji hizmetleri sunuyoruz.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://netas.com.tr/"
    }
   ],
   "proof_gaps": [
@@ -583,5 +592,44 @@
    "body": "Hi, Ender,\n\nIn February we had to say \"problem\" to PIM-SM/DM, RIPng/PBR and IP SLA for the vehicle container network. One of those has moved: PIM-SM is now available in firmware 7.5 (CLI). PIM-DM, RIPng, PBR and IP SLA are still not on the Marvell L3 units, and I will not pretend otherwise. They are all on our CENTEC STOS line (PIM-SM/DM, RIPng, PBR, IP SLA, BFD, VRRP — MS license), but that line is rated 0 to 40 C, so it only fits the container if the cabinet is climate-controlled.\n\nTemperature: the industrial units are rated -40 to +75 C, so your -40 to +71 C spec is covered; the hardened enclosure stays on your side as discussed.\n\nOne question: does your end customer's multicast design actually require PIM-DM, or would PIM-SM be sufficient for the 2-4 switches per vehicle?\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:26:47Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@netas.com.tr",
+   "kalite-yonetimi-netas.netas-bdhkalite@mail.xurrent.com",
+   "kvkk@netas.com.tr",
+   "netas@hs02.kep.tr"
+  ],
+  "phones": [
+   "+90 (216) 394 53 23",
+   "+90 (216) 500 17 00",
+   "+90 (216) 522 20 00"
+  ],
+  "social": [
+   "https://twitter.com/netastr",
+   "https://www.facebook.com/NetasTR",
+   "https://www.facebook.com/netastr/",
+   "https://www.instagram.com/netastr"
+  ],
+  "models_on_site": [
+   "NCS6712",
+   "NCS6712A",
+   "NCS6722",
+   "NCS6722A",
+   "NCS6742",
+   "NCS6742A",
+   "NCS6744",
+   "TN-1XE"
+  ],
+  "url": "https://netas.com.tr/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

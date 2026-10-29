@@ -2,7 +2,7 @@
  "code": "SB-919",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（Bismon Co.,Ltd：HTTP 错误，2026-10-21，第 1 次）",
+ "website_status": "在线（bismon.com，快照 2026-10-29）：BISMON | Communication Products - Fiber Optic, Industrial Switch, UTP Cable, OTDR Thailand",
  "summary": "泰国 Bismon Co., Ltd（泰国网络产品品牌：MC/交换机等，「产品线很相似」；KP Anek Thongdee（Chief Executive Officer）；「可以尝试多跟进一下」；官网 http_error）；群发 16 次无回复。",
  "type": "网络产品品牌商（泰国，产品线相似）",
  "size": "",
@@ -35,10 +35,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/deep/facts。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "company_facts": {
   "hq": "298 Moo 1, O Ngoen, Sai Mai, Bangkok 10220（第 117 批 官方登记核实 2026-10-28）",
@@ -120,6 +121,14 @@
     "quote": "Managed PoE Switches",
     "why": "本日去信真实主题（邮箱索引 2432f4a1c0b56415；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封）",
     "k": "2432f4a1c0b56415"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "BISMON | Communication Products - Fiber Optic, Industrial Switch, UTP Cable, OTDR Thailand — BISMON ตัวแทนจำหน่าย Commscope, AFL อย่างเป็นทางการ จำหน่ายอุปกรณ์ Fiber Optic, Industrial Switch, Media Converter, สายแลน UTP, ตู้ Rack ภายในอาคารและนอกอาคาร, OTDR ครบวงจร สต็อกพร้อมส่ง โทร 02-563-5000",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.bismon.com/"
    }
   ],
   "proof_gaps": [],
@@ -141,11 +150,37 @@
  "override_history": [],
  "snap_thicken": {
   "consumed": [
-   "2026-10-21T09:25:03Z"
+   "2026-10-21T09:25:03Z",
+   "2026-10-29T15:34:15Z"
   ],
   "fails": [
    "2026-10-21"
   ],
-  "batch": "LT-T03"
+  "batch": "LT-T03",
+  "last_ok": "2026-10-29"
+ },
+ "site_contacts": {
+  "emails": [
+   "sale@bismon.com"
+  ],
+  "phones": [
+   "+662-563-5000",
+   "+662-563-5011",
+   "000 (081-3532819"
+  ],
+  "social": [],
+  "models_on_site": [
+   "RS485",
+   "QSFP28",
+   "SFP28",
+   "RS232",
+   "RG-11",
+   "RG-58",
+   "RG-59",
+   "RG-62"
+  ],
+  "url": "https://www.bismon.com/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

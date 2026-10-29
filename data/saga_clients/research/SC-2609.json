@@ -17,7 +17,7 @@
  ],
  "researched_at": "2026-10-29",
  "country_fix": "捷克",
- "notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。\nT29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。",
  "override_history": [
   {
    "batch": "LT-01",
@@ -64,6 +64,14 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 自有品牌 · OEM 30%：PARTIZAN SECURITY s.r.o.（Praha；IČ 28909437；布拉格市法院 C 152541；Partizan = 2008 年创立的欧洲安防品牌，自产硬件 + 自研软件，60+ 国项目）坐实 → 国别纠偏 欧洲（未填）→ 捷克；自有品牌 ✔ 配套 PoE 现由洪瑞供 ✔ 欧洲 ✔ 对位 ✔ → P 池候选；Q-33 口径；Simon 曾判不行，可否决",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Partizan Store Europe – You see. You control. — Partizan je európska firemní značka, založená v roce 2008. Vyrábíme zařízení a vyvíjíme programové vybavení pro implementaci moderních bezpečnostních systémů. Naše řešení optimálně pokrývají rozsáhlé spektrum úkolů i uživatelů díky vysoké kvalitě a pře",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.partizanstore.eu/"
    }
   ],
   "proof_gaps": [
@@ -72,7 +80,42 @@
  },
  "deep": {
   "done_at": "2026-10-29",
-  "level": "邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓）",
-  "batch": "LT-T01"
+  "level": "邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T01",
+  "snapshot_at": "2026-10-29"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:38:07Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@partizanstore.eu"
+  ],
+  "phones": [
+   "+420 608 880 986"
+  ],
+  "social": [
+   "https://twitter.com/share",
+   "https://www.facebook.com/partizaneurope",
+   "https://www.facebook.com/partizaneurope/",
+   "https://www.instagram.com/partizan_security_global/"
+  ],
+  "models_on_site": [
+   "IPD-5SP-IR",
+   "IPO-5SP",
+   "IPD-VF5MP-IR",
+   "IPO-VF5MP",
+   "IPS-220X-IR",
+   "IPS-230X-IR",
+   "PSW-8",
+   "NVH-1622"
+  ],
+  "url": "https://www.partizanstore.eu/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

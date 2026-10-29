@@ -1,14 +1,15 @@
 {
  "code": "XA-M219",
  "name": "Distrigo Inc.",
- "round": "W1-R02",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（distrigoinc.com，快照 2026-10-29）：STRATEGIC SOURCING PARTNER",
  "summary": "网络设备分销（北迈阿密，拉美向）；MikroTik 官方分销，商用线可直接比价，工业线为零 → 新品类增量",
  "type_final": "网络设备分销（北迈阿密，拉美向）",
  "size": "未量化",
  "brands_seen": [
-  "MikroTik（Reseller）"
+  "MikroTik（Reseller）",
+  "MikroTik"
  ],
  "saga_line": "SmartByte 商用 L2+（已发/首触）+ Saga STI 工业 L2+ PoE 补位",
  "fit": "分销",
@@ -26,12 +27,24 @@
    "quote": "",
    "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
    "date": "2026-10-09"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；STRATEGIC SOURCING PARTNER",
+   "quote": "STRATEGIC SOURCING PARTNER",
+   "url": "https://distrigoinc.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "sales@distrigoinc.com",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "sales@distrigoinc.com"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-09 群发「24 Port PoE Managed Switch」→ 已发未回",
  "saga_overlap": "无",
@@ -45,10 +58,16 @@
   "window": "US 周三 08–10 当地",
   "when": "2026-11-11"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "draft_en": {
   "subject": "Industrial DIN-rail PoE switches - the category MikroTik does not cover",
   "body": "Hi,\n\nI wrote on 9 October about our 24-port PoE L2+ switch ('24 Port PoE Managed Switch'); this is a different product line, so a fresh note rather than a reply.\n\nSTI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), FCC/CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.\n\nIs there demand from your reseller base for DIN-rail PoE switches, or would the commercial 24-port line be the better fit for a first order?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "deep": false
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:47:11Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

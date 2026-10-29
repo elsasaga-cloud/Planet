@@ -1,9 +1,9 @@
 {
  "code": "XA-M125",
  "name": "I-NetPartner GmbH (mikrotik-store.eu)",
- "round": "W1-R01",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-28 官网核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（mikrotik-store.eu，快照 2026-10-29）：www.mikrotik-store.eu",
  "summary": "格平根 I-NetPartner 的 mikrotik-store.eu，自述 2008 起 MikroTik Master Distributor，面向 WISP/无线运营商/集成商，在售 CRS 400G 等高端交换机，设 B2B 账期流程。",
  "type_final": "MikroTik Master Distributor（WISP/集成商）",
  "size": "小型（未查）",
@@ -26,12 +26,29 @@
    "quote": "",
    "url": "External Clients/mikrotik-info/A/XA-M125",
    "date": "2026-10-12"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；www.mikrotik-store.eu",
+   "quote": "MikroTik Router, MikroTik RouterBoards, MikroTik RouterOS, Distribution und Consulting, Core Router, Wireless, Hardware, Proxim, Richtfunk, Wlan, Shop, Store, Bridge, AccessPoint, AP, Hotspot, Linux, Leaf, Bering, 802.11, 802.11n",
+   "url": "https://www.mikrotik-store.eu/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "sales@mikrotik-store.eu",
   "email_status": "来源库首选（official-company/channel）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "sales@mikrotik-store.eu",
+   "support@mikrotik-store.eu",
+   "support@mikrotik-store.eutel"
+  ],
+  "page_phones": [
+   "+49 7161 984 99 55",
+   "+4971619849955"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "9-28~10-10 群发 24 口 PoE L2+ → 已发未回",
  "saga_overlap": "无",
@@ -45,10 +62,21 @@
   "window": "DE 周四 12–14",
   "when": "2026-10-29"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网核对（R53 2026-09-28 / R63 2026-10-06）。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\n轻卡：本轮未外查，沿用来源库官网核对（R53 2026-09-28 / R63 2026-10-06）。",
  "draft_en": {
   "subject": "Industrial DIN-rail PoE switches - the category MikroTik does not cover",
   "body": "Hello,\n\nI wrote in late September about our 24-port PoE L2+ switch; this is a different product line, so a fresh note rather than a reply.\n\nSTI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE/RoHS, 3-year warranty. Also 4-port (USD 121) and 8 + 4 SFP (USD 147) versions, and PoE++ 90 W variants.\n\nDo your WISP and integrator customers ask for DIN-rail PoE, and would you evaluate a sample for the store?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "deep": false
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:44:59Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGM",
+  "why": "官网快照对位：10G/2.5G 词频 80、交换机 201 → 24 GE + 4×10G L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

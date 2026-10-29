@@ -2,11 +2,15 @@
  "code": "SB-252",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（platinumcctv.com：HTTP 错误，2026-10-21，第 1 次）",
+ "website_status": "在线（platinumcctv.com，快照 2026-10-29）：Platinum CCTV - Security Cameras - It's ALL we do",
  "summary": "美国 Platinum CCTV（CCTV 网店/安装；表内「商业 PoE 较多外壳」「可以尝试多跟进一下」；KP Paul Cutrano（Director of Field Operations）；官网 http_error）；群发 10 次无回复。",
  "type": "CCTV 网店/安装商（美国）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Hikvision",
+  "Dahua",
+  "Uniview"
+ ],
  "evidence": [
   {
    "kind": "用户表",
@@ -41,10 +45,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：website_status/brands_seen/site_contacts/deep/facts。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "company_facts": {
   "hq": "美国",
@@ -109,6 +114,14 @@
     "quote": "自动回复里给出同事邮箱 scott@platinumcctv.com",
     "why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
     "k": "d15c53f56333d9f6"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Platinum CCTV - Security Cameras - It's ALL we do — Protect your Business with a Security Camera System that REALLY delivers on promises. Our AVM camera systems give you faster access to your video and the ability to playback with ease.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://platinumcctv.com/"
    }
   ],
   "proof_gaps": [],
@@ -117,11 +130,34 @@
  },
  "snap_thicken": {
   "consumed": [
-   "2026-10-21T09:38:15Z"
+   "2026-10-21T09:38:15Z",
+   "2026-10-29T15:32:43Z"
   ],
   "fails": [
    "2026-10-21"
   ],
-  "batch": "LT-T03"
+  "batch": "LT-T03",
+  "last_ok": "2026-10-29"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [],
+  "social": [
+   "https://twitter.com/PlatinumCCTV",
+   "https://www.instagram.com/platinum_cctv/",
+   "https://youtube.com/platinumcctv"
+  ],
+  "models_on_site": [
+   "RG-59",
+   "CAT-5",
+   "CAT-6",
+   "HD-8219",
+   "HD-PTZ4",
+   "RS-232",
+   "RS-485"
+  ],
+  "url": "https://platinumcctv.com/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

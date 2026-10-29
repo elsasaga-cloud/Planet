@@ -46,7 +46,7 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 制造商 · OEM 30%：Masibus Automation And Instrumentation Pvt Ltd（Gandhinagar；CIN U32201GJ1987PTC009994；1987；135 人；FY25 ₹100–500 Cr；Associate Director Sales D Kachhiya）坐实；已进口中国工业交换机 ✔ 对位 ✔ 坐实 ✔ 具名销售负责人 …；闸 1：印度 Masibus（masibus.com；工业仪表 / 控制自有品牌，三旺 + IO「比较专业」；邮件中有详细联系信息）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔；未触达 → 闸 2 查底数（zaubacorp）；低…",
- "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：fail#1。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -147,5 +147,14 @@
   "done_at": "2026-10-29",
   "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
   "batch": "LT-T01"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:35:08Z"
+  ],
+  "fails": [
+   "2026-10-29"
+  ],
+  "batch": "LT-T03"
  }
 }

@@ -1,9 +1,9 @@
 {
  "code": "XA-M149",
  "name": "AT Computers a.s.",
- "round": "W2-R04",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（atcmarket.cz，快照 2026-10-29）：Request Rejected / PoÅ¾adavek odmÃ­tnut",
  "summary": "大型 IT 广线分销（AT Computers a.s.）；捷克三大 IT 分销之一",
  "type_final": "大型 IT 广线分销（AT Computers a.s.）",
  "size": "未量化",
@@ -20,12 +20,24 @@
    "quote": "",
    "url": "https://atcmarket.cz/",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Request Rejected / PoÅ¾adavek odmÃ­tnut",
+   "quote": "Request Rejected / PoÅ¾adavek odmÃ­tnut",
+   "url": "https://atcmarket.cz/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "obchod@atcomp.cz",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "webmaster@atcomp.cz"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -39,7 +51,13 @@
   "window": "",
   "when": "不动"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:45:10Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

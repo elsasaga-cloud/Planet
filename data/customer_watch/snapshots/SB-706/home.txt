@@ -1,4 +1,4 @@
-# SB-706 eworldme.com · home · https://eworldme.com/ · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-706 eworldme.com · home · https://eworldme.com/ · fetched 2026-10-29T15:11:51Z · HTTP 200
 Industrial Automation & Data Communication Distributor | eWorld
 Easy World Automation L.L.C
 Partners 0
@@ -25,7 +25,7 @@ IKS-6700 Series 28
 IKS-G6524A Series 6
 MDS-G4000 Series 15
 PT-500/G500 Series 50
-PT-7500 Series 47
+PT-7500 Series 48
 PT-G7728 Series 7
 PWR (Power Modules) Series 11
 RKS/RM-G4000 Series 39
@@ -34,6 +34,7 @@ TN-5500A Series 28
 TN-G4500 Series 4
 TN-G6500 Series 2
 TSN-G5000 Series 2
+EDS-728 Series 1
 Layer 3 Managed Switches 0
 ICS-G7800A Series 14
 IKS-G6824A Series 6
@@ -43,6 +44,7 @@ MRX-Q4064 Series 6
 PM-7500 Module Series 8
 PT-G7828 Series 7
 PWR (Power Modules) Series 0
+EDS-828 Series 3
 PoE Switches 2
 EDS-4000/G4000 Series 44
 EDS-G205A Series 0
@@ -65,7 +67,6 @@ TN-4500A Series 24
 TN-4500B Series 7
 TN-5000 Series 59
 TN-5300A Series 6
-TN-5305 Series 2
 TN-5308 Series 16
 TN-5524-8PoE Series 2
 TN-5816A Series 2
@@ -109,33 +110,9 @@ Ethernet Embedded Modules 8
 Two-wire Ethernet Switches (SPE/APL) 0
 TWS-3010-APL Series 1
 TWS-3010-SPE Series 1
-DIN-Rail Ethernet Switches 113
-EDS-728 Series 1
-EDS-828 Series 3
+DIN-Rail Ethernet Switches 53
 EDS-P308 Series 10
 EDS-P506A-4PoE Series 8
-MDS-G4012-L3-4XGS Series 1
-MDS-G4020-L3 Series 2
-MDS-G4020-L3-4XGS Series 1
-MDS-G4028-L3 Series 0
-MDS-G4028-L3-4XGS Series 0
-PT-508 Series 15
-PT-510 Series 21
-PT-G503 Series 2
-PT-G510 Series 12
-TN-5305 Series 2
-IEC 61850-3 Ethernet Switches 127
-PT-508 Series 15
-PT-510 Series 21
-PT-7528 Series 39
-PT-7710 Series 4
-PT-7728 Series 30
-PT-7828 Series 1
-PT-G503 Series 2
-PT-G510 Series 12
-PT-G7509 Series 1
-PT-G7728 Series 1
-PT-G7828 Series 1
 Ethernet Extenders 3
 Industrial Secure Routers 50
 Wireless AP/Bridge/Client 88
@@ -143,8 +120,8 @@ WLAN AP/Bridge/Client 48
 AWK-1130 Series 12
 AWK-1151C Series 4
 AWK-1160 Series 16
-AWK-3000A Series 10
-AWK-4000A Series 5
+AWK-3000A Series 14
+AWK-4000A Series 7
 Rail Wireless LAN 37
 AWK-3131A-RCC/RTG Series 24
 AWK-3251A-RCC Series 6
@@ -550,4 +527,18 @@ DIN-rail Power Supplies for 1-phase Systems 92
 Power Supply with Integrated Decoupling Function 9
 Power Over Ethernet 2
 3-phase Power Supplies 0
-
+AS-Interface® Power Supply 1
+DIN-rail Power Supplies for 3-phase Systems 25
+DC/DC Converter or PS with DC Input 0
+AS-Interface® Power Supply 1
+DC/DC Converter 15
+DeviceNet Power Supply 2
+DIN-rail Power Supplies for 1-phase Systems 43
+Power Supply with Integrated Decoupling Function 2
+AS-Interface Power Supplies 5
+DeviceNet Power Supplies 2
+Supplementary Units and Accessories 0
+DC-UPS 0
+DC-UPS Control Unit 5
+DC-UPS with Built-in Battery 1
+DC-UPS with Ca

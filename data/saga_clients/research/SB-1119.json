@@ -9,7 +9,9 @@
  "brands_seen": [
   "PLANET",
   "MikroTik",
-  "ORing"
+  "ORing",
+  "Dahua",
+  "Ruijie"
  ],
  "evidence": [
   {
@@ -44,10 +46,11 @@
  "kp": [],
  "grade_override": "B",
  "override_reason": "Planet 渠道档案 PB-041 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-041，W 批次调研 2026-10-19/20）"
+  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-041，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "company_facts": {
   "legal_name": "Nokta Elektronik ve Bilişim Sistemleri Sanayi ve Ticaret A.Ş.（MERSİS 0631-0730-5210-0020；İstanbul Tic. Sicil 555138-0；原 Ltd. Şti.）",
@@ -147,6 +150,14 @@
     "quote": "24 Port PoE Managed Switch、10G Enterprise SFP Switch",
     "why": "14 封 / 0 次打开 / 0 回｜首封 2024-06-14 → 末封 2026-10-20（14 去 / 0 来）",
     "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Nokta Elektronik — Güvenlik ve Network Distribütörü — CCTV kamera, network, yangın algılama ve hemşire çağrı sistemlerinde Türkiye distribütörü; upTech markasının sahibi. Binlerce ürün, stok kodu ile arama.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.noktaelektronik.net/tr"
    }
   ],
   "proof_gaps": [
@@ -164,5 +175,29 @@
   "note": "伊斯坦布尔安防 / 网络分销商 Nokta Elektronik（ORing 授权，主推 PLANET GS-5220）：进口台湾同类 ✔ 四主区 → 留 B",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": []
+ "override_history": [],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:32:32Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "nokta@noktaelektronik.net",
+   "ornek@email.com"
+  ],
+  "phones": [
+   "+90 212 222 87 80"
+  ],
+  "social": [],
+  "models_on_site": [
+   "RS232",
+   "RS485"
+  ],
+  "url": "https://www.noktaelektronik.net/tr",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

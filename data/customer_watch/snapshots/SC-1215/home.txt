@@ -1,0 +1,79 @@
+# SC-1215 router.lv · home · https://router.lv/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+www.router.lv - Mikrotik Distributor
+lietuviškai
+latviski
+english
+по-русски
+$
+€
+£
+Sign in
+Contact Policies Technical Support Products Training Frequently Asked Questions
+(CCR2216-1G-12XS-2XQ) Mikrotik Cloud Core Router 2216-1G-12XS-2XQ with RouterOS L6 license
+CANNOT DELIVER WITH PACKED CABINET, CHOICE SERVICE TO BE CHOOSED
+The most powerful Mikrotik router on the market at the moment, capable of 100 Gigabit networking
+with L3 Hardware Offloading!
+Īsa rokasgrāmata
+User Manuals
+MikroTik SFP module compatibility table
+Additional information
+Price:
+€ 2203.50
++ VAT
+In stock 2
+In E2 stock 5
+Please call +371 67724000
+(CRS518-16XS-2XQ-RM) Cloud Router Switch 518-16XS-2XQ-RM with RouterOS L5 license, rackmount case
+A 100 Gigabit switch for enterprise networks and data centers. Hot-swappable parts and insane port density with 1.2 Tbps switching capacity!
+Īsa rokasgrāmata
+User Manuals
+MikroTik SFP module compatibility table
+Additional information
+Price:
+€ 1286.85
++ VAT
+In stock 1
+(RBD53iG-5HacD2HnD) MikroTik RouterBoard hAP ac³
+A wireless dual-band router with 5 Gigabit Ethernet ports and external high gain antennas for more coverage.
+Forget about endless searching for the perfect router and scrolling through an eternity of reviews and specifications! We have created a single affordable home access point that has all the features you might need for years to come.
+Īsa rokasgrāmata
+User Manuals
+Additional information
+Price:
+€ 92.40
++ VAT
+Notify when available
+Name:
+E-mail:
+Phone:
+(RBD52G-5HacD2HnD-TC) MikroTik RouterBoard hAP ac²
+The hAP ac² is a Dual-concurrent Access Point, that provides Wifi coverage for 2.4 GHz and 5 GHz frequencies at the same time. Five 10/100/1000 Ethernet ports provide Gigabit connections for your wired devices, and USB can be used for external storage or 4G/LTE modem.
+Additional information
+Price:
+€ 66.55
++ VAT
+In stock 15
+(RB924i-2nD-BT5&BG77) KNOT with RouterOS L4 license
+The newest addition to the MikroTik IoT product family – KNOT – is a truly universal device with exceptional connectivity options and protocol support. It is an IoT Gateway that uses Narrow Band and CAT-M technology. Because of the low cost, low bandwidth cellular connection, it is supported by countless mobile operators around the globe.
+KNOT can monitor onboard GPIOs, convert Modbus protocol to TCP, and even forward Bluetooth packets to TCP/IP network via HTTPS and MQTT.
+You can use the KNOT as a TCP bridge from wired Modbus sensors to send readings to a Modbus server. Yes, the KNOT brings wireless connectivity to wired sensors, such as electricity meters and relays.
+Īsa rokasgrāmata
+User Manuals
+Additional information
+Price:
+€ 80.50
++ VAT
+In stock 4
+(RBD25GR-5HPacQD2HPnD&R11e-LTE6) Audience LTE6 kit with RouterOS L4 license, International version
+Tri-band (one 2.4 GHz & two 5 GHz) home access point with LTE CAT6 support and meshing technology.
+Wi-Fi has to be fast, reliable, easy to manage, it must reach every room and every corner. That is exactly what Audience devices can deliver in grand style – even in the biggest houses!
+Audience LTE6 kit is a tri-band (one 2.4 GHz & two 5 GHz ) home access point with LTE support and meshing technology. If you need Wi-Fi in a huge building with all kinds of obstacles, simply add more Audience devices to your network – with a press of a button they will sync seamlessly and create a single Wi-Fi network to cover the whole premises. The initial setup is also very simple – download the iOS or Android MikroTik app, it will connect to the router and guide you through a quick setup process.
+Additional information
+Price:
+€ 224.25
++ VAT
+In stock 2
+Products
+SFP modules Server Sale Mikrotik CCR (Cloud Core Router) Mikrotik CRS (Cloud Router Switch) Mikrotik CSS (Cloud Smart Switch) MikroTik Routers (no wireless) Mikrotik indoor wireless devices WIRELESS SYSTEMS 60Ghz Mikrotik Outdoor Integrated Antennas Mikrotik LTE 4G 5G devices Mikrotik IOT products Accessories Power supplies Mikrotik SFP modules RouterOS licences TAKEX security systems Optic Patchcords Ethernet patch cables MiniPCI, PCI cards mANT antennas Switch RouterBOARDS (OEM) Mikrotik Technical Support
+Contact Policies Technical Support Products Training Frequently Asked Questions
+Copyright SPX 2010, e-pasts: router@router.lv tālrunis: +371 67724000; fakss: +371 67724001

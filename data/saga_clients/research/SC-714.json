@@ -5,7 +5,9 @@
  "summary": "国别纠偏：表内「俄罗斯」 → 白俄罗斯。ООО «Торговый дом «АВАНТ-ТЕХНО»：Минск；BYN 计价；utepo.by 页脚同主体 220004 Минск, ул. Короля 45；+375 17 304-40-40。来源：公司底数登记（`data/saga_clients/registry/`，第 129 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。",
  "type": "安防 / 网络分销 + 自有 iFLOW 牌工业 PoE 交换机",
  "size": "中型（白俄主要安防分销之一）",
- "brands_seen": [],
+ "brands_seen": [
+  "Hikvision"
+ ],
  "evidence": [
   {
    "kind": "官网",
@@ -17,7 +19,7 @@
  ],
  "researched_at": "2026-10-29",
  "country_fix": "白俄罗斯",
- "notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。\nT29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。",
  "override_history": [
   {
    "batch": "LT-01",
@@ -64,6 +66,14 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 自有 iFLOW 牌 + 多牌分销 · OEM 30% / 分销 20%：ООО «Торговый дом «АВАНТ-ТЕХНО»（Минск, ул. Короля 45；avant.by + utepo.by 同主体；BYN 计价；Hikvision / Utepo / 自有 iFLOW 工业 PoE）部分坐实（УНП 未取）；国别纠偏 俄罗斯 → 白俄罗斯 待 Simon；自有牌 ✔ 已进口中国同类 ✔ 对位 ✔ → P 池候选（预付 100%，白俄收款路径待 Simon）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Ведущий поставщик оборудования для систем безопасности в Республике Беларусь — Оборудование для систем видеонаблюдения ✔️ систем контроля доступа ✔️ систем охранной и пожарной сигнализации ✔️ электротехническое оборудование по спец. ценам ✔️ в наличии ✔️ под заказ",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://avant.by/"
    }
   ],
   "proof_gaps": [
@@ -72,7 +82,48 @@
  },
  "deep": {
   "done_at": "2026-10-29",
-  "level": "邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓）",
-  "batch": "LT-T01"
+  "level": "邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T01",
+  "snapshot_at": "2026-10-29"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:41:53Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "brest1@avant.by",
+   "brest@avant.by",
+   "gomel1@avant.by",
+   "gomel@avant.by",
+   "grodno1@avant.by"
+  ],
+  "phones": [
+   "+375(152) 560-282",
+   "+375(152) 560-976",
+   "+375(162) 50-54-10"
+  ],
+  "social": [
+   "https://t.me/s/avant_techno",
+   "https://www.facebook.com/avanttechnoby",
+   "https://www.instagram.com/avantby/",
+   "https://www.linkedin.com/company/86410134/"
+  ],
+  "models_on_site": [
+   "RJ-45",
+   "F-SW-EU205POE-V",
+   "F-NR-216X",
+   "F-SW-EU208-O",
+   "F-SW-EU206HPOE-V",
+   "F-SW-EU426POE-V",
+   "MIT-A3",
+   "F-SW-EU205-O"
+  ],
+  "url": "https://avant.by/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

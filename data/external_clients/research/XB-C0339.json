@@ -1,9 +1,9 @@
 {
  "code": "XB-C0339",
  "name": "Intcomex del Ecuador",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 intcomex.com MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（intcomex.com，快照 2026-10-29）：Intcomex | Plataforma líder en distribución de tecnología",
  "summary": "Intcomex del Ecuador（厄瓜多尔）：2008年成立，IT分销；地址=4办公室（Quito/Guayaquil/Manta/Cuenca）；业务=2008年成立，IT分销；开发策略=拉美IT分销巨头",
  "type_final": "2008年成立，IT分销",
  "size": "",
@@ -23,6 +23,13 @@
    "claim": "桌面复核（来源库核对 + 研究卡）：2008年成立，IT分销；业务=2008年成立，IT分销；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））",
    "quote": "",
    "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Intcomex | Plataforma líder en distribución de tecnología",
+   "quote": "Plataforma líder en distribución de productos de tecnología y soluciones de valor agregado en Latinoamérica y el Caribe",
+   "url": "https://www.intcomex.com/",
    "date": "2026-10-29"
   }
  ],
@@ -45,5 +52,11 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/evidence。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:52:35Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

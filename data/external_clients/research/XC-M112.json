@@ -1,19 +1,28 @@
 {
  "code": "XC-M112",
  "name": "E.V.D.I.",
- "round": "X1-02",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "alive": "在线（evdi.fr，快照 2026-10-29）：EVDI — Distributeur B2B · vidéosurveillance, transmission & câblage",
  "summary": "E.V.D.I. – Environnement Voix Données Image SAS：关键基础设施（核电 / 工业 / 城市 / 军用）视频监控 + 传输 + 布线 B2B 分销，1994 起；ComNet / AMG / KBC / MOBOTIX / Hanwha 授权；Président Laurent Duboc；注",
  "type_final": "分销（ComNet 授权）；E.V.D.I. – Environnement Voix Données Image SAS",
  "size": "",
  "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
  "fit": "○ 关键基础设施视频 / 传输 / 布线 B2B 分销 20%：E.V.D.I. SAS（Malaucène；RCS A",
- "brands_seen": [],
+ "brands_seen": [
+  "ComNet",
+  "Hanwha"
+ ],
  "contacts": {
   "email": "contact@evdi.fr",
   "email_status": "官网 / 名录公开（X1-02 补路径）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "client@exemple.com",
+   "contact@evdi.fr"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "evidence": [
   {
@@ -29,6 +38,13 @@
    "quote": "",
    "url": "https://evdi.fr/mentions-legales",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；EVDI — Distributeur B2B · vidéosurveillance, transmission & câblage",
+   "quote": "Distributeur agréé pour infrastructures critiques (nucléaire, industriel, urbain, militaire). ComNet, AMG, KBC, MOBOTIX, Hanwha Vision. Depuis 1994 — devis sous 24 h.",
+   "url": "https://evdi.fr/",
+   "date": "2026-10-29"
   }
  ],
  "touch_status": "未触达（路径 2026-10-29 新补）",
@@ -40,6 +56,17 @@
   "angle": "已入 P 池 → 按巡检节奏首触"
  },
  "deep": false,
- "notes": "E.V.D.I. – Environnement Voix Données Image SAS；937 Chemin de la Madeleine, 84340 Malaucène；RCS Avignon 399 343 870；SIRET 399 343 870 00040；TVA FR45399343870；资本 €80,000；+33 1 64 56 00 00",
- "draft_en": null
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nE.V.D.I. – Environnement Voix Données Image SAS；937 Chemin de la Madeleine, 84340 Malaucène；RCS Avignon 399 343 870；SIRET 399 343 870 00040；TVA FR45399343870；资本 €80,000；+33 1 64 56 00 00",
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:57:16Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGPM-280W",
+  "why": "官网快照对位：PoE 词频 1、监控 8 → 24 口 PoE L2+ 走量款",
+  "date": "2026-10-29"
+ }
 }

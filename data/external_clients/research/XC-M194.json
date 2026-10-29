@@ -1,9 +1,9 @@
 {
  "code": "XC-M194",
  "name": "Tektraco",
- "round": "X1-02",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "alive": "在线（tektraco.com，快照 2026-10-29）：Tektraco",
  "summary": "Tektraco Ltd.：电信基础设施（GPON / OSP 光纤 / LAN / 测试）+ 实验室 / 医疗气体分销；10–49 人；CEO K. Sciberras ksciberras@（出口名录）",
  "type_final": "分销（Westermo Reseller）；Tektraco Ltd.",
  "size": "",
@@ -13,7 +13,13 @@
  "contacts": {
   "email": "sales@tektraco.com",
   "email_status": "官网 / 名录公开（X1-02 补路径）",
-  "kp": []
+  "kp": [],
+  "page_emails": [],
+  "page_phones": [
+   "+218 092 6606631",
+   "+356 2137 8088"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "evidence": [
   {
@@ -29,6 +35,13 @@
    "quote": "",
    "url": "https://www.tektracotelecoms.com/contact-us",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Tektraco",
+   "quote": "Tektraco is an award-winning project engineering company which provides expertise in specialised fields of science and technology.",
+   "url": "https://tektraco.com/",
+   "date": "2026-10-29"
   }
  ],
  "touch_status": "未触达（路径 2026-10-29 新补）",
@@ -40,6 +53,12 @@
   "angle": "已入 P 池 → 按巡检节奏首触"
  },
  "deep": false,
- "notes": "Tektraco Ltd.；176 Birkirkara Road, San Gwann SGN 4190, Malta；C11363；VAT MT1204-6917；1990 起；+356 21 378 088",
- "draft_en": null
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence。\nTektraco Ltd.；176 Birkirkara Road, San Gwann SGN 4190, Malta；C11363；VAT MT1204-6917；1990 起；+356 21 378 088",
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:57:55Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

@@ -1,9 +1,9 @@
 {
  "code": "XA-M308",
  "name": "A3 Communications",
- "round": "W1-R02",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（cookandboardman.com，快照 2026-10-29）：CBX Solutions",
  "summary": "安防集成商（Cook & Boardman 事业部）；Marvell 接入层生态切入",
  "type_final": "安防集成商（Cook & Boardman 事业部）",
  "size": "未量化",
@@ -19,6 +19,13 @@
    "quote": "",
    "url": "https://cookandboardman.com/",
    "date": "2026-09-27"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；CBX Solutions",
+   "quote": "CBX Solutions brings doors, frames, hardware, security, and network technology together under one coordinated approach, so complex commercial buildings work better from day one through long-term operation. Backed by decades of trust and local experts across a national network, we simplify complexity",
+   "url": "https://www.cbxsolutions.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
@@ -38,7 +45,13 @@
   "window": "",
   "when": "不动"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/evidence。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:47:49Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

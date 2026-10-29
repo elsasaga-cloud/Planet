@@ -1,9 +1,9 @@
 {
  "code": "XA-E010",
  "name": "Hardware Nation",
- "round": "W1-R01",
- "researched_at": "2026-10-27",
- "alive": "官网活（2026-10-26 更新），招 BDR Open Networking",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（hardwarenation.com，快照 2026-10-29）：Engineering, Sourcing, Support | Hardware Nation",
  "summary": "佐治亚 Buford 的开放网络 VAR/经销商（2006 起，11–50 人，$1.8–2M），自述帮 DC 运营商/服务商/企业建「传统与开放网络」，IP Infusion 经销伙伴、Ubiquiti 授权经销商，BBB 认证 19 年。10-19 发创始人 alex@ 未回。",
  "type_final": "开放网络 VAR + 网店（白牌友好）",
  "size": "11–50 人；$1.8–2M（D&B）",
@@ -11,7 +11,11 @@
   "Ubiquiti",
   "IP Infusion (OcNOS)",
   "Edgecore（官方 SI/On-Line 名录）",
-  "open networking / disaggregated"
+  "open networking / disaggregated",
+  "Juniper",
+  "Fortinet",
+  "Aruba",
+  "Extreme"
  ],
  "saga_line": "CENTEC + SmartByte 商用管理型（OEM 贴牌）",
  "fit": "白牌 + 开放网络是他们的卖点，Centec L3 与 Marvell L2+ 都能进；小公司、创始人直达",
@@ -43,6 +47,13 @@
    "quote": "",
    "url": "https://hardwarenation.com/product/ubiquiti-unifi-16-port-poe-switch-usw-16-poe/",
    "date": "2023-06-15"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Engineering, Sourcing, Support | Hardware Nation",
+   "quote": "We build network infrastructure with disaggregated, open, and OEM components, enabling freedom of choice, flexibility, and cost reduction.",
+   "url": "https://hardwarenation.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
@@ -72,6 +83,17 @@
   "subject": "White-box switches under your own label - Centec L3 and Marvell L2+",
   "body": "Hi Alex,\n\nI wrote on 19 October under \"24 Port PoE Managed Switch\"; this is a different angle, so a fresh note rather than a reply.\n\nSince Hardware Nation sells open networking, the more relevant part of what we do is OEM: switches shipped under your label with your UI, no MOQ. Two anchors: STH-2C24XF-HSI (Centec, 24 x 10G SFP+ + 2 x 100G, L3 with BGP/VXLAN, dual PSU) at USD 1,500, and STC-424XGGPM-280W (Marvell, 24 x GE PoE+ 280 W + 4 x 10G SFP+, L2+) at USD 170 - both EXW Shenzhen, snapshot 2026-10-27, valid 15 days, FCC/CE, 12-month warranty.\n\nWhich of the two would be worth a sample on your bench first?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "notes": "",
- "deep": false
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/evidence/site_p1_hint。\n",
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:43:10Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-288GPM",
+  "why": "官网快照对位：工业/自动化词频 4、PoE 4 → DIN 8 PoE+ 2 SFP 起手",
+  "date": "2026-10-29"
+ }
 }

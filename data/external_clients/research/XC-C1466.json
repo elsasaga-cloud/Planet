@@ -1,9 +1,9 @@
 {
  "code": "XC-C1466",
  "name": "Hartford Electronics GmbH（Dortmund PoE摄像头）",
- "round": "X1-02",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "alive": "在线（hartford-electronics.de，快照 2026-10-29）：HARTFORD Electronics – Sensortechnik",
  "summary": "Hartford Electronics GmbH：安防（报警 / 视频监控 / 传感技术）制造 + 分销",
  "type_final": "安防设备制造商/分销商；Hartford Electronics GmbH",
  "size": "",
@@ -29,6 +29,13 @@
    "quote": "",
    "url": "https://play.google.com/store/apps/details?id=com.berview.google.anroid&hl=en_US",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；HARTFORD Electronics – Sensortechnik",
+   "quote": "HARTFORD Electronics – Sensortechnik",
+   "url": "https://hartford-electronics.de/",
+   "date": "2026-10-29"
   }
  ],
  "touch_status": "未触达（路径 2026-10-29 新补）",
@@ -40,6 +47,12 @@
   "angle": "已入 P 池 → 按巡检节奏首触"
  },
  "deep": false,
- "notes": "Hartford Electronics GmbH；Rheinlanddamm 201a, 44139 Dortmund；HRB 28743 Amtsgericht Dortmund；资本 €25,000；+49 231 96349150",
- "draft_en": null
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/evidence。\nHartford Electronics GmbH；Rheinlanddamm 201a, 44139 Dortmund；HRB 28743 Amtsgericht Dortmund；资本 €25,000；+49 231 96349150",
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:55:53Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

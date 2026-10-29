@@ -1,16 +1,18 @@
 {
  "code": "XA-M496",
  "name": "Connect Data",
- "round": "W2-R05c",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（connectdata.fr，快照 2026-10-29）：Distributeur de solutions télécoms & réseaux - Connect Data - Sintel",
  "summary": "电信/网络进口分销（Connect Data – Sintel，Bièvres 91；1981 起，约 20 人，年销约 1,500 万欧，面向运营商/集成商/转售商；Perle/Teltonika/Ruckus 等，含一家台系交换机品牌）；Marvell Prestera 接入层切入",
  "type_final": "电信/网络进口分销（Connect Data – Sintel，Bièvres 91；1981 起，约 20 人，年销约 1,500 万欧，面向运营商/集成商/转售商；Perle/Teltonika/Ruckus 等，含一家台系交换机品牌）",
  "size": "电信/网络进口分销（Connect Data – Sintel，Bièvres 91；1981 起，约 20 人，年销约 1,500 万欧，面向运营商/集成商/转售商；Perle/Teltonika/Ruckus 等，含一家台系交换机品牌）",
  "brands_seen": [
   "Perle Systems（工业 PoE 交换机",
   "媒体转换",
-  "串口设备联网）"
+  "串口设备联网）",
+  "Teltonika",
+  "PLANET"
  ],
  "saga_line": "SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE",
  "fit": "进口分销，交换机品类现成",
@@ -21,12 +23,27 @@
    "quote": "",
    "url": "https://connectdata.fr/",
    "date": "2026-09-27"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Distributeur de solutions télécoms & réseaux - Connect Data - Sintel",
+   "quote": "Connect Data – Distributeur de solutions télécoms et réseaux. Découvrez nos équipements professionnels pour la connectivité, la cybersécurité, la téléphonie IP, la fibre optique et les infrastructures sans fil.",
+   "url": "https://www.connectdata.fr/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "sales@connectdata.fr",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "support@sintel.fr"
+  ],
+  "page_phones": [
+   "+212 6 61 41 67 90",
+   "+33 1 60 13 70 10"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -40,10 +57,21 @@
   "window": "FR 周四 12–14",
   "when": "2026-12-03"
  },
- "notes": "本轮 web_search：connectdata.fr/societe「importation et distribution de solutions pour les Infrastructures Réseaux」「une vingtaine de personnes … CA d'environ 15 millions」。 轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\n本轮 web_search：connectdata.fr/societe「importation et distribution de solutions pour les Infrastructures Réseaux」「une vingtaine de personnes … CA d'environ 15 millions」。 轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "draft_en": {
   "subject": "PoE switch line for your reseller channel - distributor pricing",
   "body": "Hi,\n\nSaga Telecom supplies network and security distributors in Europe and North America with PoE and industrial switches; we are an engineering and supply-chain-first telecom partner, so you deal directly with the people who specify the product.\n\nThree PoE switches our distributor partners move most, all EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE, under our label or yours:\n\n- STC-2224GP: 24 x GE PoE+ (300 W) + 2 x GE + 2 x SFP, USD 86.\n- STC-424XGGPM-280W: 24 x GE PoE+ (280 W) + 4 x 10G SFP+, Marvell-based L2+ managed, USD 170.\n- STI-288DGGPM: DIN-rail industrial L2+, 8 x GE PoE+ (240 W) + 2 x SFP, -40 to +75 C, USD 137, 3-year warranty (12 months on the commercial units).\n\nWho on your product team looks after new networking vendors, and would a sample or a price sheet be the better first step?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "deep": false
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:51:39Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGPM-280W",
+  "why": "官网快照对位：PoE 词频 10、监控 0 → 24 口 PoE L2+ 走量款",
+  "date": "2026-10-29"
+ }
 }

@@ -1,14 +1,15 @@
 {
  "code": "XA-M167",
  "name": "Alfa Systems",
- "round": "W2-R05a",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（alfasystems.be，快照 2026-10-29）：Alfa Systems - The most complete source for network cabling",
  "summary": "工业网络分销（Alfa Systems，Hombeek；Antaira 授权，覆盖卢森堡）；工业/轨道同规格 1/3 价第二供应源",
  "type_final": "工业网络分销（Alfa Systems，Hombeek；Antaira 授权，覆盖卢森堡）",
  "size": "未量化",
  "brands_seen": [
-  "Antaira"
+  "Antaira",
+  "Teltonika"
  ],
  "saga_line": "SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE",
  "fit": "工业交换机品类现成",
@@ -19,12 +20,28 @@
    "quote": "",
    "url": "https://alfasystems.be/",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Alfa Systems - The most complete source for network cabling",
+   "quote": "Starting 2026, all invoices must use Peppol. Contact us at accounting@alfasys.be for details.",
+   "url": "https://alfasystems.be/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@alfasys.be",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "accounting@alfasys.be",
+   "info@alfasys.be"
+  ],
+  "page_phones": [
+   "+32 15 45 11 60",
+   "+32-(0)15 45 11 60"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -38,10 +55,21 @@
   "window": "BE 周四 12–14",
   "when": "2026-11-26"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "draft_en": {
   "subject": "DIN-rail industrial PoE switches - second source for your line card",
   "body": "Hi,\n\nSaga Telecom builds DIN-rail industrial Ethernet switches for distributors who already carry automation and industrial communication brands and want a second source at a lower price point (CE certified).\n\nSTI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.\n\nWould a lower-priced DIN-rail PoE switch be worth a test unit as a second source next to the industrial brands you carry?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "deep": false
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:45:23Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-288GPM",
+  "why": "官网快照对位：工业/自动化词频 24、PoE 50 → DIN 8 PoE+ 2 SFP 起手",
+  "date": "2026-10-29"
+ }
 }

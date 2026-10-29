@@ -1,0 +1,51 @@
+# SC-380 iptime.com · feed_auto · https://iptime.com/rss.xml · fetched 2026-10-29T15:11:51Z · HTTP 200
+Thu, 29 Oct 2026 04:18:07 GMT	[ipTIME 카메라] 가족과 카메라 함께 보기(공유)와 해외에서 사용하기	https://iptime.com/support/faq/27738
+Thu, 29 Oct 2026 04:18:07 GMT	[ipTIME 카메라] 펌웨어 업데이트 방법과 업데이트가 실패할 때	https://iptime.com/support/faq/27737
+Thu, 29 Oct 2026 04:18:07 GMT	[ipTIME 카메라] 이벤트 알림(푸시)이 오지 않을 때	https://iptime.com/support/faq/27736
+Thu, 29 Oct 2026 04:18:07 GMT	[ipTIME 카메라] 낮에도 화면이 흑백이거나 주간·야간 모드가 자주 바뀔 때	https://iptime.com/support/faq/27735
+Thu, 29 Oct 2026 04:18:07 GMT	[ipTIME 카메라] PC에서 CAM Multi 뷰어로 홈캠 보기와 연결이 안 될 때	https://iptime.com/support/faq/27734
+Thu, 29 Oct 2026 02:26:04 GMT	[ipTIME 공유기] 공유기 자동 재시작 설정 방법	https://iptime.com/support/faq/27733
+Thu, 29 Oct 2026 01:01:35 GMT	[ipTIME 공유기] 모바일 설치도우미로 공유기 설치하기	https://iptime.com/support/faq/27732
+Wed, 28 Oct 2026 08:44:57 GMT	[ipTIME 공유기] VPN을 이용한 원격지 게이트웨이 사용하기	https://iptime.com/support/faq/27730
+Wed, 28 Oct 2026 08:44:57 GMT	[ipTIME Extender] Extender와 Easy Mesh의 차이	https://iptime.com/support/faq/27729
+Wed, 28 Oct 2026 08:44:57 GMT	[ipTIME 공유기] 관리자 암호(로그인 암호) 분실 시 해결 방법	https://iptime.com/support/faq/27728
+Wed, 28 Oct 2026 08:22:56 GMT	[펌웨어] ipTIME IP카메라 5종 펌웨어 37.0.177	https://iptime.com/support/downloads/27727
+Wed, 28 Oct 2026 06:30:00 GMT	[스위칭 허브] 스위칭 허브 고르는 법 (포트 수·속도·IGMP)	https://iptime.com/support/faq/27726
+Wed, 28 Oct 2026 06:30:00 GMT	[스위칭 허브] 허브를 연결한 뒤 인터넷이 안 되거나 끊길 때	https://iptime.com/support/faq/27725
+Wed, 28 Oct 2026 06:30:00 GMT	[ipTIME 공유기] 특정 기기의 IP 주소 고정하기 (DHCP 수동 할당)	https://iptime.com/support/faq/27724
+Wed, 28 Oct 2026 06:30:00 GMT	[고객지원] 전원 어댑터 규격 확인과 호환 어댑터 고르기	https://iptime.com/support/faq/27723
+Wed, 28 Oct 2026 06:30:00 GMT	[ipTIME 공유기] 공유기·확장기가 뜨겁거나 소음이 날 때	https://iptime.com/support/faq/27722
+Wed, 28 Oct 2026 06:30:00 GMT	[ipTIME 공유기] 와이파이가 느리거나 자주 끊길 때 확인 순서	https://iptime.com/support/faq/27721
+Wed, 28 Oct 2026 05:25:39 GMT	[ipTIME NAS] 외부에서 NAS(ipDISK 주소)로 접속되지 않을 때	https://iptime.com/support/faq/27720
+Wed, 28 Oct 2026 05:25:39 GMT	[ipTIME 공유기] 관리 화면(192.168.0.1)에 접속되지 않을 때	https://iptime.com/support/faq/27719
+Wed, 28 Oct 2026 05:25:39 GMT	[ipTIME 공유기] 펌웨어 업그레이드가 실패하거나 도중에 멈췄을 때	https://iptime.com/support/faq/27718
+Wed, 28 Oct 2026 04:38:47 GMT	[ipTIME 카메라] 상태 표시등(LED) 색상별 의미와 전원·재부팅 문제 해결	https://iptime.com/support/faq/27717
+Wed, 28 Oct 2026 04:38:47 GMT	[ipTIME 카메라] microSD 카드 녹화 영상 확인·저장·백업 방법	https://iptime.com/support/faq/27716
+Wed, 28 Oct 2026 04:38:47 GMT	[ipTIME 카메라] ipTIME CCTV 앱 카메라 등록이 안 되거나 오프라인일 때	https://iptime.com/support/faq/27715
+Tue, 27 Oct 2026 00:41:27 GMT	ipTIME C400G 공식몰 특가 이벤트!	https://iptime.com/notices/27714
+Tue, 27 Oct 2026 00:02:11 GMT	[ipTIME 공유기] 가성비 좋은 공유기 5종 추천	https://iptime.com/support/faq/27713
+Tue, 27 Oct 2026 00:01:52 GMT	[ipTIME 공유기] 20만원 이상 고성능 공유기 추천	https://iptime.com/support/faq/27712
+Tue, 27 Oct 2026 00:01:03 GMT	[ipTIME 공유기] 10만~20만원대 성능 좋은 공유기 추천	https://iptime.com/support/faq/27711
+Mon, 26 Oct 2026 23:59:52 GMT	[ipTIME 공유기] 10만원 이하 가성비 공유기 추천	https://iptime.com/support/faq/27710
+Mon, 26 Oct 2026 09:49:35 GMT	[ipTIME 공유기] 5만원 이하 와이파이 공유기 추천	https://iptime.com/support/faq/27709
+Mon, 26 Oct 2026 09:36:39 GMT	[ipTIME 공유기] 기기가 많은 집·사무실을 위한 공유기 추천	https://iptime.com/support/faq/27708
+Mon, 26 Oct 2026 09:28:48 GMT	[ipTIME 공유기] 2.5Gbps 인터넷용 공유기 추천	https://iptime.com/support/faq/27707
+Mon, 26 Oct 2026 00:36:25 GMT	[ipTIME 공유기] 초보자를 위한 공유기 설치 가이드	https://iptime.com/support/faq/27706
+Mon, 26 Oct 2026 00:28:16 GMT	[ipTIME 공유기] 복층 집 와이파이 공유기 추천	https://iptime.com/support/faq/27705
+Fri, 23 Oct 2026 08:45:31 GMT	[ipTIME 공유기] 원룸·오피스텔 와이파이 공유기 추천	https://iptime.com/support/faq/27704
+Fri, 23 Oct 2026 08:36:44 GMT	[Easy Mesh] 사용 중인 공유기에 메시 추가 방법	https://iptime.com/support/faq/27703
+Fri, 23 Oct 2026 08:31:52 GMT	[ipTIME 공유기] 기가인터넷(1Gbps) 공유기 추천	https://iptime.com/support/faq/27702
+Fri, 23 Oct 2026 08:19:29 GMT	[ipTIME 공유기] Wi-Fi 6·Wi-Fi 7 공유기 선택 가이드	https://iptime.com/support/faq/27701
+Fri, 23 Oct 2026 07:59:56 GMT	[Easy Mesh] 설정·관리가 쉬운 메시 와이파이 추천	https://iptime.com/support/faq/27700
+Fri, 23 Oct 2026 07:47:33 GMT	[ipTIME 공유기] 사용 환경별 Wi-Fi 7 공유기 추천	https://iptime.com/support/faq/27699
+Fri, 23 Oct 2026 07:43:07 GMT	[ipTIME 공유기] Wi-Fi 6와 Wi-Fi 7 차이 비교	https://iptime.com/support/faq/27698
+Fri, 23 Oct 2026 07:39:53 GMT	[Easy Mesh] 유선 백홀 메시 와이파이 추천 조합	https://iptime.com/support/faq/27697
+Fri, 23 Oct 2026 06:05:10 GMT	[펌웨어] ipTIME NAS400plus/ NAS200plus/ NAS400/ NAS200 펌웨어 1.1.18	https://iptime.com/notices/27696
+Fri, 23 Oct 2026 06:04:52 GMT	[펌웨어] ipTIME NAS4dual/ NAS2plus/ NAS2dual/ NAS1dual 펌웨어 1.6.14	https://iptime.com/notices/27695
+Fri, 23 Oct 2026 05:46:59 GMT	[펌웨어] ipTIME NAS400plus/ NAS200plus/ NAS400/ NAS200 펌웨어 1.1.18	https://iptime.com/support/downloads/27694
+Fri, 23 Oct 2026 05:41:25 GMT	[펌웨어] ipTIME NAS4dual/ NAS2plus/ NAS2dual/ NAS1dual 펌웨어 1.6.14	https://iptime.com/support/downloads/27693
+Fri, 23 Oct 2026 05:24:48 GMT	[ipTIME 공유기] 공유기·스위칭허브에 연결한 IPTV가 끊기거나 나오지 않을 때	https://iptime.com/support/faq/27692
+Fri, 23 Oct 2026 05:17:10 GMT	[ipTIME 공유기] 쓰지 않는 DDNS 삭제, 등록 이메일 변경, 기기 교체 후 같은 주소 다시 쓰기	https://iptime.com/support/faq/27691
+Fri, 23 Oct 2026 05:01:00 GMT	[ipTIME 공유기] DDNS 등록 시 '등록이 차단된 호스트 이름'이 나올 때	https://iptime.com/support/faq/27690
+Fri, 23 Oct 2026 04:56:52 GMT	[고객지원] 납품·인증용 서류(사업자등록증, KC 인증서, 시험성적서 등) 요청 방법	https://iptime.com/support/faq/27689
+Fri, 23 Oct 2026 04:45:38 GMT	[ipTIME 공유기] 펌웨어 다운그레이드 방법	https://iptime.com/support/faq/27688

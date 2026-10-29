@@ -17,7 +17,7 @@
  ],
  "researched_at": "2026-10-29",
  "country_fix": "阿联酋",
- "notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。\nT29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。",
  "override_history": [
   {
    "batch": "LT-01",
@@ -64,6 +64,14 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 油气工业集成 25%：Leap Networks（Abu Dhabi；2012；11–20 人；CEO Muhammad Ashfaq = 表内具名 KP；ISO 9001 / 14001 / 45001；沙特姊妹公司 Leap Networks Arabia）部分坐实（执照未取）；决策人直达 ✔ 工业对位 ✔ → P 池候选；表内沙特 ↔ 总部阿联酋 备注待 Simon",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Telecom Systems Integration UAE | Oil & Gas | Leap Networks — ISO certified telecom systems engineering & integration company in UAE. Specialized in oil & gas, petrochemical industries. Greenfield & brownfield projects.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.leap-networks.ae/"
    }
   ],
   "proof_gaps": [
@@ -72,7 +80,30 @@
  },
  "deep": {
   "done_at": "2026-10-29",
-  "level": "邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓）",
-  "batch": "LT-T01"
+  "level": "邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T01",
+  "snapshot_at": "2026-10-29"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:41:35Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "inquiry@leap-networks.ae"
+  ],
+  "phones": [
+   "+971 2 816 0470"
+  ],
+  "social": [],
+  "models_on_site": [
+   "MPT1327"
+  ],
+  "url": "https://www.leap-networks.ae/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

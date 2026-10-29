@@ -1,9 +1,9 @@
 {
  "code": "XA-M252",
  "name": "VoiceHost Limited",
- "round": "W1-R02",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "快照失败（store.voicehost.co.uk：超时（站慢或封锁），2026-10-29，第 1 次）",
  "summary": "托管 PBX/VoIP 服务商 + 硬件商城（Norwich，工单制）；卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口",
  "type_final": "托管 PBX/VoIP 服务商 + 硬件商城（Norwich，工单制）",
  "size": "未量化",
@@ -38,7 +38,15 @@
   "window": "",
   "when": "不动"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:47:20Z"
+  ],
+  "fails": [
+   "2026-10-29"
+  ]
+ }
 }

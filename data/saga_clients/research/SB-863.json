@@ -2,7 +2,7 @@
  "code": "SB-863",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（cmd-sec.ru：域名不可达（DNS/连接失败），2026-10-21，第 1 次）",
+ "website_status": "在线（cmd-sec.ru，快照 2026-10-29）：CMD оборудование для видеонаблюдения - купить CMD | cmd-sec.ru",
  "summary": "俄罗斯 CMD-sec（安防：自有型号商用 PoE 为主，工业 FS 有 Utepo；官网 unreachable）；表内未跟进。",
  "type": "安防品牌商（俄罗斯，自有型号 PoE）",
  "size": "",
@@ -28,10 +28,11 @@
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/deep/facts。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "company_facts": {
   "hq": "俄罗斯",
@@ -156,6 +157,14 @@
     "quote": "有Utepo的工业FS 主要是商业POE 自己的型号",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "CMD оборудование для видеонаблюдения - купить CMD | cmd-sec.ru — Производство оборудования для видеонаблюдения торговой марки CMD | 8 (800) 555-42-83 Оборудование для видеонаблюдения Cmd Video Security с доставкой по России. Выгодные условия для партнеров.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://cmd-sec.ru/"
    }
   ],
   "proof_gaps": [],
@@ -167,11 +176,40 @@
  },
  "snap_thicken": {
   "consumed": [
-   "2026-10-21T09:49:05Z"
+   "2026-10-21T09:49:05Z",
+   "2026-10-29T15:34:14Z"
   ],
   "fails": [
    "2026-10-21"
   ],
-  "batch": "LT-T03"
+  "batch": "LT-T03",
+  "last_ok": "2026-10-29"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@cmd-sec.ru"
+  ],
+  "phones": [
+   "+7 (966) 240-06-21",
+   "+7 (966) 240-06-21 8 (800) 555-42-83"
+  ],
+  "social": [
+   "https://t.me/cmd_cctv",
+   "https://vk.com/tekocmd",
+   "https://youtube.com/channel/UCiynziB4_roLN0cYyFkqBLQ"
+  ],
+  "models_on_site": [
+   "CMD-NVR122-32",
+   "IP1080-WD2",
+   "CMD-VD74MK",
+   "IP5-WB2",
+   "CMD-HDMI-10M",
+   "CMD-HDMI-3M",
+   "CMD-HDMI-5M",
+   "RJ45-RJ45"
+  ],
+  "url": "https://cmd-sec.ru/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

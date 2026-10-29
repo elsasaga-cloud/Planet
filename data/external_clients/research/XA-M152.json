@@ -1,9 +1,9 @@
 {
  "code": "XA-M152",
  "name": "OEM Automatic spol. s r.o.",
- "round": "W2-R04",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-29 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（oemautomatic.cz，快照 2026-10-29）：OEM Automatic - specialista pro průmyslovou automatizaci - OEM Automatic, spol. s r. o.",
  "summary": "OEM Automatic 集团捷克公司（瑞典上市集团，Antaira 渠道）；卖 N-Tron/Red Lion 工业交换机（8口非网管约 $500+）→ 中性货同规格 STI-280GE（Saga）约 $64（EXW 快照，15 天有效），做第二供应商，价差 5 倍；OEM Automatic 集团捷克分公司 → 一次谈 SE/PL/CZ 三国",
  "type_final": "OEM Automatic 集团捷克公司（瑞典上市集团，Antaira 渠道）",
  "size": "未量化",
@@ -20,12 +20,26 @@
    "quote": "",
    "url": "https://oemautomatic.cz/",
    "date": "2026-09-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；OEM Automatic - specialista pro průmyslovou automatizaci - OEM Automatic, spol. s r. o.",
+   "quote": "OEM Automatic - Prodáváme komponenty pro průmyslovou automatizaci a nabízíme sortiment výrobků, který je svým zaměřením jedinečný.",
+   "url": "https://www.oemautomatic.cz/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@oemautomatic.pl",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [],
+  "page_phones": [
+   "+420 241 484 940",
+   "+420 734 244 815",
+   "+421 332 400 160"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -39,7 +53,13 @@
   "window": "",
   "when": "不动"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:45:11Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

@@ -1,9 +1,9 @@
 {
  "code": "XA-M500",
  "name": "Profcon AB",
- "round": "W2-R05a",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（profcon.se，快照 2026-10-29）：Erbjuder brandspjällstyrning, Panel-PC & industridatorer | Profcon",
  "summary": "Perle 授权分销（Profcon AB，本地备货）；Marvell Prestera 接入层切入",
  "type_final": "Perle 授权分销（Profcon AB，本地备货）",
  "size": "未量化",
@@ -28,12 +28,29 @@
    "quote": "",
    "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Erbjuder brandspjällstyrning, Panel-PC & industridatorer | Profcon",
+   "quote": "Profcon utvecklar driftsäkra lösningar för brandskydd, ventilation och industriell automation genom varumärkena Nova, OnControl och Siox.",
+   "url": "https://www.profcon.se/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@profcon.se",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "adam.andreasen@profcon.se",
+   "fredrik.eriksson@profcon.se",
+   "henrik.hallden@profcon.se",
+   "info@profcon.se",
+   "james.simmonds@profcon.se",
+   "jan.lundberg@profcon.se"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-09-28 群发「24 Port PoE Managed Switch」→ 已发未回",
  "saga_overlap": "无",
@@ -47,10 +64,21 @@
   "window": "SE 周四 12–14",
   "when": "2026-11-26"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "draft_en": {
   "subject": "A second-source DIN-rail PoE switch for your industrial customers",
   "body": "Hi,\n\nI wrote on 28 September about our 24-port PoE L2+ switch ('24 Port PoE Managed Switch'); this is a different angle, so a fresh note rather than a reply.\n\nSTI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.\n\nWould a DIN-rail PoE switch be a sensible addition next to your industrial connectivity range?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "deep": false
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:51:41Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-280GE",
+  "why": "官网快照对位：工业/自动化词频 4、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手",
+  "date": "2026-10-29"
+ }
 }

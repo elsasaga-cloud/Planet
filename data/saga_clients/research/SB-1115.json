@@ -75,7 +75,7 @@
    "source": "https://find-and-update.company-information.service.gov.uk/company/16807798/officers"
   }
  ],
- "notes": "LT-T02 官网实查（2026-10-29）：见 evidence「LT-T02 官网实查」。\n128 City Road EC1V 2NX 是伦敦常见的虚拟注册地址（公司可能无实体仓）；「经销」意向要在首单之后再谈。下一步：不催；等客户项目来时把样品 PI 换成正式单。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：deep/facts。\nLT-T02 官网实查（2026-10-29）：见 evidence「LT-T02 官网实查」。\n128 City Road EC1V 2NX 是伦敦常见的虚拟注册地址（公司可能无实体仓）；「经销」意向要在首单之后再谈。下一步：不催；等客户项目来时把样品 PI 换成正式单。",
  "researched_at": "2026-10-22",
  "saga_fit": {
   "p1": "STC-424XGGPM-280W",
@@ -154,6 +154,14 @@
     "quote": "Quotation STSC-20261017-001, Incoterm DAP: STC-424XGGPM-280W × 2 @ $180 = $360; Freight $150 (about 10 kg volume weight to UK by FedEx air, door-to-door, 4~6 calendar days to local customs); Bank cost $25; TOTAL $535. Payment: Sample full payment by PayPal or T/T; Bulk 50% T/T in advance + 50% before shipment; MoQ 1; label customizable; price validity 15 days; Saga reserves repricing if USD-RMB moves sharply.",
     "why": "$535 的构成：货 $360 + 运 $150 + 银行费 $25；DAP 含出口清关与国际运费、不含英国进口清关与关税；装箱单 1 箱 2 台 G.W 10 kg、53.5×20.5×40.8 cm",
     "k": "Drive Extra Info `Quotation__STSC-20261017-001.xlsx` + `Quotation__PL_STSC-20261017-001.xlsx`"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Index of /",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://millievolution.com/"
    }
   ],
   "proof_gaps": [],
@@ -179,10 +187,18 @@
  ],
  "deep": {
   "done_at": "2026-10-29",
-  "level": "邮件证据 + 官网实查 v1（LT-T02）",
-  "batch": "LT-T02"
+  "level": "邮件证据 + 官网实查 v1（LT-T02） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T02",
+  "snapshot_at": "2026-10-29"
  },
  "risks": [
   "新公司（Companies House 2025-10-24 注册）+ 官网空站（2026-10-29）→ 对外一切以邮件往来与 Companies House 为准；不要在信里引用其官网"
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:26:52Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ }
 }

@@ -1,0 +1,297 @@
+# SC-1691 alfacomp.net · home · https://alfacomp.net/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+Automação Industrial em Porto Alegre | Alfacomp
+Soluções Completas em Automação Industrial
+Fale por WhatsApp
+Automação Industrial
+Comunicação Industrial
+Instrumentação Industrial
+Segmentos e Aplicações
+Soluções de Engenharia
+Institucional
+Quem Somos
+Contato
+Ouvidoria
+ESG
+Parceiros
+Trabalhe Conosco
+Automação Industrial
+Acessórios de Automação e Telemetria
+Dispositivo de proteção contra surtos para canal analógico - SS2701
+DPS seccionador e tomada - SW3300
+Dispositivo de proteção contra surtos para 4 canais analógicos - SS2702
+Iluminador de painel e indicador de porta aberta - SW3301
+Antena omni direcional em 900 MHz com base magnética - AN2405
+Isolador a relé para 4 saídas digitais - Alfacomp 2004
+Isolador a relé para 8 saídas digitais - ID2908
+Antena Omni 2.4 GHz com base magnética - TL-ANT2405C
+Ver todos
+CLP
+Pacotes de automação
+Kits de Aplicação Alfacomp
+Seletor Inteligente de CLP da Alfacomp
+CLP Haiwell Série Standard – Controlador Lógico Programável
+CLP Haiwell Série A – Controlador Lógico Programável
+CLP Haiwell A8 – Controlador Lógico Programável
+Ver todos
+Gateways IOT
+Kits de Aplicação Alfacomp
+TVBOX – Controlador SCADA de Telas e Monitores HDMI
+XBOX – Gateway IoT – Unidade remota de telemetria com IOs digitais
+CBOX – IOT Cloud Box – IHM sem tela com SCADA nativo
+Ver todos
+IHM
+Kits de Aplicação Alfacomp
+IHM Haiwell Série D — Linha Premium
+IHM Haiwell Série A — 7″ a 15″, SmartLink IoT Cloud
+IHM Série F - IP67
+CBOX – IOT Cloud Box – IHM sem tela com SCADA nativo
+Ver todos
+PC Industrial
+PC Industrial Touch Screen – Para Ambientes Industriais Exigentes – IP65
+Ver todos
+Remotas Modbus
+Módulos de Entradas e Saídas Modbus – Expansão Inteligente para sua Automação
+Ver todos
+Smartlink
+Smartlink Haiwell – Plataforma WEB SCADA e IIoT unificada
+TVBOX – Controlador SCADA de Telas e Monitores HDMI
+XBOX – Gateway IoT – Unidade remota de telemetria com IOs digitais
+CBOX – IOT Cloud Box – IHM sem tela com SCADA nativo
+CLP Haiwell A8 – Controlador Lógico Programável
+Ver todos
+Supervisório Scada
+SCADA para a Telemetria do Saneamento com a tecnologia Plug & Play
+Kits de Aplicação Alfacomp
+S100 – Servidor Inteligente Industrial Haiwell
+TVBOX – Controlador SCADA de Telas e Monitores HDMI
+Template Supervisório Haiwell SCADA – Gratuito
+CBOX – IOT Cloud Box – IHM sem tela com SCADA nativo
+Ver todos
+Kits de Aplicação Alfacomp
+Comunicação Industrial
+Conversor de Protocolo
+Conversor HUB Serial Industrial Isolado RS485/RS232/RS422 – CSE485-HUB4
+Conversor HUB Serial Industrial Isolado RS485/RS232/RS422 – CSE485-HUB8
+Conversor de Protocolo Modbus RTU/ASCII para PROFINET – ALFA-PNM02
+Conversor de Protocolo Modbus RTU/ASCII para PROFIBUS-DP – ALFA-DPM01
+Conversor serial RS232 para RS485 - CS485-V
+Conversor de Protocolo CANopen para Modbus TCP – ALFA-CNM01
+Ver todos
+Gateway Serial Ethernet
+Servidor Serial & Gateway Modbus
+Gateway Modbus e Servidor Ethernet conversor RS232 e RS485 - MPORT3101R
+Ver todos
+Rádio de Comando
+Telecomando de bombeamento
+Remota de telemetria - RT304
+Remota de telemetria - RT308
+Telecomando Alfacomp - TC3172
+Ver todos
+Rádio de Dados
+Kits de Aplicação Alfacomp
+P900 – Rádio modem Spread Spectrum em 900 MHz
+RM-SX900 – Rádio modem Spread Spectrum em 900 MHz
+RM2071 – Rádio Modem 2,4 GHz Spread Spectrum
+Kit Enlace de Rádio 2,4 GHz
+RM2060 – Rádio modem Spread Spectrum em 900 MHz (EOL)
+Rádio Modem Industrial 25W XZ-DT25-Hx (Até 80 km)
+Rádio Modem Industrial 8W XZ-DT25-Mx (Até 12 km)
+Ver todos
+Rádio Lorawan
+Rádio modem LoraWan RS485 - RAK7431
+Gateway LoraWan - RAK7289
+Ver todos
+Switch Ethernet Industrial
+Switch Ethernet Industrial Gerenciável CIEN5205C-2F-2D232/485
+Switch Ethernet Industrial CIES316G (16 Portas Gigabit)
+Switch Ethernet Industrial PROFINET CIES308PN (8 Portas Gigabit)
+Switch Ethernet Industrial CIES308 (8 Portas Gigabit)
+Switch Ethernet Industrial CIES305G (5 Portas Gigabit)
+Switch Ethernet Industrial PROFINET CIES208PN (8 Portas Fast Ethernet)
+Switch EtherCAT Industrial CIES206EC (6 Portas Fast Ethernet)
+Switch Ethernet Industrial PROFINET CIES205PN (5 Portas Fast Ethernet)
+Switch Ethernet Industrial CIES205 (5 Portas Fast Ethernet)
+Switch Industrial Gerenciável 24 Portas RJ45 Fast Ethernet Layer 2 para Rack 19” – CISCOM6024
+Ver todos
+Telecomando Alfacomp - TC3172
+Instrumentação Industrial
+Medidores de Nível
+Sensor de nível 4 estágios - ID3018
+Kits de Aplicação Alfacomp
+Medidor de nível por radar para rios 80G FM – Sem display SR-FM80-SD
+Transmissor ultrassônico de nível - TUN21-R
+Transmissor ultrassônico de nível - TUN20
+Transmissor ultrassônico de nível - TUN26
+Transmissor ultrassônico de nível - TUN21-K
+TNH20 – Transmissor de nível hidrostático
+Transmissor de nível radar – FMW-80G
+Transmissor de nível hidrostático - LT1000
+Ver todos
+Medidores de Pressão
+Pressostato eletrônico ajustável - EPT4000
+Transmissor de pressão - TP20
+Ver todos
+Medidores de Vazão
+Transmissor de vazão para calha aberta - TUN2106-DR
+Medidor ultrassônico de vazão - TDS-100F1
+Medidor ultrassônico de vazão portátil - TDS-100H
+Transmissor de vazão eletromagnético - TVE20
+DTI-200H – Medidor de Vazão Ultrassônico Portátil
+Ver todos
+Segmentos e Aplicações
+Automação e Controle na Indústria da Madeira
+Automação e Controle na Indústria do Plástico
+Automação e Instrumentação Industrial para Mineração e Ferro
+Automação e Monitoramento de Energia
+Automação e Telemetria na Agroindústria
+Automação Industrial para Saneamento
+Insensibilizador de Suínos
+Telemetria para Saneamento
+Monitoramento de Nível AlfaLevel
+Soluções de Engenharia
+Consultoria para Automação Industrial
+Engenharia de Sistemas para Automação Industrial
+Insensibilizadores Eletrônicos
+Kit para insensibilizador de suínos
+Insensibilizador Eletrônico de Suínos - IE2002-S
+Insensibilizador Eletrônico de Aves - IE2001
+Registrador eletrônico para rastreabilidade da insensibilização - IE365
+Ver todos
+Painéis de Telemetria
+PT-X — Painel de Automação Industrial customizável
+Ver todos
+CLP e IHM para Fabricantes de Maquinas
+CLP e IHM para Integradores
+Materiais
+Blog
+Suporte
+Cases
+Loja Virtual
+Institucional
+Quem Somos
+Contato
+Ouvidoria
+Políticas ESG
+Parceiros
+Trabalhe Conosco
+Automação Industrial
+Comunicação Industrial
+Instrumentação Industrial
+Segmentos e Aplicações
+Soluções de Engenharia
+Blog
+Suporte
+Cases
+Cidades atendidas
+Loja Virtual
+Previous
+Next
+Faça Seu Orçamento
+ENVIAR
+Nossas Soluções
+Soluções Integradas para Evolução Industrial
+Desenvolvemos sistemas completos de automação industrial, integrando medição, CLP, IHM,
+supervisório e telemetria para controle, monitoramento e modernização de processos industriais.
+01
+Medição
+Sensores e instrumentos para variáveis críticas de processo, com padronização técnica e confiabilidade operacional.
+Saiba mais
+02
+Controle
+CLPs, controladores e lógica estruturada para processos estáveis, previsíveis e escaláveis.
+Saiba mais
+03
+Supervisão
+IHMs e sistemas supervisórios para visualização clara, rastreabilidade e tomada de decisão.
+Saiba mais
+04
+Conectividade
+Integração via Ethernet, Modbus, Profinet, RF ou nuvem para dados acessíveis em tempo real.
+Saiba mais
+05
+Projetos e Retrofit
+Engenharia aplicada para modernização de plantas, expansão de sistemas e arquitetura orientada a crescimento.
+Saiba mais
+Soluções Automação Industrial
+CLP
+IHM
+Supervisório Scada
+Rádio de Dados
+Medidores de Nível
+Todos os Produtos
+CLP
+CLP Haiwell Série Standard – Controlador Lógico Programável
+Solicite Orçamento
+CLP
+CLP Haiwell Série A – Controlador Lógico Programável
+Solicite Orçamento
+Comunicação Industrial
+Conversor de Protocolo CANopen para Modbus TCP – ALFA-CNM01
+Solicite Orçamento
+Conversor de Protocolo
+Conversor de Protocolo Modbus RTU/ASCII para PROFINET – ALFA-PNM02
+Solicite Orçamento
+Conversor de Protocolo
+Conversor serial RS232 para RS485 - CS485-V
+Solicite Orçamento
+Automação Industrial
+Gateway Modbus e Servidor Ethernet conversor RS232 e RS485 - MPORT3101R
+Solicite Orçamento
+Comunicação Industrial
+PC Industrial Touch Screen – Para Ambientes Industriais Exigentes – IP65
+Solicite Orçamento
+Gateway Serial Ethernet
+Servidor Serial & Gateway Modbus
+Solicite Orçamento
+Automação Industrial
+Fonte com bateria - FB2062
+Solicite Orçamento
+Comunicação Industrial
+Fonte carregadora 12V - FC2012
+Solicite Orçamento
+Há mais de 30 anos transformando desafios industriais em soluções de automação.
+Desde 1992, a Alfacomp atua no desenvolvimento e fornecimento de soluções para automação industrial, comunicação, telemetria e engenharia aplicada.
+Mais do que fornecer tecnologia, a Alfacomp entende a aplicação e busca a solução mais adequada para cada projeto — da instrumentação em campo à supervisão e ao controle de processos.
+A trajetória da empresa começou como integradora, e é essa vivência de campo que hoje diferencia a forma como a Alfacomp atua no mercado. Por ter passado pelos mesmos desafios que os integradores enfrentam no dia a dia — prazo, especificação técnica, suporte pós-venda —, a Alfacomp foi além da distribuição de equipamentos: tornou-se um apoio de engenharia para quem está na ponta do projeto, oferecendo suporte técnico real, não apenas catálogo.
+A experiência da Alfacomp reúne engenharia, automação, comunicação industrial e suporte técnico, permitindo desenvolver soluções para monitoramento, controle e operação local ou remota. O time conta com um portfólio completo de tecnologias, incluindo CLPs, IHMs, SCADA, rádios modem, gateways, interfaces, fontes, transmissores, proteção contra surtos e acessórios para comunicação.
+O compromisso da Alfacomp é transformar tecnologia em soluções confiáveis, eficientes e aplicáveis à realidade de cada indústria — ao lado de quem integra essas soluções no campo.
+Política da Qualidade
+Buscar a satisfação do cliente, oferecendo soluções customizadas para automação, telemetria e wireless em aplicações industriais, gerando resultado através do atendimento dos requisitos das partes interessadas e da melhoria contínua.
+Saiba Mais
+Missão
+Desenvolver e fornecer soluções tecnológicas inovadoras em automação industrial, telemetria e comunicação wireless, contribuindo para o desenvolvimento sustentável e o crescimento técnico, pessoal e profissional de nossos colaboradores, clientes e parceiros.
+Visão
+Ser referência nacional em soluções inovadoras em automação, telemetria e comunicação, promovendo o crescimento contínuo e sustentável até 2030 e além.
+Valores
+Transparência
+Excelência
+Comprometimento
+Inovação
+Espírito de equipe
+Proatividade
+Crescimento pessoal e profissional
+Superação de expectativas
+Sustentabilidade e responsabilidade socioambiental
+33+ Anos de Experiência
+Atendimento em Todo Brasil
++5.000 Clientes Satisfeitos
+Parceria e Suporte Técnico
+Reputação 5 Estrelas em Automação Industrial
+Perguntas Frequentes
+Respostas diretas sobre CLPs, IHMs, instrumentação, rádios e soluções Alfacomp.
+01
+Quais linguagens de programação posso utilizar nos CLPs Haiwell?
+Os CLPs Haiwell suportam as linguagens da norma IEC 61131-3 , sendo as principais: LD (Ladder) , FBD (Diagrama de Blocos de Funções) e IL (Lista de Instruções) .
+02
+Onde faço o download dos softwares Haiwell e qual o custo da licença?
+Os softwares de programação — Haiwell Happy para CLPs e Haiwell Cloud SCADA para IHMs — são gratuitos e podem ser baixados diretamente em nosso site.
+03
+Existe limitação de pontos (TAGs) nas IHMs e SCADA da Haiwell?
+As IHMs Haiwell não possuem limite de TAGs por software . O limite é definido apenas pela capacidade de memória física do hardware, sendo recomendado entre 3.000 e 5.000 variáveis declaradas .
+Números mais altos podem causar travamentos na transição de tela ou atrasos na atualização de dados. O desempenho também depende do conteúdo das telas, quantidade de telas e uso de scripts.
+04
+As IHMs Haiwell possuem acesso remoto? Como acesso meus dispositivos remotamente?
+Sim. Através do Haiwell Cloud , você consegue acessar, monitorar e até programar remotamente seus dispositivos via PC, tablet ou smartphone (iOS e Android).
+05
+Quais protocolos de comunicação a Alfacomp trabalha?
+A Alfacomp trabalha com os princi

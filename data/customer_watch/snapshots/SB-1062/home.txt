@@ -1,4 +1,4 @@
-# SB-1062 odoo.com · home · https://www.odoo.com/ · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-1062 odoo.com · home · https://www.odoo.com/ · fetched 2026-10-29T15:11:51Z · HTTP 200
 Open Source ERP and CRM | Odoo
 Skip to Content
 Odoo
@@ -180,8 +180,8 @@ Micro entreprise (1-5 employés) - Français
 Petite entreprise (6-50 employés) - Français
 Empresas Pequeñas (<50 empleados) - Español
 Large company (250+ employees)
-CRM & Sales Academy - Buffalo, NY
-Nov 12, 2026
+Inventory Academy - San Francisco, CA
+Nov 18, 2026
 Register ⟶
 Accounting
 Knowledge

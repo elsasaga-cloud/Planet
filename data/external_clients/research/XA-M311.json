@@ -1,14 +1,15 @@
 {
  "code": "XA-M311",
  "name": "Gemellaro Systems Integration (GSI)",
- "round": "W1-R02",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（securityandnetworks.com，快照 2026-10-29）：Gemellaro Systems Integration (GSI)",
  "summary": "安防/网络集成商；Marvell 接入层生态切入",
  "type_final": "安防/网络集成商",
  "size": "未量化",
  "brands_seen": [
-  "Allied Telesis（Marvell Prestera 接入层）"
+  "Allied Telesis（Marvell Prestera 接入层）",
+  "Ubiquiti"
  ],
  "saga_line": "—",
  "fit": "",
@@ -26,6 +27,13 @@
    "quote": "",
    "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
    "date": "2026-09-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Gemellaro Systems Integration (GSI)",
+   "quote": "Gemellaro Systems Integration (GSI) is a proven leader in developing hi-level physical security and network infrastructure nationally for over 30 years.",
+   "url": "https://securityandnetworks.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
@@ -45,7 +53,18 @@
   "window": "",
   "when": "不动"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/evidence/site_p1_hint。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:48:11Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-280GE",
+  "why": "官网快照对位：工业/自动化词频 7、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手",
+  "date": "2026-10-29"
+ }
 }

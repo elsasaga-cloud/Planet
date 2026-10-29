@@ -1,7 +1,7 @@
 {
  "code": "SB-1113",
  "name_official": "Fastball",
- "website_status": "",
+ "website_status": "在线（fastball.in，快照 2026-10-29）：Fastball",
  "summary": "已成单 1 次（STSC20231009002，2023-10-09）；Simon 文件夹标签 gg（已凉）；详见 research/SB-1113.json",
  "type": "经销/贸易（德里）",
  "size": "",
@@ -52,7 +52,7 @@
    "source": "PI.zip 单据"
   }
  ],
- "notes": "",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/deep/facts。\n",
  "researched_at": "2026-10-22",
  "deal_pi": {
   "folder": "2 印度 Rishi gg",
@@ -90,7 +90,8 @@
  },
  "deep": {
   "done_at": "2026-10-23",
-  "level": "公开平台核查（T29-U18，针对性：只核活跃平台与触达通道）"
+  "level": "公开平台核查（T29-U18，针对性：只核活跃平台与触达通道） + 官网快照（LT-T03 2026-10-29）",
+  "snapshot_at": "2026-10-29"
  },
  "mail_review": {
   "binding": {
@@ -186,6 +187,14 @@
     "quote": "Commercial Rack: STC-4168XGGCM / STC-4816XGCGM / STC-4816XGCGPM / STC-424XGGM / STC-424XGGPM / STC-448XGGM / STC-448XGGPM / STC-448XGGM-AF… Industrial Rack: STI-448XGGM / STI-4168XGGCM…；Title_Reference：「5 port unmanaged Ethernet switch / 8 port 10/100M lan switch / … / 27 port hybrid rate poe switch…」共 30+ 条电商式标题",
     "why": "Saga 给 Rishi 的是「机架型号清单 + 电商标题参考」——Fastball 在印度做线上/分销铺货，要的是可直接上架的标题与型号树；这份清单也是 Saga 现成的 IndiaMART/Amazon 文案底稿",
     "k": "pi_doc"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Fastball — Authorised National Distributor of India",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://fastball.in/"
    }
   ],
   "proof_gaps": [],
@@ -199,5 +208,33 @@
   "legal_name": "Fastball（Fastball Telecom & Networking；个体经营 Rishi Kumar Bansal；GSTIN 07AJJPR5445G1ZX；A-47/A, Gali No. 4, Main Shukra Bazar Road, Ashok Nagar, Delhi 110093；≤10 人；Signal Fire 熔接机印度独家进口）",
   "founded": "2016（GST 2021）（第 114 批 官方登记核实 2026-10-28）",
   "other": "第 114 批：个体 FTTH 工具 / 光配线分销，成单 1 次（STSC20231009002）后已凉 → **不动（B 保留；复购自来按老价 + T/T）**（第 114 批 官方登记核实 2026-10-28）"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:31:58Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "office@fastball.com"
+  ],
+  "phones": [
+   "+91 98109 87870",
+   "+91-9355 075 075",
+   "+91-9871 753 979"
+  ],
+  "social": [
+   "https://wa.me/919355075075?text=Hi%20there!%20I%20am%20interested%20in%20your%20services."
+  ],
+  "models_on_site": [
+   "UDYAM-DL-05-0014783",
+   "AJJPR5445G",
+   "AI-7C"
+  ],
+  "url": "https://fastball.in/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

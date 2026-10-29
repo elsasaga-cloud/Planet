@@ -1,13 +1,18 @@
 {
  "code": "XC-C0002",
  "name": "Security Warehouse",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 securitywarehouse.co.za MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（securitywarehouse.co.za，快照 2026-10-29）：Security Equipment Suppliers South Africa | CCTV, Access Control & Alarms",
  "summary": "Security Warehouse（南非）：安防设备分销商；公司全称=Security Warehouse",
  "type_final": "安防设备分销商",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Dahua",
+  "ZKTeco",
+  "Paradox",
+  "Netgear"
+ ],
  "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
  "fit": "",
  "evidence": [
@@ -17,12 +22,30 @@
    "quote": "",
    "url": "https://securitywarehouse.co.za",
    "date": "2026-09"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Security Equipment Suppliers South Africa | CCTV, Access Control & Alarms",
+   "quote": "South Africas leading security equipment distributor. CCTV, access control, alarm systems, gate automation & electric fencing. 4 Gauteng branches. Trade enquiries welcome.",
+   "url": "https://securitywarehouse.co.za/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@securitywarehouse.co.za",
   "email_status": "活（来源库 9 月核对）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "info@securitywarehouse.co.za"
+  ],
+  "page_phones": [
+   "+27 (0)10 745 4300",
+   "+27 (0)11 608 2309",
+   "+27 (0)11 791 5563",
+   "+27 (0)11 823 2054",
+   "+27 (0)12 653 1005"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "Saga SC-382（securitywarehouse.co.za）随主档",
@@ -38,5 +61,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:55:39Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-288GPM",
+  "why": "官网快照对位：工业/自动化词频 5、PoE 56 → DIN 8 PoE+ 2 SFP 起手",
+  "date": "2026-10-29"
+ }
 }

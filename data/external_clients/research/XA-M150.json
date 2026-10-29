@@ -1,14 +1,15 @@
 {
  "code": "XA-M150",
  "name": "ATEsystem s.r.o.",
- "round": "W2-R04",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（atesystem.cz，快照 2026-10-29）：Specialisté na strojové vidění | ATEsystem",
  "summary": "工业分销（ATEsystem，Ostrava，Antaira 授权）；工业/轨道同规格 1/3 价第二供应源",
  "type_final": "工业分销（ATEsystem，Ostrava，Antaira 授权）",
  "size": "未量化",
  "brands_seen": [
-  "Antaira"
+  "Antaira",
+  "Schneider"
  ],
  "saga_line": "SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE",
  "fit": "工业交换机品类现成",
@@ -26,12 +27,34 @@
    "quote": "",
    "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
    "date": "2026-10-09"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Specialisté na strojové vidění | ATEsystem",
+   "quote": "Jsme specialisté na automatické testování, kamerové inspekce a dodávky komponent kamerových systémů.",
+   "url": "https://www.atesystem.cz/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "atesystem@atesystem.cz",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "atesystem@atesystem.cz",
+   "filip.volny@atesystem.cz",
+   "jan.durcak@atesystem.cz",
+   "kamery@atesystem.cz",
+   "miloslav.holba@atesystem.cz"
+  ],
+  "page_phones": [
+   "+420 595 170 472",
+   "+420 595 172 720",
+   "+420 604 288 694",
+   "+420 731 506 325",
+   "+420 733 129 907"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-09 群发「24 Port PoE Managed Switch」→ 已发未回",
  "saga_overlap": "无",
@@ -45,10 +68,21 @@
   "window": "CZ 周四 12–14",
   "when": "2026-11-12"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "draft_en": {
   "subject": "A second-source DIN-rail PoE switch for your industrial customers",
   "body": "Hi,\n\nI wrote on 9 October about our 24-port PoE L2+ switch ('24 Port PoE Managed Switch'); this is a different angle, so a fresh note rather than a reply.\n\nSTI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.\n\nWould a second-source DIN-rail PoE switch be worth a test unit in your lab?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "deep": false
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:45:11Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-28DGGPM",
+  "why": "官网快照对位：PoE 词频 1 → 8 口 PoE+ 2 SFP L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

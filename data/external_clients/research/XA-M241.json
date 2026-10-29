@@ -1,9 +1,9 @@
 {
  "code": "XA-M241",
  "name": "IVORY EGG (UK) LIMITED",
- "round": "W1-R02",
- "researched_at": "2026-10-27",
- "alive": "本轮 web_search 复核在线（2026-10-27）",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（ivoryegg.co.uk，快照 2026-10-29）：Ivory Egg United Kingdom | Building Intelligence",
  "summary": "KNX/楼宇自动化技术分销（Nottingham/West Sussex，11–50 人，KNX 培训中心）；卖 N-Tron/Red Lion 工业交换机（8口非网管约 $500+）→ 中性货同规格 STI-280GE（Saga）约 $64（EXW 快照，15 天有效），做第二供应商/替换，价差 5 倍",
  "type_final": "KNX/楼宇自动化技术分销（Nottingham/West Sussex，11–50 人，KNX 培训中心）",
  "size": "KNX/楼宇自动化技术分销（Nottingham/West Sussex，11–50 人，KNX 培训中心）",
@@ -29,12 +29,26 @@
    "quote": "",
    "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
    "date": "2026-10-10"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Ivory Egg United Kingdom | Building Intelligence",
+   "quote": "Shop online for KNX products, components and training from Ivory Egg, specialists in all KNX control products for intelligent buildings.",
+   "url": "https://ivoryegg.co.uk/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@ivoryegg.co",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "info@ivoryegg.co.uk"
+  ],
+  "page_phones": [
+   "+44 (0) 3333 079 100"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-10 群发「24 Port PoE Managed Switch」→ 已发未回",
  "saga_overlap": "无",
@@ -48,10 +62,21 @@
   "window": "GB 周四 12–14 当地",
   "when": "2026-11-12"
  },
- "notes": "本轮 web_search 复核：ivoryegg.co.uk/about「technical distributor of the world's best building technologies… supply to trade installers」。 ",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\n本轮 web_search 复核：ivoryegg.co.uk/about「technical distributor of the world's best building technologies… supply to trade installers」。 ",
  "draft_en": {
   "subject": "A second-source DIN-rail PoE switch for your industrial customers",
   "body": "Hi,\n\nI wrote on 10 October about our 24-port PoE L2+ switch ('24 Port PoE Managed Switch'); this is a different product line, so a fresh note rather than a reply.\n\nSTI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), UKCA/CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.\n\nDo your KNX installers ask you for DIN-rail PoE switches for the cabinet, or do they source those elsewhere?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "deep": false
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:47:13Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-28DGGPM",
+  "why": "官网快照对位：交换机词频 188、无 PoE/工业侧重 → 8 口 L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

@@ -1,14 +1,19 @@
 {
  "code": "XC-M049",
  "name": "Streakwave",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 streakwave.com MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（streakwave.com，快照 2026-10-29）：Streakwave Wireless",
  "summary": "Streakwave（美国 · CA（另有 UT、OH））：分销（MikroTik 官方）；MikroTik（Master）",
  "type_final": "分销（MikroTik 官方）",
  "size": "",
  "brands_seen": [
-  "MikroTik"
+  "MikroTik",
+  "Ubiquiti",
+  "Grandstream",
+  "Cambium",
+  "Milesight",
+  "Teltonika"
  ],
  "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
  "fit": "",
@@ -19,6 +24,13 @@
    "quote": "",
    "url": "https://streakwave.com",
    "date": "2026-10-12"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Streakwave Wireless",
+   "quote": "Streakwave Wireless, Inc. is a global value added distributor with sales and distribution facilities in: San Jose, CA (headquarters); Salt Lake City, UT; Cincinnati, OH; Hong Kong, Melbourne, Australia and Canterbury, New Zealand. Streakwave offers complete lines of wireless broadband networking equ",
+   "url": "https://www.streakwave.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
@@ -40,5 +52,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:56:58Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-288GPM",
+  "why": "官网快照对位：工业/自动化词频 12、PoE 188 → DIN 8 PoE+ 2 SFP 起手",
+  "date": "2026-10-29"
+ }
 }

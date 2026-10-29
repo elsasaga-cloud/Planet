@@ -1,4 +1,4 @@
-# SB-605 Elkov Elektro · sitemap · https://www.elkov.cz/sitemap.xml · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-605 Elkov Elektro · sitemap · https://www.elkov.cz/sitemap.xml · fetched 2026-10-29T15:11:51Z · HTTP 200
 2026-08-17T10:57:21.3954005+02:00	https://www.elkov.cz/probihajici-akce
 2026-07-31T12:25:09.2485708+02:00	https://www.elkov.cz/prodejni-akce/8-2-obo-krabic-a8-a-a11-bez-svorek
 2026-07-31T12:20:39.8966333+02:00	https://www.elkov.cz/prodejni-akce/abb-naradi

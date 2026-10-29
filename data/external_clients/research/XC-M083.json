@@ -1,19 +1,28 @@
 {
  "code": "XC-M083",
  "name": "Aspect",
- "round": "X1-02",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "alive": "在线（aspect.com.mk，快照 2026-10-29）：Aspect | Your best solution.",
  "summary": "Aspect（Skopje）：自动化方案 / 计算机设备分销（Westermo Reseller）；20–49 人 / 营收 $1–5M（ZoomInfo）；法人全名待补",
  "type_final": "分销（Westermo Reseller）；Aspect（Skopje）",
  "size": "",
  "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
  "fit": "☆ 自动化方案 / 计算机设备分销 20%：Aspect（Skopje Orce Nikolov 190/3-1；20–",
- "brands_seen": [],
+ "brands_seen": [
+  "Ubiquiti"
+ ],
  "contacts": {
   "email": "office@aspect.com.mk",
   "email_status": "官网 / 名录公开（X1-02 补路径）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "office@aspect.com.mk"
+  ],
+  "page_phones": [
+   "+389 23 233 777"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "evidence": [
   {
@@ -36,6 +45,13 @@
    "quote": "",
    "url": "https://www.companywall.com.mk/kompanija/%D0%B0%D1%81%D0%BF%D0%B5%D0%BA%D1%82-%D0%B4%D0%BE%D0%BE-%D1%81%D0%BA%D0%BE%D0%BF%D1%98%D0%B5/MMAY9YT0",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Aspect | Your best solution.",
+   "quote": "Transform your operations with cutting-edge warehouse automation, mobile terminals, barcode scanners, and SCADA systems. Expert solutions for logistics, manufacturing, and distribution.",
+   "url": "https://aspect.com.mk/",
+   "date": "2026-10-29"
   }
  ],
  "touch_status": "未触达（路径 2026-10-29 新补）",
@@ -47,6 +63,17 @@
   "angle": "观察档 → 试单后转正"
  },
  "deep": false,
- "notes": "Aspect（Skopje）；Orce Nikolov 190/3-1, 1000 Skopje；+389 2 3233 777",
- "draft_en": null
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nAspect（Skopje）；Orce Nikolov 190/3-1, 1000 Skopje；+389 2 3233 777",
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:56:58Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-280GE",
+  "why": "官网快照对位：工业/自动化词频 17、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手",
+  "date": "2026-10-29"
+ }
 }

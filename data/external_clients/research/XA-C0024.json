@@ -1,9 +1,9 @@
 {
  "code": "XA-C0024",
  "name": "Bluechip Computer AG",
- "round": "W1-R01",
- "researched_at": "2026-10-27",
- "alive": "活（轻卡：未外查）",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（bluechip.de，快照 2026-10-29）：Home",
  "summary": "Meuselwitz 的全品类 IT 分销商 + 自有品牌 PC/服务器厂（德国 Top-10——据公开常识，待补证）。同 KOSATEC：大广线，不走直邮。",
  "type_final": "全品类 IT 分销商 + 自有品牌（大）",
  "size": "待补证",
@@ -19,11 +19,30 @@
    "quote": "",
    "url": "External Clients/CCTV-PoE/A/XA-C0024",
    "date": "2026-10-27"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Home",
+   "quote": "Home",
+   "url": "https://www.bluechip.de/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@bluechip.de",
-  "email_status": "公开"
+  "email_status": "公开",
+  "page_emails": [
+   "ausschreibungen@bluechip.de",
+   "consulting@bluechip.de",
+   "info@bluechip.de",
+   "mmustermann@bluechip.de",
+   "neukunde@bluechip.de",
+   "serversupport@bluechip.de"
+  ],
+  "page_phones": [
+   "+49 3448 755 190"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "未发信",
  "saga_overlap": "无",
@@ -37,7 +56,18 @@
   "window": "",
   "when": ""
  },
- "notes": "轻卡。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\n轻卡。",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:42:43Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGM",
+  "why": "官网快照对位：10G/2.5G 词频 75、交换机 97 → 24 GE + 4×10G L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

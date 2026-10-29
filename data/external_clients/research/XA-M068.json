@@ -1,14 +1,25 @@
 {
  "code": "XA-M068",
  "name": "ASAP",
- "round": "W2-R05d",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（asap.bg，快照 2026-10-29）：ASAP – Разработка на софтуер, системна интеграция и технологично обучение | ASAP.BG",
  "summary": "IT 分销（ASAP，Sofia；MikroTik 官方分销）；卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口",
  "type_final": "IT 分销（ASAP，Sofia；MikroTik 官方分销）",
  "size": "未量化",
  "brands_seen": [
-  "MikroTik（Reseller）"
+  "MikroTik（Reseller）",
+  "MikroTik",
+  "Aruba",
+  "Huawei",
+  "Allied Telesis",
+  "TP-Link",
+  "Fortinet",
+  "Ubiquiti",
+  "Hikvision",
+  "Dahua",
+  "Juniper",
+  "Extreme"
  ],
  "saga_line": "SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE",
  "fit": "IT/网络分销",
@@ -26,6 +37,13 @@
    "quote": "",
    "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
    "date": "2026-10-08"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；ASAP – Разработка на софтуер, системна интеграция и технологично обучение | ASAP.BG",
+   "quote": "ASAP е софтуерна компания и системен интегратор в България. Предлагаме разработка на софтуер, SAP обучения, системна интеграция, IT инфраструктура, VPN решения и поддръжка на мрежи, сървъри и компютри.",
+   "url": "https://www.asap.bg/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
@@ -45,10 +63,21 @@
   "window": "BG 周四 12–14",
   "when": "2026-12-10"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/evidence/site_p1_hint。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "draft_en": {
   "subject": "PoE switch line for your reseller channel - distributor pricing",
   "body": "Hi,\n\nI wrote on 8 October about our 24-port PoE L2+ switch ('24 Port PoE Managed Switch'); this is a different angle, so a fresh note rather than a reply.\n\nThree PoE switches our distributor partners move most, all EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE, under our label or yours:\n\n- STC-2224GP: 24 x GE PoE+ (300 W) + 2 x GE + 2 x SFP, USD 86.\n- STC-424XGGPM-280W: 24 x GE PoE+ (280 W) + 4 x 10G SFP+, Marvell-based L2+ managed, USD 170.\n- STI-288DGGPM: DIN-rail industrial L2+, 8 x GE PoE+ (240 W) + 2 x SFP, -40 to +75 C, USD 137, 3-year warranty (12 months on the commercial units).\n\nWho on your product team looks after new networking vendors, and would a sample or a price sheet be the better first step?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "deep": false
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:43:26Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-28DGGPM",
+  "why": "官网快照对位：交换机词频 8、无 PoE/工业侧重 → 8 口 L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

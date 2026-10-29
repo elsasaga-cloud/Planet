@@ -1,13 +1,15 @@
 {
  "code": "XB-C1188",
  "name": "Pinnacle Computer Systems LLC",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 pinnacledxb.com MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（pinnacledxb.com，快照 2026-10-29）：IT Solutions Dubai | Since 1995 | Pinnacle",
  "summary": "Pinnacle Computer Systems LLC（阿联酋）：结构化布线/数据中心/安防；公司全称=Pinnacle Computer Systems LLC；公司类型=结构化布线/数据中心/安防；总部=Office 204, Al Khaleej Building, Al Karama, Dubai, UAE；客户优先级=🟡 B类（布线+数据中心+CCTV，需PoE交换机）",
  "type_final": "结构化布线/数据中心/安防",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Ubiquiti"
+ ],
  "saga_line": "STC 项目集成款（25% 档：STC-2216GP / STC-228GP）",
  "fit": "",
  "evidence": [
@@ -24,12 +26,30 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；IT Solutions Dubai | Since 1995 | Pinnacle",
+   "quote": "Pinnacle is a Dubai IT company for SAP ERP, managed IT, cybersecurity, cloud and IT infrastructure. 30+ years and 2,000+ UAE businesses served. Talk to us.",
+   "url": "https://pinnacledxb.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "sales@pinnacledxb.com",
   "email_status": "活（来源库 9 月核对）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "careers@pinnacledxb.com",
+   "info@pinnacledxb.com",
+   "rohit@email.sapnagroup.net",
+   "sales@pinnacledxb.com"
+  ],
+  "page_phones": [
+   "+971 55 6057400",
+   "+971-4-335 0053"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -45,5 +65,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:53:16Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-280GE",
+  "why": "官网快照对位：工业/自动化词频 5、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手",
+  "date": "2026-10-29"
+ }
 }

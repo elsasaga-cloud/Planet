@@ -1,14 +1,25 @@
 {
  "code": "XA-M250",
  "name": "Switch SFP",
- "round": "W1-R02",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（switchsfp.com，快照 2026-10-29）：Switch SFP 100% Reliable Compatible Optical Transceivers — Switch SFP Ltd",
  "summary": "光模块/交换机专业供应商（Antaira 授权）；同价位替代",
  "type_final": "光模块/交换机专业供应商（Antaira 授权）",
  "size": "未量化",
  "brands_seen": [
-  "Antaira"
+  "Antaira",
+  "Cisco",
+  "Aruba",
+  "Juniper",
+  "Allied Telesis",
+  "MikroTik",
+  "Hikvision",
+  "Moxa",
+  "Hirschmann",
+  "Netgear",
+  "D-Link",
+  "Zyxel"
  ],
  "saga_line": "SmartByte 商用 L2+（已发/首触）+ Saga STI 工业 L2+ PoE 补位",
  "fit": "交换机 + 光模块专类",
@@ -19,12 +30,27 @@
    "quote": "",
    "url": "https://switchsfp.com/",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Switch SFP 100% Reliable Compatible Optical Transceivers — Switch SFP Ltd",
+   "quote": "With 100% reliable quality, quick lead-time and great post-sale service. All supported from UK stock with UK support alongside next day or urgent same day delivery. We aim to build mutually beneficial relationships with our customers by understanding their needs and providing solutions to exceed the",
+   "url": "https://switchsfp.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "sales@switchsfp.com",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "example@gmail.com",
+   "rob@switchsfp.com",
+   "sales@switchsfp.com",
+   "shop@switch-sfp.myshopify.com"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -38,10 +64,21 @@
   "window": "GB 周四 12–14 当地",
   "when": "2026-11-12"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "draft_en": {
   "subject": "DIN-rail industrial PoE switches - second source for your line card",
   "body": "Hi,\n\nSaga Telecom builds DIN-rail industrial Ethernet switches for distributors who already carry automation and industrial communication brands and want a second source at a lower price point, UKCA/CE.\n\nSTI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), UKCA/CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.\n\nWould a DIN-rail PoE switch fit next to your industrial switch range, or is your demand mostly optics?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "deep": false
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:47:19Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-288GPM",
+  "why": "官网快照对位：工业/自动化词频 226、PoE 55 → DIN 8 PoE+ 2 SFP 起手",
+  "date": "2026-10-29"
+ }
 }

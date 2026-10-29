@@ -1,19 +1,35 @@
 {
  "code": "XC-M087",
  "name": "NETAP",
- "round": "X1-02",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "alive": "在线（netap.gr，快照 2026-10-29）：NetAP",
  "summary": "Χ. Β. Τσακαρέλος & ΣΙΑ Ε.Ε.（C. V. TSAKARELOS & CO. L.P. / NetAP）：希腊 + 塞浦路斯网络 / 自动化 / 保护系统分销 + 技术支持（Westermo Reseller；R. STAHL 名录）；合伙企业（Ε.Ε.），微型",
  "type_final": "分销（Westermo Reseller）；Χ. Β. Τσακαρέλος & ΣΙΑ Ε.Ε.（C. V. TSAKARELOS & CO. L.P. / NetAP）",
  "size": "",
  "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
  "fit": "☆ 网络 / 自动化 / 保护系统分销 + 技术支持 20%：Χ. Β. Τσακαρέλος & ΣΙΑ Ε.Ε.（G",
- "brands_seen": [],
+ "brands_seen": [
+  "Westermo",
+  "ORing",
+  "Antaira",
+  "Moxa"
+ ],
  "contacts": {
   "email": "info@netap.gr",
   "email_status": "官网 / 名录公开（X1-02 补路径）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "info@netap.gr",
+   "netap.sales@gmail.com",
+   "support@netap.gr"
+  ],
+  "page_phones": [
+   "+30 2102433383",
+   "0030 2102433383",
+   "0030 2102435073"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "evidence": [
   {
@@ -36,6 +52,13 @@
    "quote": "",
    "url": "https://www.netap.gr/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；NetAP",
+   "quote": "NetAP distributes and offers technical support for products and networking , automation and protection systems both in Greek and in Cyprian market.",
+   "url": "https://www.netap.gr/",
+   "date": "2026-10-29"
   }
  ],
  "touch_status": "未触达（路径 2026-10-29 新补）",
@@ -47,6 +70,17 @@
   "angle": "观察档 → 试单后转正"
  },
  "deep": false,
- "notes": "Χ. Β. Τσακαρέλος & ΣΙΑ Ε.Ε.（C. V. TSAKARELOS & CO. L.P. / NetAP）；6 Selefkou, 13676 Thrakomakedones, Athens；+30 210 243 3383",
- "draft_en": null
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nΧ. Β. Τσακαρέλος & ΣΙΑ Ε.Ε.（C. V. TSAKARELOS & CO. L.P. / NetAP）；6 Selefkou, 13676 Thrakomakedones, Athens；+30 210 243 3383",
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:56:58Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-280GE",
+  "why": "官网快照对位：工业/自动化词频 9、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手",
+  "date": "2026-10-29"
+ }
 }

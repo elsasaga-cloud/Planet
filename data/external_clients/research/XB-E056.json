@@ -1,9 +1,9 @@
 {
  "code": "XB-E056",
  "name": "STN Infotech Co., Ltd.",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 stninfotech.com MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（stninfotech.com，快照 2026-10-29）：YEST Co., Ltd.",
  "summary": "STN Infotech Co., Ltd.（韩国 · Gwacheon）：分销商",
  "type_final": "分销商",
  "size": "",
@@ -38,6 +38,13 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；YEST Co., Ltd.",
+   "quote": "YEST Co., Ltd. - A specialized manufacturer of thermal processing equipment for semiconductor and display fabrication. Operating Semiconductor, Display, and Hydrogen business divisions.",
+   "url": "https://stninfotech.com/en/index.asp",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
@@ -49,7 +56,14 @@
     "role": "su）、김동일（Kim Dong-il），共同代表理事",
     "source": "来源库 KP 段"
    }
-  ]
+  ],
+  "page_emails": [
+   "yest@yest.co.kr"
+  ],
+  "page_phones": [
+   "+82-31-612-3333"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-21 去信 1 / 来信 0（24 Port PoE Managed Switch）",
  "saga_overlap": "无",
@@ -65,5 +79,11 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:54:40Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

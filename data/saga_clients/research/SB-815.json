@@ -2,7 +2,7 @@
  "code": "SB-815",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（lendoux.com：停放/空站（疑停业或仅占位），2026-10-21，第 1 次）",
+ "website_status": "快照失败（lendoux.com：停放/空站（疑停业或仅占位），2026-10-29，第 2 次）",
  "summary": "加拿大 Lendoux Specialized Store（数据中心设备、电信网络、安防系统与工业仪表的多品牌专业商店；表内「也有光路的工业 FS」；KP Rasel Haddadi（CEO，未显示邮箱）；快照 parked_or_empty）；表内未跟进。",
  "type": "多品牌 IT/工业设备商店（加拿大，工业 FS 现光路）",
  "size": "",
@@ -44,7 +44,7 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
@@ -128,10 +128,12 @@
  },
  "snap_thicken": {
   "consumed": [
-   "2026-10-21T09:48:02Z"
+   "2026-10-21T09:48:02Z",
+   "2026-10-29T15:34:14Z"
   ],
   "fails": [
-   "2026-10-21"
+   "2026-10-21",
+   "2026-10-29"
   ],
   "batch": "LT-T03"
  }

@@ -1,9 +1,9 @@
 {
  "code": "XB-C0298",
  "name": "Colombo CCTV / Advanced Digital Technology",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 camera.lk MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（camera.lk，快照 2026-10-29）：Best hikvision cctv security solution cameras & dvr shop in colombo",
  "summary": "Colombo CCTV / Advanced Digital Technology（斯里兰卡）：Hikvision授权分销商（斯里兰卡最大）；总部=No. 408, Galle Road, Wellawatta, Colombo-06",
  "type_final": "Hikvision授权分销商（斯里兰卡最大）",
  "size": "",
@@ -26,12 +26,29 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Best hikvision cctv security solution cameras & dvr shop in colombo",
+   "quote": "Advance digital technology-Colombo cctv Sri lanka-Security Camera Sri lanka-cctv Camera Srilanka-hikvision System Sri lanka-hivision cctv camera-hikvision dealers",
+   "url": "https://www.camera.lk/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@camera.lk",
   "email_status": "活（来源库 9 月核对）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "1@dvr.lk",
+   "info@camera.lk",
+   "info@colombocctv.com",
+   "manoj@camera.lk",
+   "pradeep@camera.lk",
+   "service@camera.lk"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -47,5 +64,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:52:30Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-28DGGPM",
+  "why": "官网快照对位：交换机词频 14、无 PoE/工业侧重 → 8 口 L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

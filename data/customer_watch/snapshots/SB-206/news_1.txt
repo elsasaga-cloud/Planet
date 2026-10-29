@@ -1,5 +1,6 @@
-# SB-206 brainboxes.com · news_1 · https://www.brainboxes.com/news-room · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-206 brainboxes.com · news_1 · https://www.brainboxes.com/news-room · fetched 2026-10-29T15:11:51Z · HTTP 200
 News - Brainboxes
+Skip to content
 Contact Us
 Search Submit Clear
 GSA Capabilities
@@ -98,6 +99,7 @@ Company
 Where to Buy
 © 2026 Brainboxes Limited
 Registered: England, No 3245094
+(opens in a new tab)
 See All Products
 Pure Embedded
 Industrial Ethernet

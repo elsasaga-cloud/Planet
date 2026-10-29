@@ -1,9 +1,9 @@
 {
  "code": "XA-E002",
  "name": "Circle B（Taurus Group 旗下）",
- "round": "W2-R05a",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "快照失败（circleb.eu：域名不可达（DNS/连接失败），2026-10-29，第 1 次）",
  "summary": "开放硬件/OCP 方案商（Circle B，Taurus Group）",
  "type_final": "开放硬件/OCP 方案商（Circle B，Taurus Group）",
  "size": "未量化",
@@ -43,7 +43,15 @@
   "window": "",
   "when": "不动"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:42:49Z"
+  ],
+  "fails": [
+   "2026-10-29"
+  ]
+ }
 }

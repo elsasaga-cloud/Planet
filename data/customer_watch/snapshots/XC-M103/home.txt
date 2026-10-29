@@ -1,0 +1,601 @@
+# XC-M103 Last Mile Communication AS（Last Mile AS） · home · https://lastmile.no/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+Last Mile AS
+Kompetanse
+IoT
+Internet of Things
+IOT
+Les mer om
+IoT
+LoRaWAN Andre trådløse teknologier IoT plattform
+Utvalgte artikler
+LoRaWAN
+Smartere sensorer, sunnere økonomi: Hvordan påvirker IIoT oljeindustrien?
+IoT
+Overgang til 4G: Slik sikrer du din trådløse data kommunikasjon og infrastruktur
+Industrielt nettverk
+Les mer om
+Industrielt nettverk
+Ethernet Serielt IO løsninger og moduler Nettverksovervåking
+Utvalgte artikler
+Industrielt nettverk
+NIS2 setter nye standarder for cybersikkerhet. Hva betyr det for deg?
+Industrielt nettverk
+Hvor mye nedetid har din bedrift råd til?
+Radio
+Les mer om
+Radio
+Radiolinje UHF/VHF Wifi 4G/5G og NB-IoT Bredbånd 5G backhaul og fixed wireless access
+Utvalgte artikler
+Radio
+Radiflow og Cyolo lanserer en integrert og sømløs OT-cyberløsning
+OT Cybersikkerhet
+Cybersikkerhet
+Les mer om
+OT Cybersikkerhet
+Zero Trust tilgangskontroll Full synlighet for ICS-nettverk Monitorering (IDS) Brannmursikkerhet Datadioder Testing av isolasjon i OT-nett Sikring av endepunkt (EDR) Segmentering OT asset management
+Utvalgte artikler
+OT cybersikkerhet
+Unngå dyre angrep og regelbrudd - Invester i robuste cyberløsninger
+OT cybersikkerhet
+Fremtiden for industrisikkerhet - Integrasjon av IT og OT
+Mobil
+Mobil (M2M)
+Les mer om
+Mobil
+4G/5G og NB-IoT
+Utvalgte artikler
+M2M
+Cybertrusler i maritim sektor: Slik sikrer du trygg fjernaksess (RPAM)
+M2M
+Riktig videoteknologi førte til store kostnadsbesparelser for Eviny
+Energiteknikk
+Les mer om
+Energiteknikk
+Relévern Spenningskvalitet Isolasjonsovervåking Energitransformasjon Måleverdiomformere
+Utvalgte artikler
+Energi
+Dette må du tenke på for riktig beskyttelse av kraftsystemet
+Kameraovervåking
+Les mer om
+Kameraovervåking
+IP-video
+Utvalgte artikler
+Kameraovervåking
+Advarer marin sektor om økende digitale trusler og sårbarheter
+Kameraovervåking
+Dette må du tenke på for riktig beskyttelse av kraftsystemet
+IoT
+Planlegging av Smartby infrastruktur
+IoT
+Overgang til 4G: Slik sikrer du din trådløse data kommunikasjon og infrastruktur
+Kompetanse
+Løsninger
+Marine
+Les mer om
+Marine
+Industrielt nettverk Fjernaksess til skip OT Cybersikkerhet Relévern Isolasjonsovervåking Måleverdiomformere Kameraovervåking for marine miljøer Industriell IoT Spenningskvalitet
+Utvalgte artikler
+Marine
+Navigering gjennom cybersikkerhetens farvann i maritim sektor
+Sykehus
+Cyberangrep mot sykehus kan bety fare for menneskeliv
+Energi
+Les mer om
+Energi
+Kommunikasjon i kraftforsyningen Fjerntilkobling via 4G Spenningskvalitet Isolasjonsovervåking Relévern Måleverdiomformere Strøm og spenningstransformatorer Industriell IoT OT Cybersikkerhet Mobil (M2M)
+Utvalgte artikler
+Energi
+Spenningskvalitet: Nøkkelen til effektiv drift og økt sikkerhet
+Energi
+Dette må du tenke på for riktig beskyttelse av kraftsystemet
+Olje og offshore
+Les mer om
+Olje og offshore
+Industriell IoT Industrielt nettverk Relévern Isolasjonsovervåking OT Cybersikkerhet Fjernaksess olje og offshore Kameraovervåking olje og offshore Spenningskvalitet Strøm og spenningstrafoer til olje og offshore
+Utvalgte artikler
+Nettverk
+Fremtiden for industrisikkerhet - Integrasjon av IT og OT
+OT Cybersikkerhet
+Cybertrusler i maritim sektor: Slik sikrer du trygg fjernaksess (RPAM)
+Samferdsel
+Les mer om
+Samferdsel
+Industriell IoT Mobil (M2M) Kameraovervåking Isolasjonsovervåking Måleverdiomformere
+Utvalgte artikler
+Radio
+Radiflow og Cyolo lanserer en integrert og sømløs OT-cyberløsning
+Havbruk
+Les mer om
+Havbruk
+Kameraovervåking Bredbånd OT Cybersikkerhet Industriell IoT Spenningskvalitet
+Utvalgte artikler
+Nettverk
+Cyberangrep mot sykehus kan bety fare for menneskeliv
+M2M
+Unngå dyre angrep og regelbrudd - Invester i robuste cyberløsninger
+Vann og avløp
+Les mer om
+Vann og avløp
+Driftssikre kommunikasjonsløsninger OT cybersikkerhet i VA Kameraovervåking vann og avløp Industriell IoT
+Utvalgte artikler
+Nettverk
+Cyberangrep mot sykehus kan bety fare for menneskeliv
+M2M
+Unngå dyre angrep og regelbrudd - Invester i robuste cyberløsninger
+Sykehus
+Les mer om
+Sykehus
+OT Cybersikkerhet Industrielt nettverk Mobil (M2M) Innendørs LTE 5G dekning Industriell IoT
+Utvalgte artikler
+OT-cybersikkerhet
+Sikre sykehusets OT-nett med Armis: En revolusjon i cyberbeskyttelse
+ISP-er
+Les mer om
+ISP-er
+5G backhaul og fixed wireless acccess
+Utvalgte artikler
+Kameraovervåking
+Advarer marin sektor om økende digitale trusler og sårbarheter
+Kameraovervåking
+Dette må du tenke på for riktig beskyttelse av kraftsystemet
+Industri og produksjon
+Les mer om
+Industri og produksjon
+Tilstandsovervåking av roterende utstyr Flow- og trykkovervåking i rørsystemer Energi-og forbruksmåling Miljøovervåking for kritisk elektronikk Ventilposisjon og aktuatorstatus Dampfelle-overvåking Digitalisering av eksisterende måleinstrumentering CUI-deteksjon og korrosjonsovervåking Oljelekkasje-deteksjon
+OT cybersikkerhet
+Presis overvåkning av energinettet bidrar til å sikre stabil forsyning
+IDS
+LoRaWAN: Den ideelle løsningen for industriell IoT?
+Utvalgte artikler
+Marine
+Navigering gjennom cybersikkerhetens farvann i maritim sektor
+Havbruk
+Slik kan landbaserte oppdrettsanlegg redusere kostnader og sikre stabil drift
+Løsninger
+Leveranse
+Prosjekter
+Drift
+Support
+Tekniske tjenester
+Prosjekter
+Fremtiden for industriell sikkerhet – Hvordan sikre gammelt produksjonsutstyr?
+Prosjekter
+Radiolinjer: Teknologien som kobler verden
+Aktuelt
+Fagstoff
+Kurs
+Utvalgte artikler
+Prosjekter
+Fremtiden for industriell sikkerhet – Hvordan sikre gammelt produksjonsutstyr?
+Prosjekter
+Radiolinjer: Teknologien som kobler verden
+Om oss
+Kontakt oss
+Beliggenhet
+Våre medarbeidere
+Våre leverandører
+Samfunnsansvar
+Zero Trust
+Kjøpsinformasjon
+Code of conduct
+OT cybersikkerhet
+Radiflow og Cyolo lanserer en integrert og sømløs OT-cyberløsning
+IDS
+Gir deg løsninger som analyserer nettverkstrafikk for tegn på uønsket aktivitet.
+Hva leter du etter?
+Utvalgte artikler
+OT cybersikkerhet
+Hvorfor tradisjonelle jump servere ikke holder mål i dagens trusselbilde
+OT cybersikkerhet
+Slik møter Westermo utviklingen og kravene innen industrielle nettverk
+Nettbutikk
+Kontakt oss
+Tilbake
+Text Link
+Kompetanse
+Nettbutikk
+Kontakt oss
+Text Link
+Løsninger
+Nettbutikk
+Kontakt oss
+Text Link
+Leveranse
+Nettbutikk
+Kontakt oss
+Text Link
+Aktuelt
+Nettbutikk
+Kontakt oss
+Text Link
+Om oss
+Nettbutikk
+Kontakt oss
+Text Link
+Internet of Things
+Nettbutikk
+Kontakt oss
+Text Link
+Marine
+Nettbutikk
+Kontakt oss
+Text Link
+Prosjekter
+Nettbutikk
+Kontakt oss
+Text Link
+Fagstoff
+Nettbutikk
+Kontakt oss
+Text Link
+Kontakt oss
+Nettbutikk
+Kontakt oss
+Text Link
+Industrielt nettverk
+Nettbutikk
+Kontakt oss
+Text Link
+Energi
+Nettbutikk
+Kontakt oss
+Text Link
+Drift
+Nettbutikk
+Kontakt oss
+Text Link
+Kurs
+Nettbutikk
+Kontakt oss
+Text Link
+Beliggenhet
+Nettbutikk
+Kontakt oss
+Text Link
+Radio
+Nettbutikk
+Kontakt oss
+Text Link
+Olje og offshore
+Nettbutikk
+Kontakt oss
+Text Link
+Support
+Nettbutikk
+Kontakt oss
+Text Link
+Våre medarbeidere
+Nettbutikk
+Kontakt oss
+Text Link
+OT Cybersikkerhet
+Nettbutikk
+Kontakt oss
+Text Link
+Samferdsel
+Nettbutikk
+Kontakt oss
+Text Link
+Tekniske tjenester
+Nettbutikk
+Kontakt oss
+Text Link
+Våre leverandører
+Nettbutikk
+Kontakt oss
+Text Link
+Mobil
+Nettbutikk
+Kontakt oss
+Text Link
+Havbruk
+Nettbutikk
+Kontakt oss
+Text Link
+Samfunnsansvar
+Nettbutikk
+Kontakt oss
+Text Link
+Energiteknikk
+Nettbutikk
+Kontakt oss
+Text Link
+Vann og avløp
+Nettbutikk
+Kontakt oss
+Text Link
+Zero Trust
+Nettbutikk
+Kontakt oss
+Text Link
+Kameraovervåking
+Nettbutikk
+Kontakt oss
+Text Link
+Sykehus
+Nettbutikk
+Kontakt oss
+Text Link
+Kjøpsinformasjon
+Nettbutikk
+Kontakt oss
+Text Link
+ISP-er
+Nettbutikk
+Kontakt oss
+Text Link
+Code of conduct
+Nettbutikk
+Kontakt oss
+Text Link
+Industri og produksjon
+Nettbutikk
+Kontakt oss
+Text Link
+Oljelekkasje-deteksjon
+Text Link
+CUI-deteksjon og korrosjonsovervåking
+Text Link
+Digitalisering av eksisterende måleinstrumentering
+Text Link
+Dampfelle-overvåking (Steam Trap Monitoring)
+Text Link
+Ventilposisjon og aktuatorstatus
+Text Link
+Miljøovervåking for kritisk elektronikk
+Text Link
+Energi-og forbruksmåling
+Text Link
+Flow- og trykkovervåking i rørsystemer
+Text Link
+Tilstandsovervåking av roterende utstyr
+Text Link
+5G backhaul og fixed wireless acccess
+Text Link
+Innendørs LTE 5G dekning
+Text Link
+Mobil (M2M)
+Text Link
+Industrielt nettverk
+Text Link
+OT Cybersikkerhet
+Text Link
+Kameraovervåking vann og avløp
+Text Link
+OT cybersikkerhet i VA
+Text Link
+Driftssikre kommunikasjonsløsninger
+Text Link
+Spenningskvalitet
+Text Link
+Industriell IoT
+Text Link
+OT Cybersikkerhet
+Text Link
+Bredbånd
+Text Link
+Kameraovervåking
+Text Link
+Måleverdiomformere
+Text Link
+Isolasjonsovervåking
+Text Link
+Mobil (M2M)
+Text Link
+Industriell IoT
+Text Link
+Kameraovervåking
+Text Link
+Strøm og spenningstrafoer til olje og offshore
+Text Link
+Relévern
+Text Link
+Spenningskvalitet
+Text Link
+Isolasjonsovervåking
+Text Link
+Industriell IoT
+Text Link
+Fjernaksess olje og offshore
+Text Link
+Industrielt nettverk
+Text Link
+OT Cybersikkerhet
+Text Link
+Kameraovervåking olje og offshore
+Text Link
+Relévern
+Text Link
+Strøm og spenningstransformatorer
+Text Link
+Spenningskvalitet
+Text Link
+OT Cybersikkerhet
+Text Link
+Kommunikasjon i kraftforsyningen
+Text Link
+Mobil (M2M)
+Text Link
+Fjerntilkobling via 4G
+Text Link
+Måleverdiomformere
+Text Link
+Isolasjonsovervåking
+Text Link
+Industriell IoT
+Text Link
+Relévern
+Text Link
+Spenningskvalitet
+Text Link
+OT Cybersikkerhet
+Text Link
+Industrielt nettverk
+Text Link
+Fjernaksess til skip
+Text Link
+Kameraovervåking for marine miljøer
+Text Link
+Måleverdiomformere
+Text Link
+Isolasjonsovervåking
+Text Link
+Industriell IoT
+Text Link
+IP-video
+Text Link
+Måleverdiomformere
+Text Link
+Relévern
+Text Link
+Spenningskvalitet
+Text Link
+Energitransformasjon
+Text Link
+Isolasjonsovervåking
+Text Link
+4G/5G og NB-IoT
+Text Link
+Zero Trust tilgangskontroll
+Text Link
+Testing av isolasjon i OT-nett
+Text Link
+Sikring av endepunkt (EDR)
+Text Link
+Full synlighet for ICS-nettverk
+Text Link
+Brannmursikkerhet
+Text Link
+Monitorering (IDS)
+Text Link
+Segmentering
+Text Link
+OT asset management
+Text Link
+Datadioder
+Text Link
+Bredbånd
+Text Link
+Wifi
+Text Link
+4G/5G og NB-IoT
+Text Link
+5G backhaul og fixed wireless access
+Text Link
+Radiolinje
+Text Link
+UHF/VHF
+Text Link
+Ethernet
+Text Link
+Serielt
+Text Link
+Nettverksovervåking
+Text Link
+IO løsninger og moduler
+Text Link
+Andre trådløse teknologier
+Text Link
+LoRaWAN
+Text Link
+IoT plattform
+Hva leter du etter?
+Utvalgte artikler
+OT cybersikkerhet
+Hvorfor tradisjonelle jump servere ikke holder mål i dagens trusselbilde
+OT cybersikkerhet
+Slik møter Westermo utviklingen og kravene innen industrielle nettverk
+Nettbutikk
+Kontakt oss
+Din samarbeidspartner på industrielle løsninger
+Vi leverer sikre og robuste løsninger for industriell datakommunikasjon og energisystemer.
+I mer enn 25 år har vi levert tekniske løsninger til alle industrielle miljøer.
+Vårt mål er å sikre våre kunder effektive prosjekter og robust infrastruktur.
+Her er noen av leverandørene vi er stolte av å samarbeide med. Flere finner du her
+Bred tjenesteportefølje
+Vi tilbyr helhetlige industrielle løsninger og tjenester som gir deg stabil oppetid og en tryggere drift. Som deres samarbeidspartner bistår vi med drift, support og vedlikehold.
+For å øke deres kompetanse i henhold til myndighetskrav og dagens trusselbilde, skreddersyr vi workshops og kurs tilpasset deres behov.
+Kompetanse og kvalitet
+Kvalitet er noe vi brenner for, og vårt fokus har alltid vært å levere robuste løsninger
+for industrielle miljøer.
+Vi har kontinuerlig fokus på kompetanseutvikling og samarbeid med ledende globale leverandører. Våre ingeniører konfigurerer i henhold til IEC 62443, og vi tilbyr cyberløsninger i henhold til NIS2 og NIST.
+Industriell ekspertise
+Vi har lange tradisjoner innenfor marine, olje og gass, samferdsel, vann og avløp, energi og havbruk.
+Vi er stolte av å ha gode relasjoner med flere ledende norske industrielle virksomheter, og ha bistått dem med løsninger og tjenester for å opprettholde en trygg og pålitelig drift.
+‍
+Industriene vi håndterer
+Marine
+Zero Trust fjernaksess, robuste nettverk, relévern, isolasjonsovervåking og smarte IIoT løsninger er noe av det vi tilbyr til marin sektor.
+Snakk med oss om deres behov og utfordringer! Her har vi lang erfaring og et solid apparat rundt for å øke deres effektivitet og stabil drift.
+Energi
+For å sikre dere en tryggere og mer effektiv drift, tilbyr vi en rekke komplekse tjenester, produkter og løsninger.
+Vi er deres samarbeidspartner, ende til ende. Uansett utfordring er vi klare for å bistå dere fra design til service og drift.
+Olje og offshore
+Vi har lang erfaring med løsninger og tjenester til olje og offshore for å bidra til en stabil og trygg drift for dere.
+Ønsker dere å teste dagens vern eller kanskje utforske ny teknologi? Vi er klare for å bistå!
+Samferdsel
+Vi tilbyr robuste løsninger for samferdselssektoren. Vi har kompetanse og produkter for tekniske installasjoner der det er vanskelig å komme til.
+Vår dype erfaring gjør at vi kan bistå dere med effektive leveranser, løsninger og komplekse prosjekter.
+Vann og avløp
+Vi tilbyr flere løsninger som effektiviserer og moderniserer deres drift innen VA. Her har vi lang fortid og bransjeforståelse.
+Enten du er på utikk etter økt cybersikkert, kameraovervåking, robuste nettverk eller IoT, finner vi løsningene dere trenger.
+Havbruk
+Vi tilbyr moderne og robust løsninger til havbruk.
+Er dere ute etter kameraovervåking, IoT-, radio- eller LTE-kommunikasjon bør vi ta en prat! Vi setter sammen løsninger for deres behov og krav.
+Sykehus
+Til sykehus tilbyr vi alt fra nettverk, kamera og IoT løsninger til komplekse OT cybersikkerhetsløsninger som gir deg kontroll over pasientdata og driftssystemer på en god og oversiktlig måte.
+Våre løsninger kan effektivisere deres drift og vedlikehold samt gi dere verktøy som møter dagens cyber krav.
+Operatører/ISPer
+Last Mile leverer radiolinjeløsninger med høy overføringskapasitet og svært høy oppetid.
+Her finner du informasjon om 5G backhaul og fixed wireless access til ISP-er.
+Sikre ditt OT-nett.
+Vi bistår deg med rett valg av teknologi og løsning.
+Les mer om OT cybersikkerhet
+Vi leverer løsninger som oppfyller høyeste krav til sikkerhet og pålitelighet i henhold til myndighetskrav, NIST og NIS2.
+Kompetanse
+Vi er spesialister på robust infrastruktur, og tar enhver utfordring når det gjelder industrielle miljøer.
+Les mer om teknologiområdene våre
+Løsninger
+For å lykkes designer vi komplekse løsninger satt sammen for å øke driftssikkerhet og oppetid.
+Les mer om våre løsninger
+Leveranse
+Vi bistår våre kunder med tjenestevalg, drift og support.
+‍
+Vi er din samarbeidspartner .
+Utforsk vår leveransemodell
+Hør hva våre kunder sier om oss
+Last Mile holdt ett inspirerende og lærerikt kurs for oss om cyber security. Dette traff godt og var nyttig for både utførende ingeniører og ledende ansatte i bedriften. Anbefales for å øke bevisstgjøring rundt temaet og som ett viktig innspill til bedriftens videre arbeid innen datasikkerhet.
+Cato Orset
+CEO, MOTUS TECHNOLOGY AS
+Sammen med Last Mile kom vi frem til at moderne videoteknologi kunne være løsningen. Nå kan vi til enhver tid se tilstanden på de viktigste punktene i anlegget, og samtidig få varsling ved for eksempel varmgang og oljelekkasjer.
+Nils Petter Bolstad
+Eviny Fornybar
+Vi tilbyr robuste produkter for alle industrielle miljøer
+Besøk nettbutikken
+Westermo Lynx-3510-F2G-P8G-LV
+L2 PoE+ Switch 802.3at/af 8 x Gbit
+Racom RipEX2-BR800
+803-897MHz, 4xETH, 1xSFP, 1xRS232, 5W
+Tektelic KONA Mega ATEX LoRaWAN Gateway
+IP67, ATEX/Zone II, GPS, LTE
+Alle artikler
+Fagstoff
+Alle artikler
+Cyolo
+Industrielt nettverk
+Ot-cybersikkerhet
+2.12.2024
+Hvorfor tradisjonelle jump servere ikke holder mål i dagens trusselbilde
+Industrielt nettverk
+Marine
+Westermo
+28.11.2024
+Slik møter Westermo utviklingen og kravene innen industrielle nettverk
+Industrielt nettverk
+Westermo
+28.11.2024
+Partnerskap for bærekraft og sikkerhet: Hvordan Last Mile og Westermo samarbeider for fremtidens industri
+Alle artikler
+Vi er din samarbeidspartner på industriell datakommunikasjon og energisystemer.
+Kontakt oss
+La oss diskutere sake

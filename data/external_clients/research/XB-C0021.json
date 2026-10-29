@@ -1,14 +1,26 @@
 {
  "code": "XB-C0021",
  "name": "Thiết Bị Mạng Việt Nam (VNS)（越南）",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 thietbimangvietnam.vn MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（thietbimangvietnam.vn，快照 2026-10-29）：VNS - Thiết Bị Mạng Việt Nam",
  "summary": "Thiết Bị Mạng Việt Nam (VNS)（越南）（越南）：Nettek PoE交换机分销；开发策略=越南网络设备专业分销；置信度=★★★★★",
  "type_final": "Nettek PoE交换机分销",
  "size": "",
  "brands_seen": [
-  "Nettek"
+  "Nettek",
+  "Cisco",
+  "Huawei",
+  "Ruijie",
+  "MikroTik",
+  "H3C",
+  "Ubiquiti",
+  "Aruba",
+  "Fortinet",
+  "Juniper",
+  "Zyxel",
+  "Grandstream",
+  "Cambium"
  ],
  "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
  "fit": "",
@@ -26,12 +38,28 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；VNS - Thiết Bị Mạng Việt Nam",
+   "quote": "Nhà Phân Phối Thiết Bị Quang, Tủ Rack, UPS Bộ Lưu Điện, Thiết Bị Điện Nhẹ... Chính Sách Đại Lý CTV Hỗ Trợ Giá Tốt Nhất",
+   "url": "https://thietbimangvietnam.vn/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@thietbimangvietnam.vn",
   "email_status": "活（来源库 9 月核对）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "info@thietbimangvietnam.vn",
+   "vnsthietbimangvietnam@gmail.com"
+  ],
+  "page_phones": [
+   "000 472.000",
+   "000 8.910.000"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -47,5 +75,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:51:49Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGM",
+  "why": "官网快照对位：10G/2.5G 词频 8、交换机 308 → 24 GE + 4×10G L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

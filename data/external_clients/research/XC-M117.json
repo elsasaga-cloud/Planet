@@ -1,19 +1,30 @@
 {
  "code": "XC-M117",
  "name": "Sphinx France",
- "round": "X1-02",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "alive": "在线（sphinxfrance.com，快照 2026-10-29）：Sphinx France, solutions M2M et IIoT",
  "summary": "SPHINX CONNECT FRANCE（SIREN 439 398 462）：工业连接 / OT / IoT 方案欧洲分销（Moxa / Sierra Wireless / Kerlink / Sintrones）；自述「vente de routeurs 4G, switchs Ethernet」→ 交换机对位 ✔",
  "type_final": "专业分销；SPHINX CONNECT FRANCE（SIREN 439 398 462）",
  "size": "",
  "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
  "fit": "○ 工业连接 / OT / IoT 方案欧洲分销 20%：SPHINX CONNECT FRANCE（Montaigu-",
- "brands_seen": [],
+ "brands_seen": [
+  "Advantech",
+  "Moxa",
+  "Siemens"
+ ],
  "contacts": {
   "email": "sales@sphinxfrance.fr",
   "email_status": "官网 / 名录公开（X1-02 补路径）",
-  "kp": []
+  "kp": [],
+  "page_emails": [],
+  "page_phones": [
+   "+33 01 83 64 64 06",
+   "+33 02 51 09 26 60",
+   "+33 04 82 53 52 53"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "evidence": [
   {
@@ -36,6 +47,13 @@
    "quote": "",
    "url": "https://www.sphinxfrance.com/actualites/evenement/kerlink-et-sphinx-partenaires",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Sphinx France, solutions M2M et IIoT",
+   "quote": "Découvrez comment SPHINX, expert des réseaux cybersécurité OT, accompagne la digitalisation et la sécurisation de vos projets IoT industriels.",
+   "url": "https://sphinxfrance.com/",
+   "date": "2026-10-29"
   }
  ],
  "touch_status": "未触达（路径 2026-10-29 新补）",
@@ -47,6 +65,17 @@
   "angle": "已入 P 池 → 按巡检节奏首触"
  },
  "deep": false,
- "notes": "SPHINX CONNECT FRANCE（SIREN 439 398 462）；Parc de la Bretonnière / 12 rue René Descartes, 85600 Montaigu-Vendée；SIREN 439398462；+33 2 51 09 26 60",
- "draft_en": null
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nSPHINX CONNECT FRANCE（SIREN 439 398 462）；Parc de la Bretonnière / 12 rue René Descartes, 85600 Montaigu-Vendée；SIREN 439398462；+33 2 51 09 26 60",
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:57:18Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-288GPM",
+  "why": "官网快照对位：工业/自动化词频 23、PoE 598 → DIN 8 PoE+ 2 SFP 起手",
+  "date": "2026-10-29"
+ }
 }

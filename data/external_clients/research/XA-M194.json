@@ -1,15 +1,16 @@
 {
  "code": "XA-M194",
  "name": "AxByte（netdist.se）",
- "round": "W2-R05a",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（netdist.se，快照 2026-10-29）：netdist – MikroTik-distributör för ISP och telekom",
  "summary": "MikroTik 分销 + 官方培训（AxByte / netdist.se，Farsta）；卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口",
  "type_final": "MikroTik 分销 + 官方培训（AxByte / netdist.se，Farsta）",
  "size": "未量化",
  "brands_seen": [
   "MikroTik（Master",
-  "VAD）"
+  "VAD）",
+  "MikroTik"
  ],
  "saga_line": "SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE",
  "fit": "MikroTik 渠道 + 讲师影响力",
@@ -27,6 +28,13 @@
    "quote": "",
    "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；netdist – MikroTik-distributör för ISP och telekom",
+   "quote": "Officiell MikroTik-distributör för ISP, stadsnät och telekom. Routrar, switchar, antenner och licenser med snabb leverans och teknisk support.",
+   "url": "https://netdist.se/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
@@ -38,7 +46,14 @@
     "role": "瑞典 MikroTik RouterOS 官方讲师，21 年 MikroTik（S 箱 9-28 收件人）",
     "source": "来源库"
    }
-  ]
+  ],
+  "page_emails": [
+   "info@netdist.se"
+  ],
+  "page_phones": [
+   "+46 (0)8-586 195 80"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-09-28 群发「(#0760910) 24 Port PoE Managed Switch」→ 来信（(#0760910) 24 Port PoE Managed Switch），待核",
  "saga_overlap": "无",
@@ -52,10 +67,21 @@
   "window": "SE 周四 12–14",
   "when": "2026-11-19"
  },
- "notes": "support@/contact@ 的 2 条来信为自动回执（工单），非真人回复。 轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nsupport@/contact@ 的 2 条来信为自动回执（工单），非真人回复。 轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "draft_en": {
   "subject": "Industrial DIN-rail PoE switches - the category MikroTik does not cover",
   "body": "Hi Leo,\n\nI wrote on 28 September about our 24-port PoE L2+ switch ('(#0760910) 24 Port PoE Managed Switch'); this is a different angle, so a fresh note rather than a reply.\n\nSTI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.\n\nWould a DIN-rail PoE line be relevant for the ISPs you train and supply, or is that segment already covered?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "deep": false
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:46:20Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGM",
+  "why": "官网快照对位：10G/2.5G 词频 6、交换机 34 → 24 GE + 4×10G L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

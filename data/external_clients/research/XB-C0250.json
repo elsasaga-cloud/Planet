@@ -1,13 +1,16 @@
 {
  "code": "XB-C0250",
  "name": "Quasar Company Limited (毛里求斯)",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 quasar.mu MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（quasar.mu，快照 2026-10-29）：Quasar| Supplier of Electrical, Test & Measurement & Surveillance Equipment",
  "summary": "Quasar Company Limited (毛里求斯)（毛里求斯）：电子/网络/安防产品分销商",
  "type_final": "电子/网络/安防产品分销商",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Hikvision",
+  "Schneider"
+ ],
  "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
  "fit": "",
  "evidence": [
@@ -24,12 +27,27 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Quasar| Supplier of Electrical, Test & Measurement & Surveillance Equipment",
+   "quote": "Incorporated in 2004, Quasar Company Limited was established with a vision to offer premium and cutting-edge electrical equipment, test and measuring",
+   "url": "https://quasar.mu/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "shravan@quasar.mu",
   "email_status": "活（来源库 9 月核对）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "info@quasar.mu"
+  ],
+  "page_phones": [
+   "+230 212 5317",
+   "+230 212 5320"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -45,5 +63,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:52:28Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-288GPM",
+  "why": "官网快照对位：工业/自动化词频 7、PoE 34 → DIN 8 PoE+ 2 SFP 起手",
+  "date": "2026-10-29"
+ }
 }

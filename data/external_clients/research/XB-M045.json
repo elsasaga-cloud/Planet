@@ -1,9 +1,9 @@
 {
  "code": "XB-M045",
  "name": "Voicenter LTD",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 voicenter.co.il MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（voicenter.co.il，快照 2026-10-29）：פתרונות תקשורת חכמים לעסקים | Voicenter",
  "summary": "Voicenter LTD（以色列）：分销（MikroTik 官方）；MikroTik（Master）",
  "type_final": "分销（MikroTik 官方）",
  "size": "",
@@ -40,6 +40,13 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；פתרונות תקשורת חכמים לעסקים | Voicenter",
+   "quote": "וויסנטר מספקת מגוון פתרונות תקשורת לעסקים: מרכזיות בענן, שירותי מוקד טלפוני, חיזוק חווית לקוח עם מוקדים אינטראקטיביים לתקשורת עסקית מהפכנית.",
+   "url": "https://voicenter.co.il/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
@@ -56,7 +63,13 @@
     "role": "CEO(2023 早前口径)",
     "source": "ceopro.co.il 专访自曝"
    }
-  ]
+  ],
+  "page_emails": [
+   "person@gmail.com",
+   "sales@voicenter.co.il"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-08 去信 1 / 来信 0（24 Port PoE Managed Switch）",
  "saga_overlap": "无",
@@ -72,5 +85,11 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:55:39Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

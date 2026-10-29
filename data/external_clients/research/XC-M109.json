@@ -1,9 +1,9 @@
 {
  "code": "XC-M109",
  "name": "Elkotex d.o.o.",
- "round": "X1-02",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "alive": "在线（b2b.elkotex.si，快照 2026-10-29）：Prijava uporabnika - ELKO B2B",
  "summary": "ELKOTEX podjetje za trgovino in zastopanje d.o.o.：IT 分销（MikroTik 官方分销；外资控股）；29 名员工 → 中型；prodaja@ = 销售箱",
  "type_final": "分销（MikroTik 官方）；ELKOTEX podjetje za trgovino in zastopanje d.o.o.",
  "size": "",
@@ -13,7 +13,13 @@
  "contacts": {
   "email": "prodaja@elkotex.si",
   "email_status": "官网 / 名录公开（X1-02 补路径）",
-  "kp": []
+  "kp": [],
+  "page_emails": [],
+  "page_phones": [
+   "+386 1 583 79 10",
+   "+386 1 583 79 17"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "evidence": [
   {
@@ -29,6 +35,13 @@
    "quote": "",
    "url": "https://www.bizi.si/ELKOTEX-D-O-O/",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Prijava uporabnika - ELKO B2B",
+   "quote": "Prijava uporabnika - ELKO B2B",
+   "url": "https://b2b.elkotex.si/customer/account/login/",
+   "date": "2026-10-29"
   }
  ],
  "touch_status": "未触达（路径 2026-10-29 新补）",
@@ -40,6 +53,17 @@
   "angle": "已入 P 池 → 按巡检节奏首触"
  },
  "deep": false,
- "notes": "ELKOTEX podjetje za trgovino in zastopanje d.o.o.；Magistrova ulica 1, 1000 Ljubljana；MŠ 1447025000；DŠ SI80941427；1999-10-12；+386 1 583 79 10",
- "draft_en": null
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\nELKOTEX podjetje za trgovino in zastopanje d.o.o.；Magistrova ulica 1, 1000 Ljubljana；MŠ 1447025000；DŠ SI80941427；1999-10-12；+386 1 583 79 10",
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:57:14Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-28DGGPM",
+  "why": "官网快照对位：PoE 词频 2 → 8 口 PoE+ 2 SFP L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

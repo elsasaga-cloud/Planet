@@ -1,19 +1,29 @@
 {
  "code": "XC-M154",
  "name": "Pulse Supply",
- "round": "X1-02",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "alive": "在线（pulsesupply.com，快照 2026-10-29）：Telecommunications & WAN Equipment Supplier – Pulse Supply",
  "summary": "Pulse Supply：网络技术分销（PLANET 授权），有区域销售总监（bpicardi@ / jomack@ 见官方 PDF）与 reseller 授权表",
  "type_final": "分销（PLANET 授权）；Pulse Supply",
  "size": "",
  "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
  "fit": "○ 网络技术分销 20%：Pulse Supply（Sparks MD；PLANET 授权分销；设区域销售总监 bpic",
- "brands_seen": [],
+ "brands_seen": [
+  "Cisco",
+  "Hanwha",
+  "Juniper",
+  "Extreme"
+ ],
  "contacts": {
   "email": "sales@pulsesupply.com",
   "email_status": "官网 / 名录公开（X1-02 补路径）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "questions@pulsesupply.com"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "evidence": [
   {
@@ -43,6 +53,13 @@
    "quote": "",
    "url": "https://www.zoominfo.com/p/Salvatore-Costantino/42892707",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Telecommunications & WAN Equipment Supplier – Pulse Supply",
+   "quote": "Pulse Supply is your global telecommunications & WAN equipment supplier for business, enterprise, government, and service providers. Contact us today to purchase!",
+   "url": "https://pulsesupply.com/",
+   "date": "2026-10-29"
   }
  ],
  "touch_status": "未触达（路径 2026-10-29 新补）",
@@ -54,6 +71,17 @@
   "angle": "已入 P 池 → 按巡检节奏首触"
  },
  "deep": false,
- "notes": "Pulse Supply；909 Ridgebrook Road Suite 120, Sparks MD 21152；+1 410-583-1701",
- "draft_en": null
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nPulse Supply；909 Ridgebrook Road Suite 120, Sparks MD 21152；+1 410-583-1701",
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:57:43Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-288GPM",
+  "why": "官网快照对位：工业/自动化词频 44、PoE 2 → DIN 8 PoE+ 2 SFP 起手",
+  "date": "2026-10-29"
+ }
 }

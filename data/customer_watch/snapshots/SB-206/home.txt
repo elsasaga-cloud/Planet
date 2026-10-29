@@ -1,5 +1,6 @@
-# SB-206 brainboxes.com · home · https://www.brainboxes.com/ · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-206 brainboxes.com · home · https://www.brainboxes.com/ · fetched 2026-10-29T15:11:51Z · HTTP 200
 Brainboxes | Trusted Connectivity: Switches, IoT, Serial, IO
+Skip to content
 Contact Us
 Search Submit Clear
 GSA Capabilities
@@ -22,7 +23,6 @@ Learn more
 Building Responsive Robotic Systems: Critical Communication in Extreme Environments
 Utilising Brainboxes’ Ethernet switches, Remote I/O and Embedded devices enables organisations to scale automation in challenging environments
 learn more
-Beta
 BB Eco Keep the Work
 Moving
 Your devices, managed your way.
@@ -83,6 +83,7 @@ Company
 Where to Buy
 © 2026 Brainboxes Limited
 Registered: England, No 3245094
+(opens in a new tab)
 See All Products
 Pure Embedded
 Industrial Ethernet

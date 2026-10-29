@@ -1,9 +1,9 @@
 {
  "code": "XC-M176",
  "name": "Digital Controls",
- "round": "X1-03",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "alive": "在线（digitalcontrols.biz，快照 2026-10-29）：Digital Controls",
  "summary": "Digital Controls：Red Lion / Horner 等自动化产品分销；联系人 Tim Sommerville（Drives & Controls 名录）；微型；法人形式未明",
  "type_final": "分销（HMS/N-Tron·Red Lion 渠道）；Digital Controls",
  "size": "",
@@ -13,7 +13,13 @@
  "contacts": {
   "email": "sales@digitalcontrols.biz",
   "email_status": "官网 / 名录公开（X1-03 补路径）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "donate@opencart.com",
+   "sales@digitalcontrols.biz"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "evidence": [
   {
@@ -29,6 +35,13 @@
    "quote": "",
    "url": "https://pmps-digital.com/dac/2024/07/171/",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Digital Controls",
+   "quote": "Digital Controls",
+   "url": "https://digitalcontrols.biz/",
+   "date": "2026-10-29"
   }
  ],
  "touch_status": "未触达（路径 2026-10-29 新补）",
@@ -40,6 +53,17 @@
   "angle": "观察档 → 试单后转正"
  },
  "deep": false,
- "notes": "Digital Controls；2 Mary Armyne Road, Orton Longueville, Peterborough PE2 7DR；+44 1733 233481",
- "draft_en": null
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\nDigital Controls；2 Mary Armyne Road, Orton Longueville, Peterborough PE2 7DR；+44 1733 233481",
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:57:48Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-280GE",
+  "why": "官网快照对位：工业/自动化词频 22、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手",
+  "date": "2026-10-29"
+ }
 }

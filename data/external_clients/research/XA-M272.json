@@ -1,15 +1,21 @@
 {
  "code": "XA-M272",
  "name": "Officelan",
- "round": "W2-R05c",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（shop.officelan.pt，快照 2026-10-29）：Officelan | Distribuidor de Redes, Fibra Ótica e CCTV",
  "summary": "MikroTik 分销（Officelan，Canas de Senhorim）；MikroTik 官方分销，商用线可直接比价，工业线为零 → 新品类增量",
  "type_final": "MikroTik 分销（Officelan，Canas de Senhorim）",
  "size": "未量化",
  "brands_seen": [
   "MikroTik（Master",
-  "VAD）"
+  "VAD）",
+  "Ubiquiti",
+  "MikroTik",
+  "Grandstream",
+  "TP-Link",
+  "Huawei",
+  "Teltonika"
  ],
  "saga_line": "SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE",
  "fit": "MikroTik 渠道",
@@ -20,12 +26,28 @@
    "quote": "",
    "url": "https://shop.officelan.pt/",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Officelan | Distribuidor de Redes, Fibra Ótica e CCTV",
+   "quote": "O seu distribuidor especializado em redes, fibra ótica e CCTV. Trabalhamos com marcas de topo como Ubiquiti, MikroTik e Grandstream. Milhares de produtos em stock.",
+   "url": "https://shop.officelan.pt/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "comercial@officelan.pt",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "comercial@officelan.pt",
+   "xxx@xxx.xxx"
+  ],
+  "page_phones": [
+   "+351 232 186 575",
+   "+351 968 530 126"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -39,10 +61,21 @@
   "window": "PT 周四 12–14",
   "when": "2026-12-03"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "draft_en": {
   "subject": "L2+ PoE and industrial switches for your reseller channel",
   "body": "Hi,\n\nSaga Telecom supplies network distributors with Marvell-based L2+ PoE switches and Centec-based L3 10G/25G/100G switches, under our label or the distributor's own, CE. Two lines that usually interest MikroTik and WISP channels:\n\n- STC-424XGGPM-280W: 24 x GE PoE+ (280 W) + 4 x 10G SFP+, L2+ managed, USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days).\n- STI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.\n\nWould either line be relevant for your reseller customers, or is switching fully covered today?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "deep": false
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:47:28Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-288GPM",
+  "why": "官网快照对位：工业/自动化词频 17、PoE 101 → DIN 8 PoE+ 2 SFP 起手",
+  "date": "2026-10-29"
+ }
 }

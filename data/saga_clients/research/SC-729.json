@@ -2,7 +2,7 @@
  "code": "SC-729",
  "name_official": "Brown Bear",
  "researched_at": "2026-10-29",
- "website_status": "域名 brownbear.ru（官网快照待 Actions 补抓）",
+ "website_status": "在线（brownbear.ru，快照 2026-10-29）：БУРЫЙ МЕДВЕДЬ ТМ – интернет-магазин электронных компонентов, разъёмов и кабеля",
  "summary": "C 池三闸捞出（△ 观察）：闸 2 回 C：Brown Bear（brownbear.ru）1 查仅同名 ООО «Браун» 他户 → 未坐实；Planet 渠道 ✔ 但法人未取 → 回 C 储备",
  "type": "安防 / 网络设备批发（闸 2 判定 · 20% 档）",
  "size": "未取",
@@ -42,7 +42,7 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：闸 2 回 C：Brown Bear（brownbear.ru）1 查仅同名 ООО «Браун» 他户 → 未坐实；Planet 渠道 ✔ 但法人未取 → 回 C 储备；闸 1：俄罗斯 Brown Bear（brownbear.ru；工业 FS / MC Planet 的）：进口台湾同类 ✔ 对位 ✔ Simon 点名俄罗斯；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
- "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/saga_fit.basis/deep/facts。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -95,6 +95,14 @@
     "quote": "RU · 1 次检索：focus.kontur / birweb / saby 同名户均非本域 → 未坐实；2026-10-29",
     "why": "闸 2 坐实来源（URL 见 company_facts.url）",
     "url": ""
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "БУРЫЙ МЕДВЕДЬ ТМ – интернет-магазин электронных компонентов, разъёмов и кабеля — Интернет-магазин «Бурый Медведь»: электронные компоненты, кабель, разъемы, стяжки, клеммы, сетевое оборудование. Оптом и в розницу с доставкой по всей России, самовывоз в Москве.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://brownbear.ru/"
    }
   ],
   "proof_gaps": [
@@ -134,11 +142,44 @@
   "p1": "STC-228GP",
   "tier": 20,
   "why": "默认对位（安防 / 网络设备批发 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
-  "basis": "默认 · 官网快照后按业务线校正"
+  "basis": "默认 · 官网快照已到（2026-10-29）无型号线索，沿用"
  },
  "deep": {
   "done_at": "2026-10-29",
-  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
-  "batch": "LT-T01"
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T01",
+  "snapshot_at": "2026-10-29"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:41:54Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "order@brownbear.ru"
+  ],
+  "phones": [
+   "+7 (495) 710-75-95",
+   "+7 (495) 822-40-20"
+  ],
+  "social": [
+   "https://t.me/tm_brownbear_bot"
+  ],
+  "models_on_site": [
+   "XT60U-M",
+   "XT60PT-F",
+   "XT60PB30-F",
+   "IEC320",
+   "XT60U-F",
+   "XT60H-F",
+   "XT60PW30-M",
+   "XT30UPB30-F"
+  ],
+  "url": "https://brownbear.ru/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

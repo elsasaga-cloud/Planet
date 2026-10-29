@@ -1,4 +1,4 @@
-# SB-1128 losan.cz · feed_auto · https://losan.cz/feed/ · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-1128 losan.cz · feed_auto · https://losan.cz/feed/ · fetched 2026-10-29T15:11:51Z · HTTP 200
 Tue, 30 Mar 2021 10:26:50 +0000	Pozáruční opravy	https://losan.cz/2021/03/30/pozarucni-opravy/
 Tue, 30 Mar 2021 10:25:12 +0000	Záruční opravy	https://losan.cz/2021/03/30/zarucni-opravy/
 Tue, 30 Mar 2021 10:24:29 +0000	Návrh a realizace sítí	https://losan.cz/2021/03/30/navrh-a-realizace-siti/

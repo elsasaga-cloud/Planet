@@ -1,9 +1,9 @@
 {
  "code": "XA-C0015",
  "name": "TURM GmbH",
- "round": "W1-R01",
- "researched_at": "2026-10-27",
- "alive": "活（Ajax Roadshow 2026 在办）",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "快照失败（turm.tech：超时（站慢或封锁），2026-10-29，第 1 次）",
  "summary": "杜塞尔多夫的安防分销商/厂商（11–50 人），2018 起 Ajax 报警系统 DACH 官方分销，自有 TURM 视频/门禁品牌，姐妹公司 NSC Videotechnik（同址）出 NSC 牌摄像机/录像机/PoE 交换机（NA-P26360 = 24 口 PoE + 2 上联 + 2 SFP）。即：他们已经在用自有品牌卖进口 PoE 交换机——OEM 对象。",
  "type_final": "安防分销商 + 自有品牌（Ajax DACH 分销 / NSC 品牌主）",
  "size": "11–50 人",
@@ -65,6 +65,14 @@
   "subject": "OEM supply for the NSC PoE switch range",
   "body": "Hello,\n\nTURM sells PoE switches under the NSC Videotechnik label - the 24-port with 2 uplinks and 2 SFP, for example. That is exactly the kind of product we build for security brands in Europe: PoE switches with the brand's logo, web UI and carton, CE/RoHS/REACH, no MOQ, 8 to 48 ports, unmanaged or L2 managed, with 10G-uplink options on the managed side.\n\nIf the NSC range is sourced externally, I would be glad to send a spec-by-spec proposal against your current 24-port and 8-port models with pricing.\n\nWho on your side looks after NSC hardware sourcing - may I write to them directly?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "notes": "不猜他们现在的供应商。",
- "deep": false
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\n不猜他们现在的供应商。",
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:42:28Z"
+  ],
+  "fails": [
+   "2026-10-29"
+  ]
+ }
 }

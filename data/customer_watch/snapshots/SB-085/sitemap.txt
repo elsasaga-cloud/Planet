@@ -1,4 +1,4 @@
-# SB-085 DIGI Group · sitemap · https://thorbroadcast.com/sitemap.xml · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-085 DIGI Group · sitemap · https://thorbroadcast.com/sitemap.xml · fetched 2026-10-29T15:11:51Z · HTTP 200
 	https://thorbroadcast.com/
 	https://thorbroadcast.com/products
 	https://thorbroadcast.com/posts
@@ -156,4 +156,46 @@
 	https://thorbroadcast.com/product/4-channel-bidirectional-sd-hd-3g-sdi-over-single-fiber-cwdm-uncompressed-8230.html
 	https://thorbroadcast.com/product/2-channel-bidirectional-sd-hd-3g-sdi-over-single-fiber-cwdm-uncompressed-8230.html
 	https://thorbroadcast.com/product/2-channel-3g-sdi-hdmi-h-264-ip-video-streaming-encoder.html
-	https://thor
+	https://thorbroadcast.com/product/fiber-optic-power-meter-universal-connector-st-sc-fc.html
+	https://thorbroadcast.com/product/40db-catv-rf-amplifier-forward-54-1000mhz-return-5-42mhz.html
+	https://thorbroadcast.com/product/18ghz-ku-band-fiber-optic-mini-transmiter-receiver.html
+	https://thorbroadcast.com/product/40db-bi-directional-distribution-amplifier-54-1000mhz-coax-catv-qam-atsc-analog-8230.html
+	https://thorbroadcast.com/product/ip-to-hd-sd-sdi-video-decoder-ip-stream-8230.html
+	https://thorbroadcast.com/product/coax-cable-bi-directional-catv-rf-transmitter-and-receiver-over-fiber-8230.html
+	https://thorbroadcast.com/product/hd-sd-3g-sdi-1x2-splitter-sdi-da-distribution-8230.html
+	https://thorbroadcast.com/product/maximuslight-1.html
+	https://thorbroadcast.com/product/maximus4kfly-b-4k-hdmi-and-usb-e-ptz-compact-camera.html
+	https://thorbroadcast.com/product/rackmount-19-power-supply-16-port-12v-1-5a-dc.html
+	https://thorbroadcast.com/product/16-channel-analog-agile-modulator-ntsc-pal-secam-1.html
+	https://thorbroadcast.com/product/16-hdmi-to-analog-agile-catv-rf-modulator-ntsc-8230-3.html
+	https://thorbroadcast.com/product/coax-multiplexers-splitters-combiners-f-type-input-output-catv-atsc-or-8230.html
+	https://thorbroadcast.com/product/triple-play-and-http-pon-edfa-8-16-32-or-64-8230.html
+	https://thorbroadcast.com/product/8-input-8-output-hdmi-matrix-switcher.html
+	https://thorbroadcast.com/product/dvi-over-fiber-video-optical-converter.html
+	https://thorbroadcast.com/product/hdmi-repeater-amplifier-with-hdcp.html
+	https://thorbroadcast.com/product/2-satellite-lband-1-catv-qam-atsc-rf-8230.html
+	https://thorbroadcast.com/product/4-x-satellite-l-band-lnb-s-1-catv-qam-8230.html
+	https://thorbroadcast.com/product/4-channel-hdmi-cvbs-network-encoder-streamer-udp-rtp-unicast-multicast-8230-2.html
+	https://thorbroadcast.com/product/1080p-ip-streaming-encoder-decoder-kit.html
+	https://thorbroadcast.com/product/uncompressed-4k-hdmi-and-ir-over-lan-extender.html
+	https://thorbroadcast.com/product/4k-hevc-ip-and-usb-hd-video-decoder-ip-8230-1.html
+	https://thorbroadcast.com/product/iptv-to-32-rf-channel-analog-ntsc-pal-modulator.html
+	https://thorbroadcast.com/product/hdmi-over-ip-ethernet-cat6-rj45-extender-300-feet-with-8230.html
+	https://thorbroadcast.com/product/hdmi-4k-video-with-audio-to-usb-2-0-usb-3-0-pc-8230.html
+	https://thorbroadcast.com/product/hdmi-to-usb-2-0-audio-video-capture-device-high-definition-8230.html
+	https://thorbroadcast.com/product/4k-hdmi-and-usb-e-ptz-compact-camera-maximus4kfly.html
+	https://thorbroadcast.com/product/professional-hdmi-to-usb-3-0-hd-video-external-capture-card.html
+	https://thorbroadcast.com/product/usb-fiber-optic-transmission-system.html
+	https://thorbroadcast.com/product/maximusstartalk-video-conference-10x-camera-with-omnidirectional-usb-microphone-1.html
+	https://thorbroadcast.com/product/20x-zoom-full-hd-3g-sdi-hdmi-and-ip-streaming-8230.html
+	https://thorbroadcast.com/product/maximuscontrol-professional-grade-video-ptz-controller-1.html
+	https://thorbroadcast.com/product/maximusstar-ptz-10x-zoom-hd1080p-camera-with-usb-2-0-and-8230.html
+	https://thorbroadcast.com/product/ptz-20x-zoom-streaming-hd-camera-with-sdi-hdmi-usb-outputs-8230.html
+	https://thorbroadcast.com/product/ptz-20x-zoom-live-streaming-hd-1080p-camera-with-sdi-hdmi-usb-8230-2.html
+	https://thorbroadcast.com/product/ptz-30-x-zoom-live-streaming-hd-1080p-60-59-94-camera-with-8230.html
+	https://thorbroadcast.com/product/4k-ptz-20x-zoom-live-streaming-camera-with-sdi-hdmi-8230.html
+	https://thorbroadcast.com/product/compact-clam-shell-outdoor-weather-proof-fiber-optic-receiver-for-8230.html
+	https://thorbroadcast.com/product/hdmi-rf-modulator-chassis-system-1-12-units.html
+	https://thorbroadcast.com/product/qam-catv-rf-and-atsc-rf-to-hdmi-decoder-stb-8230.html
+	https://thorbroadcast.com/product/8-channel-sdi-and-hdmi-clear-catv-rf-modulator-qam-8230.html
+	https://thorbroadcast.com/product/hdmi-modulator-qam-rf-coax-output-ful

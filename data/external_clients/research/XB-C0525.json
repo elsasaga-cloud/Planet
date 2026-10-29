@@ -1,14 +1,18 @@
 {
  "code": "XB-C0525",
  "name": "HYE Enterprises Corp",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 hye.com.ph MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（hye.com.ph，快照 2026-10-29）：HYE Enterprises Corporation",
  "summary": "HYE Enterprises Corp（菲律宾）：Dahua授权；地址=8th Floor, Ora Electronics Center, 734 Gonzalo Puyat St, Qui；业务=Dahua授权；开发策略=马尼拉Quiapo电子中心",
  "type_final": "Dahua授权",
  "size": "",
  "brands_seen": [
-  "Dahua"
+  "Dahua",
+  "Ruijie",
+  "Hikvision",
+  "Ubiquiti",
+  "ZKTeco"
  ],
  "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
  "fit": "",
@@ -26,12 +30,24 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；HYE Enterprises Corporation",
+   "quote": "We provide electronics application solutions to meet the diverse needs of today’s demanding business environment. We have the capabilities of meeting your electronic needs on time and within budget.",
+   "url": "https://www.hye.com.ph/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "info@hye.com.ph",
   "email_status": "活（来源库 9 月核对）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "info@hye.com.ph"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -47,5 +63,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:52:45Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGPM-280W",
+  "why": "官网快照对位：PoE 词频 1、监控 97 → 24 口 PoE L2+ 走量款",
+  "date": "2026-10-29"
+ }
 }

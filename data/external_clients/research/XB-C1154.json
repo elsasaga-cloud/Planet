@@ -1,14 +1,17 @@
 {
  "code": "XB-C1154",
  "name": "Lovosis Technology LLC",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 lovosis.com MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（lovosis.com，快照 2026-10-29）：Lovosis - Authorized National Strategic Distributor for Uniview in the UAE | +971 50 916 2488",
  "summary": "Lovosis Technology LLC（阿联酋）：监控/IT解决方案提供商 + 授权分销商；公司全称=Lovosis Technology L.L.C；公司类型=监控/IT解决方案提供商 + 授权分销商；总部=Business Bay, Dubai, UAE；客户优先级=🟢 A类（多品牌安防分销，Dahua钻石级，7000+客户）",
  "type_final": "监控/IT解决方案提供商 + 授权分销商",
  "size": "",
  "brands_seen": [
-  "Dahua"
+  "Dahua",
+  "Uniview",
+  "Ruijie",
+  "Hikvision"
  ],
  "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
  "fit": "",
@@ -26,12 +29,31 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Lovosis - Authorized National Strategic Distributor for Uniview in the UAE | +971 50 916 2488",
+   "quote": "Lovosis is Dubai's leading Total Surveillance & IT Solution Provider and authorized distributor of Hikvision, Dahua, UNV, IMOU, Uniarch, Western Digital, Toshiba, and Seagate. Trusted by 7,000+ customers across UAE for CCTV, security systems, and IT solutions.",
+   "url": "https://lovosis.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "sales@lovosis.com",
   "email_status": "活（来源库 9 月核对）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "sales1@lovosis.com",
+   "sales@dahua-dubai.com",
+   "sales@lovosis.com"
+  ],
+  "page_phones": [
+   "+971 50 916 2488",
+   "+971 50 998 2727",
+   "+971509664956",
+   "+971552929644"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -47,5 +69,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:53:16Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-288GPM",
+  "why": "官网快照对位：工业/自动化词频 5、PoE 2 → DIN 8 PoE+ 2 SFP 起手",
+  "date": "2026-10-29"
+ }
 }

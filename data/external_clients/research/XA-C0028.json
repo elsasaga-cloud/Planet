@@ -1,9 +1,9 @@
 {
  "code": "XA-C0028",
  "name": "BYTEC Bodry Technology GmbH",
- "round": "W1-R01",
- "researched_at": "2026-10-27",
- "alive": "活",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（bytec.de，快照 2026-10-29）：bytec – Ihr Spezialdistributor im IT Großhandel",
  "summary": "腓特烈港的 IT 专业分销商（1989 起，92 人，2023 营收 ≈2.64 亿欧元），Fujitsu/Lenovo 主力分销，2020 起加 D-Link 全线。体量大、网络线刚起步且已绑 D-Link。",
  "type_final": "IT 专业分销商（大，Fujitsu/Lenovo/D-Link）",
  "size": "92 人；€264M（2023）",
@@ -30,6 +30,13 @@
    "quote": "",
    "url": "https://www.it-business.de/bytec-vertreibt-das-netzwerkportfolio-von-d-link-a-980896/",
    "date": "2020-11-20"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；bytec – Ihr Spezialdistributor im IT Großhandel",
+   "quote": "Wir liefern schnell, effizient und zuverlässig Hardware, Software & IT-Services - für Reseller, Systemhäuser, Softwarehäuser und den IT Fachhandel.",
+   "url": "https://www.bytec.de/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
@@ -48,7 +55,18 @@
   "window": "",
   "when": ""
  },
- "notes": "",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/evidence/site_p1_hint。\n",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:42:44Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-28DGGPM",
+  "why": "官网快照对位：PoE 词频 1 → 8 口 PoE+ 2 SFP L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

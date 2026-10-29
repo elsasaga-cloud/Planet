@@ -1,9 +1,9 @@
 {
  "code": "XA-E007",
  "name": "Blue Core Networks",
- "round": "W1-R01",
- "researched_at": "2026-10-27",
- "alive": "官网活（Marlboro/Northborough MA 两址），2026-10-27",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（bluecorenetworks.com，快照 2026-10-29）：Bluecore",
  "summary": "1997 年起的小型厂商中立 IT 方案商（约 15 人，$2.9M），做存储/安全/DC/无线/VoIP 全科；交换机只是其中一项，没有自有渠道体量。10-19 发 partners@ 未回。",
  "type_final": "小型 IT 方案商 / VAR（厂商中立）",
  "size": "≈15 人；$2.9M（Manta）",
@@ -33,6 +33,13 @@
    "quote": "",
    "url": "https://www.bluecorenetworks.com/",
    "date": "2026-10-27"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Bluecore",
+   "quote": "Bluecore",
+   "url": "https://www.bluecorenetworks.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
@@ -44,7 +51,16 @@
     "role": "Key Principal（D&B 单源）",
     "source": "来源库"
    }
-  ]
+  ],
+  "page_emails": [
+   "info@bluecorenetworks.com",
+   "jobs@bluecorenetworks.com",
+   "partners@bluecorenetworks.com",
+   "support@bluecorenetworks.com",
+   "user@domain.com"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-19 发 partners@ → 已发未回",
  "saga_overlap": "无",
@@ -58,7 +74,13 @@
   "window": "US 周三 08–10 当地",
   "when": "2026-12"
  },
- "notes": "与 Bluecore（营销 SaaS，2026-10 被 Insider One 收购）同名不同家，勿混。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence。\n与 Bluecore（营销 SaaS，2026-10 被 Insider One 收购）同名不同家，勿混。",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:42:51Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

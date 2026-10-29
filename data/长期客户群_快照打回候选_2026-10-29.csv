@@ -1,0 +1,67 @@
+﻿库,编号,公司,国家,等级,最近状态,失败日期,建议
+Planet,PB-068,MARCOM S.r.l.,意大利,B,http_error,2026-10-29,两次快照失败 → 复核是否打回 C 储备（可逆）
+Planet,PB-084,VoIPDistri.com (VOIP.world),德国,B,http_error,2026-10-29,两次快照失败 → 复核是否打回 C 储备（可逆）
+Planet,PB-086,Technical Reality Limited,英国,B,unreachable,2026-10-29,两次快照失败 → 复核是否打回 C 储备（可逆）
+Saga,SA-004,Boecek Sec,德国,A,parked_or_empty,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-014,"ITS, S.L.-S.B.T.",西班牙,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-024,ERSTECH,匈牙利,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-027,VoIPDistri,德国,B,timeout,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-081,dabos.com,美国,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-090,adlerss.com,德国,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-1012,bitstreamcore.com,菲律宾,B,timeout,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-1034,gogss.com,美国,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-1051,klemsan.com.tr,土耳其,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-1055,marcomweb.it,意大利,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-1064,portdepo.ru,俄罗斯,B,unreachable,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-1075,silmarelectronics.com,美国,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-1087,tehnoelectric.ro,罗马尼亚,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-1098,zintronic.pl,波兰,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-146,exsys.it,意大利,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-165,yminc.ca,加拿大,B,timeout,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-187,pelikanbilgisayar.com,土耳其,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-195,bkgrupe.lt,立陶宛,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-225,CESS Govalik,土耳其,B,unreachable,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-234,benzotronic.it,意大利,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-268,bulutlarbilisim.com,土耳其,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-273,eretekne.com,土耳其,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-294,viva bilgisayar,土耳其,B,parked_or_empty,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-307,Saxco Marketing Sdn Bhd,马来西亚,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-321,BWsystems,德国,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-346,atz.com.sg,新加坡,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-352,fiberdyne.com,美国,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-354,fiberopticlink.com,美国,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-386,dvs.co.uk,英国,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-389,hiperonline.com,土耳其,A,parked_or_empty,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-396,morekamer.ru,俄罗斯,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-400,safanetworks.com,阿联酋,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-451,e-saudi.net,沙特阿拉伯,A,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-460,4G-GmbH,德国,B,unreachable,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-487,npotelecom.ru,俄罗斯,B,timeout,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-509,ionetech.com,韩国,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-522,adilec.com,西班牙,B,parked_or_empty,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-525,atlantis-land.com,意大利,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-537,htvision.ru,俄罗斯,B,unreachable,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-551,sanspot.com,美国,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-558,uniformatic.fr,法国,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-564,Latitude,莫桑比克,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-575,marbim.com.tr,土耳其,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-636,MARZETEK (Pty) Ltd,南非,B,parked_or_empty,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-691,vitel.com.tr,土耳其,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-724,Comms Express Ltd,英国,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-729,Heitech Padu Berhad,马来西亚,B,parked_or_empty,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-730,ITSS Inc/,美国,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-740,britaniccablingproduction.com,英国,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-772,mencom.com,美国,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-781,silvernet.com,英国,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-797,Excel Engineering (SG) Pte Ltd,新加坡,B,unreachable,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-815,lendoux.com,加拿大,B,parked_or_empty,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-838,gmidatabox.fr,法国,B,timeout,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-844,oemarket.com,澳大利亚,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-895,vilcom.ru,俄罗斯,B,timeout,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-944,fybera.com,保加利亚,B,unreachable,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-948,krysma.com.au,澳大利亚,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-962,triplenet.co.kr,韩国,B,unreachable,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-966,view-tel.co.kr,韩国,B,unreachable,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-968,zenithtek.co.kr,韩国,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-972,KN Electrologic Services Ltd,塞浦路斯,B,timeout,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）
+Saga,SB-993,abigo4u.com,荷兰,B,http_error,2026-10-21;2026-10-29,两次快照失败 + 无真回 / 无 WA → 复核是否打回 C 储备（可逆）

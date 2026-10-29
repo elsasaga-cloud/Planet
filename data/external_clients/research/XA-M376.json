@@ -1,9 +1,9 @@
 {
  "code": "XA-M376",
  "name": "Daten- und Telekommunikations-GmbH Dessau",
- "round": "W1-R03",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-27 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（datel-dessau.de，快照 2026-10-29）：DATEL Dessau | Glasfaser, Internet, Telefon & TV",
  "summary": "区域运营商（Dessau）；Marvell Prestera 接入层切入",
  "type_final": "区域运营商（Dessau）",
  "size": "未量化",
@@ -19,12 +19,25 @@
    "quote": "",
    "url": "https://datel-dessau.de/",
    "date": "2026-09-27"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；DATEL Dessau | Glasfaser, Internet, Telefon & TV",
+   "quote": "DATEL Dessau: Ihr regionaler Partner für Glasfaserausbau, Highspeed-Internet, Telefon und Fernsehen – mit persönlichem Service vor Ort.",
+   "url": "https://www.datel-dessau.de/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "datel-vertrieb@dvv-dessau.de",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "datel-vertrieb@dvv-dessau.de",
+   "kundenservice@datel-gmbh.de"
+  ],
+  "page_phones": [],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -38,7 +51,13 @@
   "window": "",
   "when": "不动"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:49:08Z"
+  ],
+  "last_ok": "2026-10-29"
+ }
 }

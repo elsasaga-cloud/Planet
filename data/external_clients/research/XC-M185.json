@@ -1,19 +1,33 @@
 {
  "code": "XC-M185",
  "name": "Koning & Hartman B.V.",
- "round": "X1-02",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "alive": "在线（koningenhartman.com，快照 2026-10-29）：Koning & Hartman | Slimme Technologie & Duurzame oplossing",
  "summary": "Koning & Hartman B.V.：工业 / 电信 / 安防技术分销（ORing 授权；比利时 Vilvoorde 分部 info.be@）；中型",
  "type_final": "分销（ORing 授权）；Koning & Hartman B.V.",
  "size": "",
  "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
  "fit": "★ 工业 / 电信 / 安防技术分销 20%：Koning & Hartman B.V.（Zwijndrecht Vol",
- "brands_seen": [],
+ "brands_seen": [
+  "ORing"
+ ],
  "contacts": {
   "email": "info@koningenhartman.com",
   "email_status": "官网 / 名录公开（X1-02 补路径）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "accountspayable@koningenhartman.com",
+   "info.be@koningenhartman.com",
+   "info@koningenhartman.com",
+   "sales@koningenhartman.com"
+  ],
+  "page_phones": [
+   "+31(0)88 181 8666",
+   "+32(0)2 257 02 00",
+   "0008 4821 65"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "evidence": [
   {
@@ -29,6 +43,13 @@
    "quote": "",
    "url": "https://etotaal.nl/nieuws/nieuw-onderkomen-koning-hartman/",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Koning & Hartman | Slimme Technologie & Duurzame oplossing",
+   "quote": "Koning & Hartman is dé specialist in industrie. Wij leveren innovatieve technologieën en duurzame oplossingen die bedrijven slimmer, betrouwbaarder en toekomstbestendig maken.",
+   "url": "https://www.koningenhartman.com/nl/",
+   "date": "2026-10-29"
   }
  ],
  "touch_status": "未触达（路径 2026-10-29 新补）",
@@ -40,6 +61,17 @@
   "angle": "已入 P 池 → 按巡检节奏首触"
  },
  "deep": false,
- "notes": "Koning & Hartman B.V.；Voltastraat 4, 3335 KK Zwijndrecht（2024-06 起）；发票地址 Louis Braillelaan 60 Zoetermeer；KvK 34222312；BTW NL814169144B01；+31 88 18 18 666",
- "draft_en": null
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nKoning & Hartman B.V.；Voltastraat 4, 3335 KK Zwijndrecht（2024-06 起）；发票地址 Louis Braillelaan 60 Zoetermeer；KvK 34222312；BTW NL814169144B01；+31 88 18 18 666",
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:57:50Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-28DGGPM",
+  "why": "官网快照对位：交换机词频 5、无 PoE/工业侧重 → 8 口 L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

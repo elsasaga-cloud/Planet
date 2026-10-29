@@ -1,9 +1,9 @@
 {
  "code": "XC-M120",
  "name": "Tekniska Polska",
- "round": "LT-T01",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "域名 tekniska.pl MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "alive": "在线（tekniska.pl，快照 2026-10-29）：Tekniska - Lider Przemysłowej Transmisji Danych",
  "summary": "Tekniska Polska（波兰）：分销（Westermo Gold）；Westermo",
  "type_final": "分销（Westermo Gold）",
  "size": "",
@@ -47,6 +47,13 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Tekniska - Lider Przemysłowej Transmisji Danych",
+   "quote": "Projektujesz lub modernizujesz sieci OT? Tekniska dostarcza przemysłową transmisję danych i OT/ICS Security: dobór technologii, wdrożenia, produkty i szkolenia.",
+   "url": "https://tekniska.pl/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
@@ -79,5 +86,16 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/evidence/site_p1_hint。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:57:19Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-28DGGPM",
+  "why": "官网快照对位：交换机词频 18、无 PoE/工业侧重 → 8 口 L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

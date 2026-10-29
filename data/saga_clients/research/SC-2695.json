@@ -2,7 +2,7 @@
  "code": "SC-2695",
  "name_official": "慧友電子股份有限公司 EverFocus Electronics Corp.",
  "researched_at": "2026-10-29",
- "website_status": "域名 everfocus.com（官网快照待 Actions 补抓）",
+ "website_status": "在线（everfocus.com，快照 2026-10-29）：Everfocus",
  "summary": "C 池三闸捞出（★ 正式）：★ 台湾 · 上市品牌商 OEM 30%（长线）：慧友電子 EverFocus Electronics Corp.（新北；統編 89639615；上市 5484；1995；實收 NT$11.85 億）坐实；自有品牌 ✔ 上市 ✔ 对位 ✔ → P 池候选（找硬件采购）",
  "type": "上市品牌商 OEM（闸 2 判定 · 30% 档）",
  "size": "大型（上市；實收 NT$11.85 億）",
@@ -40,7 +40,7 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 台湾 · 上市品牌商 OEM 30%（长线）：慧友電子 EverFocus Electronics Corp.（新北；統編 89639615；上市 5484；1995；實收 NT$11.85 億）坐实；自有品牌 ✔ 上市 ✔ 对位 ✔ → P 池候选（找硬件采购）；闸 1：台湾 EverFocus（everfocus.com；台湾安防品牌商，安防 / 通讯较杂，商业 PoE 自有牌）：品牌商 = OEM 对象 ✔ 对位 ✔（台湾 OEM 先例：DGTAS / HiSharp / AVTECH 已入池）；→ …",
- "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/saga_fit/deep/facts。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -70,8 +70,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "STC-424XGGPM-280W",
-   "why": "默认对位（上市品牌商 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
+   "p1": "STI-288GPM",
+   "why": "官网快照对位：工业/自动化词频 30、PoE 20 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -93,6 +93,14 @@
     "quote": "TW · 1 次检索：twincn（統編 / 上市 / 代表人 / 工廠）+ twfile（實收 / 董監事）；2026-10-29",
     "why": "闸 2 坐实来源（URL 见 company_facts.url）",
     "url": "https://twincn.com/item.aspx?no=89639615"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Everfocus — EverFocus Electronics Corp., established in 1995, is a global provider of intelligent security and smart transportation solutions. Committed to the principles of",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.everfocus.com/"
    }
   ],
   "proof_gaps": [
@@ -128,14 +136,48 @@
   "表内兴趣：安防 通讯等 比较杂；商业POE"
  ],
  "saga_fit": {
-  "p1": "STC-424XGGPM-280W",
+  "p1": "STI-288GPM",
   "tier": 30,
-  "why": "默认对位（上市品牌商 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
-  "basis": "默认 · 官网快照后按业务线校正"
+  "why": "官网快照对位：工业/自动化词频 30、PoE 20 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）",
+  "basis": "官网快照自动对位（LT-T03）· 人工点名时再校",
+  "p1_prev": "STC-424XGGPM-280W"
  },
  "deep": {
   "done_at": "2026-10-29",
-  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
-  "batch": "LT-T01"
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T01",
+  "snapshot_at": "2026-10-29"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:38:08Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [
+   "+1 (626) 844-8838",
+   "+1 (626) 844-8888",
+   "+81 (3) 4363-2790"
+  ],
+  "social": [
+   "https://www.facebook.com/EverFocusHQ/",
+   "https://www.linkedin.com/company/560215",
+   "https://www.linkedin.com/company/everfocus-usa",
+   "https://www.youtube.com/@EverFocusIP"
+  ],
+  "models_on_site": [
+   "EMS12D2",
+   "EAR-100T",
+   "EMV1600",
+   "PHX-N1000",
+   "ISO9001",
+   "RS-485"
+  ],
+  "url": "https://www.everfocus.com/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -1,19 +1,42 @@
 {
  "code": "XC-M186",
  "name": "SmartSD",
- "round": "X1-02",
+ "round": "LT-T03",
  "researched_at": "2026-10-29",
- "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "alive": "在线（smartsd.com，快照 2026-10-29）：SmartSD is a Security distributor - SmartSD",
  "summary": "SmartSD B.V.：安防分销（视频 / 门禁 / 入侵 / 消防；ComNet 授权）；51–100 人；中型",
  "type_final": "分销（ComNet 授权）；SmartSD B.V.",
  "size": "",
  "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
  "fit": "★ 安防分销 20%：SmartSD B.V.（Breda Minervum 7118；KvK 24430056；51–",
- "brands_seen": [],
+ "brands_seen": [
+  "Hikvision",
+  "Dahua",
+  "Bosch",
+  "Pulsar",
+  "Hanwha",
+  "Netgear",
+  "EtherWAN",
+  "ComNet",
+  "Vivotek",
+  "Axis",
+  "Ajax"
+ ],
  "contacts": {
   "email": "info@smartsd.com",
   "email_status": "官网 / 名录公开（X1-02 补路径）",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "info@smartsd.com",
+   "info@smartsd.fr"
+  ],
+  "page_phones": [
+   "+31765792577",
+   "+3233698080",
+   "+33 2 19 00 59 25",
+   "+34961594646"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "evidence": [
   {
@@ -36,6 +59,13 @@
    "quote": "",
    "url": "https://drimble.nl/bedrijf/breda/19040768/smartsd-bv.html",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；SmartSD is a Security distributor - SmartSD",
+   "quote": "SmartSD is a Security distributor - SmartSD",
+   "url": "https://smartsd.com/en",
+   "date": "2026-10-29"
   }
  ],
  "touch_status": "未触达（路径 2026-10-29 新补）",
@@ -47,6 +77,17 @@
   "angle": "已入 P 池 → 按巡检节奏首触"
  },
  "deep": false,
- "notes": "SmartSD B.V.；Minervum 7118, Breda（+ SmartSD Hommax 西班牙 Picanya；BeLux）；KvK 24430056；+31 76 579 2577",
- "draft_en": null
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nSmartSD B.V.；Minervum 7118, Breda（+ SmartSD Hommax 西班牙 Picanya；BeLux）；KvK 24430056；+31 76 579 2577",
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:57:53Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-28DGGPM",
+  "why": "官网快照对位：交换机词频 15、无 PoE/工业侧重 → 8 口 L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

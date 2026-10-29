@@ -46,7 +46,7 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · dayjob：Optimal Cable Services Pty Ltd → AFL（Tottenham VIC；光缆 / 连接产品制造；Peter Dicka 现 Manager Connectivity AFL Australia = 表内 KP 在职）部分坐实（ABN 未取）；2007 起长期成单 ✔ KP 在职 ✔；产品偏光传输 + AFL 集团体系 → 入池观察档，待…；闸 1：澳大利亚 Optimal Cable Services（现属 AFL）：2007 年起合作、买过 MC / CWDM、「偶尔有反应」、23 次跟进 → 长期成单户 + 体量；产品偏光传输 → 闸 2 核现状并标 dayjob",
- "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/saga_fit/deep/facts。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -76,8 +76,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "STC-2216GP",
-   "why": "默认对位（类型待定 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）"
+   "p1": "STI-288GPM",
+   "why": "官网快照对位：工业/自动化词频 36、PoE 2 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-2216GP）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -99,6 +99,14 @@
     "quote": "AU · 1 次检索：crunchbase（被 AFL 收购；11–50）+ bluebusinessguide（地址 / 电话）+ zoominfo（Peter Dicka 现职）；ABN 未取；2026-10-29",
     "why": "闸 2 坐实来源（URL 见 company_facts.url）",
     "url": "https://www.crunchbase.com/organization/optimal-cable-services"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "AFL | Fibre Optic Cable, Splicers & Solutions - Australia — AFL provides engineered fibre optic cables, fusion splicers, and connectivity solutions for data centre, broadband, and telecom networks across Australia.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.aflglobal.com/en/au"
    }
   ],
   "proof_gaps": [
@@ -136,14 +144,47 @@
   "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
  ],
  "saga_fit": {
-  "p1": "STC-2216GP",
+  "p1": "STI-288GPM",
   "tier": 25,
-  "why": "默认对位（类型待定 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）",
-  "basis": "默认 · 官网快照后按业务线校正"
+  "why": "官网快照对位：工业/自动化词频 36、PoE 2 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-2216GP）",
+  "basis": "官网快照自动对位（LT-T03）· 人工点名时再校",
+  "p1_prev": "STC-2216GP"
  },
  "deep": {
   "done_at": "2026-10-29",
-  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
-  "batch": "LT-T01"
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T01",
+  "snapshot_at": "2026-10-29"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:36:31Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "ausmarketingteam@aflglobal.com",
+   "marketing@aflglobal.com"
+  ],
+  "phones": [
+   "+1 (800) 235-3423"
+  ],
+  "social": [
+   "https://twitter.com/AFLglobal",
+   "https://www.facebook.com/AFLglobal",
+   "https://www.instagram.com/afl.global/",
+   "https://www.linkedin.com/company/aflglobal"
+  ],
+  "models_on_site": [
+   "FS300",
+   "FS300-HDR",
+   "AFL-OHODF-3RU",
+   "AFL-OHODF-4RU"
+  ],
+  "url": "https://www.aflglobal.com/en/au",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

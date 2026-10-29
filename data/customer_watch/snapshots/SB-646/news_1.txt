@@ -1,4 +1,4 @@
-# SB-646 artsistem.com · news_1 · https://www.artsistem.com/haberler · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-646 artsistem.com · news_1 · https://www.artsistem.com/haberler · fetched 2026-10-29T15:11:51Z · HTTP 200
 Haberler · Art Sistem
 📍 İstanbul · Ankara · Gaziantep · (0212) 552 52 42
 destek@artsistem.com · Bayi Başvurusu · B2B Giriş
@@ -51,7 +51,10 @@ Sensei
 Tüm Markalar
 Kurumsal Markalar Ürün Kategorileri Çözümler Faydalı Araçlar E-Hizmetler Haberler İletişim B2B Giriş Bayi Başvurusu
 Ana Sayfa / Haberler Haberler
-Sektörden güncel haberler ve analizler ( 47 içerik).
+Sektörden güncel haberler ve analizler ( 48 içerik).
+Sektör Haberi Çin'de Posta Merkezinde İnsansı Robotlar İş Başında
+Çin'de dev bir posta merkezinde insansı robotlar paket taşıma ve sınıflandırma süreçlerinde görev almaya başladı.
+29 Ekim 2026
 Ürün Lansmanı MSI'dan üç modlu dünya ilki oyuncu monitörü
 MSI, Computex 2026'da tanıtacağı MPG OLED 322URDX36 ile 4K, 2K ve FHD çözünürlükler arasında geçiş yapan dünyanın ilk monitörünü duyurdu.
 29 Ekim 2026
@@ -138,9 +141,6 @@ ASUS ROG, espor oyuncularına yönelik 540 Hz yenileme hızına sahip OLED monit
 16 Haziran 2026
 Ürün Lansmanı Intel Arc G3 ile MSI Claw 8 EX yeni çıta koyuyor
 Intel'in el konsollarına özel ilk SoC'u Arc G3, MSI Claw 8 EX ile sahneye çıktı. Performans çıtası yükseliyor; ancak fiyat da buna paralel artıyor.
-16 Haziran 2026
-Ürün Lansmanı Acer Swift Spin 14 AI: 26 Saatlik Batarya, MIL-STD-810H
-Acer, 360 derece dönebilen Swift Spin 14 AI ile 26 saatlik batarya ömrü ve MIL-STD-810H sertifikasını bir arada sunuyor. Intel Core Ultra 9 ve Wi-Fi 7 desteği öne çıkıyor.
 16 Haziran 2026
 22 yıldır Türkiye'nin lider teknoloji dağıtıcısı. 5.000+ bayi, 3 şube.
 Facebook Instagram LinkedIn YouTube WhatsApp

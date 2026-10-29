@@ -8,7 +8,9 @@
  "size": "微型（1–10）",
  "brands_seen": [
   "Hikvision",
-  "Uniview"
+  "Uniview",
+  "Ajax",
+  "Dahua"
  ],
  "evidence": [
   {
@@ -49,7 +51,7 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · 分销 20%：lojaCCTV = Neurónio Digital, Unipessoal Lda.（NIF 517867990；Ramada；一人公司 1–10）坐实；回信 ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔ → 入池观察档，预付 100%；闸 1：葡萄牙 LojaCCTV（卖多种外壳 PoE 的安防网店 / 分销，回过 1 次、16 次跟进）→ 欧洲主区 + 回信 + 对位 ✔ → 闸 2 查底数",
- "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/saga_fit/deep/facts。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -79,8 +81,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "STC-228GP",
-   "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
+   "p1": "STC-424XGGPM-280W",
+   "why": "官网快照对位：PoE 词频 236、监控 119 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -102,6 +104,14 @@
     "quote": "PT · 1 次检索：lojacctv.com/page/termos-e-condicoes（Neurónio Digital, Unipessoal Lda.；NIF 517867990；Ramada）+ ensun（1–10）；2026-10-29",
     "why": "闸 2 坐实来源（URL 见 company_facts.url）",
     "url": "https://www.lojacctv.com/page/termos-e-condicoes"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "lojaCCTV | Sistemas de Videovigilância, Alarmes e Controlo de Acessos — Especialistas em videovigilância, alarmes e segurança. Univies, Hikvision, Dahua e Ajax. Envios nacionais e instalação em Loures e Lisboa",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.lojacctv.com/"
    }
   ],
   "proof_gaps": [
@@ -139,14 +149,51 @@
   "**分销 20%：点名 Fábio 续上回信一页纸（STC-028GP $28 / STC-228GP $33 + MOQ 1；一人公司 → 预付 100%）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**"
  ],
  "saga_fit": {
-  "p1": "STC-228GP",
+  "p1": "STC-424XGGPM-280W",
   "tier": 20,
-  "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
-  "basis": "默认 · 官网快照后按业务线校正"
+  "why": "官网快照对位：PoE 词频 236、监控 119 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）",
+  "basis": "官网快照自动对位（LT-T03）· 人工点名时再校",
+  "p1_prev": "STC-228GP"
  },
  "deep": {
   "done_at": "2026-10-29",
-  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
-  "batch": "LT-T01"
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T01",
+  "snapshot_at": "2026-10-29"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:35:13Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "geral@lojacctv.com"
+  ],
+  "phones": [
+   "+351211519300",
+   "+351935538441"
+  ],
+  "social": [
+   "https://pt.linkedin.com/company/lojacctv",
+   "https://www.facebook.com/lojacctv",
+   "https://www.instagram.com/lojacctv_oficial/",
+   "https://www.youtube.com/@lojacctv"
+  ],
+  "models_on_site": [
+   "DS-KIS602",
+   "DS-KIS605-P",
+   "DS-KIS612-P",
+   "DS-KIS611-S",
+   "DS-KIS610-P",
+   "MANUAL-3D2B5B02",
+   "PT-2000X",
+   "UV-KIT118-B42POE"
+  ],
+  "url": "https://www.lojacctv.com/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

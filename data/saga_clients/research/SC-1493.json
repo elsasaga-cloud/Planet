@@ -12,7 +12,11 @@
   "Axis",
   "Extreme",
   "Cambium",
-  "Milesight"
+  "Milesight",
+  "Teltonika",
+  "Hanwha",
+  "MikroTik",
+  "Ubiquiti"
  ],
  "evidence": [
   {
@@ -59,7 +63,7 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 中型分销 20%：DUXBURY TRANSMISSION EQUIPMENT (PTY) LTD t/a Duxbury Networking（Johannesburg；注册号 2018/441897/07；1984 起；三分部；8,000+ 经销伙伴；3 具名邮箱在表）坐实；索样互动 ✔ 分销体量 ✔ 对位 ✔ 具名 KP ✔ → P 池候选（次优区长线）；闸 1：南非 Duxbury Networking（知名分销商）：要过 8 光 8 管理 PoE 样品、「也卖很多商业 PoE」、常用邮件沟通；16 推 0 回 → 分销体量 + 对位 ✔ → 闸 2",
- "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/saga_fit/deep/facts。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -89,8 +93,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "STC-228GP",
-   "why": "默认对位（中型分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
+   "p1": "STI-288GPM",
+   "why": "官网快照对位：工业/自动化词频 39、PoE 78 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -112,6 +116,14 @@
     "quote": "ZA · 1 次检索：duxbury.co.za/privacy-policy/（法人 + 注册号 + 地址）+ telecoms-channel.co.za（沿革 / 品牌 / 规模）；2026-10-29",
     "why": "闸 2 坐实来源（URL 见 company_facts.url）",
     "url": "https://www.duxbury.co.za/privacy-policy/"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Duxbury Networking",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.duxbury.co.za/"
    }
   ],
   "proof_gaps": [
@@ -151,14 +163,54 @@
   "**大分销 → 分销 20%：点名曾索样者一页纸一次（STC-4424GCPM L2+ Marvell $165 对标其索样口型 + STC-228GP + MOQ 1 + 付费样机）— 区域外常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳；低频一页纸**；次优区长线"
  ],
  "saga_fit": {
-  "p1": "STC-228GP",
+  "p1": "STI-288GPM",
   "tier": 20,
-  "why": "默认对位（中型分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
-  "basis": "默认 · 官网快照后按业务线校正"
+  "why": "官网快照对位：工业/自动化词频 39、PoE 78 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）",
+  "basis": "官网快照自动对位（LT-T03）· 人工点名时再校",
+  "p1_prev": "STC-228GP"
  },
  "deep": {
   "done_at": "2026-10-29",
-  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
-  "batch": "LT-T01"
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T01",
+  "snapshot_at": "2026-10-29"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:35:15Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "%20info@duxnet.co.za",
+   "%20support@duxnet.co.za",
+   "cybersecurity@duxnet.co.za",
+   "info@duxnet.co.za",
+   "support@duxnet.co.za"
+  ],
+  "phones": [
+   "+27 11 351 9800"
+  ],
+  "social": [
+   "https://www.facebook.com/duxburynetworking",
+   "https://www.instagram.com/duxburynetworking/",
+   "https://www.linkedin.com/company/duxbury-networking/",
+   "https://x.com/dux_net"
+  ],
+  "models_on_site": [
+   "TNS-100",
+   "GS2048PS4-720W",
+   "RB5009",
+   "RB-5009",
+   "GS108E-400EUS",
+   "GS116-300EUS",
+   "TX2012R-P",
+   "AG1-5250M"
+  ],
+  "url": "https://www.duxbury.co.za/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

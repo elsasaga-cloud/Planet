@@ -1,4 +1,4 @@
-# SB-280 metcom.com.tr · feed_auto · https://www.metcom.com.tr/feed/ · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-280 metcom.com.tr · feed_auto · https://www.metcom.com.tr/feed/ · fetched 2026-10-29T15:11:51Z · HTTP 200
 Mon, 03 Oct 2022 01:11:58 +0000	ISAF SECURITY	https://www.metcom.com.tr/product-category-pts-trafik-dsp-kameralari.html/
 Tue, 01 Mar 2022 01:36:39 +0000	Hytera PNC360S (PoC) Bas-Konuş Telsiz	https://www.metcom.com.tr/product-hytera-pnc360s-poc-bas-konus-telsiz.html/
 Sun, 22 Nov 2020 19:14:08 +0000	Araç Takip Sistemleri	https://www.metcom.com.tr/arac-takip-sistemleri.html/

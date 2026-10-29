@@ -26,7 +26,7 @@
    "source": "S 邮箱签名"
   }
  ],
- "notes": "2.5 年前的 RFQ，先确认 Simon 当时是否在别的渠道回过；若没有，可发一封「当年没接上，现在 L2+/L3 线成熟」的短信重新开门（只对交换机部分，路由器不做）。公共项目/运营商类项目注意守界。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。\n2.5 年前的 RFQ，先确认 Simon 当时是否在别的渠道回过；若没有，可发一封「当年没接上，现在 L2+/L3 线成熟」的短信重新开门（只对交换机部分，路由器不做）。公共项目/运营商类项目注意守界。",
  "researched_at": "2026-10-22",
  "saga_fit": {
   "p1": "STI-41616XGGPM",
@@ -73,6 +73,14 @@
     "quote": "Attached herewith are the technical specifications of different Access/Aggregation switches and Routers for your working for technical compliance statement.",
     "why": "RFQ",
     "k": "7203d72a927b7030"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Litech Pakistan offering Optical Fiber Cables & Telecom Cables in Pakistan — Litech Pakistan is Top Manufacturer of Best Quality Optical Fiber Cables in Pakistan. and is Sole Distributor in Pakistan for Exfo (Canada) , Inno Instruments , Wolong Batteries (China). Our professional skills in manufactu",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://litech.com.pk/"
    }
   ],
   "proof_gaps": [],
@@ -91,7 +99,45 @@
  },
  "deep": {
   "done_at": "2026-10-29",
-  "level": "邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓）",
-  "batch": "LT-T01"
+  "level": "邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29）",
+  "batch": "LT-T01",
+  "snapshot_at": "2026-10-29"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:31:59Z"
+  ],
+  "last_ok": "2026-10-29",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "fsd@litech.com.pk",
+   "info@litech.com.pk"
+  ],
+  "phones": [
+   "+92) 310 092 4444",
+   "+92) 310 0924444",
+   "+92) 41 262 6671"
+  ],
+  "social": [
+   "https://www.facebook.com/litechpakistan",
+   "https://www.instagram.com/litech_pakistan/",
+   "https://www.linkedin.com/company/litech-pakistan",
+   "https://www.twitter.com/LitechPakistan"
+  ],
+  "models_on_site": [
+   "FTB-2",
+   "FTB-4",
+   "FPM-600",
+   "FTB-5500B",
+   "PPM-350C",
+   "MAX-800",
+   "FIP-400B",
+   "FOT-300"
+  ],
+  "url": "https://litech.com.pk/",
+  "date": "2026-10-29",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

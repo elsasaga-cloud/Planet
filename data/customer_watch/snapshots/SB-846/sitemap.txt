@@ -1,4 +1,4 @@
-# SB-846 qualicam.de · sitemap · https://www.qualicam.de/sitemap.xml · fetched 2026-10-29T08:41:09Z · HTTP 200
+# SB-846 qualicam.de · sitemap · https://www.qualicam.de/sitemap.xml · fetched 2026-10-29T15:11:51Z · HTTP 200
 	https://www.qualicam.de/
 	https://www.qualicam.de/angebote/ip-kamera-13mp-vario-infrarot-ip66-q5-ah10a62.html
 	https://www.qualicam.de/angebote/ip-box-kamera-vivotek-dual-codec-ip7160-20mp.html

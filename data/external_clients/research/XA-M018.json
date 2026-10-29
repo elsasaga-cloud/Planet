@@ -1,9 +1,9 @@
 {
  "code": "XA-M018",
  "name": "Holger Witt / SKYTRON Communications GmbH & Co. KG",
- "round": "W1-R03",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（skytron.business，快照 2026-10-29）：SKYTRON Business - Ihr Experte für Richtfunk & Telekommunikation",
  "summary": "WISP/运营商（Karlsbad，自建骨干）；MikroTik 认证顾问：自己做方案/集成/运维，会自己采购设备 → 用 ERPS/IGMP/VLAN/CLI 这类技术语言切入，不打价格战",
  "type_final": "WISP/运营商（Karlsbad，自建骨干）",
  "size": "未量化",
@@ -26,12 +26,29 @@
    "quote": "",
    "url": "https://skytron.business/",
    "date": "2026-09-28"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；SKYTRON Business - Ihr Experte für Richtfunk & Telekommunikation",
+   "quote": "Wir bieten ein breites Spektrum an Dienstleistungen, darunter Richtfunk, Glasfaser, IT-Security, WLAN, Telefonanlagen, Cloud, Rechenzentrum sowie IoT & LoRaWAN.",
+   "url": "https://skytron.business/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "h.witt@skytron.de",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "info@skytron.de",
+   "support@skytron.de",
+   "vertrieb@skytron.de"
+  ],
+  "page_phones": [
+   "+49 (72 48) 45 28 - 0",
+   "+49 (72 48) 45 28 - 60"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",
@@ -45,7 +62,18 @@
   "window": "",
   "when": "不动"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "deep": false,
- "draft_en": null
+ "draft_en": null,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:43:16Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STC-28DGGPM",
+  "why": "官网快照对位：交换机词频 2、无 PoE/工业侧重 → 8 口 L2+ 起手",
+  "date": "2026-10-29"
+ }
 }

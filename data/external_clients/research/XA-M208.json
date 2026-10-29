@@ -1,14 +1,16 @@
 {
  "code": "XA-M208",
  "name": "Dipol Connect SRL",
- "round": "W2-R05d",
- "researched_at": "2026-10-27",
- "alive": "来源库 2026-09-28 核对在线；本轮未复查",
+ "round": "LT-T03",
+ "researched_at": "2026-10-29",
+ "alive": "在线（dipolnet.ro，快照 2026-10-29）：Sisteme supraveghere, reţelistică, wireless, TV, satelit, antene, cabluri - DIPOL",
  "summary": "安防/网络分销（Dipol Connect SRL，București；波兰 DIPOL 集团罗马尼亚公司）；MikroTik 官方分销，商用线可直接比价，工业线为零 → 新品类增量",
  "type_final": "安防/网络分销（Dipol Connect SRL，București；波兰 DIPOL 集团罗马尼亚公司）",
  "size": "未量化",
  "brands_seen": [
-  "MikroTik（Reseller）"
+  "MikroTik（Reseller）",
+  "TP-Link",
+  "Hikvision"
  ],
  "saga_line": "SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE",
  "fit": "安防 + 网络分销",
@@ -26,12 +28,31 @@
    "quote": "",
    "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
    "date": "2026-10-09"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Sisteme supraveghere, reţelistică, wireless, TV, satelit, antene, cabluri - DIPOL",
+   "quote": "CCTV IP, WLAN, TV SAT, TP-Link, antene, HDMI, camere, cable coaxial, elementy LAN, torsadate, switch-uri, multiswitchuri, DVR-uri, obiective, routere, adsl, convertoare SAT TV, echipamente TP-link, iluminatoare IR, switch-uri. Gamă completă de cabluri. Service profesional şi cele mai bune produse.",
+   "url": "https://www.dipolnet.ro/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
   "email": "office@dipolnet.ro",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "page_emails": [
+   "office@dipolnet.ro"
+  ],
+  "page_phones": [
+   "+45 (0) -40",
+   "+45 (10) 0",
+   "+50 (2) (1) -25",
+   "+50 (2) -25",
+   "+65 (1) -30",
+   "+65 (3) -20"
+  ],
+  "page_note": "官网公开页抓取 2026-10-29；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-09 群发「24 Port PoE Managed Switch」→ 已发未回",
  "saga_overlap": "无",
@@ -45,10 +66,21 @@
   "window": "RO 周四 12–14",
   "when": "2026-12-10"
  },
- "notes": "轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "draft_en": {
   "subject": "PoE switch line for your reseller channel - distributor pricing",
   "body": "Hi,\n\nI wrote on 9 October about our 24-port PoE L2+ switch ('24 Port PoE Managed Switch'); this is a different angle, so a fresh note rather than a reply.\n\nThree PoE switches our distributor partners move most, all EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE, under our label or yours:\n\n- STC-2224GP: 24 x GE PoE+ (300 W) + 2 x GE + 2 x SFP, USD 86.\n- STC-424XGGPM-280W: 24 x GE PoE+ (280 W) + 4 x 10G SFP+, Marvell-based L2+ managed, USD 170.\n- STI-288DGGPM: DIN-rail industrial L2+, 8 x GE PoE+ (240 W) + 2 x SFP, -40 to +75 C, USD 137, 3-year warranty (12 months on the commercial units).\n\nWhich of the three would be worth a sample for your product team first - the 24-port entry PoE, the 24-port L2+, or the DIN-rail unit?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "deep": false
+ "deep": false,
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-29T15:46:26Z"
+  ],
+  "last_ok": "2026-10-29"
+ },
+ "site_p1_hint": {
+  "p1": "STI-288GPM",
+  "why": "官网快照对位：工业/自动化词频 17、PoE 118 → DIN 8 PoE+ 2 SFP 起手",
+  "date": "2026-10-29"
+ }
 }
