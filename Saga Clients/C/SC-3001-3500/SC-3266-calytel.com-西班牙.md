@@ -2,12 +2,15 @@
 
 > **评级 C**　|　西班牙　|　档案编号 `SC-3266`　|　优先级 —　|　状态：用户判定不行
 >
+> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：西班牙 Calytel（calytel.com；很多国内的产品、CCTV 为主、「卖下边公司的」）：欧洲 + 多品牌进口经验 + 对位 ✔ → 闸 2 查底数，低优先（stop flag 为文本命中）；Simon 曾判不行 → 可按编号否决
+>
 > **类型**：安防集成/经销（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:Spain、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-3266
 rating: C
 rating_auto: C
+sieve: candidate  # 闸 1 G1 2026-10-29
 score: -98
 country: 西班牙
 region: 欧洲
@@ -25,7 +28,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -136,8 +139,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -98）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -98）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

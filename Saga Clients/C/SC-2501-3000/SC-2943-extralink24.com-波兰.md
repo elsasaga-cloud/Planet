@@ -2,12 +2,15 @@
 
 > **评级 C**　|　波兰　|　档案编号 `SC-2943`　|　优先级 —　|　状态：用户判定不行
 >
+> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：波兰 Extralink（extralink24.com / .eu；自有品牌 Extralink：国内外壳 switch / PoE 配件 / PON，「有人在卖他们的」= 品牌已铺渠道）：波兰次主区 + 自有品牌贴牌 ✔ → 闸 2 查底数（OEM 对象）；退信 → 找新地址；Simon 曾判不行 → 可按编号否决　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+>
 > **类型**：分销商/经销商（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-2943
 rating: C
 rating_auto: C
+sieve: candidate  # 闸 1 G1 2026-10-29
 score: -54
 country: 波兰
 region: 欧洲
@@ -25,7 +28,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -135,8 +138,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -54）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -54）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

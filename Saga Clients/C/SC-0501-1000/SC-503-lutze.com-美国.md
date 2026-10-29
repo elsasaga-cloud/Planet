@@ -2,12 +2,15 @@
 
 > **评级 C**　|　美国　|　档案编号 `SC-503`　|　优先级 —　|　状态：已推送 11 次·未回复
 >
+> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：美国 Lütze Inc.（lutze.com；工业 FS 自己的 PVC 膜和编号 = 自有品牌贴牌；德系工业集团美国公司，表内「体量过大」）：美国主区 + 自有品牌 ✔ + 对位 ✔；11 推 0 回 → 闸 2 查底数（OEM 对象；体量偏大非巨头）　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 11 次（2025-02-19 → 2025-11-06）　|　**所在清单**：A优质名单(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-503
 rating: C
 rating_auto: C
+sieve: candidate  # 闸 1 G1 2026-10-29
 score: 20
 country: 美国
 region: 北美
@@ -25,7 +28,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -150,8 +153,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 20）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 20）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -3,12 +3,15 @@
 
 > **评级 C**　|　意大利　|　档案编号 `SC-2941`　|　优先级 —　|　状态：用户判定不行
 >
+> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：意大利 Digitx（digitx.it；研究档：博洛尼亚工业电子 B2B 电商 2012 起，卖 Moxa / PLANET / 3onedata / Teltonika / Mean Well 给自动化客户；bypass / 工业电源 / 工业 FS）：欧洲 + 已进口中国工业品牌 + 对位 ✔；退信 → 闸 2 查底数 + 找新地址；Simon 曾判不行 → 可按编号否决
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-2941
 rating: C
 rating_auto: C
+sieve: candidate  # 闸 1 G1 2026-10-29
 rating_research: C  # 用户判定不行/不相关（尊重用户表判断，保留 C）；Planet 渠道档案 PB-028 评 B 仅作参考
 name_official: "Lastella Trade S.r.l. (DigitX.it)"
 score: -54
@@ -28,7 +31,7 @@ price_tier: 20%
 research: done
 site_snapshot: none
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -177,8 +180,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -54）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -54）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
