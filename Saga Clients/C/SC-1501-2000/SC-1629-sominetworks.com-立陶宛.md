@@ -2,7 +2,7 @@
 
 > **评级 C**　|　立陶宛　|　档案编号 `SC-1629`　|　优先级 —　|　状态：已推送 15 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：立陶宛 Somi Networks（MC / SFP / 工业 FS / VC / 机架，宇航的设备，「中性、来自不同国内供应商、价格 OK」）：欧洲 + 已进口中国中性产品 + 对位 ✔；15 次跟进无回复（冷）→ 闸 2 查底数　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 进口商 · 分销 20%：UAB SOMI NETWORKS（300528292；Vilnius 2006；8 人；+ SIA 拉脱维亚；中性产品来自不同国内供应商）坐实；进口经验 ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔ → P 池候选；并线核对 SC-2767 SOMI RT　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 15 次（2024-05-09 → 2025-10-07）　|　**所在清单**：A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE、群发(杂)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1629
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 7
 country: 立陶宛
 region: 欧洲
@@ -39,6 +39,31 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STI-288DGGPM（工业 L2+ 8 PoE + 2×2.5G SFP）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `sominetworks.com` → Microsoft 365（MX：sominetworks-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+- `sominetworks.lt` → Microsoft 365（MX：sominetworks-lt.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 125 批（LT · 1 次检索：sominetworks.com/contacts（300528292；LT100002144113；Ukmergės 283A）+ spec.lt（2006；8 darbuotojai）+ okredo（Active）；2026-10-29，2026-10-29 查；https://sominetworks.com/contacts/）：**
+
+- 法定名 / 登记号：UAB SOMI NETWORKS（sominetworks.com；**官网 Contacts + spec.lt / okredo：Company Code 300528292；VAT LT100002144113；Ukmergės g. 283A, LT-06313 Vilnius（仓 Raciu str. 6A）；2006-01-19 成立；8 名员工（2024-12）；Sodra 欠费 0；拉脱维亚子公司 SIA SOMI NETWORKS 40003830305**）；表内：MC / SFP / 工业 FS / VC / 机架，宇航的设备，「中性、来自不同国内供应商、价格 OK」；vytas.norkus@ 具名；15 次跟进无回复；SC-2767 SOMI RT 疑似同源 · 300528292 · 状态 **Active** · 成立 2006-01-19 · UAB（+ SIA 拉脱维亚）
+- 行业码 / 经营范围：网络 / 光纤中性产品进口分销（波罗的海）
+- 注册地址：Ukmergės g. 283A, LT-06313 Vilnius
+- 规模档：小型（8）
+- 账目：未取；—
+- 高管：Vytas Norkus（vytas.norkus@sominetworks.lt 表内具名；职务未取）
+- 高管：（info@sominetworks.com 官网公开）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **中性进口商 → 分销 20%：点名 Vytas 一页纸一次（STI-154GP / STI-288GPM 工业 + STC-228GP 对标宇航 + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；并线核对 SC-2767
+- 备注：分销 20%；P 池候选 ○（进口中国中性产品 ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔）；坐实；dayjob 线索 MC / SFP。
 
 ## 基本事实（事实/推断/假设分层）
 

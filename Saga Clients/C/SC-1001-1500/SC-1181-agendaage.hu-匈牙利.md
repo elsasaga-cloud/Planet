@@ -2,7 +2,7 @@
 
 > **评级 C**　|　匈牙利　|　档案编号 `SC-1181`　|　优先级 —　|　状态：已推送 15 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：匈牙利 Agenda Age（SFP / MC / 工业 FS，在用深圳 credfiber 的）：欧洲 + 已进口中国同类品牌 + 对位 ✔；15 次跟进无回复（冷）→ 闸 2 查底数　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 进口商 · 分销 20%：Agenda-Age Kft.（Budapest 2002；B2B 网络批发；>514M HUF；20–49；总经理邮箱 ugyvezeto@ 公开）坐实；进口 credfiber ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔ → P 池候选　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 15 次（2024-05-01 → 2025-10-07）　|　**所在清单**：A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1181
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 13
 country: 匈牙利
 region: 欧洲
@@ -39,6 +39,30 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STI-288DGGPM（工业 L2+ 8 PoE + 2×2.5G SFP）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `agendaage.hu` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、alt3.aspmx.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 125 批（HU · 1 次检索：cegadatok.hu/agenda-age-kft（2002；514M HUF；ugyvezeto@）+ agendaage.hu 首页（B2B only；+36 1 313 1073）+ zoominfo（20–49）；2026-10-29，2026-10-29 查；https://cegadatok.hu/agenda-age-kft/）：**
+
+- 法定名 / 登记号：AGENDA-AGE Kft.（agendaage.hu；**cegadatok：2002-05-09 成立；1095 Budapest, Soroksári út 48. 8.ép.fsz；主业 IT / 通信产品批发；最近年营收 >514M HUF；状态 aktív；ugyvezeto@agendaage.hu（总经理邮箱）公开；ZoomInfo 20–49 人、营收 1–5M；官网自述「网络 IT 批发，仅服务法人 / 签约经销商 / 安装商」**）；表内：SFP / MC / 工业 FS，在用深圳 credfiber；15 次跟进无回复 · 未取（cegjegyzékszám 页内未列） · 状态 **aktív** · 成立 2002-05-09 · Kft.
+- 行业码 / 经营范围：IT / 通信产品批发（布达佩斯；B2B 光纤 + 铜缆方案）
+- 注册地址：1095 Budapest, Soroksári út 48. 8. ép. fsz.
+- 规模档：小型（20–49；>514M HUF）
+- 账目：未取；—
+- 高管：（ugyvezeto@agendaage.hu = 总经理邮箱，名录公开 → 首发收件人）
+- 高管：（info@agendaage.hu 表内）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **进口商 / 分销 20%：换 ugyvezeto@ 一页纸一次（STI-154GP / STC-228GP 对标 credfiber 同类 + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**
+- 备注：分销 20%；P 池候选 ○（进口经验 ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔）；坐实。
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -2,7 +2,7 @@
 
 > **评级 C**　|　西班牙　|　档案编号 `SC-1053`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：西班牙 Casmar（国际化安防分销集团，无邮箱）→ 主区 + 分销体量；未触达 → 闸 2 查底数找 KP　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 分销 20%（冷户）：Casmar Electrónica SA（A08551061；Barcelona 1979；82 人；安防分销 / 制造）坐实；对位 ✔ 欧洲 ✔ 坐实 ✔ 体量 ✔ = §5 四条 → P 池候选；从未触达 → 先发 casmar@casmar.es　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(ES)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1053
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 15
 country: 西班牙
 region: 欧洲
@@ -38,6 +38,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（24 口 PoE L2+ 走量款）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `casmarglobal.com` → Microsoft 365（MX：casmarglobal-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 125 批（ES · 1 次检索：iberinform（A08551061；Maresme 71-79；1979）+ empresia（82 empleados 2024；capital 300.010 €；casmar@casmar.es；933406408）+ einforma；2026-10-29，2026-10-29 查；https://www.empresia.es/empresa/casmar-electronica/）：**
+
+- 法定名 / 登记号：CASMAR ELECTRONICA SA（casmarglobal.com；**einforma / empresia：CIF A08551061；Calle Maresme 71-79, 08019 Barcelona；1979-02-02 成立；社会资本 300,010 €；2024 年 82 名员工；CNAE 8020 安防系统服务；对象「安防报警系统的商业化与制造」；审计 AOB Global；casmar@casmar.es 公开**）；表内：国际化安防分销集团、无邮箱、从未触达 · A08551061 · 状态 **ACTIVA（Registro Mercantil de Barcelona）** · 成立 1979-02-02 · S.A.
+- 行业码 / 经营范围：安防系统分销 / 制造（巴塞罗那；国际化）
+- 注册地址：Calle Maresme 71-79, 08019 Barcelona
+- 规模档：中型（82）
+- 账目：未取；—
+- 高管：（casmar@casmar.es 官网 / 名录公开总邮箱 = 首发收件人；Administrador único 姓名未取；具名采购 KP 待 LinkedIn）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **分销 20%：首次触达一页纸（安防 PoE 线 STC-028GP $28 / STC-228GP $33 + 工业 STI-154GP；MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；冷户 → 回声后再深挖
+- 备注：分销 20%；P 池候选 ○（冷户：对位 ✔ 欧洲 ✔ 坐实 ✔ 体量 ✔ = §5 四条）；坐实。
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -3,8 +3,8 @@
   "kind": "registry",
   "source": "Italy · Registro Imprese 公开摘要",
   "created": "2026-10-27",
-  "updated": "2026-10-28",
-  "count": 58
+  "updated": "2026-10-29",
+  "count": 59
  },
  "rows": {
   "SA-070": {
@@ -1868,6 +1868,36 @@
    ],
    "notes": "分销 20%；加厚 small 一次；坐实（P.IVA + REA + 成立日）。",
    "code": "SB-809"
+  },
+  "SC-2219": {
+   "batch": 125,
+   "name": "COMELIT GROUP S.p.A.（comelitgroup.com；**aziende.it / reportaziende：P.IVA 01546400167；Via Don Basilide Arrigoni 5, 24020 Rovetta (BG)；1985-02-01 登记（CCIAA Bergamo）；2024 营收 €111.6M、净利 €10.3M；2025 营收 €112.5M；250–499 名员工；ATECO 27.9 其他电气设备制造；PEC amministrazione@pec.comelit.it**）；表内：对讲 / 安防集团，UniPoE 工业 FS + 商业 PoE 自有 logo；之前跟过西班牙分公司；Simon 曾判不行",
+   "iso": "IT",
+   "fetched": "2026-10-29",
+   "source": "IT · 1 次检索：aziende.it/comelit-group-s-p-a（01546400167；€111.6M 2024；250–499）+ reportaziende（€112.5M 2025）+ impresaitalia；2026-10-29",
+   "url": "https://www.aziende.it/comelit-group-s-p-a",
+   "number": "P.IVA 01546400167",
+   "status": "营业中（2025 年报）",
+   "incorporated": "1985-02-01",
+   "company_type": "S.p.A.",
+   "sic": [
+    "楼宇对讲 / 安防系统品牌制造商（自有品牌 PoE 交换机贴牌；贝加莫）"
+   ],
+   "address": "Via Don Basilide Arrigoni 5, 24020 Rovetta (BG)",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "大型（250–499；€112M）",
+   "officers": [
+    "（info@comelit.it / info@comelit.es 表内总邮箱；采购 / 产品经理 KP 待 LinkedIn 挖掘）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌 PoE 交换机（UniPoE）→ OEM 30%：找总部产品 / 采购 KP 后一页纸（STC-028GP / STC-228GP / STI-154GP 对标 UniPoE 口型 + 丝印彩盒 MOQ + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；Simon 可否决；巨头式采购流程 → 长线"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（品牌商自有 PoE 线 = 目标顺位 1；体量大但非巨头）；坐实；Simon 曾判不行。",
+   "code": "SC-2219"
   }
  }
 }

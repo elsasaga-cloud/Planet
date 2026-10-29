@@ -3,8 +3,8 @@
   "kind": "registry",
   "source": "Lithuania · Registrų centras / Sodra 公开数据（rekvizitai.vz.lt）",
   "created": "2026-10-27",
-  "updated": "2026-10-28",
-  "count": 11
+  "updated": "2026-10-29",
+  "count": 12
  },
  "rows": {
   "SB-789": {
@@ -358,6 +358,37 @@
    ],
    "notes": "未坐实（1 查即停）→ 不动。",
    "code": "SB-247"
+  },
+  "SC-1629": {
+   "batch": 125,
+   "name": "UAB SOMI NETWORKS（sominetworks.com；**官网 Contacts + spec.lt / okredo：Company Code 300528292；VAT LT100002144113；Ukmergės g. 283A, LT-06313 Vilnius（仓 Raciu str. 6A）；2006-01-19 成立；8 名员工（2024-12）；Sodra 欠费 0；拉脱维亚子公司 SIA SOMI NETWORKS 40003830305**）；表内：MC / SFP / 工业 FS / VC / 机架，宇航的设备，「中性、来自不同国内供应商、价格 OK」；vytas.norkus@ 具名；15 次跟进无回复；SC-2767 SOMI RT 疑似同源",
+   "iso": "LT",
+   "fetched": "2026-10-29",
+   "source": "LT · 1 次检索：sominetworks.com/contacts（300528292；LT100002144113；Ukmergės 283A）+ spec.lt（2006；8 darbuotojai）+ okredo（Active）；2026-10-29",
+   "url": "https://sominetworks.com/contacts/",
+   "number": "300528292",
+   "status": "Active",
+   "incorporated": "2006-01-19",
+   "company_type": "UAB（+ SIA 拉脱维亚）",
+   "sic": [
+    "网络 / 光纤中性产品进口分销（波罗的海）"
+   ],
+   "address": "Ukmergės g. 283A, LT-06313 Vilnius",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（8）",
+   "officers": [
+    "Vytas Norkus（vytas.norkus@sominetworks.lt 表内具名；职务未取）",
+    "（info@sominetworks.com 官网公开）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**中性进口商 → 分销 20%：点名 Vytas 一页纸一次（STI-154GP / STI-288GPM 工业 + STC-228GP 对标宇航 + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；并线核对 SC-2767"
+   ],
+   "notes": "分销 20%；P 池候选 ○（进口中国中性产品 ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔）；坐实；dayjob 线索 MC / SFP。",
+   "code": "SC-1629"
   }
  }
 }

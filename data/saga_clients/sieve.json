@@ -3,10 +3,10 @@
   "updated": "2026-10-29",
   "rules": "docs/C池三闸筛选_方案_2026-10-29.md §2",
   "counts": {
-   "keep_C": 880,
+   "keep_C": 883,
    "pass_final": 190,
-   "pool_candidate": 19,
-   "candidate": 64
+   "pool_candidate": 36,
+   "candidate": 44
   },
   "n": 1153
  },
@@ -911,13 +911,18 @@
   ]
  },
  "SC-1014": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "西班牙 GTLAN（工业 FS，GXcom + 宇航；有工业 10G 5 口产品页）：欧洲 + 已进口中国同类品牌 + 对位 ✔；曾退信但域名正常 → 闸 2 查底数",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 品牌商 · OEM 30%：GOTE, S.A.（品牌 GTLAN；Paterna 1984；自有品牌网络产品制造 + 分销，已在卖宇航 / GXcom 工业线）坐实（法人 + 地址，CIF 未取）；对位 ✔ 欧洲 ✔ 自有品牌 ✔ 进口经验 ✔ → P 池候选",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-05"
+  "batch": "G2-125",
+  "g1_batch": "G1-05",
+  "g1_reason": "西班牙 GTLAN（工业 FS，GXcom + 宇航；有工业 10G 5 口产品页）：欧洲 + 已进口中国同类品牌 + 对位 ✔；曾退信但域名正常 → 闸 2 查底数",
+  "tags": [
+   "oem_target"
+  ]
  },
  "SC-1016": {
   "verdict": "keep_C",
@@ -1014,13 +1019,15 @@
   ]
  },
  "SC-1033": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "比利时 Bausch Datacom（网络产品分销：二层光纤交换机、SFP）：欧洲 + 分销商主体 + 对位 ✔，冷户（未推送过）→ 闸 2 查底数，入池需 §5 ≥4 条",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 分销 20%（冷户）：Bausch Datacom NV（0437.286.193；Bierbeek 1997；电子 / 电信设备批发；年报 2024 已递）坐实；对位 ✔ 欧洲 ✔ 坐实 ✔ 体量 ✔ = §5 四条 → P 池候选；具名 dominiek@",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-05"
+  "batch": "G2-125",
+  "g1_batch": "G1-05",
+  "g1_reason": "比利时 Bausch Datacom（网络产品分销：二层光纤交换机、SFP）：欧洲 + 分销商主体 + 对位 ✔，冷户（未推送过）→ 闸 2 查底数，入池需 §5 ≥4 条"
  },
  "SC-1037": {
   "verdict": "keep_C",
@@ -1164,13 +1171,15 @@
   ]
  },
  "SC-1053": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "西班牙 Casmar（国际化安防分销集团，无邮箱）→ 主区 + 分销体量；未触达 → 闸 2 查底数找 KP",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 分销 20%（冷户）：Casmar Electrónica SA（A08551061；Barcelona 1979；82 人；安防分销 / 制造）坐实；对位 ✔ 欧洲 ✔ 坐实 ✔ 体量 ✔ = §5 四条 → P 池候选；从未触达 → 先发 casmar@casmar.es",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-02",
+  "batch": "G2-125",
+  "g1_batch": "G1-02",
+  "g1_reason": "西班牙 Casmar（国际化安防分销集团，无邮箱）→ 主区 + 分销体量；未触达 → 闸 2 查底数找 KP",
   "tags": [
    "oem_target"
   ]
@@ -2038,13 +2047,15 @@
   "batch": "G1-04"
  },
  "SC-1173": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "西班牙 JEVASO S.L. 电子部门：成单户（alberto@abbolli.com，「是个技术」）；欧洲主区 + 成单 → 闸 2 查底数、找采购 KP",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "△ 观察档 · 成单回访：JEVASO S.L.（B15299548；Arteixo；纺织企业的电子部门 = 终端自用；abbolli.com 关系待核）坐实；成单 ✔ 欧洲 ✔ 对位 ✔ ≥2 条 → 入池观察档，复购体量低 → Simon 定",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-01"
+  "batch": "G2-125",
+  "g1_batch": "G1-01",
+  "g1_reason": "西班牙 JEVASO S.L. 电子部门：成单户（alberto@abbolli.com，「是个技术」）；欧洲主区 + 成单 → 闸 2 查底数、找采购 KP"
  },
  "SC-1174": {
   "verdict": "keep_C",
@@ -2086,13 +2097,15 @@
   "batch": "G1-05"
  },
  "SC-1181": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "匈牙利 Agenda Age（SFP / MC / 工业 FS，在用深圳 credfiber 的）：欧洲 + 已进口中国同类品牌 + 对位 ✔；15 次跟进无回复（冷）→ 闸 2 查底数",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 进口商 · 分销 20%：Agenda-Age Kft.（Budapest 2002；B2B 网络批发；>514M HUF；20–49；总经理邮箱 ugyvezeto@ 公开）坐实；进口 credfiber ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔ → P 池候选",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-05",
+  "batch": "G2-125",
+  "g1_batch": "G1-05",
+  "g1_reason": "匈牙利 Agenda Age（SFP / MC / 工业 FS，在用深圳 credfiber 的）：欧洲 + 已进口中国同类品牌 + 对位 ✔；15 次跟进无回复（冷）→ 闸 2 查底数",
   "tags": [
    "dayjob_fit"
   ]
@@ -2146,13 +2159,15 @@
   "batch": "G1-05"
  },
  "SC-1194": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "挪威 Eldi（宇航的工业 FS / SFP，产品较少）：欧洲 + 已进口中国同类品牌 + 对位 ✔；15 次跟进无回复（冷）→ 闸 2 查底数",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 分销 20%：Eldi AS（924312963；Lørenskog；2019 新司、股本 NOK 30,300；楼宇自动化批发；Daglig leder Tony = 表内 tony@eldi.no）坐实；决策人直达 ✔ 进口宇航 ✔ 欧洲 ✔ 对位 ✔ → P 池候选，体量小 → 预付",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-05"
+  "batch": "G2-125",
+  "g1_batch": "G1-05",
+  "g1_reason": "挪威 Eldi（宇航的工业 FS / SFP，产品较少）：欧洲 + 已进口中国同类品牌 + 对位 ✔；15 次跟进无回复（冷）→ 闸 2 查底数"
  },
  "SC-120": {
   "verdict": "keep_C",
@@ -2206,13 +2221,15 @@
   "batch": "G1-04"
  },
  "SC-1215": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "拉脱维亚 router.lv（switch 等，有少量 Utepo）：欧洲 + 已进口中国同类品牌 + 对位 ✔；15 次跟进无回复（冷，小国）→ 闸 2 查底数，低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 分销 20%：SPX SIA（40003637852；Riga；MikroTik 官方分销 + 维尔纽斯仓）坐实；对位渠道 ✔ 进口 Utepo ✔ 欧洲 ✔ 坐实 ✔ → P 池候选",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-05"
+  "batch": "G2-125",
+  "g1_batch": "G1-05",
+  "g1_reason": "拉脱维亚 router.lv（switch 等，有少量 Utepo）：欧洲 + 已进口中国同类品牌 + 对位 ✔；15 次跟进无回复（冷，小国）→ 闸 2 查底数，低优先"
  },
  "SC-122": {
   "verdict": "keep_C",
@@ -2227,13 +2244,15 @@
   ]
  },
  "SC-1220": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "芬兰 Starelec（Networking，有 ONV 的 switch）：欧洲 + 已进口中国同类品牌 + 对位 ✔；15 次跟进无回复（冷）→ 闸 2 查底数",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "△ 观察档 · 分销 20%：Starelec Oy（0549989-1；Vaasa 1984；电子元件 / 仪表分销，网络为副线，有 ONV）坐实；§5 四条技术上齐，但副线 + 体量小 → 入池观察档，Simon 定",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-05"
+  "batch": "G2-125",
+  "g1_batch": "G1-05",
+  "g1_reason": "芬兰 Starelec（Networking，有 ONV 的 switch）：欧洲 + 已进口中国同类品牌 + 对位 ✔；15 次跟进无回复（冷）→ 闸 2 查底数"
  },
  "SC-1226": {
   "verdict": "keep_C",
@@ -2540,13 +2559,15 @@
   ]
  },
  "SC-1335": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "捷克 Discomp（光纤设备 / CWDM / SFP，有部分 Planet 的）：欧洲 + Planet 渠道（对位 ✔）+ 分销主体；冷户 → 闸 2 查底数（与 Planet 仓并线核对）",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 中型分销 20%：DISCOMP s.r.o.（25236792；Plzeň 1999；50–99 人；Planet 渠道；具名 Dan Pacanda / Milan Harmáček）坐实；对位 ✔ 欧洲 ✔ 坐实 ✔ 体量 ✔ → P 池候选；与 Planet 仓并线核对",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-05",
+  "batch": "G2-125",
+  "g1_batch": "G1-05",
+  "g1_reason": "捷克 Discomp（光纤设备 / CWDM / SFP，有部分 Planet 的）：欧洲 + Planet 渠道（对位 ✔）+ 分销主体；冷户 → 闸 2 查底数（与 Planet 仓并线核对）",
   "tags": [
    "dayjob_fit"
   ]
@@ -2790,13 +2811,15 @@
   "batch": "G1-04"
  },
  "SC-1446": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "葡萄牙 LojaCCTV（卖多种外壳 PoE 的安防网店 / 分销，回过 1 次、16 次跟进）→ 欧洲主区 + 回信 + 对位 ✔ → 闸 2 查底数",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "△ 观察档 · 分销 20%：lojaCCTV = Neurónio Digital, Unipessoal Lda.（NIF 517867990；Ramada；一人公司 1–10）坐实；回信 ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔ → 入池观察档，预付 100%",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-03",
+  "batch": "G2-125",
+  "g1_batch": "G1-03",
+  "g1_reason": "葡萄牙 LojaCCTV（卖多种外壳 PoE 的安防网店 / 分销，回过 1 次、16 次跟进）→ 欧洲主区 + 回信 + 对位 ✔ → 闸 2 查底数",
   "tags": [
    "oem_target"
   ]
@@ -3072,13 +3095,15 @@
   "batch": "G1-06"
  },
  "SC-1556": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "西班牙 Bunker Seguridad（安防分销 / 项目型，官网 Data transmission 栏有工业交换机）：欧洲 + 分销商主体 + 对位 ✔；曾退信但域名正常 → 闸 2 查底数 + 找新地址",
+  "verdict": "keep_C",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "闸 2 红旗：Bunker Seguridad Electrónica SL（B62851712）**Concursal 破产程序 / Iberinform 标 Inactiva** → 不动，回 C 储备（巡检 BORME）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-06"
+  "batch": "G2-125",
+  "g1_batch": "G1-06",
+  "g1_reason": "西班牙 Bunker Seguridad（安防分销 / 项目型，官网 Data transmission 栏有工业交换机）：欧洲 + 分销商主体 + 对位 ✔；曾退信但域名正常 → 闸 2 查底数 + 找新地址"
  },
  "SC-1557": {
   "verdict": "pass_final",
@@ -3299,13 +3324,15 @@
   "batch": "G1-06"
  },
  "SC-1629": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "立陶宛 Somi Networks（MC / SFP / 工业 FS / VC / 机架，宇航的设备，「中性、来自不同国内供应商、价格 OK」）：欧洲 + 已进口中国中性产品 + 对位 ✔；15 次跟进无回复（冷）→ 闸 2 查底数",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 进口商 · 分销 20%：UAB SOMI NETWORKS（300528292；Vilnius 2006；8 人；+ SIA 拉脱维亚；中性产品来自不同国内供应商）坐实；进口经验 ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔ → P 池候选；并线核对 SC-2767 SOMI RT",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-06",
+  "batch": "G2-125",
+  "g1_batch": "G1-06",
+  "g1_reason": "立陶宛 Somi Networks（MC / SFP / 工业 FS / VC / 机架，宇航的设备，「中性、来自不同国内供应商、价格 OK」）：欧洲 + 已进口中国中性产品 + 对位 ✔；15 次跟进无回复（冷）→ 闸 2 查底数",
   "tags": [
    "dayjob_fit"
   ]
@@ -3596,13 +3623,15 @@
   ]
  },
  "SC-1706": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "丹麦 ITV Security（产品线 Vivotek + 深圳 acorid 牌）：欧洲 + 已进口中国品牌 + 对位 ✔（安防网络）；15 次跟进无回复（冷）→ 闸 2 查底数",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "△ 观察档 · 分销 20%：ITV-Security ApS（CVR 38937456；Randers；安防网店 + 分销；Vivotek + acorid）坐实；进口中国品牌 ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔ → 入池观察档（微型）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-06"
+  "batch": "G2-125",
+  "g1_batch": "G1-06",
+  "g1_reason": "丹麦 ITV Security（产品线 Vivotek + 深圳 acorid 牌）：欧洲 + 已进口中国品牌 + 对位 ✔（安防网络）；15 次跟进无回复（冷）→ 闸 2 查底数"
  },
  "SC-1711": {
   "verdict": "keep_C",
@@ -4482,13 +4511,15 @@
   "batch": "G1-04"
  },
  "SC-1881": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "斯洛伐克 TSS Group（CCTV 集成商，自称斯洛伐克第二大 CCTV 批发商；对 IP / analog over fiber 感兴趣）：欧洲 + 批发商体量 + PoE 对位；电话加不上、企业邮箱在 → 闸 2 查底数",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 中型分销 20%：TSS Group a.s.（36323551；Dubnica nad Váhom 2002；102–150 人；Dahua / Avigilon / Sony 进口分销 + 制造）坐实；对位 ✔ 欧洲 ✔ 坐实 ✔ 体量 ✔ 具名 sokol@ / roxer@ → P 池候选",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-06",
+  "batch": "G2-125",
+  "g1_batch": "G1-06",
+  "g1_reason": "斯洛伐克 TSS Group（CCTV 集成商，自称斯洛伐克第二大 CCTV 批发商；对 IP / analog over fiber 感兴趣）：欧洲 + 批发商体量 + PoE 对位；电话加不上、企业邮箱在 → 闸 2 查底数",
   "tags": [
    "dayjob_fit"
   ]
@@ -5566,13 +5597,15 @@
   "batch": "G1-04"
  },
  "SC-2143": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "塞浦路斯 Cygnus（SFP / 工商业 FS，主要是 Utepo 的）：欧洲 + 已进口中国同类品牌 + 对位 ✔；Simon 曾判不行、4 次无回复 → 闸 2 查底数，低优先",
+  "verdict": "keep_C",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "闸 2 未坐实：Cygnus（cygnus.la）1 查无命中（仅无关同名）+ Simon 判不行 + 4 推 0 回 → 回 C 储备",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-06",
+  "batch": "G2-125",
+  "g1_batch": "G1-06",
+  "g1_reason": "塞浦路斯 Cygnus（SFP / 工商业 FS，主要是 Utepo 的）：欧洲 + 已进口中国同类品牌 + 对位 ✔；Simon 曾判不行、4 次无回复 → 闸 2 查底数，低优先",
   "tags": [
    "dayjob_fit"
   ]
@@ -5907,13 +5940,15 @@
   "date": "2026-10-29"
  },
  "SC-2219": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "意大利 Comelit Group（对讲 / 安防集团，UniPoE 工业 FS + 商业 PoE 自有 logo；之前跟过西班牙分公司）→ 欧洲主区 + 品牌商体量；Simon 曾判不行 → 闸 2 查底数，入池需 §5 四条",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 品牌商 · OEM 30%：Comelit Group S.p.A.（01546400167；Rovetta 1985；€112M / 250–499 人；自有品牌 UniPoE 交换机贴牌）坐实；对位 ✔ 欧洲 ✔ 自有品牌 ✔ 体量 ✔ → P 池候选（长线：需挖总部产品 / 采购 KP）；Simon 曾判不行，可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-02",
+  "batch": "G2-125",
+  "g1_batch": "G1-02",
+  "g1_reason": "意大利 Comelit Group（对讲 / 安防集团，UniPoE 工业 FS + 商业 PoE 自有 logo；之前跟过西班牙分公司）→ 欧洲主区 + 品牌商体量；Simon 曾判不行 → 闸 2 查底数，入池需 §5 四条",
   "tags": [
    "oem_target"
   ]
@@ -7082,13 +7117,15 @@
   ]
  },
  "SC-2452": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "西班牙 A-Secur（安防分销商，ONV / Utepo 页面，早期 AI 50% A）→ 主区 + 贴牌渠道；15 推 0 回；Simon 判不行 → 闸 2 查底数",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 贴牌渠道 · 分销 20% / OEM 30%：A-SECUR = Leistung S.L.U.（Mos, Pontevedra；11–50；安防批发 + 自有线 Movok；ONV / Utepo 页面）部分坐实（CIF 未取）；进口经验 ✔ 欧洲 ✔ 对位 ✔ 自有线 ✔ → P 池候选；Simon 曾判不行，可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-02",
+  "batch": "G2-125",
+  "g1_batch": "G1-02",
+  "g1_reason": "西班牙 A-Secur（安防分销商，ONV / Utepo 页面，早期 AI 50% A）→ 主区 + 贴牌渠道；15 推 0 回；Simon 判不行 → 闸 2 查底数",
   "tags": [
    "oem_target"
   ]
@@ -11077,13 +11114,18 @@
   "batch": "G1-04"
  },
  "SC-371": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "西班牙 Visiotech（大型安防分销商，自有品牌 Safire，产品中见中科德能）：成单记录 + OEM 交换机合作邮件、31 次跟进 → 欧洲主区 + 自有品牌 + 分销体量 → 闸 2",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★★ 首选 · OEM 30%：Visiotech Security S.L.（B80645518；Madrid；自有品牌 Safire / X-Security / Nivian；欧洲多国大分销）坐实；成单 ✔ 曾谈 OEM 交换机 ✔ 自有品牌 ✔ 具名 KP emussons@ ✔ → P 池候选",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-01"
+  "batch": "G2-125",
+  "g1_batch": "G1-01",
+  "g1_reason": "西班牙 Visiotech（大型安防分销商，自有品牌 Safire，产品中见中科德能）：成单记录 + OEM 交换机合作邮件、31 次跟进 → 欧洲主区 + 自有品牌 + 分销体量 → 闸 2",
+  "tags": [
+   "oem_target"
+  ]
  },
  "SC-372": {
   "verdict": "keep_C",
@@ -11156,13 +11198,15 @@
   ]
  },
  "SC-427": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "西班牙 TBK Vision（安防品牌商，Utepo 工业交换机 + 自有型号，早期 AI 45% A）→ 主区 + 自有品牌 OEM 对象；退信但域名正常；14 次跟进 → 闸 2 找新 KP",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "△ 观察档 · OEM 30%：TBK Vision（品牌真实：DVR 手册；域名关联法国 TBK SOLUTION SIREN 750660060；西班牙法人未得）部分坐实；自有品牌 ✔ 进口 Utepo ✔ 欧洲 ✔ → 入池观察档，预付 100%，先核法人 + 找新 KP",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-02",
+  "batch": "G2-125",
+  "g1_batch": "G1-02",
+  "g1_reason": "西班牙 TBK Vision（安防品牌商，Utepo 工业交换机 + 自有型号，早期 AI 45% A）→ 主区 + 自有品牌 OEM 对象；退信但域名正常；14 次跟进 → 闸 2 找新 KP",
   "tags": [
    "oem_target"
   ]
@@ -11429,13 +11473,15 @@
   ]
  },
  "SC-667": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "克罗地亚 H1 Telekom：成样品单（SFP / 收发器）、「常回复」、17 次跟进 → 欧洲 + 样品 + 回信；产品偏光模块 → 候选 + dayjob，闸 2 核",
+  "verdict": "keep_C",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "闸 2 查实：H1 Telekom d.d.（OIB 88551335012；Split）**法人已注销（Neaktivan / izbrisan，推定并购吸收）** → 回 C；KP Silvana Pavić 去向待核（若在承继运营商任职再议）；品类偏光模块 = 本职线",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-01",
+  "batch": "G2-125",
+  "g1_batch": "G1-01",
+  "g1_reason": "克罗地亚 H1 Telekom：成样品单（SFP / 收发器）、「常回复」、17 次跟进 → 欧洲 + 样品 + 回信；产品偏光模块 → 候选 + dayjob，闸 2 核",
   "tags": [
    "dayjob_fit"
   ]

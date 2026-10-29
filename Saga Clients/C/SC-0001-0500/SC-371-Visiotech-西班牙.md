@@ -2,7 +2,7 @@
 
 > **评级 C**　|　西班牙　|　档案编号 `SC-371`　|　优先级 —　|　状态：成交过·维护
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：西班牙 Visiotech（大型安防分销商，自有品牌 Safire，产品中见中科德能）：成单记录 + OEM 交换机合作邮件、31 次跟进 → 欧洲主区 + 自有品牌 + 分销体量 → 闸 2
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★★ 首选 · OEM 30%：Visiotech Security S.L.（B80645518；Madrid；自有品牌 Safire / X-Security / Nivian；欧洲多国大分销）坐实；成单 ✔ 曾谈 OEM 交换机 ✔ 自有品牌 ✔ 具名 KP emussons@ ✔ → P 池候选　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：成交/下单过；推送 31 次（2024-03-24 → 2025-10-03）　|　**所在清单**：A优质名单(Spain)、A优质名单(其他优质欧洲客户)、AI评估(ES)·DONE、AI评估(EU)·DONE、群发(富通天下)、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-371
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 22
 country: 西班牙
 region: 欧洲
@@ -39,6 +39,31 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（24 口 PoE L2+ 走量款）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `visiotechsecurity.com` → Microsoft 365（MX：visiotechsecurity-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+- `safirecctv.com` → AWS / Mailgun 类（MX：inbound-smtp.eu-west-1.amazonaws.com）。主机商附带邮箱（AWS / Mailgun 类）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 125 批（ES · 1 次检索：visiotechsecurity.com/en/（CIF B80645518；Calle Alberto Sánchez 31, 28052 Madrid；品牌 Safire / X-Security / Nivian；Portugal 分部）；2026-10-29，2026-10-29 查；https://www.visiotechsecurity.com/en/）：**
+
+- 法定名 / 登记号：VISIOTECH SECURITY S.L.（visiotechsecurity.com；**官网页脚：CIF B80645518；Calle Alberto Sánchez 31, 28052 Madrid；+ 葡萄牙分部；自称「leading supplier of technological equipment in Europe」；自有品牌 Safire / X-Security / Nivian（+ 分销 Ajax / Uniview / Ruijie-Reyee / ZKTeco / IMOU / Akuvox）**）；表内：成单记录 + OEM 交换机合作邮件、31 次跟进；产品中见中科德能 · B80645518 · 状态 **营业中（官网 2026）** · 成立 未取 · S.L.
+- 行业码 / 经营范围：安防 / 网络技术设备大型分销 + 自有品牌（马德里；欧洲多国）
+- 注册地址：Calle Alberto Sánchez 31, 28052 Madrid
+- 规模档：大型（欧洲多国分销）
+- 账目：未取；—
+- 高管：emussons@visiotechsecurity.com（表内具名 = OEM 合作对接；职务未取）
+- 高管：（comercial@visiotechsecurity.com 表内总邮箱）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **成单 + 曾谈 OEM 交换机 → OEM 30% 主线：按 Safire / X-Security 口型复盘（STC-028GP / STC-228GP / STC-2224GP 24 PoE + 2 SFP 丝印彩盒 MOQ + STI 工业线；付费样机）一页纸 + 旧线索点名回访— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**
+- 备注：OEM 30%；P 池候选 ★★（成单 + 自有品牌 + 大分销 + 具名 KP）；坐实。
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -3,8 +3,8 @@
   "kind": "registry",
   "source": "Κύπρος · Registrar of Companies（OpenCorporates 摘要）",
   "created": "2026-10-27",
-  "updated": "2026-10-27",
-  "count": 1
+  "updated": "2026-10-29",
+  "count": 2
  },
  "rows": {
   "SB-992": {
@@ -38,6 +38,36 @@
    "notes": "研究档 legal_name 已有；KP 角色不动。",
    "fetched": "2026-10-27",
    "code": "SB-992"
+  },
+  "SC-2143": {
+   "batch": 125,
+   "name": "Cygnus（cygnus.la；info@；**1 查「Cygnus cygnus.la Cyprus Limassol」仅返回 Cypronetwork / CyprusNet 等无关同名 → 未坐实**）；表内：SFP / 工商业 FS，主要是 Utepo 的；Simon 曾判不行、4 次无回复",
+   "iso": "CY",
+   "fetched": "2026-10-29",
+   "source": "CY · 1 次检索无命中（返回 Cypronetwork Consultancy / CyprusNet）；2026-10-29",
+   "url": "",
+   "number": "未取（1 查无命中）",
+   "status": "存续待核（域名 MX 正常）",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "网络设备经销（塞浦路斯，推定）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（推定）",
+   "officers": [
+    "（info@cygnus.la 表内；具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**未坐实 + Simon 判不行 + 4 推 0 回 → 不动，回 C 储备**— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地"
+   ],
+   "notes": "不动；回 C；未坐实。",
+   "code": "SC-2143"
   }
  }
 }

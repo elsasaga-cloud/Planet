@@ -2,7 +2,7 @@
 
 > **评级 C**　|　西班牙　|　档案编号 `SC-1556`　|　优先级 —　|　状态：发不过去
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：西班牙 Bunker Seguridad（安防分销 / 项目型，官网 Data transmission 栏有工业交换机）：欧洲 + 分销商主体 + 对位 ✔；曾退信但域名正常 → 闸 2 查底数 + 找新地址
+> **C 池筛选：留 C 储备**（闸 2 · 2026-10-29）：闸 2 红旗：Bunker Seguridad Electrónica SL（B62851712）**Concursal 破产程序 / Iberinform 标 Inactiva** → 不动，回 C 储备（巡检 BORME）
 >
 > **类型**：分销商/经销商（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(ES)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1556
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: keep_C  # 闸 2 G2 2026-10-29
 score: 8
 country: 西班牙
 region: 欧洲
@@ -39,6 +39,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（24 口 PoE L2+ 走量款）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `bunkerseguridad.es` → Hostinger / Titan（MX：mx1.hostinger.com、mx2.hostinger.com）。主机商附带邮箱（Hostinger / Titan）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 125 批（ES · 1 次检索：infoempresa（B62851712；Concursal；BORME 2024-11-20）+ iberinform（Inactiva）+ 官网隐私页（am2@bunkerseguridad.es；913316313）；2026-10-29，2026-10-29 查；https://www.infoempresa.com/es-es/es/empresa/bunker-seguridad-electronica-sl）：**
+
+- 法定名 / 登记号：BUNKER SEGURIDAD ELECTRONICA SL（bunkerseguridad.es；**infoempresa：CIF B62851712；C/ Franklin 10, Pol. Ind. Gitesa, 28814 Daganzo de Arriba (Madrid)；2002-04-11 成立；CNAE 4652 电子 / 电信设备批发；10–49 人、营收 <2M €；最近 BORME 2024-11-20；法律状态 Concursal（破产程序）；Iberinform 标 Inactiva**）；表内：安防分销 / 项目型，官网 Data transmission 栏有工业交换机；曾退信 · B62851712 · 状态 ****Concursal（破产程序）/ Iberinform 标 Inactiva**** · 成立 2002-04-11 · S.L.
+- 行业码 / 经营范围：周界安防 / 安防设备批发（马德里）
+- 注册地址：C/ Franklin 10, Pol. Ind. Gitesa, 28814 Daganzo de Arriba (Madrid)
+- 规模档：小型（10–49）
+- 账目：未取；—
+- 高管：（am2@bunkerseguridad.es 官网隐私页公开邮箱；info@ 表内曾退信）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **红旗：破产程序中 → 不动；回 C 储备（每 2 月巡检 BORME，若重整完成再议）**
+- 备注：不动；回 C；坐实（红旗 Concursal）。
 
 ## 基本事实（事实/推断/假设分层）
 

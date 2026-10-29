@@ -3,8 +3,8 @@
   "kind": "registry",
   "source": "Portugal · Registo Comercial（racius / iberinform / rigorbiz 镜像）",
   "created": "2026-10-27",
-  "updated": "2026-10-27",
-  "count": 1
+  "updated": "2026-10-29",
+  "count": 2
  },
  "rows": {
   "SB-1023": {
@@ -38,6 +38,36 @@
    "notes": "研究档 legal_name 补全 Unipessoal；KP 加 Ricardo Vieira（推定 gerente）。新来源键 pt。",
    "fetched": "2026-10-27",
    "code": "SB-1023"
+  },
+  "SC-1446": {
+   "batch": 125,
+   "name": "Neurónio Digital, Unipessoal Lda.（lojaCCTV；lojacctv.com；**官网条款页：NIF PT517867990；Av. Augusto Hilário Nr.5 Loja C, 2620-528 Ramada；geral@lojacctv.com；ensun：1–10 人、CCTV 批发（Hikvision / Uniview 套装）**）；表内：卖多种外壳 PoE 的安防网店 / 分销，回过 1 次、16 次跟进；fabio@ 具名",
+   "iso": "PT",
+   "fetched": "2026-10-29",
+   "source": "PT · 1 次检索：lojacctv.com/page/termos-e-condicoes（Neurónio Digital, Unipessoal Lda.；NIF 517867990；Ramada）+ ensun（1–10）；2026-10-29",
+   "url": "https://www.lojacctv.com/page/termos-e-condicoes",
+   "number": "NIF 517867990",
+   "status": "营业中（网店在线）",
+   "incorporated": "未取",
+   "company_type": "Unipessoal Lda.（一人公司）",
+   "sic": [
+    "安防 / CCTV 网店 + 批发（里斯本北郊）"
+   ],
+   "address": "Av. Augusto Hilário Nr.5 Loja C, 2620-528 Ramada",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（1–10）",
+   "officers": [
+    "Fábio（fabio@lojacctv.com 表内具名 = 回信人推定）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**分销 20%：点名 Fábio 续上回信一页纸（STC-028GP $28 / STC-228GP $33 + MOQ 1；一人公司 → 预付 100%）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**"
+   ],
+   "notes": "分销 20%；P 池候选 △（回信 ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔；微型一人公司 → 预付）；坐实。",
+   "code": "SC-1446"
   }
  }
 }

@@ -3,8 +3,8 @@
   "kind": "registry",
   "source": "España · Registro Mercantil（einforma / infoempresa / axesor 镜像）",
   "created": "2026-10-27",
-  "updated": "2026-10-27",
-  "count": 1
+  "updated": "2026-10-29",
+  "count": 8
  },
  "rows": {
   "SB-424": {
@@ -41,6 +41,218 @@
    "notes": "研究档 legal_name 空 → 回填；KP 无 → 加主席（不直接写）。新来源键 es。",
    "fetched": "2026-10-27",
    "code": "SB-424"
+  },
+  "SC-1014": {
+   "batch": 125,
+   "name": "GOTE, S.A.（品牌 GTLAN；gtlan.com；**matmax 品牌页：1984 年创立、Parque Tecnológico Ronda Narciso Monturiol 13, 46980 Paterna (Valencia)；自有品牌 GTLAN 制造 + 分销数据网络 / 电信产品（线缆、配线、LAN/WAN 网络电子、无线、工业电话、仪表）；ContactOut +34 961 366 571**）；表内：工业 FS，GXcom + 宇航，有工业 10G 5 口产品页；曾退信但域名正常",
+   "iso": "ES",
+   "fetched": "2026-10-29",
+   "source": "ES · 1 次检索：matmax.es/marcas/gtlan（Razón social GOTE, S.A.；Paterna；1984；marca propia Gtlan）+ contactout（+34 961 366 571；linkedin.com/company/gtlan）；2026-10-29",
+   "url": "https://www.matmax.es/marcas/gtlan",
+   "number": "未取（CIF 1 查未得；法人名已坐实）",
+   "status": "营业中（品牌页 2024 / 官网在线）",
+   "incorporated": "1984",
+   "company_type": "S.A.",
+   "sic": [
+    "网络 / 电信产品自有品牌制造 + 分销（瓦伦西亚）"
+   ],
+   "address": "Pque. Tecn. Rda. Narciso Monturiol 13, 46980 Paterna (Valencia)",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中小型（推定）",
+   "officers": [
+    "（comercial@gtlan.com 表内 = 收件人；具名 KP 未取，LinkedIn 公司页可挖）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌 GTLAN 已在卖宇航 / GXcom 工业交换机 → OEM 30%：一页纸一次（STI-154GP 工业 4 PoE+1 GE+1 SFP / STI-288GPM 对标 + 丝印 / 彩盒 MOQ + 付费样机；10G 工业款不供明说）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（自有品牌 + 已进口中国工业线）；坐实（法人名 + 地址）。",
+   "code": "SC-1014"
+  },
+  "SC-1053": {
+   "batch": 125,
+   "name": "CASMAR ELECTRONICA SA（casmarglobal.com；**einforma / empresia：CIF A08551061；Calle Maresme 71-79, 08019 Barcelona；1979-02-02 成立；社会资本 300,010 €；2024 年 82 名员工；CNAE 8020 安防系统服务；对象「安防报警系统的商业化与制造」；审计 AOB Global；casmar@casmar.es 公开**）；表内：国际化安防分销集团、无邮箱、从未触达",
+   "iso": "ES",
+   "fetched": "2026-10-29",
+   "source": "ES · 1 次检索：iberinform（A08551061；Maresme 71-79；1979）+ empresia（82 empleados 2024；capital 300.010 €；casmar@casmar.es；933406408）+ einforma；2026-10-29",
+   "url": "https://www.empresia.es/empresa/casmar-electronica/",
+   "number": "A08551061",
+   "status": "ACTIVA（Registro Mercantil de Barcelona）",
+   "incorporated": "1979-02-02",
+   "company_type": "S.A.",
+   "sic": [
+    "安防系统分销 / 制造（巴塞罗那；国际化）"
+   ],
+   "address": "Calle Maresme 71-79, 08019 Barcelona",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（82）",
+   "officers": [
+    "（casmar@casmar.es 官网 / 名录公开总邮箱 = 首发收件人；Administrador único 姓名未取；具名采购 KP 待 LinkedIn）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**分销 20%：首次触达一页纸（安防 PoE 线 STC-028GP $28 / STC-228GP $33 + 工业 STI-154GP；MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；冷户 → 回声后再深挖"
+   ],
+   "notes": "分销 20%；P 池候选 ○（冷户：对位 ✔ 欧洲 ✔ 坐实 ✔ 体量 ✔ = §5 四条）；坐实。",
+   "code": "SC-1053"
+  },
+  "SC-1173": {
+   "batch": 125,
+   "name": "JEVASO S.L.（表内「DPTO. ELECTRONICA」；alberto@abbolli.com；**einforma：NIF B15299548；Pg. Ind. Sabón, Av. del Embalse Pa 87-B, 15142 Arteixo (A Coruña)；1991-01-11 成立；CNAE 1421 外衣成衣制造 / 纺织包装物流 / 电商**→ 纺织企业的电子部门；abbolli.com 为另一域名，关系未取）；表内：成单户（「是个技术」）",
+   "iso": "ES",
+   "fetched": "2026-10-29",
+   "source": "ES · 1 次检索：einforma（JEVASO SL B15299548；Arteixo；1991；CNAE 1421）+ ardan（jevaso.com；jevaso@jevaso.com）+ poligonosabon（981 676 717）；abbolli.com 未查；2026-10-29",
+   "url": "https://www.einforma.com/informacion-empresa/jevaso",
+   "number": "B15299548",
+   "status": "营业中",
+   "incorporated": "1991-01-11",
+   "company_type": "S.L.",
+   "sic": [
+    "纺织成衣 / 物流（电子部门为内部自用）"
+   ],
+   "address": "Pg. Ind. Sabón, Av. del Embalse Pa 87-B, 15142 Arteixo (A Coruña)",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（推定）",
+   "officers": [
+    "Alberto（alberto@abbolli.com；表内「是个技术」= 成单对接人；职务未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**成单回访（终端自用 25%）：按原单回访一次（复购 + 同款升级 STI 工业线；MOQ 1）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；体量小不主动加码"
+   ],
+   "notes": "终端自用 25%；P 池候选 △（成单 ✔ 欧洲 ✔ 对位 ✔ 但复购体量低 → Simon 定）；坐实（法人）；abbolli.com 关系待核。",
+   "code": "SC-1173"
+  },
+  "SC-1556": {
+   "batch": 125,
+   "name": "BUNKER SEGURIDAD ELECTRONICA SL（bunkerseguridad.es；**infoempresa：CIF B62851712；C/ Franklin 10, Pol. Ind. Gitesa, 28814 Daganzo de Arriba (Madrid)；2002-04-11 成立；CNAE 4652 电子 / 电信设备批发；10–49 人、营收 <2M €；最近 BORME 2024-11-20；法律状态 Concursal（破产程序）；Iberinform 标 Inactiva**）；表内：安防分销 / 项目型，官网 Data transmission 栏有工业交换机；曾退信",
+   "iso": "ES",
+   "fetched": "2026-10-29",
+   "source": "ES · 1 次检索：infoempresa（B62851712；Concursal；BORME 2024-11-20）+ iberinform（Inactiva）+ 官网隐私页（am2@bunkerseguridad.es；913316313）；2026-10-29",
+   "url": "https://www.infoempresa.com/es-es/es/empresa/bunker-seguridad-electronica-sl",
+   "number": "B62851712",
+   "status": "**Concursal（破产程序）/ Iberinform 标 Inactiva**",
+   "incorporated": "2002-04-11",
+   "company_type": "S.L.",
+   "sic": [
+    "周界安防 / 安防设备批发（马德里）"
+   ],
+   "address": "C/ Franklin 10, Pol. Ind. Gitesa, 28814 Daganzo de Arriba (Madrid)",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（10–49）",
+   "officers": [
+    "（am2@bunkerseguridad.es 官网隐私页公开邮箱；info@ 表内曾退信）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**红旗：破产程序中 → 不动；回 C 储备（每 2 月巡检 BORME，若重整完成再议）**"
+   ],
+   "notes": "不动；回 C；坐实（红旗 Concursal）。",
+   "code": "SC-1556"
+  },
+  "SC-2452": {
+   "batch": 125,
+   "name": "Leistung S.L.U.（分销品牌 A-SECUR；a-secur.com；**Crunchbase：A-SECUR 为 Leistung S.L.U. 的分销品牌，面向专业安装商的电子安防批发（CCTV / 入侵 / 门禁 / 布线；Dahua 兼容 + 自有线 Movok AI 视频产品）；11–50 人；paxinasgalegas：Anel da Lagoa 18, Pol. Ind. Veigadaña, 36415 Mos (Pontevedra)；986 169 242；info@a-secur.es；join.com：15 年以上、由安装商转型分销**）；CIF 1 查未得 → 部分坐实；表内：ONV / Utepo 页面；15 推 0 回；Simon 曾判不行",
+   "iso": "ES",
+   "fetched": "2026-10-29",
+   "source": "ES · 1 次检索：crunchbase（Leistung S.L.U.；Movok；11-50）+ paxinasgalegas（Mos 地址 / 电话）+ join.com；2026-10-29",
+   "url": "https://www.crunchbase.com/organization/a-secur",
+   "number": "未取（CIF 1 查未得；法人名 Leistung S.L.U.）",
+   "status": "营业中（招聘 / 官网在线）",
+   "incorporated": "未取（>15 年）",
+   "company_type": "S.L.U.",
+   "sic": [
+    "电子安防批发（加利西亚 Mos；自有线 Movok）"
+   ],
+   "address": "Anel da Lagoa 18, Pol. Ind. Veigadaña, 36415 Mos (Pontevedra)",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（11–50）",
+   "officers": [
+    "javperez@a-secur.es（表内具名；职务未取）",
+    "（info@a-secur.es 官网公开总邮箱）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**贴牌渠道（自有线 Movok）→ OEM 30% / 分销 20% 双轨：一页纸一次（STC-028GP $28 / STC-228GP $33 + 丝印 MOQ；Utepo / ONV 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；Simon 可否决"
+   ],
+   "notes": "分销 20% / OEM 30%；P 池候选 ○（进口经验 ✔ 自有线 ✔ 欧洲 ✔ 对位 ✔）；部分坐实；Simon 曾判不行。",
+   "code": "SC-2452"
+  },
+  "SC-371": {
+   "batch": 125,
+   "name": "VISIOTECH SECURITY S.L.（visiotechsecurity.com；**官网页脚：CIF B80645518；Calle Alberto Sánchez 31, 28052 Madrid；+ 葡萄牙分部；自称「leading supplier of technological equipment in Europe」；自有品牌 Safire / X-Security / Nivian（+ 分销 Ajax / Uniview / Ruijie-Reyee / ZKTeco / IMOU / Akuvox）**）；表内：成单记录 + OEM 交换机合作邮件、31 次跟进；产品中见中科德能",
+   "iso": "ES",
+   "fetched": "2026-10-29",
+   "source": "ES · 1 次检索：visiotechsecurity.com/en/（CIF B80645518；Calle Alberto Sánchez 31, 28052 Madrid；品牌 Safire / X-Security / Nivian；Portugal 分部）；2026-10-29",
+   "url": "https://www.visiotechsecurity.com/en/",
+   "number": "B80645518",
+   "status": "营业中（官网 2026）",
+   "incorporated": "未取",
+   "company_type": "S.L.",
+   "sic": [
+    "安防 / 网络技术设备大型分销 + 自有品牌（马德里；欧洲多国）"
+   ],
+   "address": "Calle Alberto Sánchez 31, 28052 Madrid",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "大型（欧洲多国分销）",
+   "officers": [
+    "emussons@visiotechsecurity.com（表内具名 = OEM 合作对接；职务未取）",
+    "（comercial@visiotechsecurity.com 表内总邮箱）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**成单 + 曾谈 OEM 交换机 → OEM 30% 主线：按 Safire / X-Security 口型复盘（STC-028GP / STC-228GP / STC-2224GP 24 PoE + 2 SFP 丝印彩盒 MOQ + STI 工业线；付费样机）一页纸 + 旧线索点名回访— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**"
+   ],
+   "notes": "OEM 30%；P 池候选 ★★（成单 + 自有品牌 + 大分销 + 具名 KP）；坐实。",
+   "code": "SC-371"
+  },
+  "SC-427": {
+   "batch": 125,
+   "name": "TBK Vision（tbkvision.com；**1 查：品牌真实（manualslib TBK NEO 4/8/16 DVR 手册 → tbkvision.com）；verif.com 显示法国 TBK SOLUTION（SIREN 750660060；23 Che du Chanay, 69720 Saint-Bonnet-de-Mure；2012；资本 5,000 €；15 人）以 tbkvision.com 为官网；西班牙法人 1 查未得 → 部分坐实（法人国别待核）**）；表内：安防品牌商，Utepo 工业交换机 + 自有型号；退信但域名正常；14 次跟进",
+   "iso": "ES",
+   "fetched": "2026-10-29",
+   "source": "ES · 1 次检索：verif.com（TBK SOLUTION FR 750660060；site tbkvision.com）+ manualslib（TBK NEO DVR）；西班牙登记无命中；2026-10-29",
+   "url": "https://www.verif.com/en/company/TBK-SOLUTION-68d9c05a1299230338d95049/",
+   "number": "未取（法国 TBK SOLUTION SIREN 750660060 关联；西班牙法人未得）",
+   "status": "营网中（品牌页在线）",
+   "incorporated": "未取（法国关联公司 2012）",
+   "company_type": "未取",
+   "sic": [
+    "安防自有品牌（DVR / 摄像机 / 交换机贴牌）"
+   ],
+   "address": "未取（西班牙；法国关联 Saint-Bonnet-de-Mure）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（关联公司 15 人）",
+   "officers": [
+    "（info@tbkvision.com 表内曾退信；具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌 → OEM 30%：先核法人国别 + 找新 KP（LinkedIn「TBK Vision」），再一页纸（STI-154GP 工业 / STC-228GP + 丝印 MOQ；Utepo 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**"
+   ],
+   "notes": "OEM 30%；P 池候选 △（自有品牌 ✔ 进口 Utepo ✔ 欧洲 ✔，但法人未坐实 → 预付 100%）；部分坐实。",
+   "code": "SC-427"
   }
  }
 }

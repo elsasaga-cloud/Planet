@@ -2,7 +2,7 @@
 
 > **评级 C**　|　西班牙　|　档案编号 `SC-427`　|　优先级 —　|　状态：已推送 14 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：西班牙 TBK Vision（安防品牌商，Utepo 工业交换机 + 自有型号，早期 AI 45% A）→ 主区 + 自有品牌 OEM 对象；退信但域名正常；14 次跟进 → 闸 2 找新 KP　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：△ 观察档 · OEM 30%：TBK Vision（品牌真实：DVR 手册；域名关联法国 TBK SOLUTION SIREN 750660060；西班牙法人未得）部分坐实；自有品牌 ✔ 进口 Utepo ✔ 欧洲 ✔ → 入池观察档，预付 100%，先核法人 + 找新 KP　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：推送 14 次（2024-05-09 → 2025-10-02）　|　**所在清单**：A优质名单(Spain)、AI评估(ES)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-427
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 21
 country: 西班牙
 region: 欧洲
@@ -39,6 +39,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（24 口 PoE L2+ 走量款）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `tbkvision.com` → Microsoft 365（MX：tbkvision-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 125 批（ES · 1 次检索：verif.com（TBK SOLUTION FR 750660060；site tbkvision.com）+ manualslib（TBK NEO DVR）；西班牙登记无命中；2026-10-29，2026-10-29 查；https://www.verif.com/en/company/TBK-SOLUTION-68d9c05a1299230338d95049/）：**
+
+- 法定名 / 登记号：TBK Vision（tbkvision.com；**1 查：品牌真实（manualslib TBK NEO 4/8/16 DVR 手册 → tbkvision.com）；verif.com 显示法国 TBK SOLUTION（SIREN 750660060；23 Che du Chanay, 69720 Saint-Bonnet-de-Mure；2012；资本 5,000 €；15 人）以 tbkvision.com 为官网；西班牙法人 1 查未得 → 部分坐实（法人国别待核）**）；表内：安防品牌商，Utepo 工业交换机 + 自有型号；退信但域名正常；14 次跟进 · 未取（法国 TBK SOLUTION SIREN 750660060 关联；西班牙法人未得） · 状态 **营网中（品牌页在线）** · 成立 未取（法国关联公司 2012） · 未取
+- 行业码 / 经营范围：安防自有品牌（DVR / 摄像机 / 交换机贴牌）
+- 注册地址：未取（西班牙；法国关联 Saint-Bonnet-de-Mure）
+- 规模档：小型（关联公司 15 人）
+- 账目：未取；—
+- 高管：（info@tbkvision.com 表内曾退信；具名 KP 未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自有品牌 → OEM 30%：先核法人国别 + 找新 KP（LinkedIn「TBK Vision」），再一页纸（STI-154GP 工业 / STC-228GP + 丝印 MOQ；Utepo 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**
+- 备注：OEM 30%；P 池候选 △（自有品牌 ✔ 进口 Utepo ✔ 欧洲 ✔，但法人未坐实 → 预付 100%）；部分坐实。
 
 ## 基本事实（事实/推断/假设分层）
 

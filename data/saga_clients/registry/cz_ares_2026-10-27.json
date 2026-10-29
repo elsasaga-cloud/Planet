@@ -3,8 +3,8 @@
   "kind": "registry",
   "source": "Czechia · ARES 官方 API（ares.gov.cz）+ or.justice.cz 商业登记",
   "created": "2026-10-27",
-  "updated": "2026-10-28",
-  "count": 23
+  "updated": "2026-10-29",
+  "count": 24
  },
  "rows": {
   "SA-089": {
@@ -759,6 +759,37 @@
    ],
    "notes": "分销 20% small；一页纸一次；坐实（IČO + 卷号 + jednatelé + 新总经理）。",
    "code": "SB-752"
+  },
+  "SC-1335": {
+   "batch": 125,
+   "name": "DISCOMP s.r.o.（discomp.cz；**rejstrik.penize / finance.cz：IČO 25236792；Cvokařská 1216/8, Lobzy, 312 00 Plzeň；1999-09-21 登记（Krajský soud v Plzni C 11558）；RES 50–99 名员工；2014 吸收合并 DISCOMP HOLDING；LinkedIn 公司页**）；表内：光纤设备 / CWDM / SFP，有部分 Planet 的；dan.pacanda@ / milan.harmacek@ 具名；冷户",
+   "iso": "CZ",
+   "fetched": "2026-10-29",
+   "source": "CZ · 1 次检索：rejstrik.penize.cz/25236792（Cvokařská 1216/8；1999；fúze 2014）+ finance.cz（50–99 zaměstnanců）+ firmy.euro.cz（C 11558）；2026-10-29",
+   "url": "https://rejstrik.penize.cz/25236792-discomp-s-r-o",
+   "number": "IČO 25236792",
+   "status": "营业中（年检 2026-10）",
+   "incorporated": "1999-09-21",
+   "company_type": "s.r.o.",
+   "sic": [
+    "网络 / 光纤设备分销（Planet 渠道；皮尔森）"
+   ],
+   "address": "Cvokařská 1216/8, Lobzy, 312 00 Plzeň",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（50–99）",
+   "officers": [
+    "Dan Pacanda（dan.pacanda@discomp.cz 表内具名；职务未取）",
+    "Milan Harmáček（milan.harmacek@discomp.cz 表内具名；职务未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**Planet 渠道分销 → 分销 20%：点名 Dan 一页纸一次（STC-2224GP $86 / STI-288GPM $78.9 对标 Planet 同口型 + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；与 Planet 仓并线核对"
+   ],
+   "notes": "分销 20%；P 池候选 ★（中型分销 + Planet 渠道 + 具名 KP；冷户 §5 四条齐）；坐实；dayjob 线索 CWDM。",
+   "code": "SC-1335"
   }
  }
 }

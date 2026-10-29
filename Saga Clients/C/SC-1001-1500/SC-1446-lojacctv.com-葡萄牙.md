@@ -2,7 +2,7 @@
 
 > **评级 C**　|　葡萄牙　|　档案编号 `SC-1446`　|　优先级 —　|　状态：有回复·跟进中
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：葡萄牙 LojaCCTV（卖多种外壳 PoE 的安防网店 / 分销，回过 1 次、16 次跟进）→ 欧洲主区 + 回信 + 对位 ✔ → 闸 2 查底数　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：△ 观察档 · 分销 20%：lojaCCTV = Neurónio Digital, Unipessoal Lda.（NIF 517867990；Ramada；一人公司 1–10）坐实；回信 ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔ → 入池观察档，预付 100%　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：实质回复 1 次；推送 16 次（2024-03-22 → 2025-10-03）　|　**所在清单**：A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1446
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 10
 country: 葡萄牙
 region: 欧洲
@@ -39,6 +39,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（24 口 PoE L2+ 走量款）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `lojacctv.com` → Google Workspace（MX：smtp.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 125 批（PT · 1 次检索：lojacctv.com/page/termos-e-condicoes（Neurónio Digital, Unipessoal Lda.；NIF 517867990；Ramada）+ ensun（1–10）；2026-10-29，2026-10-29 查；https://www.lojacctv.com/page/termos-e-condicoes）：**
+
+- 法定名 / 登记号：Neurónio Digital, Unipessoal Lda.（lojaCCTV；lojacctv.com；**官网条款页：NIF PT517867990；Av. Augusto Hilário Nr.5 Loja C, 2620-528 Ramada；geral@lojacctv.com；ensun：1–10 人、CCTV 批发（Hikvision / Uniview 套装）**）；表内：卖多种外壳 PoE 的安防网店 / 分销，回过 1 次、16 次跟进；fabio@ 具名 · NIF 517867990 · 状态 **营业中（网店在线）** · 成立 未取 · Unipessoal Lda.（一人公司）
+- 行业码 / 经营范围：安防 / CCTV 网店 + 批发（里斯本北郊）
+- 注册地址：Av. Augusto Hilário Nr.5 Loja C, 2620-528 Ramada
+- 规模档：微型（1–10）
+- 账目：未取；—
+- 高管：Fábio（fabio@lojacctv.com 表内具名 = 回信人推定）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **分销 20%：点名 Fábio 续上回信一页纸（STC-028GP $28 / STC-228GP $33 + MOQ 1；一人公司 → 预付 100%）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**
+- 备注：分销 20%；P 池候选 △（回信 ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔；微型一人公司 → 预付）；坐实。
 
 ## 基本事实（事实/推断/假设分层）
 

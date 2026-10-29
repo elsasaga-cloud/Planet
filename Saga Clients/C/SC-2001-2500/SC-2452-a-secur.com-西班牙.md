@@ -2,7 +2,7 @@
 
 > **评级 C**　|　西班牙　|　档案编号 `SC-2452`　|　优先级 —　|　状态：已推送 15 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：西班牙 A-Secur（安防分销商，ONV / Utepo 页面，早期 AI 50% A）→ 主区 + 贴牌渠道；15 推 0 回；Simon 判不行 → 闸 2 查底数　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 贴牌渠道 · 分销 20% / OEM 30%：A-SECUR = Leistung S.L.U.（Mos, Pontevedra；11–50；安防批发 + 自有线 Movok；ONV / Utepo 页面）部分坐实（CIF 未取）；进口经验 ✔ 欧洲 ✔ 对位 ✔ 自有线 ✔ → P 池候选；Simon 曾判不行，可否决　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：推送 15 次（2024-04-02 → 2025-10-02）　|　**所在清单**：A优质名单(Spain)、AI评估(ES)·DONE、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-2452
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: -20
 country: 西班牙
 region: 欧洲
@@ -39,6 +39,31 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（24 口 PoE L2+ 走量款）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `a-secur.com` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、alt3.aspmx.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+- `a-secur.es` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、alt3.aspmx.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 125 批（ES · 1 次检索：crunchbase（Leistung S.L.U.；Movok；11-50）+ paxinasgalegas（Mos 地址 / 电话）+ join.com；2026-10-29，2026-10-29 查；https://www.crunchbase.com/organization/a-secur）：**
+
+- 法定名 / 登记号：Leistung S.L.U.（分销品牌 A-SECUR；a-secur.com；**Crunchbase：A-SECUR 为 Leistung S.L.U. 的分销品牌，面向专业安装商的电子安防批发（CCTV / 入侵 / 门禁 / 布线；Dahua 兼容 + 自有线 Movok AI 视频产品）；11–50 人；paxinasgalegas：Anel da Lagoa 18, Pol. Ind. Veigadaña, 36415 Mos (Pontevedra)；986 169 242；info@a-secur.es；join.com：15 年以上、由安装商转型分销**）；CIF 1 查未得 → 部分坐实；表内：ONV / Utepo 页面；15 推 0 回；Simon 曾判不行 · 未取（CIF 1 查未得；法人名 Leistung S.L.U.） · 状态 **营业中（招聘 / 官网在线）** · 成立 未取（>15 年） · S.L.U.
+- 行业码 / 经营范围：电子安防批发（加利西亚 Mos；自有线 Movok）
+- 注册地址：Anel da Lagoa 18, Pol. Ind. Veigadaña, 36415 Mos (Pontevedra)
+- 规模档：小型（11–50）
+- 账目：未取；—
+- 高管：javperez@a-secur.es（表内具名；职务未取）
+- 高管：（info@a-secur.es 官网公开总邮箱）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **贴牌渠道（自有线 Movok）→ OEM 30% / 分销 20% 双轨：一页纸一次（STC-028GP $28 / STC-228GP $33 + 丝印 MOQ；Utepo / ONV 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；Simon 可否决
+- 备注：分销 20% / OEM 30%；P 池候选 ○（进口经验 ✔ 自有线 ✔ 欧洲 ✔ 对位 ✔）；部分坐实；Simon 曾判不行。
 
 ## 基本事实（事实/推断/假设分层）
 

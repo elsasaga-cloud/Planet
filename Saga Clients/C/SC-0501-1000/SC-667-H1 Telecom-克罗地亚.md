@@ -2,7 +2,7 @@
 
 > **评级 C**　|　克罗地亚　|　档案编号 `SC-667`　|　优先级 —　|　状态：成交过·维护
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：克罗地亚 H1 Telekom：成样品单（SFP / 收发器）、「常回复」、17 次跟进 → 欧洲 + 样品 + 回信；产品偏光模块 → 候选 + dayjob，闸 2 核　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+> **C 池筛选：留 C 储备**（闸 2 · 2026-10-29）：闸 2 查实：H1 Telekom d.d.（OIB 88551335012；Split）**法人已注销（Neaktivan / izbrisan，推定并购吸收）** → 回 C；KP Silvana Pavić 去向待核（若在承继运营商任职再议）；品类偏光模块 = 本职线　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
 >
 > **类型**：电信/ISP/网络运营（推断）　|　**历史关系**：成交/下单过；推送 17 次（2024-03-26 → 2025-10-03）　|　**所在清单**：A优质名单(其他优质欧洲客户)、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-667
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: keep_C  # 闸 2 G2 2026-10-29
 score: 17
 country: 克罗地亚
 region: 欧洲
@@ -39,6 +39,30 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STI-110GE（工业迷你 1 光 1 电（MC 位））
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `h1telekom.hr` → 同域名 MX → 托管在 contaboserver.net（MX：h1telekom.hr）。主机商附带邮箱（同域名 MX → 托管在 contaboserver.net）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 125 批（HR · 1 次检索：infobiz.fina.hr（OIB 88551335012；Status Neaktivan/izbrisan）+ fininfo（Brisan；2004）+ novac.net（旧简介：13 万线、MBS 060145425、股本 23.76M kn）；2026-10-29，2026-10-29 查；https://infobiz.fina.hr/tvrtka/h1-telekom-d-d/OIB-88551335012）：**
+
+- 法定名 / 登记号：H1 TELEKOM d.d.（h1telekom.hr；**Fina infobiz：OIB 88551335012；MB 01834649；Dračevac 2/d, 21000 Split；2004 年成立；曾为克罗地亚领先替代固网运营商（13 万线）；状态 Neaktivan / izbrisan（已注销 / 删除，推定并购吸收）**）；表内：成样品单（SFP / 收发器）、「常回复」、17 次跟进；silvana.pavic@ / branka.trogrlic@ 具名 · OIB 88551335012 / MB 01834649 · 状态 ****已注销（Neaktivan / izbrisan）**** · 成立 2004 · d.d.（已注销）
+- 行业码 / 经营范围：固网运营商（已并入他方，推定）
+- 注册地址：Dračevac 2/d, 21000 Split（原）
+- 规模档：—（法人已注销）
+- 账目：未取；—
+- 高管：Silvana Pavić（silvana.pavic@h1telekom.hr 表内「常回复」；去向待核）
+- 高管：Branka Trogrlić（branka.trogrlic@h1telekom.hr 表内）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **法人已注销 → 不动；回 C（KP 去向 LinkedIn 待核，若在承继运营商任职再议；品类偏光模块 = 本职线）**
+- 备注：不动；回 C；坐实（已注销）。
 
 ## 基本事实（事实/推断/假设分层）
 

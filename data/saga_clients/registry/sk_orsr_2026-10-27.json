@@ -3,8 +3,8 @@
   "kind": "registry",
   "source": "Slovensko · ORSR / FinStat（官方登记 + 公开财报）",
   "created": "2026-10-27",
-  "updated": "2026-10-27",
-  "count": 1
+  "updated": "2026-10-29",
+  "count": 2
  },
  "rows": {
   "SB-005": {
@@ -41,6 +41,37 @@
    "fetched": "2026-10-27",
    "code": "SB-005",
    "_src": "Slovensko · ORSR / FinStat（官方登记 + 公开财报）"
+  },
+  "SC-1881": {
+   "batch": 125,
+   "name": "TSS Group a. s.（tssgroup.sk；**foaf.sk / ifirmy / pracuj：IČO 36323551；DIČ 2020116505；Továrenská 4201/50, 018 41 Dubnica nad Váhom；2002-04-24 成立（Okresný súd Trenčín Sa/10609/R）；102–150 名员工；分销 + 开发 + 制造，进口销售安防系统（Dahua / Avigilon / Sony 摄像机、车辆 GPS 监控），覆盖斯洛伐克 / 捷克 / 欧洲**）；表内：自称斯洛伐克第二大 CCTV 批发商，对 IP / analog over fiber 感兴趣；电话加不上，sokol@ / roxer@ 具名",
+   "iso": "SK",
+   "fetched": "2026-10-29",
+   "source": "SK · 1 次检索：foaf.sk/36323551（Sa/10609/R；2002；Továrenská 4201/50）+ ifirmy（102 人；Distribútor / Dovozca）+ pracuj.sk（≈150 人；Dahua / Avigilon / SONY 分销）；2026-10-29",
+   "url": "https://www.foaf.sk/36323551",
+   "number": "IČO 36323551",
+   "status": "营业中（登记更新 2026-10-07）",
+   "incorporated": "2002-04-24",
+   "company_type": "a.s.",
+   "sic": [
+    "安防系统进口分销 + 制造（Dahua / Avigilon；斯洛伐克 / 捷克）"
+   ],
+   "address": "Továrenská 4201/50, 018 41 Dubnica nad Váhom",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（102–150）",
+   "officers": [
+    "Sokol（sokol@tssgroup.sk 表内具名；职务未取）",
+    "Roxer（roxer@tssgroup.sk 表内具名；职务未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**大型安防分销 → 分销 20%：点名 sokol@ 一页纸一次（安防 PoE 线 STC-028GP / STC-228GP / STC-2224GP + 工业 STI-154GP；光纤回传：STI-154GP SFP 口 + MC STC-110XGE 不供百兆明说）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**"
+   ],
+   "notes": "分销 20%；P 池候选 ★（中型进口分销 + 具名 KP + 对位）；坐实；dayjob 线索 analog over fiber。",
+   "code": "SC-1881"
   }
  }
 }

@@ -4,7 +4,7 @@
   "source": "其他国家官方 / 准官方登记",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 502
+  "count": 509
  },
  "rows": {
   "SA-061": {
@@ -15561,6 +15561,219 @@
    ],
    "notes": "不动（产品不对位 + 查无实体）；0 查。",
    "code": "SB-969"
+  },
+  "SC-1033": {
+   "batch": 125,
+   "name": "BAUSCH DATACOM NV（bausch.be；**staatsbladmonitor：ondernemingsnummer 0437.286.193；Tiensesteenweg 56, 3360 Bierbeek（Korbeek-Lo）；1997-01-17 成立（Kompass 1989）；NV；状态 Actief / Normale toestand；最近年报 2024 年度（2025-07-14 递交）；NACE 46520 电子 / 电信设备批发**）；表内：网络产品分销（二层光纤交换机、SFP）、冷户（未推送过）；dominiek@bausch.be 具名",
+   "iso": "BE",
+   "fetched": "2026-10-29",
+   "source": "BE · 1 次检索：staatsbladmonitor（BE0437286193；Actief；jaarrekening 2024）+ kompass（Tiensesteenweg 56；1989；46520）+ trendstop（旧 0436.762.393 Leuven 分支）；2026-10-29",
+   "url": "https://www.staatsbladmonitor.be/bedrijfsfiche.html?ondernemingsnummer=0437286193",
+   "number": "0437.286.193",
+   "status": "Actief（年报 2024 已递）",
+   "incorporated": "1997-01-17",
+   "company_type": "NV",
+   "sic": [
+    "电子 / 电信设备批发（46520）"
+   ],
+   "address": "Tiensesteenweg 56, 3360 Bierbeek",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中小型（推定）",
+   "officers": [
+    "Dominiek（dominiek@bausch.be 表内具名；职务未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**分销 20%：首次触达一页纸（STC-228GP $33 / STC-2224GP $86 二层光口 + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；冷户 → 回声后再深挖"
+   ],
+   "notes": "分销 20%；P 池候选 ○（冷户：对位 ✔ 欧洲 ✔ 坐实 ✔ 体量 ✔ = §5 四条）；坐实。",
+   "code": "SC-1033"
+  },
+  "SC-1181": {
+   "batch": 125,
+   "name": "AGENDA-AGE Kft.（agendaage.hu；**cegadatok：2002-05-09 成立；1095 Budapest, Soroksári út 48. 8.ép.fsz；主业 IT / 通信产品批发；最近年营收 >514M HUF；状态 aktív；ugyvezeto@agendaage.hu（总经理邮箱）公开；ZoomInfo 20–49 人、营收 1–5M；官网自述「网络 IT 批发，仅服务法人 / 签约经销商 / 安装商」**）；表内：SFP / MC / 工业 FS，在用深圳 credfiber；15 次跟进无回复",
+   "iso": "HU",
+   "fetched": "2026-10-29",
+   "source": "HU · 1 次检索：cegadatok.hu/agenda-age-kft（2002；514M HUF；ugyvezeto@）+ agendaage.hu 首页（B2B only；+36 1 313 1073）+ zoominfo（20–49）；2026-10-29",
+   "url": "https://cegadatok.hu/agenda-age-kft/",
+   "number": "未取（cegjegyzékszám 页内未列）",
+   "status": "aktív",
+   "incorporated": "2002-05-09",
+   "company_type": "Kft.",
+   "sic": [
+    "IT / 通信产品批发（布达佩斯；B2B 光纤 + 铜缆方案）"
+   ],
+   "address": "1095 Budapest, Soroksári út 48. 8. ép. fsz.",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（20–49；>514M HUF）",
+   "officers": [
+    "（ugyvezeto@agendaage.hu = 总经理邮箱，名录公开 → 首发收件人）",
+    "（info@agendaage.hu 表内）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**进口商 / 分销 20%：换 ugyvezeto@ 一页纸一次（STI-154GP / STC-228GP 对标 credfiber 同类 + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**"
+   ],
+   "notes": "分销 20%；P 池候选 ○（进口经验 ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔）；坐实。",
+   "code": "SC-1181"
+  },
+  "SC-1194": {
+   "batch": 125,
+   "name": "ELDI AS（eldi.no；**gulesider：org.nr 924312963；2019-12-24 登记；股本 NOK 30,300；NACE 46.640 机械设备批发；Daglig leder Tony Volden Uthuslien（= 表内 tony@eldi.no）；董事长 Dag Petter Evensen；derdubor：Täby vei 15, 1474 Lørenskog；「楼宇自动化材料批发（HDL 系统）」**）；表内：宇航的工业 FS / SFP，产品较少；15 次跟进无回复",
+   "iso": "NO",
+   "fetched": "2026-10-29",
+   "source": "NO · 1 次检索：gulesider.no（924312963；2019；30 300；Tony Volden Uthuslien）+ derdubor.no（Täby vei 15 Lørenskog；grossist byggautomasjon）；2026-10-29",
+   "url": "https://www.gulesider.no/eldi+as+oslo/155035623/bedrift",
+   "number": "924312963",
+   "status": "营业中（MVA 登记）",
+   "incorporated": "2019-12-24",
+   "company_type": "AS",
+   "sic": [
+    "楼宇自动化材料批发（HDL；网络为副线）"
+   ],
+   "address": "Täby vei 15, 1474 Lørenskog",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型 / 小型（2019 新司，股本 NOK 30,300）",
+   "officers": [
+    "Tony Volden Uthuslien — Daglig leder（tony@eldi.no 表内 = 决策人直达）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**分销 20%：点名 Tony 一页纸一次（STI-154GP / STI-280GE 工业线对标宇航 + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；新司小股本 → 预付 100%"
+   ],
+   "notes": "分销 20%；P 池候选 ○（决策人邮箱在表 + 进口经验 + 坐实；体量小 → 预付）；坐实。",
+   "code": "SC-1194"
+  },
+  "SC-1215": {
+   "batch": 125,
+   "name": "SPX SIA（router.lv；**官网 About us：MikroTik 官方分销（里加 + 维尔纽斯仓）；Reg. No. 40003637852 / VAT LV40003637852；15 Krustpils street, Riga LV-1073；+371 67724000；sales@router.lv**）；表内：switch 等，有少量 Utepo；15 次跟进无回复",
+   "iso": "LV",
+   "fetched": "2026-10-29",
+   "source": "LV · 1 次检索：router.lv/eng/15/（SPX SIA；40003637852；Krustpils 15；MikroTik Distributor）+ facebook（官方 MikroTik 分销）；2026-10-29",
+   "url": "https://www.router.lv/eng/15/",
+   "number": "40003637852",
+   "status": "营业中（官网 / 网店在线）",
+   "incorporated": "未取",
+   "company_type": "SIA",
+   "sic": [
+    "MikroTik 官方分销 + 网络设备网店（拉脱维亚 / 立陶宛）"
+   ],
+   "address": "15 Krustpils street, Riga LV-1073",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（推定）",
+   "officers": [
+    "（sales@router.lv 官网公开 / router@router.lv 表内；具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**MikroTik 分销 → 分销 20%：一页纸一次（MikroTik 无 PoE 工业款补位：STI-154GP / STC-228GP + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**"
+   ],
+   "notes": "分销 20%；P 池候选 ○（MikroTik 分销 = 对位渠道；进口 Utepo ✔；坐实）；坐实。",
+   "code": "SC-1215"
+  },
+  "SC-1220": {
+   "batch": 125,
+   "name": "Starelec Oy（starelec.fi；**官网 Yritys 页：Y-tunnus 0549989-1；Kiillekuja 3, FI-65300 Vaasa；1984-06-14 成立；家族企业，电子元件 / 仪表 / 焊接工具分销 + 全国网店；状态 Aktiivinen**）；表内：Networking 类有 ONV 的 switch；sampo.aallos@ 具名；15 次跟进无回复",
+   "iso": "FI",
+   "fetched": "2026-10-29",
+   "source": "FI · 1 次检索：starelec.fi/sivu/yritys（0549989-1；1984；Vaasa）+ yritystele（Aktiivinen）；2026-10-29",
+   "url": "https://starelec.fi/sivu/yritys",
+   "number": "0549989-1",
+   "status": "Aktiivinen",
+   "incorporated": "1984-06-14",
+   "company_type": "Oy",
+   "sic": [
+    "电子元件 / 仪表分销（网络设备为副线）"
+   ],
+   "address": "Kiillekuja 3, FI-65300 Vaasa",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（推定）",
+   "officers": [
+    "Sampo Aallos（sampo.aallos@starelec.fi 表内具名；职务未取）",
+    "（myynti@ / shop@starelec.fi 公开销售邮箱）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**分销 20%：点名 Sampo 一页纸一次（STC-028GP $28 / STC-228GP $33 对标 ONV + MOQ 1）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；网络为副线不加码"
+   ],
+   "notes": "分销 20%；P 池候选 △（进口 ONV ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔，但网络为副线、体量小 → Simon 定）；坐实。",
+   "code": "SC-1220"
+  },
+  "SC-1706": {
+   "batch": 125,
+   "name": "ITV-Security ApS（itvsecurity.dk / .com；**官网页脚：CVR 38937456；Æblehaven 7, 8930 Randers NØ；电话 35115000；kontakt@itvsecurity.dk；品牌页 Vivotek / Avico / Milestone**）；表内：产品线 Vivotek + 深圳 acorid 牌；15 次跟进无回复",
+   "iso": "DK",
+   "fetched": "2026-10-29",
+   "source": "DK · 1 次检索：itvsecurity.dk 商品 / 品牌页页脚（ITV-Security ApS；CVR 38937456；Randers NØ）；2026-10-29",
+   "url": "https://itvsecurity.dk/shop/8-vms-software-amp-apps/",
+   "number": "CVR 38937456",
+   "status": "营业中（网店在线）",
+   "incorporated": "未取（CVR 389… ≈ 2017）",
+   "company_type": "ApS",
+   "sic": [
+    "安防 / 视频监控网店 + 分销（丹麦）"
+   ],
+   "address": "Æblehaven 7, 8930 Randers NØ",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型 / 小型（推定）",
+   "officers": [
+    "（kontakt@itvsecurity.dk 表内 = 公开总邮箱；具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**分销 20%：一页纸一次（安防 PoE：STC-028GP / STC-228GP + MOQ 1 + 付费样机；acorid 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**"
+   ],
+   "notes": "分销 20%；P 池候选 △（进口中国品牌 ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔；体量小）；坐实。",
+   "code": "SC-1706"
+  },
+  "SC-667": {
+   "batch": 125,
+   "name": "H1 TELEKOM d.d.（h1telekom.hr；**Fina infobiz：OIB 88551335012；MB 01834649；Dračevac 2/d, 21000 Split；2004 年成立；曾为克罗地亚领先替代固网运营商（13 万线）；状态 Neaktivan / izbrisan（已注销 / 删除，推定并购吸收）**）；表内：成样品单（SFP / 收发器）、「常回复」、17 次跟进；silvana.pavic@ / branka.trogrlic@ 具名",
+   "iso": "HR",
+   "fetched": "2026-10-29",
+   "source": "HR · 1 次检索：infobiz.fina.hr（OIB 88551335012；Status Neaktivan/izbrisan）+ fininfo（Brisan；2004）+ novac.net（旧简介：13 万线、MBS 060145425、股本 23.76M kn）；2026-10-29",
+   "url": "https://infobiz.fina.hr/tvrtka/h1-telekom-d-d/OIB-88551335012",
+   "number": "OIB 88551335012 / MB 01834649",
+   "status": "**已注销（Neaktivan / izbrisan）**",
+   "incorporated": "2004",
+   "company_type": "d.d.（已注销）",
+   "sic": [
+    "固网运营商（已并入他方，推定）"
+   ],
+   "address": "Dračevac 2/d, 21000 Split（原）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "—（法人已注销）",
+   "officers": [
+    "Silvana Pavić（silvana.pavic@h1telekom.hr 表内「常回复」；去向待核）",
+    "Branka Trogrlić（branka.trogrlic@h1telekom.hr 表内）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**法人已注销 → 不动；回 C（KP 去向 LinkedIn 待核，若在承继运营商任职再议；品类偏光模块 = 本职线）**"
+   ],
+   "notes": "不动；回 C；坐实（已注销）。",
+   "code": "SC-667"
   }
  }
 }

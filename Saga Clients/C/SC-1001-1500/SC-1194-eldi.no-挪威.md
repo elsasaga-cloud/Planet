@@ -2,7 +2,7 @@
 
 > **评级 C**　|　挪威　|　档案编号 `SC-1194`　|　优先级 —　|　状态：已推送 15 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：挪威 Eldi（宇航的工业 FS / SFP，产品较少）：欧洲 + 已进口中国同类品牌 + 对位 ✔；15 次跟进无回复（冷）→ 闸 2 查底数
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 分销 20%：Eldi AS（924312963；Lørenskog；2019 新司、股本 NOK 30,300；楼宇自动化批发；Daglig leder Tony = 表内 tony@eldi.no）坐实；决策人直达 ✔ 进口宇航 ✔ 欧洲 ✔ 对位 ✔ → P 池候选，体量小 → 预付
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 15 次（2024-05-10 → 2025-10-07）　|　**所在清单**：A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1194
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 13
 country: 挪威
 region: 欧洲
@@ -39,6 +39,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STI-288DGGPM（工业 L2+ 8 PoE + 2×2.5G SFP）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `eldi.no` → Microsoft 365（MX：eldi-no.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 125 批（NO · 1 次检索：gulesider.no（924312963；2019；30 300；Tony Volden Uthuslien）+ derdubor.no（Täby vei 15 Lørenskog；grossist byggautomasjon）；2026-10-29，2026-10-29 查；https://www.gulesider.no/eldi+as+oslo/155035623/bedrift）：**
+
+- 法定名 / 登记号：ELDI AS（eldi.no；**gulesider：org.nr 924312963；2019-12-24 登记；股本 NOK 30,300；NACE 46.640 机械设备批发；Daglig leder Tony Volden Uthuslien（= 表内 tony@eldi.no）；董事长 Dag Petter Evensen；derdubor：Täby vei 15, 1474 Lørenskog；「楼宇自动化材料批发（HDL 系统）」**）；表内：宇航的工业 FS / SFP，产品较少；15 次跟进无回复 · 924312963 · 状态 **营业中（MVA 登记）** · 成立 2019-12-24 · AS
+- 行业码 / 经营范围：楼宇自动化材料批发（HDL；网络为副线）
+- 注册地址：Täby vei 15, 1474 Lørenskog
+- 规模档：微型 / 小型（2019 新司，股本 NOK 30,300）
+- 账目：未取；—
+- 高管：Tony Volden Uthuslien — Daglig leder（tony@eldi.no 表内 = 决策人直达）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **分销 20%：点名 Tony 一页纸一次（STI-154GP / STI-280GE 工业线对标宇航 + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；新司小股本 → 预付 100%
+- 备注：分销 20%；P 池候选 ○（决策人邮箱在表 + 进口经验 + 坐实；体量小 → 预付）；坐实。
 
 ## 基本事实（事实/推断/假设分层）
 
