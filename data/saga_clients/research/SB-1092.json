@@ -7,7 +7,8 @@
  "type": "",
  "size": "",
  "brands_seen": [
-  "PLANET"
+  "PLANET",
+  "Ubiquiti"
  ],
  "evidence": [
   {
@@ -49,10 +50,11 @@
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-092，W 批次调研 2026-10-19/20）"
+  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-092，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "UNIFIBRE（业务分支）— 2026-10-01 起并入 OPTOPLAST S.R.L.（rebrand Optoconnect；P.IVA 01220320665；CF 05645630632；REA TO-916276；Unifibre S.r.l. 原 P.IVA 未取）",
@@ -209,6 +211,14 @@
     "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
     "why": "Elsa 箱群发 BCC 触达证据（命中地址 unifibre.it, uniteam@unifibre.it）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
     "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Unifibre e-commerce — Unifibre: vendita online di fibre ottiche, componenti, accessori. Sfoglia il catalogo, metti i prodotti nel carrello e paga con PayPal o carta di credito.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.unifibre.it/"
    }
   ],
   "proof_gaps": [
@@ -216,5 +226,38 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:36:44Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "uniteam@optoplast.org"
+  ],
+  "phones": [
+   "+39 02 3355501"
+  ],
+  "social": [
+   "https://www.facebook.com/UnifibreSrl",
+   "https://www.linkedin.com/company/unifibre-srl/",
+   "https://www.youtube.com/channel/UCXCQmtegOr-NeVS2g5Zeh4A"
+  ],
+  "models_on_site": [
+   "T3X-MAX",
+   "IGS-1020PTF",
+   "ALK-88A",
+   "IGS42158P2T2S",
+   "IGS421516P2T2S",
+   "IGS-624HPT",
+   "IGS-42154T2S",
+   "IGS-12040MT"
+  ],
+  "url": "https://www.unifibre.it/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

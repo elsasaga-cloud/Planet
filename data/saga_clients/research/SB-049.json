@@ -65,11 +65,12 @@
  ],
  "grade_override": "B",
  "override_reason": "老成交客户（2011–2013）但沉寂 12 年、非洲非主攻区、冷名单无回复 → B 待机。",
- "notes": "一封老客户回访邮件（FS 对位 STI 工业线）即可。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：deep/facts。\n一封老客户回访邮件（FS 对位 STI 工业线）即可。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + 名录核对）"
+  "level": "B 级加厚 v1（官网 + 名录核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Multi-Link (Pvt) Ltd = SECURICO 电子安防事业部（控股 DDNS Security Operations (Pvt) Ltd；注册号 1 查未得）",
@@ -259,10 +260,25 @@
     "quote": "8V1D 16V1D 18机架 11 13年 / 13年买了FS 很多种类的",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "SECURICO | Security Services Zimbabwe - 27 Years of Excellence — SECURICO is Zimbabwe's leading security services provider with 27 years of excellence. Cash management, guarding services, electronic security, and more. Your safety is our priority.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.securico.co.zw/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:21:54Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
  }
 }

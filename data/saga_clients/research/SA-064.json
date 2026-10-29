@@ -61,11 +61,12 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "18 次回复 = 全库最活跃联系人之一，但业务模式是按标书逐单采购（品类随标书变化，非持续同品类）。价值在于'每次标书涉及交换机时第一时间报价'。俄罗斯收款路径需核。P1 随标书；默认 STC-424DGGPM-280W，分销/投标价阶 20%。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n18 次回复 = 全库最活跃联系人之一，但业务模式是按标书逐单采购（品类随标书变化，非持续同品类）。价值在于'每次标书涉及交换机时第一时间报价'。俄罗斯收款路径需核。P1 随标书；默认 STC-424DGGPM-280W，分销/投标价阶 20%。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v2（官网 + 注册/司法信息核对）"
+  "level": "深挖 v2（官网 + 注册/司法信息核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "ООО «Опта»（ИНН 7708768402，ОГРН 1127746631814）",
@@ -170,6 +171,14 @@
     "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
     "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@optat.ru, optat.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
     "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "ÐÐÐ \"ÐÐÐ¢Ð\"",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://optat.ru/"
    }
   ],
   "proof_gaps": [
@@ -180,5 +189,25 @@
    "body": "Hi, Simon from Saga Telecom. For the tender lot: I hold these EXW numbers for 15 days with full CE/RoHS files, 100 % prepayment, so your bid sheet has a firm figure - 24 x Gigabit PoE+ (280 W) + 4 x 10G SFP+, L2+ managed, Marvell-based - STC-424XGGPM-280W - $180 (the August mail said $170; the RMB moved from 7.2 to 6.7); 8 x PoE+ + 2 x SFP, L2+ managed - STC-28DGGPM - $80.7. EAC stays on your side. Send me the lot's spec lines and quantities and you have the sheet back the same day."
   },
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:39Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@optat.ru"
+  ],
+  "phones": [
+   "00000000225"
+  ],
+  "social": [],
+  "models_on_site": [],
+  "url": "https://optat.ru/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

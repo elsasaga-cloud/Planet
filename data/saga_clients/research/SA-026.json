@@ -39,11 +39,12 @@
    "date": "2026-10-21"
   }
  ],
- "notes": "A 确认（美国自有品牌工业交换机 + 3 次实质回复 + 明确贴牌）：P1 = STI-488XGGPM（工业 L2+ 8 PoE + 4×10G）对位其 HN 系列入门款，30% OEM 档；Bypass 需求需向 SmartByte 确认有无 bypass 款（无则如实说明）。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\nA 确认（美国自有品牌工业交换机 + 3 次实质回复 + 明确贴牌）：P1 = STI-488XGGPM（工业 L2+ 8 PoE + 4×10G）对位其 HN 系列入门款，30% OEM 档；Bypass 需求需向 SmartByte 确认有无 bypass 款（无则如实说明）。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1"
+  "level": "深挖 v1 + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "EXPRESS SUPPLY INC（Florida，2006；dba Hardened Networks / ITS Express 2008）（第 85 批 官方登记核实 2026-10-27）",
@@ -234,6 +235,14 @@
     "quote": "Hi, Mark, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network scales 3, Full L3 features(VXLAN, EVPN, MPLS, Stacking etc.) suitable for core and aggregation…",
     "why": "Saga 实质答复原文（主题「Re: Marvell Alleycat5 Solution」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
     "k": "231c410bdb6b62d3"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Home - Hardened Networks — Learn More Checkout Our Products Checkout Our Products Learn More About Us Learn More About Us Learn More About Us Technical Support",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://hardenednetworks.com/"
    }
   ],
   "proof_gaps": [],
@@ -258,5 +267,32 @@
    "phone": "",
    "source": "https://www.corporationwiki.com/Florida/Tampa/mark-v-schulting/"
   }
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:19:56Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@expresssupply.net"
+  ],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "SHA-256",
+   "FIPS-197",
+   "AES-256",
+   "HN-AIS-8300",
+   "HN-8012-24",
+   "HN-8042",
+   "AIS-8300",
+   "HN-8004-16"
+  ],
+  "url": "https://hardenednetworks.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

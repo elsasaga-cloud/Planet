@@ -41,10 +41,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  "level": "B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "CONEXIÓN B2B 2005, S.L.（Órbita Digital；CIF B74173303；Oviedo）",
@@ -116,10 +117,55 @@
     "quote": "兴趣：安防为主 之前有Utepo的交换机",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "A digital world in your hands — Distributors and importers of telecommunications products, networks, fiber optics, multimedia, hdmi .. of the main brands in the market triax, televes, ikusi, Skykware, Vu+, Gigablue, Kathrein, Cabelcon, Ferguson",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.orbitadigital.com/en/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:23:36Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@orbitadigital.com",
+   "your@email.com"
+  ],
+  "phones": [
+   "+34 644 409 003",
+   "+34 910 052 331",
+   "+34 931 702 776"
+  ],
+  "social": [
+   "http://www.youtube.com/user/CanalOrbitaDigital",
+   "https://twitter.com/OrbitaDigitalES",
+   "https://twitter.com/intent/tweet?text=Allied+telesis+AT-GS980MX%2F28-50+L3+Stackable+Switch%2C+24x+10%2F100%2F1000-T%2C+4x+SFP%2B+Ports https%3A%2F%2Fwww.orbitadigital.com%2Fen%2Fcctv-accessories%2Fip-solutions%2F86468-at-gs980mx-28-50.html",
+   "https://twitter.com/intent/tweet?text=Allied+telesis+AT-IE340-12GP-80+L3+Industrial+Ethernet+Switch%2C+8x+10%2F100%2F1000-T+PoE%2B%2C+4x+SFP+Ports https%3A%2F%2Fwww.orbitadigital.com%2Fen%2Fcctv-accessories%2Fip-solutions%2F86470-at-ie340-12gp-80.html"
+  ],
+  "models_on_site": [
+   "DS-2DF6C632IWG1-ELW",
+   "AT-IE340-12GP-80",
+   "AT-GS980MX",
+   "ESB74173303",
+   "IE340",
+   "RJ-45",
+   "WD10EARZ",
+   "UX7-3"
+  ],
+  "url": "https://www.orbitadigital.com/en/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

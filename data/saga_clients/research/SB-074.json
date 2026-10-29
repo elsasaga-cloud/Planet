@@ -5,7 +5,10 @@
  "summary": "土耳其安防公司，ISAF 2025 现场：不懂英文，拿了彩页，表示要 PoE 交换机；WA 已加，尚无邮件跟进。",
  "type": "安防安装/经销商",
  "size": "待补证",
- "brands_seen": [],
+ "brands_seen": [
+  "Axis",
+  "Cisco"
+ ],
  "evidence": [
   {
    "kind": "用户记录",
@@ -26,11 +29,12 @@
  ],
  "grade_override": "A",
  "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌",
- "notes": "WA 用土耳其语模板（机器翻译）发 STC-28DGGPM / STC-21616GP 图片+价格，一次。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\nWA 用土耳其语模板（机器翻译）发 STC-28DGGPM / STC-21616GP 图片+价格，一次。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（基于用户表整理 + 需求映射）"
+  "level": "B 级加厚 v1（基于用户表整理 + 需求映射） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Bilge Güvenlik Sistemleri ve Teknoloji A.Ş.（İstanbul Ataşehir Örnek Mah. Dr. Suphi Ezgi Sok. No:6；A.Ş. 2018-02-08 登记；前身 Bilge Elektronik Güvenlik ve Bilgisayar Sistemleri Tic. Ltd. Şti. 1998；MERSİS 未取）",
@@ -94,6 +98,14 @@
     "quote": "不懂英文， 拿了彩页， 说了要POE SWITCH；90 53212 02931 已加（用户 Clients 表摘录）",
     "why": "展会面谈记录（录入 2026-10-21）",
     "k": "clients_table"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Bilge Güvenlik Sistemleri ve Teknoloji A.Ş. — Bilge Güvenlik Sistemleri ve Teknoloji A.Ş.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.bilgeguvenlik.com/tr"
    }
   ],
   "proof_gaps": [
@@ -115,5 +127,27 @@
    "prev_reason": "需求泛（'要 PoE switch'）、语言障碍、无后续互动 → B 慢跟（土耳其在主攻区故保留）。",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌"
   }
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:23:01Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "satis@bilgeguvenlik.com"
+  ],
+  "phones": [
+   "+90 (216) 291 12 12"
+  ],
+  "social": [
+   "https://www.linkedin.com/company/bilge-g%C3%BCvenlik-sistemleri-teknoloji-a-%C5%9F/"
+  ],
+  "models_on_site": [],
+  "url": "https://www.bilgeguvenlik.com/tr",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

@@ -50,10 +50,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "韩国",
@@ -135,6 +136,14 @@
     "quote": "16 Port Industrial PoE Switch",
     "why": "本日去信真实主题（邮箱索引 29f725ce36f815ea；信稿开头句引用此封；此前稿内写的「Booster PoE Switch」是线程列表首题，不是本封）",
     "k": "29f725ce36f815ea"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "자동화의 모든것 TOP-FA!",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://top-fa.com/"
    }
   ],
   "proof_gaps": [],
@@ -143,5 +152,33 @@
    "body": "Hello TOP-FA team,\n\nOver the past months you had a steady stream of product mails from us - most recently \"16 Port Industrial PoE Switch\" on 15 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the ICP DAS and D-Link networking you list for automation panels, a budget industrial line, neutral-brand, at distributor price, EXW, from single pieces, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail 5 x Gigabit unmanaged - model STI-050GE - $17.0 USD; 8 x Gigabit + 2 x SFP unmanaged - STI-280GE - $46; 8 x Gigabit PoE+ + 2 x SFP unmanaged - STI-288GP - $60. Serial gateways stay with ICP DAS - we do not do them. KC stays on your side.\n\nOne question: which port count do your automation customers buy most - 5 or 8?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:25:48Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "kijo1@adcsystem.co.kr",
+   "master@factos.co.kr"
+  ],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "GIE72",
+   "GH-402ATXR",
+   "PCI-7432",
+   "I-7520AR",
+   "RS-232",
+   "RS-422",
+   "DAQ-2204",
+   "CMS631-H420E"
+  ],
+  "url": "https://top-fa.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

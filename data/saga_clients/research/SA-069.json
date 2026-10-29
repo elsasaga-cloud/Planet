@@ -63,11 +63,12 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "5 次回复 + WA + 老合作关系线索；品类从视频光端机向 IP/PoE 迁移是其天然需求。俄罗斯收款路径需核。P1：STI-110GE 介质转换器 + STC-28DGGPM 商用 PoE（分销 20%）。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：deep。\n5 次回复 + WA + 老合作关系线索；品类从视频光端机向 IP/PoE 迁移是其天然需求。俄罗斯收款路径需核。P1：STI-110GE 介质转换器 + STC-28DGGPM 商用 PoE（分销 20%）。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v2（官网目录核对）"
+  "level": "深挖 v2（官网目录核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "ООО «БИЗНЕС ПАРТНЕР»（官网安防页 + 2017 行业新闻署名）/ ООО «БПТЕХНО»（品牌页）二选一；bptehno.ru；Москва；ИНН 未取 → 部分坐实",
@@ -216,5 +217,12 @@
    "body": "Hi, Simon from Saga Telecom. Two EXW numbers for your catalogue next to the optical transmission lines, MOQ 1, 15-day validity: industrial Gigabit media converter, 1 x RJ45 + 1 x SFP slot - STI-110GE - $26.5; DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - STI-288DGGPM - $137.5. EAC stays on your side. Which of the two fits your catalogue first?"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:42Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
  }
 }

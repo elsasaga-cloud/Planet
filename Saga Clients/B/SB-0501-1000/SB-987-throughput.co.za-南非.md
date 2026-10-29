@@ -57,6 +57,7 @@ updated: 2026-10-29
 | 2025-05-28 | 内 | Gmail 退信（A 邮箱） | bob@throughput.co.za 退信：550 Please turn on SMTP Authentication in your mail client. mail-qt1-f169.google.com | 该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开 | `gmail_a b815d5ee13668ada` |
 | 2026-10-02 | 去 | A/S 群发 | Marvell Alleycat5 Solution、Mini Industrial PoE Switch | 16 封 / 2 次打开 / 0 回｜首封 2025-01-14 → 末封 2026-10-02（16 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：工业FS 这个公司处理很多其他找的公司 Atop Westermo | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Throughput Technologies â Powering Resilient Industrial Networks HP — Throughput Technologies helps system integrators and industrial organisations design, modernise and strengthen resilient industrial networks for critical infrastructure. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「读而不回」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -142,9 +143,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Anton van der Westhuizen（）anton@throughput.co.za +27 83 659 3290〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Bob Petrie（创始人（1997）= 老板（Petrie 家族：Brenda Petrie HR）；Gillian Andersson 经理、Mashudu Mudau 分销经理（第 91 批 官方登记核实 2026-10-27）） 〔https://www.throughput.co.za/about-us/profile.html〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 守界））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 守界） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -69,10 +69,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "捷克",
@@ -154,10 +155,57 @@
     "quote": "Automatická odpověď: 16 Port Ethernet Switch｜﻿ ﻿ ﻿ ﻿﻿Dobrý den,  jsem na dovolené. Zpět budu 3.2. V urgentních případech prosím kontaktujte kolegy na svitidla@enika.",
     "why": "来信（邮箱索引；原文见 k）",
     "k": "e25fa84b6b9e3cb9"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Enika Nova Paka — Czech manufacturer of wireless technologies, distributor of lighting and electrical components.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.enika.eu/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:46:52Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "enika@enika.cz",
+   "faktury@enika.cz",
+   "prodej@enika.cz",
+   "reklamace@enika.cz",
+   "uctarna@enika.cz"
+  ],
+  "phones": [
+   "+420 493 773 311",
+   "+420 493 773 331",
+   "+420 493 773 338"
+  ],
+  "social": [
+   "https://www.facebook.com/Enika.cz/",
+   "https://www.linkedin.com/company/enika.cz",
+   "https://www.youtube.com/channel/UCu-XHkzP07Pf5r04O3tkYsQ"
+  ],
+  "models_on_site": [
+   "RL70LE-45N",
+   "RL70LE",
+   "SLJ500",
+   "RL70LE-60N",
+   "RL70LE-150N",
+   "HE3621A0500",
+   "CZ28218167",
+   "SK2022051361"
+  ],
+  "url": "https://www.enika.eu/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

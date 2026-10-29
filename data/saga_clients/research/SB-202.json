@@ -35,10 +35,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + country_fix 黎巴嫩）"
+  "level": "B 级加厚 v1（官网快照核对 + country_fix 黎巴嫩） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Engineering Group Contractors (EGC)（贝鲁特商业登记号 1 查未得）",
@@ -116,6 +117,14 @@
     "quote": "兴趣：1,谈了switch,着重问了30个switch环网 2，问了VC… 3，问了2光10电，基本都懂，问了BNC转网",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Home - Engineering Group Contractors (EGC) — Lightning, protection, safety, Security, arrestors, arresters, EGC, EGC Lebanon,Video, Phone, video phone, PABX, Smart Home, Automatic Gates, Automation, Home Automation, BMS, Building Management System, Engineering Group Contractors, Furse, Panasonic, Se",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://egc-lb.com/"
    }
   ],
   "proof_gaps": [
@@ -126,5 +135,35 @@
    "body": "Dear Mr. Hammoud,\n\nWe talked about a ring of about 30 switches, video-over-fibre, a 2-fibre + 10-copper unit and BNC-to-Ethernet; the mails you had since were general product mails. Here is the specific answer. For the ring: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2+ managed with ring redundancy, Marvell-based, -40 to 75 C, CE/RoHS - model STI-288DGGPM - $137.5 USD EXW (MOQ 1, 15-day validity); without ring, L2 managed - STI-288GPM - $82.2. The 2-fibre + 10-copper layout we do not have as a standard model - the nearest is 8 + 2. Video-over-fibre converters and BNC-to-Ethernet we do not carry. Payment T/T in advance through any bank you can use.\n\nOne question: is the ring for cameras only, or a mixed data site - that decides whether the PoE version is needed on every node?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:37:09Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [],
+  "social": [
+   "https://wa.me/96170",
+   "https://www.facebook.com/EGC-558090151231448",
+   "https://www.instagram.com/egc/",
+   "https://www.linkedin.com/company/11494922"
+  ],
+  "models_on_site": [
+   "RS422",
+   "KX-TDA100D",
+   "J-NET-EN54-SC-003",
+   "J-NET-EN54-SC-004",
+   "J-NET-EN54-SC-004-L",
+   "J-NET-EN54-REP",
+   "JNR-V4-1",
+   "JNR-V4-2"
+  ],
+  "url": "https://egc-lb.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

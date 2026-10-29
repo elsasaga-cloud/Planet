@@ -58,6 +58,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-10 | 面 | ISAF 2025 现场（用户 Clients 表记录） | 找商业级POE交换机 问是否带L2/L3 / Cihat TUNCBILEK / ctuncbilek@hescs.com | 展会面谈记录（录入 2026-10-21） | `clients_table` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | HCS Kablolama | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文
 
@@ -136,9 +137,10 @@ updated: 2026-10-29
 - **KP**：Cihat Tunçbilek（采购 / 销售经办，**非老板**；HCS 为 HES Hacılar Elektrik 集团（Kayseri）旗下 A.Ş.，董事长 Yusuf Öksüzömer；İstanbul Ticaret Sicil 12401448，LEI 7890008F3LXUBMYF0N25（第 84 批 官方登记核实 2026-10-27））ctuncbilek@hescs.com（用户表） +90 212 438 25 75（公司）〔https://www.zoominfo.com/p/Cihat-Tunc%CC%A7bilek/8077892179〕
 - **KP**：Fatma Sancar（Regional Sales Manager（名录公开））— —〔https://rocketreach.co/hcs-kablolama-sistemleri-profile_b43b5d3ac190e399〕
 - **调研后定级**：A（原自动 B）——B→A：土耳其最大电缆厂 HES Hacılar Elektrik 旗下结构化布线品牌 HCS（2000 年成立，51–200 人），产品与产品开发经理 Cihat Tunçbilek 在 ISAF 直接询商用 PoE 交换机并问 L2/L3——品牌方为布线产品线补有源交换机的典型 OEM 入口，可赢且值得长期跟进
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B→A 加厚 v1（官网 + 名录核对））
+### 加厚挖掘（2026-10-21 · B→A 加厚 v1（官网 + 名录核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

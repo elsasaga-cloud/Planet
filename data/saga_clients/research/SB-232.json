@@ -49,10 +49,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "Freunder Weg 106, 52068 Aachen",
@@ -136,6 +137,14 @@
     "quote": "16 Port Industrial PoE Switch",
     "why": "本日去信真实主题（邮箱索引 a528ae74d0fe3e3b；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
     "k": "a528ae74d0fe3e3b"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "AIXONTEC SHOP — AIXONTEC-SHOP Netzwerktechnik Systeme & Lösungen",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://aixontec.com/"
    }
   ],
   "proof_gaps": [],
@@ -144,5 +153,37 @@
    "body": "Hi Ashkan,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 22 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the industrial switches you sell under the AIXONTEC label next to the cabling and RFID range (sourced in China today), the same class in your packaging from small lots, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $85.5 USD EXW (MOQ 1, 15-day validity); the same unmanaged - STI-288GP - $62.2. Logo on the unit is free; colour box from 200 sets.\n\nOne question: which model do your industrial customers reorder most - managed or unmanaged?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:37:42Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [
+   "+49 (0) 241 47584838"
+  ],
+  "social": [
+   "https://www.facebook.com/profile.php?id=100067586949218",
+   "https://www.instagram.com/aixontec",
+   "https://www.linkedin.com/company/aixontec-gmbh",
+   "https://www.youtube.com/@aixontec4868"
+  ],
+  "models_on_site": [
+   "UL-94V0",
+   "AWG26",
+   "RJ-45",
+   "AWG23",
+   "M12-RJ45",
+   "IP-67",
+   "PRO-200",
+   "PRO-500"
+  ],
+  "url": "https://aixontec.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

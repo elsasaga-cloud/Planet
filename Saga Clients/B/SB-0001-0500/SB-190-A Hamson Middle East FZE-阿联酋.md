@@ -56,6 +56,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | GLC-LH-SMD 9个；916 2.5G Ethernet → 问一下他客户是否需要 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | A Hamson Inc. — We offer a full life-cycle of network integration services â design, build, operate and support of customer networks. With a unique operational model, best of breed portfolio and technical expertise around complex networking, we support known companies. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来；用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -125,9 +126,10 @@ updated: 2026-10-29
   > GLC-LH-SMD 9个；916 2.5G Ethernet → 问一下他客户是否需要
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Tahmad（表内联系人（WA +971 55 144 9500 已加；职务未核；2024-04 询 Cisco 光模块）— 不动，不发（第 118 批 官方登记核实 2026-10-28））tahmad@ahamson.com +971 55 144 9500（WA 已加）〔用户 Clients 表〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + LinkedIn/IBM 伙伴页核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + LinkedIn/IBM 伙伴页核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

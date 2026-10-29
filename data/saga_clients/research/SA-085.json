@@ -64,10 +64,11 @@
  ],
  "grade_override": "A",
  "override_reason": "B→A：土耳其最大电缆厂 HES Hacılar Elektrik 旗下结构化布线品牌 HCS（2000 年成立，51–200 人），产品与产品开发经理 Cihat Tunçbilek 在 ISAF 直接询商用 PoE 交换机并问 L2/L3——品牌方为布线产品线补有源交换机的典型 OEM 入口，可赢且值得长期跟进",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B→A 加厚 v1（官网 + 名录核对）"
+  "level": "B→A 加厚 v1（官网 + 名录核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "HCS KABLOLAMA SİSTEMLERİ SANAYİ VE TİCARET A.Ş.（İstanbul Ticaret Sicil 12401448；2000-11-22；LEI 7890008F3LXUBMYF0N25）",
@@ -136,6 +137,14 @@
     "quote": "找商业级POE交换机 问是否带L2/L3 / Cihat TUNCBILEK / ctuncbilek@hescs.com",
     "why": "展会面谈记录（录入 2026-10-21）",
     "k": "clients_table"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "HCS Kablolama",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://hescs.com/"
    }
   ],
   "proof_gaps": [
@@ -146,5 +155,12 @@
    "body": "Hi Cihat,\n\nAt ISAF 2025 in Istanbul you asked whether the 24-port PoE switch we showed is L2 or L3 - this is the plain answer, a year late but complete.\n\nBoth exist, both 1U rack units, HCS label and your model number on the unit and the web GUI:\n\n- L2+ (VLAN, QoS): 24 x Gigabit PoE+ (280 W budget) + 4 SFP, model STC-424DGGPM-280W - $145.7 USD EXW (OEM price, MOQ 1, 15-day validity).\n- L3 (static routing + dynamic routing): 24 x Gigabit + 4 x 10G SFP+, non-PoE, L3 version of our commercial 24+4 line (no separate catalogue code yet - it is quoted against your spec sheet) - $291.5 USD EXW (OEM price, MOQ 1, 15-day validity). The L3 tier with PoE exists only in our industrial DIN/rack series, quoted separately if needed.\n\nBoth are Marvell-based managed switches, CE/RoHS, 1-year warranty, 4-7 working days for the first lots. Housing, carton and manual are neutral by default; HCS logo on the front panel is free of charge, colour box from 200 sets.\n\nOne question: which of the two should I prepare first as an evaluation unit (at the unit price) for your product team - the L2+ PoE model that fits the HCS cabling range, or the L3 unit?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:50Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
  }
 }

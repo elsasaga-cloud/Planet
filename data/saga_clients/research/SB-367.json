@@ -35,10 +35,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照：行业外）"
+  "level": "B 级加厚 v1（官网快照：行业外） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "CÔNG TY CỔ PHẦN MTS / MTS JSC（MST 0101892941）",
@@ -124,10 +125,45 @@
     "why": "本户是 Elsa 群发批次的 To（锚），不是 1:1 名单；全程见 bcc_batches_2026.json anchors（第 74 批(m) 更正）",
     "k": "elsa_bcc",
     "msg_id": "1a08a7cf5fc993e4"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Công ty Cổ Phần MTS — Công ty Cổ Phần MTS chuyên cung cấp các loại Sản phẩm Thủy lực, Ống mềm, Đầu nối, Van thủy lực, Bơm thủy lực, Xilanh thủy lực, Động cơ thủy lực, Lọc dầu, Tủ điện, Tủ điều tốc, Tủ hạ thế... | Địa chỉ: Số 166, Đường Tựu Liệt, xã Thanh Liệt, Hà Nội |",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.thuyluc.com/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:39:59Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "chuyengiathuykhi@gmail.com"
+  ],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "SX200",
+   "SX300",
+   "DN2600",
+   "SGH10",
+   "SGH25",
+   "SGH50",
+   "RMC75E-MA1",
+   "EXP70-AP2"
+  ],
+  "url": "https://www.thuyluc.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

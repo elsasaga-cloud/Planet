@@ -58,10 +58,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  "level": "B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Patton Electronics Co.（Maryland Corporation；SAM UEI CETFWF46TQ69）",
@@ -128,10 +129,52 @@
     "quote": "Hello Alan, I was able to review with our support team on your needs for a switch. The closest model we have is the FP2024E however it does not suppor",
     "why": "来信原文（主题「[DomSales #397845]: L3 Managed Swit」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
     "k": "366a3daa8f45f640"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Patton Electronics | US Manufactured Network Equipment — Patton Electronics Company offers UC, cloud, & IoT-enabling solutions for carrier, enterprise & industry. Patton Electronics manufactures high-quality Patton VoIP gateways, eSBCs, Ethernet extenders, interface converters, and more. Patton's Sw",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.patton.com/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:47:16Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [
+   "+1 240 912 1215",
+   "+1 240 912 1218",
+   "+1 240 912 1228"
+  ],
+  "social": [
+   "https://twitter.com/pattonconnect",
+   "https://twitter.com/share",
+   "https://www.facebook.com/PattonElectronics",
+   "https://www.fiberplex.com"
+  ],
+  "models_on_site": [
+   "RS-232",
+   "FP2008E",
+   "PTP-10G4POE",
+   "FP1008E",
+   "FP2008EAT",
+   "FP1008EAT",
+   "FP2024E",
+   "RS-422"
+  ],
+  "url": "https://www.patton.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

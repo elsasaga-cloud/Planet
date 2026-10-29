@@ -46,10 +46,11 @@
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "加拿大",
@@ -124,11 +125,54 @@
     "quote": "大口FS；大口FS BDCOM",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "citiCalls – citiCALLS — Your VoIP Specialist. Home to name brands Atcom Avaya Cisco EMetrotel Fanvil Grandstream OpenVox Panasonic Yealink Yeastar.Name it, we've got it!",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://citicalls.com/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
  },
- "country_fix": "美国"
+ "country_fix": "美国",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:23:21Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "returns@citicalls.com",
+   "sales@citicalls.com"
+  ],
+  "phones": [
+   "+1 626 240 0785"
+  ],
+  "social": [
+   "https://twitter.com/share?text=Yealink YEA-AP08 1303097 Dante Digital Signal Processor&url=https://citicalls.com/products/yealink-yea-ap08-1303097-dante-digital-signal-processor",
+   "https://twitter.com/share?text=Yealink YEA-UVC8X-MOUNT-KITS 330100059001 UVC8X Mount Kit&url=https://citicalls.com/products/yealink-yea-uvc8x-mount-kits-330100059001-uvc8x-mount-kit",
+   "https://twitter.com/share?text=Yealink YEA-VCR11 1303081 Remote For MB A10/A20/A30/A40&url=https://citicalls.com/products/yealink-yea-vcr11-1303081-remote-for-mb-a10-a20-a30-a40",
+   "https://www.facebook.com/citicallss/"
+  ],
+  "models_on_site": [
+   "YEA-VCR11",
+   "YEA-UVC8X-MOUNT-KITS",
+   "YEA-AP08",
+   "CP700",
+   "YEA-PSU-PD65W-USBC",
+   "YEA-ROOMPANEL-PLUS-E2",
+   "YEA-WMB-T46",
+   "USB2CAT5E-EXT"
+  ],
+  "url": "https://citicalls.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

@@ -55,6 +55,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-08-14 | 去 | A/S 群发 | Marvell Industrial Alert System、10G Enterprise SFP Switch | 25 封 / 0 次打开 / 0 回｜首封 2024-07-04 → 末封 2026-08-14（25 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：MC SFP 工业FS 自己的牌子 https://www.amgsystems.com/english/products/amg210m-series-10gb | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | AMG Systems \| Industrial Network Transmission Solutions — Industrial IP/Ethernet, Fibre Optic, PoE & Wireless network transmission solutions: Media Converters, Managed and Unmanaged Switches, Wireless and 4G | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -138,9 +139,10 @@ updated: 2026-10-29
   > 兴趣：MC SFP 工业FS 自己的牌子 https://www.amgsystems.com/english/products/amg210m-series-10gb
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Stephen Edwin Clarke（Director（2019-08-09 任；1955-01 生；Companies House 02838846）= 董事本人；**同行（自产工业交换机）→ 不发**（第 95 批 官方登记核实 2026-10-28））steve.clarke@amgsystems.com +44 1767 600 777〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

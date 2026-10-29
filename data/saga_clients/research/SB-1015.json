@@ -35,10 +35,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  "level": "B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "BR Network Solutions GmbH（Amtsgericht Kleve HRB 3402；USt-ID DE 813 479 263；股东 van den Beek 50% / Robitzsch 50%）",
@@ -119,6 +120,14 @@
     "quote": "兴趣：工业FS MC 周边产品 销售平台",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "BR Network Solutions GmbH — Herzlich Willlkommen in Onlineshop der BR Network Solutions GmbH. Wir sind ein mittelständischer Fachgroßhandel für die Datennetzwerktechnik, Telekommunikation und Überwachungssysteme.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.br-network-shop.de/"
    }
   ],
   "proof_gaps": [
@@ -129,5 +138,35 @@
    "body": "Guten Tag,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 31 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the Industrial-Switch and media-converter categories in your shop, neutral brand, CE/RoHS, from single units: a DIN-rail 8 x Gigabit PoE+ + 2 x SFP unmanaged switch, -40 to 75 C - model STI-288GP - $57.4 USD EXW at distributor price (MOQ 1, 15-day validity); an industrial mini Gigabit media converter with SFP slot, STI-110GE, $26.5.\n\nOne question: who is the buyer for active components at BR Network, so I send the specs to the right person?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:27:41Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@br-network.de"
+  ],
+  "phones": [
+   "+49 (0) 28 21 - 9 70 16 - 0",
+   "+49 (0) 28 21 - 9 70 16-0"
+  ],
+  "social": [],
+  "models_on_site": [
+   "RJ-45",
+   "MS657208PX",
+   "MS453501PM-48G6-WH",
+   "MS453501PM-48G6",
+   "MS440201PM-48G6",
+   "MS440209M-G6",
+   "MS440209PM-48G6",
+   "MS440219M-G6"
+  ],
+  "url": "https://www.br-network-shop.de/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

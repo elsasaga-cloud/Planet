@@ -2,7 +2,7 @@
  "code": "SB-949",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（unreachable）",
+ "website_status": "快照失败（ksm.com.au：域名不可达（DNS/连接失败），2026-10-21，第 1 次）",
  "summary": "澳大利亚 KSM（ksm.com.au：工业 MC「很多外壳 有像国内的」、常总的工业 FS、商业 FS、SFP；产品页 industrial-grade-managed-l2-ethernet-switch-l2t4m；KP Kevin（质量高）；官网 unreachable）；群发 22 次无回复。",
  "type": "工业网络经销商（澳大利亚，国内货源在供）",
  "size": "",
@@ -42,7 +42,7 @@
  ],
  "grade_override": "A",
  "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
@@ -166,5 +166,14 @@
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）"
   }
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:25:36Z"
+  ],
+  "fails": [
+   "2026-10-21"
+  ],
+  "batch": "LT-T03"
+ }
 }

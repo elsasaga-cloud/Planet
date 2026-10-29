@@ -57,6 +57,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-10-02 | 去 | A/S 群发 | 24 Port Fiber Switch、Industrial PoE Switch | 40 封 / 7 次打开 / 0 回｜首封 2024-06-26 → 末封 2026-10-02（40 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | SFP switch 自己的牌子 大量的周边产品；工业FS SFP MC 周边产品 CTCU的；CWDM Fiber optics | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Optokon Zakład Światłowodowy - światłowody, kable światłowodowe i akcesoria. — W naszej ofercie znajdą Państwo wszystko do światłowodów: kable światłowodowe, złącza, patchcordy, adaptery, tłumiki, sprzęgacze, przełącznice, mierniki, reflektometry i wiele innych niezbędnych akcesoriów. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -162,9 +163,10 @@ updated: 2026-10-29
 - **KP**：Abiel Abuy（）pytlak@optokon.com 〔用户表〕
 - **KP**：Erik Mikus（） 〔用户表〕
 - **KP**：George Štefl（Group Manager & Head of Marketing（二代；兼 OptoNet Communication jednatel）；实控人 = 父 Ing. Jiří Štefl（1993 起 jednatel，2021 správní rada）（第 90 批 官方登记核实 2026-10-27）） 〔https://or.justice.cz/ias/ui/rejstrik-$firma?ico=13692283〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

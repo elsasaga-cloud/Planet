@@ -63,6 +63,7 @@ updated: 2026-10-29
 | 2024-08-20 | 去 | S 箱（Simon）报价 | 10G media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `135bc0edf19035a0` |
 | 2025-02-17 | out | Elsa → info@kyma.it | 16 Port Ethernet Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-09-16 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 dfebdad691c2481a；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `dfebdad691c2481a` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Kyma - Soluzioni di Networking civili e industriali — Kyma è rivenditore Planet e 3OneData e dal 1994 importa soluzioni di networking in grado di garantire ottime prestazioni in ambito civile e industriale. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 去信 1 轮、0 回），仓库未见原文
 
@@ -154,9 +155,10 @@ updated: 2026-10-29
   > 来源：https://www.kyma.it/contatti-2/（抓取 2026-10-19）
 - **KP**：Davide Zisios（）info@kyma.it +39 0522 232208〔https://www.kyma.it/contatti-2/〕
 - **调研后定级**：B（原自动 B）——Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PA-006，W 批次调研 2026-10-19/20））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PA-006，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

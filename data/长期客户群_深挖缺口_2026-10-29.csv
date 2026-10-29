@@ -253,10 +253,10 @@ Saga,SB-1059,neteon.net,美国,B,加厚（官网 / 登记核对）,部分坐实�
 Saga,SB-106,citicalls.com,美国,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-1060,norteh.com,立陶宛,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-1061,obserwuj.pl,波兰,B,加厚（官网 / 登记核对）,已坐实,失败（timeout）,ok,有,有,已过·登记 + 加厚,—,官网快照
-Saga,SB-1062,odoo.com,卡塔尔,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
+Saga,SB-1062,odoo.com,卡塔尔,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,失败（mismatch）,ok,有,有,已过·登记 + 加厚,—,官网快照
 Saga,SB-1063,pc-industriali.it,意大利,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-1064,portdepo.ru,俄罗斯,B,加厚（官网 / 登记核对）,已坐实,失败（unreachable）,ok,有,有,已过·登记 + 加厚,—,官网快照
-Saga,SB-1065,poznan.pl,波兰,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
+Saga,SB-1065,poznan.pl,波兰,B,加厚（官网 / 登记核对）,已坐实,失败（mismatch）,ok,有,有,已过·登记 + 加厚,—,官网快照
 Saga,SB-1066,pramoninisrysys.lt,立陶宛,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-1067,raytelsecurity.com,英国,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-1068,rbline.pl,波兰,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
@@ -283,7 +283,7 @@ Saga,SB-1087,tehnoelectric.ro,罗马尼亚,B,加厚（官网 / 登记核对）,�
 Saga,SB-1088,tipteh.com,斯洛文尼亚,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-1089,tpnet.com.br,巴西,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,有（ok）,ok,有,有,留 B·LT-R05S,—,齐
 Saga,SB-109,ite.net.pk,巴基斯坦,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
-Saga,SB-1090,tramaweb.com.br,巴西,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
+Saga,SB-1090,tramaweb.com.br,巴西,B,加厚（官网 / 登记核对）,已坐实,失败（mismatch）,ok,有,有,已过·登记 + 加厚,—,官网快照
 Saga,SB-1091,triotronik.com,奥地利,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-1092,unifibre.it,意大利,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-1093,vercoma.nl,荷兰,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
@@ -568,7 +568,7 @@ Saga,SB-353,fiberopticcableshop.com,美国,B,加厚（官网 / 登记核对）,�
 Saga,SB-354,fiberopticlink.com,美国,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,失败（http_error）,ok,有,有,已过·登记 + 加厚,—,官网快照
 Saga,SB-355,gaotek.com,加拿大,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-356,infinicoreinc.com,美国,A,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
-Saga,SB-357,infonet-tech.com,印度,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
+Saga,SB-357,infonet-tech.com,印度,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,失败（mismatch）,ok,有,有,已过·登记 + 加厚,—,官网快照
 Saga,SB-358,kyolis.com,法国,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-359,larch-networks.com,以色列,A,加厚（官网 / 登记核对）,部分坐实（无登记号）,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-360,longtek,英国,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
@@ -722,7 +722,7 @@ Saga,SB-510,pongpanot.k@hotmail.com,泰国,A,仅表内 / 邮件证据（无域�
 Saga,SB-511,rivershop.co.kr,韩国,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-512,solustecnologia.com,巴西,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-513,starlink.co.kr,韩国,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
-Saga,SB-514,257.cz,塞尔维亚,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
+Saga,SB-514,257.cz,塞尔维亚,B,加厚（官网 / 登记核对）,已坐实,失败（mismatch）,ok,有,有,已过·登记 + 加厚,—,官网快照
 Saga,SB-515,3tel.com.sg,新加坡,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-517,Ernesto Guevara,尼加拉瓜,B,仅表内 / 邮件证据（无域名）,已坐实,无,无域名,无,有,已过·登记 + 加厚,—,邮箱
 Saga,SB-518,Info Systems Lahore,巴基斯坦,B,仅表内 / 邮件证据（无域名）,已坐实,无,无域名,无,有,已过·登记 + 加厚,—,邮箱
@@ -952,7 +952,7 @@ Saga,SB-749,ecin.ca,加拿大,B,加厚（官网 / 登记核对）,部分坐实�
 Saga,SB-750,enableit.com,美国,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-751,engeniustech.com,美国,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-752,enika.cz,捷克,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
-Saga,SB-753,eu.com,美国,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
+Saga,SB-753,eu.com,美国,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,失败（mismatch）,ok,有,有,已过·登记 + 加厚,—,官网快照
 Saga,SB-754,fastercable.com,美国,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-755,fibresales.com.au,澳大利亚,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-756,fluxlight.com,美国,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
@@ -969,7 +969,7 @@ Saga,SB-766,invidtech.com,美国,B,加厚（官网 / 登记核对）,部分坐�
 Saga,SB-767,itmsystems.co.uk,英国,A,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-768,kbvdatacom.rs,塞尔维亚,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-769,konturm.ru,俄罗斯,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,留 B·LT-R04,—,齐
-Saga,SB-770,lanode.com,英国,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
+Saga,SB-770,lanode.com,英国,B,加厚（官网 / 登记核对）,已坐实,失败（mismatch）,ok,有,有,已过·登记 + 加厚,—,官网快照
 Saga,SB-771,lanprosa.com,哥斯达黎加,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-772,mencom.com,美国,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,失败（http_error）,ok,有,有,已过·登记 + 加厚,—,官网快照
 Saga,SB-773,microseven.com,美国,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
@@ -1164,7 +1164,7 @@ Saga,SB-968,zenithtek.co.kr,韩国,B,加厚（官网 / 登记核对）,已坐实
 Saga,SB-970,EION Inc,加拿大,A,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-971,IPS,埃及,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,有（ok）,ok,有,有,留 B·LT-R04,—,齐
 Saga,SB-972,KN Electrologic Services Ltd,塞浦路斯,B,加厚（官网 / 登记核对）,已坐实,失败（timeout）,ok,有,有,已过·登记 + 加厚,—,官网快照
-Saga,SB-973,Multi Technology System,未填,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
+Saga,SB-973,Multi Technology System,未填,B,加厚（官网 / 登记核对）,已坐实,失败（mismatch）,ok,有,有,已过·登记 + 加厚,—,官网快照
 Saga,SB-974,b-plus.com,德国,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-975,cctv-global.co.uk,英国,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,留 B·LT-R04,—,齐
 Saga,SB-976,dauren.boltaev@mail.ru,乌兹别克斯坦,A,仅表内 / 邮件证据（无域名）,已坐实,无,无域名,有,有,已过·登记 + 加厚,—,齐

@@ -59,6 +59,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2024-06-16 | 来 | mike@genrov.com | Hi Simon You could email the data sheet/manual Regards Mike | 来信原文（主题「Re: Industrial PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `291792730fb79f70` |
 | 2024-06-16 | 去 | Simon → Mike（Re: Industrial PoE Switch；附 STI-244GP.pdf） | 「Thanks for your interest. Please see attached datasheet and lets discuss samples/queries」（Mike 12:33Z 要 datasheet/manual，Simon 12:47Z 回）；06-24 追「Did you check the datasheet? samples?」；07-17 推 2.5G → 无回。 | Genrov（英国）唯一真人回应 = 要 4 口 PoE 工业机（STI-244GP）的资料；后续 20+ 封群发无回。重启只谈 STI-244GP（$45 锚）一款，问「还在做 DIN PoE 吗」一句话 | `k=063870521f2854ef / f46195e8df082b49（S 邮箱 2024-06-16 12:47Z / 06-24）` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Genrov Home | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -143,9 +144,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Michael Dickinson（Director / 唯一股东（Companies House 06899120 Active，2009-05-07 成立，SIC 74909，无抵押）（第 82 批 Companies House 核实 2026-10-27））mike@genrov.com（2024-06-16 本人来信「You could email the data sheet/manual」） +44 191 543 8953〔https://uk.globaldatabase.com/company/genrov-ltd；S 邮箱来信表头〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + Companies House 核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + Companies House 核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

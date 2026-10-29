@@ -8,7 +8,11 @@
  "size": "",
  "brands_seen": [
   "RaySharp（代理）",
-  "AVICAM（自有品牌配件）"
+  "AVICAM（自有品牌配件）",
+  "Dahua",
+  "Hikvision",
+  "HRUI（！）",
+  "Ajax"
  ],
  "evidence": [
   {
@@ -50,10 +54,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网核对）"
+  "level": "B 级加厚 v1（官网核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "АВИКАМ ЕООД / Avicam Ltd.（ЕИК 175335234；ДДС BG175335234；София）",
@@ -127,6 +132,14 @@
     "quote": "CCTV products PoE switch",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Системи за видеонаблюдение и контрол • Топ цени • Avicam — Голяма гама системи за видеонаблюдение и контрол от вносител ➤ Безплатна бърза доставка ➤ Възможност за монтаж",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://avicam-bg.com/"
    }
   ],
   "proof_gaps": [
@@ -134,5 +147,38 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:23:16Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@avicam-bg.com"
+  ],
+  "phones": [
+   "+359 2 8325757",
+   "+359 2 8327084",
+   "+359 885 334438"
+  ],
+  "social": [
+   "https://www.facebook.com/avicam.ltd/"
+  ],
+  "models_on_site": [
+   "IPC-F4C-PV",
+   "TS-HD2D",
+   "IPC-F2C-PV-0280B",
+   "PTWS-4",
+   "V-IPC-400W-PANO",
+   "TCD-30M2",
+   "IPC-F4CP-PV-0360B",
+   "F4C-PV-0360"
+  ],
+  "url": "https://avicam-bg.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

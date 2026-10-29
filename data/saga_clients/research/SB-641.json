@@ -59,10 +59,11 @@
  ],
  "grade_override": "A",
  "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "印度",
@@ -186,6 +187,14 @@
     "quote": "How about Console port and management ports.",
     "why": "问管理口/Console = 在比对自家 WatchDog 型号规格；Elsa 是否答复未入库",
     "k": "gmail_e"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "WatchDog | Enterprise Networking, Data Center, Cloud & Security — WatchDog delivers enterprise networking, data center, cloud, wireless, security, and automation solutions designed to secure and power modern networks.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.mywatchdog.in/"
    }
   ],
   "proof_gaps": [
@@ -206,5 +215,32 @@
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）"
   }
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:44:53Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@mywatchdog.in"
+  ],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "QSFP28",
+   "WD6822-24X6H",
+   "WD6822-48X6H",
+   "WD5890",
+   "WD25000AI",
+   "WD25000X",
+   "WD25000G",
+   "WD9875"
+  ],
+  "url": "https://www.mywatchdog.in/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

@@ -54,6 +54,7 @@ updated: 2026-10-29
 | 2025-01-30 | 去 | S 箱（Simon） | 16 Port Ethernet Switch | 首封去信（邮箱索引；去信共 12 封） | `b19a695a76d27eb0` |
 | 2026-02-09 | 去 | A 箱（Alan） | Managed Optical Bypass Switch | 最近一封去信（邮箱索引；去信共 12 封） | `f3ea13043f51cc5d` |
 | 2025-01-30 | 来 | p.gottwald@enika.cz | Automatická odpověď: 16 Port Ethernet Switch｜﻿ ﻿ ﻿ ﻿﻿Dobrý den,  jsem na dovolené. Zpět budu 3.2. V urgentních případech prosím kontaktujte kolegy na svitidla@enika. | 来信（邮箱索引；原文见 k） | `e25fa84b6b9e3cb9` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Enika Nova Paka — Czech manufacturer of wireless technologies, distributor of lighting and electrical components. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -127,9 +128,10 @@ updated: 2026-10-29
 - **KP**：P. Gottwald（研究档收件人（姓名 / 职务待核）（第 111 批 官方登记核实 2026-10-28））p.gottwald@enika.cz 〔用户表〕
 - **KP**：Lukáš Majkuth（generální ředitel + prokurista（enika.eu 公告，2025-04-15 起）= 拍板人（邮箱未取，抄请转）（第 111 批 官方登记核实 2026-10-28）） 〔https://www.enika.eu/〕
 - **KP**：Jiří Vávra（Ing.；jednatel（OR，2007-12-20 起）（第 111 批 官方登记核实 2026-10-28）） 〔https://rejstrik.penize.cz/28218167-enika-cz-s-r-o〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

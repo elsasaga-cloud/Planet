@@ -61,6 +61,7 @@ updated: 2026-10-29
 | 2024-06-04 | 来 | customerservice@nellyssecurity.com | How would you rate the support you received here at Nelly's?｜##- Please type your reply above this line -##    Hi Simon,    We would love to hear from you regarding the customer sup | 自动工单回执 / 满意度调查（机器，不算人工回复） | `9ac616b1e77c6c7c` |
 | 2024-07-04 | 来 | customerservice@nellyssecurity.com | [Request received] 24 port poe switch｜##- Please type your reply above this line -##  Your request (252114) has been received and is being reviewed by our sup | 自动工单回执 / 满意度调查（机器，不算人工回复） | `a8425797c1332005` |
 | 2024-07-08 | 来 | customerservice@nellyssecurity.com | How would you rate the support you received here at Nelly's?｜##- Please type your reply above this line -##    Hi Simon,    We would love to hear from you regarding the customer sup | 自动工单回执 / 满意度调查（机器，不算人工回复） | `3b93d5d7d4f8b5f8` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Nelly's Security \| CCTV, Access Control, and Intrusion Alarms — The web's top source for commercial-grade physical security equipment. We partner with security professionals like you to move your business forward. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -173,9 +174,10 @@ updated: 2026-10-29
 - **KP**：Cole Cattaneo（Sales（官网团队页）= 抄送（第 102 批 官方登记核实 2026-10-28））customerservice@nellyssecurity.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Sean Nelson（创始人（2008；另营自有 PoE 交换机品牌 IPCamPower）= 贴标线点名对象（第 102 批 官方登记核实 2026-10-28）） 〔〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -55,6 +55,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2025-04-03 | 去 | Elsa 群发（BCC；To biuro@zintronic.pl，PL 批次） | Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere | Elsa 箱群发 BCC 触达证据（命中地址 info@media-konwertery.pl, media-konwertery.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-09-25 | 去 | A/S 群发 | 10G Enterprise SFP Switch、Booster PoE Switch | 17 封 / 0 次打开 / 0 回｜首封 2024-06-14 → 末封 2026-09-25（17 去 / 0 来） | `gmail_digest` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Mediakonwertery, konwertery światłowodowe, konwerter, mediakonwerter • www.media-konwertery.pl — Mediakonwertery, konwertery mediów, Fibrain, Repotec, kable światłowodowe, światłowody Zapraszamy na naszą stronę www.media-konwertery.pl . | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -137,7 +138,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（media-konwertery.pl；并档 Planet 渠道档案 PB-017）
 - **是谁**：波兰北部小镇的专业网络电商群，业主一人决策，专卖转换器与工业交换机。类型：分销商/电商（媒体转换器/工业交换机/IP 摄像机多站电商：media-konwertery.pl、lan.sklep.pl、kamery-ip.com、routery.sklep.pl）。信号：在售 PLANET 工业交换机（IGS-4215-4P4T、IGS-6325、FGSD-1022VHP 等）。Planet 渠道档案 PB-017 评级 B（需求：PLANET 工业在售；触达 info@ 通用，业主具名无直邮；体量小 → B）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-428，波兰，Saga 群发已推送 1 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。
-- **在卖/在用品牌**：PLANET
+- **在卖/在用品牌**：PLANET, Dahua, TP-Link, Intellinet, Cisco, Allied Telesis, Korenix, Edimax
 - **【卖方目录】PLANET 工业交换机在售**
   > IGS-4215-4P4T … IGS-6325 … FGSD-1022VHP（商品页，检索摘要）
   > 来源：https://www.media-konwertery.pl/（抓取 2026-10-19）
@@ -145,9 +146,10 @@ updated: 2026-10-29
   > INTER-COMP.PL KOWALSKI sp. z o.o., ul. Pogodna 13, 86-010 Koronowo（页脚/联系页，检索摘要）
   > 来源：https://www.media-konwertery.pl/（抓取 2026-10-19）
 - **KP**：Marek Kowalski（Prezes Zarządu（KRS 0001157117；10%）= 收件人；儿子 Tomasz Kowalski 持股 90%（2025-05-22 起）= 接班人、抄公域（第 96 批 官方登记核实 2026-10-28）） +48 52 511-88-33〔https://www.media-konwertery.pl/〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-017，W 批次调研 2026-10-19/20））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-017，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

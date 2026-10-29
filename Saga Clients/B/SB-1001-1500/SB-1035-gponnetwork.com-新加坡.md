@@ -54,6 +54,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-16 | 去 | A 群发 | 16 Port PoE Managed Switch、8 Port Industrial PoE Switch | 18 封 / 1 次打开 / 0 回｜首封 2025-01-30 → 末封 2026-09-16（18 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 需要工业FS；WDM SFP Switch等 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | GPON Network – trusted speedy network eqmt supply chain | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -134,9 +135,10 @@ updated: 2026-10-29
   > 需要工业FS / WDM SFP Switch等；之前联系过；可以多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Mycal Ho（Director, GPON Network（RocketReach；新加坡；hotmail 並用）= 收件人 — 一頁紙一次、只做預付：分銷 20% small，工業 FS STI-154GP / STI-288DGGPM / STI-0240GE 一口價 + 付費樣機；WDM / SFP 明說不做— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 116 批 官方登记核实 2026-10-28））info@gponnetwork.com 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

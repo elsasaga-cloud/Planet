@@ -61,6 +61,7 @@ updated: 2026-10-29
 | 2026-04-01 | out | Elsa → sales@alconlink.com | Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 7/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:alconlink.com` 全程 complete：7 轮直收（头 msg 19d4833123810a60 无 Bcc，称呼「Hi, Pratap」）；0 回 | `elsa_1to1` |
 | 2026-09-02 | 去 | A 群发 | Industrial PoE Switch、10G L3 Managed Switch | 4 封 / 0 次打开 / 0 回｜首封 2025-04-09 → 末封 2026-09-02（4 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 商业PoE CCTV产品 自己的logo；91-97788 02333 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | AlconLink Network Camera and NVR for Security Surveillance System — AlconLink provides CCTV Surveillance System with best-in-class network camera and NVR for security surveillance system. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -143,9 +144,10 @@ updated: 2026-10-29
   > 商业PoE CCTV产品 自己的logo；91-97788 02333
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Pratap Kumar Baral（Director Alcon Wireless Private Limited（DIN 02545994；2010-02-03–；indiafilings）= 拍板人 / 收件人（第 114 批 官方登记核实 2026-10-28））pratap@alconlink.com 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -70,6 +70,7 @@ updated: 2026-10-29
 | 2026-05-05 | out | Elsa → sales@testronix.com.ph | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 9/10 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 第 74 批(m) `from:e.sagatelecom to:sales@testronix.com.ph` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
 | 2026-08-06 | out | Elsa → sales@testronix.com.ph | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 10/10 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(m) `from:e.sagatelecom to:sales@testronix.com.ph` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
 | 2026-10-21 | 用户表 | Simon | 从uponcomm买了很多模块 / 网站：信息比较晦涩 / 富通天下 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Transform Your Business with Testronix ICT Solutions — Discover Testronix ICT solutions for optimized network performance. Take your network to the next level with our innovative solutions! | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -129,7 +130,7 @@ updated: 2026-10-29
 - **是谁**：菲律宾电子/网络产品经销商，曾从 uponcomm 购买大量模块（用户记录），E 冷名单 1 次跟进 0 回复。
 - **类型**：经销商
 - **规模**：待补证
-- **在卖/在用品牌**：uponcomm（用户记录：在采）
+- **在卖/在用品牌**：uponcomm（用户记录：在采）, Cisco, Ruijie, Juniper
 - **【用户记录】从 uponcomm 买了很多模块；0 回复**
   > 从uponcomm买了很多模块（用户 Clients 表摘录）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
@@ -138,9 +139,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） 〔用户 Clients 表〕
 - **调研后定级**：B（原自动 A）——品类为光模块（非主线），菲律宾非主攻区，冷名单无回复 → B。
-- 备注：一封邮件带 SFP 光口交换机即可。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+一封邮件带 SFP 光口交换机即可。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 需求映射；「成交」为富通天下外贸数据））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 需求映射；「成交」为富通天下外贸数据） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

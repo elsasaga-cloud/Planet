@@ -60,6 +60,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2024-02-25 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「发了2光4小壳信息」→ 对方「economic cost 4+2 Poe switch 100M 60w」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.8 2024.2.25` |
 | 2026-09-02 | 去 | A 群发 | Mini Industrial PoE Switch、10G Enterprise SFP Switch | 10 封 / 0 次打开 / 0 回｜首封 2025-09-04 → 末封 2026-09-02（10 去 / 0 来） | `gmail_digest` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | RFCOM connecting the future | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -135,6 +136,7 @@ updated: 2026-10-29
 - **是谁**：希腊塞萨洛尼基通信产品公司，WA 在线，2 次回复、19 次跟进；取过目录、一般性回复。
 - **类型**：经销/集成商
 - **规模**：待补证
+- **在卖/在用品牌**：Dahua
 - **【用户记录】取目录、一般性回复；WA 已加；2 次回复 / 19 次**
   > take catalog general reply；+30-2310-257337 +30 69725 52502 已加（用户 Clients 表摘录）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
@@ -152,9 +154,10 @@ updated: 2026-10-29
   > 来源：https://www.findbiz.gr/el/company-page/param/name/11002358-xygkakis-konstantinos-rfcom（抓取 2026-10-21）
 - **KP**：Konstantinos Xygkakis（Ξυγκάκης Κωνσταντίνος）（Διαχειριστής / 业主（findbiz；Ο.Ε. 合伙；WA 在线）= 拍板人 / 收件人（第 109 批 官方登记核实 2026-10-28））info@rfcom.gr（公司公开） +30 2310 257337〔https://www.vres.gr/rfcom-connecting-the-future〕
 - **调研后定级**：B（原自动 A）——2 次一般性回复、无具体需求、17 次推送无果 → 慢跟（希腊在欧洲区故保留 B）。
-- 备注：WA 季度触达。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+WA 季度触达。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

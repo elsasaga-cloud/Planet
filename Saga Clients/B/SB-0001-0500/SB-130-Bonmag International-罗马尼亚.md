@@ -60,6 +60,7 @@ updated: 2026-10-29
 | 2023-02-07 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「发了2光10电图 价格 没发规格书」→ 对方「要便宜的/洪瑞的就行 4/8 poe+2 lan」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.58 2023.2.7` |
 | 2026-09-03 | 去 | A 群发 | 24 Port PoE Managed Switch、10G L3 Managed Switch | 4 封 / 0 次打开 / 0 回｜首封 2026-05-19 → 末封 2026-09-03（4 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | （用户表字段） | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Omnisecurity • Romania — Omnisecurity este o companie ce furnizeaza servicii de supraveghere video si automatizari | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -138,9 +139,10 @@ updated: 2026-10-29
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Bogdan（姓未公开）（业主（推定；1 人公司）= 收件人（第 110 批 官方登记核实 2026-10-28））bogdan@omnisecurity.ro +40 723 64 94 49（公司公开号）〔用户表 + https://www.omnisecurity.ro/〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 注册核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 注册核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

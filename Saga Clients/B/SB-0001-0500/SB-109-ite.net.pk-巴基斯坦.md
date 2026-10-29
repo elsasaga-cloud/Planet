@@ -69,6 +69,7 @@ updated: 2026-10-29
 | 2026-05-11 | out | Elsa → faisal@ite.net.pk | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-08-04 | out | Elsa → info@ite.net.pk | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 9/9 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(m) `from:e.sagatelecom to:faisal@ite.net.pk` 全程 complete：9 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
 | 2026-10-21 | 用户表 | Simon | 回复：have Routers with 1GE and 4 FE ports? | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | International Technology Exchanger | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：（已核 2026-10-24，第 73 批）Elsa 邮箱有往来：04-09 Faisal 三封要 1GE+4FE 路由器 → Elsa 答没有、可代找 + Info.docx → 无下文；用户表「有回复·跟进中」= 这条；（已核 2026-10-24，第 73 批）见上条；不是 WhatsApp
 
@@ -130,9 +131,10 @@ updated: 2026-10-29
   > 回复：have Routers with 1GE and 4 FE ports?
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Faisal Javed（Director（ZoomInfo；2025-04 回信问 1 GE + 4 FE 路由器）= 拍板人 / 收件人 — 一页纸一次：集成商 25% B、路由器不做明说、接入 STC-4424GCPM $165 / STC-2224GP $86 / STC-228GP $33 一口价、MOQ 1 + 付费样机 — 巴基斯坦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、PTA 不声称（第 118 批 官方登记核实 2026-10-28））faisal@ite.net.pk +92 21 3459 8598〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

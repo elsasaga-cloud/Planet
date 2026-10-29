@@ -9,7 +9,9 @@
   "飞宇（用户记录）",
   "DPtek（用户记录）",
   "FIBO / FT-（自有品牌）",
-  "DK（自有系列）"
+  "DK（自有系列）",
+  "Cisco",
+  "Juniper"
  ],
  "evidence": [
   {
@@ -65,11 +67,12 @@
  ],
  "grade_override": "B",
  "override_reason": "DWDM 品类非 Saga 主线（三供应商中仅 Hohunet 有 10G+/DC 线，无 DWDM 整机），俄罗斯非主攻区，且 0 互动 → 不具备 A 的'可追溯需求+可赢'条件，降 B 待机。",
- "notes": "若 Hohunet CENTEC 10G/25G 汇聚机型对其有用可一次触达；否则不主动跟。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n若 Hohunet CENTEC 10G/25G 汇聚机型对其有用可一次触达；否则不主动跟。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（网店核对）"
+  "level": "B 级加厚 v1（网店核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "ООО «ФИБО»（原 ООО «Фибо-Телеком»，2024-08-20 更名；ИНН 7802617376；ОГРН 1177847130438；194214 Санкт-Петербург, пр. Энгельса, д. 71, лит. А, пом. 309；办公 Коломяжский пр., 33к2 + 莫斯科；注册资本 600 000 ₽）",
@@ -179,10 +182,45 @@
     "quote": "光模块 PON / SFP MC(光路的) DPtek客户 / Anastasia Roshchupkina Purchasing / 买了飞宇的 / https://fibotelecom.ru/catalog/kommutatory/k",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Купить телекоммуникационное и сетевое оборудование и кабель по выгодной цене в интернет-магазине с доставкой по РФ — Купить телекоммуникационное и сетевое оборудование и кабель по выгодной цене с доставкой по России. Компания FIBO предлагает заказать информационно-телекоммуникационное оборудование, ",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://fibotelecom.ru/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:21:18Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@fibotelecom.ru"
+  ],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "SFP28",
+   "QSFP28",
+   "QSFP56",
+   "BX20-D-I",
+   "FT-DA-17B-LU-A",
+   "FT-ODCM-40",
+   "FT-S10-D3480LD",
+   "FT-S10-D5780LD"
+  ],
+  "url": "https://fibotelecom.ru/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

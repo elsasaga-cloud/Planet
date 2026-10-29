@@ -47,10 +47,11 @@
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4） ｜ 针对性加厚 2026-10-22（ImportYeti 海关提单，T29-U13）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4） ｜ 针对性加厚 2026-10-22（ImportYeti 海关提单，T29-U13）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "1230 Santa Anita Ave Ste A, South El Monte, CA 91733（洛杉矶东）（第 92 批 官方登记核实 2026-10-28）",
@@ -130,10 +131,52 @@
     "quote": "用的洪瑞的 商业PoE CCTV产品为主；其他",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Security Camera Company | CCTV Company| GW Security — Choose GW Security, a trusted CCTV and security camera company. Explore high quality residential and commercial security surveillance camera systems and shop today with GW Security.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://gwsecurityusa.com/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:23:23Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@gwsecurity.com",
+   "info@gwsecurityusa.com",
+   "support@gwsecurityusa.com"
+  ],
+  "phones": [],
+  "social": [
+   "https://twitter.com/gwsecurityusa?lang=en",
+   "https://twitter.com/share?url=https://gwsecurityusa.com/product/64-channel-nvr-security-camera-system-with-40-5mp-ip-bullet-2-8mm-fixed-lens-camera-human-detection-built-in-microphone-poe/",
+   "https://twitter.com/share?url=https://gwsecurityusa.com/product/64-channel-nvr-security-camera-system-with-40-5mp-ip-turret-2-8mm-fixed-lens-camera-human-detection-built-in-microphone-poe/",
+   "https://twitter.com/share?url=https://gwsecurityusa.com/product/gw-security-32-channel-poe-ip-ultra-hd-4k-security-camera-system-32ch-4k-nvr-with-32-x-5mp-3-6mm-fixed-lens-bullet-security-camera/"
+  ],
+  "models_on_site": [
+   "GW42-4264NV8-2",
+   "GW5037IP",
+   "GWCAT100",
+   "GWCAT60",
+   "GW4232N2",
+   "GWSW1602G",
+   "GW5037IP40-16T",
+   "DP-08"
+  ],
+  "url": "https://gwsecurityusa.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

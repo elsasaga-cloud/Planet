@@ -41,10 +41,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  "level": "B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "IZUX INGENIERIA Y SEGURIDAD SL（CIF B98126444；RM Valencia H V-133381）",
@@ -117,10 +118,52 @@
     "quote": "兴趣：商业POE CCTV为主 很多配件 有ONV的",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Cámaras de Seguridad, Alarmas y Control de Acceso - IZUX — Compra cámaras de seguridad y vigilancia, alarmas AJAX, videoporteros, control de acceso y cerraduras electrónicas para hotel, hogar y negocio. Envío rápido y garantía oficial.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://izux.es/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:23:35Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "comercial@izux.es"
+  ],
+  "phones": [
+   "+34 963 320 337"
+  ],
+  "social": [
+   "https://twitter.com/IzuxSeguridad",
+   "https://wa.me/34661241886?text=Hola%2C%20vi%20su%20web%20y%20me%20gustar%C3%ADa%20m%C3%A1s%20informaci%C3%B3n%20sobre%20sistemas%20de%20seguridad)",
+   "https://www.facebook.com/pages/IZUX-Videovigilancia-y-Seguridad/231797096906699?ref=ts&fref=ts",
+   "https://www.linkedin.com/company/izux-ingenieria-y-seguridad-s-l-?trk=prof-following-company-logo"
+  ],
+  "models_on_site": [
+   "RG-NBS7003",
+   "RG-NBS7006",
+   "SW8FE2GE-100W",
+   "DS-3E1318P-EI",
+   "DS-3E1326P-EI",
+   "RG-NBS6002",
+   "NVR302-16B-IQ",
+   "NVR302-32B-IQ"
+  ],
+  "url": "https://izux.es/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

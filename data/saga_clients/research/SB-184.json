@@ -6,7 +6,9 @@
  "summary": "澳大利亚昆士兰（+61 7 4276，麦凯 / 矿区）工业网络与自动化方案商（矿业为主）：自有 **Wi-Fi over Coax**、光纤转 PoE 注入器（VP-CI-FCPI）、工业双口 PoE+ 延长器（VP-CI-PEXT）、Veto OT 工具套件、工业网络培训；Luke King；需求 **4 光 8 电、4 光 16 电、10G 光 + BT 大功率**；WA 无实质回复。自有产品线 = 可贴牌 Vernetzen 标。",
  "type": "",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Ubiquiti"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -35,10 +37,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对：自有品牌 + 矿业）"
+  "level": "B 级加厚 v1（官网快照核对：自有品牌 + 矿业） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Vernetzen Pty Ltd（ABN 1 查未得）",
@@ -133,6 +136,14 @@
     "quote": "兴趣：4光8电 4光16电 10G光带BT",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Leading Innovative Industrial Network Solutions & Automation — Discover cutting-edge network and automation solutions for mining industries and beyond. Empower your operations with Vernetzen’s expertise.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.vernetzen.com/"
    }
   ],
   "proof_gaps": [
@@ -140,5 +151,26 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:27:10Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@vernetzen.com",
+   "support@vernetzen.com"
+  ],
+  "phones": [
+   "+61 7 4276 6665"
+  ],
+  "social": [],
+  "models_on_site": [],
+  "url": "https://www.vernetzen.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

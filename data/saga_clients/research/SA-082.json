@@ -62,10 +62,11 @@
  ],
  "grade_override": "A",
  "override_reason": "A 三条件齐备：① 可追溯真实需求——总经理 Ralph Hannemann 本人通过 Saga 自建站询价「1 台 12 光 12 电」；② 直接具名联系人（GF，r.hannemann@isimko.de）；③ 可赢规模——120 人家族企业、专精工业铜缆/光纤网络的系统集成商（非巨头）。WhatsApp 已加。",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B→A 加厚 v1（官网 + 登记核对）"
+  "level": "B→A 加厚 v1（官网 + 登记核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "ISIMKO GmbH",
@@ -151,6 +152,14 @@
     "quote": "24 Port PoE Managed Switch｜ $180（原句：*Price: 180USD/PC*）",
     "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
     "k": "6d2437354be82f93"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Startseite - ISIMKO GmbH — Voriger NÃ¤chster ISIMKO goes Future Mit KI-basierten LÃ¶sungen, GebÃ¤udeautomatisierung undProzessdigitalisierung in die Zukunft GefÃ¶rdert aus Mitteln der EuropÃ¤ischen Union Ziele: Verbesserung der Arbeitsbedingungen Erleichterung des Arbeitsalltages Erweiterung unsers ",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.isimko.de/"
    }
   ],
   "proof_gaps": [
@@ -161,5 +170,24 @@
    "body": "Hi Mr Hannemann,\n\nYou asked us for one unit with 12 x fibre + 12 x copper ports. We do not build that exact layout; the two closest are:\n\n- Industrial, DIN-rail, -40 to 75 C: 8 x SFP + 4 x 10G SFP+ and 8 x Gigabit RJ45, L2+ managed, model STI-488DGGGM - $332.6 USD EXW (MOQ 1, 15-day validity)\n- 19-inch rack: 16 x SFP + 8 x combo (SFP / RJ45) + 4 x 10G SFP+, L3, model STC-4168XGGCM - $392.4 USD EXW\n\nBoth Marvell-based, CE/RoHS, neutral housing; industrial unit with 3-year warranty together with our DIN power supply.\n\nOne question: which of the two fits the control cabinet in your project - the DIN-rail unit or the 19-inch one?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:48Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@isimko.de",
+   "medientechnik@isimko.de"
+  ],
+  "phones": [],
+  "social": [],
+  "models_on_site": [],
+  "url": "https://www.isimko.de/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

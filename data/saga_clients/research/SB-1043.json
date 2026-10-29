@@ -49,10 +49,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "荷兰",
@@ -133,6 +134,14 @@
     "quote": "线缆 POE相关的 产品较少",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Webdesign en IT diensten in de omgeving Rotterdam - Zeevalk webdesign en IT — Website laten maken in de omgeving Rotterdam? Wij zijn het adres voor de ontwikkeling van WordPress websites. Daarnaast bieden wij IT diensten",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.zeevalk.nl/"
    }
   ],
   "proof_gaps": [
@@ -143,5 +152,26 @@
    "body": "Hello Zeevalk team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 18 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the PoE switches you list with IP cameras: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based, neutral packing, CE/RoHS - model STC-28DGGPM - $80.7 USD EXW (MOQ 1, 15-day validity); a budget 8-PoE + 2 uplink unmanaged unit for camera kits, STC-028GP, $25.1.\n\nOne question: which PoE port count do your camera-kit buyers choose most - 4, 8 or 16?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:35:43Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@zeevalk.nl"
+  ],
+  "phones": [],
+  "social": [
+   "https://www.facebook.com/zeevalkdesign/",
+   "https://www.instagram.com/zeevalk_it/"
+  ],
+  "models_on_site": [],
+  "url": "https://www.zeevalk.nl/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

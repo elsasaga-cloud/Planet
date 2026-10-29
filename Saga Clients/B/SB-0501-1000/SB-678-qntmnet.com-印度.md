@@ -59,6 +59,7 @@ updated: 2026-10-29
 | 2026-04-01 | out | Elsa → sales@qntmnet.com | Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 5/5 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:sales@qntmnet.com` 全程 complete：5 轮直收；0 回 | `elsa_1to1` |
 | 2026-09-02 | 去 | A 群发 | Industrial PoE Switch、16 Port Ethernet Switch | 11 封 / 0 次打开 / 0 回｜首封 2025-04-17 → 末封 2026-09-02（11 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 国内的工业switch | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Home \| Quantum Networks — Quantum Networks: Secure, Scalable and Seamless. Explore Q-Services for advanced connectivity and cloud-managed solutions to access unlimited potential! | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -145,9 +146,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Vidur Batra（Vice President – System Engineering, Pre-Sales & Post-Sales Strategy（signalhire / rocketreach）= 收件人（第 114 批 官方登记核实 2026-10-28））vidur.batra@qntmnet.com 〔用户表〕
 - **KP**：Abhijit Potdar（Corporate Vice President（rocketreach；New Delhi）= 拍板人 / 抄（第 114 批 官方登记核实 2026-10-28））abhijit@qntmnet.com 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

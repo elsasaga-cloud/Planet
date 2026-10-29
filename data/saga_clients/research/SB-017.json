@@ -13,7 +13,8 @@
   "Pyronix",
   "Ruijie-Reyee",
   "EZVIZ",
-  "Uniview"
+  "Uniview",
+  "Ruijie"
  ],
  "evidence": [
   {
@@ -70,11 +71,12 @@
  ],
  "grade_override": "A",
  "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A1 复购/绑定≥中度",
- "notes": "",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网网店目录核对）"
+  "level": "B 级加厚 v1（官网网店目录核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "SECURITYTEC LIMITED（Companies House 05585047；同名陷阱 SECURITYTEC LTD 10186386 Manchester 已注销）",
@@ -180,6 +182,14 @@
     "quote": "16 Port Industrial PoE Switch",
     "why": "本日去信真实主题（邮箱索引 a0f873641860f24e；信稿开头句引用此封；此前稿内写的「10G Enterprise SFP Switch」是线程列表首题，不是本封）",
     "k": "a0f873641860f24e"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Professional Security Products | Security Tec Ltd",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.securitytec.co.uk/"
    }
   ],
   "proof_gaps": [],
@@ -198,5 +208,35 @@
    "prev_reason": "3 人微型批发商，17 次推送零回复，兴趣在 VC（Saga 不做）；保留 B 慢跟（Utepo 在售说明有 PoE 替代空间）。",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A1 复购/绑定≥中度"
   }
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:21:04Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "office@securitytec.co.uk"
+  ],
+  "phones": [],
+  "social": [
+   "https://twitter.com/securitytecltd",
+   "https://www.facebook.com/Securitytec-Ltd-250292835408292/"
+  ],
+  "models_on_site": [
+   "HIK00006690",
+   "DS-2CD2347G3-LI2UY",
+   "IPC-T280HA-LUF",
+   "DS-2CD2346G2H-IU",
+   "DS-3WR3X-1",
+   "RG-POE-AT30",
+   "DS-3E1506P-EI",
+   "IPC-T250H-MU"
+  ],
+  "url": "https://www.securitytec.co.uk/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

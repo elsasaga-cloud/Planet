@@ -13,7 +13,10 @@
   "Karel",
   "Yealink",
   "Ajax",
-  "Paradox"
+  "Paradox",
+  "Ubiquiti",
+  "Hikvision",
+  "Aruba"
  ],
  "evidence": [
   {
@@ -63,10 +66,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + 名录核对）"
+  "level": "B 级加厚 v1（官网 + 名录核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Anıl Telekomünikasyon Güvenlik ve Bilişim Sistemleri San. Tic. Ltd. Şti.（官网 © 2025；Perpa 旧名录 Anıl Telekomünikasyon Elektrik Malz. Kablo Paz. San. ve Tic. Ltd. Şti.；2025-02-26 新登记 Merkez Şubesi；MERSİS 未取）",
@@ -135,6 +139,14 @@
     "quote": "应该是老板 没说什么， 给了名片 / Cumhur OLMEZ / ANIL",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Anıl Telekom — dahua kamera, Hikvision güvenlik kamera, Lande kabinet, Yealink telefon, multitek santraller, dahua güvenlik sistemleri, karel santral, tplink modem, tp-link ürünleri, gigaset telsiz telefon, karel telefonlar",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://aniltelekom.com/"
    }
   ],
   "proof_gaps": [
@@ -155,5 +167,35 @@
   "note": "Perpa 商贸中心安防 / 通信分销商 Anıl Telekom（2002 起；老板给名片）：行业内 ✔ 对位 ✔ 四主区 → 留 B",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 ✔，绑定 未发信））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": []
+ "override_history": [],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:43:57Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [],
+  "social": [
+   "https://www.instagram.com/aniltelekomunikasyon/",
+   "https://www.linkedin.com/company/an%C4%B1l-telekom",
+   "https://www.linkedin.com/company/an%C4%B1l-telekom/",
+   "https://www.youtube.com/@aniltelekom"
+  ],
+  "models_on_site": [
+   "AV500",
+   "DAE-HC3511GW-S8",
+   "ES-24-250W",
+   "SWH0605-P",
+   "SWH0606-P",
+   "SWH1024-GP",
+   "SWH6016-P",
+   "SWH6024-G"
+  ],
+  "url": "https://aniltelekom.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

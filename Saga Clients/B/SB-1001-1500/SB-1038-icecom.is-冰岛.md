@@ -57,6 +57,7 @@ updated: 2026-10-29
 | 2026-08-21 | 去 | Elsa（e.sagatelecom，Gmail 连接器实时查询） | Elsa 邮箱群发「24 Port PoE Managed Switch」→ icecom@icecom.is（截至 2026-10-24 无回复） | 仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据 | `Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）` |
 | 2026-08-21 | 去 | Elsa 群发（To 直收：本户是「IS/SE/BG/RU/LT」批次的锚，其余客户在 Bcc） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发直达证据（To icecom@icecom.is）；该批次 14 轮 2025-03-05→2026-08-21 每轮都以本户为 To；S/A digest 看不到 Elsa 的发信 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | switch | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | IceCom ehf. – Vörur og þjónusta | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -128,9 +129,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Johann Sigurthorsson（联合创始人 / 业主（1997 与 David Askelsson 共创）= **老板 = 联系人**（icecom@）→ 集成 25%，工业 DIN PoE（-40℃）+ 微波站 PoE++（第 90 批 官方登记核实 2026-10-27）） 〔https://keldan.is/Fyrirtaeki/Yfirlit/5401022440〕
 - **KP**：David Askelsson（联合创始人 / 业主 —— 抄送（第 90 批 官方登记核实 2026-10-27）） 〔https://www.icecom.is/index.php/english/〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

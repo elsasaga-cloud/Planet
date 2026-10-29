@@ -54,6 +54,7 @@ updated: 2026-10-29
 | 2026-05-05 | out | Elsa → akalooshad@skipod.lk | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 2/3 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 第 74 批(n) `from:e.sagatelecom to:skipod.lk` 全程 complete：3 轮直收（头 msg 19fd671a41e65a70 无 Bcc，称呼「Hi, Akaloosha」）；0 回 | `elsa_1to1` |
 | 2026-08-06 | out | Elsa → akalooshad@skipod.lk | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 3/3 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(n) `from:e.sagatelecom to:skipod.lk` 全程 complete：3 轮直收（头 msg 19fd671a41e65a70 无 Bcc，称呼「Hi, Akaloosha」）；0 回 | `elsa_1to1` |
 | 2026-10-21 | 用户表 | Simon | 10个8电口；2026年使用国际站；10个8电口 / from: 阿里巴巴RFQ | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | SkiPod Manufacture Pvt Ltd - Sri Lanka — SkiPod Manufacture Pvt Ltd designs and builds advanced mixed reality ski simulators in Sri Lanka. BOI-backed manufacturing facility delivering next-generation sports simulation worldwide. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无来信（Elsa 去信 3 轮见 facts；S/A 箱无往来）
 
@@ -120,9 +121,10 @@ updated: 2026-10-29
   > 2026年使用国际站 / 10个8电口 / from: 阿里巴巴RFQ
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Akaloosha Dolage（联系人（研究档 KP；2026 阿里 RFQ 10 × 8 电口 设备内嵌）= 收件人 — 一页纸一次：贴标 OEM 30% B、STI-280GE $46.6 工业 8 GE / 商用 8 GE 按主表 ×10 一口价 + 中性 / 贴标 + 付费样机 + 3 年工业保修 — 亚洲常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29））akalooshad@skipod.lk 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -58,10 +58,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "2035 Royal Ln Suite 280, Dallas, TX 75229（Irving）",
@@ -144,6 +145,14 @@
     "quote": "Updated Ethernet Switches Links",
     "why": "本日去信真实主题（邮箱索引 c03cc424dcd5ff74；信稿开头句引用此封；此前稿内写的「48 Port SFP Switch」是线程列表首题，不是本封）",
     "k": "c03cc424dcd5ff74"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "FluxLight | Optical Transceiver Solutions, Cables & Media Converters — Build your network bigger, faster, and stronger with FluxLight. We manufacture fiber optic transceivers and interconnect products for networking use.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://fluxlight.com/"
    }
   ],
   "proof_gaps": [],
@@ -152,5 +161,39 @@
    "body": "Hello FluxLight team,\n\nOver the past months you had a few product mails from us - most recently \"Updated Ethernet Switches Links\" on 12 February 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nTransceivers and DAC are your core and we do not carry them. For the FluxLight media-converter line, under your label from small lots, -40 to 75 C, FCC/CE/RoHS: industrial Gigabit converter, DIN-rail, 1 x RJ45 + 1 x SFP slot - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); PoE version - STI-111GP - $30.1. Desktop converters and converter racks are not on our list - said up front.\n\nOne question: is there a converter configuration your transceiver customers keep asking for that you do not stock today?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:46:54Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "quotes@fluxlight.com",
+   "sales@fluxlight.com",
+   "support@fluxlight.com"
+  ],
+  "phones": [],
+  "social": [
+   "https://twitter.com/FluxLightInc",
+   "https://www.facebook.com/FluxlightInc",
+   "https://www.linkedin.com/company/fluxlight-inc-/",
+   "https://www.youtube.com/user/FluxLightInc"
+  ],
+  "models_on_site": [
+   "MPO12",
+   "SFP28",
+   "OSFP112",
+   "SFP-10",
+   "SFP-H25G-CU1M-FL",
+   "MMS4X50-NM-FL",
+   "QSFP28",
+   "MPO12-4LC"
+  ],
+  "url": "https://fluxlight.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

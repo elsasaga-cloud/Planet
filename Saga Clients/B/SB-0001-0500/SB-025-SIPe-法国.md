@@ -57,6 +57,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-21 | 去 | A 群发 | 10G Enterprise SFP Switch、8 Port Industrial PoE Switch | 15 封 / 0 次打开 / 0 回｜首封 2025-06-04 → 末封 2026-09-21（15 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：3个工业PoE配件 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | SIPE Corse – Société Insulaire de Protection Electronique — Depuis 40 ans à Ajaccio au service de la sécurité des biens et des personnes Depuis 40 ans à Ajaccio au service de la sécurité des biens et des personnes Téléphone 04 95 20 95 94 | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -135,9 +136,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Olivier Donadio（Président（pappers；2016-07 起；1980 年生）= 拍板人 / 收件人（第 109 批 官方登记核实 2026-10-28））odonadio@sipe-corse.fr 〔用户 Clients 表〕
 - **调研后定级**：B（原自动 A）——已有一笔极小的平台零售单（3 件配件）但后续 0 回复/5 次推送；微型安装商，复购天花板低 → 慢跟（有成交记录故不降 C）。
-- 备注：复购触发点：其下一个项目；一次性发'项目用 PoE 交换机 + 配件打包'单问邮件即可。待补证：公司登记（SIREN）与规模。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+复购触发点：其下一个项目；一次性发'项目用 PoE 交换机 + 配件打包'单问邮件即可。待补证：公司登记（SIREN）与规模。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

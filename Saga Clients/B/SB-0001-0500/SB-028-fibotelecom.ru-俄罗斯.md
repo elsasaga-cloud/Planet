@@ -60,6 +60,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2025-01-21 | 去 | S 群发 | PoE Switch、48 port managed switch | 6 封 / 0 次打开 / 0 回｜首封 2024-07-11 → 末封 2025-01-21（6 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 光模块 PON / SFP MC(光路的) DPtek客户 / Anastasia Roshchupkina Purchasing / 买了飞宇的 / https://fibotelecom.ru/catalog/kommutatory/k | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Купить телекоммуникационное и сетевое оборудование и кабель по выгодной цене в интернет-магазине с доставкой по РФ — Купить телекоммуникационное и сетевое оборудование и кабель по выгодной цене с доставкой по России. Компания FIBO предлагает заказать информационно-телекоммуникационное оборудование,  | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -129,7 +130,7 @@ updated: 2026-10-29
 - **是谁**：俄罗斯光通信产品分销商 FIBO-TELECOM（8 (800) 550-22-45；自有品牌 FIBO 兼容 SFP（FT-S1-C…CWDM 等）、PoE 交换机 FT-S118FP-2T1S（8 FE PoE + 2 GE + 1 SFP）4,841 ₽、FT-S1116FP-2T1S 11,133 ₽；DK 系列管理交换机：DK2110M-8T2S（Marvell，L2 8 GE + 2 SFP）21,424 ₽、DK2110R-8T2S（Realtek）16,664 ₽、DK2110M-24T4S（Marvell）27,614 ₽、DK2310R-24T4X（L3 Realtek 24 GE + 4 SFP+）42,850 ₽（含 VAT）；媒体转换器、DWDM）。用户表（MIPS 2024；DWDM CENTEC 线索）：采购 Anastasia Roshchupkina；买过飞宇的产品；兴趣光模块 PON、SFP、MC；备注链接其交换机目录。自有品牌 + Marvell/Realtek 双线与 Saga 完全同构 → OEM 30%（贴 FIBO 牌）。
 - **类型**：运营商/光传输采购（待补证）
 - **规模**：待补证
-- **在卖/在用品牌**：飞宇（用户记录）, DPtek（用户记录）, FIBO / FT-（自有品牌）, DK（自有系列）
+- **在卖/在用品牌**：飞宇（用户记录）, DPtek（用户记录）, FIBO / FT-（自有品牌）, DK（自有系列）, Cisco, Juniper
 - **【用户记录】DWDM 线索；0 次跟进；采购联系人具名**
   > DWDM lead, 0 fu, DPtek customer；买了飞宇的；Anastasia Roshchupkina / Purchasing（用户 Clients 表摘录）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
@@ -148,9 +149,10 @@ updated: 2026-10-29
 - **KP**：Anastasia Roshchupkina（Purchasing（研究档；roshchupkina@fibotelecom.ru）= 收件人（第 113 批 官方登记核实 2026-10-28））roshchupkina@fibotelecom.ru 〔用户 Clients 表〕
 - **KP**：Боровский Максим Вячеславович（创始人 / 50% 股东 ООО «ФИБО»（2017–；tbank 变更记录）= 拍板人（邮箱未取）（第 113 批 官方登记核实 2026-10-28）） 〔https://fibotelecom.ru/contact/〕
 - **调研后定级**：B（原自动 A）——DWDM 品类非 Saga 主线（三供应商中仅 Hohunet 有 10G+/DC 线，无 DWDM 整机），俄罗斯非主攻区，且 0 互动 → 不具备 A 的'可追溯需求+可赢'条件，降 B 待机。
-- 备注：若 Hohunet CENTEC 10G/25G 汇聚机型对其有用可一次触达；否则不主动跟。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+若 Hohunet CENTEC 10G/25G 汇聚机型对其有用可一次触达；否则不主动跟。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（网店核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（网店核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

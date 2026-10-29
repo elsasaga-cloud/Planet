@@ -99,6 +99,7 @@ updated: 2026-10-29
 | 2026-09-24 | 去 | Simon → Thu | Are you interested in commercial Ethernet switches? I am recommending a popular model. 1200 RMB/PC（附 STC-424XGGPM-280W.docx） | 交叉销售起点 | `6d28c798fba082a8` |
 | 2026-09-25 | 来 | Thu Pham | Thank you - It looks good. I will take a look at the switch. What would be our cost? | 明确的购买意向问句 | `0ff9007ca6a811e5` |
 | 2026-09-27 | 去 | Simon → Thu | DHL / 8604097423  1300RMB/PC | 最后一封：只给了 RMB 价（且比三天前高 100 RMB），无 USD / 条件 / 问题 → 断点 | `1da8981202e67e90` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | - | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：A 邮箱是否也在联系 Vi-Link（PI 包标签在 Simon 名下，推测没有）；MC1000SC03 到货后的使用反馈（10 月后无邮件）
 
@@ -220,9 +221,10 @@ updated: 2026-10-29
 - **KP**：Robin Sun（联系人（ProcessRegister 名录口径））sales@vilinknet.com（产品 PDF 页脚公开） +1 714-312-0654〔https://www.processregister.com/Vilink_Communications_Inc/Supplier/sid161883.htm ; https://vilink.us/wp-content/uploads/2024/08/MC12.pdf〕
 - **KP**：Thu Pham（Owner（商会名录 / D&B 联系人 / 2018 OCTA 投标联系人）= 老板 = 联系人；公司已收缩至微型（Brea 关店、D&B 1 人），现址 450 Goddard Irvine（第 84 批 官方登记核实 2026-10-27））thupvilink16@gmail.com 〔PI.zip 单据〕
 - **调研后定级**：A（原自动 A）——PI 包成单客户，Simon 标签 可发展 → A
-- 备注：A 确认：美国自有品牌工业交换机/MC 厂商 = 最佳 OEM 对象；P1 应改为 STI 工业系列（非 PoE 商用）。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+A 确认：美国自有品牌工业交换机/MC 厂商 = 最佳 OEM 对象；P1 应改为 STI 工业系列（非 PoE 商用）。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1）
+### 加厚挖掘（2026-10-21 · 深挖 v1 + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -2,7 +2,7 @@
  "code": "SB-506",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（timeout）",
+ "website_status": "快照失败（fibertek-ap.com：超时（站慢或封锁），2026-10-21，第 1 次）",
  "summary": "新加坡 Fibertek-AP（自有品牌：工业 FS、多功能 VC、SFP、MC、光猫、小壳系列周边产品；表内「看着像国内的外壳」；官网超时）；群发 17 次无回复。",
  "type": "光网络产品自有品牌商（新加坡，疑似国内货源）",
  "size": "",
@@ -26,7 +26,7 @@
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
@@ -111,5 +111,14 @@
    "body": "Hello,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the media converters and industrial switches sold under the Fibertek label, we can be a second ODM source (gigabit/PoE MCs, DIN-rail 8-GE + 2 SFP, −40~75 °C, CE/RoHS) from small lots, EXW USD — which MC or switch SKU do you reorder most?\n\nReference price: DIN-rail 1-GE + 1-SFP industrial switch / media converter (STI-110GE) $26.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:42:20Z"
+  ],
+  "fails": [
+   "2026-10-21"
+  ],
+  "batch": "LT-T03"
  }
 }

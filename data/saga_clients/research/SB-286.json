@@ -43,10 +43,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-032，W 批次调研 2026-10-19/20）"
+  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-032，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Rima Elektronik Bilişim ve Güvenlik Sistemleri San. ve Dış Tic. Ltd. Şti.（MERSİS 0735068165000012；VKN 7350681650；资本 123,456 TL；注册商标 newstream）",
@@ -131,10 +132,47 @@
     "quote": "10G Enterprise SFP Switch、Industrial PoE Switch",
     "why": "12 封 / 0 次打开 / 0 回｜首封 2025-09-30 → 末封 2026-10-06（12 去 / 0 来）",
     "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Rima | Kurumsal GÃ¼venlik ve BiliÅim ÃÃ¶zÃ¼mleri — Ä°Åletmenizin ihtiyaÃ§larÄ±na Ã¶zel entegre biliÅim ve gÃ¼venlik Ã§Ã¶zÃ¼mleri sunar. AI destekli video analiz, IP kamera ve network altyapÄ± hizmetlerimizi keÅfedin.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.rimaelektronik.com/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:38:48Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "bilgi@rimaelektronik.com"
+  ],
+  "phones": [
+   "+90 0212 424 1616",
+   "+90 212 424 1616",
+   "0001 0020 5754 6801 8850 21"
+  ],
+  "social": [
+   "https://twitter.com/rimaelektronik",
+   "https://www.linkedin.com/company/rima-elektronik-ve-bilisim",
+   "https://www.youtube.com/user/rimaelektronik"
+  ],
+  "models_on_site": [
+   "ELEVEN11BOT",
+   "Q6411-LE"
+  ],
+  "url": "https://www.rimaelektronik.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

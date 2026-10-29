@@ -7,7 +7,11 @@
  "type": "",
  "size": "",
  "brands_seen": [
-  "PLANET"
+  "PLANET",
+  "Ubiquiti",
+  "Dahua",
+  "Hikvision",
+  "Uniview"
  ],
  "evidence": [
   {
@@ -59,10 +63,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-097，W 批次调研 2026-10-19/20）"
+  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-097，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "PHU Multiproject（Multiproject Hurtownia Teletechniczna；NIP 5842509422；法律形式未核，推定个体 PHU；同名 Multiprojekt sp. z o.o. 多家为他户）",
@@ -164,6 +169,14 @@
     "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
     "why": "Elsa 箱群发 BCC 触达证据（命中地址 biuro@multiproject.com.pl, multiproject.com.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
     "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Multiproject Hurtownia Teletechniczna — Multiproject Hurtownia Teletechniczna",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.multiproject.com.pl/"
    }
   ],
   "proof_gaps": [
@@ -171,5 +184,38 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:36:02Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "biuro@multiproject.com.pl",
+   "damian.lis@multiproject.com.pl",
+   "slawek.janusch@multiproject.com.pl"
+  ],
+  "phones": [],
+  "social": [
+   "https://twitter.com/share?url=https%3A%2F%2Fwww.multiproject.com.pl%2Fprzewod-rg-592x1-00-zelowany-pro-cctv-300m-p-2303.html&text=Przew%C3%B3d+RG-59%2B2x1%2C00+%C5%BCelowany+Pro+CCTV+300m",
+   "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.multiproject.com.pl%2Fprzewod-rg-592x1-00-zelowany-pro-cctv-300m-p-2303.html",
+   "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.multiproject.com.pl%2Fprzewod-rg-592x1-00-zelowany-pro-cctv-300m-p-2303.html&title=Przew%C3%B3d+RG-59%2B2x1%2C00+%C5%BCelowany+Pro+CCTV+300m"
+  ],
+  "models_on_site": [
+   "RG-59",
+   "HT-H526",
+   "TVC-M3220-1-P",
+   "ISC-BPR2-W12",
+   "INS-UP720B",
+   "DT-360",
+   "IR-98",
+   "SK-22401M"
+  ],
+  "url": "https://www.multiproject.com.pl/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

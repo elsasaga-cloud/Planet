@@ -123,7 +123,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（http_error）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（smartsystems.jo：HTTP 错误，2026-10-21，第 1 次）
 - **是谁**：约旦 Smart Systems（smartsystems.jo；表内「大口 FS / BDCOM / switch」；KP Motaz Alsharif（Owner）；官网 http_error）；表内未跟进。
 - **类型**：网络集成/分销商（约旦，BDCOM 在供）
 - **在卖/在用品牌**：BDCOM
@@ -134,7 +134,8 @@ updated: 2026-10-29
   > 大口FS / 大口FS BDCOM / switch
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Motaz Alsharif（Owner（prospeo 2026-10-29 吻合；研究档 KP）= 收件人 — 一页纸一次：分销 20% B、STC-4424GCPM $165 / STC-424XGGPM-280W $198 / STC-448XGGPM $335 一口价 + MOQ 1 + 付费样机；在供品牌不点名 — 约旦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 安曼（第 123 批 官方登记核实 2026-10-29））motaz@smartsystems.jo 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

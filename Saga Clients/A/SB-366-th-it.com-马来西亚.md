@@ -65,6 +65,7 @@ updated: 2026-10-29
 | 2026-04-29 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | Updated Ethernet Switches Links（Elsa 群发第 8/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单 | `elsa_bcc` |
 | 2026-09-08 | 来 | Mr. Lee Te Hua（Rental Sales Manager, TH-IT，马来西亚） | Thanks, we don't need this currently. | Elsa 邮箱 2026-08-17「24 Port PoE Managed Switch」群发的回信（连接器实时查到，仓库 gmail_e 索引截至 2026-08-19 未含）——第二次书面拒绝（2024-07-29「sorry, no need」）；头衔是租赁销售经理 = 不是采购口。两次拒 → 2027 前不再发 | `Gmail 连接器（Elsa）message 1a07ff9946d7554d，thread 19ff3ec967fec1c0` |
 | 2026-09-08 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | 24 Port PoE Managed Switch（Elsa 群发第 9/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；就是这封被回「we don't need this currently」 | `elsa_bcc` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Notebook, Laptop & Computer Rental Selangor, Projector Supplier Kuala Lumpur (KL), Server Rental Malaysia ~ TH IT RESOURCE CENTRE SDN BHD — Specializes in providing short- and long-term IT equipment rental. We provide laptop, pc, shredder, printer, server, projector, led panel, photocopier etc for r | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -144,9 +145,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Lee（表内联系人 Lee（职务待核；商业 PoE 需求记录）= 收件人 — 一页纸一次：集成商 25% B small、AP 供电 STC-028GP / STC-2216GP / 2224GP 一口价 + MOQ 1 + 付费样机 — 马来西亚常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、SIRIM 不声称（第 119 批 官方登记核实 2026-10-28））inquiry@th-it.com 〔用户表〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

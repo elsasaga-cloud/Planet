@@ -39,10 +39,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（快照 + 表内）"
+  "level": "B 级加厚 v1（快照 + 表内） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "HAMDAZTECH TECHNOLOGY SERVICES LLC（阿布扎比；牌照号未取）/ HAMDAZ TECHNOLOGIES LLP（印度 Kozhikode；CIN ACA-6304）",
@@ -100,6 +101,14 @@
     "quote": "（空）",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Hamdaz",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://hamdaz.com/"
    }
   ],
   "proof_gaps": [
@@ -109,5 +118,31 @@
   "draft_en": null,
   "as_of": "2026-10-24"
  },
- "country_fix": "阿联酋"
+ "country_fix": "阿联酋",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:41:42Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "hello@hamdaz.com"
+  ],
+  "phones": [
+   "+91 9207773300",
+   "+971 23090211",
+   "+971 26265780"
+  ],
+  "social": [
+   "https://wa.me/+919207773300",
+   "https://wa.me/9207773300",
+   "https://www.linkedin.com/company/hamdaz-technologies/"
+  ],
+  "models_on_site": [],
+  "url": "https://hamdaz.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

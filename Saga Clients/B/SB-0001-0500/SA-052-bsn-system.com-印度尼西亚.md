@@ -64,6 +64,7 @@ updated: 2026-10-29
 | 2024-11-20 | 去 | S 箱（Simon） | 10G Media Converter｜稿内价 $65 | 去信正文含价（邮箱索引） | `b979651deadaf930` |
 | 2025-02-04 | 去 | A 箱（Alan） | 24 Port Fiber Switch | 最近一封去信（邮箱索引；去信共 2 封） | `0dc3573924bf301a` |
 | 2025-02-04 | 去 | A 箱（Alan） | 24 Port Fiber Switch｜稿内价 $240 | 去信正文含价（邮箱索引） | `0dc3573924bf301a` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Home 2 - Berkah Saudara Network — Selamat Datang di BSN System Kami menyediakan berbagai solusi teknologi informasi yang dapat membantu perusahaan anda menjadi lebih berkembang Lihat Selengkapnya Mari Berkenalan Dengan Kami BSN adalah organisasi independen, didorong oleh pakar keselamatan dan keaman | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文
 
@@ -138,9 +139,10 @@ updated: 2026-10-29
   > 来源：https://bsn-system.com/?20080901（抓取 2026-10-21）
 - **KP**：（用户记录联系人，Gmail 个人邮箱）（）sales@bsn-system.com +62 819-3999-8899（官网）〔官网 + 用户 Clients 表〕
 - **调研后定级**：B（原自动 A）——Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A
-- 备注：有具体规格需求（2 光 4 电 + ERPS 环网）= 可追溯真实需求；2 次回复且 WA 在线。APAC 非主攻区但需求明确、尺寸可赢。P1：STI 工业系列中 2 光 4 电 ERPS 机型（在 SmartByte 工业目录中按'4 电 2 光 管理型'核对具体型号，报价前核价），项目价阶 25%。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+有具体规格需求（2 光 4 电 + ERPS 环网）= 可追溯真实需求；2 次回复且 WA 在线。APAC 非主攻区但需求明确、尺寸可赢。P1：STI 工业系列中 2 光 4 电 ERPS 机型（在 SmartByte 工业目录中按'4 电 2 光 管理型'核对具体型号，报价前核价），项目价阶 25%。
 
-### 加厚挖掘（2026-10-21 · 深挖 v2（官网核对））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

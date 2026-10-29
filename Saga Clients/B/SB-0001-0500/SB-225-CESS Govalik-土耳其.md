@@ -112,7 +112,8 @@ updated: 2026-10-29
   > 最主要问了收发器 / SAHIN OZTURK / sahin@shnrise.com
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Şahin Öztürk（ISAF 名片（域名 shnrise.com 与 CESS 关系未证实）= 收件人（第 106 批 官方登记核实 2026-10-28））sahin@shnrise.com（用户表） —〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · 官网未检索到 · 仅表内信息）
 

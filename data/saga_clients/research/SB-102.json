@@ -41,10 +41,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对）"
+  "level": "B 级加厚 v1（官网快照核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Denso Electronic Solutions（PACRA 号 1 查未得）",
@@ -121,6 +122,14 @@
     "quote": "reseller 网站卖的比较杂 工业MC；2024.1.18 发了2光4相关信息 → 点了一个赞；2024.3.14 → 问了一个不相关的产品",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Electronics Supplier & Services | Denso Electronics | Zambia — Electronics Supplier & Services | Denso Electronics | Zambia",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.densoelectronics.com/"
    }
   ],
   "proof_gaps": [
@@ -129,5 +138,32 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:23:18Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@densoelectronics.com"
+  ],
+  "phones": [
+   "+260212615190",
+   "+260212615367",
+   "+260977823625"
+  ],
+  "social": [],
+  "models_on_site": [
+   "DVT8110",
+   "DVT4110",
+   "DVT2110",
+   "PSM6000"
+  ],
+  "url": "https://www.densoelectronics.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

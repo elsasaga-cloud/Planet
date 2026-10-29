@@ -7,7 +7,8 @@
  "type": "",
  "size": "",
  "brands_seen": [
-  "ADDON（自有品牌）"
+  "ADDON（自有品牌）",
+  "Cisco"
  ],
  "evidence": [
   {
@@ -57,10 +58,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + Companies House 核对）"
+  "level": "B 级加厚 v1（官网 + Companies House 核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "ADDON TECHNOLOGY LTD（Companies House 04256748）",
@@ -142,6 +144,14 @@
     "quote": "24 Port PoE Managed Switch",
     "why": "本日去信真实主题（邮箱索引 f6ba377572887e78；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
     "k": "f6ba377572887e78"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Addon Technology - UK Based Manufacturer of Networking & Accessories — Addon Technology - UK Based Manufacturer of Networking & Accessories",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://addon-tech.com/browse/"
    }
   ],
   "proof_gaps": [],
@@ -150,5 +160,32 @@
    "body": "Hello ADDON team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 19 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the ADDON wired-networking range, two desktop SKUs in your label and box from small lots, CE/RoHS/UKCA: 8 x Gigabit PoE+ + 2 x Gigabit uplinks, unmanaged, 120 W - model STC-028GP - $27.2 USD EXW (MOQ 1, 15-day validity); plain 8 x Gigabit desktop - STC-08GE - $10.5. If you want a managed SKU at the top of the range, 8 x PoE+ + 2 x SFP L2+ on a Marvell platform - STC-28DGGPM - $87.4. Logo on the unit is free; colour box from 200 sets.\n\nOne question: which carton size do your e-trader customers prefer - single retail box, or 10-pack brown carton?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:23:36Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "donate@opencart.com"
+  ],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "IEEE802",
+   "AWP1200E",
+   "WPA2-PSK",
+   "AWU680",
+   "AWU-G30",
+   "AWU650",
+   "APR3000N",
+   "ARM8200"
+  ],
+  "url": "https://addon-tech.com/browse/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

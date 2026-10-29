@@ -60,6 +60,7 @@ updated: 2026-10-29
 | 2026-09-22 | 去 | A/S 群发 | 10G Enterprise SFP Switch、Managed Optical Bypass Switch | 23 封 / 1 次打开 / 0 回｜首封 2024-06-25 → 末封 2026-09-22（23 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：工业FS POE 有好几个牌子 也有他们自己的牌子 有小壳 | 表内备注 | `用户表` |
 | 2026-09-22 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 bc488c3b5cdd48d8；信稿开头句引用此封；此前稿内写的「10G Enterprise SFP Switch」是线程列表首题，不是本封） | `bc488c3b5cdd48d8` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Substation Computing & Networking Solutions \| Welotec — Rugged computing and networking for digital substations. IEC 61850-3 certified servers, switches and routers for protection, automation, SCADA and vPAC deployments. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -149,9 +150,10 @@ updated: 2026-10-29
   > 兴趣：工业FS POE 有好几个牌子 也有他们自己的牌子 有小壳
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Jos Zenner（Geschäftsführer / CTO（2018-03 起 GF；AG Steinfurt HRB 3363）—— **守界：Welotec 2025-04 起属 Westermo（Ependion AB，全球头部工业交换机制造商）集团，Westermo 派驻 Dr. Reinhard Lülff 2025-07 起单独代表 GF → 交换机货源 = 母公司 → B「不再补查」，不再发**（第 92 批 官方登记核实 2026-10-28））j.zenner@welotec.com 〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

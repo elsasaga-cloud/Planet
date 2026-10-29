@@ -54,6 +54,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-30 | 去 | A/S 群发 | Managed Optical Bypass Switch、24 Port PoE Managed Switch | 15 封 / 1 次打开 / 0 回｜首封 2025-01-30 → 末封 2026-09-30（15 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | Wi-tek的工商业swith 也有大华 的；Cudy的 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | The leading distributor in security technologies \| By Demes Group — The leading distributor in security technologies. Wholesaler of video surveillance, security cameras, CCTV, alarm systems, intrusion, access control and fire detection. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -128,9 +129,10 @@ updated: 2026-10-29
 - **KP**：Ricardo Rubi（Managing Director / Administrador delegado（electrico.info 口径 Rubi Rio Ricardo；Administrador único = LAST ROUND HOLDING SL）= 拍板人（第 109 批 官方登记核实 2026-10-28））bydemes@bydemes.com 〔用户表〕
 - **KP**：Liana Barragan（研究档 KP = 收件人（抄）（第 109 批 官方登记核实 2026-10-28）） 〔用户表〕
 - **KP**：María Gracia Guzzi（Directora de compras / exportaciones（electrico.info）= 收件人（compras 点名）（第 109 批 官方登记核实 2026-10-28）） 〔https://www.electrico.info/empresa-demes-en-barcelona-32739〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

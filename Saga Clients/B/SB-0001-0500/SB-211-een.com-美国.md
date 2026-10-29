@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2026-09-10 | 去 | A/S 群发 | Managed Optical Bypass Switch、Marvell Industrial Alert System | 22 封 / 0 次打开 / 0 回｜首封 2025-01-17 → 末封 2026-09-10（22 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 自己的logo 商业FS CCTV 一些周边产品 | 表内备注 | `用户表` |
 | 2026-09-10 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 71c1d61e37b692e3；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封） | `71c1d61e37b692e3` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | AI Video Surveillance & Proactive security \| Eagle Eye Networks — AI powered video surveillance & proactive security for smarter business operations offering 24/7/365 support. Request a demo today. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -168,9 +169,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Jaime Becker（**误归属**：alludolearning.com 与 Eagle Eye Networks 无关 → 不发（第 95 批 官方登记核实 2026-10-28））jaime@alludolearning.com 〔用户表〕
 - **KP**：Steve Roskowski（来源不明（研究档；与 een.com 无公开关联）→ 不发（第 95 批 官方登记核实 2026-10-28）） 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

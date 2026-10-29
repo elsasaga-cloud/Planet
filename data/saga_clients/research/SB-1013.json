@@ -39,10 +39,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-022，W 批次调研 2026-10-19/20）"
+  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-022，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Business Systems Consulting（bizsyscon.com；密苏里；法律形式未核 —— 同名企业多，1 次检索未命中）",
@@ -134,10 +135,52 @@
     "quote": "24 Port PoE Managed Switch",
     "why": "1 封 / 0 次打开 / 0 回｜首封 2026-10-07 → 末封 2026-10-07（1 去 / 0 来）",
     "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "BSC — BSC",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://bizsyscon.com/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:27:36Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@bizsyscon.com"
+  ],
+  "phones": [
+   "+1 (636) 600-1400"
+  ],
+  "social": [
+   "https://twitter.com/BizSysCon",
+   "https://www.facebook.com/bizsyscon",
+   "https://www.linkedin.com/company/business-systems-connection-inc.",
+   "https://www.youtube.com/@Bizsyscon/"
+  ],
+  "models_on_site": [
+   "IGS-801T",
+   "WGS-4215-8T",
+   "WGS-803",
+   "WGS-804HPT",
+   "IGS-10020MT",
+   "IGS-500T",
+   "IPOE-171-95W",
+   "IGS-1600T"
+  ],
+  "url": "https://bizsyscon.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

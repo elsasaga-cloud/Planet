@@ -57,6 +57,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 拿了彩页，没说什么 / 90 53231 57258 已加 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Güvenlik Kamera Sistemleri, Alarm ve Akıllı Ev Çözümleri \| Tek Nokta Destek — İnegöl/Bursa merkezli güvenlik ve ağ çözümleri: kamera sistemleri, hırsız alarmı, akıllı ev, network. 11 global marka, keşif-kurulum-servis tek noktada. Türkiye geneline tedarik. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库
 
@@ -116,6 +117,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（含网店）
 - **是谁**：布尔萨 İnegöl 的安防与网络方案商 Tek Nokta Destek（CCTV、防盗报警、智能家居、网络；自述 11 个全球品牌、500+ 产品、120+ 品类；勘察-安装-服务一站式，面向全国供货；Fatih Mh. Kıvırcık Sk. No:9/1 İnegöl；+90 224 719 08 00；GSM/WhatsApp +90 532 315 72 58；info@teknoktadestek.com）。ISAF 记录：Rıfat Bende（站内社媒为 Rıfat Yıldız——姓氏待核）拿了彩页、没说什么；WhatsApp 已加（号码与官网 GSM 一致）；无后续跟进。
+- **在卖/在用品牌**：Ajax, Dahua, Zyxel, Uniview, Hanwha, Paradox, TP-Link
 - **【官网】业务与地址**
   > Tek Nokta Destek Güvenlik Sistemleri … İnegöl/Bursa merkezli güvenlik ve ağ çözümleri: kamera sistemleri, hırsız alarmı, akıllı ev, network. 11 global marka, keşif-kurulum-servis tek noktada. Türkiye geneline tedarik. … Fatih Mh. Kıvırcık Sk. No:9/1 İnegöl / Bursa 0 224 719 0 800 … info@teknoktadestek.com
   > 来源：https://teknoktadestek.com/（抓取 2026-10-21）
@@ -126,9 +128,10 @@ updated: 2026-10-29
   > 拿了彩页，没说什么 / 90 53231 57258 已加
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Rıfat Yıldız（业主（官网 sameAs 指向其个人 X 账号；研究档原记「Rıfat Bende」为误读）= **老板 = 联系人**；İnegöl / Bursa 两店 + 安装队（第 90 批 官方登记核实 2026-10-27））info@teknoktadestek.com（公开） +90 532 315 72 58（公开，WhatsApp 已加）〔https://teknoktadestek.com/index.php?route=information%2Fcontact〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

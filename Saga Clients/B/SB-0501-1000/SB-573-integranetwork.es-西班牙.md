@@ -54,6 +54,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-30 | 去 | A 群发 | Industrial PoE Switch、10G L3 Managed Switch | 6 封 / 0 次打开 / 0 回｜首封 2026-04-16 → 末封 2026-09-30（6 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 在用LANTECH的；max: 40% A 西班牙工业网络方案商/专业渠道，核心围绕工业网络与工业交换机选型，客户更偏项目和技术实施 先发工业交换机选型矩阵和ERPS/PoE++/宽温资料，强调可做功能/UI定制与持续供货；优先切入需要特殊 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Integra Network \| Soluciones completas de equipamiento informático — En Integra Network desarrollamos soluciones completas de equipamiento informático industrial dirigido a aplicaciones en diversos sectores. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -126,9 +127,10 @@ updated: 2026-10-29
   > 在用LANTECH的；max: 40% A 西班牙工业网络方案商/专业渠道，核心围绕工业网络与工业交换机选型
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Lola Lucena（研究档 KP = 收件人（工业线）（第 110 批 官方登记核实 2026-10-28））lola.lucena@integra-nes.es 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

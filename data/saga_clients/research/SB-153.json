@@ -27,10 +27,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "官网未检索到 · 仅表内信息"
+  "level": "官网未检索到 · 仅表内信息 + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Sinerjik（sinerjik.net；未坐实：1 次检索仅命中词典释义）",
@@ -93,6 +94,14 @@
     "quote": "问了POE Splitter  一个输入 两个输出   推了5口POE延长器， 想要小的那种 / Ufuk GOKALP",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Sınırsız Web Hosting | Türkiye’nin Hosting Markası | Natro.com",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "http://sinerjik.net/"
    }
   ],
   "proof_gaps": [
@@ -103,5 +112,23 @@
    "body": "Hi Ufuk,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nA 1-in / 2-out PoE splitter is not in our range today. The closest solution we build is a mini DIN-rail switch, 4 x Gigabit PoE+ + 1 x uplink, 48 V DC powered, model STI-054GP - $32.5 USD EXW (MOQ 1, 15-day validity).\n\nOne question: is there external power available at the point in the field, or does the device have to be fully PoE-powered?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:23:52Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@sinerjik.net"
+  ],
+  "phones": [],
+  "social": [],
+  "models_on_site": [],
+  "url": "http://sinerjik.net/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -113,7 +113,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（unreachable）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（aplusnet.de：域名不可达（DNS/连接失败），2026-10-21，第 1 次）
 - **是谁**：德国 A+ Net（aplusnet.de：SFP、工业 FS、MC、PoE；「Digitus 的产品很多，价格很高」；KP Sonja Geserick；表内「质量一般」；官网 unreachable）；表内未跟进。
 - **类型**：网络产品经销商（德国，Digitus 为主）
 - **在卖/在用品牌**：Digitus
@@ -124,7 +124,8 @@ updated: 2026-10-29
   > SFP 工业FS MC POE Digitus的产品很多 价格很高
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Sonja Geserick（Geschäftsführerin（Komplementär-GmbH aplusNET Beteiligungs-GmbH HRB 5681）+ Gesellschafterin；二代（2005 接班）= **老板本人 = 收件人**（第 98 批 官方登记核实 2026-10-28））sonja.geserick@aplusnet.de 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

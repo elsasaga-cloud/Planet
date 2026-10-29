@@ -51,10 +51,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "白俄罗斯",
@@ -123,6 +124,14 @@
     "quote": "Bypass模块 / from: 阿里巴巴询盘",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Сетевые устройства OPL — Интернет-магазин",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://opl-sfp.by/"
    }
   ],
   "proof_gaps": [
@@ -133,5 +142,35 @@
    "body": "Hi Igor,\n\nYou asked on Alibaba about bypass modules and did not get a proper answer from us - apologies, here it is.\n\nWe do not sell the bypass module on its own; we supply it built into an industrial switch: DIN-rail L2+ managed, 8 x Gigabit RJ45 (PoE+ version) + 4 x SFP, hardware optical bypass on the fibre uplinks, -40 to 75 C, CE/RoHS (EAC stays on your side) - $186.5 USD EXW (MOQ 1, 15-day validity); the non-PoE version - $172.2. Alongside it, the regular DIN-rail 8 x Gigabit + 2 x SFP L2 managed unit, STI-280GM, $68.2.\n\nOne question: is the bypass needed on the copper ports or on the fibre uplinks in your design?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:44:41Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@opatov.by"
+  ],
+  "phones": [
+   "+375 (17) 399-99-67",
+   "+375 (29) 149-99-67"
+  ],
+  "social": [],
+  "models_on_site": [
+   "RJ-45",
+   "IEEE802",
+   "RS485",
+   "AC100-240V",
+   "RS458",
+   "SFP28",
+   "SFP56",
+   "DC44-57V"
+  ],
+  "url": "https://opl-sfp.by/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -60,6 +60,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-02 | 去 | A/S 群发 | Industrial PoE Switch、10G L3 Managed Switch | 21 封 / 0 次打开 / 0 回｜首封 2024-06-25 → 末封 2026-09-02（21 去 / 0 来） | `gmail_digest` |
 | 2026-09-02 | 去 | A 箱（Alan） | 24 Port PoE Managed Switch | 本日去信真实主题（邮箱索引 78decccee9a1c9ab；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `78decccee9a1c9ab` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Kamerové systémy Avigilon - ROVEZ — ROVEZ Trnava – dodávateľ kamerových systémov AVIGILON. Komplexné bezpečnostné riešenia, špičkové technológie a 30 rokov skúseností. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -157,8 +158,10 @@ updated: 2026-10-29
   > 来源：https://www.azet.sk/firma/32427/rovez-s-r-o/（抓取 2026-10-21）
 - **KP**：Marián Ondrejíček（联系人（konateľ / 股东身份待 FinStat 登记页确认）；ROVEZ, s.r.o. 1997-12-22、3–4 人、2025 营收 €646,579（+28%）净利 €192,182（30%）、负债率 7%（第 86 批 官方登记核实 2026-10-27））rovez@rovez.sk +421 905 617 471〔https://www.dnb.com/business-directory/company-profiles/rovez-sro.5b2132d62801505d075735db36808cde ; https://www.rovez.sk/〕
 - **调研后定级**：A（原自动 A）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A1 复购/绑定≥中度；A2 成单/样品/PI+真人往来
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 注册核对））
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 注册核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

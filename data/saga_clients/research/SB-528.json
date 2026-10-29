@@ -40,10 +40,11 @@
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "1 Yishun Industrial Street 1, #05-31 A'Posh BizHub, Singapore 768160（美国 Bethesda MD 地址为商务中心）",
@@ -155,6 +156,14 @@
     "quote": "16 Port Industrial PoE Switch",
     "why": "本日去信真实主题（邮箱索引 865c6b67d614c4c9；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封）",
     "k": "865c6b67d614c4c9"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Industrial Ethernet Switch USB RS232 RS485 RS422 Fiber Optic Converter – CommFront — Industrial Ethernet Switches, Industrial USB RS232 RS485 RS422 TTL Serial Fast and Gigabit Ethernet Fiber Optic Converters / Isolators / Extenders / Hubs, Mobus RTU to TCP, Serial to Ethernet Converters, SGS/TUV/ISO",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.commfront.com/"
    }
   ],
   "proof_gaps": [],
@@ -164,5 +173,39 @@
   },
   "as_of": "2026-10-24"
  },
- "country_fix": "新加坡"
+ "country_fix": "新加坡",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:42:39Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "mllegeorgesand@gmail.com",
+   "sales@commfront.com",
+   "wholesale@commfront.com"
+  ],
+  "phones": [],
+  "social": [
+   "https://twitter.com/share?url=https://www.commfront.com/collections/ethernet-switches&text=Ethernet Switches",
+   "https://twitter.com/share?url=https://www.commfront.com/collections/ethernet-to-fiber-optic-converters&text=Ethernet to Fiber Optic Converters (Point to Point)",
+   "https://twitter.com/share?url=https://www.commfront.com/collections/managed-ethernet-switches&text=Managed Ethernet Switches",
+   "https://twitter.com/share?url=https://www.commfront.com/collections/unmanaged-ethernet-switches&text=Unmanaged Ethernet Switches"
+  ],
+  "models_on_site": [
+   "RS232",
+   "RS485",
+   "RS422",
+   "SG-CE-100005",
+   "SG-FCC-100002",
+   "CVT-485-1",
+   "CVT-485A-1",
+   "CVT-422-1"
+  ],
+  "url": "https://www.commfront.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

@@ -127,7 +127,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（unreachable）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（view-tel.co.kr：域名不可达（DNS/连接失败），2026-10-21，第 1 次）
 - **是谁**：韩国 View-tel（view-tel.co.kr；表内「switch」「可以尝试多跟进一下」；官网 unreachable）；群发 22 次无回复。
 - **类型**：网络/通信公司（韩国，待核）
 - **【用户表】表内兴趣/备注**
@@ -137,7 +137,8 @@ updated: 2026-10-29
   > switch；可以尝试多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：윤지현 Yun Ji-hyeon（대표이사 (주)뷰텔 VIEWTEL Co., Ltd.（DART / view-tel.co.kr）— 非目标行业，不动（第 115 批 官方登记核实 2026-10-28））marketing@view-tel.co.kr 〔https://englishdart.fss.or.kr/dsbc001/selectPopup.ax?selectKey=01694903〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

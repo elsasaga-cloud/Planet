@@ -56,6 +56,7 @@ updated: 2026-10-29
 | 2024-07-05 | 去 | S 箱（Simon） | 8 port 2.5G switch | 首封去信（邮箱索引；去信共 23 封） | `c753d218c8e5db62` |
 | 2026-09-30 | 去 | A 箱（Alan） | Managed PoE Switches | 最近一封去信（邮箱索引；去信共 23 封） | `818c97f0babf9c11` |
 | 2024-08-05 | 来 | jrsalvador@davantel.com | Ausente - Out of office｜Estaré fuera de la oficina con acceso limitado al email hasta el 19 de  Agosto. En caso de urgencia llamar al 933408712. | 自动回复/退信（机器，不算人工回复） | `3e83fe6bdfdeb580` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Soluciones avanzadas para telecomunicaciones corporativas - Davantel — DESARROLLOS AVANZADOS EN TELECOMUNICACIONES, S.L. (DAVANTEL) es una empresa orientada a ofrecer soluciones avanzadas de acceso y transporte a los operadores, ingenierías, compañías de suministro y grandes corporaciones. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -123,9 +124,10 @@ updated: 2026-10-29
   > 兴趣：外购10G MC 工业FS 管理
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Jose Salvador Collado（CTO（研究档）= 收件人 / 技术拍板（第 108 批 官方登记核实 2026-10-28））jrsalvador@davantel.com +34 93 340 8712〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

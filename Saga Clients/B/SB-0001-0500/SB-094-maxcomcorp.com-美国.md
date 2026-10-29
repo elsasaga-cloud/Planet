@@ -55,6 +55,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-04 | 去 | A 群发 | Marvell Industrial Alert System、Managed Optical Bypass Switch | 25 封 / 2 次打开 / 0 回｜首封 2025-02-13 → 末封 2026-09-04（25 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 广州 一个牌子 Gxcom 工业FS 刷了自己的logo 光路的MC | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Manufacturer of fiber optic transport equipment and digital TV equipment \| Maxcom, Inc. — Maxcom sells fiber optic transport equipment, Fiber Transmitters, Fiber Receivers, EDFA's, Encoders for Video, RF, Digital TV, ASI signals and Cable TV. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -141,9 +142,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Steve Bradley（）steve.bradley@maxcomcorp.com 〔用户表〕
 - **KP**：Tom Maguire（Sales Executive（Hickory NC）（第 89 批 官方登记核实 2026-10-27）） 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4） ｜ 国别更正为「美国」（country_fix）：第 89 批核实：Maxcom, Inc. 在加州 Fair Oaks（官网 / 名录 / 电话 916 区号），用户表「Canada 3.5.xlsx」第 37 行把它列进了加拿大名单（Q-65 国别机检 2026-10-27）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4） ｜ 国别更正为「美国」（country_fix）：第 89 批核实：Maxcom, Inc. 在加州 Fair Oaks（官网 / 名录 / 电话 916 区号），用户表「Canada 3.5.xlsx」第 37 行把它列进了加拿大名单（Q-65 国别机检 2026-10-27）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

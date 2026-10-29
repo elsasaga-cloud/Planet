@@ -37,11 +37,12 @@
  ],
  "grade_override": "B",
  "override_reason": "微型安装商（UG，单人决策但单量极小），仅一次礼节性回复；B 慢跟即可。",
- "notes": "",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Walker Security Systems UG (haftungsbeschränkt)（Amtsgericht Krefeld HRB 20953；原 SMART+ Communications UG，Köln HRB 95644，2018-09-13；Nettetal）",
@@ -138,6 +139,14 @@
     "quote": "info@smart-protect.nrw 永久退信：** Address not found ** ** Address not found ** Your message wasn't delivered to info@smart-protect.nrw because the doma",
     "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
     "k": "gmail_a 21cca18c5a54024d"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Sicherheitstechnik Mönchengladbach | Walker Security — Ihr Experte für Sicherheitstechnik in Mönchengladbach. Wir bieten Alarmanlagen, Videoüberwachung & Zutrittskontrollen für Unternehmen & Privathaushalte. Individuelle Konzepte & zertifizierte Qualität. Jetzt informieren!",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://walker-security.systems/"
    }
   ],
   "proof_gaps": [],
@@ -153,5 +162,26 @@
   "note": "桌面复核（研究档类型 + 对位首推）：安防安装商（微型）；切入：安装商 25% 档：STC-28DGGPM（$84.1）替代 Dahua PFS 8 口管理机；16 口 STI-21616GP；Ajax/Jablotron 报警主机旁的小 PoE 用 STI-144GP；行业内 ✔ 对位 ✔（宽留冷「不对位」系 fit 标志未回填，非真不对位）",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 2，WA —，展会 —，绑定 未绑定））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": []
+ "override_history": [],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:21:04Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@walker-security.systems"
+  ],
+  "phones": [
+   "+49 2153 909 77 40",
+   "+49 2153 909 7740"
+  ],
+  "social": [],
+  "models_on_site": [],
+  "url": "https://walker-security.systems/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

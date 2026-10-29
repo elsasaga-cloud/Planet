@@ -41,10 +41,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对）"
+  "level": "B 级加厚 v1（官网快照核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Infonet Technologies（NETSTAR 品牌；合伙企业；GSTIN 24AAGFI3821H1ZN；IEC AAGFI3821H；Shop 19, Limbani Complex, Ambli Bopal Road, Ahmedabad 380058；11–25 人；₹5–10 Cr）",
@@ -129,6 +130,14 @@
     "quote": "兴趣：商业POE POE配件",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Netstar",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.netstar.in/"
    }
   ],
   "proof_gaps": [
@@ -140,5 +149,41 @@
    "body": "Hello Netstar team,\n\nFor the NS- range: reverse-PoE we cannot do. What we can build under the Netstar label from small lots: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed (web GUI), Marvell-based, CE/RoHS - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); 16 x PoE+ + 2 x SFP L2 managed - STC-2216GPM - $153.5; 24 x PoE+ (280 W) + 4 x SFP - STC-424DGGPM-280W - $145.7. BIS stays on your side.\n\nOne question: which PoE size sells most to your WISP customers - 8, 16 or 24?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:25:40Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "%20admin@netstar.in",
+   "%20sales@netstar.in",
+   "admin@netstar.in",
+   "leroux@qodeinteractive.com",
+   "sales@netstar.in"
+  ],
+  "phones": [
+   "+91 79 267 64812",
+   "+91 91044 65660",
+   "+91 96876 88965"
+  ],
+  "social": [
+   "https://twitter.com/qodeinteractive",
+   "https://wa.me/+919687688966",
+   "https://www.facebook.com/netstarrpoeswitch",
+   "https://www.facebook.com/netstarsmart"
+  ],
+  "models_on_site": [
+   "NS-RP071P-OD",
+   "NS-8G-RP",
+   "RP-2U",
+   "SPG01"
+  ],
+  "url": "https://www.netstar.in/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

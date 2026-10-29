@@ -57,6 +57,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-08-20 | 去 | Elsa 群发（BCC；To vanessa.salas@prisa-solutions.com，LatAm 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 info@telconet.ec, telconet.ec）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 从国内买了很多SFP / 富通天下 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Inicio - Telconet Latam - Transforma tu compañía con Inteligencia Artificial — Telconet soluciones en Inteligencia Artificial, Cloud, Colaboración, Movilidad, Seguridad Electrónica, Ciberseguridad y Network | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -115,9 +116,10 @@ updated: 2026-10-29
   > 从国内买了很多SFP / 富通天下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Marion Tomislav Topic Granados（Gerente General / Representante Legal（BVG 发行人页 2026-10-29；无公开邮箱）（第 123 批 官方登记核实 2026-10-29）） 〔〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于用户表整理 + 需求映射；「成交」为富通天下外贸数据））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于用户表整理 + 需求映射；「成交」为富通天下外贸数据） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

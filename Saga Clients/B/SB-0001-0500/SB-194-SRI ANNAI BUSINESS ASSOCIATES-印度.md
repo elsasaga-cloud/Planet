@@ -110,7 +110,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：域名不可达（sabaindia.com）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（SRI ANNAI BUSINESS ASSOCIATES：域名不可达（DNS/连接失败），2026-10-21，第 1 次）
 - **是谁**：印度泰米尔纳德（0424 埃罗德区号）安防经销商 R. Sampath Kumar，做摄像机与门禁；2024-04 对 L2 管理 2 光 8 PoE 报过 $75（表内），此后无进展；官网域名已失效。
 - **【官网快照】sabaindia.com 域名不可达**
   > status unreachable
@@ -119,7 +119,8 @@ updated: 2026-10-29
   > 回复：price 报了75
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：R. Sampath Kumar（）info@sabaindia.com +91 424 427 2424 / +91 98427 13700〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照 + 表内；域名失效））
 

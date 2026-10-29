@@ -131,7 +131,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（http_error）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（zenithtek.co.kr：HTTP 错误，2026-10-21，第 1 次）
 - **是谁**：韩国 Zenithtek（zenithtek.co.kr；表内「MC switch 等」「可以尝试多跟进一下」；官网 http_error）；群发 23 次无回复。
 - **类型**：网络产品公司（韩国，待核）
 - **【用户表】表内兴趣/备注**
@@ -141,7 +141,8 @@ updated: 2026-10-29
   > MC switch等；可以尝试多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：윤석열 Yoon Seok-yeol（CEO (주)제니스텍 ZENITHTEK Co., Ltd.（zenithtek.co.kr）= 拍板人（研究档无具名 KP → 收件 zenithtek@ 称 Mr. Yoon）（第 115 批 官方登记核实 2026-10-28）） 〔http://www.zenithtek.co.kr/kr/company/intro.php〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

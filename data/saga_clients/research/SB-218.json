@@ -51,10 +51,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照 + 表内：规格外 / 规模大）"
+  "level": "B 级加厚 v1（官网快照 + 表内：规格外 / 规模大） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "ООО «НАГ»（ИНН 6659099112；ОГРН 1046603130881；620110 Екатеринбург, ул. Краснолесья, стр. 12а, этаж 4；2021 营收 7.03 млрд ₽ / 利润 598 млн ₽；股东 Личный фонд «Гладиолус»；自有品牌 SNR）",
@@ -123,10 +124,46 @@
     "quote": "? ? ---------- Forwarded message --------- From: a.sagatelecom@gmail.com Date: 1 октября 2025 г. 9:20:00 Subject: 10G Enterprise SFP Switch To: sales@",
     "why": "来信原文（主题「Re: 10G Enterprise SFP Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
     "k": "79823d7c4b89ed10"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Главная - Новости Nag.ru — Один из старейших в Рунете информационно-аналитических порталов об интернет-провайдинге. С 2001 г. портал аккумулирует отраслевые обзоры и новости, техническую документацию, маркетинговый опыт телеком-компаний. В рамках портала работает самый большой русскоязычный форум св",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://nag.ru/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:37:28Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "navu@nag.ru",
+   "press@nag.ru",
+   "prov@nag.ru",
+   "web@nag.ru"
+  ],
+  "phones": [],
+  "social": [
+   "http://twitter.com/share?url=https://nag.ru/material/43170&text=Это рассказ о том, как в реальности создаются продукты в сложных, конкурентных и технологически насыщенных рынках: видеонаблюдение, SIP‑телефония, IP‑домофония.",
+   "https://t.me/NagNews",
+   "https://t.me/share/url?url=https://nag.ru/material/43170&text=Это рассказ о том, как в реальности создаются продукты в сложных, конкурентных и технологически насыщенных рынках: видеонаблюдение, SIP‑телефония, IP‑домофония.",
+   "https://vk.com/nag.company"
+  ],
+  "models_on_site": [
+   "FD1602S-B1"
+  ],
+  "url": "https://nag.ru/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

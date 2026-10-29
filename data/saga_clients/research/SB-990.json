@@ -35,10 +35,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照：规格外）"
+  "level": "B 级加厚 v1（官网快照：规格外） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Precision Solutions（CNPJ 05.573.595/0001-98；I.E. 149.927.916.115）",
@@ -114,6 +115,14 @@
     "quote": "兴趣：对1.6T很感兴趣，DCI box，拍了照",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Precision Solutions - Tecnologia de Ponta para Redes de Fibra Óptica — Equipamentos de teste, medição e certificação para redes de fibra óptica. Seu parceiro de confiança em infraestrutura de telecomunicações.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://precisionsolutions.com.br/"
    }
   ],
   "proof_gaps": [
@@ -121,5 +130,26 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:27:04Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [],
+  "social": [
+   "https://br.linkedin.com/company/precisionsolutionsbr",
+   "https://wa.me/5511911673946",
+   "https://wa.me/5511911673946?text=Olá! Gostaria de saber mais sobre os produtos e serviços da Precision Solutions.",
+   "https://wa.me/5511911673946?text=Olá! Gostaria de saber mais sobre os serviços da Precision Solutions."
+  ],
+  "models_on_site": [],
+  "url": "https://precisionsolutions.com.br/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

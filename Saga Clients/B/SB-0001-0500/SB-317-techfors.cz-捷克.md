@@ -54,6 +54,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-10-01 | 去 | A 群发 | Managed Optical Bypass Switch、Industrial PoE Switch | 19 封 / 2 次打开 / 0 回｜首封 2025-01-28 → 末封 2026-10-01（19 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | IFS这个牌子 工业FS MC CCTV | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Techfors CZ s.r.o. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -125,9 +126,10 @@ updated: 2026-10-29
   > IFS这个牌子  工业FS MC CCTV；可以尝试多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Tomáš Pavlíček（Ing.；jednatel（2012-01-02 起，独立代表；ex UTC Fire & Security 捷克）= 推定业主 = **联系人** → CCTV PoE 分销 20%（第 90 批 官方登记核实 2026-10-27）） 〔https://or.justice.cz/ias/ui/rejstrik-$firma?ico=24202908〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

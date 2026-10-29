@@ -47,11 +47,12 @@
  ],
  "grade_override": "B",
  "override_reason": "兴趣点为 M12 接口（轨道/车载类，Saga 不做 EN50155/M12 线），无其他需求、无回复 → B 待机。",
- "notes": "不主动投入。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n不主动投入。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（登记核对）"
+  "level": "B 级加厚 v1（登记核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "SITIS Sàrl（UID CHE-150.026.203；CH-660.0.018.012-4）",
@@ -125,10 +126,39 @@
     "quote": "看了M12交换机，没做其他沟通，拿了彩页",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Bienvenue sur le site de la société SITIS Sàrl Genève - Informatique - Télécom - Sécurité",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://sitis.ch/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:23:01Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [
+   "+41 22 510 21 51",
+   "+41 22 510 21 52"
+  ],
+  "social": [],
+  "models_on_site": [
+   "CH-1201"
+  ],
+  "url": "https://sitis.ch/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

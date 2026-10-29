@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2024-11-05 | 去 | Simon → Angora Networks（SA-077）附件 Turkey Client List.xlsx | 名单行：「switch info@telkolink.com http://www.telkolink.com/」 | Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持） | `gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx` |
 | 2026-09-17 | 去 | A/S 群发 | 10G Enterprise SFP Switch、Industrial PoE Switch | 17 封 / 0 次打开 / 0 回｜首封 2024-06-26 → 末封 2026-09-17（17 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | VC 刷了自己的标 合作很密切 FS 机架 MC SFP模块；VC 刷了自己的标 合作很密切 FS 机架 MC SFP模块 还有3旺 tg-net 上面的一个台湾公司 整体上看着外观都一般；在用ClR公司的 深圳公司 http://www. | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Telkolink Kurumsal Bilgi Teknolojileri — POE Switch â Network cihazlarÄ± â Fiber Optik Sistemler â RF Kablo â YapÄ±sal Kablolama â EndÃ¼striyel Otomasyon ÃrÃ¼nleri | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）
 
@@ -157,9 +158,10 @@ updated: 2026-10-29
   > VC 刷了自己的标 合作很密切 FS 机架 MC SFP模块 还有3旺 tg-net 上面的一个台湾公司；在用ClR公司的 深圳公司
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Yusuf Ölçer（Yetkili / General Manager（katalogrehberi 法定联系人；LinkedIn 兼 Gelecekbt.com GM）= **老板 = 联系人 = 拍板人**（直邮 yusuf@telkolink.com）—— **Telkolink（自有标签）与 GelecekBT（gelecekbt.com = SB-275；外部库 XB-C0688）是同一老板的两块牌子 → 三处并一线，只写这一封**；OEM 30% 走 Telkolink 标（PoE 8/16 口 + MC），MOQ 1 箱、100% 预付（第 92 批 官方登记核实 2026-10-28））info@telkolink.com 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

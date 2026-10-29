@@ -2,7 +2,7 @@
  "code": "SB-432",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（http_error）",
+ "website_status": "快照失败（qubix.it：HTTP 错误，2026-10-21，第 1 次）",
  "summary": "意大利 Qubix（工业网络分销：「几乎全是 Planet 的设备」——工业 FS、MC、SFP、工业电源；KP Filippo Gnocco（General Manager）、Davide Villotti（Business Developer Manager）；表内「质量一般」；官网 http_error）；表内 1 次跟进无回复。",
  "type": "工业网络分销商（意大利，Planet 为主）",
  "size": "",
@@ -45,7 +45,7 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
@@ -134,5 +134,14 @@
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:41:05Z"
+  ],
+  "fails": [
+   "2026-10-21"
+  ],
+  "batch": "LT-T03"
  }
 }

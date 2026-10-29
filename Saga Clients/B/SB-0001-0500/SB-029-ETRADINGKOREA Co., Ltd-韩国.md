@@ -60,6 +60,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2025-06-30 | 来 | 우성영（代表） | Can I see your web site? | 可信度 | `1e09231d59bc6afc` |
 | 2025-06-30 | 去 | Alan | There is not much info on our website. | 当时无网站 | `f7147947b4499bda` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | ì´í¸ë ì´ë©ì½ë¦¬ì | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -146,9 +147,10 @@ updated: 2026-10-29
 - **KP**：Woosy（우성영 Woo Sung-young）（대표이사 (주)이트레이딩코리아 ETRADINGKOREA Co., Ltd.（etradingkorea.com 公司概要）= 拍板人 / 收件人（第 115 批 官方登记核实 2026-10-28））woosy777@naver.com +82 10 6616 5491〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Reesung Park（ETRADINGKOREA 研究档联系人（公司邮箱）= 抄送（第 115 批 官方登记核实 2026-10-28））reesung.park@etradingkorea.com +82 2 6672 0008〔（本地 Clients/ 表格，无公开 URL）〕
 - **调研后定级**：B（原自动 A）——韩国非主攻区；自有 ETK 品牌需 KC/TTA 认证与安全确认书，Saga 三供应商无韩国认证；1 次回复后 7 次推送无果。ODM 可能性存在（HRUI 工业 L2/L3）但门槛高 → 慢跟。
-- 备注：重启角度：HRUI STH 工业 2.5G/10G L3 机型作为其 ETK 新 SKU 的 ODM 来源，由其自行取 KC 认证；铁路/电厂方案不接。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+重启角度：HRUI STH 工业 2.5G/10G L3 机型作为其 ETK 新 SKU 的 ODM 来源，由其自行取 KC 认证；铁路/电厂方案不接。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：自有品牌 OEM））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：自有品牌 OEM） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

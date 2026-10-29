@@ -6,7 +6,8 @@
  "type": "品牌商（美国本土制造 + TAA 外采线）",
  "size": "11–50 人；$8.4M（ZoomInfo）/ $11M（LeadIQ）",
  "brands_seen": [
-  "American Fibertek"
+  "American Fibertek",
+  "ComNet"
  ],
  "evidence": [
   {
@@ -70,11 +71,12 @@
  ],
  "grade_override": "A",
  "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A4 Simon 点名",
- "notes": "INH 红线：TAA/UL；本客户是典型 TAA 冲突案例。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\nINH 红线：TAA/UL；本客户是典型 TAA 冲突案例。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网交换机目录核对）"
+  "level": "B 级加厚 v1（官网交换机目录核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "business_lines": [
   "安防光传输（视频/数据/音频光端机）",
@@ -164,6 +166,14 @@
     "quote": "报价单两行：STI-288GP（2×GE SFP + 8×GE PoE af/at 240W，非管理，Marvell）$60；STI-288DGGPM-2BT（2×GE SFP + 8×GE，2 口 bt + 6 口 af/at，240W，L2+ 管理）**也写 $60**（同价——管理型 2BT 的正常锚是 $110，疑似报价单漏改）；validity 15 days；production 4~7 wd；warranty 3 years；Neutral device。",
     "why": "Tim 11-22 问「Do you have it in PoE++ as well? Send pricing for both」→ Simon 次日给了两款价 → 之后无回；如再接触，2BT 管理型不能沿用 $60（口径 ㉕：以 Simon 自己的报价为先，但明显笔误要修正并说明）",
     "k": "S 邮箱附件 `Quotation.pdf` sha=0ccb2821f784a2f3（2024-11-23）"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "American Fibertek – MFG in USA",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://americanfibertek.com/"
    }
   ],
   "proof_gaps": [],
@@ -183,5 +193,35 @@
    "prev_reason": "品牌定位是美国制造/BAA + 外采 TAA 合规（TAA 指定国不含中国大陆），SmartByte/HRUI/Hohunet 中国产整机无法进入其外采线；仅 SFP/电源等非 TAA 敏感配件有机会。B 慢跟：只在其主动询价时报配件。",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A4 Simon 点名"
   }
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:57Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@americanfibertek.com",
+   "techinfo@americanfibertek.com",
+   "websales@americanfibertek.com"
+  ],
+  "phones": [],
+  "social": [
+   "https://twitter.com/AmFibertek",
+   "https://www.facebook.com/amfiber"
+  ],
+  "models_on_site": [
+   "MX8-NIC",
+   "RC7-14",
+   "MX7-FX",
+   "RX-50",
+   "RX-49",
+   "RX-46"
+  ],
+  "url": "https://americanfibertek.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

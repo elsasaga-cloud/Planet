@@ -63,6 +63,7 @@ updated: 2026-10-29
 | 2024-12-10 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「Mini」→ 对方「price」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/E/群发/VN 09.09 09.10/VN.xlsx no.161 1210` |
 | 2026-09-10 | 去 | Elsa 群发（BCC；To inbox.vienthonghanoi@gmail.com，越南（锚 vienthonghanoi VN） 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 duy@songthanhcong.com, songthanhcong.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：MoXa的分销商 工业FS 串口 MC；回复：价格 官网；主要是工业品 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Công ty TNHH TM DV Song Thành Công — Công ty TNHH TM DV Song Thành Công, STC VietNam chuyên cung cấp Encoder NSD , Sensor, NSD Viet Nam, Logika Vietnam, Moxa Vietnam, E2S Việt Nam, Enerdoor Việt Nam | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来；用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -127,9 +128,10 @@ updated: 2026-10-29
 - **KP**：Mr. Linh（采购（研究档；表内注 MaiWe；2024 多次要价）= 收件人 — 一页纸一次：分销 20% B、STI-288DGGPM / STI-488DGGPM / STI-154GP 一口价 + 3 年保 + MOQ 1 + 付费样机、串口 MC 不做明说、不点名 Moxa / Maiwe — 越南常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、MIC 不声称（第 119 批 官方登记核实 2026-10-28））linh@songthanhcong.com +84 374 133 044〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Mr. Đức（Sales（研究档）= 抄送（第 119 批 官方登记核实 2026-10-28））duc@stc-vietnam.com +84 379 720 873〔https://stc-vietnam.com/〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

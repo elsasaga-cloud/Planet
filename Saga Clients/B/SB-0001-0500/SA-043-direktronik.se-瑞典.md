@@ -64,6 +64,7 @@ updated: 2026-10-29
 | 2025-11-12 | 去 | Alan | We only have CE/FCC/Reach/RoHS/UKCA. Please see attached info and let me know. | Saga 答复 | `a72460754524b4c8` |
 | 2025-12-08 | 去 | Saga（Alan） | Hi, Anders, How are you? We are focusing on Marvell AC3 and AC5 solutions. *Compared with traditional Taiwanese suppliers* 1. Competitive pricing with the same Marvell architecture 2. Flexible OEM terms: even 1 unit is available 3. Fast delivery & small batch production 4. Custom design options (por… | Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `d69d71aab444aaa5` |
 | 2026-09-28 | 内 | Gmail 退信（S 邮箱） | steffo@direktronik.se 永久退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_s 322dcd696af9687a` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Direktronik - dataprodukter utöver det vanliga — Direktronik erbjuder lösningar för nätverksadministration, mediakonverterare, förlängare, fiber-, kopparkablage, mobilt, övervakning, IP-kameror, spänningsmatning. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：EN 18031 不适用于有线设备——这是 RED 指令范围的常识判断，发信前让 Simon 过目一句
 
@@ -160,9 +161,10 @@ updated: 2026-10-29
 - **KP**：Anders Hedin（产品 / 采购经办，非董事；Direktronik AB（556281-9663，1986）为上市集团 Lagercrantz Group 100% 子公司；外聘 VD Henrik Ringstedt、董事长 Mats Rydén；财年 3 月止 2025 营收 133.0 MSEK / 28 人（第 84 批 官方登记核实 2026-10-27））anders.hedin@direktronik.se +46 8 52 400 700（总机）〔Clients/A Replied 09.04.xlsx〕
 - **KP**：Mats Backlund（收件人（A 邮箱 18 封的收件地址之一；他本人从未回信；职务未核））mats.backlund@direktronik.se 〔A 邮箱发件表头（18 封 to）〕
 - **调研后定级**：B（原自动 A）——Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A
-- 备注：A 确认（北欧成熟分销 + 已回复 + 已与中国供应商 E-link 深度合作）：切入点为 E-link 以外的补充 SKU（Marvell 工业 PoE / MC）；P1 = STI-288DGGPM，20% 分销档；VC/SDI 不做。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+A 确认（北欧成熟分销 + 已回复 + 已与中国供应商 E-link 深度合作）：切入点为 E-link 以外的补充 SKU（Marvell 工业 PoE / MC）；P1 = STI-288DGGPM，20% 分销档；VC/SDI 不做。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1）
+### 加厚挖掘（2026-10-21 · 深挖 v1 + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

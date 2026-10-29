@@ -40,10 +40,11 @@
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "9F, No. 208, Sec. 3, Datong Rd., Xizhi Dist., New Taipei City 221（+886-2-6616-2880）（第 116 批 官方登记核实 2026-10-28）",
@@ -118,6 +119,14 @@
     "quote": "工业FS MC SFP 自己的牌子 有人卖他们的",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "National Enhance Technology Corp.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://netsys.com.tw/"
    }
   ],
   "proof_gaps": [],
@@ -126,5 +135,40 @@
    "body": "Hello,\n\nWe have sent you a few mails on \"8 Port Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the Netsys industrial range, we can serve as a second source for Marvell-based DIN-rail 8-PoE + 2 SFP managed switches and gigabit media converters under your label from small lots (−40~75 °C, CE/RoHS) — is there a port count your OEM customers ask for that you do not build in-house?\n\nReference price: DIN-rail 8-PoE + 2 SFP L2 managed industrial switch, 240 W (STI-288GPM) $85.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:46:26Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@netsys.com.tw",
+   "support@netsys.com.tw"
+  ],
+  "phones": [
+   "+886)2-6616-2880",
+   "+886)2-8647-1120",
+   "+886-2-6616-2880"
+  ],
+  "social": [
+   "http://www.linkedin.com/company/3039451/admin/",
+   "https://www.facebook.com/netsys.com.tw"
+  ],
+  "models_on_site": [
+   "NM-2100G",
+   "IEEE802",
+   "RJ-45",
+   "NS-280FX",
+   "NV-320SE",
+   "NV-202G",
+   "ISO-9000",
+   "NHG-200C"
+  ],
+  "url": "https://netsys.com.tw/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

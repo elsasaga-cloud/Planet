@@ -26,10 +26,11 @@
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（检索无果 · 待核）"
+  "level": "B 级加厚 v1（检索无果 · 待核） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "other": "无法核实（域名未被收录）；仅有用户表信息；第 106 批：业务未知 → **不动**；曾 1 次实质回复，若再回信先问公司全称与业务（第 106 批 官方登记核实 2026-10-28）",
@@ -161,6 +162,14 @@
     "quote": "（用户表字段）",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "HOME | EM Innovations",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.eminnovate.com/"
    }
   ],
   "proof_gaps": [
@@ -182,5 +191,23 @@
   "note": "eminnovate.com（美国，表内「基本都是 PLANET 的」）：回复 1 次、2 次跟进；公开检索未坐实但有邮件路径 → 留 B 待坐实（未坐实 + 有路径 ≠ 打回）",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 1，WA —，展会 —，绑定 未发信→轻度））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": []
+ "override_history": [],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:41:53Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "EN50155"
+  ],
+  "url": "https://www.eminnovate.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

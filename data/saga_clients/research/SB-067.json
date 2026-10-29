@@ -54,11 +54,12 @@
  ],
  "grade_override": "B",
  "override_reason": "在采同类国产工业交换机但冷名单无回复、菲律宾非主攻区 → B。",
- "notes": "一封'迈威对位 STI 工业线'邮件。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：deep/facts。\n一封'迈威对位 STI 工业线'邮件。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + 名录核对；「成交」为富通天下外贸数据）"
+  "level": "B 级加厚 v1（官网 + 名录核对；「成交」为富通天下外贸数据） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Citicore Renewable Energy Corporation（SEC Reg. No. CS201807415；BIR TIN 010-007-383-000；PSE 上市）",
@@ -223,10 +224,25 @@
     "quote": "买了迈威的 / 做项目的 / 富通天下",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "CREC is a pure renewable energy company in the Philippines offering clean energy solutions to businesses through sustainable renewable energy projects.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://crec.com.ph/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:22:55Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
  }
 }

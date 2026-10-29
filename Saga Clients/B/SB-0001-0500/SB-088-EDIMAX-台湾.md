@@ -133,7 +133,8 @@ updated: 2026-10-29
 - **KP**：Jesse Chen（採購 / PM（2025-07 對 16 電回 INFO）= 收件人 — 一頁紙一次：貼標 OEM 30%，只給工業線 STI-154GP / 288DGGPM / 488DGGPM / 0240GE + 16 口 PoE STC-2216GP 一口價 + EDIMAX 標 / 自編貨號 / 付費樣機；SFP / 無線 明說不做；守界：同行 不給成本結構— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28））jessechen@edimax.com.tw 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Bruce Yang（研究档联系人 = 抄送（第 116 批 官方登记核实 2026-10-28））bruceyang@edimax.com.tw 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：任冠生（董事長（twfile；上市 3047；統編 22164580；2026-03 代表人變更為 潘良榮）— 不發（第 116 批 官方登记核实 2026-10-28）） 〔https://www.twfile.com/item.aspx?no=22164580&sn=2461840〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照超时 + 表内：台系品牌 OEM））
 

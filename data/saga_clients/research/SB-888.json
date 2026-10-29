@@ -2,7 +2,7 @@
  "code": "SB-888",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（unreachable）",
+ "website_status": "快照失败（stordis.com：域名不可达（DNS/连接失败），2026-10-21，第 1 次）",
  "summary": "德国 STORDIS（开放网络/白盒交换机分销商，英国有分公司；表内「AC5 芯片交换机很多，高速」；KP Tomasz Sadowski（Technical）、Mariusz Ślęzak；官网 unreachable）；群发 6 次无回复。",
  "type": "开放网络分销商（德国/英国，Marvell AC5 平台）",
  "size": "",
@@ -49,7 +49,7 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
@@ -138,5 +138,14 @@
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:24:32Z"
+  ],
+  "fails": [
+   "2026-10-21"
+  ],
+  "batch": "LT-T03"
  }
 }

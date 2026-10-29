@@ -50,10 +50,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "韩国",
@@ -134,6 +135,14 @@
     "quote": "Managed PoE Switches",
     "why": "本日去信真实主题（邮箱索引 e174a2bfb0da38d7；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封）",
     "k": "e174a2bfb0da38d7"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "(주)써보테크TS — 자동화, PLC, 서보 모터, 인버터, 감속기, 케이블, 미쓰비시, 아펙스, 바이드뮬러, 알파로보틱스 특약점",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://servo-tech.co.kr/"
    }
   ],
   "proof_gaps": [],
@@ -142,5 +151,25 @@
    "body": "Hello Servo-Tech TS team,\n\nOver the past months you had a few product mails from us - most recently \"Managed PoE Switches\" on 2 October 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the industrial Ethernet switches your automation customers order with PLCs and drives, neutral-brand units at distributor price, EXW, from single pieces, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail 5 x Gigabit unmanaged, 12-36 V DC - model STI-050GE - $17.0 USD; 8 x Gigabit + 2 x SFP unmanaged - STI-280GE - $46; 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - STI-288GPM - $78.9. KC stays on your side.\n\nOne question: which configuration sells most in your customers' panels - the 5-port, or the 8 + 2 with fibre?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:25:46Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@servo-tech.co.kr"
+  ],
+  "phones": [],
+  "social": [
+   "https://www.instagram.com/servotech_ts/"
+  ],
+  "models_on_site": [],
+  "url": "https://servo-tech.co.kr/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

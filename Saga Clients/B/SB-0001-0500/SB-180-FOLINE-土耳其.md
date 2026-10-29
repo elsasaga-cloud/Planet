@@ -57,6 +57,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 没做交谈， 拿了名片 / 90 50722 52728 已加 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | FOLİNE BİLİŞİM TEKNOLOJİLERİ SAN VE TİC LTD ŞTİ — FOLINE BİLİŞİM TEKNOLOJİLERi Deneyimli Kadrosu İle Veri Merkezleri, KonteynerVeri Merkezleri, Zayıf Akım Sistemleri ve Yapısal Kablolama Sistemleri konularında mühendislik, danışmanlık ve uygulama hizmetleri vermektedir | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库
 
@@ -124,9 +125,10 @@ updated: 2026-10-29
   > 没做交谈， 拿了名片 / 90 50722 52728 已加
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Mahmut Cesur（Genel Müdür（名片）= 总经理 = 联系人（大概率老板；Ltd. Şti. 登记不免费）；数据中心 / 集装箱数据中心工程商 → CENTEC 敲门砖对口（第 86 批 官方登记核实 2026-10-27））mahmut.cesur@foline.com.tr（用户表） +90 507 225 27 28（用户表，WhatsApp 已加）〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

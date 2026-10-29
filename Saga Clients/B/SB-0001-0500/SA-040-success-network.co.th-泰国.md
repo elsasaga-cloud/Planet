@@ -67,6 +67,7 @@ updated: 2026-10-29
 | 2026-10-20 | 内 | Gmail 退信（S 邮箱） | sawithree@success-network.co.th 永久退信：550 No such recipient here | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_s 098f53c592a27464` |
 | 2026-10-20 | 去 | S 箱（Simon） | 24 Port PoE Managed Switch | 最近一封去信（邮箱索引；去信共 21 封） | `b7d2811f984127c8` |
 | 2026-10-20 | 去 | S 箱（Simon）报价 | 24 Port PoE Managed Switch｜ $180（原句：*Price: 180USD/PC*） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `b7d2811f984127c8` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Success Network and Communication ศูนย์อุปกรณ์เน็ตเวิร์คระบบไอที — บริษัท ซัคเซส เน็ตเวิร์ค แอนด์ คอมมิวนิเคชั่น จำกัด ศูนย์จำหน่ายอุปกรณ์เน็ตเวิร์คครบวงจร ทั้งกล้องวงจรปิด ระบบเครือข่ายองค์กร อุปกรณ์ PoE Switch, Router, Fiber และโซลูชันไอที พร้อมบริการออกแบบและติดตั้งทั่วประเทศ ติดต่อเราที่ Line: @ | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -165,9 +166,10 @@ updated: 2026-10-29
 - **KP**：—（总机）info@success-network.co.th +66 2 973 1966 / +66 81 659 4477（LINE @success_network）〔https://www.success-network.co.th/contact-us/〕
 - **KP**：（Sawithree，姓氏未公开）（ORing 经销名录联系人（销售窗口）；地址 2026-10-20 永久退信（550 No such recipient）→ 失效）sawithree@success-network.co.th +66 2 973 1670-71〔https://oringnet.com/en/where-to-buy/apac〕
 - **调研后定级**：B（原自动 A）——Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A
-- 备注：A 维持（已回复 + 全品类分销 + 已在卖同源产品），但需先向 SmartByte 确认该客户/其上游（Utepo 等）是否为 SmartByte 直客以免渠道冲突；P1 = STC-424DGGPM-280W（对位 Utepo 24 口 PoE L2+），20% 分销档。 ｜ Q-33 标注（2026-10-21）：SmartByte 经销名单内客户，A 级保留，但首触前需 Simon 裁定。 ｜ Q-33 裁定（Simon 2026-10-21）：Success Network 可以跟进。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+A 维持（已回复 + 全品类分销 + 已在卖同源产品），但需先向 SmartByte 确认该客户/其上游（Utepo 等）是否为 SmartByte 直客以免渠道冲突；P1 = STC-424DGGPM-280W（对位 Utepo 24 口 PoE L2+），20% 分销档。 ｜ Q-33 标注（2026-10-21）：SmartByte 经销名单内客户，A 级保留，但首触前需 Simon 裁定。 ｜ Q-33 裁定（Simon 2026-10-21）：Success Network 可以跟进。
 
-### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + 注册 + 原厂经销名录核对））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + 注册 + 原厂经销名录核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

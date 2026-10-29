@@ -72,10 +72,11 @@
  ],
  "grade_override": "A",
  "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "Rosh HaAyin, Central District, Israel（第 90 批 官方登记核实 2026-10-27）",
@@ -343,6 +344,14 @@
     "quote": "We urgently need 10 pieces of DX1518/DX1548 chips… Could you please let us know if you have any of these chips in stock?",
     "why": "芯片请求被拒（Marvell 采购审查）",
     "k": "f77f97cdc39f10a5"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Larch Networks — Tailor-made Network Software and Hardware Development — Larch Networks is a company specializing in systems engineering, deployment, and implementation. The team is made up of experienced professionals with a strong background in managing complex projects, designing systems, and int",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://larch-networks.com/"
    }
   ],
   "proof_gaps": [
@@ -361,5 +370,40 @@
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）"
   }
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:39:50Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "55-966-1282info@larch-networks.com",
+   "info@larch-networks.com"
+  ],
+  "phones": [
+   "+972 (3) 901-6117",
+   "+972 (3) 901-6118",
+   "+972 55-966-1282"
+  ],
+  "social": [
+   "https://www.facebook.com/larch.networks/",
+   "https://www.linkedin.com/company/larch-networks"
+  ],
+  "models_on_site": [
+   "LN-1508G-4XGF-I-M",
+   "LN-1508GP-4XGF-I-M",
+   "LN-1508G-4XGF-I",
+   "LN-1508GP-4XGF-I",
+   "LN-2308GP-2GE-I",
+   "LN-2348GP-4XGF-IR",
+   "LN-2304M-P-2GF-I",
+   "LN-2308M-P-2GF-I"
+  ],
+  "url": "https://larch-networks.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

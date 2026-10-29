@@ -57,6 +57,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-28 | 去 | A/S 群发 | 10G Enterprise SFP Switch、Mini Industrial PoE Switch | 17 封 / 2 次打开 / 0 回｜首封 2025-02-27 → 末封 2026-09-28（17 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | （用户表字段） | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Uniforce - Elektroniczne systemy zabezpieczeń i drony — Elektroniczne systemy zabezpieczeń i drony - Uniforce | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「读而不回」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -128,7 +129,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（网店）
 - **是谁**：波兰波兹南的 CCTV/监控专业网店与分销商：在售 PoE 交换机品牌含 Hikvision（DS-3E0310P-E/M 8 口）、Dahua（PFS3009-8ET1GT-96 8 口 246 zł 净价）、IDIS（DH-2112PF 10+2 SFP 150W 1,782.86 zł 净）、Eneo（IAR-7SG1016MMA 16 PoE + 4 SFP 270W 1,876.07 zł）、ATTE（IPUPS-5-11-F 带缓冲电源 499 zł）。地址 Kórnicka 30 / Bodawska 11, Poznań；+48 61 875 04 76；kontakt@tvprzemyslowa.pl。用户表：WhatsApp 已加，8 次跟进 0 回复。
-- **在卖/在用品牌**：Hikvision, Dahua, IDIS, Eneo, ATTE
+- **在卖/在用品牌**：Hikvision, Dahua, IDIS, Eneo, ATTE, Axis, Teltonika
 - **【网店】法人与地址**
   > TVprzemyslowa sp. z o.o. sp. k., Kórnicka 30, 61-141 Poznań … +48 61 875 04 76 kontakt@tvprzemyslowa.pl
   > 来源：https://tvprzemyslowa.pl/product-pol-5715-Switch-POE-IDIS-DH-2112PF.html（抓取 2026-10-21）
@@ -143,9 +144,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Karol Nowak（Prezes zarządu（UNIFORCE sp. z o.o. = 普通合伙人）/ 创始人（2007-09-24 个体起）= **老板 = 联系人**；prokurent Jerzy Zdzisław Nowak（家族）→ 分销 20% + 自有标签 OEM 30% 可选（第 90 批 官方登记核实 2026-10-27）） 〔https://rejestr.io/krs/817374〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（网店目录核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（网店目录核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -133,7 +133,8 @@ updated: 2026-10-29
   > Rymtech E.A.S Avenida Aviadores Del Chaco 2050 World Trade Center, Torre 3, Piso 14 Asuncion Asuncion 1890
   > 来源：https://www.nsnlookup.com/cage/py（抓取 2026-10-16）
 - **KP**：Ruslan Osorio Guerra（股东 / 负责人（政府采购登记；FIRST 2024 演讲人））—（未公开） —〔https://www.contrataciones.gov.py/proveedor/rymtech-e-a-s.html〕
-- 备注：规格明确（12 光 12 电，2 台）、3 次回复、WA 在线 → 可追溯真实需求且小单可成；南美非主攻区但不需额外投入。P1：SmartByte 12 光 12 电管理型（按 docs/smartbyte/products 核对 24 口 combo 机型，报价前核价），项目价阶 25%。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+规格明确（12 光 12 电，2 台）、3 次回复、WA 在线 → 可追溯真实需求且小单可成；南美非主攻区但不需额外投入。P1：SmartByte 12 光 12 电管理型（按 docs/smartbyte/products 核对 24 口 combo 机型，报价前核价），项目价阶 25%。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v2（政府采购名录 + LinkedIn + 官网核对））
 

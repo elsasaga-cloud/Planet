@@ -67,6 +67,7 @@ updated: 2026-10-29
 | 2024-12-20 | 去 | S 箱（Simon） | 90W PoE Managed Switch | 最近一封去信（邮箱索引；去信共 7 封） | `c91df850a91c2cb9` |
 | 2026-08-17 | 去 | Elsa 群发（BCC；To mintusony@gmail.com，印度-2（锚 mintusony IN；2025-02-25 起月轮，12 轮） 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 info@vicomsecurity.com, vicomsecurity.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-08-17 | 去 | Elsa 箱群发 Bcc | 24 Port PoE Managed Switch｜Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24 | Elsa 群发命中（批 印度-2（锚 mintusony IN；，锚 To mintusony@gmail.com） | `1a00e1740d3438ea` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Vicom Security Private Limited | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 群发 Bcc 已触达（锚月轮 12 轮，最近 2026-08-17）、0 回），仓库未见原文
 
@@ -153,7 +154,7 @@ updated: 2026-10-29
 - **是谁**：印度加尔各答 IP 视频监控/消防/楼宇管理/OFC 网络交钥匙项目公司（1995 年，自有 VICOM 品牌摄像机，30,000+ 项目安装，约 120 人，FY2024 营收 ₹27.1 Cr ≈ 330 万美元）；WA 在线、已开视频会，2 次回复、13 次跟进；需求 4 光 4 PoE 管理型 / 4 光 24 电。
 - **类型**：安防系统集成商 + 自有品牌
 - **规模**：中型（≈120 人，≈$3.3M）
-- **在卖/在用品牌**：VICOM（自有）
+- **在卖/在用品牌**：VICOM（自有）, Siemens
 - **【官网】1995 年起的交钥匙项目公司，30,000+ 项目安装**
   > Founded in 1995 VICOM Security is a professionally managed turnkey project company in the field of IP Video Surveillance – Fire Safety, Plant Communication, Integrated Building Management System, OFC / IT networking… more than 30000+ project installations across India
   > 来源：https://www.vicomsecurity.com/（抓取 2026-10-21）
@@ -172,9 +173,10 @@ updated: 2026-10-29
 - **KP**：（见 Clients 表联系人）（） +91 98300 30444（WA）/ +91 33 2287 2290〔用户 Clients 表 + RocketReach〕
 - **KP**：Rajesh Kumar Bhutoria（Director 兼股东（DIN 00516745，1995 创立至今）= 老板；另一董事 Praloy Shankar Chowdhury（2013 起）（第 83 批 官方登记核实 2026-10-27）） 〔https://www.tofler.in/vicom-security-private-limited/company/U51109WB1995PTC070096〕
 - **调研后定级**：B（原自动 A）——Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A
-- 备注：已开视频会 + 自有品牌 + 明确机型需求 = 可做 OEM（VICOM 贴牌）。印度非主攻区但项目体量可观。P1：4 光 24 电管理 PoE → STC-424DGGPM-280W（4 SFP 版本核对）；4 光 4 PoE 管理 → STI 工业 4 电 4 光机型（核价）；OEM 价阶 30%。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+已开视频会 + 自有品牌 + 明确机型需求 = 可做 OEM（VICOM 贴牌）。印度非主攻区但项目体量可观。P1：4 光 24 电管理 PoE → STC-424DGGPM-280W（4 SFP 版本核对）；4 光 4 PoE 管理 → STI 工业 4 电 4 光机型（核价）；OEM 价阶 30%。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1）
+### 加厚挖掘（2026-10-21 · 深挖 v1 + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

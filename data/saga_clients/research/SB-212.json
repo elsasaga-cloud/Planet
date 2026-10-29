@@ -2,7 +2,7 @@
  "code": "SB-212",
  "name_official": "ФТИ-Оптроник（FTI-Optronic，АО/ООО，圣彼得堡；fti-optronic.com）",
  "researched_at": "2026-10-21",
- "website_status": "在线（搜索可见；快照 2026-10-21 unreachable——俄站对境外 IP 限制）",
+ "website_status": "快照失败（fti-optronic.com：域名不可达（DNS/连接失败），2026-10-21，第 1 次）",
  "summary": "俄罗斯圣彼得堡的光模块/媒体转换器**制造商与品牌商** ФТИ-Оптроник（生产 1×9/SFP/SFP+/XFP/QSFP/CFP 光模块、光纤媒体转换器、转换器机箱，并售工业 MC；地址 Политехническая 28；info@fti-optronic.com，8 800 333 04 94）。表内兴趣 MC/SFP/机架，2024-04 对群发的 5 电口交换机回「有兴趣」；18 次推送 1 次实质回复。MC/SFP 与 Saga 重叠（同行），但交换机可做其品牌补充品类 → B 30%（OEM 贴牌），俄罗斯结算/合规风险注明。",
  "type": "",
  "size": "",
@@ -54,7 +54,7 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（官网 + 登记核对 · 同行品牌/OEM 判断）"
@@ -159,5 +159,14 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:37:20Z"
+  ],
+  "fails": [
+   "2026-10-21"
+  ],
+  "batch": "LT-T03"
  }
 }

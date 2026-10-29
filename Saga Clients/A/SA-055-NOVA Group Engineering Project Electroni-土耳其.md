@@ -62,6 +62,7 @@ updated: 2026-10-29
 | 2024-08-10 | 去 | S 箱（Simon）报价 | 10G media converter｜ $65（原句：Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unma） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `eae4bec0a71847bf` |
 | 2024-11-05 | 去 | Simon → Angora Networks（SA-077）附件 Turkey Client List.xlsx | 名单行：「switch info@nova-grup.com https://www.novacom.com.tr/urun-kategori/poe-switch/」 | Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持） | `gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx` |
 | 2026-10-06 | 去 | A 箱（Alan） | Managed PoE Switches | 最近一封去信（邮箱索引；去信共 24 封） | `dc7c0490ebc381fe` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Anasayfa - Novacom Technology — NVC-IPC5100 Plus 5.4'' Kamera Test Cihazı Güvenliğiniz İçin Her Detayı Kontrol Edin.Her Görüş Açısını Denetleyin! İncele Gözlerinizi Büyüleyen Ekran Deneyimi! Netlikte Sınır Tanımayan Monitör Teknolojisi! İncele Profesyonel Özellikler Maksimum Performans Formuler Z11  | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文；在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）
 
@@ -174,9 +175,10 @@ updated: 2026-10-29
   > 来源：https://www.novacom.com.tr/urun/nvc-hif2422gbl-c-poe-switch（抓取 2025-06-20）
 - **KP**：Ali Pekyürek（**非 Genel Müdür**（用户记录「CEO」待修正）：Genel Müdür 为 Cem Aytaç；Ali Pekyürek 为管理层 / 股东待核；Nova Grup Mühendislik（Ankara 2002）= 进口商 + 自有品牌 Novacom + 4 城门店 + TSE 服务站，35–36 人（第 85 批 官方登记核实 2026-10-27））ali@nova-grup.com +90 533 715 9226（用户记录）〔用户 Clients 表（ISAF 2025 现场）〕
 - **KP**：Cem Aytaç（Genel Müdür（总经理；官网 TSE 服务站清单 / ZoomInfo）= 拍板人（第 85 批 官方登记核实 2026-10-27）） 〔https://www.zoominfo.com/c/nova-grup/1319836017〕
-- 备注：土耳其主攻区 + 展会面对面 + CEO 级 + 明确 OEM/工业线扩展意向；'新桥/ONV 在用'说明是白牌采购惯手。P1：STI-288DGGPM（工业 8 电 2 光 PoE）做其工业线首款，OEM 价阶 30%；邮件 0 回复 → 改走 WeChat（Evelyn 已加 Ali）。消防/对讲等品类不涉。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+土耳其主攻区 + 展会面对面 + CEO 级 + 明确 OEM/工业线扩展意向；'新桥/ONV 在用'说明是白牌采购惯手。P1：STI-288DGGPM（工业 8 电 2 光 PoE）做其工业线首款，OEM 价阶 30%；邮件 0 回复 → 改走 WeChat（Evelyn 已加 Ali）。消防/对讲等品类不涉。
 
-### 加厚挖掘（2026-10-21 · 深挖 v2（官网 NVC 自有品牌目录核对））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网 NVC 自有品牌目录核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

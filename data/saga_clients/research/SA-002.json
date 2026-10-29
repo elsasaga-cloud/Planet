@@ -49,11 +49,12 @@
    "source": "https://rocketreach.co/frank-neuperger-email_64101596 ; https://cage.report/DUNS/087787573；S 邮箱 2024-12 来信表头 4 封"
   }
  ],
- "notes": "A 级确认：自有品牌加固交换机 = 最优 OEM 客户类型；注意其应用含轨道/ITS，Saga 无 EN50155，只按 DIN 工业 L2+ 对位。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\nA 级确认：自有品牌加固交换机 = 最优 OEM 客户类型；注意其应用含轨道/ITS，Saga 无 EN50155，只按 DIN 工业 L2+ 对位。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1"
+  "level": "深挖 v1 + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "SIMREX CORPORATION（Delaware 注册，纽约 Buffalo 经营；CAGE 1WEC8；SAM 分类 U.S. manufacturer；Woman Owned）（第 83 批 官方登记核实 2026-10-27）",
@@ -215,6 +216,14 @@
     "quote": "We have this model… similar to Mikrotik model. Both are Marvell based… Price is 130USD/PC for single AC input.  [附件：STC-424XGGM.docx、Saga Feature List_7.5.x_L2+.xlsx、Dual AC.jpg → 报的是 STC-424XGGM 单 AC $130；双 AC 版可做]",
     "why": "Saga 对位；型号 = STC-424XGGM（2026-10-24 从附件名核实）",
     "k": "06610cfbde4173c3"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "SIMREX Corporation — A wireless data communications equipment manufacturer for mobile and stationary wireless networks and monitoring / tracking applications.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "http://www.simrex.com/site/"
    }
   ],
   "proof_gaps": [
@@ -225,5 +234,29 @@
    "body": "Did the 130-USD Marvell unit get a lab slot? If your NMS only needs SNMP discovery + port stats, I can send the OID list first."
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:19:33Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [],
+  "social": [
+   "http://www.simrex.com/site/apps/traffic.htm",
+   "http://www.simrex.com/site/compinfo/contact.htm",
+   "http://www.simrex.com/site/index.htm",
+   "http://www.simrex.com/site/products/broadband.htm"
+  ],
+  "models_on_site": [
+   "RS-232",
+   "RS485"
+  ],
+  "url": "http://www.simrex.com/site/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

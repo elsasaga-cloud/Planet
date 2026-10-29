@@ -54,6 +54,7 @@ updated: 2026-10-29
 | 2024-07-04 | 去 | S 箱（Simon） | 10G media converter | 首封去信（邮箱索引；去信共 28 封） | `4a25bf2c14223ec6` |
 | 2026-09-17 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 最近一封去信（邮箱索引；去信共 28 封） | `9bc0cb22b735b9b5` |
 | 2024-05-10 | 来 | sales@tyconsystems.com | Automatic reply: 5 port industrial switch｜Hello,  I am out of the office until Monday. We have received this email and will respond as soon as possible.  If you n | 自动回复/退信（机器，不算人工回复） | `7feaa342e0d73d83` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Remote Solar Power, Mobile Surveillance Trailers & PoE Systems \| Tycon Systems — Tycon Systems designs & builds mobile solar security trailers, PoE equipment, and remote power systems for surveillance, communications, and off-grid applications. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -172,9 +173,10 @@ updated: 2026-10-29
 - **KP**：Andy Pierre（） 〔用户表〕
 - **KP**：Daimyn Duong（研究档 KP（职务未核）= 抄送（第 102 批 官方登记核实 2026-10-28））daimyn@tyconsystems.com 〔用户表〕
 - **KP**：Scott Parsons（President / 创办人（Tycon Systems Inc.；SAM UEI V8M1PCBVGN91）= **拍板人本人 = 收件人**（第 102 批 官方登记核实 2026-10-28））scottp@tyconsystems.com 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4） ｜ 针对性加厚 2026-10-22（ImportYeti 海关提单，T29-U13）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4） ｜ 针对性加厚 2026-10-22（ImportYeti 海关提单，T29-U13）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

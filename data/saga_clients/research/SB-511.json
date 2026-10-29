@@ -47,10 +47,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "韩国",
@@ -132,6 +133,14 @@
     "quote": "工业FS 自己的品牌 NEXi",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "리버샵 - Rivershop — 리버네트워크의 넥시 브랜드 공식 쇼핑몰 - 모니터 케이블, 인터넷 선, 모니터 받침대 등 다양한 NEXI 제품을 만나보세요.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://rivershop.co.kr/"
    }
   ],
   "proof_gaps": [],
@@ -140,5 +149,37 @@
    "body": "Hi Scale,\n\nWe have sent you a few mails on \"Managed Optical Bypass Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE and industrial switches sold under the NEXI label, we can be an ODM source (8-PoE + 2 SFP L2+, DIN-rail 8-PoE + 2 SFP, 2.5G options; managed versions on a Marvell platform) from small lots in your retail packaging, CE/RoHS; KC by your side — which network SKU sells most in the Rivershop range?\n\nReference price: 8-PoE + 2 × 1G/2.5G SFP L2+ managed switch (Marvell AC5), 120 W (STC-28DGGPM) $87.4 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:42:29Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   ".riverbiz@goriver.co.kr",
+   "riverbiz@goriver.co.kr"
+  ],
+  "phones": [],
+  "social": [
+   "https://www.facebook.com/RiverShop24/",
+   "https://www.instagram.com/nexi_rivershop/",
+   "https://www.youtube.com/@Rivershops"
+  ],
+  "models_on_site": [
+   "CAFE24",
+   "NX1671",
+   "NX986",
+   "NX987",
+   "NX988",
+   "NX989",
+   "NX-H1000",
+   "NX1322"
+  ],
+  "url": "https://rivershop.co.kr/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

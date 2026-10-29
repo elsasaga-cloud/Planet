@@ -7,7 +7,9 @@
  "type": "",
  "size": "",
  "brands_seen": [
-  "PLANET"
+  "PLANET",
+  "Ubiquiti",
+  "Korenix"
  ],
  "evidence": [
   {
@@ -98,10 +100,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-089，W 批次调研 2026-10-19/20）"
+  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-089，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "DANBIT A/S（Dansk Binær Teknik；CVR 78788216）",
@@ -258,6 +261,14 @@
     "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
     "why": "Elsa 箱群发 BCC 触达证据（命中地址 danbit.dk, salg@danbit.dk）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
     "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Danbit - Leverandør af IT-produkter til professionelle — DANBIT A/S er en danskejet teknologileverandør, der siden 1970 har været den foretrukne leverandør af specialvarer til professionelle.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://danbit.dk/da/"
    }
   ],
   "proof_gaps": [
@@ -265,5 +276,38 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:27:58Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "navn@firma.dk"
+  ],
+  "phones": [
+   "+45 56 66 20 20"
+  ],
+  "social": [
+   "https://www.instagram.com/danbit_dk/",
+   "https://www.linkedin.com/company/danbitdk/posts/?feedView=all",
+   "https://www.youtube.com/channel/UCfyraEu7YWUXbkqYci2xaXg"
+  ],
+  "models_on_site": [
+   "RS232",
+   "RS485",
+   "RS-232",
+   "ESW8G-M-SFP4P",
+   "DB15HD",
+   "ESW8G-M",
+   "HDMI-MATRIX32X32-M",
+   "RS-485"
+  ],
+  "url": "https://danbit.dk/da/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

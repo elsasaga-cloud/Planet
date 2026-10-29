@@ -56,6 +56,7 @@ updated: 2026-10-29
 | 2026-09-25 | 去 | A/S 群发 | Managed Optical Bypass Switch、Industrial PoE Switch | 34 封 / 0 次打开 / 0 回｜首封 2024-06-27 → 末封 2026-09-25（34 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | PoE相关 | 表内备注 | `用户表` |
 | 2026-09-25 | 去 | A 箱（Alan） | Managed PoE Switches | 本日去信真实主题（邮箱索引 0522f76078a28b2d；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封） | `0522f76078a28b2d` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | C4Line — C4Line is the pioneer technology company for the IP Extender & Communication devices. 씨포라인은 IP Ethernet over Coax/UTP/2Wire 제품등 IP 디바이스의 장거리 전송에 필요한 산업용 모뎀을 자체 개발, 생산 하는 전문업체 입니다. 해외 유수의 업체들과 글로벌 파트너십을 맺고 있으며 탄탄한 기술력을 바탕으로 현재 미래 전송장비를 선도적으로 개발하고 있습니다. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -149,9 +150,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Gun Kim（김건）（대표 씨포라인 C4Line（2024-07 新法人；rndcircle）/ OEM/ODM Product Manager = 拍板人 / 收件人（第 115 批 官方登记核实 2026-10-28））shkim@c4line.com 〔用户表〕
 - **KP**：Sung Kim（President / MD C4Line（rocketreach）= 抄送（第 115 批 官方登记核实 2026-10-28））info@c4line.com 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

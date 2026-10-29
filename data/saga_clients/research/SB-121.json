@@ -61,10 +61,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + LinkedIn 核对）"
+  "level": "B 级加厚 v1（官网 + LinkedIn 核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "STORM ICT L.L.C.（Prishtinë；Storm Group（HR）成员；ARBK 商业编号未取；NCAGE A08RH）",
@@ -131,6 +132,14 @@
     "quote": "英文很好， 平时用工业级交换机，PoE用的多， 带管理， 拿了彩页 / 383 3873 2732 加不上 383 49637000 加不上",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Account Suspended",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://storm-ict.com/cgi-sys/suspendedpage.cgi"
    }
   ],
   "proof_gaps": [
@@ -141,5 +150,12 @@
    "body": "Hi Alban,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth about managed industrial PoE.\n\nThe unit: DIN-rail 8 x Gigabit PoE+ (240 W budget) + 2 x SFP, L2+ managed with ring redundancy, Marvell-based, -40 to 75 C, CE/RoHS - model STI-288DGGPM - $137.5 USD EXW (MOQ 1, 15-day validity). For larger cabinets, a 16 x PoE+ + 2 x SFP industrial unmanaged unit, STI-21616GP, $177.5.\n\nOne question: how many units does your next infrastructure project in Pristina or Skopje need?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:23:34Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
  }
 }

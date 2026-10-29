@@ -65,6 +65,7 @@ updated: 2026-10-29
 | 2025-08-08 | 来 | Peter | Thanks.. I'd be interested in the pricing… | 第二轮 | `42afe1e39f3c25e0` |
 | 2025-08-09 | 去 | Alan | 225usd/pc, L2+ managed 310usd/pc, L3 managed | 报价 | `7533abba594ebc6d` |
 | 2025-08-11 | 来 | Peter | No worries. Thank you | 停点 | `dfc4ee1cd58c07be` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | antronix.com | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -187,9 +188,10 @@ updated: 2026-10-29
   > 来源：https://www.cbinsights.com/company/antronix（抓取 2024-09-23）
 - **KP**：Jim Taxdahl（VP Sales（非买方、非股东）；Antronix 为 NJ 公司（1980-03-12），Tang 家族持有：Danny Tang（2016 年故）→ 子 Neil Tang CEO/CTO；2018 与 Teleste 合资（第 84 批 官方登记核实 2026-10-27））jimtaxdahl@antronix.com +1 609-860-0160（总机）〔https://antronix.com/about-antronix/〕
 - **KP**：Peter Tarquinio（联系人（用户表））petertarquinio@antronix.com 〔Clients/A Replied 09.04.xlsx〕
-- 备注：A 确认（美国品牌商 + VP 级直联 + 明确 2.5G/10G 需求）：P1 = STC-424XGGPM-280W（24×2.5G PoE + 10G 上联）或 STC-448XGGM(L3)，30% OEM 档；运营商 MDU 场景强调 Marvell 方案与 L3 功能。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+A 确认（美国品牌商 + VP 级直联 + 明确 2.5G/10G 需求）：P1 = STC-424XGGPM-280W（24×2.5G PoE + 10G 上联）或 STC-448XGGM(L3)，30% OEM 档；运营商 MDU 场景强调 Marvell 方案与 L3 功能。
 
-### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + 进口记录 + 合资））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + 进口记录 + 合资） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -61,6 +61,7 @@ updated: 2026-10-29
 | 2024-06-20 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「发了几个商业交换机图」→ 对方「Email发了2光2小壳信息」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/Whatsapp_S跟进 2026.08.04.xlsx no.34 2024.6.20` |
 | 2024-09-23 | 去 | S 群发 | Industrial Fiber Switch、8 Port 2.5G Switch | 2 封 / 0 次打开 / 0 回｜首封 2024-06-20 → 末封 2024-09-23（2 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 回复：是PoE吗？；Are they Giga Ethernet Switches；可能会用到 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | TeraTech \| Tera Technologies and Engineering Ltd — Tera Technologies and Engineering Ltd - Transforming Industries with Advanced Tech. Industrial Automation, IoT Solutions, and Cybersecurity services. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -138,9 +139,10 @@ updated: 2026-10-29
 - **KP**：Ramadhani Ndijuye（联系人（研究档 KP；2024–2025 问 5 电口价 / 确认千兆 / 工业 16–24 口「可能会用到」）= 收件人 — 一页纸一次：集成商 25% B、STI-054GP / STI-154GP + STI-288DGGPM $137 / STC-2216GP 一口价 + MOQ 1 + 付费样机；抄 CEO 公共箱 — 坦桑尼亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 达市、TBS / TCRA 不声称（第 122 批 官方登记核实 2026-10-29））rndijuye@gmail.com +255 769 320 545〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Eng. Daudi Charles（CEO & Co-Founder（官网 about 2026-10-29；ERB 注册工程师）（第 122 批 官方登记核实 2026-10-29））info@teratech.co.tz +255 754 247 576〔https://ttel.co.tz/about〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + LinkedIn + 名录核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + LinkedIn + 名录核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

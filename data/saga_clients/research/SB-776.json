@@ -61,10 +61,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "16 Kallang Place #06-01/04, Singapore 339156（+65 6357 0668）（第 116 批 官方登记核实 2026-10-28）",
@@ -131,10 +132,51 @@
     "quote": "10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring（正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
     "why": "Elsa 箱群发 BCC 触达证据（命中地址 prolink2u.com, sales@prolink2u.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
     "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Prolink - Connect Your Life — Prolink is your trusted source for digital solutions since 1991, offering electronic gadgets, computer networking and communications, power supplies, and more. Explore our wide range of easy plug-and-play solutions designed to simplify your everyday life. Delivering exc",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://prolink2u.com/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:47:16Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "u003ewordsmithery.sg@gmail.com",
+   "wordsmithery.sg@gmail.com"
+  ],
+  "phones": [],
+  "social": [
+   "https://www.facebook.com/global.prolink/",
+   "https://www.instagram.com/prolinkofficial/",
+   "https://www.linkedin.com/company/prolink2u/",
+   "https://www.youtube.com/user/PROLiNKGlobal/featured"
+  ],
+  "models_on_site": [
+   "DS-3307",
+   "DS-3306",
+   "DL-7211",
+   "DS-3308",
+   "DS-3605",
+   "PRO700SFC",
+   "PRO901-ERS",
+   "DL-7203E"
+  ],
+  "url": "https://prolink2u.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

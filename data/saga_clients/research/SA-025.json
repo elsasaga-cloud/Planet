@@ -9,7 +9,9 @@
   "Eagle Eye Networks",
   "Brivo",
   "Alula",
-  "Honeywell"
+  "Honeywell",
+  "Aruba",
+  "Ubiquiti"
  ],
  "evidence": [
   {
@@ -64,11 +66,12 @@
    "source": "https://securitytekton.com/pages/about-us"
   }
  ],
- "notes": "A 维持（美国本土集成商 + 2 次实质回复），但单量小（自装项目用 8/16 口 PoE）；P1 = STC-28DGGPM，25% 集成商档；注意 UL：仅报 CE/FCC（Saga 无 UL）。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\nA 维持（美国本土集成商 + 2 次实质回复），但单量小（自装项目用 8/16 口 PoE）；P1 = STC-28DGGPM，25% 集成商档；注意 UL：仅报 CE/FCC（Saga 无 UL）。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v2（官网 securitytekton.com + 目录核对）"
+  "level": "深挖 v2（官网 securitytekton.com + 目录核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "AVENGER SECURITY SERVICES INC（Texas 0800828533；Hutto TX；Owner Brandon Walter Adams）",
@@ -208,6 +211,14 @@
     "quote": "1, yes, it is 3A max for input current. For over-current protection, its bigger than this… DIP is also an interesting function. 2, it will be shipped from China via DHL/UPS/FedEx. 3, price is 35usd/pc. STI-244GP: 2*Gigabit SFP+4*10/100/1000M RJ45, PoE af/at, 120W, Unmanaged, Support DIP, DC44V~DC57V (Removable 4 PIN Terminal Block), -40℃ to 75℃, Din mounted, Without optical module, without power adapter",
     "why": "给了价没给运费档位；此后 Brandon 沉默，Saga 再群发 9 封无回",
     "k": "gmail_a 2c55cbead61c8075"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Avenger Security | Austin, TX — Access Control, Fire & Monitoring — Austin commercial security: access control, fire alarms, video surveillance, and UL-listed 24/7 monitoring. No long-term contracts. Local install & service.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://securitytekton.com/"
    }
   ],
   "proof_gaps": [
@@ -219,5 +230,37 @@
    "body": "Hi Brandon,\n\nLast September you asked about the DIN-rail PoE switch for your solar configurations and I only half-answered, so here is the whole thing in one place.\n\nSTI-244GP — 2 x gigabit SFP + 4 x gigabit PoE+ (120 W), 44–57 V DC input on a removable terminal block, over-current protection, DIP switch, −40 to +75 °C, DIN mount: $35 USD EXW per unit.\nShipping: from China by DHL/UPS/FedEx, about a week door to door to Austin; I will put the exact freight for 2 pcs and for 10 pcs on the quote.\nIf you also still want the 16-port DIN gigabit switch you asked about in June: $100 USD EXW (unmanaged, 12–58 V DC).\n\nPrices valid 15 days; CE/FCC/RoHS; 3-year warranty on the industrial units.\n\nOne question: how many solar or off-grid sites are you fitting this season? If there is one coming up, I will send two units so you can put one on the bench and one on a site.\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:19:43Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "brandon@getsecurityalarm.com",
+   "info@getsecurityalarm.com"
+  ],
+  "phones": [],
+  "social": [
+   "https://www.facebook.com/masterintegrators",
+   "https://www.instagram.com/securityprophet/",
+   "https://x.com/Get_Security"
+  ],
+  "models_on_site": [
+   "TL880LT",
+   "ANCP3005Q",
+   "PG9984P",
+   "PG9936",
+   "DW-433",
+   "PG9303",
+   "HS2064",
+   "B-BUC3-37-SF25"
+  ],
+  "url": "https://securitytekton.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

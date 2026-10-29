@@ -64,6 +64,7 @@ updated: 2026-10-29
 | 2024-11-05 | 去 | Simon → Angora Networks（SA-077）附件 Turkey Client List.xlsx | 名单行：「Munevver Acarer import eds@eds.com.tr 90 216 528 45 00 Eds protection technology」 | Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持） | `gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx` |
 | 2024-11-13 | 去 | S 箱（Simon）报价 | 48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `57581384353465d0` |
 | 2026-03-05 | 去 | A 箱（Alan） | Updated Ethernet Switches Links | 最近一封去信（邮箱索引；去信共 12 封） | `6e89b919a842eec0` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Güvenlik Elektronik Sistemleri Üreticisi — EDS Elektronik 1990 yılından beri Türkiye'nin öncü Güvenlik Elektronik Üreticisidir. Hırsız Alarm, Yangın Algılama, Ortam İzleme, IOT, Kablosuz, Hemşire Çağrı, İpli Çağrı, Anons, Erişim Kontrol, Güç Kaynağı, Siren | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文；在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）
 
@@ -158,9 +159,10 @@ updated: 2026-10-29
 - **KP**：Münevver Acarer（Import（用户表））—（待核） —〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Gülnihal Özdemir Yılmaz（Import Export / Supply Chain Manager（名录公开））—（待核） —〔https://finalscout.com/company/eds_elektronik〕
 - **调研后定级**：B（原自动 B）——Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B5 四主区+对位（冷）；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B→A 加厚 v1（官网 + 名录核对；以前客户））
+### 加厚挖掘（2026-10-21 · B→A 加厚 v1（官网 + 名录核对；以前客户） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

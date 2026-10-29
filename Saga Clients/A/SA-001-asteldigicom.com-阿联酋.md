@@ -77,6 +77,7 @@ updated: 2026-10-29
 | 2025-11-27 | 去 | Saga PI STAG20251127018（Alan） | Buyer: ASTEL DIGICOM Electronics LLC（Sanjay Singla, GM；navsim@eim.ae / asteldigicom@eim.ae）Payment Term: T/T in advance, EXW；Shipping Address: Client's forwarder in Guangzhou；STI-110GE（1×GE SC SM 20KM + 1×RJ45，非 PoE 非管理，-40~75℃）2 pcs × $26.5 = $53.0；HS 8517622990 | 最新 PI 原文（2025-12-01 由客户回传）：ASTEL 小批量工业 MC 式交换机 $26.5 EXW，客户自有广州货代 → 物流「客户货代」线；主表 STI-110GE 列表 $29.7 | `gmail_a att STAG20251127018.pdf` |
 | 2025-11-27 | 内 | Simon 成本表（PI 包） | 内部《成本统计.xlsx》：STAG20251127018：成本 934 / 收款 1,202 / 利润 268（22.3%） | 利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md | `cost_sheet` |
 | 2025-12-01 | 来 | Sanjay | We have processed your payment… Shipping address and Shipping marks have been advised on WeChat. | 付款；邮件到此为止 | `0cc642cb3b5505fb` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Astel Digicom I House of all kinds of cables and connectors — Looking forward to buying elevator cable or networking cable or fiber optic cable in Dubai? Astel Digicom provides all types of cables, connectors, splice machine, networking equipment. Order Now. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：2025-12 之后全部在 WeChat（Simon 手机）：标书结果、样品评测、是否有第二单——仓库无
 
@@ -191,9 +192,10 @@ updated: 2026-10-29
   > 来源：https://rocketreach.co/astel-digicom-electronics-llc-management_b41a35eeff64aa38（抓取 2026-10-23）
 - **KP**：Sanjay Singla（General Manager）asteldigicom@eim.ae; navsim@eim.ae 〔PI.zip 单据〕
 - **调研后定级**：A（原自动 A）——PI 包成单客户，Simon 标签 可发展 → A
-- 备注：成单客户，S 重点名单；下一步按老客户回访做，主推工业 PoE 整线（替代其在卖的 ONV）。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+成单客户，S 重点名单；下一步按老客户回访做，主推工业 PoE 整线（替代其在卖的 ONV）。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1）
+### 加厚挖掘（2026-10-21 · 深挖 v1 + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -6,7 +6,9 @@
  "summary": "菲律宾光纤网络产品公司 Fibercom Telecoms（用户表注：网站以 SFP/networking 为主；inquiry@fibercomtelecoms.com）。用户表（富通天下外贸数据）：「买了很多跳线」= 从中国进口大量光纤跳线，非 Saga 成交；E 冷名单 1 次跟进 0 回复。光纤配件经销商 → 2 SFP 交换机与 MC 为配套品类。",
  "type": "",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "PLANET"
+ ],
  "evidence": [
   {
    "kind": "用户表",
@@ -25,10 +27,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（基于用户表整理 + 需求映射；「成交」为富通天下外贸数据）"
+  "level": "B 级加厚 v1（基于用户表整理 + 需求映射；「成交」为富通天下外贸数据） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Fibercom Telecom Phils., Inc.（官网页脚；SEC 号 1 查未得）",
@@ -181,10 +184,46 @@
     "quote": "买了很多跳线 / 网站：SFP networking / 富通天下",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Fibercom Telecom | Leading Fiber & Turnkey ICT Solutions — Finbuzz WordPress Business Theme",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://fibercomtelecoms.com/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:39:18Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "inquiry@fibercomtelecoms.com",
+   "sales@fibercomtelecoms.com"
+  ],
+  "phones": [
+   "+63 995 581 4199",
+   "+63 995-581-4199"
+  ],
+  "social": [
+   "https://www.linkedin.com/company/fibercom-telecom-phils-inc/posts/?feedView=all"
+  ],
+  "models_on_site": [
+   "SFP-3D",
+   "STM-1",
+   "ETX-1"
+  ],
+  "url": "https://fibercomtelecoms.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

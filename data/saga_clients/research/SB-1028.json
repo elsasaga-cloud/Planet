@@ -40,10 +40,11 @@
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "美国",
@@ -132,6 +133,14 @@
     "quote": "MC FS 非常多的周边产品",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Fiber Savvy | Home — Technology Driven & Going the Distance at the Speed of Light! We specialize in Fiber Optic Distribution. We carry a wide variety of fiber optic cables and accessories.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.fibersavvy.com/"
    }
   ],
   "proof_gaps": [
@@ -142,5 +151,37 @@
    "body": "Hello Fiber Savvy team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 8 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the bulk fibre and accessories in your shop, two small active items that sell with fibre runs:\n\n- Industrial mini Gigabit media converter, 1 x RJ45 + 1 x SFP slot (SC/LC optics of your choice), DIN-rail, 12-58 V DC, model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity)\n- Compact industrial switch, 2 x Gigabit + 2 x SFP, model STI-220GE - $27.8 USD EXW\n\nFCC/CE/RoHS; neutral packing or your label; we do not supply the SFP optics themselves.\n\nOne question: which converter configuration do your customers order most with a fibre run - single-mode 20 km, multimode, or SFP-slot so they pick the optic?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:28:38Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@fibersavvy.com"
+  ],
+  "phones": [],
+  "social": [
+   "https://twitter.com/fibersavvy?lang=en",
+   "https://www.facebook.com/FiberSavvy/",
+   "https://www.instagram.com/fiber_savvy/",
+   "https://www.linkedin.com/in/fiber-savvy-819b0734"
+  ],
+  "models_on_site": [
+   "SC-1M",
+   "FB5-2569-LC",
+   "FB24-2612LCC12",
+   "FB24-2613LCG12",
+   "FB36-4296WM",
+   "FB24-4022LCC24",
+   "TL7-5908",
+   "TL5-2963"
+  ],
+  "url": "https://www.fibersavvy.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

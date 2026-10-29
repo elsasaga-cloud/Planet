@@ -59,6 +59,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-08-20 | 去 | Elsa 群发（BCC；To info@rasatechbd.com，IN/BD+TR 个别 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 contact@technosys.co.in, technosys.co.in）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 工业FS MC（Etherwan的） / 买了台湾KONTEN的工业FS / 富通天下 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Home - TECHNOSYS | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -130,9 +131,10 @@ updated: 2026-10-29
 - **KP**：（见 Clients 表联系人）（） 〔用户 Clients 表〕
 - **KP**：Randhir Kumar Singh（Proprietor TECHNOSYS（GST 登记人）— 个体微型，不动（第 114 批 官方登记核实 2026-10-28）） 〔https://www.knowyourgst.com/gst-number-search/technosys-27AWZPS2792Q2ZY/〕
 - **调研后定级**：B（原自动 A）——无互动、印度非主攻区；EtherWAN 在用（台系高价）本可替代，但证据不足 → B。
-- 备注：首触一封：EtherWAN 工业 PoE 对位 STI-288DGGPM 价差。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+首触一封：EtherWAN 工业 PoE 对位 STI-288DGGPM 价差。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对；「成交」为富通天下外贸数据））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对；「成交」为富通天下外贸数据） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

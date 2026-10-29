@@ -174,7 +174,8 @@ updated: 2026-10-29
 - **KP**：Jacques Plessis（联系人（研究档）— 一页纸一次（Attn: Network Product Manager）：分销 20%（对价在售 PLANET GS-4210-8P2S → STC-228GP / STI-154GP）↔ 贴标 OEM 30%（Securi-Prod 网络线）双轨 B；2025-10 报价为开场 — 南非常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 约堡、ICASA / NRCS 不声称（第 120 批 官方登记核实 2026-10-29））enquiries@regalsecurity.co.za +27 87 802 3920〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Josephine（）sales@regalsecurity.co.za 〔（本地 Clients/ 表格，无公开 URL）〕
 - **调研后定级**：B（原自动 A）——体量大（30+ 分支、数百人）超出 Saga 常规可赢尺寸，且南非非主攻区、1 次回复后 18 次推送无回复；但其网络配件在采 Upeto/itoonertech 级别的中国小品牌，说明供应商门槛不高 → 不降 C，B 慢跟。
-- 备注：重启角度：对位其在售 Upeto/Planet MC 与 PoE 型号给'同规格更低价 + 中性包装'清单（STI-110GE / STC-28DGGPM，分销 20%），找产品经理而非采购总机。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+重启角度：对位其在售 Upeto/Planet MC 与 PoE 型号给'同规格更低价 + 中性包装'清单（STI-110GE / STC-28DGGPM，分销 20%），找产品经理而非采购总机。
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + LinkedIn + 名录核对））
 

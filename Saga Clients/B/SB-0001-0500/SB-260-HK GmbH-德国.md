@@ -118,7 +118,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（http_error）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（HK GmbH：HTTP 错误，2026-10-21，第 1 次）
 - **是谁**：德国 HK GmbH（hk-systeme.de；表内「有时候需要 PoE，需要用到带光口的交换机」；KP Lukas Gierlirg；官网 http_error）；表内 7 次跟进无回复。
 - **类型**：系统集成商（德国，PoE + 光口需求）
 - **【用户表】表内兴趣/备注**
@@ -129,7 +129,8 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Lukas Gierlirg（研究档联系人（Impressum 域下；职务未核）= 收件人（第 100 批 官方登记核实 2026-10-28））lg@hk-systeme.de 〔用户表〕
 - **KP**：Johannes Brüls（Geschäftsführer（Dipl.-Ing.；Impressum；HRB 105842 Düsseldorf）= 拍板人（点名）（第 100 批 官方登记核实 2026-10-28）） 〔〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

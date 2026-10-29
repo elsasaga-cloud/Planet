@@ -137,6 +137,8 @@ updated: 2026-10-29
   > 来源：https://www.intecseguridad.com/en/productos-y-servicios/（抓取 2024-11-19）
 - **KP**：Vicente Jimenez（用户表 KP（intecseg.com；WA 已加；20 次 0 回复）— 公司同一性未证实 → 不动（第 109 批 官方登记核实 2026-10-28））vicente.jimenez@intecseg.com +34 616 913 800（WhatsApp 已加）〔Clients/A/DONE/其他优质欧洲客户.xlsx〕
 - **调研后定级**：B（原自动 A）——实体无法核实 + 20 次推送零回复；保留 WhatsApp 渠道慢跟，若其回复再补调研。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
 

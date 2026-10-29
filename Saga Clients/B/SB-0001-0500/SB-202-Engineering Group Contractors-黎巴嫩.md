@@ -57,6 +57,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-29 | 去 | A/S 群发 | 10G L3 Managed Switch、24 Port PoE Managed Switch | 22 封 / 0 次打开 / 0 回｜首封 2024-07-05 → 末封 2026-09-29（22 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：1,谈了switch,着重问了30个switch环网 2，问了VC… 3，问了2光10电，基本都懂，问了BNC转网 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Home - Engineering Group Contractors (EGC) — Lightning, protection, safety, Security, arrestors, arresters, EGC, EGC Lebanon,Video, Phone, video phone, PABX, Smart Home, Automatic Gates, Automation, Home Automation, BMS, Building Management System, Engineering Group Contractors, Furse, Panasonic, Se | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -139,9 +140,10 @@ updated: 2026-10-29
   > 兴趣：1,谈了switch,着重问了30个switch环网 2，问了VC… 3，问了2光10电，基本都懂，问了BNC转网
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Mohammad Hammoud（Founder / General Manager（crunchbase + 领英 2026-10-29 吻合）= 收件人 — 最后一次一页纸：集成商 25% B、30 台环网 STI-288DGGPM $137 ERPS 一口价 + STC-228GP $33 接入；光端机 / VC 不供明说 — 黎巴嫩常规：英文稿、20 / 25 / 30 + T/T 预付 100%（不接受信用证）+ FOB 深圳 或 DAP 贝鲁特（第 121 批 官方登记核实 2026-10-29））egc@egc-lb.com +961 3 317 173〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + country_fix 黎巴嫩））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + country_fix 黎巴嫩） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -166,7 +168,7 @@ updated: 2026-10-29
 - **描述**：Lightning, protection, safety, Security, arrestors, arresters, EGC, EGC Lebanon,Video, Phone, video phone, PABX, Smart Home, Automatic Gates, Automation, Home Automation, BMS, Building Management System, Engineering Group Contractors, Furse, Panasonic, Security Systems, Lebanon, Services, Grounding,
 - **首页栏目**：ELECTRONIC REPAIR AND MAINTENANCE / ELECTRICAL REPAIR AND MAINTENANCE / NETWORK DESIGN AND INSTALLATION / SURVEILLANCE AND SECURITY SYSTEMS / LIGHTNING PROTECTION AND GROUNDING / FIRE ALARM SYSTEMS / HOME AUTOMATION / SMATV AND IPTV SYSTEMS
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：surveillance 10、camera 8、cctv 8、fiber 4、cable 3、switch 2、automation 2、nvr 2、fibre 1、wifi 1、distributor 1
-- **站内型号串**（正则抽取，含非交换机）：RS422, KX-TDA100D, J-NET-EN54-SC-260, J-NET-EN54-SC-261, J-NET-EN54-SC-261-L, J-NET-EN54-REP, JNR-V4-1, JNR-V4-2, INT-FO-P2P-D, INT-FO-P2P-S, RS422-P2P, AA0001
+- **站内型号串**（正则抽取，含非交换机）：RS422, KX-TDA100D, J-NET-EN54-SC-003, J-NET-EN54-SC-004, J-NET-EN54-SC-004-L, J-NET-EN54-REP, JNR-V4-1, JNR-V4-2, INT-FO-P2P-D, INT-FO-P2P-S, RS422-P2P, AA0001
 - **社媒**：https://wa.me/96170, https://www.facebook.com/EGC-558090151231448, https://www.instagram.com/egc/, https://www.linkedin.com/company/11494922, https://www.youtube.com/channel/UCtgjtBRlmZKlsdxCeyvSFPw, https://x.com/EGCLebanon
 - **已抓子页**：[Fire Alarm Systems - Interfaces - Network Card - Products - ](https://egc-lb.com/products/fire-alarm-systems/interfaces/network-card)；[Products - Engineering Group Contractors (EGC)](https://egc-lb.com/products)；[Products - Engineering Group Contractors (EGC)](https://egc-lb.com/products/fire-alarm-systems)；[Products - Engineering Group Contractors (EGC)](https://egc-lb.com/products/emergency-lighting)；[Fire Alarm Systems - Modules - Products - Engineering Group ](https://egc-lb.com/products/fire-alarm-systems/modules)；[Fire Alarm Systems - Modules - Products - Engineering Group ](https://egc-lb.com/products/fire-alarm-systems/detectors)
 - 首页正文摘录：Products All Fire Alarm Systems All Control Panels All Addressable Conventional Extinguishing Accessories Interfaces All Addressable Conventional Network Card Modules All Addressable Door Release All Addressable Conventional Detectors All Addressable Conventional Beam Detectors Accessories Manual Call Points All Addressable Conventional Audible and Visual All Addressable Conventional Emergency Lighting All Accessorie

@@ -61,7 +61,7 @@
    "source": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0001095976?rejestr=P&format=json"
   }
  ],
- "notes": "A 确认：欧洲中型分销商 + 自有 logo 意向 + 已回复；P1 = STC-28DGGPM / STC-424DGGPM-280W 贴牌，20% 分销档（贴牌另议 30%）。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：fail#1。\nA 确认：欧洲中型分销商 + 自有 logo 意向 + 已回复；P1 = STC-28DGGPM / STC-424DGGPM-280W 贴牌，20% 分销档（贴牌另议 30%）。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
@@ -239,5 +239,14 @@
    "body": "Hello FCNET team,\n\nIn April 2025 you told us a competitor had a much better price on the 10G media converter - fair, converters are the most price-driven item we carry, and we did not argue. The mails since were general product mails; no reason to answer those.\n\nWhere we are usually worth a look is the managed PoE switch against the TL-SG2428P / TL-SG2210MP price points on fcnet.pl, under your own label: 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed, Marvell-based, CE/RoHS - model STC-424DGGPM-280W - $134.5 USD EXW at distributor price (MOQ 1, 15-day validity); 8 x PoE+ + 2 x SFP - STC-28DGGPM - $80.7.\n\nOne question: where do your managed PoE switches come from today - a brand, or an own-label source?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:19:43Z"
+  ],
+  "fails": [
+   "2026-10-21"
+  ],
+  "batch": "LT-T03"
  }
 }

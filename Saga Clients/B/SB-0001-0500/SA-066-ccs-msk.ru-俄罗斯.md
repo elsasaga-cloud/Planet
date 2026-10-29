@@ -63,6 +63,7 @@ updated: 2026-10-29
 | 2026-04-03 | out | Elsa → pkarpov@ccs-msk.ru | Industrial PoE Switch（Elsa 1:1 逐月名单第 1/3 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:pkarpov@ccs-msk.ru` 全程 complete：3 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
 | 2026-05-11 | out | Elsa → pkarpov@ccs-msk.ru | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-08-04 | out | Elsa → pkarpov@ccs-msk.ru | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 3/3 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(m) `from:e.sagatelecom to:pkarpov@ccs-msk.ru` 全程 complete：3 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | CCS - Lenovo, Microsens, Sumitomo, Tyco, Emcore, OCulink, FDR, CXP, HD mSAS, SFP, QSFP, кабели SAS II, кабели SAS III, кабели mSAS, кабели SAS, infiniband, dire | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 去信 3 轮、0 回），仓库未见原文
 
@@ -126,7 +127,7 @@ updated: 2026-10-29
 - **是谁**：莫斯科 IT/电信设备分销商（十余年），Microsens 与 Lenovo 官方合作伙伴、日本住友分销商；供应有源/无源网络设备、服务器与存储、工业以太网、FTTO/Smart Office、SAS/Infiniband 等线缆及定制产品；自有/白牌 SFP 目录（SFP-WDM 系列）；E 渠道 2026 年回复（最新互动）。
 - **类型**：分销商（企业网络 + 工业以太网）
 - **规模**：中小型（待补证）
-- **在卖/在用品牌**：Microsens, Lenovo, Sumitomo, Tyco, Emcore, MICROSENS
+- **在卖/在用品牌**：Microsens, Lenovo, Sumitomo, Tyco, Emcore, MICROSENS, Cisco
 - **【官网】Microsens/Lenovo 官方合作伙伴、Sumitomo 分销商；供应工业以太网、FTTO、定制产品**
   > Компания CCS является официальным партнёром компаний MICROSENS и LENOVO, а также дистрибьютором японской компании SUMITOMO… оборудования промышленного Ethernet, систем FTTO и Smart Office… а также продукции по индивидуальным требованиям
   > 来源：https://www.ccs-msk.ru/about（抓取 2026-10-21）
@@ -147,9 +148,10 @@ updated: 2026-10-29
   > 来源：https://www.ccs-msk.ru/contacts（抓取 2026-10-21）
 - **KP**：（见 Clients 表回复签名）（） 〔用户 Clients 表（'回复里有详细联系方式'）〕
 - **调研后定级**：B（原自动 A）——Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A
-- 备注：2026 年最新回复 + 分销商身份 + 已卖白牌 SFP 与 Microsens 工业交换机（高价德系）→ Saga 的 STI 工业线可作其'性价比替代'补充。俄罗斯收款路径需核。P1：STI-288DGGPM（对位 Microsens 工业 PoE），分销价阶 20%。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+2026 年最新回复 + 分销商身份 + 已卖白牌 SFP 与 Microsens 工业交换机（高价德系）→ Saga 的 STI 工业线可作其'性价比替代'补充。俄罗斯收款路径需核。P1：STI-288DGGPM（对位 Microsens 工业 PoE），分销价阶 20%。
 
-### 加厚挖掘（2026-10-21 · 深挖 v2（官网 Microsens 目录核对））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网 Microsens 目录核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

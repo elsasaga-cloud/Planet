@@ -63,6 +63,7 @@ updated: 2026-10-29
 | 2026-09-22 | 去 | A/S 群发 | 8 Port Industrial PoE Switch、48 Port PoE Managed Switch | 30 封 / 1 次打开 / 0 回｜首封 2024-07-04 → 末封 2026-09-22（30 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS 商业FS 周边产品 无源产品也比较多；很多牌子的 有Nnet的；工业FS 商业FS 周边产品 无源产品也比较多 N-net的工业FS | 表内备注 | `用户表` |
 | 2026-09-22 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 02d5599b31cf2163；信稿开头句引用此封；此前稿内写的「8 Port Industrial PoE Switch」是线程列表首题，不是本封） | `02d5599b31cf2163` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Networking Products and Security Solutions Distributors in UAE — Zoom line Networks Technology is one of the largest IT, Networking & Security solutions distributors of renowned brands in the Middle East and Africa, houses other entities in the ME region. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -157,9 +158,10 @@ updated: 2026-10-29
   > 工业FS 商业FS 周边产品 无源产品也比较多 / 很多牌子的 有Nnet的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Mohammad Faisal（Business Development Manager（研究档）= 收件人 — 一页纸一次：分销 20% B、STI-288DGGPM / STI-488DGGPM / STI-154GP + STC-2224GP / 4424GCPM 一口价 + MOQ 1 + 付费样机、DAP 迪拜 — 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜、TDRA / ESMA 不声称（第 119 批 官方登记核实 2026-10-28））faisal@zoomlinenetwork.com 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

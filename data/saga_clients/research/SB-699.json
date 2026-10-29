@@ -55,10 +55,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "Unit 4, 10 Maryborough Street, Fyshwick, ACT 2609（第 90 批 官方登记核实 2026-10-27）",
@@ -161,6 +162,14 @@
     "quote": "MC SFP 自己的牌子 标价较高",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "CCD Networking - Computer Networking Products Australia — CCD Networking is a leading manufacturer of premium network infrastructure equipment, including media converters, SFP modules, and network cables.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://ccd.au/"
    }
   ],
   "proof_gaps": [],
@@ -169,5 +178,36 @@
    "body": "Hi Marcus,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the CCD media-converter and PoE switch lines, we can be a second source for gigabit and PoE media converters and 4/8-port PoE switches under your label from small lots, CE/RoHS (RCM stays on your side) — which CCD model do you reorder most often?\n\nReference price: DIN-rail 1-GE + 1-SFP industrial switch / media converter (STI-110GE) $26.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:46:14Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@ccd.au"
+  ],
+  "phones": [],
+  "social": [
+   "https://instagram.com/ccdnetworking",
+   "https://www.facebook.com/ccdnetworking",
+   "https://www.linkedin.com/company/ccdnetworking"
+  ],
+  "models_on_site": [
+   "CCD-POE-4100",
+   "CCD-5100",
+   "CCD-7100",
+   "CCD-9100",
+   "RS-232",
+   "MPO-12",
+   "RJ-45",
+   "MPO-16"
+  ],
+  "url": "https://ccd.au/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

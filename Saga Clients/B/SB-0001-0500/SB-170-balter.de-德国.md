@@ -53,6 +53,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-22 | 去 | A 群发 | 48 Port PoE Managed Switch、Mini Industrial PoE Switch | 21 封 / 0 次打开 / 0 回｜首封 2025-01-28 → 末封 2026-09-22（21 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | UTEPO的 也有洪瑞的poE 自己的logo | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Balter.de — Professionelle Videoüberwachungs-Produkte, Video-Türsprechanlagen und Alarmanlagen. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -136,9 +137,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Eduard Mushkatin（Geschäftsführer / 创始股东（2006 起；AG Düsseldorf HRB 60247；XING 对外联系人）= **老板 = 联系人**（抄 Igor Balter）—— 自有品牌 BALTER（视频监控 / 门禁 / 报警全系贴标，研究档记 Utepo / 洪瑞 PoE）= OEM 品牌商序列第一位，现 PoE 货源是深圳同类 → **OEM 30% 一对一替代**（按 balter.de 在售 PoE 型号列对照：4/8/16 口 + 工业 DIN，贴 BALTER 标、德语包装）；品牌已外延到厨电 = 精力分散 → 一封讲清价差即可（第 92 批 官方登记核实 2026-10-28）） 〔https://www.balter.de/impressum〕
 - **KP**：Igor Balter（Geschäftsführer / 创始股东（公司冠名人）= 老板，抄送（第 92 批 官方登记核实 2026-10-28）） 〔https://www.northdata.com/Balter%20GmbH,%20Langenfeld%20(Rheinland)/Amtsgericht%20D%C3%BCsseldorf%20HRB%2060247〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

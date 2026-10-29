@@ -69,11 +69,12 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "美国主攻区、VP 直接回复。但其商业模式是 Cisco 等翻新件（低价竞争逻辑），新白牌工业/PoE 交换机可作为其'新品补充线'；需要 FCC 文件，不承诺 UL/TAA。P1：STI-288DGGPM（工业交换机类目对位）或 STC-28DGGPM 入门 PoE，分销价阶 20%。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n美国主攻区、VP 直接回复。但其商业模式是 Cisco 等翻新件（低价竞争逻辑），新白牌工业/PoE 交换机可作为其'新品补充线'；需要 FCC 文件，不承诺 UL/TAA。P1：STI-288DGGPM（工业交换机类目对位）或 STC-28DGGPM 入门 PoE，分销价阶 20%。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v2（官网 + 目录核对）"
+  "level": "深挖 v2（官网 + 目录核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "SOFTNETWORKS LLC（New Jersey，2011；Whippany NJ；EIN 46-1347043）",
@@ -257,6 +258,14 @@
     "why": "第 74 批(m) `from:e.sagatelecom to:nealc@softnetworks.net` 全程 complete：8 轮直收；客户曾来信（见 Re: 行）",
     "k": "elsa_1to1",
     "msg_id": "19fcd12f646f84cb"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Softnetworks IT Hardware repair services and sales for Chromebook & Apple — Softnetworks provides expert IT hardware repair, services and sales for Chromebook, and Apple device services with reliable support for schools and businesses.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://softnetworks.net/"
    }
   ],
   "proof_gaps": [
@@ -267,5 +276,35 @@
    "body": "Hi Neal,\n\nIn May 2025 you asked the price of the 90 W managed PoE unit and I quoted $140; since then you had my monthly product mails and, reasonably, no reason to answer them. One real question instead.\n\nThe unit is still the same: DIN-rail 8 x Gigabit PoE (6 x PoE+ and 2 x 802.3bt 90 W ports) + 2 x SFP, L2+ managed with ring redundancy, Marvell-based, -40 to 75 C, FCC/CE/RoHS - model STI-288DGGPM-2BT - today $154 USD EXW (MOQ 1, 15-day validity; the RMB has moved from 7.2 to 6.7 against the dollar since May 2025).\n\nOne question: did $140 land anywhere near the price points your refurb customers accept for a managed industrial PoE unit - and if not, what would?\n\nBest regards,\nElsa\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:31Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@softnetworks.net"
+  ],
+  "phones": [
+   "+1 201-636-7188",
+   "+1-201-636-7188"
+  ],
+  "social": [],
+  "models_on_site": [
+   "ASR1000",
+   "ASR2000",
+   "PWR-C1",
+   "PWR-C2",
+   "PWR-C4",
+   "PWR-C5",
+   "PWR-C6",
+   "WS-CAC-4000W"
+  ],
+  "url": "https://softnetworks.net/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -46,10 +46,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  "level": "B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Aerials & Cable Equipment Ltd（商号 ACE Distributors；Cheltenham；Companies House 号未取 → 部分坐实；研究档「Oxford, UK / 约 1990」有误）",
@@ -139,6 +140,14 @@
     "quote": "16 Port Industrial PoE Switch",
     "why": "本日去信真实主题（邮箱索引 b52f7000bb23c28f；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
     "k": "b52f7000bb23c28f"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "ACE Distributors — We have been supplying the UK Aerials & Satellite industries with quality components for more than 30 years. Surveillance, Audio, Cables, CCTV, Installation Equipment, Aerials and Satellites.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://aceonline.co.uk/"
    }
   ],
   "proof_gaps": [],
@@ -147,5 +156,38 @@
    "body": "Hi Shaun,\n\nWe wrote to you once in February 2025 about a 24-port fibre switch, and since then only general product mails - most recently \"16 Port Industrial PoE Switch\" on 8 September 2026 - none of which needed an answer. This one is specific.\n\nFor the installer trade beside TP-Link on the ACE price list, at distributor price, EXW, 15-day validity, UKCA/CE marked: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD; unmanaged 8 x PoE+ + 2 x Gigabit uplinks - STC-028GP - $25.1. Neutral brand.\n\nOne question: would a 5-piece trial carton of each suit the ACE list, or do you list from a single sample?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:42:33Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "example@email.com",
+   "sales@aceonline.co.uk"
+  ],
+  "phones": [],
+  "social": [
+   "https://www.facebook.com/aerialsandcableequipment/",
+   "https://www.instagram.com/aerials_and_cable_equipment",
+   "https://www.linkedin.com/company/aerials-&-cable-equipment-ltd",
+   "https://www.twitter.com/@ACELtd1"
+  ],
+  "models_on_site": [
+   "AJX-HUB2",
+   "BE3600",
+   "EAP723",
+   "LTE700",
+   "DH-PFS3010-8ET-96-V2",
+   "DH-PFS4218-16ET-240-V3",
+   "DH-PFS4226-24ET-360-V3",
+   "DH-PFS3006-4ET-60-V2"
+  ],
+  "url": "https://aceonline.co.uk/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

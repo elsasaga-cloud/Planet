@@ -137,7 +137,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（http_error）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（cenova.com.tr：HTTP 错误，2026-10-21，第 1 次）
 - **是谁**：土耳其 Cenova（CCTV 产品为主，PoE 交换机与工业 FS 为 Ewind 代工；KP Rifat Baydemir（General Manager）；官网 http_error）；表内 2 次跟进无回复。
 - **类型**：CCTV 分销商（土耳其，PoE 现 Ewind）
 - **在卖/在用品牌**：Ewind
@@ -148,7 +148,8 @@ updated: 2026-10-29
   > POE switch 工业FS E-wind的 CCTV产品还是主要的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Rifat Baydemir（）rifat@cenova.com.tr 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

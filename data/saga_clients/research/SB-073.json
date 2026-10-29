@@ -6,7 +6,8 @@
  "type": "集成/经销商",
  "size": "待补证",
  "brands_seen": [
-  "TriCom（自有品牌）"
+  "TriCom（自有品牌）",
+  "Dahua"
  ],
  "evidence": [
   {
@@ -69,11 +70,12 @@
  ],
  "grade_override": "B",
  "override_reason": "核心需求 IP67（Saga 不做 IP67）；比价型（收集多家彩页）；0 回复 / 6 次 → 慢跟。",
- "notes": "只在其需求转为 IP30/IP40 小体积 PoE 时用 STI-244GP 重启。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n只在其需求转为 IP30/IP40 小体积 PoE 时用 STI-244GP 重启。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + 登记核对）"
+  "level": "B 级加厚 v1（官网 + 登记核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "A.N.B. RIMEX SA / NV（BCE / TVA BE 0424.592.259；Herstal）",
@@ -150,10 +152,45 @@
     "quote": "IP67网口 小体积 PoE为主 拿了很多同行的彩页",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Welcome to AnB-Rimex - AnB-Rimex — Homepage",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://anb-rimex.be/en/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:23:00Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@anb-rimex.be"
+  ],
+  "phones": [
+   "+32 (0)4 229 37 97",
+   "001 - 2010 2001"
+  ],
+  "social": [
+   "https://www.facebook.com/AnBRimex1981",
+   "https://www.linkedin.com/company/anb-securite-s.a./"
+  ],
+  "models_on_site": [
+   "MOTEL21",
+   "EN50131"
+  ],
+  "url": "https://anb-rimex.be/en/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

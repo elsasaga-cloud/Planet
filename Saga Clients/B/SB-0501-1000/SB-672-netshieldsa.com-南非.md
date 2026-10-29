@@ -138,9 +138,10 @@ updated: 2026-10-29
 - **KP**：Inus Dreckmeyr（Electrical Engineer and Chief Executive Officer（研究档）= 收件人 — 一页纸一次：贴标 OEM 30% B、自有品牌交换机 / MC 制造商 → STI-154GP / STI-288DGGPM + STC-110XGE 中性包装 / 贴标 + MOQ 1 + 付费样机；SFP 不供明说 — 南非常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 约堡、ICASA / NRCS 不声称（第 120 批 官方登记核实 2026-10-29））inus@netshieldsa.com 〔用户表〕
 - **KP**：Celia Gagiano（）celia@netshieldsa.com 〔用户表〕
 - **KP**：Marien Dreckmeyr（Director, National Marketing（ZoomInfo 2026-10-29；2009– ；无公开邮箱）（第 120 批 官方登记核实 2026-10-29）） 〔〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：deep。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

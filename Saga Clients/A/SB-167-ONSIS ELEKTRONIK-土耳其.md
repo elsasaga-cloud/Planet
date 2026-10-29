@@ -58,6 +58,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | Ady加了WhatsApp  问2光8带POE带网管带bypass价格 报了105美金 要L2， 最后一天来的时候要样品，当时身上没有现金 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Onsis Elektrik Elektronik Güvenlik Sistemleri – Kalite ve Üstün Hizmetle Teknolojiyi Size Getiriyoruz. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库
 
@@ -132,9 +133,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Esef Taşkıran（Genel Müdür / Key Principal（D&B）= **老板 = 联系人**（Ltd. Şti. 股东名单付费未取）；1992 创业、2015-03-03 改组 Ltd.、1–24 人；展会 + WhatsApp 户（问 2 光 8 电 PoE 网管 bypass → $105 → 要 L2 + 样品）（第 87 批 官方登记核实 2026-10-27））esef@onsis.com.tr（用户表） +90 312 435 67 53〔https://rocketreach.co/onsis-elektrik-elektronik-guvenlik-sitemleri-management_b73b6c95c7ea033f〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（登记核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（登记核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

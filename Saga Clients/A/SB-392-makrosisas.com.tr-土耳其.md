@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 有一些工程需要用工业级交换机， 报了2光10电带网管带POE 130USD, 12光12电带网管 150USD 要双清包税的运输方式 拍了合照 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | i-PRO TÃ¼rkiye & Panasonic GÃ¼venlik Sistemleri Premium DistribÃ¼tÃ¶rÃ¼ \| Makro Sistem — i-PRO (eski adÄ±yla Panasonic Security Systems) TÃ¼rkiye Premium DistribÃ¼tÃ¶rÃ¼ Makro Sistem. Edge AI gÃ¼venlik kameralarÄ±, NVR kayÄ±t sistemleri, CCTV ve yangÄ±n algÄ±lama Ã§Ã¶zÃ¼mleri. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -128,9 +129,10 @@ updated: 2026-10-29
 - **KP**：Mustafa Demirel（研究档 KP（用户表）= 收件人（抄 info@ 点名 Engin Ertürk）（第 106 批 官方登记核实 2026-10-28））m.demirel@makrosisas.com.tr（用户表） +90 212 272 47 92（公司）〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Engin Ertürk（Yönetici（管理者；ZoomInfo）= 拍板人（第 106 批 官方登记核实 2026-10-28）） 〔https://www.zoominfo.com/pic/makro-sistem/1340413263〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

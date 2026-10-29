@@ -67,6 +67,7 @@ updated: 2026-10-29
 | 2026-04-01 | out | Elsa → sales@zekko.co.in | Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 7/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:zekko.co.in` 全程 complete：7 轮直收（头 msg 19d47e9d5e3f4388 无 Bcc，称呼「Hi, Mr.Maju」）；0 回 | `elsa_1to1` |
 | 2026-09-24 | 去 | A 群发 | 24 Port PoE Managed Switch、16 Port Ethernet Switch | 6 封 / 0 次打开 / 0 回｜首封 2025-04-09 → 末封 2026-09-24（6 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：工业级/SFP | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Zekko Tech Private Limited - An Enterprise, Telecom IT & Automation Solution Company | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -147,9 +148,10 @@ updated: 2026-10-29
 - **KP**：Santosh Singh（Manager（研究档；与前董事 Seema Santosh Singh 关联待证）= 抄（第 114 批 官方登记核实 2026-10-28））santosh@zekko.co.in 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Chandrasekaran Iyer（Whole-Time Director（MCA；DIN 06879733）= 拍板人（不直接收件）（第 114 批 官方登记核实 2026-10-28）） 〔https://www.zaubacorp.com/company/ZEKKO-TECH-PRIVATE-LIMITED/U74999MH2016PTC285972〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

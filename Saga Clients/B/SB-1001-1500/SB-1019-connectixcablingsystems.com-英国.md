@@ -113,7 +113,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（http_error）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（connectixcablingsystems.com：HTTP 错误，2026-10-21，第 1 次）
 - **是谁**：英国 Connectix Cabling Systems（connectix.co.uk：结构化布线系统品牌；表内「Networking / Startech」「质量一般」；KP Matthew Craig（Product Designer））；表内未跟进。
 - **类型**：结构化布线品牌商（英国，有源为副线）
 - **在卖/在用品牌**：StarTech
@@ -126,7 +126,8 @@ updated: 2026-10-29
 - **KP**：Matthew Craig（研究档联系人（职务未核；CH 无此人）= 保留抄送（第 99 批 官方登记核实 2026-10-28））matt.craig@connectix.co.uk 〔用户表〕
 - **KP**：Tim Dickens（Director of Brands（ContactOut）= **主收件人**（自有品牌 Connectix 的产品线负责人）（第 99 批 官方登记核实 2026-10-28）） 〔https://contactout.com/company/connectix-cabling-systems-1071899〕
 - **KP**：Timothy Roland Brown（Marketing & Development Director（董事，1998-12-01 起）= 抄送；MD / PSC Kevin Arthur Hancock（创办人）（第 99 批 官方登记核实 2026-10-28）） 〔https://find-and-update.company-information.service.gov.uk/company/02814569/officers〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

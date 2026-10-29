@@ -172,9 +172,10 @@ updated: 2026-10-29
 - **KP**：Thomas Murphy（）tmurphy@signamax.com 〔用户表〕
 - **KP**：Indika Kulatunga（） 〔用户表〕
 - **KP**：Vyacheslav (Slav) Stein（Key Principal（D&B）= 创始股东 / 拍板人（AESP 1983 年成立；曾 Nasdaq 上市后私有化）（第 87 批 官方登记核实 2026-10-27）） 〔https://www.dnb.com/business-directory/company-profiles.aesp_inc.c51369a341bc16874f588edaeaa2d197.html〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：deep。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

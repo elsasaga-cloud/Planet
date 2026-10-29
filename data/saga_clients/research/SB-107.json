@@ -37,10 +37,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对：ONV 贴牌）"
+  "level": "B 级加厚 v1（官网快照核对：ONV 贴牌） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "GLM GROUP LTD（第比利斯 Didube；ს/კ 未取 → 部分坐实）",
@@ -133,6 +134,14 @@
     "quote": "16 Port Industrial PoE Switch",
     "why": "本日去信真实主题（邮箱索引 3252e04ff8cd0e67；信稿开头句引用此封；此前稿内写的「10G L3 Managed Switch」是线程列表首题，不是本封）",
     "k": "3252e04ff8cd0e67"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "ჯი.ელ.ემ ჯგუფი — ჯი.ელ.ემ ჯგუფი - გადაწყვეტილებები უსაფრთხოებისა და სატელეკომუნიკაციო სისტემებისთვის",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://glm.ge/"
    }
   ],
   "proof_gaps": [],
@@ -141,5 +150,36 @@
    "body": "Hello GLM team,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 10 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the GLM-numbered PoE range (the ONV-based H1064 / H1108 units on your site), the same sizes under the GLM label from small lots, CE/RoHS: industrial DIN-rail 8 x Gigabit PoE+ + 2 x SFP, unmanaged, -40 to 75 C - model STI-288GP - $62.2 USD EXW with your logo (MOQ 1, 15-day validity); commercial 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - STC-28DGGPM - $87.4; budget unmanaged 8 x PoE+ + 2 x Gigabit - STC-028GP - $27.2. Logo on the unit is free; colour box from 200 sets.\n\nOne question: which model sells most through your shop - the industrial or the commercial 8-port?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:23:22Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [
+   "+0322 05 08 28",
+   "+995 577 18 00 18",
+   "+995 595 11 40 07"
+  ],
+  "social": [
+   "https://www.facebook.com/GLMGEORGIA"
+  ],
+  "models_on_site": [
+   "AC100-240V",
+   "IEEE802",
+   "GLMH1064PL",
+   "ONV-H1064PSD",
+   "ONV-H1108PSD",
+   "ONV-H3108PS",
+   "POE31108PG-AT",
+   "ONV-H1016PLS-250"
+  ],
+  "url": "https://glm.ge/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

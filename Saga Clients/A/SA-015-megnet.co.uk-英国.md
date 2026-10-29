@@ -65,6 +65,7 @@ updated: 2026-10-29
 | 2025-08-27 | 内 | Gmail 退信（S 邮箱） | becca@megnet.co.uk 永久退信：554 5.7.1 <becca@megnet.co.uk>: Relay access denied | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_s e58d6e9a2e344dc9` |
 | 2025-12-01 | 来 | Nasim Chaudhari（Operations Manager） | HT2500-PSE-BT60 – 60W PoE++ Single-Port Injector This will be a test unit, and if it works on the customer's end, we will proceed with a bulk order. | 第二次需求 | `d825f54e656a802d` |
 | 2025-12-02 | 去 | Simon | 15Usd/pc Metal shell, 1G/2.5G speed, AC100-240V in; POWER+PSE；802.3af/at/BT MAX65W… Production time: 3~5 working days | 报价 | `c006113d9ba7a08c` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Megnet \| Compatible & OEM Network Transceivers, DAC & AOC — Multi-vendor network hardware distributor. Compatible & OEM transceivers, DAC/AOC cables, RAM, hard drives & optics. Next-day UK & Europe delivery. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：Voice VLAN 在 7.4.0 的证据来自 SmartByte 固件说明（`docs/smartbyte/新闻与固件说明_2026-10-20.md`）——是否覆盖 Megnet 要的 24/48 口具体型号，报前核
 
@@ -158,7 +159,7 @@ updated: 2026-10-29
 - **是谁**：英国伦敦的兼容光模块/网络配件分销商（2003 年起，11–50 人），自有品牌 Chimera（MSA 兼容光模块、DAC/AOC、MC、交换机），供应全球经销商、分销商和制造商，宣称可触达 400 万+ 产品。用户表：S 重点，自己的品牌、有人卖他们的，MC/SFP/AOC 等较多，1 次实质回复。
 - **类型**：分销商 + 自有品牌（Chimera，OEM 采购）
 - **规模**：11–50 人（LinkedIn）
-- **在卖/在用品牌**：Chimera
+- **在卖/在用品牌**：Chimera, Cisco
 - **【第三方（LinkedIn）】定位与规模；自有品牌 Chimera 与 ISO 工厂合作生产**
   > We are specialist suppliers of compatible fibre optic transceivers and related networking solutions products since 2003 … Our global brand Chimera is an in-house brand of compatible products; produced in partnership with leading ISO compliant industry manufacturers. · Company size: 11-50 employees · Headquarters: London
   > 来源：https://uk.linkedin.com/company/megnet-limited-specialist-global-supplier-of-compatible-network-solutions（抓取 2026-10-21）
@@ -178,9 +179,10 @@ updated: 2026-10-29
 - **KP**：Jitendra Sain（Assistant Manager - Operations（邮件签名））jitendra@megnet.co.uk 〔S/A 邮箱来信 2025-01-16 来信 1 封（第 72 批从邮件表头补）〕
 - **KP**：Nasim Chaudhari（来信署名人（职务未在邮件署名里出现））nasim@megnet.co.uk 〔S/A 邮箱来信 2025-12-01 来信 2 封（第 72 批从邮件表头补）〕
 - **KP**：Omar Ismat Miqdadi（唯一在任董事（2003-11 起）—— 实际拍板人；邮箱待核（现有入口 info@ / sales@）（第 82 批 Companies House 核实 2026-10-27）） 〔https://find-and-update.company-information.service.gov.uk/company/04748999/officers〕
-- 备注：A 确认：Chimera 品牌需要 MC/交换机货源；P1 = STI-110GE（MC 贴牌）→ 带入 STC-28DGGPM/424 系列；30% OEM 档。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+A 确认：Chimera 品牌需要 MC/交换机货源；P1 = STI-110GE（MC 贴牌）→ 带入 STC-28DGGPM/424 系列；30% OEM 档。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1）
+### 加厚挖掘（2026-10-21 · 深挖 v1 + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

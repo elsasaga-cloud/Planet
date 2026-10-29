@@ -42,10 +42,11 @@
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "12 Soi Sukhaphiban 5 Soi 5 Yaek 3, Tha Raeng, Bang Khen, Bangkok（与 SB-609 Ablelink 同址）（第 117 批 官方登记核实 2026-10-28）",
@@ -142,6 +143,14 @@
     "quote": "工业FS MC SFP 光猫 ONV的工业FS",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Focomm Cabling | ผู้จำหน่ายสายสัญญาณคอมอุปกรณ์เครือข่ายครบวงจร — โฟคอมม์ ผู้จัดจำหน่ายสายเคเบิ้ลคุณภาพสูง สายไฟเบอร์ออฟติก สายแลน UTP ตู้ Rack สวิตช์ PoE Media Converter SFP Module GPON ONU และอุปกรณ์โครงข่าย สำหรับ SI โรงงาน โครงการราชการและเอกชนทุกประเภท จัดส่งทั่วไทย ติดต่อได้ที่ @focomm หรือโทร ",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.focomm-cabling.com/"
    }
   ],
   "proof_gaps": [],
@@ -150,5 +159,36 @@
    "body": "Hello,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial PoE pages now filled with ONV units (4 fiber + 8 PoE managed, 4 PoE + 2 SFP web-smart), we supply the same port layouts on a Marvell platform (−40~75 °C, neutral packing) from small lots — which of the two layouts do your SI customers order more?\n\nReference price: DIN-rail 8-PoE + 4 × 2.5G SFP L2+ managed industrial switch (Marvell AC5) (STI-488DGGPM) $148.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:44:07Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@focomm-cabling.com"
+  ],
+  "phones": [],
+  "social": [
+   "https://www.facebook.com/focommcabling",
+   "https://www.facebook.com/share/p/12LRyzshgHM/",
+   "https://www.youtube.com/@FocommThailand"
+  ],
+  "models_on_site": [
+   "RS485",
+   "RS232",
+   "NF-716ADHS",
+   "NF-IPC715",
+   "NF-524",
+   "NF-918S",
+   "RJ-45",
+   "IPS-M4GT-2SFP"
+  ],
+  "url": "https://www.focomm-cabling.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

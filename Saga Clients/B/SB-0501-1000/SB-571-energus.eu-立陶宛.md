@@ -57,6 +57,7 @@ updated: 2026-10-29
 | 2025-04-03 | 去 | Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次） | L3 Managed Switch — This is a Marvell-based L3 Managed 24 port DIN PoE Switch. 1, PoE af/at/bt, 370W budget, max 60℃ 2, Support DI/DO/RS485, USB, Alarm 3, Customizable We | Elsa 箱群发 BCC 触达证据（命中地址 energus.eu, info@energus.eu）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-09-01 | 去 | Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 energus.eu, info@energus.eu）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | switch ，拿了彩页 / Daniel Suskevic / http://energus.eu/ | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Individualūs pastatų sprendimai kuriantys ateitį • Energus — Patobulinsime pastatus, sukurdami individualius sprendimus, kurie garantuos komfortą, tvarų eksploatavimą ir investicijų atsiperkamumą! | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -136,9 +137,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Daniel Šuškevič（Projektų vadovas（LinkedIn；可能已离职）→ 改点名 direktorius（第 108 批 官方登记核实 2026-10-28））info@energus.eu（用户表，通用箱） —〔https://lt.linkedin.com/posts/daniel-%C5%A1u%C5%A1kevi%C4%8D-625bba1b7_projekt%C5%B3-vadovas-e-pva-er-gss-as-sistem%C5%B3-activity-6889582648549765120-1obe〕
 - **KP**：Povilas Šidlauskas（Direktorius（rekvizitai / okredo）= 拍板人 / 收件人（info@energus.eu 点名）（第 108 批 官方登记核实 2026-10-28））info@energus.eu 〔https://rekvizitai.vz.lt/en/company/energus_group/〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 国别由表内「波兰」更正为「立陶宛」（country_fix，依据见加厚块）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 国别由表内「波兰」更正为「立陶宛」（country_fix，依据见加厚块）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 登记核对；国家更正 LT））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 登记核对；国家更正 LT） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

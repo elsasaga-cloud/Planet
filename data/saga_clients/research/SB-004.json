@@ -19,11 +19,12 @@
  ],
  "grade_override": "A",
  "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌",
- "notes": "若用户确认其北美公司独立采购且有持续需求，可改回 A。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n若用户确认其北美公司独立采购且有持续需求，可改回 A。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（基于用户表整理 + 需求映射）"
+  "level": "B 级加厚 v1（基于用户表整理 + 需求映射） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "FiberHome North America（推定 FiberHome Telecom USA, Inc. Santa Clara CA / FiberHome Telecommunications Technologies Inc. Arlington VA；美国实体号未取 → 部分坐实）；母体烽火通信 SSE 600498",
@@ -111,6 +112,14 @@
     "quote": "Updated Ethernet Switches Links",
     "why": "本日去信真实主题（邮箱索引 d4749e65fc7389b4；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封）",
     "k": "d4749e65fc7389b4"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Home — Ongoing Technology Innovations, from ideas to solutions, make FHN-NA a leader in global Telecom and Network markets Innovation Satisfied Online Experiences All Online - Real time experiences are enabled by our Fiber Optic network solutions Total Solution of Active FTTH Carrier class Ethernet ",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://fhn-na.com/"
    }
   ],
   "proof_gaps": [
@@ -132,5 +141,37 @@
    "prev_reason": "母公司为中国大型设备商，自有供应链；样品单未成、无复购逻辑。降 B 慢跟：只在对方主动询价时响应。",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌"
   }
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:50Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "questions@fhn-na.com"
+  ],
+  "phones": [],
+  "social": [
+   "https://facebook.com/name",
+   "https://instagram.com/name",
+   "https://linkedin.com/name",
+   "https://twitter.com/name"
+  ],
+  "models_on_site": [
+   "S2200ME-PAF",
+   "S2208ME-PAF",
+   "S2216ME-PAF",
+   "S2224ME-PAF",
+   "IEEE802",
+   "ISO9001",
+   "ISO14001",
+   "OHSAS18001"
+  ],
+  "url": "https://fhn-na.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

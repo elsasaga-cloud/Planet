@@ -59,6 +59,7 @@ updated: 2026-10-29
 | 2025-02-28 | out | Elsa → info@infinicoreinc.com | L3 Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-03-04 | 去 | A/S 群发 | 90W PoE Managed Switch、Marvell Alleycat5 Solution | 11 封 / 0 次打开 / 0 回｜首封 2025-01-16 → 末封 2026-03-04（11 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | （用户表字段） | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Infinicore Incorporated — Infinicore builds high-performance network visibility, traffic analytics, and test systems for enterprise and government-grade environments. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -121,6 +122,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线
 - **是谁**：美国加州圣何塞的网络可视化/流量分析/测试系统厂商（2010 年成立；FlowDirector 网络分流器 1G–400G、FlowMagic、FSN、InfiniLOAD 负载生成；面向企业与政府级关键基础设施）；规模小（D&B 3 人 / RocketReach $6M 口径）。**用户表国别登记为「加拿大」有误——实为美国。** 产品方向（分流器/测试）与 Saga 接入交换机不同类，仅实验室/机柜汇聚有少量需求。WhatsApp 已加，8 次跟进 0 回复。
+- **在卖/在用品牌**：Ubiquiti
 - **【官网】公司定位与产品**
   > Infinicore builds high-performance network visibility, traffic analytics, and test systems for enterprise and government-grade environments … Founded in 2010 in Silicon Valley … FlowDirector, FlowMagic, and 01Layer … Infinicore Inc. 1754 Technology Dr STE 210 San Jose, CA 95110
   > 来源：https://www.infinicoreinc.com/company.html（抓取 2026-10-21）
@@ -135,9 +137,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Yonghong Tian（登记代理人（创始人推定；华裔）（第 105 批 官方登记核实 2026-10-28）） 〔https://ca.ltddir.com/INFINICORE/〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 国别由表内「加拿大」更正为「美国」（country_fix，依据见加厚块）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 国别由表内「加拿大」更正为「美国」（country_fix，依据见加厚块）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对 · 国别更正））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对 · 国别更正） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

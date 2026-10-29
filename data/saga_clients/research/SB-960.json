@@ -47,10 +47,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "Biólogo Maximino Martínez No. 3408, Col. San Salvador Xochimanca, Azcapotzalco, Ciudad de México 02870, Mexico（第 121 批 官方登记核实 2026-10-29）",
@@ -205,10 +206,47 @@
     "quote": "用的洪瑞的 商业POE 自己的型号",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Steren La Mejor Tienda de Electrónica en México — Compra en línea Lo Mejor en Electrónica | Compras Seguras | Envío Rápido y Seguro | Envíos Gratis a Partir de $499",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.steren.com.mx/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:25:48Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "ecommerce@steren.com.mx"
+  ],
+  "phones": [
+   "000 55 9107 8080"
+  ],
+  "social": [],
+  "models_on_site": [
+   "CCTV-305",
+   "CCTV-318",
+   "CCTV-314",
+   "CCTV-413",
+   "CCTV-315",
+   "CCTV-412",
+   "CCTV-320",
+   "CCTV-322"
+  ],
+  "url": "https://www.steren.com.mx/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -60,6 +60,7 @@ updated: 2026-10-29
 | 2025-04-14 | 去 | A 箱（Alan） | 8 Port Industrial PoE Switch | 首封去信（邮箱索引；去信共 15 封） | `273894cb960a6383` |
 | 2026-09-23 | 去 | A 箱（Alan） | Managed PoE Switches | 最近一封去信（邮箱索引；去信共 15 封） | `77209253d2cccd6c` |
 | 2025-05-12 | 来 | ludwig.bergschneider@abetechs.com | Out of Office｜Hi,  Thank you for your message. I am currently out of the office and will return on May 15th. If you need immediate ass | 自动回复/退信（机器，不算人工回复） | `244ba9abd5d05d58` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | GRUNDIG SECURITY - Professional Video Surveillance and CCTV Solutions | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -156,9 +157,10 @@ updated: 2026-10-29
 - **KP**：Yalcin Demirak（登记网络中出现（Eschweiler；股东 / 前任职务待核）（第 86 批 官方登记核实 2026-10-27））—（未公开） +49 211 5380 680〔https://web2.cylex.de/firma-home/abetechs-gmbh--grundig-security--12606852.html〕
 - **KP**：Kagan Kandemir（Geschäftsführer（2026-09-14 起，Düsseldorf）= 现任唯一 GF / 拍板人（第 86 批 官方登记核实 2026-10-27）） 〔https://www.northdata.de/Abetechs%20GmbH,%20Erkrath〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 登记核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 登记核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

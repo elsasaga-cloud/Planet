@@ -73,6 +73,7 @@ updated: 2026-10-29
 | 2026-05-14 | 去 | Elsa 群发（BCC；To panaji@gmail.com） | 10G Enterprise SFP Switch（Elsa 群发第 11/12 轮；本户在 Bcc，锚 To panaji@gmail.com；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 第 74 批(n) `from:e.sagatelecom to:a-ites.com` 命中行 To=panaji@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2026-08-14 | 去 | Elsa 群发（BCC；To panaji@gmail.com） | 24 Port PoE Managed Switch（Elsa 群发第 12/12 轮；本户在 Bcc，锚 To panaji@gmail.com；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(n) `from:e.sagatelecom to:a-ites.com` 命中行 To=panaji@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | Cameras, access control; 2光4电百兆MC外壳(外购那款)；2024.8.12 48口引流 → 只需要4&8口工业级；2025.2.26 工业16 24口出货图 → L2 Managed & Web Managed | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | A ITES \| Be Sure. Be Safe. Be Secured. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无来信（Elsa 去信 12 轮见 facts；S/A 箱无往来）；用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -134,6 +135,7 @@ updated: 2026-10-29
 - **是谁**：印度艾哈迈达巴德的安防/ITS 系统集成商（2008-12 成立；11–50 人，RocketReach 39 人 / $5.1M；ISO 9001/20000-1/27001；智慧高速（收费站 TMS、ATMS、紧急电话 ECB 自产）、指挥控制中心、IP 视频监控、门禁、火警与语音疏散、统一通信、IT 与网络方案；官网提及 PLANET/Axis/Ubiquiti）。表内三名联系人：Manan Bhavsar / CEO、Chirag Shah / Manager、Manish Meghwal / Manager（均 @a-ites.com，WA 已加）；2024-08 明确「只需要 4 & 8 口工业级」，2025-02 对工业 16/24 口回「L2 Managed & Web Managed」；表内兴趣含「2 光 4 电百兆 MC 外壳（外购那款）」；18 次推送 1 次实质回复。高速公路/指挥中心项目 → 工业 4/8 口管理型刚需 → B 25%。
 - **类型**：安防集成/经销商
 - **规模**：待补证
+- **在卖/在用品牌**：Ubiquiti
 - **【用户记录】摄像/门禁；2 光 4 电百兆 MC 外壳；WA 已加**
   > Cameras, access control / 2光4电百兆MC外壳(外购那款)；91-98250 95206 已加（用户 Clients 表摘录）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
@@ -156,9 +158,10 @@ updated: 2026-10-29
 - **KP**：Chirag Shah（非董事（注意：历任董事 Chirag Pandit Satishkumar 2009–2013 为另一人）（第 86 批 官方登记核实 2026-10-27））chirag.s@a-ites.com 〔用户 Clients 表〕
 - **KP**：Manish Meghwal（Manager）manish.m@a-ites.com 〔用户 Clients 表〕
 - **调研后定级**：B（原自动 A）——需求为低值百兆 MC（外购款），印度非主攻区，2 次回复后 16 次无果 → 慢跟。
-- 备注：WA 一次性报 STI-110GE 类 MC；有 PoE 项目再跟。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+WA 一次性报 STI-110GE 类 MC；有 PoE 项目再跟。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + LinkedIn/登记核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + LinkedIn/登记核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

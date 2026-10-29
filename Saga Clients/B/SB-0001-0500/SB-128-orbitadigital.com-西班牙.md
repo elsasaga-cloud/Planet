@@ -56,6 +56,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-30 | 去 | A 群发 | 8 Port Industrial PoE Switch、48 Port PoE Managed Switch | 15 封 / 0 次打开 / 0 回｜首封 2025-06-19 → 末封 2026-09-30（15 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：安防为主 之前有Utepo的交换机 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | A digital world in your hands — Distributors and importers of telecommunications products, networks, fiber optics, multimedia, hdmi .. of the main brands in the market triax, televes, ikusi, Skykware, Vu+, Gigablue, Kathrein, Cabelcon, Ferguson | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -123,9 +124,10 @@ updated: 2026-10-29
   > 兴趣：安防为主 之前有Utepo的交换机
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（未具名）（）info@orbitadigital.com +34 644 409 003〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

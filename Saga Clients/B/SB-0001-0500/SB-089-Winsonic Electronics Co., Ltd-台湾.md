@@ -60,6 +60,7 @@ updated: 2026-10-29
 | 2025-03-19 | 来 | rex.lin@ewinsonic.com | Dear Alan, Yes, I am insterested in the Marvell solution. We are doing networking Switch, Router and Gateway. Except Marvell, could you do Qualcomm, M | 来信原文（主题「轉寄: Marvell Alleycat5 Solution」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `6a176ba292b92e65` |
 | 2025-11-24 | 来 | Rex Lin | Coule you provide detial spec and price list? | 要价表 | `a1d6d7a7e1d0a1f5` |
 | 2026-01-29 | 去 | Saga（Alan） | Hi, Rex, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network scales 3, Full L3 features(VXLAN, EVPN, MPLS, Stacking etc.) suitable for core and aggregation l… | Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `83397972ba8367d6` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Industrial Panel PC, Fanless Box PC, LCD monitor - Winsonic — Industrial all in one PC touch screen monitors, Panel PC, Rugged Computing & Display, Industrial Display, Embedded Computing Solution provider and Manufacturer, IP66 stainless monitors, Open Frame, Chassis, Rack Mount, Panel Mount, Box PC | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -129,9 +130,10 @@ updated: 2026-10-29
   > 兴趣：在用UniPoE的工业FS;工业FS 优力普的；回复：INFO
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Rex Lin（採購 / 產品（表內：在用 UniPoE 工業 FS；2025-11 對升壓 PoE 回 INFO）= 收件人 — 一頁紙一次：貼標 OEM 30%，對位 UniPoE 的 STI-154GP / STI-288DGGPM / STI-0240GE + Winsonic 標 + 付費樣機；升壓 PoE 明說不做；只做預付— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28））rex.lin@ewinsonic.com 〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照：台系工控 OEM））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照：台系工控 OEM） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -63,6 +63,7 @@ updated: 2026-10-29
 | 2025-11-21 | 去 | Saga（群发） | 「Booster PoE Switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `0a8d96748590fd99` |
 | 2026-06-12 | 去 | Saga（群发） | 「10G L3 Managed Switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `0e8efb29e3a824ef` |
 | 2026-09-24 | 去 | A 箱（Alan） | Managed PoE Switches | 最近一封去信（邮箱索引；去信共 18 封） | `229930f76646812f` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | NSI \| Home — NSI Distribution is a Canadian wholesale distributor specializing in security, access control, networking, and low-voltage solutions. With locations… | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文
 
@@ -139,7 +140,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（nsidistribution.com；并档 Planet 渠道档案 PA-004）
 - **是谁**：多伦多郊区的安防批发商，全国 9 个门店卖摄像机/门禁/网络给安装商；自己已经做贴牌品牌，PLANET 是其 PoE 交换机货源之一。类型：安防分销商（加拿大安防批发，9 个分部）+ 自有品牌（Norelco SafeCam）/自述 OEM 服务。信号：PLANET 品牌页 17 款（GSW-2620HP、8 口 PoE+2 上联、16 口 PoE+2 RJ45+2 SFP、24 口非 PoE 等）；同时分销 Lysora（美国 BSC 的自有品牌）。Planet 渠道档案 PA-004 评级 A（需求面：PLANET 品牌页 17 款 PoE 在售 + 已分销两家贴牌品牌；触达：Norm Matinnia 直邮 norm@nsidistribution.com（官网门店页/招聘页公开）；体量：区域安防批发 9 分部，可赢；区域加拿大（一线））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SA-087，加拿大，Saga 群发已推送 13 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。
-- **在卖/在用品牌**：PLANET
+- **在卖/在用品牌**：PLANET, Uniview, Hikvision
 - **【卖方目录】PLANET 品牌页 17 款在售**
   > Planet Technology #### 17 Products 8 Port Gigabit POE Switch + 2 Uplinks … 16 Port Gigabit POE Switch + 2 RJ45 + 2 SFP … GSW-2620HP
   > 来源：https://www.nsidistribution.com/Brands/Planet-Technology-Corporation（抓取 2026-10-19）
@@ -154,9 +155,10 @@ updated: 2026-10-29
   > 来源：https://www.nsidistribution.com/（抓取 2026-10-19）
 - **KP**：Norm Matinnia（）norm@nsidistribution.com 1-800-668-3402〔https://www.nsidistribution.com/our-stores〕
 - **调研后定级**：B（原自动 B）——Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B4 四主区+对位+坐实；B5 四主区+对位（冷）；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PA-004，W 批次调研 2026-10-19/20））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PA-004，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -58,6 +58,7 @@ updated: 2026-10-29
 | 2024-07-20 | 来 | support@inaxsys.com | [Request received]｜##- Please type your reply above this line -##  Your request (40391) has been received and is being reviewed by our supp | 自动工单回执（Zendesk「Request received」，机器，不算人工回复） | `555b84372f4df62a` |
 | 2024-11-11 | 来 | support@inaxsys.com | [Request received]｜##- Please type your reply above this line -##  Your request (42608) has been received and is being reviewed by our supp | 自动工单回执（Zendesk「Request received」，机器，不算人工回复） | `bf2bcad5ed4780e1` |
 | 2025-01-13 | 来 | support@inaxsys.com | [Request received]｜##- Please type your reply above this line -##  Your request (43828) has been received and is being reviewed by our supp | 自动工单回执（Zendesk「Request received」，机器，不算人工回复） | `c581b8a1ca2df519` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Best Security Systems Solution \| Inaxsys Security Systems | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -139,9 +140,10 @@ updated: 2026-10-29
 - **KP**：Alain Boisvert（）sales@inaxsys.com 〔用户表〕
 - **KP**：Mark McRae（President（inaxsys.com 2024 新闻；ex-Paradox / ADT）— Q-33 不跟（第 112 批 官方登记核实 2026-10-28）） 〔用户表〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来；A6 真回≥3+对位（任何区域）
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

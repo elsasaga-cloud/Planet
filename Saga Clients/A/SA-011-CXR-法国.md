@@ -71,6 +71,7 @@ updated: 2026-10-29
 | 2026-07-20 | 去 | S 箱（Simon）报价 | 24 Port 10G SFP+ Switch｜ $1500（原句：*Price: 1500USD/PC*） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `00f989b452b62e8b` |
 | 2026-09-08 | 去 | S 箱（Simon） | 24 Port PoE Managed Switch | 最近一封去信（邮箱索引；去信共 26 封） | `31c3846e3e090787` |
 | 2026-09-08 | 去 | S 箱（Simon）报价 | 24 Port PoE Managed Switch｜ $170（原句：*Price: 170USD/PC*） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `31c3846e3e090787` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | CXR - Smart Solutions for Smart Networks | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -169,9 +170,10 @@ updated: 2026-10-29
 - **KP**：—（总机）contact@cxr.com +33 2 37 62 88 00〔https://www.etesters.com/catalog/0008F00E-1422-08DF-AABB-60B5947A8C9F/cxr-larus-corporation〕
 - **KP**：Marco Di Valerio（来信署名人（职务未在邮件署名里出现））marco.divalerio@cxr.fr 〔S/A 邮箱来信 2024-05-30 来信 1 封（第 72 批从邮件表头补）〕
 - **KP**：Carmine Oliva（Président de SAS（法定代表，1942 年生）—— 法国实体 CXR Anderson Jacobson 唯一登记高管（第 83 批 官方登记核实 2026-10-27）） 〔https://annuaire-entreprises.data.gouv.fr/entreprise/785754706〕
-- 备注：A 确认（欧洲自有品牌工业交换机厂商 = OEM 目标）；注意其终端市场含国防，Saga 只做 ODM 供货不涉项目。P1 = STI-288DGGPM（DIN 工业 L2+ PoE）或 STI-488XGGPM，30% OEM 档。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+A 确认（欧洲自有品牌工业交换机厂商 = OEM 目标）；注意其终端市场含国防，Saga 只做 ODM 供货不涉项目。P1 = STI-288DGGPM（DIN 工业 L2+ PoE）或 STI-488XGGPM，30% OEM 档。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1）
+### 加厚挖掘（2026-10-21 · 深挖 v1 + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

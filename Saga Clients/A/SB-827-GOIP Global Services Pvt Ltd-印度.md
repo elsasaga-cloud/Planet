@@ -65,6 +65,7 @@ updated: 2026-10-29
 | 2026-08-10 | out | Elsa → naman.gupta@goip.in | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 5/5 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(n) `from:e.sagatelecom to:goip.in OR to:syrotech.com` 全程 complete：5 轮直收（头 msg 19feaaf89986d63f 无 Bcc，称呼「Hi, Naman」）；0 回 | `elsa_1to1` |
 | 2026-09-01 | 内 | Gmail 退信（A 邮箱） | sachin.verma@goip.in 永久退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_a 0de6557f58082926` |
 | 2026-09-01 | 内 | Gmail 退信（A 邮箱） | sachin.verma@goip.in 退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErr | 该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开 | `gmail_a 0de6557f58082926` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | GOIP Global Services — GOIP Global Services | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -141,7 +142,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（goip.in / syrotech.com，快照 2026-10-21）
 - **是谁**：印度诺伊达 **Syrotech** 品牌母公司（1994 年成立，201–500 人，500 家渠道伙伴覆盖 100 城，CRISIL 评级；自有品牌占多数销售），产品 OLT/ONT、MC、1G–400G SFP、PoE / L2+ 交换机、无线、CCTV、门禁道闸；Grandstream 分销；2026-04 新 CEO Pankaj Sodhi（表内「有回复了」）。表内：SFP BiDi 3 km 量很大（Saga 无）、**自己的 logo：MC / PoE / 工业 FS**，在卖丰润达工业 FS；BD Akshat Pandey / Naman Gupta。= 标准 OEM 30% 大客户候选。
-- **在卖/在用品牌**：Syrotech（自有）, Grandstream, 丰润达（Fengrunda）
+- **在卖/在用品牌**：Syrotech（自有）, Grandstream, 丰润达（Fengrunda）, Ubiquiti
 - **【官网】Syrotech 为自有品牌（网络、光纤、门禁），30+ 年经验；Grandstream 分销**
   > Syrotech, our own brand, delivers reliable and scalable solutions for networking, fiber and entrance automation… our distribution of Grandstream products
   > 来源：https://www.goip.in/（抓取 2026-10-21）
@@ -166,9 +167,10 @@ updated: 2026-10-29
 - **KP**：Anil Mittal（Director（DIN 00117877，2004-09-20 起）= 实控家族长；姊妹公司 GOIP GLOBAL SOLUTIONS PVT LTD（CIN U72900DL2008PTC173861）同董事（第 91 批 官方登记核实 2026-10-27）） 〔https://www.zaubacorp.com/company/GO-IP-GLOBAL-SERVICES-PRIVATE-LIMITED/U74899DL1994PTC061633〕
 - **KP**：Manav Mittal（Director（DIN 08586626，2023-05-02 起）= 二代（抄送候选）（第 91 批 官方登记核实 2026-10-27）） 〔https://www.zaubacorp.com/company/GO-IP-GLOBAL-SERVICES-PRIVATE-LIMITED/U74899DL1994PTC061633〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + LinkedIn + CRISIL 核对：品牌商 OEM，A 候选））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + LinkedIn + CRISIL 核对：品牌商 OEM，A 候选） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

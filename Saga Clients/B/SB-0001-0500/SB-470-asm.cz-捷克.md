@@ -53,6 +53,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-10-01 | 去 | A/S 群发 | Managed Optical Bypass Switch、Industrial PoE Switch | 25 封 / 1 次打开 / 0 回｜首封 2024-07-04 → 末封 2026-10-01（25 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | POE FS 光模块 CVI SDI 同轴 工业FS等；POE FS 光模块 CVI SDI 同轴 工业FS等 很多都是Planet的；很多都是Planet的 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | ASM 100MEGA Distribution spol. s r.o. - DODAVATEL PRO DATOVÉ A TELEKOMUNIKAČNÍ SÍTĚ — DODAVATEL PRO DATOVÉ A TELEKOMUNIKAČNÍ SÍTĚ | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -129,9 +130,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Richard Hemzal（研究档 KP（ASM 部门产品 / 采购）= 收件人（第 109 批 官方登记核实 2026-10-28））hemzal@asm.cz 〔用户表〕
 - **KP**：Petr Bečička（Jednatel / 股东（podnikatel.cz；Ing.；1994 起；另一股东 Martin Zavřel）= 拍板人（不直接发）（第 109 批 官方登记核实 2026-10-28）） 〔https://rejstrik.penize.cz/60707968-100mega-distribution-s-r-o〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -62,6 +62,7 @@ updated: 2026-10-29
 | 2024-11-19 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「引流机型」→ 对方「1121email发了8电口」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A/DONE/AU.xlsx no.29 1119` |
 | 2025-02-25 | out | Elsa → paul@cabledistribution.com.au | Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2025-11-19 | 去 | Saga（群发） | 「Optional Marvell Chipset Solutions」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `be9998111900ae04` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Cable Distribution Services \| We Put The ‘able’ In Cable — Looking for dependable, durable cabling to power your next project? CDS leverage over 150 years of combined experience to deliver tailored solutions. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 去信 1 轮、0 回），仓库未见原文
 
@@ -156,9 +157,10 @@ updated: 2026-10-29
   > 来源：https://www.datanyze.com/companies/cable-distribution-services/398327759（抓取 2026-10-21）
 - **KP**：Ross Wasserman（官网「Ross W.」）（创始人 Ross Wasserman（The Wasserman Family Trust 2000 年起经营商号 CDS）；2025-08 起商号登记在 Damita Investments Pty Ltd（ABN 99 125 638 548）名下（第 83 批 官方登记核实 2026-10-27））sales@cabledistribution.com.au +61 8 9375 6522〔https://cabledistribution.com.au/about/〕
 - **调研后定级**：B（原自动 A）——Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A
-- 备注：A 确认（2 次实质回复 + 问价 + 工业分销渠道）；澳洲不在重点区但互动真实；P1 = STI-144GP（1 光 4 电工业 PoE，若价格表无则标 SmartByte 型号），20% 分销档，强调矿业宽温。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+A 确认（2 次实质回复 + 问价 + 工业分销渠道）；澳洲不在重点区但互动真实；P1 = STI-144GP（1 光 4 电工业 PoE，若价格表无则标 SmartByte 型号），20% 分销档，强调矿业宽温。
 
-### 加厚挖掘（2026-10-21 · 深挖 v2（官网核对））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -141,7 +141,8 @@ updated: 2026-10-29
 - **KP**：—（总机（官网公开））alsalami@emirates.net.ae +971 4 265 0333〔https://www.alsalami.com/〕
 - **KP**：Rashid Al Salami（Chairman / Founder（官网 About））—（未公开） +971 4 265 0333（公司）〔https://www.alsalami.com/about-us/〕
 - **KP**：Reyann Salazar Brosoto（来信署名人（职务未在邮件署名里出现））reyann@alsalami.com +971 52 905 6975（2025-06-16 签名 Mob）〔S/A 邮箱来信 2025-06-16 来信 1 封（第 72 批从邮件表头补）〕
-- 备注：A 维持（主动询盘 + 已回复 + 中东集成商），首单仅 2 台，走项目复购逻辑；P1 = STI-144GP（1 光 4 电工业千兆，若价格表无则按 SmartByte 型号标注），25% 集成商档，MOQ 1 可直接成交。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+A 维持（主动询盘 + 已回复 + 中东集成商），首单仅 2 台，走项目复购逻辑；P1 = STI-144GP（1 光 4 电工业千兆，若价格表无则按 SmartByte 型号标注），25% 集成商档，MOQ 1 可直接成交。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + 名录核对））
 

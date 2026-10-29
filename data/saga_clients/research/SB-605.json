@@ -48,10 +48,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（名录核对）"
+  "level": "B 级加厚 v1（名录核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "ELKOV elektro a.s.（IČO 26279690；DIČ CZ26279690；KS Brno B 3718；LEI 31570010000000108638；基本资本 33,000,000 Kč）",
@@ -136,6 +137,14 @@
     "quote": "对交换机有兴趣，懂交换机，详细介绍了2光10电，只说了OK，没表明特别的兴趣，WDM拍了照片，拿了catalog",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Elektromateriál a svítidla | ELKOV — Nabízíme přes 30 000 prodůktů elektrotechnického vybavení a svítidel. Pro firmy a kutily.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.elkov.cz/"
    }
   ],
   "proof_gaps": [],
@@ -144,5 +153,40 @@
    "body": "Hi Nabidky,\n\nWe have sent you a few mails on \"Managed Optical Bypass Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PV and smart-city cabinets your branches supply, a DIN-rail 5-port gigabit industrial switch (12–36 V DC, −40 to +75 °C) is $17.0 EXW under a neutral or ELKOV label; would your Brno quotation desk like a 10-unit sample price?\n\nPrices are USD EXW, 2026-10-17 snapshot, valid 15 days.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:44:00Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "adam.jegl@elkov.cz",
+   "antonie.husseinova@elkov.cz",
+   "david.marecek@elkov.cz",
+   "david.mastalir@elkov.cz",
+   "dusan.dolnicek@elkov.cz"
+  ],
+  "phones": [
+   "+420 543 538 804",
+   "+420 602 640 757",
+   "+420 603 261 612"
+  ],
+  "social": [],
+  "models_on_site": [
+   "UGR19",
+   "LOGUS90",
+   "RMQ-22",
+   "RMQ-16",
+   "LED-1L37CO3BTH1",
+   "RSI-20-20-X230-M",
+   "LTP-10B-1",
+   "LTP-16B-1"
+  ],
+  "url": "https://www.elkov.cz/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

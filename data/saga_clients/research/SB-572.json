@@ -50,10 +50,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网核对）"
+  "level": "B 级加厚 v1（官网核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Özel Elektronik（FOURLINE 品牌 2007；VKN 2360002288 Setbaşı VD；未见公司后缀 → 推定 şahıs işletmesi）",
@@ -121,6 +122,14 @@
     "quote": "不会英文， 要catalog / 0(224) 364 1888 加不上",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "FOURLÄ°NE - UYDU - KAMERA - ALARM",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.fourline.com.tr/"
    }
   ],
   "proof_gaps": [
@@ -141,5 +150,26 @@
   "note": "布尔萨天线 / 卫星 + CCTV / 报警批发零售商 Özel Elektronik（不会英文，要 catalog）：CCTV 批发 ✔ 对位 ✔ 四主区 → 留 B（群发）",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 ✔，绑定 未发信））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": []
+ "override_history": [],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:43:25Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@fourline.com.tr"
+  ],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "FRL2042",
+   "FRL2036"
+  ],
+  "url": "https://www.fourline.com.tr/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

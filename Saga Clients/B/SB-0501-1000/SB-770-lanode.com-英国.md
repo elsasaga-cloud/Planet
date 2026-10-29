@@ -23,7 +23,7 @@ s_mail: 28 msgs (out 27 / in 1), 2024-07-03 -> 2026-09-10
 p1: STI-110GE
 price_tier: 20%
 research: done
-site_snapshot: ok  # 2026-10-21
+site_snapshot: mismatch  # 2026-10-21
 sources: 2
 updated: 2026-10-29
 ```
@@ -35,7 +35,7 @@ updated: 2026-10-29
 - **历史互动**：推送 19 次（2024-05-08 → 2025-11-05）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（1/27 封有打开记录）：「24 Port Fiber Switch」(2024-12-18) → 读者兴趣偏「MC/光电」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $220（48 port managed switch）、2024-11-25 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-18 $240（24 Port Fiber Switch）、2025-10-10 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：年走量与现供应商
+- **最大未知**：公司官网（表内域名经核实不属于本客户；真实官网未知）
 - **下一步**：不动 — 首封前知悉：Elsa 仅 2025-02-21 单发过 1 封「16 Port PoE Managed Switch」，之后没再碰他（第 74 批(m)）；—
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
@@ -52,6 +52,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-02-21 | out | Elsa → sales@lanode.com | 16 Port PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Home \| don4L's hobbies | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -144,9 +145,10 @@ updated: 2026-10-29
   > optical-transport/c-dwdm-multiplexers
   > 来源：https://www.lanode.co.uk/optical-transport/c-dwdm-multiplexers（抓取 2026-10-21）
 - **KP**：Donal McDonnell（Managing Director / Director（*1958；1992 起；80% 股东；Companies House 02702078）= **拍板人本人 = 收件人**（第 101 批 官方登记核实 2026-10-28））donal@lanode.com 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -165,15 +167,12 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-110GE（20% 档）——MC/工业 FS（现 Transition/CTCU）→ 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）、工业 8 GE + 2 SFP STI-280GE（$46.6）、24 GE + 4×10G STC-424XGGM（$127.4）；10G MC/C-DWDM/串口 Saga 不供
 - **邮件切入句（英文）**：Donal, alongside the Transition Networks and CTC Union lines you carry, we supply neutral-brand gigabit/PoE media converters and Marvell-based DIN-rail 8-GE + 2 SFP managed switches from single units, CE/RoHS/UKCA, EXW USD — is there a budget MC or industrial switch position your customers ask for below the branded lines?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名误配（快照到的网站不是本客户））
 
-- **首页**：https://lanode.com/　语言：en　站点地图 URL 数：0
-- **标题**：Home / don4L's hobbies
-- **首页栏目**：Home / Latest Post / Autumn Wildlife / Terrestial / Recent Images / NGC Catalogue / Sharpless Catalogue / Sponsored byCyber
-- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 1
-- **站内型号串**（正则抽取，含非交换机）：SH2-101, NGC1893, NGC2238, NGC2239, SH2-104, SH2-105, SH2-108, ST-705, NGC4565, NGC1907, NGC1931, NGC2236
-- 首页正文摘录：Skip to main content don4L's hobbies Home Home Images Mosaics Galaxies Nebulae Lunar Clusters Open Clusters Blender Testing My (Humble) PI Wildlife Feathered Friends Foxes Fox News Bugs Latest 52 Weekly Challenge Welcome to my photography website. I've always loved photography since I bought my first camera (Fujica ST-705) in about 1980. This site is just for sharing with friends, so it's more than a bit disorganised
-- 数据文件：`data/saga_clients/site_snapshots/SB-770.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
+- 尝试域名：lanode.com, lanode.co.uk
+  > True
+- **提示**：人工核对后判定表内域名不属于本客户（见上方说明），本客户以邮箱/电话为准；快照内容不采用。
+- 数据文件：`data/saga_clients/site_snapshots/SB-770.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -318,6 +317,7 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
+- [ ] 公司官网（表内域名经核实不属于本客户；真实官网未知）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -37,10 +37,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：deep。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-038，W 批次调研 2026-10-19/20）"
+  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-038，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "TRIOTRONIK GmbH（2026-09-16 更名自 TRIOTRONIK Computer und Netzwerktechnik GmbH；FN 287460k LG ZRS Graz；UID ATU63017835；资本 €35,000；TRIOTRONIK Holding GmbH 100%）",
@@ -138,5 +139,12 @@
   "draft_en": null,
   "as_of": "2026-10-25"
  },
- "country_fix": "奥地利"
+ "country_fix": "奥地利",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:36:43Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ }
 }

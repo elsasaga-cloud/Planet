@@ -65,6 +65,7 @@ updated: 2026-10-29
 | 2025-12-17 | 来 | Lachezar | there are quite a few useful and interesting points that we could apply, but overall, the prices are rather high. | 价格停点 | `4c204b4351556387` |
 | 2025-12-17 | 来 | ets@elitteamsecurity.com | Re: Optional Marvell Chipset Solutions｜*Hi,*  Yes, I reviewed the information — there are quite a few useful and interesting points that we could apply, but overall, the prices are rather h | 来信（邮箱索引；原文见 k；是否人工回复以原文为准） | `4c204b4351556387` |
 | 2026-09-07 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 最近一封去信（邮箱索引；去信共 14 封） | `5468323c3bbb5692` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | ЕЛИТ–ТИМ-СЕКЮРИТИ ООД – лицензирана охранителна фирма, действаща на територията на цялата страна | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -131,7 +132,7 @@ updated: 2026-10-29
 - **是谁**：保加利亚持牌安保公司（全国性财产保护许可，10+ 年），运营本地区最大的监控报警中心之一，实时监看 3,000+ 摄像头，提供 IP 视频监控方案；22 名员工（2022），销售额 €0–2M；A 渠道已回复：4/8 口 PoE、CCTV 为主、要 price list 与完整资料、项目较多，WA 已加。
 - **类型**：安保服务商 + 视频监控集成（终端用户/集成商）
 - **规模**：小型（22 人，€0–2M）
-- **在卖/在用品牌**：AxxonSoft（合作伙伴）
+- **在卖/在用品牌**：AxxonSoft（合作伙伴）, Hanwha
 - **【AxxonSoft 合作伙伴页】持牌安保公司，10 年业务，监看 3,000+ 摄像头，IP 方案**
   > Elite Team Security is а Bulgarian company, licensed in security… has been in the security business for 10 years… We watch more than 3000 cameras in real time
   > 来源：https://www.axxonsoft.com/partners/partner-locator/bulgaria/elite-team-security-ood（抓取 2026-10-21）
@@ -153,9 +154,10 @@ updated: 2026-10-29
 - **KP**：（见 Clients 表联系人）（） +359 879 377 573（WA；与公司公开号码一致）〔用户 Clients 表 + AxxonSoft 页〕
 - **KP**：Радка Ангелова Иванова（Управител（2020-03-19 起）= 签字人；股东 „ВЪЛК - 80“ ЕООД 34% / Д. Конецовска 33% / Т. Иванова 33%（2024-06-04 起，股权 4 次易手）；МВР 私人保安许可 № 288 З/02-770（2023-01-10）（第 84 批 官方登记核实 2026-10-27）） 〔https://papagal.bg/eik/202351530/4f70〕
 - **调研后定级**：B（原自动 A）——Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A
-- 备注：已回复 + 具体需求（4/8 口 PoE，CCTV 项目多）+ 3,000 路摄像头存量 = 稳定小批量复购源；保加利亚虽为非主动开发小国，但为入站回复，按 A 跟。P1：STC-28DGGPM（8 口 PoE）+ STI-244GP（4 口），项目价阶 25%。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+已回复 + 具体需求（4/8 口 PoE，CCTV 项目多）+ 3,000 路摄像头存量 = 稳定小批量复购源；保加利亚虽为非主动开发小国，但为入站回复，按 A 跟。P1：STC-28DGGPM（8 口 PoE）+ STI-244GP（4 口），项目价阶 25%。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1）
+### 加厚挖掘（2026-10-21 · 深挖 v1 + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

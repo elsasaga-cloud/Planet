@@ -55,6 +55,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-02-02 | 去 | A/S 群发 | 16 Port Ethernet Switch、Managed Optical Bypass Switch | 11 封 / 0 次打开 / 0 回｜首封 2025-01-27 → 末封 2026-02-02（11 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 主要是CCTV 有一些不同品牌的FS POE injector 有Vigitron的 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Alibi Security - Professional Security Technology — Alibi Security - Professional Security Technology | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -127,9 +128,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Billy Grumbles（联系人（研究档 KP）= 收件人 — 一页纸一次：贴标 OEM 30% B、Alibi 自有品牌 PoE（STC-028GP $28 / STC-2216GP / STC-2224GP $86）贴标 + MOQ + 付费样机；在售 D-Link / TP-Link / Vigitron 不点名 — 美国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP（买方清关）、NDAA / TAA / UL 不声称；周三 08–10 当地（第 121 批 官方登记核实 2026-10-29））billy.grumbles@alibisecurity.com 〔用户表〕
 - **KP**：Brian Wood（CEO（een.com 新闻 2026-10-29；无公开邮箱）（第 121 批 官方登记核实 2026-10-29）） 〔〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

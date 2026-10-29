@@ -153,7 +153,8 @@ updated: 2026-10-29
   > 来源：https://www.protenders.com/companies/tecpro-solutions-llc（抓取 2026-10-21）
 - **KP**：Mohammed Rafi（Executive Director） +971 50 4489928（用户记录 WA）〔用户 Clients 表 + LinkedIn 职务〕
 - **KP**：MD Shereef（（用户记录））shereef@tecprosolutions.com 〔用户 Clients 表〕
-- 备注：3 次回复 + WA 在线 + 高管级联系人；集成商身份与 ELV 项目用 PoE 交换机高度相关，虽历史询盘为 HDMI 转换器（Saga 不做）。中东非主攻区但可直接转为项目报价。P1：STC-424DGGPM-280W（楼宇安防 24 口 PoE），项目价阶 25%。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+3 次回复 + WA 在线 + 高管级联系人；集成商身份与 ELV 项目用 PoE 交换机高度相关，虽历史询盘为 HDMI 转换器（Saga 不做）。中东非主攻区但可直接转为项目报价。P1：STC-424DGGPM-280W（楼宇安防 24 口 PoE），项目价阶 25%。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v2（官网 2026 新闻 + 名录核对））
 

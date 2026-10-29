@@ -56,6 +56,7 @@ updated: 2026-10-29
 | 2024-11-05 | 去 | Simon → Angora Networks（SA-077）附件 Turkey Client List.xlsx | 名单行：「switch info@teamon.com.tr https://www.teamon.com.tr/urunler/listesi?marka=AEM&sayfa=3」 | Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持） | `gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx` |
 | 2026-09-21 | 去 | A/S 群发 | 10G Enterprise SFP Switch、Industrial PoE Switch | 18 封 / 0 次打开 / 0 回｜首封 2024-06-29 → 末封 2026-09-21（18 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：switch | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | TeamOn ile teknoloji elinizde! — TeamOn Teknoloji Çözümleri TeamOn Teknoloji Çözümleri | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）
 
@@ -135,7 +136,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（teamon.com.tr，快照 2026-10-21）
 - **是谁**：土耳其安卡拉（+90 312 806 35 29）IT 方案 / 经销商（在售 **PLANET**、Allied Telesis、Netgear、Ruijie、Teltonika、D-Link、TP-Link；switch 48 / poe 31），表内 switch、「主要是几个有名的牌子」；群发 2 次。
-- **在卖/在用品牌**：PLANET, Allied Telesis, Netgear, Ruijie, Teltonika, D-Link, TP-Link
+- **在卖/在用品牌**：PLANET, Allied Telesis, Netgear, Ruijie, Teltonika, D-Link, TP-Link, Cisco
 - **【官网快照】品牌 PLANET / Allied Telesis / Netgear / Ruijie / Teltonika / D-Link / TP-Link；+90 (312) 806 35 29；info@teamon.com.tr**
   > TeamOn Teknoloji Çözümleri… brands PLANET, Allied Telesis, Netgear, Ruijie, Teltonika, D-Link, TP-Link
   > 来源：https://teamon.com.tr/（抓取 2026-10-21）
@@ -143,9 +144,10 @@ updated: 2026-10-29
   > 兴趣：switch
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（未具名）（info@（点名 satın alma / proje müdürü）（第 105 批 官方登记核实 2026-10-28））info@teamon.com.tr +90 312 806 35 29〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

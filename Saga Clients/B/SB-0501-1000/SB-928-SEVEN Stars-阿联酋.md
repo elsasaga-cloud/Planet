@@ -55,6 +55,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-28 | 去 | A 群发 | 10G Enterprise SFP Switch、24 Port PoE Managed Switch | 7 封 / 0 次打开 / 0 回｜首封 2026-03-23 → 末封 2026-09-28（7 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：工程商 Switch 网站：看着不太相关 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Seven Stars Group — Seven Stars Group of companies, has diversified business segments such as Car Rental, Transportation, Auto Garage, Auto Spare Parts, Software and IT Solutions | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -128,9 +129,10 @@ updated: 2026-10-29
   > 兴趣：工程商 Switch 网站：看着不太相关
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Nibu Basheer（表内「Director」；ZoomInfo = Seven Stars Auto Spare Parts 的 Client Relations Associate（2021 起）→ 身份待核 — 不动，不发（第 117 批 官方登记核实 2026-10-28））nibu@sevenstarsuae.com +971 50 441 0530〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照：行业相关性低））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照：行业相关性低） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

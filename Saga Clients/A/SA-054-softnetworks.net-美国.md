@@ -69,6 +69,7 @@ updated: 2026-10-29
 | 2026-04-03 | out | Elsa → nealc@softnetworks.net | Industrial PoE Switch（Elsa 1:1 逐月名单第 6/8 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:nealc@softnetworks.net` 全程 complete：8 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
 | 2026-05-11 | out | Elsa → nealc@softnetworks.net | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-08-04 | out | Elsa → nealc@softnetworks.net | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 8/8 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(m) `from:e.sagatelecom to:nealc@softnetworks.net` 全程 complete：8 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Softnetworks IT Hardware repair services and sales for Chromebook & Apple — Softnetworks provides expert IT hardware repair, services and sales for Chromebook, and Apple device services with reliable support for schools and businesses. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：（已核 2026-10-24，第 73 批）Elsa 05-14 实报 STI-288DGGPM-2BT $140/pc + 规格书；04-30 已先给 STI-288DGGPM 规格书
 
@@ -161,9 +162,10 @@ updated: 2026-10-29
   > 来源：https://softnetworks.net/about-us/（抓取 2025-10-12）
 - **KP**：Neal Cennamo（Vice President（2014 至今）= 采购拍板人；老板 / 成员待核（NJ LLC 不公开成员）；Softnetworks LLC 2011 年 NJ 注册，EIN 46-1347043，18 人，K-12 学区投标常客（Red Bank BOE 等）（第 85 批 官方登记核实 2026-10-27））nealc@softnetworks.net +1 201-636-7188（官网）〔用户 Clients 表 + Datanyze/官网〕
 - **KP**：Neal Cennamo（Vice President（2014 至今）= 采购拍板人；老板 / 成员待核（NJ LLC 不公开成员）；Softnetworks LLC 2011 年 NJ 注册，EIN 46-1347043，18 人，K-12 学区投标常客（Red Bank BOE 等）（第 85 批 官方登记核实 2026-10-27））nealc@softnetworks.net（用户表原值） +1 201-636-7188（公司总机）〔https://www.zoominfo.com/p/Neal-Cennamo/81956627〕
-- 备注：美国主攻区、VP 直接回复。但其商业模式是 Cisco 等翻新件（低价竞争逻辑），新白牌工业/PoE 交换机可作为其'新品补充线'；需要 FCC 文件，不承诺 UL/TAA。P1：STI-288DGGPM（工业交换机类目对位）或 STC-28DGGPM 入门 PoE，分销价阶 20%。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+美国主攻区、VP 直接回复。但其商业模式是 Cisco 等翻新件（低价竞争逻辑），新白牌工业/PoE 交换机可作为其'新品补充线'；需要 FCC 文件，不承诺 UL/TAA。P1：STI-288DGGPM（工业交换机类目对位）或 STC-28DGGPM 入门 PoE，分销价阶 20%。
 
-### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + 目录核对））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + 目录核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

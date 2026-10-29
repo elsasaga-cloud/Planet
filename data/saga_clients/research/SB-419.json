@@ -50,10 +50,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "Sioux Falls, SD（卫星：St. Petersburg / Seattle / Minneapolis / Bratislava / 深圳）",
@@ -149,10 +150,46 @@
     "quote": "大口Switch",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Audio. Video. Control. – AVPro Global — AVPro Global is a manufacturer of AVPro Edge, AudioControl, RTI, Bullet Train, Murideo, ThenAudio & ProControl, engineering cutting-edge AV distribution, audio, control & calibration equipment.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.avproglobal.com/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:40:43Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "ecom-swiper@11.0.5.js",
+   "ecom-swiper@11.css"
+  ],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "AC-MV-41",
+   "AC-MX-42",
+   "AC-MXNET-SW24E",
+   "AC-MXNET-SW48E",
+   "AC-MXNET-1G-E",
+   "AC-MXNET-1G-D",
+   "AC-MXNET-1G-EV2",
+   "AC-MXNET-1G-AVDM-EV2"
+  ],
+  "url": "https://www.avproglobal.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

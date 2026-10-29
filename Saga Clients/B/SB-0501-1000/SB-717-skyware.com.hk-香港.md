@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2025-02-12 | out | Elsa → sales@skyware.com.hk | 8 Port Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-10-08 | 去 | A 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 19 封 / 1 次打开 / 0 回｜首封 2025-03-14 → 末封 2026-10-08（19 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS 周边产品 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | skyware - more than solution — SkyWare is a leading innovator offering IP-based technology. Founded in 2001 and based in HK, all products are programmable, configurable and devices which can be connected via local network or via the internet, offering cost effective, reliable embedded solutions incl | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -133,9 +134,10 @@ updated: 2026-10-29
   > 工业FS 周边产品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（无具名 KP）（收件 sales@skyware.com.hk Attn: Sales Manager — 最后一次一页纸：集成商 25% B、楼宇 IoT 配套工业小机（STI-054GP / STI-154GP / STI-280GE $46.6）一口价 + MOQ 1 — 香港常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 香港（免税）（第 121 批 官方登记核实 2026-10-29）） 〔〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

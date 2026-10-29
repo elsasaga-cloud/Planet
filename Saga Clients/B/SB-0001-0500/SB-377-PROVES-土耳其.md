@@ -54,6 +54,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 要工业级交换机报价单 / Serdar KARASU / bilgi@proves.com.tr | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Proves Bilgi Teknolojileri – Güvenlik – Altyapı – Siber Güvenlik | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -127,9 +128,10 @@ updated: 2026-10-29
   > 要工业级交换机报价单 / Serdar KARASU / bilgi@proves.com.tr
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Serdar Karasu（创始人 / 负责人（ZoomInfo Founder；LinkedIn）= 收件人本人（第 106 批 官方登记核实 2026-10-28））bilgi@proves.com.tr（用户表） —〔https://www.zoominfo.com/p/Serdar-Karasu/8496040136〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（名录 + LinkedIn 核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（名录 + LinkedIn 核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

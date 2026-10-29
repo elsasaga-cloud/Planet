@@ -99,7 +99,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（timeout）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（phuongdung.com：超时（站慢或封锁），2026-10-21，第 1 次）
 - **是谁**：越南 Phuong Dung（phuongdung.com：分销商/批发零售商，switch 有 ONV 的；KP Văn Đức Phương；官网 timeout）；表内 1 次跟进无回复。
 - **类型**：网络产品分销/批发商（越南，ONV 在售）
 - **在卖/在用品牌**：ONV
@@ -110,7 +110,8 @@ updated: 2026-10-29
   > 分销商 批发零售商 / switch 有ONV的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Văn Đức Phương（负责人 / 法人代表（masothue VĂN ĐỨC PHƯƠNG 吻合；另代表 Univision Việt Nam JSC、Sài Gòn New；1 次跟进无回复）= 拍板人 / 收件人 — 一页纸一次：分销 20% B small、摄像机 PoE STC-028GP $28 / STC-228GP / STC-2216GP 一口价 + MOQ 1 + 付费样机、不点名 ONV — 越南常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、MIC 不声称（第 119 批 官方登记核实 2026-10-28））info@phuongdung.com 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

@@ -6,7 +6,10 @@
  "summary": "英国斯托克的工业自动化备件贸易与维修商 Ralakde Ltd（公司号 09757591，2015-09-02 成立；Ralakde Automation Ltd 11435782（2018）；董事/PSC Deepak Gupta（ex-Radwell PLC 工程师）；业务：PLC、变频器、驱动器、HMI、电源、PCB 的新品/库存件采购与维修；网点英国、美国 Nashua NH、德国 Waldsassen、捷克 Stará Voda、印度 Pune/Siliguri；+44 1782 563377；sales@ralakde.com）。用户表：处理各种工业产品 trading，2014 年起用国际站，Director Deepak Gupta「质量一般」；WhatsApp 已加；无跟进。工业备件贸易 → 分销 20%，工业小机入门。",
  "type": "",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Schneider",
+  "Siemens"
+ ],
  "evidence": [
   {
    "kind": "公司注册",
@@ -55,10 +58,11 @@
  ],
  "grade_override": "A",
  "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（公司注册 + 官网核对）"
+  "level": "B 级加厚 v1（公司注册 + 官网核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "RALAKDE LTD（Companies House 09757591；关联 Ralakde Automation Ltd 11435782 / Ralakde Holdings Limited 16830812（2025-11-04 新设））",
@@ -149,6 +153,14 @@
     "quote": "处理各种工业产品 trading 2014年使用国际站 / Deepak Gupta / Director 质量一般 / 078879 13748 已加",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Your partner in automation – Ralakde Automation — We are an Industrial Supplies and Repairs company in UK. We are expert in repairing and sourcing PCB, PLC, Inverters, Drives, PCB, CNC, HMI, Power Supplies. Our team of engineers and technicians have extensive experience in providing repair services ",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://ralakde.com/"
    }
   ],
   "proof_gaps": [
@@ -166,5 +178,42 @@
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌"
   }
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:30:06Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "example@email.com",
+   "sales@ralakde.com",
+   "your@email.com"
+  ],
+  "phones": [
+   "+1 (603) 272-7937",
+   "+44 1782 982393",
+   "003004 5411011"
+  ],
+  "social": [
+   "https://www.instagram.com/ralakdeautomation/",
+   "https://www.youtube.com/channel/UCT0jqtZ8_Nev5C3CN7hFOoA",
+   "https://x.com/plchub"
+  ],
+  "models_on_site": [
+   "MS1500P",
+   "XKDF11440440",
+   "SSV66A150E1GP",
+   "QAX95",
+   "TR24-AB1ADC70E0",
+   "LV429371",
+   "XVLA134",
+   "S5-06303NR0"
+  ],
+  "url": "https://ralakde.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

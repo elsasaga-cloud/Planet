@@ -63,6 +63,7 @@ updated: 2026-10-29
 | 2024-11-11 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「电口」→ 对方「问了一个不太相关的」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.47 1111` |
 | 2024-12-18 | 去 | Saga（群发） | 「90W PoE Managed Switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `3af24011688d7cd2` |
 | 2025-06-21 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「工业非管理组合图」→ 对方「用switches」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.47 621` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Борн – системы безопасности и видеонаблюдения — Борн – системы безопасности и видеонаблюдения - интернет магазин Борн | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文
 
@@ -153,7 +154,7 @@ updated: 2026-10-29
 - **是谁**：俄罗斯圣彼得堡网络产品贸易商（用户记录：销售多品牌 MC/SFP/VC/FS，含多家国内品牌），长期互动：39 次跟进中 5 次实质回复，最近 2025 年。
 - **类型**：多品牌贸易商/分销
 - **规模**：待补证
-- **在卖/在用品牌**：多家国内品牌（用户记录）, SNR, NSGate
+- **在卖/在用品牌**：多家国内品牌（用户记录）, SNR, NSGate, Huawei, D-Link, Zyxel, Ubiquiti, Bosch, Allied Telesis, Hikvision, Axis, MikroTik, Cisco, Dahua, Moxa
 - **【用户记录】卖多品牌 MC/SFP/VC/FS；5 次回复 / 39 次跟进；地址圣彼得堡 Mebelnaya 12**
   > 有很多牌子的产品 卖别人的MC SFP VC FS / 国内好几个牌子的；Address: 197374, St. Petersburg, Mebelnaya str., 12（用户 Clients 表摘录）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
@@ -170,9 +171,10 @@ updated: 2026-10-29
   > ООО «Борн СПб» Адрес: 192236, г. Санкт-Петербург, ул. Софийская, дом 8, кор. 1
   > 来源：https://snr.systems/ru/partners/ooo-born-spb（抓取 2026-10-21）
 - **KP**：Федотов Сергей Иванович（Sergey I. Fedotov）（Генеральный директор / 唯一创始人（ЕГРЮЛ）；公司 9 人、2025 营收 2.94 亿 ₽、毛利率 0.6%、2026 年两起供货仲裁被告、56 份有效 EAC 声明、2026-04 注册商标 VIGILIX（第 83 批 官方登记核实 2026-10-27））sales@born-spb.ru（公司公开） +7 812 458-85-86〔https://www.rusprofile.ru/id/2395878〕
-- 备注：5 次实质回复 = 真实互动，品类（MC/FS）对位 STI-110GE / 工业 FS。俄罗斯非主攻区且收款路径需核（T/T 受限时走第三方/人民币结算，报价前确认）。P1：STI-110GE 介质转换器 + STI-288GP 非管理工业 PoE，分销价阶 20%。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+5 次实质回复 = 真实互动，品类（MC/FS）对位 STI-110GE / 工业 FS。俄罗斯非主攻区且收款路径需核（T/T 受限时走第三方/人民币结算，报价前确认）。P1：STI-110GE 介质转换器 + STI-288GP 非管理工业 PoE，分销价阶 20%。
 
-### 加厚挖掘（2026-10-21 · 深挖 v2（注册信息 + 网店 + 伙伴名录核对））
+### 加厚挖掘（2026-10-21 · 深挖 v2（注册信息 + 网店 + 伙伴名录核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -205,7 +207,7 @@ updated: 2026-10-29
 - **首页栏目**：Лучшие товары / Хиты продаж / Специальные предложения / Новости / Обзоры / Статьи / Новинки
 - **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 59、ethernet 13、10g 13、planet 12、sfp 10、hikvision 9、ubiquiti 7、axis 7、moxa 3、fiber 2、gigabit 2、cisco 2
 - **站内出现的品牌**：Huawei, D-Link, Zyxel, Ubiquiti, Bosch, Allied Telesis, Hikvision, Axis, MikroTik, Cisco, Dahua, Moxa　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
-- **站内型号串**（正则抽取，含非交换机）：IPOE-165, DXE-810S, AT-2911SX, SC-1143, AT-2711FX, AT-2911SFP, DS-TL2000CI, AF-11-DUP-H, ST4000VX007, DS-2CD2042WD-I, NBN-71013-B, DRP-240-24
+- **站内型号串**（正则抽取，含非交换机）：IPOE-165, DXE-810S, AT-2911SX, SC-901, AT-2711FX, AT-2911SFP, DS-TL2000CI, AF-11-DUP-H, ST4000VX007, DS-2CD2042WD-I, NBN-71013-B, DRP-240-24
 - **站内公开邮箱**：sales@born-spb.ru
 - **社媒**：https://vk.com/born_spb_ru
 - **产品类页面**：https://born-shop.ru；https://born-shop.ru/faq.html；https://born-shop.ru/news.html；https://born-shop.ru/xmap.html；https://born-shop.ru/oplata.html；https://born-shop.ru/montag.html

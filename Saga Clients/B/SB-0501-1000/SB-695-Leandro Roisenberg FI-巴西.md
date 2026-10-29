@@ -53,6 +53,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | （空） | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | LRI Automação Industrial - Soluções em Automação Industrial — Fontes de alimentação, conversores CC/CC, switches industriais, computadores embarcados e aquisição de dados para automação. Estoque no Brasil e NF-e. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来；用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -115,9 +116,10 @@ updated: 2026-10-29
   > （空）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Leandro Roisenberg（Director / 业主（个体企业 Leandro Roisenberg FI 法人本人；官网 contato 2026-10-29）= 收件人 — 一页纸一次：分销 20% B、工业线中性包装一口价（STI-154GP / STI-288DGGPM $137 / STI-280GE $46.6）+ MOQ 1 + 付费样机；在售进口品牌不点名 — 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（进口税自理）、Anatel 不声称（第 121 批 官方登记核实 2026-10-29））leandro@lri.com.br +972 50 665 0861（表内；巴西座机 +55 11 4020 2470）〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：ORing 渠道））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：ORing 渠道） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

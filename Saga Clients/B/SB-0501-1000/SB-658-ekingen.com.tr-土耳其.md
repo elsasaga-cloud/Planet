@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2025-10-30 | 去 | A 箱（Alan） | 10G Enterprise SFP Switch | 首封去信（邮箱索引；去信共 5 封） | `7a0b31eb6dbd72cc` |
 | 2026-03-11 | 去 | A 群发 | 10G Enterprise SFP Switch、Booster PoE Switch | 5 封 / 0 次打开 / 0 回｜首封 2025-10-30 → 末封 2026-03-11（5 去 / 0 来） | `gmail_digest` |
 | 2026-03-11 | 去 | A 箱（Alan） | Updated Ethernet Switches Links | 最近一封去信（邮箱索引；去信共 5 封） | `00d8c20483778e23` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Ekingen Elektronik - Resmi Web Sitesi — Ekingen Elektronik Resmi Web Sayfasına Hoşgeldiniz. Burada tüm markalarımız hakkında detaylı bilgi alabilirsiniz. İletişim kurabilirsiniz. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -122,9 +123,10 @@ updated: 2026-10-29
 - **【官网快照】Ekingen 定位**
   > Ekingen Elektronik - Resmi Web Sitesi ; tüm markalarımız hakkında detaylı bilgi ; /kataloglar/
   > 来源：https://ekingen.com.tr/（抓取 2026-10-21）
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

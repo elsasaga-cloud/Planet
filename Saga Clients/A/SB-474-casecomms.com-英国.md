@@ -66,6 +66,7 @@ updated: 2026-10-29
 | 2025-02-08 | 来 | Andy | It does seem quite expensive we have layer 3 switches for a lot less. | 价格断 | `83a6a36c850cb83b` |
 | 2025-02-08 | 去 | Saga（Alan） | Hi, Andy, Thanks for your interest. 1, Its 500usd/pc, please see attached datasheet and manuals. 2, In the datasheet, you can see some details about customization. *And please do know that this is Marvell based, not Realtek, Vitesse or Broadcom.* *Its for high | 历史报价点（主题「Re: L3 Managed Switch」；第 20 批从 gmail_a 回补）：500usd | `aee9616b96315f19` |
 | 2025-03-03 | 去 | Saga（Alan） | Hi, Andy, Please check this series(Unmanaged, PoE) Port: 2*Gigabit SFP+4*Gigabit PoE Feature: 120W budget, PoE watchdog, 250-meter poe distance, support DIP Its good for powering IP cameras(similar PDs). Prices are fairly competitive.… | Saga 实质答复原文（主题「Re: L3 Managed Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `71f5f62ff6785f81` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Case Communications Case Communications Industrial Rugged Networks — Case Communications Industrial Rugged Networks. Street – hardened networks for mission-critical applications, Fibre, Broadband, Cellular. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -179,9 +180,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Andy（Andrew Thomas Saoulis）（Director / 老板 —— Andrew Thomas Saoulis，唯一在任董事，2000 年创办，1950 年生（第 82 批 Companies House 核实 2026-10-27））andys@case.uk.com 〔S/A 邮箱来信 2024-05-09 → 2025-02-08 来信 5 封（无署名全名）（第 72 批从邮件表头补）〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来；A6 真回≥3+对位（任何区域）
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网产品线核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网产品线核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

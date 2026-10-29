@@ -56,10 +56,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "ul. Tadeusza Mazowieckiego 7G, 26-600 Radom",
@@ -141,6 +142,14 @@
     "quote": "Managed PoE Switches",
     "why": "本日去信真实主题（邮箱索引 b541a4df6d276a61；信稿开头句引用此封；此前稿内写的「10G Enterprise SFP Switch」是线程列表首题，不是本封）",
     "k": "b541a4df6d276a61"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "tinycontrol",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://tinycontrol.pl/"
    }
   ],
   "proof_gaps": [],
@@ -149,5 +158,12 @@
    "body": "Hi Marcin,\n\nOver the past months you had a steady stream of product mails from us - most recently \"Managed PoE Switches\" on 28 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the tinycontrol PoE range, straight: the 2-fibre + 10-copper layout you asked about we do not have as a standard model; the nearest is 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity). The 4F1G position exists exactly: 4 x Gigabit PoE+ + 1 x Gigabit + 1 x SFP, unmanaged - STC-114GP - $18.5. CE/RoHS; colour box from 200 sets.\n\nOne question: is 8 + 2 acceptable for the managed position, or is the 10-copper count fixed by your controller layout?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:40:29Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
  }
 }

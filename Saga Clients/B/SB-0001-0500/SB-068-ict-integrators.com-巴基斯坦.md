@@ -62,6 +62,7 @@ updated: 2026-10-29
 | 2025-04-09 | 去 | Elsa 群发（BCC；To info@globalconnectsynergy.com，巴基斯坦（锚 globalconnectsynergy PK） 批次） | Mini Industrial PoE Switch — （头部未取正文；见 Elsa 箱） | Elsa 箱群发 BCC 触达证据（命中地址 apac@ict-integrators.com, ict-integrators.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-09-07 | 去 | Elsa 群发（BCC；To info@globalconnectsynergy.com，巴基斯坦（锚 globalconnectsynergy PK） 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 apac@ict-integrators.com, ict-integrators.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | switch POE等 / 买了飞宇的 / 富通天下 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | ICT Integrators \| Your Digital Transformation Partner — ICT Integrators | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -127,6 +128,7 @@ updated: 2026-10-29
 - **是谁**：拉合尔的 IT/电信系统集成商与增值分销商 ICT Integrators（2007 年成立；LinkedIn 51–200 人 / RocketReach 22 人、营收 $15.4M；面向电信运营商、企业、工业、医疗、教育、银行；能力：融合数据网、宽带有线/无线、光网络、UC、虚拟化、网络与物理安全；CEO Muhammad Waleed，商务总监 Ihsan Ullah；349-H/3 Johar Town, Lahore；+92 42 3595 1406-7；apac@ict-integrators.com；迪拜办公室）。用户表（富通天下外贸数据）：「买了飞宇的」= 从同行进口 switch/PoE 等，非 Saga 成交；群发无互动。
 - **类型**：系统集成商
 - **规模**：待补证
+- **在卖/在用品牌**：Ubiquiti
 - **【用户记录】switch、PoE 等；历史成交标记；0 次跟进**
   > switch POE等（用户 Clients 表摘录）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
@@ -145,9 +147,10 @@ updated: 2026-10-29
 - **KP**：Muhammad Waleed（CEO / Managing Partner（官网 + LCCI 会员名录；公司箱 apac@）= 拍板人 / 收件人（Attn）— 一页纸一次：集成商 25% B、工业栏目对位 STI-288DGGPM $137 / STI-488DGGPM $147 + 企业接入 STC-4424GCPM $165 / STC-2224GP $86 一口价、MOQ 1 + 付费样机 — 巴基斯坦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、PTA 不声称（第 118 批 官方登记核实 2026-10-28））apac@ict-integrators.com（公司） +92 42 3595 1406（公司）〔https://www.ict-integrators.com/integrators/〕
 - **KP**：Ihsan Ullah（Director Commercial（官网）= 抄送抬头（第 118 批 官方登记核实 2026-10-28））— —〔https://www.ict-integrators.com/integrators/〕
 - **调研后定级**：B（原自动 A）——仅历史成交标记、无互动、南亚非主攻区（−6）→ B 待机回访。
-- 备注：老客户回访一封（STC-28DGGPM / STC-424DGGPM-280W）。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+老客户回访一封（STC-28DGGPM / STC-424DGGPM-280W）。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对；「成交」为富通天下外贸数据））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对；「成交」为富通天下外贸数据） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

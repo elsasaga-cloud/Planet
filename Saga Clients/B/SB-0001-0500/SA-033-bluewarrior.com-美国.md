@@ -62,6 +62,7 @@ updated: 2026-10-29
 | 2024-05-28 | 来 | sales@bluewarrior.com | What is the price? | 询价 | `9a4567efd0384ac8` |
 | 2024-05-28 | 去 | Simon | 140usd/pc STI-288DGGPM-2BT 2*100M/1G/2.5G SFP+8*10/100/1000M PoE Marvell Chip, L2+ Managed… Din Rail, Redundant DC44V~57V | 报价 | `9a5fb90a606c4680` |
 | 2025-03-19 | 来 | sales@bluewarrior.com（自动回复） | Tom West Out of Office… Thom Sherer can be contacted at (713) 826-0739… Email: thom.sherer@dymec.com | 与 DYMEC 同组织的证据 | `84ff2d24a5322ed7` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Products for the Industrial Internet of Things (IoT) \| BlueWARRIOR — BlueWARRIOR's innovative products for the industrial internet of things serve as the backbone of our industrial networking solutions. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：两家的法律关系未在官网交叉印证
 
@@ -166,9 +167,10 @@ updated: 2026-10-29
   > 来源：https://bluewarrior.com/product-category/industrial-poe-switches/（抓取 2026-10-21）
 - **KP**：Thomas West（= SA-044 DYMEC President Thomas West 本人 → 两户并一线；BlueWARRIOR 疑为 Kyland-USA, LLC 的第二品牌（法人待核）（第 84 批 官方登记核实 2026-10-27））sales@bluewarrior.com 〔Clients/A/DONE/US.xlsx〕
 - **调研后定级**：B（原自动 A）——Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B5 四主区+对位（冷）；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A
-- 备注：A 确认（美国自有品牌 + 全线中国白牌 + 已回复）：对位 BW7212G-4GF-8GT ≈ STI-488DGGM 类（8GE+4SFP 工业网管），30% OEM 档；切入点 = 迈威替代/补充 SKU + Marvell 方案 + 10–15 天交期；不承诺 UL/C1D2。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+A 确认（美国自有品牌 + 全线中国白牌 + 已回复）：对位 BW7212G-4GF-8GT ≈ STI-488DGGM 类（8GE+4SFP 工业网管），30% OEM 档；切入点 = 迈威替代/补充 SKU + Marvell 方案 + 10–15 天交期；不承诺 UL/C1D2。
 
-### 加厚挖掘（2026-10-21 · 深挖 v2（官网产品目录逐型号核对））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网产品目录逐型号核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

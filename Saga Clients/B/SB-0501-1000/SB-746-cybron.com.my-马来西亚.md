@@ -57,6 +57,7 @@ updated: 2026-10-29
 | 2025-05-04 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | 48 Port PoE Managed Switch（Elsa 群发第 2/3 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58） | 第 74 批(n) `from:e.sagatelecom to:cybron.com.my` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2025-06-05 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | 8 Port Industrial PoE Switch（Elsa 群发第 3/3 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(n) `from:e.sagatelecom to:cybron.com.my` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：5电口 需要具体的产品信息 实际需要带光的工业POE | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Home - CYBRON SYSTEM SDN BHD | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无来信（Elsa 去信 3 轮见 facts；S/A 箱无往来）；用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -119,9 +120,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Hussen（表内联系人（研究档；要 5 电口资料、实需带光口工业 PoE；WA 无实质回复）= 收件人 — 一页纸一次：集成商 25% B、STI-154GP / STI-288DGGPM 一口价 + 3 年保 + MOQ 1 + 付费样机；邮件 + WA — 马来西亚常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、SIRIM 不声称（第 119 批 官方登记核实 2026-10-28））hussen@cybron.com.my +60 19 386 1632〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Mohd Jamaluddin（Manager, Operations（ZoomInfo，2016 至今）= 抬头抄送（第 119 批 官方登记核实 2026-10-28）） 〔zoominfo.com/p/Mohd-Jamaluddin/3456271277〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

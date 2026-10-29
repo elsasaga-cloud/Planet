@@ -59,6 +59,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2025-09-17 | 来 | robin@ad-net.com.tw | Hi Alan, Thanks for your email. Do you have M12 type switch for railway system ? If yes, we need 16-Port Industrial M12 Gigabit (16*10/100/1000Tx M12 | 来信原文（主题「RE: 16 Port PoE Managed Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `266471f2990a3b25` |
 | 2025-09-17 | 去 | Saga（Alan） | Hi, Robin, Sorry, we do not have M12 switches. But we know who has a feasible solution for this, see below link. *http://www.inmax.com.cn/en/productsinfo.aspx?id=fa9e6f44-3b08-4ccd-acd4-2dd2b4d777ba <http://www.inmax.com.cn/en/productsinfo.aspx?id=fa9e6f44-3b08-4ccd-acd4-2dd2b4d777ba>* Please get in… | Saga 实质答复原文（主题「Re: 16 Port PoE Managed Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `09e9eda0a8877d0b` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | GEPON, Fiber Optic Media Converters, E1 converters, Taiwan — Media converter, Ethernet converter, E1 converter, Fiber modem, Interface converter, SDH, PDH, Video Balun, TDM-IP, Protocol Converter, Video Over Fiber, TDM | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -135,9 +136,10 @@ updated: 2026-10-29
 - **KP**：Robin（研究档 KP（2025-09 回「M12 Switch??」）= 收件人 — 一頁紙一次：貼標 OEM 30%，非 M12 工業線 STI-154GP / 288DGGPM / 488DGGPM / 0240GE + STC-228GP / 2224GP + AD-NET 標；M12 / E1 / GEPON / 光模組 明說不做— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28））robin@ad-net.com.tw 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：羅惠玲（代表人 / 唯一董事（twincn；統編 27843840）— 拍板人（第 116 批 官方登记核实 2026-10-28）） 〔https://www.twincn.com/item.aspx?no=27843840〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照：台系品牌 OEM））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照：台系品牌 OEM） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

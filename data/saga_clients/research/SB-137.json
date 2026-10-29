@@ -58,10 +58,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网核对）"
+  "level": "B 级加厚 v1（官网核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Oral Güvenlik Sistemleri（Oral Companies 旗下；**北塞浦路斯 KKTC 尼科西亚**；KKTC 登记不可达 → 部分坐实）",
@@ -127,6 +128,14 @@
     "quote": "问了工业级POE带网管， bypas, 问了12光12电带POE网管 报价150usd  2光8电带POE管理 （Vitesse) 报价 90usd, 觉得贵了(后面可报一下瑞昱方案的价格）  收发器多模价格",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Oral Companies",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://oralcompanies.com/"
    }
   ],
   "proof_gaps": [
@@ -137,5 +146,25 @@
    "body": "Hi Azeem,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nAt the booth the 2 SFP + 8-port PoE managed switch was $90 and you found it expensive. There is a lower-cost version on our Realtek-based commercial line, same port layout (2 x SFP + 8 x Gigabit PoE+, L2 managed, web GUI), model STC-28GPM - $71.0 USD EXW (MOQ 1, 15-day validity). The unmanaged 2 SFP + 8 PoE unit is $33.2.\n\nOne question: shall I add multimode SFP modules to the quote, or do you source optics locally?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:23:44Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@oralcompanies.com"
+  ],
+  "phones": [
+   "+90 533 852 03 00"
+  ],
+  "social": [],
+  "models_on_site": [],
+  "url": "https://oralcompanies.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

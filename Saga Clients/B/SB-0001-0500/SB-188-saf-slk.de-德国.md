@@ -56,6 +56,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-23 | 去 | A 群发 | 90W PoE Managed Switch、Industrial PoE Switch | 17 封 / 0 次打开 / 0 回｜首封 2025-03-25 → 末封 2026-09-23（17 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | （用户表字段） | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Startseite - Schaltanlagenbau Förderstedt GmbH — Willkommen bei SAF Indivi­du­elle Schalt­an­lagen und Schutz­prü­fungen Herzlich willkommen bei Schalt­an­la­genbau Förder­stedt GmbH – Ihrem zuver­läs­sigen Partner für profes­sio­nellen Schalt­an­la­genbau und hochmo­derne Schutz­prü­fungen auf Nied | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -143,9 +144,10 @@ updated: 2026-10-29
 - **KP**：Marco Bohne（Geschäftsführer（HRB 19446 Stendal；由 ppa. 升任）= **拍板人 = 研究档 KP 本人**（第 97 批 官方登记核实 2026-10-28））bohne@saf-slk.de +49 34741 9886-0〔https://saf-slk.de/kontakt/〕
 - **KP**：Anika Duschka（ppa.（Impressum 授权代表）= 研究档 KP = 抄送（第 97 批 官方登记核实 2026-10-28））duschka@saf-slk.de +49 34741 9886-0〔https://saf-slk.de/kontakt/〕
 - **KP**：Christopher Roder-Rosenov（Kalkulation / Handlungsbevollmächtigter（报价/采购口径；官网公开））roder-rosenov@saf-slk.de +49 34741 9886-0〔https://saf-slk.de/kontakt/〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

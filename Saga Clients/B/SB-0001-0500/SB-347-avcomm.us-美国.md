@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2026-09-28 | 去 | A/S 群发 | Managed Optical Bypass Switch、Marvell Industrial Alert System | 31 封 / 0 次打开 / 0 回｜首封 2024-06-24 → 末封 2026-09-28（31 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS SFP 自己的logo | 表内备注 | `用户表` |
 | 2026-09-28 | 去 | A 箱（Alan） | Managed PoE Switches | 本日去信真实主题（邮箱索引 f1cd9690ace36cae；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封） | `f1cd9690ace36cae` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Advanced Communication & Computing Solutions \| Industrial Networking \| — AVCOMM empowers industries with Advanced Communication and Computing technologies. We specialize in reliable Industrial Ethernet Switches, IIoT, and edge computing solutions for smart manufacturing and public service. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -151,9 +152,10 @@ updated: 2026-10-29
   > 工业FS SFP 自己的logo
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Kang Yu（CEO / COO / Director（多源；H-1B 申报 Director；WHOIS 注册人；IANA PEN 57842 联系人）= 老板 —— **守界：这是同行 —— 华人团队在休斯顿运营的工业交换机自有品牌（自有 6000 系列 PoE 工业机 + 北京产品工程师 = 自己有设计 + 中国供应链）→ B 不再加厚**；若写只问一句「缺哪一款工业口型」，不发价格表（第 92 批 官方登记核实 2026-10-28））kang.yu@avcomm.us 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

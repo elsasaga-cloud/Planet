@@ -114,7 +114,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（parked_or_empty）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（adilec.com：停放/空站（疑停业或仅占位），2026-10-21，第 1 次）
 - **是谁**：西班牙 Guilera（guilera.com；adilec.com 已停放出售）：光纤传输设备品牌（MC、FS、VC、SFP 全部自有 logo，MC 外壳不错）；表内「质量高」；邮箱 guilera@、compras@（采购））；群发 15 次无回复。
 - **类型**：西班牙光纤传输品牌商（自有标 MC/FS/VC）
 - **【用户表】表内兴趣/备注**
@@ -127,7 +127,8 @@ updated: 2026-10-29
   > Adilec.com is for sale | HugeDomains
   > 来源：https://www.hugedomains.com/domain_profile.cfm?d=adilec.com（抓取 2026-10-21）
 - **KP**：（采购部）（采购部（compras@）= 收件人（点名 ADILEC product manager）（第 109 批 官方登记核实 2026-10-28））compras@guilera.com 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

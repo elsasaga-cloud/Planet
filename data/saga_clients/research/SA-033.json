@@ -48,11 +48,12 @@
    "source": "Clients/A/DONE/US.xlsx"
   }
  ],
- "notes": "A 确认（美国自有品牌 + 全线中国白牌 + 已回复）：对位 BW7212G-4GF-8GT ≈ STI-488DGGM 类（8GE+4SFP 工业网管），30% OEM 档；切入点 = 迈威替代/补充 SKU + Marvell 方案 + 10–15 天交期；不承诺 UL/C1D2。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\nA 确认（美国自有品牌 + 全线中国白牌 + 已回复）：对位 BW7212G-4GF-8GT ≈ STI-488DGGM 类（8GE+4SFP 工业网管），30% OEM 档；切入点 = 迈威替代/补充 SKU + Marvell 方案 + 10–15 天交期；不承诺 UL/C1D2。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v2（官网产品目录逐型号核对）"
+  "level": "深挖 v2（官网产品目录逐型号核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "BlueWARRIOR（bluewarrior.com）",
@@ -218,6 +219,14 @@
     "quote": "Tom West Out of Office… Thom Sherer can be contacted at (713) 826-0739… Email: thom.sherer@dymec.com",
     "why": "与 DYMEC 同组织的证据",
     "k": "84ff2d24a5322ed7"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Products for the Industrial Internet of Things (IoT) | BlueWARRIOR — BlueWARRIOR's innovative products for the industrial internet of things serve as the backbone of our industrial networking solutions.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://bluewarrior.com/"
    }
   ],
   "proof_gaps": [
@@ -237,5 +246,32 @@
   }
  ],
  "grade_override": "B",
- "override_reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B5 四主区+对位（冷）；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A"
+ "override_reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B5 四主区+对位（冷）；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:09Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@bluewarrior.com"
+  ],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "IEEE802",
+   "RJ-45",
+   "IEC61850",
+   "RFC2030",
+   "DC12-48",
+   "BW3208GP-2GF-8GTPOE",
+   "BW7212GP-4GT-8GTPOE",
+   "BWS3204GP-2GF-4GTPOE"
+  ],
+  "url": "https://bluewarrior.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

@@ -67,6 +67,7 @@ updated: 2026-10-29
 | 2024-12-12 | 来 | frank@simrex.com | Simon, I will see what I can learn from your web site. Do any of your POE switches have layer 3? VLAN, IGMP etc. Frank Frank Neuperger Simrex Corporat | 来信原文（主题「RE: Industrial PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `19b86efa448c3a2c` |
 | 2026-07-20 | 来 | Frank | we currently use Mikrotik… We have built a cloud NMS using the API… Our cost $90 to $120 including hardened metal packaging… your $1500 pricing is at least 5x… Is there something that your switch does that MT does not do? | 锁定与成本基准 | `5ad38241fd821cfe` |
 | 2026-07-21 | 去 | Simon | We have this model… similar to Mikrotik model. Both are Marvell based… Price is 130USD/PC for single AC input.  [附件：STC-424XGGM.docx、Saga Feature List_7.5.x_L2+.xlsx、Dual AC.jpg → 报的是 STC-424XGGM 单 AC $130；双 AC 版可做] | Saga 对位；型号 = STC-424XGGM（2026-10-24 从附件名核实） | `06610cfbde4173c3` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | SIMREX Corporation — A wireless data communications equipment manufacturer for mobile and stationary wireless networks and monitoring / tracking applications. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：成单仅见用户表，PI 包无 Simrex；SmartByte 规划 2027 出 EN50155 系列（其轨道应用）——但轨交 PASS 口径不变
 
@@ -169,9 +170,10 @@ updated: 2026-10-29
   > DATAMOVER MS-5GS - Hardened Gigabit Managed Switch Supported by SIMREX CRMS NMS … Five 10/100/1000 Mbit/s … DATAMOVER MSG-8E4S - Hardened Gigabit Managed Switch … Eight 10/100/1000 Mbit/s … Supports 802.3af/at devices if the 48-57VDC input is used. Max current 450mA per port
   > 来源：https://www.simrex.com/site/apps/traffic.htm（抓取 2026-10-21）
 - **KP**：Frank Neuperger（General Manager；SAM.gov 登记联系人（CAGE 1WEC8 / DUNS 087787573，Delaware 公司，S-Corp，Woman Owned Business，业务始于 1996-01-18，SAM 续期至 2027-05-04）（第 83 批 官方登记核实 2026-10-27））frank@simrex.com +1 716-206-0174（总机）〔https://rocketreach.co/frank-neuperger-email_64101596 ; https://cage.report/DUNS/087787573；S 邮箱 2024-12 来信表头 4 封〕
-- 备注：A 级确认：自有品牌加固交换机 = 最优 OEM 客户类型；注意其应用含轨道/ITS，Saga 无 EN50155，只按 DIN 工业 L2+ 对位。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+A 级确认：自有品牌加固交换机 = 最优 OEM 客户类型；注意其应用含轨道/ITS，Saga 无 EN50155，只按 DIN 工业 L2+ 对位。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1）
+### 加厚挖掘（2026-10-21 · 深挖 v1 + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

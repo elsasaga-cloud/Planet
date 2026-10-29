@@ -59,10 +59,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "意大利",
@@ -174,6 +175,14 @@
     "quote": "16 Port Industrial PoE Switch",
     "why": "本日去信真实主题（邮箱索引 aabd5d262f145b05；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
     "k": "aabd5d262f145b05"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "VOXplus - Innovazione Integrazione Connessione — VOXplus è un System Integrator in grado di fornire ai propri clienti, soluzioni e competenze che permettano loro di massimizzare le...",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.voxplus.it/"
    }
   ],
   "proof_gaps": [],
@@ -182,5 +191,37 @@
    "body": "Hi Gianni,\n\nWe wrote to you once in February 2025 about an 8-port industrial PoE switch, and since then only general product mails - most recently \"16 Port Industrial PoE Switch\" on 16 September 2026 - none of which needed an answer. This one is specific.\n\nNext to the Maiwe units you specify, two equivalents from small lots, neutral packing, -40 to 75 C, CE/RoHS: MIEN2205P-4T position - DIN-rail 4 x Gigabit PoE+ + 1 x Gigabit + 1 x SFP, unmanaged - model STI-154GP - $39.2 USD EXW (MOQ 1, 15-day validity); MISCOM8212GP-4XGF position - 8 x Gigabit PoE+ + 4 x 10G SFP+, L2+ managed with ring redundancy, Marvell-based - STI-488XGGPM - $171.9 - L2+, not L3, said up front. M12 and EtherCAT we do not do.\n\nOne question: which Maiwe model do you use most often in the building-automation jobs, so I quote that equivalent properly?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:38:21Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@voxplus.it",
+   "sales@voxplus.it",
+   "voxplus@pec.it"
+  ],
+  "phones": [],
+  "social": [
+   "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.voxplus.it%2Flayer-2-e-layer-3-nelle-reti-industriali-differenze-e-applicazioni%2F",
+   "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.voxplus.it%2Fpoe-ad-alta-potenza-lo-switch-industriale-maisvch-miscom8212gp-4xgf-8gtpoe90%2F",
+   "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.voxplus.it%2Frete-industriale-parchi-eolici-remoti-maisvch%2F",
+   "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.voxplus.it%2Fridondanza-industrial-ethernet-thailandia-rstp-mrp-erps%2F"
+  ],
+  "models_on_site": [
+   "MISCOM8212GP-4XGF",
+   "RS232",
+   "RS485",
+   "MI-1828564",
+   "MISCOM8212GP",
+   "MISCOM7028"
+  ],
+  "url": "https://www.voxplus.it/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

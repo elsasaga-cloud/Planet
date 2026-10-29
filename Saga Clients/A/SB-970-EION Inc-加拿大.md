@@ -148,9 +148,10 @@ updated: 2026-10-29
 - **KP**：Saf Assadi（CTO = 无线基站 / 工业 PoE 选型人 → 写他（STI 工业系列 -40℃）（第 89 批 官方登记核实 2026-10-27）） 〔https://www.federalcorporation.ca/corporation/3921174〕
 - **KP**：Manny Mistry（VP Sales = ISP 接入侧 24 口管理型选型人 → 写他；研究档原收件 harshul@ 非决策人（第 89 批 官方登记核实 2026-10-27）） 〔https://www.federalcorporation.ca/corporation/3921174〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：deep。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

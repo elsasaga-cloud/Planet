@@ -57,6 +57,7 @@ updated: 2026-10-29
 | 2025-02-17 | out | Elsa → info@ad-in.net | L3 Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-09-16 | 去 | A/S 群发 | Marvell Alleycat5 Solution、16 Port Ethernet Switch | 19 封 / 0 次打开 / 0 回｜首封 2024-07-04 → 末封 2026-09-16（19 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：MC 工业FS 机架式 PoE SFP MC是统一外壳 Upeto工业FS | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Advanced Innovations distributore ufficiale UNIVIEW e UTEPO - Home Page — Advanced Innovations, parte di un gruppo fondato nel 1979 specializzato nella produzione e distribuzione di sistemi di sicurezza, ha iniziato la distribuzione di sistemi di videosorveglianza IP già dal 2005. La grande esperien | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -142,9 +143,10 @@ updated: 2026-10-29
   > 兴趣：MC 工业FS 机架式 PoE SFP MC是统一外壳 Upeto工业FS
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Fabio Cavalleri（Vice President（研究档；LinkedIn）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28））fabio@ad-in.net +39 039 682 9636〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

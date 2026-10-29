@@ -54,6 +54,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2025-04-03 | 去 | Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次） | L3 Managed Switch — This is a Marvell-based L3 Managed 24 port DIN PoE Switch. 1, PoE af/at/bt, 370W budget, max 60℃ 2, Support DI/DO/RS485, USB, Alarm 3, Customizable We | Elsa 箱群发 BCC 触达证据（命中地址 biuro@multiproject.com.pl, multiproject.com.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-09-01 | 去 | Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 biuro@multiproject.com.pl, multiproject.com.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Multiproject Hurtownia Teletechniczna — Multiproject Hurtownia Teletechniczna | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -111,7 +112,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（multiproject.com.pl；并档 Planet 渠道档案 PB-097）
 - **是谁**：格但斯克安防 / 电子批发商，PLANET 工业 PoE IGS-624HPT 带价在售但缺货，商品页公开两位具名联系人。类型：格但斯克电子 / 安防批发商（CCTV / SSWiN / PPOŻ 弱电 + 网络配件，兼汽车 / 家用电子等全品类 B2B 电商）；PLANET 为其「Akcesoria sieciowe / informatyczne › Switche」类目在售品牌（工业 PoE IGS-624HPT 带完整波兰文 PLANET 描述）。信号：multiproject.com.pl：IGS-624HPT 商品页 1 661,12 zł brutto / 1 350,50 zł netto「Chwilowo niedostępny」（完整波兰文 PLANET 描述，2026-10-20 fetch）；GSD-1002M 479,92 zł brutto / 390,18 zł netto（Numer katalogowy 17809）；GSW-4800 1 476,00 zł brutto / 1 200,00 zł netto「Chwilowo niedostępny」。Planet 渠道档案 PB-097 评级 B（需求：PLANET 工业 PoE IGS-624HPT 独立商品页带净价 / 含税价 + GSD-1002M / GSW-4800 → 有 PLANET 在售线，但三款中两款「Chwilowo niedostępny」且站点为含汽车 / 家用的全品类批发目录 → 需求真实性中等；触达：商品页侧栏具名 Damian Lis（+48 535 840 740，damian.lis@）/ Sławomir Janusch（slawek.janusch@）+ biuro@ 公开 → 具名邮箱可用且未被群发触达；体量：PHU（个体经营）区域批发 → 可赢但小。按 net-s.pl 口径全品类目录型本不建档，因具名 KP 邮箱公开而例外建 B ★）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1058，波兰，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。
-- **在卖/在用品牌**：PLANET
+- **在卖/在用品牌**：PLANET, Ubiquiti, Dahua, Hikvision, Uniview
 - **【官网】IGS-624HPT 商品页：价 / 缺货 / 联系人侧栏 / NIP（2026-10-20 fetch_page，片段复述）**
   > Switch PoE przemysłowy IGS-624HPT 4xGE 4xPoE 2xSFP … Planet IGS-624HPT 4-portowy przemysłowy przełącznik Ethernet 10/100/1000T 802.3at PoE + 2 porty 100/1000X SFP … Cena brutto: 1 661,12 zł … Cena netto: 1 350,50 zł … Chwilowo niedostępny … Kontakt: Damian Lis 535 840 740 damian.lis@multiproject.com.pl … Sławomir Janusch slawek.janusch@multiproject.com.pl … biuro@multiproject.com.pl … NIP 5842509422
   > 来源：https://www.multiproject.com.pl/switch-poe-przemyslowy-igs-624hpt-4xge-4xpoe-2xsfp-p-15506.html（抓取 2026-10-20）
@@ -126,9 +127,10 @@ updated: 2026-10-29
   > 来源：https://www.multiproject.com.pl/switch-poe-pulsar-sg108-b-10xge-8xpoe-zasil-bufor-p-19286.html（抓取 2026-10-20）
 - **KP**：Damian Lis（具名销售（商品页侧栏）= 主收件人（第 99 批 官方登记核实 2026-10-28））damian.lis@multiproject.com.pl +48 535 840 740〔https://www.multiproject.com.pl/switch-poe-przemyslowy-igs-624hpt-4xge-4xpoe-2xsfp-p-15506.html〕
 - **KP**：Sławomir Janusch（具名销售 = 抄送（第 99 批 官方登记核实 2026-10-28））slawek.janusch@multiproject.com.pl 〔https://www.multiproject.com.pl/switch-poe-przemyslowy-igs-624hpt-4xge-4xpoe-2xsfp-p-15506.html〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-097，W 批次调研 2026-10-19/20））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-097，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

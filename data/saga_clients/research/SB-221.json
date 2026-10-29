@@ -71,10 +71,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4） ｜ 针对性加厚 2026-10-22（ImportYeti 海关提单，T29-U13）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4） ｜ 针对性加厚 2026-10-22（ImportYeti 海关提单，T29-U13）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "930 W 14600 S, Suite 600, Bluffdale, UT 84065",
@@ -179,10 +180,52 @@
     "quote": "Automatic reply: 5 port industrial switch｜Hello,  I am out of the office until Monday. We have received this email and will respond as soon as possible.  If you n",
     "why": "自动回复/退信（机器，不算人工回复）",
     "k": "7feaa342e0d73d83"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Remote Solar Power, Mobile Surveillance Trailers & PoE Systems | Tycon Systems — Tycon Systems designs & builds mobile solar security trailers, PoE equipment, and remote power systems for surveillance, communications, and off-grid applications.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.tyconsystems.com/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:37:37Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@tyconsystems.com"
+  ],
+  "phones": [
+   "+1.801.432.0003"
+  ],
+  "social": [
+   "https://twitter.com/TyconSys",
+   "https://www.facebook.com/tyconsystems/",
+   "https://www.instagram.com/tyconsystems/",
+   "https://www.linkedin.com/company/tycon-systems-inc-/"
+  ],
+  "models_on_site": [
+   "TPDIN-SC48-20",
+   "TP-SW5G-D",
+   "TP-DCDC-1224",
+   "TP-DCDC-1248",
+   "TP-DCDC-1224G",
+   "TP-DCDC-2456GD-BT",
+   "TP-DCDC-1248D",
+   "POE-SPLT-4812G-P"
+  ],
+  "url": "https://www.tyconsystems.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

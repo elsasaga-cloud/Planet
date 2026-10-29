@@ -63,11 +63,12 @@
  ],
  "grade_override": "A",
  "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来",
- "notes": "",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "SYNCHCOM (PVT.) LIMITED（SECP 注册号未取）",
@@ -135,6 +136,14 @@
     "quote": "问MC Dual Fiber FE/GE 25km SM / 8口网管交换机，只要PCB板子 成样品单",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Home - SYNCHCOM PVT LTD",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://synchcom.com.pk/"
    }
   ],
   "proof_gaps": [
@@ -155,5 +164,29 @@
    "prev_reason": "样品后 8 次推送零回复；需求是裸 PCBA（本地组装贴牌），毛利与售后风险高；南亚区 + 含国防行业。B 慢跟：仅在其主动询价时报整机或 PCBA（需 SmartByte 确认可供板级）。",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来"
   }
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:57Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [],
+  "social": [
+   "https://twitter.com/intent/tweet?text=LigoDLB+5&url=https://synchcom.com.pk/product-detail/ligodlb-5/",
+   "https://twitter.com/intent/tweet?text=LigoDLB+5-15&url=https://synchcom.com.pk/product-detail/ligodlb-5-15/",
+   "https://twitter.com/intent/tweet?text=LigoDLB+5-90&url=https://synchcom.com.pk/product-detail/ligodlb-5-90/",
+   "https://twitter.com/intent/tweet?text=LigoDLB+5ac&url=https://synchcom.com.pk/product-detail/ligodlb-5ac/"
+  ],
+  "models_on_site": [
+   "IP-67",
+   "IP-65"
+  ],
+  "url": "https://synchcom.com.pk/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

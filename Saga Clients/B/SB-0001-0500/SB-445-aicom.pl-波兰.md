@@ -54,6 +54,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-28 | 去 | A 群发 | Marvell Industrial Alert System、10G Enterprise SFP Switch | 17 封 / 0 次打开 / 0 回｜首封 2025-02-06 → 末封 2026-09-28（17 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 在用国内的 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Hurtownia online producenta systemów CCTV IP i okablowania LAN AICOM — Platforma sprzedażowa AICOM · Okablowanie Strukturalne, 25 letnia gwarancja systemowa, świetne ceny, Sieci telefoniczne i komputerowe, panele krosowe i zasilające, gniazda, kable, narzędzia, testery itp. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -141,9 +142,10 @@ updated: 2026-10-29
   > 在用国内的；可以着重跟一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Marcin Buczak（研究档 KP = 收件人（点名产品管理）；合伙人 Adam Popiołek / Jerzy Piłat 单独代表（2026-09-30 起）（第 96 批 官方登记核实 2026-10-28））marcin.buczak@a-lan.pl 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

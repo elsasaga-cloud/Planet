@@ -150,7 +150,8 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Eros Stefani（联系人 · 姓氏 = 创始家族 Stefani（atoka 成员表首位 Silvio Stefani）→ 推定家族第二代 / 管理层；公司 73–82 人、2024 营收 €7,973,181、净利 €438,664 —— 比研究档「小安防店」大得多（第 87 批 官方登记核实 2026-10-27））eros.stefani@stsitalia.com —〔用户表〕
 - **KP**：Andrea Rongoni（采购 / 技术经办（不在登记成员表）（第 87 批 官方登记核实 2026-10-27））andrea.rongoni@stsitalia.com —〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对 + 同名消歧））
 

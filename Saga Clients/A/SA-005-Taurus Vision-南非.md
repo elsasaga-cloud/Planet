@@ -62,6 +62,7 @@ updated: 2026-10-29
 | 2024-08-13 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「4 8口工业FS」→ 对方「price list」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A/DONE/South Africa 2.5.xlsx no.37 2024.8.13` |
 | 2026-08-07 | 去 | A 箱（Alan） | 24 Port PoE Managed Switch | 首封去信（邮箱索引；去信共 2 封） | `710d157e75764365` |
 | 2026-10-06 | 去 | A 箱（Alan） | Managed PoE Switches | 最近一封去信（邮箱索引；去信共 2 封） | `6f3a2dd5db0ba500` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Redirecting to TVCC Solutions | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文
 
@@ -145,9 +146,10 @@ updated: 2026-10-29
 - **KP**：Lynette Bowman（CCTV（ZoomInfo 口径）） +27 86 188 2266（总机）〔https://www.zoominfo.com/p/Lynette-Bowman/8666668517〕
 - **KP**：Lynette Bowman（CCTV（ZoomInfo 职务标注；邮箱未公开，域 @taurusvision.com））—（未公开；用户表 sales@taurusvision… 为合作伙伴招募邮箱） —〔https://www.zoominfo.com/p/Lynette-Bowman/8666668517〕
 - **KP**：Cordea Bezuidenhout（Administrative Assistant（ZoomInfo））—（未公开） —〔https://www.zoominfo.com/pic/taurus-vision/348010963〕
-- 备注：A 维持（3 次实质回复 + WhatsApp 在手），但规模小、非洲区：以 8/16 口 PoE 小批量为主，不投入样机以外资源。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：deep/facts。
+A 维持（3 次实质回复 + WhatsApp 在手），但规模小、非洲区：以 8/16 口 PoE 小批量为主，不投入样机以外资源。
 
-### 加厚挖掘（2026-10-21 · 深挖 v2（名录 + KP 核对））
+### 加厚挖掘（2026-10-21 · 深挖 v2（名录 + KP 核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

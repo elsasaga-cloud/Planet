@@ -53,6 +53,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-10-02 | 去 | A 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 13 封 / 0 次打开 / 0 回｜首封 2025-08-21 → 末封 2026-10-02（13 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 在用Planet的 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Eurobyte: Home of Premium Technology Solutions \| Eurobyte — Home of Premium Technology - Harness the power of high-performance technology. Eurobyte offers surveillance, networking, IT, power solutions. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -132,9 +133,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Jacqueline Irshwadhar（Network Product Manager（研究档）= 收件人 — 一页纸一次：分销 20% B、直接对价在售 PLANET 工业 4 / 5 口 → STI-054GP / STI-154GP + STC-110XGE + STI-280GE 一口价 + MOQ 1 + 付费样机 — 南非常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 约堡、ICASA / NRCS 不声称（第 120 批 官方登记核实 2026-10-29））jacqueline@eurobyte.co.za 〔用户表〕
 - **KP**：Tiffany Hope（） 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

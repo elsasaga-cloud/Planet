@@ -44,10 +44,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对）"
+  "level": "B 级加厚 v1（官网快照核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Automation Systems & Solution（个体经营；GSTIN 07AOCPK7395A1Z0；T-12, 3rd Floor, Pankaj Central Market, I.P. Extension, Patparganj, Delhi 110092；2007 起；≤10 人；₹0–40 lakh 自报；Teltonika / Procon / Banner / Shavison / Citel 授权分销）",
@@ -245,6 +246,14 @@
     "quote": "兴趣：从ONV买 几个台湾品牌；回复：ds",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Automation Systems And Solution",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://automationsystem.in/"
    }
   ],
   "proof_gaps": [
@@ -266,5 +275,38 @@
   "note": "德里工业自动化元器件分销商（工业网络设备在售，从 ONV + 台湾品牌进货）：回复 1 次 → 进口中国同类 ✔ 对位 ✔ → 留 B",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 1，WA —，展会 —，绑定 未触达→轻度））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": []
+ "override_history": [],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:41:26Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "infoautomation18@gmail.com"
+  ],
+  "phones": [
+   "+91- 9810769077"
+  ],
+  "social": [
+   "https://www.facebook.com/profile.php?id=100057952027891",
+   "https://www.instagram.com/automation9810/",
+   "https://www.linkedin.com/in/automation-systems-and-solution-202692193/"
+  ],
+  "models_on_site": [
+   "RS485",
+   "DELHI-110092",
+   "IND-D-M-FG-0402-N",
+   "IND-D-M-FG-0404-N",
+   "IND-D-M-FG-0802-N",
+   "IND-D-M-FG-1004-N",
+   "IND-D-M-FG-1608-N",
+   "IND-D-M-FG-2004-N"
+  ],
+  "url": "https://automationsystem.in/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

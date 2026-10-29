@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2025-04-01 | 去 | Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次） | Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere | Elsa 箱群发 BCC 触达证据（命中地址 gsginternational.com, info@gsginternational.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-07 | 去 | A 群发 | 10G Enterprise SFP Switch、Booster PoE Switch | 11 封 / 0 次打开 / 0 回｜首封 2025-10-16 → 末封 2026-10-07（11 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 几个知名牌子的工业FS；工业FS VC 很多牌子 经销商 KBC Barox等 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Distributore di Tecnologie per la Sicurezza - Controllo Accessi — Ingegneria, prodotti e servizi per la sicurezza delle persone e delle infrastrutture critiche. Videosorveglianza, controllo accessi, antintrusione, riconoscimento facciale e analisi video. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -137,9 +138,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Ludovico Paveri Fontana（Amministratore Delegato / CEO（2017 起，前 CTO）= 拍板人 / 收件人本人（第 107 批 官方登记核实 2026-10-28））ludovico.paveri@gsginternational.com 〔用户表〕
 - **KP**：Antonmarco Catania（Chairman / 创始人（1997；兼 Euklis srl 2017）（第 107 批 官方登记核实 2026-10-28）） 〔https://www.gsginternational.com/it/team.html〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

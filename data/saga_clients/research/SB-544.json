@@ -56,10 +56,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "1355 North McLean Blvd, Elgin, IL 60123",
@@ -143,6 +144,14 @@
     "quote": "Updated Ethernet Switches Links",
     "why": "本日去信真实主题（邮箱索引 fec27342dc2f48be；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封）",
     "k": "fec27342dc2f48be"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Mako Networks Home - Mako Networks — Mako Networks is a network management company specializing in PCI DSS security, SASE SD-WAN connectivity and cloud management.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://makonetworks.com/"
    }
   ],
   "proof_gaps": [],
@@ -151,5 +160,33 @@
    "body": "Hi Todd,\n\nOver the past months you had a few product mails from us - most recently \"Updated Ethernet Switches Links\" on 27 February 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the Mako-branded managed switch line, a second ODM source on a Marvell L2+ platform from small lots, FCC/CE/RoHS: 24 x Gigabit PoE+ (280 W) + 4 x 10G SFP+ - model STC-424XGGPM-280W - $180 USD EXW (MOQ 1, 15-day validity); the non-PoE version - STC-424XGGM - $138.0. SNMP and a web GUI with the Mako logo; I can get you the MIB files for your CMS integration before you commit to a sample.\n\nOne question: would your team evaluate one sample unit against the CMS, and which of the two?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:42:56Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "media@makonetworks.com",
+   "sales@makonetworks.com"
+  ],
+  "phones": [
+   "+1 312 949 5252",
+   "+1 800 851 4691",
+   "+1 847 628 4194"
+  ],
+  "social": [
+   "https://twitter.com/MakoNetworks?s=20",
+   "https://twitter.com/intent/tweet?text=CrossAmerica+Partners+Goes+%E2%80%9CAll-In%E2%80%9D+With+Mako+Networks%2C+the+Industry%E2%80%99s+Fastest+Growing+Platform+for+Secure%2C+Cloud-Managed+Retail+Connectivity&url=https%3A%2F%2Fmakonetworks.com%2Fnews%2F2026%2F04%2Fcrossamerica-partners-goes-all-in-with-mako-networks-the-industrys-fastest-growing-platform-for-secure-cloud-managed-retail-connectivity%2F",
+   "https://twitter.com/intent/tweet?text=Mako+Networks%E2%80%99+Periscope+Named+Two-time+++Award-winning+New+Product+in+2025&url=https%3A%2F%2Fmakonetworks.com%2Fnews%2F2025%2F11%2Fmako-networks-periscope-named-two-time-award-winning-new-product-in-2025%2F",
+   "https://twitter.com/intent/tweet?text=Petroleum+Marketing+Group+Goes+%E2%80%9CAll+In%E2%80%9D+With+Mako+Networks%2C+Standardizing+Entire+Retail+Fuel+Portfolio+on+Mako%E2%80%99s+Secure%2C+Cloud+Managed+Connectivity+Platform&url=https%3A%2F%2Fmakonetworks.com%2Fnews%2F2026%2F04%2Fpetroleum-marketing-group-goes-all-in-with-mako-networks-standardizing-entire-retail-fuel-portfolio-on-makos-secure-cloud-managed-connectivity-platform%2F"
+  ],
+  "models_on_site": [],
+  "url": "https://makonetworks.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

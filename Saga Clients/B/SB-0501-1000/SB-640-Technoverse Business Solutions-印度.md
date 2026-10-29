@@ -54,6 +54,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | （空） | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Technoverse Business Solutions \| IT Hardware & Networking — Unlock a world of I.T & Networking Products at Technoverse Business Solutions. Meet our team of T.E.C.H.N.O.V.E.R.S.E experts today! | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来；用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -109,7 +110,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（technoversebs.com，快照 2026-10-21）
 - **是谁**：孟买 IT 硬件与网络产品经销商（Ubiquiti、Cisco、TP-Link、Aruba、Juniper、Netgear；switch 37、sfp 16），Suyash Mishra；询盘表来源，无兴趣描述；WA 无实质回复。
-- **在卖/在用品牌**：Ubiquiti, Cisco, TP-Link, Aruba, Juniper, Netgear
+- **在卖/在用品牌**：Ubiquiti, Cisco, TP-Link, Aruba, Juniper, Netgear, D-Link, Huawei, Fortinet, MikroTik, Ruijie, Grandstream
 - **【官网快照】IT 与网络产品经销；品牌 Ubiquiti / Cisco / TP-Link / Aruba / Juniper / Netgear；+91 98194 92971**
   > Unlock a world of I.T & Networking Products at Technoverse Business Solutions… brands Ubiquiti, Cisco, TP-Link, Aruba, Juniper, Netgear
   > 来源：https://technoversebs.com/（抓取 2026-10-21）
@@ -117,9 +118,10 @@ updated: 2026-10-29
   > （空）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Suyash Mishra（Technoverse Business Solutions 研究档 KP（个体经销；WA 已加无回复）（第 115 批 官方登记核实 2026-10-28））sales@technoversebs.com +91 74001 75292〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

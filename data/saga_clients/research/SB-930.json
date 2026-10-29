@@ -53,10 +53,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "Av. Las Condes 6770, Oficina 202, Las Condes, Santiago 7560759, Chile（+56 2 2249 7726）（第 123 批 官方登记核实 2026-10-29）",
@@ -122,6 +123,14 @@
     "quote": "百兆收发器 / from: 阿里巴巴询盘",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Socra - Tu aliado en suministros de mineria — Automatización Contactores Protecciones Eléctricas Relés y Cables Sensores Servicios Bienvenidos a Socra Empresa líder en productos para la industria minera Somos una empresa Joven que cuenta con una amplia Trayectoria en la comercialización de component",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://socraonline.com/"
    }
   ],
   "proof_gaps": [
@@ -129,5 +138,41 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:25:11Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "ventasweb@socraonline.com"
+  ],
+  "phones": [
+   "+56 222497726",
+   "+56 979720669",
+   "000-200-00000"
+  ],
+  "social": [
+   "https://twitter.com/share?url=https://socraonline.com/producto/contactor-de-potencia-3rt10353ap00-siemens/&text=Contactor%20De%20Potencia%203RT10353AP00%20SIEMENS",
+   "https://twitter.com/share?url=https://socraonline.com/producto/minicontactor-auxiliar-mcra040at3-general-electric/&text=Minicontactor%20Auxiliar%20MCRA040AT3%20GENERAL%20ELECTRIC",
+   "https://twitter.com/share?url=https://socraonline.com/producto/tapa-3-modulos-503-3-bticino/&text=Tapa%203%20Modulos%20503%203%20BTICINO",
+   "https://www.facebook.com/sharer.php?u=https://socraonline.com/producto/contactor-de-potencia-3rt10353ap00-siemens/&title=Contactor%20De%20Potencia%203RT10353AP00%20SIEMENS"
+  ],
+  "models_on_site": [
+   "MCRA040AT3",
+   "XZCC12FDM40B",
+   "CP1L-M40DR-D",
+   "DS201A-B10",
+   "DS201A-B6",
+   "DS201A-K10",
+   "DS201A-K20",
+   "IF16C"
+  ],
+  "url": "https://socraonline.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -53,10 +53,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "荷兰",
@@ -137,6 +138,14 @@
     "quote": "主要是CCTV 少量商业POE",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Vercoma | Geavanceerde Deurcommunicatie & Toegangsbeheer — Vercoma, uw maatwerk partner in deurcommunicatie voor elk project, groot of klein. Ontdek onze innovatieve aanpak en oplossingen. Klik hier voor meer!",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.vercoma.nl/"
    }
   ],
   "proof_gaps": [
@@ -147,5 +156,37 @@
    "body": "Hello Vercoma team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 18 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the PoE switches behind your iPlus IP intercom monitors and CCTV kits, two L2+ managed units (VLAN, IGMP), Marvell-based, CE/RoHS, from single units: 8 x Gigabit PoE+ + 2 x SFP - model STC-28DGGPM - $84.1 USD EXW (MOQ 1, 15-day validity); 24 x PoE+ (280 W) + 4 x SFP for apartment-block projects - STC-424DGGPM-280W - $140.1.\n\nOne question: which port count do your apartment-block projects typically use per riser - 8 or 24?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:36:49Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@vercoma.nl"
+  ],
+  "phones": [],
+  "social": [
+   "https://facebook.com/sharer/sharer.php?u=%URL%&title=%TITLE%",
+   "https://twitter.com/intent/tweet/?text=%TITLE%&url=%URL%",
+   "https://www.facebook.com/Vercoma/timeline/",
+   "https://www.linkedin.com/company/vercoma-communicatie-systemen-bv"
+  ],
+  "models_on_site": [
+   "GE-020-222",
+   "NXPV-5403",
+   "KIT-2BHVR1",
+   "KIT-2DHVR1",
+   "CIP-24D2E",
+   "CIP-24B2MA",
+   "W-BASE2",
+   "W-BASE1B"
+  ],
+  "url": "https://www.vercoma.nl/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

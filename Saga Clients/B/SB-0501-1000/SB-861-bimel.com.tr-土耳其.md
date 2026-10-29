@@ -62,6 +62,7 @@ updated: 2026-10-29
 | 2024-07-24 | 内 | Gmail 退信（S 邮箱） | mustafa@bimel.com.tr 退信：550 5.1.1 <mustafa@bimel.com.tr>: Recipient address rejected: bimel.com.tr | 该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开 | `gmail_s 9aaa8feca1861ef5` |
 | 2024-11-05 | 去 | Simon → Angora Networks（SA-077）附件 Turkey Client List.xlsx | 名单行：「industrial network eleman@bimel.com.tr https://www.bimel.com.tr/urun/bn-isw-3084px」 | Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持） | `gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx` |
 | 2026-10-06 | 去 | A/S 群发 | 10G Enterprise SFP Switch、Industrial PoE Switch | 17 封 / 2 次打开 / 0 回｜首封 2024-07-01 → 末封 2026-10-06（17 去 / 0 来） | `gmail_digest` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | bimel :: Anasayfa — Bimel | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）
 
@@ -143,7 +144,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（bimel.com.tr；并档 Planet 渠道档案 PB-031）
 - **是谁**：安卡拉的老牌 IT/网络/安防分销商，PLANET 全线在售并用自有 PL- 货号体系，5 个办公室覆盖全土耳其。类型：分销商（1984 年起；IT/网络/安防产品分销，15+ 品牌：Assmann、Aten、Beek、Netgear、Planet、Ruckus；约 80 人，5 个办公室）。信号：官网 PLANET 产品树完整（PL-GS-4210 / PL-IGS-5225 / PL-WGS-5225 等，自有「PL-」前缀货号）；公司页列 Planet 为主要品牌。Planet 渠道档案 PB-031 评级 B（需求：PLANET 全线在售 + 自有货号 + 多品牌网络分销；触达：bimel@bimel.com.tr 官网公开，无具名；体量 76–80 人（zoominfo/EMIS）可赢；区域土耳其（T05 新增））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-861，土耳其，Saga 群发已推送 2 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。
-- **在卖/在用品牌**：PLANET, Netgear
+- **在卖/在用品牌**：PLANET, Netgear, Cisco, Ruijie, Allied Telesis
 - **【卖方目录】PLANET 产品页（自有 PL- 货号）**
   > bimel :: Ürün :: Planet - PL-GS-4210-24P4C … PL-GS-4210-24PL4C Yönetilebilir Gigabit PoE Switch
   > 来源：https://www.bimel.com.tr/urun/pl-gs-4210-24p4c（抓取 2026-10-19）
@@ -159,9 +160,10 @@ updated: 2026-10-29
 - **【第三方】规模与成立**
   > Bimel Elektronik Mamulleri Pazarlama A.S. … incorporated on January 27, 1984. There are currently 80 (2026) people employed（EMIS）；LinkedIn 51-200，Founded 1984
   > 来源：https://www.emis.com/php/company-profile/TR/Bimel_Elektronik_Mamulleri_Pazarlama_AS_en_3358519.html（抓取 2026-05-05）
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-031，W 批次调研 2026-10-19/20））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-031，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

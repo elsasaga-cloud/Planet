@@ -51,10 +51,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "罗马尼亚",
@@ -146,6 +147,14 @@
     "quote": "8K bidi 1对 2020年使用国际站；用的宇航的工业FS",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "BlueNote Communications | IT Expertise — BlueNote Communications este integrator de solutii SCADA, IoT, IIoT si dezvolta sisteme pentru inregistrarea convorbirilor telefonice.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.bluenote.ro/"
    }
   ],
   "proof_gaps": [
@@ -156,5 +165,31 @@
    "body": "Hi Petru,\n\nOver the past year you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 12 August - and there was no reason to answer a mass mail. This one is specific to BlueNote's SCADA and metering sites.\n\nFor the DIN-rail industrial switches in those sites (you have been using a Shenzhen industrial line so far), we supply two Marvell-based managed units from single pieces, neutral housing or BlueNote label:\n\n- 8 x Gigabit PoE+ (240 W) + 2 x SFP, ring redundancy, -40 to 75 C, redundant 12-57 V input, model STI-288GPM - $82.2 USD EXW (MOQ 1, 15-day validity).\n- Same chassis without PoE, model STI-280GM - $71.0 USD EXW.\n\nCE/RoHS, 3-year warranty together with our DIN power supply. We do not supply SFP optics (your BiDi modules stay with your current source) - the switches take standard 100M/1G SFP.\n\nOne question: which uplink and port count do your sites standardise on - 2 x SFP with 8 copper ports, or something larger?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:27:40Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "office@bluenote.ro",
+   "office@bluenote.rola",
+   "shop@bluenote.ro"
+  ],
+  "phones": [
+   "+40.232.265.965",
+   "+40.232.265.995",
+   "003000101225"
+  ],
+  "social": [],
+  "models_on_site": [
+   "RO15146404"
+  ],
+  "url": "https://www.bluenote.ro/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

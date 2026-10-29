@@ -39,10 +39,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  "level": "B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "UBF EDV Handel und Beratung Jürgen Fischer GmbH（HRB 32518 Dortmund；USt-ID DE125414228；ISO 9001:2015）",
@@ -115,10 +116,49 @@
     "quote": "兴趣：工业FS MC SFP POE 好几种外壳",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "UBF EDV Handel und Beratung Jürgen Fischer GmbH — Netzwerk-Zubehör: Ethernet, Industrial Ethernet, PoE, Switch, SFP, NIC, LWL Kabel + Konverter seriell RS232/RS485/RS422 Feldbus, digital 24V, analog V/mA",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://ubf.de/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:43:08Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@ubf.de",
+   "vertrieb@ubf.de"
+  ],
+  "phones": [
+   "+49 (0)2305 9634 0",
+   "+49 (0)2305 9634 17"
+  ],
+  "social": [],
+  "models_on_site": [
+   "RJ-45",
+   "EN60945",
+   "EN50155",
+   "RS-232",
+   "EIA-232",
+   "RS232",
+   "EIA-485",
+   "RS-485"
+  ],
+  "url": "https://ubf.de/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

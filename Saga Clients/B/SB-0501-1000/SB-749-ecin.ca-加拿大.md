@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2026-09-09 | 去 | A/S 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 26 封 / 0 次打开 / 0 回｜首封 2024-07-02 → 末封 2026-09-09（26 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 似乎是个分销商 有Upeto的 工业FS（宇航外壳） SFP DAC | 表内备注 | `用户表` |
 | 2026-09-09 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 031a2f0052ad4893；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `031a2f0052ad4893` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Open Networking Systems Integrator \| ECIN Canada — Canadian systems integrator for SONiC, 1G–1.6T optics, PacketMaestro network visibility, and Microchip timing and synchronization. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -148,9 +149,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Wassim Mekkaoui（President / CEO（2015–；LinkedIn / businesswire）= 拍板人 / 收件人（第 112 批 官方登记核实 2026-10-28））wassim.mekkaoui@ecin.ca 〔用户表〕
 - **KP**：Hassan Khanafer（CTO（theorg）= 技术抄（第 112 批 官方登记核实 2026-10-28）） 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -56,6 +56,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2024-10-28 | 去 | S 群发 | 48 port managed switch、Industrial poe switch | 4 封 / 0 次打开 / 0 回｜首封 2024-06-22 → 末封 2024-10-28（4 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：工业级带光的交换机 SFP模块 前一阵子问了模块和PSU那个 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Welcome to TSS Co. — TSS Co. \| Home Page | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -125,9 +126,10 @@ updated: 2026-10-29
   > 兴趣：工业级带光的交换机 SFP模块 前一阵子问了模块和PSU那个
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Eng. Murad（Senior Manager, Accounts & Projects（ZoomInfo「Murad Abusal」吻合；需求 工业光口交换机 + SFP）= 收件人 — 一页纸一次：集成商 25% B、STI-288DGGPM $137 / STI-488DGGPM $147 + STC-4424GCPM 一口价、SFP 不做明说、MOQ 1 + 付费样机 — 沙特常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP、SASO / SABER 不声称（第 119 批 官方登记核实 2026-10-28））murad@tss-e.com +966 59 832 3625〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

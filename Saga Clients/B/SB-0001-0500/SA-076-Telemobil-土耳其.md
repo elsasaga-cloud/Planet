@@ -144,7 +144,8 @@ updated: 2026-10-29
 - **KP**：（见 Clients 表联系人）（） +90 533 086 6289（WA）/ 0216 547 6700（用户记录）〔用户 Clients 表（ISAF 2025）〕
 - **KP**：Abdullah Unakıtan（Yönetim Kurulu Başkanı（董事长）；副主席 Fatma Unakıtan / Zeynep Basutçu Unakıtan（家族）；研究档联系人为项目经办（第 84 批 官方登记核实 2026-10-27）） 〔https://www.emis.com/php/company-profile/TR/Telemobil_Bilgi_Iletisim_Hizmetleri_AS_en_3350443.html〕
 - **调研后定级**：B（原自动 A）——Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B5 四主区+对位（冷）；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A
-- 备注：土耳其主攻区 + 具体项目（2 光 2 电 PoE）+ 问交期 = 临门一脚。P1：STI 工业 2 光 2 电 PoE（按 SmartByte 工业目录核对型号；现场展示过 2 光 4 电可作替代），项目价阶 25%，交期 10–15 天。走 WA 直接报价。 ｜ T27 深挖更正：首轮调研把 telemobil.com.tr（Ltd Şti）当作主体；按联系人邮箱域 tbi.com.tr 应为 TBI Telemobil A.Ş.（51–200 人）。首轮引文保留作对照，以本条为准。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+土耳其主攻区 + 具体项目（2 光 2 电 PoE）+ 问交期 = 临门一脚。P1：STI 工业 2 光 2 电 PoE（按 SmartByte 工业目录核对型号；现场展示过 2 光 4 电可作替代），项目价阶 25%，交期 10–15 天。走 WA 直接报价。 ｜ T27 深挖更正：首轮调研把 telemobil.com.tr（Ltd Şti）当作主体；按联系人邮箱域 tbi.com.tr 应为 TBI Telemobil A.Ş.（51–200 人）。首轮引文保留作对照，以本条为准。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1（更正主体））
 

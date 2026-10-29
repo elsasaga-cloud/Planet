@@ -59,6 +59,7 @@ updated: 2026-10-29
 | 2025-04-09 | 去 | Elsa 群发（BCC；To info@globalconnectsynergy.com，巴基斯坦（锚 globalconnectsynergy PK） 批次） | Mini Industrial PoE Switch — （头部未取正文；见 Elsa 箱） | Elsa 箱群发 BCC 触达证据（命中地址 ayk.com.pk, info@ayk.com.pk）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-09-07 | 去 | Elsa 群发（BCC；To info@globalconnectsynergy.com，巴基斯坦（锚 globalconnectsynergy PK） 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 ayk.com.pk, info@ayk.com.pk）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 卖planet的switch / 买过管理FS / 谷歌 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Ayk (Pvt.)Ltd. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -136,9 +137,10 @@ updated: 2026-10-29
 - **KP**：（见 Clients 表联系人）（） 〔用户 Clients 表〕
 - **KP**：Sajjad Qaiser（Omicron 业务联系人（OMICRON 官网 partner 页）— 不动，不发（第 118 批 官方登记核实 2026-10-28）） 〔omicronenergy.com/en/contact/addresses/pakistan/〕
 - **调研后定级**：B（原自动 A）——历史成交但无时间与互动记录，南亚非主攻区 → B 待机回访。
-- 备注：老客户回访一封。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+老客户回访一封。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对；「成交」为富通天下外贸数据））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对；「成交」为富通天下外贸数据） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

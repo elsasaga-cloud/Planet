@@ -60,6 +60,7 @@ updated: 2026-10-29
 | 2025-10-09 | 去 | Elsa 群发（BCC；To info@axuse.com，PL-3（大分销 aat/lanberg/elmark/dipol/a2s） 批次） | 10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring（正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | Elsa 箱群发 BCC 触达证据（命中地址 cyberteam.pl, t.b.nowak@cyberteam.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-09-25 | 去 | A/S 群发 | 10G Enterprise SFP Switch、Booster PoE Switch | 17 封 / 0 次打开 / 0 回｜首封 2024-06-26 → 末封 2026-09-25（17 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：MC Switch等;MC 自己的logo 其他人在卖 无源产品 Pon等 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Cyberteam dostawca producent: urządzenia światłowodowe ,kable, osłony antyzakłóceniowe, szafy RACK, obudowy, netprotectory, MikroTik, Ubiquiti,moduły SFP, patch — Cyberteam dostawca producent: urządzenia światłowodowe, kable, osłony antyzakłóceniowe, szafy RACK, obudowy, netprotectory, MikroTik, Ubi | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -136,7 +137,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（cyberteam.pl，快照 2026-10-21，波兰语）
 - **是谁**：波兰光纤设备供应商 / 制造商（光纤设备、线缆、抗干扰护套、机柜、外壳、网络保护器、MikroTik / Ubiquiti、SFP、跳线），Sales Manager Monika Patron、Marketing Tomasz Klebek、Tomasz B. Nowak；表内「MC 自己的 logo，其他人在卖；无源、PON 等」；群发 1 次。自有 logo MC → OEM 30%。
-- **在卖/在用品牌**：MikroTik, Ubiquiti, Cyberteam（自有）
+- **在卖/在用品牌**：MikroTik, Ubiquiti, Cyberteam（自有）, Cisco, TP-Link, Hikvision, Dahua, Netgear, D-Link, Zyxel, Aruba, Huawei, Tenda
 - **【官网快照】光纤设备供应商 / 制造商：线缆、护套、机柜、外壳、网络保护器、MikroTik、Ubiquiti、SFP、跳线**
   > Cyberteam dostawca producent: urządzenia światłowodowe, kable, osłony antyzakłóceniowe, szafy RACK, obudowy, netprotectory, MikroTik, Ubiquiti, moduły SFP, patchcordy
   > 来源：https://cyberteam.pl/（抓取 2026-10-21）
@@ -145,9 +146,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Monika Patron（）m.patron@cyberteam.pl 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Tomasz Bartłomiej Nowak（Prezes Zarządu / 股东（2007-07-24 起；1975 生；KRS 0000285290）= **老板 = 拍板人 = 联系人** —— 自有品牌 MC / 光纤产品 + 营收 ≈23.5 mln zł（≈$5.9M）+ 经济特区厂址（有组装 / 制造）→ **OEM 30%：Cyberteam 标 MC + 8/16 口 PoE + 工业 DIN**（只给整机贴标，不做裸板）；第二封 = 一句话 + 对照表（第 92 批 官方登记核实 2026-10-28））t.b.nowak@cyberteam.pl 〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

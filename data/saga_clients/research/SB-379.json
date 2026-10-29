@@ -52,10 +52,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "Premier Business Centre, 47-49 Park Royal Road, London NW10 7LQ（商务中心）",
@@ -137,6 +138,14 @@
     "quote": "24 Port PoE Managed Switch",
     "why": "本日去信真实主题（邮箱索引 21a6f2879195227d；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封）",
     "k": "21a6f2879195227d"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "TRK SOLUTIONS LTD - CCTV, Access Control & Security Alarm Installation — TRK Solutions Ltd offers expert CCTV installation, fire alarm systems, and access control solutions ensuring safety, security, and reliable protection for businesses.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.trksolutions.co.uk/"
    }
   ],
   "proof_gaps": [],
@@ -145,5 +154,23 @@
    "body": "Hi Sahil,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 19 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the industrial PoE switches in your CCTV and ANPR cabinets, three units from single pieces, -40 to 75 C, CE/RoHS/UKCA, EXW, 15-day validity: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, unmanaged - model STI-288GP - $60 USD; the same L2 managed, Marvell-based - STI-288GPM - $82.2; 4 x Gigabit PoE+ + 1 x Gigabit + 1 x SFP - STI-154GP - $39.2. 802.3bt ports on request.\n\nOne question: which port count do your outdoor cabinets use most - 4 or 8?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:40:09Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@trksolutions.co.uk"
+  ],
+  "phones": [],
+  "social": [],
+  "models_on_site": [],
+  "url": "https://www.trksolutions.co.uk/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

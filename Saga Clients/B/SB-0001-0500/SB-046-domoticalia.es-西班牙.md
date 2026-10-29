@@ -60,6 +60,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2025-03-29 | 去 | Elsa 群发（BCC；To info@garmasl.com，ES 批次） | Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere | Elsa 箱群发 BCC 触达证据（命中地址 atencioncliente@domoticalia.es, domoticalia.es）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-09-30 | 去 | A 群发 | Industrial PoE Switch、Managed Optical Bypass Switch | 18 封 / 1 次打开 / 0 回｜首封 2025-01-30 → 末封 2026-09-30（18 去 / 0 来） | `gmail_digest` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Domoticalia: Home Automation Lighting, Heating, & Smart Home- Z-Wave, Zigbee, y SmartThings ... — Domoticalia: Home Automation Lighting, Heating, & Smart Home- Z-Wave, Zigbee y SmartThings. ... | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -116,7 +117,7 @@ updated: 2026-10-29
 - **是谁**：西班牙智能家居与网络设备电商（多品牌，含 Witek 工业 FS），8 次跟进 0 回复；用户 AI 评估：早期 40% B，后期 8% C（重心为家居自动化零售）。
 - **类型**：电商零售（智能家居为主）
 - **规模**：微型/小型（待补证）
-- **在卖/在用品牌**：Witek（用户记录）, Stonet, EnGenius, Wi-Tek, BYDom, smlight
+- **在卖/在用品牌**：Witek（用户记录）, Stonet, EnGenius, Wi-Tek, BYDom, smlight, Ajax
 - **【用户记录】多品牌电商，工业 FS 为 Witek；0 回复 / 8 次；AI 评估 40%B / 8%C**
   > 很多牌子的 / 工业FS Witek的；早期ai: 40% B 西班牙智能家居和网络设备电商平台… max: 8% C 站点重心偏智能家居（用户 Clients 表摘录）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
@@ -134,9 +135,10 @@ updated: 2026-10-29
   > 来源：https://www.anuarioguia.com/empresa/domoticalia（抓取 2023-10-25）
 - **KP**：Rafael Torrico（Administrador único / 唯一雇员（BORME 2013；datoscif）— 一人网店 → 不动（第 109 批 官方登记核实 2026-10-28））info@domoticalia.es（公司公开） +34 91 005 26 51〔https://www.anuarioguia.com/empresa/domoticalia〕
 - **调研后定级**：B（原自动 A）——0 回复 / 8 次推送，重心为消费级智能家居零售（Saga 不做消费），交换机仅附带 → 慢跟；西班牙在欧洲区故不降 C。
-- 备注：一次性邮件：Witek 工业 FS 对位 STI-288GP/STI-288DGGPM 价格（电商 20%）。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+一次性邮件：Witek 工业 FS 对位 STI-288GP/STI-288DGGPM 价格（电商 20%）。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（网店类目核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（网店类目核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

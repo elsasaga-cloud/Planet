@@ -54,6 +54,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-07 | 去 | A/S 群发 | Industrial PoE Switch、48 Port PoE Managed Switch | 16 封 / 0 次打开 / 0 回｜首封 2025-06-20 → 末封 2026-10-07（16 去 / 0 来） | `gmail_digest` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Coel Distribution \| componenti e sistemi per le infrastrutture tecnologiche nell’IT — Scegli Coel Distribution come distributori nel mercato del cablaggio strutturato, del networking, delle telecomunicazioni e della connettività | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -142,9 +143,10 @@ updated: 2026-10-29
   > A-191 Coel Distribution srl 意大利 集成商/代理（Allied Telesis）… info@coeldistribution.it [Publicly listed; delivery not tested]
   > 来源：https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv（抓取 2026-10-19）
 - **KP**：A. Fallerini（姓名待核）（研究档联系人 a.fallerini@coeldistribution.it = 收件人（抄 info@ 点名 ufficio acquisti）（第 108 批 官方登记核实 2026-10-28））a.fallerini@coeldistribution.it 〔https://www.coeldistribution.it/contattaci/〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-024，W 批次调研 2026-10-19/20））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-024，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

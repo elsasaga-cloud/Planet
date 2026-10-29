@@ -137,7 +137,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（http_error）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（dvs.co.uk：HTTP 错误，2026-10-21，第 1 次）
 - **是谁**：英国 DVS Ltd（英国大型 CCTV/安防分销商；表内「switch PoE 配件 有 Utepo 的」「可以多跟进一下」；KP Scott Abraham（Purchasing and Logistics Manager）；官网 http_error）；群发 16 次无回复。
 - **类型**：安防分销商（英国，大型，Utepo 在供）
 - **在卖/在用品牌**：Utepo
@@ -148,7 +148,8 @@ updated: 2026-10-29
   > switch PoE配件 有utepo的；可以多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Scott Abraham（研究档 KP（职务未核；DVS LTD）= 收件人；点名 Commercial Director Gavin Dunleavy / Head of Sales Josh Whitehead（第 101 批 官方登记核实 2026-10-28））scott.abraham@dvs.co.uk 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

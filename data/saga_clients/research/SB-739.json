@@ -36,10 +36,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  "level": "B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Arcdyn, Inc.（非 LLC；2016；43 Mildred Ave, Asheville NC 28806（原 1370 Tunnel Rd）；NC SoS 编号未取）",
@@ -114,6 +115,14 @@
     "quote": "兴趣：主要是CCTV 商业PoE PoE extender",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Security Camera Supplier & Distributor | NDAA Options | Arcdyn — Arcdyn Security Supplier sells affordable professional grade IP Security Cameras, NVR Surveillance Systems, & Access Control Systems Nation Wide and In Asheville, NC. Become a Dealer today. Free shipping, tech support & security system",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://arcdyn.com/"
    }
   ],
   "proof_gaps": [],
@@ -122,5 +131,32 @@
    "body": "Hi Justin,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the camera channel — Marvell L2+ 24-PoE (280 W) at $135 and 8-PoE + 2-SFP at $81 EXW, FCC/CE (no UL), Marvell switching silicon; would a 2-unit test next to your current PoE line help?\n\nPrices are USD EXW, 2026-10-17 snapshot, valid 15 days.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:46:39Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "proposal-request@arcdyn.com"
+  ],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "DH-POE-101",
+   "DC48V",
+   "NSW3000-25GT1GP1GC-POE-IN",
+   "NSW3000-17GT1GP1GC-POE-IN",
+   "NSW3000-8T2GT-POE-IN",
+   "NSW2100-6GT-POE-IN",
+   "IEEE802",
+   "TF4MP-2-SA"
+  ],
+  "url": "https://arcdyn.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

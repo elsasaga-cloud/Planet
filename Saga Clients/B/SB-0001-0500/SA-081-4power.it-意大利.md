@@ -60,6 +60,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2025-01-29 | 去 | A 箱（Alan） | L3 Managed Switch | 首封去信（邮箱索引；去信共 17 封） | `cd820a5afe406a84` |
 | 2026-10-08 | 去 | A 箱（Alan） | Managed PoE Switches | 最近一封去信（邮箱索引；去信共 17 封） | `e0fe9ccf2544222f` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | 4Power \| UPS, Networking, Cablaggio Strutturato e Armadi Rack — Soluzioni complete per continuità elettrica, networking e cablaggio. 4Power supporta aziende e installatori con prodotti affidabili e consulenza tecnica. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文
 
@@ -149,9 +150,10 @@ updated: 2026-10-29
 - **KP**：Pasquale Pirozzi（Direzione Generale（总经理，LinkedIn；大概率创始合伙人 / 老板）= 拍板人（但 17 封 0 开）（第 85 批 官方登记核实 2026-10-27）） +39 081 8193441〔https://www.cylex-italia.it/casandrino/4power-srl-10110617.html〕
 - **KP**：Gaetano Chiaese（Technical Networking Manager（4Net 有源产品技术负责人；研究档收件人 g.chiaese@）（第 85 批 官方登记核实 2026-10-27））g.chiaese@4power.it 〔https://it.linkedin.com/company/4power-srl〕
 - **调研后定级**：B（原自动 B）——Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PA-001，W 批次调研 2026-10-19/20））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PA-001，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

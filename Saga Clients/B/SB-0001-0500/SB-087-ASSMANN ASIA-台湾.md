@@ -127,9 +127,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Kent Wang（PM, ASSMANN Electronic Asia（德國 DIGITUS 亞洲採購辦；2025-12 回「I/O modules」）= 收件人 — 一頁紙一次：貼標 OEM 30%，DIGITUS PoE 線對位 STC-028GP / 228GP / 2216GP / 2224GP / 4424GCPM + STC-110XGE 一口價 + DIGITUS 標 / 彩盒 / CE / RoHS / REACH 文件；串口 / HDMI / I/O 模組 明說不做；回信 → 加厚 + 升 A— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28））kent.wang@assmann.com.tw 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Matthias Christian Listl（代表人 / 董事（twincn；統編 53733622；董事另 漆曉燕）— 拍板人，不直發（第 116 批 官方登记核实 2026-10-28）） 〔https://twincn.com/item.aspx?no=53733622〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：deep。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照空页 + 表内：品牌采购办 OEM））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照空页 + 表内：品牌采购办 OEM） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

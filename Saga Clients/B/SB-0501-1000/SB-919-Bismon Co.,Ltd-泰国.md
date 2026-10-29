@@ -116,7 +116,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（http_error）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（Bismon Co.,Ltd：HTTP 错误，2026-10-21，第 1 次）
 - **是谁**：泰国 Bismon Co., Ltd（泰国网络产品品牌：MC/交换机等，「产品线很相似」；KP Anek Thongdee（Chief Executive Officer）；「可以尝试多跟进一下」；官网 http_error）；群发 16 次无回复。
 - **类型**：网络产品品牌商（泰国，产品线相似）
 - **【用户表】表内兴趣/备注**
@@ -126,7 +126,8 @@ updated: 2026-10-29
   > 产品线很相似；可以尝试多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Anek Thongdee（Chief Executive Officer（研究档；自有品牌 Bismon；เลขทะเบียน 0105546131011）= 拍板人 / 收件人（发 sale@，抬头 Attn: Mr. Anek Thongdee, CEO）— 一页纸一次（最后一次）：贴标 OEM 30% B、Bismon 标 / 自编货号 / 中性包装 STC 阶梯 + STI-154GP / 288DGGPM、MC 只有 STC-110XGE、付费样机— 泰国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、NBTC 不声称（第 117 批 官方登记核实 2026-10-28））sale@bismon.com 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

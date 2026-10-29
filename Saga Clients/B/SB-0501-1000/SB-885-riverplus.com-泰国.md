@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2026-09-25 | 去 | A/S 群发 | Marvell Industrial Alert System、Industrial PoE Switch | 24 封 / 1 次打开 / 0 回｜首封 2024-06-18 → 末封 2026-09-25（24 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS 串口等 | 表内备注 | `用户表` |
 | 2026-09-25 | 去 | A 箱（Alan） | Managed PoE Switches | 本日去信真实主题（邮箱索引 4d5df608e2a8cbe3；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封） | `4d5df608e2a8cbe3` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Riverplus 20th - Leading in Digital and Industry 4.0 Solutions — Riverplus ผู้นำในการนำเข้า จัดจำหน่ายสินค้าและบริการเทคโนโลยีแบบครบวงจร จากทั่วโลกตั้งแต่ปี 2005 โดยมุ่งมั่นในการขับเคลื่อนนวัตกรรมและนำพาเข้าสู่ยุคดิจิทัล และอุตสาหกรรม 4.0 บริษัทมุ่งเน้นการเสริมศักยภาพทางการแข่งขันให้กับธุรกิจ ด้วยโซ | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -138,9 +139,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Jiraporn Teeramasvanich（Purchasing Manager（研究档 Jiraporn Teeramasvanich；เลขทะเบียน 0125548003398）= 收件人 — 一页纸一次：分销 20% B（升 A 候选）、对位其工业 LAN 交换机线的 STI-154GP / 288DGGPM / 488DGGPM / 0240GE + CCTV PoE STC-2216GP / 2224GP、3 年保、付费样机、串口 / 路由不做— 泰国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、NBTC 不声称（第 117 批 官方登记核实 2026-10-28））sales@riverplus.com 〔用户表〕
 - **KP**：Prapapim Phetnoi（System Engineer = 抄送（第 117 批 官方登记核实 2026-10-28））prapapim@riverplus.com 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

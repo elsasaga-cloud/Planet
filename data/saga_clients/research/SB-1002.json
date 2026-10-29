@@ -41,10 +41,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  "level": "B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Amplicon Liveline Limited（Companies House 01091353；PSC Amplicon Group Holdings Ltd 14466238 自 2024-11-20）",
@@ -127,6 +128,14 @@
     "quote": "兴趣：工业FS 很多牌子的 销售平台 有case communication的",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Amplicon: Industrial Computers, Communications & Measurement — Amplicon supply Industrial Computing, Data Communications, Measurement and Control, Security Automation solutions to systems integrators, OEMs and manufacturers",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.amplicon.com/"
    }
   ],
   "proof_gaps": [
@@ -137,5 +146,41 @@
    "body": "Hi Gina,\n\nSome time ago you had a product mail from us - \"24 Port PoE Managed Switch\" on 4 September - and there was no reason to answer a mass mail. This one is specific to Amplicon's industrial networking page.\n\nBelow the Hirschmann / Moxa price points you list, we supply a Marvell-based DIN-rail managed switch, 8 x Gigabit PoE+ (240 W) + 2 x SFP, ring redundancy, -40 to 75 C, CE/UKCA/RoHS, model STI-288GPM - $78.9 USD EXW (distributor price, MOQ 1, 15-day validity). Non-PoE sister model STI-280GM at $68.2.\n\nIt ships under your own label with neutral packaging if that suits the Amplicon catalogue better than a third-party brand; 3-year warranty together with our DIN power supply.\n\nOne question: is one evaluation unit (at the unit price) for the Brighton lab worth a slot in your 2027 line-card review?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:27:14Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@amplicon.com",
+   "support@amplicon.com"
+  ],
+  "phones": [
+   "+44 (0)1273 570 220",
+   "+44 (0)1273 570220"
+  ],
+  "social": [
+   "http://www.ampliconbenelux.com",
+   "http://www.linkedin.com/company/amplicon-liveline-ltd",
+   "http://www.youtube.com/user/amplicontv",
+   "https://twitter.com/AmpliconUK"
+  ],
+  "models_on_site": [
+   "RS232",
+   "RS422",
+   "RS485",
+   "IEEE802",
+   "RED25",
+   "IE3100",
+   "IE1000",
+   "IE3400H"
+  ],
+  "url": "https://www.amplicon.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

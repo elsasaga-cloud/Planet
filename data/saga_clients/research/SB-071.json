@@ -58,11 +58,12 @@
  ],
  "grade_override": "A",
  "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来",
- "notes": "一封'迈威对位 STI 工业线'邮件。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n一封'迈威对位 STI 工业线'邮件。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + 名录核对；「成交」为富通天下外贸数据）"
+  "level": "B 级加厚 v1（官网 + 名录核对；「成交」为富通天下外贸数据） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Nayon Kontrol Systems（NKS；SEC 号 1 查未得；关联 NKS Solar One, Inc. / NKS Energy Utilities, Inc. / NKS Global Limited）",
@@ -219,6 +220,14 @@
     "why": "第 74 批(m) `from:e.sagatelecom to:info@nkstech.net` 全程 complete：10 轮直收；0 回",
     "k": "elsa_1to1",
     "msg_id": "19fd5280fde54955"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Nayon Kontrol Systems",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://nkstech.net/"
    }
   ],
   "proof_gaps": [],
@@ -234,5 +243,30 @@
    "prev_reason": "同 SB-067 逻辑：在采同类国产工业交换机但无回复、菲律宾非主攻区 → B。",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来"
   }
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:22:57Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@manilaetech.com",
+   "info@nks.ph",
+   "raulski@gmail.com",
+   "sales@manilaetech.com"
+  ],
+  "phones": [
+   "+632) 351-4181",
+   "+632) 364-1768",
+   "+632) 411-2337"
+  ],
+  "social": [],
+  "models_on_site": [],
+  "url": "https://nkstech.net/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

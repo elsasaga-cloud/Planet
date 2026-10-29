@@ -54,6 +54,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-15 | 去 | A 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 19 封 / 0 次打开 / 0 回｜首封 2025-02-11 → 末封 2026-09-15（19 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | switch | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Home \| Video Conference, Telephone System, Audio Conference, Unified Communications, Audio Visual, IP Phone and VoIP Solutions - Eware — Eware specialize in providing video conference, telephone system, audio conference, unified communications, audio visual system, IP phone and VoIP solutions in Hon | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -129,9 +130,10 @@ updated: 2026-10-29
   > Eware specialize in providing video conference, telephone system, audio conference, unified communications, audio visual system, IP phone and VoIP solutions in Hong Kong
   > 来源：https://www.eware.com.hk/en/（抓取 2026-10-21）
 - **KP**：Ivan Lau（System Engineer（研究档 KP）= 收件人 — 最后一次一页纸：集成商 25% B、IP 话机 / AP 供电配套（STC-2216GP / STC-2224GP $86 / STC-4424GCPM $165）一口价 + MOQ 1 + 付费样机 — 香港常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 香港（免税）（第 121 批 官方登记核实 2026-10-29））info@eware.com.hk 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

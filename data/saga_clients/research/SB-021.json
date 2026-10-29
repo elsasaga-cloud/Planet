@@ -35,11 +35,12 @@
  ],
  "grade_override": "B",
  "override_reason": "台系品牌制造商（INH 规则：台系品牌商最高 B；其铁路/EN50121 主线 Saga 不做）；仅在其明确要低端白牌补位时按 OEM 30% 报价。",
- "notes": "",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（基于首轮调研整理 + 身份判断）"
+  "level": "B 级加厚 v1（基于首轮调研整理 + 身份判断） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "星通資訊股份有限公司 Loop Telecommunication International, Inc.（統一編號 22099863；TWSE 3025；新竹科学园区新安路 8 号）",
@@ -128,10 +129,45 @@
     "quote": "Hi, Eric, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network scales 3, Full L3 features(VXLAN, EVPN, MPLS, Stacking etc.) suitable for core and aggregation…",
     "why": "Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
     "k": "0378ea2dc053e4ce"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Loop Telecom — Loop Telecom designs, develops, and manufactures hardware and software for the telecommunications industry. We transport voice to 10 GE: TDM-PDH Multi-services, transport SDH-SONET, PTN MPLS-TP, Carrier Ethernet, Ethernet Switch, Router, PseudoWire, fiber",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://looptelecom.com/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:21:09Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [],
+  "social": [
+   "https://www.linkedin.com/company/loop-telecom-international/"
+  ],
+  "models_on_site": [
+   "IEC61850-3",
+   "EN50121-4",
+   "IP6828",
+   "IP6838",
+   "IP6808",
+   "IP6818",
+   "IEC61850",
+   "RFC6378"
+  ],
+  "url": "https://looptelecom.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

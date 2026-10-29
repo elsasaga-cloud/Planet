@@ -179,7 +179,8 @@ updated: 2026-10-29
   > 来源：data/gmail_s/messages/2024/2024-09.jsonl、2024-10.jsonl（wadii@teltronix.net，+44 1604 434 186）（抓取 2024-10-02）
 - **KP**：Wadii Kherfani（Director / 老板 —— Teltronix Holdings Ltd 两名董事之一（另一位 Anna Kherfani，同姓）；2011–2018 曾任 Linxcom Ltd（SB-160）董事（第 82 批 Companies House 核实 2026-10-27））wadii@teltronix.net 〔S/A 邮箱来信 2025-07-06 → 10-31 来信 3 封（第 72 批从邮件表头补）〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来；A6 真回≥3+对位（任何区域）
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 2026-10-22 并入 teltronix.net 往来（3 进 7 出，F16）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+（无首轮调研；由 deepen.py 建档） ｜ 2026-10-22 并入 teltronix.net 往来（3 进 7 出，F16）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 公司档案核对））
 

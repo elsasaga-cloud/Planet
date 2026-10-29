@@ -160,7 +160,8 @@ updated: 2026-10-29
   > 来源：https://www.oozo.nl/bedrijven/rucphen/sint-willebrord/sint-willebrord/1825632/dios-industries（抓取 2026-10-21）
 - **KP**：Jacco (Jacob) Slob（CEO + 经个人控股 Kiyi Holding B.V.（KvK 59106808）任 Epic Europe B.V. 唯一 bestuurder（2013-10-29 起）= **老板 = 联系人**；2025-03 本人两封要价表，我们给了两份后无下文 = 价表没对上需求（他卖监控配套 PoE）（第 88 批 官方登记核实 2026-10-27））j.slob@dios-industries.com +31 6 4685 3228（2025-03-05 签名 m 06-46853228）〔S/A 邮箱来信 2025-03-05 来信 2 封（第 72 批从邮件表头补）〕
 - **调研后定级**：B（原自动 A）——欧洲主攻区、CCTV 对位 PoE，但 1 次回复后 15 次推送无果 → 慢跟。
-- 备注：WA 季度触达一次（STC-28DGGPM / STC-424DGGPM-280W，项目 25%）。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+WA 季度触达一次（STC-28DGGPM / STC-424DGGPM-280W，项目 25%）。
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 注册核对））
 

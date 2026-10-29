@@ -62,6 +62,7 @@ updated: 2026-10-29
 | 2026-08-26 | 去 | A 箱（Alan） | 24 Port PoE Managed Switch｜稿内价 $170 | 去信正文含价（邮箱索引） | `ac6842823b7be828` |
 | 2026-10-01 | 去 | A/S 群发 | Managed Optical Bypass Switch、Marvell Industrial Alert System | 19 封 / 0 次打开 / 0 回｜首封 2025-01-09 → 末封 2026-10-01（19 去 / 0 来） | `gmail_digest` |
 | 2026-10-01 | 去 | A 箱（Alan） | Managed PoE Switches | 最近一封去信（邮箱索引；去信共 19 封） | `8043fdc32c6bc899` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Home - Xcam.cz — Využíváte intelligenci kamerových systémů, nebo kamery v Cloudu ?? Kontaktujte nás Naše služby Bezpečnostní kamery - instalace a servis, alarmy, kamery pro solární elektrárny a LAN prvky Instalace a návrhy kamerových systémů, servis, jejich údržba. Zajištění instalace bezpečnostních | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -124,7 +125,7 @@ updated: 2026-10-29
 - **是谁**：捷克俄斯特拉发的小型安防集成/安装商（2012 年注册），业务：摄像系统安装与维护、报警/门禁、车牌识别道闸、工地延时摄影、光伏电站摄像，使用 AXIS 等品牌；官网提到 LAN 元件。用户表：已在用 E-link 产品，9 次推送无回复；早期 AI 评 30% B。
 - **类型**：安防集成/安装商（小型）
 - **规模**：未见人数（小型 s.r.o.）
-- **在卖/在用品牌**：AXIS, E-link, X-（自有标）
+- **在卖/在用品牌**：AXIS, E-link, X-（自有标）, Axis
 - **【官网】业务范围**
   > Bezpečnostní kamery - instalace a servis, alarmy, kamery pro solární elektrárny a LAN prvky Instalace a návrhy kamerových systémů, servis, jejich údržba … Adresa : Gen Piky 1A, Ostrava 1 … Email: info@xcam.cz Tel: 597 606 080 · IČO 29397839
   > 来源：https://www.xcam.cz/（抓取 2026-10-21）
@@ -139,8 +140,10 @@ updated: 2026-10-29
   > 来源：https://www.excam.cz/（抓取 2026-10-21）
 - **KP**：Alexandr Grepl（Jednatel（唯一；2012 起；obchodní rejstřík）= 拍板人 / 收件人（第 107 批 官方登记核实 2026-10-28）） 〔https://rejstrik.penize.cz/29397839-xcam-czech-s-r-o〕
 - **调研后定级**：B（原自动 A）——小型安装商、9 次推送零回复、无自有品牌；与早期 AI 评估（30% B）一致。B 慢跟。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网网店自有标核对））
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网网店自有标核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

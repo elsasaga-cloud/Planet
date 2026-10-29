@@ -133,7 +133,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（http_error）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（fiberopticlink.com：HTTP 错误，2026-10-21，第 1 次）
 - **是谁**：加拿大 Fiber Optic Link（官网快照 HTTP 错误；表内「工业 FS MC 光猫 KAPDE 功能的设备；自己的牌子，标价很高」「很有实力」；KP Gary Gunning、Albert G（Executive Vice President）、Cesar H（Purchasing Agent））；群发 17 次无回复。
 - **类型**：光纤网络品牌商（加拿大，自有标工业 FS/MC，高定价）
 - **【用户表】表内兴趣/备注**
@@ -145,7 +145,8 @@ updated: 2026-10-29
 - **KP**：Cesar H（Purchasing Agent（Cesar Ordaz；cordaz@）= 收件人（第 112 批 官方登记核实 2026-10-28））info@fiberopticlink.com 〔用户表〕
 - **KP**：Gary Gunning（RLH Industries 研究档 KP（职务待核）= 抄（第 112 批 官方登记核实 2026-10-28））ggunning@fiberopticlink.com 〔用户表〕
 - **KP**：Albert G（Executive Vice President（Albert Gregory；agregory@）= 拍板人（抄）（第 112 批 官方登记核实 2026-10-28）） 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

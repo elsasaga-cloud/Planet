@@ -142,7 +142,8 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Mathias Gottensträter（Inhaber / CEO（个体工商 Gewerbebetrieb；Creditreform：1 Inhaber、Außenhandel / Import）= 老板 = 联系人（第 93 批 官方登记核实 2026-10-28））communication@voipdistri.com +49 5201 730030〔用户 Clients 表 + Impressum〕
 - **调研后定级**：B（原自动 A）——画像极对路（德国、已进口 E-link 工业交换机、服务工业客户），但 7 次推送 0 回复；且其询问点（I/O 模块、找分销）Saga 不供 → 转为慢跟、换角度重启。
-- 备注：重启角度：'E-link 同类 DIN 工业 PoE 的补充 SKU + Teltonika 路由配套 PoE 供电'，P1 STI-288DGGPM（分销 20%）；一次单问邮件 + 电话。Impressum 邮箱 communication@voip.world 与用户记录 communication@voipdistri.com 同主体。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+重启角度：'E-link 同类 DIN 工业 PoE 的补充 SKU + Teltonika 路由配套 PoE 供电'，P1 STI-288DGGPM（分销 20%）；一次单问邮件 + 电话。Impressum 邮箱 communication@voip.world 与用户记录 communication@voipdistri.com 同主体。
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 需求映射））
 

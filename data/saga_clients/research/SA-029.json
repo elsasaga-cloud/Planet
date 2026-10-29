@@ -40,11 +40,12 @@
    "source": "https://www.ec21.com/product-details/PoE-Network-Switch-8Port-PoE--11968346.html"
   }
  ],
- "notes": "A 确认（韩国自有品牌 PoE 交换机 + 已回复 + 明确贴牌）；注意其部分 AP 用于军用无线——Saga 只供交换机硬件，守界不碰军品项目；P1 = STI-288DGGPM 工业 PoE，30% OEM 档。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\nA 确认（韩国自有品牌 PoE 交换机 + 已回复 + 明确贴牌）；注意其部分 AP 用于军用无线——Saga 只供交换机硬件，守界不碰军品项目；P1 = STI-288DGGPM 工业 PoE，30% OEM 档。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1"
+  "level": "深挖 v1 + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "(주)지티웨이브 GTWAVE Co., Ltd.（성남 분당구 판교로 723；사업자번호待补）（第 85 批 官方登记核实 2026-10-27）",
@@ -213,6 +214,14 @@
     "quote": "16 Port Industrial PoE Switch",
     "why": "最近一封去信（邮箱索引；去信共 28 封）",
     "k": "f39c5b2143564be5"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "GTWAVE Co.,Ltd — 지티웨이브 outdoor AP는 산업용무선AP로,802.11ac지원하며,검증필 암호모쥴 KCMVP을 사용한 CC인증VPN과 연동하여 군용무선랜AP로 사용가능합니다.무선CCTV설치시 비용 절감.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://gtwave.co.kr/"
    }
   ],
   "proof_gaps": [],
@@ -221,5 +230,25 @@
    "body": "Dear Mr. Park,\n\nIn April 2025 you asked who we are and for a catalogue; I sent both the next day and we did not hear back - the mail probably arrived without a clear sender context, so once more: Saga Telecom, Shenzhen, switches on Marvell silicon for brand owners, small lots.\n\nYour iG8P-2SMB - 8 x Gigabit PoE + 2 x SFP, ring, dual DC - maps one-to-one onto our industrial unit: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2+ managed with ring redundancy, dual DC input, -40 to 75 C, CE/RoHS - model STI-288DGGPM - $137.5 USD EXW in GT-Wave packing (MOQ 1, 15-day validity); the commercial 8-port class next to your GT8P - STC-28DGGPM - $87.4. KC stays on your side.\n\nOne question: is the PoE switch line bought in today, and from a Hisilicon-based source as before?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:05Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "master@gtwave.co.kr"
+  ],
+  "phones": [
+   "+82-31-707-4670"
+  ],
+  "social": [],
+  "models_on_site": [],
+  "url": "https://gtwave.co.kr/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

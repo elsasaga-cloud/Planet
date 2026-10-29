@@ -54,6 +54,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-30 | 去 | A 群发 | Firmware 7.5 L2+ Feature Update、24 Port PoE Managed Switch | 14 封 / 0 次打开 / 0 回｜首封 2025-09-24 → 末封 2026-09-30（14 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 有Utepo的 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Soluciones Profesionales de Seguridad \| IBD Global — IBD Global, distribuidor de soluciones profesionales de seguridad para instaladores e integradores: videovigilancia, intrusión, accesos, incendio, ingeniería y soporte técnico. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -132,9 +133,10 @@ updated: 2026-10-29
 - **KP**：Jordi Bassa（Administrador（BORME-C-2021-3504：Jordi Bassa Jansana）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28））jordi@iptecno.com 〔用户表〕
 - **KP**：Joan Balaguer（研究档 KP（职务未取）（第 110 批 官方登记核实 2026-10-28）） 〔用户表〕
 - **KP**：Joan Ojeda Flores（Administrador solidario（BORME 2021）（第 110 批 官方登记核实 2026-10-28）） 〔https://www.boe.es/diario_borme/txt.php?id=BORME-C-2021-3504〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -24,7 +24,7 @@ s_mail: 26 msgs (out 26 / in 0), 2024-06-19 -> 2026-10-01
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
-site_snapshot: ok  # 2026-10-21
+site_snapshot: mismatch  # 2026-10-21
 sources: 2
 updated: 2026-10-29
 ```
@@ -35,7 +35,7 @@ updated: 2026-10-29
 - **为什么是 C 级**：**调研后定级 C**（Q-76 LT-R05S 2026-10-29 复核打回 C 储备：捷克 Nextlan：19 次推送无回复、经营状态待核（早期 AI 判「网络设备分销」无现证）→ C 储备（官网恢复或来信即回）；c_sub=储备·复核打回 ；回信 / 询价即回 B）；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-3 WhatsApp 加不上；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/捷克；+5 最近活动 2025；-16 推送 19 次无任何回复（聋名单）；C 级细分：储备·复核打回
 - **历史互动**：推送 19 次（2024-02-28 → 2025-10-09）
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-28DGGPM（深挖对位：分销位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5））
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；具体需求型号（表内兴趣列为空）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；具体需求型号（表内兴趣列为空）；公司官网（表内域名经核实不属于本客户；真实官网未知）
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(af) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
@@ -106,14 +106,12 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——分销位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）
 - **邮件切入句（英文）**：For the switches in your distribution range, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS, EXW USD — is Nextlan still active in network distribution, and which port count do your customers ask for most?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名误配（快照到的网站不是本客户））
 
-- **首页**：https://www.dgaccounting.cz/　语言：cs　站点地图 URL 数：30
-- **标题**：dgaccounting.cz
-- **首页栏目**：KDO JSEM? / Pro koho nejčastěji pracuji / SLUŽBY, KTERÉ NABÍZÍM / ÚČETNICTVÍ / MZDOVÉ ÚČETNICTVÍ / NEZISKOVÉ ORGANIZACE / DANĚ / Moje práce v číslech
-- **站内公开邮箱**：consulting@mail.com, d.gubikova@gmail.com
-- 首页正文摘录：Skip to content O mě Services About News Contact Book a Consultation O mně Služby Ceník Kontakt Menu KDO JSEM? Jmenuji se Dominika Gubíková a pomáhám menším firmám, OSVČ a neziskovým organizacím mít jasno v číslech, daních i mzdách – bez stresu a zbytečné administrativy. Mám zkušenosti z interního i externího účetnictví , mzdové agendy, DPH a daňových přiznání. Pracovala jsem v menších firmách i v nadnárodních korpor
-- 数据文件：`data/saga_clients/site_snapshots/SB-855.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
+- 尝试域名：nextlan.cz
+  > True
+- **提示**：人工核对后判定表内域名不属于本客户（见上方说明），本客户以邮箱/电话为准；快照内容不采用。
+- 数据文件：`data/saga_clients/site_snapshots/SB-855.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -199,6 +197,7 @@ updated: 2026-10-29
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
 - [ ] 具体需求型号（表内兴趣列为空）
+- [ ] 公司官网（表内域名经核实不属于本客户；真实官网未知）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -54,6 +54,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-09-09 | 去 | A/S 群发 | Industrial PoE Switch、Marvell Alleycat5 Solution | 23 封 / 0 次打开 / 0 回｜首封 2024-07-11 → 末封 2026-09-09（23 去 / 0 来） | `gmail_digest` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Shop4Power - Power Supply, Switches & Planet Ethernet Specialist — Op zoek naar Power supply, switches, Power over Ethernet producten en Planet producten? Bij Shop4Power vind je alles, wij leveren uit voorraad | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -145,9 +146,10 @@ updated: 2026-10-29
 - **【Mikrotik 仓库】C-259 同户：分销+自有品牌 PLANET + E-Link，C 太难·自有品牌**
   > C-259 shop4power.nl 荷兰 分销+自有品牌 PLANET + E-Link 官网表单+邮件 … C 太难·自有品牌 … 类型属大盘/自有品牌（分销+自有品牌），决策链长或存在品牌冲突
   > 来源：https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv（抓取 2026-10-19）
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-045，W 批次调研 2026-10-19/20））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-045，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

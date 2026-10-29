@@ -113,7 +113,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（http_error）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（gogss.com：HTTP 错误，2026-10-21，第 1 次）
 - **是谁**：美国 GOGSS（gogss.com：销售平台型网店，交换机「比较多的外壳 有国内的」；KP tina@；官网 http_error）；表内未跟进。
 - **类型**：网络产品网店（美国，平台型）
 - **【用户表】表内兴趣/备注**
@@ -124,7 +124,8 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Hong (Tina) Chen（Sales Manager, GSS New York（IPVM 认证）= 收件人本人（第 103 批 官方登记核实 2026-10-28））tina@gogss.com 〔用户表〕
 - **KP**：Gary Greve（Owner = 拍板人（抄送路径经 Tina）（第 103 批 官方登记核实 2026-10-28）） 〔https://gogss.com/about-us/〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

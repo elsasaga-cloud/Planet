@@ -54,6 +54,7 @@ updated: 2026-10-29
 | 2025-01-30 | 去 | A 箱（Alan） | 8 Port Industrial PoE Switch | 首封去信（邮箱索引；去信共 18 封） | `55dc6c372f6fc558` |
 | 2026-09-30 | 去 | A 箱（Alan） | Managed PoE Switches | 最近一封去信（邮箱索引；去信共 18 封） | `00b231ccb2778bd9` |
 | 2024-08-11 | 来 | marlex@marlexconexion.com | Respuesta automática: Mini Industrial Switch｜﻿﻿ Thanks for your e-mail.  Marlex Conexion SL will be closed from August 12 to 16 (both included)   ------------------- | 来信（邮箱索引；原文见 k） | `808dac70a8f6e2ed` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Bot Detection — Please wait while we check if you are a Human | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -119,9 +120,10 @@ updated: 2026-10-29
 - **KP**：Joan Torras（）joan@marlexconexion.com 〔用户表〕
 - **KP**：Philippe Provost（）marlex@marlexconexion.com 〔用户表〕
 - **KP**：Joan Albert Torras Madolell（Administrador único / 业主（empresia / iberinform）= 拍板人 / 收件人（第 112 批 官方登记核实 2026-10-28）） 〔https://www.empresia.es/〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

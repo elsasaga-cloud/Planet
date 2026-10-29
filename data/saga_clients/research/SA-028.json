@@ -7,7 +7,8 @@
  "size": "未见人数（中小）",
  "brands_seen": [
   "中科德能",
-  "ENTA ETN/ETS（自有标）"
+  "ENTA ETN/ETS（自有标）",
+  "Cisco"
  ],
  "evidence": [
   {
@@ -55,11 +56,12 @@
    "source": "https://www.entasource.co.th/17906637/network-service"
   }
  ],
- "notes": "A 确认（已回复 + 自有 logo + 工业线全品类分销）；P1 = STI-288DGGPM（工业 8 PoE 网管）+ STI-110GE（MC），20% 分销档，贴牌 30%。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep。\nA 确认（已回复 + 自有 logo + 工业线全品类分销）；P1 = STI-288DGGPM（工业 8 PoE 网管）+ STI-110GE（MC），20% 分销档，贴牌 30%。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v2（官网 entasource.co.th 自有标 ETN 目录核对）"
+  "level": "深挖 v2（官网 entasource.co.th 自有标 ETN 目录核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "ENTA SOURCE Co., Ltd.（เอ็นต้าซอร์ส）",
@@ -248,5 +250,35 @@
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:02Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sale@entasource.co.th"
+  ],
+  "phones": [],
+  "social": [
+   "https://www.facebook.com/entasource/",
+   "https://www.youtube.com/@entasource2731"
+  ],
+  "models_on_site": [
+   "ETN9063-1FX1TX",
+   "ETN9065-1FX2TX",
+   "ETN9065-1FX4TX",
+   "ETN9065-5TX",
+   "ETN9075-2GX4GT",
+   "ETN9065-2GX4GT",
+   "ETN9075-2GX4PGT",
+   "ETN9065-2GX4PGT"
+  ],
+  "url": "https://www.entasource.co.th/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -54,10 +54,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "美国",
@@ -123,6 +124,14 @@
     "quote": "4光8管理MIB资料 / from: Shopify",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Software Effect Enterprises, Inc",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.seei.biz/"
    }
   ],
   "proof_gaps": [
@@ -133,5 +142,12 @@
    "body": "Hi Charles,\n\nYou asked on our site for the MIB files of the 4-SFP + 8-port managed switch and did not get a proper answer from us - apologies, here it is.\n\nThe unit is a DIN-rail industrial L2+ managed switch, 8 x Gigabit RJ45 (PoE+ on the PoE version) + 4 x SFP (1G/2.5G), Marvell-based, SNMP, -40 to 75 C, FCC/CE/RoHS - model STI-488DGGPM (PoE) at $147.1 USD EXW, or STI-480DGGM (non-PoE) at $132.0 USD EXW (MOQ 1, 15-day validity). I can get you the SNMP MIB package together with the datasheet.\n\nOne question: which NMS are you integrating it with - so I send the matching MIB set and the OID notes?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:38:30Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
  }
 }

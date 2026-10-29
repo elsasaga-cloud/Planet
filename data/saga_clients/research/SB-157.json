@@ -48,10 +48,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "〒111-0052 東京都台東区柳橋 1-20-4 深代ビル 8F, Japan（03-5829-5805；日经登記住所同址）（第 121 批 官方登记核实 2026-10-29）",
@@ -162,6 +163,14 @@
     "quote": "Managed PoE Switches",
     "why": "本日去信真实主题（邮箱索引 7bc527cea30d21ed；信稿开头句引用此封；此前稿内写的「10G Enterprise SFP Switch」是线程列表首题，不是本封）",
     "k": "7bc527cea30d21ed"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "データコントロルズ株式会社 | データコントロルズは光通信、運輸、情報、エネルギーのネットワークインフラのメディア変換製品の設計・開発・販売をトータルサポート — データコントロルズは光通信、運輸、情報、エネルギーのネットワークインフラのメディア変換製品の設計・開発・販売をトータルサポート",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://dci.jp/"
    }
   ],
   "proof_gaps": [],
@@ -170,5 +179,32 @@
    "body": "Hello Data Controls team,\n\nOver the past months you had a few product mails from us - most recently \"Managed PoE Switches\" on 29 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the ORing industrial switches and the media converters you carry for transport and energy networks, neutral packing, at distributor price, EXW, MOQ 1, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $78.9 USD; Gigabit media converter, 1 x RJ45 + 1 x SFP slot - STI-110GE - $26.5; PoE version - STI-111GP - $27.8. A bypass unit (8 x PoE+ + 4 x SFP with hardware fibre bypass) is available on request. CWDM and rail-certified positions we do not quote. PSE-marked Mean Well adapters on the desktop units.\n\nOne question: which port count do your transport and energy customers order most - 4, 8 or 16?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:23:58Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@dci.jp"
+  ],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "DCWDM2108",
+   "DCWDM2108H",
+   "IEEE802",
+   "FRM220-1000DS",
+   "FRM220A-2000EAS",
+   "IGPS-9084GP",
+   "IGS-1080A",
+   "IGPS-1080-24V"
+  ],
+  "url": "https://dci.jp/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

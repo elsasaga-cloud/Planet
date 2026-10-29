@@ -54,6 +54,7 @@ updated: 2026-10-29
 | 2024-06-19 | 去 | S 箱（Simon） | 48 port managed switch | 首封去信（邮箱索引；去信共 43 封） | `59eac8f4234fa84e` |
 | 2026-09-09 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 最近一封去信（邮箱索引；去信共 43 封） | `81ea8a5561a68212` |
 | 2024-10-30 | 来 | chk999@outlook.com | Re: 10G Ethernet Web Managed Switch｜Hi, Does it have the https (not http, but https with s at the end http secure protocol) and can we store third party htt | 误归属：Chavan Koya = SB-701（NovaCA），回信抄送 larry@novaca.com 落到本户标签；Simon 2024-10-31 已答「HTTPS 不在功能表」。本户（tccomm.com）无人工回复 | `5a42faf06fd8915e` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | TC Communications - Fiber Optic Networks and Industrial Ethernet Solutions — TC Communications design and manufacture the most reliable and efficient fiber optic communications products for public safety, utilities, transportation, and other industrial networks | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -160,9 +161,10 @@ updated: 2026-10-29
 - **KP**：Steve Cragg（Vice President Sales & Marketing（TC Communications, Inc.）= **产品线扩充决策人本人 = 收件人**（第 102 批 官方登记核实 2026-10-28））stevec@tccomm.com 〔用户表〕
 - **KP**：Fredrick Chow（研究档 KP（职务未核）（第 102 批 官方登记核实 2026-10-28）） 〔用户表〕
 - **KP**：Kai Liang（President & CEO / 创办人（1991）= 拍板人（点名）（第 102 批 官方登记核实 2026-10-28）） 〔〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -67,6 +67,7 @@ updated: 2026-10-29
 | 2025-10-10 | 来 | Vladimir Xe | we signed a memorandum with our partner… Could you please share Joey's contact | 转介落地 | `510e36cd41433a95` |
 | 2025-10-10 | 去 | Saga（Alan） | Hi, Vladimir, I shared your contact info with the person we know, Joey. About the CKD/SKD/Source Code info, its all good. Perhaps it is better that you talk with Joey directly. Maybe you can work out something or next time.… | Saga 实质答复原文（主题「Re: OEM and SDK for National product」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `3cdc9c1b300ef132` |
 | 2025-11-24 | 来 | Vladimir Xe | No, this is not interesting for us. | 成品不感兴趣 | `67798dac43496efa` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | LATMEDIA Community в Ташкенте - LATMEDIA.UZ — LATMEDIA Community — это площадка для идей, знаний и коллабораций. Мы объединяем креативных людей, бренды и экспертов, чтобы вместе создавать проекты, развиваться и делиться опытом. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：「Joey」是谁、属于哪条供应链——邮件未写；不去猜
 
@@ -155,9 +156,10 @@ updated: 2026-10-29
   > 来源：https://2gis.uz/tashkent/firm/70000001036910454（抓取 2026-10-21）
 - **KP**：Пак Максим（Maksim Pak）（CEO LATMEDIA（官网 About））info@latmedia.uz（公司公开） +998 90 115 51 00（公司 Telegram）〔https://latmedia.uz/about/〕
 - **KP**：Vladimir Xe（Co-founder, Latmedia（邮件签名））vladimir.xe@latmedia.uz 〔S/A 邮箱来信 2025-07-21 → 11-24 来信 7 封（第 72 批从邮件表头补）〕
-- 备注：唯一一条'入站 L3 询盘却从未被跟进'的 A 级线索：先补发首封回复（L2+ STC-424DGGPM-280W / L3 STC-448XGGM(L3)，项目 25%），一轮后按回应重定级。俄语区非主攻，不额外投入。 ｜ T27 用户更正（2026-10-21）：该询盘已由 a.sagatelecom@gmail 邮箱跟进过（表内未记录）；跟进往来待用户导出 A 邮箱后补入。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+唯一一条'入站 L3 询盘却从未被跟进'的 A 级线索：先补发首封回复（L2+ STC-424DGGPM-280W / L3 STC-448XGGM(L3)，项目 25%），一轮后按回应重定级。俄语区非主攻，不额外投入。 ｜ T27 用户更正（2026-10-21）：该询盘已由 a.sagatelecom@gmail 邮箱跟进过（表内未记录）；跟进往来待用户导出 A 邮箱后补入。
 
-### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + 黄页核对））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + 黄页核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

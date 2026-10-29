@@ -6,7 +6,8 @@
  "type": "分销商 + 自有品牌（Chimera，OEM 采购）",
  "size": "11–50 人（LinkedIn）",
  "brands_seen": [
-  "Chimera"
+  "Chimera",
+  "Cisco"
  ],
  "evidence": [
   {
@@ -75,11 +76,12 @@
    "source": "https://find-and-update.company-information.service.gov.uk/company/04748999/officers"
   }
  ],
- "notes": "A 确认：Chimera 品牌需要 MC/交换机货源；P1 = STI-110GE（MC 贴牌）→ 带入 STC-28DGGPM/424 系列；30% OEM 档。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\nA 确认：Chimera 品牌需要 MC/交换机货源；P1 = STI-110GE（MC 贴牌）→ 带入 STC-28DGGPM/424 系列；30% OEM 档。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1"
+  "level": "深挖 v1 + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "MEGNET LTD.（Companies House 04748999，2003-04-30 成立，Active；SIC 82990；2021-06 有 1 项抵押登记）",
@@ -234,6 +236,14 @@
     "quote": "15Usd/pc Metal shell, 1G/2.5G speed, AC100-240V in; POWER+PSE；802.3af/at/BT MAX65W… Production time: 3~5 working days",
     "why": "报价",
     "k": "c006113d9ba7a08c"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Megnet | Compatible & OEM Network Transceivers, DAC & AOC — Multi-vendor network hardware distributor. Compatible & OEM transceivers, DAC/AOC cables, RAM, hard drives & optics. Next-day UK & Europe delivery.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://megnet.co.uk/"
    }
   ],
   "proof_gaps": [
@@ -244,5 +254,39 @@
    "body": "Hi, Jitendra,\n\nIn January 2025 your tender needed Voice VLAN, SNMPv3, SSHv2 and IPv6 on 24/48-port PoE+ access switches, and we had to say \"Voice VLAN under development\". It has been in firmware since 7.4 (now 7.5) on the Marvell AC5 24/48-port PoE+ models with 10G uplinks.\n\n- 24x GbE PoE+ 280 W + 4x 10G SFP+, L2+ — $180 USD EXW (our 8 September mail said $170; that batch is gone, $180 is the current one)\n- 48x GbE PoE+ 440 W + 4x 10G SFP+, L2+ — $335 USD EXW (the $300 in our 2024/25 mails was at the old exchange rate)\n(2026-10 price table, valid 15 days from this mail)\n\nSeparately, Nasim: the 60 W PoE++ injector test unit (15 USD) from December — did it pass at the customer, and is the bulk requirement still there?\n\nOne question: is that tender, or a similar one, still open?\n\nThank you.\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:19:38Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@megnet.co.uk"
+  ],
+  "phones": [
+   "+44 08451301585"
+  ],
+  "social": [
+   "https://twitter.com/MegnetLtd",
+   "https://twitter.com/intent/tweet?text=https://megnet.co.uk/megnet-solution/industrial-park-video-surveillance-solution/",
+   "https://twitter.com/intent/tweet?text=https://megnet.co.uk/megnet-solution/large-shopping-mall-wireless-network-solution/",
+   "https://www.facebook.com/sharer/sharer.php?u=https://megnet.co.uk/megnet-solution/industrial-park-video-surveillance-solution/"
+  ],
+  "models_on_site": [
+   "CHPC-LC-FC-15M-OS1-DPX",
+   "CHPC-LC-FC-15M-OM5-DPX",
+   "CHPC-LC-FC-20M-OS1-SPX",
+   "CHPC-LC-FC-20M-OS1-DPX",
+   "CHPC-LC-FC-20M-OS2-SPX",
+   "CHPC-LC-FC-20M-OM1-SPX",
+   "CHPC-LC-FC-20M-OM1-DPX",
+   "CHPC-LC-FC-20M-OM3-SPX"
+  ],
+  "url": "https://megnet.co.uk/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

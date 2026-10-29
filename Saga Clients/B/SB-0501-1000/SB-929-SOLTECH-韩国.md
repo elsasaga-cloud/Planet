@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2025-02-25 | out | Elsa → jasonk@soltech.co.kr | L3 Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-09-08 | 去 | A/S 群发 | Managed Optical Bypass Switch、Marvell Industrial Alert System | 34 封 / 5 次打开 / 0 回｜首封 2024-06-30 → 末封 2026-09-08（34 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 几个工业交换机型号；Simon客户 / attn: Kwang Young Kim(金广永） \| telephone: 82-10-3046-5653 \| mobile.: 82-70-4628-5232 \| fax.: 82-2-701- | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | 파이버마트 - 통신 네트워크 전문 쇼핑몰 — 솔텍 통신 장비부터 광케이블, 스위칭허브, 통신랙, 광자재, 전기용품 종합 쇼핑몰 | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -153,9 +154,10 @@ updated: 2026-10-29
 - **KP**：Kim Kwang Young（金广永）（SOLTECH 研究档 KP（Simon 既有联系人）= 收件人；대표 이동화 = 拍板人（第 115 批 官方登记核实 2026-10-28））kky@soltech.co.kr 〔用户表〕
 - **KP**：Jason（SOLTECH 研究档 KP = 抄送（第 115 批 官方登记核实 2026-10-28））jasonk@soltech.co.kr 〔用户表〕
 - **KP**：이동화 Lee Dong-hwa（대표 ㈜솔텍 SOLTECH / 솔텍인포넷(주)（jobkorea / saramin）= 拍板人（第 115 批 官方登记核实 2026-10-28）） 〔https://www.jobkorea.co.kr/Recruit/Co_Read/C/soltech99〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -57,6 +57,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | Ady加了WhatsApp  不会英文，要商业级POE交换机 / Duzgun Toptan Ticaret / teksarf.com | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | DÜZGÜN TOPTAN TİCARET | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库
 
@@ -117,9 +118,10 @@ updated: 2026-10-29
   > Ady加了WhatsApp  不会英文，要商业级POE交换机 / Duzgun Toptan Ticaret / teksarf.com
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（Düzgün 家族业主，姓名待核）（业主（推测））duzgun.toptan.ticaret@gmail.com（用户表） —（Ady WhatsApp）〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · 官网未检索到 · 仅表内信息）
+### 加厚挖掘（2026-10-21 · 官网未检索到 · 仅表内信息 + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

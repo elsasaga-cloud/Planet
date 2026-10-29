@@ -38,11 +38,12 @@
    "date": "2026-10-21"
   }
  ],
- "notes": "A 维持（用户 S 重点 + 自有品牌 PoE 交换机 = OEM 采购方，非竞争对手）；INH「台湾厂商非客户」针对 Planet 同业，此处为 OEM 买家，特此说明。P1 = STC-21616GP 类 16 口 PoE 非网管（如价格表无则标注 SmartByte 型号），30% 档。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\nA 维持（用户 S 重点 + 自有品牌 PoE 交换机 = OEM 采购方，非竞争对手）；INH「台湾厂商非客户」针对 Planet 同业，此处为 OEM 买家，特此说明。P1 = STC-21616GP 类 16 口 PoE 非网管（如价格表无则标注 SmartByte 型号），30% 档。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1"
+  "level": "深挖 v1 + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "ALFA NETWORK INC.（Taipei Neihu；2002；法国 SIREN 901445445 = 欧洲远距销售 VAT 登记 2021-05）",
@@ -280,6 +281,14 @@
     "quote": "24 Port PoE Managed Switch｜ $170（原句：*Price: 170USD/PC*）",
     "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
     "k": "416daea2221fc20d"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "ALFA Network Inc.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.alfa.com.tw/"
    }
   ],
   "proof_gaps": [],
@@ -304,5 +313,38 @@
    "phone": "",
    "source": "https://www.dnb.com/business-directory/company-profiles.alfa_network_inc.92c8275df8b0f94300f98ff30d74ce55.html"
   }
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:19:36Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@alfa.com.tw"
+  ],
+  "phones": [
+   "+886-2-2796-8477"
+  ],
+  "social": [
+   "https://twitter.com/alfanetworkinc",
+   "https://www.linkedin.com/company/alfanetwork",
+   "https://www.youtube.com/alfanetworkinc"
+  ],
+  "models_on_site": [
+   "AHPI7292S",
+   "AC600U",
+   "AWPCIE-1900U",
+   "AWUS1900",
+   "AWUS036ACH",
+   "AWUS036AC",
+   "AWUS036ACM",
+   "AC1200R"
+  ],
+  "url": "https://www.alfa.com.tw/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

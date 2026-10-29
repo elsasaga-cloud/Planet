@@ -56,6 +56,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-08 | 去 | A 群发 | Booster PoE Switch、Marvell Industrial Alert System | 12 封 / 0 次打开 / 0 回｜首封 2025-11-12 → 末封 2026-09-08（12 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：4光8电 4光16电 10G光带BT | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Leading Innovative Industrial Network Solutions & Automation — Discover cutting-edge network and automation solutions for mining industries and beyond. Empower your operations with Vernetzen’s expertise. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -125,6 +126,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（vernetzen.com，快照 2026-10-21）
 - **是谁**：澳大利亚昆士兰（+61 7 4276，麦凯 / 矿区）工业网络与自动化方案商（矿业为主）：自有 **Wi-Fi over Coax**、光纤转 PoE 注入器（VP-CI-FCPI）、工业双口 PoE+ 延长器（VP-CI-PEXT）、Veto OT 工具套件、工业网络培训；Luke King；需求 **4 光 8 电、4 光 16 电、10G 光 + BT 大功率**；WA 无实质回复。自有产品线 = 可贴牌 Vernetzen 标。
+- **在卖/在用品牌**：Ubiquiti
 - **【官网快照】矿业工业网络与自动化方案；自有 Wi-Fi over Coax、PoE Injector (Fibre)、PoE Extender、Veto OT 套件、培训；+61 7 4276 6665；关键词 poe 43 / industrial 51 / fibre 23**
   > Discover cutting-edge network and automation solutions for mining industries… Wi-Fi over Coax… PoE Injector (Fibre) PoE Extender… Veto Operational Technology Suite… High-Performance VP-CI-FCPI Fibre to PoE… VP-CI-PEXT Industrial Dual Port PoE+ Extender
   > 来源：https://www.vernetzen.com/（抓取 2026-10-21）
@@ -132,9 +134,10 @@ updated: 2026-10-29
   > 兴趣：4光8电 4光16电 10G光带BT
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Luke King（负责人 / 技术（研究档；WA +61 422 049 988；需求 4 光 8 电 / 4 光 16 电 / 10G + 大功率）= 拍板人 / 收件人 — 一页纸一次：贴标 OEM 30% B、Vernetzen 标 / 中性包装 STI-488DGGPM $147（4 光 8 电）、4 光 16 电 主表无 → STC-4424GCPM 替代明说、10G 上联 + 大功率 = STC-424XGGPM-280W $198（商用级明说）、BT 90 W 不声称、付费样机 + MOQ 1 + 3 年保 — 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、RCM 不声称（DAP 买方清关）（第 118 批 官方登记核实 2026-10-28））luke@vernetzen.com.au +61 422 049 988〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：自有品牌 + 矿业））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：自有品牌 + 矿业） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

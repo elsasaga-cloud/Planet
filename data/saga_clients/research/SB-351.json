@@ -64,10 +64,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "75 Argonaut, Suite B, Aliso Viejo, CA 92656",
@@ -150,6 +151,14 @@
     "quote": "16 Port Industrial PoE Switch",
     "why": "本日去信真实主题（邮箱索引 a5c067a67df20ff8；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封）",
     "k": "a5c067a67df20ff8"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "ENETUSA — ENETUSA",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://enetusa.com/"
    }
   ],
   "proof_gaps": [],
@@ -158,5 +167,35 @@
    "body": "Hi Gordon,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 16 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nTransceivers, DAC and AOC are yours and we do not touch them. For the media converters carried under the ENET label alongside them, in your packaging from small lots, -40 to 75 C, FCC/CE/RoHS: industrial Gigabit converter, 1 x RJ45 + 1 x SFP slot - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); PoE version - STI-111GP - $30.1; and an 8 x Gigabit + 2 x SFP unmanaged DIN switch - STI-280GE - $46.\n\nOne question: which converter configuration do your customers order most with a fibre link - SFP-slot or fixed-fibre?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:39:43Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@enetusa.com",
+   "support@enetusa.com"
+  ],
+  "phones": [
+   "+1 (888) 794-9462"
+  ],
+  "social": [],
+  "models_on_site": [
+   "OSFP224",
+   "QSFP28",
+   "LC2-OM4-50M-ENC",
+   "LC2-OM4-30M-ENC",
+   "LC2-OM4-25M-ENC",
+   "LC2-OM4-20M-ENC",
+   "LC2-OM4-15M-ENC",
+   "LC2-OM4-12M-ENC"
+  ],
+  "url": "https://enetusa.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

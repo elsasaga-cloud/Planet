@@ -54,11 +54,12 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "唯一一条'入站 L3 询盘却从未被跟进'的 A 级线索：先补发首封回复（L2+ STC-424DGGPM-280W / L3 STC-448XGGM(L3)，项目 25%），一轮后按回应重定级。俄语区非主攻，不额外投入。 ｜ T27 用户更正（2026-10-21）：该询盘已由 a.sagatelecom@gmail 邮箱跟进过（表内未记录）；跟进往来待用户导出 A 邮箱后补入。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n唯一一条'入站 L3 询盘却从未被跟进'的 A 级线索：先补发首封回复（L2+ STC-424DGGPM-280W / L3 STC-448XGGM(L3)，项目 25%），一轮后按回应重定级。俄语区非主攻，不额外投入。 ｜ T27 用户更正（2026-10-21）：该询盘已由 a.sagatelecom@gmail 邮箱跟进过（表内未记录）；跟进往来待用户导出 A 邮箱后补入。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v2（官网 + 黄页核对）"
+  "level": "深挖 v2（官网 + 黄页核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "LATMEDIA GROUP ООО",
@@ -213,6 +214,14 @@
     "quote": "No, this is not interesting for us.",
     "why": "成品不感兴趣",
     "k": "67798dac43496efa"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "LATMEDIA Community в Ташкенте - LATMEDIA.UZ — LATMEDIA Community — это площадка для идей, знаний и коллабораций. Мы объединяем креативных людей, бренды и экспертов, чтобы вместе создавать проекты, развиваться и делиться опытом.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://latmedia.uz/"
    }
   ],
   "proof_gaps": [
@@ -220,5 +229,29 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:41Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@latmedia.uz"
+  ],
+  "phones": [
+   "+998 90 115-51-00"
+  ],
+  "social": [
+   "https://www.facebook.com/latmediauz/",
+   "https://www.instagram.com/latmedia_agency/",
+   "https://www.youtube.com/@latmedia_uz"
+  ],
+  "models_on_site": [],
+  "url": "https://latmedia.uz/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

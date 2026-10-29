@@ -75,6 +75,7 @@ updated: 2026-10-29
 | 2026-05-08 | 来 | Inoue（UNEAX） | Has the power supply you suggested already obtained PSE certification? Please confirm this. | 日本市场硬门槛：电源要 PSE 认证——Meanwell 多数型号有 PSE，但 Saga 要给出具体型号的 PSE 证书，否则日本线走不通（与 INH 证书规则 CE/RoHS/FCC/REACH/UKCA 之外新增一项地区要求） | `gmail_a 2026-05-08 Re: Marvell Managed Commercial Switches` |
 | 2026-05-08 | 去 | Saga（Alan） | Yes, they all are PSE-certified, desktop type, NOT DIN type. I checked why MEANWELL is not issuing PSE certification for DIN models (NDR-120 series and NDR-240 series)… 1.3: MEANWELL is just not issuing it, gotta passively accept this. 2. Please try to gather all questions together, so we can answer together. This is more efficient. | PSE 问题的最终答复（GST 桌面型有、NDR DIN 型无）；同一封里让对方「把问题攒一起问」——这是井上此后再没来信的最后一封。日本客户逐条追问是常态，这句话可能被读成不耐烦 | `gmail_a 2026-05-08T08:35 → inoue.mari@unea-x.com` |
 | 2026-09-14 | 去 | Saga（Alan） | This is our 16-port DIN PoE switch featuring 1. 2*1G SFP slots with PoE af/at capability, 240W budget 2. Support PoE watchdog and 250-meter PoE 3. Ideal in CCTV cabinet solutions. Do you need some units for testing? | 4 个月后单推 16 口 DIN PoE（他们 4 月问的就是带看门狗的 PoE）——无回；若再动，先接回 5 月那串问题（PSE 电源 Plan B 1,100 日元、标签、认证费用）而不是再推新机 | `gmail_a 2026-09-14T01:30 → inoue.mari@unea-x.com` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | UNEAX株式会社 \| ビジネスを加速させるリーディングカンパニー — 未来をつくるテクノロジーで、あなたのビジネスに革命を。高速ストレージ、信頼性のある通信、先進のIoTソリューション、精密金属加工。お客様の問題を定義し、解決へと導きます。詳細はお気軽にお問い合わせください。 | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -171,9 +172,10 @@ updated: 2026-10-29
 - **KP**：Ryosuke Osako（大迫）（首位联系人（2026-04-22 来问看门狗 PoE、要样；签名 UNEAX株式会社 大迫））ryosuke.osako@unea-x.com 〔A 邮箱签名 k=01650dadfc0d13bc / 044e800de1232d47〕
 - **KP**：Mari Inoue（井上）（技术/合规对接（2026-05-01 起 17 问、PSE 电源、Alibaba 采购问题；大迫 04-28「discuss this with Inoue at CC」））inoue.mari@unea-x.com 〔A 邮箱签名（2026-05-01 → 05-08 来信 6 封）〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

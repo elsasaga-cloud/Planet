@@ -75,10 +75,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 国别由表内「波兰」更正为「立陶宛」（country_fix，依据见加厚块）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 国别由表内「波兰」更正为「立陶宛」（country_fix，依据见加厚块）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + 登记核对；国家更正 LT）"
+  "level": "B 级加厚 v1（官网 + 登记核对；国家更正 LT） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "UAB „ENERGUS GROUP“（įmonės kodas 304419130；PVM LT100011259419）",
@@ -162,6 +163,14 @@
     "quote": "switch ，拿了彩页 / Daniel Suskevic / http://energus.eu/",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Individualūs pastatų sprendimai kuriantys ateitį • Energus — Patobulinsime pastatus, sukurdami individualius sprendimus, kurie garantuos komfortą, tvarų eksploatavimą ir investicijų atsiperkamumą!",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://energus.lt/"
    }
   ],
   "proof_gaps": [
@@ -172,5 +181,12 @@
    "body": "Hi Daniel,\n\nFollowing up on the switch brochure you picked up at the fair. (Over the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 1 September 2026 - and there was no reason to answer a mass mail; this one is written for Energus.)\n\nFor your electrical and automation projects: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2+ managed with ring redundancy, Marvell-based, -40 to 75 C, CE/RoHS - model STI-288DGGPM - $137.5 USD EXW (MOQ 1, 15-day validity); the non-PoE L2 managed 8 x Gigabit + 2 x SFP - STI-280GM - $71.0; for building PoE, 24 x PoE+ (280 W) + 4 x SFP - STC-424DGGPM-280W - $140.1.\n\nOne question: are you still the right contact for low-current projects at Energus, or should I write to a colleague?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:43:22Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
  }
 }

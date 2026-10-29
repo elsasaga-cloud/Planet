@@ -54,6 +54,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-23 | 去 | A 群发 | 10G Enterprise SFP Switch、24 Port Fiber Switch | 16 封 / 1 次打开 / 0 回｜首封 2025-02-25 → 末封 2026-09-23（16 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | bypass 工业FS MC 多功能VC | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | fiber optic systems – eks Engel — Intelligent solutions – engineered by eks, intuitiv bedienbare Software, LWL-Systeme und Komponenten bis hin zu Datenstreaming | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -140,9 +141,10 @@ updated: 2026-10-29
   > bypass 工业FS MC 多功能VC；有人在卖他们的产品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Ralph Engel（Geschäftsführer / Inhaber（1994 接班；HRA 8091 Siegen 代表）= 老板 —— **同行（自产工业以太网交换机）：不发**（第 96 批 官方登记核实 2026-10-28））re@eks-engel.de 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

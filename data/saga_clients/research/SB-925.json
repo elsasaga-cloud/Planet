@@ -64,10 +64,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "韩国",
@@ -159,10 +160,43 @@
     "quote": "[미래시그널 ]_2025 SECON 보안엑스포 무료사전등록 초대장 안내의 건｜안녕하십니까.  귀사의 성장과 번영을 기원합니다.  미래시그널이 오는 3월 19일부터 3일간 개최되는 SECON 2025 보안전시회에 참가하게 되어 기쁜 마음으로 안내드립니다.   본 전시는 킨텍스 제1전시장 3홀~",
     "why": "对方展会邀请群发（SECON 2025，营销群发，不算回复）",
     "k": "a71ed91fdc4fc72f"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "미래시그널 — {{AUTO_META_DESCRIPTION}}",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "http://miraesignal.com/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:25:05Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@miraesignal.com"
+  ],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "MV-IPG804MBT",
+   "MV-IPG804MBTN",
+   "MV-IPG804MBTN-2BP",
+   "MV-IPG802",
+   "XDR-240E-48",
+   "NDR-240-48"
+  ],
+  "url": "http://miraesignal.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

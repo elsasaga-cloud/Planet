@@ -54,6 +54,7 @@ updated: 2026-10-29
 | 2024-06-28 | 去 | S 箱（Simon） | 5 port industrial switch | 首封去信（邮箱索引；去信共 20 封） | `a55e7b2056545155` |
 | 2026-09-16 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 最近一封去信（邮箱索引；去信共 20 封） | `d7c724f583498e71` |
 | 2026-09-16 | 来 | f.zordan@digimax.it | Risposta automatica: 16 Port Industrial PoE Switch｜Buongiorno, nelle giornate del 15/09/2026 e 16/09/2026 sarò assente e avrò un accesso limitato alla posta elettronica. S | 来信（邮箱索引；原文见 k） | `c1e244fa91a9d099` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Digimax \| Alimentatori industriali, driver led, strip led, pc industriali e display — Digimax propone la migliore selezione di alimentatori switching, driver led, centraline, neon strip led, pc e display industriali con ampio stock in pronta consegna | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -142,9 +143,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Matteo Tirapelle（）m.tirapelle@digimax.it 〔用户表〕
 - **KP**：Flavio Zordan（） 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

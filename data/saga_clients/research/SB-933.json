@@ -55,10 +55,11 @@
  ],
  "grade_override": "A",
  "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "新北市新店區寶橋路235巷120號7樓（02-8912-1060）（第 116 批 官方登记核实 2026-10-28）",
@@ -154,6 +155,14 @@
     "quote": "It is a new trading company. 1, Company website is under construction and expected to be available within a month. 2, It is CE/UL compliant. Please see attached a new hot-selling model.（答 AirLive John Lai「Whats you company url / Is those ce certificate?」）",
     "why": "2024 年初的两处旧口径：自称 trading company、说 UL compliant——现行口径都不再用（不称贸易商；认证只有 CE/FCC/RoHS/REACH/UKCA，无 UL）。AirLive 是品牌商，此后无回",
     "k": "gmail_s 4df1977995e4e90b"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "wifi6 MESH Router|AirLive|Managed Switch|5G|Your best choice of Smart Network Solution — AirLive® Technology’s Network and Communication innovations implement your smart Integration. Accumulated yearly well experiences in networking and communication Industry, AirLive Technology continuously dedicat",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.airlive.com/"
    }
   ],
   "proof_gaps": [],
@@ -169,5 +178,36 @@
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来"
   }
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:25:13Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@airlive.com"
+  ],
+  "phones": [],
+  "social": [
+   "https://www.facebook.com/airlive",
+   "https://www.instagram.com/airlivetechnology",
+   "https://www.youtube.com/user/AirLiveMedia"
+  ],
+  "models_on_site": [
+   "IEEE802",
+   "RJ-45",
+   "IGM-14104BT-2",
+   "IGM-1484POE-2",
+   "IGM-1082BT-2",
+   "IGM-1082POE-2",
+   "IGM-1082POE-1",
+   "DIN35"
+  ],
+  "url": "https://www.airlive.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

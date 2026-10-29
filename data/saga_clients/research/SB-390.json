@@ -2,7 +2,7 @@
  "code": "SB-390",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（timeout）",
+ "website_status": "快照失败（hunters-wholesalers.co.uk：超时（站慢或封锁），2026-10-21，第 1 次）",
  "summary": "英国 Hunters Wholesalers（电气/安防批发分销商；表内「分销商 商业 PoE 有润丰达（丰润达）的」「可以多跟进一下」；官网 timeout）；群发 16 次无回复。",
  "type": "电气/安防批发商（英国，PoE 现丰润达，Q-33 口径）",
  "size": "",
@@ -34,7 +34,7 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
@@ -125,5 +125,14 @@
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:40:17Z"
+  ],
+  "fails": [
+   "2026-10-21"
+  ],
+  "batch": "LT-T03"
  }
 }

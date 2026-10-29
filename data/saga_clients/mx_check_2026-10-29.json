@@ -8243,10 +8243,22 @@
   },
   "arcanlibya.com": {
    "mx": [
-    "10 mx1.secure.ly",
-    "20 mx2.secure.ly",
-    "30 mx3.secure.ly",
-    "40 mx4.secure.ly"
+    [
+     10,
+     "mx1.secure.ly"
+    ],
+    [
+     20,
+     "mx2.secure.ly"
+    ],
+    [
+     30,
+     "mx3.secure.ly"
+    ],
+    [
+     40,
+     "mx4.secure.ly"
+    ]
    ],
    "a": [],
    "status": "ok",
@@ -34041,7 +34053,10 @@
   },
   "hightrade-international.com": {
    "mx": [
-    "0 hightradeinternational-com02c.mail.pro"
+    [
+     0,
+     "hightradeinternational-com02c.mail.pro"
+    ]
    ],
    "a": [],
    "status": "ok",
@@ -43791,7 +43806,10 @@
   },
   "mreit.co.kr": {
    "mx": [
-    "10 mail.mreit.co.kr"
+    [
+     10,
+     "mail.mreit.co.kr"
+    ]
    ],
    "a": [],
    "status": "ok",

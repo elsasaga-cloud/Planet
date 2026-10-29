@@ -39,10 +39,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  "level": "B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "YLI ETERNIT ACCES S.R.L.（商号 YLI Control Acces；CUI 19284558；Cluj-Napoca）",
@@ -122,6 +123,14 @@
     "quote": "16 Port Industrial PoE Switch",
     "why": "本日去信真实主题（邮箱索引 0a05aae73c2becb8；信稿开头句引用此封；此前稿内写的「Marvell Alleycat5 Solution」是线程列表首题，不是本封）",
     "k": "0a05aae73c2becb8"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "YLI Control Acces — Sisteme de control acces - centrale, controlere, cititoare de proximitate, electromagneti de forta, bolturi electrice, yale, surse de alimentare, incuietori de hotel, bariere, turnicheti, sisteme de supraveghere video, accesorii",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://yli.ro/"
    }
   ],
   "proof_gaps": [],
@@ -140,5 +149,33 @@
   "note": "罗马尼亚门禁系统分销商 YLI（Dahua / ZKTeco；poe 35 条目，Utepo 在售）：进口中国同类 ✔ 对位 ✔ 欧洲 → 留 B",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": []
+ "override_history": [],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:39:35Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [
+   "004 862.1020",
+   "0040-264-484989 0040-364-118920"
+  ],
+  "social": [],
+  "models_on_site": [
+   "IEEE802",
+   "ABK-802",
+   "SCP-100",
+   "CAB4-PS5",
+   "SCP-110",
+   "SPEEDFACE-V5L-TD",
+   "IDT-1000EM",
+   "IDT-1001EM"
+  ],
+  "url": "https://yli.ro/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

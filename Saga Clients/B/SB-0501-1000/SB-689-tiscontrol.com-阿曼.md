@@ -61,6 +61,7 @@ updated: 2026-10-29
 | 2026-05-04 | out | Elsa → mamun@mkseoman.com | Industrial PoE Switch（Elsa 1:1 逐月名单第 6/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:tiscontrol.com OR to:mkseoman.com` 全程 complete：7 轮直收（头 msg 19fd0a67e7e986b6 无 Bcc，称呼「Hi, Mr.Mamunur」）；0 回 | `elsa_1to1` |
 | 2026-08-05 | out | Elsa → mamun@mkseoman.com | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 7/7 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(n) `from:e.sagatelecom to:tiscontrol.com OR to:mkseoman.com` 全程 complete：7 轮直收（头 msg 19fd0a67e7e986b6 无 Bcc，称呼「Hi, Mr.Mamunur」）；0 回 | `elsa_1to1` |
 | 2026-10-21 | 用户表 | Simon | 导轨式PoE 管理非管理；968 942 57595；导轨式PoE 管理非管理 / from: 阿里巴巴询盘 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Smart Home Automation \| Hotel Automation System \| TIS — We provide wired and wireless full home automation products that bring affordable elegance into your smart home and Hotel. Visit our website to know more about our products. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -132,9 +133,10 @@ updated: 2026-10-29
   > 导轨式PoE 管理非管理 / from: 阿里巴巴询盘
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Mamunur Rashid（联系人（研究档 KP；阿里询盘导轨式 PoE 管理 / 非管理）= 收件人 — 一页纸一次：集成商 25% B、STI-288DGGPM $137 管理 + STI-288GPM $78.9 非管理 + STI-054GP 一口价 + MOQ 1 + 付费样机 — 阿曼常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马斯喀特（第 123 批 官方登记核实 2026-10-29））mamun@mkseoman.com 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

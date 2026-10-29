@@ -130,9 +130,10 @@ updated: 2026-10-29
   > 有Utepo的 / 工业FS 比较少 像丰润达/upeto的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Borer Data Systems — 产品经理（公域）（info@borer.co.uk 点名「Product Manager」= 收件人（fingerprint-access-control.com 为其 SEO 站）（第 96 批 官方登记核实 2026-10-28））info@borer.co.uk 〔https://www.fingerprint-access-control.com/〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：deep。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

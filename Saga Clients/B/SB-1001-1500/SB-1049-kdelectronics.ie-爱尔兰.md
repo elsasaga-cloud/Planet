@@ -54,6 +54,7 @@ updated: 2026-10-29
 | 2025-02-18 | 去 | Elsa 群发（BCC；To dipol@skuatechnology.com，PT/IE/SE/OM/HU/NZ/RO/MT/AE/BE 早期混合 批次） | Mini Industrial PoE Switch — This is about our MINI Din unmanaged switches for you. 1. 100/1000M auto-adaptive SFP fiber 2. support DIP for flexible configuration 3. PoE optional, | Elsa 箱群发 BCC 触达证据（命中地址 info@kdelectronics.ie, kdelectronics.ie, sales@kdelectronics.ie）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-08-13 | 去 | Elsa 群发（BCC；To info@iotkomponenty.sk，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 info@kdelectronics.ie, kdelectronics.ie, sales@kdelectronics.ie）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | VC POE 工业FS | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | KD Electronics Ireland - Trade Supplier of CCTV, Security Systems, Audio Visual and Networking sol - CCTV, Fire, Security, TV, Audio & Networking Distributor Ir — Wide range of affordable CCTV, Security, A/V, and Networking products. Dahua Largest Distributor, superior customer service and top-notch | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -129,9 +130,10 @@ updated: 2026-10-29
 - **KP**：Stephen Carroll（Commercial Director（LinkedIn；前 Dahua UK & Ireland）= 收件人（sales@kdelectronics.ie 点名）（第 108 批 官方登记核实 2026-10-28））sales@kdelectronics.ie 〔https://ie.linkedin.com/company/kd-electronics-ireland〕
 - **KP**：Sean Kennedy（Director / 业主（D&B Key Principal SEAN ANTHONY KENNEDY；Sean Jr 亦任 Director）= 拍板人（抄送）（第 108 批 官方登记核实 2026-10-28）） 〔https://www.kdelectronics.ie/meet-the-team.html〕
 - **KP**：Jiawei Sun（Head of Sales / BDM（LinkedIn；华人）— 中文直联 Simon 定（默认否）（第 108 批 官方登记核实 2026-10-28）） 〔https://ie.linkedin.com/company/kd-electronics-ireland〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

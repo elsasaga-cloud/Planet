@@ -43,10 +43,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网核对）"
+  "level": "B 级加厚 v1（官网核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Nortel İletişim",
@@ -111,6 +112,14 @@
     "quote": "没说什么，要catalog / 90 53013 69407 已加",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Nortel İletişim - Antalya 242 237 27 27 — Nortel İletişim Antalya – Fiber optik altyapı, telefon santrali kurulumu, güvenlik kamerası sistemleri, data kablolama, yangın algılama ve teknolojik altyapı çözümlerinde uzman firma.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://norteliletisim.com/"
    }
   ],
   "proof_gaps": [
@@ -131,5 +140,29 @@
   "note": "安塔利亚通信 / 网络集成商 Nortel İletişim（展会要 catalog，WA 已加）：行业内 ✔ 四主区 → 留 B",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA ✔，展会 ✔，绑定 轻度触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": []
+ "override_history": [],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:41:45Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@norteliletisim.com"
+  ],
+  "phones": [
+   "+0242 237 27 27"
+  ],
+  "social": [
+   "https://www.facebook.com/",
+   "https://www.instagram.com/norteliletisim/",
+   "https://x.com/?lang=tr"
+  ],
+  "models_on_site": [],
+  "url": "https://norteliletisim.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

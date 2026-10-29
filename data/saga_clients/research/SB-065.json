@@ -71,11 +71,12 @@
  ],
  "grade_override": "B",
  "override_reason": "历史成交但无时间与互动记录，南亚非主攻区 → B 待机回访。",
- "notes": "老客户回访一封。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n老客户回访一封。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + 名录核对；「成交」为富通天下外贸数据）"
+  "level": "B 级加厚 v1（官网 + 名录核对；「成交」为富通天下外贸数据） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Ayk (Pvt.) Ltd.（SECP / NTN 1 查未得；OMICRON 巴基斯坦官方 Sales & Service Partner）",
@@ -186,6 +187,14 @@
     "quote": "卖planet的switch / 买过管理FS / 谷歌",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Ayk (Pvt.)Ltd.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://ayk.com.pk/"
    }
   ],
   "proof_gaps": [
@@ -193,5 +202,39 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:22:55Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@ayk.com.pk"
+  ],
+  "phones": [
+   "+92-321-6456446",
+   "+92-55-3255800",
+   "+92-55-3822444"
+  ],
+  "social": [
+   "https://www.facebook.com/www.ayk.com.pk/",
+   "https://www.linkedin.com/company/aykprivatelimited/posts/?feedView=all"
+  ],
+  "models_on_site": [
+   "FSP200",
+   "OP5705XG",
+   "HVA200",
+   "HVA68TD",
+   "BA100",
+   "OP4512",
+   "SUN2000-115KTL-M2",
+   "C6-125KW-T12"
+  ],
+  "url": "https://ayk.com.pk/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

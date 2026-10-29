@@ -63,6 +63,7 @@ updated: 2026-10-29
 | 2025-03-12 | 内 | Gmail 退信（A 邮箱） | info@barox.de 永久退信：550 5.4.1 Recipient address rejected: Access denied. | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_a 16002134955b5da9` |
 | 2025-03-12 | 内 | Gmail 退信（A 邮箱） | info@barox.de 退信：550 5.4.1 Recipient address rejected: Access denied. | 该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开 | `gmail_a 16002134955b5da9` |
 | 2025-03-12 | 内 | Gmail 退信（A 邮箱） | luis.coello@barox.de 退信：550 5.4.1 Recipient address rejected: Access denied. | 该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开 | `gmail_a 2ee3f36bb56f07e7` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Switches for Video \| barox.ch — barox is a manufacturer of innovative Switches, media converters, and IP extenders for video and security networks. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -159,9 +160,10 @@ updated: 2026-10-29
 - **KP**：Rudolf Rohr（Geschäftsführer / 创始人（1998-09-01 与 Angelo Banfi 共同创立；barox Kommunikation AG CEO；GmbH HRB 413457 Freiburg / 3457 Lörrach）= 老板（第 94 批 官方登记核实 2026-10-28））rohr.rudolf@barox.ch 〔用户表〕
 - **KP**：Luis Coello（来信署名人（职务未在邮件署名里出现）；地址 2025-03-12 永久退信（550 5.4.1）→ 已离职/停用）luis.coello@barox.de 〔S/A 邮箱来信 2024-05-02 → 05-03 来信 3 封（第 72 批从邮件表头补）〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来；A6 真回≥3+对位（任何区域）
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

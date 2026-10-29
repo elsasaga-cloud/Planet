@@ -127,7 +127,7 @@ updated: 2026-10-29
 - **是谁**：曼谷的网络与光纤设备进口分销商：工业交换机（DIN/机架）、工业 PoE、SFP（兼容 Cisco/HPE/Aruba 等，3 年保）、MC、HDMI over fiber、光纤无源件与 ODF，提供网络工程服务。用户表：A 已回复，兴趣工业 FS / SFP / MC / 机架 / 光猫，用自己的 logo，提到中科德能。
 - **类型**：进口分销商（自有 logo）
 - **规模**：未见人数（中小）
-- **在卖/在用品牌**：中科德能, ENTA ETN/ETS（自有标）
+- **在卖/在用品牌**：中科德能, ENTA ETN/ETS（自有标）, Cisco
 - **【官网】进口分销定位与产品线**
   > ENTA SOURCE Co.,Ltd. นำเข้าและจำหน่ายอุปกรณ์ Network ทุกประเภท อาทิเช่น Media Converter, Switch, Router, SFP Transceiver … DIN-Rail Industrial Ethernet Switch … INDUSTRIAL POE SWITCH
   > 来源：https://www.entasource.co.th/17430328/network（抓取 2026-10-21）
@@ -144,9 +144,10 @@ updated: 2026-10-29
   > ENTA SOURCE Co.,Ltd. นำเข้าและจำหน่ายอุปกรณ์ Network ทุกประเภท อาทิเช่น Media Converter, Switch, Router, SFP Transceiver ซึ่งอุปกรณ์ Network ที่เราจำหน่ายจะมีการรับประกันสินค้าหลังการขาย 1-3 ปี
   > 来源：https://www.entasource.co.th/17430328/network（抓取 2026-10-21）
 - **KP**：—（销售（官网公开））Sale@entasource.co.th +66 87 412 2552（LINE: lin.ee/mNnxD59）〔https://www.entasource.co.th/17906637/network-service〕
-- 备注：A 确认（已回复 + 自有 logo + 工业线全品类分销）；P1 = STI-288DGGPM（工业 8 PoE 网管）+ STI-110GE（MC），20% 分销档，贴牌 30%。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep。
+A 确认（已回复 + 自有 logo + 工业线全品类分销）；P1 = STI-288DGGPM（工业 8 PoE 网管）+ STI-110GE（MC），20% 分销档，贴牌 30%。
 
-### 加厚挖掘（2026-10-21 · 深挖 v2（官网 entasource.co.th 自有标 ETN 目录核对））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网 entasource.co.th 自有标 ETN 目录核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

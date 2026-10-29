@@ -59,6 +59,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-04 | 去 | A 群发 | Managed Optical Bypass Switch、Marvell Industrial Alert System | 14 封 / 1 次打开 / 0 回｜首封 2025-03-20 → 末封 2026-09-04（14 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：想OEM 工业级L2 L3管理需求 对bypass有兴趣，送了样品，对CWDM有一些了解 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Industrial Ethernet Switches & PoE Solutions \| Volktek Taiwan — Volktek is a leading Taiwan-based company and manufacturer established in 1994. With our own advanced in-house factory and SMT/DIP production lines, we serve as a premier global supplier of industrial Ethernet switches and PoE solutions | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -124,9 +125,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Karen Hua（皮凯太）（業務專員（皮凱太）= 收件人 — 一頁紙一次：貼標 OEM 30%，只給其自產線之外的成本型工業管理機 STI-288DGGPM / STI-488DGGPM / STI-0240GE + 自編貨號 / 中性包裝 / 付費樣機；bypass 明說沒有— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28））karen.hua@volktek.com +886 2 8242 1000〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Joseph Pi（研究档联系人 = 抄送（第 116 批 官方登记核实 2026-10-28））joseph.pi@volktek.com 〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：台系制造商 OEM，已送样））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：台系制造商 OEM，已送样） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

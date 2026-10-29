@@ -49,11 +49,12 @@
    "source": "Clients/A/DONE/PL.xlsx"
   }
  ],
- "notes": "A 确认（欧洲分销 + 已贴牌 N-Net 工业 PoE + 已回复）：对位 RF-GP2803PGM ≈ STI-288DGGPM（8GE PoE + 2SFP 工业网管），20% 分销 / 贴牌 30%；MC 对位 STI-110GE。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\nA 确认（欧洲分销 + 已贴牌 N-Net 工业 PoE + 已回复）：对位 RF-GP2803PGM ≈ STI-288DGGPM（8GE PoE + 2SFP 工业网管），20% 分销 / 贴牌 30%；MC 对位 STI-110GE。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1"
+  "level": "深挖 v1 + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "RFOG POLAND TOMASZ PASZKOWSKI（CEIDG 个体经营；NIP 8571157213 · REGON 811833063 · VAT UE PL8571157213；Gryfice；2011-02-22）（第 85 批 官方登记核实 2026-10-27）",
@@ -193,6 +194,14 @@
     "quote": "Managed PoE Switches",
     "why": "最近一封去信（邮箱索引；去信共 17 封）",
     "k": "f9316e06662a1d36"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Transmisja światłowodowa i sieci światłowodowe. Światłowody, media konwertery, moduły SFP. Znakowanie zwierząt. — Projektowanie sieci światłowodowych, urządzenia światłowodowe, splittery optyczne PLC, multipleksery CWDM i DWDM, transmisja CATV w sieciach FTTH",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "http://www.rfog.pl/"
    }
   ],
   "proof_gaps": [
@@ -203,5 +212,39 @@
    "body": "Tomasz,\n\nOne line, since none of my earlier mails got a reply: your RF-GP2803PGM (8× GbE PoE + 2× SFP, industrial, managed) maps 1:1 to our STI-288DGGPM — Marvell AC5, L2+, -40~75°C, 240 W PoE budget, DIN-rail.\n\nList is USD 137.5 EXW (snapshot 2026-10-17, valid 15 days); your own label and web UI are possible from small lots.\n\nOnly question: what landed cost and lead time does N-Net give you today? If we cannot beat both, I will stop writing.\n\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:10Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "bok@rfog.pl",
+   "handel@rfog.pl"
+  ],
+  "phones": [
+   "+48 602 794 466",
+   "+48 730 268 588",
+   "+48 797 720 797"
+  ],
+  "social": [
+   "https://www.facebook.com/RFOGPL/"
+  ],
+  "models_on_site": [
+   "RF-GP2206-INDU-POE-NNT",
+   "RJ-45",
+   "RF-MINI-ENCO",
+   "RF-MINI-ENCO-HDMI-99HD-DTN",
+   "RF-MINI-ENCO-HDMI-88HD-DTN",
+   "RF-MINI1V-HD-SDI-5VDC-T",
+   "RJ45-10G-WTC",
+   "RF-KNV-2E1"
+  ],
+  "url": "http://www.rfog.pl/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -7,7 +7,8 @@
  "size": "<25 人；<$5M（NeverBounce 口径）",
  "brands_seen": [
   "Saga Telecom（已购）",
-  "Linovision"
+  "Linovision",
+  "Saga（！）"
  ],
  "evidence": [
   {
@@ -69,11 +70,12 @@
  ],
  "grade_override": "A",
  "override_reason": "小型 IT 服务公司，一次性项目需求（90W bt 工业 PoE），无渠道属性与复购逻辑；B 慢跟。；PI 包成单客户，Simon 标签 可发展 → A",
- "notes": "",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n",
  "researched_at": "2026-10-22",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网公开评测核对）"
+  "level": "B 级加厚 v1（官网公开评测核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "GO GREEN IT LTD（Companies House 07614771，2011-04-26 成立，Active；SIC 62020）",
@@ -422,6 +424,14 @@
     "quote": "We've released firmware 7.5 on our AC5 Lite (Marvell 98DX2515/2518) platform… IPv6 readiness… Expanded multicast support (IGMP v1/v2/v3, PIM-SM)",
     "why": "7.5 = PIM-SM 可用的书面证据（对 Netaş 有用）",
     "k": "74f5b9590b098b4c"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Go Green IT - Home — Welcome to Go Green IT, please check out what services we offer",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://gogreenit.net/"
    }
   ],
   "proof_gaps": [
@@ -432,5 +442,29 @@
    "body": "Hi, Chris,\n\nTwo loose ends from March that we never closed, sorry about that.\n\n1. PoE not coming up after the switch sat on low battery for a couple of months — did the ports come back after the firmware 7.5 update, or is it still reproducible? If it is, send me the diagnostics package again and I will sit with engineering on it until we have an answer, not a \"please check\".\n2. SSH terminal type (xterm-256color) — still not configurable on this build; I will tell you honestly when it changes rather than promise a date.\n\nOne question: on battery power, what is the DC input voltage at the switch when PoE fails to come up? That decides whether this is a PoE budget rule or a bug.\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:52Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@mammut.gogreenit.net"
+  ],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "RW-11",
+   "SR1000T-248",
+   "POE-SW708GM-DC12V",
+   "WRM15",
+   "IEEE802"
+  ],
+  "url": "https://gogreenit.net/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

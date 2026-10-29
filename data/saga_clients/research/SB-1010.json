@@ -42,10 +42,11 @@
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "Gevhernesibe Mah. Anıt Cad. No 5, Kocasinan / Kayseri 38280",
@@ -139,6 +140,14 @@
     "quote": "商业POE",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Bayiden - Teknolojinin Bayisi — Ses sistemleri, güvenlik kameraları, bilgisayar, LED aydınlatma, elektronik malzemeler ve binlerce ürün uygun fiyatlarla Bayiden&#39;de. Hızlı kargo fırsatları ile teknoloji kapınızda.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.bayiden.com.tr/"
    }
   ],
   "proof_gaps": [
@@ -149,5 +158,40 @@
    "body": "Hello Bayiden team,\n\nOver the past months you had a product mail from us - \"24 Port PoE Managed Switch\" on 20 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nNext to the PowerMaster PoE switches you list (POE8-2, POE24FE-2GE-1SFP), two neutral-brand options from small lots, CE/RoHS: a gigabit step-up - 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD EXW (MOQ 1, 15-day validity); and a budget FE line in the PowerMaster price band - 8 x FE PoE + 2 x Gigabit uplinks, STC-028GFP, $17.9; 4 x FE PoE + 2 uplinks, STC-024FP, $10.2.\n\nOne question: which band sells more on Bayiden - FE PoE or gigabit PoE?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:27:22Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@bayiden.com.tr"
+  ],
+  "phones": [
+   "00070-3 4.7",
+   "00070-3 700"
+  ],
+  "social": [
+   "https://www.facebook.com/bayiden",
+   "https://www.instagram.com/bayidencom.tr/",
+   "https://www.youtube.com/@12VoltElektronik",
+   "https://x.com/bayidencomtr"
+  ],
+  "models_on_site": [
+   "MR25GA",
+   "HT-2835",
+   "HT-3903",
+   "HT-3902",
+   "MR21GA",
+   "HT-3905",
+   "HT3270",
+   "FT5325M"
+  ],
+  "url": "https://www.bayiden.com.tr/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

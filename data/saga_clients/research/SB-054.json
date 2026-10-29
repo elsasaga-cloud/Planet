@@ -6,7 +6,10 @@
  "type": "经销商",
  "size": "待补证",
  "brands_seen": [
-  "uponcomm（用户记录：在采）"
+  "uponcomm（用户记录：在采）",
+  "Cisco",
+  "Ruijie",
+  "Juniper"
  ],
  "evidence": [
   {
@@ -35,11 +38,12 @@
  ],
  "grade_override": "B",
  "override_reason": "品类为光模块（非主线），菲律宾非主攻区，冷名单无回复 → B。",
- "notes": "一封邮件带 SFP 光口交换机即可。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n一封邮件带 SFP 光口交换机即可。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射；「成交」为富通天下外贸数据）"
+  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射；「成交」为富通天下外贸数据） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Testronix, Inc.（SEC Code CS200518694，companyhouse.ph）",
@@ -201,10 +205,44 @@
     "quote": "从uponcomm买了很多模块 / 网站：信息比较晦涩 / 富通天下",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Transform Your Business with Testronix ICT Solutions — Discover Testronix ICT solutions for optimized network performance. Take your network to the next level with our innovative solutions!",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://testronix.ph/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:22:15Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@testronix.com.ph",
+   "techsupport@testronix.com.ph"
+  ],
+  "phones": [],
+  "social": [
+   "http://sales@testronix.com.ph",
+   "https://ph.linkedin.com/company/testronix-inc",
+   "https://www.facebook.com/testronix.inc",
+   "https://www.instagram.com/testronix.inc/"
+  ],
+  "models_on_site": [
+   "MTS-5800"
+  ],
+  "url": "https://testronix.ph/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

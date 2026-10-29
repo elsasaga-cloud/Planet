@@ -55,11 +55,12 @@
    "source": "https://cabledistribution.com.au/about/"
   }
  ],
- "notes": "A 确认（2 次实质回复 + 问价 + 工业分销渠道）；澳洲不在重点区但互动真实；P1 = STI-144GP（1 光 4 电工业 PoE，若价格表无则标 SmartByte 型号），20% 分销档，强调矿业宽温。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\nA 确认（2 次实质回复 + 问价 + 工业分销渠道）；澳洲不在重点区但互动真实；P1 = STI-144GP（1 光 4 电工业 PoE，若价格表无则标 SmartByte 型号），20% 分销档，强调矿业宽温。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v2（官网核对）"
+  "level": "深挖 v2（官网核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Cable Distribution Services = 商号；法人 Damita Investments Pty Ltd（ABN 99 125 638 548，2025-08-06 起）/ 原 The Trustee for The Wasserman Family Trust（ABN 20 634 509 214，2000-05-31 起）（第 83 批 官方登记核实 2026-10-27）",
@@ -170,6 +171,14 @@
     "quote": "「Optional Marvell Chipset Solutions」被打开（Mailtrack Opened 标签）",
     "why": "唯一的互动痕迹",
     "k": "be9998111900ae04"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Cable Distribution Services | We Put The ‘able’ In Cable — Looking for dependable, durable cabling to power your next project? CDS leverage over 150 years of combined experience to deliver tailored solutions.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://cabledistribution.com.au/"
    }
   ],
   "proof_gaps": [
@@ -192,5 +201,33 @@
   }
  ],
  "grade_override": "B",
- "override_reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A"
+ "override_reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:19:43Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@cabledistribution.com.au"
+  ],
+  "phones": [
+   "+61 (08) 9375 6522",
+   "+61 (08) 9375 6522 1800"
+  ],
+  "social": [
+   "http://linkedin.com/company/cable-distribution-services/",
+   "https://www.facebook.com/people/Cable-Distribution-Services/100067404909773/"
+  ],
+  "models_on_site": [
+   "R-EP-110",
+   "X-HF-110",
+   "H07RN-F"
+  ],
+  "url": "https://cabledistribution.com.au/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

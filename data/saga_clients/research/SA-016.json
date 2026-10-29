@@ -84,11 +84,12 @@
  ],
  "grade_override": "A",
  "override_reason": "核心业务是条码设备，网络 PoE 只是配套类目；至今无任何回复/跟进记录（仅 WhatsApp 加上）。B 慢跟：按自有品牌贴牌切入（他们已在中国贴牌生产）。；PI 包成单客户，Simon 标签 可发展 → A",
- "notes": "",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n",
  "researched_at": "2026-10-22",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "ООО «БИТБУК»（ОГРН 1186658033220 · ИНН 6623126845；Нижний Тагил；资本 10,000 ₽）",
@@ -212,6 +213,14 @@
     "quote": "OEM Core Switching Solution — I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G",
     "why": "Elsa 箱群发 BCC 触达证据（命中地址 bitbook.ru, info@bitbook.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
     "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "bitbuk.ru — официальный сайт производителя и импортера торговой техники и копьютерного оборудования ООО \"Приорат\" — Priorat — Российский производитель и поставщик: сканеры штриховых кодов, принтеры этикеток, коммутаторы, видеонаблюдение, СКУД",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://bitbuk.ru/"
    }
   ],
   "situation": "Andrey Tatarnikov（BitBook LLC，info@bitbuk.ru；自有品牌 Priorat / PRT-）：WhatsApp + 货代走账客户，S/A 邮箱 0 封；Drive PI 两单：2023-11 STC-28GPM ×2 @$63 起步 → 2025-07-31 STSC20250731004 **130 件 $5,165**（100 台 PRT-SF-1110P 贴牌 + PRT-SG-1428PM / PRT-SG-1424M / PRT-SG-1208PMI 各 10 台测试机），含定制挂耳 ¥1,309 由 Saga 垫付拟分 3 单收回，HRUI 侧凭 Saga 出具的商标使用授权书（2025-01-01 → 2028-12-31）印 Priorat 标。Simon 标「可发展」。",
@@ -244,5 +253,38 @@
    "邮件 0 封（WhatsApp 客户）；证据全部来自 Drive PI 包（PI、label_content、售后截图、成本统计、授权书）"
   ],
   "breakpoint": "三款 Priorat 测试机（PRT-SG-1428PM / 1424M / 1208PMI）2025-07-31 随批出货后结论未知；渠道只有 WhatsApp，邮件 0 封；俄罗斯线付款走货代，节奏慢（两单相隔 20 个月）——断点 = 测试结论没人问、没人答（全量审计 2026-10-25 U57 补）"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:56Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@priorat.ru"
+  ],
+  "phones": [
+   "+7 (3435) 37-87-87",
+   "+7 (3435) 37-90-80"
+  ],
+  "social": [
+   "https://vk.com/bitbuk",
+   "https://www.youtube.com/channel/UCTOihFJ_tskxJEpzfKbJ95A"
+  ],
+  "models_on_site": [
+   "IEEE802",
+   "PRT-SF-1226P",
+   "PRT-SG-1226P",
+   "PRT-SG-1208PI",
+   "PRT-NVR-16N2-12M-IQ",
+   "MT-CM2",
+   "PRT-SF-1110PO",
+   "PRT-BM30-F2"
+  ],
+  "url": "https://bitbuk.ru/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

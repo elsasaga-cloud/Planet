@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2026-08-19 | 去 | A/S 群发 | Managed Optical Bypass Switch、10G Enterprise SFP Switch | 27 封 / 1 次打开 / 0 回｜首封 2024-07-08 → 末封 2026-08-19（27 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 主要用工业PoE 比较懂 | 表内备注 | `用户表` |
 | 2026-08-19 | 去 | A 箱（Alan） | 24 Port PoE Managed Switch | 本日去信真实主题（邮箱索引 21a6f2879195227d；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封） | `21a6f2879195227d` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | TRK SOLUTIONS LTD - CCTV, Access Control & Security Alarm Installation — TRK Solutions Ltd offers expert CCTV installation, fire alarm systems, and access control solutions ensuring safety, security, and reliable protection for businesses. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -147,9 +148,10 @@ updated: 2026-10-29
   > 主要用工业PoE 比较懂
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Sahil Karwar（Director / PSC 75–100%（Companies House 12948953；研究档拼写 Karwat → 更正 Karwar）= **拍板人本人 = 收件人**（第 100 批 官方登记核实 2026-10-28））info@trksolutions.co.uk 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

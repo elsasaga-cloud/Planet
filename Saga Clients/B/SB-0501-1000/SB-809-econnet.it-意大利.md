@@ -53,6 +53,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 兴趣：商业PoE 丰润达的 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Econnet s.r.l. - Value Added Distributor — Econnet, Stormshield, UTM, Firewall, BitDefender, Kaspersky, AccessPoint, NAS, Sicurezza, Cybersecurity, EDR, XDR, Unified Communication, Fanvil, Yeastar, Yealink, Centralino voip, Pbx, Tenveo, CZUR, Sillaro, Networking, Edge-Core, Ignitenet, Switch, Indust | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -115,9 +116,10 @@ updated: 2026-10-29
   > 兴趣：商业PoE 丰润达的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（市场部）（）marketing@econnet.it 〔https://econnet.it/〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

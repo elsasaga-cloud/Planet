@@ -37,10 +37,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  "level": "B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Enable-IT, Inc.（Inc.；4616 W Sahara Ave, Las Vegas NV 89102；官网 legalName；Nevada SoS 编号未取）",
@@ -115,6 +116,14 @@
     "quote": "兴趣：专门做 PoE和Ethernet extender ONV的商业PoE",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Ethernet Extender & PoE Extender Solutions | Enable-IT USA — Enable-IT Ethernet Extender and PoE Extender Solutions Made In The USA, Superior Performance, Custom OEM Design Solutions Globally AS9100D certified",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://enableit.com/"
    }
   ],
   "proof_gaps": [],
@@ -123,5 +132,27 @@
    "body": "Hi David,\n\nWe have sent you a few mails on \"Marvell Industrial Alert System\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE switches you bundle with the extenders (ONV today) we can supply a Marvell L2+ 8-PoE + 2-SFP under the Enable-IT label from small lots, FCC/CE/RoHS (no UL). One question: which ONV part number do you bundle today? Send it and I will quote like-for-like.\n\nReference price: 8-PoE + 2 × 1G/2.5G SFP L2+ managed switch (Marvell AC5), 120 W (STC-28DGGPM) $87.4 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:46:52Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "support@enableit.com"
+  ],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "AS9100D",
+   "RJ-45",
+   "AS9011D"
+  ],
+  "url": "https://enableit.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

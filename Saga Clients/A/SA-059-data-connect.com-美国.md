@@ -66,6 +66,7 @@ updated: 2026-10-29
 | 2024-12-11 | 去 | S 箱（Simon）报价 | 48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `654b21b6912a9b67` |
 | 2026-10-02 | 去 | S 箱（Simon） | 24 Port PoE Managed Switch | 最近一封去信（邮箱索引；去信共 27 封） | `481d052423caa372` |
 | 2026-10-02 | 去 | S 箱（Simon）报价 | 24 Port PoE Managed Switch｜ $180（原句：*Price: 180USD/PC*） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `481d052423caa372` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Data Connect Enterprise 1-888-492-6526 Networking Solutions Provider | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -163,7 +164,7 @@ updated: 2026-10-29
 - **是谁**：美国连接性产品制造/库存商（马里兰、新泽西、加州设施），自有 DCE 品牌媒体转换器、串口/光纤转换器、工业调制解调器，收购了 Ctek/Relcomm/Synxcom/Telenetics 等品牌知识产权；面向数据/语音/网络/SCADA；用户记录 1 次回复、16 次跟进，兴趣工业 FS/MC/串口。
 - **类型**：品牌商（自有品牌）+ 分销
 - **规模**：中小型（三地库存设施；人数待补证）
-- **在卖/在用品牌**：DCE（自有）, Ctek, Relcomm, Synxcom, Telenetics, Canoga Perkins, GarrettCom
+- **在卖/在用品牌**：DCE（自有）, Ctek, Relcomm, Synxcom, Telenetics, Canoga Perkins, GarrettCom, Juniper, Schneider, MikroTik, Moxa, EtherWAN, Advantech, Siemens, Allied Telesis, Extreme
 - **【官网】三地库存、面向数据/语音/网络/SCADA；收购多品牌 IP，自称美国商用与工业级连接产品制造商**
   > We stock in our Maryland, New Jersey, and California facilities… Data Connect has acquired the intellectual property, manufacturing and/or licensing rights for a large number of products previously produced under Ctek, Relcomm, Synxcom, Telenetics… Today Data Connect is a premier U.S. manufacturer of commercial and industrial grade connectivity products
   > 来源：https://www.data-connect.com/（抓取 2026-10-21）
@@ -184,9 +185,10 @@ updated: 2026-10-29
   > 来源：https://www.data-connect.com/dce_dt_gmc.htm（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） +1 888-492-6526〔用户 Clients 表 + 官网〕
 - **KP**：Barry G. Patton（Founder / President & CEO / Resident Agent（1989 至今）= 老板；Patton Electronics 创始人家族的兄弟；SCADA 线销售 Michael Spellerberg、SMB 线 Daniel Rowe（第 84 批 官方登记核实 2026-10-27）） 〔https://govtribe.com/vendors/data-connect-enterprise-inc-dot-0mr56〕
-- 备注：自有品牌 DCE 的 MC/工业产品线明显为 ODM 来源 → Saga 以 STI-110GE 介质转换器 + STI 工业 FS 做 OEM 补充 SKU，价阶 30%（品牌/OEM）。美国主攻区。1 次回复后 16 次推送无果 → 换角度（给 DCE 现有 MC 型号的对位表与样品）。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+自有品牌 DCE 的 MC/工业产品线明显为 ODM 来源 → Saga 以 STI-110GE 介质转换器 + STI 工业 FS 做 OEM 补充 SKU，价阶 30%（品牌/OEM）。美国主攻区。1 次回复后 16 次推送无果 → 换角度（给 DCE 现有 MC 型号的对位表与样品）。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1）
+### 加厚挖掘（2026-10-21 · 深挖 v1 + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -58,11 +58,12 @@
  ],
  "grade_override": "B",
  "override_reason": "需求偶发、无回复 → 慢跟。",
- "notes": "季度触达一次。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：deep。\n季度触达一次。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网核对）"
+  "level": "B 级加厚 v1（官网核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "ΓΕΜΚΑ – Καρύδη Αφοί Ο.Ε.（GEMKA – Karydis Bros O.E.；Ομόρρυθμη Εταιρεία；ΑΦΜ 094019245 / ΓΕΜΗ 001037501000 据 11888.gr 但地址不符 → 待证）",
@@ -141,5 +142,12 @@
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:23:01Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
  }
 }

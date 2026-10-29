@@ -64,6 +64,7 @@ updated: 2026-10-29
 | 2024-04-20 | 内 | Saga 给客户的进口须知（PI 包「客户进口信息/shipment_related_information.docx」） | Company Name UNITED CONTROL ENGINEERS INDIA PVT. LTD. · GSTIN/UIN 09AACCU4195M1ZP · FedEx 273802216228 · After getting the tracking number log in https://kyc.fedex.com, upload GSTIN code and KYC (Proof of identity and address recognized by the Government of India), upload POA information (customs clearance power of attorney) | 印度小单的清关门槛：收货人要自己在 FedEx 做 KYC（GSTIN + 身份地址证明 + 清关授权），不是 Saga 这边能代办的——给印度客户发样前先把这段话发过去，省一次卡关 | `data/pi_2026-10/text/…5_印度_Rajesh_gg…shipment_related_information.docx` |
 | 2024-05-27 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「问测试结果」→ 对方「will check」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/Whatsapp_S跟进 2026.08.04.xlsx no.73 2024.5.27` |
 | 2024-08-13 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「问需求」→ 对方「基本只需要电口 不要光」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/Whatsapp_S跟进 2026.08.04.xlsx no.73 2024.8.13` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Industrial Automation Company in Greater Noida \| UCEIPL — United Control Engineers India Pvt. Ltd., Authorized Delta, Schneider, ABB and Phoenix Contact distributor in Greater Noida for VFD, PLC, HMI | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库；A/S 邮箱 0 封
 
@@ -125,7 +126,7 @@ updated: 2026-10-29
 - **是谁**：印度大诺伊达的工业自动化产品分销商/系统集成商（2001 年起，11–50 人，营收 $10–15M 口径），Delta/ABB/Phoenix Contact/nVent Hoffman/Schneider 等授权渠道，产品类目含工业路由器、SMPS、VFD。用户表：3 次实质回复，WhatsApp 已加，兴趣 5/8 口非管理工业 FS。
 - **类型**：分销商 + 系统集成（工业自动化）
 - **规模**：11–50 人（LinkedIn）；$10–50M（SignalHire）/ $15.2M（ZoomInfo）
-- **在卖/在用品牌**：Delta, ABB, Phoenix Contact, nVent Hoffman, Schneider Electric, Teltonika
+- **在卖/在用品牌**：Delta, ABB, Phoenix Contact, nVent Hoffman, Schneider Electric, Teltonika, Schneider
 - **【官网】定位：德里 NCR 工业自动化产品公司，2001 年起；类目含工业路由器**
   > United Control Engineers India Pvt. Ltd., since 2001 is the top industrial automation products company in Delhi NCR … Industrial Router · SMPS · VFD · Power Supply
   > 来源：https://unitedcontrolengg.com/（抓取 2026-10-21）
@@ -149,9 +150,10 @@ updated: 2026-10-29
 - **KP**：Rajesh（单据联系人）accounts@unitedcontrolengg.com 〔PI.zip 单据〕
 - **KP**：Pramendra Singh Chaudhary（Director / CEO（DIN 02074072，2019-04-18 起；注册邮箱 chaudhary@unitedcontrolengg.com）= **老板 = 联系人** → 工业 DIN 交换机（STI-054GP / STI-154GP / STI-110GE 宽压）集成 25%，BIS 他们（第 91 批 官方登记核实 2026-10-27））chaudhary@unitedcontrolengg.com 〔https://www.zaubacorp.com/UNITED-CONTROL-ENGINEERS-INDIA-PRIVATE-LIMITED-U17302UP2019PTC115938〕
 - **KP**：Sumit Agrawal（Director（DIN 02074121，2019-04-18 起）= 合伙人（抄送）（第 91 批 官方登记核实 2026-10-27）） 〔https://www.tofler.in/united-control-engineers-india-private-limited/company/U17302UP2019PTC115938〕
-- 备注：A 确认：工业自动化分销商是 STI 非管理工业交换机（STI-244GP/288GP）的天然渠道；印度区价格敏感，报 20% 分销档并给 MOQ 阶梯。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+A 确认：工业自动化分销商是 STI 非管理工业交换机（STI-244GP/288GP）的天然渠道；印度区价格敏感，报 20% 分销档并给 MOQ 阶梯。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1）
+### 加厚挖掘（2026-10-21 · 深挖 v1 + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

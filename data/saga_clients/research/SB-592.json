@@ -54,10 +54,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "Ataşehir Bulvarı 38. Ada Ata 3/3 Plaza Kat:5 No:51-52, 34758 Ataşehir / İstanbul",
@@ -148,10 +149,50 @@
     "quote": "台湾CTS的工业品 黑盒的MC",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Fotech – Uçtan Uca Bilişim Çözüm ve Ürünleri — Fotech ;Fiber Optik Test OTDR ve Senkronizasyon ;Fluke Networks,Black Box,Exfo,Sumitomo,Microsemi-Microchip,Trend Networks,Tallysman Türkiye Dağıtıcısı.Fiber Optik,Veri Merkezi,Network,AV Sistem Entegratorü",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.fotech.com.tr/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:43:41Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@fotech.com.tr"
+  ],
+  "phones": [],
+  "social": [
+   "https://twitter.com/fotechltd",
+   "https://www.facebook.com/fotechltd",
+   "https://www.instagram.com/fotechltd",
+   "https://www.linkedin.com/company/fotech"
+  ],
+  "models_on_site": [
+   "TW3742AJ",
+   "TW150",
+   "TW3872E",
+   "TW4722",
+   "TW3440",
+   "IPS-3120",
+   "JR-M03",
+   "EPM-53-RB"
+  ],
+  "url": "https://www.fotech.com.tr/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

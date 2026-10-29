@@ -33,11 +33,12 @@
  ],
  "grade_override": "A",
  "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A1 复购/绑定≥中度",
- "notes": "回访一封即可。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n回访一封即可。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射；网站信息不明）"
+  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射；网站信息不明） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Mutex Systems Ltd（英国 Ltd；CH 号 1 查未取；巴基斯坦区域办公室）",
@@ -116,6 +117,14 @@
     "quote": "IT居多 买过 UnManaged Switch / 买了百兆交换机 网站看不出啥东西 / 谷歌",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Software, AI & Cybersecurity Engineering | Mutex Systems — Mutex Systems is a UK technology company delivering software development, AI, cybersecurity, cloud DevOps, and hardware engineering for enterprises worldwide.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://mutexsystemsltd.com/"
    }
   ],
   "proof_gaps": [
@@ -133,5 +142,39 @@
    "prev_reason": "低值历史成交、无互动、南亚非主攻区 → B。",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A1 复购/绑定≥中度"
   }
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:22:56Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@mutexsystems.com",
+   "you@company.com"
+  ],
+  "phones": [
+   "+92 333 348 6887"
+  ],
+  "social": [
+   "https://wa.me/447879176519",
+   "https://www.facebook.com/mutexsystemspk/",
+   "https://www.instagram.com/mutexsystemspvtltd/",
+   "https://www.linkedin.com/company/mutex-systems-pk/"
+  ],
+  "models_on_site": [
+   "STM32",
+   "IPC-A-610",
+   "ESP32",
+   "SC-200",
+   "SC-100",
+   "ATECC608",
+   "SE050"
+  ],
+  "url": "https://mutexsystemsltd.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

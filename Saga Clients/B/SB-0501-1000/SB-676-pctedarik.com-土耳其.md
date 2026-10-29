@@ -56,6 +56,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-03-05 | 去 | A 群发 | 10G Enterprise SFP Switch、Booster PoE Switch | 5 封 / 0 次打开 / 0 回｜首封 2025-10-28 → 末封 2026-03-05（5 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | （空） | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Toptan Harddisk - Toptan Güvenlik Kamerası - Toptan Bilgisayar | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -116,7 +117,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（pctedarik.com，快照 2026-10-21，土耳其语）
 - **是谁**：土耳其 IT 批发网店（硬盘、安防摄像机、电脑批发；Ruijie、TP-Link、Hikvision、Dahua、Zyxel、Huawei、Tenda；switch 79 / poe 80 / oem 25），仅 info@；无兴趣记录；群发 1 次。
-- **在卖/在用品牌**：Ruijie, TP-Link, Hikvision, Dahua, Zyxel, Huawei, Tenda
+- **在卖/在用品牌**：Ruijie, TP-Link, Hikvision, Dahua, Zyxel, Huawei, Tenda, Uniview, Ubiquiti, Edimax, Ajax
 - **【官网快照】批发硬盘 / 安防摄像机 / 电脑；品牌 Ruijie / TP-Link / Hikvision / Dahua / Zyxel / Huawei / Tenda；oem 25**
   > Toptan Harddisk - Toptan Güvenlik Kamerası - Toptan Bilgisayar… brands Ruijie, TP-Link, Hikvision, Dahua, Zyxel, Huawei, Tenda
   > 来源：https://pctedarik.com/（抓取 2026-10-21）
@@ -125,9 +126,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（未具名）（公域 = 收件人，点名 İslam Çalık（第 97 批 官方登记核实 2026-10-28））info@pctedarik.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：İslam Çalık（Key Principal（D&B）= 负责人；n11 店铺登记人 Ali Çalık（şahıs MERSİS 2250094824）（第 97 批 官方登记核实 2026-10-28）） 〔https://www.dnb.com/business-directory/company-profiles.pc_tedarik_ithalat_ihracat_yazilim_ticaret_limited_sirketi.6bf2c05e296f4bae217c29a0a17f5285.html〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -57,6 +57,7 @@ updated: 2026-10-29
 | 2026-09-17 | 去 | A/S 群发 | Marvell Industrial Alert System、10G Enterprise SFP Switch | 29 封 / 0 次打开 / 0 回｜首封 2024-06-20 → 末封 2026-09-17（29 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：Ewind产品较多 | 表内备注 | `用户表` |
 | 2026-09-17 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 e80448ad9eb1c719；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封） | `e80448ad9eb1c719` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Fiber Optic Cable & Copper Wire Assemblies \| ISO 9001 Certified — LANshack offers premium fiber optic cable & copper wire assemblies. We have all the components to optimize & install your network! | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -157,9 +158,10 @@ updated: 2026-10-29
   > 兴趣：Ewind产品较多
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Andrea Damiano（President / Director of Sales（Atcom Services, Inc. dba LANshack.com）= **拍板人本人 = 收件人**（第 101 批 官方登记核实 2026-10-28））andrea@lanshack.com 〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

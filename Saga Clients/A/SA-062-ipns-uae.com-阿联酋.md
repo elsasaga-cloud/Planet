@@ -154,7 +154,8 @@ updated: 2026-10-29
   > IPNS is CCTV distributor and delivers end-to-end IP CCTV network solutions … Our entire CCTV range, including mounting and accessories, is held in stock at our United A-wide network of fully-stocked warehouses.
   > 来源：https://ipns-uae.com/cctv-distributor-amc-contract-abu-dhabi/（抓取 2022-01-15）
 - **KP**：（ISAF 2025 现场联系人，见 Clients 表）（） +971 55 983 5897（用户记录）〔用户 Clients 表（ISAF 2025）〕
-- 备注：面对面接触 + 已在从深圳采购并刷自有 logo = 现成的 OEM 买家；工业线在用 N-Net 可替换。邮件不回 → 走 WA。P1：STI-288DGGPM（2 光 8 电工业 PoE；其询问的 alarm 继电器输出需向 SmartByte 核实），OEM 价阶 30%。注意政府/警务项目守界，只供商用与一般楼宇安防。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+面对面接触 + 已在从深圳采购并刷自有 logo = 现成的 OEM 买家；工业线在用 N-Net 可替换。邮件不回 → 走 WA。P1：STI-288DGGPM（2 光 8 电工业 PoE；其询问的 alarm 继电器输出需向 SmartByte 核实），OEM 价阶 30%。注意政府/警务项目守界，只供商用与一般楼宇安防。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v2（官网核对））
 

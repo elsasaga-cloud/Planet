@@ -57,10 +57,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "加拿大",
@@ -154,6 +155,14 @@
     "quote": "16 Port Industrial PoE Switch",
     "why": "本日去信真实主题（邮箱索引 fb9c496beed96c49；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封）",
     "k": "fb9c496beed96c49"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Mapleye Security Cameras - Security Systems, Security Camera — Mapleye Technologies is a Toronto-based video surveillance company. Contact for the best security systems solutions for commercial and residential properties.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://mapleye.com/"
    }
   ],
   "proof_gaps": [],
@@ -162,5 +171,40 @@
    "body": "Hi Elmir,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 21 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the 8-port PoE switch you bundle with Mapleye camera kits (HiSource today), a second source in your housing and label from small lots, FCC/CE/RoHS reports included: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); if the kit position is Fast Ethernet, 8 x 10/100 PoE+ + 2 x Gigabit uplinks - STC-028GFP - $17.9. Samples are paid at the same price.\n\nOne question: would a sample against your current unit be useful - and is the kit position Gigabit or Fast Ethernet?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:40:18Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@mapleye.com",
+   "sales@mapleye.com"
+  ],
+  "phones": [
+   "+1 (437) 995 0006",
+   "+14379950006"
+  ],
+  "social": [
+   "https://www.facebook.com/109067645066843",
+   "https://www.instagram.com/mapleye.ca/",
+   "https://www.x.com/Mapleye_ca"
+  ],
+  "models_on_site": [
+   "MYK-4K4R1T54-MCA",
+   "MYK-4K4R1T84-MCA",
+   "MY-E1P3-I3S-W",
+   "DC52V",
+   "MYK-4K4R1T54-MC",
+   "MYK-4K4R1B84-MCA",
+   "MYK-4K8R2T56-MC",
+   "MYK-4K8R2T56-MCA"
+  ],
+  "url": "https://mapleye.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

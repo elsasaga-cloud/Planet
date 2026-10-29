@@ -65,6 +65,7 @@ updated: 2026-10-29
 | 2025-04-15 | 来 | master@gtwave.co.kr | RE: Marvell Software Function List｜Thank you for your information.     Let me know your company name and send me catalogue.     Moonsoo,Park     From: Alan from Saga Telecom <a.sagatele | 来信（邮箱索引；原文见 k；是否人工回复以原文为准） | `2cc027d0b96713b6` |
 | 2025-09-01 | 去 | A 箱（Alan） | 24 Port Fiber Switch｜稿内价 $240 | 去信正文含价（邮箱索引） | `ec46f307cda26d4c` |
 | 2026-09-07 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 最近一封去信（邮箱索引；去信共 28 封） | `f39c5b2143564be5` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | GTWAVE Co.,Ltd — 지티웨이브 outdoor AP는 산업용무선AP로,802.11ac지원하며,검증필 암호모쥴 KCMVP을 사용한 CC인증VPN과 연동하여 군용무선랜AP로 사용가능합니다.무선CCTV설치시 비용 절감. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -150,9 +151,10 @@ updated: 2026-10-29
   > iG8P-2SMB | Web관리, 8PoE Gbps, 2SFP, 지능형 PoE, consol 1, Ring 구성(ERPS, EAPS) | iG8P-2SB | non managed, 8PoE Gbps, 2 SFP … iG8P-4SMB | Web관리, 8PoE Gbps, 4SFP … DNS8-2SM | Web관리, Ring 구성(ERPS, EAPS), 8GE + 2SFP
   > 来源：https://oemfile.informamarkets-info.com/FileUpload/2025SEC_39523/20250116080429651.pdf（抓取 2025-01-16）
 - **KP**：Moonsoo Park（대표이사 박문수（bizno 名录代表 + 研究档联系人同名）= 老板 = 联系人；(주)지티웨이브 有线通信设备制造业，판교；2026-03 入选富川产业振兴院 창업도약패키지（第 85 批 官方登记核实 2026-10-27））master@gtwave.co.kr +82 31 707 4670〔https://www.ec21.com/product-details/PoE-Network-Switch-8Port-PoE--11968346.html〕
-- 备注：A 确认（韩国自有品牌 PoE 交换机 + 已回复 + 明确贴牌）；注意其部分 AP 用于军用无线——Saga 只供交换机硬件，守界不碰军品项目；P1 = STI-288DGGPM 工业 PoE，30% OEM 档。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+A 确认（韩国自有品牌 PoE 交换机 + 已回复 + 明确贴牌）；注意其部分 AP 用于军用无线——Saga 只供交换机硬件，守界不碰军品项目；P1 = STI-288DGGPM 工业 PoE，30% OEM 档。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1）
+### 加厚挖掘（2026-10-21 · 深挖 v1 + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

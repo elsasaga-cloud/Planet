@@ -17,7 +17,12 @@
   "Zyxel",
   "Cisco",
   "Cudy",
-  "Tenda"
+  "Tenda",
+  "Grandstream",
+  "Dahua",
+  "Cambium",
+  "Schneider",
+  "Edimax"
  ],
  "evidence": [
   {
@@ -81,10 +86,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-065，W 批次调研 2026-10-19/20）"
+  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-065，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Allnet Sp. z o.o. Sp.k.（KRS 0000379258；NIP 6423156422；REGON 241888846）",
@@ -187,10 +193,48 @@
     "quote": "10G Enterprise SFP Switch、24 Port PoE Managed Switch",
     "why": "17 封 / 0 次打开 / 0 回｜首封 2024-07-10 → 末封 2026-10-04（17 去 / 0 来）",
     "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "WISP.PL Dystrybutor sprzętu sieciowego, MikroTik, Ubiquiti, TP-Link, Światłowody — Dystrybutor sprzętu sieciowego, MikroTik, Ubiquiti, TP-Link, Tenda, Teltonika, Cudy, Solarix, Anteny WiFi i LTE, Światłowody, Sieci bezprzewodowe, radiowe, światłowodowe, Wi-Fi, wlan, urządzenia służące do budowy siec",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.wisp.pl/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:25:36Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sklep@wisp.pl"
+  ],
+  "phones": [],
+  "social": [
+   "https://poland.fedex.com/domestic-shipping/pub/tracktrace.do",
+   "https://www.fedex.com/pl-pl/home.html"
+  ],
+  "models_on_site": [
+   "GRP2601P",
+   "IT6-PCS",
+   "GRP2601",
+   "BU530",
+   "SFP28",
+   "GRP2601W",
+   "UDR-5G",
+   "QSFP28"
+  ],
+  "url": "https://www.wisp.pl/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

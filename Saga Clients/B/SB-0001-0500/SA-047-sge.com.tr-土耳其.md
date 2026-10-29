@@ -63,6 +63,7 @@ updated: 2026-10-29
 | 2025-12-01 | 来 | Murat Gül（Electrical Engineer） | Can you send to me the price list of your products? | 要价表 | `d6656fb30ed9002e` |
 | 2025-12-01 | 来 | muratg@sge.com.tr | RE: Booster PoE Switch｜Can you send to me the price list of your products?     İyi çalışmalar dilerim  ______________________________________________________________________ | 来信（邮箱索引；原文见 k；是否人工回复以原文为准） | `d6656fb30ed9002e` |
 | 2026-09-07 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 最近一封去信（邮箱索引；去信共 9 封） | `193a64fe5f2fb9e4` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | SGE Mühendislik - Ölçüm & Analiz & Uygulama — Ölçüm & Analiz & Uygulama | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -125,7 +126,7 @@ updated: 2026-10-29
 - **是谁**：伊斯坦布尔的电气工程/能源自动化公司（2007 年成立，16 人），Sprecher Automation、Elspec 等测量/保护产品的土耳其分销商，销往中东/俄罗斯/突厥语国家/非洲；网店「工业网络产品」类目在售中国产工业 PoE 交换机（CIEN3206GP-2GF-4GTPOE 14,159 TL、CIEN2208-4F，交期 5 周，5 年保）。用户表：A 已回复 1 次，联系人 Murat Gül（Electrical Engineer）/ Okan S.；兴趣工业控制，「迈威的」。
 - **类型**：工程分销商/集成（能源自动化；工业交换机转售）
 - **规模**：16 人（EMIS 2025）
-- **在卖/在用品牌**：Sprecher Automation, Elspec, 迈威(Maiwe), CIEN, CISCOM
+- **在卖/在用品牌**：Sprecher Automation, Elspec, 迈威(Maiwe), CIEN, CISCOM, Moxa, Maiwe
 - **【官网】公司定位与分销区域**
   > SGE Mühendislik; 2007 yılında, elektrik mühendisliği alanında hizmet vermek için kurulmuş profesyonel bir mühendislik şirketidir … Distribütörü olduğumuz bu ürünleri Türkiye, Orta Doğu, Rusya, Türki Cumhuriyetler, Afrika ülkelerine satıyor
   > 来源：https://www.sge.com.tr/kurumsal-hakkimizda-16.html（抓取 2026-10-21）
@@ -144,9 +145,10 @@ updated: 2026-10-29
 - **KP**：Murat Gül（Teknik Müdür（技术总监，2009-11 起；YTÜ 电气工程）= 技术拍板、非老板；CEO Özgür Ünver；公司 2007-11-28 成立、16 人（2025）、2024 销售额 −9.5% / 资产 +23.5%（第 84 批 官方登记核实 2026-10-27））muratg@sge.com.tr 〔Clients/A Replied 09.04.xlsx〕
 - **KP**：Okan S.（联系人（用户表））okans@sge.com.tr 〔Clients/A Replied 09.04.xlsx〕
 - **调研后定级**：B（原自动 A）——Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B5 四主区+对位（冷）；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A
-- 备注：A 确认（土耳其重点区 + 已回复 + 网店在售中国工业 PoE + 转销中东/中亚）：对位 CIEN3206GP ≈ STI-244GP/STI-288DGGPM，25% 档；主打 10–15 天交期（对比其 5 周）与 5 年保修对齐问题需向 SmartByte 确认。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+A 确认（土耳其重点区 + 已回复 + 网店在售中国工业 PoE + 转销中东/中亚）：对位 CIEN3206GP ≈ STI-244GP/STI-288DGGPM，25% 档；主打 10–15 天交期（对比其 5 周）与 5 年保修对齐问题需向 SmartByte 确认。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1）
+### 加厚挖掘（2026-10-21 · 深挖 v1 + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

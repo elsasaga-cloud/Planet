@@ -62,6 +62,7 @@ updated: 2026-10-29
 | 2026-03-12 | 去 | A 箱（Alan） | OEM Core Switching Solution | 首封去信（邮箱索引；去信共 2 封） | `61345c495835cf03` |
 | 2026-08-10 | 去 | A 箱（Alan） | 24 Port PoE Managed Switch | 最近一封去信（邮箱索引；去信共 2 封） | `e46a56a1a0754324` |
 | 2026-08-10 | 去 | A 箱（Alan） | 24 Port PoE Managed Switch｜稿内价 $170 | 去信正文含价（邮箱索引） | `e46a56a1a0754324` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | MT-Link – Products manufacturer of wireless networking products, Switches, 3G Router, Wireless LAN, | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文
 
@@ -149,9 +150,10 @@ updated: 2026-10-29
   > MT-SG2912 10G L3-Lite Stackable Switch … Based on the new high-performance hardware and the BDROS platform … price 88000.00 PKR
   > 来源：https://mtlinkpakistan.com/products/mt-sg2912f（抓取 2026-10-21）
 - **KP**：—（总机（WhatsApp 已加））info@mt-link.com +92 317 9995719〔https://www.facebook.com/mtlinkpakistan/〕
-- 备注：A 维持（自有品牌 + 2 次实质回复 + 全线中国白牌），南亚价格极敏感；P1 = STC-424DGGM/STC-28DGGPM 贴牌 30%，突出 Marvell 方案对 BDCOM 入门款的稳定性差异；AP 不做。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+A 维持（自有品牌 + 2 次实质回复 + 全线中国白牌），南亚价格极敏感；P1 = STC-424DGGM/STC-28DGGPM 贴牌 30%，突出 Marvell 方案对 BDCOM 入门款的稳定性差异；AP 不做。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1）
+### 加厚挖掘（2026-10-21 · 深挖 v1 + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

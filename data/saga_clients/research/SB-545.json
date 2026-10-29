@@ -49,10 +49,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "韩国",
@@ -152,6 +153,14 @@
     "quote": "DNS 2026-10-29 14:48Z：mreit.co.kr MX 10 mail.mreit.co.kr；A 210.206.162.16",
     "why": "长期客户群复核证据（非邮件事实，不计真回）",
     "url": ""
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "미래정보기술 - 홈페이지 — 설명 문구",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://mreit.co.kr/"
    }
   ],
   "proof_gaps": [],
@@ -167,5 +176,30 @@
   "note": "DNS 复查正常（mreit.co.kr MX mail.mreit.co.kr / A 210.206.162.16，2026-10-29 14:48Z；早上那轮超时误报）→ 不动；韩国自有 MR- 系列 PoE 品牌商，KC 待核",
   "why": ""
  },
- "override_history": []
+ "override_history": [],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:42:57Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "MR-0802P-S",
+   "IEEE802",
+   "MR-0402P-L",
+   "MR-2404P-L",
+   "MR-2404P-S",
+   "MR-0402P-S",
+   "MR-0802P-L",
+   "DC48-55V"
+  ],
+  "url": "https://mreit.co.kr/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

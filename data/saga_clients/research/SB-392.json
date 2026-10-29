@@ -49,10 +49,11 @@
  ],
  "grade_override": "A",
  "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网核对）"
+  "level": "B 级加厚 v1（官网核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "MAKRO SİSTEM DIŞ TİCARET ANONİM ŞİRKETİ（单一股东 A.Ş.；Şişli Kuştepe Mah. Leylak 1 Sok. Nursanlar İş Merkezi No:1 K:7 D:26；MERSİS 未取）",
@@ -119,6 +120,14 @@
     "quote": "有一些工程需要用工业级交换机， 报了2光10电带网管带POE 130USD, 12光12电带网管 150USD 要双清包税的运输方式 拍了合照",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "i-PRO TÃ¼rkiye & Panasonic GÃ¼venlik Sistemleri Premium DistribÃ¼tÃ¶rÃ¼ | Makro Sistem — i-PRO (eski adÄ±yla Panasonic Security Systems) TÃ¼rkiye Premium DistribÃ¼tÃ¶rÃ¼ Makro Sistem. Edge AI gÃ¼venlik kameralarÄ±, NVR kayÄ±t sistemleri, CCTV ve yangÄ±n algÄ±lama Ã§Ã¶zÃ¼mleri.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://makrosisas.com.tr/"
    }
   ],
   "proof_gaps": [
@@ -139,5 +148,25 @@
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌"
   }
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:40:18Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@makrosisas.com.tr"
+  ],
+  "phones": [
+   "+90 (212) 272 47 92"
+  ],
+  "social": [],
+  "models_on_site": [],
+  "url": "https://makrosisas.com.tr/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

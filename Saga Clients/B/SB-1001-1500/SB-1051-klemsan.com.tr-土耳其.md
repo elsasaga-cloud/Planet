@@ -113,7 +113,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（http_error）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（klemsan.com.tr：HTTP 错误，2026-10-21，第 1 次）
 - **是谁**：土耳其 Klemsan（接线端子与电气元件制造商（自有品牌，出口型）；表内「从 VOLKTEK 买工业交换机」；官网 http_error）；表内未跟进。
 - **类型**：电气元件制造商（土耳其，自有标工业交换机现 Volktek）
 - **在卖/在用品牌**：Volktek
@@ -124,7 +124,8 @@ updated: 2026-10-29
   > 从VOLKTEK 买工业交换机
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Kadir Ferahlı（Yönetim Kurulu Başkanı（董事长；2024-09 50 周年致辞）= 拍板人；收件走 IoT / 电子产品线产品经理（technicalsupport@klemsan.com.tr 为唯一公开邮箱起点）（第 99 批 官方登记核实 2026-10-28）） 〔https://www.iyigunler.net/klemsan-sektordeki-50nci-yasini-kutladi/355283/〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

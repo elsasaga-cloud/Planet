@@ -57,6 +57,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-03-06 | 去 | A/S 群发 | Marvell Industrial Alert System、Marvell Alleycat5 Solution | 17 封 / 0 次打开 / 0 回｜首封 2024-06-25 → 末封 2026-03-06（17 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS 周边产品 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Die b-plus Gruppe ist Wegbereiter für neue Moblität seit 1996 — b-plus ist Entwicklungspartner um Technologien des autonomen Fahrens, Fahrerassistenzsysteme und Automatisierung von mobilen Maschinen voranzutreiben. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -139,9 +140,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Alexander Noack（Geschäftsführer b-plus technologies GmbH（HRB 5261；ADAS 测试工具实体）= 对口实体负责人（第 104 批 官方登记核实 2026-10-28）） 〔https://www.b-plus.com/de/impressum〕
 - **KP**：Michael Sieg（Geschäftsführer b-plus GmbH（集团母公司 HRB 1753；2005 年接任）= 拍板人（第 104 批 官方登记核实 2026-10-28）） 〔https://www.b-plus.com/de/impressum〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

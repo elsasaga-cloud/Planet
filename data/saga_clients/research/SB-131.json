@@ -48,10 +48,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网核对）"
+  "level": "B 级加厚 v1（官网核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Desecure Technology（Desecure 集团安防技术公司；总部 Vadistanbul Sarıyer İstanbul，技术中心 Desecure Plaza Pamukkale Denizli；技术公司法定名 / MERSİS 未取 → 部分坐实；集团保安公司 Desecure Özel Güvenlik Hizmetler A.Ş.）",
@@ -118,6 +119,14 @@
     "quote": "想要工业级8口POE交换机， 30w, 英文不是很好， 想要报价加上当地20%关税的价格",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Desecure Technology — Kritik tesislerin güvenlik ihtiyaçlarını teknoloji, mühendislik ve 7/24 Alarm İzleme Merkezi operasyonuyla yöneten güvenlik teknolojileri şirketi.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://desecuretechnology.com/"
    }
   ],
   "proof_gaps": [
@@ -128,5 +137,25 @@
    "body": "Serdar Bey, güneş enerjili mobil güvenlik kuleleriniz için: DIN ray endüstriyel switch, 8 port gigabit PoE+ (port başı 30 W) + 2 SFP, −40/+75 °C, 59,8 USD EXW (MOQ 1, 15 gün geçerli). Gümrük vergisi ve KDV dahil kapıya teslim tahmini fiyatı da hazırlayabilirim — bir kulede kaç switch kullanıyorsunuz?\n\nSaygılarımla,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:23:37Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "bilgi@desecuretechnology.com"
+  ],
+  "phones": [],
+  "social": [
+   "https://www.linkedin.com/company/desecure-technology/"
+  ],
+  "models_on_site": [],
+  "url": "https://desecuretechnology.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

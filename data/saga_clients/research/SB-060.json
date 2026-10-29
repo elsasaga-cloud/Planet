@@ -41,11 +41,12 @@
  ],
  "grade_override": "B",
  "override_reason": "平台型卖家、1 次回复后 9 次无果、俄罗斯非主攻区 → 慢跟。",
- "notes": "一封邮件给上架用 SKU 清单（分销 20%）。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：deep/facts。\n一封邮件给上架用 SKU 清单（分销 20%）。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（快照反爬 + 表内）"
+  "level": "B 级加厚 v1（快照反爬 + 表内） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "ООО «Баргас»（ИНН 7716715348；ОГРН 1127746340622；127238 Москва, Локомотивный пр-д, д. 21, стр. 5, оф. 313；微型企业；营收 214.4 млн ₽）",
@@ -120,10 +121,25 @@
     "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
     "k": "elsa_1to1",
     "msg_id": "1954b3f635d55353"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "KillBot user verification [52.159.226.244] [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36]...",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.bargas.ru/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:22:25Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
  }
 }

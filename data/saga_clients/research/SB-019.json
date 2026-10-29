@@ -44,10 +44,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对：台系品牌 ODM）"
+  "level": "B 级加厚 v1（官网快照核对：台系品牌 ODM） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "高譽科技股份有限公司 AETEK Inc.（統一編號 未取）",
@@ -122,10 +123,50 @@
     "quote": "兴趣：… 1，有时他们需要便宜方案可以找我们拿 2，可能会他们提供软件让我们提供硬件 3，推了2光10电，他们有很多BT产品以及配件",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "AETEK",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.aetektec.com/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:21:08Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@aetektec.com"
+  ],
+  "phones": [
+   "+886282452822"
+  ],
+  "social": [
+   "https://m.youtube.com/channel/UCFX36NuXabiRml5YPXDVO2g",
+   "https://www.linkedin.com/company/aetek-inc/"
+  ],
+  "models_on_site": [
+   "AT-101",
+   "D40-DC",
+   "H40-DC",
+   "D60-DC",
+   "D62-DC",
+   "H60-DC",
+   "AT-101-L",
+   "OS-110-360"
+  ],
+  "url": "https://www.aetektec.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

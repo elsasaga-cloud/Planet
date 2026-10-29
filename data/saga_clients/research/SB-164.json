@@ -62,10 +62,11 @@
  ],
  "grade_override": "A",
  "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "〒242-0007 神奈川県大和市中央林間 5-5-23-6, Japan（第 121 批 官方登记核实 2026-10-29）",
@@ -296,6 +297,14 @@
     "quote": "This is our 16-port DIN PoE switch featuring 1. 2*1G SFP slots with PoE af/at capability, 240W budget 2. Support PoE watchdog and 250-meter PoE 3. Ideal in CCTV cabinet solutions. Do you need some units for testing?",
     "why": "4 个月后单推 16 口 DIN PoE（他们 4 月问的就是带看门狗的 PoE）——无回；若再动，先接回 5 月那串问题（PSE 电源 Plan B 1,100 日元、标签、认证费用）而不是再推新机",
     "k": "gmail_a 2026-09-14T01:30 → inoue.mari@unea-x.com"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "UNEAX株式会社 | ビジネスを加速させるリーディングカンパニー — 未来をつくるテクノロジーで、あなたのビジネスに革命を。高速ストレージ、信頼性のある通信、先進のIoTソリューション、精密金属加工。お客様の問題を定義し、解決へと導きます。詳細はお気軽にお問い合わせください。",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://unea-x.com/"
    }
   ],
   "proof_gaps": [],
@@ -314,5 +323,28 @@
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）"
   }
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:24:08Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "cuishengfu@gmail.com"
+  ],
+  "phones": [],
+  "social": [
+   "https://unea-x.com",
+   "https://unea-x.com/brand/",
+   "https://unea-x.com/company/",
+   "https://unea-x.com/goal/"
+  ],
+  "models_on_site": [],
+  "url": "https://unea-x.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

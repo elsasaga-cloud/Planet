@@ -131,7 +131,8 @@ updated: 2026-10-29
   > 要工业级交换机 / 90 54464 91142 已加
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：İsmet Yavuz（业主（LinkedIn「Viva Bilgisayar」；Defne / Hatay 一人电脑 + 安防店，推定 şahıs 个体）= **老板 = 联系人**；**同名陷阱：İstanbul 的 Viva Bilgisayar 非本户**（第 90 批 官方登记核实 2026-10-27））is_ya@hotmail.com（公开 + 用户表） +90 544 649 11 42（公开，WhatsApp 已加）〔https://www.linkedin.com/in/ismet-yavuz-608269100/〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
 

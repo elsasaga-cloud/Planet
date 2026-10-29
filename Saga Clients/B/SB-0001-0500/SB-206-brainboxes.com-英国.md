@@ -61,6 +61,7 @@ updated: 2026-10-29
 | 2026-09-04 | 去 | A/S 群发 | Marvell Industrial Alert System、Industrial PoE Switch | 21 封 / 0 次打开 / 0 回｜首封 2025-01-20 → 末封 2026-09-04（21 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：5/8电口工业FS 自己的logo | 表内备注 | `用户表` |
 | 2026-09-04 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 ee0eb596422705e6；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封） | `ee0eb596422705e6` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Brainboxes \| Trusted Connectivity: Switches, IoT, Serial, IO — Trusted UK manufacturer of industrial data connectivity. Upgrade: rugged Industrial Ethernet switches, IoT, serial converters & IO. Lifetime warranty & support | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -149,9 +150,10 @@ updated: 2026-10-29
 - **KP**：Luke Walsh（Managing Director 兼登记 Director（2015-04-20 起；Walsh 家族二代；Companies House 03245094）= 拍板人 —— **守界：利物浦家族制造商（1984 起，自产串口 / 以太网 IO 模块 + 工业交换机，「Made in Britain + 终身保修」）= 我们 STI 对其是竞品而非货源 → B 不加厚**；唯一缝隙：PoE / 千兆管理型口数少，可问采购经理 Kevin Whittaker 是否补一款 OEM（与「Made in Britain」冲突，概率低）；21 封无回 = 没需求（第 92 批 官方登记核实 2026-10-28））luke.walsh@brainboxes.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Stephen Greer（Sales Director 兼登记 Director（2023-07-11 起）= 销售口（同行，不发价格表）（第 92 批 官方登记核实 2026-10-28））stephen.greer@brainboxes.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Kevin Whittaker（Purchasing Manager（RocketReach）= 采购口（唯一可能的 OEM 补缺对话人）（第 92 批 官方登记核实 2026-10-28）） 〔https://rocketreach.co/brainboxes-ltd-profile_b5c74e47f42e0d1b〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

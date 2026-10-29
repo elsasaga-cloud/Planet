@@ -57,6 +57,7 @@ updated: 2026-10-29
 | 2026-09-16 | 去 | A/S 群发 | Marvell Industrial Alert System、48 Port 10G Core Switch | 21 封 / 0 次打开 / 0 回｜首封 2024-07-04 → 末封 2026-09-16（21 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | （用户表字段） | 表内备注 | `用户表` |
 | 2026-09-16 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 2b872db780701b81；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封） | `2b872db780701b81` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Prodotti e soluzioni per macchine e Impianti Industriali — Prodotti e soluzioni per la progettazione, la realizzazione, la conduzione e la manutenzione di macchine e impianti, industriali, M2M, IOT, IIOT, Industria 4.0 | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -153,9 +154,10 @@ updated: 2026-10-29
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：L. Donato（Titolare（ditta individuale；Lorenzo）= 拍板人 / 收件人（第 111 批 官方登记核实 2026-10-28））info@iotech-italia.net（公司公开） +39 339 2514 712〔https://www.iotech-italia.net/wlink-tech〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

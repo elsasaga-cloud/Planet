@@ -72,6 +72,7 @@ updated: 2026-10-29
 | 2025-10-03 | 来 | Łukasz | We looking for devices like this 😉 with CE power supply Prices ? MOQ ? | 需求（1G SFP MC） | `897f6d9873002938` |
 | 2025-10-03 | 去 | Alan | MoQ is 1 piece… price: 13usd/pc, 1*100/1000M SFP Fiber+1*10/100/1000M RJ45, WITHOUT optical module… DC5V input | 报价 | `c220bcc3035956bf` |
 | 2025-10-15 | 去 | Alan | Any news about the 1G media converter? Need to order or something? | 追问无回 | `43168b7db932dd31` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Producent i dystrybutor sprzętu IT \| IMPAKT S.A. — Jesteśmy IMPAKT S.A \| Odwiedź naszą stronę i zobacz, co nas wyróżnia. Pracuj z nami i wspólnie twórzmy nowoczesne miejsce pracy dla ludzi z pasją! | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：（已核 2026-10-24，第 73 批）Elsa 邮箱 2 封回复已读：08-26 下载链接；09-25 推 STC-4168XGGCM 双 AC $280 无回；之后 MC 话题在 A 邮箱（09-29 → 10-15）
 
@@ -178,9 +179,10 @@ updated: 2026-10-29
 - **KP**：Łukasz Gąsiewicz（Product Dev Manager）lukasz.gasiewicz@impakt.com.pl 〔用户 Clients 表（已回复）〕
 - **KP**：Bartosz Krawczyk（（用户记录））bartosz.krawczyk@impakt.com.pl 〔用户 Clients 表〕
 - **KP**：Marcin Chojnacki（Prezes Zarządu（董事长 / CEO）—— 只签框架；日常对接 product@ 的产品经理（第 83 批 官方登记核实 2026-10-27）） 〔https://rejestr.io/krs/585900/impakt〕
-- 备注：体量偏大但不在巨头名单，且是典型'自有品牌找中国工厂贴牌'模型：Lanberg 品牌有交换机/PoE/机柜线 → Saga 以 SmartByte Marvell 管理型/PoE 机型做 Lanberg 的 OEM 补充 SKU 最对路。KP 为产品开发经理（决策链正确）。价阶 30%（OEM）；需准备神秘包装/无 logo + CE/RoHS/REACH 文件。注意其直接找工厂的可能 → 强调 MOQ 1、10–15 天交期、混 SKU 小批量。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+体量偏大但不在巨头名单，且是典型'自有品牌找中国工厂贴牌'模型：Lanberg 品牌有交换机/PoE/机柜线 → Saga 以 SmartByte Marvell 管理型/PoE 机型做 Lanberg 的 OEM 补充 SKU 最对路。KP 为产品开发经理（决策链正确）。价阶 30%（OEM）；需准备神秘包装/无 logo + CE/RoHS/REACH 文件。注意其直接找工厂的可能 → 强调 MOQ 1、10–15 天交期、混 SKU 小批量。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1）
+### 加厚挖掘（2026-10-21 · 深挖 v1 + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

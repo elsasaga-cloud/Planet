@@ -57,6 +57,7 @@ updated: 2026-10-29
 | 2025-02-10 | 去 | Elsa 1:1 去信（To vladimir.novak@elkov.cz, nabidky.brno@elkov.cz） | 16 Port Ethernet Switch — 16-port DIN Gigabit Ethernet switch for vehicle network / industrial automation; model choice 5/8 port, 10/100M, PoE version（稿内无价，第 74 批(p) 已读稿） | Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，称呼「Hi, Vladimir」；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封 | `elsa_1to1` |
 | 2026-02-10 | 去 | A/S 群发 | Managed Optical Bypass Switch、48 Port PoE Managed Switch | 17 封 / 2 次打开 / 0 回｜首封 2024-07-08 → 末封 2026-02-10（17 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 对交换机有兴趣，懂交换机，详细介绍了2光10电，只说了OK，没表明特别的兴趣，WDM拍了照片，拿了catalog | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Elektromateriál a svítidla \| ELKOV — Nabízíme přes 30 000 prodůktů elektrotechnického vybavení a svítidel. Pro firmy a kutily. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -136,9 +137,10 @@ updated: 2026-10-29
   > 对交换机有兴趣，懂交换机，详细介绍了2光10电，只说了OK，没表明特别的兴趣，WDM拍了照片，拿了catalog
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Michal Vodička（Předseda představenstva（董事长；创始人 Karel Vodička 之子；所有人 MV elektro 100%）—— 不直接写；下一封写采购部「datové sítě」品类经理，不发 nabidky@（第 89 批 官方登记核实 2026-10-27）） 〔https://or.justice.cz/ias/ui/rejstrik-$firma?ico=26279690〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（名录核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（名录核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -103,11 +103,12 @@
    "source": "PI.zip 单据"
   }
  ],
- "notes": "A 确认：美国自有品牌工业交换机/MC 厂商 = 最佳 OEM 对象；P1 应改为 STI 工业系列（非 PoE 商用）。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\nA 确认：美国自有品牌工业交换机/MC 厂商 = 最佳 OEM 对象；P1 应改为 STI 工业系列（非 PoE 商用）。",
  "researched_at": "2026-10-22",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1"
+  "level": "深挖 v1 + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "VILINK COMMUNICATIONS, INC.（California，1993；Self-Owned）",
@@ -533,6 +534,14 @@
     "quote": "DHL / 8604097423  1300RMB/PC",
     "why": "最后一封：只给了 RMB 价（且比三天前高 100 RMB），无 USD / 条件 / 问题 → 断点",
     "k": "1da8981202e67e90"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "-",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://vilink.us/"
    }
   ],
   "proof_gaps": [
@@ -560,5 +569,25 @@
   "web_watch_targets": "scripts/web_watch/targets.json#SA-006",
   "status": "data/customer_watch/当前状态.md",
   "log": "data/customer_watch/变化日志.md"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:19:33Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "AOC-1M",
+   "DAC-1M",
+   "RS-232"
+  ],
+  "url": "https://vilink.us/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

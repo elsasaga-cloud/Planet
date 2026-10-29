@@ -57,6 +57,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-10-01 | 去 | A/S 群发 | 90W PoE Managed Switch、Managed Optical Bypass Switch | 34 封 / 1 次打开 / 0 回｜首封 2024-07-09 → 末封 2026-10-01（34 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：日本的，会中文，POE switch，在韩国有代理商，产品在台湾生产，问了我们是否有OEM ODM | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Home｜BlackBear Cyber Security - Your Security isOur Duty — BlackBear Cyber Security: Unbreakable networks, critical infrastructure protection. Ideal solution for utilities' industrial cybersecurity. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -143,9 +144,10 @@ updated: 2026-10-29
   > 兴趣：日本的，会中文，POE switch，在韩国有代理商，产品在台湾生产，问了我们是否有OEM ODM
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Takashi Eki（易傑）（President, BlackBear TechHive（日本子公司 BlackBear TechHive Japan 株式会社 法人番号 8010401158437；母体 台灣黑熊網路安全 統編 83305324，Atop 同址）— 同行集团，不动（第 115 批 官方登记核实 2026-10-28））eki@blackbear-ics.com +81 90 8493 5120〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：OEM 意向））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：OEM 意向） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

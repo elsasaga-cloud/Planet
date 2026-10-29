@@ -71,6 +71,7 @@ updated: 2026-10-29
 | 2025-04-28 | 去 | Saga（Alan） | Hi, Hussain, What do you mean by "outdoor use"? 1, high IP grade, waterproof: Like IP66, IP67 or IP68 The enclosure itself is high IP rated. 2, just industrial grade products for harsh outdoor use It might be used in outdoor IP box, a typical example is like below link https://www.inscapedata.com/lp… | Saga 实质答复原文（主题「Re: [EXTERNAL] MOH-TA-170325 Offer」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `1f18c82924a11d1e` |
 | 2025-05-15 | 来 | Hussain | Unfortunately there is no news yest, but once we have news regarding your offer we will be in touch. | 项目停摆 | `d385ca588de7d060` |
 | 2025-05-15 | 去 | Saga（Alan） | Hi, Hussain, Any update about this project? Btw There is a 16-port Din Gigabit Ethernet switch for you. It is good for vehicle network and industrial automation. *Model choice* 1. 5 Port/8 Port/24 Port 2. 10/100M 3. PoE version *It is a good and cheap replacement of Wago, Tripplite, Red Lion, Antair… | Saga 实质答复原文（主题「Re: [EXTERNAL] MOH-TA-170325 Offer」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `46f7e87117f44fe3` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Linxcom UK — Linxcom is a leading brand in Data Center and Telecom Infrastructure Solutions. Secure online ordering & free delivery. Contact us today. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：报价单价（quotation PDF 未在附件索引中提取）；MOH-TA 是哪国卫生部项目——仅由编号推断
 
@@ -168,9 +169,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Hussain Alqahtani（Purchasing and Product Development Manager（邮件签名）；**非董事**，拍板人是唯一董事 Mohamed Abdelhamid Okba（法国籍，2011-07 起）（第 82 批 Companies House 核实 2026-10-27））hussain.alqahtani@linx-com.com 〔S/A 邮箱来信 2025-03-18 → 05-15 来信 6 封（第 72 批从邮件表头补）〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A6 真回≥3+对位（任何区域）
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -5,7 +5,9 @@
  "summary": "希腊塞萨洛尼基通信产品公司，WA 在线，2 次回复、19 次跟进；取过目录、一般性回复。",
  "type": "经销/集成商",
  "size": "待补证",
- "brands_seen": [],
+ "brands_seen": [
+  "Dahua"
+ ],
  "evidence": [
   {
    "kind": "用户记录",
@@ -54,11 +56,12 @@
  ],
  "grade_override": "B",
  "override_reason": "2 次一般性回复、无具体需求、17 次推送无果 → 慢跟（希腊在欧洲区故保留 B）。",
- "notes": "WA 季度触达。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\nWA 季度触达。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + 名录核对）"
+  "level": "B 级加厚 v1（官网 + 名录核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "ΞΥΓΚΑΚΗΣ ΚΩΝΣΤΑΝΤΙΝΟΣ ΗΛ. Ο.Ε.「RFCOM」（ΑΦΜ 未取；ΓΕΜΗ 601010939512 推定 → 部分坐实）",
@@ -128,6 +131,14 @@
     "quote": "Mini Industrial PoE Switch、10G Enterprise SFP Switch",
     "why": "10 封 / 0 次打开 / 0 回｜首封 2025-09-04 → 末封 2026-09-02（10 去 / 0 来）",
     "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "RFCOM connecting the future",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://rfcom.gr/en"
    }
   ],
   "proof_gaps": [
@@ -145,5 +156,34 @@
   "note": "桌面复核（研究档类型 + 对位首推）：经销/集成商；切入：网店/分销 20% 档：STC-28DGGPM 上架 PoE SWITCH 类目；16 口 STI-21616GP；24 口 STC-424DGGPM-280W；行业内 ✔ 对位 ✔（宽留冷「不对位」系 fit 标志未回填，非真不对位）",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 2，WA ✔，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": []
+ "override_history": [],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:22:24Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@rfcom.gr"
+  ],
+  "phones": [
+   "0089909 2310 257557"
+  ],
+  "social": [],
+  "models_on_site": [
+   "IEEE802",
+   "LED25",
+   "HR340",
+   "AX3000",
+   "RS-485",
+   "WI-PS306GF-UPS-15A",
+   "EAP650",
+   "ETH10-2WIRE-A-SET"
+  ],
+  "url": "https://rfcom.gr/en",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

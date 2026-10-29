@@ -62,6 +62,7 @@ updated: 2026-10-29
 | 2025-04-02 | 去 | A 箱（Alan） | 10G Media Converter｜稿内价 $65 | 去信正文含价（邮箱索引） | `40ee0efb805e335c` |
 | 2026-08-31 | 去 | Saga（Alan） | 「24 Port PoE Managed Switch」——最后一封，发 anthony.giunta@ + tyler.griffey@ | AddOn 是光模块/线缆大厂，群发主题（24 口 PoE）与其 MC 补源需求不对口 → 下一封只谈 SFP 转换器交期 | `9a4cd7f8c26980fe` |
 | 2026-08-31 | 去 | A 箱（Alan） | 24 Port PoE Managed Switch | 最近一封去信（邮箱索引；去信共 33 封） | `9a4cd7f8c26980fe` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Global Leaders In Fiber Optic Connectivity Solutions — High quality transceivers, patch cables, media converters, & fiber connectivity solutions from 1999. 99.98% reliability rated 100G QSFP+, 10G SFP+, & more. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：「已买样」无 PI
 
@@ -162,7 +163,7 @@ updated: 2026-10-29
 - **是谁**：美国加州的兼容光模块与高速线缆独立制造商（1999 年起），自称全球最大独立光模块制造商，250+ 员工，产品线含 MC（含 10G、串口转光纤）、复用器、光纤配件；在自有实验室编码/测试。用户表：买了 6 台 MC 样品，嫌交期长；联系人 Matt McCormick（matt@addoncomputer.com，用户表原值），WhatsApp 已加。
 - **类型**：品牌商/制造商（兼容光模块；MC 等外采贴牌）
 - **规模**：250+ 员工（官网）
-- **在卖/在用品牌**：AddOn
+- **在卖/在用品牌**：AddOn, Cisco, Juniper, Extreme
 - **【官网】定位与规模**
   > We have grown to be the world's largest independent manufacturer of optical transceivers and high speed cabling. With global headquarters in Tustin, California, we're proud to employ more than 250 team members worldwide.
   > 来源：https://www.addoncomputer.com/aboutus（抓取 2026-10-21）
@@ -178,9 +179,10 @@ updated: 2026-10-29
 - **KP**：Matt McCormick（CEO（经营者，非所有者）；AddOn Networks = ADD-ON COMPUTER PERIPHERALS, LLC（California LLC 2002-12-26，前身 Inc. 2000），Patton 家族所有（President Jimmy Patton）；NY OGS 合同 PM69867；EIN 05-0549009（第 84 批 官方登记核实 2026-10-27））matt@addoncomputer.com +1 949-735-4119（WhatsApp 已加）〔Clients/A/DONE/US.xlsx〕
 - **KP**：Anthony Giunta（收件人（A 邮箱 2026 年 5 封群发的收件地址；从未回信；职务未核））anthony.giunta@addonnetworks.com 〔A 邮箱发件表头〕
 - **KP**：Tyler Griffey（收件人（A 邮箱 2026 年 5 封群发的收件地址；从未回信；职务未核））tyler.griffey@addonnetworks.com 〔A 邮箱发件表头〕
-- 备注：A 确认（已买样 + 具名 KP + 自有品牌 MC 线）；痛点是交期——下次跟进直接给「常备库存型号 + 10–15 天交期承诺」。体量大于 Saga 常规客户，但 MC 贴牌决策链短。P1 = STI-110GE（MC）。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+A 确认（已买样 + 具名 KP + 自有品牌 MC 线）；痛点是交期——下次跟进直接给「常备库存型号 + 10–15 天交期承诺」。体量大于 Saga 常规客户，但 MC 贴牌决策链短。P1 = STI-110GE（MC）。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1）
+### 加厚挖掘（2026-10-21 · 深挖 v1 + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

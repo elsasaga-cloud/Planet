@@ -69,6 +69,7 @@ updated: 2026-10-29
 | 2026-05-05 | out | Elsa → vismin@rspotsolutions.com | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 9/10 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 第 74 批(m) `from:e.sagatelecom to:vismin@rspotsolutions.com` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
 | 2026-08-06 | out | Elsa → vismin@rspotsolutions.com | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 10/10 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(m) `from:e.sagatelecom to:vismin@rspotsolutions.com` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
 | 2026-10-21 | 用户表 | Simon | 从holink买了HDMI类产品 / Cabling CCTV等 / 从中国买很多 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | RSPOT SOLUTIONS — RSPOT Solutions, Inc. Value Added Distributor building opportunities for ICT, TELCO, Electrical and Construction System Integrators. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -125,13 +126,15 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：未单独核对
 - **是谁**：菲律宾布线/CCTV 供应商 R-Spot Solutions（用户表注：Cabling、CCTV 等，从中国买很多；vismin@rspotsolutions.com = 米沙鄢-棉兰老（VisMin）区域邮箱）。用户表（富通天下外贸数据）：「从 holink 买了 HDMI 类产品」，非 Saga 成交；E 冷名单 1 次跟进 0 回复。CCTV/布线供应商 → PoE 交换机走量。
+- **在卖/在用品牌**：Hikvision, Uniview
 - **【用户表】富通天下：从 holink 买 HDMI；Cabling CCTV；从中国买很多**
   > 从holink买了HDMI类产品 / Cabling CCTV等 / 从中国买很多
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Juner D. Yaneza（经销联络负责人（Vericom 菲律宾经销页 2026-10-29）= 收件人 — 一页纸一次：分销 20% B、STC-028GP / STC-2216GP / STC-2224GP + STI-154GP 一口价 + MOQ 1 + 付费样机 — 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉、NTC 不声称（第 120 批 官方登记核实 2026-10-29））vericom@rspotsolutions.com 〔〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于用户表整理 + 需求映射；「成交」为富通天下外贸数据））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于用户表整理 + 需求映射；「成交」为富通天下外贸数据） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

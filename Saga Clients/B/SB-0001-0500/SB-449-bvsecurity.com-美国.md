@@ -150,9 +150,10 @@ updated: 2026-10-29
 - **KP**：Zehua W（Product Manager / 技术客服（研究档）→ 改投 sales@ 点名业主（第 107 批 官方登记核实 2026-10-28））support@bvsecurity.com 〔用户表〕
 - **KP**：Lisa Tsai（Co-Managing Director / Owner（ZoomInfo）= 拍板人 / 收件人（sales@bvsecurity.com）（第 107 批 官方登记核实 2026-10-28））sales@bvsecurity.com 〔https://www.zoominfo.com/c/bv-security/22367373〕
 - **KP**：Chien Chang Lu（Managing Member（buzzfile；BV USA LLC）= 拍板人（第 107 批 官方登记核实 2026-10-28）） 〔https://www.buzzfile.com/business/BV-Security-847-619-2288〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

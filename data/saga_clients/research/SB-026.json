@@ -40,11 +40,12 @@
  ],
  "grade_override": "B",
  "override_reason": "3 人微型公司、营收下滑且亏损、展后 6 次推送 0 回复 → 需求与支付能力都弱，慢跟。",
- "notes": "保留 WA 渠道；只在有 8 口 PoE 促销/新品时一次性触达（STC-28DGGPM，分销 20%）。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：deep。\n保留 WA 渠道；只在有 8 口 PoE 促销/新品时一次性触达（STC-28DGGPM，分销 20%）。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Safe-tech CCTV Systems SWEDEN AB（org.nr 556732-8181；VAT SE556732818101）",
@@ -132,5 +133,12 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:21:15Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
  }
 }

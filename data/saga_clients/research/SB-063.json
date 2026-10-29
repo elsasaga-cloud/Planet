@@ -65,11 +65,12 @@
  ],
  "grade_override": "B",
  "override_reason": "英国主攻区 + 面对面 + OEM 意向，但承诺发需求后 17 次推送 0 回复 → 降 B 慢跟；一旦回复立即升 A。",
- "notes": "重启用 WhatsApp/电话（有手机号），直接给 2 光 24 电非管理 PoE 的 MOQ 1、OEM 30% 价与交期。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：deep。\n重启用 WhatsApp/电话（有手机号），直接给 2 光 24 电非管理 PoE 的 MOQ 1、OEM 30% 价与交期。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（网店目录核对）"
+  "level": "B 级加厚 v1（网店目录核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "AVESTA (MANCHESTER) LTD（Companies House 07964960）",
@@ -187,5 +188,12 @@
    "body": "Hi Hamid,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 4 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the 24-port unmanaged PoE with 2 SFP you asked about, at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS/UKCA: 24 x Gigabit PoE+ (300 W) + 2 x Gigabit + 2 x SFP, unmanaged - model STC-2024GP - $93.5 USD; 8 x Gigabit PoE+ + 2 x Gigabit - STC-028GP - $25.1; the HA-POES806 position, 4 x PoE+ + 2 x Gigabit, 60 W - STC-024GP - $22.3. HA-coded label is free; colour box from 200 sets.\n\nOne question: shall I send the HA-coded label mock-up with the formal quote, and which of the three first?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:22:53Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
  }
 }

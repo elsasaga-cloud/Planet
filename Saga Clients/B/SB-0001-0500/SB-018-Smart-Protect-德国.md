@@ -62,6 +62,7 @@ updated: 2026-10-29
 | 2025-06-10 | 来 | Andrew | Are the switches manageable ? | 最后一问 | `f66547fc66c47b76` |
 | 2025-06-10 | 去 | Alan → Andrew Walker（Re: Industrial PoE Switch；附 DIN Managed.jpg） | 「They are unmanaged ones. We also have managed series, see attached photo」——只给了一张图，没给型号/价/datasheet。 | Andrew 两次都在问「可管理吗 / 能不能测」：05-13 要免费样机被拒（「We do not do FREE samples」），06-10 问可管理 → 一张图。德国安防集成商「need to replace a lot of switches」的需求没有被接住——下一步给 STI-288DGGPM / STI-244GPM 的 datasheet + 付费样机价 + 退款条款 | `k=5ed6cfdaf428d52c（A 邮箱 2025-06-10 08:32Z）` |
 | 2026-08-11 | 内 | Gmail 退信（A 邮箱） | info@smart-protect.nrw 永久退信：** Address not found ** ** Address not found ** Your message wasn't delivered to info@smart-protect.nrw because the doma | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_a 21cca18c5a54024d` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Sicherheitstechnik Mönchengladbach \| Walker Security — Ihr Experte für Sicherheitstechnik in Mönchengladbach. Wir bieten Alarmanlagen, Videoüberwachung & Zutrittskontrollen für Unternehmen & Privathaushalte. Individuelle Konzepte & zertifizierte Qualität. Jetzt informieren! | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -134,8 +135,10 @@ updated: 2026-10-29
   > 来源：https://openregister.de/company/DE-HRB-R3306-95644（抓取 2026-10-21）
 - **KP**：Andrew Walker（Geschäftsführer（2020-02-17 起，接替创始人 Oktay Zuki）= 老板 = 联系人；UG €6,000、7 年 5 次迁址、2025-03 更名 Walker Security Systems UG；Prokuristin Nina Jasmin Walker（配偶）（第 86 批 官方登记核实 2026-10-27））info@walker-security.systems +49 177 322 4215〔https://walker-security.systems/impressum〕
 - **调研后定级**：B（原自动 A）——微型安装商（UG，单人决策但单量极小），仅一次礼节性回复；B 慢跟即可。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 需求映射））
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 需求映射） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -47,10 +47,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "〒541-0042 大阪府大阪市中央区今橋 2-3-16 5F, Japan（06-6228-0577）（第 121 批 官方登记核实 2026-10-29）",
@@ -148,6 +149,14 @@
     "quote": "Managed PoE Switches",
     "why": "本日去信真实主题（邮箱索引 3c290b606f32929f；信稿开头句引用此封；此前稿内写的「10G Enterprise SFP Switch」是线程列表首题，不是本封）",
     "k": "3c290b606f32929f"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "ソリッドケーブル | LAN・ケーブル通販サイトの先駆者 | 【最短即日発送】放送・通信工事材料の卸",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://solidcable.com/"
    }
   ],
   "proof_gaps": [],
@@ -156,5 +165,30 @@
    "body": "Hello Solid Cable team,\n\nOver the past months you had a few product mails from us - most recently \"Managed PoE Switches\" on 1 October 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the media converters you list alongside LAN cabling (ONV today), neutral-brand units at distributor price, EXW, from single units, 15-day validity, CE/RoHS: industrial Gigabit converter, 1 x RJ45 + 1 x SFP slot, -40 to 75 C - model STI-110GE - $26.5 USD; Fast Ethernet version - STI-110FE - $19.7; desktop versions on request, with PSE-marked Mean Well adapters.\n\nOne question: which converter configuration do your installer customers buy most - Gigabit SFP-slot, or Fast Ethernet fixed SC?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:48:10Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "DMY-7532",
+   "SEP-SH25FB50",
+   "CMD-5CALHS",
+   "CMD-4CAB",
+   "CMD-5CTAB",
+   "CCD-HS4CFF15",
+   "CCD-HS4CFF30",
+   "CCD-HS4CFSL15"
+  ],
+  "url": "https://solidcable.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -43,10 +43,11 @@
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "62 Ubi Road 1 #04-14 Oxley Bizhub 2, Singapore 408734（+65 6292 0801）（第 116 批 官方登记核实 2026-10-28）",
@@ -129,6 +130,14 @@
     "quote": "16 Port Industrial PoE Switch",
     "why": "本日去信真实主题（邮箱索引 1c3b46d610a21c42；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封）",
     "k": "1c3b46d610a21c42"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Anewtech Systems | Industrial PC, Edge PC, Server, Rugged Computer — Anewtech Systems delivers industrial PCs, Supermicro servers, rugged computers, panel PCs, and machine vision solutions for Industry 4.0. With 27+ years of expertise, we provide customized platforms, and IoT-ready systems for smart",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.anewtech.net/"
    }
   ],
   "proof_gaps": [],
@@ -137,5 +146,36 @@
    "body": "Hello Anewtech team,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 22 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the ORing industrial switches you supply with your IPC platforms, neutral packing, at distributor price, EXW, MOQ 1, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $78.9 USD; the same unmanaged - STI-288GP - $60. EN 50155 rail positions we do not quote - said up front.\n\nOne question: which ORing model do your projects use most, so I quote its exact equivalent?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:25:18Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@anewtech.com.sg"
+  ],
+  "phones": [],
+  "social": [
+   "https://www.facebook.com/anewtech.net/",
+   "https://www.linkedin.com/company/anewtech-systems/",
+   "https://www.youtube.com/anewtech"
+  ],
+  "models_on_site": [
+   "RS-485",
+   "EN50155",
+   "RS-232",
+   "O-IAP-420",
+   "RS232",
+   "O-IGMG-8224D-D5G",
+   "O-IMG-4312D",
+   "O-IGAR-1004-D5G"
+  ],
+  "url": "https://www.anewtech.net/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

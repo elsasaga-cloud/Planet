@@ -59,6 +59,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2024-12-18 | 去 | Simon | it is not free samples… Price: 33usd/pc, STI-222GP | 付样说明 | `347a1cb99eeabbb1` |
 | 2025-02-28 | out | Elsa → info@bargas.ru | 8 Port Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | KillBot user verification [52.159.226.244] [Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36]... | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -145,9 +146,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Гречкин Александр Юрьевич (Alexander Grechkin)（Генеральный директор / 100% 股东 ООО «Баргас»（2012-04-28–；rusprofile）= 拍板人 / 收件人；2025-12 对 mini 工业机回「interested」（第 114 批 官方登记核实 2026-10-28））ag@bargas.ru 〔（本地 Clients/ 表格，无公开 URL）〕
 - **调研后定级**：B（原自动 A）——平台型卖家、1 次回复后 9 次无果、俄罗斯非主攻区 → 慢跟。
-- 备注：一封邮件给上架用 SKU 清单（分销 20%）。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：deep/facts。
+一封邮件给上架用 SKU 清单（分销 20%）。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照反爬 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照反爬 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -45,10 +45,11 @@
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "意大利",
@@ -130,6 +131,14 @@
     "quote": "16 Port Industrial PoE Switch",
     "why": "本日去信真实主题（邮箱索引 3016573139791dd0；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
     "k": "3016573139791dd0"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Innowatt - Tecnologia innovativa al tuo servizio — Innowatt è un brand italiano di materiale elettrico, tecnologico e di sicurezza. La mission di Innowatt è di migliorare lo stile di vita delle persone, fornendo soluzioni innovative che semplificano l'utilizzo della tecnologia con particolare attenz",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.innowatt.it/"
    }
   ],
   "proof_gaps": [],
@@ -138,5 +147,37 @@
    "body": "Hello Innowatt team,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 16 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the Innowatt-branded industrial PoE switches, a second ODM source in your packaging from small lots, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, unmanaged - model STI-288GP - $62.2 USD EXW with your logo (MOQ 1, 15-day validity); the same L2 managed, Marvell-based - STI-288GPM - $85.5; commercial 8 x PoE+ + 2 x SFP L2+ - STC-28DGGPM - $87.4.\n\nOne question: which model do you reorder most often from your current source - that is the one worth a side-by-side?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:38:05Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "service@innowatt.it",
+   "shop@innowatt.it"
+  ],
+  "phones": [],
+  "social": [
+   "https://www.facebook.com/InnoWatt.store",
+   "https://www.instagram.com/inno.watt/",
+   "https://www.linkedin.com/company/gruppo-cosola-impianti-tecnologici/"
+  ],
+  "models_on_site": [
+   "RS485",
+   "BL-T500-AC-ADAPTER",
+   "IEEE802",
+   "RG-NBS3200-24GT4XS",
+   "AX3000",
+   "DS-K1T502DBWX-CE1",
+   "DS-K1T502DBWX-CQRE1",
+   "AK-R20A"
+  ],
+  "url": "https://www.innowatt.it/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -55,10 +55,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "桃園市中壢區西園路111之3號10樓（03-260-9203；2022-12 自 臺北市信義區光復南路419號5樓之1 遷入）（第 116 批 官方登记核实 2026-10-28）",
@@ -152,10 +153,45 @@
     "quote": "Hi, Alex, Our client base is about SMBs and industrial networking. So we basically use marvell AC3 and AC5 chips, this is a very cost-effective choice. In our daily work, we received some queries for stackable/data center switches, or simply just need broadcom-based models. Well, not much we can do.…",
     "why": "Saga 实质答复原文（主题「Re: Marvell Alleycat5 Solution」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
     "k": "0759f588345bd385"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "netberg | Main",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://netbergtw.com/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:38:13Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@netbergtw.com"
+  ],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "QSFP28",
+   "BCM56870",
+   "D-2123IT",
+   "D-2145NT",
+   "BCM56771",
+   "QSFP112",
+   "SFP56",
+   "SFP28"
+  ],
+  "url": "https://netbergtw.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

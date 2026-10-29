@@ -42,10 +42,11 @@
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "Esenkent Mah. Barajyolu Cad. No 26, 34776 Dudullu-Ümraniye / İstanbul（6,000 m² 工厂 = 总部）",
@@ -119,6 +120,14 @@
     "quote": "买的hisource的POE",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Audio Elektronik A.Ş.| Görüntülü Diafon, Akıllı Ev Sistemleri - İçinizi Rahatlatan Teknoloji — Audio Görüntülü Diafonları ve Akıllı Ev Sistemleri 40 yıldır güven veren teknolojisi ve yüzde yüz yerli üretim ile müşterilerinin hizmetindedir.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.audio.com.tr/"
    }
   ],
   "proof_gaps": [
@@ -129,5 +138,27 @@
    "body": "Hello Audio Elektronik team,\n\nOver the past months you had a product mail from us - \"24 Port PoE Managed Switch\" on 20 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the PoE switches that power your IP intercom systems, we can be a second ODM source in Audio packaging from small lots, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); 24 x PoE+ (280 W) + 4 x SFP, STC-424DGGPM-280W, $145.7; budget 4/8-PoE unmanaged units for single-villa kits on request. Logo on the unit is free; colour box from 200 sets.\n\nOne question: which PoE SKU ships most with your site and villa kits - 4, 8 or 24 ports?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:27:16Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@audio.com.tr"
+  ],
+  "phones": [],
+  "social": [
+   "https://www.facebook.com/AudioElektronik/",
+   "https://www.instagram.com/audio_tr/",
+   "https://www.youtube.com/AudioElektronik"
+  ],
+  "models_on_site": [],
+  "url": "https://www.audio.com.tr/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

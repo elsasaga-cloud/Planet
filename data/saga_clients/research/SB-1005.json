@@ -56,10 +56,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  "level": "B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "ASIT S.p.A.（P.IVA / CF 06221270017；Registro AEE IT22010000013576）",
@@ -131,6 +132,14 @@
     "quote": "兴趣：CCTV 分销商",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Asit Online Store – Innovation Delivered",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.asit.it/"
    }
   ],
   "proof_gaps": [],
@@ -146,5 +155,35 @@
   "note": "意大利 CCTV / 网络分销商（在线商店，Ubiquiti / Dahua / D-Link 货架）：行业内 ✔ 对位 ✔（PoE 交换机类目）；A 箱推送 4 次 → 留 B 群发",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": []
+ "override_history": [],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:27:16Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [],
+  "social": [
+   "https://twitter.com/Asit_SpA",
+   "https://www.brand-rex.com/",
+   "https://www.facebook.com/Asit-SpA-1678712965741264/",
+   "https://www.linkedin.com/company/asit-spa"
+  ],
+  "models_on_site": [
+   "IT22010000013576",
+   "AD-560062T0E",
+   "AGM731F",
+   "AGM732F",
+   "DSX-602-PRO",
+   "DSX2-5000",
+   "GSM4212PX-100EUS",
+   "M4250-10G2XF"
+  ],
+  "url": "https://www.asit.it/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

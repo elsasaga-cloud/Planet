@@ -7,7 +7,9 @@
  "type": "",
  "size": "",
  "brands_seen": [
-  "PLANET"
+  "PLANET",
+  "Uniview",
+  "Hikvision"
  ],
  "evidence": [
   {
@@ -50,10 +52,11 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B4 四主区+对位+坐实；B5 四主区+对位（冷）；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（并档 Planet 渠道档案 PA-004，W 批次调研 2026-10-19/20）"
+  "level": "B 级加厚 v1（并档 Planet 渠道档案 PA-004，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "2164929 ONTARIO INC. o/a NSI Distribution（前 Norelco SafeCam / Norelco Telecom；Brampton ON；6 个门店）",
@@ -172,6 +175,14 @@
     "quote": "Managed PoE Switches",
     "why": "最近一封去信（邮箱索引；去信共 18 封）",
     "k": "229930f76646812f"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "NSI | Home — NSI Distribution is a Canadian wholesale distributor specializing in security, access control, networking, and low-voltage solutions. With locations…",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.nsidistribution.com/"
    }
   ],
   "proof_gaps": [
@@ -192,5 +203,30 @@
    "prev_reason": "Planet 渠道档案 PA-004 评 A（真实需求 + 具名联系人 + 体量可赢，规则 INH）；Saga 表内未互动故自动评 B，按调研提升",
    "reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B4 四主区+对位+坐实；B5 四主区+对位（冷）；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A"
   }
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:42:59Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "BLACK-CAT6A",
+   "BLUE-CAT6A",
+   "WHITE-CAT6A",
+   "YELLOW-CAT6A",
+   "RED-CAT6A",
+   "GREEN-CAT6A",
+   "RED-CAT6",
+   "YELLOW-CAT6"
+  ],
+  "url": "https://www.nsidistribution.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

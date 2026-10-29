@@ -53,10 +53,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网核对）"
+  "level": "B 级加厚 v1（官网核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "LTE Elektronik Sanayi ve Ticaret Ltd. Şti.（安卡拉 Çankaya Mustafa Kemal Mah. 2131 Sk. Aslanlar Plaza No:24/10；关联 EBCO Electronic 香港 / m2mmarket / iot.com.tr；MERSİS 未取 → 部分坐实）",
@@ -123,6 +124,14 @@
     "quote": "I/O模块 / from: 自建站 已转给Ady跟进",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "EBCO Electronic — Ebco Electronics is a supplier of IoT solutions such as cellular modules, lora and lorawan applications, antenna and active passive bomlist and components, etc.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.ebcoelectronic.com/"
    }
   ],
   "proof_gaps": [
@@ -134,5 +143,30 @@
    "body": "Hi Enes,\n\nYou asked us about I/O modules through our website - those are not in our range, so a straight no on that.\n\nWhat we do build, and what your IoT / gateway customers tend to need next to a cellular gateway in the cabinet: a DIN-rail 4 x Gigabit PoE+ + 1 x SFP industrial switch, model STI-144GP - $34.1 USD EXW, and a 5 x Gigabit industrial switch, model STI-050GE - $17.0 USD EXW (distributor prices, MOQ 1, 15-day validity, CE/RoHS, -40 to 75 C).\n\nOne question: would it help to drop one sample of each at your Shenzhen office for a look?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:40:39Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@ebcoelectronic.com",
+   "info@isijet.com",
+   "info@lte.com.tr"
+  ],
+  "phones": [
+   "+90 312 443 03 04"
+  ],
+  "social": [
+   "https://tr.linkedin.com/company/lte-elektronik",
+   "https://www.instagram.com/lteproducts/"
+  ],
+  "models_on_site": [],
+  "url": "https://www.ebcoelectronic.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

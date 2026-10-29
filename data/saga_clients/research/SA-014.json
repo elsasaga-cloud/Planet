@@ -55,11 +55,12 @@
    "source": "https://impulsecctv.com/about-us/"
   }
  ],
- "notes": "A 确认：安防品牌自有 PoE 交换机线 + 2026 年主动回复 + 明确要贴 logo；P1 = STI-288DGGPM（工业 PoE，对位其在用 ONV 工业 FS），30% OEM 档；注意其印度产线可能要求 SKD/CKD，先问整机。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\nA 确认：安防品牌自有 PoE 交换机线 + 2026 年主动回复 + 明确要贴 logo；P1 = STI-288DGGPM（工业 PoE，对位其在用 ONV 工业 FS），30% OEM 档；注意其印度产线可能要求 SKD/CKD，先问整机。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1"
+  "level": "深挖 v1 + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Impulse Networks / Impulse CCTV",
@@ -228,6 +229,14 @@
     "why": "第 74 批(m) `from:e.sagatelecom to:ak@impulsecctv.com` 全程 complete：4 轮直收；客户曾来信（见 Re: 行）",
     "k": "elsa_1to1",
     "msg_id": "19fcb4933308f270"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Impulse CCTV | Industrial Grade PoE Network Switches — Impulse CCTV is a global manufacturer of industrial grade CCTV surveillance and PoE Network Switches. Make in India Certified, Global certifications.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://impulsecctv.com/"
    }
   ],
   "proof_gaps": [
@@ -250,5 +259,35 @@
   }
  ],
  "grade_override": "B",
- "override_reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A"
+ "override_reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:19:38Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@impulsecctv.com"
+  ],
+  "phones": [],
+  "social": [
+   "https://twitter.com/impulsecctv/",
+   "https://www.linkedin.com/company/impulse-cctv/"
+  ],
+  "models_on_site": [
+   "IMP-IGS-2",
+   "IMP-IGS-1G06CP",
+   "IMP-IGS-1G10CP",
+   "IMP-IGS-1G12CG",
+   "IMP-IGS-1G14CP",
+   "IMP-IGS-1G16CP",
+   "IMP-ISWT-0002-8P-8S",
+   "IMP-ISWT-0002-TS"
+  ],
+  "url": "https://impulsecctv.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

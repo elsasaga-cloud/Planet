@@ -151,7 +151,8 @@ updated: 2026-10-29
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Timothy Mathangani (Tim) Chege（Director（Companies House 09595034：2015-05-18 创立，2020-06 → 2022-10 曾退出董事会，2022-10-01 复任；现为唯一董事；肯尼亚籍居英；2026-01 身份已核）= **老板 = 联系人**；董事名单 6 进 6 出，2024-10 还有一位只待 6 周（第 87 批 官方登记核实 2026-10-27））marketing@optiwatchgroup.com（公司公开） +44 20 8443 0077〔https://www.crunchbase.com/organization/optiwatch〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + Companies House 核对））
 

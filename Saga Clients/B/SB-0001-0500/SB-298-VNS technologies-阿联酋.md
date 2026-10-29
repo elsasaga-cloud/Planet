@@ -55,6 +55,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-29 | 去 | A/S 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 28 封 / 0 次打开 / 0 回｜首封 2024-07-08 → 末封 2026-09-29（28 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：和aetek合作了5年了，工业品看了2光8管理POE 商业看了2光24电，问了管理是2层还是3层 会来深圳 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | VNS Technologies – Your Technology Partner | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -134,9 +135,10 @@ updated: 2026-10-29
   > 兴趣：和aetek合作了5年了，工业品看了2光8管理POE 商业看了2光24电，问了管理是2层还是3层 会来深圳
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Abdul Gafoor（Executive Director（研究档；VNS Technologies LLC；与 AETEK 合作 5 年；问过 L2 还是 L3、说会来深圳）= 拍板人 / 收件人 — 一页纸一次：分销 20% B（升 A 候选）、直接答 L2 / L3：工业 2 光 8 电管理 = STI-288DGGPM（L2）$137；商用 24 电 = STC-2224GP（非管理）$86 / STC-4424GCPM（L2+，Marvell）$165、中性包装、MOQ 1、付费样机、DAP 阿布扎比、邀深圳面谈（时间 Simon 定）— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关）、TDRA / ESMA 不声称（第 117 批 官方登记核实 2026-10-28））gafoor@vnstech.com +971 2 666 7757〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：AETEK 渠道））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：AETEK 渠道） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

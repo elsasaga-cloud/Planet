@@ -74,6 +74,7 @@ updated: 2026-10-29
 | 2026-08-04 | 去 | Elsa | Please check attached datasheet.（附件 = STC-424XGGPM-280W.docx） | Subhash 要的规格书 = 24 口 PoE 管理机 STC-424XGGPM-280W；他看完才说「stacking is mandatory」——比对对象就是这款 | `gmail_e 19fcc40506a0a404` |
 | 2026-08-04 | out | Elsa → harish@andatelecom.com | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 9/9 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(m) `from:e.sagatelecom to:harish@andatelecom.com` 全程 complete：9 轮直收；0 回 | `elsa_1to1` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：对EDFA台式很有兴趣 画了一个应用图;从ONV买 也有其他国内的 也买AOA的 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Anda Telecom Private Limited | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：（已核 2026-10-24，第 73 批）Elsa 2026-08-04 规格书 = STC-424XGGPM-280W.docx（连接器读 Elsa 回复正文）
 
@@ -155,9 +156,10 @@ updated: 2026-10-29
 - **KP**：Subhash（）subhash@andatelecom.com +91 99686 50294〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Neelam Gupta（Director（DIN 02122908，2004-12-13 起）= 配偶合伙（第 91 批 官方登记核实 2026-10-27）） 〔https://www.zaubacorp.com/company/ANDA-TELECOM-PRIVATE-LIMITED/U64202DL2004PTC131212〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：自有型号 OEM））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：自有型号 OEM） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

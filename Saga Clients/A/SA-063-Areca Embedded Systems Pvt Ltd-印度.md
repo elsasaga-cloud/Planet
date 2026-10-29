@@ -62,6 +62,7 @@ updated: 2026-10-29
 | 2024-06-17 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「发了48口引流信息」→ 对方「问了MPLS」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/Whatsapp_S跟进 2026.08.04.xlsx no.66 2024.6.17` |
 | 2024-07-15 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「3个2光8PoE」→ 对方「will check」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/Whatsapp_S跟进 2026.08.04.xlsx no.66 2024.7.15` |
 | 2024-11-18 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「引流机型」→ 对方「BIS」 | Simon 跟进表里的回应记录（邮箱看不到的渠道）；按原文留存 | `Clients/Whatsapp_S跟进 2026.08.04.xlsx no.66 1118` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Areca Embedded Systems Private Limited | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文
 
@@ -150,9 +151,10 @@ updated: 2026-10-29
   > 来源：https://www.thecompanycheck.com/company/areca-embedded-systems-private-limited/U72200TG2007PTC053397（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） +91 90000 50555（WA）〔用户 Clients 表〕
 - **KP**：Rashmi Jain（Director 兼股东（DIN 01336337，2018-03-20 起）= 现任实控人；2026-04-24 新增董事 Nilesh Bastimal Jain；Gutta Venkata Kumari（2015 起）2026 名单疑已卸任（第 83 批 官方登记核实 2026-10-27）） 〔https://www.falconebiz.com/company/ARECA-EMBEDDED-SYSTEMS-PRIVATE-LIMITED-U72200TG2007PTC053397〕
-- 备注：规格细到光口类型（SC/SFP）与 L2/L3 分档 = 真实项目选型；4 次回复、WA 在线。印度非主攻区但无需额外投入。P1：SmartByte 8 光 8 电管理型（L2）+ STC-448XGGM(L3) 类 L3 选项（按 docs/smartbyte/products 核对 8F8T 型号与 SC 口可选，报价前核价），项目价阶 25%。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+规格细到光口类型（SC/SFP）与 L2/L3 分档 = 真实项目选型；4 次回复、WA 在线。印度非主攻区但无需额外投入。P1：SmartByte 8 光 8 电管理型（L2）+ STC-448XGGM(L3) 类 L3 选项（按 docs/smartbyte/products 核对 8F8T 型号与 SC 口可选，报价前核价），项目价阶 25%。
 
-### 加厚挖掘（2026-10-21 · 深挖 v2（官网 areca.in + 公司注册核对））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网 areca.in + 公司注册核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

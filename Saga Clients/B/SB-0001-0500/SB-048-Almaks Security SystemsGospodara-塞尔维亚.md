@@ -61,6 +61,7 @@ updated: 2026-10-29
 | 2024-10-23 | 去 | S 群发 | Commercial poe switch、24 port poe switch | 4 封 / 0 次打开 / 0 回｜首封 2024-07-16 → 末封 2024-10-23（4 去 / 0 来） | `gmail_digest` |
 | 2025-02-16 | 去 | Elsa 群发（BCC；To info@alphatelecom.cc，北欧/中东欧 批次） | Industrial PoE Switch — This is a Marvell based industrial PoE switch for you. Port: 2*Gigabit SFP+4*Gigabit PoE Feature: 120W budget, PoE watchdog, 250-meter poe distance, s | Elsa 箱群发 BCC 触达证据（命中地址 almaks.rs, almaks@almaks.rs）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-08-13 | 去 | Elsa 群发（BCC；To info@dasys.fi，北欧/中东欧 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 almaks.rs, almaks@almaks.rs）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Main home - Almaks — Almaks nudi profesionalne sisteme tehničke zaštite, video nadzor, alarmne sisteme i GPS praćenje vozila u Beogradu i Srbiji. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -145,9 +146,10 @@ updated: 2026-10-29
 - **KP**：Slobodan Maksimović（Vlasnik i direktor（100%；1992 创始）= 拍板人 / 收件人本人（第 107 批 官方登记核实 2026-10-28））smaksimovic@almaks.rs（PKS 协会公开名录） +381 11 2852 606〔https://aplikacije.pks.rs/Sadrzaj/Files/Spisak%20Grupacije%20za%20TO%20-%20Ranka.doc〕
 - **KP**：Uroš Maksimović（Direktor（二代；companywall）= 抄送（第 107 批 官方登记核实 2026-10-28）） 〔https://www.companywall.rs/firma/almaks-doo-beograd/MMfjjXsD〕
 - **调研后定级**：B（原自动 A）——历史成交但已沉寂 13 年，塞尔维亚为非主动开发小国；成交记录使其不降 C，B 待机一次性重启。
-- 备注：一封'老客户回访'邮件：视频光端机已被 IP 化替代 → 推 STC-28DGGPM/STI-110GE；无回应即停。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+一封'老客户回访'邮件：视频光端机已被 IP 化替代 → 推 STC-28DGGPM/STI-110GE；无回应即停。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

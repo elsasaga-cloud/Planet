@@ -11,7 +11,8 @@
   "Hikvision（Platinum）",
   "Ajax",
   "Dahua",
-  "Netgear"
+  "Netgear",
+  "Uniview"
  ],
  "evidence": [
   {
@@ -68,10 +69,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网核对）"
+  "level": "B 级加厚 v1（官网核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Egemen Elektronik Güvenlik Bilgisayar Sistemleri San. ve Tic. Ltd. Şti.",
@@ -156,6 +158,14 @@
     "quote": "商业POE CCTV为主 很多配件 … 90 53260 57018 网站上的 已加",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Egemen Elektronik, Uniview Resmi Distrübütörü — Egemen Elektronik güvenlik kameraları, kayıt cihazları, interkom sistemleri, alarm sistemleri ve bir çok aksesuarın satışını yapmaktadır.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://egemenelektronik.com/"
    }
   ],
   "proof_gaps": [
@@ -164,5 +174,35 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:49:07Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [],
+  "social": [
+   "https://tr.linkedin.com/company/egemenelektronik",
+   "https://twitter.com/egemenelektr",
+   "https://wa.me/905326057018",
+   "https://www.facebook.com/Egemenelektronikguvenlik/"
+  ],
+  "models_on_site": [
+   "DS-M5504HNI",
+   "DS-7608NI-K1",
+   "DS-7104HGHI-F1",
+   "DS-2CD2T25FWD-I8",
+   "DS-3E0109P-E",
+   "DS-3E0326P-E",
+   "HK-SFP-1",
+   "DS-7632NI-K2"
+  ],
+  "url": "https://egemenelektronik.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

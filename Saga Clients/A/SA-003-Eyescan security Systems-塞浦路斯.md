@@ -60,6 +60,7 @@ updated: 2026-10-29
 | 2025-03-19 | 去 | A 箱（Alan） | 48 Port PoE Managed Switch | 首封去信（邮箱索引；去信共 16 封） | `bdfae7d60ad9d6fc` |
 | 2025-05-29 | 去 | Saga（群发） | 「Mini Industrial PoE Switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `66ef1c3d2c1a5e08` |
 | 2026-09-14 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 最近一封去信（邮箱索引；去信共 16 封） | `f6c64abd03bd5dab` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Home - Eyescan Private Security Services Ltd | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文
 
@@ -142,9 +143,10 @@ updated: 2026-10-29
   > Our Products: Intruder Alarms · CCTV · Fire Detection · Access Control · Video Door Entry · Integrated Solutions · Nurse Call Systems · Voice Evac · Telematics · Smart Building Automation · Evacuation Products
   > 来源：https://eyescan.com.cy/products/（抓取 2026-10-21）
 - **KP**：—（总机）info@eyescan.com.cy +357 25 333 300〔https://eyescan.com.cy/〕
-- 备注：A 级确认：有具体型号问价（4 光 24 电 / 2 光 24），安防集成+分销双身份，欧盟小国但决策快；P1 建议 STC-424DGGPM-280W（24 电 PoE）+ 备选 STI-4240DGGM。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+A 级确认：有具体型号问价（4 光 24 电 / 2 光 24），安防集成+分销双身份，欧盟小国但决策快；P1 建议 STC-424DGGPM-280W（24 电 PoE）+ 备选 STI-4240DGGM。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1）
+### 加厚挖掘（2026-10-21 · 深挖 v1 + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

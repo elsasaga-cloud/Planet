@@ -66,6 +66,7 @@ updated: 2026-10-29
 | 2025-07-10 | 来 | zerwes@allnet.de | AW: 16 Port Ethernet Switch｜Hallo Alan,  sorry we have our solution with SFP Slots and Managed Versions.  Thanks Gerhard  Von: Alan from Saga Telecom <a.sagatelecom@gmail.com> Ge | 来信（邮箱索引；原文见 k；是否人工回复以原文为准） | `27176790332e9c58` |
 | 2026-10-08 | 去 | S 箱（Simon） | 24 Port PoE Managed Switch | 最近一封去信（邮箱索引；去信共 21 封） | `15f87700ebc70348` |
 | 2026-10-08 | 去 | S 箱（Simon）报价 | 24 Port PoE Managed Switch｜ $180（原句：*Price: 180USD/PC*） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `15f87700ebc70348` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | ALLNET GmbH -ALLNET Produktwelt — ALLNET GmbH | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -164,9 +165,10 @@ updated: 2026-10-29
   > 来源：https://www.galaxus.ch/en/s1/product/allnet-switch-industrial-full-managed-layer2-gbe-poe-budget-240w-8x-bt-12-ports-network-switches-58884553（抓取 2026-10-21）
 - **KP**：Wolfgang Marcus Bauer（Geschäftsführer） +49 89 894 222-22〔https://www.allnet.de/impressum.html〕
 - **KP**：Gerhard Zerwes（来信署名人（职务未在邮件署名里出现））zerwes@allnet.de 〔S/A 邮箱来信 2024-06-04 → 2025-07-10 来信 3 封（第 72 批从邮件表头补）〕
-- 备注：A 维持（用户 A 已回复 + 自有品牌已从中国 E-link 采购）；体量偏大但贴牌采购决策在产品经理层，可做。P1 = STI-288DGGPM（工业 PoE 贴牌），30% 档；强调 Marvell 方案与 L2+ 固件差异化。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+A 维持（用户 A 已回复 + 自有品牌已从中国 E-link 采购）；体量偏大但贴牌采购决策在产品经理层，可做。P1 = STI-288DGGPM（工业 PoE 贴牌），30% 档；强调 Marvell 方案与 L2+ 固件差异化。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1）
+### 加厚挖掘（2026-10-21 · 深挖 v1 + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

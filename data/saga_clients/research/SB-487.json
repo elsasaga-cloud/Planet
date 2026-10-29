@@ -2,7 +2,7 @@
  "code": "SB-487",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（timeout）",
+ "website_status": "快照失败（npotelecom.ru：超时（站慢或封锁），2026-10-21，第 1 次）",
  "summary": "俄罗斯 НПО Телеком / NPO Telecom（电信设备企业；表内「比较重要 Mikhail Afonin」、有回复；KP Mikhail Afonin、Rashid Abdullin（Sales and Marketing Specialist）；兴趣 Switch；官网 timeout）；群发 17 次，有回复。",
  "type": "电信设备企业（俄罗斯，有回复，用户标重要）",
  "size": "",
@@ -48,7 +48,7 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
@@ -143,5 +143,14 @@
    "body": "Hi, Mikhail,\n\nYour May question deserved a direct answer. We are an engineering-led supply partner based in Zhengzhou; production runs at our partner factories in Shenzhen under our specification and QA. Platforms: Marvell (access switches), CENTEC (L3 core/aggregation: VXLAN/EVPN, MPLS, MLAG), Realtek (entry). We do not build on Microchip.\n\nCENTEC units priced today: 32x100G $6,000 / 6x40G+2x100G $1,200 / 48x25G+8x100G $4,800 USD EXW (2026 Q2 list, valid 15 days).\n\nOne question: which platform are you evaluating for NPO Telecom's own range, and is it an OEM (your label) or a reference-design requirement?\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:42:05Z"
+  ],
+  "fails": [
+   "2026-10-21"
+  ],
+  "batch": "LT-T03"
  }
 }

@@ -53,6 +53,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-02-06 | 去 | Elsa 群发（BCC；To gunjan@xexagon.co.in，印度-6 安防分销（锚 gunjan@xexagon.co.in；2025-04-10 起，7 轮） 批次） | OEM Core Switching Solution — I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G | Elsa 箱群发 BCC 触达证据（命中地址 airpro.in, jain.deepak1@gmail.com, sales@airpro.in）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-09-08 | 去 | Elsa 群发（BCC；To gunjan@xexagon.co.in，印度-6 安防分销（锚 gunjan@xexagon.co.in；2025-04-10 起，7 轮） 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 airpro.in, jain.deepak1@gmail.com, sales@airpro.in）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Home - AirPro - Best Wireless WiFi Router, Networking Products for Home & Business — AirPro has its in-house R&D unit which specializes in design, development and customization of wired and wireless solutions, esp. DISCOVER MORE JUST ARRIVED OUR NEWEST PRODUCTS WLAN APs and Controllers Outdoor Acces | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -143,9 +144,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Deepak Jain（Promoter / Director AirPro Technology India Limited（DIN 06504116；2014-02-17–；deepak@airpro.in 为登记邮箱）= 拍板人 / 收件人（第 114 批 官方登记核实 2026-10-28））sales@airpro.in 〔用户表〕
 - **KP**：Pankaj Bhansali（Promoter / Director（DIN 03154793；2017-09-29–）（第 114 批 官方登记核实 2026-10-28）） 〔https://www.zaubacorp.com/company/AIRPRO-TECHNOLOGY-INDIA-PRIVATE-LIMITED/U72900RJ2014PTC045127〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -113,11 +113,12 @@
    "source": "PI.zip 单据"
   }
  ],
- "notes": "A 维持（已成交 + CEO 直联 + 自有品牌），但 2023 年后沉寂需重新激活；守界：其国防/铁路项目不报 EN50155/军规，仅供标准工业款；P1 = STI-288DGGPM（bypass 款需向 SmartByte 确认），30% OEM 档。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\nA 维持（已成交 + CEO 直联 + 自有品牌），但 2023 年后沉寂需重新激活；守界：其国防/铁路项目不报 EN50155/军规，仅供标准工业款；P1 = STI-288DGGPM（bypass 款需向 SmartByte 确认），30% OEM 档。",
  "researched_at": "2026-10-22",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1"
+  "level": "深挖 v1 + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Sundar Techno Solutions（STS）",
@@ -309,6 +310,14 @@
     "quote": "内部《成本统计.xlsx》：STSC20241108014：成本 512 / 收款 665 / 利润 153（23.0%） · STSC20250107014：成本 2,560 / 收款 3,208 / 利润 648（20.2%） · STSC20251009014：成本 1,024 / 收款 1,225 / 利润 201（16.4%） · STSC20260212014：成本 1,536 / 收款 1,760 / 利润 224（12.7%）",
     "why": "利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md",
     "k": "cost_sheet"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Sundar Techno Solutions - Sundar Techno Solutions — Phone: +91-9482081014 Email: sales@sundartechno.com Industrial FieldBus Protocol Converters Gateways/Protocol Converters PC Cards Industrial Internet / Industry 4.0 Embedded Modules Network Controller Analysis & Data Acquisition Automation & Visual",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://sundartechno.com/"
    }
   ],
   "proof_gaps": [
@@ -319,5 +328,33 @@
    "body": "Next batch of STI-0160GE — same 2–5 pcs, or is any site asking for a managed (VLAN/ring) version this time?"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:07Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@embeddedautomation.org",
+   "sales@sundartechno.com"
+  ],
+  "phones": [
+   "+91-9482081014"
+  ],
+  "social": [
+   "https://in.linkedin.com/company/sundar-techno-solutions?trk=public_profile_topcard_current_company",
+   "https://twitter.com/SundarTechno",
+   "https://www.facebook.com/Sundar-Techno-Solutions-468605697037043/?hc_ref=ARQWa9QTtpSDn7Aiqyq1K1KisWMBo4KzBLfNV-NTawinOR8DQ7QAlIEWW1xUdoB-K54&fref=nf&__xts__%5B0%5D=68.ARAMIapyIXee6K2z_lsIzY0SrKcg8PRMriQ4E9Zbk_Qxn8vv61NTShHn5iakc0XMo_l2V_w-rzS0gU31uFtM54tLKzZtt0flOpI54LcUnV5GqgE5piJuC9cOskZ2OoQqDobcaZo12ShM0GbT47L8hkgtFgIT9gGwU5iOLw3f5rlKoJo8Ya4C_r8wcGsT-exhfgEd9OaiwhWMkhm0ijpzp4vCctGOhO7EaqOO2fjNq4OOZGXY1Yu7LA6tyOpm3tE7OnIiv94Q4xA4ElLUvu4HbmVpt-p3grXTaBgIOi_MjsWGWiMzHzabKPStNcoW8oKKNhK8Kfkc0IxSzMshgxPxIJk&__tn__=kC-R",
+   "https://www.youtube.com/@SUNDARTECHNOSOLUTIONS"
+  ],
+  "models_on_site": [
+   "IEC61850"
+  ],
+  "url": "https://sundartechno.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

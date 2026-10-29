@@ -57,6 +57,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-08-26 | 来 | 自动回复 | 自动回复里给出代理人/同事邮箱 lenaw@pulsar.pl | 群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口 | `7d303c2991a9b78c` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Strona główna — Strona główna - Pulsar | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -127,7 +128,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线
 - **是谁**：波兰电源/缓冲电源制造商 Pulsar，自有品牌 PoE 交换机产品线（S108/S108-90W/S108WP 8 口、S116/S116WP/USF1816P/SF116 16 口、SFG120-BT 16 GE + 4 GE + 4 SFP 802.3bt，工业 DIN PoE 交换机）；零售净价 8 口 325–434 zł、16 口 542–999 zł、SFG120-BT 1,187 zł；特色是 48–54 V DC 输入「WP（无电源）」版本配合自家缓冲电源（SWB-120 52 VDC/2×17Ah）。典型 OEM 买家（整机外采贴牌）。用户表：16 次跟进 0 回复。
-- **在卖/在用品牌**：Pulsar（自有品牌）, MEAN WELL（电源代理）
+- **在卖/在用品牌**：Pulsar（自有品牌）, MEAN WELL（电源代理）, Pulsar, Bosch
 - **【官网】自有品牌 PoE 交换机线**
   > Switche PoE firmy Pulsar oferują wiele korzyści … Zgodne ze standardami IEEE 802.3af/at/bt, urządzenia te zapewniają moc wyjściową od 15,4 W do 60 W
   > 来源：https://www.pulsar.pl/PL_117_switche-poe（抓取 2026-10-21）
@@ -143,9 +144,10 @@ updated: 2026-10-29
 - **【用户表】16 次跟进 0 回复**
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网目录核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网目录核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -44,10 +44,11 @@
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "100/215 Soi Kanchanaphisek 005, Lak Song, Bang Khae, Bangkok 10160（第 117 批 官方登记核实 2026-10-28）",
@@ -140,6 +141,14 @@
     "quote": "Managed PoE Switches",
     "why": "本日去信真实主题（邮箱索引 07451966bcfe74d3；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
     "k": "07451966bcfe74d3"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "PC Telecom – กล้องวงจรปิด จำหน่าย, ติดตั้งกล้องวงจรปิด ขายตรงจากผู้ผลิต LG",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.pctelecom.co.th/"
    }
   ],
   "proof_gaps": [],
@@ -148,5 +157,32 @@
    "body": "Hello PC Telecom team,\n\nOver the past months you had a steady stream of product mails from us - most recently \"Managed PoE Switches\" on 28 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the Utepo UTP7204E-POE / UTP7204GE units you install with LG and Axis cameras, neutral packing, at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS: industrial 4 x Gigabit PoE+ + 1 x Gigabit + 1 x SFP, unmanaged, -40 to 75 C - model STI-154GP - $37.7 USD; commercial 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - STC-28DGGPM - $80.7. The UTP7624GS-L3 position (24-port L3) we do not quote - said up front.\n\nOne question: which Utepo model do you use most, so I quote its exact equivalent?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:49:26Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "service@pctelecom.co.th"
+  ],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "UTP7202GE-POE",
+   "UTP7204E-POE-A1",
+   "LNU-5460R",
+   "LNV-5460R",
+   "LNV-7260R",
+   "RNZE-B501A",
+   "RNRZ-B520A",
+   "TCC32MS"
+  ],
+  "url": "https://www.pctelecom.co.th/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

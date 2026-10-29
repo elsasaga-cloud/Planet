@@ -54,6 +54,7 @@ updated: 2026-10-29
 | 2026-01-22 | 去 | Elsa 群发（BCC；To sales@cmd-sec.ru，俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮） 批次） | OEM Core Switching Solution — I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G | Elsa 箱群发 BCC 触达证据（命中地址 in@trassir.ru, trassir.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-08-26 | 去 | Elsa 群发（BCC；To sales@cmd-sec.ru，俄罗斯-3（锚 cmd-sec.ru；2025-02-21 起月轮，15 轮） 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 in@trassir.ru, trassir.ru）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 自己的型号 商业POE | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | TRASSIR - видеонаблюдение и интеллектуальная видеоаналитика для бизнеса / Внедрение модулей видеоаналитики — Компания TRASSIR - это полный спектр решений по видеонаблюдению и интеллектуальной видеоаналитики для любого бизнеса. У нас можно заказать внедрение видеоаналитики "под ключ". Предлагаем комп | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -127,9 +128,10 @@ updated: 2026-10-29
   > 自己的型号 商业POE
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Олейник Игорь Валерьевич（Генеральный директор / 100% 股东 ООО «ДССЛ»（2010–；rusprofile；集团 DSSL / TRASSIR）= 拍板人（in@trassir.ru 点名网络产品线采购）（第 113 批 官方登记核实 2026-10-28）） 〔https://www.rusprofile.ru/id/2917866〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

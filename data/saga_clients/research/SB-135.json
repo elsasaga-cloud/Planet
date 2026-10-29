@@ -27,10 +27,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "官网未检索到 · 仅表内信息"
+  "level": "官网未检索到 · 仅表内信息 + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Labor Mühendislik（域名无搜索结果；1 次检索未命中任何同名实体 → 未坐实）",
@@ -93,6 +94,14 @@
     "quote": "不会英文，要工业级POE交换机， 拿了彩页，让发价格表 / Ramazan DAS / info@labormuhendislik.com.tr",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Anasayfa | Labor Elevator",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://labormuhendislik.com.tr/"
    }
   ],
   "proof_gaps": [
@@ -103,5 +112,33 @@
    "body": "Ramazan Bey, ISAF'ta istediğiniz endüstriyel PoE switch fiyat listesi: DIN ray 8 port PoE+ + 2 SFP 59,8 USD; 4 port PoE + 1 SFP 35,5 USD; yönetilebilir (L2+) 8 port PoE+ + 2 SFP 137,5 USD (EXW, MOQ 1, 15 gün geçerli). Projeniz için hangi port sayısı öncelikli?\n\nSaygılarımla,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:23:43Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@emekelektronik.com",
+   "info@laborelevator.com",
+   "info@labormuhendislik.com"
+  ],
+  "phones": [
+   "+90 (412) 257 63 26",
+   "+90 (541) 257 63 26"
+  ],
+  "social": [
+   "https://www.facebook.com/labormuhendislik",
+   "https://www.instagram.com/labormuhendislik",
+   "https://www.linkedin.com/in/labormuhendislik",
+   "https://www.twitter.com/labormuhendislik"
+  ],
+  "models_on_site": [],
+  "url": "https://labormuhendislik.com.tr/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -42,10 +42,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：deep。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "11 Atir Yeda St, Kfar Saba 4442510, Israel（+ 2472 Southwell Rd, Dallas TX 75229；Medley FL 物流；深圳宝安办公室）",
@@ -144,5 +145,12 @@
   },
   "as_of": "2026-10-24"
  },
- "country_fix": "以色列"
+ "country_fix": "以色列",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:38:16Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ }
 }

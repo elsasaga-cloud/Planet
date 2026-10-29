@@ -40,10 +40,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  "level": "B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Art Sistem Bilgisayar ve Güvenlik Teknolojileri Ltd. Şti.（LinkedIn 写 A.Ş. 待核；MERSİS 未取）",
@@ -116,6 +117,14 @@
     "quote": "（空）",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Art Sistem · Türkiye'nin lider teknoloji dağıtıcısı — 22 yıldır 135 küresel markayı 5.000+ bayiye ulaştırıyoruz. Bilgisayar, güvenlik, ağ ve baskı çözümlerinde tek tedarikçi.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.artsistem.com/"
    }
   ],
   "proof_gaps": [],
@@ -131,5 +140,37 @@
   "note": "土耳其大型 IT 分销商 Art Sistem（22 年，135 品牌，5,000+ 经销商；含安防 / 网络）：分销 ✔ 对位 ✔ 四主区 → 留 B",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": []
+ "override_history": [],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:44:57Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "destek@artsistem.com"
+  ],
+  "phones": [],
+  "social": [
+   "https://tr-tr.facebook.com/ArtSistem",
+   "https://tr.linkedin.com/company/artsistem",
+   "https://wa.me/902125525242",
+   "https://www.instagram.com/artsistem/"
+  ],
+  "models_on_site": [
+   "ST2000VX017",
+   "RG-RAP2200",
+   "SEDC600M",
+   "DS-530III",
+   "TP-7610",
+   "ID-100",
+   "SR650",
+   "DL380"
+  ],
+  "url": "https://www.artsistem.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

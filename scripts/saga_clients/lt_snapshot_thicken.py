@@ -109,9 +109,9 @@ def thicken_saga(code, dg, ent, date, dry, valid):
         if bs != (j.get('brands_seen') or []):
             j['brands_seen'] = bs
             acts.append('brands_seen')
-        sc = {'emails': dg.get('emails') or [], 'phones': dg.get('phones') or [], 'social': dg.get('social') or [],
-              'models_on_site': dg.get('models') or [], 'kw': dg.get('kw') or {}, 'url': dg.get('final_url') or '', 'date': date,
-              'note': '官网公开页抓取；只作证据 / 路径备选，未写入群发邮箱'}
+        sc = {'emails': (dg.get('emails') or [])[:5], 'phones': (dg.get('phones') or [])[:3], 'social': (dg.get('social') or [])[:4],
+              'models_on_site': (dg.get('models') or [])[:8], 'url': dg.get('final_url') or '', 'date': date,
+              'note': '官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱'}
         if sc['emails'] or sc['phones'] or sc['social'] or sc['models_on_site']:
             j['site_contacts'] = sc
             acts.append('site_contacts')
@@ -150,7 +150,7 @@ def thicken_saga(code, dg, ent, date, dry, valid):
             fails.append(date)
         ws = j.get('website_status') or ''
         if not ws or any(k in ws for k in PLACEHOLDER) or ws.startswith('域名 '):
-            j['website_status'] = f"快照失败（{dg.get('status_cn') or dg['status']}，{date}，第 {len(fails)} 次）"
+            j['website_status'] = f"快照失败（{dom}：{dg.get('status_cn') or dg['status']}，{date}，第 {len(fails)} 次）"
             acts.append('website_status')
         acts.append(f"fail#{len(fails)}")
     seen['consumed'] = (seen.get('consumed') or []) + [dg['fetched_at']]
@@ -207,7 +207,7 @@ def thicken_external(code, dg, rec, date, dry, store):
         fails = seen.setdefault('fails', [])
         if date not in fails:
             fails.append(date)
-        card['alive'] = f"快照失败（{dg.get('status_cn') or dg['status']}，{date}，第 {len(fails)} 次）"
+        card['alive'] = f"快照失败（{dom}：{dg.get('status_cn') or dg['status']}，{date}，第 {len(fails)} 次）"
         acts += ['alive', f'fail#{len(fails)}']
     seen['consumed'] = (seen.get('consumed') or []) + [dg['fetched_at']]
     card['round'] = BATCH

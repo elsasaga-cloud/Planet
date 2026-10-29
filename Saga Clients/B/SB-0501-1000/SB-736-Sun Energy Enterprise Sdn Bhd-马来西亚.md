@@ -64,6 +64,7 @@ updated: 2026-10-29
 | 2025-11-19 | 去 | Elsa 群发（BCC；To desmond@multitradepac.com） | Industrial PoE Switch（Elsa 群发第 6/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com） | 第 74 批(n) `from:e.sagatelecom to:sunenergy.com.my` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2026-09-08 | 去 | Elsa 群发（BCC；To desmond@multitradepac.com） | 24 Port PoE Managed Switch（Elsa 群发第 7/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(n) `from:e.sagatelecom to:sunenergy.com.my` 命中行 To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：马来西亚本地做安防的 会说中文，对交换机有兴趣 特别关心电源输入（最大值）和防雷的问题 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Sun Energy Enterprise Sdn. Bhd. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -132,9 +133,10 @@ updated: 2026-10-29
   > 兴趣：马来西亚本地做安防的 会说中文，对交换机有兴趣 特别关心电源输入（最大值）和防雷的问题
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Tan Chan Sun（陈先生）（Managing Director（研究档；陈先生，会中文 → 英文稿；关心电源输入上限与防雷）= 拍板人 / 收件人 — 一页纸一次：集成商 25% B、STI 导轨机 DC 输入范围 / 浪涌等级按规格书逐条答、STC-2216GP / 2224GP 摄像机 PoE 一口价 + MOQ 1 + 付费样机 — 马来西亚常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、SIRIM 不声称（第 119 批 官方登记核实 2026-10-28））chansun@sunenergy.com.my +60 12 268 2818〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照空页 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照空页 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

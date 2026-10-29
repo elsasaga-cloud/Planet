@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2026-08-14 | 去 | A 箱（Alan） | 24 Port PoE Managed Switch | 最近一封去信（邮箱索引；去信共 26 封） | `074d336ab7855dba` |
 | 2023-12-25 | 来 | info@securasound.co.uk | Automatic reply: Din Power Supply｜Our Offices are now closed and will reopen at 9am on Tuesday 2nd January 2024 – Any orders placed will not be dispatched | 自动回复/退信（机器，不算人工回复） | `c899d22bff81b409` |
 | 2024-05-14 | 来 | info@securasound.co.uk | Automatic reply: Industrial poe switch｜If you have sent us images of a product to identify we will generally respond to you within 1 working day. Please check  | 自动回复/退信（机器，不算人工回复） | `ce7192e0322a174b` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Welcome to Securasound \| Securasound Limited | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -145,9 +146,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Jason Wainwright（General Manager（家族二代；实际经营）= 收件人本人（第 103 批 官方登记核实 2026-10-28））jason@securasound.co.uk 〔用户表〕
 - **KP**：Philip Anthony John Wainwright（Managing Director / Director / PSC（创办人；b. 1946-06）= 拍板人（第 103 批 官方登记核实 2026-10-28）） 〔https://find-and-update.company-information.service.gov.uk/company/02111547/officers〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

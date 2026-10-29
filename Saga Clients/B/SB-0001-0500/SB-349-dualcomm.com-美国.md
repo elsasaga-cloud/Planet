@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2026-10-01 | 去 | A/S 群发 | Industrial PoE Switch、Managed Optical Bypass Switch | 31 封 / 0 次打开 / 0 回｜首封 2024-06-25 → 末封 2026-10-01（31 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | MC FS 工业MC EOC 标价很高 最近在上新品 自己的牌子 | 表内备注 | `用户表` |
 | 2026-10-01 | 去 | A 箱（Alan） | Managed PoE Switches | 本日去信真实主题（邮箱索引 af3e41b2c6f950b7；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `af3e41b2c6f950b7` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Network Taps for Capturing and Monitoring Network Traffic – Dualcomm — A Network Tap (Test Access Point), or Ethernet Tap, is a hardware device placed inline along a network link to capture live data traffic across the network link, which is sent to security or monitoring tools. Dualcomm designs and | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -147,9 +148,10 @@ updated: 2026-10-29
   > MC FS 工业MC EOC  标价很高 最近在上新品    自己的牌子
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Ziqiang (John) He（CEO / Secretary / CFO / Director / Registered Agent（加州 SoS 2772255 五职一人；官网「创始人 John He」，网络 TAP 发明人）= **老板 = 唯一联系人** —— 一人工程师公司，主业网络 TAP / 同轴传以太网，PoE 交换机只是配套 SKU → B 不加厚；若写只写一句 Dualcomm 标 8 口 PoE OEM 30% 单价 + MOQ 1 箱（第 92 批 官方登记核实 2026-10-28）） 〔https://www.bizprofile.net/ca/danville/dualcomm-technology-inc〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

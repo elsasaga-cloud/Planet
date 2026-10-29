@@ -61,6 +61,7 @@ updated: 2026-10-29
 | 2025-04-11 | 去 | A 箱（Alan） | 8 Port Industrial PoE Switch | 首封去信（邮箱索引；去信共 15 封） | `eef96240e0f14528` |
 | 2026-09-23 | 去 | A 群发 | 10G Enterprise SFP Switch、8 Port Industrial PoE Switch | 15 封 / 1 次打开 / 0 回｜首封 2025-04-11 → 末封 2026-09-23（15 去 / 0 来） | `gmail_digest` |
 | 2026-09-23 | 去 | A 箱（Alan） | Managed PoE Switches | 最近一封去信（邮箱索引；去信共 15 封） | `e9d6cad1b5da85cc` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Mobile Videoüberwachung \| 24/7 Leitstelle \| LivEye Schutz — LivEye: Professionelle mobile Videoüberwachung mit 24/7 deutscher Leitstelle ✓ KI-gestützte Sicherheitssysteme ✓ Autarke Kameras ✓ DSGVO-konform ✓ Europaweit | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -157,9 +158,10 @@ updated: 2026-10-29
 - **KP**：Carsten Simons（Geschäftsführer（2021-03 登记单独代表权；创始人型）= 老板（第 93 批 官方登记核实 2026-10-28））info@liveye.com（公司公开） —〔https://git-sicherheit.de/de/business-partner/liveye-gmbh/〕
 - **KP**：Markus Diederichs（Geschäftsführer（**2025-09 起**，与 Carsten Simons 共同；前 BDO Cyber Security；主推「自研 / 德国制造 / 主权」；HRB 44506 Wittlich）= 新拍板人（第 93 批 官方登记核实 2026-10-28））—（未公开） —〔https://www.dersicherheitsdienst.de/news/565-liveye-beruft-markus-diederichs-in-die-geschaeftsfuehrung〕
 - **调研后定级**：A（原自动 A）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌
-- 备注：WA 季度触达。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+WA 季度触达。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 行业媒体核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 行业媒体核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

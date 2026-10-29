@@ -61,7 +61,7 @@
    "source": "https://www.zaubacorp.com/DNC-TECHNOSOLUTIONS-PRIVATE-LIMITED-U33125KL2013PTC034130"
   }
  ],
- "notes": "A 维持（2 次实质回复 + 自有品牌 + 官网电话即 WhatsApp）；主需求 MC 与 VC：P1 = STI-110GE（MC）贴牌 30%；VC/HDMI 光端机 Saga 不做，如实说明。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：fail#1。\nA 维持（2 次实质回复 + 自有品牌 + 官网电话即 WhatsApp）；主需求 MC 与 VC：P1 = STI-110GE（MC）贴牌 30%；VC/HDMI 光端机 Saga 不做，如实说明。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
@@ -205,5 +205,14 @@
    "body": "Hello DNC team,\n\nFor the DNC 4-PoE + 1-FX switch and the MC-10100G converter slots, two units in DNC packing from small lots, CE/RoHS (BIS stays on your side): DIN-rail 4 x Gigabit PoE+ + 1 x Gigabit RJ45 + 1 x SFP, unmanaged, -40 to 75 C - model STI-154GP - $40.8 USD EXW with your logo (MOQ 1, 15-day validity); industrial Gigabit media converter, 1 x RJ45 + 1 x SFP slot (or fixed SC 20 km) - STI-110GE - $26.5. Logo on the unit is free; colour box from 200 sets.\n\nOne question: which of the two do you ship more of today - the 4-PoE switch or the converter?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:15Z"
+  ],
+  "fails": [
+   "2026-10-21"
+  ],
+  "batch": "LT-T03"
  }
 }

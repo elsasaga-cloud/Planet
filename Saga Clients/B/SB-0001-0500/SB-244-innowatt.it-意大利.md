@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2026-09-16 | 去 | A/S 群发 | Industrial PoE Switch、Marvell Industrial Alert System | 22 封 / 1 次打开 / 0 回｜首封 2024-06-28 → 末封 2026-09-16（22 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS 中科德能的 | 表内备注 | `用户表` |
 | 2026-09-16 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 3016573139791dd0；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `3016573139791dd0` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Innowatt - Tecnologia innovativa al tuo servizio — Innowatt è un brand italiano di materiale elettrico, tecnologico e di sicurezza. La mission di Innowatt è di migliorare lo stile di vita delle persone, fornendo soluzioni innovative che semplificano l'utilizzo della tecnologia con particolare attenz | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -144,9 +145,10 @@ updated: 2026-10-29
 - **【用户表】工业 FS 中科德能的**
   > 工业FS 中科德能的；可以尝试多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

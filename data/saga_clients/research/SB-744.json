@@ -38,10 +38,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  "level": "B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "COMMANDO Networks Private Limited（印度 CIN U74999MH2015PTC261514；美国 COMMANDO Networks Inc. 仅注册代理地址 1007 N Orange St, Wilmington DE）",
@@ -124,11 +125,51 @@
     "quote": "兴趣：Cisco switch MC SFP 工业FS 北京 深圳有办事处",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "COMMANDO is a technology company focused on networking hardware — &#10004; Switching &#10004; Routing &#10004; Wireless &#10004; Network Accessories, Access Points, Media Converters, SFP Modules, PoE Injectors, Fiber Cables and Networking Accessories.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://commandonetworks.com/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
  },
- "country_fix": "印度"
+ "country_fix": "印度",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:46:47Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "support@commandonetworks.com"
+  ],
+  "phones": [],
+  "social": [
+   "https://t.me/s/commandonetworks",
+   "https://www.facebook.com/profile.php?id=61564378755642",
+   "https://www.instagram.com/commando.networks",
+   "https://www.linkedin.com/company/commandonetworks/"
+  ],
+  "models_on_site": [
+   "IEEE802",
+   "IE3000",
+   "IE1000",
+   "E300-8GP-2SFP",
+   "E300-8GP-2G",
+   "C3000-24GP-4X",
+   "IEEEE802",
+   "IE1000-8GP-2SFP"
+  ],
+  "url": "https://commandonetworks.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

@@ -24,7 +24,7 @@ s_mail: 14 msgs (out 14 / in 0), 2024-11-12 -> 2026-03-09
 p1: STI-280GE
 price_tier: 20%
 research: done
-site_snapshot: ok  # 2026-10-21
+site_snapshot: mismatch  # 2026-10-21
 sources: 1
 updated: 2026-10-29
 ```
@@ -36,7 +36,7 @@ updated: 2026-10-29
 - **历史互动**：推送 10 次（2025-02-11 → 2025-10-27）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 三旺工业 FS 经销 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）、工业千兆 MC STI-110GE（$22.4）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-05-02 $300（48 Port PoE Managed Switch）、2025-09-22 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Alongside the 3onedata industrial switches you carry, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches plus gigabit MCs (−40~75 °C, FCC/CE/RoHS) from single units, EXW USD — which industrial SKU do your customers reorder most?
-- **最大未知**：年走量与现供应商
+- **最大未知**：公司官网（表内域名经核实不属于本客户；真实官网未知）
 - **下一步**：群发节奏 A 邮箱 观察打开
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
@@ -55,6 +55,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-03-09 | 去 | A/S 群发 | Marvell Alleycat5 Solution、48 Port PoE Managed Switch | 14 封 / 0 次打开 / 0 回｜首封 2024-11-12 → 末封 2026-03-09（14 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 3旺的工业FS | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | EU.COM \| The Smart Domain Choice for Expanding into Europe — Establish your footprint in Europe with .EU.COM — an unrestricted, globally accessible domain. No residency barriers, just premium availability for businesses and brands. Claim yours today! | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -123,9 +124,10 @@ updated: 2026-10-29
 - **【用户表】三旺工业 FS；着重跟**
   > 3旺的工业FS；可以着重跟一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -142,14 +144,12 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-280GE（20% 档）——三旺工业 FS 经销 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）、工业千兆 MC STI-110GE（$22.4）
 - **邮件切入句（英文）**：Alongside the 3onedata industrial switches you carry, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches plus gigabit MCs (−40~75 °C, FCC/CE/RoHS) from single units, EXW USD — which industrial SKU do your customers reorder most?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名误配（快照到的网站不是本客户））
 
-- **首页**：https://eu.com/　语言：en　站点地图 URL 数：7
-- **标题**：EU.COM / The Smart Domain Choice for Expanding into Europe
-- **描述**：Establish your footprint in Europe with .EU.COM — an unrestricted, globally accessible domain. No residency barriers, just premium availability for businesses and brands. Claim yours today!
-- **首页栏目**：The global domain for Europe / Why choose .EU.COM? / UNRESTRICTED GLOBAL ACCESS / EUROPEAN MARKET VISIBILITY WITH GLOBAL REACH / SEO & MARKET ACCESSIBILITY / PREMIUM AVAILABILITY / SEAMLESS EXPANSION FOR BUSINESSES & STARTUPS / .EU.COM – The global domain for Europe
-- 首页正文摘录：Menu Register Why .EU.COM? Live Sites WHOIS Contact Us Report Abuse The global domain for Europe Search Loading results... Why choose .EU.COM? UNRESTRICTED GLOBAL ACCESS Unlike .eu , which requires registrants to be located in an EU country, .EU.COM is open to everyone, anywhere —no residency or business requirements needed. EUROPEAN MARKET VISIBILITY WITH GLOBAL REACH With .EU.COM , businesses can establish a clear 
-- 数据文件：`data/saga_clients/site_snapshots/SB-753.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
+- 尝试域名：eu.com, profichipusa.com
+  > True
+- **提示**：人工核对后判定表内域名不属于本客户（见上方说明），本客户以邮箱/电话为准；快照内容不采用。
+- 数据文件：`data/saga_clients/site_snapshots/SB-753.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -280,6 +280,7 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
+- [ ] 公司官网（表内域名经核实不属于本客户；真实官网未知）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

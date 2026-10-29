@@ -56,6 +56,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | Neil Rule / CEO；Address: PH, CEBU, UNIT 202 HTY BLDG., 57 J.C. ZAMORA ST., PARI-AN 6000；2024.8.14 10G MC → 单多模价格一样吗？ | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Agile Networks - Boundless Internet & Interoffice Connectivity — Agile Network Builders LLC is a leading provider of broadband internet and telecommunications solutions in Ohio. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来；用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -115,9 +116,10 @@ updated: 2026-10-29
   > Neil Rule / CEO；Address: PH, CEBU, UNIT 202 HTY BLDG., 57 J.C. ZAMORA ST., PARI-AN 6000；2024.8.14 10G MC → 单多模价格一样吗？
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Neil Rule（CEO（表内）= 收件人 — 一页纸一次：集成商 25% B、STC-110XGE 一口价（光模块不供明说）+ STC-228GP + 付费样机 — 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉、NTC 不声称（第 120 批 官方登记核实 2026-10-29））ph.agilenetwork@gmail.com +63 917 322 5477（WA 已加）〔用户 Clients 表〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（域名误配判定 + 需求映射））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（域名误配判定 + 需求映射） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

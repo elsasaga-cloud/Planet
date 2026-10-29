@@ -43,10 +43,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  "level": "B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "ROBOfiber, Inc.",
@@ -121,6 +122,14 @@
     "quote": "兴趣：MC SFP（主要） FS 自己的牌子 别人在卖他们的产品",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "ROBOfiber, Inc. - Your complete store for optical transceivers and hardened industrial Ethernet networking devices — ROBOfiber manufactures high quality fiber optic pluggable transceivers in a large variety of formats and speeds, including 400G, 100G, 40G, 10G, Gigabit, Fast Ethernet, SONET and Fibr",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://robofiber.com/"
    }
   ],
   "proof_gaps": [],
@@ -129,5 +138,32 @@
    "body": "Hello,\n\nWe have sent you a few mails on \"Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the ROBOfiber switch and media-converter lines — DIN units (2-SFP + 8-PoE, 1-SFP MC) under your label from small lots, FCC/CE; who owns product sourcing for the non-transceiver SKUs?\n\nReference price: DIN-rail 8-PoE + 2 SFP unmanaged industrial switch, 240 W (STI-288GP) $60 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:39:56Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [
+   "000-85 1000"
+  ],
+  "social": [],
+  "models_on_site": [
+   "QSFP28",
+   "SFP28",
+   "HC-1002-SFP-PSE-BT",
+   "HGW-401S-PSE",
+   "HGW-2402A-PSE",
+   "HC-1002-SFP-PSE",
+   "HGW-802S-PSE",
+   "HGW-402LM-PSE"
+  ],
+  "url": "https://robofiber.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

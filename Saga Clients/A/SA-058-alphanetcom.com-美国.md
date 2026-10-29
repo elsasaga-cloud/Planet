@@ -67,6 +67,7 @@ updated: 2026-10-29
 | 2025-09-26 | 来 | Nate | How much do they cost? | 第三轮 | `1a6a105db1142c5f` |
 | 2025-09-27 | 去 | Alan | 280usd/pc. STC-4168XGGCM 4*1G/2.5G/10G SFP+16*1G SFP+8*1G SFP/RJ45 Combo | 报价后无回 | `75205f906d867c11` |
 | 2026-09-08 | 去 | Elsa 群发（BCC；To sales@solimedia.net，US-3 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 alphanetcom.com, nate.cline@alphanetcom.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | San Antonio Network Cabling & Fiber Installation \| Alpha Net — Alpha Net Communications provides structured cabling, fiber optic installation, business phone systems, wireless networking, cameras, access control, and network services in San Antonio, Austin, and South Texas. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -167,9 +168,10 @@ updated: 2026-10-29
   > Extreme Networks Gigabit Switch HP ProCurve Gigabit Switch Service Design and Installation
   > 来源：https://www.alphanetcom.com/san-antonio-structured-cabling.html（抓取 2026-10-21）
 - **KP**：Nathan "Nate" Cline（President（2013 起）/ Yelp 店主 = 老板（第二代；创始人 Thomas J. Cline 1986 创立、2012 退休）（第 84 批 官方登记核实 2026-10-27））nate.cline@alphanetcom.com +1 210-654-0653〔https://www.alphanetcom.com/（Contact 区块）〕
-- 备注：美国主攻区、集成商、已回复。用户记录称其'工业 switch 分销商、供应商多、产品面广'——官网显示更偏布线承包+项目集成。P1：STC-424DGGPM-280W（摄像/门禁项目 24 口 PoE），项目价阶 25%；需 FCC 文件，不承诺 UL。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+美国主攻区、集成商、已回复。用户记录称其'工业 switch 分销商、供应商多、产品面广'——官网显示更偏布线承包+项目集成。P1：STC-424DGGPM-280W（摄像/门禁项目 24 口 PoE），项目价阶 25%；需 FCC 文件，不承诺 UL。
 
-### 加厚挖掘（2026-10-21 · 深挖 v2（官网核对 + KP））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网核对 + KP） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

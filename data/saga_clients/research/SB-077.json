@@ -70,11 +70,12 @@
  ],
  "grade_override": "A",
  "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌",
- "notes": "WA 季度触达。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\nWA 季度触达。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + 行业媒体核对）"
+  "level": "B 级加厚 v1（官网 + 行业媒体核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "LivEye GmbH（AG Wittlich HRB 44506；USt DE321392908；D-U-N-S 315185493；控股 LivEye Beteiligungs GmbH HRB 46290）",
@@ -169,6 +170,14 @@
     "quote": "Managed PoE Switches",
     "why": "最近一封去信（邮箱索引；去信共 15 封）",
     "k": "e9d6cad1b5da85cc"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Mobile Videoüberwachung | 24/7 Leitstelle | LivEye Schutz — LivEye: Professionelle mobile Videoüberwachung mit 24/7 deutscher Leitstelle ✓ KI-gestützte Sicherheitssysteme ✓ Autarke Kameras ✓ DSGVO-konform ✓ Europaweit",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.liveye.com/"
    }
   ],
   "proof_gaps": [
@@ -186,5 +195,37 @@
    "prev_reason": "无具体需求信号、0 回复 / 7 次 → 慢跟（德国主攻区故保留 B）。",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌"
   }
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:23:01Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "alarmcenter@liveye.com",
+   "c.mildenberger@liveye.com",
+   "info@liveye.com"
+  ],
+  "phones": [
+   "+41 44 561609 0",
+   "+48 22 300 80 98",
+   "+49 (0) 6502 4034722"
+  ],
+  "social": [
+   "https://de.linkedin.com/company/liveye-gmbh",
+   "https://www.facebook.com/LivEyeGmbH",
+   "https://www.instagram.com/liveye_mobilevideosicherheit/",
+   "https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAABvIP3ABXah-psSnm-4Z31xv8UVMBQ5z_Q8&keywords=andreas%20valtin&origin=RICH_QUERY_SUGGESTION&position=0&searchId=5c57b73d-6ec8-4c1b-beb4-498764a346eb&sid=SzL&spellCorrectionEnabled=false"
+  ],
+  "models_on_site": [
+   "ISO-27001",
+   "BUC-36"
+  ],
+  "url": "https://www.liveye.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

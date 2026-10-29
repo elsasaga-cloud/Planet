@@ -63,6 +63,7 @@ updated: 2026-10-29
 | 2026-04-01 | out | Elsa → vijay@jtoptics.com | Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 7/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:jtoptics.com` 全程 complete：7 轮直收（头 msg 19d474509a528d08 无 Bcc，称呼「Hi, Vijay」）；0 回 | `elsa_1to1` |
 | 2026-09-23 | 去 | A 群发 | 24 Port PoE Managed Switch、16 Port Ethernet Switch | 6 封 / 0 次打开 / 0 回｜首封 2025-04-04 → 末封 2026-09-23（6 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：Simon之前联系了很久了 价格敏感 让发工业MC的价格 报了25说贵 说是在和另外一个来展会的公司合作，应该是BTON（百通） | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | JAYANI TECHNOLOGIES LLP l WWW.JTOPTICS.COM — Jayani Technologies LLP, operating under the JTOptics brand, is a leading provider of fiber optic solutions and network connectivity products. We offer high-performance ... | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -137,9 +138,10 @@ updated: 2026-10-29
   > 兴趣：Simon之前联系了很久了 价格敏感 让发工业MC的价格 报了25说贵 说是在和另外一个来展会的公司合作，应该是BTON（百通）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Vijay Jankiprasad Gupta（Designated Partner / Founder & CEO Jayani Technologies LLP（DIN 05103167；2011-11-17–）— 价格敏感 + 已选他家 → 不动（第 114 批 官方登记核实 2026-10-28））vijay@jtoptics.com +91 98193 91910〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

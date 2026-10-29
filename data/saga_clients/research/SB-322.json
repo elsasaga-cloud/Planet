@@ -37,10 +37,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对：OEM 意向）"
+  "level": "B 级加厚 v1（官网快照核对：OEM 意向） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "台灣黑熊網路安全股份有限公司 BlackBear (Taiwan) Industrial Networking Security Ltd.（統編 83305324；新竹縣竹北市東興路一段146號 = Atop 同址；代表人 謝秋蓮）+ BlackBear TechHive Japan 株式会社（法人番号 8010401158437；東京都港区六本木3-6-9）",
@@ -115,6 +116,14 @@
     "quote": "兴趣：日本的，会中文，POE switch，在韩国有代理商，产品在台湾生产，问了我们是否有OEM ODM",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Home｜BlackBear Cyber Security - Your Security isOur Duty — BlackBear Cyber Security: Unbreakable networks, critical infrastructure protection. Ideal solution for utilities' industrial cybersecurity.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://blackbear-ics.com/"
    }
   ],
   "proof_gaps": [],
@@ -124,5 +133,37 @@
   },
   "as_of": "2026-10-24"
  },
- "country_fix": "台湾"
+ "country_fix": "台湾",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:39:25Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "brenda.solano@blackbeartechhive.com",
+   "dewa@atop.com.tw",
+   "jenny.duong@blackbeartechhive.com",
+   "mohamed.hussien@xceltra.com",
+   "p.ghira@mexin.it"
+  ],
+  "phones": [
+   "+39 348 901 9351",
+   "+57 322 848 9815",
+   "+62 812 5954 4280"
+  ],
+  "social": [
+   "https://wa.me/84932751852",
+   "https://www.linkedin.com/company/blackbear-ics/"
+  ],
+  "models_on_site": [
+   "DD9000",
+   "BIG9000"
+  ],
+  "url": "https://blackbear-ics.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

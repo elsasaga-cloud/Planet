@@ -66,6 +66,7 @@ updated: 2026-10-29
 | 2026-04-03 | out | Elsa → sales@eminnovate.com | Industrial PoE Switch（Elsa 1:1 逐月名单第 4/5 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:sales@eminnovate.com` 全程 complete：5 轮直收；0 回 | `elsa_1to1` |
 | 2026-05-11 | out | Elsa → sales@eminnovate.com | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-10-21 | 用户表 | Simon | （用户表字段） | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | HOME \| EM Innovations | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：公司实体未核；（已核 2026-10-24，第 73 批）用户表「有回复·跟进中」= Elsa 邮箱这条（06-29 问后出线 → 06-30 答无 + 功能表 → 无下文），不是 WhatsApp
 
@@ -132,9 +133,10 @@ updated: 2026-10-29
 - **【用户表】美国；1 次实质回复；2 次跟进**
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（检索无果 · 待核））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（检索无果 · 待核） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

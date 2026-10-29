@@ -50,10 +50,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "韩国",
@@ -128,10 +129,45 @@
     "quote": "工业FS SFP模块 商业POE大口 MC 也有Diva这个牌子的；工业FS SFP模块 商业POE大口 MC 也有Diva这个牌子的 有Elink和洪瑞的",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "산업용무선 | 하이링크 | 대한민국 — 하이링크는 산업용무선 제품과 RF 무선 모뎀, 고객 맞춤형 펌웨어 개발을 통해 효율적인 빌딩/공장 자동화 네트워크 구축을 위한 유무선 종합 솔루션을 제공합니다. 건물 층간 및 건물과 건물, 각종 설비 사이의 안정적인 네트워크 구성을 위해 고품질 광접속, 접속 후 품질 검사, 정보통신공사 서비스를 제공합니다. 또한 우수한 백본 광 네트워크를 기반으로 편리하고 빠른 네트워크를 구성할 수 있도록 고속 케이블 자재 및 유무선 네트워크 장치, 소방/조명/시설관리를 위한 제어 전송 장치를 제공합니다.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.highlink.co.kr/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:42:45Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "support@highlink.co.kr"
+  ],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "IEEE802",
+   "RS232",
+   "DIVA-120AC-P",
+   "DIVA-WRM2",
+   "RS422",
+   "DIVA-IS0508K",
+   "DIVA-IS0516K",
+   "DIVA-IS0505K"
+  ],
+  "url": "https://www.highlink.co.kr/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -56,6 +56,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-30 | 去 | A 群发 | Managed Optical Bypass Switch、24 Port PoE Managed Switch | 17 封 / 0 次打开 / 0 回｜首封 2025-04-04 → 末封 2026-09-30（17 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：商业POE CCTV为主 很多配件 有ONV的 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Cámaras de Seguridad, Alarmas y Control de Acceso - IZUX — Compra cámaras de seguridad y vigilancia, alarmas AJAX, videoporteros, control de acceso y cerraduras electrónicas para hotel, hogar y negocio. Envío rápido y garantía oficial. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -119,9 +120,10 @@ updated: 2026-10-29
   > 兴趣：商业POE CCTV为主 很多配件 有ONV的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Igor Guimerá（Administrador único / Gerente（infonif：VIDAL GIMERA IGOR；LinkedIn Igor Vidal Guimerá）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28））comercial@izux.es +34 963 320 337〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

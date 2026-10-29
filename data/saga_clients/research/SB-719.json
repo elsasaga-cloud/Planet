@@ -42,10 +42,11 @@
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "200 Jalan Sultan #03-11 Textile Centre, Singapore 199018（+65 9021 9589；舊址 10 Anson Road #17-22 International Plaza）（第 116 批 官方登记核实 2026-10-28）",
@@ -127,6 +128,14 @@
     "quote": "16 Port Industrial PoE Switch",
     "why": "本日去信真实主题（邮箱索引 3aa7abbd661b453d；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
     "k": "3aa7abbd661b453d"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Trioms Technology - Technology Provider for Today and Tomorrow!",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.trioms.com/"
    }
   ],
   "proof_gaps": [],
@@ -135,5 +144,33 @@
    "body": "Hello Trioms team,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 17 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the industrial 10/100 media converter on your site (AOA today), a lower-priced equivalent, neutral-brand, at distributor price, EXW, from single units, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail Fast Ethernet converter, 1 x RJ45 + 1 x 100M fibre (SC standard, SFP slot optional) - model STI-110FE - $19.7 USD; Gigabit version, 1 x RJ45 + 1 x SFP slot - STI-110GE - $26.5.\n\nOne question: is the AOA unit still selling for you, and would a lower-priced equivalent fit the catalogue?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:46:33Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@trioms.com"
+  ],
+  "phones": [
+   "+6590219589"
+  ],
+  "social": [],
+  "models_on_site": [
+   "EWS-PRO-2",
+   "WS-32",
+   "EFM-INV2",
+   "LRX-1",
+   "ERL10-KIT1",
+   "RS485",
+   "LD-350"
+  ],
+  "url": "https://www.trioms.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

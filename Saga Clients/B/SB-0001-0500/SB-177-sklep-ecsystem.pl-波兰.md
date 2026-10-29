@@ -58,6 +58,7 @@ updated: 2026-10-29
 | 2026-09-01 | 去 | Elsa 群发（BCC；To biuro@zintronic.pl，PL 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 ecsystem.pl, esklep@ecsystem.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-09-25 | 去 | A/S 群发 | 10G Enterprise SFP Switch、16 Port Ethernet Switch | 19 封 / 0 次打开 / 0 回｜首封 2024-07-12 → 末封 2026-09-25（19 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：hasivo的商业级;商业PoE Hasivo的 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Sklep EC System \| Monitoring CCTV, Alarmy, Domofony, Sieci LAN/WLAN, PPoŻ — Sklep Eltcrac System - Systemy zabezpieczęń - SSWiN, Monitoring CCTV, Domofony, sieci WLAN/LAN. Rabaty hurtowe dla partnerów B2B. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -144,9 +145,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Daniel Ochman（电商 / 英文客服（ecsystem.pl 联系页「Customer service in English」）= 网店口 —— **改写 handel@ecsystem.pl（批发口）抬头 Daniel，抄 Prezes Mirosław Gabzdyl**；公司 = 克拉克夫安防集成商 + 自营网店（卖 Hasivo 等深圳 PoE）= 渠道不是品牌商 → **分销 20%**：STC-028GP / STC-228GP / STC-2224GP 对标 Hasivo 同口数，MOQ 1 箱，100% 预付（第 92 批 官方登记核实 2026-10-28））esklep@ecsystem.pl +48 792 580 660〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Mirosław Gabzdyl（Prezes Zarządu（rejestr.io；KRS 0000181283）= 老板，抄送（第 92 批 官方登记核实 2026-10-28）） 〔https://rejestr.io/krs/181283/eltcrac-system〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

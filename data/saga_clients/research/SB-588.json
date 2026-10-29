@@ -39,10 +39,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对：PLANET 十年渠道）"
+  "level": "B 级加厚 v1（官网快照核对：PLANET 十年渠道） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "WAN Company for Computer Network Design and Installation and Computer Trading Ltd.（DBA WAN Company for Networking Technology；库区登记号 1 查未得）",
@@ -110,6 +111,14 @@
     "quote": "兴趣：需要千兆工业POE 4/8/16口 和uniview合作了三年，和Planet合作了10年",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "WAN Company",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://wannt.krd"
    }
   ],
   "proof_gaps": [
@@ -118,5 +127,29 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:43:36Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [
+   "+964 53 321 0465",
+   "+964 770 436 8881",
+   "+964 770 436 8884"
+  ],
+  "social": [
+   "https://twitter.com/WanCompany",
+   "https://www.facebook.com/WanCompany/",
+   "https://www.youtube.com/channel/UCQgkkvGl8lo-ztHqPbSobpA?view_as=subscriber"
+  ],
+  "models_on_site": [],
+  "url": "https://wannt.krd",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

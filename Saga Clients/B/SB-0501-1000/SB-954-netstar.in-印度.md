@@ -55,6 +55,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2023-12-13 | 备 | Saga 内部印度线索表 List_2023.12.13.xlsx（存于 Fastball/Rishi 文件夹） | 名单行：「111 https://www.netstar.in/product-category/reverse-poe-switches/ 印度 谷歌 商业POE 基本是非标和反向的 switch@netstar.in」 | Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点 | `Drive PI 文件夹 2_印度_Rishi` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：商业POE POE配件 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Netstar | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来；用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -120,9 +121,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（交换机采购）（NETSTAR 交换机采购职能箱（WA 13 次无实质回复）= 收件人（第 114 批 官方登记核实 2026-10-28））switch@netstar.in +91 96876 88966〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Dharmesh Patel（Manager Infonet Technologies / NETSTAR（tradeindia）= 候选具名收件人（第 114 批 官方登记核实 2026-10-28）） 〔https://www.tradeindia.com/products/netstar-outdoor-reverse-poe-switch-with-fiber-uplink-port-single-fiber-sc-rpoe-switch-with-fiber-uplink-10-100mbps-7128379.html〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

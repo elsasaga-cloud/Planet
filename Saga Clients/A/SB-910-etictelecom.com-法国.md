@@ -62,6 +62,7 @@ updated: 2026-10-29
 | 2024-05-22 | 来 | Charles Chaussonnier | What is the price DDP for 10, 50, 100 units? | 三档量询价 | `1e2c24b00883813d` |
 | 2024-05-22 | 去 | Simon | Please see attached quotation. Please know that the quotation is NOT including customs clearance cost at your side. | 条款错位 | `320115425c459bcb` |
 | 2024-06-21 | 去 | Saga（Simon） | Hi, Charles, How are you? Any update about our offer last time? Not sure if you care about chip solution, we are using Marvell chip, basically one of the most expensive solutions on the market. Let me recommend a new unmanaged model(paralleled to the market prices). Feature: Support DIP dialing and… | Saga 实质答复原文（主题「Re: 24 port managed switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准 | `096d6be144a97e35` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Home \| Etic Telecom | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -137,7 +138,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线
 - **是谁**：法国工业通信设备制造商（1985 年起）：工业 VPN 路由器 IPL 系列、机器远程维护盒 RAS、SHDSL/SPE 以太网延长器 XSLAN/XELAN、VPN 集中器 SIG，以及**军规战术 SHDSL 交换机 XSMIL**（Airbus Defence & Space 选用）；市场为水务、能源、交通、城市基础设施与工业 4.0。其产品线没有常规千兆管理 PoE 交换机。用户表：S 重点，1 次实质回复，22 次跟进，**用户已判定「不行」**；联系人 Charles Chaussonnier。
-- **在卖/在用品牌**：Etic Telecom（自产）
+- **在卖/在用品牌**：Etic Telecom（自产）, Schneider, Siemens
 - **【官网】产品线构成**
   > Our product lines Machine Access Box RAS Family Industrial VPN router IPL Family Ethernet extender XSLAN/XELAN Family VPN servers SIG Family SHDSL tactical switch XSMIL family
   > 来源：https://www.etictelecom.com/en/（抓取 2024-01-03）
@@ -152,9 +153,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Charles Chaussonnier（Directeur Général（SIRENE / RNE；1966-09 生）= 联合拍板人（另一 DG Philippe Duchesne；总裁为控股公司 ETIC FINANCES 810380733）= 联系人本人就是总经理（第 86 批 官方登记核实 2026-10-27））charles.chaussonnier@etictelecom.com —〔用户表〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A4 Simon 点名
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网产品线核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网产品线核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -107,7 +107,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（http_error）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（BWsystems：HTTP 错误，2026-10-21，第 1 次）
 - **是谁**：德国 BWsystems（bwsystems.de；阿里巴巴 RFQ「2+8 千兆商业 PoE」；KP Hans Georg Werner；官网 http_error）；表内未跟进。
 - **类型**：系统集成商（德国，2+8 PoE RFQ）
 - **【用户表】表内兴趣/备注**
@@ -117,7 +117,8 @@ updated: 2026-10-29
   > 2+8千兆商业PoE / from: 阿里巴巴RFQ
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Hans-Georg Werner（Inhaber（Einzelunternehmen；USt-ID DE137120780）= 收件人本人（第 105 批 官方登记核实 2026-10-28））service@bwsystems.de 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

@@ -68,6 +68,7 @@ updated: 2026-10-29
 | 2025-02-22 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「工业 16 24口出货图」→ 对方「暂时没需求」 | Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」 | `Clients/A/DONE/PL 2.6.xlsx no.14 2025.2.22` |
 | 2025-04-18 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「marvell系列商业图」→ 对方「info」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A/DONE/PL 2.6.xlsx no.14 418` |
 | 2026-09-25 | 去 | A 群发 | Saga Q3 Product Links、24 Port PoE Managed Switch | 3 封 / 0 次打开 / 0 回｜首封 2026-07-15 → 末封 2026-09-25（3 去 / 0 来） | `gmail_digest` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Tricomp – Technologia z pasją | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -149,9 +150,10 @@ updated: 2026-10-29
   > 来源：https://www.gowork.pl/tricomp-sp.-z-o.o.,29703/dane-kontaktowe-firmy（抓取 2026-10-21）
 - **KP**：James Francis Ofwona（Prezes Zarządu（59 岁）+ **98 / 100 股** = 老板 = 联系人；代表方式 = 董事 + Prokurent（Grażyna Piekus）联签（第 86 批 官方登记核实 2026-10-27））contact@tricomp.com.pl（公开总机邮箱） +48 607 498 206〔D&B / gowork / Crunchbase〕
 - **调研后定级**：A（原自动 A）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌
-- 备注：重启只在其有项目时：一封'项目用 PoE 交换机 + 快交期'单问邮件（STC-424DGGPM-280W，项目 25%）。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+重启只在其有项目时：一封'项目用 PoE 交换机 + 快交期'单问邮件（STC-424DGGPM-280W，项目 25%）。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 需求映射））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 需求映射） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

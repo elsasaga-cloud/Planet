@@ -46,10 +46,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  "level": "B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "SKUA TECHNOLOGY, UNIPESSOAL LDA（NIPC 508525934；CRC Braga；资本 €25,000；CAE 46502；商号 SKUA Tech；DIPOL Ibéria 葡西代理）",
@@ -139,6 +140,14 @@
     "quote": "兴趣：MC FS SFP VC",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "IP CCTV, LAN, WLAN, TV, SAT TV, Antenas, Cabos - DIPOL — CCTV IP sem fios, SAT-TV, TP-Link, antenas, câmeras, cabos coaxiais, dispositivos de rede, cabos par trançado, UTP, FTP, interruptores, comutadores, DVRs, lentes, roteadores ADSL, conversores, aparelhos TP-Link. Nós emitir guias técnicos, a ap",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.dipol.pt/"
    }
   ],
   "proof_gaps": [],
@@ -147,5 +156,39 @@
    "body": "Hi Dipol,\n\nWe have sent you a few mails on \"2.5G Unmanaged Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the DIPOL Portugal CCTV range — a DIN-rail 2-SFP + 8-PoE industrial at $57 EXW and a Marvell L2+ 8-PoE + 2-SFP at $81; is product selection done in Braga or by DIPOL Poland?\n\nPrices are USD EXW, 2026-10-17 snapshot, valid 15 days.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:27:58Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "office@dipol.pt"
+  ],
+  "phones": [
+   "+351 253 618 579",
+   "+45 (0) -40",
+   "+50 (2) (1) -25"
+  ],
+  "social": [
+   "https://www.facebook.com/dipolnet",
+   "https://www.youtube.com/dipolpt"
+  ],
+  "models_on_site": [
+   "DVB-T2",
+   "IEEE802",
+   "MRP-504",
+   "MRP-512",
+   "MRP-908",
+   "MS-508",
+   "MS-900",
+   "MS-916"
+  ],
+  "url": "https://www.dipol.pt/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

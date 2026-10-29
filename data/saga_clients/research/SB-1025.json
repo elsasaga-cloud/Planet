@@ -48,10 +48,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "ul. Półłanki 27A, 30-740 Kraków（2026-02-01 起；旧址 Ruciana 3）",
@@ -117,10 +118,48 @@
     "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
     "why": "Elsa 箱群发 BCC 触达证据（命中地址 elfon.com.pl, zamowienia@elfon.com.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
     "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Domofony - Wideodomofony - Producent - Optima255 ELFON Systemy cyfrowe — Produkujemy domofony cyfrowe ELFON Optima, domofony analogowe, dwuprzewodowe, systemy domofonowe, wideodomofony, zasilacze i przekaÅºniki",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://elfon.com.pl/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:28:03Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "biuro@elfon.com.pl",
+   "biuro@labelia.com.pl",
+   "greon@elfon.com.pl",
+   "mnylec@elfon.com.pl",
+   "nexwei@elfon.com.pl"
+  ],
+  "phones": [
+   "+48 12 292 48 65",
+   "+48 12 292 48 70",
+   "+48 12 292 48 71"
+  ],
+  "social": [
+   "https://pl-pl.facebook.com/pages/ELFON-Systemy-Domofonowe/121307551306904"
+  ],
+  "models_on_site": [
+   "OP-H4"
+  ],
+  "url": "https://elfon.com.pl/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

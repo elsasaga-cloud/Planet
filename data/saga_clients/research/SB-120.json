@@ -38,10 +38,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对）"
+  "level": "B 级加厚 v1（官网快照核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Pronet (Pvt) Ltd（表内 Pronet Connectivity (Pvt) Ltd.；SECP 号 1 查未得）",
@@ -132,6 +133,14 @@
     "quote": "兴趣：protocol converter 需求产品较为低端；回复：商业FE GE 5/7usd,DS, profile",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Pronet Private Limited",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://pronet-tech.net/"
    }
   ],
   "proof_gaps": [
@@ -140,5 +149,33 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:23:34Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@linkquestme.com",
+   "info@pronet-tech.net"
+  ],
+  "phones": [
+   "+92-21)35822401-4",
+   "+92-21-35822401-4",
+   "+97143262916"
+  ],
+  "social": [
+   "https://frh.rtt.mybluehost.me/website_8cbc3c77/solutions/connected-cx/",
+   "https://frh.rtt.mybluehost.me/website_8cbc3c77/solutions/security/",
+   "https://www.facebook.com/ProNetPrivateLimited/",
+   "https://www.instagram.com/pronetpvtltd/?hl=en"
+  ],
+  "models_on_site": [],
+  "url": "https://pronet-tech.net/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

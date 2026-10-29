@@ -58,6 +58,7 @@ updated: 2026-10-29
 | 2025-02-24 | out | Elsa → info@reichelt.com | 16 Port Ethernet Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-09-23 | 去 | A 群发 | 10G Enterprise SFP Switch、8 Port Industrial PoE Switch | 16 封 / 0 次打开 / 0 回｜首封 2025-04-11 → 末封 2026-09-23（16 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS 有宇航的 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | notebooks, PC components, harddrives and electronic at reichelt — Purchase over 150,000 technology & electronics products online at reichelt.com . Fast delivery & reasonable prices - reichelt elektronik - technology connects. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -141,9 +142,10 @@ updated: 2026-10-29
   > 工业FS 有宇航的；可以着重跟一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Ulf Timmermann（Geschäftsführer（Sprecher）；收件人改 Einkauf / Produktmanagement 入口（第 103 批 官方登记核实 2026-10-28）） 〔https://www.companyhouse.de/en/Reichelt-Elektronik-GmbH-Sande〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -60,10 +60,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "保加利亚",
@@ -144,6 +145,14 @@
     "quote": "16 Port Industrial PoE Switch",
     "why": "本日去信真实主题（邮箱索引 35c9bac02d8024f8；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
     "k": "35c9bac02d8024f8"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Начало - Макстел — [:bg]МАКСТЕЛ предлага на своите клиенти богата гама от продукти за сигурност, видеонаблюдение, контрол на достъпа, комуникация и индустриално LED осветление.[:en]MAXTEL offers its customers a wide range of security products, video surveillance, access control, communication and in",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://maxtel.bg/"
    }
   ],
   "proof_gaps": [],
@@ -152,5 +161,35 @@
    "body": "Hi Evelin,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 10 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the ONV industrial PoE switches you carry, neutral-brand units at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, unmanaged, -40 to 75 C - model STI-288GP - $60 USD; the same L2 managed, Marvell-based - STI-288GPM - $78.9; commercial 8 x PoE+ + 2 x SFP, L2+ managed - STC-28DGGPM - $80.7.\n\nOne question: which industrial PoE SKU do your installers order most - managed or unmanaged?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:40:20Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@maxtel.bg",
+   "varna@maxtel.bg"
+  ],
+  "phones": [
+   "+359 2 806 0 806",
+   "+359 878 900 013"
+  ],
+  "social": [
+   "http://www.commax.com/eng/",
+   "https://twitter.com/",
+   "https://www.facebook.com/maxtel.bulgaria"
+  ],
+  "models_on_site": [
+   "ISO9001",
+   "ISO9002",
+   "ISO14001"
+  ],
+  "url": "https://maxtel.bg/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

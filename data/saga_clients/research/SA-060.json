@@ -75,11 +75,12 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "运营商终端用户，需求为带 bypass 的 2 光 10 电工业交换机（接入/塔站场景），美国关税与 FCC 适用。P1：STI 工业系列 2 光 10 电管理型（bypass 功能需向 SmartByte 核实是否支持，报价前核价），项目价阶 25%。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n运营商终端用户，需求为带 bypass 的 2 光 10 电工业交换机（接入/塔站场景），美国关税与 FCC 适用。P1：STI 工业系列 2 光 10 电管理型（bypass 功能需向 SmartByte 核实是否支持，报价前核价），项目价阶 25%。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v2（官网 + PeeringDB 核对）"
+  "level": "深挖 v2（官网 + PeeringDB 核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "FIBERX LLC（Puerto Rico，2016/17；Guaynabo PR；ISP + DC）",
@@ -207,6 +208,14 @@
     "quote": "SFI does NOT support DC input, while HSI does… HSI: 1250USD/PC, With MA License, EXCLUDING optical modules.",
     "why": "报价",
     "k": "5d26574728e757e2"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Homepage | FiberX — Our suite of Solutions designed for Large Corporations and Wholesale. Internet, cloud, security, transportation and telephony, meeting the highest standards",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://gofiberx.com/"
    }
   ],
   "proof_gaps": [],
@@ -215,5 +224,28 @@
    "body": "Hi, Ivan,\n\nIn June we quoted the CENTEC 24x10G + 2x100G L3 unit, HSI version (DC input), MA license included, at $1,250 USD EXW excluding optics, for the project that needs MPLS interop with H3C.\n\nThe price is re-confirmed for 15 days from this mail. Copying Emil.\n\nOne question: did that quote reach the H3C MPLS project, and is a test slot still open this year?\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:38Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@fiberx.net"
+  ],
+  "phones": [],
+  "social": [
+   "https://gofiberx.com/",
+   "https://gofiberx.com/cloud-services/",
+   "https://gofiberx.com/colocation-services/",
+   "https://gofiberx.com/dark-fiber/"
+  ],
+  "models_on_site": [],
+  "url": "https://gofiberx.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

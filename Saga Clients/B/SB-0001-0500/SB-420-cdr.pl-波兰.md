@@ -58,6 +58,7 @@ updated: 2026-10-29
 | 2026-09-01 | 去 | Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 biuro@cdr.pl, cdr.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-06 | 去 | A/S 群发 | 10G Enterprise SFP Switch、24 Port PoE Managed Switch | 15 封 / 0 次打开 / 0 回｜首封 2025-07-17 → 末封 2026-10-06（15 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：有一些switch;销售平台 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | CDR.pl - Dystrybutor dla operatorów internetowych. MikroTIK, Ubiquiti, TPLink, Anteny, Kable, Zasilanie — CDR - dystrybutor wysokiej jakości sprzętu dla operatorów internetowych i użytkowników domowych. Dogodne godziny urzędowania, zamówienia dokonane do godziny 16:30 realizowane tego samego dnia. P | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -139,7 +140,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（cdr.pl，快照 2026-10-21，波兰语）
 - **是谁**：波兰面向 ISP 运营商与家庭用户的网络设备分销商 / 网店（MikroTik、Ubiquiti、D-Link、Huawei、Teltonika、Cisco、Dahua；switch 70 / sfp 85 / poe 49；关联 atte.pl），Magdalena Milej；表内「有一些 switch，销售平台，质量一般」；群发 4 次无回复。
-- **在卖/在用品牌**：MikroTik, Ubiquiti, D-Link, Huawei, Teltonika, Cisco, Dahua
+- **在卖/在用品牌**：MikroTik, Ubiquiti, D-Link, Huawei, Teltonika, Cisco, Dahua, Grandstream, Hikvision, Netgear, TP-Link
 - **【官网快照】ISP 运营商设备分销商；品牌 MikroTik / Ubiquiti / D-Link / Huawei / Teltonika / Cisco / Dahua；biuro@cdr.pl / biuro@atte.pl**
   > CDR - dystrybutor wysokiej jakości sprzętu dla operatorów internetowych i użytkowników domowych… brands MikroTik, Ubiquiti, D-Link, Huawei, Teltonika, Cisco, Dahua
   > 来源：https://cdr.pl/（抓取 2026-10-21）
@@ -147,9 +148,10 @@ updated: 2026-10-29
   > 兴趣：有一些switch;销售平台
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Magdalena Milej（研究档 KP（销售）= 收件人（第 96 批 官方登记核实 2026-10-28））magdalena@cdr.pl 〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

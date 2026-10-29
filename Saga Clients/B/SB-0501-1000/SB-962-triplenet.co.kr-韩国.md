@@ -128,7 +128,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（unreachable）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（triplenet.co.kr：域名不可达（DNS/连接失败），2026-10-21，第 1 次）
 - **是谁**：韩国 Triplenet（triplenet.co.kr；表内「switch」；官网 unreachable，业务待核）；群发 23 次无回复。
 - **类型**：网络公司（韩国，待核）
 - **【用户表】表内兴趣/备注**
@@ -138,7 +138,8 @@ updated: 2026-10-29
   > switch
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：송광호 Song Kwang-ho（대표 트리플네트웍스(주) Triple Networks Co., Ltd.（triplenet.co.kr 页脚）— 业务不明，不动（第 115 批 官方登记核实 2026-10-28）） 〔http://www.triplenet.co.kr/〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

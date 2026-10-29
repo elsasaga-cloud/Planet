@@ -66,6 +66,7 @@ updated: 2026-10-29
 | 2025-09-08 | 去 | Saga（群发） | 「Industrial PoE Switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `a993a01057d0d553` |
 | 2025-09-09 | 来 | Brandon（brandonwadams@gmail.com） | I have used this POE in solar configurations, I like the overcurrent protection. Can you send pricing, Where is the product located, shipped from?（答「Industrial PoE Switch」STI-244GP 群发） | 点明用途（太阳能配置）与在意点（过流保护）+ 两个采购问题（价、发货地）——这是本户最实的一句话 | `gmail_a 88fd4f417fdf19ba` |
 | 2025-09-09 | 去 | Saga（Alan） | 1, yes, it is 3A max for input current. For over-current protection, its bigger than this… DIP is also an interesting function. 2, it will be shipped from China via DHL/UPS/FedEx. 3, price is 35usd/pc. STI-244GP: 2*Gigabit SFP+4*10/100/1000M RJ45, PoE af/at, 120W, Unmanaged, Support DIP, DC44V~DC57V (Removable 4 PIN Terminal Block), -40℃ to 75℃, Din mounted, Without optical module, without power adapter | 给了价没给运费档位；此后 Brandon 沉默，Saga 再群发 9 封无回 | `gmail_a 2c55cbead61c8075` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Avenger Security \| Austin, TX — Access Control, Fire & Monitoring — Austin commercial security: access control, fire alarms, video surveillance, and UL-listed 24/7 monitoring. No long-term contracts. Local install & service. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：DHL 2 台/10 台到 Austin 的运费档位（发信前查）；他 2025-09 说「used this PoE in solar configurations」——用的是谁家的（没问）
 
@@ -139,7 +140,7 @@ updated: 2026-10-29
 - **是谁**：德州奥斯汀的员工持股安防监控服务商（商业/住宅报警、消防报警、门禁、云视频监控、UL 中心站监控），服务奥斯汀/休斯敦/达拉斯/圣安东尼奥，<$5M 营收。用户表：A 已回复，2 次实质回复，兴趣商业 PoE，电话 (512) 563-5361。
 - **类型**：安防集成/安装商（小型，自装自用采购）
 - **规模**：<$5M（ZoomInfo）
-- **在卖/在用品牌**：Eagle Eye Networks, Brivo, Alula, Honeywell
+- **在卖/在用品牌**：Eagle Eye Networks, Brivo, Alula, Honeywell, Aruba, Ubiquiti
 - **【官网】业务与联系方式**
   > Austin commercial security: access control, fire alarms, video surveillance, and UL-listed 24/7 monitoring … email: info@getsecurityalarm.com
   > 来源：https://getsecurityalarm.com/（抓取 2026-10-21）
@@ -157,9 +158,10 @@ updated: 2026-10-29
   > 来源：https://securitytekton.com/pages/access-control-service（抓取 2026-10-21）
 - **KP**：—（总机 → 实际收件人 = Owner Brandon Walter Adams（TX 登记 0800828533，2007-05；微型报警装机商）（第 85 批 官方登记核实 2026-10-27））info@getsecurityalarm.com +1 512-563-5361〔https://securitytekton.com/pages/about-us〕
 - **KP**：Brandon Walter Adams（Founder / Owner（2004 创立，官网 About））—（未公开） +1 512-610-2698（公司）〔https://securitytekton.com/pages/about-us〕
-- 备注：A 维持（美国本土集成商 + 2 次实质回复），但单量小（自装项目用 8/16 口 PoE）；P1 = STC-28DGGPM，25% 集成商档；注意 UL：仅报 CE/FCC（Saga 无 UL）。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+A 维持（美国本土集成商 + 2 次实质回复），但单量小（自装项目用 8/16 口 PoE）；P1 = STC-28DGGPM，25% 集成商档；注意 UL：仅报 CE/FCC（Saga 无 UL）。
 
-### 加厚挖掘（2026-10-21 · 深挖 v2（官网 securitytekton.com + 目录核对））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网 securitytekton.com + 目录核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

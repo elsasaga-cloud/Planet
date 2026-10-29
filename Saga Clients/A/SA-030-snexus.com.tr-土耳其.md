@@ -65,6 +65,7 @@ updated: 2026-10-29
 | 2025-11-26 | 去 | Saga（群发） | 「Booster PoE Switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `7386567b0f7ec1c7` |
 | 2026-08-13 | 去 | A 箱（Alan） | 24 Port PoE Managed Switch｜稿内价 $170 | 去信正文含价（邮箱索引） | `5c79ffffc51eec37` |
 | 2026-09-17 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 最近一封去信（邮箱索引；去信共 17 封） | `6c17e8b243d49a3c` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Poe \| Snexus Networks \| İstanbul — Snexus Networks her ölçekteki işletmenin network ihtiyaçlarına yönelik çözüm üretme amacıyla geliştirilmiş bir ağ teknolojileri markasıdır. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文；在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）
 
@@ -176,9 +177,10 @@ updated: 2026-10-29
   > 来源：https://www.snexus.com.tr/en/endustriyel-switchler（抓取 2026-10-21）
 - **KP**：—（总机 → 法人为 HEMMAH GROUP BİLİŞİM VE MİMARLIK TİCARET LTD. ŞTİ.（Çekmeköy），品牌 Snexus Networks；品牌负责人 Erdem Timur Koca（第 85 批 官方登记核实 2026-10-27））info@snexus.com.tr +90 216 606 4445（webrate 登记）〔https://www.snexus.com.tr/en/iletisim〕
 - **KP**：Erdem Timur Koca（Snexus 品牌负责人（LinkedIn；官网销售合同卖方 = Hemmah Group）= 拍板人（第 85 批 官方登记核实 2026-10-27）） 〔https://www.snexus.com.tr/en/sözleşme〕
-- 备注：A 确认（土耳其自有品牌 + 展会面谈 + WhatsApp 在手），但极度价格敏感且索要免费样品；对位：其 SN-GS2300-28F（24+4SFP 网管）≈ STC-424DGGM；8 光 8 电商业级需向 SmartByte 确认有无对应款（无则如实说明并推 STC-28DGGPM 变体）。贴牌 30%，样品按价付费、批量返还样品费。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+A 确认（土耳其自有品牌 + 展会面谈 + WhatsApp 在手），但极度价格敏感且索要免费样品；对位：其 SN-GS2300-28F（24+4SFP 网管）≈ STC-424DGGM；8 光 8 电商业级需向 SmartByte 确认有无对应款（无则如实说明并推 STC-28DGGPM 变体）。贴牌 30%，样品按价付费、批量返还样品费。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1）
+### 加厚挖掘（2026-10-21 · 深挖 v1 + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

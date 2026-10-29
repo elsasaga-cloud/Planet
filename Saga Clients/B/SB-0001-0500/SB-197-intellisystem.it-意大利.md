@@ -56,6 +56,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-10-07 | 去 | A 群发 | Industrial PoE Switch、16 Port PoE Managed Switch | 17 封 / 0 次打开 / 0 回｜首封 2025-01-29 → 末封 2026-10-07（17 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：三旺的 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Intellisystem Technologies Home Page — Welcome on the Homepage of Intellisystem Technologies | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -131,9 +132,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Cristian Randieri（President & CEO / 创始人（官网 About Us；研究档误作 Walter Randieri）= 拍板人 / 收件人本人（第 107 批 官方登记核实 2026-10-28））randieri@intellisystem.it 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Clelia Rizza（Founding Board Member（官网 About Us；研究档误作 Clelia Randieri）= 抄送（第 107 批 官方登记核实 2026-10-28））info@intellisystem.it 〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

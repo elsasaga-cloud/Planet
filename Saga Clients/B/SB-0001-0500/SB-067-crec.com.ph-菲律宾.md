@@ -70,6 +70,7 @@ updated: 2026-10-29
 | 2026-05-05 | out | Elsa → info@crec.com.ph | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 9/10 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 第 74 批(m) `from:e.sagatelecom to:info@crec.com.ph` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
 | 2026-08-06 | out | Elsa → info@crec.com.ph | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 10/10 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(m) `from:e.sagatelecom to:info@crec.com.ph` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
 | 2026-10-21 | 用户表 | Simon | 买了迈威的 / 做项目的 / 富通天下 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | CREC is a pure renewable energy company in the Philippines offering clean energy solutions to businesses through sustainable renewable energy projects. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -142,9 +143,10 @@ updated: 2026-10-29
 - **KP**：（见 Clients 表联系人）（） 〔用户 Clients 表〕
 - **KP**：Oliver Y. Tan（Key Principal（D&B 2026-10-29；无公开邮箱）— 不动：上市电力终端用户，采购经 EPC（第 120 批 官方登记核实 2026-10-29）） 〔〕
 - **调研后定级**：B（原自动 A）——在采同类国产工业交换机但冷名单无回复、菲律宾非主攻区 → B。
-- 备注：一封'迈威对位 STI 工业线'邮件。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：deep/facts。
+一封'迈威对位 STI 工业线'邮件。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对；「成交」为富通天下外贸数据））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对；「成交」为富通天下外贸数据） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

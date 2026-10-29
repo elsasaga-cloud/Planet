@@ -50,10 +50,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "美国",
@@ -145,6 +146,14 @@
     "quote": "串口 工业FS",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Your Partner for Industrial Digital Transformation | Neteon — Over 20+ years of providing Industrial Networking solutions have given us deep technological expertise and shaped a proven framework for our customers in the IIoT",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.neteon.net/"
    }
   ],
   "proof_gaps": [
@@ -155,5 +164,32 @@
    "body": "Hello Neteon team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 8 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the OT networking projects where a Moxa switch is over budget, we supply a value tier that fits the same cabinet:\n\n- DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed (VLAN, QoS, IGMP), Marvell-based, -40 to 75 C, model STI-288GPM - $78.9 USD EXW at distributor price (MOQ 1, 15-day validity)\n- DIN-rail 8 x Gigabit + 2 x SFP, unmanaged, model STI-280GE - $46.6 USD EXW\n\nFCC/CE/RoHS, 3-year warranty together with our DIN power supply; serial device servers we do not make.\n\nOne question: would one bench unit at the unit price help you position a value tier for your dealers?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:36:02Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [],
+  "social": [
+   "https://www.linkedin.com/company/neteon/"
+  ],
+  "models_on_site": [
+   "MIL-STD-810H",
+   "EN51055",
+   "MPC-3000",
+   "BXP-A101",
+   "MIL-STD-810",
+   "RS-232",
+   "MPC-2000",
+   "PE1000U"
+  ],
+  "url": "https://www.neteon.net/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -134,7 +134,8 @@ updated: 2026-10-29
   > 兴趣：主动联系 问了network switch security products distributor
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Heng Lee Sun（Purchaser（研究档；主动问网络交换机）= 收件人 — 一页纸一次：分销 20% B、摄像机 PoE STC-028GP $28 / STC-228GP / STC-2216GP / STC-2224GP 一口价 + MOQ 1 + 付费样机 — 马来西亚常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、SIRIM 不声称（第 119 批 官方登记核实 2026-10-28））purchaser5@saxco.com.my +60 12 418 8623〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照 HTTP 错误 + 表内））
 

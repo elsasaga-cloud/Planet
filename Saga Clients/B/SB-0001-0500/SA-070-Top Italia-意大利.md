@@ -63,6 +63,7 @@ updated: 2026-10-29
 | 2025-07-08 | 去 | Saga（群发） | 「Marvell Industrial Alert System」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `a683ffdbde380276` |
 | 2025-08-13 | 去 | Saga（群发） | 「16 Port Ethernet Switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `456350d728a34de6` |
 | 2026-09-17 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 最近一封去信（邮箱索引；去信共 23 封） | `f09564c6c1e0c215` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Annuncio - Top Italia srl | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文
 
@@ -159,9 +160,10 @@ updated: 2026-10-29
 - **KP**：Tommaso Daniele（Responsabile Import（官网公开））import@topsicurezza.com（官网公开） +39 095 471449 int. 222〔https://www.videostar.it/it/chi-siamo.html〕
 - **KP**：Ing. Giovanni Girone（Responsabile Tecnico（官网公开））ufficiotecnico@topsicurezza.com —〔https://www.videostar.it/it/chi-siamo.html〕
 - **调研后定级**：B（原自动 A）——Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A
-- 备注：重启用电话（固话在册）+ 一封'ONV 对位表'：12 光 12 电机型（核价）+ Marvell 芯片/电源规格答复。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：deep/facts。
+重启用电话（固话在册）+ 一封'ONV 对位表'：12 光 12 电机型（核价）+ Marvell 芯片/电源规格答复。
 
-### 加厚挖掘（2026-10-21 · B→A 加厚 v1（官网核对 + 具名 KP））
+### 加厚挖掘（2026-10-21 · B→A 加厚 v1（官网核对 + 具名 KP） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -49,10 +49,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "Löhestr. 22, 53773 Hennef (Sieg)",
@@ -136,10 +137,50 @@
     "quote": "主要是CCTV类产品 有商业POE EOC",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Startseite | Urmet DE",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.urmet.de/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:38:04Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@grothe.de",
+   "info@urmet.de"
+  ],
+  "phones": [],
+  "social": [
+   "https://www.facebook.com/GROTHE.GmbH/",
+   "https://www.instagram.com/grothe.gmbh/",
+   "https://youtube.com/@grothegmbh1892"
+  ],
+  "models_on_site": [
+   "RS485",
+   "HD14055",
+   "HD4019",
+   "HD4407",
+   "HD8035",
+   "CALIMA-800",
+   "SET-1784-716",
+   "LDT-HD4"
+  ],
+  "url": "https://www.urmet.de/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

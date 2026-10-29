@@ -59,6 +59,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2024-10-22 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「电口」→ 对方「有需求时会说」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/Whatsapp_S跟进 2026.08.04.xlsx no.63 1022` |
 | 2026-10-21 | 用户表 | Simon | 回复：price 证书；EN50155；Hemanth Kumar 总监 / Atop的工业MC | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Nivox Technologies - IINVSYS - Rugged Fiber Optic Products and Solutions — Nivox TechnologiesÂ® - A leading supplier of Industrial Ethernet products, Rugged Fiber Optic Products, and solutions for various industries worldwide. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来；用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -133,9 +134,10 @@ updated: 2026-10-29
 - **KP**：Hemanth Kumar（Director / 合伙人 Nivox Technologies（kompass / dnb）= 拍板人 / 收件人；2024–2025 多次问价（含 EN 50155）（第 114 批 官方登记核实 2026-10-28））hemanth@nivoxtech.com +91 98455 04242〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Kavitha D.（Director & CEO / 合伙人（crunchbase / kompass）（第 114 批 官方登记核实 2026-10-28）） 〔https://in.kompass.com/c/nivox-technologies/in433614/〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + IndiaMART 核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + IndiaMART 核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

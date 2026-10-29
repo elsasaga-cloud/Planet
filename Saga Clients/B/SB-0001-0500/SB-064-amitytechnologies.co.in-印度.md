@@ -59,6 +59,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-08-20 | 去 | Elsa 群发（BCC；To info@rasatechbd.com，IN/BD+TR 个别 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 amitytechnologies.co.in, info@amitytechnologies.co.in）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 工业FS / 买了台湾KONTEN的模块 / 富通天下 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Amity - Rugged Systems, Displays, Consoles, Manufacturer India — Amity Technologies is leading manufacturer of Rugged Systems, Units, Computers, Displays, Servers, Ethernet Switches, Enclosures, Workstations, Consoles, Displays, Laptops, Tablets, Racks, and UPS. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -125,9 +126,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） 〔用户 Clients 表〕
 - **调研后定级**：B（原自动 A）——无互动、仅群发来源、印度非主攻区；A 级自动判定来自历史成交/关键词，证据不足 → B。
-- 备注：一封首触邮件即可。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+一封首触邮件即可。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 需求映射；「成交」为富通天下外贸数据））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 需求映射；「成交」为富通天下外贸数据） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

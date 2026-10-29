@@ -59,6 +59,7 @@ updated: 2026-10-29
 | 2024-02-08 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「发了工业MC系列相关信息」→ 对方「PoE Injector工业级90W」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/Whatsapp_S跟进 2026.08.04.xlsx no.58 2024.2.8` |
 | 2024-04-17 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「发了10G MC信息」→ 对方「price」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/Whatsapp_S跟进 2026.08.04.xlsx no.58 2024.4.17` |
 | 2025-02-26 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「工业16 24口出货图」→ 对方「主要用RTL 有较为成熟的产品了 国内的」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/Whatsapp_S跟进 2026.08.04.xlsx no.58 2025.2.26` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Networking Products Manufacturer in India \| AE Connect — AE Connect manufactures PoE injectors and switches, fiber solutions, Cat 6 and Cat 6A structured cabling, rack cabinets and networking tools in India since 2005. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文
 
@@ -150,9 +151,10 @@ updated: 2026-10-29
   > 来源：https://aeconnect.co.in/8-port-industrial-gigabit-l2-managed-poe-switch-ae700-ips8ge4gf-m/（抓取 2025-09-01）
 - **KP**：—（总机/用户表 WhatsApp）info@aeconnect.co.in +91 98250 15200（WhatsApp 已加）；+91 95379 10555（官网）〔https://aeconnect.co.in/shop/〕
 - **KP**：Devendra Jagdishprasad Sharma（Founder / CEO / Director（DIN 09626912）= 老板；儿子 Ashutosh Sharma（Director，MCA 登记邮箱 ashu.ent@gmail.com）管日常；配偶 Ritu Sharma 挂名董事；Mandar Joshi 2023 加入（第 83 批 官方登记核实 2026-10-27）） 〔https://www.falconebiz.com/company/AECONNECT-INDIA-PRIVATE-LIMITED-U31200GJ2022PTC132573〕
-- 备注：A 维持（3 次实质回复 + 自有品牌 + 200+ 经销商），风险是其「印度自产」方向可能转向 SKD/PCBA 采购；P1 = STC-28DGGPM / STC-424DGGPM-280W 贴牌，30% OEM 档；MC = STI-110GE。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+A 维持（3 次实质回复 + 自有品牌 + 200+ 经销商），风险是其「印度自产」方向可能转向 SKD/PCBA 采购；P1 = STC-28DGGPM / STC-424DGGPM-280W 贴牌，30% OEM 档；MC = STI-110GE。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1）
+### 加厚挖掘（2026-10-21 · 深挖 v1 + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

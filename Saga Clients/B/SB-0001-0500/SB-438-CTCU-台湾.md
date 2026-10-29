@@ -53,6 +53,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-01-13 | 来 | micro-chang@ctcu.com.tw | Eddy FYI *From:* sales2@ctcu.com.tw <sales2@ctcu.com.tw> *On Behalf Of *Alan from Saga Telecom *Sent:* Tuesday, January 13, 2026 12:40 PM *To:* market | 来信原文（主题「RE: OEM Core Switching Solution」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `622d9c1213433077` |
 | 2026-07-20 | 去 | Saga（Alan） | Hi, Mirco, How are you? *We've released firmware 7.5 on our AC5 Lite (Marvell 98DX2515/2518) platform, with a round of L2+ enhancements *focused on 1. IPv6 readiness (DHCPv6 server/relay/snooping, MLD snooping) 2. Expanded multicast support (IGMP v1/v2/v3, PIM-SM) *Please see attached full feature l… | Saga 实质答复原文（主题「Re: OEM Core Switching Solution」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `2c088651a92dded8` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | 主向位科技股份有限公司 \| 主向位科技是台灣網路通訊產品製造商 (包含第2層換機, TDM, 轉發器、工業級乙太網路交換器、轉換器、供電器等)。 — 主向位科技致力於提供可靠、寬溫且高耐環境性的工業網路解決方案，專為嚴苛應用場域打造。產品涵蓋 L3/L2 管理型交換機、PoE 解決方案，以及符合 EN50155、IEC 61850-3 與 E-Mark 標準的認證型乙太網路交換機，滿足軌道交通、電力自動化與智慧運輸等關鍵網路應用需求。 主向位科技(CTC Union)成立於1993 年，是一家通過 ISO9001/14001 認證，擁有自己的產品研發團隊與生產工廠的專業網路通訊產品製造商。軟體 | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -132,9 +133,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Gary（研究档 KP（已有回覆）— 自研自產同行，不動群發；若詢 ODM 補位由 Simon 單議（第 116 批 官方登记核实 2026-10-28））micro-chang@ctcu.com.tw 〔用户表〕
 - **KP**：張靖駭（代表人 / 董事長（twincn；統編 84297462）— 不發（第 116 批 官方登记核实 2026-10-28）） 〔https://twincn.com/item.aspx?no=84297462〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

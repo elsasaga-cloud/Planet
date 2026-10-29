@@ -57,6 +57,7 @@ updated: 2026-10-29
 | 2024-11-05 | 去 | Simon → Angora Networks（SA-077）附件 Turkey Client List.xlsx | 名单行：「Commercial PoE CCTV satis@egemenelektronik.com 90 53260 57018 https://www.egemenelektronik.com/tr/kategori/switchler」 | Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持） | `gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx` |
 | 2026-09-21 | 去 | A/S 群发 | 10G Enterprise SFP Switch、Industrial PoE Switch | 18 封 / 1 次打开 / 0 回｜首封 2024-06-21 → 末封 2026-09-21（18 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 商业POE CCTV为主 很多配件 … 90 53260 57018 网站上的 已加 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Egemen Elektronik, Uniview Resmi Distrübütörü — Egemen Elektronik güvenlik kameraları, kayıt cihazları, interkom sistemleri, alarm sistemleri ve bir çok aksesuarın satışını yapmaktadır. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码；在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）
 
@@ -140,7 +141,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（含交换机品类页与价目表）
 - **是谁**：伊斯坦布尔 Ümraniye 的电子安防分销商 Egemen Elektronik（2013-07 成立；10–50 人；Uniview 土耳其官方分销商、Hikvision Platinum 合作伙伴，另分销 Ajax、Honeywell、Dahua、Wisenet、ZKTeco、Netgear、Seagate/WD 等；网站设交换机品类页与价目表；Egemen Plaza 自有办公楼；satis@egemenelektronik.com；+90 216 611 61 00）。用户表（谷歌来源，土耳其 A 名单 2 类）：商业 PoE、CCTV 为主、很多配件；联系人 Belkız Çınar / Levent Pişman（Co-Owner）；WhatsApp 已加；2 次跟进 0 回复。
-- **在卖/在用品牌**：Uniview（官方分销）, Hikvision（Platinum）, Ajax, Dahua, Netgear
+- **在卖/在用品牌**：Uniview（官方分销）, Hikvision（Platinum）, Ajax, Dahua, Netgear, Uniview
 - **【官网】法人、地址、联系方式**
   > Egemen Elektronik Güvenlik Bilgisayar Sis. San. ve Tic. Ltd. Şti. - Ihlamurkuyu Mh. Malazgirt Cd. Şendal Sk. No:1 EGEMEN PLAZA ÜMRANİYE / İSTANBUL 0216 611 61 00 … satis@egemenelektronik.com … Vergi Numarası : 325 056 57 50
   > 来源：https://www.egemenelektronik.com/tr/iletisim（抓取 2026-10-21）
@@ -158,9 +159,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Belkız Çınar（Co-Owner（用户表））satis@egemenelektronik.com +90 532 605 7018（用户表，WhatsApp 已加）〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Levent Pişman（Co-Owner（LinkedIn，10 年以上）= **老板之一 = 联系人**（satis@ 公用箱，抬头写 Levent Bey）—— 公司 = Ümraniye 自有楼「Egemen Plaza」的 10 人安防批发 + B2B 商城 egemendepo.com → 分销 20%：8/16 口 PoE + 4 口 DIN 先上商城；单笔 ≤ $3k，100% 预付或 50/50（第 92 批 官方登记核实 2026-10-28））satis@egemenelektronik.com —〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

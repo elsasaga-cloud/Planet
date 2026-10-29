@@ -65,10 +65,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "351 Ferrier St Unit 5, Markham, Ontario L3R 5Z2, Canada（第 92 批 官方登记核实 2026-10-28）",
@@ -278,6 +279,14 @@
     "quote": "16 Port Industrial PoE Switch",
     "why": "本日去信真实主题（邮箱索引 ad639c1da9f684ca；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
     "k": "ad639c1da9f684ca"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Home Page - WatchNET inc - CCTV, Access Control and NVRs — WatchNET provides cutting-edge surveillance systems including CCTV, NVRs, and access control system for reliable, scalable security throughout North America.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://watchnetinc.com/"
    }
   ],
   "proof_gaps": [],
@@ -287,5 +296,39 @@
   },
   "as_of": "2026-10-24"
  },
- "country_fix": "加拿大"
+ "country_fix": "加拿大",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:39:13Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@watchnet.com",
+   "info@watchnetinc.com",
+   "tech@watchnetinc.com"
+  ],
+  "phones": [],
+  "social": [
+   "https://www.facebook.com/watchnetinc",
+   "https://www.instagram.com/watchnetinc/",
+   "https://www.linkedin.com/company/watchnet-inc-/",
+   "https://www.youtube.com/@watchnetvideos"
+  ],
+  "models_on_site": [
+   "VMS-2000-V2",
+   "IP-67",
+   "POESW04R3",
+   "POESW08R3",
+   "POESW16R3",
+   "POESW24F",
+   "POESW24R2",
+   "POESW24UR3"
+  ],
+  "url": "https://watchnetinc.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

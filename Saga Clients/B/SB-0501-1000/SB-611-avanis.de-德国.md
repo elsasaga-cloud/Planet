@@ -54,6 +54,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-23 | 去 | A 群发 | Booster PoE Switch、Marvell Industrial Alert System | 10 封 / 0 次打开 / 0 回｜首封 2025-11-14 → 末封 2026-09-23（10 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | Edgecore等牌子 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Avanis GmbH - Ihr zuverlässiger Partner für Netzwerktechnik — Avanis ist Ihr Experte für Netzwerktechnik & WLAN-Lösungen. Von Switches bis zur RTLS-Ortung – wir planen & liefern Ihre Infrastruktur. Jetzt beraten lassen! | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -140,9 +141,10 @@ updated: 2026-10-29
 - **KP**：Thomas Passlack（Geschäftsführer / Gesellschafter（Avanis GmbH，HRB 37834 Bielefeld；2003 起）= **拍板人本人 = 收件人**（第 102 批 官方登记核实 2026-10-28））tpasslack@avanis.de 〔用户表〕
 - **KP**：Valentin Kaiser（研究档 KP（职务未核）（第 102 批 官方登记核实 2026-10-28）） 〔用户表〕
 - **KP**：Paul Peter Kaiser（Geschäftsführer / Gesellschafter（2003 起；pkaiser@avanis.de 官网团队页）= 抄送（第 102 批 官方登记核实 2026-10-28））pkaiser@avanis.de 〔〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

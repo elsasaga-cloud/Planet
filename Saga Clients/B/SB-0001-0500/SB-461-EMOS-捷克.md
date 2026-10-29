@@ -56,6 +56,7 @@ updated: 2026-10-29
 | 2024-07-11 | 去 | S 箱（Simon） | 8 port Ethernet Switch | 首封去信（邮箱索引；去信共 25 封） | `f2de04da233322a4` |
 | 2026-10-01 | 去 | A 箱（Alan） | Managed PoE Switches | 最近一封去信（邮箱索引；去信共 25 封） | `ae1ca47711d41952` |
 | 2024-12-06 | 来 | pavel.valcuha@emos.cz | Automatická odpověď: 48 Port PoE Managed Switch｜﻿Dobrý den,  jsem mimo kancelář. Vaše emaily nejsou přesměrovány a nebudou tedy zracovány.  Hello,  I'm out of the offic | 来信（邮箱索引；原文见 k） | `22e19b96edf97fa4` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | EMOS - drobné elektro pro vás \| Nakupujte výhodně \| EMOS — Specializujeme se na prodej drobného elektro zboží pod vlastní značkou EMOS. Nakupujte výhodně www.emos.cz | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -135,9 +136,10 @@ updated: 2026-10-29
   > 问了商业POE，要小尺寸，介绍了4口的那个 问了价格，不用工业级，拍了展位照片
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Franck Lemery（Jednatel（2025-05-12 起；Legrand 派驻；另 Emmanuel Regent / Yriex Dominique Roullac）— 不直接发；收件人 = product manager 网络 / 电脑配件（第 109 批 官方登记核实 2026-10-28）） 〔https://rejstrik.penize.cz/19014104-emos-spol-s-r-o〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（登记 + 名录核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（登记 + 名录核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

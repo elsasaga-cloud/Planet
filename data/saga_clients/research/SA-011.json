@@ -75,11 +75,12 @@
    "source": "https://annuaire-entreprises.data.gouv.fr/entreprise/785754706"
   }
  ],
- "notes": "A 确认（欧洲自有品牌工业交换机厂商 = OEM 目标）；注意其终端市场含国防，Saga 只做 ODM 供货不涉项目。P1 = STI-288DGGPM（DIN 工业 L2+ PoE）或 STI-488XGGPM，30% OEM 档。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\nA 确认（欧洲自有品牌工业交换机厂商 = OEM 目标）；注意其终端市场含国防，Saga 只做 ODM 供货不涉项目。P1 = STI-288DGGPM（DIN 工业 L2+ PoE）或 STI-488XGGPM，30% OEM 档。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1"
+  "level": "深挖 v1 + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "CXR ANDERSON JACOBSON SAS（SIREN 785754706，1983-04-10 成立，Active；NAF 26.30Z 通信设备制造；员工档 20–49）",
@@ -294,6 +295,14 @@
     "quote": "24 Port PoE Managed Switch｜ $170（原句：*Price: 170USD/PC*）",
     "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
     "k": "31c3846e3e090787"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "CXR - Smart Solutions for Smart Networks",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.cxr.com/"
    }
   ],
   "proof_gaps": [],
@@ -302,5 +311,37 @@
    "body": "Hi Marco,\n\nIn May 2024 you asked for the datasheet of our 10G media converter and we quoted $65; the mails you had since were general product mails - no reason to answer those.\n\nThe converter is still $65 USD EXW (1 x 10G SFP+ + 1 x 100M/1G/2.5G/10G RJ45, unmanaged; MOQ 1, 15-day validity). On the switch side, your SWMD-H-8TGPS-2GSF sits on the same 8 x Gigabit PoE+ + 2 x SFP DIN footprint we build on a Marvell switch core - in CXR packing, L2+ managed with ring redundancy, -40 to 75 C, CE/RoHS - model STI-288DGGPM - $137.5 USD EXW.\n\nOne question: which parts of the CXR range do you buy in rather than build - media converters, DIN PoE switches, or neither at the moment?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:19:35Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [
+   "+33 (0) 2 37 62 87 90"
+  ],
+  "social": [
+   "http://www.facebook.com/CXRNetworks/",
+   "http://www.linkedin.com/company/cxr-anderson-jacobson",
+   "https://twitter.com/CxrNetworks",
+   "https://www.instagram.com/cxr.networks"
+  ],
+  "models_on_site": [
+   "RS232",
+   "SWMM-H-7528",
+   "SWCE-2310",
+   "SWCED-2316",
+   "SWMDL-I-4GPBT-2USF",
+   "SWMDL-H-8GPS-2CB-B",
+   "SWMDL-H-4GPS-2USF-B",
+   "SWMD-H-8TPS-2GX"
+  ],
+  "url": "https://www.cxr.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

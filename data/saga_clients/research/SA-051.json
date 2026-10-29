@@ -1,203 +1,212 @@
 {
-  "code": "SA-051",
-  "name_official": "Tecpro Solutions Co. L.L.C.（迪拜，2004 年成立）",
-  "website_status": "在线",
-  "summary": "阿联酋 IT + ELV 系统集成商（IT 基础设施、智能楼宇、安防、BMS），2004 年创立，迪拜/阿布扎比/艾因/印度科钦设办公室，11–50 人；用户记录 3 次回复并已加 WhatsApp（Rafi），询过 HDMI 转换器。",
-  "type": "系统集成商（IT/ELV）",
-  "size": "小型（11–50 人，3 个本地办公室）",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "20+ 年经验的阿联酋系统集成商，覆盖政府/企业/银行/机场/医疗/教育/酒店/电信",
-      "quote": "Tecpro Solutions, a leading System Integrator in UAE brings over 20+ years of industry experience… government, corporate, banking, airports, healthcare, education, hospitality, telecom, and contracting",
-      "url": "https://www.tecprosolutions.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "三地办公室与电话",
-      "quote": "DUBAI Saheel Tower 2… 00971 4 3266881… ABU DHABI… 00971 2 6767373… AL AIN… 00971 3 7662264",
-      "url": "https://www.tecprosolutions.com/contact-us/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "LinkedIn",
-      "claim": "安防系统服务业，11–50 人，2004 年创立",
-      "quote": "Industry: Security Systems Services… Company size: 11-50 employees… Founded: 2004",
-      "url": "https://www.linkedin.com/company/tecprosolutionsllc",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "LinkedIn",
-      "claim": "Mohammed Rafi 为 Executive Director（2023 起），此前 17 年运营总监",
-      "quote": "Executive Director Tecpro Solutions Co. L.L.C. Jun 2023 - Present… Director Of Operations… Sep 2005 - Jun 2023",
-      "url": "https://www.linkedin.com/in/mohammed-rafi-30365656/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "2026-02 新企业形象与阿布扎比新办公室；联系方式",
-      "quote": "Tecpro Solutions Unveils a New Corporate Identity for a New Era February 13, 2026 … Tecpro Solutions Enhances UAE Operations with New Abu Dhabi Corporate office February 13, 2026 … ABU DHABI Building No. 7, 4th Floor, Office No. 403, Muroor Street … 00971 2 6767373",
-      "url": "https://www.tecprosolutions.com/",
-      "date": "2026-07-16"
-    },
-    {
-      "kind": "官网",
-      "claim": "迪拜联系方式",
-      "quote": "00971 4 3266881 00971 52 9250501 dxb@tecprosolutions.com … DUBAI Saheel Tower",
-      "url": "https://www.tecprosolutions.com/contact-us/",
-      "date": "2026-07-16"
-    },
-    {
-      "kind": "名录",
-      "claim": "起家与分部",
-      "quote": "Founded & Established in 2003 at Al Ain (UAE), Tecpro continues to expand its operation and has established offices in Abu Dhabi, Dubai and Kochi (India) … TECPRO-Project (IT & ELV Projects), TECPRO-Distributions (IT & ELV products)",
-      "url": "https://www.protenders.com/companies/tecpro-solutions-llc",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Mohammed Rafi",
-      "role": "Executive Director",
-      "email": "",
-      "phone": "+971 50 4489928（用户记录 WA）",
-      "source": "用户 Clients 表 + LinkedIn 职务"
-    },
-    {
-      "name": "MD Shereef",
-      "role": "（用户记录）",
-      "email": "shereef@tecprosolutions.com",
-      "phone": "",
-      "source": "用户 Clients 表"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "3 次回复 + WA 在线 + 高管级联系人；集成商身份与 ELV 项目用 PoE 交换机高度相关，虽历史询盘为 HDMI 转换器（Saga 不做）。中东非主攻区但可直接转为项目报价。P1：STC-424DGGPM-280W（楼宇安防 24 口 PoE），项目价阶 25%。",
-  "researched_at": "2026-10-21",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "深挖 v2（官网 2026 新闻 + 名录核对）"
+ "code": "SA-051",
+ "name_official": "Tecpro Solutions Co. L.L.C.（迪拜，2004 年成立）",
+ "website_status": "在线",
+ "summary": "阿联酋 IT + ELV 系统集成商（IT 基础设施、智能楼宇、安防、BMS），2004 年创立，迪拜/阿布扎比/艾因/印度科钦设办公室，11–50 人；用户记录 3 次回复并已加 WhatsApp（Rafi），询过 HDMI 转换器。",
+ "type": "系统集成商（IT/ELV）",
+ "size": "小型（11–50 人，3 个本地办公室）",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "20+ 年经验的阿联酋系统集成商，覆盖政府/企业/银行/机场/医疗/教育/酒店/电信",
+   "quote": "Tecpro Solutions, a leading System Integrator in UAE brings over 20+ years of industry experience… government, corporate, banking, airports, healthcare, education, hospitality, telecom, and contracting",
+   "url": "https://www.tecprosolutions.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Tecpro Solutions Co. L.L.C.（TPS）",
-    "founded": "2003 Al Ain 起家 / 2004 UAE 注册",
-    "hq": "Dubai（Saheel Tower；+971 4 326 6881 / +971 52 925 0501；dxb@tecprosolutions.com）；Abu Dhabi: Building No.7, 4th Fl, Office 403, Muroor St（+971 2 676 7373；auh@tecprosolutions.com）；Al Ain: Building No.30, Al Jusour St；Kochi（印度）",
-    "staff": "51–100（Prospeo；LinkedIn 11–50；Crunchbase 101–250）",
-    "other": "四大业务：IT 基础设施与应用（服务器/存储/网络/虚拟化/DC/云/网安）、智能楼宇（ELV/BMS）、创新与数字化、教育装备；分销部门 TECPRO-Distributions；**2026-02-13 发布新企业形象 + 阿布扎比新办公室**（扩张信号）",
-    "revenue": "≈$13.7M（Prospeo 估）"
+  {
+   "kind": "官网",
+   "claim": "三地办公室与电话",
+   "quote": "DUBAI Saheel Tower 2… 00971 4 3266881… ABU DHABI… 00971 2 6767373… AL AIN… 00971 3 7662264",
+   "url": "https://www.tecprosolutions.com/contact-us/",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "IT 基础设施集成",
-    "ELV / 安防 / BMS",
-    "HDMI 转换器等配件询价",
-    "IT 基础设施集成（路由交换无线、DC）",
-    "ELV/BMS 智能楼宇项目",
-    "IT & ELV 产品分销（TECPRO-Distributions）",
-    "教育装备与软件"
-  ],
-  "products_seen": [
-    {
-      "brand": "（项目采购）",
-      "model": "HDMI converter；网站 switch/电缆类目",
-      "spec": "询过 HDMI 转换器",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "用户表",
-      "saga": "STC-424DGGPM-280W（项目接入位）"
-    }
-  ],
-  "channels": {
-    "网站": "https://www.tecprosolutions.com/",
-    "直邮": "shereef@tecprosolutions.com（用户表）",
-    "WhatsApp": "Rafi 已加（用户表）",
-    "电话": "+971 4 326 6881（迪拜）/ +971 2 676 7373（阿布扎比）",
-    "邮箱（公开）": "dxb@tecprosolutions.com / auh@tecprosolutions.com",
-    "LinkedIn": "https://www.linkedin.com/company/tecprosolutionsllc（876 followers）"
+  {
+   "kind": "LinkedIn",
+   "claim": "安防系统服务业，11–50 人，2004 年创立",
+   "quote": "Industry: Security Systems Services… Company size: 11-50 employees… Founded: 2004",
+   "url": "https://www.linkedin.com/company/tecprosolutionsllc",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "用户表：3 次回复 + WA——关系活跃，但询价品类（HDMI）不在 Saga 型谱",
-    "2026-02 新形象 + 阿布扎比新办公室——项目管线扩张期，是切入 ELV 配套 PoE 交换机的窗口（2026-10-21）"
-  ],
-  "risks": [
-    "需求偏配件；项目型集成商决策看品牌"
-  ],
-  "saga_fit": {
-    "p1": "STC-424DGGPM-280W",
-    "tier": 25,
-    "why": "ELV/安防项目接入：STC-424DGGPM-280W + STC-28DGGPM；集成商 25% 档；HDMI 不供，明确告知"
+  {
+   "kind": "LinkedIn",
+   "claim": "Mohammed Rafi 为 Executive Director（2023 起），此前 17 年运营总监",
+   "quote": "Executive Director Tecpro Solutions Co. L.L.C. Jun 2023 - Present… Director Of Operations… Sep 2005 - Jun 2023",
+   "url": "https://www.linkedin.com/in/mohammed-rafi-30365656/",
+   "date": "2026-10-21"
   },
-  "email_hook": "We do not build HDMI converters, but for the camera and ELV closets in your projects the Marvell-based 24-port PoE+ managed switch and the 8-port PoE+ 2 SFP unit are the two I can quote EXW with CE files.",
-  "mail_review": {
-    "binding": {
-      "level": "未绑定（邮件 8 封 0 回；用户表「3 次回复 + WA 在线 + 高管」= WA；Elsa 箱：`to:tecprosolutions.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 8 / 来 0）（第 74 批(g)））",
-      "type": "迪拜 IT/ELV 集成（Tecpro，Shereef）",
-      "sieve": "0（邮件层无人工回复）",
-      "stop": "—",
-      "revive": "WA",
-      "lane": "AE 非主攻",
-      "cadence": "WA",
-      "evidence": "邮件：去信 8 封（2026-03-23 → 2026-10-01），来信 0；Opened 标签 0 次；收件人 shereef@tecprosolutions.com"
-    },
-    "situation": "历史询盘是 HDMI 转换器（Saga 不做）。",
-    "need": "ELV 项目 PoE。",
-    "breakpoint": "—",
-    "saga_now": {
-      "p1": "STC-424DGGPM-280W",
-      "tier": 25,
-      "price": "—；群发里他已看到的价（续）：2026-07-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-04-29 $280（10G Enterprise SFP Switch）",
-      "why": "ELV 项目 PoE（他问过 HDMI 转换器，不做）→ 24 口 PoE+ 管理 + 8 口 PoE+ 2 SFP 两款 EXW，带 CE 文件",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "按 WA 节奏",
-      "channel": "WhatsApp",
-      "action": "WA（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））",
-      "one_question": "We do not build HDMI converters, but for the camera and ELV closets in your projects the Marvell-based 24-port PoE+ managed switch and the 8-port PoE+ 2 SFP unit are the two I can quote EXW with CE files."
-    },
-    "facts": [
-      {
-        "date": "2024-05-16",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「发了mini工业交换机图片」→ 对方「ok」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.38 2024.5.16"
-      },
-      {
-        "date": "2024-06-18",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「发了几个商业交换机图」→ 对方「需要工业级的」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.38 2024.6.18"
-      },
-      {
-        "date": "2024-08-17",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「passive poe手册」→ 对方「price」",
-        "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
-        "k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.38 2024.8.17"
-      },
-      {
-        "date": "2024-10-25",
-        "dir": "来",
-        "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
-        "quote": "用户表跟进：推「8电口」→ 对方「最近来中国」",
-        "why": "Simon 跟进表里的回应记录（邮箱看不到的渠道）；按原文留存",
-        "k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.38 1025"
-      }
-    ],
-    "proof_gaps": [
-      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
-    ],
-    "draft_en": {
-      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-      "body": "Rafi, Simon from Saga Telecom. We do not build HDMI converters, so no news there. For the camera and ELV closets in your projects, two units with CE files, EXW, MOQ 1, 15-day validity: 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed, Marvell-based - STC-424DGGPM-280W - $140.1; 8 x PoE+ + 2 x SFP, L2+ managed - STC-28DGGPM - $84.1; industrial versions on request. Which project is next - Dubai or Abu Dhabi - and what cabinet count?"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "官网",
+   "claim": "2026-02 新企业形象与阿布扎比新办公室；联系方式",
+   "quote": "Tecpro Solutions Unveils a New Corporate Identity for a New Era February 13, 2026 … Tecpro Solutions Enhances UAE Operations with New Abu Dhabi Corporate office February 13, 2026 … ABU DHABI Building No. 7, 4th Floor, Office No. 403, Muroor Street … 00971 2 6767373",
+   "url": "https://www.tecprosolutions.com/",
+   "date": "2026-07-16"
+  },
+  {
+   "kind": "官网",
+   "claim": "迪拜联系方式",
+   "quote": "00971 4 3266881 00971 52 9250501 dxb@tecprosolutions.com … DUBAI Saheel Tower",
+   "url": "https://www.tecprosolutions.com/contact-us/",
+   "date": "2026-07-16"
+  },
+  {
+   "kind": "名录",
+   "claim": "起家与分部",
+   "quote": "Founded & Established in 2003 at Al Ain (UAE), Tecpro continues to expand its operation and has established offices in Abu Dhabi, Dubai and Kochi (India) … TECPRO-Project (IT & ELV Projects), TECPRO-Distributions (IT & ELV products)",
+   "url": "https://www.protenders.com/companies/tecpro-solutions-llc",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Mohammed Rafi",
+   "role": "Executive Director",
+   "email": "",
+   "phone": "+971 50 4489928（用户记录 WA）",
+   "source": "用户 Clients 表 + LinkedIn 职务"
+  },
+  {
+   "name": "MD Shereef",
+   "role": "（用户记录）",
+   "email": "shereef@tecprosolutions.com",
+   "phone": "",
+   "source": "用户 Clients 表"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：fail#1。\n3 次回复 + WA 在线 + 高管级联系人；集成商身份与 ELV 项目用 PoE 交换机高度相关，虽历史询盘为 HDMI 转换器（Saga 不做）。中东非主攻区但可直接转为项目报价。P1：STC-424DGGPM-280W（楼宇安防 24 口 PoE），项目价阶 25%。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v2（官网 2026 新闻 + 名录核对）"
+ },
+ "company_facts": {
+  "legal_name": "Tecpro Solutions Co. L.L.C.（TPS）",
+  "founded": "2003 Al Ain 起家 / 2004 UAE 注册",
+  "hq": "Dubai（Saheel Tower；+971 4 326 6881 / +971 52 925 0501；dxb@tecprosolutions.com）；Abu Dhabi: Building No.7, 4th Fl, Office 403, Muroor St（+971 2 676 7373；auh@tecprosolutions.com）；Al Ain: Building No.30, Al Jusour St；Kochi（印度）",
+  "staff": "51–100（Prospeo；LinkedIn 11–50；Crunchbase 101–250）",
+  "other": "四大业务：IT 基础设施与应用（服务器/存储/网络/虚拟化/DC/云/网安）、智能楼宇（ELV/BMS）、创新与数字化、教育装备；分销部门 TECPRO-Distributions；**2026-02-13 发布新企业形象 + 阿布扎比新办公室**（扩张信号）",
+  "revenue": "≈$13.7M（Prospeo 估）"
+ },
+ "business_lines": [
+  "IT 基础设施集成",
+  "ELV / 安防 / BMS",
+  "HDMI 转换器等配件询价",
+  "IT 基础设施集成（路由交换无线、DC）",
+  "ELV/BMS 智能楼宇项目",
+  "IT & ELV 产品分销（TECPRO-Distributions）",
+  "教育装备与软件"
+ ],
+ "products_seen": [
+  {
+   "brand": "（项目采购）",
+   "model": "HDMI converter；网站 switch/电缆类目",
+   "spec": "询过 HDMI 转换器",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "用户表",
+   "saga": "STC-424DGGPM-280W（项目接入位）"
+  }
+ ],
+ "channels": {
+  "网站": "https://www.tecprosolutions.com/",
+  "直邮": "shereef@tecprosolutions.com（用户表）",
+  "WhatsApp": "Rafi 已加（用户表）",
+  "电话": "+971 4 326 6881（迪拜）/ +971 2 676 7373（阿布扎比）",
+  "邮箱（公开）": "dxb@tecprosolutions.com / auh@tecprosolutions.com",
+  "LinkedIn": "https://www.linkedin.com/company/tecprosolutionsllc（876 followers）"
+ },
+ "signals": [
+  "用户表：3 次回复 + WA——关系活跃，但询价品类（HDMI）不在 Saga 型谱",
+  "2026-02 新形象 + 阿布扎比新办公室——项目管线扩张期，是切入 ELV 配套 PoE 交换机的窗口（2026-10-21）"
+ ],
+ "risks": [
+  "需求偏配件；项目型集成商决策看品牌"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 25,
+  "why": "ELV/安防项目接入：STC-424DGGPM-280W + STC-28DGGPM；集成商 25% 档；HDMI 不供，明确告知"
+ },
+ "email_hook": "We do not build HDMI converters, but for the camera and ELV closets in your projects the Marvell-based 24-port PoE+ managed switch and the 8-port PoE+ 2 SFP unit are the two I can quote EXW with CE files.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（邮件 8 封 0 回；用户表「3 次回复 + WA 在线 + 高管」= WA；Elsa 箱：`to:tecprosolutions.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 8 / 来 0）（第 74 批(g)））",
+   "type": "迪拜 IT/ELV 集成（Tecpro，Shereef）",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "—",
+   "revive": "WA",
+   "lane": "AE 非主攻",
+   "cadence": "WA",
+   "evidence": "邮件：去信 8 封（2026-03-23 → 2026-10-01），来信 0；Opened 标签 0 次；收件人 shereef@tecprosolutions.com"
+  },
+  "situation": "历史询盘是 HDMI 转换器（Saga 不做）。",
+  "need": "ELV 项目 PoE。",
+  "breakpoint": "—",
+  "saga_now": {
+   "p1": "STC-424DGGPM-280W",
+   "tier": 25,
+   "price": "—；群发里他已看到的价（续）：2026-07-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-04-29 $280（10G Enterprise SFP Switch）",
+   "why": "ELV 项目 PoE（他问过 HDMI 转换器，不做）→ 24 口 PoE+ 管理 + 8 口 PoE+ 2 SFP 两款 EXW，带 CE 文件",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "按 WA 节奏",
+   "channel": "WhatsApp",
+   "action": "WA（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））",
+   "one_question": "We do not build HDMI converters, but for the camera and ELV closets in your projects the Marvell-based 24-port PoE+ managed switch and the 8-port PoE+ 2 SFP unit are the two I can quote EXW with CE files."
+  },
+  "facts": [
+   {
+    "date": "2024-05-16",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「发了mini工业交换机图片」→ 对方「ok」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.38 2024.5.16"
+   },
+   {
+    "date": "2024-06-18",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「发了几个商业交换机图」→ 对方「需要工业级的」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.38 2024.6.18"
+   },
+   {
+    "date": "2024-08-17",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「passive poe手册」→ 对方「price」",
+    "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
+    "k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.38 2024.8.17"
+   },
+   {
+    "date": "2024-10-25",
+    "dir": "来",
+    "who": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "quote": "用户表跟进：推「8电口」→ 对方「最近来中国」",
+    "why": "Simon 跟进表里的回应记录（邮箱看不到的渠道）；按原文留存",
+    "k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.38 1025"
+   }
+  ],
+  "proof_gaps": [
+   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
+  ],
+  "draft_en": {
+   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+   "body": "Rafi, Simon from Saga Telecom. We do not build HDMI converters, so no news there. For the camera and ELV closets in your projects, two units with CE files, EXW, MOQ 1, 15-day validity: 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed, Marvell-based - STC-424DGGPM-280W - $140.1; 8 x PoE+ + 2 x SFP, L2+ managed - STC-28DGGPM - $84.1; industrial versions on request. Which project is next - Dubai or Abu Dhabi - and what cabinet count?"
+  },
+  "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:30Z"
+  ],
+  "fails": [
+   "2026-10-21"
+  ],
+  "batch": "LT-T03"
+ }
 }

@@ -40,10 +40,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  "level": "B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "ECONNET S.R.L.（P.IVA 02965231208；REA BO-0481011；Bologna；Edge-Core 增值分销；2–10 人）",
@@ -107,6 +108,14 @@
     "quote": "兴趣：商业PoE 丰润达的",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Econnet s.r.l. - Value Added Distributor — Econnet, Stormshield, UTM, Firewall, BitDefender, Kaspersky, AccessPoint, NAS, Sicurezza, Cybersecurity, EDR, XDR, Unified Communication, Fanvil, Yeastar, Yealink, Centralino voip, Pbx, Tenveo, CZUR, Sillaro, Networking, Edge-Core, Ignitenet, Switch, Indust",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.econnet.it/"
    }
   ],
   "proof_gaps": [
@@ -114,5 +123,32 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:47:52Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "marketing@econnet.it"
+  ],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "BO-0481011",
+   "IES206G",
+   "IES206GPP",
+   "IES208G",
+   "IES210GPP",
+   "SX6632YF",
+   "ER707-M2",
+   "ER7206"
+  ],
+  "url": "https://www.econnet.it/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

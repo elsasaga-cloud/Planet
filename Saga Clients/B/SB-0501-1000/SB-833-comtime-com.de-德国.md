@@ -54,6 +54,7 @@ updated: 2026-10-29
 | 2025-02-25 | 去 | A 箱（Alan） | 48 Port PoE Managed Switch | 首封去信（邮箱索引；去信共 16 封） | `6bf705ae3a7e50ae` |
 | 2026-09-24 | 去 | A 箱（Alan） | Managed PoE Switches | 最近一封去信（邮箱索引；去信共 16 封） | `5398e64f32a2fe4c` |
 | 2026-09-24 | 来 | nf@comtime-com.de | Urlaub｜""Ich bin zur Zeit nicht im Büro. Ihre mails werden gelesen und bearbeitet."  " | 来信（邮箱索引；原文见 k） | `039b5332d630ba22` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Industrie-Router fÃ¼r 5G, LTE & DSL \| comtime — IIOT / M2M Industrie-Router und Modems fÃ¼r die Datenkommunikation und Fernwartung Ã¼ber sichere VPN Verbindungen auf der Hutschiene. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -136,9 +137,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Josef Dorfer（Vertriebsleiter（Marketing und Vertrieb；PresseBox / wlw，2013 起）= 销售总监本人 = 抄送；主收件人改写新 GF（第 98 批 官方登记核实 2026-10-28））jd@comtime-com.de 〔用户表〕
 - **KP**：Markus Kasten（Geschäftsführer（*1995；HRB 4574 NO Kiel，2026-02-04 登记新任）= 第二次触达主收件人（info@ 点名）（第 98 批 官方登记核实 2026-10-28）） 〔https://comtime-com.de/impressum/〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

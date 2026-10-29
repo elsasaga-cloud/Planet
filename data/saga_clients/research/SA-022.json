@@ -6,7 +6,10 @@
  "type": "品牌商/制造商（兼容光模块；MC 等外采贴牌）",
  "size": "250+ 员工（官网）",
  "brands_seen": [
-  "AddOn"
+  "AddOn",
+  "Cisco",
+  "Juniper",
+  "Extreme"
  ],
  "evidence": [
   {
@@ -61,11 +64,12 @@
    "source": "A 邮箱发件表头"
   }
  ],
- "notes": "A 确认（已买样 + 具名 KP + 自有品牌 MC 线）；痛点是交期——下次跟进直接给「常备库存型号 + 10–15 天交期承诺」。体量大于 Saga 常规客户，但 MC 贴牌决策链短。P1 = STI-110GE（MC）。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\nA 确认（已买样 + 具名 KP + 自有品牌 MC 线）；痛点是交期——下次跟进直接给「常备库存型号 + 10–15 天交期承诺」。体量大于 Saga 常规客户，但 MC 贴牌决策链短。P1 = STI-110GE（MC）。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1"
+  "level": "深挖 v1 + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "ADD-ON COMPUTER PERIPHERALS, LLC（dba AddOn Networks；California LLC，2002-12-26）",
@@ -200,6 +204,14 @@
     "quote": "24 Port PoE Managed Switch",
     "why": "最近一封去信（邮箱索引；去信共 33 封）",
     "k": "9a4cd7f8c26980fe"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Global Leaders In Fiber Optic Connectivity Solutions — High quality transceivers, patch cables, media converters, & fiber connectivity solutions from 1999. 99.98% reliability rated 100G QSFP+, 10G SFP+, & more.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.addonnetworks.com/"
    }
   ],
   "proof_gaps": [
@@ -210,5 +222,35 @@
    "body": "Hi Matt,\n\nYou took six media-converter samples from us and the lead time was the problem; the mails since were general product mails - no reason to answer those.\n\nOn the gigabit SFP-slot converter (ADD-GMC-SFP class): DIN-rail or desktop, 1 x RJ45 + 1 x SFP, -40 to 75 C, FCC/CE/RoHS - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity), in your packing from small lots. For a first 200 units I can commit 10-15 days from order to ex-works; please hold me to it.\n\nOne question: is the converter line still sourced in, and at what monthly quantity?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:19:42Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "techsupport@addonnetworks.com"
+  ],
+  "phones": [],
+  "social": [
+   "https://www.linkedin.com/company/addon/",
+   "https://www.youtube.com/channel/UCbSKxaJSL00Zh83Penb5Umw"
+  ],
+  "models_on_site": [
+   "QSFP28",
+   "RJ-45",
+   "SFP28",
+   "QSFP56",
+   "OSFP224",
+   "QSFP28-DD",
+   "QSFP112",
+   "OSFP112"
+  ],
+  "url": "https://www.addonnetworks.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

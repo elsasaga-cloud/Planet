@@ -60,6 +60,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-02 | 去 | A/S 群发 | 24 Port PoE Managed Switch、10G Enterprise SFP Switch | 6 封 / 0 次打开 / 0 回｜首封 2024-06-20 → 末封 2026-09-02（6 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 回复：Datasheet；Email发了商业PoE 228信息；对2光8PoE有兴趣；email | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | RETELEM \| Infrastructures numériques critiques — EPE RETELEM SPA conçoit, intègre, sécurise et exploite les infrastructures numériques critiques en Algérie depuis 1971. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -147,9 +148,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Hichem Akchiche（联系人（研究档 KP；WA 已加；2024 要工业交换机 datasheet、对 2 光 8 PoE 有兴趣）= 收件人 — 一页纸一次：集成商 25% B、STI-288DGGPM $137 L2 管理 / STI-288GPM $78.9 非管理 一口价 + MOQ 1 + 付费样机；关键基础设施按单核；法语备注 — 阿尔及利亚常规：英文稿（法语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（第 123 批 官方登记核实 2026-10-29））hichem.akchiche@retelem-dz.com +213 770 760 449〔（本地 Clients/ 表格，无公开 URL）〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 集团/名录核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 集团/名录核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

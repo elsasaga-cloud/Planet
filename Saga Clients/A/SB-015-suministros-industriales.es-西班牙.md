@@ -60,6 +60,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2023-12-15 | 来 | 用户表（Simon 跟进记录；渠道 Email） | 用户表跟进：推「群发工业电源价格册」→ 对方「问问价近期会不会变化」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/S 09.08.xlsx no.15 2023.12.15` |
 | 2026-09-08 | 去 | S 群发 | Industrial Network Switch、Power Converter | 17 封 / 1 次打开 / 0 回｜首封 2024-09-09 → 末封 2026-09-08（17 去 / 0 来） | `gmail_digest` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Inicio - Suministros Industriales MP4 \| Soluciones integrales industriales — Soluciones industriales integrales Ingeniería que mueve tu industria Especialistas en condúctica y automatización industrial. Desde Sabadell, damos soporte técnico a fabricantes y plantas de producción en todo el territorio | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -136,8 +137,10 @@ updated: 2026-10-29
 - **KP**：Hugo Hernàndez（研究档 KP Hugo Hernàndez（曾 1 次回复）= 收件人（第 109 批 官方登记核实 2026-10-28））info@suministros-industriales.es +34 93 590 94 12〔Clients/S 09.08.xlsx〕
 - **KP**：Silvia Pascual Fernández（Administradora única（BORME 2025-06-19）= 拍板人（抄）（第 109 批 官方登记核实 2026-10-28）） 〔https://www.iberinform.es/empresa/1753516/suministros-industriales-mp4〕
 - **调研后定级**：A（原自动 A）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A4 Simon 点名
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 需求映射））
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 需求映射） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

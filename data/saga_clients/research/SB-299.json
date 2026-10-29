@@ -6,7 +6,10 @@
  "summary": "巴基斯坦伊斯兰堡/拉瓦尔品第的电信与 IT 设备供应商 AyeZee Group（1999 年创立、2009 年登记为合伙企业；LinkedIn 51–200 人 / RocketReach 10 人；电信有源设备（PCM 复用器、PDH、媒体转换器）、电源（整流器/UPS）、IT 网络（管理/非管理交换机、Cisco/Huawei 路由、Juniper/Fortinet 防火墙）、太阳能、安防；设 sales.dubai@ 邮箱；用户备注「做项目的，中国有 office」）。表内联系人 Syed（无邮箱，+92 300 850 5900，WA 已加）：2023-12 至 2025-04 多次回「暂时没需求 / 有需求会说 / let me check」；18 次推送 1 次实质回复。设备供应商、品类对口但无现需求 → B 20%。",
  "type": "",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Cisco",
+  "Huawei"
+ ],
  "evidence": [
   {
    "kind": "第三方",
@@ -48,10 +51,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + LinkedIn 核对）"
+  "level": "B 级加厚 v1（官网 + LinkedIn 核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "AyeZee Group（合伙企业，自述 1999 创立 / 2009 登记；NTN 1 查未得；子品牌 OAKTEQ）",
@@ -140,6 +144,14 @@
     "quote": "网站：PDH MC modem SFP FS 做项目的 中国有office；2023.12.15 → 有需求会说；2024.1.20 → 暂时没需求；2024.3.18 → 暂时没需求；2024.5.16 mini工业交换机图 → let ",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Ayezee Group",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://ayezeegroup.com/"
    }
   ],
   "proof_gaps": [
@@ -148,5 +160,29 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:39:06Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@ayezeegroup.com"
+  ],
+  "phones": [
+   "+923008503939"
+  ],
+  "social": [
+   "https://wa.me/+923008503939",
+   "https://www.facebook.com/ayezeegroup",
+   "https://www.youtube.com/watch?v=6mkoGSqTqFI"
+  ],
+  "models_on_site": [],
+  "url": "https://ayezeegroup.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -62,6 +62,7 @@ updated: 2026-10-29
 | 2024-07-07 | 来 | Chandra（NetOn） | Yes, interested | 10G MC | `98852d1abcd4b4a6` |
 | 2024-08-14 | 来 | Chandra | hi Whats the pricing. | 询价 | `68986281c27a13e8` |
 | 2024-08-14 | 去 | Simon | 38usd/pc STI-154GP… -40℃ to 75℃, Din mounted, Without SFP Transceiver, Without Power Supply | 报价后停 | `71f84f290da90e77` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | IT Solutions Dubai UAE \| Wildix & Sangoma Partner \| NetOn Technologies LLC — NetOn Technologies LLC — trusted IT company in Dubai since 2009. Authorized Wildix and Sangoma partner in UAE. IT infrastructure, AI telephony, cloud computing, cybersecurity, structured cabling and telecom solutions across | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -147,7 +148,7 @@ updated: 2026-10-29
 - **是谁**：阿布扎比安防系统集成商（CCTV、门禁、报警、门闸、PA、消防报警；品牌 Paradox/CAME/Deister/Virdi/CDVI），约 9 人、营收估 700 万美元，另有伊拉克业务；客户群自述含军方、VVIP 宫殿、银行、医疗、政府；WA 在线，41 次跟进中 4 次回复（索要资料）。
 - **类型**：安防系统集成商
 - **规模**：小型（≈9 人，≈$7M）
-- **在卖/在用品牌**：Paradox, CAME, Deister Electronic, Virdi, CDVI, Minor（排队系统）
+- **在卖/在用品牌**：Paradox, CAME, Deister Electronic, Virdi, CDVI, Minor（排队系统）, Cisco, Hikvision
 - **【行业目录】产品：CCTV、门禁、入侵报警；客户垂直含军方、VVIP 宫殿、银行、医疗、政府**
   > Euro Technology provides a wide range of fully integrated security technology based business solutions… spanning various verticals like military , VVIP palaces , banking and finance, healthcare, government
   > 来源：https://www.sourcesecurity.com/companies/euro-technology.html（抓取 2026-10-21）
@@ -166,9 +167,10 @@ updated: 2026-10-29
 - **KP**：（见 Clients 表联系人）（）info@eurotechnology.net（公开） +971 2 6417222 / +971 50 751 4160（WA）〔用户 Clients 表 + 官网〕
 - **KP**：M. Maarouf（表内具名邮箱（姓名职务待核；WA +971 50 751 4160 在线；41 次里回 4 次要资料）= 收件人 — 一页纸一次：集成商 25% B small、只给他要过的「资料」= CCTV PoE 阶梯 STC-028GP / 228GP / 2216GP / 2224GP + STC-4424GCPM 一口价、付费样机、MOQ 1、DAP 阿布扎比、WA 发链接— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关）、TDRA / ESMA 不声称（第 117 批 官方登记核实 2026-10-28））m.maarouf@eurotechnology.ae 〔Clients 表邮箱（entities）〕
 - **调研后定级**：A（原自动 A）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
-- 备注：WA 维持；有项目时报 STC-424DGGPM-280W（项目 25%）。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+WA 维持；有项目时报 STC-424DGGPM-280W（项目 25%）。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 需求映射））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 需求映射） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

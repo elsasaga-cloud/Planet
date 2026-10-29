@@ -5,7 +5,12 @@
  "summary": "不丹三家拥有独立国际网关的持牌 ISP 之一（2017 年入市，DWDM/光纤骨干，ISP + 托管安全 + 企业 IT/网络服务；团队约 11 人，核心来自 Bhutan Telecom/DrukNet；注册地 Thimphu TechPark）。**用户表国别「卡塔尔」有误：电话 +975 为不丹区号、域名 .bt、Thimphu = 不丹首都**，已纠正为不丹（南亚）。联系人 Sonam Rinchen（sonam@nano.bt，WA 已加）要收发器、SFP/PoE 交换机，2024-04 问 10G MC 传输距离；19 次推送 1 次实质回复。ISP 自用 + 企业客户项目 → B 25%。",
  "type": "IT/网络经销商",
  "size": "待补证",
- "brands_seen": [],
+ "brands_seen": [
+  "Ubiquiti",
+  "Cisco",
+  "Zyxel",
+  "Cambium"
+ ],
  "evidence": [
   {
    "kind": "用户记录",
@@ -65,11 +70,12 @@
  ],
  "grade_override": "B",
  "override_reason": "1 次回复后 18 次推送无果；中东非主攻区；需求泛（收发器/SFP 非 Saga 主线）→ 慢跟。",
- "notes": "WA 只在有 PoE 新品/促销时触达（STC-28DGGPM，分销 20%）。 ｜ 国别由「卡塔尔」更正为「不丹」（country_fix）；首轮调研 KP 行电话 +974 为误读。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\nWA 只在有 PoE 新品/促销时触达（STC-28DGGPM，分销 20%）。 ｜ 国别由「卡塔尔」更正为「不丹」（country_fix）；首轮调研 KP 行电话 +974 为误读。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照 + 第三方核对 · 国别更正 BT）"
+  "level": "B 级加厚 v1（官网快照 + 第三方核对 · 国别更正 BT） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "NANO（不丹持牌 ISP；公司注册号 1 查未得）",
@@ -157,6 +163,14 @@
     "quote": "表内电话 975-171 13202（+975 = 不丹）；邮箱 sonam@nano.bt（.bt = 不丹）；公司名 Thimphu Techpark（不丹首都 IT 园区）",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "NANO - Internet Service Provider, Managed Security Service Provider, Enterprise Services, Applications & Software, Professional Services",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "http://www.nano.bt/"
    }
   ],
   "proof_gaps": [
@@ -165,5 +179,25 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:21:26Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@nano.bt"
+  ],
+  "phones": [
+   "+975 2 330330"
+  ],
+  "social": [],
+  "models_on_site": [],
+  "url": "http://www.nano.bt/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

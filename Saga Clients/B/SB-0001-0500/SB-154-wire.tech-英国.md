@@ -52,6 +52,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-03-28 | 内 | Gmail 退信（A 邮箱） | enquiries@wire.tech 永久退信：[https://products.office.com/en-us/CMSImages/Office365Logo_Orange.png?version=b8d100a9-0a8b-8e6a-88e1-ef488fee0470] Your | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_a 54e501928ff8e36a` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Wire Technologies — Wire Technologies — Wire Technologies provide solutions for all your networking needs. Our products range from Transceivers Fibre & MPO Cables CAT cables Docking stations Media Converters | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -140,9 +141,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Nathan Barrowclough（Managing Director / 创始人 / Director（Companies House 11576417；1981-04 生；前 RAF / 皇家海军陆战队）= **拍板人 = 研究档 KP 本人**（第 97 批 官方登记核实 2026-10-28））nathan@wire.tech 〔用户表〕
 - **KP**：James Edward Brooks（Director（2021-12-21 起；1993-04 生）= 研究档 KP「James」本人 = 抄送（第 97 批 官方登记核实 2026-10-28））james@wire.tech 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

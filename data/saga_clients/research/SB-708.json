@@ -40,10 +40,11 @@
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "128 Tanjong Pagar Road, Singapore 088535（美國 1170 Centre Dr #F, City of Industry, CA 91789）（第 116 批 官方登记核实 2026-10-28）",
@@ -140,6 +141,14 @@
     "quote": "16 Port Industrial PoE Switch",
     "why": "本日去信真实主题（邮箱索引 83d748429b800b7c；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
     "k": "83d748429b800b7c"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Innovative Connectivity with Advanced Networking Solutions — Hyconext: Innovative networking solutions from PoE switches to data center innovations. We redefine connectivity for a reliable and efficient future.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://hyconext.com/"
    }
   ],
   "proof_gaps": [],
@@ -148,5 +157,39 @@
    "body": "Hello Hyconext team,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 22 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the HC-series multi-gig PoE switches, what we can second-source today, in your housing from small lots, CE/RoHS: 8 x Gigabit PoE+ + 2 x 2.5G SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); 2.5G copper PoE: 4 x 2.5G PoE+ + 1 x 2.5G + 1 x 10G SFP+, unmanaged - STC-114XGDGP - $44.0; a 24-port 2.5G PoE+ managed unit with 10G uplinks - STC-624XGDGPM - $466.4. An 8-port 2.5G PoE managed unit we do not have as a standard model - said up front.\n\nOne question: which SKU would you consider dual-sourcing first - and is 2.5G on the copper ports a must for it?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:46:18Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "jet.l@hyconext.com",
+   "sales@hyconext.com",
+   "support@hyconext.com"
+  ],
+  "phones": [],
+  "social": [
+   "https://twitter.com/intent/tweet?text=Mounting+Bracket+107%2A44%2A28mm%2C+Compatible+with+Hyconext+HC8MT2XP_UP+Series+PoE+Switches%2C+Easy+Installation%2C+424310744020 https%3A%2F%2Fhyconext.com%2Faccessories%2F18995-mounting-bracket-1074428mm-compatible-with-hyconext-hc8mt2xpup-series-poe-switches-easy-installation-424310744020",
+   "https://twitter.com/intent/tweet?text=NextWav+Lite+2.5G+PoE+Series+%E2%80%93+8+Ports+2.5G+%26+2+SFP%2B+10G+Ports+%26+250W+PoE+Power+HC8MT2XP-UP+Series https%3A%2F%2Fhyconext.com%2Fpoe-switches%2F18990-nextwav-lite-hc8mt2xp-up-series",
+   "https://twitter.com/intent/tweet?text=NextWav+Passive+2.5G+PoE+Series+-+16+ports+2.5G+%26+6+SFP%2B+10G+Ports+%26+500W+PoE+Power+HC16MT6XPAS-UP+Series https%3A%2F%2Fhyconext.com%2Fpoe-switches%2F19221-HC16MT6XPAS",
+   "https://www.facebook.com/hyconext/"
+  ],
+  "models_on_site": [
+   "HC16MT6XPAS-UP",
+   "QSFP28",
+   "HC8MT2XP-UP",
+   "SFP28",
+   "HC16MT6XP-UP-PRO",
+   "HC16MT6XPAS-UP-AC",
+   "HC16MT6XPAS-UP-DC",
+   "HC16MT6XPAS-UP-BAT"
+  ],
+  "url": "https://hyconext.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

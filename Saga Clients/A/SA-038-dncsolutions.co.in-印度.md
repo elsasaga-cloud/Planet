@@ -159,7 +159,8 @@ updated: 2026-10-29
   > 来源：https://www.dncsolutions.co.in/（抓取 2026-10-21）
 - **KP**：—（官网公开电话（WhatsApp 已加）） +91 96561 23414〔https://www.dncsolutions.co.in/〕
 - **KP**：Lakshman Lakshmannivas Deepak（Director（DIN 06562153，2013-05-20 创立至今，唯一在任创始董事）= 实控人；Whole-time Director Nomitha Soundrarajan（2023-07）；MCA 年报停在 FY2022-23（第 85 批 官方登记核实 2026-10-27）） 〔https://www.zaubacorp.com/DNC-TECHNOSOLUTIONS-PRIVATE-LIMITED-U33125KL2013PTC034130〕
-- 备注：A 维持（2 次实质回复 + 自有品牌 + 官网电话即 WhatsApp）；主需求 MC 与 VC：P1 = STI-110GE（MC）贴牌 30%；VC/HDMI 光端机 Saga 不做，如实说明。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+A 维持（2 次实质回复 + 自有品牌 + 官网电话即 WhatsApp）；主需求 MC 与 VC：P1 = STI-110GE（MC）贴牌 30%；VC/HDMI 光端机 Saga 不做，如实说明。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v2（官网 dncsolutions.co.in + IndiaMART 核对））
 

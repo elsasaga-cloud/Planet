@@ -49,10 +49,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照 + 表内：技术型买家）"
+  "level": "B 级加厚 v1（官网快照 + 表内：技术型买家） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Bits and Byte IT Consulting Private Limited（bits&BYTE；CIN U72900KA2015PTC145953；#52, 2nd Floor, Vittal Mallya Road, Bangalore 560001；≈57 人；₹10–50 Cr FY2025；研究档「Bits&Byte Consulting Pvt Ltd」更正）",
@@ -180,10 +181,43 @@
     "quote": "兴趣：BTON带过来的 问了Ring时间能否小于20ms 2光10电不要PoE价格 简单谈了4光10电，10G光的 对bypass有兴趣，看了接线图 问了100G/200G/400G模块的芯片方案",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "bits&BYTE | Infrastructure for what’s next — Engineering-led cloud, cybersecurity, networking and managed services.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.bitsandbyte.net/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:39:14Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "contact@bitsandbyte.net"
+  ],
+  "phones": [
+   "+91 95133 70890"
+  ],
+  "social": [
+   "https://wa.me/919513370890?text=Hello%20bits%26BYTE%2C%20I%20found%20you%20on%20your%20website%20and%20would%20like%20to%20talk%20about",
+   "https://www.facebook.com/profile.php?id=100064194990048",
+   "https://www.instagram.com/bits_and_byte/",
+   "https://www.linkedin.com/company/bitsandbyteitconsulting/"
+  ],
+  "models_on_site": [],
+  "url": "https://www.bitsandbyte.net/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

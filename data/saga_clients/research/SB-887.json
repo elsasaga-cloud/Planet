@@ -7,7 +7,11 @@
  "type": "",
  "size": "",
  "brands_seen": [
-  "Jablotron（合作伙伴）"
+  "Jablotron（合作伙伴）",
+  "Hikvision",
+  "Dahua",
+  "MikroTik",
+  "Teltonika"
  ],
  "evidence": [
   {
@@ -50,10 +54,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 国别由表内「土耳其」更正为「塞尔维亚」（country_fix，依据见加厚块）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 国别由表内「土耳其」更正为「塞尔维亚」（country_fix，依据见加厚块）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（登记 + 官网核对；国家更正 RS）"
+  "level": "B 级加厚 v1（登记 + 官网核对；国家更正 RS） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "STASANET doo BEOGRAD-VRAČAR（MB 20967374，PIB 108279647）",
@@ -121,6 +126,14 @@
     "quote": "Ady加了WhatsApp， 拿了彩页 / Predrag / stasanet.rs",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Alarmi i alarmni sistemi Video nadzor Interfoni STASANET — Stasanet DOO se bavi uvozom i distribucijom sigurnosne opreme: alarmni sistemi, video nadzor, kontrola pristupa. Pružićemo najbolje i najoptimalnije rešenje za vaš poslovni ili stambeni objekat.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.stasanet.rs/"
    }
   ],
   "proof_gaps": [
@@ -141,5 +154,40 @@
   "note": "贝尔格莱德安防技术分销商 Stasanet（2013 注册；展会拿彩页，Ady 加了 WA）：行业内 ✔ 对位 ✔ 欧洲 → 留 B",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 ✔，绑定 轻度触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": []
+ "override_history": [],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:24:32Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@stasanet.rs"
+  ],
+  "phones": [
+   "+381 11 4065 158",
+   "+381 64 88 00 999"
+  ],
+  "social": [
+   "https://twitter.com/share",
+   "https://www.facebook.com/STASANETrs",
+   "https://www.instagram.com/stasanetrs/",
+   "https://www.linkedin.com/company/stasanet-doo/posts/?feedView=all"
+  ],
+  "models_on_site": [
+   "DS-3E0105P-E",
+   "NC300",
+   "DS-3E0105D-O",
+   "SF1005L",
+   "DS-3E0108D-O",
+   "DS-3E0108D-E",
+   "SF1005",
+   "SF1008L"
+  ],
+  "url": "https://www.stasanet.rs/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

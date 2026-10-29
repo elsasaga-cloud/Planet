@@ -1,178 +1,212 @@
 {
-  "code": "SA-003",
-  "name_official": "Eyescan Private Security Services Ltd（EYESCAN Security Systems）",
-  "website_status": "在线",
-  "summary": "塞浦路斯利马索尔安防集成商 + 分销商（2001 年成立，11–50 人，LinkedIn 专长含 Distribution；ZKTeco、Eocortex 列为其集成/分销伙伴），业务：IP CCTV、门禁、报警、监控中心。用户备注：要了工业品价格表，特别问了 4 光 24 电价格，也问了 2 光 24 商业级。",
-  "type": "安防集成/经销（兼分销）",
-  "size": "11–50 人（LinkedIn）；营收约 $1M（RocketReach/Infobel）",
-  "brands_seen": [
-    "ZKTeco",
-    "Eocortex",
-    "Cisco",
-    "TVT"
-  ],
-  "evidence": [
-    {
-      "kind": "第三方（LinkedIn）",
-      "claim": "规模与业务：11–50 人，专长含 IP CCTV、门禁、Distribution",
-      "quote": "Industry: Security and Investigations · Company size: 11-50 employees · Headquarters: Limassol · Founded: 2001 · Specialties: Integrated Security Systems, Access Control Systems, IP CCTV, … and Distribution",
-      "url": "https://cy.linkedin.com/company/eyescan-security-systems",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "第三方（ZKTeco）",
-      "claim": "被 ZKTeco 描述为塞浦路斯安防方案分销商",
-      "quote": "Eyescan Securities Systems was founded in 2001 and is a security solutions distributor based in Cyprus. They especialize in designing, selling, installing, integrating, and maintaining security systems",
-      "url": "https://zkteco.eu/news-center/news/zkteco-strengthens-its-security-offerings-eyescan-cyprus",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "官方分销 TVT 与 ZKTeco；业务线 CCTV/报警/门禁/对讲/护士呼叫/疏散/楼宇自动化/ARC",
-      "quote": "Official Distributors of [TVT] [ZKTeco] … Proudly Protecting People and Businesses Since 2001 … Certified Integrator of major security vendors Cisco Certified Network Associate.",
-      "url": "https://eyescan.com.cy/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "产品页列出 11 条产品线（含 CCTV 4K、Access Control、Integrated Solutions）",
-      "quote": "Our Products: Intruder Alarms · CCTV · Fire Detection · Access Control · Video Door Entry · Integrated Solutions · Nurse Call Systems · Voice Evac · Telematics · Smart Building Automation · Evacuation Products",
-      "url": "https://eyescan.com.cy/products/",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "—",
-      "role": "总机",
-      "email": "info@eyescan.com.cy",
-      "phone": "+357 25 333 300",
-      "source": "https://eyescan.com.cy/"
-    }
-  ],
-  "notes": "A 级确认：有具体型号问价（4 光 24 电 / 2 光 24），安防集成+分销双身份，欧盟小国但决策快；P1 建议 STC-424DGGPM-280W（24 电 PoE）+ 备选 STI-4240DGGM。",
-  "researched_at": "2026-10-21",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "深挖 v1"
+ "code": "SA-003",
+ "name_official": "Eyescan Private Security Services Ltd（EYESCAN Security Systems）",
+ "website_status": "在线",
+ "summary": "塞浦路斯利马索尔安防集成商 + 分销商（2001 年成立，11–50 人，LinkedIn 专长含 Distribution；ZKTeco、Eocortex 列为其集成/分销伙伴），业务：IP CCTV、门禁、报警、监控中心。用户备注：要了工业品价格表，特别问了 4 光 24 电价格，也问了 2 光 24 商业级。",
+ "type": "安防集成/经销（兼分销）",
+ "size": "11–50 人（LinkedIn）；营收约 $1M（RocketReach/Infobel）",
+ "brands_seen": [
+  "ZKTeco",
+  "Eocortex",
+  "Cisco",
+  "TVT"
+ ],
+ "evidence": [
+  {
+   "kind": "第三方（LinkedIn）",
+   "claim": "规模与业务：11–50 人，专长含 IP CCTV、门禁、Distribution",
+   "quote": "Industry: Security and Investigations · Company size: 11-50 employees · Headquarters: Limassol · Founded: 2001 · Specialties: Integrated Security Systems, Access Control Systems, IP CCTV, … and Distribution",
+   "url": "https://cy.linkedin.com/company/eyescan-security-systems",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Eyescan Private Security Services Ltd",
-    "founded": "2001（官网「Since 2001」）",
-    "hq": "Limassol, Cyprus",
-    "staff": "11–50（LinkedIn）",
-    "other": "塞浦路斯当局注册的持牌安防公司；团队含 Cisco CCNA；TVT 与 ZKTeco 的官方分销商（官网「Official Distributors of」）"
+  {
+   "kind": "第三方（ZKTeco）",
+   "claim": "被 ZKTeco 描述为塞浦路斯安防方案分销商",
+   "quote": "Eyescan Securities Systems was founded in 2001 and is a security solutions distributor based in Cyprus. They especialize in designing, selling, installing, integrating, and maintaining security systems",
+   "url": "https://zkteco.eu/news-center/news/zkteco-strengthens-its-security-offerings-eyescan-cyprus",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "入侵报警",
-    "CCTV（4K IP 系统）",
-    "火灾探测",
-    "门禁（QR/RFID 读头）",
-    "可视对讲",
-    "护士呼叫",
-    "语音疏散/广播",
-    "车联/Telematics",
-    "楼宇自动化",
-    "报警接收中心 ARC + 24/7 AI 视频分析/设备监控/机房环境监控"
-  ],
-  "products_seen": [
-    {
-      "brand": "TVT",
-      "model": "IP CCTV 全线（官方分销）",
-      "spec": "IP 摄像机 + NVR，需 PoE 接入层",
-      "url": "https://eyescan.com.cy/",
-      "date": "2026-10-21",
-      "saga": "STC-424DGGPM-280W"
-    },
-    {
-      "brand": "ZKTeco",
-      "model": "门禁/考勤（官方分销）",
-      "spec": "IP 门禁控制器、读头，PoE 供电点位",
-      "url": "https://eyescan.com.cy/",
-      "date": "2026-10-21",
-      "saga": "STC-28DGGPM"
-    }
-  ],
-  "channels": {
-    "网站表单": "https://eyescan.com.cy/（含 PayPal 支付入口）",
-    "LinkedIn": "https://cy.linkedin.com/company/eyescan-security-systems",
-    "直邮": "marinos@eyescan.com.cy（用户表）/ info@eyescan.com.cy"
+  {
+   "kind": "官网",
+   "claim": "官方分销 TVT 与 ZKTeco；业务线 CCTV/报警/门禁/对讲/护士呼叫/疏散/楼宇自动化/ARC",
+   "quote": "Official Distributors of [TVT] [ZKTeco] … Proudly Protecting People and Businesses Since 2001 … Certified Integrator of major security vendors Cisco Certified Network Associate.",
+   "url": "https://eyescan.com.cy/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "2026-10：官网主推 QR/RFID 门禁读头、AI 视频分析、24/7 监控中心——持续在做项目型安防集成（https://eyescan.com.cy/ 2026-10-21）",
-    "用户表：已成单；问过 4 光 24 电工业机 + 2 光 24 商业级 PoE 管理型价格，并表示「国家小，买了卖给别人」= 兼做分销"
-  ],
-  "risks": [
-    "塞浦路斯市场小，单次量有限",
-    "分销 TVT/ZKTeco 产品线自带配套交换机，需用价格+管理功能切入"
-  ],
-  "saga_fit": {
-    "p1": "STC-424DGGPM-280W",
-    "tier": 25,
-    "why": "CCTV/门禁集成 + ZKTeco/TVT 分销：24 口 PoE 管理型是其 NVR 机柜标准配置；其问过的「4 光 24 电」对位 STC-424XGGPM-280W（4×10G SFP+），「2 光 24 商业级可管理」对位 STC-424DGGPM-280W"
-  },
-  "email_hook": "For TVT and ZKTeco deployments the 24-port managed PoE unit is usually the slot that decides the cabinet BOM, so I am sending the two versions you asked about before (2-SFP and 4-SFP+ uplinks) with current EXW numbers.",
-  "mail_review": {
-    "binding": {
-      "level": "未绑定（邮件 16 封 0 回；用户表「具体型号问价 4 光 24 电 / 2 光 24」应来自 WhatsApp；Elsa 箱：`to:eyescan.com.cy` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 16 / 来 0）（第 74 批(g)））",
-      "type": "塞浦路斯安防集成 + 分销（Marinos）",
-      "sieve": "0（邮件层无人工回复）",
-      "stop": "邮件层无互动；Opened 1 次（2025-05-29）",
-      "revive": "WhatsApp（用户表）",
-      "lane": "CY/EU",
-      "cadence": "WhatsApp 季度",
-      "evidence": "邮件：去信 16 封（2025-03-19 → 2026-09-14），来信 0；Opened 标签 1 次（2025-05-29）；收件人 marinos@eyescan.com.cy"
-    },
-    "situation": "邮件两年 16 封只被打开 1 次；若「问价」属实，渠道在 WhatsApp。",
-    "need": "24 口 PoE 管理（4 光/2 光）。",
-    "breakpoint": "邮件不是其渠道。",
-    "saga_now": {
-      "p1": "STC-424DGGPM-280W",
-      "tier": 25,
-      "price": "—；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-19 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch）",
-      "why": "已打开的主题（1/16 封有打开记录）：「Mini Industrial PoE Switch」(2025-05-29) → 读者兴趣偏「工业」；与 P1 同类，继续",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "按 WA 节奏",
-      "channel": "WhatsApp",
-      "action": "WhatsApp 一句话（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
-      "one_question": "Which of the two 24-port configs (4×SFP / 2×SFP) did the price land for, and is the project still live?"
-    },
-    "facts": [
-      {
-        "date": "2025-03-19",
-        "dir": "去",
-        "who": "A 箱（Alan）",
-        "quote": "48 Port PoE Managed Switch",
-        "why": "首封去信（邮箱索引；去信共 16 封）",
-        "k": "bdfae7d60ad9d6fc"
-      },
-      {
-        "date": "2025-05-29",
-        "dir": "去",
-        "who": "Saga（群发）",
-        "quote": "「Mini Industrial PoE Switch」被打开（Mailtrack Opened 标签）",
-        "why": "唯一的互动痕迹",
-        "k": "66ef1c3d2c1a5e08"
-      },
-      {
-        "date": "2026-09-14",
-        "dir": "去",
-        "who": "A 箱（Alan）",
-        "quote": "16 Port Industrial PoE Switch",
-        "why": "最近一封去信（邮箱索引；去信共 16 封）",
-        "k": "f6c64abd03bd5dab"
-      }
-    ],
-    "proof_gaps": [
-      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
-    ],
-    "draft_en": {
-      "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
-      "body": "Hi, Simon from Saga Telecom. The two 24-port PoE configs you asked about, current numbers, EXW, MOQ 1, 15-day validity: 24 x PoE+ (280 W) + 4 x 10G SFP+, L2+ managed, Marvell-based - STC-424XGGPM-280W - $180 (the July mail said $170; the RMB moved from 7.2 to 6.7 since); 24 x PoE+ + 4 x SFP (1G/2.5G), L2+ managed - STC-424DGGPM-280W - $140.1; the industrial DIN 24 x PoE+ + 4 x 10G you asked about - STI-42424XGGPM - $411.1. Which config did the price land for, and is that project still live?"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "官网",
+   "claim": "产品页列出 11 条产品线（含 CCTV 4K、Access Control、Integrated Solutions）",
+   "quote": "Our Products: Intruder Alarms · CCTV · Fire Detection · Access Control · Video Door Entry · Integrated Solutions · Nurse Call Systems · Voice Evac · Telematics · Smart Building Automation · Evacuation Products",
+   "url": "https://eyescan.com.cy/products/",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "总机",
+   "email": "info@eyescan.com.cy",
+   "phone": "+357 25 333 300",
+   "source": "https://eyescan.com.cy/"
+  }
+ ],
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\nA 级确认：有具体型号问价（4 光 24 电 / 2 光 24），安防集成+分销双身份，欧盟小国但决策快；P1 建议 STC-424DGGPM-280W（24 电 PoE）+ 备选 STI-4240DGGM。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1 + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
+ },
+ "company_facts": {
+  "legal_name": "Eyescan Private Security Services Ltd",
+  "founded": "2001（官网「Since 2001」）",
+  "hq": "Limassol, Cyprus",
+  "staff": "11–50（LinkedIn）",
+  "other": "塞浦路斯当局注册的持牌安防公司；团队含 Cisco CCNA；TVT 与 ZKTeco 的官方分销商（官网「Official Distributors of」）"
+ },
+ "business_lines": [
+  "入侵报警",
+  "CCTV（4K IP 系统）",
+  "火灾探测",
+  "门禁（QR/RFID 读头）",
+  "可视对讲",
+  "护士呼叫",
+  "语音疏散/广播",
+  "车联/Telematics",
+  "楼宇自动化",
+  "报警接收中心 ARC + 24/7 AI 视频分析/设备监控/机房环境监控"
+ ],
+ "products_seen": [
+  {
+   "brand": "TVT",
+   "model": "IP CCTV 全线（官方分销）",
+   "spec": "IP 摄像机 + NVR，需 PoE 接入层",
+   "url": "https://eyescan.com.cy/",
+   "date": "2026-10-21",
+   "saga": "STC-424DGGPM-280W"
+  },
+  {
+   "brand": "ZKTeco",
+   "model": "门禁/考勤（官方分销）",
+   "spec": "IP 门禁控制器、读头，PoE 供电点位",
+   "url": "https://eyescan.com.cy/",
+   "date": "2026-10-21",
+   "saga": "STC-28DGGPM"
+  }
+ ],
+ "channels": {
+  "网站表单": "https://eyescan.com.cy/（含 PayPal 支付入口）",
+  "LinkedIn": "https://cy.linkedin.com/company/eyescan-security-systems",
+  "直邮": "marinos@eyescan.com.cy（用户表）/ info@eyescan.com.cy"
+ },
+ "signals": [
+  "2026-10：官网主推 QR/RFID 门禁读头、AI 视频分析、24/7 监控中心——持续在做项目型安防集成（https://eyescan.com.cy/ 2026-10-21）",
+  "用户表：已成单；问过 4 光 24 电工业机 + 2 光 24 商业级 PoE 管理型价格，并表示「国家小，买了卖给别人」= 兼做分销"
+ ],
+ "risks": [
+  "塞浦路斯市场小，单次量有限",
+  "分销 TVT/ZKTeco 产品线自带配套交换机，需用价格+管理功能切入"
+ ],
+ "saga_fit": {
+  "p1": "STC-424DGGPM-280W",
+  "tier": 25,
+  "why": "CCTV/门禁集成 + ZKTeco/TVT 分销：24 口 PoE 管理型是其 NVR 机柜标准配置；其问过的「4 光 24 电」对位 STC-424XGGPM-280W（4×10G SFP+），「2 光 24 商业级可管理」对位 STC-424DGGPM-280W"
+ },
+ "email_hook": "For TVT and ZKTeco deployments the 24-port managed PoE unit is usually the slot that decides the cabinet BOM, so I am sending the two versions you asked about before (2-SFP and 4-SFP+ uplinks) with current EXW numbers.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（邮件 16 封 0 回；用户表「具体型号问价 4 光 24 电 / 2 光 24」应来自 WhatsApp；Elsa 箱：`to:eyescan.com.cy` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 16 / 来 0）（第 74 批(g)））",
+   "type": "塞浦路斯安防集成 + 分销（Marinos）",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "邮件层无互动；Opened 1 次（2025-05-29）",
+   "revive": "WhatsApp（用户表）",
+   "lane": "CY/EU",
+   "cadence": "WhatsApp 季度",
+   "evidence": "邮件：去信 16 封（2025-03-19 → 2026-09-14），来信 0；Opened 标签 1 次（2025-05-29）；收件人 marinos@eyescan.com.cy"
+  },
+  "situation": "邮件两年 16 封只被打开 1 次；若「问价」属实，渠道在 WhatsApp。",
+  "need": "24 口 PoE 管理（4 光/2 光）。",
+  "breakpoint": "邮件不是其渠道。",
+  "saga_now": {
+   "p1": "STC-424DGGPM-280W",
+   "tier": 25,
+   "price": "—；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-19 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch）",
+   "why": "已打开的主题（1/16 封有打开记录）：「Mini Industrial PoE Switch」(2025-05-29) → 读者兴趣偏「工业」；与 P1 同类，继续",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "按 WA 节奏",
+   "channel": "WhatsApp",
+   "action": "WhatsApp 一句话（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）",
+   "one_question": "Which of the two 24-port configs (4×SFP / 2×SFP) did the price land for, and is the project still live?"
+  },
+  "facts": [
+   {
+    "date": "2025-03-19",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "48 Port PoE Managed Switch",
+    "why": "首封去信（邮箱索引；去信共 16 封）",
+    "k": "bdfae7d60ad9d6fc"
+   },
+   {
+    "date": "2025-05-29",
+    "dir": "去",
+    "who": "Saga（群发）",
+    "quote": "「Mini Industrial PoE Switch」被打开（Mailtrack Opened 标签）",
+    "why": "唯一的互动痕迹",
+    "k": "66ef1c3d2c1a5e08"
+   },
+   {
+    "date": "2026-09-14",
+    "dir": "去",
+    "who": "A 箱（Alan）",
+    "quote": "16 Port Industrial PoE Switch",
+    "why": "最近一封去信（邮箱索引；去信共 16 封）",
+    "k": "f6c64abd03bd5dab"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Home - Eyescan Private Security Services Ltd",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://eyescan.com.cy/"
+   }
+  ],
+  "proof_gaps": [
+   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文"
+  ],
+  "draft_en": {
+   "subject": "WhatsApp / 私信一句话（复制即发；不发邮件）",
+   "body": "Hi, Simon from Saga Telecom. The two 24-port PoE configs you asked about, current numbers, EXW, MOQ 1, 15-day validity: 24 x PoE+ (280 W) + 4 x 10G SFP+, L2+ managed, Marvell-based - STC-424XGGPM-280W - $180 (the July mail said $170; the RMB moved from 7.2 to 6.7 since); 24 x PoE+ + 4 x SFP (1G/2.5G), L2+ managed - STC-424DGGPM-280W - $140.1; the industrial DIN 24 x PoE+ + 4 x 10G you asked about - STI-42424XGGPM - $411.1. Which config did the price land for, and is that project still live?"
+  },
+  "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:19:33Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@eyescan.com.cy"
+  ],
+  "phones": [
+   "+357 25 333 300",
+   "+357 25 750 740"
+  ],
+  "social": [
+   "https://www.facebook.com/EyeScanSecurities/",
+   "https://www.instagram.com/eyescansecuritysystems/",
+   "https://www.linkedin.com/company/eyescan-security-systems/"
+  ],
+  "models_on_site": [],
+  "url": "https://eyescan.com.cy/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

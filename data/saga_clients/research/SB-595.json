@@ -6,7 +6,9 @@
  "summary": "印度公司 MPCL（mpcl.in；chetan@mpcl.in，群发退信「发不过去」）。用户表（富通天下外贸数据）：买了商业 PoE 交换机（从同行进口），非 Saga 成交。邮箱不可达 → 需从官网重新找联系方式；主体待核。",
  "type": "",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Ubiquiti"
+ ],
  "evidence": [
   {
    "kind": "用户表",
@@ -19,10 +21,11 @@
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（基于用户表整理 + 需求映射；邮箱退信；「成交」为富通天下外贸数据）"
+  "level": "B 级加厚 v1（基于用户表整理 + 需求映射；邮箱退信；「成交」为富通天下外贸数据） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "未坐实（mpcl.in 无公开主体；1 查仅命中同名 MPCL Industries Limited U26959DL1993PLC219546 mpcl.co.in 德里电气设备集团 ≠）",
@@ -86,6 +89,14 @@
     "quote": "买了商业POE / 发不过去 / chetan@mpcl.in / 富通天下",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Micropoint Computers Private Limited | Building | Managing | Innovating |",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://mpcl.in/"
    }
   ],
   "proof_gaps": [
@@ -93,5 +104,30 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:43:45Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@mpcl.in",
+   "ssales@mpcl.in"
+  ],
+  "phones": [
+   "+91 (022) 40956301"
+  ],
+  "social": [
+   "https://www.linkedin.com/company/mpcl-official/",
+   "https://www.linkedin.com/in/amul-mahale-769006302/",
+   "https://www.linkedin.com/in/chetan-goyani-98759a36/"
+  ],
+  "models_on_site": [],
+  "url": "https://mpcl.in/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

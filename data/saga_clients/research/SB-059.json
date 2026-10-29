@@ -51,11 +51,12 @@
  ],
  "grade_override": "B",
  "override_reason": "在售 Red Lion（高价美系工业线）本可做性价比替代，但 1 次回复后 10 次推送无果且已停滞 1 年 → 慢跟。",
- "notes": "重启一封：Red Lion 工业 PoE 对位 STI-288DGGPM 价差。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n重启一封：Red Lion 工业 PoE 对位 STI-288DGGPM 价差。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对）"
+  "level": "B 级加厚 v1（官网快照核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "AVANCA TECHNOLOGIES PTE. LTD.（UEN 200207710N；Private Company Limited By Shares；Live；.SG 域名注册人）",
@@ -131,10 +132,40 @@
     "quote": "Its commercial grade 10G based. For industrial grade, we just have 100M or 1G models, without 10G models.",
     "why": "缺口",
     "k": "039877a1efae067a"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Industrial 4G/5G Routers Modems Singapore - Avanca Technologies — Industrial 4G/5G router and modems are used to provide better connectivity, higher bandwidth, and faster network responsiveness. Call us for industrial grade modem and router in Singapore.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://avanca.com.sg/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:22:24Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [
+   "+65 6242 5108"
+  ],
+  "social": [],
+  "models_on_site": [
+   "RS-232",
+   "RS-485",
+   "NT24K"
+  ],
+  "url": "https://avanca.com.sg/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

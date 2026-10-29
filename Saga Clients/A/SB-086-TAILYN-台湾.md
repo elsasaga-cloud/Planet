@@ -62,6 +62,7 @@ updated: 2026-10-29
 | 2025-07-10 | 来 | garychen@tailyn.com.tw | Hi Alan, Could you mail us the details of Marvell Industrial Alert System? Best regards, Gary [cid:image001.png@01DBF1A3.E0233A90] T +886-3-3222201 # | 来信原文（主题「RE: [External]Marvell Industrial Al」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `dde2fa9ba8c3c6b8` |
 | 2026-04-02 | 来 | garychen@tailyn.com.tw | Thanks Alan. I will let you know if any model is useful to me. Best regards, Gary [cid:image001.png@01DCC2A7.356B3E60] T +886-3-3222201 # 6501 F +886- | 来信原文（主题「RE: FW: [External]Marvell Industria」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `ddab5b933723562b` |
 | 2026-08-11 | 来 | Gary Chen | Thanks Alan and I don't have requirement so far. | 无需求 | `8f58c5f5654aaa52` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Tailyn Technologies, Inc. — Challenges are prospects that evolve from the future, for the purpose of fulfilling the smart life TAILYN has accumulated 40 years of devoted focus in industrial applications, telecommunications, telematics and other precision equipment domains, providing comprehensive,  | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -146,9 +147,10 @@ updated: 2026-10-29
 - **KP**：Jill（研究档联系人 — 不動（第 116 批 官方登记核实 2026-10-28））jill@tailyn.com.tw 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：陳俊廷（董事長 / 總經理（twincn；上櫃 5353；統編 12278439）— 不發（第 116 批 官方登记核实 2026-10-28）） 〔https://twincn.com/item.aspx?no=12278439〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来；A6 真回≥3+对位（任何区域）
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照：台系制造商 ODM））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照：台系制造商 ODM） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

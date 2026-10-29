@@ -35,10 +35,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（快照空页 + 表内）"
+  "level": "B 级加厚 v1（快照空页 + 表内） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Arcan Libya（1 查仅同名 ARKAN 干扰；未匹配）",
@@ -111,6 +112,14 @@
     "quote": "DNS 2026-10-29 14:48Z：arcanlibya.com MX 10 mx1.secure.ly…；A 102.213.180.5",
     "why": "长期客户群复核证据（非邮件事实，不计真回）",
     "url": ""
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "arcanlibya.com",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://arcanlibya.com/"
    }
   ],
   "proof_gaps": [
@@ -129,5 +138,12 @@
   "note": "DNS 复查正常（arcanlibya.com MX mx1–4.secure.ly / A 102.213.180.5，2026-10-29 14:48Z；早上那轮误报）→ 不动；ISAF 2025 接触 + WA 在",
   "why": ""
  },
- "override_history": []
+ "override_history": [],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:39:16Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ }
 }

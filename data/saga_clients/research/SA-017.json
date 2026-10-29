@@ -8,7 +8,8 @@
  "brands_seen": [
   "E-link",
   "Riden",
-  "Weipu"
+  "Weipu",
+  "Cisco"
  ],
  "evidence": [
   {
@@ -63,11 +64,12 @@
    "source": "https://open.endole.co.uk/insight/company/10314407-parallax-digital-technologies-limited；S 邮箱来信表头"
   }
  ],
- "notes": "A 维持但体量极小（1 人公司）：有真实装机场景（消防探测网络用工业交换机）+ 2 次实质回复 + 已在买中国 E-link；适合 Saga 的小批量多批次模式。P1 = STI-244GP/288GP 非管理工业（对位 E-link 5 电口）。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\nA 维持但体量极小（1 人公司）：有真实装机场景（消防探测网络用工业交换机）+ 2 次实质回复 + 已在买中国 E-link；适合 Saga 的小批量多批次模式。P1 = STI-244GP/288GP 非管理工业（对位 E-link 5 电口）。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1"
+  "level": "深挖 v1 + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Parallax Digital Technologies Ltd",
@@ -189,6 +191,14 @@
     "quote": "用户表跟进：推「发了工业电源价格册」→ 对方「will check 问了网站 后续发了2光4小壳」",
     "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
     "k": "Clients/A/DONE/UK.xlsx no.56 2024.12.28"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Parallax Digital – Digital products and services",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://parallaxdigital.co.uk/"
    }
   ],
   "proof_gaps": [],
@@ -197,5 +207,39 @@
    "body": "Hi Jeff,\n\nYou told us two things in 2024: the 52-port Cisco stock at $124 leaves no room for a new rack switch, and your customers want 24 V or 48 V, not a combo. The mails you had since ignored both; this one does not.\n\nFor the fire-detection networks where you use the E-link 5-port: DIN-rail 5 x Gigabit unmanaged, 12-58 V DC in, -40 to 75 C, CE/UKCA/RoHS - model STI-050GE - $26.0 USD EXW (MOQ 1, 15-day validity); 8-port - STI-080GE - $34.0; 4 x Gigabit PoE+ + 1 x SFP, 48 V fixed (44-57 V DC in, no auto-switching) - STI-144GP - $36.9. PDT packing from small lots.\n\nOne question: for the high-rise fire-detection networks, is it the 5-port copper unit or the 4-PoE unit that gets specified most?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:19:39Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@parallaxdigital.co.uk"
+  ],
+  "phones": [
+   "+44 (0)1670 202001"
+  ],
+  "social": [
+   "https://twitter.com/ParallaxDigTech",
+   "https://www.facebook.com/ParallaxDigTech",
+   "https://www.instagram.com/parallaxdigtech/",
+   "https://www.linkedin.com/company/14845052/"
+  ],
+  "models_on_site": [
+   "PDT-NSM-7024-MP-I",
+   "PDT-NSM-7208-MP-SF-I",
+   "GB251731130",
+   "SP1310",
+   "SP1312",
+   "PDT-NSU-7104-MP-SF-I",
+   "PDT-NSU-7105-MP-SF-I",
+   "PDT-SFP-02-10G-1310-2000"
+  ],
+  "url": "https://parallaxdigital.co.uk/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -55,6 +55,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2024-12-10 | 去 | S 群发 | 48 Port PoE Managed Switch | 1 封 / 0 次打开 / 0 回｜首封 2024-12-10 → 末封 2024-12-10（1 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | （空） | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | The Baldota Group — The Baldota Group was established in 1961 and is one of India’s leading iron ore mining companies. And various other business areas that includes wind power. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -130,9 +131,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：P.S. Vijaykumar（MSPL Limited 研究档 KP（WA 已加无实质回复；职务待核）= 收件人（第 114 批 官方登记核实 2026-10-28））ps.vijay@mspllimited.com +91 99160 60959〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Narendra Baldota（Chairman & Managing Director MSPL Limited（Baldota 集团）— 不直接收件（第 114 批 官方登记核实 2026-10-28）） 〔https://en.wikipedia.org/wiki/MSPL_Limited〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照：终端用户））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照：终端用户） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

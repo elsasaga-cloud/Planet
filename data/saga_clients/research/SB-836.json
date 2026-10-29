@@ -51,10 +51,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-073，W 批次调研 2026-10-19/20）"
+  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-073，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "FIBERWORKS AS（Org.nr 959977046；AS；1990-12-27 成立；Eikenga 11, 0579 Oslo；NACE 46.500；股本 NOK 500,000；前名 INS Communications AS 等 6 个；2025 年报已交）",
@@ -181,10 +182,48 @@
     "quote": "Industrial PoE Switch、24 Port PoE Managed Switch",
     "why": "24 封 / 2 次打开 / 0 回｜首封 2024-07-05 → 末封 2026-10-10（24 去 / 0 来）",
     "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Hjem - Fiberworks — Forsiden",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.fiberworks.no/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:48:31Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@fiberworks.no",
+   "salg@fiberworks.no"
+  ],
+  "phones": [
+   "+47 23 03 53 30"
+  ],
+  "social": [],
+  "models_on_site": [
+   "PT-7A2-T9Y",
+   "P-OM4-U2M-LCP-LCP",
+   "P-7A2-S3W-SCA-SCA",
+   "P-SM9-S2Y-STU-FCU",
+   "P-OM3-S2A-LCP-LCP",
+   "P-7A2-S3W-LCU-SCU",
+   "P-7A2-S3W-SCA-SCU",
+   "P-SM9-L2Y-SCU-SCU0"
+  ],
+  "url": "https://www.fiberworks.no/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

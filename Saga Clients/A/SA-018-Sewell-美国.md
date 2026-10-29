@@ -62,6 +62,7 @@ updated: 2026-10-29
 | 2025-05-01 | 去 | Saga（群发） | 「10G Media Converter」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `d759d1535e90b464` |
 | 2025-05-01 | 内 | Gmail 退信（A 邮箱） | brett@sewelldirect.com 永久退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_a 5e9316441dacaabf` |
 | 2025-10-13 | 去 | Saga（群发） | 「Managed Optical Bypass Switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `868baaf6e6acfd0a` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | HDMI & Audio/Video Products for Home Theater — Sewell Direct — Easy to use, affordable AV products such as banana plugs, speaker cables, XLR, HDMI splitters, switches and cables. Fast, free shipping and expert tech support. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：「成交 + 复购」无 PI：请 Simon 确认是哪条通道
 
@@ -165,7 +166,7 @@ updated: 2026-10-29
 - **是谁**：美国犹他州 Orem 的消费类 AV 连接产品公司（1983 年成立，自有品牌 Silverback/Deadbolt/Salt Labs 等，直营 + Amazon/Newegg 销售），规模口径 17–200 人、营收 $1–10M 不等。用户表：买 PoE 电源、常下单（成交客户）。
 - **类型**：品牌商/电商（消费 AV 连接；PoE 电源复购客户）
 - **规模**：51–200 人（LinkedIn）/ 17 人（RocketReach）；$6.5M（RocketReach）
-- **在卖/在用品牌**：Silverback by Sewell, Deadbolt by Sewell, Salt Labs
+- **在卖/在用品牌**：Silverback by Sewell, Deadbolt by Sewell, Salt Labs, D-Link
 - **【第三方（LinkedIn）】定位：产品型公司，设计/制造/直销，自有品牌**
   > Sewell Development Corp. is a product-focused company specializing in design, manufacturing and a streamlined sales process … Silverback by Sewell and Deadbolt by Sewell brands … Company size: 51-200 employees · Headquarters: Orem, UT · Founded: 1983
   > 来源：https://www.linkedin.com/company/sewelldirect.com（抓取 2026-10-21）
@@ -180,9 +181,10 @@ updated: 2026-10-29
   > 来源：https://www.amazon.com/Sewell-Injector-IEEE802-3af-Power-Supply/dp/B005582ICU（抓取 2026-10-21）
 - **KP**：David Sewell（CEO（BBB 口径）） +1 801-356-3823〔https://www.bbb.org/utah/business-reviews/computer-hardware/sewell-development-corp-in-orem-ut-15000003〕
 - **KP**：Preston Wily（President（Utah 登记；Owner David Sewell 为登记代理人 = 研究档 KP）；Sewell Development Corp 1034201-0142，1989-05-11；CAGE 38UZ7（2021 过期）（第 84 批 官方登记核实 2026-10-27）） 〔https://opencorporates.com/companies/us_ut/1034201-0142〕
-- 备注：A 确认（成交 + 复购）：维护为主，顺带推 PoE 注入器/小 PoE 交换机作为其 AV 线配套；美国区注意 FCC 标识与中性包装。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+A 确认（成交 + 复购）：维护为主，顺带推 PoE 注入器/小 PoE 交换机作为其 AV 线配套；美国区注意 FCC 标识与中性包装。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1）
+### 加厚挖掘（2026-10-21 · 深挖 v1 + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -65,6 +65,7 @@ updated: 2026-10-29
 | 2024-10-14 | 去 | S 箱（Simon）报价 | 48 Port PoE Managed Switch｜ $300（原句：Price is very competitive, 300usd/pc） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `84e028cb13691dc1` |
 | 2024-11-12 | 去 | Saga（群发） | 「8 Port Ethernet Switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `8fcd8b6dea1d95ec` |
 | 2026-09-16 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 最近一封去信（邮箱索引；去信共 23 封） | `256b93299e19a6e2` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | TAV GROUP - Trans Audio Video S.r.l. — Trans Audio Video: leader italiano in soluzioni broadcast, cinema e security. Distribuzione e consulenza su misura. Scopri di più! | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文
 
@@ -170,9 +171,10 @@ updated: 2026-10-29
 - **KP**：Francesco Brighel（General Manager（Brighel 家族：President Salvatore / MD Marco / GM Francesco / 行政 Rita）= 老板家族；采购经办 Corrado Novi；2024 营收 €17.96M（−24%）、净利 €33.8k（第 84 批 官方登记核实 2026-10-27））f.brighel@transaudiovideo.com（用户表） +39 335 7374068（用户表）〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Salvatore Brighel（创始人（官网公开））— —〔https://test.transaudiovideo.com/group/〕
 - **调研后定级**：B（原自动 A）——Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A
-- 备注：重启用手机/WhatsApp（有号码），一页式报价（STC-28DGGPM、STC-424DGGPM-280W、STI-288DGGPM，项目 25%）。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+重启用手机/WhatsApp（有号码），一页式报价（STC-28DGGPM、STC-424DGGPM-280W、STI-288DGGPM，项目 25%）。
 
-### 加厚挖掘（2026-10-21 · B→A 加厚 v1（官网 + 财报核对））
+### 加厚挖掘（2026-10-21 · B→A 加厚 v1（官网 + 财报核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

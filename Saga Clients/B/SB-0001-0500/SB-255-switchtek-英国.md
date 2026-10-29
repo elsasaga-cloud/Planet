@@ -55,6 +55,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2025-03-30 | 去 | Elsa 群发（BCC；To sales@cablenet.co.uk，UK 批次） | Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere | Elsa 箱群发 BCC 触达证据（命中地址 sales@switchtec.com, switchtec.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-09-04 | 去 | Elsa 群发（BCC；To sales@cablenet.co.uk，UK 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 sales@switchtec.com, switchtec.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Home - Switchtec Ltd Website — Our Official Online Store | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -154,9 +155,10 @@ updated: 2026-10-29
 - **KP**：Jeremy Lester（Managing Director / Director（Companies House 01613368；2003-11-07 起；1977-03 生；创始人 Alan Lester 之子）= **拍板人**（sales@ 公域）（第 97 批 官方登记核实 2026-10-28））sales@switchtec.com（公司公开） +44 1785 818600〔https://www.controlsdrivesautomation.com/Switchtec-celebrates-40-years〕
 - **KP**：Mark Stevens（Southern Area Sales Manager（官网新闻公开））—（未公开） +44 1785 818600〔https://www.switchtec.com/ProductGrp/unmanaged-ethernet-switches〕
 - **KP**：Nick Neil Morgan（Sales Director / Director（2024-06-14 起；1979-03 生）= 抄送（邮箱未公开 → sales@ 点名）（第 97 批 官方登记核实 2026-10-28）） 〔https://find-and-update.company-information.service.gov.uk/company/01613368/officers〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + Companies House 核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + Companies House 核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

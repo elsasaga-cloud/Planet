@@ -140,7 +140,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（http_error）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（eretekne.com：HTTP 错误，2026-10-21，第 1 次）
 - **是谁**：土耳其 Eretekne（分销商：工业 FS/MC 为 XPS/ONV，Voscom 视频光端机与周边；官网 http_error）；表内 2 次跟进无回复。
 - **类型**：安防传输产品分销商（土耳其，XPS/ONV/Voscom）
 - **在卖/在用品牌**：XPS, ONV, Voscom
@@ -150,7 +150,8 @@ updated: 2026-10-29
 - **【用户表】XPS/ONV 工业 FS MC；Voscom VC**
   > 工业FS MC XPS的/ONV voscom的VC 周边产品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

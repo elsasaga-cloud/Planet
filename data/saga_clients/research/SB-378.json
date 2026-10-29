@@ -53,10 +53,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "20 Hamagshimim St., P.O. Box 7184, Petah Tikva 4934829, Israel（+972 3 922 2051）（第 121 批 官方登记核实 2026-10-29）",
@@ -130,10 +131,40 @@
     "quote": "1,需要云管理 2，基本不用90W POE，常规af/at用的多 2个人，目的比较明确；972 52 6440704",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "עמוד הבית - פאל ווינטק מערכות בע\"מ — המחירים המוצגים באתר זה הינם כוללים מע\"מ השירותים שלנו לעסקים, בתים ובניינים מערכות בקרת כניסה קרא עוד > התקנת מערכות אינטרקום קרא עוד > מערכת אינטרקום אלחוטית קרא עוד > קודן אינטרקום לבתים פרטיים קרא עוד > פאל ווינטק מערכות בע\"מ חברת פאל ווינטק נוסדה בשנת 2000 כ",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://palwintec.com/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:40:09Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@palwintec.com"
+  ],
+  "phones": [],
+  "social": [
+   "https://www.facebook.com/palwintec/?eid=ARA6vCekMFt0aLHSe7dGepW95wAL413m1FhGQjRZUTBM-LZRsiGZ8sviuFbvfOOynUqqUGaODOUib5YP",
+   "https://www.instagram.com/palwintec/",
+   "https://www.youtube.com/@user-fq6hr6tv2q"
+  ],
+  "models_on_site": [],
+  "url": "https://palwintec.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

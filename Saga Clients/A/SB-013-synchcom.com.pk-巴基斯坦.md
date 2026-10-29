@@ -58,6 +58,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 问MC Dual Fiber FE/GE 25km SM / 8口网管交换机，只要PCB板子 成样品单 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Home - SYNCHCOM PVT LTD | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库
 
@@ -134,8 +135,10 @@ updated: 2026-10-29
 - **KP**：Muhammad Babar（Senior Managing Director（RocketReach）= 拍板人（抄送）（第 91 批 官方登记核实 2026-10-27）） 〔https://synchcom.com.pk/about-us/〕
 - **KP**：Muhammad Mehmood（Director（2001 起；兼 Sina Institute of Networks 创始人）（第 91 批 官方登记核实 2026-10-27）） 〔https://synchcom.com.pk/about-us/〕
 - **调研后定级**：A（原自动 A）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 需求映射））
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 需求映射） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

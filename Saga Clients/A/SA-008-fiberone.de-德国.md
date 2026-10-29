@@ -116,6 +116,7 @@ updated: 2026-10-29
 | 2026-10-06 | 来 | Frederik Kriewitz（NYNEX） | can you share your euro bank account please? | 20 台订单付款前要欧元账户（10-15 已付）——给德国客户的 PI 默认带 EUR 收款信息，省一个来回 | `gmail_s 2026-10-06 Re: Saga Marvell AC5 Series Fully Ready` |
 | 2026-10-06 | 内 | Simon 成本表（PI 包） | 内部《成本统计.xlsx》：STSC20241121015：成本 3,051 / 收款 4,335 / 利润 1,284（29.6%） · STSC20250915015：成本 2,172 / 收款 2,970 / 利润 798（26.9%） · STSC20261006015：成本 39,000 / 收款 44,000 / 利润 5,000（11.4%） | 利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md | `cost_sheet` |
 | 2026-10-15 | 来 | Frederik Kriewitz | payment has been made… We would prefer to have them with original SmartByte product names/IDs. Please make sure that the SmartByte and SNMP vendor OIDs are used | 较深绑定的最新证据 | `60ac95de9259a792` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Internetanbieter Rhein-Main â Glasfaser bis 10 Gbit/s \| fiberONE — Internetanbieter Rhein-Main: Glasfaser symmetrisch bis 10 Gbit/s, unter 1 ms zum DE-CIX, keine Drosselung. Ab 30 â¬/Monat inkl. MwSt. bei 24 Monaten Laufzeit. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：A 邮箱无 NYNEX 往来（已核）；Peter 侧技术邮件在 S 邮箱抄送中，微信部分见 OCR 重建
 
@@ -211,6 +212,7 @@ updated: 2026-10-29
 - **是谁**：德国达姆施塔特的光纤接入运营商品牌（NYNEX satellite OHG 旗下，11–50 人，2015 年起），在法兰克福/莱茵美因地区自建 FTTB/FTTH 网络（10G 对称），为楼宇提供千兆接入；B2B 提供专线、波长、楼宇网络。用户表：兴趣 SFP/MC 周边并要「自己的 logo」（贴牌），1 次实质回复，邮件中有详细联系方式。
 - **类型**：运营商/ISP（终端 + 自有 logo 贴牌需求）
 - **规模**：11–50 人（LinkedIn）
+- **在卖/在用品牌**：Bosch
 - **【官网】法人与品牌关系**
   > fiberONE — a brand of NYNEX satellite OHG … Robert-Bosch-Straße 20 64293 Darmstadt … Email: info@fiberone.de
   > 来源：https://fiberone.de/impressum/en/（抓取 2026-10-21）
@@ -280,10 +282,11 @@ updated: 2026-10-29
 - **KP**：Frederik Kriewitz（Systems Engineer / 网络负责人（成单联系人）；**非合伙人**——NYNEX satellite OHG（Amtsgericht Darmstadt HRA 84829）两名无限责任合伙人为创始人 Gunter Frank / Andreas Buxbaum（第 83 批 官方登记核实 2026-10-27））f.kriewitz@nynex.de +49 6151 50074-009〔https://ipinfo.io/AS200519/178.17.236.0/23 + 用户表〕
 - **KP**：Gunter Frank（创始人/合伙人（1999/2000 创立）） 〔https://nynex.de/company/〕
 - **调研后定级**：A（原自动 A）——PI 包成单客户，Simon 标签 活跃 → A
-- 备注：A 维持：运营商持续采购楼宇接入交换机（48 口/L2+/2.5G 上联）与贴牌 MC/SFP；P1 改 STC-448XGGPM 或 STC-424XGGPM-280W（10G 上联）。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+A 维持：运营商持续采购楼宇接入交换机（48 口/L2+/2.5G 上联）与贴牌 MC/SFP；P1 改 STC-448XGGPM 或 STC-424XGGPM-280W（10G 上联）。
 【2026-10-22 复盘补】NYNEX 2025-03 的 SNMP/MIB 合规追问是「工程型缓冲层」的真实考题：欧洲客户会用 snmpwalk 核 OID 归属。Saga 应自己申请一个 IANA PEN（免费、在线表单、约 1–2 周）并要求 SmartByte 在 Saga 版固件里只保留 Saga PEN 下的私有 MIB；给 NYNEX/德国客户的 OEM 说明要能回答「OEM 数据是固件内写死还是独立配置分区」。对应 Q-35。 ｜ 针对性加厚 2026-10-22（S 邮箱 2026-09/10 第 6 单，T29-U13 ②） ｜ 【Simon 2026-10-22 口径】NYNEX 由 Peter 技术跟进、只能在 Saga 下单；宣传 SmartByte 品牌是合作约定 → 之前「Saga 自申 PEN」建议作废。维护计划见 docs/成单客户_NYNEX_维护计划_2026-10-22.md ｜ 【2026-10-22T15:48Z】GitHub 监控上线（宪法第九条）：scripts/github_watch/watch.py，每轮必跑，变化见 data/github_watch/变化日志.md
 
-### 加厚挖掘（2026-10-21 · 深挖 v1）
+### 加厚挖掘（2026-10-21 · 深挖 v1 + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

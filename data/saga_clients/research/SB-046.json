@@ -11,7 +11,8 @@
   "EnGenius",
   "Wi-Tek",
   "BYDom",
-  "smlight"
+  "smlight",
+  "Ajax"
  ],
  "evidence": [
   {
@@ -61,11 +62,12 @@
  ],
  "grade_override": "B",
  "override_reason": "0 回复 / 8 次推送，重心为消费级智能家居零售（Saga 不做消费），交换机仅附带 → 慢跟；西班牙在欧洲区故不降 C。",
- "notes": "一次性邮件：Witek 工业 FS 对位 STI-288GP/STI-288DGGPM 价格（电商 20%）。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n一次性邮件：Witek 工业 FS 对位 STI-288GP/STI-288DGGPM 价格（电商 20%）。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（网店类目核对）"
+  "level": "B 级加厚 v1（网店类目核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "INTELIWARE SL（品牌 Domoticalia；CIF B86690344；RM Madrid H M-554995）",
@@ -165,10 +167,49 @@
     "quote": "Industrial PoE Switch、Managed Optical Bypass Switch",
     "why": "18 封 / 1 次打开 / 0 回｜首封 2025-01-30 → 末封 2026-09-30（18 去 / 0 来）",
     "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Domoticalia: Home Automation Lighting, Heating, & Smart Home- Z-Wave, Zigbee, y SmartThings ... — Domoticalia: Home Automation Lighting, Heating, & Smart Home- Z-Wave, Zigbee y SmartThings. ...",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.domoticalia.es/en/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:21:42Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "atencioncliente@domoticalia.es",
+   "license@prestashop.com",
+   "tech@202-ecommerce.com"
+  ],
+  "phones": [
+   "+34) 91 005 26 51"
+  ],
+  "social": [],
+  "models_on_site": [
+   "SLZB-06",
+   "CC2652P",
+   "ECS5512FP",
+   "WI-PS326GF",
+   "NIS3006GP-WMC",
+   "NIS3016",
+   "ST3124GS",
+   "ST3108GC"
+  ],
+  "url": "https://www.domoticalia.es/en/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

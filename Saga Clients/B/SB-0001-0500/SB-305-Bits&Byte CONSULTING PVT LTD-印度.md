@@ -62,6 +62,7 @@ updated: 2026-10-29
 | 2026-03-02 | out | Elsa → ramachandra.r@bitsandbyte.net | Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 6/6 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:bitsandbyte.net` 全程 complete：6 轮直收（头 msg 19cae0fd83cbc938 无 Bcc，称呼「Hi, Ramachandra」）；0 回 | `elsa_1to1` |
 | 2026-09-23 | 去 | A 群发 | 24 Port PoE Managed Switch、90W PoE Managed Switch | 6 封 / 0 次打开 / 0 回｜首封 2025-04-09 → 末封 2026-09-23（6 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：BTON带过来的 问了Ring时间能否小于20ms 2光10电不要PoE价格 简单谈了4光10电，10G光的 对bypass有兴趣，看了接线图 问了100G/200G/400G模块的芯片方案 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | bits&BYTE \| Infrastructure for what’s next — Engineering-led cloud, cybersecurity, networking and managed services. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -137,9 +138,10 @@ updated: 2026-10-29
 - **KP**：Ramachandra Raju (R)（Co-Founder / Director（MCA 董事；tracxn）= 拍板人（第 114 批 官方登记核实 2026-10-28））ramachandra.r@bitsandbyte.net +91 94484 58595〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Ankit Arora（Executive Director – Global Sales and Alliances（2025-11–；LinkedIn）= 收件人（第 114 批 官方登记核实 2026-10-28））ankit@bitsandbyte.net +91 96206 18247〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Prakash Uppunda Rao（Co-Founder / Director（MCA 董事）（第 114 批 官方登记核实 2026-10-28）） 〔https://www.zaubacorp.com/company/BITS-AND-BYTE-IT-CONSULTING-PRIVATE-LIMITED/U72900KA2015PTC145953〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 表内：技术型买家））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 表内：技术型买家） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

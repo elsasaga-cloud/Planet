@@ -54,6 +54,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 不会英文， 找工业级POE交换机 拿了彩页 / Umit Celik | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Hikvision Kamera Sistemleri \| Orijinal Ürün Güvenlik Sistemleri Satış Sitesi — Orijinal Hikvision güvenlik kameraları, DVR ve NVR sistemleri uygun fiyatla! Ücretsiz teknik destek, hızlı kargo ve garanti avantajıyla hemen satın alın. Ev ve iş yeriniz için güvenlikte lider: Hikvision IP, AHD ve Dome k | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -113,7 +114,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（电商）
 - **是谁**：伊斯坦布尔的 Hikvision 安防产品电商/项目供应商 Acusense Teknoloji（「Hikvision Kamera Sistemleri | Orijinal Ürün」网店；IP 摄像机、NVR、PTZ、高温摄像等项目产品；项目报价表单；+90 216 888 29 34 / +90 542 839 68 98；info@acusenseteknoloji.com）。ISAF 记录：Ümit Çelik——不会英文，找工业级 PoE 交换机，拿了彩页；无后续跟进。
-- **在卖/在用品牌**：Hikvision（主销）
+- **在卖/在用品牌**：Hikvision（主销）, Hikvision
 - **【电商站】业务与联系方式**
   > Hikvision Kamera Sistemleri | Orijinal Ürün Güvenlik Sistemleri Satış Sitesi … Çağrı Merkezi 0542 839 68 98 0216 888 29 34 info@acusenseteknoloji.com … Hikvision Proje Ürünleri
   > 来源：https://www.acusenseteknoloji.com/proje-urunler/（抓取 2026-10-21）
@@ -121,9 +122,10 @@ updated: 2026-10-29
   > 不会英文， 找工业级POE交换机 拿了彩页 / Umit Celik
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Ümit Çelik（研究档 KP（用户表；职务未核）= 收件人（第 105 批 官方登记核实 2026-10-28））info@acusenseteknoloji.com（用户表） +90 542 839 68 98（公司 GSM，公开）〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（电商站核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（电商站核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

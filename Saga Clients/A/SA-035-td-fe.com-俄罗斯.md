@@ -78,6 +78,7 @@ updated: 2026-10-29
 | 2024-12-12 | 来 | Alexander | Yes, it useful for us. Send full datasheet, pls. And EXW price in RMB. | 要 RMB 价表 | `c4b08a47d73f023f` |
 | 2024-12-12 | 去 | Saga（Simon） | Hi, Alexander, Please check full info of our Industrial Marvell managed switches from below google drive link. https://drive.google.com/drive/folders/1y-3HWGDrnKc7SAROusRWvoUtmFjjJy32?usp=drive_link For prices, its also in this link, in USD. To exchange it to | 历史报价点（主题「Re: Din power supply」；第 20 批从 gmail_s 回补）：1USD | `894e2e7e3d6fd765` |
 | 2025-01-03 | 来 | Alexander | Thank you, but your prices are too high. | 最后一封来信 | `7cb3dfcf81666a75` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | TH Faraday Electronics Ltd. is a professional developer and manufacturer of power supplies under trade marks FARADAY Electronics and TD-FE. — TH Faraday Electronics Ltd. is a professional developer and manufacturer of power supplies under trade marks FARADAY Electronics and TD-FE. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表「已卖 ONV 工业 FS」在 S/A 邮箱无成交痕迹；Simon 2024-04-19 对其称「My factory is in Huiyang district, Huizhou」——与现口径（Engineering & Supply-Chain-First）不同，后续再联系时注意口径一致
 
@@ -192,9 +193,10 @@ updated: 2026-10-29
   > Общий бюджет питания PoE — 240 Вт … Поддержка стандартов IEEE 802.3af/at … Крепление на DIN-рейку … Защита IP40 и грозозащита
   > 来源：https://www.ami-com.ru/catalog/f-802/（抓取 2026-10-21）
 - **KP**：Alexander Rudnev（Учредитель（股东之一）= 拍板人之一；总经理 2023-11-10 起为 Твердохлеб Татьяна Владимировна（签字人）；另一股东 Авраменко Е. Е.；6 人、营收 98 млн ₽；商标 TD-FE®（马德里 2019）（第 84 批 官方登记核实 2026-10-27））air@td-fe.ru +7 812 953 13 59（官网总机）〔Clients/A/DONE/优质俄罗斯客户 2.9.xlsx〕
-- 备注：A 维持（5 次实质回复 + 总监直联 + 已卖 ONV 工业 FS）：Saga 不做电源，只接工业 FS/PoE 配套——P1 = STI-288DGGPM（48V DIN 供电与其 FARADAY 电源天然配套），25% 档；俄罗斯收款走 T/T 需提前确认通道。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+A 维持（5 次实质回复 + 总监直联 + 已卖 ONV 工业 FS）：Saga 不做电源，只接工业 FS/PoE 配套——P1 = STI-288DGGPM（48V DIN 供电与其 FARADAY 电源天然配套），25% 档；俄罗斯收款走 T/T 需提前确认通道。
 
-### 加厚挖掘（2026-10-21 · 深挖 v2（官网 td-fe.ru 目录核对））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网 td-fe.ru 目录核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

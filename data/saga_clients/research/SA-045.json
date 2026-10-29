@@ -54,11 +54,12 @@
    "source": "https://energyplusystems.cl/"
   }
  ],
- "notes": "A 维持（S 重点 + 已回复 + 矿业工业交换机场景）；拉美不在重点区、单量小；P1 = STI-288DGGPM（矿业宽温、冗余电源），25% 集成商档。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\nA 维持（S 重点 + 已回复 + 矿业工业交换机场景）；拉美不在重点区、单量小；P1 = STI-288DGGPM（矿业宽温、冗余电源），25% 集成商档。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v2（官网网店含价核对）"
+  "level": "深挖 v2（官网网店含价核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Energyplus Systems（energyplusystems.cl）",
@@ -292,10 +293,45 @@
     "quote": "24 Port PoE Managed Switch｜ $170（原句：*Price: 170USD/PC*）",
     "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
     "k": "7ea24f4303e4aeb1"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Energyplus - Tecnología para la minería e industria — Equipos, servicios y asesoría técnica especializada para los proyectos mas exigentes del sector minero e industrial.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://energyplusystems.cl/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:23Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "ventas@energyplusystems.cl"
+  ],
+  "phones": [
+   "+56 9 9218 8218"
+  ],
+  "social": [
+   "http://wa.me/56992188218?text=Hola%2C%20deseo%20cotizar%3A%20Alzador%20Hidr%C3%A1ulico%20Power-Works",
+   "http://wa.me/56992188218?text=Hola%2C%20deseo%20cotizar%3A%20Enchufe%20Minero%20Embutido%20Clase%2025KV%20Victor",
+   "http://wa.me/56992188218?text=Hola%2C%20deseo%20cotizar%3A%20Enchufe%20Minero%20Volante%20Clase%2025KV%20Victor",
+   "http://wa.me/56992188218?text=Hola%2C%20deseo%20cotizar%3A%20Splitters%20Mineros%20Para%20Acople%20de%20Enchufes%20de%20Media%20Tensi%C3%B3n"
+  ],
+  "models_on_site": [
+   "HT239"
+  ],
+  "url": "https://energyplusystems.cl/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

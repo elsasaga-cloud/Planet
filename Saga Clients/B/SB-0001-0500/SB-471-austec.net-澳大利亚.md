@@ -57,6 +57,7 @@ updated: 2026-10-29
 | 2026-08-26 | 去 | A 群发 | 8 Port Industrial PoE Switch、Industrial PoE Switch | 22 封 / 0 次打开 / 0 回｜首封 2025-04-04 → 末封 2026-08-26（22 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：ONV的工业FS 比较少 | 表内备注 | `用户表` |
 | 2026-08-26 | 去 | A 箱（Alan） | 24 Port PoE Managed Switch | 本日去信真实主题（邮箱索引 c71dc3d82f41f10c；信稿开头句引用此封；此前稿内写的「8 Port Industrial PoE Switch」是线程列表首题，不是本封） | `c71dc3d82f41f10c` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Austec Communications – Excellence in communications | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -134,9 +135,10 @@ updated: 2026-10-29
   > 兴趣：ONV的工业FS 比较少
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（销售）（公用销售箱（无具名 KP；11 次跟进无实质回复；Simon「有兴趣」）= 收件人（Attn: Sales Manager）— 一页纸一次：分销 20% B、对位其在售工业 PoE 的 STI-154GP / STI-288DGGPM / STI-488DGGPM 宽温 + 3 年保 + MOQ 1 + 付费样机、给求助电话 / 摄像机供电的 802.3at 口 — 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、RCM 不声称（DAP 买方清关）（第 118 批 官方登记核实 2026-10-28））sales@austec.net +61 1300 663 442〔https://www.austec.net/〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：ONV 替换））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：ONV 替换） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

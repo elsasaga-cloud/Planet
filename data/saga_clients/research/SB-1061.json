@@ -2,7 +2,7 @@
  "code": "SB-1061",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（timeout）",
+ "website_status": "快照失败（obserwuj.pl：超时（站慢或封锁），2026-10-21，第 1 次）",
  "summary": "波兰 Obserwuj.pl（CCTV 网店：FS、VC、MC、SFP，「大华产品比较多」；表内「质量一般」；官网 timeout）；表内未跟进。",
  "type": "CCTV 网店（波兰，Dahua 为主）",
  "size": "",
@@ -28,7 +28,7 @@
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
@@ -123,5 +123,14 @@
    "body": "Hello Obserwuj team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 1 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the PoE switches and media converters you list with Dahua systems: an 8 x Gigabit PoE+ + 2 x SFP L2+ managed switch, Marvell-based, neutral packing, CE/RoHS - model STC-28DGGPM - $80.7 USD EXW at distributor price (MOQ 1, 15-day validity); an industrial mini Gigabit media converter with SFP slot, STI-110GE, is $26.5. SFP optics we do not supply.\n\nOne question: which PoE port count do your installer customers buy most - 4, 8 or 24?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:36:02Z"
+  ],
+  "fails": [
+   "2026-10-21"
+  ],
+  "batch": "LT-T03"
  }
 }

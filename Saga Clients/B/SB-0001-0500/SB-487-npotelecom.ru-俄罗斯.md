@@ -134,7 +134,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（timeout）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（npotelecom.ru：超时（站慢或封锁），2026-10-21，第 1 次）
 - **是谁**：俄罗斯 НПО Телеком / NPO Telecom（电信设备企业；表内「比较重要 Mikhail Afonin」、有回复；KP Mikhail Afonin、Rashid Abdullin（Sales and Marketing Specialist）；兴趣 Switch；官网 timeout）；群发 17 次，有回复。
 - **类型**：电信设备企业（俄罗斯，有回复，用户标重要）
 - **【用户表】表内兴趣/备注**
@@ -146,7 +146,8 @@ updated: 2026-10-29
 - **KP**：Mikhail (Афонин Михаил Владимирович) Afonin（）afonin@npotelecom.ru 〔用户表〕
 - **KP**：Rashid Abdullin（）sale@npotelecom.ru 〔用户表〕
 - **KP**：Шабутдинов Рашит Зинатулович（唯一股东（2002-12-02 起）= 所有人（不直接联系）（第 87 批 官方登记核实 2026-10-27）） 〔https://checko.ru/company/npo-telekom-1021801507694〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

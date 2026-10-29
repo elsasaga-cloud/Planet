@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
-site_snapshot: ok  # 2026-10-21
+site_snapshot: mismatch  # 2026-10-21
 sources: 2
 updated: 2026-10-29
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-29
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — MC/PoE/工业品 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、工业千兆 MC STI-110GE（$22.4）、工业 8 GE + 2 SFP STI-280GE（$46.6）；SFP Saga 不供；首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-09 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-09；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-01；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：For the PoE switches, industrial switches and media converters in the shopdelta range, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+, DIN-rail 8-GE + 2 SFP and gigabit MCs from single units, CE/RoHS, EXW USD — which of these do your installer customers reorder most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
-- **最大未知**：年走量与现供应商
+- **最大未知**：公司官网（表内域名经核实不属于本客户；真实官网未知）
 - **下一步**：待 Simon 排期（首封） A 邮箱 → oferty@delta.poznan.pl 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-01「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(d) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2025-10-09 | 去 | Elsa 群发（BCC；To info@axuse.com，PL-3（大分销 aat/lanberg/elmark/dipol/a2s） 批次） | 10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring（正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | Elsa 箱群发 BCC 触达证据（命中地址 delta.poznan.pl, info@delta.poznan.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-09-01 | 去 | Elsa 群发（BCC；To biuro@zintronic.pl，PL 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 delta.poznan.pl, info@delta.poznan.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | SFP VC MC 很多周边产品；MC PoE 工业品 VC | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Strona główna \| Poznan.pl — Strona główna | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -129,9 +130,10 @@ updated: 2026-10-29
   > SFP VC MC 很多周边产品 / MC PoE 工业品 VC；Oferty 销售平台 / 质量一般
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Arkadiusz Jerzy Matysiak（Prezes Zarządu（兼 P.W. DELTA 业主）= **拍板人 = 收件人**（delta-opti@delta.poznan.pl）；Wiceprezes Monika Małgorzata Matysiak；Członek Zarządu Arkadiusz Tomasz Topolski（第 99 批 官方登记核实 2026-10-28））delta-opti@delta.poznan.pl 〔https://rejestr.io/krs/1225221/delta-opti-monika-matysiak〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -150,20 +152,12 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——MC/PoE/工业品 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、工业千兆 MC STI-110GE（$22.4）、工业 8 GE + 2 SFP STI-280GE（$46.6）；SFP Saga 不供
 - **邮件切入句（英文）**：For the PoE switches, industrial switches and media converters in the shopdelta range, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+, DIN-rail 8-GE + 2 SFP and gigabit MCs from single units, CE/RoHS, EXW USD — which of these do your installer customers reorder most?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名误配（快照到的网站不是本客户））
 
-- **首页**：https://www.poznan.pl/　语言：pl　站点地图 URL 数：546
-- **标题**：Strona główna / Poznan.pl
-- **描述**：Strona główna
-- **首页栏目**：Komunikaty / Poznan.pl, oficjalna strona Miasta Poznania / menu / Aktualności / Informacje dodatkowe / Tramwaj z inteligentnym oświetleniem jeździ w Poznaniu / Czujniki czadu dla najemców ZKZL / SPP Ogrody - rusza sprzedaż identyfikatorów dla mieszkańców
-- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：odm 14
-- **站内型号串**（正则抽取，含非交换机）：PBO27, PL-46081-20925-AEABE-27
-- **站内公开邮箱**：iod@um.poznan.pl, poczta@um.poznan.pl
-- **社媒**：http://www.facebook.com/share.php?u=https://www.poznan.pl/mim/public/main/pages.html?co=list&id=19&instance=1017&lang=&ch=20&p=&lhs=publications&, http://www.youtube.com/poznan, https://twitter.com/intent/tweet?url=https://www.poznan.pl/mim/public/main/pages.html?co=list&id=19&instance=1017&lang=&ch=20&p=&lhs=publications&, https://www.facebook.com/oficjalnyportalMiastaPoznania/, https://www.facebook.com/poznanbiznespartner/, https://www.instagram.com/miastopoznan_/
-- **产品类页面**：https://www.poznan.pl/mim/edziecko/katalog-linkow,p,16126,16127.html；https://www.poznan.pl/mim/komunikacja/katalog-mebli-miejskich,p,46823,46826.html；https://www.poznan.pl/mim/komunikacja/katalog-nawierzchni-chodnikow,p,46823,46828.html；https://www.poznan.pl/mim/inwestycje/produkcja,p,45407,45412.html
-- **已抓子页**：[POZnan*KONTAKT / Poznan.pl](https://www.poznan.pl/kontakt/)；[POZnan*KONTAKT / Poznan.pl](https://www.poznan.pl/mim/kontakt/)；[Ekran 1 z 2 - Formularz Kontaktowy / Informacja dla internau](https://www.poznan.pl/mim/forms/formularz_kontaktowy.html)；[Poznań Biznes Partner / Poznan.pl](https://www.poznan.pl/mim/biznes/)；[Współpraca międzynarodowa Poznania / Poznan.pl](https://www.poznan.pl/mim/main/miasta-partnerskie-poznania,p,19,20.html)
-- 首页正文摘录：Przejdź do menu głównego Przejdź do treści Komunikaty Oficjalna strona miasta Poznania pl polski english українська Podatek on-line Umów wizytę w UMP Oszczędzaj z OK Poznań Rozwiń Poznan.pl, oficjalna strona Miasta Poznania Szukaj szukaj informacji Wyszukaj Cofnij menu Dla Poznaniaków Cofnij menu Zasoby i rozwój Cofnij menu Biznes Cofnij menu Poznaj Poznań Cofnij menu Edukacja i rodzina Cofnij menu Zdrowie i wsparcie
-- 数据文件：`data/saga_clients/site_snapshots/SB-1065.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
+- 尝试域名：poznan.pl, shopdelta.eu
+  > True
+- **提示**：人工核对后判定表内域名不属于本客户（见上方说明），本客户以邮箱/电话为准；快照内容不采用。
+- 数据文件：`data/saga_clients/site_snapshots/SB-1065.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -264,6 +258,7 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
+- [ ] 公司官网（表内域名经核实不属于本客户；真实官网未知）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -64,6 +64,7 @@ updated: 2026-10-29
 | 2023-07-25 | 去 | Saga（销售订单 7.25 已签章 + 货代信息.docx） | 货代：GT32937 DELTA CONSULTING LLC，广州市荔湾区站前路34号711库房，MARK GT32937 | 客户自己的广州货代（客户集货线，非 Saga 百运网线）——符合 U28 的两条物流线判断；下次若复活，先问他的广州仓还在不在 | `Drive PI 文件夹（data/pi_2026-10/text） 1_George` |
 | 2024-11-19 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「引流机型」→ 对方「small 8 port high poe」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.6 1119` |
 | 2026-09-01 | 去 | Alan（群发） | 24 Port PoE Managed Switch… | 0 回 | `c3cd22fd6af847aa` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | დელტა კონსალტინგი-Delta Consulting — Delta Consulting is one of the leading IT integrator company in Georgia | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：2023 年沟通不在 A/S 邮箱
 
@@ -161,9 +162,10 @@ updated: 2026-10-29
   > 来源：https://www.ripe.net/membership/member-support/list-of-members/ge/dc/（抓取 2026-10-23）
 - **KP**：George Jaliashvili（CEO / Partner（US SAM 镜像 E-Business / Government POC 同名 = 核实）= **老板 = 联系人**；公司 2020-07 → 2022-07 曾注册美国 SAM（UEI J9LKEG5JR7D6 / CAGE SJFH4；NAICS 541512 + 423690 电子设备批发）= 做过美援 / 国际招标项目，之后未续（第 91 批 官方登记核实 2026-10-27））george@dc.ge +995 577 578 811〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Daviti Giorgadze（）sales@dc.ge +995 32 205 0055〔https://www.dnb.com/business-directory/company-profiles.delta_consulting_llc.7aa4533b0489d16fd5b3bd6748034f92.html〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + D&B + 名录核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + D&B + 名录核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

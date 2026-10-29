@@ -56,6 +56,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-23 | 去 | A 群发 | 48 Port PoE Managed Switch、10G Enterprise SFP Switch | 17 封 / 1 次打开 / 0 回｜首封 2025-02-25 → 末封 2026-09-23（17 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：工业FS MC SFP POE 好几种外壳 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | UBF EDV Handel und Beratung Jürgen Fischer GmbH — Netzwerk-Zubehör: Ethernet, Industrial Ethernet, PoE, Switch, SFP, NIC, LWL Kabel + Konverter seriell RS232/RS485/RS422 Feldbus, digital 24V, analog V/mA | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -133,9 +134,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（销售）（）vertrieb@ubf.de +49 2305 9634 0〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Jürgen Fischer（Geschäftsführer / Alleingesellschafter（HRB Dortmund 32518；2015 起注册地 Mühldorf a. Inn = AG Traunstein HRB 24719）= 拍板人（vertrieb@ 点名）（第 101 批 官方登记核实 2026-10-28）） 〔〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

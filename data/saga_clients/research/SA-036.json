@@ -56,11 +56,12 @@
    "source": "https://svn-video.ru/contact-us"
   }
  ],
- "notes": "A 维持但体量小：已在用 HRUI 商业 PoE 自有型号 → Saga 可用 STH 线（HRUI 来源）原厂同款 + 自有型号丝印直接承接；P1 = STH 对应 8 口 PoE（见 data/hrui_STC对照表.csv），20% 电商档。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\nA 维持但体量小：已在用 HRUI 商业 PoE 自有型号 → Saga 可用 STH 线（HRUI 来源）原厂同款 + 自有型号丝印直接承接；P1 = STH 对应 8 口 PoE（见 data/hrui_STC对照表.csv），20% 电商档。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v2（官网网店自有标 SVN 目录核对）"
+  "level": "深挖 v2（官网网店自有标 SVN 目录核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "ИП Криволуцкая Юлия Викторовна（ОГРНИП 318402700048713 · ИНН 402910363642；Калуга；2018-08-02；品牌 SVN svn-video.ru）",
@@ -231,6 +232,14 @@
     "quote": "16 Port Industrial PoE Switch",
     "why": "最近一封去信（邮箱索引；去信共 22 封）",
     "k": "cd90acab1f8de2bf"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Системы видеонаблюдения SVN с доставкой по России — Системы видеонаблюдения, недорого в каталоге с ценой на сайте интернет-магазина SVN. По всем вопросам +7 (903) 810-33-33",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://svn-video.ru/"
    }
   ],
   "proof_gaps": [],
@@ -239,5 +248,41 @@
    "body": "Hello SVN team,\n\nIn January you asked for our PoE switch and accessories price list and we sent it; the question we asked back (accessories = optics and power supplies?) stayed open, and so did everything else.\n\nYour SVN-POE812 and POE1612 are Fast Ethernet units. A gigabit top SKU for 4K cameras in SVN packing: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD EXW at distributor price (MOQ 1 for a trial batch, 15-day validity). CE/RoHS files supplied; EAC stays on your side.\n\nOne question: for a first trial batch, which payment route works for you - and which SKU goes in it?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:11Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "zakaz@svn-video.ru"
+  ],
+  "phones": [
+   "+7 (800) 600 72 59",
+   "+7 (903) 810 33 33",
+   "+7-903-810-33-33"
+  ],
+  "social": [
+   "https://t.me/+79038103333",
+   "https://t.me/SVN_VIDEO_bot",
+   "https://vk.com/svn.video",
+   "https://www.youtube.com/@SVNVIDEO"
+  ],
+  "models_on_site": [
+   "RJ-45",
+   "SVN-500TA60KPOE",
+   "CV380",
+   "SVN-500SBC20KPOE",
+   "SVN-NVRC830POE",
+   "RS485",
+   "SVN-POE412",
+   "SVN-POE812"
+  ],
+  "url": "https://svn-video.ru/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

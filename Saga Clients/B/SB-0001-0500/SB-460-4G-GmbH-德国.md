@@ -109,7 +109,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（unreachable）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（4G-GmbH：域名不可达（DNS/连接失败），2026-10-21，第 1 次）
 - **是谁**：德国 4G GmbH（4g-gmbh.de；Shopify 订单 OM-FBS-22-SLC（光旁路/光开关类配件），「珊姐跟进了」；KP Michael Kleiböhmer（CEO）；官网 unreachable）；表内未跟进（已有订单接触）。
 - **类型**：IT/网络公司（德国，Shopify 成交客户）
 - **【用户表】表内兴趣/备注**
@@ -119,7 +119,8 @@ updated: 2026-10-29
   > OM-FBS-22-SLC / from: Shopify 珊姐跟进了
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Michael Kleiböhmer（Geschäftsführer（2023-06 起，单独代表；Münster HRB 15069 在册）= 收件人本人（第 105 批 官方登记核实 2026-10-28））mk@4g-gmbh.de 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

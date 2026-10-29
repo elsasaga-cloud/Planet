@@ -62,6 +62,7 @@ updated: 2026-10-29
 | 2026-05-04 | out | Elsa → kenya@simplifinetworks.com | Industrial PoE Switch（Elsa 1:1 逐月名单第 10/11 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:simplifinetworks.com` 全程 complete：11 轮直收（头 msg 19fd0efbde7c7633 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
 | 2026-08-05 | out | Elsa → kenya@simplifinetworks.com | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 11/11 轮；To 仅本户；正文 Price: 170USD/PC） | 第 74 批(n) `from:e.sagatelecom to:simplifinetworks.com` 全程 complete：11 轮直收（头 msg 19fd0efbde7c7633 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
 | 2026-10-21 | 用户表 | Simon | POE配件工业FS 有自己的logo 多数还是卖别人的 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Simplifi Networks — The Master Distributor for networking and communications equipment for East and Central Africa | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无来信（Elsa 去信 11 轮见 facts；S/A 箱无往来）
 
@@ -129,9 +130,10 @@ updated: 2026-10-29
   > POE配件工业FS 有自己的logo 多数还是卖别人的；有ONV的产品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（无具名 KP）（收件 kenya@simplifinetworks.com Attn: Product Manager — 一页纸一次：贴标 OEM 30%（自标 PoE 配件 / 工业 FS：STC-028GP / STC-2216GP / STI-154GP）↔ 分销 20% 双轨 B + MOQ + 付费样机；Ubiquiti / MikroTik 不点名 — 肯尼亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 内罗毕、KEBS 不声称（第 121 批 官方登记核实 2026-10-29）） 〔〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

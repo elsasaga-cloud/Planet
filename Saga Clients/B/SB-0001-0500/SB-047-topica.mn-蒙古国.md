@@ -74,6 +74,7 @@ updated: 2026-10-29
 | 2026-05-11 | 去 | Elsa 群发（To info@topica.mn，直接收件非 BCC） | 10G Enterprise SFP Switch（正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | Elsa 箱 from:e.sagatelecom to:topica.mn 列表（第 73 批(o)）；2026-08-04 那封 24-PoE 报的是 $170，信稿报 $180 必须先点明 | `elsa_campaign` |
 | 2026-08-04 | 去 | Elsa 群发（To info@topica.mn，直接收件非 BCC） | 24 Port PoE Managed Switch — Price: 170USD/PC | Elsa 箱 from:e.sagatelecom to:topica.mn 列表（第 73 批(o)）；2026-08-04 那封 24-PoE 报的是 $170，信稿报 $180 必须先点明 | `elsa_campaign` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：MC SFP switch 很多外壳；回复：需要16 port的 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Нүүр хуудас \| Топика | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：（已核 2026-10-24，第 73 批）Elsa 2025-10-31 只回下载链接 PDF + STI-244GP 规格书，未答 price list / MOQ / warranty；2026-08-04 Elsa 群发给他看过 24 口 PoE $170；补答信若报 STC-424XGGPM-280W 现价 $180，先说 8 月那轮是 $170、汇率 7.2→6.7（第 74 批(o)）
 
@@ -132,7 +133,7 @@ updated: 2026-10-29
 - **是谁**：乌兰巴托网络 / 电气设备网店 + 分销（MikroTik、Cisco、Milesight、Schneider、ZKTeco、Ruijie、D-Link、Huawei；SFP 词频 158、10G 83、PoE 40；热点配置服务），需求 MC / SFP / 交换机「很多外壳」，2025-11 对 24 PoE 回复「需要 16 port 的」。
 - **类型**：贸易商
 - **规模**：待补证
-- **在卖/在用品牌**：MikroTik, Cisco, Milesight, Schneider, ZKTeco, Ruijie, D-Link, Huawei
+- **在卖/在用品牌**：MikroTik, Cisco, Milesight, Schneider, ZKTeco, Ruijie, D-Link, Huawei, PLANET
 - **【用户记录】MC/SFP/switch，很多外壳；E 已回复**
   > MC SFP switch 很多外壳；回复里有详细联系方式（用户 Clients 表摘录）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
@@ -145,9 +146,10 @@ updated: 2026-10-29
 - **KP**：（见 Clients 表回复签名）（） 〔用户 Clients 表〕
 - **KP**：（未具名）（收件箱（回信署名 Bayar；2025-11 点名「需要 16 port 的」，欠答）= 收件人 — 一页纸：分销 20% B、STC-2216GP $63–76 / 16 口管理版 按主表 / STC-2224GP $86 一口价 + MOQ 1 + 付费样机；在售品牌不点名 — 蒙古常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 乌兰巴托（第 123 批 官方登记核实 2026-10-29））info@topica.mn +976 7555 4488〔https://topica.mn/〕
 - **调研后定级**：B（原自动 A）——蒙古国非主攻区、市场体量小，仅 1 次回复 → 慢跟。
-- 备注：回复其邮件时给 STI-110GE + STC-28DGGPM 两款（分销 20%），之后按季度触达。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+回复其邮件时给 STI-110GE + STC-28DGGPM 两款（分销 20%），之后按季度触达。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

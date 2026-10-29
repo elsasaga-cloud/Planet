@@ -8,7 +8,9 @@
  "size": "",
  "brands_seen": [
   "SURE / SUREMDVR（自有品牌）",
-  "Timespace"
+  "Timespace",
+  "Hikvision",
+  "Teltonika"
  ],
  "evidence": [
   {
@@ -58,10 +60,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网核对）"
+  "level": "B 级加厚 v1（官网核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "SURE24 LIMITED（Companies House 04863038；曾名 BATTANCO LIMITED → 2003-11-11；SIC 32990）",
@@ -164,6 +167,14 @@
     "quote": "24 Port PoE Managed Switch",
     "why": "本日去信真实主题（邮箱索引 35527f8452c179e1；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
     "k": "35527f8452c179e1"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Home — SURE transport is known in the industry for supplying CCTV equipment to Tier 1 and 2 bus operators across the UK. With sister company SURE24 having been a CCTV brand for over a decade, we have camera and DVR specialists available on telephone, email and live chat at any time during work hours",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://suretransport.co.uk/"
    }
   ],
   "proof_gaps": [],
@@ -172,5 +183,30 @@
    "body": "Hi Callum,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 21 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAt the show you saw the units and the paperwork on my screen; your requirement was clear - 5 or 8 ports, occasionally PoE, not the bigger boxes. For the bus kits, under the SURE label from small lots, -40 to 75 C, CE/RoHS/UKCA: mini DIN-rail 5 x Gigabit, 12-36 V DC straight from the 24 V vehicle supply - model STI-050GE - $18.5 USD EXW (MOQ 1, 15-day validity); 8-port, 12-58 V DC - STI-080GE - $32.5; 4 x Gigabit PoE+ + 1 x uplink for IP cameras (44-57 V DC, so a DC-DC in front) - STI-054GP - $33.8.\n\nOne question: how many vehicles per month are you fitting with IP cameras now?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:39:35Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "ST815",
+   "VB4112",
+   "SURE360",
+   "VB4112HR",
+   "DVRV400",
+   "DS-2CD2545FWD",
+   "AR0141",
+   "DSM5WGF-2"
+  ],
+  "url": "https://suretransport.co.uk/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

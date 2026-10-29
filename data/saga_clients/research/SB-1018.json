@@ -57,10 +57,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-024，W 批次调研 2026-10-19/20）"
+  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-024，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "COEL DISTRIBUTION SRL（P.IVA / CF 11989650152；REA MB-2629252，旧 MI-1521836）",
@@ -144,6 +145,14 @@
     "quote": "Industrial PoE Switch、48 Port PoE Managed Switch",
     "why": "16 封 / 0 次打开 / 0 回｜首封 2025-06-20 → 末封 2026-10-07（16 去 / 0 来）",
     "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Coel Distribution | componenti e sistemi per le infrastrutture tecnologiche nell’IT — Scegli Coel Distribution come distributori nel mercato del cablaggio strutturato, del networking, delle telecomunicazioni e della connettività",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.coeldistribution.it/"
    }
   ],
   "proof_gaps": [],
@@ -159,5 +168,39 @@
   "note": "米兰北郊布线 + 网络分销商，目录中 PLANET 工业小交换机有自有货号：进口台湾同类 ✔ 对位 ✔ → 留 B",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": []
+ "override_history": [],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:27:56Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@coeldistribution.it"
+  ],
+  "phones": [
+   "+39 039.578.0383",
+   "+39 039.578.831"
+  ],
+  "social": [
+   "https://www.facebook.com/CoelDistribution",
+   "https://www.linkedin.com/company/coel-distribution/",
+   "https://www.youtube.com/user/COELDISTRIBUTION"
+  ],
+  "models_on_site": [
+   "GS950",
+   "GS-6322-24P4X",
+   "IGS-1020PTF",
+   "IGS-1020TF",
+   "IGS-12040MT",
+   "IGS-1820TF",
+   "IGS-20040MT",
+   "IGS-5225-4T2S"
+  ],
+  "url": "https://www.coeldistribution.it/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

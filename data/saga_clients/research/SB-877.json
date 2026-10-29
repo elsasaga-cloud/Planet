@@ -62,10 +62,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "俄罗斯",
@@ -131,6 +132,14 @@
     "quote": "自己的logo 工业FS SFP等 外壳看着像是国内的；基本都是用Hasvio的",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "LTV - лучшая техника для видеонаблюдения от ЛУИС+ — Линейка оборудования LTV - это полнофункциональный набор устройств, оптимальных по соотношению «цена/качество», ассортимент которых постоянно пополняется, следуя новым тенденциям на рынке CCTV и создавая их. Марка LTV представлена во всех основных ",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://ltv-cctv.ru/"
    }
   ],
   "proof_gaps": [
@@ -141,5 +150,35 @@
    "body": "Hello LTV team,\n\nFor the industrial PoE switches in the LTV range, we can be a second ODM source in LTV packaging from small lots, DIN-rail, -40 to 75 C, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2 managed (VLAN, QoS, IGMP), Marvell-based - model STI-288GPM - $85.5 USD EXW with your logo (MOQ 1, 15-day validity); the unmanaged version - STI-288GP - $62.2; 4 x PoE+ + 1 x RJ45 + 1 x SFP - STI-154GP - $40.8. SFP modules we do not supply; EAC stays on your side.\n\nOne question: which industrial SKU do your installers order most - 4-port or 8-port?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:49:21Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "bryanin.dmitriy@luis.ru",
+   "danilov.maksim@luis.ru",
+   "derishev.evgeniy@luis.ru",
+   "don@luis.ru",
+   "dv@luis.ru"
+  ],
+  "phones": [
+   "+7 (342) 206-07-47",
+   "+7 (343) 298-20-28",
+   "+7 (343)298-20-28"
+  ],
+  "social": [
+   "http://vk.com/Luis.Russia",
+   "http://www.youtube.com/user/TheLuisplus",
+   "https://t.me/Luis_Plus"
+  ],
+  "models_on_site": [],
+  "url": "https://ltv-cctv.ru/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

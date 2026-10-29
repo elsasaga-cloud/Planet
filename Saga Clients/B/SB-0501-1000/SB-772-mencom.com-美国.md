@@ -138,7 +138,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（http_error）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（mencom.com：HTTP 错误，2026-10-21，第 1 次）
 - **是谁**：美国 Mencom Corporation（工业连接器/线缆组件制造商，兼售自有标工业交换机与 MC，「标价高」；KP John Heath（Engineering Manager）、Jason Moore（Industrial Technician）、John J. Bisson；官网 http_error）；群发 19 次无回复。
 - **类型**：工业连接器制造商（美国，自有标工业 FS/MC）
 - **【用户表】表内兴趣/备注**
@@ -150,7 +150,8 @@ updated: 2026-10-29
 - **KP**：John Heath（Engineering Manager（选型人）= 收件人（第 102 批 官方登记核实 2026-10-28））john.heath@mencom.com 〔用户表〕
 - **KP**：John J. Bisson（Sales（growjo；Kompass 误列 Owner）= 抄送（第 102 批 官方登记核实 2026-10-28））john@mencom.com 〔用户表〕
 - **KP**：Bruce E. Mistarz（President / CEO / 创办人（1987；GA Domestic Profit Corporation 注册代理）= 拍板人（点名）（第 102 批 官方登记核实 2026-10-28）） 〔〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

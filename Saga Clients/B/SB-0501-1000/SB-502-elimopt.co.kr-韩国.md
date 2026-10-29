@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2025-02-14 | out | Elsa → h0824@elimopt.co.kr, khs10623@elimopt.co.kr | 10G Media Converter（Elsa 1:1 逐月名单第 1/1 轮；To 仅本户；正文 Price: 65usd/pc（10G 收发器，2025-02 旧汇率）） | 第 74 批(n) `from:e.sagatelecom to:elimopt.co.kr` 全程 complete：1 轮直收（头 msg 19501dcc2221e96f 无 Bcc，称呼「Hi, Hyun」）；0 回 | `elsa_1to1` |
 | 2026-09-28 | 去 | A/S 群发 | Industrial PoE Switch、Managed Optical Bypass Switch | 34 封 / 2 次打开 / 0 回｜首封 2024-06-28 → 末封 2026-09-28（34 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | FS 工业FS MC AHD SDI VC是大头 自己的logo；一些销售平台也在卖他们的产品 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | 엘림광통신 — 엘림광통신 | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -143,9 +144,10 @@ updated: 2026-10-29
   > FS 工业FS MC AHD SDI VC是大头 自己的logo；一些销售平台也在卖他们的产品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：유영록 Yoo Young-rok（대표이사 엘림광통신㈜ Elim Optical Communication Co., Ltd.（jobkorea / KC 시험성적서）= 拍板人（研究档无具名 KP → 收件 elimopt@ + h0824@ / khs10623@）（第 115 批 官方登记核实 2026-10-28））elimopt@elimopt.co.kr 〔https://www.jobkorea.co.kr/recruit/co_read/c/elimopt〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

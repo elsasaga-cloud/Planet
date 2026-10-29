@@ -34,10 +34,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：deep。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（Companies House 核对 · 官网不可见）"
+  "level": "B 级加厚 v1（Companies House 核对 · 官网不可见） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "IST SURVEILLANCE LTD（Companies House 11228236）",
@@ -125,5 +126,12 @@
    "body": "Hello IST Surveillance team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 18 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nIf your monitoring installs still use 8-camera PoE cabinets: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $84.1 USD EXW (MOQ 1, 15-day validity), CE/RoHS/UKCA, neutral brand.\n\nOne question: which recorder brand do you pair the switch with - that tells me whether the 8-port or a 16-port is the right one to detail?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:23:01Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
  }
 }

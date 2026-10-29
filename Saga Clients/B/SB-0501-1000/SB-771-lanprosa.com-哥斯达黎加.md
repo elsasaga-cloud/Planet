@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-06-30 | 来 | Samanta Navarro | Can you please share price and point of you have router products and cloud management | 需求错位 | `4b89ec05a27b2ce4` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | lanprosa - Lanprosa — Estación base y teléfonos inalámbricos. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -140,9 +141,10 @@ updated: 2026-10-29
   > 兴趣：CCTV switch 有海思的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Samanta Navarro（）mercadeo@lanprosa.com 〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 国别更正为「哥斯达黎加」（country_fix）：Lanprosa S.A. 为哥斯达黎加圣何塞公司（官网 / LinkedIn / CPIC），用户表记美国（第 90 批 / Q-65 2026-10-27）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 国别更正为「哥斯达黎加」（country_fix）：Lanprosa S.A. 为哥斯达黎加圣何塞公司（官网 / LinkedIn / CPIC），用户表记美国（第 90 批 / Q-65 2026-10-27）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

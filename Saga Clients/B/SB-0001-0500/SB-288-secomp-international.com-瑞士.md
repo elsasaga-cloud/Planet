@@ -53,6 +53,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-14 | 去 | A 群发 | Industrial PoE Switch、Marvell Alleycat5 Solution | 16 封 / 1 次打开 / 0 回｜首封 2025-03-31 → 末封 2026-09-14（16 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS SFP MC SFP都有 从多家买的；工业FS SFP MC SFP都有 从多家买的 有鸿瑞的商业FS | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | SECOMP - Your specialist for Network Components, Audio/Video, UPS / Power Supply and IT Accessories - SECOMP International AG — SECOMP - your reliable and competent B2B partner for IT accessories & network technology, security systems, UPS & power supply, consumer electronics accessories and 19-inch | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -134,9 +135,10 @@ updated: 2026-10-29
   > 工业FS SFP MC SFP都有 从多家买的 有鸿瑞的商业FS
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Michael Taraba（Präsident des Verwaltungsrats / 集团创始人（moneyhouse / prospex；另 Hans Walbert / Roland Silvestri / Hans Rudolf Merz）= 拍板人（不直接发；收件人 = ROLINE 产品经理 via info@secomp-international.com）（第 109 批 官方登记核实 2026-10-28））info@secomp-international.com 〔https://www.moneyhouse.ch/en/company/secomp-international-ag-12957629611〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

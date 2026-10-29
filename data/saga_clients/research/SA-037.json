@@ -61,11 +61,12 @@
    "source": "https://www.falconebiz.com/company/AECONNECT-INDIA-PRIVATE-LIMITED-U31200GJ2022PTC132573"
   }
  ],
- "notes": "A 维持（3 次实质回复 + 自有品牌 + 200+ 经销商），风险是其「印度自产」方向可能转向 SKD/PCBA 采购；P1 = STC-28DGGPM / STC-424DGGPM-280W 贴牌，30% OEM 档；MC = STI-110GE。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\nA 维持（3 次实质回复 + 自有品牌 + 200+ 经销商），风险是其「印度自产」方向可能转向 SKD/PCBA 采购；P1 = STC-28DGGPM / STC-424DGGPM-280W 贴牌，30% OEM 档；MC = STI-110GE。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1"
+  "level": "深挖 v1 + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "AECONNECT INDIA PRIVATE LIMITED（CIN U31200GJ2022PTC132573，2022-06-01，Active；实缴 ₹100,000；RoC Ahmedabad）",
@@ -193,6 +194,14 @@
     "quote": "用户表跟进：推「工业16 24口出货图」→ 对方「主要用RTL 有较为成熟的产品了 国内的」",
     "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
     "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.58 2025.2.26"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Networking Products Manufacturer in India | AE Connect — AE Connect manufactures PoE injectors and switches, fiber solutions, Cat 6 and Cat 6A structured cabling, rack cabinets and networking tools in India since 2005.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://aeconnect.co.in/"
    }
   ],
   "proof_gaps": [
@@ -203,5 +212,41 @@
    "body": "Hello AE Connect team,\n\nYou told us in 2025 that your PoE switches are RTL-based and mature, and that part of the range is now made in India - understood. The two footprints where a Marvell-based second source still drops into your range without datasheet changes, in AE Connect packing from small lots: AE-PS8082SFT-M class - 8 x Gigabit PoE+ + 2 x SFP, L2+ managed - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); AE-PS242SFT-M class - 24 x PoE+ (280 W) + 4 x SFP - STC-424DGGPM-280W - $145.7. Industrial 8 x PoE+ + 2 x SFP DIN unit as a third line. BIS stays on your side.\n\nOne question: which of the imported SKUs is staying imported after the Make-in-India move? That is the one worth a second source.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:12Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "backoffice@aeconnect.co.in",
+   "info@aeconnect.co.in"
+  ],
+  "phones": [
+   "+91 92130 14368",
+   "+91 95379 10555"
+  ],
+  "social": [
+   "https://twitter.com/aeconnectindia",
+   "https://www.facebook.com/aeconnectindia",
+   "https://www.instagram.com/aeconnectindia",
+   "https://www.linkedin.com/company/aeconnectindia"
+  ],
+  "models_on_site": [
+   "AEIN-PIG901",
+   "AEIN-PIG901-F",
+   "AE-PS8082SFT-M",
+   "AE250-PS1084SFTM-L3",
+   "AE-PS242SFT-M",
+   "AE600-24GP4TF-L3",
+   "AEIN-PSG484GF-M",
+   "AE800-48GP410GFL3-M"
+  ],
+  "url": "https://aeconnect.co.in/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

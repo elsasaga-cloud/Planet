@@ -56,6 +56,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-02-13 | 去 | A/S 群发 | Industrial PoE Switch、Mini Industrial PoE Switch | 18 封 / 1 次打开 / 0 回｜首封 2024-06-24 → 末封 2026-02-13（18 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：工业FS SFP 1U机架工业 工业串口 自己的logo | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | WoMaster-Master in IIoT World \| Industrial 5G/LTE Routers & IIoT Networking — WoMaster provides Industrial DIN-Rail and rackmount Ethernet switches, PoE switches, outdoor wireless AP, WiFi LTE Cat.4 cellular routers for IIoT. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -122,9 +123,10 @@ updated: 2026-10-29
   > 兴趣：工业FS SFP 1U机架工业 工业串口 自己的logo
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（欧洲站）（欧洲站公共箱（未具名）— 最后一次一页纸：贴标 OEM 30% B、STI-288DGGPM $137 / STI-0240GE $130 贴标补 SKU + 贴标 MOQ + 付费样机；1U 机架工业 / 串口服务器不供明说 — 欧盟常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP（买方清关）；周四 12–14 当地（第 123 批 官方登记核实 2026-10-29））info@womaster.eu 〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

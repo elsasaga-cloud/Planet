@@ -55,10 +55,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "ul. 1 Maja 12/35, 09-402 Płock",
@@ -143,10 +144,53 @@
     "quote": "MC Switch等；有haviso的商业PoE 应该是比较多从国内买；https://www.ceneo.pl/Switche_i_huby/p:ABCVISION.htm",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "ABC VISION - SYSTEMY ZABEZPIECZEŃ ALARMY MONITORING IP TELEWIZJA PRZEMYSŁOWA CCTV — Sklep internetowy firmy ABC VISION - SYSTEMY ZABEZPIECZEŃ. Profesjonalna obsługa oraz atrakcyjne ceny gwarantowane! Posiadamy w stałej ofercie setki urządzeń służących do intalacji systemu monitoringu, monitoringu IP",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://abcv.pl/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:40:42Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "ksiegowosc@abcvision.pl",
+   "oferta@abcvision.pl",
+   "serwis@abcvision.pl",
+   "sklep@abcvision.pl",
+   "spedycja@abcvision.pl"
+  ],
+  "phones": [
+   "+48 24 362-30-14",
+   "+48 516-689-427",
+   "+48 793-221-737"
+  ],
+  "social": [],
+  "models_on_site": [
+   "TF-P100",
+   "ADR-20N",
+   "BRATECK-LCD-501N",
+   "DS-1299ZJ",
+   "MDR-10-12",
+   "DS-3E2318P",
+   "DS-3E0505D-E",
+   "DS-3E0524-E"
+  ],
+  "url": "https://abcv.pl/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -49,7 +49,7 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：fail#1。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（快照超时 + 表内：台系品牌 OEM）"
@@ -159,5 +159,14 @@
    "body": "Hi Jesse,\n\nIn July 2025 you asked for our catalogue and price list around a 16-port DIN Gigabit switch and said you would study it; two chasers from us went unanswered, so this is a once-a-year note, not a chase. The 16-port industrial PoE, honestly labelled: 16 x Gigabit PoE+ + 2 x SFP, unmanaged, -40 to 75 C, CE/FCC/RoHS - model STI-21616GP - $185 USD EXW at OEM tier (MOQ 1, 15-day validity); the L2+ managed version with 2 x 10G SFP+ uplinks, Marvell-based - STI-21616XGGPM - $322.6. EDIMAX label from small lots.\n\nOne question: is EDIMAX re-sourcing the 16-port industrial PoE SKU in 2027, and is it the managed or the unmanaged position?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:23:06Z"
+  ],
+  "fails": [
+   "2026-10-21"
+  ],
+  "batch": "LT-T03"
  }
 }

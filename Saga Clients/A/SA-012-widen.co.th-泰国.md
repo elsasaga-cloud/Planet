@@ -141,7 +141,8 @@ updated: 2026-10-29
   > WIDEN SFP Gigabit Ethernet Media Converter · WIDEN Optic Media Converter with POE · WIDEN Rack mountable Chassis … WIDEN Fiber Optic Industrial WDM Media Converter 10/100 8 Port RJ45 PoE · … 10/100/1000 2 Port RJ45 PoE · WIDEN Fiber Optic PoE Extender W-PoEEx 1,950.00 บาท
   > 来源：https://www.telepart.net/（抓取 2026-10-21）
 - **KP**：Thawat（负责人（官网公开直邮））thawat@widen.co.th +66 81-285-4599 / 02-149-3922〔http://www.widen.co.th/〕
-- 备注：A 确认：自有 logo 的光纤分销商，Saga MC/光纤交换机可直接贴牌；P1 = STI-110GE（MC）或 STC-28DGGPM 光口款，30% 档；泰国区可提 LINE 跟进。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+A 确认：自有 logo 的光纤分销商，Saga MC/光纤交换机可直接贴牌；P1 = STI-110GE（MC）或 STC-28DGGPM 光口款，30% 档；泰国区可提 LINE 跟进。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
 

@@ -54,6 +54,7 @@ updated: 2026-10-29
 | 2024-11-05 | 去 | Simon → Angora Networks（SA-077）附件 Turkey Client List.xlsx | 名单行：「Commercial POE satis@opax.com 90 4449890 https://www.opax.com/ag-urunleri/prd-opax-0810-8-port-10100m-poe-switch-2-port-uplink-120w」 | Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持） | `gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx` |
 | 2026-10-06 | 去 | A/S 群发 | 10G Enterprise SFP Switch、Industrial PoE Switch | 19 封 / 0 次打开 / 0 回｜首封 2024-06-14 → 末封 2026-10-06（19 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 商业POE 用的洪瑞的；90 4449890 网站上的 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Opax Alarm Sistemleri \| Kablolu, Kablosuz, WiFi ve GSM Alarm Çözümleri - Kablosuz Yangın Sistemleri — Opax alarm ve güvenlik sistemleriyle ev ve iş yerinizi koruma altına alın. Kablolu, kablosuz, WiFi ve GSM destekli Opax alarm sistemleri, kablosuz yangın alarm sistemleri, kamera çözümleri ve dedekt | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）
 
@@ -153,9 +154,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Damian Brozda（**误归属**：opax.pl = 波兰 Przytkowice 纸箱印刷厂 OPAX Sp. z o.o. Sp.k.（KRS 0000593709）的董事 Damian Brózda，与土耳其 Opax 无关 → 不发（第 93 批 官方登记核实 2026-10-28））damian@opax.pl 〔用户表〕
 - **KP**：Aleksandar Radonic（Satış（销售；研究档）= 本户唯一有效收件人（第 93 批 官方登记核实 2026-10-28））satis@opax.com 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

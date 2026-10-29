@@ -66,6 +66,7 @@ updated: 2026-10-29
 | 2025-01-07 | PI | Simon → Sundar | STI-0160GE … 5 pcs, 88 USD, 440 USD | 复购 1 | `PI STSC20250107014` |
 | 2025-10-09 | PI | Simon → Sundar | STI-0160GE … 2 pcs, 87 USD, 174 USD, T/T in advance, EXW | 复购 2 | `PI STSC20251009014` |
 | 2026-02-12 | 内 | Simon 成本表（PI 包） | 内部《成本统计.xlsx》：STSC20241108014：成本 512 / 收款 665 / 利润 153（23.0%） · STSC20250107014：成本 2,560 / 收款 3,208 / 利润 648（20.2%） · STSC20251009014：成本 1,024 / 收款 1,225 / 利润 201（16.4%） · STSC20260212014：成本 1,536 / 收款 1,760 / 利润 224（12.7%） | 利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md | `cost_sheet` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Sundar Techno Solutions - Sundar Techno Solutions — Phone: +91-9482081014 Email: sales@sundartechno.com Industrial FieldBus Protocol Converters Gateways/Protocol Converters PC Cards Industrial Internet / Industry 4.0 Embedded Modules Network Controller Analysis & Data Acquisition Automation & Visual | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库
 
@@ -178,9 +179,10 @@ updated: 2026-10-29
 - **KP**：Manoj Kumar N（Founder & CEO（成单联系人））sales@sundartechno.com +91 94820 81014（WhatsApp 已加）〔https://sundartechno.com/〕
 - **KP**：Manoj Kumar（CEO）sales@sundartechno.com 〔PI.zip 单据〕
 - **调研后定级**：A（原自动 A）——PI 包成单客户，Simon 标签 可发展 → A
-- 备注：A 维持（已成交 + CEO 直联 + 自有品牌），但 2023 年后沉寂需重新激活；守界：其国防/铁路项目不报 EN50155/军规，仅供标准工业款；P1 = STI-288DGGPM（bypass 款需向 SmartByte 确认），30% OEM 档。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+A 维持（已成交 + CEO 直联 + 自有品牌），但 2023 年后沉寂需重新激活；守界：其国防/铁路项目不报 EN50155/军规，仅供标准工业款；P1 = STI-288DGGPM（bypass 款需向 SmartByte 确认），30% OEM 档。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1）
+### 加厚挖掘（2026-10-21 · 深挖 v1 + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

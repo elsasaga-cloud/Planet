@@ -8,7 +8,19 @@
  "brands_seen": [
   "多家国内品牌（用户记录）",
   "SNR",
-  "NSGate"
+  "NSGate",
+  "Huawei",
+  "D-Link",
+  "Zyxel",
+  "Ubiquiti",
+  "Bosch",
+  "Allied Telesis",
+  "Hikvision",
+  "Axis",
+  "MikroTik",
+  "Cisco",
+  "Dahua",
+  "Moxa"
  ],
  "evidence": [
   {
@@ -58,11 +70,12 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "5 次实质回复 = 真实互动，品类（MC/FS）对位 STI-110GE / 工业 FS。俄罗斯非主攻区且收款路径需核（T/T 受限时走第三方/人民币结算，报价前确认）。P1：STI-110GE 介质转换器 + STI-288GP 非管理工业 PoE，分销价阶 20%。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n5 次实质回复 = 真实互动，品类（MC/FS）对位 STI-110GE / 工业 FS。俄罗斯非主攻区且收款路径需核（T/T 受限时走第三方/人民币结算，报价前确认）。P1：STI-110GE 介质转换器 + STI-288GP 非管理工业 PoE，分销价阶 20%。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v2（注册信息 + 网店 + 伙伴名录核对）"
+  "level": "深挖 v2（注册信息 + 网店 + 伙伴名录核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "ООО «Борн СПб»（ИНН 7841406851，ОГРН 1097847113814）",
@@ -193,6 +206,14 @@
     "quote": "用户表跟进：推「工业非管理组合图」→ 对方「用switches」",
     "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
     "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.47 621"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Борн – системы безопасности и видеонаблюдения — Борн – системы безопасности и видеонаблюдения - интернет магазин Борн",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://born-shop.ru/"
    }
   ],
   "proof_gaps": [
@@ -203,5 +224,34 @@
    "body": "Hello Sergey,\n\nOver the years we exchanged a few short messages and you had our product mails; nothing in them needed an answer. For the media-converter and 8-port PoE lines you trade, the two numbers for your next comparison: industrial Gigabit media converter, 1 x RJ45 + 1 x SFP slot - model STI-110GE - $26.5 USD EXW at distributor price (MOQ 1, 15-day validity); 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - STC-28DGGPM - $80.7. CE/RoHS files supplied; EAC stays on your side.\n\nOne question: which of the two moves more volume in your shop today, so I keep the comparison to that one?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:34Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@born-spb.ru"
+  ],
+  "phones": [],
+  "social": [
+   "https://vk.com/born_spb_ru"
+  ],
+  "models_on_site": [
+   "IPOE-165",
+   "DXE-810S",
+   "AT-2911SX",
+   "SC-901",
+   "AT-2711FX",
+   "AT-2911SFP",
+   "DS-TL2000CI",
+   "AF-11-DUP-H"
+  ],
+  "url": "https://born-shop.ru/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

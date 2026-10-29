@@ -62,6 +62,7 @@ updated: 2026-10-29
 | 2025-04-15 | 去 | A 箱（Alan） | L3 Managed Switch | 首封去信（邮箱索引；去信共 15 封） | `0443766a26891554` |
 | 2026-09-24 | 去 | Saga（Alan） | 「Managed PoE Switches」——最后一封 | 公用 info@ 打了 17 个月无反应；具名 Nuri Sahin 下次直发 | `d564e14c35bc58ca` |
 | 2026-09-24 | 去 | A 箱（Alan） | Managed PoE Switches | 最近一封去信（邮箱索引；去信共 15 封） | `d564e14c35bc58ca` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Falke Security | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：机型兴趣出处未见
 
@@ -152,9 +153,10 @@ updated: 2026-10-29
   > 来源：https://falke-security.de/produkt/dahua-sd29204t-gn-w/（抓取 2026-10-21）
 - **KP**：Nuri Sahin（Inhaber（业主，Creditreform 登记名 Nuri Sahin Sicherheitsdienste „Falke Security“；Einzelunternehmen 无 HRB）= 老板 = 联系人（第 85 批 官方登记核实 2026-10-27））info@falke-security.de（公开） +49 172 90 54 200（官网）〔https://firmeneintrag.creditreform.de/47229/5070424913/NURI_SAHIN_SICHERHEITSDIENSTE_FALKE_SECURITY〕
 - **调研后定级**：B（原自动 A）——Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B5 四主区+对位（冷）；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A
-- 备注：德国主攻区 + 明确机型兴趣（4 光 8 电 10G 上联、2.5G 1 光 8 电）+ 项目型摄像业务 = 对位 STC-424XGGPM-280W / 2.5G 8 口机型。仅 7 次推送（未达耳聋阈值）→ 保 A，改用手机/WhatsApp 直接报价（项目 25%）；再无回应降 B。注意同名 Falke Sicherheitstechnik（柏林/波茨坦）为另一家公司，勿混。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+德国主攻区 + 明确机型兴趣（4 光 8 电 10G 上联、2.5G 1 光 8 电）+ 项目型摄像业务 = 对位 STC-424XGGPM-280W / 2.5G 8 口机型。仅 7 次推送（未达耳聋阈值）→ 保 A，改用手机/WhatsApp 直接报价（项目 25%）；再无回应降 B。注意同名 Falke Sicherheitstechnik（柏林/波茨坦）为另一家公司，勿混。
 
-### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + 注册信息核对））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + 注册信息核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

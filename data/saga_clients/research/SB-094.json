@@ -59,10 +59,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4） ｜ 国别更正为「美国」（country_fix）：第 89 批核实：Maxcom, Inc. 在加州 Fair Oaks（官网 / 名录 / 电话 916 区号），用户表「Canada 3.5.xlsx」第 37 行把它列进了加拿大名单（Q-65 国别机检 2026-10-27）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4） ｜ 国别更正为「美国」（country_fix）：第 89 批核实：Maxcom, Inc. 在加州 Fair Oaks（官网 / 名录 / 电话 916 区号），用户表「Canada 3.5.xlsx」第 37 行把它列进了加拿大名单（Q-65 国别机检 2026-10-27）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "Fair Oaks, California, USA（非加拿大）（第 89 批 官方登记核实 2026-10-27）",
@@ -139,6 +140,14 @@
     "quote": "广州 一个牌子 Gxcom 工业FS 刷了自己的logo 光路的MC",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Manufacturer of fiber optic transport equipment and digital TV equipment | Maxcom, Inc. — Maxcom sells fiber optic transport equipment, Fiber Transmitters, Fiber Receivers, EDFA's, Encoders for Video, RF, Digital TV, ASI signals and Cable TV.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.maxcomcorp.com/"
    }
   ],
   "proof_gaps": [],
@@ -148,5 +157,34 @@
   },
   "as_of": "2026-10-24"
  },
- "country_fix": "美国"
+ "country_fix": "美国",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:23:11Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "maxcomcorp@yahoo.com",
+   "sales@maxcomcorp.com",
+   "support@maxcomcorp.com"
+  ],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "RS232",
+   "RS455",
+   "MX555AGC-1",
+   "MX555AGC",
+   "MX555",
+   "MX700",
+   "MX-OFSW-2X1",
+   "MXOFSW-2X1"
+  ],
+  "url": "https://www.maxcomcorp.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

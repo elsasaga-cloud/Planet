@@ -65,6 +65,7 @@ updated: 2026-10-29
 | 2025-05-20 | 来 | 用户表（Simon 跟进记录；渠道 A） | 用户表跟进：推「Bypass」→ 对方「问了价格」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A Replied 09.04.xlsx no.36 2025.5.20` |
 | 2025-05-26 | 来 | Kim | pls let me know a quotation with bypass function for 4*4. do you have also bypass switch with 2*2 ? and do you have unmanaged bypass switch hub? | bypass 需求 | `b5cbfcb83f46328a` |
 | 2025-05-26 | 去 | Alan | both 4*4 and 2*2 are available… Its price is 280usd/pc… standalone bypass unit… unavailable for now | bypass 报价 | `6b7ea5b03a91b1ef` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | (주)이지넷유비쿼터스ㅣNEXTU | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表「三次到访 / Secon 参展」无邮件印证
 
@@ -164,9 +165,10 @@ updated: 2026-10-29
   > 来源：https://ez-net.co.kr/sub/sub01_01.php?cat_no=149（抓取 2026-10-21）
 - **KP**：Roadman Kim（展会名片联系人（用户表）） +82 2-715-3889 / +82 10-2503-1288〔Clients/A/DONE/KR.xlsx〕
 - **KP**：김우경（Kim Woo-kyung）（대표이사（CEO / 创始人）= 老板 = 联系人；(주)이지넷유비쿼터스 2006-04-04 法人登记（2004 开业），사업자 106-86-42660，44 人，2024 营收 251.6 억원（≈ $18M）、品牌 NEXT 约 1,000 SKU（第 85 批 官方登记核实 2026-10-27））marketing@ez-net.co.kr +82 2-715-0372〔https://nextu.kr/article/q-a/6/12691〕
-- 备注：A 确认（顶级 OEM 目标）：自有品牌全系交换机 + 三次主动到访 + 明确 bypass/10G 需求；P1 改 STI-488XGGPM（工业 10G 上联）或 bypass 型号（如 SmartByte 有 bypass 款需标注），走 30% OEM 档。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+A 确认（顶级 OEM 目标）：自有品牌全系交换机 + 三次主动到访 + 明确 bypass/10G 需求；P1 改 STI-488XGGPM（工业 10G 上联）或 bypass 型号（如 SmartByte 有 bypass 款需标注），走 30% OEM 档。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1）
+### 加厚挖掘（2026-10-21 · 深挖 v1 + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -41,7 +41,7 @@
  ],
  "grade_override": "B",
  "override_reason": "CKD 散件模式需工厂直接配合（Saga 为贸易商，需 SmartByte 同意拆件供货，可行性未定）；印度非主攻区；1 次回复后 12 次推送无果 → 慢跟。",
- "notes": "若 SmartByte 可做 2.5G 整机/半散件，一次性给方案与 MOQ；否则停。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：fail#1。\n若 SmartByte 可做 2.5G 整机/半散件，一次性给方案与 MOQ；否则停。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
@@ -138,5 +138,14 @@
    "body": "Hi Harvinder,\n\nIn 2024 you raised the idea of 5/8-port 2.5G switches in CKD form for assembly in Mumbai, and said you would send the requirement by mail; it never came, so I am writing first.\n\nAs the reference point, the assembled unit on that footprint is a 6-port 2.5G PoE switch (4 x 2.5G PoE+ + 1 x 2.5G + 1 x 10G SFP+), unmanaged - model STC-114XGDGP - $44 USD EXW (MOQ 1, 15-day validity). A CKD kit (PCBA, housing, PSU separately) is possible in principle, but it is only worth pricing against a volume.\n\nOne question, in two parts: what monthly volume would the Mumbai line run, and do you need test-report support from our side for BIS, or do you handle BIS entirely locally?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:21:39Z"
+  ],
+  "fails": [
+   "2026-10-21"
+  ],
+  "batch": "LT-T03"
  }
 }

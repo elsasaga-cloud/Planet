@@ -64,6 +64,7 @@ updated: 2026-10-29
 | 2026-06-05 | 来 | Ivan | Support MPLS with H3C? | 互通问题 | `553ba9ad1fef0430` |
 | 2026-06-08 | 来 | Ivan | Price for this one STH-2C24XFSFI Needs to be DC And with the MA License. | 指定型号询价 | `894de4474cf06741` |
 | 2026-06-08 | 去 | Alan | SFI does NOT support DC input, while HSI does… HSI: 1250USD/PC, With MA License, EXCLUDING optical modules. | 报价 | `5d26574728e757e2` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Homepage \| FiberX — Our suite of Solutions designed for Large Corporations and Wholesale. Internet, cloud, security, transportation and telephony, meeting the highest standards | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -199,9 +200,10 @@ updated: 2026-10-29
   > 来源：https://ispreports.org/internet-service-providers/fiber-x-availability/（抓取 2026-09-03）
 - **KP**：Iván Rivera（Presidente y CEO（创始人）= 老板 = 联系人；FiberX LLC（Puerto Rico 2016/17，ISP + 数据中心，PeeringDB fac 14857，~34 人）（第 85 批 官方登记核实 2026-10-27））irivera@fiberx.net 〔S/A 邮箱来信 2025-01-03 → 2026-06-08 来信 5 封（第 72 批从邮件表头补）〕
 - **KP**：Edwuar Morillo（同串收件人 / 发信人（A 邮箱表头 8 封署名 Edwuar Morillo；职务未核））emorillo@fiberx.net 〔A 邮箱邮件表头（10 封）〕
-- 备注：运营商终端用户，需求为带 bypass 的 2 光 10 电工业交换机（接入/塔站场景），美国关税与 FCC 适用。P1：STI 工业系列 2 光 10 电管理型（bypass 功能需向 SmartByte 核实是否支持，报价前核价），项目价阶 25%。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+运营商终端用户，需求为带 bypass 的 2 光 10 电工业交换机（接入/塔站场景），美国关税与 FCC 适用。P1：STI 工业系列 2 光 10 电管理型（bypass 功能需向 SmartByte 核实是否支持，报价前核价），项目价阶 25%。
 
-### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + PeeringDB 核对））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + PeeringDB 核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

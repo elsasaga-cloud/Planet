@@ -60,6 +60,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-10-08 | 去 | A/S 群发 | Industrial PoE Switch、16 Port PoE Managed Switch | 24 封 / 1 次打开 / 0 回｜首封 2024-06-18 → 末封 2026-10-08（24 去 / 0 来） | `gmail_digest` |
 | 2026-10-08 | 去 | A 箱（Alan） | Managed PoE Switches | 本日去信真实主题（邮箱索引 6c4f80b1fd99441a；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `6c4f80b1fd99441a` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Sistemi Antifurto Videosorveglianza e Antincendio a Bovolone, Verona \| SicurMax — Soluzioni su misura per la sicurezza di abitazioni, aziende e cantieri: impianti antifurto, videosorveglianza, controllo accessi e sistemi wireless. Affidati a Sicurmax, a Bovolone (VR), da oltre 30 anni nel settore si | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -151,8 +152,10 @@ updated: 2026-10-29
 - **KP**：Massimo Marzari（Amministratore / 创始合伙人（PEC massimo.marzari@；WA 已加）= 拍板人 / 收件人（第 109 批 官方登记核实 2026-10-28））info@sicurmax.com +39 045 690 0922〔https://sicurmax.com/azienda〕
 - **KP**：Massimo Marzari（Amministratore / 创始合伙人（PEC massimo.marzari@；WA 已加）= 拍板人 / 收件人（第 109 批 官方登记核实 2026-10-28））info@sicurmax.com（公司公开） +39 045 690 0922〔https://sicurmax.com/azienda〕
 - **调研后定级**：A（原自动 A）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A1 复购/绑定≥中度；A2 成单/样品/PI+真人往来
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

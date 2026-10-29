@@ -62,6 +62,7 @@ updated: 2026-10-29
 | 2021-08-12 | 来 | 用户表（Simon 跟进记录；渠道 WhatsApp） | 用户表跟进：推「发了mini小壳图 价格」→ 对方「问了一个NVR 提供不了」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/Whatsapp_S跟进 2026.08.04.xlsx no.104 2021.8.12` |
 | 2022-08-11 | 来 | 用户表（Simon 跟进记录；渠道 WhatsApp） | 用户表跟进：推「发了8路高清图 阿里链接」→ 对方「问了其他的产品 提供不了」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/Whatsapp_S跟进 2026.08.04.xlsx no.104 2022.8.11` |
 | 2026-10-21 | 用户表 | Simon | 闭路电视 安全 网站：没啥特别相关的东西 / 92 335-28 76148 已加 / 外贸邦 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Home - COMTECH ASSOCIATES — Pakistan's Biggest Tech Show Meets Real Cisco DeploymentsComtech, a Silver Sponsor at ITCN Asia 2026, is showcasing Cisco networking, security, and data | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库
 
@@ -121,7 +122,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线
 - **是谁**：卡拉奇 IT 基础设施集成商 Comtech Associates（2010 年成立；11–50 人；Cisco 认证合作伙伴（4 个徽章）、Fortinet 授权伙伴、D-Link 分销伙伴（交换机、Wi-Fi、监控）；网络、网络安全、数据中心、托管服务、定制软件；四地办公（Karachi/Lahore/Islamabad/Quetta）；客户含银行、电信、医疗、教育、工业与地产（CCTV/IoT）；Head Office Khadim Avenue Karachi / NASTP Shahrah-e-Faisal；+92 21 3440 4440；marketing@comtech.net.pk；ZoomInfo 电话 +92 335 287 6148 = 用户表 WhatsApp 号）。用户表（外贸邦）：闭路电视/安全；40 次跟进无回复；WhatsApp 已加。
-- **在卖/在用品牌**：Cisco, D-Link, Fortinet
+- **在卖/在用品牌**：Cisco, D-Link, Fortinet, Ubiquiti, Huawei, TP-Link, H3C, Grandstream
 - **【官网】合作伙伴与业务**
   > Comtech Associates is a certified Cisco partner providing networking, cybersecurity, data center, and managed IT solutions across Pakistan. … +92 213 4404440 … The Hive 3rd Floor, NASTP Faisal Cantonment Main shahrah e faisal, Karachi.
   > 来源：https://comtech.net.pk/（抓取 2026-09-23）
@@ -144,9 +145,10 @@ updated: 2026-10-29
 - **KP**：Muhammad Farooq Zaheer（CEO = 老板 —— 公司 = **Cisco 巴基斯坦「Partner of the Year 2026」+ Fortinet 伙伴（50–100 人）→ 判定：只在银行 / 政府标里要「非 Cisco 接入层」时有机会；一封抄 Rehan Shaikh，无回即停**（第 91 批 官方登记核实 2026-10-27）） 〔https://comtech.net.pk/〕
 - **KP**：Rehan Shaikh（Co-Founder / Director of Sales = 销售拍板（抄送）；COO Abdul Rehman Zaheer（家族）；Head of Solutions Muhammad Irfan Ghauri（2026-01）（第 91 批 官方登记核实 2026-10-27）） 〔https://www.issuewire.com/comtech-associates-joins-cisco-partner-summit-2026-as-a-cisco-partner-1879935322008449〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

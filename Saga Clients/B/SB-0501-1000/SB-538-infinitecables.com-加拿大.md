@@ -58,6 +58,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-10 | 去 | A/S 群发 | Managed Optical Bypass Switch、10G Enterprise SFP Switch | 32 封 / 3 次打开 / 0 回｜首封 2025-01-09 → 末封 2026-09-10（32 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | MC DVI FS PoE SFP 串口 销售平台 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Infinite Cables \| Your Online Source for Connectivity Solutions — North American supplier of Audio/Video Cables, Networking Cables, Fiber Cables, UPS Batteries, Security Cameras and more. Servicing the needs of IT products and the average home user for over a decade. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -161,9 +162,10 @@ updated: 2026-10-29
 - **KP**：Augustin Liu（）sales@infinitecables.com 〔用户表〕
 - **KP**：Richard Bonsol（） 〔用户表〕
 - **KP**：George Arvanitopoulos（董事 / 主要负责人（Corporations Canada 6482929 + D&B）= 老板；联名董事 Chris Michael Frangos —— 抄送（第 90 批 官方登记核实 2026-10-27）） 〔https://opengovca.com/corporation/6482929〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4） ｜ 国别更正为「加拿大」（country_fix）：Infinite Cables Inc. 为 Corporations Canada 联邦公司 6482929，地址 Markham ON；用户表记美国（第 90 批 / Q-65 2026-10-27）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4） ｜ 国别更正为「加拿大」（country_fix）：Infinite Cables Inc. 为 Corporations Canada 联邦公司 6482929，地址 Markham ON；用户表记美国（第 90 批 / Q-65 2026-10-27）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

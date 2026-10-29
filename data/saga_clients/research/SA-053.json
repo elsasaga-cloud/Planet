@@ -85,11 +85,12 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "A 级中少见的'CEO 直接、6 次回复、WA 在线、需求对位 HRUI 工业 FS'组合。离网/太阳能 CCTV 场景 → 工业 DC 供电 PoE 交换机（STI 工业线/HRUI STH 工业款）。P1：STI-288DGGPM 或 HRUI 对位 STH 工业 FS 机型（按 data/hrui_STC对照表.csv 核对），项目价阶 25%。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：deep。\nA 级中少见的'CEO 直接、6 次回复、WA 在线、需求对位 HRUI 工业 FS'组合。离网/太阳能 CCTV 场景 → 工业 DC 供电 PoE 交换机（STI 工业线/HRUI STH 工业款）。P1：STI-288DGGPM 或 HRUI 对位 STH 工业 FS 机型（按 data/hrui_STC对照表.csv 核对），项目价阶 25%。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v2（infrateq.com + divatel.id 核对）"
+  "level": "深挖 v2（infrateq.com + divatel.id 核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "PT. Divatel Pratama",
@@ -229,5 +230,12 @@
    "body": "Pak Ismed, Simon from Saga Telecom. Next to the HR600-AFG-822S on infrateq.com, a higher-tier SKU in InfrateQ packing: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2+ managed with ring redundancy, Marvell-based, dual DC input, -40 to 75 C - STI-288DGGPM - $137.5 EXW (MOQ 1, 15-day validity). For the off-grid solar CCTV sites, the DC input range matters - what battery voltage do those sites run, 12/24 or 48 V?"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:31Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
  }
 }

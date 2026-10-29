@@ -68,6 +68,7 @@ updated: 2026-10-29
 | 2026-05-05 | out | Elsa → inquiry@fibercomtelecoms.com | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 8/9 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 第 74 批(n) `from:e.sagatelecom to:fibercomtelecoms.com` 全程 complete：9 轮直收（头 msg 19fd595eb27a9beb 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
 | 2026-08-06 | out | Elsa → inquiry@fibercomtelecoms.com | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 9/9 轮；To 仅本户；正文 Price: 170USD/PC） | 第 74 批(n) `from:e.sagatelecom to:fibercomtelecoms.com` 全程 complete：9 轮直收（头 msg 19fd595eb27a9beb 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
 | 2026-10-21 | 用户表 | Simon | 买了很多跳线 / 网站：SFP networking / 富通天下 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Fibercom Telecom \| Leading Fiber & Turnkey ICT Solutions — Finbuzz WordPress Business Theme | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -124,13 +125,15 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：未单独核对（用户表注「网站：SFP networking」）
 - **是谁**：菲律宾光纤网络产品公司 Fibercom Telecoms（用户表注：网站以 SFP/networking 为主；inquiry@fibercomtelecoms.com）。用户表（富通天下外贸数据）：「买了很多跳线」= 从中国进口大量光纤跳线，非 Saga 成交；E 冷名单 1 次跟进 0 回复。光纤配件经销商 → 2 SFP 交换机与 MC 为配套品类。
+- **在卖/在用品牌**：PLANET
 - **【用户表】富通天下：买了很多跳线；网站 SFP networking**
   > 买了很多跳线 / 网站：SFP networking / 富通天下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Emanuel Fryszer（Contact Person / 负责人（Foxcom 全球经销名录 2026-10-29）= 收件人 — 一页纸一次：分销 20% B、STC-228GP / STC-2224GP / STC-110XGE 一口价 + MOQ 1 + 付费样机；跳线 / SFP 不做明说 — 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉、NTC 不声称（第 120 批 官方登记核实 2026-10-29））efryszer@fibercomtelecoms.com 〔〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于用户表整理 + 需求映射；「成交」为富通天下外贸数据））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于用户表整理 + 需求映射；「成交」为富通天下外贸数据） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

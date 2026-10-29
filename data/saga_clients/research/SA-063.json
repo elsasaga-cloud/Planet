@@ -54,11 +54,12 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "规格细到光口类型（SC/SFP）与 L2/L3 分档 = 真实项目选型；4 次回复、WA 在线。印度非主攻区但无需额外投入。P1：SmartByte 8 光 8 电管理型（L2）+ STC-448XGGM(L3) 类 L3 选项（按 docs/smartbyte/products 核对 8F8T 型号与 SC 口可选，报价前核价），项目价阶 25%。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n规格细到光口类型（SC/SFP）与 L2/L3 分档 = 真实项目选型；4 次回复、WA 在线。印度非主攻区但无需额外投入。P1：SmartByte 8 光 8 电管理型（L2）+ STC-448XGGM(L3) 类 L3 选项（按 docs/smartbyte/products 核对 8F8T 型号与 SC 口可选，报价前核价），项目价阶 25%。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v2（官网 areca.in + 公司注册核对）"
+  "level": "深挖 v2（官网 areca.in + 公司注册核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "ARECA EMBEDDED SYSTEMS PRIVATE LIMITED（CIN U72200TG2007PTC053397，2007-03-29，Active；实缴 ₹46,522,500；RoC Hyderabad；2018 年易主 Jain 家族）",
@@ -179,6 +180,14 @@
     "quote": "用户表跟进：推「引流机型」→ 对方「BIS」",
     "why": "Simon 跟进表里的回应记录（邮箱看不到的渠道）；按原文留存",
     "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.66 1118"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Areca Embedded Systems Private Limited",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://areca.in/"
    }
   ],
   "proof_gaps": [
@@ -189,5 +198,26 @@
    "body": "Hi, Simon from Saga Telecom. On the 8-SFP + 8-RJ45 managed unit, non-PoE, L2 and L3 versions, SC and SFP optics: before I confirm the build, what is the end application and the ambient range (cabinet indoors, or -40 to 75 C)? That decides housing and firmware, and I quote both L2 and L3 in one line each. BIS stays on your side."
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:38Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@areca.in"
+  ],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "PAPIS-CG18001",
+   "BRS930-931"
+  ],
+  "url": "https://areca.in/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

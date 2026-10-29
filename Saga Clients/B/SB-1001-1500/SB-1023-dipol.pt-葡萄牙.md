@@ -58,6 +58,7 @@ updated: 2026-10-29
 | 2025-02-18 | 去 | Elsa 群发（To 直收：本户是「PT/IE/SE/OM/HU/NZ/RO/MT/AE/BE 早期混合」批次的锚，其余客户在 Bcc） | Mini Industrial PoE Switch — This is about our MINI Din unmanaged switches for you. 1. 100/1000M auto-adaptive SFP fiber 2. support DIP for flexible configuration 3. PoE optional, | Elsa 箱群发直达证据（To dipol@skuatechnology.com）；该批次 1 轮 2025-02-18 每轮都以本户为 To；S/A digest 看不到 Elsa 的发信 | `elsa_bcc` |
 | 2026-08-13 | 去 | Elsa 群发（BCC；To info@iotkomponenty.sk，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 dipol.pt, office@dipol.pt）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：MC FS SFP VC | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | IP CCTV, LAN, WLAN, TV, SAT TV, Antenas, Cabos - DIPOL — CCTV IP sem fios, SAT-TV, TP-Link, antenas, câmeras, cabos coaxiais, dispositivos de rede, cabos par trançado, UTP, FTP, interruptores, comutadores, DVRs, lentes, roteadores ADSL, conversores, aparelhos TP-Link. Nós emitir guias técnicos, a ap | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -131,9 +132,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（办公室）（）office@dipol.pt +351 253 618 579〔https://dipol.pt/〕
 - **KP**：Ricardo Manuel da Silva Vieira（推定 sócio-gerente（一人有限公司 = 老板；民防局 SCIE 设备实体登记负责人，证书至 2027-09）→ 下一封写他（第 89 批 官方登记核实 2026-10-27））ricardo.vieira@skuatechnology.com 〔https://prociv.gov.pt/media/evnd50kk/listagem_773_24-01-2025.pdf〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -2,7 +2,7 @@
  "code": "SB-239",
  "name_official": "Empicstar（empicstar.com，尼日利亚；域名现不可达）",
  "researched_at": "2026-10-21",
- "website_status": "域名不可达（快照 2026-10-21 unreachable）",
+ "website_status": "快照失败（empicstar.com：域名不可达（DNS/连接失败），2026-10-21，第 1 次）",
  "summary": "尼日利亚网络产品平台/转售商 Empicstar（用户备注「FS MC 周边产品，似乎是平台，出现了 TP-Link、ONV 等牌子」；gmail + WA）。2024-03 对商业 PoE 128 信息回「price」；18 次推送 1 次实质回复。域名快照不可达 → 存续待核；→ B 20%（平台转售）。",
  "type": "",
  "size": "",
@@ -24,7 +24,7 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（域名核对 → 存续待核 · 需求映射）"
@@ -100,5 +100,14 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:38:04Z"
+  ],
+  "fails": [
+   "2026-10-21"
+  ],
+  "batch": "LT-T03"
  }
 }

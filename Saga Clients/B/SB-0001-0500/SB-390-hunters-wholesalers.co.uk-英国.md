@@ -125,7 +125,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（timeout）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（hunters-wholesalers.co.uk：超时（站慢或封锁），2026-10-21，第 1 次）
 - **是谁**：英国 Hunters Wholesalers（电气/安防批发分销商；表内「分销商 商业 PoE 有润丰达（丰润达）的」「可以多跟进一下」；官网 timeout）；群发 16 次无回复。
 - **类型**：电气/安防批发商（英国，PoE 现丰润达，Q-33 口径）
 - **在卖/在用品牌**：丰润达
@@ -136,7 +136,8 @@ updated: 2026-10-29
   > 分销商 商业PoE 有润丰达的；可以多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Harjinder Narula（联系人 / 负责人（construction.co.uk；董事身份未核；SSED Ltd T/A Hunters Wholesalers）= 收件人（sales@ 点名）（第 101 批 官方登记核实 2026-10-28））sales@hunters-wholesalers.co.uk 〔〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

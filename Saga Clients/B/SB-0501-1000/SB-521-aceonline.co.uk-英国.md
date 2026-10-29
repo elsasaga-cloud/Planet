@@ -58,6 +58,7 @@ updated: 2026-10-29
 | 2026-09-08 | 去 | A/S 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 21 封 / 1 次打开 / 0 回｜首封 2025-01-24 → 末封 2026-09-08（21 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：商业PoE 也有tplink的 | 表内备注 | `用户表` |
 | 2026-09-08 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 b52f7000bb23c28f；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `b52f7000bb23c28f` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | ACE Distributors — We have been supplying the UK Aerials & Satellite industries with quality components for more than 30 years. Surveillance, Audio, Cables, CCTV, Installation Equipment, Aerials and Satellites. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -139,9 +140,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Shaun Guard（Owner / original installer, **Oxford Aerials Ltd（Wallingford 安装商）= ACE 的客户，非 ACE 人员 → 误归属**；另线集成商 25% 可直发（第 100 批 官方登记核实 2026-10-28））shaun@oxfordaerials.co.uk 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：（ACE 采购）（Aerials & Cable Equipment Ltd 采购 / CCTV & networking buyer（公司号与董事未取 → 下轮补）= 本户主收件人（第 100 批 官方登记核实 2026-10-28））sales@aceonline.co.uk 〔〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

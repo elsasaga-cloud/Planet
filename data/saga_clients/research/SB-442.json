@@ -55,10 +55,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网核对）"
+  "level": "B 级加厚 v1（官网核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Optima Mühendislik A.Ş.（原 Ltd. Şti.；MERSİS 未取）",
@@ -143,6 +144,14 @@
     "quote": "只处理IP camera，基本不处理analog video,对POE switch有兴趣 会来深圳买产品但不是参展，邀请了他参观公司",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Optima Engineering | Road Blockers | Bollards | Gates | Barriers | Security Automation Systems — OPTIMA Engineering Products Road Blockers,, Barriers, Security Automation Systems, Gates, Bollards, Fence Systems, Tyre Killers, Armored Guard Houses, Individual Parking Barriers, Turnstiles, Vehicle Rec",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.optima-engineering.com/en"
    }
   ],
   "proof_gaps": [
@@ -150,5 +159,39 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:41:22Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "optima@optima.tc"
+  ],
+  "phones": [
+   "+90 312 815 15 00"
+  ],
+  "social": [
+   "https://wa.me/+971544633993",
+   "https://www.instagram.com/optima_engineering/?igshid=13ehned5ab0k2",
+   "https://www.linkedin.com/company/opti%CC%87ma-m%C3%BChendi%CC%87sli%CC%87k/",
+   "https://www.youtube.com/user/EngineeringOptima"
+  ],
+  "models_on_site": [
+   "TL-200",
+   "FXB-CT-R5",
+   "FRB-01",
+   "RAB-800",
+   "SAB-100",
+   "BTK-300",
+   "BTK-600",
+   "BTK-300SM"
+  ],
+  "url": "https://www.optima-engineering.com/en",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

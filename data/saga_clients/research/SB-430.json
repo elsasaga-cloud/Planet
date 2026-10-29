@@ -37,10 +37,11 @@
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网核对）"
+  "level": "B 级加厚 v1（官网核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "ООО «Протэк»（Protech；pro-tek.pro 页脚；ИНН 5404507902；ОГРН 1145476039840；Новосибирск, ул. Дуси Ковальчук, 378а, корп. 3, оф. 4）— **研究档法人「ООО «Модуль»（СПб；7802791198）」更正：为 Eltex 渠道同行 / 关联待证，≠ 本户法人**",
@@ -155,6 +156,14 @@
     "quote": "SFP MC 商业Switch TPlink为主 也有其他的牌子 / SFP switch等 发不过去 / switch CCTV networking等",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Протэк — профессиональные технологии безопасности — Системы безопасности и видеонаблюдения по ценам от производителя с доставкой по Новосибирску и области! ✔Монтаж ✔Доставка ✔Низкие цены ☎ Звоните: +7 (383) 383-50-14",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://pro-tek.pro/"
    }
   ],
   "proof_gaps": [
@@ -162,5 +171,38 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:41:03Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "help@pro-tek.pro",
+   "nonparty@ngs.ru",
+   "zakaz@pro-tek.pro"
+  ],
+  "phones": [
+   "+7 (383) 383-50-14",
+   "+7(383) 383-50-14",
+   "+7(905)955-26-72"
+  ],
+  "social": [],
+  "models_on_site": [
+   "SRG-3220",
+   "SPC-8FN",
+   "IPC-B020",
+   "TIP-H-4",
+   "CF-50",
+   "TPA-101",
+   "KKM11-009-230-01",
+   "DRT20-0028-0036"
+  ],
+  "url": "https://pro-tek.pro/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

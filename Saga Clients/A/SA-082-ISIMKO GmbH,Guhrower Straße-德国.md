@@ -61,6 +61,7 @@ updated: 2026-10-29
 | 2025-03-25 | 去 | A 箱（Alan） | L3 Managed Switch | 首封去信（邮箱索引；去信共 11 封） | `6f9bc4626c7cfdef` |
 | 2026-09-30 | 去 | S 箱（Simon） | 24 Port PoE Managed Switch | 最近一封去信（邮箱索引；去信共 11 封） | `6d2437354be82f93` |
 | 2026-09-30 | 去 | S 箱（Simon）报价 | 24 Port PoE Managed Switch｜ $180（原句：*Price: 180USD/PC*） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `6d2437354be82f93` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Startseite - ISIMKO GmbH — Voriger NÃ¤chster ISIMKO goes Future Mit KI-basierten LÃ¶sungen, GebÃ¤udeautomatisierung undProzessdigitalisierung in die Zukunft GefÃ¶rdert aus Mitteln der EuropÃ¤ischen Union Ziele: Verbesserung der Arbeitsbedingungen Erleichterung des Arbeitsalltages Erweiterung unsers  | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：TLD 穷举未见 Elsa 去信、Replied 索引亦无此户），仓库未见原文
 
@@ -153,9 +154,10 @@ updated: 2026-10-29
 - **KP**：Ralph Hannemann（Geschäftsführer（Impressum 公开；Saga 自建站询盘人））r.hannemann@isimko.de（用户表） +49 355 78015-0 / +49 163 96 77284（用户表，WhatsApp 已加）〔https://www.isimko.de/impressum/〕
 - **KP**：Diego Noack（Geschäftsführer（Impressum 公开））—（未公开） +49 355 78015-0〔https://www.isimko.de/impressum/〕
 - **调研后定级**：A（原自动 B）——A 三条件齐备：① 可追溯真实需求——总经理 Ralph Hannemann 本人通过 Saga 自建站询价「1 台 12 光 12 电」；② 直接具名联系人（GF，r.hannemann@isimko.de）；③ 可赢规模——120 人家族企业、专精工业铜缆/光纤网络的系统集成商（非巨头）。WhatsApp 已加。
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B→A 加厚 v1（官网 + 登记核对））
+### 加厚挖掘（2026-10-21 · B→A 加厚 v1（官网 + 登记核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

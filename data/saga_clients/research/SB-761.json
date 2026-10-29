@@ -58,10 +58,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "11 Richland St, Asheville, NC 28806",
@@ -163,6 +164,14 @@
     "quote": "Managed PoE Switches",
     "why": "本日去信真实主题（邮箱索引 64ce5a4ba19394fd；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封）",
     "k": "64ce5a4ba19394fd"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "SCW - Commercial Security Cameras Systems for Businesses — Security Camera Warehouse offers enterprise & commercial grade security cameras & CCTV systems, access control, and alarms.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.getscw.com/"
    }
   ],
   "proof_gaps": [],
@@ -171,5 +180,35 @@
    "body": "Hi Benjamin,\n\nOver the past months you had a few product mails from us - most recently \"Managed PoE Switches\" on 6 October 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the SCW-branded PoE switches, a second ODM source in your packaging from small lots, FCC/CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $87.4 USD EXW with your logo (MOQ 1, 15-day validity); 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $145.7; the 4-port position, unmanaged - STC-114GP - $18.5. On NDAA: we make no claim either way - the component list goes with the sample, and your compliance people decide.\n\nOne question: which model do your installers order most with NVR kits - the 8-port smart or the 24-port?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:47:02Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "hello@getscw.com"
+  ],
+  "phones": [],
+  "social": [
+   "https://www.linkedin.com/company/getscw/",
+   "https://www.youtube.com/c/SCWcameras"
+  ],
+  "models_on_site": [
+   "SCW-CAT5-1000",
+   "SCW-CAT6-1000BL",
+   "SCW-NCC5-1000PL",
+   "SCW-NCC6-1000PL",
+   "PMC-SIAM-100",
+   "PMC-HDMI-010",
+   "PMC-SIAM-150",
+   "PMC-HDMI-015"
+  ],
+  "url": "https://www.getscw.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

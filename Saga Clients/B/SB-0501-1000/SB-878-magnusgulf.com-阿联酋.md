@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2025-10-03 | 去 | Elsa 群发（BCC；To admin@ionsecurity.com.au，AU/AE+CA/UK/HR（avigilon 批次前身） 批次） | 10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring（正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | Elsa 箱群发 BCC 触达证据（命中地址 magnusgulf.com, sales@magnusgulf.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-01 | 去 | A 群发 | Industrial PoE Switch、8 Port Industrial PoE Switch | 13 封 / 1 次打开 / 0 回｜首封 2025-08-25 → 末封 2026-10-01（13 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 安防 networking；一些小有名气的牌子 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Magnus : Offering End to End IT Products and Solutions \| UAE — We’re a one-stop shop for a variety of partners, offering end-to-end IT products and solutions from leading global vendors. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -138,9 +139,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Saleem Shaikh（Managing Director（研究档；Magnus Infotech Trading LLC）= 拍板人 / 收件人 — 一页纸一次：分销 20% B（升 A 候选）、其品牌组合价格空档 = 价值档 PoE STC 阶梯 + Marvell 管理 STC-4424GCPM + 工业 STI-288DGGPM、中性包装、MOQ 1、付费样机、DAP 迪拜— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关）、TDRA / ESMA 不声称（第 117 批 官方登记核实 2026-10-28））saleem.a@magnusgulf.com 〔用户表〕
 - **KP**：Vishnu Nagaraj（） 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -56,11 +56,12 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B5 四主区+对位（冷）；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A",
- "notes": "德国主攻区 + 明确机型兴趣（4 光 8 电 10G 上联、2.5G 1 光 8 电）+ 项目型摄像业务 = 对位 STC-424XGGPM-280W / 2.5G 8 口机型。仅 7 次推送（未达耳聋阈值）→ 保 A，改用手机/WhatsApp 直接报价（项目 25%）；再无回应降 B。注意同名 Falke Sicherheitstechnik（柏林/波茨坦）为另一家公司，勿混。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n德国主攻区 + 明确机型兴趣（4 光 8 电 10G 上联、2.5G 1 光 8 电）+ 项目型摄像业务 = 对位 STC-424XGGPM-280W / 2.5G 8 口机型。仅 7 次推送（未达耳聋阈值）→ 保 A，改用手机/WhatsApp 直接报价（项目 25%）；再无回应降 B。注意同名 Falke Sicherheitstechnik（柏林/波茨坦）为另一家公司，勿混。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v2（官网 + 注册信息核对）"
+  "level": "深挖 v2（官网 + 注册信息核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Nuri Sahin Sicherheitsdienste „Falke Security“（Creditreform）",
@@ -164,6 +165,14 @@
     "quote": "Managed PoE Switches",
     "why": "最近一封去信（邮箱索引；去信共 15 封）",
     "k": "d564e14c35bc58ca"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Falke Security",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://falke-security.de/"
    }
   ],
   "proof_gaps": [
@@ -184,5 +193,37 @@
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B5 四主区+对位（冷）；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A"
   }
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:44Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@falke-security.de"
+  ],
+  "phones": [],
+  "social": [
+   "https://twitter.com/TemplateMonster",
+   "https://www.facebook.com/TemplateMonster/",
+   "https://www.youtube.com",
+   "https://www.youtube.com/user/TemplateMonsterCo"
+  ],
+  "models_on_site": [
+   "HAC-HDBW2221R-Z",
+   "HAC-HDBW2401EP-0280B",
+   "HAC-HDBW2401R-Z",
+   "HAC-HDBW3231E-ZT",
+   "HAC-HDW2221EM-A-0280",
+   "HAC-HDW2221R-Z",
+   "HAC-HDW2401EM-0280",
+   "HAC-HFW2221R-Z-IRE6"
+  ],
+  "url": "https://falke-security.de/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

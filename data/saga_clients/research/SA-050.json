@@ -82,11 +82,12 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "体量偏大但不在巨头名单，且是典型'自有品牌找中国工厂贴牌'模型：Lanberg 品牌有交换机/PoE/机柜线 → Saga 以 SmartByte Marvell 管理型/PoE 机型做 Lanberg 的 OEM 补充 SKU 最对路。KP 为产品开发经理（决策链正确）。价阶 30%（OEM）；需准备神秘包装/无 logo + CE/RoHS/REACH 文件。注意其直接找工厂的可能 → 强调 MOQ 1、10–15 天交期、混 SKU 小批量。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n体量偏大但不在巨头名单，且是典型'自有品牌找中国工厂贴牌'模型：Lanberg 品牌有交换机/PoE/机柜线 → Saga 以 SmartByte Marvell 管理型/PoE 机型做 Lanberg 的 OEM 补充 SKU 最对路。KP 为产品开发经理（决策链正确）。价阶 30%（OEM）；需准备神秘包装/无 logo + CE/RoHS/REACH 文件。注意其直接找工厂的可能 → 强调 MOQ 1、10–15 天交期、混 SKU 小批量。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1"
+  "level": "深挖 v1 + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "IMPAKT S.A.（KRS 0000585900 · NIP 7831720485 · REGON 360441981；2015-11-13；资本 60,761,002 PLN 实缴）",
@@ -291,6 +292,14 @@
     "quote": "Any news about the 1G media converter? Need to order or something?",
     "why": "追问无回",
     "k": "43168b7db932dd31"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Producent i dystrybutor sprzętu IT | IMPAKT S.A. — Jesteśmy IMPAKT S.A | Odwiedź naszą stronę i zobacz, co nas wyróżnia. Pracuj z nami i wspólnie twórzmy nowoczesne miejsce pracy dla ludzi z pasją!",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://impakt.com.pl/"
    }
   ],
   "proof_gaps": [
@@ -301,5 +310,26 @@
    "body": "Hi, Lukasz,\n\nIn October 2025 we quoted the 1G SFP media converter (1x SFP + 1x GbE, DC 5 V) at $13 USD, MOQ 1, and then did not follow up properly. Copying Bartosz.\n\nFor a Lanberg SKU the relevant version is with a CE-marked PSU and your carton; the price is re-quoted on the 2026 table on request (same class, MOQ 100 for branded).\n\nOne question: is the Lanberg media-converter refresh still planned for 2027, and would a CE-PSU 1G SFP MC in the 13-USD class go into it?\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:28Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [
+   "+48 61 10 10 230"
+  ],
+  "social": [
+   "https://www.facebook.com/impaktkariera",
+   "https://www.linkedin.com/company/impakt-s-a/"
+  ],
+  "models_on_site": [],
+  "url": "https://impakt.com.pl/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

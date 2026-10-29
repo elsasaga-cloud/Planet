@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2026-10-02 | 去 | A/S 群发 | Marvell Industrial Alert System、10G Enterprise SFP Switch | 29 封 / 1 次打开 / 0 回｜首封 2024-12-10 → 末封 2026-10-02（29 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS | 表内备注 | `用户表` |
 | 2026-10-02 | 去 | A 箱（Alan） | Managed PoE Switches | 本日去信真实主题（邮箱索引 e174a2bfb0da38d7；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封） | `e174a2bfb0da38d7` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | (주)써보테크TS — 자동화, PLC, 서보 모터, 인버터, 감속기, 케이블, 미쓰비시, 아펙스, 바이드뮬러, 알파로보틱스 특약점 | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -138,9 +139,10 @@ updated: 2026-10-29
   > 工业FS；质量高
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：김영일 Kim Young-il（대표 써보테크TS(주) Servo-Tech TS Co., Ltd.（servo-tech.co.kr 页脚）= 拍板人（研究档无具名 KP → 收件 sales@ 称 Mr. Kim）（第 115 批 官方登记核实 2026-10-28））sales@servo-tech.co.kr 〔https://www.servo-tech.co.kr/〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -47,11 +47,12 @@
  ],
  "grade_override": "B",
  "override_reason": "品类为光模块（非主线）、无互动、越南非主攻区 → B。",
- "notes": "首触邮件带 SFP 光口交换机。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n首触邮件带 SFP 光口交换机。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + 黄页核对；「成交」为富通天下外贸数据）"
+  "level": "B 级加厚 v1（官网 + 黄页核对；「成交」为富通天下外贸数据） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "CÔNG TY TNHH CÔNG NGHỆ VÀ TRUYỀN THÔNG COMTEC（MST 0100774014；主业 机械设备批发；所有人 Vũ Thái Hải）",
@@ -125,10 +126,38 @@
     "quote": "SFP模块 / 从BTON买了很多 / 富通天下",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "COMTEC",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://comtec.com.vn/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:22:55Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "OTM4000",
+   "OTM1000",
+   "OTM1100F"
+  ],
+  "url": "https://comtec.com.vn/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

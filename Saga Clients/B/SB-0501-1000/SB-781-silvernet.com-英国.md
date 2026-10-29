@@ -131,7 +131,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（http_error）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（silvernet.com：HTTP 错误，2026-10-21，第 1 次）
 - **是谁**：英国 Silvernet（无线/工业网络品牌：自有标工业 FS（73208MP-BT，光路新品）、SFP 与周边；KP C. DiPrima、K. Newton；官网 http_error）；群发 16 次无回复。
 - **类型**：网络品牌商（英国，工业 FS 现光路）
 - **在卖/在用品牌**：光路
@@ -148,7 +148,8 @@ updated: 2026-10-29
 - **KP**：K. Newton（）knewton@silvernet.com 〔用户表〕
 - **KP**：Christopher Roland Ballard（Director（2005-03-09 创立至今，1973-10 生，身份已核）+ PSC 持股 50–75% = **老板 = 该写的人**（我们 25 封都寄给了员工）（第 88 批 官方登记核实 2026-10-27）） 〔https://find-and-update.company-information.service.gov.uk/company/05386276/persons-with-significant-control〕
 - **KP**：Mandy Joyce Ballard（Secretary + PSC 持股 25–50%（1970-08 生；配偶）—— 不必抄送（第 88 批 官方登记核实 2026-10-27）） 〔https://find-and-update.company-information.service.gov.uk/company/05386276/officers〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

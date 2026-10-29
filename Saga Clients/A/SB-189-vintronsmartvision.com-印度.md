@@ -77,6 +77,7 @@ updated: 2026-10-29
 | 2026-08-04 | out | Elsa → varun@vintronsmartvision.com | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 16/16 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(m) `from:e.sagatelecom to:sales@quippro.kz` 全程 complete：16 轮直收；0 回 | `elsa_1to1` |
 | 2026-09-24 | 去 | A/S 群发 | 48 Port PoE Managed Switch、24 Port PoE Managed Switch | 24 封 / 4 次打开 / 0 回｜首封 2024-07-03 → 末封 2026-09-24（24 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | PoE switch CCTV为主 DVR NVR；POE managed switch；数据中心类产品 从10G tek买东西；周边产品比较多；回复里有详细联系方式 91 9818122003/91 11 43740000(4374000 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | CCTV Manufacturer India \| Vintron \| CCTV Manufacturer India — PoE Switches, Cameras & Power Supply — CCTV Manufacturer India since 1991. Vintron is a leading CCTV Manufacturer India — CE, FCC, BIS certified, 2-Year Warranty. Call 1800-121-4322. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：实体合并错误：vintronsmartvision.com / quippro.kz / airlink-ilife.com 应为三户（T26/T27 去重待修，U42 期间不动结构）；（已核 2026-10-24，第 73 批）三家各一封 Elsa 回复已读：Vintron 02-12 链接 PDF；Quip Pro 03-13 实报 STH-8C48DX-HSI $5,000 / STH-2C24XF-HSI $1,350 并问项目/品牌；AirLink 04-29「价格在链接里」；三家之后均无回
 
@@ -176,9 +177,10 @@ updated: 2026-10-29
 - **KP**：Varun Gupta（）varun@vintronsmartvision.com 〔用户表〕
 - **KP**：Raj Kumar Gupta（上市关联体董事长（家族长；上市体 2025-12 更名 Reganto Enterprises Ltd 并转向建筑 / 航空 = 安防业务已沉到私营体）—— 不联系（第 91 批 官方登记核实 2026-10-27）） 〔https://www.marketscreener.com/quote/stock/VINTRON-INFORMATICS-LIMIT-20704747/〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

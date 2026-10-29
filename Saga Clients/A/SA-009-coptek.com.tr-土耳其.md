@@ -64,6 +64,7 @@ updated: 2026-10-29
 | 2025-10-28 | 去 | Saga（群发） | 「Industrial PoE Switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `04dd529092533295` |
 | 2026-08-31 | 去 | A 箱（Alan） | 24 Port PoE Managed Switch｜稿内价 $170 | 去信正文含价（邮箱索引） | `9bee2f0150574ce7` |
 | 2026-10-06 | 去 | A 箱（Alan） | Managed PoE Switches | 最近一封去信（邮箱索引）；信稿开头句引用 | `mail_index` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Omurga,Layer2,Layer3 POE Switchler — Yüksek performanslý omurga,layer2,layer3,poe switchler,fiberoptik ürünler | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：「100 台工业 FS 询盘」出处未见；在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）
 
@@ -168,9 +169,10 @@ updated: 2026-10-29
   > S4600-10P-P-SI Bakır Portlar · 10 adet 10/100/1000Base-T POE/POE+ … SFP/Mini GBIC Yuva · 2*SFP … ITU G.8032 Ring özelliği 50ms altında hat koruması
   > 来源：http://www.coptek.com.tr/S4600-10P-P-SI.html（抓取 2026-10-21）
 - **KP**：—（总机（Koptek Ltd. Şti. İstanbul 2006-02-07 成立；自有品牌交换机；Ltd. Şti. 高管不免费公开 → 下一轮 Ticaret Sicil Gazetesi）（第 85 批 官方登记核实 2026-10-27））info@coptek.com.tr +90 212 275 79 53〔https://www.coptek.com.tr/CS6570.html〕
-- 备注：A 确认（土耳其重点区 + 已在卖中国交换机 + 100 台工业 FS 询盘）：P1 = STI 工业光纤交换机（按其 IM-FS280GW 规格对位 2 光 8 电），报 25% 档并给阶梯价。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+A 确认（土耳其重点区 + 已在卖中国交换机 + 100 台工业 FS 询盘）：P1 = STI 工业光纤交换机（按其 IM-FS280GW 规格对位 2 光 8 电），报 25% 档并给阶梯价。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1）
+### 加厚挖掘（2026-10-21 · 深挖 v1 + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

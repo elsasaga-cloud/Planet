@@ -54,6 +54,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-07 | 去 | A 群发 | Mini Industrial PoE Switch、16 Port Ethernet Switch | 15 封 / 1 次打开 / 0 回｜首封 2025-06-20 → 末封 2026-10-07（15 去 / 0 来） | `gmail_digest` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Cablaggio rame e fibra ottica, Armadi Rack 19 pollici, UPS, Switch, Firewall — Sistel srl: il Partner ideale per il Networking. Fornitura di Materiale per Cablaggio Rame e Fibra Ottica, Armadi Rack 19", Apparati, UPS, Firewall. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -118,7 +119,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（sistel-networking.it；并档 Planet 渠道档案 PB-015）
 - **是谁**：诺瓦拉省的小型网络方案商，给安装商做布线+机柜+PLANET 工业交换机的整包。类型：集成商/方案商（布线/机柜/UPS/工业交换机，面向专业安装商与 IT 经理；SISTEL srl 内部事业部，资本 €10k）。信号：官网 PLANET 工业交换机专页（Industrial Ethernet Solution：IGS-620TF 等）；交换机线为 D-Link + PLANET。Planet 渠道档案 PB-015 评级 B（需求：PLANET 工业专页；触达 info@ 通用；体量小（资本 €10k）；无具名 → B）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-492，意大利，Saga 群发已推送 4 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。
-- **在卖/在用品牌**：PLANET, D-Link
+- **在卖/在用品牌**：PLANET, D-Link, Fortinet
 - **【卖方目录】PLANET 工业交换机专页**
   > Switch industriali Planet, Industrial switch PoE SFP … Planet Switch Industrial Ethernet » Managed - Unmanaged Ethernet Switch 100Mb to 10Gb … Planet PoE Industrial Ethernet Switch »
   > 来源：https://www.sistel-networking.it/prodotti/switch-industriali-planet/（抓取 2026-10-19）
@@ -128,9 +129,10 @@ updated: 2026-10-29
 - **【公司自述】SISTEL srl 内部事业部；资本 €10,000**
   > Sistel Networking è la divisione interna della Società SISTEL srl … Cap. Sociale € 10.000,00
   > 来源：https://www.sistel-networking.it/prodotti/industrial-ethernet-solution/（抓取 2026-10-19）
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-015，W 批次调研 2026-10-19/20））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-015，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

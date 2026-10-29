@@ -148,7 +148,8 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Ahmad Pervez（Managing Director（ZoomInfo，2009 至今；2024-09 回 interesting）= 拍板人 / 收件人 — 一页纸一次：分销 20% B small、电商上架 STC-028GP $28 / STC-228GP / STC-2216GP 一口价 + MOQ 1 + 付费样机 + DAP 迪拜、机架 / 周边不做明说 — 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜、TDRA / ESMA 不声称（第 119 批 官方登记核实 2026-10-28））ahmad@techsouq.com +971 50 653 4953〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Shifan Shivani（Co-Founder（研究档 Shifan Shivani）= 抄送（第 119 批 官方登记核实 2026-10-28））info@techsouq.com +971 4 355 0600〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（名录 + 官网核对））
 

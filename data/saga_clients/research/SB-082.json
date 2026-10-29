@@ -26,7 +26,7 @@
  ],
  "grade_override": "B",
  "override_reason": "微型安装商、需求仅'找工业 PoE 网管'且无后续互动；土耳其主攻区故保留 B。",
- "notes": "WA 一次：STI-288DGGPM 图片+价格（项目 25%）。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：fail#1。\nWA 一次：STI-288DGGPM 图片+价格（项目 25%）。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
@@ -123,5 +123,14 @@
   "note": "域名 voltechelektronik.com 已失效（NXDOMAIN 2026-10-29），但 ISAF 2025 现场接触 + WA 已加 = 路径在 WA；土耳其主区小型安防服务商、找工业 PoE 网管交换机 → 留 B（路径 = WhatsApp；邮箱不再发）",
   "why": ""
  },
- "override_history": []
+ "override_history": [],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:23:03Z"
+  ],
+  "fails": [
+   "2026-10-21"
+  ],
+  "batch": "LT-T03"
+ }
 }

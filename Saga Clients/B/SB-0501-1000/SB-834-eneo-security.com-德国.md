@@ -122,7 +122,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（http_error）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（eneo-security.com：HTTP 错误，2026-10-21，第 1 次）
 - **是谁**：德国 eneo Security（Videor 旗下 CCTV 品牌 eneo；表内「UTEPO 的」「可以着重跟一下」；官网 http_error）；群发 9 次无回复。
 - **类型**：CCTV 品牌商（德国，PoE 现 Utepo，用户着重）
 - **在卖/在用品牌**：Utepo
@@ -134,7 +134,8 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Dominik Mizdrak（Geschäftsführer（2021 起）= 经营侧拍板人；收件人改 eneo Produktmanagement / Einkauf 入口（第 103 批 官方登记核实 2026-10-28）） 〔https://eneo-security.com/de/impressum〕
 - **KP**：Lars Alexander Hagenlocher（Geschäftsführer / 三代股东（2025-03 起；创办人 Ernst Hartig 之孙）（第 103 批 官方登记核实 2026-10-28）） 〔https://eneo-security.com/de/impressum〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

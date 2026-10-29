@@ -57,10 +57,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "法国",
@@ -155,6 +156,14 @@
     "quote": "16 Port Industrial PoE Switch",
     "why": "本日去信真实主题（邮箱索引 bfe296a8ccd4dfe9；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封）",
     "k": "bfe296a8ccd4dfe9"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Elfcam | Votre spécialiste en équipements fibre optique et réseau — Câbles fibre optique, SFP, Ethernet Cat6A–Cat8 et accessoires Starlink testés en laboratoire. Compatible tous fabricants. Expédition Europe, retours 30 jours.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.elfcams.com/"
    }
   ],
   "proof_gaps": [],
@@ -163,5 +172,40 @@
    "body": "Hello Franck,\n\nWe wrote to you once in February 2025 about an 8-port industrial PoE switch, and since then only general product mails - most recently \"16 Port Industrial PoE Switch\" on 22 September 2026 - none of which needed an answer. This one is specific.\n\nFor the Elfcam-branded switch pages, under your label from small lots, CE/RoHS, neutral packing: 24 x Gigabit + 4 x 10G SFP+, L2+ managed, Marvell-based, steel housing - model STC-424XGGM - $138.0 USD EXW (MOQ 1, 15-day validity); 8 x Gigabit PoE+ + 2 x SFP, L2+ managed - STC-28DGGPM - $87.4. Your own SFPs plug in as they are. A small 2.5G desktop switch we do not have as a standard model - said up front.\n\nOne question: which page needs a stronger-housing model first - the PoE page or the 10G one?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:42:41Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "contact@elfcams.com",
+   "sav@elfcams.com"
+  ],
+  "phones": [
+   "+33 (0)6 44 60 45 09",
+   "+33 (0)7 49 95 50 99",
+   "+33 (0)9 53 68 76 32"
+  ],
+  "social": [
+   "https://wa.me/33668549177",
+   "https://wa.me/33749955099"
+  ],
+  "models_on_site": [
+   "FR36844111856",
+   "FR72942871351",
+   "ES00284989993",
+   "ITN0078120C",
+   "DE340181882",
+   "GB367772843",
+   "QSFP28",
+   "SFP28"
+  ],
+  "url": "https://www.elfcams.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

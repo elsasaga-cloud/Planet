@@ -49,10 +49,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "1101 N. Raddant Road, Batavia, IL 60510",
@@ -145,6 +146,14 @@
     "quote": "16 Port Industrial PoE Switch",
     "why": "本日去信真实主题（邮箱索引 76093d3904dc57e4；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封）",
     "k": "76093d3904dc57e4"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "A World of Fiber Optic Solutions by S.I. Tech, Inc. — SI Tech manufactures fiber optic modems, multiplexers, repeaters, cable assemblies, and other communication equipment for LAN, WAN, and Industrial Applications.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://sitech-bitdriver.com/"
    }
   ],
   "proof_gaps": [],
@@ -153,5 +162,36 @@
    "body": "Hi Ramesh,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 10 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nSerial modems and multiplexers are yours; for the Ethernet media converters and small industrial switches in the Bit-Driver catalogue, a second source in your housing from small lots, -40 to 75 C, FCC/CE/RoHS: industrial Gigabit converter, 1 x RJ45 + 1 x SFP slot (fixed SC optional) - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); DIN-rail 8 x Gigabit + 2 x SFP unmanaged - STI-280GE - $46; 8 x PoE+ + 2 x SFP - STI-288GP - $62.2.\n\nOne question: which Ethernet model do your SCADA customers order most?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:47:22Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "admin@sitech-bitdriver.com",
+   "sales@sitech-bitdriver.com",
+   "tech@sitech-bitdriver.com"
+  ],
+  "phones": [],
+  "social": [
+   "http://www.facebook.com/pages/SI-Tech-Inc/167910479939061",
+   "http://www.linkedin.com/company/1804072"
+  ],
+  "models_on_site": [
+   "RS232",
+   "RS-232",
+   "RS-485",
+   "RS422",
+   "RS-422",
+   "RS485",
+   "ISO9001"
+  ],
+  "url": "https://sitech-bitdriver.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

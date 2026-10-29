@@ -50,10 +50,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "美国（州未取）（第 92 批 官方登记核实 2026-10-28）",
@@ -167,6 +168,14 @@
     "quote": "24 Port PoE Managed Switch",
     "why": "本日去信真实主题（邮箱索引 9f91c2b8a60a05bb；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封）",
     "k": "9f91c2b8a60a05bb"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Main Tech Connect – Maintechconnect.com — Main Tech Connect is your one-stop-shop for computer and networking accessories, audio and video products, TV mounts, barcode scanners, and networking switches and a vast selection of PoE Power over Ethernet products.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://maintechconnect.com/"
    }
   ],
   "proof_gaps": [],
@@ -175,5 +184,30 @@
    "body": "Hello Main Tech Connect team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 28 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nYour IPS-16GM02-518W / IPS-24GM02-518W are Shenzhen-built industrial PoE units under your own model numbers. The same class from us, under your label from small lots, -40 to 75 C, FCC/CE/RoHS: industrial 16 x Gigabit PoE+ + 2 x SFP, unmanaged - model STI-21616GP - $185 USD EXW (MOQ 1, 15-day validity); the L2+ managed version with 2 x 10G SFP+ uplinks on a Marvell platform - STI-21616XGGPM - $322.6; 8-port, DIN-rail, L2 managed - STI-288GPM - $85.5.\n\nOne question: of the 16-port and the 24-port, which one do you reorder more often?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:39:53Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "aschlieck@icintracom.com",
+   "sales@maintechconnect.com",
+   "u003easchlieck@icintracom.com",
+   "u003esales@maintechconnect.com"
+  ],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "SFP28",
+   "IPS-16GM02-518W",
+   "IPS-24GM02-518W"
+  ],
+  "url": "https://maintechconnect.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

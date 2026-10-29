@@ -34,10 +34,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（域名误配判定 + 需求映射）"
+  "level": "B 级加厚 v1（域名误配判定 + 需求映射） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "未取（Agile Network，宿务 Pari-an；通名 + gmail → 0 查；表内域名 agilenetworks.com 为美国 ISP，误归）",
@@ -103,6 +104,14 @@
     "quote": "Neil Rule / CEO；Address: PH, CEBU, UNIT 202 HTY BLDG., 57 J.C. ZAMORA ST., PARI-AN 6000；2024.8.14 10G MC → 单多模价格一样吗？",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Agile Networks - Boundless Internet & Interoffice Connectivity — Agile Network Builders LLC is a leading provider of broadband internet and telecommunications solutions in Ohio.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://agilenetworks.com/"
    }
   ],
   "proof_gaps": [
@@ -111,5 +120,29 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:23:46Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@agilenetworks.com",
+   "support@agilenetworks.com"
+  ],
+  "phones": [],
+  "social": [
+   "https://www.facebook.com/agilenetworks",
+   "https://www.linkedin.com/company/agile-networks"
+  ],
+  "models_on_site": [
+   "FIPS140-2"
+  ],
+  "url": "https://agilenetworks.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

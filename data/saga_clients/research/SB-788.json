@@ -35,10 +35,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照 + 表内）"
+  "level": "B 级加厚 v1（官网快照 + 表内） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Telecom Special Solutions (TSS)（合伙企业，领英口径；NEOM 核准 ICT 与基础设施承包商；CR 号 1 查未得）",
@@ -110,10 +111,42 @@
     "quote": "兴趣：工业级带光的交换机 SFP模块 前一阵子问了模块和PSU那个",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Welcome to TSS Co. — TSS Co. | Home Page",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://tss-e.com/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:47:30Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@tss-e.com"
+  ],
+  "phones": [
+   "+966 13 8468882",
+   "00966 13 8468882",
+   "00966 13 8468882 00966 598 323625"
+  ],
+  "social": [
+   "https://www.linkedin.com/company/telecom-special-solutions-tss"
+  ],
+  "models_on_site": [],
+  "url": "https://tss-e.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -51,10 +51,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "Yalı Mah. Kadir Sk. No 14, Helis More Residence K7 D82, 34873 Kartal / İstanbul",
@@ -136,6 +137,14 @@
     "quote": "fiber networking；fiber networking 买3旺的",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Portel Teknoloji A.Ş. - Ana Sayfa — Portel Teknoloji, global bakış açısı ile yarı iletken ve ağ bileşenleri konusunda lider firmalar arasına girme hedefine sahip genç ve dinamik bir firmadır.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.portel.com.tr/"
    }
   ],
   "proof_gaps": [
@@ -153,5 +162,29 @@
   "note": "桌面复核（研究档类型 + 对位首推）：工业网络部件分销商（土耳其，现三旺）；切入：工业光纤组网（现三旺 3onedata）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）；PoE 版 STI-288GPM（$78.9）；行业内 ✔ 对位 ✔（宽留冷「不对位」系 fit 标志未回填，非真不对位）",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": []
+ "override_history": [],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:42:06Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "bilgi@industrialnetworkcenter.com"
+  ],
+  "phones": [
+   "+90 216 464 44 50"
+  ],
+  "social": [
+   "https://www.facebook.com/portelcomtr/",
+   "https://www.instagram.com/portelcomtr/",
+   "https://www.linkedin.com/company/portelcomtr/"
+  ],
+  "models_on_site": [],
+  "url": "https://www.portel.com.tr/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

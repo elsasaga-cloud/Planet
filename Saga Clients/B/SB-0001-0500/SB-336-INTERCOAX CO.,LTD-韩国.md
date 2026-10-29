@@ -145,9 +145,10 @@ updated: 2026-10-29
 - **KP**：Byron（INTERCOAX 研究档 KP（买过样品；问 8 PoE + 2 GE + 2 SFP = STC-228GP）= 收件人（第 115 批 官方登记核实 2026-10-28））byron@intercoax.com +82 10 3605 5714〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Jongmin（INTERCOAX 研究档 KP = 抄送（第 115 批 官方登记核实 2026-10-28））jongmin@intercoax.com +82 31 365 3133〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：이일묵 Lee Il-muk（대표이사 (주)인터코엑스 INTERCOAX Co., Ltd.（jobkorea / rndcircle）= 拍板人（第 115 批 官方登记核实 2026-10-28）） 〔https://www.jobkorea.co.kr/recruit/co_read/c/intercoax〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：deep。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照空页 + 表内：设备厂商 OEM））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照空页 + 表内：设备厂商 OEM） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

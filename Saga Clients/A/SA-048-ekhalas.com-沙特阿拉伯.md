@@ -75,6 +75,7 @@ updated: 2026-10-29
 | 2025-04-28 | 来 | info@ekhalas.com | Thank you for contacting us!Dear｜Thank you for reaching out to us regarding your query. We appreciate you taking the time to contact our team, and we want to assure you that we are wo | 来信（邮箱索引；原文见 k；是否人工回复以原文为准） | `4e36da1a6de4b051` |
 | 2026-09-22 | 来 | info@ekhalas.com（机器人） | Thank you for reaching out to us regarding your query… | 第 10 封机器人回复——两年群发都寄错了收件人 | `3b9a30d69e46d2e7` |
 | 2026-09-22 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 最近一封去信（邮箱索引；去信共 26 封） | `5a95d0e149d90de0` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Best online Shopping in Saudi Arabia, Riyadh KSA — Best online Shopping in Saudi Arabia\| Wide Range of Categories Networking-Computing-UPS&Inverter-Satellite-Safety Security-Low Current Cables | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表「有 1 次实质回复 / 工业 FS 在用 OTS」——OTS 一说邮件无证据
 
@@ -155,7 +156,7 @@ updated: 2026-10-29
 - **是谁**：沙特利雅得电信承包商（2005 年起）+ ICT 系统集成（2015 年起）+ 自营 B2B 电商 ekhalas.com；自称全沙特 3,000+ 客户，并有自有品牌进入零售；平台卖 Vivotek PoE 交换机、TP-Link Omada、华为 eKit、Dahua 等。
 - **类型**：系统集成商+电商分销
 - **规模**：中型（承包+集成+电商，具体人数未披露）
-- **在卖/在用品牌**：Vivotek, TP-Link Omada, Huawei eKit, Dahua, Legrand, OTS（用户记录：工业FS在用）
+- **在卖/在用品牌**：Vivotek, TP-Link Omada, Huawei eKit, Dahua, Legrand, OTS（用户记录：工业FS在用）, TP-Link, Huawei, Cisco, Juniper, Aruba
 - **【官网】2005 年成立的电信承包商，2015 年设 ICT 部门，自有品牌进零售，3,000+ 客户**
   > Established in the year 2005 as a telecom contracting company, Silkroad Business Solutions Company operates across all the regions of Saudi Arabia and has an extensive network of more than 3000+ customers… to introducing our own brands into the retail market
   > 来源：https://www.ekhalas.com/about-us/（抓取 2026-10-21）
@@ -181,9 +182,10 @@ updated: 2026-10-29
   > Company size: 501-1,000 employees … Specialties: Cyber Security, Low Current, Telecommunication … CCTV, Public Address System, Access Control System, IPTV, Fire Alarm System, Data Passive System, Cisco Premium Partners
   > 来源：https://www.linkedin.com/company/alrajhitel/（抓取 2026-10-21）
 - **KP**：Inam（（用户记录联系人））info@ekhalas.com +966 11 4221089〔用户 Clients 表 + 官网联系页〕
-- 备注：有 1 次实质回复；工业 FS 在用 OTS（用户记录）。集成+电商双身份、且做自有品牌 → 可谈 OEM 贴牌或平台铺货。中东非主攻区但客户规模与贴牌意愿值得长期跟。P1 建议 STI-288DGGPM（工业 PoE 对位 OTS），电商/分销价阶 20%；若走自有品牌 30%。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+有 1 次实质回复；工业 FS 在用 OTS（用户记录）。集成+电商双身份、且做自有品牌 → 可谈 OEM 贴牌或平台铺货。中东非主攻区但客户规模与贴牌意愿值得长期跟。P1 建议 STI-288DGGPM（工业 PoE 对位 OTS），电商/分销价阶 20%；若走自有品牌 30%。
 
-### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + LinkedIn + 关联公司核对））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + LinkedIn + 关联公司核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

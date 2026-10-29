@@ -71,6 +71,7 @@ updated: 2026-10-29
 | 2024-07-11 | 内 | Simon 成本表（PI 包） | 内部《成本统计.xlsx》：STSC20240618009：成本 734 / 收款 944 / 利润 210（22.2%） · STSC20240711009：成本 6,852 / 收款 9,822 / 利润 2,970（30.2%） | 利润率 = 利润÷收款；对照 20/25/30 加价 = 16.7%/20%/23% 毛利；详见 docs/成单客户_毛利复盘_内部_2026-10-24.md | `cost_sheet` |
 | 2024-07-17 | 内 | Saga 出口报关资料（PI 包「买单报关资料.xls」） | 商业交换机 STC-2224GFP-24V × 12 pcs，440×290×45 mm，净重 2.9 / 毛重 3.6 kg 每台，单价 88 USD，总价 1,056 USD，目的国马来西亚，品牌 Saga Telecom，HS 8517622990，总毛重 44 KG | 第二单的报关口径：型号名是 Hasivo 被动 PoE 机的 Saga 编号 STC-2224GFP-24V（24V 被动 PoE 24 FE + 2 SFP + 2 GE），申报品牌写 Saga Telecom；走 Saga 自己的深圳「买单报关」线 | `data/pi_2026-10/text/…9_马来西亚_Sugito…买单报关资料.xls (f3398f1a)` |
 | 2024-11-18 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「引流机型」→ 对方「passive poe only」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/Whatsapp_S跟进 2026.08.04.xlsx no.122 1118` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | XSPec Malaysia - Industrial Technology Catalog — XSPec Malaysia delivers inspection equipment, security technology, healthcare systems, laboratory solutions, training, brochures, and after-sales support across Southeast Asia. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -163,8 +164,10 @@ updated: 2026-10-29
   > 来源：https://converus.com/find-a-partner/（抓取 2026-09-23）
 - **KP**：Sugito Wibawa（Managing Director（abc-gcc 名录；研究档 KP；WA 在联；表内有成单记录）= 拍板人 / 收件人 — 复购一页纸：分销 20% B（升 A 候选 ★）、上次成交型号续单价 + STI-288DGGPM / STC-2224GP 一口价 + MOQ 1；WA 为主 — 马来西亚常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、SIRIM 不声称（第 119 批 官方登记核实 2026-10-28））sugito@xspec.com.my +60 3 8023 1161〔https://www.intron.ru/en/about-us/agents/〕
 - **调研后定级**：B（原自动 A）——成单但核心业务是 NDT/国防/医疗设备代理，交换机为项目配套，复购逻辑弱（且含军警安防，INH 守界）；放 B 慢跟、被动响应。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 需求映射））
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 需求映射） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

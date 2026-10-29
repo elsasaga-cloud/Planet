@@ -23,7 +23,7 @@ s_mail: 16 msgs (out 4 / in 12), 2024-05-22 -> 2025-09-19
 p1: STI-288GP
 price_tier: 25%
 research: done
-site_snapshot: ok  # 2026-10-21
+site_snapshot: mismatch  # 2026-10-21
 sources: 1
 updated: 2026-10-29
 ```
@@ -35,7 +35,7 @@ updated: 2026-10-29
 - **历史互动**：推送 4 次（2025-06-19 → 2025-09-19）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—；群发里他已看到的价（续，第 66 批全量复核）：2025-09-19 $240（24 Port Fiber Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-05；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；公司官网（表内域名经核实不属于本客户；真实官网未知）
 - **下一步**：不动 — —
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
@@ -57,6 +57,7 @@ updated: 2026-10-29
 | 2026-03-23 | out | Elsa → info@tamyeezsecurity.com | Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 4/6 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:odoo.com OR to:tamyeezsecurity.com` 全程 complete：6 轮直收（头 msg 19fd14b48811e5d7 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
 | 2026-05-04 | out | Elsa → info@tamyeezsecurity.com | Industrial PoE Switch（Elsa 1:1 逐月名单第 5/6 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:odoo.com OR to:tamyeezsecurity.com` 全程 complete：6 轮直收（头 msg 19fd14b48811e5d7 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
 | 2026-08-05 | out | Elsa → info@tamyeezsecurity.com | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 6/6 轮；To 仅本户；正文 Price: 170USD/PC） | 第 74 批(n) `from:e.sagatelecom to:odoo.com OR to:tamyeezsecurity.com` 全程 complete：6 轮直收（头 msg 19fd14b48811e5d7 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Open Source ERP and CRM \| Odoo — From ERP to CRM, eCommerce and CMS. Download Odoo or use it in the cloud. Grow Your Business. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -122,9 +123,10 @@ updated: 2026-10-29
   > 有Utepo的交换机
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（无具名 KP）（收件 info@tamyeezsecurity.com Attn: Procurement Manager — 一页纸一次：集成商 25% B、STC-028GP $28 / STC-2216GP / STC-2224GP $86 一口价 + MOQ 1 + 付费样机；在用品牌不点名 — 卡塔尔常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 多哈、CRA 不声称（第 122 批 官方登记核实 2026-10-29）） 〔〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -142,21 +144,12 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-288GP（25% 档）——Utepo 位 → 工业 8 PoE + 2 SFP STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1）
 - **邮件切入句（英文）**：For the Utepo-type PoE switch positions in your security installations, we supply DIN-rail 8-PoE + 2 SFP (managed on Marvell L2+, or unmanaged) and commercial 8-PoE L2+ switches from single units, CE/RoHS, EXW USD — which configuration does your current project need?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名误配（快照到的网站不是本客户））
 
-- **首页**：https://www.odoo.com/　语言：en-US　站点地图 URL 数：12129
-- **标题**：Open Source ERP and CRM / Odoo
-- **描述**：From ERP to CRM, eCommerce and CMS. Download Odoo or use it in the cloud. Grow Your Business.
-- **首页栏目**：All your business on one platform. / Simple, efficient, yet affordable! US$ 24.90 / month for ALL apps / Level up your quality of work / Optimized for productivity / Native AI across all your business / Enterprise software done right . / Unleash your growth potential / Odoo Experience on YouTube
-- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：automation 9、distributor 6、cisco 1
-- **站内公开邮箱**：example@mail.com, info@odoo.com
-- **站内公开电话**：+1 (650) 691-3277, +1 650 691 3277, +1 716 249 2880, +254 20 7640404, +32 2 290 34 90, +32 2 616 8002
-- **社媒**：https://twitter.com/Odoo, https://www.facebook.com/odoo, https://www.instagram.com/odoo.official, https://www.linkedin.com/company/odoo, https://www.youtube.com/channel/UCkQPikELWZFLgQNHd73jkdg
-- **产品类页面**：https://www.odoo.com/shop/category/goodies-9；https://www.odoo.com/shop/category/scale-up-10；https://www.odoo.com/blog/customer-reviews-6/sinadrives-and-odoo-optimizing-industrial-manufacturing-2434；https://www.odoo.com/blog/customer-reviews-6/comco-controls-and-automation-optimizes-industrial-operations-wit…；https://www.odoo.com/shop；https://www.odoo.com/shop/mug-23195
-- **已抓子页**：[About Us / Odoo](https://www.odoo.com/page/about-us)；[Custom Furniture Production / Industry / Odoo](https://www.odoo.com/industries/custom-furniture-production)；[Contact Us / Odoo](https://www.odoo.com/contactus)；[SMS Marketing / Overview / Odoo](https://www.odoo.com/app/sms-marketing)；[Services for Partners / Odoo](https://www.odoo.com/services/partners)；[Odoo Brand Assets / Odoo](https://www.odoo.com/page/brand-assets)
-- 首页正文摘录：Skip to Content Odoo Menu Sign in Try it free Apps Finance Accounting Invoicing Expenses Sign Spreadsheet ESG Sales CRM Sales Subscriptions POS Shop POS Restaurant Rental Websites Website Builder eCommerce Events Blog eLearning Forum Supply Chain Inventory Manufacturing Maintenance PLM Quality Purchase Human Resources Employees Payroll Recruitment Time Off Appraisals Fleet Marketing Social Marketing Email Marketing S
-- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 5、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
-- 数据文件：`data/saga_clients/site_snapshots/SB-1062.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
+- 尝试域名：odoo.com, tamyeezsecurity.com
+  > True
+- **提示**：人工核对后判定表内域名不属于本客户（见上方说明），本客户以邮箱/电话为准；快照内容不采用。
+- 数据文件：`data/saga_clients/site_snapshots/SB-1062.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -286,6 +279,7 @@ updated: 2026-10-29
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
+- [ ] 公司官网（表内域名经核实不属于本客户；真实官网未知）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

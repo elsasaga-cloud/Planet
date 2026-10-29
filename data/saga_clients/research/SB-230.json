@@ -38,10 +38,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  "level": "B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "ADVANCED INNOVATIONS S.R.L.（P.IVA / CF 04994260968；REA MB-1789621）",
@@ -124,10 +125,51 @@
     "quote": "兴趣：MC 工业FS 机架式 PoE SFP MC是统一外壳 Upeto工业FS",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Advanced Innovations distributore ufficiale UNIVIEW e UTEPO - Home Page — Advanced Innovations, parte di un gruppo fondato nel 1979 specializzato nella produzione e distribuzione di sistemi di sicurezza, ha iniziato la distribuzione di sistemi di videosorveglianza IP già dal 2005. La grande esperien",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://adin.it/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:37:40Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@ad-in.net"
+  ],
+  "phones": [
+   "+39 039 682 96 36"
+  ],
+  "social": [
+   "https://www.facebook.com/Advanced-Innovations-Srl-193745954145537/?ref=aymt_homepage_panel",
+   "https://www.linkedin.com/company-beta/10058197/",
+   "https://www.youtube.com/channel/UCsDDrTiKAXlm25IIaAuqiFw"
+  ],
+  "models_on_site": [
+   "KPNVL104PBP04",
+   "KPNVL108PBP08",
+   "KPNVL104EN",
+   "KPNVL108EN",
+   "KPNVL116EN",
+   "KPNVS208ENP08",
+   "KPNVS216ENP16",
+   "KPNVE208ENP08"
+  ],
+  "url": "https://adin.it/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

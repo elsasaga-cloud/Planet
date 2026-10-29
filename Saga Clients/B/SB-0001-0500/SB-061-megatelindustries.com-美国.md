@@ -57,6 +57,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2024-11-26 | 来 | Zack Yu（VP Sales） | Do you have a data sheet for this converter? | 唯一来信 | `29bcaf9898361cae` |
 | 2024-11-26 | 去 | Simon → Zack Yu（Re: 10G Media Converter；附 STC-110XGE.docx） | 「Please see attached datasheet and let me know」（Zack 15:05Z 问 datasheet，Simon 15:29Z 回——24 分钟）；群发原文价 **65usd/pc**（1×10G SFP+ + 1×100M/1G/2.5G/10G RJ45，非管理，DC5~12V，含电源）；12-11 再推 90W PoE 管理机 → 无回。 | Megatel（PA，美国；Zack = VP Sales）唯一一次真人回应就是要 10G MC 的 datasheet——他们自己卖光端机/MC，$65 的 10G MC 是可比价；之后 24 封群发无回。重启时只谈 10G MC（阶梯 $75/$70@100/$65@500，见 SA-008 2024-12-12 报价单） | `k=23ff8e2e29b53c84（S 邮箱 2024-11-26 15:29Z）` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Megatel - Worldwide distributor, exporter and wholesaler of network, data communication and fiber optic products — As a worldwide distributor, exporter and wholesaler of network, data communication and fiber optic products, our mission is to provide various reliable, good quality and good price solu | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -159,9 +160,10 @@ updated: 2026-10-29
   > IMC-1000MS-PHE12, Managed Gigabit PoE Ethernet Converter… Sale Price: $345.00
   > 来源：https://www.megatelindustries.com/imc1000100012.html（抓取 2026-10-21）
 - **KP**：Zack Yu（President / Sales Manager（Megatel Industries Corporation 业主；D&B / Buzzfile）= **拍板人本人 = 收件人**（第 100 批 官方登记核实 2026-10-28））zack@megatelindustries.com 〔S/A 邮箱来信 2024-11-26 来信 1 封（第 72 批从邮件表头补）〕
-- 备注：画像是 Saga 的理想 OEM 客户（美国、自有 logo、工业 PoE/MC 全品类、零售价空间大），S 重点；但 22 次邮件 0 回复 → 判定为触达渠道问题而非需求问题：改用网店客服电话/联系表单/LinkedIn 找老板，附'IGS-803SM 对位 STI-288DGGPM $137.5 EXW（OEM 30%）'一句话价差。若再无回应则降 B。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+画像是 Saga 的理想 OEM 客户（美国、自有 logo、工业 PoE/MC 全品类、零售价空间大），S 重点；但 22 次邮件 0 回复 → 判定为触达渠道问题而非需求问题：改用网店客服电话/联系表单/LinkedIn 找老板，附'IGS-803SM 对位 STI-288DGGPM $137.5 EXW（OEM 30%）'一句话价差。若再无回应则降 B。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + OEM 映射；用户定级 B 低优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + OEM 映射；用户定级 B 低优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

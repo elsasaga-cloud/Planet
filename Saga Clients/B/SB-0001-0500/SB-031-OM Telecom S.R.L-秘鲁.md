@@ -57,6 +57,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 客户找光猫+工业MC；2023.11.29 发了商业POE价格册 → L3 industrial managed switch with POE?；2024.3.15 发了L3管理poE型号 → price and model list | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | OM Telecom | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来；用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -133,9 +134,10 @@ updated: 2026-10-29
 - **KP**：Clyver Ore M.（Sales Manager（研究档 KP；WA 已加；2023-11 问 L3 工业）= 收件人 — 一页纸一次：集成商 25% B、STI-288DGGPM $137 / STI-488DGGPM $147 工业 L2 管理 + STC-4424GCPM $165 L2+ + STC-110XGE $65 一口价；工业 L3 不供如实说；西语备注 — 秘鲁常规：英文稿（可附西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 利马（第 122 批 官方登记核实 2026-10-29））clyver.ore@om-telecom.com +51 989 144 163（WA 已加）〔用户 Clients 表〕
 - **KP**：Joel Ore（CFO（connectamericas 2026-10-29 吻合）（第 122 批 官方登记核实 2026-10-29）） 〔connectamericas.com〕
 - **调研后定级**：B（原自动 A）——南美非主攻区；需求一半（ONU）Saga 不供，另一半工业 MC 为低客单价；2 次回复后 16 次推送无果 → 慢跟。
-- 备注：WA 一次性报 STI-110GE 工业 MC（分销 20%），不做 ONU。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：deep/facts。
+WA 一次性报 STI-110GE 工业 MC（分销 20%），不做 ONU。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（登记 + LinkedIn/ConnectAmericas 核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（登记 + LinkedIn/ConnectAmericas 核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -61,6 +61,7 @@ updated: 2026-10-29
 | 2023-12-21 | 来 | info@lanopia.de | Ihr email an Lanopia GmbH｜Vielen Dank fuer Ihr Email und das Interesse an unseren Lanopia Produkten und Dienstleistungen. Unser Kundendienst oder  | 自动回执（「Ihr email an Lanopia GmbH」，机器） | `a13983463633964b` |
 | 2024-03-11 | 来 | info@lanopia.de | Ihr email an Lanopia GmbH｜Vielen Dank fuer Ihr Email und das Interesse an unseren Lanopia Produkten und Dienstleistungen. Unser Kundendienst oder  | 自动回执（「Ihr email an Lanopia GmbH」，机器） | `ea3cc0c899b4ef91` |
 | 2024-04-15 | 来 | info@lanopia.de | Ihr email an Lanopia GmbH｜Vielen Dank fuer Ihr Email und das Interesse an unseren Lanopia Produkten und Dienstleistungen. Unser Kundendienst oder  | 自动回执（「Ihr email an Lanopia GmbH」，机器） | `a28f054e0c03188d` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Lanopia - LAN und WAN Netzwerk Lösungen - Startseite — Führender Value-Added-Distributor für professionelle Fiber-Optik und Kupfer-Netzwerktechnologie. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -136,9 +137,10 @@ updated: 2026-10-29
 - **KP**：Martina Ochmann（Geschäftsführerin（2002 起；Omnitron 名录联系人 martina.ochmann@）= 收件人（第 105 批 官方登记核实 2026-10-28））info@lanopia.de 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Paul Antony Ochmann（Geschäftsführer（2004 起，单独代表）= 拍板人（第 105 批 官方登记核实 2026-10-28）） 〔https://www.companyhouse.de/LANOPIA-GmbH-Altomuenster〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A6 真回≥3+对位（任何区域）
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -159,7 +159,8 @@ updated: 2026-10-29
   > Przemysłowy przełącznik LightOptics - LO-IGS-8GT2GF-POE … 8*10/100/1000Base-T RJ45, 2*1000M fiber ports (SFP) 1 406,00 PLN netto
   > 来源：https://profisystems.pl/pl/producer/lightoptics,103922（抓取 2026-10-21）
 - **KP**：Krzysztof Podgórski（Prezes Zarządu（2026-02-17 起；此前 Magdalena Podgórska 任 Prezes，现为 Prokurent）；股东 Grzegorz Szydełko + GEMINVE（2020-08 起）；2024 亏 −705k、2025 亏 −432k PLN（第 84 批 官方登记核实 2026-10-27））sales@fibermarkt.com +48 533 533 575〔https://inwestrut.pl/fibermarkt-sp-z-o-o/〕
-- 备注：A 确认（欧洲自有品牌 + 2 次实质回复 + 在售中国品牌）：对位 LO-IGS-M8GT2GF-HPOE ≈ STI-288DGGPM，MC = STI-110GE；贴牌 30%。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+A 确认（欧洲自有品牌 + 2 次实质回复 + 在售中国品牌）：对位 LO-IGS-M8GT2GF-HPOE ≈ STI-288DGGPM，MC = STI-110GE；贴牌 30%。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
 

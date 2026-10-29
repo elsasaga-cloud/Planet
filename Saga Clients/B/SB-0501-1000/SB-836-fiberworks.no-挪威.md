@@ -54,6 +54,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-10 | 去 | A/S 群发 | Industrial PoE Switch、24 Port PoE Managed Switch | 24 封 / 2 次打开 / 0 回｜首封 2024-07-05 → 末封 2026-10-10（24 去 / 0 来） | `gmail_digest` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Hjem - Fiberworks — Forsiden | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -147,9 +148,10 @@ updated: 2026-10-29
   > +47 23 03 53 30 · salg@fiberworks.no · Eikenga 11 0579 Oslo · Fiberworks AS Org. nr. 959 977 046 · ISO 9001:2015 … ISO 14001:2015
   > 来源：https://www.fiberworks.no/（抓取 2026-10-20）
 - **KP**：Roger Allan Wahlgren（Daglig leder（CEO，2019-01 起）+ Styremedlem（A 股股东代表）= 老板 / 拍板人；研究档原无具名 KP → 下一封写给他（第 87 批 官方登记核实 2026-10-27）） 〔https://data.brreg.no/enhetsregisteret/api/enheter/959977046/roller〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-073，W 批次调研 2026-10-19/20））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-073，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

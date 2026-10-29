@@ -24,10 +24,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（基于用户表整理 + 需求映射；「成交」为富通天下外贸数据）"
+  "level": "B 级加厚 v1（基于用户表整理 + 需求映射；「成交」为富通天下外贸数据） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "TELCONET S.A.（RUC 0991327371001；BVG 登记发行人；ARCOTEL Título Habilitante 1795361）",
@@ -99,6 +100,14 @@
     "quote": "从国内买了很多SFP / 富通天下",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Inicio - Telconet Latam - Transforma tu compañía con Inteligencia Artificial — Telconet soluciones en Inteligencia Artificial, Cloud, Colaboración, Movilidad, Seguridad Electrónica, Ciberseguridad y Network",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://telconet.net/"
    }
   ],
   "proof_gaps": [
@@ -106,5 +115,34 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:23:35Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@telconet.com.co",
+   "info@telconet.com.pa",
+   "info@telconet.ec"
+  ],
+  "phones": [
+   "+507 380 3626",
+   "+57 311 539 3687",
+   "+593 2 39 22 000"
+  ],
+  "social": [
+   "https://twitter.com/telconetlatam",
+   "https://www.facebook.com/telconetlatam",
+   "https://www.linkedin.com/company/telconet/",
+   "https://www.youtube.com/telconetlatam"
+  ],
+  "models_on_site": [],
+  "url": "https://telconet.net/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

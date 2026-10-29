@@ -59,6 +59,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2024-04-19 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「发了10G MC信息」→ 对方「传输距离是多少？」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/Whatsapp_S跟进 2026.08.04.xlsx no.120 2024.4.19` |
 | 2026-10-21 | 用户表 | Simon | 表内电话 975-171 13202（+975 = 不丹）；邮箱 sonam@nano.bt（.bt = 不丹）；公司名 Thimphu Techpark（不丹首都 IT 园区） | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | NANO - Internet Service Provider, Managed Security Service Provider, Enterprise Services, Applications & Software, Professional Services | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来；用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -115,6 +116,7 @@ updated: 2026-10-29
 - **是谁**：不丹三家拥有独立国际网关的持牌 ISP 之一（2017 年入市，DWDM/光纤骨干，ISP + 托管安全 + 企业 IT/网络服务；团队约 11 人，核心来自 Bhutan Telecom/DrukNet；注册地 Thimphu TechPark）。**用户表国别「卡塔尔」有误：电话 +975 为不丹区号、域名 .bt、Thimphu = 不丹首都**，已纠正为不丹（南亚）。联系人 Sonam Rinchen（sonam@nano.bt，WA 已加）要收发器、SFP/PoE 交换机，2024-04 问 10G MC 传输距离；19 次推送 1 次实质回复。ISP 自用 + 企业客户项目 → B 25%。
 - **类型**：IT/网络经销商
 - **规模**：待补证
+- **在卖/在用品牌**：Ubiquiti, Cisco, Zyxel, Cambium
 - **【用户记录】需求收发器、SFP/PoE 交换机；WA 已加；1 次回复 / 19 次跟进**
   > 收发器、SFP/POE交换机；975-171 13202 已加（用户 Clients 表摘录）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
@@ -136,9 +138,10 @@ updated: 2026-10-29
 - **KP**：Sonam Rinchen（表内联系人（研究档 KP；WA 已加；要收发器 / SFP / PoE 交换机）= 收件人 — 一页纸一次：集成商 25% B、STC-4424GCPM $165 / STC-424XGGPM-280W $198 汇聚 + STC-228GP $33 接入 一口价 + MOQ 1；SFP / 收发器不供明说 — 不丹常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方经加尔各答 / 空运清关）（第 123 批 官方登记核实 2026-10-29））sonam@nano.bt +975 17 113 202（WA 已加；表内 975-171 13202）〔用户 Clients 表〕
 - **KP**：Tshering Norbu（Managing Director（官网 2026-10-29；曾任 Thimphu TechPark Ltd 董事；无公开邮箱）（第 123 批 官方登记核实 2026-10-29）） 〔〕
 - **调研后定级**：B（原自动 A）——1 次回复后 18 次推送无果；中东非主攻区；需求泛（收发器/SFP 非 Saga 主线）→ 慢跟。
-- 备注：WA 只在有 PoE 新品/促销时触达（STC-28DGGPM，分销 20%）。 ｜ 国别由「卡塔尔」更正为「不丹」（country_fix）；首轮调研 KP 行电话 +974 为误读。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+WA 只在有 PoE 新品/促销时触达（STC-28DGGPM，分销 20%）。 ｜ 国别由「卡塔尔」更正为「不丹」（country_fix）；首轮调研 KP 行电话 +974 为误读。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 第三方核对 · 国别更正 BT））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 第三方核对 · 国别更正 BT） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

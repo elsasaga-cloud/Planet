@@ -33,11 +33,12 @@
  ],
  "grade_override": "B",
  "override_reason": "无互动、仅群发来源、印度非主攻区；A 级自动判定来自历史成交/关键词，证据不足 → B。",
- "notes": "一封首触邮件即可。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n一封首触邮件即可。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射；「成交」为富通天下外贸数据）"
+  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射；「成交」为富通天下外贸数据） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Amity Technologies（合伙企业，2009-05-04；Udyam Small 2022-23；Plot 279, 2nd Floor, Vivekananda Nagar, Kukatpally, Hyderabad 500072 + Plot 38, Meridian Enclave, Nizampet Road 500085；ISO 9001:2015；16–25 人；$1–2.5M）",
@@ -109,6 +110,14 @@
     "quote": "工业FS / 买了台湾KONTEN的模块 / 富通天下",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Amity - Rugged Systems, Displays, Consoles, Manufacturer India — Amity Technologies is leading manufacturer of Rugged Systems, Units, Computers, Displays, Servers, Ethernet Switches, Enclosures, Workstations, Consoles, Displays, Laptops, Tablets, Racks, and UPS.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://amitytechnologies.co.in/"
    }
   ],
   "proof_gaps": [
@@ -119,5 +128,35 @@
    "body": "Hello Amity team,\n\nOver the past months you had a product mail from us - \"24 Port PoE Managed Switch\" on 20 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the industrial fibre switches you were looking at: DIN-rail 8 x Gigabit + 2 x SFP, unmanaged, -40 to 75 C, CE/RoHS - model STI-280GE - $46 USD EXW (MOQ 1, 15-day validity); the 8 x PoE+ + 2 x SFP version - STI-288GP - $59.8. SFP modules we do not supply.\n\nOne question: do your Indian projects require BIS-registered units, or is CE/RoHS sufficient for your end customers?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:22:53Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [
+   "+91 9866938833"
+  ],
+  "social": [
+   "https://www.facebook.com/profile.php?id=61573915896321",
+   "https://www.linkedin.com/company/amitytech/"
+  ],
+  "models_on_site": [
+   "JSS55555",
+   "MIL-STD-810H",
+   "RS232",
+   "MIL-STD-461G",
+   "MIL-STD-810",
+   "DDR42666",
+   "STD-461F",
+   "RE101"
+  ],
+  "url": "https://amitytechnologies.co.in/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

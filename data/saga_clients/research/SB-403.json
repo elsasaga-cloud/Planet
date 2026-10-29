@@ -14,7 +14,10 @@
   "Bosch",
   "Cisco",
   "Dahua",
-  "E-link"
+  "E-link",
+  "Aruba",
+  "Vivotek",
+  "Hanwha"
  ],
  "evidence": [
   {
@@ -43,10 +46,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  "level": "B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Surveillance-Video.com（NY 实体法定名 / DOS 号未取 → 部分坐实）",
@@ -127,6 +131,14 @@
     "quote": "Managed PoE Switches",
     "why": "本日去信真实主题（邮箱索引 963223979b9ab2f0；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封）",
     "k": "963223979b9ab2f0"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Home Security Cameras & Security Camera Systems — Shop professional grade security cameras and surveillance systems at the lowest prices. Fast shipping & lifetime technical support with all purchases.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.surveillance-video.com/"
    }
   ],
   "proof_gaps": [],
@@ -135,5 +147,30 @@
    "body": "Hello,\n\nOver the past months you had a few product mails from us - most recently \"Managed PoE Switches\" on 6 October 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the PoE switch category beside TRENDnet and TP-Link in the store, at distributor price, EXW, MOQ 1, 15-day validity: 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed, Marvell-based - model STC-424DGGPM-280W - $134.5 USD; 8 x Gigabit PoE+ + 2 x SFP, L2+ managed - STC-28DGGPM - $80.7. FCC/CE/RoHS (no UL listing - said up front, since some of your customers will ask).\n\nOne question: who handles new vendors for the store, so the datasheets go to the right person?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:40:28Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "POE16ATN-EU",
+   "PD9601G-AC",
+   "POE1236-ATUS",
+   "POE1AT-EU",
+   "AP-GIC-010A-030",
+   "NETWAY16MV",
+   "SW08PE",
+   "EC-4BY1SWCPOE-W"
+  ],
+  "url": "https://www.surveillance-video.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -54,6 +54,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 应该是老板 没说什么， 给了名片 / Cumhur OLMEZ / ANIL | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Anıl Telekom — dahua kamera, Hikvision güvenlik kamera, Lande kabinet, Yealink telefon, multitek santraller, dahua güvenlik sistemleri, karel santral, tplink modem, tp-link ürünleri, gigaset telsiz telefon, karel telefonlar | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -116,7 +117,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线
 - **是谁**：伊斯坦布尔 Perpa 商贸中心的安防/通信分销商 Anıl Telekom（2002 年起；自称「Ana Dağıtıcı」总分销：Dahua 摄像、Gigaset/Karel/Yealink/Panasonic 话机、TP-Link/Ruijie/Lande 网络、Ajax/Paradox 报警、Westa/Decon 音响；11–50 人；Perpa A Blok No:1440-1442-1575-1577-1579 Kat:10-12 Şişli；0212 292 90 90；aniltelekom@aniltelekom.com）。ISAF 记录：Cumhur Ölmez（cumhur@aniltelekom.com）——「应该是老板，没说什么，给了名片」；无后续跟进。核实：Cumhur Ölmez = Pazarlama ve Satış Yöneticisi（市场与销售经理，2022 至今；此前 Karel 区域销售经理 1990–2017）。分销商已有 TP-Link/Ruijie 线 → Saga 作「无品牌/贴牌低价线」补位 → 分销 20%。
-- **在卖/在用品牌**：Dahua, TP-Link, Ruijie, Karel, Yealink, Ajax, Paradox
+- **在卖/在用品牌**：Dahua, TP-Link, Ruijie, Karel, Yealink, Ajax, Paradox, Ubiquiti, Hikvision, Aruba
 - **【名录】KP 职务与履历；规模**
   > Cumhur Ölmez is a Pazarlama Ve Satış Yöneticisi at Anıl Telekom based in Okmeydani, Istanbul. Previously, Cumhur was a Bölge Satış Yöneticisi at Karel Electronics. … 1990-2017 … Anıl Telekom 2022-present … Number of Employees 11-50
   > 来源：https://www.zoominfo.com/p/Cumhur-O%CC%88lmez/9253646140（抓取 2026-10-21）
@@ -133,9 +134,10 @@ updated: 2026-10-29
   > 应该是老板 没说什么， 给了名片 / Cumhur OLMEZ / ANIL
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Cumhur Ölmez（Pazarlama ve Satış Yöneticisi（市场与销售经理；ZoomInfo / ContactOut）= 收件人（销售负责人，非采购 → 信里只问一个渠道问题）（第 98 批 官方登记核实 2026-10-28））cumhur@aniltelekom.com（用户表） +90 212 292 90 90（公司）〔https://www.zoominfo.com/p/Cumhur-O%CC%88lmez/9253646140〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2026-09-14 | 去 | Elsa（e.sagatelecom，Gmail 连接器实时查询） | Elsa 邮箱群发「16 Port Industrial PoE Switch」→ info@tubal-egypt.com（截至 2026-10-24 无回复） | 仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据 | `Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）` |
 | 2026-09-14 | out | Elsa → info@tubal-egypt.com | 16 Port Industrial PoE Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：主要处理POE，对2光10电做了详细讲解，比较懂… SKD可以嘛？把外壳和板子分开提供 回复说可以 客户说这样容易清关 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Tubal Egypt | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -116,9 +117,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Daniel Adel Harvey（Board Member（研究档 KP；亲自谈 PoE / EMS 告警口 / SKD 清关）= 收件人 — 一页纸一次：贴标 OEM 30% B、STC-2216GP / STI-288DGGPM $137「2 光 10 电」对位 + SKD（整机拆箱分供，不做定制板）+ 贴标 MOQ + 付费样机 — 埃及常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方清关）、NTRA 不声称（第 122 批 官方登记核实 2026-10-29））info@tubal-egypt.com +20 122 787 9183〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Fibi Bakhoum Toma（Key Principal（D&B 2026-10-29；无公开邮箱）（第 122 批 官方登记核实 2026-10-29）） 〔〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照：主体待核 + SKD 意向））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照：主体待核 + SKD 意向） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

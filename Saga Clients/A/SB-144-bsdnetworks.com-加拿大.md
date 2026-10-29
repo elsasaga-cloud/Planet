@@ -59,6 +59,7 @@ updated: 2026-10-29
 | 2026-03-30 | 来 | Robert | do you manufacture your own products or OEM them from another factory? I visited your website, but I could not find details regarding your specific products. | 身份尽调 + 官网信息不足 | `4cb6b53615aaeed7` |
 | 2026-03-31 | 去 | Alan | Yes, we OEM from a manufacturer. And they have been supporting us very well, based on our previous orders and after-sales questions from client side. | 如实 | `d63854cffb76b6d5` |
 | 2026-05-26 | 来 | robert@bsdnetworks.com | Hello, BSD Networks is pleased to extend a formal Invitation to Bid for the construction of a new twelve-storey, approximately 285,000 sq. ft. mixed-u | 来信原文（主题「You have a Bid Invitation from BSD 」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `96db4511c0c030f3` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | BSD Networks – Driving Fiber Innovation | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -149,9 +150,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Robert Lichtenstein（）robert@bsdnetworks.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

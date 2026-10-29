@@ -24,7 +24,7 @@ last_contact: unknown
 p1: STI-288GP
 price_tier: 25%
 research: done
-site_snapshot: ok  # 2026-10-21
+site_snapshot: mismatch  # 2026-10-21
 sources: 1
 updated: 2026-10-29
 ```
@@ -36,7 +36,7 @@ updated: 2026-10-29
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288GP — 工业 PoE → STI-288GP；非 PoE → STI-280GE。；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-13；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；公司官网（表内域名经核实不属于本客户；真实官网未知）
 - **下一步**：不动 — —
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2025-02-18 | 去 | Elsa 群发（BCC；To dipol@skuatechnology.com，PT/IE/SE/OM/HU/NZ/RO/MT/AE/BE 早期混合 批次） | Mini Industrial PoE Switch — This is about our MINI Din unmanaged switches for you. 1. 100/1000M auto-adaptive SFP fiber 2. support DIP for flexible configuration 3. PoE optional, | Elsa 箱群发 BCC 触达证据（命中地址 info@multi-technology.com, multi-technology.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-08-13 | 去 | Elsa 群发（BCC；To info@iotkomponenty.sk，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 info@multi-technology.com, multi-technology.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：工业POE 和不带POE的感兴趣 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | 9WOLF â Digital Marketplace | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -113,9 +114,10 @@ updated: 2026-10-29
   > 兴趣：工业POE 和不带POE的感兴趣
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（未具名）（未具名（域名现为无关数字市场页）— 不动：查无实体 + 国别未知 （第 122 批 官方登记核实 2026-10-29））info@multi-technology.com 〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（域名误配判定 + 需求映射））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（域名误配判定 + 需求映射） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -129,13 +131,12 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-288GP（25% 档）——工业 PoE → STI-288GP；非 PoE → STI-280GE。
 - **邮件切入句（英文）**：（低优先；需先核国别）
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名误配（快照到的网站不是本客户））
 
-- **首页**：https://multi-technology.com/　语言：en　站点地图 URL 数：0
-- **标题**：9WOLF â Digital Marketplace
-- **首页栏目**：Powerful tools. Competitive sellers. One marketplace.
-- 首页正文摘录：9 WOLF VISIT MARKETPLACE â ðº 9WOLF DIGITAL MARKETPLACE Powerful tools. Competitive sellers. One marketplace. 9WOLF gives you access to a wide range of digital services in one place. Multiple sellers compete with their offers, giving customers more choice, better availability and competitive pricing. ð¡ Anti Red ð¨ SMTP ð cPanel ð§ Webmail ð¥ RDP 30 Days â¨ Shell ð¥ RDP ð SSH / WHM ð Mailer ð
-- 数据文件：`data/saga_clients/site_snapshots/SB-973.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
+- 尝试域名：multi-technology.com
+  > True
+- **提示**：人工核对后判定表内域名不属于本客户（见上方说明），本客户以邮箱/电话为准；快照内容不采用。
+- 数据文件：`data/saga_clients/site_snapshots/SB-973.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -228,6 +229,7 @@ updated: 2026-10-29
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
+- [ ] 公司官网（表内域名经核实不属于本客户；真实官网未知）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

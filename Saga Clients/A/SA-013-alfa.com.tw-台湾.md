@@ -75,6 +75,7 @@ updated: 2026-10-29
 | 2026-07-20 | 去 | S 箱（Simon）报价 | 24 Port 10G SFP+ Switch｜ $1500（原句：*Price: 1500USD/PC*） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `b6adec4516d15445` |
 | 2026-09-08 | 去 | S 箱（Simon） | 24 Port PoE Managed Switch | 最近一封去信（邮箱索引；去信共 26 封） | `416daea2221fc20d` |
 | 2026-09-08 | 去 | S 箱（Simon）报价 | 24 Port PoE Managed Switch｜ $170（原句：*Price: 170USD/PC*） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `416daea2221fc20d` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | ALFA Network Inc. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -171,9 +172,10 @@ updated: 2026-10-29
   > 来源：https://www.alfa.com.tw/products/aps08g（抓取 2026-10-21）
 - **KP**：Johnson Wang（来信署名人（职务待核，非负责人）；负责人 President Huang Lili（D&B）、硬件总监 Jeremy Wu；ALFA Network 2002 成立、11–50 人、欧洲电商自营（法国 SIREN 901445445）（第 85 批 官方登记核实 2026-10-27））johnson@alfa.com.tw 〔S/A 邮箱来信 2024-08-15 来信 1 封（署名 ALFA Network Inc.）（第 72 批从邮件表头补）〕
 - **KP**：Huang Lili（Bai Lian）（President（D&B Key Principal）= 负责人 / 老板（第 85 批 官方登记核实 2026-10-27）） 〔https://www.dnb.com/business-directory/company-profiles.alfa_network_inc.92c8275df8b0f94300f98ff30d74ce55.html〕
-- 备注：A 维持（用户 S 重点 + 自有品牌 PoE 交换机 = OEM 采购方，非竞争对手）；INH「台湾厂商非客户」针对 Planet 同业，此处为 OEM 买家，特此说明。P1 = STC-21616GP 类 16 口 PoE 非网管（如价格表无则标注 SmartByte 型号），30% 档。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+A 维持（用户 S 重点 + 自有品牌 PoE 交换机 = OEM 采购方，非竞争对手）；INH「台湾厂商非客户」针对 Planet 同业，此处为 OEM 买家，特此说明。P1 = STC-21616GP 类 16 口 PoE 非网管（如价格表无则标注 SmartByte 型号），30% 档。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1）
+### 加厚挖掘（2026-10-21 · 深挖 v1 + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -52,10 +52,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "1033 US Highway 46, Suite 204, Clifton, NJ 07013（登记地 155 Water St, Brooklyn, NY 11201）",
@@ -140,6 +141,14 @@
     "quote": "工业FS 自己的logo 摄像头 其他一些周边产品",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Security Cameras, Surveillance, IT and Access Control Superstore – Silarius — Explore surveillance equipment, security cameras, audio-visual, IT hardware and software for home and business. Great reviews and fast shipping.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://silarius.com/"
    }
   ],
   "proof_gaps": [
@@ -150,5 +159,35 @@
    "body": "Hello Silarius team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 11 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nYour site lists own-label NDAA-compliant cameras, NVRs and switches. For the switch part we build under your brand from small lots:\n\n- 24 x Gigabit PoE+ (280 W) + 4 x SFP uplinks, L2+ managed, Marvell-based, model STC-424DGGPM-280W - $145.7 USD EXW (MOQ 1, 15-day validity)\n- 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, model STC-28DGGPM - $87.4 USD EXW\n\nWith each model we can supply a component-origin statement (switch silicon, PHY, PoE controller) for your compliance file - whether that satisfies your NDAA checklist is for your team to confirm, and I will answer any question on the bill of materials directly.\n\nOne question: which model do you want to see first, the 24-PoE or the 8-PoE?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:25:47Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@silarius.com"
+  ],
+  "phones": [
+   "00000009.01",
+   "00012-13 1100"
+  ],
+  "social": [],
+  "models_on_site": [
+   "QSFP28",
+   "SC900",
+   "AX9000G",
+   "FS-224E",
+   "RMK-84",
+   "LV5500R-400",
+   "LV5520T-400",
+   "LV5520R-400"
+  ],
+  "url": "https://silarius.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -92,10 +92,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + D&B + 名录核对）"
+  "level": "B 级加厚 v1（官网 + D&B + 名录核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "DELTA CONSULTING LLC（შპს；Tbilisi；SAM UEI J9LKEG5JR7D6 / CAGE SJFH4，Expired 2022-07-14；**同名陷阱：Delta Consulting LLC Oxford MS 无关**）",
@@ -231,6 +232,14 @@
     "quote": "24 Port PoE Managed Switch…",
     "why": "0 回",
     "k": "c3cd22fd6af847aa"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "დელტა კონსალტინგი-Delta Consulting — Delta Consulting is one of the leading IT integrator company in Georgia",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.dc.ge/"
    }
   ],
   "proof_gaps": [
@@ -241,5 +250,29 @@
    "body": "Hi George,\n\nYou bought two pairs of Fast Ethernet PoE samples from us in 2023, and in November 2024 you asked for a small 8-port high-power PoE unit; what you had from us since were general product mails. The answer: DIN-rail 8 x Gigabit PoE, 2 x 802.3bt (up to 90 W) + 6 x 802.3at, 2 x SFP uplinks, L2+ managed with ring redundancy, Marvell-based, -40 to 75 C - model STI-288DGGPM-2BT - $154 USD EXW (MOQ 1, 15-day validity). I know your current supplier is cheaper on the simple units; this one is for the sites where 90 W and management matter.\n\nOne line on the enterprise and government projects: for aggregation where Cisco is specified by habit rather than by feature, a 24 x 10G SFP+ + 2 x 100G L3 unit is $1,500 - sent against a real port plan, not as a list.\n\nOne question: for the 8-port high-power unit, is it one site or a standard item in your CCTV kits?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:40:07Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@dc.ge",
+   "sales@dc.ge"
+  ],
+  "phones": [
+   "+995 (32) 2 05 00 55"
+  ],
+  "social": [
+   "https://www.facebook.com/deltaconsultingofficial/",
+   "https://www.linkedin.com/company/%E1%83%93%E1%83%94%E1%83%9A%E1%83%A2%E1%83%90-%E1%83%99%E1%83%9D%E1%83%9C%E1%83%A1%E1%83%90%E1%83%9A%E1%83%A2%E1%83%98%E1%83%9C%E1%83%92%E1%83%98-%E2%80%A2-delta-consulting/"
+  ],
+  "models_on_site": [],
+  "url": "https://www.dc.ge/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

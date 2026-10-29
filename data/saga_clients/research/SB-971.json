@@ -49,10 +49,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "171 El Banafseg 7, First Settlement, New Cairo, Egypt（+20 2 2307 8803）（第 122 批 官方登记核实 2026-10-29）",
@@ -118,6 +119,14 @@
     "quote": "4V1D 1080P / from: 自建站",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "IPS – Integrated Premium Solutions",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://integrated-ps.com/"
    }
   ],
   "proof_gaps": [
@@ -135,5 +144,31 @@
   "note": "桌面复核（研究档类型 + 对位首推）：安防/业务方案集成商（埃及）；切入：CCTV/门禁配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；4V1D 视频光端机 Saga 不供；行业内 ✔ 对位 ✔（宽留冷「不对位」系 fit 标志未回填，非真不对位）",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未发信））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": []
+ "override_history": [],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:25:57Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@integrated-ps.com"
+  ],
+  "phones": [
+   "+2 (010) 21 21 20 27",
+   "+2 (02) 22701163",
+   "+2 (02) 23 07 88 03"
+  ],
+  "social": [
+   "https://www.facebook.com/IPS-Integrated-premium-solutions-110132940493420",
+   "https://www.linkedin.com/company/ips-integrated-premium-solutions/?viewAsMember=true",
+   "https://www.youtube.com/channel/UCxX4U4GbvH7NytCrCxbGkPg"
+  ],
+  "models_on_site": [],
+  "url": "https://integrated-ps.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

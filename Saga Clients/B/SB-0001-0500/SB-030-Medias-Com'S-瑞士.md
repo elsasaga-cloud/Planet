@@ -58,6 +58,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 研 | 用户记录 | 2020 年样品单：IM-MC110FE、IM-FP144FE 各 2 台；之后 0 次跟进：IM-MC110FE IM-FP144FE 各2个 成样品单；Director Manager（用户 Clients 表摘录） | 无任何邮件往来；唯一证据为研究/用户表记录 | `（本地 Clients/ 表格，无公开 URL）` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Medias-Com's - Accueil | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -127,9 +128,10 @@ updated: 2026-10-29
 - **KP**：Christophe Denis Cordonier（董事 / 签字权（moneyhouse）= 拍板人（推定 Clients 表「Director Manager」）（第 111 批 官方登记核实 2026-10-28）） 〔https://www.moneyhouse.ch/en/company/medias-coms-sa-21311210971〕
 - **KP**：Philippe Bonvin（董事 / 签字权（moneyhouse）（第 111 批 官方登记核实 2026-10-28）） 〔https://www.moneyhouse.ch/en/company/medias-coms-sa-21311210971〕
 - **调研后定级**：B（原自动 A）——有历史样品成交但停滞 5 年（2020 后 0 跟进），瑞士欧洲区可重启一次；信息不足以判断长期价值 → B 慢跟。
-- 备注：重启：告知当年 IM-MC110FE/IM-FP144FE 的现行对位型号（STI-110GE / STI-144GP）与新价，一封邮件；待补证：公司网站与规模。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+重启：告知当年 IM-MC110FE/IM-FP144FE 的现行对位型号（STI-110GE / STI-144GP）与新价，一封邮件；待补证：公司网站与规模。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

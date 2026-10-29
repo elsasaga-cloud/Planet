@@ -59,6 +59,7 @@ updated: 2026-10-29
 | 2026-09-08 | 去 | Elsa（e.sagatelecom，Gmail 连接器实时查询） | Elsa 邮箱群发「24 Port PoE Managed Switch」→ sales@solimedia.net（截至 2026-10-24 无回复） | 仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据 | `Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）` |
 | 2026-09-08 | 去 | Elsa 群发（To 直收：本户是「US-3」批次的锚，其余客户在 Bcc） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发直达证据（To sales@solimedia.net）；该批次 10 轮 2025-04-05→2026-09-08 每轮都以本户为 To；S/A digest 看不到 Elsa 的发信 | `elsa_bcc` |
 | 2026-10-19 | 去 | S 群发 | 24 Port PoE Managed Switch、8 Port Industrial PoE Switch | 3 封 / 1 次打开 / 0 回｜首封 2025-01-20 → 末封 2026-10-19（3 去 / 0 来） | `gmail_digest` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Solimedia: The Best Deals on Mikrotik and Grandstream — Explore Solimedia for top-quality Mikrotik, Grandstream, and Optcore products at competitive prices with great value. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -124,7 +125,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（solimedia.net；并档 Planet 渠道档案 PB-078）
 - **是谁**：温哥华一家 MikroTik 官方分销网店，PLANET 商用交换机曾全线在售、现只剩清仓位并被 Grandstream 替换。类型：分销/网店（MikroTik 官方分销商，另售 Grandstream / Optcore；PLANET 商用交换机曾全线在售，现仅剩 Deals & Bargains 清仓位，品牌页与工业类目已下线）。信号：solimedia.net：PLANET GSW-1600HP（16×GE 802.3at PoE+）$286.62 CAD In stock、Category: Deals & Bargains（清仓类目）；关联商品 Planet GSD-504 $28.95 CAD；搜索快照另见 GS-4210-48T4S CAD$593.14（2025-04）、GSD-1603 $88.97 CAD In stock（2026-03）、IGS-801M $204.08 CAD Out of stock（2025-10）、GSW-1601 / GSW-2401 / GS-4210-8P2S；但 /brand/planet/ 与工业类目 404，/product/gsd-1603/ 与 48 口管理款商品页 301 → Grandstream GWN7802P-Pro / GWN7806P → PLANET 线正被 Grandstream 替换。Planet 渠道档案 PB-078 评级 B（需求：PLANET 工业款缺货 + 工业类目下线、商用款已被 Grandstream 替换 → 工业 DIN 槽位真实空缺，但 PLANET 退出也说明其对该副线投入收缩；触达：sales@solimedia.net + 两部电话公开（Contact 页），无具名 KP；体量：温哥华单店分销，可赢；Gmail：Elsa 账号 2025-04-05 → 2026-09-08 已向 sales@solimedia.net 群发 10 封、0 回复 → 非首触、通用群发通道已疲劳；Mikrotik 仓 A-448 人工定级 A（R53 升级）→ 并档、首触以 Mikrotik 仓库为准；本仓 B ★（PLANET 退出 + 群发 10 封无回应））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1078，美国，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。
-- **在卖/在用品牌**：PLANET, MikroTik, Grandstream, Optcore
+- **在卖/在用品牌**：PLANET, MikroTik, Grandstream, Optcore, Ubiquiti
 - **【官网】PLANET GSW-1600HP 在库、归入清仓类目**
   > 16-Port 1G 802.3at PoE+ Ethernet Switch $286.62CAD + same day shipping … PLANET GSW-1600HP … Availability: In stock … SKU: GSW-1600HP Category: Deals & Bargains
   > 来源：https://solimedia.net/product/gsw-1600hp/（抓取 2026-10-20）
@@ -144,9 +145,10 @@ updated: 2026-10-29
   > 404 Not Found
   > 来源：https://solimedia.net/brand/planet/（抓取 2026-10-20）
 - **KP**：Nader Kashani（Founding Director / 老板（LinkedIn 2012-01 起；D&B Key Principal；邮箱未公开 → sales@solimedia.net 点名）= 收件人（第 96 批 官方登记核实 2026-10-28）） 〔https://solimedia.net/about/〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-078，W 批次调研 2026-10-19/20））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-078，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

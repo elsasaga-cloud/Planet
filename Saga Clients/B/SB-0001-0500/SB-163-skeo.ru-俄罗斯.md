@@ -60,6 +60,7 @@ updated: 2026-10-29
 | 2024-09-06 | 来 | Nikolay | What is the price for them? And how do you want to send them to us? | 要样问价 | `01bcd6732964d044` |
 | 2024-09-06 | 去 | Saga（Simon） | Hi, Nikolay, 33usd/pc STI-080GE 8*10/100/1000M Ethernet, without fiber port, non-PoE, unmanaged, Support DIP function, DC12V~DC58V(Removable 4 PIN Industrial Terminal Block), -40℃ to 75℃, Din mounted, with mounting hanger, without power supply About the shipme | 历史报价点（主题「Re: 8 port unmanaged switch」；第 20 批从 gmail_s 回补）：STI-080GE 33usd | `8884a81a60ecbdb4` |
 | 2024-11-19 | 来 | 用户表（Simon 跟进记录；渠道 微信） | 用户表跟进：推「引流机型」→ 对方「有需求会说的」 | Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」 | `Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.13 1119` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | СКЕО - оборудование связи. — "СКЕО" - российский производитель и поставщик оборудования для волоконно-оптических линий связи. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -140,6 +141,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（skeo.ru，快照 2026-10-21，俄语）
 - **是谁**：俄罗斯圣彼得堡 / 莫斯科 / 顿河畔罗斯托夫光通信设备制造商与供应商：CWDM/DWDM 复用器、光模块 SFP/SFP+/XFP/QSFP/CFP（自有 SKEO 品牌，5 年保）、媒体转换器、熔接机、测试仪、网络设备；面向运营商、ISP、政府通信部门；与 Juniper/Cisco 有直接合作。表内 Account Manager Nikolay Podoroga，2024-09 对 8 电口「有兴趣」。光模块 / MC = 同行（自有品牌），交换机 = 缺口。
+- **在卖/在用品牌**：Huawei
 - **【官网】定位：俄罗斯光通信设备制造商与供应商；CWDM/DWDM、光模块、MC、熔接**
   > "СКЕО" - российский производитель и поставщик оборудования для волоконно-оптических линий связи… Модули SFP… SFP+… QSFP28… Медиаконвертеры
   > 来源：https://skeo.ru/（抓取 2026-10-21）
@@ -154,9 +156,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Nikolay Podoroga（）npa@skeo.ru +7 903 486 5077〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Деркач Алексей Александрович（Генеральный директор（2021-11-19 起）+ 10% 股东 = 拍板人（第 86 批 官方登记核实 2026-10-27）） 〔https://www.companium.ru/id/1147847171185-skeo〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 官网核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 官网核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

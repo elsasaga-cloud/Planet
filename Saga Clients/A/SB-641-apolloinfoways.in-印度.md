@@ -64,6 +64,7 @@ updated: 2026-10-29
 | 2024-11-03 | 来 | ravi@apolloinfoways.in | Is it managed or unmanaged switch? Regards Ravi ⁣Get BlueMail for Android ​ | 来信原文（主题「Re: Industrial PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `fa79557f8a8ef2a4` |
 | 2025-01-06 | 来 | ravi@apolloinfoways.in | Pls share the Datasheet for this. Ravi ________________________________ | 来信原文（主题「Re: 24 Port Fiber Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `79e45ea6c45d68d9` |
 | 2025-12-08 | 来 | Ravi（Apollo Infoways） | How about Console port and management ports. | 问管理口/Console = 在比对自家 WatchDog 型号规格；Elsa 是否答复未入库 | `gmail_e` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | WatchDog \| Enterprise Networking, Data Center, Cloud & Security — WatchDog delivers enterprise networking, data center, cloud, wireless, security, and automation solutions designed to secure and power modern networks. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：（已核 2026-10-24，第 73 批）线程 2025-12-08 以 Ravi 的「How about Console port and management ports」收尾，Elsa 没有回信可入库 → 不是「未入库」，是我方欠答 10 个月
 
@@ -175,9 +176,10 @@ updated: 2026-10-29
 - **KP**：Ravi Prakash（Founder / CEO / Director Apollo Infoways Private Limited（MCA 董事 2014-02-03–）= 拍板人 / 收件人（第 114 批 官方登记核实 2026-10-28））ravi@apolloinfoways.in 〔用户表〕
 - **KP**：Ivy Prakash（Director（MCA；2014-02-03–）（第 114 批 官方登记核实 2026-10-28）） 〔https://www.zaubacorp.com/APOLLO-INFOWAYS-PRIVATE-LIMITED-U72900DL2014PTC264342〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -60,6 +60,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-24 | 去 | A 群发 | 10G Enterprise SFP Switch、8 Port Industrial PoE Switch | 15 封 / 0 次打开 / 0 回｜首封 2025-04-14 → 末封 2026-09-24（15 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 和当地警察局有联系，他们会按照项目找产品，对IP67有兴趣，配线大约需要60-80米，报价80美金一台，能否OEM，想买样品测试IP67 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | DESK Sicherheit — Sicherheitsdienst, Alarmanlagen, Videoüberwachung, KI-Analyse & Drohnenabwehr – aus Karlsruhe, deutschlandweit & international im Einsatz. 24/7-Leitstelle. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -148,9 +149,10 @@ updated: 2026-10-29
 - **KP**：Daniel Salim Rupp（Geschäftsführer / 创始人（HRB 717686 Mannheim 唯一 GF；前联邦国防军）= 老板 = 收件人（第 96 批 官方登记核实 2026-10-28））dr@desk-sicherheit.de 〔用户 Clients 表〕
 - **KP**：Daniel Salim Rupp（Geschäftsführer / 创始人（HRB 717686 Mannheim 唯一 GF；前联邦国防军）= 老板 = 收件人（第 96 批 官方登记核实 2026-10-28））dr@desk-sicherheit.de（官网新闻稿公开） +49 721 1812642-0 / +49 173 1590372（官网新闻稿公开）〔https://desk-sicherheit.de/news/physische-penetrationstest〕
 - **调研后定级**：B（原自动 A）——核心需求 IP67 户外机 —— Saga 三家供应商均无 IP67 产品线（Saga 不做 IP67）；且报价后 0 回复/7 次推送。警务项目属公共安全边缘 → 守界慢跟。
-- 备注：若未来需求转为室内/机柜工业 PoE（IP30/IP40 DIN 导轨），可用 STI-288DGGPM 重启；不要承诺 IP67。待补证：公司注册与规模。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+若未来需求转为室内/机柜工业 PoE（IP30/IP40 DIN 导轨），可用 STI-288DGGPM 重启；不要承诺 IP67。待补证：公司注册与规模。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（Impressum + 登记核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（Impressum + 登记核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

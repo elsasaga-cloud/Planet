@@ -82,6 +82,7 @@ updated: 2026-10-29
 | 2026-07-02 | 来 | info@itmsystems.net | Hi Alan, Thank you again for updating us. Do you think the goods will be ready in 3 weeks? Kind regards Steve | 来信原文（主题「Re: 400GB Switches」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `49a17ee1feaa5e14` |
 | 2026-08-03 | 去 | Alan | the 400G switches are ready to ship now | Saga 侧就绪时间 | `140d7d5efe818d7e` |
 | 2026-08-15 | 来 | Steve | I have update the Senior Manager about the availability of goods and will get back to you | 最后一封来信 | `87738057b3f134de` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | ITM Systems\|Cyber Security\|Video Surveillance & Analytics\|IT Infrastructure Design\| Network and Systems Design | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：ITM 终端客户是谁（邮件未提）——不去搜，等对方说；（已核 2026-10-24，第 73 批）A 邮箱 20,521 封全入后复查：ITM 最早来信 = 2025-11-11 回「Booster PoE Switch」群发，之前 0 回——不存在更早回复
 
@@ -200,9 +201,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Steve（）info@itmsystems.net 〔用户表〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A6 真回≥3+对位（任何区域）
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

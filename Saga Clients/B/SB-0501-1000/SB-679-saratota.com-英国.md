@@ -55,6 +55,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2025-03-30 | 去 | Elsa 群发（BCC；To sales@luxritesecurity.com，UK-安防分销（一轮） 批次） | 8 Port Industrial PoE Switch — This is a Marvell based unmanaged 8 Port Gigabit PoE switch. 1. 30W per port for outdoor IP cameras 2. Support 250-meter PoE distance, PoE watchdog an | Elsa 箱群发 BCC 触达证据（命中地址 sales@saratota.com, saratota.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-09-28 | 去 | A 群发 | 10G Enterprise SFP Switch、48 Port PoE Managed Switch | 18 封 / 2 次打开 / 0 回｜首封 2025-06-10 → 末封 2026-09-28（18 去 / 0 来） | `gmail_digest` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | SARATOTA LTD — Saratota Ltd - Direct | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -125,7 +126,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（saratota.com；并档 Planet 渠道档案 PB-043）
 - **是谁**：赫特福德郡的小型进口代理商，代理 PLANET / Patton / LAVA 等六家厂商，向经销商与燃气/石油/公用事业/政府客户供工业 PoE 与电信接入产品。类型：进口分销/厂商代表（2005 年起；「represents Manufacturers … import and distribute」：Planet / LAVA / Patton / Flexdsl / Loop / Netsys；2–10 人；兼 planet-direct.co.uk、saratota-direct.co.uk 专站）。信号：官网 PLANET 专页（URL 自述 planet-technology-networking-communication-uk-distributor-planet-supplier）；工业 PoE 类目 Planet Technology Corp 20 款；首页主推 IPOE-175 / IGS-624HPT / IPOE-173S / BSP-360；Mikrotik 仓库 C-116 标「分销（PLANET 授权）」。Planet 渠道档案 PB-043 评级 B（需求：PLANET 专页 + 工业 PoE 20 款 + 进口代理定位；触达：sales@saratota.com（官方 Facebook 主页 + Patton/FiberPlex 官方资料「Distributed in the UK by SARATOTA … Email: sales@saratota.com」），admin@saratota.com（官网隐私页）；无具名（Companies House 4 名董事未取名）；体量 2–10 人，可赢；区域英国（一线）；Mikrotik C-116「B下放·无邮箱」，本仓补到邮箱 → B）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-679，英国，Saga 群发已推送 5 次无回复）与 Planet 渠道挖掘名单，首触邮件此前未发送。
-- **在卖/在用品牌**：PLANET, MikroTik
+- **在卖/在用品牌**：PLANET, MikroTik, EtherWAN
 - **【公司自述】PLANET 专页（URL 自述 UK distributor / supplier）**
   > Planet Technology Corp — BSP-360 Industrial solar controller with 4 ports POE 802.3at managed switch … CONTACT SARATOTA LTD Unit 21 Little Ridge Ind. Estate Welwyn Garden City Hertfordshire AL7 2BH TEL: +44 (0) 1707 331447
   > 来源：https://www.saratota.com/planet-technology-networking-communication-uk-distributor-planet-supplier（抓取 2026-10-19）
@@ -151,9 +152,10 @@ updated: 2026-10-29
   > C-116 Saratota 英国 分销（PLANET 授权）… B下放·无邮箱 … saratota.com 页面标注 Planet Technology UK distributor / supplier，上架 PLANET 工业 PoE 与太阳能供电交换机 … 经 EtherWAN 渠道名录确认为其分销商
   > 来源：https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv（抓取 2026-09-22）
 - **KP**：Michael Charles White（Director（2005-04-14 创立至今；1954 生 = 72 岁）+ 配偶 June White 任 Secretary = **夫妻店老板 = 联系人 Mike**；研究档原无具名 KP（第 89 批 官方登记核实 2026-10-27）） 〔https://find-and-update.company-information.service.gov.uk/company/05424607/officers〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-043，W 批次调研 2026-10-19/20））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-043，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

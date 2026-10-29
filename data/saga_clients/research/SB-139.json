@@ -7,7 +7,8 @@
  "type": "",
  "size": "",
  "brands_seen": [
-  "Hikvision（主销）"
+  "Hikvision（主销）",
+  "Hikvision"
  ],
  "evidence": [
   {
@@ -36,10 +37,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（电商站核对）"
+  "level": "B 级加厚 v1（电商站核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Acusense Teknoloji ve Güvenlik Sistemleri Ltd. Şti.（İstanbul Kadıköy Merdivenköy Business İstanbul Plaza B Blok No:179；bayifi 名录 TOPTANCI；MERSİS 未取）",
@@ -104,6 +106,14 @@
     "quote": "不会英文， 找工业级POE交换机 拿了彩页 / Umit Celik",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Hikvision Kamera Sistemleri | Orijinal Ürün Güvenlik Sistemleri Satış Sitesi — Orijinal Hikvision güvenlik kameraları, DVR ve NVR sistemleri uygun fiyatla! Ücretsiz teknik destek, hızlı kargo ve garanti avantajıyla hemen satın alın. Ev ve iş yeriniz için güvenlikte lider: Hikvision IP, AHD ve Dome k",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://acusenseteknoloji.com/"
    }
   ],
   "proof_gaps": [
@@ -114,5 +124,34 @@
    "body": "Ümit Bey, ISAF'ta aradığınız endüstriyel PoE switch: DIN ray 8 port gigabit PoE+ + 2 SFP, −40/+75 °C, 59,8 USD EXW (MOQ 1, 15 gün geçerli). Hikvision proje ürünlerinizin yanında satmak için nötr kutulu 10 adetlik bir deneme partisi ister misiniz?\n\nSaygılarımla,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:23:44Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@acusenseteknoloji.com"
+  ],
+  "phones": [],
+  "social": [
+   "https://wa.me/905428396898"
+  ],
+  "models_on_site": [
+   "DS-3E0318P-E",
+   "DS-3E0326P-E",
+   "DS-3E1318P-EI",
+   "DS-3WAP522-SI",
+   "DS-3E1510P-EI",
+   "DS-3E1526P-SI",
+   "DS-3E0505D-E",
+   "DS-3E1526P-EI"
+  ],
+  "url": "https://acusenseteknoloji.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

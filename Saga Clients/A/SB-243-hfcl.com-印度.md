@@ -71,6 +71,7 @@ updated: 2026-10-29
 | 2026-05-11 | out | Elsa → shantanu.kumar@hfcl.com | 10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-08-04 | out | Elsa → shantanu.kumar@hfcl.com | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 3/3 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(m) `from:e.sagatelecom to:shantanu.kumar@hfcl.com` 全程 complete：3 轮直收；客户曾来信（见 Re: 行） | `elsa_1to1` |
 | 2026-10-21 | 用户表 | Simon | 工业FS 自己的logo；回复里有详细联系方式 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | HFCL - Leading Provider of Telecom and Networking Solutions — HFCL is a global leader in delivering innovative telecom and networking solutions, offering cutting-edge products and services for connectivity, communication, and digital transformation. Explore our range of solutions designed to drive b | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 之后（2026-04-06 →）的进展只在 Simon 手机；SKD/CKD 能力承诺是否得到 SmartByte/HRUI 支持未核
 
@@ -157,9 +158,10 @@ updated: 2026-10-29
 - **KP**：Shantanu Rana（）shantanu.kumar@hfcl.com 〔用户表〕
 - **KP**：Mahendra Nahata（发起人 / Managing Director（上市公司；不直接联系）（第 91 批 官方登记核实 2026-10-27）） 〔https://www.thecompanycheck.com/company/hfcl-limited/L64200HP1987PLC007466〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来；A6 真回≥3+对位（任何区域）
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

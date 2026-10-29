@@ -79,11 +79,12 @@
    "source": "PI.zip 单据"
   }
  ],
- "notes": "A 维持（已成交 + 美国 + 名字明确）但体量小；守界：其 GSA/联邦渠道受 TAA 约束——中国产品只报商业客户用途，不做 GSA 目录承诺；P1 = STI-110GE（MC）复购，20% 经销档。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：deep/facts。\nA 维持（已成交 + 美国 + 名字明确）但体量小；守界：其 GSA/联邦渠道受 TAA 约束——中国产品只报商业客户用途，不做 GSA 目录承诺；P1 = STI-110GE（MC）复购，20% 经销档。",
  "researched_at": "2026-10-22",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1"
+  "level": "深挖 v1 + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "52 NETWORKS, INC.（Virginia，2018-03-12；UEI FV4KBSNE5S75 · CAGE 907X4；SAM 有效至 2027-06-15）",
@@ -331,6 +332,14 @@
     "quote": "Marvell AC5 based L2+ switch… 24 Port PoE af/at… 10G Fiber Uplinks… Price: 170USD/PC",
     "why": "最近一次报价点（群发式）",
     "k": "9fc5dd871aabe856"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "52Networks: Buy Bulk Ethernet Cables – Cat5e, Cat6, Cat6A — Buy bulk ethernet cables — Cat5e, Cat6 & Cat6A in 100% solid bare copper, plenum & riser. ETL listed, Fluke tested, fast US shipping. Shop bulk pricing.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://52networks.com/"
    }
   ],
   "proof_gaps": [
@@ -342,5 +351,12 @@
    "body": "Hi John,\n\nA direct question rather than a new-product mail: the two STI-288GP industrial PoE units you bought from us in July 2025 — did they end up in a commercial/state project, or were they meant to replace the Transition SISTP1040-382-LRT on your GSA listing?\n\nIf GSA was the target, I should be honest: our switches are made in China, so they are not TAA-compliant and cannot go on the schedule. For open-market or state/county work the same unit is still $58 USD EXW (power supply MEAN WELL NDR-240-48 $40), and the managed version STI-288DGGPM is available if a project needs VLAN/ring.\n\nIf there is nothing on your side right now, just say so and I will not keep sending catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:20Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
  }
 }

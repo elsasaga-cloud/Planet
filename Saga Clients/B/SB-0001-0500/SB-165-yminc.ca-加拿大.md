@@ -112,7 +112,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（timeout）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（yminc.ca：超时（站慢或封锁），2026-10-21，第 1 次）
 - **是谁**：加拿大 YM Inc（yminc.ca；2025 年阿里巴巴 RFQ「工业 PoE Extender」；KP Mario Elia；官网 timeout，业务范围待核）；表内未跟进。
 - **类型**：网络/安防贸易商（加拿大，PoE 延长器 RFQ）
 - **【用户表】表内兴趣/备注**
@@ -122,7 +122,8 @@ updated: 2026-10-29
   > 2025年使用国际站 / 工业PoE Extender / from: 阿里巴巴RFQ
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Mario Elia（Director, Network Infrastructure（YM Inc.；2025–；终端 IT 采购）= 收件人（第 112 批 官方登记核实 2026-10-28））mario@yminc.ca 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

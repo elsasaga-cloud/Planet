@@ -55,10 +55,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "Cumhuriyet Mah. Ziya Gökalp Cad. No 9/3, Kızılay, Çankaya / Ankara",
@@ -143,6 +144,14 @@
     "quote": "switch；switch 有海思的",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "BABURTECH BİLİŞİM A.Ş. BİLGİSAYAR, ORİJİNAL LAPTOP YEDEK PARÇA 0850 302 06 47 — Laptop Yedek Parça, Ankara Laptop Yedek Parça, Laptop Parça, Lcd Panel, Batarya, Laptop Klavye, Ankara Laptop Tamiri, Ankara Laptop Yedek Parçası, Laptop Yedek Parçaları, Laptopçu, Laptop Lcd Panel, Ekran, Laptop Fan, La",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.baburtech.com/"
    }
   ],
   "proof_gaps": [
@@ -150,5 +159,41 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:49:03Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "destek@baburtech.com"
+  ],
+  "phones": [
+   "+90 554 558 82 82",
+   "+90 850 302 06 47",
+   "0002908 0.0"
+  ],
+  "social": [
+   "https://tr.linkedin.com/company/baburtechbilisim",
+   "https://www.facebook.com/baburtechteknoloji",
+   "https://www.instagram.com/baburtech/",
+   "https://www.youtube.com/channel/UCeg6cn9wL5HRzVZkT0Upn0Q"
+  ],
+  "models_on_site": [
+   "C740-15IML",
+   "FYG41",
+   "NM-C431",
+   "PV152501334",
+   "E1504FA-BQ4891",
+   "DAH98AMBAD0",
+   "SVP11",
+   "NOD32"
+  ],
+  "url": "https://www.baburtech.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

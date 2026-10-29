@@ -57,10 +57,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "韩国",
@@ -178,6 +179,14 @@
     "quote": "Hi, Eugene, Sorry for the late reply. 1. We updated our product links, please see attached info. Just to let you know, there will be another update about the features soon. 2. There is also info about CENTEC switches. But the prices are not available yet. Memory prices have risen too much recently,…",
     "why": "Saga 实质答复原文（主题「Re: Fw: OEM Core Switching Solution」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
     "k": "497037e504e55533"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "엠씨에스솔루션 | 네트워크 솔루션·ICT·IoT 전문기업 — (주)엠씨에스솔루션은 네트워크 통합, 클라우드, IoT, AI, IT 아웃소싱 등 종합 IT 서비스와 솔루션을 제공하여 고객의 비즈니스 경쟁력을 높이는 ICT 전문기업입니다. 혁신적인 IT 기술과 신뢰성 있는 서비스를 바탕으로 다양한 산업의 디지털 혁신을 지원합니다",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.mcss.co.kr/"
    }
   ],
   "proof_gaps": [],
@@ -186,5 +195,36 @@
    "body": "Hi Eugene,\n\nIn January you asked which of our products support OEM / white-label and how it works; my February reply only gave links, so here is the actual answer.\n\n- White-label is available on every switch we ship: your logo, model name, MAC range, login IP and SNMP OID, at no charge, from 1 unit.\n- Front-panel PVC overlay is tooled per batch (MOQ 300); a colour box with your artwork is $2.5/set from 200 sets.\n- KC certification stays on your side; we supply CE / FCC / RoHS files and test reports.\n\nReference prices (USD EXW, 15-day validity, MOQ 1):\n- STC-28DGGPM — 8 × PoE+ + 2 × 1G/2.5G SFP, L2+ managed (Marvell AC5): $87.4\n- STC-424XGGPM-280W — 24 × PoE+ + 4 × 10G SFP+, L2+ managed, 280 W: $180 (our August mail said $170 — that round closed in September)\n- STI-288GPM — DIN-rail 8 × PoE + 2 × SFP, managed, −40~75 °C: $85.5\n\nOne question: which model would you white-label first, and for which customer type (SI projects or your online shop)?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:26:53Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@mcss.co.kr"
+  ],
+  "phones": [],
+  "social": [
+   "https://www.facebook.com/www.mcss.co.kr/?locale=ko_KR%2F",
+   "https://www.instagram.com/mcssolution?igsh=MWpycG9ydWRuaTdreQ%3D%3D",
+   "https://www.youtube.com/@mcssolution"
+  ],
+  "models_on_site": [
+   "IGS-6325-8UP2S2X",
+   "UCK-G2-PLUS",
+   "TAP100",
+   "RUT976",
+   "GS-4210-8P2S",
+   "ICG-2515P-NR",
+   "USW-16-POE-KR",
+   "USW-24-POE-KR"
+  ],
+  "url": "https://www.mcss.co.kr/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

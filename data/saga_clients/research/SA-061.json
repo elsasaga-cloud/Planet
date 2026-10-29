@@ -47,7 +47,7 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "规格明确（12 光 12 电，2 台）、3 次回复、WA 在线 → 可追溯真实需求且小单可成；南美非主攻区但不需额外投入。P1：SmartByte 12 光 12 电管理型（按 docs/smartbyte/products 核对 24 口 combo 机型，报价前核价），项目价阶 25%。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：fail#1。\n规格明确（12 光 12 电，2 台）、3 次回复、WA 在线 → 可追溯真实需求且小单可成；南美非主攻区但不需额外投入。P1：SmartByte 12 光 12 电管理型（按 docs/smartbyte/products 核对 24 口 combo 机型，报价前核价），项目价阶 25%。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
@@ -175,5 +175,14 @@
    "body": "Hi, Simon from Saga Telecom. On the two 12-SFP + 12-RJ45 units: before I quote, is it for your own SOC rack or a client site, and do you need L3 (routing between VLANs) or is L2+ enough? With that I quote the right build rather than a generic one."
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:38Z"
+  ],
+  "fails": [
+   "2026-10-21"
+  ],
+  "batch": "LT-T03"
  }
 }

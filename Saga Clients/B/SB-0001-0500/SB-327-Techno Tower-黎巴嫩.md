@@ -125,7 +125,8 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Amine Abou Jaoude (Abou-Jaoudeh)（General Manager（家族企业；kompass 所有者 Fadi J. / Grace Y. Abou Jaoudeh；2024-04 问价）= 收件人 — 一页纸一次：分销 20% B、STC-028GP $28 / STC-228GP $33 / STC-2216GP / STC-2224GP $86 一口价 + MOQ 1 + 付费样机 — 黎巴嫩常规：英文稿、20 / 25 / 30 + T/T 预付 100%（不接受信用证）+ FOB 深圳 或 DAP 贝鲁特（第 121 批 官方登记核实 2026-10-29））amine@technotower-lb.com +961 3 839 839（WA 已加）〔用户 Clients 表 + Kompass〕
 - **KP**：Fadi J. Abou Jaoudeh（Owner（kompass 2026-10-29；无公开邮箱）（第 121 批 官方登记核实 2026-10-29）） 〔〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + Kompass/海关记录核对））
 

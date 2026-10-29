@@ -54,6 +54,7 @@ updated: 2026-10-29
 | 2024-06-26 | 来 | satis@konakguvenlik.com.tr | Hello, Do you have a product with the features in the description? Thank you Erkut Sevin +905315637721 network-switches-AT-FS750-28-30 15:21, 14 Hazir | 来信原文（主题「Re: L2 managed switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `f2187e6f5c356bda` |
 | 2024-06-26 | 去 | Simon → Erkut Sevin（Re: L2 managed switch；附 STC-4424GCPM.pdf） | 对「Do you have a product with the features in the description? network-switches-AT-FS750-28」的回复：「We just have a similar model (difference: 24 port Gigabit Ethernet, With PoE, more ports). Please check the datasheet」→ 给的是 STC-4424GCPM（24 GE PoE + 4 Combo，L2 管理）；6-30 又推 24 口被动 PoE → 无回。 | Erkut 要的是 **Allied Telesis AT-FS750/28 的等价物**（24×FE + 2×GE Combo + 2×SFP，WebSmart，非 PoE，低价）——Simon 给了 PoE 千兆 L2 机，口径没对上（价位差一个量级）。土耳其安防集成商，重启时直接按「百兆 24 口 Web 管理非 PoE」给 STC-2216/2224 系列价而不是 4424GCPM；群发里他已见 448XGGM $220（2024-06-14） | `k=8c1d7c507bf9d631（S 邮箱 2024-06-26 09:14Z）` |
 | 2024-11-05 | 去 | Simon → Angora Networks（SA-077）附件 Turkey Client List.xlsx | 名单行：「90 5315637721 Commercial POE satis@konakguvenlik.com.tr https://www.konakguvenlik.com.tr/k/2539-.html」 | Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持） | `gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Anasayfa — Anasayfa -Güvenli E-Ticaret,Motif Kart,Sendika,MemurSen, Alışveriş,İndirim, Kupon, Ucuz, Kaliteli, Vakıf,Elektronik, İnşaat, Okul, Bilgisayar,Tablet, Sanat,Kamera.Alarm | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）
 
@@ -153,9 +154,10 @@ updated: 2026-10-29
   > 洪瑞 丰润达的商业POE
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Erkut Sevin（）satis@konakguvenlik.com.tr 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

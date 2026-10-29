@@ -58,6 +58,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | Ady加了WhatsApp， 拿了彩页 / Predrag / stasanet.rs | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Alarmi i alarmni sistemi Video nadzor Interfoni STASANET — Stasanet DOO se bavi uvozom i distribucijom sigurnosne opreme: alarmni sistemi, video nadzor, kontrola pristupa. Pružićemo najbolje i najoptimalnije rešenje za vaš poslovni ili stambeni objekat. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库
 
@@ -114,7 +115,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线
 - **是谁**：贝尔格莱德的安防技术分销商 Stasanet d.o.o.（2013-10-29 注册；MB 20967374；布拉格 Stasanet s.r.o.（欧洲安防分销商）的第 8 家、最小的分公司，MVA Group s.r.o. 持股 85%、董事 Predrag Čegar 15%；2–10 人；2014-01 首批进口；Jablotron 报警等；Kneza Stracimira 28 / Vojvode Hrvoja 28, Beograd；+381 65 247 0170；sales@stasanet.rs）。ISAF 记录：Predrag（= 董事 Predrag Čegar，待核）——Ady 加了 WhatsApp，拿了彩页；无后续跟进。国家更正：实为塞尔维亚（用户表「土耳其」= 参展地）；塞尔维亚属不主动开发的小国，但对方已在 ISAF 接触 → 被动跟进 B 20%。
-- **在卖/在用品牌**：Jablotron（合作伙伴）
+- **在卖/在用品牌**：Jablotron（合作伙伴）, Hikvision, Dahua, MikroTik, Teltonika
 - **【登记名录】法人、地址、董事、股东**
   > STASANET doo je registrovano na adresi KNEZA STRACIMIRA 28, 11050, Beograd (Vračar), Srbija i posluje od 29.10.2013. … kontakt email cegar@stasanet.rs. Trenutni direktor je Predrag Čegar. Vlasnik: Predrag Čegar(15,00%) Vlasnik: MVA GROUP s.r.o.(85,00%) … Veličina preduzeća: Mikro
   > 来源：https://www.companywall.rs/firma/stasanet-doo/MMrzq2Z0（抓取 2026-10-21）
@@ -128,9 +129,10 @@ updated: 2026-10-29
   > Ady加了WhatsApp， 拿了彩页 / Predrag / stasanet.rs
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Predrag Čegar（Direktor + 法定代表 + **15% 股东**（85% = 捷克 MVA GROUP s.r.o. / 布拉格 Stasanet 集团）= 经营者 = 联系人，大额采购布拉格拍板；公司 = Dahua 塞尔维亚分销（dahua.rs）、<5 人、营收 50–100 M RSD（≈ €0.4–0.85 M）（第 88 批 官方登记核实 2026-10-27））cegar@stasanet.rs（登记公开） +381 65 247 0170（公开；用户表 WhatsApp 已加）〔https://www.companywall.rs/firma/stasanet-doo/MMrzq2Z0〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 国别由表内「土耳其」更正为「塞尔维亚」（country_fix，依据见加厚块）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 国别由表内「土耳其」更正为「塞尔维亚」（country_fix，依据见加厚块）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（登记 + 官网核对；国家更正 RS））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（登记 + 官网核对；国家更正 RS） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

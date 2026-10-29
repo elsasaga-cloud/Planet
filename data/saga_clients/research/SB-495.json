@@ -60,10 +60,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "Warehouse Unit K-11, Dubai Airport Free Zone, Dubai, UAE (P.O. Box 54791；+971 4 299 1162)（第 117 批 官方登记核实 2026-10-28）",
@@ -229,6 +230,14 @@
     "quote": "分销商 3旺等；分销很多牌子（3旺、Nsgate）",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Topnet Distribution | information and communication technology — We work through systems integrator, telecom installers and value added re sellers who work with the end users to implement projects in the information and communication technology industry.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.topnetdistribution.com/"
    }
   ],
   "proof_gaps": [],
@@ -244,5 +253,31 @@
   "note": "桌面复核（研究档类型 + 对位首推）：ICT 分销商（阿联酋，3onedata / Nsgate / B+B 工业线）；切入：在售 3onedata / Nsgate 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-288GP 同口型替换；MC 位 STI-110GE；行业内 ✔ 对位 ✔（宽留冷「不对位」系 fit 标志未回填，非真不对位）",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": []
+ "override_history": [],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:42:12Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [
+   "+971 4 299 1162",
+   "+971 4 299 1163"
+  ],
+  "social": [
+   "https://twitter.com/topnetdxb",
+   "https://www.facebook.com/topnet.ae/",
+   "https://www.linkedin.com/company/topnet-distribution-fzco-dubai?trk=top_nav_home"
+  ],
+  "models_on_site": [
+   "ICR-1745",
+   "TE350"
+  ],
+  "url": "https://www.topnetdistribution.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

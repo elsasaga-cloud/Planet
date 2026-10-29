@@ -43,10 +43,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对：台系制造商 OEM，已送样）"
+  "level": "B 级加厚 v1（官网快照核对：台系制造商 OEM，已送样） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "定揚科技股份有限公司 Volktek Corp.（統一編號 未取；1994 年成立）",
@@ -121,10 +122,44 @@
     "quote": "兴趣：想OEM 工业级L2 L3管理需求 对bypass有兴趣，送了样品，对CWDM有一些了解",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Industrial Ethernet Switches & PoE Solutions | Volktek Taiwan — Volktek is a leading Taiwan-based company and manufacturer established in 1994. With our own advanced in-house factory and SMT/DIP production lines, we serve as a premier global supplier of industrial Ethernet switches and PoE solutions",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.volktek.com/index_en.php"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:23:44Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [
+   "+886-2-8242-1000",
+   "+886-2-8242-3333"
+  ],
+  "social": [
+   "http://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.volktek.com%2Fnewsdetail_en.php%3Fid%3D66781",
+   "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.volktek.com%2Fnewsdetail_en.php%3Fid%3D66781",
+   "https://www.facebook.com/volktek/",
+   "https://www.instagram.com/volktek_/?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr"
+  ],
+  "models_on_site": [
+   "RS232"
+  ],
+  "url": "https://www.volktek.com/index_en.php",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

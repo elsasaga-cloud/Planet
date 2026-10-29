@@ -53,10 +53,11 @@
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "TP. Hồ Chí Minh（Q.12 或 Tân Bình，待定）（第 119 批 官方登记核实 2026-10-28）",
@@ -123,6 +124,14 @@
     "quote": "Hasivo的商业POE；商业POE为主；商业PoE 主要是hasivo的",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Siêu Thị Viễn Thông – Thiết Bị An Ninh, Mạng, Viễn Thông Chính Hãng — Cung cấp thiết bị viễn thông, an ninh, mạng máy tính, thiế bị văn phòng chính hãng. Giá tốt, giao hàng toàn quốc, hỗ trợ kỹ thuật chuyên nghiệp.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://sieuthivienthong.com/"
    }
   ],
   "proof_gaps": [
@@ -130,5 +139,42 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:25:47Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "cskh@sieuthivienthong.com",
+   "info@sieuthivienthong.com"
+  ],
+  "phones": [
+   "000 500.000 - 1.000.000",
+   "000 500.000 - 1.000.000 1.000.000 - 2.000.000 2.000.000 - 5.000.000",
+   "000 500.000 - 1.000.000 1.000.000 - 2.000.000 2.000.000 - 5.000.000 5.000.000 - 10.000.000 10.000.000 - 50.000.000 50.000.000 - 100.000.000 100.000.000 - 200.000.000"
+  ],
+  "social": [
+   "http://www.facebook.com/sharer.php?u=https://sieuthivienthong.com/",
+   "http://www.facebook.com/sharer.php?u=https://sieuthivienthong.com/camera-dahua.html",
+   "http://www.facebook.com/sharer.php?u=https://sieuthivienthong.com/camera-ip.html",
+   "http://www.facebook.com/sharer.php?u=https://sieuthivienthong.com/contact-closure-converter.html"
+  ],
+  "models_on_site": [
+   "RS485",
+   "RS422",
+   "RS232",
+   "DS-2CD1T43G3-LIU",
+   "DS-2CD1143G3-LIU",
+   "DS-2CD1147G3-LIUF",
+   "RG-ES208GC-V2",
+   "GP-D300II"
+  ],
+  "url": "https://sieuthivienthong.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

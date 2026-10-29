@@ -59,10 +59,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "Office 204, Building 1, Emaar Business Park, Sheikh Zayed Road, Dubai, UAE (P.O. Box 29505；+971 4 447 1137)；分支 Al Khobar（+966 13 850 6010）/ Riyadh（+966 11 275 1110）/ Muscat（第 119 批 官方登记核实 2026-10-28）",
@@ -164,6 +165,14 @@
     "quote": "Managed PoE Switches",
     "why": "本日去信真实主题（邮箱索引 2150ec8205635643；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封）",
     "k": "2150ec8205635643"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Industrial Automation & Data Communication Distributor | eWorld — Easy World is a trusted distributor of global technology brands, delivering IIoT, data communication, industrial automation, and networking products across the Middle East.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://eworldme.com/"
    }
   ],
   "proof_gaps": [],
@@ -173,5 +182,34 @@
   },
   "as_of": "2026-10-24"
  },
- "country_fix": "阿联酋"
+ "country_fix": "阿联酋",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:46:17Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "ewleads@eworldme.com",
+   "info@eworldme.com",
+   "sales@eworldme.com"
+  ],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "TN-G6500",
+   "RM-G4000",
+   "EDS-G205A",
+   "EDS-P500",
+   "MDS-G4000",
+   "TN-5000",
+   "EDS-4000",
+   "EDS-P206A"
+  ],
+  "url": "https://eworldme.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

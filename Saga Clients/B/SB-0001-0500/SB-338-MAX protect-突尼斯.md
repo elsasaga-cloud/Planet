@@ -59,6 +59,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-14 | 去 | A 群发 | Industrial PoE Switch、16 Port Ethernet Switch | 16 封 / 0 次打开 / 0 回｜首封 2025-03-20 → 末封 2026-09-14（16 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：很在意价格，便宜卖了一台VSC2光8电带网管，带PoE的样品给他 40美金 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Max Protect – Vidéosurveillance, alarme et sécurité partout en Tunisie — Caméras de surveillance, alarmes, visiophones et détection incendie Dahua, Uniview, Imou, Ajax, Elkron. Installation et livraison partout en Tunisie. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -130,9 +131,10 @@ updated: 2026-10-29
   > 兴趣：很在意价格，便宜卖了一台VSC2光8电带网管，带PoE的样品给他 40美金
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Aymen Gabsi（Manager（研究档 KP；$40 购 2 光 8 PoE 管理样品）= 收件人 — 一页纸一次：分销 20% B、问测试结果 + STC-228GP $33 / STC-028GP $28 整箱 10 台一口价 + MOQ 1；法语；在售品牌不点名 — 非洲常规：英文稿（法语区附法语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29））direction@max-protect.com +216 98 508 507〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：已购样））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：已购样） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

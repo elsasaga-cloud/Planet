@@ -54,6 +54,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-30 | 去 | A 群发 | 24 Port PoE Managed Switch、Firmware 7.5 L2+ Feature Update | 4 封 / 0 次打开 / 0 回｜首封 2026-06-24 → 末封 2026-09-30（4 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 几个小有名气的牌子；max: 41% A 西班牙工业网络专业渠道/方案商，核心围绕工业联网与工业交换机，客户偏技术型和项目型 建议直接发送工业交换机完整矩阵、CLI/MIB支持能力与ERPS方案，强调可做功能/界面定制；优先探查其是否承接工 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | MATRIX - Desarrollo de Soluciones IoT. Módulos y equipos electrónicos — Desarrollo de soluciones IoT. Fabricación y suministro de módulos y equipos electrónicos para diseñadores e integradores de sistemas. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -126,9 +127,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Daniel Cortes（研究档 KP Daniel Cortes（info@）= 收件人（第 110 批 官方登记核实 2026-10-28））info@matrix.es 〔用户表〕
 - **KP**：Jose Miguel（） 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

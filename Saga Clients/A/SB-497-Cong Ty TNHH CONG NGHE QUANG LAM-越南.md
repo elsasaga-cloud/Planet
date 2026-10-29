@@ -56,6 +56,7 @@ updated: 2026-10-29
 | 2026-02-13 | 来 | Lam Ho（Quang Lam，越南） | （Gmail emoji reaction 💖，无正文） | 非实质 | `gmail_e` |
 | 2026-08-10 | out | Elsa → lamho@quanglam.com.vn | 24 Port PoE Managed Switch（Elsa 1:1 第 2/2 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(o) `from:e.sagatelecom to:quanglam.com.vn` 全程 complete：2 行；To=本户 ⇒ 1:1 直收 | `elsa_1to1` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：工业交换机;AOA的工业FS比较多 有自己的logo MC VC FS 周边产品 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Thiết bị và phụ kiện quang – Công ty TNHH Công Nghệ Quang Lâm — Phân phối Thiết bị quang. Sản xuất Dây nhảy, dây nối quang, Hộp ODF. Phân phối Module quang SFP, SFP+, XFP, GBIC, QSFP,...Thiết bị GPON OLT, ONU..., Dụng cụ thi công quang, Máy đo viễn thông. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：（已核 2026-10-24，第 73 批）Elsa 邮箱唯一往来 = 2026-02-13「DWDM Core Switching Solution」群发 → lamho@quanglam.com.vn 同日仅 Gmail 表情「💖」；用户表「WhatsApp 已加·未回复」在 Simon 手机，邮件侧无文字回复
 
@@ -119,9 +120,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Hồ Lâm (Ho Lam)（CEO（研究档 + 黄页公开；自有品牌 Wintop）= 拍板人 / 收件人 — 一页纸一次：贴标 OEM 30% B（升 A 候选 ★）、Wintop 标 / 中性包装 STI-288DGGPM / STI-488DGGPM / STI-154GP + STC-2224GP / 4424GCPM，MOQ 起订 + 付费样机、MC 仅 STC-110XGE 明说 — 越南常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、MIC 不声称（第 119 批 官方登记核实 2026-10-28））lamho@quanglam.com.vn +84 908 505 685〔（本地 Clients/ 表格，无公开 URL）〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：自有品牌 OEM））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：自有品牌 OEM） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

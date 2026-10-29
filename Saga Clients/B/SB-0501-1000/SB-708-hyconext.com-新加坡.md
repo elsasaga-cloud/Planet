@@ -56,6 +56,7 @@ updated: 2026-10-29
 | 2026-09-22 | 去 | A/S 群发 | Industrial PoE Switch、24 Port PoE Managed Switch | 25 封 / 1 次打开 / 0 回｜首封 2024-06-29 → 末封 2026-09-22（25 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 商业交换机 | 表内备注 | `用户表` |
 | 2026-09-22 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 83d748429b800b7c；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `83d748429b800b7c` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Innovative Connectivity with Advanced Networking Solutions — Hyconext: Innovative networking solutions from PoE switches to data center innovations. We redefine connectivity for a reliable and efficient future. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -152,9 +153,10 @@ updated: 2026-10-29
 - **【用户表】商业交换机**
   > 商业交换机
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -61,6 +61,7 @@ updated: 2026-10-29
 | 2024-09-30 | 去 | S 箱（Simon） | Mini Industrial PoE Switch | 首封去信（邮箱索引；去信共 17 封） | `0f1649253578b2ab` |
 | 2025-04-21 | 去 | Saga（群发） | 「90W PoE Managed Switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `8e20d308a9952ad4` |
 | 2026-09-25 | 去 | A 箱（Alan） | Managed PoE Switches | 最近一封去信（邮箱索引；去信共 17 封） | `f9316e06662a1d36` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Transmisja światłowodowa i sieci światłowodowe. Światłowody, media konwertery, moduły SFP. Znakowanie zwierząt. — Projektowanie sieci światłowodowych, urządzenia światłowodowe, splittery optyczne PLC, multipleksery CWDM i DWDM, transmisja CATV w sieciach FTTH | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：TLD 穷举未见 Elsa 去信、Replied 索引亦无此户），仓库未见原文
 
@@ -148,9 +149,10 @@ updated: 2026-10-29
   > RF-GP2408PGM-INDU-POE-NNT to 6-portowy przełącznik przemysłowy PoE, który obsługuje do 4 * 10/100/1000M portów PoE, 1 * 10/100/1000M port uplink i 2 * 1000M SFP
   > 来源：https://www.rfog.pl/produkt,3330,przemyslowy-zarzadzalny-przelacznik-switch-gigabit-2xsfp-1000m-4xeth-10-100-1000m-30w-poe-rf-gp2408pgm-indu-poe-nnt（抓取 2026-10-21）
 - **KP**：Tomasz Paszkowski（业主（CEIDG 个体经营 RFOG POLAND TOMASZ PASZKOWSKI，2011-02-22；NIP 8571157213 · REGON 811833063）= 老板 = 联系人；兼 ARiMR 动物标识政府供应商（第 85 批 官方登记核实 2026-10-27））tomasz.paszkowski@rfog.pl +48 602 794 466（官网）〔Clients/A/DONE/PL.xlsx〕
-- 备注：A 确认（欧洲分销 + 已贴牌 N-Net 工业 PoE + 已回复）：对位 RF-GP2803PGM ≈ STI-288DGGPM（8GE PoE + 2SFP 工业网管），20% 分销 / 贴牌 30%；MC 对位 STI-110GE。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+A 确认（欧洲分销 + 已贴牌 N-Net 工业 PoE + 已回复）：对位 RF-GP2803PGM ≈ STI-288DGGPM（8GE PoE + 2SFP 工业网管），20% 分销 / 贴牌 30%；MC 对位 STI-110GE。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1）
+### 加厚挖掘（2026-10-21 · 深挖 v1 + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

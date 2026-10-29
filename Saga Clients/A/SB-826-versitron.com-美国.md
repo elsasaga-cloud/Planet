@@ -85,6 +85,7 @@ updated: 2026-10-29
 | 2025-10-31 | 来 | Greg | We are trying to offer stacking as an alternative to Cisco. | 目标对手 | `401b90aaadcce218` |
 | 2026-03-11 | 去 | Simon | Finally, our "stacking" feature is available on all models… I guess you mean Cisco Catalyst 9300 Switches? This is fine. | 宣布可用；只收到 OOO | `3cab7e50e48fea36` |
 | 2026-03-11 | 来 | 自动回复 | 自动回复（Greg Massott 2026-03-11 休假）里指定「contact R.W. Tull at rwtull@versitron.com」 | Versitron 内部第二个具名入口（R.W. Tull）；三年只跟 Greg 一人谈，这是绕开单点的现成地址 | `4ac602505b7d8db3` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Secure & Reliable Fiber Optic Connectivity Solutions — Versiton specializes in designing and manufacturing copper-to-fiber connectivity solutions tailored for data, voice, and video applications across diverse industries. Our products are backed by a lifetime warranty and renowned for their exceptio | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：2026-03-11 之后 Greg 是否读信（只有自动回复 4ac602505b7d8db3）；（已核 2026-10-24，第 73 批）2026-03-11 S 邮箱去信附件 = 「STH1G Series.pdf」+「Dual AC.jpg」→ 发的是 CENTEC STH1G 系列资料（不是 AC5），正文却写「stacking available on all models」——信稿已据此纠正：只有 STH 堆叠，Marvell 不堆叠
 
@@ -188,9 +189,10 @@ updated: 2026-10-29
 - **KP**：Greg Massott（）gmassott@versitron.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Richard W. Tull（President（cage.report 现任负责人；新闻稿署名 R. W. Tull）= 老板 / 拍板人；邮箱来自 2026-03-11 OOO 自动回复（k=4ac602505b7d8db3），从未发过（第 86 批 官方登记核实 2026-10-27））rwtull@versitron.com 〔https://cage.report/DUNS/837605443〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A1 复购/绑定≥中度；A3 真人往来+对位+四主区+坐实/自牌；A6 真回≥3+对位（任何区域）
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 针对性加厚 2026-10-22（S 邮箱 50 封通读：三年关系、4 次报价、堆叠需求链，T29-U13 ②）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 针对性加厚 2026-10-22（S 邮箱 50 封通读：三年关系、4 次报价、堆叠需求链，T29-U13 ②）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

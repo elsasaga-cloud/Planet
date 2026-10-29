@@ -51,6 +51,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 16槽收发器机架 / from: 阿里巴巴询盘 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | TGM GLOBAL PTE LTD \| Striving Beyond Expectation | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -121,9 +122,10 @@ updated: 2026-10-29
 - **KP**：Lau Ghee Siang（）gheesiang.lau@global-tgm.com 〔用户表〕
 - **KP**：Chee Wei Jun（）weijun.chee@global-tgm.com 〔用户表〕
 - **KP**：Chang Poo Geok（Key Principal（D&B）— 不动，不发（第 117 批 官方登记核实 2026-10-28）） 〔dnb.com TGM GLOBAL PTE. LTD.〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -66,10 +66,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "印度",
@@ -227,10 +228,50 @@
     "quote": "工业FS MC 线缆 Pon 周边产品 洪瑞 Upeto的工业FS 新桥商业 洪瑞工业 https://www.digisol.com/product/switching-solutions/industrial-switches/",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Digisol – Leading Networking & IT Solutions in India — Digisol is a leading networking brand offering \"Made In India\" IT Networking solutions. Explore our innovative network products and technology.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.digisol.com/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:45:07Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "helpdesk@digisol.com"
+  ],
+  "phones": [],
+  "social": [
+   "http://www.youtube.com/c/DIGISOL",
+   "https://twitter.com/DIGISOL_SNSL",
+   "https://wa.me/919607893444",
+   "https://www.facebook.com/DIGISOLINDIA/"
+  ],
+  "models_on_site": [
+   "DG-MC5123S-PTL",
+   "DG-IS4628FSE",
+   "DG-IS4628HPSE",
+   "DG-IS1010GP",
+   "DG-IS1006GP",
+   "DG-IS1010G",
+   "DG-IS1006G",
+   "DG-IS1005G"
+  ],
+  "url": "https://www.digisol.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

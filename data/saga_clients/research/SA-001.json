@@ -76,11 +76,12 @@
    "date": "2026-10-23"
   }
  ],
- "notes": "成单客户，S 重点名单；下一步按老客户回访做，主推工业 PoE 整线（替代其在卖的 ONV）。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n成单客户，S 重点名单；下一步按老客户回访做，主推工业 PoE 整线（替代其在卖的 ONV）。",
  "researched_at": "2026-10-22",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1"
+  "level": "深挖 v1 + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Astel Digicom（asteldigicom.com；关联 AVSS Group，用户表邮箱域 eim.ae）",
@@ -343,6 +344,14 @@
     "quote": "We have processed your payment… Shipping address and Shipping marks have been advised on WeChat.",
     "why": "付款；邮件到此为止",
     "k": "0cc642cb3b5505fb"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Astel Digicom I House of all kinds of cables and connectors — Looking forward to buying elevator cable or networking cable or fiber optic cable in Dubai? Astel Digicom provides all types of cables, connectors, splice machine, networking equipment. Order Now.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://asteldigicom.com/"
    }
   ],
   "proof_gaps": [
@@ -360,5 +369,35 @@
   "web_watch_targets": "scripts/web_watch/targets.json#SA-001",
   "status": "data/customer_watch/当前状态.md",
   "log": "data/customer_watch/变化日志.md"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:19:33Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "asteldigicom@eim.ae"
+  ],
+  "phones": [
+   "+971-4 2523480",
+   "+971-4-2523470"
+  ],
+  "social": [],
+  "models_on_site": [
+   "RG500",
+   "IEEE802",
+   "AST-IMC-M-4E2U2S-PSE",
+   "AST-IMC-M-GB-8E2U2S-PSE",
+   "AST-IMC-PSU-48V-2",
+   "DR-120-48",
+   "AST-MC-14",
+   "SPL-802"
+  ],
+  "url": "https://asteldigicom.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

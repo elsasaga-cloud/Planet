@@ -54,6 +54,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-06 | 去 | A 群发 | 10G Enterprise SFP Switch、Industrial PoE Switch | 12 封 / 0 次打开 / 0 回｜首封 2025-09-30 → 末封 2026-10-06（12 去 / 0 来） | `gmail_digest` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Rima \| Kurumsal GÃ¼venlik ve BiliÅim ÃÃ¶zÃ¼mleri — Ä°Åletmenizin ihtiyaÃ§larÄ±na Ã¶zel entegre biliÅim ve gÃ¼venlik Ã§Ã¶zÃ¼mleri sunar. AI destekli video analiz, IP kamera ve network altyapÄ± hizmetlerimizi keÅfedin. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -138,9 +139,10 @@ updated: 2026-10-29
   > Rima Elektronik is a Turkish company specialize primarily in security systems and solutions also industrial automation solutions … Sales and Installation of Security Equipment（ensun）
   > 来源：https://ensun.io/company/rima-elektronik-bilisim-ve-guvenlik-sistemleri-san-ve-dis-tic-ltd-sti-6831d40abb221e8f64779ca4-managed（抓取 2026-10-19）
 - **KP**：Aycan Türkay（Key Principal（D&B；推定 müdür / 股东）= 收件人（bilgi@rimaelektronik.com 点名）（第 98 批 官方登记核实 2026-10-28）） 〔https://www.dnb.com/business-directory/company-profiles.rima_elektronik_bilisim_ve_guvenlik_sistemleri_sanayi_dis_ticaret_limited_sirketi.d597b24a4b8d4b314b57e7a2b00e6fc1.html〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-032，W 批次调研 2026-10-19/20））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-032，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

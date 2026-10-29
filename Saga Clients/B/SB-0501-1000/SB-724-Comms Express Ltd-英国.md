@@ -133,7 +133,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（http_error）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（Comms Express Ltd：HTTP 错误，2026-10-21，第 1 次）
 - **是谁**：英国 Comms Express Ltd（网络/布线产品电商：交换机、光纤配件；表内「销售平台」「可以多跟进一下」；KP Justin Ellis（Managing Director）；官网 http_error）；群发 18 次无回复。
 - **类型**：网络产品电商（英国）
 - **【用户表】表内兴趣/备注**
@@ -143,7 +143,8 @@ updated: 2026-10-29
   > Switch 光纤配件 销售平台；可以多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Justin Ellis（Director / Managing Director（2019-03-01 任；1972-03 生；Companies House 04359914；兼 Comms Capital Holdings Ltd 董事 = 控股方）= **老板 = 拍板人 = 研究档 KP 本人**（第 94 批 官方登记核实 2026-10-28））justin@comms-express.com 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

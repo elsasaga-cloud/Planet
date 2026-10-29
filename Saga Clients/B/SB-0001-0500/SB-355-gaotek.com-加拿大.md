@@ -52,6 +52,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-06-26 | 内 | Gmail 退信（A 邮箱） | sales@gaotek.com 退信：5970.namprd18.prod.outlook.com sales@gaotek.com Remote server returned '554 5.2.2 mailbox full; STOREDR | 该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开 | `gmail_a 8765c2954f5ec178` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | IoT Hardware \| IoT Systems \| Test Equipment - GAO Tek — GAOTek is a leading global supplier of IoT hardware, IoT systems and a vast array of test equipment for all industries from it's offices in USA and Canada. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -142,9 +143,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Ashish Prakash（Network Specialist（研究档 KP Ashish Prakash；sales@gaotek.com 2025-06-26 退信 → 改经 sales@gaorfid.com / 站内表单）（第 112 批 官方登记核实 2026-10-28））sales@gaotek.com 〔用户表〕
 - **KP**：Frank Gao（Founder & CEO, Ph.D.（LinkedIn；GAO Tek Inc. 2005–）= 拍板人（邮箱未取）（第 112 批 官方登记核实 2026-10-28）） 〔https://gaotek.com/about-us/〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

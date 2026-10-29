@@ -2,7 +2,7 @@
  "code": "SB-537",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（http_error）",
+ "website_status": "快照失败（htvision.ru：HTTP 错误，2026-10-21，第 1 次）",
  "summary": "俄罗斯 HTVision（CCTV 品牌商：自有型号商用 PoE，工业 FS 有 ONV / Utepo / Ewind；表内「有很多国内的外壳」「发不过去」（邮箱退信）；官网 http_error；备注 lyvi.ru 商品链接）；群发 8 次无回复。",
  "type": "CCTV 品牌商（俄罗斯，自有型号 PoE，邮箱退信）",
  "size": "",
@@ -30,7 +30,7 @@
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
@@ -116,5 +116,14 @@
    "body": "Hello,\n\nWe have sent you a few mails on \"48 Port PoE Managed Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the PoE switches sold under the HTVision label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; industrial DIN-rail 8-PoE) in your packaging from small lots, CE/RoHS; EAC by your side — which PoE SKU do your dealers reorder most?\n\nReference price: 8-PoE + 2 × 1G/2.5G SFP L2+ managed switch (Marvell AC5), 120 W (STC-28DGGPM) $87.4 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:42:46Z"
+  ],
+  "fails": [
+   "2026-10-21"
+  ],
+  "batch": "LT-T03"
  }
 }

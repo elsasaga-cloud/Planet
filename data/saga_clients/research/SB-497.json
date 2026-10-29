@@ -39,10 +39,11 @@
  ],
  "grade_override": "A",
  "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对：自有品牌 OEM）"
+  "level": "B 级加厚 v1（官网快照核对：自有品牌 OEM） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "CÔNG TY TNHH CÔNG NGHỆ QUANG LÂM / QLC CO., LTD（MST 0310601970；NNT đang hoạt động；自有品牌 Wintop wintop.com.vn）",
@@ -136,6 +137,14 @@
     "quote": "兴趣：工业交换机;AOA的工业FS比较多 有自己的logo MC VC FS 周边产品",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Thiết bị và phụ kiện quang – Công ty TNHH Công Nghệ Quang Lâm — Phân phối Thiết bị quang. Sản xuất Dây nhảy, dây nối quang, Hộp ODF. Phân phối Module quang SFP, SFP+, XFP, GBIC, QSFP,...Thiết bị GPON OLT, ONU..., Dụng cụ thi công quang, Máy đo viễn thông.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.wintop.com.vn/"
    }
   ],
   "proof_gaps": [
@@ -153,5 +162,32 @@
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来"
   }
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:42:14Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "lamho@quanglam.com.vn"
+  ],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "AC220V",
+   "RS232",
+   "DC48V",
+   "RS422",
+   "RS485",
+   "QSFP56",
+   "IEEE802",
+   "DTX-1800"
+  ],
+  "url": "https://www.wintop.com.vn/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

@@ -31,7 +31,7 @@
  ],
  "grade_override": "B",
  "override_reason": "2011 年一次小额成交后沉寂 14 年、公司名不完整（PT. Anugerah 为常见前缀，主体待核）→ B 待机。",
- "notes": "回访一封；待补证：完整公司名与网站。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：fail#1。\n回访一封；待补证：完整公司名与网站。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
@@ -185,5 +185,14 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:21:54Z"
+  ],
+  "fails": [
+   "2026-10-21"
+  ],
+  "batch": "LT-T03"
  }
 }

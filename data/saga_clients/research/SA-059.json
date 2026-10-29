@@ -12,7 +12,16 @@
   "Synxcom",
   "Telenetics",
   "Canoga Perkins",
-  "GarrettCom"
+  "GarrettCom",
+  "Juniper",
+  "Schneider",
+  "MikroTik",
+  "Moxa",
+  "EtherWAN",
+  "Advantech",
+  "Siemens",
+  "Allied Telesis",
+  "Extreme"
  ],
  "evidence": [
   {
@@ -76,11 +85,12 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "自有品牌 DCE 的 MC/工业产品线明显为 ODM 来源 → Saga 以 STI-110GE 介质转换器 + STI 工业 FS 做 OEM 补充 SKU，价阶 30%（品牌/OEM）。美国主攻区。1 次回复后 16 次推送无果 → 换角度（给 DCE 现有 MC 型号的对位表与样品）。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n自有品牌 DCE 的 MC/工业产品线明显为 ODM 来源 → Saga 以 STI-110GE 介质转换器 + STI 工业 FS 做 OEM 补充 SKU，价阶 30%（品牌/OEM）。美国主攻区。1 次回复后 16 次推送无果 → 换角度（给 DCE 现有 MC 型号的对位表与样品）。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1"
+  "level": "深挖 v1 + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "DATA CONNECT ENTERPRISE, INC.（Maryland Subchapter S Corp，1989-01-13；SAM.gov 在册至 2026-08-29；DLA 供应商）",
@@ -248,6 +258,14 @@
     "quote": "24 Port PoE Managed Switch｜ $180（原句：*Price: 180USD/PC*）",
     "why": "S 邮箱报价史（规则 ㉕ ① 自报价优先）",
     "k": "481d052423caa372"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Data Connect Enterprise 1-888-492-6526 Networking Solutions Provider",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.data-connect.com"
    }
   ],
   "proof_gaps": [],
@@ -256,5 +274,35 @@
    "body": "Hello DCE team,\n\nYour ANS208 and ANS205CR are 10/100 non-PoE; a gigabit PoE refresh under the DCE label from small lots: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, unmanaged, -40 to 75 C, FCC/CE/RoHS - model STI-288GP - $62.2 USD EXW (MOQ 1, 15-day validity); 4 x PoE+ + 1 x SFP - STI-144GP - $36.9; the 8 + 2 also as an L2+ managed version on a Marvell platform - STI-288DGGPM - $137.5. The gigabit SFP converter matching your GMC series - STI-110GE - $26.5.\n\nOne question: who owns the industrial switch and converter line at DCE now, so I send the model-by-model table to the right inbox?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:38Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@data-connect.com"
+  ],
+  "phones": [
+   "001-09 14-102500",
+   "009-001 78-1017-0001 04-1007-001 04-1011-001 04-2001-002 04-2003-002 04-2002-002 04-2004-002 01-9002-001"
+  ],
+  "social": [],
+  "models_on_site": [
+   "OC-12",
+   "M160-FPC1",
+   "STM-1",
+   "STM-4",
+   "M160-FPC2",
+   "STM16",
+   "OC-48",
+   "STM-64"
+  ],
+  "url": "https://www.data-connect.com",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

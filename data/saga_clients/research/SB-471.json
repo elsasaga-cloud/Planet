@@ -41,10 +41,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对：ONV 替换）"
+  "level": "B 级加厚 v1（官网快照核对：ONV 替换） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Austec.net Pty Ltd / Austec Communications（ABN 1 查未得）",
@@ -136,6 +137,14 @@
     "quote": "24 Port PoE Managed Switch",
     "why": "本日去信真实主题（邮箱索引 c71dc3d82f41f10c；信稿开头句引用此封；此前稿内写的「8 Port Industrial PoE Switch」是线程列表首题，不是本封）",
     "k": "c71dc3d82f41f10c"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Austec Communications – Excellence in communications",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.austec.net/"
    }
   ],
   "proof_gaps": [],
@@ -144,5 +153,32 @@
    "body": "Hello Austec team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 26 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nNext to the ONV-IPS31108PFB you list, neutral-brand, at distributor price, EXW, MOQ 1, 15-day validity, -40 to 75 C, CE/RoHS, 3-year warranty on the industrial line: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, unmanaged - model STI-288GP - $60 USD; the same L2 managed, Marvell-based - STI-288GPM - $78.9. Samples are paid at the same price and ship by courier. RCM stays on your side.\n\nOne question: shall I send one unmanaged unit to Toorbul for comparison, or both?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:41:50Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@austec.net"
+  ],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "IEEE802",
+   "RS232",
+   "RS485",
+   "RUT950",
+   "ONV-IPS31108PFB",
+   "IPD4-28FIQ",
+   "IPD4-36FIQ",
+   "IPS31108PFB"
+  ],
+  "url": "https://www.austec.net/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

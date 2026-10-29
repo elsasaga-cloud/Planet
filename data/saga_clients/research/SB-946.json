@@ -55,10 +55,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "臺北市南港區園區街3號14樓之6（02-2790-6867）（第 116 批 官方登记核实 2026-10-28）",
@@ -162,6 +163,14 @@
     "quote": "16 Port Industrial PoE Switch",
     "why": "本日去信真实主题（邮箱索引 a4462c41ccb3079f；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封）",
     "k": "a4462c41ccb3079f"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Home - Intrising Networks — Smart & Simple Connectivity - Homepage of Intrising Networks",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.intrising.com.tw/"
    }
   ],
   "proof_gaps": [],
@@ -170,5 +179,32 @@
    "body": "Hi Ken,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 10 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the entry models of your industrial line only - the IEC 61850-3 and PTP models stay yours - a second source from small lots, -40 to 75 C, CE/RoHS: DCS-8GP-2GS position - DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $85.5 USD EXW under your label (MOQ 1, 15-day validity); DAS-8GHP-4X position - 8 x Gigabit PoE+ + 4 x 10G SFP+, L2+ managed with ring redundancy - STI-488XGGPM - $178.8.\n\nOne question: is a lower-cost tier something you would consider dual-sourcing, or does every Intrising unit have to carry the full feature set?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:25:31Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "kenlee@intrising.com.tw"
+  ],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "IEEE802",
+   "DAS-8GHP-4X",
+   "DBS-16GP-4X",
+   "DCS-8GP-2GS",
+   "DTS-8GP-4X",
+   "DAS-8GP-4X",
+   "IEC62439-2",
+   "EN50155"
+  ],
+  "url": "https://www.intrising.com.tw/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

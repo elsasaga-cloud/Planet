@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2025-05-20 | 来 | au@netbergtw.com | And you are limited to Marvell. You definitely should explore Broadcom-based switches. Broadcom has a way better SW support. | 来信原文（主题「Re: Marvell Alleycat5 Solution」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `b2fdeceac0796384` |
 | 2025-05-20 | 去 | Saga（Alan） | Hi, Alex, Thanks for your information. I noticed that you are using marvell and BDM chips for your tor/dc switches. We now focus on marvell based edge/access switches, mostly 1G/2.5G/10G switches. Just wondering if you would possibly use such switches(not your focus, but sometimes come in need) in y… | Saga 实质答复原文（主题「Re: Marvell Alleycat5 Solution」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `23b50febd1c4cfa9` |
 | 2025-05-20 | 去 | Saga（Alan） | Hi, Alex, Our client base is about SMBs and industrial networking. So we basically use marvell AC3 and AC5 chips, this is a very cost-effective choice. In our daily work, we received some queries for stackable/data center switches, or simply just need broadcom-based models. Well, not much we can do.… | Saga 实质答复原文（主题「Re: Marvell Alleycat5 Solution」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `0759f588345bd385` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | netberg \| Main | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -128,9 +129,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Alexander Ustyuzhanin（Director, Netberg Ltd. 網脈有限公司（登記代表人另為 約理師；已回覆 1 次）= 收件人 — 一頁紙一次：貼標 OEM 30%，CENTEC 平台 STH-2C24XF-HSI $1,500 / STH-8C48DX-HSI $4,800 / STH-32C-HSI $6,000 作其 Broadcom 線之外的成本型補位 + Netberg 標 + 付費樣機；NOS 只答「可提供軟體清單」不聲稱 SONiC / ONIE；opener 引其上次回覆；回信 → 加厚 + 升 A— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28））au@netbergtw.com 〔用户表〕
 - **KP**：約理師（代表人 / 董事 / 經理人（twincn；統編 42648064；外籍）— 不直發（第 116 批 官方登记核实 2026-10-28）） 〔https://twincn.com/item.aspx?no=42648064〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

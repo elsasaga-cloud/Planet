@@ -13,7 +13,8 @@
   "ZKTeco",
   "Ruijie",
   "D-Link",
-  "Huawei"
+  "Huawei",
+  "PLANET"
  ],
  "evidence": [
   {
@@ -57,11 +58,12 @@
  ],
  "grade_override": "B",
  "override_reason": "蒙古国非主攻区、市场体量小，仅 1 次回复 → 慢跟。",
- "notes": "回复其邮件时给 STI-110GE + STC-28DGGPM 两款（分销 20%），之后按季度触达。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n回复其邮件时给 STI-110GE + STC-28DGGPM 两款（分销 20%），之后按季度触达。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对）"
+  "level": "B 级加厚 v1（官网快照核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Topica LLC（Топика ХХК；注册号 1 查未得）",
@@ -271,6 +273,14 @@
     "quote": "兴趣：MC SFP switch 很多外壳；回复：需要16 port的",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Нүүр хуудас | Топика",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://topica.mn/"
    }
   ],
   "proof_gaps": [
@@ -282,5 +292,40 @@
    "body": "Hi Bayar,\n\nYou asked for price list, MOQ and warranty in October 2025; I sent the download links and a datasheet but not the three answers — here they are in one line: MOQ 1 pc; warranty 1 year on commercial (STC) models and 3 years on industrial (STI) models, lifetime technical support, and the three prices most people ask for first (USD EXW, 15-day validity): 16-port PoE L2 managed STC-2216GPM (16 × PoE + 2 × GE + 2 × SFP, 200 W) $141.7; 8-port PoE L2+ managed STC-28DGGPM (8 × PoE + 2 × 1G/2.5G SFP) $80.7; 24-port PoE L2+ managed STC-424XGGPM-280W (24 × PoE + 4 × 10G SFP+) $180 — my mail of 4 August quoted $170 for this one; the yuan has moved from 7.2 to 6.7 against the dollar since, hence $180 today. The full table follows once I know which brand you carry.\n\nOne question: which switch / media-converter brand do you carry in Mongolia today, so I can map our equivalent models instead of sending the whole catalog? Shipping is by road via Erenhot or by air to Ulaanbaatar, your choice.\n\nBest regards,\nElsa\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:21:44Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "%20info@topica.mn",
+   "engsoftllc@gmail.com",
+   "info@topica.mn",
+   "john_doe@domain.com"
+  ],
+  "phones": [
+   "003 1 2008 1 2012 1 2019 1"
+  ],
+  "social": [
+   "https://www.facebook.com/Topica.Company",
+   "https://www.youtube.com/watch?v=DWmFQhMfYwg&list=PLZGehiXauylbZduKt8OESRyUeVUeYmQqR"
+  ],
+  "models_on_site": [
+   "SFP-10G-ZR",
+   "SRV10KRIRK",
+   "ESB23X-3LCD70",
+   "ESB32X-3LCD60",
+   "SFP-10G-BX40D",
+   "ESB23X-3LCD40",
+   "SFP-10G-BXD-I",
+   "ESB32X-3LCD10"
+  ],
+  "url": "https://topica.mn/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -49,10 +49,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "980 Birmingham Rd. Ste 721, Alpharetta, GA 30004（非威斯康星）",
@@ -135,6 +136,14 @@
     "quote": "Updated Ethernet Switches Links",
     "why": "本日去信真实主题（邮箱索引 eedd3f8c38739ec4；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封）",
     "k": "eedd3f8c38739ec4"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "VIPA ControlsAmerica — VIPA is the YASKAWA-owned German control automation manufacturer, offering advanced and cost-effective PLC, I/O, HMI and software solutions for 30 years.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://vipausa.com/"
    }
   ],
   "proof_gaps": [],
@@ -143,5 +152,44 @@
    "body": "Hello VIPA ControlsAmerica team,\n\nOver the past months you had a few product mails from us - most recently \"Updated Ethernet Switches Links\" on 13 February 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nThe VIPA-branded switches come from your brand owner, understood. For the price-sensitive panels where an integrator asks for a lower-cost option, from small lots, neutral packing, -40 to 75 C, FCC/CE/RoHS: DIN-rail 8 x Gigabit unmanaged, 12-58 V DC - model STI-080GE - $32.5 USD EXW at distributor price (MOQ 1, 15-day validity); 5 x Gigabit, 12-36 V DC - STI-050GE - $17.0.\n\nOne question: do your integrator customers ask for a lower-cost switch option, or do they stay with the VIPA part numbers?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:43:10Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "admin@indusolamerica.com",
+   "info@vipausa.com",
+   "sales@vipausa.com",
+   "ventas@vipausa.com"
+  ],
+  "phones": [
+   "+1 (678) 880-6910",
+   "+1(678) 880-6910",
+   "+1.678.880.6910"
+  ],
+  "social": [
+   "https://twitter.com/VIPAUSA",
+   "https://twitter.com/intent/tweet/?text=VIPA%20972-0PN00%20%7C%20PROFINET%2FIndustrial%20Ethernet%20Connector&url=https%3A%2F%2Fvipausa.com%2Fproducts%2Fprofinet-industrial-ethernet-rj45-connector-vipa-972-0pn00.html",
+   "https://www.linkedin.com/company/vipa-controls-america",
+   "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fvipausa.com%2Fproducts%2Fprofinet-industrial-ethernet-rj45-connector-vipa-972-0pn00.html&title=VIPA%20972-0PN00%20%7C%20PROFINET%2FIndustrial%20Ethernet%20Connector&summary=VIPA%20972-0PN00%20%7C%20PROFINET%2FIndustrial%20Ethernet%20Connector&source=https%3A%2F%2Fvipausa.com%2Fproducts%2Fprofinet-industrial-ethernet-rj45-connector-vipa-972-0pn00.html"
+  ],
+  "models_on_site": [
+   "RRJ0-EB",
+   "RTP0-KB",
+   "AWG24",
+   "AWG26",
+   "PPC021",
+   "PPC015",
+   "PPC010",
+   "RS232"
+  ],
+  "url": "https://vipausa.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -54,6 +54,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-10-07 | 去 | A 群发 | 10G Enterprise SFP Switch、10G L3 Managed Switch | 6 封 / 0 次打开 / 0 回｜首封 2026-05-07 → 末封 2026-10-07（6 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | Ethernet Switch | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | RADWIN \| Carrier-Grade Fixed Wireless Access & Mobility Solutions — RADWIN delivers reliable, high-capacity wireless broadband and backhaul solutions that connect people, businesses, and infrastructure worldwide. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -130,9 +131,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Dave Azria（Director of Product Management（研究档 KP）= 收件人 — 一页纸一次：贴标 OEM 30% B、CPE / IDU 配套 PoE 交换机贴标（STC-028GP $28 / STC-228GP $33 + 户外机柜 STI-154GP）+ MOQ + 付费样机；大厂一次即止 — 以色列常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关）、SII 不声称（第 121 批 官方登记核实 2026-10-29））dave_a@radwin.com 〔用户表〕
 - **KP**：Sharon Sher（CEO（D&B / datanyze 2026-10-29 吻合）（第 121 批 官方登记核实 2026-10-29））sharon_sher@radwin.com 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

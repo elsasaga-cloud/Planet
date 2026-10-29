@@ -150,7 +150,8 @@ updated: 2026-10-29
 - **KP**：Vinod Tyagi（AGS Plus 研究档 KP（+91 98105 德里号段；2025-06 对 24 PoE 回「price」）= 收件人（第 114 批 官方登记核实 2026-10-28））sales@agsplus.in +91 98105 61477〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Gunjan（Xexagon 研究档 KP = 抄（第 114 批 官方登记核实 2026-10-28））gunjan@xexagon.co.in 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Tusharkumar Rajeshbhai Patel（CEO / Director Xexagon Hi-Tech Private Limited（tofler / xexagon.co.in）（第 114 批 官方登记核实 2026-10-28）） 〔https://www.tofler.in/xexagon-hi-tech-private-limited/company/U28299GJ2025PTC160203〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照占位 + 表内））
 

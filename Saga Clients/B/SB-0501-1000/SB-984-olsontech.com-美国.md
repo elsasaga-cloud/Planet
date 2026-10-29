@@ -53,6 +53,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2025-02-28 | out | Elsa → sales@olsontech.com | 16 Port PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2025-08-09 | 去 | Saga（Alan） | Hi, Peter, Thanks for your interest. There are 2 versions for this model. 225usd/pc, L2+ managed 310usd/pc, L3 managed Please see attached datasheets and let me know if you need web/cli manual & software list. Thank you. On Sat, Aug 9, 2025 at 3:21 AM Peter Ta | 历史报价点（主题「Re: 24 Port Fiber Switch」；第 20 批从 gmail_a 回补）：225usd / 310usd | `7533abba594ebc6d` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Home \| OlsonTech — This is the homepage of the website | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -138,9 +139,10 @@ updated: 2026-10-29
   > MC WDM模块 光产品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Thomas R. Olson（Owner-President（1985 起；现 Antronix of California – Olson Technology Division）= 收件人（经 sales@）（第 103 批 官方登记核实 2026-10-28）） 〔http://www.olsontech.com/company.html〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

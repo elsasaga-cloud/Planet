@@ -61,6 +61,7 @@ updated: 2026-10-29
 | 2025-03-28 | 去 | Elsa 箱群发 Bcc | 16 Port Ethernet Switch｜Hi, How are you? There is a 16-port Din Gigabit Ethernet swi | Elsa 群发命中（批 DE，锚 To office@all4fiber.com） | `195dbdf4e5b5d628` |
 | 2026-08-31 | 去 | Elsa 群发（BCC；To office@all4fiber.com，DE 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 info@ute.de, nils.linnemann@ute.de, ute.de, volker.pompetzki@ute.de）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-08-31 | 去 | Elsa 箱群发 Bcc | 24 Port PoE Managed Switch｜Price: 170USD/PC | Elsa 群发命中（批 DE，锚 To office@all4fiber.com） | `1a056d5159d35ca3` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | U.T.E. electronic \| Pro AV- & IT-Großhandel – seit 1989 — Beratung, Vertrieb und Service aus der Metropole Ruhr \| Großes eigenes Lager – über 100.000 Produkte im Portfolio \| >> U.T.E. - Ihr B2B Partner seit 1989 | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 群发 Bcc 已触达（最近 2026-08-31）、0 回），仓库未见原文
 
@@ -150,9 +151,10 @@ updated: 2026-10-29
 - **KP**：Volker Pompetzki（）volker.pompetzki@ute.de +49 2302 28283-18〔https://www.pressecontrol.de/2026/09/28/u-t-e-electronic-prsentiert-die-neue-modulare-videomatrix-x4-maximale-flexibilitt-fr-professionelle-av-installationen/〕
 - **KP**：Nils Linnemann（） +49 2302 28283-16〔https://www.ute.de/ansprechpartner〕
 - **调研后定级**：B（原自动 B）——Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B4 四主区+对位+坐实；B5 四主区+对位（冷）；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PA-017，W 批次调研 2026-10-19/20））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PA-017，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

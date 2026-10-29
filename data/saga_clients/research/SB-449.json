@@ -63,10 +63,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "意大利",
@@ -190,5 +191,39 @@
   "note": "桌面复核（研究档类型 + 对位首推）：安防电商 + 自有 SW 系列 PoE（Utepo 代工迹象，OEM 采购）；切入：自有 SW802G（8 口千兆 PoE）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 BV 标；SW811G-DIN（工业）→ STI-288GP；NDAA 口径同 Silarius（需元器件声明）；行业内 ✔ 对位 ✔（宽留冷「不对位」系 fit 标志未回填，非真不对位）",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": []
+ "override_history": [],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:41:26Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@bvsecurity.com"
+  ],
+  "phones": [
+   "+1 (877)-985-5888"
+  ],
+  "social": [
+   "https://twitter.com/share?url=https://bvsecurity.com/products/bv-tech-16-port-gigabit-poe-switch-poe-sw1602g&text=BV-Tech+16-Port+Gigabit+PoE+Switch+with+2+Gigabit+Uplink%2C+120W%2C+1U+Rackmount%2C+Unmanaged+%7C+SW1602G",
+   "https://twitter.com/share?url=https://bvsecurity.com/products/bv-tech-5-port-gigabit-poe-switch-55w-sw501g-plus&text=BV-Tech+5-Port+Gigabit+PoE+Switch+%284+PoE%2B+Ports%2C+1+Gigabit+Uplink%29%2C+Unmanaged%2C+55W+%7C+SW501G-PLUS",
+   "https://twitter.com/share?url=https://bvsecurity.com/products/bv-tech-6-port-gigabit-poe-switch-60w-sw502g&text=BV-Tech+Full+Gigabit+6-Port+PoE%2B+Switch+%284+PoE%2B%2C+2+Uplink%2C+1000mbps+60W%29+%7C+SW502G",
+   "https://twitter.com/share?url=https://bvsecurity.com/products/bv-tech-8-gigabit-poe-ports-with-2-enthernet-uplink-130w-sw802g&text=BV-Tech+8+Port+PoE%2B+Gigabit+Ethernet+Switch+with+2+Uplinks+-+130W+%7C+SW802G"
+  ],
+  "models_on_site": [
+   "GV-EBD8800",
+   "SW501G-PLUS",
+   "SW502G",
+   "SW802G",
+   "SW811G-DIN",
+   "SW1602G",
+   "RJ-45",
+   "WD64PURZ"
+  ],
+  "url": "https://bvsecurity.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

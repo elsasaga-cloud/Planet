@@ -61,6 +61,7 @@ updated: 2026-10-29
 | 2025-02-24 | 去 | Elsa 1:1 去信（To graham@securitytec.co.uk） | Industrial PoE Switch — Marvell based industrial PoE, 2×GE SFP + 4×GE PoE, 120W, watchdog, 250 m, DIP（稿内无价，第 74 批(p) 已读稿） | Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，称呼「Hi, Graham」；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封 | `elsa_1to1` |
 | 2026-09-18 | 去 | A/S 群发 | 10G Enterprise SFP Switch、Marvell Alleycat5 Solution | 26 封 / 1 次打开 / 0 回｜首封 2024-07-05 → 末封 2026-09-18（26 去 / 0 来） | `gmail_digest` |
 | 2026-09-18 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 a0f873641860f24e；信稿开头句引用此封；此前稿内写的「10G Enterprise SFP Switch」是线程列表首题，不是本封） | `a0f873641860f24e` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Professional Security Products \| Security Tec Ltd | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -150,7 +151,7 @@ updated: 2026-10-29
 - **是谁**：伦敦南郊的 Hikvision 授权批发商（2005 年注册，3 名员工），面向安装商供应 CCTV/门禁/对讲/报警及配件，网店含 78 个网络产品、Ruijie Reyee 55 个、Utepo 3 个。用户表：Graham Smith（Director）；对 video over fiber 感兴趣、曾买 IP camera 样品；17 次推送 0 回复，WhatsApp 加不上。
 - **类型**：安防批发商（小型）
 - **规模**：3 人（2025 年报）
-- **在卖/在用品牌**：Hikvision, HiLook, Ruijie Reyee, Utepo, Pyronix, Ruijie-Reyee, EZVIZ, Uniview
+- **在卖/在用品牌**：Hikvision, HiLook, Ruijie Reyee, Utepo, Pyronix, Ruijie-Reyee, EZVIZ, Uniview, Ruijie
 - **【第三方（Companies House 摘录）】规模与董事**
   > SECURITYTEC LIMITED … Incorporated: 2005-10-06 · Employees: 3 (2025 accounts) … MR Graham David SMITH Director
   > 来源：https://www.companiesintheuk.co.uk/ltd/securitytec-1（抓取 2026-10-21）
@@ -169,8 +170,10 @@ updated: 2026-10-29
 - **KP**：Graham David Smith（Director（2005-10-06 起；1959-09 生；Companies House 05585047；身份已核验）= **老板 = 采购 = 联系人**（Secretary Katie Ann Smith = 家族）（第 93 批 官方登记核实 2026-10-28））graham@securitytec.co.uk +44 20 8660 5888〔https://www.securitytec.co.uk/contact〕
 - **KP**：Graham Smith（联系人（construction.co.uk 公司名录公开））—（未公开） —〔https://www.construction.co.uk/c/633203/securitytec〕
 - **调研后定级**：A（原自动 A）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A1 复购/绑定≥中度
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网网店目录核对））
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网网店目录核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -59,6 +59,7 @@ updated: 2026-10-29
 | 2024-11-03 | 来 | vienthonggiatotvn@gmail.com | What is the price? Vào 14:41 CN, 3 thg 11, 2024 Simon <s.sagatelecom@gmail.com> đã viết: | 来信原文（主题「Re: 8 Port Industrial PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `cd4b791c86455683` |
 | 2024-11-03 | 去 | Simon（Quotation.pdf） | 「What is the price?」的回复 = 报价单：STI-288GP（2×GE SFP + 8×GE PoE af/at 240W，非管理）$60，validity 15 d，4~7 wd，warranty 3 years。 | 同一天同一款 $60 也报给了 SB-010（美国）——STI-288GP $60 是 2024-11 的统一实报价 | `S 邮箱附件 `Quotation.pdf` sha=b6e6158b418183d8（2024-11-03）` |
 | 2026-09-10 | 去 | Elsa 群发（BCC；To inbox.vienthonghanoi@gmail.com，越南（锚 vienthonghanoi VN） 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 vienthonggiatotvn@gmail.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | VIỄN THÔNG GIÁ TỐT — Viễn thông giá tốt chuyên cung cấp thiết bị mạng, thiết bị camera và dịch vụ thi công mạng hàng đầu Việt Nam | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -116,7 +117,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（快照 2026-10-21，越南语）
 - **是谁**：越南网络设备电商 + 弱电施工（光纤布线、Wi-Fi、监控安装），站内按品牌分类卖 Switch PLANET / TP-Link / Cisco / **SWITCH POE HRUI（正品）** / 工业交换机；型号页含 HRUI HR900-AF-82N、HR901-AF-1621GS、PLANET GS-4210-48T4S、TP-Link T1600G-28TS；表内注「很多国内的牌子 有洪瑞的」，2025-11 群发 2+8 PoE 回复 price。
-- **在卖/在用品牌**：HRUI（！）, PLANET, TP-Link, Cisco, Ubiquiti, MikroTik, Grandstream
+- **在卖/在用品牌**：HRUI（！）, PLANET, TP-Link, Cisco, Ubiquiti, MikroTik, Grandstream, Siemens
 - **【官网快照】站内导航：SWITCH PLANET / TP-LINK / CISCO / SWITCH POE HRUI / 工业交换机**
   > SWITCH PLANET SWITCH TP-LINK SWITCH CISCO SWITCH POE HRUI SWITCH CÔNG NGHIỆP TỦ MẠNG RACK
   > 来源：https://vienthonggiatot.com/switch-poe-hrui.html（抓取 2026-10-21）
@@ -130,9 +131,10 @@ updated: 2026-10-29
   > 兴趣：很多国内的牌子 有洪瑞的；回复：price
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Nguyễn Văn Đông（法人代表（masothue 0109246393）— 不动（Q-33 待定）（第 119 批 官方登记核实 2026-10-28）） 〔masothue.com/0109246393〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照品牌识别：已售 HRUI））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照品牌识别：已售 HRUI） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -126,7 +126,8 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Asma (Aasma) Nasir（Marketing（研究档；2010 至今）— 不动（第 118 批 官方登记核实 2026-10-28）） +92 305 222 1659〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Ghulam Mohuied Din（CEO（lookup.pk「Managed By Mr. Ghulam Mohiuddin - CEO」吻合；WA +92 321 275 5707）— 不动，不发（WA 来询按集成商 25% 报摄像机 PoE，预付 100%）（第 118 批 官方登记核实 2026-10-28）） +92 321 275 5707〔https://www.businessbook.pk/detail/sunmars-enterprises-karachi-122447〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对；国家更正））
 

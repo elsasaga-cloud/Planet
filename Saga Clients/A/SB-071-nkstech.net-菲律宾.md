@@ -68,6 +68,7 @@ updated: 2026-10-29
 | 2026-03-24 | out | Elsa → info@nkstech.net | Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 8/10 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:info@nkstech.net` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
 | 2026-05-05 | out | Elsa → info@nkstech.net | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 9/10 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 第 74 批(m) `from:e.sagatelecom to:info@nkstech.net` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
 | 2026-08-06 | out | Elsa → info@nkstech.net | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 10/10 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(m) `from:e.sagatelecom to:info@nkstech.net` 全程 complete：10 轮直收；0 回 | `elsa_1to1` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Nayon Kontrol Systems | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -152,9 +153,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Mark Delapaz（NKS 员工（ZoomInfo 公开；职务待核）= 收件人 — 一页纸一次：集成商 25% B、已外采 Maiwe 的变电站自动化集成商 → STI-288DGGPM / STI-488DGGPM + STI-280GE 一口价 + 付费样机；不声称 IEC 61850 / 电力认证；电力项目按单核 — 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉、NTC 不声称（第 120 批 官方登记核实 2026-10-29））— +632 8913 1347（公司）〔https://www.zoominfo.com/p/Mark-Delapaz/-1345711402〕
 - **调研后定级**：A（原自动 A）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来
-- 备注：一封'迈威对位 STI 工业线'邮件。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+一封'迈威对位 STI 工业线'邮件。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对；「成交」为富通天下外贸数据））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对；「成交」为富通天下外贸数据） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

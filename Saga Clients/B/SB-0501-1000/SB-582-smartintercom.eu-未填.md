@@ -54,6 +54,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-14 | 去 | A 群发 | Industrial PoE Switch、48 Port PoE Managed Switch | 15 封 / 0 次打开 / 0 回｜首封 2025-03-20 → 末封 2026-09-14（15 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 4口工业级PoE交换机报价 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Home • SmartIntercom — Premium distributor of indoor & outdoor (home) entry systems in cooperation with Akuvox | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -133,9 +134,10 @@ updated: 2026-10-29
   > 4口工业级PoE交换机报价
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Ronald（联系人（研究档 KP；主动要 4 口工业 PoE 报价）= 收件人 — 一页纸一次：集成商 25% B、STI-054GP 4 PoE + 1 GE / STI-154GP 一口价 + MOQ 1 + 付费样机；FOB 深圳 或 DAP 欧盟 买方清关；周四 12–14 当地；一句话问国别 （第 122 批 官方登记核实 2026-10-29））roh@smartintercom.eu 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

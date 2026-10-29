@@ -145,9 +145,10 @@ updated: 2026-10-29
   > fiberbase-net.com/default/product/sub2.php
   > 来源：https://fiberbase-net.com/default/product/sub2.php（抓取 2026-10-21）
 - **KP**：Michael Kang（대표 파이버베이스 Fiberbase（강민철 Kang Min-cheol；kofis.co.kr 页脚；推定同人）= 拍板人 / 收件人（第 115 批 官方登记核实 2026-10-28））michael_kang@fiberbase.co.kr 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：deep。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

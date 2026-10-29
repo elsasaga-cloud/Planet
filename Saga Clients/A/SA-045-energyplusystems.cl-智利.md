@@ -71,6 +71,7 @@ updated: 2026-10-29
 | 2026-07-20 | 去 | S 箱（Simon）报价 | 24 Port 10G SFP+ Switch｜ $1500（原句：*Price: 1500USD/PC*） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `fd1a9009a3a0c59d` |
 | 2026-09-08 | 去 | S 箱（Simon） | 24 Port PoE Managed Switch | 最近一封去信（邮箱索引；去信共 25 封） | `7ea24f4303e4aeb1` |
 | 2026-09-08 | 去 | S 箱（Simon）报价 | 24 Port PoE Managed Switch｜ $170（原句：*Price: 170USD/PC*） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `7ea24f4303e4aeb1` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Energyplus - Tecnología para la minería e industria — Equipos, servicios y asesoría técnica especializada para los proyectos mas exigentes del sector minero e industrial. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -166,9 +167,10 @@ updated: 2026-10-29
   > 来源：https://energyplusystems.cl/（抓取 2026-10-21）
 - **KP**：Ling（用户表）（联系人）ventas@energyplusystems.cl +56 9 9218 8218〔https://energyplusystems.cl/sistemas-fotovoltaicos/〕
 - **KP**：Ling Fuentes（Ventas（销售，官网公开））ventas@energyplusystems.cl +56 9 9218 8218〔https://energyplusystems.cl/〕
-- 备注：A 维持（S 重点 + 已回复 + 矿业工业交换机场景）；拉美不在重点区、单量小；P1 = STI-288DGGPM（矿业宽温、冗余电源），25% 集成商档。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+A 维持（S 重点 + 已回复 + 矿业工业交换机场景）；拉美不在重点区、单量小；P1 = STI-288DGGPM（矿业宽温、冗余电源），25% 集成商档。
 
-### 加厚挖掘（2026-10-21 · 深挖 v2（官网网店含价核对））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网网店含价核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

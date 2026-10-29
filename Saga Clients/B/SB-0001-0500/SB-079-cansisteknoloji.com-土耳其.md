@@ -128,7 +128,8 @@ updated: 2026-10-29
 - **KP**：Ahmet Can（店主（ASKON Konya 会员；Armiya 经销商）= 收件人本人（第 105 批 官方登记核实 2026-10-28））acan@cansisteknoloji.com +90 541 541 0010（WA）/ +90 332 447 4226〔官网 + 行业目录 + 用户 Clients 表〕
 - **KP**：Ahmet Can（店主（行业目录公开））—（见官网） 0541 541 0010〔https://guvenliksistemleri.net/konya-sehrindeki-guvenlik-sistemleri-fi〕
 - **调研后定级**：B（原自动 A）——微型零售安装店，单机需求（已报 $150 未回）；土耳其主攻区故保留 B 慢跟。
-- 备注：WA 一次性跟进 12 光 12 电报价有效期；成交则按零星小单处理。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+WA 一次性跟进 12 光 12 电报价有效期；成交则按零星小单处理。
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 需求映射））
 

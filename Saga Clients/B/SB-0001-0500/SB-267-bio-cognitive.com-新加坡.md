@@ -59,6 +59,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2025-07-07 | 来 | Amy Hoi | Please advise the price of 4-port POE plus 1 uplink and 8 port POE with 1 uplink switches? | 询价 | `1341fd835e388fae` |
 | 2025-07-07 | 去 | Alan（Quotation.pdf，Buyer Bio-Cognitive Solutions Pte Ltd / Amy Hoi，EXW Singapore） | STC-024GP 2 GE 上联 + 4 GE PoE 60W $19.0；STC-204GP 2 SFP + 4 PoE $21.0；STC-028GP 2 GE + 8 PoE 120W $24.5；STC-228GP 2 SFP + 2 GE + 8 PoE 120W Watchdog $36.5；validity 15 days | 当天报了四款商用小 PoE；$19–36.5 是 Realtek 商用线的真实锚；无回 | `gmail_a att 2025-07-07` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Convergence Security for IT/OT &amp; Physical \| Bio-Cognitive — Unify physical security, IT, OT and human-risk protection with assessments, biometric access control, surveillance integration and 24/7 monitoring. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -121,6 +122,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（bio-cognitive.com，快照 2026-10-21）
 - **是谁**：新加坡 IT/OT 与物理安防融合服务商：评估、生物识别门禁、监控集成、7×24 监控，大量 SCADA / ISA-62443 / 工业设施安全内容；表内 Amy Hoi「可以多跟进一下」，需求 16 电口 PoE，2025-07 问了一个具体型号。
+- **在卖/在用品牌**：Ubiquiti
 - **【官网快照】定位：物理 + IT + OT 融合安全；关键词 industrial 121 / scada 48 / surveillance 42 / access control 20；+65 6553 2128**
   > Unify physical security, IT, OT and human-risk protection with assessments, biometric access control, surveillance integration and 24/7 monitoring… ISA-62443
   > 来源：https://www.bio-cognitive.com/（抓取 2026-10-21）
@@ -128,9 +130,10 @@ updated: 2026-10-29
   > 兴趣：16电 VC 安防 网站：CCTV；回复：问了一个型号
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Amy Hoi（名录登记联系人（manufacturerss：Contact Person Ms. Amy Hoi；2025-07 问过 16 电口具体型号）= 收件人 — 一页纸一次：集成商 25% B small、直接答 16 电口 = STC-2216GP（+ STC-2224GP 带 SFP）、MOQ 1、付费样机、预付 100%— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 117 批 官方登记核实 2026-10-28））amyhoi@bio-cognitive.com +65 9656 8498〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

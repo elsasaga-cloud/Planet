@@ -57,6 +57,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-14 | 去 | A 群发 | Industrial PoE Switch、16 Port Ethernet Switch | 16 封 / 0 次打开 / 0 回｜首封 2025-03-20 → 末封 2026-09-14（16 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 看了M12交换机，没做其他沟通，拿了彩页 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Bienvenue sur le site de la société SITIS Sàrl Genève - Informatique - Télécom - Sécurité | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -136,9 +137,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Arno Freudenreich（Associé-gérant / 100% 所有人（moneyhouse：200 份 CHF 100，单独签字）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28））afcn@sitis.ch（用户表） +41 22 510 21 51〔https://www.moneyhouse.ch/en/company/sitis-sarl-5661522431〕
 - **调研后定级**：B（原自动 A）——兴趣点为 M12 接口（轨道/车载类，Saga 不做 EN50155/M12 线），无其他需求、无回复 → B 待机。
-- 备注：不主动投入。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+不主动投入。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（登记核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（登记核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

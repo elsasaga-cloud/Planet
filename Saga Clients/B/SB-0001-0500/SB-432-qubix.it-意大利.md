@@ -116,7 +116,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（http_error）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（qubix.it：HTTP 错误，2026-10-21，第 1 次）
 - **是谁**：意大利 Qubix（工业网络分销：「几乎全是 Planet 的设备」——工业 FS、MC、SFP、工业电源；KP Filippo Gnocco（General Manager）、Davide Villotti（Business Developer Manager）；表内「质量一般」；官网 http_error）；表内 1 次跟进无回复。
 - **类型**：工业网络分销商（意大利，Planet 为主）
 - **在卖/在用品牌**：Planet
@@ -128,7 +128,8 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Filippo Gnocco（General Manager（LinkedIn）= 拍板人 / 收件人（第 109 批 官方登记核实 2026-10-28））fgnocco@qubix.it 〔用户表〕
 - **KP**：Davide Villotti（Business Developer Manager（研究档）= 收件人（抄）（第 109 批 官方登记核实 2026-10-28））info@qubix.it 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

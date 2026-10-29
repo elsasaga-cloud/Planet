@@ -123,7 +123,8 @@ updated: 2026-10-29
   > 兴趣：两光两电。sfp 主要对SFP感兴趣
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Engr. Lito E. Viola（General Manager（研究档）= 收件人 — 一页纸一次：集成商 25% B、2 光 2 电 → STC-228GP / STC-028GP + STI-154GP 一口价 + 付费样机；SFP 不做明说 — 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉、NTC 不声称（第 120 批 官方登记核实 2026-10-29））ieviola@bitstreamcore.com 〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照超时 + 表内））
 

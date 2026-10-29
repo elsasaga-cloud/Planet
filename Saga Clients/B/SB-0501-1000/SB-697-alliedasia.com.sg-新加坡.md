@@ -54,6 +54,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-16 | 去 | A 群发 | Industrial PoE Switch、48 Port PoE Managed Switch | 18 封 / 1 次打开 / 0 回｜首封 2025-01-29 → 末封 2026-09-16（18 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | VC MC（POE/10G) 14机架 简单VC POE设备 没工业级的 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Allied Asia – Your Trusted Connectivity Solutions | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -135,9 +136,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Danny Lee（Allied Asia Resources Pte. Ltd.（自有品牌 ATZ = SB-346）研究档 KP = 收件人 — 一頁紙一次：貼標 OEM 30% small，對位其 ATZ PoE 線的 STC-028GP / 228GP / 2216GP / 2224GP 階梯 + ATZ 標 / 自編貨號 / 中性包裝 + 10G MC 只有 STC-110XGE + 付費樣機；14 槽機架 / SFP 明說不做；不點名 ONV— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 116 批 官方登记核实 2026-10-28））danny@alliedasia.com.sg 〔用户表〕
 - **KP**：Kelvin Tan（Sales Engineer（研究档；kelvin.tan@alliedasia.com.sg 見 entities）= 抄送（第 116 批 官方登记核实 2026-10-28）） 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

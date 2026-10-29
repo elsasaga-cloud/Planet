@@ -66,6 +66,7 @@ updated: 2026-10-29
 | 2025-06-28 | 去 | Saga（Simon） | Hi, Stan, Thanks for your info. 1, IGMP protocol is a management feature, it is not available on unmanaged switches. 2, We have managed switches. You can see this in the downlink link file I shared with you. *Marvell Based Industrial Managed Switch* In the datasheet, there is IGMP info.… | Saga 实质答复原文（主题「Re: Industrial PoE Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准 | `2603220c608ffb88` |
 | 2025-11-28 | 来 | stan@thorfiber.com | Thank you for your email How much is that ? please email me the OEM prices - On Thu, Nov 27, 2025 at 6:37 AM Simon from Saga Telecom < s.sagatelecom@g | 来信原文（主题「Re: Booster PoE Switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `92ccd99bae9b2cff` |
 | 2025-12-01 | 去 | Simon | STI-488XGGBPM 215usd/pc Industrial PoE Managed Switch 4*1G/2.5G/10G SFP+8*10/100/1000M RJ45/PoE… With internal power booster | 单款报价 | `822038afc07c951e` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | CATV and Fiber Transport Equipment - Thor Broadcast — Specializing in turnkey broadcast CATV solutions with a full range of encoding and decoding equipment to easily transport signals over IP, fiber, and RF. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -181,9 +182,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Stan (Slawomir) Sochur（CEO / CFO / Secretary / Director（California SOS 四职一人 = Slawomir Sochur）= 老板 = 联系人；Thor Fiber, Inc. CA 4095985（2017-12-26；业务 2011 / 2007 起）（第 86 批 官方登记核实 2026-10-27））stan@thorfiber.com 〔S/A 邮箱来信 2025-06-26 → 11-28 来信 3 封（显示名 Thor Fiber）（第 72 批从邮件表头补）〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌；A6 真回≥3+对位（任何区域）；A4 Simon 点名
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网目录核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网目录核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

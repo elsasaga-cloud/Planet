@@ -64,6 +64,7 @@ updated: 2026-10-29
 | 2025-08-21 | 来 | Sean Nelson | We require TAA Compliant and UL Listed switches. If you have this, please let me know. | 边界原话 | `465526f0a93e971c` |
 | 2025-08-21 | 来 | sales@ipcampower.com | RE: Industrial PoE Switch｜Hello there,   We require TAA Compliant and UL Listed switches. If you have this, please let me know.     Thanks,     Sean Nelson IPCAMPOWER.com   <ht | 来信（邮箱索引；原文见 k；是否人工回复以原文为准） | `465526f0a93e971c` |
 | 2026-09-07 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 最近一封去信（邮箱索引；去信共 17 封） | `1b384f86b0ccd72d` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | IPCamPower POE Switches and Devices for IP Cameras — IPCamPower supplies POE Switches, Extenders, Splitters, and other devices designed specifically for the IP POE camera installer. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -158,9 +159,10 @@ updated: 2026-10-29
   > 来源：https://ipcampower.com/collections/unmanaged-poe-switches（抓取 2026-10-21）
 - **KP**：Sean Nelson（Owner / Founder / 发明人 = 老板 = 联系人；2008 创 Nelly's Security（2023 出售）、2015 创 IPCamPower；2025 主推 UL + TAA 合规 PoE 线（Saga 做不了，信里不碰）（第 84 批 官方登记核实 2026-10-27））sales@ipcampower.com 〔https://ipcampower.com/pages/about-us〕
 - **调研后定级**：B（原自动 A）——Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B5 四主区+对位（冷）；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A
-- 备注：A 确认（美国自有品牌 PoE + 老板直联 + 现供应商 ONV）：对位 IPCP-8G4G-AT1 ≈ STC-28DGGPM/非网管 8 PoE 款（需向 SmartByte 确认 extend-mode 非网管型号），30% OEM 档；强调 Marvell 方案与 FCC。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+A 确认（美国自有品牌 PoE + 老板直联 + 现供应商 ONV）：对位 IPCP-8G4G-AT1 ≈ STC-28DGGPM/非网管 8 PoE 款（需向 SmartByte 确认 extend-mode 非网管型号），30% OEM 档；强调 Marvell 方案与 FCC。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1）
+### 加厚挖掘（2026-10-21 · 深挖 v1 + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

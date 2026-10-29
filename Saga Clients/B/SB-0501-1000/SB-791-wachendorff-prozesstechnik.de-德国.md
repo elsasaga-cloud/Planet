@@ -57,6 +57,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-01-23 | 去 | A 群发 | 16 Port Ethernet Switch、Managed Optical Bypass Switch | 10 封 / 1 次打开 / 0 回｜首封 2025-02-25 → 末封 2026-01-23（10 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 电口 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Wachendorff Prozesstechnik GmbH & Co. KG : Industrie-Elektronik — Wachendorff Prozesstechnik bietet Ihnen intelligente Komponenten für die Automation von Prozessen und Maschinen. Zu aktuellen Themenschwerpunkten wie Panel-PC, Fernwartung, Datenlogging, Protokollwandlung, Feldbusunabhängige I/O-Syste | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -132,9 +133,10 @@ updated: 2026-10-29
   > 电口；可以着重跟一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Robert Wachendorff（Geschäftsführer & Inhaber（Dipl.-Wirtsch.-Ing.；Wachendorff Prozesstechnik GmbH & Co. KG，HRA 7403 Wiesbaden）= 拍板人（wp@ / vertrieb@ 点名）（第 102 批 官方登记核实 2026-10-28）） 〔〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

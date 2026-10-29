@@ -59,6 +59,7 @@ updated: 2026-10-29
 | 2025-03-30 | 去 | Elsa 群发（BCC；To sales@luxritesecurity.com，UK-安防分销（一轮） 批次） | 8 Port Industrial PoE Switch — This is a Marvell based unmanaged 8 Port Gigabit PoE switch. 1. 30W per port for outdoor IP cameras 2. Support 250-meter PoE distance, PoE watchdog an | Elsa 箱群发 BCC 触达证据（命中地址 deepakg158@gmail.com, dgupta@ralakde.co.uk, ralakde.co.uk）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-09-04 | 去 | Elsa 群发（BCC；To sales@cablenet.co.uk，UK 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 deepakg158@gmail.com, dgupta@ralakde.co.uk, ralakde.co.uk）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 处理各种工业产品 trading 2014年使用国际站 / Deepak Gupta / Director 质量一般 / 078879 13748 已加 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Your partner in automation – Ralakde Automation — We are an Industrial Supplies and Repairs company in UK. We are expert in repairing and sourcing PCB, PLC, Inverters, Drives, PCB, CNC, HMI, Power Supplies. Our team of engineers and technicians have extensive experience in providing repair services  | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -120,6 +121,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线
 - **是谁**：英国斯托克的工业自动化备件贸易与维修商 Ralakde Ltd（公司号 09757591，2015-09-02 成立；Ralakde Automation Ltd 11435782（2018）；董事/PSC Deepak Gupta（ex-Radwell PLC 工程师）；业务：PLC、变频器、驱动器、HMI、电源、PCB 的新品/库存件采购与维修；网点英国、美国 Nashua NH、德国 Waldsassen、捷克 Stará Voda、印度 Pune/Siliguri；+44 1782 563377；sales@ralakde.com）。用户表：处理各种工业产品 trading，2014 年起用国际站，Director Deepak Gupta「质量一般」；WhatsApp 已加；无跟进。工业备件贸易 → 分销 20%，工业小机入门。
+- **在卖/在用品牌**：Schneider, Siemens
 - **【公司注册】法人与成立**
   > RALAKDE LTD Registered office address: Unit 5a Victoria Road, Stoke-On-Trent, England, ST4 2HS Company status: Active … Incorporated on: 2 September 2015
   > 来源：https://find-and-update.company-information.service.gov.uk/company/09757591（抓取 2026-10-21）
@@ -137,9 +139,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Deepak Gupta（Director / PSC 75%+（Companies House 09757591；1992-06 生）= **老板 = 研究档 KP 本人**（第 97 批 官方登记核实 2026-10-28））dgupta@ralakde.co.uk（用户表） +44 7887 913748（用户表，WhatsApp 已加）〔https://open.endole.co.uk/insight/company/09757591-ralakde-ltd〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（公司注册 + 官网核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（公司注册 + 官网核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

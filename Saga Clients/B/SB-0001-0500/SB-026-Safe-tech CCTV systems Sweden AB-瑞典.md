@@ -138,9 +138,10 @@ updated: 2026-10-29
   > 来源：https://safevisioncctv.se/index.php?route=information/ourstaff（抓取 2026-10-21）
 - **KP**：Jimmy Johansson（Styrelseledamot / 100% 实益人 / CEO（allabolag / bolagsfakta；1977 年生；WA 已加）= 拍板人 / 收件人（第 109 批 官方登记核实 2026-10-28））jimmy@safe-tech.se +46 70 610 17 11〔用户 Clients 表（ISAF 2025）+ safevisioncctv.se 员工页〕
 - **调研后定级**：B（原自动 A）——3 人微型公司、营收下滑且亏损、展后 6 次推送 0 回复 → 需求与支付能力都弱，慢跟。
-- 备注：保留 WA 渠道；只在有 8 口 PoE 促销/新品时一次性触达（STC-28DGGPM，分销 20%）。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：deep。
+保留 WA 渠道；只在有 8 口 PoE 促销/新品时一次性触达（STC-28DGGPM，分销 20%）。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 需求映射））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 需求映射） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

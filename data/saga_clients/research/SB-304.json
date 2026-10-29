@@ -43,10 +43,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照：自有品牌 OEM）"
+  "level": "B 级加厚 v1（官网快照：自有品牌 OEM） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "AADONA Communication Private Limited（CIN U72900CT2018PTC008600；RoC Chhattisgarh；注册地 07, SBI Colony, Mahoba Bazar, Raipur 492099；总部 Phoenix Tech Tower, IDA Uppal, Hyderabad 500039；董事 Pinaki Chatterjee / Shivani Chattirajee / Soma Chatterjee；实缴 ₹23.04 lakh；<₹10 Cr；11–50 人）",
@@ -182,10 +183,25 @@
     "quote": "兴趣：工业FS比较多 监控 https://aadona.com/industrial-switches/",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "AADONA â Truly Indian IT & Networking Solutions — AADONA delivers Made in India networking products including switches, servers, CCTV, wireless systems and reliable IT solutions for businesses.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://aadona.com/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:39:13Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
  }
 }

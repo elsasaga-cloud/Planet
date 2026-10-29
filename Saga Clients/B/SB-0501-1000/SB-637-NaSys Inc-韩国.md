@@ -57,6 +57,7 @@ updated: 2026-10-29
 | 2025-02-24 | out | Elsa → korino77@naver.com | 90W PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-10-02 | 去 | A/S 群发 | Industrial PoE Switch、Managed Optical Bypass Switch | 27 封 / 0 次打开 / 0 回｜首封 2024-12-11 → 末封 2026-10-02（27 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：做项目的，需求量比较大，POE交换机，商业级和工业级要报价单，工业级2光8电网管POE，商业级16口 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | 403 Forbidden | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -134,9 +135,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Ko Hyeun Wook（Sales Director, NaSys Inc.（Naver 邮箱）— 35 次 0 回复，不动（第 115 批 官方登记核实 2026-10-28））korino77@naver.com +82 10 2950 1474〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：양승희 Yang Seung-hee（대표 나시스 주식회사 NaSys Inc.（nasys.kr）— 不动（第 115 批 官方登记核实 2026-10-28）） 〔http://nasys.kr/web/company.html〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照 403 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照 403 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

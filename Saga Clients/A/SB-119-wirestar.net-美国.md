@@ -163,9 +163,10 @@ updated: 2026-10-29
 - **KP**：Kyle Leissner（Founder / Owner / President & CEO（SAM.gov 登记官员 PRESIDENT，UEI PU66QHF8L5F6；Aggie 100 「Founder, Owner, President」；Texas A&M BBA + MS MIS）= **老板 = 联系人**；公司 = 德州学生公寓 MDU 批量 Wi-Fi ISP + 布线商，20–50 人、$5M 级（第 87 批 官方登记核实 2026-10-27））kyle@wirestar.net（2024-06-18 本人来信「Is this Poe?」；署名 President & Founder，Direct (979) 721-9100） 979-721-9000（公司）〔https://wirestar.net/about/；S 邮箱来信表头〕
 - **KP**：Logan Roy（Director of Business Development（官网 leadership；BBB 管理层）（第 87 批 官方登记核实 2026-10-27）） 〔https://wirestar.net/our-story/〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：deep。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

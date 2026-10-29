@@ -67,7 +67,7 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "面对面接触 + 已在从深圳采购并刷自有 logo = 现成的 OEM 买家；工业线在用 N-Net 可替换。邮件不回 → 走 WA。P1：STI-288DGGPM（2 光 8 电工业 PoE；其询问的 alarm 继电器输出需向 SmartByte 核实），OEM 价阶 30%。注意政府/警务项目守界，只供商用与一般楼宇安防。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：fail#1。\n面对面接触 + 已在从深圳采购并刷自有 logo = 现成的 OEM 买家；工业线在用 N-Net 可替换。邮件不回 → 走 WA。P1：STI-288DGGPM（2 光 8 电工业 PoE；其询问的 alarm 继电器输出需向 SmartByte 核实），OEM 价阶 30%。注意政府/警务项目守界，只供商用与一般楼宇安防。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
@@ -218,5 +218,14 @@
    "body": "Hi, Simon from Saga Telecom - ISAF follow-up. You asked whether the standard switches carry an alarm output: the commercial units do not. The industrial DIN unit is the one to look at - 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based, dual DC input, -40 to 75 C - STI-288DGGPM - $137.5 EXW with your logo (MOQ 1, 15-day validity), as a second source next to your N-Net units; I send you its datasheet page so you see the alarm contact details exactly as specified. Which N-Net model is in your 2 + 10 cabinets today, so I line ours up against it?"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:38Z"
+  ],
+  "fails": [
+   "2026-10-21"
+  ],
+  "batch": "LT-T03"
  }
 }

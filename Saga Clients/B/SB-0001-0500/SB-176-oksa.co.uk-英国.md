@@ -55,6 +55,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2025-03-30 | 去 | Elsa 群发（BCC；To sales@luxritesecurity.com，UK-安防分销（一轮） 批次） | 8 Port Industrial PoE Switch — This is a Marvell based unmanaged 8 Port Gigabit PoE switch. 1. 30W per port for outdoor IP cameras 2. Support 250-meter PoE distance, PoE watchdog an | Elsa 箱群发 BCC 触达证据（命中地址 james@oksa.co.uk, oksa.co.uk, sales@oksa.co.uk）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-09-04 | 去 | A 群发 | 10G Enterprise SFP Switch、8 Port Industrial PoE Switch | 18 封 / 1 次打开 / 0 回｜首封 2025-07-04 → 末封 2026-09-04（18 去 / 0 来） | `gmail_digest` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Industrial Automation Solutions \| OKSA Automation Limited — Request a quote for industrial automation solutions from OKSA Automation Limited. Fast UK delivery, tech support, warranties and price match guarantees. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -147,9 +148,10 @@ updated: 2026-10-29
   > OKSA AUTOMATION LIMITED … Registered office address: Office 202 11 Courtenay Road, East Lane Business Park, Wembley, England, HA9 7ND … Company status: Active … Incorporated on: 4 December 2020
   > 来源：https://find-and-update.company-information.service.gov.uk/company/13062295（抓取 2026-10-20）
 - **KP**：James（姓氏未公开）（）james@oksa.co.uk 〔https://oksa.co.uk/about-us/〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-081，W 批次调研 2026-10-19/20））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-081，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -52,10 +52,11 @@
  ],
  "grade_override": "A",
  "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对：自有型号 OEM）"
+  "level": "B 级加厚 v1（官网快照核对：自有型号 OEM） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "ANDA TELECOM PRIVATE LIMITED（CIN U64202DL2004PTC131212；实缴 ₹1 lakh）",
@@ -271,6 +272,14 @@
     "quote": "兴趣：对EDFA台式很有兴趣 画了一个应用图;从ONV买 也有其他国内的 也买AOA的",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Anda Telecom Private Limited",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://andatelecom.com/"
    }
   ],
   "proof_gaps": [
@@ -291,5 +300,41 @@
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）"
   }
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:46:07Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@andatelecom.com",
+   "info@andatelecomindia.com"
+  ],
+  "phones": [
+   "+91 120 4109590",
+   "+91 9350345252",
+   "+91 9871650366"
+  ],
+  "social": [
+   "https://www.facebook.com/",
+   "https://www.linkedin.com/",
+   "https://www.twitter.com/"
+  ],
+  "models_on_site": [
+   "ATMIS-6408PI",
+   "ATMIS-402G",
+   "ATMIS-6208PI",
+   "ATMIS-6208S",
+   "ATMIS-6216PI",
+   "ATMIS-6216S",
+   "ATMIS-6408PIV2",
+   "ATS-2900-3200"
+  ],
+  "url": "https://andatelecom.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

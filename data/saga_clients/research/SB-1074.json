@@ -39,10 +39,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  "level": "B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "SETIK S.R.L.（P.IVA 09729650961；REA MB-1910472）",
@@ -122,6 +123,14 @@
     "quote": "兴趣：switch",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "CCTV Cameras, Alarm Systems and Security Kits | Setik - Setik.biz — Shop CCTV cameras, video surveillance kits, burglar alarm systems, video intercoms and security accessories online at Setik.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.setik.biz/en/"
    }
   ],
   "proof_gaps": [
@@ -132,5 +141,39 @@
    "body": "Buongiorno,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 31 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the switch category on setik.biz, two neutral-brand SKUs with photos and CE files for listing, from single units: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD EXW at distributor price (MOQ 1, 15-day validity); budget 8-PoE + 2 uplink unmanaged - STC-028GP - $25.1.\n\nOne question: who manages new suppliers at Setik, so I send the listing files to the right person?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:36:21Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "your@email.com"
+  ],
+  "phones": [
+   "+39 0362 1855440",
+   "+3903621855440"
+  ],
+  "social": [
+   "https://www.facebook.com/setik.biz",
+   "https://www.instagram.com/setikofficial/",
+   "https://www.youtube.com/user/setikBIZ"
+  ],
+  "models_on_site": [
+   "ES210GMP",
+   "IEEE802",
+   "IT09729650961",
+   "DS-KIS604-S",
+   "DS-3E0105-O",
+   "TL-PD30G-M2",
+   "PFS3008-8GT-V2",
+   "ES205G"
+  ],
+  "url": "https://www.setik.biz/en/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

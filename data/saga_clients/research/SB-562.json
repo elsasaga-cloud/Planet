@@ -35,10 +35,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对）"
+  "level": "B 级加厚 v1（官网快照核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "АлтВижен / ALTVISION（22opt.ru；г. Барнаул, ул. Малахова, 95 + Москва, Чермянский пр., 7；10 年；TopVision / HIVIDEO 品牌；法人 / ИНН 未取）",
@@ -105,6 +106,14 @@
     "quote": "兴趣：工业级POE switch 问了Gpon",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "ALTVISION - поставщик систем безопасности в Российской Федерации — системы видеонаблюдения, системы безопасности, интернет-магазин видеонаблюдения",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://22opt.ru/"
    }
   ],
   "proof_gaps": [
@@ -116,5 +125,37 @@
    "body": "Hi Pavel,\n\nFollowing your interest in industrial PoE switches (and the GPON question - GPON we do not make): the unit that fits a wholesale listing is a DIN-rail 8 x Gigabit PoE+ + 2 x SFP industrial switch, -40 to 75 C, unmanaged, model STI-288GP - $57.4 USD EXW per unit (MOQ 1, 15-day validity; lower in carton quantities). Product photos and a short spec sheet for the 22opt.ru product cards are ready.\n\nOne question: shall I send the price list and the photos for the listings?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:43:15Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "22opt@mail.ru",
+   "zakaz@22opt.ru"
+  ],
+  "phones": [
+   "+7 (3852) 99",
+   "+7-964-086-7959",
+   "+7964-086-7959 385-2-99-79-59 8-800-700-10-76"
+  ],
+  "social": [],
+  "models_on_site": [
+   "HI-01IP5-18X",
+   "TP-4265W100M",
+   "HI-03IP5-18X",
+   "HI-IPA4KS30SW",
+   "HI-04IP5-36X",
+   "HI-IPA4KS30",
+   "HI-02IP5-36X",
+   "ST-4801"
+  ],
+  "url": "https://22opt.ru/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

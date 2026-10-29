@@ -24,11 +24,12 @@
  ],
  "grade_override": "A",
  "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A1 复购/绑定≥中度；A2 成单/样品/PI+真人往来",
- "notes": "",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射；主体未核）"
+  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射；主体未核） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Green Technical LLC（greentechme.net；Ajman DED 执照不公开；**同名陷阱：greentech.ae / greentech-ae.com / Greentech Middle East 巴林 均非本户**）",
@@ -92,6 +93,14 @@
     "quote": "工业POE配件 / 971 55 572 1640 已加 / 成单客户",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "greentechme.net",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://greentechme.net/"
    }
   ],
   "proof_gaps": [
@@ -121,5 +130,32 @@
    "prev_reason": "实体未核实且零互动；即便同一公司，主业为太阳能，工业 PoE 为项目配套。B 慢跟。",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A1 复购/绑定≥中度；A2 成单/样品/PI+真人往来"
   }
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:57Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@greentechme.net"
+  ],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "IEEE802",
+   "NEPX201",
+   "NEPX101",
+   "NEPR-111",
+   "NTS-NIS4GP-9401-SF",
+   "NTS-NIS8G-88MSF4",
+   "NTS-NIS6GP-960WSF2",
+   "NTS-NSG-LC10"
+  ],
+  "url": "https://greentechme.net/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

@@ -48,10 +48,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "Berkeley Square House, Berkeley Square, Mayfair, London W1J 6BD（虚拟办公室）",
@@ -145,6 +146,14 @@
     "quote": "CCTV为主 有POE switch 但在网站上没找到；https://domar.com/products/zxtech-6-port-10-100m-switch-with-4-port-poe",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Zxtech™ Home Security and CCTV Camera System | Official Site — Zxtech produces Premium Home Security Cameras and Systems Extremely Quick and Simple to setup and install. Explore 5MP, 4K UHD, 12MP, Wireless, IP and Analog camera systems for all type of Homes. Advanced software and Long lasting hardwa",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://zxtech.co/"
    }
   ],
   "proof_gaps": [
@@ -155,5 +164,32 @@
    "body": "Hello Zxtech team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 4 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the Zxtech-branded 6-port 10/100M switch with 4 x PoE sold with your camera kits, a gigabit upgrade under your label from small lots: 4 x Gigabit PoE+ + 2 x Gigabit uplinks, unmanaged, UKCA/CE/RoHS - model STC-204GP - $26.2 USD EXW with your logo (MOQ 1, 15-day validity); for the larger kits, an 8 x PoE+ + 2 x SFP L2+ managed unit, STC-28DGGPM, $87.4. Logo on the unit is free; colour box from 200 sets.\n\nOne question: which kit size ships most - 4-camera or 8-camera?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:36:55Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [],
+  "social": [
+   "https://www.instagram.com/zxtechuk/"
+  ],
+  "models_on_site": [
+   "MN404PN",
+   "MCWBW55D",
+   "RS485",
+   "DC48V",
+   "MN904PN",
+   "MCWBW55B",
+   "IMX415",
+   "SSC338Q"
+  ],
+  "url": "https://zxtech.co/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

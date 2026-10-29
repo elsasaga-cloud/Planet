@@ -62,10 +62,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "PSA House, 17 Millicent Street, Burwood VIC 3125（03 9888 9889）（第 118 批 官方登记核实 2026-10-28）",
@@ -147,6 +148,14 @@
     "quote": "16 Port Industrial PoE Switch",
     "why": "本日去信真实主题（邮箱索引 42b0c6e18d91583e；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
     "k": "42b0c6e18d91583e"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "PSA Products | Security Systems Wholesale in Australia — Leading security systems distributor in Australia with brands like IntelLink, HomeGuard, Panacom, HiLook & Lifesaver. Contact for wholesale security equipment.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.psaproducts.com.au/"
    }
   ],
   "proof_gaps": [],
@@ -155,5 +164,38 @@
    "body": "Hi Marcus,\n\nOver the past months you had a steady stream of product mails from us - most recently \"16 Port Industrial PoE Switch\" on 22 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the HiLook PoE switches you wholesale, a house-brand position under IntelLink or Panacom from small lots, at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD; 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $134.5; budget unmanaged 8 x PoE+ + 2 x Gigabit - STC-028GP - $25.1. Logo on the unit is free; colour box from 200 sets. RCM stays on your side.\n\nOne question: is there a house-brand PoE position your installer customers ask for that HiLook does not fill?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:25:46Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "enquiries@psaproducts.com.au",
+   "enquiry@psaproducts.com.au",
+   "sales@psaproducts.com.au",
+   "support@psaproducts.com.au"
+  ],
+  "phones": [
+   "+61 3 9888 9889",
+   "+61 3 9888 9993"
+  ],
+  "social": [
+   "https://www.facebook.com/psaproducts",
+   "https://www.instagram.com/psaproducts/?fbclid=IwAR2FuO4Aa0C12LiXNY_7TiM-okfSToWNGxib9RBSWC_Qdg-GF4Mrwu7ABM8",
+   "https://www.linkedin.com/company/psa-products-pty-ltd/mycompany/?viewAsMember=true",
+   "https://www.youtube.com/@PSAproducts"
+  ],
+  "models_on_site": [
+   "PAN920",
+   "PAN930",
+   "HG3000"
+  ],
+  "url": "https://www.psaproducts.com.au/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

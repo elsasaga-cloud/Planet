@@ -6,7 +6,8 @@
  "type": "安防系统集成商 + 自有品牌",
  "size": "中型（≈120 人，≈$3.3M）",
  "brands_seen": [
-  "VICOM（自有）"
+  "VICOM（自有）",
+  "Siemens"
  ],
  "evidence": [
   {
@@ -63,11 +64,12 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A",
- "notes": "已开视频会 + 自有品牌 + 明确机型需求 = 可做 OEM（VICOM 贴牌）。印度非主攻区但项目体量可观。P1：4 光 24 电管理 PoE → STC-424DGGPM-280W（4 SFP 版本核对）；4 光 4 PoE 管理 → STI 工业 4 电 4 光机型（核价）；OEM 价阶 30%。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n已开视频会 + 自有品牌 + 明确机型需求 = 可做 OEM（VICOM 贴牌）。印度非主攻区但项目体量可观。P1：4 光 24 电管理 PoE → STC-424DGGPM-280W（4 SFP 版本核对）；4 光 4 PoE 管理 → STI 工业 4 电 4 光机型（核价）；OEM 价阶 30%。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1"
+  "level": "深挖 v1 + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "VICOM SECURITY PRIVATE LIMITED（CIN U51109WB1995PTC070096，1995-03-28，Active；实缴 ₹20 lakh；前名 Dinesh Enterprises Pvt. Ltd.；最近 AGM 2025-09-29）",
@@ -243,6 +245,14 @@
     "quote": "24 Port PoE Managed Switch｜Hi, This is our Marvell AC5 based L2+ switch featuring 1. 24",
     "why": "Elsa 群发命中（批 印度-2（锚 mintusony IN；，锚 To mintusony@gmail.com）",
     "k": "1a00e1740d3438ea"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Vicom Security Private Limited",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.vicomsecurity.com/"
    }
   ],
   "proof_gaps": [
@@ -263,5 +273,38 @@
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A"
   }
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:43Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@vicomsecurity.com"
+  ],
+  "phones": [
+   "+91 9830078655"
+  ],
+  "social": [
+   "https://www.facebook.com/vicomonline",
+   "https://www.instagram.com/bhutoriarajesh/",
+   "https://www.linkedin.com/company/vicomsecurity"
+  ],
+  "models_on_site": [
+   "VTD-9422E3B",
+   "IES7521-24PGE4GC-AC",
+   "IES7521-16PGE4TF-AC",
+   "IES7511-16PGE2GF-DC",
+   "VIES7511-8PGE2GF-DC",
+   "L2-VIES7511-8PGE2GE4GF-DC",
+   "VTD-9584S4",
+   "VTD-9584S3"
+  ],
+  "url": "https://www.vicomsecurity.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

@@ -55,10 +55,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "1720 Starkey Road, Largo, FL 33771",
@@ -146,6 +147,14 @@
     "quote": "PoE及配件 工业FS 自己的logo",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "DITEK Surge Protection - Home — DITEK Surge Protection is your first line of defense for sensitive electrical and electronic systems in every commercial, industrial and residential application.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.diteksurgeprotection.com/"
    }
   ],
   "proof_gaps": [
@@ -156,5 +165,35 @@
    "body": "Hello DITEK team,\n\nFor the DTK-SW16PL / DTK-SW24PL PoE switches sold under the DITEK label, we can be a second ODM source for the switch platform, leaving the surge stage to your own design.\n\nThe 24-port base: 24 x Gigabit PoE+ (280 W) + 4 x SFP uplinks, L2+ managed, Marvell-based, FCC/CE/RoHS - model STC-424DGGPM-280W - $145.7 USD EXW with your label (MOQ 1 for evaluation, 15-day validity). A 16-port PoE base (16 x PoE + 2 x SFP, unmanaged) is $88.0.\n\nOne question: which of the two would you dual-source first, the 16 or the 24?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:42:18Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [],
+  "social": [
+   "https://twitter.com/ditekcorp",
+   "https://www.facebook.com/diteksurgeprotection/",
+   "https://www.instagram.com/ditekcorp/",
+   "https://www.linkedin.com/company/ditek-corp/"
+  ],
+  "models_on_site": [
+   "MRJ45",
+   "DTK-120X12",
+   "DTK-KG2",
+   "DTK-SW24PL",
+   "DTK-SW16PL",
+   "DTK-SW5PT",
+   "DTK-SW8P",
+   "DTK-SW8PL"
+  ],
+  "url": "https://www.diteksurgeprotection.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

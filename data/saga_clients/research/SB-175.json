@@ -43,10 +43,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照 + 表内）"
+  "level": "B 级加厚 v1（官网快照 + 表内） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "M. Al-Barghash Trading & Contracting Company (MBTC)（1976；100% 沙资；关联 AAM Industrial；CR 号 1 查未得）",
@@ -128,10 +129,25 @@
     "quote": "用户表跟进：推「发了2光4相关信息」→ 对方「有用但现在没需求」",
     "why": "Simon 跟进表里的**婉拒/无需求**记录——这是 stop 原因的直接证据，节奏按「不动，等他开口」",
     "k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.13 2024.1.18"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Welcome — M-AL Barghash Company was established in the year 1976 in Eastern Province of Saudi Arabia, is a 100% Saudi Owned Company.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://mbtc.com.sa/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:25:10Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
  }
 }

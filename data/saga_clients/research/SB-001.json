@@ -115,11 +115,12 @@
    "source": "S/A 邮箱来信 2025-07-08 → 07-28 来信 2 封（第 72 批从邮件表头补）"
   }
  ],
- "notes": "A 级确认（成单 + 数据中心网络集成）；对位 Hohunet/CENTEC 线 10G/25G（STH 系列）与 STC L3 48 口，而非 PoE 接入。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\nA 级确认（成单 + 数据中心网络集成）；对位 Hohunet/CENTEC 线 10G/25G（STH 系列）与 STC L3 48 口，而非 PoE 接入。",
  "researched_at": "2026-10-22",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v2（官网 + ACRA 注册核对）"
+  "level": "深挖 v2（官网 + ACRA 注册核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Resonant Networks Pte. Ltd.（UEN 202005761Z，2020-02-20 注册；品牌 R~Nets，前身实体 2013-06-14 起）",
@@ -573,10 +574,42 @@
     "quote": "Hi, Au, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI *Price: 180USD/PC* Do you need some samples for testing? Thank you. [ima",
     "why": "历史报价点（主题「Re: Optional Marvell Chipset Solutions」；第 20 批从 gmail_s 回补）：180USD",
     "k": "059803e2ac308b24"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Resonant Networks | We Build the Earth's Digital Connectivity — Resonant Networks is the trusted name in optical connectivity, delivering ultra-fast, scalable digital infrastructure across Asia Pacific since 2013.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://resonantnetworks.com/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:19:33Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "11101110@resonantnetworks.com"
+  ],
+  "phones": [
+   "+65 6871 4128"
+  ],
+  "social": [
+   "https://www.linkedin.com/company/resonant-networks-pte-ltd/"
+  ],
+  "models_on_site": [
+   "AAE-1"
+  ],
+  "url": "https://resonantnetworks.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

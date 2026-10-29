@@ -121,7 +121,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（http_error）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（sanspot.com：HTTP 错误，2026-10-21，第 1 次）
 - **是谁**：美国 SANspot（官网快照 HTTP 错误；表内「工业 MC MC 自己的 logo；网站上都是 cable 等无源产品」（备注搜索页 media converter）；KP Deepali、vanil@）；群发 20 次无回复。
 - **类型**：布线网店/自有标 MC（美国）
 - **【用户表】表内兴趣/备注**
@@ -131,7 +131,8 @@ updated: 2026-10-29
   > 工业MC MC  自己的logo 网站上都是cable等无源产品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Deepali（研究档 KP（职务未取；SanSpot / OptoSpan 同一班人）= 收件人（第 95 批 官方登记核实 2026-10-28））deepali@sanspot.com 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2026-09-22 | 去 | A/S 群发 | Marvell Industrial Alert System、Industrial PoE Switch | 26 封 / 0 次打开 / 0 回｜首封 2024-06-17 → 末封 2026-09-22（26 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 商业POE 配件等 | 表内备注 | `用户表` |
 | 2026-09-22 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 0bdfee726f2ed57f；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封） | `0bdfee726f2ed57f` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Video surveillance and security in Corsica - Dynavision — DYNAVISION by INV-TECHNOLOGY products integrate the latest technologies in the video surveillance market, combining performance, design and very competitive prices. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -154,9 +155,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Maxence Noireaux（Technical Manager（研究档；Noireaux 家族）= 收件人（第 108 批 官方登记核实 2026-10-28））maxence@inv-technology.com 〔用户表〕
 - **KP**：Alexandre Noireaux（Président / 创始人（2015 起；1966 年生；manageo / societe.com）= 拍板人（抄送）（第 108 批 官方登记核实 2026-10-28）） 〔https://www.societe.com/societe/import-network-video-technology-inv-technologie-808965941.html〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -54,6 +54,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-09-15 | 去 | A 群发 | 10G L3 Managed Switch、32 Port 400GB DC Switch | 4 封 / 0 次打开 / 0 回｜首封 2026-05-27 → 末封 2026-09-15（4 去 / 0 来） | `gmail_digest` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Wood Communications – Your Link To The Future – Networking & Data Centre Certification – Turnkey Business Solutions – Online Catalogue | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -117,9 +118,10 @@ updated: 2026-10-29
   > 来源：https://www.woodcomm.ie/（抓取 2026-10-19）
 - **KP**：Derek Finlay（Sales Director（2007 MBO 核心；electric.ie）= 收件人（sales@woodcomm.ie 点名）（第 108 批 官方登记核实 2026-10-28））sales@woodcomm.ie 〔https://electric.ie/wood-communications-celebrate-100-years-of-leadership-in-data-and-telecoms-infrastructure-solutions/〕
 - **KP**：Keith Mahony（Managing Director（2005 起董事；vision-net / irishtrade）= 拍板人（抄送）（第 108 批 官方登记核实 2026-10-28）） 〔https://www.vision-net.ie/Company-Info/Wood-Communications-Limited-226087〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-013，W 批次调研 2026-10-19/20））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-013，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

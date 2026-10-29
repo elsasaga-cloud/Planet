@@ -9,7 +9,8 @@
  "brands_seen": [
   "DCN",
   "Hanwha Wisenet",
-  "Koovik"
+  "Koovik",
+  "Hanwha"
  ],
  "evidence": [
   {
@@ -38,10 +39,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对：DCN 渠道）"
+  "level": "B 级加厚 v1（官网快照核对：DCN 渠道） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "PT Panca Kumala Jaya（官网；NIB / NPWP 1 查未得）",
@@ -215,6 +217,14 @@
     "quote": "兴趣：基本都是DCN的；回复：回复没啥内容 但是有联系方式",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Home - Panca Kumala Jaya- Competent Partner in Smatv & Security Solution — 3 Solutions from Panca Kumala: SMATV & IPTV, Security and Access Solutions, 3play Solution",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.pancakumala.co.id/"
    }
   ],
   "proof_gaps": [
@@ -226,5 +236,32 @@
    "body": "Hello PT Panca Kumala Jaya team,\n\nYou had several mails from us over the past year - the last one, \"24 Port PoE Managed Switch\" in August 2026, showed the 24-port PoE unit at $170; your reply in October 2025 came through with the signature only, so I assume it was sent by mistake. This one is specific, and the price has moved, so first the reason: the yuan went from about 7.2 to 6.7 against the dollar, so the same unit is $180 today.\n\nWhere DCN is over-spec on the IPTV and CCTV jobs, at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS: S5750E-28X-P-EI position - 24 x Gigabit PoE+ (280 W) + 4 x 10G SFP+, L2+ managed, Marvell-based - model STC-424XGGPM-280W - $180 USD; DIN-rail industrial 8 x Gigabit PoE+ + 2 x SFP, L2 managed - STI-288GPM - $78.9. Samples are paid at the same price and ship by courier to Kedoya.\n\nOne question: on a typical IPTV or CCTV job, how many of the 24-port units go in - one per site, or several?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:41:34Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "customerservice.pkj@gmail.com"
+  ],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "IS2100D-4GF10GT-P",
+   "KVK-34",
+   "S5750E-28X-P-EI",
+   "IS5600G",
+   "XG-2U",
+   "IS5600G-28M",
+   "IS5600E-28M",
+   "IS3600G-28M"
+  ],
+  "url": "https://www.pancakumala.co.id/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

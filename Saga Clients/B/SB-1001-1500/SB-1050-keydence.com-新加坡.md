@@ -56,6 +56,7 @@ updated: 2026-10-29
 | 2026-09-16 | 内 | Gmail 退信（A 邮箱） | joey@keydence.com 永久退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_a aa8cdc85cdbf0ebd` |
 | 2026-09-16 | 内 | Gmail 退信（A 邮箱） | joey@keydence.com 退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErr | 该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开 | `gmail_a aa8cdc85cdbf0ebd` |
 | 2026-10-21 | 用户表 | Simon | 监控摄像 警报 光纤布线 网络 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | CCTV Camera Installation Solutions Singapore \| Keydence Systems — As Singapore's trusted Security Systems provider, Keydence offer services like CCTV cameras, door access systems, electrical cabling, network and data cabling systems, and communication systems. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -136,9 +137,10 @@ updated: 2026-10-29
   > 监控摄像 警报 光纤布线 网络
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Lawrence（Keydence Systems Pte. Ltd.（UEN 201019151W）研究档 KP（姓氏待核）= 收件人 — 一頁紙一次：集成商 25% small，CCTV 配套 PoE STC-028GP / 228GP / 2216GP 一口價 + 長距 PoE 250 m 模式 + 付費樣機；船用認證不聲稱— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 116 批 官方登记核实 2026-10-28））lawrence@keydence.com 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

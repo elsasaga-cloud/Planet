@@ -11,7 +11,8 @@
   "Hikvision",
   "ZKTeco",
   "Dahua",
-  "TVT"
+  "TVT",
+  "Pulsar"
  ],
  "evidence": [
   {
@@ -72,11 +73,12 @@
  ],
  "grade_override": "B",
  "override_reason": "品类完全对位（商业 PoE，UniPoE 在用）但 17 次推送 0 回复，俄语区非主攻 → 慢跟。",
- "notes": "重启只发一次'UniPoE 1216POE 对位 STC-21616GP/STC-424DGGPM 价格差'邮件。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n重启只发一次'UniPoE 1216POE 对位 STC-21616GP/STC-424DGGPM 价格差'邮件。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + 网店核对）"
+  "level": "B 级加厚 v1（官网 + 网店核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "ТОО «Pulsar Systems» / Pulsar Systems LLP（БИН 100740012554）",
@@ -203,6 +205,14 @@
     "quote": "Managed PoE Switches",
     "why": "本日去信真实主题（邮箱索引 81de345d724d61ea；信稿开头句引用此封；此前稿内写的「Marvell Alleycat5 Solution」是线程列表首题，不是本封）",
     "k": "81de345d724d61ea"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Оборудование для систем безопасности и видеонаблюдения — Широкий выбор оборудования для систем безопасности и видеонаблюдения, обеспечивающего защиту объектов любой сложности. Качественные решения от ведущих брендов.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://pulsar.kz/"
    }
   ],
   "proof_gaps": [],
@@ -211,5 +221,27 @@
    "body": "Hello Pulsar Systems team,\n\nWe wrote to you once in February 2025 about a mini industrial switch, and since then only general product mails - most recently \"Managed PoE Switches\" on 7 October 2026 - none of which needed an answer. This one is specific.\n\nNext to the UNIPOE PM3018GSNL-330 V2 (118,195 tenge in your shop), the same configurations as a second source, neutral or your packaging, at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS: 16 x Gigabit PoE+ + 2 x SFP, unmanaged - model STC-2016GP - $88.0 USD; 24 x Gigabit PoE+ + 2 x Gigabit + 2 x SFP, unmanaged, 300 W - STC-2024GP - $93.5; 8 x PoE+ + 2 x Gigabit - STC-028GP - $25.1. EAC stays on your side.\n\nOne question: do you need a second source for when UNIPOE lead times or prices move, or is the exclusive arrangement fixed?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:21:28Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "almaty@pulsar.kz",
+   "info@pulsar.kz"
+  ],
+  "phones": [
+   "+7 (702) 000-61-17",
+   "+7 (708) 486-29-08"
+  ],
+  "social": [],
+  "models_on_site": [],
+  "url": "https://pulsar.kz/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

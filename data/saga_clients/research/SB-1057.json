@@ -50,10 +50,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "罗马尼亚",
@@ -135,6 +136,14 @@
     "quote": "比较多的外壳 有国内的 switch MC WDM等",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Mondo Plast - Cabluri si echipamente pentru telecomunicatii — Mondo Plast - importator si distribuitor echipamente telecomunicatii: fibra optica,cablu,statie radio,ups-uri,antena,rack,receptor satelit,router,router wireless,camera supraveghere,switch,media conv",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.mondoplast.ro/"
    }
   ],
   "proof_gaps": [
@@ -145,5 +154,41 @@
    "body": "Hello Mondo Plast team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 18 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nAlongside the switches and media converters you import, from small lots, CE/RoHS, neutral packing: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD EXW at distributor price (MOQ 1, 15-day validity); budget 8-PoE + 2 uplink unmanaged - STC-028GP - $25.1; industrial mini Gigabit media converter with SFP slot - STI-110GE - $26.5. WDM optics and SFP modules we do not supply.\n\nOne question: which band sells most through your Timișoara branch - budget unmanaged PoE, managed PoE, or media converters?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:36:01Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "bucuresti@mondoplast.net",
+   "financiar@mondoplast.ro",
+   "timisoara@mondoplast.net",
+   "webmaster@mondoplast.ro"
+  ],
+  "phones": [
+   "0000 0002 3005 7310",
+   "0000 0119 7018",
+   "0000 0119 7045"
+  ],
+  "social": [
+   "https://www.facebook.com/mondo.plast.srl"
+  ],
+  "models_on_site": [
+   "RO-12755240",
+   "AWG24",
+   "XTGK-45",
+   "AWG23",
+   "RG-59",
+   "YE00923-CTS",
+   "YE00918",
+   "HT-106C"
+  ],
+  "url": "https://www.mondoplast.ro/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

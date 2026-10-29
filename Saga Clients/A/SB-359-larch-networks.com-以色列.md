@@ -77,6 +77,7 @@ updated: 2026-10-29
 | 2026-06-03 | 来 | oksana@larch-networks.com | Hi Alan, The exhibition is going very well, and we have a lot of visitors. As Alex mentioned earlier, we would like to arrange a short online meeting | 来信原文（主题「Re: Supported SONiC for Saga Ethern」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `ce5ef79be8ca9c8c` |
 | 2026-06-05 | 去 | Saga（Alan） | Hi, Oksana, Thanks for your information. 1. Good to know that everything is going well there! 2. In previous emails, we discussed high-speed network switches(Marvell based and CENTEC based) and L2 / L3 Ethernet switches for SMBs. Your focus is on Marvell SONiC for high-speed networks. But we are cur… | Saga 实质答复原文（主题「Re: Supported SONiC for Saga Ethernet Sw」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `d637bcde75ed85d8` |
 | 2026-07-02 | 来 | Oksana（Larch） | We urgently need 10 pieces of DX1518/DX1548 chips… Could you please let us know if you have any of these chips in stock? | 芯片请求被拒（Marvell 采购审查） | `f77f97cdc39f10a5` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Larch Networks — Tailor-made Network Software and Hardware Development — Larch Networks is a company specializing in systems engineering, deployment, and implementation. The team is made up of experienced professionals with a strong background in managing complex projects, designing systems, and int | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：Q-49：「国内客户冲突」的边界待 Simon 判；06-10/11 线上会最终是否发生：A 邮箱无记录（Alan 06-05 婉拒后无会议邮件）
 
@@ -161,9 +162,10 @@ updated: 2026-10-29
 - **KP**：Oksana Loy（来信署名人（职务未在邮件署名里出现））oksana@larch-networks.com 〔S/A 邮箱来信 2026-06-02 → 07-02 来信 3 封（第 72 批从邮件表头补）〕
 - **KP**：Eddie Preskovsky（联合创始人（Tracxn 记为 co-CEO）—— 抄送（第 90 批 官方登记核实 2026-10-27）） 〔https://www.larch-networks.com/〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

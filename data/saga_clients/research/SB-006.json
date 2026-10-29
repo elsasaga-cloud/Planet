@@ -11,7 +11,8 @@
   "Phoenix Contact",
   "nVent Hoffman",
   "Schneider Electric",
-  "Teltonika"
+  "Teltonika",
+  "Schneider"
  ],
  "evidence": [
   {
@@ -94,11 +95,12 @@
    "source": "https://www.tofler.in/united-control-engineers-india-private-limited/company/U17302UP2019PTC115938"
   }
  ],
- "notes": "A 确认：工业自动化分销商是 STI 非管理工业交换机（STI-244GP/288GP）的天然渠道；印度区价格敏感，报 20% 分销档并给 MOQ 阶梯。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\nA 确认：工业自动化分销商是 STI 非管理工业交换机（STI-244GP/288GP）的天然渠道；印度区价格敏感，报 20% 分销档并给 MOQ 阶梯。",
  "researched_at": "2026-10-22",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1"
+  "level": "深挖 v1 + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "UNITED CONTROL ENGINEERS INDIA PRIVATE LIMITED（CIN U17302UP2019PTC115938；GST 09AACCU4195M1ZP）",
@@ -263,6 +265,14 @@
     "quote": "用户表跟进：推「问需求」→ 对方「基本只需要电口 不要光」",
     "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
     "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.73 2024.8.13"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Industrial Automation Company in Greater Noida | UCEIPL — United Control Engineers India Pvt. Ltd., Authorized Delta, Schneider, ABB and Phoenix Contact distributor in Greater Noida for VFD, PLC, HMI",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://unitedcontrolengg.com/"
    }
   ],
   "proof_gaps": [
@@ -273,5 +283,38 @@
    "body": "Rajesh, Simon from Saga Telecom (the STI-050FE / STI-080FE samples, April 2024). One question: did the samples go into any panel? You said copper only, no fibre - if a 5/8-port Gigabit DIN unit at distributor price with a 20/50-piece ladder is useful next to the Phoenix and Teltonika slots on your switch page, I send it; if the panels went another way, tell me and I stop asking."
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:19:33Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "marketing@unitedcontrolengg.com",
+   "office@unitedcontrolengg.com",
+   "sales@unitedcontrolengg.com"
+  ],
+  "phones": [
+   "+919311150492",
+   "+919990632600"
+  ],
+  "social": [
+   "https://www.facebook.com/unitedcontrolengg",
+   "https://www.instagram.com/unitedcontrolengg/",
+   "https://www.linkedin.com/company/u-c-e-i-p-l",
+   "https://www.linkedin.com/company/u-c-e-i-p-l/"
+  ],
+  "models_on_site": [
+   "RAL-7035",
+   "MS300",
+   "SS-304",
+   "RAL-2000"
+  ],
+  "url": "https://unitedcontrolengg.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

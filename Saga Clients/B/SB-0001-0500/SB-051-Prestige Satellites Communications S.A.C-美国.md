@@ -58,6 +58,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 买了MC POE / Prestige Satellites Communications S.A.C. / rob@prestigevsat.com / 外贸邦 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Prestigevsat.com \| Yacht VSAT \| Prestige Satellite Communications — We specialize in providing quality Yacht VSAT, TVRO, and IT services to luxury vessels. Our team has over 30 years industry experience. VSAT \| Prestige Satellite Communications Inc. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -131,9 +132,10 @@ updated: 2026-10-29
 - **KP**：Rob（姓待核）（Owner（ZoomInfo：Howell Robert = Rob）= 收件人 — 回访一页纸一次：集成商 25% B、STC-110XGE $65 + STC-228GP $33 / STC-2216GP 游艇机房一口价 + MOQ 1；船级 / 海事认证不声称 — 美国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP（买方清关）、NDAA / TAA / UL 不声称；周三 08–10 当地（第 122 批 官方登记核实 2026-10-29））rob@prestigevsat.com（用户表） —〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：William Bye（President / Registered Agent / Director & Engineer（Sunbiz + ZoomInfo 2026-10-29；无公开邮箱）（第 122 批 官方登记核实 2026-10-29）） 〔〕
 - **调研后定级**：B（原自动 A）——有历史成交但无时间、无互动记录，南美非主攻区 → B 待机回访。
-- 备注：老客户回访一封（STI-110GE + STC-28DGGPM）。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+老客户回访一封（STI-110GE + STC-28DGGPM）。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 登记核对；国家待核 US/PE））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 登记核对；国家待核 US/PE） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

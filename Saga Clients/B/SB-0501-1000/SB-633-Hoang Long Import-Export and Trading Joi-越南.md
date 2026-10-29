@@ -52,6 +52,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-09 | 去 | Elsa 群发（BCC；To info@hoangvanco.com.vn） | 24 Port PoE Managed Switch（Elsa 群发第 1/1 轮；本户在 Bcc，锚 To info@hoangvanco.com.vn；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(n) `from:e.sagatelecom to:hlc.vn` 命中行 To=info@hoangvanco.com.vn ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 和3旺有合作 工业FS MC VC；16槽收发器机架 / from: 阿里巴巴询盘 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | CÔNG TY CỔ PHẦN XUẤT NHẬP KHẨU VÀ THƯƠNG MẠI HOÀNG LONG — Công ty chuyên sản xuất các sản phẩm mạng truyền thông công nghiệp Switch công nghiệp, bộ chuyển đổi quang, sản phẩm của chúng tôi thu được nhiều chứng thực quốc tế như FCC, CE và tuân thủ RoHS, chúng tôi là một công ty ISO9001: 2008, hầu hết | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无来信（Elsa 去信 1 轮见 facts；S/A 箱无往来）
 
@@ -120,9 +121,10 @@ updated: 2026-10-29
   > 和3旺有合作 工业FS MC VC；16槽收发器机架 / from: 阿里巴巴询盘
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Hoang Nguyen Anh（表内联系人（研究档；职务未核；阿里巴巴询 16 槽机架）= 收件人 — 一页纸一次：贴标 OEM 30% B、HLC 标 / 中性包装 STI-288DGGPM / STI-488DGGPM / STI-0240GE，MOQ 起订 + 付费样机、机架不做明说、不点名三旺 — 越南常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、MIC 不声称（第 119 批 官方登记核实 2026-10-28））nguyenhoang@hlc.vn 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

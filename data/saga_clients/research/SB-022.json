@@ -61,11 +61,12 @@
  ],
  "grade_override": "B",
  "override_reason": "核心需求 IP67 户外机 —— Saga 三家供应商均无 IP67 产品线（Saga 不做 IP67）；且报价后 0 回复/7 次推送。警务项目属公共安全边缘 → 守界慢跟。",
- "notes": "若未来需求转为室内/机柜工业 PoE（IP30/IP40 DIN 导轨），可用 STI-288DGGPM 重启；不要承诺 IP67。待补证：公司注册与规模。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n若未来需求转为室内/机柜工业 PoE（IP30/IP40 DIN 导轨），可用 STI-288DGGPM 重启；不要承诺 IP67。待补证：公司注册与规模。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（Impressum + 登记核对）"
+  "level": "B 级加厚 v1（Impressum + 登记核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Desk Sicherheit GmbH（Amtsgericht Mannheim HRB 717686；2013 UG → 2022-12 GmbH，资本 €25,000）",
@@ -142,10 +143,47 @@
     "quote": "和当地警察局有联系，他们会按照项目找产品，对IP67有兴趣，配线大约需要60-80米，报价80美金一台，能否OEM，想买样品测试IP67",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "DESK Sicherheit — Sicherheitsdienst, Alarmanlagen, Videoüberwachung, KI-Analyse & Drohnenabwehr – aus Karlsruhe, deutschlandweit & international im Einsatz. 24/7-Leitstelle.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://desk-sicherheit.de/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:21:10Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "email@beispiel.de",
+   "info@desk-sicherheit.de",
+   "name@organisation.de"
+  ],
+  "phones": [
+   "+49 (0)721 952 79 802"
+  ],
+  "social": [
+   "https://twitter.com/DeskSecKa",
+   "https://www.facebook.com/DeskSicherheit/",
+   "https://www.instagram.com/desksicherheit/",
+   "https://www.linkedin.com/company/desk-sicherheitsdienst"
+  ],
+  "models_on_site": [
+   "DE291361315"
+  ],
+  "url": "https://desk-sicherheit.de/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

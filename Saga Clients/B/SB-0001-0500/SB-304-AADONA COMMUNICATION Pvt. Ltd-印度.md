@@ -63,6 +63,7 @@ updated: 2026-10-29
 | 2026-04-01 | out | Elsa → ceo@aadona.com, govind.madhav@aadona.com | Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 7/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:aadona.com` 全程 complete：7 轮直收（头 msg 19d4845620351ed3 无 Bcc，称呼「Hi, Pinaki」）；0 回 | `elsa_1to1` |
 | 2026-09-02 | 去 | A 群发 | 24 Port PoE Managed Switch、48 Port PoE Managed Switch | 5 封 / 0 次打开 / 0 回｜首封 2025-04-09 → 末封 2026-09-02（5 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：工业FS比较多 监控 https://aadona.com/industrial-switches/ | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | AADONA â Truly Indian IT & Networking Solutions — AADONA delivers Made in India networking products including switches, servers, CCTV, wireless systems and reliable IT solutions for businesses. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -139,9 +140,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Pinaki Chatterjee（Director / CEO（indiafilings 董事 2018-06-18–；pinaki.chatterjee@aadona.com 为登记邮箱）= 拍板人 / 收件人（第 114 批 官方登记核实 2026-10-28））ceo@aadona.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Govind Madhav（AADONA 研究档 KP = 抄（第 114 批 官方登记核实 2026-10-28））govind.madhav@aadona.com 〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照：自有品牌 OEM））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照：自有品牌 OEM） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

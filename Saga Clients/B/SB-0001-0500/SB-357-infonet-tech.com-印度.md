@@ -25,7 +25,7 @@ s_mail: 3 msgs (out 2 / in 1), 2024-06-22 -> 2024-12-05
 p1: none
 price_tier: 25%
 research: done
-site_snapshot: ok  # 2026-10-21
+site_snapshot: mismatch  # 2026-10-21
 sources: 1
 updated: 2026-10-29
 ```
@@ -37,7 +37,7 @@ updated: 2026-10-29
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 15 次（2023-12-15 → 2025-06-21）；最近一次客户回复：2024-12-04：125 email 48口
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（1/2 封有打开记录）：「industrial fiber switch」(2024-06-22) → 读者兴趣偏「工业」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-05 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：年走量与现供应商
+- **最大未知**：公司官网（表内域名经核实不属于本客户；真实官网未知）
 - **下一步**：不动 — —
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
@@ -55,6 +55,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2024-06-21 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「发了几个商业交换机图」→ 对方「Email发了2光2小壳信息」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/Whatsapp_S跟进 2026.08.04.xlsx no.70 2024.6.21` |
 | 2024-12-04 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「引流机型」→ 对方「125 email 48口」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/Whatsapp_S跟进 2026.08.04.xlsx no.70 124` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Infonet Technology \| Gas Station & C-Store POS System — Infonet Technology provides integrated POS and fuel management software for gas stations, c-stores, fleet fueling, and unattended sites across North America. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -115,6 +116,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线，但站点与表内客户不符（site_mismatch）
 - **是谁**：表内域名 infonet-tech.com 的网站是北美加油站 / 便利店 POS 与燃油管理软件公司（Infonet Technology），与印度联系人 Sudesh Verma（+91 740）及「光猫」需求不符；sales@infonet-tech.com 曾用于发送资料，是否同一主体待核。需求 ONU（Saga 无）。
+- **在卖/在用品牌**：Ubiquiti
 - **【官网快照】站点为北美加油站 POS 软件公司**
   > Infonet Technology provides integrated POS and fuel management software for gas stations, c-stores, fleet fueling, and unattended sites across North America
   > 来源：https://infonet-tech.com/（抓取 2026-10-21）
@@ -122,9 +124,10 @@ updated: 2026-10-29
   > 兴趣：光猫；回复：Email发了2光2小壳信息；125 email 48口
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Sudesh Verma（）sales@infonet-tech.com +91 74083 98524〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（域名误配判定 + 需求映射））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（域名误配判定 + 需求映射） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -138,20 +141,12 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 待核型（无标准对应）（25% 档）——需求光猫不在 Saga 范围；主体待核，无主推型。
 - **邮件切入句（英文）**：（待核主体；不主动发送）
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名误配（快照到的网站不是本客户））
 
-- **首页**：https://infonet-tech.com/　语言：en　站点地图 URL 数：22
-- **标题**：Infonet Technology / Gas Station & C-Store POS System
-- **描述**：Infonet Technology provides integrated POS and fuel management software for gas stations, c-stores, fleet fueling, and unattended sites across North America.
-- **首页栏目**：POS & Fuel Management System for Gas Stations and Convenience Stores / C-Store Commander / Unattended Fueling / Fleet Fuel Operations / Custom Software / Retail Gas Stations / Convenience Stores / Unattended Fuel Sites
-- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 4、camera 2、cable 1
-- **站内出现的品牌**：Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
-- **站内公开邮箱**：cstoresupport@infonet-tech.com, info@eqtbd.com, info@infonet-tech.com, sales@infonet-tech.com
-- **社媒**：http://www.linkedin.com/company/infonet-technology-corporation, https://twitter.com/InfonetTech1, https://www.facebook.com/infonettechcorp/, https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Finfonet-tech.com%2Fblog%2Fc-store-back-office-software, https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Finfonet-tech.com%2Fblog%2Fconvenience-store-pos-software, https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Finfonet-tech.com%2Fblog%2Fmigrating-to-modern-pos
-- **已抓子页**：[How an Outdated POS Hurts C-Store Operators Financially](https://infonet-tech.com/blog/outdated-pos-systems-cost)；[C-Store Back Office Software for Catching Shrink Early](https://infonet-tech.com/blog/c-store-back-office-software)；[Why Convenience Store POS Software Fails Across Sites / Info](https://infonet-tech.com/blog/convenience-store-pos-software)；[C-Store Commander / C-Store POS System & Software / Infonet](https://infonet-tech.com/solution/c-store-commander)；[Contact Us & Request a Demo / Infonet Technology](https://infonet-tech.com/contact)；[How to Migrate to a Modern POS: A Step-by-Step Guide](https://infonet-tech.com/blog/migrating-to-modern-pos)
-- 首页正文摘录：Home Industries Retail Gas Stations Convenience Stores Unattended Fuel Sites Fleet Fueling First Nations Retail Solutions C-Store Commander Unattended Fueling Solutions Custom Software Services Integrations Hardware Sourcing Installation & Training Company Who We Are Affiliations & Partners Leadership Team Blogs get in touch [ infonet solutions ] POS & Fuel Management System for Gas Stations and Convenience Stores Fr
-- **自动对位建议**：STC-28DGGPM（官网快照对位：交换机词频 4、无 PoE/工业侧重 → 8 口 L2+ 起手；仅在无人工对位时作为 P1）
-- 数据文件：`data/saga_clients/site_snapshots/SB-357.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
+- 尝试域名：infonet-tech.com
+  > True
+- **提示**：人工核对后判定表内域名不属于本客户（见上方说明），本客户以邮箱/电话为准；快照内容不采用。
+- 数据文件：`data/saga_clients/site_snapshots/SB-357.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -279,6 +274,7 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
+- [ ] 公司官网（表内域名经核实不属于本客户；真实官网未知）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

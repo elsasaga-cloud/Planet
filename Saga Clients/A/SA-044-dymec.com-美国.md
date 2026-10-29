@@ -67,6 +67,7 @@ updated: 2026-10-29
 | 2026-06-01 | 去 | Alan | Operating temperature: 0ºC to 40ºC | 答的是商用款——致命 | `2454f781f4a01510` |
 | 2026-06-01 | 来 | sales.support@dymec.com | Alan, for our market your operating temp does not go high enough.... | 停点原话 | `372ede3d101a3791` |
 | 2026-06-03 | 去 | Saga（Alan） | Hi, Thomas, 1. What is your expected range? 2. 0ºC to 40ºC is a popular range, widely applied by various brands like Juniper, see attached photo. Such switches are installed in data center stations with a fixed temp range from 22ºC to 28ºC, and there are good cooling conditions and designs. It shoul… | Saga 实质答复原文（主题「Re: 10G L3 Managed Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `6b53faaab0eef35f` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Industrial Ethernet Solutions \| Secure Networks \| Rugged Ethernet \| Dymec — Dymec sells rugged, temperature-hardened industrial ethernet products and networking equipment that can be utilized in a variety of industries. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：BlueWarrior 与 DYMEC 的股权/品牌关系仅凭自动回复推断（Tom West 同时出现在两边）——官网未交叉印证
 
@@ -173,9 +174,10 @@ updated: 2026-10-29
   > 来源：https://www.dymec.com/product-catalog/economy-industrial-ethernet-switches/（抓取 2026-10-21）
 - **KP**：Thom Sherer（联系人（用户表邮箱））thom.sherer@dymec.com +1 713-826-0739〔https://www.dymec.com/〕
 - **KP**：Thomas West（President（Sales & Engineering，两项交通组网专利）= 拍板人；**同时是 SA-033 BlueWARRIOR 的联系人**；法人 Kyland-USA, LLC（dba DYMEC，VOSB 退伍军人小企业，2015-02 收购 DYMEC 品牌、2015-12 统一更名）（第 84 批 官方登记核实 2026-10-27））sales@dymec.com 〔S/A 邮箱来信 2024-07-30 → 2025-03-28 来信 4 封（经 sales@ 公共箱署名）（第 72 批从邮件表头补）〕
-- 备注：A 确认（美国自有品牌工业交换机 + 已回复）：只攻其非 TAA 的 Economy 线，P1 = STI-288DGGPM / STI-488XGGPM 贴牌，30% OEM 档；不承诺 TAA/NSA/UL。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+A 确认（美国自有品牌工业交换机 + 已回复）：只攻其非 TAA 的 Economy 线，P1 = STI-288DGGPM / STI-488XGGPM 贴牌，30% OEM 档；不承诺 TAA/NSA/UL。
 
-### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + dymecdirect 清仓价核对））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + dymecdirect 清仓价核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

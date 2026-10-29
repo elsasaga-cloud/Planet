@@ -52,10 +52,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "土耳其",
@@ -136,6 +137,14 @@
     "quote": "名单行：「90 5315637721 Commercial POE satis@konakguvenlik.com.tr https://www.konakguvenlik.com.tr/k/2539-.html」",
     "why": "Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持）",
     "k": "gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Anasayfa — Anasayfa -Güvenli E-Ticaret,Motif Kart,Sendika,MemurSen, Alışveriş,İndirim, Kupon, Ucuz, Kaliteli, Vakıf,Elektronik, İnşaat, Okul, Bilgisayar,Tablet, Sanat,Kamera.Alarm",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.konakguvenlik.com.tr/"
    }
   ],
   "proof_gaps": [
@@ -143,5 +152,32 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:23:10Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [
+   "+90 344 221 55 55",
+   "+90 506 415 55 00"
+  ],
+  "social": [
+   "http://www.facebook.com/konakguvenlik.com.tr",
+   "https://twitter.com/konakguvenlik",
+   "https://www.instagram.com/konakguvenlik"
+  ],
+  "models_on_site": [
+   "OPAX-2427",
+   "OPAX-1619",
+   "OPAX-0810"
+  ],
+  "url": "https://www.konakguvenlik.com.tr/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

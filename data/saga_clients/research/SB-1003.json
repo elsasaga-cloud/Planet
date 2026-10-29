@@ -2,7 +2,7 @@
  "code": "SB-1003",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（unreachable）",
+ "website_status": "快照失败（aplusnet.de：域名不可达（DNS/连接失败），2026-10-21，第 1 次）",
  "summary": "德国 A+ Net（aplusnet.de：SFP、工业 FS、MC、PoE；「Digitus 的产品很多，价格很高」；KP Sonja Geserick；表内「质量一般」；官网 unreachable）；表内未跟进。",
  "type": "网络产品经销商（德国，Digitus 为主）",
  "size": "",
@@ -37,7 +37,7 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
@@ -132,5 +132,14 @@
    "body": "Hi Sonja,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 31 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nNext to the Digitus industrial switches and media converters you carry, a lower-priced industrial position, neutral brand, CE/RoHS, from single units:\n\n- DIN-rail 8 x Gigabit + 2 x SFP, unmanaged, -40 to 75 C - model STI-280GE - $46 USD EXW (MOQ 1, 15-day validity)\n- the same footprint L2 managed (VLAN, QoS, IGMP), Marvell-based - STI-280GM - $68.2\n- industrial mini Gigabit media converter with SFP slot - STI-110GE - $26.5\n\nSFP optics we do not supply.\n\nOne question: is there an industrial position where your customers ask for a lower price than Digitus - and which one?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:27:15Z"
+  ],
+  "fails": [
+   "2026-10-21"
+  ],
+  "batch": "LT-T03"
  }
 }

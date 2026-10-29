@@ -39,10 +39,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照：主体待核 + SKD 意向）"
+  "level": "B 级加厚 v1（官网快照：主体待核 + SKD 意向） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Egyptian Aluminium Tubes Company – Tubal Egypt（商业登记号 1 查未得；PoE 为新业务）",
@@ -126,6 +127,14 @@
     "quote": "兴趣：主要处理POE，对2光10电做了详细讲解，比较懂… SKD可以嘛？把外壳和板子分开提供 回复说可以 客户说这样容易清关",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Tubal Egypt",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://tubal-egypt.com/"
    }
   ],
   "proof_gaps": [
@@ -133,5 +142,27 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:27:05Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@tubal-egypt.com",
+   "inside@vektor.com"
+  ],
+  "phones": [],
+  "social": [
+   "https://www.linkedin.com/company/egyptian-aluminium-tubes-co-s-a-e/",
+   "https://x.com/tubalegypt80?s=21"
+  ],
+  "models_on_site": [],
+  "url": "https://tubal-egypt.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

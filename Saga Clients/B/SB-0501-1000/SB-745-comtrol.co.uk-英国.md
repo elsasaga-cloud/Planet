@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2025-02-24 | 去 | Elsa 1:1 去信（To sales@comtrol.co.uk, tim.jones@comtrol.co.uk） | 16 Port Ethernet Switch — 16-port DIN Gigabit Ethernet switch for vehicle network / industrial automation; model choice 5/8 port, 10/100M, PoE version（稿内无价，第 74 批(p) 已读稿） | Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，称呼「Hi, Tim」；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封 | `elsa_1to1` |
 | 2026-09-18 | 去 | A/S 群发 | Marvell Industrial Alert System、Industrial PoE Switch | 27 封 / 2 次打开 / 0 回｜首封 2024-07-03 → 末封 2026-09-18（27 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | MC 光猫 工业FS 很多是omnitron的产品 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Comtrol UK Ltd - — A multi award winning Value Added Distributor of Specialist Communications Equipment for over 30 years with Design and Manufacture capabilities. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -150,9 +151,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Timothy (Tim) Jones（）tim.jones@comtrol.co.uk 〔用户表〕
 - **KP**：Nigel Robert Wesley（Director（2020-02→2022-07；2025-01-13 回任至今；1957-04 生）= 与 Jones 共同当家（第 88 批 官方登记核实 2026-10-27）） 〔https://find-and-update.company-information.service.gov.uk/company/09041682/officers〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

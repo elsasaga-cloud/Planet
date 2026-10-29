@@ -62,6 +62,7 @@ updated: 2026-10-29
 | 2026-03-09 | 去 | A/S 群发 | Managed Optical Bypass Switch、Industrial PoE Switch | 20 封 / 0 次打开 / 0 回｜首封 2024-08-13 → 末封 2026-03-09（20 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 烽火美国分公司 · 收发器/差点成样品单 | 表内备注 | `用户表` |
 | 2026-03-09 | 去 | A 箱（Alan） | Updated Ethernet Switches Links | 本日去信真实主题（邮箱索引 d4749e65fc7389b4；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封） | `d4749e65fc7389b4` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Home — Ongoing Technology Innovations, from ideas to solutions, make FHN-NA a leader in global Telecom and Network markets Innovation Satisfied Online Experiences All Online - Real time experiences are enabled by our Fiber Optic network solutions Total Solution of Active FTTH Carrier class Ethernet  | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -137,9 +138,10 @@ updated: 2026-10-29
   > 烽火美国分公司 · 收发器/差点成样品单
   > 来源：Clients/A/DONE/US.xlsx（抓取 2026-10-21）
 - **调研后定级**：A（原自动 C）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌
-- 备注：若用户确认其北美公司独立采购且有持续需求，可改回 A。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+若用户确认其北美公司独立采购且有持续需求，可改回 A。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于用户表整理 + 需求映射））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于用户表整理 + 需求映射） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

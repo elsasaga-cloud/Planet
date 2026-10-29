@@ -133,7 +133,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（http_error）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（fiberdyne.com：HTTP 错误，2026-10-21，第 1 次）
 - **是谁**：美国 Fiberdyne（官网快照 HTTP 错误；表内「光路的 10G MC、SFP、商业 FS，少部分工业 FS 自己的 logo」；KP Jeremy Nulty（International Sales Director）、Ken Misterka（VP Purchasing）、Peter Polus）；群发 18 次无回复。
 - **类型**：光纤产品品牌商（美国，自有标 FS/MC）
 - **【用户表】表内兴趣/备注**
@@ -145,7 +145,8 @@ updated: 2026-10-29
 - **KP**：Ken Misterka（VP Purchasing（2001 起）/ VP Logistics（2008 起）= **采购拍板人本人** —— 制造商采购要的是配套 / 贴牌，不是价表（第 89 批 官方登记核实 2026-10-27））sales@fiberdyne.com 〔用户表〕
 - **KP**：Jeremy Nulty（） 〔用户表〕
 - **KP**：Peter Polus（Founder / Chairman（1992 创立；Polus 家族所有；CEO 为 A. Peter Polus III）（第 89 批 官方登记核实 2026-10-27））peter@fiberdyne.com 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

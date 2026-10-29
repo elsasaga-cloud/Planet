@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2026-10-01 | 去 | A/S 群发 | Industrial PoE Switch、Marvell Industrial Alert System | 32 封 / 1 次打开 / 0 回｜首封 2024-07-01 → 末封 2026-10-01（32 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS | 表内备注 | `用户表` |
 | 2026-10-01 | 去 | A 箱（Alan） | Managed PoE Switches | 本日去信真实主题（邮箱索引 1679de00373a098c；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `1679de00373a098c` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Wireless Microwave Communications Australia \| Wave1 — Discover Wave1's advanced wireless communication solutions, offering high-speed, reliable and secure connection for diverse organisational needs. Enquire now. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -138,9 +139,10 @@ updated: 2026-10-29
   > 工业FS；Wayne Anderson / CEO 可以多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Wayne Anderson（CEO（研究档；备用 wayneand4305@icloud.com；22 次跟进无回复；Simon「可以多跟进一下」）= 拍板人 / 收件人 — 一页纸一次（最后一次）：集成商 25% B、基站 / 塔架侧宽温 PoE STI-154GP / STI-288DGGPM（802.3at 给 PoE 电台 / 摄像机供电）+ 机房 STC-4424GCPM 一口价、无源 PoE 电台不兼容明说、3 年保 + MOQ 1 + 付费样机 — 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、RCM 不声称（DAP 买方清关）（第 118 批 官方登记核实 2026-10-28））wayne@wave1.com.au 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -61,10 +61,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "瑞士",
@@ -174,6 +175,14 @@
     "quote": "switch；光猫 MC FS 周边产品；Oscar.Lindberg@fibersystem.com Anne.Ekblad@fibersystem.com",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Fibersystem AB, Data Diodes | Fibersystem — Based in Stockholm, Sweden, Fibersystem AB is an innovative developer of Fiber Optical transmission equipment, video, ethernet and security products.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.fibersystem.com/"
    }
   ],
   "proof_gaps": [
@@ -184,5 +193,34 @@
    "body": "Hi Anne,\n\nOver the past year you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 8 September - and there was no reason to answer a mass mail. This one is specific to Fibersystem.\n\nFor the commercial side of your fiber range (not the data-diode / TEMPEST line, which we do not touch), two units can carry the Fibersystem label from small lots:\n\n- Industrial gigabit media converter, 1 x RJ45 + 1 x SFP, DIN-rail, -40 to 75 C, model STI-110GE - $26.5 USD EXW, MOQ 1, 15-day validity.\n- Compact industrial 8 x Gigabit switch, DIN-rail, unmanaged, model STI-080GE - $34.0 USD EXW.\n\nBoth CE/RoHS, 3-year warranty with our DIN power supply, neutral housing and carton, your logo on the front at no charge.\n\nOne question: from your customers, is the converter or the compact switch the more frequent request? I will send the datasheet of that one first.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:28:39Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [
+   "+46 8 564 828 80"
+  ],
+  "social": [
+   "https://www.facebook.com/fibersystemab",
+   "https://www.linkedin.com/company/fibersystem-ab"
+  ],
+  "models_on_site": [
+   "RS232",
+   "FS25961PA3",
+   "DC556",
+   "SDIP-27",
+   "IEC60320",
+   "MIL810G",
+   "RS-232"
+  ],
+  "url": "https://www.fibersystem.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

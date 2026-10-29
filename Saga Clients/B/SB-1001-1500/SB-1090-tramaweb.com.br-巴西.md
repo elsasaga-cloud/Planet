@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-110GE
 price_tier: 30%
 research: done
-site_snapshot: ok  # 2026-10-21
+site_snapshot: mismatch  # 2026-10-21
 sources: 1
 updated: 2026-10-29
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-29
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 若 MC 业务仍在 → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）贴标；先核实实体；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-13 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-02-13；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-04-06 $65（10G Media Converter = 10G 媒体转换器，Elsa 箱 1 轮 2025-04-06；Simon 实报就是 $65）；2025-10-05 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-05；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-03 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-03；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：年走量与现供应商
+- **最大未知**：公司官网（表内域名经核实不属于本客户；真实官网未知）
 - **下一步**：不动 — —
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
@@ -60,6 +60,7 @@ updated: 2026-10-29
 | 2026-04-24 | 去 | Elsa 群发（BCC；To flavioprogramado@gmail.com） | Updated Ethernet Switches Links（Elsa 群发第 8/9 轮；本户在 Bcc，锚 To flavioprogramado@gmail.com） | 第 74 批(n) `from:e.sagatelecom to:tramaweb.com.br` 命中行 To=flavioprogramado@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2026-09-03 | 去 | Elsa 群发（BCC；To flavioprogramado@gmail.com） | 24 Port PoE Managed Switch（Elsa 群发第 9/9 轮；本户在 Bcc，锚 To flavioprogramado@gmail.com；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(n) `from:e.sagatelecom to:tramaweb.com.br` 命中行 To=flavioprogramado@gmail.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | MC FS 自己的logo 别人在卖他们的MC | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Grupo Trama Reputale \| Agência de Comunicação Corporativa em SP — Grupo Trama Reputale: formado pela Trama Comunicação, fundada em 1995, e pela Reputale Digital. Relações Públicas, Comunicação Interna e Marketing Digital. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无来信（Elsa 去信 9 轮见 facts；S/A 箱无往来）
 
@@ -126,9 +127,10 @@ updated: 2026-10-29
   > MC FS 自己的logo 别人在卖他们的MC；很多周边产品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Fabio（联系人（研究档；归属存疑 — 域名实体为新闻社）— 不动：误归属 — 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（进口税自理）、Anatel 不声称（第 120 批 官方登记核实 2026-10-29））fabio@tramaweb.com.br 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -146,19 +148,12 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-110GE（30% 档）——若 MC 业务仍在 → 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）贴标；先核实实体
 - **邮件切入句（英文）**：Fabio, for the media converters you sell under your own label, we can supply gigabit MCs (desktop or industrial) and small SFP-uplink switches in your packaging from small lots, CE/RoHS — are you still carrying the MC line?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名误配（快照到的网站不是本客户））
 
-- **首页**：https://www.tramaweb.com.br/　语言：pt-BR　站点地图 URL 数：1231
-- **标题**：Grupo Trama Reputale / Agência de Comunicação Corporativa em SP
-- **描述**：Grupo Trama Reputale: formado pela Trama Comunicação, fundada em 1995, e pela Reputale Digital. Relações Públicas, Comunicação Interna e Marketing Digital.
-- **首页栏目**：Grupo Trama Reputale: Relações Públicas, Comunicação Interna e Digital. / Grupo Trama Reputale integra a WEConnect International / Sua marca aparece nos resultados de buscas feitas nas IAs? / Estamos entre as melhores agências de Comunicação Corporativa / Agência de Marketing Digital / Construa uma Marca Empregadora que Engaja e Retém Talentos / Grupo Trama Reputale / Nossos trabalhos
-- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：telecom 7、tp-link 7、oem 1
-- **站内公开邮箱**：adm@tramaweb.com.br
-- **社媒**：https://twitter.com/trama, https://www.facebook.com/TramaComunicacao/?fref=ts, https://www.instagram.com/trama_comunicacao/?hl=pt, https://www.linkedin.com/company/trama-comunicacao, https://www.youtube.com/user/tramacomunicacao
-- **产品类页面**：https://www.tramaweb.com.br/workshop-comunicacao-para-a-lideranca/；https://www.tramaweb.com.br/exposicao-marca-alem-produto/；https://www.tramaweb.com.br/producao-conteudo-valor-marcas/；https://www.tramaweb.com.br/mais-que-um-produto-um-personagem/；https://www.tramaweb.com.br/pesquisa-do-google-indica-processo-de-compra-de-produto-educacional-dura-seis-mese…
-- **已抓子页**：[O que é Endomarketing e quais são as vantagens para a empres](https://www.tramaweb.com.br/endomarketing-2/)；[Branded Content: o que é? - Grupo Trama Reputale](https://www.tramaweb.com.br/branded-content/)；[Employer Branding: o que é e qual é sua importância](https://www.tramaweb.com.br/employer-branding/)；[Inbound Marketing - Grupo Trama Reputale](https://www.tramaweb.com.br/inbound-marketing/)；[Planejamento de Endobranding / Grupo Trama Reputale](https://www.tramaweb.com.br/planejamento-de-endobranding/)；[Agência de Marketing Digital 360° / Grupo Trama Reputale](https://www.tramaweb.com.br/planejamento-de-marketing-digital/)
-- 首页正文摘录：Ir para o menu do site Ir para o conteúdo do site Menu Quem somos O Grupo Trama Reputale Sobre o Grupo Código de Ética e Conduta Canal de Denúncias Guia de Compras de Serviços de Comunicação Corporativa A Agência Sobre a Agência Nosso Propósito Lideranças Grupo Trama Reputale integra a WEConnect International O que fazemos Inteligência Reputação Algorítmica Planejamento de Relações Públicas Diagnóstico e Planejamento
-- 数据文件：`data/saga_clients/site_snapshots/SB-1090.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
+- 尝试域名：tramaweb.com.br
+  > True
+- **提示**：人工核对后判定表内域名不属于本客户（见上方说明），本客户以邮箱/电话为准；快照内容不采用。
+- 数据文件：`data/saga_clients/site_snapshots/SB-1090.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -258,6 +253,7 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
+- [ ] 公司官网（表内域名经核实不属于本客户；真实官网未知）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

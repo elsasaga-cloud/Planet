@@ -56,6 +56,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-10-07 | 去 | A/S 群发 | 24 Port PoE Managed Switch、8 Port Industrial PoE Switch | 15 封 / 0 次打开 / 0 回｜首封 2025-07-17 → 末封 2026-10-07（15 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：安防为主 有中科的 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Instant Byte - Mayorista Wifi, Camaras IP, VoIP, Networking, Wireless, Wimax, Fibra, Antenas, Multimedia, Ubiquiti, Huawei, Grandstream, Yealink, Mikrotik, Yeal — Mayorista especializado en soluciones networking: wireless, VoIP, videovigilancia e IoT. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -119,7 +120,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（instantbyte.com，快照 2026-10-21，西语）
 - **是谁**：西班牙网络 / 无线 / VoIP / 视频监控 / IoT 专业批发商（Huawei、Ubiquiti、MikroTik、Grandstream、TP-Link、Cisco、D-Link；poe 202 / switch 76），CEO Juan Prieto、技术经理 Eduardo Valle；表内「安防为主，有中科（ZKTeco？）的」；群发 4 次无回复。
-- **在卖/在用品牌**：Huawei, Ubiquiti, MikroTik, Grandstream, TP-Link, Cisco, D-Link
+- **在卖/在用品牌**：Huawei, Ubiquiti, MikroTik, Grandstream, TP-Link, Cisco, D-Link, Aruba, Cambium, Netgear, Hikvision, Dahua
 - **【官网快照】网络方案批发：无线、VoIP、视频监控、IoT；品牌 Huawei / Ubiquiti / MikroTik / Grandstream / TP-Link / Cisco / D-Link；comercial@/soporte@**
   > Mayorista especializado en soluciones networking: wireless, VoIP, videovigilancia e IoT.
   > 来源：https://instantbyte.com/（抓取 2026-10-21）
@@ -128,9 +129,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Juan Prieto（CEO（研究档）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28））ejprieto@instantbyte.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Eduardo Valle（Comercial（研究档 Eduardo Valle）= 收件人（抄）（第 110 批 官方登记核实 2026-10-28））comercial@instantbyte.com 〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -27,10 +27,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "无域名 · 仅表内信息"
+  "level": "无域名 · 仅表内信息 + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "未取（0 查：Proton 别名邮箱 + 无公司）",
@@ -93,6 +94,14 @@
     "quote": "2光8PoE管理Vitesse / from: 自建站 / unpledged154@simplelogin.com",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "SimpleLogin | Open source anonymous email service — With email aliases , you can be anonymous online and protect your inbox against spams and phishing.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://simplelogin.io"
    }
   ],
   "proof_gaps": [
@@ -104,5 +113,34 @@
    "body": "Hi Alex,\n\nYou asked on our site about the 2 x SFP + 8 x PoE managed switch; here is the concrete answer.\n\nThe current unit on that footprint is L2+ managed on a Marvell platform (web GUI, VLAN, QoS, IGMP), 8 x Gigabit PoE+ (120 W budget) + 2 x SFP, FCC/CE/RoHS - model STC-28DGGPM - $84.1 USD EXW (MOQ 1, 15-day validity). A lower-cost L2 managed version on our commercial line, STC-28GPM, is $74.0.\n\nOne question: which company or project is this for, so I can quote the right quantity and the shipping to the US?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:39:34Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "anything@my-domain.com",
+   "anything@your-domain.com",
+   "anything@your-subdomain.simplelogin.com",
+   "contact@simplelogin.io",
+   "contact@your-domain.com"
+  ],
+  "phones": [],
+  "social": [
+   "https://twitter.com/SimpleLogin",
+   "https://twitter.com/mxschumacher",
+   "https://www.linkedin.com/in/nncuong/",
+   "https://www.youtube.com/watch?v=JMWfsOVrDkw"
+  ],
+  "models_on_site": [
+   "CHE-354"
+  ],
+  "url": "https://simplelogin.io",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

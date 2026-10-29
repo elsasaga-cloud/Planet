@@ -50,10 +50,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "2825 Wilcrest Dr, Suite 170, Houston, TX 77042",
@@ -135,6 +136,14 @@
     "quote": "很多牌子的 有自己的logo",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Commercial Security & Access Control System Installation — #1 Commercial Security, Access Control system & Security Camera installation company. Get the latest new technology for your business. Free Site Survey",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.nexlar.com/"
    }
   ],
   "proof_gaps": [
@@ -155,5 +164,29 @@
   "note": "桌面复核（研究档类型 + 对位首推）：商用安防集成商（美国休斯顿）；切入：安防项目配套 PoE（可贴 Nexlar 标）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）；室外机柜位工业 STI-288GPM（$82.2）；行业内 ✔ 对位 ✔（宽留冷「不对位」系 fit 标志未回填，非真不对位）",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 Elsa 群））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": []
+ "override_history": [],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:49:24Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@nexlar.com",
+   "rod@nexlar.com"
+  ],
+  "phones": [],
+  "social": [
+   "https://www.facebook.com/NexlarSecurity/",
+   "https://www.youtube.com/@Nexlarllc",
+   "https://www.youtube.com/watch?v=XlonVuIAgI8",
+   "https://www.youtube.com/watch?v=XlonVuIAgI8&list=PL5gMv1mmPKmuU3ZrcgQ7HenuYh1_BPLrV&index=3"
+  ],
+  "models_on_site": [],
+  "url": "https://www.nexlar.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

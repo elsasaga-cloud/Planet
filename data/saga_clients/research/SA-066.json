@@ -11,7 +11,8 @@
   "Sumitomo",
   "Tyco",
   "Emcore",
-  "MICROSENS"
+  "MICROSENS",
+  "Cisco"
  ],
  "evidence": [
   {
@@ -68,11 +69,12 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A",
- "notes": "2026 年最新回复 + 分销商身份 + 已卖白牌 SFP 与 Microsens 工业交换机（高价德系）→ Saga 的 STI 工业线可作其'性价比替代'补充。俄罗斯收款路径需核。P1：STI-288DGGPM（对位 Microsens 工业 PoE），分销价阶 20%。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n2026 年最新回复 + 分销商身份 + 已卖白牌 SFP 与 Microsens 工业交换机（高价德系）→ Saga 的 STI 工业线可作其'性价比替代'补充。俄罗斯收款路径需核。P1：STI-288DGGPM（对位 Microsens 工业 PoE），分销价阶 20%。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v2（官网 Microsens 目录核对）"
+  "level": "深挖 v2（官网 Microsens 目录核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "CCS（ccs-msk.ru；107589 Москва ул. Красноярская д.1 корп.1；ООО 法定名 / ИНН 官网未列 → 部分坐实；同名 ООО «ССС» 7708393591 / 7814529565、ООО «Сложные облачные системы» 7713417625 ≠）",
@@ -221,6 +223,14 @@
     "why": "第 74 批(m) `from:e.sagatelecom to:pkarpov@ccs-msk.ru` 全程 complete：3 轮直收；客户曾来信（见 Re: 行）",
     "k": "elsa_1to1",
     "msg_id": "19fcc373d666821d"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "CCS - Lenovo, Microsens, Sumitomo, Tyco, Emcore, OCulink, FDR, CXP, HD mSAS, SFP, QSFP, кабели SAS II, кабели SAS III, кабели mSAS, кабели SAS, infiniband, dire",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.ccs-msk.ru/"
    }
   ],
   "proof_gaps": [
@@ -241,5 +251,32 @@
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A"
   }
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:41Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@ccs-msk.ru"
+  ],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "QSFP28",
+   "DB720S",
+   "DM5100F",
+   "MS400890MX",
+   "SFP28",
+   "MS650869M-B",
+   "SFF8088",
+   "SFF8470"
+  ],
+  "url": "https://www.ccs-msk.ru/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

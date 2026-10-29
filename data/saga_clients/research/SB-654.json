@@ -37,10 +37,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  "level": "B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "DESARROLLOS AVANZADOS EN TELECOMUNICACIONES, S.L.（DAVANTEL；CIF B63615553）",
@@ -122,10 +123,47 @@
     "quote": "Ausente - Out of office｜Estaré fuera de la oficina con acceso limitado al email hasta el 19 de  Agosto. En caso de urgencia llamar al 933408712.",
     "why": "自动回复/退信（机器，不算人工回复）",
     "k": "3e83fe6bdfdeb580"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Soluciones avanzadas para telecomunicaciones corporativas - Davantel — DESARROLLOS AVANZADOS EN TELECOMUNICACIONES, S.L. (DAVANTEL) es una empresa orientada a ofrecer soluciones avanzadas de acceso y transporte a los operadores, ingenierías, compañías de suministro y grandes corporaciones.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.davantel.com/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:45:06Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@davantel.com"
+  ],
+  "phones": [
+   "+34 93 3408712"
+  ],
+  "social": [],
+  "models_on_site": [
+   "RUT241",
+   "RUT951",
+   "OTD140",
+   "RUTM30",
+   "RUTC50",
+   "RUTM54",
+   "IEC61850",
+   "TCR100"
+  ],
+  "url": "https://www.davantel.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

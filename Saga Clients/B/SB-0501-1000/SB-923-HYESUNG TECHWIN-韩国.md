@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2025-02-24 | out | Elsa → insuner@hanmail.net | L3 Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-09-16 | 去 | A/S 群发 | Managed Optical Bypass Switch、Marvell Industrial Alert System | 38 封 / 2 次打开 / 0 回｜首封 2024-12-11 → 末封 2026-09-16（38 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | Bypass Ethernet Switch；attn: Kang In-Su \| telephone: 031-745-7005 \| mobile.: 010-3368-2118 \| fax.: 031-745-7006 \| 网址: ww | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | ICT, ì°ì ì©ê´ì¤ìì¹, ê´ì ì¡ì¥ë¹, ì°ì ì© ë¯¸ëì´ ì»¨ë²í°, IOT ì¤ìê° ëª¨ëí°ë§ ì¥ë¹ | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -136,9 +137,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Kang In-Su（Director, ㈜혜성테크윈 HYESUNG TECHWIN = 收件人；대표이사 우윤학 = 拍板人（第 115 批 官方登记核实 2026-10-28））kis@hstw.net 〔用户表〕
 - **KP**：우윤학 Woo Yoon-hak（대표이사 ㈜혜성테크윈 HYESUNG TECHWIN Co., Ltd.（hyesungtechwin.com）= 拍板人（第 115 批 官方登记核实 2026-10-28）） 〔http://hyesungtechwin.com/about/about2.php〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

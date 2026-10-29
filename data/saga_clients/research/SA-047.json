@@ -10,7 +10,9 @@
   "Elspec",
   "迈威(Maiwe)",
   "CIEN",
-  "CISCOM"
+  "CISCOM",
+  "Moxa",
+  "Maiwe"
  ],
  "evidence": [
   {
@@ -65,11 +67,12 @@
    "source": "Clients/A Replied 09.04.xlsx"
   }
  ],
- "notes": "A 确认（土耳其重点区 + 已回复 + 网店在售中国工业 PoE + 转销中东/中亚）：对位 CIEN3206GP ≈ STI-244GP/STI-288DGGPM，25% 档；主打 10–15 天交期（对比其 5 周）与 5 年保修对齐问题需向 SmartByte 确认。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\nA 确认（土耳其重点区 + 已回复 + 网店在售中国工业 PoE + 转销中东/中亚）：对位 CIEN3206GP ≈ STI-244GP/STI-288DGGPM，25% 档；主打 10–15 天交期（对比其 5 周）与 5 年保修对齐问题需向 SmartByte 确认。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1"
+  "level": "深挖 v1 + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "SGE MÜHENDİSLİK ELEKTRİK OTOMASYON BİLGİ İŞLEM SAN. VE TİC. LTD. ŞTİ.（2007-11-28；Çekmeköy İstanbul）",
@@ -204,6 +207,14 @@
     "quote": "16 Port Industrial PoE Switch",
     "why": "最近一封去信（邮箱索引；去信共 9 封）",
     "k": "193a64fe5f2fb9e4"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "SGE Mühendislik - Ölçüm & Analiz & Uygulama — Ölçüm & Analiz & Uygulama",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://sge.com.tr/"
    }
   ],
   "proof_gaps": [],
@@ -224,5 +235,41 @@
   }
  ],
  "grade_override": "B",
- "override_reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B5 四主区+对位（冷）；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A"
+ "override_reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B5 四主区+对位（冷）；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:25Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@sge.com.tr",
+   "mail@oscarmedya.com"
+  ],
+  "phones": [
+   "+90 216 481 43 62",
+   "+90 216 481 78 04"
+  ],
+  "social": [
+   "http://www.linkedin.com/shareArticle?mini=true&ro=true&trk=JuizSocialPostSharer&title=CA8345 ClassA Portatif Enerji Kalite Analizörü&url=http://www.sge.com.tr/urundetay-ca8345-classa-portatif-enerji-kalite-analizoru-30-1784.html",
+   "http://www.linkedin.com/shareArticle?mini=true&ro=true&trk=JuizSocialPostSharer&title=MX407, 1000 Vdc Ýzolasyon Direnci Test Cihazý&url=http://www.sge.com.tr/urundetay-mx407-1000-vdc-izolasyon-direnci-test-cihazi-257-100.html",
+   "https://twitter.com/SGE_Muh",
+   "https://twitter.com/intent/tweet?text=CA8345 ClassA Portatif Enerji Kalite Analizörü&url=http%3A%2F%2Fwww.sge.com.tr%2Furundetay-ca8345-classa-portatif-enerji-kalite-analizoru-30-1784.html"
+  ],
+  "models_on_site": [
+   "MX407",
+   "CA8345",
+   "EN50160",
+   "IEC61000-4-30",
+   "RS232",
+   "IEC62749",
+   "RS485",
+   "MX0407"
+  ],
+  "url": "https://sge.com.tr/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

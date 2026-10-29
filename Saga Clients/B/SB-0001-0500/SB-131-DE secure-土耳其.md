@@ -54,6 +54,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 想要工业级8口POE交换机， 30w, 英文不是很好， 想要报价加上当地20%关税的价格 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Desecure Technology — Kritik tesislerin güvenlik ihtiyaçlarını teknoloji, mühendislik ve 7/24 Alarm İzleme Merkezi operasyonuyla yöneten güvenlik teknolojileri şirketi. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -128,9 +129,10 @@ updated: 2026-10-29
   > 想要工业级8口POE交换机， 30w, 英文不是很好， 想要报价加上当地20%关税的价格
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Serdar Türker（研究档 KP（用户表；职务未核）= 收件人（抄 bilgi@desecuretechnology.com）（第 105 批 官方登记核实 2026-10-28））serdar.turker@desecure.com.tr（用户表） —〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

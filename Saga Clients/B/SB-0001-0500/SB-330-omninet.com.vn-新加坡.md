@@ -54,6 +54,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-22 | 去 | A/S 群发 | Industrial PoE Switch、24 Port PoE Managed Switch | 18 封 / 0 次打开 / 0 回｜首封 2025-02-05 → 末封 2026-09-22（18 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 从国内买模块 Switch 自己的logo | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Web Server's Default Page | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -134,9 +135,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Victor Tan（Operations Manager, Omni-Comm Pte Ltd（UEN 198803797H；1988 年起分銷 + 越南）= 收件人 — 一頁紙一次：貼標 OEM 30%，對位其現有貼標線 STC-028GP / 228GP / 2216GP / 2224GP / 4424GCPM 階梯 + Omni-Comm 標 / 自編貨號 + 越南直發 FOB 深圳（買方清關）+ 付費樣機；光模塊明說不做；回信 → 加厚 + 升 A— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 116 批 官方登记核实 2026-10-28））victor@omnicomm.com.sg 〔用户表〕
 - **KP**：Chuong（越南側聯絡人（omninet.com.vn 為其越南側默認頁）= 抄送（第 116 批 官方登记核实 2026-10-28））chuong@omnicomm.com.sg 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

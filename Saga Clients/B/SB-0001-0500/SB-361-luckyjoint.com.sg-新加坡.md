@@ -52,6 +52,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2023-11-06 | 来 | 自动回复 | 自动回复里给出代理人/同事邮箱 hxng@luckyjoint.com.sg（Hui Xian） | 群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口 | `8132922529f0518a` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Home - Lucky Joint Construction Pte Ltd — Connectivity Simplified Lucky Joint Construction (LJC) is a leading independent company specializing in the design, construction and maintenance of telecommunication networks in Singapore. Yearsof business intelecommunication industry 0 full timestaff streng | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -131,9 +132,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Jackson Ho（Senior Manager, Network Engineering（研究档；问过「PoE 能传 250 m 吗」）= 收件人 — 一页纸一次：集成商 25% B（升 A 候选）、答 250 m = STC-028GP / 228GP 延长模式 250 m（10 Mbps）+ 标准 100 m 千兆 + 项目量 STC-4424GCPM、付费样机— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 117 批 官方登记核实 2026-10-28））robin@luckyjoint.com.sg 〔用户表〕
 - **KP**：Kee Ching Hai（研究档联系人（Kee Ching Hai）= 抄送（第 117 批 官方登记核实 2026-10-28））sales@luckyjoint.com.sg 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

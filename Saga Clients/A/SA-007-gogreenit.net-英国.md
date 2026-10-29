@@ -90,6 +90,7 @@ updated: 2026-10-29
 | 2026-03-23 | 去 | Alan → Chris Clemson | we think it might be one of the 2 main reasons, probably reason 2. 1. Our PoE PCB board is faulty… not very likely. 2. Something is wrong with the power system… When PoE board starts to function, it requires much power to be activated. It is possible that your battery is not feeding enough power… what is the input voltage? It should be DC48V… please do below steps 1. Get a standard DIN power supply to power this… | PoE 不出电的排障结论：倾向电池供电不足（启动浪涌）而非板子故障；04-27 Chris 用 Grafana 证明 53V 稳定 → 两边都没错时，问题多半在 PoE 板启动时序——这个 case 值得写进 AC5 的 FAQ（太阳能/电池供电场景） | `gmail_a 2026-03-23 Re: 90W PoE Managed Switch` |
 | 2026-04-27 | 来 | Chris Clemson | No, the voltage is never lower than 53V recently (see attached output from Grafana for the last 48h). The last reboot of one of the attached devices (when the power was lost), was 2026-04-26 11:55:02. Before that date uptime was 3 days. | Alan 怀疑是 DC 输入欠压，Chris 用 Grafana 数据反证 53V 稳定 → 掉电重启来自电池侧而非交换机；这类有监控数据的用户是 AC5 固件的好测试员 | `gmail_a Re: 90W PoE Managed Switch（Chris 的回信为底部回复格式，早期脚本漏抓）` |
 | 2026-07-10 | 去 | Alan | We've released firmware 7.5 on our AC5 Lite (Marvell 98DX2515/2518) platform… IPv6 readiness… Expanded multicast support (IGMP v1/v2/v3, PIM-SM) | 7.5 = PIM-SM 可用的书面证据（对 Netaş 有用） | `74f5b9590b098b4c` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Go Green IT - Home — Welcome to Go Green IT, please check out what services we offer | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：2025-06-11 去信承诺 16 口 STI-41616XGGPM-4BT 的 DI/DO/RS485「expected to be ready on August」→ 2025-08-22 去信仍「not available on this model yet（8 口有）」→ 此后无交代；仓内无 16 口 DI/DO 上线证据——下一封顺带一句有/无
 
@@ -178,7 +179,7 @@ updated: 2026-10-29
 - **是谁**：英国德比小型 IT 咨询/绿色 IT 服务公司（2011 年注册，<25 人，<$5M），业务为服务器虚拟化、硬件升级、IT 设备回收。用户表：问过 90W bt 工业 PoE，1 次实质回复，仅 3 次推送。
 - **类型**：IT 服务商/终端（非渠道）
 - **规模**：<25 人；<$5M（NeverBounce 口径）
-- **在卖/在用品牌**：Saga Telecom（已购）, Linovision
+- **在卖/在用品牌**：Saga Telecom（已购）, Linovision, Saga（！）
 - **【官网】定位：可持续 IT 咨询**
   > Sustainability is now a major focus for organizations … Go Green IT can help with this. … Registered Address : 222 Warwick Avenue, Derby, England, DE23 6HP
   > 来源：http://gogreenit.net/（抓取 2026-10-21）
@@ -203,8 +204,10 @@ updated: 2026-10-29
   > 来源：https://wiki.sogo.nu/ZEGReconfiguration（抓取 2017-10-29）
 - **KP**：Chris Clemson（Christopher Bruce Athelstan Clemson）（Director（2021-06-04 起在册董事，与创始人 Kathryn Sterling 共两名董事）；PI 单据联系人（第 82 批 Companies House 核实 2026-10-27））info@gogreenit.net 〔PI.zip 单据〕
 - **调研后定级**：A（原自动 A）——小型 IT 服务公司，一次性项目需求（90W bt 工业 PoE），无渠道属性与复购逻辑；B 慢跟。；PI 包成单客户，Simon 标签 可发展 → A
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网公开评测核对））
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网公开评测核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -56,6 +56,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-25 | 去 | A/S 群发 | Managed Optical Bypass Switch、L3 Managed Switch | 16 封 / 1 次打开 / 0 回｜首封 2025-02-05 → 末封 2026-09-25（16 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：外壳比较特别 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | pf electronic sp. z o.o. Automatyka Przemysłowa — Oficjalny dystrybutor podzespołów i elementów automatyki przemysłowej. Czujniki, sensoryka, złącza, switche, systemy sterowania, enkodery, elektronika. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -134,9 +135,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Dariusz Piwowar（Wiceprezes Zarządu（2005-09-06 起；KRS 0000046753；可单独代表）= **合伙人 = 拍板层 = 联系人** —— 西里西亚工业自动化分销 + 服务商（PLC / 变频 / 工业网络，25 年，营收 ≈9.3 mln zł）→ **工业 DIN 线分销 20%**：STI-054GP / STI-154GP / STI-288DGGPM 配 PLC 柜，样机 1 台付费；第二封只写工业场景（温宽 / DIN / 冗余供电 / ERPS），不写 CCTV（第 92 批 官方登记核实 2026-10-28））dariusz.piwowar@pf-electronic.pl +48 32 256 25 33〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Jacek Andrzej Nędza（Prezes Zarządu（2005-09-06 起）= 老板之一，抄送（第 92 批 官方登记核实 2026-10-28）） 〔https://rejestr.io/krs/46753/pf-electronic〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

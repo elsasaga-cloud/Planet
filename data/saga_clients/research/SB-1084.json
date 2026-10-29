@@ -2,7 +2,7 @@
  "code": "SB-1084",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（timeout）",
+ "website_status": "快照失败（targoncavilla.com：超时（站慢或封锁），2026-10-21，第 1 次）",
  "summary": "匈牙利 Targoncavilla / Frekvent（targoncavilla.com / frekvent.com；表内「工业 FS」；官网 timeout，业务范围待核）；表内未跟进。",
  "type": "工业设备供应商（匈牙利，待核）",
  "size": "",
@@ -26,7 +26,7 @@
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
@@ -120,5 +120,14 @@
    "body": "Hello,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 21 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the industrial switches you supply, neutral-brand DIN-rail units, -40 to 75 C, CE/RoHS, from single units: 8 x Gigabit + 2 x SFP unmanaged, 12-58 V DC - model STI-280GE - $46 USD EXW (MOQ 1, 15-day validity); 5 x Gigabit - STI-050GE - $17.0; the 8 + 2 SFP L2 managed version, Marvell-based - STI-280GM - $68.2.\n\nOne question: which configuration do your customers order most - plain 5-port, 8 + 2 SFP, or managed?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:36:31Z"
+  ],
+  "fails": [
+   "2026-10-21"
+  ],
+  "batch": "LT-T03"
  }
 }

@@ -71,10 +71,11 @@
  ],
  "grade_override": "A",
  "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + LinkedIn + 名录核对）"
+  "level": "B 级加厚 v1（官网 + LinkedIn + 名录核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Tera Technologies and Engineering Limited（Certificate of Incorporation No. 85715，公司自述；BRELA 未核）",
@@ -160,6 +161,14 @@
     "quote": "回复：是PoE吗？；Are they Giga Ethernet Switches；可能会用到",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "TeraTech | Tera Technologies and Engineering Ltd — Tera Technologies and Engineering Ltd - Transforming Industries with Advanced Tech. Industrial Automation, IoT Solutions, and Cybersecurity services.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://teratech.co.tz/"
    }
   ],
   "proof_gaps": [
@@ -177,5 +186,12 @@
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）"
   }
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:23:34Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ }
 }

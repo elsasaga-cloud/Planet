@@ -40,10 +40,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  "level": "B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "SPHINX Computer Vertriebs-GmbH（Amtsgericht Mannheim HRB 431843；股本 €155,000；USt-ID DE 113585714）",
@@ -124,6 +125,14 @@
     "quote": "兴趣：卖几个有名牌子的;工业FS MC 卖研华等很多牌子",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Willkommen bei SPHINX - Components for Solutions — SPHINX Computer - Ihr Spezialist für Datenkommunikation und Distributor für Industrieautomation, Netzwerktechnik, Cybersecurity, IoT und Embedded Computing. Lösungen und Services für industrielle Infrastruktur",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.sphinxcomputer.de/"
    }
   ],
   "proof_gaps": [
@@ -134,5 +143,38 @@
    "body": "Hi Markus,\n\nSome time ago you had a product mail from us - \"24 Port PoE Managed Switch\" on 31 August - and there was no reason to answer a mass mail. This one is specific to the industrial networking part of Sphinx's line card.\n\nBelow the Moxa / Advantech price points you carry, we supply a Marvell-based DIN-rail managed switch, 8 x Gigabit PoE+ (240 W) + 2 x SFP, ring redundancy, -40 to 75 C, CE/RoHS, model STI-288GPM - $78.9 USD EXW (distributor price, MOQ 1, 15-day validity). The matching industrial gigabit media converter STI-110GE is $22.4.\n\nNeutral housing and carton as standard; a Sphinx label is possible from small lots; 3-year warranty together with our DIN power supply.\n\nOne question: is one evaluation unit (at the unit price) for Laudenbach worth a look before your next line-card review?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:36:28Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [
+   "+49 (0) 6201 75437",
+   "000 (208) 10"
+  ],
+  "social": [
+   "https://www.s-connect-benelux.com/grp.php?teil=675",
+   "https://www.s-connect-benelux.com/index.php",
+   "https://www.s-connect-benelux.com/kontakt.php",
+   "https://www.s-connect-benelux.com/optio.php?gid=392&txt=Industrial Ethernet / Media Converter"
+  ],
+  "models_on_site": [
+   "IEC-62443",
+   "ADAM-6521",
+   "ADAM-6520",
+   "ADAM-6520I",
+   "ADAM-6520L",
+   "ADAM-6521S",
+   "EKI-2428G-4CA",
+   "EKI-2428G-4CI"
+  ],
+  "url": "https://www.sphinxcomputer.de/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -61,7 +61,7 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：fail#1。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（官网核对 · 国别补齐）"
@@ -152,5 +152,14 @@
   "draft_en": null,
   "as_of": "2026-10-24"
  },
- "country_fix": "立陶宛"
+ "country_fix": "立陶宛",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:37:04Z"
+  ],
+  "fails": [
+   "2026-10-21"
+  ],
+  "batch": "LT-T03"
+ }
 }

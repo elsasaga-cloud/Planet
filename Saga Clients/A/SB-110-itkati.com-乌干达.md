@@ -111,7 +111,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：在线（搜索可见；快照 2026-10-21 unreachable——疑 GitHub 运行器 IP 被拦）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（itkati.com：域名不可达（DNS/连接失败），2026-10-21，第 1 次）
 - **是谁**：乌干达坎帕拉的小型 IT/网络/安防集成商 iTKATI UG Ltd（2009 年起、2018 年登记；6–10 人；企业网络、CCTV、Starlink、云与托管、VoIP/对讲、软件；地址 Plot 965 Kyadondo/Makindye；care@itkati.com，+256 393 225 713）。表内联系人 Bob（technical@itkati.com，+256 704 575 328，WA 已加）：对价格 OK、想拿样并**贴自有标**，2024-02 要 4/8/16/24/64 口价格，2024-03 再问价；18 次推送 1 次实质回复。贴标 = OEM 档 30% → B（东非非主攻区，但意向明确）。
 - **【官网】定位与联系方式**
   > We believe that a robust network architecture is the foundation of a successful digital enterprise… SD-WAN, CLOUD Technologies… Plot 965, Kampala +256393225713 care@itkati.com… Plot 965, Kyadondo Kampala
@@ -128,7 +128,8 @@ updated: 2026-10-29
 - **KP**：Bob（技术 / 采购（研究档 KP；WA 已加；价格 OK、要样、要自有标）= 收件人 — 一页纸一次：贴标 OEM 30% B、STC-028GP $28 / STC-228GP $33 / STC-2216GP 贴标 + 贴标 MOQ + 付费样机；小量先按集成商 25% 中性包装 — 乌干达常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 坎帕拉、UCC 不声称（第 122 批 官方登记核实 2026-10-29））technical@itkati.com +256 704 575 328（WA 已加）〔用户 Clients 表〕
 - **KP**：Sarah Basemera（Company manager（yellow.ug 2026-10-29；无公开邮箱）（第 122 批 官方登记核实 2026-10-29）） +256 785 284 579〔yellow.ug〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 黄页/FB 核对））
 

@@ -59,6 +59,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2024-11-22 | 来 | Tim Orselli | Do you have it in PoE++ as well? Send pricing for both. | 唯一来信 | `1b4ccb2f0365c41d` |
 | 2024-11-23 | 去 | Simon → Tim Orselli（Quotation.pdf + 2 份 datasheet，S 邮箱附件） | 报价单两行：STI-288GP（2×GE SFP + 8×GE PoE af/at 240W，非管理，Marvell）$60；STI-288DGGPM-2BT（2×GE SFP + 8×GE，2 口 bt + 6 口 af/at，240W，L2+ 管理）**也写 $60**（同价——管理型 2BT 的正常锚是 $110，疑似报价单漏改）；validity 15 days；production 4~7 wd；warranty 3 years；Neutral device。 | Tim 11-22 问「Do you have it in PoE++ as well? Send pricing for both」→ Simon 次日给了两款价 → 之后无回；如再接触，2BT 管理型不能沿用 $60（口径 ㉕：以 Simon 自己的报价为先，但明显笔误要修正并说明） | `S 邮箱附件 `Quotation.pdf` sha=0ccb2821f784a2f3（2024-11-23）` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | American Fibertek – MFG in USA | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -141,7 +142,7 @@ updated: 2026-10-29
 - **是谁**：美国佛州安防光传输设备制造商（1984 年成立，11–50 人，营收 $8–11M 口径），主打「Manufactured in America / BAA 合规」，并提供一整套「sourced TAA compliant」产品（以太网交换机、光纤交换机、MC、视频/数据/音频光端机）。2020 年被 Donna Poulos 收购。用户表：S 重点，兴趣 SFP/工业电源/大口 FS/MC/多功能 VC，1 次实质回复。
 - **类型**：品牌商（美国本土制造 + TAA 外采线）
 - **规模**：11–50 人；$8.4M（ZoomInfo）/ $11M（LeadIQ）
-- **在卖/在用品牌**：American Fibertek
+- **在卖/在用品牌**：American Fibertek, ComNet
 - **【官网】定位：美国制造 + BAA，外采线要求 TAA 合规（TAA 名单不含中国）**
   > American Fibertek provides superior fiber solutions for security applications manufactured in America by American citizens – meeting all BAA compliance requirements and standards. AFI also offers a full array of sourced TAA compliant products
   > 来源：https://www.americanfibertek.com/（抓取 2026-10-21）
@@ -163,9 +164,10 @@ updated: 2026-10-29
 - **KP**：Donna Poulos（President & Owner（2020-03 via Sunny-Z Inc. 整体收购，女性所有；公开路线「American made / 规避 foreign elements」→ 与进口中国交换机冲突）（第 86 批 官方登记核实 2026-10-27））sales@americanfibertek.com（官网公开） +1 800-323-0660〔https://www.americanfibertek.com/ ; https://www.zoominfo.com/c/american-fibertek-inc/1736750〕
 - **KP**：Tim Orselli（来信署名人（职务未在邮件署名里出现））tim.orselli@americanfibertek.com 〔S/A 邮箱来信 2024-11-22 来信 1 封（第 72 批从邮件表头补）〕
 - **调研后定级**：A（原自动 A）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A4 Simon 点名
-- 备注：INH 红线：TAA/UL；本客户是典型 TAA 冲突案例。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+INH 红线：TAA/UL；本客户是典型 TAA 冲突案例。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网交换机目录核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网交换机目录核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

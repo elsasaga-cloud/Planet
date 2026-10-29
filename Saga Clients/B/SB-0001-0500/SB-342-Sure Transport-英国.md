@@ -57,6 +57,7 @@ updated: 2026-10-29
 | 2026-08-21 | 去 | A/S 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 27 封 / 1 次打开 / 0 回｜首封 2024-07-05 → 末封 2026-08-21（27 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 需求和斯洛文尼亚客户高度相似，基本只要5 8口，偶尔要PoE，基本不要10/12/16口，在电脑上给他看了实物图和E-mark证书 | 表内备注 | `用户表` |
 | 2026-08-21 | 去 | A 箱（Alan） | 24 Port PoE Managed Switch | 本日去信真实主题（邮箱索引 35527f8452c179e1；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `35527f8452c179e1` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Home — SURE transport is known in the industry for supplying CCTV equipment to Tier 1 and 2 bus operators across the UK. With sister company SURE24 having been a CCTV brand for over a decade, we have camera and DVR specialists available on telephone, email and live chat at any time during work hours | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -138,7 +139,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线
 - **是谁**：英国诺丁汉的车载 CCTV 供应商（SURE24 1992 年成立，11–50 人；姐妹公司 SURE Transport/SURE Solutions 专供 Tier 1/2 巴士运营商：Go-Ahead 全英 5,000 辆巴士车载 CCTV 支持合同、Lothian、West Coast Motors；产品 Timespace V400、自有品牌 SUREMDVR 系列（E-mark E11、DC 8–36 V、4G/GPS）、车队追踪云、全国汽车电工安装网络；客户还含警察、货车、HGV、应急服务）。展会记录：需求与斯洛文尼亚客户相似——基本只要 5/8 口、偶尔 PoE、不要 10/12/16 口，看了实物图和 E-mark 证书；联系人 Callum（callum@sure24.co.uk）；18 次跟进 0 回复。车载（非轨道）DC 供电小交换机 → STI 系列对口。
-- **在卖/在用品牌**：SURE / SUREMDVR（自有品牌）, Timespace
+- **在卖/在用品牌**：SURE / SUREMDVR（自有品牌）, Timespace, Hikvision, Teltonika
 - **【官网】车载 CCTV 定位与客户**
   > SURE transport is known in the industry for supplying CCTV equipment to Tier 1 and 2 bus operators across the UK. With sister company SURE24 having been a CCTV brand for over a decade
   > 来源：https://suretransport.co.uk/（抓取 2026-10-21）
@@ -155,9 +156,10 @@ updated: 2026-10-29
   > 需求和斯洛文尼亚客户高度相似，基本只要5 8口，偶尔要PoE，基本不要10/12/16口，在电脑上给他看了实物图和E-mark证书
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Stephanie Lorraine Kirton（Director / Finance Director（2023-11-23 任；Companies House 04863038）= 现任董事中任期最长者；另两位董事 Louis Max Fitzsimmons / Edwyn Owen Thomas 2025-06-29 新任 = 换手期（邮箱未公开 → sales@ 点名）（第 94 批 官方登记核实 2026-10-28）） 〔https://find-and-update.company-information.service.gov.uk/company/04863038/officers〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

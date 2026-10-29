@@ -61,10 +61,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "Unit 5 Cirencester Business Estate, Esland Place, Love Lane, Cirencester GL7 1YG",
@@ -132,10 +133,50 @@
     "quote": "enquiries@wire.tech 永久退信：[https://products.office.com/en-us/CMSImages/Office365Logo_Orange.png?version=b8d100a9-0a8b-8e6a-88e1-ef488fee0470] Your",
     "why": "该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职",
     "k": "gmail_a 54e501928ff8e36a"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Wire Technologies — Wire Technologies — Wire Technologies provide solutions for all your networking needs. Our products range from Transceivers Fibre & MPO Cables CAT cables Docking stations Media Converters",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://wire.tech/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:23:54Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "enquiries@wire.tech",
+   "support@wire.tech"
+  ],
+  "phones": [
+   "+44 1285 425969"
+  ],
+  "social": [
+   "https://uk.linkedin.com/company/wiretechnologies"
+  ],
+  "models_on_site": [
+   "PDU-UK3",
+   "PDU-C14",
+   "PDU-C20",
+   "PDU-16A",
+   "PDU-C14-UK",
+   "UK3PIN-C13",
+   "UK3PIN-C15",
+   "UK3PIN-C19"
+  ],
+  "url": "https://wire.tech/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

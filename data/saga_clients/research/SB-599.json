@@ -55,10 +55,11 @@
  ],
  "grade_override": "A",
  "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "俄罗斯",
@@ -162,6 +163,14 @@
     "quote": "Автоматический ответ: 2.5G Web Managed Switch｜Добрый день! Я нахожусь в отпуске до 12.09.2024г. Ваше сообщение автоматически перенаправлено Измайлову Олегу Николаевич",
     "why": "自动回复/退信（机器，不算人工回复）",
     "k": "8f1a2192a4db3fa3"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Российский производитель сетевого и телекоммуникационного оборудования SYMANITRON — Российский производитель сетевого и телекоммуникационного оборудования SYMANITRON /> <meta http-equiv=",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://symanitron.ru/"
    }
   ],
   "proof_gaps": [],
@@ -180,5 +189,40 @@
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来"
   }
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:43:55Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "armosystems@armo.ru",
+   "ea@eksiton.ru",
+   "info.belarus@axoftglobal.com",
+   "info@axoftglobal.com",
+   "info@cg.ru"
+  ],
+  "phones": [
+   "+375 (740) 740-90-31",
+   "+7 (342) 257-57-07",
+   "+7 (343) 23-724-73"
+  ],
+  "social": [],
+  "models_on_site": [
+   "IP-30",
+   "IEEE802",
+   "SWMP-82GC-AT",
+   "SWDGP-22-24V",
+   "SWDGP-22",
+   "SEWM12GP-D-4GSFP-8GP",
+   "SEWM12GP-D-4GSFP-8GP-48E-48E",
+   "SWMGP-842GSFP"
+  ],
+  "url": "https://symanitron.ru/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

@@ -41,10 +41,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对）"
+  "level": "B 级加厚 v1（官网快照核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "ГК «Дозор23» = ИП Завгородний Василий Васильевич（零售网）+ ООО «ПожЮг-Сервис» + ООО «БСК Дозор»（ИНН 未取 —— 首张形式发票时问 реквизиты）",
@@ -136,6 +137,14 @@
     "quote": "兴趣：谈过一次4 8口商业POE;摄像头公司",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Дозор23 в Анапе – системы видеонаблюдения и безопасности под ключ — В компании Дозор23 из г. Анапа вы можете купить видеонаблюдение и охранную сигнализацию с доставкой на дом. Лучшие цены в Анапе.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://dozor23.ru/"
    }
   ],
   "proof_gaps": [
@@ -146,5 +155,29 @@
    "body": "Hello,\n\nWe have sent you a few mails on \"10G Enterprise SFP Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nSergey, for the 4/8-port PoE positions behind your cameras: 8 x PoE+ + 2 x SFP managed - $84.1 USD EXW per unit; unmanaged 8 x PoE - about $26.2. Payment via a third-country account or in CNY is workable. Which of the two would be useful on the next site?\n\nPrices are USD EXW, 2026-10-17 snapshot, valid 15 days.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:24:41Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "snk@dozor23.ru"
+  ],
+  "phones": [
+   "+7 (918) 337-73-66",
+   "+7 (918) 493-77-37",
+   "000 1 495 1 990"
+  ],
+  "social": [],
+  "models_on_site": [
+   "INDOBET365"
+  ],
+  "url": "https://dozor23.ru/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -54,10 +54,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "捷克",
@@ -131,6 +132,14 @@
     "quote": "hasivo的",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Eltrox.cz | Zabezpečovací systémy a chytrá domácnost — Vyberte si spolehlivé bezpečnostní systémy, vybavení chytré domácnosti a příslušenství. Kamery, alarmy, automatizace i poradenství za skvělé ceny.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.eltrox.cz/"
    }
   ],
   "proof_gaps": [],
@@ -146,5 +155,37 @@
   "note": "桌面复核（研究档类型 + 对位首推）：安防/智能家居网店（捷克，Hasivo PoE 在售）；切入：在售 Hasivo PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）同口型；非管理位 HRUI STC-028GP（$24.2）；行业内 ✔ 对位 ✔（宽留冷「不对位」系 fit 标志未回填，非真不对位）",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": []
+ "override_history": [],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:26:16Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@eltrox.cz",
+   "pr@soi.sk"
+  ],
+  "phones": [
+   "+420 721 143 829",
+   "+420 721 767 966",
+   "0000 0027 0238 4423"
+  ],
+  "social": [],
+  "models_on_site": [
+   "DVB-T2",
+   "PFA1320R",
+   "CUZE-16",
+   "PX500",
+   "UR340",
+   "UV150",
+   "SINUSPRO-1500E",
+   "SINUSPRO-500E"
+  ],
+  "url": "https://www.eltrox.cz/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

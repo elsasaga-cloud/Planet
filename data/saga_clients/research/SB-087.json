@@ -43,10 +43,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：deep。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（快照空页 + 表内：品牌采购办 OEM）"
+  "level": "B 级加厚 v1（快照空页 + 表内：品牌采购办 OEM） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "阿斯門亞洲有限公司 ASSMANN ELECTRONIC ASIA CO. LTD.（統一編號 53733622；資本額 NT$5,000,000；母公司 ASSMANN Electronic GmbH, Lüdenscheid；寧波 / 東莞 / 香港 辦公室）",
@@ -124,5 +125,12 @@
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:23:06Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
  }
 }

@@ -2,7 +2,7 @@
  "code": "SB-1019",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（http_error）",
+ "website_status": "快照失败（connectixcablingsystems.com：HTTP 错误，2026-10-21，第 1 次）",
  "summary": "英国 Connectix Cabling Systems（connectix.co.uk：结构化布线系统品牌；表内「Networking / Startech」「质量一般」；KP Matthew Craig（Product Designer））；表内未跟进。",
  "type": "结构化布线品牌商（英国，有源为副线）",
  "size": "",
@@ -51,7 +51,7 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
@@ -143,5 +143,14 @@
   "note": "桌面复核（研究档类型 + 对位首推）：结构化布线品牌商（英国，有源为副线）；切入：布线品牌配套有源 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 GE + 4×10G STC-424XGGM（$138.0）、工业千兆 MC STI-110GE（$24.3）贴 Connectix 标；行业内 ✔ 对位 ✔（宽留冷「不对位」系 fit 标志未回填，非真不对位）",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": []
+ "override_history": [],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:27:56Z"
+  ],
+  "fails": [
+   "2026-10-21"
+  ],
+  "batch": "LT-T03"
+ }
 }

@@ -5,7 +5,9 @@
  "summary": "印度艾哈迈达巴德的安防/ITS 系统集成商（2008-12 成立；11–50 人，RocketReach 39 人 / $5.1M；ISO 9001/20000-1/27001；智慧高速（收费站 TMS、ATMS、紧急电话 ECB 自产）、指挥控制中心、IP 视频监控、门禁、火警与语音疏散、统一通信、IT 与网络方案；官网提及 PLANET/Axis/Ubiquiti）。表内三名联系人：Manan Bhavsar / CEO、Chirag Shah / Manager、Manish Meghwal / Manager（均 @a-ites.com，WA 已加）；2024-08 明确「只需要 4 & 8 口工业级」，2025-02 对工业 16/24 口回「L2 Managed & Web Managed」；表内兴趣含「2 光 4 电百兆 MC 外壳（外购那款）」；18 次推送 1 次实质回复。高速公路/指挥中心项目 → 工业 4/8 口管理型刚需 → B 25%。",
  "type": "安防集成/经销商",
  "size": "待补证",
- "brands_seen": [],
+ "brands_seen": [
+  "Ubiquiti"
+ ],
  "evidence": [
   {
    "kind": "用户记录",
@@ -75,11 +77,12 @@
  ],
  "grade_override": "B",
  "override_reason": "需求为低值百兆 MC（外购款），印度非主攻区，2 次回复后 16 次无果 → 慢跟。",
- "notes": "WA 一次性报 STI-110GE 类 MC；有 PoE 项目再跟。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\nWA 一次性报 STI-110GE 类 MC；有 PoE 项目再跟。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照 + LinkedIn/登记核对）"
+  "level": "B 级加厚 v1（官网快照 + LinkedIn/登记核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "AARYA ITES PRIVATE LIMITED（CIN U72900GJ2008PTC055798；2008-12-31；Ahmedabad；实缴 ₹24.64 lakh；董事 Manan + Ketana Bhavsar）（第 86 批 官方登记核实 2026-10-27）",
@@ -293,6 +296,14 @@
     "quote": "Cameras, access control; 2光4电百兆MC外壳(外购那款)；2024.8.12 48口引流 → 只需要4&8口工业级；2025.2.26 工业16 24口出货图 → L2 Managed & Web Managed",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "A ITES | Be Sure. Be Safe. Be Secured.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.a-ites.com/"
    }
   ],
   "proof_gaps": [
@@ -304,5 +315,29 @@
    "body": "Hi Chirag,\n\nYou told us in 2024 that your roadside cabinets only need 4- and 8-port industrial switches with L2 / web management - nothing bigger. (You also had our general product mails since; no need to answer those.)\n\nThe 8-port unit for those cabinets: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed (web GUI, VLAN, QoS, IGMP), Marvell-based, -40 to 75 C, CE/RoHS (BIS stays on your side) - model STI-288GPM - $82.2 USD EXW (MOQ 1, 15-day validity); the 4-PoE + 1 RJ45 + 1 SFP unmanaged unit for small cabinets - STI-154GP - $39.2.\n\nOne question: shall I send the surge-protection and temperature specs in the format your ATMS tenders ask for - and is Chirag or Manan the right person for that file?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:22:44Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "aaryaites@gmail.com",
+   "info@a-ites.com"
+  ],
+  "phones": [
+   "+91 79 489 95206",
+   "+91 98250 95206"
+  ],
+  "social": [
+   "https://in.linkedin.com/company/aarya-ites-pvt-ltd-"
+  ],
+  "models_on_site": [],
+  "url": "https://www.a-ites.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

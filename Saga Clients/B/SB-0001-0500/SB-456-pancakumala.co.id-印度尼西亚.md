@@ -68,6 +68,7 @@ updated: 2026-10-29
 | 2026-05-06 | out | Elsa → customerservice.pkj@gmail.com, info@pancakumala.co.id | 10G Enterprise SFP Switch（Elsa 1:1 第 7/8 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 第 74 批(o) `from:e.sagatelecom (to:pancakumala.co.id OR to:customerservice.pkj@gmail.com)` 全程 complete：8 行；To=本户 ⇒ 1:1 直收 | `elsa_1to1` |
 | 2026-08-10 | out | Elsa → customerservice.pkj@gmail.com, info@pancakumala.co.id | 24 Port PoE Managed Switch（Elsa 1:1 第 8/8 轮；To 仅本户）；正文 Price: 170USD/PC | 第 74 批(o) `from:e.sagatelecom (to:pancakumala.co.id OR to:customerservice.pkj@gmail.com)` 全程 complete：8 行；To=本户 ⇒ 1:1 直收 | `elsa_1to1` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：基本都是DCN的；回复：回复没啥内容 但是有联系方式 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Home - Panca Kumala Jaya- Competent Partner in Smatv & Security Solution — 3 Solutions from Panca Kumala: SMATV & IPTV, Security and Access Solutions, 3play Solution | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：（已核 2026-10-24，第 73 批）用户表「有回复·跟进中」= Elsa 邮箱 2025-10-07 那封只有签名档的空回（customerservice.pkj@gmail.com，Dian for Johandi Halim）；线程到此为止，Elsa 未回；不是 WhatsApp。签名档里有「Whatsapp Marketing Service : 0818 323 366」——若要走 WA 只能 Simon 手机；2026-08-10 Elsa 群发给他看过 24 口 PoE $170（第 74 批(o)）
 
@@ -130,7 +131,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（pancakumala.co.id，快照 2026-10-21）
 - **是谁**：雅加达 SMATV/IPTV、安防门禁、3play 方案分销商（Feeder、Koovik、Wisenet/Hanwha、Garech、Sensofire），**DCN 交换机印尼渠道**（PoE / 模块化工业 / DIN 工业交换机品类页；S5750E-28X-P-EI、IS2100D-4GF10GT-P、IS5600G 等），表内「基本都是 DCN 的」，2025-10 对 DAC 回复「没啥内容但有联系方式」。
-- **在卖/在用品牌**：DCN, Hanwha Wisenet, Koovik
+- **在卖/在用品牌**：DCN, Hanwha Wisenet, Koovik, Hanwha
 - **【官网快照】三大方案：SMATV & IPTV、安防门禁、3play；品牌 Feeder / Koovik / Wisenet / Garech / Sensofire；DCN 交换机品类（PoE / 模块化工业 / DIN 工业）；型号 S5750E-28X-P-EI、IS2100D-4GF10GT-P、IS5600G-28M；Ruko Golden Green No.8 Jl. Panjang, Jakarta Barat；021-5643366**
   > 3 Solutions from Panca Kumala: SMATV & IPTV, Security and Access Solutions, 3play Solution… /product-category/dcn/switch/poe… din-rail… models S5750E-28X-P-EI, IS2100D-4GF10GT-P, IS5600G-28M… Hunting: 021-5643366
   > 来源：https://www.pancakumala.co.id/（抓取 2026-10-21）
@@ -138,9 +139,10 @@ updated: 2026-10-29
   > 兴趣：基本都是DCN的；回复：回复没啥内容 但是有联系方式
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（客服）（）customerservice.pkj@gmail.com +62 21 564 3366〔https://www.pancakumala.co.id/〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：DCN 渠道））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：DCN 渠道） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

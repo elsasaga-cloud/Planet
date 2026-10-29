@@ -8,7 +8,8 @@
  "brands_seen": [
   "Silverback by Sewell",
   "Deadbolt by Sewell",
-  "Salt Labs"
+  "Salt Labs",
+  "D-Link"
  ],
  "evidence": [
   {
@@ -56,11 +57,12 @@
    "source": "https://opencorporates.com/companies/us_ut/1034201-0142"
   }
  ],
- "notes": "A 确认（成交 + 复购）：维护为主，顺带推 PoE 注入器/小 PoE 交换机作为其 AV 线配套；美国区注意 FCC 标识与中性包装。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\nA 确认（成交 + 复购）：维护为主，顺带推 PoE 注入器/小 PoE 交换机作为其 AV 线配套；美国区注意 FCC 标识与中性包装。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1"
+  "level": "深挖 v1 + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "SEWELL DEVELOPMENT CORPORATION（Utah 1034201-0142，1989-05-11）",
@@ -180,6 +182,14 @@
     "quote": "「Managed Optical Bypass Switch」被打开（Mailtrack Opened 标签）",
     "why": "唯一的互动痕迹",
     "k": "868baaf6e6acfd0a"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "HDMI & Audio/Video Products for Home Theater — Sewell Direct — Easy to use, affordable AV products such as banana plugs, speaker cables, XLR, HDMI splitters, switches and cables. Fast, free shipping and expert tech support.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://sewelldirect.com/"
    }
   ],
   "proof_gaps": [
@@ -190,5 +200,35 @@
    "body": "Hi David,\n\nSewell has bought PoE power from us; our mails to brent@ and brett@ bounce, so this comes via LinkedIn. Next to the Raven injector line, the easiest add-on SKU for an Amazon listing is a small PoE switch: 4 x Gigabit PoE+ + 2 x Gigabit uplinks, unmanaged, FCC/CE/RoHS - model STC-024GP - $22.3 USD EXW in Sewell packing (MOQ 1, 15-day validity).\n\nOne question: who handles new switch SKUs at Sewell now, so I send the datasheet to the right inbox?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:19:39Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@sewelldirect.com",
+   "service@sewelldirect.com"
+  ],
+  "phones": [],
+  "social": [
+   "https://facebook.com/sewelldirect",
+   "https://instagram.com/sewelldirect",
+   "https://twitter.com/share?url=https://sewelldirect.com/products/deadbolt-banana-plugs",
+   "https://twitter.com/share?url=https://sewelldirect.com/products/ir-emitter"
+  ],
+  "models_on_site": [
+   "SW-29317",
+   "RS-232",
+   "RS232",
+   "IEEE-488",
+   "SW-29863-6"
+  ],
+  "url": "https://sewelldirect.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

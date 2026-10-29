@@ -54,6 +54,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-02-03 | 来 | domsales@patton.com | Hello Alan, I was able to review with our support team on your needs for a switch. The closest model we have is the FP2024E however it does not suppor | 来信原文（主题「[DomSales #397845]: L3 Managed Swit」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `366a3daa8f45f640` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Patton Electronics \| US Manufactured Network Equipment — Patton Electronics Company offers UC, cloud, & IoT-enabling solutions for carrier, enterprise & industry. Patton Electronics manufactures high-quality Patton VoIP gateways, eSBCs, Ethernet extenders, interface converters, and more. Patton's Sw | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -158,9 +159,10 @@ updated: 2026-10-29
 - **KP**：Gary Portellas（）gportellas@patton.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Jennefer Staub（Account Manager（销售侧，非采购；改投产品 / 采购）（第 104 批 官方登记核实 2026-10-28））jenn@patton.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Robert R. (Bobby) Patton（President & CEO（2009 起；共同创办人）= 拍板人（第 104 批 官方登记核实 2026-10-28）） 〔https://www.patton.com/company/〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -10,7 +10,8 @@
   "PLANET",
   "MikroTik",
   "Grandstream",
-  "Optcore"
+  "Optcore",
+  "Ubiquiti"
  ],
  "evidence": [
   {
@@ -67,10 +68,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-078，W 批次调研 2026-10-19/20）"
+  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-078，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Solimedia Technology Inc.（加拿大 BC 省公司；Soliton 集团成员；BC 登记号未取）",
@@ -236,11 +238,52 @@
     "quote": "24 Port PoE Managed Switch、8 Port Industrial PoE Switch",
     "why": "3 封 / 1 次打开 / 0 回｜首封 2025-01-20 → 末封 2026-10-19（3 去 / 0 来）",
     "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Solimedia: The Best Deals on Mikrotik and Grandstream — Explore Solimedia for top-quality Mikrotik, Grandstream, and Optcore products at competitive prices with great value.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://solimedia.net/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-25"
  },
- "country_fix": "加拿大"
+ "country_fix": "加拿大",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:36:27Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@solimedia.net"
+  ],
+  "phones": [
+   "+1 604 336 7000"
+  ],
+  "social": [
+   "https://www.facebook.com/Solimedia/",
+   "https://www.linkedin.com/company/solimedia-technology",
+   "https://x.com/SolimediaTech"
+  ],
+  "models_on_site": [
+   "GWN7800",
+   "CRS309-1G-8S",
+   "GWN7802P",
+   "CRS328-24P-4S",
+   "RB260GSP",
+   "GWN7803P",
+   "CRS305-1G-4S",
+   "CSS610-8G-2S"
+  ],
+  "url": "https://solimedia.net/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

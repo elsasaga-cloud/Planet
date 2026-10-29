@@ -117,7 +117,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（timeout）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（KN Electrologic Services Ltd：超时（站慢或封锁），2026-10-21，第 1 次）
 - **是谁**：塞浦路斯 KN Electrologic Services Ltd（电气工程服务；KP Nikolas Konomou（Electrical Engineer）；表内「管理交换机 HDMI 转网带 USB」；官网 timeout）；群发 21 次无回复。
 - **类型**：电气工程承包商（塞浦路斯）
 - **【用户表】表内兴趣/备注**
@@ -127,7 +127,8 @@ updated: 2026-10-29
   > 管理交换机 HDMI转网带USB
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Nikolas Konomou（Director（LinkedIn 2009-06 起；Electrical Engineer）= 拍板人 / 收件人（第 111 批 官方登记核实 2026-10-28））info@electrologicservices.com 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

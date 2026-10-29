@@ -54,10 +54,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "葡萄牙",
@@ -132,6 +133,14 @@
     "quote": "CCTV为主 有Utepo的",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "OPTIVISUS - Home",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://visus.pt/"
    }
   ],
   "proof_gaps": [],
@@ -147,5 +156,38 @@
   "note": "桌面复核（研究档类型 + 对位首推）：电信/CCTV 分销商（葡萄牙，Utepo 在售）；切入：现售 Utepo PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；2.5G 位 SmartByte 2.5G 系列（注明）；非管理 8 PoE 位 HRUI STC-028GP；行业内 ✔ 对位 ✔（宽留冷「不对位」系 fit 标志未回填，非真不对位）",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": []
+ "override_history": [],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:43:56Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "cctv@visus.pt",
+   "cliente@visus.pt",
+   "comercial@visus.pt",
+   "draytek@visus.pt",
+   "encomendas@visus.pt"
+  ],
+  "phones": [
+   "+351) 21 791 07 87"
+  ],
+  "social": [
+   "https://www.linkedin.com/company/optivisus/",
+   "https://www.mobotix.com",
+   "https://www.networkoptix.com"
+  ],
+  "models_on_site": [
+   "CVE-2025-10547",
+   "MS9390-EHV",
+   "SC9133-RTL",
+   "FD9387-FR-V2"
+  ],
+  "url": "https://visus.pt/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

@@ -2,7 +2,7 @@
  "code": "SB-452",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（timeout）",
+ "website_status": "快照失败（espuk.com：超时（站慢或封锁），2026-10-21，第 1 次）",
  "summary": "英国 ESP (Elite Security Products)（espuk.com / esp-uk.com：安防品牌（CCTV 套装、门禁、对讲），Scolmore 集团旗下；表内「用的 Folksafe 的产品」「可以多跟进一下」；KP Paul Panini（Director / Technical）；官网 timeout）；群发 12 次无回复。",
  "type": "安防品牌商（英国，PoE 现 Folksafe）",
  "size": "",
@@ -44,7 +44,7 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
@@ -147,5 +147,14 @@
   "note": "桌面复核（研究档类型 + 对位首推）：安防品牌商（英国，PoE 现 Folksafe）；切入：ESP 标 PoE（现 Folksafe）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；非管理 4/8 PoE 位 HRUI（列表价，注明）；行业内 ✔ 对位 ✔（宽留冷「不对位」系 fit 标志未回填，非真不对位）",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": []
+ "override_history": [],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:41:31Z"
+  ],
+  "fails": [
+   "2026-10-21"
+  ],
+  "batch": "LT-T03"
+ }
 }

@@ -52,6 +52,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 研 | 官网快照 | 官网标题：Deponet Elektronik Mamulleri A.Å.；品类词 无线 / WiFi / 光纤 / 媒体转换 / 网络交换 / PoE：Cart Items 0；Network Teknoloji ÃrÃ¼nleri；Deponet Ä°htiyacÄ±nÄ±za Ãzel ÃÃ¶zÃ¼mler；BiliÅim SektÃ¶rÃ¼ndeki Deponuz；Ä°htiyaÃ§larÄ±nÄ±za uygun | 无任何邮件往来；唯一证据为研究/用户表记录 | `https://deponet.com.tr/` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Deponet Elektronik Mamulleri A.Å. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -121,9 +122,10 @@ updated: 2026-10-29
   > Deponet Elektronik Mamulleri A.Ş. ; Network Teknoloji Ürünleri ; Bilişim Sektöründeki Deponuz ; maipu-urunlerinin-tanitim-toplantisi
   > 来源：https://deponet.com.tr/（抓取 2026-10-21）
 - **KP**：Hasan Kara（Teknik Servis Müdürü（2017 起；ZoomInfo）= 技术把关人（抄送）（第 106 批 官方登记核实 2026-10-28）） 〔https://www.zoominfo.com/p/Hasan-Kara/-1038805985〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

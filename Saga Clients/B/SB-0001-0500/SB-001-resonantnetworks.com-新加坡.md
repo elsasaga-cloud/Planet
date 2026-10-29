@@ -102,6 +102,7 @@ updated: 2026-10-29
 | 2025-11-12 | 去 | Simon | that will be about 100usd/pc, we cannot make it. Maybe next time. | Saga 底线 | `b26aafe834fa3423` |
 | 2026-06-22 | 来 | Au Wai Choon（Resonant Networks） | Thank you for reaching out.（回 Simon 固件 7.5 发布通知） | 礼貌确认，无需求——关系还在 | `gmail_s 8481f7580addd6d7` |
 | 2026-09-21 | 去 | Saga（Simon） | Hi, Au, This is our Marvell AC5 based L2+ switch featuring 1. 24 Port PoE af/at for multiple PDs 2. 10G Fiber Uplinks help smooth traffic transport 3. Support OEM and customizable Web GUI *Price: 180USD/PC* Do you need some samples for testing? Thank you. [ima | 历史报价点（主题「Re: Optional Marvell Chipset Solutions」；第 20 批从 gmail_s 回补）：180USD | `059803e2ac308b24` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Resonant Networks \| We Build the Earth's Digital Connectivity — Resonant Networks is the trusted name in optical connectivity, delivering ultra-fast, scalable digital infrastructure across Asia Pacific since 2013. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -225,9 +226,10 @@ updated: 2026-10-29
 - **KP**：Andrea Chew（来信署名人（职务未在邮件署名里出现））andreachewyy@resonantnetworks.com +65 9188 0860（2024-08 签名 M:）〔S/A 邮箱来信 2024-08-21 → 08-30 来信 2 封（第 72 批从邮件表头补）〕
 - **KP**：Bernard Song（来信署名人（职务未在邮件署名里出现））bernardsongyw@resonantnetworks.com 〔S/A 邮箱来信 2024-09-06 来信 2 封（第 72 批从邮件表头补）〕
 - **KP**：Hairomee（来信署名人（职务未在邮件署名里出现））hairomee@resonantnetworks.com 〔S/A 邮箱来信 2025-07-08 → 07-28 来信 2 封（第 72 批从邮件表头补）〕
-- 备注：A 级确认（成单 + 数据中心网络集成）；对位 Hohunet/CENTEC 线 10G/25G（STH 系列）与 STC L3 48 口，而非 PoE 接入。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+A 级确认（成单 + 数据中心网络集成）；对位 Hohunet/CENTEC 线 10G/25G（STH 系列）与 STC L3 48 口，而非 PoE 接入。
 
-### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + ACRA 注册核对））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + ACRA 注册核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

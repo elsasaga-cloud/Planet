@@ -62,6 +62,7 @@ updated: 2026-10-29
 | 2025-07-04 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | Mini Industrial PoE Switch（Elsa 群发第 4/5 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(n) `from:e.sagatelecom to:sigmarectrix.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2025-10-06 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | 10G Enterprise SFP Switch（Elsa 群发第 5/5 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 第 74 批(n) `from:e.sagatelecom to:sigmarectrix.com` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：方案提供商，对于2光8bypass有挺大兴趣，对于跳线问了比较多 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Sigma Rectrix Systems (M) Sdn. Bhd. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -124,6 +125,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（sigmarectrix.com，快照 2026-10-21）
 - **是谁**：马来西亚 Cyberjaya 方案提供商（+60 3 8318 6696；Ubiquiti），Pre-Sales 顾问 Mohamad Faiza bin Ismail 对 2 光 8 bypass 工业机很有兴趣，问跳线较多；无跟进。
+- **在卖/在用品牌**：Ubiquiti
 - **【官网快照】Sigma Rectrix Systems；sales@sigmarectrix.com；+603-8318 6696**
   > Sigma Rectrix Systems (M) Sdn. Bhd.
   > 来源：https://sigmarectrix.com/（抓取 2026-10-21）
@@ -131,9 +133,10 @@ updated: 2026-10-29
   > 兴趣：方案提供商，对于2光8bypass有挺大兴趣，对于跳线问了比较多
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Mohamad Faiza bin Ismail（Pre-Sales Consultant（研究档；对 2 光 8 bypass 工业机有兴趣）= 收件人（售前选型）— 一页纸一次：集成商 25% B、STI-288DGGPM $137（无 bypass 明说）/ STI-488DGGPM $147 + 3 年保 + MOQ 1 + 付费样机 — 马来西亚常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、SIRIM 不声称（第 119 批 官方登记核实 2026-10-28））mohamadfaiza@sigmarectrix.com +60 16 965 2260〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

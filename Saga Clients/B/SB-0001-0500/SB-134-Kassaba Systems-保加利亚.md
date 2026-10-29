@@ -56,6 +56,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-02 | 去 | A/S 群发 | Industrial PoE Switch、24 Port PoE Managed Switch | 24 封 / 0 次打开 / 0 回｜首封 2024-07-09 → 末封 2026-09-02（24 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 2个人一起，CEO年纪较大，英语一般，那个小伙子会帮忙翻译，做CCTV的，懂VC系列，问了resolution | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | SuperJS check | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -155,9 +156,10 @@ updated: 2026-10-29
   > 2个人一起，CEO年纪较大，英语一般，那个小伙子会帮忙翻译，做CCTV的，懂VC系列，问了resolution
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：K. Kassabow（CEO / 业主（研究档展会记录；kkassabow@kassabasystems.com）= 拍板人 / 收件人（第 111 批 官方登记核实 2026-10-28））kkassabow@kassabasystems.com 〔https://papagal.bg/eik/131403477/a657〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

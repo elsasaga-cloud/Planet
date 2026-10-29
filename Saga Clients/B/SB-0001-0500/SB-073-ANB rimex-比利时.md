@@ -57,6 +57,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-14 | 去 | A 群发 | Industrial PoE Switch、Mini Industrial PoE Switch | 16 封 / 1 次打开 / 0 回｜首封 2025-03-20 → 末封 2026-09-14（16 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | IP67网口 小体积 PoE为主 拿了很多同行的彩页 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Welcome to AnB-Rimex - AnB-Rimex — Homepage | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -127,7 +128,7 @@ updated: 2026-10-29
 - **是谁**：比利时列日 Herstal 的安防与楼宇自动化公司 AnB-Rimex SA（1983-07 注册；12.7 FTE；比利时报警/家庭自动化系统的开发商、生产商与集成商（TriCom 主机、TriCare AI），同时分销 CCTV、门禁、火灾探测；2018 年成为首家 INCERT 认证 CCTV 分销商；设有 Academy 培训与 eShop；+32 4 229 37 97；info@anb-rimex.be）。展会（埃森 2024）记录：CCTV 产品经理 Ibrahim Tiryaki——需求 IP67 网口、小体积、PoE 为主，拿了很多同行彩页；6 次推送 0 回复。Saga 无 IP67——以小体积 IP40 DIN PoE 对应。
 - **类型**：集成/经销商
 - **规模**：待补证
-- **在卖/在用品牌**：TriCom（自有品牌）
+- **在卖/在用品牌**：TriCom（自有品牌）, Dahua
 - **【用户记录】IP67 网口、小体积 PoE；拿了很多同行彩页；0 回复 / 6 次**
   > IP67网口 小体积 PoE为主 拿了很多同行的彩页；32 496 34 18 97（用户 Clients 表摘录）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
@@ -149,9 +150,10 @@ updated: 2026-10-29
 - **KP**：Ibrahim Tiryaki（Product Manager CCTV（用户表）= 收件人（第 107 批 官方登记核实 2026-10-28））it@anb-rimex.be（用户表） +32 496 34 18 97（用户表）〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Philippe Stas（Administrateur + 日常管理负责人（2022 起；BCE）= 拍板人（抄 info@ 点名）（第 107 批 官方登记核实 2026-10-28）） 〔https://www.companyweb.be/en/0424592259/a-n-b-rimex〕
 - **调研后定级**：B（原自动 A）——核心需求 IP67（Saga 不做 IP67）；比价型（收集多家彩页）；0 回复 / 6 次 → 慢跟。
-- 备注：只在其需求转为 IP30/IP40 小体积 PoE 时用 STI-244GP 重启。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+只在其需求转为 IP30/IP40 小体积 PoE 时用 STI-244GP 重启。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 登记核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 登记核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

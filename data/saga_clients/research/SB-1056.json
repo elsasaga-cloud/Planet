@@ -48,10 +48,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "TÜBİTAK MAM Teknoloji Serbest Bölgesi, Gebze / Kocaeli",
@@ -134,6 +135,14 @@
     "quote": "工业以太网 串口",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Mikrodev — Mikrodev has been founded in 2006 in İstanbul. After completing turnkey product or system development projects, Mikrodev has started comme...",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.mikrodev.com/"
    }
   ],
   "proof_gaps": [
@@ -144,5 +153,38 @@
    "body": "Hello Mikrodev team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 18 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the Ethernet switches that ship next to your RTU and XIO I/O modules, DIN-rail units under the Mikrodev label from small lots, -40 to 75 C, CE/RoHS: 8 x Gigabit + 2 x SFP unmanaged - model STI-280GE - $46 USD EXW (MOQ 1, 15-day validity); 8 x PoE+ + 2 x SFP L2 managed (VLAN, QoS, IGMP), Marvell-based - STI-288GPM - $85.5. Serial device servers we do not make.\n\nOne question: is there a port count your SCADA integrators keep asking you for?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:35:59Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@mikrodev.com"
+  ],
+  "phones": [
+   "+90 850 217 34 28"
+  ],
+  "social": [
+   "https://www.facebook.com/MikrodevBilisim/",
+   "https://www.linkedin.com/company/mikrodevtr/mycompany/verification/",
+   "https://www.youtube.com/channel/UC-67KqN9lzKKQUuZaMt3Zhg"
+  ],
+  "models_on_site": [
+   "RS485",
+   "RS232",
+   "XIO110",
+   "DM500",
+   "XIO211",
+   "DM100",
+   "MP110",
+   "MP211"
+  ],
+  "url": "https://www.mikrodev.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

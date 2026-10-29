@@ -52,6 +52,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | PoE及配件 工业FS 自己的logo | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | DITEK Surge Protection - Home — DITEK Surge Protection is your first line of defense for sensitive electrical and electronic systems in every commercial, industrial and residential application. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -143,9 +144,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Dave Gattis（VP Engineering（DITEK 2024-Q1 社区稿）= 产品 / 选型口 = 首收件人（邮箱未公开 → 官网表单 / sales@ 点名）（第 95 批 官方登记核实 2026-10-28）） 〔https://www.diteksurgeprotection.com/ditek-community-involvement-2024-q1/〕
 - **KP**：Wendy Gattis（CEO（2021-03-04 起；创始人 Robert McIntyre 之女）= 拍板人 = 抄送（第 95 批 官方登记核实 2026-10-28）） 〔https://www.thomasnet.com/company/01182816/profile〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

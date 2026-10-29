@@ -43,11 +43,12 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "画像是 Saga 的理想 OEM 客户（美国、自有 logo、工业 PoE/MC 全品类、零售价空间大），S 重点；但 22 次邮件 0 回复 → 判定为触达渠道问题而非需求问题：改用网店客服电话/联系表单/LinkedIn 找老板，附'IGS-803SM 对位 STI-288DGGPM $137.5 EXW（OEM 30%）'一句话价差。若再无回应则降 B。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n画像是 Saga 的理想 OEM 客户（美国、自有 logo、工业 PoE/MC 全品类、零售价空间大），S 重点；但 22 次邮件 0 回复 → 判定为触达渠道问题而非需求问题：改用网店客服电话/联系表单/LinkedIn 找老板，附'IGS-803SM 对位 STI-288DGGPM $137.5 EXW（OEM 30%）'一句话价差。若再无回应则降 B。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（基于首轮调研整理 + OEM 映射；用户定级 B 低优先）"
+  "level": "B 级加厚 v1（基于首轮调研整理 + OEM 映射；用户定级 B 低优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Megatel Industries Corporation（PA Corporation；PA DOS 号未取；CAGE IRRG5）",
@@ -145,6 +146,14 @@
     "quote": "「Please see attached datasheet and let me know」（Zack 15:05Z 问 datasheet，Simon 15:29Z 回——24 分钟）；群发原文价 **65usd/pc**（1×10G SFP+ + 1×100M/1G/2.5G/10G RJ45，非管理，DC5~12V，含电源）；12-11 再推 90W PoE 管理机 → 无回。",
     "why": "Megatel（PA，美国；Zack = VP Sales）唯一一次真人回应就是要 10G MC 的 datasheet——他们自己卖光端机/MC，$65 的 10G MC 是可比价；之后 24 封群发无回。重启时只谈 10G MC（阶梯 $75/$70@100/$65@500，见 SA-008 2024-12-12 报价单）",
     "k": "k=23ff8e2e29b53c84（S 邮箱 2024-11-26 15:29Z）"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Megatel - Worldwide distributor, exporter and wholesaler of network, data communication and fiber optic products — As a worldwide distributor, exporter and wholesaler of network, data communication and fiber optic products, our mission is to provide various reliable, good quality and good price solu",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.megatelindustries.com/"
    }
   ],
   "proof_gaps": [],
@@ -153,5 +162,30 @@
    "body": "Hi Zack,\n\nIn November 2024 your VP Sales asked for the 10G media-converter datasheet and we sent it; since then only general product mails. Here is the short mapping of your own-label series against ours, at OEM tier, EXW, MOQ 1, 15-day validity, FCC/CE/RoHS, your label from small lots:\n\n- IGS 8-port Gigabit managed PoE (your $699 position): DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2+ managed with ring redundancy, Marvell-based, -40 to 75 C - model STI-288DGGPM - $137.5 USD; the L2 managed version - STI-288GPM - $85.5.\n- IPSW 6-port unmanaged PoE (your $145 position): 4 x Gigabit PoE+ + 1 x Gigabit + 1 x SFP - STI-154GP - $40.8.\n- IMC industrial media converter: Gigabit, 1 x RJ45 + 1 x SFP slot - STI-110GE - $26.5.\n\nOne question: which IGS-series SKU would you dual-source first if the managed unit landed well under your current cost?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:22:34Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "EN50155",
+   "IGS-803SM-8PH24",
+   "FRM220",
+   "RJ-45",
+   "IEEE802",
+   "IGS-401F-4PH24-SC001",
+   "IFS-803GSM-8PH24",
+   "IGS-600-4PHE24"
+  ],
+  "url": "https://www.megatelindustries.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

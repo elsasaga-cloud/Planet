@@ -9,7 +9,12 @@
  "brands_seen": [
   "Cisco",
   "D-Link",
-  "Fortinet"
+  "Fortinet",
+  "Ubiquiti",
+  "Huawei",
+  "TP-Link",
+  "H3C",
+  "Grandstream"
  ],
  "evidence": [
   {
@@ -80,10 +85,11 @@
  ],
  "grade_override": "A",
  "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + 名录核对）"
+  "level": "B 级加厚 v1（官网 + 名录核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "COMTECH ASSOCIATES (PVT.) LTD（SECP 注册号未取）",
@@ -183,6 +189,14 @@
     "quote": "闭路电视 安全 网站：没啥特别相关的东西 / 92 335-28 76148 已加 / 外贸邦",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Home - COMTECH ASSOCIATES — Pakistan's Biggest Tech Show Meets Real Cisco DeploymentsComtech, a Silver Sponsor at ITCN Asia 2026, is showcasing Cisco networking, security, and data",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://comtech.net.pk/"
    }
   ],
   "proof_gaps": [
@@ -203,5 +217,31 @@
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）"
   }
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:41:28Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@comtech.com"
+  ],
+  "phones": [
+   "+92 213 4404440",
+   "+92 213 4404441",
+   "+92 331 1144220"
+  ],
+  "social": [
+   "https://www.facebook.com/Comtech.Associates",
+   "https://www.instagram.com/comtech_associate/",
+   "https://www.linkedin.com/company/comtechassociates/"
+  ],
+  "models_on_site": [],
+  "url": "https://comtech.net.pk/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

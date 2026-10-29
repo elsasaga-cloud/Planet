@@ -141,9 +141,10 @@ updated: 2026-10-29
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Senay Huseyin Bozaci（Director（2018-02-27 起；1980-01 生；Companies House 11228236；唯一董事）= 拍板人（17 次推送 0 回复 → 不动）（第 93 批 官方登记核实 2026-10-28）） 〔https://find-and-update.company-information.service.gov.uk/company/11228236/officers〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：deep。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（Companies House 核对 · 官网不可见））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（Companies House 核对 · 官网不可见） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

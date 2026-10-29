@@ -76,6 +76,7 @@ updated: 2026-10-29
 | 2025-07-23 | 去 | Saga（Alan） | Hi, John, Your order is ready and on the way now. I will share AWB info once available. *https://drive.google.com/drive/folders/1mchLjAO5PysNCW_B7hm_pSJpM07GE0ue?usp=drive_link <https://drive.google.com/drive/folders/1mchLjAO5PysNCW_B7hm_pSJpM07GE0ue?usp=drive_link>* Please check the details of this… | Saga 实质答复原文（主题「Re: 8 Port Industrial PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `3b51c9a34e2f070c` |
 | 2025-07-24 | 来 | sales@52networks.com | Thanks On Thu, 24 Jul 2025 at 08:08, Alan from Saga Telecom < a.sagatelecom@gmail.com> wrote: | 来信原文（主题「Re: 8 Port Industrial PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `3e1537243520fa28` |
 | 2026-08-14 | 去 | Alan | Marvell AC5 based L2+ switch… 24 Port PoE af/at… 10G Fiber Uplinks… Price: 170USD/PC | 最近一次报价点（群发式） | `9fc5dd871aabe856` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | 52Networks: Buy Bulk Ethernet Cables – Cat5e, Cat6, Cat6A — Buy bulk ethernet cables — Cat5e, Cat6 & Cat6A in 100% solid bare copper, plenum & riser. ETL listed, Fluke tested, fast US shipping. Shop bulk pricing. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：TAA 是否真是停点 = 推断（证据：GSA 页写 TAIWAN + 他是 GSA 承包商），需他一句话确认；PI/付款金额见 A 总览 §3，样机型号 STI-288GP 由 2025-07-12 报价链确认
 
@@ -200,9 +201,10 @@ updated: 2026-10-29
 - **KP**：Uzair（GSA 登记联系人）（GSA 登记联系人 = 业主（SAM.gov 自证少数族裔 / 印度裔所有，1–10 人，营收 <$1M）= 老板 = 联系人；52 Networks, Inc.（VA 2018-03-12；UEI FV4KBSNE5S75 · CAGE 907X4；GSA MAS 47QTCA22D00B3 至 2027-07）（第 86 批 官方登记核实 2026-10-27））uzair@52networks.com +1 571-402-8369〔https://www.gsaelibrary.gsa.gov/ElibMain/home.do/contractorInfo.do?contractNumber=47QTCA22D00B3&contractorName=52+NETWORKS,+INC.&executeQuery=YES〕
 - **KP**：—（销售邮箱（用户表））sales@52networks.com +1 757-799-1359〔https://52networks.com/contact-us/〕
 - **KP**：John Davis（单据联系人）sales@52networks.com 〔PI.zip 单据〕
-- 备注：A 维持（已成交 + 美国 + 名字明确）但体量小；守界：其 GSA/联邦渠道受 TAA 约束——中国产品只报商业客户用途，不做 GSA 目录承诺；P1 = STI-110GE（MC）复购，20% 经销档。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：deep/facts。
+A 维持（已成交 + 美国 + 名字明确）但体量小；守界：其 GSA/联邦渠道受 TAA 约束——中国产品只报商业客户用途，不做 GSA 目录承诺；P1 = STI-110GE（MC）复购，20% 经销档。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1）
+### 加厚挖掘（2026-10-21 · 深挖 v1 + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

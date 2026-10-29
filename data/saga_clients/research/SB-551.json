@@ -2,7 +2,7 @@
  "code": "SB-551",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（http_error）",
+ "website_status": "快照失败（sanspot.com：HTTP 错误，2026-10-21，第 1 次）",
  "summary": "美国 SANspot（官网快照 HTTP 错误；表内「工业 MC MC 自己的 logo；网站上都是 cable 等无源产品」（备注搜索页 media converter）；KP Deepali、vanil@）；群发 20 次无回复。",
  "type": "布线网店/自有标 MC（美国）",
  "size": "",
@@ -35,7 +35,7 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
@@ -130,5 +130,14 @@
    "body": "Hi Deepali,\n\nOver the past months you had a few product mails from us - most recently \"Updated Ethernet Switches Links\" on 26 February 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the media converters listed under the SANspot label next to your cabling range, in your packaging from small lots, FCC/CE/RoHS: industrial Gigabit converter, DIN-rail, 1 x RJ45 + 1 x SFP slot (fixed SC optional), -40 to 75 C - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); the PoE version for a camera at the fibre end - STI-111GP - $30.1; desktop versions on request.\n\nOne question: which converter configuration do your customers order most - SFP-slot or fixed SC, and single- or multimode?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:43:01Z"
+  ],
+  "fails": [
+   "2026-10-21"
+  ],
+  "batch": "LT-T03"
  }
 }

@@ -57,6 +57,7 @@ updated: 2026-10-29
 | 2025-04-03 | 去 | Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次） | L3 Managed Switch — This is a Marvell-based L3 Managed 24 port DIN PoE Switch. 1, PoE af/at/bt, 370W budget, max 60℃ 2, Support DI/DO/RS485, USB, Alarm 3, Customizable We | Elsa 箱群发 BCC 触达证据（命中地址 cyberbajt.pl, m.blaszczyk@cyberbajt.pl, s.sirko@cyberbajt.pl, t.kupiec@cyberbajt.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-09-01 | 去 | Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 cyberbajt.pl, m.blaszczyk@cyberbajt.pl, s.sirko@cyberbajt.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-06 | 去 | S 群发 | 24 Port PoE Managed Switch | 1 封 / 0 次打开 / 0 回｜首封 2026-10-06 → 末封 2026-10-06（1 去 / 0 来） | `gmail_digest` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Cyberbajt Wireless, Światłowody, MikroTik, Ubiquiti, Anteny WiFi i LTE, Monitoring — Cyberbajt - największy sklep internetowy dla instalatorów i operatorów telekomunikacyjnych ISP. Prosty system zamówień, szybka dostawa, bezpłatne wsparcie techniczne i fachowe doradztwo. Bogata oferta: światłowody,  | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -126,7 +127,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（cyberbajt.pl；并档 Planet 渠道档案 PB-069）
 - **是谁**：Zamość 一家 2002 年起的 ISP/安装商网店兼天线与光纤组件制造商（CBF 品牌），PLANET 商用交换机 5 款与 Moxa/Antaira 工业款同台在售。类型：分销/电商（2002 年起面向安装商与 ISP 的网络设备网店 + 自有天线/光纤品牌 CBF 制造；品牌 MikroTik / Ubiquiti / Moxa / Antaira / TP-Link / D-Link / Teltonika / Planet 等；PLANET 交换机 5 款 + 媒体转换器）。信号：cyberbajt.pl 商品页：PLANET WGS-4215-8P2S（1017.63 zł netto / 1251.68 zł brutto，「Towar będzie u Ciebie za 7 dni」）、WGSW-20160HP、GSD-804P、GSD-804（57.15 zł）、FSD-803（114.30 zł）、GT-805A 媒体转换器（168.22 zł）、IGTP-815AT 工业 PoE+ 媒体转换器；Urządzenia 与 Mediakonwertery 类目品牌筛选均含「Planet」。Planet 渠道档案 PB-069 评级 B（需求：PLANET 商用交换机 5 款有价有货期 + 工业线（Moxa/Antaira）在售 → 对 Saga 两条线都有真实槽位；触达：官网 dział handlowy 具名销售邮箱公开（Mikrotik 仓 R49 自官网抄录 6 位，本仓快照见 Michał Błaszczyk 具名）；体量：个体经营（Tadeusz Nowak）但自述「największy sklep internetowy dla instalatorów i operatorów ISP」+ 自有 CBF 品牌 → 可赢；Mikrotik 仓 A-512（人工 A ★★★，有邮箱）→ 并档，首触以 Mikrotik 仓库为准 → B ★★）。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-1021，波兰，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。
-- **在卖/在用品牌**：PLANET, TP-Link, Ubiquiti, MikroTik, Moxa, Teltonika, D-Link, Antaira
+- **在卖/在用品牌**：PLANET, TP-Link, Ubiquiti, MikroTik, Moxa, Teltonika, D-Link, Antaira, Netgear, Zyxel, Pulsar, Hikvision, Dahua, Huawei, Ruijie
 - **【官网】PLANET WGS-4215-8P2S 在售（价格与货期）**
   > Switch przemysłowy PLANET Managed 8-port 10/100/1000T … WGS-4215-8P2S … 1017.63 zł … 1251.68 zł brutto … Towar będzie u Ciebie za 7 dni
   > 来源：https://www.cyberbajt.pl/produkt/14809/switch-przemyslowy-planet-managed-8-port-101001000t.html（抓取 2026-10-20）
@@ -156,9 +157,10 @@ updated: 2026-10-29
   > 来源：https://www.krs-online.com.pl/firma/2602012-cyberbajt（抓取 2026-10-20）
 - **KP**：Michał Błaszczyk（销售（研究档 KP）= 收件人；业主 Tadeusz Nowak（CEIDG）（第 96 批 官方登记核实 2026-10-28））m.blaszczyk@cyberbajt.pl 600 601 602 / (84) 638 10 70〔https://www.cyberbajt.pl/handlowcy/〕
 - **KP**：D. Jonik 等 5 位销售（）d.jonik@cyberbajt.pl 〔https://www.cyberbajt.pl/handlowcy/〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-069，W 批次调研 2026-10-19/20））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-069，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

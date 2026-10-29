@@ -133,7 +133,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（timeout）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（espuk.com：超时（站慢或封锁），2026-10-21，第 1 次）
 - **是谁**：英国 ESP (Elite Security Products)（espuk.com / esp-uk.com：安防品牌（CCTV 套装、门禁、对讲），Scolmore 集团旗下；表内「用的 Folksafe 的产品」「可以多跟进一下」；KP Paul Panini（Director / Technical）；官网 timeout）；群发 12 次无回复。
 - **类型**：安防品牌商（英国，PoE 现 Folksafe）
 - **在卖/在用品牌**：Folksafe
@@ -145,7 +145,8 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Paul Panini（ESG & Sustainability Director（LinkedIn）= **误对口（不管采购）→ 不发给他**（第 96 批 官方登记核实 2026-10-28））paul@esp-uk.com 〔用户表〕
 - **KP**：ESP 产品管理（公域）（Elite Security Products Limited 产品 / 采购公域（Scolmore 集团，Redditch）= 收件人；National Sales Manager Ben Mackrill 仅记档（第 96 批 官方登记核实 2026-10-28）） 〔https://find-and-update.company-information.service.gov.uk/company/02769392〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

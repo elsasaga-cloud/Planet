@@ -2,7 +2,7 @@
  "code": "SB-543",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（http_error）",
+ "website_status": "快照失败（luetze.com：HTTP 错误，2026-10-21，第 1 次）",
  "summary": "德国 Lütze（LÜTZE：工业电缆与自动化集团（德/英/西等多国），工业通信目录含自有品牌工业以太网交换机；表内「工业 FS 自己的牌子 质量还行，主要是工业电缆」「可以着重跟一下」「比较重要」；备注 luetze.com/es-es/catalogo/Control/Comunicación-industrial）；群发 27 次无回复。",
  "type": "德国工业电缆/自动化集团（自有标工业 FS；用户标「重要」，二供口径）",
  "size": "",
@@ -34,7 +34,7 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
@@ -140,5 +140,14 @@
    "body": "Hi Dimitrios,\n\nWe have sent you a few mails on \"Mini Industrial PoE Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nFor the industrial Ethernet switches in the LÜTZE industrial-communication catalogue, we can be a second ODM source (DIN-rail 8-GE/8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from small lots in your housing — is there a model in the range you would like a second-source quote for?\n\nReference price: DIN-rail 8-PoE + 2 SFP L2 managed industrial switch, 240 W (STI-288GPM) $85.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:42:54Z"
+  ],
+  "fails": [
+   "2026-10-21"
+  ],
+  "batch": "LT-T03"
  }
 }

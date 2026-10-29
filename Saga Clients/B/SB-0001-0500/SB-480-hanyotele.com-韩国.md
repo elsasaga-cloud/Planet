@@ -52,6 +52,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | MC 工业FS 自己的logo 多功能VC 一些无源产品；https://www.ec21.com/product-details/POE-Media-Converter-10-100--9424691.html | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | 403Error ¿äÃ»ÇÏ½Å ÆäÀÌÁö¿¡ Á¢±Ù ±ÇÇÑÀÌ ¾ø½À´Ï´Ù. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -132,9 +133,10 @@ updated: 2026-10-29
   > 来源：https://www.ec21.com/product-details/POE-Media-Converter-10-100--9424691.html（抓取 2026-10-21）
 - **KP**：Nam Sang Jun（대표이사 (주)한요 Hanyo Co., Ltd.（jobkorea / incruit）= 拍板人 / 收件人（sales@hanyotele.com）（第 115 批 官方登记核实 2026-10-28）） 〔用户表〕
 - **KP**：(주)한요 영업팀 sales@（官方销售邮箱（blog.naver hanyotele）= 收件地址（第 115 批 官方登记核实 2026-10-28））sales@hanyotele.com 〔https://m.blog.naver.com/hanyotele/220024781772〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

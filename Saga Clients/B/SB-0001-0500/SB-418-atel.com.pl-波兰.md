@@ -57,6 +57,7 @@ updated: 2026-10-29
 | 2025-10-09 | 去 | Elsa 群发（BCC；To info@axuse.com，PL-3（大分销 aat/lanberg/elmark/dipol/a2s） 批次） | 10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring（正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | Elsa 箱群发 BCC 触达证据（命中地址 atel.com.pl, cust@atel.com.pl, praca@atel.com.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-06 | 去 | A/S 群发 | 10G Enterprise SFP Switch、24 Port PoE Managed Switch | 12 封 / 0 次打开 / 0 回｜首封 2025-10-20 → 末封 2026-10-06（12 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：MC Switch等;价格比较高 MC 工业FS SFP Oring的 商业FS Tp-link | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Atel Electronics - Import i dystrybucja — Importem i dystrybucja pasywnych oraz aktywnych elementów sieci teleinformatycznych, przyrządów pomiarowych, narzędzi instalacyjnych , akcesoriów audio-video, urządzeń do komunikacji bezprzewodowej, do komunikacji przemysłowej oraz szeroki asortyment kompone | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -147,9 +148,10 @@ updated: 2026-10-29
   > 兴趣：MC Switch等;价格比较高 MC 工业FS SFP Oring的 商业FS Tp-link
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（客服）（）cust@atel.com.pl 〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

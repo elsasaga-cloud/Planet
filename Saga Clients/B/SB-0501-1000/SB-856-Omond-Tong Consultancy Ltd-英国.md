@@ -54,6 +54,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-08-28 | 去 | A/S 群发 | Managed Optical Bypass Switch、Industrial PoE Switch | 27 封 / 1 次打开 / 0 回｜首封 2024-06-30 → 末封 2026-08-28（27 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 2个 24V百兆工业MC FC/SC；44-1507-311002 加不上 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Electrical Design using Eplan P8 2024 - Omond-Tong Consultancy Ltd — O-TC Ltd provide electrical design services and solutions to companies requiring Eplan P8 expertise when changing from other Electrical CAD systems | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -150,9 +151,10 @@ updated: 2026-10-29
   > 2个 24V百兆工业MC FC/SC；44-1507-311002 加不上
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Martin Omond-Tong（创办人（2012；Eplan 电气设计咨询；董事身份推定）= 老板；Pamela Omond-Tong Director 2015-05-15 任（Companies House 08154404）（第 94 批 官方登记核实 2026-10-28））martin@o-tc.co.uk 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -50,10 +50,11 @@
  ],
  "grade_override": "A",
  "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌；A6 真回≥3+对位（任何区域）；A4 Simon 点名",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网目录核对）"
+  "level": "B 级加厚 v1（官网目录核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "THOR FIBER, INC.（California SOS 4095985，2017-12-26，Good Standing；dba Thor Broadcast；Torrance CA）",
@@ -190,6 +191,14 @@
     "quote": "STI-488XGGBPM 215usd/pc Industrial PoE Managed Switch 4*1G/2.5G/10G SFP+8*10/100/1000M RJ45/PoE… With internal power booster",
     "why": "单款报价",
     "k": "822038afc07c951e"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "CATV and Fiber Transport Equipment - Thor Broadcast — Specializing in turnkey broadcast CATV solutions with a full range of encoding and decoding equipment to easily transport signals over IP, fiber, and RF.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://thorbroadcast.com"
    }
   ],
   "proof_gaps": [],
@@ -208,5 +217,34 @@
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌；A6 真回≥3+对位（任何区域）；A4 Simon 点名"
   }
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:23:04Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@thorfiber.com",
+   "support@thorbroadcast.com",
+   "support@thorfiber.com"
+  ],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "RS485",
+   "RS232",
+   "RS-485",
+   "RS-232",
+   "RS422",
+   "H-4K-HDMI-TX",
+   "H-4HDMI",
+   "MPEG-2"
+  ],
+  "url": "https://thorbroadcast.com",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

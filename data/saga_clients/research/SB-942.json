@@ -50,10 +50,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "ul. Wiśniowa 36, 64-000 Kościan",
@@ -146,10 +147,47 @@
     "quote": "宇航的工业FS 买的Cudy的牌子；https://www.cudy.com/ProductInfoCategory?categoryId=53082,182629,182960,182961,393686,700325,702859,18",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "DMTrade.pl - Your Center for Electronics, Smart Home, and Ergonomics — Discover professional solutions: TV-SAT, CCTV monitoring, Smart Home systems, and Spacetronik electric desks. From installations to office equipment – check out DMTrade!",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.dmtrade.pl/en-PL/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:25:25Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sklep@dmtrade.pl"
+  ],
+  "phones": [
+   "+48 611 11 02 52"
+  ],
+  "social": [],
+  "models_on_site": [
+   "DVB-T2",
+   "DVB-S2",
+   "SPH-M620",
+   "SPH-M24",
+   "MIMO-8",
+   "RS-232",
+   "SPH-MC01RX",
+   "SPH-M444"
+  ],
+  "url": "https://www.dmtrade.pl/en-PL/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -62,6 +62,7 @@ updated: 2026-10-29
 | 2026-10-07 | 去 | A/S 群发 | Marvell Alleycat5 Solution、Commercial Network Switch | 25 封 / 1 次打开 / 0 回｜首封 2024-06-29 → 末封 2026-10-07（25 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 从UnipoE买一些商业poE / 买了Unipoe的1216POE | 表内备注 | `用户表` |
 | 2026-10-07 | 去 | A 箱（Alan） | Managed PoE Switches | 本日去信真实主题（邮箱索引 81de345d724d61ea；信稿开头句引用此封；此前稿内写的「Marvell Alleycat5 Solution」是线程列表首题，不是本封） | `81de345d724d61ea` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Оборудование для систем безопасности и видеонаблюдения — Широкий выбор оборудования для систем безопасности и видеонаблюдения, обеспечивающего защиту объектов любой сложности. Качественные решения от ведущих брендов. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -138,7 +139,7 @@ updated: 2026-10-29
 - **是谁**：哈萨克斯坦安防分销商 Pulsar Systems LLP（ZKTeco、Hikvision 官方分销商；TVT（CCTV）、Secuscan（X 光）、UNIPOE（PoE 交换机）在哈萨克斯坦与俄罗斯的独家分销商；阿斯塔纳 +7 702 000-61-16、阿拉木图 +7 702 000-61-17；网店在售 UNIPOE PM3018GSNL-330 V2（16 PoE + 2 SFP）118,195 ₸、PM3010FSN（8 FE PoE + 2 上联）26,467 ₸、PM3026GSNL-330 V2（24 PoE + 2 SFP）、Dahua PoE 交换机）。用户表：从 UniPoE 买商用 PoE（1216POE）；17 次跟进 0 回复。已是 UniPoE 独家分销 → Saga 只能作「第二来源/自有标」切入，分销 20%。
 - **类型**：经销商
 - **规模**：待补证
-- **在卖/在用品牌**：UniPoE（在用）, UNIPOE（独家分销）, Hikvision, ZKTeco, Dahua, TVT
+- **在卖/在用品牌**：UniPoE（在用）, UNIPOE（独家分销）, Hikvision, ZKTeco, Dahua, TVT, Pulsar
 - **【用户记录】从 UniPoE 买商业 PoE（1216POE）；0 回复 / 17 次跟进**
   > 从UnipoE买一些商业poE / 买了Unipoe的1216POE（用户 Clients 表摘录）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
@@ -160,9 +161,10 @@ updated: 2026-10-29
 - **KP**：（见 Clients 表联系人）（） 〔用户 Clients 表〕
 - **KP**：Sabit Karimov（Каримов Сабит Мухтарович）（Директор（adata.kz 2026-10-29；无公开邮箱）→ 收件 info@pulsar.kz Attn: Mr. Karimov — 一页纸一次：分销 20% B、16 PoE + 2 SFP 类对位 STC-2216GP $63–76 / STC-2224GP $86 / STC-4424GCPM $165 一口价 + MOQ 1 + 付费样机；在代 PoE 品牌不点名；俄罗斯转售买方自理 — 哈萨克斯坦常规：英文稿、20 / 25 / 30 + T/T 预付 100%（哈国银行）+ FOB 深圳 或 DAP 阿拉木图 / 阿斯塔纳、EAC 不声称（第 121 批 官方登记核实 2026-10-29）） 〔〕
 - **调研后定级**：B（原自动 A）——品类完全对位（商业 PoE，UniPoE 在用）但 17 次推送 0 回复，俄语区非主攻 → 慢跟。
-- 备注：重启只发一次'UniPoE 1216POE 对位 STC-21616GP/STC-424DGGPM 价格差'邮件。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+重启只发一次'UniPoE 1216POE 对位 STC-21616GP/STC-424DGGPM 价格差'邮件。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 网店核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 网店核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

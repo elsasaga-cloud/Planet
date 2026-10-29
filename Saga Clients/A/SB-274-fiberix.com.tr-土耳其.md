@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 在广州有合作伙伴 最主要找商业级交换机 SFP Transceiver  POE不常用 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Fiberix \| Cebinize Dost Ýnternet — Fiberix - Cebinize Dost Ýnternet - Ekonomik, Hýzlý, Fiber Ýnternet | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来；用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -130,9 +131,10 @@ updated: 2026-10-29
 - **KP**：Karasu（用户表联系人（抄送）（第 106 批 官方登记核实 2026-10-28））karasu@fiberix.com.tr（用户表） +90 554 154 0100（用户表，WhatsApp 已加）〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Zafer Yılmaz（RIPE 管理联系人（网络负责人推定）= 收件人（第 106 批 官方登记核实 2026-10-28））zafery@fiberix.com.tr（RIPE 公开） +90 342 215 16 93〔https://www.ripe.net/membership/member-support/list-of-members/tr/fiberixinternet/〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + RIPE 核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + RIPE 核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

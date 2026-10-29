@@ -54,6 +54,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | Evelyn客户， 推荐一些有特点的产品给客户， 万兆光， 2光2电， 2光4电， 带bypass， 客户给我们他们网站的图片需求， 我们修好图给客户 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | SFP Turkey - SFP Çözüm Merkeziniz — SFPTURKEY | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -120,7 +121,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（电商）
 - **是谁**：伊斯坦布尔 Kadıköy 的光模块/网络设备进口商与电商 SFPTURKEY（2012 年以 Kreasis 起家；2014 Gigacom、2015 SFPTürkiye、2016 geMaxx 三个自有品牌的唯一进口商与分销商；2018 起自营电商、2020 起 amazon.com.tr/hepsiburada/trendyol 店铺；2022-11 更名 SFPTURKEY Elektronik；2–10 人；产品：兼容 SFP/SFP+/QSFP、网络交换机（含工业型分类）、介质转换器、光纤网卡；3 年换新保；Koşuyolu Mah. Cenap Şahabettin Sok. No.16；satis@sfpturkey.com.tr；+90 555 090 87 37）。ISAF 记录（Evelyn 客户）：向其推荐特色产品——万兆光、2 光 2 电、2 光 4 电、带 bypass；客户给了网站图片需求、我方修图；联系人 Ufuk Gören；无后续跟进。自有品牌电商 → OEM 30%。
-- **在卖/在用品牌**：SFPTÜRKİYE / SFPTURKEY（自有品牌）, geMaxx（自有品牌）, Gigacom（自有品牌）
+- **在卖/在用品牌**：SFPTÜRKİYE / SFPTURKEY（自有品牌）, geMaxx（自有品牌）, Gigacom（自有品牌）, Ubiquiti, Aruba, MikroTik, Cisco, Moxa, Netgear, D-Link, Huawei, H3C, Ruijie, EtherWAN, Fortinet
 - **【LinkedIn】历史、品牌、渠道**
   > 2012 yılında Kreasis adı ile … 2014 yılında Gigacom, 2015 yılında Sfptürkiye, 2016 yılında ise geMaxx markalarını piyasaya sunmuş olan SFPTURKEY, bu markaların tek marka sahibi, tek ithalatçısı ve tek yetkili distribütörü … 2020 yılından itibaren de amazon.com.tr, hepsiburada.com, trendyol.com … Şirket büyüklüğü: 2-10 çalışan … Kuruluş: 2012
   > 来源：https://tr.linkedin.com/company/sfpturkey（抓取 2026-10-21）
@@ -134,9 +135,10 @@ updated: 2026-10-29
   > Evelyn客户， 推荐一些有特点的产品给客户， 万兆光， 2光2电， 2光4电， 带bypass， 客户给我们他们网站的图片需求， 我们修好图给客户
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Ufuk Gören（Managing Partner（RocketReach / ZoomInfo；前 Cinch Connectivity 土耳其国家经理、Vestel）= **老板本人 = 收件人**（第 98 批 官方登记核实 2026-10-28））ufuk.goren@sfpturkey.com.tr（用户表） +90 555 090 87 37（公司）〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + LinkedIn 核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + LinkedIn 核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

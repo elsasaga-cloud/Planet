@@ -55,6 +55,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2024-11-05 | 去 | Simon → Angora Networks（SA-077）附件 Turkey Client List.xlsx | 名单行：「industrial network bayi@gelecekbt.com https://gelecekbt.com/10g-ethernet-cevirici https://gelecekbt.com/」 | Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持） | `gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx` |
 | 2026-09-21 | 去 | A/S 群发 | 10G Enterprise SFP Switch、Industrial PoE Switch | 16 封 / 1 次打开 / 0 回｜首封 2024-07-04 → 末封 2026-09-21（16 去 / 0 来） | `gmail_digest` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | GelecekBT Bilgi ve İletişim Teknolojileri — Ethernet Switch, POE, CCTV Güvenlik, Hdmi Ses ve görüntü, Endüstriyel Seri haberleşme ve otomasyon. Fiber optik, RF koaksiyel ve yapısal kablolama ürünleri. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）
 
@@ -156,9 +157,10 @@ updated: 2026-10-29
   > CLR Networks 8 ports RJ45 10/100/1000M PoE and 2 SFP (1G) slots Fiber Optic Industrial Ethernet Switch Home > Products > Industrial POE Products > CLR-IES-G82P
   > 来源：http://www.clrnetworks.com/products/CLR-IES-G82P_main.html（抓取 2026-10-20）
 - **KP**：Yusuf Ölçer（联系人 / 疑似业主（haber15 企业名录；satis@gelecekbt.com）= 收件人（第 97 批 官方登记核实 2026-10-28））satis@gelecekbt.com 〔https://www.haber15.com.tr/firmalar/gelecekbt-bilgi-teknolojileri.html〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-054，W 批次调研 2026-10-19/20））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-054，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

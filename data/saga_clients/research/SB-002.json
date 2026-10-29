@@ -84,11 +84,12 @@
  ],
  "grade_override": "B",
  "override_reason": "成单但核心业务是 NDT/国防/医疗设备代理，交换机为项目配套，复购逻辑弱（且含军警安防，INH 守界）；放 B 慢跟、被动响应。",
- "notes": "",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n",
  "researched_at": "2026-10-22",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Xspec Technology Sdn Bhd（SSM 200501018493 (700608-K)；登记业务 无损检测设备贸易 / 工业化学品批发 / 管理咨询；experian 数据至 2026-10-04）",
@@ -268,10 +269,41 @@
     "quote": "用户表跟进：推「引流机型」→ 对方「passive poe only」",
     "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
     "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.122 1118"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "XSPec Malaysia - Industrial Technology Catalog — XSPec Malaysia delivers inspection equipment, security technology, healthcare systems, laboratory solutions, training, brochures, and after-sales support across Southeast Asia.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://xspectechnology.com/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:50Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "inquiry@xspec.com.my",
+   "your@email.com"
+  ],
+  "phones": [
+   "+60 3 8023 1161"
+  ],
+  "social": [
+   "https://www.linkedin.com/company/xspec-technology/"
+  ],
+  "models_on_site": [],
+  "url": "https://xspectechnology.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

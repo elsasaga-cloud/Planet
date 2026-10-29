@@ -61,6 +61,7 @@ updated: 2026-10-29
 | 2025-12-01 | 去 | Saga（Alan） | Hi, Eric, 1, yes, we can supply a demo unit for your study and testing. 2, please see attached datasheet(2026/Q1 version). STI-488XGGBPM 215usd/pc Industrial PoE Managed Switch 4*1G/2.5G/10G SFP+8*10/100/1000M RJ45/PoE +1*Console Port+1*USB Port 8*PoE af/at, 2 | 历史报价点（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）：STI-488XGGBPM 215usd | `90c5981a276812c1` |
 | 2025-12-04 | 来 | Eric | No need now, just for information. | 停点 | `fbde4352065d43fb` |
 | 2026-01-12 | 去 | Saga（Alan） | Hi, Eric, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network scales 3, Full L3 features(VXLAN, EVPN, MPLS, Stacking etc.) suitable for core and aggregation… | Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `0378ea2dc053e4ce` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Loop Telecom — Loop Telecom designs, develops, and manufactures hardware and software for the telecommunications industry. We transport voice to 10 GE: TDM-PDH Multi-services, transport SDH-SONET, PTN MPLS-TP, Carrier Ethernet, Ethernet Switch, Router, PseudoWire, fiber | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -133,8 +134,10 @@ updated: 2026-10-29
   > 来源：https://www.looptelecom.com/en/pswitch/Ethernet-Access-and-Switch/Railway-EN50121-4-Switch-L2-L3/Loop_IP6828__Industrial_Rack_Mount__L2_L3_Managed_Gigabit_Ethernet_PoE_PoE__Switch（抓取 2026-10-21）
 - **KP**：Eric Piaget（外部顾问 / 欧洲销售（LinkedIn：CEO EPA-Technologies SAS，Consultant chez Loop Telecom；法国 Vaucresson）— 公司为台湾上市同行制造商（第 110 批 官方登记核实 2026-10-28））eric-piaget@looptelecom.com +33 6 6767 1045〔Clients/A/Taiwan.xlsx〕
 - **调研后定级**：B（原自动 A）——台系品牌制造商（INH 规则：台系品牌商最高 B；其铁路/EN50121 主线 Saga 不做）；仅在其明确要低端白牌补位时按 OEM 30% 报价。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 身份判断））
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 身份判断） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

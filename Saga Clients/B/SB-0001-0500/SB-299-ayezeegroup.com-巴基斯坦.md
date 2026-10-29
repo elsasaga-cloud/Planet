@@ -57,6 +57,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2024-05-16 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「发了几个mini工业交换机图」→ 对方「let me check」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/Whatsapp_S跟进 2026.08.04.xlsx no.86 2024.5.16` |
 | 2026-10-21 | 用户表 | Simon | 网站：PDH MC modem SFP FS 做项目的 中国有office；2023.12.15 → 有需求会说；2024.1.20 → 暂时没需求；2024.3.18 → 暂时没需求；2024.5.16 mini工业交换机图 → let  | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Ayezee Group | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来；用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -110,6 +111,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线
 - **是谁**：巴基斯坦伊斯兰堡/拉瓦尔品第的电信与 IT 设备供应商 AyeZee Group（1999 年创立、2009 年登记为合伙企业；LinkedIn 51–200 人 / RocketReach 10 人；电信有源设备（PCM 复用器、PDH、媒体转换器）、电源（整流器/UPS）、IT 网络（管理/非管理交换机、Cisco/Huawei 路由、Juniper/Fortinet 防火墙）、太阳能、安防；设 sales.dubai@ 邮箱；用户备注「做项目的，中国有 office」）。表内联系人 Syed（无邮箱，+92 300 850 5900，WA 已加）：2023-12 至 2025-04 多次回「暂时没需求 / 有需求会说 / let me check」；18 次推送 1 次实质回复。设备供应商、品类对口但无现需求 → B 20%。
+- **在卖/在用品牌**：Cisco, Huawei
 - **【第三方】公司简介**
   > AyeZee Group was established in 1999 and was registered as Association of Persons… registered with Islamabad Chamber of Commerce and Industry and with Pakistan Engineering Council… Company size: 51-200 employees; Headquarters: Rawalpindi
   > 来源：https://pk.linkedin.com/company/ayezee-group（抓取 2026-10-21）
@@ -123,9 +125,10 @@ updated: 2026-10-29
   > 网站：PDH MC modem SFP FS 做项目的 中国有office；2023.12.15 → 有需求会说；2024.1.20 → 暂时没需求；2024.3.18 → 暂时没需求；2024.5.16 mini工业交换机图 → let me check；2025.4.3 → 暂时没需求
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Syed（表内联系人（WA +92 300 850 5900 已加；无邮箱；职务未核）= 收件人（WA 发链接）— 一页纸一次：集成商 25% B small、STC-228GP $33 / STC-2224GP $86 / STC-4424GCPM $165 + 工业 STI-288DGGPM $137 一口价、MOQ 1 + 付费样机 — 巴基斯坦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、PTA 不声称（第 118 批 官方登记核实 2026-10-28）） +92 300 850 5900（WA 已加）〔用户 Clients 表〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + LinkedIn 核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + LinkedIn 核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

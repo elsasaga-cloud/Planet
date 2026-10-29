@@ -6,7 +6,11 @@
  "summary": "越南光纤产品贸易商 Minh Phước（congtyminhphuoc.vn；tmphuocvn@gmail.com）。用户表（富通天下外贸数据）：「从 BTON 买了很多；各种光产品，也有有名的牌子」= 从同行大量进口光产品，非 Saga 成交；群发无互动。多品牌光产品贸易商 → 分销 20%。",
  "type": "",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Cisco",
+  "Dahua",
+  "Ruijie"
+ ],
  "evidence": [
   {
    "kind": "用户表",
@@ -19,10 +23,11 @@
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（基于用户表整理 + 需求映射；「成交」为富通天下外贸数据）"
+  "level": "B 级加厚 v1（基于用户表整理 + 需求映射；「成交」为富通天下外贸数据） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "CÔNG TY TNHH GIẢI PHÁP CÔNG NGHỆ MINH PHƯỚC / MINH PHUOC SOLUTIONS TECHNOLOGY CO., LTD（MST 0313120792；官网自列；≠ 平顺省 Cty TNHH Minh Phước 油品）",
@@ -86,6 +91,14 @@
     "quote": "各种光产品 也有有名的牌子 / 从BTON买了很多 / 富通天下",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Trang chủ — Trang chủ",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://congtyminhphuoc.vn/"
    }
   ],
   "proof_gaps": [
@@ -93,5 +106,34 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:37:45Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "tmphuocvn@gmail.com"
+  ],
+  "phones": [
+   "000 339 - 0919955991"
+  ],
+  "social": [],
+  "models_on_site": [
+   "CBS220",
+   "HS-TF-D1",
+   "TL-SG105",
+   "IS-U4F2F",
+   "JL685A",
+   "CCR2004-16G-2S",
+   "JL683A",
+   "DS-3E1510P-EI"
+  ],
+  "url": "https://congtyminhphuoc.vn/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

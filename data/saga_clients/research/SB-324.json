@@ -6,7 +6,9 @@
  "summary": "黎巴嫩贸易公司 Elhem Trading Co. Sal（Adnan Melhem / Managing Director，melhem@mtco-lb.com，+961 3 058 000，WA 已加）。表内「2V $120 / need pricelist for VC」（要 VC 价格表，含义待核：视频会议或摄像类），2024-06 对商业交换机图回「近期可能会有需求」；18 次推送 1 次实质回复。→ B 20%（贸易），黎巴嫩风险注明。",
  "type": "",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Hikvision"
+ ],
  "evidence": [
   {
    "kind": "用户表",
@@ -31,10 +33,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（基于表内信息 + 需求映射）"
+  "level": "B 级加厚 v1（基于表内信息 + 需求映射） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Melhem Trading Co. SARL (MTCO)（商业登记号 1 查未得；所有者 Adnan A. Melhem / Rouba N. Khoury / Jad A. Melhem）",
@@ -99,6 +102,14 @@
     "quote": "2V $120 need pricelist for VC；2024.6.17 发了几个商业交换机图 → 近期可能会有需求",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "MTCO",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.mtco-lb.com/"
    }
   ],
   "proof_gaps": [
@@ -117,5 +128,32 @@
   "note": "黎巴嫩贸易公司 Elhem Trading（Adnan Melhem）：WA 回复，要 VC 价目 + 看过商业交换机「近期可能有需求」→ 贸易商 ✔ 有互动 ✔ → 留 B（只盯 + 季度一封）",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 1，WA ✔，展会 —，绑定 未发信））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": []
+ "override_history": [],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:39:26Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@mtco-lb.com"
+  ],
+  "phones": [
+   "+225 07 686 161 44",
+   "+961 1 245 000",
+   "+961 1 245 500"
+  ],
+  "social": [
+   "https://lb.linkedin.com/company/mtco-lb",
+   "https://www.facebook.com/MELHEMTRADINGCO",
+   "https://www.instagram.com/mtco.lb/",
+   "https://www.youtube.com/watch?v=1bU5zFPPLgM"
+  ],
+  "models_on_site": [],
+  "url": "https://www.mtco-lb.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

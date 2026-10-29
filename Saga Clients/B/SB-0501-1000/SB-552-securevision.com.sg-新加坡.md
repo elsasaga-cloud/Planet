@@ -53,6 +53,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-16 | 去 | A/S 群发 | 10G Enterprise SFP Switch、Updated Ethernet Switches Links | 25 封 / 0 次打开 / 0 回｜首封 2024-06-28 → 末封 2026-09-16（25 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 商业POE 洪瑞的 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Security Systems & Solutions Singapore \| Securevision — Securevision delivers expert security systems in Singapore. Explore our CCTV, access control, intercom, and alarm solutions for your property. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -141,9 +142,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Wee Ler（研究档 KP（PLRD 持牌安防集成商；UEN 200614644E）= 收件人 — 一页纸一次：集成商 25% B、Q-33 口径只推 Marvell 管理 PoE STC-4424GCPM + STC-110XGE + 工业 STI、不碰其 HRUI 非管理同款、付费样机— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 117 批 官方登记核实 2026-10-28））ler@securevision.com.sg 〔用户表〕
 - **KP**：Abdul Hameed（Technical Specialist = 抄送（第 117 批 官方登记核实 2026-10-28）） 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

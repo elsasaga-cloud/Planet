@@ -51,10 +51,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + 登记核对；「成交」为富通天下外贸数据）"
+  "level": "B 级加厚 v1（官网 + 登记核对；「成交」为富通天下外贸数据） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "ООО «РЕГИОН-ПРОФ»（ОГРН 1067759114675 · ИНН 7728599583；СПб；2006-11-02；资本 30,000 ₽；唯一股东 ООО «Прософт»）",
@@ -138,6 +139,14 @@
     "quote": "买了迈威的 / 一个大型公司 / 富通天下",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Регион Проф",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "http://www.regionprof.ru/"
    }
   ],
   "proof_gaps": [
@@ -148,5 +157,31 @@
    "body": "Hello,\n\nSome time ago you had a product mail from us - \"24 Port PoE Managed Switch\" on 21 August - and there was no reason to answer a mass mail. This one is specific to Region-Prof.\n\nYou import Maiwe industrial switches. We supply the same configurations as a second source, DIN-rail, -40 to 75 C, from single units, with settlement in CNY if that is easier than USD:\n\n- 2 x SFP + 8 x Gigabit PoE+, L2+ managed with ring redundancy, model STI-288DGGPM - $137.5 USD EXW (distributor price, MOQ 1, 15-day validity)\n- Same chassis without PoE, L2 managed, model STI-280GM - $68.2 USD EXW\n- Unmanaged 8 x PoE+ + 2 x SFP, model STI-288GP - $57.4 USD EXW\n\nNeutral housing and packaging; your own label is possible.\n\nOne question: which Maiwe models move most in your catalogue - I will prepare a direct one-to-one comparison for those?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:23:28Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "chelyabinsk@regionprof.ru",
+   "ekaterinburg@regionprof.ru",
+   "info@regionprof.ru",
+   "info@spb.regionprof.ru",
+   "inforp@regionprof.ru"
+  ],
+  "phones": [
+   "+7 (495) 232-29-55"
+  ],
+  "social": [],
+  "models_on_site": [
+   "PC104"
+  ],
+  "url": "http://www.regionprof.ru/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

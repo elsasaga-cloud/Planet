@@ -50,10 +50,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：deep。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "美国",
@@ -144,5 +145,12 @@
    "body": "Hi George,\n\nOver the past two years ENS had a stream of product mails from us - most recently the 24-port PoE managed switch at $170 in August - and nobody had a reason to answer a mass mail. Shawn's out-of-office named you as the contact, so this one is written for you.\n\nFor the PoE switches sold under the ENS label, we can be a second ODM source on a Marvell L2+ platform in your packaging: 8 x Gigabit PoE+ + 2 x SFP - model STC-28DGGPM - $80.7 USD EXW at distributor price (MOQ 1, 15-day validity); the 24 x PoE+ (280 W) + 4 x 10G unit from the August mail is $180 now - that mail said $170; the CNY has moved from 7.2 to 6.7 against the dollar since. FCC/CE/RoHS; 802.3bt options on request.\n\nOne question: which PoE SKU runs the highest volume through your branches?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:47:53Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
  }
 }

@@ -41,10 +41,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网核对）"
+  "level": "B 级加厚 v1（官网核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "AG Bilgisayar（博德鲁姆 Yokuşbaşı Mah. Külcü Sok. Şeref Konday İşhanı No:29；法定形式 / MERSİS 未取 → 部分坐实）",
@@ -111,6 +112,14 @@
     "quote": "要bypass, 问了千兆2光8带POE带管理带bypass价格 不需要10G  拿了彩页",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Bodrum AG-Bilgisayar - Bodrum Güvenlik Kamera Sistemleri — Bodrum Güvenlik Kamerası, bodrum ağ kurulumu, bodrum geçiş sistemleri, bodrum sunucu kurulumu, bodrum teknik servis, güvenlik kamerası, güvenlik sistemleri, geçiş otomasyonu",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://ag-bilgisayar.com/"
    }
   ],
   "proof_gaps": [
@@ -121,5 +130,28 @@
    "body": "Hi Aycan,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nThe gigabit 2 SFP + 8-port PoE managed industrial switch you asked about (no 10G needed): DIN-rail, L2+ managed, -40 to 75 C, model STI-288DGGPM - $137.5 USD EXW (MOQ 1, 15-day validity). A fibre-bypass version exists in a larger chassis (8 x PoE + 4 x SFP) at $194.3 USD EXW.\n\nOne question: for the barrier / car-park project, is bypass a must, or is the standard version enough?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:23:46Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@ag-bilgisayar.com",
+   "info@box5376.temp.domains"
+  ],
+  "phones": [
+   "+90 546 609 99 06"
+  ],
+  "social": [
+   "https://www.facebook.com/Agbilgisayar"
+  ],
+  "models_on_site": [],
+  "url": "https://ag-bilgisayar.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

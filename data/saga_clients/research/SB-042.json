@@ -106,7 +106,7 @@
  ],
  "grade_override": "B",
  "override_reason": "体量大（30+ 分支、数百人）超出 Saga 常规可赢尺寸，且南非非主攻区、1 次回复后 18 次推送无回复；但其网络配件在采 Upeto/itoonertech 级别的中国小品牌，说明供应商门槛不高 → 不降 C，B 慢跟。",
- "notes": "重启角度：对位其在售 Upeto/Planet MC 与 PoE 型号给'同规格更低价 + 中性包装'清单（STI-110GE / STC-28DGGPM，分销 20%），找产品经理而非采购总机。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：fail#1。\n重启角度：对位其在售 Upeto/Planet MC 与 PoE 型号给'同规格更低价 + 中性包装'清单（STI-110GE / STC-28DGGPM，分销 20%），找产品经理而非采购总机。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
@@ -234,5 +234,14 @@
    "body": "Hi Jacques,\n\nOne question only, following the 2 + 2 + 8 PoE quote we sent in October 2025: does Regal's Securi-Prod line source any OEM switches, and who owns that decision - you, or the product team? If it is not you, a name is enough and I will not write to the support desk again.\n\nFor reference the quoted unit stands: 8 x Gigabit PoE+ + 2 x Gigabit + 2 x SFP, unmanaged - model STC-228GP - $33.2 USD EXW at distributor tier (MOQ 1, 15-day validity), Securi-Prod label free, colour box from 200 sets.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:21:39Z"
+  ],
+  "fails": [
+   "2026-10-21"
+  ],
+  "batch": "LT-T03"
  }
 }

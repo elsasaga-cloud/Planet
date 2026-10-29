@@ -140,7 +140,8 @@ updated: 2026-10-29
 - **KP**：Y. H. Ahn（N-iTUS 研究档 KP（2025-11 回「Price and ODM」）= 收件人；대표 장세봉 = 拍板人（第 115 批 官方登记核实 2026-10-28））yhahn@n-itus.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Peter（Director（邮箱退信 → 地址失效、不再发）（第 115 批 官方登记核实 2026-10-28））peter01@n-itus.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：장세봉 Jang Se-bong（대표이사 엔아이투스(주) N-iTUS Co., Ltd.（bizno / catch）= 拍板人（第 115 批 官方登记核实 2026-10-28）） 〔https://bizno.net/article/1198600900〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照 HTTP 错误 + 表内））
 

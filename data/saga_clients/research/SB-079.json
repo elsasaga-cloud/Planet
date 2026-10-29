@@ -49,7 +49,7 @@
  ],
  "grade_override": "B",
  "override_reason": "微型零售安装店，单机需求（已报 $150 未回）；土耳其主攻区故保留 B 慢跟。",
- "notes": "WA 一次性跟进 12 光 12 电报价有效期；成交则按零星小单处理。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：fail#1。\nWA 一次性跟进 12 光 12 电报价有效期；成交则按零星小单处理。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
@@ -130,5 +130,14 @@
    "body": "Hi Ahmet,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nYou asked about a managed PoE switch with 12 fibre + 12 copper ports and we quoted $150 USD EXW at the booth - that price still stands (MOQ 1; CE/RoHS; neutral packaging or your label). For the everyday camera jobs around Çumra, the 8 x Gigabit PoE+ + 2 SFP L2+ managed unit is $84.1 USD EXW.\n\nOne question: has the project started - and how many units does it need?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:23:03Z"
+  ],
+  "fails": [
+   "2026-10-21"
+  ],
+  "batch": "LT-T03"
  }
 }

@@ -148,7 +148,8 @@ updated: 2026-10-29
 - **KP**：Piyush S. Shah（）piyush@onnettechnologies.com +971 50 184 2443〔https://www.linkedin.com/in/piyushsshah/〕
 - **KP**：Dipali Pachchigar（Director（contactout / RocketReach）= 法定代表 / 家族（第 91 批 官方登记核实 2026-10-27）） 〔https://ae.linkedin.com/company/otaillc〕
 - **调研后定级**：A（原自动 A）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
-- 备注：只在有尾货/促销时触达；不做长期投入。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+只在有尾货/促销时触达；不做长期投入。
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（LinkedIn + 名录核对：本土制造商 OEM））
 

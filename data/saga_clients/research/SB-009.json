@@ -47,11 +47,12 @@
  ],
  "grade_override": "A",
  "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A1 复购/绑定≥中度；A2 成单/样品/PI+真人往来",
- "notes": "",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网核对）"
+  "level": "B 级加厚 v1（官网核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "SICURMAX S.R.L.（原 SICURMAX S.n.c. di Marzari Massimo & C.；P.IVA / CF 02360600239；REA VR-233884）",
@@ -125,6 +126,14 @@
     "quote": "Managed PoE Switches",
     "why": "本日去信真实主题（邮箱索引 6c4f80b1fd99441a；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
     "k": "6c4f80b1fd99441a"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Sistemi Antifurto Videosorveglianza e Antincendio a Bovolone, Verona | SicurMax — Soluzioni su misura per la sicurezza di abitazioni, aziende e cantieri: impianti antifurto, videosorveglianza, controllo accessi e sistemi wireless. Affidati a Sicurmax, a Bovolone (VR), da oltre 30 anni nel settore si",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://sicurmax.com/"
    }
   ],
   "proof_gaps": [],
@@ -143,5 +152,32 @@
    "prev_reason": "17 次推送无任何回复（仅 WhatsApp 加上），小型集成商、项目型采购、且部分业务涉军方/NATO 场所（INH 守界）；B 慢跟。",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A1 复购/绑定≥中度；A2 成单/样品/PI+真人往来"
   }
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:56Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@sicurmax.com"
+  ],
+  "phones": [
+   "+39 045 690 0922"
+  ],
+  "social": [
+   "https://sicurmax.com/",
+   "https://sicurmax.com/azienda",
+   "https://sicurmax.com/categorie",
+   "https://sicurmax.com/contatti"
+  ],
+  "models_on_site": [
+   "VR233884"
+  ],
+  "url": "https://sicurmax.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

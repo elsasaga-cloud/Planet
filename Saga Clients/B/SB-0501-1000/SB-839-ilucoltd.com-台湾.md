@@ -63,6 +63,7 @@ updated: 2026-10-29
 | 2026-02-03 | 去 | Elsa 群发（BCC；To info@baycom.com.tw） | OEM Core Switching Solution（Elsa 群发第 8/10 轮；本户在 Bcc，锚 To info@baycom.com.tw） | 第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2026-04-27 | 去 | Elsa 群发（BCC；To info@baycom.com.tw） | Updated Ethernet Switches Links（Elsa 群发第 9/10 轮；本户在 Bcc，锚 To info@baycom.com.tw） | 第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2026-09-07 | 去 | Elsa 群发（BCC；To info@baycom.com.tw） | 24 Port PoE Managed Switch（Elsa 群发第 10/10 轮；本户在 Bcc，锚 To info@baycom.com.tw；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(n) `from:e.sagatelecom to:ilucoltd.com` 命中行 To=info@baycom.com.tw ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | SFP+ DAC Cable Ethernet Tester Green Technology Eddy Current FPCB Lan Transformer HDPE LDPE IT Scrap — SFP+ DAC Cable Ethernet Tester Green Technology Eddy Current FPCB Lan Transformer HDPE LDPE IT Scrap | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -145,9 +146,10 @@ updated: 2026-10-29
 - **KP**：Angus Tseng（President, iLu Co., Ltd. 譯麓有限公司（官網）= 拍板人 / 收件人 — 一頁紙一次：分銷 20% small，直接答 2024-10 之問：8 口 PoE 非管理 STC-028GP / STC-228GP 一口價，8 口管理型按主表現有型號報；SFP / bypass 模組不做；付費樣機、MOQ 1、預付— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28））angus@ilucoltd.com 〔用户表〕
 - **KP**：Styven Tseng（2024-10-25 來信人（來信地址 styvent@gmail.com；= SB-1112 占位行 同一來信，已併線）= 抄送（第 116 批 官方登记核实 2026-10-28））styven@ilucoltd.com WhatsApp +886 933 819 962（2024-10-25 签名）〔S 邮箱 2024-10-25 来信表头 + 签名〕
 - **KP**：Hung Cheng（澳洲 Hungsway 聯絡人（官網 sitemap；Lane Cove NSW）— 備用（第 116 批 官方登记核实 2026-10-28）） 〔https://www.ilucoltd.com/sitemap/〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

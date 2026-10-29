@@ -45,10 +45,11 @@
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "意大利",
@@ -132,10 +133,50 @@
     "quote": "商业PoE 丰润达的 销售平台",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Vaizdo stebėjimo ir apsaugos sistemų sprendimai Jums - jpg.lt — Vaizdo stebėjimo sistemos, IP vaizdo stebėjimo sistemos, IP vaizdo stebėjimo kameros, IP valdomos ka",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://jpg.lt/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:38:11Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@magveda.lt"
+  ],
+  "phones": [
+   "+370 656 65557",
+   "00003886310"
+  ],
+  "social": [
+   "https://www.facebook.com/magveda/"
+  ],
+  "models_on_site": [
+   "LMR-400",
+   "RG174",
+   "RJ-45",
+   "LT-54312",
+   "UNI70-4G",
+   "DM13-4G",
+   "DM92-4G",
+   "ATC700-4G"
+  ],
+  "url": "https://jpg.lt/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

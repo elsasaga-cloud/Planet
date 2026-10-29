@@ -60,10 +60,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "加拿大",
@@ -146,6 +147,14 @@
     "quote": "16 Port Industrial PoE Switch",
     "why": "本日去信真实主题（邮箱索引 84eeb45467459226；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封）",
     "k": "84eeb45467459226"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "InVid Tech | AI-Driven Security Cameras, Surveillance Systems & Cloud — Invidtech — Explore InVid Tech’s AI-driven security cameras, cloud storage, solar towers, and lockers—built for real-world challenges across key industries.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://invidtech.com/"
    }
   ],
   "proof_gaps": [],
@@ -155,5 +164,37 @@
   },
   "as_of": "2026-10-24"
  },
- "country_fix": "美国"
+ "country_fix": "美国",
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:47:06Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [
+   "+1 (631) 388-5700"
+  ],
+  "social": [
+   "https://www.facebook.com/invidtech",
+   "https://www.facebook.com/sharer.php?u=https://invidtech.com/products/imhd4k-46vw-46-4k-video-wall",
+   "https://www.facebook.com/sharer.php?u=https://invidtech.com/products/invid-aqsensor-vape-detector",
+   "https://www.facebook.com/sharer.php?u=https://invidtech.com/products/invid-ddpb-enclosure-weatherproof-box"
+  ],
+  "models_on_site": [
+   "DC12V",
+   "IMHD4K-46VW",
+   "DC24V",
+   "IMHD-10N",
+   "DC48V",
+   "INVID-RUTM50",
+   "SECA-P4TXIR28",
+   "INV-AV131PRO1X2"
+  ],
+  "url": "https://invidtech.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

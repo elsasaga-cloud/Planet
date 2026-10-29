@@ -37,10 +37,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  "level": "B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "AMG SYSTEMS LIMITED（Companies House 02838846；Edgenet Solutions Limited 11974182 控股 ≥75%）",
@@ -115,10 +116,51 @@
     "quote": "兴趣：MC SFP 工业FS 自己的牌子 https://www.amgsystems.com/english/products/amg210m-series-10gb",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "AMG Systems | Industrial Network Transmission Solutions — Industrial IP/Ethernet, Fibre Optic, PoE & Wireless network transmission solutions: Media Converters, Managed and Unmanaged Switches, Wireless and 4G",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://amgsystems.com/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:40:03Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@amgsystems.com",
+   "usasales@amgsystems.com"
+  ],
+  "phones": [
+   "+44 (0)1767 600777"
+  ],
+  "social": [
+   "https://www.linkedin.com/company/amg-systems-ltd/",
+   "https://youtube.com/amgsystems"
+  ],
+  "models_on_site": [
+   "AMG570",
+   "AMG577",
+   "AMG350",
+   "AMG840",
+   "AMG570-4G-2S",
+   "AMG570-4GAT-2S-P120",
+   "AMG570-2GBT-2GAT-2S-P240",
+   "AMG570-8G-3S"
+  ],
+  "url": "https://amgsystems.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

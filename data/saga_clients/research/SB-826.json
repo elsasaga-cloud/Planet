@@ -64,10 +64,11 @@
  ],
  "grade_override": "A",
  "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A1 复购/绑定≥中度；A3 真人往来+对位+四主区+坐实/自牌；A6 真回≥3+对位（任何区域）",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 针对性加厚 2026-10-22（S 邮箱 50 封通读：三年关系、4 次报价、堆叠需求链，T29-U13 ②）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 针对性加厚 2026-10-22（S 邮箱 50 封通读：三年关系、4 次报价、堆叠需求链，T29-U13 ②）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  "level": "B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "VERSITRON, INC.（Delaware；品牌 1958、现法人 1995-10-18；DUNS 837605443；NAVAIR OSBP 小企业供应商）",
@@ -334,6 +335,14 @@
     "quote": "自动回复（Greg Massott 2026-03-11 休假）里指定「contact R.W. Tull at rwtull@versitron.com」",
     "why": "Versitron 内部第二个具名入口（R.W. Tull）；三年只跟 Greg 一人谈，这是绕开单点的现成地址",
     "k": "4ac602505b7d8db3"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Secure & Reliable Fiber Optic Connectivity Solutions — Versiton specializes in designing and manufacturing copper-to-fiber connectivity solutions tailored for data, voice, and video applications across diverse industries. Our products are backed by a lifetime warranty and renowned for their exceptio",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.versitron.com/"
    }
   ],
   "proof_gaps": [
@@ -355,5 +364,41 @@
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A1 复购/绑定≥中度；A3 真人往来+对位+四主区+坐实/自牌；A6 真回≥3+对位（任何区域）"
   }
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:48:19Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@versitron.com"
+  ],
+  "phones": [
+   "000 (1) 1000 (1",
+   "000 (14) 10",
+   "000 (8) 100"
+  ],
+  "social": [
+   "https://twitter.com/versitron",
+   "https://www.facebook.com/versitroninc",
+   "https://www.linkedin.com/company/versitron-inc-/",
+   "https://www.youtube.com/channel/UCq7WBvce5EjKVu0Q9XXL_8g"
+  ],
+  "models_on_site": [
+   "SGX368244M",
+   "SGX75270MP",
+   "SGX72870MPA",
+   "SGX72870MA",
+   "SGX75270MA",
+   "RJ-45",
+   "IEEE802",
+   "SGX75270M"
+  ],
+  "url": "https://www.versitron.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

@@ -60,6 +60,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2024-11-06 | 来 | Steven Fu | Pls confirm it is industrial grade? | 关键问题 | `61302fdfc9680bba` |
 | 2024-11-06 | 去 | Simon | Its commercial grade 10G based. For industrial grade, we just have 100M or 1G models, without 10G models. | 缺口 | `039877a1efae067a` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Industrial 4G/5G Routers Modems Singapore - Avanca Technologies — Industrial 4G/5G router and modems are used to provide better connectivity, higher bandwidth, and faster network responsiveness. Call us for industrial grade modem and router in Singapore. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -144,9 +145,10 @@ updated: 2026-10-29
 - **KP**：（见 Clients 表邮件签名）（） 〔用户 Clients 表〕
 - **KP**：Steven Fu（General Manager & Managing Director（LinkedIn：2024-01 起 GM & MD，2015 入职；2025-11 对 10G MC 群发回 info）= 拍板人 / 收件人 — 一页纸一次：分销 20% B（升 A 候选）、宽温 STI-154GP / 288DGGPM / 488DGGPM / 0240GE + STC-110XGE 一口价、3 年保、付费样机— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 117 批 官方登记核实 2026-10-28））steven@avanca.com.sg +65 6242 5108〔（本地 Clients/ 表格，无公开 URL）〕
 - **调研后定级**：B（原自动 A）——在售 Red Lion（高价美系工业线）本可做性价比替代，但 1 次回复后 10 次推送无果且已停滞 1 年 → 慢跟。
-- 备注：重启一封：Red Lion 工业 PoE 对位 STI-288DGGPM 价差。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+重启一封：Red Lion 工业 PoE 对位 STI-288DGGPM 价差。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

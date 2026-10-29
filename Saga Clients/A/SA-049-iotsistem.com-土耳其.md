@@ -87,6 +87,7 @@ updated: 2026-10-29
 | 2026-09-03 | 去 | Alan | I checked around, our offer is almost the best… 120USD/PC for 24 port unmanaged | Saga 已到底线 | `faed82fe02dfeb95` |
 | 2026-09-17 | 来 | Berk（iotsistem，info@iotsistem.com） | Could you tell me to price and datasheet?（16 口 DIN PoE） | 第三条线开口；Alan 09-18 按 RMB 报 1,100/台 | `gmail_a b1fd581f3292521f` |
 | 2026-09-18 | 去 | Alan | Let me quote in RMB: 1100RMB/PC, excluding optical module or power supply. Maybe it is easier if you have a payment agent in China | 最后一次报价（RMB） | `48f91a073d0f4e97` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | IoT Sistem \| IoT Sistemleri Uzman Çözüm Ortağınız \| Usr IoT Türkiye — IoT Sistem otomasyon ürünleri ile uygun fiyatları ile IoT ürünleri satış ve pazarlamasını gerçekleştirmektedir. Usr iot Türkiye resmi distribütörü Bosgem. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）
 
@@ -198,9 +199,10 @@ updated: 2026-10-29
   > MLB-E4204-28-F · MLB-E4204-28-G-F · MLB E4202-10-F · MLB E4202-10-GF
   > 来源：https://www.iotsistem.com/urun-kategori/ethernet-switch/yonetilebilir-switch/（抓取 2026-10-21）
 - **KP**：Berk（已回复联系人 = 大概率老板（微型公司，Bosgem Otomasyon / IoT Sistem，İstanbul Maltepe 2010；USR IoT 土耳其分销 + 自有 BOSGEM 品牌；法定全称待补）（第 85 批 官方登记核实 2026-10-27））info@iotsistem.com 〔用户 Clients 表〕
-- 备注：土耳其在主攻区；在售 MLB 工业交换机（国产白牌路线），与 STI 工业线正面对位。仅 2 次推送、Berk 曾回复（用户记录），不算耳聋。军工项目字样 → 守界：只谈自动化/商用项目。P1：STI-288DGGPM（替代 MLB 可管理 DIN 机型），分销价阶 20%。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+土耳其在主攻区；在售 MLB 工业交换机（国产白牌路线），与 STI 工业线正面对位。仅 2 次推送、Berk 曾回复（用户记录），不算耳聋。军工项目字样 → 守界：只谈自动化/商用项目。P1：STI-288DGGPM（替代 MLB 可管理 DIN 机型），分销价阶 20%。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1）
+### 加厚挖掘（2026-10-21 · 深挖 v1 + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

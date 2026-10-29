@@ -6,7 +6,9 @@
  "summary": "表内域名 infonet-tech.com 的网站是北美加油站 / 便利店 POS 与燃油管理软件公司（Infonet Technology），与印度联系人 Sudesh Verma（+91 740）及「光猫」需求不符；sales@infonet-tech.com 曾用于发送资料，是否同一主体待核。需求 ONU（Saga 无）。",
  "type": "",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Ubiquiti"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -34,10 +36,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（域名误配判定 + 需求映射）"
+  "level": "B 级加厚 v1（域名误配判定 + 需求映射） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "未坐实（infonet-tech.com 站点为北美 POS 软件公司；「Sudesh Verma」1 查仅同名记者 / 律师 ≠；需求 ONU）",
@@ -105,6 +108,14 @@
     "quote": "用户表跟进：推「引流机型」→ 对方「125 email 48口」",
     "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
     "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.70 124"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Infonet Technology | Gas Station & C-Store POS System — Infonet Technology provides integrated POS and fuel management software for gas stations, c-stores, fleet fueling, and unattended sites across North America.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://infonet-tech.com/"
    }
   ],
   "proof_gaps": [
@@ -112,5 +123,31 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:39:48Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "cstoresupport@infonet-tech.com",
+   "info@eqtbd.com",
+   "info@infonet-tech.com",
+   "sales@infonet-tech.com"
+  ],
+  "phones": [],
+  "social": [
+   "http://www.linkedin.com/company/infonet-technology-corporation",
+   "https://twitter.com/InfonetTech1",
+   "https://www.facebook.com/infonettechcorp/",
+   "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Finfonet-tech.com%2Fblog%2Fc-store-back-office-software"
+  ],
+  "models_on_site": [],
+  "url": "https://infonet-tech.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

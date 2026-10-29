@@ -73,6 +73,7 @@ updated: 2026-10-29
 | 2026-09-14 | 去 | Elsa（e.sagatelecom，Gmail 连接器实时查询） | Elsa 邮箱群发「16 Port Industrial PoE Switch」→ info@securico.co.zw（截至 2026-10-24 无回复） | 仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据 | `Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）` |
 | 2026-09-14 | out | Elsa → info@securico.co.zw | 16 Port Industrial PoE Switch（Elsa 2026 年 1:1 名单重发；To 仅本户） | 本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-10-21 | 用户表 | Simon | 8V1D 16V1D 18机架 11 13年 / 13年买了FS 很多种类的 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | SECURICO \| Security Services Zimbabwe - 27 Years of Excellence — SECURICO is Zimbabwe's leading security services provider with 27 years of excellence. Cash management, guarding services, electronic security, and more. Your safety is our priority. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -157,9 +158,10 @@ updated: 2026-10-29
 - **KP**：Samuel Kanoyangwa / Blessing Murondiwa（表内联系人（研究档 KP；职务待核）= 收件人 — 回访一页纸一次：集成商 25% B、FS 对位 STI-154GP / STI-288DGGPM $137 + STC-2216GP / STC-2224GP $86 一口价 + MOQ 1；光端机不供明说 — 津巴布韦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 哈拉雷（第 122 批 官方登记核实 2026-10-29））info@securico.co.zw（用户表） +263 242 621 956（公司）〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Divine Ndhlukula（Managing Director, DDNS Security Operations (Pvt) Ltd（控股；公开资料 2026-10-29；无公开邮箱）（第 122 批 官方登记核实 2026-10-29）） 〔〕
 - **调研后定级**：B（原自动 A）——老成交客户（2011–2013）但沉寂 12 年、非洲非主攻区、冷名单无回复 → B 待机。
-- 备注：一封老客户回访邮件（FS 对位 STI 工业线）即可。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：deep/facts。
+一封老客户回访邮件（FS 对位 STI 工业线）即可。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

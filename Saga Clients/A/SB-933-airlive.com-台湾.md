@@ -54,6 +54,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2024-01-02 | 来 | john.lai@airlive.com | Whats you company url Is those ce certificate? J | 来信原文（主题「RE: Industrial power adapter」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `455bebcee9e0b0b7` |
 | 2024-01-02 | 去 | Simon | It is a new trading company. 1, Company website is under construction and expected to be available within a month. 2, It is CE/UL compliant. Please see attached a new hot-selling model.（答 AirLive John Lai「Whats you company url / Is those ce certificate?」） | 2024 年初的两处旧口径：自称 trading company、说 UL compliant——现行口径都不再用（不称贸易商；认证只有 CE/FCC/RoHS/REACH/UKCA，无 UL）。AirLive 是品牌商，此后无回 | `gmail_s 4df1977995e4e90b` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | wifi6 MESH Router\|AirLive\|Managed Switch\|5G\|Your best choice of Smart Network Solution — AirLive® Technology’s Network and Communication innovations implement your smart Integration. Accumulated yearly well experiences in networking and communication Industry, AirLive Technology continuously dedicat | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -140,9 +141,10 @@ updated: 2026-10-29
 - **KP**：John Lai（研究档 KP — 19 次 0 回覆，不動（第 116 批 官方登记核实 2026-10-28））john.lai@airlive.com 〔用户表〕
 - **KP**：蔡伯坤（代表人 / 董事長（twincn；統編 53110625；2020-05 起）— 不發（第 116 批 官方登记核实 2026-10-28）） 〔https://www.twincn.com/item.aspx?no=53110625〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

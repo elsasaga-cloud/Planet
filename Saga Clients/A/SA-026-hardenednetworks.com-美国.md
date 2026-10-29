@@ -71,6 +71,7 @@ updated: 2026-10-29
 | 2025-04-28 | 来 | Mark | Do you have broadcom based solution? | 第三次 | `898769c94b9fc197` |
 | 2025-04-28 | 去 | Alan | Sorry to tell you that we focus on Marvell… Broadcom is for high-end market only, the market is small... | 口径收回 | `e8d9d485eebf828f` |
 | 2026-01-16 | 去 | Saga（Alan） | Hi, Mark, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network scales 3, Full L3 features(VXLAN, EVPN, MPLS, Stacking etc.) suitable for core and aggregation… | Saga 实质答复原文（主题「Re: Marvell Alleycat5 Solution」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `231c410bdb6b62d3` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Home - Hardened Networks — Learn More Checkout Our Products Checkout Our Products Learn More About Us Learn More About Us Learn More About Us Technical Support | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -169,9 +170,10 @@ updated: 2026-10-29
   > 来源：https://expresssupply.us/hn8012-24plus/（抓取 2026-10-21）
 - **KP**：Mark V. Schulting（President（Florida 登记管理层）= 老板 = 联系人；Secretary Carmen Schulting（家族）；法人 Express Supply Inc（FL 2006），品牌 Hardened Networks = ITS Express（2008）；Florida DOT APL 在册供应商（第 85 批 官方登记核实 2026-10-27））mark@expresssupply.net；mschulting@expresssupply.net（2025-02-05 来信用此地址） 〔S/A 邮箱来信 2024-05-09 → 2025-04-28 来信 7 封（另一地址 mschulting@expresssupply.net 2025-02-05）（第 72 批从邮件表头补）；A 邮箱 2025-02 来信表头〕
 - **KP**：Carmen Schulting（Secretary（Florida 登记；家族）（第 85 批 官方登记核实 2026-10-27）） 〔https://www.corporationwiki.com/Florida/Tampa/mark-v-schulting/〕
-- 备注：A 确认（美国自有品牌工业交换机 + 3 次实质回复 + 明确贴牌）：P1 = STI-488XGGPM（工业 L2+ 8 PoE + 4×10G）对位其 HN 系列入门款，30% OEM 档；Bypass 需求需向 SmartByte 确认有无 bypass 款（无则如实说明）。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+A 确认（美国自有品牌工业交换机 + 3 次实质回复 + 明确贴牌）：P1 = STI-488XGGPM（工业 L2+ 8 PoE + 4×10G）对位其 HN 系列入门款，30% OEM 档；Bypass 需求需向 SmartByte 确认有无 bypass 款（无则如实说明）。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1）
+### 加厚挖掘（2026-10-21 · 深挖 v1 + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

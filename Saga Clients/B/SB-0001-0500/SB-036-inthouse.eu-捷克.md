@@ -57,6 +57,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-10-01 | 去 | A 群发 | Industrial PoE Switch、8 Port Industrial PoE Switch | 17 封 / 0 次打开 / 0 回｜首封 2025-03-25 → 末封 2026-10-01（17 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 升压5电口 / from: 阿里巴巴RFQ | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Inthouse – The smart building solution made for you | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -114,7 +115,7 @@ updated: 2026-10-29
 - **是谁**：布拉格的楼宇自动化软件/网关小公司 Inthouse Systems s.r.o.（IČO 05405947；Grafická 769/9 Praha 5；2013 年起、创始人 Matej Snoha；约 4 人；产品：Inthouse App/Studio/Cloud + Inthouse Hub 云网关，用于 Siemens Climatix PLC（暖通/热泵设备）远程控制，面向 64 家设备制造商伙伴、14 国、1 万台连接设备）。阿里 RFQ：升压 5 口 PoE；联系人 Andrej Hraško；6 次跟进 0 回复。用户 AI 评估曾判 C（核心业务未确认）——核实为 OEM 伙伴型 IoT 方案商，PoE 小交换机属其配套件，保留 B。
 - **类型**：小型贸易/项目商
 - **规模**：微型（待补证）
-- **在卖/在用品牌**：Siemens Climatix（生态）
+- **在卖/在用品牌**：Siemens Climatix（生态）, Siemens
 - **【用户记录】升压 5 口需求；历史 RFQ 询 PoE；AI 评估 35%B / 10%C**
   > 升压5口；早期ai: 35% B 小型网络设备贸易商/项目商，曾通过RFQ询价PoE设备… max: 10% C 核心业务未确认（用户 Clients 表摘录）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
@@ -134,9 +135,10 @@ updated: 2026-10-29
 - **KP**：Matej Snoha（Jednatel / 创始人 / 实益所有人（2017 起；or.justice.cz）= 拍板人 / 收件人（第 107 批 官方登记核实 2026-10-28）） 〔https://rejstrik.penize.cz/05405947-inthouse-systems-s-r-o〕
 - **KP**：Andrej Hraško（Jednatel / 实益所有人（2016 起）（第 107 批 官方登记核实 2026-10-28）） 〔https://rejstrik.penize.cz/05405947-inthouse-systems-s-r-o〕
 - **调研后定级**：B（原自动 A）——0 回复 / 6 次推送，核心业务未确认，用户 AI 评估亦为 B→C 区间；RFQ 历史说明需求曾真实 → 不降 C，B 慢跟。
-- 备注：一次性邮件给 5 口/8 口 PoE（STI-244GP / STC-28DGGPM）价格即可。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+一次性邮件给 5 口/8 口 PoE（STI-244GP / STC-28DGGPM）价格即可。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

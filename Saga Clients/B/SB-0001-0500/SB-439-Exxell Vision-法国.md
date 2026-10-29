@@ -56,6 +56,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-22 | 去 | A/S 群发 | Marvell Industrial Alert System、10G Enterprise SFP Switch | 18 封 / 0 次打开 / 0 回｜首封 2025-02-11 → 末封 2026-09-22（18 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | （用户表字段） | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Solutions de Sécurité Professionnelle \| Exxell Vision — Exxell Vision étudie, installe, modernise et maintient les systèmes de sécurité des sites professionnels, principalement en Île-de-France. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -148,9 +149,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Jeannie Rozowykwiat (Levy)（原 Présidente（2024-10 → 2025-12；pappers：2025-12-04 起 Président 为 Jean-Edmond）；收件人 commercial@exxell.fr（第 110 批 官方登记核实 2026-10-28））commercial@exxell.fr（公司公开） +33 1 83 83 50 00〔https://www.annonces-legales.fr/consultation/ile-de-france/hauts-de-seine-92/exxell-vision-1331479〕
 - **KP**：Jean-Edmond Rozowykwiat（Président（2025-12-04 起；pappers / societe.com）= 拍板人（第 110 批 官方登记核实 2026-10-28））—（未公开） +33 1 83 83 50 00〔https://www.societe.com/societe/exxell-vision-493179089.html〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 登记核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 登记核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

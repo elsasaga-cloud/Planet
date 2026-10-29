@@ -6,7 +6,15 @@
  "summary": "布尔萨 İnegöl 的安防与网络方案商 Tek Nokta Destek（CCTV、防盗报警、智能家居、网络；自述 11 个全球品牌、500+ 产品、120+ 品类；勘察-安装-服务一站式，面向全国供货；Fatih Mh. Kıvırcık Sk. No:9/1 İnegöl；+90 224 719 08 00；GSM/WhatsApp +90 532 315 72 58；info@teknoktadestek.com）。ISAF 记录：Rıfat Bende（站内社媒为 Rıfat Yıldız——姓氏待核）拿了彩页、没说什么；WhatsApp 已加（号码与官网 GSM 一致）；无后续跟进。",
  "type": "",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Ajax",
+  "Dahua",
+  "Zyxel",
+  "Uniview",
+  "Hanwha",
+  "Paradox",
+  "TP-Link"
+ ],
  "evidence": [
   {
    "kind": "官网",
@@ -41,10 +49,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网核对）"
+  "level": "B 级加厚 v1（官网核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Tek Nokta Destek Güvenlik Sistemleri",
@@ -110,6 +119,14 @@
     "quote": "拿了彩页，没说什么 / 90 53231 57258 已加",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Güvenlik Kamera Sistemleri, Alarm ve Akıllı Ev Çözümleri | Tek Nokta Destek — İnegöl/Bursa merkezli güvenlik ve ağ çözümleri: kamera sistemleri, hırsız alarmı, akıllı ev, network. 11 global marka, keşif-kurulum-servis tek noktada. Türkiye geneline tedarik.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://teknoktadestek.com/"
    }
   ],
   "proof_gaps": [
@@ -130,5 +147,37 @@
   "note": "布尔萨 İnegöl 安防与网络方案商 Tek Nokta Destek（CCTV / 报警 / 智能系统；展会拿彩页，WA 已加）：行业内 ✔ 四主区 → 留 B",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA ✔，展会 ✔，绑定 轻度触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": []
+ "override_history": [],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:46:01Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@teknoktadestek.com"
+  ],
+  "phones": [],
+  "social": [
+   "https://wa.me/905323157258",
+   "https://wa.me/905323157258?text=Merhaba%2C%20UNV%20Uniview%20NSW2020-16T1GT1GC-POE-IN%2016%20Port%20...%20%C3%BCr%C3%BCn%C3%BC%20i%C3%A7in%20fiyat%20teklifi%20almak%20istiyorum.",
+   "https://wa.me/905323157258?text=Merhaba%2C%20Uniview%20NSW2010-10T-POE-IN%2010%20Port%20Switch%208%20P...%20%C3%BCr%C3%BCn%C3%BC%20i%C3%A7in%20fiyat%20teklifi%20almak%20istiyorum.",
+   "https://wa.me/905323157258?text=Merhaba%2C%20Uniview%20NSW2010-16T2GC-POE-IN%2016%20Port%20PoE%20Swi...%20%C3%BCr%C3%BCn%C3%BC%20i%C3%A7in%20fiyat%20teklifi%20almak%20istiyorum."
+  ],
+  "models_on_site": [
+   "TC-H388M",
+   "IPC-HDBW1431R",
+   "DS-2CE16K0T",
+   "IPC2124LR3",
+   "MG5000",
+   "NR7101",
+   "BE19000",
+   "NSW2010-10T-POE-IN"
+  ],
+  "url": "https://teknoktadestek.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

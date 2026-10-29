@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2026-09-09 | 去 | A/S 群发 | Industrial PoE Switch、90W PoE Managed Switch | 24 封 / 0 次打开 / 0 回｜首封 2024-06-15 → 末封 2026-09-09（24 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 商业PoE及周边产品；商业PoE及周边产品 卖Longse的 | 表内备注 | `用户表` |
 | 2026-09-09 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 0dd073c109bed56b；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `0dd073c109bed56b` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Stebėjimo kameros, signalizacijos, apsaugos sistemos \| Pyramid.lt — Vaizdo stebėjimo sistemos gera kaina - Apsaugos kameros, stebėjimo kameros, ip kameros, irašymo įrenginiai, priedai | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -154,9 +155,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Arunas Ramonas（Direktorius（info.lt / rekvizitai）= 拍板人 / 收件人（第 111 批 官方登记核实 2026-10-28））arunas@pyramid.lt 〔用户表〕
 - **KP**：Mattheos Dimitras（Business Manager（研究档）= 收件人（抄）（第 111 批 官方登记核实 2026-10-28））info@pyramid-electronics.com 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

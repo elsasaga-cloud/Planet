@@ -56,6 +56,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-10-07 | 去 | A/S 群发 | Industrial PoE Switch、Commercial PoE Switch | 16 封 / 0 次打开 / 0 回｜首封 2025-06-20 → 末封 2026-10-07（16 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：CCTV 分销商 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Asit Online Store – Innovation Delivered | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -142,9 +143,10 @@ updated: 2026-10-29
 - **KP**：Jacopo Ganz（Amministratore Delegato（asit.it 2024-06 任命公告）= 拍板人 / 收件人（第 110 批 官方登记核实 2026-10-28））jacopo.ganz@asit.it 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Marco Gabriele（Vice President Sales（techcompany360 / rocketreach）= 收件人（抄）（第 110 批 官方登记核实 2026-10-28））marco.gabriele@asit.it 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Joris Ganz（Presidente e Amministratore Delegato（asit.it 2024-06）（第 110 批 官方登记核实 2026-10-28）） 〔https://www.asit.it/nuove-nomine-asit-s-p-a/〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

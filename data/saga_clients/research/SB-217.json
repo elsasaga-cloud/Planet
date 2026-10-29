@@ -45,10 +45,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  "level": "B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "MICROSENS GmbH & Co. KG（Amtsgericht Hamm HRA 1669；Komplementärin MICROSENS Beteiligungs GmbH HRB 1981；GF Frank Konrad + Dirk Korn）",
@@ -129,6 +130,14 @@
     "quote": "16 Port Industrial PoE Switch",
     "why": "本日去信真实主题（邮箱索引 fd4b9b351b1f7073；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封）",
     "k": "fd4b9b351b1f7073"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "MICROSENS - Home",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.microsens.com/"
    }
   ],
   "proof_gaps": [],
@@ -137,5 +146,31 @@
    "body": "Hello Anke,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 22 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor a MICROSENS-labelled industrial managed switch in your white housing colour: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based, -40 to 75 C, CE/RoHS - model STI-288GPM - $85.5 USD EXW in standard housing (MOQ 1, 15-day validity); the 10G media converter, 1 x 10G SFP+ + 1 x 100M-10G RJ45 - $65. White housing is a tooling and minimum-lot question, not a yes/no.\n\nOne question: what annual volume would the white-housing SKU run at, so I check tooling and the minimum lot with the factory before we talk further?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:37:27Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [],
+  "social": [
+   "https://www.linkedin.com/company/microsens-gmbh-&-co.-kg/",
+   "https://www.linkedin.com/company/microsens-gmbh-&-co.-kg/?viewAsMember=true",
+   "https://www.youtube.com/channel/UCxubH--ge55dyVnsAxFFXLA",
+   "https://www.youtube.com/channel/UCxubH--ge55dyVnsAxFFXLA?view_as=subscriber"
+  ],
+  "models_on_site": [
+   "MSP3000",
+   "MSP1000",
+   "MSP800",
+   "IP500"
+  ],
+  "url": "https://www.microsens.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -138,7 +138,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（http_error）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（luetze.com：HTTP 错误，2026-10-21，第 1 次）
 - **是谁**：德国 Lütze（LÜTZE：工业电缆与自动化集团（德/英/西等多国），工业通信目录含自有品牌工业以太网交换机；表内「工业 FS 自己的牌子 质量还行，主要是工业电缆」「可以着重跟一下」「比较重要」；备注 luetze.com/es-es/catalogo/Control/Comunicación-industrial）；群发 27 次无回复。
 - **类型**：德国工业电缆/自动化集团（自有标工业 FS；用户标「重要」，二供口径）
 - **【用户表】表内兴趣/备注**
@@ -148,7 +148,8 @@ updated: 2026-10-29
   > 工业FS  自己的牌子  质量还行 主要是工业电缆 / 自己的牌子；可以着重跟一下；比较重要
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Dimitrios Koutrouvis（Geschäftsführer（2024-10-08 起；与 Amphenol 高管 D'Amico / Lampo 同日任命 = 公司 2024-10 起属美国 Amphenol 集团）= 研究档收件人 dimitrios.koutrouvis@luetze.com 本人 → **联系人 = 德国总经理**，但采购已集团化 → 只写一封问「网络 / 连接线是否仍本地选型」（第 89 批 官方登记核实 2026-10-27））dimitrios.koutrouvis@luetze.com 〔https://www.northdata.de/Friedrich%20L%C3%BCtze%20GmbH,%20Weinstadt〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

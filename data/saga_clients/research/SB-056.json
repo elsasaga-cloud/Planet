@@ -53,11 +53,12 @@
  ],
  "grade_override": "B",
  "override_reason": "爱沙尼亚为非主动开发小国，互动停留在一般信息、无具体需求 → 慢跟。",
- "notes": "WA 维持；有具体项目再报价。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：deep/facts。\nWA 维持；有具体项目再报价。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（名录 + 业务站核对）"
+  "level": "B 级加厚 v1（名录 + 业务站核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "NETWORK BUSINESS SOLUTIONS OÜ（registrikood 11338038；原 Osaühing Angelmont；Vesse tn 9a, Tallinn）",
@@ -138,6 +139,14 @@
     "quote": "用户表跟进：推「工业16 24口出货图」→ 对方「有工业mini pc？」",
     "why": "Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写",
     "k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.4 2025.2.27"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Domain is Registered",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://nbs.ee/"
    }
   ],
   "proof_gaps": [
@@ -149,5 +158,12 @@
    "body": "Hi Vadim,\n\nFor the new buildings you are connecting on Paekaare and Punane: the riser switch is 24 x Gigabit RJ45 + 4 x 10G SFP+ uplinks, L2+ managed (VLAN, IGMP, QoS), Marvell-based, CE/RoHS - model STC-424XGGM - $132.7 USD EXW per unit (MOQ 1, 15-day validity); for small buildings, 8 x Gigabit + 2 x SFP L2+ - STC-28DGGM - $71.0. SFP+ optics you keep sourcing as now.\n\nOne question: how many risers are planned for the next phase?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:22:24Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
  }
 }

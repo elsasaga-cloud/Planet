@@ -67,6 +67,7 @@ updated: 2026-10-29
 | 2025-01-30 | 来 | ksurowiec@bitstream.pl | Re: 90W PoE Managed Switch｜What is the price?  -- Pozdrawiam,    *Katarzyna Surowiec*Asystentka Zarządu  *Phone* +48 81 743 86 43 *Web* www.bitstream.pl *Email* ksurowiec@bitstr | 来信（邮箱索引；原文见 k；是否人工回复以原文为准） | `ab20a2586535bf26` |
 | 2026-08-11 | 来 | ahyz@bitstream.pl | Nieobecność Re: 24 Port PoE Managed Switch｜W dniach 07-21.08.2026 jestem na urlopie. W sprawach pilnych proszę kontaktować się z Tomaszem Jargieło na adres mailowy tjargielo@bitstream.pl  --    | 来信（邮箱索引；原文见 k；是否人工回复以原文为准） | `97cffda9f4680ebc` |
 | 2026-09-07 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 最近一封去信（邮箱索引；去信共 20 封） | `559de04d8706b132` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Polski producent urządzeń do transmisji danych \| BitStream - BitStream — Bitstream Polska jest wiodącym dostawcą rozwiązań synchronizacji czasu i transmisji danych dla energetyki, systemów bezpieczeństwa, telekomunikacji i innych. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -161,9 +162,10 @@ updated: 2026-10-29
 - **KP**：M. Beczek（mbeczek@）（出口/商务联系人（官方名录公开））mbeczek@bitstream.pl +48 691 161 866〔https://www.trade.gov.pl/en/polish-companies/bitstream-spolka-akcyjna〕
 - **KP**：Katarzyna Surowiec（来信署名人（职务未在邮件署名里出现））ksurowiec@bitstream.pl 〔S/A 邮箱来信 2025-01-30 来信 1 封（第 72 批从邮件表头补）〕
 - **KP**：Dariusz Pietrzyk（Prezes Zarządu（从 Sp. z o.o. 时代起的当家人）（第 83 批 官方登记核实 2026-10-27）） 〔https://rejestr.io/krs/1010572/bitstream〕
-- 备注：A 确认：欧洲工业网络品牌商，已回复并给了详细联系方式；切入点 = 其非核心 SKU（非管理工业交换机、MC、SFP）贴牌，30% 档；避免与其自研 PRP/HSR 高端线正面竞争。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+A 确认：欧洲工业网络品牌商，已回复并给了详细联系方式；切入点 = 其非核心 SKU（非管理工业交换机、MC、SFP）贴牌，30% 档；避免与其自研 PRP/HSR 高端线正面竞争。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1）
+### 加厚挖掘（2026-10-21 · 深挖 v1 + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

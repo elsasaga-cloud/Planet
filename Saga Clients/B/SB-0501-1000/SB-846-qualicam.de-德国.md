@@ -54,6 +54,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-23 | 去 | A 群发 | 10G Enterprise SFP Switch、24 Port Fiber Switch | 18 封 / 1 次打开 / 0 回｜首封 2025-02-21 → 末封 2026-09-23（18 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 主要是安防 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Videoüberwachung, Sicherheitstechnik und Alarmanlagen — Online-Shop zur Videoüberwachung mit Überwachungskameras, Sicherheitstechnik, Reizgasanlagen, Alarmanlagen und Überwachungssystemen in Braunsbedra. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -138,9 +139,10 @@ updated: 2026-10-29
   > 主要是安防
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Karin Scheer（Geschäftsführerin（einzelvertretungsberechtigt；*1984 Braunsbedra；AG Leipzig HRB 37030）= 老板 = 唯一联系人（qcone@ueberwachung.tv，Impressum 公域）（第 94 批 官方登记核实 2026-10-28））qcone@ueberwachung.tv 〔https://firmeneintrag.creditreform.de/04357/8190890687/QUALICAM_GMBH〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

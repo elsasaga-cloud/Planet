@@ -8,7 +8,9 @@
  "size": "",
  "brands_seen": [
   "PLANET",
-  "ORing"
+  "ORing",
+  "D-Link",
+  "Cisco"
  ],
  "evidence": [
   {
@@ -79,10 +81,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-098，W 批次调研 2026-10-19/20）"
+  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-098，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Acceed GmbH（Amtsgericht Düsseldorf HRB 40029；2000-12-29；Arnoldstr. 19, 40479 Düsseldorf；Stammkapital €25,000；1 名股东；同址关联 MeyeControl GmbH HRB 48350）",
@@ -224,10 +227,48 @@
     "quote": "werner.kunze@acceed.com 退信：552 5.2.2 <werner.kunze@acceed.com>: Recipient address rejected: Mailbox quota exceeded",
     "why": "该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开",
     "k": "gmail_a b5e91fb51b7abf8f"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Startseite | acceed — Markennamen allein beeindrucken uns nicht. Bei der Auswahl unserer Produkte entscheidet stets deren Leistung, gemessen an den Ansprüchen und Erwartungen un",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://acceed.com/de"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:25:12Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@acceed.com"
+  ],
+  "phones": [
+   "+49 211 938898 0",
+   "+49 211 938898 28"
+  ],
+  "social": [],
+  "models_on_site": [
+   "RS232",
+   "RS-232",
+   "RS485",
+   "RS-485",
+   "EN50155",
+   "RS-422",
+   "RS422",
+   "SFP1000"
+  ],
+  "url": "https://acceed.com/de",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

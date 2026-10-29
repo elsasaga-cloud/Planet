@@ -112,7 +112,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（http_error）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（keme-tec.com：HTTP 错误，2026-10-21，第 1 次）
 - **是谁**：约旦 Keme-Tec（keme-tec.com；阿里巴巴 RFQ「商业 24 口管理」；KP Rateb Mahmoud（project manager），projects@ + yahoo；官网 http_error）；表内未跟进。
 - **类型**：项目集成商（约旦，24 口管理 RFQ）
 - **【用户表】表内兴趣/备注**
@@ -122,7 +122,8 @@ updated: 2026-10-29
   > 商业24口管理 / from: 阿里巴巴RFQ
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Rateb Mahmoud（Project Manager（研究档 KP；阿里 RFQ 24 口管理）= 收件人 — 一页纸一次：集成商 25% B、STC-4424GCPM $165 24 PoE + 4 SFP L2+ / 24 GE 非 PoE 管理版 按主表 一口价 + MOQ 1 + 付费样机；一句话问是否要 PoE — 约旦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 安曼（第 123 批 官方登记核实 2026-10-29））projects@keme-tec.com 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2026-09-22 | 去 | A/S 群发 | Marvell Industrial Alert System、10G Enterprise SFP Switch | 24 封 / 1 次打开 / 0 回｜首封 2024-06-29 → 末封 2026-09-22（24 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS | 表内备注 | `用户表` |
 | 2026-09-22 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 5447336b26be7aa5；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封） | `5447336b26be7aa5` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Blueoptics - Shop \| BlueOptics-Shop — Transceiver und LWL Zubehör - Versand aus Deutschland | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -163,9 +164,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Sandra Go（Project Manager（用户表）= 项目口 —— **本轮改写 GF Michael Abel**（光模块自有品牌商，交换机只是副线；Saga 不供光模块 Q-32 → 唯一一条线 = **CBO 标工业 / 商用交换机 OEM 30%** 配他们自家光模块卖套装）；第二封只给「CBO 标 8 口 PoE+2SFP 工业机 / 24 口 +4 SFP 管理型」两行价（第 92 批 官方登记核实 2026-10-28））info@cbo-it.de 〔用户表〕
 - **KP**：Michael Abel（Geschäftsführer（Northdata：cbo GmbH, Schliersee, AG München HRB 93986 —— **推定匹配**，回信后以 Impressum 核 HRB）= 老板之一 = 本轮收件人（第 92 批 官方登记核实 2026-10-28）） 〔https://www.northdata.com/cbo%20GmbH,%20Schliersee/Amtsgericht%20M%C3%BCnchen%20HRB%2093986〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

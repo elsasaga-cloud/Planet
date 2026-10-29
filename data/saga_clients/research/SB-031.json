@@ -68,11 +68,12 @@
  ],
  "grade_override": "B",
  "override_reason": "南美非主攻区；需求一半（ONU）Saga 不供，另一半工业 MC 为低客单价；2 次回复后 16 次推送无果 → 慢跟。",
- "notes": "WA 一次性报 STI-110GE 工业 MC（分销 20%），不做 ONU。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：deep/facts。\nWA 一次性报 STI-110GE 工业 MC（分销 20%），不做 ONU。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（登记 + LinkedIn/ConnectAmericas 核对）"
+  "level": "B 级加厚 v1（登记 + LinkedIn/ConnectAmericas 核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "OM TELECOM S.R.L.（RUC 20600792858；Activo / Habido）",
@@ -145,6 +146,14 @@
     "quote": "客户找光猫+工业MC；2023.11.29 发了商业POE价格册 → L3 industrial managed switch with POE?；2024.3.15 发了L3管理poE型号 → price and model list",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "OM Telecom",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://om-telecom.com/"
    }
   ],
   "proof_gaps": [
@@ -153,5 +162,12 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:21:25Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
  }
 }

@@ -60,6 +60,7 @@ updated: 2026-10-29
 | 2025-04-01 | 去 | Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次） | Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere | Elsa 箱群发 BCC 触达证据（命中地址 batna24.com, shop@batna24.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-08-31 | 去 | Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 batna24.com, shop@batna24.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：SFP 周边产品 POE电源 MC（多是tp-link的） | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Batna24.com \| Network equipment store — Batna24 is the main distributor in Europe of brands such as Ubiquiti Networks and Mikrotik, Extralink, Ligowave, TP-Link, RF-Elements, Totolink and much... | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -130,9 +131,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（网店）（公域 —— 写 zakupy / product manager「switche」抄 shop@（研究档无人名）（第 98 批 官方登记核实 2026-10-28））shop@batna24.com +48 34 361 04 48〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Łukasz Jan Mucha（股东 50% + 24 BATNA Sp. k. komandytariusz（rejestr.io / aleo；实际经营者，推定）= 收件人点名；Prezes = Magdalena Mucha（配偶，2022-12 起）（第 98 批 官方登记核实 2026-10-28）） 〔https://rejestr.io/krs/1003926/batna〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

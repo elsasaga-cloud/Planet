@@ -40,10 +40,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 守界标注）"
+  "level": "B 级加厚 v1（官网快照核对 + 守界标注） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Niaar General Trading LLC（牌照号 1 查未得）",
@@ -108,6 +109,14 @@
     "quote": "兴趣：收发器；回复：暂时没需求",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Industrial Procurement and Supply Solutions | Niaar — NIAAR connects industrial buyers with trusted brands and suppliers across energy, manufacturing, infrastructure, marine and technology sectors.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://niaar.net/"
    }
   ],
   "proof_gaps": [
@@ -115,5 +124,34 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:43:31Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@niaar.net",
+   "pouriya@niaar.net"
+  ],
+  "phones": [
+   "+97142540929",
+   "+971508580255"
+  ],
+  "social": [
+   "https://wa.me/971508580255",
+   "https://www.facebook.com/Niaar.General.Trading.LLC/",
+   "https://www.linkedin.com/company/niaar/",
+   "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fniaar.net%2Fbrand%2Fabb%2F"
+  ],
+  "models_on_site": [
+   "ISO9001"
+  ],
+  "url": "https://niaar.net/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

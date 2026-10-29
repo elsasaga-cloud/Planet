@@ -54,6 +54,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 2光8PoE管理Vitesse / from: 自建站 / unpledged154@simplelogin.com | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | SimpleLogin \| Open source anonymous email service — With email aliases , you can be anonymous online and protect your inbox against spams and phishing. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来；用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -116,9 +117,10 @@ updated: 2026-10-29
   > 2光8PoE管理Vitesse / from: 自建站 / unpledged154@simplelogin.com
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Alex Malinovich（自建站询盘人（别名邮箱；WA 已加）= 收件人 — 一页纸一次：集成商 25% B、STI-288DGGPM $137 2 SFP + 8 PoE L2 管理 一口价 + MOQ 1；芯片平台不声称 — 美国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP（买方清关）、NDAA / TAA / UL 不声称；周三 08–10 当地（第 122 批 官方登记核实 2026-10-29））unpledged154@simplelogin.com（用户表） —（WhatsApp 已加）〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · 无域名 · 仅表内信息）
+### 加厚挖掘（2026-10-21 · 无域名 · 仅表内信息 + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

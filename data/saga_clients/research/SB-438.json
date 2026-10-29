@@ -55,10 +55,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "臺北市內湖區洲子街60、62號8、9樓（02-2659-1021）（第 116 批 官方登记核实 2026-10-28）",
@@ -135,6 +136,14 @@
     "quote": "Hi, Mirco, How are you? *We've released firmware 7.5 on our AC5 Lite (Marvell 98DX2515/2518) platform, with a round of L2+ enhancements *focused on 1. IPv6 readiness (DHCPv6 server/relay/snooping, MLD snooping) 2. Expanded multicast support (IGMP v1/v2/v3, PIM-SM) *Please see attached full feature l…",
     "why": "Saga 实质答复原文（主题「Re: OEM Core Switching Solution」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
     "k": "2c088651a92dded8"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "主向位科技股份有限公司 | 主向位科技是台灣網路通訊產品製造商 (包含第2層換機, TDM, 轉發器、工業級乙太網路交換器、轉換器、供電器等)。 — 主向位科技致力於提供可靠、寬溫且高耐環境性的工業網路解決方案，專為嚴苛應用場域打造。產品涵蓋 L3/L2 管理型交換機、PoE 解決方案，以及符合 EN50155、IEC 61850-3 與 E-Mark 標準的認證型乙太網路交換機，滿足軌道交通、電力自動化與智慧運輸等關鍵網路應用需求。 主向位科技(CTC Union)成立於1993 年，是一家通過 ISO9001/14001 認證，擁有自己的產品研發團隊與生產工廠的專業網路通訊產品製造商。軟體",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.ctcu.com/zh-TW/"
    }
   ],
   "proof_gaps": [],
@@ -150,5 +159,40 @@
   "note": "桌面复核（研究档类型 + 对位首推）：台湾品牌制造商（按「台湾厂商口径」只谈 OEM/ODM 二供）；切入：产品线与 Saga 高度重叠（含 VC）→ 仅二供/补缺：工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）；其 EN50155/61850 认证型 Saga 不做；行业内 ✔ 对位 ✔（宽留冷「不对位」系 fit 标志未回填，非真不对位）",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 1，WA —，展会 —，绑定 轻度触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": []
+ "override_history": [],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:41:16Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@ctcu.com"
+  ],
+  "phones": [
+   "+886) 2-2659-0237",
+   "+886) 2-2659-1021"
+  ],
+  "social": [
+   "https://twitter.com/intent/tweet?text=%23%23OBJ%3A%3Aname%23%23+%7C+Industrial+%26+Telecom+Network+Equipment+Manufacturer+%7C+CTC+Union&url=https%3A%2F%2Fwww.ctcu.com%2Fen%2Fproduct%2FIGS-402CS-4PH24.html",
+   "https://twitter.com/intent/tweet?text=%23%23OBJ%3A%3Aname%23%23+%7C+Industrial+%26+Telecom+Network+Equipment+Manufacturer+%7C+CTC+Union&url=https%3A%2F%2Fwww.ctcu.com%2Fen%2Fproduct%2FIXR-G24044X-24PH.html",
+   "https://twitter.com/intent/tweet?text=%23%23OBJ%3A%3Aname%23%23+%7C+Industrial+%26+Telecom+Network+Equipment+Manufacturer+%7C+CTC+Union&url=https%3A%2F%2Fwww.ctcu.com%2Fen%2Fproduct%2FQSW-4624CM.html",
+   "https://twitter.com/intent/tweet?text=%23%23OBJ%3A%3Aname%23%23+%7C+Industrial+%26+Telecom+Network+Equipment+Manufacturer+%7C+CTC+Union&url=https%3A%2F%2Fwww.ctcu.com%2Fen%2Fproduct%2FSOR-200.html"
+  ],
+  "models_on_site": [
+   "EN50155",
+   "FRM220",
+   "EN45545-2",
+   "QSW-4624CM",
+   "SOR-200",
+   "FRM220A",
+   "ISO9001",
+   "IEC62443"
+  ],
+  "url": "https://www.ctcu.com/zh-TW/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

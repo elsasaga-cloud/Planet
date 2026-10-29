@@ -12,7 +12,13 @@
   "TP-Link",
   "Aruba",
   "Juniper",
-  "Netgear"
+  "Netgear",
+  "D-Link",
+  "Huawei",
+  "Fortinet",
+  "MikroTik",
+  "Ruijie",
+  "Grandstream"
  ],
  "evidence": [
   {
@@ -42,10 +48,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照 + 表内）"
+  "level": "B 级加厚 v1（官网快照 + 表内） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Technoverse Business Solutions（个体经营；GSTIN 27CWEPK3302H2ZS，2023-11-07；202, Shiv Sambhav CHS, Savarkar Road, Dombivli, Thane 421201；营业额 ₹0–40 lakh）",
@@ -106,6 +113,14 @@
     "quote": "（空）",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Technoverse Business Solutions | IT Hardware & Networking — Unlock a world of I.T & Networking Products at Technoverse Business Solutions. Meet our team of T.E.C.H.N.O.V.E.R.S.E experts today!",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.technoversebs.com/"
    }
   ],
   "proof_gaps": [
@@ -117,5 +132,31 @@
    "body": "Hi Suyash,\n\nNext to the TP-Link and Netgear PoE lines you resell, a neutral-box unit for SMB CCTV jobs: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based, CE/RoHS (BIS stays on your side), 1-year warranty - model STC-28DGGPM - $80.7 USD EXW at distributor price (MOQ 1, 15-day validity).\n\nOne question: worth a 5-pc trial for your SMB CCTV jobs, or is the brand name decisive for your customers?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:44:43Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@technoversebs.com",
+   "sales@technoversebs.com"
+  ],
+  "phones": [
+   "+91 98194 92971"
+  ],
+  "social": [
+   "https://wa.me/918356901419?text=Hello%20Technoverse%20Business%20Solutions.%0A%0AI%20found%20your%20company%20through%20Google.%0A%0AProduct%20Required%3A%20%0ABrand%3A%20%0AQuantity%3A%20%0ACountry%3A%20%0ACompany%20Name%3A%20%0A%0APlease%20share%20your%20best%20quotation.",
+   "https://www.aramex.com/in/en",
+   "https://www.facebook.com/profile.php?id=61555805265468",
+   "https://www.fedex.com/en-us/tracking.html"
+  ],
+  "models_on_site": [],
+  "url": "https://www.technoversebs.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

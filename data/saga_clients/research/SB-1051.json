@@ -2,7 +2,7 @@
  "code": "SB-1051",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（http_error）",
+ "website_status": "快照失败（klemsan.com.tr：HTTP 错误，2026-10-21，第 1 次）",
  "summary": "土耳其 Klemsan（接线端子与电气元件制造商（自有品牌，出口型）；表内「从 VOLKTEK 买工业交换机」；官网 http_error）；表内未跟进。",
  "type": "电气元件制造商（土耳其，自有标工业交换机现 Volktek）",
  "size": "",
@@ -36,7 +36,7 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
@@ -124,5 +124,14 @@
    "body": "Hello Klemsan team,\n\nOver the past months you had a product mail from us - \"24 Port PoE Managed Switch\" on 20 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the industrial Ethernet switches sold under the Klemsan label, we can be a second ODM source in your packaging from small lots, DIN-rail, -40 to 75 C, CE/RoHS: 8 x Gigabit + 2 x SFP unmanaged - model STI-280GE - $46 USD EXW (MOQ 1, 15-day validity); 5 x Gigabit unmanaged - STI-050GE - $18.5; 8 x PoE+ + 2 x SFP L2 managed (VLAN, QoS, IGMP), Marvell-based - STI-288GPM - $85.5.\n\nOne question: which SKU would you want sampled against your current Volktek unit first?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:35:51Z"
+  ],
+  "fails": [
+   "2026-10-21"
+  ],
+  "batch": "LT-T03"
  }
 }

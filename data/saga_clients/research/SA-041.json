@@ -49,7 +49,7 @@
    "source": "https://inwestrut.pl/fibermarkt-sp-z-o-o/"
   }
  ],
- "notes": "A 确认（欧洲自有品牌 + 2 次实质回复 + 在售中国品牌）：对位 LO-IGS-M8GT2GF-HPOE ≈ STI-288DGGPM，MC = STI-110GE；贴牌 30%。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：fail#1。\nA 确认（欧洲自有品牌 + 2 次实质回复 + 在售中国品牌）：对位 LO-IGS-M8GT2GF-HPOE ≈ STI-288DGGPM，MC = STI-110GE；贴牌 30%。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
@@ -213,5 +213,14 @@
    "body": "Hello LightOptics team,\n\nYour LO-IGS-4GT2GF-POE and LO-IGS-8GT2GF-POE sit exactly on the 4+2 and 8+2 industrial PoE footprints we build. In LightOptics packing from small lots, DIN-rail, -40 to 75 C, CE/RoHS: 4 x Gigabit PoE+ + 2 x SFP unmanaged - model STI-244GP - $35 USD EXW (MOQ 1, 15-day validity); 8 x PoE+ + 2 x SFP unmanaged - STI-288GP - $62.2; and the differentiator against your current source, the 8 + 2 L2+ managed version with ring redundancy on a Marvell platform - STI-288DGGPM - $137.5. Optics and DAC stay with you.\n\nOne question: is the managed 8-port the SKU your ISP customers ask for, or do they stay unmanaged?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:19Z"
+  ],
+  "fails": [
+   "2026-10-21"
+  ],
+  "batch": "LT-T03"
  }
 }

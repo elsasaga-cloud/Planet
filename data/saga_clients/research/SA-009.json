@@ -55,11 +55,12 @@
    "source": "https://www.coptek.com.tr/CS6570.html"
   }
  ],
- "notes": "A 确认（土耳其重点区 + 已在卖中国交换机 + 100 台工业 FS 询盘）：P1 = STI 工业光纤交换机（按其 IM-FS280GW 规格对位 2 光 8 电），报 25% 档并给阶梯价。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\nA 确认（土耳其重点区 + 已在卖中国交换机 + 100 台工业 FS 询盘）：P1 = STI 工业光纤交换机（按其 IM-FS280GW 规格对位 2 光 8 电），报 25% 档并给阶梯价。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1"
+  "level": "深挖 v1 + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "KOPTEK … LTD. ŞTİ.（İstanbul，2006-02-07；find.com.tr / EMIS 3700640）（第 85 批 官方登记核实 2026-10-27）",
@@ -209,6 +210,14 @@
     "quote": "Managed PoE Switches",
     "why": "最近一封去信（邮箱索引）；信稿开头句引用",
     "k": "mail_index"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Omurga,Layer2,Layer3 POE Switchler — Yüksek performanslý omurga,layer2,layer3,poe switchler,fiberoptik ürünler",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://coptek.com.tr/"
    }
   ],
   "proof_gaps": [
@@ -220,5 +229,23 @@
    "body": "Hello Coptek team,\n\nOver the past two years you had a steady stream of product mails from us - most recently \"Managed PoE Switches\" on 6 October 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nYou once discussed with us a 100-unit requirement for an industrial fibre switch, 2 x SFP + 8 x Gigabit (the IM-FS280GW class). Our direct equivalents, DIN-rail, -40 to 75 C, L2+ managed, Marvell-based, CE/RoHS:\n\n- non-PoE: 8 x Gigabit + 2 x 2.5G SFP - model STI-280DGGM - $121 USD EXW (MOQ 1, 15-day validity)\n- PoE+ version, 240 W budget: model STI-288DGGPM - $137.5 USD EXW\n\nAt 100 units the price is discussed separately; a sample is paid and credited against the order.\n\nOne question: is the 100-unit requirement still open - and if it was already placed, which spec and price won it? If we know, we will not write for nothing.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:19:33Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@coptek.com.tr"
+  ],
+  "phones": [],
+  "social": [],
+  "models_on_site": [],
+  "url": "https://coptek.com.tr/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

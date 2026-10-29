@@ -56,11 +56,12 @@
  ],
  "grade_override": "B",
  "override_reason": "品牌厂商、需求为芯片级（Realtek 高端芯片），Saga 是整机贸易商不供芯片；韩国非主攻区；1 次回复后 23 次推送无果。仅保留'HRUI Realtek 方案整机 ODM'一条可能 → B。",
- "notes": "若重启，只提 HRUI（Realtek 平台）整机 ODM 能力，不谈芯片供货。待补证：公司规模（上市信息）。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n若重启，只提 HRUI（Realtek 平台）整机 ODM 能力，不谈芯片供货。待补证：公司规模（上市信息）。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照：同行 ODM）"
+  "level": "B 级加厚 v1（官网快照：同行 ODM） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "주식회사 파이오링크 Piolink, Inc.（사업자등록번호 119-81-41089；법인등록번호 110111-2035578；KOSDAQ 170790 2013-08）",
@@ -137,6 +138,14 @@
     "quote": "Our products are Marvell chipset based. Is this fine with you?… Please see attached info from GPT",
     "why": "以筛子回应",
     "k": "1048e9cbd52c2199"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "PIOLINK - Optimizing Your Cloud Data Center — PIOLINK is a professional in cloud data center optimization and provides products, service, and solutions for various IT infrastructure demands.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.piolink.com/en/"
    }
   ],
   "proof_gaps": [],
@@ -152,5 +161,35 @@
   "note": "桌面复核（研究档类型 + 对位首推）：品牌厂商（自研交换机）；切入：24 光 / 高端 L3 需求 → Saga STC-424XGGM(L3)（24 GE + 4×10G，$269.1/280.3/291.5）作 ODM 样机；全光 24 SFP 版按 SmartByte 另询。；行业内 ✔ 对位 ✔（宽留冷「不对位」系 fit 标志未回填，非真不对位）",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 1，WA —，展会 —，绑定 未绑定））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": []
+ "override_history": [],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:21:25Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [
+   "+82-2-2025-6900",
+   "+82-2-2025-6901"
+  ],
+  "social": [
+   "http://www.facebook.com/sharer/sharer.php?u=https://www.piolink.com/en/company/Contact.php",
+   "http://www.facebook.com/sharer/sharer.php?u=https://www.piolink.com/en/product/Backbone-Switch.php",
+   "http://www.facebook.com/sharer/sharer.php?u=https://www.piolink.com/en/product/Cloud-Managed-Networking.php",
+   "http://www.facebook.com/sharer/sharer.php?u=https://www.piolink.com/en/product/Cloud-Security-Switch.php"
+  ],
+  "models_on_site": [
+   "BS9800",
+   "BS9805",
+   "BS9808",
+   "BS9810",
+   "CA1002C"
+  ],
+  "url": "https://www.piolink.com/en/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

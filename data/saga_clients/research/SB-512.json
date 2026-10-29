@@ -35,10 +35,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对）"
+  "level": "B 级加厚 v1（官网快照核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Solus Tecnologia em Sistemas Ltda EPP（CNPJ 07.270.661/0001-86）",
@@ -103,6 +104,14 @@
     "quote": "兴趣：2光6POE大壳",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Solus Tecnologia | Segurança Eletrônica para Empresas, Residências e Grandes Projetos — Mais de 20 anos em segurança eletrônica: CFTV, alarme, controle de acesso e automação para residências, empresas e órgãos públicos no ES. Solicite um projeto.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://solustecnologia.com/"
    }
   ],
   "proof_gaps": [
@@ -111,5 +120,30 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:42:30Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "contato@solustecnologia.com"
+  ],
+  "phones": [
+   "002 (27) 99910-3002"
+  ],
+  "social": [
+   "http://facebook.com/solusaracruz",
+   "https://wa.me/5527999103002?text=Ol%C3%A1%21%20Vim%20pelo%20site%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es.%20%5Bsolustecnologia.com%5D",
+   "https://www.instagram.com/solustecnologia/",
+   "https://www.linkedin.com/company/solustecnologia"
+  ],
+  "models_on_site": [],
+  "url": "https://solustecnologia.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

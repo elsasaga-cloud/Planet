@@ -123,7 +123,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（unreachable）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（stordis.com：域名不可达（DNS/连接失败），2026-10-21，第 1 次）
 - **是谁**：德国 STORDIS（开放网络/白盒交换机分销商，英国有分公司；表内「AC5 芯片交换机很多，高速」；KP Tomasz Sadowski（Technical）、Mariusz Ślęzak；官网 unreachable）；群发 6 次无回复。
 - **类型**：开放网络分销商（德国/英国，Marvell AC5 平台）
 - **【用户表】表内兴趣/备注**
@@ -135,7 +135,8 @@ updated: 2026-10-29
 - **KP**：Tomasz Sadowski（Technical（研究档）= 技术收件人（第 104 批 官方登记核实 2026-10-28））tomasz.sadowski@stordis.com 〔用户表〕
 - **KP**：Mariusz Ślęzak（研究档 KP（职务未核）（第 104 批 官方登记核实 2026-10-28））mariusz.szlezak@stordis.com 〔用户表〕
 - **KP**：Waldemar Scheck（Geschäftsführer（单独代表；Stuttgart HRB 724261 在册）= 拍板人（经 info@ 转）（第 104 批 官方登记核实 2026-10-28）） 〔https://stordis.com/legal-notice-impressum/〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

@@ -11,7 +11,9 @@
   "Deister Electronic",
   "Virdi",
   "CDVI",
-  "Minor（排队系统）"
+  "Minor（排队系统）",
+  "Cisco",
+  "Hikvision"
  ],
  "evidence": [
   {
@@ -67,11 +69,12 @@
  ],
  "grade_override": "A",
  "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
- "notes": "WA 维持；有项目时报 STC-424DGGPM-280W（项目 25%）。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\nWA 维持；有项目时报 STC-424DGGPM-280W（项目 25%）。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Euro Technology（eurotechnology.ae / .net；Paradox / CAME / Deister 授权经销；另列 迪拜 Abu Hail-Deira 总部 + 孟买；牌照号 1 查未得）",
@@ -162,6 +165,14 @@
     "quote": "38usd/pc STI-154GP… -40℃ to 75℃, Din mounted, Without SFP Transceiver, Without Power Supply",
     "why": "报价后停",
     "k": "71f84f290da90e77"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "IT Solutions Dubai UAE | Wildix & Sangoma Partner | NetOn Technologies LLC — NetOn Technologies LLC — trusted IT company in Dubai since 2009. Authorized Wildix and Sangoma partner in UAE. IT infrastructure, AI telephony, cloud computing, cybersecurity, structured cabling and telecom solutions across",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.netontechnologies.com/"
    }
   ],
   "proof_gaps": [],
@@ -180,5 +191,32 @@
    "prev_reason": "41 次跟进仅 4 次'要资料'式回复，无询价；中东非主攻区；客户群含军方/政府（守界）→ 慢跟，只做商业/银行/医疗项目。",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）"
   }
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:21:39Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@netontechnologies.com"
+  ],
+  "phones": [
+   "+44 (0) 204 602 3181",
+   "+971 4 439 5754",
+   "+971 4 542 3229"
+  ],
+  "social": [
+   "https://wa.me/97145423229",
+   "https://www.facebook.com/netonuae/",
+   "https://www.instagram.com/neton_technologies",
+   "https://www.linkedin.com/company/neton-technologies-llc"
+  ],
+  "models_on_site": [],
+  "url": "https://www.netontechnologies.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

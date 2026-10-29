@@ -61,6 +61,7 @@ updated: 2026-10-29
 | 2024-10-24 | 来 | Jeff | Customers usually want one or the other and not a combo We sell desktop and rack for both | 24V/48V 组合款被否 | `c935ae4f928d5620` |
 | 2024-10-30 | 去 | Simon | Its actually a selling point(auto voltage output) | Saga 坚持 | `d86526863f22737d` |
 | 2024-12-28 | 来 | 用户表（Simon 跟进记录；渠道 Email） | 用户表跟进：推「发了工业电源价格册」→ 对方「will check 问了网站 后续发了2光4小壳」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A/DONE/UK.xlsx no.56 2024.12.28` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Parallax Digital – Digital products and services | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -162,7 +163,7 @@ updated: 2026-10-29
 - **是谁**：英国诺森伯兰的微型 OEM/ODM 技术公司（2016 年注册，申报雇员 1 人，营业额 <£1M），自有品牌网络设备/数显/视频处理产品，交换产品已用于伦敦等城市高层住宅的消防探测网络（多家市政与住房协会）；代理 Riden 电源、Weipu 连接器。用户表：2 次实质回复，兴趣工业 FS，已有 E-link 5 电口。
 - **类型**：微型 OEM/ODM 品牌商（自有品牌网络设备）
 - **规模**：1 人申报 / <£1M（Endole）
-- **在卖/在用品牌**：E-link, Riden, Weipu
+- **在卖/在用品牌**：E-link, Riden, Weipu, Cisco
 - **【官网】自有品牌 OEM/ODM 网络设备，交换产品已部署于英国高层住宅消防探测网络**
   > the Company has created and developed its own brand of digital products and services, incorporating a hybrid OEM/ODM model, including computer networking equipment … Our network designs and switching products have been in service in tower blocks in London and other cities, providing critical, secure, fault-tolerant infrastructure solutions for fire detection systems
   > 来源：https://parallaxdigital.co.uk/about-us/（抓取 2026-10-21）
@@ -182,9 +183,10 @@ updated: 2026-10-29
   > we also have probably the largest stock of managed and unmanaged network switches (PoE and non-PoE) in the UK … Our network designs and switching products have been in service in tower blocks in London and other cities … for fire detection systems
   > 来源：https://parallaxdigital.co.uk/about-us/（抓取 2026-10-21）
 - **KP**：Jeffrey Allan Ferrier（Founder / 唯一董事（Companies House 10314407，2016-08-05 起；1965 年生）（第 82 批 Companies House 核实 2026-10-27））jeff.ferrier@parallaxdigital.co.uk（本人来信地址 2024-06 / 2024-10）；sales@parallaxdigital.co.uk +44 1670 202001〔https://open.endole.co.uk/insight/company/10314407-parallax-digital-technologies-limited；S 邮箱来信表头〕
-- 备注：A 维持但体量极小（1 人公司）：有真实装机场景（消防探测网络用工业交换机）+ 2 次实质回复 + 已在买中国 E-link；适合 Saga 的小批量多批次模式。P1 = STI-244GP/288GP 非管理工业（对位 E-link 5 电口）。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+A 维持但体量极小（1 人公司）：有真实装机场景（消防探测网络用工业交换机）+ 2 次实质回复 + 已在买中国 E-link；适合 Saga 的小批量多批次模式。P1 = STI-244GP/288GP 非管理工业（对位 E-link 5 电口）。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1）
+### 加厚挖掘（2026-10-21 · 深挖 v1 + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

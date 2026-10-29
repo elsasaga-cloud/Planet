@@ -40,11 +40,12 @@
  ],
  "grade_override": "B",
  "override_reason": "已有一笔极小的平台零售单（3 件配件）但后续 0 回复/5 次推送；微型安装商，复购天花板低 → 慢跟（有成交记录故不降 C）。",
- "notes": "复购触发点：其下一个项目；一次性发'项目用 PoE 交换机 + 配件打包'单问邮件即可。待补证：公司登记（SIREN）与规模。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n复购触发点：其下一个项目；一次性发'项目用 PoE 交换机 + 配件打包'单问邮件即可。待补证：公司登记（SIREN）与规模。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照 + 表内）"
+  "level": "B 级加厚 v1（官网快照 + 表内） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "SIPE – Société Insulaire de Protection Electronique SAS（SIREN 814 329 462；SIRET 81432946200034；TVA FR39814329462；RCS Ajaccio）",
@@ -117,10 +118,37 @@
     "quote": "兴趣：3个工业PoE配件",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "SIPE Corse – Société Insulaire de Protection Electronique — Depuis 40 ans à Ajaccio au service de la sécurité des biens et des personnes Depuis 40 ans à Ajaccio au service de la sécurité des biens et des personnes Téléphone 04 95 20 95 94",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://sipe-corse.fr/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:21:15Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [],
+  "social": [
+   "https://www.instagram.com/sipe_corse",
+   "https://www.linkedin.com/company/societe-insulaire-de-protection-electronique/"
+  ],
+  "models_on_site": [],
+  "url": "https://sipe-corse.fr/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

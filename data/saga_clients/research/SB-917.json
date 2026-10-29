@@ -35,10 +35,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对）"
+  "level": "B 级加厚 v1（官网快照核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Torque Automation Systems FZE（torqsys.com；沙迦 P.O. Box 121718 + 迪拜 SZR）；KP 现属 Fuzzy Logic Equipment Trading Ltd（阿布扎比 KIZAD）；牌照号 1 查未得",
@@ -120,6 +121,14 @@
     "quote": "兴趣：做项目的 让发介绍资料；回复：read",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Fuzzy Logic Automation – SCADA & Industrial Solutions — Industrial automation experts in UAE offering SCADA, PLC, UPS, and control systems for water, sewage, and industrial plants. Trusted by 100+ clients.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.fuzzylogicautomation.com"
    }
   ],
   "proof_gaps": [
@@ -138,5 +147,26 @@
   "note": "阿联酋工业自动化集成商 Torqsys（SCADA / PLC / UPS；水与污水厂站，100+ 客户）：工业线对位 ✔ 做项目 → 留 B",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 Elsa 群））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": []
+ "override_history": [],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:25:02Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "accounts@fuzzylogicautomation.com",
+   "projects@fuzzylogicautomation.com"
+  ],
+  "phones": [
+   "+971 545851777"
+  ],
+  "social": [],
+  "models_on_site": [],
+  "url": "https://www.fuzzylogicautomation.com",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

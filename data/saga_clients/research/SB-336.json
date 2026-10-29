@@ -49,10 +49,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：deep。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（快照空页 + 表内：设备厂商 OEM）"
+  "level": "B 级加厚 v1（快照空页 + 表内：设备厂商 OEM） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "(주)인터코엑스 INTERCOAX Co., Ltd.（사업자등록번호 140-81-85228；경기도 안양시 동안구 학의로 250；17 人；자본금 6억；매출 2025 11.3억원）",
@@ -142,5 +143,12 @@
    "body": "Hi Byron,\n\nOver the past months you had a steady stream of product mails from us - most recently \"16 Port Industrial PoE Switch\" on 17 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nYou bought samples from us before and asked about a 2 x SFP + 2 x Gigabit uplink + 8 x PoE unit. Exactly that layout exists unmanaged: 8 x Gigabit PoE+ + 2 x Gigabit + 2 x SFP - model STC-228GP - $35.9 USD EXW with the INTERCOAX label (MOQ 1, 15-day validity). The managed version is 8 x Gigabit PoE+ + 2 x SFP, L2+ on a Marvell platform - STC-28DGGPM - $87.4 - two uplinks, not four, said up front. CE/RoHS; KC stays on your side.\n\nOne question: which one matches the EoC kits you ship - the unmanaged 2 + 2 + 8, or managed?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:39:35Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
  }
 }

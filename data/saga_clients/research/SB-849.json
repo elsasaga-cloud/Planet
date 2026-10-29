@@ -47,10 +47,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "俄罗斯",
@@ -124,10 +125,51 @@
     "quote": "MC 似乎是自己的牌子 switch 电源等",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "ССД - Разработка и производство материалов для строительства и ремонта линий связи — Компания СВЯЗЬСТРОЙДЕТАЛЬ - разрабатываем и производим высокотехнологичные решения для строительства и ремонта линий связи и энергетики. Выгодные условия сотрудничества для юр. лиц и ИП. Оптовые поставки оборудовани",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://ssd.ru/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:48:49Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "ekb@ssd.ru",
+   "krasnodar@ssd.ru",
+   "mail@ssd.ru",
+   "nn@ssd.ru",
+   "novosib@ssd.ru"
+  ],
+  "phones": [
+   "+7 (343) 302-54-34",
+   "+7 (383) 312-04-34",
+   "+7 (495) 786"
+  ],
+  "social": [
+   "https://t.me/ssdtyt",
+   "https://vk.com/svyazstroidetal",
+   "https://www.youtube.com/channel/UC5mTdDW5pkq3QgBiewbZ9QA",
+   "https://yandex.com/maps/-/CLfkbX8Y"
+  ],
+  "models_on_site": [
+   "RAL9005"
+  ],
+  "url": "https://ssd.ru/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

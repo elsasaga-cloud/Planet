@@ -38,10 +38,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对 + 表内）"
+  "level": "B 级加厚 v1（官网快照核对 + 表内） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Welotec GmbH — a Westermo Company（AG Steinfurt HRB 3363；USt DE121631449；Stammkapital €67,000）",
@@ -124,6 +125,14 @@
     "quote": "16 Port Industrial PoE Switch",
     "why": "本日去信真实主题（邮箱索引 bc488c3b5cdd48d8；信稿开头句引用此封；此前稿内写的「10G Enterprise SFP Switch」是线程列表首题，不是本封）",
     "k": "bc488c3b5cdd48d8"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Substation Computing & Networking Solutions | Welotec — Rugged computing and networking for digital substations. IEC 61850-3 certified servers, switches and routers for protection, automation, SCADA and vPAC deployments.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://welotec.com/en-us"
    }
   ],
   "proof_gaps": [],
@@ -132,5 +141,37 @@
    "body": "Hi Jos,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 22 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nOutside the IEC 61850-3 line - for the compact Welotec-branded industrial switches used in ordinary cabinets - under your label from small lots, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $85.5 USD EXW (MOQ 1, 15-day validity); mini 5 x Gigabit unmanaged, 12-36 V DC - STI-050GE - $18.5; 8 x Gigabit + 2 x SFP unmanaged - STI-280GE - $46. No substation claims - these are standard industrial units.\n\nOne question: which housing size do you want to standardise on for the compact range - the 5-port mini or the 8 + 2?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:39:59Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@welotec.com"
+  ],
+  "phones": [],
+  "social": [
+   "https://www.facebook.com/Welotec",
+   "https://www.instagram.com/welotec/",
+   "https://www.instagram.com/welotec_atwork/",
+   "https://www.linkedin.com/company/welotec-gmbh/"
+  ],
+  "models_on_site": [
+   "IEC61850",
+   "EG500",
+   "RJ-45",
+   "RS232",
+   "RB-FT3G-MV",
+   "F4G-T8G-LV",
+   "F24G-T4G-HVHV",
+   "EG600"
+  ],
+  "url": "https://welotec.com/en-us",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

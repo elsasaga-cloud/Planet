@@ -68,6 +68,7 @@ updated: 2026-10-29
 | 2026-09-18 | 去 | A/S 群发 | Industrial PoE Switch、8 Port Industrial PoE Switch | 37 封 / 1 次打开 / 0 回｜首封 2024-06-19 → 末封 2026-09-18（37 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | Utepo；网站：主要是商业POE switch；主要是CCTV 商业PoE Utepo的 | 表内备注 | `用户表` |
 | 2026-09-18 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 ad639c1da9f684ca；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `ad639c1da9f684ca` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Home Page - WatchNET inc - CCTV, Access Control and NVRs — WatchNET provides cutting-edge surveillance systems including CCTV, NVRs, and access control system for reliable, scalable security throughout North America. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -194,9 +195,10 @@ updated: 2026-10-29
 - **KP**：Harish Babu Vettukuzhiyil（Vice President, Sales & Marketing（2022–；ZoomInfo / contactout）= 销售副总（抄送）—— **公司在加拿大安省 Markham，用户表国别 US 误 → country_fix 加拿大**；自有品牌产品线含「Network Switches」= **现成 OEM 品牌商** → 换写采购物流经理 Karthikeyan R（抄 Harish），只给 OEM 30% 两款（8 口 PoE / 24 口 PoE+2SFP 贴 WatchNET 标）（第 92 批 官方登记核实 2026-10-28））harish@watchnetinc.com 〔用户表〕
 - **KP**：Junaize E（） 〔用户表〕
 - **KP**：Karthikeyan R（Procurement & Logistics Manager（contactout / signalhire）= **采购口 = 本轮首选收件人**（邮箱格式待推，first@watchnetinc.com）（第 92 批 官方登记核实 2026-10-28）） 〔https://contactout.com/company/watchnet-inc-5690〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

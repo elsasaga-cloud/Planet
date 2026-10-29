@@ -126,7 +126,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（http_error）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（silmarelectronics.com：HTTP 错误，2026-10-21，第 1 次）
 - **是谁**：美国 Silmar Electronics（迈阿密安防分销商：「CCTV 相关的都卖，PoE 分销」；仅 marketing@；官网 http_error）；表内未跟进。
 - **类型**：安防分销商（美国，PoE 分销）
 - **【用户表】表内兴趣/备注**
@@ -136,7 +136,8 @@ updated: 2026-10-29
   > CCTV相关的都卖 POE分销
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Jorge E. Smith（President & CEO（二代；FL 注册代理）= 拍板人；收件人改 purchasing / vendor 入口（第 103 批 官方登记核实 2026-10-28）） 〔https://search.sunbiz.org/Inquiry/CorporationSearch/ByName〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

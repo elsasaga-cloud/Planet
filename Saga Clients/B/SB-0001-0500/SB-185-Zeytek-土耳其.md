@@ -57,6 +57,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 没做过多交谈，要了名片和彩页 / 9053566 23548 已加 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | ZEYTEK BİLİŞİM VE TEKNOLOJİ ÜRÜNLERİ — 15 yıllık sektör tecrübesi ve bilgi birikimi ile kurulan şirketimiz, endüstriyel tesisler, hükümet binaları, hastahaneler, bankalar, zincir mağazalar, çok katlı binalar vb. yapılarda ihtiyaç olan, zayıf akıma yönelik yapısal kablolama, sistem odası ve altyapı s | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库
 
@@ -130,9 +131,10 @@ updated: 2026-10-29
   > 没做过多交谈，要了名片和彩页 / 9053566 23548 已加
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Mehmet Zeytinli（Genel Koordinatör（2019 创立起；公司名 Zeytek = Zeytinli + Teknoloji）= **老板 = 联系人**（Ltd. Şti. 股东付费未取）；5 人布线材料供应商（总协调 + 销售助理 Kamuran İpek + 记账 Sinem Doğan）（第 88 批 官方登记核实 2026-10-27））mehmet@zeytek.com.tr（用户表） +90 535 662 35 48（用户表，WhatsApp 已加）〔https://www.zoominfo.com/p/Mehmet-Zeytinli/-1518915670〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

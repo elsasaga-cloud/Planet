@@ -37,10 +37,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照：台系工控 OEM）"
+  "level": "B 级加厚 v1（官网快照：台系工控 OEM） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Winsonic Electronics Co., Ltd.（統一編號 1 查未得 → 未坐實；命中 伍仕電子 27966146 / 文聲電子 04348572 均不對應）",
@@ -123,6 +124,14 @@
     "quote": "Hi, Rex, How are you? I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Multiple models(10G~800G) available for various network scales 3, Full L3 features(VXLAN, EVPN, MPLS, Stacking etc.) suitable for core and aggregation l…",
     "why": "Saga 实质答复原文（主题「Re: Booster PoE Switch」；第 20 批从 gmail_a 回补）——承诺/口径以此为准",
     "k": "83397972ba8367d6"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Industrial Panel PC, Fanless Box PC, LCD monitor - Winsonic — Industrial all in one PC touch screen monitors, Panel PC, Rugged Computing & Display, Industrial Display, Embedded Computing Solution provider and Manufacturer, IP66 stainless monitors, Open Frame, Chassis, Rack Mount, Panel Mount, Box PC",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://ewinsonic.com/"
    }
   ],
   "proof_gaps": [],
@@ -131,5 +140,38 @@
    "body": "Hi, Rex,\n\nYour November request for spec and prices — here is the concrete answer:\n\n- STI-488XGGBPM: 8x GbE PoE + 4x 1G/2.5G/10G SFP+, L2+ managed, internal power booster — $215 USD EXW in OEM lots (2026-10 price table, valid 15 days from this mail)\n- Platforms we build on: Marvell AC5 (managed) and Realtek (entry); no Qualcomm/MTK.\n- OEM: logo, model name, GUI, packaging from 50 pcs.\n\nOne question: is the booster-PoE managed unit for your own catalogue, or a project where I should quote a specific quantity?\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:23:07Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@ewinsonic.com"
+  ],
+  "phones": [
+   "0002-208423 10",
+   "0003-208423 10",
+   "0005-008423"
+  ],
+  "social": [
+   "https://www.linkedin.com/company/winsonic-electronic/about/"
+  ],
+  "models_on_site": [
+   "EN50155",
+   "NE2204-440",
+   "NE2201-140",
+   "RS485",
+   "RS232",
+   "RS422",
+   "CB0M0-005",
+   "CB0M0-010"
+  ],
+  "url": "https://ewinsonic.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

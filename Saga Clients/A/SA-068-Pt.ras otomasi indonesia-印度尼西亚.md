@@ -62,6 +62,7 @@ updated: 2026-10-29
 | 2024-08-13 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「4 8口工业FS」→ 对方「yes」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/Whatsapp_S跟进 2026.08.04.xlsx no.10 2024.8.13` |
 | 2024-09-26 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「2.5G ethernet」→ 对方「yes」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/Whatsapp_S跟进 2026.08.04.xlsx no.10 926` |
 | 2024-10-22 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「电口」→ 对方「price」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/Whatsapp_S跟进 2026.08.04.xlsx no.10 1022` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | PT. RAS Otomasi Indonesia - Solusi Otomasi Industri & MEP Terdepan — PT. RAS Otomasi Indonesia menyediakan solusi otomasi industri, MEP, infrastruktur IT/Telco, security system, dan sistem integrasi untuk meningkatkan efisiensi bisnis Anda. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文
 
@@ -140,9 +141,10 @@ updated: 2026-10-29
   > Update : 11 November 2025 … RAS Otomasi Indonesia | Tangerang | sudarso@ras-otomasi.id
   > 来源：https://trimaxindo.co.id/local-partners/（抓取 2025-11-13）
 - **KP**：Sudarso（姓氏/职务未公开）（Trimaxindo 本地伙伴名录联系人）sudarso@ras-otomasi.id +62 21 2784-6419（公司）〔https://trimaxindo.co.id/local-partners/〕
-- 备注：6 次回复 + WA + 工业 DIN PoE 项目需求 = 对位 STI 工业线的典型集成商。印尼非主攻区但无需额外投入。P1：STI-288DGGPM（DIN 导轨 8 电 2 光管理 PoE），项目价阶 25%；SCADA 场景可加 ERPS 环网机型。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+6 次回复 + WA + 工业 DIN PoE 项目需求 = 对位 STI 工业线的典型集成商。印尼非主攻区但无需额外投入。P1：STI-288DGGPM（DIN 导轨 8 电 2 光管理 PoE），项目价阶 25%；SCADA 场景可加 ERPS 环网机型。
 
-### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + 伙伴名录核对））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + 伙伴名录核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

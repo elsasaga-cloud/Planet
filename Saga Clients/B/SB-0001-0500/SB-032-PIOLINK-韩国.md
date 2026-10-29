@@ -61,6 +61,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2025-02-18 | 来 | Jayden（PIOLINK） | Could we talk via WeChat? My WeChat account is "jayden092" | 渠道请求 | `ba64fb062e5e9604` |
 | 2025-02-18 | 去 | Alan | Our products are Marvell chipset based. Is this fine with you?… Please see attached info from GPT | 以筛子回应 | `1048e9cbd52c2199` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | PIOLINK - Optimizing Your Cloud Data Center — PIOLINK is a professional in cloud data center optimization and provides products, service, and solutions for various IT infrastructure demands. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -149,9 +150,10 @@ updated: 2026-10-29
 - **KP**：Tae Gu Lee (Jayden)（GM, Piolink, Inc.（KOSDAQ 170790；119-81-41089；414 人）— 同行上市交換機廠；ODM / 代工線僅經 Simon 微信直聯，不進群發（第 116 批 官方登记核实 2026-10-28））gooleebiz@gmail.com +82 10 4301 9595〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：조영철 Cho Young-chul（대표이사（bizno + 官網；上市公司代表）— 不發（第 116 批 官方登记核实 2026-10-28）） 〔https://www.piolink.com/kr/company/Company-Overview.php〕
 - **调研后定级**：B（原自动 A）——品牌厂商、需求为芯片级（Realtek 高端芯片），Saga 是整机贸易商不供芯片；韩国非主攻区；1 次回复后 23 次推送无果。仅保留'HRUI Realtek 方案整机 ODM'一条可能 → B。
-- 备注：若重启，只提 HRUI（Realtek 平台）整机 ODM 能力，不谈芯片供货。待补证：公司规模（上市信息）。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+若重启，只提 HRUI（Realtek 平台）整机 ODM 能力，不谈芯片供货。待补证：公司规模（上市信息）。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照：同行 ODM））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照：同行 ODM） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

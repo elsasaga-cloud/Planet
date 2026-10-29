@@ -54,6 +54,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-04 | 去 | A/S 群发 | Industrial PoE Switch、16 Port Ethernet Switch | 26 封 / 2 次打开 / 0 回｜首封 2024-07-20 → 末封 2026-09-04（26 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 主要是Wago的 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Electronic Supply Products \| Electronic Components Canada - Ko-Hen Electronics Supply Ltd. — We’re at Ko-Hen are independent electronics parts and components supplier in Canada with 40+ years of experience servicing the Oil and Gas Industry, Automation and Controls, and Computer Networking infrastru | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -143,9 +144,10 @@ updated: 2026-10-29
   > 主要是Wago的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Brent Koziol（业主 / 经营者（1998 加入，父 Joe 退休后接班；与妻 Nonette 共同持有；Red Deer 1977 老店）= **老板 = 联系人**（sales@kohen.ca 转）→ STI 工业 DIN PoE 分销 20%（第 90 批 官方登记核实 2026-10-27）） 〔https://www.kohen.ca/〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

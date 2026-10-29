@@ -57,6 +57,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-08-19 | 去 | A/S 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 27 封 / 1 次打开 / 0 回｜首封 2024-07-08 → 末封 2026-08-19（27 去 / 0 来） | `gmail_digest` |
 | 2026-08-19 | 去 | A 箱（Alan） | 24 Port PoE Managed Switch | 本日去信真实主题（邮箱索引 87a2783b6d70963b；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `87a2783b6d70963b` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Telcam Fire & Security — Fire alarms, CCTV, intruder alarms and 24/7 aftercare from Telcam Fire & Security. Open 24 hours, 365 days a year. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -161,9 +162,10 @@ updated: 2026-10-29
 - **KP**：（见 Clients 表联系人）（） 〔用户 Clients 表〕
 - **KP**：John Dhunay（Director（2020-01-02 起；1969-05 生；Companies House 12383574；唯一在任 —— Rajinder Singh Dhunay 2026-02-23 辞任）= 老板（第 93 批 官方登记核实 2026-10-28）） 〔https://find-and-update.company-information.service.gov.uk/company/12383574/officers〕
 - **调研后定级**：B（原自动 A）——英国主攻区 + OEM 意向本应 A，但展后 17 次推送 0 回复（耳聋）→ 降 B 慢跟；若恢复回复立即升回 A。
-- 备注：重启角度：直接回答其当年问题——'可提供远程技术培训 + 英文手册 + UKCA/CE 文件 + 中性包装'，附 STC-28DGGPM/STC-424DGGPM-280W OEM 价（30%）。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+重启角度：直接回答其当年问题——'可提供远程技术培训 + 英文手册 + UKCA/CE 文件 + 中性包装'，附 STC-28DGGPM/STC-424DGGPM-280W OEM 价（30%）。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + Companies House 核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + Companies House 核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

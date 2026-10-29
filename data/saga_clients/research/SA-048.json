@@ -11,7 +11,12 @@
   "Huawei eKit",
   "Dahua",
   "Legrand",
-  "OTS（用户记录：工业FS在用）"
+  "OTS（用户记录：工业FS在用）",
+  "TP-Link",
+  "Huawei",
+  "Cisco",
+  "Juniper",
+  "Aruba"
  ],
  "evidence": [
   {
@@ -82,11 +87,12 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "有 1 次实质回复；工业 FS 在用 OTS（用户记录）。集成+电商双身份、且做自有品牌 → 可谈 OEM 贴牌或平台铺货。中东非主攻区但客户规模与贴牌意愿值得长期跟。P1 建议 STI-288DGGPM（工业 PoE 对位 OTS），电商/分销价阶 20%；若走自有品牌 30%。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n有 1 次实质回复；工业 FS 在用 OTS（用户记录）。集成+电商双身份、且做自有品牌 → 可谈 OEM 贴牌或平台铺货。中东非主攻区但客户规模与贴牌意愿值得长期跟。P1 建议 STI-288DGGPM（工业 PoE 对位 OTS），电商/分销价阶 20%；若走自有品牌 30%。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v2（官网 + LinkedIn + 关联公司核对）"
+  "level": "深挖 v2（官网 + LinkedIn + 关联公司核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "Al Rajhi Telecom Company（Al Rajhi Building & Construction 子公司）；关联 Silkroad Business Solutions Company（2005 电信承包商，ekhalas.com 运营方）",
@@ -308,6 +314,14 @@
     "quote": "16 Port Industrial PoE Switch",
     "why": "最近一封去信（邮箱索引；去信共 26 封）",
     "k": "5a95d0e149d90de0"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Best online Shopping in Saudi Arabia, Riyadh KSA — Best online Shopping in Saudi Arabia| Wide Range of Categories Networking-Computing-UPS&Inverter-Satellite-Safety Security-Low Current Cables",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.ekhalas.com/"
    }
   ],
   "proof_gaps": [
@@ -318,5 +332,37 @@
    "body": "Hi, Inam,\n\nIn October 2024 you asked for a sample of the 4-port industrial PoE (STI-154GP) and we answered with the 36 USD price and the paid-sample rule. Nothing since, and our later mails went to a general mailbox, so this is the first one addressed to you.\n\nCurrent price: STI-154GP — $39.2 USD EXW (2026-10 price table, valid 15 days from this mail; up from the 36 USD you had because the RMB/USD rate moved from 7.2 to 6.7); samples are paid, credited against the first order.\n\nOne question: is a 4-port industrial PoE still relevant for a current site, or has the need moved to 8/16 ports?\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:27Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "hiba@buinetech.com",
+   "info@ekhalas.com",
+   "samreenhassansamreen@gmail.com",
+   "syedakberquadri@gmail.com"
+  ],
+  "phones": [
+   "+966530357111"
+  ],
+  "social": [],
+  "models_on_site": [
+   "AC1200",
+   "S220S-8P4JX",
+   "LGS116P",
+   "AC1900",
+   "MS110GMP",
+   "MS110CMP",
+   "MS118CP",
+   "AX1500"
+  ],
+  "url": "https://www.ekhalas.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

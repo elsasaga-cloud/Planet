@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2025-02-24 | 去 | Elsa 1:1 去信（To Sales@kti.de, CHelming@kti.de, PKaiser@kti.de） | 16 Port PoE Managed Switch — Marvell-based 16 PoE L2+ managed, 2×1G/2.5G/10G fiber + 16×1G RJ45/PoE, PoE management, alarm output, customizable Web GUI（稿内无价，第 74 批(p) 已读稿） | Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，无称呼；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封 | `elsa_1to1` |
 | 2026-09-23 | 去 | A 群发 | 10G Enterprise SFP Switch、Marvell Software Function List | 16 封 / 1 次打开 / 0 回｜首封 2025-04-11 → 末封 2026-09-23（16 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 分销 有自己的牌子 也有别人的 POE MC 工业FS SFP | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Ihr Partner für aktive Netzwerktechnik - KTI Distribution GmbH — Willkommen bei der KTI Distribution GmbH in Bielefeld – Ihr Partner für Netzwerkgeräte, Switches, Medienkonverter und mehr. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -142,9 +143,10 @@ updated: 2026-10-29
   > 分销 有自己的牌子 也有别人的；POE MC 工业FS SFP；质量高
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Paul Kaiser（Management（kti.de 团队页；Kaiser 家族二代；GF 为 Peter Kaiser，AG Bielefeld HRB 35444）= 联系人 —— **守界：KTI Distribution = 台湾 Katron Technologies（KTI Networks，1983）在 DACH 的独家进口 + 品牌代理（captive 分销，25 年单一货源）→ 研究档「自己的牌子」实为 Katron 的牌子 → B 不动**；唯一缝隙：Katron 缺的口型（2.5G PoE / 高瓦 BT）可一句话问（第 92 批 官方登记核实 2026-10-28））pkaiser@kti.de 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

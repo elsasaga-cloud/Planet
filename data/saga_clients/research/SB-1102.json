@@ -13,7 +13,8 @@
   "Cisco",
   "Ubiquiti",
   "MikroTik",
-  "Grandstream"
+  "Grandstream",
+  "Siemens"
  ],
  "evidence": [
   {
@@ -55,10 +56,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照品牌识别：已售 HRUI）"
+  "level": "B 级加厚 v1（官网快照品牌识别：已售 HRUI） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "CÔNG TY TNHH VIỄN THÔNG GIÁ TỐT / GOOD PRICE TELECOMMUNICATIONS CO., LTD（MST 0109246393；Công ty TNHH 2 thành viên；Đang hoạt động）",
@@ -167,6 +169,14 @@
     "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
     "why": "Elsa 箱群发 BCC 触达证据（命中地址 vienthonggiatotvn@gmail.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
     "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "VIỄN THÔNG GIÁ TỐT — Viễn thông giá tốt chuyên cung cấp thiết bị mạng, thiết bị camera và dịch vụ thi công mạng hàng đầu Việt Nam",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://vienthonggiatot.com/"
    }
   ],
   "proof_gaps": [],
@@ -182,5 +192,33 @@
   "note": "越南网络设备电商 + 弱电施工（站内按品牌卖 Switch / PoE，含洪瑞）：问价 1 次 → 进口中国同类 ✔ 对位 ✔ → 留 B",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 1，WA —，展会 —，绑定 轻度触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": []
+ "override_history": [],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:36:56Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [],
+  "social": [
+   "https://www.facebook.com/VI%E1%BB%84N-TH%C3%94NG-GI%C3%81-T%E1%BB%90T-112789490186637/?modal=admin_todo_tour",
+   "https://www.facebook.com/facebook"
+  ],
+  "models_on_site": [
+   "QSFP28",
+   "GS-4210-48T4S",
+   "GS-4210-16T2S",
+   "T1600G-28TS",
+   "TL-SG2424",
+   "FNSW-1600P",
+   "HR900-AF-82N",
+   "HR901-AF-1621GS"
+  ],
+  "url": "https://vienthonggiatot.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

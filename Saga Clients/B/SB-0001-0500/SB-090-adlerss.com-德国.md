@@ -120,7 +120,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（http_error）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（adlerss.com：HTTP 错误，2026-10-21，第 1 次）
 - **是谁**：德国 Adler SS（adlerss.com；表内「ONV 的工业 FS / 有 ONV 的」；KP Zain Ullah（Operations Engineer）；官网 http_error，业务范围待核）；表内 3 次跟进无回复。
 - **类型**：安防/网络安装商（德国，工业 FS 现 ONV）
 - **在卖/在用品牌**：ONV
@@ -131,7 +131,8 @@ updated: 2026-10-29
   > ONV的工业FS / 有ONV的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Zain (Sana) Ullah（Operations Engineer（signalhire）= 技术口（非采购）→ 技术切入：宽温 / PoE 预算 / SFP 兼容（第 93 批 官方登记核实 2026-10-28））zain@adlerss.com 〔用户表〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

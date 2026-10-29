@@ -57,11 +57,12 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "土耳其在主攻区；在售 MLB 工业交换机（国产白牌路线），与 STI 工业线正面对位。仅 2 次推送、Berk 曾回复（用户记录），不算耳聋。军工项目字样 → 守界：只谈自动化/商用项目。P1：STI-288DGGPM（替代 MLB 可管理 DIN 机型），分销价阶 20%。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n土耳其在主攻区；在售 MLB 工业交换机（国产白牌路线），与 STI 工业线正面对位。仅 2 次推送、Berk 曾回复（用户记录），不算耳聋。军工项目字样 → 守界：只谈自动化/商用项目。P1：STI-288DGGPM（替代 MLB 可管理 DIN 机型），分销价阶 20%。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v1"
+  "level": "深挖 v1 + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "BOSGEM OTOMASYON …（İstanbul Maltepe，2010；品牌 IoT Sistem / BOSGEM；法定全称待补）",
@@ -381,6 +382,14 @@
     "quote": "Let me quote in RMB: 1100RMB/PC, excluding optical module or power supply. Maybe it is easier if you have a payment agent in China",
     "why": "最后一次报价（RMB）",
     "k": "48f91a073d0f4e97"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "IoT Sistem | IoT Sistemleri Uzman Çözüm Ortağınız | Usr IoT Türkiye — IoT Sistem otomasyon ürünleri ile uygun fiyatları ile IoT ürünleri satış ve pazarlamasını gerçekleştirmektedir. Usr iot Türkiye resmi distribütörü Bosgem.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://iotsistem.com/"
    }
   ],
   "proof_gaps": [
@@ -391,5 +400,36 @@
    "body": "Hi Berk,\n\nThanks for coming back. Straight answer, so you do not have to chase me again: the Marvell-based managed units are priced where you saw them - that line does not move, and for projects where the end customer always picks the cheapest 10/100 unit it is the wrong line, you were right about that.\n\nWhat I can do for those projects is a separate budget line: DIN-rail 10/100 copper + SC fibre, unmanaged, wide DC input, at a fraction of the managed price. If you want it, give me the exact port count (8, 16 or 24 copper), fibre type (multimode 2 km or single-mode 20 km) and whether PoE is still required, and I quote that line in one mail - no catalogue.\n\nOne question: is PoE still required, or is it plain 10/100 + fibre now?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:27Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@iotsistem.com"
+  ],
+  "phones": [],
+  "social": [
+   "https://www.facebook.com",
+   "https://www.instagram.com",
+   "https://www.twitter.com"
+  ],
+  "models_on_site": [
+   "MLB-E4204-28-F",
+   "MLB-E4204-28-G-F",
+   "CDMA2000",
+   "E4202-10-GF",
+   "USR-GM3",
+   "USR-GPRS232-734",
+   "MLB-E4104-5-P-F",
+   "USR-TCP232-306"
+  ],
+  "url": "https://iotsistem.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

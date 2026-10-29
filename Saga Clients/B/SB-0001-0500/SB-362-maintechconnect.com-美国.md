@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2026-08-28 | 去 | A/S 群发 | Managed Optical Bypass Switch、10G Enterprise SFP Switch | 29 封 / 0 次打开 / 0 回｜首封 2024-06-17 → 末封 2026-08-28（29 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 看着像是深圳公司的外壳 自己的logo/型号 产品较少 | 表内备注 | `用户表` |
 | 2026-08-28 | 去 | A 箱（Alan） | 24 Port PoE Managed Switch | 本日去信真实主题（邮箱索引 9f91c2b8a60a05bb；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封） | `9f91c2b8a60a05bb` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Main Tech Connect – Maintechconnect.com — Main Tech Connect is your one-stop-shop for computer and networking accessories, audio and video products, TV mounts, barcode scanners, and networking switches and a vast selection of PoE Power over Ethernet products. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -153,9 +154,10 @@ updated: 2026-10-29
   > 看着像是深圳公司的外壳 自己的logo/型号 产品较少
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Jeramie Cavanaugh（Chief Technology Officer（ZoomInfo）= 推定合伙人 / 选品人 = 联系人 —— 网店型自有型号卖家（PoE 是主类目，首页挂工业 8 口 PoE+ L2+ 管理 2SFP）→ **OEM 30%：按他现有型号一对一替代报价**（工业 8 口 PoE+2SFP 管理 = STI-288DGGPM 档），MOQ 1 箱；第二封只放「他家型号 vs 我们型号 + 价差」对照表（第 92 批 官方登记核实 2026-10-28）） 〔https://www.zoominfo.com/c/main-tech-connect/1275453111〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

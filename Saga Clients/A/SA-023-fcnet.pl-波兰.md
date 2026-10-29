@@ -161,7 +161,8 @@ updated: 2026-10-29
   > 来源：https://www.fcnet.pl/o-firmie（抓取 2026-10-21）
 - **KP**：—（总机）info@fcnet.pl +48 77 541 84 75〔https://www.fcnet.pl/o-firmie〕
 - **KP**：Piotr Frydel / Jarosław Cisowski / Krzysztof Smugowski / A. J. Frydel（管理委员会 4 名成员 = 4 名各 25% 股东（KRS 0001095976）；任一人可单独签 ≤100,000 PLN，超过需两人联签（第 83 批 官方登记核实 2026-10-27）） 〔https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0001095976?rejestr=P&format=json〕
-- 备注：A 确认：欧洲中型分销商 + 自有 logo 意向 + 已回复；P1 = STC-28DGGPM / STC-424DGGPM-280W 贴牌，20% 分销档（贴牌另议 30%）。
+- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+A 确认：欧洲中型分销商 + 自有 logo 意向 + 已回复；P1 = STC-28DGGPM / STC-424DGGPM-280W 贴牌，20% 分销档（贴牌另议 30%）。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
 

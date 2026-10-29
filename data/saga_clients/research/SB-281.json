@@ -49,10 +49,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "Linienstraße 1, 82041 Oberhaching",
@@ -118,6 +119,14 @@
     "quote": "1光2 商业switch / from: 阿里巴巴RFQ",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Parkleitsysteme von multiGuide — Parkleitsysteme von multiGuide fÃ¼hren Sie sicher zum Ziel",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://multiguide.com/"
    }
   ],
   "proof_gaps": [
@@ -128,5 +137,29 @@
    "body": "Hi Javier,\n\nYou asked on Alibaba for a 1-fibre + 2-copper commercial switch and did not get a proper answer from us - apologies, here it is.\n\nFor the fibre node in a parking-guidance installation we have two compact DIN-rail units, -40 to 75 C, CE/RoHS, from single units: 1 x SFP + 1 x Gigabit RJ45 (media converter), model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); 2 x SFP + 2 x Gigabit RJ45, model STI-220GE - $30.1. Both can carry the multiGuide label from small lots.\n\nOne question: how many nodes per car park, and do the sensors or displays need PoE from the switch?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:38:44Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@multiguide.com",
+   "service@multiguide.com"
+  ],
+  "phones": [
+   "+49 89 80 90 90 58-0",
+   "+49 89 80 90 90 58-9"
+  ],
+  "social": [
+   "https://www.linkedin.com/company/multiguide/"
+  ],
+  "models_on_site": [],
+  "url": "https://multiguide.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -64,11 +64,12 @@
  ],
  "grade_override": "B",
  "override_reason": "历史成交但已沉寂 13 年，塞尔维亚为非主动开发小国；成交记录使其不降 C，B 待机一次性重启。",
- "notes": "一封'老客户回访'邮件：视频光端机已被 IP 化替代 → 推 STC-28DGGPM/STI-110GE；无回应即停。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n一封'老客户回访'邮件：视频光端机已被 IP 化替代 → 推 STC-28DGGPM/STI-110GE；无回应即停。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + 名录核对）"
+  "level": "B 级加厚 v1（官网 + 名录核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "ALMAKS DOO BEOGRAD（Almaks Security Systems；МБ 06698182；ПИБ 100571552；Beograd-Vračar）",
@@ -151,10 +152,45 @@
     "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
     "why": "Elsa 箱群发 BCC 触达证据（命中地址 almaks.rs, almaks@almaks.rs）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
     "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Main home - Almaks — Almaks nudi profesionalne sisteme tehničke zaštite, video nadzor, alarmne sisteme i GPS praćenje vozila u Beogradu i Srbiji.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.almaks.rs/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:21:53Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "almaks@almaks.rs",
+   "marketing@almaks.rs"
+  ],
+  "phones": [
+   "+381 11 2852 606",
+   "+381 11 2852 607"
+  ],
+  "social": [
+   "https://www.facebook.com/Almaks-144280382426041",
+   "https://www.instagram.com/explore/locations/1019880223/almaks/",
+   "https://www.linkedin.com/company/almaks-security-systems/",
+   "https://www.youtube.com/watch?v=q908twwnzCQ"
+  ],
+  "models_on_site": [],
+  "url": "https://www.almaks.rs/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

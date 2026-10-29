@@ -68,6 +68,7 @@ updated: 2026-10-29
 | 2025-08-27 | 来 | pchurley@actelis.com | Simon, Thank you. We will keep you in mind for future projects. Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7 | 来信原文（主题「RE: [External]90W PoE Managed Switc」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `ad286e0945b31160` |
 | 2025-10-29 | 来 | Casey | Do you have a spec sheet on this unit and a user manual? | 三次索资料 | `2818350b0dbd1e1a` |
 | 2026-03-02 | 来 | pchurley@actelis.com | Thank you… Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7447 (C) 732-477-1606 (O) Technical Support - 1-866-63 | 来信原文（主题「RE: [External]Updated Ethernet Swit」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `840ce51782b3829d` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Home Page \| Actelis Networks — Actelis' hybrid-fiber networking solutions enables immediate Gigabit, fiber-grade performance from any combination of newly deployed fiber infrastructure and existing copper and coaxial lines. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -169,9 +170,10 @@ updated: 2026-10-29
 - **KP**：Michal Winkler（来信署名人（职务未在邮件署名里出现））michalw@actelis.com 〔S/A 邮箱来信 2025-01-03 来信 1 封（第 72 批从邮件表头补）〕
 - **KP**：Tuvia Barlev（Chairman & CEO（创始人；SEC 10-K）（第 86 批 官方登记核实 2026-10-27）） 〔https://www.sec.gov/Archives/edgar/data/1141284/000121390026030946/ea028228701ex99-1.htm〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A6 真回≥3+对位（任何区域）；A4 Simon 点名
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 公告核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 公告核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

@@ -49,11 +49,12 @@
    "source": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx"
   }
  ],
- "notes": "A 维持（5 次实质回复 + 总监直联 + 已卖 ONV 工业 FS）：Saga 不做电源，只接工业 FS/PoE 配套——P1 = STI-288DGGPM（48V DIN 供电与其 FARADAY 电源天然配套），25% 档；俄罗斯收款走 T/T 需提前确认通道。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\nA 维持（5 次实质回复 + 总监直联 + 已卖 ONV 工业 FS）：Saga 不做电源，只接工业 FS/PoE 配套——P1 = STI-288DGGPM（48V DIN 供电与其 FARADAY 电源天然配套），25% 档；俄罗斯收款走 T/T 需提前确认通道。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v2（官网 td-fe.ru 目录核对）"
+  "level": "深挖 v2（官网 td-fe.ru 目录核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "ООО «ТОРГОВЫЙ ДОМ «ФАРАДЕЙ ЭЛЕКТРОНИКС»（ОГРН 1167847053934 · ИНН 7820046904；СПб Шушары；2016-01-14）",
@@ -313,6 +314,14 @@
     "quote": "Thank you, but your prices are too high.",
     "why": "最后一封来信",
     "k": "7cb3dfcf81666a75"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "TH Faraday Electronics Ltd. is a professional developer and manufacturer of power supplies under trade marks FARADAY Electronics and TD-FE. — TH Faraday Electronics Ltd. is a professional developer and manufacturer of power supplies under trade marks FARADAY Electronics and TD-FE.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://td-fe.com/"
    }
   ],
   "proof_gaps": [
@@ -324,5 +333,29 @@
    "body": "Alexander, Simon here. No new catalogue - one question only. Is the 8-port L2-managed DIN PoE unit with watchdog, at Realtek-level pricing, still what FARADAY needs next to the F-802, or has your current supplier covered it? If it is still open, say so and I answer with one line and one price; the Marvell line stays where it was, and I will not send that again."
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:20:11Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@td-fe.com"
+  ],
+  "phones": [
+   "+7 (812) 953 13 59"
+  ],
+  "social": [],
+  "models_on_site": [
+   "MIPS-2020",
+   "IEEE802",
+   "RJ-45"
+  ],
+  "url": "https://td-fe.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

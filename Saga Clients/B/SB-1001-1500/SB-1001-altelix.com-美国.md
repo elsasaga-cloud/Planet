@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2026-04-24 | 去 | A 箱（Alan） | Industrial PoE Switch | 首封去信（邮箱索引；去信共 6 封） | `4b6bbc8289a48f6d` |
 | 2026-09-01 | 去 | A 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 6 封 / 0 次打开 / 0 回｜首封 2026-04-24 → 末封 2026-09-01（6 去 / 0 来） | `gmail_digest` |
 | 2026-09-01 | 去 | A 箱（Alan） | 24 Port PoE Managed Switch | 最近一封去信（邮箱索引；去信共 6 封） | `fdf9e803873a9f27` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Altelix — Altelix designs and manufactures a wide range of weatherproof equipment enclosures and antennas for applications including Emergency Communications, Rapid Deployment and Wireless Communications. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -139,9 +140,10 @@ updated: 2026-10-29
 - **KP**：Kenneth Burgner（研究档 KP（职务未取）= 收件人、抄 sales@（第 96 批 官方登记核实 2026-10-28））ken.burgner@altelix.com 〔用户表〕
 - **KP**：Ryan Sheehan（）ryan.sheehan@altelix.com 〔用户表〕
 - **KP**：Peter Roth（President / CEO（Datanyze / Manta；FL L16000173253 管理人）= 老板（邮箱未公开）（第 96 批 官方登记核实 2026-10-28）） 〔https://bisprofiles.com/fl/altelix-l16000173253〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

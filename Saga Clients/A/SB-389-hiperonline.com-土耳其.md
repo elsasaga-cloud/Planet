@@ -131,7 +131,8 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（姓名未记录；Eskişehir 办公室）（Eskişehir 分部信箱（.com 已死 → **公司活着，官网 / 邮箱在 hiperonline.com.tr**；Q-64 死域名单移出）—— 下一封写 info@ / teknik@ @hiperonline.com.tr 问 Teknik Müdür（第 90 批 官方登记核实 2026-10-27））eskisehir@hiperonline.com（用户表） 0850 840 98 83（公司）〔（本地 Clients/ 表格，无公开 URL）〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
 

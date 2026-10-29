@@ -32,11 +32,12 @@
  ],
  "grade_override": "A",
  "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A4 Simon 点名",
- "notes": "",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射）"
+  "level": "B 级加厚 v1（基于首轮调研整理 + 需求映射） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "SUMINISTROS INDUSTRIALES MP4 SL（CIF B63629968）",
@@ -109,6 +110,14 @@
     "quote": "Industrial Network Switch、Power Converter",
     "why": "17 封 / 1 次打开 / 0 回｜首封 2024-09-09 → 末封 2026-09-08（17 去 / 0 来）",
     "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Inicio - Suministros Industriales MP4 | Soluciones integrales industriales — Soluciones industriales integrales Ingeniería que mueve tu industria Especialistas en condúctica y automatización industrial. Desde Sabadell, damos soporte técnico a fabricantes y plantas de producción en todo el territorio",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://suministros-industriales.es/"
    }
   ],
   "proof_gaps": [
@@ -126,5 +135,28 @@
    "prev_reason": "品类不符（工业 MRO/自动化配件商，无网络产品线），仅 1 次回复后 18 次推送无果；S 重点名单身份保留在档，若用户坚持可在 人工定级.csv 改回 A。",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A4 Simon 点名"
   }
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:21:00Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@suministros-industriales.es"
+  ],
+  "phones": [
+   "+34 605 430 753",
+   "+34 93 590 94 12"
+  ],
+  "social": [
+   "http://wa.me/34605430753"
+  ],
+  "models_on_site": [],
+  "url": "https://suministros-industriales.es/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

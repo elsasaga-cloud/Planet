@@ -6,7 +6,9 @@
  "summary": "新加坡 IT/OT 与物理安防融合服务商：评估、生物识别门禁、监控集成、7×24 监控，大量 SCADA / ISA-62443 / 工业设施安全内容；表内 Amy Hoi「可以多跟进一下」，需求 16 电口 PoE，2025-07 问了一个具体型号。",
  "type": "",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Ubiquiti"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -35,10 +37,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网快照核对）"
+  "level": "B 级加厚 v1（官网快照核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "BIO-COGNITIVE SOLUTIONS PTE. LTD.（UEN 200807513Z；Exempt Private Company Limited By Shares；Live；recordowl 最近年报 2012-04-27）",
@@ -114,6 +117,14 @@
     "quote": "STC-024GP 2 GE 上联 + 4 GE PoE 60W $19.0；STC-204GP 2 SFP + 4 PoE $21.0；STC-028GP 2 GE + 8 PoE 120W $24.5；STC-228GP 2 SFP + 2 GE + 8 PoE 120W Watchdog $36.5；validity 15 days",
     "why": "当天报了四款商用小 PoE；$19–36.5 是 Realtek 商用线的真实锚；无回",
     "k": "gmail_a att 2025-07-07"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Convergence Security for IT/OT &amp; Physical | Bio-Cognitive — Unify physical security, IT, OT and human-risk protection with assessments, biometric access control, surveillance integration and 24/7 monitoring.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.bio-cognitive.com/"
    }
   ],
   "proof_gaps": [],
@@ -132,5 +143,34 @@
   "note": "新加坡 IT/OT + 物理安防融合服务商 Bio-Cognitive：来信问 4 口 PoE+1 上联 / 8 口 PoE 价格 → 具体需求 ✔ 对位 ✔ → 留 B",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 1，WA ✔，展会 —，绑定 轻度触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": []
+ "override_history": [],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:38:34Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "enquiries@bio-cognitive.com"
+  ],
+  "phones": [
+   "+65-6553-2128"
+  ],
+  "social": [
+   "https://twitter.com/intent/tweet?source=https%3A%2F%2Fwww.bio-cognitive.com%2Farticles%2Fot-security-for-industrial-resilience&text=Operational+Technology+Security+Services%3A+A+Strategic+Framework+for+Industrial+Resilience:%20https%3A%2F%2Fwww.bio-cognitive.com%2Farticles%2Fot-security-for-industrial-resilience",
+   "https://twitter.com/intent/tweet?source=https%3A%2F%2Fwww.bio-cognitive.com%2Farticles%2Fphysical-security-controls-for-industrial-facilities-a-strategic-guide-to-operational-resilience&text=Physical+Security+Controls+for+Industrial+Facilities%3A+A+Strategic+Guide+to+Operational+Resilience:%20https%3A%2F%2Fwww.bio-cognitive.com%2Farticles%2Fphysical-security-controls-for-industrial-facilities-a-strategic-guide-to-operational-resilience",
+   "https://twitter.com/intent/tweet?source=https%3A%2F%2Fwww.bio-cognitive.com%2Farticles%2Fscada-network-security-assessment-a-strategic-reference-for-industrial-resilience&text=SCADA+Network+Security+Assessment%3A+A+Strategic+Reference+for+Industrial+Resilience:%20https%3A%2F%2Fwww.bio-cognitive.com%2Farticles%2Fscada-network-security-assessment-a-strategic-reference-for-industrial-resilience",
+   "https://twitter.com/intent/tweet?source=https%3A%2F%2Fwww.bio-cognitive.com%2Farticles%2Fstrategic-manufacturing-plant-security-integration-a-framework-for-operational-resilience&text=Strategic+Manufacturing+Plant+Security+Integration%3A+A+Framework+for+Operational+Resilience:%20https%3A%2F%2Fwww.bio-cognitive.com%2Farticles%2Fstrategic-manufacturing-plant-security-integration-a-framework-for-operational-resilience"
+  ],
+  "models_on_site": [
+   "CIP-003-9",
+   "ISA-TR62443-2-2-2025",
+   "ISA-62443"
+  ],
+  "url": "https://www.bio-cognitive.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

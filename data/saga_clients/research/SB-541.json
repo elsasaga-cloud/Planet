@@ -64,10 +64,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "32409 Calle Perfecto, San Juan Capistrano, CA 92675（旧址 25691 Atlantic Ocean Dr, Lake Forest）；Dartford, Kent UK",
@@ -160,6 +161,14 @@
     "quote": "16 Port Industrial PoE Switch",
     "why": "本日去信真实主题（邮箱索引 a88cd24d8b5f55e1；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封）",
     "k": "a88cd24d8b5f55e1"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "KBC Networks - KBC Networks - Home — KBC Networks are a global manufacturer of industrial rugged power and transmission solutions.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://kbcnetworks.com/"
    }
   ],
   "proof_gaps": [],
@@ -168,5 +177,39 @@
    "body": "Hi David,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 11 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the rugged industrial switch line in the KBC range, a second ODM source from small lots, -40 to 75 C, FCC/CE/RoHS test reports supplied with the first lot: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $85.5 USD EXW under the KBC label (MOQ 1, 15-day validity); the same footprint unmanaged - STI-288GP - $62.2; Gigabit media converter, 1 x RJ45 + 1 x SFP - STI-110GE - $26.5. Racks, SFPs and video converters stay with your current sources - we do not carry them.\n\nOne question: which model would you consider dual-sourcing first - the managed 8-port or the unmanaged?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:42:51Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "apacsales@kbcnetworks.com",
+   "chinasales@kbcnetworks.com",
+   "emeasales@kbcnetworks.com",
+   "info@kbcnetworks.com",
+   "latamsales@kbcnetworks.com"
+  ],
+  "phones": [
+   "+1 888 366 4276",
+   "+1 949 503 3470",
+   "+44 (0)1553600001"
+  ],
+  "social": [
+   "https://www.facebook.com/kbcnetworks",
+   "https://www.instagram.com/kbcnetworks/",
+   "https://www.linkedin.com/company/kbc-networks",
+   "https://www.twitter.com/kbcnetworks"
+  ],
+  "models_on_site": [
+   "RS485",
+   "WES5-KT"
+  ],
+  "url": "https://kbcnetworks.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

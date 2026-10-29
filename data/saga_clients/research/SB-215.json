@@ -57,10 +57,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "Unit 103 Sadler Forster Way, Teesside Industrial Estate, Thornaby, Stockton-On-Tees TS17 9JY",
@@ -154,6 +155,14 @@
     "quote": "16 Port Industrial PoE Switch",
     "why": "本日去信真实主题（邮箱索引 c2fdf47844fc75c4；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封）",
     "k": "c2fdf47844fc75c4"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Computer, Audio & Video Connection Solutions from LINDY Electronics — Lindy Electronics offer a vast selection of connectivity solutions. Choose from a range of high quality cables and electronics from Lindy. From computers to networking, we have all of your needs covered — order now!",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.lindy.co.uk/"
    }
   ],
   "proof_gaps": [],
@@ -162,5 +171,30 @@
    "body": "Hi Megan,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 10 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the industrial and desktop Gigabit switches sold under the LINDY brand, a second ODM source from small lots with CE/RoHS/UKCA reports: DIN-rail 8 x Gigabit unmanaged, -40 to 75 C - model STI-080GE - $32.5 USD EXW (MOQ 1, 15-day validity); 5-port - STI-050GE - $18.5; desktop 8 x Gigabit - STC-08GE - $10.5; Gigabit media converter, 1 x RJ45 + 1 x SFP - STI-110GE - $26.5; managed versions on a Marvell platform on request.\n\nOne question: which SKU would you consider dual-sourcing first - the one with the longest lead time today?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:37:24Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@lindy.co.uk"
+  ],
+  "phones": [
+   "002888326575"
+  ],
+  "social": [
+   "https://twitter.com/LINDYUK",
+   "https://www.facebook.com/LINDY.UK.Official",
+   "https://www.instagram.com/lindy_uk/",
+   "https://www.linkedin.com/company/212763"
+  ],
+  "models_on_site": [],
+  "url": "https://www.lindy.co.uk/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -53,10 +53,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "立陶宛",
@@ -137,6 +138,14 @@
     "quote": "工业FS",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "The Best Queue Management System - AKIS Technologies — Our company is specializing in queue management systems and transport management systems. We have developed a way to easily manage all aspects of queuing management at the same time. While any business processes require end-to-end human interact",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.akistechnologies.com/"
    }
   ],
   "proof_gaps": [
@@ -147,5 +156,34 @@
    "body": "Hello AKIS team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 21 August 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the industrial switches inside your queue-management kiosks and traffic cabinets, compact DIN-rail units, -40 to 75 C, CE/RoHS, from single units: 8 x Gigabit unmanaged - model STI-080GE - $32.5 USD EXW (MOQ 1, 15-day validity); 5 x Gigabit - STI-050GE - $17.8; 8 x Gigabit + 2 x SFP unmanaged for fibre-linked cabinets - STI-280GE - $46.\n\nOne question: which port count do your cabinet designs use most - 5 or 8?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:27:08Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@akistechnologies.com"
+  ],
+  "phones": [],
+  "social": [
+   "https://twitter.com/akistechnologi1",
+   "https://www.facebook.com/AKIS.Technologies/",
+   "https://www.linkedin.com/company/akistechnologies/"
+  ],
+  "models_on_site": [
+   "RS485",
+   "LT-03100",
+   "SP02A",
+   "SP02SD",
+   "LAN-RS485",
+   "RT02RS"
+  ],
+  "url": "https://www.akistechnologies.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

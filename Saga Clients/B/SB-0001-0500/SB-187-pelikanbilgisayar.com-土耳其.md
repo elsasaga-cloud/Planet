@@ -126,7 +126,8 @@ updated: 2026-10-29
   > 没做交谈，给了名片 / 054176 47863 已加
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Ahmet Karcı（Kurucu ortak / Firma Sahibi（2003-07 起，「tüm operasyonlar」；LinkedIn）= **老板 = 联系人**；Perpa 电子商城 DIGITUS 配件经销档口 + Şişli 仓库（第 88 批 官方登记核实 2026-10-27））bilgi@pelikanbilgisayar.com（用户表） +90 541 764 78 63（公开，WhatsApp 已加）〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（电商站核对））
 

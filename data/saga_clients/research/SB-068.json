@@ -5,7 +5,9 @@
  "summary": "拉合尔的 IT/电信系统集成商与增值分销商 ICT Integrators（2007 年成立；LinkedIn 51–200 人 / RocketReach 22 人、营收 $15.4M；面向电信运营商、企业、工业、医疗、教育、银行；能力：融合数据网、宽带有线/无线、光网络、UC、虚拟化、网络与物理安全；CEO Muhammad Waleed，商务总监 Ihsan Ullah；349-H/3 Johar Town, Lahore；+92 42 3595 1406-7；apac@ict-integrators.com；迪拜办公室）。用户表（富通天下外贸数据）：「买了飞宇的」= 从同行进口 switch/PoE 等，非 Saga 成交；群发无互动。",
  "type": "系统集成商",
  "size": "待补证",
- "brands_seen": [],
+ "brands_seen": [
+  "Ubiquiti"
+ ],
  "evidence": [
   {
    "kind": "用户记录",
@@ -61,11 +63,12 @@
  ],
  "grade_override": "B",
  "override_reason": "仅历史成交标记、无互动、南亚非主攻区（−6）→ B 待机回访。",
- "notes": "老客户回访一封（STC-28DGGPM / STC-424DGGPM-280W）。",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n老客户回访一封（STC-28DGGPM / STC-424DGGPM-280W）。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + 名录核对；「成交」为富通天下外贸数据）"
+  "level": "B 级加厚 v1（官网 + 名录核对；「成交」为富通天下外贸数据） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "ICT Integrators（LCCI 口径 Managing Partner → 合伙企业；SECP / NTN 1 查未得）",
@@ -157,10 +160,44 @@
     "quote": "switch POE等 / 买了飞宇的 / 富通天下",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "ICT Integrators | Your Digital Transformation Partner — ICT Integrators",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://ict-integrators.com/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:22:56Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "apac@ict-integrators.com",
+   "contact@ict-international.ae"
+  ],
+  "phones": [
+   "+92-42-35951406-7",
+   "+971-4-221-6756"
+  ],
+  "social": [
+   "https://www.facebook.com/ICTIntegrators"
+  ],
+  "models_on_site": [
+   "QSFP28"
+  ],
+  "url": "https://ict-integrators.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

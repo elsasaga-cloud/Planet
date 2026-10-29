@@ -40,10 +40,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "韩国",
@@ -133,6 +134,14 @@
     "quote": "16 Port Industrial PoE Switch",
     "why": "本日去信真实主题（邮箱索引 a8ecddf58d14e308；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
     "k": "a8ecddf58d14e308"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "�ֽ�ȸ�� ������ — �����ڿ� ���Ű� ȯ���մϴ�",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "http://unitelco.co.kr/"
    }
   ],
   "proof_gaps": [],
@@ -141,5 +150,12 @@
    "body": "Hello Unitelco team,\n\nWe wrote to you once in February 2025 about a mini industrial switch, and since then only general product mails - most recently \"16 Port Industrial PoE Switch\" on 17 September 2026 - none of which needed an answer. This one is specific.\n\nFor the active side of your fibre cabling systems, neutral-brand units at distributor price, EXW, from single pieces, 15-day validity, CE/RoHS: industrial Gigabit media converter, 1 x RJ45 + 1 x SFP slot - model STI-110GE - $26.5 USD; DIN-rail 8 x Gigabit + 2 x SFP unmanaged, -40 to 75 C - STI-280GE - $46; 24 x Gigabit + 4 x 10G SFP+, L2+ managed, Marvell-based - STC-424XGGM - $127.4. KC stays on your side.\n\nOne question: which active SKU do your cabling projects need most - the converter at the building end, or the 24-port in the rack?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:25:50Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
  }
 }

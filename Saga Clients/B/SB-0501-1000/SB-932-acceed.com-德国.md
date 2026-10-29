@@ -58,6 +58,7 @@ updated: 2026-10-29
 | 2026-08-31 | 去 | Elsa 群发（BCC；To office@all4fiber.com，DE 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 acceed.com, info@acceed.com, support@acceed.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-09-24 | 去 | A 群发 | Marvell Managed Commercial Switches、10G L3 Managed Switch | 5 封 / 2 次打开 / 0 回｜首封 2026-03-27 → 末封 2026-09-24（5 去 / 0 来） | `gmail_digest` |
 | 2026-09-24 | 内 | Gmail 退信（A 邮箱） | werner.kunze@acceed.com 退信：552 5.2.2 <werner.kunze@acceed.com>: Recipient address rejected: Mailbox quota exceeded | 该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开 | `gmail_a b5e91fb51b7abf8f` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Startseite \| acceed — Markennamen allein beeindrucken uns nicht. Bei der Auswahl unserer Produkte entscheidet stets deren Leistung, gemessen an den Ansprüchen und Erwartungen un | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -117,7 +118,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（acceed.com；并档 Planet 渠道档案 PB-098）
 - **是谁**：杜塞尔多夫工业计算 / 工业通信 VAD，PLANET 为其工业网络补充线（2025 起公告 AP / TSN 交换机）。类型：工业计算 / 工业通信 / 自动化 / 测量技术分销 + 技术咨询（2000 年起；ISO 9001:2015；自称「The German distributor Acceed」；品牌 Neousys / ADLINK / ORing / Artila / NHR / Quancom / Rayon / TOPSCCC-ExpertDAQ + PLANET）；PLANET 为其工业网络类目的在售品牌（新闻稿公告 PLANET 工业 AP / TSN 交换机 / 户外 AP，站内托管 PLANET IMG-120T 手册）。信号：acceed.com/en/news/IAP-1800AX（2025-01-15）：「The German distributor Acceed has now incorporated the new high-speed access point IAP-1800AX from Planet into its programme … informs about the new access points, TSN switches and further products from Planet for industrial networks, automation, IIoT applications」；/en/products 第 67 页：WDAP-1800AX / WDAP-3000AX from Planet；/media/manual/manuals/em-img-120t_v1-1.pdf：PLANET IMG-120T 手册；/de/news 列表：「der jetzt bei Acceed erhältlich neue unmanaged Switch IGS-182GP」（品牌未注明）。Planet 渠道档案 PB-098 评级 B（需求：PLANET 为其工业网络类目在售品牌（新闻稿公告 2025-01 + 托管手册 + 产品页），但主线为 ORing / Neousys，PLANET 交换机无具名在售型号带价 → 需求真实但为补充线；触达：info@acceed.com / support@acceed.com + 电话 +49 211 938 898-0 公开（Impressum / About），总经理 Dr. Werner Kunze 具名但无公开邮箱；两信箱已被 Elsa 账号群发 9 封 0 回复；体量：25 年 VAD（人数未公开，ISO 9001）→ 可赢 → B ★（无价无具名邮箱，PLANET 非主线））。并档说明：该公司同时出现在 Saga 既有客户表（本条 SB-932，德国，未互动）与 Planet 渠道挖掘名单，首触邮件此前未发送。
-- **在卖/在用品牌**：PLANET, ORing
+- **在卖/在用品牌**：PLANET, ORing, D-Link, Cisco
 - **【官网新闻稿（搜索快照，2025-01-15）】PLANET 进入其产品线；工业 AP / TSN 交换机**
   > The German distributor Acceed has now incorporated the new high-speed access point IAP-1800AX from Planet into its programme … The German distributor Acceed informs about the new access points, TSN switches and further products from Planet for industrial networks, automation, IIoT applications and Smart Home solutions under www.acceed.com in detail.
   > 来源：https://www.acceed.com/en/news/IAP-1800AX（抓取 2026-10-20）
@@ -143,9 +144,10 @@ updated: 2026-10-29
   > GT-92: Lüfterloses KI-Rack-System für den Dauerbetrieb … 19.10.2026 … NRU-161V-AWP … 16.09.2026 … SEMIL-2200 … 21.08.2026 … Nuvo-11531 … 28.07.2026
   > 来源：https://acceed.com/de/news/（抓取 2026-10-20）
 - **KP**：Werner Kunze（Geschäftsführer（2001-07-16 起 25 年）+ 推定唯一股东 = 老板；收件已含 werner.kunze@acceed.com（0 真实打开、2026-08/09 有退信 → 先核退信地址，失效则只发 info@ 抬头 z. Hd. Herrn Kunze）（第 87 批 官方登记核实 2026-10-27））werner.kunze@acceed.com 〔https://www.northdata.de/Acceed%20GmbH,%20D%C3%BCsseldorf〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-098，W 批次调研 2026-10-19/20））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-098，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

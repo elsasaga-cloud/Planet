@@ -2,7 +2,7 @@
  "code": "SB-1103",
  "name_official": "ARA（ara.com.bd，孟加拉国）",
  "researched_at": "2026-10-21",
- "website_status": "域名不可达（ara.com.bd）",
+ "website_status": "快照失败（ara.com.bd：域名不可达（DNS/连接失败），2026-10-21，第 1 次）",
  "summary": "孟加拉国网络经销商（MD. Chan Miah Sarker），海关数据显示买过磊通（Leitong）设备，Switch / MC / 周边，非自有品牌；support@ 退信（发不过去），备用 gmail；2023-02 对商用 PoE 价目回复 thanks。",
  "type": "",
  "size": "",
@@ -37,7 +37,7 @@
  ],
  "grade_override": "A",
  "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（快照不可达 + 表内）"
@@ -148,5 +148,14 @@
   "verdict_date": "2026-10-29",
   "note": "域名 ara.com.bd 失效（NXDOMAIN 2026-10-29；support@ 早已退信），备用 gmail smchan91@gmail.com 在表 + 1 次真回 + 海关显示买过磊通 → 留 B（路径 = 备用 gmail；非主区预付 100%）",
   "why": ""
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:37:01Z"
+  ],
+  "fails": [
+   "2026-10-21"
+  ],
+  "batch": "LT-T03"
  }
 }

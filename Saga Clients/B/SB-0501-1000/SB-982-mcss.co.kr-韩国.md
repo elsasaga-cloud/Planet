@@ -56,6 +56,7 @@ updated: 2026-10-29
 | 2025-08-11 | 内 | Gmail 退信（A 邮箱） | svc@mcss.co.kr 退信：550 sorry, no mailbox (#5.1.1) | 该地址当天收不到信；同日的「Opened」记录是退信触发，不算打开 | `gmail_a e1c1f2f36ab7e6a5` |
 | 2026-01-16 | 来 | MCSS（노현진 Eugene，support@mcss.co.kr） | Could you please send us a list of products and related materials that support your OEM / white-label services (such as branding and model name customization)? Additionally, please share information about your company and your website. | 对 CENTEC 核心机群发的真人回复——问 OEM 清单 + 公司介绍；Alan 20 天后才回链接 | `gmail_a 4d792eebebf6a404` |
 | 2026-02-05 | 去 | Saga（Alan） | Hi, Eugene, Sorry for the late reply. 1. We updated our product links, please see attached info. Just to let you know, there will be another update about the features soon. 2. There is also info about CENTEC switches. But the prices are not available yet. Memory prices have risen too much recently,… | Saga 实质答复原文（主题「Re: Fw: OEM Core Switching Solution」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `497037e504e55533` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | 엠씨에스솔루션 \| 네트워크 솔루션·ICT·IoT 전문기업 — (주)엠씨에스솔루션은 네트워크 통합, 클라우드, IoT, AI, IT 아웃소싱 등 종합 IT 서비스와 솔루션을 제공하여 고객의 비즈니스 경쟁력을 높이는 ICT 전문기업입니다. 혁신적인 IT 기술과 신뢰성 있는 서비스를 바탕으로 다양한 산업의 디지털 혁신을 지원합니다 | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -134,9 +135,10 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：노현진（MCSS support@）（MCS Solution 研究档 KP（support@）= 收件人（抄 sales@）；대표이사 이일우 = 拍板人（第 115 批 官方登记核实 2026-10-28））support@mcss.co.kr 〔S/A 邮箱来信 2026-01-16 来信 1 封（第 72 批从邮件表头补）〕
 - **KP**：이일우 Lee Il-woo（대표이사 (주)엠씨에스솔루션 MCS Solution Co., Ltd.（mcss.co.kr 页脚 / jobkorea）= 拍板人（第 115 批 官方登记核实 2026-10-28））sales@mcss.co.kr 〔https://www.mcss.co.kr/〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

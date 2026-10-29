@@ -7,7 +7,14 @@
  "type": "",
  "size": "",
  "brands_seen": [
-  "PLANET"
+  "PLANET",
+  "Dahua",
+  "TP-Link",
+  "Intellinet",
+  "Cisco",
+  "Allied Telesis",
+  "Korenix",
+  "Edimax"
  ],
  "evidence": [
   {
@@ -37,10 +44,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-017，W 批次调研 2026-10-19/20）"
+  "level": "B 级加厚 v1（并档 Planet 渠道档案 PB-017，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "INTER-COMP.PL KOWALSKI sp. z o.o.（KRS 0001157117；NIP 5543033437；REGON 540999936；前身 CEIDG Inter-Comp.Pl Marek Kowalski 2003 起）",
@@ -141,10 +149,47 @@
     "quote": "10G Enterprise SFP Switch、Booster PoE Switch",
     "why": "17 封 / 0 次打开 / 0 回｜首封 2024-06-14 → 末封 2026-09-25（17 去 / 0 来）",
     "k": "gmail_digest"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Mediakonwertery, konwertery światłowodowe, konwerter, mediakonwerter • www.media-konwertery.pl — Mediakonwertery, konwertery mediów, Fibrain, Repotec, kable światłowodowe, światłowody Zapraszamy na naszą stronę www.media-konwertery.pl .",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.media-konwertery.pl/"
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-25"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:41:01Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [],
+  "social": [
+   "https://twitter.com/InterCompPl",
+   "https://www.facebook.com/InterCompPl",
+   "https://www.youtube.com/user/intercomppl"
+  ],
+  "models_on_site": [
+   "MC110CS",
+   "IMC801FP",
+   "MC1008",
+   "PFS4206-4P-120",
+   "IGUP-1205AT",
+   "RP-IPG411-12V",
+   "PFS3103-1GT1ET-60-V2",
+   "PFS3103-1GT1ET-60"
+  ],
+  "url": "https://www.media-konwertery.pl/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

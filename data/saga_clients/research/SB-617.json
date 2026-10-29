@@ -53,10 +53,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "Frankenring 6, 30855 Langenhagen",
@@ -133,6 +134,14 @@
     "quote": "MaiWe",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "IPC2U Worldwide | Professional solutions for Industrial Automation — IPC2U is an international supplier and manufacturer of industrial computer systems with more than 20 years of experience and is represented in more than 14 countries in the EMEA space with offices, qualified partners and distributo",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://ipc2u.com/"
    }
   ],
   "proof_gaps": [],
@@ -148,5 +157,39 @@
   "note": "桌面复核（研究档类型 + 对位首推）：工业计算机供应商/制造商（德国，EMEA 多国；在售 Maiwe）；切入：在售 Maiwe 工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）/ 非管理 STI-280GE（$46.6）同口型替换，配套 DIN 导轨 PC 项目；行业内 ✔ 对位 ✔（宽留冷「不对位」系 fit 标志未回填，非真不对位）",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": []
+ "override_history": [],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:44:10Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "consultation@ipc2u.fr",
+   "sales@ipc2u.com",
+   "sales@ipc2u.cz",
+   "sales@ipc2u.de",
+   "sales@ipc2u.pl"
+  ],
+  "phones": [
+   "+33 (0)1 84 24 02 82",
+   "+420 727 965 000",
+   "+49 (0) 511 807 259-0"
+  ],
+  "social": [
+   "https://www.facebook.com/IPC2U",
+   "https://www.linkedin.com/company/industrial-personal-computer-2u/",
+   "https://www.youtube.com/channel/UCd4FRpT-XHOezdluQfuYkGQ"
+  ],
+  "models_on_site": [
+   "RS-232",
+   "RS232",
+   "IP69K"
+  ],
+  "url": "https://ipc2u.com/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

@@ -53,6 +53,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-02-09 | 去 | A 群发 | Marvell Alleycat5 Solution、90W PoE Managed Switch | 10 封 / 1 次打开 / 0 回｜首封 2025-06-18 → 末封 2026-02-09（10 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 卖几个牌子的 有marvell方案 | 表内备注 | `用户表` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | PC, Computer & Server Parts \| IT Hardware Store \| Server Blink — Shop IT hardware, computer hardware, PC & server parts at Server Blink. Get genuine products, affordable prices, and fast shipping across the US. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -124,9 +125,10 @@ updated: 2026-10-29
   > 卖几个牌子的 有marvell方案
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Muhammad Amir（Owner（KY LLC）= 收件人（第 104 批 官方登记核实 2026-10-28）） 〔https://serverblink.com/about〕
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

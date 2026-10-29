@@ -57,6 +57,7 @@ updated: 2026-10-29
 | 2026-08-19 | 去 | A/S 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 27 封 / 1 次打开 / 0 回｜首封 2024-07-11 → 末封 2026-08-19（27 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | （用户表字段） | 表内备注 | `用户表` |
 | 2026-08-19 | 去 | A 箱（Alan） | 24 Port PoE Managed Switch | 本日去信真实主题（邮箱索引 f6ba377572887e78；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `f6ba377572887e78` |
+| 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Addon Technology - UK Based Manufacturer of Networking & Accessories — Addon Technology - UK Based Manufacturer of Networking & Accessories | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -137,7 +138,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线
 - **是谁**：伦敦北部的自有品牌网络产品商（2001-07 注册；ADDON 品牌 ADSL 路由器、WiFi 扩展器、有线网络、无线网卡、硬盘盒、Travelmate 配件；通过分销商、系统组装商、VAR 与电商覆盖欧洲；ZoomInfo 营收 <$5M；自称「UK Manufacturer」实为贴牌）。典型 SOHO 级 OEM 买家，可补 PoE 交换机 SKU。用户表：17 次跟进 0 回复。
-- **在卖/在用品牌**：ADDON（自有品牌）
+- **在卖/在用品牌**：ADDON（自有品牌）, Cisco
 - **【官网】品牌与产品线**
   > Since 2001 ADDON has been providing our loyal customers a personal service with quality products at market-leading prices … UK Manufacturer of Networking and Accessories. - Networking - ADSL & Routers - Wifi Range Extenders - Wired Networking - Wireless Adapters
   > 来源：https://www.addon-tech.com/（抓取 2026-10-21）
@@ -154,9 +155,10 @@ updated: 2026-10-29
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Wen-Cheng Lee（Director（2006-07-31 起）兼 Secretary（2001-10-27 起；英籍，1965 生；身份已核验；Companies House 04256748）= **老板 = 唯一在任高管 = 采购本人** —— 台裔一人公司，2001 起做网络 / 电脑配件分销 24 年；打开 1 次 = 他看过 → 写 Mr Lee 本人；**分销 20%**：STC-028GP / STC-228GP / STC-2224GP 含税到仓价，MOQ 1 箱，100% 预付（第 92 批 官方登记核实 2026-10-28）） 〔https://find-and-update.company-information.service.gov.uk/company/04256748/officers〕
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + Companies House 核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + Companies House 核对） + 官网快照（LT-T03 2026-10-21））
 
 | 公司事实 | 内容 |
 |---|---|

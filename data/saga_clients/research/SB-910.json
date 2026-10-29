@@ -7,7 +7,9 @@
  "type": "",
  "size": "",
  "brands_seen": [
-  "Etic Telecom（自产）"
+  "Etic Telecom（自产）",
+  "Schneider",
+  "Siemens"
  ],
  "evidence": [
   {
@@ -50,10 +52,11 @@
  ],
  "grade_override": "A",
  "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A4 Simon 点名",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网产品线核对）"
+  "level": "B 级加厚 v1（官网产品线核对） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "legal_name": "ETIC TELECOM SAS（SIREN 380927475 · SIRET 38092747500026；NAF 26.30Z；1991；Montbonnot-Saint-Martin 38330；PME）",
@@ -153,6 +156,14 @@
     "quote": "Hi, Charles, How are you? Any update about our offer last time? Not sure if you care about chip solution, we are using Marvell chip, basically one of the most expensive solutions on the market. Let me recommend a new unmanaged model(paralleled to the market prices). Feature: Support DIP dialing and…",
     "why": "Saga 实质答复原文（主题「Re: 24 port managed switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
     "k": "096d6be144a97e35"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Home | Etic Telecom",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.etictelecom.com/en/"
    }
   ],
   "proof_gaps": [],
@@ -171,5 +182,37 @@
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A4 Simon 点名"
   }
- ]
+ ],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:24:51Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "contact@etictelecom.com",
+   "info@etictelecom.de"
+  ],
+  "phones": [
+   "+33 (04) 76 04 20 00",
+   "+49 (0)7221 396555-1",
+   "+49 7221 3965551"
+  ],
+  "social": [],
+  "models_on_site": [
+   "RS232",
+   "RS485",
+   "XSMIL-BP4200IB",
+   "XSMIL-FD4200",
+   "XELAN-FD200",
+   "IPL-E-100",
+   "IPL-EW-100",
+   "IPL-C-100"
+  ],
+  "url": "https://www.etictelecom.com/en/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }

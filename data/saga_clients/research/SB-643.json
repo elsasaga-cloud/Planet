@@ -26,10 +26,11 @@
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "company_facts": {
   "hq": "土耳其",
@@ -110,6 +111,14 @@
     "quote": "Updated Ethernet Switches Links",
     "why": "最近一封去信（邮箱索引；去信共 5 封）",
     "k": "d807fe9d03f61713"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Arby Bilgisayar | Kurumsal BT Bakım Anlaşması ve IT Destek Firması — Arby Bilgisayar; İstanbul'un en iyi ve büyük kurumsal bilgisayar firmaları arasında, 22 yıllık tecrübeyle BT bakım anlaşması ve IT desteği sunar.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.arbybilgisayar.com.tr/"
    }
   ],
   "proof_gaps": [],
@@ -125,5 +134,33 @@
   "note": "桌面复核（研究档类型 + 对位首推）：企业 IT 服务商（土耳其）；切入：企业 IT 维护配套 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 GE + 4×10G STC-424XGGM（$132.7）；行业内 ✔ 对位 ✔（宽留冷「不对位」系 fit 标志未回填，非真不对位）",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": []
+ "override_history": [],
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:44:54Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "bilgi@arbybilgisayar.com.tr",
+   "destek@arbybilgisayar.com.tr"
+  ],
+  "phones": [
+   "+90 216 519 71 99",
+   "+90 216 519 71 99 - 0850 441 27 29",
+   "+90 850 441 27 29"
+  ],
+  "social": [
+   "https://twitter.com/ArbyBilgisayar",
+   "https://www.facebook.com/arbybilgisayarltd/?ref=bookmarks",
+   "https://www.instagram.com/arbybilgisayar/",
+   "https://www.linkedin.com/company/arby-bilgisayar-san-tic-ltd-%C5%9Fti/?viewAsMember=true"
+  ],
+  "models_on_site": [],
+  "url": "https://www.arbybilgisayar.com.tr/",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ }
 }
