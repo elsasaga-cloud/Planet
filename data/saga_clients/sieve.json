@@ -3,12 +3,12 @@
   "updated": "2026-10-29",
   "rules": "docs/C池三闸筛选_方案_2026-10-29.md §2",
   "counts": {
-   "keep_C": 2822,
-   "pass_final": 206,
+   "keep_C": 2990,
+   "pass_final": 219,
    "pool_candidate": 185,
-   "candidate": 22
+   "candidate": 25
   },
-  "n": 3235
+  "n": 3419
  },
  "SC-001": {
   "verdict": "keep_C",
@@ -7998,6 +7998,15 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-38"
+ },
+ "SC-1616": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "越南 Phụ Kiện Điện Tử（phukiendientu.vn / .com 均 no_mx；gmail；switch）：电子配件网店 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46"
  },
  "SC-1617": {
   "verdict": "keep_C",
@@ -21155,6 +21164,81 @@
   "manual": true,
   "batch": "G1-44"
  },
+ "SC-2773": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "意大利 CNIT Consult（cnitconsult.com 正常；商业 PoE；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检（欧洲 → 找到邮箱后看）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45"
+ },
+ "SC-2774": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "意大利 / 波兰 Dipol（dipolnet.com 正常；「销售平台，好多个供应商」；无邮箱）：大型分销平台 → 留 C 平台 / 巨头",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45"
+ },
+ "SC-2775": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "俄罗斯 Darlene Moses（fatskayv@hotmail.com；2022 年光猫，问公司规模；WA 加不上）：光猫本职线 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-2776": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "土耳其 Karel（karel.com.tr 正常；Simon 二筛备注「用的丰润达的」✔ = 已采购中国 OEM 商业 PoE 交换机；Karel = 土耳其本土通信 / 网络设备品牌厂 → OEM 品牌商首选对象；无邮箱）：土耳其四主区 ✔ 自有品牌 + 中国 OEM 在用 ✔ 对位 ✔ 公司可坐实 ✔ → 闸 2 查底数（官网 / MERSİS 镜像）+ 找采购 / OEM 路径（LinkedIn 仅 James）；Simon 原判「不行」→ 可按编号否决",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45",
+  "tags": [
+   "oem_target"
+  ]
+ },
+ "SC-2777": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国 Santec（santec.com 正常；Optical switch；无邮箱）：光学测试 / 光开关厂商 = 同行 / 本职线 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-2778": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国 Wave Electronics（wave-electronics.com MX 正常但网站打不开；大口 3 层 switch；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检（AV 分销，三层大口非 Saga 主线）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45"
+ },
+ "SC-2779": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度 Emerald Green Corporation（Moiz Murad Ali，gmail；buy camera from SZ，interest in VC；WA 加不上）：CCTV 经销 + VC 本职线 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-278": {
   "verdict": "keep_C",
   "gate": 1,
@@ -21203,6 +21287,24 @@
   "manual": true,
   "batch": "G1-31"
  },
+ "SC-2784": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度 Sanjay Telecom（Sanjay Shah，hotmail；dealers in CCTV & Security products；WA 加不上）：CCTV 经销 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45"
+ },
+ "SC-2785": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度 Spy Vision（Ravi Dave，gmail；home security，推过光端机；WA 加不上）：家用安防 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45"
+ },
  "SC-2786": {
   "verdict": "keep_C",
   "gate": 1,
@@ -21215,6 +21317,15 @@
    "dayjob_fit"
   ]
  },
+ "SC-2787": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度 Universal Technologies（M. Surendra，gmail ×2；CCTV / IP Cam / Access control；WA 加不上）：CCTV 经销 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45"
+ },
  "SC-2788": {
   "verdict": "keep_C",
   "gate": 1,
@@ -21225,6 +21336,18 @@
   "batch": "G1-02",
   "tags": [
    "oem_target"
+  ]
+ },
+ "SC-2789": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "埃及 Redaabdelmoez（engredasmart@gmail.com；HDMI extender）：HDMI 本职线 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45",
+  "tags": [
+   "dayjob_fit"
   ]
  },
  "SC-279": {
@@ -21277,6 +21400,72 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-31"
+ },
+ "SC-2794": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "Dacom Advanced Systems Ltd（dacomltd.com 正常；Aviad Shalom CEO，dacom3000@gmail.com；国别未填 → 疑以色列；问了商业 PoE 4 / 8 口 + 上联光 / 电、24V / 48V PoE；介绍 2 光 10 电反馈不多；16 推 0 回）：CEO 具名 + 具体问 ✔ 但 16 推零回应 + 非点名区 → 留 C 储备（换稿一次后看）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45"
+ },
+ "SC-2795": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度 Jignesh Prajapati（仅电话；VC (AHD Analog)；16 推 0 回）：VC 本职线 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-2796": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "乌克兰 Nikolaj Konstantinov（阿里询盘「无人机模块」；无邮箱 / 电话）：守界乌克兰（不 pass，不主动发）→ 留 C；品类不符",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45"
+ },
+ "SC-2797": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度 P Srinivas（仅电话；VC 要价格；15 推 0 回）：VC 本职线 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-2798": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度 Rahul Juneja（仅电话；HDMI 转网，一对买样测试；16 推 0 回）：HDMI 本职线 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-2799": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度 Valmik Divase（仅电话；2V1D 模拟视频光端机；16 推 0 回）：VC 本职线 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45",
+  "tags": [
+   "dayjob_fit"
+  ]
  },
  "SC-280": {
   "verdict": "keep_C",
@@ -21375,6 +21564,18 @@
   "manual": true,
   "batch": "G1-32"
  },
+ "SC-2808": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度 kanuj304648@gmail.com（Bidi 千兆小外电 60 公里 / HDMI-DVI 转光）：MC / HDMI 本职线 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-2809": {
   "verdict": "keep_C",
   "gate": 2,
@@ -21394,6 +21595,42 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-12",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-2810": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "埃及 Omar Naur（omnd2009@hotmail.com；VC）：VC 本职线 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-2811": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度 Satish Kumar（s76344196@gmail.com；Bidi 千兆小外电 / HDMI-DVI 转光）：MC / HDMI 本职线 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-2812": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "孟加拉 MD Saidul（saidulbr@gmail.com；10 对光猫，RMB）：光猫本职线 + RMB 待 Simon → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45",
   "tags": [
    "dayjob_fit"
   ]
@@ -21455,6 +21692,15 @@
    "dayjob_fit"
   ]
  },
+ "SC-2818": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "乌克兰 securandvideosys@gmail.com（2 光 2 电小壳）：守界乌克兰（不 pass，不主动发）→ 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45"
+ },
  "SC-2819": {
   "verdict": "keep_C",
   "gate": 1,
@@ -21492,6 +21738,18 @@
   "reason": "表记「95193 66849 拉黑了」—— 关系已断死",
   "date": "2026-10-29"
  },
+ "SC-2822": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "巴基斯坦 Muhammad Hammad（阿里询盘「DWDM」；无邮箱 / 电话）：阿里后台可回 + DWDM 本职线 → 留 C 待巡检 + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-2823": {
   "verdict": "keep_C",
   "gate": 1,
@@ -21504,6 +21762,33 @@
    "oem_target"
   ]
  },
+ "SC-2824": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "韩国 Dayou Plus（dayouplus.co.kr 正常；商业机架 / 大口 FS，没啥工业级；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45"
+ },
+ "SC-2825": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾 DIYTrade（diytrade.com 正常；B2B 平台；switch 周边）：平台 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45"
+ },
+ "SC-2826": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "韩国 Emerson Korea（emerson.kr no_mx；工业 FS；无邮箱）：跨国巨头 → 留 C 巨头",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45"
+ },
  "SC-2827": {
   "verdict": "keep_C",
   "gate": 1,
@@ -21515,6 +21800,15 @@
   "tags": [
    "dayjob_fit"
   ]
+ },
+ "SC-2828": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "泰国 Infitel（infitel.co.th 正常；大口 FS；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45"
  },
  "SC-2829": {
   "verdict": "keep_C",
@@ -21541,6 +21835,27 @@
   "tags": [
    "oem_target"
   ]
+ },
+ "SC-2830": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "澳大利亚 Mark Andrew Cowan（gmail；HDMI extender 2 对 PW-DT209 只要接收机；WA 加不上）：HDMI 本职线 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-2831": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "马来西亚 Sasantron（Piratheepan director；yahoo；展会：对 PoE 有兴趣，工商业都要，要 price list / catalog，也去了宇航和旁边展位；+65 号 WA 加不上；1 推）：意向 ✔ 决策人 ✔ 但无域名 + 马来西亚无先例 + Simon 判不行 → 留 C 储备（一页纸一次后看）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45"
  },
  "SC-2832": {
   "verdict": "keep_C",
@@ -21595,6 +21910,31 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-32"
+ },
+ "SC-2837": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "丹麦 EVI Networks（evi-networks.dk 正常；MC 配件 / SFP 等，「有人卖他们的」= 自有品牌迹象；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检（欧洲自有品牌 → oem_target 备查；MC / SFP 为本职线）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45",
+  "tags": [
+   "oem_target",
+   "dayjob_fit"
+  ]
+ },
+ "SC-2838": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国 Integra Optics（integraoptics.com 正常；SFP / DAC；无邮箱）：光模块品牌商 = 本职线同行 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45",
+  "tags": [
+   "dayjob_fit"
+  ]
  },
  "SC-2839": {
   "verdict": "pool_candidate",
@@ -21662,6 +22002,27 @@
   "manual": true,
   "batch": "G1-32"
  },
+ "SC-2844": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "菲律宾 Abet Parungao / LNP farm（gmail；直播进来，询盘了很多不相关产品；Simon 标记不再跟进）：Simon 备注非闸 0 依据 + 非渠道 → 留 C 不主动",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45"
+ },
+ "SC-2845": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "乌克兰 Buycisco（Maxim Kalashnik，gmail；阿里 RFQ「100G 光模块」）：守界乌克兰（不 pass，不主动发）→ 留 C；光模块本职线",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-2846": {
   "verdict": "keep_C",
   "gate": 1,
@@ -21679,6 +22040,30 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-02"
+ },
+ "SC-2848": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "菲律宾 Lee Jane Abadiano（crymton@gmail.com；Skype；Cat5e/6 VGA KVM Extender 300m）：KVM 延长本职线 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-2849": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "叙利亚 Khaldoon Alwa（hotmail；4ch video converter；WA 加不上）：叙利亚守界 + VC 本职线 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45",
+  "tags": [
+   "dayjob_fit"
+  ]
  },
  "SC-285": {
   "verdict": "keep_C",
@@ -21710,6 +22095,30 @@
   "manual": true,
   "batch": "G1-32"
  },
+ "SC-2852": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "斐济 Atish Nand（tsh.netcracker@live.com；AHD / CVI / TVI；WA 可加但一直不看）：AHD 本职线 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-2853": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "缅甸 Vicheka Nouv（gmail；HDMI 转光）：HDMI 本职线 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-2854": {
   "verdict": "keep_C",
   "gate": 1,
@@ -21732,6 +22141,15 @@
    "oem_target"
   ]
  },
+ "SC-2856": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度尼西亚 PT Kejora Gemilang Internusa（kejora.net 正常；ISP；MC / Managed；无邮箱）：ISP 终端 + 无路径 → 留 C 待巡检",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45"
+ },
  "SC-2857": {
   "verdict": "keep_C",
   "gate": 1,
@@ -21747,6 +22165,15 @@
   "rule": "G0-3",
   "reason": "邮箱 asdsd@gmail.com 明显假 + 表记「邮件发不过去 垃圾询盘」",
   "date": "2026-10-29"
+ },
+ "SC-2859": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国 DVI Comm（dvicomm.com 正常；telecom networking，「方案商」；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检（美国四主区方案商 → 找到邮箱后看）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45"
  },
  "SC-286": {
   "verdict": "keep_C",
@@ -21777,6 +22204,15 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-32"
+ },
+ "SC-2862": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "俄罗斯 IC-Line（ic-line.ru 正常；MC / Switch / SFP；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检（俄罗斯点名区 → 找到邮箱后看）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45"
  },
  "SC-2863": {
   "verdict": "pass_final",
@@ -21824,6 +22260,24 @@
    "dayjob_fit"
   ]
  },
+ "SC-2868": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "俄罗斯 Overcam（overcam.ru 正常；商业 PoE，「有国内的外壳」✔；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检（俄罗斯点名区 + 在卖中国外壳 → 找到邮箱即转候选；收款待定）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45"
+ },
+ "SC-2869": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "法国 PNE（pne.fr 正常；networking，产品线稍杂；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45"
+ },
  "SC-287": {
   "verdict": "keep_C",
   "gate": 1,
@@ -21844,6 +22298,15 @@
   "g1_batch": "G1-08",
   "g1_reason": "葡萄牙 PT Refurb（ptrefurb.pt；洪瑞的商业 PoE）：欧洲 + 已进口同供应链产品 + 对位 ✔；17 推 0 回 → 闸 2 查底数，低优先；洪瑞现供客户 → Q-33 口径待 Simon（默认只推 SmartByte / Marvell 管理 + 工业线）；Simon 曾判不行 → 可按编号否决"
  },
+ "SC-2871": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度尼西亚 Sentralindo（sentralindo.co.id 正常；工业 FS optilinknetwork 的，「分销别人的牌子」；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检（印尼无先例，储备）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45"
+ },
  "SC-2872": {
   "verdict": "keep_C",
   "gate": 2,
@@ -21855,6 +22318,24 @@
   "g1_batch": "G1-08",
   "g1_reason": "丹麦 Sevecu（sevecu.com；商业 PoE：大华 / 光网视 ONV / 洪瑞）：欧洲 + 多品牌进口经验 + 对位 ✔；17 推 0 回 → 闸 2 查底数；洪瑞现供客户 → Q-33 口径待 Simon（默认只推 SmartByte / Marvell 管理 + 工业线）；Simon 曾判不行 → 可按编号否决"
  },
+ "SC-2873": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "俄罗斯 Smartfiber（smartfiber.ru 正常；很多公司之前的产品外壳，网站似乎不更新；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45"
+ },
+ "SC-2874": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度尼西亚 Sufi（sufi.co.id 正常；FTTH / 数据中心，没显示明确产品；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45"
+ },
  "SC-2875": {
   "verdict": "keep_C",
   "gate": 1,
@@ -21863,6 +22344,15 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-32"
+ },
+ "SC-2876": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "越南 Việt Hàn Security（viethansecurity.com 正常；MC / SFP / switch 等好几个国内牌子 ✔；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检（越南先例 + 中国品牌 → 找到邮箱即转候选）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45"
  },
  "SC-2877": {
   "verdict": "pass_final",
@@ -21920,6 +22410,18 @@
    "dayjob_fit"
   ]
  },
+ "SC-2882": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "巴西 Flavio Ferreira（gmail；HDMI extender）：HDMI 本职线 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-2883": {
   "verdict": "keep_C",
   "gate": 1,
@@ -21963,6 +22465,30 @@
    "dayjob_fit"
   ]
  },
+ "SC-2887": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "乌克兰 Alexander Dobrydniev（gmail；百兆 SC 单纤 1×9 模块）：守界乌克兰（不 pass，不主动发）→ 留 C；光模块本职线",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-2888": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "Peter Gazda / NST CCTV（nstcctv@gmail.com；国别未填；buying VC from OB Technology）：VC 本职线 + 同行在供 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-2889": {
   "verdict": "keep_C",
   "gate": 1,
@@ -21980,6 +22506,18 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-12"
+ },
+ "SC-2890": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "rusadze@gmail.com（国别未填 → 疑格鲁吉亚；问级联光端机，发了级联规格书）：VC 本职线 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45",
+  "tags": [
+   "dayjob_fit"
+  ]
  },
  "SC-2891": {
   "verdict": "pool_candidate",
@@ -22050,6 +22588,15 @@
   "reason": "仅有公司 / 人名，原始行全文无邮箱、电话、网址、微信等任何联系线索",
   "date": "2026-10-29"
  },
+ "SC-2898": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "Control4（control4.com；国别未填 → 美国；智能家居品牌巨头，switch 商业级，「有人卖他们的」）：品牌巨头 → 留 C 巨头",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45"
+ },
  "SC-2899": {
   "verdict": "keep_C",
   "gate": 1,
@@ -22091,6 +22638,30 @@
    "dayjob_fit"
   ]
  },
+ "SC-2902": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "UPVEL（upvel.com 正常；国别未填；工商业 switch 比较专业；自有品牌网络设备商）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检（自有品牌 → oem_target 备查；国别待核）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45",
+  "tags": [
+   "oem_target"
+  ]
+ },
+ "SC-2903": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "中国大陆 Annie Wang（annietg007@gmail.com；阿里 RFQ「80KM 100G DWDM 模块」）：中国大陆非出口客户 + DWDM 本职线 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-2904": {
   "verdict": "keep_C",
   "gate": 1,
@@ -22108,6 +22679,15 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-32"
+ },
+ "SC-2906": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "乌克兰 Oleg（oleg@mail.ru；fiber lan card）：守界乌克兰（不 pass，不主动发）→ 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45"
  },
  "SC-2907": {
   "verdict": "keep_C",
@@ -22188,6 +22768,15 @@
   "manual": true,
   "batch": "G1-32"
  },
+ "SC-2915": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "沙特 AHB Industrial（ahb-industrial.com nxdomain；fiber tools and testers；无邮箱）：域死 + 无路径 + 品类不符 → 留 C 待巡检（下次仍死即 pass）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-45"
+ },
  "SC-2916": {
   "verdict": "keep_C",
   "gate": 1,
@@ -22196,6 +22785,27 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-32"
+ },
+ "SC-2917": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "Ekinops（ekinops.com 正常；表内澳大利亚，总部法国；光传输设备巨头；「光派产品」）：巨头 + 本职线同行 → 留 C 巨头",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-2918": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "韩国 LS Simple（lssimple.co.kr no_mx；fiber optics / networking；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46"
  },
  "SC-2919": {
   "verdict": "keep_C",
@@ -22218,6 +22828,18 @@
   "g1_reason": "美国 Fiber Instrument Sales（FIS，大型光纤工具 / 无源分销商，在卖 Signamax 交换机，自有 logo 无源 / MC / CWDM）→ 北美主区 + 分销体量；19 推 0 回 → 闸 2",
   "tags": [
    "oem_target",
+   "dayjob_fit"
+  ]
+ },
+ "SC-2920": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "肯尼亚 Tony（rbltny@gmail.com；VC general）：VC 本职线 + 个人 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46",
+  "tags": [
    "dayjob_fit"
   ]
  },
@@ -22263,12 +22885,54 @@
    "dayjob_fit"
   ]
  },
+ "SC-2925": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度 AVP Secured（avpsecured.com 正常；商业 PoE，「看着像国内的外壳」✔；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检（印度先例 + 中国外壳 → 找到邮箱即转候选）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46"
+ },
+ "SC-2926": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度尼西亚 CGS（cgs.co.id 正常；从 OPTONE 买模块；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检；光模块本职线",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-2927": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "Evasion（evasion.com.tn 正常；表内「坦桑尼亚」，.tn = 突尼斯 → 国别待核；商业 PoE；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46"
+ },
  "SC-2928": {
   "verdict": "pass_final",
   "gate": 0,
   "rule": "G0-3",
   "reason": "号码 966-55-12345678 明显假 + 加不上 + 表记「有点像垃圾询盘」",
   "date": "2026-10-29"
+ },
+ "SC-2929": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "俄罗斯 Netside（netside.ru 正常；SFP；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检；SFP 本职线",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46",
+  "tags": [
+   "dayjob_fit"
+  ]
  },
  "SC-293": {
   "verdict": "keep_C",
@@ -22297,6 +22961,15 @@
   "manual": true,
   "batch": "G1-32"
  },
+ "SC-2932": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "Proxim Wireless（proxim.com 正常；表内印度，美国品牌；主要无线 AP，可能需要 PoE）：无线品牌厂 → 留 C 巨头 / 品牌（OEM 可能性低）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46"
+ },
  "SC-2933": {
   "verdict": "pass_final",
   "gate": 0,
@@ -22323,6 +22996,15 @@
   "reason": "表记「0179881 9575  拉黑了」—— 关系已断死",
   "date": "2026-10-29"
  },
+ "SC-2936": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "沙特 Det-Tronics（det-tronics.com 正常；火气探测品牌，Carrier 旗下；8-port ethernet switch）：跨国巨头子公司 → 留 C 巨头",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46"
+ },
  "SC-2937": {
   "verdict": "keep_C",
   "gate": 1,
@@ -22331,6 +23013,15 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-02"
+ },
+ "SC-2938": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "伊朗 Narfoamkar Company（narfoamkar.com 正常；switch for IP camera；无邮箱）：伊朗守界（不 pass，不主动发）→ 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46"
  },
  "SC-2939": {
   "verdict": "keep_C",
@@ -22549,6 +23240,39 @@
    "dayjob_fit"
   ]
  },
+ "SC-2957": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "俄罗斯 ConexPro（conexpro.com 正常；Simon 二筛备注「基本是全线帧田的」✔ = 自有品牌、全线自中国 OEM；无邮箱）：俄罗斯点名区 ✔ 自有品牌 OEM 对象 ✔ 对位 ✔ 公司可坐实 ✔ → 闸 2 查底数（rusprofile / checko）+ 官网找采购路径；收款 / 物流待 Simon；Simon 原判「不行」→ 可按编号否决",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46",
+  "tags": [
+   "oem_target"
+  ]
+ },
+ "SC-2958": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "加拿大 NLNTS（nlnts.tech 正常；SFP 模块；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检；SFP 本职线",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-2959": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "俄罗斯 Satel TVK（sateltvk.ru 正常；「从 raisecom 买一些产品」；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检（俄罗斯点名区，找到邮箱后看）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46"
+ },
  "SC-296": {
   "verdict": "keep_C",
   "gate": 2,
@@ -22571,6 +23295,15 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-32"
+ },
+ "SC-2961": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "俄罗斯 Vostok Electra（vostok-electra.ru 正常；无需求记录；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46"
  },
  "SC-2962": {
   "verdict": "keep_C",
@@ -22630,6 +23363,18 @@
    "oem_target"
   ]
  },
+ "SC-2967": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "厄瓜多尔 Cablemodem（cablemodem.com.ec 正常；Alicia Lliguicota；MC / passive；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检；MC 本职线（厄瓜多尔先例在）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-2968": {
   "verdict": "keep_C",
   "gate": 1,
@@ -22642,6 +23387,15 @@
    "oem_target",
    "dayjob_fit"
   ]
+ },
+ "SC-2969": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "葡萄牙 Metri Kingdom（metrikingdom.com 正常；Saleha Kanwal；+351 920 236 978；问「2 SFP + 2 RJ45 交换机」✔；无邮箱）：欧洲 ✔ 对位产品问 ✔ 电话 / WA 可达 ✔ 公司可坐实 ✔ → 闸 2 查底数（葡萄牙 NIF：racius / einforma 镜像）后 WA / 邮件一页纸（STC-228GP $33 锚）；微型则 △ 预付",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46"
  },
  "SC-297": {
   "verdict": "keep_C",
@@ -22686,6 +23440,27 @@
   "g1_batch": "G1-32",
   "g1_reason": "俄罗斯 Akatel（akatel.ru no_mx；alarmex.ru 正常 = 换址；「从中间商采购中国产品，想从中国直接购买」；两部座机，WA 加不上）：真意向 ✔ Simon 点名俄罗斯 ✔；→ 闸 2 查底数（rusprofile）+ 换 alarmex.ru 地址；俄语区收款待定"
  },
+ "SC-2973": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "吉尔吉斯斯坦 SJT Service Ltd.（Kayrat Sharshenbaev；kostaneda@inbox.ru；Skype；48V 收发器 / 协转）：收发器本职线 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-2974": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "Angustos（angustos.com 正常；国别未填；Simon「同行」）：同行 → 留 C 同行观察",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46"
+ },
  "SC-2975": {
   "verdict": "keep_C",
   "gate": 1,
@@ -22709,6 +23484,33 @@
    "oem_target"
   ]
  },
+ "SC-2977": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "EM Comunitel（emcomunitel.com 正常；国别未填；无需求记录）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46"
+ },
+ "SC-2978": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "Función Digital（funciondigital.com 正常；国别未填；安防的）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46"
+ },
+ "SC-2979": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "GE Grid Solutions（gegridsolutions.com no_mx；Ethernet Optical，「功能比较复杂」）：GE 巨头 → 留 C 巨头",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46"
+ },
  "SC-298": {
   "verdict": "pool_candidate",
   "gate": 2,
@@ -22728,6 +23530,27 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-32"
+ },
+ "SC-2981": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "VIAVI Solutions（viavisolutions.com 正常；光开关）：测试仪表巨头 + 本职线 → 留 C 巨头",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-2982": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "越南 Viễn Thông Khởi Nguyên（vienthongkhoinguyen.com nxdomain；gmail；商业 PoE 主要是洪瑞、光网视的 ✔；10 推 0 回）：洪瑞渠道 → Q-33 口径待 Simon（越南先例 + 中国品牌，口径放开即转候选）→ 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46"
  },
  "SC-2983": {
   "verdict": "keep_C",
@@ -22764,6 +23587,18 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-32"
+ },
+ "SC-2987": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "委内瑞拉 Techtrol Sistemas Electrónicos（techtrol.com.ve 正常；Video Servers / Video encoder；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检；视频编码本职线",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46",
+  "tags": [
+   "dayjob_fit"
+  ]
  },
  "SC-2988": {
   "verdict": "keep_C",
@@ -22901,6 +23736,15 @@
   "manual": true,
   "batch": "G1-13"
  },
+ "SC-3000": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "墨西哥 Fibremex（fibremex.com 正常；无需求记录；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检（墨西哥先例在，找到邮箱后看）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46"
+ },
  "SC-3001": {
   "verdict": "keep_C",
   "gate": 1,
@@ -22937,6 +23781,15 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-33"
+ },
+ "SC-3005": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "哥斯达黎加 Intelec（intelec.co.cr 正常；商业 PoE 为主，好多种外壳 ✔；「销售平台」；网站 WA 按钮 +506 8468 3532）：中国外壳 ✔ WA 可达 ✔ 但哥斯达黎加无先例 + 平台型 → 留 C 储备（WA 一页纸一次后看）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46"
  },
  "SC-3006": {
   "verdict": "keep_C",
@@ -22983,6 +23836,15 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-08"
+ },
+ "SC-3010": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度 Rk（mdakhtar943.phusro@gmail.com；2 光 4 PoE 大壳；1 推；Simon 标记不再跟进 / Spam）：Simon 备注非闸 0 依据 → 留 C 不主动",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46"
  },
  "SC-3011": {
   "verdict": "keep_C",
@@ -23102,6 +23964,18 @@
   "reason": "表记发不过去 / 退信；bilimtek.com.tr NXDOMAIN；无电话、无 WA",
   "date": "2026-10-29"
  },
+ "SC-3022": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "瑞士 MH Fiberoptics（mh-fiberoptics.com no_mx；MC / WDM / 跳线；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检；MC / WDM 本职线",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-3023": {
   "verdict": "pool_candidate",
   "gate": 2,
@@ -23132,6 +24006,15 @@
   "reason": "表记发不过去 / 退信；tekeir.com NXDOMAIN；无电话、无 WA",
   "date": "2026-10-29"
  },
+ "SC-3026": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "喀麦隆 Norbert Ndongo（gmail；「有需求会说」，问了 catalog；WA 还没尝试加）：个人 + 无先例 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46"
+ },
  "SC-3027": {
   "verdict": "keep_C",
   "gate": 1,
@@ -23152,6 +24035,15 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-33"
+ },
+ "SC-3029": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "南非 Phalaborwa Mining Company（riotinto.com；Rio Tinto 矿业巨头终端；video to wireless）：巨头终端 → 留 C 巨头",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46"
  },
  "SC-303": {
   "verdict": "keep_C",
@@ -23201,6 +24093,24 @@
   "manual": true,
   "batch": "G1-33"
  },
+ "SC-3034": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "沙特 7 Stars（sevenstarstech.com 正常；take catalog；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46"
+ },
+ "SC-3035": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "巴林 Almufeed Information Technology（almufeed.com 正常；catalogue；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46"
+ },
  "SC-3036": {
   "verdict": "keep_C",
   "gate": 1,
@@ -23209,6 +24119,15 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-08"
+ },
+ "SC-3037": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "沙特 BlueRays Technology LLC（blueraystechnology.com nxdomain；catalogue）：域名 nxdomain + 无邮箱 / 电话 → 留 C 待巡检（下次巡检仍死即 pass）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46"
  },
  "SC-3038": {
   "verdict": "keep_C",
@@ -23255,6 +24174,18 @@
   "manual": true,
   "batch": "G1-33"
  },
+ "SC-3042": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "沙特 Manakh Shebah Al-Jazeerah（msj.com.sa 正常；历史报价 24ch video $1180/pair、1V1D $90/pair、MC $20；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检；VC / MC 本职线",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-3043": {
   "verdict": "keep_C",
   "gate": 1,
@@ -23263,6 +24194,48 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-33"
+ },
+ "SC-3044": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "黎巴嫩 Safe Home（safehometechno.com 正常；need prices for 1ch / 2ch / 4ch and fiber；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检；VC 本职线",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-3045": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "Star Max（starmaxuae.com no_mx；表内沙特，域名 UAE → 国别待核；4V1D；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检；VC 本职线",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-3046": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "伊朗 Tehran Nikava Co（nikava.biz 正常；无需求记录；无邮箱）：伊朗守界（不 pass，不主动发）→ 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46"
+ },
+ "SC-3047": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "罗马尼亚 AC-CSS（ac-css.ro 正常；CCTV price list；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检（欧洲 CCTV 商，找到邮箱后看）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46"
  },
  "SC-3048": {
   "verdict": "pass_final",
@@ -23326,6 +24299,15 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-33"
+ },
+ "SC-3054": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "伊朗 HARG Co（hargco.com nxdomain；4 people；telecom MC）：伊朗守界（不 pass，不主动发）→ 留 C；域死",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46"
  },
  "SC-3055": {
   "verdict": "pass_final",
@@ -23436,6 +24418,27 @@
   "manual": true,
   "batch": "G1-33"
  },
+ "SC-3066": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "伊朗 VAFCO（vafco.ir 正常；SDH / PDH / Wireless，在和 WRI 合作；与 SC-3067 vafcorp.com 同一户）：伊朗守界（不 pass，不主动发）→ 留 C；SDH 本职线",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-3067": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "伊朗 VAF Corp（vafcorp.com nxdomain；与 SC-3066 vafco.ir 同一户 → 待并档）：伊朗守界（不 pass，不主动发）→ 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46"
+ },
  "SC-3068": {
   "verdict": "keep_C",
   "gate": 1,
@@ -23444,6 +24447,15 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-33"
+ },
+ "SC-3069": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "伊朗 Yas Communication（yascommunication.com nxdomain；无需求记录）：伊朗守界（不 pass，不主动发）→ 留 C；域死",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46"
  },
  "SC-307": {
   "verdict": "keep_C",
@@ -23624,6 +24636,15 @@
    "dayjob_fit"
   ]
  },
+ "SC-3087": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "俄罗斯 Data Group（datasystems.ru no_mx；无需求记录；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46"
+ },
  "SC-3088": {
   "verdict": "keep_C",
   "gate": 1,
@@ -23632,6 +24653,15 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-33"
+ },
+ "SC-3089": {
+  "verdict": "pass_final",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "英国 Gvaman Consultancy Services（Brij Mishra Sales Head；brijmishra07@gmail.com 退信 bounce=1；无电话 / 无域名 / 无平台账号；「交谈内容无记录」）：退信且无任何备用路径 + 零内容 = 闸 0 刚性② → 永久 pass",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46"
  },
  "SC-309": {
   "verdict": "pool_candidate",
@@ -23643,6 +24673,24 @@
   "batch": "G2-129",
   "g1_batch": "G1-13",
   "g1_reason": "俄罗斯 TD Tel（tdtel.ru；表内「卖朱姐牌子设备 PoE / MC / switch / 周边」= 在售中国同口型产品）：进口中国同类 ✔ 对位 ✔ 俄罗斯；群发 18 次 0 回 → 闸 2 查底数；俄语区收款待定，低优先"
+ },
+ "SC-3090": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "俄罗斯 MPO RVM Yantsev（mporom.ru nxdomain；无需求记录）：域名 nxdomain + 无邮箱 / 电话 → 留 C 待巡检（下次巡检仍死即 pass）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46"
+ },
+ "SC-3091": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "俄罗斯 Secvior（secvior.ru 正常；just take the catalogue；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46"
  },
  "SC-3092": {
   "verdict": "keep_C",
@@ -23686,6 +24734,15 @@
   "manual": true,
   "batch": "G1-33"
  },
+ "SC-3096": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "巴西 Eliane Ramos（bol.com.br；2010 年注册；网站搜出来不相关；Simon 标记不再跟进）：Simon 备注非闸 0 依据 → 留 C 不主动",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46"
+ },
  "SC-3097": {
   "verdict": "keep_C",
   "gate": 1,
@@ -23694,6 +24751,30 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-33"
+ },
+ "SC-3098": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "马来西亚 Startech IT Sdn Bhd（startechit.com.my 域死；Kangson Wang；gmail；WA / 微信按钮 +60 167 728 962；MC / VC 产品来自多家，周边产品）：MC / VC 本职线 + 域死 → 留 C 待巡检 + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-3099": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "俄罗斯 ООО Выпуск（ra-trent.ru no_mx；8V 视频光端机；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检；VC 本职线",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46",
+  "tags": [
+   "dayjob_fit"
+  ]
  },
  "SC-310": {
   "verdict": "keep_C",
@@ -23749,6 +24830,15 @@
   "manual": true,
   "batch": "G1-33"
  },
+ "SC-3105": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "Gladness Bokamoso Lekgoa（lbgladness@gmail.com；国别未填 → 疑南非 / 博茨瓦纳；「有兴趣在南非搞一个 office」）：个人意向 + 无公司 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46"
+ },
  "SC-3106": {
   "verdict": "keep_C",
   "gate": 1,
@@ -23799,6 +24889,30 @@
   "g1_batch": "G1-13",
   "g1_reason": "俄罗斯 Videoglaz（videoglaz.ru；CCTV 为主 + hasivo 商业 PoE）：进口中国同类 ✔ 对位 ✔ 俄罗斯；群发 17 次 0 回 → 闸 2 查底数；俄语区收款待定，低优先"
  },
+ "SC-3110": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "孟加拉 Bari（2020-12 询盘「HDMI 1 网 1 USB」；表内无联系方式但 11 推 = 路径在）：HDMI 本职线 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-3111": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "Government of Sharjah（Bijee Phillip；bijee@eim.ae；表内沙特，实为阿联酋沙迦政府；need price for 4V1D / 8V / 1V）：政府终端 + VC 本职线 → 留 C 守界",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-3112": {
   "verdict": "keep_C",
   "gate": 1,
@@ -23810,6 +24924,27 @@
   "tags": [
    "dayjob_fit"
   ]
+ },
+ "SC-3113": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "巴西 Net Plus（netplus.com.br 正常；「2007 年与我们合作过 / 来访过，MC 业务」；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检（巴西先例 + 老客户；MC = 本职线优先重连）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-3114": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "阿尔及利亚 Abdelmadjid Damis（Algérie Télécom 员工，algerietelecom.dz；damis_maj@yahoo.fr；WA +213 661 682 908 可加；「想自己开公司找厂家，意愿比较强」）：个人创业意向 ✔ 但无公司 + 阿尔及利亚无先例 → 留 C 储备（成立公司后再看）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-46"
  },
  "SC-3115": {
   "verdict": "keep_C",
@@ -23995,6 +25130,15 @@
   "manual": true,
   "batch": "G1-08"
  },
+ "SC-3132": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "巴基斯坦 Teczium（Usama Hamid；原表「VX: usama_1991」= 微信 ID；2026-07 阿里询盘「EO Converter」；Simon 标不相关）：微信 + 阿里后台路径在 → 留 C 不主动（品类不符）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47"
+ },
  "SC-3133": {
   "verdict": "keep_C",
   "gate": 1,
@@ -24003,6 +25147,15 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-08"
+ },
+ "SC-3134": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "格鲁吉亚 Lagi CCTV（lagicctv.ge 正常；gmail；网站 Skype 按钮；主要 CCTV，用台湾 Geovision 的；16 推 0 回）：CCTV 店 + 格鲁吉亚无先例 + 零回应 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47"
  },
  "SC-3135": {
   "verdict": "pool_candidate",
@@ -24027,6 +25180,15 @@
    "dayjob_fit"
   ]
  },
+ "SC-3137": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "菲律宾 MJ Auto-ID（mj-autoid.com 正常；网站有 CCTV 类项目；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47"
+ },
  "SC-3138": {
   "verdict": "keep_C",
   "gate": 1,
@@ -24035,6 +25197,15 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-34"
+ },
+ "SC-3139": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "俄罗斯 安防公司（xn--80adgenjmx1d.xn--80adxhks nxdomain；很多摄像头；无邮箱）：域名 nxdomain + 无邮箱 / 电话 → 留 C 待巡检（下次巡检仍死即 pass）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47"
  },
  "SC-314": {
   "verdict": "keep_C",
@@ -24045,6 +25216,33 @@
   "manual": true,
   "batch": "G1-13"
  },
+ "SC-3140": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度 Cochin Aircraft Maintenance Co（cochinamco.com nxdomain；无需求记录）：域名 nxdomain + 无邮箱 / 电话 → 留 C 待巡检（下次巡检仍死即 pass）；航空维修终端",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47"
+ },
+ "SC-3141": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度 Prash Trading Pvt. Ltd.（prashtrading.com nxdomain；无需求记录）：域名 nxdomain + 无邮箱 / 电话 → 留 C 待巡检（下次巡检仍死即 pass）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47"
+ },
+ "SC-3142": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度 SEC Communications（seccom.org 正常；Converging Conferencing Solutions；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检；会议系统非 Saga 主线",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47"
+ },
  "SC-3143": {
   "verdict": "keep_C",
   "gate": 1,
@@ -24053,6 +25251,27 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-04"
+ },
+ "SC-3144": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "沙特 Al Fisht Elect（Wamiq Wasi；2023-06 阿里询盘「2×2 bypass 50 个」；「没有联系方式，问客户要了没给」；后续不看消息）：阿里后台路径在 + bypass 本职线 → 留 C 待巡检 + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-3145": {
+  "verdict": "pass_final",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "feruz929250@gmail.com（表内俄罗斯，备注乌兹别克斯坦；2017 年国际站「光猫」；退信 bounce=1；无电话 / 域名 / 平台）：退信且无电话 / 域名 / 平台备用路径 = 闸 0 刚性② → 永久 pass",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47"
  },
  "SC-3146": {
   "verdict": "keep_C",
@@ -24071,6 +25290,18 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-04",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-3148": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "马耳他 DSS Datanet Security Systems（dss.com.mt nxdomain；Calvin Marais；video converter information）：域名 nxdomain + 无邮箱 / 电话 → 留 C 待巡检（下次巡检仍死即 pass）；VC 本职线",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47",
   "tags": [
    "dayjob_fit"
   ]
@@ -24103,6 +25334,15 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-34"
+ },
+ "SC-3151": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "安哥拉 Eugénio Hossi（gmail；WA +244 927 145 309 还没尝试加；工业自动化 Ethernet / 工业管理，「有需求会说」）：个人 + 无先例 → 留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47"
  },
  "SC-3152": {
   "verdict": "keep_C",
@@ -24148,6 +25388,15 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-34"
+ },
+ "SC-3156": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "乌克兰 XMEye（xmeye.com.ua 正常；gmail；商业 PoE）：守界乌克兰（不 pass，不主动发）→ 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47"
  },
  "SC-3157": {
   "verdict": "keep_C",
@@ -24260,6 +25509,15 @@
   "manual": true,
   "batch": "G1-34"
  },
+ "SC-3167": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "巴拿马 Ring Ring Energy（ringringenergy.com 正常；主要无源设备；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47"
+ },
  "SC-3168": {
   "verdict": "keep_C",
   "gate": 1,
@@ -24290,6 +25548,18 @@
   "manual": true,
   "batch": "G1-08"
  },
+ "SC-3170": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "沙特 / 沙迦 JEEYAR（jeeyarme.com nxdomain；knows MC and VC，lives in 沙迦）：域名 nxdomain + 无邮箱 / 电话 → 留 C 待巡检（下次巡检仍死即 pass）；MC / VC 本职线",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-3171": {
   "verdict": "keep_C",
   "gate": 1,
@@ -24308,6 +25578,15 @@
   "rule": "G0-3",
   "reason": "表记「51 - 9676 77156 已加  拉黑了」—— 关系已断死",
   "date": "2026-10-29"
+ },
+ "SC-3173": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "突尼斯 Nasreddine Ghorri（gmail；「有兴趣合作」）：个人 + 无公司 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47"
  },
  "SC-3174": {
   "verdict": "pass_final",
@@ -24355,6 +25634,15 @@
    "dayjob_fit"
   ]
  },
+ "SC-3179": {
+  "verdict": "pass_final",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "哥伦比亚 Sinag-Tel（sinagtelservices@gmail.com 退信；sinag-tel.co nxdomain；无电话；商业 PoE）：退信且无电话 / 域名 / 平台备用路径 = 闸 0 刚性② → 永久 pass（域名亦死，非备用路径）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47"
+ },
  "SC-318": {
   "verdict": "keep_C",
   "gate": 1,
@@ -24363,6 +25651,39 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-08"
+ },
+ "SC-3180": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "沙特 Ansaries Security System（ansaries.com 正常；fiber HDMI & VGA + Video distributor；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检；HDMI / VC 本职线",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-3181": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "叙利亚 Cham Tech（cham-sy.com 正常；need IP cameras；无邮箱）：叙利亚守界 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47"
+ },
+ "SC-3182": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "卡塔尔 First Choice Cont. & Trad.（firstchoice-qa.com nxdomain；System integrator，just give price list for VC）：域名 nxdomain + 无邮箱 / 电话 → 留 C 待巡检（下次巡检仍死即 pass）；VC 本职线",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47",
+  "tags": [
+   "dayjob_fit"
+  ]
  },
  "SC-3183": {
   "verdict": "keep_C",
@@ -24376,6 +25697,24 @@
    "dayjob_fit"
   ]
  },
+ "SC-3184": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "沙特 Kouja Trading（kjsecurity.com null_mx；CCTV & Satellite，need fiber optics sometimes；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47"
+ },
+ "SC-3185": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "沙特 Last Vision（lastvision-sa.com 正常；「14 building, 320 cameras」项目；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检；项目终端",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47"
+ },
  "SC-3186": {
   "verdict": "keep_C",
   "gate": 1,
@@ -24384,6 +25723,36 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-34"
+ },
+ "SC-3187": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "伊朗 Tolue Co.（tolue.ir / rfid.ir 正常；VC for projects in Iran；无邮箱）：伊朗守界（不 pass，不主动发）→ 留 C；VC 本职线",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-3188": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "Zener Electronics UAE（zeneradh.com 正常；表内沙特，实为阿联酋 → 国别待核；CCTV Solutions；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47"
+ },
+ "SC-3189": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "沙特 Scientechic（ae-.com / scientechic.ae 均 nxdomain；need price list for CCTV）：域名 nxdomain + 无邮箱 / 电话 → 留 C 待巡检（下次巡检仍死即 pass）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47"
  },
  "SC-319": {
   "verdict": "keep_C",
@@ -24538,6 +25907,18 @@
   "manual": true,
   "batch": "G1-34"
  },
+ "SC-3203": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "斯里兰卡 Jteem Solutions（jteemsolutions.com 正常；Nimantha，gmail；MC / 无源器件；3 推 0 回）：MC 本职线 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-3204": {
   "verdict": "keep_C",
   "gate": 1,
@@ -24550,6 +25931,15 @@
    "dayjob_fit"
   ]
  },
+ "SC-3205": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "越南 XTCOM Technology（xtcom.vn no_mx；xtcomtechnology@gmail.com 退信 ×2；工业交换机 + 商业 PoE 主要是大华、光网视的 ✔；有大华和很多外壳；「销售平台」）：越南先例 + 中国品牌 ✔ 但邮箱退信；域名存活 = 非刚性 → 留 C 待巡检（官网 / FB 找到邮箱即转候选）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47"
+ },
  "SC-3206": {
   "verdict": "keep_C",
   "gate": 1,
@@ -24558,6 +25948,27 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-01",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-3207": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "埃及 Link2000（Hussein El Sayed，yahoo；price list for all；WA 加不上）：零信息 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47"
+ },
+ "SC-3208": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "阿尔及利亚 Mokhtar Belkhiati（gmail；会用到 MC OAM）：MC 本职线 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47",
   "tags": [
    "dayjob_fit"
   ]
@@ -24743,6 +26154,15 @@
   "manual": true,
   "batch": "G1-34"
  },
+ "SC-3225": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "俄罗斯 kdidkovsky@gmail.com（无需求记录）：零信息 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47"
+ },
  "SC-3226": {
   "verdict": "keep_C",
   "gate": 1,
@@ -24752,6 +26172,15 @@
   "manual": true,
   "batch": "G1-34"
  },
+ "SC-3227": {
+  "verdict": "pass_final",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "3D Video System（Adanie；adanielipvideo@aol.com 退信；国别未填；无电话 / 域名 / 平台；MC）：退信且无电话 / 域名 / 平台备用路径 = 闸 0 刚性② → 永久 pass",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47"
+ },
  "SC-3228": {
   "verdict": "keep_C",
   "gate": 1,
@@ -24760,6 +26189,18 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-04",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-3229": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度 Ezone Security Solutions（ezonesecurity.com 正常；1–4V data / audio price；无邮箱）：仅公司网址、无邮箱 / 电话 = 路径未建（域名即 URL，非闸 0）→ 留 C 待巡检；VC 本职线",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47",
   "tags": [
    "dayjob_fit"
   ]
@@ -24796,12 +26237,45 @@
    "dayjob_fit"
   ]
  },
+ "SC-3232": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "沙特 Alhamrani Universal Company（universal.com.sa 正常；take catalog；原邮箱退信但域名存活）：沙特大集团 → 留 C 巨头 / 待巡检（非刚性）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47"
+ },
  "SC-3233": {
   "verdict": "pass_final",
   "gate": 0,
   "rule": "G0-2",
   "reason": "表记发不过去 / 退信；fonotex.es NXDOMAIN；无电话、无 WA",
   "date": "2026-10-29"
+ },
+ "SC-3234": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "巴西 Omni do Brasil（omnidobrasil.com.br 正常；Pedro Alexandre Gomes，terra.com.br；Buy VC from US（fail）；WA 加不上）：巴西先例在 + VC 本职线 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-3235": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "哥伦比亚 SyG Sertesegur（Sergio Rangel；gmail 退信；电话 +57 315 510 7634 在 = 备用路径；4MP VC 需要高像素）：非刚性 + VC 本职线 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47",
+  "tags": [
+   "dayjob_fit"
+  ]
  },
  "SC-3236": {
   "verdict": "keep_C",
@@ -24811,6 +26285,15 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-08"
+ },
+ "SC-3237": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "中国大陆 Longse（longse.com；商业 PoE；「很多在卖他们的」）：中国大陆同行 / 供应链域名（非出口客户）→ 不入池、不 pass → 留 C（同行观察）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47"
  },
  "SC-3238": {
   "verdict": "keep_C",
@@ -24841,6 +26324,15 @@
   "g1_batch": "G1-13",
   "g1_reason": "印度 Enercore（enercore.co.in；表内「工业 FS 有海思的」= 在售中国方案工业机）：进口中国同类 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先"
  },
+ "SC-3240": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "中国大陆 RAS CCTV（rascctv.com；广州一家的商业 PoE；「有人用他们的」）：中国大陆同行 / 供应链域名（非出口客户）→ 不入池、不 pass → 留 C（同行观察）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47"
+ },
  "SC-3241": {
   "verdict": "keep_C",
   "gate": 1,
@@ -24869,6 +26361,27 @@
    "dayjob_fit"
   ]
  },
+ "SC-3244": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "乌克兰 Vago（vago.ua 正常；MC / SFP / 无源；无邮箱）：守界乌克兰（不 pass，不主动发）→ 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47"
+ },
+ "SC-3245": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "马来西亚 Jackee Chong（Malaysia fair；会中文；加了 Simon 微信 ✔；主要做 Passive，在找 MC / 工业 MC 供应商，在意价格；去了光博会）：微信路径 ✔ 但需求为 MC = 本职线 → 留 C + dayjob_fit（本职线优先）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-3246": {
   "verdict": "keep_C",
   "gate": 1,
@@ -24885,6 +26398,27 @@
   "reason": "表记发不过去 / 退信；jotronix.com NXDOMAIN；无电话、无 WA",
   "date": "2026-10-29"
  },
+ "SC-3248": {
+  "verdict": "pass_final",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国 North American Cable Equipment Inc（ISC 2011 展会名单；interested in CATV optical transmitters；原表无邮箱 / 电话 / 网址 / 微信 / 领英，无任何可寻路径）：闸 0 刚性①（无邮箱无 WA 无任何迹）+ 2011 陈旧 + CATV 发射机非 Saga 线 → 永久 pass",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47"
+ },
+ "SC-3249": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "埃及 Telecom Egypt（te.eg；Dr. Amr Mohamed Refaat，gmail ×2，领英电话；主动问 DWDM / general information）：巨头运营商 + DWDM 本职线 → 留 C 巨头 + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-325": {
   "verdict": "keep_C",
   "gate": 1,
@@ -24893,6 +26427,15 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-08"
+ },
+ "SC-3250": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "阿尔及利亚 SEZGINE（Lameche Badreddine；gmail 退信 ×2；微信 / WhatsApp +213 44 28 1090 在）：非刚性 → 留 C（WA 路径）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47"
  },
  "SC-3251": {
   "verdict": "pass_final",
@@ -24923,6 +26466,45 @@
   "rule": "G0-3",
   "reason": "表记「| contact=813 446 4879  拉黑了」—— 关系已断死",
   "date": "2026-10-29"
+ },
+ "SC-3255": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "Ingram Micro（ingrammicro.com；表内菲律宾；Kevin Mychal Ong，yahoo，邮件发送失败；2016 年「2.5G network switch」）：全球分销巨头 → 留 C 巨头（2.5G 口径待 SB-263）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47"
+ },
+ "SC-3256": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "俄罗斯 ООО НАГ（NAG，原表仅 yandex 搜索链接；「switch / 线缆等分销商」「网站在维修」；富通天下）：俄罗斯最大网络设备分销之一，自有品牌 SNR → 留 C 巨头（oem_target 备查；路径未建）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47",
+  "tags": [
+   "oem_target"
+  ]
+ },
+ "SC-3257": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度 Suraj Ravindran（仅电话 8129183067；「对工业 2 光 4 电感兴趣，想大量买」；Simon 备注 Spam）：电话路径在；Simon 标记非 pass 依据 → 留 C 不主动",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47"
+ },
+ "SC-3258": {
+  "verdict": "pass_final",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国 Irene Bess（feerykusky1@hotmail.com 退信；2022 年看了很多串口工业品；无电话 / 域名 / 平台）：退信且无电话 / 域名 / 平台备用路径 = 闸 0 刚性② → 永久 pass",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47"
  },
  "SC-3259": {
   "verdict": "pass_final",
@@ -24961,6 +26543,27 @@
   "reason": "仅有公司 / 人名，原始行全文无邮箱、电话、网址、微信等任何联系线索",
   "date": "2026-10-29"
  },
+ "SC-3263": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "加拿大 ahmed.parvez79@gmail.com（退信；电话 908 475 7911 在但 WA 加不上；4 光 8 电工业 / 8 电口工业）：电话 = 备用路径，非刚性 → 留 C 待巡检",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47"
+ },
+ "SC-3264": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "伊朗 erdush_alireza@yahoo.com（VC price list）：伊朗守界（不 pass，不主动发）→ 留 C；VC 本职线",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-3265": {
   "verdict": "keep_C",
   "gate": 1,
@@ -24980,6 +26583,15 @@
   "batch": "G2-127",
   "g1_batch": "G1-08",
   "g1_reason": "西班牙 Calytel（calytel.com；很多国内的产品、CCTV 为主、「卖下边公司的」）：欧洲 + 多品牌进口经验 + 对位 ✔ → 闸 2 查底数，低优先（stop flag 为文本命中）；Simon 曾判不行 → 可按编号否决"
+ },
+ "SC-3267": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "阿联酋 Change Networks（change-networks.com 正常；digitalcndxb@gmail.com；FB 电话 +971 58 569 3600；COMMANDO 分销商；Simon 标 Spam / 不跟）：分销商 ✔ 但印度品牌代理 + 阿联酋无先例 + Simon 不跟 → 留 C 不主动",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47"
  },
  "SC-3268": {
   "verdict": "pass_final",
@@ -25050,12 +26662,42 @@
   "reason": "仅有公司 / 人名，原始行全文无邮箱、电话、网址、微信等任何联系线索",
   "date": "2026-10-29"
  },
+ "SC-3276": {
+  "verdict": "pass_final",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度尼西亚 PT Integra Global Solusi（富通天下名单；「从 VOLKTEK 买很多」；原表无邮箱 / 电话 / 网址 / 微信 / 领英，无任何可寻路径）：闸 0 刚性① → 永久 pass（如 Simon 想救回可按编号否决）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47"
+ },
  "SC-3277": {
   "verdict": "pass_final",
   "gate": 0,
   "rule": "G0-1",
   "reason": "仅有公司 / 人名，原始行全文无邮箱、电话、网址、微信等任何联系线索",
   "date": "2026-10-29"
+ },
+ "SC-3278": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "沙特 Wisetech Co.（Eng. Ihab Doghmosh；hotmail 退信；电话 +966 532 709 392 在；VC）：非刚性 + VC 本职线 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-3279": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "俄罗斯 ООО «МЕРЛИОН»（Merlion；「从 IP-COM 买，网站打不开」；富通天下；原表无邮箱 / 电话）：俄罗斯最大 IT 分销巨头之一 → 留 C 巨头（不 pass；路径未建，收款待定）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-48"
  },
  "SC-328": {
   "verdict": "keep_C",
@@ -25075,6 +26717,27 @@
   "rule": "G0-1",
   "reason": "仅有公司 / 人名，原始行全文无邮箱、电话、网址、微信等任何联系线索",
   "date": "2026-10-29"
+ },
+ "SC-3281": {
+  "verdict": "pass_final",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "土耳其 Rasyonel Güvenlik Sistemleri（ETW 2011 展会名单；fiber optic price list；原表无邮箱 / 电话 / 网址 / 微信 / 领英）：闸 0 刚性①（无邮箱 / 电话 / WA / 域名 / 平台链接，原表无任何可寻迹）→ 永久 pass（2011 陈旧 + 土耳其同名安防公司众多，无法坐实；如 Simon 想救回可按编号否决）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-48"
+ },
+ "SC-3282": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "格鲁吉亚 Georgian International Company（Giorgi Varsimashvili；rambler.ru 退信；电话 +995 95 908 376 在但 WA 加不上；VC）：电话 = 备用路径，非刚性 + VC 本职线 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-48",
+  "tags": [
+   "dayjob_fit"
+  ]
  },
  "SC-3283": {
   "verdict": "keep_C",
@@ -25104,12 +26767,39 @@
   "reason": "仅有公司 / 人名，原始行全文无邮箱、电话、网址、微信等任何联系线索",
   "date": "2026-10-29"
  },
+ "SC-3286": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "沙特 Creative Computer Trading（Shafi；仅电话 +966 50 273 7825；Simon「暂时不跟进」）：电话路径在；Simon 标记非 pass 依据 → 留 C 不主动",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-48"
+ },
+ "SC-3287": {
+  "verdict": "pass_final",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "尼泊尔 Him Hippo Company Pvt. Ltd.（「a bid of telecom Nepal」；原表无邮箱 / 电话 / 网址）：闸 0 刚性①（无邮箱 / 电话 / WA / 域名 / 平台链接，原表无任何可寻迹）→ 永久 pass",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-48"
+ },
  "SC-3288": {
   "verdict": "pass_final",
   "gate": 0,
   "rule": "G0-1",
   "reason": "仅有公司 / 人名，原始行全文无邮箱、电话、网址、微信等任何联系线索",
   "date": "2026-10-29"
+ },
+ "SC-3289": {
+  "verdict": "pass_final",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "肯尼亚 Secutech Masters Limited（Andrew M. Ngigi / CEO；wanyabs@yahoo.com 退信；「VC buy from others at $15 less」；无电话 / 域名 / 平台）：退信且无电话 / 域名 / 平台备用路径 = 闸 0 刚性② → 永久 pass",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-48"
  },
  "SC-329": {
   "verdict": "keep_C",
@@ -25124,12 +26814,33 @@
    "dayjob_fit"
   ]
  },
+ "SC-3290": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "沙特 Advanced Broadband Electro（abb-electro.com dead；「12 pairs 8V1D」VC；表内标体量过大）：域名死 + 无邮箱 → 留 C 待巡检（下次仍死即 pass）+ dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-48",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-3291": {
   "verdict": "pass_final",
   "gate": 0,
   "rule": "G0-1",
   "reason": "仅有公司 / 人名，原始行全文无邮箱、电话、网址、微信等任何联系线索",
   "date": "2026-10-29"
+ },
+ "SC-3292": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "Jos. Hansen & Soehne (Gulf) LLC（Intersec 2011；原表仅「@emirates.net.ae」域名片段；catalogue；表内沙特，实为阿联酋 → 国别待核）：德资贸易行海湾公司，公司可坐实但路径未建 → 留 C 待巡检",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-48"
  },
  "SC-3293": {
   "verdict": "keep_C",
@@ -25142,6 +26853,15 @@
   "tags": [
    "dayjob_fit"
   ]
+ },
+ "SC-3294": {
+  "verdict": "pass_final",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国 Ami Cardenasespinoza（amicardenas12@icloud.com 退信；光猫；无电话 / 域名 / 平台）：退信且无电话 / 域名 / 平台备用路径 = 闸 0 刚性② → 永久 pass",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-48"
  },
  "SC-3295": {
   "verdict": "keep_C",
@@ -25211,6 +26931,18 @@
   "reason": "表记「person=Nancy Khoury  拉黑了 | fr」—— 关系已断死",
   "date": "2026-10-29"
  },
+ "SC-3301": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "法国 Artus Events（artusevents.com dead；Fleury Syrill，syrill@wanadoo.fr 未退信；SDI 多功能；官网视频类；Simon 不跟）：邮箱在 = 路径在；SDI 本职线 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-48",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-3302": {
   "verdict": "pool_candidate",
   "gate": 2,
@@ -25258,6 +26990,27 @@
   "reason": "仅有公司 / 人名，原始行全文无邮箱、电话、网址、微信等任何联系线索",
   "date": "2026-10-29"
  },
+ "SC-3307": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度 currentoptronics@gmail.com（SFP，「买后边的」= 深圳 OPWAY；Simon 标 Spam）：SFP 本职线；Simon 标记非 pass 依据 → 留 C 不主动 + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-48",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-3308": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "乌克兰 IT-Web（MIC；TA510-FE；原表无联系方式）：守界乌克兰（不 pass，不主动发）→ 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-48"
+ },
  "SC-3309": {
   "verdict": "pass_final",
   "gate": 0,
@@ -25275,6 +27028,27 @@
   "batch": "G2-126",
   "g1_batch": "G1-08",
   "g1_reason": "英国 Industrial Comms（industrialcomms.com；bypass / 工业 FS 基本是研华的 = 工业网络分销）：英国主区 + 分销主体 + 对位 ✔；名单内未触达 → 闸 2 查底数，低优先"
+ },
+ "SC-3310": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "埃塞俄比亚 Alador Nigus（领英来源 = 平台路径；catalogue；主要 networking / CCTV）：个人 + 无先例 → 留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-48"
+ },
+ "SC-3311": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "埃塞俄比亚 Ethio Telecom（ethiotelecom.et 正常；Mebrahtu Marso，gmail；需要 OTDR）：巨头运营商 + OTDR 本职线 → 留 C 巨头 + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-48",
+  "tags": [
+   "dayjob_fit"
+  ]
  },
  "SC-3312": {
   "verdict": "pass_final",
@@ -25301,6 +27075,15 @@
   "tags": [
    "dayjob_fit"
   ]
+ },
+ "SC-3315": {
+  "verdict": "pass_final",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "埃及 ICOT（ETW 2011；8ch VC；原表无邮箱 / 电话 / 网址）：闸 0 刚性①（无邮箱 / 电话 / WA / 域名 / 平台链接，原表无任何可寻迹）→ 永久 pass；VC 本职线亦无路径",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-48"
  },
  "SC-3316": {
   "verdict": "keep_C",
@@ -26077,6 +27860,15 @@
   "manual": true,
   "batch": "G1-01"
  },
+ "SC-3409": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "中国大陆（made-in-china 店铺链接；Smartbyte 同行表）：中国大陆同行 / 供应链域名（非出口客户）→ 不入池、不 pass → 留 C（同行观察）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47"
+ },
  "SC-341": {
   "verdict": "keep_C",
   "gate": 1,
@@ -26088,6 +27880,87 @@
   "tags": [
    "dayjob_fit"
   ]
+ },
+ "SC-3410": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "韩国 Optowiz（LinkedIn 公司页；富通天下；SFP；无邮箱 / 电话）：光模块本职线 + 仅平台链接 → 留 C 待巡检 + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-3411": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "Enable-IT（谷歌搜索链接 enableit；国别未填 → 美国；商业 PoE / PoE 配件；美国 EoC / PoE 延长品牌商）：品牌同行 → 留 C 同行观察",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47"
+ },
+ "SC-3412": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度 Creative Security Systems, Ludhiana（IndiaMART 商品页 network-switch；「新桥商业 PoE」✔；谷歌来源；无邮箱 / 电话）：印度先例 + 中国品牌 ✔ 但仅平台链接 → 留 C 待巡检（IndiaMART 页取到邮箱即转候选）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47"
+ },
+ "SC-3413": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "南非 Forbatt（谷歌搜索链接；商业 PoE；南非安防分销商，自有品牌 Forbatt 迹象 → oem_target 备查；无邮箱 / 电话）：南非先例 ✔ 自有品牌 ✔ 但路径未建 → 留 C 待巡检（找到邮箱即转候选）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-47",
+  "tags": [
+   "oem_target"
+  ]
+ },
+ "SC-3414": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "INGENIERIA Y CONTRATOS S.A.S.（海关数据；原表仅谷歌搜索链接；国别未填，S.A.S. 后缀指向哥伦比亚 → 国别待核）：海关数据有进口记录 = 路径可建 → 留 C 待巡检",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-48"
+ },
+ "SC-3415": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "INGENIERIA Y CONTRATOS S.A.S.（与 SC-3414 完全同一条海关数据，重复录入 → 待并档到 SC-3414）：随 SC-3414 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-48"
+ },
+ "SC-3416": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "俄罗斯 iTrade Group（原表公司栏即 itrade-group.ru；ETW 2011；SFP；无邮箱 / 电话）：域名 = 路径可建；SFP 本职线 → 留 C 待巡检 + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-48",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-3417": {
+  "verdict": "pass_final",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "哈萨克斯坦（未具名；ETW 2011；仅「VC, russian」；原表无公司名 / 邮箱 / 电话 / 网址）：闸 0 刚性①（无邮箱 / 电话 / WA / 域名 / 平台链接，原表无任何可寻迹）→ 永久 pass",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-48"
  },
  "SC-3418": {
   "verdict": "keep_C",
