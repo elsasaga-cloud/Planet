@@ -448,7 +448,7 @@ def load_sieve():
 
 SIEVE = load_sieve()
 SIEVE_TAG_NOTE = {'dayjob_fit': '（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）', 'oem_target': '（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）'}
-SIEVE_LABEL = {'pass_final': '⛔ 已过筛 · 永久 pass', 'keep_C': '留 C 储备', 'candidate': '闸 2 候选', 'pool_candidate': 'P 池候选'}
+SIEVE_LABEL = {'pass_final': '⛔ 已过筛 · 永久 pass', 'keep_C': '留 C 储备', 'candidate': '闸 2 候选', 'pool_candidate': 'P 池候选', 'pool': '★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）', 'pool_watch': '☆ P 池 · 观察档（试单 / 回访后转正或退回 C）'}
 
 # 兴趣 → Saga 主推（型号, 场景说明）
 P1_RULES = [
@@ -1921,12 +1921,12 @@ def write_readme(ents, index):
                 f.write(f'# {g} 级索引（{len(index[g])}）\n\n')
                 n_pass = sum(1 for e, _ in index[g] if (SIEVE.get(e['code']) or {}).get('verdict') == 'pass_final')
                 if g == 'C' and SIEVE:
-                    f.write(f'> C 池三闸筛选（`docs/C池三闸筛选_方案_2026-10-29.md`）：⛔ 永久 pass {n_pass} 户（状态列前缀 ⛔），其余待闸 1 / 已判留 C / 候选见 `data/saga_clients/sieve.json`。\n\n')
+                    f.write(f'> C 池三闸筛选（`docs/C池三闸筛选_方案_2026-10-29.md`）：⛔ 永久 pass {n_pass} 户（状态列前缀 ⛔）；★ = P 池正式入池、☆ = P 池观察档 / 候选（名册 `docs/P池_资产池名册_2026-10-29.md`）；其余留 C 见 `data/saga_clients/sieve.json`。\n\n')
                 f.write('| 编号 | 公司 | 国家 | 状态 | 分数 | C级细分 | 档案 |\n|---|---|---|---|---|---|---|\n')
                 for e, fn in sorted(index[g], key=lambda x: x[0]['code']):
                     rel = (sub_dir(e['code'], g) + '/' + fn) if sub_dir(e['code'], g) else fn
                     sv = SIEVE.get(e['code']) or {}
-                    st = ('⛔ ' if sv.get('verdict') == 'pass_final' else ('☆ ' if sv.get('verdict') in ('candidate', 'pool_candidate') else '')) + e['status']
+                    st = ('⛔ ' if sv.get('verdict') == 'pass_final' else ('★ ' if sv.get('verdict') == 'pool' else ('☆ ' if sv.get('verdict') in ('candidate', 'pool_candidate', 'pool_watch') else ''))) + e['status']
                     f.write(f"| {e['code']} | {md_escape(e['name'])} | {e['country']} | {st} | {e['score']} | {e['c_sub']} | [{fn}]({rel.replace(' ', '%20')}) |\n")
         L.append('')
     with open(os.path.join(OUT_DIR, 'README.md'), 'w', encoding='utf-8') as f:

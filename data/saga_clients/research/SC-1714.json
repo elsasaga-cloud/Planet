@@ -1,0 +1,21 @@
+{
+ "code": "SC-1714",
+ "name_official": "Omni Ray AG（CHE-105.959.689）",
+ "website_status": "Active（Handelsregister）",
+ "summary": "国别纠偏：表内「智利」 → 瑞士。Omni Ray AG：Schweizer Handelsregister CHE-105.959.689；LEI 967600D74EO0N5PVE227；Im Schörli 5, 8600 Dübendorf；1950 创立；资本 CHF 2,050,000。来源：公司底数登记（`data/saga_clients/registry/`，第 131 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。",
+ "type": "工业自动化分销商（Moxa 分销）",
+ "size": "中型（CHF 2.05M 资本；20–49 人；75 年）",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "登记",
+   "claim": "国别纠偏 表内「智利」 → 瑞士",
+   "quote": "Omni Ray AG：Schweizer Handelsregister CHE-105.959.689；LEI 967600D74EO0N5PVE227；Im Schörli 5, 8600 Dübendorf；1950 创立；资本 CHF 2,050,000",
+   "url": "https://www.northdata.com/Omni%20Ray%20AG,%20D%C3%BCbendorf/CHE-105.959.689",
+   "date": "2026-10-29"
+  }
+ ],
+ "researched_at": "2026-10-29",
+ "country_fix": "瑞士",
+ "notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。"
+}

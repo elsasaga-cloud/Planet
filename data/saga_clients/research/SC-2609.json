@@ -1,0 +1,21 @@
+{
+ "code": "SC-2609",
+ "name_official": "PARTIZAN SECURITY s.r.o. — partizanstore.eu（28909437（IČ；Praha C 152541））",
+ "website_status": "营业中（官网 2026）",
+ "summary": "国别纠偏：表内「欧洲（国别未填）」 → 捷克。PARTIZAN SECURITY s.r.o. 商务条款页：IČ 28909437；DIČ CZ28909437；Kresomyslova 384/17, Nusle, 140 00 Praha 4；布拉格市法院商事登记 C 152541。来源：公司底数登记（`data/saga_clients/registry/`，第 127 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。",
+ "type": "自有品牌安防厂商（Partizan，2008 起，布拉格）",
+ "size": "小型（推定）",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "国别纠偏 表内「欧洲（国别未填）」 → 捷克",
+   "quote": "PARTIZAN SECURITY s.r.o. 商务条款页：IČ 28909437；DIČ CZ28909437；Kresomyslova 384/17, Nusle, 140 00 Praha 4；布拉格市法院商事登记 C 152541",
+   "url": "https://www.partizanstore.eu/en/commercial-terms-and-conditions/",
+   "date": "2026-10-29"
+  }
+ ],
+ "researched_at": "2026-10-29",
+ "country_fix": "捷克",
+ "notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。"
+}

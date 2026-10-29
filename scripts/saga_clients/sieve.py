@@ -4,7 +4,7 @@
 
 方案：docs/C池三闸筛选_方案_2026-10-29.md
 数据：data/saga_clients/sieve.json  {code: {verdict, gate, rule, reason, date, manual?, card?}}
-      verdict ∈ pass_final | keep_C | candidate | pool_candidate
+      verdict ∈ pass_final | keep_C | candidate | pool_candidate | pool（P 池正式入池，闸 3）| pool_watch（P 池观察档，闸 3）
 
 用法：
   python3 sieve.py --gate0            # 跑闸 0 刚性机筛，写 sieve.json + docs/requirements/C池闸0_机筛报告_<日期>.md
@@ -326,7 +326,7 @@ def main():
         queue(ents, sieve, a.queue)
     if a.set:
         code, verdict, reason = a.set[0], a.set[1], ' '.join(a.set[2:])
-        assert verdict in ('pass_final', 'keep_C', 'candidate', 'pool_candidate'), verdict
+        assert verdict in ('pass_final', 'keep_C', 'candidate', 'pool_candidate', 'pool', 'pool_watch'), verdict
         assert any(e['code'] == code for e in ents), code
         assert reason, '必须给理由'
         sieve[code] = {'verdict': verdict, 'gate': a.gate, 'rule': a.rule, 'reason': reason, 'date': TODAY, 'manual': True}

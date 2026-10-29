@@ -1,0 +1,21 @@
+{
+ "code": "SC-1513",
+ "name_official": "ТОО «Manggis»（110940009256（БИН；另 181040026149））",
+ "website_status": "营业中（网店 2026）",
+ "summary": "国别纠偏：表内「俄罗斯」 → 哈萨克斯坦。ТОО «Manggis» delivery 页：БИН 110940009256（另载 181040026149）；Алматы, пр. Гагарина 236Б оф.303；+7 727 317-61-61；info@manggis.kz。来源：公司底数登记（`data/saga_clients/registry/`，第 129 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。",
+ "type": "CCTV / СКУД 网店 + 批零 + 安装",
+ "size": "小型",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "国别纠偏 表内「俄罗斯」 → 哈萨克斯坦",
+   "quote": "ТОО «Manggis» delivery 页：БИН 110940009256（另载 181040026149）；Алматы, пр. Гагарина 236Б оф.303；+7 727 317-61-61；info@manggis.kz",
+   "url": "https://manggis.kz/delivery",
+   "date": "2026-10-29"
+  }
+ ],
+ "researched_at": "2026-10-29",
+ "country_fix": "哈萨克斯坦",
+ "notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。"
+}

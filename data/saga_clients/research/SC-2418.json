@@ -1,0 +1,21 @@
+{
+ "code": "SC-2418",
+ "name_official": "Streakwave Wireless, Inc.",
+ "website_status": "营业中（官网 2022 版权）",
+ "summary": "国别纠偏：表内「加拿大」 → 美国。Streakwave Wireless, Inc. 官网 Our Story：总部 840 Jury Court, San Jose, CA 95112；分仓 Salt Lake City / Cincinnati / 墨尔本 / 新西兰。来源：公司底数登记（`data/saga_clients/registry/`，第 126 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。",
+ "type": "无线 / 安防 / 网络增值分销商",
+ "size": "中型（多仓分销）",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "国别纠偏 表内「加拿大」 → 美国",
+   "quote": "Streakwave Wireless, Inc. 官网 Our Story：总部 840 Jury Court, San Jose, CA 95112；分仓 Salt Lake City / Cincinnati / 墨尔本 / 新西兰",
+   "url": "https://streakwave.com/about.asp",
+   "date": "2026-10-29"
+  }
+ ],
+ "researched_at": "2026-10-29",
+ "country_fix": "美国",
+ "notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。"
+}

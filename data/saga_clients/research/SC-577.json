@@ -1,0 +1,21 @@
+{
+ "code": "SC-577",
+ "name_official": "Leap Networks",
+ "website_status": "营业中（官网 2025）",
+ "summary": "国别纠偏：表内「沙特阿拉伯」（姊妹公司在沙特，KP 所在主体在阿布扎比） → 阿联酋。Leap Networks 官网 About：2012 成立；Guardian Office Tower, Al Murror Road, Dhafeer Street 407, Abu Dhabi 37855；CEO Muhammad Ashfaq（= 表内具名 KP muhammad.ashfaq@）；沙特为姊妹公司 Leap Networks Arabia。来源：公司底数登记（`data/saga_clients/registry/`，第 130 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。",
+ "type": "油气 / 交通电信系统集成商（DWDM / TETRA / SDH / CCTV）",
+ "size": "小型（11–20 人；双国）",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "国别纠偏 表内「沙特阿拉伯」（姊妹公司在沙特，KP 所在主体在阿布扎比） → 阿联酋",
+   "quote": "Leap Networks 官网 About：2012 成立；Guardian Office Tower, Al Murror Road, Dhafeer Street 407, Abu Dhabi 37855；CEO Muhammad Ashfaq（= 表内具名 KP muhammad.ashfaq@）；沙特为姊妹公司 Leap Networks Arabia",
+   "url": "https://www.leap-networks.ae/about-us/",
+   "date": "2026-10-29"
+  }
+ ],
+ "researched_at": "2026-10-29",
+ "country_fix": "阿联酋",
+ "notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。"
+}

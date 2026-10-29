@@ -1,0 +1,21 @@
+{
+ "code": "SC-977",
+ "name_official": "utepo.by = ООО «Торговый дом «АВАНТ-ТЕХНО»",
+ "website_status": "营业中（同 SC-714）",
+ "summary": "国别纠偏：表内「俄罗斯」 → 白俄罗斯。utepo.by 页脚：220004 Республика Беларусь, Минск, ул. Короля 45；info@utepo.by；+375 17 304-40-40；「Официальный представитель UTEPO в Беларуси」= 与 SC-714 同一法人。来源：公司底数登记（`data/saga_clients/registry/`，第 129 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。",
+ "type": "UTEPO 白俄官方代表（同 SC-714 АВАНТ-ТЕХНО）",
+ "size": "— 并入 SC-714",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "国别纠偏 表内「俄罗斯」 → 白俄罗斯",
+   "quote": "utepo.by 页脚：220004 Республика Беларусь, Минск, ул. Короля 45；info@utepo.by；+375 17 304-40-40；「Официальный представитель UTEPO в Беларуси」= 与 SC-714 同一法人",
+   "url": "https://utepo.by/",
+   "date": "2026-10-29"
+  }
+ ],
+ "researched_at": "2026-10-29",
+ "country_fix": "白俄罗斯",
+ "notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。"
+}

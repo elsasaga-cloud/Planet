@@ -1,0 +1,21 @@
+{
+ "code": "SC-2957",
+ "name_official": "Conexpro",
+ "website_status": "营业中（官网 2026）",
+ "summary": "国别纠偏：表内「俄罗斯」 → 捷克。Conexpro 官网 About / Contact：总部 Hřbitovní 1479/25, 312 00 Plzeň, Czech Republic（另列 Sídlo Daimlerova 6, 312 00 Plzeň）；info@conexpro.com。来源：公司底数登记（`data/saga_clients/registry/`，第 136 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。",
+ "type": "品牌商（ISP / 安装商全线网络配件自有品牌：PoE 交换机 / SFP / 注入器 / 机柜）",
+ "size": "中型（全线品牌 + 多国分销）",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "国别纠偏 表内「俄罗斯」 → 捷克",
+   "quote": "Conexpro 官网 About / Contact：总部 Hřbitovní 1479/25, 312 00 Plzeň, Czech Republic（另列 Sídlo Daimlerova 6, 312 00 Plzeň）；info@conexpro.com",
+   "url": "https://conexpro.com/about",
+   "date": "2026-10-29"
+  }
+ ],
+ "researched_at": "2026-10-29",
+ "country_fix": "捷克",
+ "notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。"
+}

@@ -1,0 +1,21 @@
+{
+ "code": "SC-1602",
+ "name_official": "LS Service（210740005950（БИН））",
+ "website_status": "在营（电子政务 2025-07-30）",
+ "summary": "国别纠偏：表内「俄罗斯」 → 哈萨克斯坦。ТОО «LS SERVICE» БИН 210740005950；2021-07-06 注册；010000 Астана, р-н Сарыарка, ул. Бердібек Соқпақбаев 4, н.п. 6；域名 lsservice.kz（.kz）。来源：公司底数登记（`data/saga_clients/registry/`，第 134 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。",
+ "type": "集成商（微型，ОКЭД 43220 与网络设备不符 → 同一主体待核）",
+ "size": "小型",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "登记",
+   "claim": "国别纠偏 表内「俄罗斯」 → 哈萨克斯坦",
+   "quote": "ТОО «LS SERVICE» БИН 210740005950；2021-07-06 注册；010000 Астана, р-н Сарыарка, ул. Бердібек Соқпақбаев 4, н.п. 6；域名 lsservice.kz（.kz）",
+   "url": "https://ba.prg.kz/710000000-astana/210740005950-too-ls-service/",
+   "date": "2026-10-29"
+  }
+ ],
+ "researched_at": "2026-10-29",
+ "country_fix": "哈萨克斯坦",
+ "notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。"
+}

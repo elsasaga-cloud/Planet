@@ -1,0 +1,21 @@
+{
+ "code": "SC-1675",
+ "name_official": "tekmodul GmbH（HRB 158866（Amtsgericht München））",
+ "website_status": "Active（Impressum 2022 / 展会 2024）",
+ "summary": "国别纠偏：表内国别未填 → 德国。tekmodul GmbH Impressum：Lindwurmstraße 97a, 80337 München；Registergericht München HRB 158866；USt-IdNr. DE240985730；Geschäftsführer Tassilo Halt。来源：公司底数登记（`data/saga_clients/registry/`，第 131 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。",
+ "type": "工业通信 / 无线模块分销（Atop 经销）",
+ "size": "小型（专业分销；参展）",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "登记",
+   "claim": "国别纠偏 表内国别未填 → 德国",
+   "quote": "tekmodul GmbH Impressum：Lindwurmstraße 97a, 80337 München；Registergericht München HRB 158866；USt-IdNr. DE240985730；Geschäftsführer Tassilo Halt",
+   "url": "https://www.tekmodul.de/impressum/",
+   "date": "2026-10-29"
+  }
+ ],
+ "researched_at": "2026-10-29",
+ "country_fix": "德国",
+ "notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。"
+}

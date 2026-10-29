@@ -1,0 +1,21 @@
+{
+ "code": "SC-1871",
+ "name_official": "Bay Datacom Solutions Pvt. Ltd.（U32100TG1998PTC028943（CIN））",
+ "website_status": "Active（MCA）",
+ "summary": "国别纠偏：表内「尼泊尔」 → 印度。Bay Datacom Solutions Pvt. Ltd.：CIN U32100TG1998PTC028943；1998-02-28；Hyderabad Jubilee Hills Road No. 92, 500096；200–500 人；FY22 净销售 ₹2,405 lakh。来源：公司底数登记（`data/saga_clients/registry/`，第 131 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。",
+ "type": "网络 / 安全 / 数据中心系统集成商",
+ "size": "中型（200–500 人；₹24 Cr）",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "登记",
+   "claim": "国别纠偏 表内「尼泊尔」 → 印度",
+   "quote": "Bay Datacom Solutions Pvt. Ltd.：CIN U32100TG1998PTC028943；1998-02-28；Hyderabad Jubilee Hills Road No. 92, 500096；200–500 人；FY22 净销售 ₹2,405 lakh",
+   "url": "https://info.edgeinsights.in/company/Bay-Datacom-Solutions-Pvt.-Ltd./131542",
+   "date": "2026-10-29"
+  }
+ ],
+ "researched_at": "2026-10-29",
+ "country_fix": "印度",
+ "notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。"
+}

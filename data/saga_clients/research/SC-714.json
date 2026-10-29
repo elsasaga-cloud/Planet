@@ -1,0 +1,21 @@
+{
+ "code": "SC-714",
+ "name_official": "ООО «Торговый дом «АВАНТ-ТЕХНО» — Avant",
+ "website_status": "营业中（官网 2026 价目）",
+ "summary": "国别纠偏：表内「俄罗斯」 → 白俄罗斯。ООО «Торговый дом «АВАНТ-ТЕХНО»：Минск；BYN 计价；utepo.by 页脚同主体 220004 Минск, ул. Короля 45；+375 17 304-40-40。来源：公司底数登记（`data/saga_clients/registry/`，第 129 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。",
+ "type": "安防 / 网络分销 + 自有 iFLOW 牌工业 PoE 交换机",
+ "size": "中型（白俄主要安防分销之一）",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "国别纠偏 表内「俄罗斯」 → 白俄罗斯",
+   "quote": "ООО «Торговый дом «АВАНТ-ТЕХНО»：Минск；BYN 计价；utepo.by 页脚同主体 220004 Минск, ул. Короля 45；+375 17 304-40-40",
+   "url": "https://avant.by/catalog/setevoe_oborudovanie/switches/",
+   "date": "2026-10-29"
+  }
+ ],
+ "researched_at": "2026-10-29",
+ "country_fix": "白俄罗斯",
+ "notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。"
+}

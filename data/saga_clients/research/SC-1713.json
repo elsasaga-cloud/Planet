@@ -1,0 +1,21 @@
+{
+ "code": "SC-1713",
+ "name_official": "OAK INTEGRATOR Products SIA（40003540103（Products SIA）/ 40103496615（Solutions SIA））",
+ "website_status": "Active（tracxn 2025）",
+ "summary": "国别纠偏：表内「玻利维亚」 → 拉脱维亚。OAK INTEGRATOR Products SIA：Reģ. Nr. 40003540103；2001-04-04；原 Beijer Electronics SIA，2016-02-01 更名；Rīga, Mežkalna iela 5。来源：公司底数登记（`data/saga_clients/registry/`，第 131 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。",
+ "type": "工业自动化分销（Mitsubishi Electric 拉脱维亚独家 + Westermo / Korenix）",
+ "size": "小型（$1.33M；3 人）",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "登记",
+   "claim": "国别纠偏 表内「玻利维亚」 → 拉脱维亚",
+   "quote": "OAK INTEGRATOR Products SIA：Reģ. Nr. 40003540103；2001-04-04；原 Beijer Electronics SIA，2016-02-01 更名；Rīga, Mežkalna iela 5",
+   "url": "https://tracxn.com/d/companies/oak-integrator/__O2MYpO0NTFEGt-ZrtiwTJY37PXdoWkQr",
+   "date": "2026-10-29"
+  }
+ ],
+ "researched_at": "2026-10-29",
+ "country_fix": "拉脱维亚",
+ "notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。"
+}
