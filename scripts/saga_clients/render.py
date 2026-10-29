@@ -1499,6 +1499,10 @@ def render_one(ent):
     sv = SIEVE.get(code)
     if sv:
         lab = SIEVE_LABEL.get(sv.get('verdict'), sv.get('verdict'))
+        if sv.get('verdict') in ('pool', 'pool_watch') and sv.get('grade'):   # U124：横幅用行内真实档位（★★ / ★ / ○ / ☆ / △），△ = 疑点待清
+            lab = sv['grade'] + lab[1:]
+            if sv['grade'] == '△':
+                lab = lab.replace('试单 / 回访后转正或退回 C', '疑点（制裁 / 国别 / 主体 / 收款）核清后转正或退回 C')
         if sv.get('verdict') == 'pass_final':
             lines.append(f"> **{lab}**（闸 {sv.get('gate')} · {sv.get('rule')} · {sv.get('date')}）：{sv.get('reason')} —— 不再加厚 / 不群发 / 不监控 / 不进日历；撤销只在客户主动找上门时由 Simon 拍板（`data/saga_clients/sieve.json`）。")
         else:

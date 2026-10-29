@@ -2,7 +2,7 @@
 
 > **评级 C**　|　英国　|　档案编号 `SC-2383`　|　优先级 —　|　状态：已推送 18 次·未回复
 >
-> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ○）：○ 自有品牌 · OEM 30%：3G Router Store = Westlake / Millbeck Communications（Romford；2002；2–10 人；自有品牌 Proroute 路由 / Fullband 天线）部分坐实；OEM ✔ 进口洪瑞 ✔ 主区 ✔ 对位 ✔ → P 池候选；Q-33 口径；Simon 曾判不行，可否决　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）、q33_hold
+> **C 池筛选：○ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ○）：○ 自有品牌 · OEM 30%：3G Router Store = Westlake / Millbeck Communications（Romford；2002；2–10 人；自有品牌 Proroute 路由 / Fullband 天线）部分坐实；OEM ✔ 进口洪瑞 ✔ 主区 ✔ 对位 ✔ → P 池候选；Q-33 口径；Simon 曾判不行，可否决　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）、q33_hold
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 18 次（2024-04-02 → 2025-10-15）　|　**所在清单**：A优质名单(UK)、AI评估(UK)·DONE、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 

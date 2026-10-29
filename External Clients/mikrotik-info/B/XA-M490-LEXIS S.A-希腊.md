@@ -44,10 +44,8 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：lexis@lexis.gr（首选）
-- 邮箱：分公司thes@lexis.gr（公开）
-- 邮箱：us页给lexis@lexis.gr（公开）
-- 邮箱：以及塞萨洛尼基分公司thes@lexis.gr（公开）
+- 邮箱：lexis@lexis.gr（首选｜公开｜原文「us页给lexis@lexis.gr」）
+- 邮箱：thes@lexis.gr（公开｜原文「分公司thes@lexis.gr」｜公开｜原文「以及塞萨洛尼基分公司thes@lexis.gr」）
 - 电话：+30 210 6777007（内部用，不进外发材料）
 - 来源库入口字段：lexis@lexis.gr（官网Contact Us/产品页；分公司thes@lexis.gr）；+30 210 6777007；LEXIS S.A.，401 Kleisthenous str., 15344 Gerakas
 

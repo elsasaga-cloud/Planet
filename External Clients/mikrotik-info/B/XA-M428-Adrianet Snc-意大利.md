@@ -44,9 +44,8 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：info@adrianetsrl.it（首选）
+- 邮箱：info@adrianetsrl.it（首选｜公开｜原文「官网adrianetsrl.it给info@adrianetsrl.it」）
 - 邮箱：adrianetsrl@pec.it（公开）
-- 邮箱：官网adrianetsrl.it给info@adrianetsrl.it（公开）
 - 来源库入口字段：info@adrianetsrl.it（官网；PEC adrianetsrl@pec.it）；080 467 2023；2025年由snc转为Adrianet SRL
 
 来源库「联系方式」段原文：

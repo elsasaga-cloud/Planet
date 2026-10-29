@@ -6,7 +6,7 @@
 >
 > ℹ️ Mikrotik 仓库无同户（—（Mikrotik 仓无此户；本仓 grep 0））：首触由本仓发出。
 >
-> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：★ P 池 · 正式入池（档位 ○）**（闸 3 · G3 · 2026-10-29）：○ VoIP / 网络电商 20%：VOIP24SKLEP.PL Sp. z o.o.（Bydgoszcz；KRS 0000666618；NIP 9671387462；REGON 366697204；2017-03-02；资本 5,000 zł）坐实；PLANET 为交换机主品牌（生产商页 + 自写博客 + 库存）；董事兼大股东 Kryspin Maroszczyk 直邮 k.maroszczyk@ → 决策链最短；波兰；体量小但复购真实
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：○ P 池 · 正式入池（档位 ○）**（闸 3 · G3 · 2026-10-29）：○ VoIP / 网络电商 20%：VOIP24SKLEP.PL Sp. z o.o.（Bydgoszcz；KRS 0000666618；NIP 9671387462；REGON 366697204；2017-03-02；资本 5,000 zł）坐实；PLANET 为交换机主品牌（生产商页 + 自写博客 + 库存）；董事兼大股东 Kryspin Maroszczyk 直邮 k.maroszczyk@ → 决策链最短；波兰；体量小但复购真实
 
 ```yaml structured_profile
 code: PA-016

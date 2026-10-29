@@ -2,7 +2,7 @@
 
 > **现判 XC 暂不管** ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:14741 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-03 2026-10-29）→ 下一动作 不动
 >
-> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 酒店 / 医疗机构 TV / WiFi / IPTV 网络集成 25%：HOTEL CARE（Mauguio 34 总部 + Meyreuil 13；Groupe TB6 子公司，集团 2007 起；Nice / Lyon / Paris）官网部分坐实（SIREN 待补）；酒店 PoE 接入 → SmartByte 商用 PoE 对位；contact@hotel-care.fr
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：○ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 酒店 / 医疗机构 TV / WiFi / IPTV 网络集成 25%：HOTEL CARE（Mauguio 34 总部 + Meyreuil 13；Groupe TB6 子公司，集团 2007 起；Nice / Lyon / Paris）官网部分坐实（SIREN 待补）；酒店 PoE 接入 → SmartByte 商用 PoE 对位；contact@hotel-care.fr
 
 ## 1. 初判与理由
 - 初判：**XC** — 终端用户 / 渠道触点（机场、大学、超市、政府、军队…走集成商与框架采购，不是 Saga 的直接买家）

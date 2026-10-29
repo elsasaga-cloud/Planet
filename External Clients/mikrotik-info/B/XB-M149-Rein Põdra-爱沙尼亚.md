@@ -43,8 +43,7 @@
 | 决策链 | 短（本人即决策） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：rein.podra@ccisrd.eu（首选）
-- 邮箱：邮箱rein.podra@ccisrd.eu（公开）
+- 邮箱：rein.podra@ccisrd.eu（首选｜公开｜原文「邮箱rein.podra@ccisrd.eu」）
 - 电话：+372 5082381；+372 5051372（内部用，不进外发材料）
 - 来源库入口字段：+372 5082381；rein.podra@ccisrd.eu（官方顾问名录；名录另列+372 5051372）
 

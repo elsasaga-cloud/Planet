@@ -4,7 +4,7 @@
 >
 > **类型**：IT 批发商/进口商（1995 年起；自述「importation et distribution」，5,000+ SKU，服务 5,000+ 经销商/集成商/SSII；仅对专业客户）　|　**PLANET 关联**：europ-computer.com 设 PLANET 品牌页「Grossiste, distributeur et fournisseur PLANET | ECP」：「Bienvenue chez ECP, votre grossiste et distributeur PLANET … dédiée aux revendeurs, intégrateurs et professionnels IT」（具体 PLANET 款数页面为菜单渲染，待人工打开）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
-> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：★ P 池 · 正式入池（档位 ○）**（闸 3 · G3 · 2026-10-29）：○ IT 进口 / 批发 20%：Europ Computer Performance SARL（93240 Stains ZA La Cerisaie 29 av. Jean Moulin；SIREN 402 225 098 RCS Bobigny；1995-09-10）坐实；自述「importation et distribution」5,000+ SKU / 5,000+ 经销商，官网 PLANET 品牌页自称批发分销；sales@ + +33 1 49 98 98 98；主区 FR；人数 / 营收待补
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：○ P 池 · 正式入池（档位 ○）**（闸 3 · G3 · 2026-10-29）：○ IT 进口 / 批发 20%：Europ Computer Performance SARL（93240 Stains ZA La Cerisaie 29 av. Jean Moulin；SIREN 402 225 098 RCS Bobigny；1995-09-10）坐实；自述「importation et distribution」5,000+ SKU / 5,000+ 经销商，官网 PLANET 品牌页自称批发分销；sales@ + +33 1 49 98 98 98；主区 FR；人数 / 营收待补
 
 ```yaml structured_profile
 code: PB-059

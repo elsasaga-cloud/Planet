@@ -44,8 +44,7 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：trainer@mikrotik-training.lt（首选）
-- 邮箱：邮箱trainer@mikrotik-training.lt（公开）
+- 邮箱：trainer@mikrotik-training.lt（首选｜公开｜原文「邮箱trainer@mikrotik-training.lt」）
 - 电话：+370 684 43770（内部用，不进外发材料）
 - 来源库入口字段：+370 684 43770 / trainer@mikrotik-training.lt（官方培训中心名录一致）
 

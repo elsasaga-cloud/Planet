@@ -2,7 +2,7 @@
 
 > **初判 XC 暂不管** ｜ 来源 mikrotik-info `A-517`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
 >
-> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（随 Saga `SC-1297`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-1297 同一公司（经 winncom.com）→ 随 Saga 档：pool（闸 3，★ P 池正式入池（档位 ○）：○ 分销 20%：Winncom Technologies Corp（Ohio 1999 注册；Solon OH；1996 起；100–160 人；WISP / 宽带分销）坐实；对位 ✔ 主区 ✔ 坐实 ✔ ）
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：○ P 池 · 正式入池**（随 Saga `SC-1297`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-1297 同一公司（经 winncom.com）→ 随 Saga 档：pool（闸 3，★ P 池正式入池（档位 ○）：○ 分销 20%：Winncom Technologies Corp（Ohio 1999 注册；Solon OH；1996 起；100–160 人；WISP / 宽带分销）坐实；对位 ✔ 主区 ✔ 坐实 ✔ ）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-1297，经 winncom.com）→ 以 Saga 档为准，本条不单独跟

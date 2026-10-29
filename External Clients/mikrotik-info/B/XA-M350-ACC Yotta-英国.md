@@ -44,10 +44,8 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：contact@accyotta.com（首选）
-- 邮箱：支持候选help@accyotta.com（公开）
-- 邮箱：官网联系页给contact@accyotta.com（公开）
-- 邮箱：支持页另给help@accyotta.com（公开）
+- 邮箱：contact@accyotta.com（首选｜公开｜原文「官网联系页给contact@accyotta.com」）
+- 邮箱：help@accyotta.com（公开｜原文「支持候选help@accyotta.com」｜公开｜原文「支持页另给help@accyotta.com」）
 - 电话：+44 (0)20 7043 6090（内部用，不进外发材料）
 - 来源库入口字段：contact@accyotta.com（官网联系页正文；支持候选help@accyotta.com）；+44 (0)20 7043 6090
 

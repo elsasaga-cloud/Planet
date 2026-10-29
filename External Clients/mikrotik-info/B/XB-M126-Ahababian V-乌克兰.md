@@ -42,10 +42,8 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：vartan@mikrotikls.com.ua（停用）
-- 邮箱：通用info@mikrotikls.com.ua（停用）
-- 邮箱：11б与具名邮箱vartan@mikrotikls.com.ua（公开）
-- 邮箱：价目页给通用info@mikrotikls.com.ua与（公开）
+- 邮箱：vartan@mikrotikls.com.ua（停用｜公开｜原文「11б与具名邮箱vartan@mikrotikls.com.ua」）
+- 邮箱：info@mikrotikls.com.ua（停用｜原文「通用info@mikrotikls.com.ua」｜公开｜原文「价目页给通用info@mikrotikls.com.ua与」）
 - 电话：+38 066 907 44 88；+380 44 339 56 97（内部用，不进外发材料）
 - 来源库入口字段：vartan@mikrotikls.com.ua【已停用:2026-10-04 退信 domain-not-found 发不过去】（官网团队区具名；通用info@mikrotikls.com.ua）；+38 066 907 44 88 / +380 44 339 56 97；Київ, вул. Маршала Рибалка 11Б
 

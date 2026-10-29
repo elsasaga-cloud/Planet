@@ -44,8 +44,7 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：geral@c2f.pt（首选）
-- 邮箱：官网联系页给geral@c2f.pt（公开）
+- 邮箱：geral@c2f.pt（首选｜公开｜原文「官网联系页给geral@c2f.pt」）
 - 来源库入口字段：geral@c2f.pt（官网联系页）；214 373 217；Copper2Fiber – Soluções de Conectividade, Lda.，Barcarena
 
 来源库「联系方式」段原文：

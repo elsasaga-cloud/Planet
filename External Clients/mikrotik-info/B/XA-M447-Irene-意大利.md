@@ -44,8 +44,7 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：info@irenesrl.it（首选）
-- 邮箱：给info@irenesrl.it（公开）
+- 邮箱：info@irenesrl.it（首选｜公开｜原文「给info@irenesrl.it」）
 - 来源库入口字段：info@irenesrl.it（官网意/英联系页）；010 6972264；Irene srl Genova（法定Savona），1991年起船舶/工业IT
 
 来源库「联系方式」段原文：

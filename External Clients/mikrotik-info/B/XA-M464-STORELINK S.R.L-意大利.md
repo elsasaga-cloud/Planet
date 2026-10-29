@@ -45,7 +45,7 @@
 
 ## 3. 联系方式
 - 邮箱：sales@storelink.it（首选）
-- 邮箱：官网dove-siamo页有sales及info@storelink.it（公开）
+- 邮箱：info@storelink.it（公开｜原文「官网dove-siamo页有sales及info@storelink.it」）
 - 来源库入口字段：sales@storelink.it（官网正文公开；未验证投递）；原入口：见 alliedtelesis.com 伙伴页
 
 来源库「联系方式」段原文：

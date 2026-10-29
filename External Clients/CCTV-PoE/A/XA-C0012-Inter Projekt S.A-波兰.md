@@ -48,9 +48,8 @@
 | 同一家在来源库其他位置 | `smartbyte/03-SmartByte海外客户开发清单.md`:340（SmartByte 海外客户开发清单 — 商业级管理型交换机 > 四、欧洲/CI）；`smartbyte/03-SmartByte海外客户开发清单.md`:467（SmartByte 海外客户开发清单 — 商业级管理型交换机 > 优先Top 1） |
 
 ## 3. 联系方式
-- 邮箱：orders@interprojekt.pl（公开）
+- 邮箱：orders@interprojekt.pl（公开｜公开｜原文「邮件发orders@interprojekt.pl」）
 - 邮箱：pomoc@ip-sa.pl（公开）
-- 邮箱：邮件发orders@interprojekt.pl（公开）
 - 电话：+48 32 3022 910；+48 32 3022 920；+48 32 3022 925；+48 516 138 312（内部用，不进外发材料）
 
 ## 4. 关键人（KP）

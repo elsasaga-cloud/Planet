@@ -43,10 +43,8 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：sales@ispsupplies.com（首选）
-- 邮箱：info@mywisptraining.com（公开）
-- 邮箱：supplies官网与官方facebook结构化数据给sales@ispsupplies.com（公开）
-- 邮箱：info@mywisptraining.com仅搜索索引（公开）
+- 邮箱：sales@ispsupplies.com（首选｜公开｜原文「supplies官网与官方facebook结构化数据给sales@ispsupplies.com」）
+- 邮箱：info@mywisptraining.com（公开｜公开｜原文「info@mywisptraining.com仅搜索索引」）
 - 来源库入口字段：sales@ispsupplies.com（官方页结构化数据）；待核：info@mywisptraining.com（搜索索引）；原入口：979-314-4431；站点 mywisptraining.com
 
 来源库「联系方式」段原文：

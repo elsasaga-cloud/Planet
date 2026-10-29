@@ -44,7 +44,6 @@
 
 ## 3. 联系方式
 - 邮箱：comercial@officelan.pt（首选）
-- 邮箱：comercial@officelan.p（公开）
 - 电话：+351 232 186 575（内部用，不进外发材料）
 - 来源库入口字段：+351 232 186 575 / comercial@officelan.pt
 

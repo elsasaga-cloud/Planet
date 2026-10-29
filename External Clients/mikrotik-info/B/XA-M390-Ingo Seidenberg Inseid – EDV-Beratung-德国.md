@@ -44,8 +44,7 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：info@inseid.de（首选）
-- 邮箱：官网impressum与首页给info@inseid.de（公开）
+- 邮箱：info@inseid.de（首选｜公开｜原文「官网impressum与首页给info@inseid.de」）
 - 电话：+49 5139 985230（内部用，不进外发材料）
 - 来源库入口字段：info@inseid.de（官网Impressum）；+49 5139 985230；Ingo Seidenberg（INSEID IT-Beratung）
 

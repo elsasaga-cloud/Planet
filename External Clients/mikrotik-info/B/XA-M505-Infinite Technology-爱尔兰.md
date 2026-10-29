@@ -44,7 +44,7 @@
 
 ## 3. 联系方式
 - 邮箱：sales@infinitetechnology.ie（首选）
-- 邮箱：但mailto为help@infinitetechnology.ie（公开）
+- 邮箱：help@infinitetechnology.ie（公开｜原文「但mailto为help@infinitetechnology.ie」）
 - 电话：+353 1 2939000（内部用，不进外发材料）
 - 来源库入口字段：sales@infinitetechnology.ie（官网正文公开；未验证投递）；原入口：+353 1 2939000
 

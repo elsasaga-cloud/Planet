@@ -43,9 +43,8 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：ekomunikacija@pondi.hr（首选）
-- 邮箱：给ekomunikacija@pondi.hr（公开）
-- 邮箱：另见knjigovodstvo@pondi.hr（公开）
+- 邮箱：ekomunikacija@pondi.hr（首选｜公开｜原文「给ekomunikacija@pondi.hr」）
+- 邮箱：knjigovodstvo@pondi.hr（公开｜原文「另见knjigovodstvo@pondi.hr」）
 - 邮箱：marketing@pondi.hr（公开）
 - 电话：+385 98 315319；+385 (0)21 494-020（内部用，不进外发材料）
 - 来源库入口字段：+385 98 315319；ekomunikacija@pondi.hr（公司登记/工商目录；官网正文未列邮箱文字）；+385 (0)21 494-020

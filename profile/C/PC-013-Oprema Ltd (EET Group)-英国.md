@@ -4,7 +4,7 @@
 >
 > **类型**：安防分销（trade-only 多品牌安防分销：CCTV / 门禁 / 入侵 / 消防 / 网络，2010 年起；英国最大 Dahua 分销；200+ 品牌；EET Group 成员；97 人、营业额 £56.57M（2024））　|　**PLANET 关联**：oprema.co.uk PLANET 商品页：「Planet Industrial L3 4-Port 2.5G 802.3bt PoE + 4-Port 10/100/1000T 802.3bt PoE + 2-Port 10G SFP+ Wall-mount Managed Switch, W128803290 … Distributor of Planet products. Same-day shipment」（W1288… 为 EET 集团 SKU 体系）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
-> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：★ P 池 · 正式入池**（随 `SC-2372`）（闸 0 · DUP · 2026-10-29）：与 SC-2372 同一公司（同域名 oprema.co.uk）→ 随主档：pool（闸 3，★ P 池正式入池（档位 ○）：○ 分销 20%：Eurosat (Scotland) Limited SC204360（2000；Glasgow；Oprema 渠道；3 董事）坐实；KP graeme@ = Director Graeme）
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：○ P 池 · 正式入池**（随 `SC-2372`）（闸 0 · DUP · 2026-10-29）：与 SC-2372 同一公司（同域名 oprema.co.uk）→ 随主档：pool（闸 3，★ P 池正式入池（档位 ○）：○ 分销 20%：Eurosat (Scotland) Limited SC204360（2000；Glasgow；Oprema 渠道；3 董事）坐实；KP graeme@ = Director Graeme）
 
 ```yaml structured_profile
 code: PC-013

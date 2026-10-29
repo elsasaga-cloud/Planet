@@ -2,7 +2,7 @@
 
 > **现判 XC 暂不管** ｜ 来源 mikrotik-info `C-056`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-02 2026-10-29）→ 下一动作 不动
 >
-> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ IT / 消费电子进口分销 20%：Avtera BH d.o.o.（Sarajevo Blažuj 78；Reg. 065-0-Reg-08-002025 Općinski sud Sarajevo；PDV 201375920000；资本 900,000 KM；Direktor Ajdin Babić）坐实；Westermo Reseller 名录 → 对位 ✔ 但 IT 大分销口径；非 EU → 预付 100% 起步；avtera@avtera.ba
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：○ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ IT / 消费电子进口分销 20%：Avtera BH d.o.o.（Sarajevo Blažuj 78；Reg. 065-0-Reg-08-002025 Općinski sud Sarajevo；PDV 201375920000；资本 900,000 KM；Direktor Ajdin Babić）坐实；Westermo Reseller 名录 → 对位 ✔ 但 IT 大分销口径；非 EU → 预付 100% 起步；avtera@avtera.ba
 
 ## 1. 初判与理由
 - 初判：**XC** — 来源库（mikrotik-info）已判 C（细分：B下放·无邮箱（群发触达不到）；依据：【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一）；Simon 口径「mik 的 C 不碰」→ 关仓前仅存档，不跟

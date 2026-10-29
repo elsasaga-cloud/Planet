@@ -42,8 +42,7 @@
 | 决策链 | 短（本人即决策） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：olisian.sulaj@gmail.com（首选）
-- 邮箱：邮箱olisian.sulaj@gmail.com（公开）
+- 邮箱：olisian.sulaj@gmail.com（首选｜公开｜原文「邮箱olisian.sulaj@gmail.com」）
 - 邮箱：dritan@vreshta.com（公开）
 - 邮箱：erion.demiri@etronic.al（公开）
 - 电话：+355 69 299 6257（内部用，不进外发材料）

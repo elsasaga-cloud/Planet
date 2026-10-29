@@ -43,8 +43,7 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：info@gpe-networks.com（首选）
-- 邮箱：官网联系页正文给出公司邮箱info@gpe-networks.com（公开）
+- 邮箱：info@gpe-networks.com（首选｜公开｜原文「官网联系页正文给出公司邮箱info@gpe-networks.com」）
 - 来源库入口字段：info@gpe-networks.com（关联公司官网联系页正文；个人归属/现任职限制见备注）；原入口：MikroTik 顾问名录
 
 来源库「联系方式」段原文：

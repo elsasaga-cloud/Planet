@@ -45,8 +45,7 @@
 
 ## 3. 联系方式
 - 邮箱：info@sdc.nl（首选）
-- 邮箱：support@sdc.nl（公开）
-- 邮箱：support@sdc.nl与0314（公开）
+- 邮箱：support@sdc.nl（公开｜公开｜原文「support@sdc.nl与0314」）
 - 电话：+31 6 17552148（内部用，不进外发材料）
 - 来源库入口字段：info@sdc.nl（官网；同站verkoop@/support@sdc.nl）；原入口：+31 6 17552148；站点 sdc.nl
 

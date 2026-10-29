@@ -104,7 +104,7 @@
 - 一句话：SI/VAR（Celeris Informatique）
 - 是什么人：SI/VAR（Celeris Informatique）；规模：未量化
 - 对口哪条线：—
-- 找得到人吗：**contact@celeris-informatique.fr**（来源库公开邮箱）；KP：无具名
+- 找得到人吗：contact@celeris-informatique.fr（来源库公开邮箱）；KP：无具名
 - 已触达：S 箱 2026-10-19 群发「24 Port PoE Managed Switch」→ 已发未回
 - 与 Saga Clients：无
 - **下一动作：不动**；建议 不动

@@ -44,8 +44,7 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：contact@nxo.eu（首选）
-- 邮箱：法律页给contact@nxo.eu（公开）
+- 邮箱：contact@nxo.eu（首选｜公开｜原文「法律页给contact@nxo.eu」）
 - 来源库入口字段：contact@nxo.eu（官网联系/法律页）；0 821 201 201；总部2026-03-30迁Puteaux（法律页仍Rueil-Malmaison）
 
 来源库「联系方式」段原文：

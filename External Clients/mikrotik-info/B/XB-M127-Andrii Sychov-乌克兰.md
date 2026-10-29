@@ -43,11 +43,9 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：trainer@mikrotik.net.ua（首选）
-- 邮箱：smart.center@elko.ua（公开）
-- 邮箱：邮箱trainer@mikrotik.net.ua（公开）
-- 邮箱：公司站另公开smart.center@elko.ua与（公开）
-- 邮箱：旧域it@mikrotik.in.ua为早期站点遗留线索（公开）
+- 邮箱：trainer@mikrotik.net.ua（首选｜公开｜原文「邮箱trainer@mikrotik.net.ua」）
+- 邮箱：smart.center@elko.ua（公开｜公开｜原文「公司站另公开smart.center@elko.ua与」）
+- 邮箱：it@mikrotik.in.ua（公开｜原文「旧域it@mikrotik.in.ua为早期站点遗留线索」）
 - 电话：+380 67 701 22 82（内部用，不进外发材料）
 - 来源库入口字段：+380 67 701 22 82；trainer@mikrotik.net.ua（官方培训中心名录）；smart.center@elko.ua（Smart Center/ELKO公司站线索）
 

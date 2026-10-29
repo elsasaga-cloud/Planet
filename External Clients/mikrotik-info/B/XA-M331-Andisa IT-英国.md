@@ -44,11 +44,9 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：supportdesk@andisa.net（首选）
-- 邮箱：sales@andisa.net（公开）
-- 邮箱：官网支持页正文给supportdesk@andisa.net与电话01423（公开）
-- 邮箱：首页结构化数据给sales@andisa.net（公开）
-- 邮箱：主讲并列出andy@andisa.net（公开）
+- 邮箱：supportdesk@andisa.net（首选｜公开｜原文「官网支持页正文给supportdesk@andisa.net与电话01423」）
+- 邮箱：sales@andisa.net（公开｜公开｜原文「首页结构化数据给sales@andisa.net」）
+- 邮箱：andy@andisa.net（公开｜原文「主讲并列出andy@andisa.net」）
 - 来源库入口字段：supportdesk@andisa.net（官网支持页正文）；另 sales@andisa.net（首页结构化数据）；原入口：01423 290029
 
 来源库「联系方式」段原文：

@@ -44,7 +44,7 @@
 
 ## 3. 联系方式
 - 邮箱：admin@aulaf.com（首选）
-- 邮箱：khalil姓名与khalil@aulaf.com只在旧（公开）
+- 邮箱：khalil@aulaf.com（公开｜原文「khalil姓名与khalil@aulaf.com只在旧」）
 - 电话：+436889131190（内部用，不进外发材料）
 - 来源库入口字段：admin@aulaf.com（关联公司官网入口；个人归属/现任职限制见备注）；原入口：+436889131190
 

@@ -44,9 +44,7 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：info@ingesw.com（首选）
-- 邮箱：邮箱info@ingesw.com见公司自设在european（公开）
-- 邮箱：主字段取info@ingesw.com（公开）
+- 邮箱：info@ingesw.com（首选｜公开｜原文「邮箱info@ingesw.com见公司自设在european」｜公开｜原文「主字段取info@ingesw.com」）
 - 邮箱：fabio.mundadori7114@ingesw.onmicrosoft.com（公开）
 - 来源库入口字段：info@ingesw.com（公司自设European Job Days档案+名录+Crunchbase，域内邮箱；官网联系页本轮仅表单/地图）；06/928651；I&SI SpA，法定Roma、运营Aprilia
 

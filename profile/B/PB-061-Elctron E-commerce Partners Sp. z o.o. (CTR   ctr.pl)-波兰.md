@@ -4,7 +4,7 @@
 >
 > **类型**：安防批发网店 + 安装（自述 hurtownia CCTV 2008 年起；Hikvision / Dahua / Bosch / Axis / Hanwha 伙伴；64 个本地代表点；KRS 主营「邮购/互联网零售」）　|　**PLANET 关联**：ctr.pl/dystrybutor/planet 页题「Planet - Oficjalny Dystrybutor」，35 款 PLANET 现货 24 h 发货（GSW-2620HP、GSW-1600HP、GS-4210-8P2S、GSD-604HP、FSD-808HP、GSW-1222VUP、WGSW-24040HP4、SGS-6341-24T4X 等）；站内 Switche 192 / Switche PoE 15 类目　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
-> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：★ P 池 · 正式入池（档位 ○）**（闸 3 · G3 · 2026-10-29）：○ CCTV 批发 + 安装 20%：Elctron E-commerce Partners Sp. z o.o.（Warszawa Górczewska 129；KRS 0001031273；NIP 5273052174；2023-04-14 注册，品牌 CTR 自 2008；资本 5,000 zł；64 个合作点；Prezes Marek Andrzej Sołtys）坐实；PLANET 35 款现货 24 h 发货；info@ctr.pl + +48 504 500 007；波兰
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：○ P 池 · 正式入池（档位 ○）**（闸 3 · G3 · 2026-10-29）：○ CCTV 批发 + 安装 20%：Elctron E-commerce Partners Sp. z o.o.（Warszawa Górczewska 129；KRS 0001031273；NIP 5273052174；2023-04-14 注册，品牌 CTR 自 2008；资本 5,000 zł；64 个合作点；Prezes Marek Andrzej Sołtys）坐实；PLANET 35 款现货 24 h 发货；info@ctr.pl + +48 504 500 007；波兰
 
 ```yaml structured_profile
 code: PB-061

@@ -42,8 +42,7 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：sales@caymanwireless.com（首选）
-- 邮箱：sales@caymanwireless.com仅有第三方目录结构化数据支持（公开）
+- 邮箱：sales@caymanwireless.com（首选｜公开｜原文「sales@caymanwireless.com仅有第三方目录结构化数据支持」）
 - 来源库入口字段：sales@caymanwireless.com（第三方目录结构化数据，官网联系入口为遮罩；待核）；原入口：1-956-825-0710
 
 来源库「联系方式」段原文：

@@ -82,7 +82,7 @@
 - 是什么人：MikroTik 网店（WIFIPROFI.CZ；klima@ 已停用 2026-10-04）；规模：未量化
 - 在卖/在用：MikroTik（Reseller）
 - 对口哪条线：—
-- 找得到人吗：klima@wifiprofi.cz【已停用:2026-10-04（来源库公开邮箱）；KP：无具名
+- 找得到人吗：klima@wifiprofi.cz（来源库公开邮箱）；KP：无具名
 - 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
 - 与 Saga Clients：无
 - **下一动作：不动**；建议 不动

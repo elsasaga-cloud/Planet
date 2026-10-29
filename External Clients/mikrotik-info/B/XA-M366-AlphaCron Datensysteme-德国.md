@@ -44,10 +44,8 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：contact@alphacron.de（首选）
-- 邮箱：网络记录另有abuse@alphacron.de（公开）
-- 邮箱：给contact@alphacron.de（公开）
-- 邮箱：与abuse@alphacron.de（公开）
+- 邮箱：contact@alphacron.de（首选｜公开｜原文「给contact@alphacron.de」）
+- 邮箱：abuse@alphacron.de（公开｜原文「网络记录另有abuse@alphacron.de」｜公开｜原文「与abuse@alphacron.de」）
 - 来源库入口字段：contact@alphacron.de（官网Impressum/隐私页）；036202/759994；Inhaber Marc Pauls；网络记录另有abuse@alphacron.de
 
 来源库「联系方式」段原文：

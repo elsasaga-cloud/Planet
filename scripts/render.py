@@ -21,6 +21,25 @@ def load_sieve_planet():
 
 
 SP = load_sieve_planet()
+
+
+def _sp_main_star(sv):
+    # U124：随主档（Saga SC- / External XC-）的池户，横幅档位取主档
+    if sv.get("star"):
+        return sv["star"]
+    m = sv.get("dup_of") or ""
+    if m.startswith("SC-"):
+        p = os.path.join(ROOT, "data", "saga_clients", "sieve.json")
+    elif m.startswith("X"):
+        p = os.path.join(ROOT, "data", "external_clients", "sieve_x.json")
+    else:
+        return None
+    cache = getattr(_sp_main_star, "_c", {})
+    if p not in cache:
+        cache[p] = json.load(open(p, encoding="utf-8")) if os.path.exists(p) else {}
+        _sp_main_star._c = cache
+    row = cache[p].get(m) or {}
+    return row.get("grade") or row.get("star")
 SP_LABEL = {"pass_final": "⛔ 已过筛 · 永久 pass", "keep": "留 Planet 仓原档（只巡检不入池）", "keep_C": "随主档留 C", "candidate": "闸 2 候选",
             "pool": "★ P 池 · 正式入池", "pool_watch": "☆ P 池 · 观察档"}
 SP_PREFIX = {"pass_final": "⛔ ", "pool": "★ ", "pool_watch": "☆ ", "candidate": "☆ "}
@@ -172,6 +191,9 @@ def render_one(row, by_saga, by_sb):
     sv = SP.get(code)
     if sv:
         _lab = SP_LABEL.get(sv.get("verdict"), sv.get("verdict"))
+        _st = _sp_main_star(sv) if sv.get("verdict") in ("pool", "pool_watch") else None   # U124：横幅用真实档位（随主档取主档）
+        if _st:
+            _lab = _st + _lab[1:]
         _tail = " —— 不再研究 / 不群发 / 不监控；撤销只在客户主动找上门时由 Simon 拍板" if sv.get("verdict") == "pass_final" else ""
         _dup = f"（随 `{sv['dup_of']}`）" if sv.get("dup_of") else ""
         L.append(f">")

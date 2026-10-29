@@ -4,7 +4,7 @@
 >
 > **类型**：工业电子电商/经销（2012 年起；Moxa、PLANET、Teltonika、Mean Well、3onedata、Digitus 等工业网络/自动化产品；2–10 人）　|　**PLANET 关联**：官网 PLANET 品牌页 + 产品页（ISW-500T 等工业交换机）；首页「Distribuiamo Planet」；同时分销 3onedata（中国工业交换机品牌）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
-> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：★ P 池 · 正式入池**（随 `SC-2941`）（闸 0 · DUP · 2026-10-29）：与 SC-2941 同一公司（同域名 digitx.it）→ 随主档：pool（闸 3，★ P 池正式入池（档位 ○）：○ 工业 B2B 电商 + 自有商标 · OEM 30%：Lastella Trade S.r.l. = digitX.it（Funo di Argelato BO；P.I. 03695681209 / RE）
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：○ P 池 · 正式入池**（随 `SC-2941`）（闸 0 · DUP · 2026-10-29）：与 SC-2941 同一公司（同域名 digitx.it）→ 随主档：pool（闸 3，★ P 池正式入池（档位 ○）：○ 工业 B2B 电商 + 自有商标 · OEM 30%：Lastella Trade S.r.l. = digitX.it（Funo di Argelato BO；P.I. 03695681209 / RE）
 
 ```yaml structured_profile
 code: PB-028

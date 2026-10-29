@@ -43,9 +43,8 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：sales@neobits.com（首选）
+- 邮箱：sales@neobits.com（首选｜公开｜原文「官网联系页正文给sales@neobits.com」）
 - 邮箱：vendors@neobits.com（公开）
-- 邮箱：官网联系页正文给sales@neobits.com（公开）
 - 来源库入口字段：sales@neobits.com（官网联系页正文）；供应商入口：vendors@neobits.com；原入口：1-866-636-2487
 
 来源库「联系方式」段原文：

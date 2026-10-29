@@ -44,8 +44,7 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：info@ditecom.com（首选）
-- 邮箱：37与邮箱info@ditecom.com保留（公开）
+- 邮箱：info@ditecom.com（首选｜公开｜原文「37与邮箱info@ditecom.com保留」）
 - 电话：+34 91 528 54 37（内部用，不进外发材料）
 - 来源库入口字段：+34 91 528 54 37 / info@ditecom.com
 

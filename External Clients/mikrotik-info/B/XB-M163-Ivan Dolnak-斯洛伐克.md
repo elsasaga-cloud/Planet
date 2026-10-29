@@ -42,11 +42,9 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：ivan.dolnak@connet-group.sk（首选）
-- 邮箱：info@connet-group.sk（公开）
-- 邮箱：邮箱ivan.dolnak@connet-group.sk（公开）
+- 邮箱：ivan.dolnak@connet-group.sk（首选｜公开｜原文「邮箱ivan.dolnak@connet-group.sk」）
+- 邮箱：info@connet-group.sk（公开｜公开｜原文「公司站另见通用入口info@connet-group.sk」）
 - 邮箱：krug@mikrotik.cool（公开）
-- 邮箱：公司站另见通用入口info@connet-group.sk（公开）
 - 电话：+421 948 672 185（内部用，不进外发材料）
 - 来源库入口字段：+421 948 672 185；ivan.dolnak@connet-group.sk（官方培训中心名录）；info@connet-group.sk（公司站）
 

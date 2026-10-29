@@ -20,11 +20,7 @@
    "emails": [
     {
      "addr": "sales@aacgroup.com.my",
-     "status": "公开"
-    },
-    {
-     "addr": "邮件sales@aacgroup.com.my",
-     "status": "公开"
+     "status": "公开｜公开｜原文「邮件sales@aacgroup.com.my」"
     }
    ],
    "phones": [
@@ -113,8 +109,7 @@
    ],
    "src_repo_ref": "elsasaga-cloud/CCTV-PoE@9be1416 (arena/01a0c908-cctv-poe)",
    "emails_live": [
-    "sales@aacgroup.com.my",
-    "邮件sales@aacgroup.com.my"
+    "sales@aacgroup.com.my"
    ],
    "kp_named": false,
    "stage": "",
@@ -422,11 +417,7 @@
    "emails": [
     {
      "addr": "info@cctv-direct.co.za",
-     "status": "公开"
-    },
-    {
-     "addr": "邮件info@cctv-direct.co.za",
-     "status": "公开"
+     "status": "公开｜公开｜原文「邮件info@cctv-direct.co.za」"
     }
    ],
    "phones": [],
@@ -490,8 +481,7 @@
    ],
    "src_repo_ref": "elsasaga-cloud/CCTV-PoE@9be1416 (arena/01a0c908-cctv-poe)",
    "emails_live": [
-    "info@cctv-direct.co.za",
-    "邮件info@cctv-direct.co.za"
+    "info@cctv-direct.co.za"
    ],
    "kp_named": false,
    "stage": "",
@@ -575,14 +565,10 @@
    "emails": [
     {
      "addr": "sales@gctlbd.com",
-     "status": "公开"
+     "status": "公开｜公开｜原文「邮件sales@gctlbd.com」"
     },
     {
      "addr": "info@gctlbd.com",
-     "status": "公开"
-    },
-    {
-     "addr": "邮件sales@gctlbd.com",
      "status": "公开"
     }
    ],
@@ -620,8 +606,7 @@
    "src_repo_ref": "elsasaga-cloud/CCTV-PoE@9be1416 (arena/01a0c908-cctv-poe)",
    "emails_live": [
     "sales@gctlbd.com",
-    "info@gctlbd.com",
-    "邮件sales@gctlbd.com"
+    "info@gctlbd.com"
    ],
    "kp_named": false,
    "stage": "",
@@ -995,11 +980,11 @@
    "emails": [
     {
      "addr": "enquiries@regalsecurity.co.za",
-     "status": "公开"
+     "status": "公开｜公开｜原文「同时发enquiries@regalsecurity.co.za」"
     },
     {
      "addr": "exports@regalsecurity.co.za",
-     "status": "公开"
+     "status": "公开｜公开｜原文「邮件发exports@regalsecurity.co.za」"
     },
     {
      "addr": "online@regalsecurity.co.za",
@@ -1035,14 +1020,6 @@
     },
     {
      "addr": "somerset@regalsecurity.co.za",
-     "status": "公开"
-    },
-    {
-     "addr": "邮件发exports@regalsecurity.co.za",
-     "status": "公开"
-    },
-    {
-     "addr": "同时发enquiries@regalsecurity.co.za",
      "status": "公开"
     }
    ],
@@ -1143,9 +1120,7 @@
     "stijdom@regalsecurity.co.za",
     "eastlondon@regalsecurity.co.za",
     "emalahleni@regalsecurity.co.za",
-    "somerset@regalsecurity.co.za",
-    "邮件发exports@regalsecurity.co.za",
-    "同时发enquiries@regalsecurity.co.za"
+    "somerset@regalsecurity.co.za"
    ],
    "kp_named": false,
    "stage": "",
@@ -1174,7 +1149,7 @@
    "emails": [
     {
      "addr": "info@securitywarehouse.co.za",
-     "status": "公开"
+     "status": "公开｜公开｜原文「邮件发info@securitywarehouse.co.za」"
     },
     {
      "addr": "er@securitywarehouse.co.za",
@@ -1190,10 +1165,6 @@
     },
     {
      "addr": "bb@securitywarehouse.co.za",
-     "status": "公开"
-    },
-    {
-     "addr": "邮件发info@securitywarehouse.co.za",
      "status": "公开"
     }
    ],
@@ -1290,8 +1261,7 @@
     "er@securitywarehouse.co.za",
     "sp@securitywarehouse.co.za",
     "wr@securitywarehouse.co.za",
-    "bb@securitywarehouse.co.za",
-    "邮件发info@securitywarehouse.co.za"
+    "bb@securitywarehouse.co.za"
    ],
    "kp_named": false,
    "stage": "",
@@ -19045,11 +19015,7 @@
    "emails": [
     {
      "addr": "support@mokerlink.com",
-     "status": "公开"
-    },
-    {
-     "addr": "邮件发support@mokerlink.com",
-     "status": "公开"
+     "status": "公开｜公开｜原文「邮件发support@mokerlink.com」"
     }
    ],
    "phones": [
@@ -19206,8 +19172,7 @@
    ],
    "src_repo_ref": "elsasaga-cloud/CCTV-PoE@9be1416 (arena/01a0c908-cctv-poe)",
    "emails_live": [
-    "support@mokerlink.com",
-    "邮件发support@mokerlink.com"
+    "support@mokerlink.com"
    ],
    "kp_named": false,
    "stage": "",
@@ -30033,11 +29998,7 @@
    "emails": [
     {
      "addr": "info@alselsal.net",
-     "status": "公开"
-    },
-    {
-     "addr": "邮件发info@alselsal.net",
-     "status": "公开"
+     "status": "公开｜公开｜原文「邮件发info@alselsal.net」"
     }
    ],
    "phones": [
@@ -30129,8 +30090,7 @@
    ],
    "src_repo_ref": "elsasaga-cloud/CCTV-PoE@9be1416 (arena/01a0c908-cctv-poe)",
    "emails_live": [
-    "info@alselsal.net",
-    "邮件发info@alselsal.net"
+    "info@alselsal.net"
    ],
    "kp_named": false,
    "stage": "",
@@ -32706,11 +32666,7 @@
    "emails": [
     {
      "addr": "info@khaleejalawwal.com",
-     "status": "公开"
-    },
-    {
-     "addr": "联系info@khaleejalawwal.com",
-     "status": "公开"
+     "status": "公开｜公开｜原文「联系info@khaleejalawwal.com」"
     }
    ],
    "phones": [
@@ -32783,8 +32739,7 @@
    ],
    "src_repo_ref": "elsasaga-cloud/CCTV-PoE@9be1416 (arena/01a0c908-cctv-poe)",
    "emails_live": [
-    "info@khaleejalawwal.com",
-    "联系info@khaleejalawwal.com"
+    "info@khaleejalawwal.com"
    ],
    "kp_named": false,
    "stage": "",
@@ -93145,14 +93100,10 @@
    "emails": [
     {
      "addr": "leads@radiant.in",
-     "status": "公开"
+     "status": "公开｜公开｜原文「邮件发leads@radiant.in」"
     },
     {
      "addr": "info@radiant.in",
-     "status": "公开"
-    },
-    {
-     "addr": "邮件发leads@radiant.in",
      "status": "公开"
     }
    ],
@@ -93234,8 +93185,7 @@
    "src_repo_ref": "elsasaga-cloud/CCTV-PoE@9be1416 (arena/01a0c908-cctv-poe)",
    "emails_live": [
     "leads@radiant.in",
-    "info@radiant.in",
-    "邮件发leads@radiant.in"
+    "info@radiant.in"
    ],
    "kp_named": false,
    "stage": "",
@@ -102849,14 +102799,10 @@
    "emails": [
     {
      "addr": "orders@interprojekt.pl",
-     "status": "公开"
+     "status": "公开｜公开｜原文「邮件发orders@interprojekt.pl」"
     },
     {
      "addr": "pomoc@ip-sa.pl",
-     "status": "公开"
-    },
-    {
-     "addr": "邮件发orders@interprojekt.pl",
      "status": "公开"
     }
    ],
@@ -102935,8 +102881,7 @@
    "src_repo_ref": "elsasaga-cloud/CCTV-PoE@9be1416 (arena/01a0c908-cctv-poe)",
    "emails_live": [
     "orders@interprojekt.pl",
-    "pomoc@ip-sa.pl",
-    "邮件发orders@interprojekt.pl"
+    "pomoc@ip-sa.pl"
    ],
    "kp_named": false,
    "stage": "",
@@ -102969,11 +102914,7 @@
    "emails": [
     {
      "addr": "business@itwarehouse.ph",
-     "status": "公开"
-    },
-    {
-     "addr": "邮件发business@itwarehouse.ph",
-     "status": "公开"
+     "status": "公开｜公开｜原文「邮件发business@itwarehouse.ph」"
     }
    ],
    "phones": [],
@@ -103051,8 +102992,7 @@
    ],
    "src_repo_ref": "elsasaga-cloud/CCTV-PoE@9be1416 (arena/01a0c908-cctv-poe)",
    "emails_live": [
-    "business@itwarehouse.ph",
-    "邮件发business@itwarehouse.ph"
+    "business@itwarehouse.ph"
    ],
    "kp_named": false,
    "stage": "",
@@ -103077,11 +103017,11 @@
    "emails": [
     {
      "addr": "sales@scoop.co.za",
-     "status": "公开"
+     "status": "公开｜公开｜原文「抄送sales@scoop.co.za」"
     },
     {
      "addr": "cpt@scoop.co.za",
-     "status": "公开"
+     "status": "公开｜公开｜原文「邮件发cpt@scoop.co.za」"
     },
     {
      "addr": "jhb@scoop.co.za",
@@ -103093,14 +103033,6 @@
     },
     {
      "addr": "peter@smartbyte.com.cn",
-     "status": "公开"
-    },
-    {
-     "addr": "邮件发cpt@scoop.co.za",
-     "status": "公开"
-    },
-    {
-     "addr": "抄送sales@scoop.co.za",
      "status": "公开"
     }
    ],
@@ -103187,9 +103119,7 @@
     "cpt@scoop.co.za",
     "jhb@scoop.co.za",
     "dbn@scoop.co.za",
-    "peter@smartbyte.com.cn",
-    "邮件发cpt@scoop.co.za",
-    "抄送sales@scoop.co.za"
+    "peter@smartbyte.com.cn"
    ],
    "kp_named": false,
    "stage": "",
@@ -103465,14 +103395,10 @@
     },
     {
      "addr": "zachh@wavonline.com",
-     "status": "公开"
+     "status": "公开｜公开｜原文「邮件发zachh@wavonline.com」"
     },
     {
      "addr": "treo@wavonline.com",
-     "status": "公开"
-    },
-    {
-     "addr": "邮件发zachh@wavonline.com",
      "status": "公开"
     }
    ],
@@ -103539,8 +103465,7 @@
    "emails_live": [
     "info@wavonline.com",
     "zachh@wavonline.com",
-    "treo@wavonline.com",
-    "邮件发zachh@wavonline.com"
+    "treo@wavonline.com"
    ],
    "kp_named": false,
    "stage": "",
@@ -165766,11 +165691,7 @@
     },
     {
      "addr": "sales01@azrait.sa",
-     "status": "公开"
-    },
-    {
-     "addr": "直接联系sales01@azrait.sa",
-     "status": "公开"
+     "status": "公开｜公开｜原文「直接联系sales01@azrait.sa」"
     }
    ],
    "phones": [
@@ -165829,8 +165750,7 @@
    "src_repo_ref": "elsasaga-cloud/CCTV-PoE@9be1416 (arena/01a0c908-cctv-poe)",
    "emails_live": [
     "info@azrait.sa",
-    "sales01@azrait.sa",
-    "直接联系sales01@azrait.sa"
+    "sales01@azrait.sa"
    ],
    "kp_named": false,
    "stage": "",
@@ -165855,11 +165775,7 @@
    "emails": [
     {
      "addr": "info@morganit.sa",
-     "status": "公开"
-    },
-    {
-     "addr": "联系info@morganit.sa",
-     "status": "公开"
+     "status": "公开｜公开｜原文「联系info@morganit.sa」"
     }
    ],
    "phones": [
@@ -165920,8 +165836,7 @@
    ],
    "src_repo_ref": "elsasaga-cloud/CCTV-PoE@9be1416 (arena/01a0c908-cctv-poe)",
    "emails_live": [
-    "info@morganit.sa",
-    "联系info@morganit.sa"
+    "info@morganit.sa"
    ],
    "kp_named": false,
    "stage": "",
@@ -165946,11 +165861,7 @@
    "emails": [
     {
      "addr": "info@ayn.sa",
-     "status": "公开"
-    },
-    {
-     "addr": "联系info@ayn.sa",
-     "status": "公开"
+     "status": "公开｜公开｜原文「联系info@ayn.sa」"
     }
    ],
    "phones": [
@@ -165979,8 +165890,7 @@
    "also": [],
    "src_repo_ref": "elsasaga-cloud/CCTV-PoE@9be1416 (arena/01a0c908-cctv-poe)",
    "emails_live": [
-    "info@ayn.sa",
-    "联系info@ayn.sa"
+    "info@ayn.sa"
    ],
    "kp_named": false,
    "stage": "",
@@ -166005,11 +165915,7 @@
    "emails": [
     {
      "addr": "info@gulfhorizontele.com",
-     "status": "公开"
-    },
-    {
-     "addr": "联系info@gulfhorizontele.com",
-     "status": "公开"
+     "status": "公开｜公开｜原文「联系info@gulfhorizontele.com」"
     }
    ],
    "phones": [
@@ -166052,8 +165958,7 @@
    ],
    "src_repo_ref": "elsasaga-cloud/CCTV-PoE@9be1416 (arena/01a0c908-cctv-poe)",
    "emails_live": [
-    "info@gulfhorizontele.com",
-    "联系info@gulfhorizontele.com"
+    "info@gulfhorizontele.com"
    ],
    "kp_named": false,
    "stage": "",
@@ -166078,11 +165983,7 @@
    "emails": [
     {
      "addr": "info@zorinstechnologies.com",
-     "status": "公开"
-    },
-    {
-     "addr": "联系info@zorinstechnologies.com",
-     "status": "公开"
+     "status": "公开｜公开｜原文「联系info@zorinstechnologies.com」"
     }
    ],
    "phones": [
@@ -166130,8 +166031,7 @@
    ],
    "src_repo_ref": "elsasaga-cloud/CCTV-PoE@9be1416 (arena/01a0c908-cctv-poe)",
    "emails_live": [
-    "info@zorinstechnologies.com",
-    "联系info@zorinstechnologies.com"
+    "info@zorinstechnologies.com"
    ],
    "kp_named": false,
    "stage": "",
@@ -166835,11 +166735,7 @@
    "emails": [
     {
      "addr": "info@puresignal.com.sa",
-     "status": "公开"
-    },
-    {
-     "addr": "联系info@puresignal.com.sa",
-     "status": "公开"
+     "status": "公开｜公开｜原文「联系info@puresignal.com.sa」"
     }
    ],
    "phones": [
@@ -166869,8 +166765,7 @@
    "also": [],
    "src_repo_ref": "elsasaga-cloud/CCTV-PoE@9be1416 (arena/01a0c908-cctv-poe)",
    "emails_live": [
-    "info@puresignal.com.sa",
-    "联系info@puresignal.com.sa"
+    "info@puresignal.com.sa"
    ],
    "kp_named": false,
    "stage": "",

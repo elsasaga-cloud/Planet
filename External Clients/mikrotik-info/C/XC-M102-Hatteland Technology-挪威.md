@@ -2,7 +2,7 @@
 
 > **初判 XC 暂不管** ｜ 来源 mikrotik-info `C-037`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
 >
-> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（随 Saga `SC-490`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-490 同一公司（经 hattelandtechnology.com）→ 随 Saga 档：pool（闸 3，★ P 池正式入池（档位 ○）：○ 工业分销 20%：Hatteland Technology AS（Aksdal / Lysaker；EMBRON 子公司；约 200 人；自产船用 IT + 工业网络 / 安防授权分销）部分坐实（org.）
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：○ P 池 · 正式入池**（随 Saga `SC-490`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-490 同一公司（经 hattelandtechnology.com）→ 随 Saga 档：pool（闸 3，★ P 池正式入池（档位 ○）：○ 工业分销 20%：Hatteland Technology AS（Aksdal / Lysaker；EMBRON 子公司；约 200 人；自产船用 IT + 工业网络 / 安防授权分销）部分坐实（org.）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-490，经 hattelandtechnology.com）→ 以 Saga 档为准，本条不单独跟

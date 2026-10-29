@@ -47,8 +47,8 @@
 | 同一家在来源库其他位置 | `03-海外客户开发清单.md`:100（三、非洲地区 > 3.1 南非（重点市场！5家））；`03-海外客户开发清单.md`:332（海外客户开发清单 — Saga PoE交换机 > 优先Top 20行动清单（更新）；`03-海外客户开发清单.md`:462（海外客户开发清单 — Saga PoE交换机 > 优先Top 30行动清单（终极）；`03-海外客户开发清单.md`:597（海外客户开发清单 — Saga PoE交换机 > 优先Top 30行动清单（终极） |
 
 ## 3. 联系方式
-- 邮箱：enquiries@regalsecurity.co.za（公开）
-- 邮箱：exports@regalsecurity.co.za（公开）
+- 邮箱：enquiries@regalsecurity.co.za（公开｜公开｜原文「同时发enquiries@regalsecurity.co.za」）
+- 邮箱：exports@regalsecurity.co.za（公开｜公开｜原文「邮件发exports@regalsecurity.co.za」）
 - 邮箱：online@regalsecurity.co.za（公开）
 - 邮箱：techsupport@regalsecurity.co.za（公开）
 - 邮箱：alberton@regalsecurity.co.za（公开）
@@ -58,8 +58,6 @@
 - 邮箱：eastlondon@regalsecurity.co.za（公开）
 - 邮箱：emalahleni@regalsecurity.co.za（公开）
 - 邮箱：somerset@regalsecurity.co.za（公开）
-- 邮箱：邮件发exports@regalsecurity.co.za（公开）
-- 邮箱：同时发enquiries@regalsecurity.co.za（公开）
 - 电话：+27 11 553 3300；+27 87 537 4100；+27 10 745 6489（内部用，不进外发材料）
 
 ## 4. 关键人（KP）

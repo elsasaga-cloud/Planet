@@ -2,7 +2,7 @@
 
 > **现判 XC 暂不管** ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:18677 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-02 2026-10-29）→ 下一动作 不动
 >
-> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 安防（报警 / 视频 / 传感）制造 + 分销 20–30%：Hartford Electronics GmbH（Dortmund；HRB 28743 Amtsgericht Dortmund；资本 €25,000）坐实；自有 PoE 摄像线 → 交换机捆绑 / 贴牌对位；主区 DE；体量小 → ○；kundendienst@hartford-electronics.de（客服箱，待挖销售 KP）
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：○ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 安防（报警 / 视频 / 传感）制造 + 分销 20–30%：Hartford Electronics GmbH（Dortmund；HRB 28743 Amtsgericht Dortmund；资本 €25,000）坐实；自有 PoE 摄像线 → 交换机捆绑 / 贴牌对位；主区 DE；体量小 → ○；kundendienst@hartford-electronics.de（客服箱，待挖销售 KP）
 
 ## 1. 初判与理由
 - 初判：**XC** — 终端用户 / 渠道触点（机场、大学、超市、政府、军队…走集成商与框架采购，不是 Saga 的直接买家）

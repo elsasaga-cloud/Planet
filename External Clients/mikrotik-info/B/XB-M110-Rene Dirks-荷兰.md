@@ -43,8 +43,7 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：info@gewoon-it.nl（首选）
-- 邮箱：gewoon-it.nl结构化数据给info@gewoon-it.nl（公开）
+- 邮箱：info@gewoon-it.nl（首选｜公开｜原文「gewoon-it.nl结构化数据给info@gewoon-it.nl」）
 - 电话：+31 135 470063（内部用，不进外发材料）
 - 来源库入口字段：info@gewoon-it.nl（官网结构化数据）；原入口：+31 135 470063；站点 gewoon-it.nl
 

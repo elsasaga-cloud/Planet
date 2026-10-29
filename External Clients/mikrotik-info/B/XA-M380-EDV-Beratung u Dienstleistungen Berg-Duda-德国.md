@@ -44,8 +44,7 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：info@berg-duda.de（首选）
-- 邮箱：给info@berg-duda.de（公开）
+- 邮箱：info@berg-duda.de（首选｜公开｜原文「给info@berg-duda.de」）
 - 来源库入口字段：info@berg-duda.de（官网产品/关于页）；+49 2261/478849；Geschäftsführer Sebastian Berg-Duda
 
 来源库「联系方式」段原文：

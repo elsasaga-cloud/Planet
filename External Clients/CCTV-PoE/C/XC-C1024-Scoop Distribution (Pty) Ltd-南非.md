@@ -57,13 +57,11 @@
 | 同一家在来源库其他位置 | `smartbyte/03-SmartByte海外客户开发清单.md`:96（SmartByte 海外客户开发清单 — 商业级管理型交换机 > 一、中东/非洲）；`smartbyte/03-SmartByte海外客户开发清单.md`:467（SmartByte 海外客户开发清单 — 商业级管理型交换机 > 优先Top 1） |
 
 ## 3. 联系方式
-- 邮箱：sales@scoop.co.za（公开）
-- 邮箱：cpt@scoop.co.za（公开）
+- 邮箱：sales@scoop.co.za（公开｜公开｜原文「抄送sales@scoop.co.za」）
+- 邮箱：cpt@scoop.co.za（公开｜公开｜原文「邮件发cpt@scoop.co.za」）
 - 邮箱：jhb@scoop.co.za（公开）
 - 邮箱：dbn@scoop.co.za（公开）
 - 邮箱：peter@smartbyte.com.cn（公开）
-- 邮箱：邮件发cpt@scoop.co.za（公开）
-- 邮箱：抄送sales@scoop.co.za（公开）
 - 电话：+27(0)21 555 4740；+27(0)11 312 9414；+27(0)31 569 5103（内部用，不进外发材料）
 
 ## 4. 关键人（KP）

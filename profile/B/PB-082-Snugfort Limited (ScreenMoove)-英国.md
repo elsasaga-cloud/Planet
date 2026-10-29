@@ -6,7 +6,7 @@
 >
 > ℹ️ Mikrotik 仓库无同户（—（Mikrotik 仓无此户；本仓 grep 0））：首触由本仓发出。
 >
-> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：★ P 池 · 正式入池（档位 ○）**（闸 3 · G3 · 2026-10-29）：○ 商用 AV / 数字标牌集成 + 网店 25%：Snugfort Limited（England & Wales 12278368；VAT GB 396 2351 74；London EC2A 4NE；2019 起；500+ 企业客户）坐实；PLANET Official Partner，交换机类目 220/270 为 PLANET、IPOE-260 实时库存 168 件 → 真实周转；info@ + support@；主区 GB
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：○ P 池 · 正式入池（档位 ○）**（闸 3 · G3 · 2026-10-29）：○ 商用 AV / 数字标牌集成 + 网店 25%：Snugfort Limited（England & Wales 12278368；VAT GB 396 2351 74；London EC2A 4NE；2019 起；500+ 企业客户）坐实；PLANET Official Partner，交换机类目 220/270 为 PLANET、IPOE-260 实时库存 168 件 → 真实周转；info@ + support@；主区 GB
 
 ```yaml structured_profile
 code: PB-082

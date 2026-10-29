@@ -2,7 +2,7 @@
 
 > **评级 C**　|　土耳其　|　档案编号 `SC-440`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ○）：○ 土耳其主区 · 分销 / 集成 20–25%：İnterland Bilişim Teknolojileri Tic. Ltd. Şti.（İstanbul Ümraniye；VKN 4781181726；NACE 461401 电子 / 电信设备批发代理）坐实（展会名片「Interland Network & Security」对应待 WA 确认）；土耳其主区 ✔ WA 可达 ✔ 具体需求 ✔ → P 池候选
+> **C 池筛选：○ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ○）：○ 土耳其主区 · 分销 / 集成 20–25%：İnterland Bilişim Teknolojileri Tic. Ltd. Şti.（İstanbul Ümraniye；VKN 4781181726；NACE 461401 电子 / 电信设备批发代理）坐实（展会名片「Interland Network & Security」对应待 WA 确认）；土耳其主区 ✔ WA 可达 ✔ 具体需求 ✔ → P 池候选
 >
 > **类型**：安防集成/经销（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：ISAF2025展会、表:Ady　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 

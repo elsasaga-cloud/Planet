@@ -4,7 +4,7 @@
 >
 > **类型**：集成商/经销（2005 年起；通信交钥匙方案：TDM/IP PBX、布线、网络与安防；网店以美元标价销售 PLANET；约 18 人、营收约 $5.2M）　|　**PLANET 关联**：网店 shop.akcaba.com 在售 PLANET PL-GS-4210-24P2S（$550）、IGS-6325-24P4S（$1,350）、IGS-12040MT、IGS-5225-8P4S、POE-2400G　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
-> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：★ P 池 · 正式入池（档位 ○）**（闸 3 · G3 · 2026-10-29）：○ 通信集成 + 经销 25%：Akçaba Communications（Lefkoşa Tuna Sok. 4；+90 392 229 15 15；ZoomInfo 11–50 人 / $5.2M；20+ 年光纤 / 布线 / 通信交钥匙，客户含政府 / 酒店 / 学校 / 医院）部分坐实（TRNC 无公开登记）；PLANET 商用 + 工业 PoE 美元标价有库存；info@，联合创始人 Faize Akçaba 具名；T06 随土耳其 → 预付 100% 起步｜补证 P2-02（2026-10-29）：法人名「Akçaba Ltd.」（Akcaba Communications；kimibilin.com 名录：Tuna Sk No 4 Lefkoşa 99010，info@akcaba.com，+90 392 229 15 15）；TRNC 公司登记无公开检索库 → reg_pending 保留，首单仍预付
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：○ P 池 · 正式入池（档位 ○）**（闸 3 · G3 · 2026-10-29）：○ 通信集成 + 经销 25%：Akçaba Communications（Lefkoşa Tuna Sok. 4；+90 392 229 15 15；ZoomInfo 11–50 人 / $5.2M；20+ 年光纤 / 布线 / 通信交钥匙，客户含政府 / 酒店 / 学校 / 医院）部分坐实（TRNC 无公开登记）；PLANET 商用 + 工业 PoE 美元标价有库存；info@，联合创始人 Faize Akçaba 具名；T06 随土耳其 → 预付 100% 起步｜补证 P2-02（2026-10-29）：法人名「Akçaba Ltd.」（Akcaba Communications；kimibilin.com 名录：Tuna Sk No 4 Lefkoşa 99010，info@akcaba.com，+90 392 229 15 15）；TRNC 公司登记无公开检索库 → reg_pending 保留，首单仍预付
 
 ```yaml structured_profile
 code: PC-011

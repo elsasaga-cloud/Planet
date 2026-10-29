@@ -42,9 +42,7 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：sales@soselectronic.com（首选）
-- 邮箱：department邮箱sales@soselectronic.com与（公开）
-- 邮箱：均为@soselectronic.com（公开）
+- 邮箱：sales@soselectronic.com（首选｜公开｜原文「department邮箱sales@soselectronic.com与」）
 - 电话：+421 55 786 04 39（内部用，不进外发材料）
 - 来源库入口字段：sales@soselectronic.com（官网Contact us销售部）；+421 55 786 04 39；SOS electronic s.r.o. 总部 Košice；原入口：见 soselectronic.com/en-us/hirschmann
 

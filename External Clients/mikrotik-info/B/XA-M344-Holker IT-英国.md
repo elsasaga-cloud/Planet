@@ -44,10 +44,9 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：enquiries@holkerit.co.uk（首选）
-- 邮箱：次级reassuringit@holkerit.co.uk（公开）
+- 邮箱：enquiries@holkerit.co.uk（首选｜公开｜原文「partner页与官网联系页给enquiries@holkerit.co.uk」）
+- 邮箱：reassuringit@holkerit.co.uk（公开｜原文「次级reassuringit@holkerit.co.uk」）
 - 邮箱：support@holkerit.co.uk（公开）
-- 邮箱：partner页与官网联系页给enquiries@holkerit.co.uk（公开）
 - 来源库入口字段：enquiries@holkerit.co.uk（AT官方Featured Partner页+官网联系页）；0333 305 2020；次级reassuringit@holkerit.co.uk（自社FB）、support@holkerit.co.uk（媒体）
 
 来源库「联系方式」段原文：

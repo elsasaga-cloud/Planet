@@ -46,7 +46,7 @@
 
 ## 3. 联系方式
 - 邮箱：m.polainer@triotronik.com（首选）
-- 邮箱：第1块总邮箱office@triotronik.com（公开）
+- 邮箱：office@triotronik.com（公开｜原文「第1块总邮箱office@triotronik.com」）
 - 邮箱：d.mayer@triotronik.com（公开）
 - 来源库入口字段：m.polainer@triotronik.com（官网具名业务邮箱）；原入口：43 3172 42299 0
 

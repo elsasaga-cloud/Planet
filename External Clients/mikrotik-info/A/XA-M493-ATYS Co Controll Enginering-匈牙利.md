@@ -42,9 +42,8 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：sales@atysco.hu（首选）
+- 邮箱：sales@atysco.hu（首选｜公开｜原文「并列出销售邮箱sales@atysco.hu」）
 - 邮箱：csapkovics.roxana@atysco.hu（公开）
-- 邮箱：并列出销售邮箱sales@atysco.hu（公开）
 - 电话：+36 1 263 2561（内部用，不进外发材料）
 - 来源库入口字段：sales@atysco.hu（官网正文公开；官方页另有可逆(at)/(dot)写法）；原入口：+36 1 263 2561
 

@@ -45,7 +45,7 @@
 
 ## 3. 联系方式
 - 邮箱：info@pijlsolutions.nl（首选）
-- 邮箱：销售锚文字verkoop@pijlsolutions.nl但href为sales（公开）
+- 邮箱：verkoop@pijlsolutions.nl（公开｜原文「销售锚文字verkoop@pijlsolutions.nl但href为sales」）
 - 来源库入口字段：info@pijlsolutions.nl（官网正文公开；未验证投递）；原入口：见 alliedtelesis.com 伙伴页
 
 来源库「联系方式」段原文：

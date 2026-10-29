@@ -44,8 +44,7 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：info@avelution.nl（首选）
-- 邮箱：官网联系页给info@avelution.nl（公开）
+- 邮箱：info@avelution.nl（首选｜公开｜原文「官网联系页给info@avelution.nl」）
 - 电话：+31 85 90 23 14 0（内部用，不进外发材料）
 - 来源库入口字段：info@avelution.nl（官网联系页）；+31 85 90 23 14 0；Nobelweg 12, 5482 NN（官网作Schijndel，AT伙伴页作Veghel）
 

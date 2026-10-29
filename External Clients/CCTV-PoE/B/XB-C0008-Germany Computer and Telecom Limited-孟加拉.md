@@ -34,9 +34,8 @@
 | 来源文件 | `profile/GCTL-Bangladesh.md` 第 1 行 @ elsasaga-cloud/CCTV-PoE@9be1416 (arena/01a0c908-cctv-poe) |
 
 ## 3. 联系方式
-- 邮箱：sales@gctlbd.com（公开）
+- 邮箱：sales@gctlbd.com（公开｜公开｜原文「邮件sales@gctlbd.com」）
 - 邮箱：info@gctlbd.com（公开）
-- 邮箱：邮件sales@gctlbd.com（公开）
 - 电话：+880 1847213868；+880 2 48952407；+880 1979228870（内部用，不进外发材料）
 
 ## 4. 关键人（KP）

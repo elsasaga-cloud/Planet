@@ -31,8 +31,7 @@
 | 来源文件 | `03-海外客户开发清单.md` 第 25204 行 @ elsasaga-cloud/CCTV-PoE@9be1416 (arena/01a0c908-cctv-poe) |
 
 ## 3. 联系方式
-- 邮箱：info@puresignal.com.sa（公开）
-- 邮箱：联系info@puresignal.com.sa（公开）
+- 邮箱：info@puresignal.com.sa（公开｜公开｜原文「联系info@puresignal.com.sa」）
 - 电话：+966 51 070 8827（内部用，不进外发材料）
 
 ## 4. 关键人（KP）

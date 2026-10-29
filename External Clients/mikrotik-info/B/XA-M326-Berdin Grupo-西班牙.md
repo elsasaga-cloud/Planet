@@ -43,7 +43,7 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：info@berdin.com（首选）
+- 邮箱：info@berdin.com（首选｜公开｜原文「官网联系页正文给info@berdin.com」）
 - 邮箱：madrid@berdin.com（公开）
 - 邮箱：info@berdinonline.com（公开）
 - 邮箱：agil@berdin.com（公开）
@@ -52,7 +52,6 @@
 - 邮箱：donosti@berdin.com（公开）
 - 邮箱：adelrio@berdin.com（公开）
 - 邮箱：jmentxaka@berdin.com（公开）
-- 邮箱：官网联系页正文给info@berdin.com（公开）
 - 电话：+34 943 45 81 12（内部用，不进外发材料）
 - 来源库入口字段：info@berdin.com（官网联系页正文）；分地址：madrid@berdin.com／info@berdinonline.com／agil@berdin.com（第三方目录）；原入口：见 elioplus 渠道库
 

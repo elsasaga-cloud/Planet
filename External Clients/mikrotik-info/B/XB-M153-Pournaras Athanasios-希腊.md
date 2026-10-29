@@ -43,10 +43,8 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：info@xpatit.gr（首选）
-- 邮箱：培训training@xpatit.gr（公开）
-- 邮箱：xpatit联系页给info@xpatit.gr（公开）
-- 邮箱：培训部training@xpatit.gr（公开）
+- 邮箱：info@xpatit.gr（首选｜公开｜原文「xpatit联系页给info@xpatit.gr」）
+- 邮箱：training@xpatit.gr（公开｜原文「培训training@xpatit.gr」｜公开｜原文「培训部training@xpatit.gr」）
 - 电话：+30 211 0070080（内部用，不进外发材料）
 - 来源库入口字段：info@xpatit.gr（官网联系页；培训training@xpatit.gr）；+30 211 0070080；XPATIT，26th km Marathonos Ave., Rafina (Attica)
 

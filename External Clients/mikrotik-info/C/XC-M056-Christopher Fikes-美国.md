@@ -44,9 +44,8 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：sales@fikesmedia.com（首选）
-- 邮箱：支持support@fikesmedia.com（公开）
-- 邮箱：官网联系页给销售sales@fikesmedia.com（公开）
+- 邮箱：sales@fikesmedia.com（首选｜公开｜原文「官网联系页给销售sales@fikesmedia.com」）
+- 邮箱：support@fikesmedia.com（公开｜原文「支持support@fikesmedia.com」）
 - 电话：+1 409.877.4220（内部用，不进外发材料）
 - 来源库入口字段：sales@fikesmedia.com（官网联系页Sales；支持support@fikesmedia.com）；+1 409.877.4220（销售Option 1/支持Option 2）
 

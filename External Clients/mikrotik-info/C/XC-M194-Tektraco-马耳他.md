@@ -2,7 +2,7 @@
 
 > **现判 XC 暂不管** ｜ 来源 mikrotik-info `C-129`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-02 2026-10-29）→ 下一动作 不动
 >
-> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 电信基础设施分销 20%：Tektraco Ltd.（San Gwann；C11363；VAT MT1204-6917；1990 起；10–49 人；GPON / OSP 光纤 / LAN / 测试线，另有实验室 / 医疗气体业务）坐实；Westermo Reseller → FS / STI 对位；sales@ / telecomsales@tektraco.com，CEO K. Sciberras 具名
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：○ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 电信基础设施分销 20%：Tektraco Ltd.（San Gwann；C11363；VAT MT1204-6917；1990 起；10–49 人；GPON / OSP 光纤 / LAN / 测试线，另有实验室 / 医疗气体业务）坐实；Westermo Reseller → FS / STI 对位；sales@ / telecomsales@tektraco.com，CEO K. Sciberras 具名
 
 ## 1. 初判与理由
 - 初判：**XC** — 来源库（mikrotik-info）已判 C（细分：B下放·无邮箱（群发触达不到）；依据：【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一）；Simon 口径「mik 的 C 不碰」→ 关仓前仅存档，不跟

@@ -2,7 +2,7 @@
 
 > **评级 C**　|　印度　|　档案编号 `SC-509`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：○ P 池正式入池（档位 ○，复查批 G2R-01）：○ 印度 · 自有品牌 FTTH / 交换机制造商 OEM 30%：NEXTIK BHARAT PRIVATE LIMITED（CIN U72900DL2021PTC377914，2021-03-03 成立；805 Devika Tower Nehru Place New Delhi 110019 + Noida Sec 57 制造基地；+91 8130608406；info@nextik.co.in；自述「leading switch provider in India」core switch / FTTH / WDM / 数据中心方案）Tracxn + 官网坐实；品牌商 ✔ 对位 ✔ → OEM 目标，预付 100% 起步　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）、prepay
+> **C 池筛选：○ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：○ P 池正式入池（档位 ○，复查批 G2R-01）：○ 印度 · 自有品牌 FTTH / 交换机制造商 OEM 30%：NEXTIK BHARAT PRIVATE LIMITED（CIN U72900DL2021PTC377914，2021-03-03 成立；805 Devika Tower Nehru Place New Delhi 110019 + Noida Sec 57 制造基地；+91 8130608406；info@nextik.co.in；自述「leading switch provider in India」core switch / FTTH / WDM / 数据中心方案）Tracxn + 官网坐实；品牌商 ✔ 对位 ✔ → OEM 目标，预付 100% 起步　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）、prepay
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(IN)·DONE、DWDM线索　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 

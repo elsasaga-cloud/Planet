@@ -2,7 +2,7 @@
 
 > **评级 C**　|　德国　|　档案编号 `SC-1935`　|　优先级 —　|　状态：发不过去
 >
-> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ○）：○ 分销 20%：LEUNIG GmbH（HRB 1531 Siegburg；1980；Hennef；GF Hermann-J. Vester；KVM / 线缆 / 工业网络，Moxa 线）坐实；对位 ✔ 主区 ✔ 坐实 ✔ 体量 ✔（45 年批发）→ P 池候选；先换 sales@leunig.de 公开地址　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+> **C 池筛选：○ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ○）：○ 分销 20%：LEUNIG GmbH（HRB 1531 Siegburg；1980；Hennef；GF Hermann-J. Vester；KVM / 线缆 / 工业网络，Moxa 线）坐实；对位 ✔ 主区 ✔ 坐实 ✔ 体量 ✔（45 年批发）→ P 池候选；先换 sales@leunig.de 公开地址　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:DE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 

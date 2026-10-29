@@ -3,7 +3,7 @@
 
 > **评级 C**　|　意大利　|　档案编号 `SC-2941`　|　优先级 —　|　状态：用户判定不行
 >
-> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ○）：○ 工业 B2B 电商 + 自有商标 · OEM 30%：Lastella Trade S.r.l. = digitX.it（Funo di Argelato BO；P.I. 03695681209 / REA 539359；门户 2007 起；2018 注册商标 digitx；在售 Moxa / Planet / Teltonika）坐实；进口 3onedata / Planet ✔ 自有商标 ✔ 欧洲 ✔ 对位 ✔ → P 池候选（退信 → 官网表单 / 电话）；Simon 曾判不行，可否决　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：○ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ○）：○ 工业 B2B 电商 + 自有商标 · OEM 30%：Lastella Trade S.r.l. = digitX.it（Funo di Argelato BO；P.I. 03695681209 / REA 539359；门户 2007 起；2018 注册商标 digitx；在售 Moxa / Planet / Teltonika）坐实；进口 3onedata / Planet ✔ 自有商标 ✔ 欧洲 ✔ 对位 ✔ → P 池候选（退信 → 官网表单 / 电话）；Simon 曾判不行，可否决　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 

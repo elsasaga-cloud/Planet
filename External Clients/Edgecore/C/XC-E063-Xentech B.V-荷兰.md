@@ -2,7 +2,7 @@
 
 > **现判 XC 暂不管** ｜ 来源 Edgecore `XLSX-渠道伙伴库#127`（原评级 -） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-02 2026-10-29）→ 下一动作 不动
 >
-> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ SDN / 白牌交换机 + 定制服务器 25%：Xentech B.V.（Zaandam Vredeweg 46/D1；Pica8 / Cumulus / HFT；Edgecore 经销商）官网部分坐实（KvK 待补）；数据中心交换机对位（CENTEC 敲门砖）；小型 → ○；sales@xentech.nl｜补证 X1-02R（2026-10-29）：KvK 34242736 坐实；名录见「Opgeheven」字样 → 状态待核；Xentech B.V. · 名录另载 Rotterdam Strevelsweg 700 Unit 303-D24（官网 Zaandam Vredeweg 46/D1）；Drimble 页含「Opgeheven」字样疑为另一登记 → 状态待核
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：○ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ SDN / 白牌交换机 + 定制服务器 25%：Xentech B.V.（Zaandam Vredeweg 46/D1；Pica8 / Cumulus / HFT；Edgecore 经销商）官网部分坐实（KvK 待补）；数据中心交换机对位（CENTEC 敲门砖）；小型 → ○；sales@xentech.nl｜补证 X1-02R（2026-10-29）：KvK 34242736 坐实；名录见「Opgeheven」字样 → 状态待核；Xentech B.V. · 名录另载 Rotterdam Strevelsweg 700 Unit 303-D24（官网 Zaandam Vredeweg 46/D1）；Drimble 页含「Opgeheven」字样疑为另一登记 → 状态待核
 
 ## 1. 初判与理由
 - 初判：**XC** — 来源库 2026-10-19 R16/R17 终局已删（旧 A-018→B-135）：KvK 登记 2020-08-04 已注销（Opgeheven），官网仍在线；按方案 §7 已删档案不复活，仅存档备查

@@ -38,7 +38,7 @@
 ## 3. 联系方式
 - 邮箱：sales@vemax.com.my（首选）
 - 邮箱：nelson@vemax.com.my（首选）
-- 邮箱：邮箱first.last@vemax.com.my（公开）
+- 邮箱：first.last@vemax.com.my（模板·勿发｜公开｜原文「邮箱first.last@vemax.com.my」）
 - 电话：+60 16 8747515；+6016-874 7515；+6010-973 5888（内部用，不进外发材料）
 
 来源库「联系方式」段原文：

@@ -22,9 +22,10 @@
   }
  ],
  "contacts": {
-  "email": "klima@wifiprofi.cz【已停用:2026-10-04",
+  "email": "klima@wifiprofi.cz",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "email_note": "原文「klima@wifiprofi.cz【已停用:2026-10-04」（External_邮箱清洗_2026-10-29 清洗）"
  },
  "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
  "saga_overlap": "无",

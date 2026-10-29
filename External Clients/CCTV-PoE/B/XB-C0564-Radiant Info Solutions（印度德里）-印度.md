@@ -45,9 +45,8 @@
 | 同一家在来源库其他位置 | `smartbyte/profile/radiant-info-solutions-india.md`:1（Radiant Info Solutions — 印度）；`smartbyte/03-SmartByte海外客户开发清单.md`:280（二、亚太地区（12家） > 18-27. 其他亚太客户）；`03-海外客户开发清单.md`:1060（海外客户开发清单 — Saga PoE交换机 > 四十二、A类FCC品牌 + V） |
 
 ## 3. 联系方式
-- 邮箱：leads@radiant.in（公开）
+- 邮箱：leads@radiant.in（公开｜公开｜原文「邮件发leads@radiant.in」）
 - 邮箱：info@radiant.in（公开）
-- 邮箱：邮件发leads@radiant.in（公开）
 - 电话：+91-11-46515639（内部用，不进外发材料）
 
 ## 4. 关键人（KP）

@@ -44,10 +44,9 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：contact@deltasertec.com（首选）
-- 邮箱：官网联系页给contact@deltasertec.com（公开）
+- 邮箱：contact@deltasertec.com（首选｜公开｜原文「官网联系页给contact@deltasertec.com」）
 - 邮箱：dpo@deltasertec.com（公开）
-- 邮箱：招聘页给recrutement@deltasertec.com（公开）
+- 邮箱：recrutement@deltasertec.com（公开｜原文「招聘页给recrutement@deltasertec.com」）
 - 来源库入口字段：contact@deltasertec.com（官网联系页/法律声明）；04 91 06 00 04；DELTA SERTEC SAS Marseille
 
 来源库「联系方式」段原文：

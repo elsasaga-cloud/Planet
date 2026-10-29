@@ -43,10 +43,8 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：consulting@iparchitechs.com（首选）
-- 邮箱：kevin.myers@iparchitechs.com（公开）
-- 邮箱：architechs现官网联系页正文给consulting@iparchitechs.com（公开）
-- 邮箱：myers职务与kevin.myers@iparchitechs.com（公开）
+- 邮箱：consulting@iparchitechs.com（首选｜公开｜原文「architechs现官网联系页正文给consulting@iparchitechs.com」）
+- 邮箱：kevin.myers@iparchitechs.com（公开｜公开｜原文「myers职务与kevin.myers@iparchitechs.com」）
 - 来源库入口字段：consulting@iparchitechs.com（官网联系页正文，页面原样含空格）；历史具名：kevin.myers@iparchitechs.com（2016 MUM PDF）；原入口：601-287-3868
 
 来源库「联系方式」段原文：

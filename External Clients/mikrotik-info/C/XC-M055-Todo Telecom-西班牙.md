@@ -2,7 +2,7 @@
 
 > **初判 XC 暂不管** ｜ 来源 mikrotik-info `B-482`（原评级 B，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
 >
-> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：☆ P 池 · 观察档**（随 Saga `SC-2725`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-2725 同一公司（经 todotelecom.com）→ 随 Saga 档：pool_watch（闸 3，☆ P 池观察档（档位 △ = 微型 / 自用 / 个体 / 存疑，试单或回访一次后定）：△ 观察档 · 分销 20%：TODO TELECOM, S.L.（Dénia；CIF B53673364；RM Alicante H A-71082）
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：△ P 池 · 观察档**（随 Saga `SC-2725`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-2725 同一公司（经 todotelecom.com）→ 随 Saga 档：pool_watch（闸 3，☆ P 池观察档（档位 △ = 微型 / 自用 / 个体 / 存疑，试单或回访一次后定）：△ 观察档 · 分销 20%：TODO TELECOM, S.L.（Dénia；CIF B53673364；RM Alicante H A-71082）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-2725，经 todotelecom.com）→ 以 Saga 档为准，本条不单独跟

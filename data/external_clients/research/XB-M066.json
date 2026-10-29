@@ -29,9 +29,10 @@
   }
  ],
  "contacts": {
-  "email": "info@wirelesslan.gr【已停用:2026-10-04",
+  "email": "info@wirelesslan.gr",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "email_note": "原文「info@wirelesslan.gr【已停用:2026-10-04」（External_邮箱清洗_2026-10-29 清洗）"
  },
  "touch_status": "S 箱 2026-10-06 群发「24 Port PoE Managed Switch」→ 已发未回",
  "saga_overlap": "无",

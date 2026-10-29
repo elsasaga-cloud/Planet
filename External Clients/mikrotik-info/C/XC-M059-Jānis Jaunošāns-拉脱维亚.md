@@ -2,7 +2,7 @@
 
 > **初判 XC 暂不管** ｜ 来源 mikrotik-info `A-375`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
 >
-> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（随 Saga `SC-1215`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-1215 同一公司（经 router.lv）→ 随 Saga 档：pool（闸 3，★ P 池正式入池（档位 ○）：○ 分销 20%：SPX SIA（40003637852；Riga；MikroTik 官方分销 + 维尔纽斯仓）坐实；对位渠道 ✔ 进口 Utepo ✔ 欧洲 ✔ 坐实 ✔ → P 池候选）
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：○ P 池 · 正式入池**（随 Saga `SC-1215`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-1215 同一公司（经 router.lv）→ 随 Saga 档：pool（闸 3，★ P 池正式入池（档位 ○）：○ 分销 20%：SPX SIA（40003637852；Riga；MikroTik 官方分销 + 维尔纽斯仓）坐实；对位渠道 ✔ 进口 Utepo ✔ 欧洲 ✔ 坐实 ✔ → P 池候选）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-1215，经 router.lv）→ 以 Saga 档为准，本条不单独跟
@@ -45,8 +45,7 @@
 | 决策链 | 短（本人即决策） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：jj@netops.lv（首选）
-- 邮箱：邮箱jj@netops.lv（公开）
+- 邮箱：jj@netops.lv（首选｜公开｜原文「邮箱jj@netops.lv」）
 - 邮箱：andis@router.lv（公开）
 - 电话：+371 28389974（内部用，不进外发材料）
 - 来源库入口字段：+371 28389974 / jj@netops.lv（官方培训中心名录）

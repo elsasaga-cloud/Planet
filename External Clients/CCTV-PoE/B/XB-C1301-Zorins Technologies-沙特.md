@@ -35,8 +35,7 @@
 | 同一家在来源库其他位置 | `03-海外客户开发清单.md`:25347（Saudi Part 1 总结 > 50家公司/渠道触点（#1001-1050）） |
 
 ## 3. 联系方式
-- 邮箱：info@zorinstechnologies.com（公开）
-- 邮箱：联系info@zorinstechnologies.com（公开）
+- 邮箱：info@zorinstechnologies.com（公开｜公开｜原文「联系info@zorinstechnologies.com」）
 - 电话：+966 11 269 9910；+966 11 477 8818；+966 13 818 1296（内部用，不进外发材料）
 
 ## 4. 关键人（KP）

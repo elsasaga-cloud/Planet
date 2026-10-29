@@ -44,8 +44,7 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：info@merlinedv.de（首选）
-- 邮箱：官网联系页与imprint给info@merlinedv.de（公开）
+- 邮箱：info@merlinedv.de（首选｜公开｜原文「官网联系页与imprint给info@merlinedv.de」）
 - 电话：+49 9131 90715-0（内部用，不进外发材料）
 - 来源库入口字段：info@merlinedv.de（官网Contact/Imprint）；+49 9131 90715-0；MERLIN Kommunikationstechnik e.K.，坐落Erlangen（CSV城市字段为Bayern）
 

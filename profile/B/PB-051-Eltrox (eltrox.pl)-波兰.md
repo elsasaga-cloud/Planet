@@ -6,7 +6,7 @@
 >
 > ⚠️ **Mikrotik 仓库已有档案 B-274**：本档只补 PLANET 侧证据；联系策略以先建档案为准，勿重复首触。
 >
-> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：★ P 池 · 正式入池**（随 `SC-2510`）（闸 0 · DUP · 2026-10-29）：与 SC-2510 同一公司（同域名 eltrox.pl）→ 随主档：pool（闸 3，★ P 池正式入池（档位 ★★）：★★ 首选 · OEM 30%：ELTROX Sp. z o.o.（KRS 0000175807；NIP 6462490527；Częstochowa；2003 起；36 直营 + 52 合作门店；批发品牌）
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：★★ P 池 · 正式入池**（随 `SC-2510`）（闸 0 · DUP · 2026-10-29）：与 SC-2510 同一公司（同域名 eltrox.pl）→ 随主档：pool（闸 3，★ P 池正式入池（档位 ★★）：★★ 首选 · OEM 30%：ELTROX Sp. z o.o.（KRS 0000175807；NIP 6462490527；Częstochowa；2003 起；36 直营 + 52 合作门店；批发品牌）
 
 ```yaml structured_profile
 code: PB-051

@@ -2,7 +2,7 @@
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-8.md`:187 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
 >
-> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（随 Saga `SC-331`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-331 同一公司（经 industrialcomms.com）→ 随 Saga 档：pool（闸 3，★ P 池正式入池（档位 ○）：○ 工业分销 20%：Industrial Communication Products Ltd（Toddington 2008；Advantech / INSYS 英国分销；铁路占比高）部分坐实；分销 ✔ ）
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：○ P 池 · 正式入池**（随 Saga `SC-331`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-331 同一公司（经 industrialcomms.com）→ 随 Saga 档：pool（闸 3，★ P 池正式入池（档位 ○）：○ 工业分销 20%：Industrial Communication Products Ltd（Toddington 2008；Advantech / INSYS 英国分销；铁路占比高）部分坐实；分销 ✔ ）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-331，经 industrialcomms.com）→ 以 Saga 档为准

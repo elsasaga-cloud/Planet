@@ -2,7 +2,7 @@
 
 > **评级 C**　|　印度　|　档案编号 `SC-463`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ○）：○ 方案集成 25%：Atronic Systems Pvt Ltd（Noida Sector-122；51–200 人；Operations Head Arti Kohli）部分坐实（CIN 未取）；已用中国 PoE ✔ 对位 ✔ → P 池候选（点名 Arti Kohli）
+> **C 池筛选：○ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ○）：○ 方案集成 25%：Atronic Systems Pvt Ltd（Noida Sector-122；51–200 人；Operations Head Arti Kohli）部分坐实（CIN 未取）；已用中国 PoE ✔ 对位 ✔ → P 池候选（点名 Arti Kohli）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(IN)·DONE、群发(筛选后质量一般的_群发)、表:India　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 

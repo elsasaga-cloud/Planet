@@ -43,10 +43,8 @@
 
 ## 3. 联系方式
 - 邮箱：hello@nexus.com.mt（首选）
-- 邮箱：johann@nexus.com.mt（公开）
-- 邮箱：support@nexus.com.mt（公开）
-- 邮箱：邮箱johann@nexus.com.mt（公开）
-- 邮箱：公司站另见support@nexus.com.mt等通用入口（公开）
+- 邮箱：johann@nexus.com.mt（公开｜公开｜原文「邮箱johann@nexus.com.mt」）
+- 邮箱：support@nexus.com.mt（公开｜公开｜原文「公司站另见support@nexus.com.mt等通用入口」）
 - 电话：+356 7946 1720（内部用，不进外发材料）
 - 来源库入口字段：+356 7946 1720 / hello@nexus.com.mt；johann@nexus.com.mt（官方顾问名录条目）；support@nexus.com.mt（公司站）
 

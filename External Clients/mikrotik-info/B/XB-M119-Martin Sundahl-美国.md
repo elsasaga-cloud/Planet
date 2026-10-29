@@ -43,9 +43,8 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：info@adeodc.dk（首选）
-- 邮箱：ripe登记另列ms@adeodc.dk（公开）
-- 邮箱：adeodc.com官网给info@adeodc.dk（公开）
+- 邮箱：info@adeodc.dk（首选｜公开｜原文「adeodc.com官网给info@adeodc.dk」）
+- 邮箱：ms@adeodc.dk（公开｜原文「ripe登记另列ms@adeodc.dk」）
 - 电话：+1 727 505 1534（内部用，不进外发材料）
 - 来源库入口字段：info@adeodc.dk（官网联系页正文；RIPE登记另列ms@adeodc.dk）；原入口：+1 727 505 1534（Skype: sundalez1）
 

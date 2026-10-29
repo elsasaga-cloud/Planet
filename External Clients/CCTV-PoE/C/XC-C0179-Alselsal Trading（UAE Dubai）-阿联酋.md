@@ -47,8 +47,7 @@
 | 同一家在来源库其他位置 | `smartbyte/profile/alselsal-trading-uae.md`:1（Alselsal Trading LLC — 阿联酋迪拜）；`smartbyte/03-SmartByte海外客户开发清单.md`:10（SmartByte 海外客户开发清单 — 商业级管理型交换机 > 一、中东/非洲）；`smartbyte/03-SmartByte海外客户开发清单.md`:467（SmartByte 海外客户开发清单 — 商业级管理型交换机 > 优先Top 1）；`03-海外客户开发清单.md`:1681（海外客户开发清单 — Saga PoE交换机 > 五十六、MikroTik/WI） |
 
 ## 3. 联系方式
-- 邮箱：info@alselsal.net（公开）
-- 邮箱：邮件发info@alselsal.net（公开）
+- 邮箱：info@alselsal.net（公开｜公开｜原文「邮件发info@alselsal.net」）
 - 电话：+971 4 351 5118；+971 50 497 3673（内部用，不进外发材料）
 
 ## 4. 关键人（KP）

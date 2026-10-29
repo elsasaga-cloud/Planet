@@ -44,10 +44,8 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：klima@wifiprofi.cz（首选）
-- 邮箱：次级klima@dobri.net（公开）
-- 邮箱：774与klima@wifiprofi.cz（公开）
-- 邮箱：第三方目录另给klima@dobri.net（公开）
+- 邮箱：klima@wifiprofi.cz（首选｜公开｜原文「774与klima@wifiprofi.cz」）
+- 邮箱：klima@dobri.net（公开｜原文「次级klima@dobri.net」｜公开｜原文「第三方目录另给klima@dobri.net」）
 - 来源库入口字段：klima@wifiprofi.cz（官网联系区正文；次级klima@dobri.net）；原入口：MikroTik 顾问名录
 
 来源库「联系方式」段原文：

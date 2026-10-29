@@ -45,9 +45,8 @@
 | ⚠️ 信息缺口 | 本条**抓不到邮箱**，需人工补齐邮箱或改为电话单独跟进后再进群发名单 | 事实 |
 
 ## 3. 联系方式
-- 邮箱：info@young.hu（首选）
-- 邮箱：产品信息info@young.hu（公开）
-- 邮箱：中央young@young.hu（公开）
+- 邮箱：info@young.hu（首选｜公开｜原文「产品信息info@young.hu」）
+- 邮箱：young@young.hu（公开｜原文「中央young@young.hu」）
 - 来源库入口字段：info@young.hu（待核：仅官网搜索索引，实际网页失败/关闭；未验证投递）；原入口：见 alliedtelesis.com 伙伴页
 
 来源库「联系方式」段原文：

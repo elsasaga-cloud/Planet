@@ -45,10 +45,8 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：vsamburski@gmail.com（首选）
-- 邮箱：office@academia-mikrotik.ro（公开）
-- 邮箱：邮箱office@academia-mikrotik.ro（公开）
-- 邮箱：学院站cursuri页另给vsamburski@gmail.com与0748511932（公开）
+- 邮箱：vsamburski@gmail.com（首选｜公开｜原文「学院站cursuri页另给vsamburski@gmail.com与0748511932」）
+- 邮箱：office@academia-mikrotik.ro（公开｜公开｜原文「邮箱office@academia-mikrotik.ro」）
 - 电话：+40 748 511 932；+40 364 086 906（内部用，不进外发材料）
 - 来源库入口字段：+40 748 511 932 / vsamburski@gmail.com；office@academia-mikrotik.ro（官方培训中心名录）；+40 364 086 906
 

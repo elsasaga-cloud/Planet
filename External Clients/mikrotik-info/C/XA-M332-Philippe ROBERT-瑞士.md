@@ -47,7 +47,7 @@
 
 ## 3. 联系方式
 - 邮箱：office@engitech.ch（首选）
-- 邮箱：genève与p.robert@engitech.ch相连（公开）
+- 邮箱：p.robert@engitech.ch（公开｜原文「genève与p.robert@engitech.ch相连」）
 - 电话：+41 76 32 64 000（内部用，不进外发材料）
 - 来源库入口字段：office@engitech.ch（官网正文公开；未验证投递）；原入口：+41 76 32 64 000
 

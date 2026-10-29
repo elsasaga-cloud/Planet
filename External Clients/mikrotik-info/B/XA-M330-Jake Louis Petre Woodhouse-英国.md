@@ -43,8 +43,7 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：hello@jellyfishbroadband.com（首选）
-- 邮箱：broadband官网about页结构化数据给hello@jellyfishbroadband.com与0800（公开）
+- 邮箱：hello@jellyfishbroadband.com（首选｜公开｜原文「broadband官网about页结构化数据给hello@jellyfishbroadband.com与0800」）
 - 来源库入口字段：hello@jellyfishbroadband.com（官网About页结构化数据）；原入口：07514 949540
 
 来源库「联系方式」段原文：

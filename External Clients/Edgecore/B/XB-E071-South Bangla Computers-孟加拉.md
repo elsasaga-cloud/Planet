@@ -37,7 +37,7 @@
 - 邮箱：sales@southbanglabd.com（公开）
 - 邮箱：zaman@southbanglabd.com（公开）
 - 邮箱：raju@southbanglabd.com（公开）
-- 邮箱：first@southbanglabd.com（公开）
+- 邮箱：first@southbanglabd.com（模板·勿发｜公开）
 - 电话：+88 09639 257 121；+88 01746175778（内部用，不进外发材料）
 
 来源库「联系方式」段原文：

@@ -2,7 +2,7 @@
 
 > **评级 C**　|　美国　|　档案编号 `SC-292`　|　优先级 —　|　状态：已推送 19 次·未回复
 >
-> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ○）：○ 分销 20%（可升贴标 30%）：Fiber Instrument Sales, Inc.（Oriskany NY；1985；UEI H7LXDNB9UAY8 / CAGE 0CKD9 SAM 有效；100–250 人；$10–53M；Owner Frank Giotto）坐实；自有标 MC / CWDM + 在卖 Signamax → 对位 ✔ 主区 ✔ 坐实 ✔ 体量 ✔ → P 池候选（冷户，19 推 0 回）　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）、oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：○ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ○）：○ 分销 20%（可升贴标 30%）：Fiber Instrument Sales, Inc.（Oriskany NY；1985；UEI H7LXDNB9UAY8 / CAGE 0CKD9 SAM 有效；100–250 人；$10–53M；Owner Frank Giotto）坐实；自有标 MC / CWDM + 在卖 Signamax → 对位 ✔ 主区 ✔ 坐实 ✔ 体量 ✔ → P 池候选（冷户，19 推 0 回）　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）、oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：推送 19 次（2022-11-11 → 2025-11-04）　|　**所在清单**：A优质名单(US)、DWDM线索、群发(已重新审核/谷歌 自己的logo)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 

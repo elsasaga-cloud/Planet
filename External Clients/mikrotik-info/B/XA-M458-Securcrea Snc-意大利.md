@@ -44,8 +44,7 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：info@securcrea.com（首选）
-- 邮箱：给info@securcrea.com（公开）
+- 邮箱：info@securcrea.com（首选｜公开｜原文「给info@securcrea.com」）
 - 电话：+39 0586 1713210；+39 0171 1723180（内部用，不进外发材料）
 - 来源库入口字段：info@securcrea.com（官网联系/支持页）；+39 0586 1713210（Toscana）/ +39 0171 1723180（Piemonte）；Securcrea di Cianchi Michele & C. s.a.s.，Via Bicocchi 12, 58022 Follonica (GR)
 

@@ -2,7 +2,7 @@
 
 > **评级 C**　|　沙特阿拉伯　|　档案编号 `SC-257`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ○）：○ DC 集成 25%：Al Rajhi Telecom（利雅得；Al Rajhi Building & Construction 子公司；2013；51–100 ～ 501–1,000 人；弱电 / DC / Cisco Premium；DC Division Manager Inam 真回索样）部分坐实（CR 未取）；具名真回 ✔ 样品意向 ✔ 对位 ✔ 体量 ✔ → P 池候选（次优区）
+> **C 池筛选：○ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ○）：○ DC 集成 25%：Al Rajhi Telecom（利雅得；Al Rajhi Building & Construction 子公司；2013；51–100 ～ 501–1,000 人；弱电 / DC / Cisco Premium；DC Division Manager Inam 真回索样）部分坐实（CR 未取）；具名真回 ✔ 样品意向 ✔ 对位 ✔ 体量 ✔ → P 池候选（次优区）
 >
 > **类型**：系统集成 / 数据中心（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：补录、S邮箱人工往来、沙特、区域外　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 

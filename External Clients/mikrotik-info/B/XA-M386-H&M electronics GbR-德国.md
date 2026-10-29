@@ -44,9 +44,8 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：info@hm-electronics.de（首选）
-- 邮箱：给info@hm-electronics.de（公开）
-- 邮箱：与招聘页thomas.hoffmann@hm-electronics.de（公开）
+- 邮箱：info@hm-electronics.de（首选｜公开｜原文「给info@hm-electronics.de」）
+- 邮箱：thomas.hoffmann@hm-electronics.de（公开｜原文「与招聘页thomas.hoffmann@hm-electronics.de」）
 - 来源库入口字段：info@hm-electronics.de（官网AGB页Anbieterkennzeichnung）；09071/7925-0；H&M electronics GbR
 
 来源库「联系方式」段原文：

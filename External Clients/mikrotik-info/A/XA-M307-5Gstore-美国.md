@@ -42,8 +42,7 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：sales@5gstore.com（首选）
-- 邮箱：官网隐私页正文给sales@5gstore.com与1-833-5gstore（公开）
+- 邮箱：sales@5gstore.com（首选｜公开｜原文「官网隐私页正文给sales@5gstore.com与1-833-5gstore」）
 - 来源库入口字段：sales@5gstore.com（官网隐私页正文）；原入口：见 5gstore.com
 
 来源库「联系方式」段原文：

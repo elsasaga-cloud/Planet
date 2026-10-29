@@ -27,9 +27,10 @@
   }
  ],
  "contacts": {
-  "email": "**info@deca-consulting.be**",
+  "email": "info@deca-consulting.be",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "email_note": "原文「**info@deca-consulting.be**」（External_邮箱清洗_2026-10-29 清洗）"
  },
  "touch_status": "S 箱 2026-10-19 群发「24 Port PoE Managed Switch」→ 已发未回",
  "saga_overlap": "无",

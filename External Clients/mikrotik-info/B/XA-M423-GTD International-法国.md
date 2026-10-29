@@ -44,9 +44,8 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：contact@gtd-international.com（首选）
-- 邮箱：官网法律声明给contact@gtd-international.com与05（公开）
-- 邮箱：ramirez的angel.ramirez@gtd.eu（公开）
+- 邮箱：contact@gtd-international.com（首选｜公开｜原文「官网法律声明给contact@gtd-international.com与05」）
+- 邮箱：angel.ramirez@gtd.eu（公开｜原文「ramirez的angel.ramirez@gtd.eu」）
 - 来源库入口字段：contact@gtd-international.com（官网法律声明；同页电话05 32 09 11 80）；法国子公司，集团gtd.eu
 
 来源库「联系方式」段原文：

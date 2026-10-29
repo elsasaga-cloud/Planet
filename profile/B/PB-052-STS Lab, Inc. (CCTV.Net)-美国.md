@@ -4,7 +4,7 @@
 >
 > **类型**：安防分销商（独立安防/监控设备分销，2001 年起；自述 82 个品牌、服务集成商；dealer-only 定价；洛杉矶配送中心 + 全国履约中心）　|　**PLANET 关联**：cctv.net/brands/planet：PLANET 品牌页 1028 件商品、「planet dealer pricelist」价目表申请入口、MSRP (Dealers Only)、Become a Dealer；商品含 GS-4210-16P2S / GS-4210-24P2S / GS-4210-16UP4C / GS-4210-24T4SR / GS-5220-48P4X / BSP-300 / FGSD 系列　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
-> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：★ P 池 · 正式入池（档位 ○）**（闸 3 · G3 · 2026-10-29）：○ 独立安防分销 20%：STS Lab, Inc. dba CCTV.Net（16037 Arminta St, Van Nuys CA 91406；2001 年起；82 品牌 dealer-only；D&B 模型营收 $2.61M、principal Boris Bronstein；Cience 估 $10–25M → 体量口径不一）官网 + D&B 部分坐实（CA SoS 实体号未查到 → 补证）；PLANET 为在售交换机主线（1,028 件 + dealer 价目）；sales@ / info@；主区 US；注意 UL / ETL 问法｜补证 P2-02（2026-10-29）：SAM.gov 联邦供应商登记：STS Lab, Inc. dba CCTV.Net，UEI KXVVK8PBDD75 / CAGE 7ERG8，S-Corp，2015-07-14 登记、有效至 2027-03-13，NAICS 423440，自报 51–250 人 / $10–50M → 登记坐实（体量口径以 SAM 自报为准，D&B $2.61M 为模型值）
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：○ P 池 · 正式入池（档位 ○）**（闸 3 · G3 · 2026-10-29）：○ 独立安防分销 20%：STS Lab, Inc. dba CCTV.Net（16037 Arminta St, Van Nuys CA 91406；2001 年起；82 品牌 dealer-only；D&B 模型营收 $2.61M、principal Boris Bronstein；Cience 估 $10–25M → 体量口径不一）官网 + D&B 部分坐实（CA SoS 实体号未查到 → 补证）；PLANET 为在售交换机主线（1,028 件 + dealer 价目）；sales@ / info@；主区 US；注意 UL / ETL 问法｜补证 P2-02（2026-10-29）：SAM.gov 联邦供应商登记：STS Lab, Inc. dba CCTV.Net，UEI KXVVK8PBDD75 / CAGE 7ERG8，S-Corp，2015-07-14 登记、有效至 2027-03-13，NAICS 423440，自报 51–250 人 / $10–50M → 登记坐实（体量口径以 SAM 自报为准，D&B $2.61M 为模型值）
 
 ```yaml structured_profile
 code: PB-052

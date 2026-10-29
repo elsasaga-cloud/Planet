@@ -42,10 +42,8 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：info@elmat.com（首选）
+- 邮箱：info@elmat.com（首选｜公开｜原文「官网联系页给info@elmat.com」｜公开｜原文「b2b门户页重复info@elmat.com与049」）
 - 邮箱：elmat@pec.it（公开）
-- 邮箱：官网联系页给info@elmat.com（公开）
-- 邮箱：b2b门户页重复info@elmat.com与049（公开）
 - 来源库入口字段：info@elmat.com（官网联系页；PEC elmat@pec.it）；049 7623011；Elmat spa，Via Uruguay 15, 35127 Padova
 
 来源库「联系方式」段原文：

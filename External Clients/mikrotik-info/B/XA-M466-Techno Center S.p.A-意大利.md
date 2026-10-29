@@ -44,9 +44,8 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：info@technocenter.it（首选）
+- 邮箱：info@technocenter.it（首选｜公开｜原文「info@technocenter.it见于公司自设」）
 - 邮箱：technocenter@legalmail.it（公开）
-- 邮箱：info@technocenter.it见于公司自设（公开）
 - 来源库入口字段：info@technocenter.it（公司简介PDF/Kompass；官网联系页现仅表单/PEC）；06.62279692；PEC technocenter@legalmail.it；Techno Center S.p.A.，Roma
 
 来源库「联系方式」段原文：

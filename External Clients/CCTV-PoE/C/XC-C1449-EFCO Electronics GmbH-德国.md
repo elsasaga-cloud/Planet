@@ -2,7 +2,7 @@
 
 > **现判 XC 暂不管** ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:15962 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-03 2026-10-29）→ 下一动作 不动
 >
-> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 工业 PC / Panel PC + Teltonika 分销 20%：EFCO Electronics GmbH（Deggendorf Ulrichsberger Str. 17/G1；来源库称 2014 起 100–199 人；官方网店）名录 + 网店部分坐实（HRB 待补）；工业网关 / 路由渠道 → STI 对位；主区 DE；sales@efcotec.de
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：○ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 工业 PC / Panel PC + Teltonika 分销 20%：EFCO Electronics GmbH（Deggendorf Ulrichsberger Str. 17/G1；来源库称 2014 起 100–199 人；官方网店）名录 + 网店部分坐实（HRB 待补）；工业网关 / 路由渠道 → STI 对位；主区 DE；sales@efcotec.de
 
 ## 1. 初判与理由
 - 初判：**XC** — 终端用户 / 渠道触点（机场、大学、超市、政府、军队…走集成商与框架采购，不是 Saga 的直接买家）

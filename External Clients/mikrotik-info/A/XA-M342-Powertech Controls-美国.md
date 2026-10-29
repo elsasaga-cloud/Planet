@@ -42,8 +42,7 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：info@powertechcontrols.com（首选）
-- 邮箱：官网联系页给info@powertechcontrols.com（公开）
+- 邮箱：info@powertechcontrols.com（首选｜公开｜原文「官网联系页给info@powertechcontrols.com」）
 - 来源库入口字段：info@powertechcontrols.com（官网联系页）；1-800-938-6678；官网：powertechcontrols.com/contact-us
 
 来源库「联系方式」段原文：

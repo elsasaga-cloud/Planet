@@ -44,10 +44,8 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：contact@evelem.fr（首选）
-- 邮箱：客户空间页支持support@evelem.fr（公开）
-- 邮箱：给contact@evelem.fr（公开）
-- 邮箱：客户空间页另给支持入口support@evelem.fr（公开）
+- 邮箱：contact@evelem.fr（首选｜公开｜原文「给contact@evelem.fr」）
+- 邮箱：support@evelem.fr（公开｜原文「客户空间页支持support@evelem.fr」｜公开｜原文「客户空间页另给支持入口support@evelem.fr」）
 - 电话：+33 1 76 43 22 22；+33 1 76 43 22 00（内部用，不进外发材料）
 - 来源库入口字段：contact@evelem.fr（官网首页/服务页；客户空间页支持support@evelem.fr、+33 1 76 43 22 22）；+33 1 76 43 22 00；原入口：见 elioplus 渠道库
 

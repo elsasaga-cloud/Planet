@@ -44,11 +44,9 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：robertas@magit.lt（首选）
-- 邮箱：info@magit.lt（公开）
+- 邮箱：robertas@magit.lt（首选｜公开｜原文「原入口邮箱robertas@magit.lt保留」）
+- 邮箱：info@magit.lt（公开｜公开｜原文「公司站magit.lt公开info@magit.lt与pagalba」）
 - 邮箱：pagalba@magit.lt（公开）
-- 邮箱：公司站magit.lt公开info@magit.lt与pagalba（公开）
-- 邮箱：原入口邮箱robertas@magit.lt保留（公开）
 - 电话：+370 674 47188（内部用，不进外发材料）
 - 来源库入口字段：+370 674 47188 / robertas@magit.lt；info@magit.lt；pagalba@magit.lt（官网）
 

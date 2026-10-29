@@ -44,8 +44,7 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：contact@cfigroupe.com（首选）
-- 邮箱：cfigroupe官网联系页给contact@cfigroupe.com（公开）
+- 邮箱：contact@cfigroupe.com（首选｜公开｜原文「cfigroupe官网联系页给contact@cfigroupe.com」）
 - 电话：+33 1 70 94 90 91（内部用，不进外发材料）
 - 来源库入口字段：contact@cfigroupe.com（官网联系页）；+33 1 70 94 90 91；AT名录地址为旧址Saint-Ouen，现址Saint-Denis Carré Pleyel
 

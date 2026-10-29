@@ -45,8 +45,7 @@
 | ⚠️ 信息缺口 | 本条**抓不到邮箱**，需人工补齐邮箱或改为电话单独跟进后再进群发名单 | 事实 |
 
 ## 3. 联系方式
-- 邮箱：自社facebook页公布social@3tec.co.uk社媒信箱（首选）
-- 邮箱：自社facebook页公布social@3tec.co.uk（公开）
+- 邮箱：social@3tec.co.uk（首选｜原文「自社facebook页公布social@3tec.co.uk社媒信箱」｜公开｜原文「自社facebook页公布social@3tec.co.uk」）
 - 来源库入口字段：020 8275 1120（官网；官方仅表单无邮箱；自社Facebook页公布social@3tec.co.uk社媒信箱，未入主字段）
 
 来源库「联系方式」段原文：
@@ -79,7 +78,7 @@
 - 是什么人：集成商（仅 social@）；规模：未量化
 - 在卖/在用：Allied Telesis（Marvell Prestera 接入层）
 - 对口哪条线：—
-- 找得到人吗：自社Facebook页公布social@3tec.co.uk社媒信箱（来源库公开邮箱）；KP：无具名
+- 找得到人吗：social@3tec.co.uk（来源库公开邮箱）；KP：无具名
 - 已触达：S 箱 2026-10-03 群发「24 Port PoE Managed Switch」→ 已发未回
 - 与 Saga Clients：无
 - **下一动作：不动** — 分销首触：24 口 PoE + STI 工业线；型号 STC-424XGGPM-280W / STI-288DGGPM；价 USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days) / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)；建议 不动

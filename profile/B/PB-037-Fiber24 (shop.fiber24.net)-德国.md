@@ -6,7 +6,7 @@
 >
 > ⚠️ **Mikrotik 仓库已有档案 A-480**：本档只补 PLANET 侧证据；联系策略以先建档案为准，勿重复首触。
 >
-> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：★ P 池 · 正式入池**（随 `SC-2488`）（闸 0 · DUP · 2026-10-29）：与 SC-2488 同一公司（同邮箱域 fiber24.net）→ 随主档：pool（闸 3，★ P 池正式入池（档位 ○）：○ 分销 20%：Fiber24 GmbH（HRB 104376 Hamburg；2008；RIK Holding 控制；Planet 在售）坐实；分销 ✔ 主区 ✔ 坐实 ✔ 对位 ✔ = 冷户四条 → P）
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：○ P 池 · 正式入池**（随 `SC-2488`）（闸 0 · DUP · 2026-10-29）：与 SC-2488 同一公司（同邮箱域 fiber24.net）→ 随主档：pool（闸 3，★ P 池正式入池（档位 ○）：○ 分销 20%：Fiber24 GmbH（HRB 104376 Hamburg；2008；RIK Holding 控制；Planet 在售）坐实；分销 ✔ 主区 ✔ 坐实 ✔ 对位 ✔ = 冷户四条 → P）
 
 ```yaml structured_profile
 code: PB-037

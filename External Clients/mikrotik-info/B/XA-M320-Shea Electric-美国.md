@@ -44,10 +44,8 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：info@sheaelectricllc.com（首选）
-- 邮箱：第三方项目页候选csheskey@sheaelectricllc.com（公开）
-- 邮箱：官网联系页给info@sheaelectricllc.com（公开）
-- 邮箱：energy项目页另列csheskey@sheaelectricllc.com（公开）
+- 邮箱：info@sheaelectricllc.com（首选｜公开｜原文「官网联系页给info@sheaelectricllc.com」）
+- 邮箱：csheskey@sheaelectricllc.com（公开｜原文「第三方项目页候选csheskey@sheaelectricllc.com」｜公开｜原文「energy项目页另列csheskey@sheaelectricllc.com」）
 - 来源库入口字段：info@sheaelectricllc.com（官网联系页）；920-303-9380；第三方项目页候选csheskey@sheaelectricllc.com
 
 来源库「联系方式」段原文：

@@ -44,10 +44,9 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：info@tnet.it（停用）
-- 邮箱：邮箱info@tnet.it（公开）
+- 邮箱：info@tnet.it（停用｜公开｜原文「邮箱info@tnet.it」）
 - 邮箱：tnetitalia@cert.tnet.it（公开）
-- 邮箱：account@tnet.it与免费号800（公开）
+- 邮箱：account@tnet.it（公开｜原文「account@tnet.it与免费号800」）
 - 电话：+39 02 9708 4111（内部用，不进外发材料）
 - 来源库入口字段：info@tnet.it【已停用:2026-10-06 退信 not-found(R62 45h 观察后 10-05/06 转 Message not delivered 永久) 发不过去】（官网法律信息/联系页；support@/account@同站）；+39 02 9708 4111 / 800 90 8000；T.net S.p.A.，Via Roberto Lepetit 8/10, 20124 Milano
 

@@ -2471,15 +2471,14 @@
      "status": "首选"
     },
     {
-     "addr": "邮箱first.last@vinnergi.se",
-     "status": "公开"
+     "addr": "first.last@vinnergi.se",
+     "status": "模板·勿发｜公开｜原文「邮箱first.last@vinnergi.se」"
     }
    ],
    "emails_live": [
     "info@vinnergi.se",
     "pierre.wallgren@vinnergi.se",
-    "alexander.akerberg@vinnergi.se",
-    "邮箱first.last@vinnergi.se"
+    "alexander.akerberg@vinnergi.se"
    ],
    "phones": [
     "+46 101 02 44 00",
@@ -4367,14 +4366,13 @@
      "status": "首选"
     },
     {
-     "addr": "邮箱first.last@vemax.com.my",
-     "status": "公开"
+     "addr": "first.last@vemax.com.my",
+     "status": "模板·勿发｜公开｜原文「邮箱first.last@vemax.com.my」"
     }
    ],
    "emails_live": [
     "sales@vemax.com.my",
-    "nelson@vemax.com.my",
-    "邮箱first.last@vemax.com.my"
+    "nelson@vemax.com.my"
    ],
    "phones": [
     "+60 16 8747515",
@@ -20552,15 +20550,14 @@
     },
     {
      "addr": "first@southbanglabd.com",
-     "status": "公开"
+     "status": "模板·勿发｜公开"
     }
    ],
    "emails_live": [
     "info@southbanglabd.com",
     "sales@southbanglabd.com",
     "zaman@southbanglabd.com",
-    "raju@southbanglabd.com",
-    "first@southbanglabd.com"
+    "raju@southbanglabd.com"
    ],
    "phones": [
     "+88 09639 257 121",

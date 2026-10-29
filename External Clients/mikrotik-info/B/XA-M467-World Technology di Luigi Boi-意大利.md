@@ -44,9 +44,8 @@
 | 决策链 | 短（本人即决策） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：worldtechnology@tiscali.it（首选）
+- 邮箱：worldtechnology@tiscali.it（首选｜公开｜原文「供应方名单同列worldtechnology@tiscali.it与worldtechnology」）
 - 邮箱：worldtechnology@pec.it（公开）
-- 邮箱：供应方名单同列worldtechnology@tiscali.it与worldtechnology（公开）
 - 来源库入口字段：worldtechnology@tiscali.it（2024年市镇公开招标文件；无官网）；worldtechnology@pec.it（PEC）；070 2346452；World Technology di Luigi Boi，Via Montenero 15, 09122 Cagliari
 
 来源库「联系方式」段原文：

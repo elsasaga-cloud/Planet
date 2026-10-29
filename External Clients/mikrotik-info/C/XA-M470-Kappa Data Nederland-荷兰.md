@@ -46,8 +46,7 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：info@kappadata.nl（首选）
-- 邮箱：与info@kappadata.nl（公开）
+- 邮箱：info@kappadata.nl（首选｜公开｜原文「与info@kappadata.nl」）
 - 电话：+31 88 527 7200（内部用，不进外发材料）
 - 来源库入口字段：info@kappadata.nl（官网联系页/集团页）；+31 88 527 7200；Kappa Data Nederland，Atoomweg 63, 3542 AA Utrecht
 

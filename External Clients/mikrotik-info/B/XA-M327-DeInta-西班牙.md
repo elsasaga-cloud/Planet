@@ -44,12 +44,9 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：deinta@deinta.com（首选）
-- 邮箱：联系页另列personal@deinta.com（公开）
-- 邮箱：privacidad@deinta.com（公开）
-- 邮箱：plaza地址与personal@deinta.com（公开）
-- 邮箱：法定告知给deinta@deinta.com（公开）
-- 邮箱：dpo邮箱privacidad@deinta.com（公开）
+- 邮箱：deinta@deinta.com（首选｜公开｜原文「法定告知给deinta@deinta.com」）
+- 邮箱：personal@deinta.com（公开｜原文「联系页另列personal@deinta.com」｜公开｜原文「plaza地址与personal@deinta.com」）
+- 邮箱：privacidad@deinta.com（公开｜公开｜原文「dpo邮箱privacidad@deinta.com」）
 - 电话：+34 976 798 180（内部用，不进外发材料）
 - 来源库入口字段：deinta@deinta.com（官网页脚+法定告知；联系页另列personal@deinta.com、DPO privacidad@deinta.com）；+34 976 798 180
 

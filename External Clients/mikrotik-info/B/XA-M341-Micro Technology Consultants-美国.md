@@ -44,9 +44,8 @@
 
 ## 3. 联系方式
 - 邮箱：info@microtechnology.net（首选）
-- 邮箱：sales@microtechnology.net（公开）
-- 邮箱：与sales@microtechnology.net及电话478-953-1921（公开）
-- 邮箱：facebook页显示具名kyle.smith@microtechnology.net（公开）
+- 邮箱：sales@microtechnology.net（公开｜公开｜原文「与sales@microtechnology.net及电话478-953-1921」）
+- 邮箱：kyle.smith@microtechnology.net（公开｜原文「facebook页显示具名kyle.smith@microtechnology.net」）
 - 来源库入口字段：info@microtechnology.net（官网联系页正文）；另 sales@microtechnology.net；原入口：(478) 953-1921
 
 来源库「联系方式」段原文：

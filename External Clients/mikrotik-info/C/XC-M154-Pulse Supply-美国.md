@@ -2,7 +2,7 @@
 
 > **现判 XC 暂不管** ｜ 来源 mikrotik-info `C-089`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-02 2026-10-29）→ 下一动作 不动
 >
-> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 网络技术分销 20%：Pulse Supply（Sparks MD；PLANET 授权分销；设区域销售总监 bpicardi@ / jomack@ 与 reseller 授权表）官网部分坐实（州注册号待补）；主区 US；sales@ / reseller@pulsesupply.com｜补证 X1-02R（2026-10-29）：体量 15–16 人 / $3M；MD SDAT 号仍待补；体量补证：Pulse Supply · 909 Ridgebrook Rd Ste 120, Sparks MD 21152 · 1995 起 · 15–16 人 / $3M · President Salvatore Costantino（Datanyze / ZoomInfo）；MD SDAT 号一次检索未中 → reg_pending 留
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：○ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 网络技术分销 20%：Pulse Supply（Sparks MD；PLANET 授权分销；设区域销售总监 bpicardi@ / jomack@ 与 reseller 授权表）官网部分坐实（州注册号待补）；主区 US；sales@ / reseller@pulsesupply.com｜补证 X1-02R（2026-10-29）：体量 15–16 人 / $3M；MD SDAT 号仍待补；体量补证：Pulse Supply · 909 Ridgebrook Rd Ste 120, Sparks MD 21152 · 1995 起 · 15–16 人 / $3M · President Salvatore Costantino（Datanyze / ZoomInfo）；MD SDAT 号一次检索未中 → reg_pending 留
 
 ## 1. 初判与理由
 - 初判：**XC** — Planet 美国渠道（Saga 规则：Versa/Planet USA = C）

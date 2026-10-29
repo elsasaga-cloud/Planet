@@ -46,10 +46,8 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：oltionnikolla@gmail.com（首选）
-- 邮箱：admin@router.al（公开）
-- 邮箱：邮箱oltionnikolla@gmail.com（公开）
-- 邮箱：公司站另见admin@router.al（公开）
+- 邮箱：oltionnikolla@gmail.com（首选｜公开｜原文「邮箱oltionnikolla@gmail.com」）
+- 邮箱：admin@router.al（公开｜公开｜原文「公司站另见admin@router.al」）
 - 电话：+355 695 250 949（内部用，不进外发材料）
 - 来源库入口字段：+355 695 250 949 / oltionnikolla@gmail.com（官方顾问名录条目一致）；admin@router.al（公司站）
 

@@ -44,9 +44,8 @@
 
 ## 3. 联系方式
 - 邮箱：info@wavonline.com（公开）
-- 邮箱：zachh@wavonline.com（公开）
+- 邮箱：zachh@wavonline.com（公开｜公开｜原文「邮件发zachh@wavonline.com」）
 - 邮箱：treo@wavonline.com（公开）
-- 邮箱：邮件发zachh@wavonline.com（公开）
 
 ## 4. 关键人（KP）
 - 无（待挖）

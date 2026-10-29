@@ -43,8 +43,7 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：info@canservers.com（首选）
-- 邮箱：canservers官网联系页正文给info@canservers.com（公开）
+- 邮箱：info@canservers.com（首选｜公开｜原文「canservers官网联系页正文给info@canservers.com」）
 - 来源库入口字段：info@canservers.com（官网联系页正文）；原入口：1-866-696-3912
 
 来源库「联系方式」段原文：

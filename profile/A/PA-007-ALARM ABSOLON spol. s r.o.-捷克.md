@@ -4,7 +4,7 @@
 >
 > **类型**：安防分销商（捷克最早的安防批发之一，1989 年起）　|　**PLANET 关联**：产品目录设 PLANET Technology Corp. 厂商页（GS-4210-24P2S、GS-4210-8P2S、GSD-1222VHP 等 PoE 交换机）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
-> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：★ P 池 · 正式入池（档位 ○）**（闸 3 · G3 · 2026-10-29）：○ 安防批发 20%：ALARM ABSOLON, spol. s r.o.（Praha 8 Karlín Březinova 487/9；IČO 44796391；DIČ CZ44796391；1991-12-18 登记 C 6075；25–49 人）坐实；1989 年起捷克安防批发，目录有 PLANET 厂商页 + 多款 PoE；具名 tikovsky@ / kacenova@
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：○ P 池 · 正式入池（档位 ○）**（闸 3 · G3 · 2026-10-29）：○ 安防批发 20%：ALARM ABSOLON, spol. s r.o.（Praha 8 Karlín Březinova 487/9；IČO 44796391；DIČ CZ44796391；1991-12-18 登记 C 6075；25–49 人）坐实；1989 年起捷克安防批发，目录有 PLANET 厂商页 + 多款 PoE；具名 tikovsky@ / kacenova@
 
 ```yaml structured_profile
 code: PA-007

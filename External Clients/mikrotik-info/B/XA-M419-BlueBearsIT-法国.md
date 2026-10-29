@@ -44,10 +44,9 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：ec@bluebearsit.com（首选）
+- 邮箱：ec@bluebearsit.com（首选｜公开｜原文「官网培训页公布商务信箱ec@bluebearsit.com」）
 - 邮箱：cg@bluebearsit.com（公开）
-- 邮箱：官网培训页公布商务信箱ec@bluebearsit.com（公开）
-- 邮箱：与ap@bluebearsit.com（公开）
+- 邮箱：ap@bluebearsit.com（公开｜原文「与ap@bluebearsit.com」）
 - 来源库入口字段：ec@bluebearsit.com（官网培训页“service Commercial”信箱；第三方名录另给contact@/cg@bluebearsit.com）；04 28 29 86 50
 
 来源库「联系方式」段原文：

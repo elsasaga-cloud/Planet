@@ -43,8 +43,7 @@
 | 同一家在来源库其他位置 | `03-海外客户开发清单.md`:100（三、非洲地区 > 3.1 南非（重点市场！5家））；`03-海外客户开发清单.md`:6540（🇬🇧 Batch 60 Part 1: 英国PoE分销+安防集成+智能建筑+NH） |
 
 ## 3. 联系方式
-- 邮箱：info@cctv-direct.co.za（公开）
-- 邮箱：邮件info@cctv-direct.co.za（公开）
+- 邮箱：info@cctv-direct.co.za（公开｜公开｜原文「邮件info@cctv-direct.co.za」）
 
 ## 4. 关键人（KP）
 - 无（待挖）

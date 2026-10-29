@@ -44,8 +44,7 @@
 | ⚠️ 信息缺口 | 本条**抓不到邮箱**，需人工补齐邮箱或改为电话单独跟进后再进群发名单 | 事实 |
 
 ## 3. 联系方式
-- 邮箱：billing@panorafiber.com（首选）
-- 邮箱：官网联系页只给billing@panorafiber.com（公开）
+- 邮箱：billing@panorafiber.com（首选｜公开｜原文「官网联系页只给billing@panorafiber.com」）
 - 来源库入口字段：billing@panorafiber.com（官网联系页正文；页面注明非24/7监控，属账单专用弱通道）；原入口：641-755-3037
 
 来源库「联系方式」段原文：

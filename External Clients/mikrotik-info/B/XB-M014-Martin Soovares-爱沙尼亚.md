@@ -42,8 +42,7 @@
 | 决策链 | 短（本人即决策） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：martin.soovares@gmail.com（首选）
-- 邮箱：邮箱martin.soovares@gmail.com（公开）
+- 邮箱：martin.soovares@gmail.com（首选｜公开｜原文「邮箱martin.soovares@gmail.com」）
 - 电话：+372 554 9859（内部用，不进外发材料）
 - 来源库入口字段：+372 554 9859 / martin.soovares@gmail.com（官方顾问名录）
 

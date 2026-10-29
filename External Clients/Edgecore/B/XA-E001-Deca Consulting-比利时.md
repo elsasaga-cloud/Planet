@@ -96,7 +96,7 @@
 - 一句话：技术型 SI/网络咨询（Deca Consulting；Edgecore/STORDIS 合作）
 - 是什么人：技术型 SI/网络咨询（Deca Consulting；Edgecore/STORDIS 合作）；规模：未量化
 - 对口哪条线：—
-- 找得到人吗：**info@deca-consulting.be**（来源库公开邮箱）；KP：无具名
+- 找得到人吗：info@deca-consulting.be（来源库公开邮箱）；KP：无具名
 - 已触达：S 箱 2026-10-19 群发「24 Port PoE Managed Switch」→ 已发未回
 - 与 Saga Clients：无
 - **下一动作：不动**；建议 不动

@@ -44,8 +44,7 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：sales@digitalsima.gr（首选）
-- 邮箱：sales@digitalsima.gr取自zyxel官方分销商名录（公开）
+- 邮箱：sales@digitalsima.gr（首选｜公开｜原文「sales@digitalsima.gr取自zyxel官方分销商名录」）
 - 电话：+30 210 9010401（内部用，不进外发材料）
 - 来源库入口字段：sales@digitalsima.gr（Zyxel官方分销名录；官网联系页仅表单）；+30 210 9010401；Digital Sima S.A.，Ilia Iliou 54, 11743 N. Kosmos, Athens
 

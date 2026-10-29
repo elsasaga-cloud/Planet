@@ -38,8 +38,7 @@
 
 ## 3. 联系方式
 - 邮箱：info@azrait.sa（公开）
-- 邮箱：sales01@azrait.sa（公开）
-- 邮箱：直接联系sales01@azrait.sa（公开）
+- 邮箱：sales01@azrait.sa（公开｜公开｜原文「直接联系sales01@azrait.sa」）
 - 电话：+966 53 399 6580（内部用，不进外发材料）
 
 ## 4. 关键人（KP）

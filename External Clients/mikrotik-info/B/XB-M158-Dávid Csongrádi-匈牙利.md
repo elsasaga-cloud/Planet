@@ -44,7 +44,7 @@
 
 ## 3. 联系方式
 - 邮箱：beszerzes@macsoft.hu（首选）
-- 邮箱：csongradi及b083保存mikrotik@csongradidavid.hu（公开）
+- 邮箱：mikrotik@csongradidavid.hu（公开｜原文「csongradi及b083保存mikrotik@csongradidavid.hu」）
 - 电话：+36 30 6169819（内部用，不进外发材料）
 - 来源库入口字段：+36 30 6169819（仅保留原电话；旧批次邮箱在备注，未获外部验证，不计新确认邮箱）;beszerzes@macsoft.hu（R62 用户官网人工核验补录；与 A-250 Péter Major 同 macsoft.hu 机构入口）
 

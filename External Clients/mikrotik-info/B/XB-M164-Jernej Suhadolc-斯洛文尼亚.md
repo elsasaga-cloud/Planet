@@ -43,11 +43,9 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：jernej.suhadolc@virtua.si（首选）
+- 邮箱：jernej.suhadolc@virtua.si（首选｜公开｜原文「邮箱jernej.suhadolc@virtua.si」）
 - 邮箱：info@virtua.si（公开）
-- 邮箱：info@virtua-it.si（公开）
-- 邮箱：邮箱jernej.suhadolc@virtua.si（公开）
-- 邮箱：info@virtua-it.si为早期线索（公开）
+- 邮箱：info@virtua-it.si（公开｜公开｜原文「info@virtua-it.si为早期线索」）
 - 电话：+386 590 91780（内部用，不进外发材料）
 - 来源库入口字段：+386 590 91780；jernej.suhadolc@virtua.si（官方培训中心名录）；info@virtua.si／info@virtua-it.si（早期线索，正文未复现）
 

@@ -43,9 +43,8 @@
 
 ## 3. 联系方式
 - 邮箱：sales@invictuswireless.com（首选）
-- 邮箱：sales@invictusnetworks.com（公开）
+- 邮箱：sales@invictusnetworks.com（公开｜公开｜原文「reseller并给sales@invictusnetworks.com」）
 - 邮箱：orders@invictuswireless.com（公开）
-- 邮箱：reseller并给sales@invictusnetworks.com（公开）
 - 来源库入口字段：sales@invictuswireless.com（官网联系页正文；同页另有info@/accounting@/orders@分工邮箱）；候选：sales@invictusnetworks.com（Deliberant北美经销页，同一实体待核）；原入口：1-503-635-2562
 
 来源库「联系方式」段原文：

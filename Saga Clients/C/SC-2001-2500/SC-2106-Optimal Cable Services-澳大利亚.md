@@ -2,7 +2,7 @@
 
 > **评级 C**　|　澳大利亚　|　档案编号 `SC-2106`　|　优先级 —　|　状态：成交过·维护
 >
-> **C 池筛选：☆ P 池 · 观察档（试单 / 回访后转正或退回 C）**（闸 3 · 2026-10-29）：☆ P 池观察档（档位 △ = 微型 / 自用 / 个体 / 存疑，试单或回访一次后定）：△ 观察档 · dayjob：Optimal Cable Services Pty Ltd → AFL（Tottenham VIC；光缆 / 连接产品制造；Peter Dicka 现 Manager Connectivity AFL Australia = 表内 KP 在职）部分坐实（ABN 未取）；2007 起长期成单 ✔ KP 在职 ✔；产品偏光传输 + AFL 集团体系 → 入池观察档，待 Q-70　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+> **C 池筛选：△ P 池 · 观察档（疑点（制裁 / 国别 / 主体 / 收款）核清后转正或退回 C）**（闸 3 · 2026-10-29）：☆ P 池观察档（档位 △ = 微型 / 自用 / 个体 / 存疑，试单或回访一次后定）：△ 观察档 · dayjob：Optimal Cable Services Pty Ltd → AFL（Tottenham VIC；光缆 / 连接产品制造；Peter Dicka 现 Manager Connectivity AFL Australia = 表内 KP 在职）部分坐实（ABN 未取）；2007 起长期成单 ✔ KP 在职 ✔；产品偏光传输 + AFL 集团体系 → 入池观察档，待 Q-70　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
 >
 > **类型**：系统集成/工程商（推断）　|　**历史关系**：成交/下单过；推送 23 次（2024-04-02 → 2025-10-22）　|　**所在清单**：A优质名单(AU)、DWDM线索、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 

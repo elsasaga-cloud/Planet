@@ -43,10 +43,8 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：info@mikrotikbg.shop（首选）
-- 邮箱：training@pgnetpro.bg（公开）
-- 邮箱：邮箱training@pgnetpro.bg（公开）
-- 邮箱：合作商城mikrotikbg.shop另给info@mikrotikbg.shop与（公开）
+- 邮箱：info@mikrotikbg.shop（首选｜公开｜原文「合作商城mikrotikbg.shop另给info@mikrotikbg.shop与」）
+- 邮箱：training@pgnetpro.bg（公开｜公开｜原文「邮箱training@pgnetpro.bg」）
 - 电话：+359 2 451 2525（内部用，不进外发材料）
 - 来源库入口字段：info@mikrotikbg.shop；+359 2 451 2525；training@pgnetpro.bg（官方培训中心名录）
 

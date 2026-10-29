@@ -44,8 +44,7 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：info@dpsinformatica.it（首选）
-- 邮箱：规则规范为info@dpsinformatica.it（公开）
+- 邮箱：info@dpsinformatica.it（首选｜公开｜原文「规则规范为info@dpsinformatica.it」）
 - 邮箱：dpsinformatica@legalmail.it（公开）
 - 电话：+39 0432 801790（内部用，不进外发材料）
 - 来源库入口字段：info@dpsinformatica.it（官网联系页以可逆(at)写法公布，规范书写；另有commerciale@/sistemi@/tecnici@）；+39 0432 801790；DPS Informatica s.n.c. Fagagna

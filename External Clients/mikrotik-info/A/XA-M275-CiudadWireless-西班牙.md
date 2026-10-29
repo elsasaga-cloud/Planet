@@ -44,7 +44,6 @@
 
 ## 3. 联系方式
 - 邮箱：info@ciudadwireless.com（首选）
-- 邮箱：info@ciudadwireless.c（公开）
 - 电话：+34 91 060 97 21（内部用，不进外发材料）
 - 来源库入口字段：+34 91 060 97 21 / info@ciudadwireless.com
 

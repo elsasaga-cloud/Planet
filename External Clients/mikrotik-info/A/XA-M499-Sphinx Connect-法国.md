@@ -42,9 +42,8 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：sales@sphinxfrance.fr（首选）
-- 邮箱：france官网联系页正文给出sales@sphinxfrance.fr（公开）
-- 邮箱：advantech伙伴目录另给mail@sphinxconnect.fr作旁证（公开）
+- 邮箱：sales@sphinxfrance.fr（首选｜公开｜原文「france官网联系页正文给出sales@sphinxfrance.fr」）
+- 邮箱：mail@sphinxconnect.fr（公开｜原文「advantech伙伴目录另给mail@sphinxconnect.fr作旁证」）
 - 来源库入口字段：sales@sphinxfrance.fr（官网联系页正文）；原入口：见 Perle 名录（distributor=642）
 
 来源库「联系方式」段原文：

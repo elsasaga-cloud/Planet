@@ -44,9 +44,8 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：sales@euroele.com（首选）
-- 邮箱：技术techsupport@euroele.com（公开）
-- 邮箱：官网联系页给销售sales@euroele.com（公开）
+- 邮箱：sales@euroele.com（首选｜公开｜原文「官网联系页给销售sales@euroele.com」）
+- 邮箱：techsupport@euroele.com（公开｜原文「技术techsupport@euroele.com」）
 - 来源库入口字段：sales@euroele.com（官网联系页Sales；技术techsupport@euroele.com）；08453 458340
 
 来源库「联系方式」段原文：

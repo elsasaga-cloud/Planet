@@ -29,9 +29,10 @@
   }
  ],
  "contacts": {
-  "email": "自社Facebook页公布social@3tec.co.uk社媒信箱",
+  "email": "social@3tec.co.uk",
   "email_status": "来源库公开邮箱",
-  "kp": []
+  "kp": [],
+  "email_note": "原文「自社Facebook页公布social@3tec.co.uk社媒信箱」（External_邮箱清洗_2026-10-29 清洗）"
  },
  "touch_status": "S 箱 2026-10-03 群发「24 Port PoE Managed Switch」→ 已发未回",
  "saga_overlap": "无",

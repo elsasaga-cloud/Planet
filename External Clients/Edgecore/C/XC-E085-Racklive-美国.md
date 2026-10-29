@@ -2,7 +2,7 @@
 
 > **现判 XC 暂不管** ｜ 来源 Edgecore `XLSX-渠道伙伴库#183`（原评级 -） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-03 2026-10-29）→ 下一动作 不动
 >
-> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 机架集成 / 数据中心服务器与存储 25%：Racklive = ASA Computers, Inc. 数据中心事业部（Fremont CA 48761 Kato Rd；2011 起；ISO 9001:2015；全球部署）官网部分坐实（法人 ASA Computers 州注册号待补）；数据中心交换机对位（CENTEC 敲门砖 + SmartByte 万兆）；主区 US；sales@racklive.com
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：○ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 机架集成 / 数据中心服务器与存储 25%：Racklive = ASA Computers, Inc. 数据中心事业部（Fremont CA 48761 Kato Rd；2011 起；ISO 9001:2015；全球部署）官网部分坐实（法人 ASA Computers 州注册号待补）；数据中心交换机对位（CENTEC 敲门砖 + SmartByte 万兆）；主区 US；sales@racklive.com
 
 ## 1. 初判与理由
 - 初判：**XC** — 来源库 2026-10-19 R16/R17 终局已删（旧 B-071）：重复档案：官网自述为 B-063 ASA Computers 的数据中心事业部，同址同创始人，终局建议合并至 B-063；按方案 §7 已删档案不复活，仅存档备查

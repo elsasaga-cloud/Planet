@@ -2,7 +2,7 @@
 
 > **评级 C**　|　土耳其　|　档案编号 `SC-1855`　|　优先级 —　|　状态：已推送 9 次·未回复
 >
-> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：○ P 池正式入池（档位 ○，复查批 G2R-01）：○ 土耳其主区 · 医疗通信系统制造商（品牌 ZKR）OEM 30%：Kıraç Bilgi ve İletişim Teknolojileri San. ve Tic. A.Ş.（Eskişehir 75. Yıl OSB Şehitler Bulvarı No:21 Odunpazarı 26250；2005-01-06 成立；Kıraç Group 1982 起；Ankara Ümitköy 办公室；护士呼叫 / IP 通信方案自产）EMIS + D&B 坐实；主区 ✔ 自有品牌 ✔ 具名 KP shaalan@ ✔；此前 9 推 0 回 → 入池只巡检 + 换 KP 再触　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）、cold
+> **C 池筛选：○ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：○ P 池正式入池（档位 ○，复查批 G2R-01）：○ 土耳其主区 · 医疗通信系统制造商（品牌 ZKR）OEM 30%：Kıraç Bilgi ve İletişim Teknolojileri San. ve Tic. A.Ş.（Eskişehir 75. Yıl OSB Şehitler Bulvarı No:21 Odunpazarı 26250；2005-01-06 成立；Kıraç Group 1982 起；Ankara Ümitköy 办公室；护士呼叫 / IP 通信方案自产）EMIS + D&B 坐实；主区 ✔ 自有品牌 ✔ 具名 KP shaalan@ ✔；此前 9 推 0 回 → 入池只巡检 + 换 KP 再触　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）、cold
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 9 次（2024-06-16 → 2025-10-28）　|　**所在清单**：A优质名单(土耳其客户)、AI评估(TR)·DONE、群发(之前转的展会俄罗斯客户)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 

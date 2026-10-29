@@ -42,8 +42,7 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：sales@ntsdirect.com（首选）
-- 邮箱：pdf给sales@ntsdirect.com（公开）
+- 邮箱：sales@ntsdirect.com（首选｜公开｜原文「pdf给sales@ntsdirect.com」）
 - 来源库入口字段：sales@ntsdirect.com（官网Contact Us/About PDF）；877.483.5393；NTS Direct，41 Main Street, Bolton, MA 01740
 
 来源库「联系方式」段原文：

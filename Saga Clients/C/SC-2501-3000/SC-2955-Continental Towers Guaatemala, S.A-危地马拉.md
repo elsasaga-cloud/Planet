@@ -2,7 +2,7 @@
 
 > **评级 C**　|　危地马拉　|　档案编号 `SC-2955`　|　优先级 —　|　状态：WhatsApp 已加·未回复
 >
-> **C 池筛选：☆ P 池 · 观察档（试单 / 回访后转正或退回 C）**（闸 3 · 2026-10-29）：☆ P 池观察档（档位 △ = 微型 / 自用 / 个体 / 存疑，试单或回访一次后定）：△ 观察档 · 成单复购回访：Continental Towers Guatemala S.A.（1 查命中 Continental Towers Corp LATAM：拉美铁塔商，2008，Terra Towers 旗下，11–50 人；mip.com.gt 域名未直接命中）部分坐实；成单 ✔ 复购 ✔ ≥2 条，区域外 + 终端自用 → 入池观察档；Simon 曾判不行，可否决　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+> **C 池筛选：△ P 池 · 观察档（疑点（制裁 / 国别 / 主体 / 收款）核清后转正或退回 C）**（闸 3 · 2026-10-29）：☆ P 池观察档（档位 △ = 微型 / 自用 / 个体 / 存疑，试单或回访一次后定）：△ 观察档 · 成单复购回访：Continental Towers Guatemala S.A.（1 查命中 Continental Towers Corp LATAM：拉美铁塔商，2008，Terra Towers 旗下，11–50 人；mip.com.gt 域名未直接命中）部分坐实；成单 ✔ 复购 ✔ ≥2 条，区域外 + 终端自用 → 入池观察档；Simon 曾判不行，可否决　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：WhatsApp 已加　|　**所在清单**：群发(杂)、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 

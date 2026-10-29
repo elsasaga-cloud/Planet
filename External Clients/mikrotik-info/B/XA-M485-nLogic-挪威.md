@@ -44,11 +44,10 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：post@nlogic.no（首选）
-- 邮箱：销售salg@nlogic.no（公开）
-- 邮箱：官网联系页给一般邮箱post@nlogic.no（公开）
-- 邮箱：支持support@nlogic.no（公开）
-- 邮箱：发票faktura@nlogic.no（公开）
+- 邮箱：post@nlogic.no（首选｜公开｜原文「官网联系页给一般邮箱post@nlogic.no」）
+- 邮箱：salg@nlogic.no（公开｜原文「销售salg@nlogic.no」）
+- 邮箱：support@nlogic.no（公开｜原文「支持support@nlogic.no」）
+- 邮箱：faktura@nlogic.no（公开｜原文「发票faktura@nlogic.no」）
 - 电话：+47 40 61 88 88（内部用，不进外发材料）
 - 来源库入口字段：post@nlogic.no（官网联系页；销售salg@nlogic.no）；+47 40 61 88 88；nLogic AS，Karenslyst Allé 20, 0278 Oslo
 

@@ -43,8 +43,7 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：info@atlantikelektronik.com（首选）
-- 邮箱：自营电商atestore的lantronix专页与获奖新闻给info@atlantikelektronik.com（公开）
+- 邮箱：info@atlantikelektronik.com（首选｜公开｜原文「自营电商atestore的lantronix专页与获奖新闻给info@atlantikelektronik.com」）
 - 电话：+49 89 89 505 0（内部用，不进外发材料）
 - 来源库入口字段：info@atlantikelektronik.com（atestore Lantronix专页联系信息）；+49 89 89 505 0；Lantronix授权分销页：atestore.de/en/lantronix/
 

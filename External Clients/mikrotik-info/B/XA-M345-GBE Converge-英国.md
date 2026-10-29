@@ -44,10 +44,8 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：info@gbeconverge.com（首选）
-- 邮箱：同页另有荷兰emea邮箱info@gbeconvergebv.com（公开）
-- 邮箱：给info@gbeconverge.com（公开）
-- 邮箱：荷兰实体邮箱info@gbeconvergebv.com按次级候选（公开）
+- 邮箱：info@gbeconverge.com（首选｜公开｜原文「给info@gbeconverge.com」）
+- 邮箱：info@gbeconvergebv.com（公开｜原文「同页另有荷兰emea邮箱info@gbeconvergebv.com」｜公开｜原文「荷兰实体邮箱info@gbeconvergebv.com按次级候选」）
 - 电话：+44 8451 220884（内部用，不进外发材料）
 - 来源库入口字段：info@gbeconverge.com（官网联系页正文；同页另有荷兰EMEA邮箱info@gbeconvergebv.com）；08451 220884；原入口：+44 8451 220884
 

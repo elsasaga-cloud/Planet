@@ -42,8 +42,7 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：vadsco@gmail.com（首选）
-- 邮箱：自营国际培训中心站点mikrotik.coach联系块给vadsco@gmail.com（公开）
+- 邮箱：vadsco@gmail.com（首选｜公开｜原文「自营国际培训中心站点mikrotik.coach联系块给vadsco@gmail.com」）
 - 电话：+44 7429897667；+380 662340273（内部用，不进外发材料）
 - 来源库入口字段：vadsco@gmail.com（自营mikrotik.coach联系块；Telegram t.me/vadsco）；+44 7429897667（站点）/ +380 662340273（原）；MikroTik讲师TR0659，Kyiv授课
 

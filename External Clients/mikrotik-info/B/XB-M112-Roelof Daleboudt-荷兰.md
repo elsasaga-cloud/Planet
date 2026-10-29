@@ -43,10 +43,8 @@
 | 决策链 | 短（本人即决策） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：roelof.daleboudt@ip-central.nl（首选）
-- 邮箱：2025-08-01并入nicecloud后可参考info@nicecloud.nl（公开）
-- 邮箱：品牌页隐私政策公布roelof.daleboudt@ip-central.nl与088-4723636（公开）
-- 邮箱：info@nicecloud.nl（公开）
+- 邮箱：roelof.daleboudt@ip-central.nl（首选｜公开｜原文「品牌页隐私政策公布roelof.daleboudt@ip-central.nl与088-4723636」）
+- 邮箱：info@nicecloud.nl（公开｜原文「2025-08-01并入nicecloud后可参考info@nicecloud.nl」）
 - 来源库入口字段：roelof.daleboudt@ip-central.nl（IP Central品牌页隐私政策公布）；088-4723636；2025-08-01并入NiceCloud后可参考info@nicecloud.nl / 088 0400 900
 
 来源库「联系方式」段原文：

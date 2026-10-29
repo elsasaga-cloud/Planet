@@ -40,7 +40,7 @@
 - 邮箱：info@vinnergi.se（首选）
 - 邮箱：pierre.wallgren@vinnergi.se（首选）
 - 邮箱：alexander.akerberg@vinnergi.se（首选）
-- 邮箱：邮箱first.last@vinnergi.se（公开）
+- 邮箱：first.last@vinnergi.se（模板·勿发｜公开｜原文「邮箱first.last@vinnergi.se」）
 - 电话：+46 101 02 44 00；+46 10 102 44 00（内部用，不进外发材料）
 
 来源库「联系方式」段原文：

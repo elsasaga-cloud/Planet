@@ -93,7 +93,7 @@
 - 是什么人：IT 系统之家（Berlin）；规模：未量化
 - 在卖/在用：Allied Telesis（Marvell Prestera 接入层）
 - 对口哪条线：—
-- 找得到人吗：einkauf@nitoit.de【已停用:2026-10-04（来源库公开邮箱）；KP：无具名
+- 找得到人吗：einkauf@nitoit.de（来源库公开邮箱）；KP：无具名
 - 已触达：S 箱 2026-09-30 群发「24 Port PoE Managed Switch」→ 已发未回
 - 与 Saga Clients：无
 - **下一动作：不动** — 分销首触：24 口 PoE + STI 工业线；型号 STC-424XGGPM-280W / STI-288DGGPM；价 USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days) / USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days)；建议 不动

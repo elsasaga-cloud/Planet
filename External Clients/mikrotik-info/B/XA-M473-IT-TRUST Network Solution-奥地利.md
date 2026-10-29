@@ -44,8 +44,7 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：office@ittrust.at（首选）
-- 邮箱：公司站联系页给office@ittrust.at（公开）
+- 邮箱：office@ittrust.at（首选｜公开｜原文「公司站联系页给office@ittrust.at」）
 - 来源库入口字段：office@ittrust.at（公司站联系页mailto；旧版静态站）；原入口“见伙伴页”替换；建议电话核验
 
 来源库「联系方式」段原文：

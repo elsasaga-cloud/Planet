@@ -2,7 +2,7 @@
 
 > **评级 C**　|　印度　|　档案编号 `SC-343`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ○）：○ 自有品牌 · OEM 30%：Optilink Networks Pvt. Ltd.（Mumbai Chembur；20 人；自有品牌 Optilink 网络 / 光通信全线；Manager Shashank Shah 公开邮箱）部分坐实（CIN 未取）；自有品牌 ✔ 对位 ✔ 坐实 ✔ 次优区 → P 池候选（冷）　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：○ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ○）：○ 自有品牌 · OEM 30%：Optilink Networks Pvt. Ltd.（Mumbai Chembur；20 人；自有品牌 Optilink 网络 / 光通信全线；Manager Shashank Shah 公开邮箱）部分坐实（CIN 未取）；自有品牌 ✔ 对位 ✔ 坐实 ✔ 次优区 → P 池候选（冷）　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:India　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 

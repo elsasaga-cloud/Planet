@@ -4,7 +4,7 @@
 >
 > **类型**：安防增值分销商（IP 安防 VAD：Axis / Milestone / Hanwha + PLANET 匈牙利分销）　|　**PLANET 关联**：2012 年起 PLANET 匈牙利分销（biztonsagpiac.hu 行业报道）；官网 PLANET 产品线（GS-4210-24P2S 等）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
-> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：★ P 池 · 正式入池（档位 ○）**（闸 3 · G3 · 2026-10-29）：○ IP 安防 VAD 20%：Aspectis Kft.（H-1158 Budapest Késmárk u. 11–13；Cégjegyzékszám 01-09-722853；Adószám 13106261-2-42；2003 年 Bata Miklós / Laczkó Gábor 创立，IP 视频系统分销先驱）坐实；Axis / Milestone / Hanwha + PLANET 匈牙利分销；总经理 Laczkó Gábor 直邮 gabor.laczko@aspectis.hu
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：○ P 池 · 正式入池（档位 ○）**（闸 3 · G3 · 2026-10-29）：○ IP 安防 VAD 20%：Aspectis Kft.（H-1158 Budapest Késmárk u. 11–13；Cégjegyzékszám 01-09-722853；Adószám 13106261-2-42；2003 年 Bata Miklós / Laczkó Gábor 创立，IP 视频系统分销先驱）坐实；Axis / Milestone / Hanwha + PLANET 匈牙利分销；总经理 Laczkó Gábor 直邮 gabor.laczko@aspectis.hu
 
 ```yaml structured_profile
 code: PA-008

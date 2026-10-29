@@ -45,7 +45,7 @@
 | 决策链 | 短（本人即决策） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：与b452存camacho@engenheiros.pt及相同（公开）
+- 邮箱：camacho@engenheiros.pt（公开｜原文「与b452存camacho@engenheiros.pt及相同」）
 - 电话：+351 965 869 277（内部用，不进外发材料）
 - 来源库入口字段：+351 965 869 277（仅保留原电话；旧批次邮箱在备注，未获外部验证，不计新确认邮箱）
 
@@ -83,7 +83,7 @@
 - 是什么人：= XA-M271（同人同邮箱 camacho@engenheiros.pt）；规模：= XA-M271（同人同邮箱 camacho@engenheiros.pt）
 - 在卖/在用：MikroTik 培训伙伴、持 MTCNA MTCRE MTCWE MTCTCE MTCUME MTCINE MTCIPv6E MTCSE MTCSWE MTCEWE
 - 对口哪条线：—
-- 找得到人吗：与b452存camacho@engenheiros.pt及相同（来源库公开邮箱）；KP：无具名
+- 找得到人吗：camacho@engenheiros.pt（来源库公开邮箱）；KP：无具名
 - 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
 - 与 Saga Clients：无
 - **下一动作：并线**

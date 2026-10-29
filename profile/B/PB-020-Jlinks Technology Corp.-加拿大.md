@@ -4,7 +4,7 @@
 >
 > **类型**：安防/低压线缆分销与制造（CCTV/网络/报警线缆，2002 年起；自述 Manufacturing and Distributor）　|　**PLANET 关联**：在售 PLANET GSD-804P、IGS-10020HPT、GSW-2401、FSD-1606 等　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
-> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：★ P 池 · 正式入池（档位 ○）**（闸 3 · G3 · 2026-10-29）：○ 线缆制造 + 安防 / 网络分销 20%：Jlinks Technology Corp.（Richmond BC 328-13988 Cambie Road 总部 2002 起 + Montreal 分部 2010 起；S.A.E. Cable 独家分销；UL / cUL / CSA 线缆）官网 + 名录部分坐实（BC 公司号未查到 → 补证）；PLANET 多型号在售；sales@，Director Jack Chou 具名；主区 CA｜补证 P2-02（2026-10-29）：BC 公司注册公报 2005-10-27 INCORPORATIONS 列「0738462 JLINKS TECHNOLOGY CORP.」→ 登记坐实；ContactOut 列 1–10 人（弱证）→ 标 small，试单起步
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：○ P 池 · 正式入池（档位 ○）**（闸 3 · G3 · 2026-10-29）：○ 线缆制造 + 安防 / 网络分销 20%：Jlinks Technology Corp.（Richmond BC 328-13988 Cambie Road 总部 2002 起 + Montreal 分部 2010 起；S.A.E. Cable 独家分销；UL / cUL / CSA 线缆）官网 + 名录部分坐实（BC 公司号未查到 → 补证）；PLANET 多型号在售；sales@，Director Jack Chou 具名；主区 CA｜补证 P2-02（2026-10-29）：BC 公司注册公报 2005-10-27 INCORPORATIONS 列「0738462 JLINKS TECHNOLOGY CORP.」→ 登记坐实；ContactOut 列 1–10 人（弱证）→ 标 small，试单起步
 
 ```yaml structured_profile
 code: PB-020

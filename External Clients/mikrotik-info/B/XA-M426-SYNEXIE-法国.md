@@ -44,10 +44,8 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：contact@synexie.fr（首选）
-- 邮箱：招聘rh@synexie.fr（公开）
-- 邮箱：给contact@synexie.fr（公开）
-- 邮箱：招聘页给rh@synexie.fr（公开）
+- 邮箱：contact@synexie.fr（首选｜公开｜原文「给contact@synexie.fr」）
+- 邮箱：rh@synexie.fr（公开｜原文「招聘rh@synexie.fr」｜公开｜原文「招聘页给rh@synexie.fr」）
 - 电话：+33 4 98 08 02 80（内部用，不进外发材料）
 - 来源库入口字段：contact@synexie.fr（官网页脚/招聘页；招聘rh@synexie.fr）；+33 4 98 08 02 80；现址Toulon（CSV城市为La Valette-du-Var旧址）
 

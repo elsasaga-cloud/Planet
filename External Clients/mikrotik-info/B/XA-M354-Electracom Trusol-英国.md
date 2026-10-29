@@ -44,8 +44,7 @@
 | 决策链 | 中（联系人+业主/采购两层以内） | 【推断】 |
 
 ## 3. 联系方式
-- 邮箱：info@trusol.com（首选）
-- 邮箱：trusol官网服务与支持页给info@trusol.com（公开）
+- 邮箱：info@trusol.com（首选｜公开｜原文「trusol官网服务与支持页给info@trusol.com」）
 - 邮箱：info@electracomprojects.com（公开）
 - 来源库入口字段：info@trusol.com（Trusol官网服务与支持页）；03456 121 222；The Reeves, Snakey Lane, Feltham TW13 7NB
 

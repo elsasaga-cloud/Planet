@@ -47,12 +47,11 @@
 | 同一家在来源库其他位置 | `03-海外客户开发清单.md`:100（三、非洲地区 > 3.1 南非（重点市场！5家））；`03-海外客户开发清单.md`:332（海外客户开发清单 — Saga PoE交换机 > 优先Top 20行动清单（更新）；`03-海外客户开发清单.md`:462（海外客户开发清单 — Saga PoE交换机 > 优先Top 30行动清单（终极）；`03-海外客户开发清单.md`:597（海外客户开发清单 — Saga PoE交换机 > 优先Top 30行动清单（终极） |
 
 ## 3. 联系方式
-- 邮箱：info@securitywarehouse.co.za（公开）
+- 邮箱：info@securitywarehouse.co.za（公开｜公开｜原文「邮件发info@securitywarehouse.co.za」）
 - 邮箱：er@securitywarehouse.co.za（公开）
 - 邮箱：sp@securitywarehouse.co.za（公开）
 - 邮箱：wr@securitywarehouse.co.za（公开）
 - 邮箱：bb@securitywarehouse.co.za（公开）
-- 邮箱：邮件发info@securitywarehouse.co.za（公开）
 - 电话：+27 12 653 1005；+27 11 608 2309；+27 11 791 5563；+27 10 745 4300（内部用，不进外发材料）
 
 ## 4. 关键人（KP）

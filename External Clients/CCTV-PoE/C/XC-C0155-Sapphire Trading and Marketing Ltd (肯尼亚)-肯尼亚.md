@@ -2,7 +2,7 @@
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-2.md`:28（其分级 A类） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
 >
-> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 安防分销 20%：Sapphire Trading & Marketing Ltd（Nairobi 17 Kijabe Street；官网联系页 Info@sapphire.co.ke / +254 795 705 335；ZoomInfo 11–50 人，设 Hikvision 销售经理岗；目录页另载 nishit@sapphire.co.ke）部分坐实（肯尼亚公司注册号未查到 → 补证）；Hikvision 国家分销（来源库称 1996 年起）→ PoE 对位；非主区 → 预付 100% 起步｜补证 P2-02（2026-10-29）：TradeAtlas 贸易数据登记名「SAPPHIRE TRADING & MARKETING LTD.」P.O. Box 31177-00100 Nairobi；businesslist.co.ke 2011 起在册（Opp Text Book Centre Kijabe St，+254-20-2224566）→ 法人名坐实、肯尼亚登记号仍无 → prepay 保留
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：○ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 安防分销 20%：Sapphire Trading & Marketing Ltd（Nairobi 17 Kijabe Street；官网联系页 Info@sapphire.co.ke / +254 795 705 335；ZoomInfo 11–50 人，设 Hikvision 销售经理岗；目录页另载 nishit@sapphire.co.ke）部分坐实（肯尼亚公司注册号未查到 → 补证）；Hikvision 国家分销（来源库称 1996 年起）→ PoE 对位；非主区 → 预付 100% 起步｜补证 P2-02（2026-10-29）：TradeAtlas 贸易数据登记名「SAPPHIRE TRADING & MARKETING LTD.」P.O. Box 31177-00100 Nairobi；businesslist.co.ke 2011 起在册（Opp Text Book Centre Kijabe St，+254-20-2224566）→ 法人名坐实、肯尼亚登记号仍无 → prepay 保留
 
 ## 1. 初判与理由
 - 初判：**XC** — 终端用户 / 渠道触点（机场、大学、超市、政府、军队…走集成商与框架采购，不是 Saga 的直接买家）

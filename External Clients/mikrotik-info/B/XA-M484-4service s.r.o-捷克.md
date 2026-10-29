@@ -47,7 +47,7 @@
 ## 3. 联系方式
 - 邮箱：sachl@4service.cz（首选）
 - 邮箱：janacek@4service.cz（公开）
-- 邮箱：官网搜索摘要另有it@4service.cz（公开）
+- 邮箱：it@4service.cz（公开｜原文「官网搜索摘要另有it@4service.cz」）
 - 邮箱：helpdesk@4service.cz（公开）
 - 来源库入口字段：sachl@4service.cz（公共采购注册页公开；非公司官网正文；未验证投递）；原入口：见 alliedtelesis.com 伙伴页
 

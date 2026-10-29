@@ -7776,16 +7776,11 @@
    "emails": [
     {
      "addr": "martin.soovares@gmail.com",
-     "status": "首选"
-    },
-    {
-     "addr": "邮箱martin.soovares@gmail.com",
-     "status": "公开"
+     "status": "首选｜公开｜原文「邮箱martin.soovares@gmail.com」"
     }
    ],
    "emails_live": [
-    "martin.soovares@gmail.com",
-    "邮箱martin.soovares@gmail.com"
+    "martin.soovares@gmail.com"
    ],
    "phones": [
     "+372 554 9859"
@@ -8590,16 +8585,11 @@
    "emails": [
     {
      "addr": "trainer@mikrotik-training.lt",
-     "status": "首选"
-    },
-    {
-     "addr": "邮箱trainer@mikrotik-training.lt",
-     "status": "公开"
+     "status": "首选｜公开｜原文「邮箱trainer@mikrotik-training.lt」"
     }
    ],
    "emails_live": [
-    "trainer@mikrotik-training.lt",
-    "邮箱trainer@mikrotik-training.lt"
+    "trainer@mikrotik-training.lt"
    ],
    "phones": [
     "+370 684 43770"
@@ -8757,31 +8747,21 @@
    "emails": [
     {
      "addr": "robertas@magit.lt",
-     "status": "首选"
+     "status": "首选｜公开｜原文「原入口邮箱robertas@magit.lt保留」"
     },
     {
      "addr": "info@magit.lt",
-     "status": "公开"
+     "status": "公开｜公开｜原文「公司站magit.lt公开info@magit.lt与pagalba」"
     },
     {
      "addr": "pagalba@magit.lt",
-     "status": "公开"
-    },
-    {
-     "addr": "公司站magit.lt公开info@magit.lt与pagalba",
-     "status": "公开"
-    },
-    {
-     "addr": "原入口邮箱robertas@magit.lt保留",
      "status": "公开"
     }
    ],
    "emails_live": [
     "robertas@magit.lt",
     "info@magit.lt",
-    "pagalba@magit.lt",
-    "公司站magit.lt公开info@magit.lt与pagalba",
-    "原入口邮箱robertas@magit.lt保留"
+    "pagalba@magit.lt"
    ],
    "phones": [
     "+370 674 47188"
@@ -8939,26 +8919,16 @@
    "emails": [
     {
      "addr": "vsamburski@gmail.com",
-     "status": "首选"
+     "status": "首选｜公开｜原文「学院站cursuri页另给vsamburski@gmail.com与0748511932」"
     },
     {
      "addr": "office@academia-mikrotik.ro",
-     "status": "公开"
-    },
-    {
-     "addr": "邮箱office@academia-mikrotik.ro",
-     "status": "公开"
-    },
-    {
-     "addr": "学院站cursuri页另给vsamburski@gmail.com与0748511932",
-     "status": "公开"
+     "status": "公开｜公开｜原文「邮箱office@academia-mikrotik.ro」"
     }
    ],
    "emails_live": [
     "vsamburski@gmail.com",
-    "office@academia-mikrotik.ro",
-    "邮箱office@academia-mikrotik.ro",
-    "学院站cursuri页另给vsamburski@gmail.com与0748511932"
+    "office@academia-mikrotik.ro"
    ],
    "phones": [
     "+40 748 511 932",
@@ -10431,16 +10401,11 @@
    "emails": [
     {
      "addr": "sales@industrialcomms.com",
-     "status": "首选"
-    },
-    {
-     "addr": "官网联系页与etherwan产品页正文均给sales@industrialcomms.com与",
-     "status": "公开"
+     "status": "首选｜公开｜原文「官网联系页与etherwan产品页正文均给sales@industrialcomms.com与」"
     }
    ],
    "emails_live": [
-    "sales@industrialcomms.com",
-    "官网联系页与etherwan产品页正文均给sales@industrialcomms.com与"
+    "sales@industrialcomms.com"
    ],
    "phones": [],
    "kp_named": true,
@@ -12641,11 +12606,7 @@
    "emails": [
     {
      "addr": "olisian.sulaj@gmail.com",
-     "status": "首选"
-    },
-    {
-     "addr": "邮箱olisian.sulaj@gmail.com",
-     "status": "公开"
+     "status": "首选｜公开｜原文「邮箱olisian.sulaj@gmail.com」"
     },
     {
      "addr": "dritan@vreshta.com",
@@ -12658,7 +12619,6 @@
    ],
    "emails_live": [
     "olisian.sulaj@gmail.com",
-    "邮箱olisian.sulaj@gmail.com",
     "dritan@vreshta.com",
     "erion.demiri@etronic.al"
    ],
@@ -12810,26 +12770,16 @@
    "emails": [
     {
      "addr": "oltionnikolla@gmail.com",
-     "status": "首选"
+     "status": "首选｜公开｜原文「邮箱oltionnikolla@gmail.com」"
     },
     {
      "addr": "admin@router.al",
-     "status": "公开"
-    },
-    {
-     "addr": "邮箱oltionnikolla@gmail.com",
-     "status": "公开"
-    },
-    {
-     "addr": "公司站另见admin@router.al",
-     "status": "公开"
+     "status": "公开｜公开｜原文「公司站另见admin@router.al」"
     }
    ],
    "emails_live": [
     "oltionnikolla@gmail.com",
-    "admin@router.al",
-    "邮箱oltionnikolla@gmail.com",
-    "公司站另见admin@router.al"
+    "admin@router.al"
    ],
    "phones": [
     "+355 695 250 949"
@@ -12967,27 +12917,17 @@
     },
     {
      "addr": "johann@nexus.com.mt",
-     "status": "公开"
+     "status": "公开｜公开｜原文「邮箱johann@nexus.com.mt」"
     },
     {
      "addr": "support@nexus.com.mt",
-     "status": "公开"
-    },
-    {
-     "addr": "邮箱johann@nexus.com.mt",
-     "status": "公开"
-    },
-    {
-     "addr": "公司站另见support@nexus.com.mt等通用入口",
-     "status": "公开"
+     "status": "公开｜公开｜原文「公司站另见support@nexus.com.mt等通用入口」"
     }
    ],
    "emails_live": [
     "hello@nexus.com.mt",
     "johann@nexus.com.mt",
-    "support@nexus.com.mt",
-    "邮箱johann@nexus.com.mt",
-    "公司站另见support@nexus.com.mt等通用入口"
+    "support@nexus.com.mt"
    ],
    "phones": [
     "+356 7946 1720"
@@ -13282,16 +13222,11 @@
    "emails": [
     {
      "addr": "info@gpe-networks.com",
-     "status": "首选"
-    },
-    {
-     "addr": "官网联系页正文给出公司邮箱info@gpe-networks.com",
-     "status": "公开"
+     "status": "首选｜公开｜原文「官网联系页正文给出公司邮箱info@gpe-networks.com」"
     }
    ],
    "emails_live": [
-    "info@gpe-networks.com",
-    "官网联系页正文给出公司邮箱info@gpe-networks.com"
+    "info@gpe-networks.com"
    ],
    "phones": [],
    "kp_named": true,
@@ -13434,16 +13369,11 @@
    "emails": [
     {
      "addr": "sales@iptechniek.nl",
-     "status": "首选"
-    },
-    {
-     "addr": "电话与sales@iptechniek.nl",
-     "status": "公开"
+     "status": "首选｜公开｜原文「电话与sales@iptechniek.nl」"
     }
    ],
    "emails_live": [
-    "sales@iptechniek.nl",
-    "电话与sales@iptechniek.nl"
+    "sales@iptechniek.nl"
    ],
    "phones": [],
    "kp_named": true,
@@ -64347,15 +64277,10 @@
     {
      "addr": "comercial@officelan.pt",
      "status": "首选"
-    },
-    {
-     "addr": "comercial@officelan.p",
-     "status": "公开"
     }
    ],
    "emails_live": [
-    "comercial@officelan.pt",
-    "comercial@officelan.p"
+    "comercial@officelan.pt"
    ],
    "phones": [
     "+351 232 186 575"
@@ -65156,15 +65081,10 @@
     {
      "addr": "info@ciudadwireless.com",
      "status": "首选"
-    },
-    {
-     "addr": "info@ciudadwireless.c",
-     "status": "公开"
     }
    ],
    "emails_live": [
-    "info@ciudadwireless.com",
-    "info@ciudadwireless.c"
+    "info@ciudadwireless.com"
    ],
    "phones": [
     "+34 91 060 97 21"
@@ -65934,16 +65854,11 @@
    "emails": [
     {
      "addr": "info@ditecom.com",
-     "status": "首选"
-    },
-    {
-     "addr": "37与邮箱info@ditecom.com保留",
-     "status": "公开"
+     "status": "首选｜公开｜原文「37与邮箱info@ditecom.com保留」"
     }
    ],
    "emails_live": [
-    "info@ditecom.com",
-    "37与邮箱info@ditecom.com保留"
+    "info@ditecom.com"
    ],
    "phones": [
     "+34 91 528 54 37"
@@ -69570,16 +69485,11 @@
    "emails": [
     {
      "addr": "info@interstellar.nl",
-     "status": "首选"
-    },
-    {
-     "addr": "interstellar官网联系页给集团总邮箱info@interstellar.nl与各城市办公室",
-     "status": "公开"
+     "status": "首选｜公开｜原文「interstellar官网联系页给集团总邮箱info@interstellar.nl与各城市办公室」"
     }
    ],
    "emails_live": [
-    "info@interstellar.nl",
-    "interstellar官网联系页给集团总邮箱info@interstellar.nl与各城市办公室"
+    "info@interstellar.nl"
    ],
    "phones": [
     "+31 6 29047127"
@@ -69725,16 +69635,11 @@
    "emails": [
     {
      "addr": "info@dael.com",
-     "status": "首选"
-    },
-    {
-     "addr": "官网联系页正文与json-ld给info@dael.com",
-     "status": "公开"
+     "status": "首选｜公开｜原文「官网联系页正文与json-ld给info@dael.com」"
     }
    ],
    "emails_live": [
-    "info@dael.com",
-    "官网联系页正文与json-ld给info@dael.com"
+    "info@dael.com"
    ],
    "phones": [
     "+31 6 28026574"
@@ -69885,17 +69790,12 @@
     },
     {
      "addr": "support@sdc.nl",
-     "status": "公开"
-    },
-    {
-     "addr": "support@sdc.nl与0314",
-     "status": "公开"
+     "status": "公开｜公开｜原文「support@sdc.nl与0314」"
     }
    ],
    "emails_live": [
     "info@sdc.nl",
-    "support@sdc.nl",
-    "support@sdc.nl与0314"
+    "support@sdc.nl"
    ],
    "phones": [
     "+31 6 17552148"
@@ -70042,16 +69942,11 @@
    "emails": [
     {
      "addr": "info@gewoon-it.nl",
-     "status": "首选"
-    },
-    {
-     "addr": "gewoon-it.nl结构化数据给info@gewoon-it.nl",
-     "status": "公开"
+     "status": "首选｜公开｜原文「gewoon-it.nl结构化数据给info@gewoon-it.nl」"
     }
    ],
    "emails_live": [
-    "info@gewoon-it.nl",
-    "gewoon-it.nl结构化数据给info@gewoon-it.nl"
+    "info@gewoon-it.nl"
    ],
    "phones": [
     "+31 135 470063"
@@ -70197,16 +70092,11 @@
    "emails": [
     {
      "addr": "info@ningaloo.nl",
-     "status": "首选"
-    },
-    {
-     "addr": "官网给info@ningaloo.nl与whatsapp",
-     "status": "公开"
+     "status": "首选｜公开｜原文「官网给info@ningaloo.nl与whatsapp」"
     }
    ],
    "emails_live": [
-    "info@ningaloo.nl",
-    "官网给info@ningaloo.nl与whatsapp"
+    "info@ningaloo.nl"
    ],
    "phones": [
     "+31 88 7777500"
@@ -70350,25 +70240,15 @@
    "emails": [
     {
      "addr": "roelof.daleboudt@ip-central.nl",
-     "status": "首选"
-    },
-    {
-     "addr": "2025-08-01并入nicecloud后可参考info@nicecloud.nl",
-     "status": "公开"
-    },
-    {
-     "addr": "品牌页隐私政策公布roelof.daleboudt@ip-central.nl与088-4723636",
-     "status": "公开"
+     "status": "首选｜公开｜原文「品牌页隐私政策公布roelof.daleboudt@ip-central.nl与088-4723636」"
     },
     {
      "addr": "info@nicecloud.nl",
-     "status": "公开"
+     "status": "公开｜原文「2025-08-01并入nicecloud后可参考info@nicecloud.nl」"
     }
    ],
    "emails_live": [
     "roelof.daleboudt@ip-central.nl",
-    "2025-08-01并入nicecloud后可参考info@nicecloud.nl",
-    "品牌页隐私政策公布roelof.daleboudt@ip-central.nl与088-4723636",
     "info@nicecloud.nl"
    ],
    "phones": [],
@@ -70513,26 +70393,16 @@
    "emails": [
     {
      "addr": "klima@wifiprofi.cz",
-     "status": "首选"
+     "status": "首选｜公开｜原文「774与klima@wifiprofi.cz」"
     },
     {
-     "addr": "次级klima@dobri.net",
-     "status": "公开"
-    },
-    {
-     "addr": "774与klima@wifiprofi.cz",
-     "status": "公开"
-    },
-    {
-     "addr": "第三方目录另给klima@dobri.net",
-     "status": "公开"
+     "addr": "klima@dobri.net",
+     "status": "公开｜原文「次级klima@dobri.net」｜公开｜原文「第三方目录另给klima@dobri.net」"
     }
    ],
    "emails_live": [
     "klima@wifiprofi.cz",
-    "次级klima@dobri.net",
-    "774与klima@wifiprofi.cz",
-    "第三方目录另给klima@dobri.net"
+    "klima@dobri.net"
    ],
    "phones": [],
    "kp_named": true,
@@ -71242,26 +71112,16 @@
    "emails": [
     {
      "addr": "consulting@iparchitechs.com",
-     "status": "首选"
+     "status": "首选｜公开｜原文「architechs现官网联系页正文给consulting@iparchitechs.com」"
     },
     {
      "addr": "kevin.myers@iparchitechs.com",
-     "status": "公开"
-    },
-    {
-     "addr": "architechs现官网联系页正文给consulting@iparchitechs.com",
-     "status": "公开"
-    },
-    {
-     "addr": "myers职务与kevin.myers@iparchitechs.com",
-     "status": "公开"
+     "status": "公开｜公开｜原文「myers职务与kevin.myers@iparchitechs.com」"
     }
    ],
    "emails_live": [
     "consulting@iparchitechs.com",
-    "kevin.myers@iparchitechs.com",
-    "architechs现官网联系页正文给consulting@iparchitechs.com",
-    "myers职务与kevin.myers@iparchitechs.com"
+    "kevin.myers@iparchitechs.com"
    ],
    "phones": [],
    "kp_named": true,
@@ -71541,21 +71401,16 @@
    "emails": [
     {
      "addr": "info@adeodc.dk",
-     "status": "首选"
+     "status": "首选｜公开｜原文「adeodc.com官网给info@adeodc.dk」"
     },
     {
-     "addr": "ripe登记另列ms@adeodc.dk",
-     "status": "公开"
-    },
-    {
-     "addr": "adeodc.com官网给info@adeodc.dk",
-     "status": "公开"
+     "addr": "ms@adeodc.dk",
+     "status": "公开｜原文「ripe登记另列ms@adeodc.dk」"
     }
    ],
    "emails_live": [
     "info@adeodc.dk",
-    "ripe登记另列ms@adeodc.dk",
-    "adeodc.com官网给info@adeodc.dk"
+    "ms@adeodc.dk"
    ],
    "phones": [
     "+1 727 505 1534"
@@ -71706,16 +71561,11 @@
    "emails": [
     {
      "addr": "billing@panorafiber.com",
-     "status": "首选"
-    },
-    {
-     "addr": "官网联系页只给billing@panorafiber.com",
-     "status": "公开"
+     "status": "首选｜公开｜原文「官网联系页只给billing@panorafiber.com」"
     }
    ],
    "emails_live": [
-    "billing@panorafiber.com",
-    "官网联系页只给billing@panorafiber.com"
+    "billing@panorafiber.com"
    ],
    "phones": [],
    "kp_named": true,
@@ -72004,21 +71854,16 @@
    "emails": [
     {
      "addr": "sales@fikesmedia.com",
-     "status": "首选"
+     "status": "首选｜公开｜原文「官网联系页给销售sales@fikesmedia.com」"
     },
     {
-     "addr": "支持support@fikesmedia.com",
-     "status": "公开"
-    },
-    {
-     "addr": "官网联系页给销售sales@fikesmedia.com",
-     "status": "公开"
+     "addr": "support@fikesmedia.com",
+     "status": "公开｜原文「支持support@fikesmedia.com」"
     }
    ],
    "emails_live": [
     "sales@fikesmedia.com",
-    "支持support@fikesmedia.com",
-    "官网联系页给销售sales@fikesmedia.com"
+    "support@fikesmedia.com"
    ],
    "phones": [
     "+1 409.877.4220"
@@ -72312,26 +72157,16 @@
    "emails": [
     {
      "addr": "sales@ispsupplies.com",
-     "status": "首选"
+     "status": "首选｜公开｜原文「supplies官网与官方facebook结构化数据给sales@ispsupplies.com」"
     },
     {
      "addr": "info@mywisptraining.com",
-     "status": "公开"
-    },
-    {
-     "addr": "supplies官网与官方facebook结构化数据给sales@ispsupplies.com",
-     "status": "公开"
-    },
-    {
-     "addr": "info@mywisptraining.com仅搜索索引",
-     "status": "公开"
+     "status": "公开｜公开｜原文「info@mywisptraining.com仅搜索索引」"
     }
    ],
    "emails_live": [
     "sales@ispsupplies.com",
-    "info@mywisptraining.com",
-    "supplies官网与官方facebook结构化数据给sales@ispsupplies.com",
-    "info@mywisptraining.com仅搜索索引"
+    "info@mywisptraining.com"
    ],
    "phones": [],
    "kp_named": true,
@@ -72928,13 +72763,13 @@
      "status": "首选"
     },
     {
-     "addr": "khalil姓名与khalil@aulaf.com只在旧",
-     "status": "公开"
+     "addr": "khalil@aulaf.com",
+     "status": "公开｜原文「khalil姓名与khalil@aulaf.com只在旧」"
     }
    ],
    "emails_live": [
     "admin@aulaf.com",
-    "khalil姓名与khalil@aulaf.com只在旧"
+    "khalil@aulaf.com"
    ],
    "phones": [
     "+436889131190"
@@ -73084,8 +72919,8 @@
      "status": "首选"
     },
     {
-     "addr": "第1块总邮箱office@triotronik.com",
-     "status": "公开"
+     "addr": "office@triotronik.com",
+     "status": "公开｜原文「第1块总邮箱office@triotronik.com」"
     },
     {
      "addr": "d.mayer@triotronik.com",
@@ -73094,7 +72929,7 @@
    ],
    "emails_live": [
     "m.polainer@triotronik.com",
-    "第1块总邮箱office@triotronik.com",
+    "office@triotronik.com",
     "d.mayer@triotronik.com"
    ],
    "phones": [],
@@ -73235,16 +73070,11 @@
    "emails": [
     {
      "addr": "vadsco@gmail.com",
-     "status": "首选"
-    },
-    {
-     "addr": "自营国际培训中心站点mikrotik.coach联系块给vadsco@gmail.com",
-     "status": "公开"
+     "status": "首选｜公开｜原文「自营国际培训中心站点mikrotik.coach联系块给vadsco@gmail.com」"
     }
    ],
    "emails_live": [
-    "vadsco@gmail.com",
-    "自营国际培训中心站点mikrotik.coach联系块给vadsco@gmail.com"
+    "vadsco@gmail.com"
    ],
    "phones": [
     "+44 7429897667",
@@ -73382,24 +73212,16 @@
    "emails": [
     {
      "addr": "vartan@mikrotikls.com.ua",
-     "status": "停用"
+     "status": "停用｜公开｜原文「11б与具名邮箱vartan@mikrotikls.com.ua」"
     },
     {
-     "addr": "通用info@mikrotikls.com.ua",
-     "status": "停用"
-    },
-    {
-     "addr": "11б与具名邮箱vartan@mikrotikls.com.ua",
-     "status": "公开"
-    },
-    {
-     "addr": "价目页给通用info@mikrotikls.com.ua与",
-     "status": "公开"
+     "addr": "info@mikrotikls.com.ua",
+     "status": "停用｜原文「通用info@mikrotikls.com.ua」｜公开｜原文「价目页给通用info@mikrotikls.com.ua与」"
     }
    ],
    "emails_live": [
-    "11б与具名邮箱vartan@mikrotikls.com.ua",
-    "价目页给通用info@mikrotikls.com.ua与"
+    "vartan@mikrotikls.com.ua",
+    "info@mikrotikls.com.ua"
    ],
    "phones": [
     "+38 066 907 44 88",
@@ -73547,31 +73369,21 @@
    "emails": [
     {
      "addr": "trainer@mikrotik.net.ua",
-     "status": "首选"
+     "status": "首选｜公开｜原文「邮箱trainer@mikrotik.net.ua」"
     },
     {
      "addr": "smart.center@elko.ua",
-     "status": "公开"
+     "status": "公开｜公开｜原文「公司站另公开smart.center@elko.ua与」"
     },
     {
-     "addr": "邮箱trainer@mikrotik.net.ua",
-     "status": "公开"
-    },
-    {
-     "addr": "公司站另公开smart.center@elko.ua与",
-     "status": "公开"
-    },
-    {
-     "addr": "旧域it@mikrotik.in.ua为早期站点遗留线索",
-     "status": "公开"
+     "addr": "it@mikrotik.in.ua",
+     "status": "公开｜原文「旧域it@mikrotik.in.ua为早期站点遗留线索」"
     }
    ],
    "emails_live": [
     "trainer@mikrotik.net.ua",
     "smart.center@elko.ua",
-    "邮箱trainer@mikrotik.net.ua",
-    "公司站另公开smart.center@elko.ua与",
-    "旧域it@mikrotik.in.ua为早期站点遗留线索"
+    "it@mikrotik.in.ua"
    ],
    "phones": [
     "+380 67 701 22 82"
@@ -74349,26 +74161,16 @@
    "emails": [
     {
      "addr": "info@mikrotikbg.shop",
-     "status": "首选"
+     "status": "首选｜公开｜原文「合作商城mikrotikbg.shop另给info@mikrotikbg.shop与」"
     },
     {
      "addr": "training@pgnetpro.bg",
-     "status": "公开"
-    },
-    {
-     "addr": "邮箱training@pgnetpro.bg",
-     "status": "公开"
-    },
-    {
-     "addr": "合作商城mikrotikbg.shop另给info@mikrotikbg.shop与",
-     "status": "公开"
+     "status": "公开｜公开｜原文「邮箱training@pgnetpro.bg」"
     }
    ],
    "emails_live": [
     "info@mikrotikbg.shop",
-    "training@pgnetpro.bg",
-    "邮箱training@pgnetpro.bg",
-    "合作商城mikrotikbg.shop另给info@mikrotikbg.shop与"
+    "training@pgnetpro.bg"
    ],
    "phones": [
     "+359 2 451 2525"
@@ -74541,26 +74343,16 @@
    "emails": [
     {
      "addr": "info@landatel.com",
-     "status": "首选"
+     "status": "首选｜公开｜原文「客服页给info@landatel.com」"
     },
     {
-     "addr": "b2b商业comercial@landatel.com",
-     "status": "公开"
-    },
-    {
-     "addr": "客服页给info@landatel.com",
-     "status": "公开"
-    },
-    {
-     "addr": "分销商政策页给b2b渠道专用comercial@landatel.com",
-     "status": "公开"
+     "addr": "comercial@landatel.com",
+     "status": "公开｜原文「b2b商业comercial@landatel.com」｜公开｜原文「分销商政策页给b2b渠道专用comercial@landatel.com」"
     }
    ],
    "emails_live": [
     "info@landatel.com",
-    "b2b商业comercial@landatel.com",
-    "客服页给info@landatel.com",
-    "分销商政策页给b2b渠道专用comercial@landatel.com"
+    "comercial@landatel.com"
    ],
    "phones": [
     "+34 911 461 700"
@@ -74852,16 +74644,11 @@
    "emails": [
     {
      "addr": "info@mhzshop.com",
-     "status": "首选"
-    },
-    {
-     "addr": "官网cgv与客服务句给info@mhzshop.com与",
-     "status": "公开"
+     "status": "首选｜公开｜原文「官网cgv与客服务句给info@mhzshop.com与」"
     }
    ],
    "emails_live": [
-    "info@mhzshop.com",
-    "官网cgv与客服务句给info@mhzshop.com与"
+    "info@mhzshop.com"
    ],
    "phones": [
     "+33 4 86 68 83 30"
@@ -75191,26 +74978,16 @@
    "emails": [
     {
      "addr": "info@elmat.com",
-     "status": "首选"
+     "status": "首选｜公开｜原文「官网联系页给info@elmat.com」｜公开｜原文「b2b门户页重复info@elmat.com与049」"
     },
     {
      "addr": "elmat@pec.it",
-     "status": "公开"
-    },
-    {
-     "addr": "官网联系页给info@elmat.com",
-     "status": "公开"
-    },
-    {
-     "addr": "b2b门户页重复info@elmat.com与049",
      "status": "公开"
     }
    ],
    "emails_live": [
     "info@elmat.com",
-    "elmat@pec.it",
-    "官网联系页给info@elmat.com",
-    "b2b门户页重复info@elmat.com与049"
+    "elmat@pec.it"
    ],
    "phones": [],
    "kp_named": true,
@@ -75487,16 +75264,11 @@
    "emails": [
     {
      "addr": "sales@caymanwireless.com",
-     "status": "首选"
-    },
-    {
-     "addr": "sales@caymanwireless.com仅有第三方目录结构化数据支持",
-     "status": "公开"
+     "status": "首选｜公开｜原文「sales@caymanwireless.com仅有第三方目录结构化数据支持」"
     }
    ],
    "emails_live": [
-    "sales@caymanwireless.com",
-    "sales@caymanwireless.com仅有第三方目录结构化数据支持"
+    "sales@caymanwireless.com"
    ],
    "phones": [],
    "kp_named": true,
@@ -75774,22 +75546,17 @@
     },
     {
      "addr": "sales@invictusnetworks.com",
-     "status": "公开"
+     "status": "公开｜公开｜原文「reseller并给sales@invictusnetworks.com」"
     },
     {
      "addr": "orders@invictuswireless.com",
-     "status": "公开"
-    },
-    {
-     "addr": "reseller并给sales@invictusnetworks.com",
      "status": "公开"
     }
    ],
    "emails_live": [
     "sales@invictuswireless.com",
     "sales@invictusnetworks.com",
-    "orders@invictuswireless.com",
-    "reseller并给sales@invictusnetworks.com"
+    "orders@invictuswireless.com"
    ],
    "phones": [],
    "kp_named": true,
@@ -76080,21 +75847,16 @@
    "emails": [
     {
      "addr": "sales@neobits.com",
-     "status": "首选"
+     "status": "首选｜公开｜原文「官网联系页正文给sales@neobits.com」"
     },
     {
      "addr": "vendors@neobits.com",
-     "status": "公开"
-    },
-    {
-     "addr": "官网联系页正文给sales@neobits.com",
      "status": "公开"
     }
    ],
    "emails_live": [
     "sales@neobits.com",
-    "vendors@neobits.com",
-    "官网联系页正文给sales@neobits.com"
+    "vendors@neobits.com"
    ],
    "phones": [],
    "kp_named": true,
@@ -76553,16 +76315,11 @@
    "emails": [
     {
      "addr": "sales@ntsdirect.com",
-     "status": "首选"
-    },
-    {
-     "addr": "pdf给sales@ntsdirect.com",
-     "status": "公开"
+     "status": "首选｜公开｜原文「pdf给sales@ntsdirect.com」"
     }
    ],
    "emails_live": [
-    "sales@ntsdirect.com",
-    "pdf给sales@ntsdirect.com"
+    "sales@ntsdirect.com"
    ],
    "phones": [],
    "kp_named": true,
@@ -76706,16 +76463,11 @@
    "emails": [
     {
      "addr": "sales@5gstore.com",
-     "status": "首选"
-    },
-    {
-     "addr": "官网隐私页正文给sales@5gstore.com与1-833-5gstore",
-     "status": "公开"
+     "status": "首选｜公开｜原文「官网隐私页正文给sales@5gstore.com与1-833-5gstore」"
     }
    ],
    "emails_live": [
-    "sales@5gstore.com",
-    "官网隐私页正文给sales@5gstore.com与1-833-5gstore"
+    "sales@5gstore.com"
    ],
    "phones": [],
    "kp_named": true,
@@ -79322,26 +79074,16 @@
    "emails": [
     {
      "addr": "info@sheaelectricllc.com",
-     "status": "首选"
+     "status": "首选｜公开｜原文「官网联系页给info@sheaelectricllc.com」"
     },
     {
-     "addr": "第三方项目页候选csheskey@sheaelectricllc.com",
-     "status": "公开"
-    },
-    {
-     "addr": "官网联系页给info@sheaelectricllc.com",
-     "status": "公开"
-    },
-    {
-     "addr": "energy项目页另列csheskey@sheaelectricllc.com",
-     "status": "公开"
+     "addr": "csheskey@sheaelectricllc.com",
+     "status": "公开｜原文「第三方项目页候选csheskey@sheaelectricllc.com」｜公开｜原文「energy项目页另列csheskey@sheaelectricllc.com」"
     }
    ],
    "emails_live": [
     "info@sheaelectricllc.com",
-    "第三方项目页候选csheskey@sheaelectricllc.com",
-    "官网联系页给info@sheaelectricllc.com",
-    "energy项目页另列csheskey@sheaelectricllc.com"
+    "csheskey@sheaelectricllc.com"
    ],
    "phones": [],
    "kp_named": true,
@@ -80386,7 +80128,7 @@
    "emails": [
     {
      "addr": "info@berdin.com",
-     "status": "首选"
+     "status": "首选｜公开｜原文「官网联系页正文给info@berdin.com」"
     },
     {
      "addr": "madrid@berdin.com",
@@ -80419,10 +80161,6 @@
     {
      "addr": "jmentxaka@berdin.com",
      "status": "公开"
-    },
-    {
-     "addr": "官网联系页正文给info@berdin.com",
-     "status": "公开"
     }
    ],
    "emails_live": [
@@ -80434,8 +80172,7 @@
     "xostolaza@berdin.com",
     "donosti@berdin.com",
     "adelrio@berdin.com",
-    "jmentxaka@berdin.com",
-    "官网联系页正文给info@berdin.com"
+    "jmentxaka@berdin.com"
    ],
    "phones": [
     "+34 943 45 81 12"
@@ -80590,36 +80327,21 @@
    "emails": [
     {
      "addr": "deinta@deinta.com",
-     "status": "首选"
+     "status": "首选｜公开｜原文「法定告知给deinta@deinta.com」"
     },
     {
-     "addr": "联系页另列personal@deinta.com",
-     "status": "公开"
+     "addr": "personal@deinta.com",
+     "status": "公开｜原文「联系页另列personal@deinta.com」｜公开｜原文「plaza地址与personal@deinta.com」"
     },
     {
      "addr": "privacidad@deinta.com",
-     "status": "公开"
-    },
-    {
-     "addr": "plaza地址与personal@deinta.com",
-     "status": "公开"
-    },
-    {
-     "addr": "法定告知给deinta@deinta.com",
-     "status": "公开"
-    },
-    {
-     "addr": "dpo邮箱privacidad@deinta.com",
-     "status": "公开"
+     "status": "公开｜公开｜原文「dpo邮箱privacidad@deinta.com」"
     }
    ],
    "emails_live": [
     "deinta@deinta.com",
-    "联系页另列personal@deinta.com",
-    "privacidad@deinta.com",
-    "plaza地址与personal@deinta.com",
-    "法定告知给deinta@deinta.com",
-    "dpo邮箱privacidad@deinta.com"
+    "personal@deinta.com",
+    "privacidad@deinta.com"
    ],
    "phones": [
     "+34 976 798 180"
@@ -80783,16 +80505,11 @@
    "emails": [
     {
      "addr": "ventas@nexus.com.pe",
-     "status": "首选"
-    },
-    {
-     "addr": "官方联系页给ventas@nexus.com.pe",
-     "status": "公开"
+     "status": "首选｜公开｜原文「官方联系页给ventas@nexus.com.pe」"
     }
    ],
    "emails_live": [
-    "ventas@nexus.com.pe",
-    "官方联系页给ventas@nexus.com.pe"
+    "ventas@nexus.com.pe"
    ],
    "phones": [],
    "kp_named": true,
@@ -80944,16 +80661,11 @@
    "emails": [
     {
      "addr": "info@atlantikelektronik.com",
-     "status": "首选"
-    },
-    {
-     "addr": "自营电商atestore的lantronix专页与获奖新闻给info@atlantikelektronik.com",
-     "status": "公开"
+     "status": "首选｜公开｜原文「自营电商atestore的lantronix专页与获奖新闻给info@atlantikelektronik.com」"
     }
    ],
    "emails_live": [
-    "info@atlantikelektronik.com",
-    "自营电商atestore的lantronix专页与获奖新闻给info@atlantikelektronik.com"
+    "info@atlantikelektronik.com"
    ],
    "phones": [
     "+49 89 89 505 0"
@@ -81365,16 +81077,11 @@
    "emails": [
     {
      "addr": "hello@jellyfishbroadband.com",
-     "status": "首选"
-    },
-    {
-     "addr": "broadband官网about页结构化数据给hello@jellyfishbroadband.com与0800",
-     "status": "公开"
+     "status": "首选｜公开｜原文「broadband官网about页结构化数据给hello@jellyfishbroadband.com与0800」"
     }
    ],
    "emails_live": [
-    "hello@jellyfishbroadband.com",
-    "broadband官网about页结构化数据给hello@jellyfishbroadband.com与0800"
+    "hello@jellyfishbroadband.com"
    ],
    "phones": [],
    "kp_named": true,
@@ -81666,31 +81373,21 @@
    "emails": [
     {
      "addr": "supportdesk@andisa.net",
-     "status": "首选"
+     "status": "首选｜公开｜原文「官网支持页正文给supportdesk@andisa.net与电话01423」"
     },
     {
      "addr": "sales@andisa.net",
-     "status": "公开"
+     "status": "公开｜公开｜原文「首页结构化数据给sales@andisa.net」"
     },
     {
-     "addr": "官网支持页正文给supportdesk@andisa.net与电话01423",
-     "status": "公开"
-    },
-    {
-     "addr": "首页结构化数据给sales@andisa.net",
-     "status": "公开"
-    },
-    {
-     "addr": "主讲并列出andy@andisa.net",
-     "status": "公开"
+     "addr": "andy@andisa.net",
+     "status": "公开｜原文「主讲并列出andy@andisa.net」"
     }
    ],
    "emails_live": [
     "supportdesk@andisa.net",
     "sales@andisa.net",
-    "官网支持页正文给supportdesk@andisa.net与电话01423",
-    "首页结构化数据给sales@andisa.net",
-    "主讲并列出andy@andisa.net"
+    "andy@andisa.net"
    ],
    "phones": [],
    "kp_named": true,
@@ -81833,11 +81530,7 @@
    "emails": [
     {
      "addr": "info@joustsec.com",
-     "status": "首选"
-    },
-    {
-     "addr": "security官网首页与关于页正文给info@joustsec.com",
-     "status": "公开"
+     "status": "首选｜公开｜原文「security官网首页与关于页正文给info@joustsec.com」"
     },
     {
      "addr": "abuse@joustsec.com",
@@ -81846,7 +81539,6 @@
    ],
    "emails_live": [
     "info@joustsec.com",
-    "security官网首页与关于页正文给info@joustsec.com",
     "abuse@joustsec.com"
    ],
    "phones": [
@@ -82129,16 +81821,11 @@
    "emails": [
     {
      "addr": "info@canservers.com",
-     "status": "首选"
-    },
-    {
-     "addr": "canservers官网联系页正文给info@canservers.com",
-     "status": "公开"
+     "status": "首选｜公开｜原文「canservers官网联系页正文给info@canservers.com」"
     }
    ],
    "emails_live": [
-    "info@canservers.com",
-    "canservers官网联系页正文给info@canservers.com"
+    "info@canservers.com"
    ],
    "phones": [],
    "kp_named": true,
@@ -82726,13 +82413,13 @@
      "status": "首选"
     },
     {
-     "addr": "genève与p.robert@engitech.ch相连",
-     "status": "公开"
+     "addr": "p.robert@engitech.ch",
+     "status": "公开｜原文「genève与p.robert@engitech.ch相连」"
     }
    ],
    "emails_live": [
     "office@engitech.ch",
-    "genève与p.robert@engitech.ch相连"
+    "p.robert@engitech.ch"
    ],
    "phones": [
     "+41 76 32 64 000"
@@ -82876,16 +82563,11 @@
    "emails": [
     {
      "addr": "rein.podra@ccisrd.eu",
-     "status": "首选"
-    },
-    {
-     "addr": "邮箱rein.podra@ccisrd.eu",
-     "status": "公开"
+     "status": "首选｜公开｜原文「邮箱rein.podra@ccisrd.eu」"
     }
    ],
    "emails_live": [
-    "rein.podra@ccisrd.eu",
-    "邮箱rein.podra@ccisrd.eu"
+    "rein.podra@ccisrd.eu"
    ],
    "phones": [
     "+372 5082381",
@@ -83470,12 +83152,12 @@
    "evidence_urls": [],
    "emails": [
     {
-     "addr": "与b452存camacho@engenheiros.pt及相同",
-     "status": "公开"
+     "addr": "camacho@engenheiros.pt",
+     "status": "公开｜原文「与b452存camacho@engenheiros.pt及相同」"
     }
    ],
    "emails_live": [
-    "与b452存camacho@engenheiros.pt及相同"
+    "camacho@engenheiros.pt"
    ],
    "phones": [
     "+351 965 869 277"
@@ -83738,26 +83420,16 @@
    "emails": [
     {
      "addr": "info@xpatit.gr",
-     "status": "首选"
+     "status": "首选｜公开｜原文「xpatit联系页给info@xpatit.gr」"
     },
     {
-     "addr": "培训training@xpatit.gr",
-     "status": "公开"
-    },
-    {
-     "addr": "xpatit联系页给info@xpatit.gr",
-     "status": "公开"
-    },
-    {
-     "addr": "培训部training@xpatit.gr",
-     "status": "公开"
+     "addr": "training@xpatit.gr",
+     "status": "公开｜原文「培训training@xpatit.gr」｜公开｜原文「培训部training@xpatit.gr」"
     }
    ],
    "emails_live": [
     "info@xpatit.gr",
-    "培训training@xpatit.gr",
-    "xpatit联系页给info@xpatit.gr",
-    "培训部training@xpatit.gr"
+    "training@xpatit.gr"
    ],
    "phones": [
     "+30 211 0070080"
@@ -84334,16 +84006,11 @@
    "emails": [
     {
      "addr": "info@sn-solution.hu",
-     "status": "首选"
-    },
-    {
-     "addr": "官网联系页给info@sn-solution.hu",
-     "status": "公开"
+     "status": "首选｜公开｜原文「官网联系页给info@sn-solution.hu」"
     }
    ],
    "emails_live": [
-    "info@sn-solution.hu",
-    "官网联系页给info@sn-solution.hu"
+    "info@sn-solution.hu"
    ],
    "phones": [
     "+36 30 4719438"
@@ -84490,13 +84157,13 @@
      "status": "首选"
     },
     {
-     "addr": "csongradi及b083保存mikrotik@csongradidavid.hu",
-     "status": "公开"
+     "addr": "mikrotik@csongradidavid.hu",
+     "status": "公开｜原文「csongradi及b083保存mikrotik@csongradidavid.hu」"
     }
    ],
    "emails_live": [
     "beszerzes@macsoft.hu",
-    "csongradi及b083保存mikrotik@csongradidavid.hu"
+    "mikrotik@csongradidavid.hu"
    ],
    "phones": [
     "+36 30 6169819"
@@ -85209,11 +84876,7 @@
    "emails": [
     {
      "addr": "jj@netops.lv",
-     "status": "首选"
-    },
-    {
-     "addr": "邮箱jj@netops.lv",
-     "status": "公开"
+     "status": "首选｜公开｜原文「邮箱jj@netops.lv」"
     },
     {
      "addr": "andis@router.lv",
@@ -85222,7 +84885,6 @@
    ],
    "emails_live": [
     "jj@netops.lv",
-    "邮箱jj@netops.lv",
     "andis@router.lv"
    ],
    "phones": [
@@ -85374,26 +85036,16 @@
    "emails": [
     {
      "addr": "dobsovic@itlearning.sk",
-     "status": "首选"
+     "status": "首选｜公开｜原文「邮箱dobsovic@itlearning.sk」"
     },
     {
      "addr": "info@itlearning.sk",
-     "status": "公开"
-    },
-    {
-     "addr": "邮箱dobsovic@itlearning.sk",
-     "status": "公开"
-    },
-    {
-     "addr": "公司站另给通用入口info@itlearning.sk",
-     "status": "公开"
+     "status": "公开｜公开｜原文「公司站另给通用入口info@itlearning.sk」"
     }
    ],
    "emails_live": [
     "dobsovic@itlearning.sk",
-    "info@itlearning.sk",
-    "邮箱dobsovic@itlearning.sk",
-    "公司站另给通用入口info@itlearning.sk"
+    "info@itlearning.sk"
    ],
    "phones": [
     "+421 2 4920 3080"
@@ -85539,31 +85191,21 @@
    "emails": [
     {
      "addr": "ivan.dolnak@connet-group.sk",
-     "status": "首选"
+     "status": "首选｜公开｜原文「邮箱ivan.dolnak@connet-group.sk」"
     },
     {
      "addr": "info@connet-group.sk",
-     "status": "公开"
-    },
-    {
-     "addr": "邮箱ivan.dolnak@connet-group.sk",
-     "status": "公开"
+     "status": "公开｜公开｜原文「公司站另见通用入口info@connet-group.sk」"
     },
     {
      "addr": "krug@mikrotik.cool",
-     "status": "公开"
-    },
-    {
-     "addr": "公司站另见通用入口info@connet-group.sk",
      "status": "公开"
     }
    ],
    "emails_live": [
     "ivan.dolnak@connet-group.sk",
     "info@connet-group.sk",
-    "邮箱ivan.dolnak@connet-group.sk",
-    "krug@mikrotik.cool",
-    "公司站另见通用入口info@connet-group.sk"
+    "krug@mikrotik.cool"
    ],
    "phones": [
     "+421 948 672 185"
@@ -85709,7 +85351,7 @@
    "emails": [
     {
      "addr": "jernej.suhadolc@virtua.si",
-     "status": "首选"
+     "status": "首选｜公开｜原文「邮箱jernej.suhadolc@virtua.si」"
     },
     {
      "addr": "info@virtua.si",
@@ -85717,23 +85359,13 @@
     },
     {
      "addr": "info@virtua-it.si",
-     "status": "公开"
-    },
-    {
-     "addr": "邮箱jernej.suhadolc@virtua.si",
-     "status": "公开"
-    },
-    {
-     "addr": "info@virtua-it.si为早期线索",
-     "status": "公开"
+     "status": "公开｜公开｜原文「info@virtua-it.si为早期线索」"
     }
    ],
    "emails_live": [
     "jernej.suhadolc@virtua.si",
     "info@virtua.si",
-    "info@virtua-it.si",
-    "邮箱jernej.suhadolc@virtua.si",
-    "info@virtua-it.si为早期线索"
+    "info@virtua-it.si"
    ],
    "phones": [
     "+386 590 91780"
@@ -85879,26 +85511,16 @@
    "emails": [
     {
      "addr": "ivan.jezerinac@infiniti.hr",
-     "status": "首选"
+     "status": "首选｜公开｜原文「邮箱ivan.jezerinac@infiniti.hr」｜公开｜原文「公司站联系页给ivan.jezerinac@infiniti.hr与trening」"
     },
     {
      "addr": "trening@infiniti.hr",
-     "status": "公开"
-    },
-    {
-     "addr": "邮箱ivan.jezerinac@infiniti.hr",
-     "status": "公开"
-    },
-    {
-     "addr": "公司站联系页给ivan.jezerinac@infiniti.hr与trening",
      "status": "公开"
     }
    ],
    "emails_live": [
     "ivan.jezerinac@infiniti.hr",
-    "trening@infiniti.hr",
-    "邮箱ivan.jezerinac@infiniti.hr",
-    "公司站联系页给ivan.jezerinac@infiniti.hr与trening"
+    "trening@infiniti.hr"
    ],
    "phones": [
     "+385 91 6545467"
@@ -86044,15 +85666,11 @@
    "emails": [
     {
      "addr": "ekomunikacija@pondi.hr",
-     "status": "首选"
+     "status": "首选｜公开｜原文「给ekomunikacija@pondi.hr」"
     },
     {
-     "addr": "给ekomunikacija@pondi.hr",
-     "status": "公开"
-    },
-    {
-     "addr": "另见knjigovodstvo@pondi.hr",
-     "status": "公开"
+     "addr": "knjigovodstvo@pondi.hr",
+     "status": "公开｜原文「另见knjigovodstvo@pondi.hr」"
     },
     {
      "addr": "marketing@pondi.hr",
@@ -86061,8 +85679,7 @@
    ],
    "emails_live": [
     "ekomunikacija@pondi.hr",
-    "给ekomunikacija@pondi.hr",
-    "另见knjigovodstvo@pondi.hr",
+    "knjigovodstvo@pondi.hr",
     "marketing@pondi.hr"
    ],
    "phones": [
@@ -86660,26 +86277,16 @@
    "emails": [
     {
      "addr": "contact@evelem.fr",
-     "status": "首选"
+     "status": "首选｜公开｜原文「给contact@evelem.fr」"
     },
     {
-     "addr": "客户空间页支持support@evelem.fr",
-     "status": "公开"
-    },
-    {
-     "addr": "给contact@evelem.fr",
-     "status": "公开"
-    },
-    {
-     "addr": "客户空间页另给支持入口support@evelem.fr",
-     "status": "公开"
+     "addr": "support@evelem.fr",
+     "status": "公开｜原文「客户空间页支持support@evelem.fr」｜公开｜原文「客户空间页另给支持入口support@evelem.fr」"
     }
    ],
    "emails_live": [
     "contact@evelem.fr",
-    "客户空间页支持support@evelem.fr",
-    "给contact@evelem.fr",
-    "客户空间页另给支持入口support@evelem.fr"
+    "support@evelem.fr"
    ],
    "phones": [
     "+33 1 76 43 22 22",
@@ -87309,22 +86916,17 @@
     },
     {
      "addr": "sales@microtechnology.net",
-     "status": "公开"
+     "status": "公开｜公开｜原文「与sales@microtechnology.net及电话478-953-1921」"
     },
     {
-     "addr": "与sales@microtechnology.net及电话478-953-1921",
-     "status": "公开"
-    },
-    {
-     "addr": "facebook页显示具名kyle.smith@microtechnology.net",
-     "status": "公开"
+     "addr": "kyle.smith@microtechnology.net",
+     "status": "公开｜原文「facebook页显示具名kyle.smith@microtechnology.net」"
     }
    ],
    "emails_live": [
     "info@microtechnology.net",
     "sales@microtechnology.net",
-    "与sales@microtechnology.net及电话478-953-1921",
-    "facebook页显示具名kyle.smith@microtechnology.net"
+    "kyle.smith@microtechnology.net"
    ],
    "phones": [],
    "kp_named": true,
@@ -87631,16 +87233,11 @@
    "emails": [
     {
      "addr": "info@powertechcontrols.com",
-     "status": "首选"
-    },
-    {
-     "addr": "官网联系页给info@powertechcontrols.com",
-     "status": "公开"
+     "status": "首选｜公开｜原文「官网联系页给info@powertechcontrols.com」"
     }
    ],
    "emails_live": [
-    "info@powertechcontrols.com",
-    "官网联系页给info@powertechcontrols.com"
+    "info@powertechcontrols.com"
    ],
    "phones": [],
    "kp_named": true,
@@ -87958,26 +87555,21 @@
    "emails": [
     {
      "addr": "enquiries@holkerit.co.uk",
-     "status": "首选"
+     "status": "首选｜公开｜原文「partner页与官网联系页给enquiries@holkerit.co.uk」"
     },
     {
-     "addr": "次级reassuringit@holkerit.co.uk",
-     "status": "公开"
+     "addr": "reassuringit@holkerit.co.uk",
+     "status": "公开｜原文「次级reassuringit@holkerit.co.uk」"
     },
     {
      "addr": "support@holkerit.co.uk",
-     "status": "公开"
-    },
-    {
-     "addr": "partner页与官网联系页给enquiries@holkerit.co.uk",
      "status": "公开"
     }
    ],
    "emails_live": [
     "enquiries@holkerit.co.uk",
-    "次级reassuringit@holkerit.co.uk",
-    "support@holkerit.co.uk",
-    "partner页与官网联系页给enquiries@holkerit.co.uk"
+    "reassuringit@holkerit.co.uk",
+    "support@holkerit.co.uk"
    ],
    "phones": [],
    "kp_named": true,
@@ -88304,26 +87896,16 @@
    "emails": [
     {
      "addr": "info@gbeconverge.com",
-     "status": "首选"
+     "status": "首选｜公开｜原文「给info@gbeconverge.com」"
     },
     {
-     "addr": "同页另有荷兰emea邮箱info@gbeconvergebv.com",
-     "status": "公开"
-    },
-    {
-     "addr": "给info@gbeconverge.com",
-     "status": "公开"
-    },
-    {
-     "addr": "荷兰实体邮箱info@gbeconvergebv.com按次级候选",
-     "status": "公开"
+     "addr": "info@gbeconvergebv.com",
+     "status": "公开｜原文「同页另有荷兰emea邮箱info@gbeconvergebv.com」｜公开｜原文「荷兰实体邮箱info@gbeconvergebv.com按次级候选」"
     }
    ],
    "emails_live": [
     "info@gbeconverge.com",
-    "同页另有荷兰emea邮箱info@gbeconvergebv.com",
-    "给info@gbeconverge.com",
-    "荷兰实体邮箱info@gbeconvergebv.com按次级候选"
+    "info@gbeconvergebv.com"
    ],
    "phones": [
     "+44 8451 220884"
@@ -89116,17 +88698,12 @@
    ],
    "emails": [
     {
-     "addr": "自社facebook页公布social@3tec.co.uk社媒信箱",
-     "status": "首选"
-    },
-    {
-     "addr": "自社facebook页公布social@3tec.co.uk",
-     "status": "公开"
+     "addr": "social@3tec.co.uk",
+     "status": "首选｜原文「自社facebook页公布social@3tec.co.uk社媒信箱」｜公开｜原文「自社facebook页公布social@3tec.co.uk」"
     }
    ],
    "emails_live": [
-    "自社facebook页公布social@3tec.co.uk社媒信箱",
-    "自社facebook页公布social@3tec.co.uk"
+    "social@3tec.co.uk"
    ],
    "phones": [],
    "kp_named": false,
@@ -89260,26 +88837,16 @@
    "emails": [
     {
      "addr": "contact@accyotta.com",
-     "status": "首选"
+     "status": "首选｜公开｜原文「官网联系页给contact@accyotta.com」"
     },
     {
-     "addr": "支持候选help@accyotta.com",
-     "status": "公开"
-    },
-    {
-     "addr": "官网联系页给contact@accyotta.com",
-     "status": "公开"
-    },
-    {
-     "addr": "支持页另给help@accyotta.com",
-     "status": "公开"
+     "addr": "help@accyotta.com",
+     "status": "公开｜原文「支持候选help@accyotta.com」｜公开｜原文「支持页另给help@accyotta.com」"
     }
    ],
    "emails_live": [
     "contact@accyotta.com",
-    "支持候选help@accyotta.com",
-    "官网联系页给contact@accyotta.com",
-    "支持页另给help@accyotta.com"
+    "help@accyotta.com"
    ],
    "phones": [
     "+44 (0)20 7043 6090"
@@ -90448,11 +90015,7 @@
    "emails": [
     {
      "addr": "info@trusol.com",
-     "status": "首选"
-    },
-    {
-     "addr": "trusol官网服务与支持页给info@trusol.com",
-     "status": "公开"
+     "status": "首选｜公开｜原文「trusol官网服务与支持页给info@trusol.com」"
     },
     {
      "addr": "info@electracomprojects.com",
@@ -90461,7 +90024,6 @@
    ],
    "emails_live": [
     "info@trusol.com",
-    "trusol官网服务与支持页给info@trusol.com",
     "info@electracomprojects.com"
    ],
    "phones": [],
@@ -90805,21 +90367,16 @@
    "emails": [
     {
      "addr": "sales@euroele.com",
-     "status": "首选"
+     "status": "首选｜公开｜原文「官网联系页给销售sales@euroele.com」"
     },
     {
-     "addr": "技术techsupport@euroele.com",
-     "status": "公开"
-    },
-    {
-     "addr": "官网联系页给销售sales@euroele.com",
-     "status": "公开"
+     "addr": "techsupport@euroele.com",
+     "status": "公开｜原文「技术techsupport@euroele.com」"
     }
    ],
    "emails_live": [
     "sales@euroele.com",
-    "技术techsupport@euroele.com",
-    "官网联系页给销售sales@euroele.com"
+    "techsupport@euroele.com"
    ],
    "phones": [],
    "kp_named": true,
@@ -90963,21 +90520,16 @@
    "emails": [
     {
      "addr": "info@quadratek.net",
-     "status": "首选"
+     "status": "首选｜公开｜原文「官网联系页给info@quadratek.net」"
     },
     {
-     "addr": "法务候选legal@quadratek.net",
-     "status": "公开"
-    },
-    {
-     "addr": "官网联系页给info@quadratek.net",
-     "status": "公开"
+     "addr": "legal@quadratek.net",
+     "status": "公开｜原文「法务候选legal@quadratek.net」"
     }
    ],
    "emails_live": [
     "info@quadratek.net",
-    "法务候选legal@quadratek.net",
-    "官网联系页给info@quadratek.net"
+    "legal@quadratek.net"
    ],
    "phones": [
     "+44 (0)8450 740 530"
@@ -92898,26 +92450,16 @@
    "emails": [
     {
      "addr": "contact@alphacron.de",
-     "status": "首选"
+     "status": "首选｜公开｜原文「给contact@alphacron.de」"
     },
     {
-     "addr": "网络记录另有abuse@alphacron.de",
-     "status": "公开"
-    },
-    {
-     "addr": "给contact@alphacron.de",
-     "status": "公开"
-    },
-    {
-     "addr": "与abuse@alphacron.de",
-     "status": "公开"
+     "addr": "abuse@alphacron.de",
+     "status": "公开｜原文「网络记录另有abuse@alphacron.de」｜公开｜原文「与abuse@alphacron.de」"
     }
    ],
    "emails_live": [
     "contact@alphacron.de",
-    "网络记录另有abuse@alphacron.de",
-    "给contact@alphacron.de",
-    "与abuse@alphacron.de"
+    "abuse@alphacron.de"
    ],
    "phones": [],
    "kp_named": true,
@@ -95321,16 +94863,11 @@
    "emails": [
     {
      "addr": "info@berg-duda.de",
-     "status": "首选"
-    },
-    {
-     "addr": "给info@berg-duda.de",
-     "status": "公开"
+     "status": "首选｜公开｜原文「给info@berg-duda.de」"
     }
    ],
    "emails_live": [
-    "info@berg-duda.de",
-    "给info@berg-duda.de"
+    "info@berg-duda.de"
    ],
    "phones": [],
    "kp_named": true,
@@ -96307,21 +95844,16 @@
    "emails": [
     {
      "addr": "info@hm-electronics.de",
-     "status": "首选"
+     "status": "首选｜公开｜原文「给info@hm-electronics.de」"
     },
     {
-     "addr": "给info@hm-electronics.de",
-     "status": "公开"
-    },
-    {
-     "addr": "与招聘页thomas.hoffmann@hm-electronics.de",
-     "status": "公开"
+     "addr": "thomas.hoffmann@hm-electronics.de",
+     "status": "公开｜原文「与招聘页thomas.hoffmann@hm-electronics.de」"
     }
    ],
    "emails_live": [
     "info@hm-electronics.de",
-    "给info@hm-electronics.de",
-    "与招聘页thomas.hoffmann@hm-electronics.de"
+    "thomas.hoffmann@hm-electronics.de"
    ],
    "phones": [],
    "kp_named": true,
@@ -96936,16 +96468,11 @@
    "emails": [
     {
      "addr": "info@inseid.de",
-     "status": "首选"
-    },
-    {
-     "addr": "官网impressum与首页给info@inseid.de",
-     "status": "公开"
+     "status": "首选｜公开｜原文「官网impressum与首页给info@inseid.de」"
     }
    ],
    "emails_live": [
-    "info@inseid.de",
-    "官网impressum与首页给info@inseid.de"
+    "info@inseid.de"
    ],
    "phones": [
     "+49 5139 985230"
@@ -98215,16 +97742,11 @@
    "emails": [
     {
      "addr": "info@merlinedv.de",
-     "status": "首选"
-    },
-    {
-     "addr": "官网联系页与imprint给info@merlinedv.de",
-     "status": "公开"
+     "status": "首选｜公开｜原文「官网联系页与imprint给info@merlinedv.de」"
     }
    ],
    "emails_live": [
-    "info@merlinedv.de",
-    "官网联系页与imprint给info@merlinedv.de"
+    "info@merlinedv.de"
    ],
    "phones": [
     "+49 9131 90715-0"
@@ -101856,26 +101378,21 @@
    "emails": [
     {
      "addr": "ec@bluebearsit.com",
-     "status": "首选"
+     "status": "首选｜公开｜原文「官网培训页公布商务信箱ec@bluebearsit.com」"
     },
     {
      "addr": "cg@bluebearsit.com",
      "status": "公开"
     },
     {
-     "addr": "官网培训页公布商务信箱ec@bluebearsit.com",
-     "status": "公开"
-    },
-    {
-     "addr": "与ap@bluebearsit.com",
-     "status": "公开"
+     "addr": "ap@bluebearsit.com",
+     "status": "公开｜原文「与ap@bluebearsit.com」"
     }
    ],
    "emails_live": [
     "ec@bluebearsit.com",
     "cg@bluebearsit.com",
-    "官网培训页公布商务信箱ec@bluebearsit.com",
-    "与ap@bluebearsit.com"
+    "ap@bluebearsit.com"
    ],
    "phones": [],
    "kp_named": true,
@@ -102019,16 +101536,11 @@
    "emails": [
     {
      "addr": "contact@cfigroupe.com",
-     "status": "首选"
-    },
-    {
-     "addr": "cfigroupe官网联系页给contact@cfigroupe.com",
-     "status": "公开"
+     "status": "首选｜公开｜原文「cfigroupe官网联系页给contact@cfigroupe.com」"
     }
    ],
    "emails_live": [
-    "contact@cfigroupe.com",
-    "cfigroupe官网联系页给contact@cfigroupe.com"
+    "contact@cfigroupe.com"
    ],
    "phones": [
     "+33 1 70 94 90 91"
@@ -102183,26 +101695,21 @@
    "emails": [
     {
      "addr": "contact@deltasertec.com",
-     "status": "首选"
-    },
-    {
-     "addr": "官网联系页给contact@deltasertec.com",
-     "status": "公开"
+     "status": "首选｜公开｜原文「官网联系页给contact@deltasertec.com」"
     },
     {
      "addr": "dpo@deltasertec.com",
      "status": "公开"
     },
     {
-     "addr": "招聘页给recrutement@deltasertec.com",
-     "status": "公开"
+     "addr": "recrutement@deltasertec.com",
+     "status": "公开｜原文「招聘页给recrutement@deltasertec.com」"
     }
    ],
    "emails_live": [
     "contact@deltasertec.com",
-    "官网联系页给contact@deltasertec.com",
     "dpo@deltasertec.com",
-    "招聘页给recrutement@deltasertec.com"
+    "recrutement@deltasertec.com"
    ],
    "phones": [],
    "kp_named": true,
@@ -102556,21 +102063,16 @@
    "emails": [
     {
      "addr": "contact@gtd-international.com",
-     "status": "首选"
+     "status": "首选｜公开｜原文「官网法律声明给contact@gtd-international.com与05」"
     },
     {
-     "addr": "官网法律声明给contact@gtd-international.com与05",
-     "status": "公开"
-    },
-    {
-     "addr": "ramirez的angel.ramirez@gtd.eu",
-     "status": "公开"
+     "addr": "angel.ramirez@gtd.eu",
+     "status": "公开｜原文「ramirez的angel.ramirez@gtd.eu」"
     }
    ],
    "emails_live": [
     "contact@gtd-international.com",
-    "官网法律声明给contact@gtd-international.com与05",
-    "ramirez的angel.ramirez@gtd.eu"
+    "angel.ramirez@gtd.eu"
    ],
    "phones": [],
    "kp_named": true,
@@ -102714,16 +102216,11 @@
    "emails": [
     {
      "addr": "contact@itni.fr",
-     "status": "首选"
-    },
-    {
-     "addr": "官网首页给contact@itni.fr",
-     "status": "公开"
+     "status": "首选｜公开｜原文「官网首页给contact@itni.fr」"
     }
    ],
    "emails_live": [
-    "contact@itni.fr",
-    "官网首页给contact@itni.fr"
+    "contact@itni.fr"
    ],
    "phones": [
     "+33 1 48 13 99 99"
@@ -102887,16 +102384,11 @@
    "emails": [
     {
      "addr": "contact@nxo.eu",
-     "status": "首选"
-    },
-    {
-     "addr": "法律页给contact@nxo.eu",
-     "status": "公开"
+     "status": "首选｜公开｜原文「法律页给contact@nxo.eu」"
     }
    ],
    "emails_live": [
-    "contact@nxo.eu",
-    "法律页给contact@nxo.eu"
+    "contact@nxo.eu"
    ],
    "phones": [],
    "kp_named": true,
@@ -103030,26 +102522,16 @@
    "emails": [
     {
      "addr": "contact@synexie.fr",
-     "status": "首选"
+     "status": "首选｜公开｜原文「给contact@synexie.fr」"
     },
     {
-     "addr": "招聘rh@synexie.fr",
-     "status": "公开"
-    },
-    {
-     "addr": "给contact@synexie.fr",
-     "status": "公开"
-    },
-    {
-     "addr": "招聘页给rh@synexie.fr",
-     "status": "公开"
+     "addr": "rh@synexie.fr",
+     "status": "公开｜原文「招聘rh@synexie.fr」｜公开｜原文「招聘页给rh@synexie.fr」"
     }
    ],
    "emails_live": [
     "contact@synexie.fr",
-    "招聘rh@synexie.fr",
-    "给contact@synexie.fr",
-    "招聘页给rh@synexie.fr"
+    "rh@synexie.fr"
    ],
    "phones": [
     "+33 4 98 08 02 80"
@@ -103342,21 +102824,16 @@
    "emails": [
     {
      "addr": "info@adrianetsrl.it",
-     "status": "首选"
+     "status": "首选｜公开｜原文「官网adrianetsrl.it给info@adrianetsrl.it」"
     },
     {
      "addr": "adrianetsrl@pec.it",
-     "status": "公开"
-    },
-    {
-     "addr": "官网adrianetsrl.it给info@adrianetsrl.it",
      "status": "公开"
     }
    ],
    "emails_live": [
     "info@adrianetsrl.it",
-    "adrianetsrl@pec.it",
-    "官网adrianetsrl.it给info@adrianetsrl.it"
+    "adrianetsrl@pec.it"
    ],
    "phones": [],
    "kp_named": true,
@@ -103817,21 +103294,16 @@
    "emails": [
     {
      "addr": "info@cgtelettronica.it",
-     "status": "首选"
+     "status": "首选｜公开｜原文「官网联系页给info@cgtelettronica.it」"
     },
     {
      "addr": "cgt@legalmail.it",
-     "status": "公开"
-    },
-    {
-     "addr": "官网联系页给info@cgtelettronica.it",
      "status": "公开"
     }
    ],
    "emails_live": [
     "info@cgtelettronica.it",
-    "cgt@legalmail.it",
-    "官网联系页给info@cgtelettronica.it"
+    "cgt@legalmail.it"
    ],
    "phones": [
     "+39 06 65793119"
@@ -103980,12 +103452,12 @@
    ],
    "emails": [
     {
-     "addr": "名义给出info@camelisat.it与0564",
-     "status": "公开"
+     "addr": "info@camelisat.it",
+     "status": "公开｜原文「名义给出info@camelisat.it与0564」"
     }
    ],
    "emails_live": [
-    "名义给出info@camelisat.it与0564"
+    "info@camelisat.it"
    ],
    "phones": [
     "+39 0565 774391"
@@ -104799,11 +104271,7 @@
    "emails": [
     {
      "addr": "info@dpsinformatica.it",
-     "status": "首选"
-    },
-    {
-     "addr": "规则规范为info@dpsinformatica.it",
-     "status": "公开"
+     "status": "首选｜公开｜原文「规则规范为info@dpsinformatica.it」"
     },
     {
      "addr": "dpsinformatica@legalmail.it",
@@ -104812,7 +104280,6 @@
    ],
    "emails_live": [
     "info@dpsinformatica.it",
-    "规则规范为info@dpsinformatica.it",
     "dpsinformatica@legalmail.it"
    ],
    "phones": [
@@ -105164,16 +104631,11 @@
    "emails": [
     {
      "addr": "info@eulogic.it",
-     "status": "首选"
-    },
-    {
-     "addr": "团队页给info@eulogic.it",
-     "status": "公开"
+     "status": "首选｜公开｜原文「团队页给info@eulogic.it」"
     }
    ],
    "emails_live": [
-    "info@eulogic.it",
-    "团队页给info@eulogic.it"
+    "info@eulogic.it"
    ],
    "phones": [
     "+39 080 564 0511"
@@ -105994,16 +105456,11 @@
    "emails": [
     {
      "addr": "info@gci.it",
-     "status": "首选"
-    },
-    {
-     "addr": "官网页脚给info@gci.it",
-     "status": "公开"
+     "status": "首选｜公开｜原文「官网页脚给info@gci.it」"
     }
    ],
    "emails_live": [
-    "info@gci.it",
-    "官网页脚给info@gci.it"
+    "info@gci.it"
    ],
    "phones": [],
    "kp_named": true,
@@ -106458,15 +105915,7 @@
    "emails": [
     {
      "addr": "info@ingesw.com",
-     "status": "首选"
-    },
-    {
-     "addr": "邮箱info@ingesw.com见公司自设在european",
-     "status": "公开"
-    },
-    {
-     "addr": "主字段取info@ingesw.com",
-     "status": "公开"
+     "status": "首选｜公开｜原文「邮箱info@ingesw.com见公司自设在european」｜公开｜原文「主字段取info@ingesw.com」"
     },
     {
      "addr": "fabio.mundadori7114@ingesw.onmicrosoft.com",
@@ -106475,8 +105924,6 @@
    ],
    "emails_live": [
     "info@ingesw.com",
-    "邮箱info@ingesw.com见公司自设在european",
-    "主字段取info@ingesw.com",
     "fabio.mundadori7114@ingesw.onmicrosoft.com"
    ],
    "phones": [],
@@ -106778,16 +106225,11 @@
    "emails": [
     {
      "addr": "info@irenesrl.it",
-     "status": "首选"
-    },
-    {
-     "addr": "给info@irenesrl.it",
-     "status": "公开"
+     "status": "首选｜公开｜原文「给info@irenesrl.it」"
     }
    ],
    "emails_live": [
-    "info@irenesrl.it",
-    "给info@irenesrl.it"
+    "info@irenesrl.it"
    ],
    "phones": [],
    "kp_named": true,
@@ -107365,26 +106807,21 @@
    "emails": [
     {
      "addr": "info@mlsoftware.it",
-     "status": "首选"
+     "status": "首选｜公开｜原文「官网联系页给info@mlsoftware.it」"
     },
     {
      "addr": "mlsoftware@pec.mlsoftware.it",
      "status": "公开"
     },
     {
-     "addr": "官网联系页给info@mlsoftware.it",
-     "status": "公开"
-    },
-    {
-     "addr": "kompass另给logistica@mlsoftware.it",
-     "status": "公开"
+     "addr": "logistica@mlsoftware.it",
+     "status": "公开｜原文「kompass另给logistica@mlsoftware.it」"
     }
    ],
    "emails_live": [
     "info@mlsoftware.it",
     "mlsoftware@pec.mlsoftware.it",
-    "官网联系页给info@mlsoftware.it",
-    "kompass另给logistica@mlsoftware.it"
+    "logistica@mlsoftware.it"
    ],
    "phones": [
     "+39 095484679"
@@ -107834,14 +107271,10 @@
    "emails": [
     {
      "addr": "mail@netengineering.it",
-     "status": "首选"
+     "status": "首选｜公开｜原文「该站联系页给mail@netengineering.it」"
     },
     {
      "addr": "netengineering@legalmail.it",
-     "status": "公开"
-    },
-    {
-     "addr": "该站联系页给mail@netengineering.it",
      "status": "公开"
     },
     {
@@ -107856,7 +107289,6 @@
    "emails_live": [
     "mail@netengineering.it",
     "netengineering@legalmail.it",
-    "该站联系页给mail@netengineering.it",
     "info@netspa.com",
     "commerciale@netspa.com"
    ],
@@ -108712,16 +108144,11 @@
    "emails": [
     {
      "addr": "info@securcrea.com",
-     "status": "首选"
-    },
-    {
-     "addr": "给info@securcrea.com",
-     "status": "公开"
+     "status": "首选｜公开｜原文「给info@securcrea.com」"
     }
    ],
    "emails_live": [
-    "info@securcrea.com",
-    "给info@securcrea.com"
+    "info@securcrea.com"
    ],
    "phones": [
     "+39 0586 1713210",
@@ -109897,13 +109324,13 @@
      "status": "首选"
     },
     {
-     "addr": "官网dove-siamo页有sales及info@storelink.it",
-     "status": "公开"
+     "addr": "info@storelink.it",
+     "status": "公开｜原文「官网dove-siamo页有sales及info@storelink.it」"
     }
    ],
    "emails_live": [
     "sales@storelink.it",
-    "官网dove-siamo页有sales及info@storelink.it"
+    "info@storelink.it"
    ],
    "phones": [],
    "kp_named": true,
@@ -110064,25 +109491,21 @@
    "emails": [
     {
      "addr": "info@tnet.it",
-     "status": "停用"
-    },
-    {
-     "addr": "邮箱info@tnet.it",
-     "status": "公开"
+     "status": "停用｜公开｜原文「邮箱info@tnet.it」"
     },
     {
      "addr": "tnetitalia@cert.tnet.it",
      "status": "公开"
     },
     {
-     "addr": "account@tnet.it与免费号800",
-     "status": "公开"
+     "addr": "account@tnet.it",
+     "status": "公开｜原文「account@tnet.it与免费号800」"
     }
    ],
    "emails_live": [
-    "邮箱info@tnet.it",
+    "info@tnet.it",
     "tnetitalia@cert.tnet.it",
-    "account@tnet.it与免费号800"
+    "account@tnet.it"
    ],
    "phones": [
     "+39 02 9708 4111"
@@ -110246,21 +109669,16 @@
    "emails": [
     {
      "addr": "info@technocenter.it",
-     "status": "首选"
+     "status": "首选｜公开｜原文「info@technocenter.it见于公司自设」"
     },
     {
      "addr": "technocenter@legalmail.it",
-     "status": "公开"
-    },
-    {
-     "addr": "info@technocenter.it见于公司自设",
      "status": "公开"
     }
    ],
    "emails_live": [
     "info@technocenter.it",
-    "technocenter@legalmail.it",
-    "info@technocenter.it见于公司自设"
+    "technocenter@legalmail.it"
    ],
    "phones": [],
    "kp_named": true,
@@ -110403,21 +109821,16 @@
    "emails": [
     {
      "addr": "worldtechnology@tiscali.it",
-     "status": "首选"
+     "status": "首选｜公开｜原文「供应方名单同列worldtechnology@tiscali.it与worldtechnology」"
     },
     {
      "addr": "worldtechnology@pec.it",
-     "status": "公开"
-    },
-    {
-     "addr": "供应方名单同列worldtechnology@tiscali.it与worldtechnology",
      "status": "公开"
     }
    ],
    "emails_live": [
     "worldtechnology@tiscali.it",
-    "worldtechnology@pec.it",
-    "供应方名单同列worldtechnology@tiscali.it与worldtechnology"
+    "worldtechnology@pec.it"
    ],
    "phones": [],
    "kp_named": true,
@@ -110800,16 +110213,11 @@
    "emails": [
     {
      "addr": "info@avelution.nl",
-     "status": "首选"
-    },
-    {
-     "addr": "官网联系页给info@avelution.nl",
-     "status": "公开"
+     "status": "首选｜公开｜原文「官网联系页给info@avelution.nl」"
     }
    ],
    "emails_live": [
-    "info@avelution.nl",
-    "官网联系页给info@avelution.nl"
+    "info@avelution.nl"
    ],
    "phones": [
     "+31 85 90 23 14 0"
@@ -110982,16 +110390,11 @@
    "emails": [
     {
      "addr": "info@kappadata.nl",
-     "status": "首选"
-    },
-    {
-     "addr": "与info@kappadata.nl",
-     "status": "公开"
+     "status": "首选｜公开｜原文「与info@kappadata.nl」"
     }
    ],
    "emails_live": [
-    "info@kappadata.nl",
-    "与info@kappadata.nl"
+    "info@kappadata.nl"
    ],
    "phones": [
     "+31 88 527 7200"
@@ -111166,13 +110569,13 @@
      "status": "首选"
     },
     {
-     "addr": "销售锚文字verkoop@pijlsolutions.nl但href为sales",
-     "status": "公开"
+     "addr": "verkoop@pijlsolutions.nl",
+     "status": "公开｜原文「销售锚文字verkoop@pijlsolutions.nl但href为sales」"
     }
    ],
    "emails_live": [
     "info@pijlsolutions.nl",
-    "销售锚文字verkoop@pijlsolutions.nl但href为sales"
+    "verkoop@pijlsolutions.nl"
    ],
    "phones": [],
    "kp_named": true,
@@ -111491,16 +110894,11 @@
    "emails": [
     {
      "addr": "office@ittrust.at",
-     "status": "首选"
-    },
-    {
-     "addr": "公司站联系页给office@ittrust.at",
-     "status": "公开"
+     "status": "首选｜公开｜原文「公司站联系页给office@ittrust.at」"
     }
    ],
    "emails_live": [
-    "office@ittrust.at",
-    "公司站联系页给office@ittrust.at"
+    "office@ittrust.at"
    ],
    "phones": [],
    "kp_named": false,
@@ -113423,8 +112821,8 @@
      "status": "公开"
     },
     {
-     "addr": "官网搜索摘要另有it@4service.cz",
-     "status": "公开"
+     "addr": "it@4service.cz",
+     "status": "公开｜原文「官网搜索摘要另有it@4service.cz」"
     },
     {
      "addr": "helpdesk@4service.cz",
@@ -113434,7 +112832,7 @@
    "emails_live": [
     "sachl@4service.cz",
     "janacek@4service.cz",
-    "官网搜索摘要另有it@4service.cz",
+    "it@4service.cz",
     "helpdesk@4service.cz"
    ],
    "phones": [],
@@ -113613,31 +113011,26 @@
    "emails": [
     {
      "addr": "post@nlogic.no",
-     "status": "首选"
+     "status": "首选｜公开｜原文「官网联系页给一般邮箱post@nlogic.no」"
     },
     {
-     "addr": "销售salg@nlogic.no",
-     "status": "公开"
+     "addr": "salg@nlogic.no",
+     "status": "公开｜原文「销售salg@nlogic.no」"
     },
     {
-     "addr": "官网联系页给一般邮箱post@nlogic.no",
-     "status": "公开"
+     "addr": "support@nlogic.no",
+     "status": "公开｜原文「支持support@nlogic.no」"
     },
     {
-     "addr": "支持support@nlogic.no",
-     "status": "公开"
-    },
-    {
-     "addr": "发票faktura@nlogic.no",
-     "status": "公开"
+     "addr": "faktura@nlogic.no",
+     "status": "公开｜原文「发票faktura@nlogic.no」"
     }
    ],
    "emails_live": [
     "post@nlogic.no",
-    "销售salg@nlogic.no",
-    "官网联系页给一般邮箱post@nlogic.no",
-    "支持support@nlogic.no",
-    "发票faktura@nlogic.no"
+    "salg@nlogic.no",
+    "support@nlogic.no",
+    "faktura@nlogic.no"
    ],
    "phones": [
     "+47 40 61 88 88"
@@ -113957,16 +113350,11 @@
    "emails": [
     {
      "addr": "geral@c2f.pt",
-     "status": "首选"
-    },
-    {
-     "addr": "官网联系页给geral@c2f.pt",
-     "status": "公开"
+     "status": "首选｜公开｜原文「官网联系页给geral@c2f.pt」"
     }
    ],
    "emails_live": [
-    "geral@c2f.pt",
-    "官网联系页给geral@c2f.pt"
+    "geral@c2f.pt"
    ],
    "phones": [],
    "kp_named": true,
@@ -114312,16 +113700,11 @@
    "emails": [
     {
      "addr": "sales@digitalsima.gr",
-     "status": "首选"
-    },
-    {
-     "addr": "sales@digitalsima.gr取自zyxel官方分销商名录",
-     "status": "公开"
+     "status": "首选｜公开｜原文「sales@digitalsima.gr取自zyxel官方分销商名录」"
     }
    ],
    "emails_live": [
-    "sales@digitalsima.gr",
-    "sales@digitalsima.gr取自zyxel官方分销商名录"
+    "sales@digitalsima.gr"
    ],
    "phones": [
     "+30 210 9010401"
@@ -114500,26 +113883,16 @@
    "emails": [
     {
      "addr": "lexis@lexis.gr",
-     "status": "首选"
+     "status": "首选｜公开｜原文「us页给lexis@lexis.gr」"
     },
     {
-     "addr": "分公司thes@lexis.gr",
-     "status": "公开"
-    },
-    {
-     "addr": "us页给lexis@lexis.gr",
-     "status": "公开"
-    },
-    {
-     "addr": "以及塞萨洛尼基分公司thes@lexis.gr",
-     "status": "公开"
+     "addr": "thes@lexis.gr",
+     "status": "公开｜原文「分公司thes@lexis.gr」｜公开｜原文「以及塞萨洛尼基分公司thes@lexis.gr」"
     }
    ],
    "emails_live": [
     "lexis@lexis.gr",
-    "分公司thes@lexis.gr",
-    "us页给lexis@lexis.gr",
-    "以及塞萨洛尼基分公司thes@lexis.gr"
+    "thes@lexis.gr"
    ],
    "phones": [
     "+30 210 6777007"
@@ -114703,21 +114076,16 @@
    "emails": [
     {
      "addr": "info@young.hu",
-     "status": "首选"
+     "status": "首选｜公开｜原文「产品信息info@young.hu」"
     },
     {
-     "addr": "产品信息info@young.hu",
-     "status": "公开"
-    },
-    {
-     "addr": "中央young@young.hu",
-     "status": "公开"
+     "addr": "young@young.hu",
+     "status": "公开｜原文「中央young@young.hu」"
     }
    ],
    "emails_live": [
     "info@young.hu",
-    "产品信息info@young.hu",
-    "中央young@young.hu"
+    "young@young.hu"
    ],
    "phones": [],
    "kp_named": true,
@@ -114909,21 +114277,11 @@
    "emails": [
     {
      "addr": "sales@soselectronic.com",
-     "status": "首选"
-    },
-    {
-     "addr": "department邮箱sales@soselectronic.com与",
-     "status": "公开"
-    },
-    {
-     "addr": "均为@soselectronic.com",
-     "status": "公开"
+     "status": "首选｜公开｜原文「department邮箱sales@soselectronic.com与」"
     }
    ],
    "emails_live": [
-    "sales@soselectronic.com",
-    "department邮箱sales@soselectronic.com与",
-    "均为@soselectronic.com"
+    "sales@soselectronic.com"
    ],
    "phones": [
     "+421 55 786 04 39"
@@ -115095,21 +114453,16 @@
    "emails": [
     {
      "addr": "sales@atysco.hu",
-     "status": "首选"
+     "status": "首选｜公开｜原文「并列出销售邮箱sales@atysco.hu」"
     },
     {
      "addr": "csapkovics.roxana@atysco.hu",
-     "status": "公开"
-    },
-    {
-     "addr": "并列出销售邮箱sales@atysco.hu",
      "status": "公开"
     }
    ],
    "emails_live": [
     "sales@atysco.hu",
-    "csapkovics.roxana@atysco.hu",
-    "并列出销售邮箱sales@atysco.hu"
+    "csapkovics.roxana@atysco.hu"
    ],
    "phones": [
     "+36 1 263 2561"
@@ -115281,21 +114634,16 @@
    "emails": [
     {
      "addr": "enquiries@cogentdistribution.com",
-     "status": "首选"
+     "status": "首选｜公开｜原文「官网联系页正文给enquiries@cogentdistribution.com与电话」"
     },
     {
      "addr": "solutions@cogentdistribution.com",
-     "status": "公开"
-    },
-    {
-     "addr": "官网联系页正文给enquiries@cogentdistribution.com与电话",
      "status": "公开"
     }
    ],
    "emails_live": [
     "enquiries@cogentdistribution.com",
-    "solutions@cogentdistribution.com",
-    "官网联系页正文给enquiries@cogentdistribution.com与电话"
+    "solutions@cogentdistribution.com"
    ],
    "phones": [],
    "kp_named": true,
@@ -115631,16 +114979,11 @@
    "emails": [
     {
      "addr": "sales@connectdata.fr",
-     "status": "首选"
-    },
-    {
-     "addr": "mailto给完整sales@connectdata.fr",
-     "status": "公开"
+     "status": "首选｜公开｜原文「mailto给完整sales@connectdata.fr」"
     }
    ],
    "emails_live": [
-    "sales@connectdata.fr",
-    "mailto给完整sales@connectdata.fr"
+    "sales@connectdata.fr"
    ],
    "phones": [
     "+33 1 60 13 70 10"
@@ -116072,21 +115415,16 @@
    "emails": [
     {
      "addr": "sales@sphinxfrance.fr",
-     "status": "首选"
+     "status": "首选｜公开｜原文「france官网联系页正文给出sales@sphinxfrance.fr」"
     },
     {
-     "addr": "france官网联系页正文给出sales@sphinxfrance.fr",
-     "status": "公开"
-    },
-    {
-     "addr": "advantech伙伴目录另给mail@sphinxconnect.fr作旁证",
-     "status": "公开"
+     "addr": "mail@sphinxconnect.fr",
+     "status": "公开｜原文「advantech伙伴目录另给mail@sphinxconnect.fr作旁证」"
     }
    ],
    "emails_live": [
     "sales@sphinxfrance.fr",
-    "france官网联系页正文给出sales@sphinxfrance.fr",
-    "advantech伙伴目录另给mail@sphinxconnect.fr作旁证"
+    "mail@sphinxconnect.fr"
    ],
    "phones": [],
    "kp_named": true,
@@ -117119,13 +116457,13 @@
      "status": "首选"
     },
     {
-     "addr": "但mailto为help@infinitetechnology.ie",
-     "status": "公开"
+     "addr": "help@infinitetechnology.ie",
+     "status": "公开｜原文「但mailto为help@infinitetechnology.ie」"
     }
    ],
    "emails_live": [
     "sales@infinitetechnology.ie",
-    "但mailto为help@infinitetechnology.ie"
+    "help@infinitetechnology.ie"
    ],
    "phones": [
     "+353 1 2939000"
