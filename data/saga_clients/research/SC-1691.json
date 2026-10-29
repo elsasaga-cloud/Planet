@@ -1,17 +1,46 @@
 {
  "code": "SC-1691",
- "name_official": "alfacomp.net",
+ "name_official": "Alfacomp Automação Industrial Ltda",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "域名 alfacomp.net（官网快照待 Actions 补抓）",
  "summary": "C 池三闸捞出（★ 正式）：★ 巴西 · 工业分销 20%：Alfacomp Automação Industrial Ltda（Porto Alegre + Campinas；CNPJ 04.430.358/0001-05；2001；R$400K）坐实；中国工业品牌全线（迈威）✔ 对位 ✔ WA ✔ → P 池候选",
- "type": "",
- "size": "",
+ "type": "工业分销（闸 2 判定 · 20% 档）",
+ "size": "中型（两地；R$400K 资本）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Alfacomp Automação Industrial Ltda（alfacomp.ind.br / alfacomp.net；**CNPJ 04.430.358/0001-05（总部 Porto Alegre RS，2001-05-10）+ 分支 04.430.358/0002-96（Campinas SP Swiss Park, Av. Antonio Artioli 570 Bloco Lacorno Sala 204；Ativa；资本 R$400,000；math",
+   "quote": "BR · 1 次检索：cnpja（分支 CNPJ / 资本 / 邮箱 / CNAE）+ cnpj.biz（总部 CNPJ / 成立日）；2026-10-29",
+   "url": "https://cnpja.com/en/office/04430358000296",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "巴西 Alfacomp（alfacomp.net / alfacomp.ind.br；全线迈威产品 + 官网 WA 按钮）：中国工业品牌全线 ✔ 对位 ✔ WA 路径 ✔ 巴西有先例；未触达 → 闸 2 查 CNPJ；低优先",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：★ 巴西 · 工业分销 20%：Alfacomp Automação Industrial Ltda（Porto Alegre + Campinas；CNPJ 04.430.358/0001-05；2001；R$400K）坐实；中国工业品牌全线（迈威）✔ 对位 ✔ WA ✔ → P 池候选",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "alfacomp@alfacomp.ind.br",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 巴西 · 工业分销 20%：Alfacomp Automação Industrial Ltda（Porto Alegre + Campinas；CNPJ 04.430.358/0001-05；2001；R$400K）坐实；中国工业品牌全线（迈威）✔ 对位 ✔ WA ✔ → P 池候选；闸 1：巴西 Alfacomp（alfacomp.net / alfacomp.ind.br；全线迈威产品 + 官网 WA 按钮）：中国工业品牌全线 ✔ 对位 ✔ WA 路径 ✔ 巴西有先例；未触达 → 闸 2 查 CNPJ；低优先",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +70,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（工业分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +85,56 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 巴西 · 工业分销 20%：Alfacomp Automação Industrial Ltda（Porto Alegre + Campinas；CNPJ 04.430.358/0001-05；2001；R$400K）坐实；中国工业品牌全线（迈威）✔ 对位 ✔ WA ✔ → P 池候选",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "BR · 1 次检索：cnpja（分支 CNPJ / 资本 / 邮箱 / CNAE）+ cnpj.biz（总部 CNPJ / 成立日）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://cnpja.com/en/office/04430358000296"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Alfacomp Automação Industrial Ltda",
+  "reg_no": "04.430.358/0001-05（CNPJ 总部）",
+  "status": "Ativa（Receita 2025-10）",
+  "incorporated": "2001-05-10",
+  "company_type": "Ltda",
+  "address": "Av. Antonio Artioli, 570, Bloco Lacorno Sala 204, Swiss Park, Campinas - SP, 13049-900（分支）",
+  "size_band": "中型（两地；R$400K 资本）",
+  "officers": [
+   "Matheus — 分支登记邮箱 matheus@alfacomp.ind.br（职务未取）"
+  ],
+  "psc": "未取",
+  "source": "BR · 1 次检索：cnpja（分支 CNPJ / 资本 / 邮箱 / CNAE）+ cnpj.biz（总部 CNPJ / 成立日）；2026-10-29",
+  "url": "https://cnpja.com/en/office/04430358000296",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "工业自动化 / 网络设备分销 + 维修（阿雷格里港 / 坎皮纳斯）"
+ ],
+ "channels": {
+  "网站": "https://alfacomp.net",
+  "直邮": "alfacomp@alfacomp.ind.br（表内）"
+ },
+ "signals": [
+  "巴西 Alfacomp（alfacomp.net / alfacomp.ind.br；全线迈威产品 + 官网 WA 按钮）：中国工业品牌全线 ✔ 对位 ✔ WA 路径 ✔ 巴西有先例；未触达 → 闸 2 查 CNPJ；低优先",
+  "表内兴趣：全线迈威产品"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（工业分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

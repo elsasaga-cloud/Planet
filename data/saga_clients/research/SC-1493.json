@@ -1,17 +1,65 @@
 {
  "code": "SC-1493",
- "name_official": "duxbury.co.za",
+ "name_official": "DUXBURY TRANSMISSION EQUIPMENT (PTY) LIMITED t/a Duxbury Networking",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（官网 2026）",
  "summary": "C 池三闸捞出（★ 正式）：★ 中型分销 20%：DUXBURY TRANSMISSION EQUIPMENT (PTY) LTD t/a Duxbury Networking（Johannesburg；注册号 2018/441897/07；1984 起；三分部；8,000+ 经销伙伴；3 具名邮箱在表）坐实；索样互动 ✔ 分销体量 ✔ 对位 ✔ 具名 KP ✔ → P 池候选（次优区长线）",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "中型分销（闸 2 判定 · 20% 档）",
+ "size": "中型（8,000+ 经销商）",
+ "brands_seen": [
+  "Netgear",
+  "Aruba",
+  "Axis",
+  "Extreme",
+  "Cambium",
+  "Milesight"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "DUXBURY TRANSMISSION EQUIPMENT (PTY) LIMITED t/a Duxbury Networking（duxbury.co.za；**官网 Privacy Policy：注册号 2018/441897/07；Block 1, Riviera Office Park, 66 Oxford Rd, Parktown, Johannesburg 2193；telecoms-channel 档：1984 年创立，JHB / CT / DBN 三分部，",
+   "quote": "ZA · 1 次检索：duxbury.co.za/privacy-policy/（法人 + 注册号 + 地址）+ telecoms-channel.co.za（沿革 / 品牌 / 规模）；2026-10-29",
+   "url": "https://www.duxbury.co.za/privacy-policy/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "南非 Duxbury Networking（知名分销商）：要过 8 光 8 管理 PoE 样品、「也卖很多商业 PoE」、常用邮件沟通；16 推 0 回 → 分销体量 + 对位 ✔ → 闸 2",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：★ 中型分销 20%：DUXBURY TRANSMISSION EQUIPMENT (PTY) LTD t/a Duxbury Networking（Johannesburg；注册号 2018/441897/07；1984 起；三分部；8,000+ 经销伙伴；3 具名邮箱在表）坐实；索样互动 ✔ 分销体量 ✔ 对位 ✔ 具名 KP ✔ → P 池候选（次优区长线）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "tvanschalkwyk@duxnet.co.za",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "pstuttard@duxnet.co.za",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "jpillay@duxnet.co.za",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 中型分销 20%：DUXBURY TRANSMISSION EQUIPMENT (PTY) LTD t/a Duxbury Networking（Johannesburg；注册号 2018/441897/07；1984 起；三分部；8,000+ 经销伙伴；3 具名邮箱在表）坐实；索样互动 ✔ 分销体量 ✔ 对位 ✔ 具名 KP ✔ → P 池候选（次优区长线）；闸 1：南非 Duxbury Networking（知名分销商）：要过 8 光 8 管理 PoE 样品、「也卖很多商业 PoE」、常用邮件沟通；16 推 0 回 → 分销体量 + 对位 ✔ → 闸 2",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +89,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（中型分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +104,61 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 中型分销 20%：DUXBURY TRANSMISSION EQUIPMENT (PTY) LTD t/a Duxbury Networking（Johannesburg；注册号 2018/441897/07；1984 起；三分部；8,000+ 经销伙伴；3 具名邮箱在表）坐实；索样互动 ✔ 分销体量 ✔ 对位 ✔ 具名 KP ✔ → P 池候选（次优区长线）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "ZA · 1 次检索：duxbury.co.za/privacy-policy/（法人 + 注册号 + 地址）+ telecoms-channel.co.za（沿革 / 品牌 / 规模）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.duxbury.co.za/privacy-policy/"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "DUXBURY TRANSMISSION EQUIPMENT (PTY) LIMITED t/a Duxbury Networking",
+  "reg_no": "2018/441897/07",
+  "status": "营业中（官网 2026）",
+  "incorporated": "1984（现法人 2018）",
+  "company_type": "(Pty) Ltd",
+  "address": "Block 1, Riviera Office Park, 66 Oxford Rd, Parktown, Johannesburg 2193",
+  "size_band": "中型（8,000+ 经销商）",
+  "officers": [
+   "T. van Schalkwyk（tvanschalkwyk@duxnet.co.za 表内具名）",
+   "P. Stuttard（pstuttard@duxnet.co.za 表内具名）",
+   "J. Pillay（jpillay@duxnet.co.za 表内具名）"
+  ],
+  "psc": "未取",
+  "source": "ZA · 1 次检索：duxbury.co.za/privacy-policy/（法人 + 注册号 + 地址）+ telecoms-channel.co.za（沿革 / 品牌 / 规模）；2026-10-29",
+  "url": "https://www.duxbury.co.za/privacy-policy/",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "网络 / 无线 / 安防增值分销（南非三分部）"
+ ],
+ "channels": {
+  "网站": "https://duxbury.co.za",
+  "直邮": "tvanschalkwyk@duxnet.co.za，pstuttard@duxnet.co.za，jpillay@duxnet.co.za（表内）"
+ },
+ "signals": [
+  "南非 Duxbury Networking（知名分销商）：要过 8 光 8 管理 PoE 样品、「也卖很多商业 PoE」、常用邮件沟通；16 推 0 回 → 分销体量 + 对位 ✔ → 闸 2",
+  "表内兴趣：8光8管理PoE样品\n也卖很多商业PoE"
+ ],
+ "risks": [
+  "**大分销 → 分销 20%：点名曾索样者一页纸一次（STC-4424GCPM L2+ Marvell $165 对标其索样口型 + STC-228GP + MOQ 1 + 付费样机）— 区域外常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳；低频一页纸**；次优区长线"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（中型分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

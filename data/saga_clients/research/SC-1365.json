@@ -1,17 +1,52 @@
 {
  "code": "SC-1365",
- "name_official": "masibus.com",
+ "name_official": "Masibus Automation And Instrumentation Private Limited",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "Active（MCA 2026）",
  "summary": "C 池三闸捞出（★ 正式）：★ 制造商 · OEM 30%：Masibus Automation And Instrumentation Pvt Ltd（Gandhinagar；CIN U32201GJ1987PTC009994；1987；135 人；FY25 ₹100–500 Cr；Associate Director Sales D Kachhiya）坐实；已进口中国工业交换机 ✔ 对位 ✔ 坐实 ✔ 具名销售负责人 ✔ → P 池候选",
- "type": "",
- "size": "",
+ "type": "OEM（闸 2 判定 · 30% 档）",
+ "size": "中型（135 人；₹100–500 Cr）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Masibus Automation And Instrumentation Private Limited（masibus.com；**CIN U32201GJ1987PTC009994；1987-09-21 登记（1975 起）；ROC Ahmedabad；授权 ₹3.70 Cr / 实收 ₹3.08 Cr；B-30, GIDC Electronics Estate, Sector-25, Gandhinagar, Gujarat 382042；135 人（2024-10",
+   "quote": "IN · 1 次检索：thecompanycheck（CIN / 资本 / 地址 / AGM）+ tracxn（135 人 / 营收档）+ indiamart 注册信息页（董事 DIN / 销售负责人）；2026-10-29",
+   "url": "https://www.thecompanycheck.com/company/masibus-automation-and-instrumentation-private-limited/U32201GJ1987PTC009994",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "印度 Masibus（masibus.com；工业仪表 / 控制自有品牌，三旺 + IO「比较专业」；邮件中有详细联系信息）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔；未触达 → 闸 2 查底数（zaubacorp）；低优先",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：★ 制造商 · OEM 30%：Masibus Automation And Instrumentation Pvt Ltd（Gandhinagar；CIN U32201GJ1987PTC009994；1987；135 人；FY25 ₹100–500 Cr；Associate Director Sales D Kachhiya）坐实；已进口中国工业交换机 ✔ 对位 ✔ 坐实 ✔ 具名销售负责人 ✔…",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "sales@masibus.com",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "sharjah@masibus.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 制造商 · OEM 30%：Masibus Automation And Instrumentation Pvt Ltd（Gandhinagar；CIN U32201GJ1987PTC009994；1987；135 人；FY25 ₹100–500 Cr；Associate Director Sales D Kachhiya）坐实；已进口中国工业交换机 ✔ 对位 ✔ 坐实 ✔ 具名销售负责人 …；闸 1：印度 Masibus（masibus.com；工业仪表 / 控制自有品牌，三旺 + IO「比较专业」；邮件中有详细联系信息）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔；未触达 → 闸 2 查底数（zaubacorp）；低…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +76,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +91,61 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 制造商 · OEM 30%：Masibus Automation And Instrumentation Pvt Ltd（Gandhinagar；CIN U32201GJ1987PTC009994；1987；135 人；FY25 ₹100–500 Cr；Associate Director Sales D Kachhiya）坐实；已进口中国工业交换机 ✔ 对位 ✔ 坐实 ✔ 具名销售负责人 ✔ → P 池候选",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "IN · 1 次检索：thecompanycheck（CIN / 资本 / 地址 / AGM）+ tracxn（135 人 / 营收档）+ indiamart 注册信息页（董事 DIN / 销售负责人）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.thecompanycheck.com/company/masibus-automation-and-instrumentation-private-limited/U32201GJ1987PTC009994"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Masibus Automation And Instrumentation Private Limited",
+  "reg_no": "U32201GJ1987PTC009994（CIN）",
+  "status": "Active（MCA 2026）",
+  "incorporated": "1987-09-21",
+  "company_type": "Private Limited",
+  "address": "B-30, GIDC Electronics Estate, Sector-25, Gandhinagar, Gujarat 382042",
+  "size_band": "中型（135 人；₹100–500 Cr）",
+  "officers": [
+   "Vidya Subramaniam — Director（DIN 00022694）",
+   "Dominic Joseph Cordeiro — Director（DIN 00022731）",
+   "D Kachhiya — Associate Director Operation Sales"
+  ],
+  "psc": "未取",
+  "source": "IN · 1 次检索：thecompanycheck（CIN / 资本 / 地址 / AGM）+ tracxn（135 人 / 营收档）+ indiamart 注册信息页（董事 DIN / 销售负责人）；2026-10-29",
+  "url": "https://www.thecompanycheck.com/company/masibus-automation-and-instrumentation-private-limited/U32201GJ1987PTC009994",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "工业自动化仪表制造（甘地讷格尔）"
+ ],
+ "channels": {
+  "网站": "https://masibus.com",
+  "直邮": "sales@masibus.com，sharjah@masibus.com（表内）"
+ },
+ "signals": [
+  "印度 Masibus（masibus.com；工业仪表 / 控制自有品牌，三旺 + IO「比较专业」；邮件中有详细联系信息）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔；未触达 → 闸 2 查底数（zaubacorp）；低优先",
+  "表内兴趣：三旺 比较专业 工业控制 IO"
+ ],
+ "risks": [
+  "**工业仪表商配套工业交换机 → OEM 30%：点名 D Kachhiya 一页纸一次（STI-280GE $46.6 / STI-288GPM $78.9 / STI-244DGGPM 贴牌 Masibus + 中性包装；三旺不点名）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

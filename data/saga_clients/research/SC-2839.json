@@ -1,17 +1,52 @@
 {
  "code": "SC-2839",
- "name_official": "neousys-tech.com",
+ "name_official": "宸曜科技股份有限公司 NEOUSYS TECHNOLOGY INC.",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "域名 neousys-tech.com（官网快照待 Actions 补抓）",
  "summary": "C 池三闸捞出（★ 正式）：★ 台湾 · 上櫃品牌商 OEM 30%（长线）：宸曜科技 Neousys Technology Inc.（新北中和；統編 29169532；上櫃 6922；2010；資本 NT$5 億；董事長 高明和）坐实；品牌商 ✔ 工业对位 ✔ → P 池候选（20 推 0 回 → 换 OEM 稿点名产品经理）",
- "type": "",
- "size": "",
+ "type": "上櫃品牌商 OEM（闸 2 判定 · 30% 档）",
+ "size": "大型（上櫃；資本 NT$5 億）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "宸曜科技股份有限公司 NEOUSYS TECHNOLOGY INC.（neousys-tech.com；**統編 29169532；上櫃 6922 宸曜；2010-07-14 設立；資本額 NT$500,000,000 / 稅籍資本 202,815,000；新北市中和區建八路198號11樓（登記）/ 中正路868之3號15樓；董事長兼總經理 高明和；發言人 藍林忠（業務副總）；工廠登記 65005448（電腦電子製造）；僑外資；(02)2223-6182**）；表内：工业电脑",
+   "quote": "TW · 1 次检索：twincn（統編 / 上櫃 / 董事長 / 發言人）+ alltwcompany（資本 / 工廠 / 進出口登記）；2026-10-29",
+   "url": "https://www.twincn.com/item.aspx?no=29169532",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "台湾 Neousys Technology（neousys-tech.com；工业电脑品牌商，自有 5 电口工业 FS 宣传图做得不错；20 推 0 回）：品牌商 = OEM 对象 ✔ 对位 ✔（台湾 OEM 先例已入池）；→ 闸 2 查底数（twincn）后换 OEM 稿；低优先",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：★ 台湾 · 上櫃品牌商 OEM 30%（长线）：宸曜科技 Neousys Technology Inc.（新北中和；統編 29169532；上櫃 6922；2010；資本 NT$5 億；董事長 高明和）坐实；品牌商 ✔ 工业对位 ✔ → P 池候选（20 推 0 回 → 换 OEM 稿点名产品经理）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "sales@neousys-tech.com",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "roy.wang@neousys-tech.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 台湾 · 上櫃品牌商 OEM 30%（长线）：宸曜科技 Neousys Technology Inc.（新北中和；統編 29169532；上櫃 6922；2010；資本 NT$5 億；董事長 高明和）坐实；品牌商 ✔ 工业对位 ✔ → P 池候选（20 推 0 回 → 换 OEM 稿点名产品经理）；闸 1：台湾 Neousys Technology（neousys-tech.com；工业电脑品牌商，自有 5 电口工业 FS 宣传图做得不错；20 推 0 回）：品牌商 = OEM 对象 ✔ 对位 ✔（台湾 OEM 先例已入池）；→ 闸 2 查…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +76,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（上櫃品牌商 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +91,57 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 台湾 · 上櫃品牌商 OEM 30%（长线）：宸曜科技 Neousys Technology Inc.（新北中和；統編 29169532；上櫃 6922；2010；資本 NT$5 億；董事長 高明和）坐实；品牌商 ✔ 工业对位 ✔ → P 池候选（20 推 0 回 → 换 OEM 稿点名产品经理）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "TW · 1 次检索：twincn（統編 / 上櫃 / 董事長 / 發言人）+ alltwcompany（資本 / 工廠 / 進出口登記）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.twincn.com/item.aspx?no=29169532"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "宸曜科技股份有限公司 NEOUSYS TECHNOLOGY INC.",
+  "reg_no": "29169532（統編）/ 上櫃 6922",
+  "status": "核准設立 · 營業中",
+  "incorporated": "2010-07-14",
+  "company_type": "股份有限公司（上櫃）",
+  "address": "新北市中和區建八路198號11樓",
+  "size_band": "大型（上櫃；資本 NT$5 億）",
+  "officers": [
+   "高明和 — 董事長 / 總經理",
+   "藍林忠 — 業務副總 / 發言人"
+  ],
+  "psc": "未取",
+  "source": "TW · 1 次检索：twincn（統編 / 上櫃 / 董事長 / 發言人）+ alltwcompany（資本 / 工廠 / 進出口登記）；2026-10-29",
+  "url": "https://www.twincn.com/item.aspx?no=29169532",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "強固型工業電腦製造 + 工業網路配套（新北中和）"
+ ],
+ "channels": {
+  "网站": "https://neousys-tech.com",
+  "直邮": "sales@neousys-tech.com，roy.wang@neousys-tech.com（表内）"
+ },
+ "signals": [
+  "台湾 Neousys Technology（neousys-tech.com；工业电脑品牌商，自有 5 电口工业 FS 宣传图做得不错；20 推 0 回）：品牌商 = OEM 对象 ✔ 对位 ✔（台湾 OEM 先例已入池）；→ 闸 2 查底数（twincn）后换 OEM 稿；低优先",
+  "表内兴趣：5电口 宣传图做的不错；工业FS"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（上櫃品牌商 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

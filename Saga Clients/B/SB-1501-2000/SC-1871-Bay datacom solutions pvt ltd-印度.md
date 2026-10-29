@@ -111,6 +111,8 @@ updated: 2026-10-29
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 印度 · 大集成 25%：Bay Datacom Solutions Pvt Ltd（Hyderabad + Bengaluru；CIN U32100TG1998PTC028943；1998；200–500 人；₹24 Cr）坐实；4 光 24 电 PoE 具体需求 ✔ 中型集成 ✔ → P 池候选；表内「尼泊尔」→ 印度 country_fix 待 Simon；闸 1：尼泊尔 Bay Datacom Solutions Pvt Ltd（baydatacom.com；问网管工业级 4 光 24 电 PoE 交换机）：具体型号需求 ✔ 对位（STC-4424GCPM 商规 / STI 工业线近似，如实说明）…
 - 备注：T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。
 
+### 加厚挖掘（2026-10-29 · 邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓））
+
 
 ## 在卖/在用品牌 → Saga 对位
 

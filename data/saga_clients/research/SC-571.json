@@ -1,17 +1,54 @@
 {
  "code": "SC-571",
- "name_official": "gsl.com.tr",
+ "name_official": "GSL Mühendislik Sanayi ve Ticaret A.Ş.",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（官网 2026）",
  "summary": "C 池三闸捞出（★ 正式）：★ 中型工业分销 20%：GSL Mühendislik Sanayi ve Ticaret A.Ş.（Ankara 1988 + İstanbul；Moxa / Kyland / Robustel / Digi 土耳其分销；IT 500 强；umit@ 在表）部分坐实（MERSIS 未取）；进口 Kyland ✔ 四主区 ✔ 对位 ✔ 具名 KP ✔ → P 池候选",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "中型工业分销（闸 2 判定 · 20% 档）",
+ "size": "中型（IT 500 强）",
+ "brands_seen": [
+  "Moxa"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "GSL Mühendislik Sanayi ve Ticaret A.Ş.（gsl.com.tr；**官网 + elektrikport：1988 年安卡拉创立；Moxa / Robustel / Kyland / Digi / TXOne / RuggON / Transcend / Pro Optix 土耳其增值分销商；安卡拉 + 伊斯坦布尔两办公室（+90 312 473 3540 / +90 216 469 4191）；土耳其 IT 500 强；2016 TOBB ",
+   "quote": "TR · 1 次检索：gsl.com.tr 首页（法人 A.Ş. / 品牌 / 两地电话）+ store.gsl.com.tr + elektrikport 名录（1988 / 500 强）；MERSIS 未取；2026-10-29",
+   "url": "https://gsl.com.tr/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "土耳其 GSL（gsl.com.tr；国内 Kyland + Moxa 工业 FS / 工业控制）：四主区 + 已进口中国工业品牌 + 对位 ✔；11 推 0 回 → 闸 2 查底数",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R02",
+   "claim": "桌面复核（闸 2 证据充分，三问成立）：★ 中型工业分销 20%：GSL Mühendislik Sanayi ve Ticaret A.Ş.（Ankara 1988 + İstanbul；Moxa / Kyland / Robustel / Digi 土耳其分销；IT 500 强；umit@ 在表）部分坐实（MERSIS 未取）；进口 Kyland ✔ 四主区 ✔ 对位 ✔ 具名 KP ✔ → P 池候选",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "info@gsl.com.tr",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "umit@gsl.com.tr",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 中型工业分销 20%：GSL Mühendislik Sanayi ve Ticaret A.Ş.（Ankara 1988 + İstanbul；Moxa / Kyland / Robustel / Digi 土耳其分销；IT 500 强；umit@ 在表）部分坐实（MERSIS 未取）；进口 Kyland ✔ 四主区 ✔ 对位 ✔ 具名 KP ✔ → P 池候选；闸 1：土耳其 GSL（gsl.com.tr；国内 Kyland + Moxa 工业 FS / 工业控制）：四主区 + 已进口中国工业品牌 + 对位 ✔；11 推 0 回 → 闸 2 查底数",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +78,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（中型工业分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +93,60 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 中型工业分销 20%：GSL Mühendislik Sanayi ve Ticaret A.Ş.（Ankara 1988 + İstanbul；Moxa / Kyland / Robustel / Digi 土耳其分销；IT 500 强；umit@ 在表）部分坐实（MERSIS 未取）；进口 Kyland ✔ 四主区 ✔ 对位 ✔ 具名 KP ✔ → P 池候选",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "TR · 1 次检索：gsl.com.tr 首页（法人 A.Ş. / 品牌 / 两地电话）+ store.gsl.com.tr + elektrikport 名录（1988 / 500 强）；MERSIS 未取；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://gsl.com.tr/"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "GSL Mühendislik Sanayi ve Ticaret A.Ş.",
+  "reg_no": "未取（MERSIS 未查；法人名坐实）",
+  "status": "营业中（官网 2026）",
+  "incorporated": "1988",
+  "company_type": "A.Ş.",
+  "address": "Ankara（总部）/ İstanbul",
+  "size_band": "中型（IT 500 强）",
+  "officers": [
+   "Ümit（umit@gsl.com.tr 表内具名；职务未取）",
+   "（info@gsl.com.tr 表内）"
+  ],
+  "psc": "未取",
+  "source": "TR · 1 次检索：gsl.com.tr 首页（法人 A.Ş. / 品牌 / 两地电话）+ store.gsl.com.tr + elektrikport 名录（1988 / 500 强）；MERSIS 未取；2026-10-29",
+  "url": "https://gsl.com.tr/",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "工业网络 / 自动化增值分销（安卡拉 + 伊斯坦布尔）"
+ ],
+ "channels": {
+  "网站": "https://gsl.com.tr",
+  "直邮": "info@gsl.com.tr，umit@gsl.com.tr（表内）"
+ },
+ "signals": [
+  "土耳其 GSL（gsl.com.tr；国内 Kyland + Moxa 工业 FS / 工业控制）：四主区 + 已进口中国工业品牌 + 对位 ✔；11 推 0 回 → 闸 2 查底数",
+  "表内兴趣：国内的Kyland Moxa等\n工业FS 工业控制"
+ ],
+ "risks": [
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（中型工业分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

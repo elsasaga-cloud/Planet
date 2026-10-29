@@ -1,17 +1,52 @@
 {
  "code": "SC-387",
- "name_official": "DGTAS",
+ "name_official": "(주)디지타스 DGTAS",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（官网 2026）",
  "summary": "C 池三闸捞出（★ 正式）：★ 摄像机厂 · OEM 30%：(주)디지타스 DGTAS（안산；사업자 114-87-02536；대표 최상윤；AHD / IP 摄像机 R&D 制造）坐实；制造商 ✔ 微信路径 ✔ 对位 ✔ 坐实 ✔ → P 池候选",
- "type": "",
- "size": "",
+ "type": "OEM（闸 2 判定 · 30% 档）",
+ "size": "小型 / 中型（制造 + 整新）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "(주)디지타스 DGTAS（dgtas.co.kr；**官网页脚：사업자등록번호 114-87-02536；대표 최상윤；경기도 안산시 단원구 범지기로 147；TEL 031-455-0017 / FAX 031-491-0420；DGTAS@DGTAS.CO.KR；AHD / IP / 特种摄像机 R&D 制造 + 整新（Refurbishment）业务**）；表内：摄像机厂，微信路径在",
+   "quote": "KR · 1 次检索：dgtas.co.kr（页脚 사업자 / 대표 / 地址 / 产品页）；2026-10-29",
+   "url": "https://www.dgtas.co.kr/page/page11",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "韩国 DGTAS（dgtas.co.kr；摄像头厂商，有客户项目，要「可远程控制的 PoE switch」配套；Evelyn 加了微信，KP Lily）：自有品牌摄像头 ✔ 微信在 ✔ Simon 点名韩国；邮件 37 次 0 回 → 闸 2 查底数（bizno）+ 改走微信；低优先",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：★ 摄像机厂 · OEM 30%：(주)디지타스 DGTAS（안산；사업자 114-87-02536；대표 최상윤；AHD / IP 摄像机 R&D 制造）坐实；制造商 ✔ 微信路径 ✔ 对位 ✔ 坐实 ✔ → P 池候选",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "leey@dgtas.co.kr",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "dgtas@dgtas.co.kr",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 摄像机厂 · OEM 30%：(주)디지타스 DGTAS（안산；사업자 114-87-02536；대표 최상윤；AHD / IP 摄像机 R&D 制造）坐实；制造商 ✔ 微信路径 ✔ 对位 ✔ 坐实 ✔ → P 池候选；闸 1：韩国 DGTAS（dgtas.co.kr；摄像头厂商，有客户项目，要「可远程控制的 PoE switch」配套；Evelyn 加了微信，KP Lily）：自有品牌摄像头 ✔ 微信在 ✔ Simon 点名韩国；邮件 37 次 0 回 → 闸…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +76,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +91,59 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 摄像机厂 · OEM 30%：(주)디지타스 DGTAS（안산；사업자 114-87-02536；대표 최상윤；AHD / IP 摄像机 R&D 制造）坐实；制造商 ✔ 微信路径 ✔ 对位 ✔ 坐实 ✔ → P 池候选",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "KR · 1 次检索：dgtas.co.kr（页脚 사업자 / 대표 / 地址 / 产品页）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.dgtas.co.kr/page/page11"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "(주)디지타스 DGTAS",
+  "reg_no": "114-87-02536（사업자등록번호）",
+  "status": "营业中（官网 2026）",
+  "incorporated": "未取",
+  "company_type": "주식회사",
+  "address": "경기도 안산시 단원구 범지기로 147",
+  "size_band": "小型 / 中型（制造 + 整新）",
+  "officers": [
+   "최상윤 — 대표"
+  ],
+  "psc": "未取",
+  "source": "KR · 1 次检索：dgtas.co.kr（页脚 사업자 / 대표 / 地址 / 产品页）；2026-10-29",
+  "url": "https://www.dgtas.co.kr/page/page11",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "摄像机 R&D 制造（安山）"
+ ],
+ "channels": {
+  "网站": "https://dgtas.co.kr",
+  "直邮": "leey@dgtas.co.kr，dgtas@dgtas.co.kr（表内）"
+ },
+ "signals": [
+  "韩国 DGTAS（dgtas.co.kr；摄像头厂商，有客户项目，要「可远程控制的 PoE switch」配套；Evelyn 加了微信，KP Lily）：自有品牌摄像头 ✔ 微信在 ✔ Simon 点名韩国；邮件 37 次 0 回 → 闸 2 查底数（bizno）+ 改走微信；低优先",
+  "表内兴趣：公司做摄像头的，有客户。让帮忙配一套，需要可以远程控制的poe switch"
+ ],
+ "risks": [
+  "**摄像机厂配套 PoE → OEM 30%：微信 / 邮件一页纸一次（STC-028GP $28 / STC-228GP $33 贴牌 DGTAS + 中性包装 + MOQ 1 + 付费样机）— 韩国常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳；无 KC（买方自行认证，SDT 先例）；周二 / 周四 10–12 KST**"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

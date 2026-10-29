@@ -1,17 +1,63 @@
 {
  "code": "SC-622",
- "name_official": "iacontrol.co.za",
+ "name_official": "Industrial Automation and Control (Pty) Ltd — IAC",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（官网 2025）",
  "summary": "C 池三闸捞出（○ 正式）：○ 工业分销 20%：Industrial Automation and Control (Pty) Ltd — IAC（Centurion Samrand；Communica 集团；Hirschmann / Belden / Korenix / Advantech 非洲分销）部分坐实（Reg No 未取）；工业分销主体 ✔ 对位 ✔ → P 池候选（价位补充线）",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "工业分销（闸 2 判定 · 20% 档）",
+ "size": "中型（集团成员）",
+ "brands_seen": [
+  "Hirschmann",
+  "Korenix",
+  "Advantech",
+  "Belden"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Industrial Automation and Control (Pty) Ltd — IAC（iacontrol.co.za；**官网：Communica Building, 53 Landmarks Avenue, Samrand Business Park, Centurion；P.O. Box 2860, The Reeds 0158；+27 12 657 3600；info@iacontrol.co.za；Hirschmann / Belden / Lumber",
+   "quote": "ZA · 1 次检索：shop.iacontrol.co.za/pages/contact-us（法人 / 地址 / 电话）+ website.informer（品牌 / 域名 1998）；Reg No 未取；2026-10-29",
+   "url": "https://shop.iacontrol.co.za/pages/contact-us",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "南非 IA Control（iacontrol.co.za；工业 MC / FS，表内「在和台湾 Korenix 合作」）：进口台湾同类 ✔ 对位 ✔ + 同区先例 Duxbury / MiRO；群发 15 次 0 回 → 闸 2 查底数（CIPC 镜像）；低优先",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：○ 工业分销 20%：Industrial Automation and Control (Pty) Ltd — IAC（Centurion Samrand；Communica 集团；Hirschmann / Belden / Korenix / Advantech 非洲分销）部分坐实（Reg No 未取）；工业分销主体 ✔ 对位 ✔ → P 池候选（价位补充线）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "raine@iacontrol.co.za",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "info@iacontrol.co.za",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "sales@iacontrol.co.za",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 工业分销 20%：Industrial Automation and Control (Pty) Ltd — IAC（Centurion Samrand；Communica 集团；Hirschmann / Belden / Korenix / Advantech 非洲分销）部分坐实（Reg No 未取）；工业分销主体 ✔ 对位 ✔ → P 池候选（价位补充线）；闸 1：南非 IA Control（iacontrol.co.za；工业 MC / FS，表内「在和台湾 Korenix 合作」）：进口台湾同类 ✔ 对位 ✔ + 同区先例 Duxbury / MiRO；群发 15 次 0 回 → 闸 2 查底数…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +87,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（工业分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +102,59 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 工业分销 20%：Industrial Automation and Control (Pty) Ltd — IAC（Centurion Samrand；Communica 集团；Hirschmann / Belden / Korenix / Advantech 非洲分销）部分坐实（Reg No 未取）；工业分销主体 ✔ 对位 ✔ → P 池候选（价位补充线）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "ZA · 1 次检索：shop.iacontrol.co.za/pages/contact-us（法人 / 地址 / 电话）+ website.informer（品牌 / 域名 1998）；Reg No 未取；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://shop.iacontrol.co.za/pages/contact-us"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Industrial Automation and Control (Pty) Ltd — IAC",
+  "reg_no": "未取（Reg No 未查）",
+  "status": "营业中（官网 2025）",
+  "incorporated": "未取（域名 1998）",
+  "company_type": "(Pty) Ltd",
+  "address": "Communica Building, 53 Landmarks Avenue, Samrand Business Park, Centurion",
+  "size_band": "中型（集团成员）",
+  "officers": [
+   "（具名 KP 未取）"
+  ],
+  "psc": "未取",
+  "source": "ZA · 1 次检索：shop.iacontrol.co.za/pages/contact-us（法人 / 地址 / 电话）+ website.informer（品牌 / 域名 1998）；Reg No 未取；2026-10-29",
+  "url": "https://shop.iacontrol.co.za/pages/contact-us",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "工业网络 / 自动化分销（森图里恩）"
+ ],
+ "channels": {
+  "网站": "https://iacontrol.co.za",
+  "直邮": "raine@iacontrol.co.za，info@iacontrol.co.za，sales@iacontrol.co.za（表内）"
+ },
+ "signals": [
+  "南非 IA Control（iacontrol.co.za；工业 MC / FS，表内「在和台湾 Korenix 合作」）：进口台湾同类 ✔ 对位 ✔ + 同区先例 Duxbury / MiRO；群发 15 次 0 回 → 闸 2 查底数（CIPC 镜像）；低优先",
+  "表内兴趣：工业MC FS\n在和台湾Korenix合作"
+ ],
+ "risks": [
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（工业分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

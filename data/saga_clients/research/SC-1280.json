@@ -1,17 +1,54 @@
 {
  "code": "SC-1280",
- "name_official": "plcsystems.ru",
+ "name_official": "ООО «ПЛКСистемы» — PLC Systems",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中",
  "summary": "C 池三闸捞出（○ 正式）：○ 工业分销 20%：ООО «ПЛКСистемы»（Москва；ИНН 7708160477 / ОГРН 1027739102379；GD Прейс М. В.；Korenix + PLC / SCADA 分销）坐实；已进口台湾 Korenix ✔ 对位 ✔ 坐实 ✔ 分销主体 ✔ → P 池候选（18 推 0 回 → 换稿）",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "工业分销（闸 2 判定 · 20% 档）",
+ "size": "小型 / 中型",
+ "brands_seen": [
+  "Korenix"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "ООО «ПЛКСистемы» — PLC Systems（plcsystems.ru；**官网 реквизиты PDF + sbis：ИНН 7708160477 / КПП 773301001；ОГРН 1027739102379；ОКПО 56544261；125362 Москва, ул. Циолковского д.4；Генеральный директор Прейс Мария Владимировна；开户行 АО «Райффайзенбанк»",
+   "quote": "RU · 1 次检索：download.plcsystems.ru/doc/rekvizity-plksistemy.pdf（法人 / ИНН / ОГРН / 总经理 / 开户行）+ sbis.ru/contragents/7708160477（地址）+ eqinfo（产品线 Korenix）；2026-10-29",
+   "url": "https://sbis.ru/contragents/7708160477/773301001",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "俄罗斯 PLC Systems（plcsystems.ru；工业 FS，Korenix 的分销商；lantan.pro 域 nxdomain）：进口台湾同类 ✔ 对位 ✔ 分销主体 Simon 点名俄罗斯；群发 18 次 0 回 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：○ 工业分销 20%：ООО «ПЛКСистемы»（Москва；ИНН 7708160477 / ОГРН 1027739102379；GD Прейс М. В.；Korenix + PLC / SCADA 分销）坐实；已进口台湾 Korenix ✔ 对位 ✔ 坐实 ✔ 分销主体 ✔ → P 池候选（18 推 0 回 → 换稿）；备注：俄罗斯：收款路径待 Simon（Q 清单 RU/KZ/BY 收款）→ 只盯 + 季度一封，不推单",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "medvedev@plcsystems.ru",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "info@plcsystems.ru",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 工业分销 20%：ООО «ПЛКСистемы»（Москва；ИНН 7708160477 / ОГРН 1027739102379；GD Прейс М. В.；Korenix + PLC / SCADA 分销）坐实；已进口台湾 Korenix ✔ 对位 ✔ 坐实 ✔ 分销主体 ✔ → P 池候选（18 推 0 回 → 换稿）；闸 1：俄罗斯 PLC Systems（plcsystems.ru；工业 FS，Korenix 的分销商；lantan.pro 域 nxdomain）：进口台湾同类 ✔ 对位 ✔ 分销主体 Simon 点名俄罗斯；群发 18 次 0 回 → 闸 …",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +78,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（工业分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +93,60 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 工业分销 20%：ООО «ПЛКСистемы»（Москва；ИНН 7708160477 / ОГРН 1027739102379；GD Прейс М. В.；Korenix + PLC / SCADA 分销）坐实；已进口台湾 Korenix ✔ 对位 ✔ 坐实 ✔ 分销主体 ✔ → P 池候选（18 推 0 回 → 换稿）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "RU · 1 次检索：download.plcsystems.ru/doc/rekvizity-plksistemy.pdf（法人 / ИНН / ОГРН / 总经理 / 开户行）+ sbis.ru/contragents/7708160477（地址）+ eqinfo（产品线 Korenix）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://sbis.ru/contragents/7708160477/773301001"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "ООО «ПЛКСистемы» — PLC Systems",
+  "reg_no": "7708160477（ИНН）/ 1027739102379（ОГРН）",
+  "status": "营业中",
+  "incorporated": "2002（ОГРН 年份；品牌更早）",
+  "company_type": "ООО",
+  "address": "125362 Москва, ул. Циолковского д.4",
+  "size_band": "小型 / 中型",
+  "officers": [
+   "Прейс Мария Владимировна — Генеральный директор",
+   "（info@plcsystems.ru 表内）"
+  ],
+  "psc": "未取",
+  "source": "RU · 1 次检索：download.plcsystems.ru/doc/rekvizity-plksistemy.pdf（法人 / ИНН / ОГРН / 总经理 / 开户行）+ sbis.ru/contragents/7708160477（地址）+ eqinfo（产品线 Korenix）；2026-10-29",
+  "url": "https://sbis.ru/contragents/7708160477/773301001",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "工业自动化 / PLC / 工业网络分销 + АСУ ТП 集成（莫斯科）"
+ ],
+ "channels": {
+  "网站": "https://plcsystems.ru",
+  "直邮": "medvedev@plcsystems.ru，info@plcsystems.ru（表内）"
+ },
+ "signals": [
+  "俄罗斯 PLC Systems（plcsystems.ru；工业 FS，Korenix 的分销商；lantan.pro 域 nxdomain）：进口台湾同类 ✔ 对位 ✔ 分销主体 Simon 点名俄罗斯；群发 18 次 0 回 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
+  "表内兴趣：工业FS   Korenix的分销商；工业FS"
+ ],
+ "risks": [
+  "**Korenix 现供工业分销 → 分销 20%：一页纸一次（STI-154GP / STI-288DGGPM / STI-488DGGPM 对标 Korenix 入门线 + MOQ 1 + 付费样机；Korenix 不点名）— 俄语区常规：英文 / 俄文稿、20 / 25 / 30 + 预付 100%（收款 / 物流路径待 Simon 定：第三国结算或代理）+ FOB 深圳；周四 10–12 "
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（工业分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

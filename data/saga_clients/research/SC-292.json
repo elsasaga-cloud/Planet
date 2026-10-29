@@ -1,17 +1,46 @@
 {
  "code": "SC-292",
- "name_official": "fiberinstrumentsales.com",
+ "name_official": "Fiber Instrument Sales, Inc.",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "Active（SAM.gov 至 2026-12-30）",
  "summary": "C 池三闸捞出（○ 正式）：○ 分销 20%（可升贴标 30%）：Fiber Instrument Sales, Inc.（Oriskany NY；1985；UEI H7LXDNB9UAY8 / CAGE 0CKD9 SAM 有效；100–250 人；$10–53M；Owner Frank Giotto）坐实；自有标 MC / CWDM + 在卖 Signamax → 对位 ✔ 主区 ✔ 坐实 ✔ 体量 ✔ → P 池候选（冷户，19 推 0 回）",
- "type": "",
- "size": "",
+ "type": "分销（闸 2 判定 · 20% 档）",
+ "size": "中型（100–250；$10–53M）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Fiber Instrument Sales, Inc.（FIS；fiberinstrumentsales.com；**GovTribe / SAM.gov：UEI H7LXDNB9UAY8、CAGE 0CKD9、注册 2001-07-12、有效至 2026-12-30；161 Clear Rd, Oriskany, NY 13424；1985 年创立；51–250 人；$10M–$50M；NAICS 334220 / 335929；prospeo：$53M、101–200；",
+   "quote": "US · 1 次检索：govtribe.com/vendors/fiber-instrument-sales-inc-dot-0ckd9（UEI H7LXDNB9UAY8；CAGE 0CKD9；SAM Active through Dec 30, 2026；161 Clear Rd Oriskany NY；1985）+ prospeo（$53M；101-200；Frank Giotto Owner；James Fasano Director Strategic Accounts）；2026-10-29",
+   "url": "https://govtribe.com/vendors/fiber-instrument-sales-inc-dot-0ckd9",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "美国 Fiber Instrument Sales（FIS，大型光纤工具 / 无源分销商，在卖 Signamax 交换机，自有 logo 无源 / MC / CWDM）→ 北美主区 + 分销体量；19 推 0 回 → 闸 2",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R01",
+   "claim": "Fiber Instrument Sales, Inc.（Oriskany NY 1985；SAM 有效；100–250 人；$10–53M；自有标 MC；Owner Frank Giotto）：分销 20% 可升贴标 30%；行业内 ✔ 自牌 ✔ 对位 ✔ 主区 ✔",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "info@fiberinstrumentsales.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 分销 20%（可升贴标 30%）：Fiber Instrument Sales, Inc.（Oriskany NY；1985；UEI H7LXDNB9UAY8 / CAGE 0CKD9 SAM 有效；100–250 人；$10–53M；Owner Frank Giotto）坐实；自有标 MC / CWDM + 在卖 Signamax → 对位 ✔ 主区 ✔ 坐实 ✔ 体量 ✔ → P 池候选…；闸 1：美国 Fiber Instrument Sales（FIS，大型光纤工具 / 无源分销商，在卖 Signamax 交换机，自有 logo 无源 / MC / CWDM）→ 北美主区 + 分销体量；19 推 0 回 → 闸 2",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +70,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +85,61 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 分销 20%（可升贴标 30%）：Fiber Instrument Sales, Inc.（Oriskany NY；1985；UEI H7LXDNB9UAY8 / CAGE 0CKD9 SAM 有效；100–250 人；$10–53M；Owner Frank Giotto）坐实；自有标 MC / CWDM + 在卖 Signamax → 对位 ✔ 主区 ✔ 坐实 ✔ 体量 ✔ → P 池候选（冷户，19 推 0 回）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "US · 1 次检索：govtribe.com/vendors/fiber-instrument-sales-inc-dot-0ckd9（UEI H7LXDNB9UAY8；CAGE 0CKD9；SAM Active through Dec 30, 2026；161 Clear Rd Oriskany NY；1985）+ prospeo（$53M；101-200；Frank Giotto Owner；James Fasano Director Strategic Accounts）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://govtribe.com/vendors/fiber-instrument-sales-inc-dot-0ckd9"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Fiber Instrument Sales, Inc.",
+  "reg_no": "UEI H7LXDNB9UAY8 / CAGE 0CKD9（NY 公司号未取）",
+  "status": "Active（SAM.gov 至 2026-12-30）",
+  "incorporated": "1985",
+  "company_type": "Inc.（私营）",
+  "address": "161 Clear Road, Oriskany, NY 13424, US",
+  "size_band": "中型（100–250；$10–53M）",
+  "officers": [
+   "Frank Giotto — Owner（prospeo；无公开邮箱）",
+   "James Fasano — Director, Strategic Accounts（prospeo；无公开邮箱）",
+   "（info@fiberinstrumentsales.com 表内 = 收件人，请转有源产品采购）"
+  ],
+  "psc": "未取",
+  "source": "US · 1 次检索：govtribe.com/vendors/fiber-instrument-sales-inc-dot-0ckd9（UEI H7LXDNB9UAY8；CAGE 0CKD9；SAM Active through Dec 30, 2026；161 Clear Rd Oriskany NY；1985）+ prospeo（$53M；101-200；Frank Giotto Owner；James Fasano Director Strategic Accounts）；2026-10-29",
+  "url": "https://govtribe.com/vendors/fiber-instrument-sales-inc-dot-0ckd9",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "光纤工具 / 无源 / 有源分销 + 自有标制造（FIS 品牌）"
+ ],
+ "channels": {
+  "网站": "https://fiberinstrumentsales.com",
+  "直邮": "info@fiberinstrumentsales.com（表内）"
+ },
+ "signals": [
+  "美国 Fiber Instrument Sales（FIS，大型光纤工具 / 无源分销商，在卖 Signamax 交换机，自有 logo 无源 / MC / CWDM）→ 北美主区 + 分销体量；19 推 0 回 → 闸 2",
+  "表内兴趣：在卖Signamax的switch\n网站无源为主；CWDM；MC FS 工业FS(有signamax的）\n大多数是自己的logo 无源产品"
+ ],
+ "risks": [
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

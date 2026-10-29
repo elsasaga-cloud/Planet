@@ -1,17 +1,58 @@
 {
  "code": "SC-3198",
- "name_official": "techroutes.com",
+ "name_official": "Techroutes Network Private Limited",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "Active（MCA 2026-07）",
  "summary": "C 池三闸捞出（★ 正式）：★ 印度 · 自有品牌 OEM 30%：Techroutes Network Pvt Ltd（Gurgaon；CIN U72200RJ2003PTC018583；2003；实收 ₹2 Cr；营业额 ₹5–25 Cr；自有路由 / 交换 / VoIP 产品线经分销商销售）坐实；自有品牌 ✔ 印度点名国 ✔ 对位 ✔ 决策人具名 ✔ → P 池候选（Simon 曾标 Spam → 可否决）",
- "type": "",
- "size": "",
+ "type": "自有品牌 OEM（闸 2 判定 · 30% 档）",
+ "size": "中型（实收 ₹2 Cr；营业额 ₹5–25 Cr；IEC）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Techroutes Network Private Limited（techroutes.com；**CIN U72200RJ2003PTC018583（现）/ 原 U72900HR2003PTC035992（自 Jaipur 迁 Haryana 再迁）；注册号 35992；2003-09-11 成立；ROC Delhi；授权 / 实收 ₹2 Cr；Sun Tower, 2nd Floor, Main M.G. Road, Sukhrali, Gurgaon 122001；",
+   "quote": "IN · 1 次检索：zaubacorp（CIN / 地址 / MCA 邮箱）+ instafinancials（成立 / 实收 / 前 CIN）+ indiamart（业务 / 营业额 / IEC）；2026-10-29",
+   "url": "https://www.instafinancials.com/company/techroutes-network-private-limited-U72200RJ2003PTC018583",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "印度 Techroutes（techroutes.com；商业 FS + 工业 FS switch；dinesh.rastogi@ / kdeepak@ 两位具名；手机 93000 69633「好像是没加」；Simon 标 Spam）：印度点名国 ✔ 对位 ✔ 决策人具名 ✔ 手机路径 ✔（§5 ≥4 条）→ 闸 2 查底数（MCA 镜像；核是否自有品牌 → oem_target）；Simon 曾标 Spam / 不行 → 可按编号否决",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：★ 印度 · 自有品牌 OEM 30%：Techroutes Network Pvt Ltd（Gurgaon；CIN U72200RJ2003PTC018583；2003；实收 ₹2 Cr；营业额 ₹5–25 Cr；自有路由 / 交换 / VoIP 产品线经分销商销售）坐实；自有品牌 ✔ 印度点名国 ✔ 对位 ✔ 决策人具名 ✔ → P 池候选（Simon 曾标 Spam → 可否决）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "dinesh.rastogi@techroutes.com",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "kdeepak@techroutes.com",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "info@techroutes.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 印度 · 自有品牌 OEM 30%：Techroutes Network Pvt Ltd（Gurgaon；CIN U72200RJ2003PTC018583；2003；实收 ₹2 Cr；营业额 ₹5–25 Cr；自有路由 / 交换 / VoIP 产品线经分销商销售）坐实；自有品牌 ✔ 印度点名国 ✔ 对位 ✔ 决策人具名 ✔ → P 池候选（Simon 曾标 Spam → 可否决）；闸 1：印度 Techroutes（techroutes.com；商业 FS + 工业 FS switch；dinesh.rastogi@ / kdeepak@ 两位具名；手机 93000 69633「好像是没加」；Simon 标 Spam）：印…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +82,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（自有品牌 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +97,60 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 印度 · 自有品牌 OEM 30%：Techroutes Network Pvt Ltd（Gurgaon；CIN U72200RJ2003PTC018583；2003；实收 ₹2 Cr；营业额 ₹5–25 Cr；自有路由 / 交换 / VoIP 产品线经分销商销售）坐实；自有品牌 ✔ 印度点名国 ✔ 对位 ✔ 决策人具名 ✔ → P 池候选（Simon 曾标 Spam → 可否决）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "IN · 1 次检索：zaubacorp（CIN / 地址 / MCA 邮箱）+ instafinancials（成立 / 实收 / 前 CIN）+ indiamart（业务 / 营业额 / IEC）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.instafinancials.com/company/techroutes-network-private-limited-U72200RJ2003PTC018583"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Techroutes Network Private Limited",
+  "reg_no": "U72200RJ2003PTC018583（CIN；原 U72900HR2003PTC035992）",
+  "status": "Active（MCA 2026-07）",
+  "incorporated": "2003-09-11",
+  "company_type": "Private Limited",
+  "address": "Sun Tower, 2nd Floor, Main M.G. Road, Sukhrali, Gurgaon, Haryana 122001",
+  "size_band": "中型（实收 ₹2 Cr；营业额 ₹5–25 Cr；IEC）",
+  "officers": [
+   "Dinesh Rastogi — 表内具名 KP（职务未取）",
+   "K. Deepak — 表内具名 KP（职务未取）"
+  ],
+  "psc": "未取",
+  "source": "IN · 1 次检索：zaubacorp（CIN / 地址 / MCA 邮箱）+ instafinancials（成立 / 实收 / 前 CIN）+ indiamart（业务 / 营业额 / IEC）；2026-10-29",
+  "url": "https://www.instafinancials.com/company/techroutes-network-private-limited-U72200RJ2003PTC018583",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "自有品牌网络设备（路由 / 交换 / VoIP）+ 分销网络（古尔冈）"
+ ],
+ "channels": {
+  "网站": "https://techroutes.com",
+  "直邮": "dinesh.rastogi@techroutes.com，kdeepak@techroutes.com，info@techroutes.com（表内）"
+ },
+ "signals": [
+  "印度 Techroutes（techroutes.com；商业 FS + 工业 FS switch；dinesh.rastogi@ / kdeepak@ 两位具名；手机 93000 69633「好像是没加」；Simon 标 Spam）：印度点名国 ✔ 对位 ✔ 决策人具名 ✔ 手机路径 ✔（§5 ≥4 条）→ 闸 2 查底数（MCA 镜像；核是否自有品牌 → oem_target）；Simon 曾",
+  "表内兴趣：商业FS；工业FS switch\n93000 69633 好i像是没加"
+ ],
+ "risks": [
+  "**印度 · 自有品牌 OEM 30%：点名 Dinesh Rastogi 一页纸一次（STC-228GP $33 / STC-2224GP $86 / STC-4424GCPM $165 + STI-288GPM 工业线 中性包装 + 贴 Techroutes 牌 + MOQ 1 + 付费样机）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（自有品牌 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

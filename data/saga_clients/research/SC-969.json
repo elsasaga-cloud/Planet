@@ -1,17 +1,58 @@
 {
  "code": "SC-969",
- "name_official": "trueview.co.in",
+ "name_official": "TrueView",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "域名 trueview.co.in（官网快照待 Actions 补抓）",
  "summary": "C 池三闸捞出（△ 观察）：闸 2 回 C：TrueView（trueview.co.in）1 查仅同名两户（True View Technologies Delhi 2008 / TrueView Corporate Mumbai 2022）域名归属未证 → 未坐实 → 回 C 储备（具名 KP manish@ / rupesh.bagde@ 在，来信再起则补查 CIN）",
- "type": "",
- "size": "",
+ "type": "/ IFPD / 数字标牌 OEM（闸 2 判定 · 30% 档）",
+ "size": "未知（疑 54 人）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "TrueView（trueview.co.in；**1 查仅得同名：True View Technologies Private Limited（CIN U74999MR2008PTC475132；L-305-A, Dua Complex, Shakarpur, East Delhi 110092；2008-06-04；54 人（2025-08）；FY25 <₹10 Cr）/ TrueView Corporate Services（Mumbai 2022）— trueview",
+   "quote": "IN · 1 次检索：tracxn 同名两户（Delhi 2008 / Mumbai 2022）→ 域名未对上；2026-10-29",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "印度 TrueView（trueview.co.in；自有品牌 CCTV + 商业 PoE「同行的」，有人卖他们的设备）：自有品牌 = OEM 对象 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：△ 印度 · 自有品牌 CCTV / IFPD / 数字标牌 OEM 30%（观察）：Trueview（2011 起；Plot A-114/6 Five Star Shendra MIDC + Plot 56 AURIC，Chhatrapati Sambhajinagar/Aurangabad；+91 92255 50000；自称 India's No 1 CCTV & display brand…；备注：reg_pending 不影响留 B（品牌 + 厂址 + 电话坐实）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "manish@trueview.co.in",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "rupesh.bagde@trueview.co.in",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "care@trueview.co.in",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：闸 2 回 C：TrueView（trueview.co.in）1 查仅同名两户（True View Technologies Delhi 2008 / TrueView Corporate Mumbai 2022）域名归属未证 → 未坐实 → 回 C 储备（具名 KP manish@ / rupesh.bagde@ 在，来信再起则补查 CIN）；闸 1：印度 TrueView（trueview.co.in；自有品牌 CCTV + 商业 PoE「同行的」，有人卖他们的设备）：自有品牌 = OEM 对象 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +82,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（/ IFPD / 数字标牌 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +97,61 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "闸 2 回 C：TrueView（trueview.co.in）1 查仅同名两户（True View Technologies Delhi 2008 / TrueView Corporate Mumbai 2022）域名归属未证 → 未坐实 → 回 C 储备（具名 KP manish@ / rupesh.bagde@ 在，来信再起则补查 CIN）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "IN · 1 次检索：tracxn 同名两户（Delhi 2008 / Mumbai 2022）→ 域名未对上；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": ""
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "TrueView",
+  "reg_no": "未取（疑似 CIN U74999MR2008PTC475132 未证，不采）",
+  "status": "未坐实",
+  "incorporated": "未取",
+  "company_type": "未取",
+  "address": "未取（疑 Shakarpur, East Delhi）",
+  "size_band": "未知（疑 54 人）",
+  "officers": [
+   "Manish — （表内具名邮箱）",
+   "Rupesh Bagde — （表内具名邮箱）"
+  ],
+  "psc": "未取",
+  "source": "IN · 1 次检索：tracxn 同名两户（Delhi 2008 / Mumbai 2022）→ 域名未对上；2026-10-29",
+  "url": "",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "CCTV 自有品牌（印度，待证）"
+ ],
+ "channels": {
+  "网站": "https://trueview.co.in",
+  "直邮": "manish@trueview.co.in，rupesh.bagde@trueview.co.in，care@trueview.co.in（表内）"
+ },
+ "signals": [
+  "印度 TrueView（trueview.co.in；自有品牌 CCTV + 商业 PoE「同行的」，有人卖他们的设备）：自有品牌 = OEM 对象 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先",
+  "表内兴趣：商业PoE 同行的；商业POE CCTV 其他产品\n有人卖他们的设备"
+ ],
+ "risks": [
+  "**未坐实 → 回 C 储备；具名 KP 在 → 来信再起则补查 CIN + OEM 30% + 预付 100%**— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST",
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（/ IFPD / 数字标牌 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

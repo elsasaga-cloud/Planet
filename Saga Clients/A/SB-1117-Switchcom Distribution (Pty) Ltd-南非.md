@@ -2,7 +2,7 @@
 
 > **评级 A**　|　南非　|　档案编号 `SB-1117`　|　优先级 ★★★　|　状态：名单内·未触达
 >
-> **类型**：网络设备分销商（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：补录、S邮箱回复、分销商、未入正题　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：网络设备分销商（ICT 分销：无线 / 网络 / VoIP / 监控 / 光纤；服务 reseller / installer / ISP / WISP / 终端；Shopify 网店）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：补录、S邮箱回复、分销商、未入正题　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-1117
@@ -14,7 +14,7 @@ score: 31
 country: 南非
 region: 非洲
 website: switchcom.co.za
-type: 网络设备分销商
+type: 网络设备分销商（ICT 分销：无线 / 网络 / VoIP / 监控 / 光纤；服务 reseller / installer / ISP / WISP / 终端；Shopify 网店）
 tier_tags: ["补录", "S邮箱回复", "分销商", "未入正题"]
 deal: no
 replies: 0
@@ -93,7 +93,7 @@ updated: 2026-10-29
 | 名称 | Switchcom Distribution (Pty) Ltd | 事实（用户表） |
 | 国家 | 南非 | 事实（用户表）|
 | 网站/域名 | switchcom.co.za | 事实（用户表 URL/邮箱域名） |
-| 类型 | 网络设备分销商 | 推断（据兴趣/备注关键词） |
+| 类型 | 网络设备分销商（ICT 分销：无线 / 网络 / VoIP / 监控 / 光纤；服务 reseller / installer / ISP / WISP / 终端；Shopify 网店） | 推断（据兴趣/备注关键词） |
 | 联系人 | Kevin Maphanga | 事实（用户表） |
 | 来源（From） | 补录：S 邮箱双向往来但不在 Clients/ 表（T29-U10 复盘发现） | 事实（用户表） |
 | 兴趣（Interested in） | Simon 推过 10G 媒体转换器（2024-07）、52 口 L2+ PoE（2024-12）；对方两次都以「销售报价」回应（把 Saga 当买家） | 事实（用户表） |
@@ -104,20 +104,38 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-22）**　网站状态：未核（本轮只用 S 邮箱证据）
+- **状态：已调研（2026-10-22）**　网站状态：在线（Shopify 网店 www.switchcom.co.za；2026-10-29 实查）
 - **是谁**：南非网络设备分销商（销售台 sales@ + 客户经理 Kevin Maphanga）。Simon 2024-07 推 10G 媒体转换器、2024-12 推 52 口 L2+ PoE，对方两次都把 Saga 当买家：自动回复「Kevin received your request…」并于 2024-12-12 发来其自家报价单 Quotation QU509692.PDF——没有进入采购对话。S 邮箱 10 封（2024-07-07 → 2024-12-12）。
-- **类型**：网络设备分销商
+- **类型**：网络设备分销商（ICT 分销：无线 / 网络 / VoIP / 监控 / 光纤；服务 reseller / installer / ISP / WISP / 终端；Shopify 网店）
 - **规模**：中（有销售台 + 多客户经理）
+- **在卖/在用品牌**：ALGcom, Cambium Networks, Extralink, Fanvil, Hikvision, Huawei eKit, Mercusys, MikroTik, Siklu, TP-Link, Tenda, Ubiquiti
 - **【email】销售台把 Simon 当询价客户**
   > Kevin received your request and is currently working diligently to provide you with pricing. Please be assured that your request is a top priority for us
   > 来源：data/gmail_s/messages/2024/2024-07.jsonl（from sales@switchcom.co.za）（抓取 2024-07-08）
 - **【email】客户经理发来自家报价单（方向反了）**
   > Please see the attached sales quote above on what we can offer and stock is available.（附 Quotation QU509692.PDF）Kevin Maphanga, Account Manager, Office: +27(0)10 007 2555
   > 来源：data/gmail_s/messages/2024/2024-12.jsonl（抓取 2024-12-12）
+- **【LT-T02 官网实查】2015 年创立的 ICT 分销商；无线 / 网络 / VoIP / 监控 / 光纤五条线；客户 = reseller / installer / ISP / WISP / 终端；bulk purchasing + price match**
+  > Switchcom Distribution is a dynamic and innovative ICT distributor founded in 2015 … Wireless, Networking, VoIP, Surveillance and Fibre sectors … sales, distribution, technical support and financing for resellers, installers, ISPs, WISPs and end users. Our product portfolio consists of top international brands such as Cambium Networks, Hikvision, MikroTik, Ubiquiti and more.
+  > 来源：https://www.switchcom.co.za/（抓取 2026-10-29）
 - **KP**：Kevin Maphanga（Account Manager（销售侧，非采购；研究档）— 一页纸一次收件 sales@ Attn: Procurement / Product Manager、抄 Kevin：分销 20% B、渠道 / 贴标角度 STC-2224GP / STC-4424GCPM / STI-154GP 一口价 + MOQ 1 + 付费样机 — 南非常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 约堡、ICASA / NRCS 不声称（第 120 批 官方登记核实 2026-10-29））kevin@switchcom.co.za +27 (0)10 007 2555〔S 邮箱签名〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来
-- 备注：分销商的采购/品类经理才是对的人；现有联系人是销售。南非不在 Planet 仓重点区域，但 Saga Clients 全域覆盖：慢慢跟，换「渠道/贴牌」角度找品类负责人再发。
+- 备注：LT-T02 官网实查（2026-10-29）：见 evidence「LT-T02 官网实查」。
+分销商的采购/品类经理才是对的人；现有联系人是销售。南非不在 Planet 仓重点区域，但 Saga Clients 全域覆盖：慢慢跟，换「渠道/贴牌」角度找品类负责人再发。
 
+### 加厚挖掘（2026-10-29 · 邮件证据 + 官网实查 v1（LT-T02））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Switchcom Distribution (Pty) Ltd（注册号 2015/334722/07，官网 T&C 自列） |
+| 成立 | 2015（第 120 批 官方登记核实 2026-10-29） |
+| 总部/地址 | 49 Galaxy Avenue, Linbro Business Park, Sandton 2090, Gauteng（另址 Randview Business Park, 1 Avon Rd, Ferndale, Randburg 2194）（第 120 批 官方登记核实 2026-10-29） |
+| 其他 | 第 120 批：多品牌 ICT 分销（Cambium / Hikvision / MikroTik / Ubiquiti）；坐实（注册号 + 注册地址）（第 120 批 官方登记核实 2026-10-29） |
+
+- **近况信号**：
+  - 官网首页品牌墙：Huawei eKit / Siklu / ALGcom / MikroTik / Fanvil / Ubiquiti / TP-Link / Extralink / Hikvision / Mercusys / Tenda + 自有配件线「Switchcom Distribution」（2026-10-29）→ 走量分销 + 自有配件标 = 20% 档 + 贴牌话题可谈
+  - Best sellers 全是 Ubiquiti airMAX CPE（WISP 客群）→ 对位 = WISP 汇聚 PoE（STC-228GP / STC-2224GP）而不是企业核心
+- **Saga 对位结论**：P1 STC-424DGGPM-280W（20% 档）——分销商 → 20% 档；走量口型 24 口 PoE
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -182,7 +200,7 @@ updated: 2026-10-29
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 深挖对位：分销商 → 20% 档；走量口型 24 口 PoE | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（网络设备分销商） |
+| **P1** | STC-424DGGPM-280W | 深挖对位：分销商 → 20% 档；走量口型 24 口 PoE | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（网络设备分销商（ICT 分销：无线 / 网络 / VoIP / 监控 / 光纤；服务 reseller / installer / ISP / WISP / 终端；Shopify 网店）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：20% 档 $139.9 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $181.2——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |

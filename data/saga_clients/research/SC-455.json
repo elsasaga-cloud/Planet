@@ -1,17 +1,46 @@
 {
  "code": "SC-455",
- "name_official": "ags-electronics.com",
+ "name_official": "AGS Electronics",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（目录 2026）",
  "summary": "C 池三闸捞出（△ 观察）：△ 观察档 · 分销 20%：AGS Electronics（ags-electronics.com；ZoomInfo 载 Albuquerque NM 美国 11–50 人）国别存疑（表内韩国 → 疑美国，待 Simon 核）+ 法人未取 → 部分坐实；进口台湾工业线 ✔ 对位 ✔ → 入池观察档（若美国 = 主区 ✔）",
- "type": "",
- "size": "",
+ "type": "分销（闸 2 判定 · 20% 档）",
+ "size": "小型（11–50 人）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "AGS Electronics（ags-electronics.com；**1 查 ZoomInfo：AGS-Electronics, 6565 Americas Pkwy NE Ste 200, Albuquerque, NM（美国）；(505) 550-6501；11–50 人；<$5M；电子制造 — 表内「韩国」与检索结果国别不一致 → 国别存疑（KR → US 待核）；韩国法人未取**）；表内：Atop 工业交换机经销，sales@ 公共邮箱",
+   "quote": "KR/US · 1 次检索：zoominfo.com/c/ags-electronics-inc/368409713（域名对上但落美国）；韩国 사업자 未取；2026-10-29",
+   "url": "https://www.zoominfo.com/c/ags-electronics-inc/368409713",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "韩国 AGS Electronics（ags-electronics.com；在售 Atop 台湾工业交换机）：进口台湾同类 ✔ 对位 ✔ Simon 点名韩国；未触达 → 闸 2 查底数（bizno）；低优先",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：△ 观察档 · 分销 20%：AGS Electronics（ags-electronics.com；ZoomInfo 载 Albuquerque NM 美国 11–50 人）国别存疑（表内韩国 → 疑美国，待 Simon 核）+ 法人未取 → 部分坐实；进口台湾工业线 ✔ 对位 ✔ → 入池观察档（若美国 = 主区 ✔）；备注：国别存疑（表内韩国 / ZoomInfo 美国）→ country_pending；进口台湾工业线 = 行业内",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "sales@ags-electronics.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · 分销 20%：AGS Electronics（ags-electronics.com；ZoomInfo 载 Albuquerque NM 美国 11–50 人）国别存疑（表内韩国 → 疑美国，待 Simon 核）+ 法人未取 → 部分坐实；进口台湾工业线 ✔ 对位 ✔ → 入池观察档（若美国 = 主区 ✔）；闸 1：韩国 AGS Electronics（ags-electronics.com；在售 Atop 台湾工业交换机）：进口台湾同类 ✔ 对位 ✔ Simon 点名韩国；未触达 → 闸 2 查底数（bizno）；低优先",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +70,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +85,60 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "△ 观察档 · 分销 20%：AGS Electronics（ags-electronics.com；ZoomInfo 载 Albuquerque NM 美国 11–50 人）国别存疑（表内韩国 → 疑美国，待 Simon 核）+ 法人未取 → 部分坐实；进口台湾工业线 ✔ 对位 ✔ → 入池观察档（若美国 = 主区 ✔）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "KR/US · 1 次检索：zoominfo.com/c/ags-electronics-inc/368409713（域名对上但落美国）；韩国 사업자 未取；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.zoominfo.com/c/ags-electronics-inc/368409713"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "AGS Electronics",
+  "reg_no": "未取（国别待核）",
+  "status": "营业中（目录 2026）",
+  "incorporated": "未取",
+  "company_type": "未取",
+  "address": "6565 Americas Pkwy NE Ste 200, Albuquerque, NM（ZoomInfo，待核）",
+  "size_band": "小型（11–50 人）",
+  "officers": [
+   "（具名 KP 未取）"
+  ],
+  "psc": "未取",
+  "source": "KR/US · 1 次检索：zoominfo.com/c/ags-electronics-inc/368409713（域名对上但落美国）；韩国 사업자 未取；2026-10-29",
+  "url": "https://www.zoominfo.com/c/ags-electronics-inc/368409713",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "工业网络 / 电子（国别存疑：韩国表内 / 美国检索）"
+ ],
+ "channels": {
+  "网站": "https://ags-electronics.com",
+  "直邮": "sales@ags-electronics.com（表内）"
+ },
+ "signals": [
+  "韩国 AGS Electronics（ags-electronics.com；在售 Atop 台湾工业交换机）：进口台湾同类 ✔ 对位 ✔ Simon 点名韩国；未触达 → 闸 2 查底数（bizno）；低优先",
+  "表内兴趣：Atop 台湾一个牌子的switch"
+ ],
+ "risks": [
+  "**国别待核：若美国 = 主区 ✔ → 分销 20% 一页纸（STI-280GE / STI-288GPM 工业线 + MOQ 1；Atop 不点名）；若韩国 → 常规 + 无 KC**— 其他区常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP 买方清关；周二 / 周四 当地 10–12",
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

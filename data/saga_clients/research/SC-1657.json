@@ -1,17 +1,46 @@
 {
  "code": "SC-1657",
- "name_official": "San Telequip Pvt. Ltd.",
+ "name_official": "San Telequip Private Limited",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "Active（年报 2023-03-31）",
  "summary": "C 池三闸捞出（○ 正式）：○ 印度 · 工业自动化渠道 25%：San Telequip Private Limited（Pune；CIN U32202PN1992PTC065720；1992；≈ 32 人；董事 Gokhale / Joshi）坐实；印度先例 ✔ 工业渠道对位 ✔ 主动问 5 / 8 电口价 ✔ → P 池候选",
- "type": "",
- "size": "",
+ "type": "工业自动化渠道（闸 2 判定 · 25% 档）",
+ "size": "小型（≈ 32 人）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "San Telequip Private Limited（santelequip.com；**CIN U32202PN1992PTC065720；ROC Pune；1992-03-04 成立；NIC 3220 通信设备制造；实缴 ₹1.11 M；约 32 人；董事 Leena Anant Gokhale / Nitin Shreekant Joshi / Hemant Laxman Joshi（增补）；最近年报 2023-03-31**）；表内：Chetan Kamdi，gm",
+   "quote": "IN · 1 次检索：zaubacorp（CIN / 董事 / NIC）+ thecompanycheck（成立 / 实缴 / 人数 / 年报）；2026-10-29",
+   "url": "https://www.zaubacorp.com/SAN-TELEQUIP-PRIVATE-LIMITED-U32202PN1992PTC065720",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "印度 San Telequip Pvt. Ltd.（santelequip.com 正常；Chetan Kamdi，gmail；Profibus Connectors 商，主动问了 5 / 8 电口的价格 ✔）：印度先例 ✔ 工业自动化渠道对位 ✔ 主动问价 ✔ 公司坐实路径 ✔ → 闸 2 查底数（MCA 镜像 zaubacorp / tofler）后报 STI-054GP / STC-028GP",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：○ 印度 · 工业自动化渠道 25%：San Telequip Private Limited（Pune；CIN U32202PN1992PTC065720；1992；≈ 32 人；董事 Gokhale / Joshi）坐实；印度先例 ✔ 工业渠道对位 ✔ 主动问 5 / 8 电口价 ✔ → P 池候选",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "cgkamdi@gmail.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 印度 · 工业自动化渠道 25%：San Telequip Private Limited（Pune；CIN U32202PN1992PTC065720；1992；≈ 32 人；董事 Gokhale / Joshi）坐实；印度先例 ✔ 工业渠道对位 ✔ 主动问 5 / 8 电口价 ✔ → P 池候选；闸 1：印度 San Telequip Pvt. Ltd.（santelequip.com 正常；Chetan Kamdi，gmail；Profibus Connectors 商，主动问了 5 / 8 电口的价格 ✔）：印度先例 ✔ 工业自动化渠…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +70,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STI-288GPM",
+   "why": "默认对位（工业自动化渠道 · 25% 档）：工业 / 项目集成起手：DIN 导轨 8 GE PoE + 2 SFP 管理型（25% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +85,58 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 印度 · 工业自动化渠道 25%：San Telequip Private Limited（Pune；CIN U32202PN1992PTC065720；1992；≈ 32 人；董事 Gokhale / Joshi）坐实；印度先例 ✔ 工业渠道对位 ✔ 主动问 5 / 8 电口价 ✔ → P 池候选",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "IN · 1 次检索：zaubacorp（CIN / 董事 / NIC）+ thecompanycheck（成立 / 实缴 / 人数 / 年报）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.zaubacorp.com/SAN-TELEQUIP-PRIVATE-LIMITED-U32202PN1992PTC065720"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "San Telequip Private Limited",
+  "reg_no": "U32202PN1992PTC065720（CIN）",
+  "status": "Active（年报 2023-03-31）",
+  "incorporated": "1992-03-04",
+  "company_type": "Private Limited",
+  "address": "Pune, Maharashtra（注册地址见 MCA）",
+  "size_band": "小型（≈ 32 人）",
+  "officers": [
+   "Leena Anant Gokhale — Director",
+   "Nitin Shreekant Joshi — Director",
+   "Chetan Kamdi — 表内联系人"
+  ],
+  "psc": "未取",
+  "source": "IN · 1 次检索：zaubacorp（CIN / 董事 / NIC）+ thecompanycheck（成立 / 实缴 / 人数 / 年报）；2026-10-29",
+  "url": "https://www.zaubacorp.com/SAN-TELEQUIP-PRIVATE-LIMITED-U32202PN1992PTC065720",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "工业通信 / 现场总线连接器制造与分销（浦那）"
+ ],
+ "channels": {
+  "网站": "https://santelequip.com",
+  "直邮": "cgkamdi@gmail.com（表内）"
+ },
+ "signals": [
+  "印度 San Telequip Pvt. Ltd.（santelequip.com 正常；Chetan Kamdi，gmail；Profibus Connectors 商，主动问了 5 / 8 电口的价格 ✔）：印度先例 ✔ 工业自动化渠道对位 ✔ 主动问价 ✔ 公司坐实路径 ✔ → 闸 2 查底数（MCA 镜像 zaubacorp / tofler）后报 STI-054GP / STC-028G",
+  "表内兴趣：Profibus Connectors\n主动问了5 8电口的价格"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 25,
+  "why": "默认对位（工业自动化渠道 · 25% 档）：工业 / 项目集成起手：DIN 导轨 8 GE PoE + 2 SFP 管理型（25% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

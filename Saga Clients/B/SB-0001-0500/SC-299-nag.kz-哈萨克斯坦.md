@@ -1,10 +1,11 @@
 # nag.kz
+**官方名称（调研核实）**：ТОО «NAG KAZAKHSTAN (НАГ Казахстан)» — nag.kz
 
 > **评级 B**　|　哈萨克斯坦　|　档案编号 `SC-299`　|　优先级 ★★　|　状态：已推送 16 次·未回复
 >
 > **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ★）：★ 自有品牌 SNR · OEM 30%：ТОО «NAG KAZAKHSTAN»（Алматы, пр. Жибек Жолы 135；БИН 191040001403；2019；Евразийский банк USD / EUR 账户，代理行 Raiffeisen Vienna；NAG / SNR 集团哈萨克子公司）坐实；自有品牌 ✔ 中国直采 ✔ 对位 ✔ 坐实 ✔ → P 池候选（外币账户 = 俄语区收款路径线索，供 Simon 参考）　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）、oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 16 次（2024-07-11 → 2025-10-22）　|　**所在清单**：A优质名单(俄语国家)、AI评估(俄语国家)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：OEM（闸 2 判定 · 30% 档）（推断）　|　**历史关系**：推送 16 次（2024-07-11 → 2025-10-22）　|　**所在清单**：A优质名单(俄语国家)、AI评估(俄语国家)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-299
@@ -12,12 +13,12 @@ rating: B
 rating_auto: C
 sieve: pool  # 闸 3 P1 2026-10-29
 rating_research: B  # Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 自有品牌 S
-name_official: "nag.kz"
+name_official: "ТОО «NAG KAZAKHSTAN (НАГ Казахстан)» — nag.kz"
 score: 24
 country: 哈萨克斯坦
 region: 俄语区
 website: nag.kz
-type: 经销/集成（类型待核）
+type: OEM（闸 2 判定 · 30% 档）
 tier_tags: ["A优质名单(俄语国家)", "AI评估(俄语国家)·DONE"]
 deal: no
 replies: 0
@@ -25,8 +26,8 @@ followups: 16
 first_contact: 2024-07-11
 last_contact: 2025-10-22
 s_mail: 26 msgs (out 26 / in 0), 2024-07-11 -> 2026-10-07
-p1: STI-110GE
-price_tier: 20%
+p1: STC-424XGGPM-280W
+price_tier: 30%
 research: done
 site_snapshot: none
 sources: 2
@@ -38,7 +39,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（★ 正式）：★ 自有品牌 SNR · OEM 30%：ТОО «NAG KAZAKHSTAN»（Алматы, пр. Жибек Жолы 135；БИН 191040001403；2019；Евразийский банк USD / EUR 账户，代理行 Raiffeisen Vienna；NAG / SNR 集团哈萨克子公司）坐实；自有品牌 ✔ 中国直采 ✔ 对位 ✔ 坐实 ✔ → P 池候选（外币账户 = 俄语区收款路径线索，供 Sim…（调研 2026-10-29；表内兴趣：从国内买CWDM模块 Switch SFP MC等）
 - **为什么是 B 级**：**调研后定级 B**（Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 自有品牌 SNR · OEM 30%：ТОО «NAG KAZAKHSTAN»（Алматы, пр. Жибек Жолы 135；БИН 191040001403；2019；Евразийский банк USD / EUR 账户，代理行 Raiffeisen Vienna；NAG / SNR 集团哈萨克子公司）坐实；自有品牌 ✔ 中国直采 ✔ 对位 ✔ 坐实 ✔ → P 池候选（外币…；闸 1：哈萨克斯坦 NAG（nag.kz；NAG / SNR 集团自有品牌，表内「从国内买 CWDM 模块 / Switch / SFP / MC 等」= 自有品牌 + 从中国直采）：自有品牌 ✔ 进口中国同类 ✔ 对位 ✔，群发 16 次 0 …）；自动分级 C：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/哈萨克斯坦；+5 最近活动 2025；-16 推送 16 次无任何回复（聋名单）
 - **历史互动**：推送 16 次（2024-07-11 → 2025-10-22）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STI-110GE — 待复核后按业务线定首推型号；
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-424XGGPM-280W — 默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）；
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动：LT-01 复核（待过）后再定 — 长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
@@ -51,12 +52,13 @@ updated: 2026-10-29
 - **现状一句话**：C 池三闸捞出 → B（LT-01）：★ 自有品牌 SNR · OEM 30%：ТОО «NAG KAZAKHSTAN»（Алматы, пр. Жибек Жолы 135；БИН 191040001403；2019；Евразийский банк USD / EUR 账户，代理行 Raiffeisen Vienna；NAG / SNR 集团哈萨克子公司）坐实；自有品牌 ✔ 中国直采 ✔ 对位 ✔ 坐实 ✔ → P 池候选（外币…
 - **对方真实需求（有据）**：未知（无往来；复核时从官网 / 进口数据 / 项目推断）
 - **断点 / 为什么停在这里**：无往来（从未触达或仅群发无回）
-- **Saga 现在该推什么**：P1 ****（% 档，价见价格主表）——待复核后按业务线定首推型号
+- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（% 档，价见价格主表）——默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
 - **下一步（具体）**：不动：LT-01 复核（待过）后再定　—　长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ★ 自有品牌 SNR · OEM 30%：ТОО «NAG KAZAKHSTAN»（Алматы, пр. Жибек Жолы 135；БИН 191040001403；2019；Евразийский банк USD / EUR 账户，代理行 Raiffeisen Vienna；NAG / SNR 集团哈萨克子公司）坐实；自有品牌 ✔ 中国直采 ✔ 对位 ✔ 坐实 ✔ → P 池候选（外币账户 = 俄语区收款路径线索，供 Simon 参考） | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
+| 2026-10-29 | 查 | Agent 登记底数（registry） | KZ · 1 次检索：shop.nag.kz/article/bank（法人 / БИН / 地址 / 外币账户）+ shop.nag.kz/payment（品牌线）+ ets-tender.kz（БИН / 地址）；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -90,7 +92,7 @@ updated: 2026-10-29
 | 名称 | nag.kz（取自域名，公司全名待核） | 推断 |
 | 国家 | 哈萨克斯坦 | 事实（用户表）|
 | 网站/域名 | nag.kz | 事实（用户表 URL/邮箱域名） |
-| 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
+| 类型 | OEM（闸 2 判定 · 30% 档） | 推断（据兴趣/备注关键词） |
 | 联系人 | Roman Yakimchuk / Lead Product Manager / Danil Pak / Project Manager | 事实（用户表） |
 | 来源（From） | 富通天下 | 事实（用户表） |
 | 兴趣（Interested in） | 从国内买CWDM模块<br>Switch SFP MC等 | 事实（用户表） |
@@ -110,11 +112,38 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-29）**　网站状态：
+- **状态：已调研（2026-10-29）**　网站状态：营业中（商城 2026）
 - **是谁**：C 池三闸捞出（★ 正式）：★ 自有品牌 SNR · OEM 30%：ТОО «NAG KAZAKHSTAN»（Алматы, пр. Жибек Жолы 135；БИН 191040001403；2019；Евразийский банк USD / EUR 账户，代理行 Raiffeisen Vienna；NAG / SNR 集团哈萨克子公司）坐实；自有品牌 ✔ 中国直采 ✔ 对位 ✔ 坐实 ✔ → P 池候选（外币账户 = 俄语区收款路径线索，供 Sim…
+- **类型**：OEM（闸 2 判定 · 30% 档）
+- **规模**：中型（集团大型）
+- **在卖/在用品牌**：Ubiquiti, MikroTik, Teltonika
+- **【登记底数 / 官网（闸 2 坐实）】ТОО «NAG KAZAKHSTAN (НАГ Казахстан)» — nag.kz（**shop.nag.kz 银行信息页 + ets-tender：БИН 191040001403；050000 Алматы, Алмалинский р-н, пр. Жибек Жолы 135, 6 эт., оф. 2061（ets 载 ул. Панфилова 98）；Евразийский банк USD / EUR 账户（代理行 Raiffeisen Bank In**
+  > KZ · 1 次检索：shop.nag.kz/article/bank（法人 / БИН / 地址 / 外币账户）+ shop.nag.kz/payment（品牌线）+ ets-tender.kz（БИН / 地址）；2026-10-29
+  > 来源：https://shop.nag.kz/article/bank（抓取 2026-10-29）
+- **【闸 1 对位】哈萨克斯坦 NAG（nag.kz；NAG / SNR 集团自有品牌，表内「从国内买 CWDM 模块 / Switch / SFP / MC 等」= 自有品牌 + 从中国直采）：自有品牌 ✔ 进口中国同类 ✔ 对位 ✔，群发 16 次 0 回 → 闸 2 查底数；俄语区收款待定，低优先**
+  > 来源：（抓取 2026-10-29）
+- **【长期群复核 LT-R03】桌面复核（闸 2 证据，三问成立）：★ 自有品牌 SNR · OEM 30%：ТОО «NAG KAZAKHSTAN»（Алматы, пр. Жибек Жолы 135；БИН 191040001403；2019；Евразийский банк USD / EUR 账户，代理行 Raiffeisen Vienna；NAG / SNR 集团哈萨克子公司）坐实；自有品牌 ✔ 中国直采 ✔ 对位 ✔ 坐实 ✔ → P 池候选（外币账…**
+  > 来源：（抓取 2026-10-29）
+- **KP**：—（表内邮箱（公开 / 总机））sales@nag.kz 〔〕
+- **KP**：—（表内邮箱（公开 / 总机））r.yakimchuk@nag.kz 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 自有品牌 SNR · OEM 30%：ТОО «NAG KAZAKHSTAN»（Алматы, пр. Жибек Жолы 135；БИН 191040001403；2019；Евразийский банк USD / EUR 账户，代理行 Raiffeisen Vienna；NAG / SNR 集团哈萨克子公司）坐实；自有品牌 ✔ 中国直采 ✔ 对位 ✔ 坐实 ✔ → P 池候选（外币…；闸 1：哈萨克斯坦 NAG（nag.kz；NAG / SNR 集团自有品牌，表内「从国内买 CWDM 模块 / Switch / SFP / MC 等」= 自有品牌 + 从中国直采）：自有品牌 ✔ 进口中国同类 ✔ 对位 ✔，群发 16 次 0 …
-- 备注：（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
+- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | ТОО «NAG KAZAKHSTAN (НАГ Казахстан)» — nag.kz |
+
+- **业务线**：网络设备分销 + 自有品牌 SNR（阿拉木图；NAG 集团）
+- **触达通道（公开）**：网站: https://nag.kz；直邮: sales@nag.kz，r.yakimchuk@nag.kz（表内）
+- **近况信号**：
+  - 哈萨克斯坦 NAG（nag.kz；NAG / SNR 集团自有品牌，表内「从国内买 CWDM 模块 / Switch / SFP / MC 等」= 自有品牌 + 从中国直采）：自有品牌 ✔ 进口中国同类 ✔ 对位 ✔，群发 16 次 0 回 → 闸 2 查底数；俄语区收款待定，低优先
+  - 表内兴趣：从国内买CWDM模块
+Switch SFP MC等
+- **风险/边界**：**SNR 自有品牌从中国直采 → OEM 30%（集团采购在俄 Екатеринбург，哈萨克子公司 = 可能的收款路径：有 USD / EUR 账户）：一页纸一次（STC-228GP / STC-2224GP / STI-288GPM 贴牌 + 光模块走本职线 + MOQ 1）— 预付 100%，路径待 Simon 定**
+- **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -187,6 +216,8 @@ updated: 2026-10-29
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| — | 表内邮箱（公开 / 总机） | sales@nag.kz | 调研核实（公开页） | 调研 |
+| — | 表内邮箱（公开 / 总机） | r.yakimchuk@nag.kz | 调研核实（公开页） | 调研 |
 | Roman Yakimchuk | — | sales@nag.kz / r.yakimchuk@nag.kz | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：邮件已推送 16 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
@@ -204,28 +235,27 @@ updated: 2026-10-29
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 工业迷你 1 光 1 电（MC 位） | $22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：20% 档 $139.9 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $181.2——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-424XGGPM-280W | 深挖对位：默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档） | $180 USD EXW（㉕ ② 群发现价（群发价台账），30% 档公式为 $196.3——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（OEM（闸 2 判定 · 30% 档）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：30% 档 $151.6 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-110GE），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-110GE 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424XGGPM-280W 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
 
-- **S**：名单内已有联系记录，不是零起点
+- **S**：自有品牌/贴牌需求 = 现成 OEM 客户
 - **W**：已推送 16 次无回复，邮件通道疲劳；俄语区：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STI-110GE 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STC-424XGGPM-280W 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；规模（调研）：中型（集团大型）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -253,14 +283,14 @@ updated: 2026-10-29
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-110GE - industrial mini Gigabit media converter (neutral label)
+**主题**：STC-424XGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
 
 ```text
 Hi Roman,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
 
-We supply an industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $22.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGPM-280W - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $180 USD EXW (MOQ 1, 15-day validity).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

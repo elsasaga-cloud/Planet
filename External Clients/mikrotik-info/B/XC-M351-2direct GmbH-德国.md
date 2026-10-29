@@ -1,11 +1,12 @@
 # XC-M351 · 2direct GmbH · 德国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：与 Saga SC-161 同一公司 → 随主档等级 B（复核随主档，不单列）） ｜ 来源 mikrotik-info `DOC-02`（原评级 -） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：与 Saga SC-161 同一公司 → 随主档等级 B（复核随主档，不单列）） ｜ 来源 mikrotik-info `DOC-02`（原评级 -） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T01 2026-10-29）→ 下一动作 不动
 >
 > **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★★ P 池 · 正式入池**（随 Saga `SC-161`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-161 同一公司（经 2direct.de）→ 随 Saga 档：pool（闸 3，★ P 池正式入池（档位 ★★）：★★ 首选 · OEM 30%：2direct GmbH（LogiLink；2001；Schalksmühle；5,000+ SKU、14,000 经销商、12 国；OEM 方案为副业）部分坐实；KP gr）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-161，经 2direct.de）→ 以 Saga 档为准，本条不单独跟
+- 研究后改级：XC → **XB**（LT-T01，Q-76 LT-01 2026-10-29：与 Saga SC-161 同一公司 → 随主档等级 B（复核随主档，不单列））；编号不变
 - 人工改级：XB（2026-10-29，Q-76 LT-01 2026-10-29：与 Saga SC-161 同一公司 → 随主档等级 B（复核随主档，不单列））；编号不变
 - 标记：OEM品牌商、域名待核、无可用邮箱、来源库未入 CSV（策略文档点名）、重复=Saga
 - 与 Saga Clients 重叠：**SC-161**（Saga 评级 C，经域名 2direct.de）→ 以 Saga 档为主；本条只保留来源库事实
@@ -56,7 +57,21 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究与跟进（第 2 步起填）
-- 研究状态：未研究
-- 研究结论 / 升降建议：—
-- 下一步：—
+## 8. 研究卡（第 2 步，LT-T01，2026-10-29）
+
+- **结论：XB** — Q-76 LT-01 2026-10-29：与 Saga SC-161 同一公司 → 随主档等级 B（复核随主档，不单列）
+- 活着吗：域名 2direct.de MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓
+- 一句话：2direct GmbH（德国 · Schalksmühle）：自有品牌商（LogiLink / LogiLight）· OEM 目标；仅见于根目录策略文档，来源库从未写进 CSV / 建档
+- 是什么人：自有品牌商（LogiLink / LogiLight）· OEM 目标
+- 对口哪条线：STC 贴牌 / 自有品牌线（30% 档）
+- 找得到人吗：（缺）；KP：Wilfried Grohnert（Geschäftsführer，待核）；Jan Alberts（Geschäftsführer，待核）
+- 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
+- 与 Saga Clients：Saga SC-161（2direct.de）随主档
+- **下一动作：不动**；建议 官网快照 + 加厚后进群发分组（Q-77）
+
+证据：
+| 类型 | 说明 | 摘录 | 来源 | 日期 |
+|---|---|---|---|---|
+| 来源库官网/名录核对 | 自有品牌商（LogiLink / LogiLight）· OEM 目标 |  | https://2direct.de | 2026-09 |
+
+- 备注：LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。

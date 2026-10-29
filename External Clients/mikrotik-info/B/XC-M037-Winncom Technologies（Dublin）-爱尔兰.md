@@ -1,11 +1,12 @@
 # XC-M037 · Winncom Technologies（Dublin） · 爱尔兰
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：与 Saga SC-1297 同一公司 → 随主档等级 B（复核随主档，不单列）） ｜ 来源 mikrotik-info `A-517`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：与 Saga SC-1297 同一公司 → 随主档等级 B（复核随主档，不单列）） ｜ 来源 mikrotik-info `A-517`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T01 2026-10-29）→ 下一动作 不动
 >
 > **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：○ P 池 · 正式入池**（随 Saga `SC-1297`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-1297 同一公司（经 winncom.com）→ 随 Saga 档：pool（闸 3，★ P 池正式入池（档位 ○）：○ 分销 20%：Winncom Technologies Corp（Ohio 1999 注册；Solon OH；1996 起；100–160 人；WISP / 宽带分销）坐实；对位 ✔ 主区 ✔ 坐实 ✔ ）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-1297，经 winncom.com）→ 以 Saga 档为准，本条不单独跟
+- 研究后改级：XC → **XB**（LT-T01，Q-76 LT-01 2026-10-29：与 Saga SC-1297 同一公司 → 随主档等级 B（复核随主档，不单列））；编号不变
 - 人工改级：XB（2026-10-29，Q-76 LT-01 2026-10-29：与 Saga SC-1297 同一公司 → 随主档等级 B（复核随主档，不单列））；编号不变
 - 标记：重复=Saga
 - 与 Saga Clients 重叠：**SC-1297**（Saga 评级 C，经域名 winncom.com）→ 以 Saga 档为主；本条只保留来源库事实
@@ -72,7 +73,22 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究与跟进（第 2 步起填）
-- 研究状态：未研究
-- 研究结论 / 升降建议：—
-- 下一步：—
+## 8. 研究卡（第 2 步，LT-T01，2026-10-29）
+
+- **结论：XB** — Q-76 LT-01 2026-10-29：与 Saga SC-1297 同一公司 → 随主档等级 B（复核随主档，不单列）
+- 活着吗：域名 winncom.com MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓
+- 一句话：Winncom Technologies（Dublin）（爱尔兰）：分销（MikroTik 官方）；MikroTik（Master+VAD）
+- 是什么人：分销（MikroTik 官方）
+- 在卖/在用：MikroTik
+- 对口哪条线：STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）
+- 找得到人吗：sales.emea@winncom.com（活（来源库 9 月核对））；KP：无具名
+- 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
+- 与 Saga Clients：Saga SC-1297（winncom.com）随主档
+- **下一动作：不动**；建议 官网快照 + 加厚后进群发分组（Q-77）
+
+证据：
+| 类型 | 说明 | 摘录 | 来源 | 日期 |
+|---|---|---|---|---|
+| 来源库官网/名录核对 | 分销（MikroTik 官方） |  | https://winncom.com | 2026-10-12 |
+
+- 备注：LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。

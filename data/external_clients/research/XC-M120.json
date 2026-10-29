@@ -1,0 +1,83 @@
+{
+ "code": "XC-M120",
+ "name": "Tekniska Polska",
+ "round": "LT-T01",
+ "researched_at": "2026-10-29",
+ "alive": "域名 tekniska.pl MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "summary": "Tekniska Polska（波兰）：分销（Westermo Gold）；Westermo",
+ "type_final": "分销（Westermo Gold）",
+ "size": "",
+ "brands_seen": [
+  "Westermo"
+ ],
+ "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "分销（Westermo Gold）",
+   "quote": "",
+   "url": "https://tekniska.pl",
+   "date": "2026-09"
+  },
+  {
+   "kind": "来源库证据链接",
+   "claim": "来源库调研时引用",
+   "quote": "",
+   "url": "https://tekniska.pl/kontakt/",
+   "date": "2026-09"
+  },
+  {
+   "kind": "来源库证据链接",
+   "claim": "来源库调研时引用",
+   "quote": "",
+   "url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000383694?rejestr=P&format=json",
+   "date": "2026-09"
+  },
+  {
+   "kind": "来源库证据链接",
+   "claim": "来源库调研时引用",
+   "quote": "",
+   "url": "https://tekniska.pl/o-firmie/",
+   "date": "2026-09"
+  },
+  {
+   "kind": "长期群复核 LT-R05",
+   "claim": "桌面复核（渠道名录 + 研究卡）：分销（Westermo Gold）；信号：Westermo；在卖工业/商用交换机 = 行业内 ✔ 对位 ✔ 分销进口 ✔ → 留 B",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "contacts": {
+  "email": "handlowy@tekniska.pl",
+  "email_status": "活（来源库 9 月核对）",
+  "kp": [
+   {
+    "name": "Dariusz Figiel",
+    "role": "Menedżer Klienta Kluczowego / Key Account Manager（公司销售部联系页公开列名）",
+    "source": "公开关键客户经理/销售角色；未核实其负责工业交换机采购或品牌准入；本轮未联系"
+   },
+   {
+    "name": "Piotr Grychtoł",
+    "role": "Business Development Manager / Dział rozwoju（公司联系页公开）",
+    "source": "公开业务发展联系人；未核实其负责交换机采购、供应商准入或品牌引入；本轮未联系"
+   }
+  ]
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "桌面复核（渠道名录 + 研究卡）：分销（Westermo Gold）；信号：Westermo；在卖工业/商用交换机 = 行业内 ✔ 对位 ✔ 分销进口 ✔ → 留 B",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "官网快照 + 加厚后进群发分组（Q-77）"
+ },
+ "draft_en": null,
+ "deep": false,
+ "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+}

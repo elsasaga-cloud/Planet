@@ -1,17 +1,46 @@
 {
  "code": "SC-1586",
- "name_official": "chuyendoiquang.com",
+ "name_official": "CÔNG TY TNHH GIẢI PHÁP VIỄN THÔNG THIÊN TÂN",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "域名 chuyendoiquang.com（官网快照待 Actions 补抓）",
  "summary": "C 池三闸捞出（○ 正式）：○ 越南 · 分销 20%：CÔNG TY TNHH GIẢI PHÁP VIỄN THÔNG THIÊN TÂN（Hà Nội Từ Liêm；MST 0105224649；电子 / 电信设备批发）坐实；越南先例 ✔ 中国品牌 ✔ 对位 ✔ 业务微信可达 ✔ → P 池候选；VC 本职线并行",
- "type": "",
- "size": "",
+ "type": "分销（闸 2 判定 · 20% 档）",
+ "size": "小型",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "CÔNG TY TNHH GIẢI PHÁP VIỄN THÔNG THIÊN TÂN（vienthongthientan.com / holinktech.com / chuyendoiquang.com；**MST 0105224649；Số nhà 45, Ngõ 50, Phố Mễ Trì Thượng, Phường Từ Liêm, Hà Nội；Đang hoạt động；Công ty TNHH ngoài NN；主业 Bán buôn thiết bị ",
+   "quote": "VN · 1 次检索：masothue（MST / 地址 / 状态 / 主业）+ tratencongty；2026-10-29",
+   "url": "https://masothue.com/0105224649-cong-ty-tnhh-giai-phap-vien-thong-thien-tan",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "越南 Chuyển Đổi Quang / Holink Tech / Viễn Thông Thiên Tân（chuyendoiquang.com / holinktech.com / vienthongthientan.com 均正常；VC 为主很多国内牌子低价 + MC G-net + 工业 FS / 商业 PoE；「有他们业务微信」；gmail）：点名中国品牌 ✔ 越南先例 ✔ 对位 ✔ 微信可达 ✔ → 闸 2 查底数（MST：yellowpages.vn）后微信 / 邮件一页纸；VC 本职线并行",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：○ 越南 · 分销 20%：CÔNG TY TNHH GIẢI PHÁP VIỄN THÔNG THIÊN TÂN（Hà Nội Từ Liêm；MST 0105224649；电子 / 电信设备批发）坐实；越南先例 ✔ 中国品牌 ✔ 对位 ✔ 业务微信可达 ✔ → P 池候选；VC 本职线并行",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "vienthongthientan@gmail.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 越南 · 分销 20%：CÔNG TY TNHH GIẢI PHÁP VIỄN THÔNG THIÊN TÂN（Hà Nội Từ Liêm；MST 0105224649；电子 / 电信设备批发）坐实；越南先例 ✔ 中国品牌 ✔ 对位 ✔ 业务微信可达 ✔ → P 池候选；VC 本职线并行；闸 1：越南 Chuyển Đổi Quang / Holink Tech / Viễn Thông Thiên Tân（chuyendoiquang.com / holinktech.com / vienthongthientan.com 均正…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +70,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +85,56 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 越南 · 分销 20%：CÔNG TY TNHH GIẢI PHÁP VIỄN THÔNG THIÊN TÂN（Hà Nội Từ Liêm；MST 0105224649；电子 / 电信设备批发）坐实；越南先例 ✔ 中国品牌 ✔ 对位 ✔ 业务微信可达 ✔ → P 池候选；VC 本职线并行",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "VN · 1 次检索：masothue（MST / 地址 / 状态 / 主业）+ tratencongty；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://masothue.com/0105224649-cong-ty-tnhh-giai-phap-vien-thong-thien-tan"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "CÔNG TY TNHH GIẢI PHÁP VIỄN THÔNG THIÊN TÂN",
+  "reg_no": "0105224649（MST）",
+  "status": "Đang hoạt động（2025-12）",
+  "incorporated": "未取（MST 0105 段 ≈ 2011）",
+  "company_type": "Công ty TNHH",
+  "address": "Số nhà 45, Ngõ 50, Phố Mễ Trì Thượng, Phường Từ Liêm, Hà Nội",
+  "size_band": "小型",
+  "officers": [
+   "（法定代表人未取；表内有业务微信）"
+  ],
+  "psc": "未取",
+  "source": "VN · 1 次检索：masothue（MST / 地址 / 状态 / 主业）+ tratencongty；2026-10-29",
+  "url": "https://masothue.com/0105224649-cong-ty-tnhh-giai-phap-vien-thong-thien-tan",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "电子 / 电信设备批发（河内 Từ Liêm）"
+ ],
+ "channels": {
+  "网站": "https://chuyendoiquang.com",
+  "直邮": "vienthongthientan@gmail.com（表内）"
+ },
+ "signals": [
+  "越南 Chuyển Đổi Quang / Holink Tech / Viễn Thông Thiên Tân（chuyendoiquang.com / holinktech.com / vienthongthientan.com 均正常；VC 为主很多国内牌子低价 + MC G-net + 工业 FS / 商业 PoE；「有他们业务微信」；gmail）：点名中国品牌 ✔ 越南先例 ✔ 对位 ✔",
+  "表内兴趣：VC主要  很多国内的牌子 低价\nMC G-net的  FS 周边产品；工业FS 商业POE等"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

@@ -1,17 +1,48 @@
 {
  "code": "SC-2891",
- "name_official": "trimatrikbd.com",
+ "name_official": "Trimatrik Multimedia",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（官网 2022 / YouTube）",
  "summary": "C 池三闸捞出（△ 观察）：△ 观察档 · 孟加拉贴牌 CCTV 店 OEM 30% + 预付 100%：Trimatrik Multimedia（Dhaka Uttara + Mouchak 分店；进口商 / 安装）部分坐实（注册号未取）；ONV 带标卖 = 贴自有牌 ✔ 对位 ✔ WA 手机 ✔；小型 + 非点名国 → 入池观察档；可否决",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "孟加拉贴牌 CCTV 店 OEM（闸 2 判定 · 30% 档）",
+ "size": "小型（2 店；多热线）",
+ "brands_seen": [
+  "ONV"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Trimatrik Multimedia（trimatrikbd.com；**Corporate Office House#01 (GF), Road#20/B, Sector#04, Uttara, Dhaka-1230 + Mouchak 分店 Shop#34, 66 Property Plaza, Malibagh；热线 01711-461346 / 01785-777722 / 01711-766062 等；info@trimatrikbd.com；自述 CCTV s",
+   "quote": "BD · 1 次检索：trimatrikbd.com 两页（地址 / 分店 / 热线 / 业务）+ YouTube 频道页；注册号未取；2026-10-29",
+   "url": "https://www.trimatrikbd.com/cctv-camera-company-in-bangladesh",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "孟加拉 Trimatrik（trimatrikbd.com；「ONV 的商业 PoE 带标卖」；官网手机 +880 1785 777722）：贴自有牌 = OEM 对象 ✔ 对位 ✔；非点名国 → 闸 2 查底数（官网 / RJSC 镜像）后换 OEM 稿；低优先",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：△ 观察档 · 孟加拉贴牌 CCTV 店 OEM 30% + 预付 100%：Trimatrik Multimedia（Dhaka Uttara + Mouchak 分店；进口商 / 安装）部分坐实（注册号未取）；ONV 带标卖 = 贴自有牌 ✔ 对位 ✔ WA 手机 ✔；小型 + 非点名国 → 入池观察档；可否决；备注：孟加拉 CCTV 店 ONV 带标卖 = 小 OEM；WA 可达 → 留 B 预付 100%",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "info@trimatrikbd.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · 孟加拉贴牌 CCTV 店 OEM 30% + 预付 100%：Trimatrik Multimedia（Dhaka Uttara + Mouchak 分店；进口商 / 安装）部分坐实（注册号未取）；ONV 带标卖 = 贴自有牌 ✔ 对位 ✔ WA 手机 ✔；小型 + 非点名国 → 入池观察档；可否决；闸 1：孟加拉 Trimatrik（trimatrikbd.com；「ONV 的商业 PoE 带标卖」；官网手机 +880 1785 777722）：贴自有牌 = OEM 对象 ✔ 对位 ✔；非点名国 → 闸 2 查底数（官网 / RJSC 镜像…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +72,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（孟加拉贴牌 CCTV 店 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +87,60 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "△ 观察档 · 孟加拉贴牌 CCTV 店 OEM 30% + 预付 100%：Trimatrik Multimedia（Dhaka Uttara + Mouchak 分店；进口商 / 安装）部分坐实（注册号未取）；ONV 带标卖 = 贴自有牌 ✔ 对位 ✔ WA 手机 ✔；小型 + 非点名国 → 入池观察档；可否决",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "BD · 1 次检索：trimatrikbd.com 两页（地址 / 分店 / 热线 / 业务）+ YouTube 频道页；注册号未取；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.trimatrikbd.com/cctv-camera-company-in-bangladesh"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Trimatrik Multimedia",
+  "reg_no": "未取（RJSC 未查）",
+  "status": "营业中（官网 2022 / YouTube）",
+  "incorporated": "未取",
+  "company_type": "未取（疑 proprietorship / Ltd）",
+  "address": "House#01 (Ground Floor), Road#20/B, Sector#04, Uttara, Dhaka-1230",
+  "size_band": "小型（2 店；多热线）",
+  "officers": [
+   "（具名 KP 未取；官网手机 +880 1785 777722 WA 可试）"
+  ],
+  "psc": "未取",
+  "source": "BD · 1 次检索：trimatrikbd.com 两页（地址 / 分店 / 热线 / 业务）+ YouTube 频道页；注册号未取；2026-10-29",
+  "url": "https://www.trimatrikbd.com/cctv-camera-company-in-bangladesh",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "CCTV 进口 + 零售 + 安装（达卡）"
+ ],
+ "channels": {
+  "网站": "https://trimatrikbd.com",
+  "直邮": "info@trimatrikbd.com（表内）"
+ },
+ "signals": [
+  "孟加拉 Trimatrik（trimatrikbd.com；「ONV 的商业 PoE 带标卖」；官网手机 +880 1785 777722）：贴自有牌 = OEM 对象 ✔ 对位 ✔；非点名国 → 闸 2 查底数（官网 / RJSC 镜像）后换 OEM 稿；低优先",
+  "表内兴趣：ONV的商业POE 带标卖"
+ ],
+ "risks": [
+  "**孟加拉 · 贴牌 CCTV 店 △ 观察档 · OEM 30% + 预付 100%：WA 一页纸一次（STC-028GP $28 / STC-228GP $33 中性包装 + 贴 Trimatrik 牌 + MOQ 1；ONV 不点名）— 其他区常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关；周二 / 周",
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（孟加拉贴牌 CCTV 店 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

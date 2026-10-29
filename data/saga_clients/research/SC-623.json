@@ -1,17 +1,52 @@
 {
  "code": "SC-623",
- "name_official": "industrialnets.ru",
+ "name_official": "Industrial Nets",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "域名 industrialnets.ru（官网快照待 Actions 补抓）",
  "summary": "C 池三闸捞出（○ 正式）：闸 2 回 C：Industrial Nets（industrialnets.ru）1 查仅同名「Инженерные сети» 他户 → 未坐实；进口中国同类 ✔ 但法人未取 → 回 C 储备（来信再起则补查 + 预付 100%）",
- "type": "",
- "size": "",
+ "type": "工业网络设备分销（闸 2 判定 · 20% 档）",
+ "size": "未取",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Industrial Nets（industrialnets.ru / i-nets.ru；**1 查仅返回同名「Инженерные сети» 他户（СПб ИНН 7810797884 / Москва 7727310400 / Барнаул 5433196419）→ 域名对应法人未取**）；表内：工业 FS 带串口，和深圳 Comark 合作 + N-Net；群发 17 次 0 回",
+   "quote": "RU · 1 次检索：rbc / rusprofile 同名户 3 条均非本域 → 未坐实；2026-10-29",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "俄罗斯 Industrial Nets（industrialnets.ru / i-nets.ru；工业 FS 带串口，表内「和深圳 Comark 合作，还有 N-Net」）：进口中国同类 ✔ 对位 ✔ Simon 点名俄罗斯；群发 17 次 0 回 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：○ 俄罗斯 · 工业网络设备分销 20%：ООО «АКОМ»（Автоматизация и КОМмуникации；ИНН 7448060703，ОГРН 1047422004475（2004 起）；Челябинск ул. Сахарова 1；8 800 222 32 80；sales@i-nets.ru；тех. директор Молчанов Алексей Юрьевич a…；备注：俄罗斯收款待定；工业网络分销主体清晰",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "sales@i-nets.ru",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "acom@industrialnets.ru",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：闸 2 回 C：Industrial Nets（industrialnets.ru）1 查仅同名「Инженерные сети» 他户 → 未坐实；进口中国同类 ✔ 但法人未取 → 回 C 储备（来信再起则补查 + 预付 100%）；闸 1：俄罗斯 Industrial Nets（industrialnets.ru / i-nets.ru；工业 FS 带串口，表内「和深圳 Comark 合作，还有 N-Net」）：进口中国同类 ✔ 对位 ✔ Simon 点名俄罗斯；群发 17…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +76,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（工业网络设备分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +91,58 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "闸 2 回 C：Industrial Nets（industrialnets.ru）1 查仅同名「Инженерные сети» 他户 → 未坐实；进口中国同类 ✔ 但法人未取 → 回 C 储备（来信再起则补查 + 预付 100%）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "RU · 1 次检索：rbc / rusprofile 同名户 3 条均非本域 → 未坐实；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": ""
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Industrial Nets",
+  "reg_no": "未取",
+  "status": "未坐实（1 查未得）",
+  "incorporated": "未取",
+  "company_type": "未取",
+  "address": "未取",
+  "size_band": "未取",
+  "officers": [],
+  "psc": "未取",
+  "source": "RU · 1 次检索：rbc / rusprofile 同名户 3 条均非本域 → 未坐实；2026-10-29",
+  "url": "",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "工业网络设备分销（俄）"
+ ],
+ "channels": {
+  "网站": "https://industrialnets.ru",
+  "直邮": "sales@i-nets.ru，acom@industrialnets.ru（表内）"
+ },
+ "signals": [
+  "俄罗斯 Industrial Nets（industrialnets.ru / i-nets.ru；工业 FS 带串口，表内「和深圳 Comark 合作，还有 N-Net」）：进口中国同类 ✔ 对位 ✔ Simon 点名俄罗斯；群发 17 次 0 回 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
+  "表内兴趣：工业FS 带串口；工业FS MC SFP  标价很高"
+ ],
+ "risks": [
+  "**未坐实 → 回 C 储备；来信再起则官网 Реквизиты 页补查 + 预付 100%**",
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（工业网络设备分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

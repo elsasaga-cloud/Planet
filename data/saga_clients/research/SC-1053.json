@@ -1,17 +1,39 @@
 {
  "code": "SC-1053",
- "name_official": "casmarglobal.com",
+ "name_official": "CASMAR ELECTRONICA SA",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "域名 casmarglobal.com（官网快照待 Actions 补抓）",
  "summary": "C 池三闸捞出（○ 正式）：○ 分销 20%（冷户）：Casmar Electrónica SA（A08551061；Barcelona 1979；82 人；安防分销 / 制造）坐实；对位 ✔ 欧洲 ✔ 坐实 ✔ 体量 ✔ = §5 四条 → P 池候选；从未触达 → 先发 casmar@casmar.es",
- "type": "",
- "size": "",
+ "type": "分销（闸 2 判定 · 20% 档）",
+ "size": "中型（82）",
  "brands_seen": [],
- "evidence": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "CASMAR ELECTRONICA SA（casmarglobal.com；**einforma / empresia：CIF A08551061；Calle Maresme 71-79, 08019 Barcelona；1979-02-02 成立；社会资本 300,010 €；2024 年 82 名员工；CNAE 8020 安防系统服务；对象「安防报警系统的商业化与制造」；审计 AOB Global；casmar@casmar.es 公开**）；表内：国际化安防分销集团、",
+   "quote": "ES · 1 次检索：iberinform（A08551061；Maresme 71-79；1979）+ empresia（82 empleados 2024；capital 300.010 €；casmar@casmar.es；933406408）+ einforma；2026-10-29",
+   "url": "https://www.empresia.es/empresa/casmar-electronica/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "西班牙 Casmar（国际化安防分销集团，无邮箱）→ 主区 + 分销体量；未触达 → 闸 2 查底数找 KP",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R02",
+   "claim": "桌面复核（闸 2 证据充分，三问成立）：○ 分销 20%（冷户）：Casmar Electrónica SA（A08551061；Barcelona 1979；82 人；安防分销 / 制造）坐实；对位 ✔ 欧洲 ✔ 坐实 ✔ 体量 ✔ = §5 四条 → P 池候选；从未触达 → 先发 casmar@casmar.es",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
  "kp": [],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 分销 20%（冷户）：Casmar Electrónica SA（A08551061；Barcelona 1979；82 人；安防分销 / 制造）坐实；对位 ✔ 欧洲 ✔ 坐实 ✔ 体量 ✔ = §5 四条 → P 池候选；从未触达 → 先发 casmar@casmar.es；闸 1：西班牙 Casmar（国际化安防分销集团，无邮箱）→ 主区 + 分销体量；未触达 → 闸 2 查底数找 KP",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +63,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +78,58 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 分销 20%（冷户）：Casmar Electrónica SA（A08551061；Barcelona 1979；82 人；安防分销 / 制造）坐实；对位 ✔ 欧洲 ✔ 坐实 ✔ 体量 ✔ = §5 四条 → P 池候选；从未触达 → 先发 casmar@casmar.es",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "ES · 1 次检索：iberinform（A08551061；Maresme 71-79；1979）+ empresia（82 empleados 2024；capital 300.010 €；casmar@casmar.es；933406408）+ einforma；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.empresia.es/empresa/casmar-electronica/"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "CASMAR ELECTRONICA SA",
+  "reg_no": "A08551061",
+  "status": "ACTIVA（Registro Mercantil de Barcelona）",
+  "incorporated": "1979-02-02",
+  "company_type": "S.A.",
+  "address": "Calle Maresme 71-79, 08019 Barcelona",
+  "size_band": "中型（82）",
+  "officers": [
+   "（casmar@casmar.es 官网 / 名录公开总邮箱 = 首发收件人；Administrador único 姓名未取；具名采购 KP 待 LinkedIn）"
+  ],
+  "psc": "未取",
+  "source": "ES · 1 次检索：iberinform（A08551061；Maresme 71-79；1979）+ empresia（82 empleados 2024；capital 300.010 €；casmar@casmar.es；933406408）+ einforma；2026-10-29",
+  "url": "https://www.empresia.es/empresa/casmar-electronica/",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "安防系统分销 / 制造（巴塞罗那；国际化）"
+ ],
+ "channels": {
+  "网站": "https://casmarglobal.com"
+ },
+ "signals": [
+  "西班牙 Casmar（国际化安防分销集团，无邮箱）→ 主区 + 分销体量；未触达 → 闸 2 查底数找 KP",
+  "表内兴趣：Security system supplier"
+ ],
+ "risks": [
+  "**分销 20%：首次触达一页纸（安防 PoE 线 STC-028GP $28 / STC-228GP $33 + 工业 STI-154GP；MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；冷户 → 回声后再深挖"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

@@ -1,17 +1,58 @@
 {
  "code": "SC-2516",
- "name_official": "novuscctv.com",
+ "name_official": "AAT SYSTEMY BEZPIECZEŃSTWA sp. z o.o.",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（KRS 2020 新主体存续）",
  "summary": "C 池三闸捞出（★ 正式）：★ 品牌商 · OEM 30%：AAT Systemy Bezpieczeństwa sp. z o.o.（KRS 0000838329；Warszawa；1993 起；201–500 人；自有品牌 NOVUS / KADE / ZEUS / EVIX）坐实；KP Stiepan Sedrakian / Dariusz Rośniak 在表；对位 ✔ 波兰 ✔ 品牌商 ✔ 体量 ✔ → P 池候选（体量偏大）；Simon 曾判不行，可…",
- "type": "",
- "size": "",
+ "type": "OEM（闸 2 判定 · 30% 档）",
+ "size": "大型（201–500）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "AAT SYSTEMY BEZPIECZEŃSTWA sp. z o.o.（aat.pl / novuscctv.com；**aplikuj：KRS 0000838329（注册 2020-04-23 新主体；业务 1993 年起）；Warszawa；201–500 人；安防系统批发领先者、自有品牌 NOVUS / KADE / ZEUS / EVIX；LinkedIn：Handel hurtowy、201–500、1993**）；表内：波兰最大安防分销之一、Novus 工业 ",
+   "quote": "PL · 1 次检索：aplikuj.pl/pracodawca/19089（KRS 0000838329；sp. z o.o.；wpis 23.04.2020；201–500；marki własne NOVUS, KADE, ZEUS, EVIX）+ linkedin（AAT SYSTEMY BEZPIECZEŃSTWA sp. z o.o.；Warszawa；201-500；1993；Dariusz Mieszkowski Dyrektor Działu Sprzedaży Krajowej）；2026-10-29",
+   "url": "https://www.aplikuj.pl/pracodawca/19089/aat-systemy-bezpieczenstwa-sp-z-o-o/opinie",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "波兰 AAT / Novus（波兰最大安防分销商之一，自有品牌 Novus 工业 FS / PoE 延长器 / SFP；KP Stiepan Sedrakian）→ 自有品牌体量 + 波兰；Simon 判不行 → 闸 2 查底数",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R02",
+   "claim": "桌面复核（闸 2 证据充分，三问成立）：★ 品牌商 · OEM 30%：AAT Systemy Bezpieczeństwa sp. z o.o.（KRS 0000838329；Warszawa；1993 起；201–500 人；自有品牌 NOVUS / KADE / ZEUS / EVIX）坐实；KP Stiepan Sedrakian / Dariusz Rośniak 在表；对位 ✔ 波兰 ✔ 品牌商 ✔ 体量 ✔ → P 池候选（体量偏大）；Simon 曾判不行，可否…",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "stiepan.sedrakian@aat.pl",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "dariusz.rosniak@aat.pl",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "export@aat.pl",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 品牌商 · OEM 30%：AAT Systemy Bezpieczeństwa sp. z o.o.（KRS 0000838329；Warszawa；1993 起；201–500 人；自有品牌 NOVUS / KADE / ZEUS / EVIX）坐实；KP Stiepan Sedrakian / Dariusz Rośniak 在表；对位 ✔ 波兰 ✔ 品牌商 ✔ 体量 ✔ → P 池候…；闸 1：波兰 AAT / Novus（波兰最大安防分销商之一，自有品牌 Novus 工业 FS / PoE 延长器 / SFP；KP Stiepan Sedrakian）→ 自有品牌体量 + 波兰；Simon 判不行 → 闸 2 查底数",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +82,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +97,62 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 品牌商 · OEM 30%：AAT Systemy Bezpieczeństwa sp. z o.o.（KRS 0000838329；Warszawa；1993 起；201–500 人；自有品牌 NOVUS / KADE / ZEUS / EVIX）坐实；KP Stiepan Sedrakian / Dariusz Rośniak 在表；对位 ✔ 波兰 ✔ 品牌商 ✔ 体量 ✔ → P 池候选（体量偏大）；Simon 曾判不行，可否决",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "PL · 1 次检索：aplikuj.pl/pracodawca/19089（KRS 0000838329；sp. z o.o.；wpis 23.04.2020；201–500；marki własne NOVUS, KADE, ZEUS, EVIX）+ linkedin（AAT SYSTEMY BEZPIECZEŃSTWA sp. z o.o.；Warszawa；201-500；1993；Dariusz Mieszkowski Dyrektor Działu Sprzedaży Krajowej）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.aplikuj.pl/pracodawca/19089/aat-systemy-bezpieczenstwa-sp-z-o-o/opinie"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "AAT SYSTEMY BEZPIECZEŃSTWA sp. z o.o.",
+  "reg_no": "KRS 0000838329",
+  "status": "营业中（KRS 2020 新主体存续）",
+  "incorporated": "1993（现主体 2020-04-23）",
+  "company_type": "sp. z o.o.",
+  "address": "Warszawa, Mazowieckie（街道未取）",
+  "size_band": "大型（201–500）",
+  "officers": [
+   "Stiepan Sedrakian — 表内 KP（stiepan.sedrakian@aat.pl）= 收件人",
+   "Dariusz Rośniak — 表内（dariusz.rosniak@aat.pl）",
+   "Dariusz Mieszkowski — Dyrektor Działu Sprzedaży Krajowej（LinkedIn；无公开邮箱）",
+   "（export@aat.pl 表内）"
+  ],
+  "psc": "未取",
+  "source": "PL · 1 次检索：aplikuj.pl/pracodawca/19089（KRS 0000838329；sp. z o.o.；wpis 23.04.2020；201–500；marki własne NOVUS, KADE, ZEUS, EVIX）+ linkedin（AAT SYSTEMY BEZPIECZEŃSTWA sp. z o.o.；Warszawa；201-500；1993；Dariusz Mieszkowski Dyrektor Działu Sprzedaży Krajowej）；2026-10-29",
+  "url": "https://www.aplikuj.pl/pracodawca/19089/aat-systemy-bezpieczenstwa-sp-z-o-o/opinie",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "安防系统批发 + 自有品牌制造（NOVUS CCTV 等 4 品牌）"
+ ],
+ "channels": {
+  "网站": "https://novuscctv.com",
+  "直邮": "stiepan.sedrakian@aat.pl，dariusz.rosniak@aat.pl，export@aat.pl（表内）"
+ },
+ "signals": [
+  "波兰 AAT / Novus（波兰最大安防分销商之一，自有品牌 Novus 工业 FS / PoE 延长器 / SFP；KP Stiepan Sedrakian）→ 自有品牌体量 + 波兰；Simon 判不行 → 闸 2 查底数",
+  "表内兴趣：工业FS PoE延长器自己的logo SFP  自己的logo/noVus；商业POE 自己的logo"
+ ],
+ "risks": [
+  "**4 个自有品牌 + 波兰最大批发 → OEM 30%：对 KP 一页纸一次（NOVUS 牌工业 FS / PoE 同口型 STI-154GP / STI-288GPM / STC-228GP 贴牌 + 丝印 MOQ + 付费样机；波兰语备注）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 "
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

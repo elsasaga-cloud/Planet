@@ -1,11 +1,12 @@
 # XC-C1023 · IT Warehouse · 菲律宾
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ ISP / WISP 渠道分销 20%：IT Warehouse Distribution Inc.（Quezon City Cubao, RedGold Building 1840 E. Rodriguez Sr. Ave；官网自述 MikroTik / Ubiquiti / RF elements / Ruijie / VSOL 分销，服务 ISP / WISP / SI / 经销商；bu） ｜ 来源 CCTV-PoE `smartbyte/profile/it-warehouse-philippines.md`:1（其分级 A类） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ ISP / WISP 渠道分销 20%：IT Warehouse Distribution Inc.（Quezon City Cubao, RedGold Building 1840 E. Rodriguez Sr. Ave；官网自述 MikroTik / Ubiquiti / RF elements / Ruijie / VSOL 分销，服务 ISP / WISP / SI / 经销商；bu） ｜ 来源 CCTV-PoE `smartbyte/profile/it-warehouse-philippines.md`:1（其分级 A类） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T01 2026-10-29）→ 下一动作 不动
 >
 > **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：○ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ ISP / WISP 渠道分销 20%：IT Warehouse Distribution Inc.（Quezon City Cubao, RedGold Building 1840 E. Rodriguez Sr. Ave；官网自述 MikroTik / Ubiquiti / RF elements / Ruijie / VSOL 分销，服务 ISP / WISP / SI / 经销商；business@itwarehouse.ph；(02) 7905-6052）官网 + 目录页部分坐实（SEC 号未查到 → 补证）→ SmartByte 管理型 + 光纤对位；SmartByte 子库来源；非主区 → 预付 100% 起步｜补证 P2-02（2026-10-29）：bpoai.ai 名录：IT Warehouse Distribution Inc.，REDGOLD Building 1840 E Rodriguez Sr. Ave, Cubao, Quezon City 1102，+63 2 8277 7898（Google 评分 4.5 / 100）→ 地址二次印证、SEC 号仍无 → prepay 保留
 
 ## 1. 初判与理由
 - 初判：**XC** — 终端用户 / 渠道触点（机场、大学、超市、政府、军队…走集成商与框架采购，不是 Saga 的直接买家）
+- 研究后改级：XC → **XB**（LT-T01，桌面复核（渠道名录 + 研究卡）：ISP设备分销商；在卖工业/商用交换机 = 行业内 ✔ 对位 ✔ 分销进口 ✔ → 留 B）；编号不变
 - 人工改级：XB（2026-10-29，Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ ISP / WISP 渠道分销 20%：IT Warehouse Distribution Inc.（Quezon City Cubao, RedGold Building 1840 E. Rodriguez Sr. Ave；官网自述 MikroTik / Ubiquiti / RF elements / Ruijie / VSOL 分销，服务 ISP / WISP / SI / 经销商；bu）；编号不变
 - 标记：smartbyte子库、国别多说法:PH/AE、多处出现×4、终端触点
 - 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
@@ -165,7 +166,23 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究与跟进（第 2 步起填）
-- 研究状态：未研究
-- 研究结论 / 升降建议：—
-- 下一步：—
+## 8. 研究卡（第 2 步，LT-T01，2026-10-29）
+
+- **结论：XB** — 桌面复核（渠道名录 + 研究卡）：ISP设备分销商；在卖工业/商用交换机 = 行业内 ✔ 对位 ✔ 分销进口 ✔ → 留 B
+- 活着吗：域名 itwarehouse.ph MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓
+- 一句话：IT Warehouse（菲律宾）：ISP设备分销商；公司全称=IT Warehouse；地址=RedGold Building 1840 E. Rodriguez Sr. Ave, Cubao, Quezon Ci；公司类型=网络设备分销；客户优先级=🟡 C类（Tenda竞品参考）
+- 是什么人：ISP设备分销商
+- 在卖/在用：Tenda
+- 对口哪条线：STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）
+- 找得到人吗：business@itwarehouse.ph（活（来源库 9 月核对））；KP：无具名
+- 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
+- 与 Saga Clients：无
+- **下一动作：不动**；建议 官网快照 + 加厚后进群发分组（Q-77）
+
+证据：
+| 类型 | 说明 | 摘录 | 来源 | 日期 |
+|---|---|---|---|---|
+| 来源库官网/名录核对 | ISP设备分销商；公司全称=IT Warehouse；地址=RedGold Building 1840 E. Rodriguez Sr. Ave, Cubao, Quezon Ci；公司类型=网络设备分销；客户优先级=🟡 C类（Tenda竞品参考） |  | https://itwarehouse.ph | 2026-09 |
+| 长期群复核 LT-R05 | 桌面复核（渠道名录 + 研究卡）：ISP设备分销商；在卖工业/商用交换机 = 行业内 ✔ 对位 ✔ 分销进口 ✔ → 留 B |  |  | 2026-10-29 |
+
+- 备注：LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。

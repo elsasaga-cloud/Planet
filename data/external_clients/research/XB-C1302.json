@@ -1,0 +1,51 @@
+{
+ "code": "XB-C1302",
+ "name": "AAAQ",
+ "round": "LT-T01",
+ "researched_at": "2026-10-29",
+ "alive": "域名 aaaqest.com MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "summary": "AAAQ（沙特）：Hikvision/ITC/UPS Hyundai授权分销；公司类型=Hikvision/ITC/UPS Hyundai授权分销；总部=Riyadh (Al Olaya St)；客户优先级=🟢 A类",
+ "type_final": "Hikvision/ITC/UPS Hyundai授权分销",
+ "size": "",
+ "brands_seen": [
+  "Hikvision"
+ ],
+ "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "Hikvision/ITC/UPS Hyundai授权分销；公司类型=Hikvision/ITC/UPS Hyundai授权分销；总部=Riyadh (Al Olaya St)；客户优先级=🟢 A类",
+   "quote": "",
+   "url": "https://aaaqest.com",
+   "date": "2026-09"
+  },
+  {
+   "kind": "长期群复核 LT-R07",
+   "claim": "桌面复核（来源库核对 + 研究卡）：Hikvision/ITC/UPS Hyundai授权分销；成立=2004年（21+年）；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "contacts": {
+  "email": "info@aaaqest.com",
+  "email_status": "活（来源库 9 月核对）",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "桌面复核（来源库核对 + 研究卡）：Hikvision/ITC/UPS Hyundai授权分销；成立=2004年（21+年）；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "官网快照 + 加厚后进群发分组（Q-77）"
+ },
+ "draft_en": null,
+ "deep": false,
+ "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+}

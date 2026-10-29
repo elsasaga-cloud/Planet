@@ -1,0 +1,69 @@
+{
+ "code": "XB-M104",
+ "name": "I C T INTERNATIONAL L.L.C.",
+ "round": "LT-T01",
+ "researched_at": "2026-10-29",
+ "alive": "域名 ict-international.ae MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "summary": "I C T INTERNATIONAL L.L.C.（阿联酋）：分销（ORing 授权）；ORing",
+ "type_final": "分销（ORing 授权）",
+ "size": "",
+ "brands_seen": [
+  "ORing"
+ ],
+ "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "分销（ORing 授权）",
+   "quote": "",
+   "url": "https://ict-international.ae",
+   "date": "2026-10-12"
+  },
+  {
+   "kind": "来源库证据链接",
+   "claim": "来源库调研时引用",
+   "quote": "",
+   "url": "https://www.zoominfo.com/c/i-c-t-international-llc/435477221",
+   "date": "2026-10-12"
+  },
+  {
+   "kind": "长期群复核 LT-R07",
+   "claim": "桌面复核（来源库核对 + 研究卡）：分销（ORing 授权）；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "contacts": {
+  "email": "contact@ict-international.ae",
+  "email_status": "活（来源库 9 月核对）",
+  "kp": [
+   {
+    "name": "Mazhar Ali",
+    "role": "Business Development Manager",
+    "source": "zoominfo 自曝"
+   },
+   {
+    "name": "Fakhar Mirza",
+    "role": "Technical Director",
+    "source": "同上"
+   }
+  ]
+ },
+ "touch_status": "S 箱 2026-10-10 去信 1 / 来信 0（24 Port PoE Managed Switch）",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "桌面复核（来源库核对 + 研究卡）：分销（ORing 授权）；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "官网快照 + 加厚后进群发分组（Q-77）"
+ },
+ "draft_en": null,
+ "deep": false,
+ "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+}

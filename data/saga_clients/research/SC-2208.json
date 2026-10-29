@@ -1,17 +1,52 @@
 {
  "code": "SC-2208",
- "name_official": "hanutechsolution.com",
+ "name_official": "Hanutech Solution",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（官网 + IndiaMART）",
  "summary": "C 池三闸捞出（△ 观察）：△ 印度 · 电商零售 20% 预付 100%：Hanutech Solution（Delhi Rohini；Proprietorship；GST 07AXLPM4765G1Z3；东主 Mahinder；≤ 10 人；₹1.5–5 Cr）坐实；丰润达 PoE ✔ 印度先例 ✔ 但独资微型电商 → P 池候选 △",
- "type": "",
- "size": "",
+ "type": "电商零售（闸 2 判定 · 20% 档）",
+ "size": "微型（≤ 10 人）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Hanutech Solution（hanutechsolution.com / .co.in；**Proprietorship；GST 07AXLPM4765G1Z3（2018-06-28 登记）；CEO / 东主 Mahinder；≤ 10 人；年营业额 ₹1.5–5 Cr；B-16/1 Vijay Vihar Phase-2, Rohini, Delhi 110085（IndiaMART 另列 B 73）；hanutechsolution2018@gmail.com；+",
+   "quote": "IN · 1 次检索：IndiaMART aboutus（GST / 东主 / 规模 / 营业额）+ hanutechsolution.co.in 页脚（地址 / 邮箱 / 电话）；2026-10-29",
+   "url": "https://www.indiamart.com/hanutech-solution/aboutus.html",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "印度 Hanutech Solution（hanutechsolution.com 正常；gmail + 公司邮箱；switch / MC / CCTV 等；丰润达的商业 PoE ✔）：点名中国品牌 ✔ 印度先例 ✔ 对位 ✔ 可达 ✔ → 闸 2 查底数（MCA 镜像）后一页纸",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：△ 印度 · 电商零售 20% 预付 100%：Hanutech Solution（Delhi Rohini；Proprietorship；GST 07AXLPM4765G1Z3；东主 Mahinder；≤ 10 人；₹1.5–5 Cr）坐实；丰润达 PoE ✔ 印度先例 ✔ 但独资微型电商 → P 池候选 △；备注：独资电商但 ₹1.5–5 Cr 营收 + 已进口丰润达 PoE = 真买家 → 留 B 预付 100%（规则：微型 + 进口证据 = 留）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "ramex.htech@gmail.com",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "hanutechsolution2018@gmail.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 印度 · 电商零售 20% 预付 100%：Hanutech Solution（Delhi Rohini；Proprietorship；GST 07AXLPM4765G1Z3；东主 Mahinder；≤ 10 人；₹1.5–5 Cr）坐实；丰润达 PoE ✔ 印度先例 ✔ 但独资微型电商 → P 池候选 △；闸 1：印度 Hanutech Solution（hanutechsolution.com 正常；gmail + 公司邮箱；switch / MC / CCTV 等；丰润达的商业 PoE ✔）：点名中国品牌 ✔ 印度先例 ✔ 对位 ✔ 可达 ✔ …",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +76,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（电商零售 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +91,56 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "△ 印度 · 电商零售 20% 预付 100%：Hanutech Solution（Delhi Rohini；Proprietorship；GST 07AXLPM4765G1Z3；东主 Mahinder；≤ 10 人；₹1.5–5 Cr）坐实；丰润达 PoE ✔ 印度先例 ✔ 但独资微型电商 → P 池候选 △",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "IN · 1 次检索：IndiaMART aboutus（GST / 东主 / 规模 / 营业额）+ hanutechsolution.co.in 页脚（地址 / 邮箱 / 电话）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.indiamart.com/hanutech-solution/aboutus.html"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Hanutech Solution",
+  "reg_no": "07AXLPM4765G1Z3（GST）",
+  "status": "营业中（官网 + IndiaMART）",
+  "incorporated": "2018-06-28（GST）",
+  "company_type": "Proprietorship",
+  "address": "B-16/1 Vijay Vihar Phase-2, Rohini, Delhi 110085",
+  "size_band": "微型（≤ 10 人）",
+  "officers": [
+   "Mahinder — Proprietor / CEO"
+  ],
+  "psc": "未取",
+  "source": "IN · 1 次检索：IndiaMART aboutus（GST / 东主 / 规模 / 营业额）+ hanutechsolution.co.in 页脚（地址 / 邮箱 / 电话）；2026-10-29",
+  "url": "https://www.indiamart.com/hanutech-solution/aboutus.html",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "IT / 网络 / 光纤 / CCTV 零售 + 电商（德里 Rohini）"
+ ],
+ "channels": {
+  "网站": "https://hanutechsolution.com",
+  "直邮": "ramex.htech@gmail.com，hanutechsolution2018@gmail.com（表内）"
+ },
+ "signals": [
+  "印度 Hanutech Solution（hanutechsolution.com 正常；gmail + 公司邮箱；switch / MC / CCTV 等；丰润达的商业 PoE ✔）：点名中国品牌 ✔ 印度先例 ✔ 对位 ✔ 可达 ✔ → 闸 2 查底数（MCA 镜像）后一页纸",
+  "表内兴趣：switch MC CCTV等；丰润达的商业POE"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（电商零售 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

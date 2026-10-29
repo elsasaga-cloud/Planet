@@ -1,17 +1,54 @@
 {
  "code": "SC-1393",
- "name_official": "setko.uz",
+ "name_official": "SETKO ООО — 「Умный Дом」",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（名录 2025-07 更新）",
  "summary": "C 池三闸捞出（○ 正式）：○ 成单回访 · 分销 20% / 集成 25%：SETKO ООО（塔什干；Panasonic / Siemens / Samsung 企业通信官方供应商 + 安防 / 网络；top.uz 公开 nikolay@setko.uz）部分坐实（ИНН 未取）；成单 ✔ 对位 ✔ 坐实 ✔ → P 池候选（退信 → 改发 nikolay@）；Q-33 口径",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "分销（闸 2 判定 · 20% 档）",
+ "size": "小型（推定）",
+ "brands_seen": [
+  "Siemens"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "SETKO ООО — 「Умный Дом」（setko.uz；**yellowpages.uz / pc.uz / top.uz：塔什干 Mirzo-Ulugbek 区（просп. Мустакиллик 2 / м-в Ирригатор 2）；+998 71 237-29-77；Panasonic / Siemens / Samsung 企业通信系统官方供应商 + 安防 / 网络 / 智能家居；top.uz 公开邮箱 info@ / nikolay@setko.uz",
+   "quote": "UZ · 1 次检索：yellowpages.uz（法人 SETKO ООО）+ pc.uz（品类 / 电话 / 2025 更新）+ top.uz（nikolay@ 公开）；ИНН 未取；2026-10-29",
+   "url": "https://pc.uz/company/10212-setko",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "乌兹别克斯坦 setko.uz：2018/19 买过洪瑞 PoE 交换机（CCTV 类）；成单 + 对位 ✔；退信但域名 MX 正常 → 闸 2 查底数 + 找新地址",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：○ 成单回访 · 分销 20% / 集成 25%：SETKO ООО（塔什干；Panasonic / Siemens / Samsung 企业通信官方供应商 + 安防 / 网络；top.uz 公开 nikolay@setko.uz）部分坐实（ИНН 未取）；成单 ✔ 对位 ✔ 坐实 ✔ → P 池候选（退信 → 改发 nikolay@）；Q-33 口径；备注：成单户；q33_hold（经销体系现供）→ 只盯不主动发，对方来信即接",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "info@setko.uz",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "sales@setko.uz",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 成单回访 · 分销 20% / 集成 25%：SETKO ООО（塔什干；Panasonic / Siemens / Samsung 企业通信官方供应商 + 安防 / 网络；top.uz 公开 nikolay@setko.uz）部分坐实（ИНН 未取）；成单 ✔ 对位 ✔ 坐实 ✔ → P 池候选（退信 → 改发 nikolay@）；Q-33 口径；闸 1：乌兹别克斯坦 setko.uz：2018/19 买过洪瑞 PoE 交换机（CCTV 类）；成单 + 对位 ✔；退信但域名 MX 正常 → 闸 2 查底数 + 找新地址",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +78,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +93,61 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 成单回访 · 分销 20% / 集成 25%：SETKO ООО（塔什干；Panasonic / Siemens / Samsung 企业通信官方供应商 + 安防 / 网络；top.uz 公开 nikolay@setko.uz）部分坐实（ИНН 未取）；成单 ✔ 对位 ✔ 坐实 ✔ → P 池候选（退信 → 改发 nikolay@）；Q-33 口径",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "UZ · 1 次检索：yellowpages.uz（法人 SETKO ООО）+ pc.uz（品类 / 电话 / 2025 更新）+ top.uz（nikolay@ 公开）；ИНН 未取；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://pc.uz/company/10212-setko"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "SETKO ООО — 「Умный Дом」",
+  "reg_no": "未取（ИНН 未查；法人名坐实）",
+  "status": "营业中（名录 2025-07 更新）",
+  "incorporated": "未取",
+  "company_type": "ООО",
+  "address": "Мирзо-Улугбекский район, Ташкент 100000",
+  "size_band": "小型（推定）",
+  "officers": [
+   "Nikolay（nikolay@setko.uz；top.uz 公开 — 职务未取）",
+   "（info@ / sales@setko.uz 表内；曾退信）"
+  ],
+  "psc": "未取",
+  "source": "UZ · 1 次检索：yellowpages.uz（法人 SETKO ООО）+ pc.uz（品类 / 电话 / 2025 更新）+ top.uz（nikolay@ 公开）；ИНН 未取；2026-10-29",
+  "url": "https://pc.uz/company/10212-setko",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "企业通信 / 安防 / 网络集成 + 门店（塔什干）"
+ ],
+ "channels": {
+  "网站": "https://setko.uz",
+  "直邮": "info@setko.uz，sales@setko.uz（表内）"
+ },
+ "signals": [
+  "乌兹别克斯坦 setko.uz：2018/19 买过洪瑞 PoE 交换机（CCTV 类）；成单 + 对位 ✔；退信但域名 MX 正常 → 闸 2 查底数 + 找新地址",
+  "表内兴趣：18 19年买了洪瑞一些POE switch 主要是CCTV类产品；CCTV"
+ ],
+ "risks": [
+  "**成单户回访 → 分销 20% / 集成 25%：改发 nikolay@ 一页纸一次（STC-028GP / STC-228GP + STI-154GP + MOQ 1）— 区域外常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳；低频一页纸；洪瑞现供 → Q-33 口径（默认只推 SmartByte / Marvell 管理 + 工业线）*",
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

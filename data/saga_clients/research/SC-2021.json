@@ -1,17 +1,46 @@
 {
  "code": "SC-2021",
- "name_official": "distributor",
+ "name_official": "Acceron Infosol Pvt. Ltd.",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（目录 2025）",
  "summary": "C 池三闸捞出（★ 正式）：★ 印度 · VAD 分销 20%：Acceron Infosol Pvt Ltd（Thane / Mumbai；2007；30 人；IT 安全 / 网络 / 无线增值分销）部分坐实（CIN 未取）；主动索要资料 = 真意向 ✔ 分销主体 ✔ 对位 ✔ → P 池候选（回「已发资料」稿）",
- "type": "",
- "size": "",
+ "type": "VAD 分销（闸 2 判定 · 20% 档）",
+ "size": "小型（30–32 人）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Acceron Infosol Pvt. Ltd.（acceron.net；**Thane 400604 / Mumbai；2007 创立；30–32 人；IT 安全 / 网络 / 无线 增值分销（VAD），自述 APAC；X @AcceronIndia；LinkedIn acceron-india**）；CIN 未取；表内名「distributor」，主动索要 company profile + catalogue，8 推 0 回",
+   "quote": "IN · 1 次检索：x.com/acceronindia（Thane / VAD）+ bebee + rocketreach（2007 / 人数 / 法人名）；CIN 未取；2026-10-29",
+   "url": "https://bebee.com/in/companies/acceron-infosol-pvt-ltd",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "印度 Acceron（acceron.net；表内名「distributor」；主动索要 1/ company profile 2/ catalogue；8 推 0 回）：真意向 ✔ 分销主体 ✔ Simon 点名印度；→ 闸 2 查底数（zaubacorp）后点名回「已发资料」稿；低优先",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：★ 印度 · VAD 分销 20%：Acceron Infosol Pvt Ltd（Thane / Mumbai；2007；30 人；IT 安全 / 网络 / 无线增值分销）部分坐实（CIN 未取）；主动索要资料 = 真意向 ✔ 分销主体 ✔ 对位 ✔ → P 池候选（回「已发资料」稿）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "faizuddin.pasha@acceron.net",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 印度 · VAD 分销 20%：Acceron Infosol Pvt Ltd（Thane / Mumbai；2007；30 人；IT 安全 / 网络 / 无线增值分销）部分坐实（CIN 未取）；主动索要资料 = 真意向 ✔ 分销主体 ✔ 对位 ✔ → P 池候选（回「已发资料」稿）；闸 1：印度 Acceron（acceron.net；表内名「distributor」；主动索要 1/ company profile 2/ catalogue；8 推 0 回）：真意向 ✔ 分销主体 ✔ Simon 点名印度；→ 闸 2 查底数…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +70,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（VAD 分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +85,60 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 印度 · VAD 分销 20%：Acceron Infosol Pvt Ltd（Thane / Mumbai；2007；30 人；IT 安全 / 网络 / 无线增值分销）部分坐实（CIN 未取）；主动索要资料 = 真意向 ✔ 分销主体 ✔ 对位 ✔ → P 池候选（回「已发资料」稿）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "IN · 1 次检索：x.com/acceronindia（Thane / VAD）+ bebee + rocketreach（2007 / 人数 / 法人名）；CIN 未取；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://bebee.com/in/companies/acceron-infosol-pvt-ltd"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Acceron Infosol Pvt. Ltd.",
+  "reg_no": "未取（CIN 未查；法人名目录坐实）",
+  "status": "营业中（目录 2025）",
+  "incorporated": "2007",
+  "company_type": "Private Limited",
+  "address": "Thane, Maharashtra 400604（街道未取）",
+  "size_band": "小型（30–32 人）",
+  "officers": [
+   "（具名 KP 未取）"
+  ],
+  "psc": "未取",
+  "source": "IN · 1 次检索：x.com/acceronindia（Thane / VAD）+ bebee + rocketreach（2007 / 人数 / 法人名）；CIN 未取；2026-10-29",
+  "url": "https://bebee.com/in/companies/acceron-infosol-pvt-ltd",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "IT 安全 / 网络增值分销（孟买 Thane）"
+ ],
+ "channels": {
+  "网站": "https://acceron.net",
+  "直邮": "faizuddin.pasha@acceron.net（表内）"
+ },
+ "signals": [
+  "印度 Acceron（acceron.net；表内名「distributor」；主动索要 1/ company profile 2/ catalogue；8 推 0 回）：真意向 ✔ 分销主体 ✔ Simon 点名印度；→ 闸 2 查底数（zaubacorp）后点名回「已发资料」稿；低优先",
+  "表内兴趣：1/Company profile\n2/catalogue"
+ ],
+ "risks": [
+  "**印度 · VAD 分销 20%：回「已发资料」稿 + 一页纸一次（STC-228GP $33 / STC-2224GP $86 / STC-4424GCPM $165 分销价 + MOQ 1 + 付费样机）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE /",
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（VAD 分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

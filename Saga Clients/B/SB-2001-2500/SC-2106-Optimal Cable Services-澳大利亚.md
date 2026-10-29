@@ -1,10 +1,11 @@
 # Optimal Cable Services
+**官方名称（调研核实）**：Optimal Cable Services Pty Ltd → AFL
 
 > **评级 B**　|　澳大利亚　|　档案编号 `SC-2106`　|　优先级 ★★　|　状态：成交过·维护
 >
 > **C 池筛选：△ P 池 · 观察档（疑点（制裁 / 国别 / 主体 / 收款）核清后转正或退回 C）**（闸 3 · 2026-10-29）：☆ P 池观察档（档位 △ = 微型 / 自用 / 个体 / 存疑，试单或回访一次后定）：△ 观察档 · dayjob：Optimal Cable Services Pty Ltd → AFL（Tottenham VIC；光缆 / 连接产品制造；Peter Dicka 现 Manager Connectivity AFL Australia = 表内 KP 在职）部分坐实（ABN 未取）；2007 起长期成单 ✔ KP 在职 ✔；产品偏光传输 + AFL 集团体系 → 入池观察档，待 Q-70　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
 >
-> **类型**：系统集成/工程商（推断）　|　**历史关系**：成交/下单过；推送 23 次（2024-04-02 → 2025-10-22）　|　**所在清单**：A优质名单(AU)、DWDM线索、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：待定（闸 2 未分型；官网快照后定）（推断）　|　**历史关系**：成交/下单过；推送 23 次（2024-04-02 → 2025-10-22）　|　**所在清单**：A优质名单(AU)、DWDM线索、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-2106
@@ -12,12 +13,12 @@ rating: B
 rating_auto: C
 sieve: pool_watch  # 闸 3 P1 2026-10-29
 rating_research: B  # Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · 
-name_official: "Optimal Cable Services"
+name_official: "Optimal Cable Services Pty Ltd → AFL"
 score: -6
 country: 澳大利亚
 region: 亚太
 website: optimal.com.au
-type: 系统集成/工程商
+type: 待定（闸 2 未分型；官网快照后定）
 tier_tags: ["A优质名单(AU)", "DWDM线索", "用户判定不行"]
 deal: yes
 replies: 0
@@ -25,7 +26,7 @@ followups: 23
 first_contact: 2024-04-02
 last_contact: 2025-10-22
 s_mail: 25 msgs (out 25 / in 0), 2024-07-01 -> 2026-02-02
-p1: STI-110GE
+p1: STC-2216GP
 price_tier: 25%
 research: done
 site_snapshot: none
@@ -38,7 +39,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（△ 观察）：△ 观察档 · dayjob：Optimal Cable Services Pty Ltd → AFL（Tottenham VIC；光缆 / 连接产品制造；Peter Dicka 现 Manager Connectivity AFL Australia = 表内 KP 在职）部分坐实（ABN 未取）；2007 起长期成单 ✔ KP 在职 ✔；产品偏光传输 + AFL 集团体系 → 入池观察档，待 Q-70（调研 2026-10-29；表内兴趣：MC 光比较多 07年就开始合作的客户；接线 Network 项目商；公司07年就开始合作的客户 买过MC, CWDM 偶尔有反应）
 - **为什么是 B 级**：**调研后定级 B**（Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · dayjob：Optimal Cable Services Pty Ltd → AFL（Tottenham VIC；光缆 / 连接产品制造；Peter Dicka 现 Manager Connectivity AFL Australia = 表内 KP 在职）部分坐实（ABN 未取）；2007 起长期成单 ✔ KP 在职 ✔；产品偏光传输 + AFL 集团体系 → 入池观察档，待…；闸 1：澳大利亚 Optimal Cable Services（现属 AFL）：2007 年起合作、买过 MC / CWDM、「偶尔有反应」、23 次跟进 → 长期成单户 + 体量；产品偏光传输 → 闸 2 核现状并标 dayjob）；自动分级 C：+50 有成单/下单/买过记录（用户备注或跟进表）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；-8 DWDM/光传输线索：Saga 不做 DWDM（Hohunet 线为交换机）；-60 用户已归入「不行及不太相关的」；-3 WhatsApp 加不上；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/澳大利亚；+5 最近活动 2025；-16 推送 23 次无任何回复（聋名单）
 - **历史互动**：成交/下单过；推送 23 次（2024-04-02 → 2025-10-22）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STI-110GE — 待复核后按业务线定首推型号；
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-2216GP — 默认对位（类型待定 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）；
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动：LT-01 复核（待过）后再定 — 长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
@@ -51,12 +52,13 @@ updated: 2026-10-29
 - **现状一句话**：C 池三闸捞出 → B（LT-01）：△ 观察档 · dayjob：Optimal Cable Services Pty Ltd → AFL（Tottenham VIC；光缆 / 连接产品制造；Peter Dicka 现 Manager Connectivity AFL Australia = 表内 KP 在职）部分坐实（ABN 未取）；2007 起长期成单 ✔ KP 在职 ✔；产品偏光传输 + AFL 集团体系 → 入池观察档，待…
 - **对方真实需求（有据）**：未知（无往来；复核时从官网 / 进口数据 / 项目推断）
 - **断点 / 为什么停在这里**：无往来（从未触达或仅群发无回）
-- **Saga 现在该推什么**：P1 ****（% 档，价见价格主表）——待复核后按业务线定首推型号
+- **Saga 现在该推什么**：P1 **STC-2216GP**（% 档，价见价格主表）——默认对位（类型待定 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）
 - **下一步（具体）**：不动：LT-01 复核（待过）后再定　—　长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | △ 观察档 · dayjob：Optimal Cable Services Pty Ltd → AFL（Tottenham VIC；光缆 / 连接产品制造；Peter Dicka 现 Manager Connectivity AFL Australia = 表内 KP 在职）部分坐实（ABN 未取）；2007 起长期成单 ✔ KP 在职 ✔；产品偏光传输 + AFL 集团体系 → 入池观察档，待 Q-70 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
+| 2026-10-29 | 查 | Agent 登记底数（registry） | AU · 1 次检索：crunchbase（被 AFL 收购；11–50）+ bluebusinessguide（地址 / 电话）+ zoominfo（Peter Dicka 现职）；ABN 未取；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -91,7 +93,7 @@ updated: 2026-10-29
 | 名称 | Optimal Cable Services | 事实（用户表） |
 | 国家 | 澳大利亚（另见：美国） | 事实（用户表）|
 | 网站/域名 | optimal.com.au / aflglobal.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 系统集成/工程商 | 推断（据兴趣/备注关键词） |
+| 类型 | 待定（闸 2 未分型；官网快照后定） | 推断（据兴趣/备注关键词） |
 | 联系人 | 可以多跟进一下 / Mr. Peter S Dicka 经理 | 事实（用户表） |
 | 来源（From） | 之前同事转<br>2010.6.24 / 谷歌 / 程欢转 | 事实（用户表） |
 | 兴趣（Interested in） | MC 光比较多<br>07年就开始合作的客户 / 接线 Network 项目商 / 公司07年就开始合作的客户<br>买过MC, CWDM 偶尔有反应 | 事实（用户表） |
@@ -101,11 +103,38 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-29）**　网站状态：
+- **状态：已调研（2026-10-29）**　网站状态：营业中（AFL 旗下）
 - **是谁**：C 池三闸捞出（△ 观察）：△ 观察档 · dayjob：Optimal Cable Services Pty Ltd → AFL（Tottenham VIC；光缆 / 连接产品制造；Peter Dicka 现 Manager Connectivity AFL Australia = 表内 KP 在职）部分坐实（ABN 未取）；2007 起长期成单 ✔ KP 在职 ✔；产品偏光传输 + AFL 集团体系 → 入池观察档，待 Q-70
+- **类型**：待定（闸 2 未分型；官网快照后定）
+- **规模**：小型（11–50；集团 AFL）
+- **【登记底数 / 官网（闸 2 坐实）】Optimal Cable Services Pty Ltd → AFL（optimal.com.au；**Crunchbase：澳大利亚光缆 / 连接产品制造商，11–50 人，已被 AFL（藤仓集团）收购；bluebusinessguide：100 Olympia St, Tottenham VIC；03 9316 8300；ZoomInfo：Peter Dicka = Manager, Connectivity AFL (Australia)（= 表内 peter_di**
+  > AU · 1 次检索：crunchbase（被 AFL 收购；11–50）+ bluebusinessguide（地址 / 电话）+ zoominfo（Peter Dicka 现职）；ABN 未取；2026-10-29
+  > 来源：https://www.crunchbase.com/organization/optimal-cable-services（抓取 2026-10-29）
+- **【闸 1 对位】澳大利亚 Optimal Cable Services（现属 AFL）：2007 年起合作、买过 MC / CWDM、「偶尔有反应」、23 次跟进 → 长期成单户 + 体量；产品偏光传输 → 闸 2 核现状并标 dayjob**
+  > 来源：（抓取 2026-10-29）
+- **【长期群复核 LT-R03】桌面复核（闸 2 证据，三问成立）：△ 观察档 · dayjob：Optimal Cable Services Pty Ltd → AFL（Tottenham VIC；光缆 / 连接产品制造；Peter Dicka 现 Manager Connectivity AFL Australia = 表内 KP 在职）部分坐实（ABN 未取）；2007 起长期成单 ✔ KP 在职 ✔；产品偏光传输 + AFL 集团体系 → 入池观察档，待 …；备注：2007 起长期成单（光缆 / 连接）→ 成单户留 B；本职线并行**
+  > 来源：（抓取 2026-10-29）
+- **KP**：—（表内邮箱（公开 / 总机））marketing@aflglobal.com 〔〕
+- **KP**：—（表内邮箱（公开 / 总机））peter_dicka@optimal.com.au 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · dayjob：Optimal Cable Services Pty Ltd → AFL（Tottenham VIC；光缆 / 连接产品制造；Peter Dicka 现 Manager Connectivity AFL Australia = 表内 KP 在职）部分坐实（ABN 未取）；2007 起长期成单 ✔ KP 在职 ✔；产品偏光传输 + AFL 集团体系 → 入池观察档，待…；闸 1：澳大利亚 Optimal Cable Services（现属 AFL）：2007 年起合作、买过 MC / CWDM、「偶尔有反应」、23 次跟进 → 长期成单户 + 体量；产品偏光传输 → 闸 2 核现状并标 dayjob
-- 备注：（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
+- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Optimal Cable Services Pty Ltd → AFL |
+
+- **业务线**：光缆 / 连接产品制造（墨尔本）
+- **触达通道（公开）**：网站: https://optimal.com.au；直邮: marketing@aflglobal.com，peter_dicka@optimal.com.au（表内）
+- **近况信号**：
+  - 澳大利亚 Optimal Cable Services（现属 AFL）：2007 年起合作、买过 MC / CWDM、「偶尔有反应」、23 次跟进 → 长期成单户 + 体量；产品偏光传输 → 闸 2 核现状并标 dayjob
+  - 表内兴趣：MC 光比较多
+07年就开始合作的客户；接线 Network 项目商；公司07年就开始合作的客户
+买过MC, CWDM 偶尔有反应
+- **风险/边界**：登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号
+- **Saga 对位结论**：P1 STC-2216GP（25% 档）——默认对位（类型待定 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -188,6 +217,8 @@ updated: 2026-10-29
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| — | 表内邮箱（公开 / 总机） | marketing@aflglobal.com | 调研核实（公开页） | 调研 |
+| — | 表内邮箱（公开 / 总机） | peter_dicka@optimal.com.au | 调研核实（公开页） | 调研 |
 | Mr. Peter S Dicka | — | marketing@aflglobal.com / peter_dicka@optimal.com.au / +0393168300 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；邮件已推送 23 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
@@ -206,7 +237,7 @@ updated: 2026-10-29
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 工业迷你 1 光 1 电（MC 位） | $23.4 USD EXW（25% 档，SmartByte LT-IMC30G-E 125 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 25%（系统集成/工程商） |
+| **P1** | STC-2216GP | 深挖对位：默认对位（类型待定 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档） | $94.6 USD EXW（HRUI Realtek 线：Saga 对外列表价 $94.6（高于洪瑞 2026-09-30 成本 + 25% = $65.4）；见 data/价格主表_HRUI.csv；汇率 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（待定（闸 2 未分型；官网快照后定）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：25% 档 $145.7 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），25% 档公式为 $188.7——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -215,9 +246,9 @@ updated: 2026-10-29
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-110GE），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-2216GP），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STI-110GE）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-2216GP）；只问一个问题：当前在采购的主力型号与月量。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -227,7 +258,7 @@ updated: 2026-10-29
 
 - **S**：有成交史，信任与开户成本已付
 - **W**：已推送 23 次无回复，邮件通道疲劳
-- **O**：P1 STI-110GE 按 25% 档报价，做现供应商的第二货源
+- **O**：P1 STC-2216GP 按 25% 档报价，做现供应商的第二货源；规模（调研）：小型（11–50；集团 AFL）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -255,25 +286,7 @@ updated: 2026-10-29
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-110GE - industrial mini Gigabit media converter (neutral label)
-
-```text
-Hi Peter,
-
-Thank you again for your earlier order with us - this is a short update rather than a cold mail.
-
-We supply an industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $23.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
-```
-
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> 该客户的需求（VC/光端机、SFP/DWDM 等）不在 Saga 三家供应商产品线内：不出邮件样板；若要只推交换机，用 STC-28DGGPM 版本手改。
 
 ## 新跟进记录（仓库外发出后补）
 

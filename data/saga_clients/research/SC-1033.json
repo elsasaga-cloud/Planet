@@ -1,17 +1,46 @@
 {
  "code": "SC-1033",
- "name_official": "Bausch Datacom",
+ "name_official": "BAUSCH DATACOM NV",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "域名 bausch.be（官网快照待 Actions 补抓）",
  "summary": "C 池三闸捞出（○ 正式）：○ 分销 20%（冷户）：Bausch Datacom NV（0437.286.193；Bierbeek 1997；电子 / 电信设备批发；年报 2024 已递）坐实；对位 ✔ 欧洲 ✔ 坐实 ✔ 体量 ✔ = §5 四条 → P 池候选；具名 dominiek@",
- "type": "",
- "size": "",
+ "type": "分销（闸 2 判定 · 20% 档）",
+ "size": "中小型（推定）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "BAUSCH DATACOM NV（bausch.be；**staatsbladmonitor：ondernemingsnummer 0437.286.193；Tiensesteenweg 56, 3360 Bierbeek（Korbeek-Lo）；1997-01-17 成立（Kompass 1989）；NV；状态 Actief / Normale toestand；最近年报 2024 年度（2025-07-14 递交）；NACE 46520 电子 / 电信设备批发**）；表",
+   "quote": "BE · 1 次检索：staatsbladmonitor（BE0437286193；Actief；jaarrekening 2024）+ kompass（Tiensesteenweg 56；1989；46520）+ trendstop（旧 0436.762.393 Leuven 分支）；2026-10-29",
+   "url": "https://www.staatsbladmonitor.be/bedrijfsfiche.html?ondernemingsnummer=0437286193",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "比利时 Bausch Datacom（网络产品分销：二层光纤交换机、SFP）：欧洲 + 分销商主体 + 对位 ✔，冷户（未推送过）→ 闸 2 查底数，入池需 §5 ≥4 条",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R02",
+   "claim": "桌面复核（闸 2 证据充分，三问成立）：○ 分销 20%（冷户）：Bausch Datacom NV（0437.286.193；Bierbeek 1997；电子 / 电信设备批发；年报 2024 已递）坐实；对位 ✔ 欧洲 ✔ 坐实 ✔ 体量 ✔ = §5 四条 → P 池候选；具名 dominiek@",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "dominiek@bausch.be",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 分销 20%（冷户）：Bausch Datacom NV（0437.286.193；Bierbeek 1997；电子 / 电信设备批发；年报 2024 已递）坐实；对位 ✔ 欧洲 ✔ 坐实 ✔ 体量 ✔ = §5 四条 → P 池候选；具名 dominiek@；闸 1：比利时 Bausch Datacom（网络产品分销：二层光纤交换机、SFP）：欧洲 + 分销商主体 + 对位 ✔，冷户（未推送过）→ 闸 2 查底数，入池需 §5 ≥4 条",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +70,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +85,59 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 分销 20%（冷户）：Bausch Datacom NV（0437.286.193；Bierbeek 1997；电子 / 电信设备批发；年报 2024 已递）坐实；对位 ✔ 欧洲 ✔ 坐实 ✔ 体量 ✔ = §5 四条 → P 池候选；具名 dominiek@",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "BE · 1 次检索：staatsbladmonitor（BE0437286193；Actief；jaarrekening 2024）+ kompass（Tiensesteenweg 56；1989；46520）+ trendstop（旧 0436.762.393 Leuven 分支）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.staatsbladmonitor.be/bedrijfsfiche.html?ondernemingsnummer=0437286193"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "BAUSCH DATACOM NV",
+  "reg_no": "0437.286.193",
+  "status": "Actief（年报 2024 已递）",
+  "incorporated": "1997-01-17",
+  "company_type": "NV",
+  "address": "Tiensesteenweg 56, 3360 Bierbeek",
+  "size_band": "中小型（推定）",
+  "officers": [
+   "Dominiek（dominiek@bausch.be 表内具名；职务未取）"
+  ],
+  "psc": "未取",
+  "source": "BE · 1 次检索：staatsbladmonitor（BE0437286193；Actief；jaarrekening 2024）+ kompass（Tiensesteenweg 56；1989；46520）+ trendstop（旧 0436.762.393 Leuven 分支）；2026-10-29",
+  "url": "https://www.staatsbladmonitor.be/bedrijfsfiche.html?ondernemingsnummer=0437286193",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "电子 / 电信设备批发（46520）"
+ ],
+ "channels": {
+  "网站": "https://bausch.be",
+  "直邮": "dominiek@bausch.be（表内）"
+ },
+ "signals": [
+  "比利时 Bausch Datacom（网络产品分销：二层光纤交换机、SFP）：欧洲 + 分销商主体 + 对位 ✔，冷户（未推送过）→ 闸 2 查底数，入池需 §5 ≥4 条",
+  "表内兴趣：network products\n2nd layer fiber switch, SFP"
+ ],
+ "risks": [
+  "**分销 20%：首次触达一页纸（STC-228GP $33 / STC-2224GP $86 二层光口 + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；冷户 → 回声后再深挖"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

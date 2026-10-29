@@ -1,17 +1,48 @@
 {
  "code": "SC-2488",
- "name_official": "fiber24.net",
+ "name_official": "Fiber24 GmbH",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "域名 fiber24.net（官网快照待 Actions 补抓）",
  "summary": "C 池三闸捞出（○ 正式）：○ 分销 20%：Fiber24 GmbH（HRB 104376 Hamburg；2008；RIK Holding 控制；Planet 在售）坐实；分销 ✔ 主区 ✔ 坐实 ✔ 对位 ✔ = 冷户四条 → P 池候选；Simon 曾判不行，可否决",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "分销（闸 2 判定 · 20% 档）",
+ "size": "小型（推定；股本 €25,000）",
+ "brands_seen": [
+  "PLANET"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Fiber24 GmbH（fiber24.net；**unternehmen24 / creditreform / webvalid：HRB 104376 Amtsgericht Hamburg；Wandsbeker Königstraße 50, 22041 Hamburg；2008-03-04 登记；股本 €25,000；UID DE259003489；经营范围「电信与网络产品的贸易与销售」；2021-11-11 与 RIK Holding GmbH（Selmsdorf，",
+   "quote": "DE · 1 次检索：unternehmen24（HRB 104376；2008；€25,000；DE259003489）+ creditreform（Großhandel IKT；aktiv；2022-05 变更）+ webvalid（RIK Holding 控制协议）；2026-10-29",
+   "url": "https://www.unternehmen24.info/Firmeninformationen/Deutschland/Firma/3123567",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "德国 fiber24.net（光路 / Planet 的 / 工业 FS 很多牌子）：德国主区 + 多品牌分销 + 对位 ✔；8 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R01",
+   "claim": "Fiber24 GmbH（HRB 104376 Hamburg；2008；Planet 在售）：在卖同类台厂品牌 = 对位 + 进口经验 ✔ 分销 ✔ 主区 ✔ → 留 B",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "shop@fiber24.net",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 分销 20%：Fiber24 GmbH（HRB 104376 Hamburg；2008；RIK Holding 控制；Planet 在售）坐实；分销 ✔ 主区 ✔ 坐实 ✔ 对位 ✔ = 冷户四条 → P 池候选；Simon 曾判不行，可否决；闸 1：德国 fiber24.net（光路 / Planet 的 / 工业 FS 很多牌子）：德国主区 + 多品牌分销 + 对位 ✔；8 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +72,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +87,59 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 分销 20%：Fiber24 GmbH（HRB 104376 Hamburg；2008；RIK Holding 控制；Planet 在售）坐实；分销 ✔ 主区 ✔ 坐实 ✔ 对位 ✔ = 冷户四条 → P 池候选；Simon 曾判不行，可否决",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "DE · 1 次检索：unternehmen24（HRB 104376；2008；€25,000；DE259003489）+ creditreform（Großhandel IKT；aktiv；2022-05 变更）+ webvalid（RIK Holding 控制协议）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.unternehmen24.info/Firmeninformationen/Deutschland/Firma/3123567"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Fiber24 GmbH",
+  "reg_no": "HRB 104376（Hamburg）",
+  "status": "wirtschaftsaktiv（2021 年报已公示）",
+  "incorporated": "2008-03-04",
+  "company_type": "GmbH（RIK Holding GmbH 控制）",
+  "address": "Wandsbeker Königstraße 50, 22041 Hamburg",
+  "size_band": "小型（推定；股本 €25,000）",
+  "officers": [
+   "（shop@fiber24.net 表内 / info@fiber24.net 名录；Geschäftsführer 姓名未取 → handelsregister 待查）"
+  ],
+  "psc": "未取",
+  "source": "DE · 1 次检索：unternehmen24（HRB 104376；2008；€25,000；DE259003489）+ creditreform（Großhandel IKT；aktiv；2022-05 变更）+ webvalid（RIK Holding 控制协议）；2026-10-29",
+  "url": "https://www.unternehmen24.info/Firmeninformationen/Deutschland/Firma/3123567",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "ICT / 网络产品批发 + 网店（汉堡）"
+ ],
+ "channels": {
+  "网站": "https://fiber24.net",
+  "直邮": "shop@fiber24.net（表内）"
+ },
+ "signals": [
+  "德国 fiber24.net（光路 / Planet 的 / 工业 FS 很多牌子）：德国主区 + 多品牌分销 + 对位 ✔；8 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决",
+  "表内兴趣：光路的 planet的；工业FS 很多牌子的"
+ ],
+ "risks": [
+  "**多品牌网店分销（Planet 在售）→ 分销 20%：一页纸一次（STC-228GP / STC-2224GP 对标 Planet 同口型 + STI 工业 + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；Simon 可否决"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

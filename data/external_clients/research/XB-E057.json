@@ -1,0 +1,76 @@
+{
+ "code": "XB-E057",
+ "name": "COMMVERGE TECHNOLOGIES HOLDINGS (ASIA)",
+ "round": "LT-T01",
+ "researched_at": "2026-10-29",
+ "alive": "域名 sales.tw（DNS 查询出错，待重查）",
+ "summary": "COMMVERGE TECHNOLOGIES HOLDINGS (ASIA)（中国台北 · Taipei）：SI/VAR/集成商",
+ "type_final": "SI/VAR/集成商",
+ "size": "",
+ "brands_seen": [],
+ "saga_line": "STC 项目集成款（25% 档：STC-2216GP / STC-228GP）",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "SI/VAR/集成商",
+   "quote": "",
+   "url": "https://sales.tw",
+   "date": "2026-10-27"
+  },
+  {
+   "kind": "来源库证据链接",
+   "claim": "来源库调研时引用",
+   "quote": "",
+   "url": "https://www.commverge.com",
+   "date": "2026-10-27"
+  },
+  {
+   "kind": "来源库证据链接",
+   "claim": "来源库调研时引用",
+   "quote": "",
+   "url": "https://www.commverge.com.tw",
+   "date": "2026-10-27"
+  },
+  {
+   "kind": "来源库证据链接",
+   "claim": "来源库调研时引用",
+   "quote": "",
+   "url": "https://www.edge-core.com/where-to-buy/asia-reseller/",
+   "date": "2026-10-27"
+  },
+  {
+   "kind": "长期群复核 LT-R07",
+   "claim": "桌面复核（来源库核对 + 研究卡）：SI/VAR/集成商；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "contacts": {
+  "email": "sales.tw@commverge.com",
+  "email_status": "活（来源库 9 月核对）",
+  "kp": [
+   {
+    "name": "Wei Edmund Chih",
+    "role": "Chan（Edmund Wei），President & CEO 兼联合创始人",
+    "source": "来源库 KP 段"
+   }
+  ]
+ },
+ "touch_status": "S 箱 2026-10-21 去信 1 / 来信 0（24 Port PoE Managed Switch）",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "桌面复核（来源库核对 + 研究卡）：SI/VAR/集成商；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "官网快照 + 加厚后进群发分组（Q-77）"
+ },
+ "draft_en": null,
+ "deep": false,
+ "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+}

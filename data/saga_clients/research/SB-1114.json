@@ -1,9 +1,9 @@
 {
  "code": "SB-1114",
  "name_official": "Fikes Media",
- "website_status": "未核（本轮只用 S 邮箱证据）",
+ "website_status": "在线（Google Sites www.fikesmedia.com；2026-10-29 实查）",
  "summary": "美国小公司（Owner Christopher Fikes，电话区号 409 = 德州 Beaumont 一带），2026-10-03 回复群发表示有兴趣，关心 OEM 定制层级与控制器 API 集成；Simon 10-04 发完整 OEM 清单 + MIB + 规格书 + CLI/Web 手册并反问控制器架构，10-19 追问样品，客户未回。S 邮箱 4 封。",
- "type": "媒体/IT 集成小公司（业主直营）",
+ "type": "IT 集成 / 网络顾问（一人公司；客群 = 地方政府 / K-12 与高校 / SMB；方案 = 企业网络、数据中心网络、VoIP、MikroTik 咨询）",
  "size": "小（Owner 直接回信）",
  "brands_seen": [],
  "evidence": [
@@ -27,6 +27,13 @@
    "quote": "Any feedback about our product information? Maybe arrange 2 samples for testing?",
    "url": "data/gmail_s/messages/2026/2026-10.jsonl",
    "date": "2026-10-19"
+  },
+  {
+   "kind": "LT-T02 官网实查",
+   "claim": "客群三块：地方政府（图书馆 / 市政厅 / 警局）、K-12 与高校、SMB；方案四块：Enterprise Networking / Datacenter Networking（ToR、VXLAN）/ Open Voice（VoIP）/ Network Consulting（MikroTik consulting 页）",
+   "quote": "It's about function, not vendors. … Datacenter Networking: High speed throughput, top of rack connectivity, VXLAN, or a custom solution. … Network Consulting … /mikrotik-consulting",
+   "url": "https://www.fikesmedia.com/",
+   "date": "2026-10-29"
   }
  ],
  "kp": [
@@ -38,7 +45,7 @@
    "source": "S 邮箱签名"
   }
  ],
- "notes": "API/控制器集成是关键未知：Saga 线（SmartByte Marvell AC5）有 SNMP/CLI/Web，无云控制器 REST API——下一封应直说 SNMP + CLI 自动化可做、REST/云控不做，别吊着。",
+ "notes": "LT-T02 官网实查（2026-10-29）：见 evidence「LT-T02 官网实查」。\nAPI/控制器集成是关键未知：Saga 线（SmartByte Marvell AC5）有 SNMP/CLI/Web，无云控制器 REST API——下一封应直说 SNMP + CLI 自动化可做、REST/云控不做，别吊着。",
  "researched_at": "2026-10-22",
  "saga_fit": {
   "p1": "STC-424XGGPM-280W",
@@ -127,5 +134,13 @@
    "prev_reason": "具名 Owner 实质回复 + OEM 意向，但规模小、API 诉求未必能满足、追问未回 → B",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来"
   }
+ ],
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "邮件证据 + 官网实查 v1（LT-T02）",
+  "batch": "LT-T02"
+ },
+ "signals": [
+  "「function, not vendors」+ 自建数据中心网络页（ToR / VXLAN）→ 对白牌 Marvell 管理型 + 10G 上联接受度高；MikroTik 顾问身份 = 懂 CLI / SNMP，回信时直说 SNMP + CLI 自动化可做、REST 云控不做（见 notes）"
  ]
 }

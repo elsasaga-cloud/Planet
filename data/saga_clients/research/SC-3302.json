@@ -1,17 +1,58 @@
 {
  "code": "SC-3302",
- "name_official": "niveoprofessional.com",
+ "name_official": "Niveo Professional — BNS Netstar bv / Niveo International bv",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（LinkedIn 2024 更新）",
  "summary": "C 池三闸捞出（★ 正式）：★ 全线自有品牌 · OEM 30%：Niveo Professional = BNS Netstar bv / Niveo International bv（Hilversum 2009；2–10 人；营收估 $6.9M；A/V 安装渠道自有网络品牌；MD Arthur de Jager = 表内 arthur@）部分坐实（KvK 未取）；自有品牌 ✔ 决策人直达 ✔ 欧洲 ✔ 对位 ✔ → P 池候选（退信 → 改发 arthur…",
- "type": "",
- "size": "",
+ "type": "OEM（闸 2 判定 · 30% 档）",
+ "size": "微型（2–10；$6.9M）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Niveo Professional — BNS Netstar bv / Niveo International bv（niveoprofessional.com；**LinkedIn：Hilversum；2009 年创立；2–10 人；面向专业 A/V 安装商的自有网络品牌；Arthur de Jager = BNS Netstar bv 共同所有人 / Niveo International bv 董事总经理（= 表内 arthur@）；北美销售总监 David Ste",
+   "quote": "NL · 1 次检索：linkedin.com/company/netstar-products-bv（2009；2–10；Arthur de Jager 职务）+ zoominfo（Olympia 2D；$6.9M）；KvK 未取；2026-10-29",
+   "url": "https://www.linkedin.com/company/netstar-products-bv",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "荷兰 Niveo Professional（niveoprofessional.com；自有品牌 Niveo：商业 PoE / 10G / MC / 机架 / SFP / 大口 FS 全线贴牌）：欧洲 + 自有品牌 ✔ + 对位 ✔；15 推 0 回 + 退信 → 闸 2 查底数 + 找新地址（OEM 对象）；Simon 曾判不行 → 可按编号否决",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R02",
+   "claim": "桌面复核（闸 2 证据充分，三问成立）：★ 全线自有品牌 · OEM 30%：Niveo Professional = BNS Netstar bv / Niveo International bv（Hilversum 2009；2–10 人；营收估 $6.9M；A/V 安装渠道自有网络品牌；MD Arthur de Jager = 表内 arthur@）部分坐实（KvK 未取）；自有品牌 ✔ 决策人直达 ✔ 欧洲 ✔ 对位 ✔ → P 池候选（退信 → 改发 arthur@…",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "info@niveoprofessional.com",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "arthur@niveoprofessional.com",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "jaap@niveoprofessional.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 全线自有品牌 · OEM 30%：Niveo Professional = BNS Netstar bv / Niveo International bv（Hilversum 2009；2–10 人；营收估 $6.9M；A/V 安装渠道自有网络品牌；MD Arthur de Jager = 表内 arthur@）部分坐实（KvK 未取）；自有品牌 ✔ 决策人直达 ✔ 欧洲 ✔ 对位 ✔ → …；闸 1：荷兰 Niveo Professional（niveoprofessional.com；自有品牌 Niveo：商业 PoE / 10G / MC / 机架 / SFP / 大口 FS 全线贴牌）：欧洲 + 自有品牌 ✔ + 对位 ✔；15…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +82,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +97,62 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 全线自有品牌 · OEM 30%：Niveo Professional = BNS Netstar bv / Niveo International bv（Hilversum 2009；2–10 人；营收估 $6.9M；A/V 安装渠道自有网络品牌；MD Arthur de Jager = 表内 arthur@）部分坐实（KvK 未取）；自有品牌 ✔ 决策人直达 ✔ 欧洲 ✔ 对位 ✔ → P 池候选（退信 → 改发 arthur@ / jaap@）；Simon 曾判不行，可否决",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "NL · 1 次检索：linkedin.com/company/netstar-products-bv（2009；2–10；Arthur de Jager 职务）+ zoominfo（Olympia 2D；$6.9M）；KvK 未取；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.linkedin.com/company/netstar-products-bv"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Niveo Professional — BNS Netstar bv / Niveo International bv",
+  "reg_no": "未取（KvK 未查）",
+  "status": "营业中（LinkedIn 2024 更新）",
+  "incorporated": "2009",
+  "company_type": "B.V.（BNS Netstar bv / Niveo International bv）",
+  "address": "Olympia 2D, Hilversum",
+  "size_band": "微型（2–10；$6.9M）",
+  "officers": [
+   "Arthur de Jager — Co-owner BNS Netstar bv / MD Niveo International bv（arthur@niveoprofessional.com 表内 = 决策人直达）",
+   "jaap@niveoprofessional.com（表内具名）",
+   "David Stephens — Director of Sales North America"
+  ],
+  "psc": "未取",
+  "source": "NL · 1 次检索：linkedin.com/company/netstar-products-bv（2009；2–10；Arthur de Jager 职务）+ zoominfo（Olympia 2D；$6.9M）；KvK 未取；2026-10-29",
+  "url": "https://www.linkedin.com/company/netstar-products-bv",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "自有品牌网络产品（A/V 安装渠道；欧美）"
+ ],
+ "channels": {
+  "网站": "https://niveoprofessional.com",
+  "直邮": "info@niveoprofessional.com，arthur@niveoprofessional.com，jaap@niveoprofessional.com（表内）"
+ },
+ "signals": [
+  "荷兰 Niveo Professional（niveoprofessional.com；自有品牌 Niveo：商业 PoE / 10G / MC / 机架 / SFP / 大口 FS 全线贴牌）：欧洲 + 自有品牌 ✔ + 对位 ✔；15 推 0 回 + 退信 → 闸 2 查底数 + 找新地址（OEM 对象）；Simon 曾判不行 → 可按编号否决",
+  "表内兴趣：商业PoE 配件 10G；MC 机架 SFP 大口FS"
+ ],
+ "risks": [
+  "**全线自有品牌 → OEM 30%：点名 Arthur 一页纸一次（STC-228GP / STC-2224GP / STC-4424GCPM L2+ 丝印 + 10G 口型 STC-424XGGM + MOQ + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；退信 →",
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

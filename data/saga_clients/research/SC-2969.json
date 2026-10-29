@@ -1,17 +1,39 @@
 {
  "code": "SC-2969",
- "name_official": "metrikingdom.com",
+ "name_official": "Metrikingdom Unipessoal Lda",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（iberinform 2026-08）",
  "summary": "C 池三闸捞出（△ 观察）：△ 葡萄牙（欧洲）· 微型 IT 服务商 25% 预付 100%：Metrikingdom Unipessoal Lda（Lisboa；NIF 515518425；2019-06-04；资本 € 6k；CAE 62100 编程）坐实；具体需求 2 SFP + 2 RJ45 ✔ 电话 ✔ 欧洲 ✔ 但微型 + 非设备商 → P 池候选 △（复购存疑，先样机）",
- "type": "",
- "size": "",
+ "type": "微型 IT 服务商（闸 2 判定 · 25% 档）",
+ "size": "微型（独资有限，资本 € 6k）",
  "brands_seen": [],
- "evidence": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Metrikingdom Unipessoal Lda（metrikingdom.com；**NIF / NIPC 515518425；Rua Santa Marta N.º 43Ef, 3 D, 1150-293 Lisboa；2019-06-04 成立；Sociedade Unipessoal por Quotas；资本 € 6.000；CAE 62100 = 计算机编程活动（iberinform 2026-08 更新）**）；表内：Saleha Kanwal，+351 ",
+   "quote": "PT · 1 次检索：racius（NIF / 地址 / 成立日 / 资本）+ iberinform（CAE 62100 / 形式）；2026-10-29",
+   "url": "https://www.racius.com/metrikingdom-unipessoal-lda/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "葡萄牙 Metri Kingdom（metrikingdom.com 正常；Saleha Kanwal；+351 920 236 978；问「2 SFP + 2 RJ45 交换机」✔；无邮箱）：欧洲 ✔ 对位产品问 ✔ 电话 / WA 可达 ✔ 公司可坐实 ✔ → 闸 2 查底数（葡萄牙 NIF：racius / einforma 镜像）后 WA / 邮件一页纸（STC-228GP $33 锚）；微型则 △ 预付",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R01",
+   "claim": "Metrikingdom Unipessoal Lda（Lisboa；NIF 515518425；微型 IT 服务商）：有具体规格需求（2 SFP + 2 RJ45）+ 电话可达 → 有成单可能（小单）→ 留 B，预付 100%",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
  "kp": [],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 葡萄牙（欧洲）· 微型 IT 服务商 25% 预付 100%：Metrikingdom Unipessoal Lda（Lisboa；NIF 515518425；2019-06-04；资本 € 6k；CAE 62100 编程）坐实；具体需求 2 SFP + 2 RJ45 ✔ 电话 ✔ 欧洲 ✔ 但微型 + 非设备商 → P 池候选 △（复购存疑，先样机）；闸 1：葡萄牙 Metri Kingdom（metrikingdom.com 正常；Saleha Kanwal；+351 920 236 978；问「2 SFP + 2 RJ45 交换机」✔；无邮箱）：欧洲 ✔ 对位产品问 ✔ 电话 / WA 可…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +63,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-2216GP",
+   "why": "默认对位（微型 IT 服务商 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +78,55 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "△ 葡萄牙（欧洲）· 微型 IT 服务商 25% 预付 100%：Metrikingdom Unipessoal Lda（Lisboa；NIF 515518425；2019-06-04；资本 € 6k；CAE 62100 编程）坐实；具体需求 2 SFP + 2 RJ45 ✔ 电话 ✔ 欧洲 ✔ 但微型 + 非设备商 → P 池候选 △（复购存疑，先样机）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "PT · 1 次检索：racius（NIF / 地址 / 成立日 / 资本）+ iberinform（CAE 62100 / 形式）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.racius.com/metrikingdom-unipessoal-lda/"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Metrikingdom Unipessoal Lda",
+  "reg_no": "515518425（NIF / NIPC）",
+  "status": "营业中（iberinform 2026-08）",
+  "incorporated": "2019-06-04",
+  "company_type": "Sociedade Unipessoal por Quotas",
+  "address": "Rua Santa Marta N.º 43Ef, 3 D, 1150-293 Lisboa",
+  "size_band": "微型（独资有限，资本 € 6k）",
+  "officers": [
+   "Saleha Kanwal — 表内联系人（职务未取）"
+  ],
+  "psc": "未取",
+  "source": "PT · 1 次检索：racius（NIF / 地址 / 成立日 / 资本）+ iberinform（CAE 62100 / 形式）；2026-10-29",
+  "url": "https://www.racius.com/metrikingdom-unipessoal-lda/",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "IT 编程 / 服务（里斯本）—— 非网络设备分销"
+ ],
+ "channels": {
+  "网站": "https://metrikingdom.com"
+ },
+ "signals": [
+  "葡萄牙 Metri Kingdom（metrikingdom.com 正常；Saleha Kanwal；+351 920 236 978；问「2 SFP + 2 RJ45 交换机」✔；无邮箱）：欧洲 ✔ 对位产品问 ✔ 电话 / WA 可达 ✔ 公司可坐实 ✔ → 闸 2 查底数（葡萄牙 NIF：racius / einforma 镜像）后 WA / 邮件一页纸（STC-228GP $33 锚）；",
+  "表内兴趣：2SFP+2RJ45交换机"
+ ],
+ "saga_fit": {
+  "p1": "STC-2216GP",
+  "tier": 25,
+  "why": "默认对位（微型 IT 服务商 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

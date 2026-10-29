@@ -1,6 +1,6 @@
 # XB-C1210 · Instant Technology LLC · 阿联酋
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:21052 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:21052 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T01 2026-10-29）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XB** — 对口但不在主攻区（美加/欧/土以外）→ XB
@@ -69,7 +69,23 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究与跟进（第 2 步起填）
-- 研究状态：未研究
-- 研究结论 / 升降建议：—
-- 下一步：—
+## 8. 研究卡（第 2 步，LT-T01，2026-10-29）
+
+- **结论：XB** — 桌面复核（来源库核对 + 研究卡）：Etisalat/du认证光纤+Cisco/Fortinet；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））
+- 活着吗：域名 instec.ae MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓
+- 一句话：Instant Technology LLC（阿联酋）：Etisalat/du认证光纤+Cisco/Fortinet；公司全称=Instant Technology LLC；公司类型=Etisalat/du认证光纤+Cisco/Fortinet；总部=Officer's Court Building, Office 521, Near Oud Metha Metro, ；客户优先级=🟡 B类（Etisalat认证+多品牌网络设备）
+- 是什么人：Etisalat/du认证光纤+Cisco/Fortinet
+- 在卖/在用：Cisco、Fortinet
+- 对口哪条线：STC 项目集成款（25% 档：STC-2216GP / STC-228GP）
+- 找得到人吗：info@instec.ae（活（来源库 9 月核对））；KP：无具名
+- 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
+- 与 Saga Clients：无
+- **下一动作：不动**；建议 官网快照 + 加厚后进群发分组（Q-77）
+
+证据：
+| 类型 | 说明 | 摘录 | 来源 | 日期 |
+|---|---|---|---|---|
+| 来源库官网/名录核对 | Etisalat/du认证光纤+Cisco/Fortinet；公司全称=Instant Technology LLC；公司类型=Etisalat/du认证光纤+Cisco/Fortinet；总部=Officer's Court Building, Office 521, Near Oud Metha Metro, ；客户优先级=🟡 B类（Etisalat认证+多品牌网络设备） |  | https://instec.ae | 2026-09 |
+| 长期群复核 LT-R07 | 桌面复核（来源库核对 + 研究卡）：Etisalat/du认证光纤+Cisco/Fortinet；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%）） |  |  | 2026-10-29 |
+
+- 备注：LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。

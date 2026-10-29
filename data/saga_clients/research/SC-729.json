@@ -1,17 +1,48 @@
 {
  "code": "SC-729",
- "name_official": "brownbear.ru",
+ "name_official": "Brown Bear",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "域名 brownbear.ru（官网快照待 Actions 补抓）",
  "summary": "C 池三闸捞出（△ 观察）：闸 2 回 C：Brown Bear（brownbear.ru）1 查仅同名 ООО «Браун» 他户 → 未坐实；Planet 渠道 ✔ 但法人未取 → 回 C 储备",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "安防 / 网络设备批发（闸 2 判定 · 20% 档）",
+ "size": "未取",
+ "brands_seen": [
+  "PLANET"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Brown Bear（brownbear.ru；**1 查仅返回同名 ООО «Браун» 三户（ИНН 7743403838 / 4500006897 / 7730325981）均与域名无关 → 法人未取**）；表内：工业 FS / MC Planet 的；未触达",
+   "quote": "RU · 1 次检索：focus.kontur / birweb / saby 同名户均非本域 → 未坐实；2026-10-29",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "俄罗斯 Brown Bear（brownbear.ru；工业 FS / MC Planet 的）：进口台湾同类 ✔ 对位 ✔ Simon 点名俄罗斯；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：○ 俄罗斯 · 安防 / 网络设备批发 20%：brownbear.ru 对应法人 ИНН 9728025085 / ОГРН 1217700015807（Москва，2021 登记；类目：安防系统、网络设备、电缆、电信设备）第三方聚合页部分坐实（官网页脚未直取 → reg_pending 复核）；Planet 渠道 ✔ 对位 ✔ order@ 路径 ✔；年轻公司 + 收款待定 → 预付 100…；备注：业务清晰（安防 / 网络设备批发，Planet 渠道）；仅法人聚合页待直取 → reg_pending 不影响留 B；俄罗斯收款待定",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "order@brownbear.ru",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：闸 2 回 C：Brown Bear（brownbear.ru）1 查仅同名 ООО «Браун» 他户 → 未坐实；Planet 渠道 ✔ 但法人未取 → 回 C 储备；闸 1：俄罗斯 Brown Bear（brownbear.ru；工业 FS / MC Planet 的）：进口台湾同类 ✔ 对位 ✔ Simon 点名俄罗斯；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +72,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（安防 / 网络设备批发 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +87,58 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "闸 2 回 C：Brown Bear（brownbear.ru）1 查仅同名 ООО «Браун» 他户 → 未坐实；Planet 渠道 ✔ 但法人未取 → 回 C 储备",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "RU · 1 次检索：focus.kontur / birweb / saby 同名户均非本域 → 未坐实；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": ""
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Brown Bear",
+  "reg_no": "未取",
+  "status": "未坐实（1 查未得）",
+  "incorporated": "未取",
+  "company_type": "未取",
+  "address": "未取",
+  "size_band": "未取",
+  "officers": [],
+  "psc": "未取",
+  "source": "RU · 1 次检索：focus.kontur / birweb / saby 同名户均非本域 → 未坐实；2026-10-29",
+  "url": "",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "网络设备分销（俄）"
+ ],
+ "channels": {
+  "网站": "https://brownbear.ru",
+  "直邮": "order@brownbear.ru（表内）"
+ },
+ "signals": [
+  "俄罗斯 Brown Bear（brownbear.ru；工业 FS / MC Planet 的）：进口台湾同类 ✔ 对位 ✔ Simon 点名俄罗斯；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
+  "表内兴趣：工业FS MC Planet的"
+ ],
+ "risks": [
+  "**未坐实 → 回 C 储备；来信再起则官网 Реквизиты 页补查 + 预付 100%**",
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（安防 / 网络设备批发 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

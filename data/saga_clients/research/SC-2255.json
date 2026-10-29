@@ -1,17 +1,60 @@
 {
  "code": "SC-2255",
- "name_official": "poetexas.com",
+ "name_official": "PoE Texas",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（名录 2025）",
  "summary": "C 池三闸捞出（★ 正式）：★ 自有品牌 · OEM 30%：PoE Texas（Austin 2011；约 10 人；自有 PoE 配件线；CEO tandrews@ / CTO jherbst@ 都在表）部分坐实（州号未取）；自有品牌 ✔ 进口 Utepo ✔ 主区 ✔ 决策人直达 ✔ → P 池候选；Simon 曾判不行，可否决",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "OEM（闸 2 判定 · 30% 档）",
+ "size": "微型 / 小型（约 10）",
+ "brands_seen": [
+  "Utepo"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "PoE Texas（poetexas.com；**LeadIQ / SignalHire / Apollo：11821 Buckner Rd, Austin TX 78726；2011 年创立；约 10 人；营收估 $1–10M；自有产品线 PoE 注入器 / 分离器 / 测试仪 / 电源，WiFi-Texas 母公司；CEO T. A.（= 表内 tandrews@）、CTO Joe Herbst（= 表内 jherbst@）；+1 512 479 0317**）；表内：在",
+   "quote": "US · 1 次检索：leadiq（Austin 地址；2011；2–10 人；Ceo T. A. / Cto J. H.）+ signalhire（$1–10M）+ apollo（Joe Herbst CTO）；TX SoS 未取；2026-10-29",
+   "url": "https://leadiq.com/c/poe-texas/5e94745703157faf174e393d",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "美国 PoE Texas（poetexas.com；在亚马逊上卖 Utepo 商业 PoE）：美国主区 + 已进口中国同类品牌 + 对位 ✔；8 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R02",
+   "claim": "桌面复核（闸 2 证据充分，三问成立）：★ 自有品牌 · OEM 30%：PoE Texas（Austin 2011；约 10 人；自有 PoE 配件线；CEO tandrews@ / CTO jherbst@ 都在表）部分坐实（州号未取）；自有品牌 ✔ 进口 Utepo ✔ 主区 ✔ 决策人直达 ✔ → P 池候选；Simon 曾判不行，可否决",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "tandrews@poetexas.com",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "jherbst@poetexas.com",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "jlemus@poetexas.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 自有品牌 · OEM 30%：PoE Texas（Austin 2011；约 10 人；自有 PoE 配件线；CEO tandrews@ / CTO jherbst@ 都在表）部分坐实（州号未取）；自有品牌 ✔ 进口 Utepo ✔ 主区 ✔ 决策人直达 ✔ → P 池候选；Simon 曾判不行，可否决；闸 1：美国 PoE Texas（poetexas.com；在亚马逊上卖 Utepo 商业 PoE）：美国主区 + 已进口中国同类品牌 + 对位 ✔；8 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +84,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +99,61 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 自有品牌 · OEM 30%：PoE Texas（Austin 2011；约 10 人；自有 PoE 配件线；CEO tandrews@ / CTO jherbst@ 都在表）部分坐实（州号未取）；自有品牌 ✔ 进口 Utepo ✔ 主区 ✔ 决策人直达 ✔ → P 池候选；Simon 曾判不行，可否决",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "US · 1 次检索：leadiq（Austin 地址；2011；2–10 人；Ceo T. A. / Cto J. H.）+ signalhire（$1–10M）+ apollo（Joe Herbst CTO）；TX SoS 未取；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://leadiq.com/c/poe-texas/5e94745703157faf174e393d"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "PoE Texas",
+  "reg_no": "未取（TX SoS 未查）",
+  "status": "营业中（名录 2025）",
+  "incorporated": "2011",
+  "company_type": "LLC / Corp（推定）",
+  "address": "11821 Buckner Rd, Austin, TX 78726",
+  "size_band": "微型 / 小型（约 10）",
+  "officers": [
+   "T. Andrews — CEO（tandrews@poetexas.com 表内 = 决策人直达）",
+   "Joe Herbst — CTO（jherbst@poetexas.com 表内）"
+  ],
+  "psc": "未取",
+  "source": "US · 1 次检索：leadiq（Austin 地址；2011；2–10 人；Ceo T. A. / Cto J. H.）+ signalhire（$1–10M）+ apollo（Joe Herbst CTO）；TX SoS 未取；2026-10-29",
+  "url": "https://leadiq.com/c/poe-texas/5e94745703157faf174e393d",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "PoE 配件自有品牌 + 亚马逊渠道（奥斯汀）"
+ ],
+ "channels": {
+  "网站": "https://poetexas.com",
+  "直邮": "tandrews@poetexas.com，jherbst@poetexas.com，jlemus@poetexas.com（表内）"
+ },
+ "signals": [
+  "美国 PoE Texas（poetexas.com；在亚马逊上卖 Utepo 商业 PoE）：美国主区 + 已进口中国同类品牌 + 对位 ✔；8 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决",
+  "表内兴趣：商业PoE比较多\n在亚马逊上卖Utepo的；商业POE比较多"
+ ],
+ "risks": [
+  "**自有品牌 PoE 配件 + 已卖 Utepo → OEM 30% / 分销 20% 双轨：点名 CEO 一页纸一次（STC-028GP $28 / STC-228GP $33 + 丝印 MOQ + 付费样机；Utepo 不点名）— 北美常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳 / DAP（买方清关）；周三 08–10 当地**；S",
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

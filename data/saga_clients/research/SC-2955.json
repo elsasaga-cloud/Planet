@@ -1,17 +1,52 @@
 {
  "code": "SC-2955",
- "name_official": "Continental Towers Guaatemala, S.A.",
+ "name_official": "Continental Towers Guatemala, S.A.",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（LinkedIn 2026 更新）",
  "summary": "C 池三闸捞出（△ 观察）：△ 观察档 · 成单复购回访：Continental Towers Guatemala S.A.（1 查命中 Continental Towers Corp LATAM：拉美铁塔商，2008，Terra Towers 旗下，11–50 人；mip.com.gt 域名未直接命中）部分坐实；成单 ✔ 复购 ✔ ≥2 条，区域外 + 终端自用 → 入池观察档；Simon 曾判不行，可否决",
- "type": "",
- "size": "",
+ "type": "终端（闸 2 判定 · 25% 档）",
+ "size": "小型（11–50）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Continental Towers Guatemala, S.A.（mip.com.gt；**1 查命中 Continental Towers Corp LATAM（LinkedIn：拉美最大私营通信铁塔商，18+ 年，中美洲 / 秘鲁 / 哥伦比亚；11–50 人；2da calle 7-93 zona 14, Plaza Las Conchas 701, Guatemala 01014；PitchBook：2008 成立，母公司 Terra Towers；RocketR",
+   "quote": "GT · 1 次检索：rocketreach（规模 / 地址）+ linkedin（定位 / 分部）+ pitchbook（2008；Terra Towers）；mip.com.gt 法人未直接命中；2026-10-29",
+   "url": "https://www.linkedin.com/company/continental-towers",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "危地马拉 Continental Towers（mip.com.gt）：「下过两次单买 2 光 3 电和收发器」= 复购户（表内 deal 词未被机器识别）；英语不好；Simon 曾判不行 → 闸 2 核成交记录再定",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：△ 观察档 · 成单复购回访：Continental Towers Guatemala S.A.（1 查命中 Continental Towers Corp LATAM：拉美铁塔商，2008，Terra Towers 旗下，11–50 人；mip.com.gt 域名未直接命中）部分坐实；成单 ✔ 复购 ✔ ≥2 条，区域外 + 终端自用 → 入池观察档；Simon 曾判不行，可否决；备注：成单 + 复购 → 留 B（拉美铁塔商；光端机线并行）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "info@mip.com.gt",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "sistemas@mip.com.gt",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · 成单复购回访：Continental Towers Guatemala S.A.（1 查命中 Continental Towers Corp LATAM：拉美铁塔商，2008，Terra Towers 旗下，11–50 人；mip.com.gt 域名未直接命中）部分坐实；成单 ✔ 复购 ✔ ≥2 条，区域外 + 终端自用 → 入池观察档；Simon 曾判不行，可否决；闸 1：危地马拉 Continental Towers（mip.com.gt）：「下过两次单买 2 光 3 电和收发器」= 复购户（表内 deal 词未被机器识别）；英语不好；Simon 曾判不行 → 闸 2 核成交记录再定",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +76,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-2216GP",
+   "why": "默认对位（终端 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +91,60 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "△ 观察档 · 成单复购回访：Continental Towers Guatemala S.A.（1 查命中 Continental Towers Corp LATAM：拉美铁塔商，2008，Terra Towers 旗下，11–50 人；mip.com.gt 域名未直接命中）部分坐实；成单 ✔ 复购 ✔ ≥2 条，区域外 + 终端自用 → 入池观察档；Simon 曾判不行，可否决",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "GT · 1 次检索：rocketreach（规模 / 地址）+ linkedin（定位 / 分部）+ pitchbook（2008；Terra Towers）；mip.com.gt 法人未直接命中；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.linkedin.com/company/continental-towers"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Continental Towers Guatemala, S.A.",
+  "reg_no": "未取（登记未查）",
+  "status": "营业中（LinkedIn 2026 更新）",
+  "incorporated": "2008",
+  "company_type": "S.A.",
+  "address": "2da calle 7-93 zona 14, Plaza Las Conchas 701, Guatemala 01014",
+  "size_band": "小型（11–50）",
+  "officers": [
+   "（info@ / sistemas@mip.com.gt 表内总邮箱；IT 系统部）"
+  ],
+  "psc": "未取",
+  "source": "GT · 1 次检索：rocketreach（规模 / 地址）+ linkedin（定位 / 分部）+ pitchbook（2008；Terra Towers）；mip.com.gt 法人未直接命中；2026-10-29",
+  "url": "https://www.linkedin.com/company/continental-towers",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "通信铁塔基础设施（中美洲）"
+ ],
+ "channels": {
+  "网站": "https://mip.com.gt",
+  "直邮": "info@mip.com.gt，sistemas@mip.com.gt（表内）"
+ },
+ "signals": [
+  "危地马拉 Continental Towers（mip.com.gt）：「下过两次单买 2 光 3 电和收发器」= 复购户（表内 deal 词未被机器识别）；英语不好；Simon 曾判不行 → 闸 2 核成交记录再定",
+  "表内兴趣：2FX + 3RJ45；下过两次单买2光3电和收发器\n英语不好"
+ ],
+ "risks": [
+  "**复购终端回访 → 直客价（分销 20% 口径）：一页纸一次（STC-228GP 2 光 / STI-154GP 站点用 + STC-110XGE MC + MOQ 1；西语一句问候可加）— 区域外常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳；低频一页纸**；区域外低频",
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-2216GP",
+  "tier": 25,
+  "why": "默认对位（终端 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

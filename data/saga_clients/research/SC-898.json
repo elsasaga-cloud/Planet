@@ -1,17 +1,54 @@
 {
  "code": "SC-898",
- "name_official": "plexonics.com",
+ "name_official": "Plexonics Technologies Limited",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "Active（MCA 2026）",
  "summary": "C 池三闸捞出（★ 正式）：★ 中型分销 20%：Plexonics Technologies Limited（Chandigarh；CIN U72900CH2011PLC033105；2011；实收 ₹5.35 Cr；3 董事）坐实；多牌进口 ✔ 对位 ✔ 坐实 ✔ → P 池候选",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "中型分销（闸 2 判定 · 20% 档）",
+ "size": "中型（实收 ₹5.35 Cr）",
+ "brands_seen": [
+  "Belden"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Plexonics Technologies Limited（plexonics.com；**CIN U72900CH2011PLC033105；PAN AACCE7703P；2011-07-12 登记；非上市公众公司；ROC Chandigarh；授权 ₹10 Cr / 实收 ₹5.35 Cr（tofler；thecompanycheck 载 ₹1.35 Cr）；181/23 First Floor, Industrial Area Phase 1, Chandigarh ",
+   "quote": "IN · 1 次检索：thecompanycheck（CIN / 董事 / 地址）+ tofler（PAN / 实收 / 邮箱）；2026-10-29",
+   "url": "https://www.tofler.in/plexonics-technologies-limited/company/U72900CH2011PLC033105",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "印度 Plexonics（plexonics.com；百通 + 「买很多国内的 PoE」）：进口中国同类 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：★ 中型分销 20%：Plexonics Technologies Limited（Chandigarh；CIN U72900CH2011PLC033105；2011；实收 ₹5.35 Cr；3 董事）坐实；多牌进口 ✔ 对位 ✔ 坐实 ✔ → P 池候选",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "info@plexonics.com",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "sales-india@plexonics.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 中型分销 20%：Plexonics Technologies Limited（Chandigarh；CIN U72900CH2011PLC033105；2011；实收 ₹5.35 Cr；3 董事）坐实；多牌进口 ✔ 对位 ✔ 坐实 ✔ → P 池候选；闸 1：印度 Plexonics（plexonics.com；百通 + 「买很多国内的 PoE」）：进口中国同类 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +78,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（中型分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +93,61 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 中型分销 20%：Plexonics Technologies Limited（Chandigarh；CIN U72900CH2011PLC033105；2011；实收 ₹5.35 Cr；3 董事）坐实；多牌进口 ✔ 对位 ✔ 坐实 ✔ → P 池候选",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "IN · 1 次检索：thecompanycheck（CIN / 董事 / 地址）+ tofler（PAN / 实收 / 邮箱）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.tofler.in/plexonics-technologies-limited/company/U72900CH2011PLC033105"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Plexonics Technologies Limited",
+  "reg_no": "U72900CH2011PLC033105（CIN）",
+  "status": "Active（MCA 2026）",
+  "incorporated": "2011-07-12",
+  "company_type": "Public Limited（非上市）",
+  "address": "181/23 First Floor, Industrial Area Phase 1, Chandigarh 160002",
+  "size_band": "中型（实收 ₹5.35 Cr）",
+  "officers": [
+   "Come Alexandre Carpentier — Director",
+   "Avneet Bansal — Director",
+   "Akshay Sharma — Director"
+  ],
+  "psc": "未取",
+  "source": "IN · 1 次检索：thecompanycheck（CIN / 董事 / 地址）+ tofler（PAN / 实收 / 邮箱）；2026-10-29",
+  "url": "https://www.tofler.in/plexonics-technologies-limited/company/U72900CH2011PLC033105",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "IT / 网络产品分销（昌迪加尔）"
+ ],
+ "channels": {
+  "网站": "https://plexonics.com",
+  "直邮": "info@plexonics.com，sales-india@plexonics.com（表内）"
+ },
+ "signals": [
+  "印度 Plexonics（plexonics.com；百通 + 「买很多国内的 PoE」）：进口中国同类 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先",
+  "表内兴趣：百通；买很多国内的POE"
+ ],
+ "risks": [
+  "**中型分销 20%：一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-2224GP $86 分销价 + MOQ 1 + 付费样机；Belden 不点名）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（中型分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

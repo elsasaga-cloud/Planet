@@ -2,16 +2,38 @@
  "code": "SC-442",
  "name_official": "MEPA Elektronik",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（官网 / FB）",
  "summary": "C 池三闸捞出（○ 正式）：○ 土耳其主区 · 安防集成 25%：MEPA Elektronik（Kayseri；弱电集成 15 年；11–50 人；Co-Owner Eren Gül）部分坐实（vergi no 未取）；土耳其主区 ✔ WA 可达 ✔ 4 / 8 / 16 / 24 口需求 ✔ 决策人具名 ✔ → P 池候选",
- "type": "",
- "size": "",
+ "type": "安防集成（闸 2 判定 · 25% 档）",
+ "size": "小型（11–50 人）",
  "brands_seen": [],
- "evidence": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "MEPA Elektronik（mepaelektronik.com；**Sahabiye Mah. Otak Sk. No:41, Kocasinan / Kayseri 38010；+90 352 220 6678；弱电系统集成 15 年：CCTV、火灾探测、数据网络（结构化布线 + 可管理交换机）、对讲、卫星电视、智能家居；11–50 人；Co-Owner Eren Gül（zoominfo）**）；vergi no 未取；表内：Furkan；Ady 展会加了 What",
+   "quote": "TR · 1 次检索：mepaelektronik.com/data-network（业务）+ zoominfo（地址 / 电话 / 人数 / Co-Owner）+ facebook（Kayseri）；vergi no 未取；2026-10-29",
+   "url": "https://www.zoominfo.com/c/mepa-elektronik/1333329689",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "土耳其 MEPA Elektronik（Furkan；Ady 展会加了 WhatsApp +90 535 875 1129；要 4 / 8 / 16 / 24 口 PoE 交换机）：土耳其主区 ✔ 公司名 ✔ WA 已加 ✔ 具体口数需求 ✔（§5 ≥4 条）→ 闸 2 查底数后 WA 一页纸（STC-028GP $28 / STC-228GP $33 / STC-2216GP / STC-2224GP $86）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R01",
+   "claim": "MEPA Elektronik（Kayseri；弱电集成 15 年；11–50 人；Co-Owner Eren Gül；WA 可达；4 / 8 / 16 / 24 口需求）：具体需求 ✔ 决策人 ✔ 对位 ✔ 主区 ✔ → 留 B",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
  "kp": [],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 土耳其主区 · 安防集成 25%：MEPA Elektronik（Kayseri；弱电集成 15 年；11–50 人；Co-Owner Eren Gül）部分坐实（vergi no 未取）；土耳其主区 ✔ WA 可达 ✔ 4 / 8 / 16 / 24 口需求 ✔ 决策人具名 ✔ → P 池候选；闸 1：土耳其 MEPA Elektronik（Furkan；Ady 展会加了 WhatsApp +90 535 875 1129；要 4 / 8 / 16 / 24 口 PoE 交换机）：土耳其主区 ✔ 公司名 ✔ WA 已加 ✔ 具体口数需求…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/company_facts/business_lines/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +63,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-2216GP",
+   "why": "默认对位（安防集成 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +78,56 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 土耳其主区 · 安防集成 25%：MEPA Elektronik（Kayseri；弱电集成 15 年；11–50 人；Co-Owner Eren Gül）部分坐实（vergi no 未取）；土耳其主区 ✔ WA 可达 ✔ 4 / 8 / 16 / 24 口需求 ✔ 决策人具名 ✔ → P 池候选",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "TR · 1 次检索：mepaelektronik.com/data-network（业务）+ zoominfo（地址 / 电话 / 人数 / Co-Owner）+ facebook（Kayseri）；vergi no 未取；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.zoominfo.com/c/mepa-elektronik/1333329689"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "MEPA Elektronik",
+  "reg_no": "未取（vergi no 未查；官网 + 目录坐实）",
+  "status": "营业中（官网 / FB）",
+  "incorporated": "未取（15 年经验 ≈ 2010）",
+  "company_type": "未取（疑 Ltd. Şti.）",
+  "address": "Sahabiye Mah. Otak Sk. No:41, Kocasinan, Kayseri 38010",
+  "size_band": "小型（11–50 人）",
+  "officers": [
+   "Eren Gül — Co-Owner",
+   "Furkan — 表内 WA 联系人"
+  ],
+  "psc": "未取",
+  "source": "TR · 1 次检索：mepaelektronik.com/data-network（业务）+ zoominfo（地址 / 电话 / 人数 / Co-Owner）+ facebook（Kayseri）；vergi no 未取；2026-10-29",
+  "url": "https://www.zoominfo.com/c/mepa-elektronik/1333329689",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "弱电 / 安防 / 网络集成（开塞利）"
+ ],
+ "signals": [
+  "土耳其 MEPA Elektronik（Furkan；Ady 展会加了 WhatsApp +90 535 875 1129；要 4 / 8 / 16 / 24 口 PoE 交换机）：土耳其主区 ✔ 公司名 ✔ WA 已加 ✔ 具体口数需求 ✔（§5 ≥4 条）→ 闸 2 查底数后 WA 一页纸（STC-028GP $28 / STC-228GP $33 / STC-2216GP / STC-222",
+  "表内兴趣：Ady加了Whatsapp 要4/8/16/24口POE 交换机"
+ ],
+ "risks": [
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-2216GP",
+  "tier": 25,
+  "why": "默认对位（安防集成 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

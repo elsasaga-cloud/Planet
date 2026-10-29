@@ -1,17 +1,49 @@
 {
  "code": "SC-3130",
- "name_official": "tvc.mx",
+ "name_official": "TVC en Línea.com, S.A. de C.V.",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（LinkedIn / 目录 2025）",
  "summary": "C 池三闸捞出（★ 正式）：★ 墨西哥 · CCTV 大分销 20%（长线）：TVC en Línea.com, S.A. de C.V.（Monterrey；RFC TVC060802NE4；2000；201–500 人；蒙特雷 + 墨西哥城）坐实；大分销 ✔ Utepo / 大华中国品牌进口 ✔ 对位 ✔ 墨西哥先例 SYSCOM ✔ → P 池候选（换 ventas / compras 地址 + WA）",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "CCTV 大分销（闸 2 判定 · 20% 档）",
+ "size": "大型（201–500 人；两地）",
+ "brands_seen": [
+  "Utepo",
+  "Dahua"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "TVC en Línea.com, S.A. de C.V.（tvc.mx；**RFC TVC060802NE4；Camino al Mirador No. 5216, Col. Del Paseo Residencial 6to Sector, 64920 Monterrey, N.L.（comxport / cosmos）；LinkedIn：电子安防解决方案批发商（mayorista），2000 年创立，201–500 人，总部 Av. Lázaro Cárdenas 2",
+   "quote": "MX · 1 次检索：comxport（RFC / 法人名 / 地址 / 进出口）+ cosmos.com.mx（业务 / 地址）+ LinkedIn（2000 / 201–500 人 / 两地）；2026-10-29",
+   "url": "https://www.comxport.com/co/tvc_en_lineacom_sa_de_cv-mexico-350701.php",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "墨西哥 TVC（tvc.mx；Utepo / 大华等 CCTV 大分销，「主要是 CCTV」；官网 WA 按钮 +52 81 1799 1777；1 推 0 回；soporte@ 为支持信箱）：大分销 + 中国品牌 ✔ 对位 ✔ 墨西哥先例 SYSCOM 已入池 ✔ → 闸 2 查底数（RFC / D&B）后换 ventas / compras 地址 + WA 一页纸；Simon 曾标 Spam / 不行 → 可按编号否决",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：★ 墨西哥 · CCTV 大分销 20%（长线）：TVC en Línea.com, S.A. de C.V.（Monterrey；RFC TVC060802NE4；2000；201–500 人；蒙特雷 + 墨西哥城）坐实；大分销 ✔ Utepo / 大华中国品牌进口 ✔ 对位 ✔ 墨西哥先例 SYSCOM ✔ → P 池候选（换 ventas / compras 地址 + WA）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "soporte@tvc.mx",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 墨西哥 · CCTV 大分销 20%（长线）：TVC en Línea.com, S.A. de C.V.（Monterrey；RFC TVC060802NE4；2000；201–500 人；蒙特雷 + 墨西哥城）坐实；大分销 ✔ Utepo / 大华中国品牌进口 ✔ 对位 ✔ 墨西哥先例 SYSCOM ✔ → P 池候选（换 ventas / compras 地址 + WA）；闸 1：墨西哥 TVC（tvc.mx；Utepo / 大华等 CCTV 大分销，「主要是 CCTV」；官网 WA 按钮 +52 81 1799 1777；1 推 0 回；soporte@ 为支持信箱）：大分销 + 中国品牌 ✔ 对位 ✔ 墨西哥先…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +73,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（CCTV 大分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +88,59 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 墨西哥 · CCTV 大分销 20%（长线）：TVC en Línea.com, S.A. de C.V.（Monterrey；RFC TVC060802NE4；2000；201–500 人；蒙特雷 + 墨西哥城）坐实；大分销 ✔ Utepo / 大华中国品牌进口 ✔ 对位 ✔ 墨西哥先例 SYSCOM ✔ → P 池候选（换 ventas / compras 地址 + WA）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "MX · 1 次检索：comxport（RFC / 法人名 / 地址 / 进出口）+ cosmos.com.mx（业务 / 地址）+ LinkedIn（2000 / 201–500 人 / 两地）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.comxport.com/co/tvc_en_lineacom_sa_de_cv-mexico-350701.php"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "TVC en Línea.com, S.A. de C.V.",
+  "reg_no": "TVC060802NE4（RFC）",
+  "status": "营业中（LinkedIn / 目录 2025）",
+  "incorporated": "2000（RFC 序列 2006-08-02）",
+  "company_type": "S.A. de C.V.",
+  "address": "Camino al Mirador No. 5216, Col. Del Paseo Residencial, 64920 Monterrey, Nuevo León",
+  "size_band": "大型（201–500 人；两地）",
+  "officers": [
+   "（具名 KP 未取；soporte@ 为支持信箱 → 需 ventas / compras）"
+  ],
+  "psc": "未取",
+  "source": "MX · 1 次检索：comxport（RFC / 法人名 / 地址 / 进出口）+ cosmos.com.mx（业务 / 地址）+ LinkedIn（2000 / 201–500 人 / 两地）；2026-10-29",
+  "url": "https://www.comxport.com/co/tvc_en_lineacom_sa_de_cv-mexico-350701.php",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "电子安防 / CCTV 批发分销（蒙特雷 + 墨西哥城）"
+ ],
+ "channels": {
+  "网站": "https://tvc.mx",
+  "直邮": "soporte@tvc.mx（表内）"
+ },
+ "signals": [
+  "墨西哥 TVC（tvc.mx；Utepo / 大华等 CCTV 大分销，「主要是 CCTV」；官网 WA 按钮 +52 81 1799 1777；1 推 0 回；soporte@ 为支持信箱）：大分销 + 中国品牌 ✔ 对位 ✔ 墨西哥先例 SYSCOM 已入池 ✔ → 闸 2 查底数（RFC / D&B）后换 ventas / compras 地址 + WA 一页纸；Simon 曾标 Spam ",
+  "表内兴趣：主要是CCTV；utepo的产品 主要是CCTV\nDahua 摄像头之类的"
+ ],
+ "risks": [
+  "**墨西哥 · CCTV 大分销 20%（长线）：WA + 换采购地址一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-2224GP $86 分销价 + MOQ 1 + 付费样机；Utepo 不点名；西语稿可）— 其他区常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关；周二 /"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（CCTV 大分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

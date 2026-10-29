@@ -1,10 +1,11 @@
 # Joohitha Power Systems Pvt Ltd
+**官方名称（调研核实）**：Joohitha Power Systems Private Limited — GridX
 
 > **评级 B**　|　印度　|　档案编号 `SC-1734`　|　优先级 ★★　|　状态：名单内·未触达
 >
 > **C 池筛选：○ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ○）：○ 印度 · 电力 EPC 集成 25%：Joohitha Power Systems Pvt Ltd — GridX（Hyderabad；CIN U74999TG2011PTC077260；2011；₹10 lakh；SCADA / OLTE / PLCC EPC；11–50 人）坐实；工业 2 光 2 电具体需求 ✔ 工业对位 ✔ → P 池候选
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(IN)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：电力 EPC 集成（闸 2 判定 · 25% 档）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(IN)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-1734
@@ -12,12 +13,12 @@ rating: B
 rating_auto: C
 sieve: pool  # 闸 3 P1 2026-10-29
 rating_research: B  # Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 印度 · 电
-name_official: "Joohitha Power Systems Pvt Ltd"
+name_official: "Joohitha Power Systems Private Limited — GridX"
 score: 4
 country: 印度
 region: 南亚
 website: gridx.in
-type: 经销/集成（类型待核）
+type: 电力 EPC 集成（闸 2 判定 · 25% 档）
 tier_tags: ["AI评估(IN)·DONE"]
 deal: no
 replies: 0
@@ -25,8 +26,8 @@ followups: 0
 first_contact: unknown
 last_contact: unknown
 s_mail: 9 msgs (out 9 / in 0), 2025-05-06 -> 2026-09-02
-p1: STI-288DGGPM
-price_tier: 20%
+p1: STI-288GPM
+price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
@@ -38,7 +39,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（○ 正式）：○ 印度 · 电力 EPC 集成 25%：Joohitha Power Systems Pvt Ltd — GridX（Hyderabad；CIN U74999TG2011PTC077260；2011；₹10 lakh；SCADA / OLTE / PLCC EPC；11–50 人）坐实；工业 2 光 2 电具体需求 ✔ 工业对位 ✔ → P 池候选（调研 2026-10-29；表内兴趣：光猫 工业2光2）
 - **为什么是 B 级**：**调研后定级 B**（Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 印度 · 电力 EPC 集成 25%：Joohitha Power Systems Pvt Ltd — GridX（Hyderabad；CIN U74999TG2011PTC077260；2011；₹10 lakh；SCADA / OLTE / PLCC EPC；11–50 人）坐实；工业 2 光 2 电具体需求 ✔ 工业对位 ✔ → P 池候选；闸 1：印度 Joohitha Power Systems Pvt Ltd（gridx.in；光猫 + 工业 2 光 2）：具体型号需求 ✔（STI-154GP / STI-244DGGPM 同口型）对位 ✔ Simon 点名印度；未触达 → 闸…）；自动分级 C：+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STI-288DGGPM — 待复核后按业务线定首推型号；
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STI-288GPM — 默认对位（电力 EPC 集成 · 25% 档）：工业 / 项目集成起手：DIN 导轨 8 GE PoE + 2 SFP 管理型（25% 档）；
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动：LT-01 复核（待过）后再定 — 长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
@@ -51,12 +52,13 @@ updated: 2026-10-29
 - **现状一句话**：C 池三闸捞出 → B（LT-01）：○ 印度 · 电力 EPC 集成 25%：Joohitha Power Systems Pvt Ltd — GridX（Hyderabad；CIN U74999TG2011PTC077260；2011；₹10 lakh；SCADA / OLTE / PLCC EPC；11–50 人）坐实；工业 2 光 2 电具体需求 ✔ 工业对位 ✔ → P 池候选
 - **对方真实需求（有据）**：未知（无往来；复核时从官网 / 进口数据 / 项目推断）
 - **断点 / 为什么停在这里**：无往来（从未触达或仅群发无回）
-- **Saga 现在该推什么**：P1 ****（% 档，价见价格主表）——待复核后按业务线定首推型号
+- **Saga 现在该推什么**：P1 **STI-288GPM**（% 档，价见价格主表）——默认对位（电力 EPC 集成 · 25% 档）：工业 / 项目集成起手：DIN 导轨 8 GE PoE + 2 SFP 管理型（25% 档）
 - **下一步（具体）**：不动：LT-01 复核（待过）后再定　—　长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ○ 印度 · 电力 EPC 集成 25%：Joohitha Power Systems Pvt Ltd — GridX（Hyderabad；CIN U74999TG2011PTC077260；2011；₹10 lakh；SCADA / OLTE / PLCC EPC；11–50 人）坐实；工业 2 光 2 电具体需求 ✔ 工业对位 ✔ → P 池候选 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
+| 2026-10-29 | 查 | Agent 登记底数（registry） | IN · 1 次检索：correst（CIN / 成立 / 资本 / 地址）+ zoominfo（GridX / 业务 / 规模）；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -90,7 +92,7 @@ updated: 2026-10-29
 | 名称 | Joohitha Power Systems Pvt Ltd | 事实（用户表） |
 | 国家 | 印度 | 事实（用户表）|
 | 网站/域名 | gridx.in | 事实（用户表 URL/邮箱域名） |
-| 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
+| 类型 | 电力 EPC 集成（闸 2 判定 · 25% 档） | 推断（据兴趣/备注关键词） |
 | 联系人 | Subash Yamarthi / Project Engineer | 事实（用户表） |
 | 来源（From） | Alina 询盘<br>21.10.14 | 事实（用户表） |
 | 兴趣（Interested in） | 光猫 工业2光2 | 事实（用户表） |
@@ -107,11 +109,36 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-29）**　网站状态：
+- **状态：已调研（2026-10-29）**　网站状态：Active（MCA）
 - **是谁**：C 池三闸捞出（○ 正式）：○ 印度 · 电力 EPC 集成 25%：Joohitha Power Systems Pvt Ltd — GridX（Hyderabad；CIN U74999TG2011PTC077260；2011；₹10 lakh；SCADA / OLTE / PLCC EPC；11–50 人）坐实；工业 2 光 2 电具体需求 ✔ 工业对位 ✔ → P 池候选
+- **类型**：电力 EPC 集成（闸 2 判定 · 25% 档）
+- **规模**：小型（₹10 lakh；11–50 人）
+- **【登记底数 / 官网（闸 2 坐实）】Joohitha Power Systems Private Limited — GridX（gridx.in / joohithapower.com；**CIN U74999TG2011PTC077260；2011-11-04；ROC Hyderabad；授权 / 实收 ₹10 lakh；H.No.1-8-12/20/A/NR, 3rd Floor, Street No.8, Habsiguda, Hyderabad 500007；SCADA / RTU / OLTE（光通**
+  > IN · 1 次检索：correst（CIN / 成立 / 资本 / 地址）+ zoominfo（GridX / 业务 / 规模）；2026-10-29
+  > 来源：https://correst.io/public/company/joohitha-power-systems-pvt-ltd（抓取 2026-10-29）
+- **【闸 1 对位】印度 Joohitha Power Systems Pvt Ltd（gridx.in；光猫 + 工业 2 光 2）：具体型号需求 ✔（STI-154GP / STI-244DGGPM 同口型）对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先**
+  > 来源：（抓取 2026-10-29）
+- **【长期群复核 LT-R03】桌面复核（闸 2 证据，三问成立）：○ 印度 · 电力 EPC 集成 25%：Joohitha Power Systems Pvt Ltd — GridX（Hyderabad；CIN U74999TG2011PTC077260；2011；₹10 lakh；SCADA / OLTE / PLCC EPC；11–50 人）坐实；工业 2 光 2 电具体需求 ✔ 工业对位 ✔ → P 池候选**
+  > 来源：（抓取 2026-10-29）
+- **KP**：—（表内邮箱（公开 / 总机））rajendra.r@gridx.in 〔〕
+- **KP**：—（表内邮箱（公开 / 总机））sridhar.n@gridx.in 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 印度 · 电力 EPC 集成 25%：Joohitha Power Systems Pvt Ltd — GridX（Hyderabad；CIN U74999TG2011PTC077260；2011；₹10 lakh；SCADA / OLTE / PLCC EPC；11–50 人）坐实；工业 2 光 2 电具体需求 ✔ 工业对位 ✔ → P 池候选；闸 1：印度 Joohitha Power Systems Pvt Ltd（gridx.in；光猫 + 工业 2 光 2）：具体型号需求 ✔（STI-154GP / STI-244DGGPM 同口型）对位 ✔ Simon 点名印度；未触达 → 闸…
-- 备注：（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
+- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Joohitha Power Systems Private Limited — GridX |
+
+- **业务线**：电力 SCADA / 光通信 EPC 咨询（海得拉巴）
+- **触达通道（公开）**：网站: https://gridx.in；直邮: rajendra.r@gridx.in，sridhar.n@gridx.in（表内）
+- **近况信号**：
+  - 印度 Joohitha Power Systems Pvt Ltd（gridx.in；光猫 + 工业 2 光 2）：具体型号需求 ✔（STI-154GP / STI-244DGGPM 同口型）对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先
+  - 表内兴趣：光猫 工业2光2
+- **风险/边界**：**印度 · 电力 EPC 集成 25%：一页纸一次（STI-154GP $36 样机 4+1+1 SFP / STI-244DGGPM 2 光 2 电场景 + MOQ 1 + 付费样机；光猫走本职线）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoH
+- **Saga 对位结论**：P1 STI-288GPM（25% 档）——默认对位（电力 EPC 集成 · 25% 档）：工业 / 项目集成起手：DIN 导轨 8 GE PoE + 2 SFP 管理型（25% 档）
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -160,6 +187,8 @@ updated: 2026-10-29
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| — | 表内邮箱（公开 / 总机） | rajendra.r@gridx.in | 调研核实（公开页） | 调研 |
+| — | 表内邮箱（公开 / 总机） | sridhar.n@gridx.in | 调研核实（公开页） | 调研 |
 | Subash Yamarthi | — | rajendra.r@gridx.in / sridhar.n@gridx.in | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
@@ -176,19 +205,20 @@ updated: 2026-10-29
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：20% 档 $139.9 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $181.2——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STI-288GPM | 深挖对位：默认对位（电力 EPC 集成 · 25% 档）：工业 / 项目集成起手：DIN 导轨 8 GE PoE + 2 SFP 管理型（25% 档） | $82.2 USD EXW（25% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（电力 EPC 集成（闸 2 判定 · 25% 档）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：25% 档 $145.7 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），25% 档公式为 $188.7——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288GPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
@@ -196,7 +226,7 @@ updated: 2026-10-29
 
 - **S**：名单内已有联系记录，不是零起点
 - **W**：南亚：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STI-288DGGPM 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STI-288GPM 按 25% 档报价，做现供应商的第二货源；规模（调研）：小型（₹10 lakh；11–50 人）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -224,14 +254,14 @@ updated: 2026-10-29
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：STI-288GPM - industrial DIN-rail L2 managed switch (Marvell-based, neutral label)
 
 ```text
 Hi Subash,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $137.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $82.2 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

@@ -1,17 +1,46 @@
 {
  "code": "SC-3135",
- "name_official": "sphinxcomputer.fr",
+ "name_official": "SPHINX CONNECT FRANCE",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（RNE 在册）",
  "summary": "C 池三闸捞出（○ 正式）：○ 工业分销 20%：SPHINX CONNECT FRANCE SAS（Montaigu-Vendée；SIREN 439 398 462；2001；20–49 人；NAF 46.51Z）坐实；工业 FS 多牌 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔ = 冷户四条 → P 池候选；Simon 曾判不行，可否决",
- "type": "",
- "size": "",
+ "type": "工业分销（闸 2 判定 · 20% 档）",
+ "size": "小型（20–49）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "SPHINX CONNECT FRANCE（sphinxconnect.fr / sphinxcomputer.fr；**societe.com / annuaire-entreprises：SIREN 439 398 462；SIRET 总部 439 398 462 00044；TVA FR27439398462；创立 2001-10-10；SAS（原 SARL）；20–49 人；NAF 46.51Z 计算机 / 外设批发；Parc de la Bretonnière, 8",
+   "quote": "FR · 1 次检索：societe.com（SIREN / 人数 / NAF）+ annuaire-entreprises.data.gouv.fr（RNE 2001-10-10；机构）+ lefigaro entreprises（SAS）；2026-10-29",
+   "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/439398462",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "法国 Sphinx（sphinxcomputer.fr / sphinxconnect.fr；工业 FS 好几个牌子 = 法国工业网络分销商）：欧洲 + 分销主体 + 对位 ✔ → 闸 2 查底数（stop flag 为文本命中，非要求停发）；Simon 曾判不行 → 可按编号否决",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R02",
+   "claim": "桌面复核（闸 2 证据充分，三问成立）：○ 工业分销 20%：SPHINX CONNECT FRANCE SAS（Montaigu-Vendée；SIREN 439 398 462；2001；20–49 人；NAF 46.51Z）坐实；工业 FS 多牌 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔ = 冷户四条 → P 池候选；Simon 曾判不行，可否决",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "sales@sphinxconnect.fr",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 工业分销 20%：SPHINX CONNECT FRANCE SAS（Montaigu-Vendée；SIREN 439 398 462；2001；20–49 人；NAF 46.51Z）坐实；工业 FS 多牌 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔ = 冷户四条 → P 池候选；Simon 曾判不行，可否决；闸 1：法国 Sphinx（sphinxcomputer.fr / sphinxconnect.fr；工业 FS 好几个牌子 = 法国工业网络分销商）：欧洲 + 分销主体 + 对位 ✔ → 闸 2 查底数（stop flag 为文本命中，非要求停…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +70,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（工业分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +85,59 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 工业分销 20%：SPHINX CONNECT FRANCE SAS（Montaigu-Vendée；SIREN 439 398 462；2001；20–49 人；NAF 46.51Z）坐实；工业 FS 多牌 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔ = 冷户四条 → P 池候选；Simon 曾判不行，可否决",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "FR · 1 次检索：societe.com（SIREN / 人数 / NAF）+ annuaire-entreprises.data.gouv.fr（RNE 2001-10-10；机构）+ lefigaro entreprises（SAS）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/439398462"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "SPHINX CONNECT FRANCE",
+  "reg_no": "439 398 462（SIREN）",
+  "status": "营业中（RNE 在册）",
+  "incorporated": "2001-10-10",
+  "company_type": "SAS",
+  "address": "Parc de la Bretonnière, 85600 Montaigu-Vendée",
+  "size_band": "小型（20–49）",
+  "officers": [
+   "（sales@sphinxconnect.fr 表内总邮箱；产品经理 KP 待 LinkedIn）"
+  ],
+  "psc": "未取",
+  "source": "FR · 1 次检索：societe.com（SIREN / 人数 / NAF）+ annuaire-entreprises.data.gouv.fr（RNE 2001-10-10；机构）+ lefigaro entreprises（SAS）；2026-10-29",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/439398462",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "工业网络 / IT 设备批发（旺代）"
+ ],
+ "channels": {
+  "网站": "https://sphinxcomputer.fr",
+  "直邮": "sales@sphinxconnect.fr（表内）"
+ },
+ "signals": [
+  "法国 Sphinx（sphinxcomputer.fr / sphinxconnect.fr；工业 FS 好几个牌子 = 法国工业网络分销商）：欧洲 + 分销主体 + 对位 ✔ → 闸 2 查底数（stop flag 为文本命中，非要求停发）；Simon 曾判不行 → 可按编号否决",
+  "表内兴趣：工业FS 好几个牌子的"
+ ],
+ "risks": [
+  "**工业分销 → 分销 20%：一页纸一次（STI-154GP / STI-288GPM / STI-0240GE + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；Simon 可否决"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（工业分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

@@ -1,17 +1,56 @@
 {
  "code": "SC-299",
- "name_official": "nag.kz",
+ "name_official": "ТОО «NAG KAZAKHSTAN (НАГ Казахстан)» — nag.kz",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（商城 2026）",
  "summary": "C 池三闸捞出（★ 正式）：★ 自有品牌 SNR · OEM 30%：ТОО «NAG KAZAKHSTAN»（Алматы, пр. Жибек Жолы 135；БИН 191040001403；2019；Евразийский банк USD / EUR 账户，代理行 Raiffeisen Vienna；NAG / SNR 集团哈萨克子公司）坐实；自有品牌 ✔ 中国直采 ✔ 对位 ✔ 坐实 ✔ → P 池候选（外币账户 = 俄语区收款路径线索，供 Sim…",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "OEM（闸 2 判定 · 30% 档）",
+ "size": "中型（集团大型）",
+ "brands_seen": [
+  "Ubiquiti",
+  "MikroTik",
+  "Teltonika"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "ТОО «NAG KAZAKHSTAN (НАГ Казахстан)» — nag.kz（**shop.nag.kz 银行信息页 + ets-tender：БИН 191040001403；050000 Алматы, Алмалинский р-н, пр. Жибек Жолы 135, 6 эт., оф. 2061（ets 载 ул. Панфилова 98）；Евразийский банк USD / EUR 账户（代理行 Raiffeisen Bank In",
+   "quote": "KZ · 1 次检索：shop.nag.kz/article/bank（法人 / БИН / 地址 / 外币账户）+ shop.nag.kz/payment（品牌线）+ ets-tender.kz（БИН / 地址）；2026-10-29",
+   "url": "https://shop.nag.kz/article/bank",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "哈萨克斯坦 NAG（nag.kz；NAG / SNR 集团自有品牌，表内「从国内买 CWDM 模块 / Switch / SFP / MC 等」= 自有品牌 + 从中国直采）：自有品牌 ✔ 进口中国同类 ✔ 对位 ✔，群发 16 次 0 回 → 闸 2 查底数；俄语区收款待定，低优先",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：★ 自有品牌 SNR · OEM 30%：ТОО «NAG KAZAKHSTAN»（Алматы, пр. Жибек Жолы 135；БИН 191040001403；2019；Евразийский банк USD / EUR 账户，代理行 Raiffeisen Vienna；NAG / SNR 集团哈萨克子公司）坐实；自有品牌 ✔ 中国直采 ✔ 对位 ✔ 坐实 ✔ → P 池候选（外币账…",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "sales@nag.kz",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "r.yakimchuk@nag.kz",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 自有品牌 SNR · OEM 30%：ТОО «NAG KAZAKHSTAN»（Алматы, пр. Жибек Жолы 135；БИН 191040001403；2019；Евразийский банк USD / EUR 账户，代理行 Raiffeisen Vienna；NAG / SNR 集团哈萨克子公司）坐实；自有品牌 ✔ 中国直采 ✔ 对位 ✔ 坐实 ✔ → P 池候选（外币…；闸 1：哈萨克斯坦 NAG（nag.kz；NAG / SNR 集团自有品牌，表内「从国内买 CWDM 模块 / Switch / SFP / MC 等」= 自有品牌 + 从中国直采）：自有品牌 ✔ 进口中国同类 ✔ 对位 ✔，群发 16 次 0 …",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +80,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +95,59 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 自有品牌 SNR · OEM 30%：ТОО «NAG KAZAKHSTAN»（Алматы, пр. Жибек Жолы 135；БИН 191040001403；2019；Евразийский банк USD / EUR 账户，代理行 Raiffeisen Vienna；NAG / SNR 集团哈萨克子公司）坐实；自有品牌 ✔ 中国直采 ✔ 对位 ✔ 坐实 ✔ → P 池候选（外币账户 = 俄语区收款路径线索，供 Simon 参考）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "KZ · 1 次检索：shop.nag.kz/article/bank（法人 / БИН / 地址 / 外币账户）+ shop.nag.kz/payment（品牌线）+ ets-tender.kz（БИН / 地址）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://shop.nag.kz/article/bank"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "ТОО «NAG KAZAKHSTAN (НАГ Казахстан)» — nag.kz",
+  "reg_no": "191040001403（БИН）",
+  "status": "营业中（商城 2026）",
+  "incorporated": "2019-10（БИН 前缀）",
+  "company_type": "ТОО",
+  "address": "050000 Алматы, пр. Жибек Жолы 135, 6 эт., оф. 2061",
+  "size_band": "中型（集团大型）",
+  "officers": [
+   "（info@nag.kz 表内；采购 KP 待名录）"
+  ],
+  "psc": "未取",
+  "source": "KZ · 1 次检索：shop.nag.kz/article/bank（法人 / БИН / 地址 / 外币账户）+ shop.nag.kz/payment（品牌线）+ ets-tender.kz（БИН / 地址）；2026-10-29",
+  "url": "https://shop.nag.kz/article/bank",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "网络设备分销 + 自有品牌 SNR（阿拉木图；NAG 集团）"
+ ],
+ "channels": {
+  "网站": "https://nag.kz",
+  "直邮": "sales@nag.kz，r.yakimchuk@nag.kz（表内）"
+ },
+ "signals": [
+  "哈萨克斯坦 NAG（nag.kz；NAG / SNR 集团自有品牌，表内「从国内买 CWDM 模块 / Switch / SFP / MC 等」= 自有品牌 + 从中国直采）：自有品牌 ✔ 进口中国同类 ✔ 对位 ✔，群发 16 次 0 回 → 闸 2 查底数；俄语区收款待定，低优先",
+  "表内兴趣：从国内买CWDM模块\nSwitch SFP MC等"
+ ],
+ "risks": [
+  "**SNR 自有品牌从中国直采 → OEM 30%（集团采购在俄 Екатеринбург，哈萨克子公司 = 可能的收款路径：有 USD / EUR 账户）：一页纸一次（STC-228GP / STC-2224GP / STI-288GPM 贴牌 + 光模块走本职线 + MOQ 1）— 预付 100%，路径待 Simon 定**"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

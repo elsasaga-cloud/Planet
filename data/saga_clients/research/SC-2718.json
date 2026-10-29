@@ -1,17 +1,46 @@
 {
  "code": "SC-2718",
- "name_official": "mercasat.es",
+ "name_official": "MERCASAT SL",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（Activa）",
  "summary": "C 池三闸捞出（△ 观察）：△ 观察档 · 分销 20%：MERCASAT SL（Málaga；CIF B92538883；资本 €3,120；CNAE 4652；22 年）坐实；多牌直进 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔，资本微型 → 入池观察档 + 预付；Simon 曾判不行，可否决",
- "type": "",
- "size": "",
+ "type": "分销（闸 2 判定 · 20% 档）",
+ "size": "微型（资本 €3,120）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "MERCASAT SL（mercasat.es；**empresite / iberinform / einforma：CIF B92538883；Sociedad limitada unipersonal；资本 €3,120；CNAE 4652 电子 / 电信设备批发；Calle La Boheme 22 esq. Sal Marina, Pol. Ind., 29006 Málaga；952 105 737；22 年；BORME 2006 章程修改**）；表内：商业 Po",
+   "quote": "ES · 1 次检索：empresite.eleconomista.es（CIF / 形式）+ iberinform（地址 / CNAE / Activa）+ einforma（资本 €3,120；BORME）；2026-10-29",
+   "url": "https://www.iberinform.es/empresa/1329911/mercasat",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "西班牙 Mercasat（商业 PoE 好几种外壳、好多家国内的牌子）：欧洲 + 多品牌进口经验 + 对位 ✔ → 闸 2 查底数，低优先；Simon 曾判不行 → 可按编号否决",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R01",
+   "claim": "MERCASAT SL（Málaga；CIF B92538883；22 年；多牌直进）：直接进口多品牌 = 进口经验 ✔ 对位 ✔ → 留 B，预付（资本微型）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "info@mercasat.es",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · 分销 20%：MERCASAT SL（Málaga；CIF B92538883；资本 €3,120；CNAE 4652；22 年）坐实；多牌直进 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔，资本微型 → 入池观察档 + 预付；Simon 曾判不行，可否决；闸 1：西班牙 Mercasat（商业 PoE 好几种外壳、好多家国内的牌子）：欧洲 + 多品牌进口经验 + 对位 ✔ → 闸 2 查底数，低优先；Simon 曾判不行 → 可按编号否决",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +70,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +85,59 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "△ 观察档 · 分销 20%：MERCASAT SL（Málaga；CIF B92538883；资本 €3,120；CNAE 4652；22 年）坐实；多牌直进 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔，资本微型 → 入池观察档 + 预付；Simon 曾判不行，可否决",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "ES · 1 次检索：empresite.eleconomista.es（CIF / 形式）+ iberinform（地址 / CNAE / Activa）+ einforma（资本 €3,120；BORME）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.iberinform.es/empresa/1329911/mercasat"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "MERCASAT SL",
+  "reg_no": "B92538883（CIF）",
+  "status": "营业中（Activa）",
+  "incorporated": "约 2004（22 年）",
+  "company_type": "S.L. unipersonal",
+  "address": "Calle La Boheme 22, Pol. Ind., 29006 Málaga",
+  "size_band": "微型（资本 €3,120）",
+  "officers": [
+   "（info@mercasat.es 表内总邮箱；具名 KP 未取）"
+  ],
+  "psc": "未取",
+  "source": "ES · 1 次检索：empresite.eleconomista.es（CIF / 形式）+ iberinform（地址 / CNAE / Activa）+ einforma（资本 €3,120；BORME）；2026-10-29",
+  "url": "https://www.iberinform.es/empresa/1329911/mercasat",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "卫星 / 电信 / 电子设备批发（马拉加）"
+ ],
+ "channels": {
+  "网站": "https://mercasat.es",
+  "直邮": "info@mercasat.es（表内）"
+ },
+ "signals": [
+  "西班牙 Mercasat（商业 PoE 好几种外壳、好多家国内的牌子）：欧洲 + 多品牌进口经验 + 对位 ✔ → 闸 2 查底数，低优先；Simon 曾判不行 → 可按编号否决",
+  "表内兴趣：商业POE 好几种外壳\n好多家国内的牌子；商业POE 好几种外壳"
+ ],
+ "risks": [
+  "**多牌进口批发 → 分销 20%：一页纸一次（STC-028GP $28 / STC-228GP $33 + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；资本微型 → 预付；Simon 可否决"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

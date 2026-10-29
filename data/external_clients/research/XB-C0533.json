@@ -1,0 +1,51 @@
+{
+ "code": "XB-C0533",
+ "name": "Electro IT Services",
+ "round": "LT-T01",
+ "researched_at": "2026-10-29",
+ "alive": "域名 electroitservices.net MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "summary": "Electro IT Services（埃塞俄比亚）：埃塞俄比亚Hikvision领先分销；地址=Africa Avenue, Garad Mall, 2nd Floor #44, Addis Ababa；业务=埃塞俄比亚Hikvision领先分销；开发策略=埃塞俄比亚Hikvision主力",
+ "type_final": "埃塞俄比亚Hikvision领先分销",
+ "size": "",
+ "brands_seen": [
+  "Hikvision"
+ ],
+ "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "埃塞俄比亚Hikvision领先分销；地址=Africa Avenue, Garad Mall, 2nd Floor #44, Addis Ababa；业务=埃塞俄比亚Hikvision领先分销；开发策略=埃塞俄比亚Hikvision主力",
+   "quote": "",
+   "url": "https://electroitservices.net",
+   "date": "2026-09"
+  },
+  {
+   "kind": "长期群复核 LT-R07",
+   "claim": "桌面复核（来源库核对 + 研究卡）：埃塞俄比亚Hikvision领先分销；业务=埃塞俄比亚Hikvision领先分销；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "contacts": {
+  "email": "info@electroitservices.net",
+  "email_status": "活（来源库 9 月核对）",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "桌面复核（来源库核对 + 研究卡）：埃塞俄比亚Hikvision领先分销；业务=埃塞俄比亚Hikvision领先分销；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "官网快照 + 加厚后进群发分组（Q-77）"
+ },
+ "draft_en": null,
+ "deep": false,
+ "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+}

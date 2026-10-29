@@ -1,17 +1,52 @@
 {
  "code": "SC-2258",
- "name_official": "townet.it",
+ "name_official": "TOWNET S.R.L.",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（Crunchbase Active；2024 展商）",
  "summary": "C 池三闸捞出（○ 正式）：○ 制造商配套 · OEM 30%：TOWNET S.R.L.（Cagli 2003；1–10 人；电信设备 + SmartBox 供电柜制造；Sicurezza 展商；enrico@ 在表）部分坐实（P.IVA 未取）；柜内配套 = 贴牌对象 ✔ 进口 hasivo ✔ 欧洲 ✔ 对位 ✔ → P 池候选；Simon 曾判不行，可否决",
- "type": "",
- "size": "",
+ "type": "OEM（闸 2 判定 · 30% 档）",
+ "size": "微型（1–10）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "TOWNET S.R.L.（townet.it；**Crunchbase：Cagli, Marche；1–10 人；电信设备 / 能源系统 / 传感器制造；Confapi Pesaro 名录 + Sicurezza Milano 展商档：Via dei Finale 20, 61043 Cagli (PU)；0721-797396；2003 年创立，2018 起 SmartBox 供电 / 控制电柜 BU + 自有 IoT 云平台**）；表内：用 hasivo 的（安防 + ",
+   "quote": "IT · 1 次检索：crunchbase（法人名 Townet Srl；Cagli；1–10）+ confapipesaro 名录（地址 / 电话）+ expoplaza-sicurezza 展商档（2003；SmartBox）；P.IVA 未取；2026-10-29",
+   "url": "https://expoplaza-sicurezza.fieramilano.it/en/exhibitors/townet-s-r-l-1",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "意大利 Townet（用 hasivo 的，安防 + 工业 FS）：欧洲 + 已进口中国同类品牌 + 对位 ✔；9 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R02",
+   "claim": "桌面复核（闸 2 证据充分，三问成立）：○ 制造商配套 · OEM 30%：TOWNET S.R.L.（Cagli 2003；1–10 人；电信设备 + SmartBox 供电柜制造；Sicurezza 展商；enrico@ 在表）部分坐实（P.IVA 未取）；柜内配套 = 贴牌对象 ✔ 进口 hasivo ✔ 欧洲 ✔ 对位 ✔ → P 池候选；Simon 曾判不行，可否决",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "info@townet.it",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "enrico@townet.it",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 制造商配套 · OEM 30%：TOWNET S.R.L.（Cagli 2003；1–10 人；电信设备 + SmartBox 供电柜制造；Sicurezza 展商；enrico@ 在表）部分坐实（P.IVA 未取）；柜内配套 = 贴牌对象 ✔ 进口 hasivo ✔ 欧洲 ✔ 对位 ✔ → P 池候选；Simon 曾判不行，可否决；闸 1：意大利 Townet（用 hasivo 的，安防 + 工业 FS）：欧洲 + 已进口中国同类品牌 + 对位 ✔；9 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +76,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +91,60 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 制造商配套 · OEM 30%：TOWNET S.R.L.（Cagli 2003；1–10 人；电信设备 + SmartBox 供电柜制造；Sicurezza 展商；enrico@ 在表）部分坐实（P.IVA 未取）；柜内配套 = 贴牌对象 ✔ 进口 hasivo ✔ 欧洲 ✔ 对位 ✔ → P 池候选；Simon 曾判不行，可否决",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "IT · 1 次检索：crunchbase（法人名 Townet Srl；Cagli；1–10）+ confapipesaro 名录（地址 / 电话）+ expoplaza-sicurezza 展商档（2003；SmartBox）；P.IVA 未取；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://expoplaza-sicurezza.fieramilano.it/en/exhibitors/townet-s-r-l-1"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "TOWNET S.R.L.",
+  "reg_no": "未取（P.IVA 未查）",
+  "status": "营业中（Crunchbase Active；2024 展商）",
+  "incorporated": "2003",
+  "company_type": "S.r.l.",
+  "address": "Via dei Finale 20, 61043 Cagli (PU)",
+  "size_band": "微型（1–10）",
+  "officers": [
+   "enrico@townet.it（表内具名；职务未取）"
+  ],
+  "psc": "未取",
+  "source": "IT · 1 次检索：crunchbase（法人名 Townet Srl；Cagli；1–10）+ confapipesaro 名录（地址 / 电话）+ expoplaza-sicurezza 展商档（2003；SmartBox）；P.IVA 未取；2026-10-29",
+  "url": "https://expoplaza-sicurezza.fieramilano.it/en/exhibitors/townet-s-r-l-1",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "电信设备 + 智能供电柜（SmartBox）制造（马尔凯）"
+ ],
+ "channels": {
+  "网站": "https://townet.it",
+  "直邮": "info@townet.it，enrico@townet.it（表内）"
+ },
+ "signals": [
+  "意大利 Townet（用 hasivo 的，安防 + 工业 FS）：欧洲 + 已进口中国同类品牌 + 对位 ✔；9 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决",
+  "表内兴趣：用hasivo的 主要是安防；工业FS"
+ ],
+ "risks": [
+  "**自产 SmartBox 柜内配套交换机 → OEM 30% / 集成 25% 双轨：点名 Enrico 一页纸一次（STI-154GP / STI-288GPM 工业 PoE 柜内配套 + 丝印 MOQ + 付费样机；hasivo 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当",
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

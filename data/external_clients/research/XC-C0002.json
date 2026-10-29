@@ -1,0 +1,42 @@
+{
+ "code": "XC-C0002",
+ "name": "Security Warehouse",
+ "round": "LT-T01",
+ "researched_at": "2026-10-29",
+ "alive": "域名 securitywarehouse.co.za MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "summary": "Security Warehouse（南非）：安防设备分销商；公司全称=Security Warehouse",
+ "type_final": "安防设备分销商",
+ "size": "",
+ "brands_seen": [],
+ "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "安防设备分销商；公司全称=Security Warehouse",
+   "quote": "",
+   "url": "https://securitywarehouse.co.za",
+   "date": "2026-09"
+  }
+ ],
+ "contacts": {
+  "email": "info@securitywarehouse.co.za",
+  "email_status": "活（来源库 9 月核对）",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "Saga SC-382（securitywarehouse.co.za）随主档",
+ "grade_final": "B",
+ "grade_reason_final": "Q-76 LT-01 2026-10-29：与 Saga SC-382 同一公司 → 随主档等级 B（复核随主档，不单列）",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "官网快照 + 加厚后进群发分组（Q-77）"
+ },
+ "draft_en": null,
+ "deep": false,
+ "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+}

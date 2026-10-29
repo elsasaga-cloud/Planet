@@ -1,0 +1,56 @@
+{
+ "code": "XC-E026",
+ "name": "Trimatrik Multimedia",
+ "round": "LT-T01",
+ "researched_at": "2026-10-29",
+ "alive": "域名 trimatrikbd.com MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "summary": "Trimatrik Multimedia（孟加拉 · Dhaka（Uttara / Shantinagar））：安防方案商",
+ "type_final": "安防方案商",
+ "size": "",
+ "brands_seen": [],
+ "saga_line": "STC 项目集成款（25% 档：STC-2216GP / STC-228GP）",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "安防方案商",
+   "quote": "",
+   "url": "https://trimatrikbd.com",
+   "date": "2026-10-27"
+  },
+  {
+   "kind": "来源库证据链接",
+   "claim": "来源库调研时引用",
+   "quote": "",
+   "url": "https://www.trimatrikbd.com",
+   "date": "2026-10-27"
+  },
+  {
+   "kind": "来源库证据链接",
+   "claim": "来源库调研时引用",
+   "quote": "",
+   "url": "https://www.trimatrikbd.com/product-category/poe-switch",
+   "date": "2026-10-27"
+  }
+ ],
+ "contacts": {
+  "email": "info@trimatrikbd.com",
+  "email_status": "活（来源库 9 月核对）",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "Saga SC-2891（trimatrikbd.com）随主档",
+ "grade_final": "B",
+ "grade_reason_final": "Q-76 LT-01 2026-10-29：与 Saga SC-2891 同一公司 → 随主档等级 B（复核随主档，不单列）",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "官网快照 + 加厚后进群发分组（Q-77）"
+ },
+ "draft_en": null,
+ "deep": false,
+ "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+}

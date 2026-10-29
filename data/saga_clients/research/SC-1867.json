@@ -1,17 +1,46 @@
 {
  "code": "SC-1867",
- "name_official": "vienthonghanoi.vn",
+ "name_official": "CÔNG TY CỔ PHẦN MẠNG VIỄN THÔNG 3 MIỀN",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（官网 2026-06）",
  "summary": "C 池三闸捞出（○ 正式）：○ 越南 · 分销 20%：CÔNG TY CỔ PHẦN MẠNG VIỄN THÔNG 3 MIỀN – vienthonghanoi.vn（Hà Nội Thanh Trì；MST 0109201032；2020-05-29；光 / 网络设备分销 + 施工）坐实（官网自署）；越南先例 ✔ 中科德能 ✔ 对位 ✔；8 推 0 回 → 坐实后换稿仅一次 → P 池候选",
- "type": "",
- "size": "",
+ "type": "分销（闸 2 判定 · 20% 档）",
+ "size": "小型",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "CÔNG TY CỔ PHẦN MẠNG VIỄN THÔNG 3 MIỀN（vienthonghanoi.vn；**MST / GPKD 0109201032（2020-05-29 河内计划投资局）；VPGD Chung Cư 9 Tầng Cầu Bươu, Tả Thanh Oai, Thanh Trì, Hà Nội；0914 180 199；inbox.vienthonghanoi@gmail.com；光 / 网络 / 电信设备分销 + 施工 5 年+，自称服务 1",
+   "quote": "VN · 1 次检索：vienthonghanoi.vn/gioi-thieu（法人名 / MST / 成立 / 地址 / 电话 / 邮箱 / 业务）；2026-10-29",
+   "url": "https://vienthonghanoi.vn/gioi-thieu/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "越南 Viễn Thông Hà Nội（vienthonghanoi.vn 正常；gmail；工业 FS 主要是中科德能的 ✔；8 推 0 回）：点名中国工业品牌 ✔ 越南先例 ✔ 工业对位 ✔ 可达 ✔ → 闸 2 查底数（MST）后换稿一页纸（零回应 → 坐实后仅一次）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：○ 越南 · 分销 20%：CÔNG TY CỔ PHẦN MẠNG VIỄN THÔNG 3 MIỀN – vienthonghanoi.vn（Hà Nội Thanh Trì；MST 0109201032；2020-05-29；光 / 网络设备分销 + 施工）坐实（官网自署）；越南先例 ✔ 中科德能 ✔ 对位 ✔；8 推 0 回 → 坐实后换稿仅一次 → P 池候选",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "inbox.vienthonghanoi@gmail.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 越南 · 分销 20%：CÔNG TY CỔ PHẦN MẠNG VIỄN THÔNG 3 MIỀN – vienthonghanoi.vn（Hà Nội Thanh Trì；MST 0109201032；2020-05-29；光 / 网络设备分销 + 施工）坐实（官网自署）；越南先例 ✔ 中科德能 ✔ 对位 ✔；8 推 0 回 → 坐实后换稿仅一次 → P 池候选；闸 1：越南 Viễn Thông Hà Nội（vienthonghanoi.vn 正常；gmail；工业 FS 主要是中科德能的 ✔；8 推 0 回）：点名中国工业品牌 ✔ 越南先例 ✔ 工业对位 ✔ 可达 ✔ → 闸 2 查底数（MST）后…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +70,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +85,56 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 越南 · 分销 20%：CÔNG TY CỔ PHẦN MẠNG VIỄN THÔNG 3 MIỀN – vienthonghanoi.vn（Hà Nội Thanh Trì；MST 0109201032；2020-05-29；光 / 网络设备分销 + 施工）坐实（官网自署）；越南先例 ✔ 中科德能 ✔ 对位 ✔；8 推 0 回 → 坐实后换稿仅一次 → P 池候选",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "VN · 1 次检索：vienthonghanoi.vn/gioi-thieu（法人名 / MST / 成立 / 地址 / 电话 / 邮箱 / 业务）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://vienthonghanoi.vn/gioi-thieu/"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "CÔNG TY CỔ PHẦN MẠNG VIỄN THÔNG 3 MIỀN",
+  "reg_no": "0109201032（MST）",
+  "status": "营业中（官网 2026-06）",
+  "incorporated": "2020-05-29",
+  "company_type": "Công ty Cổ phần",
+  "address": "Chung Cư 9 Tầng Cầu Bươu, Tả Thanh Oai, Thanh Trì, Hà Nội",
+  "size_band": "小型",
+  "officers": [
+   "（法定代表人未取）"
+  ],
+  "psc": "未取",
+  "source": "VN · 1 次检索：vienthonghanoi.vn/gioi-thieu（法人名 / MST / 成立 / 地址 / 电话 / 邮箱 / 业务）；2026-10-29",
+  "url": "https://vienthonghanoi.vn/gioi-thieu/",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "网络 / 光 / 电信设备分销 + 施工（河内 Thanh Trì）"
+ ],
+ "channels": {
+  "网站": "https://vienthonghanoi.vn",
+  "直邮": "inbox.vienthonghanoi@gmail.com（表内）"
+ },
+ "signals": [
+  "越南 Viễn Thông Hà Nội（vienthonghanoi.vn 正常；gmail；工业 FS 主要是中科德能的 ✔；8 推 0 回）：点名中国工业品牌 ✔ 越南先例 ✔ 工业对位 ✔ 可达 ✔ → 闸 2 查底数（MST）后换稿一页纸（零回应 → 坐实后仅一次）",
+  "表内兴趣：工业FS 主要是中科德能的"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

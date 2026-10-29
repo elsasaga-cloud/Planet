@@ -1,17 +1,46 @@
 {
  "code": "SC-1605",
- "name_official": "mangcongnghiep.vn",
+ "name_official": "CÔNG TY TNHH THƯƠNG MẠI VÀ PHÁT TRIỂN CÔNG NGHỆ TÂN TIẾN",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（官网 2022–）",
  "summary": "C 池三闸捞出（○ 正式）：○ 越南 · 工业经销 20%：CÔNG TY TNHH TM & PT CÔNG NGHỆ TÂN TIẾN（Hà Nội Thanh Xuân；MST 0110079059；三旺 3onedata 经销；tantien2tech@gmail.com）坐实（官网页脚）；越南先例 ✔ 三旺经销 ✔ 工业对位 ✔ → P 池候选（新公司微型 → 首单预付）",
- "type": "",
- "size": "",
+ "type": "工业经销（闸 2 判定 · 20% 档）",
+ "size": "微型",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "CÔNG TY TNHH THƯƠNG MẠI VÀ PHÁT TRIỂN CÔNG NGHỆ TÂN TIẾN（mangcongnghiep.vn；**MST 0110079059；Nhà 6A, ngách 207/28 phố Bùi Xương Trạch, Tổ 14, Phường Khương Đình, Quận Thanh Xuân, Hà Nội；Hotline 097 787 0110；tantien2tech@gmail.com；3onedata（三旺",
+   "quote": "VN · 1 次检索：mangcongnghiep.vn 产品页页脚（法人名 / MST / 地址 / 热线 / 邮箱 / 三旺经销）；2026-10-29",
+   "url": "https://mangcongnghiep.vn/switch-mang-cong-nghiep-5-port-4-rj45-1-cong-quang-3onedata-ies215-1f/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "越南 Mạng Công Nghiệp（mangcongnghiep.vn no_mx；联系 tantien2tech@gmail.com；工业交换机，三旺的 ✔）：点名中国工业品牌 ✔ 越南先例 ✔ 工业对位 ✔ gmail 可达 ✔ → 闸 2 查底数（MST）后一页纸（STI-280GE $46.6 / STI-288GPM $78.9）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：○ 越南 · 工业经销 20%：CÔNG TY TNHH TM & PT CÔNG NGHỆ TÂN TIẾN（Hà Nội Thanh Xuân；MST 0110079059；三旺 3onedata 经销；tantien2tech@gmail.com）坐实（官网页脚）；越南先例 ✔ 三旺经销 ✔ 工业对位 ✔ → P 池候选（新公司微型 → 首单预付）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "tantien2tech@gmail.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 越南 · 工业经销 20%：CÔNG TY TNHH TM & PT CÔNG NGHỆ TÂN TIẾN（Hà Nội Thanh Xuân；MST 0110079059；三旺 3onedata 经销；tantien2tech@gmail.com）坐实（官网页脚）；越南先例 ✔ 三旺经销 ✔ 工业对位 ✔ → P 池候选（新公司微型 → 首单预付）；闸 1：越南 Mạng Công Nghiệp（mangcongnghiep.vn no_mx；联系 tantien2tech@gmail.com；工业交换机，三旺的 ✔）：点名中国工业品牌 ✔ 越南先例 ✔ 工业对位 ✔ gmail 可达 ✔ …",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +70,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（工业经销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +85,56 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 越南 · 工业经销 20%：CÔNG TY TNHH TM & PT CÔNG NGHỆ TÂN TIẾN（Hà Nội Thanh Xuân；MST 0110079059；三旺 3onedata 经销；tantien2tech@gmail.com）坐实（官网页脚）；越南先例 ✔ 三旺经销 ✔ 工业对位 ✔ → P 池候选（新公司微型 → 首单预付）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "VN · 1 次检索：mangcongnghiep.vn 产品页页脚（法人名 / MST / 地址 / 热线 / 邮箱 / 三旺经销）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://mangcongnghiep.vn/switch-mang-cong-nghiep-5-port-4-rj45-1-cong-quang-3onedata-ies215-1f/"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "CÔNG TY TNHH THƯƠNG MẠI VÀ PHÁT TRIỂN CÔNG NGHỆ TÂN TIẾN",
+  "reg_no": "0110079059（MST）",
+  "status": "营业中（官网 2022–）",
+  "incorporated": "未取（MST 0110 段 ≈ 2022）",
+  "company_type": "Công ty TNHH",
+  "address": "Nhà 6A, ngách 207/28 phố Bùi Xương Trạch, Khương Đình, Thanh Xuân, Hà Nội",
+  "size_band": "微型",
+  "officers": [
+   "（法定代表人未取）"
+  ],
+  "psc": "未取",
+  "source": "VN · 1 次检索：mangcongnghiep.vn 产品页页脚（法人名 / MST / 地址 / 热线 / 邮箱 / 三旺经销）；2026-10-29",
+  "url": "https://mangcongnghiep.vn/switch-mang-cong-nghiep-5-port-4-rj45-1-cong-quang-3onedata-ies215-1f/",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "工业网络 / 电信设备贸易（河内 Thanh Xuân）"
+ ],
+ "channels": {
+  "网站": "https://mangcongnghiep.vn",
+  "直邮": "tantien2tech@gmail.com（表内）"
+ },
+ "signals": [
+  "越南 Mạng Công Nghiệp（mangcongnghiep.vn no_mx；联系 tantien2tech@gmail.com；工业交换机，三旺的 ✔）：点名中国工业品牌 ✔ 越南先例 ✔ 工业对位 ✔ gmail 可达 ✔ → 闸 2 查底数（MST）后一页纸（STI-280GE $46.6 / STI-288GPM $78.9）",
+  "表内兴趣：工业交换机"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（工业经销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

@@ -1,17 +1,46 @@
 {
  "code": "SC-493",
- "name_official": "idisglobal.com",
+ "name_official": "(주)아이디스 IDIS Co., Ltd.",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "域名 idisglobal.com（官网快照待 Actions 补抓）",
  "summary": "C 池三闸捞出（★ 正式）：★ 监控品牌龙头 · OEM 30%（长线）：(주)아이디스 IDIS Co., Ltd.（大田；사업자 314-86-25786；법인 160111-0302755；1997；409 人；KOSDAQ；대표 김영달）坐实；自有品牌 ✔ 对位 ✔ 坐实 ✔ → P 池候选（找硬件采购；长线）",
- "type": "",
- "size": "",
+ "type": "OEM（闸 2 判定 · 30% 档）",
+ "size": "大型（409 人；上市）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "(주)아이디스 IDIS Co., Ltd.（Intelligent Digital Integrated Security Co., Ltd.；idisglobal.com / idis.co.kr；**사업자 314-86-25786；법인 160111-0302755；1997-09-24 설립（2011-07-01 인적분할 신설）；대표 김영달；대전 유성구 테크노3로 8-10（관평동）34012；031-723-5000；409 人；KOSDAQ**）；表内：韩",
+   "quote": "KR · 1 次检索：bizno.net/article/3148625786（사업자 / 법인 / 대표 / 주소 / 409 人）+ IDIS Holdings 사업보고서（1997 / 分割）；2026-10-29",
+   "url": "https://bizno.net/article/3148625786",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "韩国 IDIS（idisglobal.com；自有品牌 CCTV 大厂，商业 PoE 配套）：自有品牌 = OEM 对象 ✔ 对位 ✔ Simon 点名韩国；未触达 → 闸 2 查底数（DART）；低优先，体量大走长线",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：★ 监控品牌龙头 · OEM 30%（长线）：(주)아이디스 IDIS Co., Ltd.（大田；사업자 314-86-25786；법인 160111-0302755；1997；409 人；KOSDAQ；대표 김영달）坐实；自有品牌 ✔ 对位 ✔ 坐实 ✔ → P 池候选（找硬件采购；长线）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "info@idisglobal.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 监控品牌龙头 · OEM 30%（长线）：(주)아이디스 IDIS Co., Ltd.（大田；사업자 314-86-25786；법인 160111-0302755；1997；409 人；KOSDAQ；대표 김영달）坐实；自有品牌 ✔ 对位 ✔ 坐实 ✔ → P 池候选（找硬件采购；长线）；闸 1：韩国 IDIS（idisglobal.com；自有品牌 CCTV 大厂，商业 PoE 配套）：自有品牌 = OEM 对象 ✔ 对位 ✔ Simon 点名韩国；未触达 → 闸 2 查底数（DART）；低优先，体量大走长线",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +70,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +85,59 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 监控品牌龙头 · OEM 30%（长线）：(주)아이디스 IDIS Co., Ltd.（大田；사업자 314-86-25786；법인 160111-0302755；1997；409 人；KOSDAQ；대표 김영달）坐实；自有品牌 ✔ 对位 ✔ 坐实 ✔ → P 池候选（找硬件采购；长线）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "KR · 1 次检索：bizno.net/article/3148625786（사업자 / 법인 / 대표 / 주소 / 409 人）+ IDIS Holdings 사업보고서（1997 / 分割）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://bizno.net/article/3148625786"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "(주)아이디스 IDIS Co., Ltd.",
+  "reg_no": "314-86-25786（사업자등록번호）/ 160111-0302755（법인등록번호）",
+  "status": "계속사업자（KOSDAQ 上市）",
+  "incorporated": "1997-09-24",
+  "company_type": "주식회사（上市）",
+  "address": "대전광역시 유성구 테크노3로 8-10（관평동）34012",
+  "size_band": "大型（409 人；上市）",
+  "officers": [
+   "김영달 — 대표이사"
+  ],
+  "psc": "未取",
+  "source": "KR · 1 次检索：bizno.net/article/3148625786（사업자 / 법인 / 대표 / 주소 / 409 人）+ IDIS Holdings 사업보고서（1997 / 分割）；2026-10-29",
+  "url": "https://bizno.net/article/3148625786",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "视频监控设备制造（大田）"
+ ],
+ "channels": {
+  "网站": "https://idisglobal.com",
+  "直邮": "info@idisglobal.com（表内）"
+ },
+ "signals": [
+  "韩国 IDIS（idisglobal.com；自有品牌 CCTV 大厂，商业 PoE 配套）：自有品牌 = OEM 对象 ✔ 对位 ✔ Simon 点名韩国；未触达 → 闸 2 查底数（DART）；低优先，体量大走长线",
+  "表内兴趣：主要是CCTV 商业POE"
+ ],
+ "risks": [
+  "**监控品牌龙头 → OEM 30%（长线）：找硬件采购一页纸一次（STC-228GP / STC-2224GP 贴牌 IDIS + 中性包装 + MOQ 1；无 KC 买方自证）— 韩国常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳；无 KC（买方自行认证，SDT 先例）；周二 / 周四 10–12 KST**"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

@@ -122,6 +122,15 @@ updated: 2026-10-29
 - **KP**：Alain Casault（ing. · CSPE 副总裁 / 联合创始人 · MikroTik 认证培训师本人（alaincasault.com）= 已婉拒「现在不要」（第 113 批 官方登记核实 2026-10-28））casault.alain@educationhmo.com 〔gmail_a 2026-09-30 回信签名「AC」〕
 - 备注：Q-44「A 邮箱入库后同一脚本再跑一遍，把有人工回信的补录」的产物（第 64 批）。727 个未入库出站域名里只有它一个是重点区域内的真人回信。
 
+### 加厚挖掘（2026-10-29 · 邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Télécommunications Alain Casault / CSPE（Centre de services professionnels en éducation；78 rue Blainville Ouest, Sainte-Thérèse, QC J7E 1X3；NEQ 未取；1–10 人） |
+| 成立 | 1996（CSPE）（第 113 批 官方登记核实 2026-10-28） |
+| 其他 | 第 113 批：**研究档类型「教育机构 IT / 终端用户」有误 → MikroTik 培训 + 电信咨询个体业务**；非渠道 + 明示「现在不要」→ **不动（B 保留；他主动来询再报）**（第 113 批 官方登记核实 2026-10-28） |
+
+- **Saga 对位结论**：P1 STC-424XGGPM-280W（校园楼层 PoE，24 口 + 4×10G）（25% 档）——教育终端用户，项目制，按集成商档 25%
 
 ## 在卖/在用品牌 → Saga 对位
 

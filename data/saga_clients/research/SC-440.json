@@ -1,17 +1,39 @@
 {
  "code": "SC-440",
- "name_official": "Interland Network & Security",
+ "name_official": "İnterland Bilişim Teknolojileri Ticaret Limited Şirketi",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（目录 2024 / 官网 2023）",
  "summary": "C 池三闸捞出（○ 正式）：○ 土耳其主区 · 分销 / 集成 20–25%：İnterland Bilişim Teknolojileri Tic. Ltd. Şti.（İstanbul Ümraniye；VKN 4781181726；NACE 461401 电子 / 电信设备批发代理）坐实（展会名片「Interland Network & Security」对应待 WA 确认）；土耳其主区 ✔ WA 可达 ✔ 具体需求 ✔ → P 池候选",
- "type": "",
- "size": "",
+ "type": "分销 / 集成 20–（闸 2 判定 · 25% 档）",
+ "size": "小型（Ltd. Şti.）",
  "brands_seen": [],
- "evidence": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "İnterland Bilişim Teknolojileri Ticaret Limited Şirketi（表内「Interland Network & Security」；**VKN 4781181726；NACE 461401 = 计算机 / 软件 / 电子与电信设备批发代理；Namık Kemal Mah. Motif Sk. No:23 A, Ümraniye, İstanbul 34762；同区另有 Interland Group（interlandgroup.",
+   "quote": "TR · 1 次检索：vknsorgula（VKN / NACE / 地址）+ interlandgroup.com 联系页（地址 / 邮箱 / 电话）+ yenifirma；2026-10-29",
+   "url": "https://vknsorgula.net/4781181726",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "土耳其 Interland Network & Security（Ady 展会加了 WhatsApp +90 533 833 8258；要多口商业级交换机）：土耳其主区 ✔ 公司名 ✔ WA 已加 = 可达 ✔ 对位 ✔（§5 ≥4 条）→ 闸 2 查底数（土耳其目录 / ticaret sicil 镜像）后 WA 一页纸（STC-2224GP $86 / STC-4424GCPM $165）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R01",
+   "claim": "İnterland Bilişim Teknolojileri（İstanbul；VKN 4781181726；NACE 461401 电子 / 电信设备批发代理；展会名片）：土耳其主区分销 ✔ 对位 ✔ 坐实 ✔ → 留 B",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
  "kp": [],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 土耳其主区 · 分销 / 集成 20–25%：İnterland Bilişim Teknolojileri Tic. Ltd. Şti.（İstanbul Ümraniye；VKN 4781181726；NACE 461401 电子 / 电信设备批发代理）坐实（展会名片「Interland Network & Security」对应待 WA 确认）；土耳其主区 ✔ WA 可达 ✔ 具体需求…；闸 1：土耳其 Interland Network & Security（Ady 展会加了 WhatsApp +90 533 833 8258；要多口商业级交换机）：土耳其主区 ✔ 公司名 ✔ WA 已加 = 可达 ✔ 对位 ✔（§5 ≥4 条）…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/company_facts/business_lines/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +63,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-2216GP",
+   "why": "默认对位（分销 / 集成 20– · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +78,52 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 土耳其主区 · 分销 / 集成 20–25%：İnterland Bilişim Teknolojileri Tic. Ltd. Şti.（İstanbul Ümraniye；VKN 4781181726；NACE 461401 电子 / 电信设备批发代理）坐实（展会名片「Interland Network & Security」对应待 WA 确认）；土耳其主区 ✔ WA 可达 ✔ 具体需求 ✔ → P 池候选",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "TR · 1 次检索：vknsorgula（VKN / NACE / 地址）+ interlandgroup.com 联系页（地址 / 邮箱 / 电话）+ yenifirma；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://vknsorgula.net/4781181726"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "İnterland Bilişim Teknolojileri Ticaret Limited Şirketi",
+  "reg_no": "4781181726（VKN）",
+  "status": "营业中（目录 2024 / 官网 2023）",
+  "incorporated": "未取",
+  "company_type": "Limited Şirketi",
+  "address": "Namık Kemal Mah. Motif Sk. No:23 A, Ümraniye, İstanbul 34762",
+  "size_band": "小型（Ltd. Şti.）",
+  "officers": [
+   "（具名 KP 未取；WA 联系人在表）"
+  ],
+  "psc": "未取",
+  "source": "TR · 1 次检索：vknsorgula（VKN / NACE / 地址）+ interlandgroup.com 联系页（地址 / 邮箱 / 电话）+ yenifirma；2026-10-29",
+  "url": "https://vknsorgula.net/4781181726",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "IT / 电信设备批发 + 网络安全集成（伊斯坦布尔 Ümraniye）"
+ ],
+ "signals": [
+  "土耳其 Interland Network & Security（Ady 展会加了 WhatsApp +90 533 833 8258；要多口商业级交换机）：土耳其主区 ✔ 公司名 ✔ WA 已加 = 可达 ✔ 对位 ✔（§5 ≥4 条）→ 闸 2 查底数（土耳其目录 / ticaret sicil 镜像）后 WA 一页纸（STC-2224GP $86 / STC-4424GCPM $165）",
+  "表内兴趣：Ady加了WhatsApp， 要多口商业级交换机"
+ ],
+ "saga_fit": {
+  "p1": "STC-2216GP",
+  "tier": 25,
+  "why": "默认对位（分销 / 集成 20– · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

@@ -1,17 +1,46 @@
 {
  "code": "SC-1807",
- "name_official": "Mootek（mootek.in）",
+ "name_official": "Mootek Technologies",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（indiamart 2025 / LinkedIn）",
  "summary": "C 池三闸捞出（★ 正式）：★ 印度 · 贴牌工业交换机 OEM 30%：Mootek Technologies（Chennai；GST 33AQSPM9347C1ZJ；2013；Founder / CEO Moorthy D；以 Mootek 品牌列三旺型号体系 IES215 / IES2005）坐实；自有品牌贴牌 ✔ 已进口中国工业线 ✔ 决策人具名 ✔ → P 池候选",
- "type": "",
- "size": "",
+ "type": "贴牌工业交换机 OEM（闸 2 判定 · 30% 档）",
+ "size": "小型（创始人经营）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Mootek Technologies（mootek.in / mootek.co.in；**Chennai；GST 33AQSPM9347C1ZJ（indiamart；PAN AQSPM = 个人 → 疑 proprietorship，LinkedIn 自称 Pvt Ltd）；创始人 / CEO Moorthy D，2013 起；工业电脑 / 面板机 + 工业以太网 / PoE 交换机 + 协议转换 + GPS；indiamart 产品页以 Mootek 品牌列 IES21",
+   "quote": "IN · 1 次检索：linkedin（Moorthy D / 2013 / 产品线）+ indiamart mootek.co.in 两页（GST / 品牌 Mootek 型号）；2026-10-29",
+   "url": "https://www.mootek.co.in/industrial-ethernet-switches.html",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "印度 Mootek（mootek.in；三旺 / 长飞；只发过改邮箱通知，无实质需求）：中国工业品牌分销 ✔ 对位 ✔ Simon 点名印度；→ 闸 2 查底数（zaubacorp）；低优先",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：★ 印度 · 贴牌工业交换机 OEM 30%：Mootek Technologies（Chennai；GST 33AQSPM9347C1ZJ；2013；Founder / CEO Moorthy D；以 Mootek 品牌列三旺型号体系 IES215 / IES2005）坐实；自有品牌贴牌 ✔ 已进口中国工业线 ✔ 决策人具名 ✔ → P 池候选",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "raj@mootek.in",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 印度 · 贴牌工业交换机 OEM 30%：Mootek Technologies（Chennai；GST 33AQSPM9347C1ZJ；2013；Founder / CEO Moorthy D；以 Mootek 品牌列三旺型号体系 IES215 / IES2005）坐实；自有品牌贴牌 ✔ 已进口中国工业线 ✔ 决策人具名 ✔ → P 池候选；闸 1：印度 Mootek（mootek.in；三旺 / 长飞；只发过改邮箱通知，无实质需求）：中国工业品牌分销 ✔ 对位 ✔ Simon 点名印度；→ 闸 2 查底数（zaubacorp）；低优先",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +70,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（贴牌工业交换机 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +85,59 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 印度 · 贴牌工业交换机 OEM 30%：Mootek Technologies（Chennai；GST 33AQSPM9347C1ZJ；2013；Founder / CEO Moorthy D；以 Mootek 品牌列三旺型号体系 IES215 / IES2005）坐实；自有品牌贴牌 ✔ 已进口中国工业线 ✔ 决策人具名 ✔ → P 池候选",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "IN · 1 次检索：linkedin（Moorthy D / 2013 / 产品线）+ indiamart mootek.co.in 两页（GST / 品牌 Mootek 型号）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.mootek.co.in/industrial-ethernet-switches.html"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Mootek Technologies",
+  "reg_no": "33AQSPM9347C1ZJ（GSTIN）",
+  "status": "营业中（indiamart 2025 / LinkedIn）",
+  "incorporated": "2013",
+  "company_type": "Proprietorship（疑；自称 Pvt Ltd）",
+  "address": "Chennai, Tamil Nadu（街道未取）",
+  "size_band": "小型（创始人经营）",
+  "officers": [
+   "Moorthy D — Founder / CEO"
+  ],
+  "psc": "未取",
+  "source": "IN · 1 次检索：linkedin（Moorthy D / 2013 / 产品线）+ indiamart mootek.co.in 两页（GST / 品牌 Mootek 型号）；2026-10-29",
+  "url": "https://www.mootek.co.in/industrial-ethernet-switches.html",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "工业电脑 + 工业网络自有品牌 / 贴牌（金奈）"
+ ],
+ "channels": {
+  "网站": "https://mootek.in",
+  "直邮": "raj@mootek.in（表内）"
+ },
+ "signals": [
+  "印度 Mootek（mootek.in；三旺 / 长飞；只发过改邮箱通知，无实质需求）：中国工业品牌分销 ✔ 对位 ✔ Simon 点名印度；→ 闸 2 查底数（zaubacorp）；低优先",
+  "表内兴趣：三旺 长飞；无实质需求，只是改邮箱通知"
+ ],
+ "risks": [
+  "**印度 · 贴牌工业交换机 OEM 30%：点名 Moorthy D 一页纸一次（STI-280GE $46.6 / STI-288GPM $78.9 / STI-244DGGPM $121 中性包装 + 贴 Mootek 牌 + MOQ 1 + 付费样机；三旺不点名）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / "
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（贴牌工业交换机 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

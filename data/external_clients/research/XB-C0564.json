@@ -1,0 +1,54 @@
+{
+ "code": "XB-C0564",
+ "name": "Radiant Info Solutions（印度德里）",
+ "round": "LT-T01",
+ "researched_at": "2026-10-29",
+ "alive": "域名 radiant.in MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "summary": "Radiant Info Solutions（印度德里）（印度）：Hirschmann授权合作伙伴；开发策略=印度Hirschmann渠道，Saga可以性价比替代；置信度=★★★★★；公司全称=Radiant Info Solutions Pvt. Ltd.；地址=Y-53, Ground Floor, Okhla Indl. Area, Phase-II, New Delhi-11",
+ "type_final": "Hirschmann授权合作伙伴",
+ "size": "",
+ "brands_seen": [
+  "Moxa",
+  "Hirschmann",
+  "Antaira",
+  "Perle"
+ ],
+ "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "Hirschmann授权合作伙伴；开发策略=印度Hirschmann渠道，Saga可以性价比替代；置信度=★★★★★；公司全称=Radiant Info Solutions Pvt. Ltd.；地址=Y-53, Ground Floor, Okhla Indl. Area, Phase-II, New Delhi-11",
+   "quote": "",
+   "url": "https://radiant.in",
+   "date": "2026-09"
+  },
+  {
+   "kind": "长期群复核 LT-R07",
+   "claim": "桌面复核（来源库核对 + 研究卡）：C类 — Hirschmann授权合作伙伴；类型=C类 — Hirschmann授权合作伙伴；产品=Hirschmann MACH100/RS30/SPIDER全系列；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "contacts": {
+  "email": "leads@radiant.in",
+  "email_status": "活（来源库 9 月核对）",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "桌面复核（来源库核对 + 研究卡）：C类 — Hirschmann授权合作伙伴；类型=C类 — Hirschmann授权合作伙伴；产品=Hirschmann MACH100/RS30/SPIDER全系列；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "官网快照 + 加厚后进群发分组（Q-77）"
+ },
+ "draft_en": null,
+ "deep": false,
+ "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+}

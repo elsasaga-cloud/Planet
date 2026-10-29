@@ -1,17 +1,50 @@
 {
  "code": "SC-1644",
- "name_official": "vienthonghoangthach.com",
+ "name_official": "Công Ty TNHH Viễn Thông Hoàng Thạch",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（目录 2023）",
  "summary": "C 池三闸捞出（△ 观察）：△ 越南 · CCTV 批零 20% 预付 100%：Công Ty TNHH Viễn Thông Hoàng Thạch（TP.HCM Tân Bình；MST 0316813026；2021；5–10 人）坐实；越南先例 ✔ utepo ✔ 但 2021 微型 CCTV 店 → P 池候选 △",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "CCTV 批零（闸 2 判定 · 20% 档）",
+ "size": "微型（5–10 人）",
+ "brands_seen": [
+  "Utepo",
+  "Hikvision",
+  "Dahua"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Công Ty TNHH Viễn Thông Hoàng Thạch（vienthonghoangthach.com；**MST 0316813026；425 Cộng Hòa, Phường 15, Quận Tân Bình, TP.HCM；2021 成立；5–10 人；0972 742 245；vienthonghoangthach@gmail.com；面向安装工的 CCTV 批零（Hikvision / Dahua / Kbvision / EZVIZ）；yello",
+   "quote": "VN · 1 次检索：yellowpages.vn（MST / 地址 / 电话 / 邮箱 / 成立 / 人数）+ jobsgo / topvietnam；2026-10-29",
+   "url": "https://www.yellowpages.vn/lgs/1187845410/cong-ty-tnhh-vien-thong-hoang-thach.html",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "越南 Viễn Thông Hoàng Thạch（vienthonghoangthach.com 正常；gmail；switch，有 utepo 的 ✔）：点名中国品牌 ✔ 越南先例 ✔ 对位 ✔ 可达 ✔ → 闸 2 查底数（MST）后一页纸",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：△ 越南 · CCTV 批零 20% 预付 100%：Công Ty TNHH Viễn Thông Hoàng Thạch（TP.HCM Tân Bình；MST 0316813026；2021；5–10 人）坐实；越南先例 ✔ utepo ✔ 但 2021 微型 CCTV 店 → P 池候选 △；备注：2021 微型 CCTV 店但进口 Utepo = 真买家 → 留 B 预付 100%（规则：微型 + 进口证据 = 留）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "vienthonghoangthach@gmail.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 越南 · CCTV 批零 20% 预付 100%：Công Ty TNHH Viễn Thông Hoàng Thạch（TP.HCM Tân Bình；MST 0316813026；2021；5–10 人）坐实；越南先例 ✔ utepo ✔ 但 2021 微型 CCTV 店 → P 池候选 △；闸 1：越南 Viễn Thông Hoàng Thạch（vienthonghoangthach.com 正常；gmail；switch，有 utepo 的 ✔）：点名中国品牌 ✔ 越南先例 ✔ 对位 ✔ 可达 ✔ → 闸 2 查底数（MST）…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +74,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（CCTV 批零 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +89,56 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "△ 越南 · CCTV 批零 20% 预付 100%：Công Ty TNHH Viễn Thông Hoàng Thạch（TP.HCM Tân Bình；MST 0316813026；2021；5–10 人）坐实；越南先例 ✔ utepo ✔ 但 2021 微型 CCTV 店 → P 池候选 △",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "VN · 1 次检索：yellowpages.vn（MST / 地址 / 电话 / 邮箱 / 成立 / 人数）+ jobsgo / topvietnam；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.yellowpages.vn/lgs/1187845410/cong-ty-tnhh-vien-thong-hoang-thach.html"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Công Ty TNHH Viễn Thông Hoàng Thạch",
+  "reg_no": "0316813026（MST）",
+  "status": "营业中（目录 2023）",
+  "incorporated": "2021",
+  "company_type": "Công ty TNHH",
+  "address": "425 Cộng Hòa, Phường 15, Quận Tân Bình, TP.HCM",
+  "size_band": "微型（5–10 人）",
+  "officers": [
+   "（法定代表人未取）"
+  ],
+  "psc": "未取",
+  "source": "VN · 1 次检索：yellowpages.vn（MST / 地址 / 电话 / 邮箱 / 成立 / 人数）+ jobsgo / topvietnam；2026-10-29",
+  "url": "https://www.yellowpages.vn/lgs/1187845410/cong-ty-tnhh-vien-thong-hoang-thach.html",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "CCTV 批零（胡志明市 Tân Bình）"
+ ],
+ "channels": {
+  "网站": "https://vienthonghoangthach.com",
+  "直邮": "vienthonghoangthach@gmail.com（表内）"
+ },
+ "signals": [
+  "越南 Viễn Thông Hoàng Thạch（vienthonghoangthach.com 正常；gmail；switch，有 utepo 的 ✔）：点名中国品牌 ✔ 越南先例 ✔ 对位 ✔ 可达 ✔ → 闸 2 查底数（MST）后一页纸",
+  "表内兴趣：switch"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（CCTV 批零 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

@@ -1,17 +1,62 @@
 {
  "code": "SC-371",
- "name_official": "Visiotech",
+ "name_official": "VISIOTECH SECURITY S.L.",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（官网 2026）",
  "summary": "C 池三闸捞出（★★ 正式）：★★ 首选 · OEM 30%：Visiotech Security S.L.（B80645518；Madrid；自有品牌 Safire / X-Security / Nivian；欧洲多国大分销）坐实；成单 ✔ 曾谈 OEM 交换机 ✔ 自有品牌 ✔ 具名 KP emussons@ ✔ → P 池候选",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "OEM（闸 2 判定 · 30% 档）",
+ "size": "大型（欧洲多国分销）",
+ "brands_seen": [
+  "Ruijie",
+  "Reyee",
+  "Uniview"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "VISIOTECH SECURITY S.L.（visiotechsecurity.com；**官网页脚：CIF B80645518；Calle Alberto Sánchez 31, 28052 Madrid；+ 葡萄牙分部；自称「leading supplier of technological equipment in Europe」；自有品牌 Safire / X-Security / Nivian（+ 分销 Ajax / Uniview / Ruijie-Reyee",
+   "quote": "ES · 1 次检索：visiotechsecurity.com/en/（CIF B80645518；Calle Alberto Sánchez 31, 28052 Madrid；品牌 Safire / X-Security / Nivian；Portugal 分部）；2026-10-29",
+   "url": "https://www.visiotechsecurity.com/en/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "西班牙 Visiotech（大型安防分销商，自有品牌 Safire，产品中见中科德能）：成单记录 + OEM 交换机合作邮件、31 次跟进 → 欧洲主区 + 自有品牌 + 分销体量 → 闸 2",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R02",
+   "claim": "桌面复核（闸 2 证据充分，三问成立）：★★ 首选 · OEM 30%：Visiotech Security S.L.（B80645518；Madrid；自有品牌 Safire / X-Security / Nivian；欧洲多国大分销）坐实；成单 ✔ 曾谈 OEM 交换机 ✔ 自有品牌 ✔ 具名 KP emussons@ ✔ → P 池候选",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "emussons@visiotechsecurity.com",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "comercial@visiotechsecurity.com",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "easyview@safirecctv.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★★ 首选 · OEM 30%：Visiotech Security S.L.（B80645518；Madrid；自有品牌 Safire / X-Security / Nivian；欧洲多国大分销）坐实；成单 ✔ 曾谈 OEM 交换机 ✔ 自有品牌 ✔ 具名 KP emussons@ ✔ → P 池候选；闸 1：西班牙 Visiotech（大型安防分销商，自有品牌 Safire，产品中见中科德能）：成单记录 + OEM 交换机合作邮件、31 次跟进 → 欧洲主区 + 自有品牌 + 分销体量 → 闸 2",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +86,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +101,60 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★★ 首选 · OEM 30%：Visiotech Security S.L.（B80645518；Madrid；自有品牌 Safire / X-Security / Nivian；欧洲多国大分销）坐实；成单 ✔ 曾谈 OEM 交换机 ✔ 自有品牌 ✔ 具名 KP emussons@ ✔ → P 池候选",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "ES · 1 次检索：visiotechsecurity.com/en/（CIF B80645518；Calle Alberto Sánchez 31, 28052 Madrid；品牌 Safire / X-Security / Nivian；Portugal 分部）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.visiotechsecurity.com/en/"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "VISIOTECH SECURITY S.L.",
+  "reg_no": "B80645518",
+  "status": "营业中（官网 2026）",
+  "incorporated": "未取",
+  "company_type": "S.L.",
+  "address": "Calle Alberto Sánchez 31, 28052 Madrid",
+  "size_band": "大型（欧洲多国分销）",
+  "officers": [
+   "emussons@visiotechsecurity.com（表内具名 = OEM 合作对接；职务未取）",
+   "（comercial@visiotechsecurity.com 表内总邮箱）"
+  ],
+  "psc": "未取",
+  "source": "ES · 1 次检索：visiotechsecurity.com/en/（CIF B80645518；Calle Alberto Sánchez 31, 28052 Madrid；品牌 Safire / X-Security / Nivian；Portugal 分部）；2026-10-29",
+  "url": "https://www.visiotechsecurity.com/en/",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "安防 / 网络技术设备大型分销 + 自有品牌（马德里；欧洲多国）"
+ ],
+ "channels": {
+  "网站": "https://visiotechsecurity.com",
+  "直邮": "emussons@visiotechsecurity.com，comercial@visiotechsecurity.com，easyview@safirecctv.com（表内）"
+ },
+ "signals": [
+  "西班牙 Visiotech（大型安防分销商，自有品牌 Safire，产品中见中科德能）：成单记录 + OEM 交换机合作邮件、31 次跟进 → 欧洲主区 + 自有品牌 + 分销体量 → 闸 2",
+  "表内兴趣：有中科德能的\n1，分销，整个交谈比较专业，女性\n2，switch price list,商业为主工业为辅\n工业级处理的少，但是有兴趣\n3，VC系列，偶尔用analog video\n4, POE extender\n4,OEM, 给她看了我电脑上之前总结的OEM案例\n5，最后问了POE距离，说了大华的800米，她拿了大华的袋子，也问了主要市场和年度销售额；主要是CCTV类产品 商业PoE\n自己的logo；商业POE；主要是CCTV类产品 商业POE\n自己的logo"
+ ],
+ "risks": [
+  "**成单 + 曾谈 OEM 交换机 → OEM 30% 主线：按 Safire / X-Security 口型复盘（STC-028GP / STC-228GP / STC-2224GP 24 PoE + 2 SFP 丝印彩盒 MOQ + STI 工业线；付费样机）一页纸 + 旧线索点名回访— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

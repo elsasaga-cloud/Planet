@@ -1,17 +1,46 @@
 {
  "code": "SC-491",
- "name_official": "hisharp.com",
+ "name_official": "昇銳智慧科技股份有限公司 Hi Sharp Intelligence Technology Co., Ltd.",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "域名 hisharp.com（官网快照待 Actions 补抓）",
  "summary": "C 池三闸捞出（★ 正式）：★ 上櫃监控品牌 · OEM 30%：昇銳智慧科技 Hi Sharp（桃園八德；統編 22601576；上櫃 3128；1987；董事長 江添貴 / 總經理 蕭哲彥）坐实；自有品牌 ✔ 对位 ✔ 坐实 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon）",
- "type": "",
- "size": "",
+ "type": "OEM（闸 2 判定 · 30% 档）",
+ "size": "大型（上櫃；實收 NT$4.73 億）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "昇銳智慧科技股份有限公司 Hi Sharp Intelligence Technology Co., Ltd.（原 昇銳電子股份有限公司；hisharp.com；**統編 22601576；上櫃 3128；成立 1987-09-23；實收 NT$4.73 億；董事長 江添貴；總經理 / 發言人 蕭哲彥；桃園市八德區長興路 673 號；03-3653121；fred@hisharp.com.tw（公司資料）**）；表内：监控品牌，洪瑞现供 → Q-33",
+   "quote": "TW · 1 次检索：twincn.com/item.aspx?no=22601576（統編 / 上櫃 / 代表人）+ hisharp.com/zh-tw/governance.php（公司基本資料）+ wantgoo（實收 / 邮箱）；2026-10-29",
+   "url": "https://www.hisharp.com/zh-tw/governance.php",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "台湾 HiSharp（hisharp.com 域 no_mx / hisharp.com.tw；自有品牌 CCTV，表内「商业 PoE 洪瑞的」= 洪瑞现供）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔；未触达 → 闸 2 查底数（twincn）；四主区外，低优先；洪瑞现供客户 → Q-33 口径待 Simon（默认只推 SmartByte / Marvell 管理 + 工业线）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：★ 上櫃监控品牌 · OEM 30%：昇銳智慧科技 Hi Sharp（桃園八德；統編 22601576；上櫃 3128；1987；董事長 江添貴 / 總經理 蕭哲彥）坐实；自有品牌 ✔ 对位 ✔ 坐实 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "sales@hisharp.com.tw",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 上櫃监控品牌 · OEM 30%：昇銳智慧科技 Hi Sharp（桃園八德；統編 22601576；上櫃 3128；1987；董事長 江添貴 / 總經理 蕭哲彥）坐实；自有品牌 ✔ 对位 ✔ 坐实 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon）；闸 1：台湾 HiSharp（hisharp.com 域 no_mx / hisharp.com.tw；自有品牌 CCTV，表内「商业 PoE 洪瑞的」= 洪瑞现供）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔；未触达 → 闸 2…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +70,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +85,58 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 上櫃监控品牌 · OEM 30%：昇銳智慧科技 Hi Sharp（桃園八德；統編 22601576；上櫃 3128；1987；董事長 江添貴 / 總經理 蕭哲彥）坐实；自有品牌 ✔ 对位 ✔ 坐实 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "TW · 1 次检索：twincn.com/item.aspx?no=22601576（統編 / 上櫃 / 代表人）+ hisharp.com/zh-tw/governance.php（公司基本資料）+ wantgoo（實收 / 邮箱）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.hisharp.com/zh-tw/governance.php"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "昇銳智慧科技股份有限公司 Hi Sharp Intelligence Technology Co., Ltd.",
+  "reg_no": "22601576（統編）",
+  "status": "核准設立（上櫃 3128）",
+  "incorporated": "1987-09-23",
+  "company_type": "股份有限公司（上櫃）",
+  "address": "桃園市八德區長興路 673 號",
+  "size_band": "大型（上櫃；實收 NT$4.73 億）",
+  "officers": [
+   "江添貴 — 董事長",
+   "蕭哲彥 — 總經理 / 發言人",
+   "鄭忠恕 — 代理發言人"
+  ],
+  "psc": "未取",
+  "source": "TW · 1 次检索：twincn.com/item.aspx?no=22601576（統編 / 上櫃 / 代表人）+ hisharp.com/zh-tw/governance.php（公司基本資料）+ wantgoo（實收 / 邮箱）；2026-10-29",
+  "url": "https://www.hisharp.com/zh-tw/governance.php",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "电子监视系统制造 / 进出口（桃园八德）"
+ ],
+ "channels": {
+  "网站": "https://hisharp.com",
+  "直邮": "sales@hisharp.com.tw（表内）"
+ },
+ "signals": [
+  "台湾 HiSharp（hisharp.com 域 no_mx / hisharp.com.tw；自有品牌 CCTV，表内「商业 PoE 洪瑞的」= 洪瑞现供）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔；未触达 → 闸 2 查底数（twincn）；四主区外，低优先；洪瑞现供客户 → Q-33 口径待 Simon（默认只推 SmartByte / Marvell 管理 + 工业线）",
+  "表内兴趣：商业PoE 洪瑞的"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

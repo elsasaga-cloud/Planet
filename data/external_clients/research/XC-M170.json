@@ -1,0 +1,44 @@
+{
+ "code": "XC-M170",
+ "name": "Blue Helix",
+ "round": "LT-T01",
+ "researched_at": "2026-10-29",
+ "alive": "域名 bluehelix.co.uk MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "summary": "Blue Helix（英国）：分销（ComNet 授权）；ComNet",
+ "type_final": "分销（ComNet 授权）",
+ "size": "",
+ "brands_seen": [
+  "ComNet"
+ ],
+ "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "分销（ComNet 授权）",
+   "quote": "",
+   "url": "https://bluehelix.co.uk",
+   "date": "2026-09"
+  }
+ ],
+ "contacts": {
+  "email": "",
+  "email_status": "缺",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "Saga SC-2728（bluehelix.co.uk）随主档",
+ "grade_final": "C",
+ "grade_reason_final": "LT-X01 2026-10-29：副档随主档 —— 主档 Saga SC-2728 已复核打回 C 储备（Blue Helix Limited（CH 04836349）：Companies House 账目类别 Dormant / SIC 99999 休眠，名录（kompass）却标 20–49 人在营 → 交易主体不明朗（可能经 06248590 等关联号）；按「不明朗 → C 储备」，对方回信即回 B）→ 本档同步 C；主档回 B 本档跟着回",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "官网快照 + 加厚后进群发分组（Q-77）"
+ },
+ "draft_en": null,
+ "deep": false,
+ "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+}

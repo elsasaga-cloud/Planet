@@ -1,17 +1,46 @@
 {
  "code": "SC-509",
- "name_official": "nextik.co.in",
+ "name_official": "Nextik",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "域名 nextik.co.in（官网快照待 Actions 补抓）",
  "summary": "C 池三闸捞出（○ 正式）：闸 2 回 C：Nextik（nextik.co.in）1 查仅得 X 账号 + 同名他户 → 法人未取 → 未坐实 → 回 C 储备",
- "type": "",
- "size": "",
+ "type": "FTTH / 交换机制造商 OEM（闸 2 判定 · 30% 档）",
+ "size": "未知",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Nextik（nextik.co.in；**1 查仅得 X 账号 @nextik_official（\"Advanced data communication equipment / Customized Innovations\"，India）+ 同名他户 Netik IT Technologies（Hyderabad）/ Nextlink Technologies（Bangalore）→ 法人未取 → 未坐实**）；表内：自称数据通信设备品牌",
+   "quote": "IN · 1 次检索：x.com/nextik_official + indiafilings / zaubacorp 同名他户 → 法人未取；2026-10-29",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "印度 Nextik（nextik.co.in；表内「BD 的核心交换机 / WDM 核心交换机」= 在售 BDCOM 中国品牌）：进口中国同类 ✔ 对位 ✔（企业 / DC 线）Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：○ 印度 · 自有品牌 FTTH / 交换机制造商 OEM 30%：NEXTIK BHARAT PRIVATE LIMITED（CIN U72900DL2021PTC377914，2021-03-03 成立；805 Devika Tower Nehru Place New Delhi 110019 + Noida Sec 57 制造基地；+91 8130608406；info@nextik.co.…；备注：2021 新司自有品牌 FTTH / 交换机 → OEM 目标，预付",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "info@nextik.co.in",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：闸 2 回 C：Nextik（nextik.co.in）1 查仅得 X 账号 + 同名他户 → 法人未取 → 未坐实 → 回 C 储备；闸 1：印度 Nextik（nextik.co.in；表内「BD 的核心交换机 / WDM 核心交换机」= 在售 BDCOM 中国品牌）：进口中国同类 ✔ 对位 ✔（企业 / DC 线）Simon 点名印度；未触达 → 闸 2 查底数（zauba…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +70,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（FTTH / 交换机制造商 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +85,60 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "闸 2 回 C：Nextik（nextik.co.in）1 查仅得 X 账号 + 同名他户 → 法人未取 → 未坐实 → 回 C 储备",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "IN · 1 次检索：x.com/nextik_official + indiafilings / zaubacorp 同名他户 → 法人未取；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": ""
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Nextik",
+  "reg_no": "未取",
+  "status": "未坐实",
+  "incorporated": "未取",
+  "company_type": "未取",
+  "address": "未取",
+  "size_band": "未知",
+  "officers": [
+   "（具名 KP 未取）"
+  ],
+  "psc": "未取",
+  "source": "IN · 1 次检索：x.com/nextik_official + indiafilings / zaubacorp 同名他户 → 法人未取；2026-10-29",
+  "url": "",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "数据通信设备（印度，待证）"
+ ],
+ "channels": {
+  "网站": "https://nextik.co.in",
+  "直邮": "info@nextik.co.in（表内）"
+ },
+ "signals": [
+  "印度 Nextik（nextik.co.in；表内「BD 的核心交换机 / WDM 核心交换机」= 在售 BDCOM 中国品牌）：进口中国同类 ✔ 对位 ✔（企业 / DC 线）Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先",
+  "表内兴趣：BD的核心交换机；WDM 核心交换机"
+ ],
+ "risks": [
+  "**未坐实 → 回 C 储备；来信再起则 OEM 30% + 预付 100%**— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST",
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（FTTH / 交换机制造商 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

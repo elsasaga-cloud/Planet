@@ -1,17 +1,46 @@
 {
  "code": "SC-1038",
- "name_official": "TELTEX",
+ "name_official": "Teltex Tecnologia SA",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "域名 teltex.com.br（官网快照待 Actions 补抓）",
  "summary": "C 池三闸捞出（★ 正式）：★ 大集成 25%（长线）：Teltex Tecnologia SA（São Paulo；CNPJ 73.442.360/0001-17；33 年；巴西前 5 安防集成商；葡 / 美办事处）坐实；大集成 ✔ 对位 ✔ 坐实 ✔ → P 池候选（找采购 / 工程部；长线）",
- "type": "",
- "size": "",
+ "type": "大集成（闸 2 判定 · 25% 档）",
+ "size": "大型（巴西前 5 安防集成）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Teltex Tecnologia SA（teltex.com.br；**页脚 CNPJ 73.442.360/0001-17；33 年；Rua França Pinto 1089, Vila Mariana, São Paulo SP 04016-030；+55 11 3840-6400；comercial@teltex.com.br；2022 巴西前 5 大安防集成商（Informática Hoje Top 200 / FGV 审计）；2025 年鉴前 10 盈利；葡萄",
+   "quote": "BR · 1 次检索：teltex.com.br/en/（CNPJ / 排名 / 海外办）+ /homepage-portugues/（地址 / 电话 / 邮箱）；2026-10-29",
+   "url": "https://teltex.com.br/en/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "巴西 Teltex（teltex.com.br；做摄像头的，要用到 PoE，价格表已发）：自有品牌摄像头 = OEM 对象 ✔ 对位 ✔ 有互动 ✔；推 1 次 0 回 → 闸 2 查底数（cnpj.biz）；拉美非点名国，低优先",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：★ 大集成 25%（长线）：Teltex Tecnologia SA（São Paulo；CNPJ 73.442.360/0001-17；33 年；巴西前 5 安防集成商；葡 / 美办事处）坐实；大集成 ✔ 对位 ✔ 坐实 ✔ → P 池候选（找采购 / 工程部；长线）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "thales.rollo@teltex.com.br",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 大集成 25%（长线）：Teltex Tecnologia SA（São Paulo；CNPJ 73.442.360/0001-17；33 年；巴西前 5 安防集成商；葡 / 美办事处）坐实；大集成 ✔ 对位 ✔ 坐实 ✔ → P 池候选（找采购 / 工程部；长线）；闸 1：巴西 Teltex（teltex.com.br；做摄像头的，要用到 PoE，价格表已发）：自有品牌摄像头 = OEM 对象 ✔ 对位 ✔ 有互动 ✔；推 1 次 0 回 → 闸 2 查底数（cnpj.biz）；拉美非点名国，低优先",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +70,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-2216GP",
+   "why": "默认对位（大集成 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +85,56 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 大集成 25%（长线）：Teltex Tecnologia SA（São Paulo；CNPJ 73.442.360/0001-17；33 年；巴西前 5 安防集成商；葡 / 美办事处）坐实；大集成 ✔ 对位 ✔ 坐实 ✔ → P 池候选（找采购 / 工程部；长线）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "BR · 1 次检索：teltex.com.br/en/（CNPJ / 排名 / 海外办）+ /homepage-portugues/（地址 / 电话 / 邮箱）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://teltex.com.br/en/"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Teltex Tecnologia SA",
+  "reg_no": "73.442.360/0001-17（CNPJ）",
+  "status": "Ativa（官网 2026）",
+  "incorporated": "1993（33 年）",
+  "company_type": "S.A.",
+  "address": "Rua França Pinto 1089, Vila Mariana, São Paulo SP 04016-030",
+  "size_band": "大型（巴西前 5 安防集成）",
+  "officers": [
+   "（具名 KP 未取；comercial@ 官网公开）"
+  ],
+  "psc": "未取",
+  "source": "BR · 1 次检索：teltex.com.br/en/（CNPJ / 排名 / 海外办）+ /homepage-portugues/（地址 / 电话 / 邮箱）；2026-10-29",
+  "url": "https://teltex.com.br/en/",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "电子安防 / 技术基建集成（圣保罗）"
+ ],
+ "channels": {
+  "网站": "https://teltex.com.br",
+  "直邮": "thales.rollo@teltex.com.br（表内）"
+ },
+ "signals": [
+  "巴西 Teltex（teltex.com.br；做摄像头的，要用到 PoE，价格表已发）：自有品牌摄像头 = OEM 对象 ✔ 对位 ✔ 有互动 ✔；推 1 次 0 回 → 闸 2 查底数（cnpj.biz）；拉美非点名国，低优先",
+  "表内兴趣：做摄像头的，要用到POE\n价格表发他"
+ ],
+ "saga_fit": {
+  "p1": "STC-2216GP",
+  "tier": 25,
+  "why": "默认对位（大集成 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

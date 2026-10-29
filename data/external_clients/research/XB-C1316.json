@@ -1,0 +1,49 @@
+{
+ "code": "XB-C1316",
+ "name": "Roc-Com Networks （沙特本土品牌！）",
+ "round": "LT-T01",
+ "researched_at": "2026-10-29",
+ "alive": "域名 roc-com.com MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "summary": "Roc-Com Networks （沙特本土品牌！）（沙特）：沙特首个本土网络设备品牌；公司类型=沙特首个本土网络设备品牌；总部=Jeddah, KSA；客户优先级=🔴 竞争对手（但值得关注）",
+ "type_final": "沙特首个本土网络设备品牌",
+ "size": "",
+ "brands_seen": [],
+ "saga_line": "STC 贴牌 / 自有品牌线（30% 档）",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "沙特首个本土网络设备品牌；公司类型=沙特首个本土网络设备品牌；总部=Jeddah, KSA；客户优先级=🔴 竞争对手（但值得关注）",
+   "quote": "",
+   "url": "https://roc-com.com",
+   "date": "2026-09"
+  },
+  {
+   "kind": "长期群复核 LT-R07",
+   "claim": "桌面复核（来源库核对 + 研究卡）：沙特首个本土网络设备品牌；成立=2026年；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "contacts": {
+  "email": "info@roc-com.com",
+  "email_status": "活（来源库 9 月核对）",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "桌面复核（来源库核对 + 研究卡）：沙特首个本土网络设备品牌；成立=2026年；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "官网快照 + 加厚后进群发分组（Q-77）"
+ },
+ "draft_en": null,
+ "deep": false,
+ "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+}

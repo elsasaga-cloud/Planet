@@ -1,17 +1,48 @@
 {
  "code": "SC-1045",
- "name_official": "alfabase.co.th",
+ "name_official": "บริษัท อัลฟา เบส มาร์เก็ตติ้ง จำกัด — Alfa Base Marketing Co., Ltd.",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（官网 2026 版权）",
  "summary": "C 池三闸捞出（○ 正式）：○ 自有品牌 · OEM 30%：Alfa Base Marketing Co., Ltd.（曼谷 Lat Krabang；1995；进口 + 制造；自有品牌 ALFA BASE 布线 / 光纤 / MC / SFP 全线）部分坐实（DBD 未取）；自有品牌 ✔ 进口 ONV / Elink ✔ 对位 ✔ 坐实 ✔ → P 池候选（次优区，冷）",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "OEM（闸 2 判定 · 30% 档）",
+ "size": "小型 / 中型（20+ 年）",
+ "brands_seen": [
+  "ONV"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "บริษัท อัลฟา เบส มาร์เก็ตติ้ง จำกัด — Alfa Base Marketing Co., Ltd.（alfabase.co.th；**官网：582/5 ถนนลาดกระบัง, Lat Krabang, Bangkok 10520；1995（พ.ศ. 2538）注册；进口 + 制造 + 咨询；自有品牌 ALFA BASE（UTP / 光纤跳线 / 配线架 / ODF / MC / SFP / MPO / 机架 / 电源 / 蓄电池），面向",
+   "quote": "TH · 1 次检索：alfabase.co.th 首页 + /shop/ + /product-category/products/alfa-base/（法人泰文名 / 地址 / 1995 / 自有品牌型号）；DBD 注册号未取；2026-10-29",
+   "url": "https://alfabase.co.th/product-category/products/alfa-base/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "泰国 Alfabase（自有品牌 + 同时卖 ONV / Elink，早期 AI 45% A）→ 典型贴牌渠道商（OEM 30% 对象）；16 推 0 回 → 闸 2 查底数",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：○ 自有品牌 · OEM 30%：Alfa Base Marketing Co., Ltd.（曼谷 Lat Krabang；1995；进口 + 制造；自有品牌 ALFA BASE 布线 / 光纤 / MC / SFP 全线）部分坐实（DBD 未取）；自有品牌 ✔ 进口 ONV / Elink ✔ 对位 ✔ 坐实 ✔ → P 池候选（次优区，冷）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "info@alfabase.co.th",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 自有品牌 · OEM 30%：Alfa Base Marketing Co., Ltd.（曼谷 Lat Krabang；1995；进口 + 制造；自有品牌 ALFA BASE 布线 / 光纤 / MC / SFP 全线）部分坐实（DBD 未取）；自有品牌 ✔ 进口 ONV / Elink ✔ 对位 ✔ 坐实 ✔ → P 池候选（次优区，冷）；闸 1：泰国 Alfabase（自有品牌 + 同时卖 ONV / Elink，早期 AI 45% A）→ 典型贴牌渠道商（OEM 30% 对象）；16 推 0 回 → 闸 2 查底数",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +72,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +87,60 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 自有品牌 · OEM 30%：Alfa Base Marketing Co., Ltd.（曼谷 Lat Krabang；1995；进口 + 制造；自有品牌 ALFA BASE 布线 / 光纤 / MC / SFP 全线）部分坐实（DBD 未取）；自有品牌 ✔ 进口 ONV / Elink ✔ 对位 ✔ 坐实 ✔ → P 池候选（次优区，冷）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "TH · 1 次检索：alfabase.co.th 首页 + /shop/ + /product-category/products/alfa-base/（法人泰文名 / 地址 / 1995 / 自有品牌型号）；DBD 注册号未取；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://alfabase.co.th/product-category/products/alfa-base/"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "บริษัท อัลฟา เบส มาร์เก็ตติ้ง จำกัด — Alfa Base Marketing Co., Ltd.",
+  "reg_no": "未取（DBD 未查；法人泰文名坐实）",
+  "status": "营业中（官网 2026 版权）",
+  "incorporated": "1995",
+  "company_type": "Co., Ltd.",
+  "address": "582/5 Lat Krabang Rd, Lat Krabang, Bangkok 10520",
+  "size_band": "小型 / 中型（20+ 年）",
+  "officers": [
+   "（info@alfabase.co.th 表内总邮箱；产品经理 KP 待 LinkedIn）"
+  ],
+  "psc": "未取",
+  "source": "TH · 1 次检索：alfabase.co.th 首页 + /shop/ + /product-category/products/alfa-base/（法人泰文名 / 地址 / 1995 / 自有品牌型号）；DBD 注册号未取；2026-10-29",
+  "url": "https://alfabase.co.th/product-category/products/alfa-base/",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "自有品牌布线 / 光通信产品 + 进口分销（曼谷）"
+ ],
+ "channels": {
+  "网站": "https://alfabase.co.th",
+  "直邮": "info@alfabase.co.th（表内）"
+ },
+ "signals": [
+  "泰国 Alfabase（自有品牌 + 同时卖 ONV / Elink，早期 AI 45% A）→ 典型贴牌渠道商（OEM 30% 对象）；16 推 0 回 → 闸 2 查底数",
+  "表内兴趣：有公司的产品 也有ONV的\n也有Elink的"
+ ],
+ "risks": [
+  "**自有品牌布线商补网络线 → OEM 30%：一页纸一次（STC-028GP / STC-228GP 丝印 + STC-110XGE MC 对标其 MC 线 + MOQ + 付费样机）— 区域外常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳；低频一页纸**；次优区",
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

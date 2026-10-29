@@ -114,6 +114,9 @@ updated: 2026-10-29
 - **调研后定级**：B（原自动 B）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ DC 集成 25%：Al Rajhi Telecom（利雅得；Al Rajhi Building & Construction 子公司；2013；51–100 ～ 501–1,000 人；弱电 / DC / Cisco Premium；DC Division Manager Inam 真回索样）部分坐实（CR 未取）；具名真回 ✔ 样品意向 ✔ 对位 ✔ 体量 ✔ → P 池候选（次优区）；闸 1：沙特利雅得系统集成 / 数据中心业务 Al Rajhi Telecom：2024-10-22 DC Division Manager 回群发索样 STI-154GP（Simon 答 $36 非免费）→ 具名 KP + 对位 + 样品意向；…
 - 备注：T29-U13 ② F16 补录。中东不在区域重点（US/CA + 欧洲 + 土耳其）→ 不主动跟；留档。
 
+### 加厚挖掘（2026-10-29 · 邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓））
+
+- **Saga 对位结论**：P1 STI-154GP（25% 档）——集成商 25% 档；其开口问的就是 STI-154GP
 
 ## 在卖/在用品牌 → Saga 对位
 

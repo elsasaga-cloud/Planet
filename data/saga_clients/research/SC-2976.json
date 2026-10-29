@@ -1,17 +1,46 @@
 {
  "code": "SC-2976",
- "name_official": "blake-uk.com",
+ "name_official": "Blake UK Ltd",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中",
  "summary": "C 池三闸捞出（○ 正式）：○ 进口商 + 自有品牌 · 分销 20% / OEM 30%：Blake UK Ltd（Sheffield 1971；20–24 人；£2.2M；天线制造 + 进口商；MD Paul Blake）部分坐实；进口 ✔ 自有品牌 ✔ 主区 ✔ 对位 ✔ → P 池候选；Simon 曾判不行，可否决",
- "type": "",
- "size": "",
+ "type": "分销（闸 2 判定 · 20% 档）",
+ "size": "小型（20–24；£2.2M）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Blake UK Ltd（blake-uk.com；**PitchBook：1971 年创立，Sheffield，20 人，曾用名 Blake Aerials Limited，私募债融资；NPIF（2017）：24 人、营业额 £2.2M（2016 财年）、天线制造 + 进口商（RF / 电子 / 元件）；ZoomInfo：TV 信号 / CCTV / Wi-Fi 产品设计制造，11–50，<$5M**）；CH 号未取；表内：CCTV / networking / fiber",
+   "quote": "GB · 1 次检索：pitchbook（1971；20 人；Sheffield）+ npif.co.uk（24 人；£2.2M）+ zoominfo（11–50）；CH 号未取；2026-10-29",
+   "url": "https://pitchbook.com/profiles/company/179962-84",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "英国 Blake UK（blake-uk.com；CCTV / networking / fiber 销售平台 = 英国天线 / 安防大分销）：英国主区 + 分销主体 + 对位 ✔ → 闸 2 查底数，低优先；Simon 曾判不行 → 可按编号否决",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R01",
+   "claim": "Blake UK Ltd（Sheffield 1971；20–24 人；£2.2M；天线制造 + 进口商；MD Paul Blake）：进口 ✔ 自牌 ✔ 对位 ✔ 主区 ✔ → 留 B",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "sales@blake-uk.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 进口商 + 自有品牌 · 分销 20% / OEM 30%：Blake UK Ltd（Sheffield 1971；20–24 人；£2.2M；天线制造 + 进口商；MD Paul Blake）部分坐实；进口 ✔ 自有品牌 ✔ 主区 ✔ 对位 ✔ → P 池候选；Simon 曾判不行，可否决；闸 1：英国 Blake UK（blake-uk.com；CCTV / networking / fiber 销售平台 = 英国天线 / 安防大分销）：英国主区 + 分销主体 + 对位 ✔ → 闸 2 查底数，低优先；Simon 曾判不行 → 可…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +70,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +85,62 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 进口商 + 自有品牌 · 分销 20% / OEM 30%：Blake UK Ltd（Sheffield 1971；20–24 人；£2.2M；天线制造 + 进口商；MD Paul Blake）部分坐实；进口 ✔ 自有品牌 ✔ 主区 ✔ 对位 ✔ → P 池候选；Simon 曾判不行，可否决",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "GB · 1 次检索：pitchbook（1971；20 人；Sheffield）+ npif.co.uk（24 人；£2.2M）+ zoominfo（11–50）；CH 号未取；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://pitchbook.com/profiles/company/179962-84"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Blake UK Ltd",
+  "reg_no": "未取（CH 号 1 查未得；法人名 Blake UK Ltd）",
+  "status": "营业中",
+  "incorporated": "1971",
+  "company_type": "Ltd",
+  "address": "Sheffield, South Yorkshire",
+  "size_band": "小型（20–24；£2.2M）",
+  "officers": [
+   "Paul Blake — MD（NPIF 报道）",
+   "Cavin Carver — Operations Director（NPIF 报道）",
+   "（sales@blake-uk.com 表内）"
+  ],
+  "psc": "未取",
+  "source": "GB · 1 次检索：pitchbook（1971；20 人；Sheffield）+ npif.co.uk（24 人；£2.2M）+ zoominfo（11–50）；CH 号未取；2026-10-29",
+  "url": "https://pitchbook.com/profiles/company/179962-84",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "天线 / 信号分配 / CCTV / 网络产品制造 + 进口分销（谢菲尔德）"
+ ],
+ "channels": {
+  "网站": "https://blake-uk.com",
+  "直邮": "sales@blake-uk.com（表内）"
+ },
+ "signals": [
+  "英国 Blake UK（blake-uk.com；CCTV / networking / fiber 销售平台 = 英国天线 / 安防大分销）：英国主区 + 分销主体 + 对位 ✔ → 闸 2 查底数，低优先；Simon 曾判不行 → 可按编号否决",
+  "表内兴趣：CCTV networking Fiber\n销售平台；CCTV networking Fiber"
+ ],
+ "risks": [
+  "**制造 + 进口商（自有品牌 Blake）→ OEM 30% / 分销 20%：点名 Paul Blake 一页纸一次（STC-028GP / STC-228GP 安防 PoE + 丝印 MOQ + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；Simon 可否决",
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

@@ -1,0 +1,78 @@
+{
+ "code": "XC-M082",
+ "name": "ATYS Co Controll Engineering",
+ "round": "LT-T01",
+ "researched_at": "2026-10-29",
+ "alive": "域名 atysco.hu MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "summary": "ATYS Co Controll Engineering（匈牙利）：分销（Westermo Reseller）；Westermo",
+ "type_final": "分销（Westermo Reseller）",
+ "size": "",
+ "brands_seen": [
+  "Westermo"
+ ],
+ "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "分销（Westermo Reseller）",
+   "quote": "",
+   "url": "https://atysco.hu",
+   "date": "2026-09"
+  },
+  {
+   "kind": "来源库证据链接",
+   "claim": "来源库调研时引用",
+   "quote": "",
+   "url": "https://www.atysco.hu/en/contact",
+   "date": "2026-09"
+  },
+  {
+   "kind": "来源库证据链接",
+   "claim": "来源库调研时引用",
+   "quote": "",
+   "url": "http://www.atysco.hu/en/sales",
+   "date": "2026-09"
+  },
+  {
+   "kind": "来源库证据链接",
+   "claim": "来源库调研时引用",
+   "quote": "",
+   "url": "http://www.ipari-ethernet.hu/muszaki-segitseg/Telefonos-muszaki-segitsegnyujtas/contact-details",
+   "date": "2026-09"
+  },
+  {
+   "kind": "长期群复核 LT-R05",
+   "claim": "桌面复核（渠道名录 + 研究卡）：分销（Westermo Reseller）；信号：Westermo；在卖工业/商用交换机 = 行业内 ✔ 对位 ✔ 分销进口 ✔ → 留 B",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "contacts": {
+  "email": "sales@atysco.hu",
+  "email_status": "活（来源库 9 月核对）",
+  "kp": [
+   {
+    "name": "Ottó Jász",
+    "role": "ATYS-CO Kft. 官网 Impressum 列 Managing Director",
+    "source": "official-company-page·管理职务公开，采购职责未知"
+   }
+  ]
+ },
+ "touch_status": "S 箱 2026-10-01 去信 1 / 来信 0（24 Port PoE Managed Switch）",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "桌面复核（渠道名录 + 研究卡）：分销（Westermo Reseller）；信号：Westermo；在卖工业/商用交换机 = 行业内 ✔ 对位 ✔ 分销进口 ✔ → 留 B",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "官网快照 + 加厚后进群发分组（Q-77）"
+ },
+ "draft_en": null,
+ "deep": false,
+ "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+}

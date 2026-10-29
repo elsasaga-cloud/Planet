@@ -1,0 +1,78 @@
+{
+ "code": "XC-M090",
+ "name": "PRIMATION Systemtechnik GmbH & Co. KG",
+ "round": "LT-T01",
+ "researched_at": "2026-10-29",
+ "alive": "域名 primation.de MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "summary": "PRIMATION Systemtechnik GmbH & Co. KG（德国 · Grasbrunn (München)）：分销（HMS/N-Tron·Red Lion 渠道）；N-Tron + Red Lion + Anybus + Ewon + Ixxat",
+ "type_final": "分销（HMS/N-Tron·Red Lion 渠道）",
+ "size": "",
+ "brands_seen": [
+  "Red Lion"
+ ],
+ "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "分销（HMS/N-Tron·Red Lion 渠道）",
+   "quote": "",
+   "url": "https://primation.de",
+   "date": "2026-09"
+  },
+  {
+   "kind": "来源库证据链接",
+   "claim": "来源库调研时引用",
+   "quote": "",
+   "url": "https://www.primation.de/en/post/explosive-atmospheres-part-28-protection-of-equipment-and-transmission-systems-using-optical-radi",
+   "date": "2026-09"
+  },
+  {
+   "kind": "来源库证据链接",
+   "claim": "来源库调研时引用",
+   "quote": "",
+   "url": "https://www.primation.de/en/warum-wir",
+   "date": "2026-09"
+  },
+  {
+   "kind": "来源库证据链接",
+   "claim": "来源库调研时引用",
+   "quote": "",
+   "url": "https://www.primation.de/en/ethernet",
+   "date": "2026-09"
+  },
+  {
+   "kind": "长期群复核 LT-R05",
+   "claim": "桌面复核（渠道名录 + 研究卡）：分销（HMS/N-Tron·Red Lion 渠道）；信号：N-Tron + Red Lion + Anybus + Ewon + Ixxat；在卖工业/商用交换机 = 行业内 ✔ 对位 ✔ 分销进口 ✔ → 留 B",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "contacts": {
+  "email": "matthias.henning@primation.de",
+  "email_status": "活（来源库 9 月核对）",
+  "kp": [
+   {
+    "name": "Matthias Henning",
+    "role": "PRIMATION 官网技术文章署名的 Regional Sales Manager（区域销售经理）。",
+    "source": "official-company-article·姓名、职务、工作邮箱公开；品类职责/采购权未知，leads-only"
+   }
+  ]
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "桌面复核（渠道名录 + 研究卡）：分销（HMS/N-Tron·Red Lion 渠道）；信号：N-Tron + Red Lion + Anybus + Ewon + Ixxat；在卖工业/商用交换机 = 行业内 ✔ 对位 ✔ 分销进口 ✔ → 留 B",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "官网快照 + 加厚后进群发分组（Q-77）"
+ },
+ "draft_en": null,
+ "deep": false,
+ "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+}

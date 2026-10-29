@@ -1,17 +1,46 @@
 {
  "code": "SC-1804",
- "name_official": "indraheera.com",
+ "name_official": "Indra Heera Group / IHT — Indra Heera Technologies",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（官网 2025）",
  "summary": "C 池三闸捞出（★ 正式）：★ 印度 · 自有品牌（政府渠道）OEM 30%：Indra Heera Group / IHT（Arrah Bihar；Make-in-India 制造商 + RDI；NSDTS Trusted Source / GeM）部分坐实（CIN 未取）；自有品牌 ✔ 政府渠道 ✔ 对位 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon）",
- "type": "",
- "size": "",
+ "type": "OEM（闸 2 判定 · 30% 档）",
+ "size": "小型 → 中型（政府渠道；规模自述）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Indra Heera Group / IHT — Indra Heera Technologies（indraheera.com / indraheera.org；**注册办公室 Narayan Colony, Old Police Line, Arrah, Bhojpur, Bihar 802301；自述 Make-in-India 制造商 + RDI（电信 / 网络 / IoT）；OEM/ODM（X 账号自述）；NSDTS「Trusted Source」+ DPIIT ",
+   "quote": "IN · 1 次检索：indraheera.com/aboutus + indraheera.org/aboutus（地址 / 电话 / 自述资质）+ x.com/indraheeragroup（OEM/ODM 自述）；CIN 未取；2026-10-29",
+   "url": "https://www.indraheera.com/aboutus",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "印度 Indraheera（indraheera.com / .org；洪瑞）：中国品牌分销 ✔ 对位 ✔ Simon 点名印度；洪瑞现供 → Q-33 口径待 Simon（默认只推 SmartByte / Marvell 管理 + 工业线）；→ 闸 2 查底数（zaubacorp）；低优先",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：★ 印度 · 自有品牌（政府渠道）OEM 30%：Indra Heera Group / IHT（Arrah Bihar；Make-in-India 制造商 + RDI；NSDTS Trusted Source / GeM）部分坐实（CIN 未取）；自有品牌 ✔ 政府渠道 ✔ 对位 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "admin@indraheera.org",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 印度 · 自有品牌（政府渠道）OEM 30%：Indra Heera Group / IHT（Arrah Bihar；Make-in-India 制造商 + RDI；NSDTS Trusted Source / GeM）部分坐实（CIN 未取）；自有品牌 ✔ 政府渠道 ✔ 对位 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon）；闸 1：印度 Indraheera（indraheera.com / .org；洪瑞）：中国品牌分销 ✔ 对位 ✔ Simon 点名印度；洪瑞现供 → Q-33 口径待 Simon（默认只推 SmartByte / Marvell 管理 + 工业…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +70,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +85,60 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 印度 · 自有品牌（政府渠道）OEM 30%：Indra Heera Group / IHT（Arrah Bihar；Make-in-India 制造商 + RDI；NSDTS Trusted Source / GeM）部分坐实（CIN 未取）；自有品牌 ✔ 政府渠道 ✔ 对位 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "IN · 1 次检索：indraheera.com/aboutus + indraheera.org/aboutus（地址 / 电话 / 自述资质）+ x.com/indraheeragroup（OEM/ODM 自述）；CIN 未取；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.indraheera.com/aboutus"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Indra Heera Group / IHT — Indra Heera Technologies",
+  "reg_no": "未取（CIN 未查；集团自报）",
+  "status": "营业中（官网 2025）",
+  "incorporated": "未取",
+  "company_type": "Private Limited（待核）",
+  "address": "Narayan Colony, Old Police Line, Arrah, Bhojpur, Bihar 802301",
+  "size_band": "小型 → 中型（政府渠道；规模自述）",
+  "officers": [
+   "（具名 KP 未取；trade@ 公共）"
+  ],
+  "psc": "未取",
+  "source": "IN · 1 次检索：indraheera.com/aboutus + indraheera.org/aboutus（地址 / 电话 / 自述资质）+ x.com/indraheeragroup（OEM/ODM 自述）；CIN 未取；2026-10-29",
+  "url": "https://www.indraheera.com/aboutus",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "电信 / 网络自有品牌 + 政府采购（比哈尔 Arrah）"
+ ],
+ "channels": {
+  "网站": "https://indraheera.com",
+  "直邮": "admin@indraheera.org（表内）"
+ },
+ "signals": [
+  "印度 Indraheera（indraheera.com / .org；洪瑞）：中国品牌分销 ✔ 对位 ✔ Simon 点名印度；洪瑞现供 → Q-33 口径待 Simon（默认只推 SmartByte / Marvell 管理 + 工业线）；→ 闸 2 查底数（zaubacorp）；低优先",
+  "表内兴趣：洪瑞"
+ ],
+ "risks": [
+  "**印度 · 自有品牌（政府渠道）OEM 30%：一页纸一次（STC-228GP / STC-2224GP / STC-4424GCPM 中性包装 + 贴 IHT 牌 + MOQ 1；洪瑞现供 → Q-33 口径：默认只推 SmartByte / Marvell 管理 + 工业线；「Make in India」要求 = 买方自行处理，Saga 不承诺本地化）— 印度常规：英文稿、20 / 25 /",
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

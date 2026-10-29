@@ -1,17 +1,52 @@
 {
  "code": "SC-575",
- "name_official": "kst-bg.com",
+ "name_official": "КСТ ООД — KST Ltd",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（Активен）",
  "summary": "C 池三闸捞出（○ 正式）：○ 分销 20%：КСТ ООД / KST Ltd（София；ЕИК 831850563；1995；17–18 人；€3.26M；CATV / 布线分销 + Motorola 代表；管理人 Светлин Капитанов = 表内 skapitanov@）坐实；进口中国交换机 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔ 决策人直达 ✔ → P 池候选（13 推 0 回 → 点名换稿）",
- "type": "",
- "size": "",
+ "type": "分销（闸 2 判定 · 20% 档）",
+ "size": "小型（17–18；€3.26M）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "КСТ ООД — KST Ltd（kst-bg.com；**papagal / yox：ЕИК 831850563；1995 年登记（LinkedIn 称 1991/93 创立）；ООД；VAT BG831850563；бул. Сливница 357, 1336 София（Люлин）；17–18 人；2020 营业额 €3.26M；管理人 Светлин Димитров Капитанов（= 表内 skapitanov@）；CATV / SMATV / 通信布线",
+   "quote": "BG · 1 次检索：papagal.bg（ЕИК / 状态 / 营业额 / 管理人）+ yox.bg（18 人；地址）+ linkedin（定位 / 11–50）；2026-10-29",
+   "url": "https://papagal.bg/eik/831850563/93d8",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "保加利亚 KST（kst-bg.com；国内的交换机）：欧洲 + 已进口中国同类品牌 + 对位 ✔；13 推 0 回 → 闸 2 查底数，低优先",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R02",
+   "claim": "桌面复核（闸 2 证据充分，三问成立）：○ 分销 20%：КСТ ООД / KST Ltd（София；ЕИК 831850563；1995；17–18 人；€3.26M；CATV / 布线分销 + Motorola 代表；管理人 Светлин Капитанов = 表内 skapitanov@）坐实；进口中国交换机 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔ 决策人直达 ✔ → P 池候选（13 推 0 回 → 点名换稿）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "office@kst-bg.com",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "skapitanov@kst-bg.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 分销 20%：КСТ ООД / KST Ltd（София；ЕИК 831850563；1995；17–18 人；€3.26M；CATV / 布线分销 + Motorola 代表；管理人 Светлин Капитанов = 表内 skapitanov@）坐实；进口中国交换机 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔ 决策人直达 ✔ → P 池候选（13 推 0 回 → 点名换稿）；闸 1：保加利亚 KST（kst-bg.com；国内的交换机）：欧洲 + 已进口中国同类品牌 + 对位 ✔；13 推 0 回 → 闸 2 查底数，低优先",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +76,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +91,59 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 分销 20%：КСТ ООД / KST Ltd（София；ЕИК 831850563；1995；17–18 人；€3.26M；CATV / 布线分销 + Motorola 代表；管理人 Светлин Капитанов = 表内 skapitanov@）坐实；进口中国交换机 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔ 决策人直达 ✔ → P 池候选（13 推 0 回 → 点名换稿）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "BG · 1 次检索：papagal.bg（ЕИК / 状态 / 营业额 / 管理人）+ yox.bg（18 人；地址）+ linkedin（定位 / 11–50）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://papagal.bg/eik/831850563/93d8"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "КСТ ООД — KST Ltd",
+  "reg_no": "831850563（ЕИК）",
+  "status": "营业中（Активен）",
+  "incorporated": "1995",
+  "company_type": "ООД",
+  "address": "бул. Сливница 357, 1336 София",
+  "size_band": "小型（17–18；€3.26M）",
+  "officers": [
+   "Светлин Димитров Капитанов — 管理人（skapitanov@kst-bg.com 表内 = 决策人直达）"
+  ],
+  "psc": "未取",
+  "source": "BG · 1 次检索：papagal.bg（ЕИК / 状态 / 营业额 / 管理人）+ yox.bg（18 人；地址）+ linkedin（定位 / 11–50）；2026-10-29",
+  "url": "https://papagal.bg/eik/831850563/93d8",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "CATV / 通信布线 / 网络分销（索非亚）"
+ ],
+ "channels": {
+  "网站": "https://kst-bg.com",
+  "直邮": "office@kst-bg.com，skapitanov@kst-bg.com（表内）"
+ },
+ "signals": [
+  "保加利亚 KST（kst-bg.com；国内的交换机）：欧洲 + 已进口中国同类品牌 + 对位 ✔；13 推 0 回 → 闸 2 查底数，低优先",
+  "表内兴趣：交换机 国内的"
+ ],
+ "risks": [
+  "**CATV 分销补网络线 → 分销 20%：点名 Svetlin 一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-2224GP + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

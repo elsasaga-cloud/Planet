@@ -174,21 +174,6 @@ updated: 2026-10-29
 | ? | 204.2.28 | 发了2光4小壳相关信息 |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#107 |
 | ? | 52 | 4 8 16口工业PoE |  |  |  | Whatsapp_S跟进 2026.08.04.xlsx#107 |
 
-## 动态监控（自动 · 网站 / 社媒 / 代码库）
-
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
-- 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-204/`；本节随档案重渲染刷新，实时看日志。
-
-| 源 | 类型 | 状态 | 最近变化 | 摘要 |
-|---|---|---|---|---|
-| [home](https://daikool.pk/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2324 字符；首行：Daikool – Daikool |
-| [news_1](https://daikool.pk/projects/cassette-ac/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1011 字符；首行：Cassette Split – Daikool |
-| [news_2](https://daikool.pk/projects/dc-inverter-split/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 972 字符；首行：Wall Mounted Split – Daikool |
-| [feed_auto](https://daikool.pk/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Sun, 23 Apr 2023 00:00:00 Cost-free Anti Spy ware Windows 15 |
-
-- **人工定期看（登录墙，不自动抓）**：X/Twitter: https://twitter.com/；Facebook: https://www.facebook.com/daikoolpakistan/
-
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`nadeem.sd@aaagroup.pk`〔企业邮箱；来源：用户表原值〕

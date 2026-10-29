@@ -1,17 +1,48 @@
 {
  "code": "SC-1670",
- "name_official": "metsuki.com.vn",
+ "name_official": "Công Ty TNHH Phát Triển Công Nghệ Metsuki VietNam",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（目录 2024）",
  "summary": "C 池三闸捞出（○ 正式）：○ 越南 · CCTV 进口商 分销 20%：Công Ty TNHH Phát Triển Công Nghệ Metsuki VietNam（TP.HCM Q12；MST 0304967173；2007；51–100 人；电子电信进出口 + CCTV）坐实；进口商 ✔ 4-8-16-24 口需求 ✔ 对位 ✔ → P 池候选（21 推 0 回 → 换稿点名口数）",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "CCTV 进口商 分销（闸 2 判定 · 20% 档）",
+ "size": "中型（51–100 人）",
+ "brands_seen": [
+  "ONV"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Công Ty TNHH Phát Triển Công Nghệ Metsuki VietNam（metsuki.com.vn；**MST 0304967173；2007-05-02 成立；41/1F Tân Thới Nhất 1, KP 3, P. Tân Thới Nhất, Quận 12, TP.HCM；51–100 人；电子电信设备进出口 + CCTV（IP / analog）生产 / 销售 / 安装 + GPS 追踪 + 太阳能；0913 770 579；in",
+   "quote": "VN · 1 次检索：yellowpages.vn（MST / 成立 / 人数 / 业务 / 地址）；2026-10-29",
+   "url": "https://www.yellowpages.vn/lgs/1187674716/cong-ty-tnhh-phat-trien-cong-nghe-metsuki-vietnam.html",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "越南 Metsuki（metsuki.com.vn；CCTV 为主 + 商业 / 工业 PoE ONV，问到百千兆 4-8-16-24 口；21 推 0 回）：具体需求 ✔ 进口中国同类 ✔ 对位 ✔；→ 闸 2 查底数（masothue）；四主区外非点名国 → 低优先，换稿点名",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：○ 越南 · CCTV 进口商 分销 20%：Công Ty TNHH Phát Triển Công Nghệ Metsuki VietNam（TP.HCM Q12；MST 0304967173；2007；51–100 人；电子电信进出口 + CCTV）坐实；进口商 ✔ 4-8-16-24 口需求 ✔ 对位 ✔ → P 池候选（21 推 0 回 → 换稿点名口数）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "info@metsuki.com.vn",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 越南 · CCTV 进口商 分销 20%：Công Ty TNHH Phát Triển Công Nghệ Metsuki VietNam（TP.HCM Q12；MST 0304967173；2007；51–100 人；电子电信进出口 + CCTV）坐实；进口商 ✔ 4-8-16-24 口需求 ✔ 对位 ✔ → P 池候选（21 推 0 回 → 换稿点名口数）；闸 1：越南 Metsuki（metsuki.com.vn；CCTV 为主 + 商业 / 工业 PoE ONV，问到百千兆 4-8-16-24 口；21 推 0 回）：具体需求 ✔ 进口中国同类 ✔ 对位 ✔；→ 闸 2 查底数（masothue…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +72,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（CCTV 进口商 分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +87,59 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 越南 · CCTV 进口商 分销 20%：Công Ty TNHH Phát Triển Công Nghệ Metsuki VietNam（TP.HCM Q12；MST 0304967173；2007；51–100 人；电子电信进出口 + CCTV）坐实；进口商 ✔ 4-8-16-24 口需求 ✔ 对位 ✔ → P 池候选（21 推 0 回 → 换稿点名口数）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "VN · 1 次检索：yellowpages.vn（MST / 成立 / 人数 / 业务 / 地址）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.yellowpages.vn/lgs/1187674716/cong-ty-tnhh-phat-trien-cong-nghe-metsuki-vietnam.html"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Công Ty TNHH Phát Triển Công Nghệ Metsuki VietNam",
+  "reg_no": "0304967173（MST）",
+  "status": "营业中（目录 2024）",
+  "incorporated": "2007-05-02",
+  "company_type": "TNHH（有限）",
+  "address": "41/1F Tân Thới Nhất 1, Khu Phố 3, Phường Tân Thới Nhất, Quận 12, TP. Hồ Chí Minh",
+  "size_band": "中型（51–100 人）",
+  "officers": [
+   "（具名 KP 未取；0913 770 579 官网）"
+  ],
+  "psc": "未取",
+  "source": "VN · 1 次检索：yellowpages.vn（MST / 成立 / 人数 / 业务 / 地址）；2026-10-29",
+  "url": "https://www.yellowpages.vn/lgs/1187674716/cong-ty-tnhh-phat-trien-cong-nghe-metsuki-vietnam.html",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "CCTV / 电信设备进出口 + 安装（胡志明市）"
+ ],
+ "channels": {
+  "网站": "https://metsuki.com.vn",
+  "直邮": "info@metsuki.com.vn（表内）"
+ },
+ "signals": [
+  "越南 Metsuki（metsuki.com.vn；CCTV 为主 + 商业 / 工业 PoE ONV，问到百千兆 4-8-16-24 口；21 推 0 回）：具体需求 ✔ 进口中国同类 ✔ 对位 ✔；→ 闸 2 查底数（masothue）；四主区外非点名国 → 低优先，换稿点名",
+  "表内兴趣：主要是CCTV类产品\n有商业POE；工业级POE交换机  ONV的\n问到百千兆 4-8-16-24 port"
+ ],
+ "risks": [
+  "**越南 · CCTV 进口商 分销 20%：换稿点名 4 / 8 / 16 / 24 口（STC-028GP $28 / STC-228GP $33 / STC-2216GP / STC-2224GP $86 + MOQ 1 + 付费样机；ONV 不点名）— 其他区常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（CCTV 进口商 分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

@@ -1,17 +1,52 @@
 {
  "code": "SC-2078",
- "name_official": "zebeye.com",
+ "name_official": "Zebronics India Private Limited",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "Active（MCA 2026）",
  "summary": "C 池三闸捞出（★ 正式）：★ 印度 · 全国品牌商 OEM 30%（长线）：Zebronics India Pvt Ltd（Chennai；CIN U30000TN1997PTC038037；1997；实收 ₹3.28 Cr；31 GST 登记；MCA 邮箱 sandeep.doshi@）坐实；自有品牌 ✔ 已贴牌中国 PoE ✔ 大型 ✔ 对位 ✔ → P 池候选（换 zebronics.com 地址；洪瑞现供 → Q-33 口径待 Simon）",
- "type": "",
- "size": "",
+ "type": "全国品牌商 OEM（闸 2 判定 · 30% 档）",
+ "size": "大型（实收 ₹3.28 Cr；31 GST 登记；全国品牌）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Zebronics India Private Limited（zebronics.com；表内 zebeye.com 退信；**CIN U30000TN1997PTC038037（companyvakil 载 U30006TN1997PTC038037）；1997-04-23；ROC Chennai；授权 ₹4 Cr / 实收 ₹3.28 Cr；GSTIN 33AABCT0664P1Z4；31 个 GST 登记（25 活跃）= 全国网络；No.118 Poonamallee",
+   "quote": "IN · 1 次检索：thecompanycheck（CIN / 资本 / GST 网络）+ companyvakil（地址 / MCA 邮箱）+ kompass（制造 + 分销 / 监控线）；2026-10-29",
+   "url": "https://www.thecompanycheck.com/company/zebronics-india-private-limited/U30000TN1997PTC038037",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "印度 Zebeye → Zebronics（zebeye.com 退信；zebronics.com 正常 = 换址；洪瑞的商业 PoE / FS 贴 Zebronics 牌在卖）：自有品牌 = OEM 对象 ✔ Simon 点名印度 ✔ 对位 ✔；洪瑞现供 → Q-33 口径待 Simon；→ 闸 2 查底数（zaubacorp）+ 换 zebronics.com 地址",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：★ 印度 · 全国品牌商 OEM 30%（长线）：Zebronics India Pvt Ltd（Chennai；CIN U30000TN1997PTC038037；1997；实收 ₹3.28 Cr；31 GST 登记；MCA 邮箱 sandeep.doshi@）坐实；自有品牌 ✔ 已贴牌中国 PoE ✔ 大型 ✔ 对位 ✔ → P 池候选（换 zebronics.com 地址；洪瑞现供 → Q-…",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "support@zebronics.com",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "surveillance.sales@zebronics.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 印度 · 全国品牌商 OEM 30%（长线）：Zebronics India Pvt Ltd（Chennai；CIN U30000TN1997PTC038037；1997；实收 ₹3.28 Cr；31 GST 登记；MCA 邮箱 sandeep.doshi@）坐实；自有品牌 ✔ 已贴牌中国 PoE ✔ 大型 ✔ 对位 ✔ → P 池候选（换 zebronics.com 地址；洪瑞现供 → Q…；闸 1：印度 Zebeye → Zebronics（zebeye.com 退信；zebronics.com 正常 = 换址；洪瑞的商业 PoE / FS 贴 Zebronics 牌在卖）：自有品牌 = OEM 对象 ✔ Simon 点名印度 ✔ …",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +76,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（全国品牌商 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +91,59 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 印度 · 全国品牌商 OEM 30%（长线）：Zebronics India Pvt Ltd（Chennai；CIN U30000TN1997PTC038037；1997；实收 ₹3.28 Cr；31 GST 登记；MCA 邮箱 sandeep.doshi@）坐实；自有品牌 ✔ 已贴牌中国 PoE ✔ 大型 ✔ 对位 ✔ → P 池候选（换 zebronics.com 地址；洪瑞现供 → Q-33 口径待 Simon）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "IN · 1 次检索：thecompanycheck（CIN / 资本 / GST 网络）+ companyvakil（地址 / MCA 邮箱）+ kompass（制造 + 分销 / 监控线）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.thecompanycheck.com/company/zebronics-india-private-limited/U30000TN1997PTC038037"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Zebronics India Private Limited",
+  "reg_no": "U30000TN1997PTC038037（CIN）",
+  "status": "Active（MCA 2026）",
+  "incorporated": "1997-04-23",
+  "company_type": "Private Limited",
+  "address": "No.118, Poonamallee High Road, Vepery, Chennai, Tamil Nadu 600084",
+  "size_band": "大型（实收 ₹3.28 Cr；31 GST 登记；全国品牌）",
+  "officers": [
+   "Sandeep Doshi — MCA 登记邮箱 sandeep.doshi@zebronics.com（职务未取）"
+  ],
+  "psc": "未取",
+  "source": "IN · 1 次检索：thecompanycheck（CIN / 资本 / GST 网络）+ companyvakil（地址 / MCA 邮箱）+ kompass（制造 + 分销 / 监控线）；2026-10-29",
+  "url": "https://www.thecompanycheck.com/company/zebronics-india-private-limited/U30000TN1997PTC038037",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "消费电子 / 监控自有品牌（金奈）"
+ ],
+ "channels": {
+  "网站": "https://zebeye.com",
+  "直邮": "support@zebronics.com，surveillance.sales@zebronics.com（表内）"
+ },
+ "signals": [
+  "印度 Zebeye → Zebronics（zebeye.com 退信；zebronics.com 正常 = 换址；洪瑞的商业 PoE / FS 贴 Zebronics 牌在卖）：自有品牌 = OEM 对象 ✔ Simon 点名印度 ✔ 对位 ✔；洪瑞现供 → Q-33 口径待 Simon；→ 闸 2 查底数（zaubacorp）+ 换 zebronics.com 地址",
+  "表内兴趣：洪瑞的商业FS 周边产品\n有人卖他们的POE switch；洪瑞的商业PoE"
+ ],
+ "risks": [
+  "**印度 · 全国品牌商 OEM 30%（长线）：换 zebronics.com 地址点名采购 / 监控产品线一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-2224GP $86 中性包装 + 贴 Zebronics 牌 + MOQ 1；洪瑞现供 → Q-33 口径：默认只推 SmartByte / Marvell 管理线）— 印度常规：英文稿、20 / 25 "
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（全国品牌商 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

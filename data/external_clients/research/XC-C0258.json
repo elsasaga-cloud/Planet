@@ -1,0 +1,47 @@
+{
+ "code": "XC-C0258",
+ "name": "TVC",
+ "round": "LT-T01",
+ "researched_at": "2026-10-29",
+ "alive": "域名 tvc.mx MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "summary": "TVC（墨西哥）：安防电子批发分销商；业务=20分支墨西哥, Dahua/DSC/Ubiquiti/Vivotek/ZKTeco, CCTV/门禁/报警/网络；开发策略=A类(墨西哥安防分销), 20分支量大, 推荐Saga PoE+HRUI非管理",
+ "type_final": "安防电子批发分销商",
+ "size": "",
+ "brands_seen": [
+  "Dahua",
+  "Ubiquiti",
+  "Vivotek",
+  "HRUI"
+ ],
+ "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "安防电子批发分销商；业务=20分支墨西哥, Dahua/DSC/Ubiquiti/Vivotek/ZKTeco, CCTV/门禁/报警/网络；开发策略=A类(墨西哥安防分销), 20分支量大, 推荐Saga PoE+HRUI非管理",
+   "quote": "TVCenLínea (墨西哥)",
+   "url": "https://tvc.mx",
+   "date": "2026-09"
+  }
+ ],
+ "contacts": {
+  "email": "",
+  "email_status": "缺",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "Saga SC-3130（tvc.mx）随主档",
+ "grade_final": "B",
+ "grade_reason_final": "Q-76 LT-01 2026-10-29：与 Saga SC-3130 同一公司 → 随主档等级 B（复核随主档，不单列）",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "官网快照 + 加厚后进群发分组（Q-77）"
+ },
+ "draft_en": null,
+ "deep": false,
+ "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+}

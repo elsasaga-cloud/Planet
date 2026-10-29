@@ -1,17 +1,52 @@
 {
  "code": "SC-2106",
- "name_official": "Optimal Cable Services",
+ "name_official": "Optimal Cable Services Pty Ltd → AFL",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（AFL 旗下）",
  "summary": "C 池三闸捞出（△ 观察）：△ 观察档 · dayjob：Optimal Cable Services Pty Ltd → AFL（Tottenham VIC；光缆 / 连接产品制造；Peter Dicka 现 Manager Connectivity AFL Australia = 表内 KP 在职）部分坐实（ABN 未取）；2007 起长期成单 ✔ KP 在职 ✔；产品偏光传输 + AFL 集团体系 → 入池观察档，待 Q-70",
- "type": "",
- "size": "",
+ "type": "待定（闸 2 未分型；官网快照后定）",
+ "size": "小型（11–50；集团 AFL）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Optimal Cable Services Pty Ltd → AFL（optimal.com.au；**Crunchbase：澳大利亚光缆 / 连接产品制造商，11–50 人，已被 AFL（藤仓集团）收购；bluebusinessguide：100 Olympia St, Tottenham VIC；03 9316 8300；ZoomInfo：Peter Dicka = Manager, Connectivity AFL (Australia)（= 表内 peter_di",
+   "quote": "AU · 1 次检索：crunchbase（被 AFL 收购；11–50）+ bluebusinessguide（地址 / 电话）+ zoominfo（Peter Dicka 现职）；ABN 未取；2026-10-29",
+   "url": "https://www.crunchbase.com/organization/optimal-cable-services",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "澳大利亚 Optimal Cable Services（现属 AFL）：2007 年起合作、买过 MC / CWDM、「偶尔有反应」、23 次跟进 → 长期成单户 + 体量；产品偏光传输 → 闸 2 核现状并标 dayjob",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：△ 观察档 · dayjob：Optimal Cable Services Pty Ltd → AFL（Tottenham VIC；光缆 / 连接产品制造；Peter Dicka 现 Manager Connectivity AFL Australia = 表内 KP 在职）部分坐实（ABN 未取）；2007 起长期成单 ✔ KP 在职 ✔；产品偏光传输 + AFL 集团体系 → 入池观察档，待 …；备注：2007 起长期成单（光缆 / 连接）→ 成单户留 B；本职线并行",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "marketing@aflglobal.com",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "peter_dicka@optimal.com.au",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · dayjob：Optimal Cable Services Pty Ltd → AFL（Tottenham VIC；光缆 / 连接产品制造；Peter Dicka 现 Manager Connectivity AFL Australia = 表内 KP 在职）部分坐实（ABN 未取）；2007 起长期成单 ✔ KP 在职 ✔；产品偏光传输 + AFL 集团体系 → 入池观察档，待…；闸 1：澳大利亚 Optimal Cable Services（现属 AFL）：2007 年起合作、买过 MC / CWDM、「偶尔有反应」、23 次跟进 → 长期成单户 + 体量；产品偏光传输 → 闸 2 核现状并标 dayjob",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +76,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-2216GP",
+   "why": "默认对位（类型待定 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +91,59 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "△ 观察档 · dayjob：Optimal Cable Services Pty Ltd → AFL（Tottenham VIC；光缆 / 连接产品制造；Peter Dicka 现 Manager Connectivity AFL Australia = 表内 KP 在职）部分坐实（ABN 未取）；2007 起长期成单 ✔ KP 在职 ✔；产品偏光传输 + AFL 集团体系 → 入池观察档，待 Q-70",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "AU · 1 次检索：crunchbase（被 AFL 收购；11–50）+ bluebusinessguide（地址 / 电话）+ zoominfo（Peter Dicka 现职）；ABN 未取；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.crunchbase.com/organization/optimal-cable-services"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Optimal Cable Services Pty Ltd → AFL",
+  "reg_no": "未取（ABN 未查）",
+  "status": "营业中（AFL 旗下）",
+  "incorporated": "未取",
+  "company_type": "Pty Ltd（AFL 子公司）",
+  "address": "100 Olympia St, Tottenham VIC 3012",
+  "size_band": "小型（11–50；集团 AFL）",
+  "officers": [
+   "Peter Dicka — Manager, Connectivity AFL (Australia)（peter_dicka@optimal.com.au 表内 = 老 KP 仍在职）"
+  ],
+  "psc": "未取",
+  "source": "AU · 1 次检索：crunchbase（被 AFL 收购；11–50）+ bluebusinessguide（地址 / 电话）+ zoominfo（Peter Dicka 现职）；ABN 未取；2026-10-29",
+  "url": "https://www.crunchbase.com/organization/optimal-cable-services",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "光缆 / 连接产品制造（墨尔本）"
+ ],
+ "channels": {
+  "网站": "https://optimal.com.au",
+  "直邮": "marketing@aflglobal.com，peter_dicka@optimal.com.au（表内）"
+ },
+ "signals": [
+  "澳大利亚 Optimal Cable Services（现属 AFL）：2007 年起合作、买过 MC / CWDM、「偶尔有反应」、23 次跟进 → 长期成单户 + 体量；产品偏光传输 → 闸 2 核现状并标 dayjob",
+  "表内兴趣：MC 光比较多\n07年就开始合作的客户；接线 Network 项目商；公司07年就开始合作的客户\n买过MC, CWDM 偶尔有反应"
+ ],
+ "risks": [
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-2216GP",
+  "tier": 25,
+  "why": "默认对位（类型待定 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

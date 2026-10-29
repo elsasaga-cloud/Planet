@@ -1,17 +1,52 @@
 {
  "code": "SC-1248",
- "name_official": "avensiauae.com",
+ "name_official": "Avensia Group — Avensia Tech Solution",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（官网 2021 / 目录）",
  "summary": "C 池三闸捞出（○ 正式）：○ 真意向 · 贸易 / 集成 25% + 预付 100%：Avensia Group（Dubai Al Qusais；P.O. Box 87334；综合贸易 + IT）部分坐实（执照未取）；想换供应商 ✔ WA ✔ 对位 ✔ → P 池候选",
- "type": "",
- "size": "",
+ "type": "贸易 / 集成（闸 2 判定 · 25% 档）",
+ "size": "小型（综合贸易）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Avensia Group — Avensia Tech Solution（avensiauae.com；**Al Qusais, Damascus Street, Dubai；P.O. Box 87334；TEL +9714-2636886 / FAX 2636883；General Trading +971 509962388；IT & Technical +971 526456607；info@avensiauae.com；综合贸易 + IT + 技术服务 + 设施管理",
+   "quote": "AE · 1 次检索：avensiauae.com/it-products/network-switches-avensia-group-uae/ + wifi 页（地址 / 电话 / 业务）+ topfirms（Al Qusais）；执照未取；2026-10-29",
+   "url": "https://www.avensiauae.com/it-products/network-switches-avensia-group-uae/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "阿联酋 Avensia UAE（avensiauae.com；表内「想换供应商」；WA 已加未回；avensiasuae.com 域 nxdomain）：真意向 ✔ 对位 ✔ WA 路径 ✔；推 1 次 0 回 → 闸 2 查底数（D&B）；四主区外，低优先",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：○ 真意向 · 贸易 / 集成 25% + 预付 100%：Avensia Group（Dubai Al Qusais；P.O. Box 87334；综合贸易 + IT）部分坐实（执照未取）；想换供应商 ✔ WA ✔ 对位 ✔ → P 池候选",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "contact@avensiasuae.com",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "info@avensiasuae.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 真意向 · 贸易 / 集成 25% + 预付 100%：Avensia Group（Dubai Al Qusais；P.O. Box 87334；综合贸易 + IT）部分坐实（执照未取）；想换供应商 ✔ WA ✔ 对位 ✔ → P 池候选；闸 1：阿联酋 Avensia UAE（avensiauae.com；表内「想换供应商」；WA 已加未回；avensiasuae.com 域 nxdomain）：真意向 ✔ 对位 ✔ WA 路径 ✔；推 1 次 0 回 → 闸 2 查底数（D&B…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +76,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-2216GP",
+   "why": "默认对位（贸易 / 集成 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +91,59 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 真意向 · 贸易 / 集成 25% + 预付 100%：Avensia Group（Dubai Al Qusais；P.O. Box 87334；综合贸易 + IT）部分坐实（执照未取）；想换供应商 ✔ WA ✔ 对位 ✔ → P 池候选",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "AE · 1 次检索：avensiauae.com/it-products/network-switches-avensia-group-uae/ + wifi 页（地址 / 电话 / 业务）+ topfirms（Al Qusais）；执照未取；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.avensiauae.com/it-products/network-switches-avensia-group-uae/"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Avensia Group — Avensia Tech Solution",
+  "reg_no": "未取（执照未查）",
+  "status": "营业中（官网 2021 / 目录）",
+  "incorporated": "未取",
+  "company_type": "LLC（待核）",
+  "address": "Al Qusais, Damascus Street, Dubai, P.O. Box 87334",
+  "size_band": "小型（综合贸易）",
+  "officers": [
+   "（具名 KP 未取；WA 路径在表）"
+  ],
+  "psc": "未取",
+  "source": "AE · 1 次检索：avensiauae.com/it-products/network-switches-avensia-group-uae/ + wifi 页（地址 / 电话 / 业务）+ topfirms（Al Qusais）；执照未取；2026-10-29",
+  "url": "https://www.avensiauae.com/it-products/network-switches-avensia-group-uae/",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "综合贸易 / IT（迪拜）"
+ ],
+ "channels": {
+  "网站": "https://avensiauae.com",
+  "直邮": "contact@avensiasuae.com，info@avensiasuae.com（表内）"
+ },
+ "signals": [
+  "阿联酋 Avensia UAE（avensiauae.com；表内「想换供应商」；WA 已加未回；avensiasuae.com 域 nxdomain）：真意向 ✔ 对位 ✔ WA 路径 ✔；推 1 次 0 回 → 闸 2 查底数（D&B）；四主区外，低优先",
+  "表内兴趣：想换供应商"
+ ],
+ "risks": [
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-2216GP",
+  "tier": 25,
+  "why": "默认对位（贸易 / 集成 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

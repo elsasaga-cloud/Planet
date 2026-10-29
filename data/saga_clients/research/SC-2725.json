@@ -1,17 +1,48 @@
 {
  "code": "SC-2725",
- "name_official": "todotelecom.com",
+ "name_official": "TODO TELECOM, S.L.",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（BORME 2023）",
  "summary": "C 池三闸捞出（△ 观察）：△ 观察档 · 分销 20%：TODO TELECOM, S.L.（Dénia；CIF B53673364；RM Alicante H A-71082；资本 €26.8k；代理人 Francisco Manuel Valero Tello）坐实；多牌直进 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔，网店小型 → 入池观察档；Simon 曾判不行，可否决",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "分销（闸 2 判定 · 20% 档）",
+ "size": "小型（资本 €26.8k）",
+ "brands_seen": [
+  "Cisco"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "TODO TELECOM, S.L.（todotelecom.com；**datoscif + 官网 aviso legal：CIF B53673364；Registro Mercantil de Alicante T 2552 F 86 H A-71082；资本 €26,800；Pol. Ind. Juyarco 40-A, Partida Madrigueres Sud, 03700 Dénia (Alicante)；96 578 44 63；BORME 2023-08 ",
+   "quote": "ES · 1 次检索：datoscif.es（CIF / 资本 / BORME）+ todotelecom.com/content/3-condiciones-genrales-de-uso（登记）+ /content/2-aviso-legal-politica-privacidad（地址 / 电话）；2026-10-29",
+   "url": "https://www.datoscif.es/empresa/todo-telecom-sl",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "西班牙 Todotelecom（商业 PoE 为主、好多种外壳、销售平台；网站有 WA 按钮）：欧洲 + 多品牌进口经验 + 对位 ✔ → 闸 2 查底数，低优先；Simon 曾判不行 → 可按编号否决",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R01",
+   "claim": "TODO TELECOM, S.L.（Dénia；CIF B53673364；多牌直进网店）：进口经验 ✔ 对位 ✔ 欧洲 ✔ → 留 B，预付",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "webinfo@todotelecom.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · 分销 20%：TODO TELECOM, S.L.（Dénia；CIF B53673364；RM Alicante H A-71082；资本 €26.8k；代理人 Francisco Manuel Valero Tello）坐实；多牌直进 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔，网店小型 → 入池观察档；Simon 曾判不行，可否决；闸 1：西班牙 Todotelecom（商业 PoE 为主、好多种外壳、销售平台；网站有 WA 按钮）：欧洲 + 多品牌进口经验 + 对位 ✔ → 闸 2 查底数，低优先；Simon 曾判不行 → 可按编号否决",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +72,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +87,60 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "△ 观察档 · 分销 20%：TODO TELECOM, S.L.（Dénia；CIF B53673364；RM Alicante H A-71082；资本 €26.8k；代理人 Francisco Manuel Valero Tello）坐实；多牌直进 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔，网店小型 → 入池观察档；Simon 曾判不行，可否决",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "ES · 1 次检索：datoscif.es（CIF / 资本 / BORME）+ todotelecom.com/content/3-condiciones-genrales-de-uso（登记）+ /content/2-aviso-legal-politica-privacidad（地址 / 电话）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.datoscif.es/empresa/todo-telecom-sl"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "TODO TELECOM, S.L.",
+  "reg_no": "B53673364（CIF；RM Alicante H A-71082）",
+  "status": "营业中（BORME 2023）",
+  "incorporated": "未取（2014 前）",
+  "company_type": "S.L.",
+  "address": "Pol. Ind. Juyarco 40-A, 03700 Dénia (Alicante)",
+  "size_band": "小型（资本 €26.8k）",
+  "officers": [
+   "Francisco Manuel Valero Tello — Apoderado（BORME 2023-08-31）",
+   "（webinfo@todotelecom.com 表内总邮箱）"
+  ],
+  "psc": "未取",
+  "source": "ES · 1 次检索：datoscif.es（CIF / 资本 / BORME）+ todotelecom.com/content/3-condiciones-genrales-de-uso（登记）+ /content/2-aviso-legal-politica-privacidad（地址 / 电话）；2026-10-29",
+  "url": "https://www.datoscif.es/empresa/todo-telecom-sl",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "电信 / 网络设备网店 + 批发（阿利坎特）"
+ ],
+ "channels": {
+  "网站": "https://todotelecom.com",
+  "直邮": "webinfo@todotelecom.com（表内）"
+ },
+ "signals": [
+  "西班牙 Todotelecom（商业 PoE 为主、好多种外壳、销售平台；网站有 WA 按钮）：欧洲 + 多品牌进口经验 + 对位 ✔ → 闸 2 查底数，低优先；Simon 曾判不行 → 可按编号否决",
+  "表内兴趣：商业POE为主 好多种外壳\n销售平台；商业POE为主 好多种外壳"
+ ],
+ "risks": [
+  "**多牌网店 → 分销 20%：一页纸一次（STC-028GP / STC-228GP / STC-2216GP + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；Simon 可否决"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

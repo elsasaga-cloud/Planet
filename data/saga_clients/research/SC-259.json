@@ -1,17 +1,39 @@
 {
  "code": "SC-259",
- "name_official": "Sami CEUIK",
+ "name_official": "Sami Çeuik",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "无域名（仅表内信息）",
  "summary": "C 池三闸捞出（★ 正式）：★ 成单户 · 回访（集成商 25%）：Sami Çeuik 展会买 1 台样机 $100 + 问 500 台 2 光 8 PoE 网管价 + 政府项目；无公司名 → 0 查；§5 有关系户 ≥2 条（成单 + 主区 + 对位）→ P 池候选；**请 Simon / Evelyn 补公司名**（微信）",
- "type": "",
- "size": "",
+ "type": "集成（闸 2 判定 · 25% 档）",
+ "size": "未取",
  "brands_seen": [],
- "evidence": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Sami Çeuik（ISAF 展；**无公司名 / 无邮箱 → 0 查**）— 表内：用光网视交换机、政府项目、问 500 台 2 光 8 PoE 网管价、展会最后一天买 1 台 2 光 10 电 PoE 样机 $100、Evelyn 加了微信",
+   "quote": "0 查（无公司名 / 无域名）；2026-10-29",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "土耳其 Sami Çeuik（ISAF）：用光网视交换机、政府项目、问 500 台 2 光 8 PoE 网管价、最后一天买了 1 台 2 光 10 电 PoE 样机 $100、Evelyn 加了微信 → 土耳其主区 + 成单 + 对位 ✔；表内无邮箱 → 闸 2 先查公司",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R02",
+   "claim": "桌面复核（闸 2 证据充分，三问成立）：★ 成单户 · 回访（集成商 25%）：Sami Çeuik 展会买 1 台样机 $100 + 问 500 台 2 光 8 PoE 网管价 + 政府项目；无公司名 → 0 查；§5 有关系户 ≥2 条（成单 + 主区 + 对位）→ P 池候选；**请 Simon / Evelyn 补公司名**（微信）；备注：成单户（展会买样机 + 问 500 台 + 政府项目），公司名仍缺 → 留 B；Simon / Evelyn 微信补公司名后再坐实",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
  "kp": [],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 成单户 · 回访（集成商 25%）：Sami Çeuik 展会买 1 台样机 $100 + 问 500 台 2 光 8 PoE 网管价 + 政府项目；无公司名 → 0 查；§5 有关系户 ≥2 条（成单 + 主区 + 对位）→ P 池候选；**请 Simon / Evelyn 补公司名**（微信）；闸 1：土耳其 Sami Çeuik（ISAF）：用光网视交换机、政府项目、问 500 台 2 光 8 PoE 网管价、最后一天买了 1 台 2 光 10 电 PoE 样机 $100、Evelyn 加了微信 → 土耳其主区 + 成单 + 对位 ✔…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/company_facts/business_lines/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +63,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-2216GP",
+   "why": "默认对位（集成 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +78,55 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 成单户 · 回访（集成商 25%）：Sami Çeuik 展会买 1 台样机 $100 + 问 500 台 2 光 8 PoE 网管价 + 政府项目；无公司名 → 0 查；§5 有关系户 ≥2 条（成单 + 主区 + 对位）→ P 池候选；**请 Simon / Evelyn 补公司名**（微信）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "0 查（无公司名 / 无域名）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": ""
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Sami Çeuik",
+  "reg_no": "0 查",
+  "status": "互动中（展会成样品单）",
+  "incorporated": "—",
+  "company_type": "未取",
+  "address": "未取",
+  "size_band": "未取",
+  "officers": [
+   "Sami Çeuik — 本人（微信 via Evelyn；无邮箱）= 收件人"
+  ],
+  "psc": "未取",
+  "source": "0 查（无公司名 / 无域名）；2026-10-29",
+  "url": "",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "安防 / 政府项目集成（土耳其，推定）"
+ ],
+ "signals": [
+  "土耳其 Sami Çeuik（ISAF）：用光网视交换机、政府项目、问 500 台 2 光 8 PoE 网管价、最后一天买了 1 台 2 光 10 电 PoE 样机 $100、Evelyn 加了微信 → 土耳其主区 + 成单 + 对位 ✔；表内无邮箱 → 闸 2 先查公司",
+  "表内兴趣：Evelyn加了Wechat,用光网视的交换机， 对价格和质量都满意，客户主要是政府项目， 需要质量好的，推了2光8带POE网管， 500台价格，报了80-90美金。想最后一天来买样品，认识众通源老板， 最后一天买了一台2光10电带POE 100美金。买了很多同行的样品， 要测试样品。会来深圳参观安博会。"
+ ],
+ "risks": [
+  "**样品已成单 + 500 台口型 → 回访（集成商 25%）：微信一页纸（2 光 8 PoE 网管 STC-228GP $33 阶梯 100 / 500 台 + 付费样机已有）；先向 Simon / Evelyn 要公司名再补登记**— 土耳其常规：英文稿（可附土语备注）、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳 / DAP（买方清关）；周四 1"
+ ],
+ "saga_fit": {
+  "p1": "STC-2216GP",
+  "tier": 25,
+  "why": "默认对位（集成 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

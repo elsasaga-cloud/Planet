@@ -1,0 +1,44 @@
+{
+ "code": "XC-C0174",
+ "name": "Baltic Networks（美国）",
+ "round": "LT-T01",
+ "researched_at": "2026-10-29",
+ "alive": "域名 balticnetworks.com MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "summary": "Baltic Networks（美国）（美国）：MikroTik ISP设备；开发策略=美国MikroTik ISP分销；置信度=★★★★☆",
+ "type_final": "MikroTik ISP设备",
+ "size": "",
+ "brands_seen": [
+  "MikroTik"
+ ],
+ "saga_line": "STC 汇聚 + STI 工业（25% 档）",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "MikroTik ISP设备；开发策略=美国MikroTik ISP分销；置信度=★★★★☆",
+   "quote": "",
+   "url": "https://balticnetworks.com",
+   "date": "2026-09"
+  }
+ ],
+ "contacts": {
+  "email": "",
+  "email_status": "缺",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "Saga SC-562（balticnetworks.com）随主档",
+ "grade_final": "B",
+ "grade_reason_final": "Q-76 LT-01 2026-10-29：与 Saga SC-562 同一公司 → 随主档等级 B（复核随主档，不单列）",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "官网快照 + 加厚后进群发分组（Q-77）"
+ },
+ "draft_en": null,
+ "deep": false,
+ "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+}

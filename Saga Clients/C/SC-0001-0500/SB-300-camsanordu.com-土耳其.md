@@ -132,21 +132,6 @@ updated: 2026-10-29
 
 （无跟进表记录）
 
-## 动态监控（自动 · 网站 / 社媒 / 代码库）
-
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
-- **最近变化摘要**：2026-10-29 sitemap：新增 192 条：2025-07-29T12:15:46 camsan-tmmk.pdf；2025-07-29T12:15:46 %C3%87amsan%20Kamunun%20B
-- 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-300/`；本节随档案重渲染刷新，实时看日志。
-
-| 源 | 类型 | 状态 | 最近变化 | 摘要 |
-|---|---|---|---|---|
-| [home](https://camsanordu.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4680 字符；首行：Çamsan |
-| [sitemap](https://camsanordu.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-29T08:41:09Z | 272 个 URL；最新 lastmod 2026-03-25T14:28:03 |
-| [news_1](https://camsanordu.com/news-from-us) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2351 字符；首行：Çamsan Ordu ile Kaliteli MDF ve Uzun Ömürlü Parke |
-| [news_2](https://camsanordu.com/blog) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2270 字符；首行：Çamsan Ordu ile Kaliteli MDF ve Uzun Ömürlü Parke |
-
-- **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/；X/Twitter: https://www.x.com/；Instagram: https://www.instagram.com/camsanordu/；LinkedIn: https://www.linkedin.com/
-
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`sclcule.o@camsanordu.com`〔企业邮箱；来源：用户表原值〕

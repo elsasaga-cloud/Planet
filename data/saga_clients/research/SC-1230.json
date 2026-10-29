@@ -1,17 +1,60 @@
 {
  "code": "SC-1230",
- "name_official": "wantec.com",
+ "name_official": "wantec, inc",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（官网 + 经销在售）",
  "summary": "C 池三闸捞出（★ 正式）：★ 品牌商 · OEM 30%：wantec, inc（德国 1999 创立 CEO Stefan Rupp；美国分销 Simpsonville SC；自有品牌 Wantec 3405 工业 4+1 SFP = 贴牌，经销在售 €158）部分坐实；对位 ✔ 主区 ✔（DE+US）品牌 ✔ → P 池候选",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "OEM（闸 2 判定 · 30% 档）",
+ "size": "小型 / 中型（LinkedIn 51–200 偏高）",
+ "brands_seen": [
+  "ONV"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "wantec, inc（wantec.com；**官网 about：1999 年德国创立、CEO Stefan Rupp、7,000 sqft 研发生产；美国分销运营 524 S Main Street, Simpsonville, SC 29681（2019 新 5,000 sqft）；门禁对讲 / 2wIP 网络适配器 / wantecWire 跳线；自有品牌工业交换机 Wantec 3405（4 口 + 1 SFP DIN 导轨，EAN 4250367734056，Li",
+   "quote": "US · 1 次检索：wantec.com/about.html（Founded in Germany in 1999 by CEO Stefan Rupp；Simpsonville, SC）+ linkedin（wantec, inc；524 S Main Street Simpsonville SC 29681；Founded 1999）+ industry-electronics.com（Wantec 3405 Industrial Fiber Ethernet Switch 4 port + 1 SFP；EAN 4250367734056）；2026-10-29",
+   "url": "http://www.wantec.com/about.html",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "美国 Wantec（周边产品 + 宇航的工业 FS）：美国主区 + 已进口中国同类品牌 + 对位 ✔；18 次跟进无回复（冷）→ 闸 2 查底数",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R02",
+   "claim": "桌面复核（闸 2 证据充分，三问成立）：★ 品牌商 · OEM 30%：wantec, inc（德国 1999 创立 CEO Stefan Rupp；美国分销 Simpsonville SC；自有品牌 Wantec 3405 工业 4+1 SFP = 贴牌，经销在售 €158）部分坐实；对位 ✔ 主区 ✔（DE+US）品牌 ✔ → P 池候选",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "service@wantec.com",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "andre.costa@wantec.com",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "stefan.rupp@wantec.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 品牌商 · OEM 30%：wantec, inc（德国 1999 创立 CEO Stefan Rupp；美国分销 Simpsonville SC；自有品牌 Wantec 3405 工业 4+1 SFP = 贴牌，经销在售 €158）部分坐实；对位 ✔ 主区 ✔（DE+US）品牌 ✔ → P 池候选；闸 1：美国 Wantec（周边产品 + 宇航的工业 FS）：美国主区 + 已进口中国同类品牌 + 对位 ✔；18 次跟进无回复（冷）→ 闸 2 查底数",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +84,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +99,61 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 品牌商 · OEM 30%：wantec, inc（德国 1999 创立 CEO Stefan Rupp；美国分销 Simpsonville SC；自有品牌 Wantec 3405 工业 4+1 SFP = 贴牌，经销在售 €158）部分坐实；对位 ✔ 主区 ✔（DE+US）品牌 ✔ → P 池候选",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "US · 1 次检索：wantec.com/about.html（Founded in Germany in 1999 by CEO Stefan Rupp；Simpsonville, SC）+ linkedin（wantec, inc；524 S Main Street Simpsonville SC 29681；Founded 1999）+ industry-electronics.com（Wantec 3405 Industrial Fiber Ethernet Switch 4 port + 1 SFP；EAN 4250367734056）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "http://www.wantec.com/about.html"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "wantec, inc",
+  "reg_no": "未取（SC SoS / 德国 HRB 未查）",
+  "status": "营业中（官网 + 经销在售）",
+  "incorporated": "1999（德国）",
+  "company_type": "Inc.（美国分销）+ 德国母体",
+  "address": "524 S Main Street, Simpsonville, SC 29681, US（德国研发生产地未取）",
+  "size_band": "小型 / 中型（LinkedIn 51–200 偏高）",
+  "officers": [
+   "Stefan Rupp — CEO / 创始人（官网 about；无公开邮箱）",
+   "Andre Costa — 表内联系人（andre.costa@wantec.com）= 收件人",
+   "（service@wantec.com 表内）"
+  ],
+  "psc": "未取",
+  "source": "US · 1 次检索：wantec.com/about.html（Founded in Germany in 1999 by CEO Stefan Rupp；Simpsonville, SC）+ linkedin（wantec, inc；524 S Main Street Simpsonville SC 29681；Founded 1999）+ industry-electronics.com（Wantec 3405 Industrial Fiber Ethernet Switch 4 port + 1 SFP；EAN 4250367734056）；2026-10-29",
+  "url": "http://www.wantec.com/about.html",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "门禁对讲 / 网络配件制造 + 自有品牌工业交换机"
+ ],
+ "channels": {
+  "网站": "https://wantec.com",
+  "直邮": "service@wantec.com，andre.costa@wantec.com，stefan.rupp@wantec.com（表内）"
+ },
+ "signals": [
+  "美国 Wantec（周边产品 + 宇航的工业 FS）：美国主区 + 已进口中国同类品牌 + 对位 ✔；18 次跟进无回复（冷）→ 闸 2 查底数",
+  "表内兴趣：一些周边产品；一些周边产品\n宇航的工业FS"
+ ],
+ "risks": [
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

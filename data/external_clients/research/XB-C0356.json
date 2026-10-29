@@ -1,0 +1,51 @@
+{
+ "code": "XB-C0356",
+ "name": "Hyvision Technology LLC",
+ "round": "LT-T01",
+ "researched_at": "2026-10-29",
+ "alive": "域名 hyvisionuae.com MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "summary": "Hyvision Technology LLC（阿联酋）：2011年起Hikvision战略级全国分销，最大库存，独立RMA；地址=Business Bay, Dubai；业务=2011年起Hikvision战略级全国分销，最大库存，独立RMA；开发策略=阿联酋#1 Hikvision分销；公司全称=Hyvision Technology LLC (HTL)；公司类型=Hikvision战略级全国分销商；总部=Office #1404, Block B, Empire Heights Tower, Fountain Street；客户优先级=🟢 A类（Hikvision UAE战略级分销商，最大渠道）",
+ "type_final": "2011年起Hikvision战略级全国分销，最大库存，独立RMA",
+ "size": "",
+ "brands_seen": [
+  "Hikvision"
+ ],
+ "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "2011年起Hikvision战略级全国分销，最大库存，独立RMA；地址=Business Bay, Dubai；业务=2011年起Hikvision战略级全国分销，最大库存，独立RMA；开发策略=阿联酋#1 Hikvision分销；公司全称=Hyvision Technology LLC (HTL)；公司类型=Hikvision战略级全国分销商；总部=Office #1404, Block B, Empire Heights Tower, Fountain Street；客户优先级=🟢 A类（Hikvision UAE战略级分销商，最大渠道）",
+   "quote": "",
+   "url": "https://hyvisionuae.com",
+   "date": "2026-09"
+  },
+  {
+   "kind": "长期群复核 LT-R07",
+   "claim": "桌面复核（来源库核对 + 研究卡）：2011年起Hikvision战略级全国分销，最大库存，独立RMA；类型=A类Hikvision战略级；业务=2011年起Hikvision战略级全国分销，最大库存，独立RMA；主营=Hikvision战略级；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "contacts": {
+  "email": "info@hyvisionuae.com",
+  "email_status": "活（来源库 9 月核对）",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "桌面复核（来源库核对 + 研究卡）：2011年起Hikvision战略级全国分销，最大库存，独立RMA；类型=A类Hikvision战略级；业务=2011年起Hikvision战略级全国分销，最大库存，独立RMA；主营=Hikvision战略级；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "官网快照 + 加厚后进群发分组（Q-77）"
+ },
+ "draft_en": null,
+ "deep": false,
+ "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+}

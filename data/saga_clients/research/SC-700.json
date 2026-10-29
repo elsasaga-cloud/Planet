@@ -1,17 +1,48 @@
 {
  "code": "SC-700",
- "name_official": "amc-systeme.de",
+ "name_official": "AMC – Analytik & Messtechnik GmbH Chemnitz",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（官网在线）",
  "summary": "C 池三闸捞出（○ 正式）：○ 集成 25%：AMC – Analytik & Messtechnik GmbH Chemnitz（HRB 995 AG Chemnitz；GF Bernd Göbel；1990 起 Advantech / NI / Gantner 伙伴）坐实；进口台湾工业品牌 ✔ 四主区 ✔ 对位 ✔ 坐实 ✔ = 冷户四条 → P 池候选",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "集成（闸 2 判定 · 25% 档）",
+ "size": "小型",
+ "brands_seen": [
+  "Advantech"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "AMC – Analytik & Messtechnik GmbH Chemnitz（amc-systeme.de；**Impressum：Heinrich-Lorenz-Str. 55, 09120 Chemnitz；Amtsgericht Chemnitz HRB 995；USt-ID DE 140847488；GF Dipl.-Ing. Bernd Göbel；Prokura Iris Winkler；1990 起测控 / 自动化系统集成，Advantech / Gan",
+   "quote": "DE · 1 次检索：amc-systeme.de/impressum.html（HRB / GF / USt）+ allaboutautomation 展商档 + pressebox；2026-10-29",
+   "url": "https://www.amc-systeme.de/impressum.html",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "德国 AMC Systeme（amc-systeme.de；主要是研华的 = 工业电脑 / 网络分销）：四主区 + 已进口台湾工业品牌 + 对位 ✔；名单内未触达 → 闸 2 查底数",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R01",
+   "claim": "AMC – Analytik & Messtechnik GmbH Chemnitz（HRB 995；1990 起 Advantech / NI / Gantner 伙伴）：工业集成 ✔ 进口台湾工业品牌 ✔ 对位 ✔ 主区 ✔ → 留 B",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "info@amc-systeme.de",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 集成 25%：AMC – Analytik & Messtechnik GmbH Chemnitz（HRB 995 AG Chemnitz；GF Bernd Göbel；1990 起 Advantech / NI / Gantner 伙伴）坐实；进口台湾工业品牌 ✔ 四主区 ✔ 对位 ✔ 坐实 ✔ = 冷户四条 → P 池候选；闸 1：德国 AMC Systeme（amc-systeme.de；主要是研华的 = 工业电脑 / 网络分销）：四主区 + 已进口台湾工业品牌 + 对位 ✔；名单内未触达 → 闸 2 查底数",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +72,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-2216GP",
+   "why": "默认对位（集成 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +87,61 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 集成 25%：AMC – Analytik & Messtechnik GmbH Chemnitz（HRB 995 AG Chemnitz；GF Bernd Göbel；1990 起 Advantech / NI / Gantner 伙伴）坐实；进口台湾工业品牌 ✔ 四主区 ✔ 对位 ✔ 坐实 ✔ = 冷户四条 → P 池候选",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "DE · 1 次检索：amc-systeme.de/impressum.html（HRB / GF / USt）+ allaboutautomation 展商档 + pressebox；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.amc-systeme.de/impressum.html"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "AMC – Analytik & Messtechnik GmbH Chemnitz",
+  "reg_no": "HRB 995（Amtsgericht Chemnitz）",
+  "status": "营业中（官网在线）",
+  "incorporated": "1990",
+  "company_type": "GmbH",
+  "address": "Heinrich-Lorenz-Str. 55, 09120 Chemnitz",
+  "size_band": "小型",
+  "officers": [
+   "Bernd Göbel — Geschäftsführer",
+   "Iris Winkler — Prokuristin",
+   "（info@amc-systeme.de 表内总邮箱）"
+  ],
+  "psc": "未取",
+  "source": "DE · 1 次检索：amc-systeme.de/impressum.html（HRB / GF / USt）+ allaboutautomation 展商档 + pressebox；2026-10-29",
+  "url": "https://www.amc-systeme.de/impressum.html",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "测控 / 自动化系统集成 + 工业 IT 分销（萨克森）"
+ ],
+ "channels": {
+  "网站": "https://amc-systeme.de",
+  "直邮": "info@amc-systeme.de（表内）"
+ },
+ "signals": [
+  "德国 AMC Systeme（amc-systeme.de；主要是研华的 = 工业电脑 / 网络分销）：四主区 + 已进口台湾工业品牌 + 对位 ✔；名单内未触达 → 闸 2 查底数",
+  "表内兴趣：主要是研华的"
+ ],
+ "risks": [
+  "**研华系统集成 → 集成 25% / 分销 20%：一页纸一次（STI-154GP / STI-288GPM / STI-0240GE 柜内工业以太网 + MOQ 1 + 付费样机；Advantech 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**"
+ ],
+ "saga_fit": {
+  "p1": "STC-2216GP",
+  "tier": 25,
+  "why": "默认对位（集成 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

@@ -1,17 +1,49 @@
 {
  "code": "SC-770",
- "name_official": "elmark.com.pl",
+ "name_official": "ELMARK AUTOMATYKA S.A.",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（AKTYWNY；VAT czynny）",
  "summary": "C 池三闸捞出（★ 正式）：★ 中型工业分销 20%：ELMARK AUTOMATYKA S.A.（Warszawa；KRS 0000803828 / NIP 5252072585；1997；股本 PLN 650k；Moxa / Advantech 等多牌）坐实；波兰 ✔ 对位 ✔ 坐实 ✔ 多牌进口 ✔ = 冷户四条 → P 池候选（长线；找工业网络产品经理）",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "中型工业分销（闸 2 判定 · 20% 档）",
+ "size": "中型（股本 PLN 650k）",
+ "brands_seen": [
+  "Moxa",
+  "Advantech"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "ELMARK AUTOMATYKA S.A.（elmark.com.pl；**krs-online / owg / 官网 regulamin：KRS 0000803828（S.A. 2019-10-01 转制）；NIP 5252072585；REGON 013144306；股本 PLN 650,000；ul. Bukowińska 22 lok. 1B, 02-703 Warszawa；1997 起工业自动化分销（Moxa / Advantech 等多牌）**）；表内：很多牌",
+   "quote": "PL · 1 次检索：krs-online.com.pl（NIP / REGON / 1997）+ owg.pl（KRS / 状态 AKTYWNY / VAT 在册）+ elmark.com.pl/regulamin（登记法院 / 股本）；2026-10-29",
+   "url": "https://www.owg.pl/krs-rp/elmark_automatyka_spolka_akcyjna_9,88,000080382,0000803828",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "波兰 ELMARK Automatyka（elmark.com.pl；很多牌子 = 波兰工业自动化 / 工业网络分销主体）：波兰 + 分销主体 + 对位 ✔；名单内未触达 → 闸 2 查底数（冷户四条待坐实）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R02",
+   "claim": "桌面复核（闸 2 证据充分，三问成立）：★ 中型工业分销 20%：ELMARK AUTOMATYKA S.A.（Warszawa；KRS 0000803828 / NIP 5252072585；1997；股本 PLN 650k；Moxa / Advantech 等多牌）坐实；波兰 ✔ 对位 ✔ 坐实 ✔ 多牌进口 ✔ = 冷户四条 → P 池候选（长线；找工业网络产品经理）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "elmark@elmark.com.pl",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 中型工业分销 20%：ELMARK AUTOMATYKA S.A.（Warszawa；KRS 0000803828 / NIP 5252072585；1997；股本 PLN 650k；Moxa / Advantech 等多牌）坐实；波兰 ✔ 对位 ✔ 坐实 ✔ 多牌进口 ✔ = 冷户四条 → P 池候选（长线；找工业网络产品经理）；闸 1：波兰 ELMARK Automatyka（elmark.com.pl；很多牌子 = 波兰工业自动化 / 工业网络分销主体）：波兰 + 分销主体 + 对位 ✔；名单内未触达 → 闸 2 查底数（冷户四条待坐实）",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +73,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（中型工业分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +88,59 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 中型工业分销 20%：ELMARK AUTOMATYKA S.A.（Warszawa；KRS 0000803828 / NIP 5252072585；1997；股本 PLN 650k；Moxa / Advantech 等多牌）坐实；波兰 ✔ 对位 ✔ 坐实 ✔ 多牌进口 ✔ = 冷户四条 → P 池候选（长线；找工业网络产品经理）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "PL · 1 次检索：krs-online.com.pl（NIP / REGON / 1997）+ owg.pl（KRS / 状态 AKTYWNY / VAT 在册）+ elmark.com.pl/regulamin（登记法院 / 股本）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.owg.pl/krs-rp/elmark_automatyka_spolka_akcyjna_9,88,000080382,0000803828"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "ELMARK AUTOMATYKA S.A.",
+  "reg_no": "0000803828（KRS；NIP 5252072585）",
+  "status": "营业中（AKTYWNY；VAT czynny）",
+  "incorporated": "1997（S.A. 2019）",
+  "company_type": "S.A.",
+  "address": "ul. Bukowińska 22 lok. 1B, 02-703 Warszawa",
+  "size_band": "中型（股本 PLN 650k）",
+  "officers": [
+   "（elmark@elmark.com.pl 表内总邮箱；工业网络产品经理 KP 待 LinkedIn）"
+  ],
+  "psc": "未取",
+  "source": "PL · 1 次检索：krs-online.com.pl（NIP / REGON / 1997）+ owg.pl（KRS / 状态 AKTYWNY / VAT 在册）+ elmark.com.pl/regulamin（登记法院 / 股本）；2026-10-29",
+  "url": "https://www.owg.pl/krs-rp/elmark_automatyka_spolka_akcyjna_9,88,000080382,0000803828",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "工业自动化 / 工业网络分销（华沙）"
+ ],
+ "channels": {
+  "网站": "https://elmark.com.pl",
+  "直邮": "elmark@elmark.com.pl（表内）"
+ },
+ "signals": [
+  "波兰 ELMARK Automatyka（elmark.com.pl；很多牌子 = 波兰工业自动化 / 工业网络分销主体）：波兰 + 分销主体 + 对位 ✔；名单内未触达 → 闸 2 查底数（冷户四条待坐实）",
+  "表内兴趣：很多牌子"
+ ],
+ "risks": [
+  "**波兰工业分销主体 → 分销 20%：一页纸一次（STI-154GP / STI-288GPM / STI-0240GE / STI-488DGGPM + MOQ 1 + 付费样机；Moxa 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（中型工业分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

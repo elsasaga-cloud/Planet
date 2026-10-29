@@ -1,17 +1,49 @@
 {
  "code": "SC-2760",
- "name_official": "tempelgroup.com",
+ "name_official": "TEMPEL, S.A. — Tempel Group",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（名录 + 官网）",
  "summary": "C 池三闸捞出（★ 正式）：★ 中型集团分销 20%：TEMPEL, S.A. — Tempel Group（Barcelona 1978；Panasonic / Advantech / Moxa / Robustel 分销；拉美 6 国分部）部分坐实（CIF 未取）；工业分销 ✔ 体量 ✔ 欧洲 ✔ 对位 ✔ → P 池候选（Moxa 不点名；拉美可带出口）；Simon 曾判不行，可否决",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "中型集团分销（闸 2 判定 · 20% 档）",
+ "size": "中型（集团；多国分部）",
+ "brands_seen": [
+  "Moxa",
+  "Advantech"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "TEMPEL, S.A. — Tempel Group（tempelgroup.com；**indisa 名录：C/ Cobalto 4, 08907 L'Hospitalet de Llobregat (Barcelona)；品牌 Panasonic / Transcend / Advantech / Moxa / Robustel / Getac / IEI / AAEON 等；interempresas / automaticaeinstrumentacion：1978",
+   "quote": "ES · 1 次检索：indisa.es（法人 TEMPEL, S.A.；地址；品牌）+ interempresas（35 周年 2013；拉美分部）+ automaticaeinstrumentacion；CIF 未取；2026-10-29",
+   "url": "https://www.indisa.es/empresas/tempel-sa-barcelona",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "西班牙 Tempel Group（Moxa 分销；工业电子分销集团）：欧洲 + 工业网络分销主体 + 对位 ✔ → 闸 2 查底数；Simon 曾判不行 → 可按编号否决",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R02",
+   "claim": "桌面复核（闸 2 证据充分，三问成立）：★ 中型集团分销 20%：TEMPEL, S.A. — Tempel Group（Barcelona 1978；Panasonic / Advantech / Moxa / Robustel 分销；拉美 6 国分部）部分坐实（CIF 未取）；工业分销 ✔ 体量 ✔ 欧洲 ✔ 对位 ✔ → P 池候选（Moxa 不点名；拉美可带出口）；Simon 曾判不行，可否决",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "info@tempelgroup.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 中型集团分销 20%：TEMPEL, S.A. — Tempel Group（Barcelona 1978；Panasonic / Advantech / Moxa / Robustel 分销；拉美 6 国分部）部分坐实（CIF 未取）；工业分销 ✔ 体量 ✔ 欧洲 ✔ 对位 ✔ → P 池候选（Moxa 不点名；拉美可带出口）；Simon 曾判不行，可否决；闸 1：西班牙 Tempel Group（Moxa 分销；工业电子分销集团）：欧洲 + 工业网络分销主体 + 对位 ✔ → 闸 2 查底数；Simon 曾判不行 → 可按编号否决",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +73,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（中型集团分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +88,60 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 中型集团分销 20%：TEMPEL, S.A. — Tempel Group（Barcelona 1978；Panasonic / Advantech / Moxa / Robustel 分销；拉美 6 国分部）部分坐实（CIF 未取）；工业分销 ✔ 体量 ✔ 欧洲 ✔ 对位 ✔ → P 池候选（Moxa 不点名；拉美可带出口）；Simon 曾判不行，可否决",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "ES · 1 次检索：indisa.es（法人 TEMPEL, S.A.；地址；品牌）+ interempresas（35 周年 2013；拉美分部）+ automaticaeinstrumentacion；CIF 未取；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.indisa.es/empresas/tempel-sa-barcelona"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "TEMPEL, S.A. — Tempel Group",
+  "reg_no": "未取（CIF 未查；法人名 S.A. 坐实）",
+  "status": "营业中（名录 + 官网）",
+  "incorporated": "1978",
+  "company_type": "S.A.",
+  "address": "C/ Cobalto 4, 08907 L'Hospitalet de Llobregat (Barcelona)",
+  "size_band": "中型（集团；多国分部）",
+  "officers": [
+   "（info@tempelgroup.com 表内总邮箱；工业线产品经理 KP 待 LinkedIn）"
+  ],
+  "psc": "未取",
+  "source": "ES · 1 次检索：indisa.es（法人 TEMPEL, S.A.；地址；品牌）+ interempresas（35 周年 2013；拉美分部）+ automaticaeinstrumentacion；CIF 未取；2026-10-29",
+  "url": "https://www.indisa.es/empresas/tempel-sa-barcelona",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "工业 / 消费电子分销集团（伊比利亚 + 拉美 6 国）"
+ ],
+ "channels": {
+  "网站": "https://tempelgroup.com",
+  "直邮": "info@tempelgroup.com（表内）"
+ },
+ "signals": [
+  "西班牙 Tempel Group（Moxa 分销；工业电子分销集团）：欧洲 + 工业网络分销主体 + 对位 ✔ → 闸 2 查底数；Simon 曾判不行 → 可按编号否决",
+  "表内兴趣：Moxa"
+ ],
+ "risks": [
+  "**工业分销集团（Moxa 在售）→ 分销 20%：一页纸一次（STI-154GP / STI-288GPM / STI-0240GE 入门工业线对标 + MOQ 1 + 付费样机；Moxa 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；拉美分部可带出口；Simon 可否决",
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（中型集团分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

@@ -1,17 +1,64 @@
 {
  "code": "SC-644",
- "name_official": "scoop.co.za",
+ "name_official": "Scoop Distribution (Pty) Ltd",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "Active（T&C 2021 / 目录 2022）",
  "summary": "C 池三闸捞出（★ 正式）：★ 批发分销 20%：Scoop Distribution (Pty) Ltd（Cape Town / Midrand；Reg 2001/007610/07；VAT 4830195584；Ubiquiti / MikroTik / Tenda / Reyee / Fanvil 授权）坐实；已进口中国同类 ✔ 对位 ✔ 坐实 ✔ → P 池候选",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "批发分销（闸 2 判定 · 20% 档）",
+ "size": "中型（双城）",
+ "brands_seen": [
+  "Ubiquiti",
+  "MikroTik",
+  "Reyee",
+  "Tenda",
+  "Cudy"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Scoop Distribution (Pty) Ltd（scoop.co.za；**T&C：Company Registration 2001/007610/07；VAT 4830195584；注册办公 1A Harvest Close, Richmond Park, Richwood, Cape Town 7441；Midrand 分部 Unit 4, CDE Premium Park, 362 Roan Cres, Corporate Park North；+27 11",
+   "quote": "ZA · 1 次检索：scoop.co.za Terms_And_Conditions.pdf（Reg / VAT / 注册地址）+ yellosa（Midrand / 品牌）；2026-10-29",
+   "url": "https://scoop.co.za/download/applications/Terms_And_Conditions.pdf",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "南非 Scoop Distribution（scoop.co.za；无线 / 网络中型分销，表内「商业 PoE Cudy 的，也有一些有名的牌子」）：进口中国同类 ✔ 对位 ✔ 中型分销 + 同区先例；群发 15 次 0 回 → 闸 2 查底数（CIPC 镜像）；低优先",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：★ 批发分销 20%：Scoop Distribution (Pty) Ltd（Cape Town / Midrand；Reg 2001/007610/07；VAT 4830195584；Ubiquiti / MikroTik / Tenda / Reyee / Fanvil 授权）坐实；已进口中国同类 ✔ 对位 ✔ 坐实 ✔ → P 池候选",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "cpt@scoop.co.za",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "jhb@scoop.co.za",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "dbn@scoop.co.za",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 批发分销 20%：Scoop Distribution (Pty) Ltd（Cape Town / Midrand；Reg 2001/007610/07；VAT 4830195584；Ubiquiti / MikroTik / Tenda / Reyee / Fanvil 授权）坐实；已进口中国同类 ✔ 对位 ✔ 坐实 ✔ → P 池候选；闸 1：南非 Scoop Distribution（scoop.co.za；无线 / 网络中型分销，表内「商业 PoE Cudy 的，也有一些有名的牌子」）：进口中国同类 ✔ 对位 ✔ 中型分销 + 同区先例；群发 15 次 0 回 → 闸 2 …",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +88,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（批发分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +103,56 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 批发分销 20%：Scoop Distribution (Pty) Ltd（Cape Town / Midrand；Reg 2001/007610/07；VAT 4830195584；Ubiquiti / MikroTik / Tenda / Reyee / Fanvil 授权）坐实；已进口中国同类 ✔ 对位 ✔ 坐实 ✔ → P 池候选",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "ZA · 1 次检索：scoop.co.za Terms_And_Conditions.pdf（Reg / VAT / 注册地址）+ yellosa（Midrand / 品牌）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://scoop.co.za/download/applications/Terms_And_Conditions.pdf"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Scoop Distribution (Pty) Ltd",
+  "reg_no": "2001/007610/07（Reg No.）/ VAT 4830195584",
+  "status": "Active（T&C 2021 / 目录 2022）",
+  "incorporated": "2001",
+  "company_type": "(Pty) Ltd",
+  "address": "1A Harvest Close, Richmond Park, Richwood, Cape Town 7441",
+  "size_band": "中型（双城）",
+  "officers": [
+   "（具名 KP 未取）"
+  ],
+  "psc": "未取",
+  "source": "ZA · 1 次检索：scoop.co.za Terms_And_Conditions.pdf（Reg / VAT / 注册地址）+ yellosa（Midrand / 品牌）；2026-10-29",
+  "url": "https://scoop.co.za/download/applications/Terms_And_Conditions.pdf",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "网络 / 电信批发分销（开普敦 / 米德兰）"
+ ],
+ "channels": {
+  "网站": "https://scoop.co.za",
+  "直邮": "cpt@scoop.co.za，jhb@scoop.co.za，dbn@scoop.co.za（表内）"
+ },
+ "signals": [
+  "南非 Scoop Distribution（scoop.co.za；无线 / 网络中型分销，表内「商业 PoE Cudy 的，也有一些有名的牌子」）：进口中国同类 ✔ 对位 ✔ 中型分销 + 同区先例；群发 15 次 0 回 → 闸 2 查底数（CIPC 镜像）；低优先",
+  "表内兴趣：商业PoE Cudy的\n也有一些有名的牌子"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（批发分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

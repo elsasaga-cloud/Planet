@@ -1,10 +1,11 @@
 # cngsystem.com
+**官方名称（调研核实）**：(주)씨앤지시스템 CNG System
 
 > **评级 B**　|　韩国　|　档案编号 `SC-1191`　|　优先级 ★★　|　状态：发不过去
 >
 > **C 池筛选：○ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ○）：○ CENTEC 敲门砖 · 分销 20%：(주)씨앤지시스템 CNG System（dialogic.co.kr；Seoul；Dialogic / AudioCodes 通信卡分销）部分坐实（사업자 未取）；CENTEC 意向 ✔ 分销主体 ✔ 对位 ✔ → P 池候选（换 dialogic.co.kr 地址再发）
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：A优质名单(KR)、AI评估(KR)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：分销（闸 2 判定 · 20% 档）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：A优质名单(KR)、AI评估(KR)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-1191
@@ -12,19 +13,19 @@ rating: B
 rating_auto: C
 sieve: pool  # 闸 3 P1 2026-10-29
 rating_research: B  # Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ CENTEC
-name_official: "cngsystem.com"
+name_official: "(주)씨앤지시스템 CNG System"
 score: 13
 country: 韩国
 region: 亚太
 website: cngsystem.com
-type: 经销/集成（类型待核）
+type: 分销（闸 2 判定 · 20% 档）
 tier_tags: ["A优质名单(KR)", "AI评估(KR)"]
 deal: no
 replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STC-424DGGPM-280W
+p1: STC-228GP
 price_tier: 20%
 research: done
 site_snapshot: none
@@ -37,7 +38,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（○ 正式）：○ CENTEC 敲门砖 · 分销 20%：(주)씨앤지시스템 CNG System（dialogic.co.kr；Seoul；Dialogic / AudioCodes 通信卡分销）部分坐实（사업자 未取）；CENTEC 意向 ✔ 分销主体 ✔ 对位 ✔ → P 池候选（换 dialogic.co.kr 地址再发）（调研 2026-10-29；表内兴趣：CENTEC Switch）
 - **为什么是 B 级**：**调研后定级 B**（Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ CENTEC 敲门砖 · 分销 20%：(주)씨앤지시스템 CNG System（dialogic.co.kr；Seoul；Dialogic / AudioCodes 通信卡分销）部分坐实（사업자 未取）；CENTEC 意向 ✔ 分销主体 ✔ 对位 ✔ → P 池候选（换 dialogic.co.kr 地址再发）；闸 1：韩国 CNG System（cngsystem.com 退信；dialogic.co.kr 正常；表内「CENTEC Switch」）：CENTEC 敲门砖 ✔ Simon 点名韩国；退信 ≠ 死 → 闸 2 查底数（bizno）+ 换 …）；自动分级 C：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；-25 邮件发不过去且无 WhatsApp 通道；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-424DGGPM-280W — 待复核后按业务线定首推型号；
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-228GP — 默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）；
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动：LT-01 复核（待过）后再定 — 长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
@@ -50,12 +51,13 @@ updated: 2026-10-29
 - **现状一句话**：C 池三闸捞出 → B（LT-01）：○ CENTEC 敲门砖 · 分销 20%：(주)씨앤지시스템 CNG System（dialogic.co.kr；Seoul；Dialogic / AudioCodes 通信卡分销）部分坐实（사업자 未取）；CENTEC 意向 ✔ 分销主体 ✔ 对位 ✔ → P 池候选（换 dialogic.co.kr 地址再发）
 - **对方真实需求（有据）**：未知（无往来；复核时从官网 / 进口数据 / 项目推断）
 - **断点 / 为什么停在这里**：无往来（从未触达或仅群发无回）
-- **Saga 现在该推什么**：P1 ****（% 档，价见价格主表）——待复核后按业务线定首推型号
+- **Saga 现在该推什么**：P1 **STC-228GP**（% 档，价见价格主表）——默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）
 - **下一步（具体）**：不动：LT-01 复核（待过）后再定　—　长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ○ CENTEC 敲门砖 · 分销 20%：(주)씨앤지시스템 CNG System（dialogic.co.kr；Seoul；Dialogic / AudioCodes 通信卡分销）部分坐实（사업자 未取）；CENTEC 意向 ✔ 分销主体 ✔ 对位 ✔ → P 池候选（换 dialogic.co.kr 地址再发） | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
+| 2026-10-29 | 查 | Agent 登记底数（registry） | KR · 1 次检索：dialogic.co.kr.siteindices.com（站点标题 / 定位）；bolta 同名不对应；사업자 未取；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -90,7 +92,7 @@ updated: 2026-10-29
 | 名称 | cngsystem.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 韩国 | 事实（用户表）|
 | 网站/域名 | cngsystem.com / dialogic.co.kr | 事实（用户表 URL/邮箱域名） |
-| 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
+| 类型 | 分销（闸 2 判定 · 20% 档） | 推断（据兴趣/备注关键词） |
 | 联系人 | 发不过去 | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | CENTEC Switch | 事实（用户表） |
@@ -110,11 +112,35 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-29）**　网站状态：
+- **状态：已调研（2026-10-29）**　网站状态：营业中（站点在线）
 - **是谁**：C 池三闸捞出（○ 正式）：○ CENTEC 敲门砖 · 分销 20%：(주)씨앤지시스템 CNG System（dialogic.co.kr；Seoul；Dialogic / AudioCodes 通信卡分销）部分坐实（사업자 未取）；CENTEC 意向 ✔ 分销主体 ✔ 对位 ✔ → P 池候选（换 dialogic.co.kr 地址再发）
+- **类型**：分销（闸 2 判定 · 20% 档）
+- **规模**：小型 / 中型
+- **【登记底数 / 官网（闸 2 坐实）】(주)씨앤지시스템 CNG System（cngsystem.com → dialogic.co.kr；**站点标题「::: CNG System ::: ㈜씨앤지시스템」；服务器定位 Seoul 동작구；Dialogic / AudioCodes / Sangoma 通信卡 / 录音板分销；사업자 未取（同名 주식회사 씨앤지 127-86-49224 为杨州金属加工，不采）**）；表内：问过 CENTEC 交换机；support@dialogic.co.kr**
+  > KR · 1 次检索：dialogic.co.kr.siteindices.com（站点标题 / 定位）；bolta 同名不对应；사업자 未取；2026-10-29
+  > 来源：https://dialogic.co.kr.siteindices.com/（抓取 2026-10-29）
+- **【闸 1 对位】韩国 CNG System（cngsystem.com 退信；dialogic.co.kr 正常；表内「CENTEC Switch」）：CENTEC 敲门砖 ✔ Simon 点名韩国；退信 ≠ 死 → 闸 2 查底数（bizno）+ 换 dialogic.co.kr 地址；低优先**
+  > 来源：（抓取 2026-10-29）
+- **【长期群复核 LT-R03】桌面复核（闸 2 证据，三问成立）：○ CENTEC 敲门砖 · 分销 20%：(주)씨앤지시스템 CNG System（dialogic.co.kr；Seoul；Dialogic / AudioCodes 通信卡分销）部分坐实（사업자 未取）；CENTEC 意向 ✔ 分销主体 ✔ 对位 ✔ → P 池候选（换 dialogic.co.kr 地址再发）；备注：韩国需 KC（CENTEC 线由对方处理认证）**
+  > 来源：（抓取 2026-10-29）
+- **KP**：—（表内邮箱（公开 / 总机））support@dialogic.co.kr 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ CENTEC 敲门砖 · 分销 20%：(주)씨앤지시스템 CNG System（dialogic.co.kr；Seoul；Dialogic / AudioCodes 通信卡分销）部分坐实（사업자 未取）；CENTEC 意向 ✔ 分销主体 ✔ 对位 ✔ → P 池候选（换 dialogic.co.kr 地址再发）；闸 1：韩国 CNG System（cngsystem.com 退信；dialogic.co.kr 正常；表内「CENTEC Switch」）：CENTEC 敲门砖 ✔ Simon 点名韩国；退信 ≠ 死 → 闸 2 查底数（bizno）+ 换 …
-- 备注：（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
+- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | (주)씨앤지시스템 CNG System |
+
+- **业务线**：通信卡 / 电信设备分销（首尔）
+- **触达通道（公开）**：网站: https://cngsystem.com；直邮: support@dialogic.co.kr（表内）
+- **近况信号**：
+  - 韩国 CNG System（cngsystem.com 退信；dialogic.co.kr 正常；表内「CENTEC Switch」）：CENTEC 敲门砖 ✔ Simon 点名韩国；退信 ≠ 死 → 闸 2 查底数（bizno）+ 换 dialogic.co.kr 地址；低优先
+  - 表内兴趣：CENTEC Switch
+- **风险/边界**：**CENTEC 敲门砖 → 分销 20%：一页纸一次（STH-2C24XF-HSI $1,500 / STH-8C48DX-HSI $4,800 + STC 接入线；无 KC 买方自证）换 dialogic.co.kr 地址再发— 韩国常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳；无 KC（买方自行认证，SDT 先例）；周二 / 周四 10–12 KST**；登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号
+- **Saga 对位结论**：P1 STC-228GP（20% 档）——默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -145,7 +171,7 @@ updated: 2026-10-29
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | support@dialogic.co.kr | 用户表原值 | Clients/ 表 |
+| — | 表内邮箱（公开 / 总机） | support@dialogic.co.kr | 调研核实（公开页） | 调研 |
 
 - **通道建议**：企业邮箱可直发；备注含「发不过去」：发送前核对是哪一个地址，退信地址保留不删
 
@@ -162,7 +188,7 @@ updated: 2026-10-29
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 24 口 PoE L2+ 走量款 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STC-228GP | 深挖对位：默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档） | $33.2 USD EXW（HRUI Realtek 线：洪瑞 2026-09-30 成本 + 20%（列表价 $30.8 隐含加价低于底线，第 73 批口径）；见 data/价格主表_HRUI.csv；汇率 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销（闸 2 判定 · 20% 档）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：20% 档 $139.9 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $181.2——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -171,9 +197,9 @@ updated: 2026-10-29
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-228GP），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-228GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -183,7 +209,7 @@ updated: 2026-10-29
 
 - **S**：名单内已有联系记录，不是零起点
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STC-228GP 按 20% 档报价，做现供应商的第二货源；规模（调研）：小型 / 中型
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -211,14 +237,14 @@ updated: 2026-10-29
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-228GP - 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (neutral label)
 
 ```text
 Hello,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply an 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (unmanaged, 120 W, PoE watchdog) - model STC-228GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $33.2 USD EXW (valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

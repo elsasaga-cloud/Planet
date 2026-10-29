@@ -1,17 +1,46 @@
 {
  "code": "SC-1379",
- "name_official": "parks.com.br",
+ "name_official": "Parks S.A. Comunicações Digitais",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "域名 parks.com.br（官网快照待 Actions 补抓）",
  "summary": "C 池三闸捞出（★ 正式）：★ 自有品牌制造商 · OEM 30%：Parks S.A. Comunicações Digitais（Cachoeirinha RS；CNPJ 92.679.331/0001-18；1972；通信传输设备制造）坐实；自有品牌 ✔ 制造商 ✔ 对位 ✔ 坐实 ✔ → P 池候选（GPON / 光模块走本职线）",
- "type": "",
- "size": "",
+ "type": "OEM（闸 2 判定 · 30% 档）",
+ "size": "大型（53 年制造商）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Parks S.A. Comunicações Digitais（parks.com.br；**CNPJ 92.679.331/0001-18；1972-08-01 成立；S.A. fechada；Av. Cruzeiro 530, Distrito Industrial, Cachoeirinha RS 94930-615；CNAE 2631-1/00 通信传输设备制造；Ativa**）；表内：巴西自有品牌电信设备制造（GPON / 交换机；本职线重叠）",
+   "quote": "BR · 1 次检索：econodata（CNPJ / CNAE / 成立）+ informecadastral / speedio（地址 / 状态）；2026-10-29",
+   "url": "https://www.econodata.com.br/consulta-empresa/92679331000118-parks-sa-comunicacoes-digitais",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "巴西 Parks（parks.com.br；巴西自有品牌电信设备商，WDM switch 用的桂林的 = 中国代工；电话在表）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔ + 本职线 WDM；未触达 → 闸 2 查底数（cnpj.biz）；拉美非点名国，低优先",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：★ 自有品牌制造商 · OEM 30%：Parks S.A. Comunicações Digitais（Cachoeirinha RS；CNPJ 92.679.331/0001-18；1972；通信传输设备制造）坐实；自有品牌 ✔ 制造商 ✔ 对位 ✔ 坐实 ✔ → P 池候选（GPON / 光模块走本职线）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "marketing@parks.com.br",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 自有品牌制造商 · OEM 30%：Parks S.A. Comunicações Digitais（Cachoeirinha RS；CNPJ 92.679.331/0001-18；1972；通信传输设备制造）坐实；自有品牌 ✔ 制造商 ✔ 对位 ✔ 坐实 ✔ → P 池候选（GPON / 光模块走本职线）；闸 1：巴西 Parks（parks.com.br；巴西自有品牌电信设备商，WDM switch 用的桂林的 = 中国代工；电话在表）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔ + 本职线 WDM；未触达 → 闸 2 查底数（c…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +70,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +85,56 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 自有品牌制造商 · OEM 30%：Parks S.A. Comunicações Digitais（Cachoeirinha RS；CNPJ 92.679.331/0001-18；1972；通信传输设备制造）坐实；自有品牌 ✔ 制造商 ✔ 对位 ✔ 坐实 ✔ → P 池候选（GPON / 光模块走本职线）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "BR · 1 次检索：econodata（CNPJ / CNAE / 成立）+ informecadastral / speedio（地址 / 状态）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.econodata.com.br/consulta-empresa/92679331000118-parks-sa-comunicacoes-digitais"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Parks S.A. Comunicações Digitais",
+  "reg_no": "92.679.331/0001-18（CNPJ）",
+  "status": "Ativa（Receita 2026）",
+  "incorporated": "1972-08-01",
+  "company_type": "S.A.（fechada）",
+  "address": "Av. Cruzeiro 530, Distrito Industrial, Cachoeirinha RS 94930-615",
+  "size_band": "大型（53 年制造商）",
+  "officers": [
+   "（具名 KP 未取）"
+  ],
+  "psc": "未取",
+  "source": "BR · 1 次检索：econodata（CNPJ / CNAE / 成立）+ informecadastral / speedio（地址 / 状态）；2026-10-29",
+  "url": "https://www.econodata.com.br/consulta-empresa/92679331000118-parks-sa-comunicacoes-digitais",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "通信传输设备制造（南大河州）"
+ ],
+ "channels": {
+  "网站": "https://parks.com.br",
+  "直邮": "marketing@parks.com.br（表内）"
+ },
+ "signals": [
+  "巴西 Parks（parks.com.br；巴西自有品牌电信设备商，WDM switch 用的桂林的 = 中国代工；电话在表）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔ + 本职线 WDM；未触达 → 闸 2 查底数（cnpj.biz）；拉美非点名国，低优先",
+  "表内兴趣：WDM switch\n用的桂林的"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

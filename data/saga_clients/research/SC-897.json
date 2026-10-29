@@ -1,17 +1,46 @@
 {
  "code": "SC-897",
- "name_official": "pixietech.uz",
+ "name_official": "Pixietech — PixieTech",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（官网 2026）",
  "summary": "C 池三闸捞出（★ 正式）：★ 本土自有品牌 · OEM 30%：PixieTech（Ташкент, ул. Янгизамон 31/1；2020 创立「首家本土电信设备制造商」；交换机 / 路由 / GPON / IP 话机 / 机柜 / UPS 全线贴牌）部分坐实（ИНН 未取）；全线贴牌 = OEM 对象 ✔ 对位 ✔ 同区先例 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon：默认只推 SmartByte / Marvell 管理 + …",
- "type": "",
- "size": "",
+ "type": "OEM（闸 2 判定 · 30% 档）",
+ "size": "小型 / 中型（新品牌全线）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Pixietech — PixieTech（pixietech.uz；**官网 + itmir.uz：乌兹别克自有品牌，2020 年创立「首家本土电信设备制造商」（进口替代）；产品线：交换机 / 路由器 / GPON & GEPON / IP 话机 / 网关 / IP-АТС / 机柜 / UPS / 布线；Ташкент, Мирабадский р-н, ул. Янгизамон 31/1（另 Абу Сулейман Банокатий 199）；+998 71 20",
+   "quote": "UZ · 1 次检索：pixietech.uz 首页（品牌 / 2020 / 产品线 / 地址 / 邮箱）+ itmir.uz/pixietech（经销价目）；ИНН 未取；2026-10-29",
+   "url": "https://pixietech.uz/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "乌兹别克斯坦 Pixietech（pixietech.uz；洪瑞的 = 洪瑞现供）：进口中国同类 ✔ 对位 ✔ 同区先例 SETKO 成单；未触达 → 闸 2 查底数；低优先；洪瑞现供客户 → Q-33 口径待 Simon（默认只推 SmartByte / Marvell 管理 + 工业线）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：★ 本土自有品牌 · OEM 30%：PixieTech（Ташкент, ул. Янгизамон 31/1；2020 创立「首家本土电信设备制造商」；交换机 / 路由 / GPON / IP 话机 / 机柜 / UPS 全线贴牌）部分坐实（ИНН 未取）；全线贴牌 = OEM 对象 ✔ 对位 ✔ 同区先例 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon：默认只推 SmartB…",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "info@pixietech.uz",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 本土自有品牌 · OEM 30%：PixieTech（Ташкент, ул. Янгизамон 31/1；2020 创立「首家本土电信设备制造商」；交换机 / 路由 / GPON / IP 话机 / 机柜 / UPS 全线贴牌）部分坐实（ИНН 未取）；全线贴牌 = OEM 对象 ✔ 对位 ✔ 同区先例 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon：默认只推 Smart…；闸 1：乌兹别克斯坦 Pixietech（pixietech.uz；洪瑞的 = 洪瑞现供）：进口中国同类 ✔ 对位 ✔ 同区先例 SETKO 成单；未触达 → 闸 2 查底数；低优先；洪瑞现供客户 → Q-33 口径待 Simon（默认只推 Sm…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +70,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +85,60 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 本土自有品牌 · OEM 30%：PixieTech（Ташкент, ул. Янгизамон 31/1；2020 创立「首家本土电信设备制造商」；交换机 / 路由 / GPON / IP 话机 / 机柜 / UPS 全线贴牌）部分坐实（ИНН 未取）；全线贴牌 = OEM 对象 ✔ 对位 ✔ 同区先例 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon：默认只推 SmartByte / Marvell 管理 + 工业线）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "UZ · 1 次检索：pixietech.uz 首页（品牌 / 2020 / 产品线 / 地址 / 邮箱）+ itmir.uz/pixietech（经销价目）；ИНН 未取；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://pixietech.uz/"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Pixietech — PixieTech",
+  "reg_no": "未取（ИНН 未查）",
+  "status": "营业中（官网 2026）",
+  "incorporated": "2020",
+  "company_type": "未取（品牌）",
+  "address": "Ташкент, Мирабадский р-н, ул. Янгизамон 31/1",
+  "size_band": "小型 / 中型（新品牌全线）",
+  "officers": [
+   "（info@pixietech.uz 官网公开；具名 KP 未取）"
+  ],
+  "psc": "未取",
+  "source": "UZ · 1 次检索：pixietech.uz 首页（品牌 / 2020 / 产品线 / 地址 / 邮箱）+ itmir.uz/pixietech（经销价目）；ИНН 未取；2026-10-29",
+  "url": "https://pixietech.uz/",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "电信设备自有品牌 / 贴牌（塔什干）"
+ ],
+ "channels": {
+  "网站": "https://pixietech.uz",
+  "直邮": "info@pixietech.uz（表内）"
+ },
+ "signals": [
+  "乌兹别克斯坦 Pixietech（pixietech.uz；洪瑞的 = 洪瑞现供）：进口中国同类 ✔ 对位 ✔ 同区先例 SETKO 成单；未触达 → 闸 2 查底数；低优先；洪瑞现供客户 → Q-33 口径待 Simon（默认只推 SmartByte / Marvell 管理 + 工业线）",
+  "表内兴趣：洪瑞的"
+ ],
+ "risks": [
+  "**本土自有品牌全线贴牌 → OEM 30%：一页纸一次（STC-228GP / STC-2224GP / STC-424XGGPM-280W 贴牌 Pixietech + MOQ 1；洪瑞现供 → Q-33 口径：默认只推 SmartByte / Marvell 管理 + 工业线）— 预付 100%，收款路径待 Simon 定**",
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

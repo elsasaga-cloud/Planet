@@ -1,17 +1,46 @@
 {
  "code": "SC-1297",
- "name_official": "winncom.com",
+ "name_official": "Winncom Technologies Corp",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "Active",
  "summary": "C 池三闸捞出（○ 正式）：○ 分销 20%：Winncom Technologies Corp（Ohio 1999 注册；Solon OH；1996 起；100–160 人；WISP / 宽带分销）坐实；对位 ✔ 主区 ✔ 坐实 ✔ 体量 ✔ → P 池候选（冷户，10 推 0 回；一页纸后观察）",
- "type": "",
- "size": "",
+ "type": "分销（闸 2 判定 · 20% 档）",
+ "size": "中型（100–160）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Winncom Technologies Corp（winncom.com；**Tracxn 法人：WINNCOM TECHNOLOGIES CORP（Ohio，1999-12-31 注册，Active）；prospeo：28900 Fountain Parkway, Unit B, Solon, OH 44139；+1 888 946 6266；1996 年创立；101–200 人（Tracxn 160 / 2024 年报 69）；无线 / 宽带 / LTE / CBRS ",
+   "quote": "US · 1 次检索：prospeo.io/c/winncom-technologies（Solon OH；101-200；Founded 1996）+ tracxn（WINNCOM TECHNOLOGIES CORP；Dec 31, 1999；Active；160 employees）+ signalhire（$1-10M 估；Alex Cernik Head of Strategic Programs & BD）；2026-10-29",
+   "url": "https://tracxn.com/d/companies/winncomtechnologies/__p_BJX1mRIETKDrtejaZ620uy7lAtkDlCWGp--RK8fIw",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "美国 Winncom Technologies（「实力不错的分销商」，无线 / 网络分销）：美国主区 + 分销商主体 + 对位 ✔；体量偏大、10 次跟进无回复 → 闸 2 查底数，看是否有白牌 / 工业线入口",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R01",
+   "claim": "Winncom Technologies Corp（Solon OH；1996 起；100–160 人；WISP / 宽带分销）：分销主体 ✔ 体量 ✔ 对位 ✔ 主区 ✔；10 推 0 回 → 换稿一页纸后观察",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "sales@winncom.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 分销 20%：Winncom Technologies Corp（Ohio 1999 注册；Solon OH；1996 起；100–160 人；WISP / 宽带分销）坐实；对位 ✔ 主区 ✔ 坐实 ✔ 体量 ✔ → P 池候选（冷户，10 推 0 回；一页纸后观察）；闸 1：美国 Winncom Technologies（「实力不错的分销商」，无线 / 网络分销）：美国主区 + 分销商主体 + 对位 ✔；体量偏大、10 次跟进无回复 → 闸 2 查底数，看是否有白牌 / 工业线入口",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +70,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +85,60 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 分销 20%：Winncom Technologies Corp（Ohio 1999 注册；Solon OH；1996 起；100–160 人；WISP / 宽带分销）坐实；对位 ✔ 主区 ✔ 坐实 ✔ 体量 ✔ → P 池候选（冷户，10 推 0 回；一页纸后观察）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "US · 1 次检索：prospeo.io/c/winncom-technologies（Solon OH；101-200；Founded 1996）+ tracxn（WINNCOM TECHNOLOGIES CORP；Dec 31, 1999；Active；160 employees）+ signalhire（$1-10M 估；Alex Cernik Head of Strategic Programs & BD）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://tracxn.com/d/companies/winncomtechnologies/__p_BJX1mRIETKDrtejaZ620uy7lAtkDlCWGp--RK8fIw"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Winncom Technologies Corp",
+  "reg_no": "Ohio corp（1999-12-31；号未取）",
+  "status": "Active",
+  "incorporated": "1996（公司注册 1999）",
+  "company_type": "Corporation",
+  "address": "28900 Fountain Parkway, Unit B, Solon, OH 44139, US",
+  "size_band": "中型（100–160）",
+  "officers": [
+   "Alex Cernik — Head of Strategic Programs & Business Development（SignalHire；无公开邮箱）",
+   "（sales@winncom.com 表内 = 收件人，请转产品线经理）"
+  ],
+  "psc": "未取",
+  "source": "US · 1 次检索：prospeo.io/c/winncom-technologies（Solon OH；101-200；Founded 1996）+ tracxn（WINNCOM TECHNOLOGIES CORP；Dec 31, 1999；Active；160 employees）+ signalhire（$1-10M 估；Alex Cernik Head of Strategic Programs & BD）；2026-10-29",
+  "url": "https://tracxn.com/d/companies/winncomtechnologies/__p_BJX1mRIETKDrtejaZ620uy7lAtkDlCWGp--RK8fIw",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "无线 / 宽带网络设备分销 + 工程（WISP / ISP 渠道）"
+ ],
+ "channels": {
+  "网站": "https://winncom.com",
+  "直邮": "sales@winncom.com（表内）"
+ },
+ "signals": [
+  "美国 Winncom Technologies（「实力不错的分销商」，无线 / 网络分销）：美国主区 + 分销商主体 + 对位 ✔；体量偏大、10 次跟进无回复 → 闸 2 查底数，看是否有白牌 / 工业线入口",
+  "表内兴趣：实力不错的分销商"
+ ],
+ "risks": [
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

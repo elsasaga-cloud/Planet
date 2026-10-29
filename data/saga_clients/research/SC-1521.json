@@ -1,17 +1,46 @@
 {
  "code": "SC-1521",
- "name_official": "nivettisystems.com",
+ "name_official": "Nivetti Systems Private Limited",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（2024 新闻 / 2026 目录）",
  "summary": "C 池三闸捞出（○ 正式）：○ 自研品牌 · OEM 30%（长线）：Nivetti Systems Pvt Ltd（Bangalore JP Nagar；2014；51–200 人；自研 2.4 Tbps 路由器 2024）部分坐实（CIN 未取）；高端自研、接入层可能贴牌 ✔ 对位 ✔ → P 池候选（长线）",
- "type": "",
- "size": "",
+ "type": "OEM（闸 2 判定 · 30% 档）",
+ "size": "中型（51–200 人）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Nivetti Systems Private Limited（nivettisystems.com；**166, 21st Main Road, 2nd Phase, J P Nagar, Bangalore 560078（Bloomberg）；2014 创立；51–200 人（ZoomInfo）；自研路由 / 交换 / NiOS 网络操作系统 / HawkSecure；2024-03-09 印度首台自研 2.4 Tbps 路由器（联邦部长 Vaishnaw 揭幕，PTI）",
+   "quote": "IN · 1 次检索：bloomberg profile（地址）+ cbinsights（2014 / 产品 / 2.4 Tbps 新闻）+ zoominfo（规模）；CIN 未取；2026-10-29",
+   "url": "https://www.cbinsights.com/company/nivetti-systems",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "印度 Nivetti Systems（nivettisystems.com / .in；印度自有品牌网络设备商）：自有品牌 = OEM 对象 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：○ 自研品牌 · OEM 30%（长线）：Nivetti Systems Pvt Ltd（Bangalore JP Nagar；2014；51–200 人；自研 2.4 Tbps 路由器 2024）部分坐实（CIN 未取）；高端自研、接入层可能贴牌 ✔ 对位 ✔ → P 池候选（长线）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "manish@nivettisystems.in",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 自研品牌 · OEM 30%（长线）：Nivetti Systems Pvt Ltd（Bangalore JP Nagar；2014；51–200 人；自研 2.4 Tbps 路由器 2024）部分坐实（CIN 未取）；高端自研、接入层可能贴牌 ✔ 对位 ✔ → P 池候选（长线）；闸 1：印度 Nivetti Systems（nivettisystems.com / .in；印度自有品牌网络设备商）：自有品牌 = OEM 对象 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +70,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +85,59 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 自研品牌 · OEM 30%（长线）：Nivetti Systems Pvt Ltd（Bangalore JP Nagar；2014；51–200 人；自研 2.4 Tbps 路由器 2024）部分坐实（CIN 未取）；高端自研、接入层可能贴牌 ✔ 对位 ✔ → P 池候选（长线）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "IN · 1 次检索：bloomberg profile（地址）+ cbinsights（2014 / 产品 / 2.4 Tbps 新闻）+ zoominfo（规模）；CIN 未取；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.cbinsights.com/company/nivetti-systems"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Nivetti Systems Private Limited",
+  "reg_no": "未取（CIN 未查）",
+  "status": "营业中（2024 新闻 / 2026 目录）",
+  "incorporated": "2014",
+  "company_type": "Private Limited",
+  "address": "166, 21st Main Road, 2nd Phase, J P Nagar, Bangalore, Karnataka 560078",
+  "size_band": "中型（51–200 人）",
+  "officers": [
+   "（具名 KP 未取）"
+  ],
+  "psc": "未取",
+  "source": "IN · 1 次检索：bloomberg profile（地址）+ cbinsights（2014 / 产品 / 2.4 Tbps 新闻）+ zoominfo（规模）；CIN 未取；2026-10-29",
+  "url": "https://www.cbinsights.com/company/nivetti-systems",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "安全网络设备自研品牌（班加罗尔）"
+ ],
+ "channels": {
+  "网站": "https://nivettisystems.com",
+  "直邮": "manish@nivettisystems.in（表内）"
+ },
+ "signals": [
+  "印度 Nivetti Systems（nivettisystems.com / .in；印度自有品牌网络设备商）：自有品牌 = OEM 对象 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先"
+ ],
+ "risks": [
+  "**高端自研、接入层 / PoE 可能贴牌 → OEM 30%（长线）：一页纸一次（STC-2224GP / STC-4424GCPM 贴牌 + 中性包装 + MOQ 1；不谈 SONiC / 白盒）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS",
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

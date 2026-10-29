@@ -1,17 +1,46 @@
 {
  "code": "SC-1173",
- "name_official": "JEVASO S.L. DPTO. ELECTRONICA",
+ "name_official": "JEVASO S.L.",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中",
  "summary": "C 池三闸捞出（△ 观察）：△ 观察档 · 成单回访：JEVASO S.L.（B15299548；Arteixo；纺织企业的电子部门 = 终端自用；abbolli.com 关系待核）坐实；成单 ✔ 欧洲 ✔ 对位 ✔ ≥2 条 → 入池观察档，复购体量低 → Simon 定",
- "type": "",
- "size": "",
+ "type": "终端（闸 2 判定 · 25% 档）",
+ "size": "中型（推定）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "JEVASO S.L.（表内「DPTO. ELECTRONICA」；alberto@abbolli.com；**einforma：NIF B15299548；Pg. Ind. Sabón, Av. del Embalse Pa 87-B, 15142 Arteixo (A Coruña)；1991-01-11 成立；CNAE 1421 外衣成衣制造 / 纺织包装物流 / 电商**→ 纺织企业的电子部门；abbolli.com 为另一域名，关系未取）；表内：成单户（「是个技术」",
+   "quote": "ES · 1 次检索：einforma（JEVASO SL B15299548；Arteixo；1991；CNAE 1421）+ ardan（jevaso.com；jevaso@jevaso.com）+ poligonosabon（981 676 717）；abbolli.com 未查；2026-10-29",
+   "url": "https://www.einforma.com/informacion-empresa/jevaso",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "西班牙 JEVASO S.L. 电子部门：成单户（alberto@abbolli.com，「是个技术」）；欧洲主区 + 成单 → 闸 2 查底数、找采购 KP",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R01",
+   "claim": "JEVASO S.L.（Arteixo；纺织企业电子部门；已成单）：终端自用，复购低但已成单 → 留 B（普通跟 = 群发 / 新品通知）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "alberto@abbolli.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · 成单回访：JEVASO S.L.（B15299548；Arteixo；纺织企业的电子部门 = 终端自用；abbolli.com 关系待核）坐实；成单 ✔ 欧洲 ✔ 对位 ✔ ≥2 条 → 入池观察档，复购体量低 → Simon 定；闸 1：西班牙 JEVASO S.L. 电子部门：成单户（alberto@abbolli.com，「是个技术」）；欧洲主区 + 成单 → 闸 2 查底数、找采购 KP",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +70,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-2216GP",
+   "why": "默认对位（终端 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +85,59 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "△ 观察档 · 成单回访：JEVASO S.L.（B15299548；Arteixo；纺织企业的电子部门 = 终端自用；abbolli.com 关系待核）坐实；成单 ✔ 欧洲 ✔ 对位 ✔ ≥2 条 → 入池观察档，复购体量低 → Simon 定",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "ES · 1 次检索：einforma（JEVASO SL B15299548；Arteixo；1991；CNAE 1421）+ ardan（jevaso.com；jevaso@jevaso.com）+ poligonosabon（981 676 717）；abbolli.com 未查；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.einforma.com/informacion-empresa/jevaso"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "JEVASO S.L.",
+  "reg_no": "B15299548",
+  "status": "营业中",
+  "incorporated": "1991-01-11",
+  "company_type": "S.L.",
+  "address": "Pg. Ind. Sabón, Av. del Embalse Pa 87-B, 15142 Arteixo (A Coruña)",
+  "size_band": "中型（推定）",
+  "officers": [
+   "Alberto（alberto@abbolli.com；表内「是个技术」= 成单对接人；职务未取）"
+  ],
+  "psc": "未取",
+  "source": "ES · 1 次检索：einforma（JEVASO SL B15299548；Arteixo；1991；CNAE 1421）+ ardan（jevaso.com；jevaso@jevaso.com）+ poligonosabon（981 676 717）；abbolli.com 未查；2026-10-29",
+  "url": "https://www.einforma.com/informacion-empresa/jevaso",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "纺织成衣 / 物流（电子部门为内部自用）"
+ ],
+ "channels": {
+  "网站": "https://abbolli.com",
+  "直邮": "alberto@abbolli.com（表内）"
+ },
+ "signals": [
+  "西班牙 JEVASO S.L. 电子部门：成单户（alberto@abbolli.com，「是个技术」）；欧洲主区 + 成单 → 闸 2 查底数、找采购 KP",
+  "表内兴趣：是个技术，Lets see"
+ ],
+ "risks": [
+  "**成单回访（终端自用 25%）：按原单回访一次（复购 + 同款升级 STI 工业线；MOQ 1）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；体量小不主动加码"
+ ],
+ "saga_fit": {
+  "p1": "STC-2216GP",
+  "tier": 25,
+  "why": "默认对位（终端 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

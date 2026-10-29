@@ -1,17 +1,48 @@
 {
  "code": "SC-1935",
- "name_official": "leunig.de",
+ "name_official": "LEUNIG GmbH",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（名录 + 官网）",
  "summary": "C 池三闸捞出（○ 正式）：○ 分销 20%：LEUNIG GmbH（HRB 1531 Siegburg；1980；Hennef；GF Hermann-J. Vester；KVM / 线缆 / 工业网络，Moxa 线）坐实；对位 ✔ 主区 ✔ 坐实 ✔ 体量 ✔（45 年批发）→ P 池候选；先换 sales@leunig.de 公开地址",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "分销（闸 2 判定 · 20% 档）",
+ "size": "小型 / 中型",
+ "brands_seen": [
+  "Moxa"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "LEUNIG GmbH（leunig.de；**firmendatenbanken.de：Sanddornweg 8b, D-53773 Hennef；HRB 1531 Siegburg；USt-ID DE123112391；Geschäftsführung Josef Hermann Vester（Hermann-J. Vester）；elektro-einkaufsfuehrer：1980 年创立；KVM / 延长器 / 远程电源 / 时间服务器 / 数据线缆；「欧洲、北",
+   "quote": "DE · 1 次检索：firmendatenbanken.de/unternehmen/detail/336211/leunig-gmbh（HRB 1531 Siegburg；DE123112391；GF Josef Hermann Vester）+ elektro-einkaufsfuehrer.de（Gründungsjahr 1980；sales@leunig.de；+49 2242 93389-0）；2026-10-29",
+   "url": "https://www.firmendatenbanken.de/unternehmen/detail/336211/leunig-gmbh.htm",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "德国 Leunig（工业 FS / MC / 串口，主要卖 Moxa）：德国主区 + 工业网络分销主体 + 对位 ✔；曾退信但域名正常 → 闸 2 查底数 + 找新地址",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R01",
+   "claim": "LEUNIG GmbH（HRB 1531 Siegburg；1980；KVM / 线缆 / 工业网络批发，Moxa 线）：45 年分销主体 ✔ 工业网络对位 ✔ 主区 ✔ → 留 B",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "sales@leunig.de",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 分销 20%：LEUNIG GmbH（HRB 1531 Siegburg；1980；Hennef；GF Hermann-J. Vester；KVM / 线缆 / 工业网络，Moxa 线）坐实；对位 ✔ 主区 ✔ 坐实 ✔ 体量 ✔（45 年批发）→ P 池候选；先换 sales@leunig.de 公开地址；闸 1：德国 Leunig（工业 FS / MC / 串口，主要卖 Moxa）：德国主区 + 工业网络分销主体 + 对位 ✔；曾退信但域名正常 → 闸 2 查底数 + 找新地址",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +72,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +87,60 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 分销 20%：LEUNIG GmbH（HRB 1531 Siegburg；1980；Hennef；GF Hermann-J. Vester；KVM / 线缆 / 工业网络，Moxa 线）坐实；对位 ✔ 主区 ✔ 坐实 ✔ 体量 ✔（45 年批发）→ P 池候选；先换 sales@leunig.de 公开地址",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "DE · 1 次检索：firmendatenbanken.de/unternehmen/detail/336211/leunig-gmbh（HRB 1531 Siegburg；DE123112391；GF Josef Hermann Vester）+ elektro-einkaufsfuehrer.de（Gründungsjahr 1980；sales@leunig.de；+49 2242 93389-0）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.firmendatenbanken.de/unternehmen/detail/336211/leunig-gmbh.htm"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "LEUNIG GmbH",
+  "reg_no": "HRB 1531（Siegburg）；USt DE123112391",
+  "status": "营业中（名录 + 官网）",
+  "incorporated": "1980",
+  "company_type": "GmbH",
+  "address": "Sanddornweg 8b, 53773 Hennef, Nordrhein-Westfalen",
+  "size_band": "小型 / 中型",
+  "officers": [
+   "Hermann-J. (Josef Hermann) Vester — Geschäftsführer（名录；无公开邮箱）",
+   "（sales@leunig.de 官网公开邮箱 = 收件人）"
+  ],
+  "psc": "未取",
+  "source": "DE · 1 次检索：firmendatenbanken.de/unternehmen/detail/336211/leunig-gmbh（HRB 1531 Siegburg；DE123112391；GF Josef Hermann Vester）+ elektro-einkaufsfuehrer.de（Gründungsjahr 1980；sales@leunig.de；+49 2242 93389-0）；2026-10-29",
+  "url": "https://www.firmendatenbanken.de/unternehmen/detail/336211/leunig-gmbh.htm",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "KVM / 接口 / 数据线缆 + 工业网络（Moxa 分销）批发"
+ ],
+ "channels": {
+  "网站": "https://leunig.de",
+  "直邮": "sales@leunig.de（表内）"
+ },
+ "signals": [
+  "德国 Leunig（工业 FS / MC / 串口，主要卖 Moxa）：德国主区 + 工业网络分销主体 + 对位 ✔；曾退信但域名正常 → 闸 2 查底数 + 找新地址",
+  "表内兴趣：工业FS MC 串口\n主要卖Moxa的设备"
+ ],
+ "risks": [
+  "**工业网络分销（Moxa 线）→ 分销 20%：一页纸一次（STI-154GP / STI-288GPM 工业管理 + STI-0240GE 一口价 + MOQ 1 + 付费样机；Moxa 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；回信即升"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

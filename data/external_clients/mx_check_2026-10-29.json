@@ -1,0 +1,8158 @@
+{
+ "_meta": {
+  "checked": "2026-10-29",
+  "source": "DNS MX/A 查询（dnspython，沙箱解析器）",
+  "domains": 628,
+  "status_counts": {
+   "ok": 591,
+   "no_mx": 30,
+   "nxdomain": 5,
+   "error:NoNameservers": 1,
+   "dead": 1
+  }
+ },
+ "domains": {
+  "100mega.cz": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "100mega-cz.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "1rti.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "1rti-com.mail.protection.outlook.com"
+    ],
+    [
+     10,
+     "rti1-mx-01.1rti.com"
+    ],
+    [
+     10,
+     "rti2-mx-01.1rti.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "2direct.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "owa.2direct.de"
+    ],
+    [
+     20,
+     "mx00.kundenserver.de"
+    ],
+    [
+     21,
+     "mx01.kundenserver.de"
+    ]
+   ],
+   "status": "ok"
+  },
+  "2iibm-tech.fr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "2iibm-tech.fr"
+    ]
+   ],
+   "status": "ok"
+  },
+  "3mstar.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "ASPMX.L.GOOGLE.com"
+    ],
+    [
+     5,
+     "ALT1.ASPMX.L.GOOGLE.com"
+    ],
+    [
+     5,
+     "ALT2.ASPMX.L.GOOGLE.com"
+    ],
+    [
+     10,
+     "ALT3.ASPMX.L.GOOGLE.com"
+    ],
+    [
+     10,
+     "ALT4.ASPMX.L.GOOGLE.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "3net.rs": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "3net.rs"
+    ]
+   ],
+   "status": "ok"
+  },
+  "4mimo.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "4mimo.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "4netonline.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "4netonline-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "4service.cz": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "5g-it.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "5git-de0e.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "5gstore.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "aspmx2.googlemail.com"
+    ],
+    [
+     10,
+     "aspmx3.googlemail.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "aaaqest.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     20,
+     "mx.zoho.com"
+    ],
+    [
+     30,
+     "mx2.zoho.com"
+    ],
+    [
+     50,
+     "mx3.zoho.com"
+    ],
+    [
+     80,
+     "mail.aaaqest.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "aacgroup.com.my": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "aspmx2.googlemail.com"
+    ],
+    [
+     10,
+     "aspmx3.googlemail.com"
+    ],
+    [
+     10,
+     "aspmx4.googlemail.com"
+    ],
+    [
+     10,
+     "aspmx5.googlemail.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "aajones.co.uk": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx1-eu.emailsecurity.app"
+    ],
+    [
+     20,
+     "mx2-eu.emailsecurity.app"
+    ]
+   ],
+   "status": "ok"
+  },
+  "abes.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.abes.it"
+    ]
+   ],
+   "status": "ok"
+  },
+  "abovenet.com.br": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "abovenet-com-br.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "abptech.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "aspmx2.googlemail.com"
+    ],
+    [
+     10,
+     "aspmx3.googlemail.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "absolcom.hu": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "mail.absolcom.hu"
+    ]
+   ],
+   "status": "ok"
+  },
+  "accdistribution.eu": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "accdistribution-eu.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "accesspoint.hu": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "accesspoint-hu.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "accyotta.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "accyotta-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "acevegatechnologies.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "acevegatechnologies-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "activelk.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.spamexperts.com"
+    ],
+    [
+     20,
+     "fallbackmx.spamexperts.eu"
+    ],
+    [
+     30,
+     "lastmx.spamexperts.net"
+    ]
+   ],
+   "status": "ok"
+  },
+  "actn.fr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "actn-fr.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "adconengineering.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "adconengineering-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "adeptor.no": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "adeptor-no.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "adiglobal.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "adiglobal-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "adrianetsrl.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.adrianetsrl.it"
+    ]
+   ],
+   "status": "ok"
+  },
+  "advancedhpc.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "advancedhpc-com.mail.eo.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "aginformaticasrl.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "seth27-b.seeweb.it"
+    ],
+    [
+     20,
+     "smtp-avas.seeweb.it"
+    ]
+   ],
+   "status": "ok"
+  },
+  "agomir.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "agomir-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "aikomtech.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "ASPMX.L.GOOGLE.com"
+    ],
+    [
+     5,
+     "ALT1.ASPMX.L.GOOGLE.com"
+    ],
+    [
+     5,
+     "ALT2.ASPMX.L.GOOGLE.com"
+    ],
+    [
+     10,
+     "ALT3.ASPMX.L.GOOGLE.com"
+    ],
+    [
+     10,
+     "ALT4.ASPMX.L.GOOGLE.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "airicom.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx1.airicom.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "alarm-as.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "alarmas-de01c.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "alcoidstein.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "alcoidstein-de.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "alfaextranet.pl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.alfaextranet.pl"
+    ]
+   ],
+   "status": "ok"
+  },
+  "alfasystems.be": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.mailprotect.be"
+    ],
+    [
+     50,
+     "mx.backup.mailprotect.be"
+    ]
+   ],
+   "status": "ok"
+  },
+  "allnet-italia.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "allnetitalia-it01e.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "allnetfrance.fr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "allnetfrance-fr.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "almas-industries.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx00.kundenserver.de"
+    ],
+    [
+     10,
+     "mx01.kundenserver.de"
+    ]
+   ],
+   "status": "ok"
+  },
+  "alpha-motion.gr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.otenet.gr"
+    ],
+    [
+     15,
+     "mx2.otenet.gr"
+    ],
+    [
+     25,
+     "mx3.otenet.gr"
+    ],
+    [
+     30,
+     "mx4.otenet.gr"
+    ]
+   ],
+   "status": "ok"
+  },
+  "alphacron.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "gulvmoppe.alphacron.de"
+    ]
+   ],
+   "status": "ok"
+  },
+  "ampliteltech.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "mx1-us1.ppe-hosted.com"
+    ],
+    [
+     1,
+     "mx2-us1.ppe-hosted.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "amro.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "amro-de.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "aplus-sa.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     5,
+     "aplussa-com01c.mail.eo.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "artekcomputer.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.zoho.com"
+    ],
+    [
+     20,
+     "mx2.zoho.com"
+    ],
+    [
+     50,
+     "mx3.zoho.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "asacomputers.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "asacomputers-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "asap.bg": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "asap-bg.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "aspect.com.mk": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "mail.aspect.com.mk"
+    ]
+   ],
+   "status": "ok"
+  },
+  "assmann.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "mxa-0091e701.gslb.pphosted.com"
+    ],
+    [
+     10,
+     "mxb-0091e701.gslb.pphosted.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "atcautomation.ie": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "atcautomation-ie.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "atcmarket.cz": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     3,
+     "mx4.atcomp.cz"
+    ],
+    [
+     5,
+     "mx3.atcomp.cz"
+    ]
+   ],
+   "status": "ok"
+  },
+  "atec-security.co.uk": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "atecsecurity-co-uk01b.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "ateg.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     50,
+     "mx0.ateg.de"
+    ]
+   ],
+   "status": "ok"
+  },
+  "atesystem.cz": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "atesystem-cz.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "atl-corp.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "atlcorp-com0i.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "atl-electronics.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "atlelectronics-com0i.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "atysco.hu": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "atysco-hu.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "autic.no": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "autic-no.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "automatec.cl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "automatec.cl"
+    ]
+   ],
+   "status": "ok"
+  },
+  "automatikoscentras.lt": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "makadamija.serveriai.lt"
+    ]
+   ],
+   "status": "ok"
+  },
+  "automationexperts.gr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.otenet.gr"
+    ],
+    [
+     15,
+     "mx2.otenet.gr"
+    ],
+    [
+     25,
+     "mx3.otenet.gr"
+    ],
+    [
+     30,
+     "mx4.otenet.gr"
+    ]
+   ],
+   "status": "ok"
+  },
+  "avelution.nl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "avelution-nl.mail.protection.outlook.com"
+    ],
+    [
+     10,
+     "mailcleaner01.creativecreation.nl"
+    ],
+    [
+     10,
+     "mailcleaner02.creativecreation.nl"
+    ]
+   ],
+   "status": "ok"
+  },
+  "avtera.ba": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "avtera-ba.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "axtek.hu": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "ASPMX.L.GOOGLE.COM"
+    ],
+    [
+     5,
+     "ALT1.ASPMX.L.GOOGLE.COM"
+    ],
+    [
+     5,
+     "ALT2.ASPMX.L.GOOGLE.COM"
+    ],
+    [
+     10,
+     "ALT3.ASPMX.L.GOOGLE.COM"
+    ],
+    [
+     10,
+     "ALT4.ASPMX.L.GOOGLE.COM"
+    ]
+   ],
+   "status": "ok"
+  },
+  "ayn.sa": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "ayn-sa.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "aytechnology.org": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     5,
+     "mx1.hostinger.com"
+    ],
+    [
+     10,
+     "mx2.hostinger.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "azitech.ae": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "azitech-ae.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "azrait.sa": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     5,
+     "Smtp.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "b2b.elkotex.si": {
+   "checked": "2026-10-29",
+   "a": [
+    "172.67.199.129",
+    "104.21.68.229"
+   ],
+   "status": "no_mx"
+  },
+  "bachert.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "bachert-de.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "baien.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx00.ionos.de"
+    ],
+    [
+     10,
+     "mx01.ionos.de"
+    ]
+   ],
+   "status": "ok"
+  },
+  "balticnetworks.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "smtp.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "bcd.com.ar": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "bclenterprise.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "bclenterprise-com.mail.protection.outlook.com"
+    ],
+    [
+     10,
+     "mx1-us1.ppe-hosted.com"
+    ],
+    [
+     20,
+     "mx2-us1.ppe-hosted.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "berdin.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     5,
+     "smtp.sarenet.es"
+    ]
+   ],
+   "status": "ok"
+  },
+  "berg-duda.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx00.ionos.de"
+    ],
+    [
+     10,
+     "mx01.ionos.de"
+    ]
+   ],
+   "status": "ok"
+  },
+  "bestofautomation.at": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx00.ionos.de"
+    ],
+    [
+     10,
+     "mx01.ionos.de"
+    ]
+   ],
+   "status": "ok"
+  },
+  "bluebearsit.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "bluebearsit-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "bluechip.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     17,
+     "mgw03.bluechip.de"
+    ],
+    [
+     18,
+     "mgw01.bluechip.de"
+    ],
+    [
+     20,
+     "mgw02.bluechip.de"
+    ]
+   ],
+   "status": "ok"
+  },
+  "bluecorenetworks.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "aspmx.l.google.com"
+    ],
+    [
+     20,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     30,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     40,
+     "aspmx2.googlemail.com"
+    ],
+    [
+     50,
+     "aspmx3.googlemail.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "bluehelix.co.uk": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "bluehelix-co-uk.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "bod-networks.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "bodnetworks-com0i.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "broadbandbuyer.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "smtp.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "brsnetworks.se": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "brsnetworks-se.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "buerodata.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx1.buerodata.de"
+    ]
+   ],
+   "status": "ok"
+  },
+  "bytec.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.bytec.de"
+    ]
+   ],
+   "status": "ok"
+  },
+  "bytesolutions.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx129a.serverlet.com"
+    ],
+    [
+     10,
+     "mx129b.serverlet.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "c1vhosting.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "ns1.c1vhosting.it"
+    ],
+    [
+     30,
+     "ns2.c1vhosting.it"
+    ]
+   ],
+   "status": "ok"
+  },
+  "c2f.pt": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mxc.meoempresas.pt"
+    ],
+    [
+     10,
+     "mxp.meoempresas.pt"
+    ]
+   ],
+   "status": "ok"
+  },
+  "ca-dc.uz": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.ca-dc.uz"
+    ]
+   ],
+   "status": "ok"
+  },
+  "cableworks.gr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "cableworks-gr.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "cambridgecomputer.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "aspmx.l.google.com"
+    ],
+    [
+     20,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     20,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     30,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     30,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "camelisat.it与0564": {
+   "checked": "2026-10-29",
+   "status": "nxdomain"
+  },
+  "camera.lk": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "mail.camera.lk"
+    ]
+   ],
+   "status": "ok"
+  },
+  "caymanwireless.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "caymanwireless-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "cbtcompany.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "cbtcompany-com.mx1.arsmtp.com"
+    ],
+    [
+     20,
+     "cbtcompany-com.mx2.arsmtp.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "cctech.ng": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.zoho.com"
+    ],
+    [
+     20,
+     "mx2.zoho.com"
+    ],
+    [
+     50,
+     "mx3.zoho.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "cctv-direct.co.za": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "mx1-usg2.ppe-hosted.com"
+    ],
+    [
+     0,
+     "mx2-usg2.ppe-hosted.com"
+    ],
+    [
+     0,
+     "mx3-usg2.ppe-hosted.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "cctvburada.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "cctvphilippines.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     5,
+     "mx1.hostinger.com"
+    ],
+    [
+     10,
+     "mx2.hostinger.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "celeris-informatique.fr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "celerisinformatique-fr01i.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "cfigroupe.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     5,
+     "mx-mibc-fr-03.mailinblack.com"
+    ],
+    [
+     100,
+     "mx-mibc-fr-03.mailinblack.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "cfking.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "shared022.arvixe.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "cgtelettronica.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "circleb.eu": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "circleb-eu.mail.protection.outlook.COM"
+    ]
+   ],
+   "status": "ok"
+  },
+  "ciudadwireless.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "correo.ciudadwireless.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "claytonengineering.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "p.webcom.ctmail.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "cntindia.net": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "mail.cntindia.net"
+    ]
+   ],
+   "status": "ok"
+  },
+  "cogentdistribution.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "cogentdistribution-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "colfaxdirect.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "colfaxdirect-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "comdiel.cl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     5,
+     "mail2.viared.cl"
+    ],
+    [
+     10,
+     "mail1.viared.cl"
+    ]
+   ],
+   "status": "ok"
+  },
+  "comicon.bg": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "spamexpert01.host.bg"
+    ],
+    [
+     10,
+     "spamexpert02.host.bg"
+    ]
+   ],
+   "status": "ok"
+  },
+  "compass-distribution.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "esva.spazio011.it"
+    ]
+   ],
+   "status": "ok"
+  },
+  "compdata.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx01.hornetsecurity.com"
+    ],
+    [
+     20,
+     "mx02.hornetsecurity.com"
+    ],
+    [
+     30,
+     "mx03.hornetsecurity.com"
+    ],
+    [
+     40,
+     "mx04.hornetsecurity.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "compmarket.hu": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     5,
+     "webmail.compmarket.hu"
+    ]
+   ],
+   "status": "ok"
+  },
+  "computergross.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "computergross-it.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "connect-ics.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "mail.connectics.info"
+    ]
+   ],
+   "status": "ok"
+  },
+  "connectdata.fr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "connectdata-fr.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "contratechnology.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "mail.contratechnology.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "controllerservice.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "controllerservice-com.mx1.arsmtp.com"
+    ],
+    [
+     20,
+     "controllerservice-com.mx2.arsmtp.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "controltech.uk.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx1-eu1.ppe-hosted.com"
+    ],
+    [
+     20,
+     "mx2-eu1.ppe-hosted.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "controsys.hu": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "pmx.megacp.com"
+    ],
+    [
+     5,
+     "smx.megacp.com"
+    ],
+    [
+     10,
+     "bmx.megacp.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "convergence.direct": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "convergence-direct.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "cookandboardman.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "cookandboardman-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "coretech-me.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "imap.coretech-me.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "cppb.nl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "primary.yourfilter.nl"
+    ],
+    [
+     20,
+     "fallback.yourfilter.nl"
+    ]
+   ],
+   "status": "ok"
+  },
+  "ctcsystems.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "ctcsystems-it.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "ctdconnect.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "ctdconnect-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "cticonnect.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "d339631a.ess.barracudanetworks.com"
+    ],
+    [
+     20,
+     "d339631b.ess.barracudanetworks.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "ctime.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "esva.ctime.it"
+    ]
+   ],
+   "status": "ok"
+  },
+  "dael.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "dael-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "databox.pt": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "databox-pt.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "datainmotion.co.th": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "aspmx2.googlemail.com"
+    ],
+    [
+     10,
+     "aspmx3.googlemail.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "datalinkcom.net": {
+   "checked": "2026-10-29",
+   "a": [
+    "172.67.182.154",
+    "104.21.32.35"
+   ],
+   "status": "no_mx"
+  },
+  "datamonitor.fi": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "dns.adfi.cloud"
+    ]
+   ],
+   "status": "ok"
+  },
+  "datanets.ro": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx01.datanets.ro"
+    ],
+    [
+     20,
+     "mx02.datanets.ro"
+    ]
+   ],
+   "status": "ok"
+  },
+  "dataone.com.my": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "dataone-com-my.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "datel-dessau.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "post.datel-dessau.de"
+    ]
+   ],
+   "status": "ok"
+  },
+  "dds-computer.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx00.ionos.de"
+    ],
+    [
+     10,
+     "mx01.ionos.de"
+    ]
+   ],
+   "status": "ok"
+  },
+  "deca-consulting.be": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "aspmx2.googlemail.com"
+    ],
+    [
+     10,
+     "aspmx3.googlemail.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "decoit.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.decoit.de"
+    ],
+    [
+     20,
+     "mail.decoit.de"
+    ]
+   ],
+   "status": "ok"
+  },
+  "deinta.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "deinta-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "deltasertec.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "deltasertec-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "digicomm.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "mx1-us1.ppe-hosted.com"
+    ],
+    [
+     10,
+     "mx2-us1.ppe-hosted.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "digimarkbd.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "digimarkbd-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "digital-cctv.biz": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     9,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     9,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "digitalcontrols.biz": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx1.cloudhosting.uk"
+    ],
+    [
+     20,
+     "mx2.cloudhosting.uk"
+    ]
+   ],
+   "status": "ok"
+  },
+  "digitalsima.gr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "mx4.mailgr.gr"
+    ],
+    [
+     0,
+     "mx5.mailgr.gr"
+    ],
+    [
+     10,
+     "mx1.mailgr.gr"
+    ],
+    [
+     10,
+     "mx2.mailgr.gr"
+    ],
+    [
+     15,
+     "antispam.mailgr.gr"
+    ]
+   ],
+   "status": "ok"
+  },
+  "digitx.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.digitx.it"
+    ]
+   ],
+   "status": "ok"
+  },
+  "dipolnet.ro": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.dipol.com.pl"
+    ]
+   ],
+   "status": "ok"
+  },
+  "discomp.cz": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "discomp-cz.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "distec.co.uk": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "distec-co-uk.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "distribution.phoebe.fr": {
+   "checked": "2026-10-29",
+   "a": [
+    "213.186.33.17"
+   ],
+   "status": "no_mx"
+  },
+  "distrigoinc.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.zoho.com"
+    ],
+    [
+     20,
+     "mx2.zoho.com"
+    ],
+    [
+     50,
+     "mx3.zoho.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "ditecom.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.serviciodecorreo.es"
+    ]
+   ],
+   "status": "ok"
+  },
+  "dmi.es": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "dmi-es.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "dnet-distribution.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "dnetdistribution-com01b.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "doubleradius.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "aspmx.l.google.com"
+    ],
+    [
+     20,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     20,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     30,
+     "aspmx2.googlemail.com"
+    ],
+    [
+     30,
+     "aspmx3.googlemail.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "dpsinformatica.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx1.ot-mail.it"
+    ],
+    [
+     20,
+     "mailbox15.omitech.it"
+    ]
+   ],
+   "status": "ok"
+  },
+  "draytek.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mailgw1.univorx.de"
+    ]
+   ],
+   "status": "ok"
+  },
+  "dreamsnw.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     38,
+     "route1.mx.cloudflare.net"
+    ],
+    [
+     69,
+     "route2.mx.cloudflare.net"
+    ],
+    [
+     78,
+     "route3.mx.cloudflare.net"
+    ]
+   ],
+   "status": "ok"
+  },
+  "dresdner-prosoft.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "dresdnerprosoft-com02b.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "dsngsystem.co.kr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.dsngsystem.co.kr"
+    ],
+    [
+     10,
+     "mailapp.hiworks.co.kr"
+    ]
+   ],
+   "status": "ok"
+  },
+  "dssi.pt": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx-01-us-west-2.prod.hydra.sophos.com"
+    ],
+    [
+     20,
+     "mx-02-us-west-2.prod.hydra.sophos.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "eac-ns.co.uk": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "01esva.uk1.eac-services.co.uk"
+    ],
+    [
+     10,
+     "02esva.uk2.eac-services.co.uk"
+    ]
+   ],
+   "status": "ok"
+  },
+  "easynetwork.co.th": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "ASPMX.L.GOOGLE.COM"
+    ],
+    [
+     5,
+     "ALT1.ASPMX.L.GOOGLE.COM"
+    ],
+    [
+     5,
+     "ALT2.ASPMX.L.GOOGLE.COM"
+    ],
+    [
+     10,
+     "ALT3.ASPMX.L.GOOGLE.COM"
+    ],
+    [
+     10,
+     "ALT4.ASPMX.L.GOOGLE.COM"
+    ]
+   ],
+   "status": "ok"
+  },
+  "edongil.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.edongil.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "edox.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "edox-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "edshop.edsystem.cz": {
+   "checked": "2026-10-29",
+   "a": [
+    "194.212.230.11"
+   ],
+   "status": "no_mx"
+  },
+  "edvpartner.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     20,
+     "mail.edvpartner.de"
+    ]
+   ],
+   "status": "ok"
+  },
+  "efa.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     5,
+     "efa-it.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "egelectronics.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "egelectronics-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "ekanet.es": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx00.ionos.es"
+    ],
+    [
+     10,
+     "mx01.ionos.es"
+    ]
+   ],
+   "status": "ok"
+  },
+  "electrobit.ee": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "ASPMX.L.GOOGLE.COM"
+    ],
+    [
+     5,
+     "ALT1.ASPMX.L.GOOGLE.COM"
+    ],
+    [
+     5,
+     "ALT2.ASPMX.L.GOOGLE.COM"
+    ],
+    [
+     10,
+     "ALT3.ASPMX.L.GOOGLE.COM"
+    ],
+    [
+     10,
+     "ALT4.ASPMX.L.GOOGLE.COM"
+    ]
+   ],
+   "status": "ok"
+  },
+  "electroitservices.net": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "electroitservices.net"
+    ]
+   ],
+   "status": "ok"
+  },
+  "elmat.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "elmat-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "eltrox.pl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "e-commercepartners.home.pl"
+    ]
+   ],
+   "status": "ok"
+  },
+  "emiliainformatica.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail2.emiliainformatica.it"
+    ],
+    [
+     20,
+     "mail.emiliainformatica.it"
+    ],
+    [
+     30,
+     "mail3.emiliainformatica.it"
+    ]
+   ],
+   "status": "ok"
+  },
+  "emirtech.ae": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "emirtech-ae.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "engitech.ch": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "email1.engitech.ch"
+    ]
+   ],
+   "status": "ok"
+  },
+  "epcom.net": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "eps-vertrieb.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "epsvertrieb-de0i.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "eptimo.pl": {
+   "checked": "2026-10-29",
+   "a": [
+    "104.18.12.200",
+    "104.18.13.200"
+   ],
+   "status": "no_mx"
+  },
+  "equipages.fr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "equipages-fr.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "es.laufquen.com": {
+   "checked": "2026-10-29",
+   "a": [
+    "34.176.107.219"
+   ],
+   "status": "no_mx"
+  },
+  "esotec.co.uk": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "esotec-co-uk.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "etech.com.my": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "etech-com-my.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "eulogic.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "eulogic-it.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "eurodk.lv": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.yandex.net"
+    ]
+   ],
+   "status": "ok"
+  },
+  "euroele.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     5,
+     "euroele-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "evdi.fr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "evdi-fr.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "evelem.fr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.zoho.eu"
+    ],
+    [
+     20,
+     "mx2.zoho.eu"
+    ],
+    [
+     30,
+     "mx3.zoho.eu"
+    ]
+   ],
+   "status": "ok"
+  },
+  "evergreen1.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.evergreen1.it"
+    ]
+   ],
+   "status": "ok"
+  },
+  "evollabs.tech": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "d4745.dxb1.stableserver.net"
+    ]
+   ],
+   "status": "ok"
+  },
+  "evonet.at": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx1.mtaroutes.com"
+    ],
+    [
+     20,
+     "mx2.mtaroutes.com"
+    ],
+    [
+     30,
+     "mx3.mtaroutes.com"
+    ],
+    [
+     40,
+     "mx4.mtaroutes.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "expert.hu": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "expert-hu.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "farpoint.eu": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "in.arubabusiness.it"
+    ]
+   ],
+   "status": "ok"
+  },
+  "fget.fr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     5,
+     "mx-mibc-fr-09.mailinblack.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "fiberget.by": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mailbe02.hoster.by"
+    ]
+   ],
+   "status": "ok"
+  },
+  "fiberm.pl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.fiberm.pl"
+    ]
+   ],
+   "status": "ok"
+  },
+  "fioresrl.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx-01-eu-central-1.prod.hydra.sophos.com"
+    ],
+    [
+     10,
+     "mx-02-eu-central-1.prod.hydra.sophos.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "fiseg.fi": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "fiseg-fi.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "fiveinformatik.ch": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "fiveinformatik-ch.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "fletcher.prendergast": {
+   "checked": "2026-10-29",
+   "status": "nxdomain"
+  },
+  "fonex.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "fonex-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "fonperu.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mxgw01.avinda.pe"
+    ]
+   ],
+   "status": "ok"
+  },
+  "formatik.at": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "formatik-at.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "fortshpejt.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "aspmx2.googlemail.com"
+    ],
+    [
+     10,
+     "aspmx3.googlemail.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "foxconcept.be": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "mx1.foxconcept.be"
+    ]
+   ],
+   "status": "ok"
+  },
+  "freeclix.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "freeclix-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "fyr-systems.pl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "fyr-systems.pl"
+    ]
+   ],
+   "status": "ok"
+  },
+  "gbeconverge.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mxa-008df802.gslb.pphosted.com"
+    ],
+    [
+     10,
+     "mxb-008df802.gslb.pphosted.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "gci.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     5,
+     "mailgw2.gci.it"
+    ],
+    [
+     50,
+     "mailgw3.gci.it"
+    ]
+   ],
+   "status": "ok"
+  },
+  "gcntech.ie": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "mail.gcntech.ie"
+    ]
+   ],
+   "status": "ok"
+  },
+  "gctlsecurity.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "mx.zoho.com"
+    ],
+    [
+     10,
+     "mx2.zoho.com"
+    ],
+    [
+     30,
+     "mx3.zoho.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "gecopra.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.gecopra.it"
+    ]
+   ],
+   "status": "ok"
+  },
+  "geotechnology.pl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "geotechnology-pl.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "get4lessghana.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "smtp.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "geutebrueck.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     30,
+     "geutebrueck-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "gictronics.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "gictronics.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "gisimp.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "gisimp-it.mail.eo.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "gntme.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     5,
+     "mx1.hostinger.com"
+    ],
+    [
+     10,
+     "mx2.hostinger.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "goledrium.cl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "goma.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "goma-it.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "gorettitechnologicalsystems.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.gorettitechnologicalsystems.it"
+    ]
+   ],
+   "status": "ok"
+  },
+  "greencube.com.np": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "greencube-com-np.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "griffonsecurity.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "griffonsecurity-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "groupenetworks.fr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "groupenetworks-fr.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "grupocontrol.co": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "mail.grupocontrol.co"
+    ]
+   ],
+   "status": "ok"
+  },
+  "grupolineasycables.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "grupolineasycables-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "gtd-international.fr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "mx1.mail.ovh.net"
+    ],
+    [
+     5,
+     "mx2.mail.ovh.net"
+    ],
+    [
+     100,
+     "mx3.mail.ovh.net"
+    ]
+   ],
+   "status": "ok"
+  },
+  "guedeslopes.pt": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "gulfhorizontele.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "mail.gulfhorizontele.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "hardwarenation.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "hardwarenation-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "hartford-electronics.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx00.ionos.de"
+    ],
+    [
+     10,
+     "mx01.ionos.de"
+    ]
+   ],
+   "status": "ok"
+  },
+  "hattelandtechnology.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "hattelandtechnology-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "hawkvision.co.ke": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "hawkvision.co.ke"
+    ]
+   ],
+   "status": "ok"
+  },
+  "hcm.vnn.vn": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.vnptemail.vn"
+    ]
+   ],
+   "status": "ok"
+  },
+  "hdtechnology.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     5,
+     "hdtechnology-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "hellascom.gr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "aspmx.l.google.com"
+    ],
+    [
+     10,
+     "aspmx2.googlemail.com"
+    ],
+    [
+     10,
+     "aspmx3.googlemail.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "hellasdigital.gr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "smtp.hellasdigital.gr"
+    ]
+   ],
+   "status": "ok"
+  },
+  "hexstar.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "hexstar-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "hightechnordic.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "hightechnordic-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "hikvision-singapore.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "hikvision-singapore.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "hiperdistuae.com": {
+   "checked": "2026-10-29",
+   "a": [
+    "35.214.252.238"
+   ],
+   "status": "no_mx"
+  },
+  "hk.kim": {
+   "checked": "2026-10-29",
+   "status": "nxdomain"
+  },
+  "hm-electronics.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     20,
+     "hmelectronics-de0e.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "holkerit.co.uk": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "mx1-eu.emailsecurity.app"
+    ],
+    [
+     10,
+     "mx2-eu.emailsecurity.app"
+    ]
+   ],
+   "status": "ok"
+  },
+  "hpicorp.com.tw": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mailspam.hpicorp.com.tw"
+    ]
+   ],
+   "status": "ok"
+  },
+  "hsc-solutions.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "hscsolutions-de0i.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "huashusg.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     5,
+     "mx1.qiye.aliyun.com"
+    ],
+    [
+     10,
+     "mx2.qiye.aliyun.com"
+    ],
+    [
+     15,
+     "mx3.qiye.aliyun.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "hug.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "hug-de.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "humanart-kyocera.de": {
+   "checked": "2026-10-29",
+   "status": "nxdomain"
+  },
+  "hye.com.ph": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "SMTP.GOOGLE.COM"
+    ]
+   ],
+   "status": "ok"
+  },
+  "hyvisionuae.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "i-alarmsysteme.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "i-alarmsysteme-com.mail.cloud.nospamproxy.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "ict-international.ae": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "ictinternational-ae0i.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "ictdistribution.net": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "cloud-057ea9.managed-vps.net"
+    ]
+   ],
+   "status": "ok"
+  },
+  "idisglobal.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "ificonsulting.eu": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     5,
+     "as1.cloud.ificonsulting.eu"
+    ],
+    [
+     5,
+     "as2.cloud.ificonsulting.eu"
+    ]
+   ],
+   "status": "ok"
+  },
+  "ikencomputers.co.ke": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "_dc-mx.be7cc9a3e245.ikencomputers.co.ke"
+    ]
+   ],
+   "status": "ok"
+  },
+  "imperialelectric.ro": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "imperialelectric.ro"
+    ]
+   ],
+   "status": "ok"
+  },
+  "in4a.co.kr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx01.mailplug.com"
+    ],
+    [
+     20,
+     "mx02.mailplug.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "indexci.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail-fr.securemail.pro"
+    ]
+   ],
+   "status": "ok"
+  },
+  "indsol.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "indsol-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "inducio-services.net": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mailcleaner.inducio-services.net"
+    ]
+   ],
+   "status": "ok"
+  },
+  "industrialcomms.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx101.everycloudtech.com"
+    ],
+    [
+     20,
+     "mx102.everycloudtech.com"
+    ],
+    [
+     30,
+     "mx103.everycloudtech.com"
+    ],
+    [
+     40,
+     "mx104.everycloudtech.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "industry-electronics.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.industry-electronics.de"
+    ],
+    [
+     20,
+     "industry--electronics-de.mx2.arsmtp.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "infinitetechnology.ie": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     5,
+     "mx1-eu.emailsecurity.app"
+    ],
+    [
+     20,
+     "mx2-eu.emailsecurity.app"
+    ]
+   ],
+   "status": "ok"
+  },
+  "infortisa.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "infortisa-com.mail.eo.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "ingesw.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "ingesw-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "inseid.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "inseid-de.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "insighttechintl.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     5,
+     "mx1.hostinger.com"
+    ],
+    [
+     10,
+     "mx2.hostinger.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "instec.ae": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "intcomex.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "intcomex-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "internationaltradecarrier.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "mx1.mailchannels.net"
+    ],
+    [
+     0,
+     "mx2.mailchannels.net"
+    ]
+   ],
+   "status": "ok"
+  },
+  "interprojekt.pl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     5,
+     "mx.interprojekt.pl"
+    ],
+    [
+     10,
+     "mx2.interprojekt.pl"
+    ]
+   ],
+   "status": "ok"
+  },
+  "interstroom.nl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx1.hostedsecurity.nl"
+    ],
+    [
+     10,
+     "mx2.hostedsecurity.nl"
+    ],
+    [
+     20,
+     "mx3.hostedsecurity.nl"
+    ],
+    [
+     20,
+     "mx4.hostedsecurity.nl"
+    ]
+   ],
+   "status": "ok"
+  },
+  "intrugrid.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "intrugrid-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "invictuswireless.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "invictuswireless.com.1.0001.arsmtp.com"
+    ],
+    [
+     20,
+     "invictuswireless.com.2.0001.arsmtp.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "irenesrl.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.collabra.it"
+    ]
+   ],
+   "status": "ok"
+  },
+  "irishwireless.net": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "irishwireless-net.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "it-revolutions.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     5,
+     "inbound3.it-revolutions.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "itamtech.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "itamtech-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "itc.com.vn": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.itc.com.vn"
+    ],
+    [
+     20,
+     "mail90115.maychuemail.com"
+    ],
+    [
+     30,
+     "mx90115.maychuemail.net"
+    ],
+    [
+     40,
+     "backup.itc.com.vn"
+    ]
+   ],
+   "status": "ok"
+  },
+  "itni.fr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     5,
+     "smtp1.itni.fr"
+    ],
+    [
+     5,
+     "smtp2.itni.fr"
+    ]
+   ],
+   "status": "ok"
+  },
+  "ittrust.at": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "safemail-inib.nanet.at"
+    ]
+   ],
+   "status": "ok"
+  },
+  "itwarehouse.ph": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "smtp.google.com"
+    ],
+    [
+     15,
+     "ddreir6v7yuckfqtjdq2xvdpz64utqcx2amfaynhyzxhfluh6evq.mx-verification.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "ivoryegg.co.uk": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "ivoryegg-co-uk.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "ivprodistribution.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx1.privateemail.com"
+    ],
+    [
+     10,
+     "mx2.privateemail.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "jampel.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "jampel-it.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "jashomer.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "jashomer-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "jbnsecurity.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "jbnsecurity-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "jellyfishbroadband.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "jellyfishbroadband-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "jmconsulting.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "jmconsulting-it.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "jrp.co.th": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "mx.zoho.com"
+    ],
+    [
+     20,
+     "mx2.zoho.com"
+    ],
+    [
+     50,
+     "mx3.zoho.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "kappadata.be": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "d97661a.ess.barracudanetworks.com"
+    ],
+    [
+     50,
+     "d97661b.ess.barracudanetworks.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "kerberos.hr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "mail.kerberos.hr"
+    ]
+   ],
+   "status": "ok"
+  },
+  "kernel.ee": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "ns.kernel.ee"
+    ]
+   ],
+   "status": "ok"
+  },
+  "khaleejalawwal.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "khaleejalawwal-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "kidwellinc.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "d108153a.ess.barracudanetworks.com"
+    ],
+    [
+     10,
+     "d108153b.ess.barracudanetworks.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "knt.biz.pl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "knt-biz-pl.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "konexindo.co.id": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "konexindo.co.id"
+    ]
+   ],
+   "status": "ok"
+  },
+  "koningenhartman.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     5,
+     "koningenhartman-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "kosatec.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx11a.antispameurope.de"
+    ],
+    [
+     20,
+     "mx11b.antispameurope.de"
+    ],
+    [
+     30,
+     "mx11c.antispameurope.de"
+    ],
+    [
+     40,
+     "mx11d.antispameurope.de"
+    ]
+   ],
+   "status": "ok"
+  },
+  "kridahastatama.web.indotrading.com": {
+   "checked": "2026-10-29",
+   "a": [
+    "8.219.118.121"
+   ],
+   "status": "no_mx"
+  },
+  "kws-partner.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "kwspartner-de0i.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "lakelandengineering.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "lakelandengineering-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "lanoasis.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mailapp.hiworks.co.kr"
+    ]
+   ],
+   "status": "ok"
+  },
+  "lastmile.no": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "lastmile-no.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "lcautomation.com": {
+   "checked": "2026-10-29",
+   "a": [
+    "81.144.28.66"
+   ],
+   "status": "no_mx"
+  },
+  "leadernet.es": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "leadernet-es.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "lexis.gr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "lexis-gr.mail.protection.outlook.com"
+    ],
+    [
+     10,
+     "mail.lexis.gr"
+    ],
+    [
+     20,
+     "relay.otenet.gr"
+    ]
+   ],
+   "status": "ok"
+  },
+  "lextron.nl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "lextron-nl.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "libernet.nl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "liberty-i.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "liberty-i.com.1.0001.arsmtp.com"
+    ],
+    [
+     20,
+     "liberty-i.com.2.0001.arsmtp.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "lloret.co.uk": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "lloret-co-uk.n-v1.mx.microsoft"
+    ]
+   ],
+   "status": "ok"
+  },
+  "localnet.fi": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "localnet-fi.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "localnettoscana.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "localnettoscana-it.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "logic-control.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     5,
+     "logiccontrol-com01c.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "loiheng.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "aspmx.l.google.com"
+    ],
+    [
+     20,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     20,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     30,
+     "aspmx2.googlemail.com"
+    ],
+    [
+     30,
+     "aspmx3.googlemail.com"
+    ],
+    [
+     30,
+     "aspmx4.googlemail.com"
+    ],
+    [
+     30,
+     "aspmx5.googlemail.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "lost.hr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "lost-hr.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "lovosis.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "ASPMX.L.GOOGLE.com"
+    ],
+    [
+     1,
+     "SMTP.GOOGLE.com"
+    ],
+    [
+     5,
+     "ALT1.ASPMX.L.GOOGLE.com"
+    ],
+    [
+     5,
+     "ALT2.ASPMX.L.GOOGLE.com"
+    ],
+    [
+     10,
+     "ALT3.ASPMX.L.GOOGLE.com"
+    ],
+    [
+     10,
+     "ALT4.ASPMX.L.GOOGLE.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "m-itsysteme.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx01.hornetsecurity.com"
+    ],
+    [
+     20,
+     "mx02.hornetsecurity.com"
+    ],
+    [
+     30,
+     "mx03.hornetsecurity.com"
+    ],
+    [
+     40,
+     "mx04.hornetsecurity.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "m2-it-solutions.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mailgate01.m2-it-solutions.de"
+    ]
+   ],
+   "status": "ok"
+  },
+  "m2mgermany.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "m2mgermany-de.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "mac-solutions.net": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "macsolutions-net0i.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "macroquil.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "mail.macroquil.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "maheshwaricomputers.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "aspmx.l.google.com"
+    ],
+    [
+     20,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     30,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     40,
+     "aspmx2.googlemail.com"
+    ],
+    [
+     50,
+     "aspmx3.googlemail.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "makrowisp.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "marac.gr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.otenet.gr"
+    ],
+    [
+     15,
+     "mx2.otenet.gr"
+    ],
+    [
+     25,
+     "mx3.otenet.gr"
+    ],
+    [
+     30,
+     "mx4.otenet.gr"
+    ]
+   ],
+   "status": "ok"
+  },
+  "maritex.eu": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "maritex-eu.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "mart-networks.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "martnetworks-com01b.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "mastdigital.co.uk": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "mastdigital-co-uk.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "mayflex.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "de-smtp-inbound-1.mimecast.com"
+    ],
+    [
+     10,
+     "de-smtp-inbound-2.mimecast.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "mbn-glasfaser.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx00.ionos.de"
+    ],
+    [
+     10,
+     "mx01.ionos.de"
+    ]
+   ],
+   "status": "ok"
+  },
+  "mbsiwav.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mbsiwav-com.inbound.emailservice.io"
+    ],
+    [
+     20,
+     "mbsiwav-com.inbound.emailservice.cc"
+    ],
+    [
+     30,
+     "mbsiwav-com.inbound.emailservice.co"
+    ]
+   ],
+   "status": "ok"
+  },
+  "mbuzz.com.sa": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "mbuzz-com-sa.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "meco.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "meco-de.mx1.arsmtp.com"
+    ],
+    [
+     20,
+     "meco-de.mx2.arsmtp.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "merlinedv.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx1.merlinedv.de"
+    ],
+    [
+     20,
+     "mx2.merlinedv.de"
+    ]
+   ],
+   "status": "ok"
+  },
+  "merpazar.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.merpazar.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "mhzshop.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "aspmx2.googlemail.com"
+    ],
+    [
+     10,
+     "aspmx3.googlemail.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "michael-ag.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.michael-ag.de"
+    ],
+    [
+     20,
+     "mailgate.michael-telecom.de"
+    ]
+   ],
+   "status": "ok"
+  },
+  "microcomtec.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "microcomtec-com.mail.protection.outlook.com"
+    ],
+    [
+     20,
+     "mail.fex3pl.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "microdata.ae": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "smtp.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "micromap.co.in": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.zoho.com"
+    ],
+    [
+     20,
+     "mx2.zoho.com"
+    ],
+    [
+     50,
+     "mx3.zoho.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "microstar.com.pl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     5,
+     "mx1.hostinger.pl"
+    ],
+    [
+     10,
+     "mx2.hostinger.pl"
+    ]
+   ],
+   "status": "ok"
+  },
+  "microtechnology.net": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "microtechnology-net.mail.protection.outlook.com"
+    ],
+    [
+     10,
+     "mail.microtechnology.net"
+    ]
+   ],
+   "status": "ok"
+  },
+  "mikrotik-shop.de": {
+   "checked": "2026-10-29",
+   "a": [
+    "185.207.231.28"
+   ],
+   "status": "no_mx"
+  },
+  "mikrotik-store.eu": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "pmx-mg-1.i-netpartner.net"
+    ],
+    [
+     100,
+     "relay2.i-netpartner.net"
+    ]
+   ],
+   "status": "ok"
+  },
+  "mikrotik.ro": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "mikrotik.ro"
+    ]
+   ],
+   "status": "ok"
+  },
+  "mikrotikbg.shop": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail-relay.mikrotikbg.shop"
+    ]
+   ],
+   "status": "ok"
+  },
+  "millbeck.co.uk": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "millbeck-co-uk.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "miro.co.za": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "miro-co-za.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "mlsoftware.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     60,
+     "d314067.a.ess.de.barracudanetworks.com"
+    ],
+    [
+     70,
+     "d314067.b.ess.de.barracudanetworks.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "modelec.nl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "modelec-nl.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "msdist.co.uk": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "eu-smtp-inbound-1.mimecast.com"
+    ],
+    [
+     20,
+     "eu-smtp-inbound-2.mimecast.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "msit-gmbh.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "msitgmbh-de01b.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "mstronics.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "mail.mstronics.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "mtk-tech.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "mx1-us1.ppe-hosted.com"
+    ],
+    [
+     5,
+     "mx2-us1.ppe-hosted.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "mva.pt": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx01.hornetsecurity.com"
+    ],
+    [
+     20,
+     "mx02.hornetsecurity.com"
+    ],
+    [
+     30,
+     "mx03.hornetsecurity.com"
+    ],
+    [
+     40,
+     "mx04.hornetsecurity.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "my-itservice.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx01.hornetsecurity.com"
+    ],
+    [
+     20,
+     "mx02.hornetsecurity.com"
+    ],
+    [
+     30,
+     "mx03.hornetsecurity.com"
+    ],
+    [
+     40,
+     "mx04.hornetsecurity.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "nabacom.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.nabacom.it"
+    ]
+   ],
+   "status": "ok"
+  },
+  "nael.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.nael.it"
+    ]
+   ],
+   "status": "ok"
+  },
+  "nag.uz": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "emx.mail.ru"
+    ]
+   ],
+   "status": "ok"
+  },
+  "nasstore.eu": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "nasstore-eu.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "nectlc.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "neodatatechnologies.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "aspmx2.googlemail.com"
+    ],
+    [
+     10,
+     "aspmx3.googlemail.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "netap.gr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.netap.gr"
+    ]
+   ],
+   "status": "ok"
+  },
+  "netcom-group.fr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "mx1.mail.ovh.net"
+    ],
+    [
+     5,
+     "mx2.mail.ovh.net"
+    ],
+    [
+     100,
+     "mx3.mail.ovh.net"
+    ]
+   ],
+   "status": "ok"
+  },
+  "netcom.com.vn": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.netcom.com.vn"
+    ]
+   ],
+   "status": "ok"
+  },
+  "netdist.se": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "netdist-se.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "netengineering.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "netengineering-it.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "netops.lv": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx01.mail.icloud.com"
+    ],
+    [
+     10,
+     "mx02.mail.icloud.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "netsoft-solutions.net": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "SMTP.GOOGLE.COM"
+    ]
+   ],
+   "status": "ok"
+  },
+  "networkdevicesinc.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "networkdevicesinc-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "networkdistributiontz.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "networkdistributiontz-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "networkdistributors.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "networkdistributors-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "networkology.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "networkology-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "netxl.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "smtp.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "netz16.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "d303958.a.ess.de.barracudanetworks.com"
+    ],
+    [
+     20,
+     "d303958.b.ess.de.barracudanetworks.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "netzware.at": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "spamshield.netzware.at"
+    ],
+    [
+     20,
+     "netzware-at.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "neunetia.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     5,
+     "smtpin.rzone.de"
+    ]
+   ],
+   "status": "ok"
+  },
+  "newgens.co.kr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "wblock.newgens.co.kr"
+    ]
+   ],
+   "status": "ok"
+  },
+  "newsoft-tech.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "newsofttech-it01i.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "nextron.dk": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "nextron-dk.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "nexus.com.mt": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "nexwaretechnologies.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "smtp.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "nine-one-one.ca": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "nineoneone-ca01bb.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "nitoit.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx00.ionos.de"
+    ],
+    [
+     10,
+     "mx01.ionos.de"
+    ]
+   ],
+   "status": "ok"
+  },
+  "nlogic.no": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "nlogic-no.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "nodenetglobal.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "nodenetglobal-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "nordic-computers.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx10.antispam.mailspamprotection.com"
+    ],
+    [
+     20,
+     "mx20.antispam.mailspamprotection.com"
+    ],
+    [
+     30,
+     "mx30.antispam.mailspamprotection.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "noriak-distri.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "noriakdistri-com01e.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "nsi.srl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "in.arubabusiness.it"
+    ]
+   ],
+   "status": "ok"
+  },
+  "nsr-tik.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "ASPMX.L.GOOGLE.com"
+    ],
+    [
+     5,
+     "ALT1.ASPMX.L.GOOGLE.com"
+    ],
+    [
+     5,
+     "ALT2.ASPMX.L.GOOGLE.com"
+    ],
+    [
+     10,
+     "ALT3.ASPMX.L.GOOGLE.com"
+    ],
+    [
+     10,
+     "ALT4.ASPMX.L.GOOGLE.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "nupis.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.nupis.de"
+    ]
+   ],
+   "status": "ok"
+  },
+  "nutz.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "nutz-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "nxo.eu": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "nxo-eu.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "oak-integrator.lv": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "oakintegrator-lv0i.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "oas.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "oas-de.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "odd-net.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "oddnet-com0i.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "oemautomatic.cz": {
+   "checked": "2026-10-29",
+   "a": [
+    "104.21.56.89",
+    "172.67.183.2"
+   ],
+   "status": "no_mx"
+  },
+  "oemautomatic.se": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "oemautomatic-se.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "okisan.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "omg.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mailgate01.omg.de"
+    ],
+    [
+     20,
+     "fallback01.omg.de"
+    ]
+   ],
+   "status": "ok"
+  },
+  "omniconnect.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "d335544.a.ess.de.barracudanetworks.com"
+    ],
+    [
+     10,
+     "d335544.b.ess.de.barracudanetworks.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "online.westech.sk": {
+   "checked": "2026-10-29",
+   "a": [
+    "193.178.233.152"
+   ],
+   "status": "no_mx"
+  },
+  "opasnet.co.kr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "tmse4vpc.daouoffice.com"
+    ],
+    [
+     30,
+     "opasnet-do.dovpc.com"
+    ],
+    [
+     300,
+     "daourelay.dovpc.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "openglobe.io": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "openglobe-io.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "optiteraglobal.ca": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "smtp.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "osmozis.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "aspmx.l.google.com"
+    ],
+    [
+     20,
+     "alt1.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "ovintechnologies.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "ovintechnologies-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "paceintl.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "smtp1-mke.securence.com"
+    ],
+    [
+     0,
+     "smtp1-msp.securence.com"
+    ],
+    [
+     200,
+     "paceintl-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "palcnetworks.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "palcnetworks-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "pamufficio.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.pamufficio.it"
+    ]
+   ],
+   "status": "ok"
+  },
+  "panaco.vn": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "mail-1.mona.host"
+    ]
+   ],
+   "status": "ok"
+  },
+  "paramountsec.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx1-us1.ppe-hosted.com"
+    ],
+    [
+     20,
+     "mx2-us1.ppe-hosted.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "pavana.tech": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "pavana-tech.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "pchand.si": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     20,
+     "pchand-si.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "pcvcomp.cz": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "pcvcomp-cz.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "pedab.fr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "pedab-fr.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "pentagon-solutions.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "perpi.tech": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.perpinya.eu"
+    ]
+   ],
+   "status": "ok"
+  },
+  "petacom.com.tw": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "petacom-com-tw.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "phoenix-itsolutions.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx1.mk.de"
+    ],
+    [
+     10,
+     "mx2.mk.de"
+    ]
+   ],
+   "status": "ok"
+  },
+  "pic-expose.ph": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.zoho.com"
+    ],
+    [
+     20,
+     "mx2.zoho.com"
+    ],
+    [
+     50,
+     "mx3.zoho.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "pierobersanini.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     5,
+     "n3libraesva01.esvacloud.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "pijlsolutions.nl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "pijlsolutions-nl.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "pine-networks.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "pinnacledxb.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "pinnacledxb-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "pixelnetwork.rs": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "mail.pixelnetwork.rs"
+    ]
+   ],
+   "status": "ok"
+  },
+  "pke-de.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "pkede-com0i.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "planiselect.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "ASPMX.L.GOOGLE.com"
+    ],
+    [
+     5,
+     "ALT1.ASPMX.L.GOOGLE.com"
+    ],
+    [
+     5,
+     "ALT2.ASPMX.L.GOOGLE.com"
+    ],
+    [
+     10,
+     "ALT3.ASPMX.L.GOOGLE.com"
+    ],
+    [
+     10,
+     "ALT4.ASPMX.L.GOOGLE.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "poetexas.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "smtp.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "positronmultiverse.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "positronmultiverse-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "powermation.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "d193672a.ess.barracudanetworks.com"
+    ],
+    [
+     20,
+     "d193672b.ess.barracudanetworks.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "powermotionsales.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "powermotionsales-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "powertechcontrols.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "powertechcontrols-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "poyraznetwork.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "posta.powernet.com.tr"
+    ]
+   ],
+   "status": "ok"
+  },
+  "primation.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "primation-de.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "process-tech.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "us-smtp-inbound-1.mimecast.com"
+    ],
+    [
+     10,
+     "us-smtp-inbound-2.mimecast.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "prod.cy-wireless.com": {
+   "checked": "2026-10-29",
+   "a": [
+    "176.223.138.176"
+   ],
+   "status": "no_mx"
+  },
+  "products.nace.tv": {
+   "checked": "2026-10-29",
+   "a": [
+    "45.32.91.70"
+   ],
+   "status": "no_mx"
+  },
+  "profcon.se": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "profcon-se.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "proficomms.cz": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "relay.zoner.com"
+    ],
+    [
+     10,
+     "10mx.zoner.com"
+    ],
+    [
+     15,
+     "15mx.zoner.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "pulsesupply.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "mail.pulsesupply.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "pumait.dk": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "purdicom.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "eu-smtp-journal-1.mimecast.com"
+    ],
+    [
+     10,
+     "eu-smtp-journal-2.mimecast.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "puresignal.com.sa": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.zoho.sa"
+    ],
+    [
+     20,
+     "mx2.zoho.sa"
+    ],
+    [
+     50,
+     "mx3.zoho.sa"
+    ]
+   ],
+   "status": "ok"
+  },
+  "pymatek.co.uk": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "pymatek-co-uk.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "ql3d.fr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "ql3d-fr.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "quasar.mu": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "quasar-mu.mail.protection.outlook.com"
+    ],
+    [
+     1,
+     "mx1.ovh.net"
+    ],
+    [
+     5,
+     "mx2.ovh.net"
+    ],
+    [
+     100,
+     "mxb.ovh.net"
+    ]
+   ],
+   "status": "ok"
+  },
+  "quattrosec.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.quattrosec.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "radiant.in": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "radiant-in.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "rapidbts.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "aspmx.l.google.com"
+    ],
+    [
+     20,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     20,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     30,
+     "aspmx2.googlemail.com"
+    ],
+    [
+     30,
+     "aspmx3.googlemail.com"
+    ],
+    [
+     30,
+     "aspmx4.googlemail.com"
+    ],
+    [
+     30,
+     "aspmx5.googlemail.com"
+    ],
+    [
+     3600,
+     "smtp.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "recos.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     20,
+     "sv6.recos.net"
+    ]
+   ],
+   "status": "ok"
+  },
+  "redinet.am": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.zoho.com"
+    ],
+    [
+     20,
+     "mx2.zoho.com"
+    ],
+    [
+     50,
+     "mx3.zoho.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "ridmont.me": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "ridmont-me.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "rittbul.bg": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "rittbul-bg.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "roadtech.co.uk": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "roadtechmail.rtisp.net"
+    ],
+    [
+     50,
+     "smtp.roadtech.co.uk"
+    ],
+    [
+     500,
+     "smx1.rtisp.net"
+    ],
+    [
+     500,
+     "smx2.rtisp.net"
+    ]
+   ],
+   "status": "ok"
+  },
+  "roc-com.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "roc-com.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "roc-noc.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "rocnoc-com0i.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "ronitek.co.il": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "ronitek-co-il.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "rootitsupport.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.rootitsupport.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "router.lv": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.spx.lv"
+    ]
+   ],
+   "status": "ok"
+  },
+  "routerboard.se": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail2.shlab.se"
+    ]
+   ],
+   "status": "ok"
+  },
+  "routershop.nl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "routershop-nl.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "rwlas.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "rwlas-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "sabel-international.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "sabel-international.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "sales.kenya": {
+   "checked": "2026-10-29",
+   "status": "nxdomain"
+  },
+  "sales.tw": {
+   "checked": "2026-10-29",
+   "status": "error:NoNameservers"
+  },
+  "santaclarasystems.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "d180881b.ess.barracudanetworks.com"
+    ],
+    [
+     20,
+     "d180881a.ess.barracudanetworks.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "sanuksystems.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "sapphire-india.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "sapphire-india.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "sapphire.co.ke": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "sarlin.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "sarlin-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "satel.no": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "satel-no.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "scaleil.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "scoop.co.za": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.scoop.co.za"
+    ]
+   ],
+   "status": "ok"
+  },
+  "sdcgroup.nl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx1.compudacmail.nl"
+    ],
+    [
+     20,
+     "mx2.compudacmail.nl"
+    ],
+    [
+     30,
+     "mx3.compudacmail.nl"
+    ],
+    [
+     40,
+     "mx4.compudacmail.nl"
+    ]
+   ],
+   "status": "ok"
+  },
+  "seccom.in": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.zoho.in"
+    ],
+    [
+     20,
+     "mx2.zoho.in"
+    ],
+    [
+     50,
+     "mx3.zoho.in"
+    ]
+   ],
+   "status": "ok"
+  },
+  "securcrea.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     5,
+     "cl.securcrea.com"
+    ],
+    [
+     20,
+     "mx.securcrea.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "securenet.is": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "securenet-is.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "security101.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "security101-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "securityandnetworks.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     30,
+     "securityandnetworks-com.mail.eo.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "securitywarehouse.co.za": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "securitywarehouse-co-za.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "segertech.com.br": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "segertech-com-br.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "sekunet.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     60,
+     "mx.sekunet.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "sekuritim.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "selos.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.selos.de"
+    ]
+   ],
+   "status": "ok"
+  },
+  "sensecosystems.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "sensecosystems-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "sewan.fr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "sewan-fr.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "sfera-srl.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "posta.sfera-srl.it"
+    ]
+   ],
+   "status": "ok"
+  },
+  "sheeltron.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.zoho.in"
+    ],
+    [
+     20,
+     "mx2.zoho.in"
+    ],
+    [
+     50,
+     "mx3.zoho.in"
+    ]
+   ],
+   "status": "ok"
+  },
+  "shop.allnet-italia.it": {
+   "checked": "2026-10-29",
+   "a": [
+    "192.124.249.152"
+   ],
+   "status": "no_mx"
+  },
+  "shop.allnet.dk": {
+   "checked": "2026-10-29",
+   "a": [
+    "212.18.29.141"
+   ],
+   "status": "no_mx"
+  },
+  "shop.azurtem.com": {
+   "checked": "2026-10-29",
+   "a": [
+    "128.65.196.40"
+   ],
+   "status": "no_mx"
+  },
+  "shop.etree.de": {
+   "checked": "2026-10-29",
+   "a": [
+    "85.13.157.15"
+   ],
+   "status": "no_mx"
+  },
+  "shop.evolvit.se": {
+   "checked": "2026-10-29",
+   "a": [
+    "172.67.187.235",
+    "104.21.48.200"
+   ],
+   "status": "no_mx"
+  },
+  "shop.fiber24.net": {
+   "checked": "2026-10-29",
+   "a": [
+    "172.67.165.182",
+    "104.21.11.93"
+   ],
+   "status": "no_mx"
+  },
+  "shop.inovis-group.com": {
+   "checked": "2026-10-29",
+   "a": [
+    "138.199.244.33"
+   ],
+   "status": "no_mx"
+  },
+  "shop.mahkesis.com": {
+   "checked": "2026-10-29",
+   "a": [
+    "137.184.160.44"
+   ],
+   "status": "no_mx"
+  },
+  "shop.ntsdirect.com": {
+   "checked": "2026-10-29",
+   "a": [
+    "162.159.140.226"
+   ],
+   "status": "no_mx"
+  },
+  "shop.officelan.pt": {
+   "checked": "2026-10-29",
+   "a": [
+    "23.227.38.65"
+   ],
+   "status": "no_mx"
+  },
+  "shoukinet.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.zoho.com"
+    ],
+    [
+     20,
+     "mx2.zoho.com"
+    ],
+    [
+     50,
+     "mx3.zoho.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "sicetelecom.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mailserver.sicetelecom.it"
+    ]
+   ],
+   "status": "ok"
+  },
+  "sielco.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "gest.si-cloud.it"
+    ],
+    [
+     10,
+     "gest2.si-cloud.it"
+    ]
+   ],
+   "status": "ok"
+  },
+  "silcofs.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "silcofs-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "simnt.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "simnt-it.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "sinaltech.pt": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mxf.eu.mpssec.net"
+    ],
+    [
+     20,
+     "mxg.eu.mpssec.net"
+    ]
+   ],
+   "status": "ok"
+  },
+  "sittig-tech.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "sittigtech-com01e.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "skytron.business": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     11,
+     "mailhub01.skytron.de"
+    ],
+    [
+     12,
+     "mailhub02.skytron.de"
+    ],
+    [
+     13,
+     "mailhub03.skytron.de"
+    ],
+    [
+     14,
+     "mailhub04.skytron.de"
+    ],
+    [
+     15,
+     "mailhub05.skytron.de"
+    ]
+   ],
+   "status": "ok"
+  },
+  "sln-myanmar.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "slnmyanmar-com0i.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "smart-network.ge": {
+   "checked": "2026-10-29",
+   "status": "dead"
+  },
+  "smartplus.com.sa": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "smartsd.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "smartsd-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "soliton.co.ke": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "mail.soliton.co.ke"
+    ],
+    [
+     5,
+     "kasuku.soliton.co.ke"
+    ]
+   ],
+   "status": "ok"
+  },
+  "solutionboxusa.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "solutionboxusa-com.mail.protection.outlook.com"
+    ],
+    [
+     20,
+     "ba.solutionbox.com.ar"
+    ]
+   ],
+   "status": "ok"
+  },
+  "sonictest.ee": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "mail.sonictest.ee"
+    ]
+   ],
+   "status": "ok"
+  },
+  "soselectronic.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "sotech.srl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "esg.sotech.pro"
+    ]
+   ],
+   "status": "ok"
+  },
+  "sotelsystems.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "sotelsystems-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "southbanglabd.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "mail.southbanglabd.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "spadhausen.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "spadhausen-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "sphinxfrance.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "mail.sphinxfrance.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "ssc.srl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.ssc.srl"
+    ]
+   ],
+   "status": "ok"
+  },
+  "sss.net.vn": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "sss-net-vn.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "sstt.cl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "starcomdigital.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "mail.starcomdigital.com"
+    ],
+    [
+     10,
+     "mx2.cleanmx.pt"
+    ]
+   ],
+   "status": "ok"
+  },
+  "starmount.co.ke": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "starmount.co.ke"
+    ]
+   ],
+   "status": "ok"
+  },
+  "stn.kz": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     5,
+     "stn-kz.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "stninfotech.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.bizboxa.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "store.voicehost.co.uk": {
+   "checked": "2026-10-29",
+   "a": [
+    "195.206.184.194"
+   ],
+   "status": "no_mx"
+  },
+  "store.wifi24.pl": {
+   "checked": "2026-10-29",
+   "a": [
+    "85.128.162.129"
+   ],
+   "status": "no_mx"
+  },
+  "storelink.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.storelink.it"
+    ]
+   ],
+   "status": "ok"
+  },
+  "stovaris.pl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx1.zenbox.pl"
+    ],
+    [
+     20,
+     "mx2.zenbox.pl"
+    ],
+    [
+     30,
+     "mx3.zenbox.pl"
+    ]
+   ],
+   "status": "ok"
+  },
+  "streakwave.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "streakwave-com.inbound.emailservice.io"
+    ],
+    [
+     20,
+     "streakwave-com.inbound.emailservice.cc"
+    ],
+    [
+     30,
+     "streakwave-com.inbound.emailservice.co"
+    ]
+   ],
+   "status": "ok"
+  },
+  "sumitelco.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     5,
+     "mx1.hostinger.com"
+    ],
+    [
+     10,
+     "mx2.hostinger.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "switches.shop": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "switches-shop.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "switchsfp.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "switchsfp-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "switchshop.co.uk": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "switchshop-co-uk.mail.protection.outlook.com"
+    ],
+    [
+     20,
+     "fortimail.switchshop.co.uk"
+    ]
+   ],
+   "status": "ok"
+  },
+  "synexie.fr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "vade-mx-fr01.hornetsecurity.com"
+    ],
+    [
+     10,
+     "vade-mx-fr02.hornetsecurity.com"
+    ],
+    [
+     20,
+     "vade-mx-eu-fallback01.hornetsecurity.com"
+    ],
+    [
+     20,
+     "vade-mx-eu-fallback02.hornetsecurity.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "syscom.mx": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "aspmx2.googlemail.com"
+    ],
+    [
+     10,
+     "aspmx3.googlemail.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "systemcon.gr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "systemcon-gr.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "systemdevices.co.uk": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "systemdevices-co-uk.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "tarox.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "tarox-de.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "tcicinc.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "tcicinc-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "technocenter.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.technocenter.it"
+    ]
+   ],
+   "status": "ok"
+  },
+  "techsoko.co.tz": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.zoho.com"
+    ],
+    [
+     20,
+     "mx2.zoho.com"
+    ],
+    [
+     50,
+     "mx3.zoho.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "techtrad-solution.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "techtradsolution-com02b.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "tecon.cz": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "tecon-cz.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "tehnox.si": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.tehnox.si"
+    ],
+    [
+     10,
+     "mx1.tehnox.si"
+    ]
+   ],
+   "status": "ok"
+  },
+  "tekniska.pl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "tekniska-pl.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "tektraco.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "tektraco-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "teledata.com.uy": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "teledata-com-uy.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "telesystem.ro": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "mail.telesystem.ro"
+    ]
+   ],
+   "status": "ok"
+  },
+  "tempelgroup.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "tempelgroup-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "thaicctvshop.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.thaicctvshop.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "thejunction.eu": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "thejunction-eu.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "thietbimangvietnam.vn": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "SMTP.GOOGLE.COM"
+    ]
+   ],
+   "status": "ok"
+  },
+  "thietbiquangvn.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.thietbiquangvn.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "think-about.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx01.hornetsecurity.com"
+    ],
+    [
+     20,
+     "mx02.hornetsecurity.com"
+    ],
+    [
+     30,
+     "mx03.hornetsecurity.com"
+    ],
+    [
+     40,
+     "mx04.hornetsecurity.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "throughwave.co.th": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.throughwave.co.th"
+    ],
+    [
+     20,
+     "gateway.throughwave.co.th"
+    ]
+   ],
+   "status": "ok"
+  },
+  "tiefenbach-it.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "tiefenbachit-com02e.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "timeless.fi": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "securemail1.hostingservice.fi"
+    ],
+    [
+     20,
+     "securemail2.hostingservice.fi"
+    ]
+   ],
+   "status": "ok"
+  },
+  "titan-security.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "mxa.mailgun.org"
+    ]
+   ],
+   "status": "ok"
+  },
+  "tmmi.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "tmmi-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "tnet.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "tnet-it.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "todotelecom.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.todotelecom.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "treco.mk": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "SMTP.GOOGLE.COM"
+    ]
+   ],
+   "status": "ok"
+  },
+  "trikomindo.co.id": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "trikomindo.co.id"
+    ]
+   ],
+   "status": "ok"
+  },
+  "trimatrikbd.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "triple-core.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "aspmx2.googlemail.com"
+    ],
+    [
+     10,
+     "aspmx3.googlemail.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "truenet.pt": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "d206513.a.ess.uk.barracudanetworks.com"
+    ],
+    [
+     10,
+     "d206513.b.ess.uk.barracudanetworks.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "trusol.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "trusol-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "trustforcemm.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "trustforcemm-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "tudonghoa24.com": {
+   "checked": "2026-10-29",
+   "a": [
+    "210.245.8.133"
+   ],
+   "status": "no_mx"
+  },
+  "turm.tech": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail03.mail-gw.de"
+    ],
+    [
+     20,
+     "mail02.mail-gw.de"
+    ]
+   ],
+   "status": "ok"
+  },
+  "tvc.mx": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "tvc-mx.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "uberdatanetworks.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx1-us1.ppe-hosted.com"
+    ],
+    [
+     20,
+     "mx2-us1.ppe-hosted.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "ubitech.fr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "mail.ubitech.fr"
+    ]
+   ],
+   "status": "ok"
+  },
+  "utg.hk": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.zoho.com"
+    ],
+    [
+     20,
+     "mx2.zoho.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "utopiatechnology.co.uk": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "eu-smtp-inbound-1.mimecast.com"
+    ],
+    [
+     10,
+     "eu-smtp-inbound-2.mimecast.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "varia-store.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     5,
+     "mail.varia-system.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "vartek.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     2,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     3,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     4,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "vesc.com.my": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.vesc.com.my"
+    ],
+    [
+     10,
+     "pop.vesc.com.my"
+    ],
+    [
+     10,
+     "pop3.vesc.com.my"
+    ],
+    [
+     10,
+     "smtp.vesc.com.my"
+    ]
+   ],
+   "status": "ok"
+  },
+  "vesuviustreamline.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx1.iservice.bg"
+    ]
+   ],
+   "status": "ok"
+  },
+  "videcon.co.uk": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "videcon-co-uk.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "videor.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "videor-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "vietnamnetwork.vn": {
+   "checked": "2026-10-29",
+   "a": [
+    "202.92.7.88"
+   ],
+   "status": "no_mx"
+  },
+  "viskou.sg": {
+   "checked": "2026-10-29",
+   "a": [
+    "104.18.8.146"
+   ],
+   "status": "no_mx"
+  },
+  "vodanetsystems.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx1-us1.ppe-hosted.com"
+    ],
+    [
+     20,
+     "mx2-us1.ppe-hosted.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "vodenn.fr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "mx0.mail.ovh.net"
+    ],
+    [
+     10,
+     "mx1.mail.ovh.net"
+    ],
+    [
+     20,
+     "mx2.mail.ovh.net"
+    ],
+    [
+     30,
+     "mx3.mail.ovh.net"
+    ],
+    [
+     40,
+     "mx4.mail.ovh.net"
+    ]
+   ],
+   "status": "ok"
+  },
+  "voicenter.co.il": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "aspmx.l.google.com"
+    ],
+    [
+     20,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     20,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     30,
+     "aspmx2.googlemail.com"
+    ],
+    [
+     30,
+     "aspmx3.googlemail.com"
+    ],
+    [
+     30,
+     "aspmx4.googlemail.com"
+    ],
+    [
+     30,
+     "aspmx5.googlemail.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "vpx.systems": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "vpx-systems.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "watkins-security.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx1-us1.ppe-hosted.com"
+    ],
+    [
+     20,
+     "mx2-us1.ppe-hosted.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "wavonline.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx1-us1.ppe-hosted.com"
+    ],
+    [
+     20,
+     "mx2-us1.ppe-hosted.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "webshop.dds.ch": {
+   "checked": "2026-10-29",
+   "a": [
+    "157.143.74.196"
+   ],
+   "status": "no_mx"
+  },
+  "wei.cl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "wei-cl.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "westercom.eu": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "aspmx2.googlemail.com"
+    ],
+    [
+     10,
+     "aspmx3.googlemail.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "whitestack.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "wi.com.tr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "wifi-france.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "wifianten.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     5,
+     "mx1.hostinger.com"
+    ],
+    [
+     10,
+     "mx2.hostinger.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "wifidubai.ae": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "mail.wifidubai.ae"
+    ]
+   ],
+   "status": "ok"
+  },
+  "wifihw.cz": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mailin1.wifihw.cz"
+    ],
+    [
+     100,
+     "mailin2.wifihw.cz"
+    ]
+   ],
+   "status": "ok"
+  },
+  "wifimag.ro": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mta.wifimag.ro"
+    ]
+   ],
+   "status": "ok"
+  },
+  "wifistock.be": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "ASPMX.L.GOOGLE.COM"
+    ],
+    [
+     1000,
+     "ALT1.ASPMX.L.GOOGLE.COM"
+    ],
+    [
+     2000,
+     "ALT2.ASPMX.L.GOOGLE.COM"
+    ],
+    [
+     3000,
+     "ALT3.ASPMX.L.GOOGLE.COM"
+    ],
+    [
+     4000,
+     "ALT4.ASPMX.L.GOOGLE.COM"
+    ]
+   ],
+   "status": "ok"
+  },
+  "wilkon.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "wilkon-de.mail.protection.outlook.com"
+    ],
+    [
+     10,
+     "mx1.agenturserver.de"
+    ]
+   ],
+   "status": "ok"
+  },
+  "wimoodshop.nl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "wimoodshop.nl"
+    ]
+   ],
+   "status": "ok"
+  },
+  "winncom.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "winncom-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "wireless-bolt.hu": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.wireless-bolt.hu"
+    ]
+   ],
+   "status": "ok"
+  },
+  "wirelesslan.pl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "cheetah.allnet.pl"
+    ]
+   ],
+   "status": "ok"
+  },
+  "wirelessnetware.ca": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "wiretechnologies.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "d122505a.ess.barracudanetworks.com"
+    ],
+    [
+     10,
+     "d122505b.ess.barracudanetworks.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "wirmax.net": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "in.arubabusiness.it"
+    ]
+   ],
+   "status": "ok"
+  },
+  "wisp.store": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "smtp.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "wispmax.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "ASPMX.L.GOOGLE.com"
+    ],
+    [
+     5,
+     "ALT1.ASPMX.L.GOOGLE.com"
+    ],
+    [
+     5,
+     "ALT2.ASPMX.L.GOOGLE.com"
+    ],
+    [
+     10,
+     "ASPMX2.GOOGLEMAIL.com"
+    ],
+    [
+     10,
+     "ASPMX3.GOOGLEMAIL.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "wolfautomation.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "wolfautomation-com.mail.eo.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "wpdata.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx01.hornetsecurity.com"
+    ],
+    [
+     20,
+     "mx02.hornetsecurity.com"
+    ],
+    [
+     30,
+     "mx03.hornetsecurity.com"
+    ],
+    [
+     40,
+     "mx04.hornetsecurity.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "xortec.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "xortec-de.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "xpatit.gr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "xpatit.gr"
+    ]
+   ],
+   "status": "ok"
+  },
+  "young.hu": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "young-hu.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "ziegler-systemhaus.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "zieglersystemhaus-de01i.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "zioncom.co.id": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.zioncom.co.id"
+    ]
+   ],
+   "status": "ok"
+  },
+  "zorinstechnologies.sa": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  }
+ }
+}

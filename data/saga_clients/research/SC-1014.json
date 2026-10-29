@@ -1,17 +1,46 @@
 {
  "code": "SC-1014",
- "name_official": "gtlan.com",
+ "name_official": "GOTE, S.A.",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（品牌页 2024 / 官网在线）",
  "summary": "C 池三闸捞出（★ 正式）：★ 品牌商 · OEM 30%：GOTE, S.A.（品牌 GTLAN；Paterna 1984；自有品牌网络产品制造 + 分销，已在卖宇航 / GXcom 工业线）坐实（法人 + 地址，CIF 未取）；对位 ✔ 欧洲 ✔ 自有品牌 ✔ 进口经验 ✔ → P 池候选",
- "type": "",
- "size": "",
+ "type": "OEM（闸 2 判定 · 30% 档）",
+ "size": "中小型（推定）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "GOTE, S.A.（品牌 GTLAN；gtlan.com；**matmax 品牌页：1984 年创立、Parque Tecnológico Ronda Narciso Monturiol 13, 46980 Paterna (Valencia)；自有品牌 GTLAN 制造 + 分销数据网络 / 电信产品（线缆、配线、LAN/WAN 网络电子、无线、工业电话、仪表）；ContactOut +34 961 366 571**）；表内：工业 FS，GXcom + 宇航，有工业 1",
+   "quote": "ES · 1 次检索：matmax.es/marcas/gtlan（Razón social GOTE, S.A.；Paterna；1984；marca propia Gtlan）+ contactout（+34 961 366 571；linkedin.com/company/gtlan）；2026-10-29",
+   "url": "https://www.matmax.es/marcas/gtlan",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "西班牙 GTLAN（工业 FS，GXcom + 宇航；有工业 10G 5 口产品页）：欧洲 + 已进口中国同类品牌 + 对位 ✔；曾退信但域名正常 → 闸 2 查底数",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R02",
+   "claim": "桌面复核（闸 2 证据充分，三问成立）：★ 品牌商 · OEM 30%：GOTE, S.A.（品牌 GTLAN；Paterna 1984；自有品牌网络产品制造 + 分销，已在卖宇航 / GXcom 工业线）坐实（法人 + 地址，CIF 未取）；对位 ✔ 欧洲 ✔ 自有品牌 ✔ 进口经验 ✔ → P 池候选",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "comercial@gtlan.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 品牌商 · OEM 30%：GOTE, S.A.（品牌 GTLAN；Paterna 1984；自有品牌网络产品制造 + 分销，已在卖宇航 / GXcom 工业线）坐实（法人 + 地址，CIF 未取）；对位 ✔ 欧洲 ✔ 自有品牌 ✔ 进口经验 ✔ → P 池候选；闸 1：西班牙 GTLAN（工业 FS，GXcom + 宇航；有工业 10G 5 口产品页）：欧洲 + 已进口中国同类品牌 + 对位 ✔；曾退信但域名正常 → 闸 2 查底数",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +70,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +85,60 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 品牌商 · OEM 30%：GOTE, S.A.（品牌 GTLAN；Paterna 1984；自有品牌网络产品制造 + 分销，已在卖宇航 / GXcom 工业线）坐实（法人 + 地址，CIF 未取）；对位 ✔ 欧洲 ✔ 自有品牌 ✔ 进口经验 ✔ → P 池候选",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "ES · 1 次检索：matmax.es/marcas/gtlan（Razón social GOTE, S.A.；Paterna；1984；marca propia Gtlan）+ contactout（+34 961 366 571；linkedin.com/company/gtlan）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.matmax.es/marcas/gtlan"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "GOTE, S.A.",
+  "reg_no": "未取（CIF 1 查未得；法人名已坐实）",
+  "status": "营业中（品牌页 2024 / 官网在线）",
+  "incorporated": "1984",
+  "company_type": "S.A.",
+  "address": "Pque. Tecn. Rda. Narciso Monturiol 13, 46980 Paterna (Valencia)",
+  "size_band": "中小型（推定）",
+  "officers": [
+   "（comercial@gtlan.com 表内 = 收件人；具名 KP 未取，LinkedIn 公司页可挖）"
+  ],
+  "psc": "未取",
+  "source": "ES · 1 次检索：matmax.es/marcas/gtlan（Razón social GOTE, S.A.；Paterna；1984；marca propia Gtlan）+ contactout（+34 961 366 571；linkedin.com/company/gtlan）；2026-10-29",
+  "url": "https://www.matmax.es/marcas/gtlan",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "网络 / 电信产品自有品牌制造 + 分销（瓦伦西亚）"
+ ],
+ "channels": {
+  "网站": "https://gtlan.com",
+  "直邮": "comercial@gtlan.com（表内）"
+ },
+ "signals": [
+  "西班牙 GTLAN（工业 FS，GXcom + 宇航；有工业 10G 5 口产品页）：欧洲 + 已进口中国同类品牌 + 对位 ✔；曾退信但域名正常 → 闸 2 查底数",
+  "表内兴趣：工业FS GXcom 也有宇航的似乎"
+ ],
+ "risks": [
+  "**自有品牌 GTLAN 已在卖宇航 / GXcom 工业交换机 → OEM 30%：一页纸一次（STI-154GP 工业 4 PoE+1 GE+1 SFP / STI-288GPM 对标 + 丝印 / 彩盒 MOQ + 付费样机；10G 工业款不供明说）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 1",
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

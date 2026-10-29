@@ -1,17 +1,52 @@
 {
  "code": "SC-2608",
- "name_official": "mayflex.com",
+ "name_official": "Mayflex",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "Active（Sonepar 集团）",
  "summary": "C 池三闸捞出（△ 观察）：△ 观察档（长线）· OEM 30%：Mayflex（Birmingham 1917；250 人；Sonepar UK 子公司；自有品牌 Excel Networking；Andrew Percival 在表）坐实；OEM ✔ 主区 ✔ 具名 KP ✔ 但巨头采购体系 → 入池长线观察档；Simon 曾判不行，可否决",
- "type": "",
- "size": "",
+ "type": "OEM（闸 2 判定 · 30% 档）",
+ "size": "大型（250；母公司 Sonepar 巨头）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Mayflex（mayflex.com；**PitchBook：Excel House, Junction Six Industrial Park, Electric Avenue, Birmingham B6 7JJ；1917 年创立；250 人；Sonepar UK 子公司；数据通信产品分销（安装商 / 集成商）；Endole：Mayflex Holdings Limited 06732855（2008-10-24，Sonepar 集团）；自有品牌 Excel Netwo",
+   "quote": "GB · 1 次检索：pitchbook（Birmingham；1917；250；Sonepar UK）+ endole（Mayflex Holdings 06732855）+ glassdoor；运营公司 CH 号未取；2026-10-29",
+   "url": "https://pitchbook.com/profiles/company/65358-73",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "英国 Mayflex（Sonepar 旗下大型布线 / 安防 / 网络分销，自有品牌 Excel Networking；商业 PoE）：英国主区 + 分销 + 自有品牌 ✔；19 推 0 回 → 闸 2 查底数（体量偏大）；Simon 曾判不行 → 可按编号否决",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R01",
+   "claim": "Mayflex（Birmingham 1917；250 人；Sonepar UK；自有品牌 Excel Networking；具名 KP Andrew Percival）：英国主区 OEM 30% 长线目标，巨头采购体系慢但值得挂着；行业内 ✔ 对位 ✔ 自牌 ✔",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "sales@mayflex.com",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "andrew.percival@mayflex.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档（长线）· OEM 30%：Mayflex（Birmingham 1917；250 人；Sonepar UK 子公司；自有品牌 Excel Networking；Andrew Percival 在表）坐实；OEM ✔ 主区 ✔ 具名 KP ✔ 但巨头采购体系 → 入池长线观察档；Simon 曾判不行，可否决；闸 1：英国 Mayflex（Sonepar 旗下大型布线 / 安防 / 网络分销，自有品牌 Excel Networking；商业 PoE）：英国主区 + 分销 + 自有品牌 ✔；19 推 0 回 → 闸 2 查底数（体量偏大）；Simon 曾…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +76,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +91,61 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "△ 观察档（长线）· OEM 30%：Mayflex（Birmingham 1917；250 人；Sonepar UK 子公司；自有品牌 Excel Networking；Andrew Percival 在表）坐实；OEM ✔ 主区 ✔ 具名 KP ✔ 但巨头采购体系 → 入池长线观察档；Simon 曾判不行，可否决",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "GB · 1 次检索：pitchbook（Birmingham；1917；250；Sonepar UK）+ endole（Mayflex Holdings 06732855）+ glassdoor；运营公司 CH 号未取；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://pitchbook.com/profiles/company/65358-73"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Mayflex",
+  "reg_no": "Mayflex Holdings Ltd 06732855（控股；运营公司号未取）",
+  "status": "Active（Sonepar 集团）",
+  "incorporated": "1917（控股 2008-10-24）",
+  "company_type": "Ltd（Sonepar UK 子公司）",
+  "address": "Excel House, Junction Six Industrial Park, Electric Avenue, Birmingham B6 7JJ",
+  "size_band": "大型（250；母公司 Sonepar 巨头）",
+  "officers": [
+   "Andrew Percival（andrew.percival@mayflex.com 表内具名；职务未取）",
+   "（sales@mayflex.com 表内）"
+  ],
+  "psc": "未取",
+  "source": "GB · 1 次检索：pitchbook（Birmingham；1917；250；Sonepar UK）+ endole（Mayflex Holdings 06732855）+ glassdoor；运营公司 CH 号未取；2026-10-29",
+  "url": "https://pitchbook.com/profiles/company/65358-73",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "布线 / 网络 / 安防分销 + 自有品牌 Excel"
+ ],
+ "channels": {
+  "网站": "https://mayflex.com",
+  "直邮": "sales@mayflex.com，andrew.percival@mayflex.com（表内）"
+ },
+ "signals": [
+  "英国 Mayflex（Sonepar 旗下大型布线 / 安防 / 网络分销，自有品牌 Excel Networking；商业 PoE）：英国主区 + 分销 + 自有品牌 ✔；19 推 0 回 → 闸 2 查底数（体量偏大）；Simon 曾判不行 → 可按编号否决",
+  "表内兴趣：商业PoE；商业POE"
+ ],
+ "risks": [
+  "**巨头旗下自有品牌 Excel → OEM 30% 长线：点名 Andrew Percival / Excel 产品经理一页纸一次（STC-228GP / STC-2224GP 对标 Excel 口型 + 丝印彩盒 MOQ + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地*",
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

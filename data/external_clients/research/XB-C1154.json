@@ -1,0 +1,51 @@
+{
+ "code": "XB-C1154",
+ "name": "Lovosis Technology LLC",
+ "round": "LT-T01",
+ "researched_at": "2026-10-29",
+ "alive": "域名 lovosis.com MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "summary": "Lovosis Technology LLC（阿联酋）：监控/IT解决方案提供商 + 授权分销商；公司全称=Lovosis Technology L.L.C；公司类型=监控/IT解决方案提供商 + 授权分销商；总部=Business Bay, Dubai, UAE；客户优先级=🟢 A类（多品牌安防分销，Dahua钻石级，7000+客户）",
+ "type_final": "监控/IT解决方案提供商 + 授权分销商",
+ "size": "",
+ "brands_seen": [
+  "Dahua"
+ ],
+ "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "监控/IT解决方案提供商 + 授权分销商；公司全称=Lovosis Technology L.L.C；公司类型=监控/IT解决方案提供商 + 授权分销商；总部=Business Bay, Dubai, UAE；客户优先级=🟢 A类（多品牌安防分销，Dahua钻石级，7000+客户）",
+   "quote": "",
+   "url": "https://lovosis.com",
+   "date": "2026-09"
+  },
+  {
+   "kind": "长期群复核 LT-R07",
+   "claim": "桌面复核（来源库核对 + 研究卡）：监控/IT解决方案提供商 + 授权分销商；类型=A类多品牌批发；主营=UNV/Dahua；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "contacts": {
+  "email": "sales@lovosis.com",
+  "email_status": "活（来源库 9 月核对）",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "桌面复核（来源库核对 + 研究卡）：监控/IT解决方案提供商 + 授权分销商；类型=A类多品牌批发；主营=UNV/Dahua；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "官网快照 + 加厚后进群发分组（Q-77）"
+ },
+ "draft_en": null,
+ "deep": false,
+ "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+}

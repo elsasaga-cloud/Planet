@@ -1,17 +1,46 @@
 {
  "code": "SC-2657",
- "name_official": "lynnelec.com",
+ "name_official": "Lynn Electronics Corporation / Inc.",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（2025 营收数据）",
  "summary": "C 池三闸捞出（★ 正式）：★ 自有品牌 · OEM 30%：Lynn Electronics Corporation（Ivyland PA 1964；$18.6M；29–108 人；进口 Volktek；Director Data Center Solutions 在职）坐实；自有品牌 ✔ 进口经验 ✔ 主区 ✔ 体量 ✔ → P 池候选（DC 线可提 CENTEC）；Simon 曾判不行，可否决",
- "type": "",
- "size": "",
+ "type": "OEM（闸 2 判定 · 30% 档）",
+ "size": "中型（29–108；$18.6M）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Lynn Electronics Corporation / Inc.（lynnelec.com / thinklynn.com；**RocketReach：154 Railroad Dr, Ivyland PA 18974；1964 年创立；营收 $18.6M；29 人（konaequity 108 人 / Indeed 51–200）；(215) 355-8200；Shad Sechrist — Director, Data Center Solutions；konaeq",
+   "quote": "US · 1 次检索：rocketreach（1964；$18.6M；29；Ivyland）+ konaequity（108 人；wcorrar@ / mprice@ 公开）+ indeed（51–200）；PA 登记号未取；2026-10-29",
+   "url": "https://rocketreach.co/lynn-electronics-corporation-profile_b44d75e7fd255469",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "美国 Lynn Electronics（MC / switch / SFP，从 VOLKTEK 买 MC）：美国主区 + 进口经验（台湾 Volktek）+ 自有品牌连接产品 → 闸 2 查底数；11 推 0 回；Simon 曾判不行 → 可按编号否决",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R02",
+   "claim": "桌面复核（闸 2 证据充分，三问成立）：★ 自有品牌 · OEM 30%：Lynn Electronics Corporation（Ivyland PA 1964；$18.6M；29–108 人；进口 Volktek；Director Data Center Solutions 在职）坐实；自有品牌 ✔ 进口经验 ✔ 主区 ✔ 体量 ✔ → P 池候选（DC 线可提 CENTEC）；Simon 曾判不行，可否决",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "kedsall@thinklynn.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 自有品牌 · OEM 30%：Lynn Electronics Corporation（Ivyland PA 1964；$18.6M；29–108 人；进口 Volktek；Director Data Center Solutions 在职）坐实；自有品牌 ✔ 进口经验 ✔ 主区 ✔ 体量 ✔ → P 池候选（DC 线可提 CENTEC）；Simon 曾判不行，可否决；闸 1：美国 Lynn Electronics（MC / switch / SFP，从 VOLKTEK 买 MC）：美国主区 + 进口经验（台湾 Volktek）+ 自有品牌连接产品 → 闸 2 查底数；11 推 0 回；Simon 曾判不行 →…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +70,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +85,62 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 自有品牌 · OEM 30%：Lynn Electronics Corporation（Ivyland PA 1964；$18.6M；29–108 人；进口 Volktek；Director Data Center Solutions 在职）坐实；自有品牌 ✔ 进口经验 ✔ 主区 ✔ 体量 ✔ → P 池候选（DC 线可提 CENTEC）；Simon 曾判不行，可否决",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "US · 1 次检索：rocketreach（1964；$18.6M；29；Ivyland）+ konaequity（108 人；wcorrar@ / mprice@ 公开）+ indeed（51–200）；PA 登记号未取；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://rocketreach.co/lynn-electronics-corporation-profile_b44d75e7fd255469"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Lynn Electronics Corporation / Inc.",
+  "reg_no": "未取（PA 登记号未查）",
+  "status": "营业中（2025 营收数据）",
+  "incorporated": "1964",
+  "company_type": "Corporation",
+  "address": "154 Railroad Dr, Ivyland, PA 18974",
+  "size_band": "中型（29–108；$18.6M）",
+  "officers": [
+   "Shad Sechrist — Director, Data Center Solutions（DC 线 KP）",
+   "kedsall@thinklynn.com（表内具名；职务未取）",
+   "Walter Corrar — Manager（wcorrar@lynnelec.com 公开）"
+  ],
+  "psc": "未取",
+  "source": "US · 1 次检索：rocketreach（1964；$18.6M；29；Ivyland）+ konaequity（108 人；wcorrar@ / mprice@ 公开）+ indeed（51–200）；PA 登记号未取；2026-10-29",
+  "url": "https://rocketreach.co/lynn-electronics-corporation-profile_b44d75e7fd255469",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "连接 / 网络产品制造 + 分销（自有品牌；数据中心方案线）"
+ ],
+ "channels": {
+  "网站": "https://lynnelec.com",
+  "直邮": "kedsall@thinklynn.com（表内）"
+ },
+ "signals": [
+  "美国 Lynn Electronics（MC / switch / SFP，从 VOLKTEK 买 MC）：美国主区 + 进口经验（台湾 Volktek）+ 自有品牌连接产品 → 闸 2 查底数；11 推 0 回；Simon 曾判不行 → 可按编号否决",
+  "表内兴趣：MC switch SFP \n相关的光纤网络服务；从VOLKTEK 买MC"
+ ],
+ "risks": [
+  "**自有品牌 + 进口 Volktek + DC 方案线 → OEM 30%：点名 Shad Sechrist 一页纸一次（STC-110XGE 10G MC + STC-424XGGM 对标 + 丝印 MOQ；CENTEC STH 线作敲门砖提一句）— 北美常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳 / DAP（买方清关）；周三 08",
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

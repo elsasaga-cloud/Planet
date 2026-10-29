@@ -1,17 +1,46 @@
 {
  "code": "SC-671",
- "name_official": "Leader Optec",
+ "name_official": "LEADER OPTEC LIMITED",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "Active（账目已报）",
  "summary": "C 池三闸捞出（★ 正式）：★ 自有品牌 · OEM 30%：LEADER OPTEC LIMITED（St Asaph；Co. No. 03936485；2000；11–50 人；$5.1M；董事 Paul Anthony Desmond = 表内 pauldesmond@）坐实；自有品牌布线商 ✔ 中国采购 30–40% ✔ 四主区 ✔ 决策人直达 ✔ → P 池候选",
- "type": "",
- "size": "",
+ "type": "OEM（闸 2 判定 · 30% 档）",
+ "size": "小型（11–50；$5.1M）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "LEADER OPTEC LIMITED（leaderoptec.com；**companycheck：Company No 03936485；2000-02-29 注册；Active – Accounts Filed；SIC 28990；Unit 15 Lite Linke Buildings, St. Asaph Business Park, St Asaph LL17 0LJ；董事 Paul Anthony Desmond（2000 起 = 表内 pauldesmond",
+   "quote": "GB · 1 次检索：companycheck.co.uk（公司号 / 董事 / 状态）+ zoominfo（11–50；$5.1M）+ crunchbase（MD Paul Desmond）；2026-10-29",
+   "url": "https://companycheck.co.uk/company/03936485/LEADER-OPTEC-LIMITED/companies-house-data",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "英国 Leader Optec（leaderoptec.com；passive / FTTH 为主的 trader，30–40% 业务在中国，表内邮箱 = 其国内负责人、负责采购 active 产品）：四主区 + 进口经验 + 中国采购 KP 在表 + 对位 ✔；未触达 → 闸 2 查底数",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R02",
+   "claim": "桌面复核（闸 2 证据充分，三问成立）：★ 自有品牌 · OEM 30%：LEADER OPTEC LIMITED（St Asaph；Co. No. 03936485；2000；11–50 人；$5.1M；董事 Paul Anthony Desmond = 表内 pauldesmond@）坐实；自有品牌布线商 ✔ 中国采购 30–40% ✔ 四主区 ✔ 决策人直达 ✔ → P 池候选",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "pauldesmond@leaderoptec.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 自有品牌 · OEM 30%：LEADER OPTEC LIMITED（St Asaph；Co. No. 03936485；2000；11–50 人；$5.1M；董事 Paul Anthony Desmond = 表内 pauldesmond@）坐实；自有品牌布线商 ✔ 中国采购 30–40% ✔ 四主区 ✔ 决策人直达 ✔ → P 池候选；闸 1：英国 Leader Optec（leaderoptec.com；passive / FTTH 为主的 trader，30–40% 业务在中国，表内邮箱 = 其国内负责人、负责采购 active 产品）：四主区 + 进口经验 + 中国采购 …",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +70,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +85,61 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 自有品牌 · OEM 30%：LEADER OPTEC LIMITED（St Asaph；Co. No. 03936485；2000；11–50 人；$5.1M；董事 Paul Anthony Desmond = 表内 pauldesmond@）坐实；自有品牌布线商 ✔ 中国采购 30–40% ✔ 四主区 ✔ 决策人直达 ✔ → P 池候选",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "GB · 1 次检索：companycheck.co.uk（公司号 / 董事 / 状态）+ zoominfo（11–50；$5.1M）+ crunchbase（MD Paul Desmond）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://companycheck.co.uk/company/03936485/LEADER-OPTEC-LIMITED/companies-house-data"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "LEADER OPTEC LIMITED",
+  "reg_no": "03936485",
+  "status": "Active（账目已报）",
+  "incorporated": "2000-02-29",
+  "company_type": "Private limited",
+  "address": "Unit 15 Lite Linke Buildings, St. Asaph Business Park, St Asaph LL17 0LJ",
+  "size_band": "小型（11–50；$5.1M）",
+  "officers": [
+   "Paul Anthony Desmond — Director / MD（pauldesmond@leaderoptec.com 表内 = 决策人直达）",
+   "Laurie Sara Summers — Director",
+   "Lisa Desmond — Company Secretary"
+  ],
+  "psc": "未取",
+  "source": "GB · 1 次检索：companycheck.co.uk（公司号 / 董事 / 状态）+ zoominfo（11–50；$5.1M）+ crunchbase（MD Paul Desmond）；2026-10-29",
+  "url": "https://companycheck.co.uk/company/03936485/LEADER-OPTEC-LIMITED/companies-house-data",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "光纤 / 铜缆产品制造 + 贸易（北威尔士）"
+ ],
+ "channels": {
+  "网站": "https://leaderoptec.com",
+  "直邮": "pauldesmond@leaderoptec.com（表内）"
+ },
+ "signals": [
+  "英国 Leader Optec（leaderoptec.com；passive / FTTH 为主的 trader，30–40% 业务在中国，表内邮箱 = 其国内负责人、负责采购 active 产品）：四主区 + 进口经验 + 中国采购 KP 在表 + 对位 ✔；未触达 → 闸 2 查底数",
+  "表内兴趣：主要是passive/FTTH/FFTX类产品，trader/reseller, 30~40%的业务在中国\n邮箱是他国内负责人的，负责采购active产品"
+ ],
+ "risks": [
+  "**自有品牌布线商补 active 线 → OEM 30%：点名 Paul 一页纸一次（STC-028GP / STC-228GP / STC-110XGE MC 丝印 + MOQ + 付费样机；可提中国采购直供）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

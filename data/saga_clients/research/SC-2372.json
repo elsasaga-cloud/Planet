@@ -1,17 +1,54 @@
 {
  "code": "SC-2372",
- "name_official": "eurosatscotland.co.uk",
+ "name_official": "EUROSAT (SCOTLAND) LIMITED",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "Active（Accounts Filed）",
  "summary": "C 池三闸捞出（○ 正式）：○ 分销 20%：Eurosat (Scotland) Limited SC204360（2000；Glasgow；Oprema 渠道；3 董事）坐实；KP graeme@ = Director Graeme Colin Miller；对位 ✔ 主区 ✔ 坐实 ✔ 体量 ✔（25 年分销）→ P 池候选；Simon 曾判不行，可否决",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "分销（闸 2 判定 · 20% 档）",
+ "size": "中型（25 年；3 董事）",
+ "brands_seen": [
+  "Dahua"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "EUROSAT (SCOTLAND) LIMITED（eurosatscotland.co.uk / 关联 oprema.co.uk；**Companies House SC204360：Active；成立 2000-02-28；30 Couper Street, Glasgow G4 0DL；SIC 46439 电视 / 电器批发；董事 Graeme Colin Miller（2017-04）、Martin Brian Mulhern（2017-04）、Colin Thom",
+   "quote": "GB · 1 次检索：find-and-update.company-information.service.gov.uk/company/SC204360 + companycheck（3 directors）+ mirror directory（0141 552 2111）；2026-10-29",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/SC204360",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "英国 Eurosat / Oprema（大型安防分销商，在卖 Dahua PoE）→ 英国主区 + 分销体量；19 推 0 回；Simon 判不行 → 闸 2 查底数，入池需 §5 四条",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R01",
+   "claim": "Eurosat (Scotland) Limited（SC204360；2000；Glasgow；Oprema 渠道；KP Director Graeme Miller）：25 年安防分销 ✔ 对位 ✔ 主区 ✔ → 留 B",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "web@eurosatscotland.co.uk",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "graeme@eurosatscotland.co.uk",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 分销 20%：Eurosat (Scotland) Limited SC204360（2000；Glasgow；Oprema 渠道；3 董事）坐实；KP graeme@ = Director Graeme Colin Miller；对位 ✔ 主区 ✔ 坐实 ✔ 体量 ✔（25 年分销）→ P 池候选；Simon 曾判不行，可否决；闸 1：英国 Eurosat / Oprema（大型安防分销商，在卖 Dahua PoE）→ 英国主区 + 分销体量；19 推 0 回；Simon 判不行 → 闸 2 查底数，入池需 §5 四条",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +78,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +93,61 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 分销 20%：Eurosat (Scotland) Limited SC204360（2000；Glasgow；Oprema 渠道；3 董事）坐实；KP graeme@ = Director Graeme Colin Miller；对位 ✔ 主区 ✔ 坐实 ✔ 体量 ✔（25 年分销）→ P 池候选；Simon 曾判不行，可否决",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "GB · 1 次检索：find-and-update.company-information.service.gov.uk/company/SC204360 + companycheck（3 directors）+ mirror directory（0141 552 2111）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/SC204360"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "EUROSAT (SCOTLAND) LIMITED",
+  "reg_no": "SC204360",
+  "status": "Active（Accounts Filed）",
+  "incorporated": "2000-02-28",
+  "company_type": "Private limited Company",
+  "address": "30 Couper Street, Glasgow, G4 0DL",
+  "size_band": "中型（25 年；3 董事）",
+  "officers": [
+   "Graeme Colin Miller — Director（Companies House 2017-04；graeme@eurosatscotland.co.uk 表内）= 收件人",
+   "Martin Brian Mulhern — Director（2017-04）",
+   "Colin Thomas Miller — Director（创始 2000）"
+  ],
+  "psc": "未取",
+  "source": "GB · 1 次检索：find-and-update.company-information.service.gov.uk/company/SC204360 + companycheck（3 directors）+ mirror directory（0141 552 2111）；2026-10-29",
+  "url": "https://find-and-update.company-information.service.gov.uk/company/SC204360",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "46439 电视 / 卫星 / 电器批发（安防分销，Oprema 渠道）"
+ ],
+ "channels": {
+  "网站": "https://eurosatscotland.co.uk",
+  "直邮": "web@eurosatscotland.co.uk，graeme@eurosatscotland.co.uk（表内）"
+ },
+ "signals": [
+  "英国 Eurosat / Oprema（大型安防分销商，在卖 Dahua PoE）→ 英国主区 + 分销体量；19 推 0 回；Simon 判不行 → 闸 2 查底数，入池需 §5 四条",
+  "表内兴趣：商业PoE 自己的logo\n有人卖他们的；商业POE 自己的logo"
+ ],
+ "risks": [
+  "**分销 20%：对董事一页纸一次（Dahua PoE 同口型对标 STC-028GP $28 / STC-228GP $33 / STC-2224GP $86 + MOQ 1 + 付费样机；UKCA）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；Simon 可否决"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

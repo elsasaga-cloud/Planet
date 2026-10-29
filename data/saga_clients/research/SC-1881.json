@@ -1,17 +1,55 @@
 {
  "code": "SC-1881",
- "name_official": "Tss security systems",
+ "name_official": "TSS Group a. s.",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（登记更新 2026-10-07）",
  "summary": "C 池三闸捞出（★ 正式）：★ 中型分销 20%：TSS Group a.s.（36323551；Dubnica nad Váhom 2002；102–150 人；Dahua / Avigilon / Sony 进口分销 + 制造）坐实；对位 ✔ 欧洲 ✔ 坐实 ✔ 体量 ✔ 具名 sokol@ / roxer@ → P 池候选",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "中型分销（闸 2 判定 · 20% 档）",
+ "size": "中型（102–150）",
+ "brands_seen": [
+  "Dahua",
+  "Avigilon"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "TSS Group a. s.（tssgroup.sk；**foaf.sk / ifirmy / pracuj：IČO 36323551；DIČ 2020116505；Továrenská 4201/50, 018 41 Dubnica nad Váhom；2002-04-24 成立（Okresný súd Trenčín Sa/10609/R）；102–150 名员工；分销 + 开发 + 制造，进口销售安防系统（Dahua / Avigilon / Sony 摄像机、车辆 ",
+   "quote": "SK · 1 次检索：foaf.sk/36323551（Sa/10609/R；2002；Továrenská 4201/50）+ ifirmy（102 人；Distribútor / Dovozca）+ pracuj.sk（≈150 人；Dahua / Avigilon / SONY 分销）；2026-10-29",
+   "url": "https://www.foaf.sk/36323551",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "斯洛伐克 TSS Group（CCTV 集成商，自称斯洛伐克第二大 CCTV 批发商；对 IP / analog over fiber 感兴趣）：欧洲 + 批发商体量 + PoE 对位；电话加不上、企业邮箱在 → 闸 2 查底数",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R02",
+   "claim": "桌面复核（闸 2 证据充分，三问成立）：★ 中型分销 20%：TSS Group a.s.（36323551；Dubnica nad Váhom 2002；102–150 人；Dahua / Avigilon / Sony 进口分销 + 制造）坐实；对位 ✔ 欧洲 ✔ 坐实 ✔ 体量 ✔ 具名 sokol@ / roxer@ → P 池候选",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "sokol@tssgroup.sk",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "roxer@tssgroup.sk",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 中型分销 20%：TSS Group a.s.（36323551；Dubnica nad Váhom 2002；102–150 人；Dahua / Avigilon / Sony 进口分销 + 制造）坐实；对位 ✔ 欧洲 ✔ 坐实 ✔ 体量 ✔ 具名 sokol@ / roxer@ → P 池候选；闸 1：斯洛伐克 TSS Group（CCTV 集成商，自称斯洛伐克第二大 CCTV 批发商；对 IP / analog over fiber 感兴趣）：欧洲 + 批发商体量 + PoE 对位；电话加不上、企业邮箱在 → 闸 2 查底数",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +79,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（中型分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +94,60 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 中型分销 20%：TSS Group a.s.（36323551；Dubnica nad Váhom 2002；102–150 人；Dahua / Avigilon / Sony 进口分销 + 制造）坐实；对位 ✔ 欧洲 ✔ 坐实 ✔ 体量 ✔ 具名 sokol@ / roxer@ → P 池候选",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "SK · 1 次检索：foaf.sk/36323551（Sa/10609/R；2002；Továrenská 4201/50）+ ifirmy（102 人；Distribútor / Dovozca）+ pracuj.sk（≈150 人；Dahua / Avigilon / SONY 分销）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.foaf.sk/36323551"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "TSS Group a. s.",
+  "reg_no": "IČO 36323551",
+  "status": "营业中（登记更新 2026-10-07）",
+  "incorporated": "2002-04-24",
+  "company_type": "a.s.",
+  "address": "Továrenská 4201/50, 018 41 Dubnica nad Váhom",
+  "size_band": "中型（102–150）",
+  "officers": [
+   "Sokol（sokol@tssgroup.sk 表内具名；职务未取）",
+   "Roxer（roxer@tssgroup.sk 表内具名；职务未取）"
+  ],
+  "psc": "未取",
+  "source": "SK · 1 次检索：foaf.sk/36323551（Sa/10609/R；2002；Továrenská 4201/50）+ ifirmy（102 人；Distribútor / Dovozca）+ pracuj.sk（≈150 人；Dahua / Avigilon / SONY 分销）；2026-10-29",
+  "url": "https://www.foaf.sk/36323551",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "安防系统进口分销 + 制造（Dahua / Avigilon；斯洛伐克 / 捷克）"
+ ],
+ "channels": {
+  "网站": "https://tssgroup.sk",
+  "直邮": "sokol@tssgroup.sk，roxer@tssgroup.sk（表内）"
+ },
+ "signals": [
+  "斯洛伐克 TSS Group（CCTV 集成商，自称斯洛伐克第二大 CCTV 批发商；对 IP / analog over fiber 感兴趣）：欧洲 + 批发商体量 + PoE 对位；电话加不上、企业邮箱在 → 闸 2 查底数",
+  "表内兴趣：CCTV SYSTEM Integrator,对IP OVER FIBER, analog over fiber感兴趣，说是斯洛伐克第二大cctv批发商"
+ ],
+ "risks": [
+  "**大型安防分销 → 分销 20%：点名 sokol@ 一页纸一次（安防 PoE 线 STC-028GP / STC-228GP / STC-2224GP + 工业 STI-154GP；光纤回传：STI-154GP SFP 口 + MC STC-110XGE 不供百兆明说）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FO"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（中型分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

@@ -71,7 +71,7 @@
 - 对口哪条线：— — 品牌独家，不会上第二牌
 - 找得到人吗：contact@draytek.de（公开）；KP：无具名
 - 已触达：未发信
-- 与 Saga Clients：无
+- 与 Saga Clients：Saga SC-145（同域 draytek.de，Saga 侧 C 储备、无研究档）→ 以本卡为长期群主档（交叉检查 LT-X01 2026-10-29）
 - **下一动作：不动**
 
 证据：

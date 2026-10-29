@@ -1,17 +1,56 @@
 {
  "code": "SC-2452",
- "name_official": "a-secur.com",
+ "name_official": "Leistung S.L.U.",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（招聘 / 官网在线）",
  "summary": "C 池三闸捞出（○ 正式）：○ 贴牌渠道 · 分销 20% / OEM 30%：A-SECUR = Leistung S.L.U.（Mos, Pontevedra；11–50；安防批发 + 自有线 Movok；ONV / Utepo 页面）部分坐实（CIF 未取）；进口经验 ✔ 欧洲 ✔ 对位 ✔ 自有线 ✔ → P 池候选；Simon 曾判不行，可否决",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "分销（闸 2 判定 · 20% 档）",
+ "size": "小型（11–50）",
+ "brands_seen": [
+  "Utepo",
+  "Dahua",
+  "ONV"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Leistung S.L.U.（分销品牌 A-SECUR；a-secur.com；**Crunchbase：A-SECUR 为 Leistung S.L.U. 的分销品牌，面向专业安装商的电子安防批发（CCTV / 入侵 / 门禁 / 布线；Dahua 兼容 + 自有线 Movok AI 视频产品）；11–50 人；paxinasgalegas：Anel da Lagoa 18, Pol. Ind. Veigadaña, 36415 Mos (Pontevedra)；986 ",
+   "quote": "ES · 1 次检索：crunchbase（Leistung S.L.U.；Movok；11-50）+ paxinasgalegas（Mos 地址 / 电话）+ join.com；2026-10-29",
+   "url": "https://www.crunchbase.com/organization/a-secur",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "西班牙 A-Secur（安防分销商，ONV / Utepo 页面，早期 AI 50% A）→ 主区 + 贴牌渠道；15 推 0 回；Simon 判不行 → 闸 2 查底数",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R02",
+   "claim": "桌面复核（闸 2 证据充分，三问成立）：○ 贴牌渠道 · 分销 20% / OEM 30%：A-SECUR = Leistung S.L.U.（Mos, Pontevedra；11–50；安防批发 + 自有线 Movok；ONV / Utepo 页面）部分坐实（CIF 未取）；进口经验 ✔ 欧洲 ✔ 对位 ✔ 自有线 ✔ → P 池候选；Simon 曾判不行，可否决",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "info@a-secur.es",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "javperez@a-secur.es",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 贴牌渠道 · 分销 20% / OEM 30%：A-SECUR = Leistung S.L.U.（Mos, Pontevedra；11–50；安防批发 + 自有线 Movok；ONV / Utepo 页面）部分坐实（CIF 未取）；进口经验 ✔ 欧洲 ✔ 对位 ✔ 自有线 ✔ → P 池候选；Simon 曾判不行，可否决；闸 1：西班牙 A-Secur（安防分销商，ONV / Utepo 页面，早期 AI 50% A）→ 主区 + 贴牌渠道；15 推 0 回；Simon 判不行 → 闸 2 查底数",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +80,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +95,61 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 贴牌渠道 · 分销 20% / OEM 30%：A-SECUR = Leistung S.L.U.（Mos, Pontevedra；11–50；安防批发 + 自有线 Movok；ONV / Utepo 页面）部分坐实（CIF 未取）；进口经验 ✔ 欧洲 ✔ 对位 ✔ 自有线 ✔ → P 池候选；Simon 曾判不行，可否决",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "ES · 1 次检索：crunchbase（Leistung S.L.U.；Movok；11-50）+ paxinasgalegas（Mos 地址 / 电话）+ join.com；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.crunchbase.com/organization/a-secur"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Leistung S.L.U.",
+  "reg_no": "未取（CIF 1 查未得；法人名 Leistung S.L.U.）",
+  "status": "营业中（招聘 / 官网在线）",
+  "incorporated": "未取（>15 年）",
+  "company_type": "S.L.U.",
+  "address": "Anel da Lagoa 18, Pol. Ind. Veigadaña, 36415 Mos (Pontevedra)",
+  "size_band": "小型（11–50）",
+  "officers": [
+   "javperez@a-secur.es（表内具名；职务未取）",
+   "（info@a-secur.es 官网公开总邮箱）"
+  ],
+  "psc": "未取",
+  "source": "ES · 1 次检索：crunchbase（Leistung S.L.U.；Movok；11-50）+ paxinasgalegas（Mos 地址 / 电话）+ join.com；2026-10-29",
+  "url": "https://www.crunchbase.com/organization/a-secur",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "电子安防批发（加利西亚 Mos；自有线 Movok）"
+ ],
+ "channels": {
+  "网站": "https://a-secur.com",
+  "直邮": "info@a-secur.es，javperez@a-secur.es（表内）"
+ },
+ "signals": [
+  "西班牙 A-Secur（安防分销商，ONV / Utepo 页面，早期 AI 50% A）→ 主区 + 贴牌渠道；15 推 0 回；Simon 判不行 → 闸 2 查底数",
+  "表内兴趣：商业POE为主 工业FS \nONV的 也有Utepo的；商业POE为主 工业FS \n自己的logo"
+ ],
+ "risks": [
+  "**贴牌渠道（自有线 Movok）→ OEM 30% / 分销 20% 双轨：一页纸一次（STC-028GP $28 / STC-228GP $33 + 丝印 MOQ；Utepo / ONV 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；Simon 可否决",
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

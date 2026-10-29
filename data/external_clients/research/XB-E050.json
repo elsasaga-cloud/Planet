@@ -1,0 +1,62 @@
+{
+ "code": "XB-E050",
+ "name": "PT. Krida Hasta Tama",
+ "round": "LT-T01",
+ "researched_at": "2026-10-29",
+ "alive": "域名 kridahastatama.web.indotrading.com 有 A 记录、无 MX（邮箱可能托管在别的域；DNS 2026-10-29）",
+ "summary": "PT. Krida Hasta Tama（印尼 · Jakarta）：分销商",
+ "type_final": "分销商",
+ "size": "",
+ "brands_seen": [],
+ "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "分销商",
+   "quote": "",
+   "url": "https://kridahastatama.web.indotrading.com",
+   "date": "2026-10-27"
+  },
+  {
+   "kind": "来源库证据链接",
+   "claim": "来源库调研时引用",
+   "quote": "",
+   "url": "https://www.edge-core.com/where-to-buy/asia-distributors/",
+   "date": "2026-10-27"
+  },
+  {
+   "kind": "长期群复核 LT-R07",
+   "claim": "桌面复核（来源库核对 + 研究卡）：分销商；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "contacts": {
+  "email": "info@gae.id",
+  "email_status": "活（来源库 9 月核对）",
+  "kp": [
+   {
+    "name": "Hadi Purnanto",
+    "role": "公司 PIC（对外联系人）",
+    "source": "来源库 KP 段"
+   }
+  ]
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "桌面复核（来源库核对 + 研究卡）：分销商；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "官网快照 + 加厚后进群发分组（Q-77）"
+ },
+ "draft_en": null,
+ "deep": false,
+ "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+}

@@ -1,10 +1,11 @@
 # itvsecurity.com
+**官方名称（调研核实）**：ITV-Security ApS
 
 > **评级 B**　|　丹麦　|　档案编号 `SC-1706`　|　优先级 ★★　|　状态：已推送 15 次·未回复
 >
 > **C 池筛选：△ P 池 · 观察档（疑点（制裁 / 国别 / 主体 / 收款）核清后转正或退回 C）**（闸 3 · 2026-10-29）：☆ P 池观察档（档位 △ = 微型 / 自用 / 个体 / 存疑，试单或回访一次后定）：△ 观察档 · 分销 20%：ITV-Security ApS（CVR 38937456；Randers；安防网店 + 分销；Vivotek + acorid）坐实；进口中国品牌 ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔ → 入池观察档（微型）
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 15 次（2024-05-01 → 2025-10-07）　|　**所在清单**：A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：分销（闸 2 判定 · 20% 档）（推断）　|　**历史关系**：推送 15 次（2024-05-01 → 2025-10-07）　|　**所在清单**：A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-1706
@@ -12,12 +13,12 @@ rating: B
 rating_auto: C
 sieve: pool_watch  # 闸 3 P1 2026-10-29
 rating_research: B  # Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · 
-name_official: "itvsecurity.com"
+name_official: "ITV-Security ApS"
 score: 5
 country: 丹麦
 region: 欧洲
 website: itvsecurity.com
-type: 经销/集成（类型待核）
+type: 分销（闸 2 判定 · 20% 档）
 tier_tags: ["A优质名单(其他优质欧洲客户)", "AI评估(EU)·DONE"]
 deal: no
 replies: 0
@@ -25,7 +26,7 @@ followups: 15
 first_contact: 2024-05-01
 last_contact: 2025-10-07
 s_mail: 24 msgs (out 24 / in 0), 2024-06-25 -> 2026-09-09
-p1: STC-424DGGPM-280W
+p1: STC-228GP
 price_tier: 20%
 research: done
 site_snapshot: none
@@ -38,7 +39,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（△ 观察）：△ 观察档 · 分销 20%：ITV-Security ApS（CVR 38937456；Randers；安防网店 + 分销；Vivotek + acorid）坐实；进口中国品牌 ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔ → 入池观察档（微型）（调研 2026-10-29；表内兴趣：产品线很相似  一个是Vivotek  一个是深圳的牌子 acorid）
 - **为什么是 B 级**：**调研后定级 B**（Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · 分销 20%：ITV-Security ApS（CVR 38937456；Randers；安防网店 + 分销；Vivotek + acorid）坐实；进口中国品牌 ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔ → 入池观察档（微型）；闸 1：丹麦 ITV Security（产品线 Vivotek + 深圳 acorid 牌）：欧洲 + 已进口中国品牌 + 对位 ✔（安防网络）；15 次跟进无回复（冷）→ 闸 2 查底数）；自动分级 C：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/丹麦；+5 最近活动 2025；-16 推送 15 次无任何回复（聋名单）
 - **历史互动**：推送 15 次（2024-05-01 → 2025-10-07）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-424DGGPM-280W — 待复核后按业务线定首推型号；
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-228GP — 默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）；
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：不动：LT-01 复核（待过）后再定 — 长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
@@ -51,12 +52,13 @@ updated: 2026-10-29
 - **现状一句话**：C 池三闸捞出 → B（LT-01）：△ 观察档 · 分销 20%：ITV-Security ApS（CVR 38937456；Randers；安防网店 + 分销；Vivotek + acorid）坐实；进口中国品牌 ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔ → 入池观察档（微型）
 - **对方真实需求（有据）**：未知（无往来；复核时从官网 / 进口数据 / 项目推断）
 - **断点 / 为什么停在这里**：无往来（从未触达或仅群发无回）
-- **Saga 现在该推什么**：P1 ****（% 档，价见价格主表）——待复核后按业务线定首推型号
+- **Saga 现在该推什么**：P1 **STC-228GP**（% 档，价见价格主表）——默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）
 - **下一步（具体）**：不动：LT-01 复核（待过）后再定　—　长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | △ 观察档 · 分销 20%：ITV-Security ApS（CVR 38937456；Randers；安防网店 + 分销；Vivotek + acorid）坐实；进口中国品牌 ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔ → 入池观察档（微型） | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
+| 2026-10-29 | 查 | Agent 登记底数（registry） | DK · 1 次检索：itvsecurity.dk 商品 / 品牌页页脚（ITV-Security ApS；CVR 38937456；Randers NØ）；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -91,7 +93,7 @@ updated: 2026-10-29
 | 名称 | itvsecurity.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 丹麦 | 事实（用户表）|
 | 网站/域名 | itvsecurity.com / itvsecurity.dk | 事实（用户表 URL/邮箱域名） |
-| 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
+| 类型 | 分销（闸 2 判定 · 20% 档） | 推断（据兴趣/备注关键词） |
 | 联系人 | — | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 产品线很相似  一个是Vivotek <br>一个是深圳的牌子 acorid | 事实（用户表） |
@@ -114,11 +116,37 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-29）**　网站状态：
+- **状态：已调研（2026-10-29）**　网站状态：营业中（网店在线）
 - **是谁**：C 池三闸捞出（△ 观察）：△ 观察档 · 分销 20%：ITV-Security ApS（CVR 38937456；Randers；安防网店 + 分销；Vivotek + acorid）坐实；进口中国品牌 ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔ → 入池观察档（微型）
+- **类型**：分销（闸 2 判定 · 20% 档）
+- **规模**：微型 / 小型（推定）
+- **在卖/在用品牌**：Vivotek
+- **【登记底数 / 官网（闸 2 坐实）】ITV-Security ApS（itvsecurity.dk / .com；**官网页脚：CVR 38937456；Æblehaven 7, 8930 Randers NØ；电话 35115000；kontakt@itvsecurity.dk；品牌页 Vivotek / Avico / Milestone**）；表内：产品线 Vivotek + 深圳 acorid 牌；15 次跟进无回复**
+  > DK · 1 次检索：itvsecurity.dk 商品 / 品牌页页脚（ITV-Security ApS；CVR 38937456；Randers NØ）；2026-10-29
+  > 来源：https://itvsecurity.dk/shop/8-vms-software-amp-apps/（抓取 2026-10-29）
+- **【闸 1 对位】丹麦 ITV Security（产品线 Vivotek + 深圳 acorid 牌）：欧洲 + 已进口中国品牌 + 对位 ✔（安防网络）；15 次跟进无回复（冷）→ 闸 2 查底数**
+  > 来源：（抓取 2026-10-29）
+- **【长期群复核 LT-R01】ITV-Security ApS（CVR 38937456；Randers；安防网店 + 分销；进口 Vivotek + acorid）：进口经验 ✔ 对位 ✔ 欧洲 ✔ → 留 B（微型）**
+  > 来源：（抓取 2026-10-29）
+- **KP**：—（表内邮箱（公开 / 总机））kontakt@itvsecurity.dk 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · 分销 20%：ITV-Security ApS（CVR 38937456；Randers；安防网店 + 分销；Vivotek + acorid）坐实；进口中国品牌 ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔ → 入池观察档（微型）；闸 1：丹麦 ITV Security（产品线 Vivotek + 深圳 acorid 牌）：欧洲 + 已进口中国品牌 + 对位 ✔（安防网络）；15 次跟进无回复（冷）→ 闸 2 查底数
-- 备注：（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
+- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | ITV-Security ApS |
+
+- **业务线**：安防 / 视频监控网店 + 分销（丹麦）
+- **触达通道（公开）**：网站: https://itvsecurity.com；直邮: kontakt@itvsecurity.dk（表内）
+- **近况信号**：
+  - 丹麦 ITV Security（产品线 Vivotek + 深圳 acorid 牌）：欧洲 + 已进口中国品牌 + 对位 ✔（安防网络）；15 次跟进无回复（冷）→ 闸 2 查底数
+  - 表内兴趣：产品线很相似  一个是Vivotek 
+一个是深圳的牌子 acorid
+- **风险/边界**：**分销 20%：一页纸一次（安防 PoE：STC-028GP / STC-228GP + MOQ 1 + 付费样机；acorid 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**
+- **Saga 对位结论**：P1 STC-228GP（20% 档）——默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -189,7 +217,7 @@ updated: 2026-10-29
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | kontakt@itvsecurity.dk | 用户表原值 | Clients/ 表 |
+| — | 表内邮箱（公开 / 总机） | kontakt@itvsecurity.dk | 调研核实（公开页） | 调研 |
 
 - **通道建议**：邮件已推送 15 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -206,7 +234,7 @@ updated: 2026-10-29
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STC-228GP | 深挖对位：默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档） | $33.2 USD EXW（HRUI Realtek 线：洪瑞 2026-09-30 成本 + 20%（列表价 $30.8 隐含加价低于底线，第 73 批口径）；见 data/价格主表_HRUI.csv；汇率 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销（闸 2 判定 · 20% 档）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：20% 档 $139.9 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $181.2——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -215,9 +243,9 @@ updated: 2026-10-29
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-228GP），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-228GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -226,8 +254,8 @@ updated: 2026-10-29
 ## SWOT
 
 - **S**：欧洲主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达；已推送 15 次无回复，邮件通道疲劳
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源
+- **W**：已推送 15 次无回复，邮件通道疲劳
+- **O**：P1 STC-228GP 按 20% 档报价，做现供应商的第二货源；规模（调研）：微型 / 小型（推定）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -243,7 +271,7 @@ updated: 2026-10-29
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ❓ 表内兴趣不含交换机关键词 |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
@@ -256,14 +284,14 @@ updated: 2026-10-29
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-228GP - 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (neutral label)
 
 ```text
 Hello,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply an 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (unmanaged, 120 W, PoE watchdog) - model STC-228GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $33.2 USD EXW (valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

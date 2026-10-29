@@ -1,17 +1,48 @@
 {
  "code": "SC-1371",
- "name_official": "mywatchdog.in",
+ "name_official": "WatchDog = Apollo Infoways Pvt. Ltd.",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（官网 2025）",
  "summary": "C 池三闸捞出（★ 正式）：★ 全线自有品牌 · OEM 30%：WatchDog = Apollo Infoways Pvt Ltd（Noida Sector-63；PoE / 工业 / DC 交换机全线自有品牌；GeM 上架；Bangalore / Dubai / Singapore 办事处）部分坐实（CIN 未取）；自有品牌全线 ✔ 对位 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon：默认只推 SmartByte / Marvell 管理…",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "OEM（闸 2 判定 · 30% 档）",
+ "size": "中型（4 城办事处；全线产品）",
+ "brands_seen": [
+  "HRUI"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "WatchDog = Apollo Infoways Pvt. Ltd.（mywatchdog.in；**官网：H-102, Sector-63, Noida, UP 201301；Toll Free 1800 309 9415；info@mywatchdog.in；自有品牌 WatchDog：PoE / 工业 / 数据中心（自述至 800G）交换机 + 路由 / 无线 / 光模块 / 防火墙；\"Engineered in Noida\"；GeM 上架、政府 / PSU / 国",
+   "quote": "IN · 1 次检索：mywatchdog.in 首页 + /contact.html（地址 / 办事处）+ 10G-Data-Center-Switch PDF（法人名 Apollo Infoways）；CIN 未取；2026-10-29",
+   "url": "https://www.mywatchdog.in/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "印度 Mywatchdog（mywatchdog.in；工业交换机页 AOA / 洪瑞 / 丰润达都有 = 多牌进口 + 洪瑞现供）：进口中国同类 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先；洪瑞现供客户 → Q-33 口径待 Simon（默认只推 SmartByte / Marvell 管理 + 工业线）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：★ 全线自有品牌 · OEM 30%：WatchDog = Apollo Infoways Pvt Ltd（Noida Sector-63；PoE / 工业 / DC 交换机全线自有品牌；GeM 上架；Bangalore / Dubai / Singapore 办事处）部分坐实（CIN 未取）；自有品牌全线 ✔ 对位 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon：默认只推 Sma…",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "info@mywatchdog.in",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 全线自有品牌 · OEM 30%：WatchDog = Apollo Infoways Pvt Ltd（Noida Sector-63；PoE / 工业 / DC 交换机全线自有品牌；GeM 上架；Bangalore / Dubai / Singapore 办事处）部分坐实（CIN 未取）；自有品牌全线 ✔ 对位 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon：默认只推 Sm…；闸 1：印度 Mywatchdog（mywatchdog.in；工业交换机页 AOA / 洪瑞 / 丰润达都有 = 多牌进口 + 洪瑞现供）：进口中国同类 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +72,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +87,60 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 全线自有品牌 · OEM 30%：WatchDog = Apollo Infoways Pvt Ltd（Noida Sector-63；PoE / 工业 / DC 交换机全线自有品牌；GeM 上架；Bangalore / Dubai / Singapore 办事处）部分坐实（CIN 未取）；自有品牌全线 ✔ 对位 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon：默认只推 SmartByte / Marvell 管理 + 工业线）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "IN · 1 次检索：mywatchdog.in 首页 + /contact.html（地址 / 办事处）+ 10G-Data-Center-Switch PDF（法人名 Apollo Infoways）；CIN 未取；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.mywatchdog.in/"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "WatchDog = Apollo Infoways Pvt. Ltd.",
+  "reg_no": "未取（法人 Apollo Infoways Pvt. Ltd. 自报，CIN 未查）",
+  "status": "营业中（官网 2025）",
+  "incorporated": "未取",
+  "company_type": "Private Limited",
+  "address": "H-102, Sector-63, Noida, Gautam Budh Nagar, Uttar Pradesh 201301",
+  "size_band": "中型（4 城办事处；全线产品）",
+  "officers": [
+   "（具名 KP 未取；Toll Free + info@ 官网公开）"
+  ],
+  "psc": "未取",
+  "source": "IN · 1 次检索：mywatchdog.in 首页 + /contact.html（地址 / 办事处）+ 10G-Data-Center-Switch PDF（法人名 Apollo Infoways）；CIN 未取；2026-10-29",
+  "url": "https://www.mywatchdog.in/",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "网络设备自有品牌（诺伊达）"
+ ],
+ "channels": {
+  "网站": "https://mywatchdog.in",
+  "直邮": "info@mywatchdog.in（表内）"
+ },
+ "signals": [
+  "印度 Mywatchdog（mywatchdog.in；工业交换机页 AOA / 洪瑞 / 丰润达都有 = 多牌进口 + 洪瑞现供）：进口中国同类 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先；洪瑞现供客户 → Q-33 口径待 Simon（默认只推 SmartByte / Marvell 管理 + 工业线）",
+  "表内兴趣：AOA Hrui 丰润达的都有"
+ ],
+ "risks": [
+  "**全线自有品牌 = OEM 对象 → OEM 30%：一页纸一次（STC-2224GP / STC-4424GCPM / STC-424XGGPM-280W 贴牌 WatchDog + MOQ 1；洪瑞现供 → Q-33 口径：默认只推 SmartByte / Marvell 管理 + 工业线；现供厂商不点名）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微",
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

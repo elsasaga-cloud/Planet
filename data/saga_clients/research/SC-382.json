@@ -1,17 +1,52 @@
 {
  "code": "SC-382",
- "name_official": "securitywarehouse.co.za",
+ "name_official": "Security Warehouse (Pty) Ltd",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "Active（官网 2025）",
  "summary": "C 池三闸捞出（★ 正式）：★ 安防分销 20%：Security Warehouse (Pty) Ltd（Centurion；Reg 2003/015829/07；VAT 4600163721；101–250 人；MD Pasco Lattuca）坐实；分销主体 ✔ 对位 ✔ 决策人具名 ✔ → P 池候选",
- "type": "",
- "size": "",
+ "type": "安防分销（闸 2 判定 · 20% 档）",
+ "size": "中型（101–250 人）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Security Warehouse (Pty) Ltd（securitywarehouse.co.za；**官网 T&C：Reg 2003/015829/07；VAT 4600163721；118 Theuns Street, Cnr Theuns & Jakaranda, Hennopspark, Centurion 0172；+27 12 653 1005；info@securitywarehouse.co.za；创始人 / MD Pasco Lattuca（crunc",
+   "quote": "ZA · 1 次检索：securitywarehouse.co.za/support/terms-conditions/（Reg / VAT / 地址）+ crunchbase（MD / 规模）；2026-10-29",
+   "url": "https://securitywarehouse.co.za/support/terms-conditions/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "南非 Security Warehouse（securitywarehouse.co.za；Hasivo + CCTV 分销）：进口中国同类 ✔ 对位 ✔ + 同区先例 Duxbury / MiRO；群发 5 次 0 回 → 闸 2 查底数；低优先",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：★ 安防分销 20%：Security Warehouse (Pty) Ltd（Centurion；Reg 2003/015829/07；VAT 4600163721；101–250 人；MD Pasco Lattuca）坐实；分销主体 ✔ 对位 ✔ 决策人具名 ✔ → P 池候选",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "info@securitywarehouse.co.za",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "morne@securitywarehouse.co.za",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 安防分销 20%：Security Warehouse (Pty) Ltd（Centurion；Reg 2003/015829/07；VAT 4600163721；101–250 人；MD Pasco Lattuca）坐实；分销主体 ✔ 对位 ✔ 决策人具名 ✔ → P 池候选；闸 1：南非 Security Warehouse（securitywarehouse.co.za；Hasivo + CCTV 分销）：进口中国同类 ✔ 对位 ✔ + 同区先例 Duxbury / MiRO；群发 5 次 0 回 → 闸 2 查底…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +76,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（安防分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +91,56 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 安防分销 20%：Security Warehouse (Pty) Ltd（Centurion；Reg 2003/015829/07；VAT 4600163721；101–250 人；MD Pasco Lattuca）坐实；分销主体 ✔ 对位 ✔ 决策人具名 ✔ → P 池候选",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "ZA · 1 次检索：securitywarehouse.co.za/support/terms-conditions/（Reg / VAT / 地址）+ crunchbase（MD / 规模）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://securitywarehouse.co.za/support/terms-conditions/"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Security Warehouse (Pty) Ltd",
+  "reg_no": "2003/015829/07（Reg No.）/ VAT 4600163721",
+  "status": "Active（官网 2025）",
+  "incorporated": "2003",
+  "company_type": "(Pty) Ltd",
+  "address": "118 Theuns Street, Hennopspark, Centurion 0172",
+  "size_band": "中型（101–250 人）",
+  "officers": [
+   "Pasco Lattuca — Founder & Managing Director"
+  ],
+  "psc": "未取",
+  "source": "ZA · 1 次检索：securitywarehouse.co.za/support/terms-conditions/（Reg / VAT / 地址）+ crunchbase（MD / 规模）；2026-10-29",
+  "url": "https://securitywarehouse.co.za/support/terms-conditions/",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "电子安防分销（森图里恩）"
+ ],
+ "channels": {
+  "网站": "https://securitywarehouse.co.za",
+  "直邮": "info@securitywarehouse.co.za，morne@securitywarehouse.co.za（表内）"
+ },
+ "signals": [
+  "南非 Security Warehouse（securitywarehouse.co.za；Hasivo + CCTV 分销）：进口中国同类 ✔ 对位 ✔ + 同区先例 Duxbury / MiRO；群发 5 次 0 回 → 闸 2 查底数；低优先",
+  "表内兴趣：Hasivo的 主要是CCTV"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（安防分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

@@ -56,7 +56,7 @@
 - 对口哪条线：Saga STI 工业 / SmartByte 商用 PoE — ○ 自动化 / 运动控制 / 机械安全分销 20%：LC Automation Ltd（Blackburn + Chip
 - 找得到人吗：sales@lca.co.uk（官网 / 名录公开（X1-02 补路径））；KP：无具名
 - 已触达：未触达（路径 2026-10-29 新补）
-- 与 Saga Clients：无
+- 与 Saga Clients：Saga SC-843（同域 lcautomation.com，Saga 侧 C 储备、无研究档）→ 以本卡为长期群主档（交叉检查 LT-X01 2026-10-29）
 - **下一动作：不动** — 已入 P 池 → 按巡检节奏首触
 
 证据：

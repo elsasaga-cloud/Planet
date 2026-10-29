@@ -156,9 +156,9 @@ C 级细分：群发冷名单无回应 1047；用户判定不行/不相关 500�
 | SB-110 | itkati.com | 乌干达 | 经销/集成（类型待核） | 有回复·跟进中 | 59 | 已 | [SB-110-itkati.com-乌干达.md](A/SB-110-itkati.com-乌干达.md) |
 | SB-1103 | ara.com.bd | 孟加拉国 | 品牌商/贴牌需求（OEM/ODM） | 有回复·跟进中 | 20 | 已 | [SB-1103-ara.com.bd-孟加拉国.md](A/SB-1103-ara.com.bd-孟加拉国.md) |
 | SB-111 | nivoxtech.com | 印度 | 经销/集成（类型待核） | 有回复·跟进中 | 59 | 已 | [SB-111-nivoxtech.com-印度.md](A/SB-111-nivoxtech.com-印度.md) |
-| SB-1114 | Fikes Media | 美国 | 媒体/IT 集成小公司（业主直营） | 名单内·未触达 | 58 | 已 | [SB-1114-Fikes Media-美国.md](A/SB-1114-Fikes%20Media-美国.md) |
+| SB-1114 | Fikes Media | 美国 | IT 集成 / 网络顾问（一人公司；客群 = 地方政府 / K-12 与高校 / SMB；方案 = 企业网络、数据中心网络、VoIP、MikroTik 咨询） | 名单内·未触达 | 58 | 已 | [SB-1114-Fikes Media-美国.md](A/SB-1114-Fikes%20Media-美国.md) |
 | SB-1115 | Milliseconds Evolution Limited | 英国 | 网络集成/MikroTik 顾问（拟经销） | 名单内·未触达 | 46 | 已 | [SB-1115-Milliseconds Evolution Limited-英国.md](A/SB-1115-Milliseconds%20Evolution%20Limited-英国.md) |
-| SB-1117 | Switchcom Distribution (Pty) Ltd | 南非 | 网络设备分销商 | 名单内·未触达 | 31 | 已 | [SB-1117-Switchcom Distribution (Pty) Ltd-南非.md](A/SB-1117-Switchcom%20Distribution%20(Pty)%20Ltd-南非.md) |
+| SB-1117 | Switchcom Distribution (Pty) Ltd | 南非 | 网络设备分销商（ICT 分销：无线 / 网络 / VoIP / 监控 / 光纤；服务 reseller / installer / ISP / WISP / 终端；Shopify 网店） | 名单内·未触达 | 31 | 已 | [SB-1117-Switchcom Distribution (Pty) Ltd-南非.md](A/SB-1117-Switchcom%20Distribution%20(Pty)%20Ltd-南非.md) |
 | SB-1121 | technetix.com | 英国 | OEM 品牌商（光纤/宽带接入设备） | 有回复·跟进中 | 18 | 已 | [SB-1121-technetix.com-英国.md](A/SB-1121-technetix.com-英国.md) |
 | SB-1122 | comtinu.ru | 俄罗斯 | 俄罗斯网络项目商（25G/100G 项目） | 名单内·未触达 | 17 | 已 | [SB-1122-comtinu.ru-俄罗斯.md](A/SB-1122-comtinu.ru-俄罗斯.md) |
 | SB-1134 | conexionderedes.com | 萨尔瓦多 | 中美洲网络集成/分销商（为其客户转发方案） | 已推送 13 次·未回复 | 7 | 已 | [SB-1134-conexionderedes.com-萨尔瓦多.md](A/SB-1134-conexionderedes.com-萨尔瓦多.md) |

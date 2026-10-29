@@ -1,17 +1,39 @@
 {
  "code": "SC-380",
- "name_official": "iptime.com",
+ "name_official": "주식회사 이에프엠네트웍스 EFM NETWORKS CO., LTD. — ipTIME",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（品牌在售）",
  "summary": "C 池三闸捞出（★ 正式）：★ 韩国 · 巨头品牌商 OEM 30%（长线）：주식회사 이에프엠네트웍스 EFM Networks Co., Ltd. — ipTIME（龙仁；2001-08-07；代表 김인；韩国第一路由器品牌；路由器由深圳 ZIONCOM 代工 = 已用中国 ODM）部分坐实（사업자등록번호 未取）；自有品牌 ✔ 韩国点名国 ✔ 对位 ✔ Simon「多跟进」✔ → P 池候选（无邮箱 → 官网找采购路径；洪瑞现供 → Q-33 待 Simo…",
- "type": "",
- "size": "",
+ "type": "巨头品牌商 OEM（闸 2 判定 · 30% 档）",
+ "size": "大型（韩国第一路由器品牌；中小企业分类）",
  "brands_seen": [],
- "evidence": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "주식회사 이에프엠네트웍스 EFM NETWORKS CO., LTD. — ipTIME（iptime.com；**2001-08-07 设立；본사 경기도 용인시 기흥구 죽전로 15, 6층（보정동）；대표 김인；업종 통신·방송장비 및 부품 도매업；중소기업；韩国消费 / SOHO 路由器第一品牌（市场占有率压倒性）；路由器由深圳 ZIONCOM（合资关联）制造 = 已用中国 ODM**）；사업자등록번호 未取；表内：「CCTV，似乎是有洪瑞的 switch」；Si",
+   "quote": "KR · 1 次检索：namu.wiki EFM 네트웍스 条目（法人名 / 设立日 / 本社 / 代表 / 业种 / ZIONCOM 代工）；사업자등록번호 未取；2026-10-29",
+   "url": "https://namu.wiki/w/EFM%20%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "韩国 ipTIME（iptime.com = EFM Networks 韩国消费 / SOHO 网络第一品牌；表内「CCTV，似乎是有洪瑞的 switch」= 已贴牌中国 PoE；Simon「可以尝试多跟进一下」；无邮箱、官网正常）：巨头品牌商 = OEM 对象 ✔ 韩国点名国 ✔ 对位 ✔ → 闸 2 查底数（bizno / 公司官网）+ 官网找采购 / 合作邮箱；KC 认证由买方自理需如实说；洪瑞现供客户 → Q-33 口径待 Simon（默认只推 SmartByte / Marvell 管理 + 工业线）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：★ 韩国 · 巨头品牌商 OEM 30%（长线）：주식회사 이에프엠네트웍스 EFM Networks Co., Ltd. — ipTIME（龙仁；2001-08-07；代表 김인；韩国第一路由器品牌；路由器由深圳 ZIONCOM 代工 = 已用中国 ODM）部分坐实（사업자등록번호 未取）；自有品牌 ✔ 韩国点名国 ✔ 对位 ✔ Simon「多跟进」✔ → P 池候选（无邮箱 → 官网找采购路径…",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
  "kp": [],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 韩国 · 巨头品牌商 OEM 30%（长线）：주식회사 이에프엠네트웍스 EFM Networks Co., Ltd. — ipTIME（龙仁；2001-08-07；代表 김인；韩国第一路由器品牌；路由器由深圳 ZIONCOM 代工 = 已用中国 ODM）部分坐实（사업자등록번호 未取）；自有品牌 ✔ 韩国点名国 ✔ 对位 ✔ Simon「多跟进」✔ → P 池候选（无邮箱 → 官网找采购路…；闸 1：韩国 ipTIME（iptime.com = EFM Networks 韩国消费 / SOHO 网络第一品牌；表内「CCTV，似乎是有洪瑞的 switch」= 已贴牌中国 PoE；Simon「可以尝试多跟进一下」；无邮箱、官网正常）：巨头…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +63,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（巨头品牌商 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +78,59 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 韩国 · 巨头品牌商 OEM 30%（长线）：주식회사 이에프엠네트웍스 EFM Networks Co., Ltd. — ipTIME（龙仁；2001-08-07；代表 김인；韩国第一路由器品牌；路由器由深圳 ZIONCOM 代工 = 已用中国 ODM）部分坐实（사업자등록번호 未取）；自有品牌 ✔ 韩国点名国 ✔ 对位 ✔ Simon「多跟进」✔ → P 池候选（无邮箱 → 官网找采购路径；洪瑞现供 → Q-33 待 Simon；KC 买方自理）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "KR · 1 次检索：namu.wiki EFM 네트웍스 条目（法人名 / 设立日 / 本社 / 代表 / 业种 / ZIONCOM 代工）；사업자등록번호 未取；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://namu.wiki/w/EFM%20%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "주식회사 이에프엠네트웍스 EFM NETWORKS CO., LTD. — ipTIME",
+  "reg_no": "未取（사업자등록번호 未查；法人名坐实）",
+  "status": "营业中（品牌在售）",
+  "incorporated": "2001-08-07",
+  "company_type": "주식회사（Co., Ltd.）",
+  "address": "경기도 용인시 기흥구 죽전로 15, 6층 (보정동)",
+  "size_band": "大型（韩国第一路由器品牌；中小企业分类）",
+  "officers": [
+   "김인（Kim In）— 대표이사"
+  ],
+  "psc": "未取",
+  "source": "KR · 1 次检索：namu.wiki EFM 네트웍스 条目（法人名 / 设立日 / 本社 / 代表 / 业种 / ZIONCOM 代工）；사업자등록번호 未取；2026-10-29",
+  "url": "https://namu.wiki/w/EFM%20%EB%84%A4%ED%8A%B8%EC%9B%8D%EC%8A%A4",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "消费 / SOHO 网络设备自有品牌（龙仁）"
+ ],
+ "channels": {
+  "网站": "https://iptime.com"
+ },
+ "signals": [
+  "韩国 ipTIME（iptime.com = EFM Networks 韩国消费 / SOHO 网络第一品牌；表内「CCTV，似乎是有洪瑞的 switch」= 已贴牌中国 PoE；Simon「可以尝试多跟进一下」；无邮箱、官网正常）：巨头品牌商 = OEM 对象 ✔ 韩国点名国 ✔ 对位 ✔ → 闸 2 查底数（bizno / 公司官网）+ 官网找采购 / 合作邮箱；KC 认证由买方自理需如实说；",
+  "表内兴趣：CCTV 似乎是有洪瑞的switch"
+ ],
+ "risks": [
+  "**韩国 · 巨头品牌商 OEM 30%（长线）：官网找采购 / 合作邮箱后一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-2224GP $86 中性包装 + 贴 ipTIME 牌 + MOQ 1；洪瑞现供 → Q-33 口径：默认只推 SmartByte / Marvell 管理线）— 韩国常规：英文稿、20 / 25 / 30 + T/T 50/50 + F",
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（巨头品牌商 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

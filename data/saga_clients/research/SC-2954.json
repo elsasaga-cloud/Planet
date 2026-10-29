@@ -1,17 +1,46 @@
 {
  "code": "SC-2954",
- "name_official": "videcon.co.uk",
+ "name_official": "Videcon Ltd",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "Active",
  "summary": "C 池三闸捞出（★ 正式）：★ 自有品牌 · OEM 30%：Videcon Ltd（Heckmondwike 1995；£36.27M；150 人；自有品牌 Concept Pro；trade-only 分销）坐实；OEM ✔ 主区 ✔ 体量 ✔ 对位 ✔ → P 池候选（退信 → 找产品经理）；Simon 曾判不行，可否决",
- "type": "",
- "size": "",
+ "type": "OEM（闸 2 判定 · 30% 档）",
+ "size": "中型（150；£36M）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Videcon Ltd（videcon.co.uk；**Endole：1995-07-31 成立，Active，Heckmondwike West Yorkshire，营业额 £36.27M；Tracxn：150 人，自有品牌 Concept Pro（1998 起，IP / AHD / 模拟 CCTV），ISO 9001 分销；prospeo：WF16 0PN，+44 1924 528000，分销 Concept Pro / UNV / Apollo / Advanced /",
+   "quote": "GB · 1 次检索：endole 品牌页（Videcon Ltd；1995；£36.27M）+ tracxn（150 人；Concept Pro）+ prospeo（地址 / 电话）；CH 号未取；2026-10-29",
+   "url": "https://open.endole.co.uk/insight/brand/206497-videcon",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "英国 Videcon（videcon.co.uk；CCTV 分销为主、有商业 PoE；疑有自有品牌线，闸 2 核）：英国主区 + 分销主体 + 对位 ✔；退信 → 闸 2 查底数 + 找新地址，低优先；Simon 曾判不行 → 可按编号否决",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R02",
+   "claim": "桌面复核（闸 2 证据充分，三问成立）：★ 自有品牌 · OEM 30%：Videcon Ltd（Heckmondwike 1995；£36.27M；150 人；自有品牌 Concept Pro；trade-only 分销）坐实；OEM ✔ 主区 ✔ 体量 ✔ 对位 ✔ → P 池候选（退信 → 找产品经理）；Simon 曾判不行，可否决",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "sales@videcon.co.uk",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 自有品牌 · OEM 30%：Videcon Ltd（Heckmondwike 1995；£36.27M；150 人；自有品牌 Concept Pro；trade-only 分销）坐实；OEM ✔ 主区 ✔ 体量 ✔ 对位 ✔ → P 池候选（退信 → 找产品经理）；Simon 曾判不行，可否决；闸 1：英国 Videcon（videcon.co.uk；CCTV 分销为主、有商业 PoE；疑有自有品牌线，闸 2 核）：英国主区 + 分销主体 + 对位 ✔；退信 → 闸 2 查底数 + 找新地址，低优先；Simon 曾判不行 → 可按编号否决",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +70,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +85,60 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 自有品牌 · OEM 30%：Videcon Ltd（Heckmondwike 1995；£36.27M；150 人；自有品牌 Concept Pro；trade-only 分销）坐实；OEM ✔ 主区 ✔ 体量 ✔ 对位 ✔ → P 池候选（退信 → 找产品经理）；Simon 曾判不行，可否决",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "GB · 1 次检索：endole 品牌页（Videcon Ltd；1995；£36.27M）+ tracxn（150 人；Concept Pro）+ prospeo（地址 / 电话）；CH 号未取；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://open.endole.co.uk/insight/brand/206497-videcon"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Videcon Ltd",
+  "reg_no": "未取（CH 号 1 查未得；法人名 Videcon Ltd 坐实）",
+  "status": "Active",
+  "incorporated": "1995-07-31",
+  "company_type": "Ltd",
+  "address": "Heckmondwike, West Yorkshire WF16 0PN",
+  "size_band": "中型（150；£36M）",
+  "officers": [
+   "（sales@videcon.co.uk 表内曾退信；Concept Pro 产品经理 KP 待 LinkedIn）"
+  ],
+  "psc": "未取",
+  "source": "GB · 1 次检索：endole 品牌页（Videcon Ltd；1995；£36.27M）+ tracxn（150 人；Concept Pro）+ prospeo（地址 / 电话）；CH 号未取；2026-10-29",
+  "url": "https://open.endole.co.uk/insight/brand/206497-videcon",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "安防分销 + 自有品牌 Concept Pro（trade-only）"
+ ],
+ "channels": {
+  "网站": "https://videcon.co.uk",
+  "直邮": "sales@videcon.co.uk（表内）"
+ },
+ "signals": [
+  "英国 Videcon（videcon.co.uk；CCTV 分销为主、有商业 PoE；疑有自有品牌线，闸 2 核）：英国主区 + 分销主体 + 对位 ✔；退信 → 闸 2 查底数 + 找新地址，低优先；Simon 曾判不行 → 可按编号否决",
+  "表内兴趣：主要是CCTV 也有一些商业POE"
+ ],
+ "risks": [
+  "**自有品牌 Concept Pro + 中型分销 → OEM 30%：找产品经理后一页纸一次（STC-028GP / STC-228GP / STC-2224GP 安防 PoE 丝印彩盒 MOQ + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；Simon 可否决",
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

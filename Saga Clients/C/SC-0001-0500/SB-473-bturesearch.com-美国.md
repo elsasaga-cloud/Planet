@@ -148,17 +148,6 @@ updated: 2026-10-29
 | 2025-10-15 | 1015 | 22迷你 |  | A |  | US.xlsx#277 |
 | 2025-11-05 | 11.5 | solar |  | A |  | US.xlsx#277 |
 
-## 动态监控（自动 · 网站 / 社媒 / 代码库）
-
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
-- 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-473/`；本节随档案重渲染刷新，实时看日志。
-
-| 源 | 类型 | 状态 | 最近变化 | 摘要 |
-|---|---|---|---|---|
-| [home](https://intepo.com) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3551 字符；首行：Home - Intepo |
-| [sitemap](https://intepo.com/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
-
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`info@bturesearch.com`〔企业邮箱；来源：用户表原值〕

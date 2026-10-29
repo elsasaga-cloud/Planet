@@ -20772,11 +20772,20 @@
   }
  },
  "XC-M170": {
-  "grade": "B",
-  "reason": "Q-76 LT-01 2026-10-29：与 Saga SC-2728 同一公司 → 随主档等级 B（复核随主档，不单列）",
+  "grade": "C",
+  "reason": "LT-X01 2026-10-29：副档随主档 —— 主档 Saga SC-2728 已复核打回 C 储备（Blue Helix Limited（CH 04836349）：Companies House 账目类别 Dormant / SIC 99999 休眠，名录（kompass）却标 20–49 人在营 → 交易主体不明朗（可能经 06248590 等关联号）；按「不明朗 → C 储备」，对方回信即回 B）→ 本档同步 C；主档回 B 本档跟着回",
   "date": "2026-10-29",
-  "batch": "LT-01",
-  "from": "C"
+  "batch": "LT-X01",
+  "from": "B",
+  "prev_reason": "Q-76 LT-01 2026-10-29：与 Saga SC-2728 同一公司 → 随主档等级 B（复核随主档，不单列）",
+  "review": {
+   "status": "打回C",
+   "prio": 3,
+   "date": "2026-10-29",
+   "batch": "LT-X01",
+   "note": "LT-X01 2026-10-29：副档随主档 —— 主档 Saga SC-2728 已复核打回 C 储备（Blue Helix Limited（CH 04836349）：Companies House 账目类别 Dormant / SIC 99999 休眠，名录（kompass）却标 20–49 人在营 → 交易主体不明朗（可能经 06248590 等关联号）；按「不明朗 → C 储备」，对方回信即回 B）→ 本档同步 C；主档回 B 本档跟着回",
+   "cat": "FOLLOW"
+  }
  },
  "XC-M174": {
   "grade": "B",

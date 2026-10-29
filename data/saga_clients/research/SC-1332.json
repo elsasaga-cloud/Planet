@@ -1,17 +1,55 @@
 {
  "code": "SC-1332",
- "name_official": "dbg.co.za",
+ "name_official": "DBG Distribution",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（官网 2026）",
  "summary": "C 池三闸捞出（★ 正式）：★ 自有品牌 UltraLAN · OEM 30%：DBG Distribution（原 Uniterm Direct；JHB / CPT / DBN；2002；自有 UltraLAN PoE 交换机 / 延长器 / 注入器 + Ubiquiti / Tenda / Optcore 代理）部分坐实（Reg No 未取）；自有品牌 ✔ 分销网络 ✔ 对位 ✔ → P 池候选（光纤 / SFP 走本职线）",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "OEM（闸 2 判定 · 30% 档）",
+ "size": "中型（三城分部）",
+ "brands_seen": [
+  "Ubiquiti",
+  "Tenda"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "DBG Distribution（原 Uniterm Direct；dbg.co.za；**2002 起；JHB 10 Angus Crescent, Longmeadow Business Estate East, Modderfontein 1645；CPT Unit 12 & 13, Rivergate Park 2, 35 Columbus Crescent, Parklands 7441；DBN Unit 51 Micro Park, Cornubia；自有品牌 U",
+   "quote": "ZA · 1 次检索：dbg.co.za/about-us/（2002 / 更名 / 三城）+ /our-brands/（UltraLAN 自有品牌线）+ shop.dbg.co.za（分部地址）；Reg No 未取；2026-10-29",
+   "url": "https://dbg.co.za/our-brands/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "南非 DBG（dbg.co.za；工业 FS / MC / SFP / VC / 串口分销商，显示了国内锐捷的牌子）：进口中国同类 ✔ 对位 ✔ 分销主体 + 同区先例；未触达 → 闸 2 查底数（CIPC 镜像）；低优先",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：★ 自有品牌 UltraLAN · OEM 30%：DBG Distribution（原 Uniterm Direct；JHB / CPT / DBN；2002；自有 UltraLAN PoE 交换机 / 延长器 / 注入器 + Ubiquiti / Tenda / Optcore 代理）部分坐实（Reg No 未取）；自有品牌 ✔ 分销网络 ✔ 对位 ✔ → P 池候选（光纤 / SFP 走本职…",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "sales@dbg.co.za",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "connor@dbg.co.za",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 自有品牌 UltraLAN · OEM 30%：DBG Distribution（原 Uniterm Direct；JHB / CPT / DBN；2002；自有 UltraLAN PoE 交换机 / 延长器 / 注入器 + Ubiquiti / Tenda / Optcore 代理）部分坐实（Reg No 未取）；自有品牌 ✔ 分销网络 ✔ 对位 ✔ → P 池候选（光纤 / SFP 走本…；闸 1：南非 DBG（dbg.co.za；工业 FS / MC / SFP / VC / 串口分销商，显示了国内锐捷的牌子）：进口中国同类 ✔ 对位 ✔ 分销主体 + 同区先例；未触达 → 闸 2 查底数（CIPC 镜像）；低优先",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +79,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +94,59 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 自有品牌 UltraLAN · OEM 30%：DBG Distribution（原 Uniterm Direct；JHB / CPT / DBN；2002；自有 UltraLAN PoE 交换机 / 延长器 / 注入器 + Ubiquiti / Tenda / Optcore 代理）部分坐实（Reg No 未取）；自有品牌 ✔ 分销网络 ✔ 对位 ✔ → P 池候选（光纤 / SFP 走本职线）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "ZA · 1 次检索：dbg.co.za/about-us/（2002 / 更名 / 三城）+ /our-brands/（UltraLAN 自有品牌线）+ shop.dbg.co.za（分部地址）；Reg No 未取；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://dbg.co.za/our-brands/"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "DBG Distribution",
+  "reg_no": "未取（Reg No 未查）",
+  "status": "营业中（官网 2026）",
+  "incorporated": "2002",
+  "company_type": "(Pty) Ltd",
+  "address": "10 Angus Crescent, Longmeadow Business Estate East, Modderfontein 1645",
+  "size_band": "中型（三城分部）",
+  "officers": [
+   "（具名 KP 未取）"
+  ],
+  "psc": "未取",
+  "source": "ZA · 1 次检索：dbg.co.za/about-us/（2002 / 更名 / 三城）+ /our-brands/（UltraLAN 自有品牌线）+ shop.dbg.co.za（分部地址）；Reg No 未取；2026-10-29",
+  "url": "https://dbg.co.za/our-brands/",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "网络 / 光纤分销 + 自有品牌 UltraLAN（约翰内斯堡）"
+ ],
+ "channels": {
+  "网站": "https://dbg.co.za",
+  "直邮": "sales@dbg.co.za，connor@dbg.co.za（表内）"
+ },
+ "signals": [
+  "南非 DBG（dbg.co.za；工业 FS / MC / SFP / VC / 串口分销商，显示了国内锐捷的牌子）：进口中国同类 ✔ 对位 ✔ 分销主体 + 同区先例；未触达 → 闸 2 查底数（CIPC 镜像）；低优先",
+  "表内兴趣：工业FS MC SFP VC 串口 分销商\n显示了国内 锐捷的牌子"
+ ],
+ "risks": [
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

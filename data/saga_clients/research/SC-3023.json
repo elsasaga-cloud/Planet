@@ -1,17 +1,54 @@
 {
  "code": "SC-3023",
- "name_official": "nettrans.pl",
+ "name_official": "NetTrans Jarosław Żydek",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（官网）",
  "summary": "C 池三闸捞出（△ 观察）：△ 观察档 · 分销 20%：NetTrans Jarosław Żydek（Lublin 个体；NIP 712-239-07-96；进口 3C Link / ONV）坐实；进口 ✔ 波兰 ✔ 坐实 ✔ 对位 ✔ 但个体微型 → 入池观察档 + 预付；Simon 曾判不行，可否决",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "分销（闸 2 判定 · 20% 档）",
+ "size": "微型（个体）",
+ "brands_seen": [
+  "ONV"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "NetTrans Jarosław Żydek（nettrans.pl；**官网 Kontakt：ul. Poznańska 115, 20-731 Lublin；NIP 712-239-07-96；REGON 366956479；个体经营（jednoosobowa działalność）；技术 / 售后 biuro@ +48 577 677 288；销售 handlowy@ +48 570 477 388**）；表内：工业 FS 国内 3C Link / ONV 的；退信",
+   "quote": "PL · 1 次检索：nettrans.pl/kontakt.html（法人 / NIP / REGON / 地址 / 电话）；2026-10-29",
+   "url": "https://nettrans.pl/kontakt.html",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "波兰 Nettrans（nettrans.pl；工业 FS：国内 3C Link / ONV 的）：波兰次主区 + 已进口中国同类品牌 + 对位 ✔；退信 → 闸 2 查底数 + 找新地址；Simon 曾判不行 → 可按编号否决",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R01",
+   "claim": "NetTrans Jarosław Żydek（Lublin 个体；NIP 坐实；已直接进口 3C Link / ONV 中国交换机）：个体但有进口同类经验 = 真买家；波兰 ✔ 对位 ✔ → 留 B，预付 100%",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "handlowy@nettrans.pl",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "info@nettrans.pl",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · 分销 20%：NetTrans Jarosław Żydek（Lublin 个体；NIP 712-239-07-96；进口 3C Link / ONV）坐实；进口 ✔ 波兰 ✔ 坐实 ✔ 对位 ✔ 但个体微型 → 入池观察档 + 预付；Simon 曾判不行，可否决；闸 1：波兰 Nettrans（nettrans.pl；工业 FS：国内 3C Link / ONV 的）：波兰次主区 + 已进口中国同类品牌 + 对位 ✔；退信 → 闸 2 查底数 + 找新地址；Simon 曾判不行 → 可按编号否决",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +78,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +93,59 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "△ 观察档 · 分销 20%：NetTrans Jarosław Żydek（Lublin 个体；NIP 712-239-07-96；进口 3C Link / ONV）坐实；进口 ✔ 波兰 ✔ 坐实 ✔ 对位 ✔ 但个体微型 → 入池观察档 + 预付；Simon 曾判不行，可否决",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "PL · 1 次检索：nettrans.pl/kontakt.html（法人 / NIP / REGON / 地址 / 电话）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://nettrans.pl/kontakt.html"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "NetTrans Jarosław Żydek",
+  "reg_no": "NIP 712-239-07-96 / REGON 366956479",
+  "status": "营业中（官网）",
+  "incorporated": "未取（REGON 2017 前后）",
+  "company_type": "个体经营",
+  "address": "ul. Poznańska 115, 20-731 Lublin",
+  "size_band": "微型（个体）",
+  "officers": [
+   "Jarosław Żydek — 业主（handlowy@nettrans.pl 表内 = 销售邮箱）"
+  ],
+  "psc": "未取",
+  "source": "PL · 1 次检索：nettrans.pl/kontakt.html（法人 / NIP / REGON / 地址 / 电话）；2026-10-29",
+  "url": "https://nettrans.pl/kontakt.html",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "工业网络 / 光纤设备网店（卢布林）"
+ ],
+ "channels": {
+  "网站": "https://nettrans.pl",
+  "直邮": "handlowy@nettrans.pl，info@nettrans.pl（表内）"
+ },
+ "signals": [
+  "波兰 Nettrans（nettrans.pl；工业 FS：国内 3C Link / ONV 的）：波兰次主区 + 已进口中国同类品牌 + 对位 ✔；退信 → 闸 2 查底数 + 找新地址；Simon 曾判不行 → 可按编号否决",
+  "表内兴趣：工业FS\n国内3Clink ONV的；3C Link的"
+ ],
+ "risks": [
+  "**个体进口商 → 分销 20%：点名 Jarosław 一页纸一次（STI-154GP / STI-280GE 对标 3C Link / ONV + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；个体 → 预付 100%；Simon 可否决"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

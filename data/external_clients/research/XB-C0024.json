@@ -1,0 +1,49 @@
+{
+ "code": "XB-C0024",
+ "name": "MC&TT（河内）",
+ "round": "LT-T01",
+ "researched_at": "2026-10-29",
+ "alive": "域名 tudonghoa24.com 有 A 记录、无 MX（邮箱可能托管在别的域；DNS 2026-10-29）",
+ "summary": "MC&TT（河内）（越南）：工业PoE交换机分销；地址=LK12-8, Ngô Thì Nhậm, Hà Đông, Hà Nội；开发策略=工业传输/自动化专业分销；置信度=★★★★★",
+ "type_final": "工业PoE交换机分销",
+ "size": "",
+ "brands_seen": [],
+ "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "工业PoE交换机分销；地址=LK12-8, Ngô Thì Nhậm, Hà Đông, Hà Nội；开发策略=工业传输/自动化专业分销；置信度=★★★★★",
+   "quote": "",
+   "url": "https://tudonghoa24.com",
+   "date": "2026-09"
+  },
+  {
+   "kind": "长期群复核 LT-R07",
+   "claim": "桌面复核（来源库核对 + 研究卡）：C类 — 工业PoE交换机分销；类型=C类 — 工业PoE交换机分销；品牌=3Onedata, Four-Faith, ICP DAS, JHA Tech；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "contacts": {
+  "email": "sales@mctt.vn",
+  "email_status": "活（来源库 9 月核对）",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "桌面复核（来源库核对 + 研究卡）：C类 — 工业PoE交换机分销；类型=C类 — 工业PoE交换机分销；品牌=3Onedata, Four-Faith, ICP DAS, JHA Tech；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "官网快照 + 加厚后进群发分组（Q-77）"
+ },
+ "draft_en": null,
+ "deep": false,
+ "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+}

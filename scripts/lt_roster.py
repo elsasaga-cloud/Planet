@@ -114,7 +114,8 @@ def main():
                 ev.append('发送包已触达')
             rows.append({'origin': f'External·{repo}', 'code': r['code'], 'name': r.get('name') or '', 'country': r.get('country_zh') or '未填', 'iso': r.get('iso') or '',
                          'grade': g, 'review': rv.get('status') or '—', 'prio': rv.get('prio') or 0, 'why': (o or {}).get('reason', ''),
-                         'evidence': ' · '.join(ev) or short(r.get('type') or '', 40), 'domain': r.get('domain') or '', 'tags': ''})
+                         'evidence': ' · '.join(ev) or short(r.get('type') or '', 40), 'domain': r.get('domain') or '', 'tags': '',
+                         'saga_dup': r.get('saga_dup') if isinstance(r.get('saga_dup'), dict) else None})
     # Planet
     for r in csv.DictReader(open(os.path.join(D, '客户名单_Planet渠道_2026-10.csv'), encoding='utf-8-sig')):
         g = (r.get('人工定级') or r['评级']).strip()[:1]
@@ -127,6 +128,40 @@ def main():
                      'why': note, 'evidence': short(r['信号（在卖什么品牌）'], 50), 'domain': r['网站'], 'tags': ''})
     for x in rows:
         x['grp'] = grp(x['iso']) if x['iso'] else '其他'
+
+    # T29-U131 交叉检查：同一公司在两库都有档 → 只计主档（Saga > External > Planet 仓），副档标「随主档」不重复计
+    def dom_of(u):
+        u = (u or '').lower().strip()
+        u = re.sub(r'^https?://', '', u).split('/')[0]
+        return u[4:] if u.startswith('www.') else u
+    saga_dom = {}
+    for e in E:
+        if e['grade'] in 'AB':
+            for d in e.get('domains') or []:
+                saga_dom.setdefault(dom_of(d), e['code'])
+    ext_dom = {}
+    for x in rows:
+        if x['origin'].startswith('External'):
+            sd = x.get('saga_dup')
+            d = dom_of(x['domain'])
+            master = (sd['code'] if isinstance(sd, dict) and sd.get('code') in saga_dom.values() else None) or saga_dom.get(d)
+            if master:
+                x['dup_of'] = master
+                x['review'] = '随主档'
+            elif d and d in ext_dom:      # External 内部同域两码（如 XC-C0063 / XC-E026 trimatrikbd.com）→ 先出现的为主档
+                x['dup_of'] = ext_dom[d]
+                x['review'] = '随主档'
+            elif d:
+                ext_dom[d] = x['code']
+    for x in rows:
+        if x['origin'] == 'Planet 仓':
+            d = dom_of(x['domain'])
+            master = saga_dom.get(d) or ext_dom.get(d)
+            if master:
+                x['dup_of'] = master
+                x['review'] = '随主档'
+    dups = [x for x in rows if x.get('dup_of')]
+    rows = [x for x in rows if not x.get('dup_of')]
 
     # 复核队列 CSV
     q = [x for x in rows if x['review'] == '待过']
@@ -157,6 +192,8 @@ def main():
         tot['B'] += b
         tot['q'] += by_r[(o, '待过')]
     L.append(f"| **合计** | **{tot['A']}** | **{tot['B']}** | **{tot['A'] + tot['B']}** | **{tot['q']}** |")
+    by_d = Counter(x['origin'].split('·')[0] for x in dups)
+    L += ['', f"去重：另有 **{len(dups)} 份副档随主档、不重复计**（同一公司在两库都有档：External {by_d['External']}（与 Saga 同域 / `saga_dup`）、Planet 仓 {by_d['Planet 仓']}（与 Saga 或 External 同域））——主档 Saga > External > Planet 仓；副档只在 §5 列出，升降跟主档走。"]
     L += ['', f"复核队列 {len(q)}：优先级 1（C 捞上来的、从未深挖）{by_p[1]} / 优先级 2（Saga 冷 B「对位未知」）{by_p[2]} / 优先级 3（外部库 / Planet 仓的 B，只有名录级信息）{by_p[3]}。", '',
           '| 区域组 | A | B | 待过 |', '|---|---|---|---|']
     bg = Counter((x['grp'], x['grade']) for x in rows)
@@ -179,6 +216,10 @@ def main():
             rv = x['review'] + (f"·P{x['prio']}" if x['review'] == '待过' else '')
             L.append(f"| `{x['code']}` | {short(x['name'], 40).replace('|', '｜')} | {x['country']} | {x['grp']} | {rv} | {short(x['evidence'], 60).replace('|', '｜')} |")
         L.append('')
+    L += ['## 5. 随主档（副档，不重复计；升降跟主档走）', '', f'共 {len(dups)} 份。', '', '| 副档 | 公司 | 库 | 主档 |', '|---|---|---|---|']
+    for x in sorted(dups, key=lambda x: (x['origin'], x['code'])):
+        L.append(f"| `{x['code']}` | {short(x['name'], 40).replace('|', '｜')} | {x['origin']} | `{x['dup_of']}` |")
+    L.append('')
     open(OUT_MD, 'w', encoding='utf-8').write('\n'.join(L) + '\n')
     print('roster', len(rows), dict(tot), 'queue', len(q), dict(by_p))
 

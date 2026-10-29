@@ -123,6 +123,8 @@ updated: 2026-10-29
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · 分销 20%：SISEGUSA = Sistemas de Seguridad S.A.（厄瓜多尔 Guayaquil 安防批发 + 迈阿密 LLC）→ 国别纠偏 美国 → 厄瓜多尔；进口 Utepo ✔ 对位 ✔ 坐实 ✔ 但区域外 → 入池观察档；Simon 曾判不行，可否决；闸 1：美国 Siseg USA（Utepo 的商业 PoE）：美国主区 + 已进口中国同类品牌 + 对位 ✔；19 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决
 - 备注：T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。
 
+### 加厚挖掘（2026-10-29 · 邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓））
+
 
 ## 在卖/在用品牌 → Saga 对位
 

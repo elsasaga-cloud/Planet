@@ -1,17 +1,46 @@
 {
  "code": "SC-2154",
- "name_official": "roundrobintech.com",
+ "name_official": "RoundRobin Tech Services Pvt. Ltd.",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（目录 2026）",
  "summary": "C 池三闸捞出（○ 正式）：○ 印度 · 增值分销 20%：RoundRobin Tech Services Pvt. Ltd.（Mumbai；网络安全 VAD 14 年+；11–50 人；Pradeep Patel Regional Manager 真回）部分坐实（CIN 未取）；印度先例 ✔ 分销对位 ✔ 真回 ✔ → P 池候选",
- "type": "",
- "size": "",
+ "type": "增值分销（闸 2 判定 · 20% 档）",
+ "size": "小型（11–50 人）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "RoundRobin Tech Services Pvt. Ltd.（roundrobintech.com；**孟买总部；网络安全产品增值分销商（VAD），印度 + SAARC 14 年+；11–50 人；Pradeep Patel — Regional Manager（艾哈迈达巴德）；另 Rajesh Makwana Regional Pre-Sales、Dhagash Thaker Product Manager**）；CIN 未取；表内：Pradeep「分销商，有需求会",
+   "quote": "IN · 1 次检索：crunchbase（业务 / 规模 / 孟买）+ rocketreach（Pradeep Patel 职务 / 团队）；CIN 未取；2026-10-29",
+   "url": "https://www.crunchbase.com/organization/roundrobin-tech-services",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "印度 Round Robin Tech（roundrobintech.com 正常；Pradeep Patel Regional 具名，gmail；「分销商，有需求会说」= 真实回复 ✔；另有 Bakhtavar Usmani）：印度先例 ✔ 分销对位 ✔ 真回 ✔ 公司坐实路径 ✔ → 闸 2 查底数（MCA 镜像）后一页纸（STC-028GP / STC-2224GP 价格锚）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：○ 印度 · 增值分销 20%：RoundRobin Tech Services Pvt. Ltd.（Mumbai；网络安全 VAD 14 年+；11–50 人；Pradeep Patel Regional Manager 真回）部分坐实（CIN 未取）；印度先例 ✔ 分销对位 ✔ 真回 ✔ → P 池候选",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "patelpradeep86@gmail.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 印度 · 增值分销 20%：RoundRobin Tech Services Pvt. Ltd.（Mumbai；网络安全 VAD 14 年+；11–50 人；Pradeep Patel Regional Manager 真回）部分坐实（CIN 未取）；印度先例 ✔ 分销对位 ✔ 真回 ✔ → P 池候选；闸 1：印度 Round Robin Tech（roundrobintech.com 正常；Pradeep Patel Regional 具名，gmail；「分销商，有需求会说」= 真实回复 ✔；另有 Bakhtavar Usmani）：印度先例…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +70,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（增值分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +85,60 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 印度 · 增值分销 20%：RoundRobin Tech Services Pvt. Ltd.（Mumbai；网络安全 VAD 14 年+；11–50 人；Pradeep Patel Regional Manager 真回）部分坐实（CIN 未取）；印度先例 ✔ 分销对位 ✔ 真回 ✔ → P 池候选",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "IN · 1 次检索：crunchbase（业务 / 规模 / 孟买）+ rocketreach（Pradeep Patel 职务 / 团队）；CIN 未取；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.crunchbase.com/organization/roundrobin-tech-services"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "RoundRobin Tech Services Pvt. Ltd.",
+  "reg_no": "未取（CIN 未查；目录坐实法人名）",
+  "status": "营业中（目录 2026）",
+  "incorporated": "未取（≈ 2010）",
+  "company_type": "Pvt. Ltd.",
+  "address": "Mumbai, Maharashtra",
+  "size_band": "小型（11–50 人）",
+  "officers": [
+   "Pradeep Patel — Regional Manager（表内真回）",
+   "Dhagash Thaker — Product Manager"
+  ],
+  "psc": "未取",
+  "source": "IN · 1 次检索：crunchbase（业务 / 规模 / 孟买）+ rocketreach（Pradeep Patel 职务 / 团队）；CIN 未取；2026-10-29",
+  "url": "https://www.crunchbase.com/organization/roundrobin-tech-services",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "网络安全 / 网络基础设施增值分销（孟买）"
+ ],
+ "channels": {
+  "网站": "https://roundrobintech.com",
+  "直邮": "patelpradeep86@gmail.com（表内）"
+ },
+ "signals": [
+  "印度 Round Robin Tech（roundrobintech.com 正常；Pradeep Patel Regional 具名，gmail；「分销商，有需求会说」= 真实回复 ✔；另有 Bakhtavar Usmani）：印度先例 ✔ 分销对位 ✔ 真回 ✔ 公司坐实路径 ✔ → 闸 2 查底数（MCA 镜像）后一页纸（STC-028GP / STC-2224GP 价格锚）",
+  "表内兴趣：分销商 有需求会说\nBakhtavar Usmani 另外一个人"
+ ],
+ "risks": [
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（增值分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

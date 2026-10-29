@@ -1,17 +1,48 @@
 {
  "code": "SC-2111",
- "name_official": "ami-com.ru",
+ "name_official": "ООО «Амиком» / ТД «Амиком»",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（目录 / 官网）",
  "summary": "C 池三闸捞出（★ 正式）：★ 俄罗斯 · 自有品牌 + 大分销 OEM 30%：ООО «Амиком» / ТД «Амиком»（Москва；1992；25 万 SKU；自有商标 Just / Advert / PRIME；大客户 РЖД / Сбербанк）部分坐实（ИНН 未取）；自有品牌 ✔ 已进口中国同类 ✔ 朱姐渠道 ✔ 对位 ✔ → P 池候选；收款路径待 Simon",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "自有品牌 + 大分销 OEM（闸 2 判定 · 30% 档）",
+ "size": "中型 → 大型（25 万 SKU；大客户名单）",
+ "brands_seen": [
+  "ONV"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "ООО «Амиком» / ТД «Амиком»（ami-com.ru；**Москва；1992 起（mastermann）；安防设备批发 / 小批发分销（面向安装商；目录 25 万 SKU，1C-Битрикс 站 2018 重建）；自有商标 Just / Advert / PRIME（secnews：「新增商标 Just 与 Advert」）；大客户 РЖД / Сбербанк / ЦМТ / ТНК-BP / Ингосстрах / М.видео / McD",
+   "quote": "RU · 1 次检索：secnews.ru/company/amicom（业务 / 商标 / 客户 / 展会）+ klondike-studio 案例（规模）+ mastermann（1992）；ИНН 未取；2026-10-29",
+   "url": "https://secnews.ru/company/amicom",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "俄罗斯 AMI-COM（ami-com.ru；朱姐客户的；很多 ONV 型号都没变 + 「Just」这个牌子可能是他们自己的；主要 CCTV 本土品牌）：进口中国同类 ✔ 疑自有牌 ✔ Simon 点名俄罗斯；未触达 → 闸 2 查底数（rusprofile）核自有牌；俄语区收款待定，低优先",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：★ 俄罗斯 · 自有品牌 + 大分销 OEM 30%：ООО «Амиком» / ТД «Амиком»（Москва；1992；25 万 SKU；自有商标 Just / Advert / PRIME；大客户 РЖД / Сбербанк）部分坐实（ИНН 未取）；自有品牌 ✔ 已进口中国同类 ✔ 朱姐渠道 ✔ 对位 ✔ → P 池候选；收款路径待 Simon",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "sale@ami-com.ru",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 俄罗斯 · 自有品牌 + 大分销 OEM 30%：ООО «Амиком» / ТД «Амиком»（Москва；1992；25 万 SKU；自有商标 Just / Advert / PRIME；大客户 РЖД / Сбербанк）部分坐实（ИНН 未取）；自有品牌 ✔ 已进口中国同类 ✔ 朱姐渠道 ✔ 对位 ✔ → P 池候选；收款路径待 Simon；闸 1：俄罗斯 AMI-COM（ami-com.ru；朱姐客户的；很多 ONV 型号都没变 + 「Just」这个牌子可能是他们自己的；主要 CCTV 本土品牌）：进口中国同类 ✔ 疑自有牌 ✔ Simon 点名俄罗斯；未触达 → 闸 2 查底数（…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +72,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（自有品牌 + 大分销 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +87,60 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 俄罗斯 · 自有品牌 + 大分销 OEM 30%：ООО «Амиком» / ТД «Амиком»（Москва；1992；25 万 SKU；自有商标 Just / Advert / PRIME；大客户 РЖД / Сбербанк）部分坐实（ИНН 未取）；自有品牌 ✔ 已进口中国同类 ✔ 朱姐渠道 ✔ 对位 ✔ → P 池候选；收款路径待 Simon",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "RU · 1 次检索：secnews.ru/company/amicom（业务 / 商标 / 客户 / 展会）+ klondike-studio 案例（规模）+ mastermann（1992）；ИНН 未取；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://secnews.ru/company/amicom"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "ООО «Амиком» / ТД «Амиком»",
+  "reg_no": "未取（ИНН 未查；rusprofile 补查待）",
+  "status": "营业中（目录 / 官网）",
+  "incorporated": "1992",
+  "company_type": "ООО",
+  "address": "Москва（街道未取）",
+  "size_band": "中型 → 大型（25 万 SKU；大客户名单）",
+  "officers": [
+   "（具名 KP 未取；朱姐渠道在）"
+  ],
+  "psc": "未取",
+  "source": "RU · 1 次检索：secnews.ru/company/amicom（业务 / 商标 / 客户 / 展会）+ klondike-studio 案例（规模）+ mastermann（1992）；ИНН 未取；2026-10-29",
+  "url": "https://secnews.ru/company/amicom",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "安防设备批发 + 自有品牌（莫斯科）"
+ ],
+ "channels": {
+  "网站": "https://ami-com.ru",
+  "直邮": "sale@ami-com.ru（表内）"
+ },
+ "signals": [
+  "俄罗斯 AMI-COM（ami-com.ru；朱姐客户的；很多 ONV 型号都没变 + 「Just」这个牌子可能是他们自己的；主要 CCTV 本土品牌）：进口中国同类 ✔ 疑自有牌 ✔ Simon 点名俄罗斯；未触达 → 闸 2 查底数（rusprofile）核自有牌；俄语区收款待定，低优先",
+  "表内兴趣：朱姐客户的\n很多俄罗斯本土的品牌；Just这个牌子 可能是他们自己的 很多ONV的 型号都没变；主要是CCTV \n用的本土几个知名牌子的"
+ ],
+ "risks": [
+  "**俄罗斯 · 自有品牌 + 大分销 OEM 30% / 分销 20%：经朱姐线索点名采购一页纸一次（STC-028GP / STC-228GP / STC-2224GP 中性包装 + 贴 Just 牌 + MOQ 1；ONV 不点名）— 俄语区常规：英文 / 俄文稿、20 / 25 / 30 + 预付 100%（收款 / 物流路径待 Simon：第三国账户 / 中转）+ FOB 深圳；周二 / ",
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（自有品牌 + 大分销 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

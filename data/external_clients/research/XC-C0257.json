@@ -1,0 +1,44 @@
+{
+ "code": "XC-C0257",
+ "name": "SYSCOM (墨西哥)",
+ "round": "LT-T01",
+ "researched_at": "2026-10-29",
+ "alive": "域名 syscom.mx MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "summary": "SYSCOM (墨西哥)（墨西哥）：墨西哥最大安防分销商（Hikvision已收购其股份）；业务=墨西哥+哥伦比亚大型IT分销；开发策略=B类(墨西哥大型分销), 拉美第二市场；公司全称=Syscom Distribution LLC (Sys LLC)；公司类型=IT分销商/系统集成商；总部=UAE；客户优先级=🟢 A类（GITEX参展+IT分销+PoE品类）",
+ "type_final": "墨西哥最大安防分销商（Hikvision已收购其股份）",
+ "size": "",
+ "brands_seen": [
+  "Hikvision"
+ ],
+ "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "墨西哥最大安防分销商（Hikvision已收购其股份）；业务=墨西哥+哥伦比亚大型IT分销；开发策略=B类(墨西哥大型分销), 拉美第二市场；公司全称=Syscom Distribution LLC (Sys LLC)；公司类型=IT分销商/系统集成商；总部=UAE；客户优先级=🟢 A类（GITEX参展+IT分销+PoE品类）",
+   "quote": "",
+   "url": "https://syscom.mx",
+   "date": "2026-09"
+  }
+ ],
+ "contacts": {
+  "email": "",
+  "email_status": "缺",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "Saga SC-1117（syscom.mx）随主档",
+ "grade_final": "B",
+ "grade_reason_final": "Q-76 LT-01 2026-10-29：与 Saga SC-1117 同一公司 → 随主档等级 B（复核随主档，不单列）",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "官网快照 + 加厚后进群发分组（Q-77）"
+ },
+ "draft_en": null,
+ "deep": false,
+ "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+}

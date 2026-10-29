@@ -1,17 +1,52 @@
 {
  "code": "SC-1734",
- "name_official": "Joohitha Power Systems Pvt Ltd",
+ "name_official": "Joohitha Power Systems Private Limited — GridX",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "Active（MCA）",
  "summary": "C 池三闸捞出（○ 正式）：○ 印度 · 电力 EPC 集成 25%：Joohitha Power Systems Pvt Ltd — GridX（Hyderabad；CIN U74999TG2011PTC077260；2011；₹10 lakh；SCADA / OLTE / PLCC EPC；11–50 人）坐实；工业 2 光 2 电具体需求 ✔ 工业对位 ✔ → P 池候选",
- "type": "",
- "size": "",
+ "type": "电力 EPC 集成（闸 2 判定 · 25% 档）",
+ "size": "小型（₹10 lakh；11–50 人）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Joohitha Power Systems Private Limited — GridX（gridx.in / joohithapower.com；**CIN U74999TG2011PTC077260；2011-11-04；ROC Hyderabad；授权 / 实收 ₹10 lakh；H.No.1-8-12/20/A/NR, 3rd Floor, Street No.8, Habsiguda, Hyderabad 500007；SCADA / RTU / OLTE（光通",
+   "quote": "IN · 1 次检索：correst（CIN / 成立 / 资本 / 地址）+ zoominfo（GridX / 业务 / 规模）；2026-10-29",
+   "url": "https://correst.io/public/company/joohitha-power-systems-pvt-ltd",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "印度 Joohitha Power Systems Pvt Ltd（gridx.in；光猫 + 工业 2 光 2）：具体型号需求 ✔（STI-154GP / STI-244DGGPM 同口型）对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：○ 印度 · 电力 EPC 集成 25%：Joohitha Power Systems Pvt Ltd — GridX（Hyderabad；CIN U74999TG2011PTC077260；2011；₹10 lakh；SCADA / OLTE / PLCC EPC；11–50 人）坐实；工业 2 光 2 电具体需求 ✔ 工业对位 ✔ → P 池候选",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "rajendra.r@gridx.in",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "sridhar.n@gridx.in",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 印度 · 电力 EPC 集成 25%：Joohitha Power Systems Pvt Ltd — GridX（Hyderabad；CIN U74999TG2011PTC077260；2011；₹10 lakh；SCADA / OLTE / PLCC EPC；11–50 人）坐实；工业 2 光 2 电具体需求 ✔ 工业对位 ✔ → P 池候选；闸 1：印度 Joohitha Power Systems Pvt Ltd（gridx.in；光猫 + 工业 2 光 2）：具体型号需求 ✔（STI-154GP / STI-244DGGPM 同口型）对位 ✔ Simon 点名印度；未触达 → 闸…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +76,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STI-288GPM",
+   "why": "默认对位（电力 EPC 集成 · 25% 档）：工业 / 项目集成起手：DIN 导轨 8 GE PoE + 2 SFP 管理型（25% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +91,59 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 印度 · 电力 EPC 集成 25%：Joohitha Power Systems Pvt Ltd — GridX（Hyderabad；CIN U74999TG2011PTC077260；2011；₹10 lakh；SCADA / OLTE / PLCC EPC；11–50 人）坐实；工业 2 光 2 电具体需求 ✔ 工业对位 ✔ → P 池候选",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "IN · 1 次检索：correst（CIN / 成立 / 资本 / 地址）+ zoominfo（GridX / 业务 / 规模）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://correst.io/public/company/joohitha-power-systems-pvt-ltd"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Joohitha Power Systems Private Limited — GridX",
+  "reg_no": "U74999TG2011PTC077260（CIN）",
+  "status": "Active（MCA）",
+  "incorporated": "2011-11-04",
+  "company_type": "Private Limited",
+  "address": "H.No.1-8-12/20/A/NR, 3rd Floor, Street No.8, Habsiguda, Hyderabad, Telangana 500007",
+  "size_band": "小型（₹10 lakh；11–50 人）",
+  "officers": [
+   "（具名 KP 未取）"
+  ],
+  "psc": "未取",
+  "source": "IN · 1 次检索：correst（CIN / 成立 / 资本 / 地址）+ zoominfo（GridX / 业务 / 规模）；2026-10-29",
+  "url": "https://correst.io/public/company/joohitha-power-systems-pvt-ltd",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "电力 SCADA / 光通信 EPC 咨询（海得拉巴）"
+ ],
+ "channels": {
+  "网站": "https://gridx.in",
+  "直邮": "rajendra.r@gridx.in，sridhar.n@gridx.in（表内）"
+ },
+ "signals": [
+  "印度 Joohitha Power Systems Pvt Ltd（gridx.in；光猫 + 工业 2 光 2）：具体型号需求 ✔（STI-154GP / STI-244DGGPM 同口型）对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先",
+  "表内兴趣：光猫 工业2光2"
+ ],
+ "risks": [
+  "**印度 · 电力 EPC 集成 25%：一页纸一次（STI-154GP $36 样机 4+1+1 SFP / STI-244DGGPM 2 光 2 电场景 + MOQ 1 + 付费样机；光猫走本职线）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoH"
+ ],
+ "saga_fit": {
+  "p1": "STI-288GPM",
+  "tier": 25,
+  "why": "默认对位（电力 EPC 集成 · 25% 档）：工业 / 项目集成起手：DIN 导轨 8 GE PoE + 2 SFP 管理型（25% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

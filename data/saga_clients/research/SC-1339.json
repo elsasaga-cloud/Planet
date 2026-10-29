@@ -1,17 +1,46 @@
 {
  "code": "SC-1339",
- "name_official": "econtroldevices.com",
+ "name_official": "Econtrol Devices Private Limited",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "Active（MCA 2026）",
  "summary": "C 池三闸捞出（△ 观察）：△ 观察档 · 分销 20% + 预付 100%：Econtrol Devices Pvt Ltd（Faridabad；CIN U51909HR2019PTC081687；2019；₹1 lakh；<₹1 Cr；董事 Rekha Sorout = 登记邮箱 决策人直达）坐实但微型；进口台湾工业线 ✔ 对位 ✔ → 入池观察档；可否决",
- "type": "",
- "size": "",
+ "type": "分销（闸 2 判定 · 20% 档）",
+ "size": "微型（₹1 lakh；<₹1 Cr）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Econtrol Devices Private Limited（econtroldevices.com；**CIN U51909HR2019PTC081687；PAN AAFCE5794H；2019-07-29 登记；ROC Delhi；实收 ₹1 lakh；FY22 营收 <₹1 Cr；Plot No-A2, BPTP District-1, Block-B, Sector-81, Faridabad, Haryana 121002；董事 Rekha Sorout（MCA",
+   "quote": "IN · 1 次检索：zaubacorp（CIN / 董事 / 地址）+ tofler（PAN / 营收档 / 登记邮箱）+ thecompanycheck；2026-10-29",
+   "url": "https://www.tofler.in/econtrol-devices-private-limited/company/U51909HR2019PTC081687",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "印度 eControl Devices（econtroldevices.com；Atop 的工业 FS）：进口台湾同类 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：△ 观察档 · 分销 20% + 预付 100%：Econtrol Devices Pvt Ltd（Faridabad；CIN U51909HR2019PTC081687；2019；₹1 lakh；<₹1 Cr；董事 Rekha Sorout = 登记邮箱 决策人直达）坐实但微型；进口台湾工业线 ✔ 对位 ✔ → 入池观察档；可否决；备注：微型但已进口台湾工业线 = 真买家 → 留 B 预付 100%",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "info@econtroldevices.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · 分销 20% + 预付 100%：Econtrol Devices Pvt Ltd（Faridabad；CIN U51909HR2019PTC081687；2019；₹1 lakh；<₹1 Cr；董事 Rekha Sorout = 登记邮箱 决策人直达）坐实但微型；进口台湾工业线 ✔ 对位 ✔ → 入池观察档；可否决；闸 1：印度 eControl Devices（econtroldevices.com；Atop 的工业 FS）：进口台湾同类 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +70,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +85,60 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "△ 观察档 · 分销 20% + 预付 100%：Econtrol Devices Pvt Ltd（Faridabad；CIN U51909HR2019PTC081687；2019；₹1 lakh；<₹1 Cr；董事 Rekha Sorout = 登记邮箱 决策人直达）坐实但微型；进口台湾工业线 ✔ 对位 ✔ → 入池观察档；可否决",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "IN · 1 次检索：zaubacorp（CIN / 董事 / 地址）+ tofler（PAN / 营收档 / 登记邮箱）+ thecompanycheck；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.tofler.in/econtrol-devices-private-limited/company/U51909HR2019PTC081687"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Econtrol Devices Private Limited",
+  "reg_no": "U51909HR2019PTC081687（CIN）",
+  "status": "Active（MCA 2026）",
+  "incorporated": "2019-07-29",
+  "company_type": "Private Limited",
+  "address": "Plot No-A2, BPTP District-1, Block-B, Sector-81, Faridabad, Haryana 121002",
+  "size_band": "微型（₹1 lakh；<₹1 Cr）",
+  "officers": [
+   "Rekha Sorout — Director（rekha.sorout@econtroldevices.com = MCA 登记邮箱）",
+   "Amit Kumar — Director"
+  ],
+  "psc": "未取",
+  "source": "IN · 1 次检索：zaubacorp（CIN / 董事 / 地址）+ tofler（PAN / 营收档 / 登记邮箱）+ thecompanycheck；2026-10-29",
+  "url": "https://www.tofler.in/econtrol-devices-private-limited/company/U51909HR2019PTC081687",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "工业网络设备批发（法里达巴德）"
+ ],
+ "channels": {
+  "网站": "https://econtroldevices.com",
+  "直邮": "info@econtroldevices.com（表内）"
+ },
+ "signals": [
+  "印度 eControl Devices（econtroldevices.com；Atop 的工业 FS）：进口台湾同类 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先",
+  "表内兴趣：atop的工业FS"
+ ],
+ "risks": [
+  "**微型进口商 → 分销 20% + 预付 100%：点名 Rekha Sorout 一页纸一次（STI-280GE $46.6 / STI-288GPM $78.9 + MOQ 1 + 付费样机；Atop 不点名）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 C"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

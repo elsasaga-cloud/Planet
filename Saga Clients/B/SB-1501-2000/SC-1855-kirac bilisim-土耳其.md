@@ -1,10 +1,11 @@
 # kirac bilisim
+**官方名称（调研核实）**：Kıraç Bilişim
 
 > **评级 B**　|　土耳其　|　档案编号 `SC-1855`　|　优先级 ★★　|　状态：已推送 9 次·未回复
 >
 > **C 池筛选：○ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：○ P 池正式入池（档位 ○，复查批 G2R-01）：○ 土耳其主区 · 医疗通信系统制造商（品牌 ZKR）OEM 30%：Kıraç Bilgi ve İletişim Teknolojileri San. ve Tic. A.Ş.（Eskişehir 75. Yıl OSB Şehitler Bulvarı No:21 Odunpazarı 26250；2005-01-06 成立；Kıraç Group 1982 起；Ankara Ümitköy 办公室；护士呼叫 / IP 通信方案自产）EMIS + D&B 坐实；主区 ✔ 自有品牌 ✔ 具名 KP shaalan@ ✔；此前 9 推 0 回 → 入池只巡检 + 换 KP 再触　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）、cold
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 9 次（2024-06-16 → 2025-10-28）　|　**所在清单**：A优质名单(土耳其客户)、AI评估(TR)·DONE、群发(之前转的展会俄罗斯客户)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：交换机，且是品牌制造商 → OEM（闸 2 判定 · 30% 档）（推断）　|　**历史关系**：推送 9 次（2024-06-16 → 2025-10-28）　|　**所在清单**：A优质名单(土耳其客户)、AI评估(TR)·DONE、群发(之前转的展会俄罗斯客户)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-1855
@@ -12,12 +13,12 @@ rating: B
 rating_auto: C
 sieve: pool  # 闸 3 P1 2026-10-29
 rating_research: B  # Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：闸 2 未坐实：
-name_official: "kirac bilisim"
+name_official: "Kıraç Bilişim"
 score: 2
 country: 土耳其
 region: 土耳其
 website: kiracbilisim.com.tr
-type: 经销/集成（类型待核）
+type: 交换机，且是品牌制造商 → OEM（闸 2 判定 · 30% 档）
 tier_tags: ["A优质名单(土耳其客户)", "AI评估(TR)·DONE", "群发(之前转的展会俄罗斯客户)"]
 deal: no
 replies: 0
@@ -25,8 +26,8 @@ followups: 9
 first_contact: 2024-06-16
 last_contact: 2025-10-28
 s_mail: 18 msgs (out 18 / in 0), 2024-06-16 -> 2026-10-06
-p1: STC-424DGGPM-280W
-price_tier: 20%
+p1: STC-424XGGPM-280W
+price_tier: 30%
 research: done
 site_snapshot: none
 sources: 3
@@ -38,7 +39,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（○ 正式）：闸 2 未坐实：1 查无命中（仅同业）+ 9 推 0 回 → 回 C 储备（调研 2026-10-29；表内兴趣：跟澳视买,知道天地伟业,需要发EMIAL先联系.）
 - **为什么是 B 级**：**调研后定级 B**（Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：闸 2 未坐实：1 查无命中（仅同业）+ 9 推 0 回 → 回 C 储备；闸 1：土耳其 Kıraç Bilişim（跟澳视买、知道天地伟业，要求先发 email）：土耳其主区 + 已进口中国安防品牌；9 次跟进无回复 → 闸 2 查底数，低优先）；自动分级 C：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；-15 AI/Claude 评估 C；-3 WhatsApp 加不上；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025；-10 推送 9 次无任何回复（聋名单）
 - **历史互动**：推送 9 次（2024-06-16 → 2025-10-28）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-424DGGPM-280W — 待复核后按业务线定首推型号；
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-424XGGPM-280W — 默认对位（交换机，且是品牌制造商 → OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）；
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动：LT-01 复核（待过）后再定 — 长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
@@ -51,13 +52,14 @@ updated: 2026-10-29
 - **现状一句话**：C 池三闸捞出 → B（LT-01）：闸 2 未坐实：1 查无命中（仅同业）+ 9 推 0 回 → 回 C 储备
 - **对方真实需求（有据）**：未知（无往来；复核时从官网 / 进口数据 / 项目推断）
 - **断点 / 为什么停在这里**：无往来（从未触达或仅群发无回）
-- **Saga 现在该推什么**：P1 ****（% 档，价见价格主表）——待复核后按业务线定首推型号
+- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（% 档，价见价格主表）——默认对位（交换机，且是品牌制造商 → OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
 - **下一步（具体）**：不动：LT-01 复核（待过）后再定　—　长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | 闸 2 未坐实：1 查无命中（仅同业）+ 9 推 0 回 → 回 C 储备 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 复核 LT-R01 | Kıraç Bilgi iletişim Teknolojileri San.Tic. A.Ş. was established by Kıraç Group in 2005 … weak current technologies and IT sector until 2011 … nurse call systems under the ZKR brand | 长期客户群复核证据（非邮件事实，不计真回） | `` |
+| 2026-10-29 | 查 | Agent 登记底数（registry） | TR · 1 次检索无命中（返回同业 arcbilisim / kayrabilisim / kargilibilisim）；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -91,7 +93,7 @@ updated: 2026-10-29
 | 名称 | kirac bilisim | 事实（用户表） |
 | 国家 | 土耳其 | 事实（用户表）|
 | 网站/域名 | kiracbilisim.com.tr | 事实（用户表 URL/邮箱域名） |
-| 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
+| 类型 | 交换机，且是品牌制造商 → OEM（闸 2 判定 · 30% 档） | 推断（据兴趣/备注关键词） |
 | 联系人 | Shaalan alzitawi / board of directors | 事实（用户表） |
 | 来源（From） | Intersec 2012 | 事实（用户表） |
 | 兴趣（Interested in） | 跟澳视买,知道天地伟业,需要发EMIAL先联系. | 事实（用户表） |
@@ -115,11 +117,35 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-29）**　网站状态：
+- **状态：已调研（2026-10-29）**　网站状态：存续待核（域名 MX 正常）
 - **是谁**：C 池三闸捞出（○ 正式）：闸 2 未坐实：1 查无命中（仅同业）+ 9 推 0 回 → 回 C 储备
+- **类型**：交换机，且是品牌制造商 → OEM（闸 2 判定 · 30% 档）
+- **规模**：微型（推定）
+- **【登记底数 / 官网（闸 2 坐实）】Kıraç Bilişim（kiracbilisim.com.tr；shaalan@；**1 查「Kıraç Bilişim kiracbilisim.com.tr」仅返回 ARC / Kayra / Kargılı 等同业，无本体 → 未坐实**）；表内：跟澳视买、知道天地伟业、要求先发 email；9 次跟进无回复**
+  > TR · 1 次检索无命中（返回同业 arcbilisim / kayrabilisim / kargilibilisim）；2026-10-29
+  > 来源：（抓取 2026-10-29）
+- **【闸 1 对位】土耳其 Kıraç Bilişim（跟澳视买、知道天地伟业，要求先发 email）：土耳其主区 + 已进口中国安防品牌；9 次跟进无回复 → 闸 2 查底数，低优先**
+  > 来源：（抓取 2026-10-29）
+- **【长期群复核 LT-R01】Kıraç Bilgi ve İletişim Teknolojileri A.Ş.（Eskişehir OSB；2005 起；ZKR 品牌 IP 护士呼叫 / 急救代码系统制造商，2011 前做弱电 + IT）：医院 IP 系统项目需 PoE 交换机，且是品牌制造商 → OEM 30% / 项目配套；行业相邻 ✔ 对位 ✔**
+  > 来源：（抓取 2026-10-29）
+- **KP**：—（表内邮箱（公开 / 总机））shaalan@kiracbilisim.com.tr 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：闸 2 未坐实：1 查无命中（仅同业）+ 9 推 0 回 → 回 C 储备；闸 1：土耳其 Kıraç Bilişim（跟澳视买、知道天地伟业，要求先发 email）：土耳其主区 + 已进口中国安防品牌；9 次跟进无回复 → 闸 2 查底数，低优先
-- 备注：（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
+- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Kıraç Bilişim |
+
+- **业务线**：安防 / IT（土耳其，推定）
+- **触达通道（公开）**：网站: https://kiracbilisim.com.tr；直邮: shaalan@kiracbilisim.com.tr（表内）
+- **近况信号**：
+  - 土耳其 Kıraç Bilişim（跟澳视买、知道天地伟业，要求先发 email）：土耳其主区 + 已进口中国安防品牌；9 次跟进无回复 → 闸 2 查底数，低优先
+  - 表内兴趣：跟澳视买,知道天地伟业,需要发EMIAL先联系.
+- **风险/边界**：**未坐实 + 9 推 0 回 → 不动，回 C 储备**— 土耳其常规：英文稿（可附土语备注）、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳 / DAP（买方清关）；周四 10–12 当地；登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号
+- **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——默认对位（交换机，且是品牌制造商 → OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -185,6 +211,7 @@ updated: 2026-10-29
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| — | 表内邮箱（公开 / 总机） | shaalan@kiracbilisim.com.tr | 调研核实（公开页） | 调研 |
 | Shaalan alzitawi | — | shaalan@kiracbilisim.com.tr / +905556904546 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；邮件已推送 9 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
@@ -203,28 +230,27 @@ updated: 2026-10-29
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：20% 档 $139.9 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $181.2——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-424XGGPM-280W | 深挖对位：默认对位（交换机，且是品牌制造商 → OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档） | $180 USD EXW（㉕ ② 群发现价（群发价台账），30% 档公式为 $196.3——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（交换机，且是品牌制造商 → OEM（闸 2 判定 · 30% 档）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：30% 档 $151.6 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424XGGPM-280W 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
 
-- **S**：土耳其主攻区，复购与口碑可外溢
+- **S**：自有品牌/贴牌需求 = 现成 OEM 客户；土耳其主攻区，复购与口碑可外溢
 - **W**：已推送 9 次无回复，邮件通道疲劳
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STC-424XGGPM-280W 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；规模（调研）：微型（推定）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -252,14 +278,14 @@ updated: 2026-10-29
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-424XGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
 
 ```text
 Hi Shaalan,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGPM-280W - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $180 USD EXW (MOQ 1, 15-day validity).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

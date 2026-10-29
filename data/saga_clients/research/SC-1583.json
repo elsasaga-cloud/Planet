@@ -1,17 +1,46 @@
 {
  "code": "SC-1583",
- "name_official": "cartagocomex.com",
+ "name_official": "Cartago Comex Ltda",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "域名 cartagocomex.com（官网快照待 Actions 补抓）",
  "summary": "C 池三闸捞出（△ 观察）：△ 观察档 · 巴西进口代理 贸易 20% + 预付 100%：Cartago Comex Ltda（Maringá；CNPJ 36.699.505/0001-33；2020；报关行 + 商业代理；R$1,000；1–10 人）坐实但微型；MC 100 对数量询问 ✔ 有进口经验 ✔ 对位（STC-110XGE）✔ → 入池观察档；可否决",
- "type": "",
- "size": "",
+ "type": "巴西进口代理 贸易（闸 2 判定 · 20% 档）",
+ "size": "微型（R$1,000 资本；1–10 人）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Cartago Comex Ltda（cartagocomex.com；**CNPJ 36.699.505/0001-33；2020-03-17；Rua Joubert de Carvalho 623, Sala 804, Zona 01, Maringá PR 87013-200；资本 R$1,000；1–10 人；CNAE 主 5250-8/02 报关行 + 次 4619-2/00 商业代理；matheus@cartagocomex.com；WhatsApp 44 988",
+   "quote": "BR · 1 次检索：casadosdados（CNPJ / 资本 / CNAE / 邮箱 / WA）+ econodata（人数）；2026-10-29",
+   "url": "https://casadosdados.com.br/solucao/cnpj/cartago-comex-ltda-36699505000133",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "巴西 Cartago Comex（cartagocomex.com；HTB MC 100 对，拿 BYXGD 牌子来问）：数量询问 = 真需求 ✔ 进口中国同类 ✔ 巴西有先例（Teltex / Parks）；→ 闸 2 查 CNPJ；MC 仅 STC-110XGE 对位 → 低优先",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：△ 观察档 · 巴西进口代理 贸易 20% + 预付 100%：Cartago Comex Ltda（Maringá；CNPJ 36.699.505/0001-33；2020；报关行 + 商业代理；R$1,000；1–10 人）坐实但微型；MC 100 对数量询问 ✔ 有进口经验 ✔ 对位（STC-110XGE）✔ → 入池观察档；可否决；备注：报关行 + 商业代理微型，但 MC 100 对数量询问 + 进口经验 → 留 B 预付 100%",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "import3@cartagocomex.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · 巴西进口代理 贸易 20% + 预付 100%：Cartago Comex Ltda（Maringá；CNPJ 36.699.505/0001-33；2020；报关行 + 商业代理；R$1,000；1–10 人）坐实但微型；MC 100 对数量询问 ✔ 有进口经验 ✔ 对位（STC-110XGE）✔ → 入池观察档；可否决；闸 1：巴西 Cartago Comex（cartagocomex.com；HTB MC 100 对，拿 BYXGD 牌子来问）：数量询问 = 真需求 ✔ 进口中国同类 ✔ 巴西有先例（Teltex / Parks）；→ 闸 2 查 CNPJ；M…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +70,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（巴西进口代理 贸易 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +85,56 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "△ 观察档 · 巴西进口代理 贸易 20% + 预付 100%：Cartago Comex Ltda（Maringá；CNPJ 36.699.505/0001-33；2020；报关行 + 商业代理；R$1,000；1–10 人）坐实但微型；MC 100 对数量询问 ✔ 有进口经验 ✔ 对位（STC-110XGE）✔ → 入池观察档；可否决",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "BR · 1 次检索：casadosdados（CNPJ / 资本 / CNAE / 邮箱 / WA）+ econodata（人数）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://casadosdados.com.br/solucao/cnpj/cartago-comex-ltda-36699505000133"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Cartago Comex Ltda",
+  "reg_no": "36.699.505/0001-33（CNPJ）",
+  "status": "Ativa（Receita 2025-08）",
+  "incorporated": "2020-03-17",
+  "company_type": "Ltda",
+  "address": "Rua Joubert de Carvalho, 623, Sala 804, Zona 01, Maringá - PR, 87013-200",
+  "size_band": "微型（R$1,000 资本；1–10 人）",
+  "officers": [
+   "Matheus — 登记邮箱 matheus@cartagocomex.com（职务未取）"
+  ],
+  "psc": "未取",
+  "source": "BR · 1 次检索：casadosdados（CNPJ / 资本 / CNAE / 邮箱 / WA）+ econodata（人数）；2026-10-29",
+  "url": "https://casadosdados.com.br/solucao/cnpj/cartago-comex-ltda-36699505000133",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "报关 / 进口代理（马林加）"
+ ],
+ "channels": {
+  "网站": "https://cartagocomex.com",
+  "直邮": "import3@cartagocomex.com（表内）"
+ },
+ "signals": [
+  "巴西 Cartago Comex（cartagocomex.com；HTB MC 100 对，拿 BYXGD 牌子来问）：数量询问 = 真需求 ✔ 进口中国同类 ✔ 巴西有先例（Teltex / Parks）；→ 闸 2 查 CNPJ；MC 仅 STC-110XGE 对位 → 低优先",
+  "表内兴趣：HTB MC 100对\n拿BYXGD这个牌子来问的"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（巴西进口代理 贸易 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

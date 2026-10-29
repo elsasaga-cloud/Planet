@@ -124,6 +124,8 @@ updated: 2026-10-29
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 油气工业集成 25%：Leap Networks（Abu Dhabi；2012；11–20 人；CEO Muhammad Ashfaq = 表内具名 KP；ISO 9001 / 14001 / 45001；沙特姊妹公司 Leap Networks Arabia）部分坐实（执照未取）；决策人直达 ✔ 工业对位 ✔ → P 池候选；表内沙特 ↔ 总部阿联酋 备注待 Simon；闸 1：阿联酋 / 沙特 Leap Networks（leap-networks.ae；表内「4 光 4 管理 PoE 64 个」= 数量询盘；KP Tarek Bary，邮箱退信 8 次但域正常，+971 手机在表）：数量信号 ✔ 对位 ✔ 退…
 - 备注：T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。
 
+### 加厚挖掘（2026-10-29 · 邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓））
+
 
 ## 在卖/在用品牌 → Saga 对位
 

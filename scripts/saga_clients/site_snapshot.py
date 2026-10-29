@@ -25,8 +25,13 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 from urllib.parse import urljoin, urlparse
 
-import requests
-import urllib3
+# T29-U131 修：本目录的 calendar.py（节假日日历）会遮住标准库 calendar，requests → http.cookiejar 导入即炸
+#（2026-10-27 起存在；T27 快照跑在 10-21 所以没撞上）。把脚本自身目录从 sys.path 摘掉再导 requests。
+_HERE = os.path.dirname(os.path.abspath(__file__))
+sys.path[:] = [p for p in sys.path if os.path.abspath(p or os.getcwd()) != _HERE]
+
+import requests  # noqa: E402
+import urllib3  # noqa: E402
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
@@ -50,6 +55,9 @@ COMMIT_EVERY = int(os.environ.get('COMMIT_EVERY', '150'))
 GIT_COMMIT = os.environ.get('GIT_COMMIT', '0') == '1'
 GIT_REF = os.environ.get('GIT_REF', '')
 FRESH_DAYS = int(os.environ.get('FRESH_DAYS', '30'))
+# T29-U131：EXTRA_SITES = 额外站点清单 JSON（External / Planet 仓的 B 户：[{code,name,grade,country,domains}]）；TIME_BUDGET = 本轮最多跑多少秒（0 = 不限）
+EXTRA_SITES = os.environ.get('EXTRA_SITES', '')
+TIME_BUDGET = int(os.environ.get('TIME_BUDGET', '0'))
 TIMEOUT = (10, 20)
 MAX_BODY = 1_500_000
 UA = ('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) '
@@ -350,6 +358,11 @@ def git_commit_push(msg):
 def main():
     os.makedirs(OUT, exist_ok=True)
     ents = json.load(open(ENTITIES, encoding='utf-8'))
+    if EXTRA_SITES and os.path.exists(EXTRA_SITES):
+        have = {e['code'] for e in ents}
+        extra = [x for x in json.load(open(EXTRA_SITES, encoding='utf-8')) if x.get('code') not in have and x.get('domains')]
+        ents = ents + extra
+        log(f'extra sites merged: {len(extra)} from {os.path.basename(EXTRA_SITES)}')
     todo = []
     cutoff = time.time() - FRESH_DAYS * 86400
     for e in sorted(ents, key=lambda x: ('ABC'.index(x['grade']), x['code'])):
@@ -370,25 +383,33 @@ def main():
     done = 0
     stats = {}
     t0 = time.time()
-    with ThreadPoolExecutor(max_workers=WORKERS) as ex:
-        futs = {ex.submit(snapshot_one, e): e for e in todo}
-        for fut in as_completed(futs):
-            e = futs[fut]
-            try:
-                rec = fut.result()
-            except Exception as ex_:
-                rec = {'code': e['code'], 'name': e.get('name'), 'grade': e.get('grade'), 'country': e.get('country'),
-                       'fetched_at': now_iso(), 'domains': e.get('domains'), 'status': 'crash',
-                       'errors': [f'{type(ex_).__name__}: {str(ex_)[:200]}'], 'home': None, 'subpages': []}
-            with open(os.path.join(OUT, f"{rec['code']}.json"), 'w', encoding='utf-8') as f:
-                json.dump(rec, f, ensure_ascii=False, separators=(',', ':'))
-            stats[rec['status']] = stats.get(rec['status'], 0) + 1
-            done += 1
-            if done % 25 == 0:
-                log(f'{done}/{len(todo)} {stats} {int(time.time() - t0)}s')
-            if COMMIT_EVERY and done % COMMIT_EVERY == 0:
-                write_report()
-                git_commit_push(f'T27: 客户官网快照 +{COMMIT_EVERY}（累计 {done}/{len(todo)}，{now_iso()}）')
+
+    def chunks(seq, n):
+        for i in range(0, len(seq), n):
+            yield seq[i:i + n]
+    for chunk in chunks(todo, WORKERS * 3):
+        if TIME_BUDGET and time.time() - t0 > TIME_BUDGET:
+            log(f'time budget {TIME_BUDGET}s reached after {done}/{len(todo)} → stop (rest next run)')
+            break
+        with ThreadPoolExecutor(max_workers=WORKERS) as ex:
+            futs = {ex.submit(snapshot_one, e): e for e in chunk}
+            for fut in as_completed(futs):
+                e = futs[fut]
+                try:
+                    rec = fut.result()
+                except Exception as ex_:
+                    rec = {'code': e['code'], 'name': e.get('name'), 'grade': e.get('grade'), 'country': e.get('country'),
+                           'fetched_at': now_iso(), 'domains': e.get('domains'), 'status': 'crash',
+                           'errors': [f'{type(ex_).__name__}: {str(ex_)[:200]}'], 'home': None, 'subpages': []}
+                with open(os.path.join(OUT, f"{rec['code']}.json"), 'w', encoding='utf-8') as f:
+                    json.dump(rec, f, ensure_ascii=False, separators=(',', ':'))
+                stats[rec['status']] = stats.get(rec['status'], 0) + 1
+                done += 1
+                if done % 25 == 0:
+                    log(f'{done}/{len(todo)} {stats} {int(time.time() - t0)}s')
+                if COMMIT_EVERY and done % COMMIT_EVERY == 0:
+                    write_report()
+                    git_commit_push(f'T27: 客户官网快照 +{COMMIT_EVERY}（累计 {done}/{len(todo)}，{now_iso()}）')
     write_report()
     git_commit_push(f'T27: 客户官网快照完成本轮（{done} 站，{now_iso()}）')
     log('done', stats)

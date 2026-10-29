@@ -1,17 +1,62 @@
 {
  "code": "SC-2481",
- "name_official": "Okisan",
+ "name_official": "Okisan Güvenlik Teknolojileri San. ve Tic. A.Ş.",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（官网产品页 2026-05）",
  "summary": "C 池三闸捞出（★ 正式）：★ 进口商 · 分销 20%：Okisan Güvenlik Teknolojileri San. ve Tic. A.Ş.（1986；Şişli；Tiandy / Dahua 授权分销；11–50）部分坐实；进口经验 ✔（HSGQ）主区 ✔ 对位 ✔ KP Gökhan（WA 已加）→ P 池候选；Simon 曾判不行，可否决",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "分销（闸 2 判定 · 20% 档）",
+ "size": "小型（11–50）",
+ "brands_seen": [
+  "Dahua",
+  "ONV",
+  "Tiandy"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Okisan Güvenlik Teknolojileri San. ve Tic. A.Ş.（okisan.com；**Crunchbase：1986 年创立、Şişli İstanbul、11–50 人、安防技术进口 + 分销、Tiandy / Dahua 土耳其授权分销；Tiandy 官网合作方页：OKİSAN PLAZA, Mahmut Şevket Paşa Mah. Odesa Bulvarı Ersan Sok. No:24 Okmeydanı – Şişli*",
+   "quote": "TR · 1 次检索：crunchbase（Okisan Güvenlik Teknolojileri；Founded 1986；Sisli, Istanbul；11-50；import and distribution of security technologies；authorized distributor Tiandy and Dahua）+ en.tiandy.com/projects（Okisan Güvenlik Teknolojileri San. ve Tic. A.Ş.；OKİSAN PLAZA 地址）；2026-10-29",
+   "url": "https://en.tiandy.com/projects/okisan-g-venlik-teknolojileri-san-ve-tic-a/3161.html",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "土耳其 Okisan（Gökhan，okisan.com）：已从深圳 HSGQ 进口（1V1D $30），用丰润达商业 PoE，要 catalog / relay converter → 土耳其主区 + 进口经验 + 对位 ✔；Simon 曾判不行 → 闸 2 查底数再定",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R02",
+   "claim": "桌面复核（闸 2 证据充分，三问成立）：★ 进口商 · 分销 20%：Okisan Güvenlik Teknolojileri San. ve Tic. A.Ş.（1986；Şişli；Tiandy / Dahua 授权分销；11–50）部分坐实；进口经验 ✔（HSGQ）主区 ✔ 对位 ✔ KP Gökhan（WA 已加）→ P 池候选；Simon 曾判不行，可否决",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "gokhan@okisan.com",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "okisan@okisan.com",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "okan@okisan.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 进口商 · 分销 20%：Okisan Güvenlik Teknolojileri San. ve Tic. A.Ş.（1986；Şişli；Tiandy / Dahua 授权分销；11–50）部分坐实；进口经验 ✔（HSGQ）主区 ✔ 对位 ✔ KP Gökhan（WA 已加）→ P 池候选；Simon 曾判不行，可否决；闸 1：土耳其 Okisan（Gökhan，okisan.com）：已从深圳 HSGQ 进口（1V1D $30），用丰润达商业 PoE，要 catalog / relay converter → 土耳其主区 + 进口经验 + 对位 ✔；Simon…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +86,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +101,61 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 进口商 · 分销 20%：Okisan Güvenlik Teknolojileri San. ve Tic. A.Ş.（1986；Şişli；Tiandy / Dahua 授权分销；11–50）部分坐实；进口经验 ✔（HSGQ）主区 ✔ 对位 ✔ KP Gökhan（WA 已加）→ P 池候选；Simon 曾判不行，可否决",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "TR · 1 次检索：crunchbase（Okisan Güvenlik Teknolojileri；Founded 1986；Sisli, Istanbul；11-50；import and distribution of security technologies；authorized distributor Tiandy and Dahua）+ en.tiandy.com/projects（Okisan Güvenlik Teknolojileri San. ve Tic. A.Ş.；OKİSAN PLAZA 地址）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://en.tiandy.com/projects/okisan-g-venlik-teknolojileri-san-ve-tic-a/3161.html"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Okisan Güvenlik Teknolojileri San. ve Tic. A.Ş.",
+  "reg_no": "未取（MERSIS 1 查未得）",
+  "status": "营业中（官网产品页 2026-05）",
+  "incorporated": "1986",
+  "company_type": "A.Ş.",
+  "address": "Okisan Plaza, Mahmut Şevket Paşa Mah. Odesa Bulvarı Ersan Sok. No:24, Okmeydanı – Şişli / İstanbul",
+  "size_band": "小型（11–50）",
+  "officers": [
+   "Gökhan — 表内联系人（gokhan@okisan.com；WA 已加）= 收件人",
+   "Okan — okan@okisan.com（表内）"
+  ],
+  "psc": "未取",
+  "source": "TR · 1 次检索：crunchbase（Okisan Güvenlik Teknolojileri；Founded 1986；Sisli, Istanbul；11-50；import and distribution of security technologies；authorized distributor Tiandy and Dahua）+ en.tiandy.com/projects（Okisan Güvenlik Teknolojileri San. ve Tic. A.Ş.；OKİSAN PLAZA 地址）；2026-10-29",
+  "url": "https://en.tiandy.com/projects/okisan-g-venlik-teknolojileri-san-ve-tic-a/3161.html",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "安防技术进口 + 分销（Tiandy / Dahua 授权；伊斯坦布尔）"
+ ],
+ "channels": {
+  "网站": "https://okisan.com",
+  "直邮": "gokhan@okisan.com，okisan@okisan.com，okan@okisan.com（表内）"
+ },
+ "signals": [
+  "土耳其 Okisan（Gökhan，okisan.com）：已从深圳 HSGQ 进口（1V1D $30），用丰润达商业 PoE，要 catalog / relay converter → 土耳其主区 + 进口经验 + 对位 ✔；Simon 曾判不行 → 闸 2 查底数再定",
+  "表内兴趣：catalog; relay converter(110)\n商业POE 用的丰润达的；跟深圳hsgq买，1v1d：30usd， 300对一个月交期, want price list to compare；商业POE"
+ ],
+ "risks": [
+  "**现成进口商 + 分销 → 分销 20%：一页纸一次（STC-228GP $33 / STC-2224GP $86 / STC-110XGE $65 一口价 + MOQ 1 + 付费样机 + 工业线价目；HSGQ / 丰润达 不点名）— 土耳其常规：英文稿（可附土语备注）、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳 / DAP（买方清关）；周四 1",
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

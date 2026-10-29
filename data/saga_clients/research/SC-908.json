@@ -1,17 +1,50 @@
 {
  "code": "SC-908",
- "name_official": "prumysloveswitche.cz",
+ "name_official": "BLUECOM s.r.o. — prumysloveswitche.cz",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（官网在线）",
  "summary": "C 池三闸捞出（○ 正式）：○ 分销 20%：BLUECOM s.r.o. = prumysloveswitche.cz（Chrudim；IČ 25955993；KS Hradec Králové C 17530；Advantech B+B 工业交换机专卖 + Axis / Bosch / Fluke）坐实；进口台湾工业品牌 ✔ 欧洲 ✔ 对位极强 ✔ 坐实 ✔ = 冷户四条 → P 池候选",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "分销（闸 2 判定 · 20% 档）",
+ "size": "小型",
+ "brands_seen": [
+  "Axis",
+  "Bosch",
+  "Advantech"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "BLUECOM s.r.o. — prumysloveswitche.cz（bluecom.cz；**官网 Advantech 页 / networkmanagement.cz：IČ 25955993；DIČ CZ25955993；Krajský soud v Hradci Králové C 17530；Nerudova 1034, 537 01 Chrudim；+420 469 688 054；Advantech B+B 工业交换机 / Axis / Bosch / Fl",
+   "quote": "CZ · 1 次检索：bluecom.cz/advantech（法人 / IČ / 登记 / 地址）+ bluecom.cz/dealer（经销品牌）+ networkmanagement.cz/kontakt.php；2026-10-29",
+   "url": "https://www.bluecom.cz/advantech",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "捷克 Průmyslové switche / Bluecom（prumysloveswitche.cz / bluecom.cz；「工业交换机」专卖，基本都是研华的）：欧洲 + 已进口台湾工业品牌 + 对位极强；未触达 → 闸 2 查底数",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R02",
+   "claim": "桌面复核（闸 2 证据充分，三问成立）：○ 分销 20%：BLUECOM s.r.o. = prumysloveswitche.cz（Chrudim；IČ 25955993；KS Hradec Králové C 17530；Advantech B+B 工业交换机专卖 + Axis / Bosch / Fluke）坐实；进口台湾工业品牌 ✔ 欧洲 ✔ 对位极强 ✔ 坐实 ✔ = 冷户四条 → P 池候选",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "sales@bluecom.cz",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 分销 20%：BLUECOM s.r.o. = prumysloveswitche.cz（Chrudim；IČ 25955993；KS Hradec Králové C 17530；Advantech B+B 工业交换机专卖 + Axis / Bosch / Fluke）坐实；进口台湾工业品牌 ✔ 欧洲 ✔ 对位极强 ✔ 坐实 ✔ = 冷户四条 → P 池候选；闸 1：捷克 Průmyslové switche / Bluecom（prumysloveswitche.cz / bluecom.cz；「工业交换机」专卖，基本都是研华的）：欧洲 + 已进口台湾工业品牌 + 对位极强；未触达 → 闸 2 查底数",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +74,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +89,59 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 分销 20%：BLUECOM s.r.o. = prumysloveswitche.cz（Chrudim；IČ 25955993；KS Hradec Králové C 17530；Advantech B+B 工业交换机专卖 + Axis / Bosch / Fluke）坐实；进口台湾工业品牌 ✔ 欧洲 ✔ 对位极强 ✔ 坐实 ✔ = 冷户四条 → P 池候选",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "CZ · 1 次检索：bluecom.cz/advantech（法人 / IČ / 登记 / 地址）+ bluecom.cz/dealer（经销品牌）+ networkmanagement.cz/kontakt.php；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.bluecom.cz/advantech"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "BLUECOM s.r.o. — prumysloveswitche.cz",
+  "reg_no": "25955993（IČ；Hradec Králové C 17530）",
+  "status": "营业中（官网在线）",
+  "incorporated": "未取",
+  "company_type": "s.r.o.",
+  "address": "Nerudova 1034, 537 01 Chrudim",
+  "size_band": "小型",
+  "officers": [
+   "（sales@bluecom.cz 表内总邮箱；具名 KP 未取）"
+  ],
+  "psc": "未取",
+  "source": "CZ · 1 次检索：bluecom.cz/advantech（法人 / IČ / 登记 / 地址）+ bluecom.cz/dealer（经销品牌）+ networkmanagement.cz/kontakt.php；2026-10-29",
+  "url": "https://www.bluecom.cz/advantech",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "工业交换机 / 安防 / 网络诊断分销（赫鲁迪姆）"
+ ],
+ "channels": {
+  "网站": "https://prumysloveswitche.cz",
+  "直邮": "sales@bluecom.cz（表内）"
+ },
+ "signals": [
+  "捷克 Průmyslové switche / Bluecom（prumysloveswitche.cz / bluecom.cz；「工业交换机」专卖，基本都是研华的）：欧洲 + 已进口台湾工业品牌 + 对位极强；未触达 → 闸 2 查底数",
+  "表内兴趣：基本都是研华的；Advantech"
+ ],
+ "risks": [
+  "**工业交换机专卖 → 分销 20%：一页纸一次（STI-154GP / STI-288GPM / STI-288DGGPM / STI-0240GE 对标 Advantech B+B 入门 + MOQ 1 + 付费样机；Advantech 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–1"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

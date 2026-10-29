@@ -1,0 +1,56 @@
+{
+ "code": "XB-E038",
+ "name": "ATL Colombia SAS",
+ "round": "LT-T01",
+ "researched_at": "2026-10-29",
+ "alive": "域名 atl-corp.com MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "summary": "ATL Colombia SAS（哥伦比亚 · Bogotá）：SI/VAR/集成商",
+ "type_final": "SI/VAR/集成商",
+ "size": "",
+ "brands_seen": [],
+ "saga_line": "STC 项目集成款（25% 档：STC-2216GP / STC-228GP）",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "SI/VAR/集成商",
+   "quote": "",
+   "url": "https://atl-corp.com",
+   "date": "2026-10-27"
+  },
+  {
+   "kind": "来源库证据链接",
+   "claim": "来源库调研时引用",
+   "quote": "",
+   "url": "https://www.edge-core.com/where-to-buy/LatinAmerica-reseller/",
+   "date": "2026-10-27"
+  },
+  {
+   "kind": "长期群复核 LT-R07",
+   "claim": "桌面复核（来源库核对 + 研究卡）：SI/VAR/集成商；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "contacts": {
+  "email": "ventas@atl-corp.com",
+  "email_status": "活（来源库 9 月核对）",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-19 去信 2 / 来信 0（24 Port PoE Managed Switch）",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "桌面复核（来源库核对 + 研究卡）：SI/VAR/集成商；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "官网快照 + 加厚后进群发分组（Q-77）"
+ },
+ "draft_en": null,
+ "deep": false,
+ "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+}

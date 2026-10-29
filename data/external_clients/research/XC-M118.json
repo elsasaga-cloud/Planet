@@ -1,0 +1,78 @@
+{
+ "code": "XC-M118",
+ "name": "Eptimo",
+ "round": "LT-T01",
+ "researched_at": "2026-10-29",
+ "alive": "域名 eptimo.pl 有 A 记录、无 MX（邮箱可能托管在别的域；DNS 2026-10-29）",
+ "summary": "Eptimo（波兰）：分销（MikroTik 官方）；MikroTik（Master Distributor）",
+ "type_final": "分销（MikroTik 官方）",
+ "size": "",
+ "brands_seen": [
+  "MikroTik"
+ ],
+ "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "分销（MikroTik 官方）",
+   "quote": "",
+   "url": "https://eptimo.pl",
+   "date": "2026-09"
+  },
+  {
+   "kind": "来源库证据链接",
+   "claim": "来源库调研时引用",
+   "quote": "",
+   "url": "https://www.eptimo.com/en/b2b-platform/",
+   "date": "2026-09"
+  },
+  {
+   "kind": "来源库证据链接",
+   "claim": "来源库调研时引用",
+   "quote": "",
+   "url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000640183?rejestr=P&format=json",
+   "date": "2026-09"
+  },
+  {
+   "kind": "来源库证据链接",
+   "claim": "来源库调研时引用",
+   "quote": "",
+   "url": "https://www.eptimo.com/wp-content/uploads/2026/02/mikrotik.png",
+   "date": "2026-09"
+  },
+  {
+   "kind": "长期群复核 LT-R05",
+   "claim": "桌面复核（渠道名录 + 研究卡）：分销（MikroTik 官方）；信号：MikroTik（Master Distributor）；在卖工业/商用交换机 = 行业内 ✔ 对位 ✔ 分销进口 ✔ → 留 B",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "contacts": {
+  "email": "maciej.wiszniewski@eptimo.com",
+  "email_status": "活（来源库 9 月核对）",
+  "kp": [
+   {
+    "name": "Maciej Wiszniewski",
+    "role": "Head of Business Development & Sales（Eptimo B2B平台公开列名）",
+    "source": "公开B2B商务/销售联系人；未核实其负责网络交换机采购、MikroTik品类或品牌准入；本轮未联系"
+   }
+  ]
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "桌面复核（渠道名录 + 研究卡）：分销（MikroTik 官方）；信号：MikroTik（Master Distributor）；在卖工业/商用交换机 = 行业内 ✔ 对位 ✔ 分销进口 ✔ → 留 B",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "官网快照 + 加厚后进群发分组（Q-77）"
+ },
+ "draft_en": null,
+ "deep": false,
+ "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+}

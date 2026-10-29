@@ -1,17 +1,52 @@
 {
  "code": "SC-2219",
- "name_official": "comelitgroup.com",
+ "name_official": "COMELIT GROUP S.p.A.",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（2025 年报）",
  "summary": "C 池三闸捞出（★ 正式）：★ 品牌商 · OEM 30%：Comelit Group S.p.A.（01546400167；Rovetta 1985；€112M / 250–499 人；自有品牌 UniPoE 交换机贴牌）坐实；对位 ✔ 欧洲 ✔ 自有品牌 ✔ 体量 ✔ → P 池候选（长线：需挖总部产品 / 采购 KP）；Simon 曾判不行，可否决",
- "type": "",
- "size": "",
+ "type": "OEM（闸 2 判定 · 30% 档）",
+ "size": "大型（250–499；€112M）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "COMELIT GROUP S.p.A.（comelitgroup.com；**aziende.it / reportaziende：P.IVA 01546400167；Via Don Basilide Arrigoni 5, 24020 Rovetta (BG)；1985-02-01 登记（CCIAA Bergamo）；2024 营收 €111.6M、净利 €10.3M；2025 营收 €112.5M；250–499 名员工；ATECO 27.9 其他电气设备制造；PEC ",
+   "quote": "IT · 1 次检索：aziende.it/comelit-group-s-p-a（01546400167；€111.6M 2024；250–499）+ reportaziende（€112.5M 2025）+ impresaitalia；2026-10-29",
+   "url": "https://www.aziende.it/comelit-group-s-p-a",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "意大利 Comelit Group（对讲 / 安防集团，UniPoE 工业 FS + 商业 PoE 自有 logo；之前跟过西班牙分公司）→ 欧洲主区 + 品牌商体量；Simon 曾判不行 → 闸 2 查底数，入池需 §5 四条",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R02",
+   "claim": "桌面复核（闸 2 证据充分，三问成立）：★ 品牌商 · OEM 30%：Comelit Group S.p.A.（01546400167；Rovetta 1985；€112M / 250–499 人；自有品牌 UniPoE 交换机贴牌）坐实；对位 ✔ 欧洲 ✔ 自有品牌 ✔ 体量 ✔ → P 池候选（长线：需挖总部产品 / 采购 KP）；Simon 曾判不行，可否决",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "info@comelit.it",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "info@comelit.es",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 品牌商 · OEM 30%：Comelit Group S.p.A.（01546400167；Rovetta 1985；€112M / 250–499 人；自有品牌 UniPoE 交换机贴牌）坐实；对位 ✔ 欧洲 ✔ 自有品牌 ✔ 体量 ✔ → P 池候选（长线：需挖总部产品 / 采购 KP）；Simon 曾判不行，可否决；闸 1：意大利 Comelit Group（对讲 / 安防集团，UniPoE 工业 FS + 商业 PoE 自有 logo；之前跟过西班牙分公司）→ 欧洲主区 + 品牌商体量；Simon 曾判不行 → 闸 2 查底数，入池需 §5 四条",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +76,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +91,59 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 品牌商 · OEM 30%：Comelit Group S.p.A.（01546400167；Rovetta 1985；€112M / 250–499 人；自有品牌 UniPoE 交换机贴牌）坐实；对位 ✔ 欧洲 ✔ 自有品牌 ✔ 体量 ✔ → P 池候选（长线：需挖总部产品 / 采购 KP）；Simon 曾判不行，可否决",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "IT · 1 次检索：aziende.it/comelit-group-s-p-a（01546400167；€111.6M 2024；250–499）+ reportaziende（€112.5M 2025）+ impresaitalia；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.aziende.it/comelit-group-s-p-a"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "COMELIT GROUP S.p.A.",
+  "reg_no": "P.IVA 01546400167",
+  "status": "营业中（2025 年报）",
+  "incorporated": "1985-02-01",
+  "company_type": "S.p.A.",
+  "address": "Via Don Basilide Arrigoni 5, 24020 Rovetta (BG)",
+  "size_band": "大型（250–499；€112M）",
+  "officers": [
+   "（info@comelit.it / info@comelit.es 表内总邮箱；采购 / 产品经理 KP 待 LinkedIn 挖掘）"
+  ],
+  "psc": "未取",
+  "source": "IT · 1 次检索：aziende.it/comelit-group-s-p-a（01546400167；€111.6M 2024；250–499）+ reportaziende（€112.5M 2025）+ impresaitalia；2026-10-29",
+  "url": "https://www.aziende.it/comelit-group-s-p-a",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "楼宇对讲 / 安防系统品牌制造商（自有品牌 PoE 交换机贴牌；贝加莫）"
+ ],
+ "channels": {
+  "网站": "https://comelitgroup.com",
+  "直邮": "info@comelit.it，info@comelit.es（表内）"
+ },
+ "signals": [
+  "意大利 Comelit Group（对讲 / 安防集团，UniPoE 工业 FS + 商业 PoE 自有 logo；之前跟过西班牙分公司）→ 欧洲主区 + 品牌商体量；Simon 曾判不行 → 闸 2 查底数，入池需 §5 四条",
+  "表内兴趣：UniPoE的工业FS 也有商业PoE\n之前跟过spain的分公司；商业POE 自己的logo"
+ ],
+ "risks": [
+  "**自有品牌 PoE 交换机（UniPoE）→ OEM 30%：找总部产品 / 采购 KP 后一页纸（STC-028GP / STC-228GP / STI-154GP 对标 UniPoE 口型 + 丝印彩盒 MOQ + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；Si"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

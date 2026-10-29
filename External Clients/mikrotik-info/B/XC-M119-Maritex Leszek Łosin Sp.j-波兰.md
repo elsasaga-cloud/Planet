@@ -1,11 +1,12 @@
 # XC-M119 · Maritex Leszek Łosin Sp.j. · 波兰
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 工业 / 电子元件分销 20%：„MARITEX" Leszek Łosin Spółka Jawna（Gdynia ul. Rdestowa 53D；KRS 0000880720；NIP 9581659572；REGON 221578676；经营自 2012-01-02，KRS 2021-02-02）坐实；ORing 授权工业网络分销 → STI 对位；具名 KP g.kondratowic） ｜ 来源 mikrotik-info `C-054`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 工业 / 电子元件分销 20%：„MARITEX" Leszek Łosin Spółka Jawna（Gdynia ul. Rdestowa 53D；KRS 0000880720；NIP 9581659572；REGON 221578676；经营自 2012-01-02，KRS 2021-02-02）坐实；ORing 授权工业网络分销 → STI 对位；具名 KP g.kondratowic） ｜ 来源 mikrotik-info `C-054`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T01 2026-10-29）→ 下一动作 不动
 >
 > **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：○ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 工业 / 电子元件分销 20%：„MARITEX" Leszek Łosin Spółka Jawna（Gdynia ul. Rdestowa 53D；KRS 0000880720；NIP 9581659572；REGON 221578676；经营自 2012-01-02，KRS 2021-02-02）坐实；ORing 授权工业网络分销 → STI 对位；具名 KP g.kondratowicz@ + orders@；波兰
 
 ## 1. 初判与理由
 - 初判：**XC** — 来源库（mikrotik-info）已判 C（细分：B下放·无邮箱（群发触达不到）；依据：【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一）；Simon 口径「mik 的 C 不碰」→ 关仓前仅存档，不跟
+- 研究后改级：XC → **XB**（LT-T01，桌面复核（渠道名录 + 研究卡）：分销（ORing 授权）；信号：ORing；在卖工业/商用交换机 = 行业内 ✔ 对位 ✔ 分销进口 ✔ → 留 B）；编号不变
 - 人工改级：XB（2026-10-29，Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 工业 / 电子元件分销 20%：„MARITEX" Leszek Łosin Spółka Jawna（Gdynia ul. Rdestowa 53D；KRS 0000880720；NIP 9581659572；REGON 221578676；经营自 2012-01-02，KRS 2021-02-02）坐实；ORing 授权工业网络分销 → STI 对位；具名 KP g.kondratowic）；编号不变
 - 标记：来源C
 - 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
@@ -58,7 +59,26 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究与跟进（第 2 步起填）
-- 研究状态：未研究
-- 研究结论 / 升降建议：—
-- 下一步：—
+## 8. 研究卡（第 2 步，LT-T01，2026-10-29）
+
+- **结论：XB** — 桌面复核（渠道名录 + 研究卡）：分销（ORing 授权）；信号：ORing；在卖工业/商用交换机 = 行业内 ✔ 对位 ✔ 分销进口 ✔ → 留 B
+- 活着吗：域名 maritex.eu MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓
+- 一句话：Maritex Leszek Łosin Sp.j.（波兰）：分销（ORing 授权）；ORing
+- 是什么人：分销（ORing 授权）
+- 在卖/在用：ORing
+- 对口哪条线：STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）
+- 找得到人吗：g.kondratowicz@maritex.eu（活（来源库 9 月核对））；KP：Grzegorz Kondratowicz（IES-1080A 商品页标注的 Product Manager（卖方产品咨询角色），仅验证为该商品页的产品咨询/产品经理；不是已确认的交换机采购或品牌准入负责人；本轮未联系）
+- 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
+- 与 Saga Clients：无
+- **下一动作：不动**；建议 官网快照 + 加厚后进群发分组（Q-77）
+
+证据：
+| 类型 | 说明 | 摘录 | 来源 | 日期 |
+|---|---|---|---|---|
+| 来源库官网/名录核对 | 分销（ORing 授权） |  | https://maritex.eu | 2026-09 |
+| 来源库证据链接 | 来源库调研时引用 |  | https://www.maritex.eu/en/product/oring-ies-1080a-industrial-communication | 2026-09 |
+| 来源库证据链接 | 来源库调研时引用 |  | https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000880720?rejestr=P&format=json | 2026-09 |
+| 来源库证据链接 | 来源库调研时引用 |  | https://www.maritex.eu/en/about-company | 2026-09 |
+| 长期群复核 LT-R05 | 桌面复核（渠道名录 + 研究卡）：分销（ORing 授权）；信号：ORing；在卖工业/商用交换机 = 行业内 ✔ 对位 ✔ 分销进口 ✔ → 留 B |  |  | 2026-10-29 |
+
+- 备注：LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。

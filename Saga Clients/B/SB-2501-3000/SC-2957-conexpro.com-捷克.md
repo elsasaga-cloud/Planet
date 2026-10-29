@@ -110,6 +110,8 @@ updated: 2026-10-29
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 捷克（欧洲）· 自有品牌商 OEM 30%（长线）：Conexpro（conexpro.com About / Contact 直取：ISP / 安装商全线网络配件品牌，PoE 交换机 / SFP / 注入器 / 机柜 / 电池；Hřbitovní 1479/25, 312 00 Plzeň；info@conexpro.com；多国分销）部分坐实（IČO 未取，法人疑 i4wifi a.s.…；闸 1：俄罗斯 ConexPro（conexpro.com 正常；Simon 二筛备注「基本是全线帧田的」✔ = 自有品牌、全线自中国 OEM；无邮箱）：俄罗斯点名区 ✔ 自有品牌 OEM 对象 ✔ 对位 ✔ 公司可坐实 ✔ → 闸 2 查底数（…
 - 备注：T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。
 
+### 加厚挖掘（2026-10-29 · 邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓））
+
 
 ## 在卖/在用品牌 → Saga 对位
 

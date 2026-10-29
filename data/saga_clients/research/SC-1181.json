@@ -1,17 +1,46 @@
 {
  "code": "SC-1181",
- "name_official": "agendaage.hu",
+ "name_official": "AGENDA-AGE Kft.",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "域名 agendaage.hu（官网快照待 Actions 补抓）",
  "summary": "C 池三闸捞出（○ 正式）：○ 进口商 · 分销 20%：Agenda-Age Kft.（Budapest 2002；B2B 网络批发；>514M HUF；20–49；总经理邮箱 ugyvezeto@ 公开）坐实；进口 credfiber ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔ → P 池候选",
- "type": "",
- "size": "",
+ "type": "分销（闸 2 判定 · 20% 档）",
+ "size": "小型（20–49；>514M HUF）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "AGENDA-AGE Kft.（agendaage.hu；**cegadatok：2002-05-09 成立；1095 Budapest, Soroksári út 48. 8.ép.fsz；主业 IT / 通信产品批发；最近年营收 >514M HUF；状态 aktív；ugyvezeto@agendaage.hu（总经理邮箱）公开；ZoomInfo 20–49 人、营收 1–5M；官网自述「网络 IT 批发，仅服务法人 / 签约经销商 / 安装商」**）；表内：SFP / ",
+   "quote": "HU · 1 次检索：cegadatok.hu/agenda-age-kft（2002；514M HUF；ugyvezeto@）+ agendaage.hu 首页（B2B only；+36 1 313 1073）+ zoominfo（20–49）；2026-10-29",
+   "url": "https://cegadatok.hu/agenda-age-kft/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "匈牙利 Agenda Age（SFP / MC / 工业 FS，在用深圳 credfiber 的）：欧洲 + 已进口中国同类品牌 + 对位 ✔；15 次跟进无回复（冷）→ 闸 2 查底数",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R02",
+   "claim": "桌面复核（闸 2 证据充分，三问成立）：○ 进口商 · 分销 20%：Agenda-Age Kft.（Budapest 2002；B2B 网络批发；>514M HUF；20–49；总经理邮箱 ugyvezeto@ 公开）坐实；进口 credfiber ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔ → P 池候选",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "info@agendaage.hu",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 进口商 · 分销 20%：Agenda-Age Kft.（Budapest 2002；B2B 网络批发；>514M HUF；20–49；总经理邮箱 ugyvezeto@ 公开）坐实；进口 credfiber ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔ → P 池候选；闸 1：匈牙利 Agenda Age（SFP / MC / 工业 FS，在用深圳 credfiber 的）：欧洲 + 已进口中国同类品牌 + 对位 ✔；15 次跟进无回复（冷）→ 闸 2 查底数",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +70,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +85,61 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 进口商 · 分销 20%：Agenda-Age Kft.（Budapest 2002；B2B 网络批发；>514M HUF；20–49；总经理邮箱 ugyvezeto@ 公开）坐实；进口 credfiber ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔ → P 池候选",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "HU · 1 次检索：cegadatok.hu/agenda-age-kft（2002；514M HUF；ugyvezeto@）+ agendaage.hu 首页（B2B only；+36 1 313 1073）+ zoominfo（20–49）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://cegadatok.hu/agenda-age-kft/"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "AGENDA-AGE Kft.",
+  "reg_no": "未取（cegjegyzékszám 页内未列）",
+  "status": "aktív",
+  "incorporated": "2002-05-09",
+  "company_type": "Kft.",
+  "address": "1095 Budapest, Soroksári út 48. 8. ép. fsz.",
+  "size_band": "小型（20–49；>514M HUF）",
+  "officers": [
+   "（ugyvezeto@agendaage.hu = 总经理邮箱，名录公开 → 首发收件人）",
+   "（info@agendaage.hu 表内）"
+  ],
+  "psc": "未取",
+  "source": "HU · 1 次检索：cegadatok.hu/agenda-age-kft（2002；514M HUF；ugyvezeto@）+ agendaage.hu 首页（B2B only；+36 1 313 1073）+ zoominfo（20–49）；2026-10-29",
+  "url": "https://cegadatok.hu/agenda-age-kft/",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "IT / 通信产品批发（布达佩斯；B2B 光纤 + 铜缆方案）"
+ ],
+ "channels": {
+  "网站": "https://agendaage.hu",
+  "直邮": "info@agendaage.hu（表内）"
+ },
+ "signals": [
+  "匈牙利 Agenda Age（SFP / MC / 工业 FS，在用深圳 credfiber 的）：欧洲 + 已进口中国同类品牌 + 对位 ✔；15 次跟进无回复（冷）→ 闸 2 查底数",
+  "表内兴趣：SFP MC 工业FS；SFP MC 工业FS\n\n在用深圳这家公司的\nhttp://www.credfiber.com/En/Product.asp"
+ ],
+ "risks": [
+  "**进口商 / 分销 20%：换 ugyvezeto@ 一页纸一次（STI-154GP / STC-228GP 对标 credfiber 同类 + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**",
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

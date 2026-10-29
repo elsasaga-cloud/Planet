@@ -1,17 +1,58 @@
 {
  "code": "SC-1194",
- "name_official": "eldi.no",
+ "name_official": "ELDI AS",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（MVA 登记）",
  "summary": "C 池三闸捞出（○ 正式）：○ 分销 20%：Eldi AS（924312963；Lørenskog；2019 新司、股本 NOK 30,300；楼宇自动化批发；Daglig leder Tony = 表内 tony@eldi.no）坐实；决策人直达 ✔ 进口宇航 ✔ 欧洲 ✔ 对位 ✔ → P 池候选，体量小 → 预付",
- "type": "",
- "size": "",
+ "type": "分销（闸 2 判定 · 20% 档）",
+ "size": "微型 / 小型（2019 新司，股本 NOK 30,300）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "ELDI AS（eldi.no；**gulesider：org.nr 924312963；2019-12-24 登记；股本 NOK 30,300；NACE 46.640 机械设备批发；Daglig leder Tony Volden Uthuslien（= 表内 tony@eldi.no）；董事长 Dag Petter Evensen；derdubor：Täby vei 15, 1474 Lørenskog；「楼宇自动化材料批发（HDL 系统）」**）；表内：宇航的工业 FS",
+   "quote": "NO · 1 次检索：gulesider.no（924312963；2019；30 300；Tony Volden Uthuslien）+ derdubor.no（Täby vei 15 Lørenskog；grossist byggautomasjon）；2026-10-29",
+   "url": "https://www.gulesider.no/eldi+as+oslo/155035623/bedrift",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "挪威 Eldi（宇航的工业 FS / SFP，产品较少）：欧洲 + 已进口中国同类品牌 + 对位 ✔；15 次跟进无回复（冷）→ 闸 2 查底数",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R02",
+   "claim": "桌面复核（闸 2 证据充分，三问成立）：○ 分销 20%：Eldi AS（924312963；Lørenskog；2019 新司、股本 NOK 30,300；楼宇自动化批发；Daglig leder Tony = 表内 tony@eldi.no）坐实；决策人直达 ✔ 进口宇航 ✔ 欧洲 ✔ 对位 ✔ → P 池候选，体量小 → 预付",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "post@eldi.no",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "tony@eldi.no",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "steinar@eldi.no",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 分销 20%：Eldi AS（924312963；Lørenskog；2019 新司、股本 NOK 30,300；楼宇自动化批发；Daglig leder Tony = 表内 tony@eldi.no）坐实；决策人直达 ✔ 进口宇航 ✔ 欧洲 ✔ 对位 ✔ → P 池候选，体量小 → 预付；闸 1：挪威 Eldi（宇航的工业 FS / SFP，产品较少）：欧洲 + 已进口中国同类品牌 + 对位 ✔；15 次跟进无回复（冷）→ 闸 2 查底数",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +82,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +97,59 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 分销 20%：Eldi AS（924312963；Lørenskog；2019 新司、股本 NOK 30,300；楼宇自动化批发；Daglig leder Tony = 表内 tony@eldi.no）坐实；决策人直达 ✔ 进口宇航 ✔ 欧洲 ✔ 对位 ✔ → P 池候选，体量小 → 预付",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "NO · 1 次检索：gulesider.no（924312963；2019；30 300；Tony Volden Uthuslien）+ derdubor.no（Täby vei 15 Lørenskog；grossist byggautomasjon）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.gulesider.no/eldi+as+oslo/155035623/bedrift"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "ELDI AS",
+  "reg_no": "924312963",
+  "status": "营业中（MVA 登记）",
+  "incorporated": "2019-12-24",
+  "company_type": "AS",
+  "address": "Täby vei 15, 1474 Lørenskog",
+  "size_band": "微型 / 小型（2019 新司，股本 NOK 30,300）",
+  "officers": [
+   "Tony Volden Uthuslien — Daglig leder（tony@eldi.no 表内 = 决策人直达）"
+  ],
+  "psc": "未取",
+  "source": "NO · 1 次检索：gulesider.no（924312963；2019；30 300；Tony Volden Uthuslien）+ derdubor.no（Täby vei 15 Lørenskog；grossist byggautomasjon）；2026-10-29",
+  "url": "https://www.gulesider.no/eldi+as+oslo/155035623/bedrift",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "楼宇自动化材料批发（HDL；网络为副线）"
+ ],
+ "channels": {
+  "网站": "https://eldi.no",
+  "直邮": "post@eldi.no，tony@eldi.no，steinar@eldi.no（表内）"
+ },
+ "signals": [
+  "挪威 Eldi（宇航的工业 FS / SFP，产品较少）：欧洲 + 已进口中国同类品牌 + 对位 ✔；15 次跟进无回复（冷）→ 闸 2 查底数",
+  "表内兴趣：宇航的工业FS SFP 产品较少"
+ ],
+ "risks": [
+  "**分销 20%：点名 Tony 一页纸一次（STI-154GP / STI-280GE 工业线对标宇航 + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；新司小股本 → 预付 100%"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

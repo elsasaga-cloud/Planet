@@ -1,0 +1,50 @@
+{
+ "code": "XC-M059",
+ "name": "Jānis Jaunošāns",
+ "round": "LT-T01",
+ "researched_at": "2026-10-29",
+ "alive": "域名 netops.lv MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "summary": "Jānis Jaunošāns（拉脱维亚 · Riga）：集成商/顾问（MikroTik 认证）；MikroTik 认证，持 MTCNA MTCRE MTCWE MTCTCE MTCINE MTCIPv6E MTCSE MTCSWE",
+ "type_final": "集成商/顾问（MikroTik 认证）",
+ "size": "",
+ "brands_seen": [
+  "MikroTik"
+ ],
+ "saga_line": "STC 项目集成款（25% 档：STC-2216GP / STC-228GP）",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "集成商/顾问（MikroTik 认证）",
+   "quote": "",
+   "url": "https://netops.lv",
+   "date": "2026-10-12"
+  }
+ ],
+ "contacts": {
+  "email": "jj@netops.lv",
+  "email_status": "活（来源库 9 月核对）",
+  "kp": [
+   {
+    "name": "Jānis Jaunošāns",
+    "role": "MikroTik 认证培训师/顾问(档谱:CSV 公司名字段即本人)",
+    "source": "official-self-published·谱/leads-only(直发需 opt-in)"
+   }
+  ]
+ },
+ "touch_status": "S 箱 2026-10-04 去信 1 / 来信 0（24 Port PoE Managed Switch）",
+ "saga_overlap": "Saga SC-1215（router.lv）随主档",
+ "grade_final": "B",
+ "grade_reason_final": "Q-76 LT-01 2026-10-29：与 Saga SC-1215 同一公司 → 随主档等级 B（复核随主档，不单列）",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "官网快照 + 加厚后进群发分组（Q-77）"
+ },
+ "draft_en": null,
+ "deep": false,
+ "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+}

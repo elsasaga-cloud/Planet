@@ -1,17 +1,58 @@
 {
  "code": "SC-2834",
- "name_official": "Dipol",
+ "name_official": "DIPOL Gołaszewski, Waśniowski Spółka Jawna",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（KRS 2026 更新）",
  "summary": "C 池三闸捞出（★ 正式）：★ 自有品牌 · OEM 30%：DIPOL Sp. j.（Kraków 1990；KRS 0000094703；自有品牌 Signal / Ultimax / Ultipower；全国分部）坐实；OEM ✔ 波兰 ✔ 体量 ✔ 对位 ✔ → P 池候选；Simon 曾判不行，可否决",
- "type": "",
- "size": "",
+ "type": "OEM（闸 2 判定 · 30% 档）",
+ "size": "中型（全国分部）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "DIPOL Gołaszewski, Waśniowski Spółka Jawna（dipol.com.pl；**aleo / baza-firm：ul. Ciepłownicza 40, 31-574 Kraków；NIP 6780101049；REGON 350509592；KRS 0000094703；1990 年创立；欧洲 CCTV / WLAN / TV-SAT 分销 + 天线制造，1200+ 品项，自有品牌 Signal / Ultimax / Ultipowe",
+   "quote": "PL · 1 次检索：aleo.com（KRS 0000094703；NIP 6780101049；Ciepłownicza 40）+ baza-firm（1990；品牌 / 品类）；2026-10-29",
+   "url": "https://aleo.com/int/company/dipol-golaszewski,-gwizdala,-wasniowski-spolka-jawna",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "波兰 Dipol（大型安防 / 光纤 / 网络分销，自有品牌 Ultipower 等；IFSEC 参展；VC / MC / SFP / 工业 FS）：波兰次主区 + 分销 + 自有品牌 ✔ → 闸 2 查底数；Simon 曾判不行 → 可按编号否决",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R02",
+   "claim": "桌面复核（闸 2 证据充分，三问成立）：★ 自有品牌 · OEM 30%：DIPOL Sp. j.（Kraków 1990；KRS 0000094703；自有品牌 Signal / Ultimax / Ultipower；全国分部）坐实；OEM ✔ 波兰 ✔ 体量 ✔ 对位 ✔ → P 池候选；Simon 曾判不行，可否决",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "sandomierz@dipol.com.pl",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "warszawa@dipol.com.pl",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "m.czerwieci@dipol.com.pl",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 自有品牌 · OEM 30%：DIPOL Sp. j.（Kraków 1990；KRS 0000094703；自有品牌 Signal / Ultimax / Ultipower；全国分部）坐实；OEM ✔ 波兰 ✔ 体量 ✔ 对位 ✔ → P 池候选；Simon 曾判不行，可否决；闸 1：波兰 Dipol（大型安防 / 光纤 / 网络分销，自有品牌 Ultipower 等；IFSEC 参展；VC / MC / SFP / 工业 FS）：波兰次主区 + 分销 + 自有品牌 ✔ → 闸 2 查底数；Simon 曾判不行 → 可…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +82,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +97,60 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 自有品牌 · OEM 30%：DIPOL Sp. j.（Kraków 1990；KRS 0000094703；自有品牌 Signal / Ultimax / Ultipower；全国分部）坐实；OEM ✔ 波兰 ✔ 体量 ✔ 对位 ✔ → P 池候选；Simon 曾判不行，可否决",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "PL · 1 次检索：aleo.com（KRS 0000094703；NIP 6780101049；Ciepłownicza 40）+ baza-firm（1990；品牌 / 品类）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://aleo.com/int/company/dipol-golaszewski,-gwizdala,-wasniowski-spolka-jawna"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "DIPOL Gołaszewski, Waśniowski Spółka Jawna",
+  "reg_no": "KRS 0000094703 / NIP 6780101049",
+  "status": "营业中（KRS 2026 更新）",
+  "incorporated": "1990",
+  "company_type": "Spółka jawna（合伙）",
+  "address": "ul. Ciepłownicza 40, 31-574 Kraków",
+  "size_band": "中型（全国分部）",
+  "officers": [
+   "Gołaszewski / Waśniowski — 合伙人（KRS）",
+   "（sandomierz@ / warszawa@dipol.com.pl 表内分部邮箱；总部采购 KP 待 LinkedIn）"
+  ],
+  "psc": "未取",
+  "source": "PL · 1 次检索：aleo.com（KRS 0000094703；NIP 6780101049；Ciepłownicza 40）+ baza-firm（1990；品牌 / 品类）；2026-10-29",
+  "url": "https://aleo.com/int/company/dipol-golaszewski,-gwizdala,-wasniowski-spolka-jawna",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "安防 / 网络 / 卫星电视分销 + 自有品牌（克拉科夫；全国分部）"
+ ],
+ "channels": {
+  "网站": "https://dipol.com.pl",
+  "直邮": "sandomierz@dipol.com.pl，warszawa@dipol.com.pl，m.czerwieci@dipol.com.pl（表内）"
+ },
+ "signals": [
+  "波兰 Dipol（大型安防 / 光纤 / 网络分销，自有品牌 Ultipower 等；IFSEC 参展；VC / MC / SFP / 工业 FS）：波兰次主区 + 分销 + 自有品牌 ✔ → 闸 2 查底数；Simon 曾判不行 → 可按编号否决",
+  "表内兴趣：VC MC  SFP 工业FS\nIFSEC 2010展会上有；CCTV/IP\nFTTH solution, VoIP&IPTV signals；MC, VC, splicing machine"
+ ],
+ "risks": [
+  "**自有品牌 Ultipower（PoE / 交换机）→ OEM 30%：找总部产品经理后一页纸一次（STC-028GP / STC-228GP / STC-2224GP 对标 Ultipower 口型 + 丝印彩盒 MOQ + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地*"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

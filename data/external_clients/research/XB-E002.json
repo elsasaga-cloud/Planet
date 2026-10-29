@@ -1,0 +1,56 @@
+{
+ "code": "XB-E002",
+ "name": "Mart Networks（Kenya/Tanzania/Uganda/Rwanda 四国体系）",
+ "round": "LT-T01",
+ "researched_at": "2026-10-29",
+ "alive": "域名 sales.kenya 不存在（NXDOMAIN；DNS 2026-10-29）→ 路径待核 / 可能换域",
+ "summary": "Mart Networks（Kenya/Tanzania/Uganda/Rwanda 四国体系）（肯尼亚（东非））：区域网络产品分销/SI（东非多国）",
+ "type_final": "区域网络产品分销/SI（东非多国）",
+ "size": "",
+ "brands_seen": [],
+ "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "区域网络产品分销/SI（东非多国）",
+   "quote": "",
+   "url": "https://sales.kenya",
+   "date": "2026-10-27"
+  },
+  {
+   "kind": "来源库证据链接",
+   "claim": "来源库调研时引用",
+   "quote": "",
+   "url": "https://www.edge-core.com/where-to-buy/emea-reseller/",
+   "date": "2026-10-27"
+  },
+  {
+   "kind": "长期群复核 LT-R07",
+   "claim": "桌面复核（来源库核对 + 研究卡）：区域网络产品分销/SI（东非多国）；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "contacts": {
+  "email": "sales.kenya@mart-networks.com",
+  "email_status": "活（来源库 9 月核对）",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-19 去信 1 / 来信 0（24 Port PoE Managed Switch）",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "桌面复核（来源库核对 + 研究卡）：区域网络产品分销/SI（东非多国）；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "官网快照 + 加厚后进群发分组（Q-77）"
+ },
+ "draft_en": null,
+ "deep": false,
+ "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+}

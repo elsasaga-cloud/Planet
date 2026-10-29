@@ -1,17 +1,48 @@
 {
  "code": "SC-276",
- "name_official": "assmann.pl",
+ "name_official": "ASSMANN Distribution Sp. z o.o.",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（官网）",
  "summary": "C 池三闸捞出（★ 正式）：★ 品牌商 · OEM 30%：ASSMANN Distribution Sp. z o.o.（Warszawa；NIP 8951883569；ASSMANN Group / DIGITUS 波兰分销公司）坐实；OEM ✔ 波兰 ✔ 对位 ✔ 体量 ✔ → P 池候选（同步找德国总部产品管理）",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "OEM（闸 2 判定 · 30% 档）",
+ "size": "中型（集团约 500；波兰公司小型）",
+ "brands_seen": [
+  "Digitus"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "ASSMANN Distribution Sp. z o.o.（assmann.pl；**官网 Contact：Gilarska 10/1 lok.1, 03-589 Warszawa；+48 22 586 11 60；office@assmann.pl；NIP PL8951883569；REGON 020543570；ASSMANN Group（DIGITUS 品牌，德国 Lüdenscheid 总部）波兰分销公司；旧法人 ASSMANN Electronic Sp. z ",
+   "quote": "PL · 1 次检索：assmann.pl/en/company/contact（法人 / NIP / REGON / 地址）+ bizraport / krs-pobierz（旧法人 KRS 0000203233 已注销）；2026-10-29",
+   "url": "https://www.assmann.pl/en/company/contact/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "波兰 Assmann（ASSMANN / DIGITUS 品牌集团波兰公司；表内「很大的一个公司，由国内较多合作商」）：波兰次主区 + 自有品牌 DIGITUS（贴牌中国）→ 闸 2 查底数（宜同时核德国总部口径）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R02",
+   "claim": "桌面复核（闸 2 证据充分，三问成立）：★ 品牌商 · OEM 30%：ASSMANN Distribution Sp. z o.o.（Warszawa；NIP 8951883569；ASSMANN Group / DIGITUS 波兰分销公司）坐实；OEM ✔ 波兰 ✔ 对位 ✔ 体量 ✔ → P 池候选（同步找德国总部产品管理）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "office@assmann.pl",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 品牌商 · OEM 30%：ASSMANN Distribution Sp. z o.o.（Warszawa；NIP 8951883569；ASSMANN Group / DIGITUS 波兰分销公司）坐实；OEM ✔ 波兰 ✔ 对位 ✔ 体量 ✔ → P 池候选（同步找德国总部产品管理）；闸 1：波兰 Assmann（ASSMANN / DIGITUS 品牌集团波兰公司；表内「很大的一个公司，由国内较多合作商」）：波兰次主区 + 自有品牌 DIGITUS（贴牌中国）→ 闸 2 查底数（宜同时核德国总部口径）",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +72,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +87,60 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 品牌商 · OEM 30%：ASSMANN Distribution Sp. z o.o.（Warszawa；NIP 8951883569；ASSMANN Group / DIGITUS 波兰分销公司）坐实；OEM ✔ 波兰 ✔ 对位 ✔ 体量 ✔ → P 池候选（同步找德国总部产品管理）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "PL · 1 次检索：assmann.pl/en/company/contact（法人 / NIP / REGON / 地址）+ bizraport / krs-pobierz（旧法人 KRS 0000203233 已注销）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.assmann.pl/en/company/contact/"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "ASSMANN Distribution Sp. z o.o.",
+  "reg_no": "NIP 8951883569 / REGON 020543570（KRS 号未取）",
+  "status": "营业中（官网）",
+  "incorporated": "未取（旧法人 2004）",
+  "company_type": "Sp. z o.o.（ASSMANN Group 子公司）",
+  "address": "Gilarska 10/1 lok.1, 03-589 Warszawa",
+  "size_band": "中型（集团约 500；波兰公司小型）",
+  "officers": [
+   "（office@assmann.pl 表内 = 官网公开总邮箱；DIGITUS 产品经理在德国总部 → LinkedIn 挖）"
+  ],
+  "psc": "未取",
+  "source": "PL · 1 次检索：assmann.pl/en/company/contact（法人 / NIP / REGON / 地址）+ bizraport / krs-pobierz（旧法人 KRS 0000203233 已注销）；2026-10-29",
+  "url": "https://www.assmann.pl/en/company/contact/",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "网络 / 布线产品品牌分销（DIGITUS；波兰）"
+ ],
+ "channels": {
+  "网站": "https://assmann.pl",
+  "直邮": "office@assmann.pl（表内）"
+ },
+ "signals": [
+  "波兰 Assmann（ASSMANN / DIGITUS 品牌集团波兰公司；表内「很大的一个公司，由国内较多合作商」）：波兰次主区 + 自有品牌 DIGITUS（贴牌中国）→ 闸 2 查底数（宜同时核德国总部口径）",
+  "表内兴趣：很大的一个公司 由国内较多合作商"
+ ],
+ "risks": [
+  "**DIGITUS 自有品牌（贴牌中国）→ OEM 30%：波兰公司一页纸探路 + 同步找 Lüdenscheid 总部 Product Management（STC-028GP / STC-228GP / STI-154GP 对标 DIGITUS 口型 + 丝印彩盒 MOQ + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（",
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

@@ -1,0 +1,83 @@
+{
+ "code": "XC-M086",
+ "name": "AIONA Automation GmbH",
+ "round": "LT-T01",
+ "researched_at": "2026-10-29",
+ "alive": "域名 bestofautomation.at MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "summary": "AIONA Automation GmbH（奥地利）：分销（HMS：Red Lion / N-Tron）；Red Lion, N-Tron",
+ "type_final": "分销（HMS：Red Lion / N-Tron）",
+ "size": "",
+ "brands_seen": [
+  "Red Lion"
+ ],
+ "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "分销（HMS：Red Lion / N-Tron）",
+   "quote": "",
+   "url": "https://bestofautomation.at",
+   "date": "2026-09"
+  },
+  {
+   "kind": "来源库证据链接",
+   "claim": "来源库调研时引用",
+   "quote": "",
+   "url": "https://www.bestofautomation.at/pages/team",
+   "date": "2026-09"
+  },
+  {
+   "kind": "来源库证据链接",
+   "claim": "来源库调研时引用",
+   "quote": "",
+   "url": "https://www.bestofautomation.at/",
+   "date": "2026-09"
+  },
+  {
+   "kind": "来源库证据链接",
+   "claim": "来源库调研时引用",
+   "quote": "",
+   "url": "https://www.hms-networks.com/contact/find-distributor?indexCatalogue=partner-company&searchQuery=AIONA%20Automation&wordsMode=AllWords",
+   "date": "2026-09"
+  },
+  {
+   "kind": "长期群复核 LT-R05",
+   "claim": "桌面复核（渠道名录 + 研究卡）：分销（HMS：Red Lion / N-Tron）；信号：Red Lion, N-Tron；在卖工业/商用交换机 = 行业内 ✔ 对位 ✔ 分销进口 ✔ → 留 B",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "contacts": {
+  "email": "gz@aiona.at",
+  "email_status": "活（来源库 9 月核对）",
+  "kp": [
+   {
+    "name": "Alexander Zöchling",
+    "role": "AIONA 官方团队页列 Product Manager Automation；未证明负责工业交换机采购。",
+    "source": "official-company-team·岗位公开；邮件展示/链接错配，采购职责未知，leads-only"
+   },
+   {
+    "name": "Gregor Zink",
+    "role": "AIONA 官方团队页列 Verkauf & Technik Automation（自动化销售与技术）。",
+    "source": "official-company-team·公司公布的销售/技术入口；采购权限与交换机品类职责未知，leads-only"
+   }
+  ]
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "桌面复核（渠道名录 + 研究卡）：分销（HMS：Red Lion / N-Tron）；信号：Red Lion, N-Tron；在卖工业/商用交换机 = 行业内 ✔ 对位 ✔ 分销进口 ✔ → 留 B",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "官网快照 + 加厚后进群发分组（Q-77）"
+ },
+ "draft_en": null,
+ "deep": false,
+ "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+}

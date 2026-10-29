@@ -1,17 +1,50 @@
 {
  "code": "SC-855",
- "name_official": "mastdigital.co.uk",
+ "name_official": "Mast Digital (UK) Ltd",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（官网 2026）",
  "summary": "C 池三闸捞出（★ 正式）：★ 中型安防分销 20%：Mast Digital (UK) Ltd（Epworth DN9 1JZ；Ltd 2014；20+ 人；Dahua Tier 1 + Wi-Tek / Ajax / TP-Link 授权；MD Stuart Smedley）部分坐实（CH 号未取）；进口 Wi-Tek ✔ 四主区 ✔ 对位 ✔ MD 具名 ✔ → P 池候选",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "中型安防分销（闸 2 判定 · 20% 档）",
+ "size": "小型 / 中型（20+）",
+ "brands_seen": [
+  "Dahua",
+  "TP-Link",
+  "Wi-Tek"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Mast Digital (UK) Ltd（mastdigital.co.uk；**官网 About + LinkedIn：Unit A Station Road Industrial Estate, Epworth, Doncaster DN9 1JZ；01427 874455；2014 年成为 Ltd；2016 迁现址；2021-01 起 Dahua Tier 1 英国分销商；20+ 人；Wi-Tek / Ajax / TP-Link / Netvio / Videx /",
+   "quote": "GB · 1 次检索：mastdigital.co.uk/support/about-us（沿革 / 规模）+ linkedin（授权品牌 / MD）+ 官网页脚（地址）；CH 号未取；2026-10-29",
+   "url": "https://www.mastdigital.co.uk/support/about-us",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "英国 Mast Digital（mastdigital.co.uk；Dahua + Wi-Tek）：四主区 + 已进口中国同类品牌 + 对位 ✔；未触达 → 闸 2 查底数",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R02",
+   "claim": "桌面复核（闸 2 证据充分，三问成立）：★ 中型安防分销 20%：Mast Digital (UK) Ltd（Epworth DN9 1JZ；Ltd 2014；20+ 人；Dahua Tier 1 + Wi-Tek / Ajax / TP-Link 授权；MD Stuart Smedley）部分坐实（CH 号未取）；进口 Wi-Tek ✔ 四主区 ✔ 对位 ✔ MD 具名 ✔ → P 池候选",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "enquiries@mastdigital.co.uk",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 中型安防分销 20%：Mast Digital (UK) Ltd（Epworth DN9 1JZ；Ltd 2014；20+ 人；Dahua Tier 1 + Wi-Tek / Ajax / TP-Link 授权；MD Stuart Smedley）部分坐实（CH 号未取）；进口 Wi-Tek ✔ 四主区 ✔ 对位 ✔ MD 具名 ✔ → P 池候选；闸 1：英国 Mast Digital（mastdigital.co.uk；Dahua + Wi-Tek）：四主区 + 已进口中国同类品牌 + 对位 ✔；未触达 → 闸 2 查底数",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +74,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（中型安防分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +89,62 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 中型安防分销 20%：Mast Digital (UK) Ltd（Epworth DN9 1JZ；Ltd 2014；20+ 人；Dahua Tier 1 + Wi-Tek / Ajax / TP-Link 授权；MD Stuart Smedley）部分坐实（CH 号未取）；进口 Wi-Tek ✔ 四主区 ✔ 对位 ✔ MD 具名 ✔ → P 池候选",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "GB · 1 次检索：mastdigital.co.uk/support/about-us（沿革 / 规模）+ linkedin（授权品牌 / MD）+ 官网页脚（地址）；CH 号未取；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.mastdigital.co.uk/support/about-us"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Mast Digital (UK) Ltd",
+  "reg_no": "未取（Companies House 号未查；法人名坐实）",
+  "status": "营业中（官网 2026）",
+  "incorporated": "2014（Ltd）",
+  "company_type": "Ltd",
+  "address": "Unit A Station Road Industrial Estate, Epworth, Doncaster DN9 1JZ",
+  "size_band": "小型 / 中型（20+）",
+  "officers": [
+   "Stuart Smedley — Managing Director",
+   "Mick Smedley — Director",
+   "（enquiries@mastdigital.co.uk 表内）"
+  ],
+  "psc": "未取",
+  "source": "GB · 1 次检索：mastdigital.co.uk/support/about-us（沿革 / 规模）+ linkedin（授权品牌 / MD）+ 官网页脚（地址）；CH 号未取；2026-10-29",
+  "url": "https://www.mastdigital.co.uk/support/about-us",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "CCTV / 网络 / AV trade-only 分销（南约克郡）"
+ ],
+ "channels": {
+  "网站": "https://mastdigital.co.uk",
+  "直邮": "enquiries@mastdigital.co.uk（表内）"
+ },
+ "signals": [
+  "英国 Mast Digital（mastdigital.co.uk；Dahua + Wi-Tek）：四主区 + 已进口中国同类品牌 + 对位 ✔；未触达 → 闸 2 查底数",
+  "表内兴趣：Dahua Witek"
+ ],
+ "risks": [
+  "**Wi-Tek 现供 Dahua 分销 → 分销 20%：点名 Stuart 一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-2224GP 对标 Wi-Tek + STI-154GP + MOQ 1 + 付费样机；Wi-Tek 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FO",
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（中型安防分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

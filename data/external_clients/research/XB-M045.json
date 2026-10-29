@@ -1,0 +1,76 @@
+{
+ "code": "XB-M045",
+ "name": "Voicenter LTD",
+ "round": "LT-T01",
+ "researched_at": "2026-10-29",
+ "alive": "域名 voicenter.co.il MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "summary": "Voicenter LTD（以色列）：分销（MikroTik 官方）；MikroTik（Master）",
+ "type_final": "分销（MikroTik 官方）",
+ "size": "",
+ "brands_seen": [
+  "MikroTik"
+ ],
+ "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "分销（MikroTik 官方）",
+   "quote": "",
+   "url": "https://voicenter.co.il",
+   "date": "2026-10-12"
+  },
+  {
+   "kind": "来源库证据链接",
+   "claim": "来源库调研时引用",
+   "quote": "",
+   "url": "https://voicenter.co.il/%D7%91%D7%9C%D7%95%D7%92/mcp",
+   "date": "2026-10-12"
+  },
+  {
+   "kind": "来源库证据链接",
+   "claim": "来源库调研时引用",
+   "quote": "",
+   "url": "https://www.ceopro.co.il/%D7%92%D7%95%D9%84%D7%9F-%D7%90%D7%A9%D7%98%D7%9F-%D7%9E%D7%A0%D7%9B%D7%9C-voicenter/",
+   "date": "2026-10-12"
+  },
+  {
+   "kind": "长期群复核 LT-R07",
+   "claim": "桌面复核（来源库核对 + 研究卡）：分销（MikroTik 官方）；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "contacts": {
+  "email": "info@voicenter.co",
+  "email_status": "活（来源库 9 月核对）",
+  "kp": [
+   {
+    "name": "Nitsan Gutman",
+    "role": "Founder & CEO",
+    "source": "官网博客自曝"
+   },
+   {
+    "name": "Golan Ashtan",
+    "role": "CEO(2023 早前口径)",
+    "source": "ceopro.co.il 专访自曝"
+   }
+  ]
+ },
+ "touch_status": "S 箱 2026-10-08 去信 1 / 来信 0（24 Port PoE Managed Switch）",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "桌面复核（来源库核对 + 研究卡）：分销（MikroTik 官方）；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "官网快照 + 加厚后进群发分组（Q-77）"
+ },
+ "draft_en": null,
+ "deep": false,
+ "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+}

@@ -1,17 +1,49 @@
 {
  "code": "SC-1215",
- "name_official": "router.lv",
+ "name_official": "SPX SIA",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（官网 / 网店在线）",
  "summary": "C 池三闸捞出（○ 正式）：○ 分销 20%：SPX SIA（40003637852；Riga；MikroTik 官方分销 + 维尔纽斯仓）坐实；对位渠道 ✔ 进口 Utepo ✔ 欧洲 ✔ 坐实 ✔ → P 池候选",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "分销（闸 2 判定 · 20% 档）",
+ "size": "小型（推定）",
+ "brands_seen": [
+  "Utepo",
+  "MikroTik"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "SPX SIA（router.lv；**官网 About us：MikroTik 官方分销（里加 + 维尔纽斯仓）；Reg. No. 40003637852 / VAT LV40003637852；15 Krustpils street, Riga LV-1073；+371 67724000；sales@router.lv**）；表内：switch 等，有少量 Utepo；15 次跟进无回复",
+   "quote": "LV · 1 次检索：router.lv/eng/15/（SPX SIA；40003637852；Krustpils 15；MikroTik Distributor）+ facebook（官方 MikroTik 分销）；2026-10-29",
+   "url": "https://www.router.lv/eng/15/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "拉脱维亚 router.lv（switch 等，有少量 Utepo）：欧洲 + 已进口中国同类品牌 + 对位 ✔；15 次跟进无回复（冷，小国）→ 闸 2 查底数，低优先",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R02",
+   "claim": "桌面复核（闸 2 证据充分，三问成立）：○ 分销 20%：SPX SIA（40003637852；Riga；MikroTik 官方分销 + 维尔纽斯仓）坐实；对位渠道 ✔ 进口 Utepo ✔ 欧洲 ✔ 坐实 ✔ → P 池候选",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "router@router.lv",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 分销 20%：SPX SIA（40003637852；Riga；MikroTik 官方分销 + 维尔纽斯仓）坐实；对位渠道 ✔ 进口 Utepo ✔ 欧洲 ✔ 坐实 ✔ → P 池候选；闸 1：拉脱维亚 router.lv（switch 等，有少量 Utepo）：欧洲 + 已进口中国同类品牌 + 对位 ✔；15 次跟进无回复（冷，小国）→ 闸 2 查底数，低优先",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +73,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +88,59 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 分销 20%：SPX SIA（40003637852；Riga；MikroTik 官方分销 + 维尔纽斯仓）坐实；对位渠道 ✔ 进口 Utepo ✔ 欧洲 ✔ 坐实 ✔ → P 池候选",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "LV · 1 次检索：router.lv/eng/15/（SPX SIA；40003637852；Krustpils 15；MikroTik Distributor）+ facebook（官方 MikroTik 分销）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.router.lv/eng/15/"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "SPX SIA",
+  "reg_no": "40003637852",
+  "status": "营业中（官网 / 网店在线）",
+  "incorporated": "未取",
+  "company_type": "SIA",
+  "address": "15 Krustpils street, Riga LV-1073",
+  "size_band": "小型（推定）",
+  "officers": [
+   "（sales@router.lv 官网公开 / router@router.lv 表内；具名 KP 未取）"
+  ],
+  "psc": "未取",
+  "source": "LV · 1 次检索：router.lv/eng/15/（SPX SIA；40003637852；Krustpils 15；MikroTik Distributor）+ facebook（官方 MikroTik 分销）；2026-10-29",
+  "url": "https://www.router.lv/eng/15/",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "MikroTik 官方分销 + 网络设备网店（拉脱维亚 / 立陶宛）"
+ ],
+ "channels": {
+  "网站": "https://router.lv",
+  "直邮": "router@router.lv（表内）"
+ },
+ "signals": [
+  "拉脱维亚 router.lv（switch 等，有少量 Utepo）：欧洲 + 已进口中国同类品牌 + 对位 ✔；15 次跟进无回复（冷，小国）→ 闸 2 查底数，低优先",
+  "表内兴趣：switch等 有少量utepo的"
+ ],
+ "risks": [
+  "**MikroTik 分销 → 分销 20%：一页纸一次（MikroTik 无 PoE 工业款补位：STI-154GP / STC-228GP + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

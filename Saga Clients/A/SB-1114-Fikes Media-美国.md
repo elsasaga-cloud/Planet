@@ -4,7 +4,7 @@
 >
 > **P 池并入（A 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心候选，B 档并池 · 等级不动）：成单 / 样品 / PI ✔（J5 看证据不看地区）；对位 ✔ 交换机；命中 3/6（成单/样品 ✔ · 真回 — · WA — · 对位 ✔ 交换机 · 登记 未坐实 · 体量 微型（1 人；老板另有全职 ）　|　标签：core（核心：成单 / 样品 / PI 或 A 档）、oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
-> **类型**：媒体/IT 集成小公司（业主直营）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：补录、S邮箱回复、OEM意向、待回复　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：IT 集成 / 网络顾问（一人公司；客群 = 地方政府 / K-12 与高校 / SMB；方案 = 企业网络、数据中心网络、VoIP、MikroTik 咨询）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：补录、S邮箱回复、OEM意向、待回复　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-1114
@@ -17,7 +17,7 @@ score: 58
 country: 美国
 region: 北美
 website: fikesmedia.com
-type: 媒体/IT 集成小公司（业主直营）
+type: IT 集成 / 网络顾问（一人公司；客群 = 地方政府 / K-12 与高校 / SMB；方案 = 企业网络、数据中心网络、VoIP、MikroTik 咨询）
 tier_tags: ["补录", "S邮箱回复", "OEM意向", "待回复"]
 deal: no
 replies: 0
@@ -105,7 +105,7 @@ updated: 2026-10-29
 | 名称 | Fikes Media | 事实（用户表） |
 | 国家 | 美国 | 事实（用户表）|
 | 网站/域名 | fikesmedia.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 媒体/IT 集成小公司（业主直营） | 推断（据兴趣/备注关键词） |
+| 类型 | IT 集成 / 网络顾问（一人公司；客群 = 地方政府 / K-12 与高校 / SMB；方案 = 企业网络、数据中心网络、VoIP、MikroTik 咨询） | 推断（据兴趣/备注关键词） |
 | 联系人 | Christopher Fikes | 事实（用户表） |
 | 来源（From） | 补录：S 邮箱 2026-10 群发（Apollo 名单）回复客户（T29-U10 复盘发现） | 事实（用户表） |
 | 兴趣（Interested in） | 24 口 PoE L2+（STC-424XGGPM-280W）的 OEM 定制 + 控制器 API 集成（REST/SNMP/CLI 待明确） | 事实（用户表） |
@@ -116,9 +116,9 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-22）**　网站状态：未核（本轮只用 S 邮箱证据）
+- **状态：已调研（2026-10-22）**　网站状态：在线（Google Sites www.fikesmedia.com；2026-10-29 实查）
 - **是谁**：美国小公司（Owner Christopher Fikes，电话区号 409 = 德州 Beaumont 一带），2026-10-03 回复群发表示有兴趣，关心 OEM 定制层级与控制器 API 集成；Simon 10-04 发完整 OEM 清单 + MIB + 规格书 + CLI/Web 手册并反问控制器架构，10-19 追问样品，客户未回。S 邮箱 4 封。
-- **类型**：媒体/IT 集成小公司（业主直营）
+- **类型**：IT 集成 / 网络顾问（一人公司；客群 = 地方政府 / K-12 与高校 / SMB；方案 = 企业网络、数据中心网络、VoIP、MikroTik 咨询）
 - **规模**：小（Owner 直接回信）
 - **【email】有兴趣 + 问 OEM 层级 + 要 API/控制器集成**
   > This actually does have my interest. What levels of customization are offered? I would be interested if there was api availability for controller integration. If you have some specification sheets and models available I would love to see them.
@@ -129,10 +129,27 @@ updated: 2026-10-29
 - **【email】Simon 追问样品，未回**
   > Any feedback about our product information? Maybe arrange 2 samples for testing?
   > 来源：data/gmail_s/messages/2026/2026-10.jsonl（抓取 2026-10-19）
+- **【LT-T02 官网实查】客群三块：地方政府（图书馆 / 市政厅 / 警局）、K-12 与高校、SMB；方案四块：Enterprise Networking / Datacenter Networking（ToR、VXLAN）/ Open Voice（VoIP）/ Network Consulting（MikroTik consulting 页）**
+  > It's about function, not vendors. … Datacenter Networking: High speed throughput, top of rack connectivity, VXLAN, or a custom solution. … Network Consulting … /mikrotik-consulting
+  > 来源：https://www.fikesmedia.com/（抓取 2026-10-29）
 - **KP**：Christopher Fikes（Owner（2007–；同时任 Evadale ISD 信息技术主任 2018– + 兼职教授）= 一人副业老板（第 94 批 官方登记核实 2026-10-28））cfikes@fikesmedia.com 409.877.4220〔S 邮箱签名〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来
-- 备注：API/控制器集成是关键未知：Saga 线（SmartByte Marvell AC5）有 SNMP/CLI/Web，无云控制器 REST API——下一封应直说 SNMP + CLI 自动化可做、REST/云控不做，别吊着。
+- 备注：LT-T02 官网实查（2026-10-29）：见 evidence「LT-T02 官网实查」。
+API/控制器集成是关键未知：Saga 线（SmartByte Marvell AC5）有 SNMP/CLI/Web，无云控制器 REST API——下一封应直说 SNMP + CLI 自动化可做、REST/云控不做，别吊着。
 
+### 加厚挖掘（2026-10-29 · 邮件证据 + 官网实查 v1（LT-T02））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | FikesMedia LLC（德州；TX 登记号未取；镜像显示旧登记 inactive） |
+| 成立 | 2007（第 94 批 官方登记核实 2026-10-28） |
+| 总部/地址 | 105 George St, Silsbee, TX 77656 |
+| 人数 | 1 人（副业） |
+| 其他 | 第 94 批：MikroTik 转售副业、老板全职在学区 → 分销 20% 一页纸，不投第 2 封；若回信问的是学区项目（第 94 批 官方登记核实 2026-10-28） |
+
+- **近况信号**：
+  - 「function, not vendors」+ 自建数据中心网络页（ToR / VXLAN）→ 对白牌 Marvell 管理型 + 10G 上联接受度高；MikroTik 顾问身份 = 懂 CLI / SNMP，回信时直说 SNMP + CLI 自动化可做、REST 云控不做（见 notes）
+- **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——明确问 OEM 定制 → OEM/ODM 30% 档；若只是自用/项目则 25%
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -191,7 +208,7 @@ updated: 2026-10-29
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424XGGPM-280W | 深挖对位：明确问 OEM 定制 → OEM/ODM 30% 档；若只是自用/项目则 25% | $180 USD EXW（㉕ ② 群发现价（群发价台账），30% 档公式为 $196.3——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（媒体/IT 集成小公司（业主直营）） |
+| **P1** | STC-424XGGPM-280W | 深挖对位：明确问 OEM 定制 → OEM/ODM 30% 档；若只是自用/项目则 25% | $180 USD EXW（㉕ ② 群发现价（群发价台账），30% 档公式为 $196.3——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（IT 集成 / 网络顾问（一人公司；客群 = 地方政府 / K-12 与高校 / SMB；方案 = 企业网络、数据中心网络、VoIP、MikroTik 咨询）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：30% 档 $151.6 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 

@@ -1,0 +1,81 @@
+{
+ "code": "XC-M099",
+ "name": "OAK INTEGRATOR",
+ "round": "LT-T01",
+ "researched_at": "2026-10-29",
+ "alive": "域名 oak-integrator.lv MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "summary": "OAK INTEGRATOR（拉脱维亚）：分销（Westermo Reseller）；Westermo",
+ "type_final": "分销（Westermo Reseller）",
+ "size": "",
+ "brands_seen": [
+  "Westermo"
+ ],
+ "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "分销（Westermo Reseller）",
+   "quote": "",
+   "url": "https://oak-integrator.lv",
+   "date": "2026-09"
+  },
+  {
+   "kind": "来源库证据链接",
+   "claim": "来源库调研时引用",
+   "quote": "",
+   "url": "https://oak-integrator.lv/about-us/contact-page/",
+   "date": "2026-09"
+  },
+  {
+   "kind": "来源库证据链接",
+   "claim": "来源库调研时引用",
+   "quote": "",
+   "url": "https://www.westermo.com/contact/where-to-buy",
+   "date": "2026-09"
+  },
+  {
+   "kind": "来源库证据链接",
+   "claim": "来源库调研时引用",
+   "quote": "",
+   "url": "https://oak-integrator.lv/catalog/",
+   "date": "2026-09"
+  }
+ ],
+ "contacts": {
+  "email": "olga.vorobjova@oak-integrator.lv",
+  "email_status": "活（来源库 9 月核对）",
+  "kp": [
+   {
+    "name": "Olga Vorobjova",
+    "role": "官网列为 direktore（董事）",
+    "source": "公司官网公开角色/联系方式；交换机采购权未核实；只作研究线索，不触达"
+   },
+   {
+    "name": "Kaspars Āboliņš",
+    "role": "官网列为技术支持工程师",
+    "source": "公司官网公开技术岗位；不是已确认采购人；只作研究线索，不触达"
+   },
+   {
+    "name": "Aleksandrs Kononovs",
+    "role": "官网列为销售经理",
+    "source": "公司官网公开销售岗位；采购/品牌准入权限未核实；只作研究线索，不触达"
+   }
+  ]
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "Saga SC-1713（oak-integrator.lv）随主档",
+ "grade_final": "B",
+ "grade_reason_final": "Q-76 LT-01 2026-10-29：与 Saga SC-1713 同一公司 → 随主档等级 B（复核随主档，不单列）",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "官网快照 + 加厚后进群发分组（Q-77）"
+ },
+ "draft_en": null,
+ "deep": false,
+ "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+}

@@ -1,17 +1,58 @@
 {
  "code": "SC-1629",
- "name_official": "sominetworks.com",
+ "name_official": "UAB SOMI NETWORKS",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "Active",
  "summary": "C 池三闸捞出（○ 正式）：○ 进口商 · 分销 20%：UAB SOMI NETWORKS（300528292；Vilnius 2006；8 人；+ SIA 拉脱维亚；中性产品来自不同国内供应商）坐实；进口经验 ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔ → P 池候选；并线核对 SC-2767 SOMI RT",
- "type": "",
- "size": "",
+ "type": "分销（闸 2 判定 · 20% 档）",
+ "size": "小型（8）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "UAB SOMI NETWORKS（sominetworks.com；**官网 Contacts + spec.lt / okredo：Company Code 300528292；VAT LT100002144113；Ukmergės g. 283A, LT-06313 Vilnius（仓 Raciu str. 6A）；2006-01-19 成立；8 名员工（2024-12）；Sodra 欠费 0；拉脱维亚子公司 SIA SOMI NETWORKS 40003830305*",
+   "quote": "LT · 1 次检索：sominetworks.com/contacts（300528292；LT100002144113；Ukmergės 283A）+ spec.lt（2006；8 darbuotojai）+ okredo（Active）；2026-10-29",
+   "url": "https://sominetworks.com/contacts/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "立陶宛 Somi Networks（MC / SFP / 工业 FS / VC / 机架，宇航的设备，「中性、来自不同国内供应商、价格 OK」）：欧洲 + 已进口中国中性产品 + 对位 ✔；15 次跟进无回复（冷）→ 闸 2 查底数",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R02",
+   "claim": "桌面复核（闸 2 证据充分，三问成立）：○ 进口商 · 分销 20%：UAB SOMI NETWORKS（300528292；Vilnius 2006；8 人；+ SIA 拉脱维亚；中性产品来自不同国内供应商）坐实；进口经验 ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔ → P 池候选；并线核对 SC-2767 SOMI RT",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "info@sominetworks.com",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "vytas.norkus@sominetworks.lt",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "donatas.paliulis@sominetworks.lt",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 进口商 · 分销 20%：UAB SOMI NETWORKS（300528292；Vilnius 2006；8 人；+ SIA 拉脱维亚；中性产品来自不同国内供应商）坐实；进口经验 ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔ → P 池候选；并线核对 SC-2767 SOMI RT；闸 1：立陶宛 Somi Networks（MC / SFP / 工业 FS / VC / 机架，宇航的设备，「中性、来自不同国内供应商、价格 OK」）：欧洲 + 已进口中国中性产品 + 对位 ✔；15 次跟进无回复（冷）→ 闸 2 查底数",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +82,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +97,60 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 进口商 · 分销 20%：UAB SOMI NETWORKS（300528292；Vilnius 2006；8 人；+ SIA 拉脱维亚；中性产品来自不同国内供应商）坐实；进口经验 ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔ → P 池候选；并线核对 SC-2767 SOMI RT",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "LT · 1 次检索：sominetworks.com/contacts（300528292；LT100002144113；Ukmergės 283A）+ spec.lt（2006；8 darbuotojai）+ okredo（Active）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://sominetworks.com/contacts/"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "UAB SOMI NETWORKS",
+  "reg_no": "300528292",
+  "status": "Active",
+  "incorporated": "2006-01-19",
+  "company_type": "UAB（+ SIA 拉脱维亚）",
+  "address": "Ukmergės g. 283A, LT-06313 Vilnius",
+  "size_band": "小型（8）",
+  "officers": [
+   "Vytas Norkus（vytas.norkus@sominetworks.lt 表内具名；职务未取）",
+   "（info@sominetworks.com 官网公开）"
+  ],
+  "psc": "未取",
+  "source": "LT · 1 次检索：sominetworks.com/contacts（300528292；LT100002144113；Ukmergės 283A）+ spec.lt（2006；8 darbuotojai）+ okredo（Active）；2026-10-29",
+  "url": "https://sominetworks.com/contacts/",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "网络 / 光纤中性产品进口分销（波罗的海）"
+ ],
+ "channels": {
+  "网站": "https://sominetworks.com",
+  "直邮": "info@sominetworks.com，vytas.norkus@sominetworks.lt，donatas.paliulis@sominetworks.lt（表内）"
+ },
+ "signals": [
+  "立陶宛 Somi Networks（MC / SFP / 工业 FS / VC / 机架，宇航的设备，「中性、来自不同国内供应商、价格 OK」）：欧洲 + 已进口中国中性产品 + 对位 ✔；15 次跟进无回复（冷）→ 闸 2 查底数",
+  "表内兴趣：MC SFP 工业FS VC 机架 \n狠多无源产品；MC SFP 工业FS VC 机架 \n狠多无源产品\n有宇航的设备；MC  工业FS VC 好几种外壳 \n应该是从国内买来卖的"
+ ],
+ "risks": [
+  "**中性进口商 → 分销 20%：点名 Vytas 一页纸一次（STI-154GP / STI-288GPM 工业 + STC-228GP 对标宇航 + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；并线核对 SC-2767"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

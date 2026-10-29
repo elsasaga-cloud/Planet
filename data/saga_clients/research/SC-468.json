@@ -1,17 +1,60 @@
 {
  "code": "SC-468",
- "name_official": "bkeesti.ee",
+ "name_official": "BK EESTI OÜ",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（Registered）",
  "summary": "C 池三闸捞出（○ 正式）：○ 集团分销 20%：BK EESTI OÜ（Tallinn；注册码 10022238；1996；BK 集团 EE / LV / LT 三国；martin.kirk@ / oskar.ojaste@ 在表）坐实；进口 Utepo ✔ 欧洲 ✔ 对位 ✔ 具名 KP ✔ → P 池候选",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "集团分销（闸 2 判定 · 20% 档）",
+ "size": "小型（推定）",
+ "brands_seen": [
+  "Utepo"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "BK EESTI OÜ（bkeesti.ee；**inforegister / e-krediidiinfo / infopank：注册码 10022238；1996-03-29 注册（前身 Balti Kontaktide AS 1994）；VAT EE100265240；Järveotsa tee 50c, 13520 Tallinn；+372 6506901；2020 转为 OÜ，与 SIA BK Latvia、UAB BK grupė（立陶宛）同属 BK 集团（控制权",
+   "quote": "EE · 1 次检索：inforegister.ee（注册码 / 日期 / VAT / 集团公告）+ e-krediidiinfo（地址 / 曾用名）+ infopank（电话）；2026-10-29",
+   "url": "https://www.inforegister.ee/en/10022238-BK-EESTI-OU/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "爱沙尼亚 BK Eesti（bkeesti.ee；CCTV 为主，有 Utepo 的）：欧洲 + 已进口中国同类品牌 + 对位 ✔；15 推 0 回 → 闸 2 查底数，低优先",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R02",
+   "claim": "桌面复核（闸 2 证据充分，三问成立）：○ 集团分销 20%：BK EESTI OÜ（Tallinn；注册码 10022238；1996；BK 集团 EE / LV / LT 三国；martin.kirk@ / oskar.ojaste@ 在表）坐实；进口 Utepo ✔ 欧洲 ✔ 对位 ✔ 具名 KP ✔ → P 池候选",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "hooldus@bkeesti.ee",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "martin.kirk@bkeesti.ee",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "oskar.ojaste@bkeesti.ee",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 集团分销 20%：BK EESTI OÜ（Tallinn；注册码 10022238；1996；BK 集团 EE / LV / LT 三国；martin.kirk@ / oskar.ojaste@ 在表）坐实；进口 Utepo ✔ 欧洲 ✔ 对位 ✔ 具名 KP ✔ → P 池候选；闸 1：爱沙尼亚 BK Eesti（bkeesti.ee；CCTV 为主，有 Utepo 的）：欧洲 + 已进口中国同类品牌 + 对位 ✔；15 推 0 回 → 闸 2 查底数，低优先",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +84,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（集团分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +99,61 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 集团分销 20%：BK EESTI OÜ（Tallinn；注册码 10022238；1996；BK 集团 EE / LV / LT 三国；martin.kirk@ / oskar.ojaste@ 在表）坐实；进口 Utepo ✔ 欧洲 ✔ 对位 ✔ 具名 KP ✔ → P 池候选",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "EE · 1 次检索：inforegister.ee（注册码 / 日期 / VAT / 集团公告）+ e-krediidiinfo（地址 / 曾用名）+ infopank（电话）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.inforegister.ee/en/10022238-BK-EESTI-OU/"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "BK EESTI OÜ",
+  "reg_no": "10022238",
+  "status": "营业中（Registered）",
+  "incorporated": "1996-03-29",
+  "company_type": "OÜ（BK 集团）",
+  "address": "Järveotsa tee 50c, 13520 Tallinn",
+  "size_band": "小型（推定）",
+  "officers": [
+   "Martin Kirk（martin.kirk@bkeesti.ee 表内具名；职务未取）",
+   "Oskar Ojaste（oskar.ojaste@bkeesti.ee 表内具名）",
+   "（集团采购 andrius@bkgrupe.lt 登记邮箱 — 仅备查）"
+  ],
+  "psc": "未取",
+  "source": "EE · 1 次检索：inforegister.ee（注册码 / 日期 / VAT / 集团公告）+ e-krediidiinfo（地址 / 曾用名）+ infopank（电话）；2026-10-29",
+  "url": "https://www.inforegister.ee/en/10022238-BK-EESTI-OU/",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "安防 / 弱电分销（波罗的海三国集团）"
+ ],
+ "channels": {
+  "网站": "https://bkeesti.ee",
+  "直邮": "hooldus@bkeesti.ee，martin.kirk@bkeesti.ee，oskar.ojaste@bkeesti.ee（表内）"
+ },
+ "signals": [
+  "爱沙尼亚 BK Eesti（bkeesti.ee；CCTV 为主，有 Utepo 的）：欧洲 + 已进口中国同类品牌 + 对位 ✔；15 推 0 回 → 闸 2 查底数，低优先",
+  "表内兴趣：主要是CCTV；主要是CCTV\n有Utepo的"
+ ],
+ "risks": [
+  "**波罗的海集团分销 → 分销 20%：点名 Martin 一页纸一次（STC-028GP / STC-228GP + STI-154GP + MOQ 1 + 付费样机；Utepo 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（集团分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

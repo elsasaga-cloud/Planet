@@ -125,7 +125,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-22）**　网站状态：未核（本轮只用 S 邮箱证据）
+- **状态：已调研（2026-10-22）**　网站状态：域名在线但无站点内容（millievolution.com = Apache「Index of /」目录列表，仅 cgi-bin/ 2025-10-31；2026-10-29 实查）
 - **是谁**：英国伦敦新公司（MikroTik 认证顾问 Iyiola Folayan，20 年 MikroTik 经验），2026-09 群发回复后主动提出做 Saga 英国经销；2026-10-17 已开 2 台 STC-424XGGPM-280W 样品形式发票（$180/台，样品款抵首单），客户当日回复暂无项目、等有项目再付款。S 邮箱 9 封（2026-09-28 → 10-19）。
 - **类型**：网络集成/MikroTik 顾问（拟经销）
 - **规模**：新公司（自述 My company is new here）
@@ -148,11 +148,24 @@ updated: 2026-10-29
 - **【email】收货地址（公司注册地）**
   > Milliseconds Evolution Limited. 128 City Road, London, United Kingdom, EC1V 2NX
   > 来源：data/gmail_s/messages/2026/2026-10.jsonl（抓取 2026-10-17）
+- **【LT-T02 官网实查】官网无内容：Apache 默认目录列表，只有 cgi-bin/（2025-10-31）**
+  > Index of / … cgi-bin/ 2025-10-31 13:16
+  > 来源：https://millievolution.com/（抓取 2026-10-29）
 - **KP**：Iyiola Folayan（Director + **唯一 PSC（持股 50–75% + 任免董事权，2025-10-24 通知）** = 控股人 = 联系人；公司仍是 2025-10 新壳（虚拟地址）→ 付费样品 + 100% 预付不变（第 87 批 官方登记核实 2026-10-27））ifolayan@millievolution.com 〔S 邮箱签名 + Simon 10-03 信中提到 MikroTik consultant list〕
 - **KP**：Aderonke Folayan（Director（2025-10-24 起；Wakefield）= 家属 / 共同股东（第 86 批 官方登记核实 2026-10-27）） 〔https://find-and-update.company-information.service.gov.uk/company/16807798/officers〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌
-- 备注：128 City Road EC1V 2NX 是伦敦常见的虚拟注册地址（公司可能无实体仓）；「经销」意向要在首单之后再谈。下一步：不催；等客户项目来时把样品 PI 换成正式单。
+- 备注：LT-T02 官网实查（2026-10-29）：见 evidence「LT-T02 官网实查」。
+128 City Road EC1V 2NX 是伦敦常见的虚拟注册地址（公司可能无实体仓）；「经销」意向要在首单之后再谈。下一步：不催；等客户项目来时把样品 PI 换成正式单。
 
+### 加厚挖掘（2026-10-29 · 邮件证据 + 官网实查 v1（LT-T02））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | MILLISECONDS EVOLUTION LIMITED（Companies House 16807798；2025-10-24；128 City Road London EC1V 2NX（注册代理地址）；SIC 62020 / 62030 / 70229 / 85590；首份账目 2027-07-24 到期） |
+| 人数 | 初创微型（3 董事）（第 86 批 官方登记核实 2026-10-27） |
+
+- **风险/边界**：新公司（Companies House 2025-10-24 注册）+ 官网空站（2026-10-29）→ 对外一切以邮件往来与 Companies House 为准；不要在信里引用其官网
+- **Saga 对位结论**：P1 STC-424XGGPM-280W（20% 档）——MikroTik 顾问做项目 + 拟经销：先按经销 20% 档（$180 已是 20% 档价），项目成交后再定；样品 2 台口径已定
 
 ## 在卖/在用品牌 → Saga 对位
 

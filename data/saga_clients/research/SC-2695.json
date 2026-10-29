@@ -1,17 +1,46 @@
 {
  "code": "SC-2695",
- "name_official": "everfocus.com",
+ "name_official": "慧友電子股份有限公司 EverFocus Electronics Corp.",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "域名 everfocus.com（官网快照待 Actions 补抓）",
  "summary": "C 池三闸捞出（★ 正式）：★ 台湾 · 上市品牌商 OEM 30%（长线）：慧友電子 EverFocus Electronics Corp.（新北；統編 89639615；上市 5484；1995；實收 NT$11.85 億）坐实；自有品牌 ✔ 上市 ✔ 对位 ✔ → P 池候选（找硬件采购）",
- "type": "",
- "size": "",
+ "type": "上市品牌商 OEM（闸 2 判定 · 30% 档）",
+ "size": "大型（上市；實收 NT$11.85 億）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "慧友電子股份有限公司 EverFocus Electronics Corp.（everfocus.com；**統編 89639615；上市 5484 慧友；1995 設立；實收資本 NT$1,185,078,470（twfile）；登記地址 新北市新店區寶橋路235巷133號7樓之1（twincn）/ 汐止區新台五路1段79號12樓之1（twfile）；代表人 莊永順（twincn）/ 董事長 黃佳銘（twfile）；登記工廠 65011553 生產中；(02)2662-23",
+   "quote": "TW · 1 次检索：twincn（統編 / 上市 / 代表人 / 工廠）+ twfile（實收 / 董監事）；2026-10-29",
+   "url": "https://twincn.com/item.aspx?no=89639615",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "台湾 EverFocus（everfocus.com；台湾安防品牌商，安防 / 通讯较杂，商业 PoE 自有牌）：品牌商 = OEM 对象 ✔ 对位 ✔（台湾 OEM 先例：DGTAS / HiSharp / AVTECH 已入池）；→ 闸 2 查底数（twincn）；低优先",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：★ 台湾 · 上市品牌商 OEM 30%（长线）：慧友電子 EverFocus Electronics Corp.（新北；統編 89639615；上市 5484；1995；實收 NT$11.85 億）坐实；自有品牌 ✔ 上市 ✔ 对位 ✔ → P 池候选（找硬件采购）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "sales@everfocus.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 台湾 · 上市品牌商 OEM 30%（长线）：慧友電子 EverFocus Electronics Corp.（新北；統編 89639615；上市 5484；1995；實收 NT$11.85 億）坐实；自有品牌 ✔ 上市 ✔ 对位 ✔ → P 池候选（找硬件采购）；闸 1：台湾 EverFocus（everfocus.com；台湾安防品牌商，安防 / 通讯较杂，商业 PoE 自有牌）：品牌商 = OEM 对象 ✔ 对位 ✔（台湾 OEM 先例：DGTAS / HiSharp / AVTECH 已入池）；→ …",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +70,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（上市品牌商 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +85,57 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 台湾 · 上市品牌商 OEM 30%（长线）：慧友電子 EverFocus Electronics Corp.（新北；統編 89639615；上市 5484；1995；實收 NT$11.85 億）坐实；自有品牌 ✔ 上市 ✔ 对位 ✔ → P 池候选（找硬件采购）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "TW · 1 次检索：twincn（統編 / 上市 / 代表人 / 工廠）+ twfile（實收 / 董監事）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://twincn.com/item.aspx?no=89639615"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "慧友電子股份有限公司 EverFocus Electronics Corp.",
+  "reg_no": "89639615（統編）/ 上市 5484",
+  "status": "核准設立 · 營業中",
+  "incorporated": "1995",
+  "company_type": "股份有限公司（上市）",
+  "address": "新北市新店區寶橋路235巷133號7樓之1",
+  "size_band": "大型（上市；實收 NT$11.85 億）",
+  "officers": [
+   "莊永順 — 代表人（twincn）",
+   "黃佳銘 — 董事長（twfile）"
+  ],
+  "psc": "未取",
+  "source": "TW · 1 次检索：twincn（統編 / 上市 / 代表人 / 工廠）+ twfile（實收 / 董監事）；2026-10-29",
+  "url": "https://twincn.com/item.aspx?no=89639615",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "安防監控品牌製造（新北）"
+ ],
+ "channels": {
+  "网站": "https://everfocus.com",
+  "直邮": "sales@everfocus.com（表内）"
+ },
+ "signals": [
+  "台湾 EverFocus（everfocus.com；台湾安防品牌商，安防 / 通讯较杂，商业 PoE 自有牌）：品牌商 = OEM 对象 ✔ 对位 ✔（台湾 OEM 先例：DGTAS / HiSharp / AVTECH 已入池）；→ 闸 2 查底数（twincn）；低优先",
+  "表内兴趣：安防 通讯等 比较杂；商业POE"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（上市品牌商 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

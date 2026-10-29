@@ -1,7 +1,7 @@
 {
  "code": "SB-1115",
  "name_official": "Milliseconds Evolution Limited",
- "website_status": "未核（本轮只用 S 邮箱证据）",
+ "website_status": "域名在线但无站点内容（millievolution.com = Apache「Index of /」目录列表，仅 cgi-bin/ 2025-10-31；2026-10-29 实查）",
  "summary": "英国伦敦新公司（MikroTik 认证顾问 Iyiola Folayan，20 年 MikroTik 经验），2026-09 群发回复后主动提出做 Saga 英国经销；2026-10-17 已开 2 台 STC-424XGGPM-280W 样品形式发票（$180/台，样品款抵首单），客户当日回复暂无项目、等有项目再付款。S 邮箱 9 封（2026-09-28 → 10-19）。",
  "type": "网络集成/MikroTik 顾问（拟经销）",
  "size": "新公司（自述 My company is new here）",
@@ -50,6 +50,13 @@
    "quote": "Milliseconds Evolution Limited. 128 City Road, London, United Kingdom, EC1V 2NX",
    "url": "data/gmail_s/messages/2026/2026-10.jsonl",
    "date": "2026-10-17"
+  },
+  {
+   "kind": "LT-T02 官网实查",
+   "claim": "官网无内容：Apache 默认目录列表，只有 cgi-bin/（2025-10-31）",
+   "quote": "Index of / … cgi-bin/ 2025-10-31 13:16",
+   "url": "https://millievolution.com/",
+   "date": "2026-10-29"
   }
  ],
  "kp": [
@@ -68,7 +75,7 @@
    "source": "https://find-and-update.company-information.service.gov.uk/company/16807798/officers"
   }
  ],
- "notes": "128 City Road EC1V 2NX 是伦敦常见的虚拟注册地址（公司可能无实体仓）；「经销」意向要在首单之后再谈。下一步：不催；等客户项目来时把样品 PI 换成正式单。",
+ "notes": "LT-T02 官网实查（2026-10-29）：见 evidence「LT-T02 官网实查」。\n128 City Road EC1V 2NX 是伦敦常见的虚拟注册地址（公司可能无实体仓）；「经销」意向要在首单之后再谈。下一步：不催；等客户项目来时把样品 PI 换成正式单。",
  "researched_at": "2026-10-22",
  "saga_fit": {
   "p1": "STC-424XGGPM-280W",
@@ -169,5 +176,13 @@
    "prev_reason": "有具名 KP + 真实意向 + 样品 PI 已开，但新公司、无项目、未付款 → B（等项目；若样品付款即升 A）",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌"
   }
+ ],
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "邮件证据 + 官网实查 v1（LT-T02）",
+  "batch": "LT-T02"
+ },
+ "risks": [
+  "新公司（Companies House 2025-10-24 注册）+ 官网空站（2026-10-29）→ 对外一切以邮件往来与 Companies House 为准；不要在信里引用其官网"
  ]
 }

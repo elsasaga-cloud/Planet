@@ -1,17 +1,48 @@
 {
  "code": "SC-1795",
- "name_official": "bbcpl.in",
+ "name_official": "Bluboxx Communication Private Limited — BBCPL / BluBoxx",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（tracxn 2026-03）",
  "summary": "C 池三闸捞出（★ 正式）：★ 印度 · 工业网络分销 20%：Bluboxx Communication Pvt Ltd — BBCPL（Pune；$5.1M；工业网络 + 自动化分销）部分坐实（CIN 未取）；台湾品牌（Planet）经销 ✔ 对位 ✔ Simon 点名印度 ✔ → P 池候选",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "工业网络分销（闸 2 判定 · 20% 档）",
+ "size": "小型（$5.1M）",
+ "brands_seen": [
+  "PLANET"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Bluboxx Communication Private Limited — BBCPL / BluBoxx（bbcpl.in / bluboxx.in；**102/B Surekha Apartment, Above Hira Oil, Pune-Satara Road, Pune 411037；工业网络 + 自动化设备分销（tracxn 两品牌）；ZoomInfo 营收 $5.1M；+91 7875432180**）；CIN 未取；表内：主要是 Planet 的",
+   "quote": "IN · 1 次检索：tracxn 法人页（法人名 / 品牌 / 地址）+ zoominfo（营收 / 电话）；CIN 未取；2026-10-29",
+   "url": "https://tracxn.com/d/legal-entities/india/bluboxx-communication-private-limited/__4o5mhod8UCZdybdTAdXuS4HYOKFEZoqCL-v4QWaJ-30",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "印度 BBCPL（bbcpl.in；主要是 Planet 的）：台湾品牌分销 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：★ 印度 · 工业网络分销 20%：Bluboxx Communication Pvt Ltd — BBCPL（Pune；$5.1M；工业网络 + 自动化分销）部分坐实（CIN 未取）；台湾品牌（Planet）经销 ✔ 对位 ✔ Simon 点名印度 ✔ → P 池候选",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "sales@bbcpl.in",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 印度 · 工业网络分销 20%：Bluboxx Communication Pvt Ltd — BBCPL（Pune；$5.1M；工业网络 + 自动化分销）部分坐实（CIN 未取）；台湾品牌（Planet）经销 ✔ 对位 ✔ Simon 点名印度 ✔ → P 池候选；闸 1：印度 BBCPL（bbcpl.in；主要是 Planet 的）：台湾品牌分销 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +72,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（工业网络分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +87,60 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 印度 · 工业网络分销 20%：Bluboxx Communication Pvt Ltd — BBCPL（Pune；$5.1M；工业网络 + 自动化分销）部分坐实（CIN 未取）；台湾品牌（Planet）经销 ✔ 对位 ✔ Simon 点名印度 ✔ → P 池候选",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "IN · 1 次检索：tracxn 法人页（法人名 / 品牌 / 地址）+ zoominfo（营收 / 电话）；CIN 未取；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://tracxn.com/d/legal-entities/india/bluboxx-communication-private-limited/__4o5mhod8UCZdybdTAdXuS4HYOKFEZoqCL-v4QWaJ-30"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Bluboxx Communication Private Limited — BBCPL / BluBoxx",
+  "reg_no": "未取（CIN 未查；法人名 tracxn 坐实）",
+  "status": "营业中（tracxn 2026-03）",
+  "incorporated": "未取",
+  "company_type": "Private Limited",
+  "address": "102/B, Surekha Apartment, Above Hira Oil, Pune-Satara Road, Pune, Maharashtra 411037",
+  "size_band": "小型（$5.1M）",
+  "officers": [
+   "（具名 KP 未取）"
+  ],
+  "psc": "未取",
+  "source": "IN · 1 次检索：tracxn 法人页（法人名 / 品牌 / 地址）+ zoominfo（营收 / 电话）；CIN 未取；2026-10-29",
+  "url": "https://tracxn.com/d/legal-entities/india/bluboxx-communication-private-limited/__4o5mhod8UCZdybdTAdXuS4HYOKFEZoqCL-v4QWaJ-30",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "工业网络设备分销（浦那）"
+ ],
+ "channels": {
+  "网站": "https://bbcpl.in",
+  "直邮": "sales@bbcpl.in（表内）"
+ },
+ "signals": [
+  "印度 BBCPL（bbcpl.in；主要是 Planet 的）：台湾品牌分销 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先",
+  "表内兴趣：主要是planet的"
+ ],
+ "risks": [
+  "**印度 · 工业网络分销 20%：一页纸一次（STI-280GE / STI-288GPM / STC-228GP + MOQ 1 + 付费样机；Planet 不点名）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH ",
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（工业网络分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

@@ -1,17 +1,58 @@
 {
  "code": "SC-2606",
- "name_official": "logicbus.com",
+ "name_official": "Logicbus, Inc.",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "Active（Crunchbase）",
  "summary": "C 池三闸捞出（○ 正式）：○ 工业分销 20%：Logicbus, Inc.（Chula Vista 2001；40 人；美墨双边；Daniel Flores 墨西哥分公司经理 = 表内邮箱；有采购专员）坐实；进口 Atop / 三旺 ✔ 主区 ✔ 对位 ✔ 具名 KP ✔ → P 池候选；Simon 曾判不行，可否决",
- "type": "",
- "size": "",
+ "type": "工业分销（闸 2 判定 · 20% 档）",
+ "size": "小型（40）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Logicbus, Inc.（logicbus.com；**Crunchbase：法人 Logicbus, Inc.，Chula Vista CA，Active，11–50；官网 Support：2001 年创立，863 Bowsprit Road Chula Vista；ContactOut：San Diego 8268 Clairemont Mesa Blvd Suite 302 + 墨西哥瓜达拉哈拉办公室，40 人；CEO Blasioz Valenzuela；Dani",
+   "quote": "US · 1 次检索：crunchbase（Logicbus, Inc.；Active；11–50）+ logicbus.com/support（2001；Chula Vista）+ contactout（40 人；高管 / 采购）；CA SoS 未取；2026-10-29",
+   "url": "https://www.crunchbase.com/organization/logicbus",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "美国 Logicbus（Atop / 三旺 3onedata 工业 FS 电口）：美国主区 + 已进口中国工业品牌 + 对位 ✔；20 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R01",
+   "claim": "Logicbus, Inc.（Chula Vista 2001；40 人；美墨双边工业分销；进口 Atop / 三旺；具名 KP + 采购专员）：行业内 ✔ 进口同类 ✔ 对位 ✔ → 留 B",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "teodoro@logicbus.com",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "danielflores@logicbus.com",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "isaiascastillo@logicbus.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 工业分销 20%：Logicbus, Inc.（Chula Vista 2001；40 人；美墨双边；Daniel Flores 墨西哥分公司经理 = 表内邮箱；有采购专员）坐实；进口 Atop / 三旺 ✔ 主区 ✔ 对位 ✔ 具名 KP ✔ → P 池候选；Simon 曾判不行，可否决；闸 1：美国 Logicbus（Atop / 三旺 3onedata 工业 FS 电口）：美国主区 + 已进口中国工业品牌 + 对位 ✔；20 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +82,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（工业分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +97,63 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 工业分销 20%：Logicbus, Inc.（Chula Vista 2001；40 人；美墨双边；Daniel Flores 墨西哥分公司经理 = 表内邮箱；有采购专员）坐实；进口 Atop / 三旺 ✔ 主区 ✔ 对位 ✔ 具名 KP ✔ → P 池候选；Simon 曾判不行，可否决",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "US · 1 次检索：crunchbase（Logicbus, Inc.；Active；11–50）+ logicbus.com/support（2001；Chula Vista）+ contactout（40 人；高管 / 采购）；CA SoS 未取；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.crunchbase.com/organization/logicbus"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Logicbus, Inc.",
+  "reg_no": "未取（CA SoS 未查）",
+  "status": "Active（Crunchbase）",
+  "incorporated": "2001",
+  "company_type": "Inc.",
+  "address": "863 Bowsprit Road, Chula Vista, CA（+ San Diego / Guadalajara）",
+  "size_band": "小型（40）",
+  "officers": [
+   "Blasioz Valenzuela — CEO",
+   "Daniel Flores — Gerente de Sucursal México（danielflores@logicbus.com 表内）",
+   "Luis Eduardo Rodríguez Luvian — Ejecutivo de compras（采购）",
+   "teodoro@logicbus.com（表内具名；职务未取）"
+  ],
+  "psc": "未取",
+  "source": "US · 1 次检索：crunchbase（Logicbus, Inc.；Active；11–50）+ logicbus.com/support（2001；Chula Vista）+ contactout（40 人；高管 / 采购）；CA SoS 未取；2026-10-29",
+  "url": "https://www.crunchbase.com/organization/logicbus",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "工业自动化 / 工业通信分销（美墨双边）"
+ ],
+ "channels": {
+  "网站": "https://logicbus.com",
+  "直邮": "teodoro@logicbus.com，danielflores@logicbus.com，isaiascastillo@logicbus.com（表内）"
+ },
+ "signals": [
+  "美国 Logicbus（Atop / 三旺 3onedata 工业 FS 电口）：美国主区 + 已进口中国工业品牌 + 对位 ✔；20 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决",
+  "表内兴趣：电口 atop的\n3旺的工业fs；电口 atop的"
+ ],
+ "risks": [
+  "**工业分销（美墨）→ 分销 20%：点名 Daniel Flores 一页纸一次（STI-154GP / STI-280GE 工业电口对标 Atop / 三旺 + MOQ 1 + 付费样机）— 北美常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳 / DAP（买方清关）；周三 08–10 当地**；Simon 可否决",
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（工业分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

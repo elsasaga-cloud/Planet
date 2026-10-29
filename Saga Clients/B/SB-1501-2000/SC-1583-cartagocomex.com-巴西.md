@@ -1,10 +1,11 @@
 # cartagocomex.com
+**官方名称（调研核实）**：Cartago Comex Ltda
 
 > **评级 B**　|　巴西　|　档案编号 `SC-1583`　|　优先级 ★★　|　状态：名单内·未触达
 >
 > **C 池筛选：△ P 池 · 观察档（疑点（制裁 / 国别 / 主体 / 收款）核清后转正或退回 C）**（闸 3 · 2026-10-29）：☆ P 池观察档（档位 △ = 微型 / 自用 / 个体 / 存疑，试单或回访一次后定）：△ 观察档 · 巴西进口代理 贸易 20% + 预付 100%：Cartago Comex Ltda（Maringá；CNPJ 36.699.505/0001-33；2020；报关行 + 商业代理；R$1,000；1–10 人）坐实但微型；MC 100 对数量询问 ✔ 有进口经验 ✔ 对位（STC-110XGE）✔ → 入池观察档；可否决
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:BR　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：巴西进口代理 贸易（闸 2 判定 · 20% 档）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:BR　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-1583
@@ -12,19 +13,19 @@ rating: B
 rating_auto: C
 sieve: pool_watch  # 闸 3 P1 2026-10-29
 rating_research: B  # Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · 
-name_official: "cartagocomex.com"
+name_official: "Cartago Comex Ltda"
 score: 7
 country: 巴西
 region: 拉美
 website: cartagocomex.com
-type: 经销/集成（类型待核）
+type: 巴西进口代理 贸易（闸 2 判定 · 20% 档）
 tier_tags: ["群发(筛选后质量一般的_群发)", "表:BR"]
 deal: no
 replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STI-110GE
+p1: STC-228GP
 price_tier: 20%
 research: done
 site_snapshot: none
@@ -37,7 +38,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（△ 观察）：△ 观察档 · 巴西进口代理 贸易 20% + 预付 100%：Cartago Comex Ltda（Maringá；CNPJ 36.699.505/0001-33；2020；报关行 + 商业代理；R$1,000；1–10 人）坐实但微型；MC 100 对数量询问 ✔ 有进口经验 ✔ 对位（STC-110XGE）✔ → 入池观察档；可否决（调研 2026-10-29；表内兴趣：HTB MC 100对 拿BYXGD这个牌子来问的）
 - **为什么是 B 级**：**调研后定级 B**（Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · 巴西进口代理 贸易 20% + 预付 100%：Cartago Comex Ltda（Maringá；CNPJ 36.699.505/0001-33；2020；报关行 + 商业代理；R$1,000；1–10 人）坐实但微型；MC 100 对数量询问 ✔ 有进口经验 ✔ 对位（STC-110XGE）✔ → 入池观察档；可否决；闸 1：巴西 Cartago Comex（cartagocomex.com；HTB MC 100 对，拿 BYXGD 牌子来问）：数量询问 = 真需求 ✔ 进口中国同类 ✔ 巴西有先例（Teltex / Parks）；→ 闸 2 查 CNPJ；M…）；自动分级 C：-6 群发批次名单；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/巴西
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STI-110GE — 待复核后按业务线定首推型号；
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-228GP — 默认对位（巴西进口代理 贸易 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）；
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动：LT-01 复核（待过）后再定 — 长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
@@ -50,12 +51,13 @@ updated: 2026-10-29
 - **现状一句话**：C 池三闸捞出 → B（LT-01）：△ 观察档 · 巴西进口代理 贸易 20% + 预付 100%：Cartago Comex Ltda（Maringá；CNPJ 36.699.505/0001-33；2020；报关行 + 商业代理；R$1,000；1–10 人）坐实但微型；MC 100 对数量询问 ✔ 有进口经验 ✔ 对位（STC-110XGE）✔ → 入池观察档；可否决
 - **对方真实需求（有据）**：未知（无往来；复核时从官网 / 进口数据 / 项目推断）
 - **断点 / 为什么停在这里**：无往来（从未触达或仅群发无回）
-- **Saga 现在该推什么**：P1 ****（% 档，价见价格主表）——待复核后按业务线定首推型号
+- **Saga 现在该推什么**：P1 **STC-228GP**（% 档，价见价格主表）——默认对位（巴西进口代理 贸易 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）
 - **下一步（具体）**：不动：LT-01 复核（待过）后再定　—　长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | △ 观察档 · 巴西进口代理 贸易 20% + 预付 100%：Cartago Comex Ltda（Maringá；CNPJ 36.699.505/0001-33；2020；报关行 + 商业代理；R$1,000；1–10 人）坐实但微型；MC 100 对数量询问 ✔ 有进口经验 ✔ 对位（STC-110XGE）✔ → 入池观察档；可否决 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
+| 2026-10-29 | 查 | Agent 登记底数（registry） | BR · 1 次检索：casadosdados（CNPJ / 资本 / CNAE / 邮箱 / WA）+ econodata（人数）；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -89,7 +91,7 @@ updated: 2026-10-29
 | 名称 | cartagocomex.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 巴西 | 事实（用户表）|
 | 网站/域名 | cartagocomex.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
+| 类型 | 巴西进口代理 贸易（闸 2 判定 · 20% 档） | 推断（据兴趣/备注关键词） |
 | 联系人 | Carla Barbosa | 事实（用户表） |
 | 来源（From） | Alibaba<br>即时对话 | 事实（用户表） |
 | 兴趣（Interested in） | HTB MC 100对<br>拿BYXGD这个牌子来问的 | 事实（用户表） |
@@ -99,11 +101,35 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-29）**　网站状态：
+- **状态：已调研（2026-10-29）**　网站状态：域名 cartagocomex.com（官网快照待 Actions 补抓）
 - **是谁**：C 池三闸捞出（△ 观察）：△ 观察档 · 巴西进口代理 贸易 20% + 预付 100%：Cartago Comex Ltda（Maringá；CNPJ 36.699.505/0001-33；2020；报关行 + 商业代理；R$1,000；1–10 人）坐实但微型；MC 100 对数量询问 ✔ 有进口经验 ✔ 对位（STC-110XGE）✔ → 入池观察档；可否决
+- **类型**：巴西进口代理 贸易（闸 2 判定 · 20% 档）
+- **规模**：微型（R$1,000 资本；1–10 人）
+- **【登记底数 / 官网（闸 2 坐实）】Cartago Comex Ltda（cartagocomex.com；**CNPJ 36.699.505/0001-33；2020-03-17；Rua Joubert de Carvalho 623, Sala 804, Zona 01, Maringá PR 87013-200；资本 R$1,000；1–10 人；CNAE 主 5250-8/02 报关行 + 次 4619-2/00 商业代理；matheus@cartagocomex.com；WhatsApp 44 988**
+  > BR · 1 次检索：casadosdados（CNPJ / 资本 / CNAE / 邮箱 / WA）+ econodata（人数）；2026-10-29
+  > 来源：https://casadosdados.com.br/solucao/cnpj/cartago-comex-ltda-36699505000133（抓取 2026-10-29）
+- **【闸 1 对位】巴西 Cartago Comex（cartagocomex.com；HTB MC 100 对，拿 BYXGD 牌子来问）：数量询问 = 真需求 ✔ 进口中国同类 ✔ 巴西有先例（Teltex / Parks）；→ 闸 2 查 CNPJ；MC 仅 STC-110XGE 对位 → 低优先**
+  > 来源：（抓取 2026-10-29）
+- **【长期群复核 LT-R03】桌面复核（闸 2 证据，三问成立）：△ 观察档 · 巴西进口代理 贸易 20% + 预付 100%：Cartago Comex Ltda（Maringá；CNPJ 36.699.505/0001-33；2020；报关行 + 商业代理；R$1,000；1–10 人）坐实但微型；MC 100 对数量询问 ✔ 有进口经验 ✔ 对位（STC-110XGE）✔ → 入池观察档；可否决；备注：报关行 + 商业代理微型，但 MC 100 对数量询问 + 进口经验 → 留 B 预付 100%**
+  > 来源：（抓取 2026-10-29）
+- **KP**：—（表内邮箱（公开 / 总机））import3@cartagocomex.com 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · 巴西进口代理 贸易 20% + 预付 100%：Cartago Comex Ltda（Maringá；CNPJ 36.699.505/0001-33；2020；报关行 + 商业代理；R$1,000；1–10 人）坐实但微型；MC 100 对数量询问 ✔ 有进口经验 ✔ 对位（STC-110XGE）✔ → 入池观察档；可否决；闸 1：巴西 Cartago Comex（cartagocomex.com；HTB MC 100 对，拿 BYXGD 牌子来问）：数量询问 = 真需求 ✔ 进口中国同类 ✔ 巴西有先例（Teltex / Parks）；→ 闸 2 查 CNPJ；M…
-- 备注：（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
+- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Cartago Comex Ltda |
+
+- **业务线**：报关 / 进口代理（马林加）
+- **触达通道（公开）**：网站: https://cartagocomex.com；直邮: import3@cartagocomex.com（表内）
+- **近况信号**：
+  - 巴西 Cartago Comex（cartagocomex.com；HTB MC 100 对，拿 BYXGD 牌子来问）：数量询问 = 真需求 ✔ 进口中国同类 ✔ 巴西有先例（Teltex / Parks）；→ 闸 2 查 CNPJ；MC 仅 STC-110XGE 对位 → 低优先
+  - 表内兴趣：HTB MC 100对
+拿BYXGD这个牌子来问的
+- **Saga 对位结论**：P1 STC-228GP（20% 档）——默认对位（巴西进口代理 贸易 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -133,6 +159,7 @@ updated: 2026-10-29
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| — | 表内邮箱（公开 / 总机） | import3@cartagocomex.com | 调研核实（公开页） | 调研 |
 | Carla Barbosa | — | import3@cartagocomex.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
@@ -149,7 +176,7 @@ updated: 2026-10-29
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-110GE | 工业迷你 1 光 1 电（MC 位） | $22.4 USD EXW（20% 档，SmartByte LT-IMC30G-E 125 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STC-228GP | 深挖对位：默认对位（巴西进口代理 贸易 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档） | $33.2 USD EXW（HRUI Realtek 线：洪瑞 2026-09-30 成本 + 20%（列表价 $30.8 隐含加价低于底线，第 73 批口径）；见 data/价格主表_HRUI.csv；汇率 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（巴西进口代理 贸易（闸 2 判定 · 20% 档）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：20% 档 $139.9 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $181.2——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -158,9 +185,9 @@ updated: 2026-10-29
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-110GE），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-228GP），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-110GE 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-228GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -170,7 +197,7 @@ updated: 2026-10-29
 
 - **S**：名单内已有联系记录，不是零起点
 - **W**：拉美：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STI-110GE 按 20% 档报价，做现供应商的第二货源
+- **O**：P1 STC-228GP 按 20% 档报价，做现供应商的第二货源；规模（调研）：微型（R$1,000 资本；1–10 人）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -198,14 +225,14 @@ updated: 2026-10-29
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-110GE - industrial mini Gigabit media converter (neutral label)
+**主题**：STC-228GP - 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (neutral label)
 
 ```text
 Hi Carla,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
 
-We supply an industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $22.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply an 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (unmanaged, 120 W, PoE watchdog) - model STC-228GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $33.2 USD EXW (valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

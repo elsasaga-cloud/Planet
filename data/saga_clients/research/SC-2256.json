@@ -1,17 +1,48 @@
 {
  "code": "SC-2256",
- "name_official": "redfox.srl",
+ "name_official": "REDFOX S.R.L.",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（官网 2024-12）",
  "summary": "C 池三闸捞出（△ 观察）：△ 观察档 · 集成 25%：REDFOX S.R.L.（San Benedetto del Tronto；CF 01870630447 / REA AP-180065；资本 €10,050；安防集成 15+ 年；CEO Marco Di Pietro 官网公开邮箱）坐实；进口 Utepo ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔ = 冷户四条，微型集成商 → 入池观察档 + 预付；Simon 曾判不行，可否决",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "集成（闸 2 判定 · 25% 档）",
+ "size": "微型（资本 €10,050）",
+ "brands_seen": [
+  "Utepo"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "REDFOX S.R.L.（redfox-tech.com；**官网页脚：Via Pasubio 57/A, 63074 San Benedetto del Tronto (AP)；CF / Registro Imprese 01870630447；REA AP-180065；资本 €10,050；PEC redfox@pec-mail.it；防盗 / 视频监控 / 智能家居安装 15+ 年；Contatti 页：Marco Di Pietro — CEO & Sales M",
+   "quote": "IT · 1 次检索：redfox-tech.com 首页页脚（CF / REA / 资本）+ /contatti/（CEO 具名 + 邮箱公开）；2026-10-29",
+   "url": "https://www.redfox-tech.com/contatti/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "意大利 Redfox S.r.l.（工商业 PoE 用 Utepo 的）：欧洲 + 已进口中国同类品牌 + 对位 ✔；14 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R01",
+   "claim": "REDFOX S.R.L.（San Benedetto del Tronto；REA AP-180065；安防集成 15+ 年；进口 Utepo；CEO 公开邮箱）：集成主体 ✔ 进口同类 ✔ 对位 ✔ → 留 B",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "redfox@redfox-tech.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · 集成 25%：REDFOX S.R.L.（San Benedetto del Tronto；CF 01870630447 / REA AP-180065；资本 €10,050；安防集成 15+ 年；CEO Marco Di Pietro 官网公开邮箱）坐实；进口 Utepo ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔ = 冷户四条，微型集成商 → 入池观察档 + 预付；Simon 曾判不行…；闸 1：意大利 Redfox S.r.l.（工商业 PoE 用 Utepo 的）：欧洲 + 已进口中国同类品牌 + 对位 ✔；14 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +72,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-2216GP",
+   "why": "默认对位（集成 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +87,60 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "△ 观察档 · 集成 25%：REDFOX S.R.L.（San Benedetto del Tronto；CF 01870630447 / REA AP-180065；资本 €10,050；安防集成 15+ 年；CEO Marco Di Pietro 官网公开邮箱）坐实；进口 Utepo ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔ = 冷户四条，微型集成商 → 入池观察档 + 预付；Simon 曾判不行，可否决",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "IT · 1 次检索：redfox-tech.com 首页页脚（CF / REA / 资本）+ /contatti/（CEO 具名 + 邮箱公开）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.redfox-tech.com/contatti/"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "REDFOX S.R.L.",
+  "reg_no": "01870630447（CF / Registro Imprese AP）",
+  "status": "营业中（官网 2024-12）",
+  "incorporated": "未取（15+ 年）",
+  "company_type": "S.r.l.",
+  "address": "Via Pasubio 57/A, 63074 San Benedetto del Tronto (AP)",
+  "size_band": "微型（资本 €10,050）",
+  "officers": [
+   "Marco Di Pietro — CEO & Sales Manager（m.dipietro@fifanetwork.it，官网 contatti 页公开）",
+   "Gianluca Faraotti — Capotecnico（tecnicorf@fifanetwork.it 官网公开）"
+  ],
+  "psc": "未取",
+  "source": "IT · 1 次检索：redfox-tech.com 首页页脚（CF / REA / 资本）+ /contatti/（CEO 具名 + 邮箱公开）；2026-10-29",
+  "url": "https://www.redfox-tech.com/contatti/",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "安防集成 / 安装（马尔凯）"
+ ],
+ "channels": {
+  "网站": "https://redfox.srl",
+  "直邮": "redfox@redfox-tech.com（表内）"
+ },
+ "signals": [
+  "意大利 Redfox S.r.l.（工商业 PoE 用 Utepo 的）：欧洲 + 已进口中国同类品牌 + 对位 ✔；14 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决",
+  "表内兴趣：工商业PoE 用的Utepo的；工商业POE"
+ ],
+ "risks": [
+  "**小集成商 → 集成 25%：点名 Marco 一页纸一次（STC-028GP $28 / STI-154GP 工业 PoE + MOQ 1 + 付费样机；Utepo 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；微型 → 预付；Simon 可否决"
+ ],
+ "saga_fit": {
+  "p1": "STC-2216GP",
+  "tier": 25,
+  "why": "默认对位（集成 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

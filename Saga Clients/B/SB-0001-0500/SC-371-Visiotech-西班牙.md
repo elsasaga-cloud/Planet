@@ -1,10 +1,11 @@
 # Visiotech
+**官方名称（调研核实）**：VISIOTECH SECURITY S.L.
 
 > **评级 B**　|　西班牙　|　档案编号 `SC-371`　|　优先级 ★★　|　状态：成交过·维护
 >
 > **C 池筛选：★★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ★★）：★★ 首选 · OEM 30%：Visiotech Security S.L.（B80645518；Madrid；自有品牌 Safire / X-Security / Nivian；欧洲多国大分销）坐实；成单 ✔ 曾谈 OEM 交换机 ✔ 自有品牌 ✔ 具名 KP emussons@ ✔ → P 池候选　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：成交/下单过；推送 31 次（2024-03-24 → 2025-10-03）　|　**所在清单**：A优质名单(Spain)、A优质名单(其他优质欧洲客户)、AI评估(ES)·DONE、AI评估(EU)·DONE、群发(富通天下)、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：OEM（闸 2 判定 · 30% 档）（推断）　|　**历史关系**：成交/下单过；推送 31 次（2024-03-24 → 2025-10-03）　|　**所在清单**：A优质名单(Spain)、A优质名单(其他优质欧洲客户)、AI评估(ES)·DONE、AI评估(EU)·DONE、群发(富通天下)、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-371
@@ -12,12 +13,12 @@ rating: B
 rating_auto: C
 sieve: pool  # 闸 3 P1 2026-10-29
 rating_research: B  # Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★★ 首选 · 
-name_official: "Visiotech"
+name_official: "VISIOTECH SECURITY S.L."
 score: 22
 country: 西班牙
 region: 欧洲
 website: visiotechsecurity.com
-type: 品牌商/贴牌需求（OEM/ODM）
+type: OEM（闸 2 判定 · 30% 档）
 tier_tags: ["A优质名单(Spain)", "A优质名单(其他优质欧洲客户)", "AI评估(ES)·DONE", "AI评估(EU)·DONE", "群发(富通天下)", "用户判定不行"]
 deal: yes
 replies: 0
@@ -25,7 +26,7 @@ followups: 31
 first_contact: 2024-03-24
 last_contact: 2025-10-03
 s_mail: 53 msgs (out 53 / in 0), 2024-06-20 -> 2026-09-30
-p1: STC-424DGGPM-280W
+p1: STC-424XGGPM-280W
 price_tier: 30%
 research: done
 site_snapshot: none
@@ -38,7 +39,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（★★ 正式）：★★ 首选 · OEM 30%：Visiotech Security S.L.（B80645518；Madrid；自有品牌 Safire / X-Security / Nivian；欧洲多国大分销）坐实；成单 ✔ 曾谈 OEM 交换机 ✔ 自有品牌 ✔ 具名 KP emussons@ ✔ → P 池候选（调研 2026-10-29；表内兴趣：有中科德能的 1，分销，整个交谈比较专业，女性 2，switch price list,商业为主工业为辅 工业级处理的少，但是有兴趣 3，VC系列，偶尔用analog video 4, POE extender 4,OEM, 给她看了我电脑）
 - **为什么是 B 级**：**调研后定级 B**（Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★★ 首选 · OEM 30%：Visiotech Security S.L.（B80645518；Madrid；自有品牌 Safire / X-Security / Nivian；欧洲多国大分销）坐实；成单 ✔ 曾谈 OEM 交换机 ✔ 自有品牌 ✔ 具名 KP emussons@ ✔ → P 池候选；闸 1：西班牙 Visiotech（大型安防分销商，自有品牌 Safire，产品中见中科德能）：成单记录 + OEM 交换机合作邮件、31 次跟进 → 欧洲主区 + 自有品牌 + 分销体量 → 闸 2）；自动分级 C：+50 有成单/下单/买过记录（用户备注或跟进表）；+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+4 AI/Claude 评估 B；-60 用户已归入「不行及不太相关的」；-12 备注提示大公司/上市公司/运营商（体量不匹配）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/西班牙；+5 最近活动 2025；-22 推送 31 次无任何回复（聋名单）
 - **历史互动**：成交/下单过；推送 31 次（2024-03-24 → 2025-10-03）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-424DGGPM-280W — 待复核后按业务线定首推型号；
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-424XGGPM-280W — 默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）；
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动：LT-01 复核（待过）后再定 — 长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
@@ -51,12 +52,13 @@ updated: 2026-10-29
 - **现状一句话**：C 池三闸捞出 → B（LT-01）：★★ 首选 · OEM 30%：Visiotech Security S.L.（B80645518；Madrid；自有品牌 Safire / X-Security / Nivian；欧洲多国大分销）坐实；成单 ✔ 曾谈 OEM 交换机 ✔ 自有品牌 ✔ 具名 KP emussons@ ✔ → P 池候选
 - **对方真实需求（有据）**：未知（无往来；复核时从官网 / 进口数据 / 项目推断）
 - **断点 / 为什么停在这里**：无往来（从未触达或仅群发无回）
-- **Saga 现在该推什么**：P1 ****（% 档，价见价格主表）——待复核后按业务线定首推型号
+- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（% 档，价见价格主表）——默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
 - **下一步（具体）**：不动：LT-01 复核（待过）后再定　—　长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ★★ 首选 · OEM 30%：Visiotech Security S.L.（B80645518；Madrid；自有品牌 Safire / X-Security / Nivian；欧洲多国大分销）坐实；成单 ✔ 曾谈 OEM 交换机 ✔ 自有品牌 ✔ 具名 KP emussons@ ✔ → P 池候选 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
+| 2026-10-29 | 查 | Agent 登记底数（registry） | ES · 1 次检索：visiotechsecurity.com/en/（CIF B80645518；Calle Alberto Sánchez 31, 28052 Madrid；品牌 Safire / X-Security / Nivian；Portugal 分部）；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -92,7 +94,7 @@ updated: 2026-10-29
 | 名称 | Visiotech | 事实（用户表） |
 | 国家 | 西班牙（另见：欧洲（国别未填）） | 事实（用户表）|
 | 网站/域名 | visiotechsecurity.com / safirecctv.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 类型 | OEM（闸 2 判定 · 30% 档） | 推断（据兴趣/备注关键词） |
 | 联系人 | Esther Mussons / Purchase@import manager / 有ONV的 / 有人卖他们的 / 好多牌子 国内的也比较多 | 事实（用户表） |
 | 来源（From） | Ifsec UK<br>2023 / 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 有中科德能的<br>1，分销，整个交谈比较专业，女性<br>2，switch price list,商业为主工业为辅<br>工业级处理的少，但是有兴趣<br>3，VC系列，偶尔用analog video<br>4, POE extender<br>4,OEM, 给她看了我电脑上之前总结的OEM案例<br>5，最后问了POE距离，说了大华的800米，她拿了大华的袋子，也问了主要市场和年度销售额 / 主要是CCTV类产品 商业PoE<br>自己的logo / 商业POE / 主要是CCTV类产品 商业POE<br>自己的logo | 事实（用户表） |
@@ -118,11 +120,47 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-29）**　网站状态：
+- **状态：已调研（2026-10-29）**　网站状态：营业中（官网 2026）
 - **是谁**：C 池三闸捞出（★★ 正式）：★★ 首选 · OEM 30%：Visiotech Security S.L.（B80645518；Madrid；自有品牌 Safire / X-Security / Nivian；欧洲多国大分销）坐实；成单 ✔ 曾谈 OEM 交换机 ✔ 自有品牌 ✔ 具名 KP emussons@ ✔ → P 池候选
+- **类型**：OEM（闸 2 判定 · 30% 档）
+- **规模**：大型（欧洲多国分销）
+- **在卖/在用品牌**：Ruijie, Reyee, Uniview
+- **【登记底数 / 官网（闸 2 坐实）】VISIOTECH SECURITY S.L.（visiotechsecurity.com；**官网页脚：CIF B80645518；Calle Alberto Sánchez 31, 28052 Madrid；+ 葡萄牙分部；自称「leading supplier of technological equipment in Europe」；自有品牌 Safire / X-Security / Nivian（+ 分销 Ajax / Uniview / Ruijie-Reyee**
+  > ES · 1 次检索：visiotechsecurity.com/en/（CIF B80645518；Calle Alberto Sánchez 31, 28052 Madrid；品牌 Safire / X-Security / Nivian；Portugal 分部）；2026-10-29
+  > 来源：https://www.visiotechsecurity.com/en/（抓取 2026-10-29）
+- **【闸 1 对位】西班牙 Visiotech（大型安防分销商，自有品牌 Safire，产品中见中科德能）：成单记录 + OEM 交换机合作邮件、31 次跟进 → 欧洲主区 + 自有品牌 + 分销体量 → 闸 2**
+  > 来源：（抓取 2026-10-29）
+- **【长期群复核 LT-R02】桌面复核（闸 2 证据充分，三问成立）：★★ 首选 · OEM 30%：Visiotech Security S.L.（B80645518；Madrid；自有品牌 Safire / X-Security / Nivian；欧洲多国大分销）坐实；成单 ✔ 曾谈 OEM 交换机 ✔ 自有品牌 ✔ 具名 KP emussons@ ✔ → P 池候选**
+  > 来源：（抓取 2026-10-29）
+- **KP**：—（表内邮箱（公开 / 总机））emussons@visiotechsecurity.com 〔〕
+- **KP**：—（表内邮箱（公开 / 总机））comercial@visiotechsecurity.com 〔〕
+- **KP**：—（表内邮箱（公开 / 总机））easyview@safirecctv.com 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★★ 首选 · OEM 30%：Visiotech Security S.L.（B80645518；Madrid；自有品牌 Safire / X-Security / Nivian；欧洲多国大分销）坐实；成单 ✔ 曾谈 OEM 交换机 ✔ 自有品牌 ✔ 具名 KP emussons@ ✔ → P 池候选；闸 1：西班牙 Visiotech（大型安防分销商，自有品牌 Safire，产品中见中科德能）：成单记录 + OEM 交换机合作邮件、31 次跟进 → 欧洲主区 + 自有品牌 + 分销体量 → 闸 2
-- 备注：（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
+- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | VISIOTECH SECURITY S.L. |
+
+- **业务线**：安防 / 网络技术设备大型分销 + 自有品牌（马德里；欧洲多国）
+- **触达通道（公开）**：网站: https://visiotechsecurity.com；直邮: emussons@visiotechsecurity.com，comercial@visiotechsecurity.com，easyview@safirecctv.com（表内）
+- **近况信号**：
+  - 西班牙 Visiotech（大型安防分销商，自有品牌 Safire，产品中见中科德能）：成单记录 + OEM 交换机合作邮件、31 次跟进 → 欧洲主区 + 自有品牌 + 分销体量 → 闸 2
+  - 表内兴趣：有中科德能的
+1，分销，整个交谈比较专业，女性
+2，switch price list,商业为主工业为辅
+工业级处理的少，但是有兴趣
+3，VC系列，偶尔用analog video
+4, POE extender
+4,OEM, 给她看了我电脑上之前总结的OEM案例
+5，最后问了POE距离，说了大华的800米，她拿了大华的袋子，也问了主要市场和年度销售额；主要是CCTV类产品 商业PoE
+自己的logo；商业POE；主要是CCTV类产品 商业POE
+自己的logo
+- **风险/边界**：**成单 + 曾谈 OEM 交换机 → OEM 30% 主线：按 Safire / X-Security 口型复盘（STC-028GP / STC-228GP / STC-2224GP 24 PoE + 2 SFP 丝印彩盒 MOQ + STI 工业线；付费样机）一页纸 + 旧线索点名回访— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买
+- **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -220,6 +258,9 @@ updated: 2026-10-29
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| — | 表内邮箱（公开 / 总机） | emussons@visiotechsecurity.com | 调研核实（公开页） | 调研 |
+| — | 表内邮箱（公开 / 总机） | comercial@visiotechsecurity.com | 调研核实（公开页） | 调研 |
+| — | 表内邮箱（公开 / 总机） | easyview@safirecctv.com | 调研核实（公开页） | 调研 |
 | Esther Mussons | — | emussons@visiotechsecurity.com / comercial@visiotechsecurity.com / +34911883616 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；邮件已推送 31 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
@@ -242,18 +283,17 @@ updated: 2026-10-29
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 24 口 PoE L2+ 走量款 | $145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
+| **P1** | STC-424XGGPM-280W | 深挖对位：默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档） | $180 USD EXW（㉕ ② 群发现价（群发价台账），30% 档公式为 $196.3——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（OEM（闸 2 判定 · 30% 档）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：30% 档 $151.6 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），30% 档公式为 $196.3——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-424DGGPM-280W）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-424XGGPM-280W）；只问一个问题：当前在采购的主力型号与月量。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -263,7 +303,7 @@ updated: 2026-10-29
 
 - **S**：有成交史，信任与开户成本已付；自有品牌/贴牌需求 = 现成 OEM 客户；欧洲主攻区，复购与口碑可外溢
 - **W**：已推送 31 次无回复，邮件通道疲劳
-- **O**：P1 STC-424DGGPM-280W 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；对位其在用/在卖的 中科德能：涨价、断货或交期拉长时切入
+- **O**：P1 STC-424XGGPM-280W 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；对位其在用/在卖的 中科德能：涨价、断货或交期拉长时切入；规模（调研）：大型（欧洲多国分销）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -291,14 +331,14 @@ updated: 2026-10-29
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-424XGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
 
 ```text
 Hi Esther,
 
 Thank you again for your earlier order with us - this is a short update rather than a cold mail.
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGPM-280W - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $180 USD EXW (MOQ 1, 15-day validity).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

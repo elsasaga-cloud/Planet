@@ -1,17 +1,54 @@
 {
  "code": "SC-295",
- "name_official": "inline.uz",
+ "name_official": "OOO «Inline System» — INLINE SYSTEM",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（官网 2026）",
  "summary": "C 池三闸捞出（○ 正式）：○ 集成 25%：OOO «Inline System»（Ташкент, ул. Нукус 89；2011 起；СКС / ВОЛС / 安防 / IP 电话全线集成商；office@inline.uz）部分坐实（ИНН 未取）；在售同口型 2 光 8 ✔ 对位 ✔ 同区 SETKO 成单先例 ✔ → P 池候选（19 推 0 回 → 换稿；预付 100%）",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "集成（闸 2 判定 · 25% 档）",
+ "size": "中型（乌国主要集成商之一）",
+ "brands_seen": [
+  "Yeastar"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "OOO «Inline System» — INLINE SYSTEM（inline.uz；**官网：100015 Ташкент, Мирабадский р-н, ул. Нукус 89；office@inline.uz；+998 71 255-10-78 / 255-31-63；2011 起（版权）；系统集成商：СКС / ЛВС / ВОЛС / Wi-Fi / IP 电话 / 视频会议 / 安防 / 供电，ISO 质量体系；Yeastar / Escene / Y",
+   "quote": "UZ · 1 次检索：inline.uz 首页（法人 / 地址 / 电话 / 邮箱）+ inline.uz/o-kompanii-1（定位 / 业务线）；ИНН 未取；2026-10-29",
+   "url": "https://www.inline.uz/o-kompanii-1",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "乌兹别克斯坦 Inline（inline.uz；表内「工业 FS / SFP / 光猫，好几个牌子，有公司的 2 光 8、nufiber 的」= 在售与公司同口型工业机）：进口中国同类 ✔ 对位 ✔ + 同区先例 SETKO 成单，群发 19 次 0 回 → 闸 2 查底数；低优先",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：○ 集成 25%：OOO «Inline System»（Ташкент, ул. Нукус 89；2011 起；СКС / ВОЛС / 安防 / IP 电话全线集成商；office@inline.uz）部分坐实（ИНН 未取）；在售同口型 2 光 8 ✔ 对位 ✔ 同区 SETKO 成单先例 ✔ → P 池候选（19 推 0 回 → 换稿；预付 100%）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "info@inline.uz",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "office@inline.uz",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 集成 25%：OOO «Inline System»（Ташкент, ул. Нукус 89；2011 起；СКС / ВОЛС / 安防 / IP 电话全线集成商；office@inline.uz）部分坐实（ИНН 未取）；在售同口型 2 光 8 ✔ 对位 ✔ 同区 SETKO 成单先例 ✔ → P 池候选（19 推 0 回 → 换稿；预付 100%）；闸 1：乌兹别克斯坦 Inline（inline.uz；表内「工业 FS / SFP / 光猫，好几个牌子，有公司的 2 光 8、nufiber 的」= 在售与公司同口型工业机）：进口中国同类 ✔ 对位 ✔ + 同区先例 SETKO 成单，群发 …",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +78,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-2216GP",
+   "why": "默认对位（集成 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +93,60 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 集成 25%：OOO «Inline System»（Ташкент, ул. Нукус 89；2011 起；СКС / ВОЛС / 安防 / IP 电话全线集成商；office@inline.uz）部分坐实（ИНН 未取）；在售同口型 2 光 8 ✔ 对位 ✔ 同区 SETKO 成单先例 ✔ → P 池候选（19 推 0 回 → 换稿；预付 100%）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "UZ · 1 次检索：inline.uz 首页（法人 / 地址 / 电话 / 邮箱）+ inline.uz/o-kompanii-1（定位 / 业务线）；ИНН 未取；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.inline.uz/o-kompanii-1"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "OOO «Inline System» — INLINE SYSTEM",
+  "reg_no": "未取（ИНН 未查；法人名坐实）",
+  "status": "营业中（官网 2026）",
+  "incorporated": "2011",
+  "company_type": "OOO",
+  "address": "100015 Ташкент, Мирабадский р-н, ул. Нукус 89",
+  "size_band": "中型（乌国主要集成商之一）",
+  "officers": [
+   "（office@inline.uz 官网公开；具名 KP 未取）"
+  ],
+  "psc": "未取",
+  "source": "UZ · 1 次检索：inline.uz 首页（法人 / 地址 / 电话 / 邮箱）+ inline.uz/o-kompanii-1（定位 / 业务线）；ИНН 未取；2026-10-29",
+  "url": "https://www.inline.uz/o-kompanii-1",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "IT / 电信系统集成 + 设备供应（塔什干）"
+ ],
+ "channels": {
+  "网站": "https://inline.uz",
+  "直邮": "info@inline.uz，office@inline.uz（表内）"
+ },
+ "signals": [
+  "乌兹别克斯坦 Inline（inline.uz；表内「工业 FS / SFP / 光猫，好几个牌子，有公司的 2 光 8、nufiber 的」= 在售与公司同口型工业机）：进口中国同类 ✔ 对位 ✔ + 同区先例 SETKO 成单，群发 19 次 0 回 → 闸 2 查底数；低优先",
+  "表内兴趣：工业FS SFP 光猫 好几个牌子\n有公司的2光8 nufiber的"
+ ],
+ "risks": [
+  "**集成商在售同口型 2 光 8 → 集成 25%：一页纸一次（STC-228GP / STI-288GPM / STC-2224GP + MOQ 1 + 付费样机；同区 SETKO 成单经验）— 乌兹别克常规：预付 100% + FOB 深圳，收款路径待 Simon 定**",
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-2216GP",
+  "tier": 25,
+  "why": "默认对位（集成 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

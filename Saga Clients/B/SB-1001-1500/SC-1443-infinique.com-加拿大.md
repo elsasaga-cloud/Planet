@@ -1,10 +1,11 @@
 # infinique.com
+**官方名称（调研核实）**：Infinique
 
 > **评级 B**　|　加拿大　|　档案编号 `SC-1443`　|　优先级 ★★　|　状态：已推送 16 次·未回复
 >
 > **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ★）：★ 品牌商 · OEM 30%：Infinique（Mississauga ON；2002；11–50；自有品牌安防 + 布线 + 交换机 = ONV 贴牌；迪拜 / 印度分部）部分坐实；对位 ✔ 主区 ✔ OEM ✔ → P 池候选；先换地址　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 16 次（2024-05-11 → 2025-10-17）　|　**所在清单**：A优质名单(Canada)、AI评估(CA)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：OEM（闸 2 判定 · 30% 档）（推断）　|　**历史关系**：推送 16 次（2024-05-11 → 2025-10-17）　|　**所在清单**：A优质名单(Canada)、AI评估(CA)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-1443
@@ -12,12 +13,12 @@ rating: B
 rating_auto: C
 sieve: pool  # 闸 3 P1 2026-10-29
 rating_research: B  # Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 品牌商 · 
-name_official: "infinique.com"
+name_official: "Infinique"
 score: 10
 country: 加拿大
 region: 北美
 website: infinique.com
-type: 经销/集成（类型待核）
+type: OEM（闸 2 判定 · 30% 档）
 tier_tags: ["A优质名单(Canada)", "AI评估(CA)·DONE"]
 deal: no
 replies: 0
@@ -25,8 +26,8 @@ followups: 16
 first_contact: 2024-05-11
 last_contact: 2025-10-17
 s_mail: 24 msgs (out 24 / in 0), 2024-07-03 -> 2026-09-07
-p1: STC-424DGGPM-280W
-price_tier: 20%
+p1: STC-424XGGPM-280W
+price_tier: 30%
 research: done
 site_snapshot: none
 sources: 2
@@ -38,7 +39,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（★ 正式）：★ 品牌商 · OEM 30%：Infinique（Mississauga ON；2002；11–50；自有品牌安防 + 布线 + 交换机 = ONV 贴牌；迪拜 / 印度分部）部分坐实；对位 ✔ 主区 ✔ OEM ✔ → P 池候选；先换地址（调研 2026-10-29；表内兴趣：几乎都是ONV的  不过是刷了他们的logo）
 - **为什么是 B 级**：**调研后定级 B**（Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 品牌商 · OEM 30%：Infinique（Mississauga ON；2002；11–50；自有品牌安防 + 布线 + 交换机 = ONV 贴牌；迪拜 / 印度分部）部分坐实；对位 ✔ 主区 ✔ OEM ✔ → P 池候选；先换地址；闸 1：加拿大 Infinique（几乎都是 ONV 的、刷了他们的 logo = 现成 OEM 买家）：北美主区 + 进口经验 + 自有品牌 OEM（30% 口径）；曾退信但域名正常、16 次跟进无回复 → 闸 2 查底数 + 找新地址）；自动分级 C：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；-25 邮件发不过去且无 WhatsApp 通道；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025；-16 推送 16 次无任何回复（聋名单）
 - **历史互动**：推送 16 次（2024-05-11 → 2025-10-17）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-424DGGPM-280W — 待复核后按业务线定首推型号；
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-424XGGPM-280W — 默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）；
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动：LT-01 复核（待过）后再定 — 长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
@@ -51,12 +52,13 @@ updated: 2026-10-29
 - **现状一句话**：C 池三闸捞出 → B（LT-01）：★ 品牌商 · OEM 30%：Infinique（Mississauga ON；2002；11–50；自有品牌安防 + 布线 + 交换机 = ONV 贴牌；迪拜 / 印度分部）部分坐实；对位 ✔ 主区 ✔ OEM ✔ → P 池候选；先换地址
 - **对方真实需求（有据）**：未知（无往来；复核时从官网 / 进口数据 / 项目推断）
 - **断点 / 为什么停在这里**：无往来（从未触达或仅群发无回）
-- **Saga 现在该推什么**：P1 ****（% 档，价见价格主表）——待复核后按业务线定首推型号
+- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（% 档，价见价格主表）——默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
 - **下一步（具体）**：不动：LT-01 复核（待过）后再定　—　长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ★ 品牌商 · OEM 30%：Infinique（Mississauga ON；2002；11–50；自有品牌安防 + 布线 + 交换机 = ONV 贴牌；迪拜 / 印度分部）部分坐实；对位 ✔ 主区 ✔ OEM ✔ → P 池候选；先换地址 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
+| 2026-10-29 | 查 | Agent 登记底数（registry） | CA · 1 次检索：infinique.com/about-us（Since 2002；Founded in Ontario；switches and media converters；2026-09）+ crunchbase（Infinique Canada；Mississauga；11-50；Founded 2001）+ multinetfze（Dubai 2008 / India 2019）；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -90,7 +92,7 @@ updated: 2026-10-29
 | 名称 | infinique.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 加拿大 | 事实（用户表）|
 | 网站/域名 | infinique.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
+| 类型 | OEM（闸 2 判定 · 30% 档） | 推断（据兴趣/备注关键词） |
 | 联系人 | 发不过去 | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 几乎都是ONV的 <br>不过是刷了他们的logo | 事实（用户表） |
@@ -110,11 +112,38 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-29）**　网站状态：
+- **状态：已调研（2026-10-29）**　网站状态：营业中（官网 2026-09）
 - **是谁**：C 池三闸捞出（★ 正式）：★ 品牌商 · OEM 30%：Infinique（Mississauga ON；2002；11–50；自有品牌安防 + 布线 + 交换机 = ONV 贴牌；迪拜 / 印度分部）部分坐实；对位 ✔ 主区 ✔ OEM ✔ → P 池候选；先换地址
+- **类型**：OEM（闸 2 判定 · 30% 档）
+- **规模**：小型（11–50）
+- **在卖/在用品牌**：ONV
+- **【登记底数 / 官网（闸 2 坐实）】Infinique（infinique.com；**官网 about：2002 年安大略创立（Crunchbase 2001-01-01，Mississauga，11–50）；自有品牌视频监控 + 铜缆 / 光纤布线 + 网络交换机 / MC；2008 迪拜区域办公室、2019 印度技术中心；官网 2026-09 在线**）；Ontario 公司号 1 查未得 → 部分坐实；表内：几乎都是 ONV 的、刷了他们的 logo；sales@ 曾退信但域名正常；16 次跟进无回复**
+  > CA · 1 次检索：infinique.com/about-us（Since 2002；Founded in Ontario；switches and media converters；2026-09）+ crunchbase（Infinique Canada；Mississauga；11-50；Founded 2001）+ multinetfze（Dubai 2008 / India 2019）；2026-10-29
+  > 来源：https://infinique.com/about-us（抓取 2026-10-29）
+- **【闸 1 对位】加拿大 Infinique（几乎都是 ONV 的、刷了他们的 logo = 现成 OEM 买家）：北美主区 + 进口经验 + 自有品牌 OEM（30% 口径）；曾退信但域名正常、16 次跟进无回复 → 闸 2 查底数 + 找新地址**
+  > 来源：（抓取 2026-10-29）
+- **【长期群复核 LT-R02】桌面复核（闸 2 证据充分，三问成立）：★ 品牌商 · OEM 30%：Infinique（Mississauga ON；2002；11–50；自有品牌安防 + 布线 + 交换机 = ONV 贴牌；迪拜 / 印度分部）部分坐实；对位 ✔ 主区 ✔ OEM ✔ → P 池候选；先换地址**
+  > 来源：（抓取 2026-10-29）
+- **KP**：—（表内邮箱（公开 / 总机））sales@infinique.com 〔〕
+- **KP**：—（表内邮箱（公开 / 总机））info@infinique.com 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 品牌商 · OEM 30%：Infinique（Mississauga ON；2002；11–50；自有品牌安防 + 布线 + 交换机 = ONV 贴牌；迪拜 / 印度分部）部分坐实；对位 ✔ 主区 ✔ OEM ✔ → P 池候选；先换地址；闸 1：加拿大 Infinique（几乎都是 ONV 的、刷了他们的 logo = 现成 OEM 买家）：北美主区 + 进口经验 + 自有品牌 OEM（30% 口径）；曾退信但域名正常、16 次跟进无回复 → 闸 2 查底数 + 找新地址
-- 备注：（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
+- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Infinique |
+
+- **业务线**：自有品牌安防 + 布线 + 网络交换机（ONV 贴牌）
+- **触达通道（公开）**：网站: https://infinique.com；直邮: sales@infinique.com，info@infinique.com（表内）
+- **近况信号**：
+  - 加拿大 Infinique（几乎都是 ONV 的、刷了他们的 logo = 现成 OEM 买家）：北美主区 + 进口经验 + 自有品牌 OEM（30% 口径）；曾退信但域名正常、16 次跟进无回复 → 闸 2 查底数 + 找新地址
+  - 表内兴趣：几乎都是ONV的 
+不过是刷了他们的logo
+- **风险/边界**：登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号
+- **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -188,7 +217,8 @@ updated: 2026-10-29
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | sales@infinique.com / info@infinique.com | 用户表原值 | Clients/ 表 |
+| — | 表内邮箱（公开 / 总机） | sales@infinique.com | 调研核实（公开页） | 调研 |
+| — | 表内邮箱（公开 / 总机） | info@infinique.com | 调研核实（公开页） | 调研 |
 
 - **通道建议**：邮件已推送 16 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板；备注含「发不过去」：发送前核对是哪一个地址，退信地址保留不删
 
@@ -205,28 +235,27 @@ updated: 2026-10-29
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 无明确兴趣记录：按 Saga 走量款起手 | $134.5 USD EXW（20% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：20% 档 $139.9 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $181.2——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-424XGGPM-280W | 深挖对位：默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档） | $180 USD EXW（㉕ ② 群发现价（群发价台账），30% 档公式为 $196.3——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（OEM（闸 2 判定 · 30% 档）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：30% 档 $151.6 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424XGGPM-280W 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
 
-- **S**：北美主攻区，复购与口碑可外溢
+- **S**：自有品牌/贴牌需求 = 现成 OEM 客户；北美主攻区，复购与口碑可外溢
 - **W**：已推送 16 次无回复，邮件通道疲劳
-- **O**：P1 STC-424DGGPM-280W 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 ONV：涨价、断货或交期拉长时切入
+- **O**：P1 STC-424XGGPM-280W 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；对位其在用/在卖的 ONV：涨价、断货或交期拉长时切入；规模（调研）：小型（11–50）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -254,14 +283,14 @@ updated: 2026-10-29
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-424XGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
 
 ```text
 Hello,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the ONV class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $134.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGPM-280W - that fits the same slot as the ONV class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $180 USD EXW (MOQ 1, 15-day validity).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

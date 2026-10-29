@@ -1,0 +1,51 @@
+{
+ "code": "XB-C0298",
+ "name": "Colombo CCTV / Advanced Digital Technology",
+ "round": "LT-T01",
+ "researched_at": "2026-10-29",
+ "alive": "域名 camera.lk MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "summary": "Colombo CCTV / Advanced Digital Technology（斯里兰卡）：Hikvision授权分销商（斯里兰卡最大）；总部=No. 408, Galle Road, Wellawatta, Colombo-06",
+ "type_final": "Hikvision授权分销商（斯里兰卡最大）",
+ "size": "",
+ "brands_seen": [
+  "Hikvision"
+ ],
+ "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "Hikvision授权分销商（斯里兰卡最大）；总部=No. 408, Galle Road, Wellawatta, Colombo-06",
+   "quote": "",
+   "url": "https://camera.lk",
+   "date": "2026-09"
+  },
+  {
+   "kind": "长期群复核 LT-R07",
+   "claim": "桌面复核（来源库核对 + 研究卡）：Hikvision授权分销商（斯里兰卡最大）；类型=Hikvision授权分销商（斯里兰卡最大）；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "contacts": {
+  "email": "info@camera.lk",
+  "email_status": "活（来源库 9 月核对）",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "桌面复核（来源库核对 + 研究卡）：Hikvision授权分销商（斯里兰卡最大）；类型=Hikvision授权分销商（斯里兰卡最大）；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "官网快照 + 加厚后进群发分组（Q-77）"
+ },
+ "draft_en": null,
+ "deep": false,
+ "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+}

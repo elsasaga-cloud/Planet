@@ -20,6 +20,7 @@
 import argparse
 import datetime as _dt
 import difflib
+import glob
 import hashlib
 import html as _html
 import json
@@ -745,6 +746,28 @@ def append_log(path, title, changes, errors, n_sources):
             f.write(f'- 本轮抓取失败 {len(errors)}：' + '；'.join(errors[:40]) + ('…' if len(errors) > 40 else '') + '\n')
 
 
+def snapshot_missing(elapsed):
+    """T29-U131：巡检后顺手补抓长期客户群（Saga + External + Planet 仓 A/B）缺失 / 失败的官网快照。
+    沙箱访问不了客户网站，只有 Actions 运行器能抓；清单 = Saga entities A/B（site_snapshot.py 原生）+ data/长期客户群_补快照清单_*.json
+    （External / Planet 仓）。时间预算 = 60 分钟 − 巡检已用时间（工作流上限 90 分钟），跑不完下次接着跑（已成功的不重抓）。"""
+    budget = int(60 * 60 - elapsed)
+    if budget < 300:
+        print(f'snapshot_missing: 预算不足（{budget}s）→ 跳过')
+        return
+    lists = sorted(glob.glob(os.path.join(ROOT, 'data', '长期客户群_补快照清单_*.json')))
+    env = dict(os.environ, GRADES='A,B', FORCE='0', GIT_COMMIT='0', WORKERS='12', COMMIT_EVERY='0', TIME_BUDGET=str(budget),
+               EXTRA_SITES=lists[-1] if lists else '')
+    try:
+        subprocess.run([sys.executable, '-m', 'pip', 'install', '-q', 'beautifulsoup4', 'lxml'], cwd=ROOT, check=False, timeout=300)
+    except Exception as e:
+        print('pip bs4 failed (fallback to regex parser):', e)
+    print(f'snapshot_missing: budget {budget}s, extra list {os.path.basename(env["EXTRA_SITES"]) if env["EXTRA_SITES"] else "—"}', flush=True)
+    try:
+        subprocess.run([sys.executable, os.path.join(ROOT, 'scripts', 'saga_clients', 'site_snapshot.py')], cwd=ROOT, env=env, check=False, timeout=budget + 600)
+    except Exception as e:
+        print('snapshot_missing failed:', e)
+
+
 def git_commit(msg):
     if not os.environ.get('GITHUB_ACTIONS'):
         print('not in GitHub Actions → skip commit')
@@ -766,6 +789,7 @@ def git_commit(msg):
     sh('git', 'config', 'user.name', 'smartbyte-archiver[bot]')
     sh('git', 'config', 'user.email', '41898282+github-actions[bot]@users.noreply.github.com')
     sh('git', 'add', '-A', os.path.relpath(OUT, ROOT))
+    sh('git', 'add', '-A', 'data/saga_clients/site_snapshots')  # T29-U131：巡检后补抓的官网快照一起提交
     r = subprocess.run(['git', 'commit', '-q', '-m', msg], cwd=ROOT, check=False)
     if r.returncode != 0:
         print('nothing to commit')
@@ -789,6 +813,7 @@ def main(argv=None):
     ap.add_argument('--workers', type=int, default=WORKERS)
     ap.add_argument('--no-commit', action='store_true')
     ap.add_argument('--selftest', action='store_true')
+    ap.add_argument('--no-snapshot', action='store_true', help='不补抓 A/B 官网快照（默认在 Actions 里巡检后顺手补抓）')
     args = ap.parse_args(argv)
     if args.selftest:
         return selftest()
@@ -865,6 +890,8 @@ def main(argv=None):
         append_log(os.path.join(OUT, '变化日志_P.md'), 'P 级 / 资产池 · 动态监控 · 变化日志', changes_by_layer['P'], errors_by_layer['P'], n_sources['P'])
     write_status(load_config({'成单', 'A', 'B', 'P'}), state, changes_by_layer)
     print(f'{TS} customers={len(customers)} sources={sum(n_sources.values())} changed_or_flagged={tot_changes} errors={tot_err} elapsed={time.time() - t0:.0f}s')
+    if os.environ.get('GITHUB_ACTIONS') and not args.no_snapshot:
+        snapshot_missing(time.time() - t0)
     if not args.no_commit:
         # 提交信息里按「源」计数（只数顶层条目，不数缩进的 diff 明细行；2026-10-23 07:03Z 修：此前把明细行也算进去，06:51Z 轮显示 55 实为 11 个源）
         n_top = {k: sum(1 for x in v if not x.startswith((' ', '###'))) for k, v in changes_by_layer.items()}

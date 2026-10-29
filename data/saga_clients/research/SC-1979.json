@@ -1,17 +1,50 @@
 {
  "code": "SC-1979",
- "name_official": "switchquang.com.vn",
+ "name_official": "Công Ty TNHH Công Nghệ Mạng Viễn Thông Thanh Bình",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（目录 2023）",
  "summary": "C 池三闸捞出（○ 正式）：○ 越南 · 进口分销 20%：Công Ty TNHH Công Nghệ Mạng Viễn Thông Thanh Bình – switchquang（Hà Nội Hai Bà Trưng；MST 0108196975；2018；进口 3onedata / Optone / Allied Telesis / DCN 等；客户 Viettel / Mobifone / EVN）坐实；越南先例 ✔ 多品牌进口 ✔ 全线对位 ✔；…",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "进口分销（闸 2 判定 · 20% 档）",
+ "size": "微型（5–10 人）",
+ "brands_seen": [
+  "ONV",
+  "Allied Telesis",
+  "Advantech"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Công Ty TNHH Công Nghệ Mạng Viễn Thông Thanh Bình（switchquang.com / switchquang.com.vn；**MST 0108196975；Số 37, ngõ 130, đường Nguyễn Khoái, Phường Thanh Lương, Quận Hai Bà Trưng, Hà Nội；2018 成立；5–10 人；0856 888 666；info@switchquang.com；进口分销 ",
+   "quote": "VN · 1 次检索：trangvangtructuyen（MST / 地址 / 电话 / 邮箱 / 品牌 / 客户）+ niengiamtrangvang（人数）；2026-10-29",
+   "url": "https://trangvangtructuyen.vn/cong-ty-tnhh-cong-nghe-mang-vien-thong-thanh-binh.html",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "越南 Switch Quang / Thanh Bình Technology（switchquang.com.vn 正常；gmail；ONV、三旺 ✔；VC / 工业 FS / SFP / PoE / 串口 / MC 全线；8 推 0 回）：点名中国品牌 ✔ 越南先例 ✔ 全线对位 ✔ 可达 ✔ → 闸 2 查底数（MST）后换稿一页纸；VC 本职线并行",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：○ 越南 · 进口分销 20%：Công Ty TNHH Công Nghệ Mạng Viễn Thông Thanh Bình – switchquang（Hà Nội Hai Bà Trưng；MST 0108196975；2018；进口 3onedata / Optone / Allied Telesis / DCN 等；客户 Viettel / Mobifone / EVN）坐实；越南先…",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "thanhbinhtechnology@gmail.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 越南 · 进口分销 20%：Công Ty TNHH Công Nghệ Mạng Viễn Thông Thanh Bình – switchquang（Hà Nội Hai Bà Trưng；MST 0108196975；2018；进口 3onedata / Optone / Allied Telesis / DCN 等；客户 Viettel / Mobifone / EVN）坐实；越南…；闸 1：越南 Switch Quang / Thanh Bình Technology（switchquang.com.vn 正常；gmail；ONV、三旺 ✔；VC / 工业 FS / SFP / PoE / 串口 / MC 全线；8 推 0 …",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +74,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（进口分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +89,56 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 越南 · 进口分销 20%：Công Ty TNHH Công Nghệ Mạng Viễn Thông Thanh Bình – switchquang（Hà Nội Hai Bà Trưng；MST 0108196975；2018；进口 3onedata / Optone / Allied Telesis / DCN 等；客户 Viettel / Mobifone / EVN）坐实；越南先例 ✔ 多品牌进口 ✔ 全线对位 ✔；8 推 0 回 → 换稿仅一次 → P 池候选",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "VN · 1 次检索：trangvangtructuyen（MST / 地址 / 电话 / 邮箱 / 品牌 / 客户）+ niengiamtrangvang（人数）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://trangvangtructuyen.vn/cong-ty-tnhh-cong-nghe-mang-vien-thong-thanh-binh.html"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Công Ty TNHH Công Nghệ Mạng Viễn Thông Thanh Bình",
+  "reg_no": "0108196975（MST）",
+  "status": "营业中（目录 2023）",
+  "incorporated": "2018",
+  "company_type": "Công ty TNHH",
+  "address": "Số 37, ngõ 130, đường Nguyễn Khoái, Thanh Lương, Hai Bà Trưng, Hà Nội",
+  "size_band": "微型（5–10 人）",
+  "officers": [
+   "（法定代表人未取）"
+  ],
+  "psc": "未取",
+  "source": "VN · 1 次检索：trangvangtructuyen（MST / 地址 / 电话 / 邮箱 / 品牌 / 客户）+ niengiamtrangvang（人数）；2026-10-29",
+  "url": "https://trangvangtructuyen.vn/cong-ty-tnhh-cong-nghe-mang-vien-thong-thanh-binh.html",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "电信 / 光 / 工业网络设备进口分销（河内 Hai Bà Trưng）"
+ ],
+ "channels": {
+  "网站": "https://switchquang.com.vn",
+  "直邮": "thanhbinhtechnology@gmail.com（表内）"
+ },
+ "signals": [
+  "越南 Switch Quang / Thanh Bình Technology（switchquang.com.vn 正常；gmail；ONV、三旺 ✔；VC / 工业 FS / SFP / PoE / 串口 / MC 全线；8 推 0 回）：点名中国品牌 ✔ 越南先例 ✔ 全线对位 ✔ 可达 ✔ → 闸 2 查底数（MST）后换稿一页纸；VC 本职线并行",
+  "表内兴趣：ONV 三旺\nVC 工业FS SFP POE 串口 MC"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（进口分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

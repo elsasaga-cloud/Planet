@@ -1,0 +1,1493 @@
+{
+ "_meta": {
+  "checked": "2026-10-29",
+  "source": "DNS MX/A 查询（dnspython，沙箱解析器）",
+  "domains": 112,
+  "status_counts": {
+   "ok": 101,
+   "error:LifetimeTimeout": 8,
+   "no_mx": 2,
+   "nxdomain": 1
+  }
+ },
+ "domains": {
+  "4power.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.4power.it"
+    ]
+   ],
+   "status": "ok"
+  },
+  "abptech.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "aspmx2.googlemail.com"
+    ],
+    [
+     10,
+     "aspmx3.googlemail.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "absolon.cz": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "absolon-cz.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "acceed.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mxext1.mailbox.org"
+    ],
+    [
+     10,
+     "mxext2.mailbox.org"
+    ],
+    [
+     20,
+     "mxext3.mailbox.org"
+    ]
+   ],
+   "status": "ok"
+  },
+  "accesspoint.hu": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "accesspoint-hu.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "aikomtech.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "ASPMX.L.GOOGLE.com"
+    ],
+    [
+     5,
+     "ALT1.ASPMX.L.GOOGLE.com"
+    ],
+    [
+     5,
+     "ALT2.ASPMX.L.GOOGLE.com"
+    ],
+    [
+     10,
+     "ALT3.ASPMX.L.GOOGLE.com"
+    ],
+    [
+     10,
+     "ALT4.ASPMX.L.GOOGLE.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "akcaba.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "alarmsysteemexpert.nl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "anatronic.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "aspmx.l.google.com"
+    ],
+    [
+     20,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     20,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     30,
+     "aspmx2.googlemail.com"
+    ],
+    [
+     30,
+     "aspmx3.googlemail.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "aplus-sa.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     5,
+     "aplussa-com01c.mail.eo.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "aspectis.hu": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "aspectis-hu.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "avstek.fi": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "mx1.ovh.net"
+    ],
+    [
+     5,
+     "mx2.ovh.net"
+    ],
+    [
+     100,
+     "mxb.ovh.net"
+    ]
+   ],
+   "status": "ok"
+  },
+  "ballicom.co.uk": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "ballicom-co-uk.mail.protection.outlook.com"
+    ],
+    [
+     10,
+     "aspmx.l.google.com"
+    ],
+    [
+     20,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     20,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     30,
+     "aspmx2.googlemail.com"
+    ],
+    [
+     30,
+     "aspmx3.googlemail.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "bimel.com.tr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "smtp.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "bizsyscon.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "bizsyscon-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "cartronic.es": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "ASPMX.L.GOOGLE.COM"
+    ],
+    [
+     20,
+     "ALT1.ASPMX.L.GOOGLE.COM"
+    ],
+    [
+     20,
+     "ALT2.ASPMX.L.GOOGLE.COM"
+    ],
+    [
+     30,
+     "ALT3.ASPMX.L.GOOGLE.COM"
+    ],
+    [
+     30,
+     "ALT4.ASPMX.L.GOOGLE.COM"
+    ]
+   ],
+   "status": "ok"
+  },
+  "cctv.net": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.zoho.com"
+    ],
+    [
+     20,
+     "mx2.zoho.com"
+    ],
+    [
+     50,
+     "mx3.zoho.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "ciudadwireless.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "correo.ciudadwireless.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "cmsplc.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "cmsplc-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "coeldistribution.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     20,
+     "coeldistribution-it.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "compass-distribution.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "esva.spazio011.it"
+    ]
+   ],
+   "status": "ok"
+  },
+  "compmarket.hu": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     5,
+     "webmail.compmarket.hu"
+    ]
+   ],
+   "status": "ok"
+  },
+  "connectdata.fr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "connectdata-fr.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "connectec.uk": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "ctr.pl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "ctr.home.pl"
+    ]
+   ],
+   "status": "ok"
+  },
+  "cyberbajt.pl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.cyberbajt.pl"
+    ]
+   ],
+   "status": "ok"
+  },
+  "danbit.dk": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "danbit.dk.mx.one.com"
+    ],
+    [
+     10,
+     "danbit.dk.mx.one.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "data-connect.com ": {
+   "checked": "2026-10-29",
+   "status": "error:LifetimeTimeout"
+  },
+  "digitx.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.digitx.it"
+    ]
+   ],
+   "status": "ok"
+  },
+  "direktronik.se": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "direktronik-se.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "ditecom.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.serviciodecorreo.es"
+    ]
+   ],
+   "status": "ok"
+  },
+  "edox.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "edox-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "eltrox.pl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "e-commercepartners.home.pl"
+    ]
+   ],
+   "status": "ok"
+  },
+  "epcom.net": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "ergenelektronik.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.ergenelektronik.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "europ-computer.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.europ-computer.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "fen.pl ": {
+   "checked": "2026-10-29",
+   "status": "error:LifetimeTimeout"
+  },
+  "fiberworks.no": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "fiberworks-no.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "fonex.pl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx-1.dpoczta.pl"
+    ],
+    [
+     10,
+     "mx-2.dpoczta.pl"
+    ]
+   ],
+   "status": "ok"
+  },
+  "gatewaycomunicaciones.es": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.gatewaycomunicaciones.es"
+    ]
+   ],
+   "status": "ok"
+  },
+  "gelecekbt.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "mail.gelecekbt.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "globall.ca": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.spamexperts.com"
+    ],
+    [
+     20,
+     "fallbackmx.spamexperts.eu"
+    ],
+    [
+     30,
+     "astmx.spamexperts.net"
+    ]
+   ],
+   "status": "ok"
+  },
+  "intermedia.pt": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx1.intermedia.pt"
+    ]
+   ],
+   "status": "ok"
+  },
+  "ioctech.ca": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "mx.easymail.ca"
+    ]
+   ],
+   "status": "ok"
+  },
+  "ipc2u.de ": {
+   "checked": "2026-10-29",
+   "status": "error:LifetimeTimeout"
+  },
+  "itamtech.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "itamtech-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "itm-components.co.uk": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "itmcomponents-co-uk0i.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "jampel.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "jampel-it.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "jlinks.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx1.biz.mail.yahoo.com"
+    ],
+    [
+     20,
+     "mx5.biz.mail.yahoo.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "jpfidistribution.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "mx4.mail.ovh.net"
+    ],
+    [
+     10,
+     "mx3.mail.ovh.net"
+    ]
+   ],
+   "status": "ok"
+  },
+  "kamerovysvet.cz": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mxavas.forpsi.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "klinger.fi": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "Klinger-fi.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "kyma.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.kyma.it"
+    ]
+   ],
+   "status": "ok"
+  },
+  "lan.hu": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "lan-hu.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "lancomat.cz": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "lancomat-cz.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "leteng.no": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "leteng-no.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "linhawstore.com": {
+   "checked": "2026-10-29",
+   "a": [
+    "104.21.58.121",
+    "172.67.159.140"
+   ],
+   "status": "no_mx"
+  },
+  "losan.cz": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "losan-cz.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "lwl-shop24.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "dedi6633.your-server.de"
+    ]
+   ],
+   "status": "ok"
+  },
+  "marcomweb.it（商店 shop.marcomweb.it）": {
+   "checked": "2026-10-29",
+   "status": "error:LifetimeTimeout"
+  },
+  "marugged.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "media-konwertery.pl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "mx1.iq.pl"
+    ],
+    [
+     5,
+     "mail.iq.pl"
+    ]
+   ],
+   "status": "ok"
+  },
+  "microdata.fi": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.microdata.fi"
+    ]
+   ],
+   "status": "ok"
+  },
+  "microsam.ca": {
+   "checked": "2026-10-29",
+   "status": "nxdomain"
+  },
+  "millsltd.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "eu-smtp-inbound-1.mimecast.com"
+    ],
+    [
+     10,
+     "eu-smtp-inbound-2.mimecast.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "multiproject.com.pl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.multiproject.com.pl"
+    ]
+   ],
+   "status": "ok"
+  },
+  "nassaunationalcable.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "aspmx2.googlemail.com"
+    ],
+    [
+     10,
+     "aspmx3.googlemail.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "neteon.net ": {
+   "checked": "2026-10-29",
+   "status": "error:LifetimeTimeout"
+  },
+  "netram.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "netram-de.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "netwalker.fr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "vade-mx-fr01.hornetsecurity.com"
+    ],
+    [
+     10,
+     "vade-mx-fr02.hornetsecurity.com"
+    ],
+    [
+     20,
+     "vade-mx-eu-fallback01.hornetsecurity.com"
+    ],
+    [
+     20,
+     "vade-mx-eu-fallback02.hornetsecurity.com"
+    ],
+    [
+     30,
+     "d43.securatis.fr"
+    ],
+    [
+     30,
+     "t19.securatis.fr"
+    ]
+   ],
+   "status": "ok"
+  },
+  "networkcamerastore.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "networkcamerastore-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "noktaelektronik.net": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.noktaelektronik.net"
+    ]
+   ],
+   "status": "ok"
+  },
+  "nsidistribution.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "nsidistribution-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "oksa.co.uk": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.zoho.com"
+    ],
+    [
+     20,
+     "mx2.zoho.com"
+    ],
+    [
+     50,
+     "mx3.zoho.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "oprema.co.uk": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "oprema-co-uk.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "paragonnetworks.co.uk": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "smtp-in.iomartmail.com"
+    ],
+    [
+     20,
+     "mta1.iomartmail.com"
+    ],
+    [
+     30,
+     "mta2.iomartmail.com"
+    ],
+    [
+     40,
+     "mta3.iomartmail.com"
+    ],
+    [
+     50,
+     "mta4.iomartmail.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "pcvcomp.cz": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "pcvcomp-cz.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "planet-germany.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "planetgermany-de01e.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "planet.spectra.de ": {
+   "checked": "2026-10-29",
+   "status": "error:LifetimeTimeout"
+  },
+  "powerbizt.hu": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "powerbizt-hu.mail.protection.outlook.com"
+    ],
+    [
+     30,
+     "backup.powerbizt.hu"
+    ]
+   ],
+   "status": "ok"
+  },
+  "proficomms.cz": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "relay.zoner.com"
+    ],
+    [
+     10,
+     "10mx.zoner.com"
+    ],
+    [
+     15,
+     "15mx.zoner.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "provu.co.uk": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "provu-co-uk.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "pulsesupply.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "mail.pulsesupply.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "redcorp.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "aspmx.l.google.com"
+    ],
+    [
+     20,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     20,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     30,
+     "aspmx2.googlemail.com"
+    ],
+    [
+     30,
+     "aspmx3.googlemail.com"
+    ],
+    [
+     30,
+     "aspmx4.googlemail.com"
+    ],
+    [
+     30,
+     "aspmx5.googlemail.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "rfog.pl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.rfog.pl"
+    ],
+    [
+     10,
+     "rfog.pl"
+    ]
+   ],
+   "status": "ok"
+  },
+  "rimaelektronik.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.zoho.eu"
+    ],
+    [
+     20,
+     "mx2.zoho.eu"
+    ],
+    [
+     30,
+     "mx3.zoho.eu"
+    ]
+   ],
+   "status": "ok"
+  },
+  "saratota.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "saratota-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "screenmoove.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "screenmoove-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "senetic.pl ": {
+   "checked": "2026-10-29",
+   "status": "error:LifetimeTimeout"
+  },
+  "shop.fiber24.net": {
+   "checked": "2026-10-29",
+   "a": [
+    "104.21.11.93",
+    "172.67.165.182"
+   ],
+   "status": "no_mx"
+  },
+  "shop4power.nl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "shop4power-nl.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "sirtel.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx1.ot-mail.it"
+    ],
+    [
+     20,
+     "mailbox15.omitech.it"
+    ]
+   ],
+   "status": "ok"
+  },
+  "sistel-networking.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.sistel-networking.it"
+    ]
+   ],
+   "status": "ok"
+  },
+  "softcom.cz": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail2.softcom.cz"
+    ],
+    [
+     20,
+     "mail1.softcom.cz"
+    ],
+    [
+     25,
+     "mail.softcom.cz"
+    ]
+   ],
+   "status": "ok"
+  },
+  "solimedia.net": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "aspmx2.googlemail.com"
+    ],
+    [
+     10,
+     "aspmx3.googlemail.com"
+    ],
+    [
+     25,
+     "smtp.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "soundpeople.no": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "soundpeople-no.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "switchsfp.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "switchsfp-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "technicalreality.co.uk": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "technicalreality-co-uk.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "telecomcreations.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "telecomcreations-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "triotronik.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "triotronik-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "unifibre.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.register.it"
+    ]
+   ],
+   "status": "ok"
+  },
+  "ute.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx00.ionos.de"
+    ],
+    [
+     10,
+     "mx01.ionos.de"
+    ]
+   ],
+   "status": "ok"
+  },
+  "versim.pl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "versim-pl.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "vise.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "aspmx.l.google.com"
+    ],
+    [
+     20,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     20,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     50,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     50,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "visualcontrolsystems.co.uk": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "voip.world": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx01.mxgate.org"
+    ],
+    [
+     20,
+     "mx02.mxgate.org"
+    ]
+   ],
+   "status": "ok"
+  },
+  "voip24sklep.pl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.voip24sklep.pl"
+    ]
+   ],
+   "status": "ok"
+  },
+  "w3cam.fr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ],
+    [
+     100,
+     "alt2.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "wavonline.com ": {
+   "checked": "2026-10-29",
+   "status": "error:LifetimeTimeout"
+  },
+  "wisp.pl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "www.allnet.pl"
+    ]
+   ],
+   "status": "ok"
+  },
+  "woodcomm.ie": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "hcs-ie-1.fortimailcloud.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "young.hu": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "young-hu.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  }
+ }
+}

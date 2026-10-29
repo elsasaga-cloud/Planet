@@ -1,17 +1,46 @@
 {
  "code": "SC-1916",
- "name_official": "vigilworld.com",
+ "name_official": "VIgIL — M/s Udaya Security Vision",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（官网）",
  "summary": "C 池三闸捞出（○ 正式）：○ 印度 · 自有品牌安防商 OEM 30%：VIgIL – M/s Udaya Security Vision（Cuttack, Odisha；CCTV 自有品牌 22 年；vigil_usv@yahoo.co.in）部分坐实（GST 未取）；印度先例 ✔ 自有品牌 ✔ hisource PoE 现供 ✔ → P 池候选（仅 yahoo 邮箱）",
- "type": "",
- "size": "",
+ "type": "自有品牌安防商 OEM（闸 2 判定 · 30% 档）",
+ "size": "小型",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "VIgIL — M/s Udaya Security Vision（vigilworld.com；**VIgIL Tower, Mahatab Road, Cuttack, Odisha；vigil_usv@yahoo.co.in；奥里萨邦 CCTV 自有品牌 VIgIL「manufacturer – supplier – service provider」22 年**）；GST / 法人形式未取；表内：PoE switch 用 hisource 的 ✔",
+   "quote": "IN · 1 次检索：vigilworld.com/contact-us（法人名 / 地址 / 邮箱 / 业务）；GST 未取；2026-10-29",
+   "url": "https://vigilworld.com/contact-us/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "印度 Vigil（vigilworld.com no_mx；vigil_usv@yahoo.co.in；PoE switch，hisource 的 ✔）：点名中国品牌 ✔ 印度先例 ✔ 对位 ✔ 可达 ✔ → 闸 2 查底数（MCA 镜像）后一页纸",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：○ 印度 · 自有品牌安防商 OEM 30%：VIgIL – M/s Udaya Security Vision（Cuttack, Odisha；CCTV 自有品牌 22 年；vigil_usv@yahoo.co.in）部分坐实（GST 未取）；印度先例 ✔ 自有品牌 ✔ hisource PoE 现供 ✔ → P 池候选（仅 yahoo 邮箱）；备注：自有品牌 22 年，现供 hisource → OEM 切入；仅 yahoo 邮箱 → 预付 100%",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "vigil_usv@yahoo.co.in",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 印度 · 自有品牌安防商 OEM 30%：VIgIL – M/s Udaya Security Vision（Cuttack, Odisha；CCTV 自有品牌 22 年；vigil_usv@yahoo.co.in）部分坐实（GST 未取）；印度先例 ✔ 自有品牌 ✔ hisource PoE 现供 ✔ → P 池候选（仅 yahoo 邮箱）；闸 1：印度 Vigil（vigilworld.com no_mx；vigil_usv@yahoo.co.in；PoE switch，hisource 的 ✔）：点名中国品牌 ✔ 印度先例 ✔ 对位 ✔ 可达 ✔ → 闸 2 查底数（MCA 镜像…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +70,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（自有品牌安防商 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +85,59 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ 印度 · 自有品牌安防商 OEM 30%：VIgIL – M/s Udaya Security Vision（Cuttack, Odisha；CCTV 自有品牌 22 年；vigil_usv@yahoo.co.in）部分坐实（GST 未取）；印度先例 ✔ 自有品牌 ✔ hisource PoE 现供 ✔ → P 池候选（仅 yahoo 邮箱）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "IN · 1 次检索：vigilworld.com/contact-us（法人名 / 地址 / 邮箱 / 业务）；GST 未取；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://vigilworld.com/contact-us/"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "VIgIL — M/s Udaya Security Vision",
+  "reg_no": "未取（GST 未查；官网坐实商号 + 地址）",
+  "status": "营业中（官网）",
+  "incorporated": "未取（约 2000 年「22 年前」）",
+  "company_type": "未取（疑 Proprietorship / Partnership）",
+  "address": "VIgIL Tower, Mahatab Road, Cuttack, Odisha",
+  "size_band": "小型",
+  "officers": [
+   "（具名 KP 未取；官网 Contact 仅 yahoo 邮箱）"
+  ],
+  "psc": "未取",
+  "source": "IN · 1 次检索：vigilworld.com/contact-us（法人名 / 地址 / 邮箱 / 业务）；GST 未取；2026-10-29",
+  "url": "https://vigilworld.com/contact-us/",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "CCTV 自有品牌制造 + 供应 + 服务（卡塔克）"
+ ],
+ "channels": {
+  "网站": "https://vigilworld.com",
+  "直邮": "vigil_usv@yahoo.co.in（表内）"
+ },
+ "signals": [
+  "印度 Vigil（vigilworld.com no_mx；vigil_usv@yahoo.co.in；PoE switch，hisource 的 ✔）：点名中国品牌 ✔ 印度先例 ✔ 对位 ✔ 可达 ✔ → 闸 2 查底数（MCA 镜像）后一页纸",
+  "表内兴趣：POE switch"
+ ],
+ "risks": [
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（自有品牌安防商 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

@@ -2,16 +2,45 @@
  "code": "SC-364",
  "name_official": "EasyWind GmbH",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（2024 展会参展）",
  "summary": "C 池三闸捞出（△ 观察）：△ 观察档 · 成单回访：EasyWind GmbH（Enge-Sande；小型风机制造商；RTS 成单 4 台 MC 自用）坐实；成单 ✔ 主区 ✔ 对位 ✔ ≥2 条 → 入池观察档，复购体量低 → Simon 定",
- "type": "",
- "size": "",
+ "type": "自用（闸 2 判定 · 25% 档）",
+ "size": "小型（推定）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "EasyWind GmbH（easywind.org；**ee-sh.de / wind-turbine-models / bds-sh：Lecker Straße 7（Gebäude 2c），25917 Enge-Sande（GreenTEC Campus）；2008 年起小型风机（6 kW）制造商，全球 300+ 台；+49 4662 88431-0；联系人 Hans-Günter Feddersen**）；HRB 未取；表内：阿里巴巴 RTS 成单 4 台 1 光 4 ",
+   "quote": "DE · 1 次检索：ee-sh.de 能源地图（地址 / 电话 / Feddersen）+ wind-turbine-models（制造商档案）+ bds-sh（2008；300+ 台）；HRB 未取；2026-10-29",
+   "url": "https://ee-sh.de/de/energymap/data/EasyWind-GmbH.php",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "德国 EasyWind GmbH（easywind.org；阿里巴巴 RTS 成单：4 台 1 光 4 电小壳非 PoE）：德国主区 + 成单 ✔ + 对位 ✔ ≥2 条；WA 加不上 → 闸 2 查底数 + 回访",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R01",
+   "claim": "EasyWind GmbH（Enge-Sande 小型风机制造商；RTS 成单 4 台 MC 自用）：终端自用，复购低但已成单 → 留 B（普通跟 = 只走群发 / 新品通知，零成本）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "produktion@easywind.org",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · 成单回访：EasyWind GmbH（Enge-Sande；小型风机制造商；RTS 成单 4 台 MC 自用）坐实；成单 ✔ 主区 ✔ 对位 ✔ ≥2 条 → 入池观察档，复购体量低 → Simon 定；闸 1：德国 EasyWind GmbH（easywind.org；阿里巴巴 RTS 成单：4 台 1 光 4 电小壳非 PoE）：德国主区 + 成单 ✔ + 对位 ✔ ≥2 条；WA 加不上 → 闸 2 查底数 + 回访",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +70,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-2216GP",
+   "why": "默认对位（自用 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +85,61 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "△ 观察档 · 成单回访：EasyWind GmbH（Enge-Sande；小型风机制造商；RTS 成单 4 台 MC 自用）坐实；成单 ✔ 主区 ✔ 对位 ✔ ≥2 条 → 入池观察档，复购体量低 → Simon 定",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "DE · 1 次检索：ee-sh.de 能源地图（地址 / 电话 / Feddersen）+ wind-turbine-models（制造商档案）+ bds-sh（2008；300+ 台）；HRB 未取；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://ee-sh.de/de/energymap/data/EasyWind-GmbH.php"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "EasyWind GmbH",
+  "reg_no": "未取（HRB 1 查未得）",
+  "status": "营业中（2024 展会参展）",
+  "incorporated": "2008",
+  "company_type": "GmbH",
+  "address": "Lecker Straße 7, Gebäude 2c, 25917 Enge-Sande",
+  "size_band": "小型（推定）",
+  "officers": [
+   "Hans-Günter Feddersen — 联系人（能源地图）",
+   "（produktion@easywind.org 表内 = 成单对接邮箱）"
+  ],
+  "psc": "未取",
+  "source": "DE · 1 次检索：ee-sh.de 能源地图（地址 / 电话 / Feddersen）+ wind-turbine-models（制造商档案）+ bds-sh（2008；300+ 台）；HRB 未取；2026-10-29",
+  "url": "https://ee-sh.de/de/energymap/data/EasyWind-GmbH.php",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "小型风力发电机制造（终端自用网络设备）"
+ ],
+ "channels": {
+  "网站": "https://easywind.org",
+  "直邮": "produktion@easywind.org（表内）"
+ },
+ "signals": [
+  "德国 EasyWind GmbH（easywind.org；阿里巴巴 RTS 成单：4 台 1 光 4 电小壳非 PoE）：德国主区 + 成单 ✔ + 对位 ✔ ≥2 条；WA 加不上 → 闸 2 查底数 + 回访",
+  "表内兴趣：RTS/4个1光4小壳 非POE"
+ ],
+ "risks": [
+  "**成单回访（终端自用 25%）：按原单回访一次（同款 MC 复购 + 风机机舱工业级 STI-154GP 升级建议；MOQ 1）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；体量小不加码",
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-2216GP",
+  "tier": 25,
+  "why": "默认对位（自用 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

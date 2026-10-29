@@ -1,17 +1,46 @@
 {
  "code": "SC-465",
- "name_official": "avtech.com.tw",
+ "name_official": "陞泰科技股份有限公司 AV TECH CORPORATION",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "域名 avtech.com.tw（官网快照待 Actions 补抓）",
  "summary": "C 池三闸捞出（★ 正式）：★ 上市监控品牌 · OEM 30%（长线）：陞泰科技 AV TECH CORPORATION（新北三重；統編 97092770；上市 8072；1996；實收 NT$8 億；代表人 陳世忠）坐实；自有品牌 ✔ 对位 ✔ 坐实 ✔ → P 池候选（长线）",
- "type": "",
- "size": "",
+ "type": "OEM（闸 2 判定 · 30% 档）",
+ "size": "大型（上市；實收 NT$8 億）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "陞泰科技股份有限公司 AV TECH CORPORATION（avtech.com.tw；**統編 97092770；上市 8072；設立 1996-06-26；實收資本 NT$8 億；代表人 陳世忠；新北市三重區中興北街 193-2 號；02-2655-3866；登记信箱 lydia.lin@avtech.com.tw；出進口廠商登記 1996-08-29**）；表内：上市监控品牌，自有 PoE 配套中国代工",
+   "quote": "TW · 1 次检索：twincn.com/item.aspx?no=97092770（統編 / 上市 / 代表人 / 地址）+ findcompany（資本 / 登记信箱）；2026-10-29",
+   "url": "https://twincn.com/item.aspx?no=97092770",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "台湾 AVTECH（avtech.com.tw；自有品牌 CCTV，表内「商业 PoE 很像帧田的」= 配套 PoE 外购中国）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔；未触达 → 闸 2 查底数（twincn）；四主区外，低优先",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：★ 上市监控品牌 · OEM 30%（长线）：陞泰科技 AV TECH CORPORATION（新北三重；統編 97092770；上市 8072；1996；實收 NT$8 億；代表人 陳世忠）坐实；自有品牌 ✔ 对位 ✔ 坐实 ✔ → P 池候选（长线）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "marketing@avtech.com.tw",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 上市监控品牌 · OEM 30%（长线）：陞泰科技 AV TECH CORPORATION（新北三重；統編 97092770；上市 8072；1996；實收 NT$8 億；代表人 陳世忠）坐实；自有品牌 ✔ 对位 ✔ 坐实 ✔ → P 池候选（长线）；闸 1：台湾 AVTECH（avtech.com.tw；自有品牌 CCTV，表内「商业 PoE 很像帧田的」= 配套 PoE 外购中国）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔；未触达 → 闸 2 查底数（twincn）；四主…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +70,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +85,57 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 上市监控品牌 · OEM 30%（长线）：陞泰科技 AV TECH CORPORATION（新北三重；統編 97092770；上市 8072；1996；實收 NT$8 億；代表人 陳世忠）坐实；自有品牌 ✔ 对位 ✔ 坐实 ✔ → P 池候选（长线）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "TW · 1 次检索：twincn.com/item.aspx?no=97092770（統編 / 上市 / 代表人 / 地址）+ findcompany（資本 / 登记信箱）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://twincn.com/item.aspx?no=97092770"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "陞泰科技股份有限公司 AV TECH CORPORATION",
+  "reg_no": "97092770（統編）",
+  "status": "核准設立（上市 8072）",
+  "incorporated": "1996-06-26",
+  "company_type": "股份有限公司（上市）",
+  "address": "新北市三重區中興北街 193-2 號",
+  "size_band": "大型（上市；實收 NT$8 億）",
+  "officers": [
+   "陳世忠 — 代表人 / 董事長",
+   "lydia.lin@avtech.com.tw — 登记信箱（findcompany）"
+  ],
+  "psc": "未取",
+  "source": "TW · 1 次检索：twincn.com/item.aspx?no=97092770（統編 / 上市 / 代表人 / 地址）+ findcompany（資本 / 登记信箱）；2026-10-29",
+  "url": "https://twincn.com/item.aspx?no=97092770",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "视频监控设备制造（新北三重）"
+ ],
+ "channels": {
+  "网站": "https://avtech.com.tw",
+  "直邮": "marketing@avtech.com.tw（表内）"
+ },
+ "signals": [
+  "台湾 AVTECH（avtech.com.tw；自有品牌 CCTV，表内「商业 PoE 很像帧田的」= 配套 PoE 外购中国）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔；未触达 → 闸 2 查底数（twincn）；四主区外，低优先",
+  "表内兴趣：商业PoE 很像帧田的"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

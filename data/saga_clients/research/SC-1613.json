@@ -1,17 +1,39 @@
 {
  "code": "SC-1613",
- "name_official": "origo-networks.ru",
+ "name_official": "ORIGO Networks",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（新闻 2025-09）",
  "summary": "C 池三闸捞出（★ 正式）：★ 俄罗斯 · 自有品牌商 OEM 30%（长线）：ORIGO Networks（origo-networks.ru 官网直取：L3 24×2.5G PoE / CCTV PoE 交换机 / Wi-Fi 6 / 10G MC 全线自有品牌；2025-05 参展 COMPUTEX、2025-09 L3 取证）部分坐实（ИНН 未取，联系页 404）；Simon「自己的白色外壳 / 比较重要」✔ 对位 ✔ → P 池候选（官网找 sale…",
- "type": "",
- "size": "",
+ "type": "自有品牌商 OEM（闸 2 判定 · 30% 档）",
+ "size": "中型（全线产品 + 参展 COMPUTEX）",
  "brands_seen": [],
- "evidence": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "ORIGO Networks（origo-networks.ru；**官网首页 2026-10-29 直取：自有品牌 ORIGO 全线 —— L3 交换机 OS5230P+/370W（24×2.5G PoE + 6×10G SFP+）、CCTV PoE 交换机（250 m 供电）、OS3228 / OS3254 L3 交换机 2025-09-11 取得通信设备合格证、Wi-Fi 6 Mesh 路由器 OWR3030AXM、10G 媒体转换器 OMCG03LC；新闻：2025-",
+   "quote": "RU · 官网首页直取（产品线 / 新闻 2025）；ИНН 未取（联系页 404）；2026-10-29",
+   "url": "https://origo-networks.ru/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "俄罗斯 ORIGO Networks（origo-networks.ru 正常；Simon：「自己的白色外壳，有人在卖他们的」「比较重要」；无邮箱 / 无电话）：自有品牌交换机商 = OEM 对象 ✔ 俄罗斯点名区 ✔ 对位 ✔ Simon 标重要 ✔ → 闸 2 查底数（rusprofile / checko）+ 官网找 sales 路径；无路径则回 C 待巡检；收款 / 物流待 Simon",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：★ 俄罗斯 · 自有品牌商 OEM 30%（长线）：ORIGO Networks（origo-networks.ru 官网直取：L3 24×2.5G PoE / CCTV PoE 交换机 / Wi-Fi 6 / 10G MC 全线自有品牌；2025-05 参展 COMPUTEX、2025-09 L3 取证）部分坐实（ИНН 未取，联系页 404）；Simon「自己的白色外壳 / 比较重要」✔ 对位…",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
  "kp": [],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 俄罗斯 · 自有品牌商 OEM 30%（长线）：ORIGO Networks（origo-networks.ru 官网直取：L3 24×2.5G PoE / CCTV PoE 交换机 / Wi-Fi 6 / 10G MC 全线自有品牌；2025-05 参展 COMPUTEX、2025-09 L3 取证）部分坐实（ИНН 未取，联系页 404）；Simon「自己的白色外壳 / 比较重要」✔ 对…；闸 1：俄罗斯 ORIGO Networks（origo-networks.ru 正常；Simon：「自己的白色外壳，有人在卖他们的」「比较重要」；无邮箱 / 无电话）：自有品牌交换机商 = OEM 对象 ✔ 俄罗斯点名区 ✔ 对位 ✔ Simo…",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +63,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（自有品牌商 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +78,57 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 俄罗斯 · 自有品牌商 OEM 30%（长线）：ORIGO Networks（origo-networks.ru 官网直取：L3 24×2.5G PoE / CCTV PoE 交换机 / Wi-Fi 6 / 10G MC 全线自有品牌；2025-05 参展 COMPUTEX、2025-09 L3 取证）部分坐实（ИНН 未取，联系页 404）；Simon「自己的白色外壳 / 比较重要」✔ 对位 ✔ → P 池候选（官网找 sales@；收款待定）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "RU · 官网首页直取（产品线 / 新闻 2025）；ИНН 未取（联系页 404）；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://origo-networks.ru/"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "ORIGO Networks",
+  "reg_no": "未取（ИНН 未查；品牌站在营坐实）",
+  "status": "营业中（新闻 2025-09）",
+  "incorporated": "未取",
+  "company_type": "未取（ООО 待核）",
+  "address": "未取（官网未列）",
+  "size_band": "中型（全线产品 + 参展 COMPUTEX）",
+  "officers": [],
+  "psc": "未取",
+  "source": "RU · 官网首页直取（产品线 / 新闻 2025）；ИНН 未取（联系页 404）；2026-10-29",
+  "url": "https://origo-networks.ru/",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "网络设备自有品牌（交换机 / 路由 / MC），俄罗斯"
+ ],
+ "channels": {
+  "网站": "https://origo-networks.ru"
+ },
+ "signals": [
+  "俄罗斯 ORIGO Networks（origo-networks.ru 正常；Simon：「自己的白色外壳，有人在卖他们的」「比较重要」；无邮箱 / 无电话）：自有品牌交换机商 = OEM 对象 ✔ 俄罗斯点名区 ✔ 对位 ✔ Simon 标重要 ✔ → 闸 2 查底数（rusprofile / checko）+ 官网找 sales 路径；无路径则回 C 待巡检；收款 / 物流待 Simon",
+  "表内兴趣：自己的白色外壳 \n有人在卖他们的"
+ ],
+ "risks": [
+  "**俄罗斯 · 自有品牌商 OEM 30%（长线）：官网产品页找 sales@ / 采购后一页纸（STC-028GP $28 / STC-2224GP $86 / STC-424XGGPM-280W $198 中性包装 + 贴 ORIGO 牌；他们已有 2.5G L3 线 → 推 SmartByte / Marvell 管理线差异）— 俄语区常规：英 / 俄稿、20 / 25 / 30；收款 / ",
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（自有品牌商 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

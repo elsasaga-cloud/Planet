@@ -1,0 +1,51 @@
+{
+ "code": "XB-M078",
+ "name": "TAKOPI GEORGIA（smart-network.ge）",
+ "round": "LT-T01",
+ "researched_at": "2026-10-29",
+ "alive": "域名 smart-network.ge 无解析（DNS 2026-10-29）→ 路径待核",
+ "summary": "TAKOPI GEORGIA（smart-network.ge）（格鲁吉亚）：分销（MikroTik 官方）；MikroTik（Master+VAD）",
+ "type_final": "分销（MikroTik 官方）",
+ "size": "",
+ "brands_seen": [
+  "MikroTik"
+ ],
+ "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "分销（MikroTik 官方）",
+   "quote": "",
+   "url": "https://smart-network.ge",
+   "date": "2026-10-12"
+  },
+  {
+   "kind": "长期群复核 LT-R07",
+   "claim": "桌面复核（来源库核对 + 研究卡）：分销（MikroTik 官方）；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "contacts": {
+  "email": "info@takopi.ge",
+  "email_status": "活（来源库 9 月核对）",
+  "kp": []
+ },
+ "touch_status": "S 箱 2026-10-07 去信 1 / 来信 0（24 Port PoE Managed Switch）",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "桌面复核（来源库核对 + 研究卡）：分销（MikroTik 官方）；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "官网快照 + 加厚后进群发分组（Q-77）"
+ },
+ "draft_en": null,
+ "deep": false,
+ "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+}

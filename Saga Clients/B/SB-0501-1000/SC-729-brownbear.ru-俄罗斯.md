@@ -1,10 +1,11 @@
 # brownbear.ru
+**官方名称（调研核实）**：Brown Bear
 
 > **评级 B**　|　俄罗斯　|　档案编号 `SC-729`　|　优先级 ★★　|　状态：名单内·未触达
 >
 > **C 池筛选：△ P 池 · 观察档（疑点（制裁 / 国别 / 主体 / 收款）核清后转正或退回 C）**（闸 3 · 2026-10-29）：△ P 池观察档（档位 △，复查批 G2R-01 → 补证 G2R-02）：○ 俄罗斯 · 安防 / 网络设备批发 20%：brownbear.ru 对应法人 ИНН 9728025085 / ОГРН 1217700015807（Москва，2021 登记；类目：安防系统、网络设备、电缆、电信设备）第三方聚合页部分坐实（官网页脚未直取 → reg_pending 复核）；Planet 渠道 ✔ 对位 ✔ order@ 路径 ✔；年轻公司 + 收款待定 → 预付 100%｜补证 G2R-02（2026-10-29）：ИНН 9728025085 官方登记对应 ООО «Мицар»（ОГРН 1217700015807，Москва，2021-01-22，电子 / 电信设备批发，ГД Немецков П.С.，УК 50 000 ₽）—— 类目吻合但与 brownbear.ru 的关联只有聚合页一处，官方页未证实 → 法人名待核，○ 正式转 △ 观察；试单 / 回信拿到合同主体即转正　|　标签：ru_payment、prepay、legal_pending
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(Russia)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：安防 / 网络设备批发（闸 2 判定 · 20% 档）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(Russia)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-729
@@ -12,19 +13,19 @@ rating: B
 rating_auto: C
 sieve: pool_watch  # 闸 3 P1 2026-10-29
 rating_research: B  # Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：闸 2 回 C：
-name_official: "brownbear.ru"
+name_official: "Brown Bear"
 score: 17
 country: 俄罗斯
 region: 俄语区
 website: brownbear.ru
-type: 经销/集成（类型待核）
+type: 安防 / 网络设备批发（闸 2 判定 · 20% 档）
 tier_tags: ["群发(Russia)"]
 deal: no
 replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STI-288DGGPM
+p1: STC-228GP
 price_tier: 20%
 research: done
 site_snapshot: none
@@ -37,7 +38,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（△ 观察）：闸 2 回 C：Brown Bear（brownbear.ru）1 查仅同名 ООО «Браун» 他户 → 未坐实；Planet 渠道 ✔ 但法人未取 → 回 C 储备（调研 2026-10-29；表内兴趣：工业FS MC Planet的）
 - **为什么是 B 级**：**调研后定级 B**（Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：闸 2 回 C：Brown Bear（brownbear.ru）1 查仅同名 ООО «Браун» 他户 → 未坐实；Planet 渠道 ✔ 但法人未取 → 回 C 储备；闸 1：俄罗斯 Brown Bear（brownbear.ru；工业 FS / MC Planet 的）：进口台湾同类 ✔ 对位 ✔ Simon 点名俄罗斯；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先）；自动分级 C：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STI-288DGGPM — 待复核后按业务线定首推型号；
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-228GP — 默认对位（安防 / 网络设备批发 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）；
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动：LT-01 复核（待过）后再定 — 长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
@@ -50,12 +51,13 @@ updated: 2026-10-29
 - **现状一句话**：C 池三闸捞出 → B（LT-01）：闸 2 回 C：Brown Bear（brownbear.ru）1 查仅同名 ООО «Браун» 他户 → 未坐实；Planet 渠道 ✔ 但法人未取 → 回 C 储备
 - **对方真实需求（有据）**：未知（无往来；复核时从官网 / 进口数据 / 项目推断）
 - **断点 / 为什么停在这里**：无往来（从未触达或仅群发无回）
-- **Saga 现在该推什么**：P1 ****（% 档，价见价格主表）——待复核后按业务线定首推型号
+- **Saga 现在该推什么**：P1 **STC-228GP**（% 档，价见价格主表）——默认对位（安防 / 网络设备批发 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）
 - **下一步（具体）**：不动：LT-01 复核（待过）后再定　—　长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | 闸 2 回 C：Brown Bear（brownbear.ru）1 查仅同名 ООО «Браун» 他户 → 未坐实；Planet 渠道 ✔ 但法人未取 → 回 C 储备 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
+| 2026-10-29 | 查 | Agent 登记底数（registry） | RU · 1 次检索：focus.kontur / birweb / saby 同名户均非本域 → 未坐实；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -88,7 +90,7 @@ updated: 2026-10-29
 | 名称 | brownbear.ru（取自域名，公司全名待核） | 推断 |
 | 国家 | 俄罗斯 | 事实（用户表）|
 | 网站/域名 | brownbear.ru | 事实（用户表 URL/邮箱域名） |
-| 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
+| 类型 | 安防 / 网络设备批发（闸 2 判定 · 20% 档） | 推断（据兴趣/备注关键词） |
 | 联系人 | 销售平台 | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 工业FS MC Planet的 | 事实（用户表） |
@@ -98,11 +100,36 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-29）**　网站状态：
+- **状态：已调研（2026-10-29）**　网站状态：域名 brownbear.ru（官网快照待 Actions 补抓）
 - **是谁**：C 池三闸捞出（△ 观察）：闸 2 回 C：Brown Bear（brownbear.ru）1 查仅同名 ООО «Браун» 他户 → 未坐实；Planet 渠道 ✔ 但法人未取 → 回 C 储备
+- **类型**：安防 / 网络设备批发（闸 2 判定 · 20% 档）
+- **规模**：未取
+- **在卖/在用品牌**：PLANET
+- **【登记底数 / 官网（闸 2 坐实）】Brown Bear（brownbear.ru；**1 查仅返回同名 ООО «Браун» 三户（ИНН 7743403838 / 4500006897 / 7730325981）均与域名无关 → 法人未取**）；表内：工业 FS / MC Planet 的；未触达**
+  > RU · 1 次检索：focus.kontur / birweb / saby 同名户均非本域 → 未坐实；2026-10-29
+  > 来源：（抓取 2026-10-29）
+- **【闸 1 对位】俄罗斯 Brown Bear（brownbear.ru；工业 FS / MC Planet 的）：进口台湾同类 ✔ 对位 ✔ Simon 点名俄罗斯；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先**
+  > 来源：（抓取 2026-10-29）
+- **【长期群复核 LT-R03】桌面复核（闸 2 证据，三问成立）：○ 俄罗斯 · 安防 / 网络设备批发 20%：brownbear.ru 对应法人 ИНН 9728025085 / ОГРН 1217700015807（Москва，2021 登记；类目：安防系统、网络设备、电缆、电信设备）第三方聚合页部分坐实（官网页脚未直取 → reg_pending 复核）；Planet 渠道 ✔ 对位 ✔ order@ 路径 ✔；年轻公司 + 收款待定 → 预付 100…；备注：业务清晰（安防 / 网络设备批发，Planet 渠道）；仅法人聚合页待直取 → reg_pending 不影响留 B；俄罗斯收款待定**
+  > 来源：（抓取 2026-10-29）
+- **KP**：—（表内邮箱（公开 / 总机））order@brownbear.ru 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：闸 2 回 C：Brown Bear（brownbear.ru）1 查仅同名 ООО «Браун» 他户 → 未坐实；Planet 渠道 ✔ 但法人未取 → 回 C 储备；闸 1：俄罗斯 Brown Bear（brownbear.ru；工业 FS / MC Planet 的）：进口台湾同类 ✔ 对位 ✔ Simon 点名俄罗斯；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先
-- 备注：（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
+- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Brown Bear |
+
+- **业务线**：网络设备分销（俄）
+- **触达通道（公开）**：网站: https://brownbear.ru；直邮: order@brownbear.ru（表内）
+- **近况信号**：
+  - 俄罗斯 Brown Bear（brownbear.ru；工业 FS / MC Planet 的）：进口台湾同类 ✔ 对位 ✔ Simon 点名俄罗斯；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先
+  - 表内兴趣：工业FS MC Planet的
+- **风险/边界**：**未坐实 → 回 C 储备；来信再起则官网 Реквизиты 页补查 + 预付 100%**；登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号
+- **Saga 对位结论**：P1 STC-228GP（20% 档）——默认对位（安防 / 网络设备批发 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -135,7 +162,7 @@ updated: 2026-10-29
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | order@brownbear.ru | 用户表原值 | Clients/ 表 |
+| — | 表内邮箱（公开 / 总机） | order@brownbear.ru | 调研核实（公开页） | 调研 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -151,17 +178,18 @@ updated: 2026-10-29
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：20% 档 $139.9 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 20%（经销/集成（类型待核）） |
+| **P1** | STC-228GP | 深挖对位：默认对位（安防 / 网络设备批发 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档） | $33.2 USD EXW（HRUI Realtek 线：洪瑞 2026-09-30 成本 + 20%（列表价 $30.8 隐含加价低于底线，第 73 批口径）；见 data/价格主表_HRUI.csv；汇率 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（安防 / 网络设备批发（闸 2 判定 · 20% 档）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $181.2——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：20% 档 $139.9 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $181.2——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-228GP），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288DGGPM 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-228GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -171,7 +199,7 @@ updated: 2026-10-29
 
 - **S**：名单内已有联系记录，不是零起点
 - **W**：俄语区：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STI-288DGGPM 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 Planet：涨价、断货或交期拉长时切入
+- **O**：P1 STC-228GP 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 Planet：涨价、断货或交期拉长时切入；规模（调研）：未取
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -199,14 +227,14 @@ updated: 2026-10-29
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-228GP - 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (neutral label)
 
 ```text
 Hello,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
 
-We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the Planet class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $137.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply an 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (unmanaged, 120 W, PoE watchdog) - model STC-228GP - that fits the same slot as the Planet class you work with at a lower landed cost, and we can ship it with neutral packaging. Current price: $33.2 USD EXW (valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

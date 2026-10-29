@@ -1,17 +1,48 @@
 {
  "code": "SC-656",
- "name_official": "100mega.cz",
+ "name_official": "100MEGA Distribution s.r.o.",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（商事登记 2026-01）",
  "summary": "C 池三闸捞出（★ 正式）：★ 大分销 20%：100MEGA Distribution s.r.o.（Brno；IČO 60707968；1994；捷克主要 IT 分销商）坐实；Planet 渠道 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔ = 冷户四条 → P 池候选（长线；找网络线产品经理）",
- "type": "",
- "size": "",
- "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "type": "大分销（闸 2 判定 · 20% 档）",
+ "size": "中型 / 大型（捷克主要 IT 分销）",
+ "brands_seen": [
+  "PLANET"
+ ],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "100MEGA Distribution s.r.o.（100mega.cz；**kurzy / finmag：IČO 60707968；DIČ CZ60707968；1994-05-24 成立；Železná 681/7, Horní Heršpice, 619 00 Brno；数据箱 8xtdkfn；捷克大型 IT 分销商**）；表内：主要是 Planet 的；名单内未触达",
+   "quote": "CZ · 1 次检索：rejstrik-firem.kurzy.cz（IČO / 地址 / 成立）+ finmag 商事 + 营业执照登记；2026-10-29",
+   "url": "https://www.finmag.cz/obchodni-rejstrik/60707968-100mega-distribution-s-r-o",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "捷克 100MEGA（100mega.cz；主要是 Planet 的 = 捷克 IT 分销主体）：欧洲 + Planet 渠道 + 对位 ✔；名单内未触达 → 闸 2 查底数",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R02",
+   "claim": "桌面复核（闸 2 证据充分，三问成立）：★ 大分销 20%：100MEGA Distribution s.r.o.（Brno；IČO 60707968；1994；捷克主要 IT 分销商）坐实；Planet 渠道 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔ = 冷户四条 → P 池候选（长线；找网络线产品经理）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "info@100mega.cz",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 大分销 20%：100MEGA Distribution s.r.o.（Brno；IČO 60707968；1994；捷克主要 IT 分销商）坐实；Planet 渠道 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔ = 冷户四条 → P 池候选（长线；找网络线产品经理）；闸 1：捷克 100MEGA（100mega.cz；主要是 Planet 的 = 捷克 IT 分销主体）：欧洲 + Planet 渠道 + 对位 ✔；名单内未触达 → 闸 2 查底数",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +72,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（大分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +87,59 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "★ 大分销 20%：100MEGA Distribution s.r.o.（Brno；IČO 60707968；1994；捷克主要 IT 分销商）坐实；Planet 渠道 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔ = 冷户四条 → P 池候选（长线；找网络线产品经理）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "CZ · 1 次检索：rejstrik-firem.kurzy.cz（IČO / 地址 / 成立）+ finmag 商事 + 营业执照登记；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://www.finmag.cz/obchodni-rejstrik/60707968-100mega-distribution-s-r-o"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "100MEGA Distribution s.r.o.",
+  "reg_no": "60707968（IČO）",
+  "status": "营业中（商事登记 2026-01）",
+  "incorporated": "1994-05-24",
+  "company_type": "s.r.o.",
+  "address": "Železná 681/7, Horní Heršpice, 619 00 Brno",
+  "size_band": "中型 / 大型（捷克主要 IT 分销）",
+  "officers": [
+   "（info@100mega.cz 表内总邮箱；网络线产品经理 KP 待 LinkedIn）"
+  ],
+  "psc": "未取",
+  "source": "CZ · 1 次检索：rejstrik-firem.kurzy.cz（IČO / 地址 / 成立）+ finmag 商事 + 营业执照登记；2026-10-29",
+  "url": "https://www.finmag.cz/obchodni-rejstrik/60707968-100mega-distribution-s-r-o",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "IT / 网络产品大分销（布尔诺）"
+ ],
+ "channels": {
+  "网站": "https://100mega.cz",
+  "直邮": "info@100mega.cz（表内）"
+ },
+ "signals": [
+  "捷克 100MEGA（100mega.cz；主要是 Planet 的 = 捷克 IT 分销主体）：欧洲 + Planet 渠道 + 对位 ✔；名单内未触达 → 闸 2 查底数",
+  "表内兴趣：主要是planet的"
+ ],
+ "risks": [
+  "**Planet 渠道大分销 → 分销 20%（长线）：一页纸一次（STC-228GP / STC-2224GP / STC-424XGGM 对标 Planet 同口型 + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（大分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

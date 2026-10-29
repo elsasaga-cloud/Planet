@@ -1,17 +1,58 @@
 {
  "code": "SC-284",
- "name_official": "dcbnet.com",
+ "name_official": "Data Comm for Business, Inc. — DCB",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "SAM.gov Active（至 2027-07-08）",
  "summary": "C 池三闸捞出（△ 观察）：△ 观察档 · OEM 30%：Data Comm for Business, Inc.（Dewey IL 1981；SAM.gov UEI YX2BCLJKZ456 有效至 2027；自研数据通信设备；联邦交通客户）坐实；自有型号 ✔ 主区 ✔ 对位 ✔ 但联邦 TAA 门槛 → 入池观察档",
- "type": "",
- "size": "",
+ "type": "OEM（闸 2 判定 · 30% 档）",
+ "size": "小型（1–50）",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "Data Comm for Business, Inc. — DCB（dcbnet.com；**GovTribe / SAM.gov：UEI YX2BCLJKZ456、CAGE 0GGX7，注册 2002-02-04，有效至 2027-07-08；2949 County Road 1000 E, Dewey IL 61840（+ Plano TX 办公室）；1981 年创立；1–10 / 11–50 人；营收估 $1–10M；NAICS 334210 电话设备制造；联邦交通领",
+   "quote": "US · 1 次检索：govtribe（UEI / CAGE / SAM 有效期 / 地址 / 1981）+ linkedin（11–50；Plano）+ rocketreach；IL SoS 未取；2026-10-29",
+   "url": "https://govtribe.com/vendors/data-comm-for-business-incorporated-0ggx7",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "美国 DCB（Data Comm for Business；有自己一套型号、产品多、「感觉还行」）：美国主区 + 自有品牌网络设备（推定部分贴牌）→ 闸 2 查底数；19 推 0 回",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R01",
+   "claim": "Data Comm for Business, Inc.（Dewey IL 1981；SAM.gov UEI 有效；自研数据通信设备；联邦交通客户）：自有型号 ✔ 对位 ✔ 主区 ✔；联邦 TAA 门槛 → 只做其非联邦 / 商业线，长线",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "mgadel@dcbnet.com",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "rpeterson@dcbnet.com",
+   "phone": ""
+  },
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "jmccain@dcbnet.com",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · OEM 30%：Data Comm for Business, Inc.（Dewey IL 1981；SAM.gov UEI YX2BCLJKZ456 有效至 2027；自研数据通信设备；联邦交通客户）坐实；自有型号 ✔ 主区 ✔ 对位 ✔ 但联邦 TAA 门槛 → 入池观察档；闸 1：美国 DCB（Data Comm for Business；有自己一套型号、产品多、「感觉还行」）：美国主区 + 自有品牌网络设备（推定部分贴牌）→ 闸 2 查底数；19 推 0 回",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +82,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-424XGGPM-280W",
+   "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +97,61 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "△ 观察档 · OEM 30%：Data Comm for Business, Inc.（Dewey IL 1981；SAM.gov UEI YX2BCLJKZ456 有效至 2027；自研数据通信设备；联邦交通客户）坐实；自有型号 ✔ 主区 ✔ 对位 ✔ 但联邦 TAA 门槛 → 入池观察档",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "US · 1 次检索：govtribe（UEI / CAGE / SAM 有效期 / 地址 / 1981）+ linkedin（11–50；Plano）+ rocketreach；IL SoS 未取；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://govtribe.com/vendors/data-comm-for-business-incorporated-0ggx7"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "Data Comm for Business, Inc. — DCB",
+  "reg_no": "UEI YX2BCLJKZ456 / CAGE 0GGX7",
+  "status": "SAM.gov Active（至 2027-07-08）",
+  "incorporated": "1981",
+  "company_type": "Inc.",
+  "address": "2949 County Road 1000 E, Dewey, IL 61840",
+  "size_band": "小型（1–50）",
+  "officers": [
+   "Brad Boles — VP Sales & Systems",
+   "Dan Smith — VP Sales",
+   "mgadel@dcbnet.com / rpeterson@dcbnet.com（表内具名；职务未取）"
+  ],
+  "psc": "未取",
+  "source": "US · 1 次检索：govtribe（UEI / CAGE / SAM 有效期 / 地址 / 1981）+ linkedin（11–50；Plano）+ rocketreach；IL SoS 未取；2026-10-29",
+  "url": "https://govtribe.com/vendors/data-comm-for-business-incorporated-0ggx7",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "数据通信设备自研 + 集成（串口 / 加密 / SCADA；联邦客户）"
+ ],
+ "channels": {
+  "网站": "https://dcbnet.com",
+  "直邮": "mgadel@dcbnet.com，rpeterson@dcbnet.com，jmccain@dcbnet.com（表内）"
+ },
+ "signals": [
+  "美国 DCB（Data Comm for Business；有自己一套型号、产品多、「感觉还行」）：美国主区 + 自有品牌网络设备（推定部分贴牌）→ 闸 2 查底数；19 推 0 回",
+  "表内兴趣：有自己一套型号 产品比较多\n感觉还行"
+ ],
+ "risks": [
+  "**自研厂商 + 联邦客户（TAA 门槛）→ OEM 30% 观察：一页纸一次（STI-154GP 工业 PoE 作其 SCADA 配套 + 丝印 MOQ；不提 NDAA / TAA）— 北美常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳 / DAP（买方清关）；周三 08–10 当地**；联邦项目不碰"
+ ],
+ "saga_fit": {
+  "p1": "STC-424XGGPM-280W",
+  "tier": 30,
+  "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }

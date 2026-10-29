@@ -1,0 +1,52 @@
+{
+ "code": "XB-C0051",
+ "name": "ThaiCCTVShop / ANA System（曼谷）",
+ "round": "LT-T01",
+ "researched_at": "2026-10-29",
+ "alive": "域名 thaicctvshop.com MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓",
+ "summary": "ThaiCCTVShop / ANA System（曼谷）（泰国）：Hikvision/Dahua PoE；地址=79/54 Thanon Chaeng Watthana, Bang Khen, BKK 10220；开发策略=泰国CCTV专业分销；置信度=★★★★★",
+ "type_final": "Hikvision/Dahua PoE",
+ "size": "",
+ "brands_seen": [
+  "Hikvision",
+  "Dahua"
+ ],
+ "saga_line": "STC 项目集成款（25% 档：STC-2216GP / STC-228GP）",
+ "fit": "",
+ "evidence": [
+  {
+   "kind": "来源库官网/名录核对",
+   "claim": "Hikvision/Dahua PoE；地址=79/54 Thanon Chaeng Watthana, Bang Khen, BKK 10220；开发策略=泰国CCTV专业分销；置信度=★★★★★",
+   "quote": "",
+   "url": "https://thaicctvshop.com",
+   "date": "2026-09"
+  },
+  {
+   "kind": "长期群复核 LT-R07",
+   "claim": "桌面复核（来源库核对 + 研究卡）：C类 — Hikvision/Dahua PoE；类型=C类 — Hikvision/Dahua PoE；品牌=Hikvision (DS-3E0318P-E/DS-3E0109P-E)；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "contacts": {
+  "email": "info@thaicctvshop.com",
+  "email_status": "活（来源库 9 月核对）",
+  "kp": []
+ },
+ "touch_status": "S 箱 9–10 月群发名单未见本域 → 未触达",
+ "saga_overlap": "无",
+ "grade_final": "B",
+ "grade_reason_final": "桌面复核（来源库核对 + 研究卡）：C类 — Hikvision/Dahua PoE；类型=C类 — Hikvision/Dahua PoE；品牌=Hikvision (DS-3E0318P-E/DS-3E0109P-E)；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））",
+ "next_move": {
+  "action": "不动",
+  "angle": "",
+  "model": "",
+  "price": "",
+  "window": "",
+  "when": "官网快照 + 加厚后进群发分组（Q-77）"
+ },
+ "draft_en": null,
+ "deep": false,
+ "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+}

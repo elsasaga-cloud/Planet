@@ -1,10 +1,11 @@
 # a-secur.com
+**官方名称（调研核实）**：Leistung S.L.U.
 
 > **评级 B**　|　西班牙　|　档案编号 `SC-2452`　|　优先级 ★★　|　状态：已推送 15 次·未回复
 >
 > **C 池筛选：○ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ○）：○ 贴牌渠道 · 分销 20% / OEM 30%：A-SECUR = Leistung S.L.U.（Mos, Pontevedra；11–50；安防批发 + 自有线 Movok；ONV / Utepo 页面）部分坐实（CIF 未取）；进口经验 ✔ 欧洲 ✔ 对位 ✔ 自有线 ✔ → P 池候选；Simon 曾判不行，可否决　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
-> **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：推送 15 次（2024-04-02 → 2025-10-02）　|　**所在清单**：A优质名单(Spain)、AI评估(ES)·DONE、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：分销（闸 2 判定 · 20% 档）（推断）　|　**历史关系**：推送 15 次（2024-04-02 → 2025-10-02）　|　**所在清单**：A优质名单(Spain)、AI评估(ES)·DONE、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-2452
@@ -12,12 +13,12 @@ rating: B
 rating_auto: C
 sieve: pool  # 闸 3 P1 2026-10-29
 rating_research: B  # Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 贴牌渠道 ·
-name_official: "a-secur.com"
+name_official: "Leistung S.L.U."
 score: -20
 country: 西班牙
 region: 欧洲
 website: a-secur.com
-type: 品牌商/贴牌需求（OEM/ODM）
+type: 分销（闸 2 判定 · 20% 档）
 tier_tags: ["A优质名单(Spain)", "AI评估(ES)·DONE", "用户判定不行"]
 deal: no
 replies: 0
@@ -25,8 +26,8 @@ followups: 15
 first_contact: 2024-04-02
 last_contact: 2025-10-02
 s_mail: 23 msgs (out 23 / in 0), 2024-06-30 -> 2026-09-30
-p1: STC-424DGGPM-280W
-price_tier: 30%
+p1: STC-228GP
+price_tier: 20%
 research: done
 site_snapshot: none
 sources: 3
@@ -38,7 +39,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（○ 正式）：○ 贴牌渠道 · 分销 20% / OEM 30%：A-SECUR = Leistung S.L.U.（Mos, Pontevedra；11–50；安防批发 + 自有线 Movok；ONV / Utepo 页面）部分坐实（CIF 未取）；进口经验 ✔ 欧洲 ✔ 对位 ✔ 自有线 ✔ → P 池候选；Simon 曾判不行，可否决（调研 2026-10-29；表内兴趣：商业POE为主 工业FS  ONV的 也有Utepo的；商业POE为主 工业FS  自己的logo）
 - **为什么是 B 级**：**调研后定级 B**（Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 贴牌渠道 · 分销 20% / OEM 30%：A-SECUR = Leistung S.L.U.（Mos, Pontevedra；11–50；安防批发 + 自有线 Movok；ONV / Utepo 页面）部分坐实（CIF 未取）；进口经验 ✔ 欧洲 ✔ 对位 ✔ 自有线 ✔ → P 池候选；Simon 曾判不行，可否决；闸 1：西班牙 A-Secur（安防分销商，ONV / Utepo 页面，早期 AI 50% A）→ 主区 + 贴牌渠道；15 推 0 回；Simon 判不行 → 闸 2 查底数）；自动分级 C：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-60 用户已归入「不行及不太相关的」；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/西班牙；+5 最近活动 2025；-16 推送 15 次无任何回复（聋名单）
 - **历史互动**：推送 15 次（2024-04-02 → 2025-10-02）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-424DGGPM-280W — 待复核后按业务线定首推型号；
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-228GP — 默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）；
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动：LT-01 复核（待过）后再定 — 长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
@@ -51,12 +52,13 @@ updated: 2026-10-29
 - **现状一句话**：C 池三闸捞出 → B（LT-01）：○ 贴牌渠道 · 分销 20% / OEM 30%：A-SECUR = Leistung S.L.U.（Mos, Pontevedra；11–50；安防批发 + 自有线 Movok；ONV / Utepo 页面）部分坐实（CIF 未取）；进口经验 ✔ 欧洲 ✔ 对位 ✔ 自有线 ✔ → P 池候选；Simon 曾判不行，可否决
 - **对方真实需求（有据）**：未知（无往来；复核时从官网 / 进口数据 / 项目推断）
 - **断点 / 为什么停在这里**：无往来（从未触达或仅群发无回）
-- **Saga 现在该推什么**：P1 ****（% 档，价见价格主表）——待复核后按业务线定首推型号
+- **Saga 现在该推什么**：P1 **STC-228GP**（% 档，价见价格主表）——默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）
 - **下一步（具体）**：不动：LT-01 复核（待过）后再定　—　长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ○ 贴牌渠道 · 分销 20% / OEM 30%：A-SECUR = Leistung S.L.U.（Mos, Pontevedra；11–50；安防批发 + 自有线 Movok；ONV / Utepo 页面）部分坐实（CIF 未取）；进口经验 ✔ 欧洲 ✔ 对位 ✔ 自有线 ✔ → P 池候选；Simon 曾判不行，可否决 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
+| 2026-10-29 | 查 | Agent 登记底数（registry） | ES · 1 次检索：crunchbase（Leistung S.L.U.；Movok；11-50）+ paxinasgalegas（Mos 地址 / 电话）+ join.com；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -92,7 +94,7 @@ updated: 2026-10-29
 | 名称 | a-secur.com（取自域名，公司全名待核） | 推断 |
 | 国家 | 西班牙 | 事实（用户表）|
 | 网站/域名 | a-secur.com / a-secur.es | 事实（用户表 URL/邮箱域名） |
-| 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
+| 类型 | 分销（闸 2 判定 · 20% 档） | 推断（据兴趣/备注关键词） |
 | 联系人 | 可以尝试多跟进一下 / Javier Lozano / Director General / ONV的 也有Utepo的 | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 商业POE为主 工业FS <br>ONV的 也有Utepo的 / 商业POE为主 工业FS <br>自己的logo | 事实（用户表） |
@@ -102,11 +104,39 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-29）**　网站状态：
+- **状态：已调研（2026-10-29）**　网站状态：营业中（招聘 / 官网在线）
 - **是谁**：C 池三闸捞出（○ 正式）：○ 贴牌渠道 · 分销 20% / OEM 30%：A-SECUR = Leistung S.L.U.（Mos, Pontevedra；11–50；安防批发 + 自有线 Movok；ONV / Utepo 页面）部分坐实（CIF 未取）；进口经验 ✔ 欧洲 ✔ 对位 ✔ 自有线 ✔ → P 池候选；Simon 曾判不行，可否决
+- **类型**：分销（闸 2 判定 · 20% 档）
+- **规模**：小型（11–50）
+- **在卖/在用品牌**：Utepo, Dahua, ONV
+- **【登记底数 / 官网（闸 2 坐实）】Leistung S.L.U.（分销品牌 A-SECUR；a-secur.com；**Crunchbase：A-SECUR 为 Leistung S.L.U. 的分销品牌，面向专业安装商的电子安防批发（CCTV / 入侵 / 门禁 / 布线；Dahua 兼容 + 自有线 Movok AI 视频产品）；11–50 人；paxinasgalegas：Anel da Lagoa 18, Pol. Ind. Veigadaña, 36415 Mos (Pontevedra)；986 **
+  > ES · 1 次检索：crunchbase（Leistung S.L.U.；Movok；11-50）+ paxinasgalegas（Mos 地址 / 电话）+ join.com；2026-10-29
+  > 来源：https://www.crunchbase.com/organization/a-secur（抓取 2026-10-29）
+- **【闸 1 对位】西班牙 A-Secur（安防分销商，ONV / Utepo 页面，早期 AI 50% A）→ 主区 + 贴牌渠道；15 推 0 回；Simon 判不行 → 闸 2 查底数**
+  > 来源：（抓取 2026-10-29）
+- **【长期群复核 LT-R02】桌面复核（闸 2 证据充分，三问成立）：○ 贴牌渠道 · 分销 20% / OEM 30%：A-SECUR = Leistung S.L.U.（Mos, Pontevedra；11–50；安防批发 + 自有线 Movok；ONV / Utepo 页面）部分坐实（CIF 未取）；进口经验 ✔ 欧洲 ✔ 对位 ✔ 自有线 ✔ → P 池候选；Simon 曾判不行，可否决**
+  > 来源：（抓取 2026-10-29）
+- **KP**：—（表内邮箱（公开 / 总机））info@a-secur.es 〔〕
+- **KP**：—（表内邮箱（公开 / 总机））javperez@a-secur.es 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 贴牌渠道 · 分销 20% / OEM 30%：A-SECUR = Leistung S.L.U.（Mos, Pontevedra；11–50；安防批发 + 自有线 Movok；ONV / Utepo 页面）部分坐实（CIF 未取）；进口经验 ✔ 欧洲 ✔ 对位 ✔ 自有线 ✔ → P 池候选；Simon 曾判不行，可否决；闸 1：西班牙 A-Secur（安防分销商，ONV / Utepo 页面，早期 AI 50% A）→ 主区 + 贴牌渠道；15 推 0 回；Simon 判不行 → 闸 2 查底数
-- 备注：（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
+- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Leistung S.L.U. |
+
+- **业务线**：电子安防批发（加利西亚 Mos；自有线 Movok）
+- **触达通道（公开）**：网站: https://a-secur.com；直邮: info@a-secur.es，javperez@a-secur.es（表内）
+- **近况信号**：
+  - 西班牙 A-Secur（安防分销商，ONV / Utepo 页面，早期 AI 50% A）→ 主区 + 贴牌渠道；15 推 0 回；Simon 判不行 → 闸 2 查底数
+  - 表内兴趣：商业POE为主 工业FS 
+ONV的 也有Utepo的；商业POE为主 工业FS 
+自己的logo
+- **风险/边界**：**贴牌渠道（自有线 Movok）→ OEM 30% / 分销 20% 双轨：一页纸一次（STC-028GP $28 / STC-228GP $33 + 丝印 MOQ；Utepo / ONV 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；Simon 可否决；登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号
+- **Saga 对位结论**：P1 STC-228GP（20% 档）——默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -185,6 +215,8 @@ updated: 2026-10-29
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| — | 表内邮箱（公开 / 总机） | info@a-secur.es | 调研核实（公开页） | 调研 |
+| — | 表内邮箱（公开 / 总机） | javperez@a-secur.es | 调研核实（公开页） | 调研 |
 | Javier Lozano | — | info@a-secur.es / javperez@a-secur.es | 用户表原值 | Clients/ 表 |
 | ONV | — | info@a-secur.es / javperez@a-secur.es | 用户表原值 | Clients/ 表 |
 
@@ -204,28 +236,28 @@ updated: 2026-10-29
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424DGGPM-280W | 24 口 PoE L2+ 走量款 | $145.7 USD EXW（30% 档，SmartByte LT-S8328GP-4GX24GT-S 750 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 据用户表兴趣/备注推断；档位 30%（品牌商/贴牌需求（OEM/ODM）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：30% 档 $151.6 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），30% 档公式为 $196.3——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-228GP | 深挖对位：默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档） | $33.2 USD EXW（HRUI Realtek 线：洪瑞 2026-09-30 成本 + 20%（列表价 $30.8 隐含加价低于底线，第 73 批口径）；见 data/价格主表_HRUI.csv；汇率 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销（闸 2 判定 · 20% 档）） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：20% 档 $139.9 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $181.2——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-228GP），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-228GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
 
-- **S**：自有品牌/贴牌需求 = 现成 OEM 客户；欧洲主攻区，复购与口碑可外溢
+- **S**：欧洲主攻区，复购与口碑可外溢
 - **W**：已推送 15 次无回复，邮件通道疲劳
-- **O**：P1 STC-424DGGPM-280W 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；对位其在用/在卖的 ONV, Utepo：涨价、断货或交期拉长时切入
+- **O**：P1 STC-228GP 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 ONV, Utepo：涨价、断货或交期拉长时切入；规模（调研）：小型（11–50）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -253,14 +285,14 @@ updated: 2026-10-29
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424DGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch (Marvell-based, neutral label)
+**主题**：STC-228GP - 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (neutral label)
 
 ```text
 Hi Javier,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as the ONV class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $145.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+We supply an 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (unmanaged, 120 W, PoE watchdog) - model STC-228GP - that fits the same slot as the ONV class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $33.2 USD EXW (valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

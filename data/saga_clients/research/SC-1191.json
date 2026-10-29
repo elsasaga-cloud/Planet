@@ -1,17 +1,46 @@
 {
  "code": "SC-1191",
- "name_official": "cngsystem.com",
+ "name_official": "(주)씨앤지시스템 CNG System",
  "researched_at": "2026-10-29",
- "website_status": "",
+ "website_status": "营业中（站点在线）",
  "summary": "C 池三闸捞出（○ 正式）：○ CENTEC 敲门砖 · 分销 20%：(주)씨앤지시스템 CNG System（dialogic.co.kr；Seoul；Dialogic / AudioCodes 通信卡分销）部分坐实（사업자 未取）；CENTEC 意向 ✔ 分销主体 ✔ 对位 ✔ → P 池候选（换 dialogic.co.kr 地址再发）",
- "type": "",
- "size": "",
+ "type": "分销（闸 2 判定 · 20% 档）",
+ "size": "小型 / 中型",
  "brands_seen": [],
- "evidence": [],
- "kp": [],
+ "evidence": [
+  {
+   "kind": "登记底数 / 官网（闸 2 坐实）",
+   "claim": "(주)씨앤지시스템 CNG System（cngsystem.com → dialogic.co.kr；**站点标题「::: CNG System ::: ㈜씨앤지시스템」；服务器定位 Seoul 동작구；Dialogic / AudioCodes / Sangoma 通信卡 / 录音板分销；사업자 未取（同名 주식회사 씨앤지 127-86-49224 为杨州金属加工，不采）**）；表内：问过 CENTEC 交换机；support@dialogic.co.kr",
+   "quote": "KR · 1 次检索：dialogic.co.kr.siteindices.com（站点标题 / 定位）；bolta 同名不对应；사업자 未取；2026-10-29",
+   "url": "https://dialogic.co.kr.siteindices.com/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "闸 1 对位",
+   "claim": "韩国 CNG System（cngsystem.com 退信；dialogic.co.kr 正常；表内「CENTEC Switch」）：CENTEC 敲门砖 ✔ Simon 点名韩国；退信 ≠ 死 → 闸 2 查底数（bizno）+ 换 dialogic.co.kr 地址；低优先",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "长期群复核 LT-R03",
+   "claim": "桌面复核（闸 2 证据，三问成立）：○ CENTEC 敲门砖 · 分销 20%：(주)씨앤지시스템 CNG System（dialogic.co.kr；Seoul；Dialogic / AudioCodes 通信卡分销）部分坐实（사업자 未取）；CENTEC 意向 ✔ 分销主体 ✔ 对位 ✔ → P 池候选（换 dialogic.co.kr 地址再发）；备注：韩国需 KC（CENTEC 线由对方处理认证）",
+   "quote": "",
+   "url": "",
+   "date": "2026-10-29"
+  }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "表内邮箱（公开 / 总机）",
+   "email": "support@dialogic.co.kr",
+   "phone": ""
+  }
+ ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ CENTEC 敲门砖 · 分销 20%：(주)씨앤지시스템 CNG System（dialogic.co.kr；Seoul；Dialogic / AudioCodes 通信卡分销）部分坐实（사업자 未取）；CENTEC 意向 ✔ 分销主体 ✔ 对位 ✔ → P 池候选（换 dialogic.co.kr 地址再发）；闸 1：韩国 CNG System（cngsystem.com 退信；dialogic.co.kr 正常；表内「CENTEC Switch」）：CENTEC 敲门砖 ✔ Simon 点名韩国；退信 ≠ 死 → 闸 2 查底数（bizno）+ 换 …",
- "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -41,8 +70,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "",
-   "why": "待复核后按业务线定首推型号"
+   "p1": "STC-228GP",
+   "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -56,10 +85,60 @@
     "who": "Agent 三闸（sieve.json）",
     "quote": "○ CENTEC 敲门砖 · 分销 20%：(주)씨앤지시스템 CNG System（dialogic.co.kr；Seoul；Dialogic / AudioCodes 通信卡分销）部分坐实（사업자 未取）；CENTEC 意向 ✔ 分销主体 ✔ 对位 ✔ → P 池候选（换 dialogic.co.kr 地址再发）",
     "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 登记底数（registry）",
+    "quote": "KR · 1 次检索：dialogic.co.kr.siteindices.com（站点标题 / 定位）；bolta 同名不对应；사업자 未取；2026-10-29",
+    "why": "闸 2 坐实来源（URL 见 company_facts.url）",
+    "url": "https://dialogic.co.kr.siteindices.com/"
    }
   ],
   "proof_gaps": [
    "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
   ]
+ },
+ "company_facts": {
+  "legal_name": "(주)씨앤지시스템 CNG System",
+  "reg_no": "未取（사업자 未查到）",
+  "status": "营业中（站点在线）",
+  "incorporated": "未取",
+  "company_type": "주식회사",
+  "address": "未取（Seoul, 동작구 服务器定位）",
+  "size_band": "小型 / 中型",
+  "officers": [
+   "（具名 KP 未取）"
+  ],
+  "psc": "未取",
+  "source": "KR · 1 次检索：dialogic.co.kr.siteindices.com（站点标题 / 定位）；bolta 同名不对应；사업자 未取；2026-10-29",
+  "url": "https://dialogic.co.kr.siteindices.com/",
+  "fetched": "2026-10-29"
+ },
+ "business_lines": [
+  "通信卡 / 电信设备分销（首尔）"
+ ],
+ "channels": {
+  "网站": "https://cngsystem.com",
+  "直邮": "support@dialogic.co.kr（表内）"
+ },
+ "signals": [
+  "韩国 CNG System（cngsystem.com 退信；dialogic.co.kr 正常；表内「CENTEC Switch」）：CENTEC 敲门砖 ✔ Simon 点名韩国；退信 ≠ 死 → 闸 2 查底数（bizno）+ 换 dialogic.co.kr 地址；低优先",
+  "表内兴趣：CENTEC Switch"
+ ],
+ "risks": [
+  "**CENTEC 敲门砖 → 分销 20%：一页纸一次（STH-2C24XF-HSI $1,500 / STH-8C48DX-HSI $4,800 + STC 接入线；无 KC 买方自证）换 dialogic.co.kr 地址再发— 韩国常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳；无 KC（买方自行认证，SDT 先例）；周二 / 周四 10–12 KST**",
+  "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
+ ],
+ "saga_fit": {
+  "p1": "STC-228GP",
+  "tier": 20,
+  "why": "默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）",
+  "basis": "默认 · 官网快照后按业务线校正"
+ },
+ "deep": {
+  "done_at": "2026-10-29",
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
+  "batch": "LT-T01"
  }
 }
