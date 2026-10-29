@@ -3,10 +3,10 @@
   "updated": "2026-10-29",
   "rules": "docs/C池三闸筛选_方案_2026-10-29.md §2",
   "counts": {
-   "keep_C": 2995,
+   "keep_C": 2988,
    "pass_final": 219,
-   "pool_watch": 37,
-   "pool": 167
+   "pool_watch": 38,
+   "pool": 173
   },
   "n": 3418
  },
@@ -1241,12 +1241,20 @@
   "verdict": "keep_C",
   "gate": 2,
   "rule": "G2",
-  "reason": "闸 2 回 C：Moon.kz 1 查仅同名他户（topcam.kz 个体 / Monitoring Systems KZ / MOONSTAR.KZ）→ 未坐实 → 回 C 储备",
+  "reason": "闸 2 回 C：Moon.kz 1 查仅同名他户（topcam.kz 个体 / Monitoring Systems KZ / MOONSTAR.KZ）→ 未坐实 → 回 C 储备｜G2R-01：复查：moon.kz 「реквизиты」页为模板占位（虚构银行），页脚仅 Алматы ул. Муканова 245 + im@moon.kz（电脑配件 + Tiandy/Cantonk 监控电商）→ 法人未取 → 留 C",
   "date": "2026-10-29",
   "manual": true,
   "batch": "G2-129",
   "g1_batch": "G1-19",
-  "g1_reason": "哈萨克斯坦 Moon.kz（moon.kz；ONV 很多产品）：进口中国同类 ✔ 对位 ✔ 俄语区先例（NAG KZ）；群发 18 次 0 回 → 闸 2 查底数（statsnet）；收款待定，低优先"
+  "g1_reason": "哈萨克斯坦 Moon.kz（moon.kz；ONV 很多产品）：进口中国同类 ✔ 对位 ✔ 俄语区先例（NAG KZ）；群发 18 次 0 回 → 闸 2 查底数（statsnet）；收款待定，低优先",
+  "facts": [
+   {
+    "what": "moon.kz 页脚：Алматы ул. Муканова 245 · im@moon.kz（реквизиты 页为模板）",
+    "url": "https://moon.kz/contacts/requisites.php",
+    "date": "2026-10-29"
+   }
+  ],
+  "recheck": "G2R-01"
  },
  "SC-1021": {
   "verdict": "keep_C",
@@ -3455,15 +3463,36 @@
   ]
  },
  "SC-1203": {
-  "verdict": "keep_C",
-  "gate": 2,
-  "rule": "G2",
-  "reason": "闸 2 回 C（未坐实 + 红旗）：Lapis Technologies 1 查仅同名 Shimoga 户（CIN U74993KA2018PTC109130；₹1 lakh；zaubacorp Strike Off）归属未证 → 回 C 储备",
+  "verdict": "pool",
+  "gate": 3,
+  "rule": "P1",
+  "reason": "○ P 池正式入池（档位 ○，复查批 G2R-01）：○ 印度 · 网络集成商 25%：Lapis Technologies（Secunderabad / Hyderabad 500084；+91 40 6690 4704；11–50 人；设计 / 部署 / 托管信息网络；Pre-Sales Head Sk Gopi 2009 至今）ZoomInfo + Crunchbase 名录部分坐实（CIN 未取；此前 Shimoga 同名壳不是它）；对位 ✔（园区网交换机）；非主区 → 预付 100%，reg_pending",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G2-130",
+  "batch": "G2R-01",
+  "g2_batch": "G2-130",
+  "g2_reason": "闸 2 回 C（未坐实 + 红旗）：Lapis Technologies 1 查仅同名 Shimoga 户（CIN U74993KA2018PTC109130；₹1 lakh；zaubacorp Strike Off）归属未证 → 回 C 储备",
   "g1_batch": "G1-21",
-  "g1_reason": "印度 Lapis Technologies（lapistechnologies.in；商业 PoE Alcon 的）：进口中国同类 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先"
+  "g1_reason": "印度 Lapis Technologies（lapistechnologies.in；商业 PoE Alcon 的）：进口中国同类 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先",
+  "grade": "○",
+  "next_check": "2026-12-28",
+  "tags": [
+   "prepay",
+   "reg_pending",
+   "integrator"
+  ],
+  "facts": [
+   {
+    "what": "ZoomInfo：Lapis technologies · Hyderabad Telangana 500084 · +91 4066904704 · lapistechnologies.in",
+    "url": "https://www.zoominfo.com/c/lapis-technologies/429866407",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "Crunchbase：Lapis Technologies · Secunderabad · 11–50 · 信息网络设计 / 部署 / 托管",
+    "url": "https://www.crunchbase.com/organization/lapis-technologies",
+    "date": "2026-10-29"
+   }
+  ]
  },
  "SC-1204": {
   "verdict": "keep_C",
@@ -4806,12 +4835,25 @@
   "verdict": "keep_C",
   "gate": 2,
   "rule": "G2",
-  "reason": "闸 2 回 C：ASI（asi.ind.in）1 查仅同名 ASI Industries（矿业）等 → 未坐实 → 回 C 储备",
+  "reason": "闸 2 回 C：ASI（asi.ind.in）1 查仅同名 ASI Industries（矿业）等 → 未坐实 → 回 C 储备｜G2R-01：复查：Active System Integration（Chennai Anna Nagar East，New No.18 N Block 21st St；admin@ / sales@asi.ind.in；044 4556 6999）安防集成商，官网地址坐实、无注册号、体量不明 → 留 C",
   "date": "2026-10-29",
   "manual": true,
   "batch": "G2-130",
   "g1_batch": "G1-22",
-  "g1_reason": "印度 ASI（asi.ind.in；在卖丰润达的工业 FS）：进口中国同类 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先"
+  "g1_reason": "印度 ASI（asi.ind.in；在卖丰润达的工业 FS）：进口中国同类 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先",
+  "facts": [
+   {
+    "what": "activesystemintegration.in 联系页：New No.18 N Block 21st St Anna Nagar East Chennai · admin@asi.ind.in",
+    "url": "http://www.activesystemintegration.in/contact-us",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "cctv.org.in About：ASI 团队 · admin@ / sales@asi.ind.in · 044 4556 6999",
+    "url": "https://cctv.org.in/about-us.php",
+    "date": "2026-10-29"
+   }
+  ],
+  "recheck": "G2R-01"
  },
  "SC-1323": {
   "verdict": "keep_C",
@@ -5329,12 +5371,14 @@
   "verdict": "keep_C",
   "gate": 2,
   "rule": "G2",
-  "reason": "闸 2 回 C（真意向例外）：Mayenet 1 查仅近名 Mazenet → 未坐实；想拿样 ✔ → 回 C 储备 + 单次样品报价例外（STC-228GP 样机 + 运费 预付 100%），回信即补查法人",
+  "reason": "闸 2 回 C（真意向例外）：Mayenet 1 查仅近名 Mazenet → 未坐实；想拿样 ✔ → 回 C 储备 + 单次样品报价例外（STC-228GP 样机 + 运费 预付 100%），回信即补查法人｜G2R-01：复查 1 查仍只返回 Mazenet（Coimbatore 培训公司）→ Mayenet 法人未取 → 留 C（样品例外保留）",
   "date": "2026-10-29",
   "manual": true,
   "batch": "G2-130",
   "g1_batch": "G1-23",
-  "g1_reason": "印度 Mayenet Solutions（mayenetsolutions.com 域 nxdomain；mayenet.com 正常；「不太要工业级，要商业级全千兆不要混合速率，想拿样」）：真意向 + 样品 ✔ 对位 ✔（STC-2224GP 全千兆）Simon 点名印度 → 闸 2 查底数 + 换 mayenet.com 地址；低优先"
+  "g1_reason": "印度 Mayenet Solutions（mayenetsolutions.com 域 nxdomain；mayenet.com 正常；「不太要工业级，要商业级全千兆不要混合速率，想拿样」）：真意向 + 样品 ✔ 对位 ✔（STC-2224GP 全千兆）Simon 点名印度 → 闸 2 查底数 + 换 mayenet.com 地址；低优先",
+  "facts": [],
+  "recheck": "G2R-01"
  },
  "SC-1367": {
   "verdict": "keep_C",
@@ -9859,12 +9903,14 @@
   "verdict": "keep_C",
   "gate": 2,
   "rule": "G2",
-  "reason": "闸 2 回 C：Jjenka（jjenka.com）2 查无公司信息 → 未坐实 → 回 C 储备（MC 20 pcs 需求保留，来信再起 STC-110XGE 报价 + 预付 100%）",
+  "reason": "闸 2 回 C：Jjenka（jjenka.com）2 查无公司信息 → 未坐实 → 回 C 储备（MC 20 pcs 需求保留，来信再起 STC-110XGE 报价 + 预付 100%）｜G2R-01：复查 1 查仍无（jjenka.com 无公司信息）→ 留 C",
   "date": "2026-10-29",
   "manual": true,
   "batch": "G2-131",
   "g1_batch": "G1-28",
-  "g1_reason": "俄罗斯 Jjenka（jjenka.com；「need MM GE converter about 20pcs, price information」；8 推 0 回）：数量询问 = 真需求 ✔ 对位（STC-110XGE 千兆 MC）✔ Simon 点名俄罗斯；→ 闸 2 查底数（rusprofile）；俄语区收款待定，低优先"
+  "g1_reason": "俄罗斯 Jjenka（jjenka.com；「need MM GE converter about 20pcs, price information」；8 推 0 回）：数量询问 = 真需求 ✔ 对位（STC-110XGE 千兆 MC）✔ Simon 点名俄罗斯；→ 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
+  "facts": [],
+  "recheck": "G2R-01"
  },
  "SC-1756": {
   "verdict": "keep_C",
@@ -11010,15 +11056,40 @@
   ]
  },
  "SC-1855": {
-  "verdict": "keep_C",
-  "gate": 2,
-  "rule": "G2",
-  "reason": "闸 2 未坐实：1 查无命中（仅同业）+ 9 推 0 回 → 回 C 储备",
+  "verdict": "pool",
+  "gate": 3,
+  "rule": "P1",
+  "reason": "○ P 池正式入池（档位 ○，复查批 G2R-01）：○ 土耳其主区 · 医疗通信系统制造商（品牌 ZKR）OEM 30%：Kıraç Bilgi ve İletişim Teknolojileri San. ve Tic. A.Ş.（Eskişehir 75. Yıl OSB Şehitler Bulvarı No:21 Odunpazarı 26250；2005-01-06 成立；Kıraç Group 1982 起；Ankara Ümitköy 办公室；护士呼叫 / IP 通信方案自产）EMIS + D&B 坐实；主区 ✔ 自有品牌 ✔ 具名 KP shaalan@ ✔；此前 9 推 0 回 → 入池只巡检 + 换 KP 再触",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G2-124",
+  "batch": "G2R-01",
+  "g2_batch": "G2-124",
+  "g2_reason": "闸 2 未坐实：1 查无命中（仅同业）+ 9 推 0 回 → 回 C 储备",
   "g1_batch": "G1-06",
-  "g1_reason": "土耳其 Kıraç Bilişim（跟澳视买、知道天地伟业，要求先发 email）：土耳其主区 + 已进口中国安防品牌；9 次跟进无回复 → 闸 2 查底数，低优先"
+  "g1_reason": "土耳其 Kıraç Bilişim（跟澳视买、知道天地伟业，要求先发 email）：土耳其主区 + 已进口中国安防品牌；9 次跟进无回复 → 闸 2 查底数，低优先",
+  "grade": "○",
+  "next_check": "2026-12-28",
+  "tags": [
+   "oem_target",
+   "cold"
+  ],
+  "facts": [
+   {
+    "what": "EMIS：Kirac Bilgi Ve Iletisim Teknolojileri Sanayi Ve Ticaret A.S. · Eskişehir · 成立 2005-01-06",
+    "url": "https://www.emis.com/php/company-profile/TR/Kirac_Bilgi_Ve_Iletisim_Teknolojileri_AS_en_3316187.html",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "D&B：同名 A.Ş. · NO:21 75. Yıl OSB Şehitler Bulvarı Odunpazarı 26250 · 网站 zkr.com.tr",
+    "url": "https://www.dnb.com/business-directory/company-profiles.kirac_bilgi_ve_iletisim_teknolojileri_sanayi_ve_ticaret_anonim_sirketi.9deee9e9a1e2f55c85e3f1fcfda65cd6.html",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "Turkish Medical Index：ZKR = Kıraç Bilişim 商标（2011）· 护士呼叫 / 代码警示 / 语音通信 · Ankara +90 312 446 0344",
+    "url": "https://www.turkishmedicalindex.com/tmi?slug=kirac-bilgi-ve-iletisim-teknolojileri-san-ve-tic-a-s",
+    "date": "2026-10-29"
+   }
+  ]
  },
  "SC-1856": {
   "verdict": "keep_C",
@@ -11360,15 +11431,35 @@
   ]
  },
  "SC-1883": {
-  "verdict": "keep_C",
-  "gate": 2,
-  "rule": "G2",
-  "reason": "闸 2 回 C：Anfatech（anfatech.com.vn）1 查仅近名 ANPHATECH JSC（2022；税号 2024-12 已关闭）归属未证 → 未坐实 → 回 C 储备",
+  "verdict": "pool",
+  "gate": 3,
+  "rule": "P1",
+  "reason": "○ P 池正式入池（档位 ○，复查批 G2R-01）：○ 越南 · NAS / 网络设备分销 20%：Công ty TNHH A.N.F.A Việt Nam（129E Nguyễn Đình Chính P8 Phú Nhuận TP.HCM + Hà Nội 办公室；QNAP NAS 越南渠道；info@ / sales@anfatech.com.vn；Mr. Thắng 0909 560 555 thang.nv@、Mr. Quý quy.nv@ 具名）官网 + FB 法人名坐实（MST 未取）；NAS 渠道买交换机对位 ✔；非主区 → 预付 100%",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G2-131",
+  "batch": "G2R-01",
+  "g2_batch": "G2-131",
+  "g2_reason": "闸 2 回 C：Anfatech（anfatech.com.vn）1 查仅近名 ANPHATECH JSC（2022；税号 2024-12 已关闭）归属未证 → 未坐实 → 回 C 储备",
   "g1_batch": "G1-28",
-  "g1_reason": "越南 Anfatech（anfatech.com.vn；ONV 的全线产品引进 + QNAP；8 推 0 回）：中国品牌整线进口商 ✔ 对位 ✔（同批 Metsuki 先例）；→ 闸 2 查底数（masothue）；非点名国 → 低优先，换稿点名"
+  "g1_reason": "越南 Anfatech（anfatech.com.vn；ONV 的全线产品引进 + QNAP；8 推 0 回）：中国品牌整线进口商 ✔ 对位 ✔（同批 Metsuki 先例）；→ 闸 2 查底数（masothue）；非点名国 → 低优先，换稿点名",
+  "grade": "○",
+  "next_check": "2026-12-28",
+  "tags": [
+   "prepay",
+   "reg_pending"
+  ],
+  "facts": [
+   {
+    "what": "官网文章页脚：Công ty TNHH A.N.F.A Việt Nam · 129E Nguyễn Đình Chính · info@ / sales@ / quy.nv@anfatech.com.vn",
+    "url": "https://anfatech.com.vn/uncategorized/optimize-nas-performance/",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "Facebook：ANFA Vietnam Co., Ltd. · HCMC · +84 90 956 05 55 · Thang.nv@anfatech.com.vn",
+    "url": "https://www.facebook.com/anfatech.com.vn/",
+    "date": "2026-10-29"
+   }
+  ]
  },
  "SC-1884": {
   "verdict": "keep_C",
@@ -12453,12 +12544,20 @@
   "verdict": "keep_C",
   "gate": 2,
   "rule": "G2",
-  "reason": "拉脱维亚 Signalizācija：1 查未中（Lursoft 仅 SIA Signal 等；通名难指认）= 未坐实 → 回 C 待下轮 1 查（官网页脚 Reģ. nr.）；不是 pass",
+  "reason": "拉脱维亚 Signalizācija：1 查未中（Lursoft 仅 SIA Signal 等；通名难指认）= 未坐实 → 回 C 待下轮 1 查（官网页脚 Reģ. nr.）；不是 pass｜G2R-01：复查：官网联系页 = \"TIGER & CCTV\" LTD（SIA TIGER & CCTV，Katlakalna iela 11/1 Rīga；+371 28323820；tiger.cctv@inbox.lv；安防 / 太阳能安装 + 门店）法人名坐实、注册号未取、免费邮箱 + 门店型微型 → 留 C",
   "date": "2026-10-29",
   "manual": true,
   "batch": "G2-134",
   "g1_batch": "G1-39",
-  "g1_reason": "拉脱维亚 Signalizācija（signalizacija.lv no_mx；tiger.cctv@inbox.lv；主要是 CCTV，有 Utepo 的 ✔；15 推 0 回）：点名中国品牌 ✔ 欧洲 ✔ 安装商对位 ✔ 可达 ✔ → 闸 2 查底数（Lursoft / firmas.lv）后换稿一页纸（15 推零回应 → 坐实后仅一次，不行回 C）"
+  "g1_reason": "拉脱维亚 Signalizācija（signalizacija.lv no_mx；tiger.cctv@inbox.lv；主要是 CCTV，有 Utepo 的 ✔；15 推 0 回）：点名中国品牌 ✔ 欧洲 ✔ 安装商对位 ✔ 可达 ✔ → 闸 2 查底数（Lursoft / firmas.lv）后换稿一页纸（15 推零回应 → 坐实后仅一次，不行回 C）",
+  "facts": [
+   {
+    "what": "signalizacija.lv 联系页：\"TIGER & CCTV\" LTD · Katlakalna iela 11/1 Rīga · tiger.cctv@inbox.lv",
+    "url": "https://www.signalizacija.lv/ru/contacts-50789",
+    "date": "2026-10-29"
+   }
+  ],
+  "recheck": "G2R-01"
  },
  "SC-1977": {
   "verdict": "keep_C",
@@ -14390,7 +14489,7 @@
   "verdict": "keep_C",
   "gate": 2,
   "rule": "G2",
-  "reason": "闸 2 未坐实：Cygnus（cygnus.la）1 查无命中（仅无关同名）+ Simon 判不行 + 4 推 0 回 → 回 C 储备",
+  "reason": "闸 2 未坐实：Cygnus（cygnus.la）1 查无命中（仅无关同名）+ Simon 判不行 + 4 推 0 回 → 回 C 储备｜G2R-01：复查：ZoomInfo 把 cygnus.la 归为 Cygnus Electronics（Buenos Aires，+54 11 3221 8153）→ 国别疑为阿根廷而非塞浦路斯（待 Simon 确认后 country_fix）；法人 / CUIT 未取 + Simon 判不行 → 留 C",
   "date": "2026-10-29",
   "manual": true,
   "batch": "G2-125",
@@ -14398,7 +14497,15 @@
   "g1_reason": "塞浦路斯 Cygnus（SFP / 工商业 FS，主要是 Utepo 的）：欧洲 + 已进口中国同类品牌 + 对位 ✔；Simon 曾判不行、4 次无回复 → 闸 2 查底数，低优先",
   "tags": [
    "dayjob_fit"
-  ]
+  ],
+  "facts": [
+   {
+    "what": "ZoomInfo：Cygnus Electronics (cygnus.la) · Buenos Aires · +54 1132218153",
+    "url": "https://www.zoominfo.com/c/cygnus-electronics/547313862",
+    "date": "2026-10-29"
+   }
+  ],
+  "recheck": "G2R-01"
  },
  "SC-2144": {
   "verdict": "keep_C",
@@ -17788,7 +17895,7 @@
   "verdict": "keep_C",
   "gate": 2,
   "rule": "G2",
-  "reason": "闸 2 未坐实：nana-tech.net 1 查仅返回 Nana Engineering（水泵）+ thai.finance 同名合伙（域名未对上）+ 冷户 + Simon 判不行 → 回 C 储备",
+  "reason": "闸 2 未坐实：nana-tech.net 1 查仅返回 Nana Engineering（水泵）+ thai.finance 同名合伙（域名未对上）+ 冷户 + Simon 判不行 → 回 C 储备｜G2R-01：复查：官网联系页 = Nana Corporation Co., Ltd.（Samut Prakan 10290 + Bangkok Bang Khun Thian；+66 2 101 2055；sales@nana-tech.net）法人名坐实、注册号未取；冷户 + Simon 判不行 → 留 C",
   "date": "2026-10-29",
   "manual": true,
   "batch": "G2-127",
@@ -17796,7 +17903,15 @@
   "g1_reason": "泰国 Nana-tech（工业网络分销商，大量 Utepo，早期 AI 50% A）→ 贴牌渠道商；8 推 0 回；Simon 判不行 → 闸 2 查底数",
   "tags": [
    "oem_target"
-  ]
+  ],
+  "facts": [
+   {
+    "what": "nana-tech.net/contactus：Nana Corporation Co.,Ltd. · Samut Prakan 10290 / Bangkok · +66 2 101 2055 · sales@",
+    "url": "https://www.nana-tech.net/contactus",
+    "date": "2026-10-29"
+   }
+  ],
+  "recheck": "G2R-01"
  },
  "SC-2438": {
   "verdict": "keep_C",
@@ -19937,7 +20052,7 @@
   "verdict": "keep_C",
   "gate": 2,
   "rule": "G2",
-  "reason": "闸 2 未坐实：cctvvideo.com 1 查仅返回 e-link 供货商页 + Simon 判不行 → 回 C 储备",
+  "reason": "闸 2 未坐实：cctvvideo.com 1 查仅返回 e-link 供货商页 + Simon 判不行 → 回 C 储备｜G2R-01：复查：ZoomInfo cctvvideo.com = 387 Canal St New York 10013，1–10 人安防批发网店，(212) 431-2622 → 微型 → 留 C",
   "date": "2026-10-29",
   "manual": true,
   "batch": "G2-126",
@@ -19945,7 +20060,15 @@
   "g1_reason": "美国 cctvvideo.com（VC / SFP / 工业 FS，有 e-link 的）：美国主区 + 已进口中国品牌 e-link；→ 闸 2 查底数，低优先；Simon 曾判不行 → 可按编号否决",
   "tags": [
    "dayjob_fit"
-  ]
+  ],
+  "facts": [
+   {
+    "what": "ZoomInfo：Cctvvideo.com · 387 Canal St NYC 10013 · 1–10 人",
+    "url": "https://www.zoominfo.com/c/cctvvideocom/1123301377",
+    "date": "2026-10-29"
+   }
+  ],
+  "recheck": "G2R-01"
  },
  "SC-2623": {
   "verdict": "keep_C",
@@ -22547,12 +22670,20 @@
   "verdict": "keep_C",
   "gate": 2,
   "rule": "G2",
-  "reason": "闸 2 回 C：PIIR（piir.ru）1 查仅同名 ООО «ПИИР» 设计院（СПб 2021）域名归属未证 → 未坐实 → 回 C 储备",
+  "reason": "闸 2 回 C：PIIR（piir.ru）1 查仅同名 ООО «ПИИР» 设计院（СПб 2021）域名归属未证 → 未坐实 → 回 C 储备｜G2R-01：复查：piir.ru 商品页脚「Поставщик PIIR.RU：ИП Илларионов，ИНН 501712304861，ОГРНИП 316502400063255，Москва」= 个体经营者 → 坐实但个体 → 留 C（来信再起预付 100%）",
   "date": "2026-10-29",
   "manual": true,
   "batch": "G2-131",
   "g1_batch": "G1-32",
-  "g1_reason": "俄罗斯 PIIR（piir.ru；一些本土的牌子，用的国内的 = 中国货分销）：分销 + 中国同类 ✔ Simon 点名俄罗斯 ✔；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先"
+  "g1_reason": "俄罗斯 PIIR（piir.ru；一些本土的牌子，用的国内的 = 中国货分销）：分销 + 中国同类 ✔ Simon 点名俄罗斯 ✔；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
+  "facts": [
+   {
+    "what": "piir.ru 商品页脚：ИП Илларионов · ИНН 501712304861 · ОГРНИП 316502400063255",
+    "url": "https://piir.ru/product/ip-videoregistrator-16-potokovyj-hiwatch-ds-n316-2-b/",
+    "date": "2026-10-29"
+   }
+  ],
+  "recheck": "G2R-01"
  },
  "SC-2842": {
   "verdict": "keep_C",
@@ -24048,12 +24179,20 @@
   "verdict": "keep_C",
   "gate": 2,
   "rule": "G2",
-  "reason": "闸 2 回 C：Akatel（akatel.ru / alarmex.ru）2 查仅同名他户 → 未坐实 → 回 C 储备（想直购 = 真意向保留；座机在表，电话接通再起）",
+  "reason": "闸 2 回 C：Akatel（akatel.ru / alarmex.ru）2 查仅同名他户 → 未坐实 → 回 C 储备（想直购 = 真意向保留；座机在表，电话接通再起）｜G2R-01：复查：仅 ООО «Актел»（Москва，ИНН 9722065388，2023-12 登记，已清算）同名，域名归属仍未证 → 留 C",
   "date": "2026-10-29",
   "manual": true,
   "batch": "G2-131",
   "g1_batch": "G1-32",
-  "g1_reason": "俄罗斯 Akatel（akatel.ru no_mx；alarmex.ru 正常 = 换址；「从中间商采购中国产品，想从中国直接购买」；两部座机，WA 加不上）：真意向 ✔ Simon 点名俄罗斯 ✔；→ 闸 2 查底数（rusprofile）+ 换 alarmex.ru 地址；俄语区收款待定"
+  "g1_reason": "俄罗斯 Akatel（akatel.ru no_mx；alarmex.ru 正常 = 换址；「从中间商采购中国产品，想从中国直接购买」；两部座机，WA 加不上）：真意向 ✔ Simon 点名俄罗斯 ✔；→ 闸 2 查底数（rusprofile）+ 换 alarmex.ru 地址；俄语区收款待定",
+  "facts": [
+   {
+    "what": "rusprofile：ООО «Актел» ИНН 9722065388 · 2023-12-26 · ликвидирована",
+    "url": "https://www.rusprofile.ru/id/1237700938573",
+    "date": "2026-10-29"
+   }
+  ],
+  "recheck": "G2R-01"
  },
  "SC-2973": {
   "verdict": "keep_C",
@@ -24970,12 +25109,14 @@
   "verdict": "keep_C",
   "gate": 2,
   "rule": "G2",
-  "reason": "闸 2 未坐实：kamery-hikvision.sk 1 查仅返回同名他站（hik-kamery.sk / kamery-hikvision-sk.sk / maxalarm）+ 退信 + Simon 判不行 → 回 C 储备；国别纠偏 斯洛文尼亚 → 斯洛伐克（待 Simon 确认）",
+  "reason": "闸 2 未坐实：kamery-hikvision.sk 1 查仅返回同名他站（hik-kamery.sk / kamery-hikvision-sk.sk / maxalarm）+ 退信 + Simon 判不行 → 回 C 储备；国别纠偏 斯洛文尼亚 → 斯洛伐克（待 Simon 确认）｜G2R-01：复查：检索只返回 kamery-hikvision-sk.sk（Bratislava，另一家）→ kamery-hikvision.sk 法人仍未取 → 留 C",
   "date": "2026-10-29",
   "manual": true,
   "batch": "G2-127",
   "g1_batch": "G1-08",
-  "g1_reason": "kamery-hikvision.sk（表内国别「斯洛文尼亚」应为斯洛伐克 .sk，闸 2 核；Wi-Tek 的）：欧洲 + 已进口中国同类品牌；退信 → 闸 2 查底数 + 定国别，低优先；Simon 曾判不行 → 可按编号否决"
+  "g1_reason": "kamery-hikvision.sk（表内国别「斯洛文尼亚」应为斯洛伐克 .sk，闸 2 核；Wi-Tek 的）：欧洲 + 已进口中国同类品牌；退信 → 闸 2 查底数 + 定国别，低优先；Simon 曾判不行 → 可按编号否决",
+  "facts": [],
+  "recheck": "G2R-01"
  },
  "SC-3058": {
   "verdict": "keep_C",
@@ -26988,12 +27129,20 @@
   "verdict": "keep_C",
   "gate": 2,
   "rule": "G2",
-  "reason": "闸 2 回 C：Enercore（enercore.co.in）1 查仅得同名 Enercore Solutions（Gurgaon 2023 住宅地址 微型 IT 服务）域名归属未证 → 未坐实 → 回 C 储备",
+  "reason": "闸 2 回 C：Enercore（enercore.co.in）1 查仅得同名 Enercore Solutions（Gurgaon 2023 住宅地址 微型 IT 服务）域名归属未证 → 未坐实 → 回 C 储备｜G2R-01：复查：官网联系页 ENERCORE SYSTEMS，204 Luxmi Building Sector 10A Gurugram 122001，+91 124 46082947，hello@ → 地址坐实、无法人形式 / 注册号，微型 → 留 C",
   "date": "2026-10-29",
   "manual": true,
   "batch": "G2-130",
   "g1_batch": "G1-13",
-  "g1_reason": "印度 Enercore（enercore.co.in；表内「工业 FS 有海思的」= 在售中国方案工业机）：进口中国同类 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先"
+  "g1_reason": "印度 Enercore（enercore.co.in；表内「工业 FS 有海思的」= 在售中国方案工业机）：进口中国同类 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先",
+  "facts": [
+   {
+    "what": "enercore.co.in/contact：ENERCORE SYSTEMS · 204 Luxmi Building Sector 10A Gurugram · hello@",
+    "url": "https://enercore.co.in/contact.html",
+    "date": "2026-10-29"
+   }
+  ],
+  "recheck": "G2R-01"
  },
  "SC-3240": {
   "verdict": "keep_C",
@@ -30489,15 +30638,40 @@
   "batch": "G1-15"
  },
  "SC-509": {
-  "verdict": "keep_C",
-  "gate": 2,
-  "rule": "G2",
-  "reason": "闸 2 回 C：Nextik（nextik.co.in）1 查仅得 X 账号 + 同名他户 → 法人未取 → 未坐实 → 回 C 储备",
+  "verdict": "pool",
+  "gate": 3,
+  "rule": "P1",
+  "reason": "○ P 池正式入池（档位 ○，复查批 G2R-01）：○ 印度 · 自有品牌 FTTH / 交换机制造商 OEM 30%：NEXTIK BHARAT PRIVATE LIMITED（CIN U72900DL2021PTC377914，2021-03-03 成立；805 Devika Tower Nehru Place New Delhi 110019 + Noida Sec 57 制造基地；+91 8130608406；info@nextik.co.in；自述「leading switch provider in India」core switch / FTTH / WDM / 数据中心方案）Tracxn + 官网坐实；品牌商 ✔ 对位 ✔ → OEM 目标，预付 100% 起步",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G2-130",
+  "batch": "G2R-01",
+  "g2_batch": "G2-130",
+  "g2_reason": "闸 2 回 C：Nextik（nextik.co.in）1 查仅得 X 账号 + 同名他户 → 法人未取 → 未坐实 → 回 C 储备",
   "g1_batch": "G1-15",
-  "g1_reason": "印度 Nextik（nextik.co.in；表内「BD 的核心交换机 / WDM 核心交换机」= 在售 BDCOM 中国品牌）：进口中国同类 ✔ 对位 ✔（企业 / DC 线）Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先"
+  "g1_reason": "印度 Nextik（nextik.co.in；表内「BD 的核心交换机 / WDM 核心交换机」= 在售 BDCOM 中国品牌）：进口中国同类 ✔ 对位 ✔（企业 / DC 线）Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先",
+  "grade": "○",
+  "next_check": "2026-12-28",
+  "tags": [
+   "oem_target",
+   "prepay"
+  ],
+  "facts": [
+   {
+    "what": "官网联系页：Corporate Office 805 Devika Tower Nehru Place · 制造 A-29 Sec 57 Noida · +91 8130608406 · info@nextik.co.in",
+    "url": "https://nextik.co.in/contact",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "Tracxn：NEXTIK BHARAT PRIVATE LIMITED · CIN U72900DL2021PTC377914 · 2021-03-03 · 同址",
+    "url": "https://tracxn.com/d/legal-entities/india/nextik-bharat-private-limited/__zlEjgHjbrKjywYO5rm8g6JO-O1brfcN1Z7OuD5hZQG0",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "About：FTTH 10 年 · 交换机 / 光缆方案 · 电信 / 园区 / 监控 / 数据中心",
+    "url": "https://nextik.co.in/about-us.php",
+    "date": "2026-10-29"
+   }
+  ]
  },
  "SC-510": {
   "verdict": "keep_C",
@@ -31681,15 +31855,31 @@
   "next_check": "2026-12-28"
  },
  "SC-623": {
-  "verdict": "keep_C",
-  "gate": 2,
-  "rule": "G2",
-  "reason": "闸 2 回 C：Industrial Nets（industrialnets.ru）1 查仅同名「Инженерные сети» 他户 → 未坐实；进口中国同类 ✔ 但法人未取 → 回 C 储备（来信再起则补查 + 预付 100%）",
+  "verdict": "pool",
+  "gate": 3,
+  "rule": "P1",
+  "reason": "○ P 池正式入池（档位 ○，复查批 G2R-01）：○ 俄罗斯 · 工业网络设备分销 20%：ООО «АКОМ»（Автоматизация и КОМмуникации；ИНН 7448060703，ОГРН 1047422004475（2004 起）；Челябинск ул. Сахарова 1；8 800 222 32 80；sales@i-nets.ru；тех. директор Молчанов Алексей Юрьевич acom@industrialnets.ru；站点 industrialnets.ru + anybus.ru = HMS/Anybus 渠道）官网联系页坐实；进口中国同类 ✔ 对位（网关 / 转换器 / 交换机）✔ 具名 KP ✔；收款待定（RU）→ 预付 100% 起步",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G2-129",
+  "batch": "G2R-01",
+  "g2_batch": "G2-129",
+  "g2_reason": "闸 2 回 C：Industrial Nets（industrialnets.ru）1 查仅同名「Инженерные сети» 他户 → 未坐实；进口中国同类 ✔ 但法人未取 → 回 C 储备（来信再起则补查 + 预付 100%）",
   "g1_batch": "G1-16",
-  "g1_reason": "俄罗斯 Industrial Nets（industrialnets.ru / i-nets.ru；工业 FS 带串口，表内「和深圳 Comark 合作，还有 N-Net」）：进口中国同类 ✔ 对位 ✔ Simon 点名俄罗斯；群发 17 次 0 回 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先"
+  "g1_reason": "俄罗斯 Industrial Nets（industrialnets.ru / i-nets.ru；工业 FS 带串口，表内「和深圳 Comark 合作，还有 N-Net」）：进口中国同类 ✔ 对位 ✔ Simon 点名俄罗斯；群发 17 次 0 回 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
+  "grade": "○",
+  "next_check": "2026-12-28",
+  "tags": [
+   "ru_payment",
+   "prepay",
+   "industrial"
+  ],
+  "facts": [
+   {
+    "what": "官网联系页：ООО \"АКОМ\" ИНН 7448060703 ОГРН 1047422004475 · Челябинск · sales@i-nets.ru · Молчанов А.Ю. acom@industrialnets.ru",
+    "url": "https://www.industrialnets.ru/contact/",
+    "date": "2026-10-29"
+   }
+  ]
  },
  "SC-624": {
   "verdict": "keep_C",
@@ -32816,15 +33006,31 @@
   "batch": "G1-09"
  },
  "SC-729": {
-  "verdict": "keep_C",
-  "gate": 2,
-  "rule": "G2",
-  "reason": "闸 2 回 C：Brown Bear（brownbear.ru）1 查仅同名 ООО «Браун» 他户 → 未坐实；Planet 渠道 ✔ 但法人未取 → 回 C 储备",
+  "verdict": "pool",
+  "gate": 3,
+  "rule": "P1",
+  "reason": "○ P 池正式入池（档位 ○，复查批 G2R-01）：○ 俄罗斯 · 安防 / 网络设备批发 20%：brownbear.ru 对应法人 ИНН 9728025085 / ОГРН 1217700015807（Москва，2021 登记；类目：安防系统、网络设备、电缆、电信设备）第三方聚合页部分坐实（官网页脚未直取 → reg_pending 复核）；Planet 渠道 ✔ 对位 ✔ order@ 路径 ✔；年轻公司 + 收款待定 → 预付 100%",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G2-129",
+  "batch": "G2R-01",
+  "g2_batch": "G2-129",
+  "g2_reason": "闸 2 回 C：Brown Bear（brownbear.ru）1 查仅同名 ООО «Браун» 他户 → 未坐实；Planet 渠道 ✔ 但法人未取 → 回 C 储备",
   "g1_batch": "G1-17",
-  "g1_reason": "俄罗斯 Brown Bear（brownbear.ru；工业 FS / MC Planet 的）：进口台湾同类 ✔ 对位 ✔ Simon 点名俄罗斯；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先"
+  "g1_reason": "俄罗斯 Brown Bear（brownbear.ru；工业 FS / MC Planet 的）：进口台湾同类 ✔ 对位 ✔ Simon 点名俄罗斯；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
+  "grade": "○",
+  "next_check": "2026-12-28",
+  "tags": [
+   "ru_payment",
+   "prepay",
+   "reg_pending"
+  ],
+  "facts": [
+   {
+    "what": "tapki.com 聚合：brownbear.ru · TIN 9728025085 · OGRN 1217700015807 · 安防 / 网络设备 / 电缆 / 电信设备",
+    "url": "https://tapki.com/en/email/753520044",
+    "date": "2026-10-29"
+   }
+  ]
  },
  "SC-730": {
   "verdict": "keep_C",
@@ -34141,12 +34347,25 @@
   "verdict": "keep_C",
   "gate": 2,
   "rule": "G2",
-  "reason": "闸 2 回 C：Mistercom 同名两户（Москва 已清算 / Воскресенск 执行程序 34 件）域名归属未证 → 未坐实 + 红旗 → 回 C 储备（WA 路径在，来信再核法人）",
+  "reason": "闸 2 回 C：Mistercom 同名两户（Москва 已清算 / Воскресенск 执行程序 34 件）域名归属未证 → 未坐实 + 红旗 → 回 C 储备（WA 路径在，来信再核法人）｜G2R-01：复查：mistercom.ru/about.html 页脚 = ООО «Мистерком»（ИНН 5005054785，ОГРН 1115005002386，Воскресенск ул. Титова 13 + Москва Б. Косинская 27；ОКВЭД 47.43；ГД Корзенникова Н.Ю.）坐实，但即此前「执行程序 34 件」主体 → 红旗保留，留 C",
   "date": "2026-10-29",
   "manual": true,
   "batch": "G2-129",
   "g1_batch": "G1-18",
-  "g1_reason": "俄罗斯 Mistercom（mistercom.ru；工商业 FS 好几家牌子，有朱姐客户的；网站有 WA 按钮）：进口中国同类 ✔ 对位 ✔ WA 路径 ✔；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先"
+  "g1_reason": "俄罗斯 Mistercom（mistercom.ru；工商业 FS 好几家牌子，有朱姐客户的；网站有 WA 按钮）：进口中国同类 ✔ 对位 ✔ WA 路径 ✔；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
+  "facts": [
+   {
+    "what": "mistercom.ru/about：ООО «Мистерком» ИНН 5005054785 ОГРН 1115005002386",
+    "url": "https://mistercom.ru/about.html",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "saby.ru：ОКВЭД 47.43 · ГД Корзенникова Наталья Юрьевна · 招标 20 / 中标 10",
+    "url": "https://saby.ru/profile/5005054785-500501001",
+    "date": "2026-10-29"
+   }
+  ],
+  "recheck": "G2R-01"
  },
  "SC-861": {
   "verdict": "keep_C",
@@ -34686,12 +34905,14 @@
   "verdict": "keep_C",
   "gate": 2,
   "rule": "G2",
-  "reason": "闸 2 回 C：QP Optom（qpoptom.ru）1 查仅同名「Видеонаблюдение» 他户 → 未坐实；批发主体 ✔ 但法人未取 → 回 C 储备",
+  "reason": "闸 2 回 C：QP Optom（qpoptom.ru）1 查仅同名「Видеонаблюдение» 他户 → 未坐实；批发主体 ✔ 但法人未取 → 回 C 储备｜G2R-01：复查 1 查仍无（qpoptom.ru 法人未取）→ 留 C",
   "date": "2026-10-29",
   "manual": true,
   "batch": "G2-129",
   "g1_batch": "G1-19",
-  "g1_reason": "俄罗斯 QP Optom（qpoptom.ru；批发，全线用 itoonertech 的 FS，IPC 为主 / CCTV 领域）：进口中国同类 ✔ 对位 ✔ 批发主体 Simon 点名俄罗斯；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先"
+  "g1_reason": "俄罗斯 QP Optom（qpoptom.ru；批发，全线用 itoonertech 的 FS，IPC 为主 / CCTV 领域）：进口中国同类 ✔ 对位 ✔ 批发主体 Simon 点名俄罗斯；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
+  "facts": [],
+  "recheck": "G2R-01"
  },
  "SC-913": {
   "verdict": "keep_C",
@@ -35268,17 +35489,39 @@
   "batch": "G1-11"
  },
  "SC-969": {
-  "verdict": "keep_C",
-  "gate": 2,
-  "rule": "G2",
-  "reason": "闸 2 回 C：TrueView（trueview.co.in）1 查仅同名两户（True View Technologies Delhi 2008 / TrueView Corporate Mumbai 2022）域名归属未证 → 未坐实 → 回 C 储备（具名 KP manish@ / rupesh.bagde@ 在，来信再起则补查 CIN）",
+  "verdict": "pool_watch",
+  "gate": 3,
+  "rule": "P1",
+  "reason": "△ P 池观察档（档位 △，复查批 G2R-01）：△ 印度 · 自有品牌 CCTV / IFPD / 数字标牌 OEM 30%（观察）：Trueview（2011 起；Plot A-114/6 Five Star Shendra MIDC + Plot 56 AURIC，Chhatrapati Sambhajinagar/Aurangabad；+91 92255 50000；自称 India's No 1 CCTV & display brand）官网地址坐实、法人名 / CIN 未取（Delhi / Mumbai 同名两户都不是）；具名 KP manish@ / rupesh.bagde@ ✔ 对位 ✔ → 观察档：法人坐实即转 ○",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G2-130",
+  "batch": "G2R-01",
+  "g2_batch": "G2-130",
+  "g2_reason": "闸 2 回 C：TrueView（trueview.co.in）1 查仅同名两户（True View Technologies Delhi 2008 / TrueView Corporate Mumbai 2022）域名归属未证 → 未坐实 → 回 C 储备（具名 KP manish@ / rupesh.bagde@ 在，来信再起则补查 CIN）",
   "g1_batch": "G1-19",
   "g1_reason": "印度 TrueView（trueview.co.in；自有品牌 CCTV + 商业 PoE「同行的」，有人卖他们的设备）：自有品牌 = OEM 对象 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先",
+  "grade": "△",
+  "next_check": "2026-12-28",
   "tags": [
-   "oem_target"
+   "oem_target",
+   "reg_pending"
+  ],
+  "facts": [
+   {
+    "what": "官网联系页：Plot No. A-114/6 Five Star Shendra MIDC 431007 · +91 92255 50000",
+    "url": "https://trueview.co.in/contact-us/",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "官网首页：AURIC Plot 56 Sector 13 办公室",
+    "url": "https://trueview.co.in/",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "About：2011 年成立",
+    "url": "https://trueview.co.in/about-us/",
+    "date": "2026-10-29"
+   }
   ]
  },
  "SC-970": {
