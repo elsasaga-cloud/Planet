@@ -26,7 +26,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -73,6 +73,21 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 121 批（LB · 1 次检索：lb.kompass.com/c/melhem-trading-co-sarl/lb023964（Melhem Trading Co. Sarl；Ground floor, Riachi building, Dora highway, Bauchrieh (Metn)；established since 2004 in Lebanon and Nigeria；Main owners Mr. Adnan A Melhem, Ms. Rouba N Khoury, Mr. Jad A Melhem；own products … Korea, China, Taiwan）+ crunchbase（11-50；+961 1 245 000；info@mtco-lb.com）+ yelleb（Dora, Beirut）；登记号未得；2026-10-29，2026-10-29 查；https://lb.kompass.com/c/melhem-trading-co-sarl/lb023964/）：**
+
+- 法定名 / 登记号：Melhem Trading Co. SARL (MTCO)（mtco-lb.com；**kompass：Ground floor, Riachi building, Dora highway, Bauchrieh (Metn)；2004 年起（黎巴嫩 + 尼日利亚）；所有者 Adnan A. Melhem（= 研究档 KP ✓）/ Rouba N. Khoury / Jad A. Melhem；进口分销 CCTV / 线缆 / 灯光 / 音响 / 通信 / 门禁，自有产品（韩 / 中 / 台代工）；+961 1 245 000；info@**）；商业登记号 1 查未得 → 部分坐实；KP Adnan Melhem（MD）；未跟进 · 未取（商业登记号 1 查未得） · 状态 **营业中（官网 + 名录）** · 成立 2004 · SARL
+- 行业码 / 经营范围：CCTV / 线缆 / 灯光 / 通信进口分销 + 自有品牌（Bauchrieh, Metn）
+- 注册地址：Ground floor, Riachi Building, Dora Highway, Bauchrieh (Metn), Lebanon
+- 规模档：小型（11–50）
+- 账目：未取；—
+- 高管：Adnan Melhem — Owner / Managing Director（kompass 2026-10-29 吻合；研究档 KP melhem@mtco-lb.com）= 收件人
+- 高管：Jad A. Melhem — Owner（kompass；无公开邮箱）
+- 高管：Rouba N. Khoury — Owner（kompass；无公开邮箱）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **进口分销商 + 自有品牌代工经验 → 分销 20%（STC-028GP $28 / STC-2216GP / STC-2224GP $86）↔ 贴标 OEM 30% 双轨 B，一页纸一次（MOQ 1 / 贴标 MOQ + 付费样机）— 黎巴嫩常规：英文稿、20 / 25 / 30 + T/T 预付 100%（不接受信用证）+ FOB 深圳 或 DAP 贝鲁特（买方清关）**；回信 → 加厚
+- 备注：分销 20% ↔ 贴标 30% 双轨；一页纸一次（预付 100%）；部分坐实（kompass 地址 + 成立年 + 所有者；登记号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -95,17 +110,18 @@ updated: 2026-10-28
 - **【用户表】表内需求与回复**
   > 2V $120 need pricelist for VC；2024.6.17 发了几个商业交换机图 → 近期可能会有需求
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Adnan Melhem（Managing Director）melhem@mtco-lb.com +961 3 058 000（WA 已加）〔用户 Clients 表〕
+- **KP**：Adnan Melhem（Owner / Managing Director（kompass 所有者 Adnan A. Melhem 2026-10-29 吻合）= 收件人 — 一页纸一次：分销 20%（STC-028GP $28 / STC-2216GP / STC-2224GP $86）↔ 贴标 OEM 30% 双轨 B + MOQ 1 / 贴标 MOQ + 付费样机 — 黎巴嫩常规：英文稿、20 / 25 / 30 + T/T 预付 100%（不接受信用证）+ FOB 深圳 或 DAP 贝鲁特（第 121 批 官方登记核实 2026-10-29））melhem@mtco-lb.com +961 3 058 000（WA 已加）〔用户 Clients 表〕
+- **KP**：Jad A. Melhem（Owner（kompass 2026-10-29；无公开邮箱）（第 121 批 官方登记核实 2026-10-29）） 〔〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于表内信息 + 需求映射））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | 待核 |
-| 成立 | 待核 |
-| 总部/地址 | 待核 |
-| 其他 | +961 3 058 000 / +961 1 245 000；mtco-lb.com（未抓到快照） |
+| 法定名称 | Melhem Trading Co. SARL (MTCO)（商业登记号 1 查未得；所有者 Adnan A. Melhem / Rouba N. Khoury / Jad A. Melhem） |
+| 成立 | 2004（黎巴嫩 + 尼日利亚）（第 121 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Ground floor, Riachi Building, Dora Highway, Bauchrieh (Metn), Lebanon（+961 1 245 000）（第 121 批 官方登记核实 2026-10-29） |
+| 其他 | +961 3 058 000 / +961 1 245 000；mtco-lb.com（未抓到快照）；第 121 批：CCTV / 线缆 / 灯光 / 音响 / 通信进口分销 + 自有品牌（韩 / 中 / 台代工）→ **分销 20% ↔ 贴标 30% 双轨 一页纸一次（预付 100%）**；部分坐实（kompass 地址 + 成立年 + 所有者）（第 121 批 官方登记核实 2026-10-29） |
 
 - **业务线**：待核（见表内需求）
 - **触达通道（公开）**：contact: Adnan Melhem（Managing Director）melhem@mtco-lb.com，+961 3 058 000（WA 已加）
@@ -187,7 +203,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Adnan Melhem | Managing Director | melhem@mtco-lb.com / +961 3 058 000（WA 已加） | 调研核实（公开页） | 用户 Clients 表 |
+| Adnan Melhem | Owner / Managing Director（kompass 所有者 Adnan A. Melhem 2026-10-29 吻合）= 收件人 — 一页纸一次：分销 20%（STC-028GP $28 / STC-2216GP / STC-2224GP $86）↔ 贴标 OEM 30% 双轨 B + MOQ 1 / 贴标 MOQ + 付费样机 — 黎巴嫩常规：英文稿、20 / 25 / 30 + T/T 预付 100%（不接受信用证）+ FOB 深圳 或 DAP 贝鲁特（第 121 批 官方登记核实 2026-10-29） | melhem@mtco-lb.com / +961 3 058 000（WA 已加） | 调研核实（公开页） | 用户 Clients 表 |
+| Jad A. Melhem | Owner（kompass 2026-10-29；无公开邮箱）（第 121 批 官方登记核实 2026-10-29） | — | 调研核实（公开页） | 调研 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 
@@ -279,12 +296,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 45）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 45）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

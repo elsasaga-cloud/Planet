@@ -77,6 +77,19 @@ updated: 2026-10-29
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 121 批（HK · 1 次检索：skyware.com.hk/en/contact.php（SkyWare ProTech Limited；Room 3806A, Cable TV Tower 9 Hoi Shing Road, Tsuen Wan；(852) 3106 0868；sales@skyware.com.hk）+ tradeeasy.com/supplier/841625（Skyware Protech Limited；同址）+ sensmax.eu 2017（Skyware Technologies Limited）；CR 未得；2026-10-29，2026-10-29 查；http://www.skyware.com.hk/en/contact.php）：**
+
+- 法定名 / 登记号：SkyWare ProTech Limited（skyware.com.hk；**官网 contact：Room 3806A, 38/F, Cable TV Tower, 9 Hoi Shing Road, Tsuen Wan；+852 3106 0868；sales@；tradeeasy 同址；2017 年 SensMax 客流系统经销时名 Skyware Technologies Limited（Wing Hing Industrial Bldg, Tsuen Wan）；可编程网络设备 HMP200（研究档）**）；CR 号 1 查未得 → 部分坐实；无具名 KP；群发 8 次无回复 · 未取（CR 号 1 查未得） · 状态 **营业中（官网在）** · 成立 约 2001（自述） · Limited（私人有限）
+- 行业码 / 经营范围：可编程网络 / 楼宇 IoT 设备（荃湾）
+- 注册地址：Room 3806A, 38/F, Cable TV Tower, 9 Hoi Shing Road, Tsuen Wan, N.T., Hong Kong
+- 规模档：小型
+- 账目：未取；—
+- 高管：（无具名 KP：sales@skyware.com.hk；Attn: Sales Manager）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **楼宇 IoT / 可编程设备商（配套工业小机）→ 集成商 25% B，最后一次一页纸（STI-054GP / STI-154GP / STI-280GE $46.6 一口价 + MOQ 1）— 香港常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 香港（免税；OFCA 不声称）**；8×0 → 再无回声 → 不动
+- 备注：集成商 25%；最后一次一页纸（预付 100%）；部分坐实（官网地址 + 电话；CR 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -119,14 +132,17 @@ updated: 2026-10-29
 - **【用户表】工业 FS 周边产品**
   > 工业FS 周边产品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：（无具名 KP）（收件 sales@skyware.com.hk Attn: Sales Manager — 最后一次一页纸：集成商 25% B、楼宇 IoT 配套工业小机（STI-054GP / STI-154GP / STI-280GE $46.6）一口价 + MOQ 1 — 香港常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 香港（免税）（第 121 批 官方登记核实 2026-10-29）） 〔〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 香港 |
-| 其他 | 官网 skyware.com.hk，语言 ?，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | SkyWare ProTech Limited（2017 年名 Skyware Technologies Limited；CR 号 1 查未得） |
+| 成立 | 约 2001（自述）（第 121 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Room 3806A, 38/F, Cable TV Tower, 9 Hoi Shing Road, Tsuen Wan, N.T., Hong Kong（+852 3106 0868）（第 121 批 官方登记核实 2026-10-29） |
+| 其他 | 官网 skyware.com.hk，语言 ?，快照状态 ok；角色判定来源：官网文案；第 121 批：可编程网络 / 楼宇 IoT 设备商（HMP200；SensMax 经销）→ **集成商 25% 最后一次一页纸（预付 100%）**；8×0；部分坐实（官网 + tradeeasy 地址）（第 121 批 官方登记核实 2026-10-29） |
 
 - **业务线**：IP 联网设备 / 楼宇自动化方案
 - **触达通道（公开）**：role: IP 设备方案商（香港，工业 FS 为周边）；region: 香港；contact: sales@skyware.com.hk

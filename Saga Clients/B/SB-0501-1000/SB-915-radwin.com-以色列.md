@@ -76,6 +76,20 @@ updated: 2026-10-29
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 121 批（IL · 1 次检索：dnb.com/business-directory/company-profiles/radwin-ltd（27 Habarzel TEL AVIV-JAFFA 6971039；+972-37662900；CEO Sharon Shar）+ datanyze（Employees 270；Revenue $67.9M；Founded 1997）+ cbinsights（27 Habarzel Street, Tel Aviv, 6971039；1997）；公司号未得；2026-10-29，2026-10-29 查；https://www.dnb.com/business-directory/company-profiles/radwin-ltd.540b3e48d35e64f615a68029699055c6）：**
+
+- 法定名 / 登记号：RADWIN Ltd（radwin.com；**D&B / datanyze / cbinsights：27 Habarzel St., Tel Aviv 6971039；+972 3 766 2900；1997 年成立；约 270 人；营收约 $68M；CEO Sharon Sher（= 研究档 KP ✓）；运营商级固定无线 PtP / PtMP / 回传厂商**）；公司号 1 查未得 → 部分坐实（大型）；KP Dave Azria（Director of Product Management）；表内「Ethernet Switch」；未跟进 · 未取（公司号 1 查未得） · 状态 **营业中（官网 + 企业库）** · 成立 1997 · Ltd（私人有限）
+- 行业码 / 经营范围：固定无线接入 / 回传设备制造（特拉维夫）
+- 注册地址：27 Habarzel St., Tel Aviv 6971039, Israel
+- 规模档：大型（约 270 人）
+- 账目：未取；—
+- 高管：Dave Azria — Director of Product Management（研究档 KP；dave_a@radwin.com）= 收件人
+- 高管：Sharon Sher — CEO（研究档 KP；D&B 吻合）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **无线原厂（CPE / IDU 配套 PoE 交换机 = 配件贴标入口）+ 产品管理总监为 KP → 贴标 OEM 30% B，一页纸一次（STC-028GP $28 / STC-228GP $33 贴标 + 工业 STI-154GP 户外机柜；MOQ + 付费样机）— 以色列常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关；SII 不声称）**；大厂成单概率低 → 一次即止
+- 备注：贴标 OEM 30%；一页纸一次（预付 100%）；部分坐实（企业库地址 + 成立年 + 人数 + CEO；公司号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -114,16 +128,18 @@ updated: 2026-10-29
 - **【用户表】Ethernet Switch**
   > Ethernet Switch
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Dave Azria（）dave_a@radwin.com 〔用户表〕
-- **KP**：Sharon Sher（）sharon_sher@radwin.com 〔用户表〕
+- **KP**：Dave Azria（Director of Product Management（研究档 KP）= 收件人 — 一页纸一次：贴标 OEM 30% B、CPE / IDU 配套 PoE 交换机贴标（STC-028GP $28 / STC-228GP $33 + 户外机柜 STI-154GP）+ MOQ + 付费样机；大厂一次即止 — 以色列常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关）、SII 不声称（第 121 批 官方登记核实 2026-10-29））dave_a@radwin.com 〔用户表〕
+- **KP**：Sharon Sher（CEO（D&B / datanyze 2026-10-29 吻合）（第 121 批 官方登记核实 2026-10-29））sharon_sher@radwin.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 以色列 |
-| 其他 | 官网 radwin.com，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | RADWIN Ltd（公司号 1 查未得） |
+| 成立 | 1997（第 121 批 官方登记核实 2026-10-29） |
+| 总部/地址 | 27 Habarzel St., Tel Aviv 6971039, Israel（+972 3 766 2900）（第 121 批 官方登记核实 2026-10-29） |
+| 其他 | 官网 radwin.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 121 批：运营商级固定无线 PtP / PtMP 原厂 → 仅配件贴标入口 → **贴标 OEM 30% 一页纸一次（预付 100%）**；部分坐实（企业库地址 + 成立年 + 人数 + CEO）（第 121 批 官方登记核实 2026-10-29） |
 
 - **业务线**：固定无线接入 / 回传设备（自有品牌 RADWIN）；托管服务
 - **触达通道（公开）**：role: 固定无线设备厂商（以色列，体量大；配套交换机 OEM）；region: 以色列；contact: dave_a@radwin.com、sharon_sher@radwin.com
@@ -197,8 +213,8 @@ updated: 2026-10-29
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Dave Azria | — | dave_a@radwin.com | 调研核实（公开页） | 用户表 |
-| Sharon Sher | — | sharon_sher@radwin.com | 调研核实（公开页） | 用户表 |
+| Dave Azria | Director of Product Management（研究档 KP）= 收件人 — 一页纸一次：贴标 OEM 30% B、CPE / IDU 配套 PoE 交换机贴标（STC-028GP $28 / STC-228GP $33 + 户外机柜 STI-154GP）+ MOQ + 付费样机；大厂一次即止 — 以色列常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关）、SII 不声称（第 121 批 官方登记核实 2026-10-29） | dave_a@radwin.com | 调研核实（公开页） | 用户表 |
+| Sharon Sher | CEO（D&B / datanyze 2026-10-29 吻合）（第 121 批 官方登记核实 2026-10-29） | sharon_sher@radwin.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

@@ -28,7 +28,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -85,6 +85,19 @@ updated: 2026-10-28
 - 法定假日：01-01 New Year's Day；03-08 International Women's Day；03-12 Youth Day；03-26 Good Friday；03-27 Holy Saturday；03-28 Easter Sunday；03-29 Easter Monday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 121 批（ZM · 1 次检索：obmacsystems.com（founded on February 13th 2007；Telecommunications, Electrical and Mechanical projects and procurement；Pythias Kachepa Founder）+ linkedin.com/in/pythias-kachepa-7a097618（CEO Obmac Systems Feb 2009 - Present；Director Operations 2007-2009 Ndola）+ datanyze（Employees 7；Revenue $2.6M）；PACRA 未得；2026-10-29，2026-10-29 查；http://obmacsystems.com/）：**
+
+- 法定名 / 登记号：Obmac Systems（obmacsystems.com；**官网：2007-02-13 成立，ICT / 电气 / 机械项目与采购（恩多拉起家，现卢萨卡）；创始人 / CEO Pythias Kachepa（领英：Director Operations 2007–09 → CEO 2009–今，2013–14 南苏丹 Toplinks）；datanyze 约 7 人、营收约 $2.6M**）；PACRA 号 1 查未得 → 部分坐实；**2024-01 已成单 $9,350（PI 包「gg」）**；2025 起 9 次群发无回复；KP Pythias Kachepa（pythiask@gmail.com） · 未取（PACRA 号 1 查未得） · 状态 **营业中（官网 + 领英）** · 成立 2007-02-13 · Ltd（推定）
+- 行业码 / 经营范围：ICT / 电气 / 机械项目承包与采购（卢萨卡）
+- 注册地址：未取（Lusaka, Zambia；起家 Ndola）
+- 规模档：微型（约 7 人）
+- 账目：未取；—
+- 高管：Pythias Kachepa — Founder / CEO / Managing Director（官网 + 领英 2026-10-29 吻合；研究档 KP pythiask@gmail.com）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **★ 已成单（2024-01 $9,350）+ 创始人 CEO 为 KP → 复购一页纸一次（STC-4248 系列复购价 + STI-154GP / STI-288DGGPM $137 太阳能 EPC 配套 DIN 机 + MOQ 1）— 赞比亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 卢萨卡（买方清关；ZABS 不声称）**；Simon 定级「gg 难复购」→ B 保留，回信即升 A 候选
+- 备注：复购（集成商 25%）；一页纸一次（预付 100%）；部分坐实（官网成立日 + 领英 CEO；PACRA 未取）；★ 回信即升。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -114,10 +127,17 @@ updated: 2026-10-28
 - **【公开平台核查（T29-U18）】LinkedIn Francis Chamyolo（OBMAC Systems，Lusaka，1K followers）：与 Valinor Investment Limited 合作、SANY International (Zambia) 施工的 11 MWp（10 MWac）光伏电站，年发电 22 GWh**
   > We are delivering the project with our corporate partner, Valinor Investment Limited, with construction undertaken by SANY International (Zambia) … installed capacity of 11MWp (10MWac)
   > 来源：https://www.linkedin.com/in/francis-chamyolo-3903ba8b/（抓取 2026-10-23）
-- **KP**：Pythias Kachepa（单据联系人）pythiask@gmail.com 〔PI.zip 单据〕
+- **KP**：Pythias Kachepa（Founder / CEO / Managing Director（官网 + 领英 2026-10-29 吻合；2024-01 订单单据联系人）= 收件人 — 复购一页纸一次：STC-4248 系列复购价 + STI-154GP / STI-288DGGPM $137 太阳能 EPC 配套 DIN 机 + MOQ 1 — 赞比亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 卢萨卡、ZABS 不声称（第 121 批 官方登记核实 2026-10-29））pythiask@gmail.com 〔PI.zip 单据〕
 - **调研后定级**：B（原自动 C）——PI 包成单客户（2024-01 一单 265 台 USD 9,350，Simon 成本表利润 RMB 23,118；Simon 标签 gg）→ 至少 B
 
 ### 加厚挖掘（2026-10-23 · 公开平台核查（T29-U18，针对性：只核活跃平台与触达通道））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | Obmac Systems（PACRA 号 1 查未得） |
+| 成立 | 2007-02-13（第 121 批 官方登记核实 2026-10-29） |
+| 总部/地址 | 未取（Lusaka, Zambia；起家 Ndola）（第 121 批 官方登记核实 2026-10-29） |
+| 其他 | 第 121 批：★ 已成单（2024-01 $9,350，PI 包「gg」= Simon 定级难复购）+ 创始人 CEO 为 KP；ICT / 电气 / 机械项目承包与采购，转向太阳能 EPC → **复购一页纸一次（预付 100%）；B 保留，回信即升 A 候选**；部分坐实（官网成立日 + 领英 CEO）（第 121 批 官方登记核实 2026-10-29） |
 
 - **触达通道（公开）**：公开动态平台（监控中，T29-U18）: 官网 obmacsystems.com（模板站，无更新）；LinkedIn 员工 Francis Chamyolo（1K followers，2026 发光伏 EPC 项目）；ZICTA 注册经销商名单；Yandex 地图条目 Parliament Road / Makishi Road 3061
 - **近况信号**：
@@ -193,7 +213,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Pythias Kachepa | 单据联系人 | pythiask@gmail.com | 调研核实（公开页） | PI.zip 单据 |
+| Pythias Kachepa | Founder / CEO / Managing Director（官网 + 领英 2026-10-29 吻合；2024-01 订单单据联系人）= 收件人 — 复购一页纸一次：STC-4248 系列复购价 + STI-154GP / STI-288DGGPM $137 太阳能 EPC 配套 DIN 机 + MOQ 1 — 赞比亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 卢萨卡、ZABS 不声称（第 121 批 官方登记核实 2026-10-29） | pythiask@gmail.com | 调研核实（公开页） | PI.zip 单据 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -277,12 +297,12 @@ Hello, Simon from Saga Telecom (Shenzhen) - the January 2024 shipment to Lusaka:
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 18）；人工/调研定级 → B
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 18）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

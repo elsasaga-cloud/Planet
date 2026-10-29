@@ -24,7 +24,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -72,6 +72,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 121 批（KZ · 1 次检索：zoon.kz/almaty/shops/distribyutorskaya_kompaniya_comptek_ca（Алматы, Райымбека проспект, 165а, 3 этаж; 6 офис；+7 (727) 246-82-21；comptek.kz）+ almati.tel-spravochnik.ru（CompTek CA, ТОО）+ facebook.com/CompTekCA（n.drobysheva@comptek.kz；+7 7272 46 82 22）；БИН 未得；2026-10-29，2026-10-29 查；https://zoon.kz/almaty/shops/distribyutorskaya_kompaniya_comptek_ca/）：**
+
+- 法定名 / 登记号：ТОО «CompTek CA»（comptek.kz；**zoon / tel-spravochnik / facebook：г. Алматы, проспект Райымбека 165А, 3 этаж, офис 6；+7 727 246-82-21 / -22；n.drobysheva@comptek.kz；企业级 IT 分销（Cisco / Dell / Ubiquiti / Avaya / F5 / SUSE 等，研究档）**）；БИН 1 查未得 → 部分坐实；KP Faim Ahmetzjnov（comtek@mail.ru，阿里 RFQ 来源）；需求 PoE 分离器（不供）；未跟进 · 未取（БИН 1 查未得） · 状态 **营业中（2024-11 活动贴）** · 成立 未取 · ТОО（有限责任合伙）
+- 行业码 / 经营范围：企业级 IT / 网络设备分销（阿拉木图）
+- 注册地址：пр. Райымбека 165А, 3 этаж, офис 6, Алматы, Kazakhstan
+- 规模档：小型
+- 账目：未取；—
+- 高管：Faim Ahmetzjnov — 联系人（研究档 KP；comtek@mail.ru，阿里 RFQ）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **原厂级 IT 分销（Cisco 等）+ 唯一需求 PoE 分离器（不供）→ 不动（B 保留；来询按分销 20% 报 STC 商用线 + 预付 100%）**— 哈萨克斯坦常规：英文稿、20 / 25 / 30 + T/T 预付 100%（哈国银行）+ FOB 深圳 或 DAP 阿拉木图 / 阿斯塔纳（买方清关；EAC 不声称）
+- 备注：不动（产品不对位）；部分坐实（名录地址 + 电话；БИН 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -105,15 +118,17 @@ updated: 2026-10-28
 - **【用户表】PoE Splitter 阿里 RFQ**
   > PoE Splitter / from: 阿里巴巴RFQ
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Faim Ahmetzjnov（）comtek@mail.ru 〔用户表〕
+- **KP**：Faim Ahmetzjnov（联系人（研究档 KP；阿里 RFQ 来源）— 不动：企业级 IT 分销（Cisco / Dell / Ubiquiti 等）+ 唯一需求 PoE 分离器（不供）— 哈萨克斯坦常规：英文稿、20 / 25 / 30 + T/T 预付 100%（哈国银行）+ FOB 深圳 或 DAP 阿拉木图 / 阿斯塔纳、EAC 不声称（第 121 批 官方登记核实 2026-10-29））comtek@mail.ru 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 哈萨克斯坦 |
-| 其他 | 官网 comptek.kz，语言 ru，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | ТОО «CompTek CA»（БИН 1 查未得） |
+| 成立 | 未取（第 121 批 官方登记核实 2026-10-29） |
+| 总部/地址 | пр. Райымбека 165А, 3 этаж, офис 6, Алматы, Kazakhstan（+7 727 246-82-21 / -22；n.drobysheva@comptek.kz）（第 121 批 官方登记核实 2026-10-29） |
+| 其他 | 官网 comptek.kz，语言 ru，快照状态 ok；角色判定来源：官网文案；第 121 批：**不动（产品不对位；来询按分销 20% 报 STC 商用线）**；部分坐实（zoon / tel-spravochnik / facebook 地址）（第 121 批 官方登记核实 2026-10-29） |
 
 - **业务线**：网络 / 电信 / 数据中心设备分销（哈萨克斯坦）
 - **触达通道（公开）**：role: IT 分销商（哈萨克斯坦，阿里 RFQ PoE 分离器）；region: 哈萨克斯坦；contact: comtek@mail.ru
@@ -166,7 +181,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Faim Ahmetzjnov | — | comtek@mail.ru | 调研核实（公开页） | 用户表 |
+| Faim Ahmetzjnov | 联系人（研究档 KP；阿里 RFQ 来源）— 不动：企业级 IT 分销（Cisco / Dell / Ubiquiti 等）+ 唯一需求 PoE 分离器（不供）— 哈萨克斯坦常规：英文稿、20 / 25 / 30 + T/T 预付 100%（哈国银行）+ FOB 深圳 或 DAP 阿拉木图 / 阿斯塔纳、EAC 不声称（第 121 批 官方登记核实 2026-10-29） | comtek@mail.ru | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：仅免费邮箱：可发，但优先找官网公开的企业邮箱（见调研 KP）
 
@@ -259,12 +274,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 27）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 27）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -83,6 +83,19 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 121 批（HK · 1 次检索：hk.linkedin.com/company/siera-electronics（565-567 Nathan Road Unit 2201B, 22/F Kowloon；Founded 1995；manufactures … Electronic Security, CCTV, Access Control）+ contactout.com（11-50 employees；same address）；CR 未得；2026-10-29，2026-10-29 查；https://hk.linkedin.com/company/siera-electronics）：**
+
+- 法定名 / 登记号：Siera Electronics（sieraelectronics.com；Siera Holding Group 成员，面向拉美西语市场；**领英 / contactout：565-567 Nathan Road, Unit 2201B, 22/F, Kowloon；1995 年成立；自有品牌安防（Sieco 摄像机、门禁、对讲、音响）；11–50 人（领英自报 201–500 偏高）**）；CR 号 1 查未得 → 部分坐实；表内「商用 PoE 用 ONV，自己的 label」；KP Mauro Fleitas（Electronic Engineer，venta@）；群发 18 次无回复 · 未取（CR 号 1 查未得） · 状态 **营业中（领英 2026 更新）** · 成立 1995 · Limited（推定）
+- 行业码 / 经营范围：自有品牌安防电子（九龙；拉美市场）
+- 注册地址：565-567 Nathan Road, Unit 2201B, 22/F, Kowloon, Hong Kong
+- 规模档：小型（11–50）
+- 账目：未取；—
+- 高管：Mauro Fleitas — Electronic Engineer（研究档 KP；venta@sieraelectronics.com）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自有 label 商用 PoE 在售（他牌贴标）→ 贴标 OEM 30% B，最后一次一页纸（STC-028GP $28 / STC-2216GP / STC-2224GP $86 Siera 贴标 + MOQ + 付费样机；在供品牌不点名；西语备注）— 香港常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 香港（免税；OFCA 不声称）**；18×0 → 再无回声 → 不动
+- 备注：贴标 OEM 30%；最后一次一页纸（预付 100%）；部分坐实（领英地址 + 成立年；CR 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -126,15 +139,17 @@ updated: 2026-10-28
 - **【用户表】ONV 的商业 PoE 带自己的标**
   > ONV的商业POE 带了自己的标
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Mauro Fleitas（）venta@sieraelectronics.com 〔用户表〕
+- **KP**：Mauro Fleitas（Electronic Engineer（研究档 KP）= 收件人 — 最后一次一页纸：贴标 OEM 30% B、STC-028GP $28 / STC-2216GP / STC-2224GP $86 Siera 贴标 + MOQ + 付费样机；在供 ONV 不点名；西语备注 — 香港常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 香港（免税）（第 121 批 官方登记核实 2026-10-29））venta@sieraelectronics.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 香港 |
-| 其他 | 官网 sieraelectronics.com，语言 en-US，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Siera Electronics（Siera Holding Group；CR 号 1 查未得） |
+| 成立 | 1995（第 121 批 官方登记核实 2026-10-29） |
+| 总部/地址 | 565-567 Nathan Road, Unit 2201B, 22/F, Kowloon, Hong Kong（第 121 批 官方登记核实 2026-10-29） |
+| 其他 | 官网 sieraelectronics.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 121 批：自有品牌安防（Sieco）面向拉美，自有 label 商用 PoE 在售 → **贴标 OEM 30% 最后一次一页纸（预付 100%）**；18×0；部分坐实（领英地址 + 成立年）（第 121 批 官方登记核实 2026-10-29） |
 
 - **业务线**：安防摄像 / CCTV / 对讲 / 云（自有品牌 Siera / Sieco）
 - **触达通道（公开）**：role: 拉美导向安防品牌商（香港注册，PoE 现 ONV 贴标）；region: 香港；contact: venta@sieraelectronics.com
@@ -235,7 +250,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Mauro Fleitas | — | venta@sieraelectronics.com | 调研核实（公开页） | 用户表 |
+| Mauro Fleitas | Electronic Engineer（研究档 KP）= 收件人 — 最后一次一页纸：贴标 OEM 30% B、STC-028GP $28 / STC-2216GP / STC-2224GP $86 Siera 贴标 + MOQ + 付费样机；在供 ONV 不点名；西语备注 — 香港常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 香港（免税）（第 121 批 官方登记核实 2026-10-29） | venta@sieraelectronics.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 18 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -330,12 +345,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 50）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 50）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

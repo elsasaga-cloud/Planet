@@ -76,6 +76,20 @@ updated: 2026-10-29
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 121 批（IL · 1 次检索：dnb.com（PAL WINTEC SYSTEMS LTD；20 Hamagshimim PETAH TIKVA 4934829）+ inter-fair.com（established in 2000；+972 3 922 2051）+ tradeindia（Mr. Ophir Reuveni；Employee Count 35；Exporter, Importer, Manufacturer）；公司号未得；2026-10-29，2026-10-29 查；https://www.dnb.com/business-directory/company-profiles.pal_wintec_systems_ltd.41d48ad1a0335f9455abaa962c86bea9.html）：**
+
+- 法定名 / 登记号：Pal Wintec Systems Ltd（palwintec.com；**D&B：20 Hamagshimim St., Petah Tikva 4934829；inter-fair / tradeindia：2000 年成立、约 35 人、P.O. Box 7184、+972 3 922 2051；对讲 / 门禁 / 电话系统自研制造 + 出口；tradeindia 联系人 Mr. Ophir Reuveni**）；公司号 1 查未得 → 部分坐实；KP Efi Yosefian（VP）；表内「常规 af/at PoE、不用 90W、无需云管理」；6 次跟进无回复 · 未取（公司号 1 查未得） · 状态 **营业中（官网 + 企业库）** · 成立 2000 · Ltd
+- 行业码 / 经营范围：对讲 / 门禁 / 电话系统制造与出口（佩塔提克瓦）
+- 注册地址：20 Hamagshimim St., P.O. Box 7184, Petah Tikva 4934829, Israel
+- 规模档：小型（约 35 人）
+- 账目：未取；—
+- 高管：Efi Yosefian — VP（研究档 KP；efi@palwintec.com）= 收件人
+- 高管：Ophir Reuveni — 联系人（tradeindia 2026-10-29；无公开邮箱）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自研对讲 / IP 监视器厂商、需求明确（af/at 常规 PoE）→ 集成商 25% B（随机配套 PoE：STC-028GP $28 / STC-2216GP 一口价）+ 贴标 30% 选项一句，一页纸一次（MOQ 1 + 付费样机）— 以色列常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关；SII 不声称）**；再无回声 → 不动
+- 备注：集成商 25%（贴标选项）；一页纸一次（预付 100%）；部分坐实（D&B 地址 + 成立年 + 人数；公司号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -118,15 +132,18 @@ updated: 2026-10-29
 - **【用户表】需要云管理；af/at 为主**
   > 1,需要云管理 2，基本不用90W POE，常规af/at用的多 2个人，目的比较明确
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Efi Yosefian（）efi@palwintec.com 〔用户表〕
+- **KP**：Efi Yosefian（VP（研究档 KP）= 收件人 — 一页纸一次：集成商 25% B、对讲 / IP 监视器随机配套 PoE（STC-028GP $28 / STC-2216GP）一口价 + 贴标 30% 选项一句 + MOQ 1 + 付费样机 — 以色列常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关）、SII 不声称（第 121 批 官方登记核实 2026-10-29））efi@palwintec.com 〔用户表〕
+- **KP**：Ophir Reuveni（联系人（tradeindia 供应商档 2026-10-29；无公开邮箱）（第 121 批 官方登记核实 2026-10-29）） 〔〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 以色列 |
-| 其他 | 官网 palwintec.com，语言 he-IL，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Pal Wintec Systems Ltd（公司号 1 查未得） |
+| 成立 | 2000（第 121 批 官方登记核实 2026-10-29） |
+| 总部/地址 | 20 Hamagshimim St., P.O. Box 7184, Petah Tikva 4934829, Israel（+972 3 922 2051）（第 121 批 官方登记核实 2026-10-29） |
+| 其他 | 官网 palwintec.com，语言 he-IL，快照状态 ok；角色判定来源：官网文案；第 121 批：对讲 / 门禁 / 电话系统自研制造 + 出口；需求 af/at 常规 PoE、无需云管理 → **集成商 25% 一页纸一次（预付 100%）**；部分坐实（D&B 地址 + 成立年 + 人数）（第 121 批 官方登记核实 2026-10-29） |
 
 - **业务线**：门禁 / 对讲 / IP 监视器安装（以色列）
 - **触达通道（公开）**：role: 门禁/对讲安装商（以色列，云管理需求）；region: 以色列；contact: efi@palwintec.com
@@ -215,7 +232,8 @@ updated: 2026-10-29
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Efi Yosefian | — | efi@palwintec.com | 调研核实（公开页） | 用户表 |
+| Efi Yosefian | VP（研究档 KP）= 收件人 — 一页纸一次：集成商 25% B、对讲 / IP 监视器随机配套 PoE（STC-028GP $28 / STC-2216GP）一口价 + 贴标 30% 选项一句 + MOQ 1 + 付费样机 — 以色列常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关）、SII 不声称（第 121 批 官方登记核实 2026-10-29） | efi@palwintec.com | 调研核实（公开页） | 用户表 |
+| Ophir Reuveni | 联系人（tradeindia 供应商档 2026-10-29；无公开邮箱）（第 121 批 官方登记核实 2026-10-29） | — | 调研核实（公开页） | 调研 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

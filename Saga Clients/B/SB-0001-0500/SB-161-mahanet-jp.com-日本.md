@@ -75,6 +75,19 @@ updated: 2026-10-29
 
 - 法定假日：11-03 Culture Day；11-23 Labor Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 121 批（JP · 1 次检索：info.gbiz.go.jp/hojin/ichiran?hojinBango=7390001009301（マハネット株式会社；法人番号 7390001009301；山形県東根市大字蟹沢１６４６番地３３；設立 2005年02月25日；被保険者数 4人）+ mahanet-jp.com/en（Incorporated 2005/02/25；Capital 10,000,000 Yen；CEO Akira Ohe；0237-42-5833）；2026-10-29，2026-10-29 查；https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7390001009301）：**
+
+- 法定名 / 登记号：マハネット株式会社 Mahanet Co., Ltd.（mahanet-jp.com；**gBizINFO：法人番号 7390001009301；設立 2005-02-25；本店 山形県東根市大字蟹沢 1646-33；被保険者数 4 人；全省庁統一資格；官网：資本金 1,000 万円、CEO Akira Ohe（大江）、TEL 0237-42-5833；防犯カメラ販売施工 + 自有 MH- 系列 IP 摄像机 / NVR / PoE 交换 HUB（MH-7204E / 7208E / 7216E-L2 / 7224E-L2）**）→ 坐实；表内「安防为主 有 Utepo 的交换机」；无具名 KP；7 次跟进无回复 · 法人番号 7390001009301 · 状态 **营业中（gBiz 在册 + 官网）** · 成立 2005-02-25 · 株式会社（資本金 1,000 万円）
+- 行业码 / 经营范围：防犯カメラ・安防系统销售施工，自有 MH 系列（山形东根）
+- 注册地址：〒999-3716 山形県東根市大字蟹沢 1646-33, Japan
+- 规模档：微型（4 人）
+- 账目：未取；—
+- 高管：Akira Ohe（大江）— CEO / 代表取締役（官网 2026-10-29；收件 info@mahanet-jp.com Attn: Mr. Ohe）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自有 MH 系列 PoE 交换 HUB → 贴标 OEM 30% B，一页纸一次（MH-7204E / 7208E / 7216E-L2 / 7224E-L2 对位 STC-028GP $28 / STC-2216GP / STC-4424GCPM $165 贴标 + MOQ + 付费样机；UTEPO 不点名）— 日本常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关；技適 / PSE 不声称）**；7×0 → 最后一次，再无回声 → 不动
+- 备注：贴标 OEM 30%；最后一次一页纸（预付 100%）；坐实（法人番号 + 設立 + 本店 + 代表）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -118,14 +131,17 @@ updated: 2026-10-29
 - **【用户表】安防为主 有 Utepo 的交换机**
   > 安防为主 有Utepo的交换机
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Akira Ohe（大江）（CEO / 代表取締役（官网会社概要 2026-10-29）→ 收件 info@mahanet-jp.com Attn: Mr. Ohe — 最后一次一页纸：贴标 OEM 30% B、MH-7204E / 7208E / 7216E-L2 / 7224E-L2 对位 STC-028GP $28 / STC-2216GP / STC-4424GCPM $165 贴标 + MOQ + 付费样机；UTEPO 不点名 — 日本常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP、技適 / PSE 不声称（第 121 批 官方登记核实 2026-10-29）） 〔〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 日本 |
-| 其他 | 官网 mahanet-jp.com，语言 ja，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | マハネット株式会社 Mahanet Co., Ltd.（法人番号 7390001009301；資本金 1,000 万円） |
+| 成立 | 2005-02-25（第 121 批 官方登记核实 2026-10-29） |
+| 总部/地址 | 〒999-3716 山形県東根市大字蟹沢 1646-33, Japan（0237-42-5833）（第 121 批 官方登记核实 2026-10-29） |
+| 其他 | 官网 mahanet-jp.com，语言 ja，快照状态 ok；角色判定来源：用户表；第 121 批：防犯カメラ販売施工 + 自有 MH 系列 IP 摄像机 / NVR / PoE 交换 HUB，全省庁統一資格 → **贴标 OEM 30% 最后一次一页纸（预付 100%）**；7×0；坐实（gBizINFO 法人番号 + 設立 + 本店）（第 121 批 官方登记核实 2026-10-29） |
 
 - **业务线**：业务用防犯摄像机销售安装（山形/东北）；自有 MH 系列（摄像机 / NVR / PoE HUB）
 
@@ -218,7 +234,7 @@ updated: 2026-10-29
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@mahanet-jp.com | 用户表原值 | Clients/ 表 |
+| Akira Ohe（大江） | CEO / 代表取締役（官网会社概要 2026-10-29）→ 收件 info@mahanet-jp.com Attn: Mr. Ohe — 最后一次一页纸：贴标 OEM 30% B、MH-7204E / 7208E / 7216E-L2 / 7224E-L2 对位 STC-028GP $28 / STC-2216GP / STC-4424GCPM $165 贴标 + MOQ + 付费样机；UTEPO 不点名 — 日本常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP、技適 / PSE 不声称（第 121 批 官方登记核实 2026-10-29） | — | 调研核实（公开页） | 调研 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -254,7 +270,7 @@ updated: 2026-10-29
 ## SWOT
 
 - **S**：名单内已有联系记录，不是零起点
-- **W**：无具名决策人，仍是公司级触达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STC-28DGGPM 按 30% 档报价，做现供应商的第二货源；对位其在用/在卖的 Utepo：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
@@ -271,7 +287,7 @@ updated: 2026-10-29
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ✅ |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ✅ Utepo |
 | 采购量/预算 | ❓ 未确认 |
@@ -287,7 +303,7 @@ updated: 2026-10-29
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Akira,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the MH-series PoE switching hubs you bundle with your camera systems, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 16/24-PoE + 4 SFP) in your packaging from small lots, CE/RoHS; PSE/VCCI by your side — which model do your installations use most?
 

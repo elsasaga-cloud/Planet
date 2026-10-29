@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -73,6 +73,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 121 批（IL · 1 次检索：new-techguide.com/supplier/advice-electronics-ltd（ADVICE ELECTRONICS LTD；established on 1988；Company ID: 511393159；16 Atir Yeda st. Kfar Saba）+ il.linkedin.com/company/advice-electronics（Founded 1989；51-200；972-3-9000900；sales@advice.co.il）；2026-10-29，2026-10-29 查；https://www.new-techguide.com/supplier/advice-electronics-ltd/）：**
+
+- 法定名 / 登记号：Advice Electronics Ltd（advice.co.il；**new-techguide 供应商页：Company ID 511393159；16 Atir Yeda St., Kfar Saba；1988 / 1989 年成立；51–200 人；+972 3 900 0900；sales@advice.co.il；电源 / UPS / 储能 / 通信方案，代理 MeanWell / Eltek / Fronius 等，ISO9001；站内 PLANET 工业交换机 IGS-4215-4T2S / ISW-501T / ISW-511T、UIS16G-E；表内「自己的 logo，PLANET 的较多产品」**）→ 坐实；无具名 KP；群发 8 次无回复 · 公司号 511393159 · 状态 **营业中（官网 + 领英 2025）** · 成立 1988（领英口径 1989） · Ltd（私人有限）
+- 行业码 / 经营范围：电源 / UPS / 通信方案分销与制造（卡法萨巴）
+- 注册地址：16 Atir Yeda St., Kfar Saba, Israel
+- 规模档：中小型（51–200）
+- 账目：未取；—
+- 高管：（无具名 KP：sales@advice.co.il；Attn: Communication Products Manager）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自有 logo + 在售 PLANET 工业机 → 贴标 OEM 30%（STI-154GP 对 IGS-4215-4T2S / STI-054GP 对 ISW-501T 贴标）↔ 分销 20% 双轨 B，一页纸一次（PLANET 不点名；MOQ + 付费样机）— 以色列常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关；SII 不声称）**；回信 → 加厚
+- 备注：贴标 OEM 30% ↔ 分销 20% 双轨；一页纸一次（预付 100%）；坐实（公司号 + 地址 + 成立年）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -116,14 +129,17 @@ updated: 2026-10-28
 - **【用户表】自己的 logo PLANET 较多**
   > MC FS 工业FS 周边产品 自己的logo Planet的较多产品；可以尝试多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：（无具名 KP）（收件 sales@advice.co.il Attn: Communication Products Manager — 一页纸一次：贴标 OEM 30%（STI-154GP 对 IGS-4215-4T2S / STI-054GP 对 ISW-501T）↔ 分销 20% 双轨 B + MOQ + 付费样机；PLANET 不点名 — 以色列常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关）、SII 不声称（第 121 批 官方登记核实 2026-10-29）） 〔〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 以色列 |
-| 其他 | 官网 advice.co.il，语言 he，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Advice Electronics Ltd（公司号 511393159） |
+| 成立 | 1988（领英口径 1989）（第 121 批 官方登记核实 2026-10-29） |
+| 总部/地址 | 16 Atir Yeda St., Kfar Saba, Israel（+972 3 900 0900）（第 121 批 官方登记核实 2026-10-29） |
+| 其他 | 官网 advice.co.il，语言 he，快照状态 ok；角色判定来源：用户表；第 121 批：电源 / UPS / 通信方案分销 + 制造，ISO9001，站内在售 PLANET 工业机且自有 logo → **贴标 30% ↔ 分销 20% 双轨 一页纸一次（预付 100%）**；坐实（new-techguide Company ID + 地址 + 成立年）（第 121 批 官方登记核实 2026-10-29） |
 
 - **业务线**：UPS / 电源 / 储能 / EV 充电 / 通信机房方案分销
 
@@ -320,12 +336,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 45）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 45）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

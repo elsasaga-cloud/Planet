@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -86,6 +86,20 @@ updated: 2026-10-28
 - 【惯例】02-04→02-14：春节：客户侧（台 / 港 / 新 / 马华人企业 / 越南 Tết / 韩国 Seollal 2-06→2-08）放假 3–9 天
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 121 批（HK · 1 次检索：inriskable.com/business_info/company/hk/15215848（永佳科技有限公司 EVERBEST TECHNOLOGIES LIMITED；Business registration number 15215848；Company registration number 334414）+ everbesthk.com/contact（14th Floor, Wing Hang Insurance Building, 11 Wing Kut Street, Central；(852) 2541 2982；since 1991）+ aten.com where-to-buy HK（Everbest Technologies Ltd.）；2026-10-29，2026-10-29 查；https://www.inriskable.com/business_info/company/hk/15215848）：**
+
+- 法定名 / 登记号：Everbest Technologies Limited 永佳科技有限公司（everbesthk.com；**inriskable 镜像：CR No. 334414，BR No. 15215848；官网 contact：14/F Wing Hang Insurance Building, 11 Wing Kut Street, Central；+852 2541 2982；sales@；1991 年起港澳代理（ATEN 官方 where-to-buy 2026 列名；研究档 Zyxel / LevelOne / DrayTek 等）**）→ 坐实；KP Allen Chan（Director）/ Ariel Cheng（PM）；未跟进 · CR No. 334414；BR No. 15215848 · 状态 **存续（官网 + ATEN 2026 列名）** · 成立 约 1991（自述） · Limited（私人有限）
+- 行业码 / 经营范围：IT / 网络产品港澳分销（中环）
+- 注册地址：14/F Wing Hang Insurance Building, 11 Wing Kut Street, Central, Hong Kong
+- 规模档：小型
+- 账目：未取；—
+- 高管：Allen Chan — Director（研究档 KP；everbesthk.com）= 收件人
+- 高管：Ariel Cheng — Product Manager（研究档 KP）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **多品牌网络产品分销（在代 LevelOne / Zyxel 类交换机）→ 分销 20% B，一页纸一次（STC-028GP $28 / STC-2224GP $86 / STC-4424GCPM $165 / STI-154GP 一口价 + MOQ 1 + 付费样机；在代品牌不点名）— 香港常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 香港（免税；OFCA 不声称）**；回信 → 加厚
+- 备注：分销 20%；一页纸一次（预付 100%）；坐实（CR + BR 号 + 地址）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -129,16 +143,18 @@ updated: 2026-10-28
 - **【用户表】卖几个有名的牌子**
   > 卖几个有名的牌子；可以尝试多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Ariel Cheng（）sales@everbesthk.com 〔用户表〕
-- **KP**：Allen Chan（）allenc@everbesthk.com 〔用户表〕
+- **KP**：Ariel Cheng（Product Manager（研究档 KP）（第 121 批 官方登记核实 2026-10-29））sales@everbesthk.com 〔用户表〕
+- **KP**：Allen Chan（Director（研究档 KP）= 收件人 — 一页纸一次：分销 20% B、STC-028GP $28 / STC-2224GP $86 / STC-4424GCPM $165 / STI-154GP 一口价 + MOQ 1 + 付费样机；在代 LevelOne / Zyxel 类不点名 — 香港常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 香港（免税）（第 121 批 官方登记核实 2026-10-29））allenc@everbesthk.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 香港 |
-| 其他 | 官网 everbesthk.com，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Everbest Technologies Limited 永佳科技有限公司（CR No. 334414；BR No. 15215848） |
+| 成立 | 约 1991（自述港澳代理起）（第 121 批 官方登记核实 2026-10-29） |
+| 总部/地址 | 14/F Wing Hang Insurance Building, 11 Wing Kut Street, Central, Hong Kong（+852 2541 2982）（第 121 批 官方登记核实 2026-10-29） |
+| 其他 | 官网 everbesthk.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 121 批：IT / 网络产品港澳分销（ATEN 官方 where-to-buy 2026 列名；Zyxel / LevelOne / DrayTek）→ **分销 20% 一页纸一次（预付 100%）**；坐实（inriskable CR + BR 号 + 官网地址）（第 121 批 官方登记核实 2026-10-29） |
 
 - **业务线**：IT/AV/安防品牌独家分销（港澳）
 - **触达通道（公开）**：role: 港澳品牌独家分销商（香港）；region: 香港；contact: sales@everbesthk.com、allenc@everbesthk.com
@@ -235,8 +251,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ariel Cheng | — | sales@everbesthk.com | 调研核实（公开页） | 用户表 |
-| Allen Chan | — | allenc@everbesthk.com | 调研核实（公开页） | 用户表 |
+| Ariel Cheng | Product Manager（研究档 KP）（第 121 批 官方登记核实 2026-10-29） | sales@everbesthk.com | 调研核实（公开页） | 用户表 |
+| Allen Chan | Director（研究档 KP）= 收件人 — 一页纸一次：分销 20% B、STC-028GP $28 / STC-2224GP $86 / STC-4424GCPM $165 / STI-154GP 一口价 + MOQ 1 + 付费样机；在代 LevelOne / Zyxel 类不点名 — 香港常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 香港（免税）（第 121 批 官方登记核实 2026-10-29） | allenc@everbesthk.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 9 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -329,12 +345,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

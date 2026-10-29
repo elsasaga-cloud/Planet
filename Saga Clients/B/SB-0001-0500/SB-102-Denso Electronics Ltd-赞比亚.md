@@ -26,7 +26,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -73,6 +73,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 121 批（ZM · 1 次检索：densoelectronics.com（Denso Electronic Solutions, based in Ndola CB, trusted source for electronic supplies since 1997；Suite 02-37 Compensation House - Broadway/ Moffat Roads, Ndola；+260212615190；Sales@densoelectronics.com）+ zambiadirectory.com（Ndola, Copperbelt）；PACRA 未得；2026-10-29，2026-10-29 查；https://www.densoelectronics.com/）：**
+
+- 法定名 / 登记号：Denso Electronic Solutions（densoelectronics.com；**官网：Suite 02-37 Compensation House, Broadway / Moffat Roads, Ndola, Zambia；1997 年起电子元件供应 + ICT 方案；+260 212 615190 / 615367；WA +260 977 823 625；sales@**）；PACRA 号 1 查未得 → 部分坐实；表内「网站卖的比较杂」；KP Joedy Snafu；需求工业 MC（仅 STC-110XGE）；未跟进 · 未取（PACRA 号 1 查未得） · 状态 **营业中（官网 2026）** · 成立 1997 · Ltd（推定）
+- 行业码 / 经营范围：电子元件 / ICT 设备供应（恩多拉，铜带省）
+- 注册地址：Suite 02-37 Compensation House, Broadway / Moffat Roads, Ndola, Zambia
+- 规模档：小型
+- 账目：未取；—
+- 高管：Joedy Snafu — 联系人（研究档 KP；sales@densoelectronics.com）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **电子 / ICT 综合供应商（有进口经验）→ 分销 20% B，一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-110XGE $65 一口价 + MOQ 1；千兆工业 MC 不供明说）— 赞比亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 卢萨卡（买方清关；ZABS 不声称）**；再无回声 → 不动
+- 备注：分销 20%；一页纸一次（预付 100%）；部分坐实（官网地址 + 成立年；PACRA 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -101,17 +114,17 @@ updated: 2026-10-28
 - **【用户表】需求与回复**
   > reseller 网站卖的比较杂 工业MC；2024.1.18 发了2光4相关信息 → 点了一个赞；2024.3.14 → 问了一个不相关的产品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Joedy Snafu（（表内 Mr.））sales@densoelectronics.com +260 977 823 625（WA 已加）〔用户 Clients 表〕
+- **KP**：Joedy Snafu（联系人（研究档 KP，表内 Mr.）= 收件人 — 一页纸一次：分销 20% B、STC-028GP $28 / STC-228GP $33 / STC-110XGE $65 一口价 + MOQ 1；千兆工业 MC 不供明说 — 赞比亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 卢萨卡、ZABS 不声称（第 121 批 官方登记核实 2026-10-29））sales@densoelectronics.com +260 977 823 625（WA 已加）〔用户 Clients 表〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Denso Electronics / Denso Electronic Solutions（赞比亚） |
-| 成立 | 待核 |
-| 总部/地址 | 赞比亚（+260 212 区号 = 铜带省 Ndola/Kitwe 一带）；+260 212 615190 / 615367；sales@densoelectronics.com |
-| 其他 | 与日本 DENSO 无关；网店品类：Philips DPM 7000/8000/8900 听写与会议、DVT 系列录音笔、PSM6000 |
+| 法定名称 | Denso Electronic Solutions（PACRA 号 1 查未得） |
+| 成立 | 1997（第 121 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Suite 02-37 Compensation House, Broadway / Moffat Roads, Ndola, Zambia（+260 212 615190；WA +260 977 823 625）（第 121 批 官方登记核实 2026-10-29） |
+| 其他 | 与日本 DENSO 无关；网店品类：Philips DPM 7000/8000/8900 听写与会议、DVT 系列录音笔、PSM6000；第 121 批：电子元件 / ICT 综合供应商（有进口经验）→ **分销 20% 一页纸一次（预付 100%）**；部分坐实（官网地址 + 成立年）（第 121 批 官方登记核实 2026-10-29） |
 
 - **业务线**：办公电子与会议/听写设备零售（Philips）；ICT 方案与网络设备转售；IoT/技术方案（官网自述）
 
@@ -195,7 +208,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Joedy Snafu | （表内 Mr.） | sales@densoelectronics.com / +260 977 823 625（WA 已加） | 调研核实（公开页） | 用户 Clients 表 |
+| Joedy Snafu | 联系人（研究档 KP，表内 Mr.）= 收件人 — 一页纸一次：分销 20% B、STC-028GP $28 / STC-228GP $33 / STC-110XGE $65 一口价 + MOQ 1；千兆工业 MC 不供明说 — 赞比亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 卢萨卡、ZABS 不声称（第 121 批 官方登记核实 2026-10-29） | sales@densoelectronics.com / +260 977 823 625（WA 已加） | 调研核实（公开页） | 用户 Clients 表 |
 | Mr. Joedy Snafu | — | sales@densoelectronics.com / +260977823625 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
@@ -289,12 +302,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 59）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 59）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

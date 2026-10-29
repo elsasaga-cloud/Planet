@@ -76,6 +76,19 @@ updated: 2026-10-29
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 121 批（IL · 1 次检索：kycisrael.com/companies/512146788/ethical-ltd（Registration Number 512146788；Private Limited Company；Active；Incorporation Date 10/05/1995；Last Annual Report Year 2025；33 תמיר שמואל 6963717）+ dnb（33/1 Tamir Shmuel TEL AVIV-JAFFA）+ cellpex（Ethical ltd；Ran Broudo）；2026-10-29，2026-10-29 查；https://www.kycisrael.com/companies/512146788/ethical-ltd/）：**
+
+- 法定名 / 登记号：Ethical Ltd（ethical-ltd.com；**kycisrael：Registration Number 512146788；Private Limited；Active；成立 1995-05-10；最近年报 2025；33 Shmuel Tamir St., Tel Aviv 6963717（D&B 同址）；采购服务与通信产品供应（元件、电光设备、连接器、终端服务器、MC、延长器、工业交换机）；cellpex 联系人 Ran Broudo；表内「Switch 主要用 Perle」**）→ 坐实；无具名 KP（ethical@）；群发 8 次无回复 · 公司号 512146788 · 状态 **Active（年报 2025）** · 成立 1995-05-10 · Ltd（私人有限）
+- 行业码 / 经营范围：采购服务 / 通信与电子产品供应（特拉维夫）
+- 注册地址：33 Shmuel Tamir St., Tel Aviv 6963717, Israel
+- 规模档：小型
+- 账目：未取；—
+- 高管：Ran Broudo — 联系人 / 负责人（cellpex 供应商档 2026-10-29；无公开邮箱）→ 收件 ethical@ethical-ltd.com Attn: Ran Broudo
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **采购服务商（在供 Perle 类 MC / 工业机）→ 分销 20% B，一页纸一次（STC-110XGE $65 / STI-154GP / STI-288DGGPM $137 一口价 + MOQ 1 + 付费样机；在供品牌不点名）— 以色列常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关；SII 不声称）**；再无回声 → 不动
+- 备注：分销 20%；一页纸一次（预付 100%）；坐实（公司号 + 成立日 + 年报 + 地址）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -119,14 +132,17 @@ updated: 2026-10-29
 - **【用户表】Switch 主要 Perle**
   > Switch 主要用的perle的；可以尝试多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Ran Broudo（联系人 / 负责人（cellpex 供应商档 2026-10-29；无公开邮箱）→ 收件 ethical@ethical-ltd.com Attn: Ran Broudo — 一页纸一次：分销 20% B、STC-110XGE $65 / STI-154GP / STI-288DGGPM $137 一口价 + MOQ 1 + 付费样机；在供 MC / 工业机品牌不点名 — 以色列常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关）、SII 不声称（第 121 批 官方登记核实 2026-10-29）） 〔〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 以色列 |
-| 其他 | 官网 ethical-ltd.com，语言 he，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Ethical Ltd（אתיקל בע"מ；公司号 512146788；Private Limited；Active） |
+| 成立 | 1995-05-10（最近年报 2025）（第 121 批 官方登记核实 2026-10-29） |
+| 总部/地址 | 33 Shmuel Tamir St., Tel Aviv 6963717, Israel（第 121 批 官方登记核实 2026-10-29） |
+| 其他 | 官网 ethical-ltd.com，语言 he，快照状态 ok；角色判定来源：官网文案；第 121 批：采购服务 + 通信 / 电子产品供应商（元件、MC、终端服务器、工业交换机；在供 Perle 类）→ **分销 20% 一页纸一次（预付 100%）**；坐实（kycisrael 公司号 + 成立日 + 年报 + 地址）（第 121 批 官方登记核实 2026-10-29） |
 
 - **业务线**：采购服务 / 通信与电子产品供应（以色列）
 - **触达通道（公开）**：role: 采购服务/通信产品供应商（以色列，Perle 为主）；region: 以色列；contact: ethical@ethical-ltd.com
@@ -215,7 +231,7 @@ updated: 2026-10-29
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | ethical@ethical-ltd.com | 用户表原值 | Clients/ 表 |
+| Ran Broudo | 联系人 / 负责人（cellpex 供应商档 2026-10-29；无公开邮箱）→ 收件 ethical@ethical-ltd.com Attn: Ran Broudo — 一页纸一次：分销 20% B、STC-110XGE $65 / STI-154GP / STI-288DGGPM $137 一口价 + MOQ 1 + 付费样机；在供 MC / 工业机品牌不点名 — 以色列常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关）、SII 不声称（第 121 批 官方登记核实 2026-10-29） | — | 调研核实（公开页） | 调研 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -284,7 +300,7 @@ updated: 2026-10-29
 **主题**：STI-280GE - industrial DIN-rail switch (neutral label)
 
 ```text
-Hello,
+Hi Ran,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alongside the Perle industrial switches and media converters you supply, we offer neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit/PoE MCs from single units, CE/RoHS, EXW USD — is there a budget position your procurement customers ask for below Perle?
 

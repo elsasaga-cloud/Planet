@@ -28,7 +28,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -90,6 +90,19 @@ updated: 2026-10-28
 - 【宗教】03-09→03-12：开斋节（Eid al-Fitr / Ramazan Bayramı，估算）：3–4 天全停
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 121 批（LB · 1 次检索：egc-lb.com/contact（Lebanon, Beirut, Kornich El Mazraa, Ibn El Asir St., Borj Al Jazeera Bldg.；info@egc-lb.com）+ crunchbase（distributor of electronic and security equipment；11-50；Mohammad Hammoud Founder and General Manager；+961 1 701546）+ rocketreach（Founded 1988；Employees 7；distributors/Integrator of security equipment and Lightning-Earthing Systems）；登记号未得；2026-10-29，2026-10-29 查；https://egc-lb.com/contact）：**
+
+- 法定名 / 登记号：Engineering Group Contractors (EGC)（egc-lb.com；**官网 contact：Beirut, Kornich El Mazraa, Ibn El Asir St., Borj Al Jazeera Bldg.；+961 1 701546；info@；crunchbase：安防设备分销商，11–50，创始人 / GM Mohammad Hammoud（= 研究档 KP ✓）；RocketReach：1988 年成立、约 7 人、避雷接地系统 + 安防分销 / 集成**）；商业登记号 1 查未得 → 部分坐实；曾谈 30 台 2 光 10 电环网（研究档）；WA 19 次无实质回复 · 未取（贝鲁特商业登记号 1 查未得） · 状态 **营业中（官网 2025-09）** · 成立 1988 · SARL（推定）
+- 行业码 / 经营范围：安防设备分销 / 集成 + 避雷接地（贝鲁特）
+- 注册地址：Borj Al Jazeera Bldg., Ibn El Asir St., Corniche El Mazraa, Beirut, Lebanon
+- 规模档：小型（7–50）
+- 账目：未取；—
+- 高管：Mohammad Hammoud — Founder / General Manager（crunchbase + 领英 2026-10-29 吻合；研究档 KP egc@egc-lb.com）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **GM 为 KP + 曾谈 30 台环网 → 集成商 25% B，最后一次一页纸（STI-288DGGPM $137 ×30 环网 ERPS 一口价 + STC-228GP $33 接入；光端机 / VC 不供明说）— 黎巴嫩常规：英文稿、20 / 25 / 30 + T/T 预付 100%（不接受信用证）+ FOB 深圳 或 DAP 贝鲁特（买方清关）**；19×0 → 再无回声 → 不动
+- 备注：集成商 25%；最后一次一页纸（预付 100%）；部分坐实（官网地址 + 企业库成立年 + GM；登记号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -125,17 +138,17 @@ updated: 2026-10-28
 - **【用户表】谈了 switch，着重问 30 个 switch 环网；问 VC（之前用过，基本视频和数据）；问 2 光 10 电、BNC 转网，基本都懂**
   > 兴趣：1,谈了switch,着重问了30个switch环网 2，问了VC… 3，问了2光10电，基本都懂，问了BNC转网
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Mohammad Hammoud（）egc@egc-lb.com +961 3 317 173〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Mohammad Hammoud（Founder / General Manager（crunchbase + 领英 2026-10-29 吻合）= 收件人 — 最后一次一页纸：集成商 25% B、30 台环网 STI-288DGGPM $137 ERPS 一口价 + STC-228GP $33 接入；光端机 / VC 不供明说 — 黎巴嫩常规：英文稿、20 / 25 / 30 + T/T 预付 100%（不接受信用证）+ FOB 深圳 或 DAP 贝鲁特（第 121 批 官方登记核实 2026-10-29））egc@egc-lb.com +961 3 317 173〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + country_fix 黎巴嫩））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Engineering Group Contractors (EGC) |
-| 成立 | （待核） |
-| 总部/地址 | Lebanon（电话 +961 3） |
-| 其他 | 消防 / 防雷 / 弱电多线；表内国家误为阿联酋 |
+| 法定名称 | Engineering Group Contractors (EGC)（贝鲁特商业登记号 1 查未得） |
+| 成立 | 1988（RocketReach）（第 121 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Borj Al Jazeera Bldg., Ibn El Asir St., Corniche El Mazraa, Beirut, Lebanon（+961 1 701546）（第 121 批 官方登记核实 2026-10-29） |
+| 其他 | 消防 / 防雷 / 弱电多线；表内国家误为阿联酋；第 121 批：安防设备分销 / 集成 + 避雷接地系统；曾谈 30 台 2 光 10 电环网 → **集成商 25% 最后一次一页纸（预付 100%）**；19×0；部分坐实（官网地址 + 企业库成立年 + GM）（第 121 批 官方登记核实 2026-10-29） |
 
 - **业务线**：消防报警 / 应急照明（守界：消防系统本身不供，网络配套可）；防雷接地；监控 / 网络设计安装 / PABX / BMS
 - **触达通道（公开）**：role: 弱电总包 / 集成商；region: 黎巴嫩
@@ -239,7 +252,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Mohammad Hammoud | — | egc@egc-lb.com / +961 3 317 173 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Mohammad Hammoud | Founder / General Manager（crunchbase + 领英 2026-10-29 吻合）= 收件人 — 最后一次一页纸：集成商 25% B、30 台环网 STI-288DGGPM $137 ERPS 一口价 + STC-228GP $33 接入；光端机 / VC 不供明说 — 黎巴嫩常规：英文稿、20 / 25 / 30 + T/T 预付 100%（不接受信用证）+ FOB 深圳 或 DAP 贝鲁特（第 121 批 官方登记核实 2026-10-29） | egc@egc-lb.com / +961 3 317 173 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；邮件已推送 19 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -331,12 +344,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 50）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 50）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

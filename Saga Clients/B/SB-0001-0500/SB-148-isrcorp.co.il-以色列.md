@@ -80,6 +80,19 @@ updated: 2026-10-29
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 121 批（IL · 1 次检索：isrcorp.co.il（ISR Tech；Tel 02-6520570；P.O. Box 34556；Yaakov elvav 5, Jerusalem；since 1986）+ play.google.com 开发者（I.S.R. TECHNOLOGIES ( ISRAEL) LTD；5 Eliav Yaacov JERUSALEM, 9546205）+ crunchbase（Founded 1986；1-10；Jerusalem）；公司号未得；2026-10-29，2026-10-29 查；https://www.isrcorp.co.il/）：**
+
+- 法定名 / 登记号：I.S.R. Technologies (Israel) Ltd / ISR Tech（isrcorp.co.il；**官网 + Google Play 开发者信息：5 Eliav Yaacov (Yaakov Eliav 5), Jerusalem 9546205；P.O. Box 34556；02-6520570；1986 年起（Integrated Systems Research Corp.）；智慧出行 / 车队管理 / 公交 ITS；Crunchbase 1–10 人**）；公司号 1 查未得 → 部分坐实；需求工业 8 电口 E-mark（不供）；KP Yukie Novick；WA 5 次无实质回复 · 未取（公司号 1 查未得） · 状态 **营业中（官网 + 应用商店 2026）** · 成立 1986 · Ltd
+- 行业码 / 经营范围：智慧出行 / 车队管理 ITS（耶路撒冷）
+- 注册地址：5 Eliav Yaacov St., Jerusalem 9546205, Israel
+- 规模档：微型（1–10）
+- 账目：未取；—
+- 高管：Yukie Novick — 联系人（研究档 KP；novick@isrcorp.co.il）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **车载 E-mark 需求（不供）+ 5×0 → 不动（B 保留；来询按集成商 25% 报 STI-280GE 机柜 / 站房用途，不声称车载认证）**— 以色列常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关；SII 不声称）
+- 备注：不动（产品不对位：车载认证）；部分坐实（官网地址 + 成立年；公司号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -115,16 +128,17 @@ updated: 2026-10-29
 - **【用户表】工业 8 电口 E-mark**
   > 兴趣：工业8电口E-mark
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Yukie Novick（）novick@isrcorp.co.il +972 50 850 1400〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Yukie Novick（联系人（研究档 KP）— 不动：需求工业 8 电口 E-mark 车载认证（不供）+ 5×0 — 以色列常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关）、SII 不声称（第 121 批 官方登记核实 2026-10-29））novick@isrcorp.co.il +972 50 850 1400〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照：E-mark 需求不覆盖））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | ISR Corp（待核） |
-| 总部/地址 | Israel |
-| 其他 | 智慧出行 / 车载 |
+| 法定名称 | I.S.R. Technologies (Israel) Ltd（ISR Tech；公司号 1 查未得） |
+| 成立 | 1986（第 121 批 官方登记核实 2026-10-29） |
+| 总部/地址 | 5 Eliav Yaacov St., P.O. Box 34556, Jerusalem 9546205, Israel（02-6520570）（第 121 批 官方登记核实 2026-10-29） |
+| 其他 | 智慧出行 / 车载；第 121 批：智慧出行 / 车队 ITS 方案商（以色列 + 印度）→ **不动（产品不对位：车载认证）**；部分坐实（官网 + Google Play 开发者地址）（第 121 批 官方登记核实 2026-10-29） |
 
 - **业务线**：智慧出行 / 车载电子方案
 - **触达通道（公开）**：role: 方案商（车载）；region: 以色列
@@ -201,7 +215,7 @@ updated: 2026-10-29
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Yukie Novick | — | novick@isrcorp.co.il / +972 50 850 1400 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Yukie Novick | 联系人（研究档 KP）— 不动：需求工业 8 电口 E-mark 车载认证（不供）+ 5×0 — 以色列常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关）、SII 不声称（第 121 批 官方登记核实 2026-10-29） | novick@isrcorp.co.il / +972 50 850 1400 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 

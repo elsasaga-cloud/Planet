@@ -24,7 +24,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -82,6 +82,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 121 批（KE · 1 次检索：hotfrog.co.ke（Simplifi Networks；Unit 28, Fortis Industrial park, Mombasa Road Nairobi 80100；0727 401262）+ africa2trust（Simplifi Networks Ltd；Distributor for Mikrotik, Ubiquiti UniFi, RF-Elements）+ rocketreach（Founded 2014；Employees 12；only Direct Distributor for Ubiquiti … MikroTik Master Distributor）；注册号未得；2026-10-29，2026-10-29 查；https://rocketreach.co/simplifi-networks-profile_b45386d6fc871866）：**
+
+- 法定名 / 登记号：Simplifi Networks Ltd（simplifinetworks.com；**hotfrog / africa2trust / RocketReach：Unit 28, Fortis Industrial Park, off Mombasa Road, Nairobi 80100；+254 727 401 262；2014 年成立；约 12 人；东非 Ubiquiti 直接分销 + MikroTik 主分销（内罗毕 / 坎帕拉 / 达累斯萨拉姆有库存）**）；注册号 1 查未得 → 部分坐实；表内「PoE 配件 / 工业 FS 有自己的 logo」；无具名 KP；1 次跟进无回复 · 未取（BRS 注册号 1 查未得） · 状态 **营业中（官网 + 名录）** · 成立 2014 · Ltd
+- 行业码 / 经营范围：网络设备分销（内罗毕；东非三国）
+- 注册地址：Unit 28, Fortis Industrial Park, off Mombasa Road, Nairobi 80100, Kenya
+- 规模档：小型（约 12 人）
+- 账目：未取；—
+- 高管：（无具名 KP：kenya@simplifinetworks.com；Attn: Product Manager）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **原厂总分销（Ubiquiti / MikroTik）+ 自有 logo PoE 配件 → 贴标 OEM 30%（自标 PoE / 工业 FS：STC-028GP / STC-2216GP / STI-154GP）↔ 分销 20% 双轨 B，一页纸一次（原厂不点名；MOQ + 付费样机）— 肯尼亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 内罗毕（买方清关；KEBS / CA 不声称）**；再无回声 → 不动
+- 备注：贴标 OEM 30% ↔ 分销 20% 双轨；一页纸一次（预付 100%）；部分坐实（名录地址 + 成立年 + 人数；注册号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -115,14 +128,17 @@ updated: 2026-10-28
 - **【用户表】PoE 配件 工业 FS 自有 logo；多数卖别人的**
   > POE配件工业FS 有自己的logo 多数还是卖别人的；有ONV的产品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：（无具名 KP）（收件 kenya@simplifinetworks.com Attn: Product Manager — 一页纸一次：贴标 OEM 30%（自标 PoE 配件 / 工业 FS：STC-028GP / STC-2216GP / STI-154GP）↔ 分销 20% 双轨 B + MOQ + 付费样机；Ubiquiti / MikroTik 不点名 — 肯尼亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 内罗毕、KEBS 不声称（第 121 批 官方登记核实 2026-10-29）） 〔〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 肯尼亚 |
-| 其他 | 官网 simplifinetworks.com，语言 en，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Simplifi Networks Ltd（BRS 注册号 1 查未得） |
+| 成立 | 2014（第 121 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Unit 28, Fortis Industrial Park, off Mombasa Road, Nairobi 80100, Kenya（+254 727 401 262）（第 121 批 官方登记核实 2026-10-29） |
+| 其他 | 官网 simplifinetworks.com，语言 en，快照状态 ok；角色判定来源：用户表；第 121 批：东非 Ubiquiti 直接分销 + MikroTik 主分销（内罗毕 / 坎帕拉 / 达市）；自有 logo PoE 配件 → **贴标 30% ↔ 分销 20% 双轨 一页纸一次（预付 100%）**；部分坐实（名录地址 + 成立年 + 人数）（第 121 批 官方登记核实 2026-10-29） |
 
 - **业务线**：网络通信设备区域总分销（东非/中非）
 - **触达通道（公开）**：role: 区域总分销商（东非，少量自有 logo）；region: 肯尼亚；contact: kenya@simplifinetworks.com
@@ -284,12 +300,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

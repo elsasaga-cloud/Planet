@@ -1,7 +1,7 @@
 # BHS Telecom 视频比较多一些
 **官方名称（调研核实）**：BHS Media / BHS Telecom（bhs-media.com；迪拜 Media City 总部，黎巴嫩联系人）
 
-> **评级 B**　|　黎巴嫩　|　档案编号 `SB-296`　|　优先级 ★★　|　状态：有回复·跟进中
+> **评级 B**　|　阿联酋　|　档案编号 `SB-296`　|　优先级 ★★　|　状态：有回复·跟进中
 >
 > **类型**：电信/ISP/网络运营（推断）　|　**历史关系**：实质回复 1 次；WhatsApp 已加；推送 19 次（2023-11-30 → 2025-10-06）　|　**所在清单**：WA跟进　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -11,7 +11,8 @@ rating: B
 rating_auto: B
 name_official: "BHS Media / BHS Telecom（bhs-media.com；迪拜 Media City 总部，黎巴嫩联系人）"
 score: 47
-country: 黎巴嫩
+country: 阿联酋
+country_table: 黎巴嫩  # 表内原填；调研纠正为 阿联酋（research JSON country_fix）
 region: 中东
 website: bhs-media.com
 type: 电信/ISP/网络运营
@@ -26,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -72,12 +73,25 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 121 批（AE · 1 次检索：bhs-media.com/Contact-Us（Head Office: No.401, Building No.1, Dubai Media City, Sheikh Zayed Road, Dubai, UAE；Tel +97145515523）+ zoominfo.com/c/bhs-media/375098581（20 employees；MPEG2/4 DVB-S/S2 … BHS TELECOMMUNICATIONS）；执照号未得；2026-10-29，2026-10-29 查；http://bhs-media.com/Contact-Us）：**
+
+- 法定名 / 登记号：BHS Media / BHS Telecommunications（bhs-media.com；**官网 Contact-Us：Head Office No.401, Building No.1, Dubai Media City, Sheikh Zayed Road, Dubai, UAE；+971 4 551 5523；info@；ZoomInfo 约 20 人；卫星上行 / 转播车 / 远程制作服务商 → 表内国别「黎巴嫩」= KP 电话归属，实体在迪拜 → country_fix 阿联酋**）；迪拜执照号未取 → 部分坐实；KP Khalil Haidar（Director）；需求 HDMI over IP 延长（不供）；未跟进 · 未取（Dubai Media City 执照号 1 查未得） · 状态 **营业中（官网 + ZoomInfo）** · 成立 未取 · FZ-LLC（推定，Dubai Media City）
+- 行业码 / 经营范围：卫星上行 / 广播传输服务（迪拜媒体城）
+- 注册地址：No.401, Building No.1, Dubai Media City, Sheikh Zayed Road, Dubai, UAE
+- 规模档：小型（约 20 人）
+- 账目：未取；—
+- 高管：Khalil Haidar — Director（研究档 KP；k.haidar@bhs-media.com）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **广播 / 卫星服务商 + 需求 HDMI over IP（不供）→ 不动（B 保留；来询按集成商 25% 报 STC-4424GCPM $165 IP 制作网交换）— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关）**
+- 备注：不动（产品不对位 + 非目标行业）；部分坐实（官网地址 + 人数；执照号未取）；country_fix 阿联酋。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | BHS Telecom 视频比较多一些 | 事实（用户表） |
-| 国家 | 黎巴嫩 | 事实（用户表）|
+| 国家 | 阿联酋 | 事实（用户表）|
 | 网站/域名 | bhs-media.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 电信/ISP/网络运营 | 推断（据兴趣/备注关键词） |
 | 联系人 | Khalil Haidar / Director | 事实（用户表） |
@@ -103,17 +117,17 @@ updated: 2026-10-28
 - **【用户表】需求与回复**
   > HDMI to IP, HDMI 网络延长器；2024.5.16 发了mini工业交换机图片 → will check
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Khalil Haidar（Director（表内））k.haidar@bhs-media.com +961 3 597 100（WA 已加）〔用户 Clients 表〕
+- **KP**：Khalil Haidar（Director（表内；研究档 KP）— 不动：卫星上行 / 广播服务商 + 需求 HDMI over IP（不供）— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜、TDRA 不声称（第 121 批 官方登记核实 2026-10-29））k.haidar@bhs-media.com +961 3 597 100（WA 已加）〔用户 Clients 表〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 第三方核对 · 需求映射））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | BHS Media（BHS Telecom；关联 bhssat.com「BHS Media Group」） |
-| 成立 | 待核（2012 年并购 OTT 软件服务商） |
-| 总部/地址 | No.401, Building No.1, Dubai Media City, Sheikh Zayed Road, Dubai；+971 58 181 1356 / +971 56 700 0011；info@bhs-media.com |
-| 其他 | 表内国别「黎巴嫩」= 联系人所在地（+961）；公司注册/运营在迪拜 |
+| 法定名称 | BHS Media / BHS Telecommunications（Dubai Media City 执照号 1 查未得） |
+| 成立 | 未取（第 121 批 官方登记核实 2026-10-29） |
+| 总部/地址 | No.401, Building No.1, Dubai Media City, Sheikh Zayed Road, Dubai, UAE（+971 4 551 5523）（第 121 批 官方登记核实 2026-10-29） |
+| 其他 | 表内国别「黎巴嫩」= 联系人所在地（+961）；公司注册/运营在迪拜；第 121 批：表内国别「黎巴嫩」= KP 电话归属，总部迪拜媒体城 → country_fix 阿联酋；**不动（产品不对位 + 非目标行业；来询按集成商 25% 报 STC-4424GCPM）**；部分坐实（官网地址 + 人数）（第 121 批 官方登记核实 2026-10-29） |
 
 - **业务线**：卫星 TV 分发（DTH、MCPC 平台）与 contribution 链路；teleport、地面光纤连接、播出/媒体管理服务器；OTT/IPTV 平台服务；广播与电信硬件方案
 - **触达通道（公开）**：official: info@bhs-media.com；contact: Khalil Haidar（Director）k.haidar@bhs-media.com，+961 3 597 100（WA 已加）
@@ -187,7 +201,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Khalil Haidar | Director（表内） | k.haidar@bhs-media.com / +961 3 597 100（WA 已加） | 调研核实（公开页） | 用户 Clients 表 |
+| Khalil Haidar | Director（表内；研究档 KP）— 不动：卫星上行 / 广播服务商 + 需求 HDMI over IP（不供）— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜、TDRA 不声称（第 121 批 官方登记核实 2026-10-29） | k.haidar@bhs-media.com / +961 3 597 100（WA 已加） | 调研核实（公开页） | 用户 Clients 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 
@@ -276,12 +290,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 47）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 47）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

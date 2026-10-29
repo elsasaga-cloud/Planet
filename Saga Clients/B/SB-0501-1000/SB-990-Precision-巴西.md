@@ -26,7 +26,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -76,6 +76,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 121 批（BR · 1 次检索：supportprecision.com.br（Precision Solutions；CNPJ 05.573.595/0001-98；I.E. 149.927.916.115；Avenida Nova Independência, 87 — conjunto 32 Brooklin Paulista；+55 (11) 5103-3260）+ nic.br 讲义（Distribuidor EXFO - Representante Fujikura）；同名 Precision Solutions Informática 10.730.077（BAIXADA）≠ 本户；2026-10-29，2026-10-29 查；https://supportprecision.com.br/）：**
+
+- 法定名 / 登记号：Precision Solutions（precisionsolutions.com.br；**支持站页脚自列 CNPJ 05.573.595/0001-98，I.E. 149.927.916.115；Avenida Nova Independência 87, conj. 32, Brooklin Paulista, São Paulo - SP 04570-000；+55 11 5103-3260；info@；EXFO 分销 / Fujikura 代表；20+ 年；光纤测试 / 校准**）→ 坐实；Director Eduardo Ken；需求 DWDM / DCI 高端（不供） · CNPJ 05.573.595/0001-98 · 状态 **营业中（官网 + 支持站在）** · 成立 未取（自述 20+ 年） · Ltda（推定）
+- 行业码 / 经营范围：光纤测试仪表分销 / 校准（圣保罗）
+- 注册地址：Avenida Nova Independência 87, conj. 32, Brooklin Paulista, São Paulo - SP 04570-000, Brazil
+- 规模档：小型
+- 账目：未取；—
+- 高管：Eduardo Ken — Director（研究档 KP；eduardo.ken@precisionsolutions.com.br）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **需求 DWDM / DCI / 1.6T 高端（不供）+ 测试仪表商 → 不动（B 保留；来询按分销 20% 报 STH 数据中心机 / STC-110XGE）**— 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（进口税自理；Anatel 不声称）
+- 备注：不动（产品不对位）；坐实（页脚 CNPJ + 地址 + 电话）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -101,15 +114,17 @@ updated: 2026-10-28
 - **【用户表】对 1.6T 很感兴趣，DCI box，拍了照；离开后去了信泰**
   > 兴趣：对1.6T很感兴趣，DCI box，拍了照
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Eduardo Ken（）eduardo.ken@precisionsolutions.com.br +55 11 99620 2536〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Eduardo Ken（Director（研究档 KP）— 不动：需求 DWDM / DCI / 1.6T 高端（不供）+ 光纤测试仪表分销商（EXFO / Fujikura）— 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（进口税自理）、Anatel 不声称（第 121 批 官方登记核实 2026-10-29））eduardo.ken@precisionsolutions.com.br +55 11 99620 2536〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照：规格外））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Precision Solutions |
-| 总部/地址 | São Paulo, Brazil |
+| 法定名称 | Precision Solutions（CNPJ 05.573.595/0001-98；I.E. 149.927.916.115） |
+| 成立 | 未取（自述 20+ 年）（第 121 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Avenida Nova Independência 87, conj. 32, Brooklin Paulista, São Paulo - SP 04570-000, Brazil（+55 11 5103-3260）（第 121 批 官方登记核实 2026-10-29） |
+| 其他 | 第 121 批：支持站页脚自列 CNPJ + 地址；同名 Precision Solutions Informática 10.730.077 ≠ 本户 → **不动（B 保留；来询按分销 20% 报 STH / STC-110XGE）**；坐实（第 121 批 官方登记核实 2026-10-29） |
 
 - **触达通道（公开）**：role: 测试设备分销；region: 巴西
 - **风险/边界**：需求 1.6T / DCI 规格外
@@ -161,7 +176,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Eduardo Ken | — | eduardo.ken@precisionsolutions.com.br / +55 11 99620 2536 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Eduardo Ken | Director（研究档 KP）— 不动：需求 DWDM / DCI / 1.6T 高端（不供）+ 光纤测试仪表分销商（EXFO / Fujikura）— 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（进口税自理）、Anatel 不声称（第 121 批 官方登记核实 2026-10-29） | eduardo.ken@precisionsolutions.com.br / +55 11 99620 2536 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 
@@ -238,12 +253,12 @@ updated: 2026-10-28
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

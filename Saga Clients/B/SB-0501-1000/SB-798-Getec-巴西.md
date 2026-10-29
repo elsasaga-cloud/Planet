@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -73,6 +73,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 121 批（BR · 1 次检索：escavador.com DJSC 2019-04-01 p.2781（GETECSEG SEGURANÇA ELETRÔNICA LTDA ME；11.641.497/0001-43；Rua João Pessoa, 1839, Velha Blumenau SC）；casadosdados Gettec 15.443.387（巴西利亚）≠ 本户；2026-10-29，2026-10-29 查；https://www.escavador.com/diarios/845061/DJSC/jurisdicional-das-comarcas/2019-04-01?page=2781）：**
+
+- 法定名 / 登记号：GETECSEG Segurança Eletrônica Ltda ME（getecseg.com.br；**圣卡塔琳娜州法院公报 2019-04-01 税务名单：GETECSEG SEGURANÇA ELETRÔNICA LTDA ME，CNPJ 11.641.497/0001-43，Rua João Pessoa 1839, Velha, Blumenau - SC 89036-（欠税 R$4,924.98 公示）→ 坐实；表内 +55 47 = 布卢梅瑙 ✓**）；同名 Gettec（巴西利亚 61）为另一公司，不采信；KP Leonardo Sezerino（技术负责人）；WA 6 次无实质回复 · CNPJ 11.641.497/0001-43 · 状态 **存续（2019 公报；状态未取）** · 成立 未取 · Ltda - ME
+- 行业码 / 经营范围：电子安防 / 监控（布卢梅瑙，SC）
+- 注册地址：Rua João Pessoa 1839, Velha, Blumenau - SC 89036, Brazil
+- 规模档：微型（ME）
+- 账目：未取；—
+- 高管：Leonardo Sezerino — 技术负责人（研究档 KP；leonardo@getecseg.com.br）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **安防公司 + 监控项目兴趣 → 集成商 25% B，一页纸一次（STC-028GP $28 / STC-2216GP + STC-228GP $33 一口价 + 付费样机；葡语备注）— 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（进口税自理；Anatel 不声称）**；2019 欠税公示 → 预付 100% 不让步；再无回声 → 不动
+- 备注：集成商 25%；一页纸一次（预付 100%）；坐实（法院公报 CNPJ + 地址；欠税红旗）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -98,15 +111,17 @@ updated: 2026-10-28
 - **【用户表】Surveillance projects**
   > 兴趣：Surveillance projects
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Leonardo Sezerino（）leonardo@getecseg.com.br +55 47 9918 1838〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Leonardo Sezerino（技术负责人（研究档 KP）= 收件人 — 一页纸一次：集成商 25% B、监控项目 PoE（STC-028GP $28 / STC-228GP $33 / STC-2216GP）一口价 + 付费样机；2019 欠税公示 → 预付 100% 不让步 — 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（进口税自理）、Anatel 不声称（第 121 批 官方登记核实 2026-10-29））leonardo@getecseg.com.br +55 47 9918 1838〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照 HTTP 错误 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Getec Segurança（待核） |
-| 总部/地址 | Santa Catarina, Brazil |
+| 法定名称 | GETECSEG Segurança Eletrônica Ltda ME（CNPJ 11.641.497/0001-43） |
+| 成立 | 未取（第 121 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Rua João Pessoa 1839, Velha, Blumenau - SC 89036, Brazil（+55 47）（第 121 批 官方登记核实 2026-10-29） |
+| 其他 | 第 121 批：圣卡塔琳娜州法院公报 2019-04-01 税务名单给出 CNPJ + 地址（欠税 R$4,924.98 红旗）；同名 Gettec 巴西利亚 ≠ 本户 → **集成商 25% 一页纸一次（预付 100%）**；坐实（第 121 批 官方登记核实 2026-10-29） |
 
 - **触达通道（公开）**：role: 安防集成商；region: 巴西 SC 州
 - **风险/边界**：巴西认证 / 税；WA 无回复
@@ -161,7 +176,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Leonardo Sezerino | — | leonardo@getecseg.com.br / +55 47 9918 1838 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Leonardo Sezerino | 技术负责人（研究档 KP）= 收件人 — 一页纸一次：集成商 25% B、监控项目 PoE（STC-028GP $28 / STC-228GP $33 / STC-2216GP）一口价 + 付费样机；2019 欠税公示 → 预付 100% 不让步 — 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（进口税自理）、Anatel 不声称（第 121 批 官方登记核实 2026-10-29） | leonardo@getecseg.com.br / +55 47 9918 1838 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 
@@ -258,12 +273,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 31）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 31）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

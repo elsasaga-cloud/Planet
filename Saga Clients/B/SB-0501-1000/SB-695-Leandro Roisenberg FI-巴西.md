@@ -26,7 +26,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -75,6 +75,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 121 批（BR · 1 次检索：lri.com.br/contato（LRI Automação Industrial；Rua Maria Lopes Borba, 474 Navegantes - SC CEP 88370-340；Leandro Roisenberg Firma Individual CNPJ: 94.574.647/0005-02）+ /como-comprar（LRI Store é uma Marca Registrada de Leandro Roisenberg FI sob INPI 910048894）；2026-10-29，2026-10-29 查；https://www.lri.com.br/contato）：**
+
+- 法定名 / 登记号：LRI Automação Industrial = Leandro Roisenberg Firma Individual（lri.com.br；**官网 contato 自列 CNPJ 94.574.647/0005-02；Rua Maria Lopes Borba 474, Navegantes - SC 88370-340；「LRI Store」商标 INPI 910048894；工业自动化产品分销（电源、DC/DC、工业交换机、嵌入式、数采）、巴西库存开 NF-e**）→ 坐实；个体企业（Firma Individual）；表内电话 +55 11 / +972 为业主个人；KP Leandro Roisenberg（Director / 业主）；WA 无实质回复 · CNPJ 94.574.647/0005-02（个体企业分支号 0005） · 状态 **营业中（官网 + 电商在）** · 成立 未取 · Firma Individual（个体企业）
+- 行业码 / 经营范围：工业自动化产品分销（纳韦甘特斯，SC）
+- 注册地址：Rua Maria Lopes Borba 474, Navegantes - SC 88370-340, Brazil
+- 规模档：微型（个体）
+- 账目：未取；—
+- 高管：Leandro Roisenberg — Director / 业主（研究档 KP；leandro@lri.com.br）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **同行工业交换机分销（在售进口工业品牌）→ 分销 20% B，一页纸一次（STI-154GP / STI-288DGGPM $137 / STI-280GE $46.6 中性包装一口价 + MOQ 1 + 付费样机；在售品牌不点名；葡语备注）— 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（进口税自理；Anatel 不声称）**；再无回声 → 不动
+- 备注：分销 20%；一页纸一次（预付 100%）；坐实（官网自列 CNPJ + 地址）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -101,17 +114,17 @@ updated: 2026-10-28
 - **【用户表】询盘统计表来源；Leandro Roisenberg, director**
   > （空）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Leandro Roisenberg（）leandro@lri.com.br +972 50 665 0861（表内；巴西座机 +55 11 4020 2470）〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Leandro Roisenberg（Director / 业主（个体企业 Leandro Roisenberg FI 法人本人；官网 contato 2026-10-29）= 收件人 — 一页纸一次：分销 20% B、工业线中性包装一口价（STI-154GP / STI-288DGGPM $137 / STI-280GE $46.6）+ MOQ 1 + 付费样机；在售进口品牌不点名 — 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（进口税自理）、Anatel 不声称（第 121 批 官方登记核实 2026-10-29））leandro@lri.com.br +972 50 665 0861（表内；巴西座机 +55 11 4020 2470）〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：ORing 渠道））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | LRI Automação Industrial Ltda（待核） |
-| 成立 | （待核） |
-| 总部/地址 | São Paulo, Brazil |
-| 其他 | ORing 巴西渠道 |
+| 法定名称 | Leandro Roisenberg Firma Individual（商号 LRI Automação Industrial / LRI Store；CNPJ 94.574.647/0005-02） |
+| 成立 | 未取（INPI 商标 910048894）（第 121 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Rua Maria Lopes Borba 474, Navegantes - SC 88370-340, Brazil（表内 +55 11 / +972 为业主个人电话）（第 121 批 官方登记核实 2026-10-29） |
+| 其他 | ORing 巴西渠道；第 121 批：同行工业交换机分销（有巴西库存开 NF-e）→ **分销 20% 一页纸一次（预付 100%）**；坐实（官网自列 CNPJ + 地址）（第 121 批 官方登记核实 2026-10-29） |
 
 - **业务线**：工业电源 / DC-DC；工业以太网交换机（ORing）；嵌入式工控 / 数据采集
 - **触达通道（公开）**：role: 工业自动化分销商（库存型）；region: 巴西
@@ -171,7 +184,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Leandro Roisenberg | — | leandro@lri.com.br / +972 50 665 0861（表内；巴西座机 +55 11 4020 2470） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Leandro Roisenberg | Director / 业主（个体企业 Leandro Roisenberg FI 法人本人；官网 contato 2026-10-29）= 收件人 — 一页纸一次：分销 20% B、工业线中性包装一口价（STI-154GP / STI-288DGGPM $137 / STI-280GE $46.6）+ MOQ 1 + 付费样机；在售进口品牌不点名 — 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（进口税自理）、Anatel 不声称（第 121 批 官方登记核实 2026-10-29） | leandro@lri.com.br / +972 50 665 0861（表内；巴西座机 +55 11 4020 2470） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 
@@ -265,12 +278,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 33）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 33）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

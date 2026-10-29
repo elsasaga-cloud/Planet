@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -83,6 +83,19 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 121 批（0 查（hotmail + 无公司名）；2026-10-29，2026-10-29 查；）：**
+
+- 法定名 / 登记号：Kennedy Bulaya（hotmail；**无公司名 → 0 查**）— 赞比亚 IT 承包 / 网络，2022 起多次与 e. 账号来往；需求 Cisco 兼容交换机 + 10G DAC（不供）；WA 无回复 · 0 查 · 状态 **互动中（2022–）** · 成立 — · 个人 / 微型
+- 行业码 / 经营范围：IT 承包（赞比亚）
+- 注册地址：未取
+- 规模档：微型
+- 账目：未取；—
+- 高管：Kennedy Bulaya — 联系人（研究档 KP；hotmail）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **需求 Cisco 兼容 + DAC（不供）+ 无公司 → 不动（B 保留；来询按集成商 25% 报 STC-4424GCPM $165 + 预付 100%）**— 赞比亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 卢萨卡（买方清关；ZABS 不声称）
+- 备注：不动（产品不对位 + 个人）；0 查。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -105,16 +118,17 @@ updated: 2026-10-27
 - **【用户表】兴趣 Cisco Switch；2025-10 DAC→price info**
   > 兴趣：Cisco Switch；回复：price info
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Kennedy Bulaya（）dbjcontrad@hotmail.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Kennedy Bulaya（联系人（研究档 KP；2022 起与 e. 账号来往）— 不动：需求 Cisco 兼容交换机 + 10G DAC（不供）+ 无公司 — 赞比亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 卢萨卡、ZABS 不声称（第 121 批 官方登记核实 2026-10-29））dbjcontrad@hotmail.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · 无域名 · 仅表内信息）
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | （待核，DBJ Contractors？） |
-| 总部/地址 | 赞比亚 |
-| 其他 | hotmail |
+| 法定名称 | 未取（0 查：hotmail + 无公司名） |
+| 成立 | 未取（第 121 批 官方登记核实 2026-10-29） |
+| 总部/地址 | 未取（赞比亚）（第 121 批 官方登记核实 2026-10-29） |
+| 其他 | hotmail；第 121 批：IT 承包 / 网络 → **不动（产品不对位 + 个人；来询按集成商 25% 报 STC-4424GCPM $165）**；0 查（第 121 批 官方登记核实 2026-10-29） |
 
 - **触达通道（公开）**：role: （疑承包商）；region: 赞比亚
 - **风险/边界**：要 Cisco 原装与 DAC（缺口 Q-32）；身份不明
@@ -162,7 +176,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Kennedy Bulaya | — | dbjcontrad@hotmail.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Kennedy Bulaya | 联系人（研究档 KP；2022 起与 e. 账号来往）— 不动：需求 Cisco 兼容交换机 + 10G DAC（不供）+ 无公司 — 赞比亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 卢萨卡、ZABS 不声称（第 121 批 官方登记核实 2026-10-29） | dbjcontrad@hotmail.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Mr. Kennedy Bulaya | — | dbjcontrad@hotmail.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：仅免费邮箱：可发，但优先找官网公开的企业邮箱（见调研 KP）
@@ -257,12 +271,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 29）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 29）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

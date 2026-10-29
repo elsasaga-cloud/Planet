@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -72,6 +72,20 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 121 批（LB · 1 次检索：lb.kompass.com/c/techno-tower-sarl/lb015188（Techno Tower Sarl；Ground floor, Abou Karam 1 building, Jdeideh (Metn) P.O.Box 90-1776；Founded in 1998；Main owners Mr. Fadi J Abou Jaoudeh, Ms. Grace Y Abou Jaoudeh；Distributor Service Importer）+ indexoflebanon（Techno Tower, Jdeideh）；登记号未得；2026-10-29，2026-10-29 查；https://lb.kompass.com/c/techno-tower-sarl/lb015188/）：**
+
+- 法定名 / 登记号：Techno Tower SARL（technotower-lb.com；**kompass：Ground floor, Abou Karam 1 building, Jdeideh (Metn), P.O. Box 90-1776；成立 1998（官网口径 1989）；所有者 Fadi J. Abou Jaoudeh / Grace Y. Abou Jaoudeh；自动化 / 安防 / CCTV / 消防 / 卫星 / 灯光设备进口分销商**）；商业登记号 1 查未得 → 部分坐实；KP Amine Abou Jaoude（GM，家族同姓）2024-04 问价（研究档）；无回复 · 未取（商业登记号 1 查未得） · 状态 **营业中（官网 + 名录）** · 成立 1998（官网 1989） · SARL
+- 行业码 / 经营范围：自动化 / 安防 / CCTV / 消防 / 灯光进口分销（Jdeideh, Metn）
+- 注册地址：Ground floor, Abou Karam 1 Building, Jdeideh (Metn), P.O. Box 90-1776, Lebanon
+- 规模档：小型
+- 账目：未取；—
+- 高管：Amine Abou Jaoude — General Manager（研究档 KP；amine@technotower-lb.com）= 收件人
+- 高管：Fadi J. Abou Jaoudeh — Owner（kompass 2026-10-29；无公开邮箱）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **进口分销商 + GM 曾问价 → 分销 20% B，一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-2216GP / STC-2224GP $86 一口价 + MOQ 1 + 付费样机）— 黎巴嫩常规：英文稿、20 / 25 / 30 + T/T 预付 100%（不接受信用证）+ FOB 深圳 或 DAP 贝鲁特（买方清关）**；再无回声 → 不动
+- 备注：分销 20%；一页纸一次（预付 100%）；部分坐实（kompass 地址 + 成立年 + 所有者；登记号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -106,17 +120,18 @@ updated: 2026-10-28
 - **【用户表】需求与回复**
   > HDMI NB 网站：打不开；2024.4.17 发了商业POE 128信息 → pls me the price for 8 16 & 24
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Amine Abou Jaoude (Abou-Jaoudeh)（GM / 业主）amine@technotower-lb.com +961 3 839 839（WA 已加）〔用户 Clients 表 + Kompass〕
+- **KP**：Amine Abou Jaoude (Abou-Jaoudeh)（General Manager（家族企业；kompass 所有者 Fadi J. / Grace Y. Abou Jaoudeh；2024-04 问价）= 收件人 — 一页纸一次：分销 20% B、STC-028GP $28 / STC-228GP $33 / STC-2216GP / STC-2224GP $86 一口价 + MOQ 1 + 付费样机 — 黎巴嫩常规：英文稿、20 / 25 / 30 + T/T 预付 100%（不接受信用证）+ FOB 深圳 或 DAP 贝鲁特（第 121 批 官方登记核实 2026-10-29））amine@technotower-lb.com +961 3 839 839（WA 已加）〔用户 Clients 表 + Kompass〕
+- **KP**：Fadi J. Abou Jaoudeh（Owner（kompass 2026-10-29；无公开邮箱）（第 121 批 官方登记核实 2026-10-29）） 〔〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + Kompass/海关记录核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Techno Tower Sarl |
-| 成立 | 1989 |
-| 总部/地址 | Ground floor, Block A, Abou-Karam building, Mar Youhanna street, Mar Takla area, Bauchrieh (Metn), P.O.Box 90-1776；+961 1 875725；info@technotower-lb.com |
-| 其他 | Kompass 业主：Amine J / Fadi J / Grace Y Abou-Jaoudeh；tradesns 海关记录「Telecommunication equipment (wholesale)」联系人 Amine Abou-Jaoudeh |
+| 法定名称 | Techno Tower SARL（商业登记号 1 查未得；P.O. Box 90-1776） |
+| 成立 | 1998（kompass；官网口径 1989）（第 121 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Ground floor, Abou Karam 1 Building, Jdeideh (Metn), Lebanon（第 121 批 官方登记核实 2026-10-29） |
+| 其他 | Kompass 业主：Amine J / Fadi J / Grace Y Abou-Jaoudeh；tradesns 海关记录「Telecommunication equipment (wholesale)」联系人 Amine Abou-Jaoudeh；第 121 批：自动化 / 安防 / CCTV / 消防 / 卫星 / 灯光进口分销商 → **分销 20% 一页纸一次（预付 100%）**；部分坐实（kompass 地址 + 成立年 + 所有者）（第 121 批 官方登记核实 2026-10-29） |
 
 - **业务线**：自动门、道闸、门禁与停车系统；可视对讲、CCTV 视频监控；火警与自动灭火系统、防雷；电信/安防设备批发进口
 - **触达通道（公开）**：official: info@technotower-lb.com / +961 1 875725；contact: Amine Abou Jaoude（GM/业主）amine@technotower-lb.com，+961 3 839 839（WA 已加）；facebook: facebook.com/Techbotower（+961 76 898 916）
@@ -187,7 +202,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Amine Abou Jaoude (Abou-Jaoudeh) | GM / 业主 | amine@technotower-lb.com / +961 3 839 839（WA 已加） | 调研核实（公开页） | 用户 Clients 表 + Kompass |
+| Amine Abou Jaoude (Abou-Jaoudeh) | General Manager（家族企业；kompass 所有者 Fadi J. / Grace Y. Abou Jaoudeh；2024-04 问价）= 收件人 — 一页纸一次：分销 20% B、STC-028GP $28 / STC-228GP $33 / STC-2216GP / STC-2224GP $86 一口价 + MOQ 1 + 付费样机 — 黎巴嫩常规：英文稿、20 / 25 / 30 + T/T 预付 100%（不接受信用证）+ FOB 深圳 或 DAP 贝鲁特（第 121 批 官方登记核实 2026-10-29） | amine@technotower-lb.com / +961 3 839 839（WA 已加） | 调研核实（公开页） | 用户 Clients 表 + Kompass |
+| Fadi J. Abou Jaoudeh | Owner（kompass 2026-10-29；无公开邮箱）（第 121 批 官方登记核实 2026-10-29） | — | 调研核实（公开页） | 调研 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 
@@ -280,12 +296,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 45）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 45）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -88,6 +88,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 121 批（MX · 1 次检索：dnb.com（Electrónica Steren, S.A. de C.V.；Biólogo Maximino Martínez No. 3408 San Salvador Xochimanca, Azcapotzalco 02870；Key Principal Goyazlay Keri González Rodríguez）+ verif.com（Active；4652 Wholesale of electronic and telecommunications equipment）+ volza（69,873 import shipments；539 suppliers）；RFC 未得；2026-10-29，2026-10-29 查；https://www.dnb.com/business-directory/company-profiles.electr%C3%B3nica_steren_sa_de_cv.d226ba7d6e837eca174c082fca0c32c6.html）：**
+
+- 法定名 / 登记号：Electrónica Steren, S.A. de C.V.（steren.com.mx；**D&B / verif：Biólogo Maximino Martínez No. 3408, Col. San Salvador Xochimanca, Azcapotzalco, CDMX 02870；电子产品批发 + 自有品牌连锁零售（墨西哥 / 拉美）；volza：进口 69,873 票 / 539 家供应商；D&B 主要负责人 Goyazlay Keri González Rodríguez**）；RFC 未取 → 部分坐实（大型）；表内「自有品牌商用 PoE，HRUI 在供」→ Q-33 口径待 Simon；无具名 KP（info@）；未跟进 · 未取（RFC 不公开） · 状态 **Active（verif）** · 成立 未取（1956 起，研究档） · S.A. de C.V.
+- 行业码 / 经营范围：电子产品批发 + 自有品牌连锁零售（墨西哥城）
+- 注册地址：Biólogo Maximino Martínez No. 3408, Col. San Salvador Xochimanca, Azcapotzalco, Ciudad de México 02870, Mexico
+- 规模档：大型（连锁）
+- 账目：未取；—
+- 高管：Goyazlay Keri González Rodríguez — Key Principal（D&B 2026-10-29；无公开邮箱）；收件 info@steren.com.mx
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自有品牌商用 PoE 且 HRUI 在供 → Q-33 口径待 Simon（只推 SmartByte / Marvell 管理 + 工业线：STC-4424GCPM $165 / STI 系列贴标 OEM 30%）→ 口径定前不动（B 保留）**— 墨西哥常规：英文稿（可附西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关；NOM / IFT 不声称）
+- 备注：不动（Q-33 口径待定；同 SB-523 / SB-1102）；部分坐实（D&B 地址 + 进口记录；RFC 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -121,14 +134,17 @@ updated: 2026-10-28
 - **【用户表】用 HRUI 的；商业 PoE 自己的型号**
   > 用的洪瑞的 商业POE 自己的型号
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Goyazlay Keri González Rodríguez（Key Principal（D&B 2026-10-29；无公开邮箱）；收件 info@steren.com.mx — 口径定前不动 — 墨西哥常规：英文稿（可附西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP、NOM / IFT 不声称（第 121 批 官方登记核实 2026-10-29）） 〔〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 墨西哥 |
-| 其他 | 官网 steren.com.mx，语言 es，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Electrónica Steren, S.A. de C.V.（RFC 不公开；Active） |
+| 成立 | 未取（1956 起，研究档）（第 121 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Biólogo Maximino Martínez No. 3408, Col. San Salvador Xochimanca, Azcapotzalco, Ciudad de México 02870, Mexico（第 121 批 官方登记核实 2026-10-29） |
+| 其他 | 官网 steren.com.mx，语言 es，快照状态 ok；角色判定来源：用户表；第 121 批：电子产品批发 + 自有品牌连锁零售；自有品牌商用 PoE 且 HRUI 在供 → **Q-33 口径待 Simon（只推 SmartByte / Marvell 管理 + 工业线 贴标 OEM 30%：STC-4424GCPM $165 / STI 系列）→ 口径定前不动（B 保留；同 SB-523 / SB-1102）**；部分坐实（D&B 地址 + 进口记录）（第 121 批 官方登记核实 2026-10-29） |
 
 - **业务线**：电子产品零售连锁（自有品牌 Steren）
 - **触达通道（公开）**：role: 墨西哥电子零售自有品牌（PoE 现由 HRUI 供货 → Q-33 口径；体量大）；region: 墨西哥；contact: info@steren.com.mx
@@ -210,7 +226,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@steren.com.mx | 用户表原值 | Clients/ 表 |
+| Goyazlay Keri González Rodríguez | Key Principal（D&B 2026-10-29；无公开邮箱）；收件 info@steren.com.mx — 口径定前不动 — 墨西哥常规：英文稿（可附西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP、NOM / IFT 不声称（第 121 批 官方登记核实 2026-10-29） | — | 调研核实（公开页） | 调研 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -245,7 +261,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：自有品牌/贴牌需求 = 现成 OEM 客户
-- **W**：无具名决策人，仍是公司级触达；拉美：物流/收款/汇率摩擦高于主攻区
+- **W**：拉美：物流/收款/汇率摩擦高于主攻区
 - **O**：P1 STC-28DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；对位其在用/在卖的 洪瑞：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
@@ -262,7 +278,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ✅ |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ✅ 洪瑞 |
 | 采购量/预算 | ❓ 未确认 |
@@ -278,7 +294,7 @@ updated: 2026-10-28
 **主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Goyazlay,
 
 Over the past months you had a few product mails from us - most recently "16 Port Industrial PoE Switch" on 15 September 2026 - and there was no reason to answer a mass mail. This one is specific. For the Steren-branded PoE switch range, we can add a Marvell-based 8-PoE + 2 SFP L2+ managed model under your label from small lots, FCC/CE/RoHS — would a managed step-up fit your CCTV category for small-business customers?
 
@@ -303,12 +319,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 27）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 27）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

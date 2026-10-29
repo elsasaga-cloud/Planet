@@ -84,6 +84,19 @@ updated: 2026-10-29
 
 - 法定假日：11-16 Revolution Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 121 批（MX · 1 次检索：tendata.com/en/supplier/rarmx-engineering-sa-de-cv（RARMX ENGINEERING SA DE CV；Mexico；rarmx.com.mx；imported CONTROL MODULE, FILTER HOLDER, PARTS OF FILTRATION EQUIPMENT 08 Aug 2025；7 suppliers from China and United States）；RFC / 地址未得；2026-10-29，2026-10-29 查；https://www.tendata.com/en/supplier/rarmx-engineering-sa-de-cv-MEXI31753e9e9e4fdc3f8b4320b2d01d1f14.html）：**
+
+- 法定名 / 登记号：RARMX Engineering, S.A. de C.V.（rarmx.com.mx；**tendata 进口记录：2025-08 自中 / 美 7 家供应商进口控制模块 / 过滤设备件（HS 9027 / 9030 / 9026）→ 真实进口主体；研究档：蒙特雷水处理 / 工程（+52 81）**；RFC / 地址 1 查未得 → 部分坐实；**阿里巴巴 RTS 已成单「5 电口」**；KP Marisol Mendoza（info@）；需求小工业机 · 未取（RFC 1 查未得；法人形式 S.A. de C.V. 已核） · 状态 **营业中（2025-08 进口记录）** · 成立 未取 · S.A. de C.V.
+- 行业码 / 经营范围：水处理 / 工程（蒙特雷）
+- 注册地址：未取（Monterrey, N.L., Mexico）
+- 规模档：小型（推定）
+- 账目：未取；—
+- 高管：Marisol Mendoza — 联系人（研究档 KP；info@rarmx.com.mx）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **★ 阿里 RTS 已成单（5 电口）+ 真实进口主体 → 复购一页纸一次（STI-054GP / STI-280GE $46.6 / STI-154GP 水厂 DIN 机一口价 + MOQ 1；西语备注）— 墨西哥常规：英文稿（可附西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关；NOM / IFT 不声称）**；回信即升 A 候选
+- 备注：复购（集成商 25%）；一页纸一次（预付 100%）；部分坐实（进口记录 + 法人形式；RFC 未取）；★ 回信即升。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -115,15 +128,17 @@ updated: 2026-10-29
 - **【用户表】5 电口 RTS 订单**
   > 5电口 网站有工业控制产品 / from: 阿里巴巴RTS订单
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Marisol Mendoza（）info@rarmx.com.mx 〔用户表〕
+- **KP**：Marisol Mendoza（联系人（研究档 KP；阿里 RTS 订单「5 电口」）= 收件人 — 复购一页纸一次：STI-054GP / STI-280GE $46.6 / STI-154GP 水厂 DIN 机一口价 + MOQ 1；西语备注 — 墨西哥常规：英文稿（可附西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP、NOM / IFT 不声称（第 121 批 官方登记核实 2026-10-29））info@rarmx.com.mx 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 墨西哥 |
-| 其他 | 官网 rarmx.com.mx，语言 es，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | RARMX Engineering, S.A. de C.V.（RFC 1 查未得；tendata 进口主体） |
+| 成立 | 未取（第 121 批 官方登记核实 2026-10-29） |
+| 总部/地址 | 未取（Monterrey, N.L., Mexico；+52 81）（第 121 批 官方登记核实 2026-10-29） |
+| 其他 | 官网 rarmx.com.mx，语言 es，快照状态 ok；角色判定来源：用户表；第 121 批：★ 阿里 RTS 已成单 + 2025-08 自中 / 美 7 家供应商进口控制模块 / 过滤设备件（真实进口主体）；水处理 / 工程 → **复购一页纸一次（预付 100%）；回信即升 A 候选**；部分坐实（进口记录 + 法人形式）（第 121 批 官方登记核实 2026-10-29） |
 
 - **业务线**：水处理工程 / 工业控制产品（墨西哥）
 - **触达通道（公开）**：role: 水处理工程公司（墨西哥，工业控制配套）；region: 墨西哥；contact: info@rarmx.com.mx
@@ -196,7 +211,7 @@ updated: 2026-10-29
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Marisol Mendoza | — | info@rarmx.com.mx | 调研核实（公开页） | 用户表 |
+| Marisol Mendoza | 联系人（研究档 KP；阿里 RTS 订单「5 电口」）= 收件人 — 复购一页纸一次：STI-054GP / STI-280GE $46.6 / STI-154GP 水厂 DIN 机一口价 + MOQ 1；西语备注 — 墨西哥常规：英文稿（可附西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP、NOM / IFT 不声称（第 121 批 官方登记核实 2026-10-29） | info@rarmx.com.mx | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

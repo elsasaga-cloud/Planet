@@ -75,6 +75,19 @@ updated: 2026-10-29
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 121 批（HK · 1 次检索：eware.com.hk/en/contact_us（Head Office Unit 2102-03, 21/F, Two Sky Parc, 51 Hung To Road, Kwun Tong；+852 25650165；info@eware.com.hk）+ eware.com.hk career（Eware Networks Limited）+ webrate whois（EWARE NETWORKS LTD；Rm.1107, Futura Plaza）；CR 未得；2026-10-29，2026-10-29 查；https://www.eware.com.hk/en/contact_us/）：**
+
+- 法定名 / 登记号：Eware Networks Limited（eware.com.hk；**官网 contact：Unit 2102-03, 21/F, Two Sky Parc, 51 Hung To Road, Kwun Tong；+852 2565 0165；info@ / sales@；广州 / 深圳支持热线；whois 旧址 Rm 1107 Futura Plaza, How Ming Street；视频会议 / IP 电话 / UC 方案商（研究档 Yealink 类）**）；CR 号 1 查未得 → 部分坐实；KP Ivan Lau（System Engineer）；群发 8 次无回复 · 未取（CR 号 1 查未得） · 状态 **营业中（官网在）** · 成立 未取 · Limited（私人有限）
+- 行业码 / 经营范围：UC / 视频会议 / IP 电话方案集成（观塘；穗深支持）
+- 注册地址：Unit 2102-03, 21/F, Two Sky Parc, 51 Hung To Road, Kwun Tong, Kowloon, Hong Kong
+- 规模档：小型
+- 账目：未取；—
+- 高管：Ivan Lau — System Engineer（研究档 KP；info@eware.com.hk）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **UC 集成商（IP 话机 / AP 供电配套）→ 集成商 25% B，最后一次一页纸（STC-2216GP / STC-2224GP $86 / STC-4424GCPM $165 一口价 + MOQ 1 + 付费样机）— 香港常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 香港（免税；OFCA 不声称）**；8×0 → 再无回声 → 不动
+- 备注：集成商 25%；最后一次一页纸（预付 100%）；部分坐实（官网地址 + 电话；CR 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -115,15 +128,17 @@ updated: 2026-10-29
 - **【官网快照】Eware 定位**
   > Eware specialize in providing video conference, telephone system, audio conference, unified communications, audio visual system, IP phone and VoIP solutions in Hong Kong
   > 来源：https://www.eware.com.hk/en/（抓取 2026-10-21）
-- **KP**：Ivan Lau（）info@eware.com.hk 〔用户表〕
+- **KP**：Ivan Lau（System Engineer（研究档 KP）= 收件人 — 最后一次一页纸：集成商 25% B、IP 话机 / AP 供电配套（STC-2216GP / STC-2224GP $86 / STC-4424GCPM $165）一口价 + MOQ 1 + 付费样机 — 香港常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 香港（免税）（第 121 批 官方登记核实 2026-10-29））info@eware.com.hk 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 香港 |
-| 其他 | 官网 eware.com.hk，语言 ?，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Eware Networks Limited（CR 号 1 查未得） |
+| 成立 | 未取（第 121 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Unit 2102-03, 21/F, Two Sky Parc, 51 Hung To Road, Kwun Tong, Kowloon, Hong Kong（+852 2565 0165；旧址 Rm 1107 Futura Plaza）（第 121 批 官方登记核实 2026-10-29） |
+| 其他 | 官网 eware.com.hk，语言 ?，快照状态 ok；角色判定来源：官网文案；第 121 批：UC / 视频会议 / IP 电话集成（穗深支持热线）→ **集成商 25% 最后一次一页纸（预付 100%）**；8×0；部分坐实（官网地址 + 电话）（第 121 批 官方登记核实 2026-10-29） |
 
 - **业务线**：视频会议 / 电话系统 / UC / AV 集成（香港）
 - **触达通道（公开）**：role: AV/UC 系统集成商（香港，PoE 为配套）；region: 香港；contact: info@eware.com.hk
@@ -213,7 +228,7 @@ updated: 2026-10-29
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ivan Lau | — | info@eware.com.hk | 调研核实（公开页） | 用户表 |
+| Ivan Lau | System Engineer（研究档 KP）= 收件人 — 最后一次一页纸：集成商 25% B、IP 话机 / AP 供电配套（STC-2216GP / STC-2224GP $86 / STC-4424GCPM $165）一口价 + MOQ 1 + 付费样机 — 香港常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 香港（免税）（第 121 批 官方登记核实 2026-10-29） | info@eware.com.hk | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 

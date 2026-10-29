@@ -26,7 +26,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -73,6 +73,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 121 批（IL · 1 次检索：app.tradeatlas.com（NEGOH-OP LTD；SHABAZI ST. 10 YAHUD, ISRAEL, 5623028）+ tendata（5 shipments；OPTICAL DELAY LINE / RF TO OPTICAL SIGNAL CONVERTER）+ zoominfo（+972 35285972；11-50；Test & Measurement）；公司号未得；2026-10-29，2026-10-29 查；https://app.tradeatlas.com/en/firms/negoh-op-ltd/5ef774402f314ab6）：**
+
+- 法定名 / 登记号：Negoh-Op Ltd（negoh-op.com；**TradeAtlas / tendata：Shabazi St. 10, Yahud 5623028, Israel；进口光延迟线 / RF-光转换器（RF 光子学测试测量）；ZoomInfo 11–50，+972 3 528 5972**）；公司号 1 查未得 → 部分坐实；CEO Dov Abraham；需求 10G 光模块（不供）；WA 无实质回复 · 未取（公司号 1 查未得） · 状态 **营业中（企业库 + 进口记录）** · 成立 未取 · Ltd
+- 行业码 / 经营范围：RF 光子学 / 测试测量（耶胡德）
+- 注册地址：Shabazi St. 10, Yahud 5623028, Israel
+- 规模档：小型（11–50）
+- 账目：未取；—
+- 高管：Dov Abraham — CEO（研究档 KP；dov@negoh-op.com）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **需求 10G 光模块（不供）+ 非目标行业（RF 光子学）→ 不动（B 保留）**— 以色列常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关；SII 不声称）
+- 备注：不动（产品不对位 + 非目标行业）；部分坐实（贸易库地址；公司号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -98,15 +111,17 @@ updated: 2026-10-28
 - **【用户表】10G 光模块**
   > 兴趣：10G光模块
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Dov Abraham（）dov@negoh-op.com +972 52 661 4126〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Dov Abraham（CEO（研究档 KP）— 不动：需求 10G 光模块（不供）+ RF 光子学测试测量非目标行业 — 以色列常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关）、SII 不声称（第 121 批 官方登记核实 2026-10-29））dov@negoh-op.com +972 52 661 4126〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照空页 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Negoh-Op（待核） |
-| 总部/地址 | Israel |
+| 法定名称 | Negoh-Op Ltd（公司号 1 查未得） |
+| 成立 | 未取（第 121 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Shabazi St. 10, Yahud 5623028, Israel（+972 3 528 5972）（第 121 批 官方登记核实 2026-10-29） |
+| 其他 | 第 121 批：进口光延迟线 / RF-光转换器（tendata 5 票）→ **不动（产品不对位 + 非目标行业）**；部分坐实（贸易库地址）（第 121 批 官方登记核实 2026-10-29） |
 
 - **触达通道（公开）**：role: （光通信经销，推断）；region: 以色列
 - **风险/边界**：需求 10G 模块不在 Saga 线
@@ -148,7 +163,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Dov Abraham | — | dov@negoh-op.com / +972 52 661 4126 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Dov Abraham | CEO（研究档 KP）— 不动：需求 10G 光模块（不供）+ RF 光子学测试测量非目标行业 — 以色列常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关）、SII 不声称（第 121 批 官方登记核实 2026-10-29） | dov@negoh-op.com / +972 52 661 4126 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Dov Abraham, CEO | — | dov@negoh-op.com / +972526614126 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
@@ -227,12 +242,12 @@ updated: 2026-10-28
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

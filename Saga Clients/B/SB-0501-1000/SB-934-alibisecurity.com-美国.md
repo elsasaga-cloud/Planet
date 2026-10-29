@@ -1,6 +1,6 @@
 # alibisecurity.com
 
-> **评级 B**　|　以色列　|　档案编号 `SB-934`　|　优先级 ★★　|　状态：已推送 8 次·未回复
+> **评级 B**　|　美国　|　档案编号 `SB-934`　|　优先级 ★★　|　状态：已推送 8 次·未回复
 >
 > **类型**：安防品牌/分销（Alibi 自有品牌 + D-Link/TP-Link 交换机）（推断）　|　**历史关系**：推送 8 次（2025-01-27 → 2025-10-27）　|　**所在清单**：A优质名单(Israel)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -9,8 +9,9 @@ code: SB-934
 rating: B
 rating_auto: B
 score: 27
-country: 以色列
-region: 中东
+country: 美国
+country_table: 以色列  # 表内原填；调研纠正为 美国（research JSON country_fix）
+region: 北美
 website: alibisecurity.com
 type: 安防品牌/分销（Alibi 自有品牌 + D-Link/TP-Link 交换机）
 tier_tags: ["A优质名单(Israel)"]
@@ -72,16 +73,31 @@ updated: 2026-10-29
 
 - `alibisecurity.com` → Microsoft 365（MX：alibisecurity-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 
-**假日避让（以色列 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（美国 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
 
-- 窗口内无该国法定假日
+- 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
+
+**公司底数 · 第 121 批（US · 1 次检索：observint.com/News（Alibi Security … owned by parent company Observint Technologies, both headquartered in Austin, TX；15505 Long Vista Drive Suite 250 Austin, TX 78728）+ een.com（Brian Wood, CEO of Alibi Security；30 years）+ signalhire（15505 Long Vista Drive, Austin, Texas, 78728；100-200）；2026-10-29，2026-10-29 查；https://observint.com/News/）：**
+
+- 法定名 / 登记号：Alibi Security（alibisecurity.com；**美国：15505 Long Vista Drive, Suite 250, Austin, TX 78728；母公司 Observint Technologies（同址）；30+ 年经销商网络；100–200 人；CEO Brian Wood；888-858-1442；自有品牌摄像机 / 门禁 / VMS + 转售 D-Link / TP-Link PoE 交换机、Vigitron 注入器 → 表内国别「以色列」误 → country_fix 美国**）；州登记号未取 → 部分坐实；KP Billy Grumbles；未跟进 · 未取（Texas SoS 付费；品牌隶属 Observint Technologies） · 状态 **营业中（官网 + 新闻）** · 成立 约 1990（自述 30+ 年） · LLC / Inc.（Observint 旗下品牌）
+- 行业码 / 经营范围：安防产品自有品牌 + 经销商渠道（奥斯汀，德州）
+- 注册地址：15505 Long Vista Drive, Suite 250, Austin, TX 78728, USA
+- 规模档：中型（100–200）
+- 账目：未取；—
+- 高管：Billy Grumbles — 联系人（研究档 KP；billy.grumbles@alibisecurity.com）= 收件人
+- 高管：Brian Wood — CEO（een.com 新闻 2026-10-29；无公开邮箱）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自有品牌安防 + 转售 D-Link / TP-Link PoE → 贴标 OEM 30% B，一页纸一次（STC-028GP $28 / STC-2216GP / STC-2224GP $86 Alibi 贴标 + MOQ + 付费样机；NDAA / TAA 不声称、D-Link / TP-Link / Vigitron 不点名）— 美国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP（买方清关）；周三 08–10 当地**；回信 → 加厚
+- 备注：贴标 OEM 30%；一页纸一次（预付 100%）；部分坐实（新闻 + 名录地址 + 母公司；州登记号未取）；country_fix 美国。
 
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | alibisecurity.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 以色列 | 事实（用户表）|
+| 国家 | 美国 | 事实（用户表）|
 | 网站/域名 | alibisecurity.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 安防品牌/分销（Alibi 自有品牌 + D-Link/TP-Link 交换机） | 推断（据兴趣/备注关键词） |
 | 联系人 | 可以尝试多跟进一下 / Billy | 事实（用户表） |
@@ -109,15 +125,18 @@ updated: 2026-10-29
 - **【用户表】主要 CCTV，不同品牌 FS，Vigitron 注入器**
   > 主要是CCTV 有一些不同品牌的FS POE injector 有Vigitron的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Billy Grumbles（）billy.grumbles@alibisecurity.com 〔用户表〕
+- **KP**：Billy Grumbles（联系人（研究档 KP）= 收件人 — 一页纸一次：贴标 OEM 30% B、Alibi 自有品牌 PoE（STC-028GP $28 / STC-2216GP / STC-2224GP $86）贴标 + MOQ + 付费样机；在售 D-Link / TP-Link / Vigitron 不点名 — 美国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP（买方清关）、NDAA / TAA / UL 不声称；周三 08–10 当地（第 121 批 官方登记核实 2026-10-29））billy.grumbles@alibisecurity.com 〔用户表〕
+- **KP**：Brian Wood（CEO（een.com 新闻 2026-10-29；无公开邮箱）（第 121 批 官方登记核实 2026-10-29）） 〔〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 以色列 |
-| 其他 | 官网 alibisecurity.com，语言 en，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Alibi Security（Observint Technologies 旗下品牌；德州登记号未取） |
+| 成立 | 约 1990（自述 30+ 年经销商网络）（第 121 批 官方登记核实 2026-10-29） |
+| 总部/地址 | 15505 Long Vista Drive, Suite 250, Austin, TX 78728, USA（888-858-1442）（第 121 批 官方登记核实 2026-10-29） |
+| 其他 | 官网 alibisecurity.com，语言 en，快照状态 ok；角色判定来源：用户表；第 121 批：表内国别「以色列」误 → country_fix 美国（总部奥斯汀）；自有品牌安防 + 经销商渠道，转售 D-Link / TP-Link PoE → **贴标 OEM 30% 一页纸一次（预付 100%）**；NDAA 不声称；部分坐实（第 121 批 官方登记核实 2026-10-29） |
 
 - **业务线**：安防品牌（摄像机 / 门禁 / VMS）；网络产品分销（D-Link / TP-Link / Vigitron）
 
@@ -219,7 +238,8 @@ updated: 2026-10-29
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Billy Grumbles | — | billy.grumbles@alibisecurity.com | 调研核实（公开页） | 用户表 |
+| Billy Grumbles | 联系人（研究档 KP）= 收件人 — 一页纸一次：贴标 OEM 30% B、Alibi 自有品牌 PoE（STC-028GP $28 / STC-2216GP / STC-2224GP $86）贴标 + MOQ + 付费样机；在售 D-Link / TP-Link / Vigitron 不点名 — 美国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP（买方清关）、NDAA / TAA / UL 不声称；周三 08–10 当地（第 121 批 官方登记核实 2026-10-29） | billy.grumbles@alibisecurity.com | 调研核实（公开页） | 用户表 |
+| Brian Wood | CEO（een.com 新闻 2026-10-29；无公开邮箱）（第 121 批 官方登记核实 2026-10-29） | — | 调研核实（公开页） | 调研 |
 
 - **通道建议**：邮件已推送 8 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -253,8 +273,8 @@ updated: 2026-10-29
 
 ## SWOT
 
-- **S**：自有品牌/贴牌需求 = 现成 OEM 客户
-- **W**：已推送 8 次无回复，邮件通道疲劳；中东：物流/收款/汇率摩擦高于主攻区
+- **S**：自有品牌/贴牌需求 = 现成 OEM 客户；北美主攻区，复购与口碑可外溢
+- **W**：已推送 8 次无回复，邮件通道疲劳
 - **O**：P1 STC-28DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 

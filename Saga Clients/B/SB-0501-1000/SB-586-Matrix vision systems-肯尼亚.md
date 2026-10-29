@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: unreachable  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -72,6 +72,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 121 批（KE · 1 次检索：「"Matrix Systems" matrixsystems.co.ke Nairobi」→ crunchbase（美国 Matrix Systems）/ facebook 同名（中东）→ 均非本户；2026-10-29，2026-10-29 查；）：**
+
+- 法定名 / 登记号：Matrix Vision Systems / Matrix Systems（matrixsystems.co.ke；**1 查仅美国 / 中东同名，肯尼亚本体未命中 → 未坐实**；研究档：内罗毕电气工程 + 安防 + 软件集成商，11–50 人，Hikvision 战略伙伴，NCA / CA 认证 ICT 承包商）；技术总监 Mogeni Enock 2024-03 回「有用，需与团队沟通是否拿样」；需求光纤上行 IP 摄像机接入 · 未取（1 查未命中本体） · 状态 **营业中（研究档官网）** · 成立 未取（自述 10 年以上） · Ltd（推定）
+- 行业码 / 经营范围：电气 / 安防 / ICT 集成（内罗毕）
+- 注册地址：未取（Nairobi, Kenya）
+- 规模档：小型（11–50）
+- 账目：未取；—
+- 高管：Mogeni Enock — 技术总监（研究档 KP；mogeni@matrixsystems.co.ke）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **技术总监曾回复「需沟通拿样」→ 集成商 25% B，一页纸一次（光纤上行摄像机接入：STI-154GP / STC-228GP $33 付费样机一口价 + 运费；Hikvision 配套中性包装）— 肯尼亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 内罗毕（买方清关；KEBS / CA 不声称）**；再无回声 → 不动
+- 备注：集成商 25%；一页纸一次（付费样机 + 预付 100%）；未坐实（同名未对齐）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -107,17 +120,17 @@ updated: 2026-10-28
 - **【用户表】2024-03-28 回复：商用 PoE 1×2+8 资料「有用 需要和 team 沟通一下是否拿样」；兴趣 ip cameras over fiber**
   > 回复：有用 需要和team沟通一下是否拿样
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Mogeni Enock（）mogeni@matrixsystems.co.ke +254 721 779 429〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Mogeni Enock（技术总监（研究档 KP；2024-03 回「有用，需沟通拿样」）= 收件人 — 一页纸一次：集成商 25% B、光纤上行摄像机接入（STI-154GP / STC-228GP $33）付费样机一口价 + 运费 — 肯尼亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 内罗毕、KEBS 不声称（第 121 批 官方登记核实 2026-10-29））mogeni@matrixsystems.co.ke +254 721 779 429〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Matrix Vision Systems Limited |
-| 成立 | 约 2013 前后（自述 10 年以上） |
-| 总部/地址 | Maisonette 7, BSK Village, Muguga Green, Westlands, Nairobi, Kenya |
-| 其他 | Hikvision 战略伙伴；NCA/CA/ICT Authority 认证 |
+| 法定名称 | Matrix Vision Systems / Matrix Systems（1 查仅美国 / 中东同名 → 本体未命中） |
+| 成立 | 未取（自述 10 年以上）（第 121 批 官方登记核实 2026-10-29） |
+| 总部/地址 | 未取（Nairobi, Kenya）（第 121 批 官方登记核实 2026-10-29） |
+| 其他 | Hikvision 战略伙伴；NCA/CA/ICT Authority 认证；第 121 批：电气 / 安防 / ICT 集成商（Hikvision 伙伴，NCA / CA 认证）→ **集成商 25% 一页纸一次（付费样机 + 预付 100%）**；未坐实（第 121 批 官方登记核实 2026-10-29） |
 
 - **业务线**：AI 视频监控 / 门禁 / 钥匙管理 / 报警（Hikvision）；ICT 与通信基础设施（机房、UC、PABX）；企业软件 / 设施资产管理
 
@@ -193,7 +206,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Mogeni Enock | — | mogeni@matrixsystems.co.ke / +254 721 779 429 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Mogeni Enock | 技术总监（研究档 KP；2024-03 回「有用，需沟通拿样」）= 收件人 — 一页纸一次：集成商 25% B、光纤上行摄像机接入（STI-154GP / STC-228GP $33）付费样机一口价 + 运费 — 肯尼亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 内罗毕、KEBS 不声称（第 121 批 官方登记核实 2026-10-29） | mogeni@matrixsystems.co.ke / +254 721 779 429 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 
@@ -286,12 +299,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 36）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 36）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
