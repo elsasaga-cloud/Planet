@@ -2,12 +2,15 @@
 
 > **评级 C**　|　土耳其　|　档案编号 `SC-442`　|　优先级 —　|　状态：名单内·未触达
 >
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 土耳其主区 · 安防集成 25%：MEPA Elektronik（Kayseri；弱电集成 15 年；11–50 人；Co-Owner Eren Gül）部分坐实（vergi no 未取）；土耳其主区 ✔ WA 可达 ✔ 4 / 8 / 16 / 24 口需求 ✔ 决策人具名 ✔ → P 池候选
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：ISAF2025展会、表:Ady　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-442
 rating: C
 rating_auto: C
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 20
 country: 土耳其
 region: 土耳其
@@ -24,7 +27,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -35,6 +38,26 @@ updated: 2026-10-24
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（24 口 PoE L2+ 走量款）
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）；网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 133 批（TR · 1 次检索：mepaelektronik.com/data-network（业务）+ zoominfo（地址 / 电话 / 人数 / Co-Owner）+ facebook（Kayseri）；vergi no 未取；2026-10-29，2026-10-29 查；https://www.zoominfo.com/c/mepa-elektronik/1333329689）：**
+
+- 法定名 / 登记号：MEPA Elektronik（mepaelektronik.com；**Sahabiye Mah. Otak Sk. No:41, Kocasinan / Kayseri 38010；+90 352 220 6678；弱电系统集成 15 年：CCTV、火灾探测、数据网络（结构化布线 + 可管理交换机）、对讲、卫星电视、智能家居；11–50 人；Co-Owner Eren Gül（zoominfo）**）；vergi no 未取；表内：Furkan；Ady 展会加了 WhatsApp +90 535 875 1129，要 4 / 8 / 16 / 24 口 PoE 交换机 · 未取（vergi no 未查；官网 + 目录坐实） · 状态 **营业中（官网 / FB）** · 成立 未取（15 年经验 ≈ 2010） · 未取（疑 Ltd. Şti.）
+- 行业码 / 经营范围：弱电 / 安防 / 网络集成（开塞利）
+- 注册地址：Sahabiye Mah. Otak Sk. No:41, Kocasinan, Kayseri 38010
+- 规模档：小型（11–50 人）
+- 账目：未取；—
+- 高管：Eren Gül — Co-Owner
+- 高管：Furkan — 表内 WA 联系人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **土耳其主区 · 安防集成 25%：WA 一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-2216GP / STC-2224GP $86 + MOQ 1 + 付费样机；土耳其语稿）— 土耳其常规：英文 / 土耳其语 WA 稿、20 / 25 / 30 + T/T 50/50（首单可预付 100%）+ FOB 深圳 / DAP 买方清关（CE / RoHS）；周二 / 周四 10–12 TRT**
+- 备注：集成 25%；P 池候选 ○（土耳其主区 ✔ WA 可达 ✔ 具体口数需求 ✔ 决策人 Co-Owner 具名 ✔）；部分坐实（vergi no 未取）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -134,8 +157,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 20）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 20）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

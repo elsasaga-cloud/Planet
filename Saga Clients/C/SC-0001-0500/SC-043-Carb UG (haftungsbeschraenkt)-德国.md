@@ -2,12 +2,15 @@
 
 > **评级 C**　|　德国　|　档案编号 `SC-043`　|　优先级 —　|　状态：名单内·未触达
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：德国 Carb UG (haftungsbeschränkt)（Regensburg；2013 年阿里巴巴 RFQ「48V 0.5A 1G PoE injector」；KP Karim Belkacem CEO；miloud30@gmail.com；carb-tech.de dead）：注入器 Saga 不供 + 陈旧 + 域死（gmail 路径在，不刚性）→ 留 C
+>
 > **类型**：陈旧询盘（2013，PoE 注入器，免费邮箱）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：A优质名单(DE)、询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-043
 rating: C
 rating_auto: B
+sieve: keep_C  # 闸 1 G1 2026-10-29
 rating_research: C  # 陈旧询盘（2013）且品类不供、免费邮箱；c_sub=陈旧询盘
 score: 44
 country: 德国
@@ -26,7 +29,7 @@ price_tier: 20%
 research: done
 site_snapshot: unreachable  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -172,8 +175,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 44）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 44）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

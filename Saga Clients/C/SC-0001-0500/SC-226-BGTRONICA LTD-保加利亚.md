@@ -2,12 +2,15 @@
 
 > **评级 C**　|　保加利亚　|　档案编号 `SC-226`　|　优先级 —　|　状态：名单内·未触达
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：保加利亚 BGTRONICA LTD（索非亚；2010 年 RFQ「无人机」；Teodor Kazandjiev；gmail；bgtronica.com nxdomain；WA 加不上）：品类不符 + 陈旧 + 域死（gmail 路径在，不刚性）→ 留 C
+>
 > **类型**：陈旧询盘（2010，无人机，免费邮箱）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：A优质名单(其他优质欧洲客户)、询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-226
 rating: C
 rating_auto: B
+sieve: keep_C  # 闸 1 G1 2026-10-29
 rating_research: C  # 陈旧询盘（2010）且品类不符；c_sub=陈旧询盘/品类不符
 score: 25
 country: 保加利亚
@@ -26,7 +29,7 @@ price_tier: 20%
 research: done
 site_snapshot: unreachable  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -172,8 +175,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 25）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 25）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
