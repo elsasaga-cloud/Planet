@@ -3,12 +3,15 @@
 
 > **评级 C**　|　南非　|　档案编号 `SC-040`　|　优先级 —　|　状态：有回复·跟进中
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：南非服务器 / 数据中心设备商 Compuspare：要 100G+ 交换机与 Alcatel 兼容 SFP 大批量、嫌贵；规格外；光模块本职可参考　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：实质回复 2 次；WhatsApp 已加；推送 4 次（2025-02-22 → 2025-10-01）　|　**所在清单**：DC线索　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-040
 rating: C
 rating_auto: B
+sieve: keep_C  # 闸 1 G1 2026-10-29
 rating_research: C  # 规格外：需求为 100G 以上数据中心交换机与 Alcatel 兼容 SFP（Saga 接入层 ≤10G、无模块）
 name_official: "CompuSpare（南非）"
 score: 46
@@ -28,7 +31,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -177,8 +180,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 46）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 46）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

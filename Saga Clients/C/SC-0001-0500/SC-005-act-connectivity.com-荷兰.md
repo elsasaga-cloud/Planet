@@ -3,12 +3,15 @@
 
 > **评级 C**　|　荷兰　|　档案编号 `SC-005`　|　优先级 —　|　状态：有回复·跟进中
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：ACT / Intronics（TKH 集团，€18 亿）布线品牌，需求以无源为主「少量 switch」；回过 1 次 → 可被动报价，不主动
+>
 > **类型**：品牌商+分销商（集团子公司）（推断）　|　**历史关系**：实质回复 1 次；推送 21 次（2024-06-03 → 2025-10-07）　|　**所在清单**：A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-005
 rating: C
 rating_auto: A
+sieve: keep_C  # 闸 1 G1 2026-10-29
 rating_research: C  # 体量过大/集团子公司：TKH Group 旗下品牌，采购走集团供应链与合规审核，Saga 贸易商无法满足其品牌级 QA/合规流程；且其需求以无源布线为主，交换机
 name_official: "ACT Connectivity（Intronics B.V. 品牌，Barneveld，荷兰；TKH Group 成员）"
 score: 70
@@ -28,7 +31,7 @@ price_tier: 30%
 research: done
 site_snapshot: none
 sources: 3
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -209,8 +212,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 70）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 70）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

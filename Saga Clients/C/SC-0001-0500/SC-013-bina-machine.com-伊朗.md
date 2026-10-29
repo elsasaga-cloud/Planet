@@ -3,12 +3,15 @@
 
 > **评级 C**　|　伊朗　|　档案编号 `SC-013`　|　优先级 —　|　状态：有回复·跟进中
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：伊朗，2024 多轮问价（2 光 4 管理 / L2 2 光 8 / mini 工业），目标价太低；制裁口径不主动发；WA 已加 → 保留
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：实质回复 6 次；回复暂无需求 3 次；WhatsApp 已加；推送 16 次（2024-02-28 → 2025-04-03）　|　**所在清单**：WA跟进　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-013
 rating: C
 rating_auto: B
+sieve: keep_C  # 闸 1 G1 2026-10-29
 rating_research: C  # 伊朗：制裁 / 收款与物流不可控；且目标价过低
 name_official: "Bina Machine（bina-machine.com，伊朗）"
 score: 56
@@ -27,7 +30,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -173,8 +176,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 56）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 56）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

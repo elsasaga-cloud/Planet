@@ -3,12 +3,15 @@
 
 > **评级 C**　|　俄罗斯　|　档案编号 `SC-011`　|　优先级 —　|　状态：成交过·维护
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：俄「主权互联网」DPI 集成商 АО ДЦОА（制裁敏感），历史从 GLsun 买光设备；成单户但不主动碰　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：成交/下单过　|　**所在清单**：群发(富通天下)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-011
 rating: C
 rating_auto: B
+sieve: keep_C  # 闸 1 G1 2026-10-29
 rating_research: C  # 守界：ДЦОА（2018-11 注册）为俄罗斯「主权互联网」法案下在全国运营商网络部署 DPI/流量过滤设备（ТСПУ）的指定集成商（RBC/CNews 报道）
 name_official: "АО «ДЦОА» — Данные – центр обработки и автоматизации（Moscow, Russia；dcoa.ru / дцоа.рф）"
 score: 59
@@ -27,7 +30,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -177,8 +180,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 59）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 59）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

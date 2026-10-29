@@ -3,12 +3,15 @@
 
 > **评级 C**　|　土耳其　|　档案编号 `SC-169`　|　优先级 —　|　状态：名单内·未触达
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：伊斯坦布尔安防弱电集成商 Hafya（+90 212），ISAF 3 人来要防水机 / 4 光 8 电 PoE 网管规格「做军队项目」→ 军用守界 + 无 IP67；公司本身对位，留 C
+>
 > **类型**：系统集成/工程商（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：ISAF2025展会、表:Evelyn　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-169
 rating: C
 rating_auto: B
+sieve: keep_C  # 闸 1 G1 2026-10-29
 rating_research: C  # 守界：ISAF 记录明确「做军队项目、会用到防水交换机」，所询工业 4 光 8 电 PoE 网管 + 防水机用于军方项目——军用/国防项目不供；且 Saga 无
 name_official: "Hafya Technologies（Hafya Teknoloji，İstanbul Şişli, TR；hafya.com.tr）"
 score: 31
@@ -27,7 +30,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -164,8 +167,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 31）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 31）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

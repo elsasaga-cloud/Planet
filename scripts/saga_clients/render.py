@@ -1501,7 +1501,8 @@ def render_one(ent):
         if sv.get('verdict') == 'pass_final':
             lines.append(f"> **{lab}**（闸 {sv.get('gate')} · {sv.get('rule')} · {sv.get('date')}）：{sv.get('reason')} —— 不再加厚 / 不群发 / 不监控 / 不进日历；撤销只在客户主动找上门时由 Simon 拍板（`data/saga_clients/sieve.json`）。")
         else:
-            lines.append(f"> **C 池筛选：{lab}**（闸 {sv.get('gate')} · {sv.get('date')}）：{sv.get('reason')}")
+            tg = '　|　标签：' + '、'.join(sv['tags']) + '（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）' if sv.get('tags') else ''
+            lines.append(f"> **C 池筛选：{lab}**（闸 {sv.get('gate')} · {sv.get('date')}）：{sv.get('reason')}{tg}")
         lines.append('>')
     lines.append(f'> **类型**：{typ}（推断）　|　**历史关系**：{"；".join(rel)}　|　**所在清单**：{tags_short}　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）')
     lines.append('')

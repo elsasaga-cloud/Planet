@@ -3,12 +3,15 @@
 
 > **评级 C**　|　加拿大　|　档案编号 `SC-107`　|　优先级 —　|　状态：WhatsApp 已加·未回复
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：AECL 加拿大原子能（联邦皇家公司），阿里 RFQ 为 5 口 PoE 交换机 PCB 板级件 → 守界 + 产品外；WA 已加 → 留档
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：WhatsApp 已加　|　**所在清单**：询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-107
 rating: C
 rating_auto: B
+sieve: keep_C  # 闸 1 G1 2026-10-29
 rating_research: C  # 守界 + 产品外：AECL 为加拿大联邦皇家公司（核能），公共部门/核设施不供；且阿里 RFQ 为「5 口 PoE 交换机 PCB」板级部件，Saga 只售整机
 name_official: "AECL — Atomic Energy of Canada Limited（加拿大联邦国有核能公司；aecl.com；询盘人 Mirza Pasovic，Gmail）"
 score: 35
@@ -27,7 +30,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -160,8 +163,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 35）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 35）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -3,12 +3,15 @@
 
 > **评级 C**　|　意大利　|　档案编号 `SC-020`　|　优先级 —　|　状态：成交过·维护
 >
+> **⛔ 已过筛 · 永久 pass**（闸 1 · G1 · 2026-10-29）：意大利商业登记：3MEDIALAB S.R.L. IN LIQUIDAZIONE（清算中，2025 员工 0，2023 营收 €60.8k）；历史定制 VC 一次性 → 主体消失 —— 不再加厚 / 不群发 / 不监控 / 不进日历；撤销只在客户主动找上门时由 Simon 拍板（`data/saga_clients/sieve.json`）。
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：成交/下单过　|　**所在清单**：群发(筛选后质量一般的_群发)、表:Italy　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-020
 rating: C
 rating_auto: B
+sieve: pass_final  # 闸 1 G1 2026-10-29
 rating_research: C  # 2026-10-21 商业登记显示 3MEDIALAB S.R.L. IN LIQUIDAZIONE（清算中），2025 年员工 0、2023 营收 €60.8
 name_official: "3MEDIALAB S.R.L.（IN LIQUIDAZIONE，Roma；P.IVA 14909621006）"
 score: 52
@@ -28,7 +31,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -169,8 +172,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 52）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 52）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

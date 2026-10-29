@@ -3,12 +3,15 @@
 
 > **评级 C**　|　利比亚　|　档案编号 `SC-032`　|　优先级 —　|　状态：WhatsApp 已加·未回复
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：利比亚（.ly + 218，ISAF 误记土耳其），WA 已加、最要商业 PoE；区域外但活着，若其土耳其有法人可重开
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：WhatsApp 已加　|　**所在清单**：ISAF2025展会、表:Simon　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-032
 rating: C
 rating_auto: B
+sieve: keep_C  # 闸 1 G1 2026-10-29
 rating_research: C  # 区域外：.ly 域名 + 电话 +218（利比亚），用户表国家「土耳其」为 ISAF 参展地误记；利比亚不在 Saga 区域（US/CA + 欧洲 + 土耳其）
 name_official: "Alamthal（alamthal.ly，利比亚；ISAF 参展记录为土耳其）"
 score: 48
@@ -28,7 +31,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 3
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -162,8 +165,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 48）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 48）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

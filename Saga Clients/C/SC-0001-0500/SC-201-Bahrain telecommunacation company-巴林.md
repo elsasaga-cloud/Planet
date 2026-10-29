@@ -3,12 +3,15 @@
 
 > **评级 C**　|　巴林　|　档案编号 `SC-201`　|　优先级 —　|　状态：有回复·跟进中
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：Batelco 巴林国家运营商，联系人 gmail，2023 回「let me check / 有用」后无互动 → 巨头运营商不 pass；留档
+>
 > **类型**：电信/ISP/网络运营（推断）　|　**历史关系**：实质回复 2 次；推送 8 次（2023-03-02 → 2023-09-11）　|　**所在清单**：群发(已重新审核/领英)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-201
 rating: C
 rating_auto: B
+sieve: keep_C  # 闸 1 G1 2026-10-29
 rating_research: C  # 规模过大 / 运营商招标采购，且仅 gmail 个人联系（2023 后无互动）
 name_official: "Bahrain Telecommunications Company (Batelco)（联系人 Fidel Zaide，gmail）"
 score: 27
@@ -27,7 +30,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -158,8 +161,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 27）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 27）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

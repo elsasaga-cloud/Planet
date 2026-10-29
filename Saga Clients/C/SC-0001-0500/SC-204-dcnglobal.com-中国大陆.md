@@ -3,12 +3,15 @@
 
 > **评级 C**　|　中国大陆　|　档案编号 `SC-204`　|　优先级 —　|　状态：成交过·维护
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：DCN 神州数码网络（中国厂商，欧洲分支 dcneurope.eu），历史与其印尼分支成一单工业 FS → 同行厂商不开发；成单户留档
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：成交/下单过　|　**所在清单**：群发(杂)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-204
 rating: C
 rating_auto: B
+sieve: keep_C  # 闸 1 G1 2026-10-29
 rating_research: C  # 同行厂商：DCN（神州数码网络）为中国大陆交换机制造商（自有商用/工业交换机产品线），其欧洲公司 dcneurope.eu 为厂商分支；用户表仅记「成单了印尼那
 name_official: "DCN — Digital China Networks（神州数码网络；dcnglobal.com / dcneurope.eu；中国网络设备厂商）"
 score: 27
@@ -28,7 +31,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -168,8 +171,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 27）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 27）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

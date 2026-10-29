@@ -3,12 +3,15 @@
 
 > **评级 C**　|　荷兰　|　档案编号 `SC-029`　|　优先级 —　|　状态：WhatsApp 已加·未回复
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：荷兰 Simac IDS（学生出勤云软件 + RFID 门禁，17 人，2026-03 售予 TimeEdit）；展会要 5 口工业小机 → 行业外但有采购迹象，未判死
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：WhatsApp 已加；推送 6 次（2025-03-19 → 2025-10-08）　|　**所在清单**：A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-029
 rating: C
 rating_auto: B
+sieve: keep_C  # 闸 1 G1 2026-10-29
 rating_research: C  # 行业外：学生出勤/参与度云软件与 RFID 门禁方案商（17 人），2026-03 整体售予瑞典教育软件公司 TimeEdit；母公司 Simac Techni
 name_official: "Simac IDS B.V.（Veldhoven, NL；simac-ids.com；Simac Techniek NV 子公司，2026-03 售予 TimeEdit）"
 score: 48
@@ -28,7 +31,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -189,8 +192,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 48）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 48）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

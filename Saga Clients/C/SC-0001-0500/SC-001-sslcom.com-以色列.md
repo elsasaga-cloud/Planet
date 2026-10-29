@@ -3,12 +3,15 @@
 
 > **评级 C**　|　以色列　|　档案编号 `SC-001`　|　优先级 —　|　状态：有回复·跟进中
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：以色列战术通信方案商（SILVUS / Microhard 代理，印军案例）→ 军用守界；历史仅买 240W 电源；活着、回过 3 次信，留档不推进
+>
 > **类型**：系统集成/工程商（无线·战术通信·安全城市）（推断）　|　**历史关系**：实质回复 3 次；推送 17 次（2023-12-15 → 2025-12-29）　|　**所在清单**：S重点　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-001
 rating: C
 rating_auto: A
+sieve: keep_C  # 闸 1 G1 2026-10-29
 rating_research: C  # 守界：SSL（sslcom.com）为以色列无线/战术通信方案商，代理 SILVUS、Microhard 等战术电台，案例含 Indian Army Commu
 name_official: "SSL（sslcom.com，Kfar Hasidim, Israel）"
 score: 83
@@ -28,7 +31,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -203,8 +206,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 83）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 83）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -3,12 +3,15 @@
 
 > **评级 C**　|　沙特阿拉伯　|　档案编号 `SC-002`　|　优先级 —　|　状态：有回复·跟进中
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：港资中资同行（自称有 PoE 交换机工厂，+86 手机），沙特只是网点；同行不开发但不判死
+>
 > **类型**：中资同行（制造+分销）（推断）　|　**历史关系**：实质回复 1 次；推送 19 次（2024-06-12 → 2025-10-24）　|　**所在清单**：A已回复、A优质名单(阿联酋 沙特阿拉伯)、AI评估(阿联酋 沙特阿拉伯)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-002
 rating: C
 rating_auto: A
+sieve: keep_C  # 闸 1 G1 2026-10-29
 rating_research: C  # 中资/港资同行（自称自有 PoE 交换机工厂），联系电话为 +86 大陆号，沙特只是其 MEA 网点；非目标客户（同行/中国大陆规则）。
 name_official: "Intelligent Technologies Traders Ltd.（intelligent.hk, HK/China/Dubai）"
 score: 83
@@ -28,7 +31,7 @@ price_tier: 20%
 research: done
 site_snapshot: none
 sources: 3
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -198,8 +201,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 83）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 83）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

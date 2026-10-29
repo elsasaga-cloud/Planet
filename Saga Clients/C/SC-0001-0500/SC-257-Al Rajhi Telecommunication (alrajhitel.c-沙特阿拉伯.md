@@ -2,12 +2,15 @@
 
 > **评级 C**　|　沙特阿拉伯　|　档案编号 `SC-257`　|　优先级 —　|　状态：名单内·未触达
 >
+> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：沙特利雅得系统集成 / 数据中心业务 Al Rajhi Telecom：2024-10-22 DC Division Manager 回群发索样 STI-154GP（Simon 答 $36 非免费）→ 具名 KP + 对位 + 样品意向；区域次优 → 闸 2 查底数
+>
 > **类型**：系统集成 / 数据中心（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：补录、S邮箱人工往来、沙特、区域外　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-257
 rating: C
 rating_auto: B
+sieve: candidate  # 闸 1 G1 2026-10-29
 rating_research: C  # 区域外（沙特）+ 2024 年后无回 → C；有具名 KP 留档
 name_official: "Al Rajhi Telecommunication (alrajhitel.com)"
 score: 38
@@ -26,7 +29,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -151,8 +154,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 38）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 38）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

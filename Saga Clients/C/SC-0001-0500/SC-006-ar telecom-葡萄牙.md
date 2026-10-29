@@ -3,12 +3,15 @@
 
 > **评级 C**　|　葡萄牙　|　档案编号 `SC-006`　|　优先级 —　|　状态：名单内·未触达
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：葡萄牙 B2B 运营商 Ar Telecom（Aire Networks 集团），RFQ 为 400G DWDM / 高速交换机 → 超出 Saga；DWDM 本职可参考　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+>
 > **类型**：电信运营商（终端用户）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：DC线索、询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-006
 rating: C
 rating_auto: A
+sieve: keep_C  # 闸 1 G1 2026-10-29
 rating_research: C  # 规格外 + 规模大：葡萄牙 B2B 电信运营商（51–200 人），2021 年起属西班牙 Aire Networks 集团；阿里 RFQ 为 400G DWD
 name_official: "Ar Telecom – Acessos e Redes de Telecomunicações, S.A.（Lisboa, PT；artelecom.pt；Aire Networks 集团）"
 score: 60
@@ -28,7 +31,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 3
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -176,8 +179,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 60）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 60）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

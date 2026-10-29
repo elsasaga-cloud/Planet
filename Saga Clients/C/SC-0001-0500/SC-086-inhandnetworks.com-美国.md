@@ -3,12 +3,15 @@
 
 > **评级 C**　|　美国　|　档案编号 `SC-086`　|　优先级 —　|　状态：已推送 20 次·未回复
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：InHand 映翰通美国站（中国大陆厂商办事处，自有工业交换机）→ 同行 / 大陆主体，不开发不判死
+>
 > **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：推送 20 次（2024-05-02 → 2025-10-28）　|　**所在清单**：A优质名单(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-086
 rating: C
 rating_auto: B
+sieve: keep_C  # 闸 1 G1 2026-10-29
 rating_research: C  # 中国大陆厂商（映翰通）美国办事处，非渠道客户（INH：厂商 / 办事处不是客户；大陆主体）
 name_official: "InHand Networks（映翰通，美国办事处）"
 score: 38
@@ -28,7 +31,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -201,8 +204,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 38）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 38）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
