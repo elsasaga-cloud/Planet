@@ -2,7 +2,7 @@
 
 > **评级 C**　|　越南　|　档案编号 `SC-1606`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：留 C 储备**（闸 2 · 2026-10-29）：越南 Mạng Viễn Thông（mangvienthong.com.vn）：1 查仅命中 .vn 另一主体（Công Nghệ Mới）= 未坐实 → 回 C 待下轮 1 查（官网页脚 MST）；不是 pass　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 越南 · 分销 20%：Viễn Thông Thành Công（mangvienthong.com.vn 官网直取：河内 Hoàng Mai Tây Nam Linh Đàm；光缆 / 3onedata MC / 光交换机 / 光模块 / VC / ODF 分销 + 熔接施工；inbox.thanhcong@gmail.com）部分坐实（MST 未取）；越南先例 ✔ 中国品牌 ✔ 对位 ✔ → P 池候选　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(VN/VN)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1606
 rating: C
 rating_auto: C
-sieve: keep_C  # 闸 2 G2 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 7
 country: 越南
 region: 亚太
@@ -50,17 +50,17 @@ updated: 2026-10-29
 
 **假日避让：** 下一步为「未排」，不排发信，略。
 
-**公司底数 · 第 135 批（VN · 1 次检索：「mangvienthong.com.vn」仅命中 mangvienthong.vn 另一主体；2026-10-29，2026-10-29 查；）：**
+**公司底数 · 第 136 批（VN · 官网首页直取（商号 / 地址 / 邮箱 / 产品线）；MST 未取；2026-10-29，2026-10-29 查；https://mangvienthong.com.vn/）：**
 
-- 法定名 / 登记号：Mạng Viễn Thông（mangvienthong.com.vn；联系 inbox.thanhcong@gmail.com；**1 次检索未中：仅命中 mangvienthong.vn = CÔNG TY TNHH THƯƠNG MẠI VÀ KỸ THUẬT CÔNG NGHỆ MỚI（河内 Hoàng Mai）—— 域名不同（.vn ≠ .com.vn），不能认定同一主体**） · 未取（未坐实） · 状态 **未知** · 成立 未取 · 未取
-- 行业码 / 经营范围：PoE / FS / MC / VC / 工业交换机贸易（越南）
-- 注册地址：未取
-- 规模档：未取
+- 法定名 / 登记号：Viễn Thông Thành Công（mangvienthong.com.vn；**官网直取：「Viễn Thông Thành Công – Giải Pháp Mạng Viễn Thông」；Lô số 04 - DV14 Khu Đô Thị Tây Nam Linh Đàm, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội；inbox.thanhcong@gmail.com；8h–17h30；光缆总仓 + 3onedata MC / 光交换机 / 光模块 / 视频光端机 / ODF / 网线 / 防火墙 / 机柜分销 + 光缆熔接施工（2026 年 ADSS 工程贴）**）；法人全名 / MST 未取 · 未取（MST 未查；商号 + 地址坐实） · 状态 **营业中（官网 2026）** · 成立 未取 · 未取（Công ty 待核）
+- 行业码 / 经营范围：光 / 网络 / 电信设备分销 + 施工（河内 Hoàng Mai）
+- 注册地址：Lô 04 - DV14 KĐT Tây Nam Linh Đàm, Hoàng Liệt, Hoàng Mai, Hà Nội
+- 规模档：小型
 - 账目：未取；—
 - 控制人 / 股东：未取
 - **这意味着什么：**
-  - **越南 · 待坐实：官网页脚取 MST 后一页纸— 越南常规：英文 / 越南语稿、20 / 25 / 30 + T/T 50/50（微型预付 100%）+ FOB 深圳 / DAP 河内·胡志明，买方清关；Zalo / 微信可用；周二 / 周四 10–12 ICT**
-- 备注：未坐实（1 查未中即停）→ 回 C 待下轮 1 查（官网页脚 MST）；中科德能 ✔ 对位 ✔。
+  - **越南 · 分销 20%：gmail 一页纸（STC-028GP $28 / STC-228GP $33 / STC-110XGE $65 / STI-280GE $46.6 + MOQ 1）；VC / 光模块本职线并行— 越南常规：英文 / 越南语稿、20 / 25 / 30 + T/T 50/50（微型预付 100%）+ FOB 深圳 / DAP 河内；Zalo / 微信可用；周二 / 周四 10–12 ICT**
+- 备注：分销 20%；P 池候选 ○（越南先例 ✔ 中国品牌 3onedata ✔ 对位 ✔ 邮箱 ✔）；部分坐实（MST 未取）。
 
 ## 基本事实（事实/推断/假设分层）
 

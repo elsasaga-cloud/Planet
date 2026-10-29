@@ -2614,33 +2614,33 @@
    "code": "SC-2208"
   },
   "SC-1177": {
-   "batch": 135,
-   "name": "Projexon（projexon.com；表内 CCTV 为主，WA 问 L2 / L3 交换机；R. Vignesh Director；**1 次检索未中：zaubacorp 两家同名 Projexon Engineering（中央邦 2017 / 德里 2021，董事 Pandey / Tripathi / Devi / Kumar）均非 Vignesh 的 CCTV 公司 = 同名壳**）",
+   "batch": 136,
+   "name": "Projexon（projexon.com；**官网直取：projexon.com = 国际商务咨询 / 企业培训公司（Corporate Strategic Consulting、Oil & Gas 培训、客户含 NNPC 尼日利亚）—— 与表内「印度 CCTV 公司、R. Vignesh Director、WA 问 L2 / L3 交换机」完全不符 = 域名错配**）；Vignesh 真实公司 / 域名待 WA 追问",
    "iso": "IN",
    "fetched": "2026-10-29",
-   "source": "IN · 1 次检索：zaubacorp「Projexon」仅同名工程公司，未指向 projexon.com；2026-10-29",
+   "source": "IN · 官网直取：projexon.com 为商务咨询公司，非该户；2026-10-29",
    "url": "",
-   "number": "未取（未坐实）",
+   "number": "未取（域名错配，法人未明）",
    "status": "未知",
    "incorporated": "未取",
    "company_type": "未取",
    "sic": [
-    "CCTV / 网络集成（印度）"
+    "CCTV / 网络集成（印度；公司待明）"
    ],
    "address": "未取",
    "accounts": "未取",
    "accounts_due": "—",
    "size_band": "未取",
    "officers": [
-    "R. Vignesh — Director（表内）"
+    "R. Vignesh — Director（表内 WA）"
    ],
    "psc": "未取",
    "charges": "",
    "prev_names": [],
    "lines": [
-    "**印度 · 待坐实：WA 问 Vignesh 法人全名 / GST / 城市后一页纸（STC-2224GP $86 / STC-4424GCPM $165）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（微型预付 100%）+ FOB 深圳 / CIF 孟买·金奈·德里，买方清关（BIS 由买方自理需如实说）；周二 / 周四 11–13 IST**"
+    "**印度 · 待坐实：WA 问 Vignesh 公司全名 / 网址 / GST 后再一页纸（STC-2224GP $86 / STC-4424GCPM $165）**"
    ],
-   "notes": "未坐实（1 查未中即停）→ 回 C 待下轮 1 查（官网页脚 GST）；印度先例 ✔ WA 可达 ✔ 决策人 ✔。",
+   "notes": "域名错配 → 回 C 待 WA 追问公司名；印度先例 ✔ 决策人 ✔ WA 可达 ✔。",
    "code": "SC-1177"
   }
  }

@@ -2793,60 +2793,32 @@
    "code": "SC-2972"
   },
   "SC-1613": {
-   "batch": 134,
-   "name": "ORIGO Networks（origo-networks.ru；Simon「自己的白色外壳，有人在卖他们的」「比较重要」= 自有品牌；**1 次检索未中：rusprofile 两家 ООО «Ориго»（ИНН 7743272134 金融服务 2018 / ИНН 7727565486 咨询 2006）均非网络设备主体 = 同名壳 ≠ 品牌法人**）",
+   "batch": 136,
+   "name": "ORIGO Networks（origo-networks.ru；**官网首页 2026-10-29 直取：自有品牌 ORIGO 全线 —— L3 交换机 OS5230P+/370W（24×2.5G PoE + 6×10G SFP+）、CCTV PoE 交换机（250 m 供电）、OS3228 / OS3254 L3 交换机 2025-09-11 取得通信设备合格证、Wi-Fi 6 Mesh 路由器 OWR3030AXM、10G 媒体转换器 OMCG03LC；新闻：2025-05-29 参展 COMPUTEX 2025、2025-09-09 与 Hadal Project 技术合作 = 在营且活跃**）；/contacts 404，ИНН 仍未取；Simon「自己的白色外壳 / 比较重要」",
    "iso": "RU",
    "fetched": "2026-10-29",
-   "source": "RU · 1 次检索：rusprofile「ООО Ориго」仅同名壳，未指向 origo-networks.ru；2026-10-29",
-   "url": "",
-   "number": "未取（未坐实）",
-   "status": "未知",
+   "source": "RU · 官网首页直取（产品线 / 新闻 2025）；ИНН 未取（联系页 404）；2026-10-29",
+   "url": "https://origo-networks.ru/",
+   "number": "未取（ИНН 未查；品牌站在营坐实）",
+   "status": "营业中（新闻 2025-09）",
    "incorporated": "未取",
-   "company_type": "未取",
+   "company_type": "未取（ООО 待核）",
    "sic": [
-    "网络设备自有品牌（俄罗斯）"
+    "网络设备自有品牌（交换机 / 路由 / MC），俄罗斯"
    ],
-   "address": "未取",
+   "address": "未取（官网未列）",
    "accounts": "未取",
    "accounts_due": "—",
-   "size_band": "未取",
+   "size_band": "中型（全线产品 + 参展 COMPUTEX）",
    "officers": [],
    "psc": "未取",
    "charges": "",
    "prev_names": [],
    "lines": [
-    "**俄罗斯 · 自有品牌 OEM 30% 待坐实：官网「Реквизиты / О компании」取 ИНН 后再一页纸（STC-028GP $28 / STC-2224GP $86 中性包装 + 贴牌）— 俄语区常规：英 / 俄稿、20 / 25 / 30；收款 / 物流路径待 Simon（RU / KZ 「收款待定」）；FOB 深圳**"
+    "**俄罗斯 · 自有品牌商 OEM 30%（长线）：官网产品页找 sales@ / 采购后一页纸（STC-028GP $28 / STC-2224GP $86 / STC-424XGGPM-280W $198 中性包装 + 贴 ORIGO 牌；他们已有 2.5G L3 线 → 推 SmartByte / Marvell 管理线差异）— 俄语区常规：英 / 俄稿、20 / 25 / 30；收款 / 物流路径待 Simon；FOB 深圳**"
    ],
-   "notes": "未坐实（1 查未中即停）→ 回 C 待下轮 1 查（官网页脚 ИНН）；oem_target ✔ Simon「比较重要」✔；收款待定。",
+   "notes": "OEM 30%；P 池候选 ★ 长线（自有品牌 ✔ 活跃 ✔ 对位 ✔ Simon「比较重要」✔）；部分坐实（ИНН 未取）；收款待定。",
    "code": "SC-1613"
-  },
-  "SC-2957": {
-   "batch": 134,
-   "name": "ConexPro（conexpro.com；Simon 二筛「基本是全线帧田的」= 自有品牌、全线中国 OEM；**1 次检索未中：rusprofile 返回 ООО «Коннект-Про»（ИНН 9702037865，2021，1 人，执行董事 Смольянинова К.М.）= 同名壳 ≠ 品牌法人**；无邮箱",
-   "iso": "RU",
-   "fetched": "2026-10-29",
-   "source": "RU · 1 次检索：rusprofile「Конекспро」仅同名壳 Коннект-Про，未指向 conexpro.com；2026-10-29",
-   "url": "",
-   "number": "未取（未坐实）",
-   "status": "未知",
-   "incorporated": "未取",
-   "company_type": "未取",
-   "sic": [
-    "网络 / 安防设备自有品牌（俄罗斯）"
-   ],
-   "address": "未取",
-   "accounts": "未取",
-   "accounts_due": "—",
-   "size_band": "未取",
-   "officers": [],
-   "psc": "未取",
-   "charges": "",
-   "prev_names": [],
-   "lines": [
-    "**俄罗斯 · 自有品牌 OEM 30% 待坐实：官网「Контакты / Реквизиты」取 ИНН + 采购邮箱后再一页纸（帧田现供 → 推 SmartByte / Marvell 管理线差异）— 俄语区常规：英 / 俄稿、20 / 25 / 30；收款 / 物流路径待 Simon（RU / KZ 「收款待定」）；FOB 深圳**"
-   ],
-   "notes": "未坐实（1 查未中即停）→ 回 C 待下轮 1 查；oem_target ✔（Simon 原「判定不行」→ 可按编号否决）；无邮箱；收款待定。",
-   "code": "SC-2957"
   }
  }
 }

@@ -2,7 +2,7 @@
 
 > **评级 C**　|　越南　|　档案编号 `SC-1638`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：留 C 储备**（闸 2 · 2026-10-29）：越南 Thuận An（thuananvn.com.vn；optone）：通名 1 查仅同名壳 = 未坐实 → 回 C 待下轮 1 查（官网页脚 MST）；不是 pass
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 越南 · 工业自动化渠道 25%：THUANAN – Automation Components Company（thuananvn.com.vn 官网直取：M-System / Azbil / ASCO / Honeywell 工业元件分销；thuanan.sales1@gmail.com；0989 174 796）部分坐实（MST 未取，通名）；越南先例 ✔ 工业渠道对位 ✔ optone 在用 ✔ → P 池候选
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(VN/VN)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1638
 rating: C
 rating_auto: C
-sieve: keep_C  # 闸 2 G2 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 7
 country: 越南
 region: 亚太
@@ -52,17 +52,17 @@ updated: 2026-10-29
 
 **假日避让：** 下一步为「未排」，不排发信，略。
 
-**公司底数 · 第 135 批（VN · 1 次检索：masothue / dailychukyso「Thuận An」仅同名壳；2026-10-29，2026-10-29 查；）：**
+**公司底数 · 第 136 批（VN · 官网首页直取（商号 / 代理品牌 / 邮箱 / 电话）；MST 未取；2026-10-29，2026-10-29 查；https://thuananvn.com.vn/home/）：**
 
-- 法定名 / 登记号：Thuận An（thuananvn.com.vn；thuanan.sales1@gmail.com；工业交换机 optone ✔；**1 次检索未中：「Công ty TNHH Thuận An」为通名，命中河内 2002（已停）/ 岘港 / 河南省三家均无法与域名对应**） · 未取（未坐实） · 状态 **未知** · 成立 未取 · 未取
-- 行业码 / 经营范围：工业交换机贸易（越南）
-- 注册地址：未取
-- 规模档：未取
+- 法定名 / 登记号：THUANAN – Automation Components Company（thuananvn.com.vn；**官网直取：工业自动化元件分销 —— M-System（R3 远程 I/O / 信号隔离）、Azbil Yamatake（记录仪 / 流量 / 差压变送器）、ASCO Numatic 电磁阀、Honeywell 燃烧控制；thuanan.sales1@gmail.com；0989 174 796**）；法人全名 / MST 未取（通名「Thuận An」无法经 masothue 指认）；表内：工业交换机 optone ✔ · 未取（MST 未查；商号 + 品牌线坐实） · 状态 **营业中（官网）** · 成立 未取 · 未取（Công ty 待核）
+- 行业码 / 经营范围：工业自动化元件分销（越南）
+- 注册地址：未取（官网首页未列）
+- 规模档：小型
 - 账目：未取；—
 - 控制人 / 股东：未取
 - **这意味着什么：**
-  - **越南 · 待坐实：官网页脚取 MST 后一页纸（STI-280GE / STI-288GPM 对标 optone）— 越南常规：英文 / 越南语稿、20 / 25 / 30 + T/T 50/50（微型预付 100%）+ FOB 深圳 / DAP 河内·胡志明，买方清关；Zalo / 微信可用；周二 / 周四 10–12 ICT**
-- 备注：未坐实（1 查未中即停）→ 回 C 待下轮 1 查（官网页脚 MST）；optone ✔ 工业对位 ✔。
+  - **越南 · 工业自动化渠道 25%：gmail 一页纸对标 optone（STI-280GE $46.6 / STI-288GPM $78.9 / STI-054GP + MOQ 1 + 付费样机）— 越南常规：英文 / 越南语稿、20 / 25 / 30 + T/T 50/50（微型预付 100%）+ FOB 深圳 / DAP 河内；Zalo / 微信可用；周二 / 周四 10–12 ICT**
+- 备注：渠道 25%；P 池候选 ○（越南先例 ✔ 工业自动化渠道对位 ✔ 中国工业品牌在用 ✔ 邮箱 ✔）；部分坐实（MST 未取）。
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -3,9 +3,9 @@
   "updated": "2026-10-29",
   "rules": "docs/C池三闸筛选_方案_2026-10-29.md §2",
   "counts": {
-   "keep_C": 3001,
+   "keep_C": 2996,
    "pass_final": 219,
-   "pool_candidate": 199
+   "pool_candidate": 204
   },
   "n": 3419
  },
@@ -3111,10 +3111,10 @@
   "verdict": "keep_C",
   "gate": 2,
   "rule": "G2",
-  "reason": "印度 Projexon（R. Vignesh Director，WA）：1 查仅同名工程公司壳 = 未坐实 → 回 C 待下轮 1 查（WA 问法人全名 / GST）；不是 pass",
+  "reason": "印度 Projexon：projexon.com 官网直取 = 国际商务咨询 / 企业培训公司（Oil & Gas 培训，客户 NNPC）≠ 表内 CCTV 公司 → 域名错配；Vignesh 真实公司待 WA 追问 → 回 C（印度先例 ✔ 决策人 ✔ WA 可达 ✔）；不是 pass",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G2-135",
+  "batch": "G2-136",
   "g1_batch": "G1-36",
   "g1_reason": "印度 Projexon（projexon.com 域正常；主要 CCTV，WhatsApp 问了 L2 / L3 交换机 ✔；R. Vignesh Director 具名 ✔；两手机）：印度点名国 ✔ 对位 ✔ 决策人 ✔ WA 可达 ✔（§5 ≥4 条）→ 闸 2 查底数（MCA 镜像）后 WA 一页纸（STC-2224GP $86 / STC-4424GCPM $165）"
  },
@@ -7883,13 +7883,13 @@
   "g1_reason": "越南 Mạng Công Nghiệp（mangcongnghiep.vn no_mx；联系 tantien2tech@gmail.com；工业交换机，三旺的 ✔）：点名中国工业品牌 ✔ 越南先例 ✔ 工业对位 ✔ gmail 可达 ✔ → 闸 2 查底数（MST）后一页纸（STI-280GE $46.6 / STI-288GPM $78.9）"
  },
  "SC-1606": {
-  "verdict": "keep_C",
+  "verdict": "pool_candidate",
   "gate": 2,
   "rule": "G2",
-  "reason": "越南 Mạng Viễn Thông（mangvienthong.com.vn）：1 查仅命中 .vn 另一主体（Công Nghệ Mới）= 未坐实 → 回 C 待下轮 1 查（官网页脚 MST）；不是 pass",
+  "reason": "○ 越南 · 分销 20%：Viễn Thông Thành Công（mangvienthong.com.vn 官网直取：河内 Hoàng Mai Tây Nam Linh Đàm；光缆 / 3onedata MC / 光交换机 / 光模块 / VC / ODF 分销 + 熔接施工；inbox.thanhcong@gmail.com）部分坐实（MST 未取）；越南先例 ✔ 中国品牌 ✔ 对位 ✔ → P 池候选",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G2-135",
+  "batch": "G2-136",
   "g1_batch": "G1-37",
   "g1_reason": "越南 Mạng Viễn Thông（mangvienthong.com.vn 正常；联系 inbox.thanhcong@gmail.com；PoE / FS / MC / VC + 工业交换机，有中科德能的 ✔）：点名中国品牌 ✔ 越南先例 ✔ 对位 ✔ 可达 ✔ → 闸 2 查底数（MST）后一页纸",
   "tags": [
@@ -7981,13 +7981,13 @@
   ]
  },
  "SC-1613": {
-  "verdict": "keep_C",
+  "verdict": "pool_candidate",
   "gate": 2,
   "rule": "G2",
-  "reason": "俄罗斯 ORIGO Networks（自有品牌，Simon「比较重要」）：1 查未中（rusprofile 两家 ООО «Ориго» 均非网络设备 = 同名壳）= 未坐实 → 回 C 待下轮 1 查（官网 Реквизиты 取 ИНН）；oem_target 保留；不是 pass",
+  "reason": "★ 俄罗斯 · 自有品牌商 OEM 30%（长线）：ORIGO Networks（origo-networks.ru 官网直取：L3 24×2.5G PoE / CCTV PoE 交换机 / Wi-Fi 6 / 10G MC 全线自有品牌；2025-05 参展 COMPUTEX、2025-09 L3 取证）部分坐实（ИНН 未取，联系页 404）；Simon「自己的白色外壳 / 比较重要」✔ 对位 ✔ → P 池候选（官网找 sales@；收款待定）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G2-134",
+  "batch": "G2-136",
   "g1_batch": "G1-38",
   "g1_reason": "俄罗斯 ORIGO Networks（origo-networks.ru 正常；Simon：「自己的白色外壳，有人在卖他们的」「比较重要」；无邮箱 / 无电话）：自有品牌交换机商 = OEM 对象 ✔ 俄罗斯点名区 ✔ 对位 ✔ Simon 标重要 ✔ → 闸 2 查底数（rusprofile / checko）+ 官网找 sales 路径；无路径则回 C 待巡检；收款 / 物流待 Simon",
   "tags": [
@@ -8264,13 +8264,13 @@
   ]
  },
  "SC-1638": {
-  "verdict": "keep_C",
+  "verdict": "pool_candidate",
   "gate": 2,
   "rule": "G2",
-  "reason": "越南 Thuận An（thuananvn.com.vn；optone）：通名 1 查仅同名壳 = 未坐实 → 回 C 待下轮 1 查（官网页脚 MST）；不是 pass",
+  "reason": "○ 越南 · 工业自动化渠道 25%：THUANAN – Automation Components Company（thuananvn.com.vn 官网直取：M-System / Azbil / ASCO / Honeywell 工业元件分销；thuanan.sales1@gmail.com；0989 174 796）部分坐实（MST 未取，通名）；越南先例 ✔ 工业渠道对位 ✔ optone 在用 ✔ → P 池候选",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G2-135",
+  "batch": "G2-136",
   "g1_batch": "G1-38",
   "g1_reason": "越南 Thuận An（thuananvn.com.vn no_mx；thuanan.sales1@gmail.com；工业交换机，optone 的 ✔）：点名中国工业品牌 ✔ 越南先例 ✔ 工业对位 ✔ gmail 可达 ✔ → 闸 2 查底数（MST）后一页纸（STI-280GE / STI-288GPM）"
  },
@@ -12233,13 +12233,13 @@
   ]
  },
  "SC-1983": {
-  "verdict": "keep_C",
+  "verdict": "pool_candidate",
   "gate": 2,
   "rule": "G2",
-  "reason": "越南 Việt Long Telecom（vietlongtelecom.com；G-net / hasivo）：通名 1 查仅同名壳 = 未坐实 → 回 C 待下轮 1 查（官网页脚 MST）；不是 pass",
+  "reason": "○ 越南 · 分销 20%：Việt Long（vietlongtelecom.com 官网直取：G-NET 河内分销 + 保修代理；G-IES / G-IMS 工业交换机、GX-PES PoE、MC；电话 ×3）部分坐实（MST 未取，通名）；越南先例 ✔ 中国 OEM 品牌代理 ✔ 对位 ✔；8 推 0 回 → 换稿仅一次 → P 池候选",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G2-135",
+  "batch": "G2-136",
   "g1_batch": "G1-39",
   "g1_reason": "越南 Việt Long Telecom（vietlongtelecom.com 正常；gmail；商业 PoE 用 G-net 的 = hasivo ✔；8 推 0 回）：点名中国品牌 ✔ 越南先例 ✔ 对位 ✔ 可达 ✔ → 闸 2 查底数（MST）后换稿一页纸"
  },
@@ -23285,13 +23285,13 @@
   ]
  },
  "SC-2957": {
-  "verdict": "keep_C",
+  "verdict": "pool_candidate",
   "gate": 2,
   "rule": "G2",
-  "reason": "俄罗斯 ConexPro（全线帧田 OEM 自有品牌）：1 查未中（rusprofile 仅 ООО «Коннект-Про» 同名壳）= 未坐实 → 回 C 待下轮 1 查（官网 Контакты / Реквизиты）；oem_target 保留；无邮箱；不是 pass",
+  "reason": "★ 捷克（欧洲）· 自有品牌商 OEM 30%（长线）：Conexpro（conexpro.com About / Contact 直取：ISP / 安装商全线网络配件品牌，PoE 交换机 / SFP / 注入器 / 机柜 / 电池；Hřbitovní 1479/25, 312 00 Plzeň；info@conexpro.com；多国分销）部分坐实（IČO 未取，法人疑 i4wifi a.s.）；表内「俄罗斯」→ 实为捷克 = 国别纠偏待 Simon；Simon 二筛「全线帧田」= 已用中国 OEM ✔ 欧洲 ✔ 邮箱 ✔ → P 池候选（Simon 原「判定不行」可否决）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G2-134",
+  "batch": "G2-136",
   "g1_batch": "G1-46",
   "g1_reason": "俄罗斯 ConexPro（conexpro.com 正常；Simon 二筛备注「基本是全线帧田的」✔ = 自有品牌、全线自中国 OEM；无邮箱）：俄罗斯点名区 ✔ 自有品牌 OEM 对象 ✔ 对位 ✔ 公司可坐实 ✔ → 闸 2 查底数（rusprofile / checko）+ 官网找采购路径；收款 / 物流待 Simon；Simon 原判「不行」→ 可按编号否决",
   "tags": [
@@ -30446,10 +30446,10 @@
   "verdict": "keep_C",
   "gate": 2,
   "rule": "G2",
-  "reason": "哈萨克斯坦 IT Group（itgroup.kz；2022 RFQ 找 ONV 管理交换机，有回）：1 查出两家同名（IT GROUP KAZAKHSTAN 乌拉尔斯克 软件 / KAZ-IT GROUP 奇姆肯特 监控电信）主体未唯一 = 部分坐实 → 回 C 待下轮 1 查（官网页脚 БИН）；不是 pass",
+  "reason": "哈萨克斯坦 IT Group Kazakhstan（itgroup.kz 官网直取 = 软件开发 / 外包公司，乌拉尔斯克，30+ 人；与 niac.kz БИН 151040005191 同名同址 ✔）坐实但非渠道（2022 RFQ = 项目性采购）→ 回 C 储备，来询被动报价；不是 pass",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G2-134",
+  "batch": "G2-136",
   "g1_batch": "G1-36",
   "g1_reason": "哈萨克斯坦 IT Group（itgroup.kz 域正常；2022 年 RFQ「找 ONV 的商业管理交换机」= 中国同类 ✔；备注「有回复，正在沟通」= 真回 ✔；Zhangozha Zamadion；gmail）：哈萨克先例 ✔ 对位 ✔ → 闸 2 查底数（statsnet / adata）；收款路径待 Simon"
  },

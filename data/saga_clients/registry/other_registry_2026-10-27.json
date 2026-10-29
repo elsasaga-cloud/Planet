@@ -17250,33 +17250,33 @@
    "code": "SC-1976"
   },
   "SC-574": {
-   "batch": 134,
-   "name": "IT Group（itgroup.kz；**1 次检索出两家同名：ТОО «IT GROUP KAZAKHSTAN» БИН 151040005191（2015-10-07；乌拉尔斯克 ул. Гумара Караша 33/2 оф. 8；负责人 Дудниченков М.М.；ОКЭД 62.01.1 软件；≤5 人）/ ТОО «KAZ - IT GROUP» БИН 210640025476（2021-06-17；奇姆肯特 ул. Еримбетова 304Г；视频监控 / 电信 / PON / GPON 供应商）—— 哪一家 = itgroup.kz 待官网页脚确认**）；表内：2022 年 RFQ「找 ONV 的商业管理交换机」，有回",
+   "batch": 136,
+   "name": "ТОО «IT GROUP KAZAKHSTAN»（itgroup.kz；**官网直取：软件开发 / 网站 / CRM / ERP / AI / 外包公司，22 年、30+ 员工、5000+ 项目、CMS Magazine 哈萨克 Top 10 网站工作室；090000 РК, ЗКО, г. Уральск, ул. Гумара Караша 33/2；+7 (727) 364-53-77 = niac.kz БИН 151040005191 同址同名 ✔**）；表内 2022 RFQ「找 ONV 的商业管理交换机」有回 = 项目性采购",
    "iso": "KZ",
    "fetched": "2026-10-29",
-   "source": "KZ · 1 次检索：niac.kz（两家同名 БИН / 地址 / 负责人 / ОКЭД）+ mp.kz（KAZ-IT Group 业务）；主体未唯一 → 部分坐实；2026-10-29",
-   "url": "https://niac.kz/151040005191",
-   "number": "151040005191 或 210640025476（待指认）",
-   "status": "均在营（niac.kz）",
-   "incorporated": "2015-10-07 / 2021-06-17",
+   "source": "KZ · 官网首页直取（业务 / 地址 / 电话）与 niac.kz БИН 151040005191 对上；2026-10-29",
+   "url": "https://itgroup.kz/",
+   "number": "151040005191（БИН）",
+   "status": "在营（官网 2026）",
+   "incorporated": "2015-10-07",
    "company_type": "ТОО",
    "sic": [
-    "IT / 视频监控 / 电信设备供应（哈萨克斯坦）"
+    "软件开发 / 网站 / 外包（乌拉尔斯克）—— 非网络设备渠道"
    ],
-   "address": "乌拉尔斯克 ул. Гумара Караша 33/2 оф. 8 / 奇姆肯特 ул. Еримбетова 304Г",
+   "address": "090000 Уральск, ул. Гумара Караша 33/2",
    "accounts": "未取",
    "accounts_due": "—",
-   "size_band": "小型（≤5 人 / 小企业）",
+   "size_band": "小型（30+ 人）",
    "officers": [
-    "Дудниченков Михаил Михайлович — IT GROUP KAZAKHSTAN 负责人（待指认）"
+    "Дудниченков Михаил Михайлович — 负责人（niac.kz）"
    ],
    "psc": "未取",
    "charges": "",
    "prev_names": [],
    "lines": [
-    "**哈萨克斯坦（点名区外，先例 ✔）· 分销 20%：回邮引用 2022 RFQ 问法人名 + 收货城市，坐实后一页纸（STC-2224GP $86 / STC-4424GCPM $165 vs ONV）— 俄语区常规：英 / 俄稿、20 / 25 / 30；收款 / 物流路径待 Simon（RU / KZ 「收款待定」）；FOB 深圳**"
+    "**哈萨克斯坦 · 软件公司项目性采购：不主动；来询被动报价（STC-2224GP $86 / STC-4424GCPM $165）— 俄语区常规：英 / 俄稿、20 / 25 / 30；收款 / 物流路径待 Simon；FOB 深圳**"
    ],
-   "notes": "分销 20%；部分坐实（两家同名待指认）→ 回 C 待下轮 1 查（itgroup.kz 页脚 БИН）；有回 ✔ 对位 ✔；收款待定。",
+   "notes": "坐实（БИН 对上）但非渠道（软件公司）→ 回 C 储备，不入池；收款待定。",
    "code": "SC-574"
   },
   "SC-1602": {
@@ -17460,87 +17460,87 @@
    "code": "SC-1979"
   },
   "SC-1606": {
-   "batch": 135,
-   "name": "Mạng Viễn Thông（mangvienthong.com.vn；联系 inbox.thanhcong@gmail.com；**1 次检索未中：仅命中 mangvienthong.vn = CÔNG TY TNHH THƯƠNG MẠI VÀ KỸ THUẬT CÔNG NGHỆ MỚI（河内 Hoàng Mai）—— 域名不同（.vn ≠ .com.vn），不能认定同一主体**）",
+   "batch": 136,
+   "name": "Viễn Thông Thành Công（mangvienthong.com.vn；**官网直取：「Viễn Thông Thành Công – Giải Pháp Mạng Viễn Thông」；Lô số 04 - DV14 Khu Đô Thị Tây Nam Linh Đàm, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội；inbox.thanhcong@gmail.com；8h–17h30；光缆总仓 + 3onedata MC / 光交换机 / 光模块 / 视频光端机 / ODF / 网线 / 防火墙 / 机柜分销 + 光缆熔接施工（2026 年 ADSS 工程贴）**）；法人全名 / MST 未取",
    "iso": "VN",
    "fetched": "2026-10-29",
-   "source": "VN · 1 次检索：「mangvienthong.com.vn」仅命中 mangvienthong.vn 另一主体；2026-10-29",
-   "url": "",
-   "number": "未取（未坐实）",
-   "status": "未知",
+   "source": "VN · 官网首页直取（商号 / 地址 / 邮箱 / 产品线）；MST 未取；2026-10-29",
+   "url": "https://mangvienthong.com.vn/",
+   "number": "未取（MST 未查；商号 + 地址坐实）",
+   "status": "营业中（官网 2026）",
    "incorporated": "未取",
-   "company_type": "未取",
+   "company_type": "未取（Công ty 待核）",
    "sic": [
-    "PoE / FS / MC / VC / 工业交换机贸易（越南）"
+    "光 / 网络 / 电信设备分销 + 施工（河内 Hoàng Mai）"
    ],
-   "address": "未取",
+   "address": "Lô 04 - DV14 KĐT Tây Nam Linh Đàm, Hoàng Liệt, Hoàng Mai, Hà Nội",
    "accounts": "未取",
    "accounts_due": "—",
-   "size_band": "未取",
+   "size_band": "小型",
    "officers": [],
    "psc": "未取",
    "charges": "",
    "prev_names": [],
    "lines": [
-    "**越南 · 待坐实：官网页脚取 MST 后一页纸— 越南常规：英文 / 越南语稿、20 / 25 / 30 + T/T 50/50（微型预付 100%）+ FOB 深圳 / DAP 河内·胡志明，买方清关；Zalo / 微信可用；周二 / 周四 10–12 ICT**"
+    "**越南 · 分销 20%：gmail 一页纸（STC-028GP $28 / STC-228GP $33 / STC-110XGE $65 / STI-280GE $46.6 + MOQ 1）；VC / 光模块本职线并行— 越南常规：英文 / 越南语稿、20 / 25 / 30 + T/T 50/50（微型预付 100%）+ FOB 深圳 / DAP 河内；Zalo / 微信可用；周二 / 周四 10–12 ICT**"
    ],
-   "notes": "未坐实（1 查未中即停）→ 回 C 待下轮 1 查（官网页脚 MST）；中科德能 ✔ 对位 ✔。",
+   "notes": "分销 20%；P 池候选 ○（越南先例 ✔ 中国品牌 3onedata ✔ 对位 ✔ 邮箱 ✔）；部分坐实（MST 未取）。",
    "code": "SC-1606"
   },
   "SC-1638": {
-   "batch": 135,
-   "name": "Thuận An（thuananvn.com.vn；thuanan.sales1@gmail.com；工业交换机 optone ✔；**1 次检索未中：「Công ty TNHH Thuận An」为通名，命中河内 2002（已停）/ 岘港 / 河南省三家均无法与域名对应**）",
+   "batch": 136,
+   "name": "THUANAN – Automation Components Company（thuananvn.com.vn；**官网直取：工业自动化元件分销 —— M-System（R3 远程 I/O / 信号隔离）、Azbil Yamatake（记录仪 / 流量 / 差压变送器）、ASCO Numatic 电磁阀、Honeywell 燃烧控制；thuanan.sales1@gmail.com；0989 174 796**）；法人全名 / MST 未取（通名「Thuận An」无法经 masothue 指认）；表内：工业交换机 optone ✔",
    "iso": "VN",
    "fetched": "2026-10-29",
-   "source": "VN · 1 次检索：masothue / dailychukyso「Thuận An」仅同名壳；2026-10-29",
-   "url": "",
-   "number": "未取（未坐实）",
-   "status": "未知",
+   "source": "VN · 官网首页直取（商号 / 代理品牌 / 邮箱 / 电话）；MST 未取；2026-10-29",
+   "url": "https://thuananvn.com.vn/home/",
+   "number": "未取（MST 未查；商号 + 品牌线坐实）",
+   "status": "营业中（官网）",
    "incorporated": "未取",
-   "company_type": "未取",
+   "company_type": "未取（Công ty 待核）",
    "sic": [
-    "工业交换机贸易（越南）"
+    "工业自动化元件分销（越南）"
    ],
-   "address": "未取",
+   "address": "未取（官网首页未列）",
    "accounts": "未取",
    "accounts_due": "—",
-   "size_band": "未取",
+   "size_band": "小型",
    "officers": [],
    "psc": "未取",
    "charges": "",
    "prev_names": [],
    "lines": [
-    "**越南 · 待坐实：官网页脚取 MST 后一页纸（STI-280GE / STI-288GPM 对标 optone）— 越南常规：英文 / 越南语稿、20 / 25 / 30 + T/T 50/50（微型预付 100%）+ FOB 深圳 / DAP 河内·胡志明，买方清关；Zalo / 微信可用；周二 / 周四 10–12 ICT**"
+    "**越南 · 工业自动化渠道 25%：gmail 一页纸对标 optone（STI-280GE $46.6 / STI-288GPM $78.9 / STI-054GP + MOQ 1 + 付费样机）— 越南常规：英文 / 越南语稿、20 / 25 / 30 + T/T 50/50（微型预付 100%）+ FOB 深圳 / DAP 河内；Zalo / 微信可用；周二 / 周四 10–12 ICT**"
    ],
-   "notes": "未坐实（1 查未中即停）→ 回 C 待下轮 1 查（官网页脚 MST）；optone ✔ 工业对位 ✔。",
+   "notes": "渠道 25%；P 池候选 ○（越南先例 ✔ 工业自动化渠道对位 ✔ 中国工业品牌在用 ✔ 邮箱 ✔）；部分坐实（MST 未取）。",
    "code": "SC-1638"
   },
   "SC-1983": {
-   "batch": 135,
-   "name": "Việt Long Telecom（vietlongtelecom.com；gmail；商业 PoE 用 G-net / hasivo ✔；**1 次检索未中：「Công ty TNHH Việt Long」通名，命中同奈 2001 / 清化 / 河内 1998 等均非电信设备商**）",
+   "batch": 136,
+   "name": "Việt Long（vietlongtelecom.com；**官网直取：G-NET 河内分销 + 保修代理（「Đại lý PP & Bảo hành G-NET tại Hà Nội」，合作 Cty Hợp Nhất thietbiquang.net）；024 3551 1222 / 0966 100 110 / 0936 559 898；产品 G-NET 工业交换机 G-IES / G-IMS、PoE 交换机 GX-PES、MC G-UMC / HHD、Hikvision 摄像机**）；法人全名 / MST 未取（通名）",
    "iso": "VN",
    "fetched": "2026-10-29",
-   "source": "VN · 1 次检索：thuvienphapluat / dulieuphapluat「Việt Long」仅同名壳；2026-10-29",
-   "url": "",
-   "number": "未取（未坐实）",
-   "status": "未知",
+   "source": "VN · 官网首页直取（商号 / G-NET 代理 / 电话 / 产品线）；MST 未取；2026-10-29",
+   "url": "https://vietlongtelecom.com/",
+   "number": "未取（MST 未查；商号 + 代理身份坐实）",
+   "status": "营业中（官网 2024–）",
    "incorporated": "未取",
-   "company_type": "未取",
+   "company_type": "未取（Công ty 待核）",
    "sic": [
-    "商业 PoE 交换机贸易（越南）"
+    "网络 / 光设备分销（河内；G-NET 代理）"
    ],
-   "address": "未取",
+   "address": "未取（官网「Liên hệ」待取）",
    "accounts": "未取",
    "accounts_due": "—",
-   "size_band": "未取",
+   "size_band": "小型",
    "officers": [],
    "psc": "未取",
    "charges": "",
    "prev_names": [],
    "lines": [
-    "**越南 · 待坐实：官网页脚取 MST 后换稿一页纸— 越南常规：英文 / 越南语稿、20 / 25 / 30 + T/T 50/50（微型预付 100%）+ FOB 深圳 / DAP 河内·胡志明，买方清关；Zalo / 微信可用；周二 / 周四 10–12 ICT**"
+    "**越南 · 分销 20%：gmail 换稿一页纸一次（零回应 → 仅一次；STC-028GP $28 / STI-280GE $46.6 对标 G-NET）— 越南常规：英文 / 越南语稿、20 / 25 / 30 + T/T 50/50（微型预付 100%）+ FOB 深圳 / DAP 河内；Zalo / 微信可用；周二 / 周四 10–12 ICT**"
    ],
-   "notes": "未坐实（1 查未中即停）→ 回 C 待下轮 1 查（官网页脚 MST）；8 推 0 回。",
+   "notes": "分销 20%；P 池候选 ○（越南先例 ✔ 中国 OEM 品牌 G-NET 代理 ✔ 对位 ✔）；部分坐实（MST 未取）；8 推 0 回。",
    "code": "SC-1983"
   },
   "SC-2504": {

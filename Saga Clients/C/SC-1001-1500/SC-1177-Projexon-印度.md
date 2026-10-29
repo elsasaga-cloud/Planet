@@ -2,7 +2,7 @@
 
 > **评级 C**　|　印度　|　档案编号 `SC-1177`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：留 C 储备**（闸 2 · 2026-10-29）：印度 Projexon（R. Vignesh Director，WA）：1 查仅同名工程公司壳 = 未坐实 → 回 C 待下轮 1 查（WA 问法人全名 / GST）；不是 pass
+> **C 池筛选：留 C 储备**（闸 2 · 2026-10-29）：印度 Projexon：projexon.com 官网直取 = 国际商务咨询 / 企业培训公司（Oil & Gas 培训，客户 NNPC）≠ 表内 CCTV 公司 → 域名错配；Vignesh 真实公司待 WA 追问 → 回 C（印度先例 ✔ 决策人 ✔ WA 可达 ✔）；不是 pass
 >
 > **类型**：安防集成/经销（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：DWDM线索　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -50,18 +50,18 @@ updated: 2026-10-29
 
 **假日避让：** 下一步为「未排」，不排发信，略。
 
-**公司底数 · 第 135 批（IN · 1 次检索：zaubacorp「Projexon」仅同名工程公司，未指向 projexon.com；2026-10-29，2026-10-29 查；）：**
+**公司底数 · 第 136 批（IN · 官网直取：projexon.com 为商务咨询公司，非该户；2026-10-29，2026-10-29 查；）：**
 
-- 法定名 / 登记号：Projexon（projexon.com；表内 CCTV 为主，WA 问 L2 / L3 交换机；R. Vignesh Director；**1 次检索未中：zaubacorp 两家同名 Projexon Engineering（中央邦 2017 / 德里 2021，董事 Pandey / Tripathi / Devi / Kumar）均非 Vignesh 的 CCTV 公司 = 同名壳**） · 未取（未坐实） · 状态 **未知** · 成立 未取 · 未取
-- 行业码 / 经营范围：CCTV / 网络集成（印度）
+- 法定名 / 登记号：Projexon（projexon.com；**官网直取：projexon.com = 国际商务咨询 / 企业培训公司（Corporate Strategic Consulting、Oil & Gas 培训、客户含 NNPC 尼日利亚）—— 与表内「印度 CCTV 公司、R. Vignesh Director、WA 问 L2 / L3 交换机」完全不符 = 域名错配**）；Vignesh 真实公司 / 域名待 WA 追问 · 未取（域名错配，法人未明） · 状态 **未知** · 成立 未取 · 未取
+- 行业码 / 经营范围：CCTV / 网络集成（印度；公司待明）
 - 注册地址：未取
 - 规模档：未取
 - 账目：未取；—
-- 高管：R. Vignesh — Director（表内）
+- 高管：R. Vignesh — Director（表内 WA）
 - 控制人 / 股东：未取
 - **这意味着什么：**
-  - **印度 · 待坐实：WA 问 Vignesh 法人全名 / GST / 城市后一页纸（STC-2224GP $86 / STC-4424GCPM $165）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（微型预付 100%）+ FOB 深圳 / CIF 孟买·金奈·德里，买方清关（BIS 由买方自理需如实说）；周二 / 周四 11–13 IST**
-- 备注：未坐实（1 查未中即停）→ 回 C 待下轮 1 查（官网页脚 GST）；印度先例 ✔ WA 可达 ✔ 决策人 ✔。
+  - **印度 · 待坐实：WA 问 Vignesh 公司全名 / 网址 / GST 后再一页纸（STC-2224GP $86 / STC-4424GCPM $165）**
+- 备注：域名错配 → 回 C 待 WA 追问公司名；印度先例 ✔ 决策人 ✔ WA 可达 ✔。
 
 ## 基本事实（事实/推断/假设分层）
 
