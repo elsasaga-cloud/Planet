@@ -4,7 +4,7 @@
   "source": "其他国家官方 / 准官方登记",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 387
+  "count": 429
  },
  "rows": {
   "SA-061": {
@@ -12088,6 +12088,1274 @@
    ],
    "notes": "集成商 25%；一页纸一次（预付 100%）；坐实（CNPJ + 地址 + 开业日 + CNAE）。",
    "code": "SB-591"
+  },
+  "SB-695": {
+   "batch": 121,
+   "name": "LRI Automação Industrial = Leandro Roisenberg Firma Individual（lri.com.br；**官网 contato 自列 CNPJ 94.574.647/0005-02；Rua Maria Lopes Borba 474, Navegantes - SC 88370-340；「LRI Store」商标 INPI 910048894；工业自动化产品分销（电源、DC/DC、工业交换机、嵌入式、数采）、巴西库存开 NF-e**）→ 坐实；个体企业（Firma Individual）；表内电话 +55 11 / +972 为业主个人；KP Leandro Roisenberg（Director / 业主）；WA 无实质回复",
+   "iso": "BR",
+   "fetched": "2026-10-29",
+   "source": "BR · 1 次检索：lri.com.br/contato（LRI Automação Industrial；Rua Maria Lopes Borba, 474 Navegantes - SC CEP 88370-340；Leandro Roisenberg Firma Individual CNPJ: 94.574.647/0005-02）+ /como-comprar（LRI Store é uma Marca Registrada de Leandro Roisenberg FI sob INPI 910048894）；2026-10-29",
+   "url": "https://www.lri.com.br/contato",
+   "number": "CNPJ 94.574.647/0005-02（个体企业分支号 0005）",
+   "status": "营业中（官网 + 电商在）",
+   "incorporated": "未取",
+   "company_type": "Firma Individual（个体企业）",
+   "sic": [
+    "工业自动化产品分销（纳韦甘特斯，SC）"
+   ],
+   "address": "Rua Maria Lopes Borba 474, Navegantes - SC 88370-340, Brazil",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（个体）",
+   "officers": [
+    "Leandro Roisenberg — Director / 业主（研究档 KP；leandro@lri.com.br）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**同行工业交换机分销（在售进口工业品牌）→ 分销 20% B，一页纸一次（STI-154GP / STI-288DGGPM $137 / STI-280GE $46.6 中性包装一口价 + MOQ 1 + 付费样机；在售品牌不点名；葡语备注）— 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（进口税自理；Anatel 不声称）**；再无回声 → 不动"
+   ],
+   "notes": "分销 20%；一页纸一次（预付 100%）；坐实（官网自列 CNPJ + 地址）。",
+   "code": "SB-695"
+  },
+  "SB-798": {
+   "batch": 121,
+   "name": "GETECSEG Segurança Eletrônica Ltda ME（getecseg.com.br；**圣卡塔琳娜州法院公报 2019-04-01 税务名单：GETECSEG SEGURANÇA ELETRÔNICA LTDA ME，CNPJ 11.641.497/0001-43，Rua João Pessoa 1839, Velha, Blumenau - SC 89036-（欠税 R$4,924.98 公示）→ 坐实；表内 +55 47 = 布卢梅瑙 ✓**）；同名 Gettec（巴西利亚 61）为另一公司，不采信；KP Leonardo Sezerino（技术负责人）；WA 6 次无实质回复",
+   "iso": "BR",
+   "fetched": "2026-10-29",
+   "source": "BR · 1 次检索：escavador.com DJSC 2019-04-01 p.2781（GETECSEG SEGURANÇA ELETRÔNICA LTDA ME；11.641.497/0001-43；Rua João Pessoa, 1839, Velha Blumenau SC）；casadosdados Gettec 15.443.387（巴西利亚）≠ 本户；2026-10-29",
+   "url": "https://www.escavador.com/diarios/845061/DJSC/jurisdicional-das-comarcas/2019-04-01?page=2781",
+   "number": "CNPJ 11.641.497/0001-43",
+   "status": "存续（2019 公报；状态未取）",
+   "incorporated": "未取",
+   "company_type": "Ltda - ME",
+   "sic": [
+    "电子安防 / 监控（布卢梅瑙，SC）"
+   ],
+   "address": "Rua João Pessoa 1839, Velha, Blumenau - SC 89036, Brazil",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（ME）",
+   "officers": [
+    "Leonardo Sezerino — 技术负责人（研究档 KP；leonardo@getecseg.com.br）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**安防公司 + 监控项目兴趣 → 集成商 25% B，一页纸一次（STC-028GP $28 / STC-2216GP + STC-228GP $33 一口价 + 付费样机；葡语备注）— 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（进口税自理；Anatel 不声称）**；2019 欠税公示 → 预付 100% 不让步；再无回声 → 不动"
+   ],
+   "notes": "集成商 25%；一页纸一次（预付 100%）；坐实（法院公报 CNPJ + 地址；欠税红旗）。",
+   "code": "SB-798"
+  },
+  "SB-900": {
+   "batch": 121,
+   "name": "巴西南里奥格兰德 WhatsApp 联系人 Eleandro（+55 54；**无邮箱 / 公司 → 0 查**）— 主动问过千兆 MC 与商用 PoE 价格；WA 6 次无实质回复",
+   "iso": "BR",
+   "fetched": "2026-10-29",
+   "source": "0 查（无邮箱 / 公司）；2026-10-29",
+   "url": "",
+   "number": "0 查",
+   "status": "互动中（曾主动问价）",
+   "incorporated": "—",
+   "company_type": "个人",
+   "sic": [
+    "未知（RS）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "个人",
+   "officers": [
+    "Eleandro（WA；研究档无邮箱）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**曾主动问价 → 集成商 25% B，WA 一页纸一次（STC-028GP $28 / STC-228GP $33 + STC-110XGE $65 一口价；千兆 MC 不供明说；葡语备注）— 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（进口税自理；Anatel 不声称）**；再无回声 → 不动"
+   ],
+   "notes": "集成商 25%；WA 一页纸一次（预付 100%）；0 查。",
+   "code": "SB-900"
+  },
+  "SB-990": {
+   "batch": 121,
+   "name": "Precision Solutions（precisionsolutions.com.br；**支持站页脚自列 CNPJ 05.573.595/0001-98，I.E. 149.927.916.115；Avenida Nova Independência 87, conj. 32, Brooklin Paulista, São Paulo - SP 04570-000；+55 11 5103-3260；info@；EXFO 分销 / Fujikura 代表；20+ 年；光纤测试 / 校准**）→ 坐实；Director Eduardo Ken；需求 DWDM / DCI 高端（不供）",
+   "iso": "BR",
+   "fetched": "2026-10-29",
+   "source": "BR · 1 次检索：supportprecision.com.br（Precision Solutions；CNPJ 05.573.595/0001-98；I.E. 149.927.916.115；Avenida Nova Independência, 87 — conjunto 32 Brooklin Paulista；+55 (11) 5103-3260）+ nic.br 讲义（Distribuidor EXFO - Representante Fujikura）；同名 Precision Solutions Informática 10.730.077（BAIXADA）≠ 本户；2026-10-29",
+   "url": "https://supportprecision.com.br/",
+   "number": "CNPJ 05.573.595/0001-98",
+   "status": "营业中（官网 + 支持站在）",
+   "incorporated": "未取（自述 20+ 年）",
+   "company_type": "Ltda（推定）",
+   "sic": [
+    "光纤测试仪表分销 / 校准（圣保罗）"
+   ],
+   "address": "Avenida Nova Independência 87, conj. 32, Brooklin Paulista, São Paulo - SP 04570-000, Brazil",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "Eduardo Ken — Director（研究档 KP；eduardo.ken@precisionsolutions.com.br）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**需求 DWDM / DCI / 1.6T 高端（不供）+ 测试仪表商 → 不动（B 保留；来询按分销 20% 报 STH 数据中心机 / STC-110XGE）**— 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（进口税自理；Anatel 不声称）"
+   ],
+   "notes": "不动（产品不对位）；坐实（页脚 CNPJ + 地址 + 电话）。",
+   "code": "SB-990"
+  },
+  "SB-148": {
+   "batch": 121,
+   "name": "I.S.R. Technologies (Israel) Ltd / ISR Tech（isrcorp.co.il；**官网 + Google Play 开发者信息：5 Eliav Yaacov (Yaakov Eliav 5), Jerusalem 9546205；P.O. Box 34556；02-6520570；1986 年起（Integrated Systems Research Corp.）；智慧出行 / 车队管理 / 公交 ITS；Crunchbase 1–10 人**）；公司号 1 查未得 → 部分坐实；需求工业 8 电口 E-mark（不供）；KP Yukie Novick；WA 5 次无实质回复",
+   "iso": "IL",
+   "fetched": "2026-10-29",
+   "source": "IL · 1 次检索：isrcorp.co.il（ISR Tech；Tel 02-6520570；P.O. Box 34556；Yaakov elvav 5, Jerusalem；since 1986）+ play.google.com 开发者（I.S.R. TECHNOLOGIES ( ISRAEL) LTD；5 Eliav Yaacov JERUSALEM, 9546205）+ crunchbase（Founded 1986；1-10；Jerusalem）；公司号未得；2026-10-29",
+   "url": "https://www.isrcorp.co.il/",
+   "number": "未取（公司号 1 查未得）",
+   "status": "营业中（官网 + 应用商店 2026）",
+   "incorporated": "1986",
+   "company_type": "Ltd",
+   "sic": [
+    "智慧出行 / 车队管理 ITS（耶路撒冷）"
+   ],
+   "address": "5 Eliav Yaacov St., Jerusalem 9546205, Israel",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（1–10）",
+   "officers": [
+    "Yukie Novick — 联系人（研究档 KP；novick@isrcorp.co.il）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**车载 E-mark 需求（不供）+ 5×0 → 不动（B 保留；来询按集成商 25% 报 STI-280GE 机柜 / 站房用途，不声称车载认证）**— 以色列常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关；SII 不声称）"
+   ],
+   "notes": "不动（产品不对位：车载认证）；部分坐实（官网地址 + 成立年；公司号未取）。",
+   "code": "SB-148"
+  },
+  "SB-228": {
+   "batch": 121,
+   "name": "Negoh-Op Ltd（negoh-op.com；**TradeAtlas / tendata：Shabazi St. 10, Yahud 5623028, Israel；进口光延迟线 / RF-光转换器（RF 光子学测试测量）；ZoomInfo 11–50，+972 3 528 5972**）；公司号 1 查未得 → 部分坐实；CEO Dov Abraham；需求 10G 光模块（不供）；WA 无实质回复",
+   "iso": "IL",
+   "fetched": "2026-10-29",
+   "source": "IL · 1 次检索：app.tradeatlas.com（NEGOH-OP LTD；SHABAZI ST. 10 YAHUD, ISRAEL, 5623028）+ tendata（5 shipments；OPTICAL DELAY LINE / RF TO OPTICAL SIGNAL CONVERTER）+ zoominfo（+972 35285972；11-50；Test & Measurement）；公司号未得；2026-10-29",
+   "url": "https://app.tradeatlas.com/en/firms/negoh-op-ltd/5ef774402f314ab6",
+   "number": "未取（公司号 1 查未得）",
+   "status": "营业中（企业库 + 进口记录）",
+   "incorporated": "未取",
+   "company_type": "Ltd",
+   "sic": [
+    "RF 光子学 / 测试测量（耶胡德）"
+   ],
+   "address": "Shabazi St. 10, Yahud 5623028, Israel",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（11–50）",
+   "officers": [
+    "Dov Abraham — CEO（研究档 KP；dov@negoh-op.com）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**需求 10G 光模块（不供）+ 非目标行业（RF 光子学）→ 不动（B 保留）**— 以色列常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关；SII 不声称）"
+   ],
+   "notes": "不动（产品不对位 + 非目标行业）；部分坐实（贸易库地址；公司号未取）。",
+   "code": "SB-228"
+  },
+  "SB-328": {
+   "batch": 121,
+   "name": "Advice Electronics Ltd（advice.co.il；**new-techguide 供应商页：Company ID 511393159；16 Atir Yeda St., Kfar Saba；1988 / 1989 年成立；51–200 人；+972 3 900 0900；sales@advice.co.il；电源 / UPS / 储能 / 通信方案，代理 MeanWell / Eltek / Fronius 等，ISO9001；站内 PLANET 工业交换机 IGS-4215-4T2S / ISW-501T / ISW-511T、UIS16G-E；表内「自己的 logo，PLANET 的较多产品」**）→ 坐实；无具名 KP；群发 8 次无回复",
+   "iso": "IL",
+   "fetched": "2026-10-29",
+   "source": "IL · 1 次检索：new-techguide.com/supplier/advice-electronics-ltd（ADVICE ELECTRONICS LTD；established on 1988；Company ID: 511393159；16 Atir Yeda st. Kfar Saba）+ il.linkedin.com/company/advice-electronics（Founded 1989；51-200；972-3-9000900；sales@advice.co.il）；2026-10-29",
+   "url": "https://www.new-techguide.com/supplier/advice-electronics-ltd/",
+   "number": "公司号 511393159",
+   "status": "营业中（官网 + 领英 2025）",
+   "incorporated": "1988（领英口径 1989）",
+   "company_type": "Ltd（私人有限）",
+   "sic": [
+    "电源 / UPS / 通信方案分销与制造（卡法萨巴）"
+   ],
+   "address": "16 Atir Yeda St., Kfar Saba, Israel",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中小型（51–200）",
+   "officers": [
+    "（无具名 KP：sales@advice.co.il；Attn: Communication Products Manager）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有 logo + 在售 PLANET 工业机 → 贴标 OEM 30%（STI-154GP 对 IGS-4215-4T2S / STI-054GP 对 ISW-501T 贴标）↔ 分销 20% 双轨 B，一页纸一次（PLANET 不点名；MOQ + 付费样机）— 以色列常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关；SII 不声称）**；回信 → 加厚"
+   ],
+   "notes": "贴标 OEM 30% ↔ 分销 20% 双轨；一页纸一次（预付 100%）；坐实（公司号 + 地址 + 成立年）。",
+   "code": "SB-328"
+  },
+  "SB-378": {
+   "batch": 121,
+   "name": "Pal Wintec Systems Ltd（palwintec.com；**D&B：20 Hamagshimim St., Petah Tikva 4934829；inter-fair / tradeindia：2000 年成立、约 35 人、P.O. Box 7184、+972 3 922 2051；对讲 / 门禁 / 电话系统自研制造 + 出口；tradeindia 联系人 Mr. Ophir Reuveni**）；公司号 1 查未得 → 部分坐实；KP Efi Yosefian（VP）；表内「常规 af/at PoE、不用 90W、无需云管理」；6 次跟进无回复",
+   "iso": "IL",
+   "fetched": "2026-10-29",
+   "source": "IL · 1 次检索：dnb.com（PAL WINTEC SYSTEMS LTD；20 Hamagshimim PETAH TIKVA 4934829）+ inter-fair.com（established in 2000；+972 3 922 2051）+ tradeindia（Mr. Ophir Reuveni；Employee Count 35；Exporter, Importer, Manufacturer）；公司号未得；2026-10-29",
+   "url": "https://www.dnb.com/business-directory/company-profiles.pal_wintec_systems_ltd.41d48ad1a0335f9455abaa962c86bea9.html",
+   "number": "未取（公司号 1 查未得）",
+   "status": "营业中（官网 + 企业库）",
+   "incorporated": "2000",
+   "company_type": "Ltd",
+   "sic": [
+    "对讲 / 门禁 / 电话系统制造与出口（佩塔提克瓦）"
+   ],
+   "address": "20 Hamagshimim St., P.O. Box 7184, Petah Tikva 4934829, Israel",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（约 35 人）",
+   "officers": [
+    "Efi Yosefian — VP（研究档 KP；efi@palwintec.com）= 收件人",
+    "Ophir Reuveni — 联系人（tradeindia 2026-10-29；无公开邮箱）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自研对讲 / IP 监视器厂商、需求明确（af/at 常规 PoE）→ 集成商 25% B（随机配套 PoE：STC-028GP $28 / STC-2216GP 一口价）+ 贴标 30% 选项一句，一页纸一次（MOQ 1 + 付费样机）— 以色列常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关；SII 不声称）**；再无回声 → 不动"
+   ],
+   "notes": "集成商 25%（贴标选项）；一页纸一次（预付 100%）；部分坐实（D&B 地址 + 成立年 + 人数；公司号未取）。",
+   "code": "SB-378"
+  },
+  "SB-704": {
+   "batch": 121,
+   "name": "Ethical Ltd（ethical-ltd.com；**kycisrael：Registration Number 512146788；Private Limited；Active；成立 1995-05-10；最近年报 2025；33 Shmuel Tamir St., Tel Aviv 6963717（D&B 同址）；采购服务与通信产品供应（元件、电光设备、连接器、终端服务器、MC、延长器、工业交换机）；cellpex 联系人 Ran Broudo；表内「Switch 主要用 Perle」**）→ 坐实；无具名 KP（ethical@）；群发 8 次无回复",
+   "iso": "IL",
+   "fetched": "2026-10-29",
+   "source": "IL · 1 次检索：kycisrael.com/companies/512146788/ethical-ltd（Registration Number 512146788；Private Limited Company；Active；Incorporation Date 10/05/1995；Last Annual Report Year 2025；33 תמיר שמואל 6963717）+ dnb（33/1 Tamir Shmuel TEL AVIV-JAFFA）+ cellpex（Ethical ltd；Ran Broudo）；2026-10-29",
+   "url": "https://www.kycisrael.com/companies/512146788/ethical-ltd/",
+   "number": "公司号 512146788",
+   "status": "Active（年报 2025）",
+   "incorporated": "1995-05-10",
+   "company_type": "Ltd（私人有限）",
+   "sic": [
+    "采购服务 / 通信与电子产品供应（特拉维夫）"
+   ],
+   "address": "33 Shmuel Tamir St., Tel Aviv 6963717, Israel",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "Ran Broudo — 联系人 / 负责人（cellpex 供应商档 2026-10-29；无公开邮箱）→ 收件 ethical@ethical-ltd.com Attn: Ran Broudo"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**采购服务商（在供 Perle 类 MC / 工业机）→ 分销 20% B，一页纸一次（STC-110XGE $65 / STI-154GP / STI-288DGGPM $137 一口价 + MOQ 1 + 付费样机；在供品牌不点名）— 以色列常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关；SII 不声称）**；再无回声 → 不动"
+   ],
+   "notes": "分销 20%；一页纸一次（预付 100%）；坐实（公司号 + 成立日 + 年报 + 地址）。",
+   "code": "SB-704"
+  },
+  "SB-911": {
+   "batch": 121,
+   "name": "itmarket.co.il（**1 查无命中 → 未坐实**；仅电话 +972 52 647 7172，无邮箱）— CCTV 与网络设备供应商（表内：ONV 工业 FS / MC，评估「质量高，50% A」）；WA 16 次无实质回复",
+   "iso": "IL",
+   "fetched": "2026-10-29",
+   "source": "IL · 1 次检索：「itmarket.co.il Israel CCTV network equipment company address」→ 无相关结果；2026-10-29",
+   "url": "",
+   "number": "未取（1 查无命中）",
+   "status": "未知",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "CCTV / 网络设备供应（以色列）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（推定）",
+   "officers": [
+    "（未具名；仅 WA +972 52 647 7172）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**16×0 + 无 KP + 未坐实 → 不动（B 保留）**— 以色列常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关；SII 不声称）"
+   ],
+   "notes": "不动（16×0 + 无 KP）；未坐实。",
+   "code": "SB-911"
+  },
+  "SB-915": {
+   "batch": 121,
+   "name": "RADWIN Ltd（radwin.com；**D&B / datanyze / cbinsights：27 Habarzel St., Tel Aviv 6971039；+972 3 766 2900；1997 年成立；约 270 人；营收约 $68M；CEO Sharon Sher（= 研究档 KP ✓）；运营商级固定无线 PtP / PtMP / 回传厂商**）；公司号 1 查未得 → 部分坐实（大型）；KP Dave Azria（Director of Product Management）；表内「Ethernet Switch」；未跟进",
+   "iso": "IL",
+   "fetched": "2026-10-29",
+   "source": "IL · 1 次检索：dnb.com/business-directory/company-profiles/radwin-ltd（27 Habarzel TEL AVIV-JAFFA 6971039；+972-37662900；CEO Sharon Shar）+ datanyze（Employees 270；Revenue $67.9M；Founded 1997）+ cbinsights（27 Habarzel Street, Tel Aviv, 6971039；1997）；公司号未得；2026-10-29",
+   "url": "https://www.dnb.com/business-directory/company-profiles/radwin-ltd.540b3e48d35e64f615a68029699055c6",
+   "number": "未取（公司号 1 查未得）",
+   "status": "营业中（官网 + 企业库）",
+   "incorporated": "1997",
+   "company_type": "Ltd（私人有限）",
+   "sic": [
+    "固定无线接入 / 回传设备制造（特拉维夫）"
+   ],
+   "address": "27 Habarzel St., Tel Aviv 6971039, Israel",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "大型（约 270 人）",
+   "officers": [
+    "Dave Azria — Director of Product Management（研究档 KP；dave_a@radwin.com）= 收件人",
+    "Sharon Sher — CEO（研究档 KP；D&B 吻合）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**无线原厂（CPE / IDU 配套 PoE 交换机 = 配件贴标入口）+ 产品管理总监为 KP → 贴标 OEM 30% B，一页纸一次（STC-028GP $28 / STC-228GP $33 贴标 + 工业 STI-154GP 户外机柜；MOQ + 付费样机）— 以色列常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关；SII 不声称）**；大厂成单概率低 → 一次即止"
+   ],
+   "notes": "贴标 OEM 30%；一页纸一次（预付 100%）；部分坐实（企业库地址 + 成立年 + 人数 + CEO；公司号未取）。",
+   "code": "SB-915"
+  },
+  "SB-934": {
+   "batch": 121,
+   "name": "Alibi Security（alibisecurity.com；**美国：15505 Long Vista Drive, Suite 250, Austin, TX 78728；母公司 Observint Technologies（同址）；30+ 年经销商网络；100–200 人；CEO Brian Wood；888-858-1442；自有品牌摄像机 / 门禁 / VMS + 转售 D-Link / TP-Link PoE 交换机、Vigitron 注入器 → 表内国别「以色列」误 → country_fix 美国**）；州登记号未取 → 部分坐实；KP Billy Grumbles；未跟进",
+   "iso": "US",
+   "fetched": "2026-10-29",
+   "source": "US · 1 次检索：observint.com/News（Alibi Security … owned by parent company Observint Technologies, both headquartered in Austin, TX；15505 Long Vista Drive Suite 250 Austin, TX 78728）+ een.com（Brian Wood, CEO of Alibi Security；30 years）+ signalhire（15505 Long Vista Drive, Austin, Texas, 78728；100-200）；2026-10-29",
+   "url": "https://observint.com/News/",
+   "number": "未取（Texas SoS 付费；品牌隶属 Observint Technologies）",
+   "status": "营业中（官网 + 新闻）",
+   "incorporated": "约 1990（自述 30+ 年）",
+   "company_type": "LLC / Inc.（Observint 旗下品牌）",
+   "sic": [
+    "安防产品自有品牌 + 经销商渠道（奥斯汀，德州）"
+   ],
+   "address": "15505 Long Vista Drive, Suite 250, Austin, TX 78728, USA",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（100–200）",
+   "officers": [
+    "Billy Grumbles — 联系人（研究档 KP；billy.grumbles@alibisecurity.com）= 收件人",
+    "Brian Wood — CEO（een.com 新闻 2026-10-29；无公开邮箱）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌安防 + 转售 D-Link / TP-Link PoE → 贴标 OEM 30% B，一页纸一次（STC-028GP $28 / STC-2216GP / STC-2224GP $86 Alibi 贴标 + MOQ + 付费样机；NDAA / TAA 不声称、D-Link / TP-Link / Vigitron 不点名）— 美国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP（买方清关）；周三 08–10 当地**；回信 → 加厚"
+   ],
+   "notes": "贴标 OEM 30%；一页纸一次（预付 100%）；部分坐实（新闻 + 名录地址 + 母公司；州登记号未取）；country_fix 美国。",
+   "code": "SB-934"
+  },
+  "SB-1076": {
+   "batch": 121,
+   "name": "Simplifi Networks Ltd（simplifinetworks.com；**hotfrog / africa2trust / RocketReach：Unit 28, Fortis Industrial Park, off Mombasa Road, Nairobi 80100；+254 727 401 262；2014 年成立；约 12 人；东非 Ubiquiti 直接分销 + MikroTik 主分销（内罗毕 / 坎帕拉 / 达累斯萨拉姆有库存）**）；注册号 1 查未得 → 部分坐实；表内「PoE 配件 / 工业 FS 有自己的 logo」；无具名 KP；1 次跟进无回复",
+   "iso": "KE",
+   "fetched": "2026-10-29",
+   "source": "KE · 1 次检索：hotfrog.co.ke（Simplifi Networks；Unit 28, Fortis Industrial park, Mombasa Road Nairobi 80100；0727 401262）+ africa2trust（Simplifi Networks Ltd；Distributor for Mikrotik, Ubiquiti UniFi, RF-Elements）+ rocketreach（Founded 2014；Employees 12；only Direct Distributor for Ubiquiti … MikroTik Master Distributor）；注册号未得；2026-10-29",
+   "url": "https://rocketreach.co/simplifi-networks-profile_b45386d6fc871866",
+   "number": "未取（BRS 注册号 1 查未得）",
+   "status": "营业中（官网 + 名录）",
+   "incorporated": "2014",
+   "company_type": "Ltd",
+   "sic": [
+    "网络设备分销（内罗毕；东非三国）"
+   ],
+   "address": "Unit 28, Fortis Industrial Park, off Mombasa Road, Nairobi 80100, Kenya",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（约 12 人）",
+   "officers": [
+    "（无具名 KP：kenya@simplifinetworks.com；Attn: Product Manager）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**原厂总分销（Ubiquiti / MikroTik）+ 自有 logo PoE 配件 → 贴标 OEM 30%（自标 PoE / 工业 FS：STC-028GP / STC-2216GP / STI-154GP）↔ 分销 20% 双轨 B，一页纸一次（原厂不点名；MOQ + 付费样机）— 肯尼亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 内罗毕（买方清关；KEBS / CA 不声称）**；再无回声 → 不动"
+   ],
+   "notes": "贴标 OEM 30% ↔ 分销 20% 双轨；一页纸一次（预付 100%）；部分坐实（名录地址 + 成立年 + 人数；注册号未取）。",
+   "code": "SB-1076"
+  },
+  "SB-337": {
+   "batch": 121,
+   "name": "Kimberley Telecommunications（**gmail + 无域名 → 0 查**）— 肯尼亚电信工程商，在用 PLANET 设备；需求 2 光 16 电管理型 passive PoE（非标，不供）；2024-07 回「price」",
+   "iso": "KE",
+   "fetched": "2026-10-29",
+   "source": "0 查（gmail + 无域名）；2026-10-29",
+   "url": "",
+   "number": "0 查",
+   "status": "互动中（2024-07 问价）",
+   "incorporated": "—",
+   "company_type": "未取",
+   "sic": [
+    "电信工程（肯尼亚）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（推定）",
+   "officers": [
+    "（未具名；gadsatoh@gmail.com）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**曾问价 + 在用 PLANET → 集成商 25% B，一页纸一次（passive PoE 不供明说 → STC-2216GP 标准 af/at 一口价 + STC-228GP；PLANET 不点名）— 肯尼亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 内罗毕（买方清关；KEBS / CA 不声称）**；再无回声 → 不动"
+   ],
+   "notes": "集成商 25%；一页纸一次（预付 100%）；0 查（gmail）。",
+   "code": "SB-337"
+  },
+  "SB-586": {
+   "batch": 121,
+   "name": "Matrix Vision Systems / Matrix Systems（matrixsystems.co.ke；**1 查仅美国 / 中东同名，肯尼亚本体未命中 → 未坐实**；研究档：内罗毕电气工程 + 安防 + 软件集成商，11–50 人，Hikvision 战略伙伴，NCA / CA 认证 ICT 承包商）；技术总监 Mogeni Enock 2024-03 回「有用，需与团队沟通是否拿样」；需求光纤上行 IP 摄像机接入",
+   "iso": "KE",
+   "fetched": "2026-10-29",
+   "source": "KE · 1 次检索：「\"Matrix Systems\" matrixsystems.co.ke Nairobi」→ crunchbase（美国 Matrix Systems）/ facebook 同名（中东）→ 均非本户；2026-10-29",
+   "url": "",
+   "number": "未取（1 查未命中本体）",
+   "status": "营业中（研究档官网）",
+   "incorporated": "未取（自述 10 年以上）",
+   "company_type": "Ltd（推定）",
+   "sic": [
+    "电气 / 安防 / ICT 集成（内罗毕）"
+   ],
+   "address": "未取（Nairobi, Kenya）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（11–50）",
+   "officers": [
+    "Mogeni Enock — 技术总监（研究档 KP；mogeni@matrixsystems.co.ke）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**技术总监曾回复「需沟通拿样」→ 集成商 25% B，一页纸一次（光纤上行摄像机接入：STI-154GP / STC-228GP $33 付费样机一口价 + 运费；Hikvision 配套中性包装）— 肯尼亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 内罗毕（买方清关；KEBS / CA 不声称）**；再无回声 → 不动"
+   ],
+   "notes": "集成商 25%；一页纸一次（付费样机 + 预付 100%）；未坐实（同名未对齐）。",
+   "code": "SB-586"
+  },
+  "SB-896": {
+   "batch": 121,
+   "name": "肯尼亚联系人 Musine（wafulamusine@gmail.com；**无公司名 → 0 查**）— 需求千兆 PoE 媒体转换器（不供）；2025-04 回「interested」",
+   "iso": "KE",
+   "fetched": "2026-10-29",
+   "source": "0 查（gmail + 无公司名）；2026-10-29",
+   "url": "",
+   "number": "0 查",
+   "status": "互动中（2025-04）",
+   "incorporated": "—",
+   "company_type": "个人",
+   "sic": [
+    "未知（肯尼亚）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "个人",
+   "officers": [
+    "Musine（研究档 KP；wafulamusine@gmail.com）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**需求 PoE MC（不供）+ 无公司 → 不动（B 保留；来询按集成商 25% 报 STC-028GP + 预付 100%）**— 肯尼亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 内罗毕（买方清关；KEBS / CA 不声称）"
+   ],
+   "notes": "不动（产品不对位 + 个人）；0 查。",
+   "code": "SB-896"
+  },
+  "SB-897": {
+   "batch": 121,
+   "name": "Peter Weru（wellspeter8@gmail.com；**gmail + 无公司名 → 0 查**）— 肯尼亚小型安装 / 转售商（2016 年起用国际站，WA 已加）；需求「百兆单纤小外电 50 对」（不供）；2024-06 要「price list」；19 次推送 2 次实质回复",
+   "iso": "KE",
+   "fetched": "2026-10-29",
+   "source": "0 查（gmail + 无公司名）；2026-10-29",
+   "url": "",
+   "number": "0 查",
+   "status": "互动中（2 次）",
+   "incorporated": "—",
+   "company_type": "个体 / 微型",
+   "sic": [
+    "安装 / 转售（肯尼亚）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型",
+   "officers": [
+    "Peter Weru — 业主（研究档 KP；wellspeter8@gmail.com；WA 已加）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**两次实质回复 + 要价表 → 集成商 25% B，一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-2216GP 一口价 + MOQ 1；百兆 MC 不供明说）— 肯尼亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 内罗毕（买方清关；KEBS / CA 不声称）**；再无回声 → 不动"
+   ],
+   "notes": "集成商 25%；一页纸一次（预付 100%）；0 查（gmail）。",
+   "code": "SB-897"
+  },
+  "SB-157": {
+   "batch": 121,
+   "name": "データコントロルズ株式会社 Data Controls Inc.（dci.jp；**会社案内 PDF：1983 年設立；〒111-0052 東京都台東区柳橋 1-20-4 深代ビル 8F；TEL 03-5829-5805；事業 = ネットワーク機器の開発 / 製造 / 輸入販売 + 修理；日経 COMPASS 登記住所同址（電気機械器具卸売業）**）；法人番号 1 查未得 → 部分坐实；表内「光路 MC 系列、ORing 工业 FS」；无具名 KP（info@）；2 次跟进无回复",
+   "iso": "JP",
+   "fetched": "2026-10-29",
+   "source": "JP · 1 次检索：dci.jp/media/2024/08/DCIprofile2019.pdf（データコントロルズ株式会社；1983年設立；〒111-0052 東京都台東区柳橋1-20-4 深代ビル8F；ネットワーク機器の開発/製造/輸入販売）+ nikkei.com/compass（登記住所 東京都台東区柳橋１丁目２０番４号；電気機械器具卸売業）；法人番号未得；2026-10-29",
+   "url": "https://dci.jp/media/2024/08/DCIprofile2019.pdf",
+   "number": "未取（法人番号 1 查未得）",
+   "status": "营业中（官网 + 日经）",
+   "incorporated": "1983",
+   "company_type": "株式会社",
+   "sic": [
+    "网络设备（MC / 工业交换机）开发・进口销售（东京台东区）"
+   ],
+   "address": "〒111-0052 東京都台東区柳橋 1-20-4 深代ビル 8F, Japan",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "（无具名 KP：info@dci.jp；Attn: 購買担当 / Purchasing）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**MC / 工业交换机进口商兼自研 → 分销 20%（STC-110XGE $65 / STI-154GP / STI-288DGGPM $137）↔ 贴标 OEM 30% 双轨 B，一页纸一次（在供品牌不点名；MOQ 1 + 付费样机）— 日本常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关；技適 / PSE 不声称）**；再无回声 → 不动"
+   ],
+   "notes": "分销 20% ↔ 贴标 30% 双轨；一页纸一次（预付 100%）；部分坐实（会社案内 + 登記住所；法人番号未取）。",
+   "code": "SB-157"
+  },
+  "SB-158": {
+   "batch": 121,
+   "name": "ダイヤトレンド株式会社 Diatrend Corporation（diatrend.com / diatrend.co.jp；**法人番号 5120001026515；1971-08 設立；代表 宮下清哉 = 研究档 KP Kiyomasa Miyashita ✓；〒530-0011 大阪府大阪市北区大深町 3-1（2017-01 起；旧址 中央区南船場 2-2-14）；子会社 DT エンジニアリング；電子応用製品の企画開発・製造・販売（接口电缆、光缆、PoE 注入 / 延长产品）**）→ 坐实；表内「工业 FS / MC / SFP 自己的 label」；2 次跟进无回复",
+   "iso": "JP",
+   "fetched": "2026-10-29",
+   "source": "JP · 1 次检索：houjin.jp/c/5120001026515（ダイヤトレンド株式会社；法人番号 5120001026515；設立 1971年08月；代表 宮下清哉；大阪市北区大深町3番1号；吸収合併 2022-06）+ catr.jp（DTエンジニアリング株式会社 子会社；本店移転履歴）；2026-10-29",
+   "url": "https://houjin.jp/c/5120001026515",
+   "number": "法人番号 5120001026515",
+   "status": "营业中（登記更新 2022-06；官网在）",
+   "incorporated": "1971-08",
+   "company_type": "株式会社",
+   "sic": [
+    "电子应用产品企划开发・制造・销售（大阪北区）"
+   ],
+   "address": "〒530-0011 大阪府大阪市北区大深町 3-1, Japan",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中小型",
+   "officers": [
+    "Kiyomasa Miyashita（宮下清哉）— 代表取締役 / Managing Director（法人登記 2026-10-29 吻合；研究档 KP info@diatrend.co.jp）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有 label 的 MC / 工业 FS 厂商、代表取締役为 KP → 贴标 OEM 30% B，一页纸一次（STI-154GP / STI-288DGGPM $137 + STC-110XGE $65 贴标 + MOQ + 付费样机；SFP 不供明说）— 日本常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关；技適 / PSE 不声称）**；回信 → 加厚"
+   ],
+   "notes": "贴标 OEM 30%；一页纸一次（预付 100%）；坐实（法人番号 + 設立 + 代表 + 本店）。",
+   "code": "SB-158"
+  },
+  "SB-161": {
+   "batch": 121,
+   "name": "マハネット株式会社 Mahanet Co., Ltd.（mahanet-jp.com；**gBizINFO：法人番号 7390001009301；設立 2005-02-25；本店 山形県東根市大字蟹沢 1646-33；被保険者数 4 人；全省庁統一資格；官网：資本金 1,000 万円、CEO Akira Ohe（大江）、TEL 0237-42-5833；防犯カメラ販売施工 + 自有 MH- 系列 IP 摄像机 / NVR / PoE 交换 HUB（MH-7204E / 7208E / 7216E-L2 / 7224E-L2）**）→ 坐实；表内「安防为主 有 Utepo 的交换机」；无具名 KP；7 次跟进无回复",
+   "iso": "JP",
+   "fetched": "2026-10-29",
+   "source": "JP · 1 次检索：info.gbiz.go.jp/hojin/ichiran?hojinBango=7390001009301（マハネット株式会社；法人番号 7390001009301；山形県東根市大字蟹沢１６４６番地３３；設立 2005年02月25日；被保険者数 4人）+ mahanet-jp.com/en（Incorporated 2005/02/25；Capital 10,000,000 Yen；CEO Akira Ohe；0237-42-5833）；2026-10-29",
+   "url": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7390001009301",
+   "number": "法人番号 7390001009301",
+   "status": "营业中（gBiz 在册 + 官网）",
+   "incorporated": "2005-02-25",
+   "company_type": "株式会社（資本金 1,000 万円）",
+   "sic": [
+    "防犯カメラ・安防系统销售施工，自有 MH 系列（山形东根）"
+   ],
+   "address": "〒999-3716 山形県東根市大字蟹沢 1646-33, Japan",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（4 人）",
+   "officers": [
+    "Akira Ohe（大江）— CEO / 代表取締役（官网 2026-10-29；收件 info@mahanet-jp.com Attn: Mr. Ohe）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有 MH 系列 PoE 交换 HUB → 贴标 OEM 30% B，一页纸一次（MH-7204E / 7208E / 7216E-L2 / 7224E-L2 对位 STC-028GP $28 / STC-2216GP / STC-4424GCPM $165 贴标 + MOQ + 付费样机；UTEPO 不点名）— 日本常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关；技適 / PSE 不声称）**；7×0 → 最后一次，再无回声 → 不动"
+   ],
+   "notes": "贴标 OEM 30%；最后一次一页纸（预付 100%）；坐实（法人番号 + 設立 + 本店 + 代表）。",
+   "code": "SB-161"
+  },
+  "SB-164": {
+   "batch": 121,
+   "name": "UNEAX 株式会社（unea-x.com；**法人番号 6021001077094；設立 2022-10-04；本店 〒242-0007 神奈川県大和市中央林間 5-5-23-6；従業員 1 人（eigyo-mfg）；事業 = SSD 販売、産業用イーサネットスイッチの開発・販売、IoT センサー、金型部品加工 → 微型同行（自标工业交换机）**）→ 坐实；研究档 KP Ryosuke Osako（2026-04-22 首位联系）/ Mari Inoue（2026-05 技术 / 合规对接）；表内「工业 switch 国内的外壳」",
+   "iso": "JP",
+   "fetched": "2026-10-29",
+   "source": "JP · 1 次检索：helloboss.com/corp/6021001077094（UNEAX株式会社；法人番号 6021001077094；神奈川県大和市中央林間5丁目5番23-6号；設立 2022-10-04）+ eigyo-mfg.com（従業員数 1人；SSDの販売, 産業用イーサネットスイッチの開発と販売, センサーシステム, 金型部品加工）+ alarmbox.jp（同法人番号）；2026-10-29",
+   "url": "https://helloboss.com/corp/6021001077094",
+   "number": "法人番号 6021001077094",
+   "status": "营业中（登記 2022-10；官网在）",
+   "incorporated": "2022-10-04（新壳）",
+   "company_type": "株式会社",
+   "sic": [
+    "工业交换机自标开发销售 + SSD / IoT / 金型加工（神奈川大和）"
+   ],
+   "address": "〒242-0007 神奈川県大和市中央林間 5-5-23-6, Japan",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（1 人）",
+   "officers": [
+    "Ryosuke Osako（大迫）— 首位联系人（研究档 KP；ryosuke.osako@unea-x.com）= 收件人",
+    "Mari Inoue（井上）— 技术 / 合规对接（研究档 KP；inoue.mari@unea-x.com）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**微型同行、明确要「国内外壳」工业交换机自标 + 2026 年在谈 → 贴标 OEM 30% B，一页纸一次（STI-054GP / STI-154GP / STI-288DGGPM $137 贴标 + MOQ + 付费样机；合规文件只给 CE / RoHS / FCC 现有件）— 日本常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关；技適 / PSE 不声称）**；1 人新壳 → 预付 100% 不让步"
+   ],
+   "notes": "贴标 OEM 30%；一页纸一次（预付 100%；新壳 1 人）；坐实（法人番号 + 設立 + 本店）。",
+   "code": "SB-164"
+  },
+  "SB-822": {
+   "batch": 121,
+   "name": "ソリッド株式会社 Solid Corp.（品牌「ソリッドケーブル」solidcable.com；**PR 稿会社概要：〒541-0042 大阪府大阪市中央区今橋 2-3-16 5F；代表取締役 徳岡達人；TEL 06-6228-0577；商社；従業員 500 名未満；2004 年起製造直販 EC（TV / ネットワーク線缆、当日発送）；企业站 solid-corp.com**）；法人番号 1 查未得 → 部分坐实；表内「ONV 的 MC 一些周边通讯设备」；无具名 KP（support@）；2 次跟进无回复",
+   "iso": "JP",
+   "fetched": "2026-10-29",
+   "source": "JP · 1 次检索：dreamnews.jp/press/0000337263（ソリッド株式会社；代表取締役社長 徳岡達人；大阪府大阪市中央区今橋2-3-16-5F；06-6228-0577；商社；2004年 ソリッドケーブル）+ dreamnews 0000328525（会社HP solid-corp.com）；法人番号未得；2026-10-29",
+   "url": "https://www.dreamnews.jp/press/0000337263",
+   "number": "未取（法人番号 1 查未得）",
+   "status": "营业中（PR 2025-12；EC 在）",
+   "incorporated": "未取（EC 2004 起）",
+   "company_type": "株式会社",
+   "sic": [
+    "线缆・通信周边製造直販 EC（大阪中央区）"
+   ],
+   "address": "〒541-0042 大阪府大阪市中央区今橋 2-3-16 5F, Japan",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（<500 自报）",
+   "officers": [
+    "Tatsuto Tokuoka（徳岡達人）— 代表取締役（PR 稿 2026-10-29；收件 support@solidcable.com Attn: 仕入担当 / Purchasing）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌线缆 EC（MC / 周边在售）→ 贴标 OEM 30%（STC-110XGE $65 / STC-028GP $28 自标）↔ 分销 20% 双轨 B，一页纸一次（在供品牌不点名；MOQ + 付费样机）— 日本常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关；技適 / PSE 不声称）**；再无回声 → 不动"
+   ],
+   "notes": "贴标 30% ↔ 分销 20% 双轨；一页纸一次（预付 100%）；部分坐实（PR 会社概要 + 代表；法人番号未取）。",
+   "code": "SB-822"
+  },
+  "SB-037": {
+   "batch": 121,
+   "name": "ТОО «Pulsar Systems» / Pulsar Systems LLP（pulsar.kz；**БИН 100740012554；注册 2010-07-23；法定地址 г. Астана, район Алматы, проспект Бауыржан Момышұлы, дом 2В, к. 16；负责人 Каримов Сабит Мухтарович；ОКЭД 47421（电信设备专卖零售）；阿拉木图办公 ул. Ходжанова 79；表内 UNIPOE 哈萨克斯坦 + 俄罗斯独家代理、ZKTeco / Hikvision 在售**）→ 坐实；无具名邮件 KP（info@）；未跟进",
+   "iso": "KZ",
+   "fetched": "2026-10-29",
+   "source": "KZ · 1 次检索：statsnet.co/companies/kz/27130484（PULSAR SYSTEMS, ТОО, БИН 100740012554；Астана, проспект Бауыржан Момышұлы, дом 2в；Дата регистрации 23.07.2010）+ pk.adata.kz（Директор Каримов Сабит Мухтарович；ОКЭД 47421；к. 16；Алматы, ул. Ходжанова, 79）+ kyc.kz 同号；2026-10-29",
+   "url": "https://statsnet.co/companies/kz/27130484",
+   "number": "БИН 100740012554",
+   "status": "存续（企业库 2026）",
+   "incorporated": "2010-07-23",
+   "company_type": "ТОО（有限责任合伙）",
+   "sic": [
+    "电信 / 安防设备分销与零售（阿斯塔纳 + 阿拉木图）"
+   ],
+   "address": "пр. Бауыржан Момышұлы 2В, оф. 16, район Алматы, Астана 010000, Kazakhstan",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "Sabit Karimov（Каримов Сабит Мухтарович）— Директор（adata.kz 2026-10-29；无公开邮箱）→ 收件 info@pulsar.kz Attn: Mr. Karimov"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**PoE 交换机品牌独家代理（哈 + 俄）→ 分销 20% B，一页纸一次（PM3018GSNL 类 16 PoE + 2 SFP 对位 STC-2216GP $63–76 / STC-2224GP $86 / STC-4424GCPM $165 一口价 + MOQ 1 + 付费样机；在代品牌不点名）— 哈萨克斯坦常规：英文稿、20 / 25 / 30 + T/T 预付 100%（哈国银行）+ FOB 深圳 或 DAP 阿拉木图 / 阿斯塔纳（买方清关；EAC 不声称）**；俄罗斯转售部分 = 买方自理；回信 → 加厚"
+   ],
+   "notes": "分销 20%；一页纸一次（预付 100%）；坐实（БИН + 注册日 + 地址 + 负责人 + ОКЭД）。",
+   "code": "SB-037"
+  },
+  "SB-622": {
+   "batch": 121,
+   "name": "ТОО «Авантаж Маркет» Avantazh Market（market-telecom.kz；**官网 реквизиты 自列 БИН 221040045999（2022-10 注册；150000 Петропавловск, ул. Нурсултана Назарбаева 133, НП1 — ba.prg.kz 同）；前身 / 关联 ТОО «Авантаж Маркет-телеком» БИН 170740023007（2017；Астана, ул. Дотык 18）；自述 2010 年起 16 年、阿斯塔纳 / 阿拉木图 / 彼得罗巴甫洛夫斯克三仓；+7 7172 97 84 70 / +7 727 237 90 53；表内 TP-Link / Dahua / Hikvision / Ubiquiti / MikroTik + ONV / Witech / Planet 交换机**）→ 坐实；无具名 KP（info@）；群发 18 次无回复",
+   "iso": "KZ",
+   "fetched": "2026-10-29",
+   "source": "KZ · 1 次检索：market-telecom.kz/about_shop（Реквизиты ТОО «Авантаж Маркет» БИН 221040045999；150000 Петропавловск ул. Нурсултана Назарбаева, 133, НП1；info@market-telecom.kz）+ ba.prg.kz/591010000-petropavlovsk/221040045999（同址，Проверено 12.10.2026）+ mp.kz（ТОО \"Авантаж Маркет-телеком\" БИН 170740023007；Астана, ул. Дотык, 18）；2026-10-29",
+   "url": "https://market-telecom.kz/about_shop",
+   "number": "БИН 221040045999（关联 ТОО «Авантаж Маркет-телеком» БИН 170740023007）",
+   "status": "存续（e-gov 核验 2026-10-12）",
+   "incorporated": "2022-10（现法人；业务 2010 起）",
+   "company_type": "ТОО（有限责任合伙）",
+   "sic": [
+    "通信 / 安防 / IT 设备网店 + 工程（彼得罗巴甫洛夫斯克 / 阿斯塔纳 / 阿拉木图）"
+   ],
+   "address": "ул. Нурсултана Назарбаева 133, НП1, Петропавловск 150000, Kazakhstan",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "（无具名 KP：info@market-telecom.kz；Attn: Отдел закупок / Purchasing）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**多品牌网店 + 在售 ONV / Planet 类交换机 → 分销 20% B，最后一次一页纸（STC-028GP $28 / STC-2216GP / STC-2224GP $86 / STI-154GP 一口价 + MOQ 1 + 付费样机；在售品牌不点名）— 哈萨克斯坦常规：英文稿、20 / 25 / 30 + T/T 预付 100%（哈国银行）+ FOB 深圳 或 DAP 阿拉木图 / 阿斯塔纳（买方清关；EAC 不声称）**；18×0 → 再无回声 → 不动"
+   ],
+   "notes": "分销 20%；最后一次一页纸（预付 100%）；坐实（官网自列 БИН + e-gov 核验地址 + 关联法人）。",
+   "code": "SB-622"
+  },
+  "SB-799": {
+   "batch": 121,
+   "name": "ТОО «VERTEX INVADER»（**БИН 181140013835；注册 2018（niac 2018-11-13 / wikicity 2018-01-13 口径不一）；г. Астана, район Байқоңыр, ул. Александра Пушкина 41/2；负责人 Нурпеисова Алина Бакытжановна；ОКЭД 47.99.9 / 其他机械设备批发；小型企业（11–15 人）；ETS 招标平台参与者**）→ 坐实；表内国别「俄罗斯」已更正为哈萨克斯坦；邮箱 mail.ru、无兴趣记录、业务与我方无对口；未跟进",
+   "iso": "KZ",
+   "fetched": "2026-10-29",
+   "source": "KZ · 1 次检索：ets-tender.kz/firms/too-vertex-invader/34696（ТОО \"VERTEX INVADER\"；010000 Астана, улица Александра Пушкина, здание 41/2；БИН 181140013835）+ niac.kz/181140013835（Действующая；Нурпеисова Алина Бакытжановна；ОКЭД 47.99.9）+ wikicity.kz（Оптовая торговля прочей техникой；Малое предприятие 11-15 чел.）；2026-10-29",
+   "url": "https://niac.kz/181140013835",
+   "number": "БИН 181140013835",
+   "status": "存续（niac 2026）",
+   "incorporated": "2018",
+   "company_type": "ТОО（有限责任合伙）",
+   "sic": [
+    "其他设备批发 / 店外零售（阿斯塔纳；招标供应商）"
+   ],
+   "address": "ул. Александра Пушкина 41/2, район Байқоңыр, Астана 010000, Kazakhstan",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（11–15）",
+   "officers": [
+    "Alina Nurpeisova（Нурпеисова Алина Бакытжановна）— Руководитель（niac 2026-10-29；无公开邮箱）；表内 invest_01otp@mail.ru 身份不明"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**招标杂货供应商 + 无对口需求 + mail.ru 身份不明 → 不动（B 保留；来询按分销 20% 报 + 预付 100%）**— 哈萨克斯坦常规：英文稿、20 / 25 / 30 + T/T 预付 100%（哈国银行）+ FOB 深圳 或 DAP 阿拉木图 / 阿斯塔纳（买方清关；EAC 不声称）"
+   ],
+   "notes": "不动（查无对口业务）；坐实（БИН + 地址 + 负责人 + ОКЭД）。",
+   "code": "SB-799"
+  },
+  "SB-941": {
+   "batch": 121,
+   "name": "ТОО «CompTek CA»（comptek.kz；**zoon / tel-spravochnik / facebook：г. Алматы, проспект Райымбека 165А, 3 этаж, офис 6；+7 727 246-82-21 / -22；n.drobysheva@comptek.kz；企业级 IT 分销（Cisco / Dell / Ubiquiti / Avaya / F5 / SUSE 等，研究档）**）；БИН 1 查未得 → 部分坐实；KP Faim Ahmetzjnov（comtek@mail.ru，阿里 RFQ 来源）；需求 PoE 分离器（不供）；未跟进",
+   "iso": "KZ",
+   "fetched": "2026-10-29",
+   "source": "KZ · 1 次检索：zoon.kz/almaty/shops/distribyutorskaya_kompaniya_comptek_ca（Алматы, Райымбека проспект, 165а, 3 этаж; 6 офис；+7 (727) 246-82-21；comptek.kz）+ almati.tel-spravochnik.ru（CompTek CA, ТОО）+ facebook.com/CompTekCA（n.drobysheva@comptek.kz；+7 7272 46 82 22）；БИН 未得；2026-10-29",
+   "url": "https://zoon.kz/almaty/shops/distribyutorskaya_kompaniya_comptek_ca/",
+   "number": "未取（БИН 1 查未得）",
+   "status": "营业中（2024-11 活动贴）",
+   "incorporated": "未取",
+   "company_type": "ТОО（有限责任合伙）",
+   "sic": [
+    "企业级 IT / 网络设备分销（阿拉木图）"
+   ],
+   "address": "пр. Райымбека 165А, 3 этаж, офис 6, Алматы, Kazakhstan",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "Faim Ahmetzjnov — 联系人（研究档 KP；comtek@mail.ru，阿里 RFQ）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**原厂级 IT 分销（Cisco 等）+ 唯一需求 PoE 分离器（不供）→ 不动（B 保留；来询按分销 20% 报 STC 商用线 + 预付 100%）**— 哈萨克斯坦常规：英文稿、20 / 25 / 30 + T/T 预付 100%（哈国银行）+ FOB 深圳 或 DAP 阿拉木图 / 阿斯塔纳（买方清关；EAC 不声称）"
+   ],
+   "notes": "不动（产品不对位）；部分坐实（名录地址 + 电话；БИН 未取）。",
+   "code": "SB-941"
+  },
+  "SB-102": {
+   "batch": 121,
+   "name": "Denso Electronic Solutions（densoelectronics.com；**官网：Suite 02-37 Compensation House, Broadway / Moffat Roads, Ndola, Zambia；1997 年起电子元件供应 + ICT 方案；+260 212 615190 / 615367；WA +260 977 823 625；sales@**）；PACRA 号 1 查未得 → 部分坐实；表内「网站卖的比较杂」；KP Joedy Snafu；需求工业 MC（仅 STC-110XGE）；未跟进",
+   "iso": "ZM",
+   "fetched": "2026-10-29",
+   "source": "ZM · 1 次检索：densoelectronics.com（Denso Electronic Solutions, based in Ndola CB, trusted source for electronic supplies since 1997；Suite 02-37 Compensation House - Broadway/ Moffat Roads, Ndola；+260212615190；Sales@densoelectronics.com）+ zambiadirectory.com（Ndola, Copperbelt）；PACRA 未得；2026-10-29",
+   "url": "https://www.densoelectronics.com/",
+   "number": "未取（PACRA 号 1 查未得）",
+   "status": "营业中（官网 2026）",
+   "incorporated": "1997",
+   "company_type": "Ltd（推定）",
+   "sic": [
+    "电子元件 / ICT 设备供应（恩多拉，铜带省）"
+   ],
+   "address": "Suite 02-37 Compensation House, Broadway / Moffat Roads, Ndola, Zambia",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "Joedy Snafu — 联系人（研究档 KP；sales@densoelectronics.com）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**电子 / ICT 综合供应商（有进口经验）→ 分销 20% B，一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-110XGE $65 一口价 + MOQ 1；千兆工业 MC 不供明说）— 赞比亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 卢萨卡（买方清关；ZABS 不声称）**；再无回声 → 不动"
+   ],
+   "notes": "分销 20%；一页纸一次（预付 100%）；部分坐实（官网地址 + 成立年；PACRA 未取）。",
+   "code": "SB-102"
+  },
+  "SB-1120": {
+   "batch": 121,
+   "name": "Obmac Systems（obmacsystems.com；**官网：2007-02-13 成立，ICT / 电气 / 机械项目与采购（恩多拉起家，现卢萨卡）；创始人 / CEO Pythias Kachepa（领英：Director Operations 2007–09 → CEO 2009–今，2013–14 南苏丹 Toplinks）；datanyze 约 7 人、营收约 $2.6M**）；PACRA 号 1 查未得 → 部分坐实；**2024-01 已成单 $9,350（PI 包「gg」）**；2025 起 9 次群发无回复；KP Pythias Kachepa（pythiask@gmail.com）",
+   "iso": "ZM",
+   "fetched": "2026-10-29",
+   "source": "ZM · 1 次检索：obmacsystems.com（founded on February 13th 2007；Telecommunications, Electrical and Mechanical projects and procurement；Pythias Kachepa Founder）+ linkedin.com/in/pythias-kachepa-7a097618（CEO Obmac Systems Feb 2009 - Present；Director Operations 2007-2009 Ndola）+ datanyze（Employees 7；Revenue $2.6M）；PACRA 未得；2026-10-29",
+   "url": "http://obmacsystems.com/",
+   "number": "未取（PACRA 号 1 查未得）",
+   "status": "营业中（官网 + 领英）",
+   "incorporated": "2007-02-13",
+   "company_type": "Ltd（推定）",
+   "sic": [
+    "ICT / 电气 / 机械项目承包与采购（卢萨卡）"
+   ],
+   "address": "未取（Lusaka, Zambia；起家 Ndola）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（约 7 人）",
+   "officers": [
+    "Pythias Kachepa — Founder / CEO / Managing Director（官网 + 领英 2026-10-29 吻合；研究档 KP pythiask@gmail.com）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**★ 已成单（2024-01 $9,350）+ 创始人 CEO 为 KP → 复购一页纸一次（STC-4248 系列复购价 + STI-154GP / STI-288DGGPM $137 太阳能 EPC 配套 DIN 机 + MOQ 1）— 赞比亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 卢萨卡（买方清关；ZABS 不声称）**；Simon 定级「gg 难复购」→ B 保留，回信即升 A 候选"
+   ],
+   "notes": "复购（集成商 25%）；一页纸一次（预付 100%）；部分坐实（官网成立日 + 领英 CEO；PACRA 未取）；★ 回信即升。",
+   "code": "SB-1120"
+  },
+  "SB-222": {
+   "batch": 121,
+   "name": "赞比亚 WhatsApp 联系人（+260 97；**无邮箱 / 姓名 / 公司 → 0 查**）— WA 5 次实质回复，「小工业机近期可能有需求」；2026-06 主动问价；无群发",
+   "iso": "ZM",
+   "fetched": "2026-10-29",
+   "source": "0 查（无邮箱 / 公司）；2026-10-29",
+   "url": "",
+   "number": "0 查",
+   "status": "互动中（WA 5 次）",
+   "incorporated": "—",
+   "company_type": "未知",
+   "sic": [
+    "未知（赞比亚）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "未知",
+   "officers": [
+    "（未具名；WA +260 97…）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**WA 多次实质回复 + 工业小机需求 → 集成商 25% B，WA 一页纸一次（STI-054GP / STI-154GP / STI-280GE $46.6 一口价 + MOQ 1 + 付费样机）— 赞比亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 卢萨卡（买方清关；ZABS 不声称）**；同时问公司名 / 邮箱（一句话）"
+   ],
+   "notes": "集成商 25%；WA 一页纸一次（预付 100%）；0 查（无身份）。",
+   "code": "SB-222"
+  },
+  "SB-865": {
+   "batch": 121,
+   "name": "Kennedy Bulaya（hotmail；**无公司名 → 0 查**）— 赞比亚 IT 承包 / 网络，2022 起多次与 e. 账号来往；需求 Cisco 兼容交换机 + 10G DAC（不供）；WA 无回复",
+   "iso": "ZM",
+   "fetched": "2026-10-29",
+   "source": "0 查（hotmail + 无公司名）；2026-10-29",
+   "url": "",
+   "number": "0 查",
+   "status": "互动中（2022–）",
+   "incorporated": "—",
+   "company_type": "个人 / 微型",
+   "sic": [
+    "IT 承包（赞比亚）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型",
+   "officers": [
+    "Kennedy Bulaya — 联系人（研究档 KP；hotmail）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**需求 Cisco 兼容 + DAC（不供）+ 无公司 → 不动（B 保留；来询按集成商 25% 报 STC-4424GCPM $165 + 预付 100%）**— 赞比亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 卢萨卡（买方清关；ZABS 不声称）"
+   ],
+   "notes": "不动（产品不对位 + 个人）；0 查。",
+   "code": "SB-865"
+  },
+  "SB-1027": {
+   "batch": 121,
+   "name": "Everbest Technologies Limited 永佳科技有限公司（everbesthk.com；**inriskable 镜像：CR No. 334414，BR No. 15215848；官网 contact：14/F Wing Hang Insurance Building, 11 Wing Kut Street, Central；+852 2541 2982；sales@；1991 年起港澳代理（ATEN 官方 where-to-buy 2026 列名；研究档 Zyxel / LevelOne / DrayTek 等）**）→ 坐实；KP Allen Chan（Director）/ Ariel Cheng（PM）；未跟进",
+   "iso": "HK",
+   "fetched": "2026-10-29",
+   "source": "HK · 1 次检索：inriskable.com/business_info/company/hk/15215848（永佳科技有限公司 EVERBEST TECHNOLOGIES LIMITED；Business registration number 15215848；Company registration number 334414）+ everbesthk.com/contact（14th Floor, Wing Hang Insurance Building, 11 Wing Kut Street, Central；(852) 2541 2982；since 1991）+ aten.com where-to-buy HK（Everbest Technologies Ltd.）；2026-10-29",
+   "url": "https://www.inriskable.com/business_info/company/hk/15215848",
+   "number": "CR No. 334414；BR No. 15215848",
+   "status": "存续（官网 + ATEN 2026 列名）",
+   "incorporated": "约 1991（自述）",
+   "company_type": "Limited（私人有限）",
+   "sic": [
+    "IT / 网络产品港澳分销（中环）"
+   ],
+   "address": "14/F Wing Hang Insurance Building, 11 Wing Kut Street, Central, Hong Kong",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "Allen Chan — Director（研究档 KP；everbesthk.com）= 收件人",
+    "Ariel Cheng — Product Manager（研究档 KP）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**多品牌网络产品分销（在代 LevelOne / Zyxel 类交换机）→ 分销 20% B，一页纸一次（STC-028GP $28 / STC-2224GP $86 / STC-4424GCPM $165 / STI-154GP 一口价 + MOQ 1 + 付费样机；在代品牌不点名）— 香港常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 香港（免税；OFCA 不声称）**；回信 → 加厚"
+   ],
+   "notes": "分销 20%；一页纸一次（预付 100%）；坐实（CR + BR 号 + 地址）。",
+   "code": "SB-1027"
+  },
+  "SB-219": {
+   "batch": 121,
+   "name": "Siera Electronics（sieraelectronics.com；Siera Holding Group 成员，面向拉美西语市场；**领英 / contactout：565-567 Nathan Road, Unit 2201B, 22/F, Kowloon；1995 年成立；自有品牌安防（Sieco 摄像机、门禁、对讲、音响）；11–50 人（领英自报 201–500 偏高）**）；CR 号 1 查未得 → 部分坐实；表内「商用 PoE 用 ONV，自己的 label」；KP Mauro Fleitas（Electronic Engineer，venta@）；群发 18 次无回复",
+   "iso": "HK",
+   "fetched": "2026-10-29",
+   "source": "HK · 1 次检索：hk.linkedin.com/company/siera-electronics（565-567 Nathan Road Unit 2201B, 22/F Kowloon；Founded 1995；manufactures … Electronic Security, CCTV, Access Control）+ contactout.com（11-50 employees；same address）；CR 未得；2026-10-29",
+   "url": "https://hk.linkedin.com/company/siera-electronics",
+   "number": "未取（CR 号 1 查未得）",
+   "status": "营业中（领英 2026 更新）",
+   "incorporated": "1995",
+   "company_type": "Limited（推定）",
+   "sic": [
+    "自有品牌安防电子（九龙；拉美市场）"
+   ],
+   "address": "565-567 Nathan Road, Unit 2201B, 22/F, Kowloon, Hong Kong",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（11–50）",
+   "officers": [
+    "Mauro Fleitas — Electronic Engineer（研究档 KP；venta@sieraelectronics.com）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有 label 商用 PoE 在售（他牌贴标）→ 贴标 OEM 30% B，最后一次一页纸（STC-028GP $28 / STC-2216GP / STC-2224GP $86 Siera 贴标 + MOQ + 付费样机；在供品牌不点名；西语备注）— 香港常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 香港（免税；OFCA 不声称）**；18×0 → 再无回声 → 不动"
+   ],
+   "notes": "贴标 OEM 30%；最后一次一页纸（预付 100%）；部分坐实（领英地址 + 成立年；CR 未取）。",
+   "code": "SB-219"
+  },
+  "SB-705": {
+   "batch": 121,
+   "name": "Eware Networks Limited（eware.com.hk；**官网 contact：Unit 2102-03, 21/F, Two Sky Parc, 51 Hung To Road, Kwun Tong；+852 2565 0165；info@ / sales@；广州 / 深圳支持热线；whois 旧址 Rm 1107 Futura Plaza, How Ming Street；视频会议 / IP 电话 / UC 方案商（研究档 Yealink 类）**）；CR 号 1 查未得 → 部分坐实；KP Ivan Lau（System Engineer）；群发 8 次无回复",
+   "iso": "HK",
+   "fetched": "2026-10-29",
+   "source": "HK · 1 次检索：eware.com.hk/en/contact_us（Head Office Unit 2102-03, 21/F, Two Sky Parc, 51 Hung To Road, Kwun Tong；+852 25650165；info@eware.com.hk）+ eware.com.hk career（Eware Networks Limited）+ webrate whois（EWARE NETWORKS LTD；Rm.1107, Futura Plaza）；CR 未得；2026-10-29",
+   "url": "https://www.eware.com.hk/en/contact_us/",
+   "number": "未取（CR 号 1 查未得）",
+   "status": "营业中（官网在）",
+   "incorporated": "未取",
+   "company_type": "Limited（私人有限）",
+   "sic": [
+    "UC / 视频会议 / IP 电话方案集成（观塘；穗深支持）"
+   ],
+   "address": "Unit 2102-03, 21/F, Two Sky Parc, 51 Hung To Road, Kwun Tong, Kowloon, Hong Kong",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "Ivan Lau — System Engineer（研究档 KP；info@eware.com.hk）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**UC 集成商（IP 话机 / AP 供电配套）→ 集成商 25% B，最后一次一页纸（STC-2216GP / STC-2224GP $86 / STC-4424GCPM $165 一口价 + MOQ 1 + 付费样机）— 香港常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 香港（免税；OFCA 不声称）**；8×0 → 再无回声 → 不动"
+   ],
+   "notes": "集成商 25%；最后一次一页纸（预付 100%）；部分坐实（官网地址 + 电话；CR 未取）。",
+   "code": "SB-705"
+  },
+  "SB-717": {
+   "batch": 121,
+   "name": "SkyWare ProTech Limited（skyware.com.hk；**官网 contact：Room 3806A, 38/F, Cable TV Tower, 9 Hoi Shing Road, Tsuen Wan；+852 3106 0868；sales@；tradeeasy 同址；2017 年 SensMax 客流系统经销时名 Skyware Technologies Limited（Wing Hing Industrial Bldg, Tsuen Wan）；可编程网络设备 HMP200（研究档）**）；CR 号 1 查未得 → 部分坐实；无具名 KP；群发 8 次无回复",
+   "iso": "HK",
+   "fetched": "2026-10-29",
+   "source": "HK · 1 次检索：skyware.com.hk/en/contact.php（SkyWare ProTech Limited；Room 3806A, Cable TV Tower 9 Hoi Shing Road, Tsuen Wan；(852) 3106 0868；sales@skyware.com.hk）+ tradeeasy.com/supplier/841625（Skyware Protech Limited；同址）+ sensmax.eu 2017（Skyware Technologies Limited）；CR 未得；2026-10-29",
+   "url": "http://www.skyware.com.hk/en/contact.php",
+   "number": "未取（CR 号 1 查未得）",
+   "status": "营业中（官网在）",
+   "incorporated": "约 2001（自述）",
+   "company_type": "Limited（私人有限）",
+   "sic": [
+    "可编程网络 / 楼宇 IoT 设备（荃湾）"
+   ],
+   "address": "Room 3806A, 38/F, Cable TV Tower, 9 Hoi Shing Road, Tsuen Wan, N.T., Hong Kong",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "（无具名 KP：sales@skyware.com.hk；Attn: Sales Manager）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**楼宇 IoT / 可编程设备商（配套工业小机）→ 集成商 25% B，最后一次一页纸（STI-054GP / STI-154GP / STI-280GE $46.6 一口价 + MOQ 1）— 香港常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 香港（免税；OFCA 不声称）**；8×0 → 再无回声 → 不动"
+   ],
+   "notes": "集成商 25%；最后一次一页纸（预付 100%）；部分坐实（官网地址 + 电话；CR 未取）。",
+   "code": "SB-717"
+  },
+  "SB-202": {
+   "batch": 121,
+   "name": "Engineering Group Contractors (EGC)（egc-lb.com；**官网 contact：Beirut, Kornich El Mazraa, Ibn El Asir St., Borj Al Jazeera Bldg.；+961 1 701546；info@；crunchbase：安防设备分销商，11–50，创始人 / GM Mohammad Hammoud（= 研究档 KP ✓）；RocketReach：1988 年成立、约 7 人、避雷接地系统 + 安防分销 / 集成**）；商业登记号 1 查未得 → 部分坐实；曾谈 30 台 2 光 10 电环网（研究档）；WA 19 次无实质回复",
+   "iso": "LB",
+   "fetched": "2026-10-29",
+   "source": "LB · 1 次检索：egc-lb.com/contact（Lebanon, Beirut, Kornich El Mazraa, Ibn El Asir St., Borj Al Jazeera Bldg.；info@egc-lb.com）+ crunchbase（distributor of electronic and security equipment；11-50；Mohammad Hammoud Founder and General Manager；+961 1 701546）+ rocketreach（Founded 1988；Employees 7；distributors/Integrator of security equipment and Lightning-Earthing Systems）；登记号未得；2026-10-29",
+   "url": "https://egc-lb.com/contact",
+   "number": "未取（贝鲁特商业登记号 1 查未得）",
+   "status": "营业中（官网 2025-09）",
+   "incorporated": "1988",
+   "company_type": "SARL（推定）",
+   "sic": [
+    "安防设备分销 / 集成 + 避雷接地（贝鲁特）"
+   ],
+   "address": "Borj Al Jazeera Bldg., Ibn El Asir St., Corniche El Mazraa, Beirut, Lebanon",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（7–50）",
+   "officers": [
+    "Mohammad Hammoud — Founder / General Manager（crunchbase + 领英 2026-10-29 吻合；研究档 KP egc@egc-lb.com）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**GM 为 KP + 曾谈 30 台环网 → 集成商 25% B，最后一次一页纸（STI-288DGGPM $137 ×30 环网 ERPS 一口价 + STC-228GP $33 接入；光端机 / VC 不供明说）— 黎巴嫩常规：英文稿、20 / 25 / 30 + T/T 预付 100%（不接受信用证）+ FOB 深圳 或 DAP 贝鲁特（买方清关）**；19×0 → 再无回声 → 不动"
+   ],
+   "notes": "集成商 25%；最后一次一页纸（预付 100%）；部分坐实（官网地址 + 企业库成立年 + GM；登记号未取）。",
+   "code": "SB-202"
+  },
+  "SB-296": {
+   "batch": 121,
+   "name": "BHS Media / BHS Telecommunications（bhs-media.com；**官网 Contact-Us：Head Office No.401, Building No.1, Dubai Media City, Sheikh Zayed Road, Dubai, UAE；+971 4 551 5523；info@；ZoomInfo 约 20 人；卫星上行 / 转播车 / 远程制作服务商 → 表内国别「黎巴嫩」= KP 电话归属，实体在迪拜 → country_fix 阿联酋**）；迪拜执照号未取 → 部分坐实；KP Khalil Haidar（Director）；需求 HDMI over IP 延长（不供）；未跟进",
+   "iso": "AE",
+   "fetched": "2026-10-29",
+   "source": "AE · 1 次检索：bhs-media.com/Contact-Us（Head Office: No.401, Building No.1, Dubai Media City, Sheikh Zayed Road, Dubai, UAE；Tel +97145515523）+ zoominfo.com/c/bhs-media/375098581（20 employees；MPEG2/4 DVB-S/S2 … BHS TELECOMMUNICATIONS）；执照号未得；2026-10-29",
+   "url": "http://bhs-media.com/Contact-Us",
+   "number": "未取（Dubai Media City 执照号 1 查未得）",
+   "status": "营业中（官网 + ZoomInfo）",
+   "incorporated": "未取",
+   "company_type": "FZ-LLC（推定，Dubai Media City）",
+   "sic": [
+    "卫星上行 / 广播传输服务（迪拜媒体城）"
+   ],
+   "address": "No.401, Building No.1, Dubai Media City, Sheikh Zayed Road, Dubai, UAE",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（约 20 人）",
+   "officers": [
+    "Khalil Haidar — Director（研究档 KP；k.haidar@bhs-media.com）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**广播 / 卫星服务商 + 需求 HDMI over IP（不供）→ 不动（B 保留；来询按集成商 25% 报 STC-4424GCPM $165 IP 制作网交换）— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关）**"
+   ],
+   "notes": "不动（产品不对位 + 非目标行业）；部分坐实（官网地址 + 人数；执照号未取）；country_fix 阿联酋。",
+   "code": "SB-296"
+  },
+  "SB-324": {
+   "batch": 121,
+   "name": "Melhem Trading Co. SARL (MTCO)（mtco-lb.com；**kompass：Ground floor, Riachi building, Dora highway, Bauchrieh (Metn)；2004 年起（黎巴嫩 + 尼日利亚）；所有者 Adnan A. Melhem（= 研究档 KP ✓）/ Rouba N. Khoury / Jad A. Melhem；进口分销 CCTV / 线缆 / 灯光 / 音响 / 通信 / 门禁，自有产品（韩 / 中 / 台代工）；+961 1 245 000；info@**）；商业登记号 1 查未得 → 部分坐实；KP Adnan Melhem（MD）；未跟进",
+   "iso": "LB",
+   "fetched": "2026-10-29",
+   "source": "LB · 1 次检索：lb.kompass.com/c/melhem-trading-co-sarl/lb023964（Melhem Trading Co. Sarl；Ground floor, Riachi building, Dora highway, Bauchrieh (Metn)；established since 2004 in Lebanon and Nigeria；Main owners Mr. Adnan A Melhem, Ms. Rouba N Khoury, Mr. Jad A Melhem；own products … Korea, China, Taiwan）+ crunchbase（11-50；+961 1 245 000；info@mtco-lb.com）+ yelleb（Dora, Beirut）；登记号未得；2026-10-29",
+   "url": "https://lb.kompass.com/c/melhem-trading-co-sarl/lb023964/",
+   "number": "未取（商业登记号 1 查未得）",
+   "status": "营业中（官网 + 名录）",
+   "incorporated": "2004",
+   "company_type": "SARL",
+   "sic": [
+    "CCTV / 线缆 / 灯光 / 通信进口分销 + 自有品牌（Bauchrieh, Metn）"
+   ],
+   "address": "Ground floor, Riachi Building, Dora Highway, Bauchrieh (Metn), Lebanon",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（11–50）",
+   "officers": [
+    "Adnan Melhem — Owner / Managing Director（kompass 2026-10-29 吻合；研究档 KP melhem@mtco-lb.com）= 收件人",
+    "Jad A. Melhem — Owner（kompass；无公开邮箱）",
+    "Rouba N. Khoury — Owner（kompass；无公开邮箱）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**进口分销商 + 自有品牌代工经验 → 分销 20%（STC-028GP $28 / STC-2216GP / STC-2224GP $86）↔ 贴标 OEM 30% 双轨 B，一页纸一次（MOQ 1 / 贴标 MOQ + 付费样机）— 黎巴嫩常规：英文稿、20 / 25 / 30 + T/T 预付 100%（不接受信用证）+ FOB 深圳 或 DAP 贝鲁特（买方清关）**；回信 → 加厚"
+   ],
+   "notes": "分销 20% ↔ 贴标 30% 双轨；一页纸一次（预付 100%）；部分坐实（kompass 地址 + 成立年 + 所有者；登记号未取）。",
+   "code": "SB-324"
+  },
+  "SB-327": {
+   "batch": 121,
+   "name": "Techno Tower SARL（technotower-lb.com；**kompass：Ground floor, Abou Karam 1 building, Jdeideh (Metn), P.O. Box 90-1776；成立 1998（官网口径 1989）；所有者 Fadi J. Abou Jaoudeh / Grace Y. Abou Jaoudeh；自动化 / 安防 / CCTV / 消防 / 卫星 / 灯光设备进口分销商**）；商业登记号 1 查未得 → 部分坐实；KP Amine Abou Jaoude（GM，家族同姓）2024-04 问价（研究档）；无回复",
+   "iso": "LB",
+   "fetched": "2026-10-29",
+   "source": "LB · 1 次检索：lb.kompass.com/c/techno-tower-sarl/lb015188（Techno Tower Sarl；Ground floor, Abou Karam 1 building, Jdeideh (Metn) P.O.Box 90-1776；Founded in 1998；Main owners Mr. Fadi J Abou Jaoudeh, Ms. Grace Y Abou Jaoudeh；Distributor Service Importer）+ indexoflebanon（Techno Tower, Jdeideh）；登记号未得；2026-10-29",
+   "url": "https://lb.kompass.com/c/techno-tower-sarl/lb015188/",
+   "number": "未取（商业登记号 1 查未得）",
+   "status": "营业中（官网 + 名录）",
+   "incorporated": "1998（官网 1989）",
+   "company_type": "SARL",
+   "sic": [
+    "自动化 / 安防 / CCTV / 消防 / 灯光进口分销（Jdeideh, Metn）"
+   ],
+   "address": "Ground floor, Abou Karam 1 Building, Jdeideh (Metn), P.O. Box 90-1776, Lebanon",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "Amine Abou Jaoude — General Manager（研究档 KP；amine@technotower-lb.com）= 收件人",
+    "Fadi J. Abou Jaoudeh — Owner（kompass 2026-10-29；无公开邮箱）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**进口分销商 + GM 曾问价 → 分销 20% B，一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-2216GP / STC-2224GP $86 一口价 + MOQ 1 + 付费样机）— 黎巴嫩常规：英文稿、20 / 25 / 30 + T/T 预付 100%（不接受信用证）+ FOB 深圳 或 DAP 贝鲁特（买方清关）**；再无回声 → 不动"
+   ],
+   "notes": "分销 20%；一页纸一次（预付 100%）；部分坐实（kompass 地址 + 成立年 + 所有者；登记号未取）。",
+   "code": "SB-327"
+  },
+  "SB-703": {
+   "batch": 121,
+   "name": "Engitel（engitel.com.mx；**1 查仅命中意大利 Engitel S.p.A.（engitel.com，米兰）→ 墨西哥本体未命中 → 未坐实**；研究档：IT 咨询 / 网络小型企业，自站 RFQ「2 光 10 电」）；KP Enrique Camberos；无回复",
+   "iso": "MX",
+   "fetched": "2026-10-29",
+   "source": "MX · 1 次检索：「\"Engitel\" engitel.com.mx S.A. de C.V.」→ engitel.com/en/privacy（Engitel S.p.A, Via Zarotto 6, Milan）≠ 本户；无墨西哥命中；2026-10-29",
+   "url": "",
+   "number": "未取（1 查未命中本体）",
+   "status": "营业中（研究档官网）",
+   "incorporated": "未取",
+   "company_type": "S.A. de C.V.（推定）",
+   "sic": [
+    "IT 咨询 / 网络（墨西哥）"
+   ],
+   "address": "未取（Mexico）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（推定）",
+   "officers": [
+    "Enrique Camberos — 联系人（研究档 KP；ecamberos@engitel.com.mx）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自站 RFQ 2 光 10 电 → 集成商 25% B，一页纸一次（STI-288DGGPM $137 2 SFP + 8 GE 或 STC-2216GP 16+2 一口价 + MOQ 1；西语备注）— 墨西哥常规：英文稿（可附西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关；NOM / IFT 不声称）**；再无回声 → 不动"
+   ],
+   "notes": "集成商 25%；一页纸一次（预付 100%）；未坐实（1 查无命中）。",
+   "code": "SB-703"
+  },
+  "SB-892": {
+   "batch": 121,
+   "name": "Telcofusion（telcofusion.com.mx；**1 查无命中 → 未坐实**；gmail 联系）— 电信承包 / 安装商（研究档）；需求反向 PoE（不供）+ 2024-08 问 10G MC ×4；KP Jose Gregorio；WA 15 次无实质回复",
+   "iso": "MX",
+   "fetched": "2026-10-29",
+   "source": "MX · 1 次检索：「\"Telcofusion\" telcofusion.com.mx」→ 无结果；2026-10-29",
+   "url": "",
+   "number": "未取（1 查无命中）",
+   "status": "未知",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "电信承包 / 安装（墨西哥）"
+   ],
+   "address": "未取（Mexico）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（推定）",
+   "officers": [
+    "Jose Gregorio — 联系人（研究档 KP；telcofusion1@gmail.com）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**曾问 10G MC ×4 → 集成商 25% B，最后一次一页纸（STC-110XGE $65 ×4 一口价 + 运费；反向 PoE 不供明说；西语备注）— 墨西哥常规：英文稿（可附西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关；NOM / IFT 不声称）**；15×0 → 再无回声 → 不动"
+   ],
+   "notes": "集成商 25%；最后一次一页纸（预付 100%）；未坐实（1 查无命中）。",
+   "code": "SB-892"
+  },
+  "SB-927": {
+   "batch": 121,
+   "name": "RARMX Engineering, S.A. de C.V.（rarmx.com.mx；**tendata 进口记录：2025-08 自中 / 美 7 家供应商进口控制模块 / 过滤设备件（HS 9027 / 9030 / 9026）→ 真实进口主体；研究档：蒙特雷水处理 / 工程（+52 81）**；RFC / 地址 1 查未得 → 部分坐实；**阿里巴巴 RTS 已成单「5 电口」**；KP Marisol Mendoza（info@）；需求小工业机",
+   "iso": "MX",
+   "fetched": "2026-10-29",
+   "source": "MX · 1 次检索：tendata.com/en/supplier/rarmx-engineering-sa-de-cv（RARMX ENGINEERING SA DE CV；Mexico；rarmx.com.mx；imported CONTROL MODULE, FILTER HOLDER, PARTS OF FILTRATION EQUIPMENT 08 Aug 2025；7 suppliers from China and United States）；RFC / 地址未得；2026-10-29",
+   "url": "https://www.tendata.com/en/supplier/rarmx-engineering-sa-de-cv-MEXI31753e9e9e4fdc3f8b4320b2d01d1f14.html",
+   "number": "未取（RFC 1 查未得；法人形式 S.A. de C.V. 已核）",
+   "status": "营业中（2025-08 进口记录）",
+   "incorporated": "未取",
+   "company_type": "S.A. de C.V.",
+   "sic": [
+    "水处理 / 工程（蒙特雷）"
+   ],
+   "address": "未取（Monterrey, N.L., Mexico）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（推定）",
+   "officers": [
+    "Marisol Mendoza — 联系人（研究档 KP；info@rarmx.com.mx）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**★ 阿里 RTS 已成单（5 电口）+ 真实进口主体 → 复购一页纸一次（STI-054GP / STI-280GE $46.6 / STI-154GP 水厂 DIN 机一口价 + MOQ 1；西语备注）— 墨西哥常规：英文稿（可附西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关；NOM / IFT 不声称）**；回信即升 A 候选"
+   ],
+   "notes": "复购（集成商 25%）；一页纸一次（预付 100%）；部分坐实（进口记录 + 法人形式；RFC 未取）；★ 回信即升。",
+   "code": "SB-927"
+  },
+  "SB-960": {
+   "batch": 121,
+   "name": "Electrónica Steren, S.A. de C.V.（steren.com.mx；**D&B / verif：Biólogo Maximino Martínez No. 3408, Col. San Salvador Xochimanca, Azcapotzalco, CDMX 02870；电子产品批发 + 自有品牌连锁零售（墨西哥 / 拉美）；volza：进口 69,873 票 / 539 家供应商；D&B 主要负责人 Goyazlay Keri González Rodríguez**）；RFC 未取 → 部分坐实（大型）；表内「自有品牌商用 PoE，HRUI 在供」→ Q-33 口径待 Simon；无具名 KP（info@）；未跟进",
+   "iso": "MX",
+   "fetched": "2026-10-29",
+   "source": "MX · 1 次检索：dnb.com（Electrónica Steren, S.A. de C.V.；Biólogo Maximino Martínez No. 3408 San Salvador Xochimanca, Azcapotzalco 02870；Key Principal Goyazlay Keri González Rodríguez）+ verif.com（Active；4652 Wholesale of electronic and telecommunications equipment）+ volza（69,873 import shipments；539 suppliers）；RFC 未得；2026-10-29",
+   "url": "https://www.dnb.com/business-directory/company-profiles.electr%C3%B3nica_steren_sa_de_cv.d226ba7d6e837eca174c082fca0c32c6.html",
+   "number": "未取（RFC 不公开）",
+   "status": "Active（verif）",
+   "incorporated": "未取（1956 起，研究档）",
+   "company_type": "S.A. de C.V.",
+   "sic": [
+    "电子产品批发 + 自有品牌连锁零售（墨西哥城）"
+   ],
+   "address": "Biólogo Maximino Martínez No. 3408, Col. San Salvador Xochimanca, Azcapotzalco, Ciudad de México 02870, Mexico",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "大型（连锁）",
+   "officers": [
+    "Goyazlay Keri González Rodríguez — Key Principal（D&B 2026-10-29；无公开邮箱）；收件 info@steren.com.mx"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌商用 PoE 且 HRUI 在供 → Q-33 口径待 Simon（只推 SmartByte / Marvell 管理 + 工业线：STC-4424GCPM $165 / STI 系列贴标 OEM 30%）→ 口径定前不动（B 保留）**— 墨西哥常规：英文稿（可附西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关；NOM / IFT 不声称）"
+   ],
+   "notes": "不动（Q-33 口径待定；同 SB-523 / SB-1102）；部分坐实（D&B 地址 + 进口记录；RFC 未取）。",
+   "code": "SB-960"
   }
  }
 }
