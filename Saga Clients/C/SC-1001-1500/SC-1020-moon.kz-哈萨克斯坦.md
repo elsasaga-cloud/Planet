@@ -2,12 +2,15 @@
 
 > **评级 C**　|　哈萨克斯坦　|　档案编号 `SC-1020`　|　优先级 —　|　状态：已推送 18 次·未回复
 >
+> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：哈萨克斯坦 Moon.kz（moon.kz；ONV 很多产品）：进口中国同类 ✔ 对位 ✔ 俄语区先例（NAG KZ）；群发 18 次 0 回 → 闸 2 查底数（statsnet）；收款待定，低优先
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 18 次（2024-05-10 → 2025-10-17）　|　**所在清单**：A优质名单(俄语国家)、AI评估(俄语国家)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-1020
 rating: C
 rating_auto: C
+sieve: candidate  # 闸 1 G1 2026-10-29
 score: 16
 country: 哈萨克斯坦
 region: 俄语区
@@ -25,7 +28,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -168,8 +171,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 16）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 16）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

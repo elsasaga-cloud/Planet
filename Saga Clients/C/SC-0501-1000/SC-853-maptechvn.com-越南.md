@@ -2,12 +2,15 @@
 
 > **评级 C**　|　越南　|　档案编号 `SC-853`　|　优先级 —　|　状态：名单内·未触达
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：越南 Maptech（maptechvn.com；中科 / 兰奥的）：进口中国同类 ✔ 但四主区外非点名国 → 留 C（储备）
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(JP)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-853
 rating: C
 rating_auto: C
+sieve: keep_C  # 闸 1 G1 2026-10-29
 score: 17
 country: 越南
 region: 亚太
@@ -25,7 +28,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -134,8 +137,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 17）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 17）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

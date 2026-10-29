@@ -2,12 +2,15 @@
 
 > **评级 C**　|　韩国　|　档案编号 `SC-1191`　|　优先级 —　|　状态：发不过去
 >
+> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：韩国 CNG System（cngsystem.com 退信；dialogic.co.kr 正常；表内「CENTEC Switch」）：CENTEC 敲门砖 ✔ Simon 点名韩国；退信 ≠ 死 → 闸 2 查底数（bizno）+ 换 dialogic.co.kr 地址；低优先
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：A优质名单(KR)、AI评估(KR)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-1191
 rating: C
 rating_auto: C
+sieve: candidate  # 闸 1 G1 2026-10-29
 score: 13
 country: 韩国
 region: 亚太
@@ -24,7 +27,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -145,8 +148,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 13）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 13）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

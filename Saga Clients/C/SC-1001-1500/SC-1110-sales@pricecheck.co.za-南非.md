@@ -2,12 +2,15 @@
 
 > **评级 C**　|　南非　|　档案编号 `SC-1110`　|　优先级 —　|　状态：已推送 5 次·未回复
 >
+> **⛔ 已过筛 · 永久 pass**（闸 1 · G1 · 2026-10-29）：南非 sales@pricecheck.co.za（比价网站 PriceCheck，无域名对应；表内「有 Utepo 的」= 站内商品抓取）非买家；群发 5 次 0 回 → 纯无关非买家，永久 pass —— 不再加厚 / 不群发 / 不监控 / 不进日历；撤销只在客户主动找上门时由 Simon 拍板（`data/saga_clients/sieve.json`）。
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 5 次（2025-06-20 → 2025-11-04）　|　**所在清单**：A优质名单(South Africa)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-1110
 rating: C
 rating_auto: C
+sieve: pass_final  # 闸 1 G1 2026-10-29
 score: 15
 country: 南非
 region: 非洲
@@ -25,7 +28,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -145,8 +148,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 15）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 15）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

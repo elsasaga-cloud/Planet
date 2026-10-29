@@ -2,12 +2,15 @@
 
 > **评级 C**　|　科特迪瓦　|　档案编号 `SC-1032`　|　优先级 —　|　状态：已推送 15 次·未回复
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：科特迪瓦 ATCS（atcs-ci.com；做项目的，展会着重看了 2 光 8 傻瓜式、满意拍照、说展后详谈；WA 加不上）：真互动 ✔ 但非点名国 + 群发 15 次 0 回 → 留 C（储备；回信即候选）
+>
 > **类型**：系统集成/工程商（推断）　|　**历史关系**：推送 15 次（2024-05-10 → 2025-10-06）　|　**所在清单**：A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-1032
 rating: C
 rating_auto: C
+sieve: keep_C  # 闸 1 G1 2026-10-29
 score: 15
 country: 科特迪瓦
 region: 非洲
@@ -25,7 +28,7 @@ price_tier: 25%
 research: pending
 site_snapshot: none
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -170,8 +173,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 15）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 15）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
