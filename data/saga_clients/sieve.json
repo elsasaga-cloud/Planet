@@ -3,11 +3,11 @@
   "updated": "2026-10-29",
   "rules": "docs/C池三闸筛选_方案_2026-10-29.md §2",
   "counts": {
-   "keep_C": 166,
-   "pass_final": 166,
-   "candidate": 26
+   "keep_C": 177,
+   "pass_final": 172,
+   "candidate": 27
   },
-  "n": 358
+  "n": 376
  },
  "SC-001": {
   "verdict": "keep_C",
@@ -26,6 +26,15 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-01"
+ },
+ "SC-003": {
+  "verdict": "pass_final",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国 Westward Sales（Antaira / TRENDnet 增值分销）2025-10-13 Dawn Gumtow 明确要求「Please take us off your email list」→ 客户要求停发（Simon 刚性第 ③ 条）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-03"
  },
  "SC-004": {
   "verdict": "keep_C",
@@ -56,6 +65,15 @@
   "tags": [
    "dayjob_fit"
   ]
+ },
+ "SC-007": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "英国 Born Electronics（2019 注册，Companies House 休眠账目；白牌工业交换机目录站，疑同行壳）→ 休眠 ≠ 注销；1 次回复后无后续；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-03"
  },
  "SC-009": {
   "verdict": "pass_final",
@@ -144,6 +162,15 @@
   "manual": true,
   "batch": "G1-01"
  },
+ "SC-024": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "伊朗 Rayvarz（与 Teltonika / Ewind 合作，WA 已加，2025-01 回 price）→ 制裁口径不主动；活着",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-03"
+ },
  "SC-028": {
   "verdict": "keep_C",
   "gate": 1,
@@ -191,6 +218,18 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-01",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-041": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "伊朗 Pelpaco（VC / AHD 为主，WA 已加，2024-05 回 more specs）→ 制裁口径；光端机类本职可参考",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-03",
   "tags": [
    "dayjob_fit"
   ]
@@ -622,6 +661,15 @@
   "manual": true,
   "batch": "G1-02"
  },
+ "SC-1428": {
+  "verdict": "pass_final",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "阿联酋 Climax Oilfield（2 光 8 长壳询价、2 次回信）表记「9715696 55955 拉黑了」→ 关系已断死（G0-3 口径，因有回信转闸 1 后人判）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-03"
+ },
  "SC-143": {
   "verdict": "keep_C",
   "gate": 1,
@@ -630,6 +678,18 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-02"
+ },
+ "SC-1446": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "葡萄牙 LojaCCTV（卖多种外壳 PoE 的安防网店 / 分销，回过 1 次、16 次跟进）→ 欧洲主区 + 回信 + 对位 ✔ → 闸 2 查底数",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-03",
+  "tags": [
+   "oem_target"
+  ]
  },
  "SC-145": {
   "verdict": "keep_C",
@@ -660,6 +720,18 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-01"
+ },
+ "SC-151": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "俄罗斯 JSC COTTAGE（mail.ru，2V1D，回过 1 次，WA 加不上）→ 俄区 + 光端机类；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-03",
+  "tags": [
+   "dayjob_fit"
+  ]
  },
  "SC-152": {
   "verdict": "keep_C",
@@ -713,6 +785,18 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-01"
+ },
+ "SC-1623": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "南非 Shopfiber / Southern Elements（SmartByte 10G MC / SFP 配件，回过 1 次）→ 表记「Paulo 不跟进了」为我方决定；留 C；光模块本职可参考",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-03",
+  "tags": [
+   "dayjob_fit"
+  ]
  },
  "SC-1662": {
   "verdict": "keep_C",
@@ -771,6 +855,18 @@
   "rule": "G0-2",
   "reason": "表记发不过去 / 退信；growmoreautomation.com NXDOMAIN；无电话、无 WA",
   "date": "2026-10-29"
+ },
+ "SC-1798": {
+  "verdict": "pass_final",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "哥伦比亚 Colbits（百兆工业 MC，2 次回信、21 次跟进）表记「5730457 79427 拉黑了」→ 关系已断死（G0-3 口径）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-03",
+  "tags": [
+   "dayjob_fit"
+  ]
  },
  "SC-1835": {
   "verdict": "keep_C",
@@ -1268,6 +1364,18 @@
   "manual": true,
   "batch": "G1-01"
  },
+ "SC-2365": {
+  "verdict": "pass_final",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "荷兰 MediaChoice Group（8 路 SDI 视频光端机，回过 1 次）表记「+316 18 110037 拉黑了」→ 关系已断死（G0-3 口径）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-03",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-2368": {
   "verdict": "candidate",
   "gate": 1,
@@ -1334,6 +1442,15 @@
   "manual": true,
   "batch": "G1-01"
  },
+ "SC-2401": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "伊朗 SAE-net（ONV 工业 FS / BTON VC，回过 1 次）→ 制裁口径 + 表记 Spam / 不再跟进（我方决定）；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-03"
+ },
  "SC-242": {
   "verdict": "keep_C",
   "gate": 1,
@@ -1342,6 +1459,15 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-02"
+ },
+ "SC-2423": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "Viettel Burundi（运营商，gmail，WA 已加，3 次回信，问 2 光 8 PoE 没成）→ 巨头运营商不 pass；区域外；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-03"
  },
  "SC-2428": {
   "verdict": "keep_C",
@@ -1375,6 +1501,15 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-01"
+ },
+ "SC-2446": {
+  "verdict": "pass_final",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "秘鲁 Jotas Comunicaciones（20 台 8 口 PoE + 70 台 24 口询价，回过 1 次）表记「96222 0939 已加 拉黑了」→ 关系已断死（G0-3 口径）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-03"
  },
  "SC-2452": {
   "verdict": "candidate",
@@ -1415,6 +1550,15 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-02"
+ },
+ "SC-2485": {
+  "verdict": "pass_final",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "乌干达 Trust Security（2 光 2 工业小壳，回过 1 次）表记「25675608 6452 已加 拉黑了」→ 关系已断死（G0-3 口径）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-03"
  },
  "SC-2489": {
   "verdict": "pass_final",
@@ -1529,6 +1673,18 @@
   "manual": true,
   "batch": "G1-01"
  },
+ "SC-258": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "IC Intracom / Intellinet 中国办公室（archieliu@icintracom.com，2 次回信：MC / 工业 FS / SFP / PoE 商业品）→ 中国大陆规则（国内单只走私账）；品牌商采购口在国内 → oem_target 留档",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-03",
+  "tags": [
+   "oem_target"
+  ]
+ },
  "SC-2580": {
   "verdict": "keep_C",
   "gate": 1,
@@ -1573,6 +1729,15 @@
   "tags": [
    "oem_target"
   ]
+ },
+ "SC-262": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "Supermicro（2025-09 两位工程师真回：户外 PoE 温度 / 合规）→ 巨头不 pass；SOHO 体量难进其供应链；留 C 待其再询",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-03"
  },
  "SC-263": {
   "verdict": "keep_C",
@@ -3190,6 +3355,24 @@
   "tags": [
    "oem_target"
   ]
+ },
+ "SC-550": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "BT（Derrick Lewis 懂 WDM / VC / SFP，问 PoE 功率 + IPC，回过 1 次，17 次跟进）→ 巨头运营商不 pass；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-03"
+ },
+ "SC-566": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "Convergint（全美最大安防集成商，Allen Thorpe 回过 1 次，20 次跟进）→ 巨头不 pass；留 C 待其再询",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-03"
  },
  "SC-572": {
   "verdict": "keep_C",

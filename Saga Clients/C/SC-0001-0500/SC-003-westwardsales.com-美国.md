@@ -3,12 +3,15 @@
 
 > **评级 C**　|　美国　|　档案编号 `SC-003`　|　优先级 —　|　状态：有回复·跟进中
 >
+> **⛔ 已过筛 · 永久 pass**（闸 1 · G1 · 2026-10-29）：美国 Westward Sales（Antaira / TRENDnet 增值分销）2025-10-13 Dawn Gumtow 明确要求「Please take us off your email list」→ 客户要求停发（Simon 刚性第 ③ 条） —— 不再加厚 / 不群发 / 不监控 / 不进日历；撤销只在客户主动找上门时由 Simon 拍板（`data/saga_clients/sieve.json`）。
+>
 > **类型**：增值分销商/电商平台（工业）（推断）　|　**历史关系**：实质回复 1 次；推送 1 次（2025-10-12 → 2025-10-12）　|　**所在清单**：E已回复　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-003
 rating: C
 rating_auto: A
+sieve: pass_final  # 闸 1 G1 2026-10-29
 rating_research: C  # c_sub=明确退订；2025-10-13 Dawn Gumtow 要求移出邮件列表（Please take us off your emailing list
 name_official: "Westward Sales, Inc.（Buena Vista / Aurora, Colorado）"
 score: 83
@@ -27,7 +30,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -221,8 +224,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 83）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 83）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

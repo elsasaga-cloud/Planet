@@ -2,12 +2,15 @@
 
 > **评级 C**　|　乌干达　|　档案编号 `SC-2485`　|　优先级 —　|　状态：有回复·跟进中
 >
+> **⛔ 已过筛 · 永久 pass**（闸 1 · G1 · 2026-10-29）：乌干达 Trust Security（2 光 2 工业小壳，回过 1 次）表记「25675608 6452 已加 拉黑了」→ 关系已断死（G0-3 口径） —— 不再加厚 / 不群发 / 不监控 / 不进日历；撤销只在客户主动找上门时由 Simon 拍板（`data/saga_clients/sieve.json`）。
+>
 > **类型**：安防集成/经销（推断）　|　**历史关系**：实质回复 1 次；WhatsApp 已加；推送 14 次（2022-05-27 → 2023-08-31）　|　**所在清单**：群发(阿里巴巴 自建站/自建站 最早一批)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-2485
 rating: C
 rating_auto: C
+sieve: pass_final  # 闸 1 G1 2026-10-29
 score: -22
 country: 乌干达
 region: 非洲
@@ -24,7 +27,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -151,8 +154,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -22）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -22）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

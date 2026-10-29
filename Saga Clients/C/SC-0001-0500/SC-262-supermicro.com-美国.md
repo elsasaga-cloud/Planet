@@ -3,12 +3,15 @@
 
 > **评级 C**　|　美国　|　档案编号 `SC-262`　|　优先级 —　|　状态：有回复·跟进中
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：Supermicro（2025-09 两位工程师真回：户外 PoE 温度 / 合规）→ 巨头不 pass；SOHO 体量难进其供应链；留 C 待其再询
+>
 > **类型**：服务器/边缘计算巨头（疑为户外边缘机柜内嵌 PoE 板需求）（推断）　|　**历史关系**：实质回复 1 次；推送 1 次（2025-09-18 → 2025-09-18）　|　**所在清单**：A已回复　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-262
 rating: C
 rating_auto: C
+sieve: keep_C  # 闸 1 G1 2026-10-29
 name_official: "Super Micro Computer, Inc.（美国 San Jose；服务器巨头）— 3 位具名 KP：Michael Chao、Elizabeth Wang (Arch)、Deepali Velayuthan（Global Director BD）"
 score: 31
 country: 美国
@@ -27,7 +30,7 @@ price_tier: 30%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-25
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -216,8 +219,8 @@ Saga Telecom - sagatele.com
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 31）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 31）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
