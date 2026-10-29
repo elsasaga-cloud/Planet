@@ -45,7 +45,8 @@
    "title": "Electronic Engineer",
    "email": "venta@sieraelectronics.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Electronic Engineer（研究档 KP）= 收件人 — 最后一次一页纸：贴标 OEM 30% B、STC-028GP $28 / STC-2216GP / STC-2224GP $86 Siera 贴标 + MOQ + 付费样机；在供 ONV 不点名；西语备注 — 香港常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 香港（免税）（第 121 批 官方登记核实 2026-10-29）"
   }
  ],
  "grade_override": null,
@@ -56,8 +57,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "香港",
-  "other": "官网 sieraelectronics.com，语言 en-US，快照状态 ok；角色判定来源：用户表"
+  "hq": "565-567 Nathan Road, Unit 2201B, 22/F, Kowloon, Hong Kong（第 121 批 官方登记核实 2026-10-29）",
+  "other": "官网 sieraelectronics.com，语言 en-US，快照状态 ok；角色判定来源：用户表；第 121 批：自有品牌安防（Sieco）面向拉美，自有 label 商用 PoE 在售 → **贴标 OEM 30% 最后一次一页纸（预付 100%）**；18×0；部分坐实（领英地址 + 成立年）（第 121 批 官方登记核实 2026-10-29）",
+  "legal_name": "Siera Electronics（Siera Holding Group；CR 号 1 查未得）",
+  "founded": "1995（第 121 批 官方登记核实 2026-10-29）",
+  "size": "小型（11–50；领英自报 201–500 偏高）（第 121 批 官方登记核实 2026-10-29）"
  },
  "business_lines": [
   "安防摄像 / CCTV / 对讲 / 云（自有品牌 Siera / Sieco）"

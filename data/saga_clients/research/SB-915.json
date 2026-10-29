@@ -45,14 +45,16 @@
    "title": "Director of Product Management",
    "email": "dave_a@radwin.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Director of Product Management（研究档 KP）= 收件人 — 一页纸一次：贴标 OEM 30% B、CPE / IDU 配套 PoE 交换机贴标（STC-028GP $28 / STC-228GP $33 + 户外机柜 STI-154GP）+ MOQ + 付费样机；大厂一次即止 — 以色列常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关）、SII 不声称（第 121 批 官方登记核实 2026-10-29）"
   },
   {
    "name": "Sharon Sher",
    "title": "CEO",
    "email": "sharon_sher@radwin.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "CEO（D&B / datanyze 2026-10-29 吻合）（第 121 批 官方登记核实 2026-10-29）"
   }
  ],
  "grade_override": null,
@@ -63,8 +65,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "以色列",
-  "other": "官网 radwin.com，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  "hq": "27 Habarzel St., Tel Aviv 6971039, Israel（+972 3 766 2900）（第 121 批 官方登记核实 2026-10-29）",
+  "other": "官网 radwin.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 121 批：运营商级固定无线 PtP / PtMP 原厂 → 仅配件贴标入口 → **贴标 OEM 30% 一页纸一次（预付 100%）**；部分坐实（企业库地址 + 成立年 + 人数 + CEO）（第 121 批 官方登记核实 2026-10-29）",
+  "legal_name": "RADWIN Ltd（公司号 1 查未得）",
+  "founded": "1997（第 121 批 官方登记核实 2026-10-29）",
+  "size": "大型（约 270 人；营收约 $68M）（第 121 批 官方登记核实 2026-10-29）"
  },
  "business_lines": [
   "固定无线接入 / 回传设备（自有品牌 RADWIN）",

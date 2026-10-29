@@ -46,7 +46,8 @@
    "title": "（职务待核）",
    "email": "comtek@mail.ru",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "联系人（研究档 KP；阿里 RFQ 来源）— 不动：企业级 IT 分销（Cisco / Dell / Ubiquiti 等）+ 唯一需求 PoE 分离器（不供）— 哈萨克斯坦常规：英文稿、20 / 25 / 30 + T/T 预付 100%（哈国银行）+ FOB 深圳 或 DAP 阿拉木图 / 阿斯塔纳、EAC 不声称（第 121 批 官方登记核实 2026-10-29）"
   }
  ],
  "grade_override": null,
@@ -57,8 +58,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "哈萨克斯坦",
-  "other": "官网 comptek.kz，语言 ru，快照状态 ok；角色判定来源：官网文案"
+  "hq": "пр. Райымбека 165А, 3 этаж, офис 6, Алматы, Kazakhstan（+7 727 246-82-21 / -22；n.drobysheva@comptek.kz）（第 121 批 官方登记核实 2026-10-29）",
+  "other": "官网 comptek.kz，语言 ru，快照状态 ok；角色判定来源：官网文案；第 121 批：**不动（产品不对位；来询按分销 20% 报 STC 商用线）**；部分坐实（zoon / tel-spravochnik / facebook 地址）（第 121 批 官方登记核实 2026-10-29）",
+  "legal_name": "ТОО «CompTek CA»（БИН 1 查未得）",
+  "founded": "未取（第 121 批 官方登记核实 2026-10-29）",
+  "size": "小型（第 121 批 官方登记核实 2026-10-29）"
  },
  "business_lines": [
   "网络 / 电信 / 数据中心设备分销（哈萨克斯坦）"

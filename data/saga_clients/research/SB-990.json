@@ -1,124 +1,125 @@
 {
-  "code": "SB-990",
-  "name_official": "Precision Solutions（圣保罗）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（precisionsolutions.com.br，快照 2026-10-21，葡语）",
-  "summary": "巴西光纤网络测试 / 测量 / 认证设备供应商，Director Eduardo Ken（展会对 1.6T、DCI box 感兴趣并拍照，与信泰相熟）；需求为 DWDM/DCI 高端（Saga 无）。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "光纤网络测试、测量与认证设备",
-      "quote": "Equipamentos de teste, medição e certificação para redes de fibra óptica.",
-      "url": "https://precisionsolutions.com.br/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "对 1.6T 很感兴趣，DCI box，拍了照；离开后去了信泰",
-      "quote": "兴趣：对1.6T很感兴趣，DCI box，拍了照",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Eduardo Ken",
-      "title": "Director",
-      "email": "eduardo.ken@precisionsolutions.com.br",
-      "phone": "+55 11 99620 2536",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照：规格外）"
+ "code": "SB-990",
+ "name_official": "Precision Solutions（圣保罗）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（precisionsolutions.com.br，快照 2026-10-21，葡语）",
+ "summary": "巴西光纤网络测试 / 测量 / 认证设备供应商，Director Eduardo Ken（展会对 1.6T、DCI box 感兴趣并拍照，与信泰相熟）；需求为 DWDM/DCI 高端（Saga 无）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "光纤网络测试、测量与认证设备",
+   "quote": "Equipamentos de teste, medição e certificação para redes de fibra óptica.",
+   "url": "https://precisionsolutions.com.br/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Precision Solutions",
-    "founded": "",
-    "hq": "São Paulo, Brazil",
-    "size": "小型测试设备分销",
-    "other": ""
-  },
-  "channels": {
-    "role": "测试设备分销",
-    "region": "巴西"
-  },
-  "risks": [
-    "需求 1.6T / DCI 规格外"
-  ],
-  "saga_fit": {
-    "p1": null,
-    "tier": 20,
-    "why": "DCI / 1.6T 规格外；无主推型。"
-  },
-  "email_hook": "（不主动发送）",
-  "mail_review": {
-    "binding": {
-      "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：对1.6T很感兴趣，DCI box，拍了照」）；Elsa 1:1 去信 2 轮 2026-02-12→2026-08-10（To 仅本户 eduardo.ken@precisionsolutions.com.br；头 msg 19febd481e3f857e 核对无 Bcc，称呼「Hi, Ken」= 个性化逐月 1:1 名单；主题 DWDM Core Switching Solution、24 Port PoE Managed Switch；0 回（Elsa 箱无 Re: 行））（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 2 条）",
-      "type": "—",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "不动（非主攻区；J5：有证据再动）",
-      "lane": "巴西 非主攻",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 0；用户表：「兴趣：对1.6T很感兴趣，DCI box，拍了照」；研究档 risks：需求 1.6T / DCI 规格外"
-    },
-    "situation": "巴西光纤网络测试 / 测量 / 认证设备供应商，Director Eduardo Ken（展会对 1.6T、DCI box 感兴趣并拍照，与信泰相熟）；需求为 DWDM/DCI 高端（Saga 无）。",
-    "need": "DCI / 1.6T 规格外；无主推型。",
-    "breakpoint": "需求 1.6T / DCI 规格外",
-    "saga_now": {
-      "p1": "—",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "DCI / 1.6T 规格外；无主推型。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "首封前知悉：Elsa 已 1:1 去信 2 轮（2026-02-12→2026-08-10，0 回）（第 74 批(m)）；—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2026-02-12",
-        "dir": "out",
-        "who": "Elsa → eduardo.ken@precisionsolutions.com.br",
-        "quote": "DWDM Core Switching Solution（Elsa 1:1 逐月名单第 1/2 轮；To 仅本户）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:eduardo.ken@precisionsolutions.com.br` 全程 complete：2 轮直收；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19c4dc0b1451659e"
-      },
-      {
-        "date": "2026-08-10",
-        "dir": "out",
-        "who": "Elsa → eduardo.ken@precisionsolutions.com.br",
-        "quote": "24 Port PoE Managed Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
-        "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
-        "k": "elsa_1to1",
-        "msg_id": "19febd481e3f857e"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：对1.6T很感兴趣，DCI box，拍了照",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "对 1.6T 很感兴趣，DCI box，拍了照；离开后去了信泰",
+   "quote": "兴趣：对1.6T很感兴趣，DCI box，拍了照",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Eduardo Ken",
+   "title": "Director",
+   "email": "eduardo.ken@precisionsolutions.com.br",
+   "phone": "+55 11 99620 2536",
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "Director（研究档 KP）— 不动：需求 DWDM / DCI / 1.6T 高端（不供）+ 光纤测试仪表分销商（EXFO / Fujikura）— 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（进口税自理）、Anatel 不声称（第 121 批 官方登记核实 2026-10-29）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照：规格外）"
+ },
+ "company_facts": {
+  "legal_name": "Precision Solutions（CNPJ 05.573.595/0001-98；I.E. 149.927.916.115）",
+  "founded": "未取（自述 20+ 年）（第 121 批 官方登记核实 2026-10-29）",
+  "hq": "Avenida Nova Independência 87, conj. 32, Brooklin Paulista, São Paulo - SP 04570-000, Brazil（+55 11 5103-3260）（第 121 批 官方登记核实 2026-10-29）",
+  "size": "小型（第 121 批 官方登记核实 2026-10-29）",
+  "other": "第 121 批：支持站页脚自列 CNPJ + 地址；同名 Precision Solutions Informática 10.730.077 ≠ 本户 → **不动（B 保留；来询按分销 20% 报 STH / STC-110XGE）**；坐实（第 121 批 官方登记核实 2026-10-29）"
+ },
+ "channels": {
+  "role": "测试设备分销",
+  "region": "巴西"
+ },
+ "risks": [
+  "需求 1.6T / DCI 规格外"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "DCI / 1.6T 规格外；无主推型。"
+ },
+ "email_hook": "（不主动发送）",
+ "mail_review": {
+  "binding": {
+   "level": "未发信（S/A 邮箱均无往来；来源：用户表「兴趣：对1.6T很感兴趣，DCI box，拍了照」）；Elsa 1:1 去信 2 轮 2026-02-12→2026-08-10（To 仅本户 eduardo.ken@precisionsolutions.com.br；头 msg 19febd481e3f857e 核对无 Bcc，称呼「Hi, Ken」= 个性化逐月 1:1 名单；主题 DWDM Core Switching Solution、24 Port PoE Managed Switch；0 回（Elsa 箱无 Re: 行））（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 2 条）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "巴西 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：对1.6T很感兴趣，DCI box，拍了照」；研究档 risks：需求 1.6T / DCI 规格外"
+  },
+  "situation": "巴西光纤网络测试 / 测量 / 认证设备供应商，Director Eduardo Ken（展会对 1.6T、DCI box 感兴趣并拍照，与信泰相熟）；需求为 DWDM/DCI 高端（Saga 无）。",
+  "need": "DCI / 1.6T 规格外；无主推型。",
+  "breakpoint": "需求 1.6T / DCI 规格外",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+   "why": "DCI / 1.6T 规格外；无主推型。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "首封前知悉：Elsa 已 1:1 去信 2 轮（2026-02-12→2026-08-10，0 回）（第 74 批(m)）；—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-02-12",
+    "dir": "out",
+    "who": "Elsa → eduardo.ken@precisionsolutions.com.br",
+    "quote": "DWDM Core Switching Solution（Elsa 1:1 逐月名单第 1/2 轮；To 仅本户）",
+    "why": "第 74 批(m) `from:e.sagatelecom to:eduardo.ken@precisionsolutions.com.br` 全程 complete：2 轮直收；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "19c4dc0b1451659e"
+   },
+   {
+    "date": "2026-08-10",
+    "dir": "out",
+    "who": "Elsa → eduardo.ken@precisionsolutions.com.br",
+    "quote": "24 Port PoE Managed Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
+    "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "19febd481e3f857e"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：对1.6T很感兴趣，DCI box，拍了照",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

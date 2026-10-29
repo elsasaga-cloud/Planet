@@ -39,7 +39,12 @@
    "date": "2026-10-21"
   }
  ],
- "kp": [],
+ "kp": [
+  {
+   "name": "Ran Broudo",
+   "role": "联系人 / 负责人（cellpex 供应商档 2026-10-29；无公开邮箱）→ 收件 ethical@ethical-ltd.com Attn: Ran Broudo — 一页纸一次：分销 20% B、STC-110XGE $65 / STI-154GP / STI-288DGGPM $137 一口价 + MOQ 1 + 付费样机；在供 MC / 工业机品牌不点名 — 以色列常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关）、SII 不声称（第 121 批 官方登记核实 2026-10-29）"
+  }
+ ],
  "grade_override": null,
  "override_reason": "",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
@@ -48,8 +53,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "以色列",
-  "other": "官网 ethical-ltd.com，语言 he，快照状态 ok；角色判定来源：官网文案"
+  "hq": "33 Shmuel Tamir St., Tel Aviv 6963717, Israel（第 121 批 官方登记核实 2026-10-29）",
+  "other": "官网 ethical-ltd.com，语言 he，快照状态 ok；角色判定来源：官网文案；第 121 批：采购服务 + 通信 / 电子产品供应商（元件、MC、终端服务器、工业交换机；在供 Perle 类）→ **分销 20% 一页纸一次（预付 100%）**；坐实（kycisrael 公司号 + 成立日 + 年报 + 地址）（第 121 批 官方登记核实 2026-10-29）",
+  "legal_name": "Ethical Ltd（אתיקל בע\"מ；公司号 512146788；Private Limited；Active）",
+  "founded": "1995-05-10（最近年报 2025）（第 121 批 官方登记核实 2026-10-29）",
+  "size": "小型（第 121 批 官方登记核实 2026-10-29）"
  },
  "business_lines": [
   "采购服务 / 通信与电子产品供应（以色列）"

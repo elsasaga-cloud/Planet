@@ -29,7 +29,8 @@
    "title": "（表内联系人）",
    "email": "telcofusion1@gmail.com",
    "phone": "+52 916 105 1657",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "联系人（研究档 KP；2024-08 问 10G MC ×4）= 收件人 — 最后一次一页纸：集成商 25% B、STC-110XGE $65 ×4 一口价 + 运费；反向 PoE 不供明说；西语备注 — 墨西哥常规：英文稿（可附西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP、NOM / IFT 不声称（第 121 批 官方登记核实 2026-10-29）"
   }
  ],
  "grade_override": null,
@@ -40,11 +41,11 @@
   "level": "B 级加厚 v1（快照不可达 + 表内）"
  },
  "company_facts": {
-  "legal_name": "Telcofusion（待核）",
-  "founded": "",
-  "hq": "墨西哥",
-  "size": "小型",
-  "other": "gmail；域名失效"
+  "legal_name": "Telcofusion（1 查无命中；gmail 联系）",
+  "founded": "未取（第 121 批 官方登记核实 2026-10-29）",
+  "hq": "未取（Mexico）（第 121 批 官方登记核实 2026-10-29）",
+  "size": "微型（推定）（第 121 批 官方登记核实 2026-10-29）",
+  "other": "gmail；域名失效；第 121 批：电信承包 / 安装商 → **集成商 25% 最后一次一页纸（预付 100%）**；15×0；未坐实（第 121 批 官方登记核实 2026-10-29）"
  },
  "channels": {
   "role": "电信承包 / ISP 配套",

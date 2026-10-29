@@ -40,7 +40,7 @@
  "kp": [
   {
    "name": "Khalil Haidar",
-   "role": "Director（表内）",
+   "role": "Director（表内；研究档 KP）— 不动：卫星上行 / 广播服务商 + 需求 HDMI over IP（不供）— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜、TDRA 不声称（第 121 批 官方登记核实 2026-10-29）",
    "email": "k.haidar@bhs-media.com",
    "phone": "+961 3 597 100（WA 已加）",
    "source": "用户 Clients 表"
@@ -54,11 +54,11 @@
   "level": "B 级加厚 v1（官网 + 第三方核对 · 需求映射）"
  },
  "company_facts": {
-  "legal_name": "BHS Media（BHS Telecom；关联 bhssat.com「BHS Media Group」）",
-  "founded": "待核（2012 年并购 OTT 软件服务商）",
-  "hq": "No.401, Building No.1, Dubai Media City, Sheikh Zayed Road, Dubai；+971 58 181 1356 / +971 56 700 0011；info@bhs-media.com",
-  "size": "待核",
-  "other": "表内国别「黎巴嫩」= 联系人所在地（+961）；公司注册/运营在迪拜"
+  "legal_name": "BHS Media / BHS Telecommunications（Dubai Media City 执照号 1 查未得）",
+  "founded": "未取（第 121 批 官方登记核实 2026-10-29）",
+  "hq": "No.401, Building No.1, Dubai Media City, Sheikh Zayed Road, Dubai, UAE（+971 4 551 5523）（第 121 批 官方登记核实 2026-10-29）",
+  "size": "小型（约 20 人，ZoomInfo）（第 121 批 官方登记核实 2026-10-29）",
+  "other": "表内国别「黎巴嫩」= 联系人所在地（+961）；公司注册/运营在迪拜；第 121 批：表内国别「黎巴嫩」= KP 电话归属，总部迪拜媒体城 → country_fix 阿联酋；**不动（产品不对位 + 非目标行业；来询按集成商 25% 报 STC-4424GCPM）**；部分坐实（官网地址 + 人数）（第 121 批 官方登记核实 2026-10-29）"
  },
  "business_lines": [
   "卫星 TV 分发（DTH、MCPC 平台）与 contribution 链路",
@@ -128,5 +128,6 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
- }
+ },
+ "country_fix": "阿联酋"
 }

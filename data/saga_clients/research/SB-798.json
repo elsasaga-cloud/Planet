@@ -29,7 +29,8 @@
    "title": "Technical",
    "email": "leonardo@getecseg.com.br",
    "phone": "+55 47 9918 1838",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "技术负责人（研究档 KP）= 收件人 — 一页纸一次：集成商 25% B、监控项目 PoE（STC-028GP $28 / STC-228GP $33 / STC-2216GP）一口价 + 付费样机；2019 欠税公示 → 预付 100% 不让步 — 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（进口税自理）、Anatel 不声称（第 121 批 官方登记核实 2026-10-29）"
   }
  ],
  "grade_override": null,
@@ -40,11 +41,11 @@
   "level": "B 级加厚 v1（快照 HTTP 错误 + 表内）"
  },
  "company_facts": {
-  "legal_name": "Getec Segurança（待核）",
-  "founded": "",
-  "hq": "Santa Catarina, Brazil",
-  "size": "小型安防",
-  "other": ""
+  "legal_name": "GETECSEG Segurança Eletrônica Ltda ME（CNPJ 11.641.497/0001-43）",
+  "founded": "未取（第 121 批 官方登记核实 2026-10-29）",
+  "hq": "Rua João Pessoa 1839, Velha, Blumenau - SC 89036, Brazil（+55 47）（第 121 批 官方登记核实 2026-10-29）",
+  "size": "微型（ME）（第 121 批 官方登记核实 2026-10-29）",
+  "other": "第 121 批：圣卡塔琳娜州法院公报 2019-04-01 税务名单给出 CNPJ + 地址（欠税 R$4,924.98 红旗）；同名 Gettec 巴西利亚 ≠ 本户 → **集成商 25% 一页纸一次（预付 100%）**；坐实（第 121 批 官方登记核实 2026-10-29）"
  },
  "channels": {
   "role": "安防集成商",

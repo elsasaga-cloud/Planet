@@ -1,215 +1,216 @@
 {
-  "code": "SB-896",
-  "name_official": "Musine（肯尼亚；个人 gmail）",
-  "researched_at": "2026-10-21",
-  "website_status": "无域名",
-  "summary": "肯尼亚联系人 Musine，需求千兆 PoE 媒体转换器，2025-04 对芯片介绍回复 interested；无公司名。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "兴趣千兆 PoE MC；回复 interested",
-      "quote": "兴趣：千兆PoE MC；回复：interested",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Musine",
-      "title": "（表内联系人）",
-      "email": "wafulamusine@gmail.com",
-      "phone": "+254 758 361 672",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "无域名 · 仅表内信息"
-  },
-  "company_facts": {
-    "legal_name": "（未知）",
-    "founded": "",
-    "hq": "肯尼亚",
-    "size": "",
-    "other": "gmail"
-  },
-  "channels": {
-    "role": "（未知，疑安装商）",
-    "region": "肯尼亚"
-  },
-  "signals": [
-    "明确口型：千兆 PoE MC"
-  ],
-  "risks": [
-    "身份不明；东非付款 T/T 预付"
-  ],
-  "saga_fit": {
-    "p1": "STI-111GP",
-    "tier": 25,
-    "why": "千兆 PoE MC = Saga 工业 STI-111GP（$27.8/29.0/30.1）。"
-  },
-  "email_hook": "Musine, the gigabit PoE media converter you asked about (1 SFP + 1 PoE port, DIN/desktop) ships from 1 pc — want the EXW price and datasheet?",
-  "mail_review": {
-    "binding": {
-      "level": "未发信→一句「interested」（Elsa 邮箱 2025-04-16 wafulamusine@gmail.com 回「Am good… Am interested」；S/A 邮箱 0 封；个人 gmail、肯尼亚）；Elsa 1:1 去信 9 轮 2025-05-12→2026-08-04（To 仅本户 wafulamusine@gmail.com；头 msg 19fcc6e2b389afed 核对无 Bcc，称呼「Hi, Musine」= 个性化逐月 1:1 名单；主题 Marvell Industrial Alert System、Updated Ethernet Switches Links、Industrial PoE Switch、24 Port PoE Managed Switch…；客户来过信：Elsa 回 2025-04-17 Re:「Marvell Alleycat5 Solution」、2025-04-22 Re:「Marvell Alleycat5 Solution」；此前经 锚 sibandaprofp@gmail.com 的 Bcc 收到 2 轮（2025-03-02→2025-04-15）→ 回信后被 Elsa 从 Bcc 名单剔出、转入 1:1 名单）（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 11 条）；Elsa 群发 BCC 已触达 2025-04-15「Marvell Alleycat5 Solution」（稿内无价，第 74 批(p) 已读稿），非洲/中亚/中东散户-2（锚 2025 sibanda ZW） 批次 To sibandaprofp@gmail.com，0 回（第 74 批 Bcc 头核对 msg 1963891c7a76ab19）",
-      "type": "—",
-      "sieve": "—（未入筛）",
-      "stop": "从未触达",
-      "revive": "不动（非主攻区；一句兴趣无需求）",
-      "lane": "肯尼亚 非主攻",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 0；用户表：「兴趣：千兆PoE MC；回复：interested」；研究档 risks：身份不明；东非付款 T/T 预付；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文已入库（第 73 批））；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sibandaprofp@gmail.com）本户见于 2025-04-15 名单；2025-12-09 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）；该批次最早 2025-03-02 起共 9 轮，更早轮次 Bcc 未读"
-    },
-    "situation": "肯尼亚联系人 Musine，需求千兆 PoE 媒体转换器，2025-04 对芯片介绍回复 interested；无公司名。",
-    "need": "千兆 PoE MC = Saga 工业 STI-111GP（$27.8/29.0/30.1）。",
-    "breakpoint": "身份不明；东非付款 T/T 预付",
-    "saga_now": {
-      "p1": "STI-111GP",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-12 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-05-12；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-01→2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "千兆 PoE MC = Saga 工业 STI-111GP（$27.8/29.0/30.1）。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "首封前知悉：Elsa 已 1:1 去信 9 轮（2025-05-12→2026-08-04，客户回过信（2025-04-17、2025-04-22）），此前还经锚 Bcc 触达（第 74 批(m)）；—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2025-04-15",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To sibandaprofp@gmail.com，非洲/中亚/中东散户-2（锚 2025 sibanda ZW） 批次）",
-        "quote": "Marvell Alleycat5 Solution — （头部未取正文；见 Elsa 箱）",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 wafulamusine@gmail.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2025-04-16",
-        "dir": "来",
-        "who": "Musine（肯尼亚，个人 gmail）",
-        "quote": "Am good .... Am interested",
-        "why": "一句兴趣，无需求细节；非主攻区",
-        "k": "gmail_e"
-      },
-      {
-        "date": "2025-04-17",
-        "dir": "去",
-        "who": "Elsa",
-        "quote": "Thanks for your interest. Please see attached links for all information.（附 Download Link.pdf）",
-        "why": "对「Am interested」只给链接",
-        "k": "gmail_e 19642de7fdf8791b"
-      },
-      {
-        "date": "2025-04-22",
-        "dir": "去",
-        "who": "Elsa",
-        "quote": "Did you check the product information? Any interested models?",
-        "why": "追问一次，之后无回 → 一句兴趣到此为止",
-        "k": "gmail_e 1965c9c762c8b5a9"
-      },
-      {
-        "date": "2025-05-12",
-        "dir": "out",
-        "who": "Elsa → wafulamusine@gmail.com",
-        "quote": "48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 1/9 轮；To 仅本户；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:wafulamusine@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
-        "k": "elsa_1to1",
-        "msg_id": "196c3efe17fedaa1"
-      },
-      {
-        "date": "2025-06-21",
-        "dir": "out",
-        "who": "Elsa → wafulamusine@gmail.com",
-        "quote": "16 Port Ethernet Switch（Elsa 1:1 逐月名单第 2/9 轮；To 仅本户）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:wafulamusine@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
-        "k": "elsa_1to1",
-        "msg_id": "197919830e738e88"
-      },
-      {
-        "date": "2025-10-01",
-        "dir": "out",
-        "who": "Elsa → wafulamusine@gmail.com",
-        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/9 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:wafulamusine@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
-        "k": "elsa_1to1",
-        "msg_id": "1999fd7c73965cb6"
-      },
-      {
-        "date": "2025-12-03",
-        "dir": "out",
-        "who": "Elsa → wafulamusine@gmail.com",
-        "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 4/9 轮；To 仅本户）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:wafulamusine@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
-        "k": "elsa_1to1",
-        "msg_id": "19ae3f0cb24510aa"
-      },
-      {
-        "date": "2025-12-29",
-        "dir": "out",
-        "who": "Elsa → wafulamusine@gmail.com",
-        "quote": "Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-        "k": "elsa_1to1",
-        "msg_id": "19b68fa6941a54fc"
-      },
-      {
-        "date": "2026-03-02",
-        "dir": "out",
-        "who": "Elsa → wafulamusine@gmail.com",
-        "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 6/9 轮；To 仅本户）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:wafulamusine@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
-        "k": "elsa_1to1",
-        "msg_id": "19cadcdec0ee73bb"
-      },
-      {
-        "date": "2026-04-03",
-        "dir": "out",
-        "who": "Elsa → wafulamusine@gmail.com",
-        "quote": "Industrial PoE Switch（Elsa 1:1 逐月名单第 7/9 轮；To 仅本户）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:wafulamusine@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
-        "k": "elsa_1to1",
-        "msg_id": "19d527fcae4de9d9"
-      },
-      {
-        "date": "2026-05-11",
-        "dir": "out",
-        "who": "Elsa → wafulamusine@gmail.com",
-        "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
-        "k": "elsa_1to1",
-        "msg_id": "19e169629b5e1b3c"
-      },
-      {
-        "date": "2026-08-04",
-        "dir": "out",
-        "who": "Elsa → wafulamusine@gmail.com",
-        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 9/9 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:wafulamusine@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
-        "k": "elsa_1to1",
-        "msg_id": "19fcc6e2b389afed"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：千兆PoE MC；回复：interested",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "（已核 2026-10-24，第 73 批）Elsa 邮箱完整往来：04-15 群发 → 04-16「Am good… Am interested」→ 04-17 Elsa 给下载链接 → 04-22 追问 → 无回；用户表「有回复·跟进中」= 这条；不动不变"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-25"
+ "code": "SB-896",
+ "name_official": "Musine（肯尼亚；个人 gmail）",
+ "researched_at": "2026-10-21",
+ "website_status": "无域名",
+ "summary": "肯尼亚联系人 Musine，需求千兆 PoE 媒体转换器，2025-04 对芯片介绍回复 interested；无公司名。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "兴趣千兆 PoE MC；回复 interested",
+   "quote": "兴趣：千兆PoE MC；回复：interested",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Musine",
+   "title": "（表内联系人）",
+   "email": "wafulamusine@gmail.com",
+   "phone": "+254 758 361 672",
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "联系人（研究档 KP；2025-04 回「interested」）— 不动：需求千兆 PoE 媒体转换器（不供）+ 无公司 — 肯尼亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 内罗毕、KEBS 不声称（第 121 批 官方登记核实 2026-10-29）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "无域名 · 仅表内信息"
+ },
+ "company_facts": {
+  "legal_name": "未取（0 查：gmail + 无公司名）",
+  "founded": "未取（第 121 批 官方登记核实 2026-10-29）",
+  "hq": "未取（肯尼亚）（第 121 批 官方登记核实 2026-10-29）",
+  "size": "个人（第 121 批 官方登记核实 2026-10-29）",
+  "other": "gmail；第 121 批：**不动（产品不对位 + 个人；来询按集成商 25% 报 STC-028GP）**；0 查（第 121 批 官方登记核实 2026-10-29）"
+ },
+ "channels": {
+  "role": "（未知，疑安装商）",
+  "region": "肯尼亚"
+ },
+ "signals": [
+  "明确口型：千兆 PoE MC"
+ ],
+ "risks": [
+  "身份不明；东非付款 T/T 预付"
+ ],
+ "saga_fit": {
+  "p1": "STI-111GP",
+  "tier": 25,
+  "why": "千兆 PoE MC = Saga 工业 STI-111GP（$27.8/29.0/30.1）。"
+ },
+ "email_hook": "Musine, the gigabit PoE media converter you asked about (1 SFP + 1 PoE port, DIN/desktop) ships from 1 pc — want the EXW price and datasheet?",
+ "mail_review": {
+  "binding": {
+   "level": "未发信→一句「interested」（Elsa 邮箱 2025-04-16 wafulamusine@gmail.com 回「Am good… Am interested」；S/A 邮箱 0 封；个人 gmail、肯尼亚）；Elsa 1:1 去信 9 轮 2025-05-12→2026-08-04（To 仅本户 wafulamusine@gmail.com；头 msg 19fcc6e2b389afed 核对无 Bcc，称呼「Hi, Musine」= 个性化逐月 1:1 名单；主题 Marvell Industrial Alert System、Updated Ethernet Switches Links、Industrial PoE Switch、24 Port PoE Managed Switch…；客户来过信：Elsa 回 2025-04-17 Re:「Marvell Alleycat5 Solution」、2025-04-22 Re:「Marvell Alleycat5 Solution」；此前经 锚 sibandaprofp@gmail.com 的 Bcc 收到 2 轮（2025-03-02→2025-04-15）→ 回信后被 Elsa 从 Bcc 名单剔出、转入 1:1 名单）（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 11 条）；Elsa 群发 BCC 已触达 2025-04-15「Marvell Alleycat5 Solution」（稿内无价，第 74 批(p) 已读稿），非洲/中亚/中东散户-2（锚 2025 sibanda ZW） 批次 To sibandaprofp@gmail.com，0 回（第 74 批 Bcc 头核对 msg 1963891c7a76ab19）",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "从未触达",
+   "revive": "不动（非主攻区；一句兴趣无需求）",
+   "lane": "肯尼亚 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：千兆PoE MC；回复：interested」；研究档 risks：身份不明；东非付款 T/T 预付；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文已入库（第 73 批））；data/gmail_e/bcc_batches_2026.json；批次时间线：同批次（To sibandaprofp@gmail.com）本户见于 2025-04-15 名单；2025-12-09 最新一轮名单已不含此地址 → 中途被剔除（退信 / 退订 / 手工）；该批次最早 2025-03-02 起共 9 轮，更早轮次 Bcc 未读"
+  },
+  "situation": "肯尼亚联系人 Musine，需求千兆 PoE 媒体转换器，2025-04 对芯片介绍回复 interested；无公司名。",
+  "need": "千兆 PoE MC = Saga 工业 STI-111GP（$27.8/29.0/30.1）。",
+  "breakpoint": "身份不明；东非付款 T/T 预付",
+  "saga_now": {
+   "p1": "STI-111GP",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-12 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-05-12；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-01→2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+   "why": "千兆 PoE MC = Saga 工业 STI-111GP（$27.8/29.0/30.1）。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "首封前知悉：Elsa 已 1:1 去信 9 轮（2025-05-12→2026-08-04，客户回过信（2025-04-17、2025-04-22）），此前还经锚 Bcc 触达（第 74 批(m)）；—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2025-04-15",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To sibandaprofp@gmail.com，非洲/中亚/中东散户-2（锚 2025 sibanda ZW） 批次）",
+    "quote": "Marvell Alleycat5 Solution — （头部未取正文；见 Elsa 箱）",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 wafulamusine@gmail.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2025-04-16",
+    "dir": "来",
+    "who": "Musine（肯尼亚，个人 gmail）",
+    "quote": "Am good .... Am interested",
+    "why": "一句兴趣，无需求细节；非主攻区",
+    "k": "gmail_e"
+   },
+   {
+    "date": "2025-04-17",
+    "dir": "去",
+    "who": "Elsa",
+    "quote": "Thanks for your interest. Please see attached links for all information.（附 Download Link.pdf）",
+    "why": "对「Am interested」只给链接",
+    "k": "gmail_e 19642de7fdf8791b"
+   },
+   {
+    "date": "2025-04-22",
+    "dir": "去",
+    "who": "Elsa",
+    "quote": "Did you check the product information? Any interested models?",
+    "why": "追问一次，之后无回 → 一句兴趣到此为止",
+    "k": "gmail_e 1965c9c762c8b5a9"
+   },
+   {
+    "date": "2025-05-12",
+    "dir": "out",
+    "who": "Elsa → wafulamusine@gmail.com",
+    "quote": "48 Port PoE Managed Switch（Elsa 1:1 逐月名单第 1/9 轮；To 仅本户；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
+    "why": "第 74 批(m) `from:e.sagatelecom to:wafulamusine@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
+    "k": "elsa_1to1",
+    "msg_id": "196c3efe17fedaa1"
+   },
+   {
+    "date": "2025-06-21",
+    "dir": "out",
+    "who": "Elsa → wafulamusine@gmail.com",
+    "quote": "16 Port Ethernet Switch（Elsa 1:1 逐月名单第 2/9 轮；To 仅本户）",
+    "why": "第 74 批(m) `from:e.sagatelecom to:wafulamusine@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
+    "k": "elsa_1to1",
+    "msg_id": "197919830e738e88"
+   },
+   {
+    "date": "2025-10-01",
+    "dir": "out",
+    "who": "Elsa → wafulamusine@gmail.com",
+    "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 3/9 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+    "why": "第 74 批(m) `from:e.sagatelecom to:wafulamusine@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
+    "k": "elsa_1to1",
+    "msg_id": "1999fd7c73965cb6"
+   },
+   {
+    "date": "2025-12-03",
+    "dir": "out",
+    "who": "Elsa → wafulamusine@gmail.com",
+    "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 4/9 轮；To 仅本户）",
+    "why": "第 74 批(m) `from:e.sagatelecom to:wafulamusine@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
+    "k": "elsa_1to1",
+    "msg_id": "19ae3f0cb24510aa"
+   },
+   {
+    "date": "2025-12-29",
+    "dir": "out",
+    "who": "Elsa → wafulamusine@gmail.com",
+    "quote": "Marvell Industrial Alert System（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "19b68fa6941a54fc"
+   },
+   {
+    "date": "2026-03-02",
+    "dir": "out",
+    "who": "Elsa → wafulamusine@gmail.com",
+    "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 6/9 轮；To 仅本户）",
+    "why": "第 74 批(m) `from:e.sagatelecom to:wafulamusine@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
+    "k": "elsa_1to1",
+    "msg_id": "19cadcdec0ee73bb"
+   },
+   {
+    "date": "2026-04-03",
+    "dir": "out",
+    "who": "Elsa → wafulamusine@gmail.com",
+    "quote": "Industrial PoE Switch（Elsa 1:1 逐月名单第 7/9 轮；To 仅本户）",
+    "why": "第 74 批(m) `from:e.sagatelecom to:wafulamusine@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
+    "k": "elsa_1to1",
+    "msg_id": "19d527fcae4de9d9"
+   },
+   {
+    "date": "2026-05-11",
+    "dir": "out",
+    "who": "Elsa → wafulamusine@gmail.com",
+    "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+    "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "19e169629b5e1b3c"
+   },
+   {
+    "date": "2026-08-04",
+    "dir": "out",
+    "who": "Elsa → wafulamusine@gmail.com",
+    "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 9/9 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
+    "why": "第 74 批(m) `from:e.sagatelecom to:wafulamusine@gmail.com` 全程 complete：9 轮直收；客户曾来信（见 Re: 行）",
+    "k": "elsa_1to1",
+    "msg_id": "19fcc6e2b389afed"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：千兆PoE MC；回复：interested",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "（已核 2026-10-24，第 73 批）Elsa 邮箱完整往来：04-15 群发 → 04-16「Am good… Am interested」→ 04-17 Elsa 给下载链接 → 04-22 追问 → 无回；用户表「有回复·跟进中」= 这条；不动不变"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-25"
+ }
 }

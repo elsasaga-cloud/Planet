@@ -29,7 +29,8 @@
    "title": "（表内联系人）",
    "email": "novick@isrcorp.co.il",
    "phone": "+972 50 850 1400",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "联系人（研究档 KP）— 不动：需求工业 8 电口 E-mark 车载认证（不供）+ 5×0 — 以色列常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关）、SII 不声称（第 121 批 官方登记核实 2026-10-29）"
   }
  ],
  "grade_override": null,
@@ -40,11 +41,11 @@
   "level": "B 级加厚 v1（官网快照：E-mark 需求不覆盖）"
  },
  "company_facts": {
-  "legal_name": "ISR Corp（待核）",
-  "founded": "",
-  "hq": "Israel",
-  "size": "小型",
-  "other": "智慧出行 / 车载"
+  "legal_name": "I.S.R. Technologies (Israel) Ltd（ISR Tech；公司号 1 查未得）",
+  "founded": "1986（第 121 批 官方登记核实 2026-10-29）",
+  "hq": "5 Eliav Yaacov St., P.O. Box 34556, Jerusalem 9546205, Israel（02-6520570）（第 121 批 官方登记核实 2026-10-29）",
+  "size": "微型（1–10，Crunchbase）（第 121 批 官方登记核实 2026-10-29）",
+  "other": "智慧出行 / 车载；第 121 批：智慧出行 / 车队 ITS 方案商（以色列 + 印度）→ **不动（产品不对位：车载认证）**；部分坐实（官网 + Google Play 开发者地址）（第 121 批 官方登记核实 2026-10-29）"
  },
  "business_lines": [
   "智慧出行 / 车载电子方案"

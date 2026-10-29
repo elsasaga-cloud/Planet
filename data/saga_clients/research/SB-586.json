@@ -52,7 +52,8 @@
    "title": "Technical Director",
    "email": "mogeni@matrixsystems.co.ke",
    "phone": "+254 721 779 429",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "技术总监（研究档 KP；2024-03 回「有用，需沟通拿样」）= 收件人 — 一页纸一次：集成商 25% B、光纤上行摄像机接入（STI-154GP / STC-228GP $33）付费样机一口价 + 运费 — 肯尼亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 内罗毕、KEBS 不声称（第 121 批 官方登记核实 2026-10-29）"
   }
  ],
  "grade_override": null,
@@ -63,11 +64,11 @@
   "level": "B 级加厚 v1（官网 + 名录核对）"
  },
  "company_facts": {
-  "legal_name": "Matrix Vision Systems Limited",
-  "founded": "约 2013 前后（自述 10 年以上）",
-  "hq": "Maisonette 7, BSK Village, Muguga Green, Westlands, Nairobi, Kenya",
-  "size": "11–50 人（Crunchbase / ZoomInfo，<$5M）",
-  "other": "Hikvision 战略伙伴；NCA/CA/ICT Authority 认证"
+  "legal_name": "Matrix Vision Systems / Matrix Systems（1 查仅美国 / 中东同名 → 本体未命中）",
+  "founded": "未取（自述 10 年以上）（第 121 批 官方登记核实 2026-10-29）",
+  "hq": "未取（Nairobi, Kenya）（第 121 批 官方登记核实 2026-10-29）",
+  "size": "小型（11–50）（第 121 批 官方登记核实 2026-10-29）",
+  "other": "Hikvision 战略伙伴；NCA/CA/ICT Authority 认证；第 121 批：电气 / 安防 / ICT 集成商（Hikvision 伙伴，NCA / CA 认证）→ **集成商 25% 一页纸一次（付费样机 + 预付 100%）**；未坐实（第 121 批 官方登记核实 2026-10-29）"
  },
  "business_lines": [
   "AI 视频监控 / 门禁 / 钥匙管理 / 报警（Hikvision）",

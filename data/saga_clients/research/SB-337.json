@@ -24,7 +24,8 @@
    "title": "",
    "email": "gadsatoh@gmail.com",
    "phone": "+254 720 749 670",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "联系人（未具名；2024-07 回「price」）= 收件人 — 一页纸一次：集成商 25% B、passive PoE 不供明说 → STC-2216GP 标准 af/at + STC-228GP $33 一口价 + MOQ 1；PLANET 不点名 — 肯尼亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 内罗毕、KEBS 不声称（第 121 批 官方登记核实 2026-10-29）"
   }
  ],
  "grade_override": null,
@@ -35,11 +36,11 @@
   "level": "无域名 · 仅表内信息"
  },
  "company_facts": {
-  "legal_name": "Kimberley Telecommunications（待核）",
-  "founded": "",
-  "hq": "肯尼亚",
-  "size": "小型",
-  "other": "gmail；PLANET 用户"
+  "legal_name": "Kimberley Telecommunications（0 查：gmail + 无域名）",
+  "founded": "未取（第 121 批 官方登记核实 2026-10-29）",
+  "hq": "未取（肯尼亚）（第 121 批 官方登记核实 2026-10-29）",
+  "size": "微型（推定）（第 121 批 官方登记核实 2026-10-29）",
+  "other": "gmail；PLANET 用户；第 121 批：电信工程商，在用 PLANET，需求 2 光 16 电管理 passive PoE（非标）→ **集成商 25% 一页纸一次（预付 100%）**；0 查（第 121 批 官方登记核实 2026-10-29）"
  },
  "business_lines": [
   "电信 / 网络工程"

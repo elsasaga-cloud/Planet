@@ -22,7 +22,8 @@
    "title": "（表内联系人）",
    "email": "dbjcontrad@hotmail.com",
    "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "联系人（研究档 KP；2022 起与 e. 账号来往）— 不动：需求 Cisco 兼容交换机 + 10G DAC（不供）+ 无公司 — 赞比亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 卢萨卡、ZABS 不声称（第 121 批 官方登记核实 2026-10-29）"
   }
  ],
  "grade_override": null,
@@ -33,11 +34,11 @@
   "level": "无域名 · 仅表内信息"
  },
  "company_facts": {
-  "legal_name": "（待核，DBJ Contractors？）",
-  "founded": "",
-  "hq": "赞比亚",
-  "size": "",
-  "other": "hotmail"
+  "legal_name": "未取（0 查：hotmail + 无公司名）",
+  "founded": "未取（第 121 批 官方登记核实 2026-10-29）",
+  "hq": "未取（赞比亚）（第 121 批 官方登记核实 2026-10-29）",
+  "size": "微型（第 121 批 官方登记核实 2026-10-29）",
+  "other": "hotmail；第 121 批：IT 承包 / 网络 → **不动（产品不对位 + 个人；来询按集成商 25% 报 STC-4424GCPM $165）**；0 查（第 121 批 官方登记核实 2026-10-29）"
  },
  "channels": {
   "role": "（疑承包商）",

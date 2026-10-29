@@ -39,7 +39,8 @@
    "title": "System Engineer",
    "email": "info@eware.com.hk",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "System Engineer（研究档 KP）= 收件人 — 最后一次一页纸：集成商 25% B、IP 话机 / AP 供电配套（STC-2216GP / STC-2224GP $86 / STC-4424GCPM $165）一口价 + MOQ 1 + 付费样机 — 香港常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 香港（免税）（第 121 批 官方登记核实 2026-10-29）"
   }
  ],
  "grade_override": null,
@@ -50,8 +51,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "香港",
-  "other": "官网 eware.com.hk，语言 ?，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Unit 2102-03, 21/F, Two Sky Parc, 51 Hung To Road, Kwun Tong, Kowloon, Hong Kong（+852 2565 0165；旧址 Rm 1107 Futura Plaza）（第 121 批 官方登记核实 2026-10-29）",
+  "other": "官网 eware.com.hk，语言 ?，快照状态 ok；角色判定来源：官网文案；第 121 批：UC / 视频会议 / IP 电话集成（穗深支持热线）→ **集成商 25% 最后一次一页纸（预付 100%）**；8×0；部分坐实（官网地址 + 电话）（第 121 批 官方登记核实 2026-10-29）",
+  "legal_name": "Eware Networks Limited（CR 号 1 查未得）",
+  "founded": "未取（第 121 批 官方登记核实 2026-10-29）",
+  "size": "小型（第 121 批 官方登记核实 2026-10-29）"
  },
  "business_lines": [
   "视频会议 / 电话系统 / UC / AV 集成（香港）"

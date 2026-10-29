@@ -47,10 +47,14 @@
  "kp": [
   {
    "name": "Amine Abou Jaoude (Abou-Jaoudeh)",
-   "role": "GM / 业主",
+   "role": "General Manager（家族企业；kompass 所有者 Fadi J. / Grace Y. Abou Jaoudeh；2024-04 问价）= 收件人 — 一页纸一次：分销 20% B、STC-028GP $28 / STC-228GP $33 / STC-2216GP / STC-2224GP $86 一口价 + MOQ 1 + 付费样机 — 黎巴嫩常规：英文稿、20 / 25 / 30 + T/T 预付 100%（不接受信用证）+ FOB 深圳 或 DAP 贝鲁特（第 121 批 官方登记核实 2026-10-29）",
    "email": "amine@technotower-lb.com",
    "phone": "+961 3 839 839（WA 已加）",
    "source": "用户 Clients 表 + Kompass"
+  },
+  {
+   "name": "Fadi J. Abou Jaoudeh",
+   "role": "Owner（kompass 2026-10-29；无公开邮箱）（第 121 批 官方登记核实 2026-10-29）"
   }
  ],
  "grade_override": null,
@@ -61,11 +65,11 @@
   "level": "B 级加厚 v1（官网 + Kompass/海关记录核对）"
  },
  "company_facts": {
-  "legal_name": "Techno Tower Sarl",
-  "founded": "1989",
-  "hq": "Ground floor, Block A, Abou-Karam building, Mar Youhanna street, Mar Takla area, Bauchrieh (Metn), P.O.Box 90-1776；+961 1 875725；info@technotower-lb.com",
-  "size": "待核（家族企业，小型）",
-  "other": "Kompass 业主：Amine J / Fadi J / Grace Y Abou-Jaoudeh；tradesns 海关记录「Telecommunication equipment (wholesale)」联系人 Amine Abou-Jaoudeh"
+  "legal_name": "Techno Tower SARL（商业登记号 1 查未得；P.O. Box 90-1776）",
+  "founded": "1998（kompass；官网口径 1989）（第 121 批 官方登记核实 2026-10-29）",
+  "hq": "Ground floor, Abou Karam 1 Building, Jdeideh (Metn), Lebanon（第 121 批 官方登记核实 2026-10-29）",
+  "size": "小型（第 121 批 官方登记核实 2026-10-29）",
+  "other": "Kompass 业主：Amine J / Fadi J / Grace Y Abou-Jaoudeh；tradesns 海关记录「Telecommunication equipment (wholesale)」联系人 Amine Abou-Jaoudeh；第 121 批：自动化 / 安防 / CCTV / 消防 / 卫星 / 灯光进口分销商 → **分销 20% 一页纸一次（预付 100%）**；部分坐实（kompass 地址 + 成立年 + 所有者）（第 121 批 官方登记核实 2026-10-29）"
  },
  "business_lines": [
   "自动门、道闸、门禁与停车系统",

@@ -31,7 +31,8 @@
    "title": "Director",
    "email": "leandro@lri.com.br",
    "phone": "+972 50 665 0861（表内；巴西座机 +55 11 4020 2470）",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "Director / 业主（个体企业 Leandro Roisenberg FI 法人本人；官网 contato 2026-10-29）= 收件人 — 一页纸一次：分销 20% B、工业线中性包装一口价（STI-154GP / STI-288DGGPM $137 / STI-280GE $46.6）+ MOQ 1 + 付费样机；在售进口品牌不点名 — 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（进口税自理）、Anatel 不声称（第 121 批 官方登记核实 2026-10-29）"
   }
  ],
  "grade_override": null,
@@ -42,11 +43,11 @@
   "level": "B 级加厚 v1（官网快照核对：ORing 渠道）"
  },
  "company_facts": {
-  "legal_name": "LRI Automação Industrial Ltda（待核）",
-  "founded": "（待核）",
-  "hq": "São Paulo, Brazil",
-  "size": "中小型工业自动化分销（有库存）",
-  "other": "ORing 巴西渠道"
+  "legal_name": "Leandro Roisenberg Firma Individual（商号 LRI Automação Industrial / LRI Store；CNPJ 94.574.647/0005-02）",
+  "founded": "未取（INPI 商标 910048894）（第 121 批 官方登记核实 2026-10-29）",
+  "hq": "Rua Maria Lopes Borba 474, Navegantes - SC 88370-340, Brazil（表内 +55 11 / +972 为业主个人电话）（第 121 批 官方登记核实 2026-10-29）",
+  "size": "微型（个体企业）（第 121 批 官方登记核实 2026-10-29）",
+  "other": "ORing 巴西渠道；第 121 批：同行工业交换机分销（有巴西库存开 NF-e）→ **分销 20% 一页纸一次（预付 100%）**；坐实（官网自列 CNPJ + 地址）（第 121 批 官方登记核实 2026-10-29）"
  },
  "business_lines": [
   "工业电源 / DC-DC",

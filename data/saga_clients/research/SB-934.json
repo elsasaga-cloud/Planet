@@ -48,7 +48,12 @@
    "title": "（表内联系人）",
    "email": "billy.grumbles@alibisecurity.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "联系人（研究档 KP）= 收件人 — 一页纸一次：贴标 OEM 30% B、Alibi 自有品牌 PoE（STC-028GP $28 / STC-2216GP / STC-2224GP $86）贴标 + MOQ + 付费样机；在售 D-Link / TP-Link / Vigitron 不点名 — 美国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP（买方清关）、NDAA / TAA / UL 不声称；周三 08–10 当地（第 121 批 官方登记核实 2026-10-29）"
+  },
+  {
+   "name": "Brian Wood",
+   "role": "CEO（een.com 新闻 2026-10-29；无公开邮箱）（第 121 批 官方登记核实 2026-10-29）"
   }
  ],
  "grade_override": null,
@@ -59,8 +64,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "以色列",
-  "other": "官网 alibisecurity.com，语言 en，快照状态 ok；角色判定来源：用户表"
+  "hq": "15505 Long Vista Drive, Suite 250, Austin, TX 78728, USA（888-858-1442）（第 121 批 官方登记核实 2026-10-29）",
+  "other": "官网 alibisecurity.com，语言 en，快照状态 ok；角色判定来源：用户表；第 121 批：表内国别「以色列」误 → country_fix 美国（总部奥斯汀）；自有品牌安防 + 经销商渠道，转售 D-Link / TP-Link PoE → **贴标 OEM 30% 一页纸一次（预付 100%）**；NDAA 不声称；部分坐实（第 121 批 官方登记核实 2026-10-29）",
+  "legal_name": "Alibi Security（Observint Technologies 旗下品牌；德州登记号未取）",
+  "founded": "约 1990（自述 30+ 年经销商网络）（第 121 批 官方登记核实 2026-10-29）",
+  "size": "中型（100–200）（第 121 批 官方登记核实 2026-10-29）"
  },
  "business_lines": [
   "安防品牌（摄像机 / 门禁 / VMS）",
@@ -153,5 +161,6 @@
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
- }
+ },
+ "country_fix": "美国"
 }
