@@ -4,7 +4,7 @@
   "source": "India · MCA 公司登记（Zauba Corp / Tofler 镜像）",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 69
+  "count": 77
  },
  "rows": {
   "SA-073": {
@@ -2188,6 +2188,246 @@
    ],
    "notes": "回 C（未坐实；真意向保留 → 单次样品报价例外）。",
    "code": "SC-1366"
+  },
+  "SC-1795": {
+   "batch": 131,
+   "name": "Bluboxx Communication Private Limited — BBCPL / BluBoxx（bbcpl.in / bluboxx.in；**102/B Surekha Apartment, Above Hira Oil, Pune-Satara Road, Pune 411037；工业网络 + 自动化设备分销（tracxn 两品牌）；ZoomInfo 营收 $5.1M；+91 7875432180**）；CIN 未取；表内：主要是 Planet 的",
+   "iso": "IN",
+   "fetched": "2026-10-29",
+   "source": "IN · 1 次检索：tracxn 法人页（法人名 / 品牌 / 地址）+ zoominfo（营收 / 电话）；CIN 未取；2026-10-29",
+   "url": "https://tracxn.com/d/legal-entities/india/bluboxx-communication-private-limited/__4o5mhod8UCZdybdTAdXuS4HYOKFEZoqCL-v4QWaJ-30",
+   "number": "未取（CIN 未查；法人名 tracxn 坐实）",
+   "status": "营业中（tracxn 2026-03）",
+   "incorporated": "未取",
+   "company_type": "Private Limited",
+   "sic": [
+    "工业网络设备分销（浦那）"
+   ],
+   "address": "102/B, Surekha Apartment, Above Hira Oil, Pune-Satara Road, Pune, Maharashtra 411037",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（$5.1M）",
+   "officers": [
+    "（具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**印度 · 工业网络分销 20%：一页纸一次（STI-280GE / STI-288GPM / STC-228GP + MOQ 1 + 付费样机；Planet 不点名）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST**"
+   ],
+   "notes": "分销 20%；P 池候选 ★（工业分销主体 ✔ 台湾品牌经销 ✔ 对位 ✔ Simon 点名印度 ✔）；部分坐实（CIN 未取）。",
+   "code": "SC-1795"
+  },
+  "SC-1797": {
+   "batch": 131,
+   "name": "Cohesive Technologies (P) Ltd（cohesiveglobal.com；**官网页脚 © 2026；Grandstream 印度授权全国分销（IP 电话 + GWN 交换机 / AP / GDMS）；服务 印度 / 斯里兰卡 / 尼泊尔 / 马尔代夫；sales@cohesiveglobal.com**）；CIN / 地址未取；表内：Wi-Tek / Grandstream",
+   "iso": "IN",
+   "fetched": "2026-10-29",
+   "source": "IN · 1 次检索：cohesiveglobal.com 三个产品页（法人名 / 授权 / 服务区）；CIN 未取；2026-10-29",
+   "url": "https://www.cohesiveglobal.com/grandstream/gwn7700-network-switch.php",
+   "number": "未取（CIN 未查；法人名官网自报）",
+   "status": "营业中（官网 2026）",
+   "incorporated": "未取",
+   "company_type": "Private Limited",
+   "sic": [
+    "VoIP / 网络分销（印度全国）"
+   ],
+   "address": "未取（官网未列）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（全国分销 + 4 国）",
+   "officers": [
+    "（具名 KP 未取；sales@ 公共）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**印度 · 全国分销 20%（交换机为副线）：一页纸一次（STC-028GP / STC-228GP / STC-2224GP 作 IP 电话配套 PoE + MOQ 1 + 付费样机；Grandstream / Wi-Tek 不点名）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST**"
+   ],
+   "notes": "分销 20%；P 池候选 ○（分销主体 ✔ 中国品牌 ✔ 对位（配套）✔ Simon 点名印度 ✔）；部分坐实（CIN / 地址未取）。",
+   "code": "SC-1797"
+  },
+  "SC-1804": {
+   "batch": 131,
+   "name": "Indra Heera Group / IHT — Indra Heera Technologies（indraheera.com / indraheera.org；**注册办公室 Narayan Colony, Old Police Line, Arrah, Bhojpur, Bihar 802301；自述 Make-in-India 制造商 + RDI（电信 / 网络 / IoT）；OEM/ODM（X 账号自述）；NSDTS「Trusted Source」+ DPIIT 认可（自述）；GeM / ONDC 上架；60% 元件本地采购（自述）；trade@indraheera.org；+91-6182 459639；Toll-free 18008908761**）；CIN 未取；表内：洪瑞现供",
+   "iso": "IN",
+   "fetched": "2026-10-29",
+   "source": "IN · 1 次检索：indraheera.com/aboutus + indraheera.org/aboutus（地址 / 电话 / 自述资质）+ x.com/indraheeragroup（OEM/ODM 自述）；CIN 未取；2026-10-29",
+   "url": "https://www.indraheera.com/aboutus",
+   "number": "未取（CIN 未查；集团自报）",
+   "status": "营业中（官网 2025）",
+   "incorporated": "未取",
+   "company_type": "Private Limited（待核）",
+   "sic": [
+    "电信 / 网络自有品牌 + 政府采购（比哈尔 Arrah）"
+   ],
+   "address": "Narayan Colony, Old Police Line, Arrah, Bhojpur, Bihar 802301",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型 → 中型（政府渠道；规模自述）",
+   "officers": [
+    "（具名 KP 未取；trade@ 公共）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**印度 · 自有品牌（政府渠道）OEM 30%：一页纸一次（STC-228GP / STC-2224GP / STC-4424GCPM 中性包装 + 贴 IHT 牌 + MOQ 1；洪瑞现供 → Q-33 口径：默认只推 SmartByte / Marvell 管理 + 工业线；「Make in India」要求 = 买方自行处理，Saga 不承诺本地化）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST**"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（自有品牌 ✔ 政府渠道 ✔ 对位 ✔ Simon 点名印度 ✔）；部分坐实（CIN 未取）；Q-33 洪瑞现供待 Simon。",
+   "code": "SC-1804"
+  },
+  "SC-1807": {
+   "batch": 131,
+   "name": "Mootek Technologies（mootek.in / mootek.co.in；**Chennai；GST 33AQSPM9347C1ZJ（indiamart；PAN AQSPM = 个人 → 疑 proprietorship，LinkedIn 自称 Pvt Ltd）；创始人 / CEO Moorthy D，2013 起；工业电脑 / 面板机 + 工业以太网 / PoE 交换机 + 协议转换 + GPS；indiamart 产品页以 Mootek 品牌列 IES215 / IES215-1F / IES2005-5T-P48 等型号（= 三旺型号体系 → 贴牌）；16 口工业 PoE 标 ₹21,000 \"Made in India\"**）；表内：三旺 / 长飞，只发过改邮箱通知",
+   "iso": "IN",
+   "fetched": "2026-10-29",
+   "source": "IN · 1 次检索：linkedin（Moorthy D / 2013 / 产品线）+ indiamart mootek.co.in 两页（GST / 品牌 Mootek 型号）；2026-10-29",
+   "url": "https://www.mootek.co.in/industrial-ethernet-switches.html",
+   "number": "33AQSPM9347C1ZJ（GSTIN）",
+   "status": "营业中（indiamart 2025 / LinkedIn）",
+   "incorporated": "2013",
+   "company_type": "Proprietorship（疑；自称 Pvt Ltd）",
+   "sic": [
+    "工业电脑 + 工业网络自有品牌 / 贴牌（金奈）"
+   ],
+   "address": "Chennai, Tamil Nadu（街道未取）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（创始人经营）",
+   "officers": [
+    "Moorthy D — Founder / CEO"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**印度 · 贴牌工业交换机 OEM 30%：点名 Moorthy D 一页纸一次（STI-280GE $46.6 / STI-288GPM $78.9 / STI-244DGGPM $121 中性包装 + 贴 Mootek 牌 + MOQ 1 + 付费样机；三旺不点名）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST**"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（自有品牌贴牌 ✔ 已进口中国工业线 ✔ 对位 ✔ 决策人具名 ✔ Simon 点名印度 ✔）；坐实（GST）。",
+   "code": "SC-1807"
+  },
+  "SC-1734": {
+   "batch": 131,
+   "name": "Joohitha Power Systems Private Limited — GridX（gridx.in / joohithapower.com；**CIN U74999TG2011PTC077260；2011-11-04；ROC Hyderabad；授权 / 实收 ₹10 lakh；H.No.1-8-12/20/A/NR, 3rd Floor, Street No.8, Habsiguda, Hyderabad 500007；SCADA / RTU / OLTE（光通信）/ PLCC EPC 咨询，服务电力公用事业；11–50 人；<$5M；info@joohithapower.com**）；表内：光猫 + 工业 2 光 2 电",
+   "iso": "IN",
+   "fetched": "2026-10-29",
+   "source": "IN · 1 次检索：correst（CIN / 成立 / 资本 / 地址）+ zoominfo（GridX / 业务 / 规模）；2026-10-29",
+   "url": "https://correst.io/public/company/joohitha-power-systems-pvt-ltd",
+   "number": "U74999TG2011PTC077260（CIN）",
+   "status": "Active（MCA）",
+   "incorporated": "2011-11-04",
+   "company_type": "Private Limited",
+   "sic": [
+    "电力 SCADA / 光通信 EPC 咨询（海得拉巴）"
+   ],
+   "address": "H.No.1-8-12/20/A/NR, 3rd Floor, Street No.8, Habsiguda, Hyderabad, Telangana 500007",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（₹10 lakh；11–50 人）",
+   "officers": [
+    "（具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**印度 · 电力 EPC 集成 25%：一页纸一次（STI-154GP $36 样机 4+1+1 SFP / STI-244DGGPM 2 光 2 电场景 + MOQ 1 + 付费样机；光猫走本职线）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST**"
+   ],
+   "notes": "集成 25%；P 池候选 ○（具体型号需求 ✔ 工业对位 ✔ 坐实 ✔ Simon 点名印度 ✔）；坐实（CIN）。",
+   "code": "SC-1734"
+  },
+  "SC-1871": {
+   "batch": 131,
+   "name": "Bay Datacom Solutions Pvt. Ltd.（baydatacom.com；**CIN U32100TG1998PTC028943；1998-02-28；Hyderabad Jubilee Hills Road No. 92, 500096（signalhire）/ Bengaluru #18 Cunningham Rd（zoominfo）；200–500 人；FY22 净销售 ₹2,405 lakh（≈₹24 Cr）；网络 / 安全 / 协作 / 数据中心 / 监控 系统集成；+91 40 4006 4430**）；表内「尼泊尔」实为印度 → 国别待核；表内：问网管工业级 4 光 24 电 PoE",
+   "iso": "IN",
+   "fetched": "2026-10-29",
+   "source": "IN · 1 次检索：edgeinsights（CIN / 成立 / FY22 财务）+ signalhire（地址 / 人数 / 1998）+ zoominfo（班加罗尔办事处 / 营收 $23.3M）；2026-10-29",
+   "url": "https://info.edgeinsights.in/company/Bay-Datacom-Solutions-Pvt.-Ltd./131542",
+   "number": "U32100TG1998PTC028943（CIN）",
+   "status": "Active（MCA）",
+   "incorporated": "1998-02-28",
+   "company_type": "Private Limited",
+   "sic": [
+    "网络 / 安防系统集成（海得拉巴 + 班加罗尔）"
+   ],
+   "address": "Road Number 92, Jubilee Hills, Hyderabad, Telangana 500096",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（200–500 人；₹24 Cr）",
+   "officers": [
+    "（具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**印度 · 大集成 25%：点名需求 4 光 24 电（STC-4424GCPM $165 L2+ 24 PoE + 4 SFP 商规 → 如实说明非工业级；工业 24 口 STI-0240GE $130 非 PoE）一页纸一次 + 付费样机— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST**"
+   ],
+   "notes": "集成 25%；P 池候选 ○（具体型号需求 ✔ 中型集成 ✔ 坐实 ✔ Simon 点名印度 ✔）；坐实（CIN）；表内「尼泊尔」→ 印度 country_fix 待 Simon。",
+   "code": "SC-1871"
+  },
+  "SC-2021": {
+   "batch": 131,
+   "name": "Acceron Infosol Pvt. Ltd.（acceron.net；**Thane 400604 / Mumbai；2007 创立；30–32 人；IT 安全 / 网络 / 无线 增值分销（VAD），自述 APAC；X @AcceronIndia；LinkedIn acceron-india**）；CIN 未取；表内名「distributor」，主动索要 company profile + catalogue，8 推 0 回",
+   "iso": "IN",
+   "fetched": "2026-10-29",
+   "source": "IN · 1 次检索：x.com/acceronindia（Thane / VAD）+ bebee + rocketreach（2007 / 人数 / 法人名）；CIN 未取；2026-10-29",
+   "url": "https://bebee.com/in/companies/acceron-infosol-pvt-ltd",
+   "number": "未取（CIN 未查；法人名目录坐实）",
+   "status": "营业中（目录 2025）",
+   "incorporated": "2007",
+   "company_type": "Private Limited",
+   "sic": [
+    "IT 安全 / 网络增值分销（孟买 Thane）"
+   ],
+   "address": "Thane, Maharashtra 400604（街道未取）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（30–32 人）",
+   "officers": [
+    "（具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**印度 · VAD 分销 20%：回「已发资料」稿 + 一页纸一次（STC-228GP $33 / STC-2224GP $86 / STC-4424GCPM $165 分销价 + MOQ 1 + 付费样机）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST**"
+   ],
+   "notes": "分销 20%；P 池候选 ★（真意向 ✔ 分销主体 ✔ 对位 ✔ Simon 点名印度 ✔）；部分坐实（CIN 未取）。",
+   "code": "SC-2021"
+  },
+  "SC-2078": {
+   "batch": 131,
+   "name": "Zebronics India Private Limited（zebronics.com；表内 zebeye.com 退信；**CIN U30000TN1997PTC038037（companyvakil 载 U30006TN1997PTC038037）；1997-04-23；ROC Chennai；授权 ₹4 Cr / 实收 ₹3.28 Cr；GSTIN 33AABCT0664P1Z4；31 个 GST 登记（25 活跃）= 全国网络；No.118 Poonamallee High Road, Vepery, Chennai 600084；MCA 登记邮箱 sandeep.doshi@zebronics.com；消费电子 + 监控自有品牌制造 / 零售**）；表内：洪瑞商业 PoE / FS 贴 Zebronics 牌",
+   "iso": "IN",
+   "fetched": "2026-10-29",
+   "source": "IN · 1 次检索：thecompanycheck（CIN / 资本 / GST 网络）+ companyvakil（地址 / MCA 邮箱）+ kompass（制造 + 分销 / 监控线）；2026-10-29",
+   "url": "https://www.thecompanycheck.com/company/zebronics-india-private-limited/U30000TN1997PTC038037",
+   "number": "U30000TN1997PTC038037（CIN）",
+   "status": "Active（MCA 2026）",
+   "incorporated": "1997-04-23",
+   "company_type": "Private Limited",
+   "sic": [
+    "消费电子 / 监控自有品牌（金奈）"
+   ],
+   "address": "No.118, Poonamallee High Road, Vepery, Chennai, Tamil Nadu 600084",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "大型（实收 ₹3.28 Cr；31 GST 登记；全国品牌）",
+   "officers": [
+    "Sandeep Doshi — MCA 登记邮箱 sandeep.doshi@zebronics.com（职务未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**印度 · 全国品牌商 OEM 30%（长线）：换 zebronics.com 地址点名采购 / 监控产品线一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-2224GP $86 中性包装 + 贴 Zebronics 牌 + MOQ 1；洪瑞现供 → Q-33 口径：默认只推 SmartByte / Marvell 管理线）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST**"
+   ],
+   "notes": "OEM 30%；P 池候选 ★ 长线（自有品牌 ✔ 大型 ✔ 已贴牌中国 PoE ✔ 对位 ✔ 坐实 ✔）；坐实（CIN / GST）；Q-33 洪瑞现供待 Simon。",
+   "code": "SC-2078"
   }
  }
 }

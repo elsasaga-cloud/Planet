@@ -4,7 +4,7 @@
   "source": "其他国家官方 / 准官方登记",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 542
+  "count": 555
  },
  "rows": {
   "SA-061": {
@@ -16768,6 +16768,397 @@
    ],
    "notes": "集成 25% + 预付 100%；P 池候选 ○（真意向 ✔ WA ✔ 对位 ✔）；部分坐实（执照未取）。",
    "code": "SC-1248"
+  },
+  "SC-1714": {
+   "batch": 131,
+   "name": "Omni Ray AG（omniray.ch；**Schweizer Handelsregister CHE-105.959.689；LEI 967600D74EO0N5PVE227；Im Schörli 5, 8600 Dübendorf；1950-08-16 创立于苏黎世；AG，资本 CHF 2,050,000；20–49 人；工业自动化贸易 + 服务商（kompass：进口 西欧 / 中亚 / 北美）；MD Roger Müller；Moxa 分销**）；表内「智利」实为瑞士 → 国别待核",
+   "iso": "CH",
+   "fetched": "2026-10-29",
+   "source": "CH · 1 次检索：northdata（CHE / LEI / 成立日 / 地址）+ kompass（资本 / 人数 / MD / 业务）；2026-10-29",
+   "url": "https://www.northdata.com/Omni%20Ray%20AG,%20D%C3%BCbendorf/CHE-105.959.689",
+   "number": "CHE-105.959.689",
+   "status": "Active（Handelsregister）",
+   "incorporated": "1950-08-16",
+   "company_type": "AG",
+   "sic": [
+    "工业自动化分销（迪本多夫）"
+   ],
+   "address": "Im Schörli 5, 8600 Dübendorf",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（CHF 2.05M 资本；20–49 人；75 年）",
+   "officers": [
+    "Roger Müller — Managing Director"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**欧洲 · 工业自动化分销 20%：点名 Roger Müller 一页纸一次（STI-280GE / STI-288GPM / STI-488DGGPM $147 工业线 + MOQ 1 + 付费样机；Moxa 不点名；瑞士非 EU 自清关）— 欧洲常规：英文 / 德文稿、20 / 25 / 30 + T/T 50/50 + DAP 买方清关（CE / RoHS / REACH；瑞士非 EU 买方自清关）；周二 / 周四 10–12 CET**"
+   ],
+   "notes": "分销 20%；P 池候选 ★（欧洲 ✔ 台湾工业品牌分销 ✔ 对位 ✔ 坐实 ✔ 决策人具名 ✔）；坐实（Handelsregister）；表内「智利」→ 瑞士 country_fix 待 Simon。",
+   "code": "SC-1714"
+  },
+  "SC-1713": {
+   "batch": 131,
+   "name": "OAK INTEGRATOR Products SIA（oak-integrator.lv；**Reģ. Nr. 40003540103；2001-04-04；原 Beijer Electronics SIA，2016-02-01 更名；Rīga, Mežkalna iela 5；拉脱维亚 Mitsubishi Electric 独家分销 + Beijer / Westermo / IDEC / Power Electronics / Korenix；2023 营收 $1.33M / 3 人；姊妹 OAK Integrator Solutions SIA（Reģ. 40103496615；2011-12-30；$286K / 1 人）**）；表内「玻利维亚」实为拉脱维亚 → 国别待核",
+   "iso": "LV",
+   "fetched": "2026-10-29",
+   "source": "LV · 1 次检索：oak-integrator.lv/news（更名 / 品牌线）+ tracxn（两法人 Reģ. Nr. / 营收 / 人数 / 地址）；2026-10-29",
+   "url": "https://tracxn.com/d/companies/oak-integrator/__O2MYpO0NTFEGt-ZrtiwTJY37PXdoWkQrf5ABZ_ov2m4",
+   "number": "40003540103（Products SIA）/ 40103496615（Solutions SIA）",
+   "status": "Active（tracxn 2025）",
+   "incorporated": "2001-04-04",
+   "company_type": "SIA",
+   "sic": [
+    "工业自动化分销 + PLC 编程（里加）"
+   ],
+   "address": "Mežkalna iela 5, Rīga",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（$1.33M；3 人）",
+   "officers": [
+    "（具名 KP 未取；官网 Happy clients 页列客户 ORKLA Latvija 等）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**欧洲 · 工业自动化小分销 20% + 首单 T/T 50/50：一页纸一次（STI-280GE / STI-288GPM 工业线 + MOQ 1 + 付费样机；Korenix / Westermo 不点名）— 欧洲常规：英文 / 德文稿、20 / 25 / 30 + T/T 50/50 + DAP 买方清关（CE / RoHS / REACH；瑞士非 EU 买方自清关）；周二 / 周四 10–12 CET**"
+   ],
+   "notes": "分销 20%；P 池候选 ○（欧洲 ✔ 台湾工业品牌集成 ✔ 对位 ✔ 坐实 ✔；小型）；坐实（Reģ. Nr.）；表内「玻利维亚」→ 拉脱维亚 country_fix 待 Simon。",
+   "code": "SC-1713"
+  },
+  "SC-1689": {
+   "batch": 131,
+   "name": "Above-Net Comercio de Informatica, Telecomunicacao e Servicos Ltda（abovenet.com.br；**CNPJ 05.920.155/0001-60；2003-09-11；Rua Dalcidio Jurandir 255, Loj 123, Barra da Tijuca, Rio de Janeiro RJ 22631-250；CNAE 4651-6/01 计算机设备批发；自述 20+ 年 / 800+ 客户 / 1,500 工程项目；sales@abovenet.com.br；+55 21 2294-3931**）；表内：三旺工业交换机进口",
+   "iso": "BR",
+   "fetched": "2026-10-29",
+   "source": "BR · 1 次检索：abovenet.com.br 隐私政策（法人名 / CNPJ / 地址）+ cnpjagora + econodata（成立日 / CNAE）；2026-10-29",
+   "url": "https://www.econodata.com.br/consulta-empresa/05920155000160-abovenet-comercio-de-informatica-telecomunicacao-e-servicos-ltda",
+   "number": "05.920.155/0001-60（CNPJ）",
+   "status": "Ativa（Receita 2026）",
+   "incorporated": "2003-09-11",
+   "company_type": "Ltda",
+   "sic": [
+    "网络 / 电信设备批发 + 工程（里约）"
+   ],
+   "address": "Rua Dalcidio Jurandir, 255, Loj 123, Barra da Tijuca, Rio de Janeiro - RJ, 22631-250",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（22 年；800+ 客户）",
+   "officers": [
+    "（具名 KP 未取；sales@ 公共）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**巴西 · 工业网络分销 / 集成 20–25%：一页纸一次（STI-280GE / STI-288GPM / STI-244DGGPM 工业线 + STC-228GP + MOQ 1 + 付费样机；三旺不点名）— 巴西常规：英文 / 葡文稿、20 / 25 / 30 + 预付 100%（首单）+ FOB 深圳（巴西进口税高、买方清关；不承诺 Anatel）；周二 / 周四 10–12 BRT**"
+   ],
+   "notes": "分销 20%；P 池候选 ★（分销 + 工程 ✔ 已进口中国工业线 ✔ 对位 ✔ 坐实 ✔ 巴西先例 Teltex / Parks）；坐实（CNPJ）。",
+   "code": "SC-1689"
+  },
+  "SC-1691": {
+   "batch": 131,
+   "name": "Alfacomp Automação Industrial Ltda（alfacomp.ind.br / alfacomp.net；**CNPJ 04.430.358/0001-05（总部 Porto Alegre RS，2001-05-10）+ 分支 04.430.358/0002-96（Campinas SP Swiss Park, Av. Antonio Artioli 570 Bloco Lacorno Sala 204；Ativa；资本 R$400,000；matheus@alfacomp.ind.br；(51) 3029-7161）；CNAE 4751-2/01 信息设备零售 + 4742-3/00 电气材料 + 3314-7/05 工业传输设备维修**）；表内：全线迈威产品 + 官网 WA",
+   "iso": "BR",
+   "fetched": "2026-10-29",
+   "source": "BR · 1 次检索：cnpja（分支 CNPJ / 资本 / 邮箱 / CNAE）+ cnpj.biz（总部 CNPJ / 成立日）；2026-10-29",
+   "url": "https://cnpja.com/en/office/04430358000296",
+   "number": "04.430.358/0001-05（CNPJ 总部）",
+   "status": "Ativa（Receita 2025-10）",
+   "incorporated": "2001-05-10",
+   "company_type": "Ltda",
+   "sic": [
+    "工业自动化 / 网络设备分销 + 维修（阿雷格里港 / 坎皮纳斯）"
+   ],
+   "address": "Av. Antonio Artioli, 570, Bloco Lacorno Sala 204, Swiss Park, Campinas - SP, 13049-900（分支）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（两地；R$400K 资本）",
+   "officers": [
+    "Matheus — 分支登记邮箱 matheus@alfacomp.ind.br（职务未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**巴西 · 工业分销 20%：WA + 邮件一页纸一次（STI-280GE / STI-288GPM / STI-488DGGPM 工业线 + MOQ 1 + 付费样机；迈威不点名）— 巴西常规：英文 / 葡文稿、20 / 25 / 30 + 预付 100%（首单）+ FOB 深圳（巴西进口税高、买方清关；不承诺 Anatel）；周二 / 周四 10–12 BRT**"
+   ],
+   "notes": "分销 20%；P 池候选 ★（工业分销 ✔ 中国工业品牌全线 ✔ 对位 ✔ WA ✔ 坐实 ✔）；坐实（CNPJ 两处）。",
+   "code": "SC-1691"
+  },
+  "SC-1583": {
+   "batch": 131,
+   "name": "Cartago Comex Ltda（cartagocomex.com；**CNPJ 36.699.505/0001-33；2020-03-17；Rua Joubert de Carvalho 623, Sala 804, Zona 01, Maringá PR 87013-200；资本 R$1,000；1–10 人；CNAE 主 5250-8/02 报关行 + 次 4619-2/00 商业代理；matheus@cartagocomex.com；WhatsApp 44 98831-9311**）；表内：拿 BYXGD 牌子问 HTB MC 100 对",
+   "iso": "BR",
+   "fetched": "2026-10-29",
+   "source": "BR · 1 次检索：casadosdados（CNPJ / 资本 / CNAE / 邮箱 / WA）+ econodata（人数）；2026-10-29",
+   "url": "https://casadosdados.com.br/solucao/cnpj/cartago-comex-ltda-36699505000133",
+   "number": "36.699.505/0001-33（CNPJ）",
+   "status": "Ativa（Receita 2025-08）",
+   "incorporated": "2020-03-17",
+   "company_type": "Ltda",
+   "sic": [
+    "报关 / 进口代理（马林加）"
+   ],
+   "address": "Rua Joubert de Carvalho, 623, Sala 804, Zona 01, Maringá - PR, 87013-200",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（R$1,000 资本；1–10 人）",
+   "officers": [
+    "Matheus — 登记邮箱 matheus@cartagocomex.com（职务未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**巴西 · 进口代理 △ 观察档 · 贸易 20% + 预付 100%：WA 一页纸一次（STC-110XGE $65 千兆 MC + MOQ 1；百兆 MC 无 → 如实说；代理背后终端 100 对需求）— 巴西常规：英文 / 葡文稿、20 / 25 / 30 + 预付 100%（首单）+ FOB 深圳（巴西进口税高、买方清关；不承诺 Anatel）；周二 / 周四 10–12 BRT**"
+   ],
+   "notes": "贸易 20% + 预付 100%；P 池候选 △ 观察档（数量询问 ✔ 进口代理 = 有进口经验者 ✔ 对位（千兆 MC）✔；微型报关行 → 可否决）；坐实（CNPJ）。",
+   "code": "SC-1583"
+  },
+  "SC-1670": {
+   "batch": 131,
+   "name": "Công Ty TNHH Phát Triển Công Nghệ Metsuki VietNam（metsuki.com.vn；**MST 0304967173；2007-05-02 成立；41/1F Tân Thới Nhất 1, KP 3, P. Tân Thới Nhất, Quận 12, TP.HCM；51–100 人；电子电信设备进出口 + CCTV（IP / analog）生产 / 销售 / 安装 + GPS 追踪 + 太阳能；0913 770 579；info@metsuki.com.vn**）；表内：CCTV 为主 + ONV 商业 / 工业 PoE，问 4-8-16-24 口；21 推 0 回",
+   "iso": "VN",
+   "fetched": "2026-10-29",
+   "source": "VN · 1 次检索：yellowpages.vn（MST / 成立 / 人数 / 业务 / 地址）；2026-10-29",
+   "url": "https://www.yellowpages.vn/lgs/1187674716/cong-ty-tnhh-phat-trien-cong-nghe-metsuki-vietnam.html",
+   "number": "0304967173（MST）",
+   "status": "营业中（目录 2024）",
+   "incorporated": "2007-05-02",
+   "company_type": "TNHH（有限）",
+   "sic": [
+    "CCTV / 电信设备进出口 + 安装（胡志明市）"
+   ],
+   "address": "41/1F Tân Thới Nhất 1, Khu Phố 3, Phường Tân Thới Nhất, Quận 12, TP. Hồ Chí Minh",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（51–100 人）",
+   "officers": [
+    "（具名 KP 未取；0913 770 579 官网）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**越南 · CCTV 进口商 分销 20%：换稿点名 4 / 8 / 16 / 24 口（STC-028GP $28 / STC-228GP $33 / STC-2216GP / STC-2224GP $86 + MOQ 1 + 付费样机；ONV 不点名）— 其他区常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关；周二 / 周四 当地 10–12**"
+   ],
+   "notes": "分销 20%；P 池候选 ○（进口商 ✔ 具体口数需求 ✔ 对位 ✔ 坐实 ✔；21 推 0 回 → 换稿）；坐实（MST）。",
+   "code": "SC-1670"
+  },
+  "SC-1900": {
+   "batch": 131,
+   "name": "Soluciones Tecnológicas Konect Cía. Ltda.（konectsoluciones.com；**Quito，Pio Valdivieso E5-10；2019-05-17 成立；17 人（2024）；电信（有线 + 无线）；emis：2024 净收入 −20.8% / 总资产 +15.8%；Tendata：进口商，36 家供应商（中国 / 拉脱维亚）光纤工具 / 适配器 / PTZ 摄像机；WhatsApp +593 99 565 3148；ventas@konectsoluciones.com**）；RUC 未取；表内：洪瑞 + 海硕 PON，1 推 0 回",
+   "iso": "EC",
+   "fetched": "2026-10-29",
+   "source": "EC · 1 次检索：emis（法人名 / 成立 / 人数 / 财务趋势）+ facebook（WA / 邮箱）+ tendata（进口记录）；RUC 未取；2026-10-29",
+   "url": "https://www.emis.com/php/company-profile/EC/Soluciones_Tecnologicas_Konect_CiaLtda_es_9651873.html",
+   "number": "未取（RUC 未查；法人名 emis 坐实）",
+   "status": "营业中（emis 2025-02）",
+   "incorporated": "2019-05-17",
+   "company_type": "Cía. Ltda.",
+   "sic": [
+    "电信设备进口 / 集成（基多）"
+   ],
+   "address": "Pio Valdivieso E5-10, Quito, Pichincha",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（17 人）",
+   "officers": [
+    "（具名 KP 未取；WA +593 99 565 3148）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**厄瓜多尔 · 进口集成 25% + 首单预付 100%：WA 一页纸一次（STC-028GP / STC-228GP / STC-2224GP + MOQ 1 + 付费样机；洪瑞现供 → Q-33 口径：默认只推 SmartByte / Marvell 管理线；海硕 PON 不碰）— 其他区常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关；周二 / 周四 当地 10–12**"
+   ],
+   "notes": "集成 25%；P 池候选 ○（进口商 ✔ 中国品牌 ✔ 对位 ✔ 厄瓜多尔先例 SC-2402 ✔）；部分坐实（RUC 未取）；Q-33 洪瑞现供待 Simon。",
+   "code": "SC-1900"
+  },
+  "SC-1803": {
+   "batch": 131,
+   "name": "Habari Node Limited（habari.co.tz；**Arusha，AICC Ngorongoro Wing 4F Room 403；2010 由 Afam (T) Ltd + Arusha Node Marie 创立，Certificate of Incorporation 75466（Companies Act 2002）；接续 1994 起的 Arusha Node Marie ISP；持 National Application Services License；DSL / 无线 / 光纤 + iDirect VSAT；1 个数据中心（colocation）；+255 27 250 4220；sales@habari.co.tz**）；表内：常规千兆小外电 20 个；具名 KP liliani.mboya@ / eliangiringa@",
+   "iso": "TZ",
+   "fetched": "2026-10-29",
+   "source": "TZ · 1 次检索：africa-internet（Cert. No. / 创立 / 牌照 / 地址）+ datacenterplatform（数据中心 / 电话）；2026-10-29",
+   "url": "https://www.africa-internet.com/en/provider/tanzania/habari-node/",
+   "number": "75466（Certificate of Incorporation）",
+   "status": "营业中（目录 2025）",
+   "incorporated": "2010",
+   "company_type": "Limited",
+   "sic": [
+    "区域 ISP + 数据中心（阿鲁沙）"
+   ],
+   "address": "AICC Ngorongoro Wing, 4th Floor, Room 403, Arusha",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（区域 ISP）",
+   "officers": [
+    "Liliani Mboya — 表内具名 KP（职务未取）",
+    "Eliangiringa — 表内具名 KP（职务未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**坦桑尼亚 · 区域 ISP 自用 直客 25% + 预付 100%：点名 Liliani Mboya 一页纸一次（STC-028GP $28 ×20 / STC-228GP $33 ×20 + 运费 DAP 买方清关 + 付费样机）— 其他区常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关；周二 / 周四 当地 10–12**"
+   ],
+   "notes": "直客 25%；P 池候选 ○（数量询问 ✔ 具名 KP ✔ 对位 ✔ 坐实 ✔；中型区域 ISP ≠ 巨头运营商）；坐实（Cert. No.）。",
+   "code": "SC-1803"
+  },
+  "SC-2885": {
+   "batch": 131,
+   "name": "Plug & Play Solutions = 表内 LS Networks (Pty) Ltd（plugandplay.co.za；**官网：1002 Pretorius Ave, Lyttelton Manor, Centurion 0157；012 667 2513 / 0861 PLUG PLAY；sales@plugandplay.co.za；AI 视频分析 + 门禁 + 安防集成（住宅 + 商业）；rocketreach：2012 创立 / 35 人 / $5M；Sales Executive Kelvin Jordaan**）；Reg No 未取，LS Networks 法人名与官网品牌对应未证；表内：HDMI + 工业级 PoE 交换机 + MC，Simon「单独跟进」",
+   "iso": "ZA",
+   "fetched": "2026-10-29",
+   "source": "ZA · 1 次检索：plugandplay.co.za（地址 / 电话 / 业务）+ facebook + rocketreach（2012 / 35 人 / $5M / 销售）；Reg No 未取；2026-10-29",
+   "url": "https://plugandplay.co.za/",
+   "number": "未取（Reg No 未查；LS Networks (Pty) Ltd 法人名表内自报）",
+   "status": "营业中（官网 2026）",
+   "incorporated": "2012",
+   "company_type": "(Pty) Ltd（待核）",
+   "sic": [
+    "安防集成（森图里恩）"
+   ],
+   "address": "1002 Pretorius Ave, Lyttelton Manor, Centurion, 0157",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（35 人；$5M）",
+   "officers": [
+    "Kelvin Jordaan — Sales Executive"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**南非 · 安防集成 25%：一页纸一次（STI-288GPM $78.9 / STI-244DGGPM $121 工业 PoE + STC-110XGE 千兆 MC + MOQ 1 + 付费样机；HDMI 延长器无 → 如实说）— 其他区常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关；周二 / 周四 当地 10–12**"
+   ],
+   "notes": "集成 25%；P 池候选 ○（真需求 ✔ 对位 ✔ 南非先例 ✔）；部分坐实（Reg No 未取；法人名待对）。",
+   "code": "SC-2885"
+  },
+  "SC-2891": {
+   "batch": 131,
+   "name": "Trimatrik Multimedia（trimatrikbd.com；**Corporate Office House#01 (GF), Road#20/B, Sector#04, Uttara, Dhaka-1230 + Mouchak 分店 Shop#34, 66 Property Plaza, Malibagh；热线 01711-461346 / 01785-777722 / 01711-766062 等；info@trimatrikbd.com；自述 CCTV supplier / importer / solution provider（IP / HD 摄像机、门禁、考勤）；YouTube 频道 TRIMATRIK BD**）；注册号未取；表内：ONV 商业 PoE 带标卖",
+   "iso": "BD",
+   "fetched": "2026-10-29",
+   "source": "BD · 1 次检索：trimatrikbd.com 两页（地址 / 分店 / 热线 / 业务）+ YouTube 频道页；注册号未取；2026-10-29",
+   "url": "https://www.trimatrikbd.com/cctv-camera-company-in-bangladesh",
+   "number": "未取（RJSC 未查）",
+   "status": "营业中（官网 2022 / YouTube）",
+   "incorporated": "未取",
+   "company_type": "未取（疑 proprietorship / Ltd）",
+   "sic": [
+    "CCTV 进口 + 零售 + 安装（达卡）"
+   ],
+   "address": "House#01 (Ground Floor), Road#20/B, Sector#04, Uttara, Dhaka-1230",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（2 店；多热线）",
+   "officers": [
+    "（具名 KP 未取；官网手机 +880 1785 777722 WA 可试）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**孟加拉 · 贴牌 CCTV 店 △ 观察档 · OEM 30% + 预付 100%：WA 一页纸一次（STC-028GP $28 / STC-228GP $33 中性包装 + 贴 Trimatrik 牌 + MOQ 1；ONV 不点名）— 其他区常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关；周二 / 周四 当地 10–12**"
+   ],
+   "notes": "OEM 30% + 预付 100%；P 池候选 △ 观察档（贴自有牌 ✔ 进口商 ✔ 对位 ✔；小型 + 非点名国 → 可否决）；部分坐实（注册号未取）。",
+   "code": "SC-2891"
+  },
+  "SC-2587": {
+   "batch": 131,
+   "name": "tactio Corporation（tactio.net；**2006 创立于香港；Unit 1–9, 8/F, Global Gateway Tower, 63 Wing Hong Street, Lai Chi Kok, Kowloon；Tel (852) 3188 0767；marketing@tactio.net；自有品牌 INEO 工业 PoE 交换机（IGM0840P 8 PoE+ 4 SFP / IGU0420P 4+2）+ 交换机 8–48 口至 10G + MC + PoE + AP + 线缆；自述「R&D 与制造团队」**）；CR No. 未取；表内：「国内外壳贴自有牌，有人卖他们的」，8 推 0 回",
+   "iso": "HK",
+   "fetched": "2026-10-29",
+   "source": "HK · 1 次检索：tactio.net 首页 / about / contact（创立 / 地址 / 电话 / 产品线）；CR No. 未取；2026-10-29",
+   "url": "https://tactio.net/about",
+   "number": "未取（CR 未查）",
+   "status": "营业中（官网 2023）",
+   "incorporated": "2006",
+   "company_type": "Corporation（Ltd 待核）",
+   "sic": [
+    "网络设备自有品牌（香港荔枝角）"
+   ],
+   "address": "Unit 1–9, 8th Floor, Global Gateway Tower, 63 Wing Hong Street, Lai Chi Kok, Kowloon, Hong Kong",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型 → 中型（全线自有品牌）",
+   "officers": [
+    "（具名 KP 未取；marketing@ 公共）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**香港 · 品牌商 OEM 30%：换 OEM 稿一页纸一次（STI-288GPM $78.9 / STI-244DGGPM $121 / STC-228GP $33 中性包装 + 贴 tactio / INEO 牌 + MOQ 1 + 付费样机；中文稿可）— 其他区常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关；周二 / 周四 当地 10–12**"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（自有品牌全线 ✔ 已贴牌中国同类 ✔ 对位 ✔）；部分坐实（CR 未取）。",
+   "code": "SC-2587"
+  },
+  "SC-2687": {
+   "batch": 131,
+   "name": "PROTECH（protech.com.ge；**yell.ge：Tbilisi, Nadzaladevi, 7 Ts. Dadiani St., Karvasla 商场 3F Office A308/1；Identification number 438117477；消防 / POS / 安防摄像 / BMS / 网络硬件 / 线缆 / UPS 销售 + 安装；+995 577 59 44 99；info@protech.com.ge（官网 contact 对上）**；bia.ge 同名 Protech Georgia LLC 405097005 为假肢业务 → 不采）；表内：「主要是 ONV 的，带标卖」，16 推 0 回",
+   "iso": "GE",
+   "fetched": "2026-10-29",
+   "source": "GE · 1 次检索：yell.ge（ID / 地址 / 类目）+ protech.com.ge/en/contact（地址 / 电话对上）；2026-10-29",
+   "url": "https://www.yell.ge/company.php?id=146486&lan=eng",
+   "number": "438117477（Identification number，yell.ge）",
+   "status": "营业中（官网）",
+   "incorporated": "未取",
+   "company_type": "未取（LLC 待核）",
+   "sic": [
+    "安防 / 消防 / 网络安装商（第比利斯）"
+   ],
+   "address": "7 Ts. Dadiani St., Shopping Centre Karvasla, Fl. 3, Office A308/1, Tbilisi",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（商场办公室）",
+   "officers": [
+    "（具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**微型商场安装商 → 回 C 储备；来信再起则 OEM 30% + 预付 100%（贴牌最小起订）**— 其他区常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关；周二 / 周四 当地 10–12"
+   ],
+   "notes": "回 C（坐实但微型 + 非点名国 + 16 推 0 回；贴牌线索保留）。",
+   "code": "SC-2687"
+  },
+  "SC-1883": {
+   "batch": 131,
+   "name": "Anfatech（anfatech.com.vn；**1 查仅得近名 CÔNG TY CỔ PHẦN CÔNG NGHỆ ANPHATECH（MST 0317549776；2022-11-03；Thủ Đức TP.HCM；代表 Trần Hậu Toàn；税号 2024-12-12 已关闭 = 停业）及无关同名 → anfatech.com.vn 归属未证 → 未坐实（若为同一主体则为红旗）**）；表内：ONV 全线产品引进 + QNAP，8 推 0 回",
+   "iso": "VN",
+   "fetched": "2026-10-29",
+   "source": "VN · 1 次检索：thuvienphapluat 近名 ANPHATECH（已停业）+ 无关同名 → 域名未对上；2026-10-29",
+   "url": "",
+   "number": "未取（近名 MST 0317549776 不采）",
+   "status": "未坐实",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "ONV 全线进口（越南，待证）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "未知",
+   "officers": [
+    "（具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**未坐实 → 回 C 储备；来信再起则分销 20% + 预付 100%**— 其他区常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关；周二 / 周四 当地 10–12"
+   ],
+   "notes": "回 C（未坐实：1 查仅近名已停业户）。",
+   "code": "SC-1883"
   }
  }
 }

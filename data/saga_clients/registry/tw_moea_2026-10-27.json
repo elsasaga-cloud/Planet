@@ -4,7 +4,7 @@
   "source": "台灣 · 經濟部商工登記 / 名錄摘要",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 6
+  "count": 9
  },
  "rows": {
   "SA-013": {
@@ -194,6 +194,98 @@
    ],
    "notes": "OEM 30%；P 池候选 ○（自有品牌 ✔ 对位 ✔）；部分坐实（統編未取）。",
    "code": "SC-1134"
+  },
+  "SC-2695": {
+   "batch": 131,
+   "name": "慧友電子股份有限公司 EverFocus Electronics Corp.（everfocus.com；**統編 89639615；上市 5484 慧友；1995 設立；實收資本 NT$1,185,078,470（twfile）；登記地址 新北市新店區寶橋路235巷133號7樓之1（twincn）/ 汐止區新台五路1段79號12樓之1（twfile）；代表人 莊永順（twincn）/ 董事長 黃佳銘（twfile）；登記工廠 65011553 生產中；(02)2662-2338**）；表内：安防品牌商，商业 PoE 自有牌",
+   "iso": "TW",
+   "fetched": "2026-10-29",
+   "source": "TW · 1 次检索：twincn（統編 / 上市 / 代表人 / 工廠）+ twfile（實收 / 董監事）；2026-10-29",
+   "url": "https://twincn.com/item.aspx?no=89639615",
+   "number": "89639615（統編）/ 上市 5484",
+   "status": "核准設立 · 營業中",
+   "incorporated": "1995",
+   "company_type": "股份有限公司（上市）",
+   "sic": [
+    "安防監控品牌製造（新北）"
+   ],
+   "address": "新北市新店區寶橋路235巷133號7樓之1",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "大型（上市；實收 NT$11.85 億）",
+   "officers": [
+    "莊永順 — 代表人（twincn）",
+    "黃佳銘 — 董事長（twfile）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**台灣 · 上市品牌商 OEM 30%（長線）：找硬體採購一頁紙一次（STC-028GP / STC-228GP / STC-2224GP 中性包裝 + 貼 EverFocus 牌 + MOQ 1；不談 NDAA）— 台湾常规：中文 / 英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳；周二 / 周四 10–12**"
+   ],
+   "notes": "OEM 30%；P 池候选 ★ 长线（自有品牌 ✔ 上市 ✔ 对位 ✔ 坐实 ✔；台湾 OEM 先例 AVTECH / Hi Sharp）；坐实（統編）。",
+   "code": "SC-2695"
+  },
+  "SC-2839": {
+   "batch": 131,
+   "name": "宸曜科技股份有限公司 NEOUSYS TECHNOLOGY INC.（neousys-tech.com；**統編 29169532；上櫃 6922 宸曜；2010-07-14 設立；資本額 NT$500,000,000 / 稅籍資本 202,815,000；新北市中和區建八路198號11樓（登記）/ 中正路868之3號15樓；董事長兼總經理 高明和；發言人 藍林忠（業務副總）；工廠登記 65005448（電腦電子製造）；僑外資；(02)2223-6182**）；表内：工业电脑品牌商，自有 5 电口工业 FS，20 推 0 回",
+   "iso": "TW",
+   "fetched": "2026-10-29",
+   "source": "TW · 1 次检索：twincn（統編 / 上櫃 / 董事長 / 發言人）+ alltwcompany（資本 / 工廠 / 進出口登記）；2026-10-29",
+   "url": "https://www.twincn.com/item.aspx?no=29169532",
+   "number": "29169532（統編）/ 上櫃 6922",
+   "status": "核准設立 · 營業中",
+   "incorporated": "2010-07-14",
+   "company_type": "股份有限公司（上櫃）",
+   "sic": [
+    "強固型工業電腦製造 + 工業網路配套（新北中和）"
+   ],
+   "address": "新北市中和區建八路198號11樓",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "大型（上櫃；資本 NT$5 億）",
+   "officers": [
+    "高明和 — 董事長 / 總經理",
+    "藍林忠 — 業務副總 / 發言人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**台灣 · 上櫃品牌商 OEM 30%（長線）：點名產品經理一頁紙一次（STI-280GE / STI-288GPM / STI-244DGGPM 中性包裝 + 貼 Neousys 牌作工業電腦配套 + MOQ 1；20 推 0 回 → 換 OEM 稿）— 台湾常规：中文 / 英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳；周二 / 周四 10–12**"
+   ],
+   "notes": "OEM 30%；P 池候选 ★ 长线（品牌商 ✔ 上櫃 ✔ 工业对位 ✔ 坐实 ✔）；坐实（統編）。",
+   "code": "SC-2839"
+  },
+  "SC-2971": {
+   "batch": 131,
+   "name": "元生工業股份有限公司 KONTEN NETWORKS INC.（konten-networks.com / sbjlink.com；**統編 65489708；2016-09-09 設立；新北市新店區民權路108號7樓；代表人 張聰洲；董監事 張聰洲 / 陳許淇 / 林雅鈴 / 張宇曦；自述「OEM/ODM 設計製造工業乙太網交換器」（ITS / 鐵路 / M12 / PoE bt / L3 / 10G）；Tendata：46 批出口至 13 家買家**）；表内：「刷的自己 logo」工业 FS / SFP / MC / 串口，5 推 0 回",
+   "iso": "TW",
+   "fetched": "2026-10-29",
+   "source": "TW · 1 次检索：twincn（統編 / 董監事 / 地址）+ konten-networks.com 產品頁（MP-0804G 8+4 2.5G SFP）+ tendata（出口記錄 / 自述 ODM）；2026-10-29",
+   "url": "https://twincn.com/item.aspx?no=65489708",
+   "number": "65489708（統編）",
+   "status": "核准設立 · 營業中",
+   "incorporated": "2016-09-09",
+   "company_type": "股份有限公司",
+   "sic": [
+    "工業交換器 OEM/ODM 製造（新北新店）"
+   ],
+   "address": "新北市新店區民權路108號7樓",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（2016；出口 13 買家）",
+   "officers": [
+    "張聰洲 — 代表人 / 董事"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**同行 ODM 製造商 → 回 C 儲備（不推銷；觀察其出口買家線索）**— 台湾常规：中文 / 英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳；周二 / 周四 10–12"
+   ],
+   "notes": "回 C（坐实但同行：自述工业交换机 OEM/ODM 设计制造 = 竞品制造商，非买家）。",
+   "code": "SC-2971"
   }
  }
 }

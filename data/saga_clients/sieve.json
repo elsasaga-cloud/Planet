@@ -3,10 +3,9 @@
   "updated": "2026-10-29",
   "rules": "docs/C池三闸筛选_方案_2026-10-29.md §2",
   "counts": {
-   "keep_C": 2188,
+   "keep_C": 2195,
    "pass_final": 209,
-   "pool_candidate": 155,
-   "candidate": 31
+   "pool_candidate": 179
   },
   "n": 2583
  },
@@ -6915,13 +6914,15 @@
   "batch": "G1-06"
  },
  "SC-1583": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "巴西 Cartago Comex（cartagocomex.com；HTB MC 100 对，拿 BYXGD 牌子来问）：数量询问 = 真需求 ✔ 进口中国同类 ✔ 巴西有先例（Teltex / Parks）；→ 闸 2 查 CNPJ；MC 仅 STC-110XGE 对位 → 低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "△ 观察档 · 巴西进口代理 贸易 20% + 预付 100%：Cartago Comex Ltda（Maringá；CNPJ 36.699.505/0001-33；2020；报关行 + 商业代理；R$1,000；1–10 人）坐实但微型；MC 100 对数量询问 ✔ 有进口经验 ✔ 对位（STC-110XGE）✔ → 入池观察档；可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-26"
+  "batch": "G2-131",
+  "g1_batch": "G1-26",
+  "g1_reason": "巴西 Cartago Comex（cartagocomex.com；HTB MC 100 对，拿 BYXGD 牌子来问）：数量询问 = 真需求 ✔ 进口中国同类 ✔ 巴西有先例（Teltex / Parks）；→ 闸 2 查 CNPJ；MC 仅 STC-110XGE 对位 → 低优先"
  },
  "SC-1584": {
   "verdict": "keep_C",
@@ -7517,13 +7518,15 @@
   "batch": "G1-01"
  },
  "SC-1670": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "越南 Metsuki（metsuki.com.vn；CCTV 为主 + 商业 / 工业 PoE ONV，问到百千兆 4-8-16-24 口；21 推 0 回）：具体需求 ✔ 进口中国同类 ✔ 对位 ✔；→ 闸 2 查底数（masothue）；四主区外非点名国 → 低优先，换稿点名",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 越南 · CCTV 进口商 分销 20%：Công Ty TNHH Phát Triển Công Nghệ Metsuki VietNam（TP.HCM Q12；MST 0304967173；2007；51–100 人；电子电信进出口 + CCTV）坐实；进口商 ✔ 4-8-16-24 口需求 ✔ 对位 ✔ → P 池候选（21 推 0 回 → 换稿点名口数）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-26"
+  "batch": "G2-131",
+  "g1_batch": "G1-26",
+  "g1_reason": "越南 Metsuki（metsuki.com.vn；CCTV 为主 + 商业 / 工业 PoE ONV，问到百千兆 4-8-16-24 口；21 推 0 回）：具体需求 ✔ 进口中国同类 ✔ 对位 ✔；→ 闸 2 查底数（masothue）；四主区外非点名国 → 低优先，换稿点名"
  },
  "SC-1671": {
   "verdict": "keep_C",
@@ -7556,13 +7559,15 @@
   ]
  },
  "SC-1675": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "德国 Tekmodul（tekmodul.de；表内国别未填 → .de；「Atop 的，感觉比较专业」= 台湾工业品牌专业经销）：德国主区 ✔ 台湾品牌证据 ✔ 分销主体 ✔ 对位（STI 工业线）✔；未触达 → 闸 2 查底数（handelsregister 镜像 / 官网 Impressum）",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 德国主区 · 工业通信分销 20%：tekmodul GmbH（München；HRB 158866；2005；GF Tassilo Halt；electronica 2024 参展；Atop 经销）坐实；主区 ✔ 台湾工业品牌经销 ✔ 对位 ✔ 决策人具名 ✔ → P 池候选",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-26"
+  "batch": "G2-131",
+  "g1_batch": "G1-26",
+  "g1_reason": "德国 Tekmodul（tekmodul.de；表内国别未填 → .de；「Atop 的，感觉比较专业」= 台湾工业品牌专业经销）：德国主区 ✔ 台湾品牌证据 ✔ 分销主体 ✔ 对位（STI 工业线）✔；未触达 → 闸 2 查底数（handelsregister 镜像 / 官网 Impressum）"
  },
  "SC-1676": {
   "verdict": "keep_C",
@@ -7685,13 +7690,15 @@
   "batch": "G1-04"
  },
  "SC-1689": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "巴西 Abovenet（abovenet.com.br；三旺的）：中国工业品牌专营 ✔ 对位 ✔ 巴西有先例；未触达 → 闸 2 查 CNPJ；低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 巴西 · 工业网络分销 / 集成 20%：Above-Net Comercio de Informatica, Telecomunicacao e Servicos Ltda（Rio de Janeiro；CNPJ 05.920.155/0001-60；2003；800+ 客户 / 1,500 项目）坐实；已进口中国工业线（三旺）✔ 对位 ✔ 巴西先例 ✔ → P 池候选",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-26"
+  "batch": "G2-131",
+  "g1_batch": "G1-26",
+  "g1_reason": "巴西 Abovenet（abovenet.com.br；三旺的）：中国工业品牌专营 ✔ 对位 ✔ 巴西有先例；未触达 → 闸 2 查 CNPJ；低优先"
  },
  "SC-169": {
   "verdict": "keep_C",
@@ -7715,13 +7722,15 @@
   ]
  },
  "SC-1691": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "巴西 Alfacomp（alfacomp.net / alfacomp.ind.br；全线迈威产品 + 官网 WA 按钮）：中国工业品牌全线 ✔ 对位 ✔ WA 路径 ✔ 巴西有先例；未触达 → 闸 2 查 CNPJ；低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 巴西 · 工业分销 20%：Alfacomp Automação Industrial Ltda（Porto Alegre + Campinas；CNPJ 04.430.358/0001-05；2001；R$400K）坐实；中国工业品牌全线（迈威）✔ 对位 ✔ WA ✔ → P 池候选",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-26"
+  "batch": "G2-131",
+  "g1_batch": "G1-26",
+  "g1_reason": "巴西 Alfacomp（alfacomp.net / alfacomp.ind.br；全线迈威产品 + 官网 WA 按钮）：中国工业品牌全线 ✔ 对位 ✔ WA 路径 ✔ 巴西有先例；未触达 → 闸 2 查 CNPJ；低优先"
  },
  "SC-1692": {
   "verdict": "keep_C",
@@ -7933,22 +7942,26 @@
   ]
  },
  "SC-1713": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "OAK Integrator（oak-integrator.lv；表内「玻利维亚」实为 .lv 拉脱维亚 → 国别待核；Korenix）：欧洲 ✔ 台湾工业品牌集成 ✔ 对位 ✔；未触达 → 闸 2 查底数（firmas.lv / lursoft）并核国别",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 欧洲 · 工业自动化小分销 20%：OAK INTEGRATOR Products SIA（Rīga；Reģ. 40003540103；2001；原 Beijer Electronics SIA；Mitsubishi Electric 独家 + Westermo / Korenix；$1.33M / 3 人）坐实；欧洲 ✔ 台湾工业品牌集成 ✔ 对位 ✔ → P 池候选；表内「玻利维亚」→ 拉脱维亚 country_fix 待 Simon",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-27"
+  "batch": "G2-131",
+  "g1_batch": "G1-27",
+  "g1_reason": "OAK Integrator（oak-integrator.lv；表内「玻利维亚」实为 .lv 拉脱维亚 → 国别待核；Korenix）：欧洲 ✔ 台湾工业品牌集成 ✔ 对位 ✔；未触达 → 闸 2 查底数（firmas.lv / lursoft）并核国别"
  },
  "SC-1714": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "Omni Ray（omniray.ch；表内「智利」实为 .ch 瑞士 → 国别待核；Moxa）：欧洲主区 ✔ 台湾工业品牌分销 ✔ 对位（STI 工业线）✔；未触达 → 闸 2 查底数（zefix / 官网 Impressum）并核国别",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 欧洲 · 工业自动化分销 20%：Omni Ray AG（Dübendorf；CHE-105.959.689；1950；CHF 2.05M；20–49 人；MD Roger Müller；Moxa 分销）坐实；欧洲 ✔ 台湾工业品牌分销 ✔ 对位 ✔ → P 池候选；表内「智利」→ 瑞士 country_fix 待 Simon",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-27"
+  "batch": "G2-131",
+  "g1_batch": "G1-27",
+  "g1_reason": "Omni Ray（omniray.ch；表内「智利」实为 .ch 瑞士 → 国别待核；Moxa）：欧洲主区 ✔ 台湾工业品牌分销 ✔ 对位（STI 工业线）✔；未触达 → 闸 2 查底数（zefix / 官网 Impressum）并核国别"
  },
  "SC-1715": {
   "verdict": "keep_C",
@@ -8142,13 +8155,15 @@
   ]
  },
  "SC-1734": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "印度 Joohitha Power Systems Pvt Ltd（gridx.in；光猫 + 工业 2 光 2）：具体型号需求 ✔（STI-154GP / STI-244DGGPM 同口型）对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 印度 · 电力 EPC 集成 25%：Joohitha Power Systems Pvt Ltd — GridX（Hyderabad；CIN U74999TG2011PTC077260；2011；₹10 lakh；SCADA / OLTE / PLCC EPC；11–50 人）坐实；工业 2 光 2 电具体需求 ✔ 工业对位 ✔ → P 池候选",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-27"
+  "batch": "G2-131",
+  "g1_batch": "G1-27",
+  "g1_reason": "印度 Joohitha Power Systems Pvt Ltd（gridx.in；光猫 + 工业 2 光 2）：具体型号需求 ✔（STI-154GP / STI-244DGGPM 同口型）对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先"
  },
  "SC-1735": {
   "verdict": "keep_C",
@@ -8356,13 +8371,15 @@
   ]
  },
  "SC-1755": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "俄罗斯 Jjenka（jjenka.com；「need MM GE converter about 20pcs, price information」；8 推 0 回）：数量询问 = 真需求 ✔ 对位（STC-110XGE 千兆 MC）✔ Simon 点名俄罗斯；→ 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
+  "verdict": "keep_C",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "闸 2 回 C：Jjenka（jjenka.com）2 查无公司信息 → 未坐实 → 回 C 储备（MC 20 pcs 需求保留，来信再起 STC-110XGE 报价 + 预付 100%）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-28"
+  "batch": "G2-131",
+  "g1_batch": "G1-28",
+  "g1_reason": "俄罗斯 Jjenka（jjenka.com；「need MM GE converter about 20pcs, price information」；8 推 0 回）：数量询问 = 真需求 ✔ 对位（STC-110XGE 千兆 MC）✔ Simon 点名俄罗斯；→ 闸 2 查底数（rusprofile）；俄语区收款待定，低优先"
  },
  "SC-1757": {
   "verdict": "keep_C",
@@ -8731,13 +8748,15 @@
   "batch": "G1-27"
  },
  "SC-1795": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "印度 BBCPL（bbcpl.in；主要是 Planet 的）：台湾品牌分销 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 印度 · 工业网络分销 20%：Bluboxx Communication Pvt Ltd — BBCPL（Pune；$5.1M；工业网络 + 自动化分销）部分坐实（CIN 未取）；台湾品牌（Planet）经销 ✔ 对位 ✔ Simon 点名印度 ✔ → P 池候选",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-27"
+  "batch": "G2-131",
+  "g1_batch": "G1-27",
+  "g1_reason": "印度 BBCPL（bbcpl.in；主要是 Planet 的）：台湾品牌分销 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先"
  },
  "SC-1796": {
   "verdict": "keep_C",
@@ -8752,13 +8771,15 @@
   ]
  },
  "SC-1797": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "印度 Cohesive Global（cohesiveglobal.com；Wi-Tek / Grandstream）：中国品牌分销 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 印度 · 全国分销 20%（交换机副线）：Cohesive Technologies (P) Ltd（Grandstream 印度授权全国分销；服务 IN / LK / NP / MV）部分坐实（CIN / 地址未取）；中国品牌（Wi-Tek / Grandstream）✔ 对位（IP 电话配套 PoE）✔ → P 池候选",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-27"
+  "batch": "G2-131",
+  "g1_batch": "G1-27",
+  "g1_reason": "印度 Cohesive Global（cohesiveglobal.com；Wi-Tek / Grandstream）：中国品牌分销 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先"
  },
  "SC-1798": {
   "verdict": "pass_final",
@@ -8821,22 +8842,29 @@
   ]
  },
  "SC-1803": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "坦桑尼亚 Habari（habari.co.tz；常规千兆小外电 20 个；具名 KP liliani.mboya@ / eliangiringa@）：数量询问 = 真需求 ✔ 对位（STC-028GP）✔ 决策人可点名 ✔；→ 闸 2 查底数（官网 / 目录；BRELA ✗）；非点名国 → 低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 坦桑尼亚 · 区域 ISP 自用 直客 25%：Habari Node Limited（Arusha AICC；Cert. 75466；2010；接续 1994 起 ISP；数据中心）坐实；千兆 20 台数量询问 ✔ 具名 KP ✔ 对位 ✔ → P 池候选",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-27"
+  "batch": "G2-131",
+  "g1_batch": "G1-27",
+  "g1_reason": "坦桑尼亚 Habari（habari.co.tz；常规千兆小外电 20 个；具名 KP liliani.mboya@ / eliangiringa@）：数量询问 = 真需求 ✔ 对位（STC-028GP）✔ 决策人可点名 ✔；→ 闸 2 查底数（官网 / 目录；BRELA ✗）；非点名国 → 低优先"
  },
  "SC-1804": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "印度 Indraheera（indraheera.com / .org；洪瑞）：中国品牌分销 ✔ 对位 ✔ Simon 点名印度；洪瑞现供 → Q-33 口径待 Simon（默认只推 SmartByte / Marvell 管理 + 工业线）；→ 闸 2 查底数（zaubacorp）；低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 印度 · 自有品牌（政府渠道）OEM 30%：Indra Heera Group / IHT（Arrah Bihar；Make-in-India 制造商 + RDI；NSDTS Trusted Source / GeM）部分坐实（CIN 未取）；自有品牌 ✔ 政府渠道 ✔ 对位 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-27"
+  "batch": "G2-131",
+  "g1_batch": "G1-27",
+  "g1_reason": "印度 Indraheera（indraheera.com / .org；洪瑞）：中国品牌分销 ✔ 对位 ✔ Simon 点名印度；洪瑞现供 → Q-33 口径待 Simon（默认只推 SmartByte / Marvell 管理 + 工业线）；→ 闸 2 查底数（zaubacorp）；低优先",
+  "tags": [
+   "oem_target"
+  ]
  },
  "SC-1805": {
   "verdict": "keep_C",
@@ -8857,13 +8885,18 @@
   "batch": "G1-04"
  },
  "SC-1807": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "印度 Mootek（mootek.in；三旺 / 长飞；只发过改邮箱通知，无实质需求）：中国工业品牌分销 ✔ 对位 ✔ Simon 点名印度；→ 闸 2 查底数（zaubacorp）；低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 印度 · 贴牌工业交换机 OEM 30%：Mootek Technologies（Chennai；GST 33AQSPM9347C1ZJ；2013；Founder / CEO Moorthy D；以 Mootek 品牌列三旺型号体系 IES215 / IES2005）坐实；自有品牌贴牌 ✔ 已进口中国工业线 ✔ 决策人具名 ✔ → P 池候选",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-27"
+  "batch": "G2-131",
+  "g1_batch": "G1-27",
+  "g1_reason": "印度 Mootek（mootek.in；三旺 / 长飞；只发过改邮箱通知，无实质需求）：中国工业品牌分销 ✔ 对位 ✔ Simon 点名印度；→ 闸 2 查底数（zaubacorp）；低优先",
+  "tags": [
+   "oem_target"
+  ]
  },
  "SC-1808": {
   "verdict": "keep_C",
@@ -9501,13 +9534,15 @@
   ]
  },
  "SC-1871": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "尼泊尔 Bay Datacom Solutions Pvt Ltd（baydatacom.com；问网管工业级 4 光 24 电 PoE 交换机）：具体型号需求 ✔ 对位（STC-4424GCPM 商规 / STI 工业线近似，如实说明）✔；未触达 → 闸 2 查底数（官网 / 目录）；非点名国 → 低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 印度 · 大集成 25%：Bay Datacom Solutions Pvt Ltd（Hyderabad + Bengaluru；CIN U32100TG1998PTC028943；1998；200–500 人；₹24 Cr）坐实；4 光 24 电 PoE 具体需求 ✔ 中型集成 ✔ → P 池候选；表内「尼泊尔」→ 印度 country_fix 待 Simon",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-28"
+  "batch": "G2-131",
+  "g1_batch": "G1-28",
+  "g1_reason": "尼泊尔 Bay Datacom Solutions Pvt Ltd（baydatacom.com；问网管工业级 4 光 24 电 PoE 交换机）：具体型号需求 ✔ 对位（STC-4424GCPM 商规 / STI 工业线近似，如实说明）✔；未触达 → 闸 2 查底数（官网 / 目录）；非点名国 → 低优先"
  },
  "SC-1872": {
   "verdict": "keep_C",
@@ -9617,13 +9652,15 @@
   ]
  },
  "SC-1883": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "越南 Anfatech（anfatech.com.vn；ONV 的全线产品引进 + QNAP；8 推 0 回）：中国品牌整线进口商 ✔ 对位 ✔（同批 Metsuki 先例）；→ 闸 2 查底数（masothue）；非点名国 → 低优先，换稿点名",
+  "verdict": "keep_C",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "闸 2 回 C：Anfatech（anfatech.com.vn）1 查仅近名 ANPHATECH JSC（2022；税号 2024-12 已关闭）归属未证 → 未坐实 → 回 C 储备",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-28"
+  "batch": "G2-131",
+  "g1_batch": "G1-28",
+  "g1_reason": "越南 Anfatech（anfatech.com.vn；ONV 的全线产品引进 + QNAP；8 推 0 回）：中国品牌整线进口商 ✔ 对位 ✔（同批 Metsuki 先例）；→ 闸 2 查底数（masothue）；非点名国 → 低优先，换稿点名"
  },
  "SC-1884": {
   "verdict": "keep_C",
@@ -9759,13 +9796,15 @@
   "batch": "G1-13"
  },
  "SC-1900": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "厄瓜多尔 Konect Soluciones（konectsoluciones.com；洪瑞 + 买的海硕的 PON；1 推 0 回）：中国品牌进口 ✔ 对位 ✔ 厄瓜多尔有先例（SC-2402）；洪瑞现供 → Q-33 口径待 Simon；→ 闸 2 查底数（supercias 镜像 / 官网 RUC）；低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 厄瓜多尔 · 进口集成 25%：Soluciones Tecnológicas Konect Cía. Ltda.（Quito；2019；17 人；Tendata 进口商 36 供应商）部分坐实（RUC 未取）；中国品牌进口 ✔ 对位 ✔ WA ✔ 先例 SC-2402 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-28"
+  "batch": "G2-131",
+  "g1_batch": "G1-28",
+  "g1_reason": "厄瓜多尔 Konect Soluciones（konectsoluciones.com；洪瑞 + 买的海硕的 PON；1 推 0 回）：中国品牌进口 ✔ 对位 ✔ 厄瓜多尔有先例（SC-2402）；洪瑞现供 → Q-33 口径待 Simon；→ 闸 2 查底数（supercias 镜像 / 官网 RUC）；低优先"
  },
  "SC-1901": {
   "verdict": "keep_C",
@@ -9861,13 +9900,15 @@
   "batch": "G1-28"
  },
  "SC-1917": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "俄罗斯 VoIPdevice（voipdevice.ru；主要是 CCTV，Witek 的很多；17 推 0 回）：中国品牌分销 ✔ 对位 ✔ Simon 点名俄罗斯；17 推 0 回 → 闸 2 查底数后换稿点名；俄语区收款待定，低优先",
+  "verdict": "keep_C",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "闸 2 回 C（网店型）：ООО «Воип Телеком» VoIPdevice（Москва；ИНН 7733663234；2008）坐实但网店 + 实施型，17 推 0 回 → 回 C 储备",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-28"
+  "batch": "G2-131",
+  "g1_batch": "G1-28",
+  "g1_reason": "俄罗斯 VoIPdevice（voipdevice.ru；主要是 CCTV，Witek 的很多；17 推 0 回）：中国品牌分销 ✔ 对位 ✔ Simon 点名俄罗斯；17 推 0 回 → 闸 2 查底数后换稿点名；俄语区收款待定，低优先"
  },
  "SC-192": {
   "verdict": "keep_C",
@@ -10664,13 +10705,15 @@
   "batch": "G1-06"
  },
  "SC-2021": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "印度 Acceron（acceron.net；表内名「distributor」；主动索要 1/ company profile 2/ catalogue；8 推 0 回）：真意向 ✔ 分销主体 ✔ Simon 点名印度；→ 闸 2 查底数（zaubacorp）后点名回「已发资料」稿；低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 印度 · VAD 分销 20%：Acceron Infosol Pvt Ltd（Thane / Mumbai；2007；30 人；IT 安全 / 网络 / 无线增值分销）部分坐实（CIN 未取）；主动索要资料 = 真意向 ✔ 分销主体 ✔ 对位 ✔ → P 池候选（回「已发资料」稿）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-29"
+  "batch": "G2-131",
+  "g1_batch": "G1-29",
+  "g1_reason": "印度 Acceron（acceron.net；表内名「distributor」；主动索要 1/ company profile 2/ catalogue；8 推 0 回）：真意向 ✔ 分销主体 ✔ Simon 点名印度；→ 闸 2 查底数（zaubacorp）后点名回「已发资料」稿；低优先"
  },
  "SC-2023": {
   "verdict": "keep_C",
@@ -11134,13 +11177,15 @@
   "batch": "G1-04"
  },
  "SC-2078": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "印度 Zebeye → Zebronics（zebeye.com 退信；zebronics.com 正常 = 换址；洪瑞的商业 PoE / FS 贴 Zebronics 牌在卖）：自有品牌 = OEM 对象 ✔ Simon 点名印度 ✔ 对位 ✔；洪瑞现供 → Q-33 口径待 Simon；→ 闸 2 查底数（zaubacorp）+ 换 zebronics.com 地址",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 印度 · 全国品牌商 OEM 30%（长线）：Zebronics India Pvt Ltd（Chennai；CIN U30000TN1997PTC038037；1997；实收 ₹3.28 Cr；31 GST 登记；MCA 邮箱 sandeep.doshi@）坐实；自有品牌 ✔ 已贴牌中国 PoE ✔ 大型 ✔ 对位 ✔ → P 池候选（换 zebronics.com 地址；洪瑞现供 → Q-33 口径待 Simon）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-29",
+  "batch": "G2-131",
+  "g1_batch": "G1-29",
+  "g1_reason": "印度 Zebeye → Zebronics（zebeye.com 退信；zebronics.com 正常 = 换址；洪瑞的商业 PoE / FS 贴 Zebronics 牌在卖）：自有品牌 = OEM 对象 ✔ Simon 点名印度 ✔ 对位 ✔；洪瑞现供 → Q-33 口径待 Simon；→ 闸 2 查底数（zaubacorp）+ 换 zebronics.com 地址",
   "tags": [
    "oem_target"
   ]
@@ -11451,13 +11496,18 @@
   ]
  },
  "SC-2111": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "俄罗斯 AMI-COM（ami-com.ru；朱姐客户的；很多 ONV 型号都没变 + 「Just」这个牌子可能是他们自己的；主要 CCTV 本土品牌）：进口中国同类 ✔ 疑自有牌 ✔ Simon 点名俄罗斯；未触达 → 闸 2 查底数（rusprofile）核自有牌；俄语区收款待定，低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 俄罗斯 · 自有品牌 + 大分销 OEM 30%：ООО «Амиком» / ТД «Амиком»（Москва；1992；25 万 SKU；自有商标 Just / Advert / PRIME；大客户 РЖД / Сбербанк）部分坐实（ИНН 未取）；自有品牌 ✔ 已进口中国同类 ✔ 朱姐渠道 ✔ 对位 ✔ → P 池候选；收款路径待 Simon",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-29"
+  "batch": "G2-131",
+  "g1_batch": "G1-29",
+  "g1_reason": "俄罗斯 AMI-COM（ami-com.ru；朱姐客户的；很多 ONV 型号都没变 + 「Just」这个牌子可能是他们自己的；主要 CCTV 本土品牌）：进口中国同类 ✔ 疑自有牌 ✔ Simon 点名俄罗斯；未触达 → 闸 2 查底数（rusprofile）核自有牌；俄语区收款待定，低优先",
+  "tags": [
+   "oem_target"
+  ]
  },
  "SC-2112": {
   "verdict": "keep_C",
@@ -14840,13 +14890,15 @@
   ]
  },
  "SC-2587": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "香港 Tactio（tactio.net；工业 FS / PoE / MC 周边；「工业 FS 看着像国内外壳，有人卖他们的」= 贴自有牌；8 推 0 回）：自有品牌 = OEM 对象 ✔ 对位 ✔；→ 闸 2 查底数（HK 公司注册 / 官网）后换 OEM 稿；低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 香港 · 品牌商 OEM 30%：tactio Corporation（Lai Chi Kok；2006；自有品牌 INEO 工业 PoE + 交换机 8–48 口 + MC + AP 全线）部分坐实（CR 未取）；自有品牌全线 ✔ 已贴牌中国同类 ✔ 对位 ✔ → P 池候选（换 OEM 稿）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-31",
+  "batch": "G2-131",
+  "g1_batch": "G1-31",
+  "g1_reason": "香港 Tactio（tactio.net；工业 FS / PoE / MC 周边；「工业 FS 看着像国内外壳，有人卖他们的」= 贴自有牌；8 推 0 回）：自有品牌 = OEM 对象 ✔ 对位 ✔；→ 闸 2 查底数（HK 公司注册 / 官网）后换 OEM 稿；低优先",
   "tags": [
    "oem_target"
   ]
@@ -15561,13 +15613,15 @@
   "batch": "G1-02"
  },
  "SC-2687": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "格鲁吉亚 Protech（protech.com.ge；「主要是 ONV 的，带标卖」；16 推 0 回）：贴自有牌 = OEM 对象 ✔ 对位 ✔；非点名国 → 闸 2 查底数（官网 / 目录）后换 OEM 稿；低优先",
+  "verdict": "keep_C",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "闸 2 回 C（微型）：PROTECH（Tbilisi Karvasla 商场 A308/1；ID 438117477；安防 / 消防 / 网络安装）坐实但微型 + 非点名国 + 16 推 0 回 → 回 C 储备（贴牌线索保留）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-31",
+  "batch": "G2-131",
+  "g1_batch": "G1-31",
+  "g1_reason": "格鲁吉亚 Protech（protech.com.ge；「主要是 ONV 的，带标卖」；16 推 0 回）：贴自有牌 = OEM 对象 ✔ 对位 ✔；非点名国 → 闸 2 查底数（官网 / 目录）后换 OEM 稿；低优先",
   "tags": [
    "oem_target"
   ]
@@ -15600,13 +15654,15 @@
   "batch": "G1-31"
  },
  "SC-2695": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "台湾 EverFocus（everfocus.com；台湾安防品牌商，安防 / 通讯较杂，商业 PoE 自有牌）：品牌商 = OEM 对象 ✔ 对位 ✔（台湾 OEM 先例：DGTAS / HiSharp / AVTECH 已入池）；→ 闸 2 查底数（twincn）；低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 台湾 · 上市品牌商 OEM 30%（长线）：慧友電子 EverFocus Electronics Corp.（新北；統編 89639615；上市 5484；1995；實收 NT$11.85 億）坐实；自有品牌 ✔ 上市 ✔ 对位 ✔ → P 池候选（找硬件采购）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-31",
+  "batch": "G2-131",
+  "g1_batch": "G1-31",
+  "g1_reason": "台湾 EverFocus（everfocus.com；台湾安防品牌商，安防 / 通讯较杂，商业 PoE 自有牌）：品牌商 = OEM 对象 ✔ 对位 ✔（台湾 OEM 先例：DGTAS / HiSharp / AVTECH 已入池）；→ 闸 2 查底数（twincn）；低优先",
   "tags": [
    "oem_target"
   ]
@@ -15958,13 +16014,15 @@
   ]
  },
  "SC-2730": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "俄罗斯 RVi Group（rvigroup.ru；俄罗斯 CCTV 品牌，「主要是 hasivo 的商业 PoE」= 贴牌；19 推 0 回）：自有品牌 = OEM 对象 ✔ Simon 点名俄罗斯 ✔；→ 闸 2 查底数（rusprofile）后换 OEM 稿；俄语区收款待定",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 俄罗斯 · 品牌商 OEM 30%（长线）：RVi Group（ГК «Рубеж» 成员；2007；视频监控制造商；产品线含交换机 / 网络设备）部分坐实（ИНН 未取）；自有品牌 ✔ 已贴牌中国 PoE ✔ 对位 ✔ → P 池候选；守界：集团是否涉制裁待核 + 收款路径待 Simon",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-31",
+  "batch": "G2-131",
+  "g1_batch": "G1-31",
+  "g1_reason": "俄罗斯 RVi Group（rvigroup.ru；俄罗斯 CCTV 品牌，「主要是 hasivo 的商业 PoE」= 贴牌；19 推 0 回）：自有品牌 = OEM 对象 ✔ Simon 点名俄罗斯 ✔；→ 闸 2 查底数（rusprofile）后换 OEM 稿；俄语区收款待定",
   "tags": [
    "oem_target"
   ]
@@ -16718,13 +16776,15 @@
   "batch": "G1-32"
  },
  "SC-2839": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "台湾 Neousys Technology（neousys-tech.com；工业电脑品牌商，自有 5 电口工业 FS 宣传图做得不错；20 推 0 回）：品牌商 = OEM 对象 ✔ 对位 ✔（台湾 OEM 先例已入池）；→ 闸 2 查底数（twincn）后换 OEM 稿；低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 台湾 · 上櫃品牌商 OEM 30%（长线）：宸曜科技 Neousys Technology Inc.（新北中和；統編 29169532；上櫃 6922；2010；資本 NT$5 億；董事長 高明和）坐实；品牌商 ✔ 工业对位 ✔ → P 池候选（20 推 0 回 → 换 OEM 稿点名产品经理）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-32",
+  "batch": "G2-131",
+  "g1_batch": "G1-32",
+  "g1_reason": "台湾 Neousys Technology（neousys-tech.com；工业电脑品牌商，自有 5 电口工业 FS 宣传图做得不错；20 推 0 回）：品牌商 = OEM 对象 ✔ 对位 ✔（台湾 OEM 先例已入池）；→ 闸 2 查底数（twincn）后换 OEM 稿；低优先",
   "tags": [
    "oem_target"
   ]
@@ -16753,13 +16813,15 @@
   "batch": "G1-32"
  },
  "SC-2841": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "俄罗斯 PIIR（piir.ru；一些本土的牌子，用的国内的 = 中国货分销）：分销 + 中国同类 ✔ Simon 点名俄罗斯 ✔；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
+  "verdict": "keep_C",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "闸 2 回 C：PIIR（piir.ru）1 查仅同名 ООО «ПИИР» 设计院（СПб 2021）域名归属未证 → 未坐实 → 回 C 储备",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-32"
+  "batch": "G2-131",
+  "g1_batch": "G1-32",
+  "g1_reason": "俄罗斯 PIIR（piir.ru；一些本土的牌子，用的国内的 = 中国货分销）：分销 + 中国同类 ✔ Simon 点名俄罗斯 ✔；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先"
  },
  "SC-2842": {
   "verdict": "keep_C",
@@ -17049,13 +17111,15 @@
   "date": "2026-10-29"
  },
  "SC-2885": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "南非 LS Networks (Pty) Ltd（plugandplay.co.za；HDMI + 工业级 PoE 交换机 + MC；Simon 备注「单独跟进」）：真需求 ✔ 对位 ✔ 南非有先例（MiRO / Scoop / Reditron 已入池）；→ 闸 2 查底数（CIPC 镜像 / 官网）；低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 南非 · 安防集成 25%：Plug & Play Solutions = 表内 LS Networks (Pty) Ltd（Centurion；2012；35 人；$5M；Sales Exec Kelvin Jordaan）部分坐实（Reg No 未取）；工业 PoE + MC 真需求 ✔ 对位 ✔ 南非先例 ✔ Simon「单独跟进」✔ → P 池候选",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-32"
+  "batch": "G2-131",
+  "g1_batch": "G1-32",
+  "g1_reason": "南非 LS Networks (Pty) Ltd（plugandplay.co.za；HDMI + 工业级 PoE 交换机 + MC；Simon 备注「单独跟进」）：真需求 ✔ 对位 ✔ 南非有先例（MiRO / Scoop / Reditron 已入池）；→ 闸 2 查底数（CIPC 镜像 / 官网）；低优先"
  },
  "SC-2886": {
   "verdict": "keep_C",
@@ -17088,13 +17152,15 @@
   "batch": "G1-12"
  },
  "SC-2891": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "孟加拉 Trimatrik（trimatrikbd.com；「ONV 的商业 PoE 带标卖」；官网手机 +880 1785 777722）：贴自有牌 = OEM 对象 ✔ 对位 ✔；非点名国 → 闸 2 查底数（官网 / RJSC 镜像）后换 OEM 稿；低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "△ 观察档 · 孟加拉贴牌 CCTV 店 OEM 30% + 预付 100%：Trimatrik Multimedia（Dhaka Uttara + Mouchak 分店；进口商 / 安装）部分坐实（注册号未取）；ONV 带标卖 = 贴自有牌 ✔ 对位 ✔ WA 手机 ✔；小型 + 非点名国 → 入池观察档；可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-32",
+  "batch": "G2-131",
+  "g1_batch": "G1-32",
+  "g1_reason": "孟加拉 Trimatrik（trimatrikbd.com；「ONV 的商业 PoE 带标卖」；官网手机 +880 1785 777722）：贴自有牌 = OEM 对象 ✔ 对位 ✔；非点名国 → 闸 2 查底数（官网 / RJSC 镜像）后换 OEM 稿；低优先",
   "tags": [
    "oem_target"
   ]
@@ -17748,25 +17814,29 @@
   "batch": "G1-32"
  },
  "SC-2971": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "台湾 SBJ Link → Konten Networks（sbjlink.com / konten-networks.com；「刷的自己 logo」工业 FS / SFP / 工业 MC / 串口，看着像深圳的；5 推 0 回）：自有品牌 = OEM 对象 ✔ 对位 ✔；→ 闸 2 查底数（twincn）后换 OEM 稿；低优先",
+  "verdict": "keep_C",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "闸 2 回 C（同行）：元生工業 Konten Networks Inc.（新北新店；統編 65489708；2016；自述工业交换机 OEM/ODM 设计制造；出口 13 买家）坐实但 = 竞品制造商 → 回 C 储备（不推销）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-32",
+  "batch": "G2-131",
+  "g1_batch": "G1-32",
+  "g1_reason": "台湾 SBJ Link → Konten Networks（sbjlink.com / konten-networks.com；「刷的自己 logo」工业 FS / SFP / 工业 MC / 串口，看着像深圳的；5 推 0 回）：自有品牌 = OEM 对象 ✔ 对位 ✔；→ 闸 2 查底数（twincn）后换 OEM 稿；低优先",
   "tags": [
    "oem_target"
   ]
  },
  "SC-2972": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "俄罗斯 Akatel（akatel.ru no_mx；alarmex.ru 正常 = 换址；「从中间商采购中国产品，想从中国直接购买」；两部座机，WA 加不上）：真意向 ✔ Simon 点名俄罗斯 ✔；→ 闸 2 查底数（rusprofile）+ 换 alarmex.ru 地址；俄语区收款待定",
+  "verdict": "keep_C",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "闸 2 回 C：Akatel（akatel.ru / alarmex.ru）2 查仅同名他户 → 未坐实 → 回 C 储备（想直购 = 真意向保留；座机在表，电话接通再起）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-32"
+  "batch": "G2-131",
+  "g1_batch": "G1-32",
+  "g1_reason": "俄罗斯 Akatel（akatel.ru no_mx；alarmex.ru 正常 = 换址；「从中间商采购中国产品，想从中国直接购买」；两部座机，WA 加不上）：真意向 ✔ Simon 点名俄罗斯 ✔；→ 闸 2 查底数（rusprofile）+ 换 alarmex.ru 地址；俄语区收款待定"
  },
  "SC-2975": {
   "verdict": "keep_C",

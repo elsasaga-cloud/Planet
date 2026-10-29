@@ -4,7 +4,7 @@
   "source": "Germany · Handelsregister / Northdata（登记摘要）",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 81
+  "count": 82
  },
  "rows": {
   "SA-008": {
@@ -2732,6 +2732,36 @@
    ],
    "notes": "分销 20%；P 池候选 ○（四主区工业网络方案商 + 对位 + 坐实 = 冷户四条）；坐实（HRB）；守界：MIL 不承诺。",
    "code": "SC-956"
+  },
+  "SC-1675": {
+   "batch": 131,
+   "name": "tekmodul GmbH（tekmodul.de；**Impressum：Lindwurmstraße 97a, 80337 München；Registergericht München HRB 158866；USt-IdNr. DE240985730；Geschäftsführer Tassilo Halt；Gesellschaftsvertrag 2005-03-04；经营范围「技术 / 商业咨询 + 各类技术元件及电子电气设备买卖」；electronica 2024 参展（主展商 CompoTEK GmbH 名下）：5G / 4G / NB-IoT / LoRa / 蓝牙 / WLAN 模块 + 工业通信；+49 89 904 118 29-0；info@tekmodul.de**）；表内：Atop（台湾）工业交换机专业经销，国别未填 → .de",
+   "iso": "DE",
+   "fetched": "2026-10-29",
+   "source": "DE · 1 次检索：tekmodul.de/impressum（HRB / USt / GF）+ webvalid（2005 成立 / 经营范围）+ electronica 2024 展商页；2026-10-29",
+   "url": "https://www.tekmodul.de/impressum/",
+   "number": "HRB 158866（Amtsgericht München）",
+   "status": "Active（Impressum 2022 / 展会 2024）",
+   "incorporated": "2005-03-04",
+   "company_type": "GmbH",
+   "sic": [
+    "工业通信模块 / 元件分销（慕尼黑）"
+   ],
+   "address": "Lindwurmstraße 97a, 80337 München",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（专业分销；参展）",
+   "officers": [
+    "Tassilo Halt — Geschäftsführer"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**德国主区 · 工业通信专业分销 20%：点名 Tassilo Halt 一页纸一次（STI-280GE $46.6 / STI-288GPM $78.9 / STI-244DGGPM $121 工业线 + MOQ 1 + 付费样机；Atop 不点名）— 欧洲常规：英文 / 德文稿、20 / 25 / 30 + T/T 50/50 + DAP 买方清关（CE / RoHS / REACH；瑞士非 EU 买方自清关）；周二 / 周四 10–12 CET**"
+   ],
+   "notes": "分销 20%；P 池候选 ★（德国主区 ✔ 台湾工业品牌经销 ✔ 对位 ✔ 坐实 ✔ 决策人具名 ✔）；坐实（Impressum HRB）。",
+   "code": "SC-1675"
   }
  }
 }

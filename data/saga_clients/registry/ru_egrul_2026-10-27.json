@@ -4,7 +4,7 @@
   "source": "Russia · ЕГРЮЛ / Росстат 公开数据（rusprofile / list-org 镜像）",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 83
+  "count": 89
  },
  "rows": {
   "SA-057": {
@@ -2611,6 +2611,186 @@
    ],
    "notes": "回 C（微型）；进口中国同类 ✔ 对位 ✔ 坐实 ✔ 但体量不入池。",
    "code": "SC-1527"
+  },
+  "SC-2111": {
+   "batch": 131,
+   "name": "ООО «Амиком» / ТД «Амиком»（ami-com.ru；**Москва；1992 起（mastermann）；安防设备批发 / 小批发分销（面向安装商；目录 25 万 SKU，1C-Битрикс 站 2018 重建）；自有商标 Just / Advert / PRIME（secnews：「新增商标 Just 与 Advert」）；大客户 РЖД / Сбербанк / ЦМТ / ТНК-BP / Ингосстрах / М.видео / McDonalds / Перекрёсток；参展 All-Over-IP / SIPS / SFITEX**）；ИНН 未取；表内：朱姐客户，很多 ONV 型号未改 + Just 疑自有牌",
+   "iso": "RU",
+   "fetched": "2026-10-29",
+   "source": "RU · 1 次检索：secnews.ru/company/amicom（业务 / 商标 / 客户 / 展会）+ klondike-studio 案例（规模）+ mastermann（1992）；ИНН 未取；2026-10-29",
+   "url": "https://secnews.ru/company/amicom",
+   "number": "未取（ИНН 未查；rusprofile 补查待）",
+   "status": "营业中（目录 / 官网）",
+   "incorporated": "1992",
+   "company_type": "ООО",
+   "sic": [
+    "安防设备批发 + 自有品牌（莫斯科）"
+   ],
+   "address": "Москва（街道未取）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型 → 大型（25 万 SKU；大客户名单）",
+   "officers": [
+    "（具名 KP 未取；朱姐渠道在）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**俄罗斯 · 自有品牌 + 大分销 OEM 30% / 分销 20%：经朱姐线索点名采购一页纸一次（STC-028GP / STC-228GP / STC-2224GP 中性包装 + 贴 Just 牌 + MOQ 1；ONV 不点名）— 俄语区常规：英文 / 俄文稿、20 / 25 / 30 + 预付 100%（收款 / 物流路径待 Simon：第三国账户 / 中转）+ FOB 深圳；周二 / 周四 10–12 MSK**"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（自有品牌 Just / Advert ✔ 大分销 ✔ 已进口中国同类 ✔ 对位 ✔ Simon 点名俄罗斯 ✔）；部分坐实（ИНН 未取）；收款 / 物流路径待 Simon。",
+   "code": "SC-2111"
+  },
+  "SC-2730": {
+   "batch": 131,
+   "name": "RVi Group（rvigroup.ru；**俄罗斯视频监控开发 / 制造商，2007 起；隶属 ГК «Рубеж»；产品线：IP 摄像机 / NVR / 交换机及网络设备 / 监视器 / 解码器 / IP 扬声器 / 软件 R-OPERATOR；持证可用于关键基础设施 / 交通 / 防爆区（axoft 厂商页自述）；目录另列 RUBEZH™ 品牌**）；ИНН 未取；表内：「主要是 hasivo 的商业 PoE」= 贴牌，19 推 0 回",
+   "iso": "RU",
+   "fetched": "2026-10-29",
+   "source": "RU · 1 次检索：axoftglobal.ru/vendors/rvi（厂商介绍 / 集团 / 产品线）+ rvigroup.ru 目录两页（网络设备类目）；ИНН 未取；2026-10-29",
+   "url": "https://axoftglobal.ru/vendors/rvi",
+   "number": "未取（ИНН 未查；集团 Рубеж）",
+   "status": "营业中（官网 2026）",
+   "incorporated": "2007",
+   "company_type": "ООО（集团成员）",
+   "sic": [
+    "视频监控自有品牌制造（俄罗斯）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "大型（全国品牌；集团）",
+   "officers": [
+    "（具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**俄罗斯 · 品牌商 OEM 30%（长线）：点名硬件采购一页纸一次（STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM 中性包装 + 贴 RVi 牌 + MOQ 1；hasivo 不点名；关键基础设施 / 军标项目不参与）— 俄语区常规：英文 / 俄文稿、20 / 25 / 30 + 预付 100%（收款 / 物流路径待 Simon：第三国账户 / 中转）+ FOB 深圳；周二 / 周四 10–12 MSK**"
+   ],
+   "notes": "OEM 30%；P 池候选 ★ 长线（自有品牌 ✔ 已贴牌中国 PoE ✔ 对位 ✔ Simon 点名俄罗斯 ✔）；部分坐实（ИНН 未取）；守界：集团是否涉制裁名单待核 + 收款路径待 Simon。",
+   "code": "SC-2730"
+  },
+  "SC-1917": {
+   "batch": 131,
+   "name": "ООО «Воип Телеком» — VoIPdevice（voipdevice.ru / spb.voipdevice.ru；**ИНН 7733663234；КПП 773301001；ОГРН 1087746847506；2008 起（自述「从未更换法人」）；办公 107370 Москва, ул. Ивантеевская 25А, 3 этаж；юр. 125368 Москва, ул. Дубравная 36；АЛЬФА-БАНК 账户；网店 + IP 电话 / 网络项目实施（自述）**）；表内：CCTV + Witek 很多，17 推 0 回",
+   "iso": "RU",
+   "fetched": "2026-10-29",
+   "source": "RU · 1 次检索：voipdevice.ru/contact（ИНН / ОГРН / 地址）+ spb.voipdevice.ru（业务 / 2008）；2026-10-29",
+   "url": "https://voipdevice.ru/contact/",
+   "number": "7733663234（ИНН）/ 1087746847506（ОГРН）",
+   "status": "营业中（官网 2026）",
+   "incorporated": "2008",
+   "company_type": "ООО",
+   "sic": [
+    "VoIP / 网络设备网店 + 实施（莫斯科 / 圣彼得堡）"
+   ],
+   "address": "ул. Ивантеевская, д. 25А, 3 этаж, Москва 107370",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（网店型）",
+   "officers": [
+    "（具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**网店型 → 回 C 储备；来信再起则分销 20% + 预付 100%**— 俄语区常规：英文 / 俄文稿、20 / 25 / 30 + 预付 100%（收款 / 物流路径待 Simon：第三国账户 / 中转）+ FOB 深圳；周二 / 周四 10–12 MSK"
+   ],
+   "notes": "回 C（坐实但网店 + 实施型；17 推 0 回；Wi-Tek 现供）。",
+   "code": "SC-1917"
+  },
+  "SC-1755": {
+   "batch": 131,
+   "name": "Jjenka（jjenka.com；**2 查（俄文 + 纯域名）均无公司信息，仅同名个人 / 无关结果 → 法人未取 → 未坐实**）；表内：「need MM GE converter about 20pcs」，8 推 0 回",
+   "iso": "RU",
+   "fetched": "2026-10-29",
+   "source": "RU · 2 次检索：jjenka.com 媒体转换器 ИНН（无）+ \"jjenka\"（无关）→ 未坐实；2026-10-29",
+   "url": "",
+   "number": "未取",
+   "status": "未坐实",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "网络设备（俄罗斯，待证）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "未知",
+   "officers": [
+    "（具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**未坐实 → 回 C 储备；来信再起则 STC-110XGE $65 ×20 报价 + 预付 100%**— 俄语区常规：英文 / 俄文稿、20 / 25 / 30 + 预付 100%（收款 / 物流路径待 Simon：第三国账户 / 中转）+ FOB 深圳；周二 / 周四 10–12 MSK"
+   ],
+   "notes": "回 C（未坐实：2 查无结果）。",
+   "code": "SC-1755"
+  },
+  "SC-2841": {
+   "batch": 131,
+   "name": "PIIR（piir.ru；**1 查仅得同名 ООО «ПИИР» = Проектный институт инфраструктурных решений（ИНН 7810935340；ОГРН 1217800194622；2021-12-15；СПб Московский пр. 140；设计院，29 项 ОКВЭД）— 与 piir.ru 网络设备分销归属未证 → 未坐实**）；表内：本土牌子，用的国内的",
+   "iso": "RU",
+   "fetched": "2026-10-29",
+   "source": "RU · 1 次检索：spark-interfax / rusprofile 同名 ООО ПИИР（设计院）→ 域名未对上；2026-10-29",
+   "url": "",
+   "number": "未取（同名 ИНН 7810935340 不采）",
+   "status": "未坐实",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "网络设备分销（俄罗斯，待证）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "未知",
+   "officers": [
+    "（具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**未坐实 → 回 C 储备；来信再起则分销 20% + 预付 100%**— 俄语区常规：英文 / 俄文稿、20 / 25 / 30 + 预付 100%（收款 / 物流路径待 Simon：第三国账户 / 中转）+ FOB 深圳；周二 / 周四 10–12 MSK"
+   ],
+   "notes": "回 C（未坐实：1 查仅同名设计院）。",
+   "code": "SC-2841"
+  },
+  "SC-2972": {
+   "batch": 131,
+   "name": "Akatel（akatel.ru no_mx / alarmex.ru；**2 查（Акател alarmex.ru ИНН + \"alarmex.ru\"）仅得同名他户（Альматекс / Алматекс / Арамекс；Alarmex 美国 / 墨西哥）→ 法人未取 → 未坐实**）；表内：「从中间商采购中国产品，想从中国直接购买」，两部座机，WA 加不上",
+   "iso": "RU",
+   "fetched": "2026-10-29",
+   "source": "RU · 2 次检索：Акател alarmex.ru（同名他户）+ \"alarmex.ru\"（美 / 墨同名）→ 未坐实；2026-10-29",
+   "url": "",
+   "number": "未取",
+   "status": "未坐实",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "安防 / 网络采购（俄罗斯，待证）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "未知",
+   "officers": [
+    "（具名 KP 未取；座机 +7 495 748-11-96 / 973-1353 在表）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**未坐实 → 回 C 储备；真意向 ✔ → 来信或电话接通再起则分销 20% + 预付 100%**— 俄语区常规：英文 / 俄文稿、20 / 25 / 30 + 预付 100%（收款 / 物流路径待 Simon：第三国账户 / 中转）+ FOB 深圳；周二 / 周四 10–12 MSK"
+   ],
+   "notes": "回 C（未坐实：2 查无；真意向保留）。",
+   "code": "SC-2972"
   }
  }
 }
