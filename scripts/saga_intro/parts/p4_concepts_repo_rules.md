@@ -70,7 +70,7 @@
 | `docs/methodology/` | Planet 客户挖掘方法论、死路与死链备案 |
 | `docs/smartbyte/`、`docs/suppliers/{HRUI,Hohunet}`、`docs/drive/{MUST-KNOW,Certification,Resource-Library}` | 供应商与 Drive 入库资料 |
 | `docs/gmail/` | 三邮箱盘点、A 邮箱总览与真实往来、S 邮箱核对、Elsa 来询未回 |
-| `docs/` 根 | Saga 理念摘读 / 内在逻辑与概念 / 对外口径一致性 / 方法论全集 / 两家公司逻辑 HTML / 理解与方向 V0·V1 HTML / 成单客户三件 / 客户功能需求台账 / 各国发信窗口 / 假日避让 / AB 判定讨论稿 / 长期客户群方案·名册·缺口 / 公司底数作业规程 / P 池总名册 / 跟进总台 / **本文** |
+| `docs/` 根 | Saga 理念摘读 / 内在逻辑与概念 / 对外口径一致性 / 方法论全集 / 两家公司逻辑 HTML / 理解与方向 V0·V1 HTML / 成单客户三件 / 客户功能需求台账 / 各国发信窗口 / 假日避让 / AB 判定讨论稿 / 长期客户群方案·名册·缺口 / 公司底数作业规程 / P 池总名册 / 跟进总台 / **本文** / **方法论 V2 像素级 SOP**（`docs/方法论_V2_像素级SOP_2026-10-29.md`，操作剧本 R01–R25；生成器 `scripts/sop_v2/build.py`） |
 | `Saga Clients/A|B|C/` · `External Clients/<repo>/A|B|C/` · `profile/A|B|C/` | 三库渲染档案（**只读，脚本生成**） |
 | `data/saga_clients/` | `entities.json`、`客户主表.csv`、`research/`、`registry/`、`site_snapshots/`、`site_digest.json`、`sieve.json`、`编号映射`、`人工定级.csv` |
 | `data/external_clients/` | `{cctv,edgecore,mikrotik}.json`、`overrides.json`、`research/` |

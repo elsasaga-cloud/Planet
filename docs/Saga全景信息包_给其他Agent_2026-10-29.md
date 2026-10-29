@@ -1,6 +1,6 @@
 # Saga Telecom 全景信息包（给其他 Agent 的参考手册）
 
-> **生成时间戳**：2026-10-29 15:35:37 UTC（北京时间 2026-10-29 23:35）｜仓库 `elsasaga-cloud/Planet` 分支 `arena/3f35b9b3-planet` @ `faeaefd55`｜生成器 `scripts/saga_intro/build.py`
+> **生成时间戳**：2026-10-29 15:56:13 UTC（北京时间 2026-10-29 23:56）｜仓库 `elsasaga-cloud/Planet` 分支 `arena/3f35b9b3-planet` @ `7987e617c`｜生成器 `scripts/saga_intro/build.py`
 >
 > **一句话**：Saga Telecom = Simon 一个人用三个名字经营的、以 Marvell（SmartByte）接入层交换机为核心、CENTEC（Hohunet）为汇聚/核心层、Realtek（HRUI）补位的中国出口 SOHO 品牌；只做海外、只做长期关系、不打价格战、不做云管/轨交/IP67/消费级；四主区土耳其 / 美国 / 英国 / 德国 + 波兰；对外口径「An Engineering & Supply-Chain-First Telecom Partner — Built to Last, Continuous Supply, Evolving Together」。
 >
@@ -955,7 +955,7 @@ STOS 功能按许可分层：**EB 基础 / MS 高级 / MA 城域 / ST 堆叠**�
 | `docs/methodology/` | Planet 客户挖掘方法论、死路与死链备案 |
 | `docs/smartbyte/`、`docs/suppliers/{HRUI,Hohunet}`、`docs/drive/{MUST-KNOW,Certification,Resource-Library}` | 供应商与 Drive 入库资料 |
 | `docs/gmail/` | 三邮箱盘点、A 邮箱总览与真实往来、S 邮箱核对、Elsa 来询未回 |
-| `docs/` 根 | Saga 理念摘读 / 内在逻辑与概念 / 对外口径一致性 / 方法论全集 / 两家公司逻辑 HTML / 理解与方向 V0·V1 HTML / 成单客户三件 / 客户功能需求台账 / 各国发信窗口 / 假日避让 / AB 判定讨论稿 / 长期客户群方案·名册·缺口 / 公司底数作业规程 / P 池总名册 / 跟进总台 / **本文** |
+| `docs/` 根 | Saga 理念摘读 / 内在逻辑与概念 / 对外口径一致性 / 方法论全集 / 两家公司逻辑 HTML / 理解与方向 V0·V1 HTML / 成单客户三件 / 客户功能需求台账 / 各国发信窗口 / 假日避让 / AB 判定讨论稿 / 长期客户群方案·名册·缺口 / 公司底数作业规程 / P 池总名册 / 跟进总台 / **本文** / **方法论 V2 像素级 SOP**（`docs/方法论_V2_像素级SOP_2026-10-29.md`，操作剧本 R01–R25；生成器 `scripts/sop_v2/build.py`） |
 | `Saga Clients/A|B|C/` · `External Clients/<repo>/A|B|C/` · `profile/A|B|C/` | 三库渲染档案（**只读，脚本生成**） |
 | `data/saga_clients/` | `entities.json`、`客户主表.csv`、`research/`、`registry/`、`site_snapshots/`、`site_digest.json`、`sieve.json`、`编号映射`、`人工定级.csv` |
 | `data/external_clients/` | `{cctv,edgecore,mikrotik}.json`、`overrides.json`、`research/` |

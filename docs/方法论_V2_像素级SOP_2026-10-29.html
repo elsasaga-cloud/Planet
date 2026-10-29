@@ -1,0 +1,1686 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>方法论 V2 · 像素级 SOP（剧本集）—— 给其他 Agent 一步一步对照着做 · 2026-10-29</title>
+<style>
+body{font-family:-apple-system,"Segoe UI","PingFang SC","Microsoft YaHei","Noto Sans CJK SC",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.6;color:#1f2328;max-width:1280px;margin:0 auto;padding:24px 32px;background:#fff}
+h1{font-size:26px;border-bottom:2px solid #d0d7de;padding-bottom:8px;margin-top:0}
+h2{font-size:20px;border-bottom:1px solid #d8dee4;padding-bottom:6px;margin-top:40px;background:#f6f8fa;padding:8px 10px;border-left:5px solid #0969da}
+h3{font-size:16px;margin-top:28px;color:#0a3069}
+h4{font-size:14px;margin-top:20px;color:#24292f}
+table{border-collapse:collapse;width:100%;margin:10px 0 18px;font-size:12.5px;display:block;overflow-x:auto}
+th,td{border:1px solid #d0d7de;padding:5px 8px;vertical-align:top;text-align:left}
+th{background:#eef2f6;font-weight:600;white-space:nowrap}
+tr:nth-child(even) td{background:#fafbfc}
+code{background:#f3f4f6;padding:1px 4px;border-radius:3px;font-size:12px;font-family:SFMono-Regular,Consolas,"Liberation Mono",Menlo,monospace}
+pre{background:#f6f8fa;padding:10px 12px;border-radius:6px;overflow-x:auto;font-size:12px;border:1px solid #d8dee4}
+pre code{background:none;padding:0}
+blockquote{border-left:4px solid #0969da;background:#f0f6ff;margin:12px 0;padding:8px 14px;color:#24292f}
+a{color:#0969da;text-decoration:none}
+hr{border:0;border-top:1px solid #d0d7de;margin:28px 0}
+ul,ol{padding-left:24px}
+li{margin:2px 0}
+strong{color:#0a0a0a}
+.meta{color:#57606a;font-size:12px}
+</style>
+</head>
+<body>
+<p class="meta">生成 2026-10-29 15:56:57 UTC · 北京时间 2026-10-29 23:56 · 自包含 HTML（无外链、无脚本）· MD 同名同目录</p>
+<h1>方法论 V2 · 像素级 SOP（剧本集）—— 给其他 Agent 一步一步对照着做</h1>
+<blockquote>
+<p><strong>生成时间戳</strong>：2026-10-29 15:56:57 UTC（北京时间 2026-10-29 23:56）｜仓库 <code>elsasaga-cloud/Planet</code> 分支 <code>arena/3f35b9b3-planet</code> @ <code>7987e617c</code>｜生成器 <code>scripts/sop_v2/build.py</code>（正文在 <code>scripts/sop_v2/parts/</code>，改 parts 重跑，不手改本文件）</p>
+<p><strong>这是什么</strong>：V1 <code>docs/方法论_全集_2026-10-27.md</code> 的操作版升级——V1 讲「为什么、怎么来的」，本书只讲「现在手怎么动」：每轮固定 <strong>S-00 开工 → 选剧本 → S-99 收工</strong>，25 个剧本（R01–R25）每个都是 编号步骤 + 可复制命令 + ✅ 预期输出 + ❓ 判定表 + 🔁 失败处理 + 📒 台账 + 🏁 完成标准，外加 判定表汇编 / 诊断树 / 禁区 / 质量门。命令与预期数字均为 2026-10-29 在仓库实跑所得。</p>
+<p><strong>读者</strong>：接手本仓库的任何 Agent（包括能力一般的）。前提：先读 <code>docs/Saga全景信息包_给其他Agent_2026-10-29.md</code> 知道 Saga 是谁，再用本书干活。本书不含进价 / 邮箱等敏感事实，但整体仍属内部文档。</p>
+</blockquote>
+<h2>目录</h2>
+<ul>
+<li>
+<ol start="0">
+<li>这本书怎么读（30 秒）</li>
+</ol>
+</li>
+<li>
+<ol>
+<li>S-00 · 每轮开工 SOP（10 步，约 3 分钟）</li>
+</ol>
+</li>
+<li>
+<ol start="2">
+<li>S-01 · 任务分类器（Simon 说了什么 → 走哪个剧本）</li>
+</ol>
+</li>
+<li>
+<ol start="3">
+<li>S-99 · 每轮收工 SOP（14 步，不可省）</li>
+</ol>
+</li>
+<li>
+<ol start="4">
+<li>剧本骨架（每个剧本都长这样）</li>
+</ol>
+</li>
+<li>
+<ol start="5">
+<li>剧本 R01–R12 · 客户数据类</li>
+</ol>
+</li>
+<li>
+<ol start="6">
+<li>剧本 R13–R25 · 入库 / 对外 / 基础设施类</li>
+</ol>
+</li>
+<li>
+<ol start="7">
+<li>判定表汇编（❓ 剧本里引用的全部表）</li>
+</ol>
+</li>
+<li>
+<ol start="8">
+<li>诊断树（症状 → 原因 → 处理）</li>
+</ol>
+</li>
+<li>
+<ol start="9">
+<li>⛔ 禁区（一条都不能碰；碰了先回滚再报告）</li>
+</ol>
+</li>
+<li>
+<ol start="10">
+<li>质量门（交付前 12 项自检，全部 ✔ 才能收工）</li>
+</ol>
+</li>
+<li>
+<ol start="11">
+<li>与 V1 的关系、本书如何更新、待补剧本</li>
+</ol>
+</li>
+<li>
+<ol start="12">
+<li>来源清单（本书每条都能在仓库里找到依据）</li>
+</ol>
+</li>
+</ul>
+<h3>剧本 / 判定表索引</h3>
+<table>
+<thead>
+<tr>
+<th>编号</th>
+<th>剧本 / 判定表</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>R01</td>
+<td>给 Saga 库新增一户（补录）</td>
+</tr>
+<tr>
+<td>R02</td>
+<td>Saga 渲染链 + 三审计（任何 Saga 数据改动后必跑）</td>
+</tr>
+<tr>
+<td>R03</td>
+<td>Planet 渠道仓：新批入库 / 改一户 / 渲染</td>
+</tr>
+<tr>
+<td>R04</td>
+<td>改级（升 / 降 / 打回）三库各走各的门</td>
+</tr>
+<tr>
+<td>R05</td>
+<td>加厚一户（Saga 深挖 / 补证据）</td>
+</tr>
+<tr>
+<td>R06</td>
+<td>复核一批长期客户（LT-R 批）</td>
+</tr>
+<tr>
+<td>R07</td>
+<td>External Clients 研究卡 + 渲染</td>
+</tr>
+<tr>
+<td>R08</td>
+<td>公司底数登记（官方工商 / 年报）</td>
+</tr>
+<tr>
+<td>R09</td>
+<td>挖具名关键人（KP）</td>
+</tr>
+<tr>
+<td>R10</td>
+<td>缺口盘点 + 名册 + 补快照清单（长期客户群总检）</td>
+</tr>
+<tr>
+<td>R11</td>
+<td>官网快照 → 加厚（消费 Actions 产物）</td>
+</tr>
+<tr>
+<td>R12</td>
+<td>邮箱 / 域名体检 + 死域处理</td>
+</tr>
+<tr>
+<td>R13</td>
+<td>「啥都入库，不要漏掉」通用入库（Simon 给了任何材料）</td>
+</tr>
+<tr>
+<td>R14</td>
+<td>Drive / 大文件入库（走 Actions 运行器）</td>
+</tr>
+<tr>
+<td>R15</td>
+<td>Gmail 查证（三个邮箱怎么查）</td>
+</tr>
+<tr>
+<td>R16</td>
+<td>写一个新脚本 / 一次性批处理（派生脚本规范）</td>
+</tr>
+<tr>
+<td>R17</td>
+<td>台账（四配方见 §3.1）</td>
+</tr>
+<tr>
+<td>R18</td>
+<td>Git：沙箱恢复、冲突、机器人并发</td>
+</tr>
+<tr>
+<td>R19</td>
+<td>Q 立项（不问 Simon 的问题怎么处理）</td>
+</tr>
+<tr>
+<td>R20</td>
+<td>写一封对外信稿（英文）</td>
+</tr>
+<tr>
+<td>R21</td>
+<td>报价计算（任何价格数字出口前）</td>
+</tr>
+<tr>
+<td>R22</td>
+<td>文档交付（MD + HTML + 预览）</td>
+</tr>
+<tr>
+<td>R23</td>
+<td>GitHub Actions 检查与触发</td>
+</tr>
+<tr>
+<td>R24</td>
+<td>两月监控轮（P 池 / 长期客户群巡检）</td>
+</tr>
+<tr>
+<td>R25</td>
+<td>周发送包 / 跟进总台</td>
+</tr>
+<tr>
+<td>D-01</td>
+<td>A / B / C 定级（A/B v5「宽留冷」口径，Q-76 单一体系，三库同尺）</td>
+</tr>
+<tr>
+<td>D-02</td>
+<td>复核结论（LT-R 批每户三选一）</td>
+</tr>
+<tr>
+<td>D-03</td>
+<td>死域 / 邮箱异常处理</td>
+</tr>
+<tr>
+<td>D-04</td>
+<td>永久 pass（Gate 0，只有这三条，「一旦入选 永不考虑」）</td>
+</tr>
+<tr>
+<td>D-05</td>
+<td>守界 / 不碰 / 特殊区域</td>
+</tr>
+<tr>
+<td>D-06</td>
+<td>入库落点</td>
+</tr>
+<tr>
+<td>D-07</td>
+<td>报价档位与格式</td>
+</tr>
+<tr>
+<td>D-08</td>
+<td>这事到底该不该做（省时间 + 长期复利 两把尺）</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>0. 这本书怎么读（30 秒）</h2>
+<ul>
+<li><strong>V1</strong>（<code>docs/方法论_全集_2026-10-27.md</code>）讲「为什么这么做、每个方法怎么诞生的」；<strong>V2（本书）只讲「现在照着做」</strong>：每个剧本都是编号步骤 + 可复制命令 + 预期输出 + 失败处理 + 完成标准。两本都保留，V2 与 V1 冲突时以 V2 为准（V2 更新）。</li>
+<li>事实类信息（Saga 是谁、卖什么、价格、口径、客户数字）<strong>不在本书</strong>，去读 <code>docs/Saga全景信息包_给其他Agent_2026-10-29.md</code>。本书只管「手怎么动」。</li>
+<li>符号：<strong>▶</strong> 要敲的命令 ｜ <strong>✅</strong> 正常时你应该看到什么 ｜ <strong>❓</strong> 判定（查表）｜ <strong>🔁</strong> 失败了怎么办 ｜ <strong>📒</strong> 必须写的台账 ｜ <strong>⛔</strong> 绝对禁止 ｜ <strong>🏁</strong> 完成标准（Definition of Done）。</li>
+<li>规则：<strong>步骤不能跳、不能换顺序</strong>；每一步的 ✅ 没出现就停下走 🔁，不要「大概没问题」继续；任何「我觉得可以改一下流程」的念头 → 先按原流程做完，再把建议写进 Q 清单。</li>
+<li>一轮 = Simon 一条消息到你一条回复。每一轮都必须走 <strong>S-00 开工 → 剧本 → S-99 收工</strong>，没有例外（哪怕只是回答一个问题，也要记对话全记录）。</li>
+</ul>
+<h3>0.1 没有剧本可套时：通用解题八步（照这个顺序，不要跳）</h3>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>步</th>
+<th>具体做法</th>
+<th>产物</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>复述</td>
+<td>用一句话写出「Simon 要什么 + 做到什么算完」（验收标准要能用命令验证）</td>
+<td>写在回复开头</td>
+</tr>
+<tr>
+<td>2</td>
+<td>看现场</td>
+<td>跑命令<strong>亲眼看到</strong>现状 / 报错（<code>ls -la</code>、<code>grep -c</code>、脚本的最后几行输出），不凭记忆</td>
+<td>一段真实输出</td>
+</tr>
+<tr>
+<td>3</td>
+<td>先查仓库</td>
+<td><code>grep -rn "&lt;关键词&gt;" docs scripts data --include=*.md --include=*.py</code> + 对话全记录 + Q 清单：这事是不是已经做过 / 已有规则 / 已有脚本</td>
+<td>找到就复用，不重造</td>
+</tr>
+<tr>
+<td>4</td>
+<td>最小可逆改动</td>
+<td>只改真相源（JSON / CSV / overrides / parts），一次只改一类；大改先 <code>--dry</code></td>
+<td>diff 可解释</td>
+</tr>
+<tr>
+<td>5</td>
+<td>验证</td>
+<td>跑两遍（幂等）+ 渲染链 + 审计 + 抽查 3 条</td>
+<td>全绿</td>
+</tr>
+<tr>
+<td>6</td>
+<td>留痕</td>
+<td>台账四件 + 脚本提交 + 拿不准的立 Q 带默认</td>
+<td><code>grep -c</code> 都 = 1</td>
+</tr>
+<tr>
+<td>7</td>
+<td>报告</td>
+<td>§3.2 模板：搞定 / 没搞定 / 你要做啥 / 不用做啥</td>
+<td>—</td>
+</tr>
+<tr>
+<td>8</td>
+<td>反哺</td>
+<td>新流程写进本书 §11「待补剧本」或直接新增剧本（改 parts 重建）</td>
+<td>下个 agent 不再踩</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>1. S-00 · 每轮开工 SOP（10 步，约 3 分钟）</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>动作</th>
+<th>▶ 命令 / 做法</th>
+<th>✅ 预期</th>
+<th>🔁 不对时</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>记时间</td>
+<td><code>date -u</code></td>
+<td>得到 UTC 时刻；后面所有台账用它（北京 = +8h）</td>
+<td>—</td>
+</tr>
+<tr>
+<td>2</td>
+<td>确认仓库与分支</td>
+<td><code>cd /home/user/Planet &amp;&amp; git branch --show-current &amp;&amp; git log --oneline -1</code></td>
+<td>分支 <code>arena/3f35b9b3-planet</code>；最近一条提交是你认得的</td>
+<td>若 <code>git log</code> 只剩 <code>2199cbf Initial commit</code> → 沙箱被重置，走 <strong>R18 沙箱恢复</strong></td>
+</tr>
+<tr>
+<td>3</td>
+<td>同步远端</td>
+<td><code>git fetch -q origin arena/3f35b9b3-planet &amp;&amp; git status -sb</code></td>
+<td><code>## arena/... [behind N]</code> 或平；工作区干净</td>
+<td>behind → <code>git pull -q --rebase origin arena/3f35b9b3-planet</code>（Actions 机器人可能推过）；有未提交改动 → 先看是什么再决定</td>
+</tr>
+<tr>
+<td>4</td>
+<td>读五份文件（<strong>不许跳</strong>）</td>
+<td><code>AGENT-CONSTITUTION.md</code> → <code>AGENT-README.md</code> → <code>docs/requirements/用户要求总账.md</code>（最新 PR 行 + INH 表）→ <code>docs/requirements/对话全记录.md</code>（<code>tail -40</code>，最后 3 轮）→ <code>README.md</code> 进度（<code>tail -3 README.md</code>：编号项在文件末尾，最后 2 条）</td>
+<td>你能说出：上一轮做到哪、有什么没搞完、Simon 最近的原话是什么</td>
+<td>读不懂的词查全景信息包 §15 术语表</td>
+</tr>
+<tr>
+<td>5</td>
+<td>看 Simon 这轮原话</td>
+<td>逐字读；找出动词（继续 / 出 / 查 / 改 / 告诉我 / 搞定没）和名词（哪个库、哪批客户、哪份文件）</td>
+<td>能用一句话复述任务</td>
+<td>真有歧义且影响方向 → 不要问，按 <strong>R19 Q 立项</strong>写默认值并执行默认</td>
+</tr>
+<tr>
+<td>6</td>
+<td>任务分类</td>
+<td>查 §2 任务分类器 → 得到剧本编号</td>
+<td>一个主剧本 + 若干附属剧本</td>
+<td>没有匹配的剧本 → 用 <strong>R16 新脚本 / 新流程规范</strong>自建，并在收工时把新流程写进本书的「待补剧本」节</td>
+</tr>
+<tr>
+<td>7</td>
+<td>检查环境</td>
+<td><code>python3 -c "import dns.resolver, markdown"</code></td>
+<td>无输出 = 两个包都在；报 <code>ModuleNotFoundError</code> → <code>pip install -q --break-system-packages dnspython markdown</code>（沙箱重置后会消失，属正常）</td>
+<td>装不上 → 走不依赖它的路径（HTML 用内置降级转换；DNS 用 <code>--no-dns</code>）</td>
+</tr>
+<tr>
+<td>8</td>
+<td>定预算</td>
+<td>估一下：本轮做多少户 / 多少文件；Simon 要的是「长任务、大批量」（40–60 分钟一轮）</td>
+<td>写在心里的清单：主产出 + 台账 + 报告</td>
+<td>不要为了「快回复」把活砍到 10 分钟</td>
+</tr>
+<tr>
+<td>9</td>
+<td>先占坑提交？</td>
+<td>若预计 &gt;30 分钟且会改很多文件：先做一次小的 WIP 提交（例如只有脚本）并推送</td>
+<td>沙箱中途重置也不丢</td>
+<td>—</td>
+</tr>
+<tr>
+<td>10</td>
+<td>回复开头</td>
+<td>第一行输出 <code>📋 上下文已加载（宪法/AGENT-README/总账 PR-02-xx/对话全记录 T29-Uyy）</code></td>
+<td>—</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+<p>⛔ 开工阶段禁止：跳过第 4 步直接干活；用上一轮记忆代替读文件；在 <code>main</code> 或别的分支上操作；<code>git reset --hard</code> 掉别人的提交。</p>
+<hr />
+<h2>2. S-01 · 任务分类器（Simon 说了什么 → 走哪个剧本）</h2>
+<table>
+<thead>
+<tr>
+<th>Simon 的话里出现</th>
+<th>主剧本</th>
+<th>附属</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>「继续」「继续搞」「多搞一些」（没有新主题）</td>
+<td>看对话全记录最后一轮 Agent 的「没搞完的」清单 → 接着做；当前主线 = 长期客户群（R06 复核 / R08 底数 / R09 KP / R11 快照加厚）</td>
+<td>R02 渲染链、S-99</td>
+</tr>
+<tr>
+<td>「入库」「这个文件 / 链接 / 压缩包」「Drive」「邮件」</td>
+<td>R14 Drive/大文件入库 或 R15 Gmail 查证入库</td>
+<td>R17 台账</td>
+</tr>
+<tr>
+<td>「这些客户…深挖 / 加厚 / 审核 / 交叉检查」</td>
+<td>R05 加厚（Saga）/ R07 External 卡 / R10 缺口盘点</td>
+<td>R08 底数、R09 KP、R12 邮箱体检、R11 快照</td>
+</tr>
+<tr>
+<td>「定级」「升 / 降」「这个不行」「这个可以」</td>
+<td>R04 改级（三库各自机制）</td>
+<td>R06 复核记录、R02 渲染</td>
+</tr>
+<tr>
+<td>「再过一遍」「筛」「不行的进 C」「永久 pass」</td>
+<td>R06 复核批（LT-R 流程 + 判定表 D-01/D-02）</td>
+<td>R02、R10 名册</td>
+</tr>
+<tr>
+<td>「新客户」「挖客户」「找 XX 国家 / 行业」</td>
+<td>Planet 仓 → R03 Planet 新批；Saga 库 → R01 新建研究档</td>
+<td>⛔ 先确认挖掘是否仍处「暂停」（T22/U28：Planet 矿脉暂停）</td>
+</tr>
+<tr>
+<td>「报价」「多少钱」「价格表」</td>
+<td>R21 报价计算</td>
+<td>全景信息包 §8</td>
+</tr>
+<tr>
+<td>「写封信」「草稿」「发什么」</td>
+<td>R20 信稿</td>
+<td>R21、审计 <code>audit_ab.py</code></td>
+</tr>
+<tr>
+<td>「出个 HTML」「出 MD」「写个方法论 / 介绍 / 工作台」</td>
+<td>R22 文档交付（MD + HTML + 预览）</td>
+<td>R17</td>
+</tr>
+<tr>
+<td>「Actions」「Run workflow」「跑了没」「快照」</td>
+<td>R23 Actions 检查 + R11 快照消费</td>
+<td>—</td>
+</tr>
+<tr>
+<td>「监控」「巡检」「两个月」</td>
+<td>R24 监控轮</td>
+<td>—</td>
+</tr>
+<tr>
+<td>「发送包」「这周发啥」</td>
+<td>R25 周发送包</td>
+<td>—</td>
+</tr>
+<tr>
+<td>「搞定没」「告诉我」「是吧」</td>
+<td>只核对 + 回答（S-98 报告模板）；核对必须跑命令看数字，不许凭记忆</td>
+<td>S-99 仍要走</td>
+</tr>
+<tr>
+<td>任何「别再问了」「你自己定」</td>
+<td>一律 R19 Q 立项 + 默认执行</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>3. S-99 · 每轮收工 SOP（14 步，不可省）</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>动作</th>
+<th>▶ 命令 / 做法</th>
+<th>✅ 预期</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>产出核验</td>
+<td>对每个新文件 <code>ls -la &lt;文件&gt;</code>；MD 看 <code>grep -c "^## " &lt;文件&gt;</code>；CSV 看行数 <code>python3 -c "import csv;print(sum(1 for _ in csv.DictReader(open('&lt;文件&gt;',encoding='utf-8-sig'))))"</code></td>
+<td>文件存在、行数 / 章节数与你声称的一致</td>
+</tr>
+<tr>
+<td>2</td>
+<td>渲染链（若动了客户数据）</td>
+<td>按 R02（Saga）/ R07（External）/ R03（Planet）的「渲染 + 审计」段跑</td>
+<td><code>audit_full.py</code> hard 0；<code>scripts/audit.py</code> <code>errors: 0</code>；<code>lt_roster.py</code> 打印 <code>roster NNNN {...}</code></td>
+</tr>
+<tr>
+<td>3</td>
+<td>对话全记录</td>
+<td>追加 Simon 原话 + Agent 要点（§3.1 配方 A）</td>
+<td><code>grep -c "T29-Uxx" docs/requirements/对话全记录.md</code> ≥ 2</td>
+</tr>
+<tr>
+<td>4</td>
+<td>用户要求总账</td>
+<td>新要求 → 新 <code>PR-02-NN</code> 行；旧要求状态变化 → 改该行状态（§3.1 配方 B）</td>
+<td><code>grep -c "PR-02-NN"</code> = 1</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Q 清单</td>
+<td>本轮产生的待裁定事项 → 新 <code>Q-NN</code> 行带默认（§3.1 配方 C）；已裁定的填「结果」</td>
+<td>—</td>
+</tr>
+<tr>
+<td>6</td>
+<td>README</td>
+<td>进度编号列表追加第 N 项（§3.1 配方 D）</td>
+<td><code>grep -c "^N\. \*\*"</code> = 1</td>
+</tr>
+<tr>
+<td>7</td>
+<td>规程 / 专项文档</td>
+<td>若剧本本身有变化（新脚本、新判定），更新对应专项文档（<code>docs/公司底数_作业规程.md</code> §3、本书「待补剧本」等）</td>
+<td>—</td>
+</tr>
+<tr>
+<td>8</td>
+<td>变更日志</td>
+<td><code>timeout 900 python3 scripts/changelog.py</code>（约 140 秒）</td>
+<td>最后一行 <code>wrote docs/requirements/变更日志.md rows=NNN</code>，NNN 比上轮大</td>
+</tr>
+<tr>
+<td>9</td>
+<td>清理</td>
+<td><code>find . -name __pycache__ -type d -prune -exec rm -rf {} +</code>；确认没有 <code>/tmp</code> 路径或测试产物混进仓库（<code>git status --short</code>）</td>
+<td>只剩你想提交的文件</td>
+</tr>
+<tr>
+<td>10</td>
+<td>提交</td>
+<td><code>git add -A &amp;&amp; git -c user.name=elsasaga-cloud -c user.email=elsasaga-cloud@users.noreply.github.com commit -q -m "T29-Uxx：&lt;一句话&gt;"</code></td>
+<td>无报错；<code>$</code> 要写成 <code>\$</code> 或用单引号</td>
+</tr>
+<tr>
+<td>11</td>
+<td>拉再推</td>
+<td><code>git fetch -q origin arena/3f35b9b3-planet &amp;&amp; git pull -q --rebase origin arena/3f35b9b3-planet &amp;&amp; git push -q origin arena/3f35b9b3-planet</code></td>
+<td>无输出即成功</td>
+</tr>
+<tr>
+<td>12</td>
+<td>验推</td>
+<td><code>git ls-remote origin arena/3f35b9b3-planet</code> 的哈希开头 与 <code>git rev-parse --short=12 HEAD</code> 相同</td>
+<td>两个哈希一致</td>
+</tr>
+<tr>
+<td>13</td>
+<td>预览（若有 HTML 交付）</td>
+<td><code>start_process</code>：<code>python3 -m http.server 8080 --bind 0.0.0.0 --directory /home/user/Planet/docs</code>，并 <code>present_file</code> 打开 HTML</td>
+<td>端口 8080 在听</td>
+</tr>
+<tr>
+<td>14</td>
+<td>报告</td>
+<td>用 §3.2 模板写给 Simon</td>
+<td>大白话；每项「搞定 / 没搞定」+「你要做啥 / 不用做啥」</td>
+</tr>
+</tbody>
+</table>
+<h3>3.1 台账四件套 · 精确配方（复制即用；全部幂等）</h3>
+<p><strong>配方 A · 对话全记录</strong>（文件只增不删；时间必须是真实 <code>date -u</code>，Simon 消息时刻取平台给的时间，没有就写「会话内，精确时刻未提供」）</p>
+<pre><code class="language-python">import pathlib
+p = pathlib.Path('docs/requirements/对话全记录.md'); s = p.read_text(encoding='utf-8')
+simon = '- **2026-10-29 15:15Z Simon（T29-U132）：** 「&lt;逐字原话&gt;」'
+agent = '- **2026-10-29 15:33Z Agent（T29-U132）：** &lt;做了什么 + 产出文件清单 + 没搞完的&gt;'
+if simon not in s: s = s.rstrip('\n') + '\n\n' + simon + '\n'
+if agent not in s: s = s.rstrip('\n') + '\n' + agent + '\n'
+p.write_text(s, encoding='utf-8'); print(s.count('T29-U132'))
+</code></pre>
+<p><strong>配方 B · 用户要求总账 PR 行</strong>（5 格：编号 ｜ 轮次+时间+原话 ｜ 转述 ｜ 性质 ｜ 状态+位置；插在最后一条 <code>| PR-02-</code> 之后）</p>
+<pre><code class="language-python">import pathlib
+p = pathlib.Path('docs/requirements/用户要求总账.md'); s = p.read_text(encoding='utf-8')
+row = '| PR-02-77 | T29-U133 2026-10-29 15:4xZ 「&lt;原话&gt;」 | &lt;转述&gt; | &lt;性质&gt; | 🔄 2026-10-29 15:4xZ：&lt;做到哪 / 文件&gt; |'
+if 'PR-02-77' not in s:
+    lines = s.split('\n')
+    # 注意：PR-02 行分两块（第二块是 PR-02-44…46 老行），要插在「编号最大」的那行之后，不是文件里最后一行 PR-02 之后
+    idx = max((i for i, l in enumerate(lines) if l.startswith('| PR-02-')),
+              key=lambda i: int(lines[i].split('|')[1].strip().split('-')[-1]))
+    lines.insert(idx + 1, row); s = '\n'.join(lines)
+p.write_text(s, encoding='utf-8'); print(s.count('PR-02-77'))
+</code></pre>
+<p>状态符号：<code>🔄</code> 进行中 ｜ <code>✅</code> 完成 ｜ <code>⏳</code> 等 Simon ｜ <code>⛔</code> 被覆盖（指向新编号，不删行）。</p>
+<p><strong>配方 C · Q 清单行</strong>（6 格：编号 ｜ 提出轮次 ｜ 问题 ｜ 影响范围 ｜ 默认处理 ｜ 结果；编号只增不复用）</p>
+<pre><code class="language-python">import pathlib, re
+p = pathlib.Path('docs/requirements/待统一处理问题清单.md'); s = p.read_text(encoding='utf-8')
+n = max(int(x) for x in re.findall(r'^\| Q-(\d+) ', s, flags=re.M)) + 1
+row = f'| Q-{n:02d} | T29-U133（2026-10-29 15:4xZ） | **&lt;问题一句话&gt;** | &lt;影响几户 / 哪条规则&gt; | 默认：&lt;不问 Simon 时怎么做&gt; | 待裁定（默认执行） |'
+if f'| Q-{n:02d} ' not in s:
+    lines = s.split('\n'); idx = [i for i, l in enumerate(lines) if l.startswith('| Q-')]
+    lines.insert(idx[-1] + 1, row); s = '\n'.join(lines)
+p.write_text(s, encoding='utf-8'); print(n)
+</code></pre>
+<p><strong>配方 D · README 进度项</strong>（编号列表 <code>N. **标题（T29-Uxx，日期 时刻Z）。** 正文</code>；插在最后一个编号项之后）</p>
+<pre><code class="language-python">import pathlib, re
+p = pathlib.Path('README.md'); s = p.read_text(encoding='utf-8')
+items = list(re.finditer(r'^(\d+)\. \*\*.*$', s, flags=re.M)); last = items[-1]; n = int(last.group(1)) + 1
+item = f'{n}. **&lt;标题&gt;（T29-U133，2026-10-29 15:4xZ）。** &lt;做了什么 / 产出路径 / 关键数字&gt;'
+if f'{n}. **' not in s:
+    s = s[:last.end()] + '\n' + item + s[last.end():]
+p.write_text(s, encoding='utf-8'); print(n)
+</code></pre>
+<p>⛔ 台账禁忌：<code>str.replace</code> 之后不验证（必须 <code>grep -c</code>）；<code>assert count == 1</code> 卡死整段脚本（用存在性检查）；编造时间；改旧行的原话；删行。</p>
+<h3>3.2 S-98 · 给 Simon 的报告模板（大白话，T29-U41 样式）</h3>
+<pre><code>**搞定 / 没搞定一览**
+- &lt;任务 1&gt;：搞定。&lt;一句话结果 + 关键数字 + 文件路径&gt;
+- &lt;任务 2&gt;：没搞定（卡在 &lt;原因&gt;）。下一步 &lt;我会怎么做 / 什么时候自动好&gt;
+**你要做啥**
+- &lt;只有 Simon 能做的事，如「点 Run workflow」「给个链接」&gt;；没有就写「不用做啥」。
+**不用做啥**
+- &lt;明确告诉他哪些不用管，如「价格不用你去问 Peter」&gt;
+**顺带**
+- &lt;风险 / 提醒，一两条，不唠叨&gt;
+</code></pre>
+<p>规则：不堆术语；数字要是你刚跑命令看到的；不许「应该 / 大概」；不重复上一轮已经说过的解释；不要问 Simon 多个问题（最多一个，且先给默认）。</p>
+<h2>4. 剧本骨架（每个剧本都长这样）</h2>
+<pre><code>Rnn · 名字
+目的 ｜ 触发（Simon 说了什么 / 什么状态下跑）｜ 前置检查 ｜ 步骤（▶ 命令 → ✅ 预期）｜ ❓ 判定表 ｜ 🔁 失败处理 ｜ 📒 台账 ｜ 🏁 完成标准 ｜ ⛔ 常见错法
+</code></pre>
+<p>三个库的「身份」先记死（搞错库 = 全错）：</p>
+<table>
+<thead>
+<tr>
+<th>库</th>
+<th>编号前缀</th>
+<th>真相源（只改这里）</th>
+<th>渲染产物（⛔ 永远不手改）</th>
+<th>渲染脚本</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Saga 客户库（S 邮箱 / A 邮箱 / 历史表）</td>
+<td><code>SA-</code> <code>SB-</code> <code>SC-</code></td>
+<td><code>data/saga_clients/research/&lt;编号&gt;.json</code>、<code>人工定级.csv</code>、<code>人工归并.csv</code>、<code>补录客户.jsonl</code>、<code>registry/*.json</code>、<code>sieve.json</code></td>
+<td><code>Saga Clients/A|B|C/&lt;编号&gt;-&lt;公司&gt;-&lt;国家&gt;.md</code>、<code>entities.json</code>、<code>客户主表.csv</code></td>
+<td><code>scripts/saga_clients/build.py</code> + <code>render.py</code></td>
+</tr>
+<tr>
+<td>External Clients（CCTV / Edgecore / Mikrotik 三个老仓）</td>
+<td><code>XA-</code> <code>XB-</code> <code>XC-</code> + 仓字母（<code>XB-C0001</code> = CCTV 仓）</td>
+<td><code>data/external_clients/{cctv,edgecore,mikrotik}.json</code>（原始，不改）、<code>overrides.json</code>（改级 / 复核）、<code>research/&lt;编号&gt;.json</code>（研究卡）</td>
+<td><code>External Clients/&lt;仓&gt;/A|B|C/*.md</code></td>
+<td><code>scripts/external_clients/render.py</code></td>
+</tr>
+<tr>
+<td>Planet 渠道仓（本仓最早的 129 户）</td>
+<td><code>PA-</code> <code>PB-</code> <code>PC-</code></td>
+<td><code>data/客户名单_Planet渠道_2026-10.csv</code>（列 <code>人工定级</code> / <code>长期群复核</code> / <code>备注</code>）、<code>batch/*.json</code>（新批）</td>
+<td><code>profile/*.md</code>、<code>docs/客户名单*.md</code></td>
+<td><code>scripts/render.py</code>（在 <code>scripts/</code> 下跑）+ <code>scripts/audit.py</code></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>5. 剧本 R01–R12 · 客户数据类</h2>
+<h3>R01 · 给 Saga 库新增一户（补录）</h3>
+<ul>
+<li><strong>目的</strong>：Simon 给了一个新客户（邮件里冒出来的、PI 上的、他口述的），要进 Saga 库拿编号。</li>
+<li><strong>触发</strong>：原话含「这个客户」「入库」「加进去」，且不在三库里。</li>
+<li><strong>前置检查</strong>：
+  1. ▶ <code>grep -ril "&lt;域名或公司名关键词&gt;" data/saga_clients/entities.json data/external_clients/*.json data/客户名单_Planet渠道_2026-10.csv | head</code> → ✅ 空 = 确实没有；有 → 走 R04 / R05 而不是新增。
+  2. ▶ <code>grep -c . data/saga_clients/补录客户.jsonl</code> 记住行数。</li>
+<li><strong>步骤</strong>：
+  1. 在 <code>data/saga_clients/补录客户.jsonl</code> 末尾追加一行 JSON（字段：<code>no</code>（格式 <code>AS-补录-&lt;日期&gt;-&lt;序&gt;</code>）、<code>company</code>、<code>country</code>（中文国名）、<code>category</code>、<code>person</code>、<code>position</code>、<code>from</code>（一句话：从哪来的 + 证据位置）、<code>interest</code>、<code>contact</code>（邮箱，必须是公开页 / 来信里出现过的）、<code>mobile</code>、<code>website</code>、<code>remark</code>）。⛔ 不许写你猜的邮箱。
+  2. ▶ <code>cd scripts/saga_clients &amp;&amp; python3 build.py | tail -1</code> → ✅ 打印统计 JSON 结尾 <code>}</code>；再 ▶ <code>grep -n "&lt;公司名&gt;" ../../data/saga_clients/客户主表.csv | head -2</code> → ✅ 看到新编号（等级由 <code>build.py</code> 规则给，多数先落 C；Simon 定级 / PI 证据 / <code>grade_override</code> 再升）。
+  3. 建研究档：写 <code>data/saga_clients/research/&lt;新编号&gt;.json</code>（最少字段：<code>code</code>、<code>name_official</code>、<code>type</code>、<code>size</code>、<code>summary</code>、<code>evidence[{claim, quote, url, date}]</code>、<code>kp[]</code>、<code>saga_fit{p1, tier, why}</code>、<code>mail_review{binding, situation, need, breakpoint, saga_now, next_move, facts[], proof_gaps[]}</code>、<code>researched_at</code>）。A/B 必须有 <code>mail_review.facts</code>（审计硬项）。
+  4. 跑 <strong>R02 渲染链</strong>。</li>
+<li>❓ 等级：按 D-01 A/B v5 判定表；拿不准 → C 储备（<code>grade_override</code> 不写）。</li>
+<li>🔁 <code>build.py</code> 报 KeyError → 多半是 jsonl 某行不是合法 JSON（<code>python3 -c "import json;[json.loads(l) for l in open('data/saga_clients/补录客户.jsonl',encoding='utf-8') if l.strip() and not l.startswith('#')]"</code>）。</li>
+<li>📒 README 项 + 对话全记录；若 Simon 定了级 → <code>人工定级.csv</code> 追加一行 <code>编号,等级,理由（含原话）,日期</code>。</li>
+<li>🏁 <code>客户主表.csv</code> 有该编号；<code>Saga Clients/&lt;级&gt;/</code> 下有 MD；<code>audit_full.py</code> hard 0。</li>
+</ul>
+<h3>R02 · Saga 渲染链 + 三审计（任何 Saga 数据改动后必跑）</h3>
+<ul>
+<li><strong>触发</strong>：改了 <code>research/*.json</code>、<code>人工定级.csv</code>、<code>人工归并.csv</code>、<code>补录客户.jsonl</code>、<code>registry/*.json</code>、<code>sieve.json</code> 任一。</li>
+<li><strong>步骤</strong>（在 <code>scripts/saga_clients/</code> 下，顺序不能换）：</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>▶ 命令</th>
+<th>✅ 预期（2026-10-29 基线）</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><code>python3 renumber.py --snapshot-md</code></td>
+<td>最后一行 <code>MD 快照 4647 份 → /tmp/renumber_old_md.json</code></td>
+</tr>
+<tr>
+<td>2</td>
+<td><code>python3 build.py</code></td>
+<td>打印统计 JSON，最后一行是 <code>}</code>；无 Traceback</td>
+</tr>
+<tr>
+<td>3</td>
+<td><code>python3 render.py</code></td>
+<td>最后一行 <code>{'A': 169, 'B': 1225, 'C': 3253}</code>（数字随改动变；A/B 之和应 ≈ 名册 Saga 部分）</td>
+</tr>
+<tr>
+<td>4</td>
+<td><code>python3 renumber.py --restore-dates</code></td>
+<td>最后一行 <code>日期还原：N；无需改：M；内容确有差异：K</code>（K = 真改动的档案数，应等于你改的户数量级）</td>
+</tr>
+<tr>
+<td>5</td>
+<td><code>python3 audit_full.py</code></td>
+<td>最后一行以 <code>hard 0 soft 370</code> 开头，后接 <code>report docs/requirements/全量审计_机检_&lt;日期&gt;.md</code>（soft 基线 370，上升要看原因；退出码 1 = 有 hard）</td>
+</tr>
+<tr>
+<td>6</td>
+<td><code>python3 audit.py</code></td>
+<td>最后一行含 <code>rows 6246 missing 0 dup_assigned 0 ghost 0</code>、<code>ents 4647 no_md 0 wrong_dir 0 orphan 0</code>、<code>cand 49</code>（四个 0 必须是 0）</td>
+</tr>
+<tr>
+<td>7</td>
+<td>（改了 A/B 信稿 / 价格时）<code>python3 audit_ab.py</code></td>
+<td>结尾统计无新增「错」项</td>
+</tr>
+<tr>
+<td>8</td>
+<td><code>cd ../.. &amp;&amp; python3 scripts/lt_roster.py</code></td>
+<td>最后一行 <code>roster 2045 {'A': 170, 'B': 1875, 'q': 0} queue 0 {}</code></td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>🔁 第 2 步 Traceback <code>calendar</code> 相关 → 该目录下 <code>calendar.py</code> 遮蔽了标准库：绝不 <code>sys.path.insert</code> 这个目录，用 <code>importlib.util.spec_from_file_location</code> 载入。</li>
+<li>🔁 第 5 步 <code>hard N&gt;0</code> → 打开报告，按条修（常见：A/B 研究档缺 <code>mail_review.facts</code>；信稿价不在允许集合；型号不在价格表）。<strong>不许</strong>用改审计阈值来「修」。</li>
+<li>🔁 第 4 步 <code>内容确有差异</code> 远大于你改的户数 → 你可能改了共享渲染规则；看 <code>git diff --stat "Saga Clients" | tail -1</code>，确认是预期的再继续。</li>
+<li>🏁 八步全绿；<code>git status --short | wc -l</code> 与预期一致。</li>
+</ul>
+<h3>R03 · Planet 渠道仓：新批入库 / 改一户 / 渲染</h3>
+<ul>
+<li><strong>触发</strong>：Simon 给 Planet 仓新客户；或 Planet 客户复核改级。⛔ Planet「矿脉挖掘」仍处暂停（T22 / T29-U28），不要去 PLANET 官网挖新经销商。</li>
+<li><strong>新批步骤</strong>：
+  1. 写 <code>batch/&lt;YYYY-MM-DD&gt;_&lt;批名&gt;.json</code>，结构抄最近一个（<code>ls batch | tail -1</code>，如 <code>2026-10-20_W22_…json</code>）：顶层 <code>batch / date / method[] / tools / customers[] / merged[] / pending_next_wave[] / skipped[{name, reason}]</code>；<code>customers[]</code> 每户英文键（<code>name, short_name, country, city, website, type, signal, own_brand, hook, angle, p1, p1_reason, tier, contacts, who, priority, rating(A|B|C), rating_basis, source, evidence, facts, notes…</code>），<code>add_batch.py</code> 负责映射到 CSV 中文列（<code>scripts/common.py</code> <code>COLUMNS</code>）；去重键 = 国家 + 规范化公司名；不建档的户写进 <code>skipped</code> 并给理由（留痕）。
+  2. ▶ <code>python3 scripts/add_batch.py batch/&lt;文件&gt;.json</code> → ✅ 打印新增 / 合并数；运营列（人工定级 / 状态 / 日期 / 档案编号）永不被覆盖。
+  3. ▶ <code>cd scripts &amp;&amp; python3 render.py | tail -1</code> → ✅ <code>rendered 129 profiles</code>（数字 = 总户数）。
+  4. ▶ <code>cd .. &amp;&amp; python3 scripts/audit.py | tail -1</code> → ✅ <code>- **errors: 0**　warnings: 0</code>。</li>
+<li><strong>改一户</strong>（复核 / 改级）：只改 CSV 的 <code>人工定级</code>（A/B/C）、<code>长期群复核</code>（追加 <code>留B·LT-Rnn</code> / <code>打回C·LT-Rnn</code> / <code>升A·LT-Rnn</code>）、<code>备注</code>（追加理由 + URL + 日期）；用 python <code>csv.DictReader/DictWriter</code>（<code>encoding='utf-8-sig'</code>，<code>newline=''</code>），模板见 <code>scripts/lt_review_x_p_003.py</code>。然后第 3–4 步 + <code>lt_roster.py</code> + 追加 <code>data/长期客户群_复核记录.csv</code>。</li>
+<li>🔁 <code>audit.py</code> 报编号重复 → 你手工填了 <code>档案编号</code>；删掉让 <code>add_batch.py</code> 分配。</li>
+<li>🏁 render 户数 = CSV 行数；audit errors 0；roster 行数变化等于你改的户。</li>
+</ul>
+<h3>R04 · 改级（升 / 降 / 打回）三库各走各的门</h3>
+<table>
+<thead>
+<tr>
+<th>库</th>
+<th>怎么改</th>
+<th>⛔ 不许</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Saga</td>
+<td>① Simon 原话定级 → <code>data/saga_clients/人工定级.csv</code> 追加 <code>编号,等级,理由（含原话 + 轮次）,日期</code>（最高优先级）；② 证据定级 → <code>research/&lt;编号&gt;.json</code> 写 <code>grade_override: "A|B|C"</code> + <code>override_reason</code> + <code>override_history[]</code>；PI 标签 活跃 / 可发展 会强制 A（<code>build.py</code> 内置）</td>
+<td>直接改 <code>entities.json</code> / <code>客户主表.csv</code> / MD；在 <code>人工定级.csv</code> 里替 Simon 发明理由</td>
+</tr>
+<tr>
+<td>External</td>
+<td><code>data/external_clients/overrides.json[编号] = {grade, reason, date, batch, from, review{status, prio, date, batch, note}}</code>（原值留 <code>from</code>）</td>
+<td>改 <code>cctv/edgecore/mikrotik.json</code> 原始数据</td>
+</tr>
+<tr>
+<td>Planet</td>
+<td>CSV 列 <code>人工定级</code>（空 = 用 <code>评级</code> 列机器值）+ <code>长期群复核</code> + <code>备注</code></td>
+<td>改 <code>评级</code> 列</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>❓ 用 <strong>D-01</strong>（A/B v5）与 <strong>D-02</strong>（打回 / 永久 pass）判定；每次改级必须有「理由 + 证据 + 日期 + 批次」四件。</li>
+<li>📒 <code>data/长期客户群_复核记录.csv</code> 追加一行（8 列：编号 / 公司 / 国家 / 复核前等级 / 复核后等级 / 批次 / 日期 / 结论与理由）；README；总账。</li>
+<li>🏁 渲染后该户 MD 在新等级目录；<code>lt_roster.py</code> 数字相应变化。</li>
+</ul>
+<h3>R05 · 加厚一户（Saga 深挖 / 补证据）</h3>
+<ul>
+<li><strong>触发</strong>：「深挖 / 加厚 / 审核 / 交叉检查」；<code>lt_gap_audit</code> 列出「研究深度缺」；A 级季度复核。</li>
+<li><strong>前置</strong>：▶ <code>python3 -c "import json;r=json.load(open('data/saga_clients/research/&lt;编号&gt;.json',encoding='utf-8'));print(r.get('deep'),len(r.get('evidence',[])),len((r.get('mail_review') or {}).get('facts',[])))"</code> → 知道现状。</li>
+<li><strong>证据来源优先级</strong>：① 仓库里已有（<code>grep -ril "&lt;域名&gt;" data/ docs/ "Saga Clients"</code>、<code>data/gmail_s/</code>、<code>data/gmail_a/</code> jsonl）→ ② 官网快照 <code>data/saga_clients/site_snapshots/&lt;编号&gt;.json</code> → ③ <code>web_search depth 1</code> 摘要 → ④ <code>fetch_page</code> 官方页（只读第 0 块）→ ⑤ 登记机关（R08）。⛔ 没证据不写；「待补证」要写成 <code>proof_gaps</code>。</li>
+<li><strong>写入</strong>：▶ <code>cd scripts/saga_clients &amp;&amp; python3 deepen.py &lt;&lt;'EOF'</code> … <code>EOF</code>（数组；字段见 <code>deepen.py</code> 文档串：<code>deep{done_at, level}</code>、<code>company_facts</code>、<code>business_lines</code>、<code>products_seen</code>、<code>channels</code>、<code>signals</code>、<code>risks</code>、<code>saga_fit{p1,tier,why}</code>、<code>email_hook</code>、<code>evidence_add[]</code>、<code>kp_add[]</code>、<code>brands_add[]</code>、<code>notes_add</code>）。heredoc 里 ⛔ 不要用 f-string 花括号；中文路径走 python。</li>
+<li><strong>每条 evidence 四件</strong>：<code>claim</code>（中文一句）、<code>quote</code>（原文引文 ≤ 300 字）、<code>url</code>、<code>date</code>（抓取日 YYYY-MM-DD）。</li>
+<li>❓ 加厚后要不要改级 → D-01；要不要改 <code>saga_fit.p1</code> → 必须是价格主表 <code>Saga对应型号</code> ∪ HRUI 型号 ∪ STH 列表里的型号。</li>
+<li>然后 <strong>R02</strong>。</li>
+<li>🏁 <code>deep.level</code> 更新；<code>evidence</code> 条数增加；<code>audit_full</code> hard 0；MD 里能看到新事实。</li>
+</ul>
+<h3>R06 · 复核一批长期客户（LT-R 批）</h3>
+<ul>
+<li><strong>触发</strong>：「再过一遍」「筛一下」「不行的打回 C」；<code>lt_roster.py</code> 的 <code>queue N&gt;0</code>；缺口盘点「复核缺」。</li>
+<li><strong>前置</strong>：▶ <code>python3 scripts/lt_roster.py | tail -1</code> 看 <code>queue</code>；▶ <code>ls scripts/saga_clients/lt_review_batches/ | tail -3</code> 得到下一个批号（<code>lt_r_0NN.py</code>，批名 <code>LT-Rnn</code>）。</li>
+<li><strong>步骤</strong>：
+  1. 取队列：<code>data/长期客户群_复核队列_2026-10-29.csv</code>（或按 Simon 指定范围）一批 12–40 户。
+  2. 每户按 R05 的来源优先级看证据（先仓库内，再快照，再搜索；每户 ≤ 1 次 <code>web_search</code>），记下 <code>(quote, url)</code>。
+  3. 判定：查 <strong>D-02</strong>；结论三选一 <code>留B</code> / <code>打回C</code> / <code>升A</code>；理由句式固定：<code>&lt;事实 1&gt;；&lt;事实 2&gt; → &lt;结论&gt;（路径 = xx；可逆条件 = xx）</code>。
+  4. 写批文件 <code>scripts/saga_clients/lt_review_batches/lt_r_0NN.py</code>：抄上一批骨架，<code>BATCH = 'LT-Rnn'</code>，<code>V = {'SB-xxx': ('留B', '理由', [('引文', 'URL'), ...]), ...}</code>，末尾 <code>run(BATCH, V)</code>。
+  5. ▶ <code>python3 -c "import ast;ast.parse(open('scripts/saga_clients/lt_review_batches/lt_r_0NN.py',encoding='utf-8').read())"</code> → ✅ 无输出。
+  6. ▶ <code>python3 scripts/saga_clients/lt_review_batches/lt_r_0NN.py | tail -3</code> → ✅ 打印写入户数；<strong>再跑一遍</strong> → ✅ 写入 0（幂等）。
+  7. External / Planet 户另写 <code>scripts/lt_review_x_p_00N.py</code>（抄 <code>lt_review_x_p_003.py</code>：External 改 <code>overrides.json[code]['review']</code>，Planet 改 CSV 三列，两者都追加复核记录 CSV）。
+  8. <strong>R02</strong> 全链 + External <code>render.py</code> / Planet <code>render.py</code>（按涉及的库）+ <code>lt_roster.py</code>。</li>
+<li>🔁 <code>run()</code> 抛 <code>AssertionError</code> 编号不存在 → 编号写错（B 户编号可能仍是 <code>SC-</code> 前缀！用 <code>entities.json</code> 的 grade 选户，不用前缀猜）。</li>
+<li>🔁 DNS 结果 <code>nxdomain</code> 作为打回理由前，必须<strong>第二次查询</strong>（早上一轮曾误报 3 户）。</li>
+<li>📒 复核记录 CSV（库自动追加）、README、总账 PR 行状态、对话全记录。</li>
+<li>🏁 批文件已提交；<code>lt_roster.py</code> queue 减少相应数；复核记录行数 = 原 + 本批户数。</li>
+</ul>
+<h3>R07 · External Clients 研究卡 + 渲染</h3>
+<ul>
+<li><strong>触发</strong>：External 库某户要加厚 / 复核 / 改级。</li>
+<li><strong>步骤</strong>：
+  1. 读原始：▶ <code>python3 -c "import json;d=json.load(open('data/external_clients/mikrotik.json',encoding='utf-8'));print([x for x in d if x.get('code')=='XB-M0001'][:1])"</code>（cctv / edgecore 同理）。
+  2. 写卡：<code>from research_store import put</code>（<code>scripts/external_clients/research_store.py</code>；必填 <code>code, name, round, researched_at, alive, summary, type_final, saga_line, evidence, touch_status, grade_final, grade_reason_final, next_move</code>；<code>deep</code> 必须是布尔 <code>True/False</code>，⛔ 不要写字符串 <code>'False'</code>）。批量写法抄 <code>scripts/external_clients/lt_cards_003.py</code>。
+  3. 改级走 <code>overrides.json</code>（R04）。
+  4. ▶ <code>python3 scripts/external_clients/render.py | tail -3</code> → ✅ 三行 <code>mikrotik-info {'B': 423, 'C': 619} deleted 0 researched 631</code> / <code>edgecore …</code> / <code>CCTV-PoE {'B': 111, 'C': 2961} deleted 250 researched 343</code>（数字随改动变）。
+  5. <code>lt_roster.py</code>。</li>
+<li>⛔ 这三个库来自 CCTV / Edgecore / Mikrotik 老仓：<strong>CCTV 代理永不再跑</strong>；按 Saga 的真实情况重定级；仓库私有不删。</li>
+<li>🏁 <code>research/&lt;编号&gt;.json</code> 存在且 <code>put</code> 不报错；MD 在新等级目录；roster 数字对。</li>
+</ul>
+<h3>R08 · 公司底数登记（官方工商 / 年报）</h3>
+<ul>
+<li><strong>触发</strong>：缺口盘点「登记底数缺」；新入库 A/B；A 级季度复核（下一次 2027-01）。</li>
+<li><strong>规程</strong>：<code>docs/公司底数_作业规程.md</code> §0 通用规则、§1 分国来源表（哪国查哪个官网 / API、每国的坑）、§2 每轮步骤 —— <strong>先读 §1 对应国家那一行再动手</strong>。</li>
+<li><strong>步骤</strong>：
+  1. ▶ <code>cd scripts/saga_clients &amp;&amp; python3 registry_store.py</code> → ✅ 一行 <code>1487 ['SA-001', …]</code>（已做户数 + 编号列表；1,487 基线）。
+  2. 先从 <code>research/&lt;编号&gt;.json</code> 的 <code>company_facts</code> 捞现成登记号（ИНН / NIP / KRS / IČO / CIN / P.IVA / HRB / Company No.），有号直接走 API / 直链。
+  3. 取数 → 新建 <code>scripts/saga_clients/registry_batches/b&lt;N&gt;_&lt;国家缩写&gt;.py</code>（抄最近一批，如 <code>b136_c.py</code> / <code>b99_de_gb_pl.py</code>；<code>ls | sort -V | tail -1</code> 取下一个号）：<code>registry_store.put(code, key='&lt;国 key&gt;', batch=N, name=, iso=, source=, url=, number=, status=, incorporated=, company_type=, sic=[], address=, accounts=, size_band=, officers=[], prev_names=[], lines=[...], notes=, fetched='YYYY-MM-DD')</code>；<code>lines</code> 里写 3–5 条「这意味着什么」+ 下次复查月份。
+  4. 「老板 = 联系人？」写回 KP：<code>scripts/saga_clients/patches/batch&lt;N&gt;_kp.py</code>（幂等 TAG，抄上一个）。
+  5. 跑脚本两遍（第二遍应 0 写入）→ <strong>R02</strong>。</li>
+<li>❓ 「1 查未得即停」：一个国家来源查不到 → 记 <code>notes='&lt;来源&gt; 未得 &lt;日期&gt;'</code>，不要换五个站死磕。</li>
+<li>⛔ 永远不对客户说「我们查了你的登记 / 董事 / 财报」；不在信里引用亏损 / 诉讼。</li>
+<li>🏁 <code>registry/&lt;key&gt;_&lt;日期&gt;.json</code> 多了该户；MD「公司底数」节出现；规程 §3 进度表加一行。</li>
+</ul>
+<h3>R09 · 挖具名关键人（KP）</h3>
+<ul>
+<li><strong>触发</strong>：缺口盘点「邮箱·具名 KP 缺」；要写个人信前。</li>
+<li><strong>顺序</strong>：① 往来邮件签名（<code>grep -ril "&lt;域名&gt;" data/gmail_s/messages data/gmail_a/messages</code>，再打开命中的月份文件看签名）→ ② 官网 About / Team / Impressum（快照 JSON 或 <code>fetch_page</code>）→ ③ 登记机关高管（R08 的 <code>officers</code>）→ ④ LinkedIn 搜索摘要（只记姓名 + 职位 + URL，⛔ 不去猜邮箱格式）。</li>
+<li><strong>写入</strong>：<code>kp_add[{name, role, email(仅公开 / 来信出现过), phone, source(URL), date}]</code> 经 <code>deepen.py</code>；External 写 <code>contacts.kp[]</code>；Planet 写 <code>入口/联系方式</code> + <code>备注</code>。</li>
+<li>❓ 具名 KP &gt; <code>info@</code>；WhatsApp 客户不算「缺邮箱」；公开页只有表单也不算缺口。</li>
+<li>🏁 <code>kp</code> 至少 1 条带 <code>source</code>；渲染后 MD「关键人」节可见。</li>
+</ul>
+<h3>R10 · 缺口盘点 + 名册 + 补快照清单（长期客户群总检）</h3>
+<table>
+<thead>
+<tr>
+<th>步骤</th>
+<th>▶ 命令</th>
+<th>✅ 预期 / 产物</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><code>python3 scripts/lt_roster.py</code></td>
+<td>最后一行 <code>roster 2045 {...} queue 0 {}</code>；<code>docs/长期客户群_名册_2026-10-29.md</code>、<code>data/长期客户群_复核队列_2026-10-29.csv</code></td>
+</tr>
+<tr>
+<td>2</td>
+<td><code>python3 scripts/lt_gap_audit.py --no-dns</code></td>
+<td><code>data/长期客户群_深挖缺口_&lt;日期&gt;.csv</code> + <code>docs/长期客户群_深挖缺口_&lt;日期&gt;.md</code>（七维：研究深度 / 登记底数 / 官网快照 / 域名·MX / 邮箱·具名 KP / 复核 / 跨库重复）</td>
+</tr>
+<tr>
+<td>3</td>
+<td>去掉 <code>--no-dns</code>（装了 dnspython、且想刷新 External / Planet 域名体检时）</td>
+<td>多写 <code>data/external_clients/mx_check_&lt;日期&gt;.json</code>、<code>data/planet_mx_check_&lt;日期&gt;.json</code></td>
+</tr>
+<tr>
+<td>4</td>
+<td><code>python3 scripts/lt_snapshot_list.py</code></td>
+<td><code>snapshot list 751 → …/data/长期客户群_补快照清单_2026-10-29.json {'X': 640, 'P': 111}</code>（数字随快照消费减少）→ 供 Actions <code>customer-watch</code> 顺手抓</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>❓ 缺口表怎么用：每行「还缺什么」→ 对应剧本（研究深度 → R05；登记 → R08；快照 → R11；域名 → R12；KP → R09；复核 → R06；跨库重复 → 并档记备注）。</li>
+<li>🏁 三份产物时间戳是今天；README 写明「缺 X 项 / 已清 Y 项」。</li>
+</ul>
+<h3>R11 · 官网快照 → 加厚（消费 Actions 产物）</h3>
+<ul>
+<li><strong>触发</strong>：<code>customer-watch</code> 跑完（每晚 02:23Z 自动，或 Simon 手动 Run workflow）后机器人提交落到本分支。</li>
+<li><strong>步骤</strong>：
+  1. ▶ <code>git fetch -q origin arena/3f35b9b3-planet &amp;&amp; git log --oneline origin/arena/3f35b9b3-planet -3</code> → ✅ 看到 <code>github-actions</code> 提交（含 <code>site_snapshots</code>）→ <code>git pull -q --rebase origin arena/3f35b9b3-planet</code>。
+  2. ▶ <code>python3 -c "import json;r=json.load(open('data/saga_clients/site_snapshots/_report.json'));print({k:(len(v) if isinstance(v,list) else v) for k,v in r.items()})"</code> → ✅ 成功 / DNS / 超时 / HTTP 计数。
+  3. ▶ <code>python3 scripts/saga_clients/lt_snapshot_thicken.py --dry | tail -5</code> → ✅ 列出将更新的户数（三库）。
+  4. ▶ <code>python3 scripts/saga_clients/lt_snapshot_thicken.py | tail -5</code> → ✅ 实写；<strong>再跑一遍</strong> → 0（每份快照按 <code>fetched_at</code> 只消费一次）。
+  5. <strong>R02</strong> + External / Planet 渲染 + <code>lt_roster.py</code> + <code>lt_snapshot_list.py</code>。
+  6. 失败户：▶ <code>ls data/长期客户群_快照打回候选_*.csv</code> → 只有<strong>连续两晚</strong>都失败、且 DNS 复查 nxdomain 的户才进 R06 打回候选；单晚失败不动。</li>
+<li>⛔ 沙箱不能访问客户网站——不要在沙箱里跑 <code>site_snapshot.py</code> 对真实域名；本地测试一律 <code>--snap-dir /tmp/xxx</code>。</li>
+<li>🏁 <code>snap_thicken</code> 字段出现在对应研究档；<code>website_status</code> 占位被替换；两遍幂等。</li>
+</ul>
+<h3>R12 · 邮箱 / 域名体检 + 死域处理</h3>
+<ul>
+<li><strong>触发</strong>：缺口盘点「域名·MX 异常」；复核前；退信。</li>
+<li><strong>步骤</strong>：
+  1. ▶ <code>python3 -c "import dns.resolver" || pip install -q --break-system-packages dnspython</code>。
+  2. Saga：▶ <code>cd scripts/saga_clients &amp;&amp; python3 mx_check.py --grades AB --only-missing --workers 16 | tail -2</code> → ✅ 写 <code>data/saga_clients/mx_check_&lt;日期&gt;.json</code>（<code>domains[dom] = {mx: [[pref, host]…], a: […], status: ok|no_mx|dead|nxdomain, cls, checked}</code>）。
+  3. External / Planet：R10 第 3 步。
+  4. 异常域复查（必做）：▶ <code>python3 - &lt;&lt;'EOF'</code> 用 <code>dns.resolver.resolve(dom, 'MX'/'A'/'NS')</code> 各查一次并打印 → 两次都 NXDOMAIN 才算死。</li>
+<li>❓ <strong>D-03 死域处理表</strong>：死 + 有备用路径（WA / 私人 gmail / 真回过）→ 留 B，路径改写进 <code>lt_review.note</code>；死 + 无路径 + 非对位 → 打回 C 储备（可逆：补到邮箱即回 B）；死 + 成单客户 → 不动，记 Q；<code>no_mx</code> 但 A 记录在 → 不算死（可能只是不收公网邮件），记「待观察」。</li>
+<li>⛔ 手工补缓存时必须完整写 <code>mx/a/status/cls/checked</code> 五键，否则 <code>render.py</code> 崩。</li>
+<li>🏁 <code>mx_check_&lt;日期&gt;.json</code> 覆盖所有 A/B 域；异常户都有复查记录；打回户进了 R06 批。</li>
+</ul>
+<h2>6. 剧本 R13–R25 · 入库 / 对外 / 基础设施类</h2>
+<h3>R13 · 「啥都入库，不要漏掉」通用入库（Simon 给了任何材料）</h3>
+<ul>
+<li><strong>触发</strong>：Simon 丢来文件 / 链接 / 聊天截图 / 口述事实。</li>
+<li><strong>判定去哪</strong>（❓ D-06 入库落点表）：</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>材料</th>
+<th>落点</th>
+<th>之后</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>客户往来（邮件 / WA 截图 / PI）</td>
+<td><code>data/saga_clients/research/&lt;编号&gt;.json</code> 的 <code>mail_review.facts[{date, dir(来/去/查), who, quote, why, k}]</code>；PI 另加 <code>data/pi_orders/*.csv</code> 一行</td>
+<td>R02</td>
+</tr>
+<tr>
+<td>价格 / 供应商报价</td>
+<td><code>data/价格主表.csv</code> 或 <code>data/价格主表_HRUI.csv</code>（经 <code>scripts/pricing.py</code> / <code>pricing_hrui.py</code> 重生成，⛔ 不手改 CSV）+ <code>docs/reference/价格表_*.md</code></td>
+<td>全景信息包 §8.5 锚价同步</td>
+</tr>
+<tr>
+<td>公司 / 品牌口径、Simon 的理念</td>
+<td><code>docs/reference/Saga*.md</code> 对应文件追加小节（带日期 + 轮次）</td>
+<td>全景信息包 parts 同步</td>
+</tr>
+<tr>
+<td>规则 / 决定</td>
+<td><code>docs/requirements/用户要求总账.md</code> PR 行 + <code>docs/rules/*.md</code></td>
+<td>本书对应剧本</td>
+</tr>
+<tr>
+<td>供应商资料</td>
+<td><code>docs/suppliers/&lt;供应商&gt;/</code></td>
+<td>—</td>
+</tr>
+<tr>
+<td>大文件（xlsx / pdf / 视频 / 压缩包）</td>
+<td>走 R14；原件进仓（Git 可承受），超大文件只留索引</td>
+<td>—</td>
+</tr>
+<tr>
+<td>微信聊天 / 截图</td>
+<td><code>scripts/wechat_ocr.py</code> / <code>wechat_transcript.py</code> → <code>docs/drive/…</code> 文本；事实再按上表分流</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><strong>铁律</strong>：每条事实带 <code>quote + url/来源 + date</code>；没来源写「待补证」；中文记录，英文只出现在对外稿；不改 V0 文件，新版本 = 新文件。</li>
+<li>🏁 Simon 给的每一件东西都能在仓库里 <code>grep</code> 到；README 写「入库 N 件：…」。</li>
+</ul>
+<h3>R14 · Drive / 大文件入库（走 Actions 运行器）</h3>
+<ul>
+<li><strong>为什么</strong>：沙箱不能访问 Drive 直链 / 外网；大文件由 GitHub Actions 运行器下载并提交。</li>
+<li><strong>步骤</strong>（细节与原文模板在 <code>docs/教程_云盘大文件入库管道_给其他Agent_2026-10-24.md</code>、<code>scripts/drive_ingest/操作步骤.md</code>）：
+  1. Simon 把文件夹设「知道链接的任何人 · 查看者」（这一步只能他做 → 写进报告「你要做啥」）。
+  2. 把 Drive 文件夹 ID 写进 <code>scripts/drive_ingest/</code> 的清单；workflow <code>.github/workflows/drive-smartbyte-ingest.yml</code>（⛔ 沙箱推不动 <code>.github/workflows/</code>，改 workflow 必须 Simon 在 GitHub 网页粘贴）。
+  3. Simon 点 Run workflow → 等机器人提交 → <code>git pull --rebase</code>。
+  4. 产物索引：<code>python3 scripts/drive_smartbyte_index.py</code> / <code>drive_r3_index.py</code> → <code>docs/drive/</code> 下 MUST-KNOW 摘要；大文件事实按 R13 分流。</li>
+<li>🏁 <code>docs/drive/</code> 有索引 + 摘要；原件路径在 README 项里；Drive 内容入仓后 Simon 才删 Drive（T23/T28）。</li>
+</ul>
+<h3>R15 · Gmail 查证（三个邮箱怎么查）</h3>
+<table>
+<thead>
+<tr>
+<th>邮箱</th>
+<th>能不能连</th>
+<th>怎么查</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>E（Elsa）</td>
+<td>可以：本会话 <code>list_connector_tools gmail</code> → 用其搜索工具</td>
+<td>只查、不发；结果按 R13 落 <code>mail_review.facts</code></td>
+</tr>
+<tr>
+<td>S（Simon 主）</td>
+<td>⛔ 不能连 Arena（T28-U2，别再建议）</td>
+<td>已入库：<code>data/gmail_s/messages/&lt;年&gt;/&lt;年-月&gt;.jsonl</code> + <code>contacts.csv</code> + <code>报价史.csv</code> + <code>attachments/</code>；<code>grep -ril "&lt;域名&gt;" data/gmail_s/messages</code></td>
+</tr>
+<tr>
+<td>A（Simon 副）</td>
+<td>同上</td>
+<td><code>grep -ril "&lt;域名&gt;" data/gmail_a/messages</code>（2025-03~08 分片待补）</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>更新摘要：▶ <code>cd scripts/saga_clients &amp;&amp; python3 gmail_digest.py | tail -1</code> → <code>data/saga_clients/gmail_digest.json</code>（render 用）。</li>
+<li>⛔ 不把邮件正文整段贴进客户 MD；只摘 <code>quote ≤ 300 字 + 日期 + 方向</code>；自动回复 / 退信 / 订阅类只记状态不记内容。</li>
+<li>🏁 每条 facts 有 <code>k</code>（线索键，如 <code>gmail_s 2024-11-09</code>）。</li>
+</ul>
+<h3>R16 · 写一个新脚本 / 一次性批处理（派生脚本规范）</h3>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>规矩</th>
+<th>怎么做</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>位置</td>
+<td>批处理：<code>scripts/saga_clients/&lt;系列&gt;_&lt;编号&gt;.py</code>（如 <code>lt_review_batches/lt_r_010.py</code>、<code>registry_batches/b124.py</code>、<code>patches/batch124_kp.py</code>）；跨库：<code>scripts/lt_*.py</code>；工具：各库目录</td>
+</tr>
+<tr>
+<td>2</td>
+<td>文档串</td>
+<td>第一段写：任务编号（T29-Uxx）、日期、Simon 原话、输入 / 输出路径、幂等说明</td>
+</tr>
+<tr>
+<td>3</td>
+<td>幂等</td>
+<td>写前查「已有同 TAG / 同批次 / 同 fetched_at」→ 跳过；<strong>跑两遍第二遍 0 写入</strong></td>
+</tr>
+<tr>
+<td>4</td>
+<td>只动真相源</td>
+<td>改 JSON / CSV / overrides；⛔ 不碰 MD、<code>entities.json</code>、<code>客户主表.csv</code>、<code>docs/发送包</code></td>
+</tr>
+<tr>
+<td>5</td>
+<td>读写编码</td>
+<td>CSV <code>encoding='utf-8-sig', newline=''</code>；JSON <code>ensure_ascii=False, indent=1</code> 跟原文件风格</td>
+</tr>
+<tr>
+<td>6</td>
+<td>导入</td>
+<td>⛔ <code>sys.path.insert(scripts/saga_clients)</code>（<code>calendar.py</code> 遮蔽标准库）→ 用 <code>importlib.util.spec_from_file_location</code></td>
+</tr>
+<tr>
+<td>7</td>
+<td>语法自检</td>
+<td><code>python3 -c "import ast;ast.parse(open('&lt;文件&gt;',encoding='utf-8').read())"</code></td>
+</tr>
+<tr>
+<td>8</td>
+<td>试运行</td>
+<td>有 <code>--dry</code> 先 <code>--dry</code>；测试产物写 <code>/tmp</code>；不要在仓库留 <code>/tmp</code> 路径</td>
+</tr>
+<tr>
+<td>9</td>
+<td>日志</td>
+<td>结尾 <code>print</code> 一行统计（写入 N / 跳过 M），便于台账引用</td>
+</tr>
+<tr>
+<td>10</td>
+<td>收尾</td>
+<td>清 <code>__pycache__</code>；脚本本身提交（可追溯）；README 项写脚本路径</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>🏁 两遍幂等 + 渲染链全绿 + 脚本已提交。</li>
+</ul>
+<h3>R17 · 台账（四配方见 §3.1）</h3>
+<p>补充边界：</p>
+<ul>
+<li>对话全记录：<strong>逐字</strong>，含错别字；不翻译、不润色；Agent 要点里写文件路径与数字。</li>
+<li>总账 INH-01…17 是继承规则表（行 107–133 附近），⛔ 不改；新规则另起 PR 行并注明「补充 INH-xx」。</li>
+<li><code>变更日志.md</code> 只由 <code>scripts/changelog.py</code> 生成（从 git log），⛔ 手改。</li>
+<li>规程 / 方案类文档有「进度」节的（<code>公司底数_作业规程.md</code> §3、<code>C池三闸筛选_方案</code> 进度），每轮追加一行 <code>- 下一轮（…）</code>/ 批次行。</li>
+</ul>
+<h3>R18 · Git：沙箱恢复、冲突、机器人并发</h3>
+<p><strong>A. 沙箱被重置</strong>（症状：<code>git log</code> 只剩 <code>2199cbf Initial commit</code>，脚本 / 数据都在但 pip 包没了）</p>
+<pre><code>cd /home/user/Planet
+git fetch -q origin arena/3f35b9b3-planet
+rm -f .git/index.lock
+git reset -q --hard origin/arena/3f35b9b3-planet &amp;&amp; git clean -qfd
+git log --oneline -1           # ✅ 应是你上次推送的哈希
+pip install -q --break-system-packages dnspython markdown   # 需要时
+</code></pre>
+<p>⛔ 只有在「本地没有任何未推送工作」时才 <code>reset --hard</code>；否则先 <code>git stash</code> / 先提交。</p>
+<p><strong>B. push 被拒（non-fast-forward）</strong> = Actions 机器人推了快照</p>
+<pre><code>git fetch -q origin arena/3f35b9b3-planet
+git pull -q --rebase origin arena/3f35b9b3-planet   # 机器人只碰 data/saga_clients/site_snapshots、data/customer_watch
+git push -q origin arena/3f35b9b3-planet
+git ls-remote origin arena/3f35b9b3-planet | cut -c1-12
+</code></pre>
+<p>冲突时：机器人文件取 <code>theirs</code>（<code>git checkout --theirs &lt;文件&gt; &amp;&amp; git add &lt;文件&gt; &amp;&amp; git rebase --continue</code>），自己的台账取 <code>ours</code> 后重新追加。</p>
+<p><strong>C. 永远不做</strong>：切换 / 新建 / 推送到别的分支；与 <code>main</code> rebase / merge（<code>main</code> 是孤儿分支）；<code>git push --force</code>；删 <code>.git</code>；提交 <code>node_modules</code> / <code>__pycache__</code> / <code>/tmp</code> 产物；<code>git add</code> 含密钥文件。</p>
+<p><strong>D. 提交信息格式</strong>：<code>T29-Uxx：&lt;主题&gt;；&lt;关键数字&gt;；&lt;台账四件&gt;</code>；含 <code>$</code> 用单引号包住整段。</p>
+<h3>R19 · Q 立项（不问 Simon 的问题怎么处理）</h3>
+<ol>
+<li>判断：这个问题<strong>是否影响本轮方向</strong>？不影响 → 按常识做，收工报告「顺带」一句话。影响 → 下一步。</li>
+<li>写默认值：默认 = 最保守、可逆、不花 Simon 时间的那个（例：拿不准等级 → C 储备；拿不准价 → 报档位价并标「报前核」；拿不准发不发 → 不发）。</li>
+<li>按 §3.1 配方 C 追加 <code>Q-NN</code> 行；在执行处留痕（研究档 <code>notes</code> / 总账 PR 行写「按 Q-NN 默认」）。</li>
+<li>报告里最多提<strong>一个</strong>问题，且先给默认：「我先按 X 做了，你要是想 Y 说一声」。
+- ⛔ 一轮问三个问题；「请确认」式空转；把 Simon 已经明说的事再问一遍（先 <code>grep</code> 对话全记录）。</li>
+</ol>
+<h3>R20 · 写一封对外信稿（英文）</h3>
+<ul>
+<li><strong>前置</strong>：读该户 MD 全文 + <code>mail_review</code>（绑定 / 情况 / 需求 / 断点 / 下一动作）+ 上次去信日期 + 国别窗口（<code>docs/各国发信窗口与来询季节_2026-10-27.md</code>）。</li>
+<li><strong>骨架</strong>（≤ 120 词）：① 一句对方的具体事实（来自 facts，不吹）→ ② 一款型号 + 一个价（R21 格式）→ ③ <strong>只问一个问题</strong> → ④ 签名 <code>Saga Telecom - sagatele.com</code>（无电话、无 s. 邮箱）。</li>
+<li><strong>自检清单（逐条勾）</strong>：
+  1. 型号 ∈ 价格主表 <code>Saga对应型号</code> ∪ HRUI 型号 ∪ STH 列表；
+  2. 价格 = 档位价（分销 20 / 集成 25 / OEM 30），格式 <code>$xx USD EXW（快照日期，15 天有效）</code>，Realtek 线从 <code>data/价格主表_HRUI.csv</code> 取；
+  3. 无禁词：list price / in stock / free samples / trading company / OEM Factory / NDAA / TAA / UL / GSA / general agent / we manufacture / Marvell ecosystem / SONiC / ONIE / cheap / best price / leading manufacturer / ERPS / CLI / watchdog / Elsa；
+  4. 不提竞品名；不说「我们查了你的登记」；非 EU 不写 UKCA（只 GB）；非欧 → DAP / FOB 深圳；
+  5. 样品付费；MOQ 1；T/T 50/50；
+  6. 一封一问；全英文；称呼用具名 KP（没有就 <code>Hello &lt;公司&gt; team</code>）。</li>
+<li><strong>落点</strong>：Saga 户 → <code>mail_review.draft_en{subject, body}</code>；External → 研究卡 <code>draft_en</code>；然后 R02 / External render + <code>audit_ab.py</code>（信稿项 hard 0）。Agent <strong>不发信</strong>，发送包由 R25 汇总给 Simon。</li>
+<li>🏁 <code>audit_ab.py</code> 无该户 hard 项；信稿出现在 MD「信稿」节。</li>
+</ul>
+<h3>R21 · 报价计算（任何价格数字出口前）</h3>
+<ol>
+<li>▶ <code>grep -i "&lt;型号&gt;" data/价格主表.csv data/价格主表_HRUI.csv | head -3</code> → ✅ 找到 <code>CNY未税</code> 与三档 USD（已按汇率 6.69 @2026-10-17 算好）。</li>
+<li>档位：分销商 20% ｜ 集成商 25% ｜ OEM 30%；地板：Realtek ≥ 20 / Marvell ≥ 25 / CENTEC ≥ 35；封顶 30%（两套并存，取满足地板的那档）。</li>
+<li>手算公式：<code>USD = CNY × (1 + 档位) ÷ 6.69</code>，取 1 位小数；写法 <code>$181.2 USD EXW（2026-10-17，15 天有效）</code>。</li>
+<li>找不到型号 → 不报数，写「报前核」+ 立 Q；STH（CENTEC）用 <code>docs/reference/CENTEC_产品表与报价锚_2026-10-24.md</code> 锚价区间。
+- ⛔ 凭记忆写价；告诉 Simon「去问 Peter / HRUI」；RMB 报价（国内单只走私账 → 待 Simon）；2.5G 机型（等 SB-263）。</li>
+</ol>
+<h3>R22 · 文档交付（MD + HTML + 预览）</h3>
+<ul>
+<li><strong>模式</strong>（抄 <code>scripts/saga_intro/build.py</code>）：内容拆成 <code>parts/*.md</code> → <code>build.py</code> 拼接 + 自动表 + 头部（标题 / UTC+北京时间 / <code>git rev-parse --short HEAD</code>）+ <code>##</code> 目录 → 写 <code>docs/&lt;名&gt;_&lt;日期&gt;.md</code> 与自包含 <code>.html</code>（内联 CSS、无外链脚本）。本书自身的生成器：<code>scripts/sop_v2/build.py</code>。</li>
+<li><strong>步骤</strong>：
+  1. ▶ <code>pip install -q --break-system-packages markdown</code>（没网 / 装不上则 build 自动降级为内置转换）。
+  2. 写 / 改 parts；▶ <code>python3 scripts/&lt;生成器&gt;/build.py</code> → ✅ 打印 chars / lines / tables 两边一致。
+  3. ▶ <code>grep -c "&lt;table" docs/&lt;名&gt;.html</code> 与 MD 表数核对；<code>grep -c "&lt;script" docs/&lt;名&gt;.html</code> → 0。
+  4. 预览：<code>start_process</code> <code>python3 -m http.server 8080 --bind 0.0.0.0 --directory /home/user/Planet/docs</code>；<code>present_file docs/&lt;名&gt;.html</code>。</li>
+<li>⛔ 手改生成出来的 MD / HTML；覆盖旧版本（新版本 = 新文件名，旧版保留并在新版头部链到旧版）；无时间戳。</li>
+<li>🏁 MD 与 HTML 同日同哈希；README 项写两个路径 + 生成器路径。</li>
+</ul>
+<h3>R23 · GitHub Actions 检查与触发</h3>
+<table>
+<thead>
+<tr>
+<th>workflow</th>
+<th>干什么</th>
+<th>触发</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>customer-watch.yml</code></td>
+<td>抓监控源 + 顺手补官网快照（<code>scripts/web_watch/watch.py</code> → <code>data/customer_watch/</code>、<code>data/saga_clients/site_snapshots/</code>），自动提交到本分支</td>
+<td>cron 每晚 02:23Z；Simon 手动 Run workflow（可选 layer / ALL）</td>
+</tr>
+<tr>
+<td><code>saga-clients-snapshot.yml</code></td>
+<td>全量官网快照（<code>site_snapshot.py</code>）</td>
+<td>手动</td>
+</tr>
+<tr>
+<td><code>drive-smartbyte-ingest.yml</code></td>
+<td>Drive 大文件入库</td>
+<td>手动</td>
+</tr>
+<tr>
+<td><code>smartbyte-crawl.yml</code></td>
+<td>SmartByte 官网抓取</td>
+<td>手动</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><strong>沙箱能做的</strong>：<code>python3 scripts/web_watch/watch.py --selftest</code>（✅ 最后一行 <code>selftest OK · customers=1405 layers={…} sources=2987</code>）；看结果 <code>git log --oneline origin/arena/3f35b9b3-planet -5 | grep -i "actions\|watch\|snapshot"</code>；读 <code>data/customer_watch/当前状态.md</code> / <code>变化日志_AB.md</code>。</li>
+<li><strong>沙箱不能做的</strong>：<code>gh</code>（403）；推 <code>.github/workflows/</code>；用 curl 访问外网。要改 workflow → 把完整 YAML 写进 <code>docs/</code> 让 Simon 网页粘贴（报告「你要做啥」）。</li>
+<li>🔁 机器人没提交：看 Actions 页（Simon）；常见原因 = 没有变化（正常）或超时；不要连续手动触发多次。</li>
+<li>🏁 本轮消费了最新机器人提交（R11），且报告里写明「快照 N / 成功 M / 失败 K」。</li>
+</ul>
+<h3>R24 · 两月监控轮（P 池 / 长期客户群巡检）</h3>
+<ol>
+<li>▶ <code>python3 scripts/web_watch/checklist.py --date &lt;巡检日&gt;</code> → <code>docs/P池_巡检清单_&lt;日&gt;.md</code>（六格：官网 / 社媒 / 新闻·展会 / 招聘 / GitHub / MX）。</li>
+<li>自动层：<code>data/customer_watch/变化日志_AB.md</code> 近 60 天；GitHub 存在性 <code>data/saga_clients/github_presence.json</code>（<code>scripts/github_watch/</code>）。</li>
+<li>人工层：每户按清单勾；有动静（换品牌 / 招聘网络工程师 / 新展会 / 官网改版 / 域名死）→ 回写 <code>P池_巡检表_*.csv</code> 的「上次巡检 / 备注」→ 需要升降级走 R04。</li>
+<li>周期：下一次 2026-12-28；覆盖面要广（社媒、GitHub、官网、展会）。
+- 🏁 巡检表每户「上次巡检」= 本次日期；动静户进 R06 / R05。</li>
+</ol>
+<h3>R25 · 周发送包 / 跟进总台</h3>
+<ul>
+<li>▶ <code>python3 scripts/external_clients/board.py --date &lt;周一日期&gt; | tail -1</code> → <code>docs/跟进总台.md</code> + <code>docs/发送包/&lt;ISO周&gt;.md</code>（只读 JSON，⛔ 手改）。</li>
+<li>发前核：每封在 R20 自检表下过一遍；称呼人名核一眼；窗口按国别（FR 周四 12–14 之类）。</li>
+<li>Agent 不发信；报告写「本周 N 封在 <code>docs/发送包/&lt;周&gt;.md</code>，复制即发；Elsa 首触未定 → E 箱不发」。</li>
+<li>🏁 发送包里每封都有：收件 / 从哪个箱 / 主题 / 正文 / 档案路径。</li>
+</ul>
+<h2>7. 判定表汇编（❓ 剧本里引用的全部表）</h2>
+<h3>D-01 · A / B / C 定级（A/B v5「宽留冷」口径，Q-76 单一体系，三库同尺）</h3>
+<p>先问四个事实（都要有证据）：<strong>成单 / 付样 / PI 几次？真人真回几次（扣掉否定回复）？WA 加了没 / 展会见过没？对位（在卖或在用交换机 / 收发器 / PoE）？</strong> 然后从上往下第一条命中即定：</p>
+<table>
+<thead>
+<tr>
+<th>结论</th>
+<th>规则</th>
+<th>命中条件</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>A（精华跟）</strong></td>
+<td>A1</td>
+<td>复购（成单 ≥ 2）<strong>或</strong> 邮件绑定深度 ≥ 中度</td>
+</tr>
+<tr>
+<td>A</td>
+<td>A2</td>
+<td>成单 / 付样 / PI ≥ 1 <strong>+</strong> 真人往来（真回 ≥ 1 或 WA 已加 或 展会面谈）</td>
+</tr>
+<tr>
+<td>A</td>
+<td>A3</td>
+<td>真人往来 + 对位 + 四主区（TR/US/GB/DE）或波兰 + （登记坐实 或 自有品牌）</td>
+</tr>
+<tr>
+<td>A</td>
+<td>A4</td>
+<td>Simon 点名（S 重点 / 状态含「（Simon）」/ <code>人工定级.csv</code>）</td>
+</tr>
+<tr>
+<td>A</td>
+<td>A5</td>
+<td>自有品牌 + 对位 + 任一真人往来（OEM 品牌商，任何区域）</td>
+</tr>
+<tr>
+<td>A</td>
+<td>A6</td>
+<td>真人真回 ≥ 3 + 对位，任何区域</td>
+</tr>
+<tr>
+<td><strong>B（长期培育：发送包 + 两月巡检）</strong></td>
+<td>B1</td>
+<td>成单 / 样品 / PI 但 gg / 凉</td>
+</tr>
+<tr>
+<td>B</td>
+<td>B2</td>
+<td>真回 ≥ 1 / WA / 打开 ≥ 2 / 展会 + 对位</td>
+</tr>
+<tr>
+<td>B</td>
+<td>B3</td>
+<td>自有品牌 + 对位</td>
+</tr>
+<tr>
+<td>B</td>
+<td>B4</td>
+<td>四主区 / 波兰 + 对位 + 登记坐实</td>
+</tr>
+<tr>
+<td>B</td>
+<td>B5</td>
+<td>四主区 / 波兰 + 对位的冷户</td>
+</tr>
+<tr>
+<td>B</td>
+<td>B6</td>
+<td>对位的冷户，任何区域（「留冷」）</td>
+</tr>
+<tr>
+<td><strong>C（储备：只巡检、不发）</strong></td>
+<td>—</td>
+<td>其余：不对位 / 守界 UA·IR·SY / 注销 / 无路径 / 研究后判不了</td>
+</tr>
+<tr>
+<td><strong>永久 pass</strong></td>
+<td>—</td>
+<td>只有 D-04 三条刚性之一</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>人工定级 &gt; PI 标签（活跃 / 可发展 → A）&gt; 证据规则；B 记录编号可能仍是 <code>SC-</code>（按 grade 选，不按前缀）。</li>
+<li>Q-77 默认分层（待 Simon 裁定）：A 精华跟（季度个人信 + 两月巡检）；B1 重点普通跟 ≈ 300–450（自牌 / OEM / 已进口 / 官方分销）；B2 普通跟 ≈ 1,500–1,700（群发窗口）；C 储备巡检。</li>
+</ul>
+<h3>D-02 · 复核结论（LT-R 批每户三选一）</h3>
+<table>
+<thead>
+<tr>
+<th>结论</th>
+<th>同时满足</th>
+<th>写法</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>留B</strong></td>
+<td>① 行业内（安防 / IT / 网络 / 工业网络的分销、集成、安装、自有品牌、网店，或终端但有复购）② 对位 ③ 有成单可能（进口中国 / 台湾同类记录、渠道名录、商品页、成单 / 样品 / 回信 / 具体需求 任一）④ 有路径（可用邮箱 / WA / 真回过）</td>
+<td><code>留B</code> + 理由 + 「路径 = …」</td>
+</tr>
+<tr>
+<td><strong>打回C</strong></td>
+<td>四类之一：微型网店 / 一人店且无进口证据；登记休眠 / 主体不明 / 经营范围对不上；未坐实 + 无路径（邮箱 fail、域名死）；红旗（仲裁 / 执行 / 制裁待核）+ 收款未清、纯光端机终端 + 区域外、非本行业 / 非采购主体</td>
+<td><code>打回C</code> + 理由 + 「可逆条件 = 补到邮箱 / 回信 / 收款路径」</td>
+</tr>
+<tr>
+<td><strong>升A</strong></td>
+<td>D-01 A1–A6 任一且证据在研究档</td>
+<td><code>升A</code> + 命中规则号</td>
+</tr>
+<tr>
+<td>边界口径</td>
+<td>微型 + 有进口证据 = 留 B（预付 100%）；q33_hold ★ 品牌商留 B「只盯不发」；巨头留 B 长线；RU/BY/KZ 留 B「只盯 + 季度一封」；全退信留 B 补路径；「待核」判不了 → 继续待过，<strong>不乱打回</strong></td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+<h3>D-03 · 死域 / 邮箱异常处理</h3>
+<p>见 R12：死 + 备用路径 = 留 B；死 + 无路径 + 非对位 = 打回 C（可逆）；成单户不动、记 Q；<code>no_mx</code> 但有 A 记录 = 待观察；任何 nxdomain 必须二次查询。</p>
+<h3>D-04 · 永久 pass（Gate 0，只有这三条，「一旦入选 永不考虑」）</h3>
+<table>
+<thead>
+<tr>
+<th>刚性条件</th>
+<th>证据要求</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>无邮箱 <strong>且</strong> 无 WhatsApp（任何路径都没有）</td>
+<td>表 / 研究档 / 公开页三处都查过</td>
+</tr>
+<tr>
+<td>全部邮箱退信 <strong>且</strong> 无备用地址</td>
+<td>退信记录 + 官网 / 名录无其他地址</td>
+</tr>
+<tr>
+<td>明确婉拒 / 要求停发</td>
+<td>原文引文 + 日期</td>
+</tr>
+</tbody>
+</table>
+<p>⛔ <strong>不是</strong>永久 pass 的（Simon 明确否决）：乌克兰（守界，留 C）；巨头运营商（难但不 pass）；品类不对位的光端机 / DWDM / 光模块（Simon 日职可用，留 C 标 dayjob_fit）；「研究后定 C」→ 重判，真差才 pass。拿不准 = C 储备。</p>
+<h3>D-05 · 守界 / 不碰 / 特殊区域</h3>
+<table>
+<thead>
+<tr>
+<th>情况</th>
+<th>处理</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>UA / IR / SY</td>
+<td>守界：C 储备，不发、不删</td>
+</tr>
+<tr>
+<td>轨交主营、UL / E-mark / KC 强制场景（KR 需 KC）</td>
+<td>PASS 产品线（不报价），户留 C</td>
+</tr>
+<tr>
+<td>云管理 / 消费级 / IP67 / 路由 / Wi-Fi / GPON / HDMI / M12 / 机架 / 单独注入器·分离器 / 反向 PoE / 无源 PoE（-24V/-Auto 除外）</td>
+<td>Saga 无此品类：不承诺、不拼凑；信里不提</td>
+</tr>
+<tr>
+<td>Q-33 经销体系现供客户（在卖 HRUI / SmartByte 外壳）</td>
+<td>「不碰，标记」<code>q33_hold</code>：只巡检、不群发；仍过三闸</td>
+</tr>
+<tr>
+<td>巨头 / 运营商</td>
+<td>留 B 长线或 C；永不 pass；信稿不卖「领先厂商」</td>
+</tr>
+<tr>
+<td>RU / BY / KZ / UZ</td>
+<td>留 B「只盯 + 季度一封」；收款路径待 Simon（Q 清单）</td>
+</tr>
+<tr>
+<td>2.5G 机型、RMB 报价、Versa / Planet USA</td>
+<td>等 SB-263 / 待 Simon / C</td>
+</tr>
+</tbody>
+</table>
+<h3>D-06 · 入库落点</h3>
+<p>见 R13 的落点表。</p>
+<h3>D-07 · 报价档位与格式</h3>
+<p>见 R21：20 / 25 / 30；地板 Realtek ≥ 20 / Marvell ≥ 25 / CENTEC ≥ 35；格式 <code>$xx USD EXW（快照日期，15 天有效）</code>；Realtek 数字只从 <code>data/价格主表_HRUI.csv</code>。</p>
+<h3>D-08 · 这事到底该不该做（省时间 + 长期复利 两把尺）</h3>
+<table>
+<thead>
+<tr>
+<th>问</th>
+<th>做</th>
+<th>不做</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>能省 Simon 的时间吗？</td>
+<td>自动化、台账、复制即发的稿、一句话报告</td>
+<td>要他逐条确认的清单、要他去问供应商</td>
+</tr>
+<tr>
+<td>有长期复利吗？</td>
+<td>入库、证据、规则、脚本、可逆的分级</td>
+<td>一次性手改渲染件、只在聊天里存在的结论</td>
+</tr>
+<tr>
+<td>两个都不沾</td>
+<td>→ 不做；若 Simon 点名要 → 做最小版 + 立 Q</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>8. 诊断树（症状 → 原因 → 处理）</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>症状</th>
+<th>最常见原因</th>
+<th>处理</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>X-01</td>
+<td><code>git log</code> 只剩 <code>Initial commit</code></td>
+<td>沙箱重置</td>
+<td>R18-A</td>
+</tr>
+<tr>
+<td>X-02</td>
+<td><code>git push</code> 被拒</td>
+<td>Actions 机器人推了快照</td>
+<td>R18-B</td>
+</tr>
+<tr>
+<td>X-03</td>
+<td><code>git pull --rebase</code> 说有未提交改动</td>
+<td>渲染链刚改了审计报告 / 名册</td>
+<td>先提交（这些就是本轮产物），再拉</td>
+</tr>
+<tr>
+<td>X-04</td>
+<td><code>build.py</code> Traceback 提到 <code>calendar</code></td>
+<td>本目录 <code>calendar.py</code> 遮蔽标准库</td>
+<td>不要 <code>sys.path.insert</code> 该目录；<code>importlib</code> 按路径载入</td>
+</tr>
+<tr>
+<td>X-05</td>
+<td><code>audit_full.py</code> <code>hard N</code></td>
+<td>A/B 研究档缺 <code>mail_review.facts</code>；信稿型号 / 价不在集合；日期在未来</td>
+<td>修数据，不改阈值</td>
+</tr>
+<tr>
+<td>X-06</td>
+<td><code>render.py</code> KeyError <code>mx</code> / <code>checked</code></td>
+<td>手工补的 MX 缓存缺键</td>
+<td>补齐 <code>mx/a/status/cls/checked</code></td>
+</tr>
+<tr>
+<td>X-07</td>
+<td><code>research_store.put</code> AssertionError</td>
+<td>缺必填键 / <code>deep</code> 是字符串</td>
+<td>对照 REQUIRED；<code>deep</code> 用布尔</td>
+</tr>
+<tr>
+<td>X-08</td>
+<td>复核库 <code>run()</code> 找不到编号</td>
+<td>用前缀猜编号（B 户仍是 <code>SC-</code>）；External / Planet 户混进 Saga 批</td>
+<td>用 <code>entities.json</code> grade 选；跨库户走 <code>lt_review_x_p_00N.py</code></td>
+</tr>
+<tr>
+<td>X-09</td>
+<td><code>changelog.py</code> 超时</td>
+<td>没加 <code>timeout 900</code></td>
+<td><code>timeout 900 python3 scripts/changelog.py</code>（约 140 s）</td>
+</tr>
+<tr>
+<td>X-10</td>
+<td>bash 里中文路径乱码 / 找不到文件</td>
+<td>shell 引号 / 编码</td>
+<td>用 python 处理中文路径</td>
+</tr>
+<tr>
+<td>X-11</td>
+<td><code>curl</code> / <code>pip</code> 失败</td>
+<td>沙箱只放行 github / pypi / npm；curl 全封</td>
+<td>用 <code>fetch_page</code> / <code>web_search</code>；pip 用 <code>--break-system-packages</code></td>
+</tr>
+<tr>
+<td>X-12</td>
+<td><code>fetch_page</code> 返回很多块</td>
+<td>页面大</td>
+<td>只读第 0 块；能用 <code>web_search depth 1</code> 摘要就不 fetch</td>
+</tr>
+<tr>
+<td>X-13</td>
+<td>DNS 一轮全 <code>nxdomain</code> / 超时</td>
+<td>并发过高 / 临时故障</td>
+<td><code>--workers 8</code> 重跑；单域二次查询后再下结论</td>
+</tr>
+<tr>
+<td>X-14</td>
+<td>HTML 表格没渲染</td>
+<td>python-markdown 要求表前空行；或没装 <code>markdown</code>（降级转换）</td>
+<td>parts 里表前留空行；<code>pip install markdown</code> 后重建</td>
+</tr>
+<tr>
+<td>X-15</td>
+<td>README 项插错位置</td>
+<td>用「最后一行」而不是「最后一个编号项」</td>
+<td>用配方 D 的正则定位</td>
+</tr>
+<tr>
+<td>X-16</td>
+<td>总账 / Q 行重复</td>
+<td>脚本跑了两遍且无存在性检查</td>
+<td>先 <code>grep -c</code>，再插</td>
+</tr>
+<tr>
+<td>X-17</td>
+<td>渲染后 <code>内容确有差异</code> 几千份</td>
+<td>改了共享渲染规则 / 日期</td>
+<td>看 <code>git diff --stat</code>；非预期就 <code>git checkout -- "Saga Clients"</code> 回滚再查</td>
+</tr>
+<tr>
+<td>X-18</td>
+<td><code>lt_roster.py</code> 数字与预期差很多</td>
+<td>External <code>overrides.json</code> 结构写坏 / Planet CSV 列错位</td>
+<td><code>python3 -c "import json;json.load(open('data/external_clients/overrides.json'))"</code>；CSV 用 DictWriter 保列序</td>
+</tr>
+<tr>
+<td>X-19</td>
+<td>快照失败一大片</td>
+<td>运行器单晚网络问题</td>
+<td>不动；只在连续两晚失败 + DNS 死才打回</td>
+</tr>
+<tr>
+<td>X-20</td>
+<td><code>gh</code> 403 / 推 workflow 被拒</td>
+<td>沙箱令牌权限</td>
+<td>写 YAML 到 docs 让 Simon 粘贴；Actions 由他点</td>
+</tr>
+<tr>
+<td>X-21</td>
+<td>heredoc 里 python 报 <code>{</code> 语法错</td>
+<td>f-string 里有字面花括号 / 反斜杠</td>
+<td>不用 f-string 或用 <code>{{ }}</code>；表达式里不放反斜杠</td>
+</tr>
+<tr>
+<td>X-22</td>
+<td>测试把失败记录写进了真实快照目录</td>
+<td><code>site_snapshot</code> 本地测试没加 <code>--snap-dir</code></td>
+<td>用 <code>--snap-dir /tmp/x</code>；已写入的 <code>git checkout --</code> 回滚</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>9. ⛔ 禁区（一条都不能碰；碰了先回滚再报告）</h2>
+<ol>
+<li>手改渲染产物：<code>Saga Clients/**</code>、<code>External Clients/**</code>、<code>profile/**</code>、<code>entities.json</code>、<code>客户主表.csv</code>、<code>docs/发送包/**</code>、<code>变更日志.md</code>、任何 <code>build.py</code> 生成的 MD/HTML。</li>
+<li>覆盖 / 删除 / 重命名 V0 答卷与任何旧版本文件；新版本永远是新文件。</li>
+<li>发明事实：没来源的邮箱、人名、价格、证书、成立年、员工数；把 Simon 的备注当作「客户说的」。</li>
+<li>给客户写：电话、152 手机、s. 邮箱、中文、竞品名、「我们查了你的登记」、禁词表任一词、两个问题。</li>
+<li>让 Simon 去问 Peter / HRUI / 任何供应商要价；让他做 Agent 能做的事。</li>
+<li>主动发信（任何邮箱）；用 E 箱首触（Elsa 首触未定）。</li>
+<li>永久 pass 任何不满足 D-04 三条刚性条件的户；把 C 当垃圾删掉。</li>
+<li>重新挖 Mikrotik / 重跑 CCTV 代理 / 在 Planet 暂停期挖 PLANET 经销商。</li>
+<li>Git：切分支、碰 <code>main</code>、<code>--force</code>、<code>reset --hard</code> 掉未推送工作、提交 <code>__pycache__</code> / <code>/tmp</code> 产物 / 密钥。</li>
+<li>一轮问 Simon 多个问题；不给默认就问；问他已经答过的。</li>
+<li>编造时间戳；台账跳过任一件；对话全记录改旧行。</li>
+<li>用记忆回答「搞定没」—— 必须跑命令看当前数字。</li>
+<li>把 S/A 邮箱接 Arena 连接器写进建议。</li>
+<li>用「应该 / 大概 / 可能已经」收尾一个步骤。</li>
+<li>在报告里堆术语、堆解释、重复上一轮说过的话。</li>
+</ol>
+<hr />
+<h2>10. 质量门（交付前 12 项自检，全部 ✔ 才能收工）</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>自检</th>
+<th>怎么验</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>产出文件存在、大小合理</td>
+<td><code>ls -la</code>；MD <code>grep -c "^## "</code></td>
+</tr>
+<tr>
+<td>2</td>
+<td>数字与声称一致</td>
+<td>刚跑的命令输出截到报告里</td>
+</tr>
+<tr>
+<td>3</td>
+<td>渲染链全绿</td>
+<td>R02 八步 / External / Planet</td>
+</tr>
+<tr>
+<td>4</td>
+<td>幂等</td>
+<td>批脚本第二遍 0 写入</td>
+</tr>
+<tr>
+<td>5</td>
+<td>每条新事实有 quote + url + date</td>
+<td>抽 3 条 <code>grep</code></td>
+</tr>
+<tr>
+<td>6</td>
+<td>没有手改产物</td>
+<td><code>git diff --stat</code> 里的渲染件变动可由脚本解释</td>
+</tr>
+<tr>
+<td>7</td>
+<td>没有禁词 / 禁事实</td>
+<td>信稿过 <code>audit_ab.py</code>；对外文件跑下方「禁词检查」命令，输出为 0</td>
+</tr>
+<tr>
+<td>8</td>
+<td>台账四件 + 变更日志</td>
+<td>四个 <code>grep -c</code> 都 = 1；changelog 行数增加</td>
+</tr>
+<tr>
+<td>9</td>
+<td>推送成功</td>
+<td><code>ls-remote</code> = <code>HEAD</code></td>
+</tr>
+<tr>
+<td>10</td>
+<td>时间戳真实</td>
+<td>来自 <code>date -u</code></td>
+</tr>
+<tr>
+<td>11</td>
+<td>报告是大白话、有「你要做啥」</td>
+<td>对照 §3.2 模板</td>
+</tr>
+<tr>
+<td>12</td>
+<td>没有留下疑问给 Simon 超过 1 个</td>
+<td>其余进 Q 清单</td>
+</tr>
+</tbody>
+</table>
+<p>禁词检查（对外英文文件 / 信稿）：</p>
+<pre><code>grep -ciE &quot;list price|in stock|free sample|trading company|oem factory|ndaa|taa|general agent|we manufacture|marvell ecosystem|sonic|onie|cheap|best price|leading manufacturer&quot; &lt;文件&gt;
+</code></pre>
+<hr />
+<h2>11. 与 V1 的关系、本书如何更新、待补剧本</h2>
+<ul>
+<li><strong>V1 = <code>docs/方法论_全集_2026-10-27.md</code></strong>（42 KB，2026-10-27 10:34Z @ <code>d9d20f297</code>）：按「解决什么 → 怎么做 → 坑 → 文件 → 诞生」讲了 A1–A6 入库 / B1–B4 客户库 / C1–C7 加厚 / D1–D3 对外 / E1–E5 基础设施 / F / G + 开工十条。它停在 10-27 的公司底数轮，<strong>没有</strong>：C 池三闸、P 池、长期客户群（Q-76 / Q-77）、A/B v5、External / Planet 同尺、LT-R 复核规则、快照 → 加厚、缺口盘点、Actions ALL / cron、全景信息包、本书。</li>
+<li><strong>V2 = 本书</strong>：只写「现在怎么做」。V1 继续作为历史与原理读物；本书引用到的方案细节以原方案文档为准（<code>docs/C池三闸筛选_方案_2026-10-29.md</code>、<code>docs/长期客户群_方案与复核_2026-10-29.md</code>、<code>docs/AB判定_新标准_讨论稿_2026-10-29.md</code>、<code>docs/公司底数_作业规程.md</code>、<code>docs/methodology/死路与死链备案.md</code>、<code>docs/教程_云盘大文件入库管道_给其他Agent_2026-10-24.md</code>）。</li>
+<li><strong>怎么更新本书</strong>：改 <code>scripts/sop_v2/parts/s1–s4.md</code> → <code>python3 scripts/sop_v2/build.py</code> → 新日期产出新文件（旧日期文件保留）。每当一个剧本的命令 / 预期输出 / 判定变了，就在同一轮更新对应 part（否则下一个 agent 会照着错的做）。</li>
+<li><strong>待补剧本</strong>（出现新流程时在此登记再写正文）：R26 PI / 成单录入（<code>data/pi_orders/*.csv</code> + 毛利复盘）；R27 供应商价表更生成（<code>pricing.py</code> / <code>pricing_hrui.py</code> + 汇率）；R28 C 池三闸再筛（<code>sieve.py --gate0 / --queue</code>，当前已筛完，下轮新 C 进来再跑）；R29 全景信息包更新（<code>scripts/saga_intro/parts</code> + build）。</li>
+</ul>
+<hr />
+<h2>12. 来源清单（本书每条都能在仓库里找到依据）</h2>
+<ul>
+<li>规则与原话：<code>AGENT-CONSTITUTION.md</code>、<code>AGENT-README.md</code>、<code>docs/requirements/用户要求总账.md</code>（PR-01…PR-02-77、INH-01…17）、<code>docs/requirements/对话全记录.md</code>、<code>docs/requirements/待统一处理问题清单.md</code>（Q-01…Q-77）。</li>
+<li>流程原文：<code>docs/方法论_全集_2026-10-27.md</code>、<code>docs/公司底数_作业规程.md</code>、<code>docs/C池三闸筛选_方案_2026-10-29.md</code>、<code>docs/长期客户群_方案与复核_2026-10-29.md</code>、<code>docs/长期客户群_深挖缺口_2026-10-29.md</code>、<code>docs/AB判定_新标准_讨论稿_2026-10-29.md</code>、<code>docs/教程_云盘大文件入库管道_给其他Agent_2026-10-24.md</code>、<code>scripts/drive_ingest/操作步骤.md</code>、<code>scripts/gmail_ingest/操作步骤.md</code>、<code>docs/methodology/死路与死链备案.md</code>、<code>docs/rules/*.md</code>。</li>
+<li>脚本（命令与预期输出均为 2026-10-29 实跑）：<code>scripts/saga_clients/{renumber,build,render,audit_full,audit,audit_ab,deepen,add_research,research_store,registry_store,mx_check,gmail_digest,sieve,lt_snapshot_thicken,site_snapshot}.py</code>、<code>scripts/saga_clients/lt_review_batches/{lt_review_lib,lt_r_006}.py</code>、<code>scripts/{lt_roster,lt_gap_audit,lt_snapshot_list,lt_review_x_p_003,add_batch,render,audit,changelog,pricing,pricing_hrui}.py</code>、<code>scripts/external_clients/{render,research_store,board,lt_cards_003}.py</code>、<code>scripts/web_watch/{watch,checklist}.py</code>、<code>scripts/saga_intro/build.py</code>、<code>.github/workflows/*.yml</code>。</li>
+<li>事实类背景：<code>docs/Saga全景信息包_给其他Agent_2026-10-29.md</code>（§0–§19）。</li>
+</ul>
+</body>
+</html>
