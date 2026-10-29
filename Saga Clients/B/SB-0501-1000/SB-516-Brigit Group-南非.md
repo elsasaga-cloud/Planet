@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -74,9 +74,23 @@ updated: 2026-10-28
 
 - `brigit.co.za` → Microsoft 365（MX：brigit-co-za.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 
-**假日避让（南非 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
+**假日避让（南非 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
 
 - 法定假日：11-04 Local Government Elections —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+
+**公司底数 · 第 120 批（ZA · 1 次检索：prospeo.io/c/brigit-fire-member-of-the-hudaco-group（10 RIDGE ROAD LASER PARK, HONEYDEW, Gauteng 2041；+27117942217；Founded 2006；Deon Van Zyl Managing Director）+ crunchbase（Brigit Systems；fire detection, suppression systems；Deon Van Zyl Founder, MD & CEO）+ brigit.co.za 公司简介 PDF（One Source Total Fire Protection；OEM of gaseous extinguishing systems）；CIPC 未得；2026-10-29，2026-10-29 查；https://brigit.co.za/pdf/Brigit-Systems-Company-profile.pdf）：**
+
+- 法定名 / 登记号：Brigit Group / Brigit Fire（brigit.co.za；**prospeo：BRIGIT FIRE - Member of the Hudaco Group；10 Ridge Road, Laser Park, Honeydew, Gauteng 2041；+27 11 794 2217；2006 年；21–50 人；Managing Director Deon Van Zyl = 表内 KP ✓；Crunchbase：消防探测 / 气体灭火系统 OEM（BSI Kitemark）；公司简介董事 Ivor Whitcher / David Esterhuysen / Deon van Zyl / Johan Henning**）；CIPC 注册号 1 查未得 → 部分坐实；展会拿目录、无具体需求；WA 7 次无实质回复 · 未取（CIPC 注册号 1 查未得；Hudaco 集团成员） · 状态 **营业中（官网 + 企业库）** · 成立 2006 · (Pty) Ltd（Hudaco Group 成员）
+- 行业码 / 经营范围：消防探测 / 气体灭火系统 OEM（豪登）
+- 注册地址：10 Ridge Road, Laser Park, Honeydew, Gauteng 2041, South Africa
+- 规模档：小型（21–50）
+- 账目：未取；—
+- 高管：Deon van Zyl — Managing Director（prospeo / Crunchbase 2026-10-29；研究档 KP deon@brigit.co.za）
+- 高管：Lyle Olivier — PM（研究档 KP；lyle@brigit.co.za）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **消防系统 OEM（非目标行业）+ 无具体需求 + WA 7×0 → 不动（B 保留；来询按集成商 25% 报 STI DIN 机柜内置）**— 南非常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 约堡（买方清关；ICASA / NRCS 不声称）
+- 备注：不动（非目标行业 + 7×0）；部分坐实（企业库地址 + 电话 + 成立年 + KP 职务；CIPC 未取）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -113,7 +127,7 @@ updated: 2026-10-28
 - **【用户表】没说啥具体内容，来自南非会联系，拿走了 2 本 catalog**
   > 兴趣：没说啥具体内容 就说了来自南非 会联系 拿走了2本catalog
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Deon van Zyl（）deon@brigit.co.za +27 83 459 1432〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Deon van Zyl（Managing Director / Founder（prospeo + Crunchbase 2026-10-29）— 不动：消防探测 / 气体灭火 OEM（Hudaco 集团成员），非目标行业 + WA 7×0 — 南非常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 约堡、ICASA / NRCS 不声称（第 120 批 官方登记核实 2026-10-29））deon@brigit.co.za +27 83 459 1432〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Lyle Olivier（）lyle@brigit.co.za 〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
@@ -121,9 +135,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Brigit Group（待核） |
-| 总部/地址 | South Africa |
-| 其他 | 展会接触 |
+| 法定名称 | Brigit Fire / Brigit Systems（Hudaco Group 成员；CIPC 注册号 1 查未得） |
+| 成立 | 2006（prospeo）（第 120 批 官方登记核实 2026-10-29） |
+| 总部/地址 | 10 Ridge Road, Laser Park, Honeydew, Gauteng 2041（+27 11 794 2217）（第 120 批 官方登记核实 2026-10-29） |
+| 其他 | 展会接触；第 120 批：消防系统 OEM（BSI Kitemark）；非目标行业 + 无具体需求 → **不动（B 保留）**；部分坐实（企业库地址 + 成立年 + KP 职务）（第 120 批 官方登记核实 2026-10-29） |
 
 - **触达通道（公开）**：role: 工程 / 项目（推断）；region: 南非
 - **风险/边界**：无具体需求；WA 无回复
@@ -199,7 +214,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Deon van Zyl | — | deon@brigit.co.za / +27 83 459 1432 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Deon van Zyl | Managing Director / Founder（prospeo + Crunchbase 2026-10-29）— 不动：消防探测 / 气体灭火 OEM（Hudaco 集团成员），非目标行业 + WA 7×0 — 南非常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 约堡、ICASA / NRCS 不声称（第 120 批 官方登记核实 2026-10-29） | deon@brigit.co.za / +27 83 459 1432 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Lyle Olivier | — | lyle@brigit.co.za | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
@@ -293,12 +308,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

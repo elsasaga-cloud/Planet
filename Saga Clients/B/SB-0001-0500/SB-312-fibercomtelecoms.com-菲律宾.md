@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -84,9 +84,23 @@ updated: 2026-10-28
 
 - `fibercomtelecoms.com` → Zoho Mail（MX：mx.zoho.com、mx2.zoho.com、mx3.zoho.com）。中小企业云邮箱（Zoho Mail）：过滤中等、像素一般可用；这类公司邮箱通常老板或销售本人收，信要短、带型号和一口价
 
-**假日避让（菲律宾 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
+**假日避让（菲律宾 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
 
 - 法定假日：11-01 All Saints' Day；11-02 All Souls' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+
+**公司底数 · 第 120 批（PH · 1 次检索：fibercomtelecoms.com/excellence-turnkey-solutions（Fibercom Telecom Phils. Inc. - 2006-A West Tower, PSE Centre … Pasig City 1605；+63 995 581 4199；27 Years）+ foxcom.com/resellers-contact-us（Fibercom Telecoms；Contact Person Emanuel Fryszer；efryszer@fibercomtelecoms.com；Unit W1203A, 12th Floor, PSE Center）+ jobscity（FIBERCOM TELECOMS PHILS., INC.）；SEC 未得；2026-10-29，2026-10-29 查；https://fibercomtelecoms.com/excellence-turnkey-solutions/）：**
+
+- 法定名 / 登记号：Fibercom Telecom Phils., Inc.（fibercomtelecoms.com；**官网页脚：2006-A West Tower, PSE Centre (Tektite Towers), Exchange Road, Ortigas Center, Pasig City 1605；+63 995 581 4199；inquiry@ / sales@；「27 Years」→ 约 1998 起；Foxcom 全球经销名录：Contact Person Emanuel Fryszer, efryszer@fibercomtelecoms.com（Unit W1203A, 12F PSE Center）**）；SEC 号 1 查未得 → 部分坐实；表内大量进口跳线 · 未取（SEC 号 1 查未得） · 状态 **营业中（官网 2025-11）** · 成立 约 1998（自述 27 年） · Inc.
+- 行业码 / 经营范围：光纤 / 电信产品分销 + turnkey（帕西格）
+- 注册地址：2006-A West Tower, PSE Centre, Exchange Road, Ortigas Center, Pasig City 1605, Philippines
+- 规模档：小型
+- 账目：未取；—
+- 高管：Emanuel Fryszer — Contact Person / 负责人（Foxcom 经销名录 2026-10-29；efryszer@fibercomtelecoms.com）= 收件人
+- 高管：（研究档 KP：inquiry@fibercomtelecoms.com）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **光纤产品分销商、具名负责人公开 → 分销 20% B，一页纸一次（STC-228GP $33 / STC-2224GP $86 / STC-110XGE $65 + MOQ 1 + 付费样机；跳线 / SFP 不做明说）— 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉（买方清关；NTC 不声称）**；再无回声 → 不动
+- 备注：分销 20%；一页纸一次（预付 100%）；部分坐实（官网地址 + 电话 + 名录 KP；SEC 未取）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -110,15 +124,17 @@ updated: 2026-10-28
 - **【用户表】富通天下：买了很多跳线；网站 SFP networking**
   > 买了很多跳线 / 网站：SFP networking / 富通天下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Emanuel Fryszer（Contact Person / 负责人（Foxcom 全球经销名录 2026-10-29）= 收件人 — 一页纸一次：分销 20% B、STC-228GP / STC-2224GP / STC-110XGE 一口价 + MOQ 1 + 付费样机；跳线 / SFP 不做明说 — 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉、NTC 不声称（第 120 批 官方登记核实 2026-10-29））efryszer@fibercomtelecoms.com 〔〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于用户表整理 + 需求映射；「成交」为富通天下外贸数据））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Fibercom Telecoms（全称待核） |
-| 总部/地址 | Philippines |
-| 其他 | 光纤跳线大量进口 |
+| 法定名称 | Fibercom Telecom Phils., Inc.（官网页脚；SEC 号 1 查未得） |
+| 成立 | 约 1998（自述「27 Years」）（第 120 批 官方登记核实 2026-10-29） |
+| 总部/地址 | 2006-A West Tower, PSE Centre (Tektite Towers), Exchange Road, Ortigas Center, Pasig City 1605（+63 995 581 4199）（第 120 批 官方登记核实 2026-10-29） |
+| 其他 | 光纤跳线大量进口；第 120 批：光纤 / 电信产品分销 + turnkey；Foxcom 经销名录给出具名负责人；部分坐实（官网地址 + 名录 KP；SEC 未取）（第 120 批 官方登记核实 2026-10-29） |
 
 - **业务线**：光纤跳线/SFP/网络配件经销
 - **触达通道（公开）**：网站: https://fibercomtelecoms.com/（未核）；邮箱: inquiry@fibercomtelecoms.com（用户表）
@@ -193,7 +209,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | inquiry@fibercomtelecoms.com | 用户表原值 | Clients/ 表 |
+| Emanuel Fryszer | Contact Person / 负责人（Foxcom 全球经销名录 2026-10-29）= 收件人 — 一页纸一次：分销 20% B、STC-228GP / STC-2224GP / STC-110XGE 一口价 + MOQ 1 + 付费样机；跳线 / SFP 不做明说 — 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉、NTC 不声称（第 120 批 官方登记核实 2026-10-29） | efryszer@fibercomtelecoms.com | 调研核实（公开页） | 调研 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -261,7 +277,7 @@ updated: 2026-10-28
 **主题**：STC-228GP - 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (neutral label)
 
 ```text
-Hello,
+Hi Emanuel,
 
 Thank you again for your earlier order with us - this is a short update rather than a cold mail. Hello Fibercom team, to sit next to your patch cords and SFPs: 2× SFP + 8× PoE switches at $33.2 EXW and industrial gigabit media converters at $22.4, neutral packing — would a 20-unit trial lot fit your catalogue?
 
@@ -286,12 +302,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 46）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 46）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

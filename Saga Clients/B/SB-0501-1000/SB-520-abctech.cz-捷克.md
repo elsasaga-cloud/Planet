@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -79,9 +79,9 @@ updated: 2026-10-28
 
 - `abctech.cz` → 自建 / 同域名邮件服务器（MX：mailserver.abctech.cz）。自建邮件服务器：有自己的 IT（可能灰名单 → 首封延迟几小时才进箱），像素可用；读信的是技术人，参数先于价格
 
-**假日避让（捷克 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
+**假日避让（捷克 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
 
-- 法定假日：10-28 Independent Czechoslovak State Day；11-17 Struggle for Freedom and Democracy Day and International Students' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 法定假日：11-17 Struggle for Freedom and Democracy Day and International Students' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
 **公司底数 · 第 111 批（CZ · 1 次检索：finmag.cz（ABCtech s.r.o.；IČO 27546624；C 25333/KSHK；základní kapitál 200 000 Kč；vznikla 28. 8. 2008；sídlo Nerudova 742 Česká Skalice；kontaktní adresa Piletická 55/36 Hradec Králové）+ abctech.cz/o-nas（IČ 27546624；DIČ CZ27546624；Jednatel: Jan Hofman；reklamace@abctech.cz）+ firmy.cz（品牌 Mikrotik, Cambium, UBNT, TP-Link, RF Elements, Hikvision, Solarix）+ heureka（Mikrotik, Ubiquiti, Netis, TP-Link, H-tools, Solarix）；2026-10-28，2026-10-28 查；https://www.finmag.cz/obchodni-rejstrik/27546624-abctech-s-r-o）：**
 
@@ -337,12 +337,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

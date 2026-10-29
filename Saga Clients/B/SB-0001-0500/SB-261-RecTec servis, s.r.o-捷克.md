@@ -25,7 +25,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -71,9 +71,9 @@ updated: 2026-10-28
 
 - `rectec.cz` → 其他主机商邮箱（pmg1.faster.cz）（MX：pmg1.faster.cz、pmg2.faster.cz、pmg3.faster.cz）。主机商附带邮箱（pmg1.faster.cz）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（捷克 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
+**假日避让（捷克 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
 
-- 法定假日：10-28 Independent Czechoslovak State Day；11-17 Struggle for Freedom and Democracy Day and International Students' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 法定假日：11-17 Struggle for Freedom and Democracy Day and International Students' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
 **公司底数 · 第 107 批（CZ · 1 次检索：fakturujzdarma（RecTec servis, s.r.o.；IČO 17957036；DIČ CZ17957036；Spolehlivý plátce DPH；Nádražní 92 667 01 Židlochovice；Datum vzniku 23. ledna 2023；Základní kapitál 200 000 Kč；C 132302 Krajský soud v Brně；jednatel Viktor Fojt Absolonova 637/16 Brno；společník CVFT s.r.o. 100 %；ARES 2025-08-19）+ kurzy.cz / podnikatel.cz / finmag（同），2026-10-28 查；https://rejstrik-firem.kurzy.cz/17957036/rectec-servis-sro/）：**
 
@@ -311,12 +311,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 48）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 48）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

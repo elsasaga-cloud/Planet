@@ -28,7 +28,7 @@ price_tier: 20%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -92,6 +92,20 @@ updated: 2026-10-27
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 - 【惯例】02-08→02-10：狂欢节（2-08/2-09 + 2-10 上午）
 
+**公司底数 · 第 120 批（BR · 1 次检索：casadosdados.com.br/solucao/cnpj/…-05590805000156（INFOTEC COMERCIO DE EQUIPAMENTOS E SISTEMAS DE SEGURANCA LTDA；ATIVA；26/03/2003；SAO JOSE SC；ADMIN@INFOTECSISTEMAS.COM.BR；48 40529066；Simples 01/01/2009；EMA INES RODRIGUEZ RODRIGUEZ Sócio-Administrador 13/08/2009）+ cnpj.biz/05590805000237（filial Florianópolis；04/06/2010）+ jusbrasil 进口税诉讼列表；2026-10-29，2026-10-29 查；https://casadosdados.com.br/solucao/cnpj/infotec-comercio-de-equipamentos-e-sistemas-de-seguranca-ltda-05590805000156）：**
+
+- 法定名 / 登记号：Infotec Comércio de Equipamentos e Sistemas de Segurança Ltda（**CNPJ 05.590.805/0001-56（总部 São José/SC，2003-03-26 开业，ATIVA，Simples 2009 起；分支 0002-37 Florianópolis 2010-06-04）；sócia-administradora Ema Ines Rodriguez Rodriguez（2009-08-13 入股）；admin@infotecsistemas.com.br；(48) 4052-9066；联邦法院 TRF4 多起进口税 / PIS-Cofins 进口案（2015–2018）→ 直接进口商**）→ 坐实；S 邮箱 2024-06 三封来信要 8+2 / 16+2 / 24+2 PoE 价，Simon 当日报价；2024-11 再要工业非管理 4/8/16/24 价表；未成；KP Fabian Alonzo（gmail） · CNPJ 05.590.805/0001-56（分支 0002-37） · 状态 **ATIVA（Simples）** · 成立 2003-03-26 · Ltda - ME
+- 行业码 / 经营范围：安防设备与系统商贸（圣若泽 / 弗洛里亚诺波利斯，SC）
+- 注册地址：São José - SC, Brazil（分支 Florianópolis - SC）
+- 规模档：微型 / 小型（ME；Simples）
+- 账目：未取；—
+- 高管：Fabian Alonzo — 联系人（研究档 KP；transivideo@gmail.com）= 收件人
+- 高管：Ema Ines Rodriguez Rodriguez — Sócia-Administradora（casadosdados 2026-10-29；admin@infotecsistemas.com.br 登记邮箱）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **直接进口商（进口税诉讼可证）+ 两次主动要价未成 → 分销 20% B，一页纸一次（再报 STC-028GP $28 / STC-2216GP / STC-2224GP $86 现价 + STI-280GE $46.6 工业非管理 + MOQ 1；葡语备注；以 2024-06 报价为开场）— 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方清关、进口税自理；Anatel 不声称）**；回信 → 加厚 / 升 A 候选
+- 备注：分销 20%；一页纸一次（预付 100%）；坐实（CNPJ + 法人 + 开业日 + 进口记录）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -119,7 +133,8 @@ updated: 2026-10-27
 - **【邮件】二次要价表**
   > Can you send me your price list with the 4-8-16 and 24 door models?
   > 来源：data/gmail_a|gmail_s/messages/<year>/<month>.jsonl（抓取 2024-11-19）
-- **KP**：Fabian Alonzo（）transivideo@gmail.com 51 98144-0559（信尾）〔data/gmail_a|gmail_s/messages/<year>/<month>.jsonl〕
+- **KP**：Fabian Alonzo（联系人（研究档；2024-06 / 2024-11 两次主动要价）= 收件人 — 一页纸一次：分销 20% B、以 2024-06 报价为开场再报 STC-028GP / STC-2216GP / STC-2224GP 现价 + STI-280GE 工业非管理 + MOQ 1；葡语备注；回信 → 升 A 候选 — 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（进口税自理）、Anatel 不声称（第 120 批 官方登记核实 2026-10-29））transivideo@gmail.com 51 98144-0559（信尾）〔data/gmail_a|gmail_s/messages/<year>/<month>.jsonl〕
+- **KP**：Ema Ines Rodriguez Rodriguez（Sócia-Administradora（casadosdados 2026-10-29；2009-08-13 入股；登记邮箱）（第 120 批 官方登记核实 2026-10-29））admin@infotecsistemas.com.br 〔〕
 - **调研后定级**：B（原自动 C）——两轮主动要价（2024-06、2024-11），规格明确（CCTV 用 8+2/16+2/24+2 PoE）；巴西非主攻 → B 慢慢跟进。
 - 备注：西/葡语混写；要价都给了，没成——价格或进口门槛（巴西关税高）。
 
@@ -127,8 +142,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Infotec Comércio de Equipamentos e Sistemas de Segurança Ltda. |
-| 总部/地址 | 巴西 |
+| 法定名称 | Infotec Comércio de Equipamentos e Sistemas de Segurança Ltda - ME（CNPJ 05.590.805/0001-56；分支 0002-37 Florianópolis；ATIVA；Simples 2009 起） |
+| 成立 | 2003-03-26（分支 2010-06-04）（第 120 批 官方登记核实 2026-10-29） |
+| 总部/地址 | São José - SC（分支 Florianópolis - SC；(48) 4052-9066）（第 120 批 官方登记核实 2026-10-29） |
+| 其他 | 第 120 批：安防设备商贸 + TRF4 多起进口税 / PIS-Cofins 进口诉讼（2015–2018）→ 直接进口商；坐实（CNPJ + 法人 + 开业日 + 进口记录）（第 120 批 官方登记核实 2026-10-29） |
 
 - **触达通道（公开）**：role: 经销；region: 巴西
 - **风险/边界**：巴西进口税/清关——小量不划算；价格导向经销
@@ -174,7 +191,8 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Fabian Alonzo | — | transivideo@gmail.com / 51 98144-0559（信尾） | 调研核实（公开页） | data/gmail_a\|gmail_s/messages/<year>/<month>.jsonl |
+| Fabian Alonzo | 联系人（研究档；2024-06 / 2024-11 两次主动要价）= 收件人 — 一页纸一次：分销 20% B、以 2024-06 报价为开场再报 STC-028GP / STC-2216GP / STC-2224GP 现价 + STI-280GE 工业非管理 + MOQ 1；葡语备注；回信 → 升 A 候选 — 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（进口税自理）、Anatel 不声称（第 120 批 官方登记核实 2026-10-29） | transivideo@gmail.com / 51 98144-0559（信尾） | 调研核实（公开页） | data/gmail_a\|gmail_s/messages/<year>/<month>.jsonl |
+| Ema Ines Rodriguez Rodriguez | Sócia-Administradora（casadosdados 2026-10-29；2009-08-13 入股；登记邮箱）（第 120 批 官方登记核实 2026-10-29） | admin@infotecsistemas.com.br | 调研核实（公开页） | 调研 |
 | Mr. Fabian Alonzo | — | transivideo@gmail.com / +5140639602 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；仅免费邮箱：可发，但优先找官网公开的企业邮箱（见调研 KP）
@@ -267,12 +285,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -2）；人工/调研定级 → B
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -2）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

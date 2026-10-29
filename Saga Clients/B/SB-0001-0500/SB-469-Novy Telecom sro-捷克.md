@@ -24,7 +24,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -69,9 +69,9 @@ updated: 2026-10-28
 
 - `novytel.cz` → Microsoft 365（MX：novytel-cz.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 
-**假日避让（捷克 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
+**假日避让（捷克 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
 
-- 法定假日：10-28 Independent Czechoslovak State Day；11-17 Struggle for Freedom and Democracy Day and International Students' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 法定假日：11-17 Struggle for Freedom and Democracy Day and International Students' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
 **公司底数 · 第 110 批（CZ · 1 次检索：novytel.cz（Supply of machinery from Asia and China；About；Our Contacts Praha 2 Legerova 1820/39 PSČ 12000；info@novytel.cz）+ tracxn（incorporated Oct 30 2008；CIN 28481968；Active）+ podnikatel.cz / finmag（IČO 28481968；Legerova 1820/39 Praha Nové Město）+ chytryrejstrik（zprostředkování a dodávky zboží z Asie, zejména z Číny；OEM/ODM；kontrola kvality）+ volza（1,004 shipments to 14 buyers incl. Ukraine）+ marketinsidedata（export USD 770.44k 2024），2026-10-28 查；https://www.podnikatel.cz/rejstrik/novy-telecom-s-r-o-28481968/）：**
 
@@ -277,12 +277,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 40）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 40）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

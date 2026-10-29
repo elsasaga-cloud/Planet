@@ -24,7 +24,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -70,6 +70,20 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 120 批（ZA · 1 次检索：zoominfo.com/c/nuthill-technologies/464005553（31 Boncker St, Middelburg, Mpumalanga；+27 132461140；CEO Abrie Joubert；11-50；mining, metal, electrical, and instrumentation；Glencore Coal South Africa, South32 Coal, ESKOM）+ findglocal（Stoffberg Road R555 Middelburg）；CIPC 未得；2026-10-29，2026-10-29 查；https://www.zoominfo.com/c/nuthill-technologies/464005553）：**
+
+- 法定名 / 登记号：Nuthill Technologies（nuthill.co.za；**ZoomInfo：31 Boncker St, Middelburg, Mpumalanga；+27 13 246 1140；11–50 人；CEO Abrie Joubert；矿业 / 冶金 / 电气 / 仪表方案（NutProM 监控、DepthMaster、WAGO）；客户 Glencore Coal / South32 / Eskom / Columbus Stainless；findglocal 另址 Stoffberg Road R555, Middelburg**）；CIPC 注册号 1 查未得 → 部分坐实；自建站询盘「7 台 Moxa 工业 8 电口轻管理」；KP Ivanka（accounts@） · 未取（CIPC 注册号 1 查未得） · 状态 **营业中（官网 + 企业库）** · 成立 未取 · (Pty) Ltd（推定）
+- 行业码 / 经营范围：矿业 / 工业自动化与仪表集成（米德尔堡，普马兰加）
+- 注册地址：31 Boncker St, Middelburg, Mpumalanga, South Africa
+- 规模档：小型（11–50）
+- 账目：未取；—
+- 高管：Ivanka — Accounts（研究档 KP；accounts@nuthill.co.za）= 收件人（Attn: Abrie Joubert, CEO）
+- 高管：Abrie Joubert — Chief Executive Officer（ZoomInfo 2026-10-29；无公开邮箱）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **矿业自动化集成商 + 询盘明确（7 台工业 8 电口轻管理）→ 集成商 25% B，一页纸一次（STI-288GPM $78.9 ×7 一口价 + STI-280GE $46.6 备选；Moxa 不点名；MOQ 1 + 付费样机）— 南非常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 约堡（买方清关；ICASA / NRCS 不声称）**；回信 → 加厚
+- 备注：集成商 25%；一页纸一次（预付 100%）；部分坐实（企业库地址 + 电话 + CEO；CIPC 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -103,15 +117,17 @@ updated: 2026-10-28
 - **【用户表】7 台 Moxa 8 电口轻管理**
   > 7台Moxa工业8电口轻管理 / from: 自建站
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Ivanka（）accounts@nuthill.co.za 〔用户表〕
+- **KP**：Ivanka（Accounts（研究档；收件 Attn: Abrie Joubert, CEO）— 一页纸一次：集成商 25% B、自建站询盘「7 台工业 8 电口轻管理」→ STI-288GPM ×7 一口价 + STI-280GE 备选 + 付费样机；Moxa 不点名 — 南非常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 约堡、ICASA / NRCS 不声称（第 120 批 官方登记核实 2026-10-29））accounts@nuthill.co.za 〔用户表〕
+- **KP**：Abrie Joubert（Chief Executive Officer（ZoomInfo 2026-10-29；无公开邮箱）（第 120 批 官方登记核实 2026-10-29）） 〔〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 南非 |
-| 其他 | 官网 nuthill.co.za，语言 en-gb，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Nuthill Technologies（(Pty) Ltd 推定；CIPC 注册号 1 查未得） |
+| 总部/地址 | 31 Boncker St, Middelburg, Mpumalanga（+27 13 246 1140；另址 Stoffberg Road R555）（第 120 批 官方登记核实 2026-10-29） |
+| 其他 | 官网 nuthill.co.za，语言 en-gb，快照状态 ok；角色判定来源：官网文案；第 120 批：矿业 / 冶金 / 电气 / 仪表自动化集成（NutProM / DepthMaster / WAGO；客户 Glencore / South32 / Eskom）；部分坐实（企业库地址 + 电话 + CEO；CIPC 未取）（第 120 批 官方登记核实 2026-10-29） |
 
 - **业务线**：矿业 / 工业自动化与现场服务（南非）
 - **触达通道（公开）**：role: 矿业/工业自动化服务商（南非，Moxa 8 口替代询盘）；region: 南非；contact: accounts@nuthill.co.za
@@ -167,7 +183,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ivanka | — | accounts@nuthill.co.za | 调研核实（公开页） | 用户表 |
+| Ivanka | Accounts（研究档；收件 Attn: Abrie Joubert, CEO）— 一页纸一次：集成商 25% B、自建站询盘「7 台工业 8 电口轻管理」→ STI-288GPM ×7 一口价 + STI-280GE 备选 + 付费样机；Moxa 不点名 — 南非常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 约堡、ICASA / NRCS 不声称（第 120 批 官方登记核实 2026-10-29） | accounts@nuthill.co.za | 调研核实（公开页） | 用户表 |
+| Abrie Joubert | Chief Executive Officer（ZoomInfo 2026-10-29；无公开邮箱）（第 120 批 官方登记核实 2026-10-29） | — | 调研核实（公开页） | 调研 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 
@@ -261,12 +278,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 28）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 28）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

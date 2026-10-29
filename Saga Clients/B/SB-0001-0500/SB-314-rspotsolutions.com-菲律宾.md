@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -85,9 +85,23 @@ updated: 2026-10-28
 
 - `rspotsolutions.com` → 其他主机商邮箱（mx1.privateemail.com）（MX：mx1.privateemail.com、mx2.privateemail.com）。主机商附带邮箱（mx1.privateemail.com）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（菲律宾 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
+**假日避让（菲律宾 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
 
 - 法定假日：11-01 All Saints' Day；11-02 All Souls' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+
+**公司底数 · 第 120 批（PH · 1 次检索：rspotsolutions.com（RSPOT SOLUTIONS, INC.；Unit 7B-19 Bldg. 7 Residencias de Manila Pandacan Manila；+63 2 8293-9507；088 326-0093；Value Added Distributor）+ intl.vericomsolutions.com/ContactUs/philippines（RSPOT Solutions, Inc.；Mr. Juner D. Yaneza；vericom@rspotsolutions.com）；SEC 未得；2026-10-29，2026-10-29 查；https://www.rspotsolutions.com/）：**
+
+- 法定名 / 登记号：RSPOT Solutions, Inc.（rspotsolutions.com；**官网：Unit 7B-19 Bldg. 7 Residencias de Manila, Pandacan, Manila；manila@；+63 2 8293-9507；VisMin 线 088 326-0093；Value Added Distributor（数据中心、结构化布线、CCTV、无线、工业 GSM 网关）；Vericom 菲律宾经销联络人 Mr. Juner D. Yaneza（vericom@rspotsolutions.com）**）；SEC 号 1 查未得 → 部分坐实；表内从中国直采 HDMI 类 · 未取（SEC 号 1 查未得） · 状态 **营业中（官网 © 2026）** · 成立 未取 · Inc.
+- 行业码 / 经营范围：ICT / 布线 / CCTV 增值分销（马尼拉 + 米沙鄢-棉兰老）
+- 注册地址：Unit 7B-19 Bldg. 7, Residencias de Manila, Pandacan, Manila, Philippines
+- 规模档：小型
+- 账目：未取；—
+- 高管：Juner D. Yaneza — 经销联络负责人（Vericom 经销页 2026-10-29；vericom@rspotsolutions.com）= 收件人
+- 高管：（研究档 KP：vismin@rspotsolutions.com）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **布线 / CCTV 增值分销商、已习惯中国直采 → 分销 20% B，一页纸一次（STC-028GP $28 / STC-2216GP / STC-2224GP $86 + STI-154GP + MOQ 1 + 付费样机）— 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉（买方清关；NTC 不声称）**；再无回声 → 不动
+- 备注：分销 20%；一页纸一次（预付 100%）；部分坐实（官网地址 + 电话 + 经销页 KP；SEC 未取）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -111,15 +125,16 @@ updated: 2026-10-28
 - **【用户表】富通天下：从 holink 买 HDMI；Cabling CCTV；从中国买很多**
   > 从holink买了HDMI类产品 / Cabling CCTV等 / 从中国买很多
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Juner D. Yaneza（经销联络负责人（Vericom 菲律宾经销页 2026-10-29）= 收件人 — 一页纸一次：分销 20% B、STC-028GP / STC-2216GP / STC-2224GP + STI-154GP 一口价 + MOQ 1 + 付费样机 — 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉、NTC 不声称（第 120 批 官方登记核实 2026-10-29））vericom@rspotsolutions.com 〔〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于用户表整理 + 需求映射；「成交」为富通天下外贸数据））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | R-Spot Solutions（全称待核） |
-| 总部/地址 | Philippines（VisMin 区域邮箱） |
-| 其他 | 从中国大量进口（HDMI、布线、CCTV） |
+| 法定名称 | RSPOT Solutions, Inc.（官网；SEC 号 1 查未得） |
+| 总部/地址 | Unit 7B-19 Bldg. 7, Residencias de Manila, Pandacan, Manila（+63 2 8293-9507；VisMin 088 326-0093）（第 120 批 官方登记核实 2026-10-29） |
+| 其他 | 从中国大量进口（HDMI、布线、CCTV）；第 120 批：ICT / 布线 / CCTV 增值分销商（Vericom 经销）；部分坐实（官网地址 + 经销页 KP；SEC 未取）（第 120 批 官方登记核实 2026-10-29） |
 
 - **业务线**：结构化布线与 CCTV 产品供应；HDMI/AV 配件
 - **触达通道（公开）**：网站: https://rspotsolutions.com/（未核）；邮箱: vismin@rspotsolutions.com（用户表）
@@ -192,6 +207,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Juner D. Yaneza | 经销联络负责人（Vericom 菲律宾经销页 2026-10-29）= 收件人 — 一页纸一次：分销 20% B、STC-028GP / STC-2216GP / STC-2224GP + STI-154GP 一口价 + MOQ 1 + 付费样机 — 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉、NTC 不声称（第 120 批 官方登记核实 2026-10-29） | vericom@rspotsolutions.com | 调研核实（公开页） | 调研 |
 | Cabling CCTV | — | vismin@rspotsolutions.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
@@ -260,7 +276,7 @@ updated: 2026-10-28
 **主题**：STC-228GP - 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (neutral label)
 
 ```text
-Hi Cabling,
+Hi Juner,
 
 Thank you again for your earlier order with us - this is a short update rather than a cold mail. Hello R-Spot team, for your CCTV and cabling customers: 2× SFP + 8× PoE switches at $33.2 EXW, 16-port PoE at $88.0, neutral packing, MOQ 1 — which port count sells best in VisMin so I can quote a first lot?
 
@@ -285,12 +301,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 46）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 46）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

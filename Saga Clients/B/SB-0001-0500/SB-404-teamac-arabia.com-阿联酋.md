@@ -1,6 +1,6 @@
 # teamac-arabia.com
 
-> **评级 B**　|　沙特阿拉伯　|　档案编号 `SB-404`　|　优先级 ★★　|　状态：名单内·未触达
+> **评级 B**　|　阿联酋　|　档案编号 `SB-404`　|　优先级 ★★　|　状态：名单内·未触达
 >
 > **类型**：BMS/弱电集成商（阿联酋，8 光 8 PoE 询盘）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -9,8 +9,7 @@ code: SB-404
 rating: B
 rating_auto: B
 score: 43
-country: 沙特阿拉伯
-country_table: 阿联酋  # 表内原填；调研纠正为 沙特阿拉伯（research JSON country_fix）
+country: 阿联酋
 region: 中东
 website: teamac-arabia.com
 type: BMS/弱电集成商（阿联酋，8 光 8 PoE 询盘）
@@ -25,7 +24,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -73,12 +72,25 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 120 批（AE · 1 次检索：tradeindia.com/teamac-arabia-2748001（Hamriyah Free Zone, Po box 50342, Sharjah；Established in 2008；Sales & Technical Director Mr. Khursheed Ahmed Khan；Importer, Trading Company of chemical, electrical products, machinery）+ zoominfo 员工页 ×2（Teamac Arabia；地址英国占位 ✗）；2026-10-29，2026-10-29 查；https://www.tradeindia.com/teamac-arabia-2748001/）：**
+
+- 法定名 / 登记号：TEAMAC Arabia（teamac-arabia.com；**tradeindia 企业页：Hamriyah Free Zone, P.O. Box 50342, Sharjah, UAE；2008 年成立；Sales & Technical Director Mr. Khursheed Ahmed Khan = 表内 KP ✓；进口 / 贸易（化工、电气、机械）+ BMS / HVAC 控制、弱电方案**）；ZoomInfo 员工页（BMS Project Engineer / Mechanical HVAC Engineer）地址为英国占位、不采信；表内原国别阿联酋，Q-65 机检按 +966 手机改沙特 → 本轮按实体地址回正 **country_fix 阿联酋**（KP 沙特手机 = 沙特销售驻点，备注保留）；牌照号 1 查未得 → 部分坐实 · 未取（FZ 牌照号 1 查未得） · 状态 **营业中（名录 + ZoomInfo 在职 2020– / 2021–）** · 成立 2008 · FZE / FZC（Hamriyah Free Zone，推定）
+- 行业码 / 经营范围：BMS / HVAC 控制 + 弱电 + 进口贸易（沙迦；KSA 销售）
+- 注册地址：Hamriyah Free Zone, P.O. Box 50342, Sharjah, UAE
+- 规模档：小型
+- 账目：未取；—
+- 高管：Khursheed Ahmed Khan — Sales & Technical Director（tradeindia 2026-10-29；研究档 KP khursheed.khan@teamac-arabia.com）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自建站询盘「8 光 8 PoE 管理」+ 销售技术总监为 KP → 集成商 25% B，一页纸一次（无 8 光 8 电单机：STI-288DGGPM $137 / STI-488DGGPM $147 + STC-4424GCPM $165 组合 + MOQ 1 + 付费样机；Siemens BMS 配套中性包装）— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关；TDRA / ESMA 不声称）**；再无回声 → 不动
+- 备注：集成商 25%；一页纸一次（预付 100%）；部分坐实（名录地址 + 成立年 + KP 职务；牌照号未取）；country_fix 阿联酋（回正）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | teamac-arabia.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 沙特阿拉伯 | 事实（用户表）|
+| 国家 | 阿联酋 | 事实（用户表）|
 | 网站/域名 | teamac-arabia.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | BMS/弱电集成商（阿联酋，8 光 8 PoE 询盘） | 推断（据兴趣/备注关键词） |
 | 联系人 | Khursheed Khan | 事实（用户表） |
@@ -106,15 +118,17 @@ updated: 2026-10-28
 - **【用户表】8 光 8 PoE 管理询盘**
   > 8光8PoE管理 / from: 自建站
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Khursheed Khan（）khursheed.khan@teamac-arabia.com 〔用户表〕
+- **KP**：Khursheed Ahmed Khan（Sales & Technical Director（tradeindia 2026-10-29；= 表内 KP）= 收件人 — 一页纸一次：集成商 25% B、询盘「8 光 8 PoE 管理」→ STI-288DGGPM / STI-488DGGPM + STC-4424GCPM 组合一口价 + MOQ 1 + 付费样机 — 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜、TDRA / ESMA 不声称（第 120 批 官方登记核实 2026-10-29））khursheed.khan@teamac-arabia.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5） ｜ 国别更正为「沙特阿拉伯」（country_fix）：域名 teamac-arabia.com + 电话 +966 530708118（沙特国家码）；表内阿联酋（Q-65 国别机检 2026-10-27）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 阿联酋 |
-| 其他 | 官网 teamac-arabia.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | TEAMAC Arabia（Hamriyah Free Zone 实体；FZ 牌照号 1 查未得） |
+| 成立 | 2008（tradeindia）（第 120 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Hamriyah Free Zone, P.O. Box 50342, Sharjah, UAE（第 120 批 官方登记核实 2026-10-29） |
+| 其他 | 官网 teamac-arabia.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 120 批：BMS / HVAC 控制 + 弱电 + 进口贸易；实体在沙迦自贸区 → country_fix 阿联酋（回正 Q-65 按 +966 手机的沙特判定；KP 沙特手机 = KSA 销售驻点）；部分坐实（名录地址 + 成立年 + KP 职务）（第 120 批 官方登记核实 2026-10-29） |
 
 - **业务线**：BMS / HVAC 控制 / 弱电 / 自动化集成（阿联酋）
 - **触达通道（公开）**：role: BMS/弱电集成商（阿联酋，8 光 8 PoE 询盘）；region: 阿联酋；contact: khursheed.khan@teamac-arabia.com
@@ -173,7 +187,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Khursheed Khan | — | khursheed.khan@teamac-arabia.com | 调研核实（公开页） | 用户表 |
+| Khursheed Ahmed Khan | Sales & Technical Director（tradeindia 2026-10-29；= 表内 KP）= 收件人 — 一页纸一次：集成商 25% B、询盘「8 光 8 PoE 管理」→ STI-288DGGPM / STI-488DGGPM + STC-4424GCPM 组合一口价 + MOQ 1 + 付费样机 — 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜、TDRA / ESMA 不声称（第 120 批 官方登记核实 2026-10-29） | khursheed.khan@teamac-arabia.com | 调研核实（公开页） | 用户表 |
+| Khursheed Khan | — | khursheed.khan@teamac-arabia.com / +966530708118 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 
@@ -267,12 +282,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 43）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 43）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

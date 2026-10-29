@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -72,6 +72,20 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动（同行分销商；把 Saga 当买家）」，不排发信，略。
 
+**公司底数 · 第 120 批（ZA · 1 次检索：switchcom.co.za/pages/our-terms-conditions（SWITCHCOM DISTRIBUTION … registration number 2015/334722/07 … 49 GALAXY AVENUE, LINBRO BUSINESS PARK, SANDTON, 2090）+ switchcom.co.za 首页（founded in 2015；Cambium Networks, Hikvision, MikroTik, Ubiquiti）+ dnb（49 GALAXY AV LINBRO PARK SANDTON 2196）；2026-10-29，2026-10-29 查；https://www.switchcom.co.za/pages/our-terms-conditions）：**
+
+- 法定名 / 登记号：Switchcom Distribution (Pty) Ltd（switchcom.co.za；**官网 T&C 自列注册号 2015/334722/07；registered office 49 Galaxy Avenue, Linbro Business Park, Sandton 2090（D&B 一致）；另址 Randview Business Park, 1 Avon Rd, Ferndale, Randburg 2194；2015 年成立；有线 / 无线 / VoIP / 监控 / 光纤 ICT 分销（Cambium / Hikvision / MikroTik / Ubiquiti）**）→ 坐实；KP Kevin Maphanga（Account Manager，销售侧）；两次把 Saga 当买家 · 2015/334722/07 · 状态 **营业中（官网 + 电商在）** · 成立 2015 · (Pty) Ltd
+- 行业码 / 经营范围：ICT / 网络 / 监控分销（桑顿 / 兰德堡）
+- 注册地址：49 Galaxy Avenue, Linbro Business Park, Sandton 2090, Gauteng, South Africa
+- 规模档：中小型
+- 账目：未取；—
+- 高管：Kevin Maphanga — Account Manager（研究档 KP；kevin@switchcom.co.za；销售侧，非采购）
+- 高管：（采购 / 品类经理未得：sales@switchcom.co.za；Attn: Product / Procurement Manager）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **多品牌分销商、注册号坐实 → 分销 20% B，一页纸一次（渠道 / 贴标角度：STC-2224GP $86 / STC-4424GCPM $165 / STI-154GP + MOQ 1 + 付费样机；收件 sales@ Attn: Procurement Manager，抄 Kevin）— 南非常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 约堡（买方清关；ICASA / NRCS 不声称）**；再无回声 → 不动
+- 备注：分销 20%；一页纸一次（预付 100%）；坐实（官网 T&C 注册号 + 注册地址）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -100,7 +114,7 @@ updated: 2026-10-28
 - **【email】客户经理发来自家报价单（方向反了）**
   > Please see the attached sales quote above on what we can offer and stock is available.（附 Quotation QU509692.PDF）Kevin Maphanga, Account Manager, Office: +27(0)10 007 2555
   > 来源：data/gmail_s/messages/2024/2024-12.jsonl（抓取 2024-12-12）
-- **KP**：Kevin Maphanga（Account Manager（销售侧，非采购））kevin@switchcom.co.za +27 (0)10 007 2555〔S 邮箱签名〕
+- **KP**：Kevin Maphanga（Account Manager（销售侧，非采购；研究档）— 一页纸一次收件 sales@ Attn: Procurement / Product Manager、抄 Kevin：分销 20% B、渠道 / 贴标角度 STC-2224GP / STC-4424GCPM / STI-154GP 一口价 + MOQ 1 + 付费样机 — 南非常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 约堡、ICASA / NRCS 不声称（第 120 批 官方登记核实 2026-10-29））kevin@switchcom.co.za +27 (0)10 007 2555〔S 邮箱签名〕
 - **调研后定级**：B（原自动 B）——有邮箱、是真实分销商、双向往来，但对话方向反了且无采购人 → B（低优先）
 - 备注：分销商的采购/品类经理才是对的人；现有联系人是销售。南非不在 Planet 仓重点区域，但 Saga Clients 全域覆盖：慢慢跟，换「渠道/贴牌」角度找品类负责人再发。
 
@@ -152,7 +166,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Kevin Maphanga | Account Manager（销售侧，非采购） | kevin@switchcom.co.za / +27 (0)10 007 2555 | 调研核实（公开页） | S 邮箱签名 |
+| Kevin Maphanga | Account Manager（销售侧，非采购；研究档）— 一页纸一次收件 sales@ Attn: Procurement / Product Manager、抄 Kevin：分销 20% B、渠道 / 贴标角度 STC-2224GP / STC-4424GCPM / STI-154GP 一口价 + MOQ 1 + 付费样机 — 南非常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 约堡、ICASA / NRCS 不声称（第 120 批 官方登记核实 2026-10-29） | kevin@switchcom.co.za / +27 (0)10 007 2555 | 调研核实（公开页） | S 邮箱签名 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 
@@ -247,12 +261,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 31）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 31）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -95,6 +95,19 @@ updated: 2026-10-28
 - 【宗教】03-09→03-12：开斋节（Eid al-Fitr / Ramazan Bayramı，估算）：3–4 天全停
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 
+**公司底数 · 第 120 批（ID · 1 次检索：pancakumala.co.id（Panca Kumala Jaya；Ruko Golden Green No.8. Jl. Panjang (Arteri Kedoya) Jakarta Barat-11520；021-5643366；customerservice.pkj@gmail.com）+ pancakumala.com/announcement/news（PANCA KUMALA JAYA, PT；Rukan Golden Green No.6；+62(21) 564 3366；sales@pancakumala.com；© 2011）+ /product/s5750e-28x-si（DCN）；NIB 未得；2026-10-29，2026-10-29 查；http://www.pancakumala.co.id/）：**
+
+- 法定名 / 登记号：PT Panca Kumala Jaya（pancakumala.co.id / pancakumala.com；**官网：Ruko Golden Green No.8, Jl. Panjang (Arteri Kedoya), Jakarta Barat 11520；021-564 3366；customerservice.pkj@gmail.com；旧站 © 2011（Rukan Golden Green No.6；sales@pancakumala.com）；SMATV / IPTV + 安防门禁 + 3play 分销，DCN 交换机印尼渠道（S5750E-28X 等）**）；NIB 1 查未得 → 部分坐实；2025-10 回复带联系方式；KP 客服 · 未取（NIB / NPWP 1 查未得） · 状态 **营业中（官网在；2025-10 回复）** · 成立 ≤ 2011 · PT
+- 行业码 / 经营范围：SMATV / 安防 / 网络分销（西雅加达）
+- 注册地址：Ruko Golden Green No.8, Jl. Panjang (Arteri Kedoya), Jakarta Barat 11520, Indonesia
+- 规模档：小型
+- 账目：未取；—
+- 高管：（客服 — 研究档 KP：customerservice.pkj@gmail.com / info@pancakumala.co.id；Attn: Purchasing / Product Manager）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **DCN 渠道分销商（含工业 DIN 品类页）+ 已回复 → 分销 20% B，一页纸一次（DCN 之下白牌 / 低价：STC-2224GP $86 / STC-4424GCPM $165 + STI-154GP / STI-288DGGPM；DCN 不点名；MOQ 1 + 付费样机）— 印尼常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 雅加达（买方清关；SDPPI / Postel 不声称）**；回信 → 加厚
+- 备注：分销 20%；一页纸一次（预付 100%）；部分坐实（官网地址 + 电话 + 起始年；NIB 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -128,10 +141,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | PT Panca Kumala Jaya |
-| 成立 | （待核） |
-| 总部/地址 | Ruko Golden Green No.8, Jl. Panjang (Arteri Kedoya), Jakarta Barat 11520 |
-| 其他 | DCN 印尼渠道 |
+| 法定名称 | PT Panca Kumala Jaya（官网；NIB / NPWP 1 查未得） |
+| 成立 | ≤ 2011（旧站 © 2011）（第 120 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Ruko Golden Green No.8, Jl. Panjang (Arteri Kedoya), Jakarta Barat 11520（021-564 3366；旧址 Rukan Golden Green No.6）（第 120 批 官方登记核实 2026-10-29） |
+| 其他 | DCN 印尼渠道；第 120 批：SMATV / IPTV + 安防门禁 + 3play 分销、DCN 交换机印尼渠道（含工业 DIN 品类页）→ **分销 20% B，一页纸一次（Attn: Purchasing / Product Manager；DCN 之下白牌 / 低价 STC-2224GP / STC-4424GCPM + STI-154GP / STI-288DGGPM；DCN 不点名）** — 印尼常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 雅加达、SDPPI 不声称；部分坐实（官网地址 + 电话 + 起始年）（第 120 批 官方登记核实 2026-10-29） |
 
 - **业务线**：SMATV / IPTV 头端；安防 / 门禁（Hanwha）；DCN 交换机（PoE、工业 DIN、模块化）
 
@@ -302,12 +315,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 41）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 41）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

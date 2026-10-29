@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -82,9 +82,9 @@ updated: 2026-10-28
 - `dipolnet.cz` → 其他主机商邮箱（mail.dipol.com.pl）（MX：mail.dipol.com.pl）。主机商附带邮箱（mail.dipol.com.pl）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 - `t-cz.com` → 其他主机商邮箱（email.webglobe.cz）（MX：email.webglobe.cz、email2.webglobe.cz、email3.webglobe.cz、email4.webglobe.cz）。主机商附带邮箱（email.webglobe.cz）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（捷克 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
+**假日避让（捷克 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
 
-- 法定假日：10-28 Independent Czechoslovak State Day；11-17 Struggle for Freedom and Democracy Day and International Students' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 法定假日：11-17 Struggle for Freedom and Democracy Day and International Students' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
 **公司底数 · 第 107 批（CZ · 1 次检索：dipolnet.cz 首页 / Firma DIPOL（Centrála Skopalova 2991/22 750 02 Přerov；dipolnet@t-cz.com；+420 734 310 460；Společnost DIPOL založena 1990 … evropský distributor CCTV, WLAN, TV-SAT a výrobce antén）+ dipolnet.cz „DIPOL- TOMI CZECH s.r.o.“ 页（Fakturační adresa a sídlo TOMI CZECH, s.r.o. Skopalova 2991/22 Přerov；IČ 26830370；DIČ CZ26830370）+ firmy.cz / info-praha（IČO 26830370；门店 Praha-Modřany；Brno；Lipník）+ dipolnet.cz Aktuality 2026-06-10（DIPOL sp. z o.o.，ul. Ciepłownicza 40 31-574 Kraków，原 DIPOL Gołaszewski Waśniowski Sp. j.），2026-10-28 查；https://www.dipolnet.cz/dipol-_tomi_czech_s_r_o_m120.htm）：**
 
@@ -325,12 +325,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 46）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 46）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

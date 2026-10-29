@@ -1,7 +1,7 @@
 # HAMDAZTECH TECHNOLOGIES INC LLC
 **官方名称（调研核实）**：Hamdaztech Technologies（沙特 / 印度）
 
-> **评级 B**　|　沙特阿拉伯　|　档案编号 `SB-464`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
+> **评级 B**　|　阿联酋　|　档案编号 `SB-464`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：WhatsApp 已加　|　**所在清单**：询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -11,7 +11,8 @@ rating: B
 rating_auto: B
 name_official: "Hamdaztech Technologies（沙特 / 印度）"
 score: 40
-country: 沙特阿拉伯
+country: 阿联酋
+country_table: 沙特阿拉伯  # 表内原填；调研纠正为 阿联酋（research JSON country_fix）
 region: 中东
 website: hamdaz.com
 type: 经销/集成（类型待核）
@@ -26,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -74,12 +75,26 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 120 批（AE · 1 次检索：hamdaz.com/contact-us（UAE - HAMDAZTECH TECHNOLOGY SERVICES LLC … Abu Dhabi；HAMDAZ TECHNOLOGIES LLP … Kozhikode … +91 9207773300）+ prospeo.io/c/hamdaz-technologies（Abu Dhabi；Founded 2024；21-50；Jishad Mohammed Vakatel Founder & Ceo）+ tracxn（Hamdaz Technologies Llp；CIN ACA-6304；incorporated Apr 18, 2023；Kozhikode）；2026-10-29，2026-10-29 查；https://hamdaz.com/contact-us/）：**
+
+- 法定名 / 登记号：Hamdaz（hamdaz.com；**官网 contact：UAE = HAMDAZTECH TECHNOLOGY SERVICES LLC, PO Box 5758, Office 22, 2nd Floor, Millennium Tower, opp. Hamdan Centre, Hamdan Street, Abu Dhabi，+971 2 309 0211 / +971 2 626 5780；India = HAMDAZ TECHNOLOGIES LLP, Raha Lavender, Kozhikode, Kerala 673005，+91 92077 73300 = 表内电话 ✓（tracxn：LLP CIN ACA-6304，2023-04-18 成立）；prospeo：2024 年、21–50 人、Founder & CEO Jishad Mohammed Vakatel；业务 = Managed Software Services（IT 服务）**）→ 表内「HAMDAZTECH TECHNOLOGIES INC LLC」+ 沙特 = 误录，实体阿布扎比 → **country_fix 阿联酋**；KP Rea Cabidog 职务未得 · UAE LLC 牌照号未取；印度 LLP CIN ACA-6304（2023-04-18） · 状态 **营业中（官网 + 企业库）** · 成立 2023 / 2024（新壳） · LLC（阿布扎比）+ LLP（印度）
+- 行业码 / 经营范围：IT / 托管软件服务（阿布扎比 + 科泽科德）
+- 注册地址：Office 22, 2nd Floor, Millennium Tower, Hamdan Street, Abu Dhabi, UAE
+- 规模档：小型（21–50 自报）
+- 账目：未取；—
+- 高管：Rea Cabidog — 职务未得（研究档 KP；rea@hamdaz.com）
+- 高管：Jishad Mohammed Vakatel — Founder & CEO（prospeo 2026-10-29；无公开邮箱）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **IT 服务商 + 2023/24 新壳 + 无兴趣描述 + WA 无实质回复 → 不动（B 保留；国别更正阿联酋）**— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关；TDRA / ESMA 不声称）
+- 备注：不动（非目标行业 + 新壳）；部分坐实（官网地址 + 电话；印度 LLP CIN 坐实、UAE 牌照未取）；country_fix 阿联酋。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | HAMDAZTECH TECHNOLOGIES INC LLC | 事实（用户表） |
-| 国家 | 沙特阿拉伯 | 事实（用户表）|
+| 国家 | 阿联酋 | 事实（用户表）|
 | 网站/域名 | hamdaz.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
 | 联系人 | Mr.Rea cabidog | 事实（用户表） |
@@ -99,15 +114,18 @@ updated: 2026-10-28
 - **【用户表】询盘统计表来源，无兴趣描述**
   > （空）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Rea Cabidog（）rea@hamdaz.com +966 52 864 8341（待核）〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Rea Cabidog（联系人（职务未得；研究档 KP）— 不动：IT / 托管软件服务商 + 2023/24 新壳 + WA 无实质回复 — 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜、TDRA / ESMA 不声称（第 120 批 官方登记核实 2026-10-29））rea@hamdaz.com +966 52 864 8341（待核）〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Jishad Mohammed Vakatel（Founder & CEO（prospeo 2026-10-29；无公开邮箱）（第 120 批 官方登记核实 2026-10-29）） 〔〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Hamdaztech Technologies Inc LLC（待核） |
-| 总部/地址 | （沙特 / 印度，待核） |
+| 法定名称 | HAMDAZTECH TECHNOLOGY SERVICES LLC（阿布扎比；牌照号未取）/ HAMDAZ TECHNOLOGIES LLP（印度 Kozhikode；CIN ACA-6304） |
+| 成立 | 2023-04-18（印度 LLP）/ 2024（UAE，prospeo 口径）（第 120 批 官方登记核实 2026-10-29） |
+| 总部/地址 | PO Box 5758, Office 22, 2nd Floor, Millennium Tower, Hamdan Street, Abu Dhabi, UAE（+971 2 309 0211；印度 +91 92077 73300 = 表内电话）（第 120 批 官方登记核实 2026-10-29） |
+| 其他 | 第 120 批：表内「HAMDAZTECH TECHNOLOGIES INC LLC」+ 沙特 = 误录，总部阿布扎比 → country_fix 阿联酋；IT 服务 + 新壳 → **不动（B 保留）**；部分坐实（第 120 批 官方登记核实 2026-10-29） |
 
 - **触达通道（公开）**：role: （未知）；region: 沙特 / 印度
 - **风险/边界**：身份不明；无需求
@@ -161,7 +179,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Rea Cabidog | — | rea@hamdaz.com / +966 52 864 8341（待核） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Rea Cabidog | 联系人（职务未得；研究档 KP）— 不动：IT / 托管软件服务商 + 2023/24 新壳 + WA 无实质回复 — 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜、TDRA / ESMA 不声称（第 120 批 官方登记核实 2026-10-29） | rea@hamdaz.com / +966 52 864 8341（待核） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Jishad Mohammed Vakatel | Founder & CEO（prospeo 2026-10-29；无公开邮箱）（第 120 批 官方登记核实 2026-10-29） | — | 调研核实（公开页） | 调研 |
 | Mr.Rea cabidog | — | rea@hamdaz.com / +528648341 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
@@ -259,12 +278,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 40）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 40）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

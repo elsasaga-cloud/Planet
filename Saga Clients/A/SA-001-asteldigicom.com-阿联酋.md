@@ -28,7 +28,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -111,7 +111,7 @@ updated: 2026-10-28
 - `avssgroup.com` → Microsoft 365（MX：avssgroup-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 - `eim.ae` → Etisalat / du 邮箱（阿联酋）（MX：fmhimail01.emirates.net.ae、fmkimail01.emirates.net.ae）。主机商附带邮箱（Etisalat / du 邮箱（阿联酋））：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（阿联酋 · 按下一步「现在 → 两周内」窗口 2026-10-28→2026-11-11）：**
+**假日避让（阿联酋 · 按下一步「现在 → 两周内」窗口 2026-10-29→2026-11-12）：**
 
 - 窗口内无该国法定假日
 
@@ -441,12 +441,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-11**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 164）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 164）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

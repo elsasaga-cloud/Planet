@@ -24,7 +24,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -71,6 +71,20 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 120 批（PH · 1 次检索：dnb.com（IONE RESOURCES, INC.；Unit 1006 The Centerpoint Condominium Julia Vargas Avenue corner Garnet Road, Ortigas Center, Pasig 1605；Key Principal Alberto A. Catangui）+ verif.com（6202 Computer consultancy；Alberto A. Catangui Chairperson）+ rocketreach（Founded 2002；Employees 45；CEO Alberto Catangui）；SEC 未得；2026-10-29，2026-10-29 查；https://www.dnb.com/business-directory/company-profiles.ione_resources_inc.4dae52036adcd6cbc574241d68b0cb84.html）：**
+
+- 法定名 / 登记号：iOne Resources, Inc.（ioneresources.net；**D&B：Unit 1006 The Centerpoint Condominium, Julia Vargas Avenue cor. Garnet Road, Ortigas Center, Pasig, Metro Manila 1605；verif：6202 计算机咨询，Chairperson Alberto A. Catangui；RocketReach：2002 年成立、约 45 人、CEO Alberto Catangui，Director Joel Orias，VP Operations Charles Catangui，Sales Manager Philip Eleda**）；SEC 号 1 查未得 → 部分坐实；TP-Link 在用；表内阿里巴巴推送来源，未跟进 · 未取（SEC 号 1 查未得） · 状态 **营业中（官网 + 企业库）** · 成立 2002（RocketReach 口径） · Inc.
+- 行业码 / 经营范围：托管 ICT / 现场部署 / 网络安全服务（帕西格）
+- 注册地址：Unit 1006 The Centerpoint Condominium, Julia Vargas Avenue cor. Garnet Road, Ortigas Center, Pasig City 1605, Philippines
+- 规模档：小型（约 45 人）
+- 账目：未取；—
+- 高管：Alberto A. Catangui — CEO / Chairperson（D&B + verif + RocketReach 2026-10-29；研究档 KP acatangui@ioneresources.net）= 收件人
+- 高管：Charles Catangui — VP Operations（RocketReach；无公开邮箱）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **CEO 为 KP、现场部署 / 托管 ICT（TP-Link 在用）→ 集成商 25% B，一页纸一次（STC-028GP $28 / STC-2224GP $86 / STC-4424GCPM $165 + STI-154GP + MOQ 1 + 付费样机）— 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉（买方清关；NTC 不声称）**；再无回声 → 不动
+- 备注：集成商 25%；一页纸一次（预付 100%）；部分坐实（企业库地址 + 成立年 + KP 职务；SEC 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -104,15 +118,18 @@ updated: 2026-10-28
 - **【用户表】阿里巴巴推送**
   > from: 阿里巴巴主动推送的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Alberto Catangui（）acatangui@ioneresources.net 〔用户表〕
+- **KP**：Alberto A. Catangui（CEO / Chairperson（D&B + verif + RocketReach 2026-10-29）= 收件人 — 一页纸一次：集成商 25% B、TP-Link 在用 → STC-028GP / STC-2224GP / STC-4424GCPM + STI-154GP 一口价 + MOQ 1 + 付费样机 — 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉、NTC 不声称（第 120 批 官方登记核实 2026-10-29））acatangui@ioneresources.net 〔用户表〕
+- **KP**：Charles Catangui（VP Operations（RocketReach 2026-10-29；无公开邮箱）（第 120 批 官方登记核实 2026-10-29）） 〔〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 菲律宾 |
-| 其他 | 官网 ioneresources.net，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | iOne Resources, Inc.（SEC 号 1 查未得） |
+| 成立 | 2002（RocketReach 口径）（第 120 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Unit 1006 The Centerpoint Condominium, Julia Vargas Avenue cor. Garnet Road, Ortigas Center, Pasig City 1605, Philippines（第 120 批 官方登记核实 2026-10-29） |
+| 其他 | 官网 ioneresources.net，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 120 批：托管 ICT / 现场部署 / 网络安全服务（6202 计算机咨询）；部分坐实（企业库地址 + 成立年 + KP 职务；SEC 未取）（第 120 批 官方登记核实 2026-10-29） |
 
 - **业务线**：ICT 现场部署 / 托管服务 / 网络安全（菲律宾）
 - **触达通道（公开）**：role: ICT 服务/集成商（菲律宾）；region: 菲律宾；contact: acatangui@ioneresources.net
@@ -175,7 +192,9 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Alberto Catangui | — | acatangui@ioneresources.net | 调研核实（公开页） | 用户表 |
+| Alberto A. Catangui | CEO / Chairperson（D&B + verif + RocketReach 2026-10-29）= 收件人 — 一页纸一次：集成商 25% B、TP-Link 在用 → STC-028GP / STC-2224GP / STC-4424GCPM + STI-154GP 一口价 + MOQ 1 + 付费样机 — 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉、NTC 不声称（第 120 批 官方登记核实 2026-10-29） | acatangui@ioneresources.net | 调研核实（公开页） | 用户表 |
+| Charles Catangui | VP Operations（RocketReach 2026-10-29；无公开邮箱）（第 120 批 官方登记核实 2026-10-29） | — | 调研核实（公开页） | 调研 |
+| Alberto Catangui, CEO | — | acatangui@ioneresources.net / +6326383988 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 
@@ -268,12 +287,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 26）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 26）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

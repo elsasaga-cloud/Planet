@@ -24,7 +24,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -80,6 +80,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 120 批（BR · 1 次检索：jusbrasil.com.br/nome/tramaweb-agencia-de-noticias-ltda（CNPJ 14.254.716/0001-20；15/08/2011；Ativa；6391700 Agências de notícias；R$10.000,00；Rua Cubatao, 86, Conj 1007 Vila Mariana；marcos@tramaweb.com.br）+ econodata + serasaexperian（TRAMAWEB AGENCIA DE NOTICIAS LTDA - ME；ATIVA）；2026-10-29，2026-10-29 查；https://www.econodata.com.br/consulta-empresa/14254716000120-tramaweb-agencia-de-noticias-ltda）：**
+
+- 法定名 / 登记号：tramaweb.com.br（**域名实体 = Tramaweb Agência de Notícias Ltda，CNPJ 14.254.716/0001-20，Rua Cubatão 86, Conj 1007, Vila Mariana, São Paulo 04013-000；2011-08-15 开业；CNAE 6391-7/00 新闻社；资本 R$10,000；marcos@tramaweb.com.br；(11) 3388-3063；ATIVA → 新闻 / 公关公司（Grupo Trama），与表内「MC FS 自己的 logo、别人在卖他们的 MC」业务不符 → 误归属坐实**）；KP Fabio（fabio@tramaweb.com.br）；表内未跟进 · CNPJ 14.254.716/0001-20（域名实体） · 状态 **ATIVA（新闻社）** · 成立 2011-08-15 · Ltda - ME
+- 行业码 / 经营范围：新闻 / 公关传播（圣保罗）— 非网络设备
+- 注册地址：Rua Cubatão 86, Conj 1007, Vila Mariana, São Paulo - SP 04013-000, Brazil
+- 规模档：微型（资本 R$10k）
+- 账目：未取；—
+- 高管：Fabio — 联系人（研究档 KP；fabio@tramaweb.com.br；归属存疑）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **域名实体为新闻社、表内 MC 业务主体无法对应 → 不动（B 保留；误归属；Simon 若有 WA 只问一句公司 / 网站，答后重建档）**— 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方清关、进口税自理；Anatel 不声称）
+- 备注：不动（误归属）；坐实（域名实体 CNPJ + 地址，业务不符）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -112,15 +125,17 @@ updated: 2026-10-28
 - **【用户表】MC FS 自己的 logo**
   > MC FS 自己的logo 别人在卖他们的MC；很多周边产品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Fabio（）fabio@tramaweb.com.br 〔用户表〕
+- **KP**：Fabio（联系人（研究档；归属存疑 — 域名实体为新闻社）— 不动：误归属 — 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（进口税自理）、Anatel 不声称（第 120 批 官方登记核实 2026-10-29））fabio@tramaweb.com.br 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 巴西 |
-| 其他 | 官网 tramaweb.com.br，语言 pt-BR，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Tramaweb Agência de Notícias Ltda - ME（域名实体；CNPJ 14.254.716/0001-20；ATIVA） |
+| 成立 | 2011-08-15（第 120 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Rua Cubatão 86, Conj 1007, Vila Mariana, São Paulo - SP 04013-000（(11) 3388-3063；marcos@tramaweb.com.br）（第 120 批 官方登记核实 2026-10-29） |
+| 其他 | 官网 tramaweb.com.br，语言 pt-BR，快照状态 ok；角色判定来源：用户表；第 120 批：域名实体 = 新闻 / 公关公司（CNAE 6391-7/00），与表内「MC FS 自有 logo」业务不符 → **误归属，不动（B 保留；Simon 若有 WA 只问一句公司 / 网站，答后重建档）**；坐实（CNPJ + 地址，业务不符）（第 120 批 官方登记核实 2026-10-29） |
 
 - **业务线**：（待核）MC / 网络配件
 - **触达通道（公开）**：role: 待核实体（巴西，MC 自有标；站点错配）；region: 巴西；contact: fabio@tramaweb.com.br
@@ -182,7 +197,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Fabio | — | fabio@tramaweb.com.br | 调研核实（公开页） | 用户表 |
+| Fabio | 联系人（研究档；归属存疑 — 域名实体为新闻社）— 不动：误归属 — 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（进口税自理）、Anatel 不声称（第 120 批 官方登记核实 2026-10-29） | fabio@tramaweb.com.br | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -275,12 +290,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

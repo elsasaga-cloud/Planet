@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -74,6 +74,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 120 批（BR · 1 次检索：cnpj.biz/07270661000186（Solus Tecnologia em Sistemas LTDA；07.270.661/0001-86；Rodovia Democrito Moreira 176 Subsl Subsolo Fatima Aracruz ES 29192-243；fundada em 08/03/2005；CNAEs 安防服务）+ zoominfo（176 R. Democrito Moreira, Aracruz；CCTV, access control, structured cabling；Since 2000）+ NF-e PDF（(27) 3256-3002；financeiro@solustecnologia.com；EPP）；2026-10-29，2026-10-29 查；https://cnpj.biz/07270661000186）：**
+
+- 法定名 / 登记号：Solus Tecnologia em Sistemas Ltda EPP（solustecnologia.com；**CNPJ 07.270.661/0001-86；Rodovia Demócrito Moreira 176, Subsolo, Fátima, Aracruz - ES 29192-243；2005-03-08 开业（自述 2000 起）；CNAE 电子安防 / 监控 / 车辆追踪 / 火警服务；(27) 3256-3002；financeiro@solustecnologia.com；ZoomInfo：CCTV / 门禁 / 结构化布线 / 电信安装**）→ 坐实；KP Eduardo；需求 2 光 6 PoE 大壳；WA 6 次无实质回复 · CNPJ 07.270.661/0001-86 · 状态 **ATIVA（推定；NF-e 2022 在开）** · 成立 2005-03-08 · Ltda - EPP
+- 行业码 / 经营范围：电子安防 / CCTV / 布线集成（阿拉克鲁斯，ES）
+- 注册地址：Rodovia Demócrito Moreira 176, Fátima, Aracruz - ES 29192-243, Brazil
+- 规模档：小型（EPP）
+- 账目：未取；—
+- 高管：Eduardo — 联系人（研究档 KP；eduardo@solustecnologia.com）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **20+ 年安防集成商 + 口型明确（2 光 6 PoE）→ 集成商 25% B，一页纸一次（STC-228GP $33 一口价 + STC-2216GP 备选 + 付费样机；葡语备注）— 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方清关、进口税自理；Anatel 不声称）**；再无回声 → 不动
+- 备注：集成商 25%；一页纸一次（预付 100%）；坐实（CNPJ + 地址 + 开业日 + 电话）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -99,17 +112,17 @@ updated: 2026-10-28
 - **【用户表】2 光 6 POE 大壳**
   > 兴趣：2光6POE大壳
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Eduardo（）eduardo@solustecnologia.com +55 27 99874 0449〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Eduardo（联系人（研究档）= 收件人 — 一页纸一次：集成商 25% B、2 光 6 PoE → STC-228GP 一口价 + STC-2216GP 备选 + 付费样机；葡语备注 — 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（进口税自理）、Anatel 不声称（第 120 批 官方登记核实 2026-10-29））eduardo@solustecnologia.com +55 27 99874 0449〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Solus Tecnologia |
-| 成立 | 约 2005（20+ 年） |
-| 总部/地址 | Espírito Santo, Brazil |
-| 其他 | 政府项目（守界：按单核） |
+| 法定名称 | Solus Tecnologia em Sistemas Ltda EPP（CNPJ 07.270.661/0001-86） |
+| 成立 | 2005-03-08（自述 2000 起）（第 120 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Rodovia Demócrito Moreira 176, Fátima, Aracruz - ES 29192-243（(27) 3256-3002）（第 120 批 官方登记核实 2026-10-29） |
+| 其他 | 政府项目（守界：按单核）；第 120 批：电子安防 / CCTV / 门禁 / 布线集成（CNAE 安防服务）；坐实（CNPJ + 地址 + 开业日 + 电话）（第 120 批 官方登记核实 2026-10-29） |
 
 - **业务线**：CFTV / 报警 / 门禁 / 自动化集成
 - **触达通道（公开）**：role: 安防集成商；region: 巴西 ES 州
@@ -174,7 +187,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Eduardo | — | eduardo@solustecnologia.com / +55 27 99874 0449 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Eduardo | 联系人（研究档）= 收件人 — 一页纸一次：集成商 25% B、2 光 6 PoE → STC-228GP 一口价 + STC-2216GP 备选 + 付费样机；葡语备注 — 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（进口税自理）、Anatel 不声称（第 120 批 官方登记核实 2026-10-29） | eduardo@solustecnologia.com / +55 27 99874 0449 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 
@@ -266,12 +279,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 39）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 39）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

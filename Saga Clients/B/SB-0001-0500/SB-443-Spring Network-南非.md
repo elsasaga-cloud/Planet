@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -74,9 +74,22 @@ updated: 2026-10-28
 
 - `gmail.com` → Google Workspace（MX：gmail-smtp-in.l.google.com、alt1.gmail-smtp-in.l.google.com、alt2.gmail-smtp-in.l.google.com、alt3.gmail-smtp-in.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
 
-**假日避让（南非 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
+**假日避让（南非 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
 
 - 法定假日：11-04 Local Government Elections —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+
+**公司底数 · 第 120 批（0 查（gmail + 无域名）；2026-10-29，2026-10-29 查；）：**
+
+- 法定名 / 登记号：Spring Network（**gmail + 无域名 → 0 查**）— 南非网络承包商 Sylvanus Adejumo（表内「可以多跟进一下」）；需求 4 光 8 电工业大壳 PoE；已持有 2 光 4 与 154 同口型机；2025-10 DAC 资料 + 邮件跟进 · 0 查 · 状态 **互动中（2024 回复）** · 成立 — · 个体 / 微型
+- 行业码 / 经营范围：网络承包（南非）
+- 注册地址：未取
+- 规模档：微型
+- 账目：未取；—
+- 高管：Sylvanus Adejumo — 业主（研究档 KP；adejumokojo@gmail.com）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **口型明确（4 光 8 电工业 PoE）+ 曾回复 → 集成商 25% B，一页纸一次（STI-488DGGPM $147 一口价 + 付费样机；DAC 不供明说）— 南非常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 约堡（买方清关；ICASA / NRCS 不声称）**；再无回声 → 不动
+- 备注：集成商 25%；一页纸一次（预付 100%）；0 查（gmail）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -100,15 +113,16 @@ updated: 2026-10-28
 - **【用户表】兴趣：4 光 8 工业大壳 PoE；回复：2 光 4 已经有了；4/8 口工业 PoE→有 154 了；DAC→email 也发了**
   > 兴趣：4光8工业大壳 PoE；回复：已经有了；有154了；email也发了
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Sylvanus Adejumo（）adejumokojo@gmail.com +27 73 427 3414〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Sylvanus Adejumo（业主（网络承包商）= 收件人 — 一页纸一次：集成商 25% B、4 光 8 电工业 PoE → STI-488DGGPM 一口价 + 付费样机；DAC 不供明说 — 南非常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 约堡、ICASA / NRCS 不声称（第 120 批 官方登记核实 2026-10-29））adejumokojo@gmail.com +27 73 427 3414〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · 无域名 · 仅表内信息）
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | （待核） |
+| 法定名称 | 未取（Spring Network；gmail + 无域名 → 0 查） |
 | 总部/地址 | 南非（表内） |
+| 其他 | 第 120 批：0 查；口型明确 + 曾回复 → 一页纸一次（预付 100%）（第 120 批 官方登记核实 2026-10-29） |
 
 - **业务线**：网络 / 工业以太网安装（推断）
 - **触达通道（公开）**：role: 承包商 / 安装商；region: 南非
@@ -171,7 +185,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Sylvanus Adejumo | — | adejumokojo@gmail.com / +27 73 427 3414 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Sylvanus Adejumo | 业主（网络承包商）= 收件人 — 一页纸一次：集成商 25% B、4 光 8 电工业 PoE → STI-488DGGPM 一口价 + 付费样机；DAC 不供明说 — 南非常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 约堡、ICASA / NRCS 不声称（第 120 批 官方登记核实 2026-10-29） | adejumokojo@gmail.com / +27 73 427 3414 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Mr.Sylvanus Adejumo | — | adejumokojo@gmail.com / +27734273414 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；仅免费邮箱：可发，但优先找官网公开的企业邮箱（见调研 KP）
@@ -266,12 +280,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 41）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 41）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

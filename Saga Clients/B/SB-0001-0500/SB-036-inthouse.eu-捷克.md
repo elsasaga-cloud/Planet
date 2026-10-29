@@ -28,7 +28,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -74,9 +74,9 @@ updated: 2026-10-28
 
 - `inthouse.eu` → Zoho Mail（MX：mx.zoho.com、mx2.zoho.com）。中小企业云邮箱（Zoho Mail）：过滤中等、像素一般可用；这类公司邮箱通常老板或销售本人收，信要短、带型号和一口价
 
-**假日避让（捷克 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
+**假日避让（捷克 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
 
-- 法定假日：10-28 Independent Czechoslovak State Day；11-17 Struggle for Freedom and Democracy Day and International Students' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 法定假日：11-17 Struggle for Freedom and Democracy Day and International Students' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
 **公司底数 · 第 107 批（CZ · 1 次检索：or.justice.cz（Inthouse Systems s.r.o.；IČO 054 05 947；C 263202 Městský soud v Praze；Den zápisu 19. září 2016；Grafická 769/9 Smíchov）+ rejstrik.penize.cz（Jednatel Andrej Hraško Bratislava od 19.9.2016；Jednatel Matej Snoha Banská Bystrica od 5.1.2017；每位 jednatel 单独代表）+ kurzy.cz（Z. kapitál 2 000 Kč）+ hlidacstatu（Skuteční majitelé Hraško + Snoha 2022-09-30）+ inthouse.eu Privacy（Inthouse Systems s.r.o. Grafická 769/9 … IČO 05405947），2026-10-28 查；https://rejstrik.penize.cz/05405947-inthouse-systems-s-r-o）：**
 
@@ -328,12 +328,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 68）；人工/调研定级 → B
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 68）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

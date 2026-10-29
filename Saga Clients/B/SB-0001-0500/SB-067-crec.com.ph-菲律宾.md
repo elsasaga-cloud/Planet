@@ -28,7 +28,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -84,9 +84,23 @@ updated: 2026-10-28
 
 - `crec.com.ph` → 自建 / 同域名邮件服务器（MX：mcc-mail.protection1.megawide.com.ph、mcc-mail.protection2.megawide.com.ph）。自建邮件服务器：有自己的 IT（可能灰名单 → 首封延迟几小时才进箱），像素可用；读信的是技术人，参数先于价格
 
-**假日避让（菲律宾 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
+**假日避让（菲律宾 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
 
 - 法定假日：11-01 All Saints' Day；11-02 All Souls' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+
+**公司底数 · 第 120 批（PH · 1 次检索：edge.pse.com.ph SEC Form 17-C（SEC Identification Number CS201807415；BIR 010-007-383-000；Citicore Renewable Energy Corporation；11F Rockwell Santolan Town Plaza, 276 Col. …）+ crec.com.ph 1Q2025 SEC 17-Q（SEC Registration No. CS201807415；San Juan City；8826-5698）+ dnb（Oliver Y. Tan）；2026-10-29，2026-10-29 查；https://edge.pse.com.ph/downloadHtml.do?file_id=1777348）：**
+
+- 法定名 / 登记号：Citicore Renewable Energy Corporation（CREC；crec.com.ph；**SEC Reg. No. CS201807415；BIR TIN 010-007-383-000；11F Rockwell Santolan Town Plaza, 276 Col. Bonny Serrano Avenue, San Juan City, Metro Manila 1500；+632 8826 5698；PSE 上市（SEC 17-C 2025-06-18 / 17-Q 1Q2025）；Key Principal Oliver Y. Tan；行业 D35100 电力生产**）；表内 info@；曾外采 Maiwe；采购经 EPC · SEC CS201807415（TIN 010-007-383-000） · 状态 **营业中（上市；季报在）** · 成立 2018（SEC 号前缀 CS2018） · Stock Corporation（PSE 上市）
+- 行业码 / 经营范围：可再生能源发电（光伏 / 水电；D35100）
+- 注册地址：11F Rockwell Santolan Town Plaza, 276 Col. Bonny Serrano Avenue, San Juan City, Metro Manila 1500, Philippines
+- 规模档：大型（上市）
+- 账目：未取；—
+- 高管：Oliver Y. Tan — Key Principal（D&B 2026-10-29；无公开邮箱）
+- 高管：（研究档无 KP：info@crec.com.ph）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **上市电力终端用户 + 采购经 EPC / O&M → 不动（B 保留；守界：电力按单核；其 EPC / 集成商（如 SB-071 NKS）才是对口）**— 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉（买方清关；NTC 不声称）
+- 备注：不动（上市电力终端；按单核）；坐实（SEC 号 + TIN + 地址 + 披露文件）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -123,6 +137,7 @@ updated: 2026-10-28
   > 买了迈威的 / 做项目的 / 富通天下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） 〔用户 Clients 表〕
+- **KP**：Oliver Y. Tan（Key Principal（D&B 2026-10-29；无公开邮箱）— 不动：上市电力终端用户，采购经 EPC（第 120 批 官方登记核实 2026-10-29）） 〔〕
 - **调研后定级**：B（原自动 A）——在采同类国产工业交换机但冷名单无回复、菲律宾非主攻区 → B。
 - 备注：一封'迈威对位 STI 工业线'邮件。
 
@@ -130,10 +145,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Citicore Renewable Energy Corporation（SEC CS201807415；PSE: CREC） |
-| 成立 | 2015（LinkedIn） |
-| 总部/地址 | San Juan City, Metro Manila（+632 8826 5698；corpaffairs@crec.com.ph） |
-| 其他 | 2024-06 IPO 募资 53 亿比索；GEA-4 中标 1,212 MW |
+| 法定名称 | Citicore Renewable Energy Corporation（SEC Reg. No. CS201807415；BIR TIN 010-007-383-000；PSE 上市） |
+| 成立 | 2018（SEC 号前缀；SEC 17-C 2025-06-18）（第 120 批 官方登记核实 2026-10-29） |
+| 总部/地址 | 11F Rockwell Santolan Town Plaza, 276 Col. Bonny Serrano Avenue, San Juan City, Metro Manila 1500（+632 8826 5698）（第 120 批 官方登记核实 2026-10-29） |
+| 其他 | 2024-06 IPO 募资 53 亿比索；GEA-4 中标 1,212 MW；第 120 批：上市可再生能源发电终端 + 采购经 EPC / O&M → **不动（B 保留；电力按单核；对口的是其集成商如 SB-071 NKS）**；坐实（SEC 披露文件）（第 120 批 官方登记核实 2026-10-29） |
 
 - **业务线**：光伏电站开发/运营（含储能）；径流水电、海上风电
 - **触达通道（公开）**：网站: https://www.crec.com.ph/；电话: +632 8826 5698（公开）；邮箱: info@crec.com.ph（用户表）；corpaffairs@crec.com.ph（公开）
@@ -197,7 +212,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@crec.com.ph | 用户表原值 | Clients/ 表 |
+| Oliver Y. Tan | Key Principal（D&B 2026-10-29；无公开邮箱）— 不动：上市电力终端用户，采购经 EPC（第 120 批 官方登记核实 2026-10-29） | — | 调研核实（公开页） | 调研 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -264,7 +279,7 @@ updated: 2026-10-28
 **主题**：STI-288DGGPM - industrial DIN-rail L2+ managed switch (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Oliver,
 
 Thank you again for your earlier order with us - this is a short update rather than a cold mail. Hello CREC engineering team, for the ring networks in your new solar plants: DIN-rail 2× SFP + 8× GbE L2+ switches with ERPS (<20 ms), −40/+75 °C, at $71.0 EXW non-PoE / $137.5 PoE+ — may I send a datasheet to the EPC or O&M engineer who specifies plant networking?
 
@@ -289,12 +304,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 61）；人工/调研定级 → B
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 61）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

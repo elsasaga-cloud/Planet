@@ -28,7 +28,7 @@ price_tier: 25%
 research: done
 site_snapshot: timeout  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -91,9 +91,22 @@ updated: 2026-10-28
 
 - `pt-aag.co.id` → 同域名 MX → 托管在 rumahweb.net（MX：mail.pt-aag.co.id）。主机商附带邮箱（同域名 MX → 托管在 rumahweb.net）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（印度尼西亚 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
+**假日避让（印度尼西亚 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
 
 - 窗口内无该国法定假日
+
+**公司底数 · 第 120 批（ID · 1 次检索：pt-aag.co.id/?page_id=57（Sawangan Permai, Jalan Anggrek Blok B5 no.2, Rt.03 Rw.09, DEPOK 16519；Jalan MPR 1 … Jakarta Selatan 12430；marketing@pt-aag.co.id；+62 851-8282-8360；Anugerah Artha Guna Konsultan IT – Aplikasi – Jaringan）；NIB 未得；2026-10-29，2026-10-29 查；https://pt-aag.co.id/?page_id=57）：**
+
+- 法定名 / 登记号：PT Anugerah Artha Guna（pt-aag.co.id；**官网 contact：Sawangan Permai, Jalan Anggrek Blok B5 no.2, RT.03 RW.09, Depok 16519；另址 Jalan MPR 1, RT.03 RW.11, Jakarta Selatan 12430；marketing@pt-aag.co.id；+62 851-8282-8360（WA）；「Konsultan IT – Aplikasi – Jaringan」= IT / 应用 / 网络顾问**）；NIB / NPWP 1 查未得 → 部分坐实；表内 2011 年买过 12 台延长器（老客户）；KP gunawan@（研究档「见 Clients 表联系人」） · 未取（NIB / NPWP 1 查未得） · 状态 **营业中（官网在）** · 成立 未取 · PT
+- 行业码 / 经营范围：IT / 网络顾问与集成（德波 / 南雅加达）
+- 注册地址：Sawangan Permai, Jalan Anggrek Blok B5 no.2, RT.03 RW.09, Depok 16519, Indonesia
+- 规模档：小型
+- 账目：未取；—
+- 高管：Gunawan — 联系人（研究档 / Clients 表；gunawan@pt-aag.co.id）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **2011 老客户（延长器 12 台）+ IT 网络集成 → 集成商 25% B，回访一页纸一次（延长器不供 → STC-028GP $28 / STC-228GP $33 / STI-054GP + MOQ 1 + 付费样机；以 2011 成交为开场）— 印尼常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 雅加达（买方清关；SDPPI / Postel 不声称）**；再无回声 → 不动
+- 备注：集成商 25%；回访一页纸一次（预付 100%）；部分坐实（官网地址 + 电话；法定名解出 PT Anugerah Artha Guna；NIB 未取）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -121,6 +134,7 @@ updated: 2026-10-28
   > 2011年买过12台延长器（用户 Clients 表摘录）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） 〔用户 Clients 表〕
+- **KP**：Gunawan（联系人（Clients 表 / entities 邮箱；职务待核）= 收件人 — 回访一页纸一次：集成商 25% B、2011 成交（延长器 12 台）为开场 → 延长器不供 → STC-028GP / STC-228GP / STI-054GP 一口价 + MOQ 1 + 付费样机 — 印尼常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 雅加达、SDPPI 不声称（第 120 批 官方登记核实 2026-10-29））gunawan@pt-aag.co.id 〔〕
 - **调研后定级**：B（原自动 A）——2011 年一次小额成交后沉寂 14 年、公司名不完整（PT. Anugerah 为常见前缀，主体待核）→ B 待机。
 - 备注：回访一封；待补证：完整公司名与网站。
 
@@ -128,9 +142,9 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | PT. Anugerah（pt-aag.co.id；全称待核） |
-| 总部/地址 | Indonesia |
-| 其他 | 2011 年买过 12 台延长器；E 冷名单 1 次跟进 |
+| 法定名称 | PT Anugerah Artha Guna（pt-aag.co.id 官网；NIB / NPWP 1 查未得） |
+| 总部/地址 | Sawangan Permai, Jalan Anggrek Blok B5 no.2, RT.03 RW.09, Depok 16519（另址 Jalan MPR 1, Jakarta Selatan 12430；+62 851-8282-8360）（第 120 批 官方登记核实 2026-10-29） |
+| 其他 | 2011 年买过 12 台延长器；E 冷名单 1 次跟进；第 120 批：IT / 应用 / 网络顾问与集成；法定名解出；部分坐实（官网地址 + 电话；NIB 未取）（第 120 批 官方登记核实 2026-10-29） |
 
 - **业务线**：（待核）网络/安防设备贸易
 - **触达通道（公开）**：邮箱: gunawan@pt-aag.co.id（用户表）
@@ -198,6 +212,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
+| Gunawan | 联系人（Clients 表 / entities 邮箱；职务待核）= 收件人 — 回访一页纸一次：集成商 25% B、2011 成交（延长器 12 台）为开场 → 延长器不供 → STC-028GP / STC-228GP / STI-054GP 一口价 + MOQ 1 + 付费样机 — 印尼常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 雅加达、SDPPI 不声称（第 120 批 官方登记核实 2026-10-29） | gunawan@pt-aag.co.id | 调研核实（公开页） | 调研 |
 | Mr. Nur | — | gunawan@pt-aag.co.id | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
@@ -267,7 +282,7 @@ updated: 2026-10-28
 **主题**：STC-228GP - 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (neutral label)
 
 ```text
-Hi Nur,
+Hi Gunawan,
 
 Thank you again for your earlier order with us - this is a short update rather than a cold mail. Pak Nur / Pak Gunawan, after the 12 extenders in 2011: for long-reach camera links we now recommend a 2× SFP + 8× PoE switch at $34.6 EXW (fibre instead of extenders) — are your current projects still copper-extender based, or moving to fibre?
 
@@ -292,12 +307,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 63）；人工/调研定级 → B
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 63）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

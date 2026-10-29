@@ -25,7 +25,7 @@ price_tier: 25%
 research: done
 site_snapshot: parked_or_empty  # 2026-10-21
 sources: 2
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -71,9 +71,22 @@ updated: 2026-10-28
 
 - `marzetek.com` → 主机商 cPanel 类邮箱（MX：mail.marzetek.com）。主机商附带邮箱（主机商 cPanel 类邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（南非 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
+**假日避让（南非 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
 
 - 法定假日：11-04 Local Government Elections —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+
+**公司底数 · 第 120 批（ZA · 1 次检索：dffe.gov.za/sites/default/files/tenders/rfq000908.24.25bidsreceived__printercartridges.pdf（50. Marzetek (Pty) Ltd）；其余无命中；2026-10-29，2026-10-29 查；https://www.dffe.gov.za/sites/default/files/tenders/rfq000908.24.25bidsreceived__printercartridges.pdf）：**
+
+- 法定名 / 登记号：Marzetek (Pty) Ltd（marzetek.com；**1 查唯一命中 = 南非环境部 DFFE RFQ 000908 (24/25) 打印耗材投标收到名单第 50 位「Marzetek (Pty) Ltd」→ 政府投标杂货供应商；地址 / 注册号未得 → 未坐实；官网为托管占位页**）；表内「4+24、4+48 10G 光」；KP Lloyd Thembani Moyo（Sales Engineer）；群发 7 次无回复 · 未取（仅投标名单证实 (Pty) Ltd 存在） · 状态 **存续（2024/25 投标在册）** · 成立 未取 · (Pty) Ltd
+- 行业码 / 经营范围：政府投标综合供应（南非）
+- 注册地址：未取
+- 规模档：微型（推定）
+- 账目：未取；—
+- 高管：Lloyd Thembani Moyo — Sales Engineer（研究档 KP；procurement@marzetek.com）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **政府投标杂货供应商 + 官网占位 + 7×0 → 不动（B 保留；来询按分销 20% 报 STC-4424GCPM / STC-448XGGPM + 预付 100%）**— 南非常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 约堡（买方清关；ICASA / NRCS 不声称）
+- 备注：不动（投标杂货商 + 7×0）；未坐实（仅投标名单）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -111,15 +124,16 @@ updated: 2026-10-28
 - **【用户表】4+24 4+48 10G 光**
   > 4+24, 4+48 10G光
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Lloyd Thembani Moyo（）procurement@marzetek.com 〔用户表〕
+- **KP**：Lloyd Thembani Moyo（Sales Engineer（研究档）— 不动：1 查唯一命中 = DFFE 打印耗材投标名单（政府投标杂货供应商）+ 官网占位 + 7×0 — 南非常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 约堡、ICASA / NRCS 不声称（第 120 批 官方登记核实 2026-10-29））procurement@marzetek.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
+| 法定名称 | Marzetek (Pty) Ltd（仅 DFFE RFQ 000908 (24/25) 投标收到名单第 50 位证实存在；地址 / 注册号未得） |
 | 总部/地址 | 南非 |
-| 其他 | 官网 marzetek.com，语言 en，快照状态 parked_or_empty；角色判定来源：待核 |
+| 其他 | 官网 marzetek.com，语言 en，快照状态 parked_or_empty；角色判定来源：待核；第 120 批：未坐实；政府投标杂货供应商 → **不动（B 保留）**（第 120 批 官方登记核实 2026-10-29） |
 
 - **业务线**：IT / 网络方案（南非）
 - **触达通道（公开）**：role: IT/网络方案商（南非，24/48 口 + 4×10G 需求）；region: 南非；contact: procurement@marzetek.com
@@ -198,7 +212,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Lloyd Thembani Moyo | — | procurement@marzetek.com | 调研核实（公开页） | 用户表 |
+| Lloyd Thembani Moyo | Sales Engineer（研究档）— 不动：1 查唯一命中 = DFFE 打印耗材投标名单（政府投标杂货供应商）+ 官网占位 + 7×0 — 南非常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 约堡、ICASA / NRCS 不声称（第 120 批 官方登记核实 2026-10-29） | procurement@marzetek.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 
@@ -293,12 +307,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 34）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 34）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

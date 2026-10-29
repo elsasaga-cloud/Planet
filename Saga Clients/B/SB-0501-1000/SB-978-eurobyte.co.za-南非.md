@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -72,6 +72,20 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 120 批（ZA · 1 次检索：dnb.com（EUROBYTE TECHNOLOGY (PTY) LTD；UNIT 8 CAMBRIDGE COMMERCIAL PARK, 22 WITKOPPEN RD BRYANSTON, GAUTENG, 2056）+ yellosa（22 Witkoppen Road, Paulshof 2191；011 234 0142；distributes international brands in the ICT sector）+ goafricaonline（CCTV Distributor, Networking and IT Hardware）；CIPC 未得；2026-10-29，2026-10-29 查；https://www.dnb.com/business-directory/company-profiles.eurobyte_technology_(pty)_ltd.f635a8c40b418ebbcf68375205c68200.html）：**
+
+- 法定名 / 登记号：Eurobyte Technology (Pty) Ltd（eurobyte.co.za；**D&B：Unit 8 Cambridge Commercial Park, 22 Witkoppen Rd, Bryanston / Paulshof, Gauteng 2056；011 234 0142；ICT / 安防 / 网络 / 电源方案分销（在售 PLANET 工业 4 / 5 口 + MC、Ruijie / Huawei / Uniview）；yellosa 2013 年在册**）；CIPC 注册号 1 查未得 → 部分坐实；KP Jacqueline Irshwadhar（Network Product Manager）/ Tiffany Hope · 未取（CIPC 注册号 1 查未得） · 状态 **营业中（官网 + 企业库）** · 成立 未取（名录 2013 在册） · (Pty) Ltd
+- 行业码 / 经营范围：ICT / CCTV / 网络硬件分销（布莱恩斯顿，豪登）
+- 注册地址：Unit 8 Cambridge Commercial Park, 22 Witkoppen Rd, Bryanston, Gauteng 2056, South Africa
+- 规模档：小型
+- 账目：未取；—
+- 高管：Jacqueline Irshwadhar — Network Product Manager（研究档 KP；jacqueline@eurobyte.co.za）= 收件人
+- 高管：Tiffany Hope — 联系人（研究档 KP）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **在售 PLANET 工业 4 / 5 口 + 网络产品经理为 KP → 分销 20% B，一页纸一次（直接对价：STI-054GP / STI-154GP + STC-110XGE $65 + STI-280GE $46.6；MOQ 1 + 付费样机）— 南非常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 约堡（买方清关；ICASA / NRCS 不声称）**；回信 → 加厚
+- 备注：分销 20%；一页纸一次（预付 100%）；部分坐实（D&B 地址 + 电话；CIPC 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -116,7 +130,7 @@ updated: 2026-10-28
 - **【用户表】在用 Planet 的**
   > 在用Planet的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Jacqueline Irshwadhar（）jacqueline@eurobyte.co.za 〔用户表〕
+- **KP**：Jacqueline Irshwadhar（Network Product Manager（研究档）= 收件人 — 一页纸一次：分销 20% B、直接对价在售 PLANET 工业 4 / 5 口 → STI-054GP / STI-154GP + STC-110XGE + STI-280GE 一口价 + MOQ 1 + 付费样机 — 南非常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 约堡、ICASA / NRCS 不声称（第 120 批 官方登记核实 2026-10-29））jacqueline@eurobyte.co.za 〔用户表〕
 - **KP**：Tiffany Hope（） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
@@ -124,8 +138,9 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 南非 |
-| 其他 | 官网 eurobyte.co.za，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Eurobyte Technology (Pty) Ltd（D&B；CIPC 注册号 1 查未得） |
+| 总部/地址 | Unit 8 Cambridge Commercial Park, 22 Witkoppen Rd, Bryanston / Paulshof, Gauteng 2056（011 234 0142）（第 120 批 官方登记核实 2026-10-29） |
+| 其他 | 官网 eurobyte.co.za，语言 en，快照状态 ok；角色判定来源：官网文案；第 120 批：ICT / CCTV / 网络硬件分销（PLANET / Ruijie / Huawei / Uniview）；部分坐实（D&B 地址 + 电话；CIPC 未取；名录 2013 在册）（第 120 批 官方登记核实 2026-10-29） |
 
 - **业务线**：安防 / 网络 / IT / 电源方案分销
 
@@ -220,7 +235,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Jacqueline Irshwadhar | — | jacqueline@eurobyte.co.za | 调研核实（公开页） | 用户表 |
+| Jacqueline Irshwadhar | Network Product Manager（研究档）= 收件人 — 一页纸一次：分销 20% B、直接对价在售 PLANET 工业 4 / 5 口 → STI-054GP / STI-154GP + STC-110XGE + STI-280GE 一口价 + MOQ 1 + 付费样机 — 南非常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 约堡、ICASA / NRCS 不声称（第 120 批 官方登记核实 2026-10-29） | jacqueline@eurobyte.co.za | 调研核实（公开页） | 用户表 |
 | Tiffany Hope | — | — | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
@@ -315,12 +330,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 26）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 26）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -25,7 +25,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -87,6 +87,19 @@ updated: 2026-10-28
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 - 【惯例】12-11→01-11：南非 builders' holiday：工程 / 安装类客户 12 月中到 1 月中停工
 
+**公司底数 · 第 120 批（ZA · 1 次检索：basithamitech.com/contact-us（BASITHAMI TRADING AND PROJECTS Trading as BASITHAMI TECHNOLOGY；10313 c/o Pudi & Tshepe Street Kagiso Ext 4. Mogale City；+27-11-419-3110；20 Years）+ cybo（Electronics repair；Krugersdorp）；CIPC 未得；2026-10-29，2026-10-29 查；https://www.basithamitech.com/contact-us/）：**
+
+- 法定名 / 登记号：Basithami Trading and Projects t/a Basithami Technology（basithamitech.com；**官网 contact：10313 c/o Pudi & Tshepe Street, Kagiso Ext 4, Mogale City（克鲁格斯多普）；+27 11 419 3110；claims@ / info@；自述安防安装 20 年；名录另列「电子维修」**）；CIPC 注册号 1 查未得 → 部分坐实；表内「工商业 FS 有 Utepo 的」；群发 15 次无回复；无具名 KP · 未取（CIPC 注册号 1 查未得） · 状态 **营业中（官网 2020 + 名录）** · 成立 约 2000（自述 20 年） · (Pty) Ltd / 商号（Trading as）
+- 行业码 / 经营范围：安防安装 / 家庭自动化 / 电子维修（莫哈莱市）
+- 注册地址：10313 c/o Pudi & Tshepe Street, Kagiso Ext 4, Mogale City, Gauteng, South Africa
+- 规模档：微型
+- 账目：未取；—
+- 高管：（无具名 KP：info@basithamitech.com）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **微型安装商 + 15×0 + 无具名 KP → 不动（B 保留）**— 南非常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 约堡（买方清关；ICASA / NRCS 不声称）
+- 备注：不动（微型 + 15×0 + 无 KP）；部分坐实（官网地址 + 电话；CIPC 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -136,8 +149,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 南非 |
-| 其他 | 官网 basithamitech.com，语言 en-ZA，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Basithami Trading and Projects t/a Basithami Technology（官网自述；CIPC 注册号 1 查未得） |
+| 成立 | 约 2000（自述 20 年）（第 120 批 官方登记核实 2026-10-29） |
+| 总部/地址 | 10313 c/o Pudi & Tshepe Street, Kagiso Ext 4, Mogale City, Gauteng（+27 11 419 3110）（第 120 批 官方登记核实 2026-10-29） |
+| 其他 | 官网 basithamitech.com，语言 en-ZA，快照状态 ok；角色判定来源：官网文案；第 120 批：微型安防安装 / 电子维修 + 15×0 + 无具名 KP → **不动（B 保留）** — 南非常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 约堡、ICASA / NRCS 不声称；部分坐实（官网地址 + 电话）（第 120 批 官方登记核实 2026-10-29） |
 
 - **业务线**：报警 / 自动化 / 摄像安装（南非）
 - **触达通道（公开）**：role: 安防/自动化安装商（南非，Utepo 在用）；region: 南非；contact: info@basithamitech.com
@@ -329,12 +344,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 29）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 29）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

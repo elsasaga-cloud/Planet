@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: mismatch  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -73,6 +73,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 120 批（0 查（通名 + gmail；表内域名误归）；2026-10-29，2026-10-29 查；）：**
+
+- 法定名 / 登记号：Agile Network（宿务 Pari-an；**gmail + 通名 → 0 查**；表内域名 agilenetworks.com 为美国 ISP，不采信）— CEO Neil Rule；2024-08 问 10G MC 单模 / 多模是否同价；20 次推送 1 次实质回复 · 0 查 · 状态 **互动中（1 次）** · 成立 — · 未取
+- 行业码 / 经营范围：小型网络公司（宿务）
+- 注册地址：Pari-an, Cebu City, Philippines（表内）
+- 规模档：小型
+- 账目：未取；—
+- 高管：Neil Rule — CEO（表内；ph.agilenetwork@gmail.com）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **CEO 为 KP + 10G MC 具体问题曾被问 → 集成商 25% B，一页纸一次（STC-110XGE $65 一口价 + 光模块不供明说 + STC-228GP；MOQ 1 + 付费样机）— 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉（买方清关；NTC 不声称）**；再无回声 → 不动
+- 备注：集成商 25%；一页纸一次（预付 100%）；0 查（gmail）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -98,17 +111,17 @@ updated: 2026-10-28
 - **【用户表】表内地址与联系人**
   > Neil Rule / CEO；Address: PH, CEBU, UNIT 202 HTY BLDG., 57 J.C. ZAMORA ST., PARI-AN 6000；2024.8.14 10G MC → 单多模价格一样吗？
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Neil Rule（CEO（表内））ph.agilenetwork@gmail.com +63 917 322 5477（WA 已加）〔用户 Clients 表〕
+- **KP**：Neil Rule（CEO（表内）= 收件人 — 一页纸一次：集成商 25% B、STC-110XGE 一口价（光模块不供明说）+ STC-228GP + 付费样机 — 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉、NTC 不声称（第 120 批 官方登记核实 2026-10-29））ph.agilenetwork@gmail.com +63 917 322 5477（WA 已加）〔用户 Clients 表〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（域名误配判定 + 需求映射））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | 待核（表内 Agile Network / Agile Networks） |
+| 法定名称 | 未取（Agile Network，宿务 Pari-an；通名 + gmail → 0 查；表内域名 agilenetworks.com 为美国 ISP，误归） |
 | 成立 | 待核 |
 | 总部/地址 | Unit 202 HTY Bldg., 57 J.C. Zamora St., Pari-an, Cebu City 6000, Philippines（表内地址） |
-| 其他 | 联系人 Neil Rule / CEO，+63 917 322 5477（WA 已加），ph.agilenetwork@gmail.com |
+| 其他 | 联系人 Neil Rule / CEO，+63 917 322 5477（WA 已加），ph.agilenetwork@gmail.com；第 120 批：0 查；CEO 为 KP + 2024-08 问过 10G MC 单 / 多模价 → 一页纸一次（预付 100%）（第 120 批 官方登记核实 2026-10-29） |
 
 - **业务线**：待核（表内：工业网络产品采购 / 10G 光纤收发器询价）
 - **触达通道（公开）**：contact: Neil Rule（CEO）ph.agilenetwork@gmail.com，+63 917 322 5477（WA 已加）
@@ -182,7 +195,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Neil Rule | CEO（表内） | ph.agilenetwork@gmail.com / +63 917 322 5477（WA 已加） | 调研核实（公开页） | 用户 Clients 表 |
+| Neil Rule | CEO（表内）= 收件人 — 一页纸一次：集成商 25% B、STC-110XGE 一口价（光模块不供明说）+ STC-228GP + 付费样机 — 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉、NTC 不声称（第 120 批 官方登记核实 2026-10-29） | ph.agilenetwork@gmail.com / +63 917 322 5477（WA 已加） | 调研核实（公开页） | 用户 Clients 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；仅免费邮箱：可发，但优先找官网公开的企业邮箱（见调研 KP）
 
@@ -276,12 +289,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 55）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 55）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

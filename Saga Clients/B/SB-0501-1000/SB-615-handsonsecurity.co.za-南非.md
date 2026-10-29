@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -71,9 +71,22 @@ updated: 2026-10-28
 
 - `handsonsecurity.co.za` → Microsoft 365（MX：handsonsecurity-co-za.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 
-**假日避让（南非 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
+**假日避让（南非 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
 
 - 法定假日：11-04 Local Government Elections —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+
+**公司底数 · 第 120 批（ZA · 1 次检索：dnb.com（HANDS ON SECURITY (PTY) LTD；17 PIERNEEF BLV, 7 SHOP MEYERTON, GAUTENG, 1961）+ fire-and-security.co.za / cctvinstallers.co.za（Meyerton；CCTV solutions；owner-led site visits；Unit 4, 49 Galloway St）；CIPC 未得；2026-10-29，2026-10-29 查；https://www.dnb.com/business-directory/company-profiles.hands_on_security_(pty)_ltd.2cea8d8ccfec6c5f6995d3df421911bb.html）：**
+
+- 法定名 / 登记号：Hands On Security (Pty) Ltd（handsonsecurity.co.za；**D&B：17 Pierneef Blvd, Shop 7, Meyerton, Gauteng 1961；另址 Unit 4, 49 Galloway St, Meyerton；业主亲自勘察的本地 CCTV / 报警 / 自动化安装商（住宅 / 商业 / 工业）**）；CIPC 注册号 1 查未得 → 部分坐实；表内「有 Utepo 的 switch 销售平台」「可以多跟进一下」；群发 8 次无回复；无具名 KP · 未取（CIPC 注册号 1 查未得） · 状态 **营业中（名录 2026-02）** · 成立 未取 · (Pty) Ltd
+- 行业码 / 经营范围：CCTV / 报警安装（梅耶顿，豪登）
+- 注册地址：17 Pierneef Blvd, Shop 7, Meyerton, Gauteng 1961, South Africa
+- 规模档：微型 / 小型
+- 账目：未取；—
+- 高管：（无具名 KP：info@handsonsecurity.co.za；Attn: Owner）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **CCTV 安装商 + 在售 UTEPO 口型 → 集成商 25% B，一页纸一次（STC-028GP $28 / STC-2216GP + STI-054GP；UTEPO 不点名；Attn: Owner）— 南非常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 约堡（买方清关；ICASA / NRCS 不声称）**；再无回声 → 不动
+- 备注：集成商 25%；一页纸一次（预付 100%）；部分坐实（D&B 地址 + 名录；CIPC 未取）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -125,8 +138,9 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 南非 |
-| 其他 | 官网 handsonsecurity.co.za，语言 en-US，快照状态 ok；角色判定来源：用户表 |
+| 法定名称 | Hands On Security (Pty) Ltd（D&B；CIPC 注册号 1 查未得） |
+| 总部/地址 | 17 Pierneef Blvd, Shop 7, Meyerton, Gauteng 1961（另址 Unit 4, 49 Galloway St, Meyerton）（第 120 批 官方登记核实 2026-10-29） |
+| 其他 | 官网 handsonsecurity.co.za，语言 en-US，快照状态 ok；角色判定来源：用户表；第 120 批：业主亲自勘察的本地 CCTV / 报警安装商（在售 UTEPO 口型）→ **集成商 25% B，一页纸一次（Attn: Owner；STC-028GP / STC-2216GP + STI-054GP；UTEPO 不点名）** — 南非常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 约堡、ICASA / NRCS 不声称；部分坐实（D&B 地址）（第 120 批 官方登记核实 2026-10-29） |
 
 - **业务线**：CCTV 方案 / 网店（南非）
 - **触达通道（公开）**：role: CCTV 网店/安装商（南非，Utepo 在售）；region: 南非；contact: info@handsonsecurity.co.za
@@ -307,12 +321,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 35）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 35）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

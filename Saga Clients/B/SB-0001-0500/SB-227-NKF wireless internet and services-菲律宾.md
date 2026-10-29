@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -93,6 +93,19 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 120 批（0 查（gmail + 无域名）；2026-10-29，2026-10-29 查；）：**
+
+- 法定名 / 登记号：NKF Wireless Internet and Services（**gmail + 无域名 → 0 查**）— 菲律宾小型 WISP，Joemar Baquiran；兴趣 PON（不供）；2026-01 对 2 光 2 电 mini 工业机回「sample?」 · 0 查 · 状态 **互动中（2026-01 索样）** · 成立 — · 个体 / 微型
+- 行业码 / 经营范围：WISP（菲律宾）
+- 注册地址：未取
+- 规模档：微型
+- 账目：未取；—
+- 高管：Joemar Baquiran — 业主（研究档 KP；joemar.baquiran@gmail.com）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **索样已回 → 集成商 25% B，一页纸一次（STI-154GP / STC-228GP 付费样机一口价 + 运费；PON 不供明说；预付 100%）— 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉（买方清关；NTC 不声称）**；再无回声 → 不动
+- 备注：集成商 25%；一页纸一次（付费样机 + 预付 100%）；0 查（gmail）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -115,16 +128,16 @@ updated: 2026-10-27
 - **【用户表】兴趣 Pon 产品；2026-01 群发 22mini→sample?**
   > 兴趣：Pon产品；回复：sample?
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Joemar Baquiran（）joemar.baquiran@gmail.com +63 927 933 1910〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Joemar Baquiran（业主（小型 WISP）= 收件人 — 一页纸一次：集成商 25% B、2026-01 索样 → STI-154GP / STC-228GP 付费样机一口价 + 运费；PON 不供明说 — 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉、NTC 不声称（第 120 批 官方登记核实 2026-10-29））joemar.baquiran@gmail.com +63 927 933 1910〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · 无域名 · 仅表内信息）
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | NKF Wireless Internet and Services |
+| 法定名称 | 未取（NKF Wireless Internet and Services；gmail + 无域名 → 0 查） |
 | 总部/地址 | 菲律宾 |
-| 其他 | gmail |
+| 其他 | gmail；第 120 批：0 查；索样已回 → 付费样机一页纸一次（预付 100%）（第 120 批 官方登记核实 2026-10-29） |
 
 - **业务线**：无线 / 光纤宽带接入（WISP）
 - **触达通道（公开）**：role: 小型 ISP（终端 / 自用）；region: 菲律宾
@@ -183,7 +196,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Joemar Baquiran | — | joemar.baquiran@gmail.com / +63 927 933 1910 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Joemar Baquiran | 业主（小型 WISP）= 收件人 — 一页纸一次：集成商 25% B、2026-01 索样 → STI-154GP / STC-228GP 付费样机一口价 + 运费；PON 不供明说 — 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉、NTC 不声称（第 120 批 官方登记核实 2026-10-29） | joemar.baquiran@gmail.com / +63 927 933 1910 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Mr.Joemar Baquiran | — | joemar.baquiran@gmail.com / +09279331910 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；仅免费邮箱：可发，但优先找官网公开的企业邮箱（见调研 KP）
@@ -279,12 +292,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

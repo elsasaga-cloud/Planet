@@ -28,7 +28,7 @@ price_tier: 30%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 2
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -97,6 +97,20 @@ updated: 2026-10-28
 - 【供应侧】01-25→02-21：我方供应侧春节停摆：SmartByte / HRUI 工厂约 2-01→2-17 放假，1-25 前不锁单的 2 月出不了货，节后出货排队到 2 月底；任何「现在要货」的客户 1 月中就得催 PI
 - 【惯例】12-11→01-11：南非 builders' holiday：工程 / 安装类客户 12 月中到 1 月中停工
 
+**公司底数 · 第 120 批（ZA · 1 次检索：hsbd.co.za/supplier.aspx?acc=683（Regal Security Distributors SA；26 Greenstone Place, Greenstone Hill, Edenvale；+27 11 553 3300；over 40 years）+ securityrsa.net（Regal Distributors SA (PTY) LTD；0115533300）+ engnet.co.za/c/f.aspx/REG012（Established in 1981 … acquired 1998 … 24 branches … Exports Division … Linbro Park）；CIPC 未得；2026-10-29，2026-10-29 查；https://www.hsbd.co.za/supplier.aspx?acc=683）：**
+
+- 法定名 / 登记号：Regal Security Distributors SA (Pty) Ltd（regalsecurity.co.za；**总部 26 Greenstone Place, Greenstone Hill, Edenvale（hsbd / securityrsa）；+27 11 553 3300；1981 年成立、1998 年现东家收购；24–30 家分支 + 出口部（engnet 旧址 9 Electron Ave, Linbro Business Park）；南非最大多品牌安防分销之一；在售 PLANET GS-4210-8P2S / Genata / TP-Link / UTEPO + 自有标 Securi-Prod**）；CIPC 注册号 1 查未得 → 部分坐实；2025-10 已报价 2+2+8；KP Jacques Plessis（enquiries@）/ Josephine（sales@） · 未取（CIPC 注册号 1 查未得） · 状态 **营业中（行业名录 2025 + 官网）** · 成立 1981 · (Pty) Ltd
+- 行业码 / 经营范围：电子安防多品牌分销（豪登；撒哈拉以南出口）
+- 注册地址：26 Greenstone Place, Greenstone Hill, Edenvale, Gauteng, South Africa
+- 规模档：中型（201–500；24–30 分支）
+- 账目：未取；—
+- 高管：Jacques Plessis — 联系人（研究档 KP；enquiries@regalsecurity.co.za）
+- 高管：Josephine — 销售（研究档 KP；sales@regalsecurity.co.za）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **在售 PLANET 同口型 + 自有标体系 → 分销 20%（对价 GS-4210-8P2S：STC-228GP $33 / STI-154GP）↔ 贴标 OEM 30%（Securi-Prod 网络线）双轨 B，一页纸一次（Attn: Network Product Manager；2025-10 报价为开场）— 南非常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 约堡（买方清关；ICASA / NRCS 不声称）**；回信 → 加厚
+- 备注：分销 20% ↔ 贴标 30% 双轨；一页纸一次（预付 100%）；部分坐实（名录地址 + 电话 + 成立年；CIPC 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -154,7 +168,7 @@ updated: 2026-10-28
   > 兴趣：MC PoE FS 主要是Upeto planet和itoonertech这3个牌子的；回复：发了一个报价2+2+8的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（见 Clients 表邮件签名）（） 〔用户 Clients 表（'邮件中有详细的联系信息'）〕
-- **KP**：Jacques Plessis（）enquiries@regalsecurity.co.za +27 87 802 3920〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Jacques Plessis（联系人（研究档）— 一页纸一次（Attn: Network Product Manager）：分销 20%（对价在售 PLANET GS-4210-8P2S → STC-228GP / STI-154GP）↔ 贴标 OEM 30%（Securi-Prod 网络线）双轨 B；2025-10 报价为开场 — 南非常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 约堡、ICASA / NRCS 不声称（第 120 批 官方登记核实 2026-10-29））enquiries@regalsecurity.co.za +27 87 802 3920〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Josephine（）sales@regalsecurity.co.za 〔（本地 Clients/ 表格，无公开 URL）〕
 - **调研后定级**：B（原自动 A）——体量大（30+ 分支、数百人）超出 Saga 常规可赢尺寸，且南非非主攻区、1 次回复后 18 次推送无回复；但其网络配件在采 Upeto/itoonertech 级别的中国小品牌，说明供应商门槛不高 → 不降 C，B 慢跟。
 - 备注：重启角度：对位其在售 Upeto/Planet MC 与 PoE 型号给'同规格更低价 + 中性包装'清单（STI-110GE / STC-28DGGPM，分销 20%），找产品经理而非采购总机。
@@ -163,10 +177,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Regal Distributors SA (Pty) Ltd |
-| 成立 | 1981 |
-| 总部/地址 | Johannesburg, Gauteng, South Africa |
-| 其他 | 自有标 Securi-Prod 等；电商平台 |
+| 法定名称 | Regal Security Distributors SA (Pty) Ltd（CIPC 注册号 1 查未得） |
+| 成立 | 1981（1998 现东家收购）（第 120 批 官方登记核实 2026-10-29） |
+| 总部/地址 | 26 Greenstone Place, Greenstone Hill, Edenvale, Gauteng（+27 11 553 3300；旧址 9 Electron Ave, Linbro Business Park）（第 120 批 官方登记核实 2026-10-29） |
+| 其他 | 自有标 Securi-Prod 等；电商平台；第 120 批：南非最大多品牌安防分销之一 + 自有标；部分坐实（行业名录地址 + 电话 + 成立年；CIPC 未取）（第 120 批 官方登记核实 2026-10-29） |
 
 - **业务线**：电子安防分销（监控、门禁、报警、自动化、对讲）；网络（PoE 交换机、无线、PoE 配件）；自有品牌电源 / 太阳能 / 配件
 
@@ -274,7 +288,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Jacques Plessis | — | enquiries@regalsecurity.co.za / +27 87 802 3920 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Jacques Plessis | 联系人（研究档）— 一页纸一次（Attn: Network Product Manager）：分销 20%（对价在售 PLANET GS-4210-8P2S → STC-228GP / STI-154GP）↔ 贴标 OEM 30%（Securi-Prod 网络线）双轨 B；2025-10 报价为开场 — 南非常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 约堡、ICASA / NRCS 不声称（第 120 批 官方登记核实 2026-10-29） | enquiries@regalsecurity.co.za / +27 87 802 3920 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Josephine | — | sales@regalsecurity.co.za | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：企业邮箱可直发
@@ -368,12 +382,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 67）；人工/调研定级 → B
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 67）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -75,9 +75,22 @@ updated: 2026-10-28
 
 - `yahoo.com` → Yahoo 小企业邮箱（MX：mta5.am0.yahoodns.net、mta6.am0.yahoodns.net、mta7.am0.yahoodns.net）。主机商附带邮箱（Yahoo 小企业邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（印度尼西亚 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
+**假日避让（印度尼西亚 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
 
 - 窗口内无该国法定假日
+
+**公司底数 · 第 120 批（ID · 1 次检索：companieshouse.id/catur-citra-wisesa（PT. Catur Citra Wisesa；registration number 182592；JL. TAMAN HARAPAN BARU BLOK D 10/11, RT.003/022, PEJUANG, BEKASI；Active）+ companyhouse.id（Business No. 43；同址）+ linkedin.com/in/catur-citra-wisesa-pt（Penyedia Mesin Produksi Farmasi, Kosmetik, Makanan dan Minuman；20 tahun；Gambir, Jakarta）；2026-10-29，2026-10-29 查；https://companieshouse.id/catur-citra-wisesa）：**
+
+- 法定名 / 登记号：PT. Catur Citra Wisesa（**companieshouse.id：登记号 182592；注册地址 Jl. Taman Harapan Baru Blok D 10/11, RT.003/022, Pejuang, Bekasi；PT 有限责任；状态 Active；领英：制药 / 化妆品 / 食品饮料生产机械与备件（采购、制造、改造），20+ 年，Gambir, Jakarta**）→ 坐实；KP Rizky Adi Prastanto（yahoo）；需求 5 电口带 PoE（设备自用） · AHU 登记号 182592（镜像） · 状态 **营业中（Active；领英在）** · 成立 未取（自述 20+ 年） · PT（Perseroan Terbatas）
+- 行业码 / 经营范围：制药 / 食品机械与备件制造（勿加泗 / 雅加达）
+- 注册地址：Jl. Taman Harapan Baru Blok D 10/11, RT.003/022, Pejuang, Bekasi, Indonesia
+- 规模档：小型
+- 账目：未取；—
+- 高管：Rizky Adi Prastanto — 联系人（研究档 KP；rizkyadips@yahoo.com）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **机械设备商自用 DIN 5 口 PoE（口型明确）→ 集成商 25% B，一页纸一次（STI-054GP 一口价 + STI-154GP 备选 + 付费样机；设备随机配套 → 复购小量）— 印尼常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 雅加达（买方清关；SDPPI / Postel 不声称）**；再无回声 → 不动
+- 备注：集成商 25%；一页纸一次（预付 100%）；坐实（登记号 + 注册地址 + 领英业务）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -101,16 +114,17 @@ updated: 2026-10-28
 - **【用户表】兴趣 5 电口带 POE；回复：Email 发了 2 光 4 小壳信息；1120 email 发了 10G MC**
   > 兴趣：5电口带POE；回复：Email发了2光4小壳信息；1120email发了10gmc
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Rizky Adi Prastanto（）rizkyadips@yahoo.com +62 813 9956 8946〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Rizky Adi Prastanto（联系人（研究档）= 收件人 — 一页纸一次：集成商 25% B、设备自用 DIN 5 口 PoE → STI-054GP 一口价 + STI-154GP 备选 + 付费样机（设备随机配套 → 小量复购） — 印尼常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 雅加达、SDPPI 不声称（第 120 批 官方登记核实 2026-10-29））rizkyadips@yahoo.com +62 813 9956 8946〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · 无域名 · 仅表内信息）
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | PT. Catur Citra Wisesa |
-| 总部/地址 | 印度尼西亚 |
-| 其他 | yahoo 联系 |
+| 法定名称 | PT. Catur Citra Wisesa（AHU 登记号 182592，companieshouse.id 镜像；Active） |
+| 成立 | 未取（自述 20+ 年）（第 120 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Jl. Taman Harapan Baru Blok D 10/11, RT.003/022, Pejuang, Bekasi（业务地 Gambir, Jakarta）（第 120 批 官方登记核实 2026-10-29） |
+| 其他 | yahoo 联系；第 120 批：制药 / 化妆品 / 食品饮料生产机械与备件制造（非网络行业，但 DIN 交换机为设备配套）；坐实（登记号 + 注册地址 + 领英业务）（第 120 批 官方登记核实 2026-10-29） |
 
 - **触达通道（公开）**：role: （未知，疑工程商/经销）；region: 印度尼西亚
 - **近况信号**：
@@ -167,7 +181,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Rizky Adi Prastanto | — | rizkyadips@yahoo.com / +62 813 9956 8946 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Rizky Adi Prastanto | 联系人（研究档）= 收件人 — 一页纸一次：集成商 25% B、设备自用 DIN 5 口 PoE → STI-054GP 一口价 + STI-154GP 备选 + 付费样机（设备随机配套 → 小量复购） — 印尼常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 雅加达、SDPPI 不声称（第 120 批 官方登记核实 2026-10-29） | rizkyadips@yahoo.com / +62 813 9956 8946 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；仅免费邮箱：可发，但优先找官网公开的企业邮箱（见调研 KP）
 
@@ -261,12 +275,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 58）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 58）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

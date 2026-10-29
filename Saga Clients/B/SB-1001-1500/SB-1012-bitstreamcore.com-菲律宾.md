@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: timeout  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -80,9 +80,22 @@ updated: 2026-10-28
 
 - `bitstreamcore.com` → 主机商 cPanel 类邮箱（MX：mail.h-email.net）。主机商附带邮箱（主机商 cPanel 类邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（菲律宾 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
+**假日避让（菲律宾 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
 
 - 法定假日：11-01 All Saints' Day；11-02 All Souls' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+
+**公司底数 · 第 120 批（PH · 1 次检索：「"Bitstream Core" Philippines bitstreamcore.com address Viola」→ 无相关结果（MEGA65 文档噪声）；2026-10-29，2026-10-29 查；）：**
+
+- 法定名 / 登记号：Bitstream Core（bitstreamcore.com；**1 查无命中（仅无关结果）→ 未坐实**）— 菲律宾网络公司，GM Engr. Lito E. Viola；需求 2 光 2 电、主要对 SFP 感兴趣；1 次跟进无实质回复 · 未取（1 查无命中） · 状态 **未知（域名在研究档）** · 成立 未取 · 未取
+- 行业码 / 经营范围：网络集成（菲律宾）
+- 注册地址：未取
+- 规模档：小型（推定）
+- 账目：未取；—
+- 高管：Engr. Lito E. Viola — General Manager（研究档 KP；ieviola@bitstreamcore.com）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **GM 为 KP + 口型明确（2 光 2 电）→ 集成商 25% B，一页纸一次（STC-228GP $33 / STC-028GP $28 + STI-154GP；SFP 不做明说；MOQ 1 + 付费样机）— 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉（买方清关；NTC 不声称）**；再无回声 → 不动
+- 备注：集成商 25%；一页纸一次（预付 100%）；未坐实（1 查无命中）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -109,15 +122,16 @@ updated: 2026-10-28
 - **【用户表】两光两电；SFP；主要对 SFP 感兴趣**
   > 兴趣：两光两电。sfp 主要对SFP感兴趣
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Engr. Lito E. Viola（）ieviola@bitstreamcore.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Engr. Lito E. Viola（General Manager（研究档）= 收件人 — 一页纸一次：集成商 25% B、2 光 2 电 → STC-228GP / STC-028GP + STI-154GP 一口价 + 付费样机；SFP 不做明说 — 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉、NTC 不声称（第 120 批 官方登记核实 2026-10-29））ieviola@bitstreamcore.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照超时 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Bitstream Core（待核） |
+| 法定名称 | Bitstream Core（bitstreamcore.com；1 查无命中 → 未坐实） |
 | 总部/地址 | Philippines |
+| 其他 | 第 120 批：未坐实（1 查仅无关结果）；GM 为 KP + 口型明确 → 一页纸一次（预付 100%）（第 120 批 官方登记核实 2026-10-29） |
 
 - **触达通道（公开）**：role: 网络集成 / ISP 配套（推断）；region: 菲律宾
 - **风险/边界**：主需求 SFP 不供
@@ -177,7 +191,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Engr. Lito E. Viola | — | ieviola@bitstreamcore.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Engr. Lito E. Viola | General Manager（研究档）= 收件人 — 一页纸一次：集成商 25% B、2 光 2 电 → STC-228GP / STC-028GP + STI-154GP 一口价 + 付费样机；SFP 不做明说 — 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉、NTC 不声称（第 120 批 官方登记核实 2026-10-29） | ieviola@bitstreamcore.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：企业邮箱可直发
 
@@ -273,12 +287,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -28,7 +28,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -97,6 +97,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 120 批（PH · 1 次检索：aihitdata.com/company/01B1B037（NAYON KONTROL SYSTEMS；Age 29 years；No. 4 Illinois St., Brgy. Silangan, District III, Cubao, Quezon City 1109；SCADA and Automation systems primarily for electric utilities；Also known as NKS Solar One, Inc. …）+ zoominfo 员工页 ×2（4 Illinois St Brgy. Silangan, Quezon City）；SEC 未得；2026-10-29，2026-10-29 查；https://www.aihitdata.com/company/01B1B037/nayon-kontrol-systems/overview）：**
+
+- 法定名 / 登记号：Nayon Kontrol Systems（NKS；nkstech.net；**No. 4 Illinois St., Brgy. Silangan, District III, Cubao, Quezon City 1109；成立约 1996（aihitdata「29 years」）；电力合作社 SCADA / 变电站自动化 / RTU 集成；关联 NKS Solar One, Inc. / NKS Energy Utilities, Inc. / NKS Global Limited / NKS Biomass One, Inc.；ZoomInfo 员工页地址一致**）；SEC 号 1 查未得 → 部分坐实；KP Mark Delapaz（研究档）；客户 NGCP / Meralco / Citicore（SB-067） · 未取（SEC 号 1 查未得） · 状态 **营业中（官网 + 企业库）** · 成立 约 1996 · Inc.（推定）
+- 行业码 / 经营范围：电力 SCADA / 变电站自动化集成（奎松市）
+- 注册地址：No. 4 Illinois St., Brgy. Silangan, District III, Cubao, Quezon City 1109, Philippines
+- 规模档：中小型
+- 账目：未取；—
+- 高管：Mark Delapaz — NKS 员工（研究档 KP；ZoomInfo 公开）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **已外采 Maiwe 工业机的变电站自动化集成商 → 集成商 25% B，一页纸一次（STI-288DGGPM $137 / STI-488DGGPM $147 + STI-280GE $46.6；不声称 IEC 61850 / 电力认证；MOQ 1 + 付费样机）— 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉（买方清关；NTC 不声称）**；电力项目按单核；回信 → 加厚
+- 备注：集成商 25%；一页纸一次（预付 100%；电力按单核）；部分坐实（企业库地址 + 成立年；SEC 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -134,7 +147,7 @@ updated: 2026-10-28
 - **【用户表】富通天下：买了迈威的**
   > 买了迈威的 / 富通天下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Mark Delapaz（（NKS 员工，ZoomInfo 公开；职务待核））— +632 8913 1347（公司）〔https://www.zoominfo.com/p/Mark-Delapaz/-1345711402〕
+- **KP**：Mark Delapaz（NKS 员工（ZoomInfo 公开；职务待核）= 收件人 — 一页纸一次：集成商 25% B、已外采 Maiwe 的变电站自动化集成商 → STI-288DGGPM / STI-488DGGPM + STI-280GE 一口价 + 付费样机；不声称 IEC 61850 / 电力认证；电力项目按单核 — 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉、NTC 不声称（第 120 批 官方登记核实 2026-10-29））— +632 8913 1347（公司）〔https://www.zoominfo.com/p/Mark-Delapaz/-1345711402〕
 - **调研后定级**：B（原自动 A）——同 SB-067 逻辑：在采同类国产工业交换机但无回复、菲律宾非主攻区 → B。
 - 备注：一封'迈威对位 STI 工业线'邮件。
 
@@ -142,10 +155,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Nayon Kontrol Systems |
-| 成立 | 1996 |
-| 总部/地址 | No. 4 Illinois St., Brgy. Silangan, District III, Cubao, Quezon City 1109（+632 8913 1347；info@nks.ph） |
-| 其他 | GE-Harris D20 RTU 专长；关联 NKS Solar One Inc. |
+| 法定名称 | Nayon Kontrol Systems（NKS；SEC 号 1 查未得；关联 NKS Solar One, Inc. / NKS Energy Utilities, Inc. / NKS Global Limited） |
+| 成立 | 约 1996（aihitdata「29 years」）（第 120 批 官方登记核实 2026-10-29） |
+| 总部/地址 | No. 4 Illinois St., Brgy. Silangan, District III, Cubao, Quezon City 1109, Philippines（第 120 批 官方登记核实 2026-10-29） |
+| 其他 | GE-Harris D20 RTU 专长；关联 NKS Solar One Inc.；第 120 批：电力合作社 SCADA / 变电站自动化 / RTU 集成商；部分坐实（企业库地址 + 成立年；SEC 未取）（第 120 批 官方登记核实 2026-10-29） |
 
 - **业务线**：电力 SCADA / 变电站自动化集成；RTU / 网关 / 运维
 - **触达通道（公开）**：网站: https://www.nkstech.net/；电话: +632 8913 1347（公开）；邮箱: info@nks.ph（官网公开）；info@nkstech.net（用户表）
@@ -220,7 +233,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Mark Delapaz | （NKS 员工，ZoomInfo 公开；职务待核） | — / +632 8913 1347（公司） | 调研核实（公开页） | https://www.zoominfo.com/p/Mark-Delapaz/-1345711402 |
+| Mark Delapaz | NKS 员工（ZoomInfo 公开；职务待核）= 收件人 — 一页纸一次：集成商 25% B、已外采 Maiwe 的变电站自动化集成商 → STI-288DGGPM / STI-488DGGPM + STI-280GE 一口价 + 付费样机；不声称 IEC 61850 / 电力认证；电力项目按单核 — 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉、NTC 不声称（第 120 批 官方登记核实 2026-10-29） | — / +632 8913 1347（公司） | 调研核实（公开页） | https://www.zoominfo.com/p/Mark-Delapaz/-1345711402 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -313,12 +326,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 61）；人工/调研定级 → B
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 61）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

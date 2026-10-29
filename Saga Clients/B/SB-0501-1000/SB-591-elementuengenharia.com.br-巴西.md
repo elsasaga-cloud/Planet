@@ -24,7 +24,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -71,6 +71,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 120 批（BR · 1 次检索：empresas.serasaexperian.com.br/consulta-gratis/ELEMENTU-ENGENHARIA-E-INTEGRACAO-LTDA-14458461000117（14.458.461/0001-17；ARARAQUARA, SP；26/09/2011；ATIVA；Serviços de engenharia）+ econodata（Rua Pedro Jose Laroca, 1667 - Jardim Santa Marta, Araraquara - SP, 14.808-300）+ solutudo（nfe@elementuengenharia.com.br；Sociedade Empresária Limitada）；2026-10-29，2026-10-29 查；https://www.econodata.com.br/consulta-empresa/14458461000117-elementu-engenharia-e-integracao-ltda）：**
+
+- 法定名 / 登记号：Elementu Engenharia e Integração Ltda（elementuengenharia.com.br；**CNPJ 14.458.461/0001-17；Rua Pedro José Laroca 1667, Jardim Santa Marta, Araraquara - SP 14808-300；2011-09-26 开业；ATIVA；CNAE 7112-0/00 工程服务；Sociedade Empresária Limitada；nfe@elementuengenharia.com.br**）→ 坐实；道路基础设施技术集成（HS-WIM 动态称重、龙门架 / 可变情报板；Ecovias do Araguaia）；阿里 RFQ「90W PoE Injector」（不供）；KP Carlos Gabriel Alonso；表内未跟进 · CNPJ 14.458.461/0001-17 · 状态 **ATIVA** · 成立 2011-09-26 · Ltda（Sociedade Empresária Limitada）
+- 行业码 / 经营范围：道路基础设施 / ITS 工程集成（阿拉拉夸拉，SP）
+- 注册地址：Rua Pedro José Laroca 1667, Jardim Santa Marta, Araraquara - SP 14808-300, Brazil
+- 规模档：小型
+- 账目：未取；—
+- 高管：Carlos Gabriel Alonso — 联系人（研究档 KP；carlos@elementuengenharia.com.br）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **ITS 路侧集成商（机柜工业机天然对口）→ 集成商 25% B，一页纸一次（90 W 注入器不供明说 → STI-154GP / STI-288DGGPM $137 / STI-488DGGPM $147 + 付费样机；葡语备注）— 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方清关、进口税自理；Anatel 不声称）**；再无回声 → 不动
+- 备注：集成商 25%；一页纸一次（预付 100%）；坐实（CNPJ + 地址 + 开业日 + CNAE）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -103,15 +116,17 @@ updated: 2026-10-28
 - **【用户表】90W PoE Injector RFQ**
   > 90W PoE Injector外购品 / from: 阿里巴巴RFQ
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Carlos Gabriel Alonso（）carlos@elementuengenharia.com.br 〔用户表〕
+- **KP**：Carlos Gabriel Alonso（联系人（研究档）= 收件人 — 一页纸一次：集成商 25% B、ITS 路侧机柜 → 90 W 注入器不供明说 → STI-154GP / STI-288DGGPM / STI-488DGGPM 一口价 + 付费样机；葡语备注 — 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（进口税自理）、Anatel 不声称（第 120 批 官方登记核实 2026-10-29））carlos@elementuengenharia.com.br 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 巴西 |
-| 其他 | 官网 elementuengenharia.com.br，语言 pt，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Elementu Engenharia e Integração Ltda（CNPJ 14.458.461/0001-17；ATIVA；Sociedade Empresária Limitada） |
+| 成立 | 2011-09-26（第 120 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Rua Pedro José Laroca 1667, Jardim Santa Marta, Araraquara - SP 14808-300（nfe@elementuengenharia.com.br）（第 120 批 官方登记核实 2026-10-29） |
+| 其他 | 官网 elementuengenharia.com.br，语言 pt，快照状态 ok；角色判定来源：官网文案；第 120 批：道路基础设施 / ITS 工程集成（HS-WIM、龙门架、可变情报板；CNAE 7112-0/00）；坐实（CNPJ + 地址 + 开业日 + CNAE）（第 120 批 官方登记核实 2026-10-29） |
 
 - **业务线**：道路基础设施 / ITS 集成（巴西）
 - **触达通道（公开）**：role: 道路 ITS 集成商（巴西，守界备注：民用道路设施）；region: 巴西；contact: carlos@elementuengenharia.com.br
@@ -169,7 +184,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Carlos Gabriel Alonso | — | carlos@elementuengenharia.com.br | 调研核实（公开页） | 用户表 |
+| Carlos Gabriel Alonso | 联系人（研究档）= 收件人 — 一页纸一次：集成商 25% B、ITS 路侧机柜 → 90 W 注入器不供明说 → STI-154GP / STI-288DGGPM / STI-488DGGPM 一口价 + 付费样机；葡语备注 — 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（进口税自理）、Anatel 不声称（第 120 批 官方登记核实 2026-10-29） | carlos@elementuengenharia.com.br | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -263,12 +278,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 36）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 36）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

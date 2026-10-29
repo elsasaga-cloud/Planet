@@ -28,7 +28,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -88,9 +88,22 @@ updated: 2026-10-28
 - `testronix.com.ph` → Microsoft 365（MX：testronix-com-ph.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 - 其他域名仍活：`testronix.com.ph` → 只用这些域的地址
 
-**假日避让（菲律宾 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-28→2026-11-27）：**
+**假日避让（菲律宾 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
 
 - 法定假日：11-01 All Saints' Day；11-02 All Souls' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+
+**公司底数 · 第 120 批（PH · 1 次检索：companyhouse.ph/testronix-inc（TESTRONIX INC.；SEC Code: CS200518694）+ businesslist.ph/company/138062（Unit 415, VGP Center … 6772 Ayala Avenue, 1226, Makati City；test equipment, BER, datacom, transceiver, SFP, media converter）+ testronix.ph/contact（sales@testronix.com.ph；Globe 0966 190 3000）；2026-10-29，2026-10-29 查；https://companyhouse.ph/testronix-inc）：**
+
+- 法定名 / 登记号：Testronix, Inc.（testronix.com.ph / testronix.ph；**SEC Code CS200518694（companyhouse.ph）→ 2005 年注册；Unit 415, VGP Center (formerly Manila Bank Building), 6772 Ayala Avenue, Makati City 1226；sales@testronix.com.ph / techsupport@；Globe 0966 190 3000；测试仪表 + 数通 + 光模块 / MC 分销（JDSU / Acterna、Furukawa 熔接机、Midtronics）**）；表内曾向 uponcomm 大量买光模块；E 冷名单 1 次跟进 0 回复；无具名 KP（sales@） · SEC CS200518694 · 状态 **营业中（官网 2025 + SEC 在册）** · 成立 2005（SEC 号前缀 CS2005） · Inc.（Stock Corporation）
+- 行业码 / 经营范围：测试仪表 / 数通 / 光模块 / MC 分销（马卡蒂）
+- 注册地址：Unit 415, VGP Center, 6772 Ayala Avenue, Makati City 1226, Philippines
+- 规模档：小型
+- 账目：未取；—
+- 高管：（无具名 KP：sales@testronix.com.ph；Attn: Sales Manager）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **光模块 / MC 分销商、SEC 坐实 → 分销 20% B，一页纸一次（STC-110XGE $65 + STC-228GP $33 / STC-2224GP $86 + MOQ 1 + 付费样机；SFP / 光模块 不做明说）— 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉（买方清关；NTC 不声称）**；再无回声 → 不动
+- 备注：分销 20%；一页纸一次（预付 100%）；坐实（SEC 号 + 地址 + 官网）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -128,9 +141,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Testronix（testronix.com.ph） |
-| 总部/地址 | Philippines |
-| 其他 | 注：表内「从 uponcomm 买了很多模块」为富通天下外贸数据（从同行采购），非 Saga 成交 |
+| 法定名称 | Testronix, Inc.（SEC Code CS200518694，companyhouse.ph） |
+| 成立 | 2005（SEC 号前缀）（第 120 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Unit 415, VGP Center, 6772 Ayala Avenue, Makati City 1226, Philippines（Globe 0966 190 3000）（第 120 批 官方登记核实 2026-10-29） |
+| 其他 | 注：表内「从 uponcomm 买了很多模块」为富通天下外贸数据（从同行采购），非 Saga 成交；第 120 批：测试仪表 / 数通 / 光模块 / MC 分销商（JDSU / Furukawa）→ **分销 20% B，一页纸一次（Attn: Sales Manager；STC-110XGE + STC-228GP / STC-2224GP；SFP 不做明说）** — 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉、NTC 不声称；坐实（SEC 号 + 地址）（第 120 批 官方登记核实 2026-10-29） |
 
 - **业务线**：电子/网络产品经销（光模块）
 - **触达通道（公开）**：网站: testronix.ph / testronix.com.ph；邮箱: sales@testronix.com.ph（用户表）
@@ -296,12 +310,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 63）；人工/调研定级 → B
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 63）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

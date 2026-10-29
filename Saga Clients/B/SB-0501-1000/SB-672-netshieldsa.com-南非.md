@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -82,6 +82,21 @@ updated: 2026-10-28
 - 【惯例】12-21→01-03：圣诞-新年停摆：多数公司 12-21 起只剩值班，决策人 1-04 以后才回
 - 【惯例】12-11→01-11：南非 builders' holiday：工程 / 安装类客户 12 月中到 1 月中停工
 
+**公司底数 · 第 120 批（ZA · 1 次检索：rocketreach.co/netshield-sa-profile（Established in 1994；10 Pony Street, Concept House, Unit B, Silver lakes, Pretoria；Employees 16；inhouse developed … OEM integrated）+ zoominfo（Marien Dreckmeyr Director, National Marketing；Silver Lakes Rd, Pretoria 0081）+ yellosa（NETSHIELD (PTY) LTD.；407 Atterbury Road, Menlo Park；(012)424-9340）；CIPC 未得；2026-10-29，2026-10-29 查；https://rocketreach.co/netshield-sa-profile_b4508966fc78962b）：**
+
+- 法定名 / 登记号：Netshield (Pty) Ltd（netshieldsa.com；**RocketReach：1994 年成立；10 Pony Street, Concept House, Unit B, Silver Lakes, Pretoria；约 16 人；自研 IoT / UPS / 交换机 / MC / 光纤 / 嵌入式；ZoomInfo：Marien Dreckmeyr Director, National Marketing（2009–）；yellosa 旧址 407 Atterbury Road, Menlo Park, Pretoria，(012) 424-9340**）；CIPC 注册号 1 查未得 → 部分坐实；KP Inus Dreckmeyr（Electrical Engineer & CEO）/ Celia Gagiano；表内「MC SFP 工业 FS」；电话 +27 12 841 0320 · 未取（CIPC 注册号 1 查未得） · 状态 **营业中（官网 + 企业库）** · 成立 1994 · (Pty) Ltd
+- 行业码 / 经营范围：自有品牌网络 / 电源 / IoT 制造（比勒陀利亚）
+- 注册地址：10 Pony Street, Concept House, Unit B, Silver Lakes, Pretoria, Gauteng, South Africa
+- 规模档：小型（约 16 人）
+- 账目：未取；—
+- 高管：Inus Dreckmeyr — Electrical Engineer and CEO（研究档 KP；inus@netshieldsa.com）= 收件人
+- 高管：Celia Gagiano — 联系人（研究档 KP；celia@netshieldsa.com）
+- 高管：Marien Dreckmeyr — Director, National Marketing（ZoomInfo 2026-10-29；无公开邮箱）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自有品牌制造商（交换机 / MC 自标）+ CEO 为 KP → 贴标 OEM 30% B，一页纸一次（STI-154GP / STI-288DGGPM $137 + STC-110XGE $65 中性包装 / 贴标 + MOQ 1 + 付费样机；SFP 不供明说）— 南非常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 约堡（买方清关；ICASA / NRCS 不声称）**；回信 → 加厚
+- 备注：贴标 OEM 30%；一页纸一次（预付 100%）；部分坐实（企业库地址 + 成立年 + 人数 + 职务；CIPC 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -120,16 +135,19 @@ updated: 2026-10-28
 - **【用户表】MC SFP 工业 FS**
   > MC SFP 工业FS
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Inus Dreckmeyr（）inus@netshieldsa.com 〔用户表〕
+- **KP**：Inus Dreckmeyr（Electrical Engineer and Chief Executive Officer（研究档）= 收件人 — 一页纸一次：贴标 OEM 30% B、自有品牌交换机 / MC 制造商 → STI-154GP / STI-288DGGPM + STC-110XGE 中性包装 / 贴标 + MOQ 1 + 付费样机；SFP 不供明说 — 南非常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 约堡、ICASA / NRCS 不声称（第 120 批 官方登记核实 2026-10-29））inus@netshieldsa.com 〔用户表〕
 - **KP**：Celia Gagiano（）celia@netshieldsa.com 〔用户表〕
+- **KP**：Marien Dreckmeyr（Director, National Marketing（ZoomInfo 2026-10-29；2009– ；无公开邮箱）（第 120 批 官方登记核实 2026-10-29）） 〔〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 南非 |
-| 其他 | 官网 netshieldsa.com，语言 ?，快照状态 ok；角色判定来源：待核 |
+| 法定名称 | Netshield (Pty) Ltd（CIPC 注册号 1 查未得） |
+| 成立 | 1994（RocketReach）（第 120 批 官方登记核实 2026-10-29） |
+| 总部/地址 | 10 Pony Street, Concept House, Unit B, Silver Lakes, Pretoria, Gauteng（旧址 407 Atterbury Road, Menlo Park；(012) 424-9340）（第 120 批 官方登记核实 2026-10-29） |
+| 其他 | 官网 netshieldsa.com，语言 ?，快照状态 ok；角色判定来源：待核；第 120 批：自研 IoT / UPS / 交换机 / MC 自有品牌制造商；部分坐实（企业库地址 + 成立年 + 人数 + 职务；CIPC 未取）（第 120 批 官方登记核实 2026-10-29） |
 
 - **业务线**：网络 / 电源产品（自有品牌 Netshield，南非）
 - **触达通道（公开）**：role: 自有品牌网络/电源产品商（南非）；region: 南非；contact: inus@netshieldsa.com、celia@netshieldsa.com
@@ -212,8 +230,9 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Inus Dreckmeyr | — | inus@netshieldsa.com | 调研核实（公开页） | 用户表 |
+| Inus Dreckmeyr | Electrical Engineer and Chief Executive Officer（研究档）= 收件人 — 一页纸一次：贴标 OEM 30% B、自有品牌交换机 / MC 制造商 → STI-154GP / STI-288DGGPM + STC-110XGE 中性包装 / 贴标 + MOQ 1 + 付费样机；SFP 不供明说 — 南非常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 约堡、ICASA / NRCS 不声称（第 120 批 官方登记核实 2026-10-29） | inus@netshieldsa.com | 调研核实（公开页） | 用户表 |
 | Celia Gagiano | — | celia@netshieldsa.com | 调研核实（公开页） | 用户表 |
+| Marien Dreckmeyr | Director, National Marketing（ZoomInfo 2026-10-29；2009– ；无公开邮箱）（第 120 批 官方登记核实 2026-10-29） | — | 调研核实（公开页） | 调研 |
 | Inus | — | inus@netshieldsa.com / celia@netshieldsa.com / +27128410320 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
@@ -308,12 +327,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 34）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 34）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
