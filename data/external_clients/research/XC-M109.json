@@ -1,0 +1,45 @@
+{
+ "code": "XC-M109",
+ "name": "Elkotex d.o.o.",
+ "round": "X1-02",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "ELKOTEX podjetje za trgovino in zastopanje d.o.o.：IT 分销（MikroTik 官方分销；外资控股）；29 名员工 → 中型；prodaja@ = 销售箱",
+ "type_final": "分销（MikroTik 官方）；ELKOTEX podjetje za trgovino in zastopanje d.o.o.",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "○ IT 分销 20%：ELKOTEX podjetje za trgovino in zastopanje d.o.o",
+ "brands_seen": [],
+ "contacts": {
+  "email": "prodaja@elkotex.si",
+  "email_status": "官网 / 名录公开（X1-02 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "CompanyWall：ELKOTEX D.O.O. · Magistrova 1 Ljubljana · MŠ 1447025000 · 29 人 · prodaja@elkotex.si",
+   "quote": "",
+   "url": "https://www.companywall.si/podjetje/elkotex-doo/MMpwnzD",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "Bizi.si：ELKOTEX d.o.o. · SI80941427 · 1999 · elkotex@elkotex.si",
+   "quote": "",
+   "url": "https://www.bizi.si/ELKOTEX-D-O-O/",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-02 补路径：○ IT 分销 20%：ELKOTEX podjetje za trgovino in zastopanje d.o.o.（Ljubljana Magistrova 1；MŠ 1447025000；DŠ SI809414（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "已入 P 池 → 按巡检节奏首触"
+ },
+ "deep": false,
+ "notes": "ELKOTEX podjetje za trgovino in zastopanje d.o.o.；Magistrova ulica 1, 1000 Ljubljana；MŠ 1447025000；DŠ SI80941427；1999-10-12；+386 1 583 79 10",
+ "draft_en": null
+}

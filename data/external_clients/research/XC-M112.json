@@ -1,0 +1,45 @@
+{
+ "code": "XC-M112",
+ "name": "E.V.D.I.",
+ "round": "X1-02",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "E.V.D.I. – Environnement Voix Données Image SAS：关键基础设施（核电 / 工业 / 城市 / 军用）视频监控 + 传输 + 布线 B2B 分销，1994 起；ComNet / AMG / KBC / MOBOTIX / Hanwha 授权；Président Laurent Duboc；注",
+ "type_final": "分销（ComNet 授权）；E.V.D.I. – Environnement Voix Données Image SAS",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "○ 关键基础设施视频 / 传输 / 布线 B2B 分销 20%：E.V.D.I. SAS（Malaucène；RCS A",
+ "brands_seen": [],
+ "contacts": {
+  "email": "contact@evdi.fr",
+  "email_status": "官网 / 名录公开（X1-02 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "官网首页：EVDI B2B distributor since 1994 · contact@evdi.fr · SAS 80 000 € · RCS Avignon 399 343 870",
+   "quote": "",
+   "url": "https://evdi.fr/en",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "Mentions légales：E.V.D.I. SAS · SIRET 399 343 870 00040 · Président Laurent Duboc",
+   "quote": "",
+   "url": "https://evdi.fr/mentions-legales",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-02 补路径：○ 关键基础设施视频 / 传输 / 布线 B2B 分销 20%：E.V.D.I. SAS（Malaucène；RCS Avignon 399 343 870；SIRET 399 343 870 00040；资本 €80,（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "已入 P 池 → 按巡检节奏首触"
+ },
+ "deep": false,
+ "notes": "E.V.D.I. – Environnement Voix Données Image SAS；937 Chemin de la Madeleine, 84340 Malaucène；RCS Avignon 399 343 870；SIRET 399 343 870 00040；TVA FR45399343870；资本 €80,000；+33 1 64 56 00 00",
+ "draft_en": null
+}

@@ -250,16 +250,16 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
-- **最近变化摘要**：2026-10-28 sitemap：新增 214 条：2021-05-04T20:56:46 www.patton.com；2021-05-04T20:56:53 contact-us.asp；2021-05-04T
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
+- **最近变化摘要**：2026-10-29 news_2：内容变化：+535 −5 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-775/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.patton.com/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 9591 字符；首行：Patton Electronics \| US Manufactured Network Equipment |
-| [sitemap](https://www.patton.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-28T08:44:48Z | 294 个 URL；最新 lastmod 2021-05-04T21:26:12 |
+| [home](https://www.patton.com/) | html | HTTP 200 | 2026-10-29T08:41:09Z | 9599 字符；首行：Patton Electronics \| US Manufactured Network Equipment |
+| [sitemap](https://www.patton.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-29T08:41:09Z | 294 个 URL；最新 lastmod 2021-05-04T21:26:12 |
 | [news_1](https://www.patton.com/news.rss) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1959 字符；首行：Patton Electronics Co. - News and Top Stories http://www.patton.com Patton Elec |
-| [news_2](https://www.patton.com/press/) | html | HTTP 200 | 2026-10-24T04:35:40Z | 27542 字符；首行：Patton - Press Room |
+| [news_2](https://www.patton.com/press/) | html | HTTP 200 | 2026-10-29T08:41:09Z | 27545 字符；首行：Patton - Press Room |
 | [youtube](https://www.youtube.com/user/pattonelectronicsco) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2025-12-23T19:15:10+00:00 Merry Christmas from Patton |
 
 - **人工定期看（登录墙，不自动抓）**：X/Twitter: https://twitter.com/pattonconnect；LinkedIn: https://www.linkedin.com/companies/patton-electronics；Facebook: https://www.facebook.com/PattonElectronics

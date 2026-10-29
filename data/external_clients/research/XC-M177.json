@@ -1,0 +1,45 @@
+{
+ "code": "XC-M177",
+ "name": "Distec Ltd",
+ "round": "X1-02",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "Distec Ltd：工业计算 / IIoT 方案分销（InHand Networks 区域渠道分销 2025-09；与 Siemens 同台参展 Industry 4.0 Summit）",
+ "type_final": "分销（HMS/N-Tron·Red Lion 渠道）；Distec Ltd",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "○ 工业计算 / IIoT 方案分销 20%：Distec Ltd（Irlam Manchester；InHand Ne",
+ "brands_seen": [],
+ "contacts": {
+  "email": "sales@distec.co.uk",
+  "email_status": "官网 / 名录公开（X1-02 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "PBSI：Distec Ltd · Irlam Manchester M44 5EG · sales@distec.co.uk",
+   "quote": "",
+   "url": "https://www.pbsionthenet.net/company/16593/Distec-Ltd.aspx",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "P&C Today 2025-09-09：Distec × InHand Networks 区域渠道分销 · info@distec.co.uk",
+   "quote": "",
+   "url": "https://www.pandct.com/news/distec-partners-with-inhand-networks-to-strengthen-secure-iiot-offering",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-02 补路径：○ 工业计算 / IIoT 方案分销 20%：Distec Ltd（Irlam Manchester；InHand Networks 区域渠道分销 2025-09；Industry 4.0 Summit 参展）官网部分坐（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "已入 P 池 → 按巡检节奏首触"
+ },
+ "deep": false,
+ "notes": "Distec Ltd；Huntsman Drive, Northbank Industrial Park, Irlam, Manchester M44 5EG；+44 161 777 4273",
+ "draft_en": null
+}

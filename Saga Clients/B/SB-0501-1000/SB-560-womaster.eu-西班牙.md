@@ -211,14 +211,14 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
-- **最近变化摘要**：2026-10-28 sitemap：新增 820 条：2025-09-09 download_51_186.htm；2025-09-09 download_51_187.htm；2025-09-09 download
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
+- **最近变化摘要**：2026-10-29 sitemap：新增 820 条：2025-09-09 download_51_186.htm；2025-09-09 download_51_187.htm；2025-09-09 download
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-560/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.womaster.eu/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 14349 字符；首行：WoMaster-Master in IIoT World \| Industrial 5G/LTE Routers & IIoT Networking |
-| [sitemap](https://www.womaster.eu/sitemap.xml) | sitemap | HTTP 200 | 2026-10-28T08:44:48Z | 900 个 URL；最新 lastmod 2025-09-09 |
+| [sitemap](https://www.womaster.eu/sitemap.xml) | sitemap | HTTP 200 | 2026-10-29T08:41:09Z | 900 个 URL；最新 lastmod 2025-09-09 |
 | [news_1](https://www.womaster.eu/news.php) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4076 字符；首行：PR \| WoMaster - Industrial Wireless and Intelligent PoE for Smart Cities |
 | [news_2](https://www.womaster.eu/news_Events.htm) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3895 字符；首行：Events│WoMaster Global Website |
 

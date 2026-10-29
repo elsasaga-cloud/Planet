@@ -1,0 +1,45 @@
+{
+ "code": "XC-E059",
+ "name": "Alyseo",
+ "round": "X1-02",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "Alyseo：存储 / 虚拟化 / 基础设施集成商（Nexenta 合作伙伴；Edgecore 经销商名录）→ 数据中心对位 ○",
+ "type_final": "SI·VAR·经销商；Alyseo",
+ "size": "",
+ "saga_line": "CENTEC 数据中心（敲门砖）+ SmartByte",
+ "fit": "☆ 存储 / 虚拟化 / 基础设施集成商 25%：Alyseo（Saint-Sébastien-sur-Loire；Ne",
+ "brands_seen": [],
+ "contacts": {
+  "email": "contact@alyseo.com",
+  "email_status": "官网 / 名录公开（X1-02 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "官网 infra.alyseo.com Contact：1 rue de la Fonderie Saint-Sébastien-sur-Loire · contact@alyseo.com · +33 1 83 35 10 10",
+   "quote": "",
+   "url": "https://infra.alyseo.com/contact/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "Nexenta 合作伙伴页：Alyseo · sales@alyseo.com · 存储 / 虚拟化集成商",
+   "quote": "",
+   "url": "https://nexenta.com/country/france",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-02 补路径：☆ 存储 / 虚拟化 / 基础设施集成商 25%：Alyseo（Saint-Sébastien-sur-Loire；Nexenta 伙伴；Edgecore 经销商名录）官网部分坐实（SIREN 待补）；数据中心对位一般（（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "观察档 → 试单后转正"
+ },
+ "deep": false,
+ "notes": "Alyseo；1 rue de la Fonderie, 44230 Saint-Sébastien-sur-Loire（Paris 电话）；+33 1 83 35 10 10",
+ "draft_en": null
+}

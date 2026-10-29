@@ -178,13 +178,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
+- **最近变化摘要**：2026-10-29 home：内容变化：+5 −5 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1071/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.scada-hmi.it/store2/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1533 字符；首行：Sielco Sistemi Store |
+| [home](https://www.scada-hmi.it/store2/) | html | HTTP 200 | 2026-10-29T08:41:09Z | 1563 字符；首行：Sielco Sistemi Store |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/ScadaSoftware/
 

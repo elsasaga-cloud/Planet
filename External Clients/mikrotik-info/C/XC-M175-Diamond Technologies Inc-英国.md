@@ -1,12 +1,12 @@
 # XC-M175 · Diamond Technologies Inc · 英国
 
-> **初判 XC 暂不管** ｜ 来源 mikrotik-info `C-110`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+> **现判 XC 暂不管** ｜ 来源 mikrotik-info `C-110`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-02 2026-10-29）→ 下一动作 不动
 >
-> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（闸 1 · G1-auto · 2026-10-29）：渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 diamondt.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（闸 1 · G1 · 2026-10-29）：留 C：Diamond Technologies, Inc.（Hudson MA；11–50 人）已被 Beacon EmbeddedWorks 收购 → 采购主体在变，仅 info@；邮箱已补 info@diamondt.com，观察母公司后再定
 
 ## 1. 初判与理由
 - 初判：**XC** — 来源库（mikrotik-info）已判 C（细分：B下放·无邮箱（群发触达不到）；依据：【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一）；Simon 口径「mik 的 C 不碰」→ 关仓前仅存档，不跟
-- 标记：无可用邮箱、来源C、缺联系
+- 标记：来源C、邮箱已补（X1-02 2026-10-29）
 - 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
 - 规则：编号一次分配、永不重排；深度研究后升降只改「等级」字段并移动文件夹（见 00-总索引）
 
@@ -29,7 +29,7 @@
 | 来源文件 | `profile/C/C-110-Diamond Technologies Inc-英国.md` @ elsasaga-cloud/mikrotik-info@a60f11f8 (arena/01a0c3ef-mikrotik-info) |
 
 ## 3. 联系方式
-- 邮箱：无（表单或待挖）
+- 邮箱：info@diamondt.com（公开·X1-02 补）
 - 来源库入口字段：官网联系页（HMS 名录只公开地址与网址）
 
 ## 4. 关键人（KP）
@@ -46,7 +46,22 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究与跟进（第 2 步起填）
-- 研究状态：未研究
-- 研究结论 / 升降建议：—
-- 下一步：—
+## 8. 研究卡（第 2 步，X1-02，2026-10-29）
+
+- **结论：XC** — X1-02 补路径：留 C：Diamond Technologies, Inc.（Hudson MA；11–50 人）已被 Beacon EmbeddedWorks 收购 → 采购主体在变，仅 info@；邮箱已补 info@diamond（等级不动，池位见 sieve_x）
+- 活着吗：2026-10-29 检索命中官网 / 名录（在线）
+- 一句话：Diamond Technologies, Inc.：自动化 / 工业网络 / 数据采集方案与分销；11–50 人；已被 Beacon EmbeddedWorks 收购（Crunchbase）
+- 是什么人：分销（HMS/N-Tron·Red Lion 渠道）；Diamond Technologies, Inc.
+- 对口哪条线：Saga STI 工业 / SmartByte 商用 PoE — 留 C：Diamond Technologies, Inc.（Hudson MA；11–50 人）已被 Beacon E
+- 找得到人吗：info@diamondt.com（官网 / 名录公开（X1-02 补路径））；KP：无具名
+- 已触达：未触达（路径 2026-10-29 新补）
+- 与 Saga Clients：无
+- **下一动作：不动** — 留 C 储备，随群发节奏
+
+证据：
+| 类型 | 说明 | 摘录 | 来源 | 日期 |
+|---|---|---|---|---|
+| 官网 / 名录 | 官网 Contact：Info@diamondt.com · 978-461-1140 |  | https://www.diamondt.com/contact/ | 2026-10-29 |
+| 官网 / 名录 | Crunchbase：Diamond Technologies, Inc. · Hudson MA · 11–50 · Acquired by Beacon EmbeddedWorks |  | https://www.crunchbase.com/organization/diamond-technologies-a54e | 2026-10-29 |
+
+- 备注：Diamond Technologies, Inc.；Hudson MA；+1 978-461-1140

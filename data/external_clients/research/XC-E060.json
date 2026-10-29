@@ -1,0 +1,45 @@
+{
+ "code": "XC-E060",
+ "name": "DELTA Computer Products GmbH",
+ "round": "X1-02",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "Delta Computer Products GmbH：IT 系统商 / 服务器与存储（Edgecore 经销商名录）；中小型",
+ "type_final": "SI·VAR·经销商；Delta Computer Products GmbH",
+ "size": "",
+ "saga_line": "CENTEC 数据中心（敲门砖）+ SmartByte",
+ "fit": "○ IT 系统商 / 服务器与存储 25%：Delta Computer Products GmbH（Reinbek R",
+ "brands_seen": [],
+ "contacts": {
+  "email": "info@deltacomputer.de",
+  "email_status": "官网 / 名录公开（X1-02 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "computer-automation.de 名录：Delta Computer Products GmbH · Röntgenstr. 4 Reinbek · info@deltacomputer.de",
+   "quote": "",
+   "url": "https://www.computer-automation.de/firma/delta-computer-products-gmbh.htm",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "Cylex：HRB 3678 RE Lübeck · USt DE135110550",
+   "quote": "",
+   "url": "https://web2.cylex.de/firma-home/delta-computer-products-gmbh-1450375.html",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-02 补路径：○ IT 系统商 / 服务器与存储 25%：Delta Computer Products GmbH（Reinbek Röntgenstr. 4；HRB 3678 RE Amtsgericht Lübeck；USt DE（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "已入 P 池 → 按巡检节奏首触"
+ },
+ "deep": false,
+ "notes": "Delta Computer Products GmbH；Röntgenstr. 4, 21465 Reinbek；HRB 3678 RE Amtsgericht Lübeck；USt DE135110550；+49 40 3006720",
+ "draft_en": null
+}

@@ -1,0 +1,45 @@
+{
+ "code": "XC-M073",
+ "name": "Rittbul",
+ "round": "X1-02",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "Ритбул ЕООД（Rittbul EOOD）：德系电气 / 自动化产品进口分销（Druseidt 等；Westermo Reseller），索非亚 + 普罗夫迪夫展厅；所有人 Мария Божкова",
+ "type_final": "分销（Westermo Reseller）；Ритбул ЕООД（Rittbul EOOD）",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "○ 德系电气 / 自动化产品进口分销 20%：Ритбул ЕООД（Sofia + Plovdiv 展厅；Drusei",
+ "brands_seen": [],
+ "contacts": {
+  "email": "office@rittbul.bg",
+  "email_status": "官网 / 名录公开（X1-02 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "инженер.bg 企业页：Ритбул ЕООД · София ул. Ст. Л. Костов 16 · office@rittbul.bg · plovdiv@rittbul.bg",
+   "quote": "",
+   "url": "https://xn--80ab3bif.bg/engineer/company/%D1%80%D0%B8%D1%82%D0%B1%D1%83%D0%BB-%D0%B5%D0%BE%D0%BE%D0%B4",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "shop.rittbul.bg 联系页：e-shop@rittbul.bg · +359 895 586 285",
+   "quote": "",
+   "url": "https://shop.rittbul.bg/pages/%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B8",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-02 补路径：○ 德系电气 / 自动化产品进口分销 20%：Ритбул ЕООД（Sofia + Plovdiv 展厅；Druseidt 等；Westermo Reseller；所有人 Мария Божкова）官网部分坐实（ЕИ（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "已入 P 池 → 按巡检节奏首触"
+ },
+ "deep": false,
+ "notes": "Ритбул ЕООД（Rittbul EOOD）；София 1407, ул. Ст. Л. Костов 16, ет.2（+ Пловдив 办公室）；+359 2 439 78 45",
+ "draft_en": null
+}

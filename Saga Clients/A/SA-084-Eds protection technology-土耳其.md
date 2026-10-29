@@ -230,14 +230,14 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
-- **最近变化摘要**：2026-10-28 sitemap：新增 486 条：2021-03-16 eds-elektronik-31-yasinda；2021-08-09 en54-sertifikalı-eds-konvansiyone
+- **监控层**：A 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
+- **最近变化摘要**：2026-10-29 sitemap：新增 486 条：2021-03-16 eds-elektronik-31-yasinda；2021-08-09 en54-sertifikalı-eds-konvansiyone
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-084/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.eds.com.tr/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6750 字符；首行：Güvenlik Elektronik Sistemleri Üreticisi Teknik Destek |
-| [sitemap](https://www.eds.com.tr/sitemap.xml) | sitemap | HTTP 200 | 2026-10-28T08:44:48Z | 628 个 URL；最新 lastmod 2026-10-28 |
+| [sitemap](https://www.eds.com.tr/sitemap.xml) | sitemap | HTTP 200 | 2026-10-29T08:41:09Z | 628 个 URL；最新 lastmod 2026-10-29 |
 | [news_1](https://www.eds.com.tr/blog/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 8560 字符；首行：Blog Teknik Destek |
 | [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCBowWYlKE4AzVUyRjRvbUag) | rss | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2023-01-18T08:49:46+00:00 EDS Hanwha Techwin Ürün Tanıtım Günleri 2023 |
 

@@ -1,0 +1,45 @@
+{
+ "code": "XC-M093",
+ "name": "Compass Distribution",
+ "round": "X1-02",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "Compass Distribution（Sirius S.p.A. 旗下；P.IVA 01240900397，R.E.A. RA 130368，资本 €1,160,000）：IT / 网络 / 电信 / 安防 / 结构化布线分销（ComNet 授权）；2011 起；21–50 人；CEO Giampaolo Sabbatani、SMB Sales Director Rossella Barbieri",
+ "type_final": "分销（ComNet 授权）；Compass Distribution（Sirius S.p.A. 旗下；P.IVA 01240900397，R.E.A. RA 130368，资本 €1,160,000）",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "★ IT / 网络 / 安防 / 布线分销 20%：Compass Distribution = Sirius S.p.",
+ "brands_seen": [],
+ "contacts": {
+  "email": "info@compass-distribution.it",
+  "email_status": "官网 / 名录公开（X1-02 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "官方 PDF 供货条款页脚：P. Iva 01240900397 · R.E.A. RA 130368 · Cap. Soc. €1.160.000 · info@compass-distribution.it · PEC siriusspa@legalmail.it",
+   "quote": "",
+   "url": "https://www.compass-distribution.it/wp-content/uploads/2024/03/Compass-Distribution-Condizioni-generali-di-Fornitura.pdf",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "Prospeo：Compass Distribution · Grugliasco · 2011 · 21–50 · CEO Giampaolo Sabbatani",
+   "quote": "",
+   "url": "https://prospeo.io/c/compass-distribution-revenue",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-02 补路径：★ IT / 网络 / 安防 / 布线分销 20%：Compass Distribution = Sirius S.p.A.（Grugliasco TO；P.IVA 01240900397；R.E.A. RA 13036（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "已入 P 池 → 按巡检节奏首触"
+ },
+ "deep": false,
+ "notes": "Compass Distribution（Sirius S.p.A. 旗下；P.IVA 01240900397，R.E.A. RA 130368，资本 €1,160,000）；Strada del Portone 159, 10095 Grugliasco (TO)；法定地址 Via Gentili 22, 48018 Faenza (RA)；P.IVA 01240900397；R.E.A. RA 130368；+39 011 0627111",
+ "draft_en": null
+}

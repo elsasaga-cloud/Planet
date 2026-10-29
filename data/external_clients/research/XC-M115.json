@@ -1,0 +1,52 @@
+{
+ "code": "XC-M115",
+ "name": "Phoebe IDF",
+ "round": "X1-02",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "PHOEBE Ile de France（SIRET 41208081400095）：电信 / 光传输工程 + 子公司 PHOEBE Fibres 供应光缆跳线（ORing 授权分销 distribution.phoebe.fr）；1996 起；75 人（Verif）/ 51–200（LinkedIn）",
+ "type_final": "分销（ORing 授权）；PHOEBE Ile de France（SIRET 41208081400095）",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "○ 电信 / 光传输工程 + 产品分销 25%：PHOEBE Ile de France（Les Ulis；SIRET ",
+ "brands_seen": [],
+ "contacts": {
+  "email": "contact@phoebe.fr",
+  "email_status": "官网 / 名录公开（X1-02 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "Verif：PHOEBE ILE DE FRANCE · SIRET 41208081400095 · 4 Av du Parana Les Ulis · 75 人",
+   "quote": "",
+   "url": "https://www.verif.com/en/company/PHOEBE-ILE-DE-FRANCE-68d9cecd12992303385b6963/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "官网新闻：PHOEBE Fibres 子公司 · phoebe-fibres@phoebe.fr · 总部 Les Ulis 01 85 41 03 00",
+   "quote": "",
+   "url": "http://phoebe-telecoms.com/news-detail/phoebe-fibers.html",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "LinkedIn：51–200 人 · 1996 · contact@phoebe.fr",
+   "quote": "",
+   "url": "https://tt.linkedin.com/company/phoebe-ile-de-france?trk=similar-pages_result-card_full-click",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-02 补路径：○ 电信 / 光传输工程 + 产品分销 25%：PHOEBE Ile de France（Les Ulis；SIRET 412 080 814 00095；1996 起；75 人；子公司 PHOEBE Fibres 供光（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "已入 P 池 → 按巡检节奏首触"
+ },
+ "deep": false,
+ "notes": "PHOEBE Ile de France（SIRET 41208081400095）；4 avenue du Paraná, 91940 Les Ulis（+ Aquitaine / PACA 分部）；SIRET 412 080 814 00095；+33 1 85 41 03 00",
+ "draft_en": null
+}

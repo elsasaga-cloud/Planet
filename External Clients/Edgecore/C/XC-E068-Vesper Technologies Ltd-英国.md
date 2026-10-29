@@ -1,12 +1,12 @@
 # XC-E068 · Vesper Technologies Ltd · 英国
 
-> **初判 XC 暂不管** ｜ 来源 Edgecore `XLSX-渠道伙伴库#148`（原评级 -） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+> **现判 XC 暂不管** ｜ 来源 Edgecore `XLSX-渠道伙伴库#148`（原评级 -） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-02 2026-10-29）→ 下一动作 不动
 >
-> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（闸 1 · G1 · 2026-10-29）：Vesper Technologies（英国 SI / VAR）：来源库终局已删、仅电话 → 路径未建，留 C 待巡检
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 数据中心服务器 / 网络 / 存储方案 25%：Vesper Technologies Ltd.（Stockport SK4 3EJ；NVIDIA 北欧之星伙伴，HGX / DGX；11–50 人；MD Allan Kaye）官网部分坐实（Companies House 号待补）；Edgecore 经销商 → DC 交换机对位（CENTEC 敲门砖）；主区 GB；info@vespertec.com
 
 ## 1. 初判与理由
 - 初判：**XC** — 来源库 2026-10-19 R16/R17 终局已删（旧 A-027）：DC/HPC 非接入层；按方案 §7 已删档案不复活，仅存档备查
-- 标记：无可用邮箱、来源库已删、来源库未建档（仅在 xlsx）、来源库终局已删、缺联系
+- 标记：来源库已删、来源库未建档（仅在 xlsx）、来源库终局已删、邮箱已补（X1-02 2026-10-29）
 - 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
 - 规则：编号一次分配、永不重排；深度研究后升降只改「等级」字段并移动文件夹（见 00-总索引）
 
@@ -33,7 +33,7 @@
 | 采集时间 | 2026-10-18 17:30:00 |
 
 ## 3. 联系方式
-- 邮箱：无（表单或待挖）
+- 邮箱：info@vespertec.com（公开·X1-02 补）
 - 电话：+44-161-947 4321（内部用，不进外发材料）
 
 ## 4. 关键人（KP）
@@ -50,7 +50,22 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究与跟进（第 2 步起填）
-- 研究状态：未研究
-- 研究结论 / 升降建议：—
-- 下一步：—
+## 8. 研究卡（第 2 步，X1-02，2026-10-29）
+
+- **结论：XC** — X1-02 补路径：○ 数据中心服务器 / 网络 / 存储方案 25%：Vesper Technologies Ltd.（Stockport SK4 3EJ；NVIDIA 北欧之星伙伴，HGX / DGX；11–50 人；MD Allan （等级不动，池位见 sieve_x）
+- 活着吗：2026-10-29 检索命中官网 / 名录（在线）
+- 一句话：Vesper Technologies Ltd.：数据中心服务器 / 网络 / 存储方案（NVIDIA 北欧之星伙伴；HGX / DGX）；11–50 人；MD Allan Kaye allan.kaye@（bizseek 名录）→ DC 交换机对位 ✔（CENTEC 敲门砖）
+- 是什么人：SI·VAR·经销商；Vesper Technologies Ltd.
+- 对口哪条线：CENTEC 数据中心（敲门砖）+ SmartByte — ○ 数据中心服务器 / 网络 / 存储方案 25%：Vesper Technologies Ltd.（Stockport
+- 找得到人吗：info@vespertec.com（官网 / 名录公开（X1-02 补路径））；KP：无具名
+- 已触达：未触达（路径 2026-10-29 新补）
+- 与 Saga Clients：无
+- **下一动作：不动** — 已入 P 池 → 按巡检节奏首触
+
+证据：
+| 类型 | 说明 | 摘录 | 来源 | 日期 |
+|---|---|---|---|---|
+| 官网 / 名录 | 官网新闻 2025-05-15：Vesper Technologies Ltd · Stockport SK4 3EJ · MD Allan Kaye · info@vespertec.com |  | https://vespertec.com/news/vesper-technologies-crowned-northern-european-star-performer-at-nvidia-partners-award/ | 2026-10-29 |
+| 官网 / 名录 | Crunchbase：Vesper Technologies Ltd. · Stockport · 11–50 · info@vespertec.com |  | https://www.crunchbase.com/organization/vesper-b846 | 2026-10-29 |
+
+- 备注：Vesper Technologies Ltd.；Units 5 Rugby Park, Bletchley Road, Stockport SK4 3EJ；+44 161 947 4321

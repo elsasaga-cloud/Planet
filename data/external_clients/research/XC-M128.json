@@ -1,0 +1,45 @@
+{
+ "code": "XC-M128",
+ "name": "Frineta UAB",
+ "round": "X1-02",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "FRINETA, UAB：计算机网络设计 / 安装 + 通信服务（MikroTik 官方分销名录）；2–3 名员工 → 微型；Vadovas Andrius Balevičius",
+ "type_final": "分销（MikroTik 官方）；FRINETA, UAB",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "留 C：FRINETA, UAB（Kaunas；235738890；2001）坐实但 2–3 人网络安装商 → ≤5 人",
+ "brands_seen": [],
+ "contacts": {
+  "email": "info@frineta.lt",
+  "email_status": "官网 / 名录公开（X1-02 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "1551.lt：FRINETA, UAB · 235738890 · 2001 · info@frineta.lt · ≤10 人",
+   "quote": "",
+   "url": "https://www.1551.lt/frineta-uab-32278/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "geltoni.lt：Jonavos g. 16 Kaunas · 3 名员工 · Vadovas Andrius Balevičius",
+   "quote": "",
+   "url": "https://geltoni.lt/imones/frineta-uab/40016",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-02 补路径：留 C：FRINETA, UAB（Kaunas；235738890；2001）坐实但 2–3 人网络安装商 → ≤5 人安装商不入池；邮箱已补 info@frineta.lt（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "留 C 储备，随群发节奏"
+ },
+ "deep": false,
+ "notes": "FRINETA, UAB；Jonavos g. 16, LT-44269 Kaunas；Įmonės kodas 235738890；PVM LT357388917；2001-03-15；+370 37 300807",
+ "draft_en": null
+}

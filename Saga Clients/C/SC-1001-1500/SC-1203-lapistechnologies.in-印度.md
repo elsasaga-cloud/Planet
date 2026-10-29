@@ -2,7 +2,7 @@
 
 > **评级 C**　|　印度　|　档案编号 `SC-1203`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：留 C 储备**（闸 2 · 2026-10-29）：闸 2 回 C（未坐实 + 红旗）：Lapis Technologies 1 查仅同名 Shimoga 户（CIN U74993KA2018PTC109130；₹1 lakh；zaubacorp Strike Off）归属未证 → 回 C 储备
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：○ P 池正式入池（档位 ○，复查批 G2R-01）：○ 印度 · 网络集成商 25%：Lapis Technologies（Secunderabad / Hyderabad 500084；+91 40 6690 4704；11–50 人；设计 / 部署 / 托管信息网络；Pre-Sales Head Sk Gopi 2009 至今）ZoomInfo + Crunchbase 名录部分坐实（CIN 未取；此前 Shimoga 同名壳不是它）；对位 ✔（园区网交换机）；非主区 → 预付 100%，reg_pending　|　标签：prepay、reg_pending、integrator
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:India　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1203
 rating: C
 rating_auto: C
-sieve: keep_C  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
 score: 13
 country: 印度
 region: 南亚

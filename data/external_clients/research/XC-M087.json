@@ -1,0 +1,45 @@
+{
+ "code": "XC-M087",
+ "name": "NETAP",
+ "round": "X1-02",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "Χ. Β. Τσακαρέλος & ΣΙΑ Ε.Ε.（C. V. TSAKARELOS & CO. L.P. / NetAP）：希腊 + 塞浦路斯网络 / 自动化 / 保护系统分销 + 技术支持（Westermo Reseller；R. STAHL 名录）；合伙企业（Ε.Ε.），微型",
+ "type_final": "分销（Westermo Reseller）；Χ. Β. Τσακαρέλος & ΣΙΑ Ε.Ε.（C. V. TSAKARELOS & CO. L.P. / NetAP）",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "☆ 网络 / 自动化 / 保护系统分销 + 技术支持 20%：Χ. Β. Τσακαρέλος & ΣΙΑ Ε.Ε.（G",
+ "brands_seen": [],
+ "contacts": {
+  "email": "info@netap.gr",
+  "email_status": "官网 / 名录公开（X1-02 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "官网 Contact：V. TSAKARELOS & CO. L.P. · 6 Selefkou Thrakomakedones · info@netap.gr · support@netap.gr",
+   "quote": "",
+   "url": "https://www.netap.gr/contact",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "R. STAHL 分销名录：NetAP - C.V. TSAKARELOS AND CO L.P. · info@netap.gr",
+   "quote": "",
+   "url": "https://r-stahl.com/de/global/home/?tx_locationsearch_locations%5Baction%5D=ajaxGetLocationsForCountry&tx_locationsearch_locations%5Bcontroller%5D=Location&tx_locationsearch_locations%5Bcountry_uid%5D=23&type=9999&cHash=519a49f4938ffa15858a95f886cc5f52",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-02 补路径：☆ 网络 / 自动化 / 保护系统分销 + 技术支持 20%：Χ. Β. Τσακαρέλος & ΣΙΑ Ε.Ε.（GR + CY；Westermo Reseller；R. STAHL 名录）官网部分坐实（ΓΕΜΗ 待（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "观察档 → 试单后转正"
+ },
+ "deep": false,
+ "notes": "Χ. Β. Τσακαρέλος & ΣΙΑ Ε.Ε.（C. V. TSAKARELOS & CO. L.P. / NetAP）；6 Selefkou, 13676 Thrakomakedones, Athens；+30 210 243 3383",
+ "draft_en": null
+}

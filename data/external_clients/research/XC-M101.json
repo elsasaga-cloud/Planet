@@ -1,0 +1,45 @@
+{
+ "code": "XC-M101",
+ "name": "Autic System AS",
+ "round": "X1-02",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "Autic System AS：自动化 / 工业 IT 软硬件 + 工业通信方案供应商（NO / SE / DK 站点；HMS Red Lion / N-Tron 渠道）",
+ "type_final": "分销（HMS/N-Tron·Red Lion 渠道）；Autic System AS",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "○ 自动化 / 工业 IT + 工业通信方案供应 20%：Autic System AS（Tønsberg；NO / S",
+ "brands_seen": [],
+ "contacts": {
+  "email": "post@autic.no",
+  "email_status": "官网 / 名录公开（X1-02 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "官网 Welcome：Autic System AS · Træleborgveien 2 Tønsberg · post@autic.no",
+   "quote": "",
+   "url": "https://www.autic.no/en/welcome-to-autic-system/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "支持站：support@autic.no · +47 33 30 09 50",
+   "quote": "",
+   "url": "https://support.autic.no/hc/no/articles/115001422653-Kontakt-oss",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-02 补路径：○ 自动化 / 工业 IT + 工业通信方案供应 20%：Autic System AS（Tønsberg；NO / SE / DK 站点；HMS Red Lion / N-Tron 渠道）官网部分坐实（Org.nr 待（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "已入 P 池 → 按巡检节奏首触"
+ },
+ "deep": false,
+ "notes": "Autic System AS；Træleborgveien 2, 3112 Tønsberg；+47 33 30 09 50",
+ "draft_en": null
+}

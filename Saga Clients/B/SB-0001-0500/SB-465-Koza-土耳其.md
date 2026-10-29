@@ -236,14 +236,14 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
-- **最近变化摘要**：2026-10-28 sitemap：新增 820 条：2017-07-04T16:22:40 1-amper-adaptor；2017-07-25T14:24:29 bft-moovi-30-otopark-bari
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
+- **最近变化摘要**：2026-10-29 home：内容变化：+2 −2 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-465/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://kozaguvenlik.com.tr/) | html | HTTP 200 | 2026-10-28T08:44:48Z | 10060 字符；首行：Koza Güvenlik, IP Kamera, AHD Kamera, Teletek Alarm, Akıllı Ev Sistemleri |
-| [sitemap](https://kozaguvenlik.com.tr/sitemap.xml) | sitemap | HTTP 200 | 2026-10-28T08:44:48Z | 900 个 URL；最新 lastmod 2026-07-31T16:51:16 |
+| [home](https://kozaguvenlik.com.tr/) | html | HTTP 200 | 2026-10-29T08:41:09Z | 10059 字符；首行：Koza Güvenlik, IP Kamera, AHD Kamera, Teletek Alarm, Akıllı Ev Sistemleri |
+| [sitemap](https://kozaguvenlik.com.tr/sitemap.xml) | sitemap | ReadTimeout: HTTPSConnectionPool(host='kozaguvenlik.com.tr', | 2026-10-28T08:44:48Z | 站点地图（2026-10-21 时 3585 条） |
 | [news_1](https://kozaguvenlik.com.tr/index.php?route=extension/simple_blog/article) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4824 字符；首行：Posts |
 
 ## 联系方式（已有 · 原值照录）

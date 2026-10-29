@@ -1,0 +1,45 @@
+{
+ "code": "XC-M100",
+ "name": "Adeptor AS",
+ "round": "X1-02",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "Adeptor AS：电子 / 电气设备增值分销 20 年（HMS Red Lion / N-Tron 渠道）；部门负责人具名（elen.arnoy@ / leah.foseid@ / elias.storaas@ 见官网）",
+ "type_final": "分销（HMS：Red Lion / N-Tron）；Adeptor AS",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "○ 电子 / 电气设备增值分销 20%：Adeptor AS（Bergen；20 年；HMS Red Lion / N-",
+ "brands_seen": [],
+ "contacts": {
+  "email": "sales@adeptor.no",
+  "email_status": "官网 / 名录公开（X1-02 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "官网 Kontakt oss：sales@adeptor.no · +47 55 59 69 90 · 部门联系人",
+   "quote": "",
+   "url": "https://www.adeptor.no/kundesenter/kontakt-oss",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "Eliaden 展商页：Adeptor AS · 20 年增值分销 · Kanalveien 62 Bergen",
+   "quote": "",
+   "url": "https://eliaden.no/utstillere/adeptor-as/",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-02 补路径：○ 电子 / 电气设备增值分销 20%：Adeptor AS（Bergen；20 年；HMS Red Lion / N-Tron 渠道；官网具名部门负责人 elen.arnoy@ / leah.foseid@ / eli（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "已入 P 池 → 按巡检节奏首触"
+ },
+ "deep": false,
+ "notes": "Adeptor AS；Kanalveien 62, 5068 Bergen（+ Stavanger / Oslo / Kungälv SE）；+47 55 59 69 90",
+ "draft_en": null
+}

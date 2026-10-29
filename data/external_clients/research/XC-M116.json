@@ -1,0 +1,45 @@
+{
+ "code": "XC-M116",
+ "name": "QL3D",
+ "round": "X1-02",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "QL3D：工业 / 交通 / 数据中心网络方案分销（HW group 法国独家；HMS Red Lion / N-Tron）；联系人 Ludovic Debôves",
+ "type_final": "分销（HMS/N-Tron·Red Lion 渠道）；QL3D",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "☆ 工业 / 交通 / 数据中心网络方案分销 20%：QL3D（Bazainville 78；HW group 法国独家",
+ "brands_seen": [],
+ "contacts": {
+  "email": "info@ql3d.fr",
+  "email_status": "官网 / 名录公开（X1-02 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "HW group 分销商页：QL3D · Bazainville · Ludovic DEBÔVES · info@ql3d.fr",
+   "quote": "",
+   "url": "https://www.hw-group.com/content/ql3d",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "DCmag 名录：QL3D · info@ql3d.fr · 01 34 91 90 20",
+   "quote": "",
+   "url": "https://annuaire.dcmag.fr/directory/ql3d/",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-02 补路径：☆ 工业 / 交通 / 数据中心网络方案分销 20%：QL3D（Bazainville 78；HW group 法国独家；HMS Red Lion / N-Tron；联系人 Ludovic Debôves）名录部分坐实（（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "观察档 → 试单后转正"
+ },
+ "deep": false,
+ "notes": "QL3D；9 chemin de la Fosse, 78550 Bazainville；+33 1 34 91 90 20",
+ "draft_en": null
+}

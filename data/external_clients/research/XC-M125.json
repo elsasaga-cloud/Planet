@@ -1,0 +1,45 @@
+{
+ "code": "XC-M125",
+ "name": "Electrobit",
+ "round": "X1-02",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "Electrobit OÜ（原 Beijer Electronics Eesti OÜ）：工业自动化产品分销（Mitsubishi 等；Westermo Reseller）；销售工程师具名 arvo.lokk@ / andrei.dorosh@ / rene.erkman@（官网）",
+ "type_final": "分销（Westermo Reseller）；Electrobit OÜ（原 Beijer Electronics Eesti OÜ）",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "○ 工业自动化分销 20%：Electrobit OÜ（Tallinn Suur-Sõjamäe 13A；Registr",
+ "brands_seen": [],
+ "contacts": {
+  "email": "info@electrobit.ee",
+  "email_status": "官网 / 名录公开（X1-02 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "官网页脚：Electrobit OÜ · Suur-Sõjamäe 13A Tallinn · Registrikood 10668940 · info@electrobit.ee · 销售联系人",
+   "quote": "",
+   "url": "https://www.electrobit.ee/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "e-Krediidiinfo：ELECTROBIT OÜ 10668940 · 曾用名 Beijer Electronics Eesti OÜ",
+   "quote": "",
+   "url": "https://www.e-krediidiinfo.ee/10668940-ELECTROBIT",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-02 补路径：○ 工业自动化分销 20%：Electrobit OÜ（Tallinn Suur-Sõjamäe 13A；Registrikood 10668940；KMKR EE101082723；原 Beijer Electroni（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "已入 P 池 → 按巡检节奏首触"
+ },
+ "deep": false,
+ "notes": "Electrobit OÜ（原 Beijer Electronics Eesti OÜ）；Suur-Sõjamäe 13A, 11415 Tallinn；Registrikood 10668940；KMKR EE101082723；+372 6518 140",
+ "draft_en": null
+}

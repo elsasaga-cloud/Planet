@@ -226,14 +226,14 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
-- **最近变化摘要**：2026-10-28 sitemap：新增 12 条：2021-10-11T14:12:37 network；2020-06-17T14:44:46 4k-over-fiber； hd-over-fiber； fibe
+- **监控层**：A 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
+- **最近变化摘要**：2026-10-29 sitemap：新增 12 条：2021-10-11T14:12:37 network；2020-06-17T14:44:46 4k-over-fiber； hd-over-fiber； fibe
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-028/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.entasource.co.th/) | html | HTTP 200 | 2026-10-28T08:44:48Z | 2499 字符；首行：ย้อนกลับ |
-| [sitemap](https://www.entasource.co.th/sitemap.xml) | sitemap | HTTP 200 | 2026-10-28T08:44:48Z | 92 个 URL；最新 lastmod 2026-03-18T08:06:02 |
+| [home](https://www.entasource.co.th/) | html | HTTP 200 | 2026-10-29T08:41:09Z | 2499 字符；首行：ย้อนกลับ |
+| [sitemap](https://www.entasource.co.th/sitemap.xml) | sitemap | HTTP 200 | 2026-10-29T08:41:09Z | 92 个 URL；最新 lastmod 2026-03-18T08:06:02 |
 | [youtube](https://www.youtube.com/@entasource2731) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 8 条；最新：2024-05-01T15:10:01+00:00 ทดสอบการส่งสัญญาณภาพด้วย ETS Switch |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/entasource/

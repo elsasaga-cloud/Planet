@@ -16,20 +16,20 @@
    "P"
   ],
   "stats": {
-   "customers": 1468,
+   "customers": 1514,
    "no_domain": 99,
-   "sources": 2949,
+   "sources": 3002,
    "kinds": {
     "sitemap": 624,
-    "html": 2097,
+    "html": 2150,
     "youtube_handle": 125,
     "rss": 103
    },
    "social_manual": 1118,
-   "snapshot_missing": 363,
+   "snapshot_missing": 409,
    "site_dead": 41,
-   "pool_customers": 239,
-   "pool_sources": 291
+   "pool_customers": 285,
+   "pool_sources": 344
   },
   "note": "离线生成（幂等）。精选源请改 targets.json；本文件由 discover.py 重新生成时会被覆盖。"
  },
@@ -40399,7 +40399,7 @@
     "入池": "正式",
     "来源": "Planet",
     "区域组": "四主区 + 波兰",
-    "标签": "reg_pending",
+    "标签": "small",
     "下次巡检": "2026-12-28"
    }
   },
@@ -40499,7 +40499,7 @@
     "入池": "正式",
     "来源": "Planet",
     "区域组": "四主区 + 波兰",
-    "标签": "reg_pending、security_dist",
+    "标签": "security_dist、fed_vendor",
     "下次巡检": "2026-12-28"
    }
   },
@@ -40731,6 +40731,1198 @@
     "来源": "Planet",
     "区域组": "欧洲其他",
     "标签": "micro",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "SC-623",
+   "name": "ООО «АКОМ»（Industrial Nets / i-nets.ru）",
+   "grade": "C",
+   "country": "俄罗斯",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://industrialnets.ru/",
+     "note": "官网首页"
+    },
+    {
+     "id": "home_2",
+     "kind": "html",
+     "url": "https://i-nets.ru/",
+     "note": "第二域名首页（P 池巡检表）"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "Saga",
+    "区域组": "俄语区",
+    "标签": "ru_payment、prepay、industrial",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "SC-729",
+   "name": "Brown Bear（brownbear.ru）",
+   "grade": "C",
+   "country": "俄罗斯",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://brownbear.ru/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "Saga",
+    "区域组": "俄语区",
+    "标签": "ru_payment、prepay、reg_pending",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "SC-509",
+   "name": "NexTik Bharat Private Limited",
+   "grade": "C",
+   "country": "印度",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://nextik.co.in/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "Saga",
+    "区域组": "印度 / 南亚",
+    "标签": "oem_target、prepay",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "SC-1203",
+   "name": "Lapis Technologies（Hyderabad）",
+   "grade": "C",
+   "country": "印度",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://lapistechnologies.in/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "Saga",
+    "区域组": "印度 / 南亚",
+    "标签": "prepay、reg_pending、integrator",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "SC-1883",
+   "name": "Công ty TNHH A.N.F.A Việt Nam（ANFA Vietnam Co., Ltd.）",
+   "grade": "C",
+   "country": "越南",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://anfatech.com.vn/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "Saga",
+    "区域组": "东亚 / 东南亚 / 大洋洲",
+    "标签": "prepay、reg_pending",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "SC-1855",
+   "name": "Kıraç Bilgi ve İletişim Teknolojileri San. ve Tic. A.Ş.",
+   "grade": "C",
+   "country": "土耳其",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://kiracbilisim.com.tr/",
+     "note": "官网首页"
+    },
+    {
+     "id": "home_2",
+     "kind": "html",
+     "url": "https://zkr.com.tr/",
+     "note": "第二域名首页（P 池巡检表）"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "Saga",
+    "区域组": "四主区 + 波兰",
+    "标签": "oem_target、cold",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "SC-969",
+   "name": "Trueview（trueview.co.in）",
+   "grade": "C",
+   "country": "印度",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://trueview.co.in/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "△",
+    "入池": "观察",
+    "来源": "Saga",
+    "区域组": "印度 / 南亚",
+    "标签": "oem_target、reg_pending",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M095",
+   "name": "GOMA ELETTRONICA SpA",
+   "grade": "C",
+   "country": "意大利",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://goma.it/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "★",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "欧洲其他",
+    "标签": "industrial、oem_target、civil_only",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M093",
+   "name": "Compass Distribution（Sirius S.p.A.）",
+   "grade": "C",
+   "country": "意大利",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://compass-distribution.it/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "★",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "欧洲其他",
+    "标签": "security_dist",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M185",
+   "name": "Koning & Hartman B.V.",
+   "grade": "C",
+   "country": "荷兰",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://koningenhartman.com/",
+     "note": "官网首页"
+    },
+    {
+     "id": "home_2",
+     "kind": "html",
+     "url": "https://koningenhartman.nl/",
+     "note": "第二域名首页（P 池巡检表）"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "★",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "欧洲其他",
+    "标签": "industrial",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M186",
+   "name": "SmartSD B.V.",
+   "grade": "C",
+   "country": "荷兰",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://smartsd.com/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "★",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "欧洲其他",
+    "标签": "security_dist",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M112",
+   "name": "E.V.D.I. SAS（Environnement Voix Données Image）",
+   "grade": "C",
+   "country": "法国",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://evdi.fr/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "欧洲其他",
+    "标签": "security_dist、civil_only",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M115",
+   "name": "PHOEBE Ile de France",
+   "grade": "C",
+   "country": "法国",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://phoebe.fr/",
+     "note": "官网首页"
+    },
+    {
+     "id": "home_2",
+     "kind": "html",
+     "url": "https://distribution.phoebe.fr/",
+     "note": "第二域名首页（P 池巡检表）"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "欧洲其他",
+    "标签": "industrial、dayjob_fit",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M117",
+   "name": "SPHINX CONNECT FRANCE（Sphinx France）",
+   "grade": "C",
+   "country": "法国",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://sphinxfrance.com/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "欧洲其他",
+    "标签": "industrial",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M125",
+   "name": "Electrobit OÜ",
+   "grade": "C",
+   "country": "爱沙尼亚",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://electrobit.ee/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "欧洲其他",
+    "标签": "industrial",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M127",
+   "name": "AUTOMATIKOS CENTRAS, UAB",
+   "grade": "C",
+   "country": "立陶宛",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://automatikoscentras.lt/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "欧洲其他",
+    "标签": "industrial",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M187",
+   "name": "MVA - Electrotécnia, Lda.",
+   "grade": "C",
+   "country": "葡萄牙",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://mva.pt/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "欧洲其他",
+    "标签": "industrial",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M194",
+   "name": "Tektraco Ltd.",
+   "grade": "C",
+   "country": "马耳他",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://tektraco.com/",
+     "note": "官网首页"
+    },
+    {
+     "id": "home_2",
+     "kind": "html",
+     "url": "https://tektracotelecoms.com/",
+     "note": "第二域名首页（P 池巡检表）"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "欧洲其他",
+    "标签": "industrial",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M131",
+   "name": "SC IMPERIAL ELECTRIC SA",
+   "grade": "C",
+   "country": "罗马尼亚",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://imperialelectric.ro/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "欧洲其他",
+    "标签": "industrial、civil_only",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M109",
+   "name": "ELKOTEX d.o.o.",
+   "grade": "C",
+   "country": "斯洛文尼亚",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://elkotex.si/",
+     "note": "官网首页"
+    },
+    {
+     "id": "home_2",
+     "kind": "html",
+     "url": "https://b2b.elkotex.si/",
+     "note": "第二域名首页（P 池巡检表）"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "欧洲其他",
+    "标签": "isp_channel",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M122",
+   "name": "ATC AUTOMATION LIMITED",
+   "grade": "C",
+   "country": "爱尔兰",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://atcautomation.ie/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "欧洲其他",
+    "标签": "industrial",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M103",
+   "name": "Last Mile Communication AS（Last Mile AS）",
+   "grade": "C",
+   "country": "挪威",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://lastmile.no/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "欧洲其他",
+    "标签": "industrial",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M121",
+   "name": "Avtera BH d.o.o.",
+   "grade": "C",
+   "country": "波黑",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://avtera.ba/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "欧洲其他",
+    "标签": "isp_channel、prepay",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-C1466",
+   "name": "Hartford Electronics GmbH",
+   "grade": "C",
+   "country": "德国",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://hartford-electronics.de/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "四主区 + 波兰",
+    "标签": "security_dist、oem_target",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-E060",
+   "name": "Delta Computer Products GmbH",
+   "grade": "C",
+   "country": "德国",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://deltacomputer.de/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "四主区 + 波兰",
+    "标签": "dc",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M132",
+   "name": "ABP Technology（ABP TECH）",
+   "grade": "C",
+   "country": "美国",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://abptech.com/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "四主区 + 波兰",
+    "标签": "industrial、reg_pending",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M154",
+   "name": "Pulse Supply",
+   "grade": "C",
+   "country": "美国",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://pulsesupply.com/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "四主区 + 波兰",
+    "标签": "industrial、reg_pending",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M158",
+   "name": "Santa Clara Systems, Inc.",
+   "grade": "C",
+   "country": "美国",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://santaclarasystems.com/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "四主区 + 波兰",
+    "标签": "industrial、reg_pending",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M168",
+   "name": "Marshall Wolf Automation, Inc.",
+   "grade": "C",
+   "country": "美国",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://wolfautomation.com/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "四主区 + 波兰",
+    "标签": "industrial、reg_pending",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M177",
+   "name": "Distec Ltd",
+   "grade": "C",
+   "country": "英国",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://distec.co.uk/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "四主区 + 波兰",
+    "标签": "industrial、reg_pending",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M179",
+   "name": "LC Automation Ltd",
+   "grade": "C",
+   "country": "英国",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://lca.co.uk/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "四主区 + 波兰",
+    "标签": "industrial、reg_pending",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-E068",
+   "name": "Vesper Technologies Ltd.",
+   "grade": "C",
+   "country": "英国",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://vespertec.com/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "四主区 + 波兰",
+    "标签": "dc、reg_pending",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M124",
+   "name": "DataLink Communications Ltd",
+   "grade": "C",
+   "country": "爱尔兰",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://datalinkcom.net/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "欧洲其他",
+    "标签": "industrial、reg_pending",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M100",
+   "name": "Adeptor AS",
+   "grade": "C",
+   "country": "挪威",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://adeptor.no/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "欧洲其他",
+    "标签": "industrial、reg_pending",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M101",
+   "name": "Autic System AS",
+   "grade": "C",
+   "country": "挪威",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://autic.no/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "欧洲其他",
+    "标签": "industrial、reg_pending",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M072",
+   "name": "КОМИКОН ООД（Comicon Ltd.）",
+   "grade": "C",
+   "country": "保加利亚",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://comicon.bg/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "欧洲其他",
+    "标签": "industrial、oem_target、reg_pending",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M073",
+   "name": "Ритбул ЕООД（Rittbul EOOD）",
+   "grade": "C",
+   "country": "保加利亚",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://rittbul.bg/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "欧洲其他",
+    "标签": "industrial、reg_pending",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-E063",
+   "name": "Xentech B.V.",
+   "grade": "C",
+   "country": "荷兰",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://xentech.nl/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "欧洲其他",
+    "标签": "dc、reg_pending",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M174",
+   "name": "Control Technologies UK Ltd",
+   "grade": "C",
+   "country": "英国",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://controltech.uk.com/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "☆",
+    "入池": "观察",
+    "来源": "External",
+    "区域组": "四主区 + 波兰",
+    "标签": "industrial、micro",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M189",
+   "name": "Ekanet Soluciones, S.L.",
+   "grade": "C",
+   "country": "西班牙",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://ekanet.es/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "☆",
+    "入池": "观察",
+    "来源": "External",
+    "区域组": "欧洲其他",
+    "标签": "industrial、micro",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M097",
+   "name": "Piero Bersanini",
+   "grade": "C",
+   "country": "意大利",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://pierobersanini.com/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "☆",
+    "入池": "观察",
+    "来源": "External",
+    "区域组": "欧洲其他",
+    "标签": "industrial、micro",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M087",
+   "name": "Χ. Β. Τσακαρέλος & ΣΙΑ Ε.Ε.（NetAP）",
+   "grade": "C",
+   "country": "希腊",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://netap.gr/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "☆",
+    "入池": "观察",
+    "来源": "External",
+    "区域组": "欧洲其他",
+    "标签": "industrial、micro、reg_pending",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M147",
+   "name": "International Trade Carrier, LLC",
+   "grade": "C",
+   "country": "美国",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://internationaltradecarrier.com/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "☆",
+    "入池": "观察",
+    "来源": "External",
+    "区域组": "四主区 + 波兰",
+    "标签": "industrial、reg_pending",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M116",
+   "name": "QL3D",
+   "grade": "C",
+   "country": "法国",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://ql3d.fr/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "☆",
+    "入池": "观察",
+    "来源": "External",
+    "区域组": "欧洲其他",
+    "标签": "industrial、reg_pending",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-E059",
+   "name": "Alyseo",
+   "grade": "C",
+   "country": "法国",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://alyseo.com/",
+     "note": "官网首页"
+    },
+    {
+     "id": "home_2",
+     "kind": "html",
+     "url": "https://infra.alyseo.com/",
+     "note": "第二域名首页（P 池巡检表）"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "☆",
+    "入池": "观察",
+    "来源": "External",
+    "区域组": "欧洲其他",
+    "标签": "dc、reg_pending",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M083",
+   "name": "Aspect（Skopje）",
+   "grade": "C",
+   "country": "北马其顿",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://aspect.com.mk/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "☆",
+    "入池": "观察",
+    "来源": "External",
+    "区域组": "欧洲其他",
+    "标签": "industrial、prepay、reg_pending",
     "下次巡检": "2026-12-28"
    }
   }

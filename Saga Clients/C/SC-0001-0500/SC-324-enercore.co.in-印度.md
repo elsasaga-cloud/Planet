@@ -2,7 +2,7 @@
 
 > **评级 C**　|　印度　|　档案编号 `SC-324`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：留 C 储备**（闸 2 · 2026-10-29）：闸 2 回 C：Enercore（enercore.co.in）1 查仅得同名 Enercore Solutions（Gurgaon 2023 住宅地址 微型 IT 服务）域名归属未证 → 未坐实 → 回 C 储备
+> **C 池筛选：留 C 储备**（闸 2 · 2026-10-29）：闸 2 回 C：Enercore（enercore.co.in）1 查仅得同名 Enercore Solutions（Gurgaon 2023 住宅地址 微型 IT 服务）域名归属未证 → 未坐实 → 回 C 储备｜G2R-01：复查：官网联系页 ENERCORE SYSTEMS，204 Luxmi Building Sector 10A Gurugram 122001，+91 124 46082947，hello@ → 地址坐实、无法人形式 / 注册号，微型 → 留 C
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(IN)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 

@@ -148,6 +148,21 @@ updated: 2026-10-29
 | 2025-09-19 | 2025.9.19 | 22迷你 |  | A |  | Taiwan.xlsx#2 |
 | 2025-10-16 | 1016 | dac |  | A |  | Taiwan.xlsx#2 |
 
+## 动态监控（自动 · 网站 / 社媒 / 代码库）
+
+- **监控层**：C 级面层　|　**自动源**：5 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-172/`；本节随档案重渲染刷新，实时看日志。
+
+| 源 | 类型 | 状态 | 最近变化 | 摘要 |
+|---|---|---|---|---|
+| [home](https://cop-security.com/) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
+| [sitemap](https://cop-security.com/sitemap.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 500 条） |
+| [news_1](https://cop-security.com/edcontent.php?lang=en&tb=3) | html | 待首轮 | — | 导航「News & Announcement」 |
+| [news_2](https://cop-security.com/edcontent.php?lang=en&tb=3&cid=6) | html | 待首轮 | — | 导航「Events」 |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCjXRz4lZ8-bNWCj1uX4rSMg) | rss | 待首轮 | — | YouTube 频道 https://www.youtube.com/channel/UCjXRz4lZ8-bNWCj1uX4rSMg/videos |
+
+- **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/copalexcctv/；X/Twitter: https://twitter.com/cop_security；LinkedIn: https://www.linkedin.com/in/cop-security-11616b158/
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`sales@cop-security.com`〔企业邮箱；来源：用户表原值〕

@@ -1,0 +1,45 @@
+{
+ "code": "XC-M106",
+ "name": "SECOMP",
+ "round": "X1-02",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "SECOMP a.s.：消费电子零售 / 批发（pcplus.cz 网店）→ 对位一般",
+ "type_final": "分销；SECOMP a.s.",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "留 C：SECOMP a.s.（Praha；IČO 25141228；1997）坐实但主业消费电子零售 / 批发（pcp",
+ "brands_seen": [],
+ "contacts": {
+  "email": "secomp@secomp.cz",
+  "email_status": "官网 / 名录公开（X1-02 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "官网 GDPR 页：SECOMP a.s. · IČO 25141228 · Jizerská 851 Praha · secomp@secomp.cz",
+   "quote": "",
+   "url": "https://www.secomp.cz/gdpr_ma86.html",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "Finmag 工商：SECOMP a.s. · IČO 25141228 · 1997 · www.pcplus.cz",
+   "quote": "",
+   "url": "https://www.finmag.cz/obchodni-rejstrik/25141228-secomp-a-s",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-02 补路径：留 C：SECOMP a.s.（Praha；IČO 25141228；1997）坐实但主业消费电子零售 / 批发（pcplus.cz）→ 对位弱；邮箱已补 secomp@secomp.cz，随群发节奏（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "留 C 储备，随群发节奏"
+ },
+ "deep": false,
+ "notes": "SECOMP a.s.；Jizerská 851, 196 00 Praha 9 – Čakovice；IČO 25141228；DIČ CZ25141228；1997-07-02；+420 281 861 849",
+ "draft_en": null
+}

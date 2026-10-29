@@ -175,7 +175,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：4 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-23T02:54:23Z
+- **监控层**：成单精选层　|　**自动源**：4 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T02:54:23Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-090/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
@@ -183,7 +183,7 @@ updated: 2026-10-29
 | [site_feed](http://wizardsinc.co/?feed=rss2) | rss | HTTP 500 | 2026-10-23T02:54:23Z | WordPress RSS |
 | [home](http://wizardsinc.co/) | html | HTTP 500 | 2026-10-23T02:54:23Z | 官网首页 |
 | [contact](http://wizardsinc.co/?page_id=40) | html | HTTP 500 | 2026-10-23T02:54:23Z | 联系页（info@/support@wizardsinc.co，热线 1-700-816-003） |
-| [auto_home](https://live.com.my/) | html | ConnectTimeout: HTTPSConnectionPool(host='live.com.my', port | - | 官网首页（T27 快照状态 unknown） |
+| [auto_home](https://live.com.my/) | html | ConnectTimeout: HTTPSConnectionPool(host='live.com.my', port | - | 官网首页 |
 
 - **人工定期看（登录墙，不自动抓）**：10times：Raja Kumaran（CEO）参观 LED Light Malaysia 2026-07（标牌/LED 方向）；GitHub 用户 WizardsInc-Maintenance（2024-02 建，0 公开仓库，2026-10-19 有活动）归属未证实
 

@@ -245,14 +245,14 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
-- **最近变化摘要**：2026-10-28 sitemap：新增 548 条：2021-10-27T16:35:26 order-delivery；2018-11-02T15:02:17 routers-switches；2014-06-0
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
+- **最近变化摘要**：2026-10-29 sitemap：新增 548 条：2021-10-27T16:35:26 order-delivery；2018-11-02T15:02:17 routers-switches；2014-06-0
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-039/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.zelax.ru/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5916 字符；首行：Zelax - российский производитель телекоммуникационного оборудования |
-| [sitemap](https://www.zelax.ru/sitemap.xml) | sitemap | HTTP 200 | 2026-10-28T08:44:48Z | 628 个 URL；最新 lastmod 2026-10-15T12:23:56 |
+| [sitemap](https://www.zelax.ru/sitemap.xml) | sitemap | HTTP 200 | 2026-10-29T08:41:09Z | 628 个 URL；最新 lastmod 2026-10-15T12:23:56 |
 | [news_1](https://www.zelax.ru/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5141 字符；首行：Новости / Zelax |
 | [news_2](https://www.zelax.ru/news/rss/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3159 字符；首行：RSS-новости Zelax |
 

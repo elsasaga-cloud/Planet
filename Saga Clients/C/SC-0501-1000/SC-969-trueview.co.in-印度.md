@@ -2,7 +2,7 @@
 
 > **评级 C**　|　印度　|　档案编号 `SC-969`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：留 C 储备**（闸 2 · 2026-10-29）：闸 2 回 C：TrueView（trueview.co.in）1 查仅同名两户（True View Technologies Delhi 2008 / TrueView Corporate Mumbai 2022）域名归属未证 → 未坐实 → 回 C 储备（具名 KP manish@ / rupesh.bagde@ 在，来信再起则补查 CIN）　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：☆ P 池 · 观察档（试单 / 回访后转正或退回 C）**（闸 3 · 2026-10-29）：△ P 池观察档（档位 △，复查批 G2R-01）：△ 印度 · 自有品牌 CCTV / IFPD / 数字标牌 OEM 30%（观察）：Trueview（2011 起；Plot A-114/6 Five Star Shendra MIDC + Plot 56 AURIC，Chhatrapati Sambhajinagar/Aurangabad；+91 92255 50000；自称 India's No 1 CCTV & display brand）官网地址坐实、法人名 / CIN 未取（Delhi / Mumbai 同名两户都不是）；具名 KP manish@ / rupesh.bagde@ ✔ 对位 ✔ → 观察档：法人坐实即转 ○　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）、reg_pending
 >
 > **类型**：分销商/经销商（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(IN)·DONE、群发(筛选后质量一般的_群发)、表:India　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-969
 rating: C
 rating_auto: C
-sieve: keep_C  # 闸 2 G2 2026-10-29
+sieve: pool_watch  # 闸 3 P1 2026-10-29
 score: 17
 country: 印度
 region: 南亚

@@ -2,7 +2,7 @@
 
 > **评级 C**　|　泰国　|　档案编号 `SC-2437`　|　优先级 —　|　状态：已推送 8 次·未回复
 >
-> **C 池筛选：留 C 储备**（闸 2 · 2026-10-29）：闸 2 未坐实：nana-tech.net 1 查仅返回 Nana Engineering（水泵）+ thai.finance 同名合伙（域名未对上）+ 冷户 + Simon 判不行 → 回 C 储备　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：留 C 储备**（闸 2 · 2026-10-29）：闸 2 未坐实：nana-tech.net 1 查仅返回 Nana Engineering（水泵）+ thai.finance 同名合伙（域名未对上）+ 冷户 + Simon 判不行 → 回 C 储备｜G2R-01：复查：官网联系页 = Nana Corporation Co., Ltd.（Samut Prakan 10290 + Bangkok Bang Khun Thian；+66 2 101 2055；sales@nana-tech.net）法人名坐实、注册号未取；冷户 + Simon 判不行 → 留 C　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：推送 8 次（2025-03-12 → 2025-10-13）　|　**所在清单**：A优质名单(Thailand)、AI评估(TH)·DONE、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 

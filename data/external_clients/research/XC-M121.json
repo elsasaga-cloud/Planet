@@ -1,0 +1,38 @@
+{
+ "code": "XC-M121",
+ "name": "Avtera BH",
+ "round": "X1-02",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "Avtera BH d.o.o.：IT / 消费电子进口分销（Westermo Reseller 名录）；Direktor Ajdin Babić；中型",
+ "type_final": "分销（Westermo Reseller）；Avtera BH d.o.o.",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "○ IT / 消费电子进口分销 20%：Avtera BH d.o.o.（Sarajevo Blažuj 78；Reg.",
+ "brands_seen": [],
+ "contacts": {
+  "email": "avtera@avtera.ba",
+  "email_status": "官网 / 名录公开（X1-02 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "官网 O Avteri BH：Avtera BH d.o.o. · Blažuj 78 Sarajevo · PDV 201375920000 · 资本 900,000 KM · Direktor Ajdin Babić · avtera@avtera.ba",
+   "quote": "",
+   "url": "https://www.avtera.ba/o-avteri-bh/",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-02 补路径：○ IT / 消费电子进口分销 20%：Avtera BH d.o.o.（Sarajevo Blažuj 78；Reg. 065-0-Reg-08-002025 Općinski sud Sarajevo；PDV 201（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "已入 P 池 → 按巡检节奏首触"
+ },
+ "deep": false,
+ "notes": "Avtera BH d.o.o.；Blažuj 78, 71215 Blažuj-Ilidža, Sarajevo；PDV 201375920000；Reg. 065-0-Reg-08-002025 Općinski sud Sarajevo；资本 900,000 KM；+387 33 776 750",
+ "draft_en": null
+}

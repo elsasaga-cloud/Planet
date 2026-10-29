@@ -1,0 +1,45 @@
+{
+ "code": "XC-M189",
+ "name": "Ekanet",
+ "round": "X1-02",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "Ekanet Soluciones, S.L.：19\" 机柜制造 + 网络设备（交换机 / UPS / 光纤）分销；小型",
+ "type_final": "分销；Ekanet Soluciones, S.L.",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "☆ 19\" 机柜制造 + 网络设备（交换机 / UPS / 光纤）分销 20%：Ekanet Soluciones, S",
+ "brands_seen": [],
+ "contacts": {
+  "email": "comercial@ekanet.es",
+  "email_status": "官网 / 名录公开（X1-02 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "官网 PDF：Ekanet Soluciones, S.L. · comercial@ekanet.es · C/ Dalia 8 Humanes de Madrid",
+   "quote": "",
+   "url": "https://ekanet.es/catalogo/dossier_ekanet_web.pdf",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "Empresite：Ekanet Soluciones SL · CIF B86905536 · comercial@ekanet.es",
+   "quote": "",
+   "url": "https://empresite.eleconomista.es/EKANET-SOLUCIONES.html",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-02 补路径：☆ 19\" 机柜制造 + 网络设备（交换机 / UPS / 光纤）分销 20%：Ekanet Soluciones, S.L.（Humanes de Madrid；CIF B86905536）坐实；小型 → 观察档；co（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "观察档 → 试单后转正"
+ },
+ "deep": false,
+ "notes": "Ekanet Soluciones, S.L.；C/ Dalia 8, 28970 Humanes de Madrid；CIF B86905536；+34 912 522 443",
+ "draft_en": null
+}

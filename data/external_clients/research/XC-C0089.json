@@ -1,0 +1,45 @@
+{
+ "code": "XC-C0089",
+ "name": "IP Phone Warehouse（美国）",
+ "round": "X1-02",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "IP Phone Warehouse：VoIP 电话电商 + 代发货 / 履约服务（drop-ship）→ 电商型，PoE 交换机顺带；对位一般",
+ "type_final": "C类 — VoIP设备分销；IP Phone Warehouse",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "留 C：IP Phone Warehouse（Milwaukee WI）VoIP 电话电商 + 代发货履约 → 电商 /",
+ "brands_seen": [],
+ "contacts": {
+  "email": "service@ipphone-warehouse.com",
+  "email_status": "官网 / 名录公开（X1-02 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "官网 VoIP Phone Service：service@ipphone-warehouse.com · 316 N Milwaukee St Milwaukee WI",
+   "quote": "",
+   "url": "https://www.ipphone-warehouse.com/voip-phone-service/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "官网 Product Fulfillment Services：drop shipping 履约服务",
+   "quote": "",
+   "url": "https://ipphone-warehouse.com/product-fulfillment-s/1548.htm",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-02 补路径：留 C：IP Phone Warehouse（Milwaukee WI）VoIP 电话电商 + 代发货履约 → 电商 / drop-ship 形态不入池；邮箱已补 service@ipphone-warehouse.co（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "留 C 储备，随群发节奏"
+ },
+ "deep": false,
+ "notes": "IP Phone Warehouse；316 N Milwaukee St, Milwaukee, WI 53202；+1 888 201 9056",
+ "draft_en": null
+}

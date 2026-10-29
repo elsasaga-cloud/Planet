@@ -1,0 +1,38 @@
+{
+ "code": "XC-M174",
+ "name": "Control Technologies UK Ltd",
+ "round": "X1-02",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "Control Technologies UK Ltd：CAN / 嵌入式与工业通信分销（Ixxat / Kunbus / CSS Electronics 等品牌）；微型",
+ "type_final": "分销（HMS/N-Tron·Red Lion 渠道）；Control Technologies UK Ltd",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "☆ CAN / 嵌入式与工业通信分销 20%：Control Technologies UK Ltd（Sharnbroo",
+ "brands_seen": [],
+ "contacts": {
+  "email": "info@controltech.uk.com",
+  "email_status": "官网 / 名录公开（X1-02 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "官网 Privacy：info@controltech.uk.com · Company No 07901679 · VAT GB266046990 · Sharnbrook MK44 1NN",
+   "quote": "",
+   "url": "https://controltechuk.com/privacy-policy/",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-02 补路径：☆ CAN / 嵌入式与工业通信分销 20%：Control Technologies UK Ltd（Sharnbrook；Company No 07901679；VAT GB266046990；Ixxat / Kunb（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "观察档 → 试单后转正"
+ },
+ "deep": false,
+ "notes": "Control Technologies UK Ltd；The Granary, Mill Road, Stoke Mill, Sharnbrook MK44 1NN；Company No 07901679；VAT GB266046990；+44 1234 247176",
+ "draft_en": null
+}

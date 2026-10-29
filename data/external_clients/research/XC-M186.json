@@ -1,0 +1,52 @@
+{
+ "code": "XC-M186",
+ "name": "SmartSD",
+ "round": "X1-02",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "SmartSD B.V.：安防分销（视频 / 门禁 / 入侵 / 消防；ComNet 授权）；51–100 人；中型",
+ "type_final": "分销（ComNet 授权）；SmartSD B.V.",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "★ 安防分销 20%：SmartSD B.V.（Breda Minervum 7118；KvK 24430056；51–",
+ "brands_seen": [],
+ "contacts": {
+  "email": "info@smartsd.com",
+  "email_status": "官网 / 名录公开（X1-02 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "官网隐私页：SmartSD · info@smartsd.com · NL +31 76 579 2577 · BeLux · SmartSD Hommax 西班牙",
+   "quote": "",
+   "url": "https://smartsd.com/nl/p/privacy-statement",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "Crunchbase：SmartSD B.V. · Breda · 51–100 · info@smartsd.com",
+   "quote": "",
+   "url": "https://www.crunchbase.com/organization/smartsd",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "Drimble：SmartSD B.V. · KvK 24430056 · Minervum 7118 Breda",
+   "quote": "",
+   "url": "https://drimble.nl/bedrijf/breda/19040768/smartsd-bv.html",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-02 补路径：★ 安防分销 20%：SmartSD B.V.（Breda Minervum 7118；KvK 24430056；51–100 人；NL + BeLux + 西班牙 SmartSD Hommax）坐实；ComNet 授权（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "已入 P 池 → 按巡检节奏首触"
+ },
+ "deep": false,
+ "notes": "SmartSD B.V.；Minervum 7118, Breda（+ SmartSD Hommax 西班牙 Picanya；BeLux）；KvK 24430056；+31 76 579 2577",
+ "draft_en": null
+}

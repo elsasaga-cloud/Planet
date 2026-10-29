@@ -2,7 +2,7 @@
 
 > **评级 C**　|　美国　|　档案编号 `SC-2622`　|　优先级 —　|　状态：用户判定不行
 >
-> **C 池筛选：留 C 储备**（闸 2 · 2026-10-29）：闸 2 未坐实：cctvvideo.com 1 查仅返回 e-link 供货商页 + Simon 判不行 → 回 C 储备　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+> **C 池筛选：留 C 储备**（闸 2 · 2026-10-29）：闸 2 未坐实：cctvvideo.com 1 查仅返回 e-link 供货商页 + Simon 判不行 → 回 C 储备｜G2R-01：复查：ZoomInfo cctvvideo.com = 387 Canal St New York 10013，1–10 人安防批发网店，(212) 431-2622 → 微型 → 留 C　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 

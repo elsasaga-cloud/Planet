@@ -230,14 +230,14 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
-- **最近变化摘要**：2026-10-28 sitemap：新增 820 条：2026-05-21T15:44:17 dss；2026-05-12T11:56:03 certification；2026-05-12T11:56:03 con
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
+- **最近变化摘要**：2026-10-29 sitemap：新增 820 条：2026-05-21T15:44:17 dss；2026-05-12T11:56:03 certification；2026-05-12T11:56:03 con
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-924/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://intracom-telecom.com/) | html | HTTP 200 | 2026-10-28T08:44:48Z | 24349 字符；首行：Intracom Telecom - Intracom Telecom |
-| [sitemap](https://intracom-telecom.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-28T08:44:48Z | 900 个 URL；最新 lastmod 2026-10-12T09:24:59 |
+| [sitemap](https://intracom-telecom.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-29T08:41:09Z | 900 个 URL；最新 lastmod 2026-10-12T09:24:59 |
 | [news_1](https://intracom-telecom.com/corporate/newsroom/press/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 22597 字符；首行：Intracom Telecom - Press Releases |
 | [news_2](https://intracom-telecom.com/corporate/newsroom/events/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 23487 字符；首行：Intracom Telecom - Events |
 | [youtube](https://www.youtube.com/user/IntracomTelecom) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-10-13T10:59:19+00:00 Unlocking Gigabit Connectivity in Every Building |

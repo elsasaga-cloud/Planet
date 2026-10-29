@@ -227,14 +227,14 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
-- **最近变化摘要**：2026-10-28 sitemap：新增 820 条：2025-09-17T00:06:23 14D-12D05NNL；2025-09-17T00:06:23 14D-12D05NNL；2025-09-17T00:0
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
+- **最近变化摘要**：2026-10-29 sitemap：新增 820 条：2025-09-17T00:06:23 14D-12D05NNL；2025-09-17T00:06:23 14D-12D05NNL；2025-09-17T00:0
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-238/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.digimax.it/it) | html | HTTP 200 | 2026-10-27T08:02:45Z | 39034 字符；首行：Digimax \| Alimentatori industriali, driver led, strip led, pc industriali e d |
-| [sitemap](https://www.digimax.it/sitemap.xml) | sitemap | HTTP 200 | 2026-10-28T08:44:48Z | 900 个 URL；最新 lastmod 2026-10-28T08:51:00 |
+| [sitemap](https://www.digimax.it/sitemap.xml) | sitemap | HTTP 200 | 2026-10-29T08:41:09Z | 900 个 URL；最新 lastmod 2026-10-29T08:47:51 |
 | [news_1](https://www.digimax.it/it/blog) | html | HTTP 200 | 2026-10-27T08:02:45Z | 33892 字符；首行：Digimax \| Visita il nostro blog: news, articoli e approfondimenti |
 
 ## 联系方式（已有 · 原值照录）

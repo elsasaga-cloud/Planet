@@ -28046,19 +28046,30 @@
    "evidence_urls": [],
    "followups": [],
    "r_notes": [],
-   "emails": [],
-   "emails_live": [],
+   "emails": [
+    {
+     "addr": "contact@alyseo.com",
+     "status": "公开·X1-02 补"
+    },
+    {
+     "addr": "sales@alyseo.com",
+     "status": "公开·X1-02 补"
+    }
+   ],
+   "emails_live": [
+    "contact@alyseo.com",
+    "sales@alyseo.com"
+   ],
    "phones": [
     "+33-1-83 35 10 10"
    ],
    "kp_named": false,
    "stage": "",
    "flags": [
-    "无可用邮箱",
     "来源库已删",
     "来源库未建档（仅在 xlsx）",
     "来源库终局已删",
-    "缺联系"
+    "邮箱已补（X1-02 2026-10-29）"
    ],
    "src_deleted": {
     "old_code": "B-129",
@@ -28122,19 +28133,25 @@
    "evidence_urls": [],
    "followups": [],
    "r_notes": [],
-   "emails": [],
-   "emails_live": [],
+   "emails": [
+    {
+     "addr": "info@deltacomputer.de",
+     "status": "公开·X1-02 补"
+    }
+   ],
+   "emails_live": [
+    "info@deltacomputer.de"
+   ],
    "phones": [
     "+49-40-300 672-0"
    ],
    "kp_named": false,
    "stage": "",
    "flags": [
-    "无可用邮箱",
     "来源库已删",
     "来源库未建档（仅在 xlsx）",
     "来源库终局已删",
-    "缺联系"
+    "邮箱已补（X1-02 2026-10-29）"
    ],
    "src_deleted": {
     "old_code": "B-007",
@@ -28349,19 +28366,25 @@
    "evidence_urls": [],
    "followups": [],
    "r_notes": [],
-   "emails": [],
-   "emails_live": [],
+   "emails": [
+    {
+     "addr": "sales@xentech.nl",
+     "status": "公开·X1-02 补"
+    }
+   ],
+   "emails_live": [
+    "sales@xentech.nl"
+   ],
    "phones": [
     "+31-85-002 0796"
    ],
    "kp_named": false,
    "stage": "",
    "flags": [
-    "无可用邮箱",
     "来源库已删",
     "来源库未建档（仅在 xlsx）",
     "来源库终局已删",
-    "缺联系"
+    "邮箱已补（X1-02 2026-10-29）"
    ],
    "src_deleted": {
     "old_code": "A-018→B-135",
@@ -28390,8 +28413,8 @@
    "src_risk": [],
    "src_volume": "",
    "name": "TELCARIA",
-   "country_zh": "葡萄牙",
-   "iso": "PT",
+   "country_zh": "西班牙",
+   "iso": "ES",
    "city": "",
    "website": "",
    "domain": "",
@@ -28425,19 +28448,25 @@
    "evidence_urls": [],
    "followups": [],
    "r_notes": [],
-   "emails": [],
-   "emails_live": [],
+   "emails": [
+    {
+     "addr": "info@telcaria.com",
+     "status": "公开·X1-02 补"
+    }
+   ],
+   "emails_live": [
+    "info@telcaria.com"
+   ],
    "phones": [
     "+34-910261014"
    ],
    "kp_named": false,
    "stage": "",
    "flags": [
-    "无可用邮箱",
     "来源库已删",
     "来源库未建档（仅在 xlsx）",
     "来源库终局已删",
-    "缺联系"
+    "邮箱已补（X1-02 2026-10-29）"
    ],
    "src_deleted": {
     "old_code": "B-133",
@@ -28729,19 +28758,25 @@
    "evidence_urls": [],
    "followups": [],
    "r_notes": [],
-   "emails": [],
-   "emails_live": [],
+   "emails": [
+    {
+     "addr": "info@vespertec.com",
+     "status": "公开·X1-02 补"
+    }
+   ],
+   "emails_live": [
+    "info@vespertec.com"
+   ],
    "phones": [
     "+44-161-947 4321"
    ],
    "kp_named": false,
    "stage": "",
    "flags": [
-    "无可用邮箱",
     "来源库已删",
     "来源库未建档（仅在 xlsx）",
     "来源库终局已删",
-    "缺联系"
+    "邮箱已补（X1-02 2026-10-29）"
    ],
    "src_deleted": {
     "old_code": "A-027",

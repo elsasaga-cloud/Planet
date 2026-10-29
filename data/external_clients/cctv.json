@@ -12307,7 +12307,12 @@
    "type": "C类 — VoIP设备分销",
    "their_class": "",
    "stars": 0,
-   "emails": [],
+   "emails": [
+    {
+     "addr": "service@ipphone-warehouse.com",
+     "status": "公开·X1-02 补"
+    }
+   ],
    "phones": [],
    "kv": {
     "类型": "C类 — VoIP设备分销",
@@ -12325,7 +12330,8 @@
    "flags": [
     "profile批次文件",
     "多处出现×2",
-    "终端触点"
+    "终端触点",
+    "邮箱已补（X1-02 2026-10-29）"
    ],
    "src_path": "profile/new-customers-batch-14.md",
    "src_line": 36,
@@ -12347,7 +12353,9 @@
     }
    ],
    "src_repo_ref": "elsasaga-cloud/CCTV-PoE@9be1416 (arena/01a0c908-cctv-poe)",
-   "emails_live": [],
+   "emails_live": [
+    "service@ipphone-warehouse.com"
+   ],
    "kp_named": false,
    "stage": "",
    "saga_dup": null,
@@ -150306,7 +150314,12 @@
    "type": "安防设备制造商/分销商",
    "their_class": "",
    "stars": 1,
-   "emails": [],
+   "emails": [
+    {
+     "addr": "kundendienst@hartford-electronics.de",
+     "status": "公开·X1-02 补"
+    }
+   ],
    "phones": [],
    "kv": {
     "公司全称": "Hartford Electronics GmbH",
@@ -150321,7 +150334,8 @@
    "raw": "545. Hartford Electronics GmbH（Dortmund PoE摄像头）🟢\n| 维度 | 详情 |\n|------|------|\n| **公司全称** | Hartford Electronics GmbH |\n| **公司类型** | 安防设备制造商/分销商 |\n| **总部** | Dortmund, Germany |\n| **产品** | PoE IP网络摄像头（4K 8MP Speed Dome等） |\n| **网站** | hartford-electronics.de |\n| **行业** | 安防设备 |\n| **角色** | PoE IP摄像头品牌 |\n\n| 维度 | 评估 |\n|------|------|\n| **客户优先级** | 🟡 **B类**（PoE摄像头品牌，配套PoE交换机需求） |\n\n---",
    "notes": "",
    "flags": [
-    "终端触点"
+    "终端触点",
+    "邮箱已补（X1-02 2026-10-29）"
    ],
    "src_path": "03-海外客户开发清单.md",
    "src_line": 18677,
@@ -150332,7 +150346,9 @@
    "src_kind": "heading",
    "also": [],
    "src_repo_ref": "elsasaga-cloud/CCTV-PoE@9be1416 (arena/01a0c908-cctv-poe)",
-   "emails_live": [],
+   "emails_live": [
+    "kundendienst@hartford-electronics.de"
+   ],
    "kp_named": false,
    "stage": "",
    "saga_dup": null,
@@ -150476,7 +150492,12 @@
    "type": "安防/消防分销商",
    "their_class": "",
    "stars": 1,
-   "emails": [],
+   "emails": [
+    {
+     "addr": "info@fire-distribution.de",
+     "status": "公开·X1-02 补"
+    }
+   ],
    "phones": [],
    "kv": {
     "公司全称": "HON Security and Fire Distribution GmbH",
@@ -150491,7 +150512,8 @@
    "raw": "548. HON Security and Fire Distribution GmbH 🟢🟢\n| 维度 | 详情 |\n|------|------|\n| **公司全称** | HON Security and Fire Distribution GmbH |\n| **公司类型** | 安防/消防分销商 |\n| **总部** | Wiesenstraße 3, 51371 Leverkusen, Germany |\n| **网站** | fire-distribution.de |\n| **行业** | 安防/消防设备分销 |\n| **角色** | ESSER/NOTIFIER/Honeywell授权分销商 |\n\n**核心产品：**\n- **Brandmeldetechnik（消防）**：ESSER/NOTIFIER\n- **Einbruchmeldetechnik（入侵报警）**：Honeywell Security\n- **Zutrittskontrolle（门禁）**：Honeywell\n- **Videotechnik（视频技术）**\n- **Sprachalarmierung（语音报警）**\n- **Notbeleuchtung（应急照明）**\n- 服务：技术咨询、培训、支持\n\n| 维度 | 评估 |\n|------|------|\n| **客户优先级** | 🟡 **B类**（安防/消防分销商，有视频技术品类） |\n| **匹配度** | 中等（视频技术是品类之一） |\n\n---",
    "notes": "",
    "flags": [
-    "终端触点"
+    "终端触点",
+    "邮箱已补（X1-02 2026-10-29）"
    ],
    "src_path": "03-海外客户开发清单.md",
    "src_line": 18742,
@@ -150502,7 +150524,9 @@
    "src_kind": "heading",
    "also": [],
    "src_repo_ref": "elsasaga-cloud/CCTV-PoE@9be1416 (arena/01a0c908-cctv-poe)",
-   "emails_live": [],
+   "emails_live": [
+    "info@fire-distribution.de"
+   ],
    "kp_named": false,
    "stage": "",
    "saga_dup": null,

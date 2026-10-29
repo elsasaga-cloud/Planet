@@ -1,0 +1,45 @@
+{
+ "code": "XC-M150",
+ "name": "Platinum Micro",
+ "round": "X1-02",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "Platinum Micro, Inc.：2000 起电脑系统 / 组件零售 + 网络安装，CEO Bobby Sirichalermchai；微型",
+ "type_final": "分销（PLANET 授权）；Platinum Micro, Inc.",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "留 C：Platinum Micro, Inc.（Van Nuys CA；2000 起电脑系统零售 + 网络安装；CEO",
+ "brands_seen": [],
+ "contacts": {
+  "email": "sales@platinummicro.com",
+  "email_status": "官网 / 名录公开（X1-02 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "allbiz：Platinum Micro · sales@platinummicro.com · (818) 505-6853",
+   "quote": "",
+   "url": "https://www.allbiz.com/business/platinum-micro-818-505-6853",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "TrustLink：Platinum Micro, Inc. Van Nuys · est. 2000 · Bobby Sirichalermchai",
+   "quote": "",
+   "url": "https://www.trustlink.org/Reviews/Platinum-Micro-Inc-206408990",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-02 补路径：留 C：Platinum Micro, Inc.（Van Nuys CA；2000 起电脑系统零售 + 网络安装；CEO Bobby Sirichalermchai）微型零售；邮箱已补 sales@platinummic（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "留 C 储备，随群发节奏"
+ },
+ "deep": false,
+ "notes": "Platinum Micro, Inc.；7512 Tyrone Ave, Van Nuys CA 91405（另 Sylmar 15815 Monte St）；+1 818-505-6853",
+ "draft_en": null
+}

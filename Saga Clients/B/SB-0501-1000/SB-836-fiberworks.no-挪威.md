@@ -249,15 +249,15 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
-- **最近变化摘要**：2026-10-28 feed_auto：新增 20 条：28.10.2026 08.43.03 SFP+, 10Gbase-T Copper Interface, I-temp；27.10.2026 14.57.37 F
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
+- **最近变化摘要**：2026-10-29 feed_auto：新增 20 条：28.10.2026 10.21.32 Fiberworks 40+1 DWDM Mux+Demux 19" 1RU；06.10.2026 13.03.37 G24
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-836/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.fiberworks.no/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3117 字符；首行：Hjem - Fiberworks |
 | [sitemap](https://www.fiberworks.no/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
-| [feed_auto](https://www.fiberworks.no/WebPages/produkt/rss.aspx) | rss | HTTP 200 | 2026-10-28T08:44:48Z | 100 条；最新：28.10.2026 08.43.03 SFP+, 10Gbase-T Copper Interface, I-temp |
+| [feed_auto](https://www.fiberworks.no/WebPages/produkt/rss.aspx) | rss | HTTP 200 | 2026-10-29T08:41:09Z | 100 条；最新：28.10.2026 10.21.32 Fiberworks 40+1 DWDM Mux+Demux 19" 1RU |
 
 ## 联系方式（已有 · 原值照录）
 

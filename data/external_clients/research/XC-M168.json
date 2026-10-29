@@ -1,0 +1,45 @@
+{
+ "code": "XC-M168",
+ "name": "Wolf Automation",
+ "round": "X1-02",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "Marshall Wolf Automation, Inc.：全线工业自动化分销（50+ 品牌授权；Advantech 授权）；11–50 人",
+ "type_final": "分销（Advantech 授权）；Marshall Wolf Automation, Inc.",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "○ 全线工业自动化分销 20%：Marshall Wolf Automation, Inc.（Algonquin IL；",
+ "brands_seen": [],
+ "contacts": {
+  "email": "sales@wolfautomation.com",
+  "email_status": "官网 / 名录公开（X1-02 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "官网页脚：Marshall Wolf Automation, Inc. · 210 Dowdle Street Algonquin IL · sales@wolfautomation.com",
+   "quote": "",
+   "url": "https://www.wolfautomation.com/products/process-automation/?page=36",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "Crunchbase：Marshall Wolf Automation Inc · Algonquin · 11–50 · sales@",
+   "quote": "",
+   "url": "https://www.crunchbase.com/organization/marshall-wolf-automation",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-02 补路径：○ 全线工业自动化分销 20%：Marshall Wolf Automation, Inc.（Algonquin IL；50+ 品牌授权含 Advantech；11–50 人）官网部分坐实（IL SOS 号待补）；主区 （等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "已入 P 池 → 按巡检节奏首触"
+ },
+ "deep": false,
+ "notes": "Marshall Wolf Automation, Inc.；210 Dowdle Street Ste 1 / 923 S Main St, Algonquin IL 60102；+1 847-658-8130",
+ "draft_en": null
+}

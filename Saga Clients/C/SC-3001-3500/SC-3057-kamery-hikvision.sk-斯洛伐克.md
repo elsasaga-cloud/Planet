@@ -2,7 +2,7 @@
 
 > **评级 C**　|　斯洛伐克　|　档案编号 `SC-3057`　|　优先级 —　|　状态：用户判定不行
 >
-> **C 池筛选：留 C 储备**（闸 2 · 2026-10-29）：闸 2 未坐实：kamery-hikvision.sk 1 查仅返回同名他站（hik-kamery.sk / kamery-hikvision-sk.sk / maxalarm）+ 退信 + Simon 判不行 → 回 C 储备；国别纠偏 斯洛文尼亚 → 斯洛伐克（待 Simon 确认）
+> **C 池筛选：留 C 储备**（闸 2 · 2026-10-29）：闸 2 未坐实：kamery-hikvision.sk 1 查仅返回同名他站（hik-kamery.sk / kamery-hikvision-sk.sk / maxalarm）+ 退信 + Simon 判不行 → 回 C 储备；国别纠偏 斯洛文尼亚 → 斯洛伐克（待 Simon 确认）｜G2R-01：复查：检索只返回 kamery-hikvision-sk.sk（Bratislava，另一家）→ kamery-hikvision.sk 法人仍未取 → 留 C
 >
 > **类型**：CCTV 网店（主体未坐实；Wi-Tek 用户；退信）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 

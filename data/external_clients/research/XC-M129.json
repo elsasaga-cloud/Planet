@@ -1,0 +1,45 @@
+{
+ "code": "XC-M129",
+ "name": "ATYS-co Romania",
+ "round": "X1-02",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "Atys-co Romania S.R.L.：自动化电子设备供应（变频 / 传感 / 工业调制解调器 / MEAN WELL 电源；Westermo）；1–10 人 → 微型；具名 radu.baldea@atysco.ro",
+ "type_final": "分销（Westermo）；Atys-co Romania S.R.L.",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "留 C：Atys-co Romania S.R.L.（Cluj-Napoca + București；1–10 人；电源",
+ "brands_seen": [],
+ "contacts": {
+  "email": "cluj@atysco.ro",
+  "email_status": "官网 / 名录公开（X1-02 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "sursedetensiune.ro 联系页：Atys-co Romania S.R.L. · str. Lotrului 5 Cluj-Napoca · cluj@atysco.ro · bucuresti@ · radu.baldea@",
+   "quote": "",
+   "url": "https://sursedetensiune.ro/shop_contact.php",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "Crunchbase：Atys-co · Cluj-Napoca · 1–10 · cluj@atysco.ro",
+   "quote": "",
+   "url": "https://www.crunchbase.com/organization/atys-co",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-02 补路径：留 C：Atys-co Romania S.R.L.（Cluj-Napoca + București；1–10 人；电源 / 传感 / 工业调制解调器）微型 —— 匈牙利 ATYS-CO Kft（XC-M082 ★）同系（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "留 C 储备，随群发节奏"
+ },
+ "deep": false,
+ "notes": "Atys-co Romania S.R.L.；str. Lotrului 5, 400140 Cluj-Napoca（+ București 分部）；+40 264 593 169",
+ "draft_en": null
+}

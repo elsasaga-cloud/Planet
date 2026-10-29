@@ -1,0 +1,45 @@
+{
+ "code": "XC-M108",
+ "name": "Star Net",
+ "round": "X1-02",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "StarNet（S.C. StarNet S.R.L.）：摩尔多瓦主要 ISP / 电信运营商（501–1000 人；MikroTik 官方分销）→ 运营商型，非「巨头 48」名单但体量大；对位一般（运营商采购走招标）",
+ "type_final": "分销（MikroTik 官方）；StarNet（S.C. StarNet S.R.L.）",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "留 C：StarNet（Chișinău；摩尔多瓦主要 ISP / 电信运营商，501–1000 人）—— 运营商采购走",
+ "brands_seen": [],
+ "contacts": {
+  "email": "clientbusiness@starnet.md",
+  "email_status": "官网 / 名录公开（X1-02 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "官网 Contacte：企业客户 clientbusiness@starnet.md · 行政 info@starnet.md · Str. Columna 170",
+   "quote": "",
+   "url": "https://www.starnet.md/ro/contacts",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "Crunchbase：StarNet · Chișinău · 501–1000 人 · 电信运营商",
+   "quote": "",
+   "url": "https://www.crunchbase.com/organization/starnet-de49",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-02 补路径：留 C：StarNet（Chișinău；摩尔多瓦主要 ISP / 电信运营商，501–1000 人）—— 运营商采购走招标，「巨头运营商」口径不入池；邮箱已补 clientbusiness@starnet.md（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "留 C 储备，随群发节奏"
+ },
+ "deep": false,
+ "notes": "StarNet（S.C. StarNet S.R.L.）；Str. Columna 170, Chișinău；+373 22 844 448",
+ "draft_en": null
+}

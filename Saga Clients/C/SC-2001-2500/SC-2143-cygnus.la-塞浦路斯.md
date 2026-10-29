@@ -2,7 +2,7 @@
 
 > **评级 C**　|　塞浦路斯　|　档案编号 `SC-2143`　|　优先级 —　|　状态：已推送 4 次·未回复
 >
-> **C 池筛选：留 C 储备**（闸 2 · 2026-10-29）：闸 2 未坐实：Cygnus（cygnus.la）1 查无命中（仅无关同名）+ Simon 判不行 + 4 推 0 回 → 回 C 储备　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+> **C 池筛选：留 C 储备**（闸 2 · 2026-10-29）：闸 2 未坐实：Cygnus（cygnus.la）1 查无命中（仅无关同名）+ Simon 判不行 + 4 推 0 回 → 回 C 储备｜G2R-01：复查：ZoomInfo 把 cygnus.la 归为 Cygnus Electronics（Buenos Aires，+54 11 3221 8153）→ 国别疑为阿根廷而非塞浦路斯（待 Simon 确认后 country_fix）；法人 / CUIT 未取 + Simon 判不行 → 留 C　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 4 次（2025-06-20 → 2025-09-23）　|　**所在清单**：A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE、群发(杂)、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 

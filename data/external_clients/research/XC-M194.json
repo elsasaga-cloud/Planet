@@ -1,0 +1,45 @@
+{
+ "code": "XC-M194",
+ "name": "Tektraco",
+ "round": "X1-02",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "Tektraco Ltd.：电信基础设施（GPON / OSP 光纤 / LAN / 测试）+ 实验室 / 医疗气体分销；10–49 人；CEO K. Sciberras ksciberras@（出口名录）",
+ "type_final": "分销（Westermo Reseller）；Tektraco Ltd.",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "○ 电信基础设施分销 20%：Tektraco Ltd.（San Gwann；C11363；VAT MT1204-691",
+ "brands_seen": [],
+ "contacts": {
+  "email": "sales@tektraco.com",
+  "email_status": "官网 / 名录公开（X1-02 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "Malta Exporters 名录：Tektraco Ltd · C11363 · 1990 · 10–49 人 · ksciberras@tektraco.com",
+   "quote": "",
+   "url": "https://maltaexporters.mt/directory-listings/tektraco-ltd/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "Tektraco Telecoms Contact：sales@tektraco.com · telecomsales@ · GPON / OSP / LAN",
+   "quote": "",
+   "url": "https://www.tektracotelecoms.com/contact-us",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-02 补路径：○ 电信基础设施分销 20%：Tektraco Ltd.（San Gwann；C11363；VAT MT1204-6917；1990 起；10–49 人；GPON / OSP 光纤 / LAN / 测试线，另有实验室 /（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "已入 P 池 → 按巡检节奏首触"
+ },
+ "deep": false,
+ "notes": "Tektraco Ltd.；176 Birkirkara Road, San Gwann SGN 4190, Malta；C11363；VAT MT1204-6917；1990 起；+356 21 378 088",
+ "draft_en": null
+}

@@ -2,7 +2,7 @@
 
 > **评级 C**　|　越南　|　档案编号 `SC-1883`　|　优先级 —　|　状态：已推送 8 次·未回复
 >
-> **C 池筛选：留 C 储备**（闸 2 · 2026-10-29）：闸 2 回 C：Anfatech（anfatech.com.vn）1 查仅近名 ANPHATECH JSC（2022；税号 2024-12 已关闭）归属未证 → 未坐实 → 回 C 储备
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：○ P 池正式入池（档位 ○，复查批 G2R-01）：○ 越南 · NAS / 网络设备分销 20%：Công ty TNHH A.N.F.A Việt Nam（129E Nguyễn Đình Chính P8 Phú Nhuận TP.HCM + Hà Nội 办公室；QNAP NAS 越南渠道；info@ / sales@anfatech.com.vn；Mr. Thắng 0909 560 555 thang.nv@、Mr. Quý quy.nv@ 具名）官网 + FB 法人名坐实（MST 未取）；NAS 渠道买交换机对位 ✔；非主区 → 预付 100%　|　标签：prepay、reg_pending
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 8 次（2024-05-10 → 2024-12-27）　|　**所在清单**：群发(VN/VN)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1883
 rating: C
 rating_auto: C
-sieve: keep_C  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
 score: 1
 country: 越南
 region: 亚太

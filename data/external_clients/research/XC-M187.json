@@ -1,0 +1,38 @@
+{
+ "code": "XC-M187",
+ "name": "MVA - Electrotécnia",
+ "round": "X1-02",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "MVA - Electrotécnia, Lda.：自动化 / 通信 / 能源系统方案伙伴（GSM / RF / Ethernet / 光纤通信系统；Westermo Reseller）；comercial@ = 报价箱",
+ "type_final": "分销（Westermo Reseller）；MVA - Electrotécnia, Lda.",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "○ 自动化 / 通信 / 能源系统方案伙伴 20%：MVA - Electrotécnia, Lda.（Carnaxid",
+ "brands_seen": [],
+ "contacts": {
+  "email": "comercial@mva.pt",
+  "email_status": "官网 / 名录公开（X1-02 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "官网 General Contacts：MVA - Electrotécnia, Lda. · VAT 502 539 186 · comercial@mva.pt（报价）· mva@mva.pt",
+   "quote": "",
+   "url": "https://www.mva.pt/en/general-contacts",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-02 补路径：○ 自动化 / 通信 / 能源系统方案伙伴 20%：MVA - Electrotécnia, Lda.（Carnaxide；NIF 502 539 186；Ethernet / 光纤 / RF 通信系统线）坐实；West（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "已入 P 池 → 按巡检节奏首触"
+ },
+ "deep": false,
+ "notes": "MVA - Electrotécnia, Lda.；Rua Inácio Duarte 9A, 2790-226 Carnaxide；NIF 502 539 186；+351 214 879 000",
+ "draft_en": null
+}

@@ -153,14 +153,14 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
-- **最近变化摘要**：2026-10-28 sitemap：更新 35 条：precisionsolutions.com.br（2026-10-27 → 2026-10-28）；produtos（2026-10-27 → 2026-10-2
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
+- **最近变化摘要**：2026-10-29 sitemap：更新 35 条：precisionsolutions.com.br（2026-10-28 → 2026-10-29）；produtos（2026-10-28 → 2026-10-2
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-990/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://precisionsolutions.com.br/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3459 字符；首行：﻿﻿ |
-| [sitemap](https://precisionsolutions.com.br/sitemap.xml) | sitemap | HTTP 200 | 2026-10-28T08:44:48Z | 35 个 URL；最新 lastmod 2026-10-28 |
+| [sitemap](https://precisionsolutions.com.br/sitemap.xml) | sitemap | HTTP 200 | 2026-10-29T08:41:09Z | 35 个 URL；最新 lastmod 2026-10-29 |
 
 - **人工定期看（登录墙，不自动抓）**：WhatsApp: https://wa.me/5511911673946?text=Olá! Gostaria de saber mais sobre os produtos e serviços da Precision Solutions.；WhatsApp: https://wa.me/5511911673946?text=Olá! Gostaria de saber mais sobre os serviços da Precision Solutions.；LinkedIn: https://br.linkedin.com/company/precisionsolutionsbr；Instagram: https://www.instagram.com/precisionsolutions.br/；WhatsApp: https://wa.me/5511911673946
 

@@ -1,0 +1,45 @@
+{
+ "code": "XC-M083",
+ "name": "Aspect",
+ "round": "X1-02",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "Aspect（Skopje）：自动化方案 / 计算机设备分销（Westermo Reseller）；20–49 人 / 营收 $1–5M（ZoomInfo）；法人全名待补",
+ "type_final": "分销（Westermo Reseller）；Aspect（Skopje）",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "☆ 自动化方案 / 计算机设备分销 20%：Aspect（Skopje Orce Nikolov 190/3-1；20–",
+ "brands_seen": [],
+ "contacts": {
+  "email": "office@aspect.com.mk",
+  "email_status": "官网 / 名录公开（X1-02 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "官网 Contact：office@aspect.com.mk · Orce Nikolov 190/3-1 Skopje · +389 23 233 777",
+   "quote": "",
+   "url": "https://www.aspect.com.mk/contact",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "ZoomInfo：Aspect · Skopje · 20–49 人 · $1–5M",
+   "quote": "",
+   "url": "https://www.zoominfo.com/c/aspect/459879493",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-02 补路径：☆ 自动化方案 / 计算机设备分销 20%：Aspect（Skopje Orce Nikolov 190/3-1；20–49 人 / $1–5M）官网 + ZoomInfo 部分坐实（法人全名 / ЕМБС 待补）；We（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "观察档 → 试单后转正"
+ },
+ "deep": false,
+ "notes": "Aspect（Skopje）；Orce Nikolov 190/3-1, 1000 Skopje；+389 2 3233 777",
+ "draft_en": null
+}

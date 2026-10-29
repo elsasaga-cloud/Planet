@@ -1,0 +1,45 @@
+{
+ "code": "XC-M154",
+ "name": "Pulse Supply",
+ "round": "X1-02",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "Pulse Supply：网络技术分销（PLANET 授权），有区域销售总监（bpicardi@ / jomack@ 见官方 PDF）与 reseller 授权表",
+ "type_final": "分销（PLANET 授权）；Pulse Supply",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "○ 网络技术分销 20%：Pulse Supply（Sparks MD；PLANET 授权分销；设区域销售总监 bpic",
+ "brands_seen": [],
+ "contacts": {
+  "email": "sales@pulsesupply.com",
+  "email_status": "官网 / 名录公开（X1-02 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "官方 PDF：Pulse Sales Offices and Contacts · sales@pulsesupply.com · 区域销售总监",
+   "quote": "",
+   "url": "https://www.pulsesupply.com/images/pulse_sales_offices_locations_contacts.pdf",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "官方 PDF：Authorized Partner Form → reseller@pulsesupply.com",
+   "quote": "",
+   "url": "https://www.pulsesupply.com/images/pdf/pulse_authorized_partner_form.pdf",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-02 补路径：○ 网络技术分销 20%：Pulse Supply（Sparks MD；PLANET 授权分销；设区域销售总监 bpicardi@ / jomack@ 与 reseller 授权表）官网部分坐实（州注册号待补）；主区 U（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "已入 P 池 → 按巡检节奏首触"
+ },
+ "deep": false,
+ "notes": "Pulse Supply；909 Ridgebrook Road Suite 120, Sparks MD 21152；+1 410-583-1701",
+ "draft_en": null
+}

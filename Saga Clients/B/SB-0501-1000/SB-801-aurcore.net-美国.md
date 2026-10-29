@@ -195,14 +195,14 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
-- **最近变化摘要**：2026-10-28 sitemap：新增 1 条：2026-03-06T17:28:15 meet-the-aurcore-team-at-ofc-2026-west-hall-5151
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
+- **最近变化摘要**：2026-10-29 sitemap：新增 1 条：2026-03-06T17:28:15 meet-the-aurcore-team-at-ofc-2026-west-hall-5151
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-801/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.aurcore.net/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7518 字符；首行：AurCore Technology |
-| [sitemap](https://www.aurcore.net/sitemap.xml) | sitemap | HTTP 200 | 2026-10-28T08:44:48Z | 81 个 URL；最新 lastmod 2026-10-28T08:56:00 |
+| [sitemap](https://www.aurcore.net/sitemap.xml) | sitemap | HTTP 200 | 2026-10-29T08:41:09Z | 81 个 URL；最新 lastmod 2026-10-29T08:53:22 |
 | [news_1](https://www.aurcore.net/news) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2006 字符；首行：AurCore - Latest News & Updates |
 | [news_2](https://www.aurcore.net/blogs) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3740 字符；首行：AurCore \| Blog & Insights |
 | [youtube](https://www.youtube.com/@AurCoreTechnology) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 13 条；最新：2026-08-11T18:07:22+00:00 Manage Your AurCore Switch with Web UI & CLI \| Quick De |

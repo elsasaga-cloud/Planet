@@ -244,8 +244,8 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-24T07:26:33Z
-- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
+- **最近变化摘要**：2026-10-29 youtube：更新 1 条：PSA Centrii 4G Solar PT Camera - Video Manual Guide（2026-08-25T01:17:36 → 2026-10-2
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-956/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
@@ -253,7 +253,7 @@ updated: 2026-10-29
 | [home](https://www.psaproducts.com.au/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3455 字符；首行：PSA Products \| Security Systems Wholesale in Australia |
 | [sitemap](https://www.psaproducts.com.au/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
 | [news_1](https://www.psaproducts.com.au/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 1937 字符；首行：News \| PSA Products |
-| [youtube](https://www.youtube.com/@PSAproducts) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-09-22T03:04:56+00:00 BUY PSA GET GARMIN |
+| [youtube](https://www.youtube.com/@PSAproducts) | youtube_handle | HTTP 200 | 2026-10-29T08:41:09Z | 15 条；最新：2026-10-29T01:50:42+00:00 PSA Centrii 4G Solar PT Camera - Video Manual Guide |
 | [feed_auto](https://www.psaproducts.com.au/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Wed, 26 Aug 2026 02:12:43 QLD Smoke Alarm Laws for Landlords |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/psaproducts；Instagram: https://www.instagram.com/psaproducts/?fbclid=IwAR2FuO4Aa0C12LiXNY_7TiM-okfSToWNGxib9RBSWC_Qdg-GF4Mrwu7ABM8；LinkedIn: https://www.linkedin.com/company/psa-products-pty-ltd/mycompany/?viewAsMember=true

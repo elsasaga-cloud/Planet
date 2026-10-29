@@ -248,14 +248,14 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
-- **最近变化摘要**：2026-10-28 sitemap：新增 820 条：2019-07-21T16:32:53 produkt,1101,mini-nadajnik-swiatlowodowy-catv-rf1t15tftth-min
+- **监控层**：A 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
+- **最近变化摘要**：2026-10-29 sitemap：新增 820 条：2019-07-21T16:32:53 produkt,1101,mini-nadajnik-swiatlowodowy-catv-rf1t15tftth-min
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-034/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](http://www.rfog.pl/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7870 字符；首行：Transmisja światłowodowa i sieci światłowodowe. Światłowody, media konwertery,  |
-| [sitemap](http://www.rfog.pl/sitemap.xml) | sitemap | HTTP 200 | 2026-10-28T08:44:48Z | 900 个 URL；最新 lastmod 2019-07-21T16:32:53 |
+| [sitemap](http://www.rfog.pl/sitemap.xml) | sitemap | HTTP 200 | 2026-10-29T08:41:09Z | 900 个 URL；最新 lastmod 2019-07-21T16:32:53 |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/RFOGPL/
 

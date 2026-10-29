@@ -1,0 +1,45 @@
+{
+ "code": "XC-M179",
+ "name": "LC Automation Ltd",
+ "round": "X1-02",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "LC Automation Ltd：自动化 / 运动控制 / 机械安全分销（Red Lion 分销商；Chippenham 分部）",
+ "type_final": "分销（HMS/N-Tron·Red Lion 渠道）；LC Automation Ltd",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "○ 自动化 / 运动控制 / 机械安全分销 20%：LC Automation Ltd（Blackburn + Chip",
+ "brands_seen": [],
+ "contacts": {
+  "email": "sales@lca.co.uk",
+  "email_status": "官网 / 名录公开（X1-02 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "Red Lion 分销商页：LC Automation Ltd · Blackburn BB1 2QR · sales@lca.co.uk",
+   "quote": "",
+   "url": "https://tst.redlion.net/distributors/lc-automation-ltd-0",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "2018/19 目录：sales@ / technical@ / accounts@lca.co.uk",
+   "quote": "",
+   "url": "https://www.lcautomation.com/dbdocument/22354/2018-19%20Product%20Catalogue.pdf",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-02 补路径：○ 自动化 / 运动控制 / 机械安全分销 20%：LC Automation Ltd（Blackburn + Chippenham；Red Lion 分销商）官网部分坐实（Companies House 号待补）；主区（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "已入 P 池 → 按巡检节奏首触"
+ },
+ "deep": false,
+ "notes": "LC Automation Ltd；Duttons Way, Shadsworth Business Park, Blackburn BB1 2QR；+44 1254 685900",
+ "draft_en": null
+}

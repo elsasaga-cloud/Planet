@@ -1,0 +1,45 @@
+{
+ "code": "XC-M088",
+ "name": "Planet Shop",
+ "round": "X1-02",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "Planet Shop - Region Authorized Reseller：PLANET 希腊授权转售小店（Skroutz 评价：沟通差）；微型",
+ "type_final": "分销（PLANET 授权）；Planet Shop - Region Authorized Reseller",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "留 C：Planet Shop（希腊 PLANET 区域授权转售小店；Skroutz 评价沟通差）微型；邮箱已补 inf",
+ "brands_seen": [],
+ "contacts": {
+  "email": "info@planet-shop.gr",
+  "email_status": "官网 / 名录公开（X1-02 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "官网联系页：Info (at) planet-shop.gr · +30 231 231 5031 · Δρυμός 57200",
+   "quote": "",
+   "url": "https://www.planet-shop.gr/el/index.php?route=information%2Fcontact",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "Skroutz 店铺页：Κοιμήσεως Θεοτόκου 6 Δρυμός",
+   "quote": "",
+   "url": "https://www.skroutz.gr/m/2404/Planet-Shop",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-02 补路径：留 C：Planet Shop（希腊 PLANET 区域授权转售小店；Skroutz 评价沟通差）微型；邮箱已补 info@planet-shop.gr（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "留 C 储备，随群发节奏"
+ },
+ "deep": false,
+ "notes": "Planet Shop - Region Authorized Reseller；Κοιμήσεως Θεοτόκου 6, 57200 Δρυμός Θεσσαλονίκης；+30 231 231 5031",
+ "draft_en": null
+}

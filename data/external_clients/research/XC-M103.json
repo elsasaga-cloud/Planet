@@ -1,0 +1,52 @@
+{
+ "code": "XC-M103",
+ "name": "Last Mile Communication",
+ "round": "X1-02",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "Last Mile Communication AS（org 913821289；官网现署 Last Mile AS）：工业数据通信 + IP 摄像方案（1999 起；Westermo Gold）；11–50 人；CEO Hans-Jørgen Solli；市政 / 电力 / 海事 / 油气 → 工业交换机对位 ✔",
+ "type_final": "分销（Westermo Gold）；Last Mile Communication AS（org 913821289；官网现署 Last Mile AS）",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "○ 工业数据通信 + IP 视频方案分销 20%：Last Mile Communication AS（Asker Le",
+ "brands_seen": [],
+ "contacts": {
+  "email": "salg@lastmile.no",
+  "email_status": "官网 / 名录公开（X1-02 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "官网 Kontakt oss：Last Mile AS · Lensmannslia 4 Asker · salg@lastmile.no · Hans-Jørgen Solli",
+   "quote": "",
+   "url": "https://www.lastmile.no/om-oss/kontakt-oss",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "Norwayexports：Last Mile Communication AS · 913821289 · Asker",
+   "quote": "",
+   "url": "https://norwayexports.no/listing/last-mile-communication-as/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "Crunchbase：1999 起 · 11–50 · CEO Hans-Jørgen Solli",
+   "quote": "",
+   "url": "https://www.crunchbase.com/organization/last-mile-communication-as",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-02 补路径：○ 工业数据通信 + IP 视频方案分销 20%：Last Mile Communication AS（Asker Lensmannslia 4；Org.nr 913821289；1999 起；11–50 人；CEO H（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "已入 P 池 → 按巡检节奏首触"
+ },
+ "deep": false,
+ "notes": "Last Mile Communication AS（org 913821289；官网现署 Last Mile AS）；Lensmannslia 4, 1386 Asker；Org.nr 913821289；+47 66 90 79 80",
+ "draft_en": null
+}

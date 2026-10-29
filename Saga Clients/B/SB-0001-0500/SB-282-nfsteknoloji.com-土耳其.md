@@ -238,14 +238,14 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
-- **最近变化摘要**：2026-10-28 sitemap：新增 413 条： nfs； p-iris-lens.html； 13-mp-ahd-ir-bullet-kamera.html； samsung-wisenet-x-serisi
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
+- **最近变化摘要**：2026-10-29 sitemap：新增 413 条： nfs； p-iris-lens.html； 13-mp-ahd-ir-bullet-kamera.html； samsung-wisenet-x-serisi
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-282/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](http://nfsteknoloji.com/) | html | HTTP 200 | 2026-10-25T07:41:18Z | 5590 字符；首行：NFS Teknoloji \| Güvenlik Kamerası \| Kamera Sistemleri |
-| [sitemap](http://nfsteknoloji.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-28T08:44:48Z | 493 个 URL；最新 lastmod - |
+| [sitemap](http://nfsteknoloji.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-29T08:41:09Z | 493 个 URL；最新 lastmod - |
 | [news_1](http://nfsteknoloji.com/blog) | html | HTTP 200 | 2026-10-25T07:41:18Z | 6938 字符；首行：Blog \| Güvenlik Kamerası \| Kamera Sistemleri |
 | [news_2](http://nfsteknoloji.com/duyurularimiz.html) | html | HTTP 200 | 2026-10-26T07:56:19Z | 4616 字符；首行：Duyurularımız \|NFS Teknoloji \| Türkiye Distribütörü |
 

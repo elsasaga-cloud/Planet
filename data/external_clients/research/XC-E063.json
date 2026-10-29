@@ -1,0 +1,45 @@
+{
+ "code": "XC-E063",
+ "name": "Xentech B.V.",
+ "round": "X1-02",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "Xentech B.V.：SDN / 白牌交换机（Pica8 / Cumulus）+ 定制服务器 + IT 元件（Edgecore 经销商）→ 数据中心交换机对位 ✔（CENTEC 敲门砖）；小型",
+ "type_final": "SI·VAR·经销商；Xentech B.V.",
+ "size": "",
+ "saga_line": "CENTEC 数据中心（敲门砖）+ SmartByte",
+ "fit": "○ SDN / 白牌交换机 + 定制服务器 25%：Xentech B.V.（Zaandam Vredeweg 46/D",
+ "brands_seen": [],
+ "contacts": {
+  "email": "sales@xentech.nl",
+  "email_status": "官网 / 名录公开（X1-02 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "官网：Xentech B.V. · Vredeweg 46/D1 Zaandam · sales@xentech.nl · Pica8 / Cumulus / HFT",
+   "quote": "",
+   "url": "https://www.xentech.nl/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "Contact 页：+31 85 002 0796 · sales@xentech.nl",
+   "quote": "",
+   "url": "http://www.xentech.nl/contacts",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-02 补路径：○ SDN / 白牌交换机 + 定制服务器 25%：Xentech B.V.（Zaandam Vredeweg 46/D1；Pica8 / Cumulus / HFT；Edgecore 经销商）官网部分坐实（KvK 待补（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "已入 P 池 → 按巡检节奏首触"
+ },
+ "deep": false,
+ "notes": "Xentech B.V.；Vredeweg 46 / D1, 1505 HH Zaandam；+31 85 002 0796",
+ "draft_en": null
+}

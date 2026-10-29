@@ -1,0 +1,45 @@
+{
+ "code": "XC-C1466",
+ "name": "Hartford Electronics GmbH（Dortmund PoE摄像头）",
+ "round": "X1-02",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "Hartford Electronics GmbH：安防（报警 / 视频监控 / 传感技术）制造 + 分销",
+ "type_final": "安防设备制造商/分销商；Hartford Electronics GmbH",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "○ 安防（报警 / 视频 / 传感）制造 + 分销 20–30%：Hartford Electronics GmbH（D",
+ "brands_seen": [],
+ "contacts": {
+  "email": "kundendienst@hartford-electronics.de",
+  "email_status": "官网 / 名录公开（X1-02 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "openregister：Hartford Electronics GmbH · HRB 28743 Dortmund · Impressum 来源",
+   "quote": "",
+   "url": "https://openregister.de/company/DE-HRB-R3201-22529",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "Google Play 开发者信息：kundendienst@hartford-electronics.de · Rheinlanddamm 201 A · +49 231 96349150",
+   "quote": "",
+   "url": "https://play.google.com/store/apps/details?id=com.berview.google.anroid&hl=en_US",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-02 补路径：○ 安防（报警 / 视频 / 传感）制造 + 分销 20–30%：Hartford Electronics GmbH（Dortmund；HRB 28743 Amtsgericht Dortmund；资本 €25,000）（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "已入 P 池 → 按巡检节奏首触"
+ },
+ "deep": false,
+ "notes": "Hartford Electronics GmbH；Rheinlanddamm 201a, 44139 Dortmund；HRB 28743 Amtsgericht Dortmund；资本 €25,000；+49 231 96349150",
+ "draft_en": null
+}

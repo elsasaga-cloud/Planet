@@ -177,14 +177,14 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：2 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **监控层**：成单精选层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-28T08:44:48Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1113/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://fastball.in/) | html | HTTP 200 | 2026-10-28T08:44:48Z | 9609 字符；首行：Fastball |
-| [indiamart](https://www.indiamart.com/fastball/) | html | HTTP 429 | 2026-10-23T03:05:43Z | IndiaMART 店铺（有 FBC-204GP 4 口工业交换机 = 贴我方 STC-204GP 同款命名；20 口千兆光纤交换机） |
+| [indiamart](https://www.indiamart.com/fastball/) | html | HTTP 200 | 2026-10-23T03:05:43Z | 3790 字符；首行：Exporter & Trader - Retailer of Fiber Optic Splicing Machines Suppliers by Fast |
 
 - **人工定期看（登录墙，不自动抓）**：TradeIndia 店铺；GST 07AJJPR5445G1ZX，个体 proprietorship 2021；站点无 RSS（/feed/ 404、?feed=rss2 返回 HTML）: https://fastball.in/
 

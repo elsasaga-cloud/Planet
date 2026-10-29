@@ -1,0 +1,52 @@
+{
+ "code": "XC-M095",
+ "name": "GOMA ELETTRONICA SPA",
+ "round": "X1-02",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "GOMA ELETTRONICA SpA：嵌入式 / 边缘计算技术分销 + 自产平台（工业 / 交通 / 国防；ORing 授权）；1977 起；190+ 人、两个工厂；CEO Irene Gozzo（irene.gozzo@goma.it 见 AIDDA 名录）→ 体量大、对位工",
+ "type_final": "分销（ORing 授权）；GOMA ELETTRONICA SpA",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "★ 嵌入式 / 工业计算分销 + 自产平台 20%（自有品牌 → 30% OEM 线）：GOMA ELETTRONICA",
+ "brands_seen": [],
+ "contacts": {
+  "email": "info@goma.it",
+  "email_status": "官网 / 名录公开（X1-02 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "官网 About：GOMA ELETTRONICA SpA · Strada Antica di Collegno 225 Torino · info@goma.it",
+   "quote": "",
+   "url": "https://www.goma.it/en/azienda/chi-siamo",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "官方 PDF：P. IVA 02367820012 · Capitale Sociale 3.000.000 € · info@goma.it",
+   "quote": "",
+   "url": "https://www.goma.it/wp-content/uploads/Procedura-di-gestione-delle-segnalazioni.pdf",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "AIDDA：GOMA ELETTRONICA SPA · 1977 · 190+ 人 · CEO Irene Gozzo",
+   "quote": "",
+   "url": "https://www.aidda.org/aziende/goma-elettronica-spa/",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-02 补路径：★ 嵌入式 / 工业计算分销 + 自产平台 20%（自有品牌 → 30% OEM 线）：GOMA ELETTRONICA SpA（Torino；P.IVA 02367820012；资本 €3,000,000；1977 起（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "已入 P 池 → 按巡检节奏首触"
+ },
+ "deep": false,
+ "notes": "GOMA ELETTRONICA SpA；Strada Antica di Collegno 225, 10146 Torino；法定 Via Carlo Capelli 89；P.IVA 02367820012；资本 €3,000,000；+39 011 7725024",
+ "draft_en": null
+}

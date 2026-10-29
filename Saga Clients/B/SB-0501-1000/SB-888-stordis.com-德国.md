@@ -206,14 +206,14 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-28T08:44:48Z
 - **最近变化摘要**：2026-10-28 home：内容变化：+227 −3 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-888/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://stordis.com/) | html | HTTP 200 | 2026-10-28T08:44:48Z | 19080 字符；首行：STORDIS - Network People · Open By Design |
-| [feed_auto](https://stordis.com/feed/) | rss | HTTP 200 | 2026-10-27T08:02:45Z | 10 条；最新：Fri, 09 Oct 2026 13:02:31 Coherent Optics Explained: 6 Critical Facts Powering 100 |
+| [home](https://stordis.com/) | html | ConnectionError: HTTPSConnectionPool(host='stordis.com', por | 2026-10-28T08:44:48Z | 官网首页（T27 快照状态 unreachable） |
+| [feed_auto](https://stordis.com/feed/) | rss | ConnectionError: HTTPSConnectionPool(host='stordis.com', por | 2026-10-27T08:02:45Z | 首页自动发现的 feed |
 
 ## 联系方式（已有 · 原值照录）
 

@@ -291,15 +291,15 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：5 个　|　**数据截至**：2026-10-28T08:44:48Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：成单精选层　|　**自动源**：5 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
+- **最近变化摘要**：2026-10-29 gsa_elibrary：内容变化：+4 −162 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-020/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://52networks.com/) | html | HTTP 200 | 2026-10-23T02:54:23Z | 9154 字符；首行：52Networks: Buy Bulk Ethernet Cables – Cat5e, Cat6, Cat6A Authorize partner Wit |
+| [home](https://52networks.com/) | html | HTTP 200 | 2026-10-29T08:41:09Z | 6401 字符；首行：52Networks: Buy Bulk Ethernet Cables – Cat5e, Cat6, Cat6A Authorize partner Wit |
 | [govtribe](https://govtribe.com/vendors/52-networks-inc-dot-907x4) | html | HTTP 403 | 2026-10-23T02:54:23Z | 联邦合同动态（2025-07 NAVWAR $294k；2025-08 Nellis AFB 光纤 $117k；2025-09 CA 国民警卫队 $29k） |
-| [gsa_elibrary](https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=47QTCA22D00B3&contractorName=52+NETWORKS,+INC.) | html | HTTP 200 | 2026-10-23T02:54:23Z | 5341 字符；首行：Welcome to GSA eLibrary |
+| [gsa_elibrary](https://www.gsaelibrary.gsa.gov/ElibMain/contractorInfo.do?contractNumber=47QTCA22D00B3&contractorName=52+NETWORKS,+INC.) | html | HTTP 200 | 2026-10-29T08:41:09Z | 92 字符；首行：GSA eLibrary Error Page |
 | [auto_news_1](https://52networks.com/blog) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4469 字符；首行：Blog - 52Networks Authorize partner With C2G, Tripplite, Transition, Startech a |
 | [feed_auto](https://52networks.com/feed) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Wed, 21 Oct 2026 03:43:11 What Is PoE? A Complete Guide to Power over Ethernet |
 

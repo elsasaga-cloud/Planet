@@ -2,7 +2,7 @@
 
 > **评级 C**　|　印度　|　档案编号 `SC-1322`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：留 C 储备**（闸 2 · 2026-10-29）：闸 2 回 C：ASI（asi.ind.in）1 查仅同名 ASI Industries（矿业）等 → 未坐实 → 回 C 储备
+> **C 池筛选：留 C 储备**（闸 2 · 2026-10-29）：闸 2 回 C：ASI（asi.ind.in）1 查仅同名 ASI Industries（矿业）等 → 未坐实 → 回 C 储备｜G2R-01：复查：Active System Integration（Chennai Anna Nagar East，New No.18 N Block 21st St；admin@ / sales@asi.ind.in；044 4556 6999）安防集成商，官网地址坐实、无注册号、体量不明 → 留 C
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:India　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
