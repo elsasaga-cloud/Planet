@@ -4,7 +4,7 @@
   "source": "Turkey · Ticaret Sicil / MERSIS（公开可得部分）",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 136
+  "count": 138
  },
  "rows": {
   "SA-086": {
@@ -4393,6 +4393,67 @@
    ],
    "notes": "分销 20%；P 池候选 ★（四主区中型工业分销 + 已进口中国工业品牌 + 具名 KP）；部分坐实（MERSIS 未取）。",
    "code": "SC-571"
+  },
+  "SC-440": {
+   "batch": 133,
+   "name": "İnterland Bilişim Teknolojileri Ticaret Limited Şirketi（表内「Interland Network & Security」；**VKN 4781181726；NACE 461401 = 计算机 / 软件 / 电子与电信设备批发代理；Namık Kemal Mah. Motif Sk. No:23 A, Ümraniye, İstanbul 34762；同区另有 Interland Group（interlandgroup.com；Tatvani Mah. Estergon Cad. Suryapı Exen Sit. F Blok Kat.11 No:161 Ümraniye 34764；info@interlandgroup.com；+90 216 70 975 34）— 与展会名片主体对应待 WA 确认**）；表内：Ady 展会加了 WhatsApp +90 533 833 8258，要多口商业级交换机",
+   "iso": "TR",
+   "fetched": "2026-10-29",
+   "source": "TR · 1 次检索：vknsorgula（VKN / NACE / 地址）+ interlandgroup.com 联系页（地址 / 邮箱 / 电话）+ yenifirma；2026-10-29",
+   "url": "https://vknsorgula.net/4781181726",
+   "number": "4781181726（VKN）",
+   "status": "营业中（目录 2024 / 官网 2023）",
+   "incorporated": "未取",
+   "company_type": "Limited Şirketi",
+   "sic": [
+    "IT / 电信设备批发 + 网络安全集成（伊斯坦布尔 Ümraniye）"
+   ],
+   "address": "Namık Kemal Mah. Motif Sk. No:23 A, Ümraniye, İstanbul 34762",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（Ltd. Şti.）",
+   "officers": [
+    "（具名 KP 未取；WA 联系人在表）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**土耳其主区 · 分销 / 集成 20–25%：WA 一页纸一次（STC-2224GP $86 / STC-4424GCPM $165 / STC-228GP $33 + MOQ 1 + 付费样机；先确认法人名 = İnterland Bilişim）— 土耳其常规：英文 / 土耳其语 WA 稿、20 / 25 / 30 + T/T 50/50（首单可预付 100%）+ FOB 深圳 / DAP 买方清关（CE / RoHS）；周二 / 周四 10–12 TRT**"
+   ],
+   "notes": "分销 20% / 集成 25%；P 池候选 ○（土耳其主区 ✔ WA 可达 ✔ 具体需求 ✔ 坐实 ✔）；坐实（VKN；展会主体对应待 WA 确认）。",
+   "code": "SC-440"
+  },
+  "SC-442": {
+   "batch": 133,
+   "name": "MEPA Elektronik（mepaelektronik.com；**Sahabiye Mah. Otak Sk. No:41, Kocasinan / Kayseri 38010；+90 352 220 6678；弱电系统集成 15 年：CCTV、火灾探测、数据网络（结构化布线 + 可管理交换机）、对讲、卫星电视、智能家居；11–50 人；Co-Owner Eren Gül（zoominfo）**）；vergi no 未取；表内：Furkan；Ady 展会加了 WhatsApp +90 535 875 1129，要 4 / 8 / 16 / 24 口 PoE 交换机",
+   "iso": "TR",
+   "fetched": "2026-10-29",
+   "source": "TR · 1 次检索：mepaelektronik.com/data-network（业务）+ zoominfo（地址 / 电话 / 人数 / Co-Owner）+ facebook（Kayseri）；vergi no 未取；2026-10-29",
+   "url": "https://www.zoominfo.com/c/mepa-elektronik/1333329689",
+   "number": "未取（vergi no 未查；官网 + 目录坐实）",
+   "status": "营业中（官网 / FB）",
+   "incorporated": "未取（15 年经验 ≈ 2010）",
+   "company_type": "未取（疑 Ltd. Şti.）",
+   "sic": [
+    "弱电 / 安防 / 网络集成（开塞利）"
+   ],
+   "address": "Sahabiye Mah. Otak Sk. No:41, Kocasinan, Kayseri 38010",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 人）",
+   "officers": [
+    "Eren Gül — Co-Owner",
+    "Furkan — 表内 WA 联系人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**土耳其主区 · 安防集成 25%：WA 一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-2216GP / STC-2224GP $86 + MOQ 1 + 付费样机；土耳其语稿）— 土耳其常规：英文 / 土耳其语 WA 稿、20 / 25 / 30 + T/T 50/50（首单可预付 100%）+ FOB 深圳 / DAP 买方清关（CE / RoHS）；周二 / 周四 10–12 TRT**"
+   ],
+   "notes": "集成 25%；P 池候选 ○（土耳其主区 ✔ WA 可达 ✔ 具体口数需求 ✔ 决策人 Co-Owner 具名 ✔）；部分坐实（vergi no 未取）。",
+   "code": "SC-442"
   }
  }
 }
