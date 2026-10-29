@@ -2,12 +2,15 @@
 
 > **评级 C**　|　德国　|　档案编号 `SC-568`　|　优先级 —　|　状态：名单内·未触达
 >
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 德国主区 · 自有品牌分销商 OEM 30%（长线）：EFB-Elektronik GmbH（Bielefeld；HRB 33008 AG Bielefeld；USt-ID DE126943218；GF Robin Ohle；Hersteller + Großhändler = 自有品牌网络 / 布线产品线）坐实；德国主区 ✔ 自有品牌 ✔ 对位 ✔ Simon「专业」✔ → P 池候选（info@ 在；先找 Einkauf 具名）　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：A优质名单(DE)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-568
 rating: C
 rating_auto: C
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 19
 country: 德国
 region: 欧洲
@@ -24,7 +27,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -35,6 +38,30 @@ updated: 2026-10-24
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `efb-elektronik.de` → Hornetsecurity 网关（MX：mx19a.antispameurope.com、mx19b.antispameurope.com、mx19c.antispameurope.com、mx19d.antispameurope.com）。企业级邮件网关（Hornetsecurity 网关）：链接重写 + 附件沙箱 → 像素失效、附件常被隔离，冷邮件到达率最低；这户靠回原线程 / LinkedIn / 对方来信，不靠新开线程群发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 134 批（DE · 1 次检索：efb-elektronik.de UKCA 声明页（HRB / USt-ID / GF / 地址 / 电话）+ firmendatenbanken（HRB 33008 / GF / 业务）；2026-10-29，2026-10-29 查；https://www.firmendatenbanken.de/unternehmen/detail/463966/efb-elektronik-gmbh.htm）：**
+
+- 法定名 / 登记号：EFB-Elektronik GmbH（efb-elektronik.de；**HRB 33008 AG Bielefeld；USt-IdNr. DE 126943218；Striegauer Straße 1, 33719 Bielefeld；+49 521 40418-0；info@efb-elektronik.de；Geschäftsführer Robin Ohle（目录另列 Nana Heinemann / Alexander van der Lof）；结构化布线 / 光纤 / 网络机柜 / 网络技术，身份「Hersteller + Großhändler」= 自有品牌 EFB 产品线（含网络交换机）；UKCA 声明 2026-10-06 自署 = 在营**）；表内：Simon「比较专业 / 质量」 · HRB 33008（AG Bielefeld） · 状态 **营业中（2026-10 自署 UKCA 声明）** · 成立 未取 · GmbH
+- 行业码 / 经营范围：网络 / 布线基础设施制造 + 批发（比勒费尔德）
+- 注册地址：Striegauer Straße 1, 33719 Bielefeld
+- 规模档：大型（德国全国性分销 + 自有品牌）
+- 账目：未取；—
+- 高管：Robin Ohle — Geschäftsführer
+- 高管：Nana Heinemann / Alexander van der Lof — 目录列 GF（待核）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **德国主区 · 自有品牌分销商 OEM 30%（长线）：info@ + 官网找 Einkauf / Produktmanagement 后一页纸一次（STC-2224GP $86 / STC-4424GCPM $165 / STC-424XGGPM-280W $198 中性包装 + 贴 EFB 牌 + MOQ 1 + 付费样机）— 德国主区常规：英文 / 德语稿、20 / 25 / 30 + T/T 50/50 + DAP 买方清关（CE / RoHS / REACH）；周二 / 周四 10–12 CET**
+- 备注：OEM 30%；P 池候选 ★ 长线（德国主区 ✔ 自有品牌 ✔ 对位 ✔ Simon「专业」✔；决策人未具名 → 先找 Einkauf）；坐实（HRB 33008）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -132,8 +159,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 19）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 19）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

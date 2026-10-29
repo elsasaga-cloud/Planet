@@ -2,12 +2,15 @@
 
 > **评级 C**　|　越南　|　档案编号 `SC-1983`　|　优先级 —　|　状态：已推送 8 次·未回复
 >
+> **C 池筛选：留 C 储备**（闸 2 · 2026-10-29）：越南 Việt Long Telecom（vietlongtelecom.com；G-net / hasivo）：通名 1 查仅同名壳 = 未坐实 → 回 C 待下轮 1 查（官网页脚 MST）；不是 pass
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 8 次（2024-05-13 → 2024-12-30）　|　**所在清单**：群发(VN/VN)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-1983
 rating: C
 rating_auto: C
+sieve: keep_C  # 闸 2 G2 2026-10-29
 score: -1
 country: 越南
 region: 亚太
@@ -25,7 +28,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -36,6 +39,29 @@ updated: 2026-10-24
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-28DGGPM（8 口 PoE + 2 SFP L2+）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `vietlongtelecom.com` → 主机商 cPanel 类邮箱（MX：mail.vietlongtelecom.com）。主机商附带邮箱（主机商 cPanel 类邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+- `gmail.com` → Google Workspace（MX：gmail-smtp-in.l.google.com、alt1.gmail-smtp-in.l.google.com、alt2.gmail-smtp-in.l.google.com、alt3.gmail-smtp-in.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 135 批（VN · 1 次检索：thuvienphapluat / dulieuphapluat「Việt Long」仅同名壳；2026-10-29，2026-10-29 查；）：**
+
+- 法定名 / 登记号：Việt Long Telecom（vietlongtelecom.com；gmail；商业 PoE 用 G-net / hasivo ✔；**1 次检索未中：「Công ty TNHH Việt Long」通名，命中同奈 2001 / 清化 / 河内 1998 等均非电信设备商**） · 未取（未坐实） · 状态 **未知** · 成立 未取 · 未取
+- 行业码 / 经营范围：商业 PoE 交换机贸易（越南）
+- 注册地址：未取
+- 规模档：未取
+- 账目：未取；—
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **越南 · 待坐实：官网页脚取 MST 后换稿一页纸— 越南常规：英文 / 越南语稿、20 / 25 / 30 + T/T 50/50（微型预付 100%）+ FOB 深圳 / DAP 河内·胡志明，买方清关；Zalo / 微信可用；周二 / 周四 10–12 ICT**
+- 备注：未坐实（1 查未中即停）→ 回 C 待下轮 1 查（官网页脚 MST）；8 推 0 回。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -147,8 +173,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -1）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -1）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

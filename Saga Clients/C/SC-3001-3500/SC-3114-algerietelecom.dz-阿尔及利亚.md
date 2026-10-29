@@ -2,12 +2,15 @@
 
 > **评级 C**　|　阿尔及利亚　|　档案编号 `SC-3114`　|　优先级 —　|　状态：用户判定不行
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：阿尔及利亚 Abdelmadjid Damis（Algérie Télécom 员工，algerietelecom.dz；damis_maj@yahoo.fr；WA +213 661 682 908 可加；「想自己开公司找厂家，意愿比较强」）：个人创业意向 ✔ 但无公司 + 阿尔及利亚无先例 → 留 C 储备（成立公司后再看）
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(之前OK现在群发)、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-3114
 rating: C
 rating_auto: C
+sieve: keep_C  # 闸 1 G1 2026-10-29
 score: -67
 country: 阿尔及利亚
 region: 非洲
@@ -25,7 +28,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -136,8 +139,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -67）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -67）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

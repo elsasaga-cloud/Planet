@@ -2,12 +2,15 @@
 
 > **评级 C**　|　哥斯达黎加　|　档案编号 `SC-3005`　|　优先级 —　|　状态：用户判定不行
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：哥斯达黎加 Intelec（intelec.co.cr 正常；商业 PoE 为主，好多种外壳 ✔；「销售平台」；网站 WA 按钮 +506 8468 3532）：中国外壳 ✔ WA 可达 ✔ 但哥斯达黎加无先例 + 平台型 → 留 C 储备（WA 一页纸一次后看）
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-3005
 rating: C
 rating_auto: C
+sieve: keep_C  # 闸 1 G1 2026-10-29
 score: -59
 country: 哥斯达黎加
 region: 拉美
@@ -24,7 +27,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -133,8 +136,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -59）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -59）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

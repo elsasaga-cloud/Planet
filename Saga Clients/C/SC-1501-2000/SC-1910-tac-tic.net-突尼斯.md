@@ -2,12 +2,15 @@
 
 > **评级 C**　|　突尼斯　|　档案编号 `SC-1910`　|　优先级 —　|　状态：已推送 5 次·未回复
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：突尼斯 Tac-Tic（tac-tic.net 正常；Bouali Mohamed Amine，gmail；转发过我方帖子 ✔；2 光 8 傻瓜 + 2 网口模块；5 推）：社媒互动 ✔ 但突尼斯无先例 + 免费邮箱 → 留 C 储备（一页纸一次后看）
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 5 次（2023-05-31 → 2023-09-11）　|　**所在清单**：群发(已重新审核/领英)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-1910
 rating: C
 rating_auto: C
+sieve: keep_C  # 闸 1 G1 2026-10-29
 score: 1
 country: 突尼斯
 region: 非洲
@@ -24,7 +27,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -141,8 +144,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 1）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 1）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

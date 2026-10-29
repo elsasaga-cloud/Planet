@@ -2,12 +2,15 @@
 
 > **评级 C**　|　印度　|　档案编号 `SC-2439`　|　优先级 —　|　状态：已推送 4 次·未回复
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：印度 omnet78@gmail.com（1 光 4 工业小壳 MOQ / 价格册 / 交期等 ✔；4 推 0 回）：具体采购问 ✔ 但无公司 / 域名 + 零回应 → 留 C 储备（坐实公司后转候选）
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 4 次（2023-02-20 → 2023-09-01）　|　**所在清单**：群发(阿里巴巴 自建站/自建站 最早一批)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-2439
 rating: C
 rating_auto: C
+sieve: keep_C  # 闸 1 G1 2026-10-29
 score: -19
 country: 印度
 region: 南亚
@@ -24,7 +27,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -140,8 +143,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -19）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -19）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

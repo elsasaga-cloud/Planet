@@ -2,12 +2,15 @@
 
 > **评级 C**　|　土耳其　|　档案编号 `SC-3281`　|　优先级 —　|　状态：用户判定不行
 >
+> **⛔ 已过筛 · 永久 pass**（闸 1 · G1 · 2026-10-29）：土耳其 Rasyonel Güvenlik Sistemleri（ETW 2011 展会名单；fiber optic price list；原表无邮箱 / 电话 / 网址 / 微信 / 领英）：闸 0 刚性①（无邮箱 / 电话 / WA / 域名 / 平台链接，原表无任何可寻迹）→ 永久 pass（2011 陈旧 + 土耳其同名安防公司众多，无法坐实；如 Simon 想救回可按编号否决） —— 不再加厚 / 不群发 / 不监控 / 不进日历；撤销只在客户主动找上门时由 Simon 拍板（`data/saga_clients/sieve.json`）。
+>
 > **类型**：安防集成/经销（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-3281
 rating: C
 rating_auto: C
+sieve: pass_final  # 闸 1 G1 2026-10-29
 score: -102
 country: 土耳其
 region: 土耳其
@@ -24,7 +27,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -133,8 +136,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -102）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -102）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

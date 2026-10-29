@@ -2,12 +2,15 @@
 
 > **评级 C**　|　越南　|　档案编号 `SC-1867`　|　优先级 —　|　状态：已推送 8 次·未回复
 >
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 越南 · 分销 20%：CÔNG TY CỔ PHẦN MẠNG VIỄN THÔNG 3 MIỀN – vienthonghanoi.vn（Hà Nội Thanh Trì；MST 0109201032；2020-05-29；光 / 网络设备分销 + 施工）坐实（官网自署）；越南先例 ✔ 中科德能 ✔ 对位 ✔；8 推 0 回 → 坐实后换稿仅一次 → P 池候选
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 8 次（2024-05-13 → 2024-12-31）　|　**所在清单**：群发(VN/VN)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-1867
 rating: C
 rating_auto: C
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: -1
 country: 越南
 region: 亚太
@@ -25,7 +28,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -36,6 +39,30 @@ updated: 2026-10-24
 - **P1**：不推（C 级）；若对方主动来询，起手 STI-288DGGPM（工业 L2+ 8 PoE + 2×2.5G SFP）
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `vienthonghanoi.vn` → 自建 / 同域名邮件服务器（MX：mail.vienthonghanoi.vn）。自建邮件服务器：有自己的 IT（可能灰名单 → 首封延迟几小时才进箱），像素可用；读信的是技术人，参数先于价格
+- `gmail.com` → Google Workspace（MX：gmail-smtp-in.l.google.com、alt1.gmail-smtp-in.l.google.com、alt2.gmail-smtp-in.l.google.com、alt3.gmail-smtp-in.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 135 批（VN · 1 次检索：vienthonghanoi.vn/gioi-thieu（法人名 / MST / 成立 / 地址 / 电话 / 邮箱 / 业务）；2026-10-29，2026-10-29 查；https://vienthonghanoi.vn/gioi-thieu/）：**
+
+- 法定名 / 登记号：CÔNG TY CỔ PHẦN MẠNG VIỄN THÔNG 3 MIỀN（vienthonghanoi.vn；**MST / GPKD 0109201032（2020-05-29 河内计划投资局）；VPGD Chung Cư 9 Tầng Cầu Bươu, Tả Thanh Oai, Thanh Trì, Hà Nội；0914 180 199；inbox.vienthonghanoi@gmail.com；光 / 网络 / 电信设备分销 + 施工 5 年+，自称服务 1 万客户（官网「Giới thiệu」2026-06）**）；表内：工业 FS 主要是中科德能的 ✔；8 推 0 回 · 0109201032（MST） · 状态 **营业中（官网 2026-06）** · 成立 2020-05-29 · Công ty Cổ phần
+- 行业码 / 经营范围：网络 / 光 / 电信设备分销 + 施工（河内 Thanh Trì）
+- 注册地址：Chung Cư 9 Tầng Cầu Bươu, Tả Thanh Oai, Thanh Trì, Hà Nội
+- 规模档：小型
+- 账目：未取；—
+- 高管：（法定代表人未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **越南 · 分销 20%：换稿一页纸一次（零回应 → 坐实后仅一次；STI-280GE $46.6 / STC-028GP $28 对标中科德能）— 越南常规：英文 / 越南语稿、20 / 25 / 30 + T/T 50/50（微型预付 100%）+ FOB 深圳 / DAP 河内·胡志明，买方清关；Zalo / 微信可用；周二 / 周四 10–12 ICT**
+- 备注：分销 20%；P 池候选 ○（越南先例 ✔ 中国工业品牌 ✔ 对位 ✔ 坐实 ✔；8 推 0 回 → 仅一次）；坐实（MST 官网自署）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -148,8 +175,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -1）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -1）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

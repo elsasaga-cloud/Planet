@@ -2,12 +2,15 @@
 
 > **评级 C**　|　印度　|　档案编号 `SC-2208`　|　优先级 —　|　状态：名单内·未触达
 >
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：△ 印度 · 电商零售 20% 预付 100%：Hanutech Solution（Delhi Rohini；Proprietorship；GST 07AXLPM4765G1Z3；东主 Mahinder；≤ 10 人；₹1.5–5 Cr）坐实；丰润达 PoE ✔ 印度先例 ✔ 但独资微型电商 → P 池候选 △
+>
 > **类型**：安防集成/经销（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:India　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-2208
 rating: C
 rating_auto: C
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: -9
 country: 印度
 region: 南亚
@@ -25,7 +28,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -36,6 +39,30 @@ updated: 2026-10-24
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-28DGGPM（8 口 PoE + 2 SFP L2+）
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `hanutechsolution.com` → Hostinger / Titan（MX：mx1.hostinger.com、mx2.hostinger.com）。主机商附带邮箱（Hostinger / Titan）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+- `gmail.com` → Google Workspace（MX：gmail-smtp-in.l.google.com、alt1.gmail-smtp-in.l.google.com、alt2.gmail-smtp-in.l.google.com、alt3.gmail-smtp-in.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 135 批（IN · 1 次检索：IndiaMART aboutus（GST / 东主 / 规模 / 营业额）+ hanutechsolution.co.in 页脚（地址 / 邮箱 / 电话）；2026-10-29，2026-10-29 查；https://www.indiamart.com/hanutech-solution/aboutus.html）：**
+
+- 法定名 / 登记号：Hanutech Solution（hanutechsolution.com / .co.in；**Proprietorship；GST 07AXLPM4765G1Z3（2018-06-28 登记）；CEO / 东主 Mahinder；≤ 10 人；年营业额 ₹1.5–5 Cr；B-16/1 Vijay Vihar Phase-2, Rohini, Delhi 110085（IndiaMART 另列 B 73）；hanutechsolution2018@gmail.com；+91 89204 13407；光纤 / FTTH / CCTV / 光收发器店，Amazon / Flipkart 卖家；关联 RAMEX（Bhiwadi）**）；表内：丰润达商业 PoE ✔ · 07AXLPM4765G1Z3（GST） · 状态 **营业中（官网 + IndiaMART）** · 成立 2018-06-28（GST） · Proprietorship
+- 行业码 / 经营范围：IT / 网络 / 光纤 / CCTV 零售 + 电商（德里 Rohini）
+- 注册地址：B-16/1 Vijay Vihar Phase-2, Rohini, Delhi 110085
+- 规模档：微型（≤ 10 人）
+- 账目：未取；—
+- 高管：Mahinder — Proprietor / CEO
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **印度 · 电商零售 20% 预付 100%：gmail 一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-110XGE $65 + MOQ 1）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（微型预付 100%）+ FOB 深圳 / CIF 孟买·金奈·德里，买方清关（BIS 由买方自理需如实说）；周二 / 周四 11–13 IST**
+- 备注：零售 20%；P 池候选 △ 预付 100%（印度先例 ✔ 中国品牌 ✔ 坐实 ✔ 但独资微型 + 电商卖家）；坐实（GST）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -138,8 +165,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -9）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -9）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

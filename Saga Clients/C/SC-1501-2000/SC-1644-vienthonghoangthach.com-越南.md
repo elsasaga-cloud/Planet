@@ -2,12 +2,15 @@
 
 > **评级 C**　|　越南　|　档案编号 `SC-1644`　|　优先级 —　|　状态：名单内·未触达
 >
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：△ 越南 · CCTV 批零 20% 预付 100%：Công Ty TNHH Viễn Thông Hoàng Thạch（TP.HCM Tân Bình；MST 0316813026；2021；5–10 人）坐实；越南先例 ✔ utepo ✔ 但 2021 微型 CCTV 店 → P 池候选 △
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(VN/VN)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-1644
 rating: C
 rating_auto: C
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 7
 country: 越南
 region: 亚太
@@ -24,7 +27,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -35,6 +38,30 @@ updated: 2026-10-24
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（24 口 PoE L2+ 走量款）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `vienthonghoangthach.com` → 主机商 cPanel 类邮箱（MX：mail.vienthonghoangthach.com）。主机商附带邮箱（主机商 cPanel 类邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+- `gmail.com` → Google Workspace（MX：gmail-smtp-in.l.google.com、alt1.gmail-smtp-in.l.google.com、alt2.gmail-smtp-in.l.google.com、alt3.gmail-smtp-in.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 135 批（VN · 1 次检索：yellowpages.vn（MST / 地址 / 电话 / 邮箱 / 成立 / 人数）+ jobsgo / topvietnam；2026-10-29，2026-10-29 查；https://www.yellowpages.vn/lgs/1187845410/cong-ty-tnhh-vien-thong-hoang-thach.html）：**
+
+- 法定名 / 登记号：Công Ty TNHH Viễn Thông Hoàng Thạch（vienthonghoangthach.com；**MST 0316813026；425 Cộng Hòa, Phường 15, Quận Tân Bình, TP.HCM；2021 成立；5–10 人；0972 742 245；vienthonghoangthach@gmail.com；面向安装工的 CCTV 批零（Hikvision / Dahua / Kbvision / EZVIZ）；yellowpages.vn 2023-08 核验**）；表内：switch 有 utepo 的 ✔ · 0316813026（MST） · 状态 **营业中（目录 2023）** · 成立 2021 · Công ty TNHH
+- 行业码 / 经营范围：CCTV 批零（胡志明市 Tân Bình）
+- 注册地址：425 Cộng Hòa, Phường 15, Quận Tân Bình, TP.HCM
+- 规模档：微型（5–10 人）
+- 账目：未取；—
+- 高管：（法定代表人未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **越南 · CCTV 批零 20% 预付 100%：gmail 一页纸一次（STC-028GP $28 / STC-228GP $33 + MOQ 1）— 越南常规：英文 / 越南语稿、20 / 25 / 30 + T/T 50/50（微型预付 100%）+ FOB 深圳 / DAP 河内·胡志明，买方清关；Zalo / 微信可用；周二 / 周四 10–12 ICT**
+- 备注：零售 / 分销 20%；P 池候选 △ 预付 100%（越南先例 ✔ 中国品牌 utepo ✔ 坐实 ✔ 但 2021 微型 CCTV 店）；坐实（MST）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -133,8 +160,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 7）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 7）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

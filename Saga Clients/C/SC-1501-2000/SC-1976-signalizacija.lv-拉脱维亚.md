@@ -2,12 +2,15 @@
 
 > **评级 C**　|　拉脱维亚　|　档案编号 `SC-1976`　|　优先级 —　|　状态：已推送 15 次·未回复
 >
+> **C 池筛选：留 C 储备**（闸 2 · 2026-10-29）：拉脱维亚 Signalizācija：1 查未中（Lursoft 仅 SIA Signal 等；通名难指认）= 未坐实 → 回 C 待下轮 1 查（官网页脚 Reģ. nr.）；不是 pass
+>
 > **类型**：安防集成/经销（推断）　|　**历史关系**：推送 15 次（2024-05-13 → 2025-10-07）　|　**所在清单**：A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-1976
 rating: C
 rating_auto: C
+sieve: keep_C  # 闸 2 G2 2026-10-29
 score: -1
 country: 拉脱维亚
 region: 欧洲
@@ -25,7 +28,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -36,6 +39,28 @@ updated: 2026-10-24
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `signalizacija.lv` → 无 MX（只有 A 记录 65.108.134.118）。无 MX 记录：收信只能靠 A 记录兜底，多数邮件服务器不接 → 这个域的地址大概率退信，先走该户别的渠道（WhatsApp / 平台 / 别的域）
+- `inbox.lv` → 自建 / 同域名邮件服务器（MX：mx1.inbox.lv、mx2.inbox.lv）。自建邮件服务器：有自己的 IT（可能灰名单 → 首封延迟几小时才进箱），像素可用；读信的是技术人，参数先于价格
+- 其他域名仍活：`inbox.lv` → 只用这些域的地址
+
+**公司底数 · 第 134 批（LV · 1 次检索：Lursoft「SIA Signalizācija」未命中；2026-10-29，2026-10-29 查；）：**
+
+- 法定名 / 登记号：Signalizācija（signalizacija.lv no_mx；tiger.cctv@inbox.lv；主要 CCTV，Utepo；**1 次检索未中（Lursoft 返回 SIA Signal 等非同一主体；signalizācija = 「报警系统」通名，难以指认法人）**） · 未取（未坐实） · 状态 **未知** · 成立 未取 · 未取
+- 行业码 / 经营范围：CCTV / 报警（拉脱维亚）
+- 注册地址：未取
+- 规模档：未取
+- 账目：未取；—
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **欧洲 · 待坐实：官网页脚 / 域名 whois 找法人名（Reģ. nr.）后再一页纸（STC-028GP $28 / STC-228GP $33）**
+- 备注：未坐实（1 查未中即停）→ 回 C 待下轮 1 查；欧洲 ✔ 中国品牌 Utepo ✔ 但仅 inbox.lv 免费邮箱 + 一次询价。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -169,8 +194,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -1）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -1）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

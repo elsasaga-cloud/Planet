@@ -2,12 +2,15 @@
 
 > **评级 C**　|　土耳其　|　档案编号 `SC-1190`　|　优先级 —　|　状态：名单内·未触达
 >
+> **C 池筛选：留 C 储备**（闸 2 · 2026-10-29）：土耳其 Bilimsa Teknoloji：1 查未中（vknsorgula 仅同名壳）= 未坐实 → 回 C 待下轮 1 查（先回 gmail 问法人名 / 网址，引用已报 $110）；不是 pass
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：ISAF2025展会、表:Evelyn　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-1190
 rating: C
 rating_auto: C
+sieve: keep_C  # 闸 2 G2 2026-10-29
 score: 13
 country: 土耳其
 region: 土耳其
@@ -24,7 +27,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -35,6 +38,29 @@ updated: 2026-10-24
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-28DGGPM（8 口 PoE + 2 SFP L2+）
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）；网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `gmail.com` → Google Workspace（MX：gmail-smtp-in.l.google.com、alt1.gmail-smtp-in.l.google.com、alt2.gmail-smtp-in.l.google.com、alt3.gmail-smtp-in.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 134 批（TR · 1 次检索：vknsorgula「Bilimsa Teknoloji」未命中（返回 BİLİMTEK MAKİNA 等非同一主体）；2026-10-29，2026-10-29 查；）：**
+
+- 法定名 / 登记号：Bilimsa Teknoloji（表内；bilimsateknoloji@gmail.com；Muharrem Kılıç；8 光 8 电工业交换机已报 $110；**1 次检索未中（vknsorgula 返回同名壳 Bilimtek / 学术同名人）**） · 未取（未坐实） · 状态 **未知** · 成立 未取 · 未取
+- 行业码 / 经营范围：工业交换机询价（土耳其）
+- 注册地址：未取
+- 规模档：未取
+- 账目：未取；—
+- 高管：Muharrem Kılıç — 表内联系人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **土耳其主区 · 待坐实：先回 gmail 问法人名 / 网址（引用已报 $110 的 8 光 8 电），坐实后再 WA 一页纸— 土耳其常规：英文 / 土耳其语稿、20 / 25 / 30 + T/T 50/50（首单可预付 100%）+ FOB 深圳 / DAP 买方清关（CE / RoHS）；周二 / 周四 10–12 TRT**
+- 备注：未坐实（1 查未中即停）→ 回 C 待下轮 1 查；土耳其主区 ✔ 已报价 ✔ 具名 ✔。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -136,8 +162,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 13）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 13）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

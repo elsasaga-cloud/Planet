@@ -2,12 +2,15 @@
 
 > **评级 C**　|　葡萄牙　|　档案编号 `SC-2969`　|　优先级 —　|　状态：用户判定不行
 >
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：△ 葡萄牙（欧洲）· 微型 IT 服务商 25% 预付 100%：Metrikingdom Unipessoal Lda（Lisboa；NIF 515518425；2019-06-04；资本 € 6k；CAE 62100 编程）坐实；具体需求 2 SFP + 2 RJ45 ✔ 电话 ✔ 欧洲 ✔ 但微型 + 非设备商 → P 池候选 △（复购存疑，先样机）
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-2969
 rating: C
 rating_auto: C
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: -57
 country: 葡萄牙
 region: 欧洲
@@ -24,7 +27,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -35,6 +38,29 @@ updated: 2026-10-24
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（SFP/DAC：Saga 三份价格表无光模块 → 按需询 SmartByte/HRUI）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `metrikingdom.com` → 主机商 cPanel 类邮箱（MX：mail.metrikingdom.com）。主机商附带邮箱（主机商 cPanel 类邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 134 批（PT · 1 次检索：racius（NIF / 地址 / 成立日 / 资本）+ iberinform（CAE 62100 / 形式）；2026-10-29，2026-10-29 查；https://www.racius.com/metrikingdom-unipessoal-lda/）：**
+
+- 法定名 / 登记号：Metrikingdom Unipessoal Lda（metrikingdom.com；**NIF / NIPC 515518425；Rua Santa Marta N.º 43Ef, 3 D, 1150-293 Lisboa；2019-06-04 成立；Sociedade Unipessoal por Quotas；资本 € 6.000；CAE 62100 = 计算机编程活动（iberinform 2026-08 更新）**）；表内：Saleha Kanwal，+351 920 236 978，问 2 SFP + 2 RJ45 交换机 · 515518425（NIF / NIPC） · 状态 **营业中（iberinform 2026-08）** · 成立 2019-06-04 · Sociedade Unipessoal por Quotas
+- 行业码 / 经营范围：IT 编程 / 服务（里斯本）—— 非网络设备分销
+- 注册地址：Rua Santa Marta N.º 43Ef, 3 D, 1150-293 Lisboa
+- 规模档：微型（独资有限，资本 € 6k）
+- 账目：未取；—
+- 高管：Saleha Kanwal — 表内联系人（职务未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **葡萄牙（欧洲）· 微型 IT 服务商 25%：先回邮确认用途 / 数量（2 SFP + 2 RJ45 → STI-154GP 样机 $36 或 STC-228GP $33），预付 100% + DAP— 葡萄牙常规：英文稿、20 / 25 / 30 + 预付 100%（微型）+ DAP 买方清关（CE / RoHS / REACH）；周二 / 周四 10–12 WET**
+- 备注：集成 25%；P 池候选 △ 预付 100%（欧洲 ✔ 具体需求 ✔ 坐实 ✔；但 CAE 软件 + € 6k 资本 + 独资 = 微型、复购存疑）；坐实（NIF）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -133,8 +159,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -57）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -57）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

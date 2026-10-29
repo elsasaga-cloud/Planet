@@ -2,12 +2,15 @@
 
 > **评级 C**　|　越南　|　档案编号 `SC-1606`　|　优先级 —　|　状态：名单内·未触达
 >
+> **C 池筛选：留 C 储备**（闸 2 · 2026-10-29）：越南 Mạng Viễn Thông（mangvienthong.com.vn）：1 查仅命中 .vn 另一主体（Công Nghệ Mới）= 未坐实 → 回 C 待下轮 1 查（官网页脚 MST）；不是 pass　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(VN/VN)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-1606
 rating: C
 rating_auto: C
+sieve: keep_C  # 闸 2 G2 2026-10-29
 score: 7
 country: 越南
 region: 亚太
@@ -24,7 +27,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -35,6 +38,29 @@ updated: 2026-10-24
 - **P1**：不推（C 级）；若对方主动来询，起手 STI-288DGGPM（工业 L2+ 8 PoE + 2×2.5G SFP）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `mangvienthong.com.vn` → 自建 / 同域名邮件服务器（MX：mail.mangvienthong.com.vn）。自建邮件服务器：有自己的 IT（可能灰名单 → 首封延迟几小时才进箱），像素可用；读信的是技术人，参数先于价格
+- `gmail.com` → Google Workspace（MX：gmail-smtp-in.l.google.com、alt1.gmail-smtp-in.l.google.com、alt2.gmail-smtp-in.l.google.com、alt3.gmail-smtp-in.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 135 批（VN · 1 次检索：「mangvienthong.com.vn」仅命中 mangvienthong.vn 另一主体；2026-10-29，2026-10-29 查；）：**
+
+- 法定名 / 登记号：Mạng Viễn Thông（mangvienthong.com.vn；联系 inbox.thanhcong@gmail.com；**1 次检索未中：仅命中 mangvienthong.vn = CÔNG TY TNHH THƯƠNG MẠI VÀ KỸ THUẬT CÔNG NGHỆ MỚI（河内 Hoàng Mai）—— 域名不同（.vn ≠ .com.vn），不能认定同一主体**） · 未取（未坐实） · 状态 **未知** · 成立 未取 · 未取
+- 行业码 / 经营范围：PoE / FS / MC / VC / 工业交换机贸易（越南）
+- 注册地址：未取
+- 规模档：未取
+- 账目：未取；—
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **越南 · 待坐实：官网页脚取 MST 后一页纸— 越南常规：英文 / 越南语稿、20 / 25 / 30 + T/T 50/50（微型预付 100%）+ FOB 深圳 / DAP 河内·胡志明，买方清关；Zalo / 微信可用；周二 / 周四 10–12 ICT**
+- 备注：未坐实（1 查未中即停）→ 回 C 待下轮 1 查（官网页脚 MST）；中科德能 ✔ 对位 ✔。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -136,8 +162,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 7）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 7）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

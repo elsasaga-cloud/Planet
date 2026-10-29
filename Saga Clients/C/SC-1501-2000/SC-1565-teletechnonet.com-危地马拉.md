@@ -2,12 +2,15 @@
 
 > **评级 C**　|　危地马拉　|　档案编号 `SC-1565`　|　优先级 —　|　状态：已推送 4 次·未回复
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：危地马拉 Teletechnonet（teletechnonet.com；gmail；Ethernet switch；4 推 0 回）：零回应 + 无先例 → 留 C
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 4 次（2025-06-20 → 2025-09-19）　|　**所在清单**：E冷名单(危地马拉)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-1565
 rating: C
 rating_auto: C
+sieve: keep_C  # 闸 1 G1 2026-10-29
 score: 8
 country: 危地马拉
 region: 拉美
@@ -25,7 +28,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -141,8 +144,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 8）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 8）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

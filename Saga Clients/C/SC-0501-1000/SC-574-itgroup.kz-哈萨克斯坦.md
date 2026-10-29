@@ -2,12 +2,15 @@
 
 > **评级 C**　|　哈萨克斯坦　|　档案编号 `SC-574`　|　优先级 —　|　状态：名单内·未触达
 >
+> **C 池筛选：留 C 储备**（闸 2 · 2026-10-29）：哈萨克斯坦 IT Group（itgroup.kz；2022 RFQ 找 ONV 管理交换机，有回）：1 查出两家同名（IT GROUP KAZAKHSTAN 乌拉尔斯克 软件 / KAZ-IT GROUP 奇姆肯特 监控电信）主体未唯一 = 部分坐实 → 回 C 待下轮 1 查（官网页脚 БИН）；不是 pass
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(阿里巴巴 自建站/之前阿里巴巴)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-574
 rating: C
 rating_auto: C
+sieve: keep_C  # 闸 2 G2 2026-10-29
 score: 19
 country: 哈萨克斯坦
 region: 俄语区
@@ -24,7 +27,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -35,6 +38,30 @@ updated: 2026-10-24
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（24 口 PoE L2+ 走量款）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `itgroup.kz` → 俄罗斯主机商邮箱（MX：mx1.timeweb.ru、mx2.timeweb.ru）。俄语区云邮箱（俄罗斯主机商邮箱）：Gmail 投递正常，但制裁环境下美元汇路和 PayPal 常走不通 → 报价前先问付款银行 / 币种，T/T 以外别承诺
+- `gmail.com` → Google Workspace（MX：gmail-smtp-in.l.google.com、alt1.gmail-smtp-in.l.google.com、alt2.gmail-smtp-in.l.google.com、alt3.gmail-smtp-in.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 134 批（KZ · 1 次检索：niac.kz（两家同名 БИН / 地址 / 负责人 / ОКЭД）+ mp.kz（KAZ-IT Group 业务）；主体未唯一 → 部分坐实；2026-10-29，2026-10-29 查；https://niac.kz/151040005191）：**
+
+- 法定名 / 登记号：IT Group（itgroup.kz；**1 次检索出两家同名：ТОО «IT GROUP KAZAKHSTAN» БИН 151040005191（2015-10-07；乌拉尔斯克 ул. Гумара Караша 33/2 оф. 8；负责人 Дудниченков М.М.；ОКЭД 62.01.1 软件；≤5 人）/ ТОО «KAZ - IT GROUP» БИН 210640025476（2021-06-17；奇姆肯特 ул. Еримбетова 304Г；视频监控 / 电信 / PON / GPON 供应商）—— 哪一家 = itgroup.kz 待官网页脚确认**）；表内：2022 年 RFQ「找 ONV 的商业管理交换机」，有回 · 151040005191 或 210640025476（待指认） · 状态 **均在营（niac.kz）** · 成立 2015-10-07 / 2021-06-17 · ТОО
+- 行业码 / 经营范围：IT / 视频监控 / 电信设备供应（哈萨克斯坦）
+- 注册地址：乌拉尔斯克 ул. Гумара Караша 33/2 оф. 8 / 奇姆肯特 ул. Еримбетова 304Г
+- 规模档：小型（≤5 人 / 小企业）
+- 账目：未取；—
+- 高管：Дудниченков Михаил Михайлович — IT GROUP KAZAKHSTAN 负责人（待指认）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **哈萨克斯坦（点名区外，先例 ✔）· 分销 20%：回邮引用 2022 RFQ 问法人名 + 收货城市，坐实后一页纸（STC-2224GP $86 / STC-4424GCPM $165 vs ONV）— 俄语区常规：英 / 俄稿、20 / 25 / 30；收款 / 物流路径待 Simon（RU / KZ 「收款待定」）；FOB 深圳**
+- 备注：分销 20%；部分坐实（两家同名待指认）→ 回 C 待下轮 1 查（itgroup.kz 页脚 БИН）；有回 ✔ 对位 ✔；收款待定。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -135,8 +162,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 19）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 19）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
