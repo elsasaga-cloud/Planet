@@ -44,7 +44,7 @@ UA = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chr
 BROWSER_UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36'
 TIMEOUT = 35
 MAX_TEXT = 60_000          # 抓取时文本上限
-SNAP_TEXT = {'成单': 40_000, 'A': 16_000, 'B': 12_000}   # 落盘快照上限（面层小一点，控制仓库体积）
+SNAP_TEXT = {'成单': 40_000, 'A': 16_000, 'B': 12_000, 'P': 16_000}   # 落盘快照上限（面层小一点，控制仓库体积）
 MAX_ITEMS = 300
 STATE_ITEMS = 80           # state.json 里每个源最多保留的条目数（rss / sitemap / github）
 
@@ -583,8 +583,12 @@ def load_config(layers):
                     tgt['manual'].append(txt)
             continue
         c = dict(c)
-        c['layer'] = c.get('grade') or 'B'
-        c['label'] = f"{c['layer']} 级"
+        if c.get('layer') == 'P':          # P 级 / 资产池层（discover.py 从 P池_巡检表 生成；2026-10-29 起）
+            pm = c.get('pool') or {}
+            c['label'] = f"P 池 {pm.get('入池', '')} {pm.get('档位', '')}（{pm.get('来源', '')}）".strip()
+        else:
+            c['layer'] = c.get('grade') or 'B'
+            c['label'] = f"{c['layer']} 级"
         out.append(c)
     return [c for c in out if c['layer'] in layers]
 
@@ -601,7 +605,7 @@ def process_customer(c, state):
     if meta.get('feed_auto') and not any(s['id'] == 'feed_auto' for s in srcs):
         srcs.append(feed_auto_src(meta['feed_auto']))
     has_feed = any(s['id'] == 'feed_auto' for s in srcs)
-    lite = c.get('layer') in ('A', 'B')
+    lite = c.get('layer') in ('A', 'B', 'P')
     for s in list(srcs):
         key = f"{c['code']}/{s['id']}"
         prev = state.get(key)
@@ -697,6 +701,26 @@ def write_status(customers, state, changes_by_layer):
             L.append(f"| {c['code']} {c['name'][:28].replace('|', '／')} | {c['layer']} | {len(srcs)} | {ok}/{bad} | {lc} | {summ.replace('|', '／')[:100]} | {man} |")
         with open(os.path.join(OUT, '当前状态_AB.md'), 'w', encoding='utf-8') as f:
             f.write('\n'.join(L) + '\n')
+    # P 池层：每户一行（T29-U117 资产池；两个月一巡，日常自动抓首页 / feed，人工巡检时看本表 + 变化日志_P.md）
+    pool = [c for c in customers if c['layer'] == 'P']
+    if pool:
+        n_src = sum(len(c['sources']) for c in pool)
+        L = ['# P 级 / 资产池 · 动态监控 · 当前状态（T29-U117/U120）', '',
+             f'> 本轮 {TS}。P 池 {len(pool)} 户 / 源 {n_src} 个（清单 `scripts/web_watch/targets_auto.json` layer=P，discover.py 从 `data/saga_clients/P池_巡检表_*.csv` 生成：首页（多域名户再看第 2 域名）+ 运行时自动发现的 feed；SC 码沿用 entities / 快照里的社媒与 GitHub）。'
+             f'变化 append-only 见 `变化日志_P.md`；快照 `snapshots/<客户码>/`。人工巡检（两个月一次，下次见巡检表「下次巡检」列）时按本表「最近变化」+ 巡检表「巡检项」逐户看；「人工看」= 登录墙社媒链接。', '',
+             '| 客户 | 入池 | 档 | 来源 | 区域组 | 源数 | 可达/失败 | 最近变化 | 最近变化摘要 | 人工看 |', '|---|---|---|---|---|---|---|---|---|---|']
+        for c in sorted(pool, key=lambda x: ((x.get('pool') or {}).get('入池', ''), {'★★': 0, '★': 1, '○': 2, '△': 3, '☆': 4}.get((x.get('pool') or {}).get('档位', ''), 9), x['code'])):
+            pm = c.get('pool') or {}
+            srcs = c['sources'] + ([{'id': 'feed_auto'}] if _meta_of(state, c['code']).get('feed_auto') else [])
+            sts = [state.get(f"{c['code']}/{s['id']}") or {} for s in srcs]
+            ok = sum(1 for st in sts if st.get('status') and not st.get('error'))
+            bad = sum(1 for st in sts if st.get('error'))
+            lc = max((st.get('last_change_at') or '-' for st in sts), default='-')
+            summ = _meta_of(state, c['code']).get('last_change_note') or ''
+            man = '、'.join((m.get('label', '') if isinstance(m, dict) else str(m)) for m in c.get('manual', [])[:5])
+            L.append(f"| {c['code']} {c['name'][:28].replace('|', '／')} | {pm.get('入池', '')} | {pm.get('档位', '')} | {pm.get('来源', '')} | {pm.get('区域组', '')} | {len(srcs)} | {ok}/{bad} | {lc} | {summ.replace('|', '／')[:100]} | {man} |")
+        with open(os.path.join(OUT, '当前状态_P.md'), 'w', encoding='utf-8') as f:
+            f.write('\n'.join(L) + '\n')
 
 
 def append_log(path, title, changes, errors, n_sources):
@@ -760,7 +784,7 @@ def git_commit(msg):
 def main(argv=None):
     ap = argparse.ArgumentParser()
     ap.add_argument('--only', nargs='*', help='只跑这些客户码')
-    ap.add_argument('--layer', default='all', help='all | 成单 | A | B（逗号分隔可多选；deal = 成单）')
+    ap.add_argument('--layer', default='all', help='all | 成单 | A | B | P（逗号分隔可多选；deal = 成单；P = P 级 / 资产池）')
     ap.add_argument('--limit', type=int, default=0, help='最多跑多少个客户（测试用）')
     ap.add_argument('--workers', type=int, default=WORKERS)
     ap.add_argument('--no-commit', action='store_true')
@@ -768,7 +792,7 @@ def main(argv=None):
     args = ap.parse_args(argv)
     if args.selftest:
         return selftest()
-    layers = {'成单', 'A', 'B'} if args.layer == 'all' else {x.strip() for x in args.layer.replace('deal', '成单').split(',')}
+    layers = {'成单', 'A', 'B', 'P'} if args.layer == 'all' else {x.strip() for x in args.layer.replace('deal', '成单').split(',')}
     customers = load_config(layers)
     if args.only:
         customers = [c for c in customers if c['code'] in args.only]
@@ -777,9 +801,9 @@ def main(argv=None):
     state = load_json(STATE, {})
     state.setdefault('_meta', {})
     os.makedirs(SNAP, exist_ok=True)
-    changes_by_layer = {'成单': [], 'A': [], 'B': []}
-    errors_by_layer = {'成单': [], 'A': [], 'B': []}
-    n_sources = {'成单': 0, 'A': 0, 'B': 0}
+    changes_by_layer = {'成单': [], 'A': [], 'B': [], 'P': []}
+    errors_by_layer = {'成单': [], 'A': [], 'B': [], 'P': []}
+    n_sources = {'成单': 0, 'A': 0, 'B': 0, 'P': 0}
     t0 = time.time()
     by_code = {c['code']: c for c in customers}
     done = 0
@@ -837,12 +861,14 @@ def main(argv=None):
     if layers & {'A', 'B'}:
         ab_changes = (['### A 级'] + changes_by_layer['A'] if changes_by_layer['A'] else []) + (['### B 级'] + changes_by_layer['B'] if changes_by_layer['B'] else [])
         append_log(os.path.join(OUT, '变化日志_AB.md'), 'A/B 级客户 · 动态监控 · 变化日志', ab_changes, errors_by_layer['A'] + errors_by_layer['B'], n_sources['A'] + n_sources['B'])
-    write_status(load_config({'成单', 'A', 'B'}), state, changes_by_layer)
+    if 'P' in layers:
+        append_log(os.path.join(OUT, '变化日志_P.md'), 'P 级 / 资产池 · 动态监控 · 变化日志', changes_by_layer['P'], errors_by_layer['P'], n_sources['P'])
+    write_status(load_config({'成单', 'A', 'B', 'P'}), state, changes_by_layer)
     print(f'{TS} customers={len(customers)} sources={sum(n_sources.values())} changed_or_flagged={tot_changes} errors={tot_err} elapsed={time.time() - t0:.0f}s')
     if not args.no_commit:
         # 提交信息里按「源」计数（只数顶层条目，不数缩进的 diff 明细行；2026-10-23 07:03Z 修：此前把明细行也算进去，06:51Z 轮显示 55 实为 11 个源）
         n_top = {k: sum(1 for x in v if not x.startswith((' ', '###'))) for k, v in changes_by_layer.items()}
-        git_commit(f"监控：客户动态 {TS}（成单 {n_top['成单']} / A {n_top['A']} / B {n_top['B']} 个源有变化；抓取失败 {tot_err}；源 {sum(n_sources.values())}）")
+        git_commit(f"监控：客户动态 {TS}（成单 {n_top['成单']} / A {n_top['A']} / B {n_top['B']} / P 池 {n_top['P']} 个源有变化；抓取失败 {tot_err}；源 {sum(n_sources.values())}）")
     return 0
 
 
@@ -878,7 +904,7 @@ def selftest():
     assert ff == ['https://a.b/feed/'], ff
     cfg = load_json(CFG, None)
     assert cfg and len(cfg['customers']) == 20, len(cfg['customers'])
-    merged = load_config({'成单', 'A', 'B'})
+    merged = load_config({'成单', 'A', 'B', 'P'})
     ids = set()
     layers = {}
     for c in merged:

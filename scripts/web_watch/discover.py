@@ -19,9 +19,15 @@ data/saga_clients/site_snapshots/<code>.json（首页导航链接 / sitemap / �
 输出 scripts/web_watch/targets_auto.json（watch.py 与手工精选的 targets.json 合并使用；精选里已有的 URL 不重复）。
 重新生成是幂等的：同一输入同一输出；手工修正请改 targets.json（精选层）而不是本文件产物。
 
-用法：python3 scripts/web_watch/discover.py [--grades A,B] [--stats]
+2026-10-29（T29-U120）起追加 **P 池层**（layer=P）：读 data/saga_clients/P池_巡检表_*.csv（Saga C / External XC / Planet 仓三库并池的正式 + 观察户），
+每户监控「域名 / 平台链接」列前 2 个域名的首页（SC 码能在 entities.json / 快照里找到的沿用 A/B 同法），GitHub / YouTube / Telegram / VK 同上，
+社媒链接进 manual。P 池层不与 A/B 层重码（P 池只收 C 级与外库户；随 A/B 主档的并档户不单列）。--no-pool 关闭。
+
+用法：python3 scripts/web_watch/discover.py [--grades A,B] [--stats] [--no-pool]
 """
 import argparse
+import csv
+import glob
 import json
 import os
 import re
@@ -34,6 +40,7 @@ ENT = os.path.join(ROOT, 'data', 'saga_clients', 'entities.json')
 SNAPS = os.path.join(ROOT, 'data', 'saga_clients', 'site_snapshots')
 CURATED = os.path.join(HERE, 'targets.json')
 OUT = os.path.join(HERE, 'targets_auto.json')
+POOL_GLOB = os.path.join(ROOT, 'data', 'saga_clients', 'P池_巡检表_*.csv')   # P 级 / 资产池 巡检表（T29-U117 起；取文件名最新一份）
 
 NEWS_PAT = re.compile(r'(?i)(?<![a-z])(news|blog|press|media[- ]?(center|centre|room)|aktuell|neuigkeiten|nouvelles|actualit[eé]s?|noticias|novedades|novosti|'
                       r'новост|блог|пресс|haberler|haber|duyurular|案例|新闻|動態|动态|events?|projects?|referenzen|references?|realizacje|case[- ]?stud(y|ies)|'
@@ -67,17 +74,49 @@ def youtube_source(u):
     return None
 
 
-def build(grades):
+def pool_subjects(ents_by_code):
+    """巡检表 → 与 entities 同形的 subject 列表（layer=P）。SC 码优先用 entities 的 domains / platform_links；其余用表里的域名列。"""
+    files = sorted(glob.glob(POOL_GLOB))
+    if not files:
+        return [], None
+    path = files[-1]
+    out = []
+    for r in csv.DictReader(open(path, encoding='utf-8-sig')):
+        code = (r.get('编号') or '').strip()
+        if not code:
+            continue
+        toks = [t.strip() for t in (r.get('域名 / 平台链接') or '').split('|') if t.strip()]
+        domains = [t.lower() for t in toks if re.fullmatch(r'(?i)[a-z0-9.-]+\.[a-z]{2,}', t)]
+        links = [t for t in toks if t.startswith('http')]
+        e = ents_by_code.get(code) or {}
+        if e.get('domains'):
+            domains = [d for d in e['domains'] if d] + [d for d in domains if d not in (e.get('domains') or [])]
+        origin = 'Saga' if code.startswith('S') else ('External' if code.startswith('X') else 'Planet')
+        out.append({'code': code, 'name': r.get('公司') or e.get('name') or code, 'grade': e.get('grade') or 'C', 'country': r.get('国家') or e.get('country') or '',
+                    'domains': domains, 'platform_links': list(e.get('platform_links') or []) + links, 'layer': 'P',
+                    'pool': {'档位': r.get('档位') or '', '入池': r.get('入池') or '', '来源': origin, '区域组': r.get('区域组') or '', '标签': r.get('标签') or '',
+                             '下次巡检': r.get('下次巡检') or ''}})
+    return out, os.path.relpath(path, ROOT)
+
+
+def build(grades, pool=True):
     ents = json.load(open(ENT, encoding='utf-8'))
+    subjects = [e for e in ents if e.get('grade') in grades]
+    pool_file = None
+    if pool:
+        ps, pool_file = pool_subjects({e['code']: e for e in ents})
+        have = {e['code'] for e in subjects}
+        subjects += [x for x in ps if x['code'] not in have]
     curated = json.load(open(CURATED, encoding='utf-8')) if os.path.exists(CURATED) else {'customers': []}
     cur_by = {c['code']: c for c in curated.get('customers', [])}
     cur_urls = {norm_url(s.get('url')) for c in curated.get('customers', []) for s in c['sources'] if s.get('url')}
     cur_logins = {(s.get('login') or '').lower() for c in curated.get('customers', []) for s in c['sources'] if s.get('login')}
-    customers, stats = [], {'customers': 0, 'no_domain': 0, 'sources': 0, 'kinds': {}, 'social_manual': 0, 'snapshot_missing': 0, 'site_dead': 0}
-    for e in ents:
-        if e.get('grade') not in grades:
-            continue
+    customers, stats = [], {'customers': 0, 'no_domain': 0, 'sources': 0, 'kinds': {}, 'social_manual': 0, 'snapshot_missing': 0, 'site_dead': 0, 'pool_customers': 0, 'pool_sources': 0}
+    for e in subjects:
         code = e['code']
+        is_pool = e.get('layer') == 'P'
+        if is_pool:
+            stats['pool_customers'] += 1
         stats['customers'] += 1
         domains = [d for d in (e.get('domains') or []) if d]
         snap = None
@@ -109,12 +148,17 @@ def build(grades):
             stats['sources'] += 1
             stats['kinds'][src['kind']] = stats['kinds'].get(src['kind'], 0) + 1
 
-        add({'id': 'home', 'kind': 'html', 'url': home_url, 'note': f'官网首页（T27 快照状态 {site_status}）'})
+        add({'id': 'home', 'kind': 'html', 'url': home_url, 'note': f'官网首页（T27 快照状态 {site_status}）' if snap else '官网首页'})
+        hh = host_of(home_url)
+        if is_pool:
+            # P 池：多域名户（同一法人两个店 / 两国站）再看第 2 个域名首页
+            for d in domains[1:2]:
+                if host_of(f'https://{d}/') != hh:
+                    add({'id': 'home_2', 'kind': 'html', 'url': f'https://{d}/', 'note': '第二域名首页（P 池巡检表）'})
         sm = (snap or {}).get('sitemap') or {}
         if sm.get('url') and (sm.get('count') or 0) > 0:
             add({'id': 'sitemap', 'kind': 'sitemap', 'url': sm['url'], 'note': f'站点地图（2026-10-21 时 {sm["count"]} 条）'})
         # 新闻/博客/案例页：导航链接里按关键词挑，最多 2 个，优先同域
-        hh = host_of(home_url)
         cands = []
         for t, u in (home.get('links') or []):
             if not u or NEWS_BAD.search(u):
@@ -172,13 +216,16 @@ def build(grades):
                         manual.append({'label': label, 'url': s, 'note': '登录墙，人工看'})
                         stats['social_manual'] += 1
                     break
-        c = {'code': code, 'name': e.get('name') or code, 'grade': e.get('grade'), 'country': e.get('country') or '', 'layer': e.get('grade'),
+        c = {'code': code, 'name': e.get('name') or code, 'grade': e.get('grade'), 'country': e.get('country') or '', 'layer': e.get('layer') or e.get('grade'),
              'site_status_2026_10_21': site_status, 'sources': sources, 'manual': manual}
+        if is_pool:
+            c['pool'] = e['pool']
+            stats['pool_sources'] += len(sources)
         if code in cur_by:
             c['note'] = '精选层（targets.json）已有本客户；此处只补精选里没有的源'
         customers.append(c)
-    return {'meta': {'generated_by': 'scripts/web_watch/discover.py', 'inputs': ['data/saga_clients/entities.json', 'data/saga_clients/site_snapshots/ (T27 2026-10-21)'],
-                     'grades': sorted(grades), 'stats': stats,
+    return {'meta': {'generated_by': 'scripts/web_watch/discover.py', 'inputs': ['data/saga_clients/entities.json', 'data/saga_clients/site_snapshots/ (T27 2026-10-21)'] + ([pool_file + ' (P 池层)'] if pool_file else []),
+                     'grades': sorted(grades), 'layers': sorted({c['layer'] for c in customers}), 'stats': stats,
                      'note': '离线生成（幂等）。精选源请改 targets.json；本文件由 discover.py 重新生成时会被覆盖。'},
             'customers': customers}
 
@@ -188,14 +235,15 @@ def main(argv=None):
     ap.add_argument('--grades', default='A,B')
     ap.add_argument('--stats', action='store_true')
     ap.add_argument('--out', default=OUT)
+    ap.add_argument('--no-pool', action='store_true', help='不生成 P 池层')
     args = ap.parse_args(argv)
     grades = {g.strip().upper() for g in args.grades.split(',') if g.strip()}
-    cfg = build(grades)
+    cfg = build(grades, pool=not args.no_pool)
     with open(args.out, 'w', encoding='utf-8') as f:
         json.dump(cfg, f, ensure_ascii=False, indent=1)
     st = cfg['meta']['stats']
     print(f"targets_auto: customers={len(cfg['customers'])} sources={st['sources']} kinds={st['kinds']} social_manual={st['social_manual']} "
-          f"snapshot_missing={st['snapshot_missing']} site_dead={st['site_dead']} no_domain={st['no_domain']} → {args.out}")
+          f"snapshot_missing={st['snapshot_missing']} site_dead={st['site_dead']} no_domain={st['no_domain']} pool={st['pool_customers']}/{st['pool_sources']} → {args.out}")
     return 0
 
 
