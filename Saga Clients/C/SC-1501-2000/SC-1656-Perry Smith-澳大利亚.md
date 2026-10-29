@@ -2,12 +2,15 @@
 
 > **评级 C**　|　澳大利亚　|　档案编号 `SC-1656`　|　优先级 —　|　状态：WhatsApp 已加·未回复
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：澳大利亚；WA 已加；兴趣：1个1G电口模块；跟进 8 次无回复 → 仅 WA / 电话路径，无邮箱 → 不刚性；留 C（来询被动报价）　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：WhatsApp 已加；推送 8 次（2025-03-05 → 2025-10-14）　|　**所在清单**：A优质名单(AU)、AI评估(AU)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-1656
 rating: C
 rating_auto: C
+sieve: keep_C  # 闸 1 G1 2026-10-29
 score: 6
 country: 澳大利亚
 region: 亚太
@@ -24,7 +27,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -145,8 +148,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 6）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 6）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -2,12 +2,15 @@
 
 > **评级 C**　|　阿联酋　|　档案编号 `SC-1747`　|　优先级 —　|　状态：WhatsApp 已加·未回复
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：阿联酋；WA 已加；兴趣：AHD TVI CVI 网站：主要是CCTV 安防；跟进 23 次无回复 → 需求为光端机 / 视频 / 光模块类（Saga 不供，Simon 本职可参考）；留 C　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+>
 > **类型**：安防集成/经销（推断）　|　**历史关系**：WhatsApp 已加；推送 23 次（2023-11-29 → 2025-10-27）　|　**所在清单**：A优质名单(阿联酋 沙特阿拉伯)、AI评估(阿联酋 沙特阿拉伯)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-1747
 rating: C
 rating_auto: C
+sieve: keep_C  # 闸 1 G1 2026-10-29
 score: 4
 country: 阿联酋
 region: 中东
@@ -25,7 +28,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -173,8 +176,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 4）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 4）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

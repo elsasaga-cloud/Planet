@@ -2,12 +2,15 @@
 
 > **评级 C**　|　阿尔及利亚　|　档案编号 `SC-1763`　|　优先级 —　|　状态：WhatsApp 已加·未回复
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：阿尔及利亚；WA 已加；兴趣：100个232转光40KM；跟进 20 次无回复 → 区域外冷线索，但 WA 路径在 → 不刚性；留 C 储备　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：WhatsApp 已加；推送 20 次（2023-12-09 → 2025-10-06）　|　**所在清单**：A优质名单(其他优质欧洲客户)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-1763
 rating: C
 rating_auto: C
+sieve: keep_C  # 闸 1 G1 2026-10-29
 score: 4
 country: 阿尔及利亚
 region: 非洲
@@ -24,7 +27,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -157,8 +160,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 4）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 4）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
