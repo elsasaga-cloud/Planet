@@ -2,12 +2,15 @@
 
 > **评级 C**　|　美国　|　档案编号 `SC-2657`　|　优先级 —　|　状态：已推送 11 次·未回复
 >
+> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：美国 Lynn Electronics（MC / switch / SFP，从 VOLKTEK 买 MC）：美国主区 + 进口经验（台湾 Volktek）+ 自有品牌连接产品 → 闸 2 查底数；11 推 0 回；Simon 曾判不行 → 可按编号否决　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 11 次（2022-11-30 → 2023-10-16）　|　**所在清单**：群发(已重新审核/一般 常规)、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-2657
 rating: C
 rating_auto: C
+sieve: candidate  # 闸 1 G1 2026-10-29
 score: -31
 country: 美国
 region: 北美
@@ -25,7 +28,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -150,8 +153,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -31）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -31）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -3,12 +3,15 @@
 
 > **评级 C**　|　美国　|　档案编号 `SC-2429`　|　优先级 —　|　状态：已推送 8 次·未回复
 >
+> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：美国 Epcom（El Paso；Syscom 美方；约 100 人；PLANET 商用 + 工业两线备货、Wi-Tek 在用；研究档对位 STC-424DGGM）：美国主区 + 分销主体 + 对位 ✔；8 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 8 次（2025-03-12 → 2025-10-21）　|　**所在清单**：A优质名单(US)、AI评估(US)、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-2429
 rating: C
 rating_auto: C
+sieve: candidate  # 闸 1 G1 2026-10-29
 rating_research: C  # 用户判定不行/不相关（尊重用户表判断，保留 C）；Planet 渠道档案 PB-066 评 B 仅作参考
 name_official: "El Paso Communication Systems, Inc.（dba EPCOM）"
 score: -19
@@ -28,7 +31,7 @@ price_tier: 20%
 research: done
 site_snapshot: none
 sources: 3
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -214,8 +217,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 C，分数 -19）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 C，分数 -19）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

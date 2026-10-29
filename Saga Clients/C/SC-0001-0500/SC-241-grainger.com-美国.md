@@ -2,12 +2,15 @@
 
 > **评级 C**　|　美国　|　档案编号 `SC-241`　|　优先级 —　|　状态：名单内·未触达
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：美国；表分 体量过大；兴趣：商业POE 配件等；研：MRO 巨头分销商 → 巨头 / 集团 / 大型分销：按 U117 不 pass；留 C
+>
 > **类型**：MRO 巨头分销商（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:US　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-241
 rating: C
 rating_auto: B
+sieve: keep_C  # 闸 1 G1 2026-10-29
 rating_research: C  # 体量过大：Grainger 上市 MRO 巨头；c_sub=体量过大
 score: 25
 country: 美国
@@ -25,7 +28,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -170,8 +173,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

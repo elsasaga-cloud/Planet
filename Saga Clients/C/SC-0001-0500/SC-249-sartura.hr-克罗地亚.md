@@ -2,12 +2,15 @@
 
 > **评级 C**　|　克罗地亚　|　档案编号 `SC-249`　|　优先级 —　|　状态：名单内·未触达
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：克罗地亚 Sartura（嵌入式 Linux / OpenWrt 工程服务；Marvell 平台板）→ 软件工程服务不经销硬件，但与网络设备相关（样机 / 合作可能）；留 C
+>
 > **类型**：嵌入式软件工程服务商（克罗地亚）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(EU)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-249
 rating: C
 rating_auto: B
+sieve: keep_C  # 闸 1 G1 2026-10-29
 rating_research: C  # 工程/软件服务公司，不经销硬件；c_sub=品类不符（软件/工程服务）
 score: 25
 country: 克罗地亚
@@ -26,7 +29,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -179,8 +182,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

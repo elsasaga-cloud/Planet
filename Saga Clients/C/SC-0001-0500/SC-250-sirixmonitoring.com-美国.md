@@ -2,12 +2,15 @@
 
 > **评级 C**　|　美国　|　档案编号 `SC-250`　|　优先级 —　|　状态：名单内·未触达
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：美国；表分 非渠道（服务商）；研：远程视频监控服务商（非渠道） → 无刚性 pass 证据；留 C　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+>
 > **类型**：远程视频监控服务商（非渠道）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-250
 rating: C
 rating_auto: B
+sieve: keep_C  # 闸 1 G1 2026-10-29
 rating_research: C  # 非渠道：远程视频监控服务商（Sirix Monitoring），不采购交换机转售；c_sub=非渠道（服务商）
 score: 25
 country: 美国
@@ -26,7 +29,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -184,8 +187,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -2,12 +2,15 @@
 
 > **评级 C**　|　加拿大　|　档案编号 `SC-2418`　|　优先级 —　|　状态：已推送 1 次·未回复
 >
+> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：加拿大 / 美国 Streakwave（卖很多牌子：商业 PoE / 工业 FS / SFP；北美无线 + 网络大分销）：北美主区 + 分销主体 + 对位 ✔；1 推 0 回 → 闸 2 查底数（体量偏大）；Simon 曾判不行 → 可按编号否决　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 1 次（2025-10-18 → 2025-10-18）　|　**所在清单**：A优质名单(Canada)、AI评估(CA)·DONE、群发(筛选后质量一般的_群发)、表:Canada、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-2418
 rating: C
 rating_auto: C
+sieve: candidate  # 闸 1 G1 2026-10-29
 score: -18
 country: 加拿大
 region: 北美
@@ -25,7 +28,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 4
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -157,8 +160,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 C，分数 -18）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 C，分数 -18）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
