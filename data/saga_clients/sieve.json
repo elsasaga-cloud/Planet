@@ -3,12 +3,12 @@
   "updated": "2026-10-29",
   "rules": "docs/C池三闸筛选_方案_2026-10-29.md §2",
   "counts": {
-   "keep_C": 1034,
+   "keep_C": 1083,
    "pass_final": 191,
    "pool_candidate": 85,
-   "candidate": 8
+   "candidate": 14
   },
-  "n": 1318
+  "n": 1373
  },
  "SC-001": {
   "verdict": "keep_C",
@@ -13360,6 +13360,327 @@
    "dayjob_fit"
   ]
  },
+ "SC-756": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "挪威；表分 群发冷名单无回应；兴趣：其他的牌子 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-759": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "意大利 Distrelec（distrelec.it / .com；目录分销巨头，主要是 Planet 的）：巨头采购体系；未触达 → 留 C（oem 备注：Planet 渠道）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-760": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "意大利；表分 群发冷名单无回应 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-764": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "爱沙尼亚 dwdm.me（CWDM SFP）：光模块 = 本职线 / 同行；未触达 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-766": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "拉脱维亚 Edge Optic（edgeoptic.com；彩光模块）：光模块同行 / 本职线；未触达 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-767": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "西班牙；表分 群发冷名单无回应；兴趣：Digitus → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-768": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国 Electro Standards Laboratories（electrostandards.com；自产光开关 / bypass / 转换器）：同行制造商；未触达 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-769": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "芬兰；表分 群发冷名单无回应；兴趣：很多牌子的 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-770": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "波兰 ELMARK Automatyka（elmark.com.pl；很多牌子 = 波兰工业自动化 / 工业网络分销主体）：波兰 + 分销主体 + 对位 ✔；名单内未触达 → 闸 2 查底数（冷户四条待坐实）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-771": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "西班牙；表分 群发冷名单无回应；兴趣：很多牌子的 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-773": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "西班牙；表分 群发冷名单无回应；兴趣：很多牌子的 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-774": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 群发冷名单无回应 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-775": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "捷克；表分 群发冷名单无回应；兴趣：销售平台 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-779": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "意大利；表分 群发冷名单无回应 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-780": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 群发冷名单无回应 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-783": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "捷克 Express Alarm（expressalarm.cz；卖几个有名牌子 + Wi-Tek 很多其他产品）：欧洲 + 已进口中国同类品牌 + 对位 ✔；未触达 → 闸 2 查底数，低优先",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-786": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国 Fibertool（fibertool.com；CWDM SFP）：光模块 = 本职线；未触达 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-787": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "德国；表分 群发冷名单无回应；兴趣：销售平台 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-788": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 群发冷名单无回应；兴趣：Startech → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-789": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "德国 Flexoptix（flexoptix.net；基本都是 SFP = 光模块品牌商）：同行；未触达 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-790": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "捷克；表分 群发冷名单无回应 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-793": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "捷克；表分 群发冷名单无回应；兴趣：主要是Dlink的 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-794": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "德国 GHIP Systems（ghipsystems.com；CWDM SFP）：光模块 = 本职线；未触达 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-797": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "波兰；表分 群发冷名单无回应；兴趣：销售平台 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-798": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "英国；表分 群发冷名单无回应；兴趣：分销有名牌子的 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-803": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 群发冷名单无回应；兴趣：主要是antaria的 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-804": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 群发冷名单无回应；兴趣：周边产品为主 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-809": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "捷克 HTV Hodina（htv-hodina.cz；Wi-Tek）：欧洲 + 已进口中国同类品牌 + 对位 ✔；未触达 → 闸 2 查底数，低优先",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-811": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "西班牙；表分 群发冷名单无回应；兴趣：trendnet → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-813": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 群发冷名单无回应；兴趣：Perle → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-819": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "加拿大 Infralink Networks（infralinknetworks.ca；无源配件为主、有 MC）：品类偏无源；8 推 0 回 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-821": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "土耳其；表分 群发冷名单无回应；兴趣：光设备 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-822": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "捷克；表分 群发冷名单无回应；兴趣：卖几个有名牌子的 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-827": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "德国 ITJAN / Janetzky（itjan.de / janetzky.net；表内「100 个 用于 Amazon 销售」= 数量信号）：四主区 + 数量意向 + 对位 ✔；→ 闸 2 查底数（亚马逊卖家微型 → 预付）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
  "SC-831": {
   "verdict": "keep_C",
   "gate": 1,
@@ -13368,6 +13689,42 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-04"
+ },
+ "SC-833": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "波兰；表分 群发冷名单无回应；兴趣：销售平台 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-834": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "克罗地亚；表分 群发冷名单无回应；兴趣：都是大华的 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-835": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "英国；表分 群发冷名单无回应 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-837": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "意大利；表分 群发冷名单无回应 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
  },
  "SC-840": {
   "verdict": "keep_C",
@@ -13389,6 +13746,171 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-04"
+ },
+ "SC-843": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "英国；表分 群发冷名单无回应；兴趣：redlion → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-845": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "英国；表分 群发冷名单无回应；兴趣：Tycon → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-847": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国 Lorex（lorex.com；消费级 CCTV 品牌商）：巨头 / 自有供应链；未触达 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-849": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国 Luma Optics（lumaoptics.net；基本都是 SFP）：光模块同行 / 本职线；未触达 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-855": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "英国 Mast Digital（mastdigital.co.uk；Dahua + Wi-Tek）：四主区 + 已进口中国同类品牌 + 对位 ✔；未触达 → 闸 2 查底数",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-856": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "比利时 Megamobile（megamobile.be；Wi-Tek）：欧洲 + 已进口中国同类品牌 + 对位 ✔；未触达 → 闸 2 查底数，低优先",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-857": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "西班牙；表分 群发冷名单无回应；兴趣：Startech → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-858": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "英国 Metrodata / Kenton Group（metrodata.co.uk；CWDM SFP 为主）：光模块 = 本职线；未触达 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-863": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "意大利；表分 群发冷名单无回应 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-864": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "波兰；表分 群发冷名单无回应；兴趣：销售平台 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-867": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国 Multilink（multilink.us；宽带 / 光纤机柜制造商，很多牌子的产品）：同行属性 + 冷；未触达 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-868": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国 Murrelektronik（murrelektronik.com；工业连接巨头）：巨头采购体系；未触达 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-870": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 群发冷名单无回应 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-871": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "土耳其；表分 群发冷名单无回应；兴趣：fiber networking → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-872": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "波兰；表分 群发冷名单无回应；兴趣：销售平台 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-875": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "英国；表分 群发冷名单无回应；兴趣：trendnet → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10"
+ },
+ "SC-877": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "荷兰 Netways Europe（netwayseurope.com；CWDM SFP / Network）：光模块为主 = 本职线；未触达 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-10",
+  "tags": [
+   "dayjob_fit"
+  ]
  },
  "SC-975": {
   "verdict": "keep_C",
