@@ -2,12 +2,15 @@
 
 > **评级 C**　|　墨西哥　|　档案编号 `SC-3130`　|　优先级 —　|　状态：已推送 1 次·未回复
 >
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 墨西哥 · CCTV 大分销 20%（长线）：TVC en Línea.com, S.A. de C.V.（Monterrey；RFC TVC060802NE4；2000；201–500 人；蒙特雷 + 墨西哥城）坐实；大分销 ✔ Utepo / 大华中国品牌进口 ✔ 对位 ✔ 墨西哥先例 SYSCOM ✔ → P 池候选（换 ventas / compras 地址 + WA）
+>
 > **类型**：安防集成/经销（推断）　|　**历史关系**：推送 1 次（2025-10-07 → 2025-10-07）　|　**所在清单**：E冷名单(墨西哥)、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-3130
 rating: C
 rating_auto: C
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: -68
 country: 墨西哥
 region: 拉美
@@ -25,7 +28,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -36,6 +39,29 @@ updated: 2026-10-24
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `tvc.mx` → Microsoft 365（MX：tvc-mx.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 132 批（MX · 1 次检索：comxport（RFC / 法人名 / 地址 / 进出口）+ cosmos.com.mx（业务 / 地址）+ LinkedIn（2000 / 201–500 人 / 两地）；2026-10-29，2026-10-29 查；https://www.comxport.com/co/tvc_en_lineacom_sa_de_cv-mexico-350701.php）：**
+
+- 法定名 / 登记号：TVC en Línea.com, S.A. de C.V.（tvc.mx；**RFC TVC060802NE4；Camino al Mirador No. 5216, Col. Del Paseo Residencial 6to Sector, 64920 Monterrey, N.L.（comxport / cosmos）；LinkedIn：电子安防解决方案批发商（mayorista），2000 年创立，201–500 人，总部 Av. Lázaro Cárdenas 2611 Monterrey + 墨西哥城 Azcapotzalco 分部；进出口 批发 电信（comxport）；Tel 0133 1202 1777**）；表内：Utepo / 大华 CCTV 大分销，官网 WA +52 81 1799 1777 · TVC060802NE4（RFC） · 状态 **营业中（LinkedIn / 目录 2025）** · 成立 2000（RFC 序列 2006-08-02） · S.A. de C.V.
+- 行业码 / 经营范围：电子安防 / CCTV 批发分销（蒙特雷 + 墨西哥城）
+- 注册地址：Camino al Mirador No. 5216, Col. Del Paseo Residencial, 64920 Monterrey, Nuevo León
+- 规模档：大型（201–500 人；两地）
+- 账目：未取；—
+- 高管：（具名 KP 未取；soporte@ 为支持信箱 → 需 ventas / compras）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **墨西哥 · CCTV 大分销 20%（长线）：WA + 换采购地址一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-2224GP $86 分销价 + MOQ 1 + 付费样机；Utepo 不点名；西语稿可）— 其他区常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关；周二 / 周四 当地 10–12**
+- 备注：分销 20%；P 池候选 ★（大分销 ✔ 中国品牌进口 ✔ 对位 ✔ 坐实 ✔ 墨西哥先例 SYSCOM ✔）；坐实（RFC）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -142,8 +168,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -68）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -68）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

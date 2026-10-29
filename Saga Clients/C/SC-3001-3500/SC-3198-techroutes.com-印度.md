@@ -2,12 +2,15 @@
 
 > **评级 C**　|　印度　|　档案编号 `SC-3198`　|　优先级 —　|　状态：用户判定不行
 >
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 印度 · 自有品牌 OEM 30%：Techroutes Network Pvt Ltd（Gurgaon；CIN U72200RJ2003PTC018583；2003；实收 ₹2 Cr；营业额 ₹5–25 Cr；自有路由 / 交换 / VoIP 产品线经分销商销售）坐实；自有品牌 ✔ 印度点名国 ✔ 对位 ✔ 决策人具名 ✔ → P 池候选（Simon 曾标 Spam → 可否决）　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(IN)·DONE、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-3198
 rating: C
 rating_auto: C
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: -77
 country: 印度
 region: 南亚
@@ -25,7 +28,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -36,6 +39,30 @@ updated: 2026-10-24
 - **P1**：不推（C 级）；若对方主动来询，起手 STI-288DGGPM（工业 L2+ 8 PoE + 2×2.5G SFP）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `techroutes.com` → 主机商 cPanel 类邮箱（MX：mail.techroutes.com）。主机商附带邮箱（主机商 cPanel 类邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 132 批（IN · 1 次检索：zaubacorp（CIN / 地址 / MCA 邮箱）+ instafinancials（成立 / 实收 / 前 CIN）+ indiamart（业务 / 营业额 / IEC）；2026-10-29，2026-10-29 查；https://www.instafinancials.com/company/techroutes-network-private-limited-U72200RJ2003PTC018583）：**
+
+- 法定名 / 登记号：Techroutes Network Private Limited（techroutes.com；**CIN U72200RJ2003PTC018583（现）/ 原 U72900HR2003PTC035992（自 Jaipur 迁 Haryana 再迁）；注册号 35992；2003-09-11 成立；ROC Delhi；授权 / 实收 ₹2 Cr；Sun Tower, 2nd Floor, Main M.G. Road, Sukhrali, Gurgaon 122001；MCA 邮箱 acct@techroutes.com；ISO 9001；自有产品线 路由器 / 交换机 / VoIP / VPN / 宽带，经分销商 / SI / VAR 销售（indiamart：营业额 ₹5–25 Cr，IEC 在册，GST 06…2ZI）**）；表内：商业 FS + 工业 FS switch；dinesh.rastogi@ / kdeepak@；手机 93000 69633；Simon 标 Spam · U72200RJ2003PTC018583（CIN；原 U72900HR2003PTC035992） · 状态 **Active（MCA 2026-07）** · 成立 2003-09-11 · Private Limited
+- 行业码 / 经营范围：自有品牌网络设备（路由 / 交换 / VoIP）+ 分销网络（古尔冈）
+- 注册地址：Sun Tower, 2nd Floor, Main M.G. Road, Sukhrali, Gurgaon, Haryana 122001
+- 规模档：中型（实收 ₹2 Cr；营业额 ₹5–25 Cr；IEC）
+- 账目：未取；—
+- 高管：Dinesh Rastogi — 表内具名 KP（职务未取）
+- 高管：K. Deepak — 表内具名 KP（职务未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **印度 · 自有品牌 OEM 30%：点名 Dinesh Rastogi 一页纸一次（STC-228GP $33 / STC-2224GP $86 / STC-4424GCPM $165 + STI-288GPM 工业线 中性包装 + 贴 Techroutes 牌 + MOQ 1 + 付费样机）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST**
+- 备注：OEM 30%；P 池候选 ★（自有品牌经分销销售 ✔ 印度点名国 ✔ 对位 ✔ 决策人具名 ✔ 坐实 ✔；Simon 曾标 Spam → 可否决）；坐实（CIN）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -151,8 +178,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -77）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -77）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

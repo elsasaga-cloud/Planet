@@ -2,12 +2,15 @@
 
 > **评级 C**　|　马来西亚　|　档案编号 `SC-3007`　|　优先级 —　|　状态：已推送 1 次·未回复
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：马来西亚 KS IT Solutions（ks-itsolutions.com 域正常；退信；懂 WDM、问 CWDM 是否无源；地址 i-City Selangor；igbal@ 具名；手机在表；1 推）：本职线 WDM → 留 C + dayjob_fit；退信待巡检（手机路径在）　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 1 次（2025-10-13 → 2025-10-13）　|　**所在清单**：E冷名单(马来西亚)、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-3007
 rating: C
 rating_auto: C
+sieve: keep_C  # 闸 1 G1 2026-10-29
 score: -59
 country: 马来西亚
 region: 亚太
@@ -25,7 +28,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -143,8 +146,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -59）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -59）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

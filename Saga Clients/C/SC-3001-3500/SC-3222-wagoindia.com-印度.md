@@ -2,12 +2,15 @@
 
 > **评级 C**　|　印度　|　档案编号 `SC-3222`　|　优先级 —　|　状态：用户判定不行
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：印度 WAGO India（wagoindia.com nxdomain，无退信记录；anilkumar@ 具名；「从 Volktek 买工业交换机」= 台湾品牌 ✔；Simon 标 Spam）：德国巨头印度子公司 + 印度点名国 ✔ 但旧域已死 → 留 C 待巡检（换 wago.com 域找到地址即转候选，长线）；Simon 曾标 Spam / 不行 → 可按编号否决
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-3222
 rating: C
 rating_auto: C
+sieve: keep_C  # 闸 1 G1 2026-10-29
 score: -83
 country: 印度
 region: 南亚
@@ -24,7 +27,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -133,8 +136,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -83）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -83）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

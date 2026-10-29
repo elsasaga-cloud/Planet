@@ -2,12 +2,15 @@
 
 > **评级 C**　|　俄罗斯　|　档案编号 `SC-3059`　|　优先级 —　|　状态：用户判定不行
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：俄罗斯 Net-Optic（net-optic.ru 正常 / net-optics.ru nxdomain；退信；「产品线很相似，工业 FS 还没上线」光猫 / VC / MC / 配件）：产品线相似 = 同类分销 / 疑同行 + 本职线 → 留 C + dayjob_fit；退信待巡检（俄罗斯点名国，通了复看）　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(Russia)、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-3059
 rating: C
 rating_auto: C
+sieve: keep_C  # 闸 1 G1 2026-10-29
 score: -68
 country: 俄罗斯
 region: 俄语区
@@ -24,7 +27,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -140,8 +143,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -68）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -68）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

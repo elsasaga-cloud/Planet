@@ -3,12 +3,15 @@
 
 > **评级 C**　|　巴基斯坦　|　档案编号 `SC-3149`　|　优先级 —　|　状态：已推送 1 次·未回复
 >
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 巴基斯坦 · 集成 25% + 预付 100%：Starcom Technologies (Pvt) Ltd（Karachi Saddar；2004；22–32 人；$5.3M；CEO Asghar Ali）部分坐实（SECP 未取）；2026-02 真人回「请用公司域名邮箱发」✔ Raisecom 采购 ✔ 对位 ✔ 决策人具名 ✔ → P 池候选（用 sagatele.com 域名重发）
+>
 > **类型**：巴基斯坦 IT 分销（推断）　|　**历史关系**：推送 1 次（2025-10-13 → 2025-10-13）　|　**所在清单**：E冷名单(巴基斯坦)、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-3149
 rating: C
 rating_auto: C
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 name_official: "Starcom Technologies（巴基斯坦；Asghar Ali）"
 score: -72
 country: 巴基斯坦
@@ -27,7 +30,7 @@ price_tier: 20%
 research: done
 site_snapshot: none
 sources: 2
-updated: 2026-10-25
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -58,6 +61,33 @@ updated: 2026-10-25
 | 2026-02-26 | 来 | Asghar Ali（Starcom Technologies） | Please send us email from your company Email domain. Like SAGA web site. Not from Gmail. We not do business with Gmail email senders. | 门槛式回复；三箱 Gmail 都过不了，只有 alan@sagatele.com 能发 | `gmail_e 19c98c6db0a514dc` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：需求不明
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `starcom.com.pk` → 同域名 MX → 托管在 alwaysondns.net（MX：starcom.com.pk）。主机商附带邮箱（同域名 MX → 托管在 alwaysondns.net）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+- `starcom.net.pk` → 其他主机商邮箱（clean02.itserver.biz）（MX：clean02.itserver.biz、clean03.itserver.biz、clean04.itserver.biz、mail.starcom.net.pk）。主机商附带邮箱（clean02.itserver.biz）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让（巴基斯坦 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+
+- 法定假日：11-09 Iqbal Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+
+**公司底数 · 第 132 批（PK · 1 次检索：rocketreach（法人名 / 地址 / 2004 / 人数 / 营收）+ zoominfo（CEO / 电话）；SECP 未取；2026-10-29，2026-10-29 查；https://rocketreach.co/starcom-technologies-pvt-limited-profile_b5c15b82f42e0895）：**
+
+- 法定名 / 登记号：Starcom Technologies (Pvt) Limited — Star Communication Services（starcom.com.pk / starcom.net.pk；**Suite 401-A, Panorama Centre II, Raja Ghazanfar Ali Rd, Saddar, Karachi 75460；2004 创立；22–32 人；营收 $5.3M（zoominfo / rocketreach）；CEO Asghar Ali；+92 21 3566 1550；电信 + 数据网络项目实施（电话系统 → 宽带互联网络）；拉合尔销售 Farooq Shah（General Sales Manager）**）；SECP 登记号未取；表内：从 Raisecom 买一些产品；2026-02-26 真人回「请用公司域名邮箱发」；ali@ + 手机 +92 300 202 1141 · 未取（SECP 登记号未查；法人名目录坐实） · 状态 **营业中（目录 2025）** · 成立 2004 · (Pvt) Limited
+- 行业码 / 经营范围：电信 / 数据网络系统集成（卡拉奇 + 拉合尔）
+- 注册地址：Suite 401-A, Panorama Centre II, Saddar, Karachi, Sindh 75460
+- 规模档：小型（22–32 人；$5.3M）
+- 账目：未取；—
+- 高管：Asghar Ali — CEO
+- 高管：Farooq Shah — General Sales Manager（Lahore）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **巴基斯坦 · 集成 25% + 预付 100%：用 sagatele.com 域名邮箱回 ali@ 一页纸一次（STC-228GP / STC-2224GP / STC-4424GCPM + STI-288GPM 工业线 + MOQ 1 + 付费样机；Raisecom 不点名）— 其他区常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关；周二 / 周四 当地 10–12**
+- 备注：集成 25%；P 池候选 ○（真人回 ✔ 进口中国同类 ✔ 对位 ✔ 决策人具名 ✔；巴基斯坦非点名国 → 预付 100%）；部分坐实（SECP 未取）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -195,8 +225,8 @@ Saga Telecom - sagatele.com
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -72）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -72）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -2,7 +2,7 @@
 
 > **评级 C**　|　越南　|　档案编号 `SC-2370`　|　优先级 —　|　状态：发不过去
 >
-> **⛔ 已过筛 · 永久 pass**（闸 1 · G1 · 2026-10-29）：越南 CCTVapp（cctvapp.net no_mx；wificamera.vn nxdomain；退信「发不过去」；智能监控 / smart home）：退信 + 全部域名死 + 无公司名 / 电话 → 闸 0 刚性 G0-2 → 永久 pass —— 不再加厚 / 不群发 / 不监控 / 不进日历；撤销只在客户主动找上门时由 Simon 拍板（`data/saga_clients/sieve.json`）。
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：回改（原 G1-31 永久 pass）：越南 CCTVapp（cctvapp.net no_mx，A 记录在；wificamera.vn nxdomain；退信）（no_mx = 有 A 记录无 MX，不属 G0-2 刚性集合 {nxdomain, dead}） → 留 C 待巡检（下次巡检网站也死即 pass）
 >
 > **类型**：安防集成/经销（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(VN/VN)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-2370
 rating: C
 rating_auto: C
-sieve: pass_final  # 闸 1 G1 2026-10-29
+sieve: keep_C  # 闸 1 G1 2026-10-29
 score: -16
 country: 越南
 region: 亚太
