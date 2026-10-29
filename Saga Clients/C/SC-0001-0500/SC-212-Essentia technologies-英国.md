@@ -2,12 +2,15 @@
 
 > **评级 C**　|　英国　|　档案编号 `SC-212`　|　优先级 —　|　状态：已推送 17 次·未回复
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：英国 Essentia Technologies（软件外包公司自用 Cisco / Netgear，想找低价替代）17 次无回复 → 终端用户；留 C（来询被动报价）
+>
 > **类型**：软件外包公司（终端用户，自用交换机）（推断）　|　**历史关系**：推送 17 次（2024-06-13 → 2025-10-23）　|　**所在清单**：A优质名单(UK)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-212
 rating: C
 rating_auto: B
+sieve: keep_C  # 闸 1 G1 2026-10-29
 rating_research: C  # 非渠道终端用户（软件外包公司自用交换机），17 次无回复；c_sub=品类不符/终端用户
 score: 26
 country: 英国
@@ -26,7 +29,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -205,8 +208,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 26）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 26）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

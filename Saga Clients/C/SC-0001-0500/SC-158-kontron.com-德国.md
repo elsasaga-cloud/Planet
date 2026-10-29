@@ -2,12 +2,15 @@
 
 > **评级 C**　|　德国　|　档案编号 `SC-158`　|　优先级 —　|　状态：已推送 14 次·未回复
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：德国；表分 巨头/上市（非渠道）；兴趣：TSN 工业通讯 电口；跟进 14 次无回复；研：上市嵌入式巨头 → 巨头 / 集团 / 大型分销：按 U117 不 pass；留 C
+>
 > **类型**：上市嵌入式巨头（推断）　|　**历史关系**：推送 14 次（2024-07-09 → 2025-10-20）　|　**所在清单**：A优质名单(DE)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-158
 rating: C
 rating_auto: B
+sieve: keep_C  # 闸 1 G1 2026-10-29
 rating_research: C  # 上市巨头：Kontron（自研工业通信/TSN 产品线），非渠道客户；c_sub=巨头/上市（非渠道）
 score: 32
 country: 德国
@@ -26,7 +29,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-25
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -216,8 +219,8 @@ updated: 2026-10-25
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 32）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 32）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

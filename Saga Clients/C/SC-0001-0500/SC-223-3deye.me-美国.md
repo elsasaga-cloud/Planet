@@ -2,12 +2,15 @@
 
 > **评级 C**　|　美国　|　档案编号 `SC-223`　|　优先级 —　|　状态：名单内·未触达
 >
+> **⛔ 已过筛 · 永久 pass**（闸 1 · G1 · 2026-10-29）：美国 3dEYE（云视频监控 SaaS 平台，不经销硬件）零互动 → 纯无关行业，永久 pass —— 不再加厚 / 不群发 / 不监控 / 不进日历；撤销只在客户主动找上门时由 Simon 拍板（`data/saga_clients/sieve.json`）。
+>
 > **类型**：云视频监控软件平台（软件品类）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:US　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-223
 rating: C
 rating_auto: B
+sieve: pass_final  # 闸 1 G1 2026-10-29
 rating_research: C  # 软件/云平台（SaaS），非硬件渠道；c_sub=品类不符（软件）
 score: 25
 country: 美国
@@ -25,7 +28,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -178,8 +181,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -2,12 +2,15 @@
 
 > **评级 C**　|　波兰　|　档案编号 `SC-1626`　|　优先级 —　|　状态：已推送 15 次·未回复
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：波兰 sklep.pl / iotsolution.pl（几个小有名气的牌子，外壳特别）：sklep.pl 域死、iotsolution.pl 正常；15 次无回复、无进口硬证据 → 留 C（波兰次优区，巡检再看）
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 15 次（2025-02-04 → 2025-10-21）　|　**所在清单**：A优质名单(PL)、AI评估(PL)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-1626
 rating: C
 rating_auto: C
+sieve: keep_C  # 闸 1 G1 2026-10-29
 score: 7
 country: 波兰
 region: 欧洲
@@ -25,7 +28,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 4
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -175,8 +178,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 C，分数 7）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 C，分数 7）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

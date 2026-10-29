@@ -2,12 +2,15 @@
 
 > **评级 C**　|　德国　|　档案编号 `SC-220`　|　优先级 —　|　状态：已推送 17 次·未回复
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：德国；表分 非渠道（工程服务）；兴趣：MC network switch 看着比较高端一些；跟进 17 次无回复；研：电子工程设计服务商（非渠道） → 无刚性 pass 证据；留 C　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+>
 > **类型**：电子工程设计服务商（非渠道）（推断）　|　**历史关系**：推送 17 次（2024-04-04 → 2025-10-21）　|　**所在清单**：A优质名单(DE)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-220
 rating: C
 rating_auto: B
+sieve: keep_C  # 闸 1 G1 2026-10-29
 rating_research: C  # 非渠道：电子工程设计服务商（Promwad），不采购成品交换机；c_sub=非渠道（工程服务）
 score: 26
 country: 德国
@@ -26,7 +29,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -202,8 +205,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 26）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 26）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

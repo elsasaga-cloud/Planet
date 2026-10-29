@@ -2,12 +2,15 @@
 
 > **评级 C**　|　立陶宛　|　档案编号 `SC-1629`　|　优先级 —　|　状态：已推送 15 次·未回复
 >
+> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：立陶宛 Somi Networks（MC / SFP / 工业 FS / VC / 机架，宇航的设备，「中性、来自不同国内供应商、价格 OK」）：欧洲 + 已进口中国中性产品 + 对位 ✔；15 次跟进无回复（冷）→ 闸 2 查底数　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 15 次（2024-05-09 → 2025-10-07）　|　**所在清单**：A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE、群发(杂)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-1629
 rating: C
 rating_auto: C
+sieve: candidate  # 闸 1 G1 2026-10-29
 score: 7
 country: 立陶宛
 region: 欧洲
@@ -25,7 +28,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 3
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -174,8 +177,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 C，分数 7）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 C，分数 7）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

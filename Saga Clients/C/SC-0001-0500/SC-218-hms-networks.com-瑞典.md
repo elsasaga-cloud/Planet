@@ -2,12 +2,15 @@
 
 > **评级 C**　|　瑞典　|　档案编号 `SC-218`　|　优先级 —　|　状态：已推送 9 次·未回复
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：瑞典；表分 体量过大/品牌厂商/运营商；兴趣：一些工业FS；工业FS；工业物联网 看着比较专业；跟进 9 次无回复；研：工业通信上市集团（多品牌厂商） → 巨头 / 集团 / 大型分销：按 U117 不 pass；留 C
+>
 > **类型**：工业通信上市集团（多品牌厂商）（推断）　|　**历史关系**：推送 9 次（2025-05-29 → 2025-10-08）　|　**所在清单**：A优质名单(其他优质欧洲客户)、群发(杂)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-218
 rating: C
 rating_auto: B
+sieve: keep_C  # 闸 1 G1 2026-10-29
 rating_research: C  # 体量过大/品牌厂商：HMS Networks 上市集团，自有多品牌（含 Red Lion 工业交换机）；c_sub=体量过大/品牌厂商/运营商
 score: 26
 country: 瑞典
@@ -26,7 +29,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -203,8 +206,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 26）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 26）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

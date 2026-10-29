@@ -2,12 +2,15 @@
 
 > **评级 C**　|　加拿大　|　档案编号 `SC-157`　|　优先级 —　|　状态：已推送 8 次·未回复
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：加拿大；表分 巨头/集团（同行）；兴趣：MC 工业FS等；跟进 8 次无回复；研：集团旗下工业网络厂商（Phoenix Contact） → 巨头 / 集团 / 大型分销：按 U117 不 pass；留 C　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+>
 > **类型**：集团旗下工业网络厂商（Phoenix Contact）（推断）　|　**历史关系**：推送 8 次（2025-02-27 → 2025-10-16）　|　**所在清单**：A优质名单(Canada)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-157
 rating: C
 rating_auto: B
+sieve: keep_C  # 闸 1 G1 2026-10-29
 rating_research: C  # 集团/同行：iS5 已并入 Phoenix Contact（自研工业交换机），非渠道客户；c_sub=巨头/集团（同行）
 score: 32
 country: 加拿大
@@ -26,7 +29,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-25
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -206,8 +209,8 @@ updated: 2026-10-25
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 32）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 32）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
