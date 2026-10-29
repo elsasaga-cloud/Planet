@@ -2,12 +2,15 @@
 
 > **评级 C**　|　丹麦　|　档案编号 `SC-061`　|　优先级 —　|　状态：名单内·未触达
 >
+> **⛔ 已过筛 · 永久 pass**（闸 1 · G1 · 2026-10-29）：丹麦 gill.dk（个人摄影 / 铁路照片网站）个人 RFQ「2+16 Passive PoE」（Saga 无此款）、未购买、WA 加不上 → 个人无购买，永久 pass —— 不再加厚 / 不群发 / 不监控 / 不进日历；撤销只在客户主动找上门时由 Simon 拍板（`data/saga_clients/sieve.json`）。
+>
 > **类型**：个人买家（丹麦）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-061
 rating: C
 rating_auto: B
+sieve: pass_final  # 闸 1 G1 2026-10-29
 rating_research: C  # 个人买家（个人网站）；c_sub=个人买家
 score: 42
 country: 丹麦
@@ -26,7 +29,7 @@ price_tier: 20%
 research: done
 site_snapshot: parked_or_empty  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -172,8 +175,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 42）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 42）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

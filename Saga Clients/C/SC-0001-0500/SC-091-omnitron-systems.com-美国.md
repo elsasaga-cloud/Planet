@@ -2,12 +2,15 @@
 
 > **评级 C**　|　美国　|　档案编号 `SC-091`　|　优先级 —　|　状态：已推送 9 次·未回复
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：美国；表分 同行/自研；兴趣：工业switch；跟进 9 次无回复；研：工业交换机/MC 自研制造商（同行） → 同行 / 自有品牌厂商，非渠道客户；留 C　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+>
 > **类型**：工业交换机/MC 自研制造商（同行）（推断）　|　**历史关系**：推送 9 次（2025-04-04 → 2025-11-04）　|　**所在清单**：A优质名单(US)、AI评估(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-091
 rating: C
 rating_auto: B
+sieve: keep_C  # 闸 1 G1 2026-10-29
 rating_research: C  # 同行：自研自产工业交换机/MC 厂商；c_sub=同行/自研
 score: 38
 country: 美国
@@ -26,7 +29,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -198,8 +201,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

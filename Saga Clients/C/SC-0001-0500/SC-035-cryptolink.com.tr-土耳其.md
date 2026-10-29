@@ -2,12 +2,15 @@
 
 > **评级 C**　|　土耳其　|　档案编号 `SC-035`　|　优先级 —　|　状态：已推送 2 次·未回复
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：土耳其；表分 守界（军警/公共安全）；兴趣：工业FS 洪瑞的；跟进 2 次无回复；研：边境安全/信号屏蔽方案商（守界） → 守界行业（军工 / 轨道 / 公共部门 / 关键基础设施）：不做但不 pass；留 C　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+>
 > **类型**：边境安全/信号屏蔽方案商（守界）（推断）　|　**历史关系**：推送 2 次（2025-09-25 → 2025-10-23）　|　**所在清单**：A优质名单(土耳其客户)、AI评估(TR)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-035
 rating: C
 rating_auto: B
+sieve: keep_C  # 闸 1 G1 2026-10-29
 rating_research: C  # 守界：边境安全与信号屏蔽系统（军警/公共安全）；c_sub=守界（军警/公共安全）
 score: 48
 country: 土耳其
@@ -26,7 +29,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -204,8 +207,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 48）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 48）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

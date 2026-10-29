@@ -2,12 +2,15 @@
 
 > **评级 C**　|　瑞典　|　档案编号 `SC-014`　|　优先级 —　|　状态：名单内·未触达
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：瑞典；表分 品类不符/终端用户；兴趣：商业级 48V 0.5A 1G PoE injector；研：无人机服务终端用户（瑞典，PoE 注入器询盘） → 终端用户自用（有购买或询盘）：不 pass；留 C（来询被动报价）
+>
 > **类型**：无人机服务终端用户（瑞典，PoE 注入器询盘）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：A优质名单(其他优质欧洲客户)、询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-014
 rating: C
 rating_auto: B
+sieve: keep_C  # 闸 1 G1 2026-10-29
 rating_research: C  # 非渠道终端小用户 + 询盘品类（PoE 注入器）Saga 不供；c_sub=品类不符/终端用户
 score: 54
 country: 瑞典
@@ -27,7 +30,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -181,8 +184,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 54）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 54）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

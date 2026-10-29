@@ -3,11 +3,11 @@
   "updated": "2026-10-29",
   "rules": "docs/C池三闸筛选_方案_2026-10-29.md §2",
   "counts": {
-   "keep_C": 564,
-   "pass_final": 172,
-   "candidate": 32
+   "keep_C": 701,
+   "pass_final": 186,
+   "candidate": 46
   },
-  "n": 768
+  "n": 933
  },
  "SC-001": {
   "verdict": "keep_C",
@@ -75,6 +75,18 @@
   "manual": true,
   "batch": "G1-03"
  },
+ "SC-008": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "土耳其；表分 体量过大/品牌厂商/运营商；兴趣：要1G/10G收发器， 拿了彩页 → 巨头 / 集团 / 大型分销：按 U117 不 pass；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-009": {
   "verdict": "pass_final",
   "gate": 1,
@@ -126,6 +138,45 @@
   "manual": true,
   "batch": "G1-01"
  },
+ "SC-014": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "瑞典；表分 品类不符/终端用户；兴趣：商业级 48V 0.5A 1G PoE injector；研：无人机服务终端用户（瑞典，PoE 注入器询盘） → 终端用户自用（有购买或询盘）：不 pass；留 C（来询被动报价）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-015": {
+  "verdict": "pass_final",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "瑞士 Schnetzler Metallbau AG（金属 / 玻璃建筑施工）2015 年阿里 RFQ「10G 交换机」一次、gmx 免费邮箱、此后零互动 → 纯无关行业，永久 pass",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-016": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "意大利；表分 守界（轨道）；兴趣：IEC 61375 railway ethernet switch；研：工业电子集团（意大利，轨道交换机陈旧询盘） → 守界行业（军工 / 轨道 / 公共部门 / 关键基础设施）：不做但不 pass；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-017": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "意大利；表分 守界（公共部门/关键基础设施）；兴趣：工业光猫；跟进 7 次无回复；研：空管/公共部门（守界） → 守界行业（军工 / 轨道 / 公共部门 / 关键基础设施）：不做但不 pass；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-019": {
   "verdict": "keep_C",
   "gate": 1,
@@ -153,6 +204,15 @@
   "manual": true,
   "batch": "G1-01"
  },
+ "SC-022": {
+  "verdict": "pass_final",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "英国 Canonbury / mcelroy.co.uk（在线租约文书服务站）2014 年 RFQ「5 口 PoE」一次、电话加不上、零互动 → 纯无关行业，永久 pass",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
  "SC-023": {
   "verdict": "keep_C",
   "gate": 1,
@@ -170,6 +230,36 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-03"
+ },
+ "SC-025": {
+  "verdict": "pass_final",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "德国 Bome Software（MIDI 音乐软硬件）2014 年 RFQ「5 电口板子」（板级，Saga 不供）、电话加不上、零互动 → 纯无关行业，永久 pass",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-026": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "德国；表分 品类不符/终端用户；兴趣：需要带VLAN的交换机，可以几个人用一个网络，别的人不能用；跟进 7 次无回复；研：保安服务公司（终端用户） → 终端用户自用（有购买或询盘）：不 pass；留 C（来询被动报价）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-027": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "意大利；表分 品类不符/终端用户；兴趣：收发器 FC光口 / from: 阿里巴巴RFQ；研：海洋机器人厂商（终端用户，光模块 RFQ） → 终端用户自用（有购买或询盘）：不 pass；留 C（来询被动报价）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
  },
  "SC-028": {
   "verdict": "keep_C",
@@ -192,6 +282,27 @@
   "manual": true,
   "batch": "G1-01"
  },
+ "SC-030": {
+  "verdict": "pass_final",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "加拿大 Visionar Window Systems（窗户五金制造商）单次 RFQ「2 光 10 电」自用、零互动 → 纯无关行业，永久 pass",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-031": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 品类不符/终端用户；兴趣：2光4PoE+BIDI模块 / from: Shopify；研：个人零售买家（Shopify） → 终端用户自用（有购买或询盘）：不 pass；留 C（来询被动报价）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-032": {
   "verdict": "keep_C",
   "gate": 1,
@@ -200,6 +311,57 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-01"
+ },
+ "SC-033": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "意大利；表分 中国厂商海外办事处；兴趣：switch 是天津一个公司的办事处；跟进 6 次无回复；研：中国厂商海外办事处（元器件进口分销） → 同行 / 自有品牌厂商，非渠道客户；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-034": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 品类不符/终端用户；兴趣：2个8电口PCB板 / from: Alibaba RTS订单；研：机构终端用户（板级零售订单） → 终端用户自用（有购买或询盘）：不 pass；留 C（来询被动报价）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-035": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "土耳其；表分 守界（军警/公共安全）；兴趣：工业FS 洪瑞的；跟进 2 次无回复；研：边境安全/信号屏蔽方案商（守界） → 守界行业（军工 / 轨道 / 公共部门 / 关键基础设施）：不做但不 pass；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-036": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 品类不符/终端用户；兴趣：2光8PoE管理 1pc / from: Shopify；研：个人零售买家（Shopify） → 终端用户自用（有购买或询盘）：不 pass；留 C（来询被动报价）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-037": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 同行/自研；兴趣：CCTV Switch；跟进 6 次无回复；研：自研 PoE 交换机品牌（同行） → 同行 / 自有品牌厂商，非渠道客户；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
  },
  "SC-038": {
   "verdict": "keep_C",
@@ -234,6 +396,15 @@
    "dayjob_fit"
   ]
  },
+ "SC-042": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "土耳其；表分 品类不符/终端用户；兴趣：PoE Splitter / from: 阿里巴巴RFQ；研：地震监测仪器制造商（终端用户，分离器 RFQ） → 终端用户自用（有购买或询盘）：不 pass；留 C（来询被动报价）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
  "SC-044": {
   "verdict": "keep_C",
   "gate": 1,
@@ -242,6 +413,15 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-01"
+ },
+ "SC-045": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "捷克；表分 品类不符（防爆认证）；兴趣：Switch；跟进 4 次无回复；研：防爆设备网店（ATEX 认证品类，Saga 不做） → 需求 / 主业为 Saga 不供品类（光端机 / WDM / bypass / 无源 / 板级 / 软件 / 服务）；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
  },
  "SC-046": {
   "verdict": "keep_C",
@@ -288,6 +468,15 @@
   "manual": true,
   "batch": "G1-01"
  },
+ "SC-052": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "德国 Axellence GmbH（芯片 / IP 代理，含 CENTEC）→ 芯片层面不经销整机；留 C（CENTEC 线索可参考，不推销）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
  "SC-055": {
   "verdict": "keep_C",
   "gate": 1,
@@ -306,6 +495,150 @@
   "manual": true,
   "batch": "G1-01"
  },
+ "SC-057": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "意大利；表分 品类不符/终端用户；兴趣：Moxa收发器 / from: 阿里巴巴RFQ；研：能效技术公司（终端用户） → 终端用户自用（有购买或询盘）：不 pass；留 C（来询被动报价）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-058": {
+  "verdict": "pass_final",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "意大利 FBK SRL（医疗 AI 招标软件）RFQ「100G 80/100KM 光模块」（Saga 不供）、零互动 → 纯无关行业 + 品类外，永久 pass",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-059": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "德国；表分 品类不符/终端用户；兴趣：需要云管理；跟进 7 次无回复；研：酒店运营商（终端用户，需云管理） → 终端用户自用（有购买或询盘）：不 pass；留 C（来询被动报价）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-060": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "立陶宛；表分 品类不符；兴趣：无人机模块 / from: Shopify；研：无人机模块公司（品类不符/守界） → 需求 / 主业为 Saga 不供品类（光端机 / WDM / bypass / 无源 / 板级 / 软件 / 服务）；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-061": {
+  "verdict": "pass_final",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "丹麦 gill.dk（个人摄影 / 铁路照片网站）个人 RFQ「2+16 Passive PoE」（Saga 无此款）、未购买、WA 加不上 → 个人无购买，永久 pass",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-062": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 守界：军工；兴趣：Ethernet Switch；跟进 5 次无回复；研：军工制造商（军用电源与加固网络） → 守界行业（军工 / 轨道 / 公共部门 / 关键基础设施）：不做但不 pass；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-063": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "土耳其；表分 守界：军工；兴趣：Cisco的工业交换机；跟进 2 次无回复；研：国防工程公司（军工） → 守界行业（军工 / 轨道 / 公共部门 / 关键基础设施）：不做但不 pass；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-064": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "法国；表分 体量过大；兴趣：SFP poe switch DAC；跟进 7 次无回复；研：全球电信基础设施分销集团 → 巨头 / 集团 / 大型分销：按 U117 不 pass；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-065": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "土耳其；表分 运营商/品类不符；兴趣：Bypass模块 / from: 领英；研：光纤 ISP（运营商，bypass 模块需求） → 运营商 / ISP：非渠道客户；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-066": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "瑞典；表分 同行/厂商；兴趣：商业switch；跟进 1 次无回复；研：接入交换机厂商（同行/上市） → 同行 / 自有品牌厂商，非渠道客户；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-068": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "爱沙尼亚；表分 守界（军工）；兴趣：无人机光纤 / from: 阿里巴巴RFQ；研：军用显示系统公司（守界） → 守界行业（军工 / 轨道 / 公共部门 / 关键基础设施）：不做但不 pass；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-070": {
+  "verdict": "pass_final",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "德国 INLOCON（招标商机信息门户，非集成商、不经销硬件）7 次跟进零回复 → 纯无关行业，永久 pass",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-071": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "捷克；表分 守界（公共部门）；兴趣：1V1D / from: 阿里巴巴RFQ；研：大学（公共部门） → 守界行业（军工 / 轨道 / 公共部门 / 关键基础设施）：不做但不 pass；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-072": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "加拿大；表分 品类不符/终端用户；兴趣：grid security projects；跟进 5 次无回复；研：保安服务公司（非渠道） → 终端用户自用（有购买或询盘）：不 pass；留 C（来询被动报价）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
  "SC-073": {
   "verdict": "keep_C",
   "gate": 1,
@@ -317,6 +650,36 @@
   "tags": [
    "dayjob_fit"
   ]
+ },
+ "SC-074": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "法国；表分 品类不符/终端用户；兴趣：2个D4*4B bypass / from: Alibaba RTS订单；研：个人买家（RTS 订单） → 终端用户自用（有购买或询盘）：不 pass；留 C（来询被动报价）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-077": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "英国 Charter Controls（已备货 SmartByte 工业非管理机 = 原厂 / 英国进口商客户）→ Q-33 渠道冲突待裁，不主动碰；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-078": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "英国 Innon（与 Charter Controls 同属 SmartByte 英国经销渠道）→ Q-33 待裁，不主动碰；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
  },
  "SC-080": {
   "verdict": "keep_C",
@@ -363,6 +726,18 @@
   "manual": true,
   "batch": "G1-01"
  },
+ "SC-087": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 体量过大/集团自有线；兴趣：MC 机架 工业FS PoE 写的是IFS牌子(似乎就是他们的)；跟进 10 次无回复；研：集团安防品牌（Carrier，IFS 线；已退市） → 巨头 / 集团 / 大型分销：按 U117 不 pass；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-088": {
   "verdict": "keep_C",
   "gate": 1,
@@ -383,6 +758,36 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-01"
+ },
+ "SC-090": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 同行/自研；兴趣：好几个系列的产品 PoE分销；跟进 11 次无回复；研：自研长距 PoE 交换机厂商（同行） → 同行 / 自有品牌厂商，非渠道客户；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-091": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 同行/自研；兴趣：工业switch；跟进 9 次无回复；研：工业交换机/MC 自研制造商（同行） → 同行 / 自有品牌厂商，非渠道客户；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-092": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 厂商/上市（非渠道）；兴趣：L2/L3 Enterprise Networks；跟进 9 次无回复；研：上市电信设备厂商（BATM 集团） → 同行 / 自有品牌厂商，非渠道客户；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
  },
  "SC-093": {
   "verdict": "keep_C",
@@ -423,6 +828,15 @@
   "manual": true,
   "batch": "G1-02"
  },
+ "SC-099": {
+  "verdict": "pass_final",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "土耳其 Akakçe（比价平台；联系仅 destek@ 客服 / ik@ 人事）2 次跟进零回复 → 非销售方、纯无关，永久 pass",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
  "SC-1002": {
   "verdict": "keep_C",
   "gate": 1,
@@ -434,6 +848,66 @@
   "tags": [
    "dayjob_fit"
   ]
+ },
+ "SC-1004": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "保加利亚；表分 品类不符（VC/DWDM/CCTV ；兴趣：HDMI to IP (HDMI 网络延长器） 也问了能不能做SDI to IP → 需求 / 主业为 Saga 不供品类（光端机 / WDM / bypass / 无源 / 板级 / 软件 / 服务）；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1006": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "法国；表分 品类不符（VC/DWDM/CCTV ；兴趣：SFP复杂光端机，波分复用器 要求很高 → 需求 / 主业为 Saga 不供品类（光端机 / WDM / bypass / 无源 / 板级 / 软件 / 服务）；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1009": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "土耳其 Aras Varel / Varel Alarm（工商业 FS，在卖 Utepo）：土耳其主区 + 已进口中国同类品牌 + 对位 ✔；arasvarel.com 无 MX 但 varelalarm.com 正常 → 闸 2 查底数 + 换地址",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-1010": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "英国 Crony Trading Ltd（商业 PoE，用的洪瑞的；网站品类杂）：英国主区 + 已进口同款供应链产品 + 对位 ✔；曾退信但域名正常 → 闸 2 查底数（Companies House）再定",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-1013": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "德国 Gemaxx Network（ONV 工业 FS）：德国主区 + 已进口中国同类品牌 + 对位 ✔；曾退信但域名正常 → 闸 2 查底数 + 找新地址",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-1014": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "西班牙 GTLAN（工业 FS，GXcom + 宇航；有工业 10G 5 口产品页）：欧洲 + 已进口中国同类品牌 + 对位 ✔；曾退信但域名正常 → 闸 2 查底数",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
  },
  "SC-1016": {
   "verdict": "keep_C",
@@ -472,6 +946,18 @@
    "dayjob_fit"
   ]
  },
+ "SC-1023": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "英国 Optifab（MC / 工业 MC / SFP / DAC / 无源；Catherine Caldwell）：optifab.com null MX（邮件已关）但官网未核 → 不刚性；留 C（下次巡检官网也死即 pass）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-1025": {
   "verdict": "candidate",
   "gate": 1,
@@ -505,6 +991,27 @@
    "oem_target"
   ]
  },
+ "SC-1031": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "法国；表分 综合分低；兴趣：CWDM → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1033": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "比利时 Bausch Datacom（网络产品分销：二层光纤交换机、SFP）：欧洲 + 分销商主体 + 对位 ✔，冷户（未推送过）→ 闸 2 查底数，入池需 §5 ≥4 条",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
  "SC-1037": {
   "verdict": "keep_C",
   "gate": 1,
@@ -513,6 +1020,30 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-04"
+ },
+ "SC-104": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 体量过大/守界；兴趣：工业FS；Ethernet 10GMC SDI 不过和公司的产品外观不一样！！；跟进 5 次无回复；研：航空航天/国防巨头事业部（守界） → 守界行业（军工 / 轨道 / 公共部门 / 关键基础设施）：不做但不 pass；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1041": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 综合分低；兴趣：CWDM → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
  },
  "SC-1045": {
   "verdict": "candidate",
@@ -524,6 +1055,102 @@
   "batch": "G1-02",
   "tags": [
    "oem_target"
+  ]
+ },
+ "SC-1046": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "比利时；表分 综合分低；兴趣：WDM → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1047": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 综合分低；兴趣：bypass → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1048": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 综合分低；兴趣：Fiber optics Pon → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1049": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "英国；表分 综合分低；兴趣：CWDM → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-105": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "加拿大「Moonversion」（营地主任 RFQ 2,300 个收发器，不合常理；官网 unreachable、WA 加不上）→ 疑似无效线索但不满足刚性（有邮箱域曾存在）；留 C，下次巡检仍死即 pass",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1050": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "德国；表分 综合分低；兴趣：WDM → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1051": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 综合分低；兴趣：CWDM → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1052": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "英国；表分 综合分低；兴趣：WDM → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
   ]
  },
  "SC-1053": {
@@ -538,6 +1165,42 @@
    "oem_target"
   ]
  },
+ "SC-1054": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 综合分低；兴趣：CWDM → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1055": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 综合分低；兴趣：WDM → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1058": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 综合分低；兴趣：bypass → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-106": {
   "verdict": "keep_C",
   "gate": 1,
@@ -546,6 +1209,78 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-02"
+ },
+ "SC-1060": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "丹麦；表分 综合分低；兴趣：WDM → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1061": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "瑞士；表分 综合分低；兴趣：WDM → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1062": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "罗马尼亚；表分 综合分低；兴趣：Fiber optics → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1063": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 综合分低；兴趣：CWDM → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1064": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "波兰；表分 综合分低；兴趣：WDM → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1065": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "荷兰；表分 综合分低；兴趣：WDM → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
  },
  "SC-1066": {
   "verdict": "keep_C",
@@ -559,6 +1294,39 @@
    "dayjob_fit"
   ]
  },
+ "SC-1067": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "意大利；表分 陈旧线索无互动；兴趣：工业4光8管理 → 陈旧线索无互动，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-1068": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "加拿大；表分 综合分低；兴趣：光开关 主要是台湾lightwave的 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1069": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "加拿大；表分 综合分低；兴趣：CWDM → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-107": {
   "verdict": "keep_C",
   "gate": 1,
@@ -567,6 +1335,99 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-01"
+ },
+ "SC-1070": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 综合分低；兴趣：Fiber optics → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1072": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 综合分低；兴趣：WDM → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1073": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "瑞士；表分 综合分低；兴趣：WDM → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1074": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "波兰；表分 综合分低；兴趣：WDM → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1075": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 综合分低；兴趣：WDM → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1076": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 综合分低；兴趣：bypass → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1077": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 陈旧线索无互动；兴趣：需要24 Ports Switch JL381A牌子 → 陈旧线索无互动，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-1080": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "加拿大；表分 综合分低；兴趣：connector 和bypass比较接近 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
  },
  "SC-1081": {
   "verdict": "keep_C",
@@ -577,6 +1438,18 @@
   "manual": true,
   "batch": "G1-04"
  },
+ "SC-1086": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "瑞典；表分 综合分低；兴趣：WDM → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-1088": {
   "verdict": "keep_C",
   "gate": 1,
@@ -586,6 +1459,18 @@
   "manual": true,
   "batch": "G1-04"
  },
+ "SC-1089": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "德国；表分 综合分低；兴趣：CWDM → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-109": {
   "verdict": "keep_C",
   "gate": 1,
@@ -594,6 +1479,210 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-01",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1091": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 综合分低；兴趣：光开关 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1093": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "英国；表分 综合分低；兴趣：WDM → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1094": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 综合分低；兴趣：CWDM → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1095": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "德国；表分 综合分低；兴趣：bypass 比较专业 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1097": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "挪威；表分 综合分低；兴趣：CWDM → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1098": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "加拿大；表分 综合分低；兴趣：bypass → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1099": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "挪威；表分 综合分低；兴趣：CWDM → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1100": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "荷兰；表分 综合分低；兴趣：CWDM → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1101": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 综合分低；兴趣：PON WDM → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1103": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "捷克；表分 综合分低；兴趣：WDM → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1104": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 综合分低；兴趣：CWDM → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1105": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "荷兰；表分 综合分低；兴趣：专门做Bypass的 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1107": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "瑞典；表分 综合分低；兴趣：CWDM → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1111": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 综合分低；兴趣：CWDM → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1113": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 综合分低；兴趣：Bypass → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1114": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 综合分低；兴趣：WDM → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1115": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "斯洛文尼亚；表分 综合分低；兴趣：Fiber optics → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
   "tags": [
    "dayjob_fit"
   ]
@@ -610,6 +1699,111 @@
    "dayjob_fit"
   ]
  },
+ "SC-1119": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 综合分低；兴趣：CWDM → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-112": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "希腊；表分 品类不符；兴趣：2对HD-SDI；跟进 7 次无回复；研：广播视频设备商（HD-SDI 需求，品类不符） → 需求 / 主业为 Saga 不供品类（光端机 / WDM / bypass / 无源 / 板级 / 软件 / 服务）；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1120": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "法国；表分 综合分低；兴趣：WDM → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1121": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "英国；表分 综合分低；兴趣：CWDM → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1122": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 综合分低；兴趣：光开关 光保护 周边产品 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1125": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "英国；表分 综合分低；兴趣：Bypass 整体看着比较高级 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1126": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "德国；表分 品类不符（VC/DWDM/CCTV ；兴趣：AHD Analog摄像头；跟进 8 次无回复 → 需求 / 主业为 Saga 不供品类（光端机 / WDM / bypass / 无源 / 板级 / 软件 / 服务）；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1127": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 综合分低；兴趣：光相关的测试仪器较多 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-1128": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "瑞典；表分 综合分低；兴趣：CWDM → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-1129": {
   "verdict": "keep_C",
   "gate": 1,
@@ -618,6 +1812,42 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-04"
+ },
+ "SC-1132": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "挪威；表分 综合分低；兴趣：WDM solution provider → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1133": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 综合分低；兴趣：WDM → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1136": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 综合分低；兴趣：WDM → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
  },
  "SC-1137": {
   "verdict": "keep_C",
@@ -651,6 +1881,15 @@
   "tags": [
    "dayjob_fit"
   ]
+ },
+ "SC-1141": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "英国；表分 群发冷名单无回应；兴趣：1Fx2UTP → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
  },
  "SC-1144": {
   "verdict": "keep_C",
@@ -688,6 +1927,42 @@
    "dayjob_fit"
   ]
  },
+ "SC-115": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 守界（军工）/体量过大；兴趣：Networking；跟进 5 次无回复；研：国防嵌入式计算厂商（巨头/守界） → 守界行业（军工 / 轨道 / 公共部门 / 关键基础设施）：不做但不 pass；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-1158": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "德国 LANCOM Systems（自有品牌交换机厂商，17 次群发无回复）→ 同行 / 厂商；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-116": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "法国；表分 品类不符（线缆集团）；兴趣：Telecom；跟进 2 次无回复；研：线缆集团（法国，品类不符/体量过大） → 巨头 / 集团 / 大型分销：按 U117 不 pass；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-1160": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "法国；表分 群发冷名单无回应；兴趣：I/O curcuit → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
  "SC-1165": {
   "verdict": "keep_C",
   "gate": 1,
@@ -701,6 +1976,30 @@
    "dayjob_fit"
   ]
  },
+ "SC-1166": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "法国 Techtel（进口商，问过几次无源产品，加了 Skype）→ 有进口经验但需求为无源（Saga 不供）；留 C，若问交换机再接",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1168": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "德国；表分 品类不符（VC/DWDM/CCTV ；兴趣：找optical converter, 问价格 网站：主要是视频 音频类的 → 需求 / 主业为 Saga 不供品类（光端机 / WDM / bypass / 无源 / 板级 / 软件 / 服务）；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-1169": {
   "verdict": "keep_C",
   "gate": 1,
@@ -709,6 +2008,15 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-04"
+ },
+ "SC-117": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "德国；表分 同行/厂商；兴趣：Industrial Ethernet；跟进 3 次无回复；研：通信系统厂商（自研硬件，上市） → 同行 / 自有品牌厂商，非渠道客户；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
  },
  "SC-1171": {
   "verdict": "keep_C",
@@ -758,6 +2066,36 @@
   "manual": true,
   "batch": "G1-04"
  },
+ "SC-118": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "法国；表分 体量过大/守界；兴趣：public transport；跟进 4 次无回复；研：上市嵌入式电子集团（车载/轨道，自研交换机） → 守界行业（军工 / 轨道 / 公共部门 / 关键基础设施）：不做但不 pass；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-1181": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "匈牙利 Agenda Age（SFP / MC / 工业 FS，在用深圳 credfiber 的）：欧洲 + 已进口中国同类品牌 + 对位 ✔；15 次跟进无回复（冷）→ 闸 2 查底数",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1184": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "保加利亚；表分 综合分低；兴趣：工业FS；跟进 16 次无回复 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
  "SC-1188": {
   "verdict": "keep_C",
   "gate": 1,
@@ -769,6 +2107,51 @@
   "tags": [
    "dayjob_fit"
   ]
+ },
+ "SC-1189": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "bicar.by（.by 白俄罗斯域，表内国别爱沙尼亚）工业 FS，15 次无回复 → RU/BY 收款路径未定 + 冷；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-119": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 巨头/集团；兴趣：电口 网站产品较杂；跟进 6 次无回复；研：上市巨头（照明，美国） → 巨头 / 集团 / 大型分销：按 U117 不 pass；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-1192": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "爱沙尼亚 Datasys（销售平台，「似乎是国内的供应商」）→ 主体不明；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-1194": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "挪威 Eldi（宇航的工业 FS / SFP，产品较少）：欧洲 + 已进口中国同类品牌 + 对位 ✔；15 次跟进无回复（冷）→ 闸 2 查底数",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-120": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "斯洛文尼亚；表分 运营商；兴趣：Networking；跟进 1 次无回复；研：电信运营商集团（斯洛文尼亚） → 运营商 / ISP：非渠道客户；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
  },
  "SC-1200": {
   "verdict": "keep_C",
@@ -791,6 +2174,18 @@
    "oem_target"
   ]
  },
+ "SC-121": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "土耳其；表分 品类不符（无源）；兴趣：无缘设备；跟进 2 次无回复；研：光纤无源产品商（品类不符） → 需求 / 主业为 Saga 不供品类（光端机 / WDM / bypass / 无源 / 板级 / 软件 / 服务）；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-1213": {
   "verdict": "keep_C",
   "gate": 1,
@@ -799,6 +2194,45 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-04"
+ },
+ "SC-1215": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "拉脱维亚 router.lv（switch 等，有少量 Utepo）：欧洲 + 已进口中国同类品牌 + 对位 ✔；15 次跟进无回复（冷，小国）→ 闸 2 查底数，低优先",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-122": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "葡萄牙；表分 巨头/运营商；兴趣：Networking；跟进 1 次无回复；研：运营商集团研发/设备公司（巨头） → 巨头 / 集团 / 大型分销：按 U117 不 pass；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1220": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "芬兰 Starelec（Networking，有 ONV 的 switch）：欧洲 + 已进口中国同类品牌 + 对位 ✔；15 次跟进无回复（冷）→ 闸 2 查底数",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-1226": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "Texim Europe（工业 FS，「像同行的」；国别未填）→ 疑似同行 / 元器件分销；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
  },
  "SC-1228": {
   "verdict": "keep_C",
@@ -817,6 +2251,24 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-04"
+ },
+ "SC-123": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "意大利；表分 体量过大/品类不符（板级）；兴趣：Networking；跟进 4 次无回复；研：上市嵌入式计算厂商（板级同行） → 巨头 / 集团 / 大型分销：按 U117 不 pass；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-1230": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国 Wantec（周边产品 + 宇航的工业 FS）：美国主区 + 已进口中国同类品牌 + 对位 ✔；18 次跟进无回复（冷）→ 闸 2 查底数",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
  },
  "SC-1232": {
   "verdict": "keep_C",
@@ -848,6 +2300,18 @@
    "dayjob_fit"
   ]
  },
+ "SC-1237": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "加拿大；表分 品类不符（VC/DWDM/CCTV ；兴趣：VC+1E；跟进 8 次无回复 → 需求 / 主业为 Saga 不供品类（光端机 / WDM / bypass / 无源 / 板级 / 软件 / 服务）；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-1238": {
   "verdict": "keep_C",
   "gate": 1,
@@ -856,6 +2320,18 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-01",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-124": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 守界（军工/政府）；兴趣：有人卖他们牌子的工业FS 但网站上没显示；CWDM；跟进 7 次无回复；研：国防/政府光通信厂商（守界） → 守界行业（军工 / 轨道 / 公共部门 / 关键基础设施）：不做但不 pass；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
   "tags": [
    "dayjob_fit"
   ]
@@ -902,6 +2378,81 @@
   "manual": true,
   "batch": "G1-04"
  },
+ "SC-125": {
+  "verdict": "pass_final",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "英国 FloLIVE（蜂窝 IoT 连接 SaaS 平台，不采购以太网交换机）1 次跟进零回复 → 纯无关行业，永久 pass",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-126": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 品类不符（品牌二手经纪）；兴趣：知名品牌产品 Cisco, HP, HPE, Sony, Samsung, Lenovo, Avay；研：二手/二级市场品牌硬件经纪（非渠道） → 需求 / 主业为 Saga 不供品类（光端机 / WDM / bypass / 无源 / 板级 / 软件 / 服务）；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-1268": {
+  "verdict": "pass_final",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "捷克 heureka.cz 个人地址（Heureka = 比价平台，非销售方）、零互动 → 纯无关行业，永久 pass",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-127": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "德国；表分 品类不符（工程服务）；兴趣：Networking；跟进 2 次无回复；研：光纤建设/工程服务商（德国） → 需求 / 主业为 Saga 不供品类（光端机 / WDM / bypass / 无源 / 板级 / 软件 / 服务）；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-128": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "捷克；表分 守界：轨道/车载；兴趣：PVC有意思；跟进 7 次无回复；研：公共交通车载系统厂商（EN50155/M12，守界） → 守界行业（军工 / 轨道 / 公共部门 / 关键基础设施）：不做但不 pass；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-129": {
+  "verdict": "pass_final",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "德国 INOTEC（inotec.digital 文档 / 调研 / 运维软件公司，不经销硬件）7 次跟进零回复 → 纯无关行业，永久 pass",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-1297": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国 Winncom Technologies（「实力不错的分销商」，无线 / 网络分销）：美国主区 + 分销商主体 + 对位 ✔；体量偏大、10 次跟进无回复 → 闸 2 查底数，看是否有白牌 / 工业线入口",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-130": {
+  "verdict": "pass_final",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "Linktree（「Link in bio」SaaS 平台；表内国别爱沙尼亚为域名误判）5 次跟进零回复 → 纯无关行业，永久 pass",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
  "SC-1308": {
   "verdict": "keep_C",
   "gate": 1,
@@ -910,6 +2461,15 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-04"
+ },
+ "SC-131": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "意大利；表分 守界（车载/轨道）；兴趣：Public transport；跟进 4 次无回复；研：车载 ITS 方案商（公共交通，守界） → 守界行业（军工 / 轨道 / 公共部门 / 关键基础设施）：不做但不 pass；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
  },
  "SC-1311": {
   "verdict": "keep_C",
@@ -941,6 +2501,48 @@
   "manual": true,
   "batch": "G1-04"
  },
+ "SC-132": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "土耳其；表分 守界（军工）；跟进 1 次无回复；研：国防/军营安防集成商（守界） → 守界行业（军工 / 轨道 / 公共部门 / 关键基础设施）：不做但不 pass；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-133": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "德国；表分 品类不符（工程服务）；兴趣：Networking；跟进 2 次无回复；研：光纤网络建设/运营集团（德国） → 需求 / 主业为 Saga 不供品类（光端机 / WDM / bypass / 无源 / 板级 / 软件 / 服务）；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1335": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "捷克 Discomp（光纤设备 / CWDM / SFP，有部分 Planet 的）：欧洲 + Planet 渠道（对位 ✔）+ 分销主体；冷户 → 闸 2 查底数（与 Planet 仓并线核对）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-134": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "荷兰；表分 体量过大；兴趣：Networking；跟进 1 次无回复；研：泛欧大型安全/网络集成商集团 → 巨头 / 集团 / 大型分销：按 U117 不 pass；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
  "SC-1341": {
   "verdict": "keep_C",
   "gate": 1,
@@ -953,12 +2555,51 @@
    "dayjob_fit"
   ]
  },
+ "SC-1347": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国；表分 品类不符（VC/DWDM/CCTV ；兴趣：跳线 MC等 销售平台；跟进 10 次无回复 → 需求 / 主业为 Saga 不供品类（光端机 / WDM / bypass / 无源 / 板级 / 软件 / 服务）；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-135": {
+  "verdict": "pass_final",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "瑞典 PacketFront Software（网络编排 / OSS 纯软件）1 次跟进零回复 → 纯无关行业，永久 pass",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
  "SC-1358": {
   "verdict": "pass_final",
   "gate": 0,
   "rule": "G0-2",
   "reason": "表记发不过去 / 退信；isyslan.com NXDOMAIN；无电话、无 WA",
   "date": "2026-10-29"
+ },
+ "SC-136": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "瑞士 Selectron Systems（轨道车载 EN50155 唯一场景；表内「有回复」待核）→ 守界轨道；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-137": {
+  "verdict": "pass_final",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "捷克 Switchio（支付编排平台，「switch」为支付路由语义）4 次跟进零回复 → 纯无关行业，永久 pass",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
  },
  "SC-1384": {
   "verdict": "pass_final",
@@ -975,6 +2616,30 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-01"
+ },
+ "SC-1395": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "比利时；表分 品类不符（VC/DWDM/CCTV ；兴趣：主要是SFP 有MC 无源产品；跟进 10 次无回复 → 需求 / 主业为 Saga 不供品类（光端机 / WDM / bypass / 无源 / 板级 / 软件 / 服务）；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1397": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "挪威；表分 群发冷名单无回应；兴趣：CWDM SFP；SFP Ethernet → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
  },
  "SC-1410": {
   "verdict": "keep_C",
@@ -993,6 +2658,18 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-04",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1414": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "斯洛伐克；表分 品类不符（VC/DWDM/CCTV ；兴趣：SFP，路由器；WDM SFP；跟进 6 次无回复 → 需求 / 主业为 Saga 不供品类（光端机 / WDM / bypass / 无源 / 板级 / 软件 / 服务）；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
   "tags": [
    "dayjob_fit"
   ]
@@ -1033,6 +2710,18 @@
   "manual": true,
   "batch": "G1-04"
  },
+ "SC-1427": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "英国；表分 品类不符（VC/DWDM/CCTV ；兴趣：CCTV monitoring → 需求 / 主业为 Saga 不供品类（光端机 / WDM / bypass / 无源 / 板级 / 软件 / 服务）；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-1428": {
   "verdict": "pass_final",
   "gate": 1,
@@ -1050,6 +2739,27 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-02"
+ },
+ "SC-144": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "丹麦；表分 品类不符（板级/芯片）；兴趣：Ethernet Switch；研：IP 核供应商（芯片层，品类不符） → 需求 / 主业为 Saga 不供品类（光端机 / WDM / bypass / 无源 / 板级 / 软件 / 服务）；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-1443": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "加拿大 Infinique（几乎都是 ONV 的、刷了他们的 logo = 现成 OEM 买家）：北美主区 + 进口经验 + 自有品牌 OEM（30% 口径）；曾退信但域名正常、16 次跟进无回复 → 闸 2 查底数 + 找新地址",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "oem_target"
+  ]
  },
  "SC-1445": {
   "verdict": "keep_C",
@@ -1081,6 +2791,27 @@
   "manual": true,
   "batch": "G1-02"
  },
+ "SC-1450": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "美国 Nodexon / Microlink（长飞、中科的工业 FS，商业 L3 核心，光配件多）：美国主区 + 已进口中国同类品牌 + 对位 ✔；曾退信但两域名正常 → 闸 2 查底数",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-146": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "英国 Electric Bray（在售 Smartbyte 5 口工业机）→ Q-33 待裁，不主动碰；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
  "SC-1464": {
   "verdict": "keep_C",
   "gate": 1,
@@ -1089,6 +2820,18 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-04"
+ },
+ "SC-1468": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "英国；表分 品类不符（VC/DWDM/CCTV ；兴趣：audio to fiber converter；跟进 10 次无回复 → 需求 / 主业为 Saga 不供品类（光端机 / WDM / bypass / 无源 / 板级 / 软件 / 服务）；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
  },
  "SC-1471": {
   "verdict": "keep_C",
@@ -1131,6 +2874,36 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-04"
+ },
+ "SC-148": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "波兰 napad.pl / ipox.pl（SmartByte 经销名单内）→ Q-33 待裁，不主动碰；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
+ },
+ "SC-1490": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "法国；表分 品类不符（VC/DWDM/CCTV ；兴趣：CCTV networking；跟进 15 次无回复 → 需求 / 主业为 Saga 不供品类（光端机 / WDM / bypass / 无源 / 板级 / 软件 / 服务）；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-1491": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "荷兰 Distri-X（问工业 PoE 带 NAT = L3 功能，Saga 工业线无；表内标不再跟进 / Spam 为我方备注）→ 不刚性；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-05"
  },
  "SC-1493": {
   "verdict": "candidate",

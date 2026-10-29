@@ -2,12 +2,15 @@
 
 > **评级 C**　|　意大利　|　档案编号 `SC-033`　|　优先级 —　|　状态：已推送 6 次·未回复
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：意大利；表分 中国厂商海外办事处；兴趣：switch 是天津一个公司的办事处；跟进 6 次无回复；研：中国厂商海外办事处（元器件进口分销） → 同行 / 自有品牌厂商，非渠道客户；留 C
+>
 > **类型**：中国厂商海外办事处（元器件进口分销）（推断）　|　**历史关系**：推送 6 次（2025-01-31 → 2025-10-13）　|　**所在清单**：A优质名单(Italy)、AI评估(IT)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-033
 rating: C
 rating_auto: B
+sieve: keep_C  # 闸 1 G1 2026-10-29
 rating_research: C  # 中国厂商海外办事处（用户表：天津公司的办事处），元器件分销非交换机品类；c_sub=中国厂商海外办事处
 score: 48
 country: 意大利
@@ -26,7 +29,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -202,8 +205,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 48）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 48）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

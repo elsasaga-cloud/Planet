@@ -2,12 +2,15 @@
 
 > **评级 C**　|　捷克　|　档案编号 `SC-128`　|　优先级 —　|　状态：已推送 7 次·未回复
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：捷克；表分 守界：轨道/车载；兴趣：PVC有意思；跟进 7 次无回复；研：公共交通车载系统厂商（EN50155/M12，守界） → 守界行业（军工 / 轨道 / 公共部门 / 关键基础设施）：不做但不 pass；留 C
+>
 > **类型**：公共交通车载系统厂商（EN50155/M12，守界）（推断）　|　**历史关系**：推送 7 次（2025-03-12 → 2025-10-08）　|　**所在清单**：A优质名单(CZ)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-128
 rating: C
 rating_auto: B
+sieve: keep_C  # 闸 1 G1 2026-10-29
 rating_research: C  # 守界：公共交通车载/轨道系统厂商（Herman，M12 EN50155 车载 PoE 交换机），Saga 无对应品类；c_sub=守界：轨道/车载
 score: 34
 country: 捷克
@@ -26,7 +29,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -192,8 +195,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

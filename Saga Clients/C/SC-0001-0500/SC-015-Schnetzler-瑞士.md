@@ -2,12 +2,15 @@
 
 > **评级 C**　|　瑞士　|　档案编号 `SC-015`　|　优先级 —　|　状态：名单内·未触达
 >
+> **⛔ 已过筛 · 永久 pass**（闸 1 · G1 · 2026-10-29）：瑞士 Schnetzler Metallbau AG（金属 / 玻璃建筑施工）2015 年阿里 RFQ「10G 交换机」一次、gmx 免费邮箱、此后零互动 → 纯无关行业，永久 pass —— 不再加厚 / 不群发 / 不监控 / 不进日历；撤销只在客户主动找上门时由 Simon 拍板（`data/saga_clients/sieve.json`）。
+>
 > **类型**：金属建筑施工企业（终端用户，十年前 RFQ）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：A优质名单(其他优质欧洲客户)、询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-015
 rating: C
 rating_auto: B
+sieve: pass_final  # 闸 1 G1 2026-10-29
 rating_research: C  # 非渠道终端用户（金属建筑公司），2015 年陈旧 RFQ，免费邮箱；c_sub=品类不符/终端用户
 score: 54
 country: 瑞士
@@ -25,7 +28,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -180,8 +183,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 54）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 54）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
