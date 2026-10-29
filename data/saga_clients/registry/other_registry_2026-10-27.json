@@ -4,7 +4,7 @@
   "source": "其他国家官方 / 准官方登记",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 555
+  "count": 557
  },
  "rows": {
   "SA-061": {
@@ -17159,6 +17159,67 @@
    ],
    "notes": "回 C（未坐实：1 查仅近名已停业户）。",
    "code": "SC-1883"
+  },
+  "SC-3130": {
+   "batch": 132,
+   "name": "TVC en Línea.com, S.A. de C.V.（tvc.mx；**RFC TVC060802NE4；Camino al Mirador No. 5216, Col. Del Paseo Residencial 6to Sector, 64920 Monterrey, N.L.（comxport / cosmos）；LinkedIn：电子安防解决方案批发商（mayorista），2000 年创立，201–500 人，总部 Av. Lázaro Cárdenas 2611 Monterrey + 墨西哥城 Azcapotzalco 分部；进出口 批发 电信（comxport）；Tel 0133 1202 1777**）；表内：Utepo / 大华 CCTV 大分销，官网 WA +52 81 1799 1777",
+   "iso": "MX",
+   "fetched": "2026-10-29",
+   "source": "MX · 1 次检索：comxport（RFC / 法人名 / 地址 / 进出口）+ cosmos.com.mx（业务 / 地址）+ LinkedIn（2000 / 201–500 人 / 两地）；2026-10-29",
+   "url": "https://www.comxport.com/co/tvc_en_lineacom_sa_de_cv-mexico-350701.php",
+   "number": "TVC060802NE4（RFC）",
+   "status": "营业中（LinkedIn / 目录 2025）",
+   "incorporated": "2000（RFC 序列 2006-08-02）",
+   "company_type": "S.A. de C.V.",
+   "sic": [
+    "电子安防 / CCTV 批发分销（蒙特雷 + 墨西哥城）"
+   ],
+   "address": "Camino al Mirador No. 5216, Col. Del Paseo Residencial, 64920 Monterrey, Nuevo León",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "大型（201–500 人；两地）",
+   "officers": [
+    "（具名 KP 未取；soporte@ 为支持信箱 → 需 ventas / compras）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**墨西哥 · CCTV 大分销 20%（长线）：WA + 换采购地址一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-2224GP $86 分销价 + MOQ 1 + 付费样机；Utepo 不点名；西语稿可）— 其他区常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关；周二 / 周四 当地 10–12**"
+   ],
+   "notes": "分销 20%；P 池候选 ★（大分销 ✔ 中国品牌进口 ✔ 对位 ✔ 坐实 ✔ 墨西哥先例 SYSCOM ✔）；坐实（RFC）。",
+   "code": "SC-3130"
+  },
+  "SC-3149": {
+   "batch": 132,
+   "name": "Starcom Technologies (Pvt) Limited — Star Communication Services（starcom.com.pk / starcom.net.pk；**Suite 401-A, Panorama Centre II, Raja Ghazanfar Ali Rd, Saddar, Karachi 75460；2004 创立；22–32 人；营收 $5.3M（zoominfo / rocketreach）；CEO Asghar Ali；+92 21 3566 1550；电信 + 数据网络项目实施（电话系统 → 宽带互联网络）；拉合尔销售 Farooq Shah（General Sales Manager）**）；SECP 登记号未取；表内：从 Raisecom 买一些产品；2026-02-26 真人回「请用公司域名邮箱发」；ali@ + 手机 +92 300 202 1141",
+   "iso": "PK",
+   "fetched": "2026-10-29",
+   "source": "PK · 1 次检索：rocketreach（法人名 / 地址 / 2004 / 人数 / 营收）+ zoominfo（CEO / 电话）；SECP 未取；2026-10-29",
+   "url": "https://rocketreach.co/starcom-technologies-pvt-limited-profile_b5c15b82f42e0895",
+   "number": "未取（SECP 登记号未查；法人名目录坐实）",
+   "status": "营业中（目录 2025）",
+   "incorporated": "2004",
+   "company_type": "(Pvt) Limited",
+   "sic": [
+    "电信 / 数据网络系统集成（卡拉奇 + 拉合尔）"
+   ],
+   "address": "Suite 401-A, Panorama Centre II, Saddar, Karachi, Sindh 75460",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（22–32 人；$5.3M）",
+   "officers": [
+    "Asghar Ali — CEO",
+    "Farooq Shah — General Sales Manager（Lahore）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**巴基斯坦 · 集成 25% + 预付 100%：用 sagatele.com 域名邮箱回 ali@ 一页纸一次（STC-228GP / STC-2224GP / STC-4424GCPM + STI-288GPM 工业线 + MOQ 1 + 付费样机；Raisecom 不点名）— 其他区常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关；周二 / 周四 当地 10–12**"
+   ],
+   "notes": "集成 25%；P 池候选 ○（真人回 ✔ 进口中国同类 ✔ 对位 ✔ 决策人具名 ✔；巴基斯坦非点名国 → 预付 100%）；部分坐实（SECP 未取）。",
+   "code": "SC-3149"
   }
  }
 }

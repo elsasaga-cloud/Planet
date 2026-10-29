@@ -4,7 +4,7 @@
   "source": "India · MCA 公司登记（Zauba Corp / Tofler 镜像）",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 77
+  "count": 78
  },
  "rows": {
   "SA-073": {
@@ -2428,6 +2428,37 @@
    ],
    "notes": "OEM 30%；P 池候选 ★ 长线（自有品牌 ✔ 大型 ✔ 已贴牌中国 PoE ✔ 对位 ✔ 坐实 ✔）；坐实（CIN / GST）；Q-33 洪瑞现供待 Simon。",
    "code": "SC-2078"
+  },
+  "SC-3198": {
+   "batch": 132,
+   "name": "Techroutes Network Private Limited（techroutes.com；**CIN U72200RJ2003PTC018583（现）/ 原 U72900HR2003PTC035992（自 Jaipur 迁 Haryana 再迁）；注册号 35992；2003-09-11 成立；ROC Delhi；授权 / 实收 ₹2 Cr；Sun Tower, 2nd Floor, Main M.G. Road, Sukhrali, Gurgaon 122001；MCA 邮箱 acct@techroutes.com；ISO 9001；自有产品线 路由器 / 交换机 / VoIP / VPN / 宽带，经分销商 / SI / VAR 销售（indiamart：营业额 ₹5–25 Cr，IEC 在册，GST 06…2ZI）**）；表内：商业 FS + 工业 FS switch；dinesh.rastogi@ / kdeepak@；手机 93000 69633；Simon 标 Spam",
+   "iso": "IN",
+   "fetched": "2026-10-29",
+   "source": "IN · 1 次检索：zaubacorp（CIN / 地址 / MCA 邮箱）+ instafinancials（成立 / 实收 / 前 CIN）+ indiamart（业务 / 营业额 / IEC）；2026-10-29",
+   "url": "https://www.instafinancials.com/company/techroutes-network-private-limited-U72200RJ2003PTC018583",
+   "number": "U72200RJ2003PTC018583（CIN；原 U72900HR2003PTC035992）",
+   "status": "Active（MCA 2026-07）",
+   "incorporated": "2003-09-11",
+   "company_type": "Private Limited",
+   "sic": [
+    "自有品牌网络设备（路由 / 交换 / VoIP）+ 分销网络（古尔冈）"
+   ],
+   "address": "Sun Tower, 2nd Floor, Main M.G. Road, Sukhrali, Gurgaon, Haryana 122001",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（实收 ₹2 Cr；营业额 ₹5–25 Cr；IEC）",
+   "officers": [
+    "Dinesh Rastogi — 表内具名 KP（职务未取）",
+    "K. Deepak — 表内具名 KP（职务未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**印度 · 自有品牌 OEM 30%：点名 Dinesh Rastogi 一页纸一次（STC-228GP $33 / STC-2224GP $86 / STC-4424GCPM $165 + STI-288GPM 工业线 中性包装 + 贴 Techroutes 牌 + MOQ 1 + 付费样机）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST**"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（自有品牌经分销销售 ✔ 印度点名国 ✔ 对位 ✔ 决策人具名 ✔ 坐实 ✔；Simon 曾标 Spam → 可否决）；坐实（CIN）。",
+   "code": "SC-3198"
   }
  }
 }
