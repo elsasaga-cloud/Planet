@@ -24,7 +24,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -74,6 +74,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 123 批（LK · 1 次检索：rooster.jobs/company/156343（Skipod Manufacture Pvt Ltd；BOI section 17 approved；Mirigama Export Processing Zone；215 R A De Mel Mawatha, Colombo 3）+ themorning.lk 2025-12 / hirunews（US-backed SkiPod invests US$ 3mn；BOI agreement）；ROC 未得；2026-10-29，2026-10-29 查；https://rooster.jobs/company/156343）：**
+
+- 法定名 / 登记号：Skipod Manufacture Pvt Ltd（skipod.lk；**rooster.jobs / BOI 报道：斯里兰卡首家运动模拟器制造商，BOI Section 17 批准公司；厂区 Mirigama Export Processing Zone；注册办公 215 R A De Mel Mawatha, Colombo 3；母公司纽约 SkiPod（Continam Group 投资），一期 300 万美元；主市场北美 / 欧洲 / UAE**）；ROC 号 1 查未得 → 部分坐实；2026 阿里 RFQ「10 个 8 电口」（设备内嵌）；KP Akaloosha Dolage；未跟进 · 未取（ROC 号 1 查未得；BOI Section 17） · 状态 **营业中（2025-12 BOI 签约 + 招聘）** · 成立 未取（2025 建厂） · Pvt Ltd（BOI 外资制造）
+- 行业码 / 经营范围：运动模拟器制造（米里加马出口加工区）
+- 注册地址：Mirigama Export Processing Zone, Sri Lanka（注册办公 215 R A De Mel Mawatha, Colombo 00300）
+- 规模档：小型（新厂）
+- 账目：未取；—
+- 高管：Akaloosha Dolage — 联系人（研究档 KP；akalooshad@skipod.lk）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **设备制造商 RFQ 10 × 8 电口（内嵌）→ 贴标 OEM 30% B，一页纸一次（STI-280GE $46.6 工业 8 GE / 商用 8 GE 按主表 ×10 一口价 + 中性 / 贴标 + 付费样机 + 3 年工业保修）— 亚洲常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方清关）；周二 / 周四 10–12 当地**；回信 → 加厚（OEM 品牌商优先级最高）
+- 备注：贴标 OEM 30%（设备内嵌）；一页纸一次（预付 100%）；部分坐实（BOI 公开报道 + 注册办公地址；ROC 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -106,15 +119,17 @@ updated: 2026-10-28
 - **【用户表】10 个 8 电口 RFQ 2026**
   > 2026年使用国际站 / 10个8电口 / from: 阿里巴巴RFQ
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Akaloosha Dolage（）akalooshad@skipod.lk 〔用户表〕
+- **KP**：Akaloosha Dolage（联系人（研究档 KP；2026 阿里 RFQ 10 × 8 电口 设备内嵌）= 收件人 — 一页纸一次：贴标 OEM 30% B、STI-280GE $46.6 工业 8 GE / 商用 8 GE 按主表 ×10 一口价 + 中性 / 贴标 + 付费样机 + 3 年工业保修 — 亚洲常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29））akalooshad@skipod.lk 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 斯里兰卡 |
-| 其他 | 官网 skipod.lk，语言 en，快照状态 ok；角色判定来源：待核 |
+| 法定名称 | Skipod Manufacture Pvt Ltd（BOI Section 17；母公司纽约 SkiPod / Continam Group；ROC 号 1 查未得） |
+| 成立 | 未取（2025 建厂）（第 123 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Mirigama Export Processing Zone, Sri Lanka（注册办公 215 R A De Mel Mawatha, Colombo 00300）（第 123 批 官方登记核实 2026-10-29） |
+| 其他 | 官网 skipod.lk，语言 en，快照状态 ok；角色判定来源：待核；第 123 批：运动模拟器制造商（设备内嵌交换机）→ **贴标 OEM 30% 一页纸一次（预付 100%）**；部分坐实（BOI 报道 + 注册办公地址）（第 123 批 官方登记核实 2026-10-29） |
 
 - **业务线**：混合现实滑雪模拟器制造（斯里兰卡）
 - **触达通道（公开）**：role: 模拟器设备制造商（斯里兰卡，设备内嵌交换机 RFQ）；region: 斯里兰卡；contact: akalooshad@skipod.lk
@@ -169,7 +184,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Akaloosha Dolage | — | akalooshad@skipod.lk | 调研核实（公开页） | 用户表 |
+| Akaloosha Dolage | 联系人（研究档 KP；2026 阿里 RFQ 10 × 8 电口 设备内嵌）= 收件人 — 一页纸一次：贴标 OEM 30% B、STI-280GE $46.6 工业 8 GE / 商用 8 GE 按主表 ×10 一口价 + 中性 / 贴标 + 付费样机 + 3 年工业保修 — 亚洲常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29） | akalooshad@skipod.lk | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -263,12 +278,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 28）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 28）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

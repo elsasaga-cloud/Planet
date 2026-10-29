@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -73,6 +73,20 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 123 批（MR · 1 次检索：wimex.mr/wimexTechnologie/contact（55 Ilot C Zone Château d'Eau BP 3384 Nouakchott；(+222) 45 25 23 56；info@wimex.mr）+ flcompres（System Integrator, Nouakchott）+ yellowpagesofafrica（WIMEX BP 3384）；RC / NIF 未得；2026-10-29，2026-10-29 查；https://www.wimex.mr/wimexTechnologie/contact）：**
+
+- 法定名 / 登记号：Wimex Technologies（Groupe WIMEX；wimex.mr；**官网 contact：55 Ilot C, Zone Château d'Eau, BP 3384, Nouakchott；+222 45 25 23 56；info@wimex.mr；flcompres：System Integrator；研究档：1993 / 1995 创立、51–200 人、微波传输 / GSM 站点 / 光网络 / 企业网；PDG Mohamed Waled**）；RC / NIF 1 查未得 → 部分坐实；KP Moustapha Elemine（官网合作页同邮箱；WA 已加；要 80 km 光模块（不供）+ 曾回「2 光 4」小机价）；19 次跟进 1 次回复 · 未取（RC / NIF 1 查未得） · 状态 **营业中（官网 + 名录）** · 成立 1993 / 1995（集团） · SARL / SA（推定）
+- 行业码 / 经营范围：电信工程 / 系统集成（努瓦克肖特）
+- 注册地址：55 Ilot C, Zone Château d'Eau, BP 3384, Nouakchott, Mauritania
+- 规模档：中型（51–200）
+- 账目：未取；—
+- 高管：Moustapha Elemine — 表内联系人（研究档 KP；moustapha@wimex.mr；WA 已加）= 收件人
+- 高管：Mohamed Waled — PDG（研究档；无公开邮箱）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **电信集成集团 + 曾回「2 光 4」小机价 → 集成商 25% B，一页纸一次（STI-244DGGPM $121 2 SFP + 4 PoE 管理 / STI-154GP 一口价 + MOQ 1 + 付费样机；80 km 光模块不供明说；法语备注）— 非洲常规：英文稿（法语区附法语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方货代清关）；周二 / 周四 10–12 当地**；回信 → 加厚
+- 备注：集成商 25%；一页纸一次（预付 100%）；部分坐实（官网地址 + BP；RC / NIF 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -114,18 +128,18 @@ updated: 2026-10-28
 - **【用户表】需求与回复**
   > 80KM光模块；2024.1.13 发了2光4产品信息 → price
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Moustapha Elemine（（表内自填 Distributor/Wholesaler；官网伙伴页邮箱））moustapha@wimex.mr +222 22 41 73 18（WA 已加）〔用户 Clients 表 + axxonsoft.com 伙伴页〕
-- **KP**：Mohamed Waled（PDG（集团总裁）） 〔emergence.mr 2023-03-17〕
+- **KP**：Moustapha Elemine（表内联系人（研究档 KP；官网合作页同邮箱；WA 已加；曾回「2 光 4」小机价）= 收件人 — 一页纸一次：集成商 25% B、STI-244DGGPM $121 / STI-154GP 一口价 + MOQ 1 + 付费样机；80 km 光模块不供明说；法语备注 — 非洲常规：英文稿（法语区附法语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29））moustapha@wimex.mr +222 22 41 73 18（WA 已加）〔用户 Clients 表 + axxonsoft.com 伙伴页〕
+- **KP**：Mohamed Waled（PDG（集团总裁；研究档；无公开邮箱）（第 123 批 官方登记核实 2026-10-29）） 〔emergence.mr 2023-03-17〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + LinkedIn/伙伴页核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | WIMEX Technologies（Groupe WIMEX） |
-| 成立 | 1993（LinkedIn）/ 1995（官网） |
-| 总部/地址 | 55 Ilot C, Zone Château d’Eau, BP 3384 Nouakchott, Mauritanie；+222 45 25 23 56；info@wimex.mr |
-| 其他 | PDG Mohamed Waled（2023 当选 CCIAM 副主席）；AxxonSoft 合作伙伴页列 moustapha@wimex.mr |
+| 法定名称 | Wimex Technologies（Groupe WIMEX；RC / NIF 1 查未得） |
+| 成立 | 1993 / 1995（集团）（第 123 批 官方登记核实 2026-10-29） |
+| 总部/地址 | 55 Ilot C, Zone Château d'Eau, BP 3384, Nouakchott, Mauritania（+222 45 25 23 56）（第 123 批 官方登记核实 2026-10-29） |
+| 其他 | PDG Mohamed Waled（2023 当选 CCIAM 副主席）；AxxonSoft 合作伙伴页列 moustapha@wimex.mr；第 123 批：电信工程 / 系统集成集团 → **集成商 25% 一页纸一次（预付 100%）**；部分坐实（官网地址 + BP）（第 123 批 官方登记核实 2026-10-29） |
 
 - **业务线**：微波传输（FH，1000+ 链路，PDH/SDH）；GSM 站点交钥匙、铁塔、机房与能源（太阳能/电池/发电机）；光纤与有线网络、企业网络；广播（TV/FM）、固话与交换
 - **触达通道（公开）**：official: info@wimex.mr / +222 45 25 23 56；contact: Moustapha Elemine moustapha@wimex.mr / moustaphaelemine@gmail.com，+222 22 41 73 18（WA 已加）；linkedin: mr.linkedin.com/company/wimex
@@ -196,8 +210,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Moustapha Elemine | （表内自填 Distributor/Wholesaler；官网伙伴页邮箱） | moustapha@wimex.mr / +222 22 41 73 18（WA 已加） | 调研核实（公开页） | 用户 Clients 表 + axxonsoft.com 伙伴页 |
-| Mohamed Waled | PDG（集团总裁） | — | 调研核实（公开页） | emergence.mr 2023-03-17 |
+| Moustapha Elemine | 表内联系人（研究档 KP；官网合作页同邮箱；WA 已加；曾回「2 光 4」小机价）= 收件人 — 一页纸一次：集成商 25% B、STI-244DGGPM $121 / STI-154GP 一口价 + MOQ 1 + 付费样机；80 km 光模块不供明说；法语备注 — 非洲常规：英文稿（法语区附法语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29） | moustapha@wimex.mr / +222 22 41 73 18（WA 已加） | 调研核实（公开页） | 用户 Clients 表 + axxonsoft.com 伙伴页 |
+| Mohamed Waled | PDG（集团总裁；研究档；无公开邮箱）（第 123 批 官方登记核实 2026-10-29） | — | 调研核实（公开页） | emergence.mr 2023-03-17 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 
@@ -294,12 +308,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 53）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 53）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

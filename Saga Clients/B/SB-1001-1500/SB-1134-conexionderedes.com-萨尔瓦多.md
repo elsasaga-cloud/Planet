@@ -28,7 +28,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 2
-updated: 2026-10-27
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -97,6 +97,19 @@ updated: 2026-10-27
 
 - 法定假日：11-02 All Souls' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 123 批（SV · 1 次检索：conexionderedes.com/servicios（Conexion de Redes；Teléfono +503 2262-1049；Email gerencia@conexionderedes.com；Ubicación San Salvador, El Salvador；XGPON / FTTH / POLAN / IPTV / Data Center / LTE）；NIT 未得；2026-10-29，2026-10-29 查；https://www.conexionderedes.com/servicios）：**
+
+- 法定名 / 登记号：Conexión de Redes de Centro América（conexionderedes.com；**官网：San Salvador, El Salvador；+503 2262-1049；gerencia@；业务 XGPON / FTTH / POLAN 智能楼宇 / IPTV / 数据中心 / LTE / IP 微波 / PoE LED 照明，面向中美洲企业与运营商**）；NIT 1 查未得 → 部分坐实；**A 邮箱 24 去 3 来，总经理 Antonio Alberto Guadron 三次真回：2025-05 要旁路交换机资料、2026-01-19 对 CENTEC「OEM Core Switching Solution」回「Interesting solution. Please send the technical information so we can share it with our clients」**；13 次跟进 · 未取（NIT 1 查未得） · 状态 **营业中（官网 2026）** · 成立 未取 · S.A. de C.V.（推定）
+- 行业码 / 经营范围：电信 / 网络集成与分销（圣萨尔瓦多）
+- 注册地址：San Salvador, El Salvador（街道未取；+503 2262-1049）
+- 规模档：小型
+- 账目：未取；—
+- 高管：Antonio Alberto Guadron — Gerente General（官网 gerencia@ 吻合；研究档 KP；gerencia@conexionderedes.com）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **★ CENTEC 核心机真回 + 代客转发型 → 建议升 A（Simon 定）；集成商 25% B 先行：一页纸（STH-8C48DX-HSI $4,800 / STH-2C24XF-HSI $1,500 CENTEC 规格书 + 接入 STC-424XGGPM-280W $198 / STC-4424GCPM $165 + 付费样机；西语备注）— 拉美常规：英文稿（可附西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关）；周二 / 周四 10–12 当地**；回信即升
+- 备注：集成商 25%（CENTEC 线）；一页纸 + 规格书（预付 100%）；部分坐实（官网地址 + 电话 + GM 邮箱）；★ 建议升 A。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -140,7 +153,7 @@ updated: 2026-10-27
 - **【邮件】提到「Data Center client」并许诺反馈**
   > Thank you for your support and for processing the information with the Data Center client. I'll leave you with some feedback.
   > 来源：data/gmail_a/messages/<year>/<month>.jsonl（抓取 2026-01-20）
-- **KP**：Antonio Alberto Guadron（）gerencia@conexionderedes.com 〔data/gmail_a/messages/<year>/<month>.jsonl〕
+- **KP**：Antonio Alberto Guadron（Gerente General（官网 gerencia@ 吻合；研究档 KP；三次真回）= 收件人 — 一页纸 + 规格书：STH-8C48DX-HSI $4,800 / STH-2C24XF-HSI $1,500 CENTEC + 接入 STC-424XGGPM-280W $198 / STC-4424GCPM $165 + 付费样机；西语备注 — 拉美常规：英文稿（西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29））gerencia@conexionderedes.com 〔data/gmail_a/messages/<year>/<month>.jsonl〕
 - **调研后定级**：B（原自动 C）——总经理 3 次具名真回（2025-05、2026-01 ×2），有「Data Center client」在手并承诺反馈；自动 C 系无互动评分；按证据升 B（慢慢跟进，非主攻区）。
 - 备注：西语区（萨尔瓦多）；信件英文流畅。feedback 未到 = 典型「转发给客户后沉默」。
 
@@ -148,9 +161,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Conexión de Redes de Centro América |
-| 总部/地址 | 萨尔瓦多 |
-| 其他 | 网络集成/分销 |
+| 法定名称 | Conexión de Redes de Centro América（NIT 1 查未得） |
+| 成立 | 未取（第 123 批 官方登记核实 2026-10-29） |
+| 总部/地址 | San Salvador, El Salvador（+503 2262-1049）（第 123 批 官方登记核实 2026-10-29） |
+| 其他 | 网络集成/分销；第 123 批：★ 代客转发型集成商，总经理三次真回 + CENTEC「Interesting solution」→ **建议升 A（Simon 定）；先按集成商 25% 一页纸 + 规格书**；部分坐实（官网地址 + 电话 + GM 邮箱）（第 123 批 官方登记核实 2026-10-29） |
 
 - **触达通道（公开）**：role: 总经理；region: 萨尔瓦多
 - **风险/边界**：DC 客户是否选型结束不明；中美洲物流/付款（T/T USD 可行）；非主攻区，资源有限
@@ -218,7 +232,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Antonio Alberto Guadron | — | gerencia@conexionderedes.com | 调研核实（公开页） | data/gmail_a/messages/<year>/<month>.jsonl |
+| Antonio Alberto Guadron | Gerente General（官网 gerencia@ 吻合；研究档 KP；三次真回）= 收件人 — 一页纸 + 规格书：STH-8C48DX-HSI $4,800 / STH-2C24XF-HSI $1,500 CENTEC + 接入 STC-424XGGPM-280W $198 / STC-4424GCPM $165 + 付费样机；西语备注 — 拉美常规：英文稿（西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29） | gerencia@conexionderedes.com | 调研核实（公开页） | data/gmail_a/messages/<year>/<month>.jsonl |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；邮件已推送 13 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -312,12 +326,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 7）；人工/调研定级 → B
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 7）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

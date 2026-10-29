@@ -76,6 +76,20 @@ updated: 2026-10-29
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 123 批（NZ · 1 次检索：newzealand-company.com/co/viewtech-limited（Company Number 1763634；Incorporated 01 Feb 2006；Registered；Directors Darren JENKINSON；Unit 4, 211 Ferry Rd, Christchurch 8011）+ 镜像（NZBN 9429034325599）+ linkedin（Founded 2006；2-10；97 Wordsworth St Christchurch 8023；Darren Jenkinson Managing Director）；2026-10-29，2026-10-29 查；https://newzealand-company.com/co/viewtech-limited）：**
+
+- 法定名 / 登记号：VIEWTECH LIMITED（viewtech.co.nz；**NZ Companies 镜像：Company No. 1763634；NZBN 9429034325599；Incorporated 2006-02-01；Status Registered；Director Darren Jenkinson；Registered address Unit 4, 211 Ferry Rd, Christchurch 8011；营业地 97 Wordsworth St, Sydenham, Christchurch 8023；0800 888 324；LinkedIn 2–10 人**）→ 坐实；CCTV 固定 + 车载方案 + 安防批发（Milesight / Dahua / Teltonika / Utepo）；KP Matthew Peacey（Commercial Manager）；1 次跟进无回复 · Company No. 1763634；NZBN 9429034325599 · 状态 **Registered（NZ Companies 镜像）** · 成立 2006-02-01 · NZ Limited Company
+- 行业码 / 经营范围：CCTV / 车载安全 / 安防批发（基督城）
+- 注册地址：97 Wordsworth Street, Sydenham, Christchurch 8023, New Zealand（注册地 Unit 4, 211 Ferry Rd, Christchurch 8011）
+- 规模档：微型（2–10）
+- 账目：未取；—
+- 高管：Matthew Peacey — Commercial Manager（研究档 KP；matthew@viewtech.co.nz）= 收件人
+- 高管：Darren Jenkinson — Managing Director / Director（Companies 镜像 + LinkedIn 2026-10-29；darren@viewtech.co.nz）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **安防批发（Utepo / Dahua 在售）→ 分销 20% B，一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-2224GP $86 一口价 + MOQ 1 + 付费样机；车载 / 宽温用 STI-054GP；在售品牌不点名）— 新西兰常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 奥克兰（买方清关；RCM 不声称）；周二 / 周四 09–11 NZST**；再无回声 → 不动
+- 备注：分销 20%；一页纸一次（预付 100%）；坐实（公司号 + NZBN + 成立日 + 状态 + 董事）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -119,16 +133,18 @@ updated: 2026-10-29
 - **【用户表】有 Utepo**
   > 有Utepo的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Matthew Peacey（）matthew@viewtech.co.nz 〔用户表〕
-- **KP**：Darren Jenkinson（） 〔用户表〕
+- **KP**：Matthew Peacey（Commercial Manager（研究档 KP）= 收件人 — 一页纸一次：分销 20% B、STC-028GP $28 / STC-228GP $33 / STC-2224GP $86 一口价 + MOQ 1 + 付费样机；车载 / 宽温 STI-054GP；在售品牌不点名 — 新西兰常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 奥克兰；周二 / 周四 09–11 NZST（第 123 批 官方登记核实 2026-10-29））matthew@viewtech.co.nz 〔用户表〕
+- **KP**：Darren Jenkinson（Managing Director / Director（NZ Companies 镜像 + LinkedIn 2026-10-29）（第 123 批 官方登记核实 2026-10-29）） 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 新西兰 |
-| 其他 | 官网 viewtech.co.nz，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | VIEWTECH LIMITED（Company No. 1763634；NZBN 9429034325599；Registered） |
+| 成立 | 2006-02-01（第 123 批 官方登记核实 2026-10-29） |
+| 总部/地址 | 97 Wordsworth Street, Sydenham, Christchurch 8023, New Zealand（注册地 Unit 4, 211 Ferry Rd, Christchurch 8011）（第 123 批 官方登记核实 2026-10-29） |
+| 其他 | 官网 viewtech.co.nz，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 123 批：CCTV 固定 + 车载 + 安防批发（Utepo / Dahua 在售）→ **分销 20% 一页纸一次（预付 100%）**；坐实（公司号 + NZBN + 成立日 + 董事）（第 123 批 官方登记核实 2026-10-29） |
 
 - **业务线**：车辆与车队安全系统（设计 / 供应）；安防产品批发分销
 
@@ -223,8 +239,8 @@ updated: 2026-10-29
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Matthew Peacey | — | matthew@viewtech.co.nz | 调研核实（公开页） | 用户表 |
-| Darren Jenkinson | — | — | 调研核实（公开页） | 用户表 |
+| Matthew Peacey | Commercial Manager（研究档 KP）= 收件人 — 一页纸一次：分销 20% B、STC-028GP $28 / STC-228GP $33 / STC-2224GP $86 一口价 + MOQ 1 + 付费样机；车载 / 宽温 STI-054GP；在售品牌不点名 — 新西兰常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 奥克兰；周二 / 周四 09–11 NZST（第 123 批 官方登记核实 2026-10-29） | matthew@viewtech.co.nz | 调研核实（公开页） | 用户表 |
+| Darren Jenkinson | Managing Director / Director（NZ Companies 镜像 + LinkedIn 2026-10-29）（第 123 批 官方登记核实 2026-10-29） | — | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 

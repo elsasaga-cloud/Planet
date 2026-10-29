@@ -84,6 +84,19 @@ updated: 2026-10-29
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 123 批（MZ · 1 次检索：peeringdb.com/net/20853（VOIPTECH LIMITADA；AS328223；Cable/DSL/ISP；5-10Gbps；Technical Manuel Manjala manjala@voiptech.co.mz）+ peeringdb.com/org/23811（Ho Chi Mi nº677, First floor, Maputo）+ linkedin（Manuel Manjala Chief Technology Officer at Voiptech Limitada）；NUIT 未得；2026-10-29，2026-10-29 查；https://www.peeringdb.com/net/20853）：**
+
+- 法定名 / 登记号：VOIPTECH LIMITADA（品牌 Latitude / Conecte Internet e Soluções；voiptech.co.mz / conecte.co.mz；**PeeringDB：AS328223，ISP / 网络服务，5–10 Gbps，MOZIX 10G 对等；Av. Ho Chi Minh nº 677, 1º andar, Maputo；技术联系人 Manuel Manjala +258 84 042 3759；LinkedIn：Manuel Manjala = Chief Technology Officer**）；NUIT 1 查未得 → 部分坐实；阿里询盘「WDM Switch」（= 单纤 BiDi 光口交换机；光模块不供）；1 次跟进无实质回复 · 未取（NUIT 1 查未得；AS328223） · 状态 **营业中（PeeringDB 2024 + MOZIX）** · 成立 未取 · Limitada
+- 行业码 / 经营范围：ISP / VoIP / 网络服务（马普托）
+- 注册地址：Av. Ho Chi Minh nº 677, 1º andar, Maputo, Mozambique
+- 规模档：小型
+- 账目：未取；—
+- 高管：Manuel Manjala — Chief Technology Officer（LinkedIn + PeeringDB 2026-10-29；研究档 KP；manjala@voiptech.co.mz）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **ISP + 询盘 2 SFP 交换机（BiDi 自配）→ 集成商 25% B，一页纸一次（STC-228GP $33 / STI-288DGGPM $137 / STC-4424GCPM $165 一口价 + MOQ 1 + 付费样机；光模块不供明说；葡语备注）— 非洲常规：英文稿（法语区附法语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方货代清关）；周二 / 周四 10–12 当地**；回信 → 加厚
+- 备注：集成商 25%；一页纸一次（预付 100%）；部分坐实（PeeringDB 法定名 + 地址 + ASN + KP 职务；NUIT 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -109,15 +122,17 @@ updated: 2026-10-29
 - **【用户表】WDM Switch**
   > 兴趣：WDM Switch
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Manuel Manjala（）manjala@voiptech.co.mz 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Manuel Manjala（Chief Technology Officer（LinkedIn + PeeringDB 2026-10-29；研究档 KP）= 收件人 — 一页纸一次：集成商 25% B、STC-228GP $33 / STI-288DGGPM $137 / STC-4424GCPM $165 一口价 + MOQ 1 + 付费样机；光模块不供明说；葡语备注 — 非洲常规：英文稿（法语区附法语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29））manjala@voiptech.co.mz 〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照 HTTP 错误 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | （待核） |
-| 总部/地址 | Mozambique |
+| 法定名称 | VOIPTECH LIMITADA（Latitude / Conecte Internet e Soluções；AS328223；NUIT 1 查未得） |
+| 成立 | 未取（第 123 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Av. Ho Chi Minh nº 677, 1º andar, Maputo, Mozambique（第 123 批 官方登记核实 2026-10-29） |
+| 其他 | 第 123 批：ISP（5–10 Gbps，MOZIX 对等）询盘 2 SFP 交换机 → **集成商 25% 一页纸一次（预付 100%）**；部分坐实（PeeringDB 法定名 + 地址 + ASN + KP 职务）（第 123 批 官方登记核实 2026-10-29） |
 
 - **触达通道（公开）**：role: VoIP / 网络服务商；region: 莫桑比克
 - **风险/边界**：需求含糊；莫桑比克付款 T/T 预付
@@ -182,7 +197,7 @@ updated: 2026-10-29
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Manuel Manjala | — | manjala@voiptech.co.mz | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Manuel Manjala | Chief Technology Officer（LinkedIn + PeeringDB 2026-10-29；研究档 KP）= 收件人 — 一页纸一次：集成商 25% B、STC-228GP $33 / STI-288DGGPM $137 / STC-4424GCPM $165 一口价 + MOQ 1 + 付费样机；光模块不供明说；葡语备注 — 非洲常规：英文稿（法语区附法语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29） | manjala@voiptech.co.mz | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：企业邮箱可直发
 

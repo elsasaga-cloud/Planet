@@ -75,6 +75,19 @@ updated: 2026-10-29
 
 - 法定假日：11-02 All Souls' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 123 批（0 查（gmail + 无域名）；2026-10-29，2026-10-29 查；）：**
+
+- 法定名 / 登记号：Anfiris, Lda（安哥拉；Carlos da Silva；**repintalimitada@gmail.com、无域名 → 0 查**）— 表内「8 口 network switch 成样品单」= 已付款样品客户；无后续跟进 · 0 查 · 状态 **互动中（成样品单）** · 成立 — · Lda（表内）
+- 行业码 / 经营范围：未知（安哥拉）
+- 注册地址：未取（+244 923 545 606）
+- 规模档：微型（推定）
+- 账目：未取；—
+- 高管：Carlos da Silva — 联系人（研究档 KP；repintalimitada@gmail.com）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **样品已成单 → 回访一页纸一次（集成商 25%：8 口样品同型复购价 + STC-028GP $28 8 PoE 一口价 + MOQ 1；葡语备注）— 非洲常规：英文稿（法语区附法语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方货代清关）；周二 / 周四 10–12 当地**；回信即升 A 候选
+- 备注：回访（集成商 25%）；一页纸一次（预付 100%）；0 查。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -97,16 +110,17 @@ updated: 2026-10-29
 - **【用户表】8 口交换机成样品单**
   > 8口network switch 成样品单 / Mr.Carlos da Silva / repintalimitada@gmail.com / GM/RFQ
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Carlos da Silva（（用户表））repintalimitada@gmail.com（用户表） —〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Carlos da Silva（联系人（研究档 KP；8 口交换机样品已成单）= 收件人 — 回访一页纸一次：集成商 25% B、样品同型复购价 + STC-028GP $28 一口价 + MOQ 1；葡语备注 — 非洲常规：英文稿（法语区附法语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29））repintalimitada@gmail.com（用户表） —〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · 无域名 · 仅表内信息）
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Anfiris, Lda（待核） |
-| 总部/地址 | Angola（城市待核） |
-| 其他 | Gmail（repintalimitada = 疑另一公司 Repinta Limitada） |
+| 法定名称 | Anfiris, Lda（0 查：gmail + 无域名） |
+| 成立 | 未取（第 123 批 官方登记核实 2026-10-29） |
+| 总部/地址 | 未取（安哥拉；+244 923 545 606）（第 123 批 官方登记核实 2026-10-29） |
+| 其他 | Gmail（repintalimitada = 疑另一公司 Repinta Limitada）；第 123 批：样品成单客户 → **回访一页纸一次（预付 100%）；回信即升 A 候选**；0 查（第 123 批 官方登记核实 2026-10-29） |
 
 - **业务线**：（待核）IT/电气贸易或安装
 - **触达通道（公开）**：邮箱: repintalimitada@gmail.com（用户表）
@@ -135,7 +149,7 @@ updated: 2026-10-29
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Carlos da Silva | （用户表） | repintalimitada@gmail.com（用户表） / — | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Carlos da Silva | 联系人（研究档 KP；8 口交换机样品已成单）= 收件人 — 回访一页纸一次：集成商 25% B、样品同型复购价 + STC-028GP $28 一口价 + MOQ 1；葡语备注 — 非洲常规：英文稿（法语区附法语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29） | repintalimitada@gmail.com（用户表） / — | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Mr.Carlos | — | repintalimitada@gmail.com / +244923545606 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；仅免费邮箱：可发，但优先找官网公开的企业邮箱（见调研 KP）

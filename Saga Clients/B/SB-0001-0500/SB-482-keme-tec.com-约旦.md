@@ -82,6 +82,19 @@ updated: 2026-10-29
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 123 批（JO · 1 次检索：keme-tec.com/about-us（KHALEEL ELECTRO MECHANICAL EST. (KEME-TEC) was founded in 2008；Al-Hizam Street - Abu Alanda - Amman；0797800706；Info@keme-tec.com）+ zoominfo（+962 64753322；<$5 Million）；登记号未得；2026-10-29，2026-10-29 查；https://keme-tec.com/about-us/）：**
+
+- 法定名 / 登记号：Khaleel Electro Mechanical Est.（KEME-TEC；مؤسسة خليل قطناني للكهروميكانيك；keme-tec.com；**官网 about：2008 年成立；Al-Hizam Street, Abu Alanda, Amman；+962 79 780 0706 / 78 780 0706；Info@；ZoomInfo：+962 6 475 3322，<$5M；工业自动化 / 变频 / 发电机组 / SCADA 供应与维护**）；商业登记号 1 查未得 → 部分坐实；阿里 RFQ「商业 24 口管理」；KP Rateb Mahmoud（project manager）；未跟进 · 未取（商业登记号 1 查未得） · 状态 **营业中（官网 2023 + ZoomInfo）** · 成立 2008 · Est.（个人机构）
+- 行业码 / 经营范围：工业自动化 / 机电（安曼）
+- 注册地址：Al-Hizam Street, Abu Alanda, Amman, Jordan
+- 规模档：小型
+- 账目：未取；—
+- 高管：Rateb Mahmoud — Project Manager（研究档 KP；projects@keme-tec.com）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **RFQ 24 口管理 → 集成商 25% B，一页纸一次（STC-4424GCPM $165 24 PoE + 4 SFP L2+ / 24 GE 非 PoE 管理版 按主表 一口价 + MOQ 1 + 付费样机；一句话问是否要 PoE）— 约旦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 安曼（买方清关；JSMO 不声称）**；再无回声 → 不动
+- 备注：集成商 25%；一页纸一次（预付 100%）；部分坐实（官网成立年 + 地址；登记号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -108,15 +121,17 @@ updated: 2026-10-29
 - **【用户表】商业 24 口管理 RFQ**
   > 商业24口管理 / from: 阿里巴巴RFQ
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Rateb Mahmoud（）projects@keme-tec.com 〔用户表〕
+- **KP**：Rateb Mahmoud（Project Manager（研究档 KP；阿里 RFQ 24 口管理）= 收件人 — 一页纸一次：集成商 25% B、STC-4424GCPM $165 24 PoE + 4 SFP L2+ / 24 GE 非 PoE 管理版 按主表 一口价 + MOQ 1 + 付费样机；一句话问是否要 PoE — 约旦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 安曼（第 123 批 官方登记核实 2026-10-29））projects@keme-tec.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 约旦 |
-| 其他 | 官网 keme-tec.com，语言 ?，快照状态 http_error；角色判定来源：待核 |
+| 法定名称 | Khaleel Electro Mechanical Est.（KEME-TEC；مؤسسة خليل قطناني للكهروميكانيك；登记号 1 查未得） |
+| 成立 | 2008（第 123 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Al-Hizam Street, Abu Alanda, Amman, Jordan（+962 6 475 3322）（第 123 批 官方登记核实 2026-10-29） |
+| 其他 | 官网 keme-tec.com，语言 ?，快照状态 http_error；角色判定来源：待核；第 123 批：工业自动化 / 机电供应商 RFQ → **集成商 25% 一页纸一次（预付 100%）**；部分坐实（官网成立年 + 地址）（第 123 批 官方登记核实 2026-10-29） |
 
 - **业务线**：项目集成（约旦）
 - **触达通道（公开）**：role: 项目集成商（约旦，24 口管理 RFQ）；region: 约旦；contact: projects@keme-tec.com、rab444rab@yahoo.com
@@ -179,7 +194,7 @@ updated: 2026-10-29
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Rateb Mahmoud | — | projects@keme-tec.com | 调研核实（公开页） | 用户表 |
+| Rateb Mahmoud | Project Manager（研究档 KP；阿里 RFQ 24 口管理）= 收件人 — 一页纸一次：集成商 25% B、STC-4424GCPM $165 24 PoE + 4 SFP L2+ / 24 GE 非 PoE 管理版 按主表 一口价 + MOQ 1 + 付费样机；一句话问是否要 PoE — 约旦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 安曼（第 123 批 官方登记核实 2026-10-29） | projects@keme-tec.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

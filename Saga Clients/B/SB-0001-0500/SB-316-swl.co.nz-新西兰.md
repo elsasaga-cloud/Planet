@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -73,6 +73,20 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 123 批（NZ · 1 次检索：dnb.com（SECURITY WHOLESALE 2001 LIMITED；DBA SWL；Key Principal Andrew Eric JONES；922 Great South Rd Penrose Auckland 1061）+ zoominfo（Andrew Jones Managing Director at Swl）+ cylex.co.nz（SWL Christchurch 4/91 Byron St；03-595 1372）；NZBN 未得；2026-10-29，2026-10-29 查；https://www.dnb.com/business-directory/company-profiles.security_wholesale_2001_limited.ae524adacb574def950a62011c209631.html）：**
+
+- 法定名 / 登记号：Security Wholesale 2001 Limited（DBA SWL；swl.co.nz；**D&B：Key Principal Andrew Eric Jones；922 Great South Rd, Penrose, Auckland 1061；cylex：基督城分部 4/91 Byron St, Christchurch 8023；ZoomInfo：Andrew Jones Managing Director**）；NZBN 1 查未得 → 部分坐实；100% 新西兰本土安防批发（Provision-ISR / Ajax / DSC / Kantech；表内「有 Utepo 的」）；KP Jabe Hura（Technical Sales）；1 次跟进无回复 · 未取（NZBN 1 查未得；法定名 Security Wholesale 2001 Limited） · 状态 **营业中（D&B + 官网）** · 成立 2001（名称推定） · NZ Limited Company
+- 行业码 / 经营范围：安防批发（奥克兰 / 基督城）
+- 注册地址：922 Great South Road, Penrose, Auckland 1061, New Zealand
+- 规模档：小型
+- 账目：未取；—
+- 高管：Jabe Hura — Technical Sales Representative（研究档 KP；jabe@swl.co.nz）= 收件人
+- 高管：Andrew Eric Jones — Managing Director / Key Principal（D&B + ZoomInfo 2026-10-29；trade@swl.co.nz）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **安防批发（Utepo 在售）→ 分销 20% B，一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-2224GP $86 整箱一口价 + MOQ 1 + 付费样机；中性包装；在售品牌不点名）— 新西兰常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 奥克兰（买方清关；RCM 不声称）；周二 / 周四 09–11 NZST**；再无回声 → 不动
+- 备注：分销 20%；一页纸一次（预付 100%）；部分坐实（D&B 法定名 + 地址 + MD；NZBN 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -116,16 +130,18 @@ updated: 2026-10-28
 - **【用户表】有 Utepo 的**
   > 有Utepo的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Jabe Hura（）jabe@swl.co.nz 〔用户表〕
-- **KP**：Andrew Jones（）trade@swl.co.nz 〔用户表〕
+- **KP**：Jabe Hura（Technical Sales Representative（研究档 KP）= 收件人 — 一页纸一次：分销 20% B、STC-028GP $28 / STC-228GP $33 / STC-2224GP $86 整箱一口价 + MOQ 1 + 付费样机；中性包装；在售品牌不点名 — 新西兰常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 奥克兰；周二 / 周四 09–11 NZST（第 123 批 官方登记核实 2026-10-29））jabe@swl.co.nz 〔用户表〕
+- **KP**：Andrew Jones（Managing Director / Key Principal（D&B + ZoomInfo 2026-10-29）（第 123 批 官方登记核实 2026-10-29））trade@swl.co.nz 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 新西兰 |
-| 其他 | 官网 swl.co.nz，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Security Wholesale 2001 Limited（DBA SWL；NZBN 1 查未得） |
+| 成立 | 2001（名称推定）（第 123 批 官方登记核实 2026-10-29） |
+| 总部/地址 | 922 Great South Road, Penrose, Auckland 1061, New Zealand（基督城分部 4/91 Byron St）（第 123 批 官方登记核实 2026-10-29） |
+| 其他 | 官网 swl.co.nz，语言 en，快照状态 ok；角色判定来源：官网文案；第 123 批：本土安防批发（Provision-ISR / Ajax / DSC；Utepo 在售）→ **分销 20% 一页纸一次（预付 100%）**；部分坐实（D&B 法定名 + 地址 + MD）（第 123 批 官方登记核实 2026-10-29） |
 
 - **业务线**：安防批发（CCTV / 报警 / 门禁）
 - **触达通道（公开）**：role: 安防批发分销商（新西兰，Provision-ISR / Utepo）；region: 新西兰；contact: trade@swl.co.nz、jabe@swl.co.nz
@@ -209,8 +225,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Jabe Hura | — | jabe@swl.co.nz | 调研核实（公开页） | 用户表 |
-| Andrew Jones | — | trade@swl.co.nz | 调研核实（公开页） | 用户表 |
+| Jabe Hura | Technical Sales Representative（研究档 KP）= 收件人 — 一页纸一次：分销 20% B、STC-028GP $28 / STC-228GP $33 / STC-2224GP $86 整箱一口价 + MOQ 1 + 付费样机；中性包装；在售品牌不点名 — 新西兰常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 奥克兰；周二 / 周四 09–11 NZST（第 123 批 官方登记核实 2026-10-29） | jabe@swl.co.nz | 调研核实（公开页） | 用户表 |
+| Andrew Jones | Managing Director / Key Principal（D&B + ZoomInfo 2026-10-29）（第 123 批 官方登记核实 2026-10-29） | trade@swl.co.nz | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -303,12 +319,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 46）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 46）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

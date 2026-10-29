@@ -24,7 +24,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -71,6 +71,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 123 批（CL · 1 次检索：socra.cl（Socra SpA；ventasweb@socra.cl；(+56) 9 7972 0669；(+56) 2 22497726；Av Las condes 6770 OF 202 Santiago）+ automa.net（Socra Spa；mining industry；Av. Las Condes 6770 OF 202；7560759）+ socraonline.com/nosotros；RUT 未得；2026-10-29，2026-10-29 查；https://socra.cl/）：**
+
+- 法定名 / 登记号：Socra SpA（socraonline.com / socra.cl；**官网：Av. Las Condes 6770, Of. 202, Santiago 7560759；+56 2 2249 7726；WA +56 9 7972 0669；ventasweb@；矿业工业品分销（自动化 / 接触器 / 继电器 / 传感器；欧美亚供应商联盟）**）；RUT 1 查未得 → 部分坐实；阿里询盘「百兆收发器」（百兆 MC 不供）；KP Santiago de la Cruz（product marketer）；未跟进 · 未取（RUT 1 查未得） · 状态 **营业中（官网 2026）** · 成立 未取（「young company」） · SpA
+- 行业码 / 经营范围：矿业工业品分销（圣地亚哥）
+- 注册地址：Av. Las Condes 6770, Oficina 202, Las Condes, Santiago 7560759, Chile
+- 规模档：微型
+- 账目：未取；—
+- 高管：Santiago de la Cruz — Product Marketer（研究档 KP；ventasweb@socraonline.com）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **矿业工业品分销商 + 询盘 MC → 分销 20% B，一页纸一次（STC-110XGE $65 千兆 / 万兆 MC + STI-280GE $46.6 / STI-288DGGPM $137 工业线 一口价 + MOQ 1；百兆 MC 不供明说；西语备注）— 拉美常规：英文稿（可附西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关）；周二 / 周四 10–12 当地**；再无回声 → 不动
+- 备注：分销 20%；一页纸一次（预付 100%）；部分坐实（官网地址 + 电话；RUT 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -104,15 +117,17 @@ updated: 2026-10-28
 - **【用户表】百兆收发器 阿里询盘**
   > 百兆收发器 / from: 阿里巴巴询盘
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Santiago de la Cruz（）ventasweb@socraonline.com 〔用户表〕
+- **KP**：Santiago de la Cruz（Product Marketer（研究档 KP；阿里询盘百兆 MC）= 收件人 — 一页纸一次：分销 20% B、STC-110XGE $65 + STI-280GE $46.6 / STI-288DGGPM $137 一口价 + MOQ 1；百兆 MC 不供明说；西语备注 — 拉美常规：英文稿（西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29））ventasweb@socraonline.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 智利 |
-| 其他 | 官网 socraonline.com，语言 es，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Socra SpA（RUT 1 查未得） |
+| 成立 | 未取（第 123 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Av. Las Condes 6770, Oficina 202, Las Condes, Santiago 7560759, Chile（+56 2 2249 7726）（第 123 批 官方登记核实 2026-10-29） |
+| 其他 | 官网 socraonline.com，语言 es，快照状态 ok；角色判定来源：官网文案；第 123 批：矿业工业品分销商 → **分销 20% 一页纸一次（预付 100%）**；部分坐实（官网地址 + 电话）（第 123 批 官方登记核实 2026-10-29） |
 
 - **业务线**：矿业工业品供应（自动化 / 电气 / 线缆 / 传感器）
 - **触达通道（公开）**：role: 矿业工业品分销商（智利，阿里询盘百兆 MC）；region: 智利；contact: ventasweb@socraonline.com
@@ -177,7 +192,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Santiago de la Cruz | — | ventasweb@socraonline.com | 调研核实（公开页） | 用户表 |
+| Santiago de la Cruz | Product Marketer（研究档 KP；阿里询盘百兆 MC）= 收件人 — 一页纸一次：分销 20% B、STC-110XGE $65 + STI-280GE $46.6 / STI-288DGGPM $137 一口价 + MOQ 1；百兆 MC 不供明说；西语备注 — 拉美常规：英文稿（西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29） | ventasweb@socraonline.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 
@@ -271,12 +286,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 27）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 27）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

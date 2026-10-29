@@ -77,6 +77,19 @@ updated: 2026-10-29
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 123 批（TN · 1 次检索：max-protect.com（Max Protect – caméras, alarmes et visiophones；2 magasins à Hammamet；Avenue Habib Bourguiba 8050 Hammamet；72 324 111）；RNE 未得；2026-10-29，2026-10-29 查；https://max-protect.com/）：**
+
+- 法定名 / 登记号：Max Protect（max-protect.com；**官网：哈马马特 2 家门店 — Avenue Habib Bourguiba, 8050 Hammamet / Avenue Abou Dhabi（Route de Nabeul）；72 324 111；全突尼斯 48h 配送；监控 / 报警 / 可视对讲（Dahua / Uniview / Imou / Ajax）**）；RNE 号 1 查未得 → 部分坐实；Manager Aymen Gabsi 很在意价格，**曾以 $40 买走 2 光 8 电管理 PoE 样品**；6 次跟进无实质回复 · 未取（RNE 号 1 查未得） · 状态 **营业中（官网 2026）** · 成立 未取 · SARL（推定）
+- 行业码 / 经营范围：安防设备零售 / 分销 / 安装（哈马马特）
+- 注册地址：Avenue Habib Bourguiba, 8050 Hammamet, Tunisia（第二店 Avenue Abou Dhabi, Route de Nabeul）
+- 规模档：微型（2 门店）
+- 账目：未取；—
+- 高管：Aymen Gabsi — Manager（研究档 KP；direction@max-protect.com）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **样品已购（$40 2 光 8 PoE 管理）→ 分销 20% B，一页纸一次（问测试结果 + STC-228GP $33 / STC-028GP $28 整箱 10 台一口价 + MOQ 1；法语；在售品牌不点名）— 非洲常规：英文稿（法语区附法语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方货代清关）；周二 / 周四 10–12 当地**；再无回声 → 不动
+- 备注：分销 20%；一页纸一次（预付 100%）；部分坐实（官网门店地址 + 电话；RNE 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -113,17 +126,17 @@ updated: 2026-10-29
 - **【用户表】很在意价格；便宜卖了一台 VSC 2 光 8 电带网管带 PoE 的样品 40 美金**
   > 兴趣：很在意价格，便宜卖了一台VSC2光8电带网管，带PoE的样品给他 40美金
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Aymen Gabsi（）direction@max-protect.com +216 98 508 507〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Aymen Gabsi（Manager（研究档 KP；$40 购 2 光 8 PoE 管理样品）= 收件人 — 一页纸一次：分销 20% B、问测试结果 + STC-228GP $33 / STC-028GP $28 整箱 10 台一口价 + MOQ 1；法语；在售品牌不点名 — 非洲常规：英文稿（法语区附法语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29））direction@max-protect.com +216 98 508 507〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：已购样））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Max Protect（待核） |
-| 成立 | （待核） |
-| 总部/地址 | Tunisia（+216 72 = Nabeul/Bizerte 区） |
-| 其他 | 已购 Saga 样品（$40） |
+| 法定名称 | Max Protect（哈马马特；RNE 号 1 查未得） |
+| 成立 | 未取（第 123 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Avenue Habib Bourguiba, 8050 Hammamet, Tunisia（第二店 Avenue Abou Dhabi, Route de Nabeul；72 324 111）（第 123 批 官方登记核实 2026-10-29） |
+| 其他 | 已购 Saga 样品（$40）；第 123 批：安防零售 / 分销 / 安装（Dahua / Uniview / Imou / Ajax），样品已购 → **分销 20% 一页纸一次（预付 100%）**；部分坐实（官网门店地址）（第 123 批 官方登记核实 2026-10-29） |
 
 - **业务线**：视频监控 / 报警 / 消防探测分销与安装
 - **触达通道（公开）**：role: 安防分销 + 安装商；region: 突尼斯
@@ -213,7 +226,7 @@ updated: 2026-10-29
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Aymen Gabsi | — | direction@max-protect.com / +216 98 508 507 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Aymen Gabsi | Manager（研究档 KP；$40 购 2 光 8 PoE 管理样品）= 收件人 — 一页纸一次：分销 20% B、问测试结果 + STC-228GP $33 / STC-028GP $28 整箱 10 台一口价 + MOQ 1；法语；在售品牌不点名 — 非洲常规：英文稿（法语区附法语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29） | direction@max-protect.com / +216 98 508 507 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

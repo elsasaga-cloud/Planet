@@ -26,7 +26,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -75,6 +75,20 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 123 批（EC · 1 次检索：bolsadevaloresguayaquil.com/emisores/info-emisor.asp?emicodi=E.87（TELCONET S.A.；RUC 0991327371001；Representante Legal TOPIC GRANADOS MARION TOMISLAV；Dirección Legal Guayaquil Kennedy Norte）+ arcotel.gob.ec 2022-06 公文（RUC 0991327371001；Título Habilitante 1795361）+ ecuadorpapers RUC-SCV 2016（ESTADO ABIERTO）；2026-10-29，2026-10-29 查；https://www.bolsadevaloresguayaquil.com/emisores/info-emisor.asp?emicodi=E.87）：**
+
+- 法定名 / 登记号：TELCONET S.A.（telconet.ec；**RUC 0991327371001；法定代表人 Marion Tomislav Topic Granados（Gerente General）；Dirección Legal Guayaquil, Kennedy Norte, Av. Luis Orrantia SL. 21 y Av. V.H. Sicouret；瓜亚基尔证券交易所登记发行人；ARCOTEL 电信许可（Título Habilitante 1795361）；大型光纤运营商**）→ 坐实；表内「从国内买了很多 SFP」（直采 SFP，不供）；无 KP；群发无互动 · RUC 0991327371001 · 状态 **营业中（BVG 发行人 + ARCOTEL 许可）** · 成立 未取（1990 年代） · S.A.（证券交易所登记发行人）
+- 行业码 / 经营范围：光纤电信运营 / 数据中心（瓜亚基尔）
+- 注册地址：Av. Luis Orrantia SL. 21 y Av. V.H. Sicouret, Kennedy Norte, Guayaquil, Ecuador
+- 规模档：大型
+- 账目：未取；—
+- 高管：（无 KP：info@telconet.ec）
+- 高管：Marion Tomislav Topic Granados — Gerente General / Representante Legal（BVG 2026-10-29；无公开邮箱）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **大型运营商 + 主需求 SFP（不供）+ 无 KP + 零互动 → 不动（B 保留；供应商准入门槛高，运营商按单核）**— 厄瓜多尔常规：英文稿（可附西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 瓜亚基尔（买方清关）
+- 备注：不动（大型运营商 + 产品不对位 + 无 KP）；坐实（RUC + 法定代表人 + 法定地址）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -97,15 +111,17 @@ updated: 2026-10-28
 - **【用户表】富通天下：从国内买了很多 SFP**
   > 从国内买了很多SFP / 富通天下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Marion Tomislav Topic Granados（Gerente General / Representante Legal（BVG 发行人页 2026-10-29；无公开邮箱）（第 123 批 官方登记核实 2026-10-29）） 〔〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于用户表整理 + 需求映射；「成交」为富通天下外贸数据））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Telconet S.A. |
-| 总部/地址 | Guayaquil, Ecuador |
-| 其他 | 直接从中国进口 SFP（外贸数据） |
+| 法定名称 | TELCONET S.A.（RUC 0991327371001；BVG 登记发行人；ARCOTEL Título Habilitante 1795361） |
+| 成立 | 未取（第 123 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Av. Luis Orrantia SL. 21 y Av. V.H. Sicouret, Kennedy Norte, Guayaquil, Ecuador（第 123 批 官方登记核实 2026-10-29） |
+| 其他 | 直接从中国进口 SFP（外贸数据）；第 123 批：大型光纤运营商 + 主需求 SFP（不供）+ 无 KP + 零互动 → **不动（B 保留；运营商按单核）**；坐实（RUC + 法定代表人 + 法定地址）（第 123 批 官方登记核实 2026-10-29） |
 
 - **业务线**：光纤电信运营（骨干、企业、数据中心）
 - **触达通道（公开）**：网站: https://www.telconet.ec/（未核）；邮箱: info@telconet.ec（用户表）
@@ -162,7 +178,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@telconet.ec | 用户表原值 | Clients/ 表 |
+| Marion Tomislav Topic Granados | Gerente General / Representante Legal（BVG 发行人页 2026-10-29；无公开邮箱）（第 123 批 官方登记核实 2026-10-29） | — | 调研核实（公开页） | 调研 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -198,7 +214,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：有成交史，信任与开户成本已付
-- **W**：无具名决策人，仍是公司级触达；拉美：物流/收款/汇率摩擦高于主攻区
+- **W**：拉美：物流/收款/汇率摩擦高于主攻区
 - **O**：P1 — 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -215,7 +231,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ❓ 表内兴趣不含交换机关键词 |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ✅ 有成交史（量待确认） |
@@ -231,7 +247,7 @@ updated: 2026-10-28
 **主题**：Follow-up on your switch requirement (model confirmation in progress)
 
 ```text
-Hello,
+Hi Marion,
 
 Picking up our earlier exchange about PoE / industrial switches. Hello Telconet procurement team, alongside the SFP modules you import from China: 24× GbE + 4× 10G SFP+ L2+ access switches at $127.4 EXW (L3 version $269.1), and 1G/10G SFPs on request — who is the right contact for access-network equipment sourcing?
 
@@ -252,12 +268,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 57）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 57）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

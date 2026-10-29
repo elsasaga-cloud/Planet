@@ -61684,10 +61684,14 @@
 "kp": [
 {
 "name": "Sonam Rinchen",
-"role": "（职位未核；表内联系人）",
+"role": "表内联系人（研究档 KP；WA 已加；要收发器 / SFP / PoE 交换机）= 收件人 — 一页纸一次：集成商 25% B、STC-4424GCPM $165 / STC-424XGGPM-280W $198 汇聚 + STC-228GP $33 接入 一口价 + MOQ 1；SFP / 收发器不供明说 — 不丹常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方经加尔各答 / 空运清关）（第 123 批 官方登记核实 2026-10-29）",
 "email": "sonam@nano.bt",
 "phone": "+975 17 113 202（WA 已加；表内 975-171 13202）",
 "source": "用户 Clients 表"
+},
+{
+"name": "Tshering Norbu",
+"role": "Managing Director（官网 2026-10-29；曾任 Thimphu TechPark Ltd 董事；无公开邮箱）（第 123 批 官方登记核实 2026-10-29）"
 }
 ],
 "grade_override": "B",
@@ -61699,11 +61703,11 @@
 "level": "B 级加厚 v1（官网快照 + 第三方核对 · 国别更正 BT）"
 },
 "company_facts": {
-"legal_name": "NANO（Private Ltd，不丹）",
-"founded": "2016（AS136039 分配 2016-11）/ 2017 入市",
-"hq": "Thimphu TechPark, Wangchutaba, Thimphu 11001, Bhutan；+975 2 330330；info@nano.bt",
-"size": "官网自述 11 人（成长中）",
-"other": "不丹 BICMA 持牌 ISP 名录第 7 家（全国覆盖）；拥有独立国际网关与 DWDM 骨干；一座 Tier 2/3 数据中心"
+"legal_name": "NANO（不丹持牌 ISP；公司注册号 1 查未得）",
+"founded": "2017（入市）（第 123 批 官方登记核实 2026-10-29）",
+"hq": "IT Park, PO Box 633, Wangchuktaba, Babesa, Thimphu, Bhutan（+975 2 330330）（第 123 批 官方登记核实 2026-10-29）",
+"size": "微型（约 11）（第 123 批 官方登记核实 2026-10-29）",
+"other": "不丹 BICMA 持牌 ISP 名录第 7 家（全国覆盖）；拥有独立国际网关与 DWDM 骨干；一座 Tier 2/3 数据中心；第 123 批：三家持独立国际网关 ISP 之一 → **集成商 25% 一页纸一次（预付 100%）**；部分坐实（官网注册地址 + MD）（第 123 批 官方登记核实 2026-10-29）"
 },
 "business_lines": [
 "ISP 与网络运营（FTTx、企业专线）",
@@ -67636,7 +67640,8 @@
 "title": "",
 "email": "info@topica.mn",
 "phone": "+976 7555 4488",
-"source": "https://topica.mn/"
+"source": "https://topica.mn/",
+"role": "收件箱（回信署名 Bayar；2025-11 点名「需要 16 port 的」，欠答）= 收件人 — 一页纸：分销 20% B、STC-2216GP $63–76 / 16 口管理版 按主表 / STC-2224GP $86 一口价 + MOQ 1 + 付费样机；在售品牌不点名 — 蒙古常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 乌兰巴托（第 123 批 官方登记核实 2026-10-29）"
 }
 ],
 "grade_override": "B",
@@ -67648,11 +67653,11 @@
 "level": "B 级加厚 v1（官网快照核对）"
 },
 "company_facts": {
-"legal_name": "Topica LLC（待核）",
-"founded": "（待核）",
-"hq": "Ulaanbaatar, Mongolia",
-"size": "中小型网店 / 分销",
-"other": "多品牌；SFP / 10G 品类深"
+"legal_name": "Topica LLC（Топика ХХК；注册号 1 查未得）",
+"founded": "2005（第 123 批 官方登记核实 2026-10-29）",
+"hq": "Office 3A, 1st Khoroo, Chingeltei District, Ulaanbaatar, Mongolia（+976 7012 5001 / 5002）（第 123 批 官方登记核实 2026-10-29）",
+"size": "中小型（名录 51–200 偏高）（第 123 批 官方登记核实 2026-10-29）",
+"other": "多品牌；SFP / 10G 品类深；第 123 批：★ 网店 + 分销 + 集成（LuxDev 医院 IT 中标），回信点名 16 口 → **分销 20% 一页纸（预付 100%）；回信即升 A 候选**；部分坐实（名录成立年 + 地址）（第 123 批 官方登记核实 2026-10-29）"
 },
 "business_lines": [
 "网络设备网店（交换机、SFP、无线、MikroTik）",
@@ -120124,7 +120129,8 @@
 "title": "（经营者）",
 "email": "smchan91@gmail.com",
 "phone": "",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "Sr. Executive, Support & Maintenance（官网 2026-10-29；非决策人；support@ara.com.bd 退信）= 收件人（请转采购）— 一页纸一次：分销 20% B、STC-028GP $28 / STC-228GP $33 / STC-110XGE $65 一口价 + MOQ 1 + 付费样机 — 亚洲常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29）"
 }
 ],
 "grade_override": null,
@@ -120135,11 +120141,11 @@
 "level": "B 级加厚 v1（快照不可达 + 表内）"
 },
 "company_facts": {
-"legal_name": "ARA（待核）",
-"founded": "",
-"hq": "孟加拉国",
-"size": "小型经销",
-"other": "support@ara.com.bd 退信；域名失效"
+"legal_name": "ARA Technologies Limited（Advanced Resources And Technologies；RJSC 号 1 查未得）",
+"founded": "2005（第 123 批 官方登记核实 2026-10-29）",
+"hq": "Banani C/A 17, Banani, Dhaka 1213, Bangladesh（工厂 Bhaluka, Mymensingh；+880 1678 004434）（第 123 批 官方登记核实 2026-10-29）",
+"size": "小型（约 20）（第 123 批 官方登记核实 2026-10-29）",
+"other": "support@ara.com.bd 退信；域名失效；第 123 批：网络 / 光电产品制造 + 分销，进口过中国品牌 → **分销 20% 一页纸一次（预付 100%）**；部分坐实（官网地址 + 成立年 + KP 职务）（第 123 批 官方登记核实 2026-10-29）"
 },
 "business_lines": [
 "网络设备经销（交换机 / MC / 配件）"
@@ -122333,11 +122339,11 @@
 "level": "无域名 · 仅表内信息"
 },
 "company_facts": {
-"legal_name": "（未知）",
-"founded": "",
-"hq": "埃塞俄比亚",
-"size": "",
-"other": "gmail mulugetawendosen@"
+"legal_name": "未取（0 查：gmail + 无公司）",
+"founded": "未取（第 123 批 官方登记核实 2026-10-29）",
+"hq": "未取（埃塞俄比亚；+251 955 019 650）（第 123 批 官方登记核实 2026-10-29）",
+"size": "个人（第 123 批 官方登记核实 2026-10-29）",
+"other": "gmail mulugetawendosen@；第 123 批：需求光模块（不供）+ 未读 → **不动（B 保留）**；0 查（第 123 批 官方登记核实 2026-10-29）"
 },
 "channels": {
 "role": "（未知）",
@@ -122974,7 +122980,8 @@
 "title": "（表内联系人）",
 "email": "amineachoura21@gmail.com",
 "phone": "+213 669 116 595",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "联系人（研究档 KP）— 不动：需求 WDM（不供）+ 无公司 — 阿尔及利亚常规：英文稿（法语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（第 123 批 官方登记核实 2026-10-29）"
 }
 ],
 "grade_override": null,
@@ -122985,11 +122992,11 @@
 "level": "无域名 · 仅表内信息"
 },
 "company_facts": {
-"legal_name": "（未知）",
-"founded": "",
-"hq": "阿尔及利亚",
-"size": "",
-"other": "gmail"
+"legal_name": "未取（0 查：gmail + 无公司）",
+"founded": "未取（第 123 批 官方登记核实 2026-10-29）",
+"hq": "未取（阿尔及利亚；+213 669 116 595）（第 123 批 官方登记核实 2026-10-29）",
+"size": "个人（第 123 批 官方登记核实 2026-10-29）",
+"other": "gmail；第 123 批：**不动（产品不对位）**；0 查（第 123 批 官方登记核实 2026-10-29）"
 },
 "channels": {
 "role": "（未知）",
@@ -131002,7 +131009,8 @@
 "title": "Gerente General",
 "email": "gerencia@conexionderedes.com",
 "phone": "",
-"source": "data/gmail_a/messages/<year>/<month>.jsonl"
+"source": "data/gmail_a/messages/<year>/<month>.jsonl",
+"role": "Gerente General（官网 gerencia@ 吻合；研究档 KP；三次真回）= 收件人 — 一页纸 + 规格书：STH-8C48DX-HSI $4,800 / STH-2C24XF-HSI $1,500 CENTEC + 接入 STC-424XGGPM-280W $198 / STC-4424GCPM $165 + 付费样机；西语备注 — 拉美常规：英文稿（西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29）"
 }
 ],
 "grade_override": "B",
@@ -131013,11 +131021,11 @@
 "level": "邮件证据 + 官网常识"
 },
 "company_facts": {
-"legal_name": "Conexión de Redes de Centro América",
-"founded": "",
-"hq": "萨尔瓦多",
-"size": "",
-"other": "网络集成/分销"
+"legal_name": "Conexión de Redes de Centro América（NIT 1 查未得）",
+"founded": "未取（第 123 批 官方登记核实 2026-10-29）",
+"hq": "San Salvador, El Salvador（+503 2262-1049）（第 123 批 官方登记核实 2026-10-29）",
+"size": "小型（第 123 批 官方登记核实 2026-10-29）",
+"other": "网络集成/分销；第 123 批：★ 代客转发型集成商，总经理三次真回 + CENTEC「Interesting solution」→ **建议升 A（Simon 定）；先按集成商 25% 一页纸 + 规格书**；部分坐实（官网地址 + 电话 + GM 邮箱）（第 123 批 官方登记核实 2026-10-29）"
 },
 "channels": {
 "role": "总经理",
@@ -134094,7 +134102,8 @@
 "title": "（表内联系人）",
 "email": "rajaanand42@gmail.com",
 "phone": "+965 9415 7777",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "联系人（研究档 KP；WA 已加；2025-11 要公司资料 + 价格，欠答）= 收件人 — 一页纸一次：集成商 25% B、工业 2 光 16 电 PoE 按主表 + STI-288DGGPM $137 / STC-2216GP 一口价 + 公司一页简介 + MOQ 1 + 付费样机 — 科威特常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 科威特城（第 123 批 官方登记核实 2026-10-29）"
 }
 ],
 "grade_override": null,
@@ -134105,11 +134114,11 @@
 "level": "无域名 · 仅表内信息"
 },
 "company_facts": {
-"legal_name": "（待核）",
-"founded": "",
-"hq": "科威特",
-"size": "小型",
-"other": "gmail；阿里国际站老买家"
+"legal_name": "Softline Technology（0 查：gmail + 无域名）",
+"founded": "未取（第 123 批 官方登记核实 2026-10-29）",
+"hq": "未取（科威特；+965 9415 7777）（第 123 批 官方登记核实 2026-10-29）",
+"size": "微型（推定）（第 123 批 官方登记核实 2026-10-29）",
+"other": "gmail；阿里国际站老买家；第 123 批：主动要资料 + 价格（欠答）→ **一页纸一次（预付 100%）**；0 查（第 123 批 官方登记核实 2026-10-29）"
 },
 "business_lines": [
 "网络 / 弱电工程（推断）"
@@ -136485,7 +136494,12 @@
 "date": "2026-10-21"
 }
 ],
-"kp": [],
+"kp": [
+{
+"name": "Marion Tomislav Topic Granados",
+"role": "Gerente General / Representante Legal（BVG 发行人页 2026-10-29；无公开邮箱）（第 123 批 官方登记核实 2026-10-29）"
+}
+],
 "grade_override": null,
 "override_reason": "",
 "notes": "（无首轮调研；由 deepen.py 建档）",
@@ -136494,10 +136508,11 @@
 "level": "B 级加厚 v1（基于用户表整理 + 需求映射；「成交」为富通天下外贸数据）"
 },
 "company_facts": {
-"legal_name": "Telconet S.A.",
-"hq": "Guayaquil, Ecuador",
-"size": "大型运营商（数千人）",
-"other": "直接从中国进口 SFP（外贸数据）"
+"legal_name": "TELCONET S.A.（RUC 0991327371001；BVG 登记发行人；ARCOTEL Título Habilitante 1795361）",
+"hq": "Av. Luis Orrantia SL. 21 y Av. V.H. Sicouret, Kennedy Norte, Guayaquil, Ecuador（第 123 批 官方登记核实 2026-10-29）",
+"size": "大型（第 123 批 官方登记核实 2026-10-29）",
+"other": "直接从中国进口 SFP（外贸数据）；第 123 批：大型光纤运营商 + 主需求 SFP（不供）+ 无 KP + 零互动 → **不动（B 保留；运营商按单核）**；坐实（RUC + 法定代表人 + 法定地址）（第 123 批 官方登记核实 2026-10-29）",
+"founded": "未取（第 123 批 官方登记核实 2026-10-29）"
 },
 "business_lines": [
 "光纤电信运营（骨干、企业、数据中心）"
@@ -136693,7 +136708,7 @@
 "kp": [
 {
 "name": "Carlos da Silva",
-"role": "（用户表）",
+"role": "联系人（研究档 KP；8 口交换机样品已成单）= 收件人 — 回访一页纸一次：集成商 25% B、样品同型复购价 + STC-028GP $28 一口价 + MOQ 1；葡语备注 — 非洲常规：英文稿（法语区附法语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29）",
 "email": "repintalimitada@gmail.com（用户表）",
 "phone": "—",
 "source": "（本地 Clients/ 表格，无公开 URL）"
@@ -136707,10 +136722,11 @@
 "level": "无域名 · 仅表内信息"
 },
 "company_facts": {
-"legal_name": "Anfiris, Lda（待核）",
-"hq": "Angola（城市待核）",
-"size": "待核",
-"other": "Gmail（repintalimitada = 疑另一公司 Repinta Limitada）"
+"legal_name": "Anfiris, Lda（0 查：gmail + 无域名）",
+"hq": "未取（安哥拉；+244 923 545 606）（第 123 批 官方登记核实 2026-10-29）",
+"size": "微型（推定）（第 123 批 官方登记核实 2026-10-29）",
+"other": "Gmail（repintalimitada = 疑另一公司 Repinta Limitada）；第 123 批：样品成单客户 → **回访一页纸一次（预付 100%）；回信即升 A 候选**；0 查（第 123 批 官方登记核实 2026-10-29）",
+"founded": "未取（第 123 批 官方登记核实 2026-10-29）"
 },
 "business_lines": [
 "（待核）IT/电气贸易或安装"
@@ -152704,14 +152720,14 @@
 "kp": [
 {
 "name": "Moustapha Elemine",
-"role": "（表内自填 Distributor/Wholesaler；官网伙伴页邮箱）",
+"role": "表内联系人（研究档 KP；官网合作页同邮箱；WA 已加；曾回「2 光 4」小机价）= 收件人 — 一页纸一次：集成商 25% B、STI-244DGGPM $121 / STI-154GP 一口价 + MOQ 1 + 付费样机；80 km 光模块不供明说；法语备注 — 非洲常规：英文稿（法语区附法语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29）",
 "email": "moustapha@wimex.mr",
 "phone": "+222 22 41 73 18（WA 已加）",
 "source": "用户 Clients 表 + axxonsoft.com 伙伴页"
 },
 {
 "name": "Mohamed Waled",
-"role": "PDG（集团总裁）",
+"role": "PDG（集团总裁；研究档；无公开邮箱）（第 123 批 官方登记核实 2026-10-29）",
 "email": "",
 "phone": "",
 "source": "emergence.mr 2023-03-17"
@@ -152725,11 +152741,11 @@
 "level": "B 级加厚 v1（官网 + LinkedIn/伙伴页核对）"
 },
 "company_facts": {
-"legal_name": "WIMEX Technologies（Groupe WIMEX）",
-"founded": "1993（LinkedIn）/ 1995（官网）",
-"hq": "55 Ilot C, Zone Château d’Eau, BP 3384 Nouakchott, Mauritanie；+222 45 25 23 56；info@wimex.mr",
-"size": "LinkedIn 51–200；ZoomInfo 营收 $5.6M",
-"other": "PDG Mohamed Waled（2023 当选 CCIAM 副主席）；AxxonSoft 合作伙伴页列 moustapha@wimex.mr"
+"legal_name": "Wimex Technologies（Groupe WIMEX；RC / NIF 1 查未得）",
+"founded": "1993 / 1995（集团）（第 123 批 官方登记核实 2026-10-29）",
+"hq": "55 Ilot C, Zone Château d'Eau, BP 3384, Nouakchott, Mauritania（+222 45 25 23 56）（第 123 批 官方登记核实 2026-10-29）",
+"size": "中型（51–200）（第 123 批 官方登记核实 2026-10-29）",
+"other": "PDG Mohamed Waled（2023 当选 CCIAM 副主席）；AxxonSoft 合作伙伴页列 moustapha@wimex.mr；第 123 批：电信工程 / 系统集成集团 → **集成商 25% 一页纸一次（预付 100%）**；部分坐实（官网地址 + BP）（第 123 批 官方登记核实 2026-10-29）"
 },
 "business_lines": [
 "微波传输（FH，1000+ 链路，PDH/SDH）",
@@ -158197,7 +158213,8 @@
 "title": "（表内联系人）",
 "email": "lpogiso@gmail.com",
 "phone": "+267 71 704 050",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "联系人（研究档 KP；WA 已加；2025-06「slow business」）= 收件人 — 最后一次一页纸：集成商 25% B、STI-154GP / STI-054GP 一口价 + MOQ 1；一句话问是否要 PoE — 非洲常规：英文稿（法语区附法语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29）"
 }
 ],
 "grade_override": null,
@@ -158208,11 +158225,11 @@
 "level": "无域名 · 仅表内信息"
 },
 "company_facts": {
-"legal_name": "Netbowl (Pty) Ltd",
-"founded": "",
-"hq": "博茨瓦纳",
-"size": "小型",
-"other": "gmail"
+"legal_name": "Netbowl (Pty) Ltd（0 查：gmail + 无域名）",
+"founded": "未取（第 123 批 官方登记核实 2026-10-29）",
+"hq": "未取（博茨瓦纳；+267 71 704 050）（第 123 批 官方登记核实 2026-10-29）",
+"size": "微型（推定）（第 123 批 官方登记核实 2026-10-29）",
+"other": "gmail；第 123 批：明确口型 1 光 4 工业 + 曾谈项目 → **最后一次一页纸（预付 100%）**；0 查（第 123 批 官方登记核实 2026-10-29）"
 },
 "channels": {
 "role": "网络工程 / 经销（推断）",
@@ -163151,8 +163168,8 @@
 "name": "extradigital.eu",
 "name_src": "domain",
 "names": [],
-"country": "欧洲（国别未填）",
-"iso": "EU",
+"country": "立陶宛",
+"iso": "LT",
 "region": "欧洲",
 "other_countries": [],
 "domains": [
@@ -163470,10 +163487,14 @@
 "kp": [
 {
 "name": "Austėja（EURODIGITAL）",
-"role": "来信署名人（职务未在邮件署名里出现）",
+"role": "来信署名人（研究档 KP）= 收件人 — 一页纸一次：分销 20% B、STC-028GP $28 / STC-228GP $33 / STC-2224GP $86 整箱一口价 + MOQ 1 + 付费样机；CE / RoHS / REACH；在售品牌不点名 — 欧盟常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP（买方清关）；周四 12–14 当地（第 123 批 官方登记核实 2026-10-29）",
 "email": "info@extradigital.eu",
 "phone": "",
 "source": "S/A 邮箱来信 2024-08-13 来信 3 封（第 72 批从邮件表头补）"
+},
+{
+"name": "Saulius Razlevičius",
+"role": "Vadovas / 董事（rekvi.lt 2026-10-29；无公开邮箱）（第 123 批 官方登记核实 2026-10-29）"
 }
 ],
 "grade_override": null,
@@ -163484,10 +163505,12 @@
 "level": "B 级加厚 v1（官网核对 · 国别补齐）"
 },
 "company_facts": {
-"legal_name": "EURODIGITAL, UAB",
+"legal_name": "UAB \"Eurodigital\"（Įmonės kodas 300638881；PVM LT100002890717；e-shop ExtraDigital）",
 "registry": "公司代码 300638881 · VAT LT100002890717（注册地址 Žemaičių g. 31, LT-44175 Kaunas）",
-"hq": "Savanorių pr. 235, Kaunas 50184, Lithuania（+370 671 30065）",
-"other": "品类：智能电子、安防/CCTV（Dahua 为主）、光伏、EV 充电；B2C+B2B 跨欧发货"
+"hq": "Žemaičių g. 31-301, LT-44175 Kaunas, Lithuania（+370 603 88188）（第 123 批 官方登记核实 2026-10-29）",
+"other": "品类：智能电子、安防/CCTV（Dahua 为主）、光伏、EV 充电；B2C+B2B 跨欧发货；第 123 批：表内「欧洲（国别未填）」→ country_fix 立陶宛；泛欧 Dahua 分销电商 → **分销 20% 一页纸一次（预付）**；坐实（登记码 + VAT + 成立日 + 地址 + 董事）（第 123 批 官方登记核实 2026-10-29）",
+"founded": "2007-01-29（第 123 批 官方登记核实 2026-10-29）",
+"size": "小型（Sodra 2026-04 员工 13）（第 123 批 官方登记核实 2026-10-29）"
 },
 "business_lines": [
 "泛欧电商（电子、安防、光伏、EV 充电）",
@@ -163566,8 +163589,10 @@
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
-}
-}
+},
+"country_fix": "立陶宛"
+},
+"country_table": "欧洲（国别未填）"
 },
 {
 "name": "intellisystem.it",
@@ -206642,7 +206667,8 @@
 "title": "General Manager",
 "email": "info@arcanlibya.com",
 "phone": "+218 91 366 2420",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "General Manager（研究档 KP；ISAF 2025 要价；WA 已加）= 收件人 — 一页纸一次 + 工业线价目：集成商 25% B、8 光 8 电工业 按主表 + STI-288DGGPM $137 / STI-488DGGPM $147 一口价 + MOQ 1 + 付费样机；FOB 深圳 买方货代 — 非洲常规：英文稿（法语区附法语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29）"
 }
 ],
 "grade_override": null,
@@ -206653,11 +206679,11 @@
 "level": "B 级加厚 v1（快照空页 + 表内）"
 },
 "company_facts": {
-"legal_name": "Arcan Libya（待核）",
-"founded": "",
-"hq": "Tripoli, Libya（+218 21 712 8108）",
-"size": "小型",
-"other": "ISAF 2025 展会线索"
+"legal_name": "Arcan Libya（1 查仅同名 ARKAN 干扰；未匹配）",
+"founded": "未取（第 123 批 官方登记核实 2026-10-29）",
+"hq": "未取（Tripoli, Libya；+218 21 712 8108）（第 123 批 官方登记核实 2026-10-29）",
+"size": "小型（推定）（第 123 批 官方登记核实 2026-10-29）",
+"other": "ISAF 2025 展会线索；第 123 批：展会主动要价 → **集成商 25% 一页纸一次 + 价目（预付 100%）**；未坐实（第 123 批 官方登记核实 2026-10-29）"
 },
 "business_lines": [
 "网络 / 安防集成（推断）"
@@ -208656,14 +208682,16 @@
 "title": "Technical Sales Representative",
 "email": "jabe@swl.co.nz",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Technical Sales Representative（研究档 KP）= 收件人 — 一页纸一次：分销 20% B、STC-028GP $28 / STC-228GP $33 / STC-2224GP $86 整箱一口价 + MOQ 1 + 付费样机；中性包装；在售品牌不点名 — 新西兰常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 奥克兰；周二 / 周四 09–11 NZST（第 123 批 官方登记核实 2026-10-29）"
 },
 {
 "name": "Andrew Jones",
 "title": "Managing Director",
 "email": "trade@swl.co.nz",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Managing Director / Key Principal（D&B + ZoomInfo 2026-10-29）（第 123 批 官方登记核实 2026-10-29）"
 }
 ],
 "grade_override": null,
@@ -208674,8 +208702,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "新西兰",
-"other": "官网 swl.co.nz，语言 en，快照状态 ok；角色判定来源：官网文案"
+"hq": "922 Great South Road, Penrose, Auckland 1061, New Zealand（基督城分部 4/91 Byron St）（第 123 批 官方登记核实 2026-10-29）",
+"other": "官网 swl.co.nz，语言 en，快照状态 ok；角色判定来源：官网文案；第 123 批：本土安防批发（Provision-ISR / Ajax / DSC；Utepo 在售）→ **分销 20% 一页纸一次（预付 100%）**；部分坐实（D&B 法定名 + 地址 + MD）（第 123 批 官方登记核实 2026-10-29）",
+"legal_name": "Security Wholesale 2001 Limited（DBA SWL；NZBN 1 查未得）",
+"founded": "2001（名称推定）（第 123 批 官方登记核实 2026-10-29）",
+"size": "小型（第 123 批 官方登记核实 2026-10-29）"
 },
 "business_lines": [
 "安防批发（CCTV / 报警 / 门禁）"
@@ -209605,14 +209636,16 @@
 "title": "Commercial Manager",
 "email": "matthew@viewtech.co.nz",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Commercial Manager（研究档 KP）= 收件人 — 一页纸一次：分销 20% B、STC-028GP $28 / STC-228GP $33 / STC-2224GP $86 一口价 + MOQ 1 + 付费样机；车载 / 宽温 STI-054GP；在售品牌不点名 — 新西兰常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 奥克兰；周二 / 周四 09–11 NZST（第 123 批 官方登记核实 2026-10-29）"
 },
 {
 "name": "Darren Jenkinson",
 "title": "Managing Director",
 "email": "",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Managing Director / Director（NZ Companies 镜像 + LinkedIn 2026-10-29）（第 123 批 官方登记核实 2026-10-29）"
 }
 ],
 "grade_override": null,
@@ -209623,8 +209656,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "新西兰",
-"other": "官网 viewtech.co.nz，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+"hq": "97 Wordsworth Street, Sydenham, Christchurch 8023, New Zealand（注册地 Unit 4, 211 Ferry Rd, Christchurch 8011）（第 123 批 官方登记核实 2026-10-29）",
+"other": "官网 viewtech.co.nz，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 123 批：CCTV 固定 + 车载 + 安防批发（Utepo / Dahua 在售）→ **分销 20% 一页纸一次（预付 100%）**；坐实（公司号 + NZBN + 成立日 + 董事）（第 123 批 官方登记核实 2026-10-29）",
+"legal_name": "VIEWTECH LIMITED（Company No. 1763634；NZBN 9429034325599；Registered）",
+"founded": "2006-02-01（第 123 批 官方登记核实 2026-10-29）",
+"size": "微型（2–10）（第 123 批 官方登记核实 2026-10-29）"
 },
 "business_lines": [
 "车辆与车队安全系统（设计 / 供应）",
@@ -214077,7 +214113,8 @@
 "title": "（表内联系人）",
 "email": "hichem.akchiche@retelem-dz.com",
 "phone": "+213 770 760 449",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "联系人（研究档 KP；WA 已加；2024 要工业交换机 datasheet、对 2 光 8 PoE 有兴趣）= 收件人 — 一页纸一次：集成商 25% B、STI-288DGGPM $137 L2 管理 / STI-288GPM $78.9 非管理 一口价 + MOQ 1 + 付费样机；关键基础设施按单核；法语备注 — 阿尔及利亚常规：英文稿（法语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（第 123 批 官方登记核实 2026-10-29）"
 }
 ],
 "grade_override": null,
@@ -214088,11 +214125,11 @@
 "level": "B 级加厚 v1（官网快照 + 集团/名录核对）"
 },
 "company_facts": {
-"legal_name": "EPE RETELEM SPA（ex-SONATITE）",
-"founded": "1971",
-"hq": "54 Rue Omar Benaissa, Bab El Oued, Alger, Algérie",
-"size": "国有中大型（14 分支）",
-"other": "ELEC EL DJAZAIR 控股；法语"
+"legal_name": "EPE RETELEM SPA（ex-SONATITE；ELEC EL DJAZAIR 控股；RC / NIF 1 查未得）",
+"founded": "1971（SONATITE）（第 123 批 官方登记核实 2026-10-29）",
+"hq": "54, Rue Omar Benaissa, Bab El Oued, Alger, Algeria（第 123 批 官方登记核实 2026-10-29）",
+"size": "中型（200–500）（第 123 批 官方登记核实 2026-10-29）",
+"other": "ELEC EL DJAZAIR 控股；法语；第 123 批：国企网络 / 光纤 / 数据中心 / SCADA 集成商 → **集成商 25% 一页纸一次（预付 100%）**；部分坐实（名录地址 + 人数）（第 123 批 官方登记核实 2026-10-29）"
 },
 "business_lines": [
 "LAN/WAN/Wi-Fi 与光纤传输",
@@ -215181,7 +215218,8 @@
 "title": "（表内联系人）",
 "email": "dtechnic02@gmail.com",
 "phone": "+977 986 863 1483",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "联系人（研究档 KP；WA 已加）= 收件人 — WA 一页纸一次：集成商 25% B、STI-054GP / STI-280GE $46.6 一口价 + MOQ 1；竞品不点名 — 尼泊尔常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方经加尔各答 / 空运清关）（第 123 批 官方登记核实 2026-10-29）"
 }
 ],
 "grade_override": null,
@@ -215192,11 +215230,11 @@
 "level": "无域名 · 仅表内信息"
 },
 "company_facts": {
-"legal_name": "DG Enterprises",
-"founded": "",
-"hq": "尼泊尔",
-"size": "小型",
-"other": "gmail"
+"legal_name": "DG Enterprises（0 查：gmail + 无域名）",
+"founded": "未取（第 123 批 官方登记核实 2026-10-29）",
+"hq": "未取（尼泊尔；+977 986 863 1483）（第 123 批 官方登记核实 2026-10-29）",
+"size": "微型（推定）（第 123 批 官方登记核实 2026-10-29）",
+"other": "gmail；第 123 批：明确口型 5 电口工业 → **WA 一页纸一次（预付 100%）**；0 查（第 123 批 官方登记核实 2026-10-29）"
 },
 "channels": {
 "role": "经销 / 工程（推断）",
@@ -215556,7 +215594,8 @@
 "title": "（表内联系人）",
 "email": "pchhatra02@gmail.com",
 "phone": "+977 985 284 9417",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "联系人（研究档 KP；WA 已加）= 收件人 — WA 一页纸一次：集成商 25% B、STI-288DGGPM $137 / STC-228GP $33 一口价 + MOQ 1；一句话问是否要 PoE — 尼泊尔常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方经加尔各答 / 空运清关）（第 123 批 官方登记核实 2026-10-29）"
 }
 ],
 "grade_override": null,
@@ -215567,11 +215606,11 @@
 "level": "无域名 · 仅表内信息"
 },
 "company_facts": {
-"legal_name": "Golden Hub Nepal Pvt. Ltd.",
-"founded": "",
-"hq": "尼泊尔",
-"size": "小型",
-"other": "gmail"
+"legal_name": "Golden Hub Nepal Pvt. Ltd.（0 查：gmail + 无域名）",
+"founded": "未取（第 123 批 官方登记核实 2026-10-29）",
+"hq": "未取（尼泊尔；+977 985 284 9417）（第 123 批 官方登记核实 2026-10-29）",
+"size": "微型（推定）（第 123 批 官方登记核实 2026-10-29）",
+"other": "gmail；第 123 批：明确口型 2 光 10 电 → **WA 一页纸一次（预付 100%）**；0 查（第 123 批 官方登记核实 2026-10-29）"
 },
 "channels": {
 "role": "网络经销 / ISP 配套（推断）",
@@ -217140,7 +217179,8 @@
 "title": "Manager",
 "email": "direction@max-protect.com",
 "phone": "+216 98 508 507",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "Manager（研究档 KP；$40 购 2 光 8 PoE 管理样品）= 收件人 — 一页纸一次：分销 20% B、问测试结果 + STC-228GP $33 / STC-028GP $28 整箱 10 台一口价 + MOQ 1；法语；在售品牌不点名 — 非洲常规：英文稿（法语区附法语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29）"
 }
 ],
 "grade_override": null,
@@ -217151,11 +217191,11 @@
 "level": "B 级加厚 v1（官网快照核对：已购样）"
 },
 "company_facts": {
-"legal_name": "Max Protect（待核）",
-"founded": "（待核）",
-"hq": "Tunisia（+216 72 = Nabeul/Bizerte 区）",
-"size": "小型安防分销 + 门店",
-"other": "已购 Saga 样品（$40）"
+"legal_name": "Max Protect（哈马马特；RNE 号 1 查未得）",
+"founded": "未取（第 123 批 官方登记核实 2026-10-29）",
+"hq": "Avenue Habib Bourguiba, 8050 Hammamet, Tunisia（第二店 Avenue Abou Dhabi, Route de Nabeul；72 324 111）（第 123 批 官方登记核实 2026-10-29）",
+"size": "微型（2 门店）（第 123 批 官方登记核实 2026-10-29）",
+"other": "已购 Saga 样品（$40）；第 123 批：安防零售 / 分销 / 安装（Dahua / Uniview / Imou / Ajax），样品已购 → **分销 20% 一页纸一次（预付 100%）**；部分坐实（官网门店地址）（第 123 批 官方登记核实 2026-10-29）"
 },
 "business_lines": [
 "视频监控 / 报警 / 消防探测分销与安装"
@@ -217579,7 +217619,7 @@
 "kp": [
 {
 "name": "Stephane Mbongou",
-"role": "（表内 Mr.）",
+"role": "联系人（研究档 KP；自称 Reseller；WA 已加）= 收件人 — 最后一次一页纸 + 商用线价目：分销 20% B、STC-2216GP $63–76 / STC-2224GP $86 一口价 + MOQ 1；12 光 L3 不供明说；法语 — 非洲常规：英文稿（法语区附法语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29）",
 "email": "omegatec3@gmail.com",
 "phone": "+237 6 53 28 33 01（WA 已加）",
 "source": "用户 Clients 表"
@@ -217593,11 +217633,11 @@
 "level": "无域名 · 仅表内信息"
 },
 "company_facts": {
-"legal_name": "待核",
-"founded": "待核",
-"hq": "待核",
-"size": "待核",
-"other": "+237 653 283 301（表内 237 532 83301）；法语区"
+"legal_name": "OMEGATEC SARL（0 查：gmail + 无域名）",
+"founded": "未取（第 123 批 官方登记核实 2026-10-29）",
+"hq": "未取（喀麦隆；+237 53 283 301）（第 123 批 官方登记核实 2026-10-29）",
+"size": "微型（推定）（第 123 批 官方登记核实 2026-10-29）",
+"other": "+237 653 283 301（表内 237 532 83301）；法语区；第 123 批：Reseller 要 16 口 PoE + 价格表、20×1 → **分销 20% 最后一次一页纸（预付 100%）**；0 查（第 123 批 官方登记核实 2026-10-29）"
 },
 "business_lines": [
 "待核（见表内需求）"
@@ -234579,7 +234619,8 @@
 "title": "Engineering",
 "email": "a.engineering@leamratech.com",
 "phone": "+968 7847 9046",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "工程部（研究档 KP；自站询盘 1 光 4 工业）= 收件人 — 一页纸一次：集成商 25% B、STI-154GP / STI-054GP 一口价 + MOQ 1 + 付费样机；百兆版不供明说 — 阿曼常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马斯喀特（第 123 批 官方登记核实 2026-10-29）"
 }
 ],
 "grade_override": null,
@@ -234590,11 +234631,11 @@
 "level": "B 级加厚 v1（官网快照 + 表内）"
 },
 "company_facts": {
-"legal_name": "Leamratech LLC（待核）",
-"founded": "",
-"hq": "Muscat, Oman",
-"size": "小型安防集成",
-"other": ""
+"legal_name": "GLOBAL SECURITY TECHNOLOGY LLC（品牌 Leamratech；CR 号 1 查未得）",
+"founded": "未取（第 123 批 官方登记核实 2026-10-29）",
+"hq": "Flat 609–606, 6th Floor, Business Center Building, Al Khuwair, 3341 Way, Muscat, Oman（+968 2448 0700）（第 123 批 官方登记核实 2026-10-29）",
+"size": "小型（第 123 批 官方登记核实 2026-10-29）",
+"other": "第 123 批：安防 / 生物识别 / LED 显示集成 → **集成商 25% 一页纸一次（预付 100%）**；部分坐实（官网法定名 + 地址）（第 123 批 官方登记核实 2026-10-29）"
 },
 "business_lines": [
 "CCTV / 安防 / 自动化集成"
@@ -267794,7 +267835,7 @@
 "kp": [
 {
 "name": "Seydou Jah",
-"role": "（用户表）",
+"role": "联系人（研究档 KP；2019 SFP 样品成单）= 收件人 — 回访一页纸一次：集成商 25% B、STC-110XGE $65 + STC-228GP $33 / STC-028GP $28 一口价 + MOQ 1；SFP 不供明说；法语 — 非洲常规：英文稿（法语区附法语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29）",
 "email": "bigbocar@hotmail.com（用户表）",
 "phone": "—",
 "source": "（本地 Clients/ 表格，无公开 URL）"
@@ -267808,10 +267849,11 @@
 "level": "无域名 · 仅表内信息"
 },
 "company_facts": {
-"legal_name": "Groupe Penda Telecoms（待核）",
-"hq": "Senegal（待核）",
-"size": "待核",
-"other": "自有货代；Hotmail"
+"legal_name": "Groupe Penda Telecoms（0 查：hotmail + 无域名）",
+"hq": "未取（塞内加尔）（第 123 批 官方登记核实 2026-10-29）",
+"size": "微型（推定）（第 123 批 官方登记核实 2026-10-29）",
+"other": "自有货代；Hotmail；第 123 批：样品成单客户（有自己的货代）→ **回访一页纸一次（预付 100%）**；0 查（第 123 批 官方登记核实 2026-10-29）",
+"founded": "未取（第 123 批 官方登记核实 2026-10-29）"
 },
 "business_lines": [
 "电信/网络设备贸易（推测）"
@@ -274074,7 +274116,8 @@
 "title": "Project Manager",
 "email": "projects@keme-tec.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Project Manager（研究档 KP；阿里 RFQ 24 口管理）= 收件人 — 一页纸一次：集成商 25% B、STC-4424GCPM $165 24 PoE + 4 SFP L2+ / 24 GE 非 PoE 管理版 按主表 一口价 + MOQ 1 + 付费样机；一句话问是否要 PoE — 约旦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 安曼（第 123 批 官方登记核实 2026-10-29）"
 }
 ],
 "grade_override": null,
@@ -274085,8 +274128,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "约旦",
-"other": "官网 keme-tec.com，语言 ?，快照状态 http_error；角色判定来源：待核"
+"hq": "Al-Hizam Street, Abu Alanda, Amman, Jordan（+962 6 475 3322）（第 123 批 官方登记核实 2026-10-29）",
+"other": "官网 keme-tec.com，语言 ?，快照状态 http_error；角色判定来源：待核；第 123 批：工业自动化 / 机电供应商 RFQ → **集成商 25% 一页纸一次（预付 100%）**；部分坐实（官网成立年 + 地址）（第 123 批 官方登记核实 2026-10-29）",
+"legal_name": "Khaleel Electro Mechanical Est.（KEME-TEC；مؤسسة خليل قطناني للكهروميكانيك；登记号 1 查未得）",
+"founded": "2008（第 123 批 官方登记核实 2026-10-29）",
+"size": "小型（第 123 批 官方登记核实 2026-10-29）"
 },
 "business_lines": [
 "项目集成（约旦）"
@@ -279857,7 +279903,7 @@
 "kp": [
 {
 "name": "Bogdan（Medvedev，按邮箱推断）",
-"role": "（MIPS 名片）",
+"role": "MIPS 名片（研究档 KP；WA 已加；问过工业 FS / SFP）= 收件人 — 最后一次一页纸：集成商 25% B、STI-280GE $46.6 / STI-288GPM $78.9 / STI-288DGGPM $137 一口价 + MOQ 1；SFP 不供明说；俄语备注 — 吉尔吉斯斯坦常规：英文稿（俄语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 比什凯克（第 123 批 官方登记核实 2026-10-29）",
 "email": "b.medvedev11@mail.ru（用户表）",
 "phone": "+996 555 772 975（用户表）",
 "source": "（本地 Clients/ 表格，无公开 URL）"
@@ -279871,10 +279917,11 @@
 "level": "无域名 · 仅表内信息（国家待核 KG）"
 },
 "company_facts": {
-"legal_name": "（公司待核）",
-"hq": "Kyrgyzstan（按 +996 推断；待核）",
-"size": "待核",
-"other": "mail.ru；WA 已加；23 次推送无回复"
+"legal_name": "未取（0 查：mail.ru + 无公司）",
+"hq": "未取（吉尔吉斯斯坦；+996 555 772 975）（第 123 批 官方登记核实 2026-10-29）",
+"size": "个人（第 123 批 官方登记核实 2026-10-29）",
+"other": "mail.ru；WA 已加；23 次推送无回复；第 123 批：展会名片、23×0 → **最后一次一页纸（预付 100%）**；0 查（第 123 批 官方登记核实 2026-10-29）",
+"founded": "未取（第 123 批 官方登记核实 2026-10-29）"
 },
 "business_lines": [
 "（待核）网络/安防贸易"
@@ -287770,8 +287817,8 @@
 "name": "Ernesto Guevara",
 "name_src": "person",
 "names": [],
-"country": "厄瓜多尔",
-"iso": "EC",
+"country": "尼加拉瓜",
+"iso": "NI",
 "region": "拉美",
 "other_countries": [],
 "domains": [],
@@ -288094,7 +288141,7 @@
 "kp": [
 {
 "name": "Ernesto Guevara",
-"role": "（个人）",
+"role": "WA 联系人（无邮箱 / 公司；号段 +505 = 尼加拉瓜）— 不动：需求 GPON + 路由器（不供）+ 18×1 （第 123 批 官方登记核实 2026-10-29）",
 "email": "",
 "phone": "+505 7778 9314（WA 已加）",
 "source": "用户 Clients 表"
@@ -288108,11 +288155,11 @@
 "level": "无域名 · 仅表内信息"
 },
 "company_facts": {
-"legal_name": "待核",
-"founded": "待核",
-"hq": "待核",
-"size": "待核",
-"other": "+505 7778 9314（尼加拉瓜号段）；无邮箱"
+"legal_name": "未取（0 查：无邮箱 / 公司）",
+"founded": "未取（第 123 批 官方登记核实 2026-10-29）",
+"hq": "未取（按号段 +505 为尼加拉瓜；表内厄瓜多尔疑误）（第 123 批 官方登记核实 2026-10-29）",
+"size": "个人（第 123 批 官方登记核实 2026-10-29）",
+"other": "+505 7778 9314（尼加拉瓜号段）；无邮箱；第 123 批：表内国别厄瓜多尔 ↔ 电话 +505 尼加拉瓜号段 → country_fix 尼加拉瓜（Simon 可回正）；**不动（产品不对位）**；0 查（第 123 批 官方登记核实 2026-10-29）"
 },
 "business_lines": [
 "待核（见表内需求）"
@@ -288176,8 +288223,10 @@
 ],
 "draft_en": null,
 "as_of": "2026-10-24"
-}
-}
+},
+"country_fix": "尼加拉瓜"
+},
+"country_table": "厄瓜多尔"
 },
 {
 "name": "Info Systems Lahore",
@@ -293762,7 +293811,8 @@
 "title": "（职务待核）",
 "email": "majdi@dss-kuwait.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "表内联系人（研究档 KP）= 收件人 — 一页纸一次：集成商 25% B、STI-288DGGPM $137 / STI-288GPM $78.9 工业 2 光 8 PoE + STC-2224GP $86 一口价 + MOQ 1 + 付费样机；在用品牌不点名 — 科威特常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 科威特城（第 123 批 官方登记核实 2026-10-29）"
 },
 {
 "name": "Dalal Jadallah",
@@ -293794,8 +293844,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "科威特",
-"other": "官网 dss-kuwait.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
+"hq": "1st Floor, Office 15, Ahmad Al Jaber Street, Sharq, P.O. Box 631, Dasman 15457, Kuwait City, Kuwait（+965 2220 0023）（第 123 批 官方登记核实 2026-10-29）",
+"other": "官网 dss-kuwait.com，语言 ?，快照状态 ok；角色判定来源：官网文案；第 123 批：安防 SI（Sensormatic / DSC / Software House 代理；ONV 工业 FS 在用）→ **集成商 25% 一页纸一次（预付 100%）**；15×0；部分坐实（官网地址 + 伙伴页）（第 123 批 官方登记核实 2026-10-29）",
+"legal_name": "Digital Security Systems Est.（DSS；CR 号 1 查未得）",
+"founded": "未取（第 123 批 官方登记核实 2026-10-29）",
+"size": "中小型（第 123 批 官方登记核实 2026-10-29）"
 },
 "business_lines": [
 "安防 / 智能系统集成与运维（科威特）"
@@ -306667,8 +306720,8 @@
 "name": "womaster.eu",
 "name_src": "domain",
 "names": [],
-"country": "欧洲（国别未填）",
-"iso": "EU",
+"country": "西班牙",
+"iso": "ES",
 "region": "欧洲",
 "other_countries": [],
 "domains": [
@@ -306983,7 +307036,8 @@
 "title": "",
 "email": "info@womaster.eu",
 "phone": "",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "欧洲站公共箱（未具名）— 最后一次一页纸：贴标 OEM 30% B、STI-288DGGPM $137 / STI-0240GE $130 贴标补 SKU + 贴标 MOQ + 付费样机；1U 机架工业 / 串口服务器不供明说 — 欧盟常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP（买方清关）；周四 12–14 当地（第 123 批 官方登记核实 2026-10-29）"
 }
 ],
 "grade_override": null,
@@ -306994,11 +307048,11 @@
 "level": "B 级加厚 v1（官网快照核对 + 表内）"
 },
 "company_facts": {
-"legal_name": "WoMaster Technologies Co., Ltd.",
-"founded": "（待核）",
-"hq": "台北（欧洲站）",
-"size": "中小型台系品牌",
-"other": "台湾厂商口径（OEM 买方）"
+"legal_name": "WoMaster Europe（WoMaster Group 欧洲总部；集团 QNAP / HMS / HolyStone 合资；ES / TW 登记号 1 查未得）",
+"founded": "未取（集团 20+ 年）（第 123 批 官方登记核实 2026-10-29）",
+"hq": "Barcelona, Spain（欧洲总部；业务总部 New Taipei）（第 123 批 官方登记核实 2026-10-29）",
+"size": "中型（集团；自有 EMS）（第 123 批 官方登记核实 2026-10-29）",
+"other": "台湾厂商口径（OEM 买方）；第 123 批：表内「欧洲」→ country_fix 西班牙；同行品牌 + 自有工厂，表内「自己的 logo」→ **贴标 OEM 30% 最后一次一页纸（预付）**；16×0；部分坐实（官网总部 + 集团背景）（第 123 批 官方登记核实 2026-10-29）"
 },
 "business_lines": [
 "工业交换机 / PoE / 无线 / 路由（自有品牌）"
@@ -307068,8 +307122,10 @@
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
-}
-}
+},
+"country_fix": "西班牙"
+},
+"country_table": "欧洲（国别未填）"
 },
 {
 "name": "zoomlinenetwork.com",
@@ -308528,7 +308584,8 @@
 "title": "（表内联系人）",
 "email": "manjala@voiptech.co.mz",
 "phone": "",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "Chief Technology Officer（LinkedIn + PeeringDB 2026-10-29；研究档 KP）= 收件人 — 一页纸一次：集成商 25% B、STC-228GP $33 / STI-288DGGPM $137 / STC-4424GCPM $165 一口价 + MOQ 1 + 付费样机；光模块不供明说；葡语备注 — 非洲常规：英文稿（法语区附法语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29）"
 }
 ],
 "grade_override": null,
@@ -308539,11 +308596,11 @@
 "level": "B 级加厚 v1（快照 HTTP 错误 + 表内）"
 },
 "company_facts": {
-"legal_name": "（待核）",
-"founded": "",
-"hq": "Mozambique",
-"size": "小型",
-"other": ""
+"legal_name": "VOIPTECH LIMITADA（Latitude / Conecte Internet e Soluções；AS328223；NUIT 1 查未得）",
+"founded": "未取（第 123 批 官方登记核实 2026-10-29）",
+"hq": "Av. Ho Chi Minh nº 677, 1º andar, Maputo, Mozambique（第 123 批 官方登记核实 2026-10-29）",
+"size": "小型（第 123 批 官方登记核实 2026-10-29）",
+"other": "第 123 批：ISP（5–10 Gbps，MOZIX 对等）询盘 2 SFP 交换机 → **集成商 25% 一页纸一次（预付 100%）**；部分坐实（PeeringDB 法定名 + 地址 + ASN + KP 职务）（第 123 批 官方登记核实 2026-10-29）"
 },
 "channels": {
 "role": "VoIP / 网络服务商",
@@ -313277,7 +313334,7 @@
 "kp": [
 {
 "name": "Paul Nsavyumwami",
-"role": "（表内联系人）",
+"role": "联系人（研究档 KP；WA 已加；两次要价 + 曾要合同）= 收件人 — 一页纸一次 + PI：集成商 25% B、STI-288DGGPM $137 / STC-228GP $33 一口价 + MOQ 1；2.5G / 10G 等 SB-263 口径不报 — 非洲常规：英文稿（法语区附法语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29）",
 "email": "nsavyumwamip@gmail.com",
 "phone": "+257 71 736 181（WA 已加）",
 "source": "用户 Clients 表"
@@ -313291,11 +313348,11 @@
 "level": "无域名 · 仅表内信息"
 },
 "company_facts": {
-"legal_name": "待核",
-"founded": "待核",
-"hq": "待核",
-"size": "待核",
-"other": "+257 71 736 181；无公司名"
+"legal_name": "未取（0 查：gmail + 无公司）",
+"founded": "未取（第 123 批 官方登记核实 2026-10-29）",
+"hq": "未取（布隆迪；+257 71 736 181）（第 123 批 官方登记核实 2026-10-29）",
+"size": "个人 / 微型（第 123 批 官方登记核实 2026-10-29）",
+"other": "+257 71 736 181；无公司名；第 123 批：两次要价 → **一页纸一次 + PI（预付 100%）**；0 查（第 123 批 官方登记核实 2026-10-29）"
 },
 "business_lines": [
 "待核（见表内需求）"
@@ -334044,7 +334101,8 @@
 "title": "（表内联系人）",
 "email": "kyawam@hotmail.com",
 "phone": "+95 979 311 4588",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "联系人（研究档 KP；WA 已加）— 不动：婉拒「暂时没需求」+ 19×0 — 亚洲常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29）"
 }
 ],
 "grade_override": null,
@@ -334055,11 +334113,11 @@
 "level": "无域名 · 仅表内信息"
 },
 "company_facts": {
-"legal_name": "T3K Technology Co., Ltd.",
-"founded": "",
-"hq": "缅甸",
-"size": "小型",
-"other": "hotmail"
+"legal_name": "T3K Technology Co., Ltd.（0 查：hotmail + 无域名）",
+"founded": "未取（第 123 批 官方登记核实 2026-10-29）",
+"hq": "未取（缅甸；+95 97 931 14588）（第 123 批 官方登记核实 2026-10-29）",
+"size": "微型（推定）（第 123 批 官方登记核实 2026-10-29）",
+"other": "hotmail；第 123 批：**不动（婉拒 + 19×0）**；0 查（第 123 批 官方登记核实 2026-10-29）"
 },
 "channels": {
 "role": "IT / 网络（推断）",
@@ -348444,7 +348502,8 @@
 "title": "（阿里巴巴询盘联系人）",
 "email": "mamun@mkseoman.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "联系人（研究档 KP；阿里询盘导轨式 PoE 管理 / 非管理）= 收件人 — 一页纸一次：集成商 25% B、STI-288DGGPM $137 管理 + STI-288GPM $78.9 非管理 + STI-054GP 一口价 + MOQ 1 + 付费样机 — 阿曼常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马斯喀特（第 123 批 官方登记核实 2026-10-29）"
 }
 ],
 "grade_override": null,
@@ -348455,8 +348514,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "阿曼",
-"other": "官网 tiscontrol.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+"hq": "未取（Muscat, Oman）（第 123 批 官方登记核实 2026-10-29）",
+"other": "官网 tiscontrol.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 123 批：智能家居 / 弱电品牌经销（2026-04 仍在招聘）→ **集成商 25% 一页纸一次（预付 100%）**；未坐实（第 123 批 官方登记核实 2026-10-29）",
+"legal_name": "TIS Control Oman（mkseoman.com；地址 / CR 1 查未得）",
+"founded": "未取（第 123 批 官方登记核实 2026-10-29）",
+"size": "小型（第 123 批 官方登记核实 2026-10-29）"
 },
 "business_lines": [
 "智能家居 / 酒店自动化产品（自有品牌）"
@@ -385948,7 +386010,8 @@
 "title": "Owner",
 "email": "motaz@smartsystems.jo",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Owner（prospeo 2026-10-29 吻合；研究档 KP）= 收件人 — 一页纸一次：分销 20% B、STC-4424GCPM $165 / STC-424XGGPM-280W $198 / STC-448XGGPM $335 一口价 + MOQ 1 + 付费样机；在供品牌不点名 — 约旦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 安曼（第 123 批 官方登记核实 2026-10-29）"
 }
 ],
 "grade_override": null,
@@ -385959,8 +386022,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "约旦",
-"other": "官网 smartsystems.jo，语言 ?，快照状态 http_error；角色判定来源：待核"
+"hq": "Jawhara Halima Complex, 6 Wasfi Al Tal Street (Gardens), Amman, Jordan（+962 6 562 7771）（第 123 批 官方登记核实 2026-10-29）",
+"other": "官网 smartsystems.jo，语言 ?，快照状态 http_error；角色判定来源：待核；第 123 批：电脑门店 + 网络集成（BDCOM 在供，大口交换机常购）→ **分销 20% 一页纸一次（预付 100%）**；部分坐实（名录成立年 + 地址 + Owner）（第 123 批 官方登记核实 2026-10-29）",
+"legal_name": "Smart Systems For Computers（شركة الأنظمة الذكية；登记号 1 查未得）",
+"founded": "1991（第 123 批 官方登记核实 2026-10-29）",
+"size": "小型（16–25）（第 123 批 官方登记核实 2026-10-29）"
 },
 "business_lines": [
 "网络集成 / 分销（约旦）"
@@ -431066,7 +431132,8 @@
 "title": "（职务待核）",
 "email": "akalooshad@skipod.lk",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "联系人（研究档 KP；2026 阿里 RFQ 10 × 8 电口 设备内嵌）= 收件人 — 一页纸一次：贴标 OEM 30% B、STI-280GE $46.6 工业 8 GE / 商用 8 GE 按主表 ×10 一口价 + 中性 / 贴标 + 付费样机 + 3 年工业保修 — 亚洲常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29）"
 }
 ],
 "grade_override": null,
@@ -431077,8 +431144,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "斯里兰卡",
-"other": "官网 skipod.lk，语言 en，快照状态 ok；角色判定来源：待核"
+"hq": "Mirigama Export Processing Zone, Sri Lanka（注册办公 215 R A De Mel Mawatha, Colombo 00300）（第 123 批 官方登记核实 2026-10-29）",
+"other": "官网 skipod.lk，语言 en，快照状态 ok；角色判定来源：待核；第 123 批：运动模拟器制造商（设备内嵌交换机）→ **贴标 OEM 30% 一页纸一次（预付 100%）**；部分坐实（BOI 报道 + 注册办公地址）（第 123 批 官方登记核实 2026-10-29）",
+"legal_name": "Skipod Manufacture Pvt Ltd（BOI Section 17；母公司纽约 SkiPod / Continam Group；ROC 号 1 查未得）",
+"founded": "未取（2025 建厂）（第 123 批 官方登记核实 2026-10-29）",
+"size": "小型（新厂）（第 123 批 官方登记核实 2026-10-29）"
 },
 "business_lines": [
 "混合现实滑雪模拟器制造（斯里兰卡）"
@@ -432630,7 +432700,8 @@
 "title": "（职务待核）",
 "email": "javier.zuniga@blueskill.co",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Gerencia General（官网 2026-10-29 吻合；研究档 KP；阿里询盘 2 光 4 PoE ×5）= 收件人 — 一页纸一次：集成商 25% B、STI-244DGGPM $121 ×5 / STI-154GP 一口价 + MOQ 1 + 付费样机；西语备注 — 拉美常规：英文稿（西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29）"
 }
 ],
 "grade_override": null,
@@ -432641,8 +432712,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "哥伦比亚",
-"other": "官网 blueskill.co，语言 es，快照状态 ok；角色判定来源：官网文案"
+"hq": "Calle 2 # 22-175, Oficina 303, Centro Comercial Alfaguara, Jamundí, Valle del Cauca, Colombia（(2) 592 4547）（第 123 批 官方登记核实 2026-10-29）",
+"other": "官网 blueskill.co，语言 es，快照状态 ok；角色判定来源：官网文案；第 123 批：总经理本人询盘 → **集成商 25% 一页纸一次（预付 100%）**；坐实（NIT + 法律形式 + 地址 + 总经理）（第 123 批 官方登记核实 2026-10-29）",
+"legal_name": "BLUE SKILL S.A.S.（原 Blue Skill Ltda.；NIT 805017291-1；MICRO）",
+"founded": "未取（第 123 批 官方登记核实 2026-10-29）",
+"size": "微型（MICRO）（第 123 批 官方登记核实 2026-10-29）"
 },
 "business_lines": [
 "安防 / 智能技术方案（哥伦比亚）"
@@ -437234,7 +437308,8 @@
 "title": "Product Marketer",
 "email": "ventasweb@socraonline.com",
 "phone": "",
-"source": "用户表"
+"source": "用户表",
+"role": "Product Marketer（研究档 KP；阿里询盘百兆 MC）= 收件人 — 一页纸一次：分销 20% B、STC-110XGE $65 + STI-280GE $46.6 / STI-288DGGPM $137 一口价 + MOQ 1；百兆 MC 不供明说；西语备注 — 拉美常规：英文稿（西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29）"
 }
 ],
 "grade_override": null,
@@ -437245,8 +437320,11 @@
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
 },
 "company_facts": {
-"hq": "智利",
-"other": "官网 socraonline.com，语言 es，快照状态 ok；角色判定来源：官网文案"
+"hq": "Av. Las Condes 6770, Oficina 202, Las Condes, Santiago 7560759, Chile（+56 2 2249 7726）（第 123 批 官方登记核实 2026-10-29）",
+"other": "官网 socraonline.com，语言 es，快照状态 ok；角色判定来源：官网文案；第 123 批：矿业工业品分销商 → **分销 20% 一页纸一次（预付 100%）**；部分坐实（官网地址 + 电话）（第 123 批 官方登记核实 2026-10-29）",
+"legal_name": "Socra SpA（RUT 1 查未得）",
+"founded": "未取（第 123 批 官方登记核实 2026-10-29）",
+"size": "微型（第 123 批 官方登记核实 2026-10-29）"
 },
 "business_lines": [
 "矿业工业品供应（自动化 / 电气 / 线缆 / 传感器）"
@@ -454524,7 +454602,8 @@
 "title": "（负责人）",
 "email": "issa.hamadou@3sti-technologies.com",
 "phone": "+227 90 70 70 77",
-"source": "（本地 Clients/ 表格，无公开 URL）"
+"source": "（本地 Clients/ 表格，无公开 URL）",
+"role": "联系人（研究档 KP）— 不动：需求升压 PoE（不供）+ 模板站 — 非洲常规：英文稿（法语区附法语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29）"
 }
 ],
 "grade_override": null,
@@ -454535,11 +454614,11 @@
 "level": "B 级加厚 v1（快照模板页 + 表内）"
 },
 "company_facts": {
-"legal_name": "3STI Technologies（待核）",
-"founded": "",
-"hq": "Niamey, Niger",
-"size": "小型",
-"other": "官网未建成"
+"legal_name": "3STI Technologies（0 查：模板站 + 无公开资料）",
+"founded": "未取（第 123 批 官方登记核实 2026-10-29）",
+"hq": "未取（尼亚美；+227 90 70 70 77）（第 123 批 官方登记核实 2026-10-29）",
+"size": "微型（推定）（第 123 批 官方登记核实 2026-10-29）",
+"other": "官网未建成；第 123 批：**不动（产品不对位 + 查无实体）**；0 查（第 123 批 官方登记核实 2026-10-29）"
 },
 "channels": {
 "role": "IT 服务 / 经销（推断）",

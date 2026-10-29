@@ -25,7 +25,7 @@ price_tier: 25%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 3
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -83,6 +83,19 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 123 批（JO · 1 次检索：jordanyp.com/company/356802（Smart Systems For Computers；established 1991；Jawhara Halima Complex, 6 Wasfi Al Tal St, Amman；+962-6-5627771；16-25）+ prospeo.io/c/smart-systems（Motaz Alsharif Owner）+ jordanict.com；登记号未得；2026-10-29，2026-10-29 查；https://www.jordanyp.com/company/356802/Smart_Systems）：**
+
+- 法定名 / 登记号：Smart Systems For Computers（شركة الأنظمة الذكية；smartsystems.jo；**jordanyp：1991 年成立；Jawhara Halima Complex, 6 Wasfi Al Tal St (Gardens), Amman；+962 6 562 7771；16–25 人；prospeo：Owner Motaz Alsharif（= 表内 KP ✓）；电脑 / 配件门店 + 网络**）；登记号 1 查未得 → 部分坐实；表内「大口 FS / BDCOM / switch」；未跟进 · 未取（商业登记号 1 查未得） · 状态 **营业中（名录 + 官网）** · 成立 1991 · L.L.C.（推定）
+- 行业码 / 经营范围：电脑 / 网络设备零售与集成（安曼）
+- 注册地址：Jawhara Halima Complex, 6 Wasfi Al Tal Street (Gardens), Amman, Jordan
+- 规模档：小型（16–25）
+- 账目：未取；—
+- 高管：Motaz Alsharif — Owner（prospeo 2026-10-29 吻合；研究档 KP；motaz@smartsystems.jo）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **门店 + 集成、大口交换机常购（BDCOM 在供）→ 分销 20% B，一页纸一次（STC-4424GCPM $165 / STC-424XGGPM-280W $198 / STC-448XGGPM $335 一口价 + MOQ 1 + 付费样机；在供品牌不点名）— 约旦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 安曼（买方清关；JSMO 不声称）**；再无回声 → 不动
+- 备注：分销 20%；一页纸一次（预付 100%）；部分坐实（名录成立年 + 地址 + Owner）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -120,15 +133,17 @@ updated: 2026-10-28
 - **【用户表】大口 FS BDCOM**
   > 大口FS / 大口FS BDCOM / switch
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Motaz Alsharif（）motaz@smartsystems.jo 〔用户表〕
+- **KP**：Motaz Alsharif（Owner（prospeo 2026-10-29 吻合；研究档 KP）= 收件人 — 一页纸一次：分销 20% B、STC-4424GCPM $165 / STC-424XGGPM-280W $198 / STC-448XGGPM $335 一口价 + MOQ 1 + 付费样机；在供品牌不点名 — 约旦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 安曼（第 123 批 官方登记核实 2026-10-29））motaz@smartsystems.jo 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 约旦 |
-| 其他 | 官网 smartsystems.jo，语言 ?，快照状态 http_error；角色判定来源：待核 |
+| 法定名称 | Smart Systems For Computers（شركة الأنظمة الذكية；登记号 1 查未得） |
+| 成立 | 1991（第 123 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Jawhara Halima Complex, 6 Wasfi Al Tal Street (Gardens), Amman, Jordan（+962 6 562 7771）（第 123 批 官方登记核实 2026-10-29） |
+| 其他 | 官网 smartsystems.jo，语言 ?，快照状态 http_error；角色判定来源：待核；第 123 批：电脑门店 + 网络集成（BDCOM 在供，大口交换机常购）→ **分销 20% 一页纸一次（预付 100%）**；部分坐实（名录成立年 + 地址 + Owner）（第 123 批 官方登记核实 2026-10-29） |
 
 - **业务线**：网络集成 / 分销（约旦）
 - **触达通道（公开）**：role: 网络集成/分销商（约旦，BDCOM 在供）；region: 约旦；contact: info@smartsystems.jo、motaz@smartsystems.jo
@@ -206,7 +221,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Motaz Alsharif | — | motaz@smartsystems.jo | 调研核实（公开页） | 用户表 |
+| Motaz Alsharif | Owner（prospeo 2026-10-29 吻合；研究档 KP）= 收件人 — 一页纸一次：分销 20% B、STC-4424GCPM $165 / STC-424XGGPM-280W $198 / STC-448XGGPM $335 一口价 + MOQ 1 + 付费样机；在供品牌不点名 — 约旦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 安曼（第 123 批 官方登记核实 2026-10-29） | motaz@smartsystems.jo | 调研核实（公开页） | 用户表 |
 | BDCOM | — | info@smartsystems.jo / motaz@smartsystems.jo | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：企业邮箱可直发
@@ -305,12 +320,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

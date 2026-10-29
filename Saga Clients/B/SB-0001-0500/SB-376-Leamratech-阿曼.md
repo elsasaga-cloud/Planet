@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -73,6 +73,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 123 批（OM · 1 次检索：leamratech.com（GLOBAL SECURITY TECHNOLOGY LLC；Flat 609 -606, 6th floor Business center building Al Khuwair, Muscat；24480700）+ leamratech.com/contact-us（info@leamratech.com）+ cybo（support@；9413 2835）；CR 未得；2026-10-29，2026-10-29 查；https://leamratech.com/）：**
+
+- 法定名 / 登记号：GLOBAL SECURITY TECHNOLOGY LLC（品牌 Leamratech；leamratech.com；**官网：Flat 609–606, 6th floor, Business Center Building, Al Khuwair, 3341 Way, Muscat；+968 2448 0700；info@ / support@；生物识别 / CCTV / LED 大屏（住房部项目）**）；CR 号 1 查未得 → 部分坐实；自建站询盘「工业百兆 1 光 4」（百兆不供 → 千兆对位）；KP Ahmar（工程部）；WA 无实质回复 · 未取（CR 号 1 查未得） · 状态 **营业中（官网 2026）** · 成立 未取 · LLC
+- 行业码 / 经营范围：安防 / 生物识别 / LED 显示集成（马斯喀特）
+- 注册地址：Flat 609–606, 6th Floor, Business Center Building, Al Khuwair, 3341 Way, Muscat, Oman
+- 规模档：小型
+- 账目：未取；—
+- 高管：Ahmar — 工程部（研究档 KP；a.engineering@leamratech.com）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自站询盘 1 光 4 工业 → 集成商 25% B，一页纸一次（STI-154GP 1 SFP + 1 GE + 4 PoE / STI-054GP 一口价 + MOQ 1 + 付费样机；百兆版不供明说）— 阿曼常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马斯喀特（买方清关；TRA 不声称）**；再无回声 → 不动
+- 备注：集成商 25%；一页纸一次（预付 100%）；部分坐实（官网法定名 + 地址；CR 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -98,15 +111,17 @@ updated: 2026-10-28
 - **【用户表】询盘统计表来源，无兴趣描述**
   > （空）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Ahmar（）a.engineering@leamratech.com +968 7847 9046〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Ahmar（工程部（研究档 KP；自站询盘 1 光 4 工业）= 收件人 — 一页纸一次：集成商 25% B、STI-154GP / STI-054GP 一口价 + MOQ 1 + 付费样机；百兆版不供明说 — 阿曼常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马斯喀特（第 123 批 官方登记核实 2026-10-29））a.engineering@leamratech.com +968 7847 9046〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Leamratech LLC（待核） |
-| 总部/地址 | Muscat, Oman |
+| 法定名称 | GLOBAL SECURITY TECHNOLOGY LLC（品牌 Leamratech；CR 号 1 查未得） |
+| 成立 | 未取（第 123 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Flat 609–606, 6th Floor, Business Center Building, Al Khuwair, 3341 Way, Muscat, Oman（+968 2448 0700）（第 123 批 官方登记核实 2026-10-29） |
+| 其他 | 第 123 批：安防 / 生物识别 / LED 显示集成 → **集成商 25% 一页纸一次（预付 100%）**；部分坐实（官网法定名 + 地址）（第 123 批 官方登记核实 2026-10-29） |
 
 - **业务线**：CCTV / 安防 / 自动化集成
 - **触达通道（公开）**：role: 安防集成商；region: 阿曼
@@ -164,7 +179,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ahmar | — | a.engineering@leamratech.com / +968 7847 9046 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Ahmar | 工程部（研究档 KP；自站询盘 1 光 4 工业）= 收件人 — 一页纸一次：集成商 25% B、STI-154GP / STI-054GP 一口价 + MOQ 1 + 付费样机；百兆版不供明说 — 阿曼常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马斯喀特（第 123 批 官方登记核实 2026-10-29） | a.engineering@leamratech.com / +968 7847 9046 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 
@@ -257,12 +272,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 43）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 43）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

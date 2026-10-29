@@ -86,6 +86,19 @@ updated: 2026-10-29
 
 - 法定假日：11-20 National Day；11-21 National Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 123 批（OM · 1 次检索：om.indeed.com（Smart Home Engineer — TIS Control Oman, Muscat；hr@mkseoman.com；2026-04-11）；地址 / CR 未得；2026-10-29，2026-10-29 查；https://om.indeed.com/q-smart-technologies-jobs.html）：**
+
+- 法定名 / 登记号：TIS Control Oman（mkseoman.com / tiscontrol.com；**1 查仅 indeed 招聘（2026-04，hr@mkseoman.com，Muscat，智能家居 / 弱电）→ 未坐实（地址 / CR 未得）**）；智能家居 / 酒店自动化品牌经销体系；阿里询盘「导轨式 PoE 管理 / 非管理」；KP Mamunur Rashid；1 次跟进无回复 · 未取（1 查无地址 / CR） · 状态 **营业中（2026-04 招聘）** · 成立 未取 · LLC（推定）
+- 行业码 / 经营范围：智能家居 / 弱电（马斯喀特）
+- 注册地址：未取（Muscat, Oman）
+- 规模档：小型
+- 账目：未取；—
+- 高管：Mamunur Rashid — 联系人（研究档 KP；mamun@mkseoman.com）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **阿里询盘导轨式 PoE 管理 / 非管理 → 集成商 25% B，一页纸一次（STI-288DGGPM $137 管理 + STI-288GPM $78.9 非管理 + STI-054GP 一口价 + MOQ 1 + 付费样机）— 阿曼常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马斯喀特（买方清关；TRA 不声称）**；再无回声 → 不动
+- 备注：集成商 25%；一页纸一次（预付 100%）；未坐实。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -118,15 +131,17 @@ updated: 2026-10-29
 - **【用户表】导轨式 PoE 管理/非管理（阿里巴巴询盘）**
   > 导轨式PoE 管理非管理 / from: 阿里巴巴询盘
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Mamunur Rashid（）mamun@mkseoman.com 〔用户表〕
+- **KP**：Mamunur Rashid（联系人（研究档 KP；阿里询盘导轨式 PoE 管理 / 非管理）= 收件人 — 一页纸一次：集成商 25% B、STI-288DGGPM $137 管理 + STI-288GPM $78.9 非管理 + STI-054GP 一口价 + MOQ 1 + 付费样机 — 阿曼常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马斯喀特（第 123 批 官方登记核实 2026-10-29））mamun@mkseoman.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 阿曼 |
-| 其他 | 官网 tiscontrol.com，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | TIS Control Oman（mkseoman.com；地址 / CR 1 查未得） |
+| 成立 | 未取（第 123 批 官方登记核实 2026-10-29） |
+| 总部/地址 | 未取（Muscat, Oman）（第 123 批 官方登记核实 2026-10-29） |
+| 其他 | 官网 tiscontrol.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 123 批：智能家居 / 弱电品牌经销（2026-04 仍在招聘）→ **集成商 25% 一页纸一次（预付 100%）**；未坐实（第 123 批 官方登记核实 2026-10-29） |
 
 - **业务线**：智能家居 / 酒店自动化产品（自有品牌）
 - **触达通道（公开）**：role: 智能家居/酒店自动化品牌（阿曼，PoE 配套外采）；region: 阿曼；contact: mamun@mkseoman.com
@@ -203,7 +218,7 @@ updated: 2026-10-29
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Mamunur Rashid | — | mamun@mkseoman.com | 调研核实（公开页） | 用户表 |
+| Mamunur Rashid | 联系人（研究档 KP；阿里询盘导轨式 PoE 管理 / 非管理）= 收件人 — 一页纸一次：集成商 25% B、STI-288DGGPM $137 管理 + STI-288GPM $78.9 非管理 + STI-054GP 一口价 + MOQ 1 + 付费样机 — 阿曼常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马斯喀特（第 123 批 官方登记核实 2026-10-29） | mamun@mkseoman.com | 调研核实（公开页） | 用户表 |
 | Mr.Mamunur Rashid | — | mamun@mkseoman.com / +96894257595 | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发

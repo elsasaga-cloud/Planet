@@ -82,6 +82,19 @@ updated: 2026-10-29
 
 - 法定假日：11-02 All Saints' Day (observed)；11-16 Independence of Cartagena (observed) —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 123 批（CO · 1 次检索：empresas.larepublica.co/colombia/valle-del-cauca/jamundi/blue-skill-s-a-s-805017291（BLUE SKILL S.A.S.；NIT 805017291；JAMUNDI；MICRO）+ empresite（NIT 8050172911；SOCIEDAD POR ACCIONES SIMPLIFICADA；CALLE 2 22 175 OF 303）+ blueskill.co/contactenos.html（Gerencia General javier.zuniga@blueskill.co）；2026-10-29，2026-10-29 查；https://empresas.larepublica.co/colombia/valle-del-cauca/jamundi/blue-skill-s-a-s-805017291）：**
+
+- 法定名 / 登记号：BLUE SKILL S.A.S.（原 Blue Skill Ltda.；blueskill.co；**RUES 镜像（larepublica / empresite）：NIT 805017291-1；Valle del Cauca, Jamundí；MICRO；活动 = IT 咨询 / 设施管理；官网 contactenos：Calle 2 # 22-175, Oficina 303, Centro Comercial Alfaguara, Jamundí – Valle；(2) 592 4547；Gerencia General javier.zuniga@**）→ 坐实；阿里询盘「2 光 4 PoE 5 个」；KP Francisco Javier Zúñiga = Gerente General；1 次跟进无回复 · NIT 805017291-1 · 状态 **登记在册（RUES 镜像）** · 成立 未取 · S.A.S.
+- 行业码 / 经营范围：电信 / 安防技术服务（哈蒙迪，考卡山谷省）
+- 注册地址：Calle 2 # 22-175, Oficina 303, Centro Comercial Alfaguara, Jamundí, Valle del Cauca, Colombia
+- 规模档：微型（MICRO）
+- 账目：未取；—
+- 高管：Francisco Javier Zúñiga — Gerencia General（官网 2026-10-29 吻合；研究档 KP；javier.zuniga@blueskill.co）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **总经理本人询盘 2 光 4 PoE ×5 → 集成商 25% B，一页纸一次（STI-244DGGPM $121 2 SFP + 4 PoE 管理 ×5 / STI-154GP 一口价 + MOQ 1 + 付费样机；西语备注）— 拉美常规：英文稿（可附西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关）；周二 / 周四 10–12 当地**；回信 → 加厚
+- 备注：集成商 25%；一页纸一次（预付 100%）；坐实（NIT + 法律形式 + 地址 + 总经理）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -114,15 +127,17 @@ updated: 2026-10-29
 - **【用户表】2 光 4 PoE 5 个**
   > 2光4PoE 5个 / from: 阿里巴巴询盘
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Francisco Javier Zúñiga（）javier.zuniga@blueskill.co 〔用户表〕
+- **KP**：Francisco Javier Zúñiga（Gerencia General（官网 2026-10-29 吻合；研究档 KP；阿里询盘 2 光 4 PoE ×5）= 收件人 — 一页纸一次：集成商 25% B、STI-244DGGPM $121 ×5 / STI-154GP 一口价 + MOQ 1 + 付费样机；西语备注 — 拉美常规：英文稿（西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29））javier.zuniga@blueskill.co 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 哥伦比亚 |
-| 其他 | 官网 blueskill.co，语言 es，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | BLUE SKILL S.A.S.（原 Blue Skill Ltda.；NIT 805017291-1；MICRO） |
+| 成立 | 未取（第 123 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Calle 2 # 22-175, Oficina 303, Centro Comercial Alfaguara, Jamundí, Valle del Cauca, Colombia（(2) 592 4547）（第 123 批 官方登记核实 2026-10-29） |
+| 其他 | 官网 blueskill.co，语言 es，快照状态 ok；角色判定来源：官网文案；第 123 批：总经理本人询盘 → **集成商 25% 一页纸一次（预付 100%）**；坐实（NIT + 法律形式 + 地址 + 总经理）（第 123 批 官方登记核实 2026-10-29） |
 
 - **业务线**：安防 / 智能技术方案（哥伦比亚）
 - **触达通道（公开）**：role: 安防集成商（哥伦比亚，2 光 4 PoE ×5 询盘）；region: 哥伦比亚；contact: javier.zuniga@blueskill.co
@@ -201,7 +216,7 @@ updated: 2026-10-29
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Francisco Javier Zúñiga | — | javier.zuniga@blueskill.co | 调研核实（公开页） | 用户表 |
+| Francisco Javier Zúñiga | Gerencia General（官网 2026-10-29 吻合；研究档 KP；阿里询盘 2 光 4 PoE ×5）= 收件人 — 一页纸一次：集成商 25% B、STI-244DGGPM $121 ×5 / STI-154GP 一口价 + MOQ 1 + 付费样机；西语备注 — 拉美常规：英文稿（西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29） | javier.zuniga@blueskill.co | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 

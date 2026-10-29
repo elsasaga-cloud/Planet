@@ -26,7 +26,7 @@ price_tier: 20%
 research: done
 site_snapshot: unreachable  # 2026-10-21
 sources: 2
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -76,6 +76,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 123 批（BD · 1 次检索：aratechbd.com/about（ARATECH 2005；ARA Team Md. Chan Miah Sarker Sr. Executive, Support & Maintenance；FACTORY Bhaluka, Mymensingh）+ rocketreach（ARA Technologies Limited；Banani C/A 17, Banani TSO, Dhaka 1213；Founded 2005；Employees 20；+880 1678-004434）；RJSC 未得；2026-10-29，2026-10-29 查；https://aratechbd.com/about/）：**
+
+- 法定名 / 登记号：ARA Technologies Limited（Advanced Resources And Technologies；aratechbd.com，旧域 ara.com.bd；**官网 about：2005 年起；Banani C/A 17, Banani, Dhaka 1213；+880 1678 004434；工厂 Bhaluka, Mymensingh；光电 / LAN / WAN / CATV 产品制造 + 分销；RocketReach 20 人；Md. Chan Miah Sarker = Sr. Executive, Support & Maintenance（非决策人）**）；RJSC 号 1 查未得 → 部分坐实；表内：买过磊通设备、Switch / MC 周边、非自有品牌；support@ 退信；9 次跟进 1 次回复 · 未取（RJSC 号 1 查未得） · 状态 **营业中（官网 2025-12）** · 成立 2005 · Limited（私营）
+- 行业码 / 经营范围：网络 / 光电产品制造 + 分销（达卡）
+- 注册地址：Banani C/A 17, Banani, Dhaka 1213, Bangladesh（工厂 Bhaluka, Mymensingh）
+- 规模档：小型（约 20）
+- 账目：未取；—
+- 高管：Md. Chan Miah Sarker — Sr. Executive, Support & Maintenance（官网 2026-10-29；研究档 KP；smchan91@gmail.com；support@ara.com.bd 退信）= 收件人（请转采购）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **经销同类商用 PoE / MC（进口过中国品牌）→ 分销 20% B，一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-110XGE $65 一口价 + MOQ 1 + 付费样机；请转采购负责人；在售品牌不点名）— 亚洲常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方清关）；周二 / 周四 10–12 当地**；再无回声 → 不动
+- 备注：分销 20%；一页纸一次（预付 100%）；部分坐实（官网地址 + 成立年 + KP 职务；RJSC 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -102,16 +115,17 @@ updated: 2026-10-28
 - **【用户表】买的磊通的一些设备；Switch MC 周边产品，不是自己的牌子；support@ 发不过去；2023-02 thanks**
   > 兴趣：买的磊通的一些设备;Switch MC 周边产品 不是自己的牌子；回复：thanks
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：MD. Chan Miah Sarker（）smchan91@gmail.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：MD. Chan Miah Sarker（Sr. Executive, Support & Maintenance（官网 2026-10-29；非决策人；support@ara.com.bd 退信）= 收件人（请转采购）— 一页纸一次：分销 20% B、STC-028GP $28 / STC-228GP $33 / STC-110XGE $65 一口价 + MOQ 1 + 付费样机 — 亚洲常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29））smchan91@gmail.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照不可达 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | ARA（待核） |
-| 总部/地址 | 孟加拉国 |
-| 其他 | support@ara.com.bd 退信；域名失效 |
+| 法定名称 | ARA Technologies Limited（Advanced Resources And Technologies；RJSC 号 1 查未得） |
+| 成立 | 2005（第 123 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Banani C/A 17, Banani, Dhaka 1213, Bangladesh（工厂 Bhaluka, Mymensingh；+880 1678 004434）（第 123 批 官方登记核实 2026-10-29） |
+| 其他 | support@ara.com.bd 退信；域名失效；第 123 批：网络 / 光电产品制造 + 分销，进口过中国品牌 → **分销 20% 一页纸一次（预付 100%）**；部分坐实（官网地址 + 成立年 + KP 职务）（第 123 批 官方登记核实 2026-10-29） |
 
 - **业务线**：网络设备经销（交换机 / MC / 配件）
 - **触达通道（公开）**：role: 经销商（从中国同行采购）；region: 孟加拉国
@@ -174,7 +188,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| MD. Chan Miah Sarker | — | smchan91@gmail.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| MD. Chan Miah Sarker | Sr. Executive, Support & Maintenance（官网 2026-10-29；非决策人；support@ara.com.bd 退信）= 收件人（请转采购）— 一页纸一次：分销 20% B、STC-028GP $28 / STC-228GP $33 / STC-110XGE $65 一口价 + MOQ 1 + 付费样机 — 亚洲常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29） | smchan91@gmail.com | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：企业邮箱可直发；备注含「发不过去」：发送前核对是哪一个地址，退信地址保留不删
 
@@ -268,12 +282,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 20）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 20）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

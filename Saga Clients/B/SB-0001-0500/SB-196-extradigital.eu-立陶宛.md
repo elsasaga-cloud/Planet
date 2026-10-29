@@ -1,7 +1,7 @@
 # extradigital.eu
 **官方名称（调研核实）**：EURODIGITAL UAB（e-shop ExtraDigital.eu，Kaunas, Lithuania）
 
-> **评级 B**　|　欧洲（国别未填）　|　档案编号 `SB-196`　|　优先级 ★★　|　状态：有回复·跟进中
+> **评级 B**　|　立陶宛　|　档案编号 `SB-196`　|　优先级 ★★　|　状态：有回复·跟进中
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：实质回复 1 次；推送 11 次（2024-05-17 → 2025-11-07）　|　**所在清单**：A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -11,7 +11,8 @@ rating: B
 rating_auto: B
 name_official: "EURODIGITAL UAB（e-shop ExtraDigital.eu，Kaunas, Lithuania）"
 score: 51
-country: 欧洲（国别未填）
+country: 立陶宛
+country_table: 欧洲（国别未填）  # 表内原填；调研纠正为 立陶宛（research JSON country_fix）
 region: 欧洲
 website: extradigital.eu
 type: 经销/集成（类型待核）
@@ -27,7 +28,7 @@ price_tier: 20%
 research: done
 site_snapshot: http_error  # 2026-10-21
 sources: 2
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -85,12 +86,28 @@ updated: 2026-10-28
 
 - `extradigital.eu` → 其他主机商邮箱（chameleonas.serveriai.lt）（MX：chameleonas.serveriai.lt）。主机商附带邮箱（chameleonas.serveriai.lt）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
+**假日避让：** 下一步为「不动」，不排发信，略。
+
+**公司底数 · 第 123 批（LT · 1 次检索：rekvi.lt/en/companies/view/62317（UAB "Eurodigital"；kodas 300638881；PVM LT100002890717；Vadovas Saulius Razlevičius；Žemaičių g. 31-301, Kaunas；+370 603 88188；active）+ taurageje.lt（Registruota 2007-01-29；Darbuotojai 12–13；IRT įrangos didmeninė prekyba）；2026-10-29，2026-10-29 查；https://rekvi.lt/en/companies/view/62317）：**
+
+- 法定名 / 登记号：UAB "Eurodigital"（e-shop ExtraDigital.eu / .lt；**rekvi.lt / taurageje.lt：Įmonės kodas 300638881；PVM LT100002890717；Registruota 2007-01-29；Žemaičių g. 31-301, LT-44175 Kaunas；Vadovas Saulius Razlevičius；Sodra 2026-04 员工 13；「active, has employees and sufficient capital」；IRT 设备批发**）→ 坐实；表内区域「欧洲（国别未填）」→ country_fix 立陶宛；泛欧 Dahua CCTV 分销 / 光伏 / EV 充电电商；KP Austėja（info@）；11 次跟进 1 次回复 · Įmonės kodas 300638881；PVM LT100002890717 · 状态 **存续（active；Sodra 2026-04 员工 13）** · 成立 2007-01-29 · UAB（有限责任公司）
+- 行业码 / 经营范围：ICT 设备批发 / 电商（考纳斯）
+- 注册地址：Žemaičių g. 31-301, LT-44175 Kaunas, Lithuania
+- 规模档：小型（12–13）
+- 账目：未取；—
+- 高管：Austėja — 来信署名人（研究档 KP；info@extradigital.eu）= 收件人
+- 高管：Saulius Razlevičius — Vadovas / 董事（rekvi.lt 2026-10-29；无公开邮箱）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **泛欧 Dahua 分销电商 → 分销 20% B，一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-2224GP $86 整箱一口价 + MOQ 1 + 付费样机；CE / RoHS / REACH；在售品牌不点名）— 欧盟常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP（买方清关；CE / RoHS / REACH）；周四 12–14 当地**；回信 → 加厚
+- 备注：分销 20%；一页纸一次（预付）；坐实（登记码 + VAT + 成立日 + 地址 + 董事）；country_fix 立陶宛。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | extradigital.eu（取自域名，公司全名待核） | 推断 |
-| 国家 | 欧洲（国别未填） | 事实（用户表）|
+| 国家 | 立陶宛 | 事实（用户表）|
 | 网站/域名 | extradigital.eu | 事实（用户表 URL/邮箱域名） |
 | 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
 | 联系人 | 销售平台 很多国内的 | 事实（用户表） |
@@ -133,17 +150,19 @@ updated: 2026-10-28
 - **【用户表】1 次实质回复；11 次跟进；国别未填**
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Austėja（EURODIGITAL）（来信署名人（职务未在邮件署名里出现））info@extradigital.eu 〔S/A 邮箱来信 2024-08-13 来信 3 封（第 72 批从邮件表头补）〕
+- **KP**：Austėja（EURODIGITAL）（来信署名人（研究档 KP）= 收件人 — 一页纸一次：分销 20% B、STC-028GP $28 / STC-228GP $33 / STC-2224GP $86 整箱一口价 + MOQ 1 + 付费样机；CE / RoHS / REACH；在售品牌不点名 — 欧盟常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP（买方清关）；周四 12–14 当地（第 123 批 官方登记核实 2026-10-29））info@extradigital.eu 〔S/A 邮箱来信 2024-08-13 来信 3 封（第 72 批从邮件表头补）〕
+- **KP**：Saulius Razlevičius（Vadovas / 董事（rekvi.lt 2026-10-29；无公开邮箱）（第 123 批 官方登记核实 2026-10-29）） 〔〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对 · 国别补齐））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | EURODIGITAL, UAB |
-| 总部/地址 | Savanorių pr. 235, Kaunas 50184, Lithuania（+370 671 30065） |
+| 法定名称 | UAB "Eurodigital"（Įmonės kodas 300638881；PVM LT100002890717；e-shop ExtraDigital） |
+| 成立 | 2007-01-29（第 123 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Žemaičių g. 31-301, LT-44175 Kaunas, Lithuania（+370 603 88188）（第 123 批 官方登记核实 2026-10-29） |
 | 注册/税号 | 公司代码 300638881 · VAT LT100002890717（注册地址 Žemaičių g. 31, LT-44175 Kaunas） |
-| 其他 | 品类：智能电子、安防/CCTV（Dahua 为主）、光伏、EV 充电；B2C+B2B 跨欧发货 |
+| 其他 | 品类：智能电子、安防/CCTV（Dahua 为主）、光伏、EV 充电；B2C+B2B 跨欧发货；第 123 批：表内「欧洲（国别未填）」→ country_fix 立陶宛；泛欧 Dahua 分销电商 → **分销 20% 一页纸一次（预付）**；坐实（登记码 + VAT + 成立日 + 地址 + 董事）（第 123 批 官方登记核实 2026-10-29） |
 
 - **业务线**：泛欧电商（电子、安防、光伏、EV 充电）；Dahua CCTV 分销
 - **触达通道（公开）**：网店: https://www.extradigital.eu/；电话: +370 671 30065（官网公开）
@@ -230,7 +249,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Austėja（EURODIGITAL） | 来信署名人（职务未在邮件署名里出现） | info@extradigital.eu | 调研核实（公开页） | S/A 邮箱来信 2024-08-13 来信 3 封（第 72 批从邮件表头补） |
+| Austėja（EURODIGITAL） | 来信署名人（研究档 KP）= 收件人 — 一页纸一次：分销 20% B、STC-028GP $28 / STC-228GP $33 / STC-2224GP $86 整箱一口价 + MOQ 1 + 付费样机；CE / RoHS / REACH；在售品牌不点名 — 欧盟常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP（买方清关）；周四 12–14 当地（第 123 批 官方登记核实 2026-10-29） | info@extradigital.eu | 调研核实（公开页） | S/A 邮箱来信 2024-08-13 来信 3 封（第 72 批从邮件表头补） |
+| Saulius Razlevičius | Vadovas / 董事（rekvi.lt 2026-10-29；无公开邮箱）（第 123 批 官方登记核实 2026-10-29） | — | 调研核实（公开页） | 调研 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -324,12 +344,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 51）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 51）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

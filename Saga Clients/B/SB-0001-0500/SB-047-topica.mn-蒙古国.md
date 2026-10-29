@@ -27,7 +27,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -95,6 +95,19 @@ updated: 2026-10-28
 
 - 法定假日：11-10 Genghis Khan's Birthday；11-26 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 123 批（MN · 1 次检索：devex.com/organizations/topica-40614（Topica LLC established in 2005；Chingeltei District 1R-Khoroo Office 3A, Ulaanbaatar；LuxDev lots）+ miniihot.com（Топика ХХК；70125001；admin@topica.mn）+ zoominfo（+976 70125002；51-200）；注册号未得；2026-10-29，2026-10-29 查；https://www.devex.com/organizations/topica-40614）：**
+
+- 法定名 / 登记号：Topica LLC（Топика ХХК；topica.mn；**devex：2005 年由电子 / IT 工程师创立；Chingeltei District, 1st Khoroo, Office 3A, Ulaanbaatar；+976 7012 5001 / 5002；admin@ / info@；LuxDev 医院 IT 设备中标 ×3；网店 + 分销（MikroTik / Cisco / Milesight / Schneider / ZKTeco / Ruijie / D-Link / Huawei）**）；注册号 1 查未得 → 部分坐实；**2025-11 对 24 PoE 回「需要 16 port 的」（我方欠答）**；KP info@（回复签名 Bayar）；1 次跟进 1 次回复 · 未取（蒙古注册号 1 查未得） · 状态 **营业中（名录 + 网店）** · 成立 2005 · ХХК / LLC
+- 行业码 / 经营范围：网络 / 电气设备网店 + 分销 + 系统集成（乌兰巴托）
+- 注册地址：Office 3A, 1st Khoroo, Chingeltei District, Ulaanbaatar, Mongolia
+- 规模档：中小型（名录 51–200 偏高）
+- 账目：未取；—
+- 高管：Bayar — 回信署名人（研究档 KP；info@topica.mn）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **★ 回信点名「16 port」（欠答）→ 分销 20% B，一页纸（STC-2216GP 16 PoE + 2 SFP $63–76 / 16 口管理版 按主表 / STC-2224GP $86 一口价 + MOQ 1 + 付费样机；在售品牌不点名）— 蒙古常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 乌兰巴托（铁路 / 公路；买方清关）**；回信即升 A 候选
+- 备注：分销 20%；一页纸（预付 100%）；部分坐实（名录成立年 + 地址；注册号未取）；★ 回信即升。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -127,7 +140,7 @@ updated: 2026-10-28
   > 兴趣：MC SFP switch 很多外壳；回复：需要16 port的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（见 Clients 表回复签名）（） 〔用户 Clients 表〕
-- **KP**：（未具名）（）info@topica.mn +976 7555 4488〔https://topica.mn/〕
+- **KP**：（未具名）（收件箱（回信署名 Bayar；2025-11 点名「需要 16 port 的」，欠答）= 收件人 — 一页纸：分销 20% B、STC-2216GP $63–76 / 16 口管理版 按主表 / STC-2224GP $86 一口价 + MOQ 1 + 付费样机；在售品牌不点名 — 蒙古常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 乌兰巴托（第 123 批 官方登记核实 2026-10-29））info@topica.mn +976 7555 4488〔https://topica.mn/〕
 - **调研后定级**：B（原自动 A）——蒙古国非主攻区、市场体量小，仅 1 次回复 → 慢跟。
 - 备注：回复其邮件时给 STI-110GE + STC-28DGGPM 两款（分销 20%），之后按季度触达。
 
@@ -135,10 +148,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Topica LLC（待核） |
-| 成立 | （待核） |
-| 总部/地址 | Ulaanbaatar, Mongolia |
-| 其他 | 多品牌；SFP / 10G 品类深 |
+| 法定名称 | Topica LLC（Топика ХХК；注册号 1 查未得） |
+| 成立 | 2005（第 123 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Office 3A, 1st Khoroo, Chingeltei District, Ulaanbaatar, Mongolia（+976 7012 5001 / 5002）（第 123 批 官方登记核实 2026-10-29） |
+| 其他 | 多品牌；SFP / 10G 品类深；第 123 批：★ 网店 + 分销 + 集成（LuxDev 医院 IT 中标），回信点名 16 口 → **分销 20% 一页纸（预付 100%）；回信即升 A 候选**；部分坐实（名录成立年 + 地址）（第 123 批 官方登记核实 2026-10-29） |
 
 - **业务线**：网络设备网店（交换机、SFP、无线、MikroTik）；安防 / 门禁（Milesight、ZKTeco）；电气（Schneider）
 - **触达通道（公开）**：role: 网店 / 分销商；region: 蒙古国
@@ -293,12 +306,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 65）；人工/调研定级 → B
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 65）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

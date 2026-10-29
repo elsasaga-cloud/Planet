@@ -25,7 +25,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -80,6 +80,21 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 123 批（KW · 1 次检索：dss-kuwait.com/contactus.php（1st Floor, Office 15, Ahmad Al Jaber Street P.O. BOX: 631 Dasman, Code 15457, Kuwait City, Sharq）+ tiandy.com 伙伴页（00965 222 000 23；Presales@dss-kuwait.com）+ epicos（Digital Security Systems Est.；品牌代理）；CR 未得；2026-10-29，2026-10-29 查；http://www.dss-kuwait.com/contactus.php）：**
+
+- 法定名 / 登记号：Digital Security Systems Est.（DSS；dss-kuwait.com；**官网 contact：1st Floor, Office 15, Ahmad Al Jaber Street, Sharq, P.O. Box 631 Dasman 15457, Kuwait City；+965 2220 0023；epicos 2018：代理 Sensormatic / DSC / American Dynamics / Software House / Cardax；Tiandy 伙伴页同址**）；CR 号 1 查未得 → 部分坐实；表内「工业 FS 和 ONV 深度合作」；KP Majdi Yosef / Dalal Jadallah / Azzam Abbas；群发 15 次无回复 · 未取（CR 号 1 查未得） · 状态 **营业中（官网 + 伙伴页）** · 成立 未取 · Est.（个人机构 / W.L.L. 待核）
+- 行业码 / 经营范围：安防系统集成 / 运维（科威特城）
+- 注册地址：1st Floor, Office 15, Ahmad Al Jaber Street, Sharq, P.O. Box 631, Dasman 15457, Kuwait City, Kuwait
+- 规模档：中小型
+- 账目：未取；—
+- 高管：Majdi Yosef — 表内联系人（研究档 KP；majdi@dss-kuwait.com）= 收件人
+- 高管：Dalal Jadallah — 表内联系人（dalal@dss-kuwait.com）
+- 高管：Azzam Abbas — 表内联系人（azzam@dss-kuwait.com）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **安防 SI（ONV 工业 FS 在用）→ 集成商 25% B，一页纸一次（STI-288DGGPM $137 / STI-288GPM $78.9 工业 2 光 8 PoE 一口价 + STC-2224GP $86 + MOQ 1 + 付费样机；在用品牌不点名）— 科威特常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 科威特城（买方清关；KUCAS 不声称）**；15×0 → 再无回声 → 不动
+- 备注：集成商 25%；一页纸一次（预付 100%）；部分坐实（官网地址 + 伙伴页；CR 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -123,7 +138,7 @@ updated: 2026-10-28
 - **【用户表】工业 FS 和 ONV 深度合作**
   > 工业FS 和ONV深度合作
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Majdi Yosef（）majdi@dss-kuwait.com 〔用户表〕
+- **KP**：Majdi Yosef（表内联系人（研究档 KP）= 收件人 — 一页纸一次：集成商 25% B、STI-288DGGPM $137 / STI-288GPM $78.9 工业 2 光 8 PoE + STC-2224GP $86 一口价 + MOQ 1 + 付费样机；在用品牌不点名 — 科威特常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 科威特城（第 123 批 官方登记核实 2026-10-29））majdi@dss-kuwait.com 〔用户表〕
 - **KP**：Dalal Jadallah（）dalal@dss-kuwait.com 〔用户表〕
 - **KP**：Azzam Abbas（）azzam@dss-kuwait.com 〔用户表〕
 - **KP**：Doha Hassan（）doha@dss-kuwait.com 〔用户表〕
@@ -133,8 +148,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 科威特 |
-| 其他 | 官网 dss-kuwait.com，语言 ?，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Digital Security Systems Est.（DSS；CR 号 1 查未得） |
+| 成立 | 未取（第 123 批 官方登记核实 2026-10-29） |
+| 总部/地址 | 1st Floor, Office 15, Ahmad Al Jaber Street, Sharq, P.O. Box 631, Dasman 15457, Kuwait City, Kuwait（+965 2220 0023）（第 123 批 官方登记核实 2026-10-29） |
+| 其他 | 官网 dss-kuwait.com，语言 ?，快照状态 ok；角色判定来源：官网文案；第 123 批：安防 SI（Sensormatic / DSC / Software House 代理；ONV 工业 FS 在用）→ **集成商 25% 一页纸一次（预付 100%）**；15×0；部分坐实（官网地址 + 伙伴页）（第 123 批 官方登记核实 2026-10-29） |
 
 - **业务线**：安防 / 智能系统集成与运维（科威特）
 - **触达通道（公开）**：role: 安防集成商（科威特，ONV 深度合作）；region: 科威特；contact: info@dss-kuwait.com、presales@dss-kuwait.com
@@ -240,7 +257,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Majdi Yosef | — | majdi@dss-kuwait.com | 调研核实（公开页） | 用户表 |
+| Majdi Yosef | 表内联系人（研究档 KP）= 收件人 — 一页纸一次：集成商 25% B、STI-288DGGPM $137 / STI-288GPM $78.9 工业 2 光 8 PoE + STC-2224GP $86 一口价 + MOQ 1 + 付费样机；在用品牌不点名 — 科威特常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 科威特城（第 123 批 官方登记核实 2026-10-29） | majdi@dss-kuwait.com | 调研核实（公开页） | 用户表 |
 | Dalal Jadallah | — | dalal@dss-kuwait.com | 调研核实（公开页） | 用户表 |
 | Azzam Abbas | — | azzam@dss-kuwait.com | 调研核实（公开页） | 用户表 |
 | Doha Hassan | — | doha@dss-kuwait.com | 调研核实（公开页） | 用户表 |
@@ -337,12 +354,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

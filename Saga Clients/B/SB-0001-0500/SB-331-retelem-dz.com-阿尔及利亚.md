@@ -79,6 +79,19 @@ updated: 2026-10-29
 
 - 法定假日：11-01 Revolution Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
+**公司底数 · 第 123 批（DZ · 1 次检索：signalhire.com/companies/epe-retelem-spa（EPE RETELEM SPA；54, Rue Omar Benaissa B.E.O Alger；200-500 employees；retelem-dz.com；更新 2026-09-25）；RC / NIF 未得（CNRC 不开放）；2026-10-29，2026-10-29 查；https://www.signalhire.com/companies/epe-retelem-spa）：**
+
+- 法定名 / 登记号：EPE RETELEM SPA（ex-SONATITE；retelem-dz.com；**signalhire 名录：54, Rue Omar Benaissa, Bab El Oued, Alger；200–500 人；ELEC EL DJAZAIR 控股的国有经济公共企业（研究档：1971 年成立，14 个分支）**）；RC / NIF 1 查未得 → 部分坐实；关键数字基础设施集成商（LAN / WAN / 光纤 / 数据中心 / SCADA / 视频监控）；KP Hichem Akchiche（WA 已加；2024 要工业交换机 datasheet，对 2 光 8 PoE 有兴趣）；16 次跟进 3 次回复 · 未取（RC / NIF 1 查未得） · 状态 **营业中（国企；官网 + 名录）** · 成立 1971（SONATITE） · EPE SPA（国有经济公共企业）
+- 行业码 / 经营范围：网络 / 光纤 / 数据中心 / SCADA 集成（阿尔及尔）
+- 注册地址：54, Rue Omar Benaissa, Bab El Oued, Alger, Algeria
+- 规模档：中型（200–500）
+- 账目：未取；—
+- 高管：Hichem Akchiche — 联系人（研究档 KP；hichem.akchiche@retelem-dz.com；WA 已加）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **国企集成商（SCADA / 光纤 / 监控）+ 明确兴趣 2 光 8 PoE 工业 → 集成商 25% B，一页纸一次（STI-288DGGPM $137 L2 管理 / STI-288GPM $78.9 非管理 一口价 + MOQ 1 + 付费样机；关键基础设施按单核；法语备注）— 阿尔及利亚常规：英文稿（可附法语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方清关；进口许可自理）**；回信 → 加厚
+- 备注：集成商 25%；一页纸一次（预付 100%）；部分坐实（名录地址 + 人数；RC / NIF 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -128,17 +141,17 @@ updated: 2026-10-29
 - **【用户表】2024-04 工业交换机图→Datasheet；2024-06 商用 PoE 228 邮件；2024-08 4/8 口工业 PoE→对 2 光 8 PoE 有兴趣；2025-10 DAC→email**
   > 回复：Datasheet；Email发了商业PoE 228信息；对2光8PoE有兴趣；email
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Hichem Akchiche（）hichem.akchiche@retelem-dz.com +213 770 760 449〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Hichem Akchiche（联系人（研究档 KP；WA 已加；2024 要工业交换机 datasheet、对 2 光 8 PoE 有兴趣）= 收件人 — 一页纸一次：集成商 25% B、STI-288DGGPM $137 L2 管理 / STI-288GPM $78.9 非管理 一口价 + MOQ 1 + 付费样机；关键基础设施按单核；法语备注 — 阿尔及利亚常规：英文稿（法语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（第 123 批 官方登记核实 2026-10-29））hichem.akchiche@retelem-dz.com +213 770 760 449〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 集团/名录核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | EPE RETELEM SPA（ex-SONATITE） |
-| 成立 | 1971 |
-| 总部/地址 | 54 Rue Omar Benaissa, Bab El Oued, Alger, Algérie |
-| 其他 | ELEC EL DJAZAIR 控股；法语 |
+| 法定名称 | EPE RETELEM SPA（ex-SONATITE；ELEC EL DJAZAIR 控股；RC / NIF 1 查未得） |
+| 成立 | 1971（SONATITE）（第 123 批 官方登记核实 2026-10-29） |
+| 总部/地址 | 54, Rue Omar Benaissa, Bab El Oued, Alger, Algeria（第 123 批 官方登记核实 2026-10-29） |
+| 其他 | ELEC EL DJAZAIR 控股；法语；第 123 批：国企网络 / 光纤 / 数据中心 / SCADA 集成商 → **集成商 25% 一页纸一次（预付 100%）**；部分坐实（名录地址 + 人数）（第 123 批 官方登记核实 2026-10-29） |
 
 - **业务线**：LAN/WAN/Wi-Fi 与光纤传输；数据中心 / 混合云；SCADA 与工业网络；视频监控 / 门禁 / 消防；PABX / VoIP；技术培训
 
@@ -233,7 +246,7 @@ updated: 2026-10-29
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Hichem Akchiche | — | hichem.akchiche@retelem-dz.com / +213 770 760 449 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Hichem Akchiche | 联系人（研究档 KP；WA 已加；2024 要工业交换机 datasheet、对 2 光 8 PoE 有兴趣）= 收件人 — 一页纸一次：集成商 25% B、STI-288DGGPM $137 L2 管理 / STI-288GPM $78.9 非管理 一口价 + MOQ 1 + 付费样机；关键基础设施按单核；法语备注 — 阿尔及利亚常规：英文稿（法语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（第 123 批 官方登记核实 2026-10-29） | hichem.akchiche@retelem-dz.com / +213 770 760 449 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Hichem | — | hichem.akchiche@retelem-dz.com / +213770760449 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发

@@ -1,7 +1,7 @@
 # womaster.eu
 **官方名称（调研核实）**：WoMaster Technologies（台湾；欧洲站 womaster.eu）
 
-> **评级 B**　|　欧洲（国别未填）　|　档案编号 `SB-560`　|　优先级 ★★　|　状态：已推送 16 次·未回复
+> **评级 B**　|　西班牙　|　档案编号 `SB-560`　|　优先级 ★★　|　状态：已推送 16 次·未回复
 >
 > **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：推送 16 次（2024-05-02 → 2025-10-03）　|　**所在清单**：A优质名单(其他优质欧洲客户)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -11,7 +11,8 @@ rating: B
 rating_auto: B
 name_official: "WoMaster Technologies（台湾；欧洲站 womaster.eu）"
 score: 38
-country: 欧洲（国别未填）
+country: 西班牙
+country_table: 欧洲（国别未填）  # 表内原填；调研纠正为 西班牙（research JSON country_fix）
 region: 欧洲
 website: womaster.eu
 type: 品牌商/贴牌需求（OEM/ODM）
@@ -27,7 +28,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -79,12 +80,27 @@ updated: 2026-10-28
 
 - `womaster.eu` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、alt3.aspmx.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
 
+**假日避让：** 下一步为「不动」，不排发信，略。
+
+**公司底数 · 第 123 批（EU · 1 次检索：womaster.eu/about.php（offices in Spain (Barcelona), Taiwan (New Taipei), and China；WoMaster Europe headquarters in Spain Barcelona；WoM EMS over 20 years）+ womtek.com/aboutus（joint venture of QNAP Group, HMS Industrial Networks, HolyStone Group；Headquartered in Taiwan）；登记号未得；2026-10-29，2026-10-29 查；https://www.womaster.eu/about.php）：**
+
+- 法定名 / 登记号：WoMaster Europe（womaster.eu；**官网 about：WoMaster Group 欧洲总部 Barcelona, Spain（欧洲运营 / 技术支持 / 仓库）；业务总部 WoM Asia 新北；集团为 QNAP / HMS / HolyStone 合资；自有 EMS 工厂（SMT / DIP / 老化）；工业以太网交换机 / 工业无线 / 5G 路由品牌**）；西班牙 / 台湾登记号 1 查未得 → 部分坐实；表内区域「欧洲」→ country_fix 西班牙；表内「工业 FS SFP 1U 机架工业 / 工业串口 / 自己的 logo」；群发 16 次无回复 · 未取（ES / TW 登记号 1 查未得） · 状态 **营业中（集团官网）** · 成立 未取（集团 20+ 年） · S.L.（欧洲公司；推定）
+- 行业码 / 经营范围：工业网络设备品牌（巴塞罗那 / 新北）
+- 注册地址：Barcelona, Spain（欧洲总部；街道未取）
+- 规模档：中型（集团）
+- 账目：未取；—
+- 高管：（欧洲站未具名：info@womaster.eu）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **同行品牌 + 自有 EMS，表内「自己的 logo」→ 贴标 OEM 30% B，最后一次一页纸（STI-288DGGPM $137 / STI-0240GE $130 贴标补 SKU + 贴标 MOQ + 付费样机；1U 机架工业 / 串口服务器不供明说；竞品不点名）— 欧盟常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP（买方清关；CE / RoHS / REACH）；周四 12–14 当地**；16×0 → 再无回声 → 不动
+- 备注：贴标 OEM 30%（同行补 SKU）；最后一次一页纸（预付）；部分坐实（官网总部 + 集团背景；登记号未取）；country_fix 西班牙。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | womaster.eu（取自域名，公司全名待核） | 推断 |
-| 国家 | 欧洲（国别未填） | 事实（用户表）|
+| 国家 | 西班牙 | 事实（用户表）|
 | 网站/域名 | womaster.eu | 事实（用户表 URL/邮箱域名） |
 | 类型 | 品牌商/贴牌需求（OEM/ODM） | 推断（据兴趣/备注关键词） |
 | 联系人 | 90W  PoE  MC / DP101 | 事实（用户表） |
@@ -105,17 +121,17 @@ updated: 2026-10-28
 - **【用户表】工业 FS SFP 1U 机架工业；工业串口；自己的 logo；90W PoE MC / DP101**
   > 兴趣：工业FS SFP 1U机架工业 工业串口 自己的logo
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：（欧洲站）（）info@womaster.eu 〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：（欧洲站）（欧洲站公共箱（未具名）— 最后一次一页纸：贴标 OEM 30% B、STI-288DGGPM $137 / STI-0240GE $130 贴标补 SKU + 贴标 MOQ + 付费样机；1U 机架工业 / 串口服务器不供明说 — 欧盟常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP（买方清关）；周四 12–14 当地（第 123 批 官方登记核实 2026-10-29））info@womaster.eu 〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | WoMaster Technologies Co., Ltd. |
-| 成立 | （待核） |
-| 总部/地址 | 台北（欧洲站） |
-| 其他 | 台湾厂商口径（OEM 买方） |
+| 法定名称 | WoMaster Europe（WoMaster Group 欧洲总部；集团 QNAP / HMS / HolyStone 合资；ES / TW 登记号 1 查未得） |
+| 成立 | 未取（集团 20+ 年）（第 123 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Barcelona, Spain（欧洲总部；业务总部 New Taipei）（第 123 批 官方登记核实 2026-10-29） |
+| 其他 | 台湾厂商口径（OEM 买方）；第 123 批：表内「欧洲」→ country_fix 西班牙；同行品牌 + 自有工厂，表内「自己的 logo」→ **贴标 OEM 30% 最后一次一页纸（预付）**；16×0；部分坐实（官网总部 + 集团背景）（第 123 批 官方登记核实 2026-10-29） |
 
 - **业务线**：工业交换机 / PoE / 无线 / 路由（自有品牌）
 - **触达通道（公开）**：role: 台系品牌商（OEM 采购）；region: 欧洲 / 全球
@@ -310,12 +326,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 38）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 38）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
