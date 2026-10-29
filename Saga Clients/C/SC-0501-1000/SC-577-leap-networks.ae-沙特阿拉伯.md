@@ -2,12 +2,15 @@
 
 > **评级 C**　|　沙特阿拉伯　|　档案编号 `SC-577`　|　优先级 —　|　状态：已推送 8 次·未回复
 >
+> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：阿联酋 / 沙特 Leap Networks（leap-networks.ae；表内「4 光 4 管理 PoE 64 个」= 数量询盘；KP Tarek Bary，邮箱退信 8 次但域正常，+971 手机在表）：数量信号 ✔ 对位 ✔ 退信 ≠ 死 → 闸 2 找新地址 + WA 路径；四主区外，低优先
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 8 次（2025-03-31 → 2025-10-23）　|　**所在清单**：A优质名单(阿联酋 沙特阿拉伯)、AI评估(阿联酋 沙特阿拉伯)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-577
 rating: C
 rating_auto: C
+sieve: candidate  # 闸 1 G1 2026-10-29
 score: 19
 country: 沙特阿拉伯
 region: 中东
@@ -25,7 +28,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -160,8 +163,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 19）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 19）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -2,12 +2,15 @@
 
 > **评级 C**　|　以色列　|　档案编号 `SC-206`　|　优先级 —　|　状态：已推送 16 次·未回复
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：以色列 Enercon Technologies（enercon.co.il；军用电源 / 加固网络设备制造商 MIL-STD）：军工 = 守界（INH），群发 16 次 0 回 → 留 C（不主动碰；守界不等于刚性 pass）
+>
 > **类型**：军工制造商（军用电源与加固网络）（推断）　|　**历史关系**：推送 16 次（2024-05-01 → 2025-10-27）　|　**所在清单**：A优质名单(Israel)、AI评估(IL)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-206
 rating: C
 rating_auto: B
+sieve: keep_C  # 闸 1 G1 2026-10-29
 rating_research: C  # 守界：以色列军工制造商（军用电源与加固网络，MIL-STD，航空电子应用）；c_sub=守界：军工
 score: 27
 country: 以色列
@@ -26,7 +29,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -215,8 +218,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 27）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 27）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

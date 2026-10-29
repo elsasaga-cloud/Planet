@@ -2,12 +2,15 @@
 
 > **评级 C**　|　印度　|　档案编号 `SC-413`　|　优先级 —　|　状态：名单内·未触达
 >
+> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：印度 HiFocus（hifocuscctv.com；自有品牌 CCTV，表内「买丰润达的商业 PoE」）：自有品牌 ✔ 进口中国同类 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+>
 > **类型**：安防集成/经销（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:India、在用同行产品　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-413
 rating: C
 rating_auto: C
+sieve: candidate  # 闸 1 G1 2026-10-29
 score: 21
 country: 印度
 region: 南亚
@@ -25,7 +28,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -138,8 +141,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 21）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 21）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -2,12 +2,15 @@
 
 > **评级 C**　|　澳大利亚　|　档案编号 `SC-397`　|　优先级 —　|　状态：已推送 22 次·未回复
 >
+> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：澳大利亚 Alloy（alloy.com.au；自有品牌 MC / SFP / 光猫 / 工业 FS / 商业 PoE，「很多公司在卖他家的」）：自有品牌 = OEM 对象 ✔ 对位 ✔；群发 22 次 0 回 → 闸 2 查底数（ABN）；四主区外，低优先　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 22 次（2024-05-23 → 2025-11-06）　|　**所在清单**：A优质名单(AU)、AI评估(AU)、群发(谷歌)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-397
 rating: C
 rating_auto: C
+sieve: candidate  # 闸 1 G1 2026-10-29
 score: 21
 country: 澳大利亚
 region: 亚太
@@ -25,7 +28,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 3
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -176,8 +179,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 C，分数 21）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 C，分数 21）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

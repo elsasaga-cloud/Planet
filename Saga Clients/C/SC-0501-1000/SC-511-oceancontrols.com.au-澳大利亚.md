@@ -2,12 +2,15 @@
 
 > **评级 C**　|　澳大利亚　|　档案编号 `SC-511`　|　优先级 —　|　状态：名单内·未触达
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：澳大利亚；表分 群发冷名单无回应；兴趣：很多外壳 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:AU　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-511
 rating: C
 rating_auto: C
+sieve: keep_C  # 闸 1 G1 2026-10-29
 score: 20
 country: 澳大利亚
 region: 亚太
@@ -24,7 +27,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -133,8 +136,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 20）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 20）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

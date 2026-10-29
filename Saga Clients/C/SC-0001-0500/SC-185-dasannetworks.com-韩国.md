@@ -2,12 +2,15 @@
 
 > **评级 C**　|　韩国　|　档案编号 `SC-185`　|　优先级 —　|　状态：已推送 22 次·未回复
 >
+> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：韩国 DASAN Networks（dasannetworks.com；上市网络设备集团；表内「三旺的长期合作客户」「质量高」= 长期进口中国工业交换机；KP Richard / jrcho@）：Simon 点名韩国 + 进口中国同类品牌 + 对位 ✔，群发 22 次 0 回 → 闸 2 查底数（DART）+ 找产品采购 KP；低优先，可否决　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+>
 > **类型**：上市网络设备集团（韩国，同行）（推断）　|　**历史关系**：推送 22 次（2024-04-29 → 2025-10-30）　|　**所在清单**：A优质名单(KR)、AI评估(KR)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-185
 rating: C
 rating_auto: B
+sieve: candidate  # 闸 1 G1 2026-10-29
 rating_research: C  # 上市网络设备集团（同行/体量）；c_sub=体量过大/同行
 score: 30
 country: 韩国
@@ -26,7 +29,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -216,8 +219,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 30）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 30）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

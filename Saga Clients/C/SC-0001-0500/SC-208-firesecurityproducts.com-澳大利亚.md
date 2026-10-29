@@ -2,12 +2,15 @@
 
 > **评级 C**　|　澳大利亚　|　档案编号 `SC-208`　|　优先级 —　|　状态：已推送 21 次·未回复
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：澳大利亚 Fire Security Products（firesecurityproducts.com 域 no_mx；Carrier 旗下 IFS 集团自有线；仅 zendesk 客服邮箱）：巨头体系 + 域无 MX；群发 21 次 0 回 → 留 C 待巡检
+>
 > **类型**：集团安防品牌区域站（Carrier/IFS，巨头）（推断）　|　**历史关系**：推送 21 次（2024-05-30 → 2025-10-29）　|　**所在清单**：A优质名单(AU)、AI评估(AU)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-208
 rating: C
 rating_auto: B
+sieve: keep_C  # 闸 1 G1 2026-10-29
 rating_research: C  # 集团品牌区域站（Carrier/IFS）；c_sub=体量过大/集团自有线
 score: 27
 country: 澳大利亚
@@ -26,7 +29,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-25
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -229,8 +232,8 @@ updated: 2026-10-25
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 27）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 27）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -2,12 +2,15 @@
 
 > **评级 C**　|　澳大利亚　|　档案编号 `SC-405`　|　优先级 —　|　状态：已推送 15 次·未回复
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：澳大利亚 CTC Communications（ctccommunications.com.au；销售平台，很多牌子有 Wi-Tek，injector 较多）：平台商 + 四主区外；群发 15 次 0 回 → 留 C（储备）
+>
 > **类型**：分销商/经销商（推断）　|　**历史关系**：推送 15 次（2025-02-28 → 2025-11-06）　|　**所在清单**：A优质名单(AU)、AI评估(AU)、群发(筛选后质量一般的_群发)、表:AU　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-405
 rating: C
 rating_auto: C
+sieve: keep_C  # 闸 1 G1 2026-10-29
 score: 21
 country: 澳大利亚
 region: 亚太
@@ -25,7 +28,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 4
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -173,8 +176,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 C，分数 21）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 C，分数 21）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

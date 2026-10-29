@@ -2,12 +2,15 @@
 
 > **评级 C**　|　韩国　|　档案编号 `SC-390`　|　优先级 —　|　状态：已推送 45 次·未回复
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：韩国 FST Korea（fstkorea.com；PoE switch，问 KC 认证 = Saga 无 KC）：群发 45 次 0 回 → 留 C
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 45 次（2024-05-27 → 2025-11-04）　|　**所在清单**：A优质名单(KR)、表:Secon 2023、AI评估(KR)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-390
 rating: C
 rating_auto: C
+sieve: keep_C  # 闸 1 G1 2026-10-29
 score: 21
 country: 韩国
 region: 亚太
@@ -25,7 +28,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 3
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -198,8 +201,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 C，分数 21）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 C，分数 21）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -3,11 +3,12 @@
   "updated": "2026-10-29",
   "rules": "docs/C池三闸筛选_方案_2026-10-29.md §2",
   "counts": {
-   "keep_C": 1134,
-   "pass_final": 193,
-   "pool_candidate": 101
+   "keep_C": 1328,
+   "pass_final": 195,
+   "pool_candidate": 101,
+   "candidate": 24
   },
-  "n": 1428
+  "n": 1648
  },
  "SC-001": {
   "verdict": "keep_C",
@@ -176,6 +177,15 @@
   "tags": [
    "dayjob_fit"
   ]
+ },
+ "SC-018": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "新加坡（待核）Fastcabling（fastcabling.com；深圳厂商海外品牌站）：同行；群发 5 次 0 回 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12"
  },
  "SC-019": {
   "verdict": "keep_C",
@@ -372,6 +382,15 @@
   "manual": true,
   "batch": "G1-02"
  },
+ "SC-039": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾；表分 同行/台湾厂商；兴趣：Switch 工业通讯；研：台湾工业通讯厂商（同行） → 同行 / 自有品牌厂商，非渠道客户；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12"
+ },
  "SC-040": {
   "verdict": "keep_C",
   "gate": 1,
@@ -459,6 +478,15 @@
   "manual": true,
   "batch": "G1-01"
  },
+ "SC-050": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "韩国；表分 品类不符；兴趣：Fortinet交换机 / from: 阿里巴巴RFQ；研：IT 公司（韩国，品牌指定 RFQ） → 需求 / 主业为 Saga 不供品类（光端机 / WDM / bypass / 无源 / 板级 / 软件 / 服务）；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12"
+ },
  "SC-051": {
   "verdict": "keep_C",
   "gate": 1,
@@ -476,6 +504,24 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-05"
+ },
+ "SC-053": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "韩国 BARO AI（baroai.com；自建站询盘「核心交换机 MSN3420-CB2FC Spectrum-2」= 品牌指定 DC 交换机）：AI 终端自用、品牌指定；未触达 → 留 C（DC 对位，CENTEC 敲门砖可择机）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12"
+ },
+ "SC-054": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "日本；表分 体量过大；兴趣：Switch；跟进 2 次无回复；研：上市线缆制造商（日本） → 巨头 / 集团 / 大型分销：按 U117 不 pass；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12"
  },
  "SC-055": {
   "verdict": "keep_C",
@@ -597,6 +643,15 @@
   "manual": true,
   "batch": "G1-05"
  },
+ "SC-067": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "俄罗斯 Eltex CM（eltexcm.ru；Элтекс 官方经销商，表内「switch 没办法突破」）：专营俄产 Eltex（国产替代导向）→ 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12"
+ },
  "SC-068": {
   "verdict": "keep_C",
   "gate": 1,
@@ -608,6 +663,15 @@
   "tags": [
    "dayjob_fit"
   ]
+ },
+ "SC-069": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "文莱 Imagine Sdn. Bhd.（imagine.com.bn；电信运营商；「工业交换机 / 于总推荐」）：运营商 + 推荐线索；未触达 → 留 C（运营商不作永久 pass）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12"
  },
  "SC-070": {
   "verdict": "pass_final",
@@ -663,6 +727,15 @@
    "dayjob_fit"
   ]
  },
+ "SC-075": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "基里巴斯；表分 区域外/品类不符；兴趣：Elink PoE Injector / from: 阿里巴巴询盘；研：IT 服务商（基里巴斯，注入器询盘） → 需求 / 主业为 Saga 不供品类（光端机 / WDM / bypass / 无源 / 板级 / 软件 / 服务）；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12"
+ },
  "SC-077": {
   "verdict": "keep_C",
   "gate": 1,
@@ -689,6 +762,15 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-02"
+ },
+ "SC-081": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾 REPOTEC（repotec.com；MC / FS / 工业小壳 / SFP；表内「不跟了，他们那在面谈了」= SmartByte 原厂直接客户）：留 C；洪瑞现供客户 → Q-33 口径待 Simon（默认只推 SmartByte / Marvell 管理 + 工业线）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12"
  },
  "SC-082": {
   "verdict": "keep_C",
@@ -807,6 +889,27 @@
   "manual": true,
   "batch": "G1-02"
  },
+ "SC-095": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "以色列；表分 体量过大；兴趣：买的VC 化工 建筑 安全都做 工业品；跟进 6 次无回复；研：上市工程集团（以色列） → 巨头 / 集团 / 大型分销：按 U117 不 pass；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-096": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "新加坡 Rapsodo（rapsodo.com；运动表现分析设备厂商；展会问工业交换机 L2 / 光口速率，疑代朋友问）：非渠道但有互动（非零）→ 留 C（不主动碰）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12"
+ },
  "SC-097": {
   "verdict": "keep_C",
   "gate": 1,
@@ -836,6 +939,18 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-05"
+ },
+ "SC-100": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "韩国；表分 品类不符；兴趣：无人机模块 / from: 阿里巴巴RFQ；研：精密授时/GNSS 代理商（韩国，无人机模块 RFQ） → 需求 / 主业为 Saga 不供品类（光端机 / WDM / bypass / 无源 / 板级 / 软件 / 服务）；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12",
+  "tags": [
+   "dayjob_fit"
+  ]
  },
  "SC-1002": {
   "verdict": "keep_C",
@@ -883,6 +998,15 @@
   "batch": "G2-124",
   "g1_batch": "G1-05",
   "g1_reason": "土耳其 Aras Varel / Varel Alarm（工商业 FS，在卖 Utepo）：土耳其主区 + 已进口中国同类品牌 + 对位 ✔；arasvarel.com 无 MX 但 varelalarm.com 正常 → 闸 2 查底数 + 换地址"
+ },
+ "SC-101": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "日本；表分 体量过大；兴趣：一些marvell交换机；跟进 7 次无回复；研：半导体分销巨头（日本） → 巨头 / 集团 / 大型分销：按 U117 不 pass；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12"
  },
  "SC-1010": {
   "verdict": "keep_C",
@@ -945,6 +1069,18 @@
   "batch": "G1-02",
   "tags": [
    "oem_target",
+   "dayjob_fit"
+  ]
+ },
+ "SC-102": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "韩国；表分 品类不符；兴趣：I/O模块 / from: 自建站；研：自动化公司（韩国，I/O 模块询盘） → 需求 / 主业为 Saga 不供品类（光端机 / WDM / bypass / 无源 / 板级 / 软件 / 服务）；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12",
+  "tags": [
    "dayjob_fit"
   ]
  },
@@ -1439,6 +1575,15 @@
   "manual": true,
   "batch": "G1-05"
  },
+ "SC-108": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "以色列；表分 品类不符；兴趣：IP转Coax+RS485 / from: 阿里巴巴询盘；研：网络产品公司（以色列，EoC 询盘） → 需求 / 主业为 Saga 不供品类（光端机 / WDM / bypass / 无源 / 板级 / 软件 / 服务）；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12"
+ },
  "SC-1080": {
   "verdict": "keep_C",
   "gate": 1,
@@ -1589,6 +1734,15 @@
    "dayjob_fit"
   ]
  },
+ "SC-110": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "泰国；表分 品类不符；兴趣：无人机 / from: 阿里巴巴RFQ；研：IT 设备商（泰国，无人机 RFQ） → 需求 / 主业为 Saga 不供品类（光端机 / WDM / bypass / 无源 / 板级 / 软件 / 服务）；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12"
+ },
  "SC-1100": {
   "verdict": "keep_C",
   "gate": 1,
@@ -1657,6 +1811,18 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-05",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-111": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "乌干达；表分 区域外/品类不符；兴趣：工业PoE Extender / from: 阿里巴巴RFQ；研：IT 零售商（乌干达，延长器 RFQ） → 需求 / 主业为 Saga 不供品类（光端机 / WDM / bypass / 无源 / 板级 / 软件 / 服务）；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12",
   "tags": [
    "dayjob_fit"
   ]
@@ -1834,6 +2000,18 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-04"
+ },
+ "SC-113": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "泰国；表分 品类不符；兴趣：I/O模块 / from: 自建站；研：自动化公司（泰国，I/O 模块询盘） → 需求 / 主业为 Saga 不供品类（光端机 / WDM / bypass / 无源 / 板级 / 软件 / 服务）；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12",
+  "tags": [
+   "dayjob_fit"
+  ]
  },
  "SC-1132": {
   "verdict": "keep_C",
@@ -2934,6 +3112,15 @@
   "manual": true,
   "batch": "G1-05"
  },
+ "SC-149": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "巴西；表分 品类不符；兴趣：200G/400G DCI / from: 阿里巴巴RFQ；研：网络服务商（巴西，DCI 超范围 RFQ） → 需求 / 主业为 Saga 不供品类（光端机 / WDM / bypass / 无源 / 板级 / 软件 / 服务）；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12"
+ },
  "SC-1490": {
   "verdict": "keep_C",
   "gate": 1,
@@ -2965,6 +3152,15 @@
   "batch": "G2-127",
   "g1_batch": "G1-01",
   "g1_reason": "南非 Duxbury Networking（知名分销商）：要过 8 光 8 管理 PoE 样品、「也卖很多商业 PoE」、常用邮件沟通；16 推 0 回 → 分销体量 + 对位 ✔ → 闸 2"
+ },
+ "SC-150": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "香港 Sunrich / ST Lab（sunrichtech.com.hk；网卡 / 扩展坞 OEM/ODM 厂商；表内「2.5G switch」）：同行 + 2.5G 口径待 SB-263；群发 8 次 0 回 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12"
  },
  "SC-1504": {
   "verdict": "keep_C",
@@ -3344,6 +3540,18 @@
    "dayjob_fit"
   ]
  },
+ "SC-163": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "沙特 SAFEEN Subsea（safeensubsea.com；AD Ports 合资海洋工程；询盘「2V1D 模拟板子 RS422」= 模拟视频光端机板卡）：本职线 + 终端；未触达 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-164": {
   "verdict": "keep_C",
   "gate": 1,
@@ -3608,6 +3816,18 @@
    "dayjob_fit"
   ]
  },
+ "SC-170": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "塞内加尔 SynchubsHVSS（synchubs.net；询盘「1G 电口模块」= SFP 电口模块，Saga 不供）：本职线 + 区域外；未触达 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-1702": {
   "verdict": "keep_C",
   "gate": 1,
@@ -3640,6 +3860,15 @@
   "g1_batch": "G1-06",
   "g1_reason": "丹麦 ITV Security（产品线 Vivotek + 深圳 acorid 牌）：欧洲 + 已进口中国品牌 + 对位 ✔（安防网络）；15 次跟进无回复（冷）→ 闸 2 查底数"
  },
+ "SC-171": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾；表分 同行/台湾厂商；兴趣：有一部分商业交换机；跟进 5 次无回复；研：台湾工业电脑厂商（同行） → 同行 / 自有品牌厂商，非渠道客户；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12"
+ },
  "SC-1711": {
   "verdict": "keep_C",
   "gate": 1,
@@ -3664,6 +3893,18 @@
    "dayjob_fit"
   ]
  },
+ "SC-172": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾 COP Security（cop-security.com；1992 起自有品牌 CCTV，表内「工业交换机 ONV 的」= 配套 PoE / 工业机外购中国品牌）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔；2 次 0 回 → 闸 2 查底数（twincn）；四主区外，低优先",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12",
+  "tags": [
+   "oem_target"
+  ]
+ },
  "SC-1728": {
   "verdict": "keep_C",
   "gate": 1,
@@ -3684,6 +3925,15 @@
   "tags": [
    "dayjob_fit"
   ]
+ },
+ "SC-173": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "马达加斯加 HABIBO Group（habibo.mg；食品集团；自建站询盘「2 个品牌的交换机」）：终端自用 + 区域外，但有询盘互动 → 留 C（不作永久 pass）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12"
  },
  "SC-1730": {
   "verdict": "keep_C",
@@ -3768,6 +4018,18 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-06"
+ },
+ "SC-174": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾；表分 同行/台湾厂商；兴趣：一些marvell交换机；跟进 3 次无回复；研：台湾网络设备厂商（同行） → 同行 / 自有品牌厂商，非渠道客户；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12",
+  "tags": [
+   "dayjob_fit"
+  ]
  },
  "SC-1740": {
   "verdict": "keep_C",
@@ -3902,6 +4164,15 @@
    "dayjob_fit"
   ]
  },
+ "SC-176": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾；表分 同行/台湾厂商；兴趣：有marvell交换机 其他国家有分公司；跟进 5 次无回复；研：台湾工业电脑厂商（同行） → 同行 / 自有品牌厂商，非渠道客户；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12"
+ },
  "SC-1761": {
   "verdict": "keep_C",
   "gate": 1,
@@ -3949,6 +4220,15 @@
   "tags": [
    "dayjob_fit"
   ]
+ },
+ "SC-177": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾；表分 同行/台湾厂商；兴趣：大口Switch；跟进 2 次无回复；研：台湾上市 ODM（同行） → 同行 / 自有品牌厂商，非渠道客户；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12"
  },
  "SC-1770": {
   "verdict": "keep_C",
@@ -4001,6 +4281,15 @@
   "manual": true,
   "batch": "G1-04"
  },
+ "SC-178": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾；表分 同行/台湾厂商；兴趣：Marvell核心交换机；跟进 3 次无回复；研：台湾交换机厂商（同行） → 同行 / 自有品牌厂商，非渠道客户；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12"
+ },
  "SC-1782": {
   "verdict": "keep_C",
   "gate": 1,
@@ -4043,6 +4332,15 @@
   "manual": true,
   "batch": "G1-04"
  },
+ "SC-179": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾；表分 巨头/台湾厂商；兴趣：Switch；跟进 2 次无回复；研：台湾上市 ODM 巨头 → 巨头 / 集团 / 大型分销：按 U117 不 pass；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12"
+ },
  "SC-1798": {
   "verdict": "pass_final",
   "gate": 1,
@@ -4054,6 +4352,15 @@
   "tags": [
    "dayjob_fit"
   ]
+ },
+ "SC-180": {
+  "verdict": "pass_final",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "白俄罗斯 TM.by（tm.by；明斯克综合网上商城：工具 / 家电 / 卫浴 / 建材，非网络渠道、非买家）零互动、无询盘 → 纯无关行业非买家，永久 pass",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12"
  },
  "SC-1800": {
   "verdict": "keep_C",
@@ -4214,6 +4521,18 @@
    "dayjob_fit"
   ]
  },
+ "SC-184": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "巴西；表分 中介/品类不符；兴趣：收发器 / from: 阿里巴巴RFQ；研：进口代理公司（巴西，中介） → 需求 / 主业为 Saga 不供品类（光端机 / WDM / bypass / 无源 / 板级 / 软件 / 服务）；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-1842": {
   "verdict": "pass_final",
   "gate": 0,
@@ -4255,6 +4574,18 @@
   "batch": "G1-04",
   "tags": [
    "dayjob_fit"
+  ]
+ },
+ "SC-185": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "韩国 DASAN Networks（dasannetworks.com；上市网络设备集团；表内「三旺的长期合作客户」「质量高」= 长期进口中国工业交换机；KP Richard / jrcho@）：Simon 点名韩国 + 进口中国同类品牌 + 对位 ✔，群发 22 次 0 回 → 闸 2 查底数（DART）+ 找产品采购 KP；低优先，可否决",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12",
+  "tags": [
+   "oem_target"
   ]
  },
  "SC-1850": {
@@ -4598,6 +4929,15 @@
    "dayjob_fit"
   ]
  },
+ "SC-190": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "厄瓜多尔；表分 群发冷名单无回应；兴趣：Info → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
+ },
  "SC-1901": {
   "verdict": "keep_C",
   "gate": 1,
@@ -4882,6 +5222,18 @@
    "oem_target"
   ]
  },
+ "SC-197": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "香港；表分 区域外/品类不符；兴趣：Managed Networking；研：香港数据中心集成商（非目标区/品类） → 需求 / 主业为 Saga 不供品类（光端机 / WDM / bypass / 无源 / 板级 / 软件 / 服务）；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-1975": {
   "verdict": "keep_C",
   "gate": 1,
@@ -4920,6 +5272,18 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-04"
+ },
+ "SC-199": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "利比亚；表分 运营商；兴趣：Bypass模块 / from: 阿里巴巴询盘；研：通信服务商/ISP（利比亚，守界：运营商） → 运营商 / ISP：非渠道客户；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12",
+  "tags": [
+   "dayjob_fit"
+  ]
  },
  "SC-1991": {
   "verdict": "keep_C",
@@ -5113,6 +5477,18 @@
    "dayjob_fit"
   ]
  },
+ "SC-205": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "泰国；表分 体量过大；兴趣：工业FS SFP；跟进 9 次无回复；研：上市集团（台达，巨头） → 巨头 / 集团 / 大型分销：按 U117 不 pass；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-2050": {
   "verdict": "keep_C",
   "gate": 1,
@@ -5181,6 +5557,15 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-04"
+ },
+ "SC-206": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "以色列 Enercon Technologies（enercon.co.il；军用电源 / 加固网络设备制造商 MIL-STD）：军工 = 守界（INH），群发 16 次 0 回 → 留 C（不主动碰；守界不等于刚性 pass）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12"
  },
  "SC-2061": {
   "verdict": "keep_C",
@@ -5277,6 +5662,15 @@
   "manual": true,
   "batch": "G1-04"
  },
+ "SC-208": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "澳大利亚 Fire Security Products（firesecurityproducts.com 域 no_mx；Carrier 旗下 IFS 集团自有线；仅 zendesk 客服邮箱）：巨头体系 + 域无 MX；群发 21 次 0 回 → 留 C 待巡检",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12"
+ },
  "SC-2081": {
   "verdict": "keep_C",
   "gate": 1,
@@ -5309,6 +5703,15 @@
   "tags": [
    "oem_target"
   ]
+ },
+ "SC-209": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "澳大利亚（表内）HT Networks（htnetglobal.com；ISO9001 / OEM/ODM / 云管理平台 + 「深圳有办事处」）：中国厂商海外站 = 同行；群发 14 次 0 回 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12"
  },
  "SC-2091": {
   "verdict": "keep_C",
@@ -7313,6 +7716,15 @@
   "manual": true,
   "batch": "G1-04"
  },
+ "SC-248": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "俄罗斯 Ростелеком Rostelecom（rt.ru；国家电信运营商 B2O 邮箱）：巨头运营商（难但非永久 pass）；未触达 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12"
+ },
  "SC-2480": {
   "verdict": "keep_C",
   "gate": 1,
@@ -8401,6 +8813,15 @@
   "manual": true,
   "batch": "G1-04"
  },
+ "SC-267": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "韩国；表分 综合分低；兴趣：面部识别，需要定制 / attn: WonSup Shin | telephone: 82-2-58 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12"
+ },
  "SC-2671": {
   "verdict": "keep_C",
   "gate": 1,
@@ -8523,6 +8944,18 @@
   "batch": "G1-07",
   "tags": [
    "oem_target"
+  ]
+ },
+ "SC-270": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "马来西亚 Pernec Integrated Network Systems（pernec.com.my；IT 集成商，展会拿了光路彩页）：本职线互动 + 四主区外；未触达 → 留 C + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12",
+  "tags": [
+   "dayjob_fit"
   ]
  },
  "SC-2700": {
@@ -8954,6 +9387,15 @@
   "manual": true,
   "batch": "G1-04"
  },
+ "SC-275": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "俄罗斯；表分 综合分低；兴趣：商业交换机；跟进 15 次无回复 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12"
+ },
  "SC-2754": {
   "verdict": "keep_C",
   "gate": 1,
@@ -9136,6 +9578,15 @@
    "oem_target"
   ]
  },
+ "SC-279": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "俄罗斯；表分 综合分低；兴趣：工业FS；跟进 17 次无回复 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12"
+ },
  "SC-2790": {
   "verdict": "keep_C",
   "gate": 1,
@@ -9217,6 +9668,18 @@
   "g1_batch": "G1-07",
   "g1_reason": "英国 Ogar Technology（商业 PoE 看着像 ONV 的；退信）：英国主区 + 疑似进口中国品牌 + 对位 ✔；17 推 0 回 → 闸 2 查底数 + 找新地址，低优先；Simon 曾判不行 → 可按编号否决"
  },
+ "SC-281": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "俄罗斯；表分 综合分低；兴趣：Switch CCTV；跟进 18 次无回复 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-2813": {
   "verdict": "keep_C",
   "gate": 1,
@@ -9249,6 +9712,15 @@
   "tags": [
    "dayjob_fit"
   ]
+ },
+ "SC-282": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "俄罗斯；表分 综合分低；兴趣：商业POE；跟进 17 次无回复 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12"
  },
  "SC-2820": {
   "verdict": "keep_C",
@@ -9289,6 +9761,18 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-02",
+  "tags": [
+   "oem_target"
+  ]
+ },
+ "SC-283": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "俄罗斯 Comonyx / CCTV Onyx（comonyx.com / cctvonyx.ru；自有 Onyx CCTV 品牌 + 「有 ONV 的 PoE 配件」= 自有品牌 + 进口中国 PoE）：Simon 点名俄罗斯 + 自有品牌 + 对位 ✔，群发 20 次 0 回 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12",
   "tags": [
    "oem_target"
   ]
@@ -9411,6 +9895,15 @@
   "reason": "邮箱 asdsd@gmail.com 明显假 + 表记「邮件发不过去 垃圾询盘」",
   "date": "2026-10-29"
  },
+ "SC-286": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "沙特阿拉伯；表分 群发冷名单无回应；兴趣：Dlink → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12"
+ },
  "SC-2864": {
   "verdict": "pass_final",
   "gate": 0,
@@ -9429,6 +9922,15 @@
   "tags": [
    "dayjob_fit"
   ]
+ },
+ "SC-287": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "俄罗斯；表分 综合分低；兴趣：工商业FS；跟进 17 次无回复 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12"
  },
  "SC-2870": {
   "verdict": "keep_C",
@@ -9540,6 +10042,15 @@
   "manual": true,
   "batch": "G1-08"
  },
+ "SC-289": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "俄罗斯 Fastwel（fastwel.ru；俄产工业计算机 / 工业 FS M12 自有品牌厂商）：同行 + M12 Saga 不供；群发 17 次 0 回 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12"
+ },
  "SC-2892": {
   "verdict": "keep_C",
   "gate": 1,
@@ -9644,6 +10155,15 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-04"
+ },
+ "SC-291": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "马来西亚 FGSS（fgss.asia；展会「需要报价单」）：有互动但四主区外、无进口证据；未触达 → 留 C（储备）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12"
  },
  "SC-2910": {
   "verdict": "pass_final",
@@ -9899,6 +10419,15 @@
    "dayjob_fit"
   ]
  },
+ "SC-295": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "乌兹别克斯坦 Inline（inline.uz；表内「工业 FS / SFP / 光猫，好几个牌子，有公司的 2 光 8、nufiber 的」= 在售与公司同口型工业机）：进口中国同类 ✔ 对位 ✔ + 同区先例 SETKO 成单，群发 19 次 0 回 → 闸 2 查底数；低优先",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12"
+ },
  "SC-2950": {
   "verdict": "keep_C",
   "gate": 1,
@@ -10051,6 +10580,15 @@
    "dayjob_fit"
   ]
  },
+ "SC-297": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "俄罗斯 Mavink / Aisprom（mavink.com 域 no_mx；aisprom.ru 正常；工业 FS）：群发 17 次 0 回、无进口证据 → 留 C 待巡检",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12"
+ },
  "SC-2976": {
   "verdict": "pool_candidate",
   "gate": 2,
@@ -10065,6 +10603,15 @@
    "oem_target"
   ]
  },
+ "SC-298": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "南非 MiRO（miro.co.za；表内「很多有名的牌子，有 Edimax 的；商业 PoE / FS / 工业 FS / 周边设备；分销商」= 多牌分销 + 进口台湾同类）：同区先例 Duxbury ★ + 对位 ✔，群发 8 次 0 回 → 闸 2 查底数；低优先",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12"
+ },
  "SC-2983": {
   "verdict": "keep_C",
   "gate": 1,
@@ -10073,6 +10620,19 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-04"
+ },
+ "SC-299": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "哈萨克斯坦 NAG（nag.kz；NAG / SNR 集团自有品牌，表内「从国内买 CWDM 模块 / Switch / SFP / MC 等」= 自有品牌 + 从中国直采）：自有品牌 ✔ 进口中国同类 ✔ 对位 ✔，群发 16 次 0 回 → 闸 2 查底数；俄语区收款待定，低优先",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-12",
+  "tags": [
+   "oem_target",
+   "dayjob_fit"
+  ]
  },
  "SC-2993": {
   "verdict": "pool_candidate",
@@ -10095,6 +10655,15 @@
   "rule": "G0-2",
   "reason": "表记发不过去 / 退信；cctvkingdom.com NXDOMAIN；无电话、无 WA",
   "date": "2026-10-29"
+ },
+ "SC-300": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "南非；表分 低价值区域冷线索；兴趣：IP-based产品 也牵涉到了PoE；跟进 8 次无回复 → 无刚性 pass 证据；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
  },
  "SC-3008": {
   "verdict": "pass_final",
@@ -10130,6 +10699,18 @@
   "rule": "G0-2",
   "reason": "表记发不过去 / 退信；pg-link.com NXDOMAIN；无电话、无 WA",
   "date": "2026-10-29"
+ },
+ "SC-302": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "俄罗斯 OSNOVO（osnovo.ru；俄区自有品牌 PoE 交换机 / MC / 工业 FS，中国代工）：自有品牌 ✔ 对位 ✔ Simon 点名俄罗斯；群发 18 次 0 回 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13",
+  "tags": [
+   "oem_target"
+  ]
  },
  "SC-3020": {
   "verdict": "keep_C",
@@ -10219,6 +10800,15 @@
   "manual": true,
   "batch": "G1-08"
  },
+ "SC-304": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "新西兰 PB Tech（pbtech.com / pbtech.co.nz；大型 IT 零售电商，很多牌子）：大平台；未触达 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
+ },
  "SC-3048": {
   "verdict": "pass_final",
   "gate": 0,
@@ -10234,6 +10824,15 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-08"
+ },
+ "SC-305": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "俄罗斯 ProSoft（prosoft.ru；大型工业自动化分销，表内「三旺 · 迈威 · BDCOM」）：进口中国工业同类 ✔ 对位 ✔ 俄罗斯；群发 8 次 0 回 → 闸 2 查底数；俄语区收款待定，低优先",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
  },
  "SC-3051": {
   "verdict": "keep_C",
@@ -10287,6 +10886,15 @@
   "manual": true,
   "batch": "G1-08"
  },
+ "SC-306": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "俄罗斯；表分 综合分低；兴趣：switch；跟进 16 次无回复 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
+ },
  "SC-3061": {
   "verdict": "keep_C",
   "gate": 1,
@@ -10313,6 +10921,15 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-02"
+ },
+ "SC-307": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "澳大利亚 SAGE Automation（sageautomation.com；大型自动化集成集团）：巨头体系 + 四主区外；未触达 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
  },
  "SC-3070": {
   "verdict": "keep_C",
@@ -10430,6 +11047,15 @@
    "dayjob_fit"
   ]
  },
+ "SC-309": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "俄罗斯 TD Tel（tdtel.ru；表内「卖朱姐牌子设备 PoE / MC / switch / 周边」= 在售中国同口型产品）：进口中国同类 ✔ 对位 ✔ 俄罗斯；群发 18 次 0 回 → 闸 2 查底数；俄语区收款待定，低优先",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
+ },
  "SC-3092": {
   "verdict": "keep_C",
   "gate": 1,
@@ -10480,6 +11106,15 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-04"
+ },
+ "SC-311": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "俄罗斯 Videoglaz（videoglaz.ru；CCTV 为主 + hasivo 商业 PoE）：进口中国同类 ✔ 对位 ✔ 俄罗斯；群发 17 次 0 回 → 闸 2 查底数；俄语区收款待定，低优先",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
  },
  "SC-3119": {
   "verdict": "pass_final",
@@ -10565,6 +11200,15 @@
   "batch": "G2-127",
   "g1_batch": "G1-08",
   "g1_reason": "法国 Sphinx（sphinxcomputer.fr / sphinxconnect.fr；工业 FS 好几个牌子 = 法国工业网络分销商）：欧洲 + 分销主体 + 对位 ✔ → 闸 2 查底数（stop flag 为文本命中，非要求停发）；Simon 曾判不行 → 可按编号否决"
+ },
+ "SC-314": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度；表分 低价值区域冷线索；兴趣：Ethernet Switch → 无刚性 pass 证据；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
  },
  "SC-3143": {
   "verdict": "keep_C",
@@ -10969,6 +11613,15 @@
    "dayjob_fit"
   ]
  },
+ "SC-323": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "俄罗斯 CompTek（comptek.ru；大型网络分销，表内「有 DCN 的，switch 等很多产品」）：进口中国同类 ✔ 对位 ✔ 俄罗斯；未触达 → 闸 2 查底数；俄语区收款待定，低优先",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
+ },
  "SC-3233": {
   "verdict": "pass_final",
   "gate": 0,
@@ -10984,6 +11637,15 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-08"
+ },
+ "SC-324": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度 Enercore（enercore.co.in；表内「工业 FS 有海思的」= 在售中国方案工业机）：进口中国同类 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
  },
  "SC-3241": {
   "verdict": "keep_C",
@@ -11056,6 +11718,15 @@
   "rule": "G0-3",
   "reason": "表记「company=拉黑了 | co」—— 关系已断死",
   "date": "2026-10-29"
+ },
+ "SC-326": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "阿塞拜疆；表分 综合分低 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
  },
  "SC-3260": {
   "verdict": "pass_final",
@@ -11365,6 +12036,15 @@
   "manual": true,
   "batch": "G1-04"
  },
+ "SC-332": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "俄罗斯；表分 综合分低 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
+ },
  "SC-3320": {
   "verdict": "keep_C",
   "gate": 1,
@@ -11387,6 +12067,15 @@
   "rule": "G0-1",
   "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
   "date": "2026-10-29"
+ },
+ "SC-333": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "俄罗斯；表分 综合分低；兴趣：24/48口及高速交换机 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
  },
  "SC-3330": {
   "verdict": "pass_final",
@@ -11540,6 +12229,15 @@
   "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
   "date": "2026-10-29"
  },
+ "SC-335": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "蒙古国；表分 综合分低 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
+ },
  "SC-3350": {
   "verdict": "pass_final",
   "gate": 0,
@@ -11602,6 +12300,15 @@
   "rule": "G0-1",
   "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
   "date": "2026-10-29"
+ },
+ "SC-336": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度；表分 低价值区域冷线索；兴趣：报的工业级的 → 无刚性 pass 证据；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
  },
  "SC-3360": {
   "verdict": "pass_final",
@@ -11672,6 +12379,18 @@
   "rule": "G0-1",
   "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
   "date": "2026-10-29"
+ },
+ "SC-337": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度；表分 低价值区域冷线索；兴趣：工业FS（和上边bsdnetworks的一样） MC → 无刚性 pass 证据；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13",
+  "tags": [
+   "dayjob_fit"
+  ]
  },
  "SC-3370": {
   "verdict": "pass_final",
@@ -11978,6 +12697,18 @@
   "manual": true,
   "batch": "G1-01"
  },
+ "SC-341": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度；表分 低价值区域冷线索；兴趣：MC 工业FS → 无刚性 pass 证据；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-3418": {
   "verdict": "keep_C",
   "gate": 1,
@@ -12033,6 +12764,15 @@
   "g1_batch": "G1-08",
   "g1_reason": "法国 Pine Networks（pine-networks.com；Edgecore 的 = 开放网络 / 数据中心白盒渠道）：欧洲 + DC 对位（CENTEC 敲门砖）+ 分销主体；名单内未触达 → 闸 2 查底数，低优先"
  },
+ "SC-346": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "亚美尼亚 Planet Fibers（planetfibers.com；BDCOM 高速交换机）：进口中国同类 ✔ 但非点名国别、未触达 → 留 C（储备）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
+ },
  "SC-347": {
   "verdict": "keep_C",
   "gate": 2,
@@ -12065,6 +12805,15 @@
   "manual": true,
   "batch": "G1-08"
  },
+ "SC-350": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度；表分 低价值区域冷线索；兴趣：商业交换机 → 无刚性 pass 证据；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
+ },
  "SC-351": {
   "verdict": "keep_C",
   "gate": 1,
@@ -12089,6 +12838,24 @@
    "dayjob_fit"
   ]
  },
+ "SC-353": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度；表分 低价值区域冷线索；兴趣：Switch → 无刚性 pass 证据；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
+ },
+ "SC-354": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "利比亚 SmarTV（smartv.ly；问 HPE Aruba 设备，珊姐转）：品牌指定 + 区域外 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
+ },
  "SC-355": {
   "verdict": "keep_C",
   "gate": 1,
@@ -12100,6 +12867,15 @@
   "tags": [
    "dayjob_fit"
   ]
+ },
+ "SC-356": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "白俄罗斯；表分 综合分低 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
  },
  "SC-357": {
   "verdict": "keep_C",
@@ -12121,6 +12897,24 @@
   "tags": [
    "dayjob_fit"
   ]
+ },
+ "SC-359": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "哈萨克斯坦；表分 综合分低 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
+ },
+ "SC-360": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度；表分 低价值区域冷线索；兴趣：PoE WIFI等 → 无刚性 pass 证据；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
  },
  "SC-362": {
   "verdict": "keep_C",
@@ -12234,6 +13028,57 @@
   "manual": true,
   "batch": "G1-04"
  },
+ "SC-373": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾；表分 群发冷名单无回应；兴趣：VoIP等家用产品较多 少量switch → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
+ },
+ "SC-374": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "越南；表分 群发冷名单无回应；兴趣：Switch 模块等 用台湾的牌子；跟进 7 次无回复 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-375": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "俄罗斯 c-sb.ru（销售平台 / 集成商，出现朱姐客户产品 + NSGate）：身份不明（「似乎」）；群发 8 次 0 回 → 留 C（储备，闸 2 轮空）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
+ },
+ "SC-376": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "马来西亚；表分 群发冷名单无回应；兴趣：主要是CCTV 商业POE Utepo的；跟进 1 次无回复 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-377": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾 Dinkle（dinkle.com；端子台制造商，工业 FS 为边角）：台湾厂商 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
+ },
  "SC-378": {
   "verdict": "keep_C",
   "gate": 1,
@@ -12242,6 +13087,27 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-08"
+ },
+ "SC-381": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "马来西亚；表分 群发冷名单无回应；兴趣：主要是CCTV 商业POE；跟进 1 次无回复 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-382": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "南非 Security Warehouse（securitywarehouse.co.za；Hasivo + CCTV 分销）：进口中国同类 ✔ 对位 ✔ + 同区先例 Duxbury / MiRO；群发 5 次 0 回 → 闸 2 查底数；低优先",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
  },
  "SC-383": {
   "verdict": "keep_C",
@@ -12261,6 +13127,27 @@
   "manual": true,
   "batch": "G1-01"
  },
+ "SC-386": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "韩国 CoreEdge Networks（coreedge.co.kr；要 2 光 10 电 PoE 网管 BT 90W / 4 光 8 电 10G，会英文；KP Moo Seok Choi）：规格询盘 ✔ 但群发 35 次 0 回、BT 90W Saga 不供 → 留 C（回信即候选）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
+ },
+ "SC-387": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "韩国 DGTAS（dgtas.co.kr；摄像头厂商，有客户项目，要「可远程控制的 PoE switch」配套；Evelyn 加了微信，KP Lily）：自有品牌摄像头 ✔ 微信在 ✔ Simon 点名韩国；邮件 37 次 0 回 → 闸 2 查底数（bizno）+ 改走微信；低优先",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13",
+  "tags": [
+   "oem_target"
+  ]
+ },
  "SC-388": {
   "verdict": "keep_C",
   "gate": 1,
@@ -12273,6 +13160,24 @@
    "dayjob_fit"
   ]
  },
+ "SC-389": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "韩国 ELPKNEW（elpknew.com；PoE switch；KP Kim Jinkook）：群发 45 次 0 回、无进口证据 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
+ },
+ "SC-390": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "韩国 FST Korea（fstkorea.com；PoE switch，问 KC 认证 = Saga 无 KC）：群发 45 次 0 回 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
+ },
  "SC-391": {
   "verdict": "keep_C",
   "gate": 1,
@@ -12282,6 +13187,15 @@
   "manual": true,
   "batch": "G1-04"
  },
+ "SC-392": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "韩国 NST（nstco.co.kr；工业 FS / PoE / MC / 机架 FS；KP Suksung Lee）：群发 31 次 0 回、无进口证据 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
+ },
  "SC-393": {
   "verdict": "keep_C",
   "gate": 1,
@@ -12290,6 +13204,75 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-04"
+ },
+ "SC-395": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "越南；表分 群发冷名单无回应；兴趣：展会拿了彩页 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
+ },
+ "SC-396": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "韩国 AddPac（addpac.com；VoIP / 网络设备制造商）：同行；群发 23 次 0 回 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
+ },
+ "SC-397": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "澳大利亚 Alloy（alloy.com.au；自有品牌 MC / SFP / 光猫 / 工业 FS / 商业 PoE，「很多公司在卖他家的」）：自有品牌 = OEM 对象 ✔ 对位 ✔；群发 22 次 0 回 → 闸 2 查底数（ABN）；四主区外，低优先",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13",
+  "tags": [
+   "oem_target"
+  ]
+ },
+ "SC-398": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "香港；表分 综合分低；兴趣：工业FS 产品较少 ONV的；跟进 17 次无回复 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
+ },
+ "SC-399": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾 Aristar（aristar.com.tw；官网打不开）：死站无退信；群发 9 次 0 回 → 留 C 待巡检",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
+ },
+ "SC-400": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "香港；表分 综合分低；兴趣：Switch MC 周边产品；跟进 18 次无回复 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-401": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾 Atop Technologies（atoponline.com 域 no_mx / atop.com.tw；工业 MC / 光猫厂商，多办事处）：台湾同行 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
  },
  "SC-402": {
   "verdict": "keep_C",
@@ -12302,6 +13285,33 @@
   "tags": [
    "dayjob_fit"
   ]
+ },
+ "SC-403": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾 CAMEO（cameo.com.tw；网络 ODM）：台湾同行；群发 9 次 0 回 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
+ },
+ "SC-404": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾 CERIO（cerio.com.tw；自有品牌 PoE / injector）：台湾同行；群发 9 次 0 回 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
+ },
+ "SC-405": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "澳大利亚 CTC Communications（ctccommunications.com.au；销售平台，很多牌子有 Wi-Tek，injector 较多）：平台商 + 四主区外；群发 15 次 0 回 → 留 C（储备）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
  },
  "SC-406": {
   "verdict": "keep_C",
@@ -12324,6 +13334,24 @@
   "manual": true,
   "batch": "G1-04"
  },
+ "SC-408": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾 Eten Technologies（etentech.com；工业 FS / MC / SFP 厂商）：台湾同行；群发 9 次 0 回 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
+ },
+ "SC-409": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "韩国 Sollae Systems（eztcp.com；串口服务器 / 网络模块厂商）：同行；群发 16 次 0 回 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
+ },
  "SC-410": {
   "verdict": "keep_C",
   "gate": 1,
@@ -12332,6 +13360,81 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-08",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-411": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "香港；表分 综合分低；兴趣：MC 工业FS 光猫 SFP；跟进 18 次无回复 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-412": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "韩国；表分 综合分低；兴趣：PoE配件 协议类的；跟进 18 次无回复 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
+ },
+ "SC-413": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度 HiFocus（hifocuscctv.com；自有品牌 CCTV，表内「买丰润达的商业 PoE」）：自有品牌 ✔ 进口中国同类 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13",
+  "tags": [
+   "oem_target"
+  ]
+ },
+ "SC-414": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "韩国 Hiprotech（hiprotech.co.kr；基本都是 Profibus，少量工业 FS）：对位弱；群发 23 次 0 回 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
+ },
+ "SC-415": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "韩国 Hyundai HDS（hyundaihds.co.kr；大口高速交换机）：集团体系；群发 23 次 0 回 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-13"
+ },
+ "SC-416": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾；表分 综合分低；兴趣：工业FS MC SFP；跟进 9 次无回复 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-417": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾；表分 综合分低；兴趣：MC SFP 工业FS POE；跟进 9 次无回复 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14",
   "tags": [
    "dayjob_fit"
   ]
@@ -12345,6 +13448,18 @@
   "manual": true,
   "batch": "G1-08"
  },
+ "SC-419": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "香港；表分 综合分低；兴趣：SFP 卖给别人；跟进 8 次无回复 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-420": {
   "verdict": "keep_C",
   "gate": 1,
@@ -12357,6 +13472,66 @@
    "oem_target",
    "dayjob_fit"
   ]
+ },
+ "SC-421": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "乌克兰 NTEMA（ntema.com.ua；Hasivo 商业 PoE）：进口中国同类 ✔ 但乌克兰 = 守界（难，非永久 pass）；群发 8 次 0 回 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14"
+ },
+ "SC-422": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾；表分 综合分低；兴趣：工业FS MC POE 周边产品；跟进 8 次无回复 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-423": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾；表分 综合分低；兴趣：工业FS MC EOC；跟进 9 次无回复 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-424": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "以色列 / 澳大利亚 RAD（rad.com；电信接入巨头，光旁路开关）：巨头 + bypass Saga 不供；群发 22 次 0 回 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14"
+ },
+ "SC-425": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾；表分 综合分低；兴趣：FS 工业FS串口 16槽机架等；跟进 9 次无回复 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14"
+ },
+ "SC-426": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "韩国 STDL（stdl.kr；switch 主要是 QNAP 的）：名牌专营；群发 23 次 0 回 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14"
  },
  "SC-427": {
   "verdict": "pool_candidate",
@@ -12372,6 +13547,36 @@
    "oem_target"
   ]
  },
+ "SC-428": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "泰国；表分 综合分低；兴趣：产品线很接近 销售平台；跟进 9 次无回复 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-432": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "马来西亚 CabNet Systems (M) Sdn. Bhd.（cabnet.asia；只用工业交换机、需 90W PoE、会中文）：PoE BT 90W Saga 不供 + 四主区外；未触达 → 留 C（储备）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14"
+ },
+ "SC-434": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "以色列；表分 群发冷名单无回应；兴趣：要求的交换机功能比较高级 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14"
+ },
  "SC-435": {
   "verdict": "keep_C",
   "gate": 1,
@@ -12381,6 +13586,57 @@
   "manual": true,
   "batch": "G1-04"
  },
+ "SC-437": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "伊朗；表分 群发冷名单无回应；兴趣：XFP, 10G LC port, dual fiber 1310nm, 2个 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-439": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "马来西亚；表分 群发冷名单无回应；兴趣：注重谈了CCTV应用 1+2+8商业POE，有时会用到，客户拍了照片 公司地址：A-5-10，Emp → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-444": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "乌克兰 Megatrade（megatrade.ua；大分销，工业级 PoE 管理交换机）：乌克兰 = 守界（难，非永久 pass）+ 大公司；未触达 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14"
+ },
+ "SC-446": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "新加坡；表分 品类不符（VC/DWDM/CCTV ；兴趣：Skype:madzindi 和上边的人一起来的 都合了照；跟进 7 次无回复 → 需求 / 主业为 Saga 不供品类（光端机 / WDM / bypass / 无源 / 板级 / 软件 / 服务）；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14"
+ },
+ "SC-447": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "以色列；表分 群发冷名单无回应；兴趣：看的是别人的产品 显 示的是2光8POE → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14"
+ },
  "SC-448": {
   "verdict": "keep_C",
   "gate": 1,
@@ -12389,6 +13645,15 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-04"
+ },
+ "SC-449": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "马来西亚 Primalcom Enterprise Sdn Bhd（primalcom.com；名片有 Utek 标志 = 与国内 Utek 合作，当地多用 TP-Link）：进口中国同类 ✔ 但四主区外非点名国 → 留 C（储备，可推工业级）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14"
  },
  "SC-450": {
   "verdict": "keep_C",
@@ -12402,6 +13667,75 @@
    "dayjob_fit"
   ]
  },
+ "SC-451": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "沙特阿拉伯；表分 群发冷名单无回应；兴趣：搞分销的 工业FS MC → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-452": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "马来西亚；表分 群发冷名单无回应；兴趣：处理POE smart city, fiber optics → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-453": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "马来西亚；表分 群发冷名单无回应；兴趣：工业FS MC SFP 机架 周边产品 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-454": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "马来西亚；表分 群发冷名单无回应；兴趣：工业FS MC 机架 VC FS → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-455": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "韩国 AGS Electronics（ags-electronics.com；在售 Atop 台湾工业交换机）：进口台湾同类 ✔ 对位 ✔ Simon 点名韩国；未触达 → 闸 2 查底数（bizno）；低优先",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14"
+ },
+ "SC-456": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "韩国；表分 群发冷名单无回应；兴趣：Bypass switch → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-457": {
   "verdict": "keep_C",
   "gate": 1,
@@ -12411,6 +13745,15 @@
   "manual": true,
   "batch": "G1-08"
  },
+ "SC-459": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "韩国 ANP Solutions（anpsolutions.co.kr / rtpkorea.com；Red Lion 工业 FS + PULS 电源）：仅卖美德名牌；未触达 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14"
+ },
  "SC-460": {
   "verdict": "keep_C",
   "gate": 1,
@@ -12419,6 +13762,54 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-04"
+ },
+ "SC-461": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "韩国；表分 群发冷名单无回应；兴趣：串口类 工业通讯 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14"
+ },
+ "SC-462": {
+  "verdict": "pass_final",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾 asmag.com（a&s 安防行业媒体 / Messe Frankfurt New Era Business Media；非经销商、非买家）零互动、无询盘 → 纯无关行业非买家，永久 pass",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14"
+ },
+ "SC-463": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度 Atronic（atronic.co.in；表内「logo 都没换，还是 ONV 的」= 直售中国品牌）：进口中国同类 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14"
+ },
+ "SC-464": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾；表分 群发冷名单无回应；兴趣：工业FS 外壳颜色比较独特 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14"
+ },
+ "SC-465": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾 AVTECH（avtech.com.tw；自有品牌 CCTV，表内「商业 PoE 很像帧田的」= 配套 PoE 外购中国）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔；未触达 → 闸 2 查底数（twincn）；四主区外，低优先",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14",
+  "tags": [
+   "oem_target"
+  ]
  },
  "SC-466": {
   "verdict": "keep_C",
@@ -12455,6 +13846,117 @@
   "g1_batch": "G1-08",
   "g1_reason": "爱沙尼亚 BK Eesti（bkeesti.ee；CCTV 为主，有 Utepo 的）：欧洲 + 已进口中国同类品牌 + 对位 ✔；15 推 0 回 → 闸 2 查底数，低优先"
  },
+ "SC-469": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "澳大利亚；表分 群发冷名单无回应；兴趣：跳线 MC switch等 比较杂 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-470": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "韩国 CL Networks（clnetworks.co.kr 域 nxdomain，无退信）：死域名无退信 → 留 C 待巡检",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14"
+ },
+ "SC-471": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "泰国；表分 群发冷名单无回应；兴趣：8口管理 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14"
+ },
+ "SC-472": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "马来西亚；表分 群发冷名单无回应；兴趣：MC（外壳很差） 无源产品 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-473": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "澳大利亚；表分 群发冷名单无回应；兴趣：switch 一些周边产品 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14"
+ },
+ "SC-474": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "卡塔尔；表分 群发冷名单无回应；兴趣：PoE Ethernet → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14"
+ },
+ "SC-475": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾；表分 群发冷名单无回应；兴趣：POEswitch 很多摄像头 MC HDMI 没有工业品 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-476": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "马来西亚；表分 群发冷名单无回应；兴趣：有锐捷的产品 SFP FS 周边产品 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-477": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾 Dynacom（dynacom.tw；商业 PoE，工业 FS 很少 / ONV 的，网站多为周边）：台湾周边商；未触达 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14"
+ },
+ "SC-478": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾；表分 群发冷名单无回应；兴趣：POE配件 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14"
+ },
+ "SC-479": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾；表分 群发冷名单无回应；兴趣：PoE Ethernet → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14"
+ },
  "SC-480": {
   "verdict": "keep_C",
   "gate": 1,
@@ -12463,6 +13965,87 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-04"
+ },
+ "SC-482": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "新加坡；表分 综合分低 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14"
+ },
+ "SC-483": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "阿联酋；表分 综合分低；兴趣：BYPASS → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-484": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "马来西亚 FST Security（fstsecurity.com.my / focus.com.my；Switch Planet 的比较多，网站有 WA）：Planet 渠道 ✔ 但四主区外非点名国 → 留 C（储备）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14"
+ },
+ "SC-485": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "日本 FXC（fxc.jp；自有品牌 MC / SFP / 大口 FS / OTN / OLT，无工业品）：自有品牌 = OEM 对象 ✔ 对位 ✔（商用线）；未触达 → 闸 2 查底数（houjin）；四主区外，低优先",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14",
+  "tags": [
+   "oem_target"
+  ]
+ },
+ "SC-486": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾；表分 群发冷名单无回应；兴趣：MC switch 一些周边产品 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-487": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "新西兰；表分 群发冷名单无回应；兴趣：工业FS DAC 周边产品 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14"
+ },
+ "SC-488": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "澳大利亚 GSA Systems（gsasystems.com.au；工业 FS Planet 的）：Planet 渠道 ✔ 但四主区外非点名国 → 留 C（储备）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14"
+ },
+ "SC-489": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "韩国 Guru-N（guru-n.co.kr；瞻博 switch）：名牌专营；未触达 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14"
  },
  "SC-490": {
   "verdict": "pool_candidate",
@@ -12474,6 +14057,132 @@
   "batch": "G2-127",
   "g1_batch": "G1-08",
   "g1_reason": "挪威 Hatteland Technology（hattelandtechnology.com；工业 FS：有用 ONV 的 + Moxa，「分销有名牌子的」= 北欧工业电子分销集团）：欧洲 + 分销主体 + 已进口中国品牌 + 对位 ✔；15 推 0 回 → 闸 2 查底数"
+ },
+ "SC-491": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾 HiSharp（hisharp.com 域 no_mx / hisharp.com.tw；自有品牌 CCTV，表内「商业 PoE 洪瑞的」= 洪瑞现供）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔；未触达 → 闸 2 查底数（twincn）；四主区外，低优先；洪瑞现供客户 → Q-33 口径待 Simon（默认只推 SmartByte / Marvell 管理 + 工业线）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14",
+  "tags": [
+   "oem_target"
+  ]
+ },
+ "SC-492": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾；表分 群发冷名单无回应；兴趣：工业FS → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14"
+ },
+ "SC-493": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "韩国 IDIS（idisglobal.com；自有品牌 CCTV 大厂，商业 PoE 配套）：自有品牌 = OEM 对象 ✔ 对位 ✔ Simon 点名韩国；未触达 → 闸 2 查底数（DART）；低优先，体量大走长线",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14",
+  "tags": [
+   "oem_target"
+  ]
+ },
+ "SC-494": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾 IDV（idv.tw 域 dead / hinet.net；MC / 机架 / VC，可能外购刷标）：死域名无退信 + 本职线 → 留 C 待巡检 + dayjob_fit",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-495": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "澳大利亚 IoT Store（iot-store.com.au；USR IoT / PUSR 工业串口与交换机网店）：进口中国同类 ✔ 但网店 + 四主区外非点名国 → 留 C（储备）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14"
+ },
+ "SC-496": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "澳大利亚 IPD（ipd.com.au；上市电气分销集团，工业 FS 卖别人的牌子）：巨头体系；未触达 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-14"
+ },
+ "SC-497": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "新西兰 ITPlus（itplus.co.nz；在卖 Wi-Tek 商业 / 工业 FS）：进口中国同类 ✔ 但四主区外非点名国 → 留 C（储备）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15"
+ },
+ "SC-498": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "日本；表分 群发冷名单无回应；兴趣：Optical switch 周边产品 注意看他们的供应商 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15"
+ },
+ "SC-499": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "澳大利亚；表分 群发冷名单无回应；兴趣：跳线 MC switch等 比较杂 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-500": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "日本；表分 群发冷名单无回应；兴趣：Analog CVI HDMI SDI FS → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-501": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾；表分 群发冷名单无回应；兴趣：MC SFP AOC DAC switch 周边产品 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-502": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "韩国；表分 群发冷名单无回应；兴趣：redlion的switch → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15"
  },
  "SC-503": {
   "verdict": "pool_candidate",
@@ -12489,6 +14198,24 @@
    "oem_target"
   ]
  },
+ "SC-504": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "泰国；表分 群发冷名单无回应；兴趣：工业通信 自动化 系统集成商 网站无明显产品 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15"
+ },
+ "SC-505": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "澳大利亚；表分 群发冷名单无回应；兴趣：锐捷的一些商业switch PA → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15"
+ },
  "SC-506": {
   "verdict": "keep_C",
   "gate": 1,
@@ -12500,6 +14227,87 @@
   "tags": [
    "dayjob_fit"
   ]
+ },
+ "SC-507": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "韩国；表分 群发冷名单无回应；兴趣：工业FS SFP MC 串口 主做工业通讯 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-508": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾；表分 群发冷名单无回应；兴趣：工业FS → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15"
+ },
+ "SC-509": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度 Nextik（nextik.co.in；表内「BD 的核心交换机 / WDM 核心交换机」= 在售 BDCOM 中国品牌）：进口中国同类 ✔ 对位 ✔（企业 / DC 线）Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15"
+ },
+ "SC-510": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "新西兰；表分 群发冷名单无回应；兴趣：卖台湾牌子 工业FS 大口FS MC → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-511": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "澳大利亚；表分 群发冷名单无回应；兴趣：很多外壳 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15"
+ },
+ "SC-512": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "澳大利亚 Optical Solutions（opticalsolutions.com.au；工业 FS / MC / SFP / 串口分销，卖台湾的牌子）：进口台湾同类 ✔ 但四主区外非点名国 → 留 C（储备）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15"
+ },
+ "SC-513": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "泰国；表分 群发冷名单无回应；兴趣：工业FS SFP 很多牌子的 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-514": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "韩国；表分 群发冷名单无回应；兴趣：redlion antaria的工业FS → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15"
  },
  "SC-515": {
   "verdict": "keep_C",
@@ -12513,6 +14321,24 @@
    "dayjob_fit"
   ]
  },
+ "SC-516": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "澳大利亚 PLE Computers（ple.com.au；大型 IT 零售平台，很多牌子 / Planet）：大平台 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15"
+ },
+ "SC-517": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "韩国；表分 群发冷名单无回应；兴趣：工业FS → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15"
+ },
  "SC-518": {
   "verdict": "keep_C",
   "gate": 1,
@@ -12521,6 +14347,42 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-08",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-519": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "韩国；表分 群发冷名单无回应；兴趣：MC switch等 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-520": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾；表分 群发冷名单无回应；兴趣：商业POE 主要还是CCTV → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-521": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾；表分 群发冷名单无回应；兴趣：CCTV设备 AHD SDI POE等 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15",
   "tags": [
    "dayjob_fit"
   ]
@@ -12537,6 +14399,15 @@
    "oem_target"
   ]
  },
+ "SC-523": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "沙特阿拉伯；表分 群发冷名单无回应；兴趣：有很多其他的牌子 POE switch；跟进 1 次无回复 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15"
+ },
  "SC-524": {
   "verdict": "keep_C",
   "gate": 1,
@@ -12549,6 +14420,78 @@
    "oem_target"
   ]
  },
+ "SC-525": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "新西兰；表分 群发冷名单无回应；兴趣：POE switch及配件 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15"
+ },
+ "SC-526": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "以色列 SolidRun（solid-run.com；Marvell 平台 SBC / 网络设备厂商）：同行 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15"
+ },
+ "SC-527": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾；表分 群发冷名单无回应；兴趣：工业FS MC SFP 外壳一般 无源产品 像是深圳的外壳 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-528": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "澳大利亚；表分 群发冷名单无回应；兴趣：switch CCTV networking等 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-529": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "泰国；表分 群发冷名单无回应；兴趣：少量的 Ntron 工业FS- 管理型、非管理型、PoE 和协议转换器 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15"
+ },
+ "SC-530": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "约旦；表分 群发冷名单无回应；兴趣：switch fiber optics做项目的 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-531": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "新加坡；表分 群发冷名单无回应；兴趣：工业FS → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15"
+ },
  "SC-532": {
   "verdict": "keep_C",
   "gate": 1,
@@ -12557,6 +14500,117 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-08"
+ },
+ "SC-533": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "韩国；表分 群发冷名单无回应；兴趣：10GMC switch → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15"
+ },
+ "SC-534": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "澳大利亚 Tekdis（tekdis.com.au；ORing 工业 FS / bypass / serial 分销）：进口台湾同类 ✔ 但四主区外非点名国 → 留 C（储备）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15"
+ },
+ "SC-535": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "韩国；表分 群发冷名单无回应；兴趣：redlion的switch → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15"
+ },
+ "SC-536": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾；表分 群发冷名单无回应；兴趣：POE配件 5/8电口 serial 周边设备 看着比较专业 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15"
+ },
+ "SC-537": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾；表分 群发冷名单无回应；兴趣：商业POE POE配件 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15"
+ },
+ "SC-538": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "沙特阿拉伯；表分 群发冷名单无回应；兴趣：MC 工业FS → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-539": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "新加坡；表分 群发冷名单无回应；兴趣：工业FS Fiber CCTV（多功能VC） → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-540": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "台湾；表分 群发冷名单无回应；兴趣：SFP MC VC 没FS 周边无源产品 外观看着一般 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-541": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "澳大利亚；表分 群发冷名单无回应；兴趣：switch PA；很多牌子的 工业FS 销售平台 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15"
+ },
+ "SC-542": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "澳大利亚 X-ON Electronics（x-on.com.au；xonelec.kr 域 nxdomain；大型元器件分销）：巨头体系 → 留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15"
+ },
+ "SC-543": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "韩国；表分 群发冷名单无回应；兴趣：MC 工业品 FS 机架 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15",
+  "tags": [
+   "dayjob_fit"
+  ]
  },
  "SC-544": {
   "verdict": "keep_C",
@@ -12585,6 +14639,15 @@
   "manual": true,
   "batch": "G1-04"
  },
+ "SC-549": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "沙特阿拉伯；表分 综合分低；兴趣：system integrator, low voltage；跟进 18 次无回复 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15"
+ },
  "SC-550": {
   "verdict": "keep_C",
   "gate": 1,
@@ -12611,6 +14674,33 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-08"
+ },
+ "SC-554": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度尼西亚；表分 群发冷名单无回应；兴趣：PoE media converter with 8 ports；跟进 1 次无回复 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15"
+ },
+ "SC-555": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印尼 PT. Optiviel Cable（optiviel.com；行业分销 MC / SFP / 14 槽机架 / 工业 FS，Simon 注「工业 FS 这个要特别注意」）：进口同类 ✔ 但四主区外非点名国；推 1 次 0 回 → 留 C（储备；若点名东南亚可升候选）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15"
+ },
+ "SC-558": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度尼西亚；表分 群发冷名单无回应；兴趣：工业FS 好几个牌子的 也有商业switch；跟进 1 次无回复 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15"
  },
  "SC-559": {
   "verdict": "keep_C",
@@ -12659,6 +14749,18 @@
    "dayjob_fit"
   ]
  },
+ "SC-564": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "菲律宾；表分 群发冷名单无回应；兴趣：商业PoE CCTV类的比较多；跟进 1 次无回复 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
  "SC-565": {
   "verdict": "keep_C",
   "gate": 1,
@@ -12689,6 +14791,27 @@
   "manual": true,
   "batch": "G1-09"
  },
+ "SC-569": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度尼西亚；表分 群发冷名单无回应；兴趣：工业FS MC PoE；跟进 1 次无回复 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-570": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印尼 Gigantika（gigantika.co.id；管理 FS / PoE，工业 FS 在用 3 个品牌）：多牌进口 ✔ 但四主区外非点名国；推 1 次 0 回 → 留 C（储备）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15"
+ },
  "SC-571": {
   "verdict": "pool_candidate",
   "gate": 2,
@@ -12712,6 +14835,15 @@
    "oem_target"
   ]
  },
+ "SC-573": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "缅甸；表分 群发冷名单无回应；兴趣：小口商业Switch；跟进 1 次无回复 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15"
+ },
  "SC-575": {
   "verdict": "pool_candidate",
   "gate": 2,
@@ -12722,6 +14854,66 @@
   "batch": "G2-128",
   "g1_batch": "G1-09",
   "g1_reason": "保加利亚 KST（kst-bg.com；国内的交换机）：欧洲 + 已进口中国同类品牌 + 对位 ✔；13 推 0 回 → 闸 2 查底数，低优先"
+ },
+ "SC-576": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "印度尼西亚；表分 群发冷名单无回应；兴趣：SFP 商业PoE等 比较多牌子；跟进 1 次无回复 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-577": {
+  "verdict": "candidate",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "阿联酋 / 沙特 Leap Networks（leap-networks.ae；表内「4 光 4 管理 PoE 64 个」= 数量询盘；KP Tarek Bary，邮箱退信 8 次但域正常，+971 手机在表）：数量信号 ✔ 对位 ✔ 退信 ≠ 死 → 闸 2 找新地址 + WA 路径；四主区外，低优先",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15"
+ },
+ "SC-578": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "菲律宾；表分 群发冷名单无回应；兴趣：工业FS Elink的；跟进 1 次无回复 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15"
+ },
+ "SC-580": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "韩国；表分 综合分低；兴趣：fiber optics, networkig, WDM；跟进 23 次无回复 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15",
+  "tags": [
+   "dayjob_fit"
+  ]
+ },
+ "SC-582": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "韩国；表分 综合分低；兴趣：在用一个比较大国外牌子 网站上的category比较相关；跟进 23 次无回复 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15"
+ },
+ "SC-585": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "越南；表分 群发冷名单无回应；兴趣：BD的核心交换机；跟进 1 次无回复 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15"
  },
  "SC-586": {
   "verdict": "keep_C",
@@ -12776,6 +14968,15 @@
   "date": "2026-10-29",
   "manual": true,
   "batch": "G1-09"
+ },
+ "SC-592": {
+  "verdict": "keep_C",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "菲律宾 Ronisys（ronisys.ph；在卖 Genata 商业 PoE + 锐捷）：进口中国同类 ✔ 但四主区外非点名国；推 1 次 0 回 → 留 C（储备）",
+  "date": "2026-10-29",
+  "manual": true,
+  "batch": "G1-15"
  },
  "SC-594": {
   "verdict": "keep_C",

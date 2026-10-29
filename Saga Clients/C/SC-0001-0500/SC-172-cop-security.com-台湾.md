@@ -2,12 +2,15 @@
 
 > **评级 C**　|　台湾　|　档案编号 `SC-172`　|　优先级 —　|　状态：已推送 2 次·未回复
 >
+> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：台湾 COP Security（cop-security.com；1992 起自有品牌 CCTV，表内「工业交换机 ONV 的」= 配套 PoE / 工业机外购中国品牌）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔；2 次 0 回 → 闸 2 查底数（twincn）；四主区外，低优先　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+>
 > **类型**：台湾安防/网络厂商（同行）（推断）　|　**历史关系**：推送 2 次（2025-09-19 → 2025-10-16）　|　**所在清单**：A台湾名单　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-172
 rating: C
 rating_auto: B
+sieve: candidate  # 闸 1 G1 2026-10-29
 rating_research: C  # 同行/台湾厂商：COP Security（自产 CCTV/网络，OEM/ODM），非渠道客户；c_sub=同行/台湾厂商
 score: 31
 country: 台湾
@@ -26,7 +29,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -191,8 +194,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 31）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 31）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
