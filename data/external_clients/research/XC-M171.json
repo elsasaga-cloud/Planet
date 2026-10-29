@@ -1,0 +1,45 @@
+{
+ "code": "XC-M171",
+ "name": "Clanrye Electrical Supplies Ltd",
+ "round": "X1-03",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "Clanrye Electrical Supplies Ltd：电气批发 35 年 + KNX 官方分销伙伴（Theben / JUNG / Gira / HMS Intesis）；官网公开 WA +44 7822 014618；电气 / 楼宇自动化为主 → 交换机对位弱",
+ "type_final": "分销（HMS/N-Tron·Red Lion 渠道）；Clanrye Electrical Supplies Ltd",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "留 C：Clanrye Electrical Supplies Ltd（Newry BT35；电气批发 35 年 + K",
+ "brands_seen": [],
+ "contacts": {
+  "email": "info@clanryeelectrical.com",
+  "email_status": "官网 / 名录公开（X1-03 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "官网：Clanrye Electrical Supplies · Newry · info@clanryeelectrical.com · WA 0044 7822 014618",
+   "quote": "",
+   "url": "https://clanryeelectrical.com/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "Smart Home 页：KNX Distribution Partner · info@knxireland.com",
+   "quote": "",
+   "url": "https://clanryeelectrical.com/smart-home/",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-03 补路径：留 C：Clanrye Electrical Supplies Ltd（Newry BT35；电气批发 35 年 + KNX 分销伙伴）→ 电气 / 楼宇自动化为主，交换机对位弱；邮箱已补 info@clanryeele（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "留 C 储备，随群发节奏"
+ },
+ "deep": false,
+ "notes": "Clanrye Electrical Supplies Ltd；11 Upper Edward St, Newry BT35 6AX；+44 28 3026 4090",
+ "draft_en": null
+}

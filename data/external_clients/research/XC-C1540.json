@@ -1,0 +1,45 @@
+{
+ "code": "XC-C1540",
+ "name": "Al Dhahab Computer Trading LLC",
+ "round": "X1-03",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "Al Dhahab Computer Trading L.L.C.：B2B IT 硬件批发（笔记本 / 服务器 / 网络）面向 GCC / 非洲 / CIS 转口；Deira 店铺型；非主区",
+ "type_final": "IT批发供应商；Al Dhahab Computer Trading L.L.C.",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "留 C：Al Dhahab Computer Trading L.L.C.（Deira Al Sabkha Rd Sho",
+ "brands_seen": [],
+ "contacts": {
+  "email": "info@aldhahab.ae",
+  "email_status": "官网 / 名录公开（X1-03 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "官网 Contact：Al Dhahab Computer Trading LLC · Deira · info@aldhahab.ae · +971 4 335 8483",
+   "quote": "",
+   "url": "https://aldhahab.ae/contact",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "Terms：法人 Al Dhahab Computer Trading L.L.C. · GCC / Africa / CIS 客户",
+   "quote": "",
+   "url": "https://aldhahab.ae/terms",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-03 补路径：留 C：Al Dhahab Computer Trading L.L.C.（Deira Al Sabkha Rd Shop 4；B2B IT 硬件转口 GCC / 非洲 / CIS）→ 非主区店铺型转口商；邮箱已补 in（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "留 C 储备，随群发节奏"
+ },
+ "deep": false,
+ "notes": "Al Dhahab Computer Trading L.L.C.；Shop No. 4, Al Sabkha Road, Deira, Dubai；+971 4 335 8483",
+ "draft_en": null
+}

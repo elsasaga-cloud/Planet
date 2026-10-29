@@ -29,6 +29,20 @@
    "quote": "",
    "url": "https://www.lcautomation.com/dbdocument/22354/2018-19%20Product%20Catalogue.pdf",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "登记 / 名录",
+   "claim": "官网 T&C：LC Automation Limited · company number 01166468 · VAT GB 834 8649 88",
+   "quote": "",
+   "url": "https://www.lcautomation.com/page/about_us/terms_and_conditions.aspx",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "登记 / 名录",
+   "claim": "Datanyze：35 人 · $6.9M · 1974",
+   "quote": "",
+   "url": "https://www.datanyze.com/companies/lc-automation/43421003",
+   "date": "2026-10-29"
   }
  ],
  "touch_status": "未触达（路径 2026-10-29 新补）",
@@ -40,6 +54,6 @@
   "angle": "已入 P 池 → 按巡检节奏首触"
  },
  "deep": false,
- "notes": "LC Automation Ltd；Duttons Way, Shadsworth Business Park, Blackburn BB1 2QR；+44 1254 685900",
+ "notes": "LC Automation Ltd；Duttons Way, Shadsworth Business Park, Blackburn BB1 2QR；+44 1254 685900；X1-02R 补证：Companies House 01166468；VAT GB 834 8649 88",
  "draft_en": null
 }

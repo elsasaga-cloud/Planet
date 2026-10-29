@@ -2,7 +2,7 @@
 
 > **现判 XC 暂不管** ｜ 来源 mikrotik-info `C-051`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-02 2026-10-29）→ 下一动作 不动
 >
-> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：☆ P 池 · 观察档**（闸 3 · G3 · 2026-10-29）：☆ 工业 / 交通 / 数据中心网络方案分销 20%：QL3D（Bazainville 78；HW group 法国独家；HMS Red Lion / N-Tron；联系人 Ludovic Debôves）名录部分坐实（SIREN 待补）；小型 → 观察档；info@ql3d.fr
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：☆ P 池 · 观察档**（闸 3 · G3 · 2026-10-29）：☆ 工业 / 交通 / 数据中心网络方案分销 20%：QL3D（Bazainville 78；HW group 法国独家；HMS Red Lion / N-Tron；联系人 Ludovic Debôves）名录部分坐实（SIREN 待补）；小型 → 观察档；info@ql3d.fr｜补证 X1-02R（2026-10-29）：SIREN 429 607 740 坐实（SARL €120k；3–5 人）；QL3D SARL · 资本 €120,000 · 2000-02-21 起（RCS Versailles 2007）· NAF 4652Z 电子与电信设备批发 · 3–5 人 · 经理 Ludovic Deboves
 
 ## 1. 初判与理由
 - 初判：**XC** — 来源库（mikrotik-info）已判 C（细分：B下放·无邮箱（群发触达不到）；依据：【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一）；Simon 口径「mik 的 C 不碰」→ 关仓前仅存档，不跟
@@ -63,5 +63,7 @@
 |---|---|---|---|---|
 | 官网 / 名录 | HW group 分销商页：QL3D · Bazainville · Ludovic DEBÔVES · info@ql3d.fr |  | https://www.hw-group.com/content/ql3d | 2026-10-29 |
 | 官网 / 名录 | DCmag 名录：QL3D · info@ql3d.fr · 01 34 91 90 20 |  | https://annuaire.dcmag.fr/directory/ql3d/ | 2026-10-29 |
+| 登记 / 名录 | societe.com：QL3D · SIREN 429 607 740 · SARL €120,000 · 4652Z · Ludovic DEBOVES |  | https://www.societe.com/societe/ql3d-429607740.html | 2026-10-29 |
+| 登记 / 名录 | manageo：3–5 人 · RCS Versailles 2007B00575 |  | https://www.manageo.fr/entreprises/429607740.html | 2026-10-29 |
 
-- 备注：QL3D；9 chemin de la Fosse, 78550 Bazainville；+33 1 34 91 90 20
+- 备注：QL3D；9 chemin de la Fosse, 78550 Bazainville；+33 1 34 91 90 20；X1-02R 补证：SIREN 429 607 740；SIRET 429 607 740 00041；TVA FR43429607740

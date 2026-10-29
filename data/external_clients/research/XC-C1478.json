@@ -1,0 +1,38 @@
+{
+ "code": "XC-C1478",
+ "name": "IT World Trading",
+ "round": "X1-03",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "ITWorld Trading LLC：电脑硬件 / CCTV / 网络 / IP 电话批发（Bur Dubai 小型贸易商）；非主区",
+ "type_final": "网络交换机分销商；ITWorld Trading LLC",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "留 C：ITWorld Trading LLC（Bur Dubai；电脑硬件 / CCTV / 网络批发小户）→ 非主区",
+ "brands_seen": [],
+ "contacts": {
+  "email": "info@itworlduae.com",
+  "email_status": "官网 / 名录公开（X1-03 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "官网 Contact：ITWorld Trading LLC · Dubai · info@itworlduae.com · +971 4553 8728",
+   "quote": "",
+   "url": "https://www.itworlduae.com/contact",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-03 补路径：留 C：ITWorld Trading LLC（Bur Dubai；电脑硬件 / CCTV / 网络批发小户）→ 非主区店铺型贸易商，宁缺毋滥；邮箱已补 info@itworlduae.com，预付 100% 随群发（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "留 C 储备，随群发节奏"
+ },
+ "deep": false,
+ "notes": "ITWorld Trading LLC；Khalid Bin Waleed Road, Bur Dubai, Dubai；+971 4 553 8728",
+ "draft_en": null
+}

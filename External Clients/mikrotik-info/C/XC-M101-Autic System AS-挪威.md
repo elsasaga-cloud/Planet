@@ -2,7 +2,7 @@
 
 > **现判 XC 暂不管** ｜ 来源 mikrotik-info `C-036`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-02 2026-10-29）→ 下一动作 不动
 >
-> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 自动化 / 工业 IT + 工业通信方案供应 20%：Autic System AS（Tønsberg；NO / SE / DK 站点；HMS Red Lion / N-Tron 渠道）官网部分坐实（Org.nr 待补）；post@ / support@autic.no
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 自动化 / 工业 IT + 工业通信方案供应 20%：Autic System AS（Tønsberg；NO / SE / DK 站点；HMS Red Lion / N-Tron 渠道）官网部分坐实（Org.nr 待补）；post@ / support@autic.no｜补证 X1-02R（2026-10-29）：Org.nr 968 614 150 坐实（13 人；2025 营收 80M NOK）；AUTIC SYSTEM AS · Træleborgveien 2, 3112 Tønsberg · 13 人 · 2025 营收 80.0M NOK · 母公司 Autic Invest AS · 日常经理 Pål Andersen
 
 ## 1. 初判与理由
 - 初判：**XC** — 来源库（mikrotik-info）已判 C（细分：B下放·无邮箱（群发触达不到）；依据：【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一）；Simon 口径「mik 的 C 不碰」→ 关仓前仅存档，不跟
@@ -64,5 +64,7 @@
 |---|---|---|---|---|
 | 官网 / 名录 | 官网 Welcome：Autic System AS · Træleborgveien 2 Tønsberg · post@autic.no |  | https://www.autic.no/en/welcome-to-autic-system/ | 2026-10-29 |
 | 官网 / 名录 | 支持站：support@autic.no · +47 33 30 09 50 |  | https://support.autic.no/hc/no/articles/115001422653-Kontakt-oss | 2026-10-29 |
+| 登记 / 名录 | Proff：AUTIC SYSTEM AS · Org nr 968 614 150 · 13 人 · Tønsberg · 母公司 Autic Invest AS |  | https://www.proff.no/selskap/autic-system-as/t%C3%B8nsberg/elektronikk-og-telekommunikasjonsutstyr-engros/IG0ORGM10MZ | 2026-10-29 |
+| 登记 / 名录 | Proff 搜索：2025 营收 80 005 kNOK · DL Pål Andersen |  | https://www.proff.no/s%C3%B8k-etter-firmanavn?q=Systue&nspage=10 | 2026-10-29 |
 
-- 备注：Autic System AS；Træleborgveien 2, 3112 Tønsberg；+47 33 30 09 50
+- 备注：Autic System AS；Træleborgveien 2, 3112 Tønsberg；+47 33 30 09 50；X1-02R 补证：Org.nr 968 614 150（1995 登记；1994-01-03 成立）

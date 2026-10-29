@@ -1,0 +1,45 @@
+{
+ "code": "XC-M096",
+ "name": "Jampel S.r.l.",
+ "round": "X1-03",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "JAMPEL S.r.l.：嵌入式 PC / 工业通信分销（ICP DAS 官方分销名录；Moxa 授权）；P.IVA 一次检索未中",
+ "type_final": "分销（Moxa 授权）；JAMPEL S.r.l.",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "○ 嵌入式 PC / 工业通信分销 20%：JAMPEL S.r.l.（Bologna Via degli Strade",
+ "brands_seen": [],
+ "contacts": {
+  "email": "info@jampel.it",
+  "email_status": "官网 / 名录公开（X1-03 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "ICP DAS 官方分销名录：JAMPEL s.r.l. · Bologna · info@jampel.it",
+   "quote": "",
+   "url": "https://www.icpdas.com/distributors/country/jampel.htm",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "CTI Electronics 联系页：JAMPEL S.r.l. · Via Degli Stradelli Guelfi 86/A · +39 051 452042",
+   "quote": "",
+   "url": "https://www.ctielectronics.com/Assets/contactJampel.php",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-03 补路径：○ 嵌入式 PC / 工业通信分销 20%：JAMPEL S.r.l.（Bologna Via degli Stradelli Guelfi 86/A；ICP DAS 官方分销 + Moxa 授权）官方名录部分坐实（P.（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "已入 P 池 → 按巡检节奏首触"
+ },
+ "deep": false,
+ "notes": "JAMPEL S.r.l.；Via degli Stradelli Guelfi 86/A, 40138 Bologna；+39 051 452042",
+ "draft_en": null
+}

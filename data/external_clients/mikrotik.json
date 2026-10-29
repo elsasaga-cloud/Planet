@@ -119968,15 +119968,21 @@
    "followups": [],
    "r_notes": [],
    "evidence_urls": [],
-   "emails": [],
-   "emails_live": [],
+   "emails": [
+    {
+     "addr": "info@jampel.it",
+     "status": "公开·X1-03 补"
+    }
+   ],
+   "emails_live": [
+    "info@jampel.it"
+   ],
    "phones": [],
    "kp_named": false,
    "stage": "未触达",
    "flags": [
-    "无可用邮箱",
     "来源C",
-    "缺联系"
+    "邮箱已补（X1-03 2026-10-29）"
    ],
    "src_repo_ref": "elsasaga-cloud/mikrotik-info@a60f11f8 (arena/01a0c3ef-mikrotik-info)",
    "saga_dup": null,
@@ -121910,15 +121916,26 @@
    "followups": [],
    "r_notes": [],
    "evidence_urls": [],
-   "emails": [],
-   "emails_live": [],
+   "emails": [
+    {
+     "addr": "info@evolvit.se",
+     "status": "公开·X1-03 补"
+    },
+    {
+     "addr": "kontakt@evolvit.se",
+     "status": "公开·X1-03 补"
+    }
+   ],
+   "emails_live": [
+    "info@evolvit.se",
+    "kontakt@evolvit.se"
+   ],
    "phones": [],
    "kp_named": false,
    "stage": "未触达",
    "flags": [
-    "无可用邮箱",
     "来源C",
-    "缺联系"
+    "邮箱已补（X1-03 2026-10-29）"
    ],
    "src_repo_ref": "elsasaga-cloud/mikrotik-info@a60f11f8 (arena/01a0c3ef-mikrotik-info)",
    "saga_dup": null,
@@ -122337,15 +122354,21 @@
    "followups": [],
    "r_notes": [],
    "evidence_urls": [],
-   "emails": [],
-   "emails_live": [],
+   "emails": [
+    {
+     "addr": "sales@adconengineering.com",
+     "status": "公开·X1-03 补"
+    }
+   ],
+   "emails_live": [
+    "sales@adconengineering.com"
+   ],
    "phones": [],
    "kp_named": false,
    "stage": "未触达",
    "flags": [
-    "无可用邮箱",
     "来源C",
-    "缺联系"
+    "邮箱已补（X1-03 2026-10-29）"
    ],
    "src_repo_ref": "elsasaga-cloud/mikrotik-info@a60f11f8 (arena/01a0c3ef-mikrotik-info)",
    "saga_dup": null,
@@ -122548,15 +122571,21 @@
    "followups": [],
    "r_notes": [],
    "evidence_urls": [],
-   "emails": [],
-   "emails_live": [],
+   "emails": [
+    {
+     "addr": "sales@branom.com",
+     "status": "公开·X1-03 补"
+    }
+   ],
+   "emails_live": [
+    "sales@branom.com"
+   ],
    "phones": [],
    "kp_named": false,
    "stage": "未触达",
    "flags": [
-    "无可用邮箱",
     "来源C",
-    "缺联系"
+    "邮箱已补（X1-03 2026-10-29）"
    ],
    "src_repo_ref": "elsasaga-cloud/mikrotik-info@a60f11f8 (arena/01a0c3ef-mikrotik-info)",
    "saga_dup": null,
@@ -122707,15 +122736,21 @@
    "followups": [],
    "r_notes": [],
    "evidence_urls": [],
-   "emails": [],
-   "emails_live": [],
+   "emails": [
+    {
+     "addr": "hello@cbtcompany.com",
+     "status": "公开·X1-03 补"
+    }
+   ],
+   "emails_live": [
+    "hello@cbtcompany.com"
+   ],
    "phones": [],
    "kp_named": false,
    "stage": "未触达",
    "flags": [
-    "无可用邮箱",
     "来源C",
-    "缺联系"
+    "邮箱已补（X1-03 2026-10-29）"
    ],
    "src_repo_ref": "elsasaga-cloud/mikrotik-info@a60f11f8 (arena/01a0c3ef-mikrotik-info)",
    "saga_dup": null,
@@ -122760,15 +122795,21 @@
    "followups": [],
    "r_notes": [],
    "evidence_urls": [],
-   "emails": [],
-   "emails_live": [],
+   "emails": [
+    {
+     "addr": "sales@clayeng.net",
+     "status": "公开·X1-03 补"
+    }
+   ],
+   "emails_live": [
+    "sales@clayeng.net"
+   ],
    "phones": [],
    "kp_named": false,
    "stage": "未触达",
    "flags": [
-    "无可用邮箱",
     "来源C",
-    "缺联系"
+    "邮箱已补（X1-03 2026-10-29）"
    ],
    "src_repo_ref": "elsasaga-cloud/mikrotik-info@a60f11f8 (arena/01a0c3ef-mikrotik-info)",
    "saga_dup": null,
@@ -123024,15 +123065,26 @@
    "followups": [],
    "r_notes": [],
    "evidence_urls": [],
-   "emails": [],
-   "emails_live": [],
+   "emails": [
+    {
+     "addr": "solutions@erietecinc.com",
+     "status": "公开·X1-03 补"
+    },
+    {
+     "addr": "erie@erietecinc.com",
+     "status": "公开·X1-03 补"
+    }
+   ],
+   "emails_live": [
+    "solutions@erietecinc.com",
+    "erie@erietecinc.com"
+   ],
    "phones": [],
    "kp_named": false,
    "stage": "未触达",
    "flags": [
-    "无可用邮箱",
     "来源C",
-    "缺联系"
+    "邮箱已补（X1-03 2026-10-29）"
    ],
    "src_repo_ref": "elsasaga-cloud/mikrotik-info@a60f11f8 (arena/01a0c3ef-mikrotik-info)",
    "saga_dup": null,
@@ -123136,15 +123188,21 @@
    "followups": [],
    "r_notes": [],
    "evidence_urls": [],
-   "emails": [],
-   "emails_live": [],
+   "emails": [
+    {
+     "addr": "sales@lakelandengineering.com",
+     "status": "公开·X1-03 补"
+    }
+   ],
+   "emails_live": [
+    "sales@lakelandengineering.com"
+   ],
    "phones": [],
    "kp_named": false,
    "stage": "未触达",
    "flags": [
-    "无可用邮箱",
     "来源C",
-    "缺联系"
+    "邮箱已补（X1-03 2026-10-29）"
    ],
    "src_repo_ref": "elsasaga-cloud/mikrotik-info@a60f11f8 (arena/01a0c3ef-mikrotik-info)",
    "saga_dup": null,
@@ -123189,15 +123247,21 @@
    "followups": [],
    "r_notes": [],
    "evidence_urls": [],
-   "emails": [],
-   "emails_live": [],
+   "emails": [
+    {
+     "addr": "sales@logic-control.com",
+     "status": "公开·X1-03 补"
+    }
+   ],
+   "emails_live": [
+    "sales@logic-control.com"
+   ],
    "phones": [],
    "kp_named": false,
    "stage": "未触达",
    "flags": [
-    "无可用邮箱",
     "来源C",
-    "缺联系"
+    "邮箱已补（X1-03 2026-10-29）"
    ],
    "src_repo_ref": "elsasaga-cloud/mikrotik-info@a60f11f8 (arena/01a0c3ef-mikrotik-info)",
    "saga_dup": null,
@@ -123301,15 +123365,21 @@
    "followups": [],
    "r_notes": [],
    "evidence_urls": [],
-   "emails": [],
-   "emails_live": [],
+   "emails": [
+    {
+     "addr": "info@powermation.com",
+     "status": "公开·X1-03 补"
+    }
+   ],
+   "emails_live": [
+    "info@powermation.com"
+   ],
    "phones": [],
    "kp_named": false,
    "stage": "未触达",
    "flags": [
-    "无可用邮箱",
     "来源C",
-    "缺联系"
+    "邮箱已补（X1-03 2026-10-29）"
    ],
    "src_repo_ref": "elsasaga-cloud/mikrotik-info@a60f11f8 (arena/01a0c3ef-mikrotik-info)",
    "saga_dup": null,
@@ -123354,15 +123424,21 @@
    "followups": [],
    "r_notes": [],
    "evidence_urls": [],
-   "emails": [],
-   "emails_live": [],
+   "emails": [
+    {
+     "addr": "slsales@powermotionsales.com",
+     "status": "公开·X1-03 补"
+    }
+   ],
+   "emails_live": [
+    "slsales@powermotionsales.com"
+   ],
    "phones": [],
    "kp_named": false,
    "stage": "未触达",
    "flags": [
-    "无可用邮箱",
     "来源C",
-    "缺联系"
+    "邮箱已补（X1-03 2026-10-29）"
    ],
    "src_repo_ref": "elsasaga-cloud/mikrotik-info@a60f11f8 (arena/01a0c3ef-mikrotik-info)",
    "saga_dup": null,
@@ -123407,15 +123483,26 @@
    "followups": [],
    "r_notes": [],
    "evidence_urls": [],
-   "emails": [],
-   "emails_live": [],
+   "emails": [
+    {
+     "addr": "process@process-tech.com",
+     "status": "公开·X1-03 补"
+    },
+    {
+     "addr": "quotes@process-tech.com",
+     "status": "公开·X1-03 补"
+    }
+   ],
+   "emails_live": [
+    "process@process-tech.com",
+    "quotes@process-tech.com"
+   ],
    "phones": [],
    "kp_named": false,
    "stage": "未触达",
    "flags": [
-    "无可用邮箱",
     "来源C",
-    "缺联系"
+    "邮箱已补（X1-03 2026-10-29）"
    ],
    "src_repo_ref": "elsasaga-cloud/mikrotik-info@a60f11f8 (arena/01a0c3ef-mikrotik-info)",
    "saga_dup": null,
@@ -123960,15 +124047,21 @@
    "followups": [],
    "r_notes": [],
    "evidence_urls": [],
-   "emails": [],
-   "emails_live": [],
+   "emails": [
+    {
+     "addr": "info@tcicinc.com",
+     "status": "公开·X1-03 补"
+    }
+   ],
+   "emails_live": [
+    "info@tcicinc.com"
+   ],
    "phones": [],
    "kp_named": false,
    "stage": "未触达",
    "flags": [
-    "无可用邮箱",
     "来源C",
-    "缺联系"
+    "邮箱已补（X1-03 2026-10-29）"
    ],
    "src_repo_ref": "elsasaga-cloud/mikrotik-info@a60f11f8 (arena/01a0c3ef-mikrotik-info)",
    "saga_dup": null,
@@ -124013,15 +124106,21 @@
    "followups": [],
    "r_notes": [],
    "evidence_urls": [],
-   "emails": [],
-   "emails_live": [],
+   "emails": [
+    {
+     "addr": "byoung@tmmi.com",
+     "status": "公开·X1-03 补"
+    }
+   ],
+   "emails_live": [
+    "byoung@tmmi.com"
+   ],
    "phones": [],
    "kp_named": false,
    "stage": "未触达",
    "flags": [
-    "无可用邮箱",
     "来源C",
-    "缺联系"
+    "邮箱已补（X1-03 2026-10-29）"
    ],
    "src_repo_ref": "elsasaga-cloud/mikrotik-info@a60f11f8 (arena/01a0c3ef-mikrotik-info)",
    "saga_dup": null,
@@ -124284,15 +124383,21 @@
    "followups": [],
    "r_notes": [],
    "evidence_urls": [],
-   "emails": [],
-   "emails_live": [],
+   "emails": [
+    {
+     "addr": "sales@zescoinc.com",
+     "status": "公开·X1-03 补"
+    }
+   ],
+   "emails_live": [
+    "sales@zescoinc.com"
+   ],
    "phones": [],
    "kp_named": false,
    "stage": "未触达",
    "flags": [
-    "无可用邮箱",
     "来源C",
-    "缺联系"
+    "邮箱已补（X1-03 2026-10-29）"
    ],
    "src_repo_ref": "elsasaga-cloud/mikrotik-info@a60f11f8 (arena/01a0c3ef-mikrotik-info)",
    "saga_dup": null,
@@ -124393,15 +124498,26 @@
    "followups": [],
    "r_notes": [],
    "evidence_urls": [],
-   "emails": [],
-   "emails_live": [],
+   "emails": [
+    {
+     "addr": "info@clanryeelectrical.com",
+     "status": "公开·X1-03 补"
+    },
+    {
+     "addr": "info@knxireland.com",
+     "status": "公开·X1-03 补"
+    }
+   ],
+   "emails_live": [
+    "info@clanryeelectrical.com",
+    "info@knxireland.com"
+   ],
    "phones": [],
    "kp_named": false,
    "stage": "未触达",
    "flags": [
-    "无可用邮箱",
     "来源C",
-    "缺联系"
+    "邮箱已补（X1-03 2026-10-29）"
    ],
    "src_repo_ref": "elsasaga-cloud/mikrotik-info@a60f11f8 (arena/01a0c3ef-mikrotik-info)",
    "saga_dup": null,
@@ -124673,15 +124789,21 @@
    "followups": [],
    "r_notes": [],
    "evidence_urls": [],
-   "emails": [],
-   "emails_live": [],
+   "emails": [
+    {
+     "addr": "sales@digitalcontrols.biz",
+     "status": "公开·X1-03 补"
+    }
+   ],
+   "emails_live": [
+    "sales@digitalcontrols.biz"
+   ],
    "phones": [],
    "kp_named": false,
    "stage": "未触达",
    "flags": [
-    "无可用邮箱",
     "来源C",
-    "缺联系"
+    "邮箱已补（X1-03 2026-10-29）"
    ],
    "src_repo_ref": "elsasaga-cloud/mikrotik-info@a60f11f8 (arena/01a0c3ef-mikrotik-info)",
    "saga_dup": null,
@@ -124790,15 +124912,21 @@
    "followups": [],
    "r_notes": [],
    "evidence_urls": [],
-   "emails": [],
-   "emails_live": [],
+   "emails": [
+    {
+     "addr": "Info@futurefocusenergy.co.uk",
+     "status": "公开·X1-03 补"
+    }
+   ],
+   "emails_live": [
+    "Info@futurefocusenergy.co.uk"
+   ],
    "phones": [],
    "kp_named": false,
    "stage": "未触达",
    "flags": [
-    "无可用邮箱",
     "来源C",
-    "缺联系"
+    "邮箱已补（X1-03 2026-10-29）"
    ],
    "src_repo_ref": "elsasaga-cloud/mikrotik-info@a60f11f8 (arena/01a0c3ef-mikrotik-info)",
    "saga_dup": null,
@@ -125136,15 +125264,21 @@
    "followups": [],
    "r_notes": [],
    "evidence_urls": [],
-   "emails": [],
-   "emails_live": [],
+   "emails": [
+    {
+     "addr": "info@compprof-rtp.com",
+     "status": "公开·X1-03 补"
+    }
+   ],
+   "emails_live": [
+    "info@compprof-rtp.com"
+   ],
    "phones": [],
    "kp_named": false,
    "stage": "未触达",
    "flags": [
-    "无可用邮箱",
     "来源C",
-    "缺联系"
+    "邮箱已补（X1-03 2026-10-29）"
    ],
    "src_repo_ref": "elsasaga-cloud/mikrotik-info@a60f11f8 (arena/01a0c3ef-mikrotik-info)",
    "saga_dup": null,

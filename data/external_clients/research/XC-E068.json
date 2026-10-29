@@ -29,6 +29,20 @@
    "quote": "",
    "url": "https://www.crunchbase.com/organization/vesper-b846",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "登记 / 名录",
+   "claim": "Company Check：VESPER TECHNOLOGIES LIMITED · 08962068 · 2014-03-27 · SIC 46510",
+   "quote": "",
+   "url": "https://companycheck.co.uk/company/08962068/VESPER-TECHNOLOGIES-LIMITED",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "登记 / 名录",
+   "claim": "Endole：VAT GB184142514 · <50 人 · PSC Allan James Kaye",
+   "quote": "",
+   "url": "https://open.endole.co.uk/insight/company/08962068-vesper-technologies-limited",
+   "date": "2026-10-29"
   }
  ],
  "touch_status": "未触达（路径 2026-10-29 新补）",
@@ -40,6 +54,6 @@
   "angle": "已入 P 池 → 按巡检节奏首触"
  },
  "deep": false,
- "notes": "Vesper Technologies Ltd.；Units 5 Rugby Park, Bletchley Road, Stockport SK4 3EJ；+44 161 947 4321",
+ "notes": "Vesper Technologies Ltd.；Units 5 Rugby Park, Bletchley Road, Stockport SK4 3EJ；+44 161 947 4321；X1-02R 补证：Companies House 08962068（2014-03-27）；VAT GB184142514；SIC 46510",
  "draft_en": null
 }

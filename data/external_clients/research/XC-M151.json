@@ -1,0 +1,45 @@
+{
+ "code": "XC-M151",
+ "name": "Power Mation",
+ "round": "X1-03",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "Power/mation：工业自动化分销，1961 起，≈159 人；CEO Jim Landes（allbiz 名录）",
+ "type_final": "分销（HMS/N-Tron·Red Lion 渠道）；Power/mation",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "○ 工业自动化分销 20%：Power/mation（St. Paul MN 1310 Energy Lane + Wa",
+ "brands_seen": [],
+ "contacts": {
+  "email": "info@powermation.com",
+  "email_status": "官网 / 名录公开（X1-03 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "thepartsdirect 分销名录：Power/mation · 1310 Energy Ln St. Paul · info@powermation.com · Waukesha 分部",
+   "quote": "",
+   "url": "https://thepartsdirect.com/powermation/products",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "AeroLeads：Power/Mation · 159 人 · 1961 起",
+   "quote": "",
+   "url": "https://aeroleads.com/c/powermation",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-03 补路径：○ 工业自动化分销 20%：Power/mation（St. Paul MN 1310 Energy Lane + Waukesha WI；1961 起；≈159 人；CEO Jim Landes）名录部分坐实（MN S（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "已入 P 池 → 按巡检节奏首触"
+ },
+ "deep": false,
+ "notes": "Power/mation；1310 Energy Lane, St. Paul, MN 55108（+ Waukesha WI）；+1 651 605 3300",
+ "draft_en": null
+}

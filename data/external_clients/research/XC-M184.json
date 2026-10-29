@@ -1,0 +1,45 @@
+{
+ "code": "XC-M184",
+ "name": "Computer Products Professional Benelux B.V.",
+ "round": "X1-03",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "Computer Products Professional Benelux B.V.：ATEX Zone II 工业以太网交换机等专业分销（与 RTP Europe 同址）；小型；KvK 一次检索未中",
+ "type_final": "分销（HMS/N-Tron·Red Lion 渠道）；Computer Products Professional Benelux B.V.",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "☆ ATEX Zone II 工业以太网交换机等专业分销 20%：Computer Products Professio",
+ "brands_seen": [],
+ "contacts": {
+  "email": "info@compprof-rtp.com",
+  "email_status": "官网 / 名录公开（X1-03 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "官网：Computer Products Professional Benelux B.V. · Biezenvijver 4 Puttershoek · info@compprof-rtp.com · ATEX Ethernet",
+   "quote": "",
+   "url": "https://cppb.nl/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "ATEX 页：ATEX Ethernet switches for Zone II",
+   "quote": "",
+   "url": "https://cppb.nl/atex",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-03 补路径：☆ ATEX Zone II 工业以太网交换机等专业分销 20%：Computer Products Professional Benelux B.V.（Puttershoek Biezenvijver 4，与 RTP （等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "观察档 → 试单后转正"
+ },
+ "deep": false,
+ "notes": "Computer Products Professional Benelux B.V.；Biezenvijver 4, 3297 GK Puttershoek；+31 78 676 2999",
+ "draft_en": null
+}

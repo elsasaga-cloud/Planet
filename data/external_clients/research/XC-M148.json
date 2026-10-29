@@ -1,0 +1,45 @@
+{
+ "code": "XC-M148",
+ "name": "Lakeland Engineering",
+ "round": "X1-03",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "Lakeland Engineering Equipment Company：电气电机控制与元件分销（PLC / HMI / 驱动 / 防爆元件）；101–250 人；电气为主",
+ "type_final": "分销（HMS/N-Tron·Red Lion 渠道）；Lakeland Engineering Equipment Company",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "☆ 电气电机控制与元件分销 20%：Lakeland Engineering Equipment Company（Min",
+ "brands_seen": [],
+ "contacts": {
+  "email": "sales@lakelandengineering.com",
+  "email_status": "官网 / 名录公开（X1-03 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "官网 Contact：Lakeland Engineering Equipment Co. · Minneapolis · sales@lakelandengineering.com · 5 处办事处",
+   "quote": "",
+   "url": "https://www.lakelandengineering.com/contact/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "Crunchbase：101–250 人",
+   "quote": "",
+   "url": "https://www.crunchbase.com/organization/lakeland-engineering-equipment-company",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-03 补路径：☆ 电气电机控制与元件分销 20%：Lakeland Engineering Equipment Company（Minneapolis MN + KC / Omaha / Fargo / Denver；101–250 （等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "观察档 → 试单后转正"
+ },
+ "deep": false,
+ "notes": "Lakeland Engineering Equipment Company；5735 Lindsay Street, Minneapolis, MN 55422（KC / Omaha / Fargo / Denver 分部）；+1 855 544 0321",
+ "draft_en": null
+}

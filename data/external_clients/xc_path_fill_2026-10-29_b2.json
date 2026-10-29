@@ -1,0 +1,807 @@
+{
+ "_meta": {
+  "date": "2026-10-29",
+  "batch": "X1-03 + X1-02R",
+  "note": "第二批补路径 29 户（24 户查到路径或止）+ 补证 19 户；每户一次 depth-1 检索，未中即止；只读文件，不再外查"
+ },
+ "rows": {
+  "XC-C1449": {
+   "emails": [
+    "sales@efcotec.de"
+   ],
+   "legal": "EFCO Electronics GmbH",
+   "addr": "Ulrichsberger Str. 17/G1, 94469 Deggendorf",
+   "phone": "+49 991 2009298-0",
+   "reg": "",
+   "note": "工业 PC / Panel PC 制造分销 + Teltonika 分销（shop.efcotec.de）；来源库称 2014 起 100–199 人；官网公开 WhatsApp +49 151 62477788；HRB 一次检索未中",
+   "facts": [
+    [
+     "Elektroniknet 供应商名录：EFCO Electronics GmbH · Deggendorf · sales@efcotec.de · shop.efcotec.de",
+     "https://www.elektroniknet.de/anbieterkompass/efco-electronics-gmbh.39234883/index.html"
+    ],
+    [
+     "官方网店：服务热线 +49-991-2009298-200 · sales@efcotec.de · Teltonika 产品在售",
+     "https://shop.efcotec.de/"
+    ]
+   ]
+  },
+  "XC-C1431": {
+   "emails": [
+    "contact@hotel-care.fr"
+   ],
+   "legal": "HOTEL CARE（Groupe TB6 子公司）",
+   "addr": "504 Rue de la Mourre, ZI Fréjorgues Est, 34130 Mauguio（总部）；Meyreuil 13590 分部",
+   "phone": "+33 4 42 65 17 50",
+   "reg": "",
+   "note": "酒店 / 医疗机构 TV / WiFi / IPTV 网络基础设施设计与部署（Nice / Lyon / Paris）；TB6 集团（UBIC 视听集成 / AVS 视听批发，2007 起）；来源库评 A；SIREN 一次检索未中",
+   "facts": [
+    [
+     "官网：HOTEL CARE · Meyreuil + Mauguio · contact@hotel-care.fr · TV / WiFi / IPTV 酒店与医疗",
+     "https://www.hotel-care.fr/"
+    ],
+    [
+     "A Propos：Groupe TB6 子公司（UBIC / HOTEL CARE / AVS）· 总部 Mauguio",
+     "https://hotel-care.fr/index.php/about-us/"
+    ]
+   ]
+  },
+  "XC-M096": {
+   "emails": [
+    "info@jampel.it"
+   ],
+   "legal": "JAMPEL S.r.l.",
+   "addr": "Via degli Stradelli Guelfi 86/A, 40138 Bologna",
+   "phone": "+39 051 452042",
+   "reg": "",
+   "note": "嵌入式 PC / 工业通信分销（ICP DAS 官方分销名录；Moxa 授权）；P.IVA 一次检索未中",
+   "facts": [
+    [
+     "ICP DAS 官方分销名录：JAMPEL s.r.l. · Bologna · info@jampel.it",
+     "https://www.icpdas.com/distributors/country/jampel.htm"
+    ],
+    [
+     "CTI Electronics 联系页：JAMPEL S.r.l. · Via Degli Stradelli Guelfi 86/A · +39 051 452042",
+     "https://www.ctielectronics.com/Assets/contactJampel.php"
+    ]
+   ]
+  },
+  "XC-M184": {
+   "emails": [
+    "info@compprof-rtp.com"
+   ],
+   "legal": "Computer Products Professional Benelux B.V.",
+   "addr": "Biezenvijver 4, 3297 GK Puttershoek",
+   "phone": "+31 78 676 2999",
+   "reg": "",
+   "note": "ATEX Zone II 工业以太网交换机等专业分销（与 RTP Europe 同址）；小型；KvK 一次检索未中",
+   "facts": [
+    [
+     "官网：Computer Products Professional Benelux B.V. · Biezenvijver 4 Puttershoek · info@compprof-rtp.com · ATEX Ethernet",
+     "https://cppb.nl/"
+    ],
+    [
+     "ATEX 页：ATEX Ethernet switches for Zone II",
+     "https://cppb.nl/atex"
+    ]
+   ]
+  },
+  "XC-M176": {
+   "emails": [
+    "sales@digitalcontrols.biz"
+   ],
+   "legal": "Digital Controls",
+   "addr": "2 Mary Armyne Road, Orton Longueville, Peterborough PE2 7DR",
+   "phone": "+44 1733 233481",
+   "reg": "",
+   "note": "Red Lion / Horner 等自动化产品分销；联系人 Tim Sommerville（Drives & Controls 名录）；微型；法人形式未明",
+   "facts": [
+    [
+     "官网产品页：Digital Controls · 2 Mary Armyne Road Peterborough · sales@digitalcontrols.biz",
+     "https://www.digitalcontrols.biz/red-lion-cl05-paradigm-terminal-interface"
+    ],
+    [
+     "Drives & Controls 2024-07 名录：Digital Controls · Tim Sommerville · sales@digitalcontrols.biz",
+     "https://pmps-digital.com/dac/2024/07/171/"
+    ]
+   ]
+  },
+  "XC-M178": {
+   "emails": [
+    "Info@futurefocusenergy.co.uk"
+   ],
+   "legal": "Future Focus Energy Limited",
+   "addr": "Blackpool",
+   "phone": "+44 1253 292000",
+   "reg": "",
+   "note": "能源管理 / 监测公司（4 人；CEO Paul Friday）→ 不是渠道分销，对位弱",
+   "facts": [
+    [
+     "Facebook 官方页：Future Focus Energy · Blackpool · Info@futurefocusenergy.co.uk · 能源管理与监测",
+     "https://www.facebook.com/FutureFocusEnergyUK/"
+    ],
+    [
+     "Apollo：Future Focus Energy Limited · 4 人",
+     "https://www.apollo.io/people/Andrew/Green/5ada14c8a6da9862b3aae7c1"
+    ]
+   ]
+  },
+  "XC-M171": {
+   "emails": [
+    "info@clanryeelectrical.com",
+    "info@knxireland.com"
+   ],
+   "legal": "Clanrye Electrical Supplies Ltd",
+   "addr": "11 Upper Edward St, Newry BT35 6AX",
+   "phone": "+44 28 3026 4090",
+   "reg": "",
+   "note": "电气批发 35 年 + KNX 官方分销伙伴（Theben / JUNG / Gira / HMS Intesis）；官网公开 WA +44 7822 014618；电气 / 楼宇自动化为主 → 交换机对位弱",
+   "facts": [
+    [
+     "官网：Clanrye Electrical Supplies · Newry · info@clanryeelectrical.com · WA 0044 7822 014618",
+     "https://clanryeelectrical.com/"
+    ],
+    [
+     "Smart Home 页：KNX Distribution Partner · info@knxireland.com",
+     "https://clanryeelectrical.com/smart-home/"
+    ]
+   ]
+  },
+  "XC-M133": {
+   "emails": [
+    "sales@adconengineering.com"
+   ],
+   "legal": "Adcon Engineering Co., Inc.",
+   "addr": "20102 Progress Drive, Strongsville (Cleveland), OH 44149",
+   "phone": "+1 440 238 3915",
+   "reg": "",
+   "note": "工业元件 / 传感 / 视觉 / 机柜分销，产品线含 EtherDevice DIN 导轨工业非管理交换机；财务负责人 Bill Raftry（allbiz 名录）；体量未知，官网陈旧",
+   "facts": [
+    [
+     "官网产品页：Adcon Engineering · sales@adconengineering.com · 440.238.3915",
+     "https://www.adconengineering.com/vp_banner_p4_edge.htm"
+    ],
+    [
+     "NDT.org 名录：Adcon Engineering Co., Inc. · 20102 Progress Dr · 线卡含 EtherDevice 5/8 口工业非管理交换机",
+     "https://www.ndt.org/vendor.asp?ObjectID=39255"
+    ]
+   ]
+  },
+  "XC-M163": {
+   "emails": [
+    "info@tcicinc.com"
+   ],
+   "legal": "TCIC Inc.（Technology Controls and Industrial Communications）",
+   "addr": "628 Mendelssohn Avenue North, Golden Valley, MN 55427",
+   "phone": "+1 763 557 6648",
+   "reg": "",
+   "note": "工业自动化 + 工业通信 / 无线分销；President & CEO Christine Frank（收购该公司）；小型",
+   "facts": [
+    [
+     "官网 Contact Us：TCIC · Golden Valley MN · info@tcicinc.com",
+     "https://www.tcicinc.com/contact-us/"
+    ],
+    [
+     "Finding Automation 访谈：Christine Frank President & CEO of TCIC Inc.",
+     "https://www.findingautomation.com/christine-frank-tcic-inc"
+    ]
+   ]
+  },
+  "XC-M149": {
+   "emails": [
+    "sales@logic-control.com"
+   ],
+   "legal": "Logic, Inc.",
+   "addr": "890 N Martway Ct, Olathe, KS 66061",
+   "phone": "+1 913 764 4400",
+   "reg": "",
+   "note": "工业自动化软硬件高科技分销；设 OEM 销售经理 John Wilmes、内销 Emily Robards（ZoomInfo）",
+   "facts": [
+    [
+     "Facebook 官方页：Logic, Inc. · Olathe KS · sales@logic-control.com · 工业自动化分销",
+     "https://www.facebook.com/LogicInc/"
+    ],
+    [
+     "ZoomInfo：John Wilmes Sales Manager OEM · 890 N Martway Ct Olathe",
+     "https://www.zoominfo.com/p/John-Wilmes/295635467"
+    ]
+   ]
+  },
+  "XC-M153": {
+   "emails": [
+    "process@process-tech.com",
+    "quotes@process-tech.com"
+   ],
+   "legal": "Process Technology, Inc.（PTI）",
+   "addr": "4084 S 300 West, Salt Lake City, UT 84107（AZ / CO 分部）",
+   "phone": "+1 801 264 1114",
+   "reg": "",
+   "note": "过程仪表 + 工厂自动化分销，1986 起，覆盖 8 州；11–50 人",
+   "facts": [
+    [
+     "官网 FAQ：quotes@ / orders@process-tech.com · 801-264-1114",
+     "https://process-tech.com/article_86_Frequently-Asked-Questions.cfm"
+    ],
+    [
+     "McCrometer 分销名录：Process Technology, Inc. · Salt Lake City · 1986 起 · 联系人 Brian Waslo",
+     "https://www.mccrometer.com/acadp_listings/process-technology/"
+    ],
+    [
+     "Crunchbase：11–50 · process@process-tech.com",
+     "https://www.crunchbase.com/organization/process-technology-inc"
+    ]
+   ]
+  },
+  "XC-E085": {
+   "emails": [
+    "sales@racklive.com"
+   ],
+   "legal": "Racklive（ASA Computers, Inc. 数据中心事业部，2011 起）",
+   "addr": "48761 Kato Road, Fremont, CA 94538",
+   "phone": "+1 650 230 8060",
+   "reg": "",
+   "note": "机架集成 / 数据中心服务器与存储 / 全球部署；ISO 9001:2015；法人为 ASA Computers → 数据中心交换机对位（CENTEC 敲门砖）",
+   "facts": [
+    [
+     "官网 Contact：Racklive · Fremont CA · sales@racklive.com · ASA Computers 数据中心事业部 2011 起",
+     "https://www.racklive.com/contact.php"
+    ]
+   ]
+  },
+  "XC-E075": {
+   "emails": [],
+   "legal": "Tuangru（现以 Hyperview DCIM 软件为主）",
+   "addr": "590 Mainland, Vancouver BC V6B 5L1",
+   "phone": "+1 866 612 3637",
+   "reg": "",
+   "note": "DCIM 软件公司（Hyperview），CTO Rami Jebara；公开页无直接邮箱（ZoomInfo 遮蔽）→ 路径仍未建；软件转型对位弱",
+   "facts": [
+    [
+     "ZoomInfo：Tuangru · 590 Mainland Vancouver · CTO Rami Jebara · hyperviewhq.com 邮箱域",
+     "https://www.zoominfo.com/p/Rami-Jebara/10161027900"
+    ]
+   ]
+  },
+  "XC-C0599": {
+   "emails": [],
+   "legal": "Abboud Trading Corp.",
+   "addr": "10910 NW 92nd Terrace, Medley (Miami), FL 33178",
+   "phone": "+1 786 235 7007",
+   "reg": "",
+   "note": "1996 起消费电子 / 全渠道产品分销（拉美）；Director William Abboud（聚合页邮箱，不采）；官网无公开邮箱 → 路径仍未建；消费电子口径对位弱",
+   "facts": [
+    [
+     "Prospectoo：Abboud Trading Corp. · 1996 · Miami · 消费电子",
+     "https://prospectoo.com/company/AbboudTradingCorp-28976988/"
+    ]
+   ]
+  },
+  "XC-C1478": {
+   "emails": [
+    "info@itworlduae.com"
+   ],
+   "legal": "ITWorld Trading LLC",
+   "addr": "Khalid Bin Waleed Road, Bur Dubai, Dubai",
+   "phone": "+971 4 553 8728",
+   "reg": "",
+   "note": "电脑硬件 / CCTV / 网络 / IP 电话批发（Bur Dubai 小型贸易商）；非主区",
+   "facts": [
+    [
+     "官网 Contact：ITWorld Trading LLC · Dubai · info@itworlduae.com · +971 4553 8728",
+     "https://www.itworlduae.com/contact"
+    ]
+   ]
+  },
+  "XC-C1490": {
+   "emails": [
+    "info@switchlinkdubai.com"
+   ],
+   "legal": "Switch Link Computers Trading LLC",
+   "addr": "Unit 103, Muhammad Noor Talib Bldg, Khalid Bin Waleed Rd, Bur Dubai; PO Box 381037",
+   "phone": "+971 55 967 0902",
+   "reg": "",
+   "note": "Cisco 产品供应 / 合作伙伴（Bur Dubai 小型贸易商）；官网公开 WA +971 50 804 6102；非主区",
+   "facts": [
+    [
+     "官网 Contact：Switch Link Computers Trading LLC · info@switchlinkdubai.com · WA +971-50-8046102",
+     "https://switchlinkct.com/contact/"
+    ]
+   ]
+  },
+  "XC-C1540": {
+   "emails": [
+    "info@aldhahab.ae"
+   ],
+   "legal": "Al Dhahab Computer Trading L.L.C.",
+   "addr": "Shop No. 4, Al Sabkha Road, Deira, Dubai",
+   "phone": "+971 4 335 8483",
+   "reg": "",
+   "note": "B2B IT 硬件批发（笔记本 / 服务器 / 网络）面向 GCC / 非洲 / CIS 转口；Deira 店铺型；非主区",
+   "facts": [
+    [
+     "官网 Contact：Al Dhahab Computer Trading LLC · Deira · info@aldhahab.ae · +971 4 335 8483",
+     "https://aldhahab.ae/contact"
+    ],
+    [
+     "Terms：法人 Al Dhahab Computer Trading L.L.C. · GCC / Africa / CIS 客户",
+     "https://aldhahab.ae/terms"
+    ]
+   ]
+  },
+  "XC-C1472": {
+   "emails": [
+    "info@colioninternational.com"
+   ],
+   "legal": "Colion International Trading LLC",
+   "addr": "Burj Nahar Complex M2-A10（办公）；Shop 1 Al Jaziri Bldg, Al Sabkha, Deira（门店）, Dubai",
+   "phone": "+971 50 766 8536",
+   "reg": "",
+   "note": "IT 硬件库存 / 批发 / 出口（Deira）；DCG（Dubai Computer Group）会员，联系人 Muhammed Anas anas@colioninternational.com（协会名录）；非主区",
+   "facts": [
+    [
+     "官网：Colion International Trading LLC · info@colioninternational.com · Deira 门店",
+     "https://www.colioninternational.com/"
+    ],
+    [
+     "DCG Dubai 会员名录：COLION INTERNATIONAL TRADING LLC · Muhammed Anas · anas@colioninternational.com",
+     "https://dcgdubai.com/dcg-members/"
+    ]
+   ]
+  },
+  "XC-M126": {
+   "emails": [
+    "info@evolvit.se",
+    "kontakt@evolvit.se"
+   ],
+   "legal": "evolvit Solutions AB（曾用名 Dialect Skövde / Dialect Noracom）",
+   "addr": "Gesällgatan 1, 541 50 Skövde",
+   "phone": "+46 500 105 300",
+   "reg": "",
+   "note": "IT 服务 / 系统集成 / 电信（51–100 人）；MikroTik 官方分销名录（shop.evolvit.se）；org.nr 一次检索未中",
+   "facts": [
+    [
+     "RIPE 会员页：evolvit Solutions AB · Gesallgatan 1 Skövde · kontakt@evolvit.se",
+     "https://www.ripe.net/membership/indices/data/se.telefackhandeln.html"
+    ],
+    [
+     "Crunchbase：evolvit Solutions · 51–100 · 又名 Dialect Skövde · info@evolvit.se",
+     "https://www.crunchbase.com/organization/evolvit-solutions"
+    ]
+   ]
+  },
+  "XC-M141": {
+   "emails": [
+    "sales@clayeng.net"
+   ],
+   "legal": "Clayton Engineering Company",
+   "addr": "685 Millers Run Rd, Cuddy (Bridgeville), PA 15031",
+   "phone": "+1 800 252 9866",
+   "reg": "",
+   "note": "电气分销 + 培训 / 咨询，1947 起，AHTD（高科技分销商协会）会员；11–50 人；Owner Don Bohn",
+   "facts": [
+    [
+     "官网线卡 PDF：CLAYTON ENGINEERING COMPANY · sales@clayeng.net · FOUNDED 1947 · AHTD",
+     "https://www.claytonengineering.com/media/documents/ClaytonEng_LineList.pdf?_cchid=bb828c8df56a6b690ad711392e475619"
+    ],
+    [
+     "Crunchbase：Clayton Engineering · Bridgeville PA · 11–50 · Owner Don Bohn · sales@clayeng.net",
+     "https://www.crunchbase.com/organization/clayton-engineering-4b76"
+    ]
+   ]
+  },
+  "XC-M146": {
+   "emails": [
+    "solutions@erietecinc.com",
+    "erie@erietecinc.com"
+   ],
+   "legal": "ErieTec, Inc.（原 Erie Bearings Co.）",
+   "addr": "1432 E 12th St, Erie, PA",
+   "phone": "+1 814 878 1500",
+   "reg": "",
+   "note": "电气控制 / 配电 + 机械传动 / 运动控制分销，1958 起，51–100 人，覆盖 PA / NY / OH → 机电为主，交换机对位弱",
+   "facts": [
+    [
+     "Facebook 官方页：ErieTec, Inc · 1432 E 12th St Erie · solutions@erietecinc.com",
+     "https://www.facebook.com/erietecinc/"
+    ],
+    [
+     "Crunchbase：ErieTec · 51–100 · erie@erietecinc.com",
+     "https://www.crunchbase.com/organization/erietec"
+    ]
+   ]
+  },
+  "XC-M148": {
+   "emails": [
+    "sales@lakelandengineering.com"
+   ],
+   "legal": "Lakeland Engineering Equipment Company",
+   "addr": "5735 Lindsay Street, Minneapolis, MN 55422（KC / Omaha / Fargo / Denver 分部）",
+   "phone": "+1 855 544 0321",
+   "reg": "",
+   "note": "电气电机控制与元件分销（PLC / HMI / 驱动 / 防爆元件）；101–250 人；电气为主",
+   "facts": [
+    [
+     "官网 Contact：Lakeland Engineering Equipment Co. · Minneapolis · sales@lakelandengineering.com · 5 处办事处",
+     "https://www.lakelandengineering.com/contact/"
+    ],
+    [
+     "Crunchbase：101–250 人",
+     "https://www.crunchbase.com/organization/lakeland-engineering-equipment-company"
+    ]
+   ]
+  },
+  "XC-M151": {
+   "emails": [
+    "info@powermation.com"
+   ],
+   "legal": "Power/mation",
+   "addr": "1310 Energy Lane, St. Paul, MN 55108（+ Waukesha WI）",
+   "phone": "+1 651 605 3300",
+   "reg": "",
+   "note": "工业自动化分销，1961 起，≈159 人；CEO Jim Landes（allbiz 名录）",
+   "facts": [
+    [
+     "thepartsdirect 分销名录：Power/mation · 1310 Energy Ln St. Paul · info@powermation.com · Waukesha 分部",
+     "https://thepartsdirect.com/powermation/products"
+    ],
+    [
+     "AeroLeads：Power/Mation · 159 人 · 1961 起",
+     "https://aeroleads.com/c/powermation"
+    ]
+   ]
+  },
+  "XC-M165": {
+   "emails": [],
+   "legal": "Thorp Controls（Thorp Controls & Automation Services）",
+   "addr": "Merriam KS / Denver CO",
+   "phone": "+1 800 473 9123",
+   "reg": "",
+   "note": "电气控制方案 / 自动化分销，100–200 人，President Todd Thorp；公开页只有遮蔽邮箱 → 路径仍未建（一次检索止）",
+   "facts": [
+    [
+     "SignalHire：Thorp Controls · Merriam KS · 100–200 人 · President Todd Thorp",
+     "https://www.signalhire.com/profiles/brian-church's-email/109646357"
+    ]
+   ]
+  },
+  "XC-M164": {
+   "emails": [
+    "byoung@tmmi.com"
+   ],
+   "legal": "TMMI, LLC（TMMI powered by GrayMatter）",
+   "addr": "5000 Robb Street, Bldg 3A, Wheat Ridge, CO 80033",
+   "phone": "+1 303 232 1516",
+   "reg": "",
+   "note": "落基山区自动化 / 电气控制设备分销，1977 起；VP Bryan Young（item 官方合作伙伴页具名邮箱）",
+   "facts": [
+    [
+     "item24 官方 PlusPartner 页：TMMI, LLC · Wheat Ridge CO · Bryan Young VP · byoung@tmmi.com",
+     "https://www.item24.network/pluspartner/tmmi/"
+    ],
+    [
+     "Clodura：TMMI powered by GrayMatter · 1977 起 · 落基山 8 州",
+     "https://www.clodura.ai/directory/company/tmmi-powered-by-graymatter"
+    ]
+   ]
+  },
+  "XC-M152": {
+   "emails": [
+    "slsales@powermotionsales.com"
+   ],
+   "legal": "Power Motion Sales Inc.",
+   "addr": "652 Axminister Dr, Fenton, MO 63026（St. Louis / KC / Little Rock）",
+   "phone": "+1 800 844 7879",
+   "reg": "",
+   "note": "自动化元件与系统分销（视觉 / 传感 / 运动 / 安全 / 机器人 / 远程连接）；Owner Christopher Tremblay；体量未知",
+   "facts": [
+    [
+     "Facebook 官方页：Power Motion Inc. · Fenton MO · slsales@powermotionsales.com",
+     "https://www.facebook.com/powermotioninc/"
+    ],
+    [
+     "Explorium：Power Motion Sales Inc. · 3 处 · slsales@",
+     "https://www.explorium.ai/manufacturing/companies/power-motion-sales"
+    ]
+   ]
+  },
+  "XC-M140": {
+   "emails": [
+    "hello@cbtcompany.com"
+   ],
+   "legal": "CBT Company",
+   "addr": "Cincinnati, OH（5 处分支 OH / KY）",
+   "phone": "+1 513 621 9050",
+   "reg": "",
+   "note": "区域最大工业自动化分销（百年企业）；5 处分支",
+   "facts": [
+    [
+     "官网 FAQ：CBT Company · 100 年 · 区域最大工业自动化分销 · 5 处 · hello@cbtcompany.com",
+     "https://www.cbtcompany.com/frequently-asked-questions"
+    ]
+   ]
+  },
+  "XC-M169": {
+   "emails": [
+    "sales@zescoinc.com"
+   ],
+   "legal": "Zesco Inc.",
+   "addr": "3301 East Royalton Rd, Broadview Hts, OH 44147",
+   "phone": "+1 440 526 0603",
+   "reg": "",
+   "note": "覆盖 OH / 西 PA / WV 的自动化分销；营收 $0.5–1M（allbiz）→ 微型；Owner Ed Sustersic",
+   "facts": [
+    [
+     "官网 Contact：Zesco Inc. · Broadview Hts OH · sales@zescoinc.com",
+     "https://zescoinc.com/contact.html"
+    ],
+    [
+     "allbiz：营收 $500k–999k · Owner Ed Sustersic",
+     "https://www.allbiz.com/business/zesco-inc_6s-440-526-0603"
+    ]
+   ]
+  },
+  "XC-M137": {
+   "emails": [
+    "sales@branom.com"
+   ],
+   "legal": "Branom Instrument Company",
+   "addr": "5610 4th Ave S, Seattle, WA 98108",
+   "phone": "+1 206 762 6050",
+   "reg": "",
+   "note": "过程仪表（流量 / 液位 / 压力 / 温度）分销，1947 起，太平洋西北 → 仪表为主，交换机对位弱",
+   "facts": [
+    [
+     "官网 Contact：Branom Instrument Company · Seattle · Sales@branom.com",
+     "https://branom.odoo.com/contactus"
+    ],
+    [
+     "Nexthermal 分销名录：Branom Instrument Co. · 1947 起",
+     "https://nexthermal.com/distributor/branom-instrument-co/"
+    ]
+   ]
+  }
+ },
+ "regfix": {
+  "XC-M177": {
+   "reg": "Companies House 02718521（1992-05-29）",
+   "note": "DISTEC LIMITED · Huntsman Drive, Northbank Ind. Est., Irlam M44 5EG · 活跃 · 4 董事",
+   "facts": [
+    [
+     "Company Check：DISTEC LIMITED · 02718521 · 1992-05-29 · Irlam M44 5EG · Active",
+     "https://companycheck.co.uk/company/02718521/DISTEC-LIMITED/companies-house-data"
+    ]
+   ]
+  },
+  "XC-M179": {
+   "reg": "Companies House 01166468；VAT GB 834 8649 88",
+   "note": "LC Automation Limited · Duttons Way, Shadsworth Business Park, Blackburn · 1974 起 · 35 人 / $6.9M（Datanyze）",
+   "facts": [
+    [
+     "官网 T&C：LC Automation Limited · company number 01166468 · VAT GB 834 8649 88",
+     "https://www.lcautomation.com/page/about_us/terms_and_conditions.aspx"
+    ],
+    [
+     "Datanyze：35 人 · $6.9M · 1974",
+     "https://www.datanyze.com/companies/lc-automation/43421003"
+    ]
+   ]
+  },
+  "XC-E068": {
+   "reg": "Companies House 08962068（2014-03-27）；VAT GB184142514；SIC 46510",
+   "note": "VESPER TECHNOLOGIES LIMITED · Unit 5 Rugby Park, Bletchley Road, Stockport SK4 3EJ · PSC Allan James Kaye · <50 人",
+   "facts": [
+    [
+     "Company Check：VESPER TECHNOLOGIES LIMITED · 08962068 · 2014-03-27 · SIC 46510",
+     "https://companycheck.co.uk/company/08962068/VESPER-TECHNOLOGIES-LIMITED"
+    ],
+    [
+     "Endole：VAT GB184142514 · <50 人 · PSC Allan James Kaye",
+     "https://open.endole.co.uk/insight/company/08962068-vesper-technologies-limited"
+    ]
+   ]
+  },
+  "XC-M124": {
+   "reg": "",
+   "note": "法人名修正：D.L.C. DataLink Communications Ltd · Cloghaun, Kilchreest, Loughrea H62 F985 · (091) 840838 · sales@datalinkcom.net；CRO 号一次检索未中 → reg_pending 留",
+   "facts": [
+    [
+     "Golden Pages：D.L.C. DataLink Communications Ltd · Loughrea H62 F985 · Industrial Networking Supplies",
+     "https://www.goldenpages.ie/dlc-datalink-communications-ltd-loughrea-H62/"
+    ]
+   ]
+  },
+  "XC-M100": {
+   "reg": "Org.nr 997 293 851（2011-09-02）",
+   "note": "ADEPTOR AS · Kanalveien 62, 5068 Bergen · 22 人 · NACE 46.500 ICT 设备批发 · 日常经理 Dag Ivar Roald · 2025 税前利润 13.5M NOK",
+   "facts": [
+    [
+     "Proff：ADEPTOR AS · Org nr 997 293 851 · 2011 · 22 人 · Kanalveien 62 Bergen · DL Dag Ivar Roald",
+     "https://www.proff.no/selskap/adeptor-as/bergen/elektronikk-og-telekommunikasjonsutstyr-engros/IGHRGUZ10MZ"
+    ]
+   ]
+  },
+  "XC-M101": {
+   "reg": "Org.nr 968 614 150（1995 登记；1994-01-03 成立）",
+   "note": "AUTIC SYSTEM AS · Træleborgveien 2, 3112 Tønsberg · 13 人 · 2025 营收 80.0M NOK · 母公司 Autic Invest AS · 日常经理 Pål Andersen",
+   "facts": [
+    [
+     "Proff：AUTIC SYSTEM AS · Org nr 968 614 150 · 13 人 · Tønsberg · 母公司 Autic Invest AS",
+     "https://www.proff.no/selskap/autic-system-as/t%C3%B8nsberg/elektronikk-og-telekommunikasjonsutstyr-engros/IG0ORGM10MZ"
+    ],
+    [
+     "Proff 搜索：2025 营收 80 005 kNOK · DL Pål Andersen",
+     "https://www.proff.no/s%C3%B8k-etter-firmanavn?q=Systue&nspage=10"
+    ]
+   ]
+  },
+  "XC-E063": {
+   "reg": "KvK 34242736（2006-02-08，zetel Zaandam）",
+   "note": "Xentech B.V. · 名录另载 Rotterdam Strevelsweg 700 Unit 303-D24（官网 Zaandam Vredeweg 46/D1）；Drimble 页含「Opgeheven」字样疑为另一登记 → 状态待核",
+   "facts": [
+    [
+     "Drimble：Xentech B.V. · KvK 34242736 · 2006-02-08 · 主营业所",
+     "https://drimble.nl/bedrijf/zaandam/15927288/xentech-bv.html"
+    ],
+    [
+     "Bedrijvenpagina：Xentech B.V. · Strevelsweg 700 Rotterdam · KvK 34242736",
+     "https://www.bedrijvenpagina.nl/Xentech_B.V./1101017/123b68f8/"
+    ]
+   ]
+  },
+  "XC-M072": {
+   "reg": "ЕИК 131340703（2004-12-03）；ДДС BG131340703",
+   "note": "КОМИКОН ООД · София, Младост 4, ул. Александър Паскалев · 管理人 Александър Савов · 资本 €2,556 · 2021 营业额 357k лв（≈€182k）→ 微型 → 转观察档",
+   "facts": [
+    [
+     "finansi.bg：КОМИКОН ООД · ЕИК 131340703 · 2004 · 管理人 Александър Савов · КИД 2651 仪器制造",
+     "https://finansi.bg/komikon"
+    ],
+    [
+     "papagal.bg：2021 营业额 357 000 лв · 资本 2 556 €",
+     "https://papagal.bg/eik/131340703/ca11"
+    ]
+   ]
+  },
+  "XC-M073": {
+   "reg": "ЕИК 130521622（2001-04-18）；ДДС BG130521622",
+   "note": "РИТБУЛ ЕООД · София 1407, Лозенец, ул. Ст. Л. Костов 16 · 2020 营业额 €2.62M · 21–27 人 · 管理人 Мария Божкова · 所有人 Юлиан Божков · 30+ 品牌授权进口",
+   "facts": [
+    [
+     "papagal.bg：РИТБУЛ ЕООД · ЕИК 130521622 · 2020 营业额 2 620 882 € · 21 人",
+     "https://papagal.bg/eik/130521622/9534"
+    ],
+    [
+     "官网隐私政策：РИТБУЛ ЕООД · ЕИК 130521622 · ул. Ст.Л.Костов 16 · 2001 起 · 30+ 品牌",
+     "https://old.rittbul.bg/privacy-policy/"
+    ]
+   ]
+  },
+  "XC-M087": {
+   "reg": "",
+   "note": "官网 Επικοινωνία 页仅载 Χ. Β. ΤΣΑΚΑΡΕΛΟΣ & ΣΙΑ Ε.Ε. · Σελεύκου 6；ΓΕΜΗ 一次检索未中 → reg_pending 留",
+   "facts": [
+    [
+     "官网：NetAP - C. V. TSAKARELOS & CO. L.P. · Σελεύκου 6",
+     "https://www.netap.gr/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1"
+    ]
+   ]
+  },
+  "XC-M116": {
+   "reg": "SIREN 429 607 740；SIRET 429 607 740 00041；TVA FR43429607740",
+   "note": "QL3D SARL · 资本 €120,000 · 2000-02-21 起（RCS Versailles 2007）· NAF 4652Z 电子与电信设备批发 · 3–5 人 · 经理 Ludovic Deboves",
+   "facts": [
+    [
+     "societe.com：QL3D · SIREN 429 607 740 · SARL €120,000 · 4652Z · Ludovic DEBOVES",
+     "https://www.societe.com/societe/ql3d-429607740.html"
+    ],
+    [
+     "manageo：3–5 人 · RCS Versailles 2007B00575",
+     "https://www.manageo.fr/entreprises/429607740.html"
+    ]
+   ]
+  },
+  "XC-E059": {
+   "reg": "SIREN 451 371 884；SIRET 451 371 884 00037；TVA FR29451371884",
+   "note": "ALYSEO SARL · 资本 €9,000 · 2004-12-23 RCS Nantes · NAF 6202A IT 咨询 · 经理 Sébastien Scuiereb · Aytré 分部；关联 ALYSEO BOS SAS（软件，2022）",
+   "facts": [
+    [
+     "societe.com：ALYSEO · SIREN 451 371 884 · SARL · 6202A · Sebastien SCUIEREB",
+     "https://www.societe.com/societe/alyseo-451371884.html"
+    ],
+    [
+     "rubypayeur：资本 9 000 € · RCS Nantes 2004-12-23",
+     "https://rubypayeur.com/societe/alyseo-451371884"
+    ]
+   ]
+  },
+  "XC-M083": {
+   "reg": "",
+   "note": "同名排除：АСПЕКТ ДОО Скопје（ЕМБС 4390237，aspekt.com.mk，软件 / 计算机工程，11-ти Октомври 25）≠ 本户 aspect.com.mk（Orce Nikolov 190/3-1，自动化方案）→ 不强判，reg_pending 留",
+   "facts": [
+    [
+     "CompanyWall MK：АСПЕКТ ДОО Скопје · ЕМБС 4390237 · info@aspekt.com.mk（同名非本户）",
+     "https://www.companywall.com.mk/kompanija/%D0%B0%D1%81%D0%BF%D0%B5%D0%BA%D1%82-%D0%B4%D0%BE%D0%BE-%D1%81%D0%BA%D0%BE%D0%BF%D1%98%D0%B5/MMAY9YT0"
+    ]
+   ]
+  },
+  "XC-M147": {
+   "reg": "",
+   "note": "官网 Contact：International Trade Carrier, LLC · 6710A Rockledge Drive, Suite 400, Bethesda, MD 20817 · 工业自动化电子供应 B2B 采购（Advantech 等）· 不对私人；MD SDAT 号一次检索未中 → reg_pending 留",
+   "facts": [
+    [
+     "官网 Contact：International Trade Carrier, LLC · Bethesda MD 20817 · info@internationaltradecarrier.com",
+     "https://www.internationaltradecarrier.com/contact/"
+    ]
+   ]
+  },
+  "XC-M132": {
+   "reg": "",
+   "note": "体量补证：ABP Technology · 13988 Diplomat Drive Suite 180, Dallas TX 75234 · 2001 起 · 75–80 人 / 营收 $5.5M · CEO Robert Messer · CTO Henry Castillo（LeadIQ / Adapt / Zippia）；TX SOS 号一次检索未中 → reg_pending 留；体量够 ★，补到注册号即升",
+   "facts": [
+    [
+     "LeadIQ：ABP Technology · Dallas · 2001 · 75 人 · IP 电话 / 监控 / 视频 / 基础设施专业分销",
+     "https://leadiq.com/c/abp-technology/5a1d902d5400005b0075cbe2/employee-directory"
+    ],
+    [
+     "Adapt.io：CEO Robert Messer · CTO Henry Castillo · 25–100 人 · $1–10M",
+     "https://www.adapt.io/company/abp-technology-1"
+    ]
+   ]
+  },
+  "XC-M154": {
+   "reg": "",
+   "note": "体量补证：Pulse Supply · 909 Ridgebrook Rd Ste 120, Sparks MD 21152 · 1995 起 · 15–16 人 / $3M · President Salvatore Costantino（Datanyze / ZoomInfo）；MD SDAT 号一次检索未中 → reg_pending 留",
+   "facts": [
+    [
+     "Datanyze：Pulse Supply · Sparks MD · 1995 · 16 人 · $3M",
+     "https://www.datanyze.com/companies/pulse-supply/187384274"
+    ],
+    [
+     "ZoomInfo：Salvatore Costantino President · 1995–present",
+     "https://www.zoominfo.com/p/Salvatore-Costantino/42892707"
+    ]
+   ]
+  },
+  "XC-M158": {
+   "reg": "SAM.gov UEI KNKRVNQCAEJ7 / CAGE 392W1（CA 公司，2002-07-02 成立，2005-05 联邦登记）",
+   "note": "SANTA CLARA SYSTEMS, INC. · 2060 N Loop Rd, Alameda CA 94502 · 30 人 / $10.6M（Datanyze）· 工业自动化与控制分销（Allen Bradley 等）",
+   "facts": [
+    [
+     "HigherGov：SANTA CLARA SYSTEMS, INC. · UEI KNKRVNQCAEJ7 · CAGE 392W1 · CA 公司 2002-07-02",
+     "https://www.highergov.com/awardee/santa-clara-systems-inc-12840517/"
+    ],
+    [
+     "Datanyze：30 人 · $10.6M · 2002",
+     "https://www.datanyze.com/companies/santa-clara-systems/105300573"
+    ]
+   ]
+  },
+  "XC-M168": {
+   "reg": "",
+   "note": "体量补证：Marshall Wolf Automation, Inc. · 210 Dowdle St Suite 1, Algonquin IL 60102 · 1984/85 起（Bloomberg 1987-01-27）· 35 人 · 营收 $5–25M · CEO Hans Wolf；IL SOS 号一次检索未中 → reg_pending 留",
+   "facts": [
+    [
+     "Bloomberg：Marshall Wolf Automation Inc · 210 Dowdle St Algonquin · 35 人 · 1987-01-27",
+     "https://www.bloomberg.com/profile/company/0044653D:US"
+    ],
+    [
+     "Glassdoor：1984 起 · $5–25M · CEO Hans Wolf",
+     "https://www.glassdoor.com/Overview/Working-at-Marshall-Wolf-Automation-EI_IE1802137.11,35.htm"
+    ]
+   ]
+  },
+  "SC-729": {
+   "reg": "ИНН 9728025085 = ООО «Мицар»（ОГРН 1217700015807，Москва Научный проезд 19，2021-01-22，оптовая торговля электронным и телекоммуникационным оборудованием，ГД Немецков Павел Сергеевич，УК 50 000 ₽）",
+   "note": "G2R-01 聚合页把该 ИНН 对应到 brownbear.ru；官方登记显示法人为 ООО «Мицар»（同为电信设备批发，可能是 Brown Bear 的运营主体但官网未证实）→ 法人名待核，转观察档 △",
+   "facts": [
+    [
+     "Rusprofile：ООО «Мицар» · ИНН 9728025085 · ОГРН 1217700015807 · 2021-01-22 · 电子与电信设备批发 · ГД Немецков П.С.",
+     "https://www.rusprofile.ru/id/1217700015807"
+    ],
+    [
+     "ЗаЧестныйБизнес：ООО «МИЦАР» · Научный проезд 19 офис 398 · УК 50 000 ₽ · действующее",
+     "https://zachestnyibiznes.ru/company/ul/1217700015807_9728025085"
+    ]
+   ]
+  }
+ }
+}

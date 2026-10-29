@@ -2,7 +2,7 @@
 
 > **现判 XC 暂不管** ｜ 来源 mikrotik-info `C-093`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-02 2026-10-29）→ 下一动作 不动
 >
-> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 工业自动化与控制分销 20%：Santa Clara Systems, Inc.（Alameda CA；Moxa 授权；11–50 人）官网部分坐实（CA SOS 号待补）；主区 US；sales@santaclarasystems.com
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 工业自动化与控制分销 20%：Santa Clara Systems, Inc.（Alameda CA；Moxa 授权；11–50 人）官网部分坐实（CA SOS 号待补）；主区 US；sales@santaclarasystems.com｜补证 X1-02R（2026-10-29）：SAM.gov UEI KNKRVNQCAEJ7 / CAGE 392W1 坐实（30 人 / $10.6M）；SANTA CLARA SYSTEMS, INC. · 2060 N Loop Rd, Alameda CA 94502 · 30 人 / $10.6M（Datanyze）· 工业自动化与控制分销（Allen Bradley 等）
 
 ## 1. 初判与理由
 - 初判：**XC** — 来源库（mikrotik-info）已判 C（细分：B下放·无邮箱（群发触达不到）；依据：【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一）；Simon 口径「mik 的 C 不碰」→ 关仓前仅存档，不跟
@@ -63,5 +63,7 @@
 |---|---|---|---|---|
 | 官网 / 名录 | 官网 Contact：sales@santaclarasystems.com · 2060 North Loop Road Alameda CA 94502 |  | https://www.santaclarasystems.com/contact | 2026-10-29 |
 | 官网 / 名录 | Crunchbase：Santa Clara Systems, Inc. · Alameda · 11–50 |  | https://www.crunchbase.com/organization/santa-clara-systems | 2026-10-29 |
+| 登记 / 名录 | HigherGov：SANTA CLARA SYSTEMS, INC. · UEI KNKRVNQCAEJ7 · CAGE 392W1 · CA 公司 2002-07-02 |  | https://www.highergov.com/awardee/santa-clara-systems-inc-12840517/ | 2026-10-29 |
+| 登记 / 名录 | Datanyze：30 人 · $10.6M · 2002 |  | https://www.datanyze.com/companies/santa-clara-systems/105300573 | 2026-10-29 |
 
-- 备注：Santa Clara Systems, Inc.；2060 North Loop Road, Alameda CA 94502；+1 888-450-0301
+- 备注：Santa Clara Systems, Inc.；2060 North Loop Road, Alameda CA 94502；+1 888-450-0301；X1-02R 补证：SAM.gov UEI KNKRVNQCAEJ7 / CAGE 392W1（CA 公司，2002-07-02 成立，2005-05 联邦登记）

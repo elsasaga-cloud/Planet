@@ -2,7 +2,7 @@
 
 > **现判 XC 暂不管** ｜ 来源 mikrotik-info `C-067`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-02 2026-10-29）→ 下一动作 不动
 >
-> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ IP 技术 / 工业网络专业分销 20%：ABP Technology（Dallas TX；PLANET 美国授权分销，在售 PLANET 工业以太网全系）官网部分坐实（州注册号待补）；主区 US；sales@ / partners@abptech.com
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ IP 技术 / 工业网络专业分销 20%：ABP Technology（Dallas TX；PLANET 美国授权分销，在售 PLANET 工业以太网全系）官网部分坐实（州注册号待补）；主区 US；sales@ / partners@abptech.com｜补证 X1-02R（2026-10-29）：体量 75–80 人 / $5.5M 坐实；TX SOS 号仍待补（补到即 ★）；体量补证：ABP Technology · 13988 Diplomat Drive Suite 180, Dallas TX 75234 · 2001 起 · 75–80 人 / 营收 $5.5M · CEO Robert Messer · CTO Henry Castillo（LeadIQ / Adapt / Zippia）；TX SOS 号一次检索未中 → reg_pending 留；体量够 ★，补到注册号即升
 
 ## 1. 初判与理由
 - 初判：**XC** — Planet 美国渠道（Saga 规则：Versa/Planet USA = C）
@@ -65,5 +65,7 @@
 |---|---|---|---|---|
 | 官网 / 名录 | Contact：US HQ Dallas · 972-831-1600 · sales@abptech.com |  | https://www.abptech.com/contact/ | 2026-10-29 |
 | 官网 / 名录 | Partner Store About：specialty distributor of IP Technology · sales@abptech.com |  | https://partnerstore.abptech.com/about-us | 2026-10-29 |
+| 登记 / 名录 | LeadIQ：ABP Technology · Dallas · 2001 · 75 人 · IP 电话 / 监控 / 视频 / 基础设施专业分销 |  | https://leadiq.com/c/abp-technology/5a1d902d5400005b0075cbe2/employee-directory | 2026-10-29 |
+| 登记 / 名录 | Adapt.io：CEO Robert Messer · CTO Henry Castillo · 25–100 人 · $1–10M |  | https://www.adapt.io/company/abp-technology-1 | 2026-10-29 |
 
 - 备注：ABP Technology；13988 Diplomat Drive Suite 180, Dallas TX 75234；+1 972-831-1600

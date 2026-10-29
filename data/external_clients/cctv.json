@@ -139723,7 +139723,12 @@
    "type": "A类 — 酒店/医疗ICT专业分销+集成,Convergence网络150家公司",
    "their_class": "",
    "stars": 0,
-   "emails": [],
+   "emails": [
+    {
+     "addr": "contact@hotel-care.fr",
+     "status": "公开·X1-03 补"
+    }
+   ],
    "phones": [],
    "kv": {
     "公司名": "Hotel Care (hotel-care.fr)",
@@ -139738,7 +139743,8 @@
    "raw": "298. Hotel Care 🇫🇷\n| 项目 | 详情 |\n|------|------|\n| **公司名** | Hotel Care (hotel-care.fr) |\n| **国家/城市** | 法国·Aix-en-Provence |\n| **客户类型** | A类 — 酒店/医疗ICT专业分销+集成,Convergence网络150家公司 |\n| **联系方式** | hotel-care.fr |\n| **推荐产品** | ①PoE交换机(24口千兆,370W,VLAN隔离) ②WiFi 6 AP(吸顶式) ③PoE交换机(8口千兆,客房级) |\n| **报价(FOB)** | ①$65 ②$35 ③$22 |\n| **竞争对手** | Cisco Catalyst,Aruba Instant On,TP-Link Omada,Ruckus |\n| **卖点** | Hotel Care专注酒店/医院ICT方案(TV/IPTV/WiFi/电话),属于Convergence网络(150家公司1800人180000+客户),与Accor/Loxam/Bricorama等大集团有框架协议,部署Cisco/Aruba/TP-Link PoE交换机,酒店每层需要PoE交换机供电AP+摄像头+IPTV,Saga可提供OEM低价替代 |",
    "notes": "",
    "flags": [
-    "终端触点"
+    "终端触点",
+    "邮箱已补（X1-03 2026-10-29）"
    ],
    "src_path": "03-海外客户开发清单.md",
    "src_line": 14741,
@@ -139749,7 +139755,9 @@
    "src_kind": "heading",
    "also": [],
    "src_repo_ref": "elsasaga-cloud/CCTV-PoE@9be1416 (arena/01a0c908-cctv-poe)",
-   "emails_live": [],
+   "emails_live": [
+    "contact@hotel-care.fr"
+   ],
    "kp_named": false,
    "stage": "",
    "saga_dup": null,
@@ -144214,7 +144222,12 @@
    "type": "B类 — 2014年起,100-199员工,Teltonika分销",
    "their_class": "",
    "stars": 0,
-   "emails": [],
+   "emails": [
+    {
+     "addr": "sales@efcotec.de",
+     "status": "公开·X1-03 补"
+    }
+   ],
    "phones": [],
    "kv": {
     "公司名": "EFCO Electronics GmbH",
@@ -144229,7 +144242,8 @@
    "raw": "399. EFCO Electronics GmbH 🇩🇪\n| 项目 | 详情 |\n|------|------|\n| **公司名** | EFCO Electronics GmbH |\n| **国家/城市** | 德国·Deggendorf (巴伐利亚) |\n| **客户类型** | B类 — 2014年起,100-199员工,Teltonika分销 |\n| **联系方式** | wlw.de listing |\n| **推荐产品** | ①PoE交换机(10口千兆,PoE+,管理型) ②工业级PoE交换机(4口+SFP) |\n| **报价(FOB)** | ①$32 ②$28 |\n| **竞争对手** | Teltonika TSW304/TSW200 |\n| **卖点** | EFCO 2014年起100-199员工,Teltonika TSW304(4口工业)+TSW200(10口PoE+)是其产品线,Saga PoE交换机可作为Teltonika替代 |",
    "notes": "",
    "flags": [
-    "终端触点"
+    "终端触点",
+    "邮箱已补（X1-03 2026-10-29）"
    ],
    "src_path": "03-海外客户开发清单.md",
    "src_line": 15962,
@@ -144240,7 +144254,9 @@
    "src_kind": "heading",
    "also": [],
    "src_repo_ref": "elsasaga-cloud/CCTV-PoE@9be1416 (arena/01a0c908-cctv-poe)",
-   "emails_live": [],
+   "emails_live": [
+    "sales@efcotec.de"
+   ],
    "kp_named": false,
    "stage": "",
    "saga_dup": null,
@@ -152018,7 +152034,12 @@
    "type": "IT硬件批发商/出口商",
    "their_class": "",
    "stars": 1,
-   "emails": [],
+   "emails": [
+    {
+     "addr": "info@colioninternational.com",
+     "status": "公开·X1-03 补"
+    }
+   ],
    "phones": [],
    "kv": {
     "公司全称": "Colion International Trading L.L.C",
@@ -152042,7 +152063,8 @@
    "notes": "",
    "flags": [
     "多处出现×5",
-    "终端触点"
+    "终端触点",
+    "邮箱已补（X1-03 2026-10-29）"
    ],
    "src_path": "03-海外客户开发清单.md",
    "src_line": 19255,
@@ -152094,7 +152116,9 @@
     }
    ],
    "src_repo_ref": "elsasaga-cloud/CCTV-PoE@9be1416 (arena/01a0c908-cctv-poe)",
-   "emails_live": [],
+   "emails_live": [
+    "info@colioninternational.com"
+   ],
    "kp_named": false,
    "stage": "",
    "saga_dup": null,
@@ -153130,7 +153154,12 @@
    "type": "网络交换机分销商",
    "their_class": "",
    "stars": 1,
-   "emails": [],
+   "emails": [
+    {
+     "addr": "info@itworlduae.com",
+     "status": "公开·X1-03 补"
+    }
+   ],
    "phones": [],
    "kv": {
     "公司全称": "IT World Trading",
@@ -153144,7 +153173,8 @@
    "raw": "586. IT World Trading 🟢\n| 维度 | 详情 |\n|------|------|\n| **公司全称** | IT World Trading |\n| **公司类型** | 网络交换机分销商 |\n| **总部** | Dubai, UAE |\n| **网站** | itworlduae.com |\n| **行业** | 网络设备 |\n| **角色** | 网络交换机Dubai分销商 |\n\n**核心产品：**\n- PoE交换机（IP电话/监控系统）\n- 可堆叠交换机\n- 高密度数据中心交换机\n- 多品牌\n\n| 维度 | 评估 |\n|------|------|\n| **客户优先级** | 🟡 **B类**（网络交换机分销，PoE明确品类） |\n\n---",
    "notes": "",
    "flags": [
-    "终端触点"
+    "终端触点",
+    "邮箱已补（X1-03 2026-10-29）"
    ],
    "src_path": "03-海外客户开发清单.md",
    "src_line": 19840,
@@ -153155,7 +153185,9 @@
    "src_kind": "heading",
    "also": [],
    "src_repo_ref": "elsasaga-cloud/CCTV-PoE@9be1416 (arena/01a0c908-cctv-poe)",
-   "emails_live": [],
+   "emails_live": [
+    "info@itworlduae.com"
+   ],
    "kp_named": false,
    "stage": "",
    "saga_dup": null,
@@ -155575,7 +155607,12 @@
    "type": "网络交换机供应商/分销商",
    "their_class": "",
    "stars": 1,
-   "emails": [],
+   "emails": [
+    {
+     "addr": "info@switchlinkdubai.com",
+     "status": "公开·X1-03 补"
+    }
+   ],
    "phones": [],
    "kv": {
     "公司全称": "Switch Link Computers Trading LLC",
@@ -155591,7 +155628,8 @@
    "raw": "626. Switch Link Computers Trading LLC 🟢🟢\n| 维度 | 详情 |\n|------|------|\n| **公司全称** | Switch Link Computers Trading LLC |\n| **公司类型** | 网络交换机供应商/分销商 |\n| **总部** | Bur Dubai, Dubai, UAE |\n| **成立时间** | 2017年 |\n| **网站** | switchlinkct.com |\n| **行业** | 网络设备 |\n| **角色** | **多品牌网络交换机UAE供应商** |\n\n**核心品牌：**\nCisco / Huawei S系列 / Aruba CX / HP / Fortinet FortiSwitch / Juniper EX / TP-Link / Ubiquiti\n\n**PoE交换机需求分析：**\n- ✅ **多品牌PoE交换机** — Huawei S5735-L/S5720/S6720全支持PoE+\n- ✅ **PoE配置支持** — IP电话/WiFi/CCTV\n- ✅ **UAE全境配送** — Dubai/Abu Dhabi/Sharjah/RAK\n\n| 维度 | 评估 |\n|------|------|\n| **客户优先级** | 🟢 **A类**（多品牌网络交换机专业分销） |\n| **匹配度** | 极高 |\n\n---",
    "notes": "",
    "flags": [
-    "终端触点"
+    "终端触点",
+    "邮箱已补（X1-03 2026-10-29）"
    ],
    "src_path": "03-海外客户开发清单.md",
    "src_line": 20774,
@@ -155602,7 +155640,9 @@
    "src_kind": "heading",
    "also": [],
    "src_repo_ref": "elsasaga-cloud/CCTV-PoE@9be1416 (arena/01a0c908-cctv-poe)",
-   "emails_live": [],
+   "emails_live": [
+    "info@switchlinkdubai.com"
+   ],
    "kp_named": false,
    "stage": "",
    "saga_dup": null,
@@ -160604,7 +160644,12 @@
    "type": "IT批发供应商",
    "their_class": "",
    "stars": 1,
-   "emails": [],
+   "emails": [
+    {
+     "addr": "info@aldhahab.ae",
+     "status": "公开·X1-03 补"
+    }
+   ],
    "phones": [],
    "kv": {
     "公司全称": "Al Dhahab Computer Trading LLC",
@@ -160619,7 +160664,8 @@
    "raw": "751. Al Dhahab Computer Trading LLC 🟢🟢\n| 维度 | 详情 |\n|------|------|\n| **公司全称** | Al Dhahab Computer Trading LLC |\n| **公司类型** | IT批发供应商 |\n| **总部** | Dubai, UAE |\n| **成立时间** | 2024年 |\n| **网站** | aldhahab.ae |\n| **行业** | IT批发 |\n| **角色** | **B2B IT硬件批发（UAE/GCC/非洲/CIS）** |\n\n**核心产品：**\n- 企业服务器/网络硬件/商业电脑\n- 转售商/经销商/系统集成商供应\n- UAE/GCC/非洲/CIS市场\n\n| 维度 | 评估 |\n|------|------|\n| **客户优先级** | 🟡 **B类**（IT批发，网络设备品类） |\n\n---",
    "notes": "",
    "flags": [
-    "终端触点"
+    "终端触点",
+    "邮箱已补（X1-03 2026-10-29）"
    ],
    "src_path": "03-海外客户开发清单.md",
    "src_line": 23040,
@@ -160630,7 +160676,9 @@
    "src_kind": "heading",
    "also": [],
    "src_repo_ref": "elsasaga-cloud/CCTV-PoE@9be1416 (arena/01a0c908-cctv-poe)",
-   "emails_live": [],
+   "emails_live": [
+    "info@aldhahab.ae"
+   ],
    "kp_named": false,
    "stage": "",
    "saga_dup": null,

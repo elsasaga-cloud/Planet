@@ -30055,17 +30055,23 @@
    "evidence_urls": [],
    "followups": [],
    "r_notes": [],
-   "emails": [],
-   "emails_live": [],
+   "emails": [
+    {
+     "addr": "sales@racklive.com",
+     "status": "公开·X1-03 补"
+    }
+   ],
+   "emails_live": [
+    "sales@racklive.com"
+   ],
    "phones": [],
    "kp_named": false,
    "stage": "",
    "flags": [
-    "无可用邮箱",
     "来源库已删",
     "来源库未建档（仅在 xlsx）",
     "来源库终局已删",
-    "缺联系"
+    "邮箱已补（X1-03 2026-10-29）"
    ],
    "src_deleted": {
     "old_code": "B-071",

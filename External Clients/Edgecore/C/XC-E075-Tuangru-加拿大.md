@@ -2,7 +2,7 @@
 
 > **初判 XC 暂不管** ｜ 来源 Edgecore `XLSX-渠道伙伴库#163`（原评级 -） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
 >
-> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（闸 1 · G1-auto · 2026-10-29）：渠道型主体但路径未建（SI·VAR·经销商  ；无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源库已删、缺联系）→ 留 C 待巡检，补到邮箱再闸 2
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（闸 1 · G1 · 2026-10-29）：留 C：Tuangru（Vancouver；已转型 Hyperview DCIM 软件；CTO Rami Jebara）公开页无直接邮箱 → 路径仍未建，且软件转型对位弱，一次检索即止
 
 ## 1. 初判与理由
 - 初判：**XC** — 来源库 2026-10-19 R16/R17 终局已删（旧 B-060）：纯 DCIM 软件商，2022 年更名 Hyperview——品类不符（非硬件渠道）；按方案 §7 已删档案不复活，仅存档备查

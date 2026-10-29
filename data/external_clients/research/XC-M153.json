@@ -1,0 +1,52 @@
+{
+ "code": "XC-M153",
+ "name": "Process Technology, Inc. (PTI)",
+ "round": "X1-03",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "Process Technology, Inc.（PTI）：过程仪表 + 工厂自动化分销，1986 起，覆盖 8 州；11–50 人",
+ "type_final": "分销（HMS/N-Tron·Red Lion 渠道）；Process Technology, Inc.（PTI）",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "○ 过程仪表 + 工厂自动化分销 20%：Process Technology, Inc.（Salt Lake City",
+ "brands_seen": [],
+ "contacts": {
+  "email": "process@process-tech.com",
+  "email_status": "官网 / 名录公开（X1-03 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "官网 FAQ：quotes@ / orders@process-tech.com · 801-264-1114",
+   "quote": "",
+   "url": "https://process-tech.com/article_86_Frequently-Asked-Questions.cfm",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "McCrometer 分销名录：Process Technology, Inc. · Salt Lake City · 1986 起 · 联系人 Brian Waslo",
+   "quote": "",
+   "url": "https://www.mccrometer.com/acadp_listings/process-technology/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "Crunchbase：11–50 · process@process-tech.com",
+   "quote": "",
+   "url": "https://www.crunchbase.com/organization/process-technology-inc",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-03 补路径：○ 过程仪表 + 工厂自动化分销 20%：Process Technology, Inc.（Salt Lake City UT；1986 起；AZ / CO 分部；11–50 人）官网 FAQ + 名录部分坐实（UT 注（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "已入 P 池 → 按巡检节奏首触"
+ },
+ "deep": false,
+ "notes": "Process Technology, Inc.（PTI）；4084 S 300 West, Salt Lake City, UT 84107（AZ / CO 分部）；+1 801 264 1114",
+ "draft_en": null
+}

@@ -29,6 +29,20 @@
    "quote": "",
    "url": "https://www.crunchbase.com/organization/santa-clara-systems",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "登记 / 名录",
+   "claim": "HigherGov：SANTA CLARA SYSTEMS, INC. · UEI KNKRVNQCAEJ7 · CAGE 392W1 · CA 公司 2002-07-02",
+   "quote": "",
+   "url": "https://www.highergov.com/awardee/santa-clara-systems-inc-12840517/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "登记 / 名录",
+   "claim": "Datanyze：30 人 · $10.6M · 2002",
+   "quote": "",
+   "url": "https://www.datanyze.com/companies/santa-clara-systems/105300573",
+   "date": "2026-10-29"
   }
  ],
  "touch_status": "未触达（路径 2026-10-29 新补）",
@@ -40,6 +54,6 @@
   "angle": "已入 P 池 → 按巡检节奏首触"
  },
  "deep": false,
- "notes": "Santa Clara Systems, Inc.；2060 North Loop Road, Alameda CA 94502；+1 888-450-0301",
+ "notes": "Santa Clara Systems, Inc.；2060 North Loop Road, Alameda CA 94502；+1 888-450-0301；X1-02R 补证：SAM.gov UEI KNKRVNQCAEJ7 / CAGE 392W1（CA 公司，2002-07-02 成立，2005-05 联邦登记）",
  "draft_en": null
 }

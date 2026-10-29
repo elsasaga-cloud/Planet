@@ -1,0 +1,45 @@
+{
+ "code": "XC-M178",
+ "name": "Future Focus Energy Ltd",
+ "round": "X1-03",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "Future Focus Energy Limited：能源管理 / 监测公司（4 人；CEO Paul Friday）→ 不是渠道分销，对位弱",
+ "type_final": "分销（HMS/N-Tron·Red Lion 渠道）；Future Focus Energy Limited",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "留 C：Future Focus Energy Limited（Blackpool；4 人；能源管理 / 监测公司）→ ",
+ "brands_seen": [],
+ "contacts": {
+  "email": "Info@futurefocusenergy.co.uk",
+  "email_status": "官网 / 名录公开（X1-03 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "Facebook 官方页：Future Focus Energy · Blackpool · Info@futurefocusenergy.co.uk · 能源管理与监测",
+   "quote": "",
+   "url": "https://www.facebook.com/FutureFocusEnergyUK/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "Apollo：Future Focus Energy Limited · 4 人",
+   "quote": "",
+   "url": "https://www.apollo.io/people/Andrew/Green/5ada14c8a6da9862b3aae7c1",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-03 补路径：留 C：Future Focus Energy Limited（Blackpool；4 人；能源管理 / 监测公司）→ 不是渠道分销，对位弱；邮箱已补 Info@futurefocusenergy.co.uk（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "留 C 储备，随群发节奏"
+ },
+ "deep": false,
+ "notes": "Future Focus Energy Limited；Blackpool；+44 1253 292000",
+ "draft_en": null
+}

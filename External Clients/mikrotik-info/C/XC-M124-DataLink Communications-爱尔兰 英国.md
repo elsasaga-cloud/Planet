@@ -2,7 +2,7 @@
 
 > **现判 XC 暂不管** ｜ 来源 mikrotik-info `C-059`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-02 2026-10-29）→ 下一动作 不动
 >
-> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 工业通信分销 20%：DataLink Communications Ltd（Loughrea Co. Galway；ORing 授权；emacsys 分销名录；11–50 人；覆盖 IE / UK）名录 + 官网部分坐实（CRO 号待补）；sales@datalinkcom.net
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 工业通信分销 20%：DataLink Communications Ltd（Loughrea Co. Galway；ORing 授权；emacsys 分销名录；11–50 人；覆盖 IE / UK）名录 + 官网部分坐实（CRO 号待补）；sales@datalinkcom.net｜补证 X1-02R（2026-10-29）：法人名修正 D.L.C. DataLink Communications Ltd；CRO 号仍待补；法人名修正：D.L.C. DataLink Communications Ltd · Cloghaun, Kilchreest, Loughrea H62 F985 · (091) 840838 · sales@datalinkcom.net；CRO 号一次检索未中 → reg_pending 留
 
 ## 1. 初判与理由
 - 初判：**XC** — 来源库（mikrotik-info）已判 C（细分：B下放·无邮箱（群发触达不到）；依据：【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一）；Simon 口径「mik 的 C 不碰」→ 关仓前仅存档，不跟
@@ -63,5 +63,6 @@
 |---|---|---|---|---|
 | 官网 / 名录 | emacsys 分销商名录：DataLink Communications Ltd · Loughrea Co. Galway · sales@datalinkcom.net |  | http://www.emacsys.com/html/distributors.html | 2026-10-29 |
 | 官网 / 名录 | LeadIQ：Datalink Communications · 11–50 人 |  | https://leadiq.com/c/datalink-communications/5a1da7f723000054009baae5 | 2026-10-29 |
+| 登记 / 名录 | Golden Pages：D.L.C. DataLink Communications Ltd · Loughrea H62 F985 · Industrial Networking Supplies |  | https://www.goldenpages.ie/dlc-datalink-communications-ltd-loughrea-H62/ | 2026-10-29 |
 
 - 备注：DataLink Communications Ltd；Cloghaun, Kilchreest, Loughrea, Co. Galway, Ireland（LeadIQ 另列 Natick MA 地址，疑混淆）；+353 91 840838

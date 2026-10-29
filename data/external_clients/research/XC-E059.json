@@ -29,6 +29,20 @@
    "quote": "",
    "url": "https://nexenta.com/country/france",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "登记 / 名录",
+   "claim": "societe.com：ALYSEO · SIREN 451 371 884 · SARL · 6202A · Sebastien SCUIEREB",
+   "quote": "",
+   "url": "https://www.societe.com/societe/alyseo-451371884.html",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "登记 / 名录",
+   "claim": "rubypayeur：资本 9 000 € · RCS Nantes 2004-12-23",
+   "quote": "",
+   "url": "https://rubypayeur.com/societe/alyseo-451371884",
+   "date": "2026-10-29"
   }
  ],
  "touch_status": "未触达（路径 2026-10-29 新补）",
@@ -40,6 +54,6 @@
   "angle": "观察档 → 试单后转正"
  },
  "deep": false,
- "notes": "Alyseo；1 rue de la Fonderie, 44230 Saint-Sébastien-sur-Loire（Paris 电话）；+33 1 83 35 10 10",
+ "notes": "Alyseo；1 rue de la Fonderie, 44230 Saint-Sébastien-sur-Loire（Paris 电话）；+33 1 83 35 10 10；X1-02R 补证：SIREN 451 371 884；SIRET 451 371 884 00037；TVA FR29451371884",
  "draft_en": null
 }

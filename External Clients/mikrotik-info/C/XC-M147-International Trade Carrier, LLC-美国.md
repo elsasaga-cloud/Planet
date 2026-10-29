@@ -2,7 +2,7 @@
 
 > **现判 XC 暂不管** ｜ 来源 mikrotik-info `C-082`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-02 2026-10-29）→ 下一动作 不动
 >
-> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：☆ P 池 · 观察档**（闸 3 · G3 · 2026-10-29）：☆ 电子元件 / 电源 B2B 批发采购 20%：International Trade Carrier, LLC（Bethesda MD；EtherWAN 授权）官网部分坐实（州注册号待补）；主区 US 但元件批发口径、仅 info@ → 观察档
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：☆ P 池 · 观察档**（闸 3 · G3 · 2026-10-29）：☆ 电子元件 / 电源 B2B 批发采购 20%：International Trade Carrier, LLC（Bethesda MD；EtherWAN 授权）官网部分坐实（州注册号待补）；主区 US 但元件批发口径、仅 info@ → 观察档｜补证 X1-02R（2026-10-29）：官网法人 International Trade Carrier, LLC + 地址；MD SDAT 号仍待补；官网 Contact：International Trade Carrier, LLC · 6710A Rockledge Drive, Suite 400, Bethesda, MD 20817 · 工业自动化电子供应 B2B 采购（Advantech 等）· 不对私人；MD SDAT 号一次检索未中 → reg_pending 留
 
 ## 1. 初判与理由
 - 初判：**XC** — 来源库（mikrotik-info）已判 C（细分：B下放·无邮箱（群发触达不到）；依据：【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一）；Simon 口径「mik 的 C 不碰」→ 关仓前仅存档，不跟

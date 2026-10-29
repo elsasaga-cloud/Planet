@@ -1,13 +1,13 @@
 {
 "_meta": {
 "updated": "2026-10-29",
-"time": "10:25Z",
+"time": "10:55Z",
 "n": 2254,
 "counts": {
-"keep_C": 952,
-"pool": 78,
+"keep_C": 935,
+"pool": 87,
 "pass_final": 1211,
-"pool_watch": 13
+"pool_watch": 21
 },
 "origin": "External",
 "scheme": "docs/C池三闸筛选_方案_2026-10-29.md（External XC 同法）"
@@ -7106,12 +7106,22 @@
 "XC-C0599": {
 "verdict": "keep_C",
 "gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（Miami总部25+年, 墨/哥/巴/智办公室, Linksys/Belkin批发  ；官网 abboudtrading.com，无邮箱 / 电话 / WA；来源库标 ）→ 留 C 待巡检，补到邮箱再闸 2",
+"rule": "G1",
+"reason": "留 C：Abboud Trading Corp.（Medley / Miami FL；1996 起；消费电子全渠道分销拉美；Director William Abboud）官网无公开邮箱（聚合页个人邮箱不采）→ 路径仍未建；消费电子口径对位弱，一次检索即止",
 "date": "2026-10-29",
+"manual": true,
 "repo": "CCTV-PoE",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"facts": [
+{
+"what": "Prospectoo：Abboud Trading Corp. · 1996 · Miami · 消费电子",
+"url": "https://prospectoo.com/company/AbboudTradingCorp-28976988/",
+"date": "2026-10-29"
+}
+],
+"g1_reason": "渠道型主体但路径未建（Miami总部25+年, 墨/哥/巴/智办公室, Linksys/Belkin批发  ；官网 abboudtrading.com，无邮箱 / 电话 / WA；来源库标 ）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto"
 },
 "XC-C0600": {
 "verdict": "keep_C",
@@ -7149,22 +7159,34 @@
 "XC-C0603": {
 "verdict": "keep_C",
 "gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（云管理PoE+交换机, 多租户MSP平台, PoE+全端口30W  ；官网 datto.com，无邮箱 / 电话 / WA；来源库标 ）→ 留 C 待巡检，补到邮箱再闸 2",
+"rule": "G1-giant",
 "date": "2026-10-29",
+"manual": true,
 "repo": "CCTV-PoE",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"tags": [
+"giant"
+],
+"g1_reason": "渠道型主体但路径未建（云管理PoE+交换机, 多租户MSP平台, PoE+全端口30W  ；官网 datto.com，无邮箱 / 电话 / WA；来源库标 ）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"reason": "留 C（规则判 X1-03，不检索）：Datto / Kaseya 软件巨头 —— 巨头 / 上市 / 零售集团采购走招标 / 供应商门户，补路径无意义；不入池、不群发，只在客户主动找上门时再议"
 },
 "XC-C0604": {
 "verdict": "keep_C",
 "gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（Wipro集团照明分部, 2024年9月扩展拉美分销  ；官网 wiprolighting.com，无邮箱 / 电话 / WA；来源库标 ）→ 留 C 待巡检，补到邮箱再闸 2",
+"rule": "G1-giant",
 "date": "2026-10-29",
+"manual": true,
 "repo": "CCTV-PoE",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"tags": [
+"giant"
+],
+"g1_reason": "渠道型主体但路径未建（Wipro集团照明分部, 2024年9月扩展拉美分销  ；官网 wiprolighting.com，无邮箱 / 电话 / WA；来源库标 ）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"reason": "留 C（规则判 X1-03，不检索）：Wipro Lighting 集团子公司 —— 巨头 / 上市 / 零售集团采购走招标 / 供应商门户，补路径无意义；不入池、不群发，只在客户主动找上门时再议"
 },
 "XC-C0605": {
 "verdict": "keep_C",
@@ -8901,12 +8923,18 @@
 "XC-C0789": {
 "verdict": "keep_C",
 "gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（UK最大零售商 (2,932门店)  ；官网 tesco.com，无邮箱 / 电话 / WA；来源库标 ）→ 留 C 待巡检，补到邮箱再闸 2",
+"rule": "G1-giant",
 "date": "2026-10-29",
+"manual": true,
 "repo": "CCTV-PoE",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"tags": [
+"retail"
+],
+"g1_reason": "渠道型主体但路径未建（UK最大零售商 (2,932门店)  ；官网 tesco.com，无邮箱 / 电话 / WA；来源库标 ）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"reason": "留 C（规则判 X1-03，不检索）：Tesco 零售集团 —— 巨头 / 上市 / 零售集团采购走招标 / 供应商门户，补路径无意义；不入池、不群发，只在客户主动找上门时再议"
 },
 "XC-C0790": {
 "verdict": "keep_C",
@@ -14960,14 +14988,38 @@
 ]
 },
 "XC-C1431": {
-"verdict": "keep_C",
-"gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（A类 — 酒店/医疗ICT专业分销+集成,Convergence网络150家公司  ；无邮箱 / 电话 / WA；来源库标 ）→ 留 C 待巡检，补到邮箱再闸 2",
+"verdict": "pool",
+"gate": 3,
+"rule": "G3",
+"reason": "○ 酒店 / 医疗机构 TV / WiFi / IPTV 网络集成 25%：HOTEL CARE（Mauguio 34 总部 + Meyreuil 13；Groupe TB6 子公司，集团 2007 起；Nice / Lyon / Paris）官网部分坐实（SIREN 待补）；酒店 PoE 接入 → SmartByte 商用 PoE 对位；contact@hotel-care.fr",
 "date": "2026-10-29",
+"manual": true,
 "repo": "CCTV-PoE",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"facts": [
+{
+"what": "官网：HOTEL CARE · Meyreuil + Mauguio · contact@hotel-care.fr · TV / WiFi / IPTV 酒店与医疗",
+"url": "https://www.hotel-care.fr/",
+"date": "2026-10-29"
+},
+{
+"what": "A Propos：Groupe TB6 子公司（UBIC / HOTEL CARE / AVS）· 总部 Mauguio",
+"url": "https://hotel-care.fr/index.php/about-us/",
+"date": "2026-10-29"
+}
+],
+"g1_reason": "渠道型主体但路径未建（A类 — 酒店/医疗ICT专业分销+集成,Convergence网络150家公司  ；无邮箱 / 电话 / WA；来源库标 ）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"star": "○",
+"tags": [
+"hospitality",
+"reg_pending",
+"email_found"
+],
+"emails": [
+"contact@hotel-care.fr"
+]
 },
 "XC-C1432": {
 "verdict": "keep_C",
@@ -15146,14 +15198,38 @@
 "batch": "X1-auto"
 },
 "XC-C1449": {
-"verdict": "keep_C",
-"gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（B类 — 2014年起,100-199员工,Teltonika分销  ；无邮箱 / 电话 / WA；来源库标 ）→ 留 C 待巡检，补到邮箱再闸 2",
+"verdict": "pool",
+"gate": 3,
+"rule": "G3",
+"reason": "○ 工业 PC / Panel PC + Teltonika 分销 20%：EFCO Electronics GmbH（Deggendorf Ulrichsberger Str. 17/G1；来源库称 2014 起 100–199 人；官方网店）名录 + 网店部分坐实（HRB 待补）；工业网关 / 路由渠道 → STI 对位；主区 DE；sales@efcotec.de",
 "date": "2026-10-29",
+"manual": true,
 "repo": "CCTV-PoE",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"facts": [
+{
+"what": "Elektroniknet 供应商名录：EFCO Electronics GmbH · Deggendorf · sales@efcotec.de · shop.efcotec.de",
+"url": "https://www.elektroniknet.de/anbieterkompass/efco-electronics-gmbh.39234883/index.html",
+"date": "2026-10-29"
+},
+{
+"what": "官方网店：服务热线 +49-991-2009298-200 · sales@efcotec.de · Teltonika 产品在售",
+"url": "https://shop.efcotec.de/",
+"date": "2026-10-29"
+}
+],
+"g1_reason": "渠道型主体但路径未建（B类 — 2014年起,100-199员工,Teltonika分销  ；无邮箱 / 电话 / WA；来源库标 ）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"star": "○",
+"tags": [
+"industrial",
+"reg_pending",
+"email_found"
+],
+"emails": [
+"sales@efcotec.de"
+]
 },
 "XC-C1450": {
 "verdict": "pass_final",
@@ -15436,12 +15512,34 @@
 "XC-C1472": {
 "verdict": "keep_C",
 "gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（IT硬件批发商/出口商 A类IT批发/出口 ；官网 colioninternational.com，无邮箱 / 电话 / WA；来源库标 ）→ 留 C 待巡检，补到邮箱再闸 2",
+"rule": "G1",
+"reason": "留 C：Colion International Trading LLC（Deira；IT 硬件库存 / 批发 / 出口；DCG 会员，具名 Muhammed Anas anas@colioninternational.com）→ 非主区店铺型；邮箱已补 info@colioninternational.com，预付 100% 随群发",
 "date": "2026-10-29",
+"manual": true,
 "repo": "CCTV-PoE",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"facts": [
+{
+"what": "官网：Colion International Trading LLC · info@colioninternational.com · Deira 门店",
+"url": "https://www.colioninternational.com/",
+"date": "2026-10-29"
+},
+{
+"what": "DCG Dubai 会员名录：COLION INTERNATIONAL TRADING LLC · Muhammed Anas · anas@colioninternational.com",
+"url": "https://dcgdubai.com/dcg-members/",
+"date": "2026-10-29"
+}
+],
+"g1_reason": "渠道型主体但路径未建（IT硬件批发商/出口商 A类IT批发/出口 ；官网 colioninternational.com，无邮箱 / 电话 / WA；来源库标 ）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"tags": [
+"email_found",
+"prepay"
+],
+"emails": [
+"info@colioninternational.com"
+]
 },
 "XC-C1473": {
 "verdict": "pass_final",
@@ -15498,12 +15596,29 @@
 "XC-C1478": {
 "verdict": "keep_C",
 "gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（网络交换机分销商  ；官网 itworlduae.com，无邮箱 / 电话 / WA；来源库标 ）→ 留 C 待巡检，补到邮箱再闸 2",
+"rule": "G1",
+"reason": "留 C：ITWorld Trading LLC（Bur Dubai；电脑硬件 / CCTV / 网络批发小户）→ 非主区店铺型贸易商，宁缺毋滥；邮箱已补 info@itworlduae.com，预付 100% 随群发",
 "date": "2026-10-29",
+"manual": true,
 "repo": "CCTV-PoE",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"facts": [
+{
+"what": "官网 Contact：ITWorld Trading LLC · Dubai · info@itworlduae.com · +971 4553 8728",
+"url": "https://www.itworlduae.com/contact",
+"date": "2026-10-29"
+}
+],
+"g1_reason": "渠道型主体但路径未建（网络交换机分销商  ；官网 itworlduae.com，无邮箱 / 电话 / WA；来源库标 ）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"tags": [
+"email_found",
+"prepay"
+],
+"emails": [
+"info@itworlduae.com"
+]
 },
 "XC-C1479": {
 "verdict": "keep_C",
@@ -15610,12 +15725,29 @@
 "XC-C1490": {
 "verdict": "keep_C",
 "gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（网络交换机供应商/分销商  ；官网 switchlinkct.com，无邮箱 / 电话 / WA；来源库标 ）→ 留 C 待巡检，补到邮箱再闸 2",
+"rule": "G1",
+"reason": "留 C：Switch Link Computers Trading LLC（Bur Dubai Unit 103；Cisco 合作伙伴小户；官网 WA +971 50 804 6102）→ 非主区小型 Cisco 转售；邮箱已补 info@switchlinkdubai.com，预付 100% 随群发",
 "date": "2026-10-29",
+"manual": true,
 "repo": "CCTV-PoE",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"facts": [
+{
+"what": "官网 Contact：Switch Link Computers Trading LLC · info@switchlinkdubai.com · WA +971-50-8046102",
+"url": "https://switchlinkct.com/contact/",
+"date": "2026-10-29"
+}
+],
+"g1_reason": "渠道型主体但路径未建（网络交换机供应商/分销商  ；官网 switchlinkct.com，无邮箱 / 电话 / WA；来源库标 ）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"tags": [
+"email_found",
+"prepay"
+],
+"emails": [
+"info@switchlinkdubai.com"
+]
 },
 "XC-C1491": {
 "verdict": "pass_final",
@@ -16031,12 +16163,18 @@
 "XC-C1534": {
 "verdict": "keep_C",
 "gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（超市/电商  ；官网 carrefouruae.com，无邮箱 / 电话 / WA；来源库标 ）→ 留 C 待巡检，补到邮箱再闸 2",
+"rule": "G1-giant",
 "date": "2026-10-29",
+"manual": true,
 "repo": "CCTV-PoE",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"tags": [
+"retail"
+],
+"g1_reason": "渠道型主体但路径未建（超市/电商  ；官网 carrefouruae.com，无邮箱 / 电话 / WA；来源库标 ）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"reason": "留 C（规则判 X1-03，不检索）：Carrefour UAE（Majid Al Futtaim）零售集团 —— 巨头 / 上市 / 零售集团采购走招标 / 供应商门户，补路径无意义；不入池、不群发，只在客户主动找上门时再议"
 },
 "XC-C1535": {
 "verdict": "keep_C",
@@ -16092,12 +16230,34 @@
 "XC-C1540": {
 "verdict": "keep_C",
 "gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（IT批发供应商  ；官网 aldhahab.ae，无邮箱 / 电话 / WA；来源库标 ）→ 留 C 待巡检，补到邮箱再闸 2",
+"rule": "G1",
+"reason": "留 C：Al Dhahab Computer Trading L.L.C.（Deira Al Sabkha Rd Shop 4；B2B IT 硬件转口 GCC / 非洲 / CIS）→ 非主区店铺型转口商；邮箱已补 info@aldhahab.ae，预付 100% 随群发",
 "date": "2026-10-29",
+"manual": true,
 "repo": "CCTV-PoE",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"facts": [
+{
+"what": "官网 Contact：Al Dhahab Computer Trading LLC · Deira · info@aldhahab.ae · +971 4 335 8483",
+"url": "https://aldhahab.ae/contact",
+"date": "2026-10-29"
+},
+{
+"what": "Terms：法人 Al Dhahab Computer Trading L.L.C. · GCC / Africa / CIS 客户",
+"url": "https://aldhahab.ae/terms",
+"date": "2026-10-29"
+}
+],
+"g1_reason": "渠道型主体但路径未建（IT批发供应商  ；官网 aldhahab.ae，无邮箱 / 电话 / WA；来源库标 ）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"tags": [
+"email_found",
+"prepay"
+],
+"emails": [
+"info@aldhahab.ae"
+]
 },
 "XC-C1541": {
 "verdict": "pass_final",
@@ -16586,12 +16746,18 @@
 "XC-C1594": {
 "verdict": "keep_C",
 "gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（泛GCC最大全品类零售商  ；官网 luluretail.com，无邮箱 / 电话 / WA；来源库标 ）→ 留 C 待巡检，补到邮箱再闸 2",
+"rule": "G1-giant",
 "date": "2026-10-29",
+"manual": true,
 "repo": "CCTV-PoE",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"tags": [
+"retail"
+],
+"g1_reason": "渠道型主体但路径未建（泛GCC最大全品类零售商  ；官网 luluretail.com，无邮箱 / 电话 / WA；来源库标 ）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"reason": "留 C（规则判 X1-03，不检索）：Lulu Group 零售集团 —— 巨头 / 上市 / 零售集团采购走招标 / 供应商门户，补路径无意义；不入池、不群发，只在客户主动找上门时再议"
 },
 "XC-C1595": {
 "verdict": "pass_final",
@@ -17720,12 +17886,18 @@
 "XC-E042": {
 "verdict": "keep_C",
 "gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（分销商  ；无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源库已删）→ 留 C 待巡检，补到邮箱再闸 2",
+"rule": "G1-giant",
 "date": "2026-10-29",
+"manual": true,
 "repo": "Edgecore",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"tags": [
+"giant"
+],
+"g1_reason": "渠道型主体但路径未建（分销商  ；无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源库已删）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"reason": "留 C（规则判 X1-03，不检索）：ITOCHU 综合商社 —— 巨头 / 上市 / 零售集团采购走招标 / 供应商门户，补路径无意义；不入池、不群发，只在客户主动找上门时再议"
 },
 "XC-E043": {
 "verdict": "keep_C",
@@ -17920,7 +18092,7 @@
 "verdict": "pool_watch",
 "gate": 3,
 "rule": "G3",
-"reason": "☆ 存储 / 虚拟化 / 基础设施集成商 25%：Alyseo（Saint-Sébastien-sur-Loire；Nexenta 伙伴；Edgecore 经销商名录）官网部分坐实（SIREN 待补）；数据中心对位一般（存储为主）→ 观察档；contact@ / sales@alyseo.com",
+"reason": "☆ 存储 / 虚拟化 / 基础设施集成商 25%：Alyseo（Saint-Sébastien-sur-Loire；Nexenta 伙伴；Edgecore 经销商名录）官网部分坐实（SIREN 待补）；数据中心对位一般（存储为主）→ 观察档；contact@ / sales@alyseo.com｜补证 X1-02R（2026-10-29）：SIREN 451 371 884 坐实（SARL €9k）；ALYSEO SARL · 资本 €9,000 · 2004-12-23 RCS Nantes · NAF 6202A IT 咨询 · 经理 Sébastien Scuiereb · Aytré 分部；关联 ALYSEO BOS SAS（软件，2022）",
 "date": "2026-10-29",
 "manual": true,
 "repo": "Edgecore",
@@ -17936,6 +18108,16 @@
 "what": "Nexenta 合作伙伴页：Alyseo · sales@alyseo.com · 存储 / 虚拟化集成商",
 "url": "https://nexenta.com/country/france",
 "date": "2026-10-29"
+},
+{
+"what": "societe.com：ALYSEO · SIREN 451 371 884 · SARL · 6202A · Sebastien SCUIEREB",
+"url": "https://www.societe.com/societe/alyseo-451371884.html",
+"date": "2026-10-29"
+},
+{
+"what": "rubypayeur：资本 9 000 € · RCS Nantes 2004-12-23",
+"url": "https://rubypayeur.com/societe/alyseo-451371884",
+"date": "2026-10-29"
 }
 ],
 "g1_reason": "Alyseo（法国 SI / VAR）：仅电话无邮箱 → 路径未建，留 C 待巡检",
@@ -17943,13 +18125,14 @@
 "star": "☆",
 "tags": [
 "dc",
-"reg_pending",
 "email_found"
 ],
 "emails": [
 "contact@alyseo.com",
 "sales@alyseo.com"
-]
+],
+"reg": "SIREN 451 371 884；SIRET 451 371 884 00037；TVA FR29451371884",
+"recheck": "X1-02R"
 },
 "XC-E060": {
 "verdict": "pool",
@@ -18014,7 +18197,7 @@
 "verdict": "pool",
 "gate": 3,
 "rule": "G3",
-"reason": "○ SDN / 白牌交换机 + 定制服务器 25%：Xentech B.V.（Zaandam Vredeweg 46/D1；Pica8 / Cumulus / HFT；Edgecore 经销商）官网部分坐实（KvK 待补）；数据中心交换机对位（CENTEC 敲门砖）；小型 → ○；sales@xentech.nl",
+"reason": "○ SDN / 白牌交换机 + 定制服务器 25%：Xentech B.V.（Zaandam Vredeweg 46/D1；Pica8 / Cumulus / HFT；Edgecore 经销商）官网部分坐实（KvK 待补）；数据中心交换机对位（CENTEC 敲门砖）；小型 → ○；sales@xentech.nl｜补证 X1-02R（2026-10-29）：KvK 34242736 坐实；名录见「Opgeheven」字样 → 状态待核；Xentech B.V. · 名录另载 Rotterdam Strevelsweg 700 Unit 303-D24（官网 Zaandam Vredeweg 46/D1）；Drimble 页含「Opgeheven」字样疑为另一登记 → 状态待核",
 "date": "2026-10-29",
 "manual": true,
 "repo": "Edgecore",
@@ -18030,6 +18213,16 @@
 "what": "Contact 页：+31 85 002 0796 · sales@xentech.nl",
 "url": "http://www.xentech.nl/contacts",
 "date": "2026-10-29"
+},
+{
+"what": "Drimble：Xentech B.V. · KvK 34242736 · 2006-02-08 · 主营业所",
+"url": "https://drimble.nl/bedrijf/zaandam/15927288/xentech-bv.html",
+"date": "2026-10-29"
+},
+{
+"what": "Bedrijvenpagina：Xentech B.V. · Strevelsweg 700 Rotterdam · KvK 34242736",
+"url": "https://www.bedrijvenpagina.nl/Xentech_B.V./1101017/123b68f8/",
+"date": "2026-10-29"
 }
 ],
 "g1_reason": "Xentech B.V.（荷兰 SI / VAR）：仅电话无邮箱 → 路径未建，留 C 待巡检",
@@ -18037,12 +18230,14 @@
 "star": "○",
 "tags": [
 "dc",
-"reg_pending",
-"email_found"
+"email_found",
+"status_check"
 ],
 "emails": [
 "sales@xentech.nl"
-]
+],
+"reg": "KvK 34242736（2006-02-08，zetel Zaandam）",
+"recheck": "X1-02R"
 },
 "XC-E064": {
 "verdict": "keep_C",
@@ -18118,7 +18313,7 @@
 "verdict": "pool",
 "gate": 3,
 "rule": "G3",
-"reason": "○ 数据中心服务器 / 网络 / 存储方案 25%：Vesper Technologies Ltd.（Stockport SK4 3EJ；NVIDIA 北欧之星伙伴，HGX / DGX；11–50 人；MD Allan Kaye）官网部分坐实（Companies House 号待补）；Edgecore 经销商 → DC 交换机对位（CENTEC 敲门砖）；主区 GB；info@vespertec.com",
+"reason": "○ 数据中心服务器 / 网络 / 存储方案 25%：Vesper Technologies Ltd.（Stockport SK4 3EJ；NVIDIA 北欧之星伙伴，HGX / DGX；11–50 人；MD Allan Kaye）官网部分坐实（Companies House 号待补）；Edgecore 经销商 → DC 交换机对位（CENTEC 敲门砖）；主区 GB；info@vespertec.com｜补证 X1-02R（2026-10-29）：Companies House 08962068 + VAT 坐实；VESPER TECHNOLOGIES LIMITED · Unit 5 Rugby Park, Bletchley Road, Stockport SK4 3EJ · PSC Allan James Kaye · <50 人",
 "date": "2026-10-29",
 "manual": true,
 "repo": "Edgecore",
@@ -18134,6 +18329,16 @@
 "what": "Crunchbase：Vesper Technologies Ltd. · Stockport · 11–50 · info@vespertec.com",
 "url": "https://www.crunchbase.com/organization/vesper-b846",
 "date": "2026-10-29"
+},
+{
+"what": "Company Check：VESPER TECHNOLOGIES LIMITED · 08962068 · 2014-03-27 · SIC 46510",
+"url": "https://companycheck.co.uk/company/08962068/VESPER-TECHNOLOGIES-LIMITED",
+"date": "2026-10-29"
+},
+{
+"what": "Endole：VAT GB184142514 · <50 人 · PSC Allan James Kaye",
+"url": "https://open.endole.co.uk/insight/company/08962068-vesper-technologies-limited",
+"date": "2026-10-29"
 }
 ],
 "g1_reason": "Vesper Technologies（英国 SI / VAR）：来源库终局已删、仅电话 → 路径未建，留 C 待巡检",
@@ -18141,12 +18346,13 @@
 "star": "○",
 "tags": [
 "dc",
-"reg_pending",
 "email_found"
 ],
 "emails": [
 "info@vespertec.com"
-]
+],
+"reg": "Companies House 08962068（2014-03-27）；VAT GB184142514；SIC 46510",
+"recheck": "X1-02R"
 },
 "XC-E069": {
 "verdict": "keep_C",
@@ -18161,12 +18367,18 @@
 "XC-E070": {
 "verdict": "keep_C",
 "gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（分销商  ；官网 asipartner.com，无邮箱 / 电话 / WA；来源库标 域名待核、无可用邮箱、来源库已删、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"rule": "G1-giant",
 "date": "2026-10-29",
+"manual": true,
 "repo": "Edgecore",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"tags": [
+"giant"
+],
+"g1_reason": "渠道型主体但路径未建（分销商  ；官网 asipartner.com，无邮箱 / 电话 / WA；来源库标 域名待核、无可用邮箱、来源库已删、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"reason": "留 C（规则判 X1-03，不检索）：ASI Corp.（asipartner.com）美国大型 IT 元件 / 系统分销 —— 巨头 / 上市 / 零售集团采购走招标 / 供应商门户，补路径无意义；不入池、不群发，只在客户主动找上门时再议"
 },
 "XC-E071": {
 "verdict": "keep_C",
@@ -18223,12 +18435,22 @@
 "XC-E075": {
 "verdict": "keep_C",
 "gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（SI·VAR·经销商  ；无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源库已删、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"rule": "G1",
+"reason": "留 C：Tuangru（Vancouver；已转型 Hyperview DCIM 软件；CTO Rami Jebara）公开页无直接邮箱 → 路径仍未建，且软件转型对位弱，一次检索即止",
 "date": "2026-10-29",
+"manual": true,
 "repo": "Edgecore",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"facts": [
+{
+"what": "ZoomInfo：Tuangru · 590 Mainland Vancouver · CTO Rami Jebara · hyperviewhq.com 邮箱域",
+"url": "https://www.zoominfo.com/p/Rami-Jebara/10161027900",
+"date": "2026-10-29"
+}
+],
+"g1_reason": "渠道型主体但路径未建（SI·VAR·经销商  ；无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源库已删、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto"
 },
 "XC-E076": {
 "verdict": "keep_C",
@@ -18295,22 +18517,34 @@
 "XC-E081": {
 "verdict": "keep_C",
 "gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（SI·VAR·经销商  ；官网 eplus.com，无邮箱 / 电话 / WA；来源库标 域名待核、无可用邮箱、来源库已删、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"rule": "G1-giant",
 "date": "2026-10-29",
+"manual": true,
 "repo": "Edgecore",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"tags": [
+"giant"
+],
+"g1_reason": "渠道型主体但路径未建（SI·VAR·经销商  ；官网 eplus.com，无邮箱 / 电话 / WA；来源库标 域名待核、无可用邮箱、来源库已删、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"reason": "留 C（规则判 X1-03，不检索）：ePlus inc. 美国上市 IT 方案商 —— 巨头 / 上市 / 零售集团采购走招标 / 供应商门户，补路径无意义；不入池、不群发，只在客户主动找上门时再议"
 },
 "XC-E082": {
 "verdict": "keep_C",
 "gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（SI·VAR·经销商  ；官网 gdt.com，无邮箱 / 电话 / WA；来源库标 域名待核、无可用邮箱、来源库已删、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"rule": "G1-giant",
 "date": "2026-10-29",
+"manual": true,
 "repo": "Edgecore",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"tags": [
+"giant"
+],
+"g1_reason": "渠道型主体但路径未建（SI·VAR·经销商  ；官网 gdt.com，无邮箱 / 电话 / WA；来源库标 域名待核、无可用邮箱、来源库已删、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"reason": "留 C（规则判 X1-03，不检索）：GDT（General Datatech）美国大型集成商 —— 巨头 / 上市 / 零售集团采购走招标 / 供应商门户，补路径无意义；不入池、不群发，只在客户主动找上门时再议"
 },
 "XC-E083": {
 "verdict": "keep_C",
@@ -18336,24 +18570,49 @@
 "batch": "X1-auto"
 },
 "XC-E085": {
-"verdict": "keep_C",
-"gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（SI·VAR·经销商  ；无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源库已删、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"verdict": "pool",
+"gate": 3,
+"rule": "G3",
+"reason": "○ 机架集成 / 数据中心服务器与存储 25%：Racklive = ASA Computers, Inc. 数据中心事业部（Fremont CA 48761 Kato Rd；2011 起；ISO 9001:2015；全球部署）官网部分坐实（法人 ASA Computers 州注册号待补）；数据中心交换机对位（CENTEC 敲门砖 + SmartByte 万兆）；主区 US；sales@racklive.com",
 "date": "2026-10-29",
+"manual": true,
 "repo": "Edgecore",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"facts": [
+{
+"what": "官网 Contact：Racklive · Fremont CA · sales@racklive.com · ASA Computers 数据中心事业部 2011 起",
+"url": "https://www.racklive.com/contact.php",
+"date": "2026-10-29"
+}
+],
+"g1_reason": "渠道型主体但路径未建（SI·VAR·经销商  ；无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源库已删、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"star": "○",
+"tags": [
+"dc",
+"reg_pending",
+"email_found"
+],
+"emails": [
+"sales@racklive.com"
+]
 },
 "XC-E086": {
 "verdict": "keep_C",
 "gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（SI·VAR·经销商  ；官网 shi.com，无邮箱 / 电话 / WA；来源库标 域名待核、无可用邮箱、来源库已删、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"rule": "G1-giant",
 "date": "2026-10-29",
+"manual": true,
 "repo": "Edgecore",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"tags": [
+"giant"
+],
+"g1_reason": "渠道型主体但路径未建（SI·VAR·经销商  ；官网 shi.com，无邮箱 / 电话 / WA；来源库标 域名待核、无可用邮箱、来源库已删、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"reason": "留 C（规则判 X1-03，不检索）：SHI International 美国 IT 大分销 / 方案商 —— 巨头 / 上市 / 零售集团采购走招标 / 供应商门户，补路径无意义；不入池、不群发，只在客户主动找上门时再议"
 },
 "XC-E087": {
 "verdict": "keep_C",
@@ -19332,10 +19591,10 @@
 "batch": "X1-01"
 },
 "XC-M072": {
-"verdict": "pool",
+"verdict": "pool_watch",
 "gate": 3,
 "rule": "G3",
-"reason": "○ 工业自动化方案 + 自产无线 / 网关 / 接口转换器 20–30%：КОМИКОН ООД（Sofia；802.15.4 / EnOcean / LoRa 自有品牌；HMS / Red Lion 渠道；联系人 Живка Колева）官网部分坐实（ЕИК 待补）；自有品牌 → OEM 线；comicon@comicon.bg",
+"reason": "○ 工业自动化方案 + 自产无线 / 网关 / 接口转换器 20–30%：КОМИКОН ООД（Sofia；802.15.4 / EnOcean / LoRa 自有品牌；HMS / Red Lion 渠道；联系人 Живка Колева）官网部分坐实（ЕИК 待补）；自有品牌 → OEM 线；comicon@comicon.bg｜补证 X1-02R（2026-10-29）：ЕИК 131340703 坐实但 2021 营业额 357k лв / 资本 €2,556 → 微型 → ○ 转 ☆ 观察档；КОМИКОН ООД · София, Младост 4, ул. Александър Паскалев · 管理人 Александър Савов · 资本 €2,556 · 2021 营业额 357k лв（≈€182k）→ 微型 → 转观察档",
 "date": "2026-10-29",
 "manual": true,
 "repo": "mikrotik-info",
@@ -19351,26 +19610,38 @@
 "what": "BTCatalogue：Комикон · 工业 / 楼宇自动化 · 自产无线通信设备与接口转换器",
 "url": "http://btcatalogue.bg/katalog-firmi.aspx?comp=69&city=%D0%A1%D0%BE%D1%84%D0%B8%D1%8F&n=%D0%9A%D0%BE%D0%BC%D0%B8%D0%BA%D0%BE%D0%BD",
 "date": "2026-10-29"
+},
+{
+"what": "finansi.bg：КОМИКОН ООД · ЕИК 131340703 · 2004 · 管理人 Александър Савов · КИД 2651 仪器制造",
+"url": "https://finansi.bg/komikon",
+"date": "2026-10-29"
+},
+{
+"what": "papagal.bg：2021 营业额 357 000 лв · 资本 2 556 €",
+"url": "https://papagal.bg/eik/131340703/ca11",
+"date": "2026-10-29"
 }
 ],
 "g1_reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 comicon.bg，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
 "g1_batch": "X1-auto",
-"star": "○",
+"star": "☆",
 "tags": [
 "industrial",
 "oem_target",
-"reg_pending",
-"email_found"
+"email_found",
+"micro"
 ],
 "emails": [
 "comicon@comicon.bg"
-]
+],
+"reg": "ЕИК 131340703（2004-12-03）；ДДС BG131340703",
+"recheck": "X1-02R"
 },
 "XC-M073": {
 "verdict": "pool",
 "gate": 3,
 "rule": "G3",
-"reason": "○ 德系电气 / 自动化产品进口分销 20%：Ритбул ЕООД（Sofia + Plovdiv 展厅；Druseidt 等；Westermo Reseller；所有人 Мария Божкова）官网部分坐实（ЕИК 待补）；office@rittbul.bg",
+"reason": "○ 德系电气 / 自动化产品进口分销 20%：Ритбул ЕООД（Sofia + Plovdiv 展厅；Druseidt 等；Westermo Reseller；所有人 Мария Божкова）官网部分坐实（ЕИК 待补）；office@rittbul.bg｜补证 X1-02R（2026-10-29）：ЕИК 130521622 坐实（2020 营业额 €2.62M；21–27 人）；РИТБУЛ ЕООД · София 1407, Лозенец, ул. Ст. Л. Костов 16 · 2020 营业额 €2.62M · 21–27 人 · 管理人 Мария Божкова · 所有人 Юлиан Божков · 30+ 品牌授权进口",
 "date": "2026-10-29",
 "manual": true,
 "repo": "mikrotik-info",
@@ -19386,6 +19657,16 @@
 "what": "shop.rittbul.bg 联系页：e-shop@rittbul.bg · +359 895 586 285",
 "url": "https://shop.rittbul.bg/pages/%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B8",
 "date": "2026-10-29"
+},
+{
+"what": "papagal.bg：РИТБУЛ ЕООД · ЕИК 130521622 · 2020 营业额 2 620 882 € · 21 人",
+"url": "https://papagal.bg/eik/130521622/9534",
+"date": "2026-10-29"
+},
+{
+"what": "官网隐私政策：РИТБУЛ ЕООД · ЕИК 130521622 · ул. Ст.Л.Костов 16 · 2001 起 · 30+ 品牌",
+"url": "https://old.rittbul.bg/privacy-policy/",
+"date": "2026-10-29"
 }
 ],
 "g1_reason": "渠道型主体但路径未建（分销（Westermo Reseller）  B下放·无邮箱（群发触达不到）；官网 rittbul.bg，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
@@ -19393,13 +19674,14 @@
 "star": "○",
 "tags": [
 "industrial",
-"reg_pending",
 "email_found"
 ],
 "emails": [
 "office@rittbul.bg",
 "e-shop@rittbul.bg"
-]
+],
+"reg": "ЕИК 130521622（2001-04-18）；ДДС BG130521622",
+"recheck": "X1-02R"
 },
 "XC-M074": {
 "verdict": "keep_C",
@@ -19494,12 +19776,18 @@
 "XC-M081": {
 "verdict": "keep_C",
 "gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（分销（Advantech 授权）  B下放·无邮箱（群发触达不到）；官网 proax.ca，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"rule": "G1-giant",
 "date": "2026-10-29",
+"manual": true,
 "repo": "mikrotik-info",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"tags": [
+"giant"
+],
+"g1_reason": "渠道型主体但路径未建（分销（Advantech 授权）  B下放·无邮箱（群发触达不到）；官网 proax.ca，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"reason": "留 C（规则判 X1-03，不检索）：Proax Technologies 加拿大大型自动化分销 —— 巨头 / 上市 / 零售集团采购走招标 / 供应商门户，补路径无意义；不入池、不群发，只在客户主动找上门时再议"
 },
 "XC-M082": {
 "verdict": "pool",
@@ -19532,7 +19820,7 @@
 "verdict": "pool_watch",
 "gate": 3,
 "rule": "G3",
-"reason": "☆ 自动化方案 / 计算机设备分销 20%：Aspect（Skopje Orce Nikolov 190/3-1；20–49 人 / $1–5M）官网 + ZoomInfo 部分坐实（法人全名 / ЕМБС 待补）；Westermo Reseller；非 EU → 预付 100%；观察档；office@aspect.com.mk",
+"reason": "☆ 自动化方案 / 计算机设备分销 20%：Aspect（Skopje Orce Nikolov 190/3-1；20–49 人 / $1–5M）官网 + ZoomInfo 部分坐实（法人全名 / ЕМБС 待补）；Westermo Reseller；非 EU → 预付 100%；观察档；office@aspect.com.mk｜补证 X1-02R（2026-10-29）：同名 АСПЕКТ ДОО（软件）排除；ЕМБС 仍待补；同名排除：АСПЕКТ ДОО Скопје（ЕМБС 4390237，aspekt.com.mk，软件 / 计算机工程，11-ти Октомври 25）≠ 本户 aspect.com.mk（Orce Nikolov 190/3-1，自动化方案）→ 不强判，reg_pending 留",
 "date": "2026-10-29",
 "manual": true,
 "repo": "mikrotik-info",
@@ -19548,6 +19836,11 @@
 "what": "ZoomInfo：Aspect · Skopje · 20–49 人 · $1–5M",
 "url": "https://www.zoominfo.com/c/aspect/459879493",
 "date": "2026-10-29"
+},
+{
+"what": "CompanyWall MK：АСПЕКТ ДОО Скопје · ЕМБС 4390237 · info@aspekt.com.mk（同名非本户）",
+"url": "https://www.companywall.com.mk/kompanija/%D0%B0%D1%81%D0%BF%D0%B5%D0%BA%D1%82-%D0%B4%D0%BE%D0%BE-%D1%81%D0%BA%D0%BE%D0%BF%D1%98%D0%B5/MMAY9YT0",
+"date": "2026-10-29"
 }
 ],
 "g1_reason": "渠道型主体但路径未建（分销（Westermo Reseller）  B下放·无邮箱（群发触达不到）；官网 aspect.com.mk，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
@@ -19561,7 +19854,8 @@
 ],
 "emails": [
 "office@aspect.com.mk"
-]
+],
+"recheck": "X1-02R"
 },
 "XC-M084": {
 "verdict": "keep_C",
@@ -19615,7 +19909,7 @@
 "verdict": "pool_watch",
 "gate": 3,
 "rule": "G3",
-"reason": "☆ 网络 / 自动化 / 保护系统分销 + 技术支持 20%：Χ. Β. Τσακαρέλος & ΣΙΑ Ε.Ε.（GR + CY；Westermo Reseller；R. STAHL 名录）官网部分坐实（ΓΕΜΗ 待补）；合伙微型 → 观察档；info@netap.gr",
+"reason": "☆ 网络 / 自动化 / 保护系统分销 + 技术支持 20%：Χ. Β. Τσακαρέλος & ΣΙΑ Ε.Ε.（GR + CY；Westermo Reseller；R. STAHL 名录）官网部分坐实（ΓΕΜΗ 待补）；合伙微型 → 观察档；info@netap.gr｜补证 X1-02R（2026-10-29）：ΓΕΜΗ 一次检索未中，仍待补；官网 Επικοινωνία 页仅载 Χ. Β. ΤΣΑΚΑΡΕΛΟΣ & ΣΙΑ Ε.Ε. · Σελεύκου 6；ΓΕΜΗ 一次检索未中 → reg_pending 留",
 "date": "2026-10-29",
 "manual": true,
 "repo": "mikrotik-info",
@@ -19631,6 +19925,11 @@
 "what": "R. STAHL 分销名录：NetAP - C.V. TSAKARELOS AND CO L.P. · info@netap.gr",
 "url": "https://r-stahl.com/de/global/home/?tx_locationsearch_locations%5Baction%5D=ajaxGetLocationsForCountry&tx_locationsearch_locations%5Bcontroller%5D=Location&tx_locationsearch_locations%5Bcountry_uid%5D=23&type=9999&cHash=519a49f4938ffa15858a95f886cc5f52",
 "date": "2026-10-29"
+},
+{
+"what": "官网：NetAP - C. V. TSAKARELOS & CO. L.P. · Σελεύκου 6",
+"url": "https://www.netap.gr/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%B9%CE%B1",
+"date": "2026-10-29"
 }
 ],
 "g1_reason": "渠道型主体但路径未建（分销（Westermo Reseller）  B下放·无邮箱（群发触达不到）；官网 netap.gr，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
@@ -19645,7 +19944,8 @@
 "emails": [
 "info@netap.gr",
 "support@netap.gr"
-]
+],
+"recheck": "X1-02R"
 },
 "XC-M088": {
 "verdict": "keep_C",
@@ -19846,14 +20146,38 @@
 ]
 },
 "XC-M096": {
-"verdict": "keep_C",
-"gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（分销（Moxa 授权）  B下放·无邮箱（群发触达不到）；官网 jampel.it，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"verdict": "pool",
+"gate": 3,
+"rule": "G3",
+"reason": "○ 嵌入式 PC / 工业通信分销 20%：JAMPEL S.r.l.（Bologna Via degli Stradelli Guelfi 86/A；ICP DAS 官方分销 + Moxa 授权）官方名录部分坐实（P.IVA 待补）；STI 工业对位；info@jampel.it",
 "date": "2026-10-29",
+"manual": true,
 "repo": "mikrotik-info",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"facts": [
+{
+"what": "ICP DAS 官方分销名录：JAMPEL s.r.l. · Bologna · info@jampel.it",
+"url": "https://www.icpdas.com/distributors/country/jampel.htm",
+"date": "2026-10-29"
+},
+{
+"what": "CTI Electronics 联系页：JAMPEL S.r.l. · Via Degli Stradelli Guelfi 86/A · +39 051 452042",
+"url": "https://www.ctielectronics.com/Assets/contactJampel.php",
+"date": "2026-10-29"
+}
+],
+"g1_reason": "渠道型主体但路径未建（分销（Moxa 授权）  B下放·无邮箱（群发触达不到）；官网 jampel.it，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"star": "○",
+"tags": [
+"industrial",
+"reg_pending",
+"email_found"
+],
+"emails": [
+"info@jampel.it"
+]
 },
 "XC-M097": {
 "verdict": "pool_watch",
@@ -19908,7 +20232,7 @@
 "verdict": "pool",
 "gate": 3,
 "rule": "G3",
-"reason": "○ 电子 / 电气设备增值分销 20%：Adeptor AS（Bergen；20 年；HMS Red Lion / N-Tron 渠道；官网具名部门负责人 elen.arnoy@ / leah.foseid@ / elias.storaas@）官网部分坐实（Org.nr 待补）；sales@adeptor.no",
+"reason": "○ 电子 / 电气设备增值分销 20%：Adeptor AS（Bergen；20 年；HMS Red Lion / N-Tron 渠道；官网具名部门负责人 elen.arnoy@ / leah.foseid@ / elias.storaas@）官网部分坐实（Org.nr 待补）；sales@adeptor.no｜补证 X1-02R（2026-10-29）：Org.nr 997 293 851 坐实（22 人；2025 PBT 13.5M NOK）；ADEPTOR AS · Kanalveien 62, 5068 Bergen · 22 人 · NACE 46.500 ICT 设备批发 · 日常经理 Dag Ivar Roald · 2025 税前利润 13.5M NOK",
 "date": "2026-10-29",
 "manual": true,
 "repo": "mikrotik-info",
@@ -19924,6 +20248,11 @@
 "what": "Eliaden 展商页：Adeptor AS · 20 年增值分销 · Kanalveien 62 Bergen",
 "url": "https://eliaden.no/utstillere/adeptor-as/",
 "date": "2026-10-29"
+},
+{
+"what": "Proff：ADEPTOR AS · Org nr 997 293 851 · 2011 · 22 人 · Kanalveien 62 Bergen · DL Dag Ivar Roald",
+"url": "https://www.proff.no/selskap/adeptor-as/bergen/elektronikk-og-telekommunikasjonsutstyr-engros/IGHRGUZ10MZ",
+"date": "2026-10-29"
 }
 ],
 "g1_reason": "渠道型主体但路径未建（分销（HMS：Red Lion / N-Tron）  B下放·无邮箱（群发触达不到）；官网 adeptor.no，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
@@ -19931,18 +20260,19 @@
 "star": "○",
 "tags": [
 "industrial",
-"reg_pending",
 "email_found"
 ],
 "emails": [
 "sales@adeptor.no"
-]
+],
+"reg": "Org.nr 997 293 851（2011-09-02）",
+"recheck": "X1-02R"
 },
 "XC-M101": {
 "verdict": "pool",
 "gate": 3,
 "rule": "G3",
-"reason": "○ 自动化 / 工业 IT + 工业通信方案供应 20%：Autic System AS（Tønsberg；NO / SE / DK 站点；HMS Red Lion / N-Tron 渠道）官网部分坐实（Org.nr 待补）；post@ / support@autic.no",
+"reason": "○ 自动化 / 工业 IT + 工业通信方案供应 20%：Autic System AS（Tønsberg；NO / SE / DK 站点；HMS Red Lion / N-Tron 渠道）官网部分坐实（Org.nr 待补）；post@ / support@autic.no｜补证 X1-02R（2026-10-29）：Org.nr 968 614 150 坐实（13 人；2025 营收 80M NOK）；AUTIC SYSTEM AS · Træleborgveien 2, 3112 Tønsberg · 13 人 · 2025 营收 80.0M NOK · 母公司 Autic Invest AS · 日常经理 Pål Andersen",
 "date": "2026-10-29",
 "manual": true,
 "repo": "mikrotik-info",
@@ -19958,6 +20288,16 @@
 "what": "支持站：support@autic.no · +47 33 30 09 50",
 "url": "https://support.autic.no/hc/no/articles/115001422653-Kontakt-oss",
 "date": "2026-10-29"
+},
+{
+"what": "Proff：AUTIC SYSTEM AS · Org nr 968 614 150 · 13 人 · Tønsberg · 母公司 Autic Invest AS",
+"url": "https://www.proff.no/selskap/autic-system-as/t%C3%B8nsberg/elektronikk-og-telekommunikasjonsutstyr-engros/IG0ORGM10MZ",
+"date": "2026-10-29"
+},
+{
+"what": "Proff 搜索：2025 营收 80 005 kNOK · DL Pål Andersen",
+"url": "https://www.proff.no/s%C3%B8k-etter-firmanavn?q=Systue&nspage=10",
+"date": "2026-10-29"
 }
 ],
 "g1_reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 autic.no，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
@@ -19965,13 +20305,14 @@
 "star": "○",
 "tags": [
 "industrial",
-"reg_pending",
 "email_found"
 ],
 "emails": [
 "post@autic.no",
 "support@autic.no"
-]
+],
+"reg": "Org.nr 968 614 150（1995 登记；1994-01-03 成立）",
+"recheck": "X1-02R"
 },
 "XC-M102": {
 "verdict": "pool",
@@ -20075,12 +20416,18 @@
 "XC-M107": {
 "verdict": "keep_C",
 "gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（零售/电商  B下放·无邮箱（群发触达不到）；官网 tsbohemia.cz，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"rule": "G1-giant",
 "date": "2026-10-29",
+"manual": true,
 "repo": "mikrotik-info",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"tags": [
+"retail"
+],
+"g1_reason": "渠道型主体但路径未建（零售/电商  B下放·无邮箱（群发触达不到）；官网 tsbohemia.cz，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"reason": "留 C（规则判 X1-03，不检索）：T.S.Bohemia a.s. 捷克 IT 零售连锁 —— 巨头 / 上市 / 零售集团采购走招标 / 供应商门户，补路径无意义；不入池、不群发，只在客户主动找上门时再议"
 },
 "XC-M108": {
 "verdict": "keep_C",
@@ -20271,7 +20618,7 @@
 "verdict": "pool_watch",
 "gate": 3,
 "rule": "G3",
-"reason": "☆ 工业 / 交通 / 数据中心网络方案分销 20%：QL3D（Bazainville 78；HW group 法国独家；HMS Red Lion / N-Tron；联系人 Ludovic Debôves）名录部分坐实（SIREN 待补）；小型 → 观察档；info@ql3d.fr",
+"reason": "☆ 工业 / 交通 / 数据中心网络方案分销 20%：QL3D（Bazainville 78；HW group 法国独家；HMS Red Lion / N-Tron；联系人 Ludovic Debôves）名录部分坐实（SIREN 待补）；小型 → 观察档；info@ql3d.fr｜补证 X1-02R（2026-10-29）：SIREN 429 607 740 坐实（SARL €120k；3–5 人）；QL3D SARL · 资本 €120,000 · 2000-02-21 起（RCS Versailles 2007）· NAF 4652Z 电子与电信设备批发 · 3–5 人 · 经理 Ludovic Deboves",
 "date": "2026-10-29",
 "manual": true,
 "repo": "mikrotik-info",
@@ -20287,6 +20634,16 @@
 "what": "DCmag 名录：QL3D · info@ql3d.fr · 01 34 91 90 20",
 "url": "https://annuaire.dcmag.fr/directory/ql3d/",
 "date": "2026-10-29"
+},
+{
+"what": "societe.com：QL3D · SIREN 429 607 740 · SARL €120,000 · 4652Z · Ludovic DEBOVES",
+"url": "https://www.societe.com/societe/ql3d-429607740.html",
+"date": "2026-10-29"
+},
+{
+"what": "manageo：3–5 人 · RCS Versailles 2007B00575",
+"url": "https://www.manageo.fr/entreprises/429607740.html",
+"date": "2026-10-29"
 }
 ],
 "g1_reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 ql3d.fr，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
@@ -20294,12 +20651,13 @@
 "star": "☆",
 "tags": [
 "industrial",
-"reg_pending",
 "email_found"
 ],
 "emails": [
 "info@ql3d.fr"
-]
+],
+"reg": "SIREN 429 607 740；SIRET 429 607 740 00041；TVA FR43429607740",
+"recheck": "X1-02R"
 },
 "XC-M117": {
 "verdict": "pool",
@@ -20506,7 +20864,7 @@
 "verdict": "pool",
 "gate": 3,
 "rule": "G3",
-"reason": "○ 工业通信分销 20%：DataLink Communications Ltd（Loughrea Co. Galway；ORing 授权；emacsys 分销名录；11–50 人；覆盖 IE / UK）名录 + 官网部分坐实（CRO 号待补）；sales@datalinkcom.net",
+"reason": "○ 工业通信分销 20%：DataLink Communications Ltd（Loughrea Co. Galway；ORing 授权；emacsys 分销名录；11–50 人；覆盖 IE / UK）名录 + 官网部分坐实（CRO 号待补）；sales@datalinkcom.net｜补证 X1-02R（2026-10-29）：法人名修正 D.L.C. DataLink Communications Ltd；CRO 号仍待补；法人名修正：D.L.C. DataLink Communications Ltd · Cloghaun, Kilchreest, Loughrea H62 F985 · (091) 840838 · sales@datalinkcom.net；CRO 号一次检索未中 → reg_pending 留",
 "date": "2026-10-29",
 "manual": true,
 "repo": "mikrotik-info",
@@ -20522,6 +20880,11 @@
 "what": "LeadIQ：Datalink Communications · 11–50 人",
 "url": "https://leadiq.com/c/datalink-communications/5a1da7f723000054009baae5",
 "date": "2026-10-29"
+},
+{
+"what": "Golden Pages：D.L.C. DataLink Communications Ltd · Loughrea H62 F985 · Industrial Networking Supplies",
+"url": "https://www.goldenpages.ie/dlc-datalink-communications-ltd-loughrea-H62/",
+"date": "2026-10-29"
 }
 ],
 "g1_reason": "渠道型主体但路径未建（分销（ORing 授权）  B下放·无邮箱（群发触达不到）；官网 datalinkcom.net，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
@@ -20534,7 +20897,8 @@
 ],
 "emails": [
 "sales@datalinkcom.net"
-]
+],
+"recheck": "X1-02R"
 },
 "XC-M125": {
 "verdict": "pool",
@@ -20570,14 +20934,39 @@
 ]
 },
 "XC-M126": {
-"verdict": "keep_C",
-"gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（分销（MikroTik 官方）  B下放·无邮箱（群发触达不到）；官网 shop.evolvit.se，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"verdict": "pool",
+"gate": 3,
+"rule": "G3",
+"reason": "○ IT 服务 / 系统集成 + 电信 25%：evolvit Solutions AB（Skövde Gesällgatan 1；51–100 人；MikroTik 官方分销名录）RIPE 会员页 + Crunchbase 部分坐实（org.nr 待补）；MikroTik 渠道 → SmartByte 管理型 + STI 对位；info@ / kontakt@evolvit.se",
 "date": "2026-10-29",
+"manual": true,
 "repo": "mikrotik-info",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"facts": [
+{
+"what": "RIPE 会员页：evolvit Solutions AB · Gesallgatan 1 Skövde · kontakt@evolvit.se",
+"url": "https://www.ripe.net/membership/indices/data/se.telefackhandeln.html",
+"date": "2026-10-29"
+},
+{
+"what": "Crunchbase：evolvit Solutions · 51–100 · 又名 Dialect Skövde · info@evolvit.se",
+"url": "https://www.crunchbase.com/organization/evolvit-solutions",
+"date": "2026-10-29"
+}
+],
+"g1_reason": "渠道型主体但路径未建（分销（MikroTik 官方）  B下放·无邮箱（群发触达不到）；官网 shop.evolvit.se，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"star": "○",
+"tags": [
+"isp_channel",
+"reg_pending",
+"email_found"
+],
+"emails": [
+"info@evolvit.se",
+"kontakt@evolvit.se"
+]
 },
 "XC-M127": {
 "verdict": "pool",
@@ -20743,7 +21132,7 @@
 "verdict": "pool",
 "gate": 3,
 "rule": "G3",
-"reason": "○ IP 技术 / 工业网络专业分销 20%：ABP Technology（Dallas TX；PLANET 美国授权分销，在售 PLANET 工业以太网全系）官网部分坐实（州注册号待补）；主区 US；sales@ / partners@abptech.com",
+"reason": "○ IP 技术 / 工业网络专业分销 20%：ABP Technology（Dallas TX；PLANET 美国授权分销，在售 PLANET 工业以太网全系）官网部分坐实（州注册号待补）；主区 US；sales@ / partners@abptech.com｜补证 X1-02R（2026-10-29）：体量 75–80 人 / $5.5M 坐实；TX SOS 号仍待补（补到即 ★）；体量补证：ABP Technology · 13988 Diplomat Drive Suite 180, Dallas TX 75234 · 2001 起 · 75–80 人 / 营收 $5.5M · CEO Robert Messer · CTO Henry Castillo（LeadIQ / Adapt / Zippia）；TX SOS 号一次检索未中 → reg_pending 留；体量够 ★，补到注册号即升",
 "date": "2026-10-29",
 "manual": true,
 "repo": "mikrotik-info",
@@ -20759,6 +21148,16 @@
 "what": "Partner Store About：specialty distributor of IP Technology · sales@abptech.com",
 "url": "https://partnerstore.abptech.com/about-us",
 "date": "2026-10-29"
+},
+{
+"what": "LeadIQ：ABP Technology · Dallas · 2001 · 75 人 · IP 电话 / 监控 / 视频 / 基础设施专业分销",
+"url": "https://leadiq.com/c/abp-technology/5a1d902d5400005b0075cbe2/employee-directory",
+"date": "2026-10-29"
+},
+{
+"what": "Adapt.io：CEO Robert Messer · CTO Henry Castillo · 25–100 人 · $1–10M",
+"url": "https://www.adapt.io/company/abp-technology-1",
+"date": "2026-10-29"
 }
 ],
 "g1_reason": "渠道型主体但路径未建（分销（PLANET 授权）  B下放·无邮箱（群发触达不到）；官网 abptech.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱）→ 留 C 待巡检，补到邮箱再闸 2",
@@ -20773,17 +21172,42 @@
 "sales@abptech.com",
 "info@abptech.com",
 "partners@abptech.com"
-]
+],
+"recheck": "X1-02R"
 },
 "XC-M133": {
-"verdict": "keep_C",
-"gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 adconengineering.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"verdict": "pool_watch",
+"gate": 3,
+"rule": "G3",
+"reason": "☆ 工业元件 / 传感 / 视觉 / 机柜分销 20%：Adcon Engineering Co., Inc.（Strongsville OH 20102 Progress Dr；线卡含 EtherDevice DIN 导轨非管理交换机）官网 + NDT 名录部分坐实（OH SOS 号待补）；主区 US 但体量未知、官网陈旧 → 观察档；sales@adconengineering.com",
 "date": "2026-10-29",
+"manual": true,
 "repo": "mikrotik-info",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"facts": [
+{
+"what": "官网产品页：Adcon Engineering · sales@adconengineering.com · 440.238.3915",
+"url": "https://www.adconengineering.com/vp_banner_p4_edge.htm",
+"date": "2026-10-29"
+},
+{
+"what": "NDT.org 名录：Adcon Engineering Co., Inc. · 20102 Progress Dr · 线卡含 EtherDevice 5/8 口工业非管理交换机",
+"url": "https://www.ndt.org/vendor.asp?ObjectID=39255",
+"date": "2026-10-29"
+}
+],
+"g1_reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 adconengineering.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"star": "☆",
+"tags": [
+"industrial",
+"reg_pending",
+"email_found"
+],
+"emails": [
+"sales@adconengineering.com"
+]
 },
 "XC-M134": {
 "verdict": "pass_final",
@@ -20807,22 +21231,49 @@
 "XC-M136": {
 "verdict": "keep_C",
 "gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（分销（PLANET 授权）  B下放·无邮箱（群发触达不到）；官网 blackbox.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱）→ 留 C 待巡检，补到邮箱再闸 2",
+"rule": "G1-giant",
 "date": "2026-10-29",
+"manual": true,
 "repo": "mikrotik-info",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"tags": [
+"giant"
+],
+"g1_reason": "渠道型主体但路径未建（分销（PLANET 授权）  B下放·无邮箱（群发触达不到）；官网 blackbox.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"reason": "留 C（规则判 X1-03，不检索）：Black Box（AGC Networks）跨国 IT 服务 —— 巨头 / 上市 / 零售集团采购走招标 / 供应商门户，补路径无意义；不入池、不群发，只在客户主动找上门时再议"
 },
 "XC-M137": {
 "verdict": "keep_C",
 "gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 branom.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"rule": "G1",
+"reason": "留 C：Branom Instrument Company（Seattle WA；1947 起；过程仪表分销）→ 仪表为主，交换机对位弱；邮箱已补 sales@branom.com",
 "date": "2026-10-29",
+"manual": true,
 "repo": "mikrotik-info",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"facts": [
+{
+"what": "官网 Contact：Branom Instrument Company · Seattle · Sales@branom.com",
+"url": "https://branom.odoo.com/contactus",
+"date": "2026-10-29"
+},
+{
+"what": "Nexthermal 分销名录：Branom Instrument Co. · 1947 起",
+"url": "https://nexthermal.com/distributor/branom-instrument-co/",
+"date": "2026-10-29"
+}
+],
+"g1_reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 branom.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"tags": [
+"email_found"
+],
+"emails": [
+"sales@branom.com"
+]
 },
 "XC-M138": {
 "verdict": "keep_C",
@@ -20844,24 +21295,67 @@
 "origin": "External"
 },
 "XC-M140": {
-"verdict": "keep_C",
-"gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 cbtcompany.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"verdict": "pool",
+"gate": 3,
+"rule": "G3",
+"reason": "○ 工业自动化分销 20%：CBT Company（Cincinnati OH；百年企业；5 处分支 OH / KY；自述区域最大工业自动化分销）官网部分坐实（法人全名 / OH SOS 号待补）；HMS / Red Lion / N-Tron 渠道 → STI 对位；主区 US；hello@cbtcompany.com（官网联系箱，待挖采购 KP）",
 "date": "2026-10-29",
+"manual": true,
 "repo": "mikrotik-info",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"facts": [
+{
+"what": "官网 FAQ：CBT Company · 100 年 · 区域最大工业自动化分销 · 5 处 · hello@cbtcompany.com",
+"url": "https://www.cbtcompany.com/frequently-asked-questions",
+"date": "2026-10-29"
+}
+],
+"g1_reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 cbtcompany.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"star": "○",
+"tags": [
+"industrial",
+"reg_pending",
+"email_found"
+],
+"emails": [
+"hello@cbtcompany.com"
+]
 },
 "XC-M141": {
-"verdict": "keep_C",
-"gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 claytonengineering.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"verdict": "pool_watch",
+"gate": 3,
+"rule": "G3",
+"reason": "☆ 电气分销 + 培训 / 咨询 20%：Clayton Engineering Company（Cuddy / Bridgeville PA；1947 起；AHTD 会员；11–50 人；Owner Don Bohn）官网线卡部分坐实（PA 注册号待补）；主区 US 但电气分销为主 → 观察档；sales@clayeng.net",
 "date": "2026-10-29",
+"manual": true,
 "repo": "mikrotik-info",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"facts": [
+{
+"what": "官网线卡 PDF：CLAYTON ENGINEERING COMPANY · sales@clayeng.net · FOUNDED 1947 · AHTD",
+"url": "https://www.claytonengineering.com/media/documents/ClaytonEng_LineList.pdf?_cchid=bb828c8df56a6b690ad711392e475619",
+"date": "2026-10-29"
+},
+{
+"what": "Crunchbase：Clayton Engineering · Bridgeville PA · 11–50 · Owner Don Bohn · sales@clayeng.net",
+"url": "https://www.crunchbase.com/organization/clayton-engineering-4b76",
+"date": "2026-10-29"
+}
+],
+"g1_reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 claytonengineering.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"star": "☆",
+"tags": [
+"industrial",
+"reg_pending",
+"email_found"
+],
+"emails": [
+"sales@clayeng.net"
+]
 },
 "XC-M142": {
 "verdict": "keep_C",
@@ -20908,24 +21402,51 @@
 "XC-M146": {
 "verdict": "keep_C",
 "gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 erietecinc.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"rule": "G1",
+"reason": "留 C：ErieTec, Inc.（Erie PA；1958 起；51–100 人；电气控制 + 机械传动分销）→ 机电为主，交换机对位弱；邮箱已补 solutions@ / erie@erietecinc.com",
 "date": "2026-10-29",
+"manual": true,
 "repo": "mikrotik-info",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"facts": [
+{
+"what": "Facebook 官方页：ErieTec, Inc · 1432 E 12th St Erie · solutions@erietecinc.com",
+"url": "https://www.facebook.com/erietecinc/",
+"date": "2026-10-29"
+},
+{
+"what": "Crunchbase：ErieTec · 51–100 · erie@erietecinc.com",
+"url": "https://www.crunchbase.com/organization/erietec",
+"date": "2026-10-29"
+}
+],
+"g1_reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 erietecinc.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"tags": [
+"email_found"
+],
+"emails": [
+"solutions@erietecinc.com",
+"erie@erietecinc.com"
+]
 },
 "XC-M147": {
 "verdict": "pool_watch",
 "gate": 3,
 "rule": "G3",
-"reason": "☆ 电子元件 / 电源 B2B 批发采购 20%：International Trade Carrier, LLC（Bethesda MD；EtherWAN 授权）官网部分坐实（州注册号待补）；主区 US 但元件批发口径、仅 info@ → 观察档",
+"reason": "☆ 电子元件 / 电源 B2B 批发采购 20%：International Trade Carrier, LLC（Bethesda MD；EtherWAN 授权）官网部分坐实（州注册号待补）；主区 US 但元件批发口径、仅 info@ → 观察档｜补证 X1-02R（2026-10-29）：官网法人 International Trade Carrier, LLC + 地址；MD SDAT 号仍待补；官网 Contact：International Trade Carrier, LLC · 6710A Rockledge Drive, Suite 400, Bethesda, MD 20817 · 工业自动化电子供应 B2B 采购（Advantech 等）· 不对私人；MD SDAT 号一次检索未中 → reg_pending 留",
 "date": "2026-10-29",
 "manual": true,
 "repo": "mikrotik-info",
 "origin": "External",
 "batch": "X1-02",
 "facts": [
+{
+"what": "官网 Contact：International Trade Carrier, LLC · Bethesda MD 20817 · info@internationaltradecarrier.com",
+"url": "https://www.internationaltradecarrier.com/contact/",
+"date": "2026-10-29"
+},
 {
 "what": "官网 Contact：International Trade Carrier, LLC · Bethesda MD 20817 · info@internationaltradecarrier.com",
 "url": "https://www.internationaltradecarrier.com/contact/",
@@ -20942,27 +21463,76 @@
 ],
 "emails": [
 "info@internationaltradecarrier.com"
-]
+],
+"recheck": "X1-02R"
 },
 "XC-M148": {
-"verdict": "keep_C",
-"gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 lakelandengineering.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"verdict": "pool_watch",
+"gate": 3,
+"rule": "G3",
+"reason": "☆ 电气电机控制与元件分销 20%：Lakeland Engineering Equipment Company（Minneapolis MN + KC / Omaha / Fargo / Denver；101–250 人）官网部分坐实（MN SOS 号待补）；主区 US、体量够但电气元件为主 → 观察档；sales@lakelandengineering.com",
 "date": "2026-10-29",
+"manual": true,
 "repo": "mikrotik-info",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"facts": [
+{
+"what": "官网 Contact：Lakeland Engineering Equipment Co. · Minneapolis · sales@lakelandengineering.com · 5 处办事处",
+"url": "https://www.lakelandengineering.com/contact/",
+"date": "2026-10-29"
+},
+{
+"what": "Crunchbase：101–250 人",
+"url": "https://www.crunchbase.com/organization/lakeland-engineering-equipment-company",
+"date": "2026-10-29"
+}
+],
+"g1_reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 lakelandengineering.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"star": "☆",
+"tags": [
+"industrial",
+"reg_pending",
+"email_found"
+],
+"emails": [
+"sales@lakelandengineering.com"
+]
 },
 "XC-M149": {
-"verdict": "keep_C",
-"gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 logic-control.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"verdict": "pool",
+"gate": 3,
+"rule": "G3",
+"reason": "○ 工业自动化高科技分销 20%：Logic, Inc.（Olathe KS 890 N Martway Ct；设 OEM 销售经理 John Wilmes）官方 FB + ZoomInfo 部分坐实（KS SOS 号待补）；HMS / Red Lion / N-Tron 渠道 → STI 对位；主区 US；sales@logic-control.com",
 "date": "2026-10-29",
+"manual": true,
 "repo": "mikrotik-info",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"facts": [
+{
+"what": "Facebook 官方页：Logic, Inc. · Olathe KS · sales@logic-control.com · 工业自动化分销",
+"url": "https://www.facebook.com/LogicInc/",
+"date": "2026-10-29"
+},
+{
+"what": "ZoomInfo：John Wilmes Sales Manager OEM · 890 N Martway Ct Olathe",
+"url": "https://www.zoominfo.com/p/John-Wilmes/295635467",
+"date": "2026-10-29"
+}
+],
+"g1_reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 logic-control.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"star": "○",
+"tags": [
+"industrial",
+"reg_pending",
+"email_found"
+],
+"emails": [
+"sales@logic-control.com"
+]
 },
 "XC-M150": {
 "verdict": "keep_C",
@@ -20997,40 +21567,118 @@
 ]
 },
 "XC-M151": {
-"verdict": "keep_C",
-"gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 powermation.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"verdict": "pool",
+"gate": 3,
+"rule": "G3",
+"reason": "○ 工业自动化分销 20%：Power/mation（St. Paul MN 1310 Energy Lane + Waukesha WI；1961 起；≈159 人；CEO Jim Landes）名录部分坐实（MN SOS 号待补）；HMS / Red Lion / N-Tron 渠道 → STI 工业对位；主区 US；info@powermation.com",
 "date": "2026-10-29",
+"manual": true,
 "repo": "mikrotik-info",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"facts": [
+{
+"what": "thepartsdirect 分销名录：Power/mation · 1310 Energy Ln St. Paul · info@powermation.com · Waukesha 分部",
+"url": "https://thepartsdirect.com/powermation/products",
+"date": "2026-10-29"
+},
+{
+"what": "AeroLeads：Power/Mation · 159 人 · 1961 起",
+"url": "https://aeroleads.com/c/powermation",
+"date": "2026-10-29"
+}
+],
+"g1_reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 powermation.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"star": "○",
+"tags": [
+"industrial",
+"reg_pending",
+"email_found"
+],
+"emails": [
+"info@powermation.com"
+]
 },
 "XC-M152": {
-"verdict": "keep_C",
-"gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 powermotionsales.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"verdict": "pool_watch",
+"gate": 3,
+"rule": "G3",
+"reason": "☆ 自动化元件与系统分销 20%：Power Motion Sales Inc.（Fenton MO 652 Axminister Dr；St. Louis / KC / Little Rock；Owner Christopher Tremblay）官方 FB 部分坐实（MO SOS 号待补）；主区 US 但体量未知、视觉 / 运动为主 → 观察档；slsales@powermotionsales.com",
 "date": "2026-10-29",
+"manual": true,
 "repo": "mikrotik-info",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"facts": [
+{
+"what": "Facebook 官方页：Power Motion Inc. · Fenton MO · slsales@powermotionsales.com",
+"url": "https://www.facebook.com/powermotioninc/",
+"date": "2026-10-29"
+},
+{
+"what": "Explorium：Power Motion Sales Inc. · 3 处 · slsales@",
+"url": "https://www.explorium.ai/manufacturing/companies/power-motion-sales",
+"date": "2026-10-29"
+}
+],
+"g1_reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 powermotionsales.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"star": "☆",
+"tags": [
+"industrial",
+"reg_pending",
+"email_found"
+],
+"emails": [
+"slsales@powermotionsales.com"
+]
 },
 "XC-M153": {
-"verdict": "keep_C",
-"gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 process-tech.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"verdict": "pool",
+"gate": 3,
+"rule": "G3",
+"reason": "○ 过程仪表 + 工厂自动化分销 20%：Process Technology, Inc.（Salt Lake City UT；1986 起；AZ / CO 分部；11–50 人）官网 FAQ + 名录部分坐实（UT 注册号待补）；HMS / Red Lion / N-Tron 渠道 → STI 对位；主区 US；quotes@ / process@process-tech.com",
 "date": "2026-10-29",
+"manual": true,
 "repo": "mikrotik-info",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"facts": [
+{
+"what": "官网 FAQ：quotes@ / orders@process-tech.com · 801-264-1114",
+"url": "https://process-tech.com/article_86_Frequently-Asked-Questions.cfm",
+"date": "2026-10-29"
+},
+{
+"what": "McCrometer 分销名录：Process Technology, Inc. · Salt Lake City · 1986 起 · 联系人 Brian Waslo",
+"url": "https://www.mccrometer.com/acadp_listings/process-technology/",
+"date": "2026-10-29"
+},
+{
+"what": "Crunchbase：11–50 · process@process-tech.com",
+"url": "https://www.crunchbase.com/organization/process-technology-inc",
+"date": "2026-10-29"
+}
+],
+"g1_reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 process-tech.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"star": "○",
+"tags": [
+"industrial",
+"reg_pending",
+"email_found"
+],
+"emails": [
+"process@process-tech.com",
+"quotes@process-tech.com"
+]
 },
 "XC-M154": {
 "verdict": "pool",
 "gate": 3,
 "rule": "G3",
-"reason": "○ 网络技术分销 20%：Pulse Supply（Sparks MD；PLANET 授权分销；设区域销售总监 bpicardi@ / jomack@ 与 reseller 授权表）官网部分坐实（州注册号待补）；主区 US；sales@ / reseller@pulsesupply.com",
+"reason": "○ 网络技术分销 20%：Pulse Supply（Sparks MD；PLANET 授权分销；设区域销售总监 bpicardi@ / jomack@ 与 reseller 授权表）官网部分坐实（州注册号待补）；主区 US；sales@ / reseller@pulsesupply.com｜补证 X1-02R（2026-10-29）：体量 15–16 人 / $3M；MD SDAT 号仍待补；体量补证：Pulse Supply · 909 Ridgebrook Rd Ste 120, Sparks MD 21152 · 1995 起 · 15–16 人 / $3M · President Salvatore Costantino（Datanyze / ZoomInfo）；MD SDAT 号一次检索未中 → reg_pending 留",
 "date": "2026-10-29",
 "manual": true,
 "repo": "mikrotik-info",
@@ -21046,6 +21694,16 @@
 "what": "官方 PDF：Authorized Partner Form → reseller@pulsesupply.com",
 "url": "https://www.pulsesupply.com/images/pdf/pulse_authorized_partner_form.pdf",
 "date": "2026-10-29"
+},
+{
+"what": "Datanyze：Pulse Supply · Sparks MD · 1995 · 16 人 · $3M",
+"url": "https://www.datanyze.com/companies/pulse-supply/187384274",
+"date": "2026-10-29"
+},
+{
+"what": "ZoomInfo：Salvatore Costantino President · 1995–present",
+"url": "https://www.zoominfo.com/p/Salvatore-Costantino/42892707",
+"date": "2026-10-29"
 }
 ],
 "g1_reason": "渠道型主体但路径未建（分销（PLANET 授权）  B下放·无邮箱（群发触达不到）；官网 pulsesupply.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱）→ 留 C 待巡检，补到邮箱再闸 2",
@@ -21059,7 +21717,8 @@
 "emails": [
 "sales@pulsesupply.com",
 "reseller@pulsesupply.com"
-]
+],
+"recheck": "X1-02R"
 },
 "XC-M155": {
 "verdict": "pass_final",
@@ -21083,18 +21742,24 @@
 "XC-M157": {
 "verdict": "keep_C",
 "gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（分销（Advantech 授权）  B下放·无邮箱（群发触达不到）；官网 radwell.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"rule": "G1-giant",
 "date": "2026-10-29",
+"manual": true,
 "repo": "mikrotik-info",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"tags": [
+"giant"
+],
+"g1_reason": "渠道型主体但路径未建（分销（Advantech 授权）  B下放·无邮箱（群发触达不到）；官网 radwell.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"reason": "留 C（规则判 X1-03，不检索）：Radwell International 大型工业备件平台 —— 巨头 / 上市 / 零售集团采购走招标 / 供应商门户，补路径无意义；不入池、不群发，只在客户主动找上门时再议"
 },
 "XC-M158": {
 "verdict": "pool",
 "gate": 3,
 "rule": "G3",
-"reason": "○ 工业自动化与控制分销 20%：Santa Clara Systems, Inc.（Alameda CA；Moxa 授权；11–50 人）官网部分坐实（CA SOS 号待补）；主区 US；sales@santaclarasystems.com",
+"reason": "○ 工业自动化与控制分销 20%：Santa Clara Systems, Inc.（Alameda CA；Moxa 授权；11–50 人）官网部分坐实（CA SOS 号待补）；主区 US；sales@santaclarasystems.com｜补证 X1-02R（2026-10-29）：SAM.gov UEI KNKRVNQCAEJ7 / CAGE 392W1 坐实（30 人 / $10.6M）；SANTA CLARA SYSTEMS, INC. · 2060 N Loop Rd, Alameda CA 94502 · 30 人 / $10.6M（Datanyze）· 工业自动化与控制分销（Allen Bradley 等）",
 "date": "2026-10-29",
 "manual": true,
 "repo": "mikrotik-info",
@@ -21110,6 +21775,16 @@
 "what": "Crunchbase：Santa Clara Systems, Inc. · Alameda · 11–50",
 "url": "https://www.crunchbase.com/organization/santa-clara-systems",
 "date": "2026-10-29"
+},
+{
+"what": "HigherGov：SANTA CLARA SYSTEMS, INC. · UEI KNKRVNQCAEJ7 · CAGE 392W1 · CA 公司 2002-07-02",
+"url": "https://www.highergov.com/awardee/santa-clara-systems-inc-12840517/",
+"date": "2026-10-29"
+},
+{
+"what": "Datanyze：30 人 · $10.6M · 2002",
+"url": "https://www.datanyze.com/companies/santa-clara-systems/105300573",
+"date": "2026-10-29"
 }
 ],
 "g1_reason": "渠道型主体但路径未建（分销（Moxa 授权）  B下放·无邮箱（群发触达不到）；官网 santaclarasystems.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
@@ -21117,12 +21792,14 @@
 "star": "○",
 "tags": [
 "industrial",
-"reg_pending",
-"email_found"
+"email_found",
+"fed_vendor"
 ],
 "emails": [
 "sales@santaclarasystems.com"
-]
+],
+"reg": "SAM.gov UEI KNKRVNQCAEJ7 / CAGE 392W1（CA 公司，2002-07-02 成立，2005-05 联邦登记）",
+"recheck": "X1-02R"
 },
 "XC-M159": {
 "verdict": "keep_C",
@@ -21180,44 +21857,108 @@
 "g1_batch": "X1-auto"
 },
 "XC-M163": {
-"verdict": "keep_C",
-"gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 tcicinc.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"verdict": "pool_watch",
+"gate": 3,
+"rule": "G3",
+"reason": "☆ 工业自动化 + 工业通信 / 无线分销 20%：TCIC Inc.（Golden Valley MN 628 Mendelssohn Ave N；President & CEO Christine Frank）官网部分坐实（MN SOS 号待补）；主区 US 但小型 → 观察档；info@tcicinc.com",
 "date": "2026-10-29",
+"manual": true,
 "repo": "mikrotik-info",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"facts": [
+{
+"what": "官网 Contact Us：TCIC · Golden Valley MN · info@tcicinc.com",
+"url": "https://www.tcicinc.com/contact-us/",
+"date": "2026-10-29"
+},
+{
+"what": "Finding Automation 访谈：Christine Frank President & CEO of TCIC Inc.",
+"url": "https://www.findingautomation.com/christine-frank-tcic-inc",
+"date": "2026-10-29"
+}
+],
+"g1_reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 tcicinc.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"star": "☆",
+"tags": [
+"industrial",
+"reg_pending",
+"email_found"
+],
+"emails": [
+"info@tcicinc.com"
+]
 },
 "XC-M164": {
-"verdict": "keep_C",
-"gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 tmmi.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"verdict": "pool",
+"gate": 3,
+"rule": "G3",
+"reason": "○ 工业自动化 / 电气控制设备分销 20%：TMMI, LLC（Wheat Ridge CO 5000 Robb St；1977 起；落基山 8 州；GrayMatter 旗下）item 官方伙伴页部分坐实（CO SOS 号待补）；HMS / Red Lion / N-Tron 渠道 → STI 对位；主区 US；具名 VP Bryan Young byoung@tmmi.com",
 "date": "2026-10-29",
+"manual": true,
 "repo": "mikrotik-info",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"facts": [
+{
+"what": "item24 官方 PlusPartner 页：TMMI, LLC · Wheat Ridge CO · Bryan Young VP · byoung@tmmi.com",
+"url": "https://www.item24.network/pluspartner/tmmi/",
+"date": "2026-10-29"
+},
+{
+"what": "Clodura：TMMI powered by GrayMatter · 1977 起 · 落基山 8 州",
+"url": "https://www.clodura.ai/directory/company/tmmi-powered-by-graymatter",
+"date": "2026-10-29"
+}
+],
+"g1_reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 tmmi.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"star": "○",
+"tags": [
+"industrial",
+"reg_pending",
+"email_found"
+],
+"emails": [
+"byoung@tmmi.com"
+]
 },
 "XC-M165": {
 "verdict": "keep_C",
 "gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 tcas.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"rule": "G1",
+"reason": "留 C：Thorp Controls（Merriam KS / Denver CO；100–200 人；President Todd Thorp）公开页只有遮蔽邮箱 → 路径仍未建（官网表单），一次检索即止；体量够，补到邮箱即可闸 3",
 "date": "2026-10-29",
+"manual": true,
 "repo": "mikrotik-info",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"facts": [
+{
+"what": "SignalHire：Thorp Controls · Merriam KS · 100–200 人 · President Todd Thorp",
+"url": "https://www.signalhire.com/profiles/brian-church's-email/109646357",
+"date": "2026-10-29"
+}
+],
+"g1_reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 tcas.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto"
 },
 "XC-M166": {
 "verdict": "keep_C",
 "gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 vanmeterinc.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"rule": "G1-giant",
 "date": "2026-10-29",
+"manual": true,
 "repo": "mikrotik-info",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"tags": [
+"giant"
+],
+"g1_reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 vanmeterinc.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"reason": "留 C（规则判 X1-03，不检索）：Van Meter Inc. 美国大型电气分销（员工持股） —— 巨头 / 上市 / 零售集团采购走招标 / 供应商门户，补路径无意义；不入池、不群发，只在客户主动找上门时再议"
 },
 "XC-M167": {
 "verdict": "keep_C",
@@ -21233,7 +21974,7 @@
 "verdict": "pool",
 "gate": 3,
 "rule": "G3",
-"reason": "○ 全线工业自动化分销 20%：Marshall Wolf Automation, Inc.（Algonquin IL；50+ 品牌授权含 Advantech；11–50 人）官网部分坐实（IL SOS 号待补）；主区 US；sales@wolfautomation.com",
+"reason": "○ 全线工业自动化分销 20%：Marshall Wolf Automation, Inc.（Algonquin IL；50+ 品牌授权含 Advantech；11–50 人）官网部分坐实（IL SOS 号待补）；主区 US；sales@wolfautomation.com｜补证 X1-02R（2026-10-29）：体量 35 人 / $5–25M；IL SOS 号仍待补；体量补证：Marshall Wolf Automation, Inc. · 210 Dowdle St Suite 1, Algonquin IL 60102 · 1984/85 起（Bloomberg 1987-01-27）· 35 人 · 营收 $5–25M · CEO Hans Wolf；IL SOS 号一次检索未中 → reg_pending 留",
 "date": "2026-10-29",
 "manual": true,
 "repo": "mikrotik-info",
@@ -21249,6 +21990,16 @@
 "what": "Crunchbase：Marshall Wolf Automation Inc · Algonquin · 11–50 · sales@",
 "url": "https://www.crunchbase.com/organization/marshall-wolf-automation",
 "date": "2026-10-29"
+},
+{
+"what": "Bloomberg：Marshall Wolf Automation Inc · 210 Dowdle St Algonquin · 35 人 · 1987-01-27",
+"url": "https://www.bloomberg.com/profile/company/0044653D:US",
+"date": "2026-10-29"
+},
+{
+"what": "Glassdoor：1984 起 · $5–25M · CEO Hans Wolf",
+"url": "https://www.glassdoor.com/Overview/Working-at-Marshall-Wolf-Automation-EI_IE1802137.11,35.htm",
+"date": "2026-10-29"
 }
 ],
 "g1_reason": "渠道型主体但路径未建（分销（Advantech 授权）  B下放·无邮箱（群发触达不到）；官网 wolfautomation.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
@@ -21261,17 +22012,40 @@
 ],
 "emails": [
 "sales@wolfautomation.com"
-]
+],
+"recheck": "X1-02R"
 },
 "XC-M169": {
 "verdict": "keep_C",
 "gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 zescoinc.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"rule": "G1",
+"reason": "留 C：Zesco Inc.（Broadview Hts OH；营收 $0.5–1M；Owner Ed Sustersic）微型自动化分销；邮箱已补 sales@zescoinc.com",
 "date": "2026-10-29",
+"manual": true,
 "repo": "mikrotik-info",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"facts": [
+{
+"what": "官网 Contact：Zesco Inc. · Broadview Hts OH · sales@zescoinc.com",
+"url": "https://zescoinc.com/contact.html",
+"date": "2026-10-29"
+},
+{
+"what": "allbiz：营收 $500k–999k · Owner Ed Sustersic",
+"url": "https://www.allbiz.com/business/zesco-inc_6s-440-526-0603",
+"date": "2026-10-29"
+}
+],
+"g1_reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 zescoinc.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"tags": [
+"email_found",
+"micro"
+],
+"emails": [
+"sales@zescoinc.com"
+]
 },
 "XC-M170": {
 "verdict": "pool_watch",
@@ -21286,12 +22060,34 @@
 "XC-M171": {
 "verdict": "keep_C",
 "gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 knxireland.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"rule": "G1",
+"reason": "留 C：Clanrye Electrical Supplies Ltd（Newry BT35；电气批发 35 年 + KNX 分销伙伴）→ 电气 / 楼宇自动化为主，交换机对位弱；邮箱已补 info@clanryeelectrical.com，随群发节奏",
 "date": "2026-10-29",
+"manual": true,
 "repo": "mikrotik-info",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"facts": [
+{
+"what": "官网：Clanrye Electrical Supplies · Newry · info@clanryeelectrical.com · WA 0044 7822 014618",
+"url": "https://clanryeelectrical.com/",
+"date": "2026-10-29"
+},
+{
+"what": "Smart Home 页：KNX Distribution Partner · info@knxireland.com",
+"url": "https://clanryeelectrical.com/smart-home/",
+"date": "2026-10-29"
+}
+],
+"g1_reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 knxireland.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"tags": [
+"email_found"
+],
+"emails": [
+"info@clanryeelectrical.com",
+"info@knxireland.com"
+]
 },
 "XC-M172": {
 "verdict": "keep_C",
@@ -21384,20 +22180,44 @@
 ]
 },
 "XC-M176": {
-"verdict": "keep_C",
-"gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 digitalcontrols.biz，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"verdict": "pool_watch",
+"gate": 3,
+"rule": "G3",
+"reason": "☆ Red Lion / Horner 等自动化产品分销 20%：Digital Controls（Peterborough PE2 7DR；联系人 Tim Sommerville）官网 + 行业名录部分坐实（法人形式 / Companies House 号未明）；主区 GB 但微型 → 观察档；sales@digitalcontrols.biz",
 "date": "2026-10-29",
+"manual": true,
 "repo": "mikrotik-info",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"facts": [
+{
+"what": "官网产品页：Digital Controls · 2 Mary Armyne Road Peterborough · sales@digitalcontrols.biz",
+"url": "https://www.digitalcontrols.biz/red-lion-cl05-paradigm-terminal-interface",
+"date": "2026-10-29"
+},
+{
+"what": "Drives & Controls 2024-07 名录：Digital Controls · Tim Sommerville · sales@digitalcontrols.biz",
+"url": "https://pmps-digital.com/dac/2024/07/171/",
+"date": "2026-10-29"
+}
+],
+"g1_reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 digitalcontrols.biz，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"star": "☆",
+"tags": [
+"industrial",
+"micro",
+"email_found"
+],
+"emails": [
+"sales@digitalcontrols.biz"
+]
 },
 "XC-M177": {
 "verdict": "pool",
 "gate": 3,
 "rule": "G3",
-"reason": "○ 工业计算 / IIoT 方案分销 20%：Distec Ltd（Irlam Manchester；InHand Networks 区域渠道分销 2025-09；Industry 4.0 Summit 参展）官网部分坐实（Companies House 号待补）；主区 GB；sales@ / info@distec.co.uk",
+"reason": "○ 工业计算 / IIoT 方案分销 20%：Distec Ltd（Irlam Manchester；InHand Networks 区域渠道分销 2025-09；Industry 4.0 Summit 参展）官网部分坐实（Companies House 号待补）；主区 GB；sales@ / info@distec.co.uk｜补证 X1-02R（2026-10-29）：Companies House 02718521 坐实；DISTEC LIMITED · Huntsman Drive, Northbank Ind. Est., Irlam M44 5EG · 活跃 · 4 董事",
 "date": "2026-10-29",
 "manual": true,
 "repo": "mikrotik-info",
@@ -21413,6 +22233,11 @@
 "what": "P&C Today 2025-09-09：Distec × InHand Networks 区域渠道分销 · info@distec.co.uk",
 "url": "https://www.pandct.com/news/distec-partners-with-inhand-networks-to-strengthen-secure-iiot-offering",
 "date": "2026-10-29"
+},
+{
+"what": "Company Check：DISTEC LIMITED · 02718521 · 1992-05-29 · Irlam M44 5EG · Active",
+"url": "https://companycheck.co.uk/company/02718521/DISTEC-LIMITED/companies-house-data",
+"date": "2026-10-29"
 }
 ],
 "g1_reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 distec.co.uk，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
@@ -21420,29 +22245,52 @@
 "star": "○",
 "tags": [
 "industrial",
-"reg_pending",
 "email_found"
 ],
 "emails": [
 "sales@distec.co.uk",
 "info@distec.co.uk"
-]
+],
+"reg": "Companies House 02718521（1992-05-29）",
+"recheck": "X1-02R"
 },
 "XC-M178": {
 "verdict": "keep_C",
 "gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 futurefocusenergy.co.uk，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"rule": "G1",
+"reason": "留 C：Future Focus Energy Limited（Blackpool；4 人；能源管理 / 监测公司）→ 不是渠道分销，对位弱；邮箱已补 Info@futurefocusenergy.co.uk",
 "date": "2026-10-29",
+"manual": true,
 "repo": "mikrotik-info",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"facts": [
+{
+"what": "Facebook 官方页：Future Focus Energy · Blackpool · Info@futurefocusenergy.co.uk · 能源管理与监测",
+"url": "https://www.facebook.com/FutureFocusEnergyUK/",
+"date": "2026-10-29"
+},
+{
+"what": "Apollo：Future Focus Energy Limited · 4 人",
+"url": "https://www.apollo.io/people/Andrew/Green/5ada14c8a6da9862b3aae7c1",
+"date": "2026-10-29"
+}
+],
+"g1_reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 futurefocusenergy.co.uk，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"tags": [
+"email_found",
+"micro"
+],
+"emails": [
+"Info@futurefocusenergy.co.uk"
+]
 },
 "XC-M179": {
 "verdict": "pool",
 "gate": 3,
 "rule": "G3",
-"reason": "○ 自动化 / 运动控制 / 机械安全分销 20%：LC Automation Ltd（Blackburn + Chippenham；Red Lion 分销商）官网部分坐实（Companies House 号待补）；主区 GB；sales@lca.co.uk",
+"reason": "○ 自动化 / 运动控制 / 机械安全分销 20%：LC Automation Ltd（Blackburn + Chippenham；Red Lion 分销商）官网部分坐实（Companies House 号待补）；主区 GB；sales@lca.co.uk｜补证 X1-02R（2026-10-29）：Companies House 01166468 + VAT 坐实（35 人 / $6.9M）；LC Automation Limited · Duttons Way, Shadsworth Business Park, Blackburn · 1974 起 · 35 人 / $6.9M（Datanyze）",
 "date": "2026-10-29",
 "manual": true,
 "repo": "mikrotik-info",
@@ -21458,6 +22306,16 @@
 "what": "2018/19 目录：sales@ / technical@ / accounts@lca.co.uk",
 "url": "https://www.lcautomation.com/dbdocument/22354/2018-19%20Product%20Catalogue.pdf",
 "date": "2026-10-29"
+},
+{
+"what": "官网 T&C：LC Automation Limited · company number 01166468 · VAT GB 834 8649 88",
+"url": "https://www.lcautomation.com/page/about_us/terms_and_conditions.aspx",
+"date": "2026-10-29"
+},
+{
+"what": "Datanyze：35 人 · $6.9M · 1974",
+"url": "https://www.datanyze.com/companies/lc-automation/43421003",
+"date": "2026-10-29"
 }
 ],
 "g1_reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 lcautomation.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
@@ -21465,22 +22323,29 @@
 "star": "○",
 "tags": [
 "industrial",
-"reg_pending",
 "email_found"
 ],
 "emails": [
 "sales@lca.co.uk"
-]
+],
+"reg": "Companies House 01166468；VAT GB 834 8649 88",
+"recheck": "X1-02R"
 },
 "XC-M180": {
 "verdict": "keep_C",
 "gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（分销（PLANET 授权）  B下放·无邮箱（群发触达不到）；官网 uk-store.netceed.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"rule": "G1-giant",
 "date": "2026-10-29",
+"manual": true,
 "repo": "mikrotik-info",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"tags": [
+"giant"
+],
+"g1_reason": "渠道型主体但路径未建（分销（PLANET 授权）  B下放·无邮箱（群发触达不到）；官网 uk-store.netceed.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"reason": "留 C（规则判 X1-03，不检索）：Netceed UK（原 Comtec）跨国电信分销集团 —— 巨头 / 上市 / 零售集团采购走招标 / 供应商门户，补路径无意义；不入池、不群发，只在客户主动找上门时再议"
 },
 "XC-M181": {
 "verdict": "keep_C",
@@ -21536,14 +22401,39 @@
 ]
 },
 "XC-M184": {
-"verdict": "keep_C",
-"gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 cppb.nl，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"verdict": "pool_watch",
+"gate": 3,
+"rule": "G3",
+"reason": "☆ ATEX Zone II 工业以太网交换机等专业分销 20%：Computer Products Professional Benelux B.V.（Puttershoek Biezenvijver 4，与 RTP Europe 同址）官网部分坐实（KvK 待补）；小型 + 防爆细分 → 观察档；info@compprof-rtp.com",
 "date": "2026-10-29",
+"manual": true,
 "repo": "mikrotik-info",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"facts": [
+{
+"what": "官网：Computer Products Professional Benelux B.V. · Biezenvijver 4 Puttershoek · info@compprof-rtp.com · ATEX Ethernet",
+"url": "https://cppb.nl/",
+"date": "2026-10-29"
+},
+{
+"what": "ATEX 页：ATEX Ethernet switches for Zone II",
+"url": "https://cppb.nl/atex",
+"date": "2026-10-29"
+}
+],
+"g1_reason": "渠道型主体但路径未建（分销（HMS/N-Tron·Red Lion 渠道）  B下放·无邮箱（群发触达不到）；官网 cppb.nl，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"star": "☆",
+"tags": [
+"industrial",
+"micro",
+"reg_pending",
+"email_found"
+],
+"emails": [
+"info@compprof-rtp.com"
+]
 },
 "XC-M185": {
 "verdict": "pool",
@@ -21702,12 +22592,18 @@
 "XC-M191": {
 "verdict": "keep_C",
 "gate": 1,
-"rule": "G1-auto",
-"reason": "渠道型主体但路径未建（分销（Westermo Silver）  B下放·无邮箱（群发触达不到）；官网 industrial.omron.es，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"rule": "G1-giant",
 "date": "2026-10-29",
+"manual": true,
 "repo": "mikrotik-info",
 "origin": "External",
-"batch": "X1-auto"
+"batch": "X1-03",
+"tags": [
+"giant"
+],
+"g1_reason": "渠道型主体但路径未建（分销（Westermo Silver）  B下放·无邮箱（群发触达不到）；官网 industrial.omron.es，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2",
+"g1_batch": "X1-auto",
+"reason": "留 C（规则判 X1-03，不检索）：Omron Iberia 自动化巨头子公司 —— 巨头 / 上市 / 零售集团采购走招标 / 供应商门户，补路径无意义；不入池、不群发，只在客户主动找上门时再议"
 },
 "XC-M192": {
 "verdict": "keep_C",

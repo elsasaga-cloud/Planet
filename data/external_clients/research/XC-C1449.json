@@ -1,0 +1,45 @@
+{
+ "code": "XC-C1449",
+ "name": "EFCO Electronics GmbH",
+ "round": "X1-03",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "EFCO Electronics GmbH：工业 PC / Panel PC 制造分销 + Teltonika 分销（shop.efcotec.de）；来源库称 2014 起 100–199 人；官网公开 WhatsApp +49 151 62477788；HRB 一次检索未中",
+ "type_final": "B类 — 2014年起,100-199员工,Teltonika分销；EFCO Electronics GmbH",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "○ 工业 PC / Panel PC + Teltonika 分销 20%：EFCO Electronics GmbH（",
+ "brands_seen": [],
+ "contacts": {
+  "email": "sales@efcotec.de",
+  "email_status": "官网 / 名录公开（X1-03 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "Elektroniknet 供应商名录：EFCO Electronics GmbH · Deggendorf · sales@efcotec.de · shop.efcotec.de",
+   "quote": "",
+   "url": "https://www.elektroniknet.de/anbieterkompass/efco-electronics-gmbh.39234883/index.html",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "官方网店：服务热线 +49-991-2009298-200 · sales@efcotec.de · Teltonika 产品在售",
+   "quote": "",
+   "url": "https://shop.efcotec.de/",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-03 补路径：○ 工业 PC / Panel PC + Teltonika 分销 20%：EFCO Electronics GmbH（Deggendorf Ulrichsberger Str. 17/G1；来源库称 2014 起 10（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "已入 P 池 → 按巡检节奏首触"
+ },
+ "deep": false,
+ "notes": "EFCO Electronics GmbH；Ulrichsberger Str. 17/G1, 94469 Deggendorf；+49 991 2009298-0",
+ "draft_en": null
+}

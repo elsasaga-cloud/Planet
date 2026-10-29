@@ -1,0 +1,38 @@
+{
+ "code": "XC-E085",
+ "name": "Racklive",
+ "round": "X1-03",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "Racklive（ASA Computers, Inc. 数据中心事业部，2011 起）：机架集成 / 数据中心服务器与存储 / 全球部署；ISO 9001:2015；法人为 ASA Computers → 数据中心交换机对位（CENTEC 敲门砖）",
+ "type_final": "SI·VAR·经销商；Racklive（ASA Computers, Inc. 数据中心事业部，2011 起）",
+ "size": "",
+ "saga_line": "CENTEC 数据中心（敲门砖）+ SmartByte",
+ "fit": "○ 机架集成 / 数据中心服务器与存储 25%：Racklive = ASA Computers, Inc. 数据中心事",
+ "brands_seen": [],
+ "contacts": {
+  "email": "sales@racklive.com",
+  "email_status": "官网 / 名录公开（X1-03 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "官网 Contact：Racklive · Fremont CA · sales@racklive.com · ASA Computers 数据中心事业部 2011 起",
+   "quote": "",
+   "url": "https://www.racklive.com/contact.php",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-03 补路径：○ 机架集成 / 数据中心服务器与存储 25%：Racklive = ASA Computers, Inc. 数据中心事业部（Fremont CA 48761 Kato Rd；2011 起；ISO 9001:2015；全（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "已入 P 池 → 按巡检节奏首触"
+ },
+ "deep": false,
+ "notes": "Racklive（ASA Computers, Inc. 数据中心事业部，2011 起）；48761 Kato Road, Fremont, CA 94538；+1 650 230 8060",
+ "draft_en": null
+}

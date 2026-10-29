@@ -1,0 +1,38 @@
+{
+ "code": "XC-C1490",
+ "name": "Switch Link Computers Trading LLC",
+ "round": "X1-03",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "Switch Link Computers Trading LLC：Cisco 产品供应 / 合作伙伴（Bur Dubai 小型贸易商）；官网公开 WA +971 50 804 6102；非主区",
+ "type_final": "网络交换机供应商/分销商；Switch Link Computers Trading LLC",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "留 C：Switch Link Computers Trading LLC（Bur Dubai Unit 103；Cis",
+ "brands_seen": [],
+ "contacts": {
+  "email": "info@switchlinkdubai.com",
+  "email_status": "官网 / 名录公开（X1-03 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "官网 Contact：Switch Link Computers Trading LLC · info@switchlinkdubai.com · WA +971-50-8046102",
+   "quote": "",
+   "url": "https://switchlinkct.com/contact/",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-03 补路径：留 C：Switch Link Computers Trading LLC（Bur Dubai Unit 103；Cisco 合作伙伴小户；官网 WA +971 50 804 6102）→ 非主区小型 Cisco 转售；（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "留 C 储备，随群发节奏"
+ },
+ "deep": false,
+ "notes": "Switch Link Computers Trading LLC；Unit 103, Muhammad Noor Talib Bldg, Khalid Bin Waleed Rd, Bur Dubai; PO Box 381037；+971 55 967 0902",
+ "draft_en": null
+}

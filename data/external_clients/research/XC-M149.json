@@ -1,0 +1,45 @@
+{
+ "code": "XC-M149",
+ "name": "Logic Inc",
+ "round": "X1-03",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "Logic, Inc.：工业自动化软硬件高科技分销；设 OEM 销售经理 John Wilmes、内销 Emily Robards（ZoomInfo）",
+ "type_final": "分销（HMS/N-Tron·Red Lion 渠道）；Logic, Inc.",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "○ 工业自动化高科技分销 20%：Logic, Inc.（Olathe KS 890 N Martway Ct；设 OE",
+ "brands_seen": [],
+ "contacts": {
+  "email": "sales@logic-control.com",
+  "email_status": "官网 / 名录公开（X1-03 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "Facebook 官方页：Logic, Inc. · Olathe KS · sales@logic-control.com · 工业自动化分销",
+   "quote": "",
+   "url": "https://www.facebook.com/LogicInc/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "ZoomInfo：John Wilmes Sales Manager OEM · 890 N Martway Ct Olathe",
+   "quote": "",
+   "url": "https://www.zoominfo.com/p/John-Wilmes/295635467",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-03 补路径：○ 工业自动化高科技分销 20%：Logic, Inc.（Olathe KS 890 N Martway Ct；设 OEM 销售经理 John Wilmes）官方 FB + ZoomInfo 部分坐实（KS SOS 号待（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "已入 P 池 → 按巡检节奏首触"
+ },
+ "deep": false,
+ "notes": "Logic, Inc.；890 N Martway Ct, Olathe, KS 66061；+1 913 764 4400",
+ "draft_en": null
+}

@@ -1,0 +1,45 @@
+{
+ "code": "XC-M137",
+ "name": "Branom Instrument Co",
+ "round": "X1-03",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "Branom Instrument Company：过程仪表（流量 / 液位 / 压力 / 温度）分销，1947 起，太平洋西北 → 仪表为主，交换机对位弱",
+ "type_final": "分销（HMS/N-Tron·Red Lion 渠道）；Branom Instrument Company",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "留 C：Branom Instrument Company（Seattle WA；1947 起；过程仪表分销）→ 仪表为",
+ "brands_seen": [],
+ "contacts": {
+  "email": "sales@branom.com",
+  "email_status": "官网 / 名录公开（X1-03 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "官网 Contact：Branom Instrument Company · Seattle · Sales@branom.com",
+   "quote": "",
+   "url": "https://branom.odoo.com/contactus",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "Nexthermal 分销名录：Branom Instrument Co. · 1947 起",
+   "quote": "",
+   "url": "https://nexthermal.com/distributor/branom-instrument-co/",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-03 补路径：留 C：Branom Instrument Company（Seattle WA；1947 起；过程仪表分销）→ 仪表为主，交换机对位弱；邮箱已补 sales@branom.com（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "留 C 储备，随群发节奏"
+ },
+ "deep": false,
+ "notes": "Branom Instrument Company；5610 4th Ave S, Seattle, WA 98108；+1 206 762 6050",
+ "draft_en": null
+}

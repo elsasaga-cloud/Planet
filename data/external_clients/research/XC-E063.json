@@ -29,6 +29,20 @@
    "quote": "",
    "url": "http://www.xentech.nl/contacts",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "登记 / 名录",
+   "claim": "Drimble：Xentech B.V. · KvK 34242736 · 2006-02-08 · 主营业所",
+   "quote": "",
+   "url": "https://drimble.nl/bedrijf/zaandam/15927288/xentech-bv.html",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "登记 / 名录",
+   "claim": "Bedrijvenpagina：Xentech B.V. · Strevelsweg 700 Rotterdam · KvK 34242736",
+   "quote": "",
+   "url": "https://www.bedrijvenpagina.nl/Xentech_B.V./1101017/123b68f8/",
+   "date": "2026-10-29"
   }
  ],
  "touch_status": "未触达（路径 2026-10-29 新补）",
@@ -40,6 +54,6 @@
   "angle": "已入 P 池 → 按巡检节奏首触"
  },
  "deep": false,
- "notes": "Xentech B.V.；Vredeweg 46 / D1, 1505 HH Zaandam；+31 85 002 0796",
+ "notes": "Xentech B.V.；Vredeweg 46 / D1, 1505 HH Zaandam；+31 85 002 0796；X1-02R 补证：KvK 34242736（2006-02-08，zetel Zaandam）",
  "draft_en": null
 }

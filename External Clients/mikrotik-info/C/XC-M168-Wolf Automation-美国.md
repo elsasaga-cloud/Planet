@@ -2,7 +2,7 @@
 
 > **现判 XC 暂不管** ｜ 来源 mikrotik-info `C-103`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-02 2026-10-29）→ 下一动作 不动
 >
-> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 全线工业自动化分销 20%：Marshall Wolf Automation, Inc.（Algonquin IL；50+ 品牌授权含 Advantech；11–50 人）官网部分坐实（IL SOS 号待补）；主区 US；sales@wolfautomation.com
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 全线工业自动化分销 20%：Marshall Wolf Automation, Inc.（Algonquin IL；50+ 品牌授权含 Advantech；11–50 人）官网部分坐实（IL SOS 号待补）；主区 US；sales@wolfautomation.com｜补证 X1-02R（2026-10-29）：体量 35 人 / $5–25M；IL SOS 号仍待补；体量补证：Marshall Wolf Automation, Inc. · 210 Dowdle St Suite 1, Algonquin IL 60102 · 1984/85 起（Bloomberg 1987-01-27）· 35 人 · 营收 $5–25M · CEO Hans Wolf；IL SOS 号一次检索未中 → reg_pending 留
 
 ## 1. 初判与理由
 - 初判：**XC** — 来源库（mikrotik-info）已判 C（细分：B下放·无邮箱（群发触达不到）；依据：【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一）；Simon 口径「mik 的 C 不碰」→ 关仓前仅存档，不跟
@@ -63,5 +63,7 @@
 |---|---|---|---|---|
 | 官网 / 名录 | 官网页脚：Marshall Wolf Automation, Inc. · 210 Dowdle Street Algonquin IL · sales@wolfautomation.com |  | https://www.wolfautomation.com/products/process-automation/?page=36 | 2026-10-29 |
 | 官网 / 名录 | Crunchbase：Marshall Wolf Automation Inc · Algonquin · 11–50 · sales@ |  | https://www.crunchbase.com/organization/marshall-wolf-automation | 2026-10-29 |
+| 登记 / 名录 | Bloomberg：Marshall Wolf Automation Inc · 210 Dowdle St Algonquin · 35 人 · 1987-01-27 |  | https://www.bloomberg.com/profile/company/0044653D:US | 2026-10-29 |
+| 登记 / 名录 | Glassdoor：1984 起 · $5–25M · CEO Hans Wolf |  | https://www.glassdoor.com/Overview/Working-at-Marshall-Wolf-Automation-EI_IE1802137.11,35.htm | 2026-10-29 |
 
 - 备注：Marshall Wolf Automation, Inc.；210 Dowdle Street Ste 1 / 923 S Main St, Algonquin IL 60102；+1 847-658-8130

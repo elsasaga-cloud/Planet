@@ -1,0 +1,45 @@
+{
+ "code": "XC-M146",
+ "name": "ErieTec, Inc",
+ "round": "X1-03",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "ErieTec, Inc.（原 Erie Bearings Co.）：电气控制 / 配电 + 机械传动 / 运动控制分销，1958 起，51–100 人，覆盖 PA / NY / OH → 机电为主，交换机对位弱",
+ "type_final": "分销（HMS/N-Tron·Red Lion 渠道）；ErieTec, Inc.（原 Erie Bearings Co.）",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "留 C：ErieTec, Inc.（Erie PA；1958 起；51–100 人；电气控制 + 机械传动分销）→ 机电",
+ "brands_seen": [],
+ "contacts": {
+  "email": "solutions@erietecinc.com",
+  "email_status": "官网 / 名录公开（X1-03 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "Facebook 官方页：ErieTec, Inc · 1432 E 12th St Erie · solutions@erietecinc.com",
+   "quote": "",
+   "url": "https://www.facebook.com/erietecinc/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "Crunchbase：ErieTec · 51–100 · erie@erietecinc.com",
+   "quote": "",
+   "url": "https://www.crunchbase.com/organization/erietec",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-03 补路径：留 C：ErieTec, Inc.（Erie PA；1958 起；51–100 人；电气控制 + 机械传动分销）→ 机电为主，交换机对位弱；邮箱已补 solutions@ / erie@erietecinc.com（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "留 C 储备，随群发节奏"
+ },
+ "deep": false,
+ "notes": "ErieTec, Inc.（原 Erie Bearings Co.）；1432 E 12th St, Erie, PA；+1 814 878 1500",
+ "draft_en": null
+}

@@ -1,0 +1,45 @@
+{
+ "code": "XC-M133",
+ "name": "Adcon Engineering（ACD/Adcon）",
+ "round": "X1-03",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "Adcon Engineering Co., Inc.：工业元件 / 传感 / 视觉 / 机柜分销，产品线含 EtherDevice DIN 导轨工业非管理交换机；财务负责人 Bill Raftry（allbiz 名录）；体量未知，官网陈旧",
+ "type_final": "分销（HMS/N-Tron·Red Lion 渠道）；Adcon Engineering Co., Inc.",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "☆ 工业元件 / 传感 / 视觉 / 机柜分销 20%：Adcon Engineering Co., Inc.（Stro",
+ "brands_seen": [],
+ "contacts": {
+  "email": "sales@adconengineering.com",
+  "email_status": "官网 / 名录公开（X1-03 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "官网产品页：Adcon Engineering · sales@adconengineering.com · 440.238.3915",
+   "quote": "",
+   "url": "https://www.adconengineering.com/vp_banner_p4_edge.htm",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "NDT.org 名录：Adcon Engineering Co., Inc. · 20102 Progress Dr · 线卡含 EtherDevice 5/8 口工业非管理交换机",
+   "quote": "",
+   "url": "https://www.ndt.org/vendor.asp?ObjectID=39255",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-03 补路径：☆ 工业元件 / 传感 / 视觉 / 机柜分销 20%：Adcon Engineering Co., Inc.（Strongsville OH 20102 Progress Dr；线卡含 EtherDevice DIN （等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "观察档 → 试单后转正"
+ },
+ "deep": false,
+ "notes": "Adcon Engineering Co., Inc.；20102 Progress Drive, Strongsville (Cleveland), OH 44149；+1 440 238 3915",
+ "draft_en": null
+}

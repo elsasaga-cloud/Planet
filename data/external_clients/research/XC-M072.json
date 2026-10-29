@@ -29,6 +29,20 @@
    "quote": "",
    "url": "http://btcatalogue.bg/katalog-firmi.aspx?comp=69&city=%D0%A1%D0%BE%D1%84%D0%B8%D1%8F&n=%D0%9A%D0%BE%D0%BC%D0%B8%D0%BA%D0%BE%D0%BD",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "登记 / 名录",
+   "claim": "finansi.bg：КОМИКОН ООД · ЕИК 131340703 · 2004 · 管理人 Александър Савов · КИД 2651 仪器制造",
+   "quote": "",
+   "url": "https://finansi.bg/komikon",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "登记 / 名录",
+   "claim": "papagal.bg：2021 营业额 357 000 лв · 资本 2 556 €",
+   "quote": "",
+   "url": "https://papagal.bg/eik/131340703/ca11",
+   "date": "2026-10-29"
   }
  ],
  "touch_status": "未触达（路径 2026-10-29 新补）",
@@ -40,6 +54,6 @@
   "angle": "已入 P 池 → 按巡检节奏首触"
  },
  "deep": false,
- "notes": "КОМИКОН ООД（Comicon Ltd.）；София 1715, ж.к. Младост 4, Битов комбинат ет.2；+359 2 974 43 24",
+ "notes": "КОМИКОН ООД（Comicon Ltd.）；София 1715, ж.к. Младост 4, Битов комбинат ет.2；+359 2 974 43 24；X1-02R 补证：ЕИК 131340703（2004-12-03）；ДДС BG131340703",
  "draft_en": null
 }

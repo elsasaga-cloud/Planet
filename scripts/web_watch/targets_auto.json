@@ -16,20 +16,20 @@
    "P"
   ],
   "stats": {
-   "customers": 1514,
+   "customers": 1531,
    "no_domain": 99,
-   "sources": 3002,
+   "sources": 3021,
    "kinds": {
     "sitemap": 624,
-    "html": 2150,
+    "html": 2169,
     "youtube_handle": 125,
     "rss": 103
    },
    "social_manual": 1118,
-   "snapshot_missing": 409,
+   "snapshot_missing": 426,
    "site_dead": 41,
-   "pool_customers": 285,
-   "pool_sources": 344
+   "pool_customers": 302,
+   "pool_sources": 363
   },
   "note": "离线生成（幂等）。精选源请改 targets.json；本文件由 discover.py 重新生成时会被覆盖。"
  },
@@ -40782,11 +40782,11 @@
    ],
    "manual": [],
    "pool": {
-    "档位": "○",
-    "入池": "正式",
+    "档位": "△",
+    "入池": "观察",
     "来源": "Saga",
     "区域组": "俄语区",
-    "标签": "ru_payment、prepay、reg_pending",
+    "标签": "ru_payment、prepay、legal_pending",
     "下次巡检": "2026-12-28"
    }
   },
@@ -41466,7 +41466,7 @@
     "入池": "正式",
     "来源": "External",
     "区域组": "四主区 + 波兰",
-    "标签": "industrial、reg_pending",
+    "标签": "industrial、fed_vendor",
     "下次巡检": "2026-12-28"
    }
   },
@@ -41516,7 +41516,7 @@
     "入池": "正式",
     "来源": "External",
     "区域组": "四主区 + 波兰",
-    "标签": "industrial、reg_pending",
+    "标签": "industrial",
     "下次巡检": "2026-12-28"
    }
   },
@@ -41541,7 +41541,7 @@
     "入池": "正式",
     "来源": "External",
     "区域组": "四主区 + 波兰",
-    "标签": "industrial、reg_pending",
+    "标签": "industrial",
     "下次巡检": "2026-12-28"
    }
   },
@@ -41566,7 +41566,7 @@
     "入池": "正式",
     "来源": "External",
     "区域组": "四主区 + 波兰",
-    "标签": "dc、reg_pending",
+    "标签": "dc",
     "下次巡检": "2026-12-28"
    }
   },
@@ -41616,7 +41616,7 @@
     "入池": "正式",
     "来源": "External",
     "区域组": "欧洲其他",
-    "标签": "industrial、reg_pending",
+    "标签": "industrial",
     "下次巡检": "2026-12-28"
    }
   },
@@ -41641,7 +41641,7 @@
     "入池": "正式",
     "来源": "External",
     "区域组": "欧洲其他",
-    "标签": "industrial、reg_pending",
+    "标签": "industrial",
     "下次巡检": "2026-12-28"
    }
   },
@@ -41662,11 +41662,11 @@
    ],
    "manual": [],
    "pool": {
-    "档位": "○",
-    "入池": "正式",
+    "档位": "☆",
+    "入池": "观察",
     "来源": "External",
     "区域组": "欧洲其他",
-    "标签": "industrial、oem_target、reg_pending",
+    "标签": "industrial、oem_target、micro",
     "下次巡检": "2026-12-28"
    }
   },
@@ -41691,7 +41691,7 @@
     "入池": "正式",
     "来源": "External",
     "区域组": "欧洲其他",
-    "标签": "industrial、reg_pending",
+    "标签": "industrial",
     "下次巡检": "2026-12-28"
    }
   },
@@ -41716,7 +41716,7 @@
     "入池": "正式",
     "来源": "External",
     "区域组": "欧洲其他",
-    "标签": "dc、reg_pending",
+    "标签": "dc、status_check",
     "下次巡检": "2026-12-28"
    }
   },
@@ -41866,7 +41866,7 @@
     "入池": "观察",
     "来源": "External",
     "区域组": "欧洲其他",
-    "标签": "industrial、reg_pending",
+    "标签": "industrial",
     "下次巡检": "2026-12-28"
    }
   },
@@ -41897,7 +41897,7 @@
     "入池": "观察",
     "来源": "External",
     "区域组": "欧洲其他",
-    "标签": "dc、reg_pending",
+    "标签": "dc",
     "下次巡检": "2026-12-28"
    }
   },
@@ -41923,6 +41923,443 @@
     "来源": "External",
     "区域组": "欧洲其他",
     "标签": "industrial、prepay、reg_pending",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-E085",
+   "name": "Racklive（ASA Computers, Inc. 数据中心事业部）",
+   "grade": "C",
+   "country": "美国",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://racklive.com/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "四主区 + 波兰",
+    "标签": "dc、reg_pending",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M151",
+   "name": "Power/mation",
+   "grade": "C",
+   "country": "美国",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://powermation.com/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "四主区 + 波兰",
+    "标签": "industrial、reg_pending",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M140",
+   "name": "CBT Company",
+   "grade": "C",
+   "country": "美国",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://cbtcompany.com/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "四主区 + 波兰",
+    "标签": "industrial、reg_pending",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M164",
+   "name": "TMMI, LLC（TMMI powered by GrayMatter）",
+   "grade": "C",
+   "country": "美国",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://tmmi.com/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "四主区 + 波兰",
+    "标签": "industrial、reg_pending",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M149",
+   "name": "Logic, Inc.",
+   "grade": "C",
+   "country": "美国",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://logic-control.com/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "四主区 + 波兰",
+    "标签": "industrial、reg_pending",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M153",
+   "name": "Process Technology, Inc.（PTI）",
+   "grade": "C",
+   "country": "美国",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://process-tech.com/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "四主区 + 波兰",
+    "标签": "industrial、reg_pending",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-C1449",
+   "name": "EFCO Electronics GmbH",
+   "grade": "C",
+   "country": "德国",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://efcotec.de/",
+     "note": "官网首页"
+    },
+    {
+     "id": "home_2",
+     "kind": "html",
+     "url": "https://shop.efcotec.de/",
+     "note": "第二域名首页（P 池巡检表）"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "四主区 + 波兰",
+    "标签": "industrial、reg_pending",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M096",
+   "name": "JAMPEL S.r.l.",
+   "grade": "C",
+   "country": "意大利",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://jampel.it/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "欧洲其他",
+    "标签": "industrial、reg_pending",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-C1431",
+   "name": "HOTEL CARE（Groupe TB6）",
+   "grade": "C",
+   "country": "法国",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://hotel-care.fr/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "欧洲其他",
+    "标签": "hospitality、reg_pending",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M126",
+   "name": "evolvit Solutions AB（原 Dialect Skövde）",
+   "grade": "C",
+   "country": "瑞典",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://evolvit.se/",
+     "note": "官网首页"
+    },
+    {
+     "id": "home_2",
+     "kind": "html",
+     "url": "https://shop.evolvit.se/",
+     "note": "第二域名首页（P 池巡检表）"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "○",
+    "入池": "正式",
+    "来源": "External",
+    "区域组": "欧洲其他",
+    "标签": "isp_channel、reg_pending",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M184",
+   "name": "Computer Products Professional Benelux B.V.",
+   "grade": "C",
+   "country": "荷兰",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://cppb.nl/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "☆",
+    "入池": "观察",
+    "来源": "External",
+    "区域组": "欧洲其他",
+    "标签": "industrial、micro、reg_pending",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M176",
+   "name": "Digital Controls",
+   "grade": "C",
+   "country": "英国",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://digitalcontrols.biz/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "☆",
+    "入池": "观察",
+    "来源": "External",
+    "区域组": "四主区 + 波兰",
+    "标签": "industrial、micro",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M133",
+   "name": "Adcon Engineering Co., Inc.",
+   "grade": "C",
+   "country": "美国",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://adconengineering.com/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "☆",
+    "入池": "观察",
+    "来源": "External",
+    "区域组": "四主区 + 波兰",
+    "标签": "industrial、reg_pending",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M163",
+   "name": "TCIC Inc.",
+   "grade": "C",
+   "country": "美国",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://tcicinc.com/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "☆",
+    "入池": "观察",
+    "来源": "External",
+    "区域组": "四主区 + 波兰",
+    "标签": "industrial、reg_pending",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M152",
+   "name": "Power Motion Sales Inc.",
+   "grade": "C",
+   "country": "美国",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://powermotionsales.com/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "☆",
+    "入池": "观察",
+    "来源": "External",
+    "区域组": "四主区 + 波兰",
+    "标签": "industrial、reg_pending",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M148",
+   "name": "Lakeland Engineering Equipment Company",
+   "grade": "C",
+   "country": "美国",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://lakelandengineering.com/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "☆",
+    "入池": "观察",
+    "来源": "External",
+    "区域组": "四主区 + 波兰",
+    "标签": "industrial、reg_pending",
+    "下次巡检": "2026-12-28"
+   }
+  },
+  {
+   "code": "XC-M141",
+   "name": "Clayton Engineering Company",
+   "grade": "C",
+   "country": "美国",
+   "layer": "P",
+   "site_status_2026_10_21": "unknown",
+   "sources": [
+    {
+     "id": "home",
+     "kind": "html",
+     "url": "https://claytonengineering.com/",
+     "note": "官网首页"
+    }
+   ],
+   "manual": [],
+   "pool": {
+    "档位": "☆",
+    "入池": "观察",
+    "来源": "External",
+    "区域组": "四主区 + 波兰",
+    "标签": "industrial、reg_pending",
     "下次巡检": "2026-12-28"
    }
   }

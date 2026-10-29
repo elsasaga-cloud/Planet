@@ -2,7 +2,7 @@
 
 > **现判 XC 暂不管** ｜ 来源 mikrotik-info `C-018`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-02 2026-10-29）→ 下一动作 不动
 >
-> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：☆ P 池 · 观察档**（闸 3 · G3 · 2026-10-29）：☆ 自动化方案 / 计算机设备分销 20%：Aspect（Skopje Orce Nikolov 190/3-1；20–49 人 / $1–5M）官网 + ZoomInfo 部分坐实（法人全名 / ЕМБС 待补）；Westermo Reseller；非 EU → 预付 100%；观察档；office@aspect.com.mk
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：☆ P 池 · 观察档**（闸 3 · G3 · 2026-10-29）：☆ 自动化方案 / 计算机设备分销 20%：Aspect（Skopje Orce Nikolov 190/3-1；20–49 人 / $1–5M）官网 + ZoomInfo 部分坐实（法人全名 / ЕМБС 待补）；Westermo Reseller；非 EU → 预付 100%；观察档；office@aspect.com.mk｜补证 X1-02R（2026-10-29）：同名 АСПЕКТ ДОО（软件）排除；ЕМБС 仍待补；同名排除：АСПЕКТ ДОО Скопје（ЕМБС 4390237，aspekt.com.mk，软件 / 计算机工程，11-ти Октомври 25）≠ 本户 aspect.com.mk（Orce Nikolov 190/3-1，自动化方案）→ 不强判，reg_pending 留
 
 ## 1. 初判与理由
 - 初判：**XC** — 来源库（mikrotik-info）已判 C（细分：B下放·无邮箱（群发触达不到）；依据：【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一）；Simon 口径「mik 的 C 不碰」→ 关仓前仅存档，不跟
@@ -63,5 +63,6 @@
 |---|---|---|---|---|
 | 官网 / 名录 | 官网 Contact：office@aspect.com.mk · Orce Nikolov 190/3-1 Skopje · +389 23 233 777 |  | https://www.aspect.com.mk/contact | 2026-10-29 |
 | 官网 / 名录 | ZoomInfo：Aspect · Skopje · 20–49 人 · $1–5M |  | https://www.zoominfo.com/c/aspect/459879493 | 2026-10-29 |
+| 登记 / 名录 | CompanyWall MK：АСПЕКТ ДОО Скопје · ЕМБС 4390237 · info@aspekt.com.mk（同名非本户） |  | https://www.companywall.com.mk/kompanija/%D0%B0%D1%81%D0%BF%D0%B5%D0%BA%D1%82-%D0%B4%D0%BE%D0%BE-%D1%81%D0%BA%D0%BE%D0%BF%D1%98%D0%B5/MMAY9YT0 | 2026-10-29 |
 
 - 备注：Aspect（Skopje）；Orce Nikolov 190/3-1, 1000 Skopje；+389 2 3233 777

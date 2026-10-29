@@ -1,0 +1,45 @@
+{
+ "code": "XC-M126",
+ "name": "Dialect Skövde（evolvit.se）",
+ "round": "X1-03",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "evolvit Solutions AB（曾用名 Dialect Skövde / Dialect Noracom）：IT 服务 / 系统集成 / 电信（51–100 人）；MikroTik 官方分销名录（shop.evolvit.se）；org.nr 一次检索未中",
+ "type_final": "分销（MikroTik 官方）；evolvit Solutions AB（曾用名 Dialect Skövde / Dialect Noracom）",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "○ IT 服务 / 系统集成 + 电信 25%：evolvit Solutions AB（Skövde Gesällga",
+ "brands_seen": [],
+ "contacts": {
+  "email": "info@evolvit.se",
+  "email_status": "官网 / 名录公开（X1-03 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "RIPE 会员页：evolvit Solutions AB · Gesallgatan 1 Skövde · kontakt@evolvit.se",
+   "quote": "",
+   "url": "https://www.ripe.net/membership/indices/data/se.telefackhandeln.html",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "Crunchbase：evolvit Solutions · 51–100 · 又名 Dialect Skövde · info@evolvit.se",
+   "quote": "",
+   "url": "https://www.crunchbase.com/organization/evolvit-solutions",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-03 补路径：○ IT 服务 / 系统集成 + 电信 25%：evolvit Solutions AB（Skövde Gesällgatan 1；51–100 人；MikroTik 官方分销名录）RIPE 会员页 + Crunchba（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "已入 P 池 → 按巡检节奏首触"
+ },
+ "deep": false,
+ "notes": "evolvit Solutions AB（曾用名 Dialect Skövde / Dialect Noracom）；Gesällgatan 1, 541 50 Skövde；+46 500 105 300",
+ "draft_en": null
+}

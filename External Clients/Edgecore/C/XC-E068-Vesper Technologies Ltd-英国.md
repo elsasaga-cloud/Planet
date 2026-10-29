@@ -2,7 +2,7 @@
 
 > **现判 XC 暂不管** ｜ 来源 Edgecore `XLSX-渠道伙伴库#148`（原评级 -） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-02 2026-10-29）→ 下一动作 不动
 >
-> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 数据中心服务器 / 网络 / 存储方案 25%：Vesper Technologies Ltd.（Stockport SK4 3EJ；NVIDIA 北欧之星伙伴，HGX / DGX；11–50 人；MD Allan Kaye）官网部分坐实（Companies House 号待补）；Edgecore 经销商 → DC 交换机对位（CENTEC 敲门砖）；主区 GB；info@vespertec.com
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 数据中心服务器 / 网络 / 存储方案 25%：Vesper Technologies Ltd.（Stockport SK4 3EJ；NVIDIA 北欧之星伙伴，HGX / DGX；11–50 人；MD Allan Kaye）官网部分坐实（Companies House 号待补）；Edgecore 经销商 → DC 交换机对位（CENTEC 敲门砖）；主区 GB；info@vespertec.com｜补证 X1-02R（2026-10-29）：Companies House 08962068 + VAT 坐实；VESPER TECHNOLOGIES LIMITED · Unit 5 Rugby Park, Bletchley Road, Stockport SK4 3EJ · PSC Allan James Kaye · <50 人
 
 ## 1. 初判与理由
 - 初判：**XC** — 来源库 2026-10-19 R16/R17 终局已删（旧 A-027）：DC/HPC 非接入层；按方案 §7 已删档案不复活，仅存档备查
@@ -67,5 +67,7 @@
 |---|---|---|---|---|
 | 官网 / 名录 | 官网新闻 2025-05-15：Vesper Technologies Ltd · Stockport SK4 3EJ · MD Allan Kaye · info@vespertec.com |  | https://vespertec.com/news/vesper-technologies-crowned-northern-european-star-performer-at-nvidia-partners-award/ | 2026-10-29 |
 | 官网 / 名录 | Crunchbase：Vesper Technologies Ltd. · Stockport · 11–50 · info@vespertec.com |  | https://www.crunchbase.com/organization/vesper-b846 | 2026-10-29 |
+| 登记 / 名录 | Company Check：VESPER TECHNOLOGIES LIMITED · 08962068 · 2014-03-27 · SIC 46510 |  | https://companycheck.co.uk/company/08962068/VESPER-TECHNOLOGIES-LIMITED | 2026-10-29 |
+| 登记 / 名录 | Endole：VAT GB184142514 · <50 人 · PSC Allan James Kaye |  | https://open.endole.co.uk/insight/company/08962068-vesper-technologies-limited | 2026-10-29 |
 
-- 备注：Vesper Technologies Ltd.；Units 5 Rugby Park, Bletchley Road, Stockport SK4 3EJ；+44 161 947 4321
+- 备注：Vesper Technologies Ltd.；Units 5 Rugby Park, Bletchley Road, Stockport SK4 3EJ；+44 161 947 4321；X1-02R 补证：Companies House 08962068（2014-03-27）；VAT GB184142514；SIC 46510

@@ -1,0 +1,45 @@
+{
+ "code": "XC-C1431",
+ "name": "Hotel Care",
+ "round": "X1-03",
+ "researched_at": "2026-10-29",
+ "alive": "2026-10-29 检索命中官网 / 名录（在线）",
+ "summary": "HOTEL CARE（Groupe TB6 子公司）：酒店 / 医疗机构 TV / WiFi / IPTV 网络基础设施设计与部署（Nice / Lyon / Paris）；TB6 集团（UBIC 视听集成 / AVS 视听批发，2007 起）；来源库评 A；SIREN 一次检索未中",
+ "type_final": "A类 — 酒店/医疗ICT专业分销+集成,Convergence网络150家公司；HOTEL CARE（Groupe TB6 子公司）",
+ "size": "",
+ "saga_line": "Saga STI 工业 / SmartByte 商用 PoE",
+ "fit": "○ 酒店 / 医疗机构 TV / WiFi / IPTV 网络集成 25%：HOTEL CARE（Mauguio 34 ",
+ "brands_seen": [],
+ "contacts": {
+  "email": "contact@hotel-care.fr",
+  "email_status": "官网 / 名录公开（X1-03 补路径）",
+  "kp": []
+ },
+ "evidence": [
+  {
+   "kind": "官网 / 名录",
+   "claim": "官网：HOTEL CARE · Meyreuil + Mauguio · contact@hotel-care.fr · TV / WiFi / IPTV 酒店与医疗",
+   "quote": "",
+   "url": "https://www.hotel-care.fr/",
+   "date": "2026-10-29"
+  },
+  {
+   "kind": "官网 / 名录",
+   "claim": "A Propos：Groupe TB6 子公司（UBIC / HOTEL CARE / AVS）· 总部 Mauguio",
+   "quote": "",
+   "url": "https://hotel-care.fr/index.php/about-us/",
+   "date": "2026-10-29"
+  }
+ ],
+ "touch_status": "未触达（路径 2026-10-29 新补）",
+ "saga_overlap": "无",
+ "grade_final": "C",
+ "grade_reason_final": "X1-03 补路径：○ 酒店 / 医疗机构 TV / WiFi / IPTV 网络集成 25%：HOTEL CARE（Mauguio 34 总部 + Meyreuil 13；Groupe TB6 子公司，集团 2007 起；Nice / L（等级不动，池位见 sieve_x）",
+ "next_move": {
+  "action": "不动",
+  "angle": "已入 P 池 → 按巡检节奏首触"
+ },
+ "deep": false,
+ "notes": "HOTEL CARE（Groupe TB6 子公司）；504 Rue de la Mourre, ZI Fréjorgues Est, 34130 Mauguio（总部）；Meyreuil 13590 分部；+33 4 42 65 17 50",
+ "draft_en": null
+}

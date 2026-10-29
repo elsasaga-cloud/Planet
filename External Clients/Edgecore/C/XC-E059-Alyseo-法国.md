@@ -2,7 +2,7 @@
 
 > **现判 XC 暂不管** ｜ 来源 Edgecore `XLSX-渠道伙伴库#108`（原评级 -） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-02 2026-10-29）→ 下一动作 不动
 >
-> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：☆ P 池 · 观察档**（闸 3 · G3 · 2026-10-29）：☆ 存储 / 虚拟化 / 基础设施集成商 25%：Alyseo（Saint-Sébastien-sur-Loire；Nexenta 伙伴；Edgecore 经销商名录）官网部分坐实（SIREN 待补）；数据中心对位一般（存储为主）→ 观察档；contact@ / sales@alyseo.com
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：☆ P 池 · 观察档**（闸 3 · G3 · 2026-10-29）：☆ 存储 / 虚拟化 / 基础设施集成商 25%：Alyseo（Saint-Sébastien-sur-Loire；Nexenta 伙伴；Edgecore 经销商名录）官网部分坐实（SIREN 待补）；数据中心对位一般（存储为主）→ 观察档；contact@ / sales@alyseo.com｜补证 X1-02R（2026-10-29）：SIREN 451 371 884 坐实（SARL €9k）；ALYSEO SARL · 资本 €9,000 · 2004-12-23 RCS Nantes · NAF 6202A IT 咨询 · 经理 Sébastien Scuiereb · Aytré 分部；关联 ALYSEO BOS SAS（软件，2022）
 
 ## 1. 初判与理由
 - 初判：**XC** — 来源库 2026-10-19 R16/R17 终局已删（旧 B-129）：微企业+方向迁移：注册资本 €9,000、约 8 人，业务转楼宇操作系统 WireBOS，关联子公司 ALYSEO BOS 2026-03 进入自愿清算，硬件采购非主业形态；按方案 §7 已删档案不复活，仅存档备查
@@ -68,5 +68,7 @@
 |---|---|---|---|---|
 | 官网 / 名录 | 官网 infra.alyseo.com Contact：1 rue de la Fonderie Saint-Sébastien-sur-Loire · contact@alyseo.com · +33 1 83 35 10 10 |  | https://infra.alyseo.com/contact/ | 2026-10-29 |
 | 官网 / 名录 | Nexenta 合作伙伴页：Alyseo · sales@alyseo.com · 存储 / 虚拟化集成商 |  | https://nexenta.com/country/france | 2026-10-29 |
+| 登记 / 名录 | societe.com：ALYSEO · SIREN 451 371 884 · SARL · 6202A · Sebastien SCUIEREB |  | https://www.societe.com/societe/alyseo-451371884.html | 2026-10-29 |
+| 登记 / 名录 | rubypayeur：资本 9 000 € · RCS Nantes 2004-12-23 |  | https://rubypayeur.com/societe/alyseo-451371884 | 2026-10-29 |
 
-- 备注：Alyseo；1 rue de la Fonderie, 44230 Saint-Sébastien-sur-Loire（Paris 电话）；+33 1 83 35 10 10
+- 备注：Alyseo；1 rue de la Fonderie, 44230 Saint-Sébastien-sur-Loire（Paris 电话）；+33 1 83 35 10 10；X1-02R 补证：SIREN 451 371 884；SIRET 451 371 884 00037；TVA FR29451371884
