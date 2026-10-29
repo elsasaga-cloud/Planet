@@ -1,6 +1,8 @@
 # XC-E010 · Team5 Technologies Pvt. Ltd. · 印度
 
 > **初判 XC 暂不管** ｜ 来源 Edgecore `A-049`（原评级 A，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-1399`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-1399 同一公司（经 team5tech.com）→ 随 Saga 档：keep_C（闸 1，印度 Team5 Tech（team5tech.com；从 10Gtek 买东西 = 光模块 / DAC）：本职线进口 → 留 C + dayjob_fit）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-1399，经 team5tech.com）→ 以 Saga 档为准，本条不单独跟

@@ -1,6 +1,8 @@
 # XC-E003 · Pine Networks · 法国
 
 > **初判 XC 暂不管** ｜ 来源 Edgecore `A-008`（原评级 A，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（随 Saga `SC-345`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-345 同一公司（经 pine-networks.com）→ 随 Saga 档：pool（闸 3，★ P 池正式入池（档位 ○）：○ DC 集成 25%（CENTEC 敲门砖）：Pine Networks（Garches；开放网络交钥匙集成 Edgecore / Adtran / UfiSpace；christophe@ 在表）部分坐实）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-345，经 pine-networks.com）→ 以 Saga 档为准，本条不单独跟

@@ -1,6 +1,8 @@
 # XC-M238 · Michal Stepanek / i4wifi 100MEGA Distribution s.r.o. · 捷克
 
 > **初判 XC 暂不管** ｜ 来源 mikrotik-info `C-173`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（随 Saga `SC-656`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-656 同一公司（经 100mega.cz）→ 随 Saga 档：pool（闸 3，★ P 池正式入池（档位 ★）：★ 大分销 20%：100MEGA Distribution s.r.o.（Brno；IČO 60707968；1994；捷克主要 IT 分销商）坐实；Planet 渠道 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔ =）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-656，经 100mega.cz）→ 以 Saga 档为准，本条不单独跟

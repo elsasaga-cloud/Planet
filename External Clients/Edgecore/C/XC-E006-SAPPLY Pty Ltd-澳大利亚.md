@@ -1,6 +1,8 @@
 # XC-E006 · SAPPLY Pty Ltd · 澳大利亚
 
 > **初判 XC 暂不管** ｜ 来源 Edgecore `A-019`（原评级 A，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-1285`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-1285 同一公司（经 sapply.com）→ 随 Saga 档：keep_C（闸 1，澳大利亚；表分 群发冷名单无回应；兴趣：产品比较杂 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-1285，经 sapply.com）→ 以 Saga 档为准，本条不单独跟

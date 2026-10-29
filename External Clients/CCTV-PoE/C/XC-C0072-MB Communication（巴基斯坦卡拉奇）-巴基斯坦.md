@@ -1,6 +1,8 @@
 # XC-C0072 · MB Communication（巴基斯坦卡拉奇） · 巴基斯坦
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-11.md`:125 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-3220`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-3220 同一公司（经 mbcommunication.com.pk）→ 随 Saga 档：keep_C（闸 1，巴基斯坦；WA 已加；兴趣：FS VC MC 网站是一个销售平台 价格标的比较高 → Simon 曾判不行；WA 路径在、无刚性 pass 证据 → 留 C（不主动碰））
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-3220，经 mbcommunication.com.pk）→ 以 Saga 档为准

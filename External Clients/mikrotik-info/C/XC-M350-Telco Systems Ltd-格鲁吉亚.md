@@ -1,6 +1,8 @@
 # XC-M350 · Telco Systems Ltd · 格鲁吉亚
 
 > **初判 XC 暂不管** ｜ 来源 mikrotik-info `C-285`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-1723`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-1723 同一公司（经 telco.ge）→ 随 Saga 档：keep_C（闸 1，格鲁吉亚 Telco.ge（CTC Union + 深圳 MC；大口 FS 名牌；无工业品；16 推 0 回）：MC 为主 + 16 推 0 回 → 留 C（储备））
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-1723，经 telco.ge）→ 以 Saga 档为准，本条不单独跟

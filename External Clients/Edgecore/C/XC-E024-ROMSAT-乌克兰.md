@@ -1,6 +1,8 @@
 # XC-E024 · ROMSAT · 乌克兰
 
 > **初判 XC 暂不管** ｜ 来源 Edgecore `B-055`（原评级 B，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-1940`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-1940 同一公司（经 romsat.ua）→ 随 Saga 档：keep_C（闸 1，乌克兰 Romsat / RCI（SFP / MC / 无源 自有 logo，大分销商）→ 乌克兰守界）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-1940，经 romsat.ua）→ 以 Saga 档为准，本条不单独跟

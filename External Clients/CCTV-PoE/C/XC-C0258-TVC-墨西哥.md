@@ -1,6 +1,8 @@
 # XC-C0258 · TVC · 墨西哥
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-3.md`:265（其分级 A类） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（随 Saga `SC-3130`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-3130 同一公司（经 tvc.mx）→ 随 Saga 档：pool（闸 3，★ P 池正式入池（档位 ★）：★ 墨西哥 · CCTV 大分销 20%（长线）：TVC en Línea.com, S.A. de C.V.（Monterrey；RFC TVC060802NE4；2000；201–500 人；蒙特雷 + ）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-3130，经 tvc.mx）→ 以 Saga 档为准

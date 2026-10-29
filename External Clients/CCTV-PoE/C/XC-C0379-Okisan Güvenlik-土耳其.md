@@ -1,6 +1,8 @@
 # XC-C0379 · Okisan Güvenlik · 土耳其
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-4.md`:231（其分级 B类） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（随 Saga `SC-2481`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-2481 同一公司（经 okisan.com）→ 随 Saga 档：pool（闸 3，★ P 池正式入池（档位 ★）：★ 进口商 · 分销 20%：Okisan Güvenlik Teknolojileri San. ve Tic. A.Ş.（1986；Şişli；Tiandy / Dahua 授权分销；11–50）部分坐实）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-2481，经 okisan.com）→ 以 Saga 档为准

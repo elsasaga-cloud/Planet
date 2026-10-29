@@ -1,6 +1,8 @@
 # XC-C0076 · Proscend（台湾/全球） · 中国台湾
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-11.md`:215 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-423`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-423 同一公司（经 proscend.com）→ 随 Saga 档：keep_C（闸 1，台湾；表分 综合分低；兴趣：工业FS MC EOC；跟进 9 次无回复 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-423，经 proscend.com）→ 以 Saga 档为准

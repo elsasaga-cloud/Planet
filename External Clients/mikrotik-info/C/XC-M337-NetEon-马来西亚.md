@@ -1,6 +1,8 @@
 # XC-M337 · NetEon · 马来西亚
 
 > **初判 XC 暂不管** ｜ 来源 mikrotik-info `C-272`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-1005`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-1005 同一公司（经 neteon.com.my）→ 随 Saga 档：keep_C（闸 1，马来西亚 NetEon (M) Sdn Bhd（neteon.com.my；参展商 7163，展位上放了三旺的交换机 + ORing bypass 工业 FS；手机在表）：进口中国同类 ✔ 有展会互动 ✔ 但四主区外非点名国 → 留 C（储）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-1005，经 neteon.com.my）→ 以 Saga 档为准，本条不单独跟

@@ -1,6 +1,8 @@
 # XC-E029 · Microtech Inc · 巴基斯坦
 
 > **初判 XC 暂不管** ｜ 来源 Edgecore `B-066`（原评级 B，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-2513`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-2513 同一公司（经 microtech.net.pk）→ 随 Saga 档：keep_C（闸 1，巴基斯坦 Microtech（microtech.net.pk；工业 FS / PoE，洪瑞商业 PoE / V-SOL；Elsa 线程 5 封：把 Saga 当买家回「Not Available」并发来自家 MikroTik 报价单）：互）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-2513，经 microtech.net.pk）→ 以 Saga 档为准，本条不单独跟

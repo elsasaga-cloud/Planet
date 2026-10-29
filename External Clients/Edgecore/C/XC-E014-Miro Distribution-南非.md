@@ -1,6 +1,8 @@
 # XC-E014 · Miro Distribution · 南非
 
 > **初判 XC 暂不管** ｜ 来源 Edgecore `B-009`（原评级 B，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（随 Saga `SC-298`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-298 同一公司（经 miro.co.za）→ 随 Saga 档：pool（闸 3，★ P 池正式入池（档位 ★）：★ 大分销 20%：MiRO Distribution（Centurion；Enterprise No. B2002068592；2002；VAT 9199666141；R25M+；Cambium / Ubi）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-298，经 miro.co.za）→ 以 Saga 档为准，本条不单独跟

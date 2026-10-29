@@ -1,6 +1,8 @@
 # XC-C0257 · SYSCOM (墨西哥) · 墨西哥
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-3.md`:249（其分级 A类） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（随 Saga `SC-1117`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-1117 同一公司（经 syscom.mx）→ 随 Saga 档：pool（闸 3，★ P 池正式入池（档位 ★）：★ 巨头分销 20%（长线）：SYSCOM = Sistemas y Servicios de Comunicación, S.A. de C.V.（Chihuahua；501–1000 人；电信 + 安防批）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-1117，经 syscom.mx）→ 以 Saga 档为准

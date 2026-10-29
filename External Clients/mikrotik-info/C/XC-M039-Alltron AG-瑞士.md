@@ -1,6 +1,8 @@
 # XC-M039 · Alltron AG · 瑞士
 
 > **初判 XC 暂不管** ｜ 来源 mikrotik-info `B-298`（原评级 B，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-2672`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-2672 同一公司（经 alltron.ch）→ 随 Saga 档：keep_C（闸 1，Alltron（alltron.ch；表内「智利」实为瑞士 → 国别待核；多品牌 PoE injector / switch 大分销）：巨头分销（Competec 集团）→ 留 C（巨头不永久 pass；瑞士 = 欧洲，日后可作长线））
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-2672，经 alltron.ch）→ 以 Saga 档为准，本条不单独跟

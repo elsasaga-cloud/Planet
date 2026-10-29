@@ -1,6 +1,8 @@
 # XC-C0084 · DCN Europe（波兰/欧洲） · 波兰
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-13.md`:48（其分级 B类） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-204`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-204 同一公司（经 dcneurope.eu）→ 随 Saga 档：keep_C（闸 1，DCN 神州数码网络（中国厂商，欧洲分支 dcneurope.eu），历史与其印尼分支成一单工业 FS → 同行厂商不开发；成单户留档）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-204，经 dcneurope.eu）→ 以 Saga 档为准

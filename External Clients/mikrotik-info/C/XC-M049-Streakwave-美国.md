@@ -1,6 +1,8 @@
 # XC-M049 · Streakwave · 美国
 
 > **初判 XC 暂不管** ｜ 来源 mikrotik-info `A-545`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（随 Saga `SC-2418`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-2418 同一公司（经 streakwave.com）→ 随 Saga 档：pool（闸 3，★ P 池正式入池（档位 ○）：○ 中型分销 20%：Streakwave Wireless, Inc.（San Jose 总部 + 4 分仓；无线 / 安防 / 网络增值分销）部分坐实；国别纠偏 加拿大 → 美国；对位 ✔ 主区 ✔ 体量）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-2418，经 streakwave.com）→ 以 Saga 档为准，本条不单独跟

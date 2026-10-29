@@ -1,6 +1,8 @@
 # XC-E020 · Starview Technologies Pte Ltd · 新加坡
 
 > **初判 XC 暂不管** ｜ 来源 Edgecore `B-029`（原评级 B，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-3154`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-3154 同一公司（经 starviewint.com）→ 随 Saga 档：keep_C（闸 1，新加坡 Starview International（starviewint.com / .net 均正常；Chan Hong Kek 具名；比较多无源产品 / PoE 配件 / MC；17 推 0 回；stop）：本职线无源 / MC +）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-3154，经 starviewint.com）→ 以 Saga 档为准，本条不单独跟

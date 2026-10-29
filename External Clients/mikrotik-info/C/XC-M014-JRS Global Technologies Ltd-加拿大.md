@@ -1,6 +1,8 @@
 # XC-M014 · JRS Global Technologies Ltd · 加拿大
 
 > **初判 XC 暂不管** ｜ 来源 mikrotik-info `A-445`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-336`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-336 同一公司（经 jrsgl.com）→ 随 Saga 档：keep_C（闸 1，印度；表分 低价值区域冷线索；兴趣：报的工业级的 → 无刚性 pass 证据；留 C）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-336，经 jrsgl.com）→ 以 Saga 档为准，本条不单独跟

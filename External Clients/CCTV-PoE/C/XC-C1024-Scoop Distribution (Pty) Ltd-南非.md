@@ -1,6 +1,8 @@
 # XC-C1024 · Scoop Distribution (Pty) Ltd · 南非
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `smartbyte/profile/scoop-distribution-south-africa.md`:1（其分级 A类） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（随 Saga `SC-644`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-644 同一公司（经 scoop.co.za）→ 随 Saga 档：pool（闸 3，★ P 池正式入池（档位 ★）：★ 批发分销 20%：Scoop Distribution (Pty) Ltd（Cape Town / Midrand；Reg 2001/007610/07；VAT 4830195584；Ubiquiti /）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-644，经 scoop.co.za）→ 以 Saga 档为准

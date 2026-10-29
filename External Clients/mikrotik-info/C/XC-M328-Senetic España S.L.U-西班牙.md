@@ -1,6 +1,8 @@
 # XC-M328 · Senetic España S.L.U. · 西班牙
 
 > **初判 XC 暂不管** ｜ 来源 mikrotik-info `C-263`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-937`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-937 同一公司（经 senetic.es）→ 随 Saga 档：keep_C（闸 1，西班牙 Senetic（senetic.es；跨国 IT 电商）：大型电商采购体系；未触达 → 留 C）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-937，经 senetic.es）→ 以 Saga 档为准，本条不单独跟

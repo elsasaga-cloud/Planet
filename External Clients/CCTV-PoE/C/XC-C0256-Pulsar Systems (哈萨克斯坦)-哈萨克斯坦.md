@@ -1,6 +1,8 @@
 # XC-C0256 · Pulsar Systems (哈萨克斯坦) · 哈萨克斯坦
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-3.md`:13（其分级 A类） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SB-037`）（闸 0 · DUP · 2026-10-29）：与 Saga SB-037（评级 B）同一公司（经 pulsar.kz）→ Saga A/B 档在跟，本条只留来源库事实，不单独入池
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SB-037，经 pulsar.kz）→ 以 Saga 档为准

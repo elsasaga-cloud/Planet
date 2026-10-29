@@ -1,6 +1,8 @@
 # XC-C1030 · IDIS Co., Ltd · 韩国
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `exhibition/other-exhibitors-batch.md`:455 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（随 Saga `SC-493`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-493 同一公司（经 idisglobal.com）→ 随 Saga 档：pool（闸 3，★ P 池正式入池（档位 ★）：★ 监控品牌龙头 · OEM 30%（长线）：(주)아이디스 IDIS Co., Ltd.（大田；사업자 314-86-25786；법인 160111-0302755；1997；409 人；KOSDAQ；대표）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-493，经 idisglobal.com）→ 以 Saga 档为准

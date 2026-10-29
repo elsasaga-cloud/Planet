@@ -1,6 +1,8 @@
 # XC-M002 · Jody Lemoine / Tishco Networks · 加拿大
 
 > **初判 XC 暂不管** ｜ 来源 mikrotik-info `A-008`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-357`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-357 同一公司（经 tishco.ca）→ 随 Saga 档：keep_C（闸 1，加拿大；表分 综合分低；兴趣：邮件中有详细的联系方式 1 (905) 378-1134 <+19053781134 → 光通信 / WDM / bypass 厂商名单内冷户（多为同行），未推送、零互动；留 C）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-357，经 tishco.ca）→ 以 Saga 档为准，本条不单独跟

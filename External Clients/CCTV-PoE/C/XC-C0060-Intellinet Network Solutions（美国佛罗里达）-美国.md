@@ -1,6 +1,8 @@
 # XC-C0060 · Intellinet Network Solutions（美国佛罗里达） · 美国
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-10.md`:215 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-258`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-258 同一公司（经 intellinetsolutions.com）→ 随 Saga 档：keep_C（闸 1，IC Intracom / Intellinet 中国办公室（archieliu@icintracom.com，2 次回信：MC / 工业 FS / SFP / PoE 商业品）→ 中国大陆规则（国内单只走私账）；品牌商采购口在国内 → o）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-258，经 intellinetsolutions.com）→ 以 Saga 档为准

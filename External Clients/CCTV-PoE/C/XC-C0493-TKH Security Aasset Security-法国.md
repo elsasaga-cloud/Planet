@@ -1,6 +1,8 @@
 # XC-C0493 · TKH Security / Aasset Security · 法国
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-5.md`:388 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-093`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-093 同一公司（经 tkhsecurity.com）→ 随 Saga 档：keep_C（闸 1，TKH Security（荷兰上市 TKH Group，多国办事处）→ 上市集团体量过大；25 推 0 回）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-093，经 tkhsecurity.com）→ 以 Saga 档为准

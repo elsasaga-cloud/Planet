@@ -1,6 +1,8 @@
 # XC-M300 · Rexel USA · 美国
 
 > **初判 XC 暂不管** ｜ 来源 mikrotik-info `C-235`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-2757`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-2757 同一公司（经 rexelusa.com）→ 随 Saga 档：keep_C（闸 1，美国；表分 用户判定不行/不相关；兴趣：redlion → Simon 曾判不行 / 不相关；无刚性 pass 证据、企业邮箱域正常 → 留 C（不主动碰，除非出现新信号））
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-2757，经 rexelusa.com）→ 以 Saga 档为准，本条不单独跟

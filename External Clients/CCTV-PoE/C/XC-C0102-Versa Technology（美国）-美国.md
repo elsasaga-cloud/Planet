@@ -1,6 +1,8 @@
 # XC-C0102 · Versa Technology（美国） · 美国
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-15.md`:182 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-253`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-253 同一公司（经 versatek.com）→ 随 Saga 档：keep_C（闸 1，Versa Technology（AETEK 美国伙伴）—— Simon T03 规则：Versa = C 不再回访；规则性留 C，不是永久 pass）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-253，经 versatek.com）→ 以 Saga 档为准

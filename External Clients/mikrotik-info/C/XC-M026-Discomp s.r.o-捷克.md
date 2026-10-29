@@ -1,6 +1,8 @@
 # XC-M026 · Discomp s.r.o. · 捷克
 
 > **初判 XC 暂不管** ｜ 来源 mikrotik-info `A-495`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（随 Saga `SC-1335`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-1335 同一公司（经 discomp.cz）→ 随 Saga 档：pool（闸 3，★ P 池正式入池（档位 ★）：★ 中型分销 20%：DISCOMP s.r.o.（25236792；Plzeň 1999；50–99 人；Planet 渠道；具名 Dan Pacanda / Milan Harmáček）坐实；对位 ✔ ）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-1335，经 discomp.cz）→ 以 Saga 档为准，本条不单独跟

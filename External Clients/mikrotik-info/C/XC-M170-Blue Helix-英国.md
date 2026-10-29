@@ -1,6 +1,8 @@
 # XC-M170 · Blue Helix · 英国
 
 > **初判 XC 暂不管** ｜ 来源 mikrotik-info `C-105`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：☆ P 池 · 观察档**（随 Saga `SC-2728`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-2728 同一公司（经 bluehelix.co.uk）→ 随 Saga 档：pool_watch（闸 3，☆ P 池观察档（档位 △ = 微型 / 自用 / 个体 / 存疑，试单或回访一次后定）：△ 观察档 · 分销 20%：Blue Helix Limited（CH 04836349；AMG / ComNet / D-Link 分销；28 人）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-2728，经 bluehelix.co.uk）→ 以 Saga 档为准，本条不单独跟

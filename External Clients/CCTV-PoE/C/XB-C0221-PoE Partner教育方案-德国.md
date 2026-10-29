@@ -1,6 +1,8 @@
 # XB-C0221 · PoE Partner教育方案 · 德国
 
 > **现判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-29.md`:112 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W3-R06 2026-10-28）→ 下一动作 并线
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `XB-C0114`）（闸 0 · DUP · 2026-10-29）：第 2 步研究卡：与 XB-C0114 同一公司 → 并线，随主档，不单独判
 
 ## 1. 初判与理由
 - 初判：**XB** — 主攻区渠道型买家，但来源库只给了官网/—，没有邮箱 → 先 XB，补到邮箱再升

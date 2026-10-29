@@ -1,6 +1,8 @@
 # XC-M068 · Alpha Metronik Ltd · 乌克兰
 
 > **初判 XC 暂不管** ｜ 来源 mikrotik-info `C-003`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-1044`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-1044 同一公司（经 alfa-metronik.ua）→ 随 Saga 档：keep_C（闸 1，乌克兰；表分 守界：乌克兰；兴趣：工业FS MC POE 串口 旁路 有很多O-ring的产品 → 守界行业（军工 / 轨道 / 公共部门 / 关键基础设施）：不做但不 pass；留 C）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-1044，经 alfa-metronik.ua）→ 以 Saga 档为准，本条不单独跟

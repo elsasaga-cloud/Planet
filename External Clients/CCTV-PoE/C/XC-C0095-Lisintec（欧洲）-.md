@@ -1,6 +1,8 @@
 # XC-C0095 · Lisintec（欧洲） · 
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-15.md`:38 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-2829`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-2829 同一公司（经 lisintec.com）→ 随 Saga 档：keep_C（闸 1，危地马拉 Lisintec（商业 PoE 自有 logo，ONV / Witek）→ 区域外贴牌渠道；退信；Simon 判不行）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-2829，经 lisintec.com）→ 以 Saga 档为准

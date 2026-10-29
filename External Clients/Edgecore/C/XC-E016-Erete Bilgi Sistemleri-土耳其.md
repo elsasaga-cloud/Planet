@@ -1,6 +1,8 @@
 # XC-E016 · Erete Bilgi Sistemleri · 土耳其
 
 > **初判 XC 暂不管** ｜ 来源 Edgecore `B-016`（原评级 B，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SB-867`）（闸 0 · DUP · 2026-10-29）：与 Saga SB-867（评级 B）同一公司（经 erete.com.tr）→ Saga A/B 档在跟，本条只留来源库事实，不单独入池
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SB-867，经 erete.com.tr）→ 以 Saga 档为准，本条不单独跟

@@ -1,6 +1,8 @@
 # XC-C0053 · Viễn Thông Xanh（河内） · 越南
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-10.md`:20 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-985`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-985 同一公司（经 vienthongxanh.vn）→ 随 Saga 档：keep_C（闸 1，越南 Viễn Thông Xanh（vienthongxanh.vn；商业 PoE 主要是光网视 ONV 的）：进口中国同类 ✔ 但四主区外非点名国 → 留 C（储备））
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-985，经 vienthongxanh.vn）→ 以 Saga 档为准

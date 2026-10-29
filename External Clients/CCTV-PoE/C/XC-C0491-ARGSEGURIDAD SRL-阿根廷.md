@@ -1,6 +1,8 @@
 # XC-C0491 · ARGSEGURIDAD SRL · 阿根廷
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-5.md`:358 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-2836`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-2836 同一公司（经 argseguridad.com）→ 随 Saga 档：keep_C（闸 1，阿根廷 ArgSeguridad（argseguridad.com；卖深圳某牌商业 PoE；官网 WA +54 9 11 6306 5885；1 推）：进口中国同类 ✔ 但阿根廷无先例 → 留 C（储备））
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-2836，经 argseguridad.com）→ 以 Saga 档为准

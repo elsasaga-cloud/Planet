@@ -1,6 +1,8 @@
 # XC-C0886 · CP Plus / Aditya Infotech（印度） · 印度
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-9.md`:17 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-1693`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-1693 同一公司（经 cpplusworld.com）→ 随 Saga 档：keep_C（闸 1，印度 cpplusworld.com（CP PLUS 品牌站；商业 PoE / 工业 FS）：= Aditya Infotech / CP PLUS（SC-1042，闸 2 第 130 批 P 池候选）同主体 → 并入，留 C 避免双发）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-1693，经 cpplusworld.com）→ 以 Saga 档为准

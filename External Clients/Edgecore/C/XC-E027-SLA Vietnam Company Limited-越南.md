@@ -1,6 +1,8 @@
 # XC-E027 · SLA Vietnam Company Limited · 越南
 
 > **初判 XC 暂不管** ｜ 来源 Edgecore `B-061`（原评级 B，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-594`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-594 同一公司（经 sla.vn）→ 随 Saga 档：keep_C（闸 1，越南；WA 已加；兴趣：很多有名牌子产品的分销 789 708807 已加 少发Whatsapp；买丰润达的商业POE；跟进 1 次无回复 → 冷名单无回应，WA 路径在 → 不刚性；留 C 储备）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-594，经 sla.vn）→ 以 Saga 档为准，本条不单独跟

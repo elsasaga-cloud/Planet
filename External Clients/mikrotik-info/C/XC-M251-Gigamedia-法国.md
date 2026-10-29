@@ -1,6 +1,8 @@
 # XC-M251 · Gigamedia · 法国
 
 > **初判 XC 暂不管** ｜ 来源 mikrotik-info `C-186`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-2699`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-2699 同一公司（经 gigamedia.net）→ 随 Saga 档：keep_C（闸 1，意大利 Rexel Italia（Gigamedia 为其自有品牌商业 PoE）→ Rexel = 全球电气分销巨头：自有品牌有既定采购体系，按 U117 不 pass；留 C（oem 线索备查））
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-2699，经 gigamedia.net）→ 以 Saga 档为准，本条不单独跟

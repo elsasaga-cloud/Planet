@@ -1,6 +1,8 @@
 # XC-C0189 · PBTech（新西兰） · 新西兰
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-23.md`:26 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-304`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-304 同一公司（经 pbtech.co.nz）→ 随 Saga 档：keep_C（闸 1，新西兰 PB Tech（pbtech.com / pbtech.co.nz；大型 IT 零售电商，很多牌子）：大平台；未触达 → 留 C）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-304，经 pbtech.co.nz）→ 以 Saga 档为准

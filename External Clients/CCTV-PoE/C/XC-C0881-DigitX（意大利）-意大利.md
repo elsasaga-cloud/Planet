@@ -1,6 +1,8 @@
 # XC-C0881 · DigitX（意大利） · 意大利
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-8.md`:113 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（随 Saga `SC-2941`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-2941 同一公司（经 digitx.it）→ 随 Saga 档：pool（闸 3，★ P 池正式入池（档位 ○）：○ 工业 B2B 电商 + 自有商标 · OEM 30%：Lastella Trade S.r.l. = digitX.it（Funo di Argelato BO；P.I. 03695681209 / RE）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-2941，经 digitx.it）→ 以 Saga 档为准

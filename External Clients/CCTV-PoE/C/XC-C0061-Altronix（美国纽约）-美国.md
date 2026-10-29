@@ -1,6 +1,8 @@
 # XC-C0061 · Altronix（美国纽约） · 美国
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-10.md`:224 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-098`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-098 同一公司（经 altronix.com）→ 随 Saga 档：keep_C（闸 1，美国 Altronix：自研自产 PoE / EoC 交换机与安防电源品牌 → 同行 / 自研厂商；未触达）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-098，经 altronix.com）→ 以 Saga 档为准

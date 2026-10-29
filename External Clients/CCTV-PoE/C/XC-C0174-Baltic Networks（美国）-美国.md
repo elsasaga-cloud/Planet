@@ -1,6 +1,8 @@
 # XC-C0174 · Baltic Networks（美国） · 美国
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-22.md`:21 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（随 Saga `SC-562`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-562 同一公司（经 balticnetworks.com）→ 随 Saga 档：pool（闸 3，★ P 池正式入池（档位 ○）：○ 分销 20%：Baltic Networks（Lisle IL；2005；约 9 人；$6M；WISP 增值分销 50+ 厂牌）部分坐实（IL SoS 未取）；主区 ✔ 分销主体 ✔ 对位 ✔ 坐实（名录）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-562，经 balticnetworks.com）→ 以 Saga 档为准

@@ -47,6 +47,19 @@ def load_overrides():
     return json.load(open(p, encoding='utf-8')) if os.path.exists(p) else {}
 
 
+def load_sieve_x():
+    # External XC 三闸筛选状态（scripts/external_clients/sieve_x.py → data/external_clients/sieve_x.json）
+    p = os.path.join(DATA, 'sieve_x.json')
+    d = json.load(open(p, encoding='utf-8')) if os.path.exists(p) else {}
+    return {k: v for k, v in d.items() if k != '_meta'}
+
+
+SX = {}
+SX_LABEL = {'pass_final': '⛔ 已过筛 · 永久 pass', 'keep_C': '留 XC 储备', 'candidate': '闸 2 候选', 'pool_candidate': 'P 池候选',
+            'pool': '★ P 池 · 正式入池', 'pool_watch': '☆ P 池 · 观察档'}
+SX_PREFIX = {'pass_final': '⛔ ', 'pool': '★ ', 'pool_watch': '☆ ', 'candidate': '☆ ', 'pool_candidate': '☆ '}
+
+
 def final_grade(r, ov, cards):
     """优先级：Simon 人工改级 overrides.json > 第 2 步研究卡 grade_final > 导入初判。"""
     o = ov.get(r['code'])
@@ -116,6 +129,13 @@ def render_record(r, repo, product_line, src_desc, ov, cards=None):
     if o:
         head.insert(1, f"人工改级 {o['date']}：{o['grade']}（{o['reason']}）")
     lines.append('> ' + ' ｜ '.join(head))
+    sv = SX.get(code)
+    if sv:
+        lab = SX_LABEL.get(sv.get('verdict'), sv.get('verdict'))
+        tail = ' —— 不再研究 / 不群发 / 不监控；撤销只在客户主动找上门时由 Simon 拍板' if sv.get('verdict') == 'pass_final' else ''
+        dup = f"（随 Saga `{sv['dup_of']}`）" if sv.get('dup_of') else ''
+        lines.append('>')
+        lines.append(f"> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：{lab}**{dup}（闸 {sv.get('gate')} · {sv.get('rule')} · {sv.get('date')}）：{sv.get('reason')}{tail}")
     lines.append('')
     lines.append('## 1. 初判与理由')
     lines.append(f"- 初判：**X{g}** — {r['grade_reason']}")
@@ -271,6 +291,7 @@ def render_record(r, repo, product_line, src_desc, ov, cards=None):
 def main():
     ov = load_overrides()
     cards = all_cards()
+    SX.update(load_sieve_x())
     os.makedirs(OUT, exist_ok=True)
     summary = []
     for fn, repo, letter, product_line, src_desc in REPOS:
@@ -298,7 +319,7 @@ def main():
             with open(os.path.join(base, rel), 'w', encoding='utf-8') as f:
                 f.write(render_record(r, repo, product_line, src_desc, ov, cards))
             live = [e['addr'] for e in r['emails'] if e['status'] != '停用']
-            idx_rows.append((f"[{r['code']}]({rel.replace(' ', '%20')})", r.get('src_code') or f"{r['src_path'].split('/')[-1][:18]}:{r.get('src_line', '')}", r['name'], r['country_zh'], (r.get('type') or '')[:28],
+            idx_rows.append((SX_PREFIX.get((SX.get(r['code']) or {}).get('verdict'), '') + f"[{r['code']}]({rel.replace(' ', '%20')})", r.get('src_code') or f"{r['src_path'].split('/')[-1][:18]}:{r.get('src_line', '')}", r['name'], r['country_zh'], (r.get('type') or '')[:28],
                              f"X{g}" + ('·研' if r['code'] in cards else ''), (cards[r['code']]['grade_reason_final'][:40] if r['code'] in cards else r['grade_reason'][:40]), live[0] if live else ('（停用）' + r['emails'][0]['addr'] if r['emails'] else '—'),
                              '是' if r.get('kp_named') else '—', r['saga_dup']['code'] if r.get('saga_dup') else '—',
                              (r['touch']['最后'] + ' 去' + r['touch']['去信'] + '/来' + r['touch']['来信']) if r.get('touch') else '—'))
@@ -325,6 +346,7 @@ def main():
         print(repo, dict(cnt), 'deleted', len(deleted), 'researched', researched)
     top = ['# External Clients · 总索引', '',
            '外部三仓（Edgecore / mikrotik-info / CCTV-PoE）客户全量进库。四步：① 全量导入（本页）→ ② 逐户深研定级 XA/XB/XC → ③ 跟进（与 S 箱群发对账）→ ④ 加厚/KP。方案：`docs/external_repos/External_Clients_方案草案_2026-10-27.md`；通读：`docs/external_repos/通读记录_2026-10-27.md`。',
+           '', f"- C 池三闸筛选（External 同法，与 Saga C 同池；`scripts/external_clients/sieve_x.py` → `data/external_clients/sieve_x.json`）：{Counter(v.get('verdict') for v in SX.values()).get('pass_final', 0)} 户 ⛔ 永久 pass（闸 0 刚性机筛：无任何联系路径的终端触点 / 市场注记 / 竞品条目），{sum(1 for v in SX.values() if v.get('dup_of'))} 户与 Saga 重叠随 Saga 档；索引编号前缀 ⛔ / ★ / ☆。" if SX else '',
            '', '## 数量（现判 = 人工改级 > 研究卡 > 导入初判）', '', '| 库 | 导入 | XA | XB | XC | 已研究 | 剔除大陆 | 快照 | 索引 |', '|---|---|---|---|---|---|---|---|---|']
     for s in summary:
         if s[1] is None:

@@ -1,6 +1,8 @@
 # XC-C1197 · RAD Data Communications · 以色列
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:3875（其分级 B类） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-424`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-424 同一公司（经 rad.com）→ 随 Saga 档：keep_C（闸 1，以色列 / 澳大利亚 RAD（rad.com；电信接入巨头，光旁路开关）：巨头 + bypass Saga 不供；群发 22 次 0 回 → 留 C）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-424，经 rad.com）→ 以 Saga 档为准

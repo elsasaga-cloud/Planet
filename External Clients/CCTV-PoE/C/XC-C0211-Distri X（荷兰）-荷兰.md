@@ -1,6 +1,8 @@
 # XC-C0211 · Distri X（荷兰） · 荷兰
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-25.md`:37 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-1491`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-1491 同一公司（经 distri-x.nl）→ 随 Saga 档：keep_C（闸 1，荷兰 Distri-X（问工业 PoE 带 NAT = L3 功能，Saga 工业线无；表内标不再跟进 / Spam 为我方备注）→ 不刚性；留 C）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-1491，经 distri-x.nl）→ 以 Saga 档为准

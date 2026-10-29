@@ -1,6 +1,8 @@
 # XC-M046 · IEI Technology USA Corp. · 美国
 
 > **初判 XC 暂不管** ｜ 来源 mikrotik-info `B-352`（原评级 B，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-176`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-176 同一公司（经 ieiworld.com）→ 随 Saga 档：keep_C（闸 1，台湾；表分 同行/台湾厂商；兴趣：有marvell交换机 其他国家有分公司；跟进 5 次无回复；研：台湾工业电脑厂商（同行） → 同行 / 自有品牌厂商，非渠道客户；留 C）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-176，经 ieiworld.com）→ 以 Saga 档为准，本条不单独跟

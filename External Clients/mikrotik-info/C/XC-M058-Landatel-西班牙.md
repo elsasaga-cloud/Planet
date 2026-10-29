@@ -1,6 +1,8 @@
 # XC-M058 · Landatel · 西班牙
 
 > **初判 XC 暂不管** ｜ 来源 mikrotik-info `A-350`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：⛔ 已过筛 · 永久 pass**（随 Saga `SC-009`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-009 同一公司（经 landatel.com）→ 随 Saga 档：pass_final（闸 1，西班牙 Landatel（Ubiquiti / MikroTik 老牌分销商）2026-05 宣布因业务不可持续关闭并清算库存（调研 JSON：公司已停业，Inactiva）→ 主体消失） —— 不再研究 / 不群发 / 不监控；撤销只在客户主动找上门时由 Simon 拍板
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-009，经 landatel.com）→ 以 Saga 档为准，本条不单独跟

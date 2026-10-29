@@ -1,6 +1,8 @@
 # XC-C1220 · CCTV Global London · 英国
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:6523 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SB-975`）（闸 0 · DUP · 2026-10-29）：与 Saga SB-975（评级 B）同一公司（经 cctv-global.co.uk）→ Saga A/B 档在跟，本条只留来源库事实，不单独入池
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SB-975，经 cctv-global.co.uk）→ 以 Saga 档为准

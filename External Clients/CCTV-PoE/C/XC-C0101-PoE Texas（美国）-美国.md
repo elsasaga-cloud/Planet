@@ -1,6 +1,8 @@
 # XC-C0101 · PoE Texas（美国） · 美国
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-15.md`:174（其分级 B类） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（随 Saga `SC-2255`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-2255 同一公司（经 poetexas.com）→ 随 Saga 档：pool（闸 3，★ P 池正式入池（档位 ★）：★ 自有品牌 · OEM 30%：PoE Texas（Austin 2011；约 10 人；自有 PoE 配件线；CEO tandrews@ / CTO jherbst@ 都在表）部分坐实（州号未取）；自有品）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-2255，经 poetexas.com）→ 以 Saga 档为准

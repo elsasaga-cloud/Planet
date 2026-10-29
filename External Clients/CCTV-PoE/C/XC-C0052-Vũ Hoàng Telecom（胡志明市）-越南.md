@@ -1,6 +1,8 @@
 # XC-C0052 · Vũ Hoàng Telecom（胡志明市） · 越南
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-10.md`:9 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-989`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-989 同一公司（经 vuhoangtelecom.vn）→ 随 Saga 档：keep_C（闸 1，越南 Vũ Hoàng Telecom（vuhoangtelecom.vn；MC / SFP / switch 好几个国内牌子）：进口中国同类 ✔ 但四主区外非点名国 → 留 C（储备））
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-989，经 vuhoangtelecom.vn）→ 以 Saga 档为准

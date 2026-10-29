@@ -1,6 +1,8 @@
 # XC-C0077 · NVT Phybridge（全球） · 加拿大
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-11.md`:221（其分级 A类） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-090`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-090 同一公司（经 nvtphybridge.com）→ 随 Saga 档：keep_C（闸 1，美国；表分 同行/自研；兴趣：好几个系列的产品 PoE分销；跟进 11 次无回复；研：自研长距 PoE 交换机厂商（同行） → 同行 / 自有品牌厂商，非渠道客户；留 C）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-090，经 nvtphybridge.com）→ 以 Saga 档为准

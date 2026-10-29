@@ -1,6 +1,8 @@
 # XC-C0073 · Omnitron Systems（美国加州） · 美国
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-11.md`:159 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-091`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-091 同一公司（经 omnitron-systems.com）→ 随 Saga 档：keep_C（闸 1，美国；表分 同行/自研；兴趣：工业switch；跟进 9 次无回复；研：工业交换机/MC 自研制造商（同行） → 同行 / 自有品牌厂商，非渠道客户；留 C）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-091，经 omnitron-systems.com）→ 以 Saga 档为准

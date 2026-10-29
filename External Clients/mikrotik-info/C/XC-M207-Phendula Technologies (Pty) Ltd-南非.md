@@ -1,6 +1,8 @@
 # XC-M207 · Phendula Technologies (Pty) Ltd. · 南非
 
 > **初判 XC 暂不管** ｜ 来源 mikrotik-info `C-142`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-638`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-638 同一公司（经 phendulatech.co.za）→ 随 Saga 档：keep_C（闸 1，南非；表分 低价值区域冷线索；兴趣：工业FS MC 大口FS PoE SFP 卖好几个牌子的产品；跟进 17 次无回复 → 无刚性 pass 证据；留 C）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-638，经 phendulatech.co.za）→ 以 Saga 档为准，本条不单独跟

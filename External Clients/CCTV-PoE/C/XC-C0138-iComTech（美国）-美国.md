@@ -1,6 +1,8 @@
 # XC-C0138 · iComTech（美国） · 美国
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-18.md`:251 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-813`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-813 同一公司（经 icomtechinc.com）→ 随 Saga 档：keep_C（闸 1，美国；表分 群发冷名单无回应；兴趣：Perle → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-813，经 icomtechinc.com）→ 以 Saga 档为准

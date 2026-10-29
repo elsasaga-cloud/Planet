@@ -1,6 +1,8 @@
 # XC-C0313 · Techland BD (孟加拉) · 孟加拉
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-35.md`:256 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-1821`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-1821 同一公司（经 techlandbd.com）→ 随 Saga 档：keep_C（闸 1，孟加拉国；表分 群发冷名单无回应；兴趣：全线产品 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-1821，经 techlandbd.com）→ 以 Saga 档为准

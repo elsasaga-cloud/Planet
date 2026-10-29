@@ -1,6 +1,8 @@
 # XC-M028 · Pride · 摩尔多瓦
 
 > **初判 XC 暂不管** ｜ 来源 mikrotik-info `B-211`（原评级 B，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-675`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-675 同一公司（经 pride.md）→ 随 Saga 档：keep_C（闸 1，摩尔多瓦 PRIDE SYSTEM SRL（pride.md；分销 / 批发，2011 国际站询 D-Link PoE 管理型）：名牌专营 + 零互动 → 留 C（储备））
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-675，经 pride.md）→ 以 Saga 档为准，本条不单独跟

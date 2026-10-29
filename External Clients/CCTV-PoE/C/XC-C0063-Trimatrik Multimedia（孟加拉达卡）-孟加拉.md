@@ -1,6 +1,8 @@
 # XC-C0063 · Trimatrik Multimedia（孟加拉达卡） · 孟加拉
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-11.md`:9 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：☆ P 池 · 观察档**（随 Saga `SC-2891`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-2891 同一公司（经 trimatrikbd.com）→ 随 Saga 档：pool_watch（闸 3，☆ P 池观察档（档位 △ = 微型 / 自用 / 个体 / 存疑，试单或回访一次后定）：△ 观察档 · 孟加拉贴牌 CCTV 店 OEM 30% + 预付 100%：Trimatrik Multimedia（Dhaka Uttara + ）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-2891，经 trimatrikbd.com）→ 以 Saga 档为准

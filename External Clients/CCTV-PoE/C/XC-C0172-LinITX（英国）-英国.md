@@ -1,6 +1,8 @@
 # XC-C0172 · LinITX（英国） · 英国
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-22.md`:9 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-845`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-845 同一公司（经 linitx.com）→ 随 Saga 档：keep_C（闸 1，英国；表分 群发冷名单无回应；兴趣：Tycon → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-845，经 linitx.com）→ 以 Saga 档为准

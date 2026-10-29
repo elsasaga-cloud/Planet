@@ -1,6 +1,8 @@
 # XC-C0081 · Advice（泰国） · 泰国
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-12.md`:93 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-2847`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-2847 同一公司（经 advice.co.th）→ 随 Saga 档：keep_C（闸 1，泰国 Advice（全国 IT 连锁零售，MC 商品页）→ 零售体量大但非 OEM 采购口；退信；9 推 0 回；Simon 判不行）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-2847，经 advice.co.th）→ 以 Saga 档为准

@@ -1,6 +1,8 @@
 # XC-M029 · Intellcom Group Ltd · 格鲁吉亚
 
 > **初判 XC 暂不管** ｜ 来源 mikrotik-info `B-222`（原评级 B，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SB-313`）（闸 0 · DUP · 2026-10-29）：与 Saga SB-313（评级 B）同一公司（经 intellcom.net）→ Saga A/B 档在跟，本条只留来源库事实，不单独入池
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SB-313，经 intellcom.net）→ 以 Saga 档为准，本条不单独跟

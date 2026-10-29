@@ -1,6 +1,8 @@
 # XC-C0197 · Techaya（以色列） · 以色列
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-23.md`:151 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `SC-082`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-082 同一公司（经 techaya.com）→ 随 Saga 档：keep_C（闸 1，以色列 Techaya：军用加固以太网交换机设计制造商 → 军工守界 + 厂商；16 推 0 回）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-082，经 techaya.com）→ 以 Saga 档为准
