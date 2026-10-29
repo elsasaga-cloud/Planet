@@ -2,12 +2,15 @@
 
 > **评级 C**　|　美国　|　档案编号 `SC-562`　|　优先级 —　|　状态：已推送 9 次·未回复
 >
+> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：美国 Baltic Networks（balticnetworks.com；很多牌子、工业 FS / SFP = 北美无线 / 网络分销主体）：主区 + 分销主体 + 对位 ✔；9 推 0 回 → 闸 2 查底数（冷户四条待坐实）
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 9 次（2023-02-16 → 2023-10-16）　|　**所在清单**：群发(已重新审核/一般 常规)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-562
 rating: C
 rating_auto: C
+sieve: candidate  # 闸 1 G1 2026-10-29
 score: 19
 country: 美国
 region: 北美
@@ -25,7 +28,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -149,8 +152,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 19）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 19）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

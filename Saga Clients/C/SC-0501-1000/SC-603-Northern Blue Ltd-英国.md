@@ -2,12 +2,15 @@
 
 > **评级 C**　|　英国　|　档案编号 `SC-603`　|　优先级 —　|　状态：已推送 17 次·未回复
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：英国 Northern Blue Ltd（顾问 / 中介，名片似为介绍客户市场者，会一点中文）：非买家中介；17 推 0 回 → 留 C（非刚性 pass）
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 17 次（2024-06-13 → 2025-10-24）　|　**所在清单**：A优质名单(UK)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-603
 rating: C
 rating_auto: C
+sieve: keep_C  # 闸 1 G1 2026-10-29
 score: 18
 country: 英国
 region: 欧洲
@@ -25,7 +28,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -155,8 +158,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 18）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 18）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
