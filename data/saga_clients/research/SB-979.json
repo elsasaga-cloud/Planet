@@ -41,11 +41,16 @@
  ],
  "kp": [
   {
-   "name": "Alberto Catangui",
+   "name": "Alberto A. Catangui",
    "title": "CEO",
    "email": "acatangui@ioneresources.net",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "CEO / Chairperson（D&B + verif + RocketReach 2026-10-29）= 收件人 — 一页纸一次：集成商 25% B、TP-Link 在用 → STC-028GP / STC-2224GP / STC-4424GCPM + STI-154GP 一口价 + MOQ 1 + 付费样机 — 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉、NTC 不声称（第 120 批 官方登记核实 2026-10-29）"
+  },
+  {
+   "name": "Charles Catangui",
+   "role": "VP Operations（RocketReach 2026-10-29；无公开邮箱）（第 120 批 官方登记核实 2026-10-29）"
   }
  ],
  "grade_override": null,
@@ -56,8 +61,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "菲律宾",
-  "other": "官网 ioneresources.net，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Unit 1006 The Centerpoint Condominium, Julia Vargas Avenue cor. Garnet Road, Ortigas Center, Pasig City 1605, Philippines（第 120 批 官方登记核实 2026-10-29）",
+  "other": "官网 ioneresources.net，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 120 批：托管 ICT / 现场部署 / 网络安全服务（6202 计算机咨询）；部分坐实（企业库地址 + 成立年 + KP 职务；SEC 未取）（第 120 批 官方登记核实 2026-10-29）",
+  "legal_name": "iOne Resources, Inc.（SEC 号 1 查未得）",
+  "founded": "2002（RocketReach 口径）（第 120 批 官方登记核实 2026-10-29）",
+  "size": "小型（约 45 人）（第 120 批 官方登记核实 2026-10-29）"
  },
  "business_lines": [
   "ICT 现场部署 / 托管服务 / 网络安全（菲律宾）"

@@ -29,7 +29,12 @@
    "title": "（表内联系人）",
    "email": "rea@hamdaz.com",
    "phone": "+966 52 864 8341（待核）",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "联系人（职务未得；研究档 KP）— 不动：IT / 托管软件服务商 + 2023/24 新壳 + WA 无实质回复 — 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜、TDRA / ESMA 不声称（第 120 批 官方登记核实 2026-10-29）"
+  },
+  {
+   "name": "Jishad Mohammed Vakatel",
+   "role": "Founder & CEO（prospeo 2026-10-29；无公开邮箱）（第 120 批 官方登记核实 2026-10-29）"
   }
  ],
  "grade_override": null,
@@ -40,11 +45,11 @@
   "level": "B 级加厚 v1（快照 + 表内）"
  },
  "company_facts": {
-  "legal_name": "Hamdaztech Technologies Inc LLC（待核）",
-  "founded": "",
-  "hq": "（沙特 / 印度，待核）",
-  "size": "小型",
-  "other": ""
+  "legal_name": "HAMDAZTECH TECHNOLOGY SERVICES LLC（阿布扎比；牌照号未取）/ HAMDAZ TECHNOLOGIES LLP（印度 Kozhikode；CIN ACA-6304）",
+  "founded": "2023-04-18（印度 LLP）/ 2024（UAE，prospeo 口径）（第 120 批 官方登记核实 2026-10-29）",
+  "hq": "PO Box 5758, Office 22, 2nd Floor, Millennium Tower, Hamdan Street, Abu Dhabi, UAE（+971 2 309 0211；印度 +91 92077 73300 = 表内电话）（第 120 批 官方登记核实 2026-10-29）",
+  "size": "小型（21–50 自报）（第 120 批 官方登记核实 2026-10-29）",
+  "other": "第 120 批：表内「HAMDAZTECH TECHNOLOGIES INC LLC」+ 沙特 = 误录，总部阿布扎比 → country_fix 阿联酋；IT 服务 + 新壳 → **不动（B 保留）**；部分坐实（第 120 批 官方登记核实 2026-10-29）"
  },
  "channels": {
   "role": "（未知）",
@@ -103,5 +108,6 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
- }
+ },
+ "country_fix": "阿联酋"
 }

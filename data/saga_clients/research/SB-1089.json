@@ -31,7 +31,8 @@
    "title": "（表内联系人）",
    "email": "sanche@tpnet.com.br",
    "phone": "+55 21 98147 8149",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "联系人（研究档）= 收件人 — 一页纸一次：分销 20% B、面向 ISP 的分销 / 电商 → STC-2224GP / STC-4424GCPM / STC-110XGE 一口价 + MOQ 1 + 付费样机；葡语备注 — 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（进口税自理）、Anatel 不声称（第 120 批 官方登记核实 2026-10-29）"
   }
  ],
  "grade_override": null,
@@ -42,11 +43,11 @@
   "level": "B 级加厚 v1（官网快照 + 表内）"
  },
  "company_facts": {
-  "legal_name": "TPNET Informática",
+  "legal_name": "tpnet.com.br（1 查三家同名未对齐：Timmers Tecnologia Ltda t/a Tpnet Tecnologia CNPJ 54.793.965/0001-08（2024-04-18 开业，里约 Barra da Tijuca，CNAE 8020-0/01）/ TPNET Informática Ltda-ME 31.258.395/0001-50（1986，SUSPENSA）/ Tp Net 16.679.928/0001-84）",
   "founded": "",
-  "hq": "Rio de Janeiro, Brazil",
-  "size": "小型 ISP 设备分销",
-  "other": ""
+  "hq": "未取（Rio de Janeiro, RJ；表内 +55 21）（第 120 批 官方登记核实 2026-10-29）",
+  "size": "小型（第 120 批 官方登记核实 2026-10-29）",
+  "other": "第 120 批：未坐实（同名多家；若为 Timmers → 2024 新壳红旗）；一页纸一次（预付 100%）（第 120 批 官方登记核实 2026-10-29）"
  },
  "business_lines": [
   "ISP 网络设备分销（交换机、PoE、无线）"

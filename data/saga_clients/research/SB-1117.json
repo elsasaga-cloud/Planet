@@ -25,7 +25,7 @@
  "kp": [
   {
    "name": "Kevin Maphanga",
-   "role": "Account Manager（销售侧，非采购）",
+   "role": "Account Manager（销售侧，非采购；研究档）— 一页纸一次收件 sales@ Attn: Procurement / Product Manager、抄 Kevin：分销 20% B、渠道 / 贴标角度 STC-2224GP / STC-4424GCPM / STI-154GP 一口价 + MOQ 1 + 付费样机 — 南非常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 约堡、ICASA / NRCS 不声称（第 120 批 官方登记核实 2026-10-29）",
    "email": "kevin@switchcom.co.za",
    "phone": "+27 (0)10 007 2555",
    "source": "S 邮箱签名"
@@ -89,5 +89,12 @@
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "company_facts": {
+  "legal_name": "Switchcom Distribution (Pty) Ltd（注册号 2015/334722/07，官网 T&C 自列）",
+  "founded": "2015（第 120 批 官方登记核实 2026-10-29）",
+  "hq": "49 Galaxy Avenue, Linbro Business Park, Sandton 2090, Gauteng（另址 Randview Business Park, 1 Avon Rd, Ferndale, Randburg 2194）（第 120 批 官方登记核实 2026-10-29）",
+  "size": "中小型（第 120 批 官方登记核实 2026-10-29）",
+  "other": "第 120 批：多品牌 ICT 分销（Cambium / Hikvision / MikroTik / Ubiquiti）；坐实（注册号 + 注册地址）（第 120 批 官方登记核实 2026-10-29）"
  }
 }

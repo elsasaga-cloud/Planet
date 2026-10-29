@@ -41,11 +41,12 @@
  ],
  "kp": [
   {
-   "name": "Khursheed Khan",
+   "name": "Khursheed Ahmed Khan",
    "title": "（职务待核）",
    "email": "khursheed.khan@teamac-arabia.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Sales & Technical Director（tradeindia 2026-10-29；= 表内 KP）= 收件人 — 一页纸一次：集成商 25% B、询盘「8 光 8 PoE 管理」→ STI-288DGGPM / STI-488DGGPM + STC-4424GCPM 组合一口价 + MOQ 1 + 付费样机 — 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜、TDRA / ESMA 不声称（第 120 批 官方登记核实 2026-10-29）"
   }
  ],
  "grade_override": null,
@@ -56,8 +57,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "阿联酋",
-  "other": "官网 teamac-arabia.com，语言 en，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Hamriyah Free Zone, P.O. Box 50342, Sharjah, UAE（第 120 批 官方登记核实 2026-10-29）",
+  "other": "官网 teamac-arabia.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 120 批：BMS / HVAC 控制 + 弱电 + 进口贸易；实体在沙迦自贸区 → country_fix 阿联酋（回正 Q-65 按 +966 手机的沙特判定；KP 沙特手机 = KSA 销售驻点）；部分坐实（名录地址 + 成立年 + KP 职务）（第 120 批 官方登记核实 2026-10-29）",
+  "legal_name": "TEAMAC Arabia（Hamriyah Free Zone 实体；FZ 牌照号 1 查未得）",
+  "founded": "2008（tradeindia）（第 120 批 官方登记核实 2026-10-29）",
+  "size": "小型（第 120 批 官方登记核实 2026-10-29）"
  },
  "business_lines": [
   "BMS / HVAC 控制 / 弱电 / 自动化集成（阿联酋）"
@@ -124,5 +128,5 @@
   "draft_en": null,
   "as_of": "2026-10-24"
  },
- "country_fix": "沙特阿拉伯"
+ "country_fix": "阿联酋"
 }

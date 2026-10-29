@@ -36,7 +36,8 @@
    "title": "Electrical Engineer and Chief Executive Officer",
    "email": "inus@netshieldsa.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Electrical Engineer and Chief Executive Officer（研究档）= 收件人 — 一页纸一次：贴标 OEM 30% B、自有品牌交换机 / MC 制造商 → STI-154GP / STI-288DGGPM + STC-110XGE 中性包装 / 贴标 + MOQ 1 + 付费样机；SFP 不供明说 — 南非常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 约堡、ICASA / NRCS 不声称（第 120 批 官方登记核实 2026-10-29）"
   },
   {
    "name": "Celia Gagiano",
@@ -44,6 +45,10 @@
    "email": "celia@netshieldsa.com",
    "phone": "",
    "source": "用户表"
+  },
+  {
+   "name": "Marien Dreckmeyr",
+   "role": "Director, National Marketing（ZoomInfo 2026-10-29；2009– ；无公开邮箱）（第 120 批 官方登记核实 2026-10-29）"
   }
  ],
  "grade_override": null,
@@ -54,8 +59,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "南非",
-  "other": "官网 netshieldsa.com，语言 ?，快照状态 ok；角色判定来源：待核"
+  "hq": "10 Pony Street, Concept House, Unit B, Silver Lakes, Pretoria, Gauteng（旧址 407 Atterbury Road, Menlo Park；(012) 424-9340）（第 120 批 官方登记核实 2026-10-29）",
+  "other": "官网 netshieldsa.com，语言 ?，快照状态 ok；角色判定来源：待核；第 120 批：自研 IoT / UPS / 交换机 / MC 自有品牌制造商；部分坐实（企业库地址 + 成立年 + 人数 + 职务；CIPC 未取）（第 120 批 官方登记核实 2026-10-29）",
+  "legal_name": "Netshield (Pty) Ltd（CIPC 注册号 1 查未得）",
+  "founded": "1994（RocketReach）（第 120 批 官方登记核实 2026-10-29）",
+  "size": "小型（约 16 人）（第 120 批 官方登记核实 2026-10-29）"
  },
  "business_lines": [
   "网络 / 电源产品（自有品牌 Netshield，南非）"

@@ -29,7 +29,8 @@
    "title": "Technical",
    "email": "oscar.yamawaki@daiken.com.br",
    "phone": "+55 41 99917 5755",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "技术负责人（研究档）= 收件人 — 一页纸一次：贴标 OEM 30% B、注入器不供明说 → STC-028GP / STC-228GP 贴标 + 批量阶梯 + MOQ + 付费样机 — 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（进口税自理）、Anatel 不声称（第 120 批 官方登记核实 2026-10-29）"
   }
  ],
  "grade_override": null,
@@ -40,11 +41,11 @@
   "level": "B 级加厚 v1（快照 HTTP 错误 + 表内）"
  },
  "company_facts": {
-  "legal_name": "DTI Tecnologia Ltda（Daiken）",
-  "founded": "（待核）",
-  "hq": "Curitiba, PR, Brazil",
-  "size": "中小型（电子 / 自动化制造，推断）",
-  "other": "阿里国际站老买家"
+  "legal_name": "DTI Tecnologia Ltda - EPP（Daiken；CNPJ 10.497.398/0001-77；ATIVA）",
+  "founded": "2008-11-12（第 120 批 官方登记核实 2026-10-29）",
+  "hq": "Colombo - PR（库里蒂巴都会区）, Brazil（第 120 批 官方登记核实 2026-10-29）",
+  "size": "小型（EPP）（第 120 批 官方登记核实 2026-10-29）",
+  "other": "阿里国际站老买家；第 120 批：CNAE 电子元器件制造 → 自有品牌电子制造商（500 pcs injector 询盘量级）；坐实（CNPJ + 开业日 + CNAE）（第 120 批 官方登记核实 2026-10-29）"
  },
  "business_lines": [
   "电子 / 自动化产品（推断）",

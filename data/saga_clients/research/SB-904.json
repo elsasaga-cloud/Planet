@@ -45,7 +45,12 @@
    "title": "（职务待核）",
    "email": "accounts@nuthill.co.za",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Accounts（研究档；收件 Attn: Abrie Joubert, CEO）— 一页纸一次：集成商 25% B、自建站询盘「7 台工业 8 电口轻管理」→ STI-288GPM ×7 一口价 + STI-280GE 备选 + 付费样机；Moxa 不点名 — 南非常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 约堡、ICASA / NRCS 不声称（第 120 批 官方登记核实 2026-10-29）"
+  },
+  {
+   "name": "Abrie Joubert",
+   "role": "Chief Executive Officer（ZoomInfo 2026-10-29；无公开邮箱）（第 120 批 官方登记核实 2026-10-29）"
   }
  ],
  "grade_override": null,
@@ -56,8 +61,10 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "南非",
-  "other": "官网 nuthill.co.za，语言 en-gb，快照状态 ok；角色判定来源：官网文案"
+  "hq": "31 Boncker St, Middelburg, Mpumalanga（+27 13 246 1140；另址 Stoffberg Road R555）（第 120 批 官方登记核实 2026-10-29）",
+  "other": "官网 nuthill.co.za，语言 en-gb，快照状态 ok；角色判定来源：官网文案；第 120 批：矿业 / 冶金 / 电气 / 仪表自动化集成（NutProM / DepthMaster / WAGO；客户 Glencore / South32 / Eskom）；部分坐实（企业库地址 + 电话 + CEO；CIPC 未取）（第 120 批 官方登记核实 2026-10-29）",
+  "legal_name": "Nuthill Technologies（(Pty) Ltd 推定；CIPC 注册号 1 查未得）",
+  "size": "小型（11–50）（第 120 批 官方登记核实 2026-10-29）"
  },
  "business_lines": [
   "矿业 / 工业自动化与现场服务（南非）"

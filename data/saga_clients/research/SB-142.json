@@ -29,7 +29,8 @@
    "title": "（表内联系人）",
    "email": "airpowireless@gmail.com",
    "phone": "+62 813 8529 9366",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "联系人（研究档）= 收件人 — 一页纸一次：贴标 OEM 30% B、自有品牌 Airpo（PoE 交换机 / AP 自标 + 经销网络）→ STC-228GP 贴标 / STC-4424GCPM / STC-2224GP + MOQ + 付费样机；工业线不推 — 印尼常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 雅加达、SDPPI 不声称（第 120 批 官方登记核实 2026-10-29）"
   }
  ],
  "grade_override": null,
@@ -40,11 +41,11 @@
   "level": "B 级加厚 v1（官网快照 + 表内）"
  },
  "company_facts": {
-  "legal_name": "（待核）",
+  "legal_name": "未取（Airpo Wireless 品牌方；airpo.co.id 产品页 + hsairpo.co.id 经销名单在，法人 / 地址 1 查未得）",
   "founded": "",
   "hq": "印度尼西亚",
-  "size": "小型",
-  "other": "gmail；官网失效"
+  "size": "小型（第 120 批 官方登记核实 2026-10-29）",
+  "other": "gmail；官网失效；第 120 批：自有品牌（SG1210FP 8 PoE + 2 SFP、W312 AP）+ 经销商 LANGITNET / PT Ilufa Abadi Indonesia / Aratech；未坐实（法人未得）（第 120 批 官方登记核实 2026-10-29）"
  },
  "business_lines": [
   "无线 / 网络设备经销（推断）"

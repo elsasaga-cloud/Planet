@@ -1,184 +1,185 @@
 {
-  "code": "SB-1012",
-  "name_official": "Bitstream Core（菲律宾）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（bitstreamcore.com；快照超时）",
-  "summary": "菲律宾网络公司 Bitstream Core，GM Engr. Lito E. Viola，需求 2 光 2 电、主要对 SFP 感兴趣（Saga 无）；1 次跟进无实质回复。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "bitstreamcore.com 抓取超时",
-      "quote": "status timeout",
-      "url": "http://bitstreamcore.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "两光两电；SFP；主要对 SFP 感兴趣",
-      "quote": "兴趣：两光两电。sfp 主要对SFP感兴趣",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Engr. Lito E. Viola",
-      "title": "General Manager",
-      "email": "ieviola@bitstreamcore.com",
-      "phone": "",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（快照超时 + 表内）"
+ "code": "SB-1012",
+ "name_official": "Bitstream Core（菲律宾）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（bitstreamcore.com；快照超时）",
+ "summary": "菲律宾网络公司 Bitstream Core，GM Engr. Lito E. Viola，需求 2 光 2 电、主要对 SFP 感兴趣（Saga 无）；1 次跟进无实质回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "bitstreamcore.com 抓取超时",
+   "quote": "status timeout",
+   "url": "http://bitstreamcore.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Bitstream Core（待核）",
-    "founded": "",
-    "hq": "Philippines",
-    "size": "小型",
-    "other": ""
-  },
-  "channels": {
-    "role": "网络集成 / ISP 配套（推断）",
-    "region": "菲律宾"
-  },
-  "risks": [
-    "主需求 SFP 不供"
-  ],
-  "saga_fit": {
-    "p1": "STI-220GE",
-    "tier": 25,
-    "why": "2 光 2 电 → STI-220GE（$29.0 @25%）；SFP 不供（Q-32）。"
-  },
-  "email_hook": "Engr. Viola, the 2-SFP + 2-copper industrial mini is $29 EXW (1 pc); we don't sell SFP modules on their own, but can fit tested 20 km modules into switch orders on request.",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A 邮箱 3 封 2025，无记录打开，0 回；收件 ieviola@bitstreamcore.com；主题多为「48 Port PoE Managed Switch、16 Port Ethernet Switch」）；Elsa 1:1 去信 8 轮 2025-06-18→2026-08-06（To 仅本户 ieviola@bitstreamcore.com；头 msg 19fd4cc8158c0427 核对无 Bcc，称呼「Hi,」= 无称呼逐月单发名单；头文摘要可见 Price: 170USD/PC；主题 Marvell Industrial Alert System、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:bitstreamcore.com` 全程 complete，直收 8 条、无 Re: 行）",
-      "type": "—",
-      "sieve": "1（只收到群发）",
-      "stop": "3 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "菲律宾 非主攻",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 3；用户表：「兴趣：两光两电。sfp 主要对SFP感兴趣」；研究档 risks：主需求 SFP 不供"
-    },
-    "situation": "菲律宾网络公司 Bitstream Core，GM Engr. Lito E. Viola，需求 2 光 2 电、主要对 SFP 感兴趣（Saga 无）；1 次跟进无实质回复。",
-    "need": "2 光 2 电 → STI-220GE（$29.0 @25%）；SFP 不供（Q-32）。",
-    "breakpoint": "主需求 SFP 不供",
-    "saga_now": {
-      "p1": "STI-220GE",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-02-11 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-05 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-09→2026-05-05；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-06；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "2 光 2 电 → STI-220GE（$29.0 @25%）；SFP 不供（Q-32）。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "首封前知悉：Elsa 已 1:1 去信 8 轮（2025-06-18→2026-08-06，0 回）（第 74 批(n)）；观察打开",
-      "one_question": "Engr. Viola, the 2-SFP + 2-copper industrial mini is $29 EXW (1 pc); we don't sell SFP modules on their own, but can fit tested 20 km modules into switch orders on request."
-    },
-    "facts": [
-      {
-        "date": "2025-05-01",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "48 Port PoE Managed Switch、16 Port Ethernet Switch",
-        "why": "3 封 / 0 次打开 / 0 回｜首封 2025-02-11 → 末封 2025-05-01（3 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2025-06-18",
-        "dir": "out",
-        "who": "Elsa → ieviola@bitstreamcore.com",
-        "quote": "Mini Industrial PoE Switch（Elsa 1:1 逐月名单第 1/8 轮；To 仅本户）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:bitstreamcore.com` 全程 complete：8 轮直收（头 msg 19fd4cc8158c0427 无 Bcc，称呼「Hi,」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19780e859ea37d9b"
-      },
-      {
-        "date": "2025-10-09",
-        "dir": "out",
-        "who": "Elsa → ieviola@bitstreamcore.com",
-        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 2/8 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:bitstreamcore.com` 全程 complete：8 轮直收（头 msg 19fd4cc8158c0427 无 Bcc，称呼「Hi,」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "199c6db86297107b"
-      },
-      {
-        "date": "2025-12-03",
-        "dir": "out",
-        "who": "Elsa → ieviola@bitstreamcore.com",
-        "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 3/8 轮；To 仅本户）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:bitstreamcore.com` 全程 complete：8 轮直收（头 msg 19fd4cc8158c0427 无 Bcc，称呼「Hi,」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19ae23956728e50f"
-      },
-      {
-        "date": "2026-01-07",
-        "dir": "out",
-        "who": "Elsa → ieviola@bitstreamcore.com",
-        "quote": "Marvell Industrial Alert System（Elsa 1:1 逐月名单第 4/8 轮；To 仅本户）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:bitstreamcore.com` 全程 complete：8 轮直收（头 msg 19fd4cc8158c0427 无 Bcc，称呼「Hi,」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19b9640fddbc72c7"
-      },
-      {
-        "date": "2026-02-18",
-        "dir": "out",
-        "who": "Elsa → ieviola@bitstreamcore.com",
-        "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 5/8 轮；To 仅本户）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:bitstreamcore.com` 全程 complete：8 轮直收（头 msg 19fd4cc8158c0427 无 Bcc，称呼「Hi,」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19c6e8c14c578039"
-      },
-      {
-        "date": "2026-03-24",
-        "dir": "out",
-        "who": "Elsa → ieviola@bitstreamcore.com",
-        "quote": "Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 6/8 轮；To 仅本户）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:bitstreamcore.com` 全程 complete：8 轮直收（头 msg 19fd4cc8158c0427 无 Bcc，称呼「Hi,」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19d1db69d1ea6c2e"
-      },
-      {
-        "date": "2026-05-05",
-        "dir": "out",
-        "who": "Elsa → ieviola@bitstreamcore.com",
-        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 7/8 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:bitstreamcore.com` 全程 complete：8 轮直收（头 msg 19fd4cc8158c0427 无 Bcc，称呼「Hi,」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19df5ef64e6ba213"
-      },
-      {
-        "date": "2026-08-06",
-        "dir": "out",
-        "who": "Elsa → ieviola@bitstreamcore.com",
-        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 8/8 轮；To 仅本户；正文 Price: 170USD/PC）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:bitstreamcore.com` 全程 complete：8 轮直收（头 msg 19fd4cc8158c0427 无 Bcc，称呼「Hi,」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19fd4cc8158c0427"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：两光两电。sfp 主要对SFP感兴趣",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "两光两电；SFP；主要对 SFP 感兴趣",
+   "quote": "兴趣：两光两电。sfp 主要对SFP感兴趣",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Engr. Lito E. Viola",
+   "title": "General Manager",
+   "email": "ieviola@bitstreamcore.com",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "General Manager（研究档）= 收件人 — 一页纸一次：集成商 25% B、2 光 2 电 → STC-228GP / STC-028GP + STI-154GP 一口价 + 付费样机；SFP 不做明说 — 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉、NTC 不声称（第 120 批 官方登记核实 2026-10-29）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（快照超时 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "Bitstream Core（bitstreamcore.com；1 查无命中 → 未坐实）",
+  "founded": "",
+  "hq": "Philippines",
+  "size": "小型",
+  "other": "第 120 批：未坐实（1 查仅无关结果）；GM 为 KP + 口型明确 → 一页纸一次（预付 100%）（第 120 批 官方登记核实 2026-10-29）"
+ },
+ "channels": {
+  "role": "网络集成 / ISP 配套（推断）",
+  "region": "菲律宾"
+ },
+ "risks": [
+  "主需求 SFP 不供"
+ ],
+ "saga_fit": {
+  "p1": "STI-220GE",
+  "tier": 25,
+  "why": "2 光 2 电 → STI-220GE（$29.0 @25%）；SFP 不供（Q-32）。"
+ },
+ "email_hook": "Engr. Viola, the 2-SFP + 2-copper industrial mini is $29 EXW (1 pc); we don't sell SFP modules on their own, but can fit tested 20 km modules into switch orders on request.",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 3 封 2025，无记录打开，0 回；收件 ieviola@bitstreamcore.com；主题多为「48 Port PoE Managed Switch、16 Port Ethernet Switch」）；Elsa 1:1 去信 8 轮 2025-06-18→2026-08-06（To 仅本户 ieviola@bitstreamcore.com；头 msg 19fd4cc8158c0427 核对无 Bcc，称呼「Hi,」= 无称呼逐月单发名单；头文摘要可见 Price: 170USD/PC；主题 Marvell Industrial Alert System、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:bitstreamcore.com` 全程 complete，直收 8 条、无 Re: 行）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "3 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "菲律宾 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 3；用户表：「兴趣：两光两电。sfp 主要对SFP感兴趣」；研究档 risks：主需求 SFP 不供"
+  },
+  "situation": "菲律宾网络公司 Bitstream Core，GM Engr. Lito E. Viola，需求 2 光 2 电、主要对 SFP 感兴趣（Saga 无）；1 次跟进无实质回复。",
+  "need": "2 光 2 电 → STI-220GE（$29.0 @25%）；SFP 不供（Q-32）。",
+  "breakpoint": "主需求 SFP 不供",
+  "saga_now": {
+   "p1": "STI-220GE",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-02-11 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-05 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-09→2026-05-05；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-06；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+   "why": "2 光 2 电 → STI-220GE（$29.0 @25%）；SFP 不供（Q-32）。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "首封前知悉：Elsa 已 1:1 去信 8 轮（2025-06-18→2026-08-06，0 回）（第 74 批(n)）；观察打开",
+   "one_question": "Engr. Viola, the 2-SFP + 2-copper industrial mini is $29 EXW (1 pc); we don't sell SFP modules on their own, but can fit tested 20 km modules into switch orders on request."
+  },
+  "facts": [
+   {
+    "date": "2025-05-01",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "48 Port PoE Managed Switch、16 Port Ethernet Switch",
+    "why": "3 封 / 0 次打开 / 0 回｜首封 2025-02-11 → 末封 2025-05-01（3 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2025-06-18",
+    "dir": "out",
+    "who": "Elsa → ieviola@bitstreamcore.com",
+    "quote": "Mini Industrial PoE Switch（Elsa 1:1 逐月名单第 1/8 轮；To 仅本户）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:bitstreamcore.com` 全程 complete：8 轮直收（头 msg 19fd4cc8158c0427 无 Bcc，称呼「Hi,」）；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "19780e859ea37d9b"
+   },
+   {
+    "date": "2025-10-09",
+    "dir": "out",
+    "who": "Elsa → ieviola@bitstreamcore.com",
+    "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 2/8 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:bitstreamcore.com` 全程 complete：8 轮直收（头 msg 19fd4cc8158c0427 无 Bcc，称呼「Hi,」）；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "199c6db86297107b"
+   },
+   {
+    "date": "2025-12-03",
+    "dir": "out",
+    "who": "Elsa → ieviola@bitstreamcore.com",
+    "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 3/8 轮；To 仅本户）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:bitstreamcore.com` 全程 complete：8 轮直收（头 msg 19fd4cc8158c0427 无 Bcc，称呼「Hi,」）；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "19ae23956728e50f"
+   },
+   {
+    "date": "2026-01-07",
+    "dir": "out",
+    "who": "Elsa → ieviola@bitstreamcore.com",
+    "quote": "Marvell Industrial Alert System（Elsa 1:1 逐月名单第 4/8 轮；To 仅本户）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:bitstreamcore.com` 全程 complete：8 轮直收（头 msg 19fd4cc8158c0427 无 Bcc，称呼「Hi,」）；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "19b9640fddbc72c7"
+   },
+   {
+    "date": "2026-02-18",
+    "dir": "out",
+    "who": "Elsa → ieviola@bitstreamcore.com",
+    "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 5/8 轮；To 仅本户）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:bitstreamcore.com` 全程 complete：8 轮直收（头 msg 19fd4cc8158c0427 无 Bcc，称呼「Hi,」）；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "19c6e8c14c578039"
+   },
+   {
+    "date": "2026-03-24",
+    "dir": "out",
+    "who": "Elsa → ieviola@bitstreamcore.com",
+    "quote": "Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 6/8 轮；To 仅本户）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:bitstreamcore.com` 全程 complete：8 轮直收（头 msg 19fd4cc8158c0427 无 Bcc，称呼「Hi,」）；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "19d1db69d1ea6c2e"
+   },
+   {
+    "date": "2026-05-05",
+    "dir": "out",
+    "who": "Elsa → ieviola@bitstreamcore.com",
+    "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 7/8 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:bitstreamcore.com` 全程 complete：8 轮直收（头 msg 19fd4cc8158c0427 无 Bcc，称呼「Hi,」）；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "19df5ef64e6ba213"
+   },
+   {
+    "date": "2026-08-06",
+    "dir": "out",
+    "who": "Elsa → ieviola@bitstreamcore.com",
+    "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 8/8 轮；To 仅本户；正文 Price: 170USD/PC）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:bitstreamcore.com` 全程 complete：8 轮直收（头 msg 19fd4cc8158c0427 无 Bcc，称呼「Hi,」）；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "19fd4cc8158c0427"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：两光两电。sfp 主要对SFP感兴趣",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

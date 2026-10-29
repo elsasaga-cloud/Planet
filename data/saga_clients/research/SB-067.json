@@ -1,228 +1,232 @@
 {
-  "code": "SB-067",
-  "name_official": "Citicore Renewable Energy Corporation（CREC，PSE 上市；San Juan City, Philippines；crec.com.ph）",
-  "website_status": "在线",
-  "summary": "菲律宾上市可再生能源开发运营商 Citicore Renewable Energy Corp.（CREC；Citicore Power 子公司；太阳能/径流水电/海上风电；截至 2025-12-31 运营 14 座光伏电站共 597.2 MW，目标 5 年 5 GW；51–200 人；+632 8826 5698；corpaffairs@crec.com.ph）。用户表（富通天下外贸数据）：「买了迈威的」= 从迈威（Maiwe）采购工业交换机（电站 SCADA/监控网络），非 Saga 成交；E 冷名单 1 次跟进 0 回复。终端用户（电站）→ 工业环网交换机。",
-  "type": "经销/集成商",
-  "size": "待补证",
-  "brands_seen": [
-    "迈威 Maiwe（用户记录）",
-    "Maiwe 迈威（外贸数据在采）"
-  ],
-  "evidence": [
-    {
-      "kind": "用户记录",
-      "claim": "买了迈威的；0 回复",
-      "quote": "买了迈威的（用户 Clients 表摘录）",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网/交易所",
-      "claim": "公司定位与规模",
-      "quote": "Citicore Renewable Energy Corporation (CREC) is a corporation duly organized and existing under Philippine law and listed on the Philippine Stock Exchange … 14 operating solar assets with a combined gross installed capacity of 597.2 MW as of December 31, 2025. CREC has a target to achieve 5 GW",
-      "url": "https://edge.pse.com.ph/companyInformation/form.do?cmpy_id=703",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "LinkedIn",
-      "claim": "规模与联系方式",
-      "quote": "T: +632 8826 5698 | E: corpaffairs@crec.com.ph … Company size: 51-200 employees … Headquarters: San Juan City, NCR … Founded: 2015",
-      "url": "https://www.linkedin.com/company/citicoreph",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "富通天下：买了迈威的；做项目的",
-      "quote": "买了迈威的 / 做项目的 / 富通天下",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "（见 Clients 表联系人）",
-      "role": "",
-      "email": "",
-      "phone": "",
-      "source": "用户 Clients 表"
-    }
-  ],
-  "grade_override": "B",
-  "override_reason": "在采同类国产工业交换机但冷名单无回复、菲律宾非主攻区 → B。",
-  "notes": "一封'迈威对位 STI 工业线'邮件。",
-  "researched_at": "2026-10-21",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网 + 名录核对；「成交」为富通天下外贸数据）"
+ "code": "SB-067",
+ "name_official": "Citicore Renewable Energy Corporation（CREC，PSE 上市；San Juan City, Philippines；crec.com.ph）",
+ "website_status": "在线",
+ "summary": "菲律宾上市可再生能源开发运营商 Citicore Renewable Energy Corp.（CREC；Citicore Power 子公司；太阳能/径流水电/海上风电；截至 2025-12-31 运营 14 座光伏电站共 597.2 MW，目标 5 年 5 GW；51–200 人；+632 8826 5698；corpaffairs@crec.com.ph）。用户表（富通天下外贸数据）：「买了迈威的」= 从迈威（Maiwe）采购工业交换机（电站 SCADA/监控网络），非 Saga 成交；E 冷名单 1 次跟进 0 回复。终端用户（电站）→ 工业环网交换机。",
+ "type": "经销/集成商",
+ "size": "待补证",
+ "brands_seen": [
+  "迈威 Maiwe（用户记录）",
+  "Maiwe 迈威（外贸数据在采）"
+ ],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "买了迈威的；0 回复",
+   "quote": "买了迈威的（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Citicore Renewable Energy Corporation（SEC CS201807415；PSE: CREC）",
-    "founded": "2015（LinkedIn）",
-    "hq": "San Juan City, Metro Manila（+632 8826 5698；corpaffairs@crec.com.ph）",
-    "size": "51–200（LinkedIn）；14 座光伏电站 597.2 MW（2025）",
-    "other": "2024-06 IPO 募资 53 亿比索；GEA-4 中标 1,212 MW"
+  {
+   "kind": "官网/交易所",
+   "claim": "公司定位与规模",
+   "quote": "Citicore Renewable Energy Corporation (CREC) is a corporation duly organized and existing under Philippine law and listed on the Philippine Stock Exchange … 14 operating solar assets with a combined gross installed capacity of 597.2 MW as of December 31, 2025. CREC has a target to achieve 5 GW",
+   "url": "https://edge.pse.com.ph/companyInformation/form.do?cmpy_id=703",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "光伏电站开发/运营（含储能）",
-    "径流水电、海上风电"
-  ],
-  "channels": {
-    "网站": "https://www.crec.com.ph/",
-    "电话": "+632 8826 5698（公开）",
-    "邮箱": "info@crec.com.ph（用户表）；corpaffairs@crec.com.ph（公开）"
+  {
+   "kind": "LinkedIn",
+   "claim": "规模与联系方式",
+   "quote": "T: +632 8826 5698 | E: corpaffairs@crec.com.ph … Company size: 51-200 employees … Headquarters: San Juan City, NCR … Founded: 2015",
+   "url": "https://www.linkedin.com/company/citicoreph",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "每年新增 ~1 GW 光伏 → 每站需 DIN 工业环网交换机（逆变器/SCADA/CCTV）；已外采 Maiwe → 对中国工业机接受度高",
-    "采购经 EPC 承包商 → 需找到其 EPC/O&M 工程团队"
-  ],
-  "risks": [
-    "上市公司采购流程/供应商准入；亚太非主攻区；1 次跟进无回复"
-  ],
-  "saga_fit": {
-    "p1": "STI-288DGGPM",
-    "tier": 25,
-    "why": "终端项目 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，−40~+75 ℃，$137.5）作电站环网；非 PoE STI-280GM（$71.0）；汇聚 STC-424XGGM(L3)（$280.3）"
-  },
-  "email_hook": "Hello CREC engineering team, for the ring networks in your new solar plants: DIN-rail 2× SFP + 8× GbE L2+ switches with ERPS (<20 ms), −40/+75 °C, at $71.0 EXW non-PoE / $137.5 PoE+ — may I send a datasheet to the EPC or O&M engineer who specifies plant networking?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A 邮箱 1 封 2025，无记录打开，0 回；收件 info@crec.com.ph；主题多为「10G Media Converter」）；Elsa 1:1 去信 10 轮 2025-02-12→2026-08-06（To 仅本户 info@crec.com.ph；头 msg 19fd515bf97d4f7e 核对无 Bcc，称呼「Hi,」= 无称呼逐月单发名单；主题 Marvell Industrial Alert System、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch…；0 回（Elsa 箱无 Re: 行））（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 10 条）",
-      "type": "经销/集成商",
-      "sieve": "1（只收到群发）",
-      "stop": "只打通用邮箱，无记录打开",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "菲律宾 非主攻",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 1；用户表：「买了迈威的 / 做项目的 / 富通天下」；研究档 risks：上市公司采购流程/供应商准入；亚太非主攻区；1 次跟进无回复"
-    },
-    "situation": "菲律宾上市可再生能源开发运营商 Citicore Renewable Energy Corp.（CREC；Citicore Power 子公司；太阳能/径流水电/海上风电；截至 2025-12-31 运营 14 座光伏电站共 597.2 MW，目标 5 年 5 GW；51–200 人；+632 8826 5698；corpaffairs@crec.com.ph）。用户表（富通天下外贸数据）：「买了迈威的」= 从迈威（Maiwe）采购工业交换机（电站 SCADA/监控网络），非 Saga 成交；E 冷名单 1 次跟进 0 回复。终端用户（电站）→ 工业环网交换机。",
-    "need": "终端项目 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，−40~+75 ℃，$137.5）作电站环网；非 PoE STI-280GM（$71.0）；汇聚 STC-424XGGM(L3)（$280.3）",
-    "breakpoint": "上市公司采购流程/供应商准入；亚太非主攻区；1 次跟进无回复",
-    "saga_now": {
-      "p1": "STI-288DGGPM",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-03-19 $65（10G Media Converter）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-05 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-09→2026-05-05；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-06；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
-      "why": "终端项目 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，−40~+75 ℃，$137.5）作电站环网；非 PoE STI-280GM（$71.0）；汇聚 STC-424XGGM(L3)（$280.3）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "首封前知悉：Elsa 已 1:1 去信 10 轮（2025-02-12→2026-08-06，0 回）（第 74 批(m)）；观察打开",
-      "one_question": "Hello CREC engineering team, for the ring networks in your new solar plants: DIN-rail 2× SFP + 8× GbE L2+ switches with ERPS (<20 ms), −40/+75 °C, at $71.0 EXW non-PoE / $137.5 PoE+ — may I send a datasheet to the EPC or O&M engineer who specifies plant networking?"
-    },
-    "facts": [
-      {
-        "date": "2025-02-12",
-        "dir": "out",
-        "who": "Elsa → info@crec.com.ph",
-        "quote": "Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
-        "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
-        "k": "elsa_1to1",
-        "msg_id": "194f8d9a2d0d87a7"
-      },
-      {
-        "date": "2025-03-19",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "10G Media Converter",
-        "why": "1 封 / 0 次打开 / 0 回｜首封 2025-03-19 → 末封 2025-03-19（1 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2025-05-01",
-        "dir": "out",
-        "who": "Elsa → info@crec.com.ph",
-        "quote": "90W PoE Managed Switch（Elsa 1:1 逐月名单第 2/10 轮；To 仅本户）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:info@crec.com.ph` 全程 complete：10 轮直收；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "1968ac1834f06d05"
-      },
-      {
-        "date": "2025-06-18",
-        "dir": "out",
-        "who": "Elsa → info@crec.com.ph",
-        "quote": "16 Port Ethernet Switch（Elsa 1:1 逐月名单第 3/10 轮；To 仅本户）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:info@crec.com.ph` 全程 complete：10 轮直收；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19781b1c26ad2113"
-      },
-      {
-        "date": "2025-10-09",
-        "dir": "out",
-        "who": "Elsa → info@crec.com.ph",
-        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 4/10 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:info@crec.com.ph` 全程 complete：10 轮直收；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "199c82e46656b062"
-      },
-      {
-        "date": "2025-12-09",
-        "dir": "out",
-        "who": "Elsa → info@crec.com.ph",
-        "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 5/10 轮；To 仅本户）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:info@crec.com.ph` 全程 complete：10 轮直收；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19b017b0d48b8038"
-      },
-      {
-        "date": "2026-01-07",
-        "dir": "out",
-        "who": "Elsa → info@crec.com.ph",
-        "quote": "Marvell Industrial Alert System（Elsa 1:1 逐月名单第 6/10 轮；To 仅本户）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:info@crec.com.ph` 全程 complete：10 轮直收；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19b971cb6d1e37f2"
-      },
-      {
-        "date": "2026-02-18",
-        "dir": "out",
-        "who": "Elsa → info@crec.com.ph",
-        "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 7/10 轮；To 仅本户）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:info@crec.com.ph` 全程 complete：10 轮直收；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19c6fd5ab9f7782e"
-      },
-      {
-        "date": "2026-03-24",
-        "dir": "out",
-        "who": "Elsa → info@crec.com.ph",
-        "quote": "Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 8/10 轮；To 仅本户）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:info@crec.com.ph` 全程 complete：10 轮直收；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19d1e6db60becf7a"
-      },
-      {
-        "date": "2026-05-05",
-        "dir": "out",
-        "who": "Elsa → info@crec.com.ph",
-        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 9/10 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:info@crec.com.ph` 全程 complete：10 轮直收；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19df6b8cf6d3f4db"
-      },
-      {
-        "date": "2026-08-06",
-        "dir": "out",
-        "who": "Elsa → info@crec.com.ph",
-        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 10/10 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:info@crec.com.ph` 全程 complete：10 轮直收；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19fd515bf97d4f7e"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "买了迈威的 / 做项目的 / 富通天下",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "富通天下：买了迈威的；做项目的",
+   "quote": "买了迈威的 / 做项目的 / 富通天下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表联系人）",
+   "role": "",
+   "email": "",
+   "phone": "",
+   "source": "用户 Clients 表"
+  },
+  {
+   "name": "Oliver Y. Tan",
+   "role": "Key Principal（D&B 2026-10-29；无公开邮箱）— 不动：上市电力终端用户，采购经 EPC（第 120 批 官方登记核实 2026-10-29）"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "在采同类国产工业交换机但冷名单无回复、菲律宾非主攻区 → B。",
+ "notes": "一封'迈威对位 STI 工业线'邮件。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网 + 名录核对；「成交」为富通天下外贸数据）"
+ },
+ "company_facts": {
+  "legal_name": "Citicore Renewable Energy Corporation（SEC Reg. No. CS201807415；BIR TIN 010-007-383-000；PSE 上市）",
+  "founded": "2018（SEC 号前缀；SEC 17-C 2025-06-18）（第 120 批 官方登记核实 2026-10-29）",
+  "hq": "11F Rockwell Santolan Town Plaza, 276 Col. Bonny Serrano Avenue, San Juan City, Metro Manila 1500（+632 8826 5698）（第 120 批 官方登记核实 2026-10-29）",
+  "size": "大型（上市）（第 120 批 官方登记核实 2026-10-29）",
+  "other": "2024-06 IPO 募资 53 亿比索；GEA-4 中标 1,212 MW；第 120 批：上市可再生能源发电终端 + 采购经 EPC / O&M → **不动（B 保留；电力按单核；对口的是其集成商如 SB-071 NKS）**；坐实（SEC 披露文件）（第 120 批 官方登记核实 2026-10-29）"
+ },
+ "business_lines": [
+  "光伏电站开发/运营（含储能）",
+  "径流水电、海上风电"
+ ],
+ "channels": {
+  "网站": "https://www.crec.com.ph/",
+  "电话": "+632 8826 5698（公开）",
+  "邮箱": "info@crec.com.ph（用户表）；corpaffairs@crec.com.ph（公开）"
+ },
+ "signals": [
+  "每年新增 ~1 GW 光伏 → 每站需 DIN 工业环网交换机（逆变器/SCADA/CCTV）；已外采 Maiwe → 对中国工业机接受度高",
+  "采购经 EPC 承包商 → 需找到其 EPC/O&M 工程团队"
+ ],
+ "risks": [
+  "上市公司采购流程/供应商准入；亚太非主攻区；1 次跟进无回复"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 25,
+  "why": "终端项目 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，−40~+75 ℃，$137.5）作电站环网；非 PoE STI-280GM（$71.0）；汇聚 STC-424XGGM(L3)（$280.3）"
+ },
+ "email_hook": "Hello CREC engineering team, for the ring networks in your new solar plants: DIN-rail 2× SFP + 8× GbE L2+ switches with ERPS (<20 ms), −40/+75 °C, at $71.0 EXW non-PoE / $137.5 PoE+ — may I send a datasheet to the EPC or O&M engineer who specifies plant networking?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 1 封 2025，无记录打开，0 回；收件 info@crec.com.ph；主题多为「10G Media Converter」）；Elsa 1:1 去信 10 轮 2025-02-12→2026-08-06（To 仅本户 info@crec.com.ph；头 msg 19fd515bf97d4f7e 核对无 Bcc，称呼「Hi,」= 无称呼逐月单发名单；主题 Marvell Industrial Alert System、Updated Ethernet Switches Links、Marvell Managed Commercial Switches、24 Port PoE Managed Switch…；0 回（Elsa 箱无 Re: 行））（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 10 条）",
+   "type": "经销/集成商",
+   "sieve": "1（只收到群发）",
+   "stop": "只打通用邮箱，无记录打开",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "菲律宾 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 1；用户表：「买了迈威的 / 做项目的 / 富通天下」；研究档 risks：上市公司采购流程/供应商准入；亚太非主攻区；1 次跟进无回复"
+  },
+  "situation": "菲律宾上市可再生能源开发运营商 Citicore Renewable Energy Corp.（CREC；Citicore Power 子公司；太阳能/径流水电/海上风电；截至 2025-12-31 运营 14 座光伏电站共 597.2 MW，目标 5 年 5 GW；51–200 人；+632 8826 5698；corpaffairs@crec.com.ph）。用户表（富通天下外贸数据）：「买了迈威的」= 从迈威（Maiwe）采购工业交换机（电站 SCADA/监控网络），非 Saga 成交；E 冷名单 1 次跟进 0 回复。终端用户（电站）→ 工业环网交换机。",
+  "need": "终端项目 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，−40~+75 ℃，$137.5）作电站环网；非 PoE STI-280GM（$71.0）；汇聚 STC-424XGGM(L3)（$280.3）",
+  "breakpoint": "上市公司采购流程/供应商准入；亚太非主攻区；1 次跟进无回复",
+  "saga_now": {
+   "p1": "STI-288DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-03-19 $65（10G Media Converter）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-05 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-09→2026-05-05；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-06；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）",
+   "why": "终端项目 25% 档：STI-288DGGPM（DIN 2 SFP + 8 GE PoE+ L2+ ERPS，−40~+75 ℃，$137.5）作电站环网；非 PoE STI-280GM（$71.0）；汇聚 STC-424XGGM(L3)（$280.3）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "首封前知悉：Elsa 已 1:1 去信 10 轮（2025-02-12→2026-08-06，0 回）（第 74 批(m)）；观察打开",
+   "one_question": "Hello CREC engineering team, for the ring networks in your new solar plants: DIN-rail 2× SFP + 8× GbE L2+ switches with ERPS (<20 ms), −40/+75 °C, at $71.0 EXW non-PoE / $137.5 PoE+ — may I send a datasheet to the EPC or O&M engineer who specifies plant networking?"
+  },
+  "facts": [
+   {
+    "date": "2025-02-12",
+    "dir": "out",
+    "who": "Elsa → info@crec.com.ph",
+    "quote": "Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次）",
+    "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "194f8d9a2d0d87a7"
+   },
+   {
+    "date": "2025-03-19",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "10G Media Converter",
+    "why": "1 封 / 0 次打开 / 0 回｜首封 2025-03-19 → 末封 2025-03-19（1 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2025-05-01",
+    "dir": "out",
+    "who": "Elsa → info@crec.com.ph",
+    "quote": "90W PoE Managed Switch（Elsa 1:1 逐月名单第 2/10 轮；To 仅本户）",
+    "why": "第 74 批(m) `from:e.sagatelecom to:info@crec.com.ph` 全程 complete：10 轮直收；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "1968ac1834f06d05"
+   },
+   {
+    "date": "2025-06-18",
+    "dir": "out",
+    "who": "Elsa → info@crec.com.ph",
+    "quote": "16 Port Ethernet Switch（Elsa 1:1 逐月名单第 3/10 轮；To 仅本户）",
+    "why": "第 74 批(m) `from:e.sagatelecom to:info@crec.com.ph` 全程 complete：10 轮直收；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "19781b1c26ad2113"
+   },
+   {
+    "date": "2025-10-09",
+    "dir": "out",
+    "who": "Elsa → info@crec.com.ph",
+    "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 4/10 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+    "why": "第 74 批(m) `from:e.sagatelecom to:info@crec.com.ph` 全程 complete：10 轮直收；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "199c82e46656b062"
+   },
+   {
+    "date": "2025-12-09",
+    "dir": "out",
+    "who": "Elsa → info@crec.com.ph",
+    "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 5/10 轮；To 仅本户）",
+    "why": "第 74 批(m) `from:e.sagatelecom to:info@crec.com.ph` 全程 complete：10 轮直收；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "19b017b0d48b8038"
+   },
+   {
+    "date": "2026-01-07",
+    "dir": "out",
+    "who": "Elsa → info@crec.com.ph",
+    "quote": "Marvell Industrial Alert System（Elsa 1:1 逐月名单第 6/10 轮；To 仅本户）",
+    "why": "第 74 批(m) `from:e.sagatelecom to:info@crec.com.ph` 全程 complete：10 轮直收；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "19b971cb6d1e37f2"
+   },
+   {
+    "date": "2026-02-18",
+    "dir": "out",
+    "who": "Elsa → info@crec.com.ph",
+    "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 7/10 轮；To 仅本户）",
+    "why": "第 74 批(m) `from:e.sagatelecom to:info@crec.com.ph` 全程 complete：10 轮直收；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "19c6fd5ab9f7782e"
+   },
+   {
+    "date": "2026-03-24",
+    "dir": "out",
+    "who": "Elsa → info@crec.com.ph",
+    "quote": "Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 8/10 轮；To 仅本户）",
+    "why": "第 74 批(m) `from:e.sagatelecom to:info@crec.com.ph` 全程 complete：10 轮直收；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "19d1e6db60becf7a"
+   },
+   {
+    "date": "2026-05-05",
+    "dir": "out",
+    "who": "Elsa → info@crec.com.ph",
+    "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 9/10 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+    "why": "第 74 批(m) `from:e.sagatelecom to:info@crec.com.ph` 全程 complete：10 轮直收；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "19df6b8cf6d3f4db"
+   },
+   {
+    "date": "2026-08-06",
+    "dir": "out",
+    "who": "Elsa → info@crec.com.ph",
+    "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 10/10 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
+    "why": "第 74 批(m) `from:e.sagatelecom to:info@crec.com.ph` 全程 complete：10 轮直收；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "19fd515bf97d4f7e"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "买了迈威的 / 做项目的 / 富通天下",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

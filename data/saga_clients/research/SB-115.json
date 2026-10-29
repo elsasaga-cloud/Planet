@@ -22,7 +22,8 @@
    "title": "（表内联系人）",
    "email": "rizkyadips@yahoo.com",
    "phone": "+62 813 9956 8946",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "联系人（研究档）= 收件人 — 一页纸一次：集成商 25% B、设备自用 DIN 5 口 PoE → STI-054GP 一口价 + STI-154GP 备选 + 付费样机（设备随机配套 → 小量复购） — 印尼常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 雅加达、SDPPI 不声称（第 120 批 官方登记核实 2026-10-29）"
   }
  ],
  "grade_override": null,
@@ -33,11 +34,11 @@
   "level": "无域名 · 仅表内信息"
  },
  "company_facts": {
-  "legal_name": "PT. Catur Citra Wisesa",
-  "founded": "",
-  "hq": "印度尼西亚",
-  "size": "（待核）",
-  "other": "yahoo 联系"
+  "legal_name": "PT. Catur Citra Wisesa（AHU 登记号 182592，companieshouse.id 镜像；Active）",
+  "founded": "未取（自述 20+ 年）（第 120 批 官方登记核实 2026-10-29）",
+  "hq": "Jl. Taman Harapan Baru Blok D 10/11, RT.003/022, Pejuang, Bekasi（业务地 Gambir, Jakarta）（第 120 批 官方登记核实 2026-10-29）",
+  "size": "小型（第 120 批 官方登记核实 2026-10-29）",
+  "other": "yahoo 联系；第 120 批：制药 / 化妆品 / 食品饮料生产机械与备件制造（非网络行业，但 DIN 交换机为设备配套）；坐实（登记号 + 注册地址 + 领英业务）（第 120 批 官方登记核实 2026-10-29）"
  },
  "channels": {
   "role": "（未知，疑工程商/经销）",

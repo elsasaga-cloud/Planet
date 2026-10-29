@@ -29,7 +29,8 @@
    "title": "（表内联系人）",
    "email": "eduardo@solustecnologia.com",
    "phone": "+55 27 99874 0449",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "联系人（研究档）= 收件人 — 一页纸一次：集成商 25% B、2 光 6 PoE → STC-228GP 一口价 + STC-2216GP 备选 + 付费样机；葡语备注 — 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（进口税自理）、Anatel 不声称（第 120 批 官方登记核实 2026-10-29）"
   }
  ],
  "grade_override": null,
@@ -40,11 +41,11 @@
   "level": "B 级加厚 v1（官网快照核对）"
  },
  "company_facts": {
-  "legal_name": "Solus Tecnologia",
-  "founded": "约 2005（20+ 年）",
-  "hq": "Espírito Santo, Brazil",
-  "size": "中小型安防集成商",
-  "other": "政府项目（守界：按单核）"
+  "legal_name": "Solus Tecnologia em Sistemas Ltda EPP（CNPJ 07.270.661/0001-86）",
+  "founded": "2005-03-08（自述 2000 起）（第 120 批 官方登记核实 2026-10-29）",
+  "hq": "Rodovia Demócrito Moreira 176, Fátima, Aracruz - ES 29192-243（(27) 3256-3002）（第 120 批 官方登记核实 2026-10-29）",
+  "size": "小型（EPP）（第 120 批 官方登记核实 2026-10-29）",
+  "other": "政府项目（守界：按单核）；第 120 批：电子安防 / CCTV / 门禁 / 布线集成（CNAE 安防服务）；坐实（CNPJ + 地址 + 开业日 + 电话）（第 120 批 官方登记核实 2026-10-29）"
  },
  "business_lines": [
   "CFTV / 报警 / 门禁 / 自动化集成"

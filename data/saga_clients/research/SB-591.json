@@ -43,7 +43,8 @@
    "title": "（职务待核）",
    "email": "carlos@elementuengenharia.com.br",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "联系人（研究档）= 收件人 — 一页纸一次：集成商 25% B、ITS 路侧机柜 → 90 W 注入器不供明说 → STI-154GP / STI-288DGGPM / STI-488DGGPM 一口价 + 付费样机；葡语备注 — 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（进口税自理）、Anatel 不声称（第 120 批 官方登记核实 2026-10-29）"
   }
  ],
  "grade_override": null,
@@ -54,8 +55,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "巴西",
-  "other": "官网 elementuengenharia.com.br，语言 pt，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Rua Pedro José Laroca 1667, Jardim Santa Marta, Araraquara - SP 14808-300（nfe@elementuengenharia.com.br）（第 120 批 官方登记核实 2026-10-29）",
+  "other": "官网 elementuengenharia.com.br，语言 pt，快照状态 ok；角色判定来源：官网文案；第 120 批：道路基础设施 / ITS 工程集成（HS-WIM、龙门架、可变情报板；CNAE 7112-0/00）；坐实（CNPJ + 地址 + 开业日 + CNAE）（第 120 批 官方登记核实 2026-10-29）",
+  "legal_name": "Elementu Engenharia e Integração Ltda（CNPJ 14.458.461/0001-17；ATIVA；Sociedade Empresária Limitada）",
+  "founded": "2011-09-26（第 120 批 官方登记核实 2026-10-29）",
+  "size": "小型（第 120 批 官方登记核实 2026-10-29）"
  },
  "business_lines": [
   "道路基础设施 / ITS 集成（巴西）"
