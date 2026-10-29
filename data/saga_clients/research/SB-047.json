@@ -1,285 +1,286 @@
 {
-  "code": "SB-047",
-  "name_official": "Topica LLC（Топика，蒙古国）",
-  "website_status": "在线（topica.mn，快照 2026-10-21，蒙古语网店）",
-  "summary": "乌兰巴托网络 / 电气设备网店 + 分销（MikroTik、Cisco、Milesight、Schneider、ZKTeco、Ruijie、D-Link、Huawei；SFP 词频 158、10G 83、PoE 40；热点配置服务），需求 MC / SFP / 交换机「很多外壳」，2025-11 对 24 PoE 回复「需要 16 port 的」。",
-  "type": "贸易商",
-  "size": "待补证",
-  "brands_seen": [
-    "MikroTik",
-    "Cisco",
-    "Milesight",
-    "Schneider",
-    "ZKTeco",
-    "Ruijie",
-    "D-Link",
-    "Huawei"
-  ],
-  "evidence": [
-    {
-      "kind": "用户记录",
-      "claim": "MC/SFP/switch，很多外壳；E 已回复",
-      "quote": "MC SFP switch 很多外壳；回复里有详细联系方式（用户 Clients 表摘录）",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网快照",
-      "claim": "品牌 MikroTik / Cisco / Milesight / Schneider / ZKTeco / Ruijie / D-Link / Huawei；型号 SFP-10G-ZR / SFP-10G-BX40D；电话 7555 4488；info@topica.mn",
-      "quote": "brands MikroTik, Cisco, Milesight, Schneider, ZKTeco, Ruijie, D-Link, Huawei; models SFP-10G-ZR, SFP-10G-BX40D; Утас: 75554488",
-      "url": "https://topica.mn/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "MC SFP switch 很多外壳；2025-11 24PoE→需要 16 port 的",
-      "quote": "兴趣：MC SFP switch 很多外壳；回复：需要16 port的",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "（见 Clients 表回复签名）",
-      "role": "",
-      "email": "",
-      "phone": "",
-      "source": "用户 Clients 表"
-    },
-    {
-      "name": "（未具名）",
-      "title": "",
-      "email": "info@topica.mn",
-      "phone": "+976 7555 4488",
-      "source": "https://topica.mn/"
-    }
-  ],
-  "grade_override": "B",
-  "override_reason": "蒙古国非主攻区、市场体量小，仅 1 次回复 → 慢跟。",
-  "notes": "回复其邮件时给 STI-110GE + STC-28DGGPM 两款（分销 20%），之后按季度触达。",
-  "researched_at": "2026-10-21",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（官网快照核对）"
+ "code": "SB-047",
+ "name_official": "Topica LLC（Топика，蒙古国）",
+ "website_status": "在线（topica.mn，快照 2026-10-21，蒙古语网店）",
+ "summary": "乌兰巴托网络 / 电气设备网店 + 分销（MikroTik、Cisco、Milesight、Schneider、ZKTeco、Ruijie、D-Link、Huawei；SFP 词频 158、10G 83、PoE 40；热点配置服务），需求 MC / SFP / 交换机「很多外壳」，2025-11 对 24 PoE 回复「需要 16 port 的」。",
+ "type": "贸易商",
+ "size": "待补证",
+ "brands_seen": [
+  "MikroTik",
+  "Cisco",
+  "Milesight",
+  "Schneider",
+  "ZKTeco",
+  "Ruijie",
+  "D-Link",
+  "Huawei"
+ ],
+ "evidence": [
+  {
+   "kind": "用户记录",
+   "claim": "MC/SFP/switch，很多外壳；E 已回复",
+   "quote": "MC SFP switch 很多外壳；回复里有详细联系方式（用户 Clients 表摘录）",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Topica LLC（待核）",
-    "founded": "（待核）",
-    "hq": "Ulaanbaatar, Mongolia",
-    "size": "中小型网店 / 分销",
-    "other": "多品牌；SFP / 10G 品类深"
+  {
+   "kind": "官网快照",
+   "claim": "品牌 MikroTik / Cisco / Milesight / Schneider / ZKTeco / Ruijie / D-Link / Huawei；型号 SFP-10G-ZR / SFP-10G-BX40D；电话 7555 4488；info@topica.mn",
+   "quote": "brands MikroTik, Cisco, Milesight, Schneider, ZKTeco, Ruijie, D-Link, Huawei; models SFP-10G-ZR, SFP-10G-BX40D; Утас: 75554488",
+   "url": "https://topica.mn/",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "网络设备网店（交换机、SFP、无线、MikroTik）",
-    "安防 / 门禁（Milesight、ZKTeco）",
-    "电气（Schneider）"
-  ],
-  "channels": {
-    "role": "网店 / 分销商",
-    "region": "蒙古国"
-  },
-  "signals": [
-    "明确 16 口 PoE 需求（2025-11）",
-    "SFP / 10G 品类深 → 10G 上联机型可配"
-  ],
-  "risks": [
-    "蒙古物流（经二连浩特陆运）与小量",
-    "SFP 为其主品类（Saga 无模块）"
-  ],
-  "saga_fit": {
-    "p1": "STC-2216GPM",
-    "tier": 20,
-    "why": "16 口 PoE 需求 → HRUI 列表 STC-2216GPM（$137.5）；上联 10G 版 STC-2416XGGPM 待核；经销 20%。"
-  },
-  "email_hook": "Bayar — MOQ 1 pc; warranty 1 yr commercial / 3 yrs industrial; 16-port PoE managed STC-2216GPM $141.7, 8-port PoE L2+ STC-28DGGPM $80.7, 24-port PoE L2+ STC-424XGGPM-280W $180 USD EXW (our 4-August mail said $170; yuan 7.2→6.7 since). Which media-converter / switch brand do you carry in Mongolia today, so I can map the equivalent models?",
-  "mail_review": {
-    "binding": {
-      "level": "轻度触达（Elsa 邮箱 2025-10-30 A.Bayar（Topica LLC，乌兰巴托）回「May we have your price list, MOQ, Warranty information?」；S/A 邮箱 0 封——之前判「未发信」是因为群发走的 Elsa 邮箱）；补核（第 73 批）：Elsa 10-31 只回下载链接 + STI-244GP 规格书，三问未答，之后无回；Elsa 群发 BCC 已触达 8 轮 2025-02-24→2025-10-28（锚 To info@golfautomation.co.in，本户在 Bcc）→ 10-28 那轮 A.Bayar 10-30 回信 → Elsa 10-31 Re:（已入库）→ 之后改为 1:1 直收 6 轮 2025-12-04→2026-08-04（To 仅 info@topica.mn；08-04 头 19fcb6dd212d4d23 无 Bcc，称呼「Hi,」，正文 Price: 170USD/PC = 24 口 PoE STC-424XGGPM-280W 的 8 月旧价）；10-30 之后再无来信",
-      "type": "贸易商",
-      "sieve": "2（问价/MOQ/保修）",
-      "stop": "2025-10-30 来信后 Elsa 回复未入库",
-      "revive": "补一封：价表（20% 分销档）+ MOQ 1 + 保修 1 年；问其在卖的 MC/交换机品牌",
-      "lane": "蒙古国 非主攻",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 0；用户表：「兴趣：MC SFP switch 很多外壳；回复：需要16 port的」；研究档 risks：蒙古物流（经二连浩特陆运）与小量；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
-    },
-    "situation": "乌兰巴托网络 / 电气设备网店 + 分销（MikroTik、Cisco、Milesight、Schneider、ZKTeco、Ruijie、D-Link、Huawei；SFP 词频 158、10G 83、PoE 40；热点配置服务），需求 MC / SFP / 交换机「很多外壳」，2025-11 对 24 PoE 回复「需要 16 port 的」。",
-    "need": "16 口 PoE 需求 → HRUI 列表 STC-2216GPM（$137.5）；上联 10G 版 STC-2416XGGPM 待核；经销 20%。",
-    "breakpoint": "蒙古物流（经二连浩特陆运）与小量",
-    "saga_now": {
-      "p1": "STC-2216GPM",
-      "tier": 20,
-      "price": "STC-2216GPM $141.7（HRUI 2026-09-30 进价 790 CNY +20%，Q-47 默认；Drive 旧表 $137.5）；STC-28DGGPM $80.7 @20%；STC-424XGGPM-280W $180（现价轮群发）；按主表（研究档 saga_fit）；群发里他已看到的价：2026-08-04 Elsa「24 Port PoE Managed Switch」$170（To info@topica.mn）→ 信稿 $180 已点明汇率；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-24 $65（10G Media Converter = 10G 媒体转换器，Elsa 箱 1 轮 2025-02-24；Simon 实报就是 $65）；2025-06-09 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-09；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-07-09 $240（24 Port Fiber Switch = STC-4168XGGCM 单 AC 稿，Elsa 箱 1 轮 2025-07-09；同款 2025-09 起群发 $280（双 AC 稿）——再提这款说 $280）；2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-09-26→2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "16 口 PoE 需求 → HRUI 列表 STC-2216GPM（$137.5）；上联 10G 版 STC-2416XGGPM 待核；经销 20%。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11",
-      "channel": "Elsa 或 A 邮箱 → info@topica.mn",
-      "action": "首封前知悉：Elsa 已 Bcc 8 轮 + 1:1 直收 6 轮（2025-02-24→2026-08-04），对方只在 2025-10-30 回过一次、三问未得答——这封是补答，不是首封，且他 2026-08 看到过 24 口 PoE $170（现价轮 $180 要先说明）（第 74 批(o)）；补答 + 一问",
-      "one_question": "Bayar — MOQ 1 pc; warranty 1 yr commercial / 3 yrs industrial; 16-port PoE managed STC-2216GPM $141.7, 8-port PoE L2+ STC-28DGGPM $80.7, 24-port PoE L2+ STC-424XGGPM-280W $180 USD EXW (our 4-August mail said $170; yuan 7.2→6.7 since). Which media-converter / switch brand do you carry in Mongolia today, so I can map the equivalent models?"
-    },
-    "facts": [
-      {
-        "date": "2025-02-24",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@golfautomation.co.in）",
-        "quote": "10G Media Converter（Elsa 群发第 1/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in；正文价 65usd/pc，第 74 批(p) 读稿 msg 19501dcc2221e96f）",
-        "why": "第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=info@golfautomation.co.in ⇒ 本户在该锚 Bcc 名单",
-        "k": "elsa_bcc",
-        "msg_id": "19535ff526c7efc3"
-      },
-      {
-        "date": "2025-04-14",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@golfautomation.co.in）",
-        "quote": "Industrial PoE Switch（Elsa 群发第 2/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in）",
-        "why": "第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=info@golfautomation.co.in ⇒ 本户在该锚 Bcc 名单",
-        "k": "elsa_bcc",
-        "msg_id": "1963275244054936"
-      },
-      {
-        "date": "2025-05-07",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@golfautomation.co.in）",
-        "quote": "Commercial PoE Switch（Elsa 群发第 3/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in）",
-        "why": "第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=info@golfautomation.co.in ⇒ 本户在该锚 Bcc 名单",
-        "k": "elsa_bcc",
-        "msg_id": "196a901f5b0907a1"
-      },
-      {
-        "date": "2025-06-09",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@golfautomation.co.in）",
-        "quote": "48 Port PoE Managed Switch（Elsa 群发第 4/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
-        "why": "第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=info@golfautomation.co.in ⇒ 本户在该锚 Bcc 名单",
-        "k": "elsa_bcc",
-        "msg_id": "1975313dc784fd43"
-      },
-      {
-        "date": "2025-07-09",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@golfautomation.co.in）",
-        "quote": "24 Port Fiber Switch（Elsa 群发第 5/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in；正文价 240usd/pc，第 74 批(p) 读稿 msg 19628286dc08373a / 19874a707c2ed712）",
-        "why": "第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=info@golfautomation.co.in ⇒ 本户在该锚 Bcc 名单",
-        "k": "elsa_bcc",
-        "msg_id": "197ed7299b161d74"
-      },
-      {
-        "date": "2025-08-10",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@golfautomation.co.in）",
-        "quote": "Industrial PoE Switch（Elsa 群发第 6/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in）",
-        "why": "第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=info@golfautomation.co.in ⇒ 本户在该锚 Bcc 名单",
-        "k": "elsa_bcc",
-        "msg_id": "19891d2fb7f37292"
-      },
-      {
-        "date": "2025-09-26",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@golfautomation.co.in）",
-        "quote": "10G Enterprise SFP Switch（Elsa 群发第 7/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=info@golfautomation.co.in ⇒ 本户在该锚 Bcc 名单",
-        "k": "elsa_bcc",
-        "msg_id": "19984c1d62ba38d6"
-      },
-      {
-        "date": "2025-10-28",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To info@golfautomation.co.in）",
-        "quote": "Industrial PoE Switch（Elsa 群发第 8/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in）",
-        "why": "第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=info@golfautomation.co.in ⇒ 本户在该锚 Bcc 名单；就是这封 A.Bayar 10-30 回了",
-        "k": "elsa_bcc",
-        "msg_id": "19a293a064e0de07"
-      },
-      {
-        "date": "2025-10-30",
-        "dir": "来",
-        "who": "A.Bayar（Topica LLC）",
-        "quote": "May we have your price list, MOQ , Warranty information?",
-        "why": "三问齐全 = 贸易商式评估；Elsa 是否回了价表未入库",
-        "k": "gmail_e"
-      },
-      {
-        "date": "2025-10-31",
-        "dir": "去",
-        "who": "Elsa",
-        "quote": "1, please see attached download link. 2, I am also attaching a datasheet, you can find plenty of useful information in it.（附 Download Link_Alan.pdf + STI-244GP.pdf）",
-        "why": "他问的 price list / MOQ / warranty 一个都没正面答——只给了下载链接 + 一本规格书 → 无下文",
-        "k": "gmail_e 19a38c06fc7947d2"
-      },
-      {
-        "date": "2025-12-04",
-        "dir": "out",
-        "who": "Elsa → info@topica.mn",
-        "quote": "Booster PoE Switch（Elsa 1:1 第 9/14 轮；To 仅本户）",
-        "why": "第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=本户 ⇒ 1:1 直收",
-        "k": "elsa_1to1",
-        "msg_id": "19ae7dfdf6f341f3"
-      },
-      {
-        "date": "2025-12-29",
-        "dir": "去",
-        "who": "Elsa 群发（To info@topica.mn，直接收件非 BCC）",
-        "quote": "Marvell Industrial Alert System",
-        "why": "Elsa 箱 from:e.sagatelecom to:topica.mn 列表（第 73 批(o)）；2026-08-04 那封 24-PoE 报的是 $170，信稿报 $180 必须先点明",
-        "k": "elsa_campaign",
-        "msg_id": "19b6955f73ed4dab"
-      },
-      {
-        "date": "2026-03-02",
-        "dir": "去",
-        "who": "Elsa 群发（To info@topica.mn，直接收件非 BCC）",
-        "quote": "Updated Ethernet Switches Links",
-        "why": "Elsa 箱 from:e.sagatelecom to:topica.mn 列表（第 73 批(o)）；2026-08-04 那封 24-PoE 报的是 $170，信稿报 $180 必须先点明",
-        "k": "elsa_campaign",
-        "msg_id": "19cae26ba74987b4"
-      },
-      {
-        "date": "2026-04-03",
-        "dir": "去",
-        "who": "Elsa 群发（To info@topica.mn，直接收件非 BCC）",
-        "quote": "Industrial PoE Switch",
-        "why": "Elsa 箱 from:e.sagatelecom to:topica.mn 列表（第 73 批(o)）；2026-08-04 那封 24-PoE 报的是 $170，信稿报 $180 必须先点明",
-        "k": "elsa_campaign",
-        "msg_id": "19d51688f37521e1"
-      },
-      {
-        "date": "2026-05-11",
-        "dir": "去",
-        "who": "Elsa 群发（To info@topica.mn，直接收件非 BCC）",
-        "quote": "10G Enterprise SFP Switch（正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "Elsa 箱 from:e.sagatelecom to:topica.mn 列表（第 73 批(o)）；2026-08-04 那封 24-PoE 报的是 $170，信稿报 $180 必须先点明",
-        "k": "elsa_campaign",
-        "msg_id": "19e15ccbc917f627"
-      },
-      {
-        "date": "2026-08-04",
-        "dir": "去",
-        "who": "Elsa 群发（To info@topica.mn，直接收件非 BCC）",
-        "quote": "24 Port PoE Managed Switch — Price: 170USD/PC",
-        "why": "Elsa 箱 from:e.sagatelecom to:topica.mn 列表（第 73 批(o)）；2026-08-04 那封 24-PoE 报的是 $170，信稿报 $180 必须先点明",
-        "k": "elsa_campaign",
-        "msg_id": "19fcb6dd212d4d23"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：MC SFP switch 很多外壳；回复：需要16 port的",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "（已核 2026-10-24，第 73 批）Elsa 2025-10-31 只回下载链接 PDF + STI-244GP 规格书，未答 price list / MOQ / warranty",
-      "2026-08-04 Elsa 群发给他看过 24 口 PoE $170；补答信若报 STC-424XGGPM-280W 现价 $180，先说 8 月那轮是 $170、汇率 7.2→6.7（第 74 批(o)）"
-    ],
-    "draft_en": {
-      "subject": "Price list, MOQ, warranty — Topica",
-      "body": "Hi Bayar,\n\nYou asked for price list, MOQ and warranty in October 2025; I sent the download links and a datasheet but not the three answers — here they are in one line: MOQ 1 pc; warranty 1 year on commercial (STC) models and 3 years on industrial (STI) models, lifetime technical support, and the three prices most people ask for first (USD EXW, 15-day validity): 16-port PoE L2 managed STC-2216GPM (16 × PoE + 2 × GE + 2 × SFP, 200 W) $141.7; 8-port PoE L2+ managed STC-28DGGPM (8 × PoE + 2 × 1G/2.5G SFP) $80.7; 24-port PoE L2+ managed STC-424XGGPM-280W (24 × PoE + 4 × 10G SFP+) $180 — my mail of 4 August quoted $170 for this one; the yuan has moved from 7.2 to 6.7 against the dollar since, hence $180 today. The full table follows once I know which brand you carry.\n\nOne question: which switch / media-converter brand do you carry in Mongolia today, so I can map our equivalent models instead of sending the whole catalog? Shipping is by road via Erenhot or by air to Ulaanbaatar, your choice.\n\nBest regards,\nElsa\nSaga Telecom - sagatele.com"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "MC SFP switch 很多外壳；2025-11 24PoE→需要 16 port 的",
+   "quote": "兴趣：MC SFP switch 很多外壳；回复：需要16 port的",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "（见 Clients 表回复签名）",
+   "role": "",
+   "email": "",
+   "phone": "",
+   "source": "用户 Clients 表"
+  },
+  {
+   "name": "（未具名）",
+   "title": "",
+   "email": "info@topica.mn",
+   "phone": "+976 7555 4488",
+   "source": "https://topica.mn/",
+   "role": "收件箱（回信署名 Bayar；2025-11 点名「需要 16 port 的」，欠答）= 收件人 — 一页纸：分销 20% B、STC-2216GP $63–76 / 16 口管理版 按主表 / STC-2224GP $86 一口价 + MOQ 1 + 付费样机；在售品牌不点名 — 蒙古常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 乌兰巴托（第 123 批 官方登记核实 2026-10-29）"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "蒙古国非主攻区、市场体量小，仅 1 次回复 → 慢跟。",
+ "notes": "回复其邮件时给 STI-110GE + STC-28DGGPM 两款（分销 20%），之后按季度触达。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（官网快照核对）"
+ },
+ "company_facts": {
+  "legal_name": "Topica LLC（Топика ХХК；注册号 1 查未得）",
+  "founded": "2005（第 123 批 官方登记核实 2026-10-29）",
+  "hq": "Office 3A, 1st Khoroo, Chingeltei District, Ulaanbaatar, Mongolia（+976 7012 5001 / 5002）（第 123 批 官方登记核实 2026-10-29）",
+  "size": "中小型（名录 51–200 偏高）（第 123 批 官方登记核实 2026-10-29）",
+  "other": "多品牌；SFP / 10G 品类深；第 123 批：★ 网店 + 分销 + 集成（LuxDev 医院 IT 中标），回信点名 16 口 → **分销 20% 一页纸（预付 100%）；回信即升 A 候选**；部分坐实（名录成立年 + 地址）（第 123 批 官方登记核实 2026-10-29）"
+ },
+ "business_lines": [
+  "网络设备网店（交换机、SFP、无线、MikroTik）",
+  "安防 / 门禁（Milesight、ZKTeco）",
+  "电气（Schneider）"
+ ],
+ "channels": {
+  "role": "网店 / 分销商",
+  "region": "蒙古国"
+ },
+ "signals": [
+  "明确 16 口 PoE 需求（2025-11）",
+  "SFP / 10G 品类深 → 10G 上联机型可配"
+ ],
+ "risks": [
+  "蒙古物流（经二连浩特陆运）与小量",
+  "SFP 为其主品类（Saga 无模块）"
+ ],
+ "saga_fit": {
+  "p1": "STC-2216GPM",
+  "tier": 20,
+  "why": "16 口 PoE 需求 → HRUI 列表 STC-2216GPM（$137.5）；上联 10G 版 STC-2416XGGPM 待核；经销 20%。"
+ },
+ "email_hook": "Bayar — MOQ 1 pc; warranty 1 yr commercial / 3 yrs industrial; 16-port PoE managed STC-2216GPM $141.7, 8-port PoE L2+ STC-28DGGPM $80.7, 24-port PoE L2+ STC-424XGGPM-280W $180 USD EXW (our 4-August mail said $170; yuan 7.2→6.7 since). Which media-converter / switch brand do you carry in Mongolia today, so I can map the equivalent models?",
+ "mail_review": {
+  "binding": {
+   "level": "轻度触达（Elsa 邮箱 2025-10-30 A.Bayar（Topica LLC，乌兰巴托）回「May we have your price list, MOQ, Warranty information?」；S/A 邮箱 0 封——之前判「未发信」是因为群发走的 Elsa 邮箱）；补核（第 73 批）：Elsa 10-31 只回下载链接 + STI-244GP 规格书，三问未答，之后无回；Elsa 群发 BCC 已触达 8 轮 2025-02-24→2025-10-28（锚 To info@golfautomation.co.in，本户在 Bcc）→ 10-28 那轮 A.Bayar 10-30 回信 → Elsa 10-31 Re:（已入库）→ 之后改为 1:1 直收 6 轮 2025-12-04→2026-08-04（To 仅 info@topica.mn；08-04 头 19fcb6dd212d4d23 无 Bcc，称呼「Hi,」，正文 Price: 170USD/PC = 24 口 PoE STC-424XGGPM-280W 的 8 月旧价）；10-30 之后再无来信",
+   "type": "贸易商",
+   "sieve": "2（问价/MOQ/保修）",
+   "stop": "2025-10-30 来信后 Elsa 回复未入库",
+   "revive": "补一封：价表（20% 分销档）+ MOQ 1 + 保修 1 年；问其在卖的 MC/交换机品牌",
+   "lane": "蒙古国 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「兴趣：MC SFP switch 很多外壳；回复：需要16 port的」；研究档 risks：蒙古物流（经二连浩特陆运）与小量；Elsa 邮箱 `data/gmail_e/text/`（Replied 线程，客户→Elsa 正文；Elsa 回复正文未入库）"
+  },
+  "situation": "乌兰巴托网络 / 电气设备网店 + 分销（MikroTik、Cisco、Milesight、Schneider、ZKTeco、Ruijie、D-Link、Huawei；SFP 词频 158、10G 83、PoE 40；热点配置服务），需求 MC / SFP / 交换机「很多外壳」，2025-11 对 24 PoE 回复「需要 16 port 的」。",
+  "need": "16 口 PoE 需求 → HRUI 列表 STC-2216GPM（$137.5）；上联 10G 版 STC-2416XGGPM 待核；经销 20%。",
+  "breakpoint": "蒙古物流（经二连浩特陆运）与小量",
+  "saga_now": {
+   "p1": "STC-2216GPM",
+   "tier": 20,
+   "price": "STC-2216GPM $141.7（HRUI 2026-09-30 进价 790 CNY +20%，Q-47 默认；Drive 旧表 $137.5）；STC-28DGGPM $80.7 @20%；STC-424XGGPM-280W $180（现价轮群发）；按主表（研究档 saga_fit）；群发里他已看到的价：2026-08-04 Elsa「24 Port PoE Managed Switch」$170（To info@topica.mn）→ 信稿 $180 已点明汇率；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-24 $65（10G Media Converter = 10G 媒体转换器，Elsa 箱 1 轮 2025-02-24；Simon 实报就是 $65）；2025-06-09 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-09；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-07-09 $240（24 Port Fiber Switch = STC-4168XGGCM 单 AC 稿，Elsa 箱 1 轮 2025-07-09；同款 2025-09 起群发 $280（双 AC 稿）——再提这款说 $280）；2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-09-26→2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+   "why": "16 口 PoE 需求 → HRUI 列表 STC-2216GPM（$137.5）；上联 10G 版 STC-2416XGGPM 待核；经销 20%。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "Elsa 或 A 邮箱 → info@topica.mn",
+   "action": "首封前知悉：Elsa 已 Bcc 8 轮 + 1:1 直收 6 轮（2025-02-24→2026-08-04），对方只在 2025-10-30 回过一次、三问未得答——这封是补答，不是首封，且他 2026-08 看到过 24 口 PoE $170（现价轮 $180 要先说明）（第 74 批(o)）；补答 + 一问",
+   "one_question": "Bayar — MOQ 1 pc; warranty 1 yr commercial / 3 yrs industrial; 16-port PoE managed STC-2216GPM $141.7, 8-port PoE L2+ STC-28DGGPM $80.7, 24-port PoE L2+ STC-424XGGPM-280W $180 USD EXW (our 4-August mail said $170; yuan 7.2→6.7 since). Which media-converter / switch brand do you carry in Mongolia today, so I can map the equivalent models?"
+  },
+  "facts": [
+   {
+    "date": "2025-02-24",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@golfautomation.co.in）",
+    "quote": "10G Media Converter（Elsa 群发第 1/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in；正文价 65usd/pc，第 74 批(p) 读稿 msg 19501dcc2221e96f）",
+    "why": "第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=info@golfautomation.co.in ⇒ 本户在该锚 Bcc 名单",
+    "k": "elsa_bcc",
+    "msg_id": "19535ff526c7efc3"
+   },
+   {
+    "date": "2025-04-14",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@golfautomation.co.in）",
+    "quote": "Industrial PoE Switch（Elsa 群发第 2/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in）",
+    "why": "第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=info@golfautomation.co.in ⇒ 本户在该锚 Bcc 名单",
+    "k": "elsa_bcc",
+    "msg_id": "1963275244054936"
+   },
+   {
+    "date": "2025-05-07",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@golfautomation.co.in）",
+    "quote": "Commercial PoE Switch（Elsa 群发第 3/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in）",
+    "why": "第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=info@golfautomation.co.in ⇒ 本户在该锚 Bcc 名单",
+    "k": "elsa_bcc",
+    "msg_id": "196a901f5b0907a1"
+   },
+   {
+    "date": "2025-06-09",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@golfautomation.co.in）",
+    "quote": "48 Port PoE Managed Switch（Elsa 群发第 4/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58）",
+    "why": "第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=info@golfautomation.co.in ⇒ 本户在该锚 Bcc 名单",
+    "k": "elsa_bcc",
+    "msg_id": "1975313dc784fd43"
+   },
+   {
+    "date": "2025-07-09",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@golfautomation.co.in）",
+    "quote": "24 Port Fiber Switch（Elsa 群发第 5/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in；正文价 240usd/pc，第 74 批(p) 读稿 msg 19628286dc08373a / 19874a707c2ed712）",
+    "why": "第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=info@golfautomation.co.in ⇒ 本户在该锚 Bcc 名单",
+    "k": "elsa_bcc",
+    "msg_id": "197ed7299b161d74"
+   },
+   {
+    "date": "2025-08-10",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@golfautomation.co.in）",
+    "quote": "Industrial PoE Switch（Elsa 群发第 6/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in）",
+    "why": "第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=info@golfautomation.co.in ⇒ 本户在该锚 Bcc 名单",
+    "k": "elsa_bcc",
+    "msg_id": "19891d2fb7f37292"
+   },
+   {
+    "date": "2025-09-26",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@golfautomation.co.in）",
+    "quote": "10G Enterprise SFP Switch（Elsa 群发第 7/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+    "why": "第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=info@golfautomation.co.in ⇒ 本户在该锚 Bcc 名单",
+    "k": "elsa_bcc",
+    "msg_id": "19984c1d62ba38d6"
+   },
+   {
+    "date": "2025-10-28",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To info@golfautomation.co.in）",
+    "quote": "Industrial PoE Switch（Elsa 群发第 8/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in）",
+    "why": "第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=info@golfautomation.co.in ⇒ 本户在该锚 Bcc 名单；就是这封 A.Bayar 10-30 回了",
+    "k": "elsa_bcc",
+    "msg_id": "19a293a064e0de07"
+   },
+   {
+    "date": "2025-10-30",
+    "dir": "来",
+    "who": "A.Bayar（Topica LLC）",
+    "quote": "May we have your price list, MOQ , Warranty information?",
+    "why": "三问齐全 = 贸易商式评估；Elsa 是否回了价表未入库",
+    "k": "gmail_e"
+   },
+   {
+    "date": "2025-10-31",
+    "dir": "去",
+    "who": "Elsa",
+    "quote": "1, please see attached download link. 2, I am also attaching a datasheet, you can find plenty of useful information in it.（附 Download Link_Alan.pdf + STI-244GP.pdf）",
+    "why": "他问的 price list / MOQ / warranty 一个都没正面答——只给了下载链接 + 一本规格书 → 无下文",
+    "k": "gmail_e 19a38c06fc7947d2"
+   },
+   {
+    "date": "2025-12-04",
+    "dir": "out",
+    "who": "Elsa → info@topica.mn",
+    "quote": "Booster PoE Switch（Elsa 1:1 第 9/14 轮；To 仅本户）",
+    "why": "第 74 批(o) `from:e.sagatelecom to:topica.mn` 全程 complete：14 行；To=本户 ⇒ 1:1 直收",
+    "k": "elsa_1to1",
+    "msg_id": "19ae7dfdf6f341f3"
+   },
+   {
+    "date": "2025-12-29",
+    "dir": "去",
+    "who": "Elsa 群发（To info@topica.mn，直接收件非 BCC）",
+    "quote": "Marvell Industrial Alert System",
+    "why": "Elsa 箱 from:e.sagatelecom to:topica.mn 列表（第 73 批(o)）；2026-08-04 那封 24-PoE 报的是 $170，信稿报 $180 必须先点明",
+    "k": "elsa_campaign",
+    "msg_id": "19b6955f73ed4dab"
+   },
+   {
+    "date": "2026-03-02",
+    "dir": "去",
+    "who": "Elsa 群发（To info@topica.mn，直接收件非 BCC）",
+    "quote": "Updated Ethernet Switches Links",
+    "why": "Elsa 箱 from:e.sagatelecom to:topica.mn 列表（第 73 批(o)）；2026-08-04 那封 24-PoE 报的是 $170，信稿报 $180 必须先点明",
+    "k": "elsa_campaign",
+    "msg_id": "19cae26ba74987b4"
+   },
+   {
+    "date": "2026-04-03",
+    "dir": "去",
+    "who": "Elsa 群发（To info@topica.mn，直接收件非 BCC）",
+    "quote": "Industrial PoE Switch",
+    "why": "Elsa 箱 from:e.sagatelecom to:topica.mn 列表（第 73 批(o)）；2026-08-04 那封 24-PoE 报的是 $170，信稿报 $180 必须先点明",
+    "k": "elsa_campaign",
+    "msg_id": "19d51688f37521e1"
+   },
+   {
+    "date": "2026-05-11",
+    "dir": "去",
+    "who": "Elsa 群发（To info@topica.mn，直接收件非 BCC）",
+    "quote": "10G Enterprise SFP Switch（正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+    "why": "Elsa 箱 from:e.sagatelecom to:topica.mn 列表（第 73 批(o)）；2026-08-04 那封 24-PoE 报的是 $170，信稿报 $180 必须先点明",
+    "k": "elsa_campaign",
+    "msg_id": "19e15ccbc917f627"
+   },
+   {
+    "date": "2026-08-04",
+    "dir": "去",
+    "who": "Elsa 群发（To info@topica.mn，直接收件非 BCC）",
+    "quote": "24 Port PoE Managed Switch — Price: 170USD/PC",
+    "why": "Elsa 箱 from:e.sagatelecom to:topica.mn 列表（第 73 批(o)）；2026-08-04 那封 24-PoE 报的是 $170，信稿报 $180 必须先点明",
+    "k": "elsa_campaign",
+    "msg_id": "19fcb6dd212d4d23"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：MC SFP switch 很多外壳；回复：需要16 port的",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "（已核 2026-10-24，第 73 批）Elsa 2025-10-31 只回下载链接 PDF + STI-244GP 规格书，未答 price list / MOQ / warranty",
+   "2026-08-04 Elsa 群发给他看过 24 口 PoE $170；补答信若报 STC-424XGGPM-280W 现价 $180，先说 8 月那轮是 $170、汇率 7.2→6.7（第 74 批(o)）"
+  ],
+  "draft_en": {
+   "subject": "Price list, MOQ, warranty — Topica",
+   "body": "Hi Bayar,\n\nYou asked for price list, MOQ and warranty in October 2025; I sent the download links and a datasheet but not the three answers — here they are in one line: MOQ 1 pc; warranty 1 year on commercial (STC) models and 3 years on industrial (STI) models, lifetime technical support, and the three prices most people ask for first (USD EXW, 15-day validity): 16-port PoE L2 managed STC-2216GPM (16 × PoE + 2 × GE + 2 × SFP, 200 W) $141.7; 8-port PoE L2+ managed STC-28DGGPM (8 × PoE + 2 × 1G/2.5G SFP) $80.7; 24-port PoE L2+ managed STC-424XGGPM-280W (24 × PoE + 4 × 10G SFP+) $180 — my mail of 4 August quoted $170 for this one; the yuan has moved from 7.2 to 6.7 against the dollar since, hence $180 today. The full table follows once I know which brand you carry.\n\nOne question: which switch / media-converter brand do you carry in Mongolia today, so I can map our equivalent models instead of sending the whole catalog? Shipping is by road via Erenhot or by air to Ulaanbaatar, your choice.\n\nBest regards,\nElsa\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ }
 }

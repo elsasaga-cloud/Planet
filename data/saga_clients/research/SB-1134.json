@@ -1,151 +1,152 @@
 {
-  "code": "SB-1134",
-  "name_official": "Conexión de Redes de Centro América（萨尔瓦多；KP Antonio Alberto Guadron, Gerente General）",
-  "researched_at": "2026-10-24",
-  "website_status": "正常（conexionderedes.com，未爬）",
-  "summary": "A 邮箱 24 去 3 来；总经理 Antonio 三次真回：2025-05-28 要旁路交换机更多资料（给 STI-488XGGPM2B-2BT）；2026-01-19 对 CENTEC「OEM Core Switching Solution」说「Interesting solution. Please send the technical information so we can share it with our clients」→ Alan 01-20 发 PeakNetX V3.1 + Function List V2.4 + STH25G；01-20 回「Thank you for your support and for processing the information with the Data Center client. I'll leave you with some feedback」→ feedback 从未到；2026-09-09 推 16 口 DIN PoE 无回。",
-  "type": "中美洲网络集成/分销商（为其客户转发方案）",
-  "size": "（未核）",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "邮件",
-      "claim": "要旁路交换机资料",
-      "quote": "I'd like to read more about the advantages of this equipment. Please send me more information.",
-      "url": "data/gmail_a/messages/<year>/<month>.jsonl",
-      "date": "2025-05-28"
-    },
-    {
-      "kind": "邮件",
-      "claim": "CENTEC 方案转给其客户",
-      "quote": "Interesting solution. Please send the technical information so we can share it with our clients.",
-      "url": "data/gmail_a/messages/<year>/<month>.jsonl",
-      "date": "2026-01-19"
-    },
-    {
-      "kind": "邮件",
-      "claim": "提到「Data Center client」并许诺反馈",
-      "quote": "Thank you for your support and for processing the information with the Data Center client. I'll leave you with some feedback.",
-      "url": "data/gmail_a/messages/<year>/<month>.jsonl",
-      "date": "2026-01-20"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Antonio Alberto Guadron",
-      "title": "Gerente General",
-      "email": "gerencia@conexionderedes.com",
-      "phone": "",
-      "source": "data/gmail_a/messages/<year>/<month>.jsonl"
-    }
-  ],
-  "grade_override": "B",
-  "override_reason": "总经理 3 次具名真回（2025-05、2026-01 ×2），有「Data Center client」在手并承诺反馈；自动 C 系无互动评分；按证据升 B（慢慢跟进，非主攻区）。",
-  "notes": "西语区（萨尔瓦多）；信件英文流畅。feedback 未到 = 典型「转发给客户后沉默」。",
-  "deep": {
-    "done_at": "2026-10-24",
-    "level": "邮件证据 + 官网常识"
+ "code": "SB-1134",
+ "name_official": "Conexión de Redes de Centro América（萨尔瓦多；KP Antonio Alberto Guadron, Gerente General）",
+ "researched_at": "2026-10-24",
+ "website_status": "正常（conexionderedes.com，未爬）",
+ "summary": "A 邮箱 24 去 3 来；总经理 Antonio 三次真回：2025-05-28 要旁路交换机更多资料（给 STI-488XGGPM2B-2BT）；2026-01-19 对 CENTEC「OEM Core Switching Solution」说「Interesting solution. Please send the technical information so we can share it with our clients」→ Alan 01-20 发 PeakNetX V3.1 + Function List V2.4 + STH25G；01-20 回「Thank you for your support and for processing the information with the Data Center client. I'll leave you with some feedback」→ feedback 从未到；2026-09-09 推 16 口 DIN PoE 无回。",
+ "type": "中美洲网络集成/分销商（为其客户转发方案）",
+ "size": "（未核）",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "邮件",
+   "claim": "要旁路交换机资料",
+   "quote": "I'd like to read more about the advantages of this equipment. Please send me more information.",
+   "url": "data/gmail_a/messages/<year>/<month>.jsonl",
+   "date": "2025-05-28"
   },
-  "company_facts": {
-    "legal_name": "Conexión de Redes de Centro América",
-    "founded": "",
-    "hq": "萨尔瓦多",
-    "size": "",
-    "other": "网络集成/分销"
+  {
+   "kind": "邮件",
+   "claim": "CENTEC 方案转给其客户",
+   "quote": "Interesting solution. Please send the technical information so we can share it with our clients.",
+   "url": "data/gmail_a/messages/<year>/<month>.jsonl",
+   "date": "2026-01-19"
   },
-  "channels": {
-    "role": "总经理",
-    "region": "萨尔瓦多"
-  },
-  "risks": [
-    "DC 客户是否选型结束不明",
-    "中美洲物流/付款（T/T USD 可行）",
-    "非主攻区，资源有限"
-  ],
-  "saga_fit": {
-    "p1": "CENTEC STH25G（已发）/ STH-8C48DX-HSI $4,800 EXW；接入 STC-424XGGPM $198",
-    "tier": 25,
-    "why": "集成商转发型；一句话问 DC 客户的反馈即可"
-  },
-  "email_hook": "（见 mail_review.draft_en）",
-  "mail_review": {
-    "as_of": "2026-10-24",
-    "binding": {
-      "level": "轻度触达（A 邮箱 24 去 3 来：总经理三次具名真回；2026-01-20 提到「Data Center client」并承诺 feedback，9 个月未到）；Elsa 箱 to:conexionderedes.com 逐户查 0（`from:e.sagatelecom to:conexionderedes.com` complete，含 spam/trash）（第 74 批(o)）",
-      "type": "集成商转发",
-      "sieve": "3（资料转发层面）",
-      "stop": "他把 CENTEC 资料转给 DC 客户后沉默；我们 09-09 推的是 16 口 DIN PoE，与 DC 无关",
-      "revive": "一句话问 DC 客户的反馈/是否已定；不再推新品",
-      "lane": "中美洲 非主攻（其他 B）",
-      "cadence": "季度",
-      "evidence": "gmail_a 2024-08-05 → 2026-09-09；digest in 3 / out 24"
-    },
-    "situation": "萨尔瓦多集成商总经理 Antonio 2026-01 把 CENTEC 资料（PeakNetX V3.1 / Function List V2.4 / STH25G）转给一个数据中心客户，承诺反馈后沉默；此后 Saga 只发了群发和一封不相关的 DIN PoE 推送。",
-    "need": "数据中心客户的核心/汇聚方案（CENTEC 25G/100G）；更早对光纤旁路机有兴趣。",
-    "breakpoint": "「I'll leave you with some feedback」之后没人追问；我们的下一封是 16 口 DIN PoE——话题断了。",
-    "saga_now": {
-      "p1": "STH-8C48DX-HSI（48×25G + 8×100G，$4,800 EXW）/ STH25G 系列（已发 pptx）",
-      "tier": 25,
-      "price": "CENTEC 2026 Q2：8C48DX $4,800 / 2C6QX $1,200 / 32C $6,000 EXW",
-      "why": "已发资料（勿重发）：STI-488XGGPM2B-2BT.pdf + Optical Bypass Switch.jpg(2025-05-31)、PeakNetX V3.1 / Function List V2.4 / STH25G(2026-01-20)、16 port PoE.png(2026-09-09)；下一封只接 DC 话题｜档位说明（原 tier 字段文字「集成商 25%」移此）：集成商 25%",
-      "repeat": "集成商：项目制，成一单可带下一单",
-      "gaps": "DC 客户是谁/规模；是否已选型；他要的「feedback」是价格还是技术"
-    },
-    "next_move": {
-      "when": "2026-11",
-      "channel": "A 邮箱 → gerencia@conexionderedes.com（回 2026-01-20 原线程「OEM Core Switching Solution」）",
-      "action": "一句话接回 DC 话题：问那个数据中心客户的反馈/是否已定，顺带给 8C48DX 的 EXW 价作锚；不推 PoE（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：tier 字段规范为数字）",
-      "one_question": "Antonio — in January you were taking the CENTEC material to a data-center client and promised some feedback: did they decide, and if the 25G/100G core is still open, would a 48×25G + 8×100G unit at $4,800 EXW be in their range?"
-    },
-    "facts": [
-      {
-        "date": "2025-05-28",
-        "dir": "来",
-        "who": "Antonio Alberto Guadron（Gerente General）",
-        "quote": "I'd like to read more about the advantages of this equipment. Please send me more information.",
-        "why": "旁路机兴趣",
-        "k": "interest"
-      },
-      {
-        "date": "2026-01-19",
-        "dir": "来",
-        "who": "Antonio",
-        "quote": "Interesting solution. Please send the technical information so we can share it with our clients.",
-        "why": "CENTEC 转发给客户",
-        "k": "interest"
-      },
-      {
-        "date": "2026-01-20",
-        "dir": "去",
-        "who": "Alan",
-        "quote": "Please check attached information and let me know.（附 8C48XF.png、Performance of PeakNetX Platform_EN_V3.1.pptx、Saga Software Function List_EN_V2.4.pptx、STH25G Series.pptx）",
-        "why": "资料齐，但没问客户是谁/规模",
-        "k": "reply"
-      },
-      {
-        "date": "2026-01-20",
-        "dir": "来",
-        "who": "Antonio",
-        "quote": "Thank you for your support and for processing the information with the Data Center client. I'll leave you with some feedback.",
-        "why": "有 DC 客户在手；feedback 未到",
-        "k": "promise_in"
-      },
-      {
-        "date": "2026-09-09",
-        "dir": "去",
-        "who": "Alan",
-        "quote": "This is our 16-port DIN PoE switch… Do you need some units for testing?",
-        "why": "与 DC 话题无关的推送；无回",
-        "k": "push"
-      }
-    ],
-    "proof_gaps": [
-      "DC 客户身份与规模",
-      "他承诺的 feedback 是否通过其他渠道给过（仓内无）"
-    ],
-    "draft_en": {
-      "subject": "Re: OEM Core Switching Solution — the data-center client",
-      "body": "Dear Antonio,\n\nIn January you took our CENTEC material (STH25G series, function list V2.4) to a data-center client and kindly offered some feedback. I did not follow up on it, so let me do that now.\n\nIf the 25G/100G core is still open on their side: the 48 x 25G + 8 x 100G unit (STH-8C48DX-HSI) is $4,800 USD EXW on the 2026 Q2 list (valid 15 days from this mail), L3 with VXLAN-EVPN, MPLS and MLAG, hot-swap PSUs, with your label if needed.\n\nOne question: did the client decide, and if not, what was their feedback on the material?\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
-    }
+  {
+   "kind": "邮件",
+   "claim": "提到「Data Center client」并许诺反馈",
+   "quote": "Thank you for your support and for processing the information with the Data Center client. I'll leave you with some feedback.",
+   "url": "data/gmail_a/messages/<year>/<month>.jsonl",
+   "date": "2026-01-20"
   }
+ ],
+ "kp": [
+  {
+   "name": "Antonio Alberto Guadron",
+   "title": "Gerente General",
+   "email": "gerencia@conexionderedes.com",
+   "phone": "",
+   "source": "data/gmail_a/messages/<year>/<month>.jsonl",
+   "role": "Gerente General（官网 gerencia@ 吻合；研究档 KP；三次真回）= 收件人 — 一页纸 + 规格书：STH-8C48DX-HSI $4,800 / STH-2C24XF-HSI $1,500 CENTEC + 接入 STC-424XGGPM-280W $198 / STC-4424GCPM $165 + 付费样机；西语备注 — 拉美常规：英文稿（西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29）"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "总经理 3 次具名真回（2025-05、2026-01 ×2），有「Data Center client」在手并承诺反馈；自动 C 系无互动评分；按证据升 B（慢慢跟进，非主攻区）。",
+ "notes": "西语区（萨尔瓦多）；信件英文流畅。feedback 未到 = 典型「转发给客户后沉默」。",
+ "deep": {
+  "done_at": "2026-10-24",
+  "level": "邮件证据 + 官网常识"
+ },
+ "company_facts": {
+  "legal_name": "Conexión de Redes de Centro América（NIT 1 查未得）",
+  "founded": "未取（第 123 批 官方登记核实 2026-10-29）",
+  "hq": "San Salvador, El Salvador（+503 2262-1049）（第 123 批 官方登记核实 2026-10-29）",
+  "size": "小型（第 123 批 官方登记核实 2026-10-29）",
+  "other": "网络集成/分销；第 123 批：★ 代客转发型集成商，总经理三次真回 + CENTEC「Interesting solution」→ **建议升 A（Simon 定）；先按集成商 25% 一页纸 + 规格书**；部分坐实（官网地址 + 电话 + GM 邮箱）（第 123 批 官方登记核实 2026-10-29）"
+ },
+ "channels": {
+  "role": "总经理",
+  "region": "萨尔瓦多"
+ },
+ "risks": [
+  "DC 客户是否选型结束不明",
+  "中美洲物流/付款（T/T USD 可行）",
+  "非主攻区，资源有限"
+ ],
+ "saga_fit": {
+  "p1": "CENTEC STH25G（已发）/ STH-8C48DX-HSI $4,800 EXW；接入 STC-424XGGPM $198",
+  "tier": 25,
+  "why": "集成商转发型；一句话问 DC 客户的反馈即可"
+ },
+ "email_hook": "（见 mail_review.draft_en）",
+ "mail_review": {
+  "as_of": "2026-10-24",
+  "binding": {
+   "level": "轻度触达（A 邮箱 24 去 3 来：总经理三次具名真回；2026-01-20 提到「Data Center client」并承诺 feedback，9 个月未到）；Elsa 箱 to:conexionderedes.com 逐户查 0（`from:e.sagatelecom to:conexionderedes.com` complete，含 spam/trash）（第 74 批(o)）",
+   "type": "集成商转发",
+   "sieve": "3（资料转发层面）",
+   "stop": "他把 CENTEC 资料转给 DC 客户后沉默；我们 09-09 推的是 16 口 DIN PoE，与 DC 无关",
+   "revive": "一句话问 DC 客户的反馈/是否已定；不再推新品",
+   "lane": "中美洲 非主攻（其他 B）",
+   "cadence": "季度",
+   "evidence": "gmail_a 2024-08-05 → 2026-09-09；digest in 3 / out 24"
+  },
+  "situation": "萨尔瓦多集成商总经理 Antonio 2026-01 把 CENTEC 资料（PeakNetX V3.1 / Function List V2.4 / STH25G）转给一个数据中心客户，承诺反馈后沉默；此后 Saga 只发了群发和一封不相关的 DIN PoE 推送。",
+  "need": "数据中心客户的核心/汇聚方案（CENTEC 25G/100G）；更早对光纤旁路机有兴趣。",
+  "breakpoint": "「I'll leave you with some feedback」之后没人追问；我们的下一封是 16 口 DIN PoE——话题断了。",
+  "saga_now": {
+   "p1": "STH-8C48DX-HSI（48×25G + 8×100G，$4,800 EXW）/ STH25G 系列（已发 pptx）",
+   "tier": 25,
+   "price": "CENTEC 2026 Q2：8C48DX $4,800 / 2C6QX $1,200 / 32C $6,000 EXW",
+   "why": "已发资料（勿重发）：STI-488XGGPM2B-2BT.pdf + Optical Bypass Switch.jpg(2025-05-31)、PeakNetX V3.1 / Function List V2.4 / STH25G(2026-01-20)、16 port PoE.png(2026-09-09)；下一封只接 DC 话题｜档位说明（原 tier 字段文字「集成商 25%」移此）：集成商 25%",
+   "repeat": "集成商：项目制，成一单可带下一单",
+   "gaps": "DC 客户是谁/规模；是否已选型；他要的「feedback」是价格还是技术"
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "A 邮箱 → gerencia@conexionderedes.com（回 2026-01-20 原线程「OEM Core Switching Solution」）",
+   "action": "一句话接回 DC 话题：问那个数据中心客户的反馈/是否已定，顺带给 8C48DX 的 EXW 价作锚；不推 PoE（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：tier 字段规范为数字）",
+   "one_question": "Antonio — in January you were taking the CENTEC material to a data-center client and promised some feedback: did they decide, and if the 25G/100G core is still open, would a 48×25G + 8×100G unit at $4,800 EXW be in their range?"
+  },
+  "facts": [
+   {
+    "date": "2025-05-28",
+    "dir": "来",
+    "who": "Antonio Alberto Guadron（Gerente General）",
+    "quote": "I'd like to read more about the advantages of this equipment. Please send me more information.",
+    "why": "旁路机兴趣",
+    "k": "interest"
+   },
+   {
+    "date": "2026-01-19",
+    "dir": "来",
+    "who": "Antonio",
+    "quote": "Interesting solution. Please send the technical information so we can share it with our clients.",
+    "why": "CENTEC 转发给客户",
+    "k": "interest"
+   },
+   {
+    "date": "2026-01-20",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "Please check attached information and let me know.（附 8C48XF.png、Performance of PeakNetX Platform_EN_V3.1.pptx、Saga Software Function List_EN_V2.4.pptx、STH25G Series.pptx）",
+    "why": "资料齐，但没问客户是谁/规模",
+    "k": "reply"
+   },
+   {
+    "date": "2026-01-20",
+    "dir": "来",
+    "who": "Antonio",
+    "quote": "Thank you for your support and for processing the information with the Data Center client. I'll leave you with some feedback.",
+    "why": "有 DC 客户在手；feedback 未到",
+    "k": "promise_in"
+   },
+   {
+    "date": "2026-09-09",
+    "dir": "去",
+    "who": "Alan",
+    "quote": "This is our 16-port DIN PoE switch… Do you need some units for testing?",
+    "why": "与 DC 话题无关的推送；无回",
+    "k": "push"
+   }
+  ],
+  "proof_gaps": [
+   "DC 客户身份与规模",
+   "他承诺的 feedback 是否通过其他渠道给过（仓内无）"
+  ],
+  "draft_en": {
+   "subject": "Re: OEM Core Switching Solution — the data-center client",
+   "body": "Dear Antonio,\n\nIn January you took our CENTEC material (STH25G series, function list V2.4) to a data-center client and kindly offered some feedback. I did not follow up on it, so let me do that now.\n\nIf the 25G/100G core is still open on their side: the 48 x 25G + 8 x 100G unit (STH-8C48DX-HSI) is $4,800 USD EXW on the 2026 Q2 list (valid 15 days from this mail), L3 with VXLAN-EVPN, MPLS and MLAG, hot-swap PSUs, with your label if needed.\n\nOne question: did the client decide, and if not, what was their feedback on the material?\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
+  }
+ }
 }

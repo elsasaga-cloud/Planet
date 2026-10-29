@@ -47,7 +47,8 @@
    "title": "Product Marketer",
    "email": "ventasweb@socraonline.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Product Marketer（研究档 KP；阿里询盘百兆 MC）= 收件人 — 一页纸一次：分销 20% B、STC-110XGE $65 + STI-280GE $46.6 / STI-288DGGPM $137 一口价 + MOQ 1；百兆 MC 不供明说；西语备注 — 拉美常规：英文稿（西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29）"
   }
  ],
  "grade_override": null,
@@ -58,8 +59,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "智利",
-  "other": "官网 socraonline.com，语言 es，快照状态 ok；角色判定来源：官网文案"
+  "hq": "Av. Las Condes 6770, Oficina 202, Las Condes, Santiago 7560759, Chile（+56 2 2249 7726）（第 123 批 官方登记核实 2026-10-29）",
+  "other": "官网 socraonline.com，语言 es，快照状态 ok；角色判定来源：官网文案；第 123 批：矿业工业品分销商 → **分销 20% 一页纸一次（预付 100%）**；部分坐实（官网地址 + 电话）（第 123 批 官方登记核实 2026-10-29）",
+  "legal_name": "Socra SpA（RUT 1 查未得）",
+  "founded": "未取（第 123 批 官方登记核实 2026-10-29）",
+  "size": "微型（第 123 批 官方登记核实 2026-10-29）"
  },
  "business_lines": [
   "矿业工业品供应（自动化 / 电气 / 线缆 / 传感器）"

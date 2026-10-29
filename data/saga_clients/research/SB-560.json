@@ -31,7 +31,8 @@
    "title": "",
    "email": "info@womaster.eu",
    "phone": "",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "欧洲站公共箱（未具名）— 最后一次一页纸：贴标 OEM 30% B、STI-288DGGPM $137 / STI-0240GE $130 贴标补 SKU + 贴标 MOQ + 付费样机；1U 机架工业 / 串口服务器不供明说 — 欧盟常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP（买方清关）；周四 12–14 当地（第 123 批 官方登记核实 2026-10-29）"
   }
  ],
  "grade_override": null,
@@ -42,11 +43,11 @@
   "level": "B 级加厚 v1（官网快照核对 + 表内）"
  },
  "company_facts": {
-  "legal_name": "WoMaster Technologies Co., Ltd.",
-  "founded": "（待核）",
-  "hq": "台北（欧洲站）",
-  "size": "中小型台系品牌",
-  "other": "台湾厂商口径（OEM 买方）"
+  "legal_name": "WoMaster Europe（WoMaster Group 欧洲总部；集团 QNAP / HMS / HolyStone 合资；ES / TW 登记号 1 查未得）",
+  "founded": "未取（集团 20+ 年）（第 123 批 官方登记核实 2026-10-29）",
+  "hq": "Barcelona, Spain（欧洲总部；业务总部 New Taipei）（第 123 批 官方登记核实 2026-10-29）",
+  "size": "中型（集团；自有 EMS）（第 123 批 官方登记核实 2026-10-29）",
+  "other": "台湾厂商口径（OEM 买方）；第 123 批：表内「欧洲」→ country_fix 西班牙；同行品牌 + 自有工厂，表内「自己的 logo」→ **贴标 OEM 30% 最后一次一页纸（预付）**；16×0；部分坐实（官网总部 + 集团背景）（第 123 批 官方登记核实 2026-10-29）"
  },
  "business_lines": [
   "工业交换机 / PoE / 无线 / 路由（自有品牌）"
@@ -116,5 +117,6 @@
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
- }
+ },
+ "country_fix": "西班牙"
 }

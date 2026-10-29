@@ -49,10 +49,14 @@
  "kp": [
   {
    "name": "Austėja（EURODIGITAL）",
-   "role": "来信署名人（职务未在邮件署名里出现）",
+   "role": "来信署名人（研究档 KP）= 收件人 — 一页纸一次：分销 20% B、STC-028GP $28 / STC-228GP $33 / STC-2224GP $86 整箱一口价 + MOQ 1 + 付费样机；CE / RoHS / REACH；在售品牌不点名 — 欧盟常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP（买方清关）；周四 12–14 当地（第 123 批 官方登记核实 2026-10-29）",
    "email": "info@extradigital.eu",
    "phone": "",
    "source": "S/A 邮箱来信 2024-08-13 来信 3 封（第 72 批从邮件表头补）"
+  },
+  {
+   "name": "Saulius Razlevičius",
+   "role": "Vadovas / 董事（rekvi.lt 2026-10-29；无公开邮箱）（第 123 批 官方登记核实 2026-10-29）"
   }
  ],
  "grade_override": null,
@@ -63,10 +67,12 @@
   "level": "B 级加厚 v1（官网核对 · 国别补齐）"
  },
  "company_facts": {
-  "legal_name": "EURODIGITAL, UAB",
+  "legal_name": "UAB \"Eurodigital\"（Įmonės kodas 300638881；PVM LT100002890717；e-shop ExtraDigital）",
   "registry": "公司代码 300638881 · VAT LT100002890717（注册地址 Žemaičių g. 31, LT-44175 Kaunas）",
-  "hq": "Savanorių pr. 235, Kaunas 50184, Lithuania（+370 671 30065）",
-  "other": "品类：智能电子、安防/CCTV（Dahua 为主）、光伏、EV 充电；B2C+B2B 跨欧发货"
+  "hq": "Žemaičių g. 31-301, LT-44175 Kaunas, Lithuania（+370 603 88188）（第 123 批 官方登记核实 2026-10-29）",
+  "other": "品类：智能电子、安防/CCTV（Dahua 为主）、光伏、EV 充电；B2C+B2B 跨欧发货；第 123 批：表内「欧洲（国别未填）」→ country_fix 立陶宛；泛欧 Dahua 分销电商 → **分销 20% 一页纸一次（预付）**；坐实（登记码 + VAT + 成立日 + 地址 + 董事）（第 123 批 官方登记核实 2026-10-29）",
+  "founded": "2007-01-29（第 123 批 官方登记核实 2026-10-29）",
+  "size": "小型（Sodra 2026-04 员工 13）（第 123 批 官方登记核实 2026-10-29）"
  },
  "business_lines": [
   "泛欧电商（电子、安防、光伏、EV 充电）",
@@ -145,5 +151,6 @@
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
- }
+ },
+ "country_fix": "立陶宛"
 }

@@ -48,7 +48,8 @@
    "title": "（职务待核）",
    "email": "majdi@dss-kuwait.com",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "表内联系人（研究档 KP）= 收件人 — 一页纸一次：集成商 25% B、STI-288DGGPM $137 / STI-288GPM $78.9 工业 2 光 8 PoE + STC-2224GP $86 一口价 + MOQ 1 + 付费样机；在用品牌不点名 — 科威特常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 科威特城（第 123 批 官方登记核实 2026-10-29）"
   },
   {
    "name": "Dalal Jadallah",
@@ -80,8 +81,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "科威特",
-  "other": "官网 dss-kuwait.com，语言 ?，快照状态 ok；角色判定来源：官网文案"
+  "hq": "1st Floor, Office 15, Ahmad Al Jaber Street, Sharq, P.O. Box 631, Dasman 15457, Kuwait City, Kuwait（+965 2220 0023）（第 123 批 官方登记核实 2026-10-29）",
+  "other": "官网 dss-kuwait.com，语言 ?，快照状态 ok；角色判定来源：官网文案；第 123 批：安防 SI（Sensormatic / DSC / Software House 代理；ONV 工业 FS 在用）→ **集成商 25% 一页纸一次（预付 100%）**；15×0；部分坐实（官网地址 + 伙伴页）（第 123 批 官方登记核实 2026-10-29）",
+  "legal_name": "Digital Security Systems Est.（DSS；CR 号 1 查未得）",
+  "founded": "未取（第 123 批 官方登记核实 2026-10-29）",
+  "size": "中小型（第 123 批 官方登记核实 2026-10-29）"
  },
  "business_lines": [
   "安防 / 智能系统集成与运维（科威特）"

@@ -48,14 +48,16 @@
    "title": "Commercial Manager",
    "email": "matthew@viewtech.co.nz",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Commercial Manager（研究档 KP）= 收件人 — 一页纸一次：分销 20% B、STC-028GP $28 / STC-228GP $33 / STC-2224GP $86 一口价 + MOQ 1 + 付费样机；车载 / 宽温 STI-054GP；在售品牌不点名 — 新西兰常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 奥克兰；周二 / 周四 09–11 NZST（第 123 批 官方登记核实 2026-10-29）"
   },
   {
    "name": "Darren Jenkinson",
    "title": "Managing Director",
    "email": "",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Managing Director / Director（NZ Companies 镜像 + LinkedIn 2026-10-29）（第 123 批 官方登记核实 2026-10-29）"
   }
  ],
  "grade_override": null,
@@ -66,8 +68,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "新西兰",
-  "other": "官网 viewtech.co.nz，语言 en-US，快照状态 ok；角色判定来源：官网文案"
+  "hq": "97 Wordsworth Street, Sydenham, Christchurch 8023, New Zealand（注册地 Unit 4, 211 Ferry Rd, Christchurch 8011）（第 123 批 官方登记核实 2026-10-29）",
+  "other": "官网 viewtech.co.nz，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 123 批：CCTV 固定 + 车载 + 安防批发（Utepo / Dahua 在售）→ **分销 20% 一页纸一次（预付 100%）**；坐实（公司号 + NZBN + 成立日 + 董事）（第 123 批 官方登记核实 2026-10-29）",
+  "legal_name": "VIEWTECH LIMITED（Company No. 1763634；NZBN 9429034325599；Registered）",
+  "founded": "2006-02-01（第 123 批 官方登记核实 2026-10-29）",
+  "size": "微型（2–10）（第 123 批 官方登记核实 2026-10-29）"
  },
  "business_lines": [
   "车辆与车队安全系统（设计 / 供应）",

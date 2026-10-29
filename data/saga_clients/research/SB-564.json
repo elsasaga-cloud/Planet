@@ -1,175 +1,176 @@
 {
-  "code": "SB-564",
-  "name_official": "Latitude / VoIPtech（莫桑比克）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（voiptech.co.mz；快照 HTTP 错误）",
-  "summary": "莫桑比克 VoIP / 网络公司（Manuel Manjala，voiptech.co.mz + gmail），需求「WDM Switch」（疑为带 WDM 单纤光口的交换机）；1 次跟进无实质回复。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "官网快照",
-      "claim": "voiptech.co.mz HTTP 错误",
-      "quote": "status http_error",
-      "url": "http://voiptech.co.mz/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "用户表",
-      "claim": "WDM Switch",
-      "quote": "兴趣：WDM Switch",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [
-    {
-      "name": "Manuel Manjala",
-      "title": "（表内联系人）",
-      "email": "manjala@voiptech.co.mz",
-      "phone": "",
-      "source": "（本地 Clients/ 表格，无公开 URL）"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（快照 HTTP 错误 + 表内）"
+ "code": "SB-564",
+ "name_official": "Latitude / VoIPtech（莫桑比克）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（voiptech.co.mz；快照 HTTP 错误）",
+ "summary": "莫桑比克 VoIP / 网络公司（Manuel Manjala，voiptech.co.mz + gmail），需求「WDM Switch」（疑为带 WDM 单纤光口的交换机）；1 次跟进无实质回复。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "官网快照",
+   "claim": "voiptech.co.mz HTTP 错误",
+   "quote": "status http_error",
+   "url": "http://voiptech.co.mz/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "（待核）",
-    "founded": "",
-    "hq": "Mozambique",
-    "size": "小型",
-    "other": ""
-  },
-  "channels": {
-    "role": "VoIP / 网络服务商",
-    "region": "莫桑比克"
-  },
-  "risks": [
-    "需求含糊；莫桑比克付款 T/T 预付"
-  ],
-  "saga_fit": {
-    "p1": "STC-28DGGPM",
-    "tier": 25,
-    "why": "「WDM switch」按带单纤 BiDi 光口的 2 SFP + 8 口机理解 → STC-28DGGPM + BiDi 模块（模块 Q-32）。"
-  },
-  "email_hook": "Manuel, by 'WDM switch' do you mean a switch with single-fibre (BiDi/WDM) SFP uplinks? If so the 2-SFP + 8-port managed unit is $84 EXW and we can fit tested 20 km BiDi modules; what distance and how many links?",
-  "mail_review": {
-    "binding": {
-      "level": "未触达（A 邮箱 6 封 2025，无记录打开，0 回；收件 manjala@voiptech.co.mz；主题多为「48 Port PoE Managed Switch、8 Port Industrial PoE Switch」）；Elsa 1:1 去信 7 轮 2025-10-09→2026-08-05（To 仅本户 manjala@voiptech.co.mz；头 msg 19fd16fe889655ef 核对无 Bcc，称呼「Hi, Manuel」= 个性化逐月 1:1 名单（名字可来自名单，不等于回过信）；主题 Updated Ethernet Switches Links、Marvell Managed Commercial Switches、Industrial PoE Switch、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:voiptech.co.mz` 全程 complete，直收 7 条、无 Re: 行）",
-      "type": "—",
-      "sieve": "1（只收到群发）",
-      "stop": "6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
-      "revive": "保持季度群发到 2027-Q1；无打开即停",
-      "lane": "莫桑比克 非主攻",
-      "cadence": "季度",
-      "evidence": "gmail_digest：out 6；用户表：「兴趣：WDM Switch」；研究档 risks：需求含糊；莫桑比克付款 T/T 预付"
-    },
-    "situation": "莫桑比克 VoIP / 网络公司（Manuel Manjala，voiptech.co.mz + gmail），需求「WDM Switch」（疑为带 WDM 单纤光口的交换机）；1 次跟进无实质回复。",
-    "need": "「WDM switch」按带单纤 BiDi 光口的 2 SFP + 8 口机理解 → STC-28DGGPM + BiDi 模块（模块 Q-32）。",
-    "breakpoint": "需求含糊；莫桑比克付款 T/T 预付",
-    "saga_now": {
-      "p1": "STC-28DGGPM",
-      "tier": 25,
-      "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-02-13 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-09 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-09；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-05；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "「WDM switch」按带单纤 BiDi 光口的 2 SFP + 8 口机理解 → STC-28DGGPM + BiDi 模块（模块 Q-32）。",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "群发节奏",
-      "channel": "A 邮箱",
-      "action": "首封前知悉：Elsa 已 1:1 去信 7 轮（2025-10-09→2026-08-05，0 回）（第 74 批(n)）；观察打开",
-      "one_question": "Manuel, by 'WDM switch' do you mean a switch with single-fibre (BiDi/WDM) SFP uplinks? If so the 2-SFP + 8-port managed unit is $84 EXW and we can fit tested 20 km BiDi modules; what distance and how many links?"
-    },
-    "facts": [
-      {
-        "date": "2025-08-05",
-        "dir": "去",
-        "who": "A 群发",
-        "quote": "48 Port PoE Managed Switch、8 Port Industrial PoE Switch",
-        "why": "6 封 / 0 次打开 / 0 回｜首封 2025-02-13 → 末封 2025-08-05（6 去 / 0 来）",
-        "k": "gmail_digest"
-      },
-      {
-        "date": "2025-10-09",
-        "dir": "out",
-        "who": "Elsa → manjala@voiptech.co.mz",
-        "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 1/7 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:voiptech.co.mz` 全程 complete：7 轮直收（头 msg 19fd16fe889655ef 无 Bcc，称呼「Hi, Manuel」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "199c8a54b2659084"
-      },
-      {
-        "date": "2025-12-03",
-        "dir": "out",
-        "who": "Elsa → manjala@voiptech.co.mz",
-        "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 2/7 轮；To 仅本户）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:voiptech.co.mz` 全程 complete：7 轮直收（头 msg 19fd16fe889655ef 无 Bcc，称呼「Hi, Manuel」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19ae34bfea66e88e"
-      },
-      {
-        "date": "2026-01-01",
-        "dir": "out",
-        "who": "Elsa → manjala@voiptech.co.mz",
-        "quote": "Marvell Industrial Alert System（Elsa 1:1 逐月名单第 3/7 轮；To 仅本户）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:voiptech.co.mz` 全程 complete：7 轮直收（头 msg 19fd16fe889655ef 无 Bcc，称呼「Hi, Manuel」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19b78fff98e2fb99"
-      },
-      {
-        "date": "2026-02-16",
-        "dir": "out",
-        "who": "Elsa → manjala@voiptech.co.mz",
-        "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 4/7 轮；To 仅本户）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:voiptech.co.mz` 全程 complete：7 轮直收（头 msg 19fd16fe889655ef 无 Bcc，称呼「Hi, Manuel」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19c65e480e66e85f"
-      },
-      {
-        "date": "2026-03-23",
-        "dir": "out",
-        "who": "Elsa → manjala@voiptech.co.mz",
-        "quote": "Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 5/7 轮；To 仅本户）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:voiptech.co.mz` 全程 complete：7 轮直收（头 msg 19fd16fe889655ef 无 Bcc，称呼「Hi, Manuel」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19d1a10c4c44561e"
-      },
-      {
-        "date": "2026-05-04",
-        "dir": "out",
-        "who": "Elsa → manjala@voiptech.co.mz",
-        "quote": "Industrial PoE Switch（Elsa 1:1 逐月名单第 6/7 轮；To 仅本户）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:voiptech.co.mz` 全程 complete：7 轮直收（头 msg 19fd16fe889655ef 无 Bcc，称呼「Hi, Manuel」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19df2b76bcd747ac"
-      },
-      {
-        "date": "2026-08-05",
-        "dir": "out",
-        "who": "Elsa → manjala@voiptech.co.mz",
-        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 7/7 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
-        "why": "第 74 批(n) `from:e.sagatelecom to:voiptech.co.mz` 全程 complete：7 轮直收（头 msg 19fd16fe889655ef 无 Bcc，称呼「Hi, Manuel」）；0 回",
-        "k": "elsa_1to1",
-        "msg_id": "19fd16fe889655ef"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "兴趣：WDM Switch",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+  {
+   "kind": "用户表",
+   "claim": "WDM Switch",
+   "quote": "兴趣：WDM Switch",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Manuel Manjala",
+   "title": "（表内联系人）",
+   "email": "manjala@voiptech.co.mz",
+   "phone": "",
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "Chief Technology Officer（LinkedIn + PeeringDB 2026-10-29；研究档 KP）= 收件人 — 一页纸一次：集成商 25% B、STC-228GP $33 / STI-288DGGPM $137 / STC-4424GCPM $165 一口价 + MOQ 1 + 付费样机；光模块不供明说；葡语备注 — 非洲常规：英文稿（法语区附法语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（快照 HTTP 错误 + 表内）"
+ },
+ "company_facts": {
+  "legal_name": "VOIPTECH LIMITADA（Latitude / Conecte Internet e Soluções；AS328223；NUIT 1 查未得）",
+  "founded": "未取（第 123 批 官方登记核实 2026-10-29）",
+  "hq": "Av. Ho Chi Minh nº 677, 1º andar, Maputo, Mozambique（第 123 批 官方登记核实 2026-10-29）",
+  "size": "小型（第 123 批 官方登记核实 2026-10-29）",
+  "other": "第 123 批：ISP（5–10 Gbps，MOZIX 对等）询盘 2 SFP 交换机 → **集成商 25% 一页纸一次（预付 100%）**；部分坐实（PeeringDB 法定名 + 地址 + ASN + KP 职务）（第 123 批 官方登记核实 2026-10-29）"
+ },
+ "channels": {
+  "role": "VoIP / 网络服务商",
+  "region": "莫桑比克"
+ },
+ "risks": [
+  "需求含糊；莫桑比克付款 T/T 预付"
+ ],
+ "saga_fit": {
+  "p1": "STC-28DGGPM",
+  "tier": 25,
+  "why": "「WDM switch」按带单纤 BiDi 光口的 2 SFP + 8 口机理解 → STC-28DGGPM + BiDi 模块（模块 Q-32）。"
+ },
+ "email_hook": "Manuel, by 'WDM switch' do you mean a switch with single-fibre (BiDi/WDM) SFP uplinks? If so the 2-SFP + 8-port managed unit is $84 EXW and we can fit tested 20 km BiDi modules; what distance and how many links?",
+ "mail_review": {
+  "binding": {
+   "level": "未触达（A 邮箱 6 封 2025，无记录打开，0 回；收件 manjala@voiptech.co.mz；主题多为「48 Port PoE Managed Switch、8 Port Industrial PoE Switch」）；Elsa 1:1 去信 7 轮 2025-10-09→2026-08-05（To 仅本户 manjala@voiptech.co.mz；头 msg 19fd16fe889655ef 核对无 Bcc，称呼「Hi, Manuel」= 个性化逐月 1:1 名单（名字可来自名单，不等于回过信）；主题 Updated Ethernet Switches Links、Marvell Managed Commercial Switches、Industrial PoE Switch、24 Port PoE Managed Switch…；0 回（Elsa 箱 Replied 索引 + 第 73 批真人来信逐户比对均无此户）；S/A digest 看不到 Elsa 的去信，之前据此写的「未触达」是 S/A 口径）（第 74 批(n) `from:e.sagatelecom to:voiptech.co.mz` 全程 complete，直收 7 条、无 Re: 行）",
+   "type": "—",
+   "sieve": "1（只收到群发）",
+   "stop": "6 封发到具名邮箱仍无记录打开（Opened 标签仅覆盖追踪到的群发）——地址可能失效或进垃圾箱",
+   "revive": "保持季度群发到 2027-Q1；无打开即停",
+   "lane": "莫桑比克 非主攻",
+   "cadence": "季度",
+   "evidence": "gmail_digest：out 6；用户表：「兴趣：WDM Switch」；研究档 risks：需求含糊；莫桑比克付款 T/T 预付"
+  },
+  "situation": "莫桑比克 VoIP / 网络公司（Manuel Manjala，voiptech.co.mz + gmail），需求「WDM Switch」（疑为带 WDM 单纤光口的交换机）；1 次跟进无实质回复。",
+  "need": "「WDM switch」按带单纤 BiDi 光口的 2 SFP + 8 口机理解 → STC-28DGGPM + BiDi 模块（模块 Q-32）。",
+  "breakpoint": "需求含糊；莫桑比克付款 T/T 预付",
+  "saga_now": {
+   "p1": "STC-28DGGPM",
+   "tier": 25,
+   "price": "按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-02-13 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-09 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-09；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-05；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+   "why": "「WDM switch」按带单纤 BiDi 光口的 2 SFP + 8 口机理解 → STC-28DGGPM + BiDi 模块（模块 Q-32）。",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "群发节奏",
+   "channel": "A 邮箱",
+   "action": "首封前知悉：Elsa 已 1:1 去信 7 轮（2025-10-09→2026-08-05，0 回）（第 74 批(n)）；观察打开",
+   "one_question": "Manuel, by 'WDM switch' do you mean a switch with single-fibre (BiDi/WDM) SFP uplinks? If so the 2-SFP + 8-port managed unit is $84 EXW and we can fit tested 20 km BiDi modules; what distance and how many links?"
+  },
+  "facts": [
+   {
+    "date": "2025-08-05",
+    "dir": "去",
+    "who": "A 群发",
+    "quote": "48 Port PoE Managed Switch、8 Port Industrial PoE Switch",
+    "why": "6 封 / 0 次打开 / 0 回｜首封 2025-02-13 → 末封 2025-08-05（6 去 / 0 来）",
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2025-10-09",
+    "dir": "out",
+    "who": "Elsa → manjala@voiptech.co.mz",
+    "quote": "10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 1/7 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:voiptech.co.mz` 全程 complete：7 轮直收（头 msg 19fd16fe889655ef 无 Bcc，称呼「Hi, Manuel」）；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "199c8a54b2659084"
+   },
+   {
+    "date": "2025-12-03",
+    "dir": "out",
+    "who": "Elsa → manjala@voiptech.co.mz",
+    "quote": "Booster PoE Switch（Elsa 1:1 逐月名单第 2/7 轮；To 仅本户）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:voiptech.co.mz` 全程 complete：7 轮直收（头 msg 19fd16fe889655ef 无 Bcc，称呼「Hi, Manuel」）；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "19ae34bfea66e88e"
+   },
+   {
+    "date": "2026-01-01",
+    "dir": "out",
+    "who": "Elsa → manjala@voiptech.co.mz",
+    "quote": "Marvell Industrial Alert System（Elsa 1:1 逐月名单第 3/7 轮；To 仅本户）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:voiptech.co.mz` 全程 complete：7 轮直收（头 msg 19fd16fe889655ef 无 Bcc，称呼「Hi, Manuel」）；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "19b78fff98e2fb99"
+   },
+   {
+    "date": "2026-02-16",
+    "dir": "out",
+    "who": "Elsa → manjala@voiptech.co.mz",
+    "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 4/7 轮；To 仅本户）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:voiptech.co.mz` 全程 complete：7 轮直收（头 msg 19fd16fe889655ef 无 Bcc，称呼「Hi, Manuel」）；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "19c65e480e66e85f"
+   },
+   {
+    "date": "2026-03-23",
+    "dir": "out",
+    "who": "Elsa → manjala@voiptech.co.mz",
+    "quote": "Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 5/7 轮；To 仅本户）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:voiptech.co.mz` 全程 complete：7 轮直收（头 msg 19fd16fe889655ef 无 Bcc，称呼「Hi, Manuel」）；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "19d1a10c4c44561e"
+   },
+   {
+    "date": "2026-05-04",
+    "dir": "out",
+    "who": "Elsa → manjala@voiptech.co.mz",
+    "quote": "Industrial PoE Switch（Elsa 1:1 逐月名单第 6/7 轮；To 仅本户）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:voiptech.co.mz` 全程 complete：7 轮直收（头 msg 19fd16fe889655ef 无 Bcc，称呼「Hi, Manuel」）；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "19df2b76bcd747ac"
+   },
+   {
+    "date": "2026-08-05",
+    "dir": "out",
+    "who": "Elsa → manjala@voiptech.co.mz",
+    "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 7/7 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
+    "why": "第 74 批(n) `from:e.sagatelecom to:voiptech.co.mz` 全程 complete：7 轮直收（头 msg 19fd16fe889655ef 无 Bcc，称呼「Hi, Manuel」）；0 回",
+    "k": "elsa_1to1",
+    "msg_id": "19fd16fe889655ef"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "兴趣：WDM Switch",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

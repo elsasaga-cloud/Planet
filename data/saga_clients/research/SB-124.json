@@ -1,104 +1,110 @@
 {
-  "code": "SB-124",
-  "name_official": "Telconet S.A.（Guayaquil, Ecuador；telconet.ec / telconet.net；大型光纤运营商）",
-  "researched_at": "2026-10-21",
-  "website_status": "在线（未单独抓取）",
-  "summary": "厄瓜多尔大型光纤电信运营商 Telconet（瓜亚基尔；全国光纤骨干与企业/数据中心服务；info@telconet.ec）。用户表（富通天下外贸数据）：「从国内买了很多 SFP」= 直接从中国进口大量 SFP 模块，非 Saga 成交；群发无互动。运营商直采 SFP → Saga 需补 SFP 价目（Q-32）；交换机对位接入/汇聚 10G 机型；大型运营商供应商准入门槛高。",
-  "type": "",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [
-    {
-      "kind": "用户表",
-      "claim": "富通天下：从国内买了很多 SFP",
-      "quote": "从国内买了很多SFP / 富通天下",
-      "url": "（本地 Clients/ 表格，无公开 URL）",
-      "date": "2026-10-21"
-    }
-  ],
-  "kp": [],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（无首轮调研；由 deepen.py 建档）",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "B 级加厚 v1（基于用户表整理 + 需求映射；「成交」为富通天下外贸数据）"
-  },
-  "company_facts": {
-    "legal_name": "Telconet S.A.",
-    "hq": "Guayaquil, Ecuador",
-    "size": "大型运营商（数千人）",
-    "other": "直接从中国进口 SFP（外贸数据）"
-  },
-  "business_lines": [
-    "光纤电信运营（骨干、企业、数据中心）"
-  ],
-  "channels": {
-    "网站": "https://www.telconet.ec/（未核）",
-    "邮箱": "info@telconet.ec（用户表）"
-  },
-  "signals": [
-    "运营商直采中国 SFP → 对中国供应商开放；量大"
-  ],
-  "risks": [
-    "大型运营商：供应商注册/招标流程长，通用邮箱难触达；拉美非主攻区；SFP 不在价格表（Q-32）"
-  ],
-  "saga_fit": {
-    "p1": null,
-    "tier": 20,
-    "why": "待核型：主需求 SFP 模块不在价格表（Q-32）；交换机对位 STC-424XGGM（24 GE + 4×10G L2+，$127.4@20）/ L3 版（$269.1）"
-  },
-  "email_hook": "Hello Telconet procurement team, alongside the SFP modules you import from China: 24× GbE + 4× 10G SFP+ L2+ access switches at $127.4 EXW (L3 version $269.1), and 1G/10G SFPs on request — who is the right contact for access-network equipment sourcing?",
-  "mail_review": {
-    "binding": {
-      "level": "Elsa 群发 BCC 已触达 2026-08-20「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，LatAm 批次 To vanessa.salas@prisa-solutions.com，0 回（第 73 批(o) Bcc 头核对 msg 1a01fab10562d079）；S/A 箱：S/A 邮箱均无往来；来源：用户表「从国内买了很多SFP / 富通天下」",
-      "type": "—",
-      "sieve": "—（未入筛）",
-      "stop": "Elsa 群发 BCC 触达过（最近 2026-08-20）无回；S/A 箱从未单独发过",
-      "revive": "不动（非主攻区；J5：有证据再动）",
-      "lane": "厄瓜多尔 非主攻",
-      "cadence": "不动",
-      "evidence": "gmail_digest：out 0；用户表：「从国内买了很多SFP / 富通天下」；研究档 risks：大型运营商：供应商注册/招标流程长，通用邮箱难触达；拉美非主攻区；SFP 不在价格表（Q-32）；data/gmail_e/bcc_batches_2026.json"
-    },
-    "situation": "厄瓜多尔大型光纤电信运营商 Telconet（瓜亚基尔；全国光纤骨干与企业/数据中心服务；info@telconet.ec）。用户表（富通天下外贸数据）：「从国内买了很多 SFP」= 直接从中国进口大量 SFP 模块，非 Saga 成交；群发无互动。运营商直采 SFP → Saga 需补 SFP 价目（Q-32）；交换机对位接入/汇聚 10G 机型；大型运营商供应商准入门槛高。",
-    "need": "待核型：主需求 SFP 模块不在价格表（Q-32）；交换机对位 STC-424XGGM（24 GE + 4×10G L2+，$127.4@20）/ L3 版（$269.1）",
-    "breakpoint": "大型运营商：供应商注册/招标流程长，通用邮箱难触达；拉美非主攻区；SFP 不在价格表（Q-32）",
-    "saga_now": {
-      "p1": "—",
-      "tier": 20,
-      "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-20；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "待核型：主需求 SFP 模块不在价格表（Q-32）；交换机对位 STC-424XGGM（24 GE + 4×10G L2+，$127.4@20）/ L3 版（$269.1）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "不动",
-      "channel": "—",
-      "action": "—",
-      "one_question": ""
-    },
-    "facts": [
-      {
-        "date": "2026-08-20",
-        "dir": "去",
-        "who": "Elsa 群发（BCC；To vanessa.salas@prisa-solutions.com，LatAm 批次）",
-        "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
-        "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@telconet.ec, telconet.ec）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
-        "k": "elsa_bcc"
-      },
-      {
-        "date": "2026-10-21",
-        "dir": "用户表",
-        "who": "Simon",
-        "quote": "从国内买了很多SFP / 富通天下",
-        "why": "表内备注",
-        "k": "用户表"
-      }
-    ],
-    "proof_gaps": [
-      "无邮件往来"
-    ],
-    "draft_en": null,
-    "as_of": "2026-10-24"
+ "code": "SB-124",
+ "name_official": "Telconet S.A.（Guayaquil, Ecuador；telconet.ec / telconet.net；大型光纤运营商）",
+ "researched_at": "2026-10-21",
+ "website_status": "在线（未单独抓取）",
+ "summary": "厄瓜多尔大型光纤电信运营商 Telconet（瓜亚基尔；全国光纤骨干与企业/数据中心服务；info@telconet.ec）。用户表（富通天下外贸数据）：「从国内买了很多 SFP」= 直接从中国进口大量 SFP 模块，非 Saga 成交；群发无互动。运营商直采 SFP → Saga 需补 SFP 价目（Q-32）；交换机对位接入/汇聚 10G 机型；大型运营商供应商准入门槛高。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "用户表",
+   "claim": "富通天下：从国内买了很多 SFP",
+   "quote": "从国内买了很多SFP / 富通天下",
+   "url": "（本地 Clients/ 表格，无公开 URL）",
+   "date": "2026-10-21"
   }
+ ],
+ "kp": [
+  {
+   "name": "Marion Tomislav Topic Granados",
+   "role": "Gerente General / Representante Legal（BVG 发行人页 2026-10-29；无公开邮箱）（第 123 批 官方登记核实 2026-10-29）"
+  }
+ ],
+ "grade_override": null,
+ "override_reason": "",
+ "notes": "（无首轮调研；由 deepen.py 建档）",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "B 级加厚 v1（基于用户表整理 + 需求映射；「成交」为富通天下外贸数据）"
+ },
+ "company_facts": {
+  "legal_name": "TELCONET S.A.（RUC 0991327371001；BVG 登记发行人；ARCOTEL Título Habilitante 1795361）",
+  "hq": "Av. Luis Orrantia SL. 21 y Av. V.H. Sicouret, Kennedy Norte, Guayaquil, Ecuador（第 123 批 官方登记核实 2026-10-29）",
+  "size": "大型（第 123 批 官方登记核实 2026-10-29）",
+  "other": "直接从中国进口 SFP（外贸数据）；第 123 批：大型光纤运营商 + 主需求 SFP（不供）+ 无 KP + 零互动 → **不动（B 保留；运营商按单核）**；坐实（RUC + 法定代表人 + 法定地址）（第 123 批 官方登记核实 2026-10-29）",
+  "founded": "未取（第 123 批 官方登记核实 2026-10-29）"
+ },
+ "business_lines": [
+  "光纤电信运营（骨干、企业、数据中心）"
+ ],
+ "channels": {
+  "网站": "https://www.telconet.ec/（未核）",
+  "邮箱": "info@telconet.ec（用户表）"
+ },
+ "signals": [
+  "运营商直采中国 SFP → 对中国供应商开放；量大"
+ ],
+ "risks": [
+  "大型运营商：供应商注册/招标流程长，通用邮箱难触达；拉美非主攻区；SFP 不在价格表（Q-32）"
+ ],
+ "saga_fit": {
+  "p1": null,
+  "tier": 20,
+  "why": "待核型：主需求 SFP 模块不在价格表（Q-32）；交换机对位 STC-424XGGM（24 GE + 4×10G L2+，$127.4@20）/ L3 版（$269.1）"
+ },
+ "email_hook": "Hello Telconet procurement team, alongside the SFP modules you import from China: 24× GbE + 4× 10G SFP+ L2+ access switches at $127.4 EXW (L3 version $269.1), and 1G/10G SFPs on request — who is the right contact for access-network equipment sourcing?",
+ "mail_review": {
+  "binding": {
+   "level": "Elsa 群发 BCC 已触达 2026-08-20「24 Port PoE Managed Switch」，正文「Price: 170USD/PC」，LatAm 批次 To vanessa.salas@prisa-solutions.com，0 回（第 73 批(o) Bcc 头核对 msg 1a01fab10562d079）；S/A 箱：S/A 邮箱均无往来；来源：用户表「从国内买了很多SFP / 富通天下」",
+   "type": "—",
+   "sieve": "—（未入筛）",
+   "stop": "Elsa 群发 BCC 触达过（最近 2026-08-20）无回；S/A 箱从未单独发过",
+   "revive": "不动（非主攻区；J5：有证据再动）",
+   "lane": "厄瓜多尔 非主攻",
+   "cadence": "不动",
+   "evidence": "gmail_digest：out 0；用户表：「从国内买了很多SFP / 富通天下」；研究档 risks：大型运营商：供应商注册/招标流程长，通用邮箱难触达；拉美非主攻区；SFP 不在价格表（Q-32）；data/gmail_e/bcc_batches_2026.json"
+  },
+  "situation": "厄瓜多尔大型光纤电信运营商 Telconet（瓜亚基尔；全国光纤骨干与企业/数据中心服务；info@telconet.ec）。用户表（富通天下外贸数据）：「从国内买了很多 SFP」= 直接从中国进口大量 SFP 模块，非 Saga 成交；群发无互动。运营商直采 SFP → Saga 需补 SFP 价目（Q-32）；交换机对位接入/汇聚 10G 机型；大型运营商供应商准入门槛高。",
+  "need": "待核型：主需求 SFP 模块不在价格表（Q-32）；交换机对位 STC-424XGGM（24 GE + 4×10G L2+，$127.4@20）/ L3 版（$269.1）",
+  "breakpoint": "大型运营商：供应商注册/招标流程长，通用邮箱难触达；拉美非主攻区；SFP 不在价格表（Q-32）",
+  "saga_now": {
+   "p1": "—",
+   "tier": 20,
+   "price": "按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-20；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+   "why": "待核型：主需求 SFP 模块不在价格表（Q-32）；交换机对位 STC-424XGGM（24 GE + 4×10G L2+，$127.4@20）/ L3 版（$269.1）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "不动",
+   "channel": "—",
+   "action": "—",
+   "one_question": ""
+  },
+  "facts": [
+   {
+    "date": "2026-08-20",
+    "dir": "去",
+    "who": "Elsa 群发（BCC；To vanessa.salas@prisa-solutions.com，LatAm 批次）",
+    "quote": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "why": "Elsa 箱群发 BCC 触达证据（命中地址 info@telconet.ec, telconet.ec）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立",
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "用户表",
+    "who": "Simon",
+    "quote": "从国内买了很多SFP / 富通天下",
+    "why": "表内备注",
+    "k": "用户表"
+   }
+  ],
+  "proof_gaps": [
+   "无邮件往来"
+  ],
+  "draft_en": null,
+  "as_of": "2026-10-24"
+ }
 }

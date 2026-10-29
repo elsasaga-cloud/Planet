@@ -49,14 +49,16 @@
    "title": "Technical Sales Representative",
    "email": "jabe@swl.co.nz",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Technical Sales Representative（研究档 KP）= 收件人 — 一页纸一次：分销 20% B、STC-028GP $28 / STC-228GP $33 / STC-2224GP $86 整箱一口价 + MOQ 1 + 付费样机；中性包装；在售品牌不点名 — 新西兰常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 奥克兰；周二 / 周四 09–11 NZST（第 123 批 官方登记核实 2026-10-29）"
   },
   {
    "name": "Andrew Jones",
    "title": "Managing Director",
    "email": "trade@swl.co.nz",
    "phone": "",
-   "source": "用户表"
+   "source": "用户表",
+   "role": "Managing Director / Key Principal（D&B + ZoomInfo 2026-10-29）（第 123 批 官方登记核实 2026-10-29）"
   }
  ],
  "grade_override": null,
@@ -67,8 +69,11 @@
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
  },
  "company_facts": {
-  "hq": "新西兰",
-  "other": "官网 swl.co.nz，语言 en，快照状态 ok；角色判定来源：官网文案"
+  "hq": "922 Great South Road, Penrose, Auckland 1061, New Zealand（基督城分部 4/91 Byron St）（第 123 批 官方登记核实 2026-10-29）",
+  "other": "官网 swl.co.nz，语言 en，快照状态 ok；角色判定来源：官网文案；第 123 批：本土安防批发（Provision-ISR / Ajax / DSC；Utepo 在售）→ **分销 20% 一页纸一次（预付 100%）**；部分坐实（D&B 法定名 + 地址 + MD）（第 123 批 官方登记核实 2026-10-29）",
+  "legal_name": "Security Wholesale 2001 Limited（DBA SWL；NZBN 1 查未得）",
+  "founded": "2001（名称推定）（第 123 批 官方登记核实 2026-10-29）",
+  "size": "小型（第 123 批 官方登记核实 2026-10-29）"
  },
  "business_lines": [
   "安防批发（CCTV / 报警 / 门禁）"

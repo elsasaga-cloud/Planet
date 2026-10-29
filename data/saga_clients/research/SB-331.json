@@ -52,7 +52,8 @@
    "title": "（表内联系人）",
    "email": "hichem.akchiche@retelem-dz.com",
    "phone": "+213 770 760 449",
-   "source": "（本地 Clients/ 表格，无公开 URL）"
+   "source": "（本地 Clients/ 表格，无公开 URL）",
+   "role": "联系人（研究档 KP；WA 已加；2024 要工业交换机 datasheet、对 2 光 8 PoE 有兴趣）= 收件人 — 一页纸一次：集成商 25% B、STI-288DGGPM $137 L2 管理 / STI-288GPM $78.9 非管理 一口价 + MOQ 1 + 付费样机；关键基础设施按单核；法语备注 — 阿尔及利亚常规：英文稿（法语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（第 123 批 官方登记核实 2026-10-29）"
   }
  ],
  "grade_override": null,
@@ -63,11 +64,11 @@
   "level": "B 级加厚 v1（官网快照 + 集团/名录核对）"
  },
  "company_facts": {
-  "legal_name": "EPE RETELEM SPA（ex-SONATITE）",
-  "founded": "1971",
-  "hq": "54 Rue Omar Benaissa, Bab El Oued, Alger, Algérie",
-  "size": "国有中大型（14 分支）",
-  "other": "ELEC EL DJAZAIR 控股；法语"
+  "legal_name": "EPE RETELEM SPA（ex-SONATITE；ELEC EL DJAZAIR 控股；RC / NIF 1 查未得）",
+  "founded": "1971（SONATITE）（第 123 批 官方登记核实 2026-10-29）",
+  "hq": "54, Rue Omar Benaissa, Bab El Oued, Alger, Algeria（第 123 批 官方登记核实 2026-10-29）",
+  "size": "中型（200–500）（第 123 批 官方登记核实 2026-10-29）",
+  "other": "ELEC EL DJAZAIR 控股；法语；第 123 批：国企网络 / 光纤 / 数据中心 / SCADA 集成商 → **集成商 25% 一页纸一次（预付 100%）**；部分坐实（名录地址 + 人数）（第 123 批 官方登记核实 2026-10-29）"
  },
  "business_lines": [
   "LAN/WAN/Wi-Fi 与光纤传输",

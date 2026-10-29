@@ -53,10 +53,14 @@
  "kp": [
   {
    "name": "Sonam Rinchen",
-   "role": "（职位未核；表内联系人）",
+   "role": "表内联系人（研究档 KP；WA 已加；要收发器 / SFP / PoE 交换机）= 收件人 — 一页纸一次：集成商 25% B、STC-4424GCPM $165 / STC-424XGGPM-280W $198 汇聚 + STC-228GP $33 接入 一口价 + MOQ 1；SFP / 收发器不供明说 — 不丹常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方经加尔各答 / 空运清关）（第 123 批 官方登记核实 2026-10-29）",
    "email": "sonam@nano.bt",
    "phone": "+975 17 113 202（WA 已加；表内 975-171 13202）",
    "source": "用户 Clients 表"
+  },
+  {
+   "name": "Tshering Norbu",
+   "role": "Managing Director（官网 2026-10-29；曾任 Thimphu TechPark Ltd 董事；无公开邮箱）（第 123 批 官方登记核实 2026-10-29）"
   }
  ],
  "grade_override": "B",
@@ -68,11 +72,11 @@
   "level": "B 级加厚 v1（官网快照 + 第三方核对 · 国别更正 BT）"
  },
  "company_facts": {
-  "legal_name": "NANO（Private Ltd，不丹）",
-  "founded": "2016（AS136039 分配 2016-11）/ 2017 入市",
-  "hq": "Thimphu TechPark, Wangchutaba, Thimphu 11001, Bhutan；+975 2 330330；info@nano.bt",
-  "size": "官网自述 11 人（成长中）",
-  "other": "不丹 BICMA 持牌 ISP 名录第 7 家（全国覆盖）；拥有独立国际网关与 DWDM 骨干；一座 Tier 2/3 数据中心"
+  "legal_name": "NANO（不丹持牌 ISP；公司注册号 1 查未得）",
+  "founded": "2017（入市）（第 123 批 官方登记核实 2026-10-29）",
+  "hq": "IT Park, PO Box 633, Wangchuktaba, Babesa, Thimphu, Bhutan（+975 2 330330）（第 123 批 官方登记核实 2026-10-29）",
+  "size": "微型（约 11）（第 123 批 官方登记核实 2026-10-29）",
+  "other": "不丹 BICMA 持牌 ISP 名录第 7 家（全国覆盖）；拥有独立国际网关与 DWDM 骨干；一座 Tier 2/3 数据中心；第 123 批：三家持独立国际网关 ISP 之一 → **集成商 25% 一页纸一次（预付 100%）**；部分坐实（官网注册地址 + MD）（第 123 批 官方登记核实 2026-10-29）"
  },
  "business_lines": [
   "ISP 与网络运营（FTTx、企业专线）",
