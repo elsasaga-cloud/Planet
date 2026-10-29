@@ -16,21 +16,21 @@
    "P"
   ],
   "stats": {
-   "customers": 1521,
-   "no_domain": 99,
-   "sources": 2965,
+   "customers": 1489,
+   "no_domain": 86,
+   "sources": 2928,
    "kinds": {
-    "sitemap": 623,
-    "html": 2114,
-    "youtube_handle": 125,
+    "sitemap": 616,
+    "html": 2085,
+    "youtube_handle": 124,
     "rss": 103
    },
-   "social_manual": 1118,
-   "snapshot_missing": 417,
-   "site_dead": 41,
+   "social_manual": 1104,
+   "snapshot_missing": 404,
+   "site_dead": 40,
    "pool_customers": 91,
    "pool_sources": 105,
-   "pool_ab": 487
+   "pool_ab": 481
   },
   "note": "离线生成（幂等）。精选源请改 targets.json；本文件由 discover.py 重新生成时会被覆盖。"
  },
@@ -5668,49 +5668,6 @@
    }
   },
   {
-   "code": "SB-070",
-   "name": "neowine",
-   "grade": "B",
-   "country": "韩国",
-   "layer": "B",
-   "site_status_2026_10_21": "ok",
-   "sources": [
-    {
-     "id": "home",
-     "kind": "html",
-     "url": "https://neowine.com/",
-     "note": "官网首页（T27 快照状态 ok）"
-    },
-    {
-     "id": "sitemap",
-     "kind": "sitemap",
-     "url": "https://neowine.com/sitemap.xml",
-     "note": "站点地图（2026-10-21 时 86 条）"
-    },
-    {
-     "id": "news_1",
-     "kind": "html",
-     "url": "https://neowine.com/bbs/board.php?bo_table=notice",
-     "note": "导航「News」"
-    },
-    {
-     "id": "news_2",
-     "kind": "html",
-     "url": "https://neowine.com/bbs/board.php?bo_table=neowine",
-     "note": "导航「Press」"
-    }
-   ],
-   "manual": [],
-   "pool": {
-    "档位": "☆",
-    "入池": "观察",
-    "来源": "Saga",
-    "区域组": "东亚 / 东南亚 / 大洋洲",
-    "标签": "kc_needed、prepay",
-    "下次巡检": "2026-12-28"
-   }
-  },
-  {
    "code": "SB-071",
    "name": "nkstech.net",
    "grade": "A",
@@ -6030,31 +5987,6 @@
     }
    ],
    "manual": []
-  },
-  {
-   "code": "SB-080",
-   "name": "cyber-tec.net",
-   "grade": "B",
-   "country": "伊拉克",
-   "layer": "B",
-   "site_status_2026_10_21": "unreachable",
-   "sources": [
-    {
-     "id": "home",
-     "kind": "html",
-     "url": "https://cyber-tec.net/",
-     "note": "官网首页（T27 快照状态 unreachable）"
-    }
-   ],
-   "manual": [],
-   "pool": {
-    "档位": "☆",
-    "入池": "观察",
-    "来源": "Saga",
-    "区域组": "中东 / 非洲",
-    "标签": "prepay",
-    "下次巡检": "2026-12-28"
-   }
   },
   {
    "code": "SB-081",
@@ -12558,37 +12490,6 @@
    ]
   },
   {
-   "code": "SB-171",
-   "name": "comtek-de.com",
-   "grade": "B",
-   "country": "德国",
-   "layer": "B",
-   "site_status_2026_10_21": "ok",
-   "sources": [
-    {
-     "id": "home",
-     "kind": "html",
-     "url": "https://comtek-de.com/",
-     "note": "官网首页（T27 快照状态 ok）"
-    },
-    {
-     "id": "sitemap",
-     "kind": "sitemap",
-     "url": "https://comtek-de.com/sitemap_index.xml",
-     "note": "站点地图（2026-10-21 时 1242 条）"
-    }
-   ],
-   "manual": [],
-   "pool": {
-    "档位": "☆",
-    "入池": "观察",
-    "来源": "Saga",
-    "区域组": "四主区 + 波兰",
-    "标签": "dayjob_fit",
-    "下次巡检": "2026-12-28"
-   }
-  },
-  {
    "code": "SB-172",
    "name": "consteel-electronics.com",
    "grade": "B",
@@ -12800,31 +12701,6 @@
    }
   },
   {
-   "code": "SB-181",
-   "name": "Interpos",
-   "grade": "B",
-   "country": "土耳其",
-   "layer": "B",
-   "site_status_2026_10_21": "ok",
-   "sources": [
-    {
-     "id": "home",
-     "kind": "html",
-     "url": "https://inter-pos.com/",
-     "note": "官网首页（T27 快照状态 ok）"
-    }
-   ],
-   "manual": [],
-   "pool": {
-    "档位": "☆",
-    "入池": "观察",
-    "来源": "Saga",
-    "区域组": "四主区 + 波兰",
-    "标签": "",
-    "下次巡检": "2026-12-28"
-   }
-  },
-  {
    "code": "SB-184",
    "name": "Vernetzen Pty Ltd",
    "grade": "B",
@@ -12875,64 +12751,6 @@
     }
    ],
    "manual": [],
-   "pool": {
-    "档位": "☆",
-    "入池": "观察",
-    "来源": "Saga",
-    "区域组": "四主区 + 波兰",
-    "标签": "",
-    "下次巡检": "2026-12-28"
-   }
-  },
-  {
-   "code": "SB-186",
-   "name": "basaranelektronik.net",
-   "grade": "B",
-   "country": "土耳其",
-   "layer": "B",
-   "site_status_2026_10_21": "ok",
-   "sources": [
-    {
-     "id": "home",
-     "kind": "html",
-     "url": "https://basaranelektronik.net/",
-     "note": "官网首页（T27 快照状态 ok）"
-    },
-    {
-     "id": "news_1",
-     "kind": "html",
-     "url": "https://basaranelektronik.net/blog",
-     "note": "导航「Hizmet Bölgelerimiz」"
-    },
-    {
-     "id": "news_2",
-     "kind": "html",
-     "url": "https://basaranelektronik.net/blog-balikesir-6",
-     "note": "导航「Devamını Oku」"
-    }
-   ],
-   "manual": [
-    {
-     "label": "Facebook",
-     "url": "https://www.facebook.com/basaranelektronikgomec",
-     "note": "登录墙，人工看"
-    },
-    {
-     "label": "X/Twitter",
-     "url": "https://twitter.com/",
-     "note": "登录墙，人工看"
-    },
-    {
-     "label": "LinkedIn",
-     "url": "http://linkedin.com",
-     "note": "登录墙，人工看"
-    },
-    {
-     "label": "Instagram",
-     "url": "https://www.instagram.com/basaranelektronikgomec/",
-     "note": "登录墙，人工看"
-    }
-   ],
    "pool": {
     "档位": "☆",
     "入池": "观察",
@@ -13357,54 +13175,6 @@
      "note": "登录墙，人工看"
     }
    ]
-  },
-  {
-   "code": "SB-204",
-   "name": "aaagroup.pk",
-   "grade": "B",
-   "country": "巴基斯坦",
-   "layer": "B",
-   "site_status_2026_10_21": "ok",
-   "sources": [
-    {
-     "id": "home",
-     "kind": "html",
-     "url": "https://daikool.pk/",
-     "note": "官网首页（T27 快照状态 ok）"
-    },
-    {
-     "id": "news_1",
-     "kind": "html",
-     "url": "https://daikool.pk/projects/cassette-ac/",
-     "note": "导航「Cassette Split」"
-    },
-    {
-     "id": "news_2",
-     "kind": "html",
-     "url": "https://daikool.pk/projects/dc-inverter-split/",
-     "note": "导航「Wall Mounted Split」"
-    }
-   ],
-   "manual": [
-    {
-     "label": "X/Twitter",
-     "url": "https://twitter.com/",
-     "note": "登录墙，人工看"
-    },
-    {
-     "label": "Facebook",
-     "url": "https://www.facebook.com/daikoolpakistan/",
-     "note": "登录墙，人工看"
-    }
-   ],
-   "pool": {
-    "档位": "☆",
-    "入池": "观察",
-    "来源": "Saga",
-    "区域组": "印度 / 南亚",
-    "标签": "dayjob_fit、prepay",
-    "下次巡检": "2026-12-28"
-   }
   },
   {
    "code": "SB-205",
@@ -16401,62 +16171,6 @@
     "标签": "prepay",
     "下次巡检": "2026-12-28"
    }
-  },
-  {
-   "code": "SB-300",
-   "name": "camsanordu.com",
-   "grade": "B",
-   "country": "土耳其",
-   "layer": "B",
-   "site_status_2026_10_21": "ok",
-   "sources": [
-    {
-     "id": "home",
-     "kind": "html",
-     "url": "https://camsanordu.com/",
-     "note": "官网首页（T27 快照状态 ok）"
-    },
-    {
-     "id": "sitemap",
-     "kind": "sitemap",
-     "url": "https://camsanordu.com/sitemap.xml",
-     "note": "站点地图（2026-10-21 时 272 条）"
-    },
-    {
-     "id": "news_1",
-     "kind": "html",
-     "url": "https://camsanordu.com/news-from-us",
-     "note": "导航「News From Us」"
-    },
-    {
-     "id": "news_2",
-     "kind": "html",
-     "url": "https://camsanordu.com/blog",
-     "note": "导航「Tüm Bloglar」"
-    }
-   ],
-   "manual": [
-    {
-     "label": "Facebook",
-     "url": "https://www.facebook.com/",
-     "note": "登录墙，人工看"
-    },
-    {
-     "label": "X/Twitter",
-     "url": "https://www.x.com/",
-     "note": "登录墙，人工看"
-    },
-    {
-     "label": "Instagram",
-     "url": "https://www.instagram.com/camsanordu/",
-     "note": "登录墙，人工看"
-    },
-    {
-     "label": "LinkedIn",
-     "url": "https://www.linkedin.com/",
-     "note": "登录墙，人工看"
-    }
-   ]
   },
   {
    "code": "SB-301",
@@ -21432,23 +21146,6 @@
    ]
   },
   {
-   "code": "SB-469",
-   "name": "Novy Telecom sro",
-   "grade": "B",
-   "country": "捷克",
-   "layer": "B",
-   "site_status_2026_10_21": "ok",
-   "sources": [
-    {
-     "id": "home",
-     "kind": "html",
-     "url": "https://www.novytel.cz/",
-     "note": "官网首页（T27 快照状态 ok）"
-    }
-   ],
-   "manual": []
-  },
-  {
    "code": "SB-470",
    "name": "asm.cz",
    "grade": "B",
@@ -21539,29 +21236,6 @@
      "note": "登录墙，人工看"
     }
    ]
-  },
-  {
-   "code": "SB-473",
-   "name": "bturesearch.com",
-   "grade": "B",
-   "country": "美国",
-   "layer": "B",
-   "site_status_2026_10_21": "ok",
-   "sources": [
-    {
-     "id": "home",
-     "kind": "html",
-     "url": "https://intepo.com",
-     "note": "官网首页（T27 快照状态 ok）"
-    },
-    {
-     "id": "sitemap",
-     "kind": "sitemap",
-     "url": "https://intepo.com/sitemap_index.xml",
-     "note": "站点地图（2026-10-21 时 10 条）"
-    }
-   ],
-   "manual": []
   },
   {
    "code": "SB-474",
@@ -22753,23 +22427,6 @@
      "note": "登录墙，人工看"
     }
    ]
-  },
-  {
-   "code": "SB-516",
-   "name": "Brigit Group",
-   "grade": "B",
-   "country": "南非",
-   "layer": "B",
-   "site_status_2026_10_21": "ok",
-   "sources": [
-    {
-     "id": "home",
-     "kind": "html",
-     "url": "https://brigit.co.za/",
-     "note": "官网首页（T27 快照状态 ok）"
-    }
-   ],
-   "manual": []
   },
   {
    "code": "SB-519",
@@ -26171,23 +25828,6 @@
    }
   },
   {
-   "code": "SB-642",
-   "name": "apresteknoloji.com.tr",
-   "grade": "B",
-   "country": "土耳其",
-   "layer": "B",
-   "site_status_2026_10_21": "ok",
-   "sources": [
-    {
-     "id": "home",
-     "kind": "html",
-     "url": "https://apresteknoloji.com.tr/",
-     "note": "官网首页（T27 快照状态 ok）"
-    }
-   ],
-   "manual": []
-  },
-  {
    "code": "SB-643",
    "name": "arbybilgisayar.com.tr",
    "grade": "B",
@@ -26652,23 +26292,6 @@
    ]
   },
   {
-   "code": "SB-653",
-   "name": "coredata.com.tr",
-   "grade": "B",
-   "country": "土耳其",
-   "layer": "B",
-   "site_status_2026_10_21": "ok",
-   "sources": [
-    {
-     "id": "home",
-     "kind": "html",
-     "url": "https://coredata.com.tr/login_up.php",
-     "note": "官网首页（T27 快照状态 ok）"
-    }
-   ],
-   "manual": []
-  },
-  {
    "code": "SB-654",
    "name": "davantel.com",
    "grade": "B",
@@ -26940,23 +26563,6 @@
    "manual": []
   },
   {
-   "code": "SB-661",
-   "name": "goldnet.com.tr",
-   "grade": "B",
-   "country": "土耳其",
-   "layer": "B",
-   "site_status_2026_10_21": "ok",
-   "sources": [
-    {
-     "id": "home",
-     "kind": "html",
-     "url": "https://goldnet.com.tr/",
-     "note": "官网首页（T27 快照状态 ok）"
-    }
-   ],
-   "manual": []
-  },
-  {
    "code": "SB-662",
    "name": "hssl.us",
    "grade": "B",
@@ -27194,29 +26800,6 @@
     {
      "label": "Facebook",
      "url": "https://www.facebook.com/Münchner-Glasfaser-Technik-GmbH-376892559729303/",
-     "note": "登录墙，人工看"
-    }
-   ]
-  },
-  {
-   "code": "SB-668",
-   "name": "midosa.com.tr",
-   "grade": "B",
-   "country": "土耳其",
-   "layer": "B",
-   "site_status_2026_10_21": "http_error",
-   "sources": [
-    {
-     "id": "home",
-     "kind": "html",
-     "url": "https://midosa.com.tr/",
-     "note": "官网首页（T27 快照状态 http_error）"
-    }
-   ],
-   "manual": [
-    {
-     "label": "Facebook",
-     "url": "https://www.facebook.com/p/Midosa-Teknoloji-100063657122822/",
      "note": "登录墙，人工看"
     }
    ]
@@ -31583,23 +31166,6 @@
    ]
   },
   {
-   "code": "SB-821",
-   "name": "server-x.by",
-   "grade": "B",
-   "country": "白俄罗斯",
-   "layer": "B",
-   "site_status_2026_10_21": "http_error",
-   "sources": [
-    {
-     "id": "home",
-     "kind": "html",
-     "url": "https://server-x.by/",
-     "note": "官网首页（T27 快照状态 http_error）"
-    }
-   ],
-   "manual": []
-  },
-  {
    "code": "SB-822",
    "name": "solidcable.com",
    "grade": "B",
@@ -32228,35 +31794,6 @@
    "manual": []
   },
   {
-   "code": "SB-845",
-   "name": "osbornsalessolutions.com",
-   "grade": "B",
-   "country": "美国",
-   "layer": "B",
-   "site_status_2026_10_21": "ok",
-   "sources": [
-    {
-     "id": "home",
-     "kind": "html",
-     "url": "https://www.osbornsalessolutions.com/",
-     "note": "官网首页（T27 快照状态 ok）"
-    },
-    {
-     "id": "sitemap",
-     "kind": "sitemap",
-     "url": "https://www.osbornsalessolutions.com/sitemap.xml",
-     "note": "站点地图（2026-10-21 时 8 条）"
-    },
-    {
-     "id": "news_1",
-     "kind": "html",
-     "url": "https://www.osbornsalessolutions.com/portfolio-3",
-     "note": "导航「Territory Map」"
-    }
-   ],
-   "manual": []
-  },
-  {
    "code": "SB-846",
    "name": "qualicam.de",
    "grade": "B",
@@ -32524,29 +32061,6 @@
      "kind": "html",
      "url": "https://netcatsystems.de/referenzen",
      "note": "导航「Referenzen」"
-    }
-   ],
-   "manual": []
-  },
-  {
-   "code": "SB-855",
-   "name": "Nextlan",
-   "grade": "B",
-   "country": "捷克",
-   "layer": "B",
-   "site_status_2026_10_21": "ok",
-   "sources": [
-    {
-     "id": "home",
-     "kind": "html",
-     "url": "https://www.dgaccounting.cz/",
-     "note": "官网首页（T27 快照状态 ok）"
-    },
-    {
-     "id": "sitemap",
-     "kind": "sitemap",
-     "url": "https://www.dgaccounting.cz/wp-sitemap.xml",
-     "note": "站点地图（2026-10-21 时 30 条）"
     }
    ],
    "manual": []
@@ -33390,51 +32904,6 @@
     {
      "label": "Instagram",
      "url": "https://www.instagram.com/mcsfactorydigitalization/",
-     "note": "登录墙，人工看"
-    }
-   ]
-  },
-  {
-   "code": "SB-880",
-   "name": "netsolutionstore.com.au",
-   "grade": "B",
-   "country": "澳大利亚",
-   "layer": "B",
-   "site_status_2026_10_21": "ok",
-   "sources": [
-    {
-     "id": "home",
-     "kind": "html",
-     "url": "https://www.netsolutionstore.com.au/",
-     "note": "官网首页（T27 快照状态 ok）"
-    },
-    {
-     "id": "sitemap",
-     "kind": "sitemap",
-     "url": "https://www.netsolutionstore.com.au/sitemap.xml",
-     "note": "站点地图（2026-10-21 时 484 条）"
-    },
-    {
-     "id": "youtube",
-     "kind": "youtube_handle",
-     "url": "https://www.youtube.com/c/VirtualgraffitiAU",
-     "note": "YouTube（运行器解析 channelId 后转 RSS）"
-    }
-   ],
-   "manual": [
-    {
-     "label": "Facebook",
-     "url": "https://www.facebook.com/VirtualGraffitiAU/",
-     "note": "登录墙，人工看"
-    },
-    {
-     "label": "X/Twitter",
-     "url": "https://twitter.com/vgaustralia",
-     "note": "登录墙，人工看"
-    },
-    {
-     "label": "LinkedIn",
-     "url": "https://www.linkedin.com/company/virtual-graffiti-australia-pty-limited",
      "note": "登录墙，人工看"
     }
    ]
@@ -35768,29 +35237,6 @@
      "kind": "html",
      "url": "https://zenithtek.co.kr/",
      "note": "官网首页（T27 快照状态 http_error）"
-    }
-   ],
-   "manual": []
-  },
-  {
-   "code": "SB-969",
-   "name": "3sti-technologies.com",
-   "grade": "B",
-   "country": "尼日尔",
-   "layer": "B",
-   "site_status_2026_10_21": "ok",
-   "sources": [
-    {
-     "id": "home",
-     "kind": "html",
-     "url": "https://3sti-technologies.com/",
-     "note": "官网首页（T27 快照状态 ok）"
-    },
-    {
-     "id": "news_1",
-     "kind": "html",
-     "url": "https://3sti-technologies.com/documentation/functions-reference.php",
-     "note": "导航「Functions Reference」"
     }
    ],
    "manual": []

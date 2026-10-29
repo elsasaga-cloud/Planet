@@ -1,14 +1,15 @@
 # camsanordu.com
 **官方名称（调研核实）**：Çamsan Ordu Ağaç Sanayi ve Ticaret A.Ş.（Ordu 工厂 / Ankara 总部, TR；camsanordu.com；MDF 制造商）
 
-> **评级 B**　|　土耳其　|　档案编号 `SB-300`　|　优先级 ★★　|　状态：名单内·未触达
+> **评级 C**　|　土耳其　|　档案编号 `SB-300`　|　优先级 —　|　状态：名单内·未触达
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：ISAF2025展会、表:Simon　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-300
-rating: B
+rating: C
 rating_auto: B
+rating_research: C  # Q-76 LT-R05S 2026-10-29 复核打回 C 储备：土耳其 MDF / 强化地板制造商 Çamsan Ordu（展会拿彩页）：非行业内终端 → 
 name_official: "Çamsan Ordu Ağaç Sanayi ve Ticaret A.Ş.（Ordu 工厂 / Ankara 总部, TR；camsanordu.com；MDF 制造商）"
 score: 47
 country: 土耳其
@@ -32,10 +33,9 @@ updated: 2026-10-29
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：土耳其最大 MDF/强化地板制造商之一 Çamsan Ordu（1984 年在奥尔杜建厂，土耳其/中东/巴尔干首家 MDF 厂；2011 年分立为 Çamsan Ordu；2019 年投资 7,000 万欧元建 MDF3 线；厂区 26 万 m²；员工 780（2026）/ LinkedIn 501–1,000；总部 Ankara Çankaya YDA Center；工厂 Uzunisa Kökenli Köyü, Ordu；+90 312 446 92 92 / 工厂 +90 452 225 53 00；info@camsanordu.com）。ISAF 记录：拿了彩页、没做交谈；邮箱 sclcule.o@camsanordu.com 需与客户再确认；无后续跟进。大型工厂终端用户（非渠道）→ 工业交换机自用机会，B 25%。（调研 2026-10-21；表内兴趣：拿了彩页，没做交谈(邮箱可和客户再确认一遍））
-- **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
+- **为什么是 C 级**：**调研后定级 C**（Q-76 LT-R05S 2026-10-29 复核打回 C 储备：土耳其 MDF / 强化地板制造商 Çamsan Ordu（展会拿彩页）：非行业内终端 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B）；自动分级 B：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；C 级细分：储备·复核打回
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 终端项目 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$137.5）作车间环网接入；MC STI-110GE（$23.4）；汇聚 STC-424XGGM(L3)（$280.3）；按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
-- **第一问（只问一个）**：Merhaba, ISAF'ta aldığınız broşürün devamı olarak: Ordu fabrikanızdaki üretim hatları için DIN ray 8 PoE+ + 2 SFP L2+ endüstriyel switch (−40/+75 °C, tozlu ortam için fansız) EXW 137,5 USD — bu konuyu fabrika IT/elektrik ekibinizden kime iletmeliyim?
+- **P1**：不推（C 级）；若对方主动来询，起手 STI-288DGGPM（深挖对位：终端项目 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$137.5）作车间环网接入；MC STI-110GE（$23.4）；汇聚 STC-424XGGM(L3)（$280.3））
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：待 Simon 排期（首封） A 邮箱 → sclcule.o@camsanordu.com 首封：按 email_hook 一问（第 74 批(r) 2026-10-25：英文信稿已写 `draft_en`，内容 = 土耳其语钩子句的英文版；土耳其语一句话仍在研究档备注里，对方若不读英文就整段单发）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
@@ -56,45 +56,6 @@ updated: 2026-10-29
 | 2026-10-21 | 用户表 | Simon | 拿了彩页，没做交谈(邮箱可和客户再确认一遍） / sclcule.o@camsanordu.com | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
-
-## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
-
-> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
-
-- **发信窗口（TR 全库 901 封群发的打开标签，对方本地时间；均值 4.0%）**：周四 10–12 点 5.9%（51 封）、周一 10–12 点 5.2%（58 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
-- **本国来询季节（TR 全库 17 个「户·月」真人来信，样本小）**：5 月 17.6% / 1 月 11.8% / 2 月 11.8%——本户来信太少，按本国节奏排下一步。
-- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 272 条 URL；社媒：https://www.facebook.com/、https://www.instagram.com/camsanordu/、https://www.linkedin.com/。
-- **同国同档参照（TR，25% 档、主推线「工业 2.5G PoE 管理型」，共 1 户有动静，列前 3）**：SA-086 netas.com.tr（A，同档同线：成交 STI-488DGGPM-2BT，回过 24 次（最近 2026-08-12））。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
-- **日历窗口**：对方：2026-10-29 共和国日（10-28 下午起放）；2027-01-01 元旦（1 天） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
-
-## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
-
-> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
-
-**邮箱域体检（DNS MX / A，2026-10-29 查）：**
-
-- `camsanordu.com` → Microsoft 365（MX：camsanordu-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
-
-**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
-
-- 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
-- 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
-
-**公司底数 · 第 106 批（TR · 1 次检索：贸易部中安纳托利亚区域局新闻（Çamsan Ordu Ağaç Sanayi ve Ticaret A.Ş.；1984；106. YYS 2024-10-09；Yönetim Kurulu Başkan Vekili Sedat AKSAKALLI）+ 官网 KVKK 文本（PK.34-35 Altınordu/Ordu；Kızılırmak Mah. Dumlupınar Bulvarı YDA Center A Blok No:9A İç Kapı No:685 Çankaya/Ankara）+ OAİB 2025 名单 PDF（Vergi No 2280750226；ÇAMSAN ORDU AĞAÇ SANAYİ VE TİCARET A.Ş）+ Odoo 客户页（1984；土耳其首家 / 欧洲第四家 MDF）+ hukukihaber（2018 Rekabet Kurulu 调查 12 家 MDF 企业之一），2026-10-28 查；https://ortaanadolu.ticaret.gov.tr/haberler/camsan-ordu-agac-sanayi-ve-ticaret-a-s-ye-106-yys-verildi）：**
-
-- 法定名 / 登记号：Çamsan Ordu Ağaç Sanayi ve Ticaret A.Ş.（camsanordu.com；安卡拉总部 YDA Center + 奥尔杜 Altınordu 工厂；Vergi No 2280750226）— 1984 年建厂的土耳其 / 中东 / 巴尔干首家 MDF 厂、2011 年分立；2024-10-09 获海关 YYS（经认证经营者）证书；董事会副主席 Sedat Aksakallı；员工 ≈780；2018 年竞争委员会 MDF 行业调查对象之一；研究档 KP 邮箱前缀 sclcule.o 姓名未核 · Vergi No 2280750226；YYS（经认证经营者）证书 2024-10-09 · 状态 **Active** · 成立 1984（建厂）；2011 分立为 Çamsan Ordu · A.Ş.（私有大型制造商）
-- 行业码 / 经营范围：MDF / 强化地板制造（终端用户；工厂网络为 IT 部门采购）
-- 注册地址：总部 Kızılırmak Mah. Dumlupınar Bulvarı YDA Center A Blok No:9A/685, Çankaya / Ankara；工厂 Altınordu / Ordu
-- 规模档：大型（≈780 人）
-- 账目：—；—
-- 高管：Sedat Aksakallı — 董事会副主席（贸易部新闻）= 拍板层（不直接写）
-- 高管：（姓名待核）— 研究档 KP sclcule.o@camsanordu.com = 收件人（IT / 采购推定）
-- 控制人 / 股东：未取（家族 / 私有）
-- 曾用名：Çamsan Ağaç Sanayi ve Ticaret A.Ş.（1984–2011 母体）
-- **这意味着什么：**
-  - **大型 MDF 厂终端用户 → 项目 25% 低概率（厂区工业环网：STI-288DGGPM / STI-488DGGPM / STI-0240GE；一般经本地集成商采购）：一页纸（工业线卡）一次后不动**
-  - 收件人邮箱前缀 sclcule.o 姓名未核 → 稿内不猜名，用「to the IT / plant network team」；发信窗口 Thu 10–12 TRT
-- 备注：终端用户；项目 25% 低概率；一页纸后不动；坐实（Vergi No + 贸易部新闻）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -128,6 +89,7 @@ updated: 2026-10-29
   > 拿了彩页，没做交谈(邮箱可和客户再确认一遍） / sclcule.o@camsanordu.com
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（姓名待核；邮箱前缀 sclcule.o）（（ISAF 名片；用户表注：邮箱需与客户再确认））sclcule.o@camsanordu.com（用户表，待核） —〔（本地 Clients/ 表格，无公开 URL）〕
+- **调研后定级**：C（原自动 B）——Q-76 LT-R05S 2026-10-29 复核打回 C 储备：土耳其 MDF / 强化地板制造商 Çamsan Ordu（展会拿彩页）：非行业内终端 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对））
@@ -208,32 +170,10 @@ updated: 2026-10-29
 |---|---|---|---|---|---|---|---|---|---|
 | A/2025土耳其ISAF客户.xlsx#Simon:12 | 11 |  | Turkey |  |  | 拿了彩页，没做交谈(邮箱可和客户再确认一遍） | sclcule.o@camsanordu.com 90 553 183 33 01 |  | — |
 
-## 产品决策（Saga · 单一决策口径）
-
-| 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
-|---|---|---|---|---|
-| **P1** | STI-288DGGPM | 深挖对位：终端项目 25% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$137.5）作车间环网接入；MC STI-110GE（$23.4）；汇聚 STC-424XGGM(L3)（$280.3） | $137.5 USD EXW（㉕ 封顶：25% 档 $145.7 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），25% 档公式为 $188.7——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-
-- **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
-
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
-
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288DGGPM 一条规格链接；只问一个问题。
-- **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
-- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
-- **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
-
-## SWOT
-
-- **S**：土耳其主攻区，复购与口碑可外溢；ISAF 2025 面对面建立过联系
-- **W**：无具名决策人，仍是公司级触达
-- **O**：P1 STI-288DGGPM 按 25% 档报价，做现供应商的第二货源
-- **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
+> C 级不主动跟进。保留档案的意义：① 不重复开发；② 若对方主动来询再升级。
+> 不跟进理由：储备·复核打回。若用户不同意，在 `data/saga_clients/人工定级.csv` 写一行 `SB-300,B,理由` 后重跑即可。
 
 ## 触达与风险红线
 
@@ -252,7 +192,7 @@ updated: 2026-10-29
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
-| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
+| 商业资格结论 | **不合格（见 C 级细分）→ 不主动跟进** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -291,11 +231,11 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- 不复核。对方主动来询 → 在 `data/saga_clients/人工定级.csv` 写一行升级后重跑。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 47）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 47）；人工/调研定级 → C
 
 ---
 

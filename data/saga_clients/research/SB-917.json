@@ -130,10 +130,13 @@
  },
  "country_fix": "阿联酋",
  "lt_review": {
-  "batch": "LT-01",
-  "status": "待过",
+  "status": "留 B",
+  "batch": "LT-R05S",
   "prio": 2,
-  "date": "2026-10-29",
+  "queued": "LT-R05S",
+  "verdict_date": "2026-10-29",
+  "note": "阿联酋工业自动化集成商 Torqsys（SCADA / PLC / UPS；水与污水厂站，100+ 客户）：工业线对位 ✔ 做项目 → 留 B",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 Elsa 群））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
- }
+ },
+ "override_history": []
 }

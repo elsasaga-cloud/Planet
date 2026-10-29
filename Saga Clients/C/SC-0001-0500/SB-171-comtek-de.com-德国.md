@@ -1,17 +1,18 @@
 # comtek-de.com
 **官方名称（调研核实）**：Comtek Network Systems GmbH（comtek-de.com；英国 Comtek Network Systems, Deeside 1989 的德国公司）
 
-> **评级 B**　|　德国　|　档案编号 `SB-171`　|　优先级 ★★　|　状态：有回复·跟进中
+> **评级 C**　|　德国　|　档案编号 `SB-171`　|　优先级 —　|　状态：有回复·跟进中
 >
-> **P 池并入（B 档，等级不动）：☆ P 池 · 观察档（试单 / 回访后转正或退回 C）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：真回 ✔ 但 对位 ✘ 光端机等（日职线） → 观察；命中 3/6（成单/样品 — · 真回 ✔ · WA — · 对位 ✘ 光端机等（日职线） · 登记 ✔ · 体量 小型（德国分部；集团 Dee）　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+> **P 池并入（C 档，等级不动）：留 C 储备**（批 LT-R05S · 2026-10-29 · 下次巡检 2026-12-28）：复核打回（LT-R05S）：法兰克福机场旁电信设备翻新 / 维修 / 二手采购商 Comtek（阿里 RFQ 华为 OTN）：二手翻新 + OTN 本职线 ≠ 新品白牌交换机买家 → C 储备｜原：☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：真回 ✔ 但 对位 ✘ 光端机等（日职线） → 观察；命中 3/6（成单/样品 — · 真回 ✔ · WA — · 对位 ✘ 光端机等（日职线） · 登记 ✔ · 体量 小型（德国分部；集团 Dee）　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：实质回复 1 次；推送 15 次（2024-05-08 → 2025-10-17）　|　**所在清单**：A优质名单(DE)、询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-171
-rating: B
+rating: C
 rating_auto: B
-sieve: pool_watch  # 闸 3 AB1 2026-10-29
+sieve: keep_C  # 闸 3 AB1 2026-10-29
+rating_research: C  # Q-76 LT-R05S 2026-10-29 复核打回 C 储备：法兰克福机场旁电信设备翻新 / 维修 / 二手采购商 Comtek（阿里 RFQ 华为 OT
 name_official: "Comtek Network Systems GmbH（comtek-de.com；英国 Comtek Network Systems, Deeside 1989 的德国公司）"
 score: 53
 country: 德国
@@ -36,10 +37,9 @@ updated: 2026-10-29
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：德国 Mörfelden-Walldorf（法兰克福机场旁）的电信/网络设备**翻新、维修与二手采购**商（USt-ID DE813812023；母公司英国 Comtek Network Systems, Deeside, 1989 年成立；德国站 1–10 人）：网站以 Cisco 翻新交换机（Nexus N3K/N5K、Catalyst 3750E/3850 等）为主，「直接供货给市场上一些最大的 OEM」。对 Saga 而言属非典型买家（卖翻新 Cisco，不以新品白牌为主业）。用户表：1 次实质回复，15 次跟进。（调研 2026-10-21；表内兴趣：华为OTN）
-- **为什么是 B 级**：+22 实质回复 1 次；+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
+- **为什么是 C 级**：**调研后定级 C**（Q-76 LT-R05S 2026-10-29 复核打回 C 储备：法兰克福机场旁电信设备翻新 / 维修 / 二手采购商 Comtek（阿里 RFQ 华为 OTN）：二手翻新 + OTN 本职线 ≠ 新品白牌交换机买家 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B）；自动分级 B：+22 实质回复 1 次；+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025；C 级细分：储备·复核打回
 - **历史互动**：实质回复 1 次；推送 15 次（2024-05-08 → 2025-10-17）；最近一次客户回复：79：有自己的型号了
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 经销 20% 档：STC-424XGGM（24 GE + 4×10G SFP+ L2+）作翻新目录中的新品替代；8 口 STC-28DGGM；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Next to the refurbished Catalyst access switches you stock, a new 24-port gigabit L2+ switch with 4×10G uplinks at $127.4 EXW can fill orders when refurbished units are out of stock; would a datasheet be useful?
+- **P1**：不推（C 级）；若对方主动来询，起手 STC-424XGGM（深挖对位：经销 20% 档：STC-424XGGM（24 GE + 4×10G SFP+ L2+）作翻新目录中的新品替代；8 口 STC-28DGGM）
 - **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
 
@@ -61,17 +61,6 @@ updated: 2026-10-29
 | 2026-10-21 | 用户表 | Simon | （用户表字段） | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
-
-## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
-
-> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
-
-- **发信窗口（DE 全库 922 封群发的打开标签，对方本地时间；均值 4.4%）**：周四 12–14 点 7.3%（41 封）、周二 08–10 点 6.7%（45 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
-- **本国来询季节（DE 全库 15 个「户·月」真人来信，样本小）**：11 月 13.3% / 12 月 13.3% / 9 月 13.3%——本户来信太少，按本国节奏排下一步。
-- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 1 封（2026-03-06 → 2026-03-06），打开标签 0 次。
-- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 1242 条 URL（≥500 = 大目录 / 网店体量）；站内可见品牌 3 个（Cisco、Juniper、Aruba）；官网语言 de（信照样英文，首句可用对方语言问候）。
-- **同国同档参照（DE，20% 档、主推线「商用 10G 非PoE 管理型」，共 1 户有动静，列前 3）**：SA-008 fiberone.de（A，同线：成交 STC-4168XGGCM、STC-424XGGM，回过 43 次（最近 2026-10-15），1:1 报过 14 次）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
-- **日历窗口**：对方：2026-12-24 圣诞–元旦（12-24 → 01-06，德国多数工厂整周停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
 
@@ -133,6 +122,7 @@ updated: 2026-10-29
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Askar Sheibani（Geschäftsführer / 集团 CEO（1989 Deeside 创立 Comtek）—— 非品类（翻新 / 二手）：不发（第 97 批 官方登记核实 2026-10-28）） 〔https://www.northdata.com/COMTEK+NETWORK+SYSTEMS+GmbH,+M%C3%B6rfelden-Walldorf/Amtsgericht+Darmstadt+HRB+100142〕
+- **调研后定级**：C（原自动 B）——Q-76 LT-R05S 2026-10-29 复核打回 C 储备：法兰克福机场旁电信设备翻新 / 维修 / 二手采购商 Comtek（阿里 RFQ 华为 OTN）：二手翻新 + OTN 本职线 ≠ 新品白牌交换机买家 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
@@ -203,16 +193,6 @@ updated: 2026-10-29
 | ? | 63 | alarm |  | A |  | DE 1.22.xlsx#31 |
 | ? | 79 | 16电 | 有自己的型号了 | A |  | DE 1.22.xlsx#31 |
 
-## 邮箱往来（S 邮箱 · 自动汇总）
-
-- **账号**：a.sagatelecom　|　**邮件**：1 封（去 1 / 来 0）　|　**期间**：2026-03-06 → 2026-03-06　|　**最后去信**：2026-03-06
-- **对方邮箱**：kushagra.bhardwaj@comtek-de.com
-- 对方从未回信（全部为我方去信）
-
-| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
-|---|---|---|---|---|---|
-| Updated Ethernet Switches Links | 2026-03-06 | 2026-03-06 | 0 | 1 | 1 |
-
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
 - **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
@@ -249,33 +229,10 @@ updated: 2026-10-29
 | A/DONE/DE 1.22.xlsx#总表:32 | 31 | https://comtek-de.com/ | 德国 | Kushagra Bhardwaj | 阿里巴巴RFQ | 华为OTN | kushagra.bhardwaj@comtek-de.com |  | 15 条 |
 | 询盘统计表.xlsx#Sheet1:202 |  | https://comtek-de.com/ | 德国 | Kushagra Bhardwaj | 2025.10.9 |  | kushagra.bhardwaj@comtek-de.com 2025年使用国际站 | 华为OTN from: 阿里巴巴RFQ | — |
 
-## 产品决策（Saga · 单一决策口径）
-
-| 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
-|---|---|---|---|---|
-| **P1** | STC-424XGGM | 深挖对位：经销 20% 档：STC-424XGGM（24 GE + 4×10G SFP+ L2+）作翻新目录中的新品替代；8 口 STC-28DGGM | $127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：20% 档 $139.9 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $181.2——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-
-- **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
-
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGM），备选型不进首触。
-
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-424XGGM 一条规格链接；只问一个问题。
-- **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
-- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
-- **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
-
-## SWOT
-
-- **S**：有 1 次实质回复（对方认识我们）；欧洲主攻区，复购与口碑可外溢
-- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-424XGGM 按 20% 档报价，做现供应商的第二货源
-- **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
+> C 级不主动跟进。保留档案的意义：① 不重复开发；② 若对方主动来询再升级。
+> 不跟进理由：储备·复核打回。若用户不同意，在 `data/saga_clients/人工定级.csv` 写一行 `SB-171,B,理由` 后重跑即可。
 
 ## 触达与风险红线
 
@@ -294,7 +251,7 @@ updated: 2026-10-29
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ✅ 华为 |
 | 采购量/预算 | ❓ 未确认（有回复但未报量） |
-| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
+| 商业资格结论 | **不合格（见 C 级细分）→ 不主动跟进** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -302,23 +259,7 @@ updated: 2026-10-29
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424XGGM - 24-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
-
-```text
-Hi Askar,
-
-Picking up our earlier exchange about PoE / industrial switches. Next to the refurbished Catalyst access switches you stock, a new 24-port gigabit L2+ switch with 4×10G uplinks at $127.4 EXW can fill orders when refurbished units are out of stock; would a datasheet be useful?
-
-We supply a Marvell-based 24-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $127.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
-```
-
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> C 级不出邮件样板（不主动跟进）。
 
 ## 新跟进记录（仓库外发出后补）
 
@@ -330,11 +271,11 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- 不复核。对方主动来询 → 在 `data/saga_clients/人工定级.csv` 写一行升级后重跑。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 53）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 53）；人工/调研定级 → C
 
 ---
 

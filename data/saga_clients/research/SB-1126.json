@@ -182,10 +182,13 @@
   "as_of": "2026-10-25"
  },
  "lt_review": {
-  "batch": "LT-01",
-  "status": "待过",
+  "status": "留 B",
+  "batch": "LT-R05S",
   "prio": 2,
-  "date": "2026-10-29",
+  "queued": "LT-R05S",
+  "verdict_date": "2026-10-29",
+  "note": "KLINGER 芬兰公司 CCTV 系统事业部在用 PLANET 工业交换机：终端但有部门级复购可能、欧洲 → 留 B（群发）",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 Elsa 群））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
- }
+ },
+ "override_history": []
 }

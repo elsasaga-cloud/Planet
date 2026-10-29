@@ -25,8 +25,8 @@
    "source": "S/A 邮箱来信 2024-07-30 → 2025-11-21 来信 2 封（私人邮箱）（第 72 批从邮件表头补）"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "Q-76 LT-R05S 2026-10-29 复核打回 C 储备：加拿大个体电信承包 JTS Telecom（Hotmail）：VC（本职线）对他是新领域、一人 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -117,10 +117,22 @@
   "as_of": "2026-10-24"
  },
  "lt_review": {
-  "batch": "LT-01",
-  "status": "待过",
+  "status": "打回 C",
+  "batch": "LT-R05S",
   "prio": 2,
-  "date": "2026-10-29",
+  "queued": "LT-R05S",
+  "verdict_date": "2026-10-29",
+  "note": "加拿大个体电信承包 JTS Telecom（Hotmail）：VC（本职线）对他是新领域、一人 → C 储备",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 2，WA —，展会 —，绑定 轻度触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-R05S",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "C",
+   "prev_reason": "",
+   "reason": "加拿大个体电信承包 JTS Telecom（Hotmail）：VC（本职线）对他是新领域、一人 → C 储备"
+  }
+ ]
 }

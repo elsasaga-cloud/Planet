@@ -124,10 +124,13 @@
   "as_of": "2026-10-24"
  },
  "lt_review": {
-  "batch": "LT-01",
-  "status": "待过",
+  "status": "留 B",
+  "batch": "LT-R05S",
   "prio": 2,
-  "date": "2026-10-29",
+  "queued": "LT-R05S",
+  "verdict_date": "2026-10-29",
+  "note": "新加坡 IT/OT + 物理安防融合服务商 Bio-Cognitive：来信问 4 口 PoE+1 上联 / 8 口 PoE 价格 → 具体需求 ✔ 对位 ✔ → 留 B",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 1，WA ✔，展会 —，绑定 轻度触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
- }
+ },
+ "override_history": []
 }

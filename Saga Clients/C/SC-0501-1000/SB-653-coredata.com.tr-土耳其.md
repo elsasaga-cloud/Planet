@@ -1,13 +1,14 @@
 # coredata.com.tr
 
-> **评级 B**　|　土耳其　|　档案编号 `SB-653`　|　优先级 ★★　|　状态：已推送 2 次·未回复
+> **评级 C**　|　土耳其　|　档案编号 `SB-653`　|　优先级 —　|　状态：已推送 2 次·未回复
 >
 > **类型**：IT 公司（土耳其，待核）（推断）　|　**历史关系**：推送 2 次（2025-09-26 → 2025-10-24）　|　**所在清单**：A优质名单(土耳其客户)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-653
-rating: B
+rating: C
 rating_auto: B
+rating_research: C  # Q-76 LT-R05S 2026-10-29 复核打回 C 储备：土耳其 Coredata：官网为 Plesk 默认页、业务不明、2 次推送无回复 → C 储
 score: 34
 country: 土耳其
 region: 土耳其
@@ -31,10 +32,9 @@ updated: 2026-10-29
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：土耳其 Coredata（官网为 Plesk 默认页，业务待核；表内兴趣「其他」）；表内 2 次跟进无回复。（调研 2026-10-21；表内兴趣：其他）
-- **为什么是 B 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
+- **为什么是 C 级**：**调研后定级 C**（Q-76 LT-R05S 2026-10-29 复核打回 C 储备：土耳其 Coredata：官网为 Plesk 默认页、业务不明、2 次推送无回复 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B）；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025；C 级细分：储备·复核打回
 - **历史互动**：推送 2 次（2025-09-26 → 2025-10-24）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 业务待核 → 通用首触：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）。已打开的主题（1/13 封有打开记录）：「Industrial PoE Switch」(2025-10-24) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-12 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-26 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：We supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP switches plus DIN-rail industrial units from single units, CE/RoHS, EXW USD — does Coredata resell or install network switches, and which port count do your customers ask for most?
+- **P1**：不推（C 级）；若对方主动来询，起手 STC-28DGGPM（深挖对位：业务待核 → 通用首触：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%））
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：群发节奏 A 邮箱 观察打开
 
@@ -57,49 +57,6 @@ updated: 2026-10-29
 | 2026-10-21 | 用户表 | Simon | 其他 | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）
-
-## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
-
-> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
-
-- **发信窗口（TR 全库 901 封群发的打开标签，对方本地时间；均值 4.0%）**：周四 10–12 点 5.9%（51 封）、周一 10–12 点 5.2%（58 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
-- **本国来询季节（TR 全库 17 个「户·月」真人来信，样本小）**：5 月 17.6% / 1 月 11.8% / 2 月 11.8%——本户来信太少，按本国节奏排下一步。
-- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 13 封（2024-06-19 → 2026-03-04），打开标签 1 次（近 12 个月 0，最后 2025-10-24）；打开过：「Industrial PoE Switch」×1（2025-10-24）；从未打开：「10G Enterprise SFP Switch」、「Passive poe switch」、「industrial poe switch」。
-- **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 0 条 + 个性化群发价 1 条，2024-09-12 → 2024-09-12；「今天」= 价格主表 2026-10-17 汇率、20% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
-
-  | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
-  |---|---|---|---|---|---|---|---|
-  | 2024-09-12 | 「Price is very competitive, 300usd/pc」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `b75e34fab7665595` |
-
-  「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
-- **同国同档参照（TR，20% 档、主推线「商用 2.5G PoE 管理型」，共 2 户有动静，列前 3）**：SA-049 iotsistem.com（A，同档：回过 21 次（最近 2026-09-17），1:1 报过 4 次）；SA-077 Angora Networks（A，同档：成交 STC-28DGGPM、STC-416DGGPM、STC-424XGGPM，1:1 报过 31 次）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
-- **日历窗口**：对方：2026-10-29 共和国日（10-28 下午起放）；2027-01-01 元旦（1 天） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
-
-## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
-
-> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
-
-**邮箱域体检（DNS MX / A，2026-10-29 查）：**
-
-- `coredata.com.tr` → 土耳其主机商邮箱（MX：mx-in04.natrohost.com、mx-in04b.natrohost.com）。主机商附带邮箱（土耳其主机商邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
-
-**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
-
-- 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
-- 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
-
-**公司底数 · 第 94 批（TR · 1 次检索：coredata.com.tr 首页 / iletişim / hakkımızda（Coredata Telekom A.Ş；Hamidiye Mah. Alp Sk. C Blok Apt. No:4/C/2 Kağıthane / İstanbul；info@ / satis@coredata.com.tr；+90 212 999 01 03；愿景页空泛；「2026 Tüm Hakları Saklıdır」）；MERSİS / 商会号未出现，2026-10-28 查；http://coredata.com.tr/iletisim）：**
-
-- 法定名 / 登记号：Coredata Telekom A.Ş.（coredata.com.tr；Kağıthane İstanbul） · MERSİS / 商会号未取（1 次检索未出现） · 状态 **Active（官网 2026 在线；此前 Plesk 默认页已换成正式站）** · 成立 未取 · A.Ş.
-- 行业码 / 经营范围：电信服务 / 网络集成（自述「Telekom」）
-- 注册地址：Hamidiye Mah. Alp Sk. C Blok Apt. No:4/C/2, Kağıthane, İstanbul
-- 规模档：微型–小型（人数未取）
-- 账目：—；—
-- **这意味着什么：**
-  - **站活了（原 Plesk 默认页）但内容空泛，无人名、无产品页** → 身份只到「伊斯坦布尔小电信 / 集成商」
-  - 研究档无 KP → 写 satis@coredata.com.tr 一封（分销 20% 一页纸），不加厚
-  - A.Ş. 形式但无披露 → 不作 BIG 判断；年度复核即可
-- 备注：法人号未取；不再追。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -130,6 +87,7 @@ updated: 2026-10-29
 - **【用户表】其他**
   > 其他
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **调研后定级**：C（原自动 B）——Q-76 LT-R05S 2026-10-29 复核打回 C 储备：土耳其 Coredata：官网为 Plesk 默认页、业务不明、2 次推送无回复 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -170,29 +128,6 @@ updated: 2026-10-29
 | 2025-09-26 | 2025.9.26 | dac |  | A |  | 土耳其客户 3.10.xlsx#16 |
 | 2025-10-24 | 1024 | 24poe |  | A |  | 土耳其客户 3.10.xlsx#16 |
 
-## 邮箱往来（S 邮箱 · 自动汇总）
-
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：13 封（去 13 / 来 0）　|　**期间**：2024-06-19 → 2026-03-04　|　**最后去信**：2026-03-04
-- **对方邮箱**：info@coredata.com.tr、satis@coredata.com.tr
-- 对方从未回信（全部为我方去信）
-- **邮件里报过的价**：2024-09-12 $300
-
-| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
-|---|---|---|---|---|---|
-| Updated Ethernet Switches Links | 2026-03-04 | 2026-03-04 | 0 | 1 | 1 |
-| OEM Core Switching Solution | 2026-01-30 | 2026-01-30 | 0 | 1 | 1 |
-| Marvell Industrial Alert System | 2025-12-31 | 2025-12-31 | 0 | 1 | 1 |
-| Booster PoE Switch | 2025-11-27 | 2025-11-27 | 0 | 1 | 1 |
-| Industrial PoE Switch | 2025-10-24 | 2025-10-24 | 0 | 1 | 1 |
-| 10G Enterprise SFP Switch | 2025-09-30 | 2025-09-30 | 0 | 1 | 1 |
-| 10G Enterprise SFP Switch | 2025-09-26 | 2025-09-26 | 0 | 1 | 1 |
-| Industrial PoE Switch | 2024-11-19 | 2024-11-19 | 0 | 1 | 1 |
-| 10G Ethernet Web Managed Switch | 2024-10-23 | 2024-10-23 | 0 | 1 | 1 |
-| 48 Port PoE Managed Switch | 2024-09-12 | 2024-09-12 | 0 | 1 | 1 |
-| industrial poe switch | 2024-08-13 | 2024-08-13 | 0 | 1 | 1 |
-| Passive poe switch | 2024-07-16 | 2024-07-16 | 0 | 1 | 1 |
-| …共 13 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
-
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
 - **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-24T04:35:40Z
@@ -226,32 +161,10 @@ updated: 2026-10-29
 |---|---|---|---|---|---|---|---|---|---|
 | A/DONE/土耳其客户 3.10.xlsx#总表:17 | 16 | http://coredata.com.tr/Home/Index | 2类 |  | 海关数据 | 其他 | info@coredata.com.tr<br>satis@coredata.com.tr |  | 2 条 |
 
-## 产品决策（Saga · 单一决策口径）
-
-| 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
-|---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：业务待核 → 通用首触：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%） | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（IT 公司（土耳其，待核）） |
-| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：20% 档 $139.9 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $181.2——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-
-- **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
-
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
-
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
-- **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
-- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
-- **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
-
-## SWOT
-
-- **S**：土耳其主攻区，复购与口碑可外溢
-- **W**：无具名决策人，仍是公司级触达
-- **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源
-- **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
+> C 级不主动跟进。保留档案的意义：① 不重复开发；② 若对方主动来询再升级。
+> 不跟进理由：储备·复核打回。若用户不同意，在 `data/saga_clients/人工定级.csv` 写一行 `SB-653,B,理由` 后重跑即可。
 
 ## 触达与风险红线
 
@@ -270,7 +183,7 @@ updated: 2026-10-29
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
-| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
+| 商业资格结论 | **不合格（见 C 级细分）→ 不主动跟进** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -279,23 +192,7 @@ updated: 2026-10-29
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
-
-```text
-Hello,
-
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. We supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-PoE + 4 SFP switches plus DIN-rail industrial units from single units, CE/RoHS, EXW USD — does Coredata resell or install network switches, and which port count do your customers ask for most?
-
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
-```
-
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> C 级不出邮件样板（不主动跟进）。
 
 ## 新跟进记录（仓库外发出后补）
 
@@ -307,11 +204,11 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- 不复核。对方主动来询 → 在 `data/saga_clients/人工定级.csv` 写一行升级后重跑。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）；人工/调研定级 → C
 
 ---
 

@@ -149,10 +149,13 @@
   "as_of": "2026-10-24"
  },
  "lt_review": {
-  "batch": "LT-01",
-  "status": "待过",
+  "status": "留 B",
+  "batch": "LT-R05S",
   "prio": 2,
-  "date": "2026-10-29",
+  "queued": "LT-R05S",
+  "verdict_date": "2026-10-29",
+  "note": "内罗毕电气工程 + 安防 + 软件集成商 Matrix Vision（11–50 人，Hikvision）：WA 回复「有用，和 team 沟通是否拿样」→ 真人往来 ✔ 对位 ✔ → 留 B（预付）",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 1，WA ✔，展会 —，绑定 未发信））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
- }
+ },
+ "override_history": []
 }

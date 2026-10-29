@@ -106,10 +106,13 @@
   "as_of": "2026-10-24"
  },
  "lt_review": {
-  "batch": "LT-01",
-  "status": "待过",
+  "status": "留 B",
+  "batch": "LT-R05S",
   "prio": 2,
-  "date": "2026-10-29",
+  "queued": "LT-R05S",
+  "verdict_date": "2026-10-29",
+  "note": "伊拉克 IT 公司 MyTec（Mushtaq Al Takhakh）：WA 已加、「有过详细产品交谈」、19 次跟进 → 真人往来 ✔ 行业内 ✔ → 留 B（预付）",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA ✔，展会 —，绑定 未发信））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
- }
+ },
+ "override_history": []
 }

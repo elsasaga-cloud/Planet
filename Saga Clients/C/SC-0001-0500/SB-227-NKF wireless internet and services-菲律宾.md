@@ -1,17 +1,18 @@
 # NKF wireless internet and services
 **官方名称（调研核实）**：NKF Wireless Internet and Services（菲律宾；Joemar Baquiran）
 
-> **评级 B**　|　菲律宾　|　档案编号 `SB-227`　|　优先级 ★★　|　状态：有回复·跟进中
+> **评级 C**　|　菲律宾　|　档案编号 `SB-227`　|　优先级 —　|　状态：有回复·跟进中
 >
-> **P 池并入（B 档，等级不动）：☆ P 池 · 观察档（试单 / 回访后转正或退回 C）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：真回 ✔ 但 微型未坐实对位 未知 → 观察；命中 1/6（成单/样品 — · 真回 ✔ · WA — · 对位 未知 · 登记 未坐实 · 体量 微型）　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）、prepay
+> **P 池并入（C 档，等级不动）：留 C 储备**（批 LT-R05S · 2026-10-29 · 下次巡检 2026-12-28）：复核打回（LT-R05S）：菲律宾小型 WISP（Joemar Baquiran）要 PON 产品 + 免费测试：PON 非 Saga 品类 + 微型 → C 储备｜原：☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：真回 ✔ 但 微型未坐实对位 未知 → 观察；命中 1/6（成单/样品 — · 真回 ✔ · WA — · 对位 未知 · 登记 未坐实 · 体量 微型）　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）、prepay
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：实质回复 1 次；推送 6 次（2025-02-26 → 2025-08-29）　|　**所在清单**：A优质名单(其他优质欧洲客户)、群发(筛选后质量一般的_群发)、表:菲律宾　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-227
-rating: B
+rating: C
 rating_auto: B
-sieve: pool_watch  # 闸 3 AB1 2026-10-29
+sieve: keep_C  # 闸 3 AB1 2026-10-29
+rating_research: C  # Q-76 LT-R05S 2026-10-29 复核打回 C 储备：菲律宾小型 WISP（Joemar Baquiran）要 PON 产品 + 免费测试：PON
 name_official: "NKF Wireless Internet and Services（菲律宾；Joemar Baquiran）"
 score: 49
 country: 菲律宾
@@ -36,10 +37,9 @@ updated: 2026-10-29
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：菲律宾小型 WISP（Joemar Baquiran），兴趣 PON 产品（Saga 无），2026-01 对 2 光 2 电 mini 工业机群发回复「sample?」。表内曾被误归「欧洲」名单。（调研 2026-10-21；表内兴趣：没找到相关的客户记录；Pon产品）
-- **为什么是 B 级**：+22 实质回复 1 次；+10 谈到样品/测样；+6 在 A/DONE 优质国家名单（已做过整轮推送）；-6 群发批次名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+0 仅免费邮箱；+0 区域 亚太/菲律宾；+5 最近活动 2025
+- **为什么是 C 级**：**调研后定级 C**（Q-76 LT-R05S 2026-10-29 复核打回 C 储备：菲律宾小型 WISP（Joemar Baquiran）要 PON 产品 + 免费测试：PON 非 Saga 品类 + 微型 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B）；自动分级 B：+22 实质回复 1 次；+10 谈到样品/测样；+6 在 A/DONE 优质国家名单（已做过整轮推送）；-6 群发批次名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+0 仅免费邮箱；+0 区域 亚太/菲律宾；+5 最近活动 2025；C 级细分：储备·复核打回
 - **历史互动**：实质回复 1 次；推送 6 次（2025-02-26 → 2025-08-29）；最近一次客户回复：1.5：sample?
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；历史报价（邮件原话，老汇率）：2025-01-16 STI-222GP 33usd；群发里他已看到的价（续，第 66 批全量复核）：2025-04-28 $300（48 Port PoE Managed Switch）、2025-10-03 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-01 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-05-01；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-06-02 $65（10G Media Converter = 10G 媒体转换器，Elsa 箱 1 轮 2025-06-02；Simon 实报就是 $65）；2025-10-07 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-07；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1**：不推（C 级）；若对方主动来询，起手 STI-220GE（深挖对位：2 光 2 电 mini 工业机 = Saga STI-220GE（$27.8/29.0/30.1）；PoE 版 STI-222GP。）
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：不动 — —
 
@@ -68,23 +68,6 @@ updated: 2026-10-29
 | 2026-02-02 | 去 | Elsa 群发（BCC；To stephengala@yahoo.com） | OEM Core Switching Solution（Elsa 群发第 8/10 轮；本户在 Bcc，锚 To stephengala@yahoo.com） | 第 74 批(n) `from:e.sagatelecom to:joemar.baquiran@gmail.com` 命中行 To=stephengala@yahoo.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2026-04-24 | 去 | Elsa 群发（BCC；To stephengala@yahoo.com） | Updated Ethernet Switches Links（Elsa 群发第 9/10 轮；本户在 Bcc，锚 To stephengala@yahoo.com） | 第 74 批(n) `from:e.sagatelecom to:joemar.baquiran@gmail.com` 命中行 To=stephengala@yahoo.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2026-09-04 | 去 | Elsa 群发（BCC；To stephengala@yahoo.com） | 24 Port PoE Managed Switch（Elsa 群发第 10/10 轮；本户在 Bcc，锚 To stephengala@yahoo.com；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(n) `from:e.sagatelecom to:joemar.baquiran@gmail.com` 命中行 To=stephengala@yahoo.com ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
-
-## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
-
-> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
-
-- **时机与节律**：真人来信 1 封（2025-01-15 → 2025-01-15）；我方回信中位 1.6 小时（1 次）。
-- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 10 封（2025-02-26 → 2026-02-13），打开标签 0 次；**最近连续 10 封没打开**（近 180 天发 0 封 0 打开）→ 群发对这户已失效，停两个月，改一句 1:1 或换收件人。
-- **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 1 条，2025-01-16 → 2025-01-16；「今天」= 价格主表 2026-10-17 汇率、20% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
-
-  | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
-  |---|---|---|---|---|---|---|---|
-  | 2025-01-16 | STI-222GP | $33 | $33.2 | +1% | 1:1 | Re: Mini Industrial PoE Switch | `05b51bd103cc66ea` |
-
-- **写信的人（来信签名机械抽取）**：joemar baquiran（joemar.baquiran@gmail.com，1 封，2025-01-15 → 2025-01-15）。
-- **渠道反应**：S 箱（Simon） 去 1（1:1 1 / 群发 0）回 1，最近回 2025-01-15；A 箱（Alan） 去 10（1:1 0 / 群发 10）回 0，从未回 → 只对 S 箱 Simon 有反应，下一封别换箱。
-- **最后一球**：1:1 对话 1 段，最长一段 2 封 / 跨 0 天（2025-01-15 → 2025-01-16，「Re: Mini Industrial PoE Switch」）；最后一句是我们说的（2025-01-16，649 天前，「Re: Mini Industrial PoE Switch」，`05b51bd103cc66ea`）→ 球在对方手里。
-- **日历窗口**：对方：2026-12-24 圣诞–元旦（12-24 → 01-02） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
 
@@ -132,6 +115,7 @@ updated: 2026-10-29
   > 兴趣：Pon产品；回复：sample?
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Joemar Baquiran（业主（小型 WISP）= 收件人 — 一页纸一次：集成商 25% B、2026-01 索样 → STI-154GP / STC-228GP 付费样机一口价 + 运费；PON 不供明说 — 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉、NTC 不声称（第 120 批 官方登记核实 2026-10-29））joemar.baquiran@gmail.com +63 927 933 1910〔（本地 Clients/ 表格，无公开 URL）〕
+- **调研后定级**：C（原自动 B）——Q-76 LT-R05S 2026-10-29 复核打回 C 储备：菲律宾小型 WISP（Joemar Baquiran）要 PON 产品 + 免费测试：PON 非 Saga 品类 + 微型 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · 无域名 · 仅表内信息）
@@ -167,26 +151,6 @@ updated: 2026-10-29
 | 2025-08-29 | 829 | 24poe |  | A |  | 其他优质欧洲客户 2.26.xlsx#5 |
 | ? | 1.5 | 群发了22mini | sample? | Email |  | 其他优质欧洲客户 2.26.xlsx#5 |
 
-## 邮箱往来（S 邮箱 · 自动汇总）
-
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：12 封（去 11 / 来 1）　|　**期间**：2025-01-15 → 2026-02-13　|　**最后去信**：2026-02-13
-- **对方邮箱**：joemar.baquiran@gmail.com
-- **最后一封来信**：2025-01-15 joemar.baquiran@gmail.com「Re: Mini Industrial PoE Switch」：sir, can you possibly send me an item for testing? Looking forward to hearing from you. thanks
-
-| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
-|---|---|---|---|---|---|
-| Updated Ethernet Switches Links | 2026-02-13 | 2026-02-13 | 0 | 1 | 1 |
-| OEM Core Switching Solution | 2026-01-09 | 2026-01-09 | 0 | 1 | 1 |
-| Optional Marvell Chipset Solutions | 2025-12-04 | 2025-12-04 | 0 | 1 | 1 |
-| Booster PoE Switch | 2025-11-07 | 2025-11-07 | 0 | 1 | 1 |
-| 10G Enterprise SFP Switch | 2025-10-03 | 2025-10-03 | 0 | 1 | 1 |
-| Industrial PoE Switch | 2025-08-29 | 2025-08-29 | 0 | 1 | 1 |
-| Managed Optical Bypass Switch | 2025-07-23 | 2025-07-23 | 0 | 1 | 1 |
-| 16 Port Ethernet Switch | 2025-05-30 | 2025-05-30 | 0 | 1 | 1 |
-| 48 Port PoE Managed Switch | 2025-04-28 | 2025-04-28 | 0 | 1 | 1 |
-| 8 Port Industrial PoE Switch | 2025-02-26 | 2025-02-26 | 0 | 1 | 1 |
-| Mini Industrial PoE Switch | 2025-01-05 | 2025-01-16 | 1 | 2 | 4 |
-
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`joemar.baquiran@gmail.com`〔免费邮箱；来源：用户表原值〕
@@ -213,33 +177,10 @@ updated: 2026-10-29
 | A/DONE/其他优质欧洲客户 2.26.xlsx#总表:6 | 5 |  |  | Joemar Baquiran |  | 没找到相关的客户记录 | joemar.baquiran@gmail.com |  | 6 条 |
 | E/群发/筛选后质量一般的_群发.xlsx#菲律宾:16 | 15 | NKF wireless internet and services | 菲律宾 | Mr.Joemar Baquiran | 2023.12.30 | Pon产品 | joemar.baquiran@gmail.com | 09279331910 | — |
 
-## 产品决策（Saga · 单一决策口径）
-
-| 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
-|---|---|---|---|---|
-| **P1** | STI-220GE | 深挖对位：2 光 2 电 mini 工业机 = Saga STI-220GE（$27.8/29.0/30.1）；PoE 版 STI-222GP。 | $29.0 USD EXW（25% 档，SmartByte LT-IMC30G-2GX2GT-E 155 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：25% 档 $145.7 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），25% 档公式为 $188.7——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-
-- **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
-
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-220GE），备选型不进首触。
-
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-220GE 一条规格链接；只问一个问题。
-- **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
-- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
-- **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
-
-## SWOT
-
-- **S**：有 1 次实质回复（对方认识我们）
-- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STI-220GE 按 25% 档报价，做现供应商的第二货源
-- **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
+> C 级不主动跟进。保留档案的意义：① 不重复开发；② 若对方主动来询再升级。
+> 不跟进理由：储备·复核打回。若用户不同意，在 `data/saga_clients/人工定级.csv` 写一行 `SB-227,B,理由` 后重跑即可。
 
 ## 触达与风险红线
 
@@ -258,7 +199,7 @@ updated: 2026-10-29
 | 触达通道 | ⚠️ 仅免费邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认（有回复但未报量） |
-| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
+| 商业资格结论 | **不合格（见 C 级细分）→ 不主动跟进** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -267,23 +208,7 @@ updated: 2026-10-29
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-220GE - industrial compact switch (neutral label)
-
-```text
-Hi Joemar,
-
-Picking up our earlier exchange about PoE / industrial switches. The 2-SFP + 2-port mini you asked a sample for is $29 EXW at 1 pc (sample = unit price + courier); do you want the PoE version for the tower CPEs or the plain one?
-
-We supply an industrial compact switch, 2x Gigabit plus 2 SFP (unmanaged) - model STI-220GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $29.0 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
-```
-
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> C 级不出邮件样板（不主动跟进）。
 
 ## 新跟进记录（仓库外发出后补）
 
@@ -295,11 +220,11 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- 不复核。对方主动来询 → 在 `data/saga_clients/人工定级.csv` 写一行升级后重跑。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）；人工/调研定级 → C
 
 ---
 

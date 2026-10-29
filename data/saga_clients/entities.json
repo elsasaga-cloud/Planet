@@ -54196,10 +54196,10 @@
 "-6 区域 非洲/坦桑尼亚",
 "+5 最近活动 2025"
 ],
-"c_sub": "",
+"c_sub": "储备·复核打回",
 "status": "有回复·跟进中",
 "code": "SB-016",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-016",
 "name_official": "（坦桑尼亚 · Richard Jackson，仅电话）",
@@ -54227,8 +54227,8 @@
 "source": "用户 Clients 表"
 }
 ],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "Q-76 LT-R05S 2026-10-29 复核打回 C 储备：坦桑尼亚个人买家 Richard Jackson（仅 WA 电话，无公司无邮箱）：2023 起「说要下单」19 次跟进无单 → 无主体无进口证据 → C 储备（下单即回 B）；c_sub=储备·复核打回 ；回信 / 询价即回 B",
 "notes": "（无首轮调研；由 deepen.py 建档）",
 "deep": {
 "done_at": "2026-10-21",
@@ -54309,12 +54309,24 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "打回 C",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "坦桑尼亚个人买家 Richard Jackson（仅 WA 电话，无公司无邮箱）：2023 起「说要下单」19 次跟进无单 → 无主体无进口证据 → C 储备（下单即回 B）",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 1，WA ✔，展会 —，绑定 轻度触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
+},
+"override_history": [
+{
+"batch": "LT-R05S",
+"date": "2026-10-29",
+"from_override": null,
+"to": "C",
+"prev_reason": "",
+"reason": "坦桑尼亚个人买家 Richard Jackson（仅 WA 电话，无公司无邮箱）：2023 起「说要下单」19 次跟进无单 → 无主体无进口证据 → C 储备（下单即回 B）"
 }
+]
 }
 },
 {
@@ -90231,12 +90243,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "意大利 CCTV / 网络分销商（在线商店，Ubiquiti / Dahua / D-Link 货架）：行业内 ✔ 对位 ✔（PoE 交换机类目）；A 箱推送 4 次 → 留 B 群发",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -93994,12 +94009,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "米兰北郊布线 + 网络分销商，目录中 PLANET 工业小交换机有自有货号：进口台湾同类 ✔ 对位 ✔ → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -101223,12 +101241,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "STS Italia（Arcore，1984 起安防 / 特种设施集成商）：回复 1 次 + WA 已加，要光纤传输资料 → 真人往来 ✔ 对位 ✔ → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 1，WA ✔，展会 —，绑定 轻度触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -116104,12 +116125,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "巴西里约面向 ISP 的网络设备分销 / 电商（TP-Link 等），自建站询盘「光开关 130 个」：分销 ✔ 对位 ✔ 具体需求 ✔ → 留 B（区域外，预付）",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA ✔，展会 —，绑定 未发信））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -119896,12 +119920,15 @@
 "as_of": "2026-10-25"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "印尼 IT / 广播 / 网络安全服务商（Firman Wahyudi）：回复 2 次，问如何购买 / 印尼有无分销 → 真人往来 ✔ 行业内 ✔ → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 2，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -120042,10 +120069,10 @@
 "-3 跟进表最近平台标记 E（已降为群发）",
 "托底 B：有实质回复的客户至少 B"
 ],
-"c_sub": "",
+"c_sub": "储备·复核打回",
 "status": "有回复·跟进中",
 "code": "SB-1101",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-1101",
 "name_official": "Power Logic（巴基斯坦；Waseem Shah，gmail）",
@@ -120074,8 +120101,8 @@
 "role": "表内联系人（gmail；要目录、想代推；身份不明）— 不动，不发（报出公司名 / 网站再核）（第 118 批 官方登记核实 2026-10-28）"
 }
 ],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "Q-76 LT-R05S 2026-10-29 复核打回 C 储备：巴基斯坦个人 Gmail（Waseem Shah）要目录：无公司主体 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B",
 "notes": "（无首轮调研；由 deepen.py 建档）",
 "deep": {
 "done_at": "2026-10-21",
@@ -120249,12 +120276,24 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "打回 C",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "巴基斯坦个人 Gmail（Waseem Shah）要目录：无公司主体 → C 储备",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 2，WA —，展会 —，绑定 轻度触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
+},
+"override_history": [
+{
+"batch": "LT-R05S",
+"date": "2026-10-29",
+"from_override": null,
+"to": "C",
+"prev_reason": "",
+"reason": "巴基斯坦个人 Gmail（Waseem Shah）要目录：无公司主体 → C 储备"
 }
+]
 }
 },
 {
@@ -120575,12 +120614,15 @@
 "as_of": "2026-10-25"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "越南网络设备电商 + 弱电施工（站内按品牌卖 Switch / PoE，含洪瑞）：问价 1 次 → 进口中国同类 ✔ 对位 ✔ → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 1，WA —，展会 —，绑定 轻度触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -121273,12 +121315,15 @@
 "as_of": "2026-10-25"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "印度 Vadodara 电气 / 自动化工程公司（Atul Tiwari）：回复 2 次，问证书、「产品对他有用」→ 真人往来 ✔ 工业线对位 ✔ → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 2，WA —，展会 —，绑定 Elsa 群））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -121985,10 +122030,10 @@
 "+2 最近活动 2024",
 "托底 B：有实质回复的客户至少 B"
 ],
-"c_sub": "",
+"c_sub": "储备·复核打回",
 "status": "有回复·跟进中",
 "code": "SB-1106",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-1106",
 "name_official": "Ruhan Farook（印度；个人）",
@@ -122008,8 +122053,8 @@
 }
 ],
 "kp": [],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "Q-76 LT-R05S 2026-10-29 复核打回 C 储备：印度个人 WA 联系人 Ruhan Farook（「catalog」一词回复）：无公司主体 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B",
 "notes": "（无首轮调研；由 deepen.py 建档）",
 "deep": {
 "done_at": "2026-10-21",
@@ -122082,12 +122127,24 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "打回 C",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "印度个人 WA 联系人 Ruhan Farook（「catalog」一词回复）：无公司主体 → C 储备",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 1，WA ✔，展会 —，绑定 未发信））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
+},
+"override_history": [
+{
+"batch": "LT-R05S",
+"date": "2026-10-29",
+"from_override": null,
+"to": "C",
+"prev_reason": "",
+"reason": "印度个人 WA 联系人 Ruhan Farook（「catalog」一词回复）：无公司主体 → C 储备"
 }
+]
 }
 },
 {
@@ -122362,10 +122419,10 @@
 "+2 最近活动 2024",
 "托底 B：有实质回复的客户至少 B"
 ],
-"c_sub": "",
+"c_sub": "储备·复核打回",
 "status": "有回复·跟进中",
 "code": "SB-1107",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-1107",
 "name_official": "Surya Namberdar（印度；个人）",
@@ -122385,8 +122442,8 @@
 }
 ],
 "kp": [],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "Q-76 LT-R05S 2026-10-29 复核打回 C 储备：印度个人 WA 联系人 Surya Namberdar（要印度货币价格后无进展）：无公司主体 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B",
 "notes": "（无首轮调研；由 deepen.py 建档）",
 "deep": {
 "done_at": "2026-10-21",
@@ -122458,12 +122515,24 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "打回 C",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "印度个人 WA 联系人 Surya Namberdar（要印度货币价格后无进展）：无公司主体 → C 储备",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 1，WA ✔，展会 —，绑定 未发信））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
+},
+"override_history": [
+{
+"batch": "LT-R05S",
+"date": "2026-10-29",
+"from_override": null,
+"to": "C",
+"prev_reason": "",
+"reason": "印度个人 WA 联系人 Surya Namberdar（要印度货币价格后无进展）：无公司主体 → C 储备"
 }
+]
 }
 },
 {
@@ -122886,12 +122955,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "卡拉奇消防 / 安防系统集成商 Sunmars（多办事处，网站偏 CCTV）：WA 回复 + 目录已发 → 行业内 ✔ 对位 ✔ → 留 B（预付）",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 1，WA ✔，展会 —，绑定 未发信））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 },
 "country_table": "未填"
 },
@@ -123728,10 +123800,10 @@
 "-6 区域 非洲/阿尔及利亚",
 "托底 B：有实质回复的客户至少 B"
 ],
-"c_sub": "",
+"c_sub": "储备·复核打回",
 "status": "有回复·跟进中",
 "code": "SB-1110",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-1110",
 "name_official": "Amine Achoura（阿尔及利亚；个人 gmail）",
@@ -123760,8 +123832,8 @@
 "role": "联系人（研究档 KP）— 不动：需求 WDM（不供）+ 无公司 — 阿尔及利亚常规：英文稿（法语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（第 123 批 官方登记核实 2026-10-29）"
 }
 ],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "Q-76 LT-R05S 2026-10-29 复核打回 C 储备：阿尔及利亚个人 Gmail（LinkedIn 来源）要 WDM 资料：Saga 无 WDM + 无主体 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B",
 "notes": "（无首轮调研；由 deepen.py 建档）",
 "deep": {
 "done_at": "2026-10-21",
@@ -123849,12 +123921,24 @@
 "as_of": "2026-10-25"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "打回 C",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "阿尔及利亚个人 Gmail（LinkedIn 来源）要 WDM 资料：Saga 无 WDM + 无主体 → C 储备",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 1，WA —，展会 —，绑定 Elsa 群））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
+},
+"override_history": [
+{
+"batch": "LT-R05S",
+"date": "2026-10-29",
+"from_override": null,
+"to": "C",
+"prev_reason": "",
+"reason": "阿尔及利亚个人 Gmail（LinkedIn 来源）要 WDM 资料：Saga 无 WDM + 无主体 → C 储备"
 }
+]
 }
 },
 {
@@ -124074,10 +124158,10 @@
 "+2 最近活动 2024",
 "托底 B：有实质回复的客户至少 B"
 ],
-"c_sub": "",
+"c_sub": "储备·复核打回",
 "status": "有回复·跟进中",
 "code": "SB-1111",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-1111",
 "name_official": "（未具名 · 西班牙 · Spain 2.9 总表 No.41）",
@@ -124097,8 +124181,8 @@
 }
 ],
 "kp": [],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "Q-76 LT-R05S 2026-10-29 复核打回 C 储备：西班牙 WA 未具名联系人（身份待核，总表第 42 行）：主体不明 → C 储备（身份坐实即回）；c_sub=储备·复核打回 ；回信 / 询价即回 B",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 待 Simon 核对：Spain 2.9 总表 No.41 的真实公司与 WhatsApp 号码；核实后用 人工归并.csv 并入对应实体或补充联系方式。",
 "deep": {
 "done_at": "2026-10-21",
@@ -124175,12 +124259,24 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "打回 C",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "西班牙 WA 未具名联系人（身份待核，总表第 42 行）：主体不明 → C 储备（身份坐实即回）",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 1，WA ✔，展会 —，绑定 未发信））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
+},
+"override_history": [
+{
+"batch": "LT-R05S",
+"date": "2026-10-29",
+"from_override": null,
+"to": "C",
+"prev_reason": "",
+"reason": "西班牙 WA 未具名联系人（身份待核，总表第 42 行）：主体不明 → C 储备（身份坐实即回）"
 }
+]
 }
 },
 {
@@ -124312,10 +124408,10 @@
 "+5 最近活动 2025",
 "托底 B：有实质回复的客户至少 B"
 ],
-"c_sub": "",
+"c_sub": "储备·复核打回",
 "status": "有回复·跟进中",
 "code": "SB-1112",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-1112",
 "name_official": "（未具名台湾联系人，Taiwan.xlsx 占位行）",
@@ -124335,8 +124431,8 @@
 }
 ],
 "kp": [],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "Q-76 LT-R05S 2026-10-29 复核打回 C 储备：台湾 Taiwan.xlsx 无公司名 / 无邮箱的回复行：无路径无主体 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B",
 "notes": "（无首轮调研；由 deepen.py 建档）",
 "deep": {
 "done_at": "2026-10-21",
@@ -124408,12 +124504,24 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "打回 C",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "台湾 Taiwan.xlsx 无公司名 / 无邮箱的回复行：无路径无主体 → C 储备",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 1，WA —，展会 —，绑定 未发信））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
+},
+"override_history": [
+{
+"batch": "LT-R05S",
+"date": "2026-10-29",
+"from_override": null,
+"to": "C",
+"prev_reason": "",
+"reason": "台湾 Taiwan.xlsx 无公司名 / 无邮箱的回复行：无路径无主体 → C 储备"
 }
+]
 }
 },
 {
@@ -126246,12 +126354,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "伊斯坦布尔安防 / 网络分销商 Nokta Elektronik（ORing 授权，主推 PLANET GS-5220）：进口台湾同类 ✔ 四主区 → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -127826,12 +127937,15 @@
 "as_of": "2026-10-25"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "Wrexham 安防 / 网络 / 电气贸易分销商 Connectec（PLANET 授权分销，供全英安装商）：进口 ✔ 对位 ✔ 四主区 → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 Elsa 群））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -128083,12 +128197,15 @@
 "as_of": "2026-10-25"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "琴斯托霍瓦安防分销商 Fonex（SATEL 授权；PLANET 为 CCTV 配套）：行业内 ✔ 对位 ✔ 波兰 → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 Elsa 群））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -128769,12 +128886,15 @@
 "as_of": "2026-10-25"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "KLINGER 芬兰公司 CCTV 系统事业部在用 PLANET 工业交换机：终端但有部门级复购可能、欧洲 → 留 B（群发）",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 Elsa 群））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -129051,12 +129171,15 @@
 },
 "country_fix": "加拿大",
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "温哥华 B2B IT / AV / 安防硬件批发商，自台湾直接进口 PLANET、也从中国进口：进口证据 ✔ 对位 ✔ 北美 → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 Elsa 群））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 },
 "country_table": "美国"
 },
@@ -129370,12 +129493,15 @@
 "as_of": "2026-10-25"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "北波希米亚三店 IT 商 Losan，e-shop PLANET 工业交换机带价带库存：进口 ✔ 对位 ✔ 欧洲 → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 Elsa 群））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -129782,12 +129908,15 @@
 "as_of": "2026-10-25"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "布鲁塞尔 1989 起 B2B IT 供应商兼电商 Redcorp，PLANET 品牌页以工业 IGS 为主：对位 ✔ 欧洲 → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 Elsa 群））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -130826,12 +130955,15 @@
 },
 "country_fix": "美国",
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "马里兰加固计算 / 工业网络 VAD（PLANET + Moxa 分销）：进口台湾同类 ✔ 工业线对位 ✔ 美国 → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 },
 "country_table": "马来西亚"
 },
@@ -139775,12 +139907,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "罗马尼亚 Voinești 小型安防 / 自动化安装商 Bonmag（CUI 登记）：WA 回复 2 次、要「洪瑞档 4/8 PoE + 2 LAN」→ 具体需求 ✔ 对位 ✔ → 留 B（预付）",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 2，WA ✔，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -154984,10 +155119,10 @@
 "+8 区域 欧洲/德国",
 "+5 最近活动 2025"
 ],
-"c_sub": "",
+"c_sub": "储备·复核打回",
 "status": "有回复·跟进中",
 "code": "SB-171",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-171",
 "name_official": "Comtek Network Systems GmbH（comtek-de.com；英国 Comtek Network Systems, Deeside 1989 的德国公司）",
@@ -155038,8 +155173,8 @@
 "source": "https://www.northdata.com/COMTEK+NETWORK+SYSTEMS+GmbH,+M%C3%B6rfelden-Walldorf/Amtsgericht+Darmstadt+HRB+100142"
 }
 ],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "Q-76 LT-R05S 2026-10-29 复核打回 C 储备：法兰克福机场旁电信设备翻新 / 维修 / 二手采购商 Comtek（阿里 RFQ 华为 OTN）：二手翻新 + OTN 本职线 ≠ 新品白牌交换机买家 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B",
 "notes": "（无首轮调研；由 deepen.py 建档）",
 "deep": {
 "done_at": "2026-10-21",
@@ -155138,12 +155273,24 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "打回 C",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "法兰克福机场旁电信设备翻新 / 维修 / 二手采购商 Comtek（阿里 RFQ 华为 OTN）：二手翻新 + OTN 本职线 ≠ 新品白牌交换机买家 → C 储备",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 1，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
+},
+"override_history": [
+{
+"batch": "LT-R05S",
+"date": "2026-10-29",
+"from_override": null,
+"to": "C",
+"prev_reason": "",
+"reason": "法兰克福机场旁电信设备翻新 / 维修 / 二手采购商 Comtek（阿里 RFQ 华为 OTN）：二手翻新 + OTN 本职线 ≠ 新品白牌交换机买家 → C 储备"
 }
+]
 }
 },
 {
@@ -158733,12 +158880,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "伊斯坦布尔数据中心 / 弱电工程商 Foline（展会名片，WA 已加）：DC 线 = CENTEC 对位 ✔ 四主区 → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA ✔，展会 ✔，绑定 轻度触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -158880,10 +159030,10 @@
 "+8 区域 土耳其/土耳其",
 "+5 最近活动 2025"
 ],
-"c_sub": "",
+"c_sub": "储备·复核打回",
 "status": "WhatsApp 已加·未回复",
 "code": "SB-181",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-181",
 "name_official": "İnterpos Bilgi Teknolojileri Elektronik San. ve Tic. A.Ş.（İstanbul Ataşehir, TR；inter-pos.com）",
@@ -158934,8 +159084,8 @@
 "source": "https://tr.linkedin.com/company/interpos-bilgi-teknolojileri-elektronik-san-ve-tic-a-%C5%9F-"
 }
 ],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "Q-76 LT-R05S 2026-10-29 复核打回 C 储备：伊斯坦布尔零售自动化 / POS 设备公司 İnterpos（展会名片，没交谈）：POS 非本行业 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B",
 "notes": "（无首轮调研；由 deepen.py 建档）",
 "deep": {
 "done_at": "2026-10-21",
@@ -159019,12 +159169,24 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "打回 C",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "伊斯坦布尔零售自动化 / POS 设备公司 İnterpos（展会名片，没交谈）：POS 非本行业 → C 储备",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA ✔，展会 ✔，绑定 轻度触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
+},
+"override_history": [
+{
+"batch": "LT-R05S",
+"date": "2026-10-29",
+"from_override": null,
+"to": "C",
+"prev_reason": "",
+"reason": "伊斯坦布尔零售自动化 / POS 设备公司 İnterpos（展会名片，没交谈）：POS 非本行业 → C 储备"
 }
+]
 }
 },
 {
@@ -160408,12 +160570,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "伊斯坦布尔弱电 / 布线材料供应商 Zeytek（2019 成立，展会要了名片 + 彩页，WA 已加）：行业内 ✔ 四主区 → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA ✔，展会 ✔，绑定 轻度触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -160577,10 +160742,10 @@
 "+8 区域 土耳其/土耳其",
 "+5 最近活动 2025"
 ],
-"c_sub": "",
+"c_sub": "储备·复核打回",
 "status": "WhatsApp 已加·未回复",
 "code": "SB-186",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-186",
 "name_official": "Başaran Elektronik ve Güvenlik Sistemleri（Gömeç/Balıkesir, TR；basaranelektronik.net）",
@@ -160629,8 +160794,8 @@
 "source": "https://tr.linkedin.com/in/emrah-basaran-86859130"
 }
 ],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "Q-76 LT-R05S 2026-10-29 复核打回 C 储备：巴勒克埃西尔 Gömeç 本地安防安装商 Başaran（拿彩页没说要什么）：微型安装商 + 无需求无进口证据 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B",
 "notes": "（无首轮调研；由 deepen.py 建档）",
 "deep": {
 "done_at": "2026-10-21",
@@ -160713,12 +160878,24 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "打回 C",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "巴勒克埃西尔 Gömeç 本地安防安装商 Başaran（拿彩页没说要什么）：微型安装商 + 无需求无进口证据 → C 储备",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA ✔，展会 ✔，绑定 轻度触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
+},
+"override_history": [
+{
+"batch": "LT-R05S",
+"date": "2026-10-29",
+"from_override": null,
+"to": "C",
+"prev_reason": "",
+"reason": "巴勒克埃西尔 Gömeç 本地安防安装商 Başaran（拿彩页没说要什么）：微型安装商 + 无需求无进口证据 → C 储备"
 }
+]
 }
 },
 {
@@ -160985,12 +161162,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "Perpa 商贸中心 IT 硬件电商 / 批发商 Pelikan Bilgisayar（展会名片，WA 已加）：分销 ✔ 四主区 → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA ✔，展会 ✔，绑定 轻度触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -161408,12 +161588,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "萨克森-安哈尔特开关柜制造商 SAF（HRB 19446）：自建站询 IM-FP888GW、WA 已加、7 次跟进 → 具体需求 ✔ 工业线对位 ✔ 德国 → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA ✔，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -162476,12 +162659,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "A Hamson（1985 起网络集成商，多伦多总部 + 迪拜）：WA 回复，问 GLC-LH-SMD（Saga 无）与 2.5G → 真人往来 ✔ 行业内 ✔ → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 1，WA ✔，展会 —，绑定 未发信））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -165108,12 +165294,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "意大利工业网络 / 监控 / 自动化方案商 Intellisystem（站内 poe 377 / switch 条目，三旺在售）：进口中国同类 ✔ 对位 ✔ → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -165432,12 +165621,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "立陶宛网络设备分销商 Katalita（Ubiquiti / MikroTik / Teltonika；自有品牌 Extralink）：自牌 + 分销 ✔ 对位 ✔ → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -165732,12 +165924,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "波兰网络设备经销 Korekonect（poe 113 / switch 104 / industrial 54 条目，有 Ewind）：进口中国同类 ✔ 对位 ✔ 波兰 → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -167773,10 +167968,10 @@
 "-6 区域 南亚/巴基斯坦",
 "+5 最近活动 2025"
 ],
-"c_sub": "",
+"c_sub": "储备·复核打回",
 "status": "有回复·跟进中",
 "code": "SB-204",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-204",
 "name_official": "AAA Group（aaagroup.pk；巴基斯坦，具体法人待核）",
@@ -167811,8 +168006,8 @@
 "source": "用户 Clients 表"
 }
 ],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "Q-76 LT-R05S 2026-10-29 复核打回 C 储备：巴基斯坦 AAA Group（Nadeem Shar Din）：需求「光猫 4 路」= GPON（Saga 无）、业务主体不明、1 次负面 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B",
 "notes": "（无首轮调研；由 deepen.py 建档）",
 "deep": {
 "done_at": "2026-10-21",
@@ -167900,12 +168095,24 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "打回 C",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "巴基斯坦 AAA Group（Nadeem Shar Din）：需求「光猫 4 路」= GPON（Saga 无）、业务主体不明、1 次负面 → C 储备",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 2，WA ✔，展会 —，绑定 未发信））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
+},
+"override_history": [
+{
+"batch": "LT-R05S",
+"date": "2026-10-29",
+"from_override": null,
+"to": "C",
+"prev_reason": "",
+"reason": "巴基斯坦 AAA Group（Nadeem Shar Din）：需求「光猫 4 路」= GPON（Saga 无）、业务主体不明、1 次负面 → C 储备"
 }
+]
 }
 },
 {
@@ -176684,12 +176891,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "罗马尼亚 Arsenal TV（小型电视 / 视频机构）：WA 回复 2 次，对 48 口工业 PoE + 24 V PoE 有兴趣 → 具体需求 ✔ 欧洲 → 留 B（终端，群发）",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 2，WA ✔，展会 —，绑定 轻度触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -177585,10 +177795,10 @@
 "+0 区域 亚太/菲律宾",
 "+5 最近活动 2025"
 ],
-"c_sub": "",
+"c_sub": "储备·复核打回",
 "status": "有回复·跟进中",
 "code": "SB-227",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-227",
 "name_official": "NKF Wireless Internet and Services（菲律宾；Joemar Baquiran）",
@@ -177617,8 +177827,8 @@
 "role": "业主（小型 WISP）= 收件人 — 一页纸一次：集成商 25% B、2026-01 索样 → STI-154GP / STC-228GP 付费样机一口价 + 运费；PON 不供明说 — 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉、NTC 不声称（第 120 批 官方登记核实 2026-10-29）"
 }
 ],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "Q-76 LT-R05S 2026-10-29 复核打回 C 储备：菲律宾小型 WISP（Joemar Baquiran）要 PON 产品 + 免费测试：PON 非 Saga 品类 + 微型 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B",
 "notes": "（无首轮调研；由 deepen.py 建档）",
 "deep": {
 "done_at": "2026-10-21",
@@ -177791,12 +178001,24 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "打回 C",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "菲律宾小型 WISP（Joemar Baquiran）要 PON 产品 + 免费测试：PON 非 Saga 品类 + 微型 → C 储备",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 1，WA —，展会 —，绑定 轻度触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
+},
+"override_history": [
+{
+"batch": "LT-R05S",
+"date": "2026-10-29",
+"from_override": null,
+"to": "C",
+"prev_reason": "",
+"reason": "菲律宾小型 WISP（Joemar Baquiran）要 PON 产品 + 免费测试：PON 非 Saga 品类 + 微型 → C 储备"
 }
+]
 }
 },
 {
@@ -193192,12 +193414,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "新加坡 IT/OT + 物理安防融合服务商 Bio-Cognitive：来信问 4 口 PoE+1 上联 / 8 口 PoE 价格 → 具体需求 ✔ 对位 ✔ → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 1，WA ✔，展会 —，绑定 轻度触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -196572,12 +196797,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "西班牙网络 / 无线 / VoIP / 监控专业批发商 Instantbyte（Huawei / Ubiquiti 货架）：分销 ✔ 对位 ✔ 欧洲 → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -204347,10 +204575,10 @@
 "+5 有可核实的公司网站/域名",
 "+8 区域 土耳其/土耳其"
 ],
-"c_sub": "",
+"c_sub": "储备·复核打回",
 "status": "名单内·未触达",
 "code": "SB-300",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-300",
 "name_official": "Çamsan Ordu Ağaç Sanayi ve Ticaret A.Ş.（Ordu 工厂 / Ankara 总部, TR；camsanordu.com；MDF 制造商）",
@@ -204399,8 +204627,8 @@
 "source": "（本地 Clients/ 表格，无公开 URL）"
 }
 ],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "Q-76 LT-R05S 2026-10-29 复核打回 C 储备：土耳其 MDF / 强化地板制造商 Çamsan Ordu（展会拿彩页）：非行业内终端 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B",
 "notes": "（无首轮调研；由 deepen.py 建档）",
 "deep": {
 "done_at": "2026-10-21",
@@ -204482,12 +204710,24 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "打回 C",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "土耳其 MDF / 强化地板制造商 Çamsan Ordu（展会拿彩页）：非行业内终端 → C 储备",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 ✔，绑定 未发信））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
+},
+"override_history": [
+{
+"batch": "LT-R05S",
+"date": "2026-10-29",
+"from_override": null,
+"to": "C",
+"prev_reason": "",
+"reason": "土耳其 MDF / 强化地板制造商 Çamsan Ordu（展会拿彩页）：非行业内终端 → C 储备"
 }
+]
 }
 },
 {
@@ -204744,12 +204984,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "加济安泰普 IT 方案商 Ebatek（2005 成立；展会拿彩页，让用 WA 联系）：IT 经销 ✔ 四主区 → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 ✔，绑定 轻度触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -205008,12 +205251,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "安塔利亚安防 / 网络技术公司 Antalya Turkuaz（25+ 年；展会拿彩页）：行业内 ✔ 对位 ✔ 四主区 → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 ✔，绑定 未发信））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -212984,12 +213230,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "黎巴嫩贸易公司 Elhem Trading（Adnan Melhem）：WA 回复，要 VC 价目 + 看过商业交换机「近期可能有需求」→ 贸易商 ✔ 有互动 ✔ → 留 B（只盯 + 季度一封）",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 1，WA ✔，展会 —，绑定 未发信））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -213987,12 +214236,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "贝鲁特 1989 起自动化与安防承包商 Techno Tower：WA 回复「pls me the price for 8 16 & 24」→ 具体需求 ✔ 对位 ✔ → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 1，WA ✔，展会 —，绑定 未发信））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -216398,12 +216650,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "罗马尼亚门禁系统分销商 YLI（Dahua / ZKTeco；poe 35 条目，Utepo 在售）：进口中国同类 ✔ 对位 ✔ 欧洲 → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -250328,10 +250583,10 @@
 "+0 区域 亚太/菲律宾",
 "+5 最近活动 2025"
 ],
-"c_sub": "",
+"c_sub": "储备·复核打回",
 "status": "有回复·跟进中",
 "code": "SB-412",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-412",
 "name_official": "InterConnectivity Computer Solutions（菲律宾；表内名）",
@@ -250359,8 +250614,8 @@
 "source": "（本地 Clients/ 表格，无公开 URL）"
 }
 ],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "Q-76 LT-R05S 2026-10-29 复核打回 C 储备：菲律宾小型网络工程商（Ronald Dumaguing）：需求百兆单纤 20 km MC（Saga 百兆 MC 不供）+ 微型 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B",
 "notes": "（无首轮调研；由 deepen.py 建档）",
 "deep": {
 "done_at": "2026-10-21",
@@ -250438,12 +250693,24 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "打回 C",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "菲律宾小型网络工程商（Ronald Dumaguing）：需求百兆单纤 20 km MC（Saga 百兆 MC 不供）+ 微型 → C 储备",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 2，WA ✔，展会 —，绑定 未发信））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
+},
+"override_history": [
+{
+"batch": "LT-R05S",
+"date": "2026-10-29",
+"from_override": null,
+"to": "C",
+"prev_reason": "",
+"reason": "菲律宾小型网络工程商（Ronald Dumaguing）：需求百兆单纤 20 km MC（Saga 百兆 MC 不供）+ 微型 → C 储备"
 }
+]
 }
 },
 {
@@ -257623,12 +257890,15 @@
 "as_of": "2026-10-25"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "西班牙工业 IoT 分销商 S-Connect（Moxa / Advantech 等台湾品牌）：进口同类 ✔ 工业线对位 ✔ 欧洲 → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -258045,12 +258315,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "宾州客运巴士车载远程信息方案商 Saucon（1997 起）：问过技术问题、Elsa 1:1 单发 9 次 → 终端有互动 ✔ 美国 → 留 B（群发）",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -259493,12 +259766,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "巴黎西郊弱电 / 安防集成商 Exxell Vision（2006 成立；家乐福 / 欧尚项目）：WA 已加，要分销价目 → 具体需求 ✔ 对位 ✔ 欧洲 → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA ✔，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -263424,12 +263700,15 @@
 "as_of": "2026-10-25"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "德里工业自动化元器件分销商（工业网络设备在售，从 ONV + 台湾品牌进货）：回复 1 次 → 进口中国同类 ✔ 对位 ✔ → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 1，WA —，展会 —，绑定 未触达→轻度））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -270748,12 +271027,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "安塔利亚通信 / 网络集成商 Nortel İletişim（展会要 catalog，WA 已加）：行业内 ✔ 四主区 → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA ✔，展会 ✔，绑定 轻度触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -274594,12 +274876,15 @@
 "as_of": "2026-10-25"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "eminnovate.com（美国，表内「基本都是 PLANET 的」）：回复 1 次、2 次跟进；公开检索未坐实但有邮件路径 → 留 B 待坐实（未坐实 + 有路径 ≠ 打回）",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 1，WA —，展会 —，绑定 未发信→轻度））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -279513,12 +279798,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "诺瓦拉省小型网络方案商 Sistel（布线 + 机柜 + PLANET 工业交换机整包）：进口台湾同类 ✔ 对位 ✔ 欧洲 → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -289674,10 +289962,10 @@
 "-6 区域 非洲/南非",
 "+5 最近活动 2025"
 ],
-"c_sub": "",
+"c_sub": "储备·复核打回",
 "status": "WhatsApp 已加·未回复",
 "code": "SB-516",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-516",
 "name_official": "Brigit Group（南非）",
@@ -289720,8 +290008,8 @@
 "source": "（本地 Clients/ 表格，无公开 URL）"
 }
 ],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "Q-76 LT-R05S 2026-10-29 复核打回 C 储备：南非 Brigit 集团（展会拿 2 本 catalog，「会联系」后无下文）：业务线不明 + 区域外 → C 储备（明朗即回）；c_sub=储备·复核打回 ；回信 / 询价即回 B",
 "notes": "（无首轮调研；由 deepen.py 建档）",
 "deep": {
 "done_at": "2026-10-21",
@@ -289800,12 +290088,24 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "打回 C",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "南非 Brigit 集团（展会拿 2 本 catalog，「会联系」后无下文）：业务线不明 + 区域外 → C 储备（明朗即回）",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA ✔，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
+},
+"override_history": [
+{
+"batch": "LT-R05S",
+"date": "2026-10-29",
+"from_override": null,
+"to": "C",
+"prev_reason": "",
+"reason": "南非 Brigit 集团（展会拿 2 本 catalog，「会联系」后无下文）：业务线不明 + 区域外 → C 储备（明朗即回）"
 }
+]
 }
 },
 {
@@ -311284,12 +311584,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "伊斯坦布尔 Kartal 企业 IT 分销 / 集成商 PCG Bilgisayar（1998 起；珊姐转介 network appliance）：行业内 ✔ 四主区 → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA ✔，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -313113,12 +313416,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "布尔萨天线 / 卫星 + CCTV / 报警批发零售商 Özel Elektronik（不会英文，要 catalog）：CCTV 批发 ✔ 对位 ✔ 四主区 → 留 B（群发）",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 ✔，绑定 未发信））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -317515,12 +317821,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "内罗毕电气工程 + 安防 + 软件集成商 Matrix Vision（11–50 人，Hikvision）：WA 回复「有用，和 team 沟通是否拿样」→ 真人往来 ✔ 对位 ✔ → 留 B（预付）",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 1，WA ✔，展会 —，绑定 未发信））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -323061,12 +323370,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "Perpa 商贸中心安防 / 通信分销商 Anıl Telekom（2002 起；老板给名片）：行业内 ✔ 对位 ✔ 四主区 → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 ✔，绑定 未发信））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -325849,10 +326161,10 @@
 "+0 区域 亚太/印度尼西亚",
 "+5 最近活动 2025"
 ],
-"c_sub": "",
+"c_sub": "储备·复核打回",
 "status": "有回复·跟进中",
 "code": "SB-610",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-610",
 "name_official": "Ahmad Ariyanto（印度尼西亚；个人 gmail）",
@@ -325880,8 +326192,8 @@
 "source": "（本地 Clients/ 表格，无公开 URL）"
 }
 ],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "Q-76 LT-R05S 2026-10-29 复核打回 C 储备：印尼个人 Gmail（Ahmad Ariyanto）要价格表：无公司主体 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B",
 "notes": "（无首轮调研；由 deepen.py 建档）",
 "deep": {
 "done_at": "2026-10-21",
@@ -325960,12 +326272,24 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "打回 C",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "印尼个人 Gmail（Ahmad Ariyanto）要价格表：无公司主体 → C 储备",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 2，WA ✔，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
+},
+"override_history": [
+{
+"batch": "LT-R05S",
+"date": "2026-10-29",
+"from_override": null,
+"to": "C",
+"prev_reason": "",
+"reason": "印尼个人 Gmail（Ahmad Ariyanto）要价格表：无公司主体 → C 储备"
 }
+]
 }
 },
 {
@@ -330246,12 +330570,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "美国光纤 / 铜缆组件制造 + 网店 LANshack（ISO 9001；sfp 1028 / poe 239 / industrial 条目，Ewind 产品多）：进口中国同类 ✔ 对位 ✔ 美国 → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -337078,10 +337405,10 @@
 "+8 区域 土耳其/土耳其",
 "+5 最近活动 2025"
 ],
-"c_sub": "",
+"c_sub": "储备·复核打回",
 "status": "已推送 1 次·未回复",
 "code": "SB-642",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-642",
 "name_official": "",
@@ -337115,8 +337442,8 @@
 "source": "https://tr.linkedin.com/in/inanç-karabayır-1a7475195"
 }
 ],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "Q-76 LT-R05S 2026-10-29 复核打回 C 储备：土耳其 Apres Teknoloji：官网快照仅标题、业务范围不明、1 次推送无回复 → C 储备（业务明朗即回）；c_sub=储备·复核打回 ；回信 / 询价即回 B",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
 "deep": {
 "done_at": "2026-10-21",
@@ -337207,12 +337534,24 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "打回 C",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "土耳其 Apres Teknoloji：官网快照仅标题、业务范围不明、1 次推送无回复 → C 储备（业务明朗即回）",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
+},
+"override_history": [
+{
+"batch": "LT-R05S",
+"date": "2026-10-29",
+"from_override": null,
+"to": "C",
+"prev_reason": "",
+"reason": "土耳其 Apres Teknoloji：官网快照仅标题、业务范围不明、1 次推送无回复 → C 储备（业务明朗即回）"
 }
+]
 }
 },
 {
@@ -338257,12 +338596,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "土耳其大型 IT 分销商 Art Sistem（22 年，135 品牌，5,000+ 经销商；含安防 / 网络）：分销 ✔ 对位 ✔ 四主区 → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -339991,10 +340333,10 @@
 "+8 区域 土耳其/土耳其",
 "+5 最近活动 2025"
 ],
-"c_sub": "",
+"c_sub": "储备·复核打回",
 "status": "已推送 2 次·未回复",
 "code": "SB-653",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-653",
 "name_official": "",
@@ -340028,8 +340370,8 @@
 }
 ],
 "kp": [],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "Q-76 LT-R05S 2026-10-29 复核打回 C 储备：土耳其 Coredata：官网为 Plesk 默认页、业务不明、2 次推送无回复 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
 "deep": {
 "done_at": "2026-10-21",
@@ -340124,12 +340466,24 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "打回 C",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "土耳其 Coredata：官网为 Plesk 默认页、业务不明、2 次推送无回复 → C 储备",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
+},
+"override_history": [
+{
+"batch": "LT-R05S",
+"date": "2026-10-29",
+"from_override": null,
+"to": "C",
+"prev_reason": "",
+"reason": "土耳其 Coredata：官网为 Plesk 默认页、业务不明、2 次推送无回复 → C 储备"
 }
+]
 }
 },
 {
@@ -342270,10 +342624,10 @@
 "+8 区域 土耳其/土耳其",
 "+5 最近活动 2025"
 ],
-"c_sub": "",
+"c_sub": "储备·复核打回",
 "status": "已推送 1 次·未回复",
 "code": "SB-661",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-661",
 "name_official": "",
@@ -342302,8 +342656,8 @@
 "role": "业主 Murat Gündeğer 推定同人（konkordato 申请人之一；未证）= 收件人（第 102 批 官方登记核实 2026-10-28）"
 }
 ],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "Q-76 LT-R05S 2026-10-29 复核打回 C 储备：土耳其 Goldnet：官网快照空、业务不明、1 次推送无回复 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
 "deep": {
 "done_at": "2026-10-21",
@@ -342396,12 +342750,24 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "打回 C",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "土耳其 Goldnet：官网快照空、业务不明、1 次推送无回复 → C 储备",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
+},
+"override_history": [
+{
+"batch": "LT-R05S",
+"date": "2026-10-29",
+"from_override": null,
+"to": "C",
+"prev_reason": "",
+"reason": "土耳其 Goldnet：官网快照空、业务不明、1 次推送无回复 → C 储备"
 }
+]
 }
 },
 {
@@ -344204,10 +344570,10 @@
 "+8 区域 土耳其/土耳其",
 "+5 最近活动 2025"
 ],
-"c_sub": "",
+"c_sub": "储备·复核打回",
 "status": "已推送 1 次·未回复",
 "code": "SB-668",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-668",
 "name_official": "",
@@ -344236,8 +344602,8 @@
 "role": "研究档 KP（职务未核；1 次检索未命中登记主体 → 未坐实）= 收件人（第 102 批 官方登记核实 2026-10-28）"
 }
 ],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "Q-76 LT-R05S 2026-10-29 复核打回 C 储备：土耳其 Midosa：仅联系人 + 电话、业务不明、1 次推送无回复 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
 "deep": {
 "done_at": "2026-10-21",
@@ -344320,12 +344686,24 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "打回 C",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "土耳其 Midosa：仅联系人 + 电话、业务不明、1 次推送无回复 → C 储备",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
+},
+"override_history": [
+{
+"batch": "LT-R05S",
+"date": "2026-10-29",
+"from_override": null,
+"to": "C",
+"prev_reason": "",
+"reason": "土耳其 Midosa：仅联系人 + 电话、业务不明、1 次推送无回复 → C 储备"
 }
+]
 }
 },
 {
@@ -345272,12 +345650,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "伊拉克 IT 公司 MyTec（Mushtaq Al Takhakh）：WA 已加、「有过详细产品交谈」、19 次跟进 → 真人往来 ✔ 行业内 ✔ → 留 B（预付）",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA ✔，展会 —，绑定 未发信））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -346926,12 +347307,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "土耳其 IT 批发网店 PC Tedarik（Ruijie / TP-Link / Hikvision 货架）：分销 ✔ 对位 ✔ 四主区 → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -347941,12 +348325,15 @@
 "as_of": "2026-10-25"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "赫特福德郡小型进口代理商 Saratota（代理 PLANET / Patton / LAVA 六家厂商）：进口台湾同类 ✔ 对位 ✔ 四主区 → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 读而不回））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -350337,12 +350724,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "布尔萨 İnegöl 安防与网络方案商 Tek Nokta Destek（CCTV / 报警 / 智能系统；展会拿彩页，WA 已加）：行业内 ✔ 四主区 → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA ✔，展会 ✔，绑定 轻度触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -351716,12 +352106,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "土耳其 IT / 通信增值分销商 Vitel（KP Gökhan K.；A 箱推送 1 次）：分销 ✔ 四主区 → 留 B（业务细节待核，不影响群发）",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -365998,10 +366391,10 @@
 "+8 区域 北美/加拿大",
 "+5 最近活动 2025"
 ],
-"c_sub": "",
+"c_sub": "储备·复核打回",
 "status": "有回复·跟进中",
 "code": "SB-731",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-731",
 "name_official": "JTS Telecom（加拿大；联系人 Joe，Hotmail）",
@@ -366029,8 +366422,8 @@
 "source": "S/A 邮箱来信 2024-07-30 → 2025-11-21 来信 2 封（私人邮箱）（第 72 批从邮件表头补）"
 }
 ],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "Q-76 LT-R05S 2026-10-29 复核打回 C 储备：加拿大个体电信承包 JTS Telecom（Hotmail）：VC（本职线）对他是新领域、一人 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B",
 "notes": "（无首轮调研；由 deepen.py 建档）",
 "deep": {
 "done_at": "2026-10-21",
@@ -366121,12 +366514,24 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "打回 C",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "加拿大个体电信承包 JTS Telecom（Hotmail）：VC（本职线）对他是新领域、一人 → C 储备",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 2，WA —，展会 —，绑定 轻度触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
+},
+"override_history": [
+{
+"batch": "LT-R05S",
+"date": "2026-10-29",
+"from_override": null,
+"to": "C",
+"prev_reason": "",
+"reason": "加拿大个体电信承包 JTS Telecom（Hotmail）：VC（本职线）对他是新领域、一人 → C 储备"
 }
+]
 }
 },
 {
@@ -389124,10 +389529,10 @@
 "+8 区域 欧洲/保加利亚",
 "+5 最近活动 2025"
 ],
-"c_sub": "",
+"c_sub": "储备·复核打回",
 "status": "有回复·跟进中",
 "code": "SB-786",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-786",
 "name_official": "（未具名）保加利亚 · sstamenov91@gmail.com（S. Stamenov，+359 89）",
@@ -389147,8 +389552,8 @@
 }
 ],
 "kp": [],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "Q-76 LT-R05S 2026-10-29 复核打回 C 储备：保加利亚个人 / 小型安装商 S. Stamenov（Gmail）：回复「最近没需求」+ 1 次负面 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B",
 "notes": "（无首轮调研；由 deepen.py 建档）",
 "deep": {
 "done_at": "2026-10-21",
@@ -389244,12 +389649,24 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "打回 C",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "保加利亚个人 / 小型安装商 S. Stamenov（Gmail）：回复「最近没需求」+ 1 次负面 → C 储备",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 2，WA ✔，展会 —，绑定 轻度触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
+},
+"override_history": [
+{
+"batch": "LT-R05S",
+"date": "2026-10-29",
+"from_override": null,
+"to": "C",
+"prev_reason": "",
+"reason": "保加利亚个人 / 小型安装商 S. Stamenov（Gmail）：回复「最近没需求」+ 1 次负面 → C 储备"
 }
+]
 }
 },
 {
@@ -393710,12 +394127,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "巴西 SC 州安防公司 Getec（技术负责人 Leonardo Sezerino，WA 已加，Surveillance projects）：行业内 ✔ 对位 ✔ → 留 B（区域外，预付）",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA ✔，展会 —，绑定 未发信））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -400050,10 +400470,10 @@
 "+5 有可核实的公司网站/域名",
 "+8 区域 欧洲/保加利亚"
 ],
-"c_sub": "",
+"c_sub": "储备·复核打回",
 "status": "名单内·未触达",
 "code": "SB-821",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-821",
 "name_official": "",
@@ -400065,8 +400485,8 @@
 "brands_seen": [],
 "evidence": [],
 "kp": [],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "Q-76 LT-R05S 2026-10-29 复核打回 C 储备：白俄罗斯 Server-X（IT / 服务器经销待核）：官网 http_error、表内未跟进无往来、收款待定 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
 "deep": {
 "done_at": "2026-10-21",
@@ -400148,12 +400568,24 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "打回 C",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "白俄罗斯 Server-X（IT / 服务器经销待核）：官网 http_error、表内未跟进无往来、收款待定 → C 储备",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未发信））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
+},
+"override_history": [
+{
+"batch": "LT-R05S",
+"date": "2026-10-29",
+"from_override": null,
+"to": "C",
+"prev_reason": "",
+"reason": "白俄罗斯 Server-X（IT / 服务器经销待核）：官网 http_error、表内未跟进无往来、收款待定 → C 储备"
 }
+]
 },
 "country_table": "保加利亚"
 },
@@ -404469,12 +404901,15 @@
 "as_of": "2026-10-25"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "ALIDEX 西班牙站（与 SB-417 同公司；工业网络 / IoT 分销，ORing 等多品牌）：进口台湾同类 ✔ 工业线对位 ✔ 欧洲 → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 }
 },
 {
@@ -413492,10 +413927,10 @@
 "+5 最近活动 2025",
 "-16 推送 19 次无任何回复（聋名单）"
 ],
-"c_sub": "",
+"c_sub": "储备·复核打回",
 "status": "已推送 19 次·未回复",
 "code": "SB-855",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-855",
 "name_official": "",
@@ -413529,8 +413964,8 @@
 }
 ],
 "kp": [],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "Q-76 LT-R05S 2026-10-29 复核打回 C 储备：捷克 Nextlan：19 次推送无回复、经营状态待核（早期 AI 判「网络设备分销」无现证）→ C 储备（官网恢复或来信即回）；c_sub=储备·复核打回 ；回信 / 询价即回 B",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
 "deep": {
 "done_at": "2026-10-21",
@@ -413626,12 +414061,24 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "打回 C",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "捷克 Nextlan：19 次推送无回复、经营状态待核（早期 AI 判「网络设备分销」无现证）→ C 储备（官网恢复或来信即回）",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
+},
+"override_history": [
+{
+"batch": "LT-R05S",
+"date": "2026-10-29",
+"from_override": null,
+"to": "C",
+"prev_reason": "",
+"reason": "捷克 Nextlan：19 次推送无回复、经营状态待核（早期 AI 判「网络设备分销」无现证）→ C 储备（官网恢复或来信即回）"
 }
+]
 }
 },
 {
@@ -424359,12 +424806,15 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "贝尔格莱德安防技术分销商 Stasanet（2013 注册；展会拿彩页，Ady 加了 WA）：行业内 ✔ 对位 ✔ 欧洲 → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 ✔，绑定 轻度触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 },
 "country_table": "土耳其"
 },
@@ -427667,10 +428117,10 @@
 "-6 区域 非洲/肯尼亚",
 "+5 最近活动 2025"
 ],
-"c_sub": "",
+"c_sub": "储备·复核打回",
 "status": "有回复·跟进中",
 "code": "SB-897",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-897",
 "name_official": "（肯尼亚 · Peter Weru，gmail）",
@@ -427698,8 +428148,8 @@
 "source": "用户 Clients 表"
 }
 ],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "Q-76 LT-R05S 2026-10-29 复核打回 C 储备：肯尼亚个人 Gmail 安装 / 转售商 Peter Weru：需求百兆单纤 50 对（Saga 百兆 MC 不供）+ 无主体 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B",
 "notes": "（无首轮调研；由 deepen.py 建档）",
 "deep": {
 "done_at": "2026-10-21",
@@ -427786,12 +428236,24 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "打回 C",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "肯尼亚个人 Gmail 安装 / 转售商 Peter Weru：需求百兆单纤 50 对（Saga 百兆 MC 不供）+ 无主体 → C 储备",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 2，WA ✔，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
+},
+"override_history": [
+{
+"batch": "LT-R05S",
+"date": "2026-10-29",
+"from_override": null,
+"to": "C",
+"prev_reason": "",
+"reason": "肯尼亚个人 Gmail 安装 / 转售商 Peter Weru：需求百兆单纤 50 对（Saga 百兆 MC 不供）+ 无主体 → C 储备"
 }
+]
 }
 },
 {
@@ -434600,12 +435062,15 @@
 },
 "country_fix": "阿联酋",
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "留 B",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "阿联酋工业自动化集成商 Torqsys（SCADA / PLC / UPS；水与污水厂站，100+ 客户）：工业线对位 ✔ 做项目 → 留 B",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 Elsa 群））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
-}
+},
+"override_history": []
 },
 "country_table": "沙特阿拉伯"
 },
@@ -457675,10 +458140,10 @@
 "-6 区域 非洲/尼日尔",
 "+5 最近活动 2025"
 ],
-"c_sub": "",
+"c_sub": "储备·复核打回",
 "status": "WhatsApp 已加·未回复",
 "code": "SB-969",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-969",
 "name_official": "3STI Technologies（尼日尔尼亚美）",
@@ -457714,8 +458179,8 @@
 "role": "联系人（研究档 KP）— 不动：需求升压 PoE（不供）+ 模板站 — 非洲常规：英文稿（法语区附法语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29）"
 }
 ],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "Q-76 LT-R05S 2026-10-29 复核打回 C 储备：尼日尔 IT 公司 3STI（阿里询盘升压 5 口）：Saga 无升压 PoE + 区域外 + 无往来 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B",
 "notes": "（无首轮调研；由 deepen.py 建档）",
 "deep": {
 "done_at": "2026-10-21",
@@ -457787,12 +458252,24 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"batch": "LT-01",
-"status": "待过",
+"status": "打回 C",
+"batch": "LT-R05S",
 "prio": 2,
-"date": "2026-10-29",
+"queued": "LT-R05S",
+"verdict_date": "2026-10-29",
+"note": "尼日尔 IT 公司 3STI（阿里询盘升压 5 口）：Saga 无升压 PoE + 区域外 + 无往来 → C 储备",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA ✔，展会 —，绑定 未发信））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
+},
+"override_history": [
+{
+"batch": "LT-R05S",
+"date": "2026-10-29",
+"from_override": null,
+"to": "C",
+"prev_reason": "",
+"reason": "尼日尔 IT 公司 3STI（阿里询盘升压 5 口）：Saga 无升压 PoE + 区域外 + 无往来 → C 储备"
 }
+]
 }
 },
 {

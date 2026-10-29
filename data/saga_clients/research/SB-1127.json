@@ -174,10 +174,13 @@
  },
  "country_fix": "加拿大",
  "lt_review": {
-  "batch": "LT-01",
-  "status": "待过",
+  "status": "留 B",
+  "batch": "LT-R05S",
   "prio": 2,
-  "date": "2026-10-29",
+  "queued": "LT-R05S",
+  "verdict_date": "2026-10-29",
+  "note": "温哥华 B2B IT / AV / 安防硬件批发商，自台湾直接进口 PLANET、也从中国进口：进口证据 ✔ 对位 ✔ 北美 → 留 B",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 Elsa 群））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
- }
+ },
+ "override_history": []
 }

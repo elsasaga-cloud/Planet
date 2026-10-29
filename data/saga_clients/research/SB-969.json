@@ -33,8 +33,8 @@
    "role": "联系人（研究档 KP）— 不动：需求升压 PoE（不供）+ 模板站 — 非洲常规：英文稿（法语区附法语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29）"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "Q-76 LT-R05S 2026-10-29 复核打回 C 储备：尼日尔 IT 公司 3STI（阿里询盘升压 5 口）：Saga 无升压 PoE + 区域外 + 无往来 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -106,10 +106,22 @@
   "as_of": "2026-10-24"
  },
  "lt_review": {
-  "batch": "LT-01",
-  "status": "待过",
+  "status": "打回 C",
+  "batch": "LT-R05S",
   "prio": 2,
-  "date": "2026-10-29",
+  "queued": "LT-R05S",
+  "verdict_date": "2026-10-29",
+  "note": "尼日尔 IT 公司 3STI（阿里询盘升压 5 口）：Saga 无升压 PoE + 区域外 + 无往来 → C 储备",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA ✔，展会 —，绑定 未发信））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-R05S",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "C",
+   "prev_reason": "",
+   "reason": "尼日尔 IT 公司 3STI（阿里询盘升压 5 口）：Saga 无升压 PoE + 区域外 + 无往来 → C 储备"
+  }
+ ]
 }

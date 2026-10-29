@@ -1,17 +1,18 @@
 # ahmadariyanto105@gmail.com
 **官方名称（调研核实）**：Ahmad Ariyanto（印度尼西亚；个人 gmail）
 
-> **评级 B**　|　印度尼西亚　|　档案编号 `SB-610`　|　优先级 ★★　|　状态：有回复·跟进中
+> **评级 C**　|　印度尼西亚　|　档案编号 `SB-610`　|　优先级 —　|　状态：有回复·跟进中
 >
-> **P 池并入（B 档，等级不动）：☆ P 池 · 观察档（试单 / 回访后转正或退回 C）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：真回 ✔ 但 微型未坐实对位 未知 → 观察；命中 1/6（成单/样品 — · 真回 ✔ · WA ✔ · 对位 未知 · 登记 未坐实 · 体量 个人）　|　标签：prepay
+> **P 池并入（C 档，等级不动）：留 C 储备**（批 LT-R05S · 2026-10-29 · 下次巡检 2026-12-28）：复核打回（LT-R05S）：印尼个人 Gmail（Ahmad Ariyanto）要价格表：无公司主体 → C 储备｜原：☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：真回 ✔ 但 微型未坐实对位 未知 → 观察；命中 1/6（成单/样品 — · 真回 ✔ · WA ✔ · 对位 未知 · 登记 未坐实 · 体量 个人）　|　标签：prepay
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：实质回复 2 次；WhatsApp 已加；推送 13 次（2024-04-28 → 2025-10-09）　|　**所在清单**：WA跟进　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-610
-rating: B
+rating: C
 rating_auto: B
-sieve: pool_watch  # 闸 3 AB1 2026-10-29
+sieve: keep_C  # 闸 3 AB1 2026-10-29
+rating_research: C  # Q-76 LT-R05S 2026-10-29 复核打回 C 储备：印尼个人 Gmail（Ahmad Ariyanto）要价格表：无公司主体 → C 储备；c_
 name_official: "Ahmad Ariyanto（印度尼西亚；个人 gmail）"
 score: 35
 country: 印度尼西亚
@@ -36,10 +37,9 @@ updated: 2026-10-29
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：印尼联系人 Ahmad Ariyanto，要价格表等各种信息，2024-06 收 2 光 2 小壳邮件、2025-11 收 48 口邮件；无公司名。（调研 2026-10-21；表内兴趣：价格表等各种信息）
-- **为什么是 B 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；+0 区域 亚太/印度尼西亚；+5 最近活动 2025
+- **为什么是 C 级**：**调研后定级 C**（Q-76 LT-R05S 2026-10-29 复核打回 C 储备：印尼个人 Gmail（Ahmad Ariyanto）要价格表：无公司主体 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B）；自动分级 B：+30 实质回复 2 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；+0 区域 亚太/印度尼西亚；+5 最近活动 2025；C 级细分：储备·复核打回
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 13 次（2024-04-28 → 2025-10-09）；最近一次客户回复：2024-11-19：1120email发了48口
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 无明确口型；入门 8 PoE 管理型。；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-20 $300（48 Port PoE Managed Switch）、2024-11-20 $65（10G Media Converter）
-- **第一问（只问一个）**：Ahmad, rather than the full list — which one model do you quote most often (8-port PoE, 24-port PoE, or 48-port)? I'll send that EXW price first.
+- **P1**：不推（C 级）；若对方主动来询，起手 STC-28DGGPM（深挖对位：无明确口型；入门 8 PoE 管理型。）
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：群发节奏 A 邮箱 观察打开
 
@@ -61,14 +61,6 @@ updated: 2026-10-29
 | 2026-10-21 | 用户表 | Simon | 兴趣：价格表等各种信息；回复：Email发了2光2小壳信息；1120email发了48口 | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
-
-## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
-
-> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
-
-- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 4 封（2024-06-22 → 2025-02-04），打开标签 0 次。
-- **同国同档参照（ID，25% 档、主推线「商用 2.5G PoE 管理型」，共 1 户有动静，列前 3）**：SA-053 infrateq.id（A，同档：回过 2 次（最近 2024-07-04））。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
-- **日历窗口**：对方：2026-12-25 圣诞–元旦；2027-02-08 斋月（约） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
 
@@ -118,6 +110,7 @@ updated: 2026-10-29
   > 兴趣：价格表等各种信息；回复：Email发了2光2小壳信息；1120email发了48口
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Ahmad Ariyanto（）ahmadariyanto105@gmail.com +62 899 048 0997〔（本地 Clients/ 表格，无公开 URL）〕
+- **调研后定级**：C（原自动 B）——Q-76 LT-R05S 2026-10-29 复核打回 C 储备：印尼个人 Gmail（Ahmad Ariyanto）要价格表：无公司主体 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · 无域名 · 仅表内信息）
@@ -157,19 +150,6 @@ updated: 2026-10-29
 | 2025-06-21 | 621 | 工业非管理组合图 |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#14 |
 | 2025-10-09 | 109 | dac |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#14 |
 
-## 邮箱往来（S 邮箱 · 自动汇总）
-
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：4 封（去 4 / 来 0）　|　**期间**：2024-06-22 → 2025-02-04　|　**最后去信**：2025-02-04
-- **对方邮箱**：ahmadariyanto105@gmail.com
-- 对方从未回信（全部为我方去信）
-
-| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
-|---|---|---|---|---|---|
-| 16 Port PoE Managed Switch | 2025-02-04 | 2025-02-04 | 0 | 1 | 1 |
-| 48 Port PoE Managed Switch | 2024-11-20 | 2024-11-20 | 0 | 1 | 1 |
-| 10G Media Converter | 2024-11-20 | 2024-11-20 | 0 | 1 | 1 |
-| Industrial fiber switch | 2024-06-22 | 2024-06-22 | 0 | 1 | 1 |
-
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`ahmadariyanto105@gmail.com`〔免费邮箱；来源：用户表原值〕
@@ -194,32 +174,10 @@ updated: 2026-10-29
 |---|---|---|---|---|---|---|---|---|---|
 | Whatsapp_S跟进 2026.08.04.xlsx#总表:15 | 14 | R17kylla.net | 印度尼西亚 | Mr.Ahmad Ariyanto | 2022.1.30 | 价格表等各种信息 | ahmadariyanto105@gmail.com | 62899048 0997<br>已加 | 13 条 |
 
-## 产品决策（Saga · 单一决策口径）
-
-| 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
-|---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：无明确口型；入门 8 PoE 管理型。 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
-| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：25% 档 $145.7 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），25% 档公式为 $188.7——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-
-- **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
-
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
-
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-28DGGPM 一条规格链接；只问一个问题。
-- **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
-- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
-- **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
-
-## SWOT
-
-- **S**：有 2 次实质回复（对方认识我们）；WhatsApp 直达
-- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-28DGGPM 按 25% 档报价，做现供应商的第二货源
-- **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
+> C 级不主动跟进。保留档案的意义：① 不重复开发；② 若对方主动来询再升级。
+> 不跟进理由：储备·复核打回。若用户不同意，在 `data/saga_clients/人工定级.csv` 写一行 `SB-610,B,理由` 后重跑即可。
 
 ## 触达与风险红线
 
@@ -238,7 +196,7 @@ updated: 2026-10-29
 | 触达通道 | ✅ WhatsApp 已加 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认（有回复但未报量） |
-| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
+| 商业资格结论 | **不合格（见 C 级细分）→ 不主动跟进** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -247,23 +205,7 @@ updated: 2026-10-29
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
-
-```text
-Hi Ahmad,
-
-Picking up our earlier exchange about PoE / industrial switches. Rather than the full list — which one model do you quote most often (8-port PoE, 24-port PoE, or 48-port)? I'll send that EXW price first.
-
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
-```
-
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> C 级不出邮件样板（不主动跟进）。
 
 ## 新跟进记录（仓库外发出后补）
 
@@ -275,11 +217,11 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- 不复核。对方主动来询 → 在 `data/saga_clients/人工定级.csv` 写一行升级后重跑。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 35）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 35）；人工/调研定级 → C
 
 ---
 

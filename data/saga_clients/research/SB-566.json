@@ -150,10 +150,13 @@
   "as_of": "2026-10-24"
  },
  "lt_review": {
-  "batch": "LT-01",
-  "status": "待过",
+  "status": "留 B",
+  "batch": "LT-R05S",
   "prio": 2,
-  "date": "2026-10-29",
+  "queued": "LT-R05S",
+  "verdict_date": "2026-10-29",
+  "note": "伊斯坦布尔 Kartal 企业 IT 分销 / 集成商 PCG Bilgisayar（1998 起；珊姐转介 network appliance）：行业内 ✔ 四主区 → 留 B",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA ✔，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
- }
+ },
+ "override_history": []
 }

@@ -1,17 +1,18 @@
 # aaagroup.pk
 **官方名称（调研核实）**：AAA Group（aaagroup.pk；巴基斯坦，具体法人待核）
 
-> **评级 B**　|　巴基斯坦　|　档案编号 `SB-204`　|　优先级 ★★　|　状态：有回复·跟进中
+> **评级 C**　|　巴基斯坦　|　档案编号 `SB-204`　|　优先级 —　|　状态：有回复·跟进中
 >
-> **P 池并入（B 档，等级不动）：☆ P 池 · 观察档（试单 / 回访后转正或退回 C）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：真回 ✔ 但 未坐实对位 ✘ 光端机等（日职线） → 观察；命中 1/6（成单/样品 — · 真回 ✔ · WA ✔ · 对位 ✘ 光端机等（日职线） · 登记 未坐实 · 体量 未取）　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）、prepay
+> **P 池并入（C 档，等级不动）：留 C 储备**（批 LT-R05S · 2026-10-29 · 下次巡检 2026-12-28）：复核打回（LT-R05S）：巴基斯坦 AAA Group（Nadeem Shar Din）：需求「光猫 4 路」= GPON（Saga 无）、业务主体不明、1 次负面 → C 储备｜原：☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：真回 ✔ 但 未坐实对位 ✘ 光端机等（日职线） → 观察；命中 1/6（成单/样品 — · 真回 ✔ · WA ✔ · 对位 ✘ 光端机等（日职线） · 登记 未坐实 · 体量 未取）　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）、prepay
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：实质回复 2 次；回复暂无需求 1 次；WhatsApp 已加；推送 21 次（2023-04-20 → 2025-10-06）　|　**所在清单**：WA跟进　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-204
-rating: B
+rating: C
 rating_auto: B
-sieve: pool_watch  # 闸 3 AB1 2026-10-29
+sieve: keep_C  # 闸 3 AB1 2026-10-29
+rating_research: C  # Q-76 LT-R05S 2026-10-29 复核打回 C 储备：巴基斯坦 AAA Group（Nadeem Shar Din）：需求「光猫 4 路」= GP
 name_official: "AAA Group（aaagroup.pk；巴基斯坦，具体法人待核）"
 score: 50
 country: 巴基斯坦
@@ -35,10 +36,9 @@ updated: 2026-10-29
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：巴基斯坦 AAA Group（域名 aaagroup.pk，联系人 Nadeem Shar Din，企业邮箱 + WA）。2023-04 要「光猫 4 路」（4 口 ONU，Saga 不做），其后对工业电源、10G MC 信息回「will check」；21 次推送 2 次实质回复、主动发过新年贺卡 → 关系在但需求不在 Saga 产品线内 → B 慢跟，P1 待核（p1 null）。（调研 2026-10-21；表内兴趣：光猫4路）
-- **为什么是 B 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+6 有互动但表示暂无需求/已有供应商 1 次；+15 WhatsApp 已加并有跟进表；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/巴基斯坦；+5 最近活动 2025
+- **为什么是 C 级**：**调研后定级 C**（Q-76 LT-R05S 2026-10-29 复核打回 C 储备：巴基斯坦 AAA Group（Nadeem Shar Din）：需求「光猫 4 路」= GPON（Saga 无）、业务主体不明、1 次负面 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B）；自动分级 B：+30 实质回复 2 次（问价/要资料/问型号等）；+6 有互动但表示暂无需求/已有供应商 1 次；+15 WhatsApp 已加并有跟进表；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/巴基斯坦；+5 最近活动 2025；C 级细分：储备·复核打回
 - **历史互动**：实质回复 2 次；回复暂无需求 1 次；WhatsApp 已加；推送 21 次（2023-04-20 → 2025-10-06）；最近一次客户回复：2024-04-16：will check
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 表内需求 ONU 4 路 → Saga 无 PON；待其明确交换机/MC 需求后再对位（可先递 STI-110GE 工业 MC + STC-28DGGPM 商用管理 PoE 两页）；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（深挖对位：表内需求 ONU 4 路 → Saga 无 PON；待其明确交换机/MC 需求后再对位（可先递 STI-110GE 工业 MC + STC-28DGGPM 商用管理 PoE 两页））
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
 
@@ -59,13 +59,6 @@ updated: 2026-10-29
 | 2026-10-21 | 用户表 | Simon | 发了工业光猫图 DS → thanks 暂时没需求；发了10G MC信息 → will check | 表内备注 | `用户表` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来；用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
-
-## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
-
-> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
-
-- **规模与贴牌线索（官网快照 2026-10-21）**：社媒：https://twitter.com/、https://www.facebook.com/daikoolpakistan/。
-- **日历窗口**：对方：2027-02-08 斋月（约） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
 ## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
 
@@ -116,6 +109,7 @@ updated: 2026-10-29
   > AAA Group of Companies（aaa-group.com.pk：Construction / Trading / Science Academy）；AAA Solutions（纺织，North Karachi）——均非 aaagroup.pk
   > 来源：https://aaa-group.com.pk/（抓取 2026-10-21）
 - **KP**：Nadeem Shar Din（表内联系人（职务未核；WA 已加；2023-04 要 4 口光猫；主动发过新年贺卡）— 不动，不发（交换机需求来询即按集成商 25% 报，预付 100%）（第 118 批 官方登记核实 2026-10-28））nadeem.sd@aaagroup.pk +92 300 402 5659（WA 已加）〔用户 Clients 表〕
+- **调研后定级**：C（原自动 B）——Q-76 LT-R05S 2026-10-29 复核打回 C 储备：巴基斯坦 AAA Group（Nadeem Shar Din）：需求「光猫 4 路」= GPON（Saga 无）、业务主体不明、1 次负面 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（身份待核 · 需求映射））
@@ -219,33 +213,10 @@ updated: 2026-10-29
 |---|---|---|---|---|---|---|---|---|---|
 | Whatsapp_S跟进 2026.08.04.xlsx#总表:108 | 107 | aaagroup.pk | 巴基斯坦 | Nadeem Shar Din | RFQ<br>20.11.30 | 光猫4路 | nadeem.sd@aaagroup.pk<br>fail | 92 - 300 - 402 5659<br>已加 | 21 条 |
 
-## 产品决策（Saga · 单一决策口径）
-
-| 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
-|---|---|---|---|---|
-| **P1** | 待核型（无标准对应，向 SmartByte 核） | 深挖对位：表内需求 ONU 4 路 → Saga 无 PON；待其明确交换机/MC 需求后再对位（可先递 STI-110GE 工业 MC + STC-28DGGPM 商用管理 PoE 两页） | — | 深挖对位；档位 25%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：25% 档 $145.7 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），25% 档公式为 $188.7——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-
-- **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
-
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
-
-- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-424DGGPM-280W 一条规格链接；只问一个问题。
-- **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
-- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
-- **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
-
-## SWOT
-
-- **S**：有 2 次实质回复（对方认识我们）；WhatsApp 直达
-- **W**：南亚：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 — 按 25% 档报价，做现供应商的第二货源
-- **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
+> C 级不主动跟进。保留档案的意义：① 不重复开发；② 若对方主动来询再升级。
+> 不跟进理由：储备·复核打回。若用户不同意，在 `data/saga_clients/人工定级.csv` 写一行 `SB-204,B,理由` 后重跑即可。
 
 ## 触达与风险红线
 
@@ -264,7 +235,7 @@ updated: 2026-10-29
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认（有回复但未报量） |
-| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
+| 商业资格结论 | **不合格（见 C 级细分）→ 不主动跟进** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -272,19 +243,7 @@ updated: 2026-10-29
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
-
-```text
-Hi Nadeem,
-
-Picking up our earlier exchange about PoE / industrial switches. Besides the 4-port ONU you asked about (not in our line), do your field projects use small fiber-to-copper media converters or 8-port PoE switches? Happy to send the two spec pages if so.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
-```
-
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> C 级不出邮件样板（不主动跟进）。
 
 ## 新跟进记录（仓库外发出后补）
 
@@ -296,11 +255,11 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- 不复核。对方主动来询 → 在 `data/saga_clients/人工定级.csv` 写一行升级后重跑。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 50）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 50）；人工/调研定级 → C
 
 ---
 
