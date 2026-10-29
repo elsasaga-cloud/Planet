@@ -3,12 +3,15 @@
 
 > **评级 B**　|　意大利　|　档案编号 `SB-009`　|　优先级 ★★　|　状态：成交过·维护
 >
+> **P 池并入（B 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心候选，B 档并池 · 等级不动）：成单 / 样品 / PI ✔（J5 看证据不看地区）；对位 ✔ 交换机；命中 3/6（成单/样品 ✔ · 真回 — · WA ✔ · 对位 ✔ 交换机 · 登记 ✔ · 体量 小微（6 人））　|　标签：core（核心：成单 / 样品 / PI 或 A 档）
+>
 > **类型**：安防集成商（含军方/NATO 场所资质）（推断）　|　**历史关系**：成交/下单过；WhatsApp 已加；推送 17 次（2024-01-20 → 2025-10-13）　|　**所在清单**：A优质名单(Italy)、AI评估(IT)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-009
 rating: B
 rating_auto: A
+sieve: pool  # 闸 3 AB1 2026-10-29
 rating_research: B  # 17 次推送无任何回复（仅 WhatsApp 加上），小型集成商、项目型采购、且部分业务涉军方/NATO 场所（INH 守界）；B 慢跟。
 name_official: "Sicurmax S.n.c. di Marzari Massimo & C.（Bovolone, Verona）"
 score: 93

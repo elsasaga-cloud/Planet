@@ -3,12 +3,15 @@
 
 > **评级 B**　|　塞内加尔　|　档案编号 `SB-463`　|　优先级 ★★　|　状态：成交过·维护
 >
+> **P 池并入（B 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心候选，B 档并池 · 等级不动）：成单 / 样品 / PI ✔（J5 看证据不看地区）；真回 ✔；对位 MC/SFP；命中 2/6（成单/样品 ✔ · 真回 ✔ · WA — · 对位 MC/SFP · 登记 未坐实 · 体量 微型（推定））　|　标签：core（核心：成单 / 样品 / PI 或 A 档）、prepay
+>
 > **类型**：电信/ISP/网络运营（推断）　|　**历史关系**：成交/下单过　|　**所在清单**：群发(杂)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-463
 rating: B
 rating_auto: B
+sieve: pool  # 闸 3 AB1 2026-10-29
 name_official: "Groupe Penda Telecoms（塞内加尔；Hotmail；无域名）"
 score: 40
 country: 塞内加尔

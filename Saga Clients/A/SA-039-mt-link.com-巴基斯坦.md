@@ -3,12 +3,15 @@
 
 > **评级 A**　|　巴基斯坦　|　档案编号 `SA-039`　|　优先级 ★★★　|　状态：有回复·跟进中
 >
+> **P 池并入（A 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心，A 档并池 · 等级不动）：A 档默认入池（长期跟进）；真回 ✔；命中 2/6（成单/样品 — · 真回 ✔ · WA ✔ · 对位 ✔ 交换机 · 登记 未坐实 · 体量 —）　|　标签：core（核心：成单 / 样品 / PI 或 A 档）、oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）、prepay
+>
 > **类型**：品牌商（中国白牌贴牌，ODM 买家）（推断）　|　**历史关系**：实质回复 2 次；WhatsApp 已加；推送 20 次（2023-10-19 → 2025-06-26）　|　**所在清单**：DC线索、WA跟进　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-039
 rating: A
 rating_auto: A
+sieve: pool  # 闸 3 AB1 2026-10-29
 name_official: "MT-Link Technologies Co.（Karachi, Pakistan）"
 score: 79
 country: 巴基斯坦

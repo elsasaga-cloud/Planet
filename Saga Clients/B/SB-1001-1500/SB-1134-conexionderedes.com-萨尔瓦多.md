@@ -3,12 +3,15 @@
 
 > **评级 B**　|　萨尔瓦多　|　档案编号 `SB-1134`　|　优先级 ★★　|　状态：已推送 13 次·未回复
 >
+> **P 池并入（B 档，等级不动）：☆ P 池 · 观察档（试单 / 回访后转正或退回 C）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：真回 ✔ 但 未坐实 → 观察；命中 2/6（成单/样品 — · 真回 ✔ · WA — · 对位 ✔ 交换机 · 登记 未坐实 · 体量 小型）　|　标签：prepay
+>
 > **类型**：中美洲网络集成/分销商（为其客户转发方案）（推断）　|　**历史关系**：推送 13 次（2024-07-04 → 2025-10-07）　|　**所在清单**：A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-1134
 rating: B
 rating_auto: C
+sieve: pool_watch  # 闸 3 AB1 2026-10-29
 rating_research: B  # 总经理 3 次具名真回（2025-05、2026-01 ×2），有「Data Center client」在手并承诺反馈；自动 C 系无互动评分；按证据升 B（
 name_official: "Conexión de Redes de Centro América（萨尔瓦多；KP Antonio Alberto Guadron, Gerente General）"
 score: 7

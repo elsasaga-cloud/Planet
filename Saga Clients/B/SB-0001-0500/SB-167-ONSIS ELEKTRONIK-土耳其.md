@@ -3,12 +3,15 @@
 
 > **评级 B**　|　土耳其　|　档案编号 `SB-167`　|　优先级 ★★　|　状态：名单内·未触达
 >
+> **P 池并入（B 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心候选，B 档并池 · 等级不动）：成单 / 样品 / PI ✔（J5 看证据不看地区）；真回 ✔；对位 ✔ 交换机；命中 4/6（成单/样品 ✔ · 真回 ✔ · WA — · 对位 ✔ 交换机 · 登记 未坐实 · 体量 小型（D&B 1–24 人；）　|　标签：core（核心：成单 / 样品 / PI 或 A 档）
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：ISAF2025展会、表:Ady　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-167
 rating: B
 rating_auto: B
+sieve: pool  # 闸 3 AB1 2026-10-29
 name_official: "Onsis Elektrik Elektronik Güvenlik Sistemleri İnşaat San. ve Tic. Ltd. Şti.（Ankara Çankaya, TR；onsis.com.tr）"
 score: 53
 country: 土耳其

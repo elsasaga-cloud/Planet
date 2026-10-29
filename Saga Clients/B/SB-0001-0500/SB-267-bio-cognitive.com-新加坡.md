@@ -3,12 +3,15 @@
 
 > **评级 B**　|　新加坡　|　档案编号 `SB-267`　|　优先级 ★★　|　状态：有回复·跟进中
 >
+> **P 池并入（B 档，等级不动）：☆ P 池 · 观察档（试单 / 回访后转正或退回 C）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：真回 ✔ 但 对位 ✘ 光端机等（日职线） → 观察；命中 2/6（成单/样品 — · 真回 ✔ · WA ✔ · 对位 ✘ 光端机等（日职线） · 登记 ✔ · 体量 小型）　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+>
 > **类型**：安防集成/经销（推断）　|　**历史关系**：实质回复 1 次；WhatsApp 已加；推送 1 次（2025-07-07 → 2025-07-07）　|　**所在清单**：A已回复　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-267
 rating: B
 rating_auto: B
+sieve: pool_watch  # 闸 3 AB1 2026-10-29
 name_official: "Bio-Cognitive Pte Ltd（新加坡）"
 score: 48
 country: 新加坡

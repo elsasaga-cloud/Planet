@@ -3,12 +3,15 @@
 
 > **评级 B**　|　西班牙　|　档案编号 `SB-015`　|　优先级 ★★　|　状态：有回复·跟进中
 >
+> **P 池并入（B 档，等级不动）：☆ P 池 · 观察档（试单 / 回访后转正或退回 C）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：真回 ✔ 但 微型对位 未知 → 观察；命中 2/6（成单/样品 — · 真回 ✔ · WA — · 对位 未知 · 登记 ✔ · 体量 小微（6 人））
+>
 > **类型**：工业 MRO 供应商（非网络渠道）（推断）　|　**历史关系**：实质回复 1 次；推送 18 次（2023-12-15 → 2025-11-29）　|　**所在清单**：S重点　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-015
 rating: B
 rating_auto: A
+sieve: pool_watch  # 闸 3 AB1 2026-10-29
 rating_research: B  # 品类不符（工业 MRO/自动化配件商，无网络产品线），仅 1 次回复后 18 次推送无果；S 重点名单身份保留在档，若用户坚持可在 人工定级.csv 改回 A。
 name_official: "Suministros Industriales MP4, S.L.（Sabadell, Spain）"
 score: 80

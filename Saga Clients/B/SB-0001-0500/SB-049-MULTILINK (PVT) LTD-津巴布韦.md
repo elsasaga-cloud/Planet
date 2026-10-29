@@ -3,12 +3,15 @@
 
 > **评级 B**　|　津巴布韦　|　档案编号 `SB-049`　|　优先级 ★★　|　状态：成交过·维护
 >
+> **P 池并入（B 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心候选，B 档并池 · 等级不动）：成单 / 样品 / PI ✔（J5 看证据不看地区）；对位 ✔ 交换机；⚠ 巨头 / 集团（长线）；命中 3/6（成单/样品 ✔ · 真回 — · WA — · 对位 ✔ 交换机 · 登记 未坐实 · 体量 大型（集团 4,300+））　|　标签：core（核心：成单 / 样品 / PI 或 A 档）、giant、prepay
+>
 > **类型**：经销/集成商（推断）　|　**历史关系**：成交/下单过；推送 1 次（2025-10-07 → 2025-10-07）　|　**所在清单**：E冷名单(津巴布韦)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-049
 rating: B
 rating_auto: A
+sieve: pool  # 闸 3 AB1 2026-10-29
 rating_research: B  # 老成交客户（2011–2013）但沉寂 12 年、非洲非主攻区、冷名单无回复 → B 待机。
 name_official: "Multilink (Pvt) Ltd → SECURICO Electronic Division（Harare, Zimbabwe；securico.co.zw）"
 score: 63

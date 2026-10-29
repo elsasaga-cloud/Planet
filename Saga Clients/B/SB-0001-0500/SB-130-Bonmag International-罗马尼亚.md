@@ -3,12 +3,15 @@
 
 > **评级 B**　|　罗马尼亚　|　档案编号 `SB-130`　|　优先级 ★★　|　状态：有回复·跟进中
 >
+> **P 池并入（B 档，等级不动）：☆ P 池 · 观察档（试单 / 回访后转正或退回 C）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：真回 ✔ 但 微型对位 ✘ 光端机等（日职线） → 观察；命中 2/6（成单/样品 — · 真回 ✔ · WA ✔ · 对位 ✘ 光端机等（日职线） · 登记 ✔ · 体量 小微（1 人））　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+>
 > **类型**：安防集成/经销（推断）　|　**历史关系**：实质回复 2 次；WhatsApp 已加；推送 21 次（2023-02-07 → 2025-10-06）　|　**所在清单**：A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-130
 rating: B
 rating_auto: B
+sieve: pool_watch  # 闸 3 AB1 2026-10-29
 name_official: "BONMAG INTERNATIONAL SRL（品牌 OmniSecurity，omnisecurity.ro）"
 score: 55
 country: 罗马尼亚

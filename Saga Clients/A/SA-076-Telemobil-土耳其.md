@@ -3,12 +3,15 @@
 
 > **评级 A**　|　土耳其　|　档案编号 `SA-076`　|　优先级 ★★★　|　状态：WhatsApp 已加·未回复
 >
+> **P 池并入（A 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心，A 档并池 · 等级不动）：A 档默认入池（长期跟进）；A 复核：邮件层 0 回复 / 无成单记录 → 等新 A 标准；命中 2/6（成单/样品 — · 真回 — · WA ✔ · 对位 ✔ 交换机 · 登记 未坐实 · 体量 50–97 人（kariye）；A 复核：等 A 新标准一起看（池位先给，不降级）　|　标签：a_review（A 复核：等 A 新标准）、core（核心：成单 / 样品 / PI 或 A 档）
+>
 > **类型**：IT/网络系统集成商（推断）　|　**历史关系**：WhatsApp 已加　|　**所在清单**：ISAF2025展会、表:Simon　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-076
 rating: A
 rating_auto: A
+sieve: pool  # 闸 3 AB1 2026-10-29
 name_official: "TBI – Telemobil Bilgi İletişim Hizmetleri San. ve Tic. A.Ş.（tbi.com.tr，Üsküdar/İstanbul）"
 score: 60
 country: 土耳其

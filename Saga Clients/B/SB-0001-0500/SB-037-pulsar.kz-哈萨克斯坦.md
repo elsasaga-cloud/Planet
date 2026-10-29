@@ -3,12 +3,15 @@
 
 > **评级 B**　|　哈萨克斯坦　|　档案编号 `SB-037`　|　优先级 ★★　|　状态：成交过·维护
 >
+> **P 池并入（B 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心候选，B 档并池 · 等级不动）：成单 / 样品 / PI ✔（J5 看证据不看地区）；对位 ✔ 交换机；命中 3/6（成单/样品 ✔ · 真回 — · WA — · 对位 ✔ 交换机 · 登记 ✔ · 体量 小型）　|　标签：core（核心：成单 / 样品 / PI 或 A 档）、prepay、ru_payment
+>
 > **类型**：经销商（推断）　|　**历史关系**：成交/下单过；推送 17 次（2024-06-03 → 2025-10-22）　|　**所在清单**：A优质名单(俄语国家)、AI评估(俄语国家)·DONE、群发(富通天下)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-037
 rating: B
 rating_auto: A
+sieve: pool  # 闸 3 AB1 2026-10-29
 rating_research: B  # 品类完全对位（商业 PoE，UniPoE 在用）但 17 次推送 0 回复，俄语区非主攻 → 慢跟。
 name_official: "TOO «Pulsar Systems»（Astana / Almaty, Kazakhstan；pulsar.kz；ZKTeco / Hikvision 官方分销商，UNIPOE / TVT / Secuscan 独家分销）"
 score: 68

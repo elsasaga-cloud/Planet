@@ -3,12 +3,15 @@
 
 > **评级 A**　|　土耳其　|　档案编号 `SA-084`　|　优先级 ★★★　|　状态：已推送 2 次·未回复
 >
+> **P 池并入（A 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心，A 档并池 · 等级不动）：A 档默认入池（长期跟进）；A 复核：邮件层 0 回复 / 无成单记录 → 等新 A 标准；命中 1/6（成单/样品 — · 真回 — · WA — · 对位 未知 · 登记 未坐实 · 体量 57–74 人（kariye）；A 复核：等 A 新标准一起看（池位先给，不降级）　|　标签：a_review（A 复核：等 A 新标准）、core（核心：成单 / 样品 / PI 或 A 档）
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 2 次（2025-09-29 → 2025-10-28）　|　**所在清单**：A优质名单(土耳其客户)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-084
 rating: A
 rating_auto: B
+sieve: pool  # 闸 3 AB1 2026-10-29
 rating_research: A  # B→A：用户表注明「以前的客户」（有成交史，复购优先）；本土安防电子制造商 + 分销商（1990 年成立，Sancaktepe 5,000 m² 工厂，60+ 
 name_official: "EDS Elektronik Destek San. ve Tic. Ltd. Şti.（İstanbul Sancaktepe, TR；eds.com.tr；安防电子制造商 + 分销商）"
 score: 43

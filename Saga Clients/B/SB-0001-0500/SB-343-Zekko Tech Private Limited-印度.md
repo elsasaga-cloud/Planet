@@ -3,12 +3,15 @@
 
 > **评级 B**　|　印度　|　档案编号 `SB-343`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
 >
+> **P 池并入（B 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心候选，B 档并池 · 等级不动）：成单 / 样品 / PI ✔（J5 看证据不看地区）；对位 ✔ 交换机；命中 3/6（成单/样品 ✔ · 真回 — · WA ✔ · 对位 ✔ 交换机 · 登记 ✔ · 体量 微型（4 人））　|　标签：core（核心：成单 / 样品 / PI 或 A 档）
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：WhatsApp 已加　|　**所在清单**：AI评估(IN)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-343
 rating: B
 rating_auto: B
+sieve: pool  # 闸 3 AB1 2026-10-29
 name_official: "Zekko Tech Private Limited（孟买）"
 score: 44
 country: 印度

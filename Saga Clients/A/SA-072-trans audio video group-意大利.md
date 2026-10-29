@@ -3,12 +3,15 @@
 
 > **评级 A**　|　意大利　|　档案编号 `SA-072`　|　优先级 ★★★　|　状态：已推送 14 次·未回复
 >
+> **P 池并入（A 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心，A 档并池 · 等级不动）：A 档默认入池（长期跟进）；A 复核：邮件层 0 回复 / 无成单记录 → 等新 A 标准；命中 2/6（成单/样品 — · 真回 — · WA — · 对位 ✔ 交换机 · 登记 ✔ · 体量 29 人（2026）；25–）；A 复核：等 A 新标准一起看（池位先给，不降级）　|　标签：a_review（A 复核：等 A 新标准）、core（核心：成单 / 样品 / PI 或 A 档）
+>
 > **类型**：AV/安防集成商（推断）　|　**历史关系**：推送 14 次（2024-06-12 → 2025-10-16）　|　**所在清单**：A优质名单(Italy)、AI评估(IT)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-072
 rating: A
 rating_auto: A
+sieve: pool  # 闸 3 AB1 2026-10-29
 rating_research: A  # A 三条件：① 可追溯需求——「采购过多次交换机（主要商业级、少量工业级）、希望合作、要详细报价单」；② 直接具名联系人——GM Francesco Brigh
 name_official: "Trans Audio Video S.r.l.（TAV Group，Caserta + Cologno Monzese, IT；transaudiovideo.com）"
 score: 61

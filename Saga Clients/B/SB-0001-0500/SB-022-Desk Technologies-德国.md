@@ -3,12 +3,15 @@
 
 > **评级 B**　|　德国　|　档案编号 `SB-022`　|　优先级 ★★　|　状态：已推送 7 次·未回复
 >
+> **P 池并入（B 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心候选，B 档并池 · 等级不动）：成单 / 样品 / PI ✔（J5 看证据不看地区）；对位 未知；命中 3/6（成单/样品 ✔ · 真回 — · WA — · 对位 未知 · 登记 ✔ · 体量 微型）　|　标签：core（核心：成单 / 样品 / PI 或 A 档）、oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+>
 > **类型**：安防集成/项目商（推断）　|　**历史关系**：推送 7 次（2025-04-14 → 2025-11-05）　|　**所在清单**：A优质名单(DE)、AI评估(DE)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-022
 rating: B
 rating_auto: A
+sieve: pool  # 闸 3 AB1 2026-10-29
 rating_research: B  # 核心需求 IP67 户外机 —— Saga 三家供应商均无 IP67 产品线（Saga 不做 IP67）；且报价后 0 回复/7 次推送。警务项目属公共安全边缘
 name_official: "DESK Sicherheit GmbH（Karlsruhe, DE；desk-sicherheit.de；HRB 717686 Mannheim）"
 score: 74

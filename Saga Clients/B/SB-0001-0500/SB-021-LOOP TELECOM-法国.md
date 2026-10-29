@@ -3,12 +3,15 @@
 
 > **评级 B**　|　法国　|　档案编号 `SB-021`　|　优先级 ★★　|　状态：有回复·跟进中
 >
+> **P 池并入（B 档，等级不动）：○ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：○ P 池正式（P 正式候选，B 档并池 · 等级不动）：真回 ✔ + 对位 ✔ + 坐实 ✔体量 ✔；命中 4/6（成单/样品 — · 真回 ✔ · WA — · 对位 ✔ 交换机 · 登记 ✔ · 体量 中型（上市制造商））
+>
 > **类型**：台系品牌制造商（可能的低端 OEM 采购方）（推断）　|　**历史关系**：实质回复 1 次；推送 20 次（2024-05-03 → 2025-12-01）　|　**所在清单**：A已回复、A台湾名单　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-021
 rating: B
 rating_auto: A
+sieve: pool  # 闸 3 AB1 2026-10-29
 rating_research: B  # 台系品牌制造商（INH 规则：台系品牌商最高 B；其铁路/EN50121 主线 Saga 不做）；仅在其明确要低端白牌补位时按 OEM 30% 报价。
 name_official: "Loop Telecommunication International, Inc.（Loop Telecom，台湾上市 3025；EMEA 销售 VP 驻法国）"
 score: 76

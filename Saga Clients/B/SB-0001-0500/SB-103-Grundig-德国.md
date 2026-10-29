@@ -3,12 +3,15 @@
 
 > **评级 B**　|　德国　|　档案编号 `SB-103`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
 >
+> **P 池并入（B 档，等级不动）：☆ P 池 · 观察档（试单 / 回访后转正或退回 C）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：冷户四条全中（对位 + 四主区 + 坐实 + 体量）→ 观察，首触看反应；命中 4/6（成单/样品 — · 真回 — · WA ✔ · 对位 ✔ 交换机 · 登记 ✔ · 体量 11–50（LinkedIn）
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：WhatsApp 已加；推送 7 次（2025-04-14 → 2025-11-04）　|　**所在清单**：A优质名单(DE)、AI评估(DE)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-103
 rating: B
 rating_auto: B
+sieve: pool_watch  # 闸 3 AB1 2026-10-29
 name_official: "Abetechs GmbH（GRUNDIG Security 品牌独家被许可人；Erkrath/Düsseldorf, DE；grundig-security.com）"
 score: 59
 country: 德国

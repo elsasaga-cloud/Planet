@@ -3,12 +3,15 @@
 
 > **评级 B**　|　印度　|　档案编号 `SB-692`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
 >
+> **P 池并入（B 档，等级不动）：☆ P 池 · 观察档（试单 / 回访后转正或退回 C）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：真回 ✔ 但 对位 未知 → 观察；命中 2/6（成单/样品 — · 真回 ✔ · WA ✔ · 对位 未知 · 登记 ✔ · 体量 小型（1–10 人登记；≈$）
+>
 > **类型**：电信/ISP/网络运营（推断）　|　**历史关系**：WhatsApp 已加；推送 4 次（2025-02-14 → 2025-10-02）　|　**所在清单**：DWDM线索、E已回复　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-692
 rating: B
 rating_auto: B
+sieve: pool_watch  # 闸 3 AB1 2026-10-29
 name_official: "Anda Telecom Private Limited（诺伊达）"
 score: 33
 country: 印度

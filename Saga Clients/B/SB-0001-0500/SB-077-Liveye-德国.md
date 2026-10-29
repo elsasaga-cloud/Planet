@@ -3,12 +3,15 @@
 
 > **评级 B**　|　德国　|　档案编号 `SB-077`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
 >
+> **P 池并入（B 档，等级不动）：☆ P 池 · 观察档（试单 / 回访后转正或退回 C）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：冷户四条全中（对位 + 四主区 + 坐实 + 体量）→ 观察，首触看反应；命中 4/6（成单/样品 — · 真回 — · WA ✔ · 对位 ✔ 交换机 · 登记 ✔ · 体量 中型（≈95 人；营收 €4）
+>
 > **类型**：安防产品商（推断）　|　**历史关系**：WhatsApp 已加；推送 7 次（2025-04-11 → 2025-11-04）　|　**所在清单**：A优质名单(DE)、AI评估(DE)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-077
 rating: B
 rating_auto: A
+sieve: pool_watch  # 闸 3 AB1 2026-10-29
 rating_research: B  # 无具体需求信号、0 回复 / 7 次 → 慢跟（德国主攻区故保留 B）。
 name_official: "LivEye GmbH（Föhren/Trier, Rheinland-Pfalz, DE；liveye.com；移动视频监控塔制造与服务商）"
 score: 60

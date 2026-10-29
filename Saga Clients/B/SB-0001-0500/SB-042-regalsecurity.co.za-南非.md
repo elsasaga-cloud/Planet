@@ -3,12 +3,15 @@
 
 > **评级 B**　|　南非　|　档案编号 `SB-042`　|　优先级 ★★　|　状态：有回复·跟进中
 >
+> **P 池并入（B 档，等级不动）：○ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：○ P 池正式（P 正式候选，B 档并池 · 等级不动）：真回 ✔ + 对位 ✔ + 体量 ✔；命中 3/6（成单/样品 — · 真回 ✔ · WA — · 对位 ✔ 交换机 · 登记 未坐实 · 体量 中型（201–500；24–）　|　标签：prepay
+>
 > **类型**：大型区域安防分销商（推断）　|　**历史关系**：实质回复 1 次；推送 19 次（2024-02-12 → 2025-11-05）　|　**所在清单**：A优质名单(South Africa)、AI评估(ZA)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-042
 rating: B
 rating_auto: A
+sieve: pool  # 闸 3 AB1 2026-10-29
 rating_research: B  # 体量大（30+ 分支、数百人）超出 Saga 常规可赢尺寸，且南非非主攻区、1 次回复后 18 次推送无回复；但其网络配件在采 Upeto/itoonertec
 name_official: "Regal Distributors SA (Pty) Ltd（Regal Security Distributors）"
 score: 67

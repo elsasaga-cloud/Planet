@@ -3,12 +3,15 @@
 
 > **评级 B**　|　科威特　|　档案编号 `SB-117`　|　优先级 ★★　|　状态：有回复·跟进中
 >
+> **P 池并入（B 档，等级不动）：☆ P 池 · 观察档（试单 / 回访后转正或退回 C）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：真回 ✔ 但 微型未坐实 → 观察；命中 2/6（成单/样品 — · 真回 ✔ · WA ✔ · 对位 ✔ 交换机 · 登记 未坐实 · 体量 微型（推定））　|　标签：prepay
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：实质回复 2 次；WhatsApp 已加；推送 14 次（2024-04-28 → 2025-07-24）　|　**所在清单**：A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-117
 rating: B
 rating_auto: B
+sieve: pool_watch  # 闸 3 AB1 2026-10-29
 name_official: "Softline Technology（科威特；Anand Rajendiran）"
 score: 58
 country: 科威特

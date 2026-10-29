@@ -3,12 +3,15 @@
 
 > **评级 B**　|　印度　|　档案编号 `SB-006`　|　优先级 ★★　|　状态：成交过·已凉（Simon: gg）
 >
+> **P 池并入（B 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心候选，B 档并池 · 等级不动）：成单 / 样品 / PI ✔（J5 看证据不看地区）；真回 ✔；对位 ✔ 交换机；⚠ Simon: gg / 已凉；命中 5/6（成单/样品 ✔ · 真回 ✔ · WA ✔ · 对位 ✔ 交换机 · 登记 ✔ · 体量 中小型（26–50 人；₹2）；Simon: gg（难复购）→ 首触只一句问候 + 新品，不推单　|　标签：core（核心：成单 / 样品 / PI 或 A 档）、gg（Simon: 难复购 —— 首触只问候 + 新品）
+>
 > **类型**：分销商 + 系统集成（工业自动化）（推断）　|　**历史关系**：成交/下单过；实质回复 3 次；WhatsApp 已加；推送 10 次（2023-12-09 → 2025-02-26）　|　**所在清单**：WA跟进、成交(PI)、Simon:gg　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-006
 rating: B
 rating_auto: A
+sieve: pool  # 闸 3 AB1 2026-10-29
 name_official: "United Control Engineers India Pvt. Ltd.（Greater Noida）"
 score: 107
 country: 印度

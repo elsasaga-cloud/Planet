@@ -83,7 +83,10 @@ def load_sieve():
 def save_sieve(s):
     rows = {k: v for k, v in s.items() if k != '_meta'}
     cnt = collections.Counter(v.get('verdict') for v in rows.values())
-    s['_meta'] = {'updated': TODAY, 'rules': 'docs/C池三闸筛选_方案_2026-10-29.md §2', 'counts': dict(cnt), 'n': len(rows)}
+    cnt_c = collections.Counter(v.get('verdict') for k, v in rows.items() if k.startswith('SC-'))
+    cnt_ab = collections.Counter(v.get('verdict') for k, v in rows.items() if not k.startswith('SC-'))   # A / B 并池行（AB-01 起，只加池位不改等级）
+    s['_meta'] = {'updated': TODAY, 'rules': 'docs/C池三闸筛选_方案_2026-10-29.md §2 · A/B 并池 docs/AB并池方案_草案_2026-10-29.md §5', 'counts': dict(cnt), 'n': len(rows),
+                  'counts_C': dict(cnt_c), 'n_C': sum(cnt_c.values()), 'counts_AB': dict(cnt_ab), 'n_AB': sum(cnt_ab.values())}
     out = {'_meta': s['_meta']}
     for k in sorted(rows):
         out[k] = rows[k]

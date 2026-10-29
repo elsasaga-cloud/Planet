@@ -3,12 +3,15 @@
 
 > **评级 B**　|　越南　|　档案编号 `SB-1102`　|　优先级 ★★　|　状态：有回复·跟进中
 >
+> **P 池并入（B 档，等级不动）：☆ P 池 · 观察档（试单 / 回访后转正或退回 C）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：真回 ✔ 但 微型对位 未知 → 观察；命中 2/6（成单/样品 — · 真回 ✔ · WA — · 对位 未知 · 登记 ✔ · 体量 微型（2020 新设））
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：实质回复 1 次；推送 4 次（? → ?）　|　**所在清单**：群发(VN/VN)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-1102
 rating: B
 rating_auto: B
+sieve: pool_watch  # 闸 3 AB1 2026-10-29
 name_official: "Viễn Thông Giá Tốt（vienthonggiatot.com）"
 score: 21
 country: 越南

@@ -3,12 +3,15 @@
 
 > **评级 B**　|　泰国　|　档案编号 `SB-023`　|　优先级 ★★　|　状态：成交过·维护
 >
+> **P 池并入（B 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心候选，B 档并池 · 等级不动）：成单 / 样品 / PI ✔（J5 看证据不看地区）；对位 ✔ 交换机；命中 3/6（成单/样品 ✔ · 真回 — · WA — · 对位 ✔ 交换机 · 登记 ✔ · 体量 小型（2 名股东））　|　标签：core（核心：成单 / 样品 / PI 或 A 档）、oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+>
 > **类型**：经销商（推断）　|　**历史关系**：成交/下单过；推送 16 次（2024-05-13 → 2025-10-13）　|　**所在清单**：A优质名单(Thailand)、AI评估(TH)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-023
 rating: B
 rating_auto: A
+sieve: pool  # 闸 3 AB1 2026-10-29
 rating_research: B  # 16 次推送 0 回复（耳聋），且仅 sales@ 公共邮箱、无具名 KP；ONV 在用说明品类对位但无互动证据 → 慢跟。
 name_official: "ITK Connecting（itk.co.th，Bangkok, Thailand；IT 产品电商 + 安装；ONV 工业交换机在售）"
 score: 73

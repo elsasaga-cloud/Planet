@@ -3,12 +3,15 @@
 
 > **评级 A**　|　南非　|　档案编号 `SA-005`　|　优先级 ★★★　|　状态：有回复·跟进中
 >
+> **P 池并入（A 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心，A 档并池 · 等级不动）：A 档默认入池（长期跟进）；真回 ✔；命中 1/6（成单/样品 — · 真回 ✔ · WA ✔ · 对位 未知 · 登记 未坐实 · 体量 1–10（ZoomInfo））　|　标签：core（核心：成单 / 样品 / PI 或 A 档）、prepay
+>
 > **类型**：安防集成商（CCTV/视频管理）（推断）　|　**历史关系**：实质回复 3 次；WhatsApp 已加；推送 21 次（2023-09-11 → 2025-11-04）　|　**所在清单**：A优质名单(South Africa)、AI评估(ZA)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-005
 rating: A
 rating_auto: A
+sieve: pool  # 闸 3 AB1 2026-10-29
 name_official: "Taurus Vision（Pretoria, South Africa）"
 score: 67
 country: 南非

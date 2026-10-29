@@ -3,12 +3,15 @@
 
 > **评级 B**　|　波兰　|　档案编号 `SB-058`　|　优先级 ★★　|　状态：成交过·维护
 >
+> **P 池并入（B 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心候选，B 档并池 · 等级不动）：成单 / 样品 / PI ✔（J5 看证据不看地区）；对位 ✘ 光端机等（日职线）；命中 3/6（成单/样品 ✔ · 真回 — · WA ✔ · 对位 ✘ 光端机等（日职线） · 登记 ✔ · 体量 微型（家庭经营；子 Błaż）　|　标签：core（核心：成单 / 样品 / PI 或 A 档）、dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+>
 > **类型**：视频/广电技术经销商（推断）　|　**历史关系**：成交/下单过；WhatsApp 已加　|　**所在清单**：群发(筛选后质量一般的_群发)、表:PL　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-058
 rating: B
 rating_auto: B
+sieve: pool  # 闸 3 AB1 2026-10-29
 rating_research: B  # 成交品类为 HDMI 光端机（Saga 三供应商不覆盖），交换机需求未见；成交记录使其不降 C，B 待机。
 name_official: "Sabmartv Marcin Wypior（SABMARtv / KIM Group，Rybnik, PL；sabmar.tv）"
 score: 47

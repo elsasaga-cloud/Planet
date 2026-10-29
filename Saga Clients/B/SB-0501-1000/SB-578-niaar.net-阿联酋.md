@@ -3,12 +3,15 @@
 
 > **评级 B**　|　阿联酋　|　档案编号 `SB-578`　|　优先级 ★★　|　状态：回复暂无需求
 >
+> **P 池并入（B 档，等级不动）：☆ P 池 · 观察档（试单 / 回访后转正或退回 C）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：真回 ✔ 但 未坐实对位 MC/SFP → 观察；⚠ 回复暂无需求；命中 1/6（成单/样品 — · 真回 ✔ · WA ✔ · 对位 MC/SFP · 登记 未坐实 · 体量 小型）　|　标签：prepay
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：回复暂无需求 1 次；WhatsApp 已加；推送 23 次（2023-11-29 → 2025-10-27）　|　**所在清单**：A优质名单(阿联酋 沙特阿拉伯)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-578
 rating: B
 rating_auto: B
+sieve: pool_watch  # 闸 3 AB1 2026-10-29
 name_official: "NIAAR（Niaar Industrial Procurement，Dubai）"
 score: 37
 country: 阿联酋

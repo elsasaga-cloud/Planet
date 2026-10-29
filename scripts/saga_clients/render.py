@@ -447,7 +447,7 @@ def load_sieve():
 
 
 SIEVE = load_sieve()
-SIEVE_TAG_NOTE = {'dayjob_fit': '（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）', 'oem_target': '（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）'}
+SIEVE_TAG_NOTE = {'dayjob_fit': '（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）', 'oem_target': '（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）', 'core': '（核心：成单 / 样品 / PI 或 A 档）', 'a_review': '（A 复核：等 A 新标准）', 'gg': '（Simon: 难复购 —— 首触只问候 + 新品）'}
 SIEVE_LABEL = {'pass_final': '⛔ 已过筛 · 永久 pass', 'keep_C': '留 C 储备', 'candidate': '闸 2 候选', 'pool_candidate': 'P 池候选', 'pool': '★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）', 'pool_watch': '☆ P 池 · 观察档（试单 / 回访后转正或退回 C）'}
 
 # 兴趣 → Saga 主推（型号, 场景说明）
@@ -1503,7 +1503,10 @@ def render_one(ent):
             lab = sv['grade'] + lab[1:]
             if sv['grade'] == '△':
                 lab = lab.replace('试单 / 回访后转正或退回 C', '疑点（制裁 / 国别 / 主体 / 收款）核清后转正或退回 C')
-        if sv.get('verdict') == 'pass_final':
+        if str(sv.get('rule', '')).startswith('AB'):   # A / B 并池（AB-01 起，只加池位不改等级）
+            tg = ('　|　标签：' + '、'.join(t + SIEVE_TAG_NOTE.get(t, '') for t in sv['tags'])) if sv.get('tags') else ''
+            lines.append(f"> **P 池并入（{g} 档，等级不动）：{lab}**（批 {sv.get('batch')} · {sv.get('date')} · 下次巡检 {sv.get('next_check')}）：{sv.get('reason')}{tg}")
+        elif sv.get('verdict') == 'pass_final':
             lines.append(f"> **{lab}**（闸 {sv.get('gate')} · {sv.get('rule')} · {sv.get('date')}）：{sv.get('reason')} —— 不再加厚 / 不群发 / 不监控 / 不进日历；撤销只在客户主动找上门时由 Simon 拍板（`data/saga_clients/sieve.json`）。")
         else:
             tg = ('　|　标签：' + '、'.join(t + SIEVE_TAG_NOTE.get(t, '') for t in sv['tags'])) if sv.get('tags') else ''
@@ -1924,6 +1927,10 @@ def write_readme(ents, index):
             with open(os.path.join(OUT_DIR, g, '_索引.md'), 'w', encoding='utf-8') as f:
                 f.write(f'# {g} 级索引（{len(index[g])}）\n\n')
                 n_pass = sum(1 for e, _ in index[g] if (SIEVE.get(e['code']) or {}).get('verdict') == 'pass_final')
+                if g in ('A', 'B') and SIEVE:
+                    n_p = sum(1 for e, _ in index[g] if (SIEVE.get(e['code']) or {}).get('verdict') == 'pool')
+                    n_w = sum(1 for e, _ in index[g] if (SIEVE.get(e['code']) or {}).get('verdict') == 'pool_watch')
+                    f.write(f'> P 池并入（批 AB-01，`docs/AB并池方案_草案_2026-10-29.md` §5；只加池位不改等级）：★ 正式 {n_p} 户 / ☆ 观察 {n_w} 户（状态列前缀），其余留 {g} 走发送包。\n\n')
                 if g == 'C' and SIEVE:
                     f.write(f'> C 池三闸筛选（`docs/C池三闸筛选_方案_2026-10-29.md`）：⛔ 永久 pass {n_pass} 户（状态列前缀 ⛔）；★ = P 池正式入池、☆ = P 池观察档 / 候选（名册 `docs/P池_资产池名册_2026-10-29.md`）；其余留 C 见 `data/saga_clients/sieve.json`。\n\n')
                 f.write('| 编号 | 公司 | 国家 | 状态 | 分数 | C级细分 | 档案 |\n|---|---|---|---|---|---|---|\n')

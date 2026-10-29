@@ -3,12 +3,15 @@
 
 > **评级 A**　|　越南　|　档案编号 `SA-031`　|　优先级 ★★★　|　状态：有回复·跟进中
 >
+> **P 池并入（A 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心，A 档并池 · 等级不动）：A 档默认入池（长期跟进）；真回 ✔；命中 2/6（成单/样品 — · 真回 ✔ · WA — · 对位 ✔ 交换机 · 登记 未坐实 · 体量 5（登记））　|　标签：core（核心：成单 / 样品 / PI 或 A 档）、oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）、prepay
+>
 > **类型**：分销商/电商（工业交换机垂直）（推断）　|　**历史关系**：实质回复 1 次；推送 17 次（2024-05-10 → 2025-12-15）　|　**所在清单**：A已回复、A优质名单(Thailand)、AI评估(TH)·DONE、群发(VN/VN)、在用同行产品　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-031
 rating: A
 rating_auto: A
+sieve: pool  # 闸 3 AB1 2026-10-29
 name_official: "Trường Sơn Solutions Co., Ltd.（Công ty TNHH Giải pháp và Xây lắp Trường Sơn, HCMC, Vietnam）"
 score: 67
 country: 越南

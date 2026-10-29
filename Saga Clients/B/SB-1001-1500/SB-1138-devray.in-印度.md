@@ -3,12 +3,15 @@
 
 > **评级 B**　|　印度　|　档案编号 `SB-1138`　|　优先级 ★★　|　状态：名单内·未触达
 >
+> **P 池并入（B 档，等级不动）：☆ P 池 · 观察档（试单 / 回访后转正或退回 C）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：真回 ✔ 但 对位 未知 → 观察；命中 3/6（成单/样品 — · 真回 ✔ · WA — · 对位 未知 · 登记 ✔ · 体量 中型（100+ 人））
+>
 > **类型**：印度 Make-in-India OEM（自称 OEM for Switches / NGFW / SDWAN；ISO 27001 / CERT-In Empanelled）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(IN)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-1138
 rating: B
 rating_auto: C
+sieve: pool_watch  # 闸 3 AB1 2026-10-29
 rating_research: B  # 2026-10-25 第 77 批（T29-U56 Simon「值得捞的处理一下」）：C → B。理由：Managing Director 本人 4 轮具名提问
 name_official: "DevRay IT Solutions Pvt. Ltd. / MapleCloud Technologies（印度 Noida；Make-in-India OEM）"
 score: -4

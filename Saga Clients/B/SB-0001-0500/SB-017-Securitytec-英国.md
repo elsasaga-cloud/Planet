@@ -3,12 +3,15 @@
 
 > **评级 B**　|　英国　|　档案编号 `SB-017`　|　优先级 ★★　|　状态：成交过·维护
 >
+> **P 池并入（B 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心候选，B 档并池 · 等级不动）：成单 / 样品 / PI ✔（J5 看证据不看地区）；对位 ✘ 光端机等（日职线）；命中 3/6（成单/样品 ✔ · 真回 — · WA — · 对位 ✘ 光端机等（日职线） · 登记 ✔ · 体量 微型（住宅地址、单董事））　|　标签：core（核心：成单 / 样品 / PI 或 A 档）、dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+>
 > **类型**：安防批发商（小型）（推断）　|　**历史关系**：成交/下单过；推送 17 次（2024-05-07 → 2025-10-13）　|　**所在清单**：A优质名单(UK)、AI评估(UK)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-017
 rating: B
 rating_auto: A
+sieve: pool  # 闸 3 AB1 2026-10-29
 rating_research: B  # 3 人微型批发商，17 次推送零回复，兴趣在 VC（Saga 不做）；保留 B 慢跟（Utepo 在售说明有 PoE 替代空间）。
 name_official: "Securitytec Ltd（Coulsdon, Surrey, UK；Companies House 05585047）"
 score: 78

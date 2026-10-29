@@ -3,12 +3,15 @@
 
 > **评级 B**　|　巴林　|　档案编号 `SB-033`　|　优先级 ★★　|　状态：有回复·跟进中
 >
+> **P 池并入（B 档，等级不动）：☆ P 池 · 观察档（试单 / 回访后转正或退回 C）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：真回 ✔ 但 未坐实对位 未知 → 观察；命中 1/6（成单/样品 — · 真回 ✔ · WA ✔ · 对位 未知 · 登记 未坐实 · 体量 小型（<50 推定））　|　标签：prepay
+>
 > **类型**：IT 经销/集成商（推断）　|　**历史关系**：实质回复 2 次；WhatsApp 已加；推送 15 次（2024-04-28 → 2025-10-06）　|　**所在清单**：WA跟进　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-033
 rating: B
 rating_auto: A
+sieve: pool_watch  # 闸 3 AB1 2026-10-29
 rating_research: B  # 需求指向 Cisco 原厂型号（Saga 不供原厂 Cisco），只能以替代方案切入；中东非主攻区 → 慢跟。
 name_official: "Marvel IT Solutions / Marvel Business Consultants（Bahrain）"
 score: 68

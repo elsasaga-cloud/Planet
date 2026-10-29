@@ -3,12 +3,15 @@
 
 > **评级 B**　|　塞尔维亚　|　档案编号 `SB-887`　|　优先级 ★★　|　状态：名单内·未触达
 >
+> **P 池并入（B 档，等级不动）：☆ P 池 · 观察档（试单 / 回访后转正或退回 C）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：真回 ✔ 但 微型对位 未知 → 观察；命中 2/6（成单/样品 — · 真回 ✔ · WA — · 对位 未知 · 登记 ✔ · 体量 微型（<5 人；营收 <€1）
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：ISAF2025展会、表:Ady　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-887
 rating: B
 rating_auto: B
+sieve: pool_watch  # 闸 3 AB1 2026-10-29
 name_official: "STASANET d.o.o. Beograd-Vračar（Belgrade, 塞尔维亚；stasanet.rs；布拉格 Stasanet s.r.o. 分支）"
 score: 29
 country: 塞尔维亚

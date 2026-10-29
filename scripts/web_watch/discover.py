@@ -105,8 +105,12 @@ def build(grades, pool=True):
     pool_file = None
     if pool:
         ps, pool_file = pool_subjects({e['code']: e for e in ents})
-        have = {e['code'] for e in subjects}
-        subjects += [x for x in ps if x['code'] not in have]
+        have = {e['code']: e for e in subjects}
+        for x in ps:
+            if x['code'] in have:
+                have[x['code']]['pool'] = x['pool']      # A / B 并池户（AB-01 起）：层仍是 A / B，只挂池位信息
+            else:
+                subjects.append(x)
     curated = json.load(open(CURATED, encoding='utf-8')) if os.path.exists(CURATED) else {'customers': []}
     cur_by = {c['code']: c for c in curated.get('customers', [])}
     cur_urls = {norm_url(s.get('url')) for c in curated.get('customers', []) for s in c['sources'] if s.get('url')}
@@ -221,6 +225,9 @@ def build(grades, pool=True):
         if is_pool:
             c['pool'] = e['pool']
             stats['pool_sources'] += len(sources)
+        elif e.get('pool'):
+            c['pool'] = e['pool']
+            stats['pool_ab'] = stats.get('pool_ab', 0) + 1
         if code in cur_by:
             c['note'] = '精选层（targets.json）已有本客户；此处只补精选里没有的源'
         customers.append(c)

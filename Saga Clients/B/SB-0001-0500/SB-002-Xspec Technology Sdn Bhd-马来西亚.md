@@ -3,12 +3,15 @@
 
 > **评级 B**　|　马来西亚　|　档案编号 `SB-002`　|　优先级 ★★　|　状态：成交过·已凉（Simon: gg）
 >
+> **P 池并入（B 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心候选，B 档并池 · 等级不动）：成单 / 样品 / PI ✔（J5 看证据不看地区）；真回 ✔；对位 ✔ 交换机；⚠ Simon: gg / 已凉；命中 4/6（成单/样品 ✔ · 真回 ✔ · WA ✔ · 对位 ✔ 交换机 · 登记 ✔ · 体量 小型）；Simon: gg（难复购）→ 首触只一句问候 + 新品，不推单　|　标签：core（核心：成单 / 样品 / PI 或 A 档）、gg（Simon: 难复购 —— 首触只问候 + 新品）
+>
 > **类型**：分销商/制造商代表（NDT·国防安防·医疗）（推断）　|　**历史关系**：成交/下单过；实质回复 2 次；WhatsApp 已加；推送 3 次（2024-06-14 → 2024-12-10）　|　**所在清单**：WA跟进、成交(PI)、Simon:gg　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-002
 rating: B
 rating_auto: A
+sieve: pool  # 闸 3 AB1 2026-10-29
 rating_research: B  # 成单但核心业务是 NDT/国防/医疗设备代理，交换机为项目配套，复购逻辑弱（且含军警安防，INH 守界）；放 B 慢跟、被动响应。
 name_official: "XSPEC Technology Sdn. Bhd.（Subang Jaya, Malaysia）"
 score: 123

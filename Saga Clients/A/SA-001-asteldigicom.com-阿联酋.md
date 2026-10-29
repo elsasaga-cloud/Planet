@@ -3,12 +3,15 @@
 
 > **评级 A**　|　阿联酋　|　档案编号 `SA-001`　|　优先级 ★★★　|　状态：成交过·可发展（Simon）
 >
+> **P 池并入（A 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心，A 档并池 · 等级不动）：A 档默认入池（长期跟进）；成单 / 样品 ✔；真回 ✔；命中 3/6（成单/样品 ✔ · 真回 ✔ · WA ✔ · 对位 ✔ 交换机 · 登记 未坐实 · 体量 —）　|　标签：core（核心：成单 / 样品 / PI 或 A 档）、prepay
+>
 > **类型**：分销商/网店（线缆·网络·太阳能）（推断）　|　**历史关系**：成交/下单过；实质回复 2 次；WhatsApp 已加；推送 36 次（2024-05-07 → 2025-11-27）　|　**所在清单**：A优质名单(阿联酋 沙特阿拉伯)、AI评估(阿联酋 沙特阿拉伯)·DONE、S重点、成交(PI)、Simon:可发展　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-001
 rating: A
 rating_auto: A
+sieve: pool  # 闸 3 AB1 2026-10-29
 rating_research: A  # PI 包成单客户，Simon 标签 可发展 → A
 name_official: "Astel Digicom（asteldigicom.com，关联 AVSS Group）"
 score: 164

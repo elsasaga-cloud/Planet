@@ -3,12 +3,15 @@
 
 > **评级 B**　|　赞比亚　|　档案编号 `SB-1120`　|　优先级 ★★　|　状态：成交过·已凉（Simon: gg）
 >
+> **P 池并入（B 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心候选，B 档并池 · 等级不动）：成单 / 样品 / PI ✔（J5 看证据不看地区）；真回 ✔；对位 未知；⚠ Simon: gg / 已凉；命中 2/6（成单/样品 ✔ · 真回 ✔ · WA ✔ · 对位 未知 · 登记 未坐实 · 体量 微型（约 7 人））；Simon: gg（难复购）→ 首触只一句问候 + 新品，不推单　|　标签：core（核心：成单 / 样品 / PI 或 A 档）、gg（Simon: 难复购 —— 首触只问候 + 新品）、prepay
+>
 > **类型**：系统集成/工程商（推断）　|　**历史关系**：成交/下单过；WhatsApp 已加；推送 8 次（2025-02-13 → 2025-10-10）　|　**所在清单**：E冷名单(赞比亚)、成交(PI)、Simon:gg　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-1120
 rating: B
 rating_auto: C
+sieve: pool  # 闸 3 AB1 2026-10-29
 rating_research: B  # PI 包成单客户（2024-01 一单 265 台 USD 9,350，Simon 成本表利润 RMB 23,118；Simon 标签 gg）→ 至少 B
 name_official: "Obmac Systems"
 score: 18

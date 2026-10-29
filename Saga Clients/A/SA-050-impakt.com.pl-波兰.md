@@ -3,12 +3,15 @@
 
 > **评级 A**　|　波兰　|　档案编号 `SA-050`　|　优先级 ★★★　|　状态：有回复·跟进中
 >
+> **P 池并入（A 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心，A 档并池 · 等级不动）：A 档默认入池（长期跟进）；真回 ✔；命中 4/6（成单/样品 — · 真回 ✔ · WA — · 对位 未知 · 登记 ✔ · 体量 大型自有品牌商 / 分销商（）　|　标签：core（核心：成单 / 样品 / PI 或 A 档）
+>
 > **类型**：品牌商（自有品牌 OEM 采购）+ 分销商（推断）　|　**历史关系**：实质回复 1 次；推送 8 次（2025-04-04 → 2025-10-21）　|　**所在清单**：A已回复、A优质名单(PL)、AI评估(PL)·DONE、群发(筛选后质量一般的_群发)、表:PL　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-050
 rating: A
 rating_auto: A
+sieve: pool  # 闸 3 AB1 2026-10-29
 name_official: "Impakt S.A.（Mosina，波兰；自有品牌 Genesis / Lanberg / Natec / Fury / Armac / Audictus）"
 score: 74
 country: 波兰

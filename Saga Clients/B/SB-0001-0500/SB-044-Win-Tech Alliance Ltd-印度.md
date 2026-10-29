@@ -3,12 +3,15 @@
 
 > **评级 B**　|　印度　|　档案编号 `SB-044`　|　优先级 ★★　|　状态：有回复·跟进中
 >
+> **P 池并入（B 档，等级不动）：☆ P 池 · 观察档（试单 / 回访后转正或退回 C）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：真回 ✔ 但 微型未坐实 → 观察；命中 2/6（成单/样品 — · 真回 ✔ · WA ✔ · 对位 ✔ 交换机 · 登记 未坐实 · 体量 微型（贸易））　|　标签：prepay
+>
 > **类型**：设备组装/贸易商（推断）　|　**历史关系**：实质回复 1 次；回复暂无需求 2 次；WhatsApp 已加；推送 13 次（2024-04-28 → 2025-06-21）　|　**所在清单**：WA跟进　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-044
 rating: B
 rating_auto: A
+sieve: pool_watch  # 闸 3 AB1 2026-10-29
 rating_research: B  # CKD 散件模式需工厂直接配合（Saga 为贸易商，需 SmartByte 同意拆件供货，可行性未定）；印度非主攻区；1 次回复后 12 次推送无果 → 慢跟。
 name_official: "Win-Tech Alliance Ltd（孟买；Harvinder Luthra）"
 score: 65
