@@ -832,7 +832,7 @@ def main(argv=None):
     args = ap.parse_args(argv)
     if args.selftest:
         return selftest()
-    layers = {'成单', 'A', 'B', 'P'} if args.layer == 'all' else {x.strip() for x in args.layer.replace('deal', '成单').split(',')}
+    layers = {'成单', 'A', 'B', 'P'} if args.layer.strip().lower() == 'all' else {x.strip() for x in args.layer.replace('deal', '成单').split(',')}  # 2026-10-29：手动 Run 填 ALL 也认
     customers = load_config(layers)
     if args.only:
         customers = [c for c in customers if c['code'] in args.only]
