@@ -2,7 +2,7 @@
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `smartbyte/profile/it-warehouse-philippines.md`:1（其分级 A类） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
 >
-> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ ISP / WISP 渠道分销 20%：IT Warehouse Distribution Inc.（Quezon City Cubao, RedGold Building 1840 E. Rodriguez Sr. Ave；官网自述 MikroTik / Ubiquiti / RF elements / Ruijie / VSOL 分销，服务 ISP / WISP / SI / 经销商；business@itwarehouse.ph；(02) 7905-6052）官网 + 目录页部分坐实（SEC 号未查到 → 补证）→ SmartByte 管理型 + 光纤对位；SmartByte 子库来源；非主区 → 预付 100% 起步
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ ISP / WISP 渠道分销 20%：IT Warehouse Distribution Inc.（Quezon City Cubao, RedGold Building 1840 E. Rodriguez Sr. Ave；官网自述 MikroTik / Ubiquiti / RF elements / Ruijie / VSOL 分销，服务 ISP / WISP / SI / 经销商；business@itwarehouse.ph；(02) 7905-6052）官网 + 目录页部分坐实（SEC 号未查到 → 补证）→ SmartByte 管理型 + 光纤对位；SmartByte 子库来源；非主区 → 预付 100% 起步｜补证 P2-02（2026-10-29）：bpoai.ai 名录：IT Warehouse Distribution Inc.，REDGOLD Building 1840 E Rodriguez Sr. Ave, Cubao, Quezon City 1102，+63 2 8277 7898（Google 评分 4.5 / 100）→ 地址二次印证、SEC 号仍无 → prepay 保留
 
 ## 1. 初判与理由
 - 初判：**XC** — 终端用户 / 渠道触点（机场、大学、超市、政府、军队…走集成商与框架采购，不是 Saga 的直接买家）

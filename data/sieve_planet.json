@@ -632,7 +632,7 @@
   "verdict": "pool",
   "gate": 3,
   "rule": "G3",
-  "reason": "○ 线缆制造 + 安防 / 网络分销 20%：Jlinks Technology Corp.（Richmond BC 328-13988 Cambie Road 总部 2002 起 + Montreal 分部 2010 起；S.A.E. Cable 独家分销；UL / cUL / CSA 线缆）官网 + 名录部分坐实（BC 公司号未查到 → 补证）；PLANET 多型号在售；sales@，Director Jack Chou 具名；主区 CA",
+  "reason": "○ 线缆制造 + 安防 / 网络分销 20%：Jlinks Technology Corp.（Richmond BC 328-13988 Cambie Road 总部 2002 起 + Montreal 分部 2010 起；S.A.E. Cable 独家分销；UL / cUL / CSA 线缆）官网 + 名录部分坐实（BC 公司号未查到 → 补证）；PLANET 多型号在售；sales@，Director Jack Chou 具名；主区 CA｜补证 P2-02（2026-10-29）：BC 公司注册公报 2005-10-27 INCORPORATIONS 列「0738462 JLINKS TECHNOLOGY CORP.」→ 登记坐实；ContactOut 列 1–10 人（弱证）→ 标 small，试单起步",
   "date": "2026-10-29",
   "manual": true,
   "origin": "Planet",
@@ -649,10 +649,25 @@
     "what": "Yelp：安防 / 线缆批发 · (604) 207-1662",
     "url": "https://www.yelp.ca/biz/jlinks-technology-corp-richmond",
     "date": "2026-10-29"
+   },
+   {
+    "what": "BC Corporate Registry Notices 2005-10-27 · INCORPORATIONS · 0738462 JLINKS TECHNOLOGY CORP.",
+    "url": "https://www.bclaws.gov.bc.ca/civix/document/id/corpreg/corpreg/crpn1027fin0905",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "ContactOut：328-13988 Cambie Rd Richmond BC · 1–10 人 · 门店 Richmond + St-Laurent QC",
+    "url": "https://contactout.com/company/JLINKS-Technology-Corp-23388",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "ImportGenius：进口商记录 JLINKS TECHNOLOGY CORP 328-13988 Cambie Road Richmond BC",
+    "url": "https://www.importgenius.com/importers/jlinks-technology-corp",
+    "date": "2026-10-29"
    }
   ],
   "tags": [
-   "reg_pending"
+   "small"
   ]
  },
  "PB-021": {
@@ -1046,7 +1061,7 @@
   "verdict": "pool",
   "gate": 3,
   "rule": "G3",
-  "reason": "○ 独立安防分销 20%：STS Lab, Inc. dba CCTV.Net（16037 Arminta St, Van Nuys CA 91406；2001 年起；82 品牌 dealer-only；D&B 模型营收 $2.61M、principal Boris Bronstein；Cience 估 $10–25M → 体量口径不一）官网 + D&B 部分坐实（CA SoS 实体号未查到 → 补证）；PLANET 为在售交换机主线（1,028 件 + dealer 价目）；sales@ / info@；主区 US；注意 UL / ETL 问法",
+  "reason": "○ 独立安防分销 20%：STS Lab, Inc. dba CCTV.Net（16037 Arminta St, Van Nuys CA 91406；2001 年起；82 品牌 dealer-only；D&B 模型营收 $2.61M、principal Boris Bronstein；Cience 估 $10–25M → 体量口径不一）官网 + D&B 部分坐实（CA SoS 实体号未查到 → 补证）；PLANET 为在售交换机主线（1,028 件 + dealer 价目）；sales@ / info@；主区 US；注意 UL / ETL 问法｜补证 P2-02（2026-10-29）：SAM.gov 联邦供应商登记：STS Lab, Inc. dba CCTV.Net，UEI KXVVK8PBDD75 / CAGE 7ERG8，S-Corp，2015-07-14 登记、有效至 2027-03-13，NAICS 423440，自报 51–250 人 / $10–50M → 登记坐实（体量口径以 SAM 自报为准，D&B $2.61M 为模型值）",
   "date": "2026-10-29",
   "manual": true,
   "origin": "Planet",
@@ -1063,11 +1078,26 @@
     "what": "D&B：dba CCTV.net · 营收 $2.61M（modelled）· principal BORIS BRONSTEIN",
     "url": "https://www.dnb.com/business-directory/company-profiles.sts_lab_inc.4a1716e0df1ff52b48f6572be02066c4.html",
     "date": "2026-10-29"
+   },
+   {
+    "what": "GovTribe（SAM.gov）：STS Lab, Inc. DBA Cctv.net · UEI KXVVK8PBDD75 · CAGE 7ERG8 · 16037 Arminta St Van Nuys · S-Corp · 2001 创 · 51–250 人",
+    "url": "https://govtribe.com/vendors/sts-lab-inc-dot-cctv-dot-net-7erg8",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "VIVOTEK Where to Buy：STS Lab, Inc. (CCTV.Net) 16037 Arminta St · +1 888 369 2288",
+    "url": "https://www.vivotek.com/en-US/where-to-buy?area_eq=North+America",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "Bloomberg 私企档：STS Lab Inc · security dealers · 服务加州客户",
+    "url": "https://www.bloomberg.com/profile/company/0443977D:US",
+    "date": "2026-10-29"
    }
   ],
   "tags": [
-   "reg_pending",
-   "security_dist"
+   "security_dist",
+   "fed_vendor"
   ]
  },
  "PB-053": {
@@ -1720,7 +1750,7 @@
   "verdict": "pool",
   "gate": 3,
   "rule": "G3",
-  "reason": "○ 通信集成 + 经销 25%：Akçaba Communications（Lefkoşa Tuna Sok. 4；+90 392 229 15 15；ZoomInfo 11–50 人 / $5.2M；20+ 年光纤 / 布线 / 通信交钥匙，客户含政府 / 酒店 / 学校 / 医院）部分坐实（TRNC 无公开登记）；PLANET 商用 + 工业 PoE 美元标价有库存；info@，联合创始人 Faize Akçaba 具名；T06 随土耳其 → 预付 100% 起步",
+  "reason": "○ 通信集成 + 经销 25%：Akçaba Communications（Lefkoşa Tuna Sok. 4；+90 392 229 15 15；ZoomInfo 11–50 人 / $5.2M；20+ 年光纤 / 布线 / 通信交钥匙，客户含政府 / 酒店 / 学校 / 医院）部分坐实（TRNC 无公开登记）；PLANET 商用 + 工业 PoE 美元标价有库存；info@，联合创始人 Faize Akçaba 具名；T06 随土耳其 → 预付 100% 起步｜补证 P2-02（2026-10-29）：法人名「Akçaba Ltd.」（Akcaba Communications；kimibilin.com 名录：Tuna Sk No 4 Lefkoşa 99010，info@akcaba.com，+90 392 229 15 15）；TRNC 公司登记无公开检索库 → reg_pending 保留，首单仍预付",
   "date": "2026-10-29",
   "manual": true,
   "origin": "Planet",
@@ -1736,6 +1766,11 @@
    {
     "what": "官网联系页（北塞浦路斯）",
     "url": "https://akcaba.com/en/iletisim/",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "kimibilin.com：Akçaba Ltd. (Akcaba Communications) · Tuna Sk No 4 Lefkoşa 99010 · info@akcaba.com · +90 392 229 15 15",
+    "url": "https://kimibilin.com/f/akcaba-ltd/",
     "date": "2026-10-29"
    }
   ],

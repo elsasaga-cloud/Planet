@@ -2812,7 +2812,7 @@
 "verdict": "pool",
 "gate": 3,
 "rule": "G3",
-"reason": "○ 安防分销 20%：Sapphire Trading & Marketing Ltd（Nairobi 17 Kijabe Street；官网联系页 Info@sapphire.co.ke / +254 795 705 335；ZoomInfo 11–50 人，设 Hikvision 销售经理岗；目录页另载 nishit@sapphire.co.ke）部分坐实（肯尼亚公司注册号未查到 → 补证）；Hikvision 国家分销（来源库称 1996 年起）→ PoE 对位；非主区 → 预付 100% 起步",
+"reason": "○ 安防分销 20%：Sapphire Trading & Marketing Ltd（Nairobi 17 Kijabe Street；官网联系页 Info@sapphire.co.ke / +254 795 705 335；ZoomInfo 11–50 人，设 Hikvision 销售经理岗；目录页另载 nishit@sapphire.co.ke）部分坐实（肯尼亚公司注册号未查到 → 补证）；Hikvision 国家分销（来源库称 1996 年起）→ PoE 对位；非主区 → 预付 100% 起步｜补证 P2-02（2026-10-29）：TradeAtlas 贸易数据登记名「SAPPHIRE TRADING & MARKETING LTD.」P.O. Box 31177-00100 Nairobi；businesslist.co.ke 2011 起在册（Opp Text Book Centre Kijabe St，+254-20-2224566）→ 法人名坐实、肯尼亚登记号仍无 → prepay 保留",
 "date": "2026-10-29",
 "manual": true,
 "repo": "CCTV-PoE",
@@ -2832,6 +2832,16 @@
 {
 "what": "Yellow Pages Kenya：nishit@sapphire.co.ke · +254722513444",
 "url": "https://www.yellowpageskenya.com/business-category/food-products/business-details/1295445-sapphire-trading-marketing-ltd",
+"date": "2026-10-29"
+},
+{
+"what": "TradeAtlas：SAPPHIRE TRADING & MARKETING LTD. · 31177 00100 Nairobi",
+"url": "https://app.tradeatlas.com/en/firms/sapphire-trading-and-marketing-limited/f2e20e7ee3c268ec",
+"date": "2026-10-29"
+},
+{
+"what": "BusinessList.co.ke：Sapphire Trading & Marketing Ltd · Opp Text Book Centre Kijabe St · +254-20-2224566 · 2011-08-30 登录",
+"url": "https://www.businesslist.co.ke/company/3971/sapphire-tradingmarketing-ltd",
 "date": "2026-10-29"
 }
 ],
@@ -6047,7 +6057,7 @@
 "verdict": "pool",
 "gate": 3,
 "rule": "G3",
-"reason": "★ 安防分销 20%：Smartplus Co. LLC（Riyadh Al Laban, Al Murabba 12612；Hikvision 官方「Strategic National Distributor for Saudi Arabia」名录在册；多仓 + RMA 中心；产品目录含非管理 / 管理 / L3 / PoE 交换机）官方名录坐实（CR 号未查到 → 补证）；hello@smartplus.com.sa + +966 11 412 9 412；非主区但战略级国家分销体量",
+"reason": "★ 安防分销 20%：Smartplus Co. LLC（Riyadh Al Laban, Al Murabba 12612；Hikvision 官方「Strategic National Distributor for Saudi Arabia」名录在册；多仓 + RMA 中心；产品目录含非管理 / 管理 / L3 / PoE 交换机）官方名录坐实（CR 号未查到 → 补证）；hello@smartplus.com.sa + +966 11 412 9 412；非主区但战略级国家分销体量｜补证 P2-02（2026-10-29）：D&B：SMART PLUS CO，King Faisal Road Al Murabba, PO Box 54210 Riyadh 11514，50 人，$3.26M，CEO Mohammed Alsultan；Hikvision 官方名录在册 → 实体坐实、CR 号仍未公开 → cr_pending 保留",
 "date": "2026-10-29",
 "manual": true,
 "repo": "CCTV-PoE",
@@ -6062,6 +6072,16 @@
 {
 "what": "产品目录含 Unmanaged / Managed / L3 / PoE 交换机（Hikvision 品牌）",
 "url": "https://projectsuppliers.net/en/supplier/smart-plus-co",
+"date": "2026-10-29"
+},
+{
+"what": "D&B：SMART PLUS CO · Riyadh · 50 人 · $3.26M · Key Principal Mohammed Alsultan (CEO)",
+"url": "https://www.dnb.com/business-directory/company-profiles.smart_plus_co.36049126c688f99c8936bce033f0d6ca.html",
+"date": "2026-10-29"
+},
+{
+"what": "Hikvision Find a Distributor：Smartplus Co. LCC · Strategic National Distributor KSA · hello@smartplus.com.sa · +966 11 412 9 412",
+"url": "https://www.hikvision.com/en/Partners/channel-partners/find-a-distributor/",
 "date": "2026-10-29"
 }
 ],
@@ -11004,7 +11024,7 @@
 "verdict": "pool",
 "gate": 3,
 "rule": "G3",
-"reason": "○ ISP / WISP 渠道分销 20%：IT Warehouse Distribution Inc.（Quezon City Cubao, RedGold Building 1840 E. Rodriguez Sr. Ave；官网自述 MikroTik / Ubiquiti / RF elements / Ruijie / VSOL 分销，服务 ISP / WISP / SI / 经销商；business@itwarehouse.ph；(02) 7905-6052）官网 + 目录页部分坐实（SEC 号未查到 → 补证）→ SmartByte 管理型 + 光纤对位；SmartByte 子库来源；非主区 → 预付 100% 起步",
+"reason": "○ ISP / WISP 渠道分销 20%：IT Warehouse Distribution Inc.（Quezon City Cubao, RedGold Building 1840 E. Rodriguez Sr. Ave；官网自述 MikroTik / Ubiquiti / RF elements / Ruijie / VSOL 分销，服务 ISP / WISP / SI / 经销商；business@itwarehouse.ph；(02) 7905-6052）官网 + 目录页部分坐实（SEC 号未查到 → 补证）→ SmartByte 管理型 + 光纤对位；SmartByte 子库来源；非主区 → 预付 100% 起步｜补证 P2-02（2026-10-29）：bpoai.ai 名录：IT Warehouse Distribution Inc.，REDGOLD Building 1840 E Rodriguez Sr. Ave, Cubao, Quezon City 1102，+63 2 8277 7898（Google 评分 4.5 / 100）→ 地址二次印证、SEC 号仍无 → prepay 保留",
 "date": "2026-10-29",
 "manual": true,
 "repo": "CCTV-PoE",
@@ -11018,6 +11038,11 @@
 },
 {
 "what": "IT Warehouse Distribution Inc. · Quezon City · LinkedIn / YouTube / FB / IG 链接",
+"url": "https://bpoai.ai/directory/it-warehouse-distribution-inc",
+"date": "2026-10-29"
+},
+{
+"what": "bpoai.ai：IT Warehouse Distribution Inc. · REDGOLD Building 1840 E Rodriguez Sr. Ave Cubao QC 1102 · +63 2 8277 7898",
 "url": "https://bpoai.ai/directory/it-warehouse-distribution-inc",
 "date": "2026-10-29"
 }
