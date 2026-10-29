@@ -27,11 +27,11 @@ strong{color:#0a0a0a}
 </style>
 </head>
 <body>
-<p class="meta">生成 2026-10-29 15:56:57 UTC · 北京时间 2026-10-29 23:56 · 自包含 HTML（无外链、无脚本）· MD 同名同目录</p>
+<p class="meta">生成 2026-10-29 16:14:40 UTC · 北京时间 2026-10-30 00:14 · 自包含 HTML（无外链、无脚本）· MD 同名同目录</p>
 <h1>方法论 V2 · 像素级 SOP（剧本集）—— 给其他 Agent 一步一步对照着做</h1>
 <blockquote>
-<p><strong>生成时间戳</strong>：2026-10-29 15:56:57 UTC（北京时间 2026-10-29 23:56）｜仓库 <code>elsasaga-cloud/Planet</code> 分支 <code>arena/3f35b9b3-planet</code> @ <code>7987e617c</code>｜生成器 <code>scripts/sop_v2/build.py</code>（正文在 <code>scripts/sop_v2/parts/</code>，改 parts 重跑，不手改本文件）</p>
-<p><strong>这是什么</strong>：V1 <code>docs/方法论_全集_2026-10-27.md</code> 的操作版升级——V1 讲「为什么、怎么来的」，本书只讲「现在手怎么动」：每轮固定 <strong>S-00 开工 → 选剧本 → S-99 收工</strong>，25 个剧本（R01–R25）每个都是 编号步骤 + 可复制命令 + ✅ 预期输出 + ❓ 判定表 + 🔁 失败处理 + 📒 台账 + 🏁 完成标准，外加 判定表汇编 / 诊断树 / 禁区 / 质量门。命令与预期数字均为 2026-10-29 在仓库实跑所得。</p>
+<p><strong>生成时间戳</strong>：2026-10-29 16:14:40 UTC（北京时间 2026-10-30 00:14）｜仓库 <code>elsasaga-cloud/Planet</code> 分支 <code>arena/3f35b9b3-planet</code> @ <code>6e839807d</code>｜生成器 <code>scripts/sop_v2/build.py</code>（正文在 <code>scripts/sop_v2/parts/</code>，改 parts 重跑，不手改本文件）</p>
+<p><strong>这是什么</strong>：《方法论全集》（<code>docs/方法论_全集_2026-10-29.md</code>，讲怎么工作、怎么分析、每法怎么来的）的<strong>命令级操作附录</strong>——方法论讲「为什么、怎么想」，本书只讲「现在手怎么动」：每轮固定 <strong>S-00 开工 → 选剧本 → S-99 收工</strong>，25 个剧本（R01–R25）每个都是 编号步骤 + 可复制命令 + ✅ 预期输出 + ❓ 判定表 + 🔁 失败处理 + 📒 台账 + 🏁 完成标准，外加 判定表汇编 / 诊断树 / 禁区 / 质量门。命令与预期数字均为 2026-10-29 在仓库实跑所得。</p>
 <p><strong>读者</strong>：接手本仓库的任何 Agent（包括能力一般的）。前提：先读 <code>docs/Saga全景信息包_给其他Agent_2026-10-29.md</code> 知道 Saga 是谁，再用本书干活。本书不含进价 / 邮箱等敏感事实，但整体仍属内部文档。</p>
 </blockquote>
 <h2>目录</h2>
@@ -93,7 +93,7 @@ strong{color:#0a0a0a}
 </li>
 <li>
 <ol start="11">
-<li>与 V1 的关系、本书如何更新、待补剧本</li>
+<li>与《方法论全集》的关系、本书如何更新、待补剧本</li>
 </ol>
 </li>
 <li>
@@ -248,7 +248,7 @@ strong{color:#0a0a0a}
 <hr />
 <h2>0. 这本书怎么读（30 秒）</h2>
 <ul>
-<li><strong>V1</strong>（<code>docs/方法论_全集_2026-10-27.md</code>）讲「为什么这么做、每个方法怎么诞生的」；<strong>V2（本书）只讲「现在照着做」</strong>：每个剧本都是编号步骤 + 可复制命令 + 预期输出 + 失败处理 + 完成标准。两本都保留，V2 与 V1 冲突时以 V2 为准（V2 更新）。</li>
+<li><strong>方法论全集</strong>（<code>docs/方法论_全集_2026-10-29.md</code>，初版 10-27 保留）讲「怎么工作、怎么分析、每个方法为什么这么做、怎么诞生的」——那是正本；<strong>本书只是它的命令级附录，只讲「现在照着做」</strong>：每个剧本都是编号步骤 + 可复制命令 + 预期输出 + 失败处理 + 完成标准。判断类问题以方法论为准，命令类以本书为准。</li>
 <li>事实类信息（Saga 是谁、卖什么、价格、口径、客户数字）<strong>不在本书</strong>，去读 <code>docs/Saga全景信息包_给其他Agent_2026-10-29.md</code>。本书只管「手怎么动」。</li>
 <li>符号：<strong>▶</strong> 要敲的命令 ｜ <strong>✅</strong> 正常时你应该看到什么 ｜ <strong>❓</strong> 判定（查表）｜ <strong>🔁</strong> 失败了怎么办 ｜ <strong>📒</strong> 必须写的台账 ｜ <strong>⛔</strong> 绝对禁止 ｜ <strong>🏁</strong> 完成标准（Definition of Done）。</li>
 <li>规则：<strong>步骤不能跳、不能换顺序</strong>；每一步的 ✅ 没出现就停下走 🔁，不要「大概没问题」继续；任何「我觉得可以改一下流程」的念头 → 先按原流程做完，再把建议写进 Q 清单。</li>
@@ -1667,10 +1667,11 @@ git ls-remote origin arena/3f35b9b3-planet | cut -c1-12
 <pre><code>grep -ciE &quot;list price|in stock|free sample|trading company|oem factory|ndaa|taa|general agent|we manufacture|marvell ecosystem|sonic|onie|cheap|best price|leading manufacturer&quot; &lt;文件&gt;
 </code></pre>
 <hr />
-<h2>11. 与 V1 的关系、本书如何更新、待补剧本</h2>
+<h2>11. 与《方法论全集》的关系、本书如何更新、待补剧本</h2>
 <ul>
 <li><strong>V1 = <code>docs/方法论_全集_2026-10-27.md</code></strong>（42 KB，2026-10-27 10:34Z @ <code>d9d20f297</code>）：按「解决什么 → 怎么做 → 坑 → 文件 → 诞生」讲了 A1–A6 入库 / B1–B4 客户库 / C1–C7 加厚 / D1–D3 对外 / E1–E5 基础设施 / F / G + 开工十条。它停在 10-27 的公司底数轮，<strong>没有</strong>：C 池三闸、P 池、长期客户群（Q-76 / Q-77）、A/B v5、External / Planet 同尺、LT-R 复核规则、快照 → 加厚、缺口盘点、Actions ALL / cron、全景信息包、本书。</li>
-<li><strong>V2 = 本书</strong>：只写「现在怎么做」。V1 继续作为历史与原理读物；本书引用到的方案细节以原方案文档为准（<code>docs/C池三闸筛选_方案_2026-10-29.md</code>、<code>docs/长期客户群_方案与复核_2026-10-29.md</code>、<code>docs/AB判定_新标准_讨论稿_2026-10-29.md</code>、<code>docs/公司底数_作业规程.md</code>、<code>docs/methodology/死路与死链备案.md</code>、<code>docs/教程_云盘大文件入库管道_给其他Agent_2026-10-24.md</code>）。</li>
+<li><strong>《方法论全集》2026-10-29 增补版</strong>（<code>docs/方法论_全集_2026-10-29.md</code>）= 正本：在 V1 之上加了 §Ⅰ 思维方法 M1–M14 与 20 个新法（A7 / B5–B8 / C8–C13 / D4–D5 / E6–E10），讲「怎么想、为什么」。</li>
+<li><strong>本书 = 它的命令级附录</strong>：只写「现在怎么做」。V1 继续作为历史与原理读物；本书引用到的方案细节以原方案文档为准（<code>docs/C池三闸筛选_方案_2026-10-29.md</code>、<code>docs/长期客户群_方案与复核_2026-10-29.md</code>、<code>docs/AB判定_新标准_讨论稿_2026-10-29.md</code>、<code>docs/公司底数_作业规程.md</code>、<code>docs/methodology/死路与死链备案.md</code>、<code>docs/教程_云盘大文件入库管道_给其他Agent_2026-10-24.md</code>）。</li>
 <li><strong>怎么更新本书</strong>：改 <code>scripts/sop_v2/parts/s1–s4.md</code> → <code>python3 scripts/sop_v2/build.py</code> → 新日期产出新文件（旧日期文件保留）。每当一个剧本的命令 / 预期输出 / 判定变了，就在同一轮更新对应 part（否则下一个 agent 会照着错的做）。</li>
 <li><strong>待补剧本</strong>（出现新流程时在此登记再写正文）：R26 PI / 成单录入（<code>data/pi_orders/*.csv</code> + 毛利复盘）；R27 供应商价表更生成（<code>pricing.py</code> / <code>pricing_hrui.py</code> + 汇率）；R28 C 池三闸再筛（<code>sieve.py --gate0 / --queue</code>，当前已筛完，下轮新 C 进来再跑）；R29 全景信息包更新（<code>scripts/saga_intro/parts</code> + build）。</li>
 </ul>
