@@ -71,7 +71,7 @@ updated: 2026-10-29
 
 > 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
 
-**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
 
 - `aetektec.com` → Trend Micro 网关（MX：deltaww.in.tmes.trendmicro.com）。企业级邮件网关（Trend Micro 网关）：链接重写 + 附件沙箱 → 像素失效、附件常被隔离，冷邮件到达率最低；这户靠回原线程 / LinkedIn / 对方来信，不靠新开线程群发
 

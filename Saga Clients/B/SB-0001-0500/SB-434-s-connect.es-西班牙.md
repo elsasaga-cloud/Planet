@@ -71,9 +71,10 @@ updated: 2026-10-29
 
 > 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
 
-**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
 
-- `s-connect.es` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、alt3.aspmx.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+- `s-connect.es` → 无 MX（只有 A 记录 109.234.165.166）。无 MX 记录：收信只能靠 A 记录兜底，多数邮件服务器不接 → 这个域的地址大概率退信，先走该户别的渠道（WhatsApp / 平台 / 别的域）
+- ⚠ 手里这些地址所在的域已收不了信：`comercial@s-connect.es`、`nicolas@s-connect.es` → 作废，别再发；该户若无其他域名 / 渠道，列入降级候选
 
 **假日避让（西班牙 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
 

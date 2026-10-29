@@ -71,7 +71,7 @@ updated: 2026-10-29
 
 > 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
 
-**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
 
 - `pro.onet.pl` → 自建 / 同域名邮件服务器（MX：mx.poczta.onet.pl）。自建邮件服务器：有自己的 IT（可能灰名单 → 首封延迟几小时才进箱），像素可用；读信的是技术人，参数先于价格
 

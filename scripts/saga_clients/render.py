@@ -436,6 +436,19 @@ def load_digest():
 
 SITE = load_digest()
 
+
+def load_sieve():
+    """T29-U117：C 池三闸筛选状态（data/saga_clients/sieve.json）。pass_final = 永久 pass，MD 顶部挂横幅。"""
+    p = os.path.join(DATA, 'sieve.json')
+    if not os.path.exists(p):
+        return {}
+    d = json.load(open(p, encoding='utf-8'))
+    return {k: v for k, v in d.items() if k != '_meta'}
+
+
+SIEVE = load_sieve()
+SIEVE_LABEL = {'pass_final': '⛔ 已过筛 · 永久 pass', 'keep_C': '留 C 储备', 'candidate': '闸 2 候选', 'pool_candidate': 'P 池候选'}
+
 # 兴趣 → Saga 主推（型号, 场景说明）
 P1_RULES = [
     (r'48', 'STC-448DGGPM', '48 口 PoE 走量款'),
@@ -1482,12 +1495,22 @@ def render_one(ent):
     lines.append('')
     lines.append(f'> **评级 {g}**　|　{ent["country"]}　|　档案编号 `{code}`　|　优先级 {stars(g)}　|　状态：{ent["status"]}')
     lines.append('>')
+    sv = SIEVE.get(code)
+    if sv:
+        lab = SIEVE_LABEL.get(sv.get('verdict'), sv.get('verdict'))
+        if sv.get('verdict') == 'pass_final':
+            lines.append(f"> **{lab}**（闸 {sv.get('gate')} · {sv.get('rule')} · {sv.get('date')}）：{sv.get('reason')} —— 不再加厚 / 不群发 / 不监控 / 不进日历；撤销只在客户主动找上门时由 Simon 拍板（`data/saga_clients/sieve.json`）。")
+        else:
+            lines.append(f"> **C 池筛选：{lab}**（闸 {sv.get('gate')} · {sv.get('date')}）：{sv.get('reason')}")
+        lines.append('>')
     lines.append(f'> **类型**：{typ}（推断）　|　**历史关系**：{"；".join(rel)}　|　**所在清单**：{tags_short}　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）')
     lines.append('')
     lines.append('```yaml structured_profile')
     lines.append(f'code: {code}')
     lines.append(f'rating: {g}')
     lines.append(f'rating_auto: {ent["grade_auto"]}')
+    if SIEVE.get(code):
+        lines.append(f"sieve: {SIEVE[code].get('verdict')}  # 闸 {SIEVE[code].get('gate')} {SIEVE[code].get('rule')} {SIEVE[code].get('date')}")
     if rs.get('grade_override'):
         lines.append(f'rating_research: {rs["grade_override"]}  # {rs.get("override_reason", "")[:80]}')
     if rs.get('name_official'):
@@ -1889,10 +1912,16 @@ def write_readme(ents, index):
         else:
             L.append(f'全部 {len(index[g])} 个档案见 `Saga Clients/{g}/_索引.md`（编号 / 公司 / 国家 / 状态 / 分数 / 文件名）。')
             with open(os.path.join(OUT_DIR, g, '_索引.md'), 'w', encoding='utf-8') as f:
-                f.write(f'# {g} 级索引（{len(index[g])}）\n\n| 编号 | 公司 | 国家 | 状态 | 分数 | C级细分 | 档案 |\n|---|---|---|---|---|---|---|\n')
+                f.write(f'# {g} 级索引（{len(index[g])}）\n\n')
+                n_pass = sum(1 for e, _ in index[g] if (SIEVE.get(e['code']) or {}).get('verdict') == 'pass_final')
+                if g == 'C' and SIEVE:
+                    f.write(f'> C 池三闸筛选（`docs/C池三闸筛选_方案_2026-10-29.md`）：⛔ 永久 pass {n_pass} 户（状态列前缀 ⛔），其余待闸 1 / 已判留 C / 候选见 `data/saga_clients/sieve.json`。\n\n')
+                f.write('| 编号 | 公司 | 国家 | 状态 | 分数 | C级细分 | 档案 |\n|---|---|---|---|---|---|---|\n')
                 for e, fn in sorted(index[g], key=lambda x: x[0]['code']):
                     rel = (sub_dir(e['code'], g) + '/' + fn) if sub_dir(e['code'], g) else fn
-                    f.write(f"| {e['code']} | {md_escape(e['name'])} | {e['country']} | {e['status']} | {e['score']} | {e['c_sub']} | [{fn}]({rel.replace(' ', '%20')}) |\n")
+                    sv = SIEVE.get(e['code']) or {}
+                    st = ('⛔ ' if sv.get('verdict') == 'pass_final' else ('☆ ' if sv.get('verdict') in ('candidate', 'pool_candidate') else '')) + e['status']
+                    f.write(f"| {e['code']} | {md_escape(e['name'])} | {e['country']} | {st} | {e['score']} | {e['c_sub']} | [{fn}]({rel.replace(' ', '%20')}) |\n")
         L.append('')
     with open(os.path.join(OUT_DIR, 'README.md'), 'w', encoding='utf-8') as f:
         f.write('\n'.join(L) + '\n')

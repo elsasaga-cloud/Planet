@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 4
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -98,7 +98,7 @@ updated: 2026-10-28
 
 > 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
 
-**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
 
 - `impakt.com.pl` → Barracuda 网关（MX：d77696a.ess.barracudanetworks.com、d77696b.ess.barracudanetworks.com）。企业级邮件网关（Barracuda 网关）：链接重写 + 附件沙箱 → 像素失效、附件常被隔离，冷邮件到达率最低；这户靠回原线程 / LinkedIn / 对方来信，不靠新开线程群发
 
@@ -385,12 +385,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-11**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 A，分数 74）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 A，分数 74）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

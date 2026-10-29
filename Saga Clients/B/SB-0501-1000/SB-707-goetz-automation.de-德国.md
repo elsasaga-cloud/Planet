@@ -69,7 +69,7 @@ updated: 2026-10-29
 
 > 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
 
-**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
 
 - `goetz-automation.de` → IONOS 主机邮箱（MX：mx00.ionos.de、mx01.ionos.de）。主机商附带邮箱（IONOS 主机邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 

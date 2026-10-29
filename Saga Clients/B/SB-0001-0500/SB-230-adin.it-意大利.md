@@ -80,7 +80,7 @@ updated: 2026-10-29
 
 > 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
 
-**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
 
 - `adin.it` → 无 MX（只有 A 记录 165.227.244.46）。无 MX 记录：收信只能靠 A 记录兜底，多数邮件服务器不接 → 这个域的地址大概率退信，先走该户别的渠道（WhatsApp / 平台 / 别的域）
 - `ad-in.net` → Microsoft 365（MX：adin-net0e.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件

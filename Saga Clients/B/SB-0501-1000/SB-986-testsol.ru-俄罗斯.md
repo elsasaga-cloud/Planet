@@ -70,7 +70,7 @@ updated: 2026-10-29
 
 > 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
 
-**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
 
 - `testsol.ru` → 俄罗斯主机商邮箱（MX：mx1.hosting.reg.ru、mx2.hosting.reg.ru）。俄语区云邮箱（俄罗斯主机商邮箱）：Gmail 投递正常，但制裁环境下美元汇路和 PayPal 常走不通 → 报价前先问付款银行 / 币种，T/T 以外别承诺
 

@@ -135,7 +135,7 @@ updated: 2026-10-29
 
 > 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
 
-**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
 
 - `vilinknet.com` → 主机商 cPanel 类邮箱（MX：mail.vilinknet.com）。主机商附带邮箱（主机商 cPanel 类邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 - `vi-link.net` → 无 MX（只有 A 记录 162.241.253.135）。无 MX 记录：收信只能靠 A 记录兜底，多数邮件服务器不接 → 这个域的地址大概率退信，先走该户别的渠道（WhatsApp / 平台 / 别的域）

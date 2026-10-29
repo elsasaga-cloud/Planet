@@ -66,9 +66,10 @@ updated: 2026-10-29
 
 > 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
 
-**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
 
-- `arcanlibya.com` → 其他主机商邮箱（mx1.secure.ly）（MX：mx1.secure.ly、mx2.secure.ly、mx3.secure.ly、mx4.secure.ly）。主机商附带邮箱（mx1.secure.ly）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+- `arcanlibya.com` → 无 MX 无 A。域名无 MX 也无 A 记录：收不了信也打不开网站 → 地址作废，降级候选
+- ⚠ 手里这些地址所在的域已收不了信：`info@arcanlibya.com` → 作废，别再发；该户若无其他域名 / 渠道，列入降级候选
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 

@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 4
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -94,12 +94,13 @@ updated: 2026-10-28
 
 > 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
 
-**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
 
 - `casecomms.com` → Hostinger / Titan（MX：mx1.titan.email、mx2.titan.email）。主机商附带邮箱（Hostinger / Titan）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
-- `uk.com` → 印度 / 亚洲主机商邮箱（MX：mx-01.emailme.com）。主机商附带邮箱（印度 / 亚洲主机商邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 - `case.uk.com` → Hostinger / Titan（MX：mx1.titan.email、mx2.titan.email）。主机商附带邮箱（Hostinger / Titan）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
-- `foscam.uk.com` → Microsoft 365（MX：foscam-uk-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+- `foscam.uk.com` → 无 MX（只有 A 记录 76.223.67.189/13.248.213.45）。无 MX 记录：收信只能靠 A 记录兜底，多数邮件服务器不接 → 这个域的地址大概率退信，先走该户别的渠道（WhatsApp / 平台 / 别的域）
+- ⚠ 手里这些地址所在的域已收不了信：`sales@foscam.uk.com` → 作废，别再发；该户若无其他域名 / 渠道，列入降级候选
+- 其他域名仍活：`casecomms.com`、`case.uk.com` → 只用这些域的地址
 
 **假日避让（英国 · 按下一步「2027-Q1」窗口 2027-01-01→2027-03-31）：**
 
@@ -403,12 +404,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 B，分数 40）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 B，分数 40）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

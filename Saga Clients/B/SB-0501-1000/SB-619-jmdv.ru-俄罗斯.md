@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -75,7 +75,7 @@ updated: 2026-10-28
 
 > 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
 
-**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
 
 - `jmdv.ru` → 俄罗斯主机商邮箱（MX：mx1.beget.com、mx2.beget.com）。俄语区云邮箱（俄罗斯主机商邮箱）：Gmail 投递正常，但制裁环境下美元汇路和 PayPal 常走不通 → 报价前先问付款银行 / 币种，T/T 以外别承诺
 
@@ -324,12 +324,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 35）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 35）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

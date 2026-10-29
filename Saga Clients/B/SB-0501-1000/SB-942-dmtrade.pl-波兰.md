@@ -78,7 +78,7 @@ updated: 2026-10-29
 
 > 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
 
-**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
 
 - `dmtrade.pl` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、alt3.aspmx.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
 - `cudy.com` → 中国邮箱（腾讯企业 / 阿里 / 网易）（MX：mx1.qiye.aliyun.com、mx2.qiye.aliyun.com、mx3.qiye.aliyun.com）。中国邮箱（腾讯企业 / 阿里 / 网易）：注册方在国内（或用国内邮箱的海外华人）→ 直接中文沟通，走国内规则（《计划》：国内单子只走私账）

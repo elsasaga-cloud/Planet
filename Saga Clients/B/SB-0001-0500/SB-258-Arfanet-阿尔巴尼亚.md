@@ -25,7 +25,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -67,7 +67,7 @@ updated: 2026-10-28
 
 > 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
 
-**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
 
 - `arfanet.al` → 同域名 MX → 托管在 pragmatic.al（MX：mail.arfanet.al）。主机商附带邮箱（同域名 MX → 托管在 pragmatic.al）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
@@ -332,12 +332,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 48）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 48）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

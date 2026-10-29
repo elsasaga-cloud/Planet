@@ -68,7 +68,7 @@ updated: 2026-10-29
 
 > 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
 
-**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
 
 - `integranetwork.es` → 同域名 MX → 托管在 servidor.hosting（MX：integranetwork.es）。主机商附带邮箱（同域名 MX → 托管在 servidor.hosting）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 - `integra-nes.es` → 其他主机商邮箱（mx.serviciodecorreo.es）（MX：mx.serviciodecorreo.es）。主机商附带邮箱（mx.serviciodecorreo.es）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题

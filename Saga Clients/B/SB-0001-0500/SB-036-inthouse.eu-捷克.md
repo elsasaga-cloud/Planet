@@ -70,7 +70,7 @@ updated: 2026-10-29
 
 > 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
 
-**邮箱域体检（DNS MX / A，2026-10-27 查）：**
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
 
 - `inthouse.eu` → Zoho Mail（MX：mx.zoho.com、mx2.zoho.com）。中小企业云邮箱（Zoho Mail）：过滤中等、像素一般可用；这类公司邮箱通常老板或销售本人收，信要短、带型号和一口价
 

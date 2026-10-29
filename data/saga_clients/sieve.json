@@ -1,0 +1,1130 @@
+{
+ "_meta": {
+  "updated": "2026-10-29",
+  "rules": "docs/C池三闸筛选_方案_2026-10-29.md §2",
+  "counts": {
+   "pass_final": 160
+  },
+  "n": 160
+ },
+ "SC-1358": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-2",
+  "reason": "表记发不过去 / 退信；isyslan.com NXDOMAIN；无电话、无 WA",
+  "date": "2026-10-29"
+ },
+ "SC-1384": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-2",
+  "reason": "表记发不过去 / 退信；rtccuae.com NXDOMAIN；无电话、无 WA",
+  "date": "2026-10-29"
+ },
+ "SC-1557": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-2",
+  "reason": "表记发不过去 / 退信；elcomp.am DEAD；无电话、无 WA",
+  "date": "2026-10-29"
+ },
+ "SC-1563": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-2",
+  "reason": "表记发不过去 / 退信；praxis-cctv.ru DEAD；无电话、无 WA",
+  "date": "2026-10-29"
+ },
+ "SC-1751": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-2",
+  "reason": "表记发不过去 / 退信；growmoreautomation.com NXDOMAIN；无电话、无 WA",
+  "date": "2026-10-29"
+ },
+ "SC-1842": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-2",
+  "reason": "表记发不过去 / 退信；comfastghana.com NXDOMAIN；无电话、无 WA",
+  "date": "2026-10-29"
+ },
+ "SC-1893": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-2",
+  "reason": "表记发不过去 / 退信；fx3networks.com NXDOMAIN；无电话、无 WA",
+  "date": "2026-10-29"
+ },
+ "SC-2119": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-2",
+  "reason": "表记发不过去 / 退信；etqan-tech.ly NXDOMAIN；无电话、无 WA",
+  "date": "2026-10-29"
+ },
+ "SC-2173": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-2",
+  "reason": "表记发不过去 / 退信；abint.vn NXDOMAIN；无电话、无 WA",
+  "date": "2026-10-29"
+ },
+ "SC-2182": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-2",
+  "reason": "表记发不过去 / 退信；g-link.vn NXDOMAIN；无电话、无 WA",
+  "date": "2026-10-29"
+ },
+ "SC-2185": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-2",
+  "reason": "表记发不过去 / 退信；hiwatch-ds.ru DEAD；无电话、无 WA",
+  "date": "2026-10-29"
+ },
+ "SC-2191": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-2",
+  "reason": "表记发不过去 / 退信；mitoshi.vn NXDOMAIN；无电话、无 WA",
+  "date": "2026-10-29"
+ },
+ "SC-2218": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-2",
+  "reason": "表记发不过去 / 退信；asd.co.th NXDOMAIN；无电话、无 WA",
+  "date": "2026-10-29"
+ },
+ "SC-2470": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-2",
+  "reason": "表记发不过去 / 退信；lebowanet.co.za NXDOMAIN；无电话、无 WA",
+  "date": "2026-10-29"
+ },
+ "SC-2489": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-2",
+  "reason": "表记发不过去 / 退信；giant-technologies.net DEAD；无电话、无 WA",
+  "date": "2026-10-29"
+ },
+ "SC-2529": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-2",
+  "reason": "表记发不过去 / 退信；smartco-rdc.com NXDOMAIN；无电话、无 WA",
+  "date": "2026-10-29"
+ },
+ "SC-2541": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-3",
+  "reason": "表记「已加 拉黑了」—— 关系已断死",
+  "date": "2026-10-29"
+ },
+ "SC-2553": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-3",
+  "reason": "表记「60-11-6399-6451 拉黑了」—— 关系已断死",
+  "date": "2026-10-29"
+ },
+ "SC-2557": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-2667": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-2683": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-3",
+  "reason": "表记「'+7 905 5805060  拉黑了」—— 关系已断死",
+  "date": "2026-10-29"
+ },
+ "SC-2756": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-2",
+  "reason": "表记发不过去 / 退信；polfib.store NXDOMAIN；无电话、无 WA",
+  "date": "2026-10-29"
+ },
+ "SC-2821": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-3",
+  "reason": "表记「95193 66849 拉黑了」—— 关系已断死",
+  "date": "2026-10-29"
+ },
+ "SC-2835": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-3",
+  "reason": "表记「’98-93746 71881  拉黑了」—— 关系已断死",
+  "date": "2026-10-29"
+ },
+ "SC-2858": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-3",
+  "reason": "邮箱 asdsd@gmail.com 明显假 + 表记「邮件发不过去 垃圾询盘」",
+  "date": "2026-10-29"
+ },
+ "SC-2864": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-2",
+  "reason": "表记发不过去 / 退信；iscore.co.kr NXDOMAIN；无电话、无 WA",
+  "date": "2026-10-29"
+ },
+ "SC-2877": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-3",
+  "reason": "表记「拉黑了」—— 关系已断死",
+  "date": "2026-10-29"
+ },
+ "SC-2878": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-3",
+  "reason": "表记「‘7-747-123 3285  拉黑了」—— 关系已断死",
+  "date": "2026-10-29"
+ },
+ "SC-2884": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-2",
+  "reason": "表记发不过去 / 退信；xmsec.ru NXDOMAIN；无电话、无 WA",
+  "date": "2026-10-29"
+ },
+ "SC-2897": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "仅有公司 / 人名，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-2900": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-3",
+  "reason": "表记「'+216 98 700126  拉黑了」—— 关系已断死",
+  "date": "2026-10-29"
+ },
+ "SC-2910": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-3",
+  "reason": "表记「09704 52350 已加 拉黑了」—— 关系已断死",
+  "date": "2026-10-29"
+ },
+ "SC-2928": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-3",
+  "reason": "号码 966-55-12345678 明显假 + 加不上 + 表记「有点像垃圾询盘」",
+  "date": "2026-10-29"
+ },
+ "SC-2933": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-3",
+  "reason": "表记「'48-5123 06240 拉黑了」—— 关系已断死",
+  "date": "2026-10-29"
+ },
+ "SC-2935": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-3",
+  "reason": "表记「0179881 9575  拉黑了」—— 关系已断死",
+  "date": "2026-10-29"
+ },
+ "SC-2951": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-2",
+  "reason": "表记发不过去 / 退信；superplrar.life NXDOMAIN、examfreevs.com NXDOMAIN；无电话、无 WA",
+  "date": "2026-10-29"
+ },
+ "SC-2952": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-2",
+  "reason": "表记发不过去 / 退信；usa-ssc.com NXDOMAIN；无电话、无 WA",
+  "date": "2026-10-29"
+ },
+ "SC-2995": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-2",
+  "reason": "表记发不过去 / 退信；cctvkingdom.com NXDOMAIN；无电话、无 WA",
+  "date": "2026-10-29"
+ },
+ "SC-3008": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-2",
+  "reason": "表记发不过去 / 退信；lcsi.com.tw NXDOMAIN；无电话、无 WA",
+  "date": "2026-10-29"
+ },
+ "SC-3013": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-2",
+  "reason": "表记发不过去 / 退信；pg-link.com NXDOMAIN；无电话、无 WA",
+  "date": "2026-10-29"
+ },
+ "SC-3021": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-2",
+  "reason": "表记发不过去 / 退信；bilimtek.com.tr NXDOMAIN；无电话、无 WA",
+  "date": "2026-10-29"
+ },
+ "SC-3025": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-2",
+  "reason": "表记发不过去 / 退信；tekeir.com NXDOMAIN；无电话、无 WA",
+  "date": "2026-10-29"
+ },
+ "SC-3048": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-3",
+  "reason": "表记「'+20 106 000 9033  拉黑了 | co」—— 关系已断死",
+  "date": "2026-10-29"
+ },
+ "SC-3055": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-3",
+  "reason": "表记「@hubnetix.com | remark=被拉黑了」—— 关系已断死",
+  "date": "2026-10-29"
+ },
+ "SC-3056": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-2",
+  "reason": "表记发不过去 / 退信；icpdatatec.com NXDOMAIN；无电话、无 WA",
+  "date": "2026-10-29"
+ },
+ "SC-3074": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-2",
+  "reason": "表记发不过去 / 退信；ultimode.pt NXDOMAIN；无电话、无 WA",
+  "date": "2026-10-29"
+ },
+ "SC-3083": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-3",
+  "reason": "表记「'+44 793 0601104  拉黑了 | re」—— 关系已断死",
+  "date": "2026-10-29"
+ },
+ "SC-3119": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-3",
+  "reason": "表记「拉黑了」—— 关系已断死",
+  "date": "2026-10-29"
+ },
+ "SC-3121": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-2",
+  "reason": "表记发不过去 / 退信；genstarnetcable.com NXDOMAIN；无电话、无 WA",
+  "date": "2026-10-29"
+ },
+ "SC-3172": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-3",
+  "reason": "表记「51 - 9676 77156 已加  拉黑了」—— 关系已断死",
+  "date": "2026-10-29"
+ },
+ "SC-3174": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-3",
+  "reason": "表记「已加 拉黑了」—— 关系已断死",
+  "date": "2026-10-29"
+ },
+ "SC-3194": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-3",
+  "reason": "表记「mbedded.co.uk | remark=被拉黑了」—— 关系已断死",
+  "date": "2026-10-29"
+ },
+ "SC-3221": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-2",
+  "reason": "表记发不过去 / 退信；pttic.com.vn NXDOMAIN；无电话、无 WA",
+  "date": "2026-10-29"
+ },
+ "SC-3233": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-2",
+  "reason": "表记发不过去 / 退信；fonotex.es NXDOMAIN；无电话、无 WA",
+  "date": "2026-10-29"
+ },
+ "SC-3242": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-3",
+  "reason": "表记「‘+30 697 62 63116  拉黑了」—— 关系已断死",
+  "date": "2026-10-29"
+ },
+ "SC-3247": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-2",
+  "reason": "表记发不过去 / 退信；jotronix.com NXDOMAIN；无电话、无 WA",
+  "date": "2026-10-29"
+ },
+ "SC-3251": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-2",
+  "reason": "表记发不过去 / 退信；architech.co.zm NXDOMAIN；无电话、无 WA",
+  "date": "2026-10-29"
+ },
+ "SC-3253": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-2",
+  "reason": "表记发不过去 / 退信；bkcthailand.com NXDOMAIN；无电话、无 WA",
+  "date": "2026-10-29"
+ },
+ "SC-3254": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-3",
+  "reason": "表记「| contact=813 446 4879  拉黑了」—— 关系已断死",
+  "date": "2026-10-29"
+ },
+ "SC-3259": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-3",
+  "reason": "表记「company=拉黑了 | co」—— 关系已断死",
+  "date": "2026-10-29"
+ },
+ "SC-3260": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "仅有公司 / 人名，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3261": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-3",
+  "reason": "表记「company=拉黑了 | co」—— 关系已断死",
+  "date": "2026-10-29"
+ },
+ "SC-3262": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "仅有公司 / 人名，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3268": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-2",
+  "reason": "表记发不过去 / 退信；dnetshop.com DEAD；无电话、无 WA",
+  "date": "2026-10-29"
+ },
+ "SC-3271": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "仅有公司 / 人名，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3272": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-3",
+  "reason": "表记「=亚美尼亚 | person=Arthur   拉黑了 | fr」—— 关系已断死",
+  "date": "2026-10-29"
+ },
+ "SC-3273": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-3",
+  "reason": "表记「Director  都被拉黑了 | fr」—— 关系已断死",
+  "date": "2026-10-29"
+ },
+ "SC-3274": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "仅有公司 / 人名，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3275": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "仅有公司 / 人名，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3277": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "仅有公司 / 人名，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3280": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "仅有公司 / 人名，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3285": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "仅有公司 / 人名，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3288": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "仅有公司 / 人名，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3291": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "仅有公司 / 人名，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3296": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "仅有公司 / 人名，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3300": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-3",
+  "reason": "表记「person=Nancy Khoury  拉黑了 | fr」—— 关系已断死",
+  "date": "2026-10-29"
+ },
+ "SC-3304": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "仅有公司 / 人名，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3306": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "仅有公司 / 人名，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3309": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-3",
+  "reason": "表记「拉黑了」—— 关系已断死",
+  "date": "2026-10-29"
+ },
+ "SC-3312": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-3",
+  "reason": "表记「y=印度尼西亚 | person=Farji  拉黑了 | fr」—— 关系已断死",
+  "date": "2026-10-29"
+ },
+ "SC-3313": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "仅有公司 / 人名，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3327": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3328": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3330": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3331": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3332": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3333": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3334": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3335": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3336": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3337": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3338": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3339": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3340": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3341": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3342": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3343": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3344": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3345": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3346": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3347": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3348": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3349": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3350": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3351": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3352": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3354": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3355": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3356": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3357": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3358": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3359": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3360": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3361": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3362": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3363": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3364": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3365": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3366": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3367": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3368": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3369": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3370": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3371": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3372": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3373": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3374": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3375": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3376": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3377": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3378": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3379": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3380": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3381": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3382": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3383": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3384": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3385": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3386": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3387": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3388": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3389": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3390": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3391": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3392": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3393": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3394": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3395": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3396": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3397": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3398": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3399": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3400": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3401": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3402": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3403": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3404": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3405": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3406": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ },
+ "SC-3407": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-1",
+  "reason": "表内无名 / 注释行，原始行全文无邮箱、电话、网址、微信等任何联系线索",
+  "date": "2026-10-29"
+ }
+}
