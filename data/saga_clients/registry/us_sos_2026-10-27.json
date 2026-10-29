@@ -4,7 +4,7 @@
   "source": "USA · 州务卿登记 / OpenCorporates",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 157
+  "count": 159
  },
  "rows": {
   "SA-002": {
@@ -5248,6 +5248,67 @@
    ],
    "notes": "OEM 30%；P 池候选 ★（品牌商自有工业线 = 目标顺位 1；中型非巨头）；坐实（名录三源一致）。",
    "code": "SC-503"
+  },
+  "SC-562": {
+   "batch": 128,
+   "name": "Baltic Networks（balticnetworks.com；**rocketreach / leadiq / cbinsights：2200 Ogden Ave Suite 100, Lisle, IL 60532；2005 年创立；约 9 人；营收估 $6M；面向 WISP / 集成商的增值分销 + 工程服务，50+ 厂牌 5,000 SKU（路由 / 交换 / 天线 / 回传 / 光纤）；(630) 929-3610**）；表内：很多牌子、工业 FS / SFP；9 推 0 回",
+   "iso": "US",
+   "fetched": "2026-10-29",
+   "source": "US · 1 次检索：rocketreach（地址 / 2005 / 9 人 / $6M）+ leadiq（定位 / 50+ 厂牌）+ cbinsights；IL SoS 未取；2026-10-29",
+   "url": "https://leadiq.com/c/baltic-networks/5a1d9dd82300005a008dbfdb",
+   "number": "未取（IL SoS 未查）",
+   "status": "营业中（名录 2024 更新）",
+   "incorporated": "2005",
+   "company_type": "Inc. / LLC（推定）",
+   "sic": [
+    "WISP 无线 / 网络增值分销（芝加哥西郊）"
+   ],
+   "address": "2200 Ogden Ave Suite 100, Lisle, IL 60532",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型 / 小型（约 9；$6M）",
+   "officers": [
+    "Laura Tomasello — Customer Service Manager & Sales Support（RocketReach）",
+    "（hello@ / support@balticnetworks.com 表内）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**WISP 分销 → 分销 20%：一页纸一次（STI-154GP 工业 PoE 塔上 + STC-228GP + STC-110XGE MC + MOQ 1 + 付费样机）— 北美常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳 / DAP（买方清关）；周三 08–10 当地**"
+   ],
+   "notes": "分销 20%；P 池候选 ○（主区分销主体 + 对位 + 坐实（名录）= 冷户四条）；部分坐实（IL SoS 未取）。",
+   "code": "SC-562"
+  },
+  "SC-634": {
+   "batch": 128,
+   "name": "New Tech Industries, Inc.（newtechindustries.com / newtechind.com；**Crunchbase：Davie, Florida；11–50 人；制造 + 分销电信 / 网络 / 光纤 / 视频 / 散装线缆；官网产品页：自有品牌「New Tech Industries」工业 PoE DIN 导轨交换机 NT408-2P（8 口千兆 240W 2 SFP -40～75 ℃）、NT404-1 等 = 自有型号贴牌；同时在售 TRENDnet TI-PG80 / TI-G50 / TI-G80**）；表内：Wi-Tek 的也有、比较多外壳；harry@ / jim@ / subhanshu@ 三具名；18 推全退信但两域 MX 正常",
+   "iso": "US",
+   "fetched": "2026-10-29",
+   "source": "US · 1 次检索：newtechindustries.com 产品页 ×2（自有品牌型号 NT408-2P / NT404-1）+ crunchbase（法人名 / Davie FL / 11–50）；FL sunbiz 未取；2026-10-29",
+   "url": "https://www.newtechindustries.com/8-port-gigabit-industrial-fiber-poe-din-rail-mount-switch-240w-2-sfp-40-to-75-celsius/",
+   "number": "未取（FL sunbiz 未查；法人名坐实）",
+   "status": "营业中（官网在售）",
+   "incorporated": "未取",
+   "company_type": "Inc.",
+   "sic": [
+    "线缆 / 网络产品制造 + 分销，自有品牌工业 PoE 交换机（南佛罗里达）"
+   ],
+   "address": "Davie, Florida",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（11–50）",
+   "officers": [
+    "harry@ / jim@newtechindustries.com、subhanshu@newtechind.com（表内三具名 = 均退信；职务未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有型号工业 PoE 交换机（NT408-2P 等）现由中国厂供 → OEM 30%：找到新地址后一页纸一次（STI-288GPM 对标 NT408-2P 丝印 + STI-154GP + MOQ + 付费样机）— 北美常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳 / DAP（买方清关）；周三 08–10 当地**；退信 → 官网表单 / LinkedIn 换址"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（自有品牌工业 PoE 线 + 主区 + 对位极强；退信待换址）；部分坐实（sunbiz 未取）。",
+   "code": "SC-634"
   }
  }
 }

@@ -2,7 +2,7 @@
 
 > **评级 C**　|　比利时　|　档案编号 `SC-856`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：比利时 Megamobile（megamobile.be；Wi-Tek）：欧洲 + 已进口中国同类品牌 + 对位 ✔；未触达 → 闸 2 查底数，低优先
+> **C 池筛选：留 C 储备**（闸 2 · 2026-10-29）：闸 2 回 C：MegaMobile.be = M&C Technology（Mechelen；BTW BE 0479.101.014）坐实但主业手机 / 电子配件网店，PoE 为边角 + 冷户 0 互动 → 回 C 储备
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(杂)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-856
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: keep_C  # 闸 2 G2 2026-10-29
 score: 17
 country: 比利时
 region: 欧洲
@@ -39,6 +39,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `megamobile.be` → Microsoft 365（MX：megamobile-be.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 128 批（BE · 1 次检索：megamobile.be/nl/info/over-ons（法人商号 / BTW / 地址）；2026-10-29，2026-10-29 查；https://www.megamobile.be/nl/info/over-ons）：**
+
+- 法定名 / 登记号：MegaMobile.be — M&C Technology（megamobile.be；**官网 Over ons：Onze-Lieve-Vrouwestraat 135, 2800 Mechelen；BTW BE 0479.101.014；手机 / 电子配件网店**）；表内：Wi-Tek；名单内未触达 · 0479.101.014（BTW / KBO） · 状态 **营业中（网店在线）** · 成立 未取 · 未取（商号 M&C Technology）
+- 行业码 / 经营范围：手机 / 电子配件网店（梅赫伦）
+- 注册地址：Onze-Lieve-Vrouwestraat 135, 2800 Mechelen
+- 规模档：微型
+- 账目：未取；—
+- 高管：（info@megamobile.be 表内总邮箱）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **主业手机配件网店，PoE 为边角 → 不动**
+- 备注：回 C 储备（坐实但主业不对位 + 冷户）；坐实（BTW）。
 
 ## 基本事实（事实/推断/假设分层）
 

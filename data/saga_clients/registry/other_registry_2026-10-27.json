@@ -4,7 +4,7 @@
   "source": "其他国家官方 / 准官方登记",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 519
+  "count": 520
  },
  "rows": {
   "SA-061": {
@@ -16080,6 +16080,36 @@
    ],
    "notes": "回 C 储备（1 查未命中 + 冷户 + Simon 判不行）。",
    "code": "SC-2437"
+  },
+  "SC-856": {
+   "batch": 128,
+   "name": "MegaMobile.be — M&C Technology（megamobile.be；**官网 Over ons：Onze-Lieve-Vrouwestraat 135, 2800 Mechelen；BTW BE 0479.101.014；手机 / 电子配件网店**）；表内：Wi-Tek；名单内未触达",
+   "iso": "BE",
+   "fetched": "2026-10-29",
+   "source": "BE · 1 次检索：megamobile.be/nl/info/over-ons（法人商号 / BTW / 地址）；2026-10-29",
+   "url": "https://www.megamobile.be/nl/info/over-ons",
+   "number": "0479.101.014（BTW / KBO）",
+   "status": "营业中（网店在线）",
+   "incorporated": "未取",
+   "company_type": "未取（商号 M&C Technology）",
+   "sic": [
+    "手机 / 电子配件网店（梅赫伦）"
+   ],
+   "address": "Onze-Lieve-Vrouwestraat 135, 2800 Mechelen",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型",
+   "officers": [
+    "（info@megamobile.be 表内总邮箱）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**主业手机配件网店，PoE 为边角 → 不动**"
+   ],
+   "notes": "回 C 储备（坐实但主业不对位 + 冷户）；坐实（BTW）。",
+   "code": "SC-856"
   }
  }
 }

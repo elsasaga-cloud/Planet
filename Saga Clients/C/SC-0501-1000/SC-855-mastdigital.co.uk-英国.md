@@ -2,7 +2,7 @@
 
 > **评级 C**　|　英国　|　档案编号 `SC-855`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：英国 Mast Digital（mastdigital.co.uk；Dahua + Wi-Tek）：四主区 + 已进口中国同类品牌 + 对位 ✔；未触达 → 闸 2 查底数
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 中型安防分销 20%：Mast Digital (UK) Ltd（Epworth DN9 1JZ；Ltd 2014；20+ 人；Dahua Tier 1 + Wi-Tek / Ajax / TP-Link 授权；MD Stuart Smedley）部分坐实（CH 号未取）；进口 Wi-Tek ✔ 四主区 ✔ 对位 ✔ MD 具名 ✔ → P 池候选
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:UK　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-855
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 17
 country: 英国
 region: 欧洲
@@ -38,6 +38,31 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `mastdigital.co.uk` → Microsoft 365（MX：mastdigital-co-uk.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 128 批（GB · 1 次检索：mastdigital.co.uk/support/about-us（沿革 / 规模）+ linkedin（授权品牌 / MD）+ 官网页脚（地址）；CH 号未取；2026-10-29，2026-10-29 查；https://www.mastdigital.co.uk/support/about-us）：**
+
+- 法定名 / 登记号：Mast Digital (UK) Ltd（mastdigital.co.uk；**官网 About + LinkedIn：Unit A Station Road Industrial Estate, Epworth, Doncaster DN9 1JZ；01427 874455；2014 年成为 Ltd；2016 迁现址；2021-01 起 Dahua Tier 1 英国分销商；20+ 人；Wi-Tek / Ajax / TP-Link / Netvio / Videx / GJD 授权分销；MD Stuart Smedley、Director Mick Smedley；家族 trade-only B2B**；Companies House 号未取）；表内：Dahua + Wi-Tek；名单内未触达 · 未取（Companies House 号未查；法人名坐实） · 状态 **营业中（官网 2026）** · 成立 2014（Ltd） · Ltd
+- 行业码 / 经营范围：CCTV / 网络 / AV trade-only 分销（南约克郡）
+- 注册地址：Unit A Station Road Industrial Estate, Epworth, Doncaster DN9 1JZ
+- 规模档：小型 / 中型（20+）
+- 账目：未取；—
+- 高管：Stuart Smedley — Managing Director
+- 高管：Mick Smedley — Director
+- 高管：（enquiries@mastdigital.co.uk 表内）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **Wi-Tek 现供 Dahua 分销 → 分销 20%：点名 Stuart 一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-2224GP 对标 Wi-Tek + STI-154GP + MOQ 1 + 付费样机；Wi-Tek 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**
+- 备注：分销 20%；P 池候选 ★（四主区快速增长 CCTV 分销 + 已进口中国同类品牌 + MD 具名）；部分坐实（CH 号未取）。
 
 ## 基本事实（事实/推断/假设分层）
 

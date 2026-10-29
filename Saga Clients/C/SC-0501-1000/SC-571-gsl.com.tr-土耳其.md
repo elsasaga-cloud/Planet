@@ -2,7 +2,7 @@
 
 > **评级 C**　|　土耳其　|　档案编号 `SC-571`　|　优先级 —　|　状态：已推送 11 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：土耳其 GSL（gsl.com.tr；国内 Kyland + Moxa 工业 FS / 工业控制）：四主区 + 已进口中国工业品牌 + 对位 ✔；11 推 0 回 → 闸 2 查底数
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 中型工业分销 20%：GSL Mühendislik Sanayi ve Ticaret A.Ş.（Ankara 1988 + İstanbul；Moxa / Kyland / Robustel / Digi 土耳其分销；IT 500 强；umit@ 在表）部分坐实（MERSIS 未取）；进口 Kyland ✔ 四主区 ✔ 对位 ✔ 具名 KP ✔ → P 池候选
 >
 > **类型**：工业自动化/IoT 方案商（推断）　|　**历史关系**：推送 11 次（2022-11-11 → 2023-10-17）　|　**所在清单**：群发(已重新审核/一般 常规)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-571
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 19
 country: 土耳其
 region: 土耳其
@@ -38,6 +38,30 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STI-288DGGPM（工业 L2+ 8 PoE + 2×2.5G SFP）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `gsl.com.tr` → Microsoft 365（MX：gsl-com-tr.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 128 批（TR · 1 次检索：gsl.com.tr 首页（法人 A.Ş. / 品牌 / 两地电话）+ store.gsl.com.tr + elektrikport 名录（1988 / 500 强）；MERSIS 未取；2026-10-29，2026-10-29 查；https://gsl.com.tr/）：**
+
+- 法定名 / 登记号：GSL Mühendislik Sanayi ve Ticaret A.Ş.（gsl.com.tr；**官网 + elektrikport：1988 年安卡拉创立；Moxa / Robustel / Kyland / Digi / TXOne / RuggON / Transcend / Pro Optix 土耳其增值分销商；安卡拉 + 伊斯坦布尔两办公室（+90 312 473 3540 / +90 216 469 4191）；土耳其 IT 500 强；2016 TOBB 增长最快 100 强；store.gsl.com.tr 在线商店**）；表内：国内 Kyland + Moxa 工业 FS；umit@ 具名；11 推 0 回 · 未取（MERSIS 未查；法人名坐实） · 状态 **营业中（官网 2026）** · 成立 1988 · A.Ş.
+- 行业码 / 经营范围：工业网络 / 自动化增值分销（安卡拉 + 伊斯坦布尔）
+- 注册地址：Ankara（总部）/ İstanbul
+- 规模档：中型（IT 500 强）
+- 账目：未取；—
+- 高管：Ümit（umit@gsl.com.tr 表内具名；职务未取）
+- 高管：（info@gsl.com.tr 表内）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **Kyland 现供分销 → 分销 20%：点名 Ümit 一页纸一次（STI-154GP / STI-288GPM / STI-0240GE 对标 Kyland 入门线 + MOQ 1 + 付费样机；Kyland / Moxa 不点名）— 土耳其常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP（买方清关）；周四 10–12 当地**
+- 备注：分销 20%；P 池候选 ★（四主区中型工业分销 + 已进口中国工业品牌 + 具名 KP）；部分坐实（MERSIS 未取）。
 
 ## 基本事实（事实/推断/假设分层）
 

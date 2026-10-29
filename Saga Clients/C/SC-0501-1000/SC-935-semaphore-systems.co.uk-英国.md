@@ -2,7 +2,7 @@
 
 > **评级 C**　|　英国　|　档案编号 `SC-935`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：英国 Semaphore Systems（semaphore-systems.co.uk；Advantech）：四主区 + 已进口台湾工业品牌 + 对位 ✔；未触达 → 闸 2 查底数
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 分销 20%：Semaphore Systems Ltd（London NW6；1979；1–10 人；Advantech 英国分销 1988 起 + IPC 组装）部分坐实（CH 号未取）；进口台湾工业品牌 ✔ 四主区 ✔ 对位 ✔ 坐实 ✔ = 冷户四条 → P 池候选（微型，低频）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:UK　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-935
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 17
 country: 英国
 region: 欧洲
@@ -38,6 +38,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `semaphore-systems.co.uk` → IONOS 主机邮箱（MX：mx00.ionos.co.uk、mx01.ionos.co.uk）。主机商附带邮箱（IONOS 主机邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 128 批（GB · 1 次检索：semaphore-systems.co.uk/about-us/（地址 / 定位）+ 产品页（Advantech 1988 起）+ zoominfo（1979；1–10）；CH 号未取；2026-10-29，2026-10-29 查；https://www.semaphore-systems.co.uk/about-us/）：**
+
+- 法定名 / 登记号：Semaphore Systems Ltd（semaphore-systems.co.uk；**官网 About：Unit 4, The Quadrant, 135 Salusbury Road, London NW6 6RJ；020 7625 7744；1988 起 Advantech 主要英国分销 + 伦敦组装 IPC（DAB 广播 / 国防 / 科研）；ZoomInfo：1979 创立；1–10 人；<$5M**；Companies House 号未取）；表内：Advantech；名单内未触达 · 未取（Companies House 号未查；法人名坐实） · 状态 **营业中（官网在线）** · 成立 1979 · Limited
+- 行业码 / 经营范围：Advantech 工业计算分销 + IPC 组装（伦敦）
+- 注册地址：Unit 4, The Quadrant, 135 Salusbury Road, London NW6 6RJ
+- 规模档：微型（1–10）
+- 账目：未取；—
+- 高管：（sales@semaphore-systems.co.uk 表内总邮箱）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **研华分销补工业交换机 → 分销 20%：一页纸一次（STI-154GP / STI-288GPM + MOQ 1 + 付费样机；Advantech 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**
+- 备注：分销 20%；P 池候选 ○（四主区 + 进口台湾工业品牌 ✔ 对位 ✔ 坐实 部分 ✔；微型）；部分坐实（CH 号未取）。
 
 ## 基本事实（事实/推断/假设分层）
 

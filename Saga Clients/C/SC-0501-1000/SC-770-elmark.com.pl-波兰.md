@@ -2,7 +2,7 @@
 
 > **评级 C**　|　波兰　|　档案编号 `SC-770`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：波兰 ELMARK Automatyka（elmark.com.pl；很多牌子 = 波兰工业自动化 / 工业网络分销主体）：波兰 + 分销主体 + 对位 ✔；名单内未触达 → 闸 2 查底数（冷户四条待坐实）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 中型工业分销 20%：ELMARK AUTOMATYKA S.A.（Warszawa；KRS 0000803828 / NIP 5252072585；1997；股本 PLN 650k；Moxa / Advantech 等多牌）坐实；波兰 ✔ 对位 ✔ 坐实 ✔ 多牌进口 ✔ = 冷户四条 → P 池候选（长线；找工业网络产品经理）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:PL　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-770
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 17
 country: 波兰
 region: 欧洲
@@ -38,6 +38,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `elmark.com.pl` → Barracuda 网关（MX：d54680a.ess.barracudanetworks.com）。企业级邮件网关（Barracuda 网关）：链接重写 + 附件沙箱 → 像素失效、附件常被隔离，冷邮件到达率最低；这户靠回原线程 / LinkedIn / 对方来信，不靠新开线程群发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 128 批（PL · 1 次检索：krs-online.com.pl（NIP / REGON / 1997）+ owg.pl（KRS / 状态 AKTYWNY / VAT 在册）+ elmark.com.pl/regulamin（登记法院 / 股本）；2026-10-29，2026-10-29 查；https://www.owg.pl/krs-rp/elmark_automatyka_spolka_akcyjna_9,88,000080382,0000803828）：**
+
+- 法定名 / 登记号：ELMARK AUTOMATYKA S.A.（elmark.com.pl；**krs-online / owg / 官网 regulamin：KRS 0000803828（S.A. 2019-10-01 转制）；NIP 5252072585；REGON 013144306；股本 PLN 650,000；ul. Bukowińska 22 lok. 1B, 02-703 Warszawa；1997 起工业自动化分销（Moxa / Advantech 等多牌）**）；表内：很多牌子；名单内未触达 · 0000803828（KRS；NIP 5252072585） · 状态 **营业中（AKTYWNY；VAT czynny）** · 成立 1997（S.A. 2019） · S.A.
+- 行业码 / 经营范围：工业自动化 / 工业网络分销（华沙）
+- 注册地址：ul. Bukowińska 22 lok. 1B, 02-703 Warszawa
+- 规模档：中型（股本 PLN 650k）
+- 账目：未取；—
+- 高管：（elmark@elmark.com.pl 表内总邮箱；工业网络产品经理 KP 待 LinkedIn）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **波兰工业分销主体 → 分销 20%：一页纸一次（STI-154GP / STI-288GPM / STI-0240GE / STI-488DGGPM + MOQ 1 + 付费样机；Moxa 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**
+- 备注：分销 20%；P 池候选 ★（波兰中型工业分销 + 对位 + 坐实）；坐实（KRS / NIP）。
 
 ## 基本事实（事实/推断/假设分层）
 

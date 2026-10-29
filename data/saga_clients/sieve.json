@@ -3,10 +3,9 @@
   "updated": "2026-10-29",
   "rules": "docs/C池三闸筛选_方案_2026-10-29.md §2",
   "counts": {
-   "keep_C": 1132,
+   "keep_C": 1134,
    "pass_final": 193,
-   "pool_candidate": 85,
-   "candidate": 18
+   "pool_candidate": 101
   },
   "n": 1428
  },
@@ -12638,13 +12637,15 @@
   ]
  },
  "SC-562": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "美国 Baltic Networks（balticnetworks.com；很多牌子、工业 FS / SFP = 北美无线 / 网络分销主体）：主区 + 分销主体 + 对位 ✔；9 推 0 回 → 闸 2 查底数（冷户四条待坐实）",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 分销 20%：Baltic Networks（Lisle IL；2005；约 9 人；$6M；WISP 增值分销 50+ 厂牌）部分坐实（IL SoS 未取）；主区 ✔ 分销主体 ✔ 对位 ✔ 坐实（名录）✔ = 冷户四条 → P 池候选（9 推 0 回 → 换稿）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-09"
+  "batch": "G2-128",
+  "g1_batch": "G1-09",
+  "g1_reason": "美国 Baltic Networks（balticnetworks.com；很多牌子、工业 FS / SFP = 北美无线 / 网络分销主体）：主区 + 分销主体 + 对位 ✔；9 推 0 回 → 闸 2 查底数（冷户四条待坐实）"
  },
  "SC-563": {
   "verdict": "keep_C",
@@ -12689,13 +12690,15 @@
   "batch": "G1-09"
  },
  "SC-571": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "土耳其 GSL（gsl.com.tr；国内 Kyland + Moxa 工业 FS / 工业控制）：四主区 + 已进口中国工业品牌 + 对位 ✔；11 推 0 回 → 闸 2 查底数",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 中型工业分销 20%：GSL Mühendislik Sanayi ve Ticaret A.Ş.（Ankara 1988 + İstanbul；Moxa / Kyland / Robustel / Digi 土耳其分销；IT 500 强；umit@ 在表）部分坐实（MERSIS 未取）；进口 Kyland ✔ 四主区 ✔ 对位 ✔ 具名 KP ✔ → P 池候选",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-09"
+  "batch": "G2-128",
+  "g1_batch": "G1-09",
+  "g1_reason": "土耳其 GSL（gsl.com.tr；国内 Kyland + Moxa 工业 FS / 工业控制）：四主区 + 已进口中国工业品牌 + 对位 ✔；11 推 0 回 → 闸 2 查底数"
  },
  "SC-572": {
   "verdict": "keep_C",
@@ -12710,13 +12713,15 @@
   ]
  },
  "SC-575": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "保加利亚 KST（kst-bg.com；国内的交换机）：欧洲 + 已进口中国同类品牌 + 对位 ✔；13 推 0 回 → 闸 2 查底数，低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 分销 20%：КСТ ООД / KST Ltd（София；ЕИК 831850563；1995；17–18 人；€3.26M；CATV / 布线分销 + Motorola 代表；管理人 Светлин Капитанов = 表内 skapitanov@）坐实；进口中国交换机 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔ 决策人直达 ✔ → P 池候选（13 推 0 回 → 点名换稿）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-09"
+  "batch": "G2-128",
+  "g1_batch": "G1-09",
+  "g1_reason": "保加利亚 KST（kst-bg.com；国内的交换机）：欧洲 + 已进口中国同类品牌 + 对位 ✔；13 推 0 回 → 闸 2 查底数，低优先"
  },
  "SC-586": {
   "verdict": "keep_C",
@@ -12896,13 +12901,18 @@
   ]
  },
  "SC-634": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "美国 NewTech Industries（newtechindustries.com / newtechind.com；一部分工业 FS、Wi-Tek 的也有、比较多外壳）：主区 + 已进口中国同类品牌 + 对位 ✔；18 推全退信但两域名 MX 正常 → 闸 2 查底数 + 找新地址",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 自有品牌 · OEM 30%：New Tech Industries, Inc.（Davie FL；11–50 人；官网在售自有型号工业 PoE DIN 交换机 NT408-2P / NT404-1 + TRENDnet）部分坐实（sunbiz 未取）；自有品牌 ✔ 进口 Wi-Tek ✔ 主区 ✔ 对位极强 ✔ → P 池候选；18 推全退信（两域 MX 正常）→ 官网表单 / LinkedIn 换址后再发",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-09"
+  "batch": "G2-128",
+  "g1_batch": "G1-09",
+  "g1_reason": "美国 NewTech Industries（newtechindustries.com / newtechind.com；一部分工业 FS、Wi-Tek 的也有、比较多外壳）：主区 + 已进口中国同类品牌 + 对位 ✔；18 推全退信但两域名 MX 正常 → 闸 2 查底数 + 找新地址",
+  "tags": [
+   "oem_target"
+  ]
  },
  "SC-639": {
   "verdict": "keep_C",
@@ -12923,13 +12933,15 @@
   "batch": "G1-09"
  },
  "SC-656": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "捷克 100MEGA（100mega.cz；主要是 Planet 的 = 捷克 IT 分销主体）：欧洲 + Planet 渠道 + 对位 ✔；名单内未触达 → 闸 2 查底数",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 大分销 20%：100MEGA Distribution s.r.o.（Brno；IČO 60707968；1994；捷克主要 IT 分销商）坐实；Planet 渠道 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔ = 冷户四条 → P 池候选（长线；找网络线产品经理）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-09"
+  "batch": "G2-128",
+  "g1_batch": "G1-09",
+  "g1_reason": "捷克 100MEGA（100mega.cz；主要是 Planet 的 = 捷克 IT 分销主体）：欧洲 + Planet 渠道 + 对位 ✔；名单内未触达 → 闸 2 查底数"
  },
  "SC-658": {
   "verdict": "keep_C",
@@ -13009,13 +13021,18 @@
   ]
  },
  "SC-671": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "英国 Leader Optec（leaderoptec.com；passive / FTTH 为主的 trader，30–40% 业务在中国，表内邮箱 = 其国内负责人、负责采购 active 产品）：四主区 + 进口经验 + 中国采购 KP 在表 + 对位 ✔；未触达 → 闸 2 查底数",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 自有品牌 · OEM 30%：LEADER OPTEC LIMITED（St Asaph；Co. No. 03936485；2000；11–50 人；$5.1M；董事 Paul Anthony Desmond = 表内 pauldesmond@）坐实；自有品牌布线商 ✔ 中国采购 30–40% ✔ 四主区 ✔ 决策人直达 ✔ → P 池候选",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-09"
+  "batch": "G2-128",
+  "g1_batch": "G1-09",
+  "g1_reason": "英国 Leader Optec（leaderoptec.com；passive / FTTH 为主的 trader，30–40% 业务在中国，表内邮箱 = 其国内负责人、负责采购 active 产品）：四主区 + 进口经验 + 中国采购 KP 在表 + 对位 ✔；未触达 → 闸 2 查底数",
+  "tags": [
+   "oem_target"
+  ]
  },
  "SC-674": {
   "verdict": "keep_C",
@@ -13148,22 +13165,26 @@
   "batch": "G1-09"
  },
  "SC-700": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "德国 AMC Systeme（amc-systeme.de；主要是研华的 = 工业电脑 / 网络分销）：四主区 + 已进口台湾工业品牌 + 对位 ✔；名单内未触达 → 闸 2 查底数",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 集成 25%：AMC – Analytik & Messtechnik GmbH Chemnitz（HRB 995 AG Chemnitz；GF Bernd Göbel；1990 起 Advantech / NI / Gantner 伙伴）坐实；进口台湾工业品牌 ✔ 四主区 ✔ 对位 ✔ 坐实 ✔ = 冷户四条 → P 池候选",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-09"
+  "batch": "G2-128",
+  "g1_batch": "G1-09",
+  "g1_reason": "德国 AMC Systeme（amc-systeme.de；主要是研华的 = 工业电脑 / 网络分销）：四主区 + 已进口台湾工业品牌 + 对位 ✔；名单内未触达 → 闸 2 查底数"
  },
  "SC-704": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "英国 Annicom（annicom.com；Kyland）：四主区 + 已进口中国工业品牌 + 对位 ✔；名单内未触达 → 闸 2 查底数",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 分销 20%：ANNICOM LIMITED（Bordon GU35 0AX；24 人；董事 Dennis Gates；工业控制电子设计制造 + Kyland 分销）部分坐实（CH 号未取）；进口 Kyland ✔ 四主区 ✔ 对位 ✔ 坐实 ✔ → P 池候选",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-09"
+  "batch": "G2-128",
+  "g1_batch": "G1-09",
+  "g1_reason": "英国 Annicom（annicom.com；Kyland）：四主区 + 已进口中国工业品牌 + 对位 ✔；名单内未触达 → 闸 2 查底数"
  },
  "SC-709": {
   "verdict": "keep_C",
@@ -13439,13 +13460,15 @@
   "batch": "G1-10"
  },
  "SC-770": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "波兰 ELMARK Automatyka（elmark.com.pl；很多牌子 = 波兰工业自动化 / 工业网络分销主体）：波兰 + 分销主体 + 对位 ✔；名单内未触达 → 闸 2 查底数（冷户四条待坐实）",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 中型工业分销 20%：ELMARK AUTOMATYKA S.A.（Warszawa；KRS 0000803828 / NIP 5252072585；1997；股本 PLN 650k；Moxa / Advantech 等多牌）坐实；波兰 ✔ 对位 ✔ 坐实 ✔ 多牌进口 ✔ = 冷户四条 → P 池候选（长线；找工业网络产品经理）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-10"
+  "batch": "G2-128",
+  "g1_batch": "G1-10",
+  "g1_reason": "波兰 ELMARK Automatyka（elmark.com.pl；很多牌子 = 波兰工业自动化 / 工业网络分销主体）：波兰 + 分销主体 + 对位 ✔；名单内未触达 → 闸 2 查底数（冷户四条待坐实）"
  },
  "SC-771": {
   "verdict": "keep_C",
@@ -13502,13 +13525,15 @@
   "batch": "G1-10"
  },
  "SC-783": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "捷克 Express Alarm（expressalarm.cz；卖几个有名牌子 + Wi-Tek 很多其他产品）：欧洲 + 已进口中国同类品牌 + 对位 ✔；未触达 → 闸 2 查底数，低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 分销 20%：Express Alarm Czech s.r.o.（Praha 9；IČ 26446863；2001；20–24 人；斯洛伐克姊妹公司 IČO 31630146；销售代表 Štefan Stein 官网公开）坐实；进口 Wi-Tek ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔ → P 池候选",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-10"
+  "batch": "G2-128",
+  "g1_batch": "G1-10",
+  "g1_reason": "捷克 Express Alarm（expressalarm.cz；卖几个有名牌子 + Wi-Tek 很多其他产品）：欧洲 + 已进口中国同类品牌 + 对位 ✔；未触达 → 闸 2 查底数，低优先"
  },
  "SC-786": {
   "verdict": "keep_C",
@@ -13619,13 +13644,15 @@
   "batch": "G1-10"
  },
  "SC-809": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "捷克 HTV Hodina（htv-hodina.cz；Wi-Tek）：欧洲 + 已进口中国同类品牌 + 对位 ✔；未触达 → 闸 2 查底数，低优先",
+  "verdict": "keep_C",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "闸 2 回 C：HTV Hodina = Michal Hodina 个体（Ostrava；IČ 48424986；Jablotron 安防门店）坐实但个体微型 + 非主区 + 冷户 0 互动 → 回 C 储备（来信再起则预付 100%）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-10"
+  "batch": "G2-128",
+  "g1_batch": "G1-10",
+  "g1_reason": "捷克 HTV Hodina（htv-hodina.cz；Wi-Tek）：欧洲 + 已进口中国同类品牌 + 对位 ✔；未触达 → 闸 2 查底数，低优先"
  },
  "SC-811": {
   "verdict": "keep_C",
@@ -13673,13 +13700,15 @@
   "batch": "G1-10"
  },
  "SC-827": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "德国 ITJAN / Janetzky（itjan.de / janetzky.net；表内「100 个 用于 Amazon 销售」= 数量信号）：四主区 + 数量意向 + 对位 ✔；→ 闸 2 查底数（亚马逊卖家微型 → 预付）",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "△ 观察档 · 分销 20% + 预付 100%：itjan.de = Dipl.-Ing. Dittmar Janetzky 个体（Zirndorf；Impressum 坐实；站点建设中）；表内「100 台用于 Amazon 销售」= 数量信号 ✔ 决策人直达 ✔ 四主区 ✔ 对位 ✔ → 入池观察档（个体 + 空站 → 预付 100%）；可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-10"
+  "batch": "G2-128",
+  "g1_batch": "G1-10",
+  "g1_reason": "德国 ITJAN / Janetzky（itjan.de / janetzky.net；表内「100 个 用于 Amazon 销售」= 数量信号）：四主区 + 数量意向 + 对位 ✔；→ 闸 2 查底数（亚马逊卖家微型 → 预付）"
  },
  "SC-831": {
   "verdict": "keep_C",
@@ -13787,22 +13816,26 @@
   ]
  },
  "SC-855": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "英国 Mast Digital（mastdigital.co.uk；Dahua + Wi-Tek）：四主区 + 已进口中国同类品牌 + 对位 ✔；未触达 → 闸 2 查底数",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 中型安防分销 20%：Mast Digital (UK) Ltd（Epworth DN9 1JZ；Ltd 2014；20+ 人；Dahua Tier 1 + Wi-Tek / Ajax / TP-Link 授权；MD Stuart Smedley）部分坐实（CH 号未取）；进口 Wi-Tek ✔ 四主区 ✔ 对位 ✔ MD 具名 ✔ → P 池候选",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-10"
+  "batch": "G2-128",
+  "g1_batch": "G1-10",
+  "g1_reason": "英国 Mast Digital（mastdigital.co.uk；Dahua + Wi-Tek）：四主区 + 已进口中国同类品牌 + 对位 ✔；未触达 → 闸 2 查底数"
  },
  "SC-856": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "比利时 Megamobile（megamobile.be；Wi-Tek）：欧洲 + 已进口中国同类品牌 + 对位 ✔；未触达 → 闸 2 查底数，低优先",
+  "verdict": "keep_C",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "闸 2 回 C：MegaMobile.be = M&C Technology（Mechelen；BTW BE 0479.101.014）坐实但主业手机 / 电子配件网店，PoE 为边角 + 冷户 0 互动 → 回 C 储备",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-10"
+  "batch": "G2-128",
+  "g1_batch": "G1-10",
+  "g1_reason": "比利时 Megamobile（megamobile.be；Wi-Tek）：欧洲 + 已进口中国同类品牌 + 对位 ✔；未触达 → 闸 2 查底数，低优先"
  },
  "SC-857": {
   "verdict": "keep_C",
@@ -14015,13 +14048,15 @@
   "batch": "G1-11"
  },
  "SC-908": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "捷克 Průmyslové switche / Bluecom（prumysloveswitche.cz / bluecom.cz；「工业交换机」专卖，基本都是研华的）：欧洲 + 已进口台湾工业品牌 + 对位极强；未触达 → 闸 2 查底数",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 分销 20%：BLUECOM s.r.o. = prumysloveswitche.cz（Chrudim；IČ 25955993；KS Hradec Králové C 17530；Advantech B+B 工业交换机专卖 + Axis / Bosch / Fluke）坐实；进口台湾工业品牌 ✔ 欧洲 ✔ 对位极强 ✔ 坐实 ✔ = 冷户四条 → P 池候选",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-11"
+  "batch": "G2-128",
+  "g1_batch": "G1-11",
+  "g1_reason": "捷克 Průmyslové switche / Bluecom（prumysloveswitche.cz / bluecom.cz；「工业交换机」专卖，基本都是研华的）：欧洲 + 已进口台湾工业品牌 + 对位极强；未触达 → 闸 2 查底数"
  },
  "SC-911": {
   "verdict": "keep_C",
@@ -14117,13 +14152,15 @@
   "batch": "G1-11"
  },
  "SC-925": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "意大利 SARC Italia（sarcitalia.it；Atop + USR IoT）：欧洲 + 已进口台湾 / 中国工业品牌 + 对位 ✔；未触达 → 闸 2 查底数",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 分销 20%：SARC ITALIA SRL（Modena；P.IVA 03184880361 / REA MO-365943；€1.3M；Ateco 46.69.2 工业自动化分销）坐实；进口 Atop / USR ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔ = 冷户四条 → P 池候选",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-11"
+  "batch": "G2-128",
+  "g1_batch": "G1-11",
+  "g1_reason": "意大利 SARC Italia（sarcitalia.it；Atop + USR IoT）：欧洲 + 已进口台湾 / 中国工业品牌 + 对位 ✔；未触达 → 闸 2 查底数"
  },
  "SC-928": {
   "verdict": "keep_C",
@@ -14153,13 +14190,15 @@
   "batch": "G1-11"
  },
  "SC-935": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "英国 Semaphore Systems（semaphore-systems.co.uk；Advantech）：四主区 + 已进口台湾工业品牌 + 对位 ✔；未触达 → 闸 2 查底数",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 分销 20%：Semaphore Systems Ltd（London NW6；1979；1–10 人；Advantech 英国分销 1988 起 + IPC 组装）部分坐实（CH 号未取）；进口台湾工业品牌 ✔ 四主区 ✔ 对位 ✔ 坐实 ✔ = 冷户四条 → P 池候选（微型，低频）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-11"
+  "batch": "G2-128",
+  "g1_batch": "G1-11",
+  "g1_reason": "英国 Semaphore Systems（semaphore-systems.co.uk；Advantech）：四主区 + 已进口台湾工业品牌 + 对位 ✔；未触达 → 闸 2 查底数"
  },
  "SC-936": {
   "verdict": "keep_C",
@@ -14249,13 +14288,15 @@
   ]
  },
  "SC-956": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "德国 Systerra（systerra.de；Moxa 分销）：四主区 + 工业网络分销主体 + 对位 ✔；未触达 → 闸 2 查底数（Moxa 不点名）",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 分销 20%：systerra computer GmbH（Wiesbaden；HRB 32770；GF Harald Borger；11–50 人；坚固计算 + Moxa 伙伴）坐实；四主区 ✔ 对位 ✔ 坐实 ✔ 工业网络方案 ✔ = 冷户四条 → P 池候选（守界：MIL 不承诺，只做工业 / 商用场景）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-11"
+  "batch": "G2-128",
+  "g1_batch": "G1-11",
+  "g1_reason": "德国 Systerra（systerra.de；Moxa 分销）：四主区 + 工业网络分销主体 + 对位 ✔；未触达 → 闸 2 查底数（Moxa 不点名）"
  },
  "SC-957": {
   "verdict": "keep_C",

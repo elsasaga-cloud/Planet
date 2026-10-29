@@ -4,7 +4,7 @@
   "source": "Czechia · ARES 官方 API（ares.gov.cz）+ or.justice.cz 商业登记",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 25
+  "count": 29
  },
  "rows": {
   "SA-089": {
@@ -820,6 +820,128 @@
    ],
    "notes": "OEM 30%；P 池候选 ★（自有品牌 + 现成贴牌需求 + 欧洲 + 坐实）；坐实（IČ）；国别纠偏 CZ；Q-33；Simon 曾判不行。",
    "code": "SC-2609"
+  },
+  "SC-656": {
+   "batch": 128,
+   "name": "100MEGA Distribution s.r.o.（100mega.cz；**kurzy / finmag：IČO 60707968；DIČ CZ60707968；1994-05-24 成立；Železná 681/7, Horní Heršpice, 619 00 Brno；数据箱 8xtdkfn；捷克大型 IT 分销商**）；表内：主要是 Planet 的；名单内未触达",
+   "iso": "CZ",
+   "fetched": "2026-10-29",
+   "source": "CZ · 1 次检索：rejstrik-firem.kurzy.cz（IČO / 地址 / 成立）+ finmag 商事 + 营业执照登记；2026-10-29",
+   "url": "https://www.finmag.cz/obchodni-rejstrik/60707968-100mega-distribution-s-r-o",
+   "number": "60707968（IČO）",
+   "status": "营业中（商事登记 2026-01）",
+   "incorporated": "1994-05-24",
+   "company_type": "s.r.o.",
+   "sic": [
+    "IT / 网络产品大分销（布尔诺）"
+   ],
+   "address": "Železná 681/7, Horní Heršpice, 619 00 Brno",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型 / 大型（捷克主要 IT 分销）",
+   "officers": [
+    "（info@100mega.cz 表内总邮箱；网络线产品经理 KP 待 LinkedIn）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**Planet 渠道大分销 → 分销 20%（长线）：一页纸一次（STC-228GP / STC-2224GP / STC-424XGGM 对标 Planet 同口型 + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**"
+   ],
+   "notes": "分销 20%；P 池候选 ★（大分销 + Planet 渠道 + 欧洲 + 坐实）；坐实（IČO）。",
+   "code": "SC-656"
+  },
+  "SC-783": {
+   "batch": 128,
+   "name": "Express Alarm Czech s.r.o.（expressalarm.cz；**官网 kontakt + kurzy：IČ 26446863；DIČ CZ26446863；Městský soud v Praze C 82812；2001-04-18 成立；股本 CZK 200,000；20–24 人；Plkovská 2934/1, 193 00 Praha 9 – Horní Počernice；+420 281 925 363；斯洛伐克姊妹公司 Express Alarm Slovakia s.r.o.（IČO 31630146）；销售代表 Štefan Stein（stein@expressalarm.cz 官网公开）；EZS / EPS / CCTV 批发**）；表内：有名牌子 + Wi-Tek 很多产品；名单内未触达",
+   "iso": "CZ",
+   "fetched": "2026-10-29",
+   "source": "CZ · 1 次检索：expressalarm.cz/dokument/kontakt/（法人 / IČ / 登记 / 联系人）+ kurzy 统计（2001；20–24 人；股本）+ estav 名录；2026-10-29",
+   "url": "https://www.expressalarm.cz/dokument/kontakt/",
+   "number": "26446863（IČ；Praha C 82812）",
+   "status": "营业中",
+   "incorporated": "2001-04-18",
+   "company_type": "s.r.o.",
+   "sic": [
+    "安防系统批发（布拉格 + 斯洛伐克）"
+   ],
+   "address": "Plkovská 2934/1, 193 00 Praha 9 – Horní Počernice",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（20–24）",
+   "officers": [
+    "Štefan Stein — Obchodní zástupce（stein@expressalarm.cz 官网公开）",
+    "（obchod@expressalarm.cz 表内）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**Wi-Tek 现供安防批发 → 分销 20%：一页纸一次（STC-028GP $28 / STC-228GP $33 对标 Wi-Tek + STI-154GP + MOQ 1 + 付费样机；Wi-Tek 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**"
+   ],
+   "notes": "分销 20%；P 池候选 ○（已进口中国同类品牌 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔；双国渠道）；坐实（IČ）。",
+   "code": "SC-783"
+  },
+  "SC-809": {
+   "batch": 128,
+   "name": "HTV Hodina — Michal Hodina（htv-hodina.cz；**firmy.cz / ziveobce：个体经营（Fyzická osoba）IČ 48424986；DIČ CZ6804201646；U Kapličky 63/8, 712 00 Ostrava – Muglinov；+420 602 719 145；Jablotron 安防 / CCTV 门店 + 批零；业主 Michal Hodina、店长 Matěj Hodina（matej@）**）；表内：Wi-Tek；名单内未触达",
+   "iso": "CZ",
+   "fetched": "2026-10-29",
+   "source": "CZ · 1 次检索：firmy.cz（IČ / 地址 / 邮箱）+ ziveobce（个体法律形式 / DIČ / 联系人）+ jahho 名录；2026-10-29",
+   "url": "https://ziveobce.cz/htv-hodina_f1081862?loc=50114944&cz=21",
+   "number": "48424986（IČ；个体）",
+   "status": "营业中（名录在线）",
+   "incorporated": "未取",
+   "company_type": "个体（živnostník）",
+   "sic": [
+    "安防 / CCTV 门店（俄斯特拉发）"
+   ],
+   "address": "U Kapličky 63/8, 712 00 Ostrava – Muglinov",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "个体微型",
+   "officers": [
+    "Michal Hodina — 业主",
+    "Matěj Hodina — 店长（matej@htv-hodina.cz 名录公开）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**个体门店 + 冷户 → 不动（来信再起则预付 100%）**"
+   ],
+   "notes": "回 C 储备（个体微型 + 非主区 + 冷户 0 互动）；坐实（IČ）。",
+   "code": "SC-809"
+  },
+  "SC-908": {
+   "batch": 128,
+   "name": "BLUECOM s.r.o. — prumysloveswitche.cz（bluecom.cz；**官网 Advantech 页 / networkmanagement.cz：IČ 25955993；DIČ CZ25955993；Krajský soud v Hradci Králové C 17530；Nerudova 1034, 537 01 Chrudim；+420 469 688 054；Advantech B+B 工业交换机 / Axis / Bosch / Fluke / Milestone / HiPoE 经销商价目**）；表内：「工业交换机」专卖，基本都是研华的；名单内未触达",
+   "iso": "CZ",
+   "fetched": "2026-10-29",
+   "source": "CZ · 1 次检索：bluecom.cz/advantech（法人 / IČ / 登记 / 地址）+ bluecom.cz/dealer（经销品牌）+ networkmanagement.cz/kontakt.php；2026-10-29",
+   "url": "https://www.bluecom.cz/advantech",
+   "number": "25955993（IČ；Hradec Králové C 17530）",
+   "status": "营业中（官网在线）",
+   "incorporated": "未取",
+   "company_type": "s.r.o.",
+   "sic": [
+    "工业交换机 / 安防 / 网络诊断分销（赫鲁迪姆）"
+   ],
+   "address": "Nerudova 1034, 537 01 Chrudim",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "（sales@bluecom.cz 表内总邮箱；具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**工业交换机专卖 → 分销 20%：一页纸一次（STI-154GP / STI-288GPM / STI-288DGGPM / STI-0240GE 对标 Advantech B+B 入门 + MOQ 1 + 付费样机；Advantech 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**"
+   ],
+   "notes": "分销 20%；P 池候选 ○（对位极强 + 进口台湾工业品牌 ✔ 欧洲 ✔ 坐实 ✔）；坐实（IČ）。",
+   "code": "SC-908"
   }
  }
 }

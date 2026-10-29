@@ -2,7 +2,7 @@
 
 > **评级 C**　|　美国　|　档案编号 `SC-562`　|　优先级 —　|　状态：已推送 9 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：美国 Baltic Networks（balticnetworks.com；很多牌子、工业 FS / SFP = 北美无线 / 网络分销主体）：主区 + 分销主体 + 对位 ✔；9 推 0 回 → 闸 2 查底数（冷户四条待坐实）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 分销 20%：Baltic Networks（Lisle IL；2005；约 9 人；$6M；WISP 增值分销 50+ 厂牌）部分坐实（IL SoS 未取）；主区 ✔ 分销主体 ✔ 对位 ✔ 坐实（名录）✔ = 冷户四条 → P 池候选（9 推 0 回 → 换稿）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 9 次（2023-02-16 → 2023-10-16）　|　**所在清单**：群发(已重新审核/一般 常规)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-562
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 19
 country: 美国
 region: 北美
@@ -39,6 +39,30 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STI-288DGGPM（工业 L2+ 8 PoE + 2×2.5G SFP）
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `balticnetworks.com` → Google Workspace（MX：smtp.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 128 批（US · 1 次检索：rocketreach（地址 / 2005 / 9 人 / $6M）+ leadiq（定位 / 50+ 厂牌）+ cbinsights；IL SoS 未取；2026-10-29，2026-10-29 查；https://leadiq.com/c/baltic-networks/5a1d9dd82300005a008dbfdb）：**
+
+- 法定名 / 登记号：Baltic Networks（balticnetworks.com；**rocketreach / leadiq / cbinsights：2200 Ogden Ave Suite 100, Lisle, IL 60532；2005 年创立；约 9 人；营收估 $6M；面向 WISP / 集成商的增值分销 + 工程服务，50+ 厂牌 5,000 SKU（路由 / 交换 / 天线 / 回传 / 光纤）；(630) 929-3610**）；表内：很多牌子、工业 FS / SFP；9 推 0 回 · 未取（IL SoS 未查） · 状态 **营业中（名录 2024 更新）** · 成立 2005 · Inc. / LLC（推定）
+- 行业码 / 经营范围：WISP 无线 / 网络增值分销（芝加哥西郊）
+- 注册地址：2200 Ogden Ave Suite 100, Lisle, IL 60532
+- 规模档：微型 / 小型（约 9；$6M）
+- 账目：未取；—
+- 高管：Laura Tomasello — Customer Service Manager & Sales Support（RocketReach）
+- 高管：（hello@ / support@balticnetworks.com 表内）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **WISP 分销 → 分销 20%：一页纸一次（STI-154GP 工业 PoE 塔上 + STC-228GP + STC-110XGE MC + MOQ 1 + 付费样机）— 北美常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳 / DAP（买方清关）；周三 08–10 当地**
+- 备注：分销 20%；P 池候选 ○（主区分销主体 + 对位 + 坐实（名录）= 冷户四条）；部分坐实（IL SoS 未取）。
 
 ## 基本事实（事实/推断/假设分层）
 

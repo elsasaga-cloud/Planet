@@ -4,7 +4,7 @@
   "source": "Germany · Handelsregister / Northdata（登记摘要）",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 78
+  "count": 81
  },
  "rows": {
   "SA-008": {
@@ -2638,6 +2638,100 @@
    ],
    "notes": "终端自用 25%；P 池候选 △（成单 ✔ 主区 ✔ 对位 ✔；复购体量低 → 观察档，Simon 定）；坐实（法人 + 地址）。",
    "code": "SC-364"
+  },
+  "SC-700": {
+   "batch": 128,
+   "name": "AMC – Analytik & Messtechnik GmbH Chemnitz（amc-systeme.de；**Impressum：Heinrich-Lorenz-Str. 55, 09120 Chemnitz；Amtsgericht Chemnitz HRB 995；USt-ID DE 140847488；GF Dipl.-Ing. Bernd Göbel；Prokura Iris Winkler；1990 起测控 / 自动化系统集成，Advantech / Gantner / Meilhaus / NI 授权销售伙伴（allaboutautomation 展商档）**）；表内：主要是研华的；名单内未触达",
+   "iso": "DE",
+   "fetched": "2026-10-29",
+   "source": "DE · 1 次检索：amc-systeme.de/impressum.html（HRB / GF / USt）+ allaboutautomation 展商档 + pressebox；2026-10-29",
+   "url": "https://www.amc-systeme.de/impressum.html",
+   "number": "HRB 995（Amtsgericht Chemnitz）",
+   "status": "营业中（官网在线）",
+   "incorporated": "1990",
+   "company_type": "GmbH",
+   "sic": [
+    "测控 / 自动化系统集成 + 工业 IT 分销（萨克森）"
+   ],
+   "address": "Heinrich-Lorenz-Str. 55, 09120 Chemnitz",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "Bernd Göbel — Geschäftsführer",
+    "Iris Winkler — Prokuristin",
+    "（info@amc-systeme.de 表内总邮箱）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**研华系统集成 → 集成 25% / 分销 20%：一页纸一次（STI-154GP / STI-288GPM / STI-0240GE 柜内工业以太网 + MOQ 1 + 付费样机；Advantech 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**"
+   ],
+   "notes": "集成 25%；P 池候选 ○（四主区 + 进口台湾工业品牌 ✔ 对位 ✔ 坐实 ✔ = 冷户四条）；坐实（HRB）。",
+   "code": "SC-700"
+  },
+  "SC-827": {
+   "batch": 128,
+   "name": "Dipl.-Ing. Dittmar Janetzky（itjan.de / janetzky.net；**Impressum：个体，Humboldtstr. 1, 90513 Zirndorf-Weiherhof；+49 911 9608926；janetzky@janetzky.net（= 表内）；网站「im Aufbau」**）；表内：「100 个 用于 Amazon 销售」= 数量信号",
+   "iso": "DE",
+   "fetched": "2026-10-29",
+   "source": "DE · 1 次检索：itjan.de 首页 Impressum（个体 / 地址 / 电话 / 邮箱）；2026-10-29",
+   "url": "https://itjan.de/",
+   "number": "无（个体，§ 5 TMG Impressum）",
+   "status": "营业中（站点建设中）",
+   "incorporated": "未取",
+   "company_type": "个体（Einzelunternehmer）",
+   "sic": [
+    "亚马逊卖家 / IT 个体（纽伦堡近郊）"
+   ],
+   "address": "Humboldtstr. 1, 90513 Zirndorf-Weiherhof",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "个体微型",
+   "officers": [
+    "Dittmar Janetzky — 业主（janetzky@janetzky.net 表内 = 决策人直达）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**个体亚马逊卖家 100 台意向 → 分销 20% + 预付 100%：点名 Dittmar 一页纸一次（STC-028GP $28 × 100 阶梯 + 中性包装 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**"
+   ],
+   "notes": "分销 20%；P 池候选 △（数量信号 ✔ 决策人直达 ✔ 四主区 ✔；个体 + 空站 → 观察档 + 预付）；坐实（Impressum 个体）。",
+   "code": "SC-827"
+  },
+  "SC-956": {
+   "batch": 128,
+   "name": "systerra computer GmbH（systerra.de；**Impressum：Kreuzberger Ring 22, 65205 Wiesbaden；Amtsgericht Wiesbaden HRB 32770；USt DE345659756；GF Harald Borger；LinkedIn 11–50 人；坚固 / MIL 级计算与网络平台 20+ 年，Moxa / MPL / Mercury / RTD / Acromag 伙伴；AFCEA 展商联系人 Stephan Hering**）；表内：Moxa 分销；名单内未触达",
+   "iso": "DE",
+   "fetched": "2026-10-29",
+   "source": "DE · 1 次检索：systerra.de/Impressum.htm（HRB / GF / USt）+ linkedin（11–50；Moxa 伙伴）+ afcea 展商档（定位 / 联系人）；2026-10-29",
+   "url": "https://www.systerra.de/Impressum.htm",
+   "number": "HRB 32770（Amtsgericht Wiesbaden）",
+   "status": "营业中（LinkedIn 近期更新）",
+   "incorporated": "未取（20+ 年）",
+   "company_type": "GmbH",
+   "sic": [
+    "坚固计算 / 工业网络方案（威斯巴登；国防 / 工业）"
+   ],
+   "address": "Kreuzberger Ring 22, 65205 Wiesbaden",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（11–50）",
+   "officers": [
+    "Harald Borger — Geschäftsführer",
+    "Stephan Hering — 销售（AFCEA 展商档公开）",
+    "（info@systerra.de 表内总邮箱）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**Moxa 伙伴 → 分销 20%（仅工业 / 商用场景，不承诺 MIL）：一页纸一次（STI-288DGGPM / STI-488DGGPM 管理型工业 + MOQ 1 + 付费样机；Moxa 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**"
+   ],
+   "notes": "分销 20%；P 池候选 ○（四主区工业网络方案商 + 对位 + 坐实 = 冷户四条）；坐实（HRB）；守界：MIL 不承诺。",
+   "code": "SC-956"
   }
  }
 }

@@ -4,7 +4,7 @@
   "source": "France · API Recherche d'entreprises（recherche-entreprises.api.gouv.fr，官方免费：SIRENE + RNE + 财报）",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 71
+  "count": 75
  },
  "rows": {
   "SA-015": {
@@ -2398,6 +2398,132 @@
    ],
    "notes": "分销 20%；P 池候选 ○（工业分销 + 进口台湾品牌 + 主区；冷户 §5 四条）；部分坐实；守界注记：轨交项目不碰。",
    "code": "SC-331"
+  },
+  "SC-671": {
+   "batch": 128,
+   "name": "LEADER OPTEC LIMITED（leaderoptec.com；**companycheck：Company No 03936485；2000-02-29 注册；Active – Accounts Filed；SIC 28990；Unit 15 Lite Linke Buildings, St. Asaph Business Park, St Asaph LL17 0LJ；董事 Paul Anthony Desmond（2000 起 = 表内 pauldesmond@）、Laurie Sara Summers；秘书 Lisa Desmond；ZoomInfo 11–50 人 / $5.1M；Crunchbase：光纤 + 铜缆制造商，MD Paul Desmond**）；表内：passive / FTTH 为主的 trader，30–40% 业务在中国，表内邮箱 = 负责采购 active 产品的负责人；未触达",
+   "iso": "GB",
+   "fetched": "2026-10-29",
+   "source": "GB · 1 次检索：companycheck.co.uk（公司号 / 董事 / 状态）+ zoominfo（11–50；$5.1M）+ crunchbase（MD Paul Desmond）；2026-10-29",
+   "url": "https://companycheck.co.uk/company/03936485/LEADER-OPTEC-LIMITED/companies-house-data",
+   "number": "03936485",
+   "status": "Active（账目已报）",
+   "incorporated": "2000-02-29",
+   "company_type": "Private limited",
+   "sic": [
+    "光纤 / 铜缆产品制造 + 贸易（北威尔士）"
+   ],
+   "address": "Unit 15 Lite Linke Buildings, St. Asaph Business Park, St Asaph LL17 0LJ",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（11–50；$5.1M）",
+   "officers": [
+    "Paul Anthony Desmond — Director / MD（pauldesmond@leaderoptec.com 表内 = 决策人直达）",
+    "Laurie Sara Summers — Director",
+    "Lisa Desmond — Company Secretary"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌布线商补 active 线 → OEM 30%：点名 Paul 一页纸一次（STC-028GP / STC-228GP / STC-110XGE MC 丝印 + MOQ + 付费样机；可提中国采购直供）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（MD 邮箱在表 + 自有品牌 + 中国采购经验 + 四主区）；坐实（Companies House）。",
+   "code": "SC-671"
+  },
+  "SC-704": {
+   "batch": 128,
+   "name": "ANNICOM LIMITED（annicom.com；**globaldatabase / zoominfo：Unit 21 Highview, High Street, Bordon, Hampshire GU35 0AX；+44 1420 487788；24 人（账目）；营收 <$5M；董事 Dennis Gates；Crunchbase：工业控制 / HVAC / 楼宇自动化电子设计制造 + 电气分销**；Companies House 号未取）；表内：Kyland；名单内未触达",
+   "iso": "GB",
+   "fetched": "2026-10-29",
+   "source": "GB · 1 次检索：uk.globaldatabase.com（地址 / 24 人 / 董事）+ zoominfo（51–200 估）+ crunchbase（业务）；CH 号未取；2026-10-29",
+   "url": "https://uk.globaldatabase.com/company/annicom-limited",
+   "number": "未取（Companies House 号未查；法人名坐实）",
+   "status": "营业中（名录在线）",
+   "incorporated": "未取",
+   "company_type": "Limited",
+   "sic": [
+    "工业控制电子设计制造 + Kyland 等分销（汉普郡）"
+   ],
+   "address": "Unit 21 Highview, High Street, Bordon GU35 0AX",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（24）",
+   "officers": [
+    "Dennis Gates — Director",
+    "Hannah Psaila — Inside Sales（globaldatabase）",
+    "（sales@annicom.com 表内）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**Kyland 现供 → 分销 20%：一页纸一次（STI-154GP / STI-288GPM / STI-0240GE 对标 Kyland 入门 + MOQ 1 + 付费样机；Kyland 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**"
+   ],
+   "notes": "分销 20%；P 池候选 ○（四主区 + 已进口中国工业品牌 ✔ 对位 ✔ 坐实 部分 ✔）；部分坐实（CH 号未取）。",
+   "code": "SC-704"
+  },
+  "SC-855": {
+   "batch": 128,
+   "name": "Mast Digital (UK) Ltd（mastdigital.co.uk；**官网 About + LinkedIn：Unit A Station Road Industrial Estate, Epworth, Doncaster DN9 1JZ；01427 874455；2014 年成为 Ltd；2016 迁现址；2021-01 起 Dahua Tier 1 英国分销商；20+ 人；Wi-Tek / Ajax / TP-Link / Netvio / Videx / GJD 授权分销；MD Stuart Smedley、Director Mick Smedley；家族 trade-only B2B**；Companies House 号未取）；表内：Dahua + Wi-Tek；名单内未触达",
+   "iso": "GB",
+   "fetched": "2026-10-29",
+   "source": "GB · 1 次检索：mastdigital.co.uk/support/about-us（沿革 / 规模）+ linkedin（授权品牌 / MD）+ 官网页脚（地址）；CH 号未取；2026-10-29",
+   "url": "https://www.mastdigital.co.uk/support/about-us",
+   "number": "未取（Companies House 号未查；法人名坐实）",
+   "status": "营业中（官网 2026）",
+   "incorporated": "2014（Ltd）",
+   "company_type": "Ltd",
+   "sic": [
+    "CCTV / 网络 / AV trade-only 分销（南约克郡）"
+   ],
+   "address": "Unit A Station Road Industrial Estate, Epworth, Doncaster DN9 1JZ",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型 / 中型（20+）",
+   "officers": [
+    "Stuart Smedley — Managing Director",
+    "Mick Smedley — Director",
+    "（enquiries@mastdigital.co.uk 表内）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**Wi-Tek 现供 Dahua 分销 → 分销 20%：点名 Stuart 一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-2224GP 对标 Wi-Tek + STI-154GP + MOQ 1 + 付费样机；Wi-Tek 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**"
+   ],
+   "notes": "分销 20%；P 池候选 ★（四主区快速增长 CCTV 分销 + 已进口中国同类品牌 + MD 具名）；部分坐实（CH 号未取）。",
+   "code": "SC-855"
+  },
+  "SC-935": {
+   "batch": 128,
+   "name": "Semaphore Systems Ltd（semaphore-systems.co.uk；**官网 About：Unit 4, The Quadrant, 135 Salusbury Road, London NW6 6RJ；020 7625 7744；1988 起 Advantech 主要英国分销 + 伦敦组装 IPC（DAB 广播 / 国防 / 科研）；ZoomInfo：1979 创立；1–10 人；<$5M**；Companies House 号未取）；表内：Advantech；名单内未触达",
+   "iso": "GB",
+   "fetched": "2026-10-29",
+   "source": "GB · 1 次检索：semaphore-systems.co.uk/about-us/（地址 / 定位）+ 产品页（Advantech 1988 起）+ zoominfo（1979；1–10）；CH 号未取；2026-10-29",
+   "url": "https://www.semaphore-systems.co.uk/about-us/",
+   "number": "未取（Companies House 号未查；法人名坐实）",
+   "status": "营业中（官网在线）",
+   "incorporated": "1979",
+   "company_type": "Limited",
+   "sic": [
+    "Advantech 工业计算分销 + IPC 组装（伦敦）"
+   ],
+   "address": "Unit 4, The Quadrant, 135 Salusbury Road, London NW6 6RJ",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（1–10）",
+   "officers": [
+    "（sales@semaphore-systems.co.uk 表内总邮箱）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**研华分销补工业交换机 → 分销 20%：一页纸一次（STI-154GP / STI-288GPM + MOQ 1 + 付费样机；Advantech 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**"
+   ],
+   "notes": "分销 20%；P 池候选 ○（四主区 + 进口台湾工业品牌 ✔ 对位 ✔ 坐实 部分 ✔；微型）；部分坐实（CH 号未取）。",
+   "code": "SC-935"
   }
  }
 }

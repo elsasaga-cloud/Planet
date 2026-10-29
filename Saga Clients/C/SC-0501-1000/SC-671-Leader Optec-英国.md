@@ -2,7 +2,7 @@
 
 > **评级 C**　|　英国　|　档案编号 `SC-671`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：英国 Leader Optec（leaderoptec.com；passive / FTTH 为主的 trader，30–40% 业务在中国，表内邮箱 = 其国内负责人、负责采购 active 产品）：四主区 + 进口经验 + 中国采购 KP 在表 + 对位 ✔；未触达 → 闸 2 查底数
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 自有品牌 · OEM 30%：LEADER OPTEC LIMITED（St Asaph；Co. No. 03936485；2000；11–50 人；$5.1M；董事 Paul Anthony Desmond = 表内 pauldesmond@）坐实；自有品牌布线商 ✔ 中国采购 30–40% ✔ 四主区 ✔ 决策人直达 ✔ → P 池候选　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：分销商/经销商（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：DWDM线索　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-671
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 17
 country: 英国
 region: 欧洲
@@ -39,6 +39,31 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `leaderoptec.com` → Microsoft 365（MX：leaderoptec-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 128 批（GB · 1 次检索：companycheck.co.uk（公司号 / 董事 / 状态）+ zoominfo（11–50；$5.1M）+ crunchbase（MD Paul Desmond）；2026-10-29，2026-10-29 查；https://companycheck.co.uk/company/03936485/LEADER-OPTEC-LIMITED/companies-house-data）：**
+
+- 法定名 / 登记号：LEADER OPTEC LIMITED（leaderoptec.com；**companycheck：Company No 03936485；2000-02-29 注册；Active – Accounts Filed；SIC 28990；Unit 15 Lite Linke Buildings, St. Asaph Business Park, St Asaph LL17 0LJ；董事 Paul Anthony Desmond（2000 起 = 表内 pauldesmond@）、Laurie Sara Summers；秘书 Lisa Desmond；ZoomInfo 11–50 人 / $5.1M；Crunchbase：光纤 + 铜缆制造商，MD Paul Desmond**）；表内：passive / FTTH 为主的 trader，30–40% 业务在中国，表内邮箱 = 负责采购 active 产品的负责人；未触达 · 03936485 · 状态 **Active（账目已报）** · 成立 2000-02-29 · Private limited
+- 行业码 / 经营范围：光纤 / 铜缆产品制造 + 贸易（北威尔士）
+- 注册地址：Unit 15 Lite Linke Buildings, St. Asaph Business Park, St Asaph LL17 0LJ
+- 规模档：小型（11–50；$5.1M）
+- 账目：未取；—
+- 高管：Paul Anthony Desmond — Director / MD（pauldesmond@leaderoptec.com 表内 = 决策人直达）
+- 高管：Laurie Sara Summers — Director
+- 高管：Lisa Desmond — Company Secretary
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自有品牌布线商补 active 线 → OEM 30%：点名 Paul 一页纸一次（STC-028GP / STC-228GP / STC-110XGE MC 丝印 + MOQ + 付费样机；可提中国采购直供）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**
+- 备注：OEM 30%；P 池候选 ★（MD 邮箱在表 + 自有品牌 + 中国采购经验 + 四主区）；坐实（Companies House）。
 
 ## 基本事实（事实/推断/假设分层）
 

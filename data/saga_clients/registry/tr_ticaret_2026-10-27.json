@@ -4,7 +4,7 @@
   "source": "Turkey · Ticaret Sicil / MERSIS（公开可得部分）",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 135
+  "count": 136
  },
  "rows": {
   "SA-086": {
@@ -4362,6 +4362,37 @@
    ],
    "notes": "回访（集成商 25%）；P 池候选 ★（成单 + 主区，§5 有关系户 ≥2 条）；0 查（待公司名）。",
    "code": "SC-259"
+  },
+  "SC-571": {
+   "batch": 128,
+   "name": "GSL Mühendislik Sanayi ve Ticaret A.Ş.（gsl.com.tr；**官网 + elektrikport：1988 年安卡拉创立；Moxa / Robustel / Kyland / Digi / TXOne / RuggON / Transcend / Pro Optix 土耳其增值分销商；安卡拉 + 伊斯坦布尔两办公室（+90 312 473 3540 / +90 216 469 4191）；土耳其 IT 500 强；2016 TOBB 增长最快 100 强；store.gsl.com.tr 在线商店**）；表内：国内 Kyland + Moxa 工业 FS；umit@ 具名；11 推 0 回",
+   "iso": "TR",
+   "fetched": "2026-10-29",
+   "source": "TR · 1 次检索：gsl.com.tr 首页（法人 A.Ş. / 品牌 / 两地电话）+ store.gsl.com.tr + elektrikport 名录（1988 / 500 强）；MERSIS 未取；2026-10-29",
+   "url": "https://gsl.com.tr/",
+   "number": "未取（MERSIS 未查；法人名坐实）",
+   "status": "营业中（官网 2026）",
+   "incorporated": "1988",
+   "company_type": "A.Ş.",
+   "sic": [
+    "工业网络 / 自动化增值分销（安卡拉 + 伊斯坦布尔）"
+   ],
+   "address": "Ankara（总部）/ İstanbul",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（IT 500 强）",
+   "officers": [
+    "Ümit（umit@gsl.com.tr 表内具名；职务未取）",
+    "（info@gsl.com.tr 表内）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**Kyland 现供分销 → 分销 20%：点名 Ümit 一页纸一次（STI-154GP / STI-288GPM / STI-0240GE 对标 Kyland 入门线 + MOQ 1 + 付费样机；Kyland / Moxa 不点名）— 土耳其常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP（买方清关）；周四 10–12 当地**"
+   ],
+   "notes": "分销 20%；P 池候选 ★（四主区中型工业分销 + 已进口中国工业品牌 + 具名 KP）；部分坐实（MERSIS 未取）。",
+   "code": "SC-571"
   }
  }
 }

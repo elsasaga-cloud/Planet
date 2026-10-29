@@ -4,7 +4,7 @@
   "source": "Poland · KRS 官方 API（api-krs.ms.gov.pl）+ 财政部 VAT 白名单 API（wl-api.mf.gov.pl）",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 57
+  "count": 58
  },
  "rows": {
   "SA-023": {
@@ -1885,6 +1885,36 @@
    ],
    "notes": "分销 20%；P 池候选 △（进口中国品牌 ✔ 波兰 ✔ 坐实 ✔ 对位 ✔；个体微型 → 观察档 + 预付）；坐实（NIP）；Simon 曾判不行。",
    "code": "SC-3023"
+  },
+  "SC-770": {
+   "batch": 128,
+   "name": "ELMARK AUTOMATYKA S.A.（elmark.com.pl；**krs-online / owg / 官网 regulamin：KRS 0000803828（S.A. 2019-10-01 转制）；NIP 5252072585；REGON 013144306；股本 PLN 650,000；ul. Bukowińska 22 lok. 1B, 02-703 Warszawa；1997 起工业自动化分销（Moxa / Advantech 等多牌）**）；表内：很多牌子；名单内未触达",
+   "iso": "PL",
+   "fetched": "2026-10-29",
+   "source": "PL · 1 次检索：krs-online.com.pl（NIP / REGON / 1997）+ owg.pl（KRS / 状态 AKTYWNY / VAT 在册）+ elmark.com.pl/regulamin（登记法院 / 股本）；2026-10-29",
+   "url": "https://www.owg.pl/krs-rp/elmark_automatyka_spolka_akcyjna_9,88,000080382,0000803828",
+   "number": "0000803828（KRS；NIP 5252072585）",
+   "status": "营业中（AKTYWNY；VAT czynny）",
+   "incorporated": "1997（S.A. 2019）",
+   "company_type": "S.A.",
+   "sic": [
+    "工业自动化 / 工业网络分销（华沙）"
+   ],
+   "address": "ul. Bukowińska 22 lok. 1B, 02-703 Warszawa",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（股本 PLN 650k）",
+   "officers": [
+    "（elmark@elmark.com.pl 表内总邮箱；工业网络产品经理 KP 待 LinkedIn）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**波兰工业分销主体 → 分销 20%：一页纸一次（STI-154GP / STI-288GPM / STI-0240GE / STI-488DGGPM + MOQ 1 + 付费样机；Moxa 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**"
+   ],
+   "notes": "分销 20%；P 池候选 ★（波兰中型工业分销 + 对位 + 坐实）；坐实（KRS / NIP）。",
+   "code": "SC-770"
   }
  }
 }

@@ -4,7 +4,7 @@
   "source": "Italy · Registro Imprese 公开摘要",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 63
+  "count": 64
  },
  "rows": {
   "SA-070": {
@@ -2019,6 +2019,36 @@
    ],
    "notes": "OEM 30%；P 池候选 ○（进口 3onedata / Planet ✔ 自有商标 ✔ 欧洲 ✔ 对位 ✔）；坐实（P.I. / REA）；Simon 曾判不行。",
    "code": "SC-2941"
+  },
+  "SC-925": {
+   "batch": 128,
+   "name": "SARC ITALIA SRL（sarcitalia.it；**官网 privacy + registroaziende / reportaziende：P.IVA / C.F. 03184880361；REA MO-365943；Strada Albareto 503, 41122 Modena；+39 059 8751076；Ateco 46.69.2 工业电气材料批发；2024 营收 €1.31M（-10%，小亏 €13K）；2025 约 €1.3M；工业自动化技术分销商**）；表内：Atop + USR IoT；名单内未触达",
+   "iso": "IT",
+   "fetched": "2026-10-29",
+   "source": "IT · 1 次检索：sarcitalia.it/sarc-italia-privacy-policy.php（法人 / P.IVA / REA / 地址）+ registroaziende（营收 / Ateco）+ reportaziende；2026-10-29",
+   "url": "https://www.sarcitalia.it/sarc-italia-privacy-policy.php",
+   "number": "03184880361（P.IVA；REA MO-365943）",
+   "status": "营业中（Attiva）",
+   "incorporated": "未取",
+   "company_type": "S.r.l.",
+   "sic": [
+    "工业自动化分销（摩德纳）"
+   ],
+   "address": "Strada Albareto 503, 41122 Modena",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（€1.3M）",
+   "officers": [
+    "（info@sarcitalia.it 表内总邮箱；具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**Atop / USR 现供分销 → 分销 20%：一页纸一次（STI-154GP / STI-288GPM 对标 Atop 入门 + MOQ 1 + 付费样机；Atop 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**"
+   ],
+   "notes": "分销 20%；P 池候选 ○（已进口台湾 / 中国工业品牌 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔）；坐实（P.IVA）。",
+   "code": "SC-925"
   }
  }
 }

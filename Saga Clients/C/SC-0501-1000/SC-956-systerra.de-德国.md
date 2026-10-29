@@ -2,7 +2,7 @@
 
 > **评级 C**　|　德国　|　档案编号 `SC-956`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：德国 Systerra（systerra.de；Moxa 分销）：四主区 + 工业网络分销主体 + 对位 ✔；未触达 → 闸 2 查底数（Moxa 不点名）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 分销 20%：systerra computer GmbH（Wiesbaden；HRB 32770；GF Harald Borger；11–50 人；坚固计算 + Moxa 伙伴）坐实；四主区 ✔ 对位 ✔ 坐实 ✔ 工业网络方案 ✔ = 冷户四条 → P 池候选（守界：MIL 不承诺，只做工业 / 商用场景）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:DE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-956
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 17
 country: 德国
 region: 欧洲
@@ -38,6 +38,31 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `systerra.de` → Microsoft 365（MX：systerra-de.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 128 批（DE · 1 次检索：systerra.de/Impressum.htm（HRB / GF / USt）+ linkedin（11–50；Moxa 伙伴）+ afcea 展商档（定位 / 联系人）；2026-10-29，2026-10-29 查；https://www.systerra.de/Impressum.htm）：**
+
+- 法定名 / 登记号：systerra computer GmbH（systerra.de；**Impressum：Kreuzberger Ring 22, 65205 Wiesbaden；Amtsgericht Wiesbaden HRB 32770；USt DE345659756；GF Harald Borger；LinkedIn 11–50 人；坚固 / MIL 级计算与网络平台 20+ 年，Moxa / MPL / Mercury / RTD / Acromag 伙伴；AFCEA 展商联系人 Stephan Hering**）；表内：Moxa 分销；名单内未触达 · HRB 32770（Amtsgericht Wiesbaden） · 状态 **营业中（LinkedIn 近期更新）** · 成立 未取（20+ 年） · GmbH
+- 行业码 / 经营范围：坚固计算 / 工业网络方案（威斯巴登；国防 / 工业）
+- 注册地址：Kreuzberger Ring 22, 65205 Wiesbaden
+- 规模档：小型（11–50）
+- 账目：未取；—
+- 高管：Harald Borger — Geschäftsführer
+- 高管：Stephan Hering — 销售（AFCEA 展商档公开）
+- 高管：（info@systerra.de 表内总邮箱）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **Moxa 伙伴 → 分销 20%（仅工业 / 商用场景，不承诺 MIL）：一页纸一次（STI-288DGGPM / STI-488DGGPM 管理型工业 + MOQ 1 + 付费样机；Moxa 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**
+- 备注：分销 20%；P 池候选 ○（四主区工业网络方案商 + 对位 + 坐实 = 冷户四条）；坐实（HRB）；守界：MIL 不承诺。
 
 ## 基本事实（事实/推断/假设分层）
 
