@@ -1,0 +1,4593 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Saga Telecom 全景信息包（给其他 Agent 的参考手册） · 2026-10-29</title>
+<style>
+body{font-family:-apple-system,"Segoe UI","PingFang SC","Microsoft YaHei","Noto Sans CJK SC",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.6;color:#1f2328;max-width:1280px;margin:0 auto;padding:24px 32px;background:#fff}
+h1{font-size:26px;border-bottom:2px solid #d0d7de;padding-bottom:8px;margin-top:0}
+h2{font-size:20px;border-bottom:1px solid #d8dee4;padding-bottom:6px;margin-top:40px;background:#f6f8fa;padding:8px 10px;border-left:5px solid #0969da}
+h3{font-size:16px;margin-top:28px;color:#0a3069}
+h4{font-size:14px;margin-top:20px;color:#24292f}
+table{border-collapse:collapse;width:100%;margin:10px 0 18px;font-size:12.5px;display:block;overflow-x:auto}
+th,td{border:1px solid #d0d7de;padding:5px 8px;vertical-align:top;text-align:left}
+th{background:#eef2f6;font-weight:600;white-space:nowrap}
+tr:nth-child(even) td{background:#fafbfc}
+code{background:#f3f4f6;padding:1px 4px;border-radius:3px;font-size:12px;font-family:SFMono-Regular,Consolas,"Liberation Mono",Menlo,monospace}
+pre{background:#f6f8fa;padding:10px 12px;border-radius:6px;overflow-x:auto;font-size:12px;border:1px solid #d8dee4}
+pre code{background:none;padding:0}
+blockquote{border-left:4px solid #0969da;background:#f0f6ff;margin:12px 0;padding:8px 14px;color:#24292f}
+a{color:#0969da;text-decoration:none}
+hr{border:0;border-top:1px solid #d0d7de;margin:28px 0}
+ul,ol{padding-left:24px}
+li{margin:2px 0}
+strong{color:#0a0a0a}
+.meta{color:#57606a;font-size:12px}
+</style>
+</head>
+<body>
+<p class="meta">生成 2026-10-29 15:35:37 UTC · 北京时间 2026-10-29 23:35 · 自包含 HTML（无外链、无脚本）· MD 同名同目录</p>
+<h1>Saga Telecom 全景信息包（给其他 Agent 的参考手册）</h1>
+<blockquote>
+<p><strong>生成时间戳</strong>：2026-10-29 15:35:37 UTC（北京时间 2026-10-29 23:35）｜仓库 <code>elsasaga-cloud/Planet</code> 分支 <code>arena/3f35b9b3-planet</code> @ <code>faeaefd55</code>｜生成器 <code>scripts/saga_intro/build.py</code></p>
+<p><strong>一句话</strong>：Saga Telecom = Simon 一个人用三个名字经营的、以 Marvell（SmartByte）接入层交换机为核心、CENTEC（Hohunet）为汇聚/核心层、Realtek（HRUI）补位的中国出口 SOHO 品牌；只做海外、只做长期关系、不打价格战、不做云管/轨交/IP67/消费级；四主区土耳其 / 美国 / 英国 / 德国 + 波兰；对外口径「An Engineering &amp; Supply-Chain-First Telecom Partner — Built to Last, Continuous Supply, Evolving Together」。</p>
+<p><strong>性质</strong>：内部参考（含进价 / 毛利 / 邮箱 / 成单明细），不得整段外发。数据截至 2026-10-29（长期客户群 2,045 = A 170 / B 1,875；价格表 SmartByte 2026-09 / 洪瑞 2026-09-30；汇率 6.69 @ 2026-10-17）。</p>
+</blockquote>
+<h2>目录</h2>
+<ul>
+<li>
+<ol start="0">
+<li>这份文档怎么用</li>
+</ol>
+</li>
+<li>
+<ol>
+<li>身份卡（一页看完）</li>
+</ol>
+</li>
+<li>
+<ol start="2">
+<li>Simon 其人与 Saga 的运行方式</li>
+</ol>
+</li>
+<li>
+<ol start="3">
+<li>商业模式：Saga = 接口层</li>
+</ol>
+</li>
+<li>
+<ol start="4">
+<li>三家供应商</li>
+</ol>
+</li>
+<li>
+<ol start="5">
+<li>产品体系</li>
+</ol>
+</li>
+<li>
+<ol start="6">
+<li>技术能力与边界</li>
+</ol>
+</li>
+<li>
+<ol start="7">
+<li>商务条款（销售口径）</li>
+</ol>
+</li>
+<li>
+<ol start="8">
+<li>定价规则（两套并存，都是底线不是策略）</li>
+</ol>
+</li>
+<li>
+<ol start="9">
+<li>品牌口径与对外话术</li>
+</ol>
+</li>
+<li>
+<ol start="10">
+<li>市场与区域策略</li>
+</ol>
+</li>
+<li>
+<ol start="11">
+<li>目标客户画像、判读框架与分级标准</li>
+</ol>
+</li>
+<li>
+<ol start="12">
+<li>客户资产现状（2026-10-29）</li>
+</ol>
+</li>
+<li>
+<ol start="13">
+<li>成单客户 20 家（PI 包，2023-07 → 2026-10）</li>
+</ol>
+</li>
+<li>
+<ol start="14">
+<li>跟进节奏与渠道</li>
+</ol>
+</li>
+<li>
+<ol start="15">
+<li>概念词典与内部术语表</li>
+</ol>
+</li>
+<li>
+<ol start="16">
+<li>仓库地图（elsasaga-cloud/Planet，分支 arena/3f35b9b3-planet）</li>
+</ol>
+</li>
+<li>
+<ol start="17">
+<li>规则总表（写任何东西前过一遍）</li>
+</ol>
+</li>
+<li>
+<ol start="18">
+<li>未决事项（Q 清单与 backlog，默认执行中）</li>
+</ol>
+</li>
+<li>
+<ol start="19">
+<li>来源清单（本文每一句都能回到这些文件）</li>
+</ol>
+</li>
+</ul>
+<hr />
+<h2>0. 这份文档怎么用</h2>
+<ul>
+<li><strong>读者</strong>：任何要替 Saga 写信、报价、定级客户、做调研、改脚本的 Agent（任何模型、任何会话）。读完本文不必再翻 300+ 份仓内文档就能掌握「Saga 是谁、卖什么、怎么卖、给谁卖、什么不能做、仓库里东西在哪」。</li>
+<li><strong>性质</strong>：<strong>内部参考</strong>。含进价、毛利、邮箱账号、成单客户明细——<strong>不得整段外发给客户</strong>；对外只用 §9 的英文口径。</li>
+<li><strong>真源优先级</strong>（Simon 多次裁定）：
+  1. Simon 当轮的原话（<code>docs/requirements/对话全记录.md</code>）&gt; 本文；
+  2. 产品事实：SmartByte 官网（2026-09 改版，<code>docs/smartbyte/*</code>）&gt; SmartByte 2026-09 价格表（<code>data/价格主表.csv</code>）&gt; Saga Drive 旧版；Realtek 线进价真源 = 《洪瑞报价-天龙2026930.xls》；
+  3. 商务/口径：S/A 邮箱 2026-09/10 Simon 现行说法（§7.9）&gt; Drive《MUST KNOW》&gt; 早期 Profile；
+  4. 客户事实：研究档 JSON（<code>data/saga_clients/research/&lt;code&gt;.json</code> 等）&gt; 渲染出的 MD 档案（档案永远由脚本渲染，<strong>禁止手改</strong>）。</li>
+<li><strong>引用格式</strong>：本文每一节末尾给出「来源」路径；拿不准的事回源文件看原文，不要凭本文转述再加工。</li>
+<li><strong>更新</strong>：本文由 <code>scripts/saga_intro/build.py</code> 生成（叙述部分在 <code>scripts/saga_intro/parts/*.md</code>，型号/价格表直接读 <code>data/价格主表.csv</code>、<code>data/价格主表_HRUI.csv</code>）。改数据后重跑脚本即可，文件名带日期，旧版不覆盖。</li>
+</ul>
+<hr />
+<h2>1. 身份卡（一页看完）</h2>
+<table>
+<thead>
+<tr>
+<th>项</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>对外品牌</td>
+<td><strong>Saga / Saga Telecom</strong>（型号前缀 STC- / STI- / STH-）</td>
+</tr>
+<tr>
+<td>法律主体（PI / 报关 / 证书名义）</td>
+<td><strong>Zhengzhou Saga Telecom Equipment Co., Ltd.</strong>（郑州）；官网 At-a-Glance 写「Base = Shenzhen, China」——Simon 人在深圳、主体在郑州，两者并存（复盘 F14），对外材料不强调地址</td>
+</tr>
+<tr>
+<td>官网</td>
+<td><strong>https://sagatele.com/</strong>（2026-07-28 注册 10 年，GitHub Pages 托管，仓库 <code>SimonSaga-202306/sagatele-site</code>，单页 index.html）；旧站 sagatelecom.com.cn 已停、曾计划改为产品站；对外只写 sagatele.com</td>
+</tr>
+<tr>
+<td>一句话定位（英文，固定）</td>
+<td><strong>An Engineering &amp; Supply-Chain-First Telecom Partner</strong></td>
+</tr>
+<tr>
+<td>Slogan（英文，固定，Simon：「这个不考虑变」）</td>
+<td><strong>Built to Last, Continuous Supply, Evolving Together</strong></td>
+</tr>
+<tr>
+<td>成立/运营</td>
+<td>Simon 2023 年起以 SOHO 形式运营（最早单据 2023-07；Simon 自述「在通信行业 ACCESS switch 干了 6、7 年」，Saga 「经营了 2 年，净利润分别是 5 万和 10 万元」）</td>
+</tr>
+<tr>
+<td>人员</td>
+<td><strong>一个人</strong>：Simon。对外三个名字 = 三个 Gmail 账号（§2.2）。无员工、无海外分公司、无独家代理</td>
+</tr>
+<tr>
+<td>性质</td>
+<td><strong>副业</strong>（Simon 有本职工作：在职销售，所在公司做视频光端机 / DWDM / 光模块）；固定成本 2–3k/年；不压货、不投广告</td>
+</tr>
+<tr>
+<td>货源</td>
+<td>三家供应商、两层架构：接入层 <strong>SmartByte（Marvell，核心货源）</strong> + <strong>HRUI 洪瑞（Realtek，补型号 / 价格敏感客户）</strong>；汇聚/核心层 <strong>Hohunet（CENTEC）</strong></td>
+</tr>
+<tr>
+<td>产品</td>
+<td>商用 / 工业 PoE 与非 PoE 交换机（5–48 口，L2 / L2+ / L3）、工业介质转换器、CENTEC 10G–400G 汇聚/核心/DC 交换机；光模块/DAC/电源只随整机搭售</td>
+</tr>
+<tr>
+<td>认证（Saga 名义）</td>
+<td><strong>CE（EMC+LVD）/ RoHS / REACH SVHC 240 / UKCA（EMC+LVD）/ FCC SDoC</strong>（2024-07 同批，东莞骏安 + 深圳中测通）；介质转换器另有 2021/2022 一批。<strong>无 UL / cUL / E-mark / KC / EN50155 / IP67 / ATEX</strong></td>
+</tr>
+<tr>
+<td>市场</td>
+<td>只做海外。<strong>四主区：土耳其 / 美国 / 英国 / 德国；波兰次重点</strong>；欧洲其他国家与加拿大在范围内；俄罗斯 / 印度 / 韩国有客户但次级；<strong>不做国内市场，网站永远不出现中文</strong></td>
+</tr>
+<tr>
+<td>成单</td>
+<td>PI 包 20 个成单客户（2023-07 → 2026-10），单据销售额 USD 109,988 + RMB 158,432；真正的量在 Angora（TR）、Biz-Ethics/Mbata（NG）、NYNEX（DE）、PBA Forever（TH）四家（§13）</td>
+</tr>
+<tr>
+<td>报价</td>
+<td>USD <strong>EXW</strong>（非欧盟客户可 DAP / FOB 深圳）；<code>$xx USD EXW（快照 YYYY-MM-DD，15 天有效，报价前核价）</code>；T/T 50% 预付 + 50% 发货前；PayPal +5%；MOQ 1；标准品 4–7 个工作日 + 5 天老化</td>
+</tr>
+<tr>
+<td>收款</td>
+<td>T/T（中国银行；首笔境外来款需买方股东信息）、Xtransfer、PayPal（s. 账户）、HK 账户可收 TRY、EUR 账户可用；俄罗斯 / 尼日利亚 / 泰国 / 马来西亚等走<strong>货代人民币</strong>；RU / BY / KZ / UZ 收款路径未清前不报价</td>
+</tr>
+<tr>
+<td>沟通渠道</td>
+<td>邮件为主（英文）；WhatsApp（官网悬浮按钮只跳转不显示号码）；WeChat / LinkedIn 只对 James（加拿大）用过；<strong>对外材料不出现 152 手机号与 s. 邮箱</strong></td>
+</tr>
+<tr>
+<td>不做</td>
+<td>云管理 / 控制器、轨交 EN50155、IP67、消费级 / 家用路由、UL/E-mark/KC 行业、SFP28+ 高速 Marvell、SDK / 源码、国内公账单、视频营销 / Facebook / YouTube / 付费广告（§6.4 完整清单）</td>
+</tr>
+</tbody>
+</table>
+<p>来源：<code>docs/reference/Saga公司画像与边界.md</code>、<code>docs/reference/Saga品牌口径与宣传语录.md</code>、<code>docs/Saga理念摘读_2026-10-23.md</code> A1/A4/A8/A25/A27、<code>docs/reference/证书登记表_2026-10-22.md</code>、<code>docs/成单客户_PI复盘_2026-10.md</code>。</p>
+<hr />
+<h2>2. Simon 其人与 Saga 的运行方式</h2>
+<h3>2.1 Simon（唯一的人）</h3>
+<ul>
+<li>销售出身，英语专业（专八），非通信科班；「我自己也有工作，这个外贸公司是我的副业，也就是我没有那么多精力去搞非常技术的东西」。</li>
+<li>人在<strong>深圳</strong>（「通信资源、供应链、人文环境很不错」）；日常「每天 1–2 小时固定处理贸易事务，每周 1 天拓展，每月一次升级」是他给自己定的节奏。</li>
+<li>自我评价：「我这个公司品牌的优势劣势很明显，非常两极化：如果客户很在意价格、公司实力，我很吃亏；但如果更在意我们的 capability、产品的功能，我们非常 OK」。</li>
+<li>价值观（原话）：「只做顺手单不做拼命单」；「1 次跟进不行就 10 次，10 次不行就 2 年 5 年」；「不是 2 选 1，是都要有，比例不一样，前期 82 甚至 91，慢慢地 73、64、55、甚至 46 开了，give it time!!」（欧洲因果型客户 vs 印度倒推型客户的比例）；「在对的 4 个国家，把对的 20 个客户，服务成离不开你的 8 个」。</li>
+<li>对 Agent 的工作要求（必须遵守）：答复用<strong>大白话</strong>、每项「搞定 / 没搞定 + 你要做啥 / 不用做啥」；不要一轮一问（决策进 <code>待统一处理问题清单.md</code> Q-xx 并按默认执行）；任务要<strong>长、批量大</strong>（40 分钟到 1 小时一轮）；每轮结束有文字报告；每一轮对话原文带时间戳记入 <code>docs/requirements/对话全记录.md</code>；判断标准「省你的时间 + 有没有长期复利」；<strong>永远不要让 Simon 去问 Peter/HRUI 要价格</strong>；断言「缺」之前先 grep 证据。</li>
+</ul>
+<h3>2.2 三个名字 = 一个流程的三个阶段</h3>
+<table>
+<thead>
+<tr>
+<th>对外名字</th>
+<th>Gmail</th>
+<th>用途 / 阶段</th>
+<th>单号前缀</th>
+<th>签名</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Simon</strong></td>
+<td><code>s.sagatelecom@gmail.com</code></td>
+<td>最早的账号；早期客户关系、群发（2026-09/10 的「24 Port PoE Managed Switch」813 封）、PayPal 收款账户；<strong>对外材料已清理 152 手机号与 s. 邮箱</strong></td>
+<td>STSC-</td>
+<td><code>- Simon / https://sagatele.com/ / An Engineering &amp; Supply-Chain-First Telecom Partner / Built to Last, Continuous Supply, Evolving Together</code></td>
+</tr>
+<tr>
+<td><strong>Alan</strong></td>
+<td><code>a.sagatelecom@gmail.com</code></td>
+<td>报价、PI、订单、技术问答、品牌站联系邮箱；交接句式「My friend Simon sent you some info… I will take over」</td>
+<td>STAG-</td>
+<td>同上格式</td>
+</tr>
+<tr>
+<td><strong>Elsa</strong></td>
+<td><code>e.sagatelecom@gmail.com</code>（显示 "Elsa from Saga Telecom"）</td>
+<td>首触群发（2025-03 起每月一波 ≈12 个主题）、产品站联系邮箱；3,675 封 / 3,288 会话；标签 <code>Replied</code> 51 会话</td>
+<td>STEC-</td>
+<td><code>Elsa / https://sagatele.com/ / An Engineering &amp; Supply-Chain-First Telecom Partner / Built to Last, Continuous Supply, Evolving Together</code></td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>「三个账号都是我」（T29-U28）。一个客户的完整历史分散在三个邮箱，<strong>合并后才是一条线</strong>；加厚每户要三箱都查，写明「最后一次由哪个名字接触」。</li>
+<li><code>STS-/STSC-2026xxxx-001</code> = 2026 新版报价/PI 模板。</li>
+<li>S / A 邮箱<strong>无法</strong>连到 Arena 连接器（T28-U2）——不要再建议；S/A 的历史已整箱入库 <code>data/gmail_s|gmail_a</code>（jsonl 按月）；E 箱可经 Gmail 连接器只读。</li>
+<li>首触样板两套<strong>不混发</strong>（Q-21）：Elsa 群发 = 「3 条短特性 → 1 个问题 "Do you need some units for testing?" → 1 张产品图 → 签名」，不写价格不写公司简介；Planet 仓样板 = 「观察 → 相关性 → 单一 P1 报价 → 一问」。</li>
+</ul>
+<h3>2.3 运行事实（SOHO 的硬约束）</h3>
+<table>
+<thead>
+<tr>
+<th>约束</th>
+<th>出处</th>
+<th>直接推出的做法</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>一个人、副业、固定成本 2–3k/年</td>
+<td>《总结反思》；U28</td>
+<td>必须筛客户；不做售后密集产品；时间是最贵资源</td>
+</tr>
+<tr>
+<td>不压货、全预付、供应商 → 货代直发，「我自己是不经手产品的」</td>
+<td>《由Sales转向Projects》；PI 全 T/T·PayPal</td>
+<td>MOQ 1、样品付费、交期随供应商；「库存」= 供应商的芯片库存</td>
+</tr>
+<tr>
+<td>贸易商身份、价格被动（「给我 100，我最多卖 130」；后文「我卖 110 是极限价格了」）</td>
+<td>《背景信息》</td>
+<td>不打价格战 → 利润底线制 + 30% 封顶 + 拒绝价格流客户</td>
+</tr>
+<tr>
+<td>认证只到 CE 级</td>
+<td>《背景信息》</td>
+<td>守界：不进强制认证行业；UL/PSE 项目让客户自担认证</td>
+</tr>
+<tr>
+<td>不做国内；<strong>国内单只走私账</strong>（支付宝/微信/银行卡，「宁可不接也不处理税相关的东西」）</td>
+<td>《计划》；Saga.md 2026-08</td>
+<td>网站无中文；与 SmartByte 国内客户冲突时让路（Larch 案）</td>
+</tr>
+<tr>
+<td>供应商关系 &gt; 单笔机会</td>
+<td>U28「CENTEC 敲门砖、Peter 产品优先」</td>
+<td>产品边界由供应商能力与 ROI 决定</td>
+</tr>
+<tr>
+<td>贸易公司 = 「天然美元收入 + 合法结汇通道」（个人财务文档里与 Saga 唯一相关的一句）</td>
+<td>《USD和RMB》</td>
+<td>其余个人财务内容<strong>不入库不引用</strong></td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>两年净利润：第一年 5 万、第二年 10 万元（第二年接了一个大项目 = Angora 178 台）。</li>
+<li>销售漏斗（A 邮箱两年）：14,500 发 → Opened 1,011 → 真实来信 208 → 实质线程 91 → 深谈 ≈10 → 成单 4。这不是「转化率低」，是三道筛子 + 顺手单 + 边界清单共同设计出的形状（§15 C2/C3/C10）。</li>
+</ul>
+<p>来源：<code>docs/Saga内在逻辑与概念_2026-10-24.md</code> §1、<code>docs/Saga理念摘读_2026-10-23.md</code> A1–A8/A20/A25、<code>docs/gmail/00-Gmail盘点与使用方案.md</code>、<code>docs/成单客户_PI复盘_2026-10.md</code>。</p>
+<hr />
+<h2>3. 商业模式：Saga = 接口层</h2>
+<ul>
+<li><strong>Saga 不是产品公司，是接口层</strong>：下面三家供应商，上面客户；Saga 提供统一的型号命名（STC/STI/STH 覆盖三家来源）、资料、条款、单一对接人。PI 上写「Manufacturer: Zhengzhou Saga Telecom」+「Marvell Chip」；工厂装箱单抬头是 Saga 郑州（客户看不到 SmartByte）。</li>
+<li><strong>三道被动筛子</strong>（过滤优先于转化）：① 口号「Marvell 管理型」把只看价格的 Realtek 客户从芯片源头筛掉；② Drive 自助资料（Product Link PDF 五个文件夹）筛掉不愿读的；③ Template 条款（Must-Read / A Word / Order Procedure / Warranty / Customization）筛掉不接受规则的。<strong>客户走到第几道筛子 = 他的真实阶段</strong>（读了 Drive 能引用型号/价表 = 第 2 道；付样、确认 PI/标签、填供应商表 = 第 3 道）。</li>
+<li><strong>技术流绑定</strong>（不是 API）：让客户把 Saga 的型号、CLI/MIB、固件行为、规格书写进自己的系统、标书、运维文档；五个真实信号：客户把 MIB 导入 NMS / 写了基于 CLI 的内部文档 / 型号进入标准 BOM / 正式测试留档 / 新项目直接复用——「出现 3 个以上，你就已经不是可替代供应商了」。明确放弃「伪绑定」：API 深度对接、定制开发、SDK、深度 NMS 集成、特殊协议。三问：「如果今天我消失，客户要付出多少工程代价？客户内部是否有痕迹证明你存在？下一个项目，默认是谁？」要向客户灌输 <strong>Change is Expense</strong>。</li>
+<li><strong>中性与隐身</strong>：设备中性、无中文、logo 只印标签；SmartByte 隐身在 Saga 之后，Saga 又隐身在客户品牌之后（Angora「Verge」系列、Fastball FBC-204GP = STC-204GP、Mbata BNSC- 系列、James SW-3200）。<strong>OEM 品牌商最优先的根因在这里</strong>——客户为自有品牌投入的型号、包装、文档都是沉没成本。</li>
+<li><strong>信息资产化</strong>：规格书、价表、手册、特性表、Roadmap、Profile 都按「一次做好、季度更新、所有客户共用」设计；每个成单客户一个按「国家 / 客户名」命名的 Google Drive 文件夹（Datasheet / User Manual / Certificate of Warranty / Warranty Policy / Web &amp; CLI Manual / Product Photos / Shipping Document / Details of This Order）。</li>
+<li><strong>How We Do Business（Saga 原文）</strong>：「digital and paperless… #gogreen」；「Simplified, Standard, Solution based」；「buffet-style business communication」（公开 Google 链接、季度更新、价值自显）；「It is not only about fiber optic connection, but also about human connection.」</li>
+<li><strong>CCF（Commercial Contract Framework）</strong>：付款 / 交付物流 / 质量规格 / 保修 / RMA / 出口合规 / 一般权利义务，Saga 内部标准季度复审（早期版本写「renewed ON YEARLY BASIS」）。</li>
+<li><strong>远期想法（不是当前执行项）</strong>：SaXa 矩阵——Saxa 光模块/DAC/AOC/跳线、Sala DWDM、Safa PON/WAP、Sava 品牌标品纯贸易、M12 交换机补充线；状态码 MS/MC/TS/TC；Simon 2026-08：「这是早期的规划… not now」。「由 Sales 转向 Projects」：已有 sales 托底、开发信照发，方向向项目（BOM、竞标）靠拢；DC Switches 当项目入口只在美/德/英推。</li>
+</ul>
+<p>来源：<code>docs/Saga内在逻辑与概念_2026-10-24.md</code> §2 C1–C5/C13、<code>docs/Saga理念摘读_2026-10-23.md</code> A1/A2/A4/A5/A11、<code>docs/reference/Saga品牌口径与宣传语录.md</code> §1。</p>
+<hr />
+<h2>4. 三家供应商</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>SmartByte（接入层主力）</th>
+<th>HRUI 洪瑞（接入层补充）</th>
+<th>Hohunet（汇聚/核心）</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>芯片</td>
+<td><strong>Marvell</strong>（AC3 98DX226S/336S 时代 → <strong>AC5 / AC5 Lite 98DX2515/2518</strong>；AC5X 2.5G/25G；Aldrin2 / Falcon DC 白盒）</td>
+<td><strong>Realtek</strong>（RTL83xx；ACL 256–512）</td>
+<td><strong>CENTEC 盛科</strong>（VastLakes / BigFlow / PeakNetX 平台；STOS 软件）</td>
+</tr>
+<tr>
+<td>官网</td>
+<td>https://www.smartbyte-switch.com/（2026-09 改版，<strong>产品事实真源</strong>）</td>
+<td>https://www.hruitech.com/</td>
+<td>https://hohunet.com/</td>
+</tr>
+<tr>
+<td>公司</td>
+<td>SmartByte Technology Co., Ltd，2020 深圳；母公司<strong>凌特华盛</strong>（惠州 8 楼，Marvell 方案，主打欧美），100% 控股<strong>进为时代</strong>（7 楼，MTK 方案，主打东南亚/印度）；惠州工厂 7,000 ㎡、月产 3K DIN 导轨机（早期 Profile 自述口径）</td>
+<td>深圳洪瑞光电（hruitech.com / hrgdkj），报价单型号 ZX-、官网 HR 码；<strong>价格月变（「1 个月变 4–5 次」）</strong></td>
+<td>CENTEC 方案商；SmartByte 2025–2026 也在预研 Centec 平台</td>
+</tr>
+<tr>
+<td>对接人</td>
+<td><strong>Peter</strong>（技术窗口；「Peter 产品优先」；NYNEX 技术问题由 Peter 处理）</td>
+<td>天龙 / 欧林克报价单（<code>洪瑞报价-天龙2026930.xls</code>、<code>洪瑞报价-欧林克 26818.xls</code>）</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Saga 前缀</td>
+<td>STC-（商用）/ STI-（工业）/ 介质转换器</td>
+<td>STC-（商用 Realtek 线）/ STI-（Realtek 工业 DIN 线，Drive 2025-04 表 21 款 $80–205）</td>
+<td><strong>STH-</strong></td>
+</tr>
+<tr>
+<td>价格真源</td>
+<td>SmartByte 2026-09 CNY 价表（管理型有效期 2026-09-01 → 2026-12-30）；非管理表 2024-01-11、Bypass 表 2025-03-12（旧，报价前核）</td>
+<td>《洪瑞报价-天龙2026930.xls》（2026-09-30）&gt; PI 采购合同成交价 &gt; 微信口径</td>
+<td>A 邮箱附件 2026 Q2 价表 / 群发价（§8.6）</td>
+</tr>
+<tr>
+<td>保修（工厂政策）</td>
+<td>官网：工业 6 系列 5 年 / 3 系列 3 年；商用 3 年；ODM 另议</td>
+<td>—</td>
+<td>2026Q2 价表「Warranty: 1 year」</td>
+</tr>
+<tr>
+<td>Saga 对外保修</td>
+<td><strong>STC 1 年 / STI 3 年</strong>（Drive《Warranty Policy》+ 75 份实发 PI 普查）；官网 5 年不引用</td>
+<td>同</td>
+<td>STH 同商用 1 年</td>
+</tr>
+<tr>
+<td>固件</td>
+<td>AC3 终版 lite-hotfix-7.3.13（只维护）；AC5 2026-08 给客户 ac5-hotfix-7.4.2；<strong>7.5.x</strong> = AC5 Lite 发布版（<code>Saga Feature List_7.5.x_L2+/L3.xlsx</code> 在仓库根目录）</td>
+<td>—</td>
+<td>STOS《Saga Software Function List_EN_V2.4》（2026/Q2）按许可分层 EB / MS / MA / ST</td>
+</tr>
+<tr>
+<td>关系口径（对外）</td>
+<td>"SmartByte is our Marvell-platform manufacturing partner; Saga owns the product definition, firmware branding and after-sales." 不自称工厂；Factory Tour 只能以 "our manufacturing partner's ISO9001/14001 facility" 引用</td>
+<td>不对客户提 HRUI 名字；只在客户自己说 Realtek / 低价 / 功能简单时给 Realtek 线</td>
+<td>对外「CENTEC 是 core 不是 access」；Saga 不是 CENTEC/Hohunet 的欧洲总代</td>
+</tr>
+<tr>
+<td>仓内资料</td>
+<td><code>docs/smartbyte/*</code>（官网全量抓取、公司与政策页、微信 OCR 13,943 条、新闻与固件）、<code>data/smartbyte_site*</code>、<code>data/smartbyte_drive*</code>、<code>docs/smartbyte_wechat_summary.md</code></td>
+<td><code>docs/suppliers/HRUI/00–05</code>、<code>data/hrui_*</code>、<code>data/价格主表_HRUI.csv</code>、<code>docs/reference/价格表_HRUI_三档加价_USD.md</code></td>
+<td><code>docs/suppliers/Hohunet/*</code>、<code>data/hohunet_*</code>、<code>docs/reference/CENTEC_产品表与报价锚_2026-10-24.md</code></td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><strong>供应商筛选原则</strong>（Simon 存档的 5 条硬门槛）：生命周期 ≥5 年、保守型硬软件策略、技术沟通可降维、供应商不干你这套系统的事、<strong>价格稳定 &gt; 价格便宜</strong>。</li>
+<li><strong>供应商关系优先于客户机会</strong>：Larch 8,000 台（$250 目标价 + 无软件 + 与 SmartByte 国内客户冲突）被主动停止；CENTEC 是「敲门砖」但 Peter 的产品优先（T29-U15/U16）。CENTEC 跟进 / 备货 / 固件都是 Simon 自己的事，Agent 不代办。</li>
+<li>SmartByte 2024-11「六个不做」（AC3 时代原话）：NAT / 堆叠 / SD-WAN / TSN / MPLS / 云管理——MPLS 现在 CENTEC 线有，其余仍不做。</li>
+<li>SmartByte 产品路线（官网）：2024 AC5X 24/48×2.5G + 6×25G、Fiber Bypass；2025 AC3→AC5 100%、DI/DO/RS485、Booster PoE；2026 MQTT/1588 PTP/Modbus/Profinet、首款 TSN（Ironman）、Centec 管理型；2027 EN50155 系列——<strong>路线图不等于 Saga 现货，未进价表的一律不承诺</strong>。</li>
+</ul>
+<p>来源：<code>docs/reference/Saga商务条款速查.md</code>、<code>docs/smartbyte/公司与政策页_2026-10-20.md</code>、<code>docs/Saga理念摘读_2026-10-23.md</code> A8/A29、<code>docs/对外口径一致性_2026-10-24.md</code> #4/#18、<code>docs/reference/CENTEC_产品表与报价锚_2026-10-24.md</code>。</p>
+<hr />
+<h2>5. 产品体系</h2>
+<h3>5.1 命名规则</h3>
+<ul>
+<li><strong>三大类目</strong>（Simon 原话）：<strong>STI = Saga Telecom Industrial</strong>、<strong>STC = Commercial</strong>、<strong>STH = High speed network = Core &amp; Aggregation</strong>；「是不是 PoE 以及管理啥的都体现在命名里，而不是类目分项里」。</li>
+<li><strong>AC5 / Realtek 线字母表（STC/STI）</strong>：<code>ST{C|I}-</code> + 上联口数 + 下联口数 + 速率/介质字母 + 管理/PoE 后缀。常见读法：</li>
+<li>速率/介质：<code>F</code> 百兆、<code>G</code> 千兆电、<code>DG</code> 1G/2.5G SFP、<code>XG</code> 1G/2.5G/10G SFP+、<code>GC</code> Combo、<code>GF</code> 千兆光；</li>
+<li>功能：<code>M</code> 管理型、<code>P</code> PoE（af/at）、<code>-2BT</code>/<code>-4BT</code> 1–2/1–4 口 PoE++ 60–90W、<code>-U</code> 机架 AC/DC 冗余、<code>-D</code> 带 DI/DO/RS485、<code>(L3)</code> 三层档、<code>-280W/-440W</code> 电源、<code>-24V</code> 24V 被动 PoE 输出、<code>-Auto</code> 24/48V 自适应、<code>E</code> 非管理（工业）；</li>
+<li>介质转换器：<code>STI-1xx/2xx</code> + <code>FE/GE/FP/GP</code>；</li>
+<li>例：<strong>STC-424XGGPM-280W</strong> = 商用、4×10G SFP+ 上联、24 口千兆 PoE 管理型、280W（= SmartByte LT-S8328XGP-4XS24GT-S，「AC5 爆款」，群发 $180）；<strong>STI-288DGGPM</strong> = 工业、2×2.5G SFP、8 口千兆 PoE 管理型（= LT-IS6310GP-2GX8GT）。</li>
+<li><strong>STH 线字母表（CENTEC）</strong>：<code>C</code> 100G QSFP28、<code>QC</code> 400G QSFP112、<code>QX</code> 40G QSFP+、<code>DX/DF</code> 25G SFP28、<code>XF</code> 10G SFP+、<code>XE</code> 10G Multi-Gig 铜、<code>VE</code> 5G 铜、<code>DE</code> 2.5G 铜、<code>XP/VP/DP</code> 对应速率 Multi-Gig 铜 + PoE++、<code>GE/GP/GF</code> 1G 铜 / 1G PoE++ / 1G SFP；后缀 <code>-HSI</code> 双 CRPS + 热插拔风扇、<code>-SFI</code> 固定单电源。例：STH-2C24XF-HSI = 24×10G SFP+ + 2×100G 双电源。</li>
+<li><strong>光模块与 PoE 配件命名（Saga 自定，随整机搭售）</strong>：STI/STC + M/G/DG/XG（速率）+ 距离 km + SD（单模双纤）/SS（单模单纤 T/R 成对）/MD（多模双纤）/T（电口）；PoE 配件 PI（Injector，如 STI-PI-G90W-48V）、PS（Splitter）、PE（Extender）。SFP 只到 10G；25G/40G/100G 随 STH 整机报（Angora 实成交 1G $5 / 10G $8–10 / 25G $20 / 40G $33 / 100G $42；ITM 400G-SR4 $300）。</li>
+<li><strong>型号书写规则</strong>：档案、邮件、CSV 一律写 <strong>Saga 型号</strong>；Saga 无对应规格的（光纤 Bypass 全系、带 DI/DO 的 16 口 4×2.5G 上联、bt + 4×10G 组合、L3 8GE+8SFP+4×10G 等 17 个）写 SmartByte <code>LT-</code> 型号并注明「Saga 暂无对应型号，沿用 SmartByte 型号 LT-xxx」；同名有 L2+/L3 两档的（STC-424XGGM $143/$295）必须注档位；<strong>有效型号集合 = <code>data/价格主表.csv</code> 的 <code>Saga对应型号</code> ∪ <code>audit_ab.py</code> 的 HRUI_MODELS ∪ CENTEC 表</strong>——信稿里出现不在集合内的型号即错。</li>
+</ul>
+<h3>5.2 门面机型（品牌站 / 产品站 / 群发主推）</h3>
+<table>
+<thead>
+<tr>
+<th>型号</th>
+<th>一句话</th>
+<th>现行对外价锚</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>STC-424XGGPM-280W</strong></td>
+<td>Marvell AC5 L2+，24 口 PoE af/at + 4×10G SFP+，OEM + 可定制 Web GUI，280W</td>
+<td>群发 <strong>$180/pc</strong>（= CNY 1,010 × 1.20 ÷ 6.69 = $181.2，20% 档）；Elsa 旧群发 $170</td>
+</tr>
+<tr>
+<td>STC-424XGGM</td>
+<td>同上非 PoE</td>
+<td>$127–138 三档；2026-07 对 MikroTik 顾问「130USD」</td>
+</tr>
+<tr>
+<td>STC-4168XGGCM</td>
+<td>L3，16×1G SFP + 8 Combo + 4×10G SFP+</td>
+<td>NYNEX 2026-10 复购 20 台；列表价 $413</td>
+</tr>
+<tr>
+<td>STC-448XGGPM / STC-448XGGM</td>
+<td>48 口 PoE / 非 PoE + 4×10G</td>
+<td>$335 / $264（20% 档）</td>
+</tr>
+<tr>
+<td>STI-288DGGPM</td>
+<td>工业 L2+，8 口 PoE + 2×2.5G SFP，DI/DO/RS485，240W</td>
+<td>$139.9（20% 档）；Saga 列表 $137.5；老表 $125</td>
+</tr>
+<tr>
+<td>STI-488XGGPM2B-2BT</td>
+<td>工业，光旁路 ≤10 ms + 4×10G 上联 + 2×90W</td>
+<td>品牌站展示款</td>
+</tr>
+<tr>
+<td>STI-21616GP</td>
+<td>16 口 PoE+ 240W 非管理工业，PoE watchdog，1–4 口 250 m</td>
+<td>Elsa 群发 $165</td>
+</tr>
+<tr>
+<td>STI-21616DGGPM / STI-21616XGGPM</td>
+<td>工业 16 口 PoE 管理型 2×2.5G / 2×10G（James SW-3200-16GP 贴牌）</td>
+<td>$240 / $298（20% 档）</td>
+</tr>
+<tr>
+<td>STI-488DGGPM-2BT</td>
+<td>工业 8 口 PoE 含 2 口 bt + 4×2.5G SFP</td>
+<td>$165–179 三档；Netaş 2025-12 首单机型（单据 USD 545）</td>
+</tr>
+<tr>
+<td>STC-110XGE</td>
+<td>10G 介质转换器（UKCA 主测款；Vi-Link 采购过）</td>
+<td>$65（老表口径，不在 2026-09 主表内，报前核）</td>
+</tr>
+<tr>
+<td>STH-2C24XF-HSI</td>
+<td>24×10G SFP+ + 2×100G，双电源</td>
+<td>群发 $1,500；2026-06 对 SA-060 HSI $1,250 含 MA</td>
+</tr>
+<tr>
+<td>STH-8C48DX-HSI</td>
+<td>48×25G + 8×100G</td>
+<td>$4,800</td>
+</tr>
+<tr>
+<td>STH-32C-HSI / STH-32QC</td>
+<td>32×100G / 32×400G DC</td>
+<td>$6,000 / 400G 群发「Ready in stock」236 封（实际交期要核）</td>
+</tr>
+<tr>
+<td>STC-2224GFP-24V / STC-208GP-Auto / STC-4424GCP-4BT-Auto</td>
+<td>24V 被动 PoE 方案（Ubiquiti/Cambium/护士呼叫等 24V PD）</td>
+<td>案例文档已成文</td>
+</tr>
+</tbody>
+</table>
+<h3>5.3 完整型号 × 价格表（自动生成）</h3>
+<p>下表由 <code>data/价格主表.csv</code>（SmartByte 2026-09 CNY 价表 × 三档 ÷ 6.69，共 135 行）与 <code>data/价格主表_HRUI.csv</code>（洪瑞 2026-09-30，55 行）生成；CENTEC 表无成本价，只有报价锚（§8.6）。USD 列 = <strong>对外档位价</strong>（20% 分销 / 25% 集成 / 30% OEM），<strong>不是</strong>列表价；列表价（2026-06 PDF）≈ 20% 档 ÷ 0.9，见 §8.7 的矛盾说明。</p>
+<h4>5.3.1 SmartByte / Marvell 线（<code>data/价格主表.csv</code>，135 行，CNY 为 SmartByte 未税价，汇率 6.69 @ 2026-10-17）</h4>
+<p><strong>Layer 2 Managed Industrial Ethernet Switches Full Gigabit Series</strong>（6 款）</p>
+<table>
+<thead>
+<tr>
+<th>Saga 型号</th>
+<th>SmartByte 型号</th>
+<th>规格摘要</th>
+<th>CNY</th>
+<th>USD +20%</th>
+<th>USD +25%</th>
+<th>USD +30%</th>
+<th>Saga 列表价 USD</th>
+<th>备注</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>STI-240FM</td>
+<td>LT-IS3206F-2FX4TX</td>
+<td>● 4<em>10/100Base-T RJ45 ports, 1</em>100Base-X SFP ports / ● DC 12~58V input, redundant power supply with polarity …</td>
+<td>280</td>
+<td>50.2</td>
+<td>52.3</td>
+<td>54.4</td>
+<td>55.0</td>
+<td>L2</td>
+</tr>
+<tr>
+<td>STI-244FPM</td>
+<td>LT-IS3206FP-2FX4TX</td>
+<td>PoE 衍生型（同主型规格 + PoE）</td>
+<td>320</td>
+<td>57.4</td>
+<td>59.8</td>
+<td>62.2</td>
+<td>66.0</td>
+<td>L2</td>
+</tr>
+<tr>
+<td>STI-240GM</td>
+<td>LT-IS3206G-2GX4GT</td>
+<td>● 4<em>10/100/1000Base-T RJ45 ports, 2</em>100/1000Base-X SFP ports / ● DC 12~58V input, redundant power supply with…</td>
+<td>320</td>
+<td>57.4</td>
+<td>59.8</td>
+<td>62.2</td>
+<td>66.0</td>
+<td>L2</td>
+</tr>
+<tr>
+<td>STI-244GPM</td>
+<td>LT-IS3206GP-2GX4GT</td>
+<td>PoE 衍生型（同主型规格 + PoE）</td>
+<td>360</td>
+<td>64.6</td>
+<td>67.3</td>
+<td>70.0</td>
+<td>77.0</td>
+<td>L2</td>
+</tr>
+<tr>
+<td>STI-280GM</td>
+<td>LT-IS3210G-2GX8GT</td>
+<td>● 8<em>10/100/1000Base-T RJ45 ports, 2</em>1000/2500Base-X SFP ports / ● DC 12~58V input, redundant power supply wit…</td>
+<td>380</td>
+<td>68.2</td>
+<td>71.0</td>
+<td>73.8</td>
+<td>77.0</td>
+<td>L2</td>
+</tr>
+<tr>
+<td>STI-288GPM</td>
+<td>LT-IS3210GP-2GX8T</td>
+<td>PoE 衍生型（同主型规格 + PoE）</td>
+<td>440</td>
+<td>78.9</td>
+<td>82.2</td>
+<td>85.5</td>
+<td>88.0</td>
+<td>L2</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Layer 2+ Managed Industrial Ethernet Switches Full Gigabit Series</strong>（23 款）</p>
+<table>
+<thead>
+<tr>
+<th>Saga 型号</th>
+<th>SmartByte 型号</th>
+<th>规格摘要</th>
+<th>CNY</th>
+<th>USD +20%</th>
+<th>USD +25%</th>
+<th>USD +30%</th>
+<th>Saga 列表价 USD</th>
+<th>备注</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>STI-240DGGM</td>
+<td>LT-IS6306G-2GX4GT</td>
+<td>● 4<em>10/100/1000Base-T RJ45 ports, 2</em>1G/2.5GBase-X SFP ports / ● DC 12~58V input, redundant power supply with …</td>
+<td>660</td>
+<td>118.4</td>
+<td>123.3</td>
+<td>128.3</td>
+<td>110.0</td>
+<td>L2+</td>
+</tr>
+<tr>
+<td>STI-244DGGPM</td>
+<td>LT-IS6306GP-2GX4GT</td>
+<td>PoE 衍生型（同主型规格 + PoE）</td>
+<td>720</td>
+<td>129.1</td>
+<td>134.5</td>
+<td>139.9</td>
+<td>121.0</td>
+<td>L2+</td>
+</tr>
+<tr>
+<td>STI-244DGGPM-2BT</td>
+<td>LT-IS6306GP-2GX4GT-2BT</td>
+<td>PoE++ 衍生型（1–2/1–4 口 bt 60–90W）</td>
+<td>820</td>
+<td>147.1</td>
+<td>153.2</td>
+<td>159.3</td>
+<td>143.0</td>
+<td>L2+</td>
+</tr>
+<tr>
+<td>STI-280DGGM</td>
+<td>LT-IS6310G-2GX8GT</td>
+<td>●8<em>10/100/1000Base-T RJ45 ports, 2</em>1G/2.5GBase-X SFP slots / ● DC 12~58V input, redundant power supply with p…</td>
+<td>700</td>
+<td>125.6</td>
+<td>130.8</td>
+<td>136.0</td>
+<td>121.0</td>
+<td>L2+</td>
+</tr>
+<tr>
+<td>STI-288DGGPM</td>
+<td>LT-IS6310GP-2GX8GT</td>
+<td>PoE 衍生型（同主型规格 + PoE）</td>
+<td>780</td>
+<td>139.9</td>
+<td>145.7</td>
+<td>151.6</td>
+<td>137.5</td>
+<td>L2+</td>
+</tr>
+<tr>
+<td>STI-288DGGPM-2BT</td>
+<td>LT-IS6310GP-2GX8GT-2BT</td>
+<td>PoE++ 衍生型（1–2/1–4 口 bt 60–90W）</td>
+<td>880</td>
+<td>157.8</td>
+<td>164.4</td>
+<td>171.0</td>
+<td>154.0</td>
+<td>L2+</td>
+</tr>
+<tr>
+<td>STI-480DGGM</td>
+<td>LT-IS6312G-4GX8GT</td>
+<td>●8<em>10/100/1000Base-T RJ45 ports, 4</em>1G/2.5GBase-X SFP slots / ● DC 12~58V input, redundant power supply with p…</td>
+<td>740</td>
+<td>132.7</td>
+<td>138.3</td>
+<td>143.8</td>
+<td>132.0</td>
+<td>L2+</td>
+</tr>
+<tr>
+<td>STI-488DGGPM</td>
+<td>LT-IS6312GP-4GX8GT</td>
+<td>PoE 衍生型（同主型规格 + PoE）</td>
+<td>820</td>
+<td>147.1</td>
+<td>153.2</td>
+<td>159.3</td>
+<td>148.5</td>
+<td>L2+</td>
+</tr>
+<tr>
+<td>STI-488DGGPM-2BT</td>
+<td>LT-IS6312GP-4GX8GT-2BT</td>
+<td>PoE++ 衍生型（1–2/1–4 口 bt 60–90W）</td>
+<td>920</td>
+<td>165.0</td>
+<td>171.9</td>
+<td>178.8</td>
+<td>165.0</td>
+<td>L2+</td>
+</tr>
+<tr>
+<td>STI-448DGGGM</td>
+<td>LT-IS6316G-8GX8GT</td>
+<td>●8<em>10/100/1000Base-T RJ45 ports, 4</em>100/1000M SFP, 4*1G/2.5G SFP / ● DC 12~58V input, redundant power supply w…</td>
+<td>1100</td>
+<td>197.3</td>
+<td>205.5</td>
+<td>213.8</td>
+<td>220.0</td>
+<td>L2+</td>
+</tr>
+<tr>
+<td>STI-448DGGGPM</td>
+<td>LT-IS6316GP-8GX8GT</td>
+<td>PoE 衍生型（同主型规格 + PoE）</td>
+<td>1180</td>
+<td>211.7</td>
+<td>220.5</td>
+<td>229.3</td>
+<td>236.5</td>
+<td>L2+</td>
+</tr>
+<tr>
+<td>STI-2160DGGM</td>
+<td>LT-IS6318G-2GX16GT</td>
+<td>●16<em>10/100/1000Base-T RJ45 ports, 2</em>1G/2.5GBase-X SFP slots / ● DC 12~58V input, redundant power supply with …</td>
+<td>1180</td>
+<td>211.7</td>
+<td>220.5</td>
+<td>229.3</td>
+<td>220.0</td>
+<td>L2+</td>
+</tr>
+<tr>
+<td>STI-21616DGGPM</td>
+<td>LT-IS6318GP-2GX16GT</td>
+<td>PoE 衍生型（同主型规格 + PoE）</td>
+<td>1340</td>
+<td>240.4</td>
+<td>250.4</td>
+<td>260.4</td>
+<td>242.0</td>
+<td>L2+</td>
+</tr>
+<tr>
+<td>—（沿用 LT-）</td>
+<td>LT-IS6320G-4GX16GT-D</td>
+<td>●16<em>10/100/1000Base-T RJ45 ports, 4</em>1G/2.5GBase-X SFP slots ,DI/DO/RS485 / ● DC 12~75V input, redundant power…</td>
+<td>1560</td>
+<td>279.8</td>
+<td>291.5</td>
+<td>303.1</td>
+<td></td>
+<td>16×GE + 4×2.5G SFP + DI/DO/RS485：Saga 无 4×2.5G 上联的 16 口型（就近…</td>
+</tr>
+<tr>
+<td>—（沿用 LT-）</td>
+<td>LT-IS6320GP-4GX16GT-D</td>
+<td>PoE 衍生型（同主型规格 + PoE）</td>
+<td>1760</td>
+<td>315.7</td>
+<td>328.8</td>
+<td>342.0</td>
+<td></td>
+<td>16×GE PoE + 4×2.5G SFP + DI/DO：Saga 暂无对应——沿用 SmartByte 型号并注明</td>
+</tr>
+<tr>
+<td>—（沿用 LT-）</td>
+<td>LT-IS6320GP-4GX16GT-D-4BT</td>
+<td>PoE++ 衍生型</td>
+<td>1960</td>
+<td>351.6</td>
+<td>366.2</td>
+<td>380.9</td>
+<td></td>
+<td>16×GE PoE（4 口 bt）+ 4×2.5G SFP + DI/DO：Saga 暂无对应——沿用 SmartBy…</td>
+</tr>
+<tr>
+<td>STI-4240DGGM</td>
+<td>LT-IS6328G-4GX24GT-D</td>
+<td>●24<em>10/100/1000Base-T RJ45 ports, 4</em>1G/2.5GBase-X SFP slots,DI/DO/RS485 / ● DC 12~75V input, redundant power …</td>
+<td>1660</td>
+<td>297.8</td>
+<td>310.2</td>
+<td>322.6</td>
+<td>330.0</td>
+<td>L2+</td>
+</tr>
+<tr>
+<td>STI-42424DGGPM</td>
+<td>LT-IS6328GP-4GX24GT</td>
+<td>PoE 衍生型（同主型规格 + PoE）</td>
+<td>1900</td>
+<td>340.8</td>
+<td>355.0</td>
+<td>369.2</td>
+<td>363.0</td>
+<td>L2+</td>
+</tr>
+<tr>
+<td>STI-42424DGGPM-4BT</td>
+<td>LT-IS6228GP-4GX24GT-4BT</td>
+<td>PoE++ 衍生型（1–2/1–4 口 bt 60–90W）</td>
+<td>2100</td>
+<td>376.7</td>
+<td>392.4</td>
+<td>408.1</td>
+<td>407.0</td>
+<td>L2+</td>
+</tr>
+<tr>
+<td>STI-4240DGGM-U</td>
+<td>LT-IS6328G-4GX24GT-U-D</td>
+<td>●24<em>10/100/1000Base-T RJ45 ports, 4</em>1G/2.5GBase-X SFP slots / ● AC/DC redundant power supply with polarity re…</td>
+<td>1800</td>
+<td>322.9</td>
+<td>336.3</td>
+<td>349.8</td>
+<td>363.0</td>
+<td>L2+</td>
+</tr>
+<tr>
+<td>STI-42424DGGPM-U</td>
+<td>LT-IS6328GP-4GX24GT-U</td>
+<td>PoE 衍生型（同主型规格 + PoE）</td>
+<td>2100</td>
+<td>376.7</td>
+<td>392.4</td>
+<td>408.1</td>
+<td>407.0</td>
+<td>L2+</td>
+</tr>
+<tr>
+<td>STI-42424DGGPM-U-2BT</td>
+<td>LT-IS6328GP-4GX24GT-U-2BT</td>
+<td>PoE++ 衍生型（1–2/1–4 口 bt 60–90W）</td>
+<td>2200</td>
+<td>394.6</td>
+<td>411.1</td>
+<td>427.5</td>
+<td>440.0</td>
+<td>L2+</td>
+</tr>
+<tr>
+<td>STI-4168DGGCM-U</td>
+<td>LT-IS6328G-20GX8GC-D</td>
+<td>●16<em>100/1000Base-X SFP slots, 8</em>1000Base Combo, 4*1G/2.5G SFP slots / ● AC/DC redundant power supply with pol…</td>
+<td>2350</td>
+<td>421.5</td>
+<td>439.1</td>
+<td>456.7</td>
+<td>467.5</td>
+<td>L2+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Layer 2+ Managed Industrial Ethernet Switches with 10G Uplink Series</strong>（15 款）</p>
+<table>
+<thead>
+<tr>
+<th>Saga 型号</th>
+<th>SmartByte 型号</th>
+<th>规格摘要</th>
+<th>CNY</th>
+<th>USD +20%</th>
+<th>USD +25%</th>
+<th>USD +30%</th>
+<th>Saga 列表价 USD</th>
+<th>备注</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>STI-480XGGM</td>
+<td>LT-IS6312XG-4XS8GT</td>
+<td>●8<em>10/100/1000Base-T RJ45 ports, 4</em>1G/2.5G/10GBase-X SFP+ slots / ● DC 12~58V input, redundant power supply w…</td>
+<td>840</td>
+<td>150.7</td>
+<td>157.0</td>
+<td>163.2</td>
+<td>253.0</td>
+<td>L2+</td>
+</tr>
+<tr>
+<td>STI-488XGGPM</td>
+<td>LT-IS6312XGP-4XS8GT</td>
+<td>PoE 衍生型（同主型规格 + PoE）</td>
+<td>920</td>
+<td>165.0</td>
+<td>171.9</td>
+<td>178.8</td>
+<td>269.5</td>
+<td>L2+</td>
+</tr>
+<tr>
+<td>—（沿用 LT-）</td>
+<td>LT-IS6312XGP-4XS8GT-2BT</td>
+<td>PoE++ 衍生型（1–2/1–4 口 bt 60–90W）</td>
+<td>1020</td>
+<td>183.0</td>
+<td>190.6</td>
+<td>198.2</td>
+<td></td>
+<td>8×GE PoE（2 口 bt）+ 4×10G：Saga 无 bt + 4×10G 组合（就近 STI-288DGGP…</td>
+</tr>
+<tr>
+<td>STI-448XGGGM</td>
+<td>LT-IS6316XG-4XS4GX8GT</td>
+<td>●8<em>10/100/1000Base-T RJ45 ports, 4</em>1000Base-X SFP, 4*1G/2.5G/10GBase-X SFP+ slots / ● DC 12~58V input, redund…</td>
+<td>1400</td>
+<td>251.1</td>
+<td>261.6</td>
+<td>272.0</td>
+<td>275.0</td>
+<td>L2+（另有 L3 档）</td>
+</tr>
+<tr>
+<td>STI-448XGGGPM</td>
+<td>LT-IS6316XGP-4XS4GX8GT</td>
+<td>PoE 衍生型（同主型规格 + PoE）</td>
+<td>1480</td>
+<td>265.5</td>
+<td>276.5</td>
+<td>287.6</td>
+<td>297.0</td>
+<td>L2+（另有 L3 档）</td>
+</tr>
+<tr>
+<td>STI-2160XGGM</td>
+<td>LT-IS6318XG-2XS16GT</td>
+<td>●16<em>10/100/1000Base-T RJ45 ports, 2</em>1G/2.5G/10GBase-X SFP+ slots / ● DC 12~58V input, redundant power supply …</td>
+<td>1500</td>
+<td>269.1</td>
+<td>280.3</td>
+<td>291.5</td>
+<td>291.5</td>
+<td>L2+（另有 L3 档）</td>
+</tr>
+<tr>
+<td>STI-21616XGGPM</td>
+<td>LT-IS6318XGP-2XS16GT</td>
+<td>PoE 衍生型（同主型规格 + PoE）</td>
+<td>1660</td>
+<td>297.8</td>
+<td>310.2</td>
+<td>322.6</td>
+<td>324.5</td>
+<td>L2+（另有 L3 档）</td>
+</tr>
+<tr>
+<td>STI-488DGGGM</td>
+<td>LT-IS6320XG-4XS8GX8GT-D</td>
+<td>●8<em>10/100/1000Base-T RJ45 ports, 8</em>100/1000Base-X SFP, 4*1G/2.5G/10GBase-X SFP+ slots / ● DC 12~75V input, re…</td>
+<td>1780</td>
+<td>319.3</td>
+<td>332.6</td>
+<td>345.9</td>
+<td>352.0</td>
+<td>L2+</td>
+</tr>
+<tr>
+<td>STI-4240XGGM</td>
+<td>LT-IS6328XG-4XS24GT-D</td>
+<td>●24<em>10/100/1000Base-T RJ45 ports, 4</em>1G/2.5G/10GBase-X SFP+ slots / ● DC 12~75V input, redundant power supply …</td>
+<td>1960</td>
+<td>351.6</td>
+<td>366.2</td>
+<td>380.9</td>
+<td>385.0</td>
+<td>L2+（另有 L3 档）</td>
+</tr>
+<tr>
+<td>STI-42424XGGPM</td>
+<td>LT-IS6328XGP-4XS24GT</td>
+<td>PoE 衍生型（同主型规格 + PoE）</td>
+<td>2200</td>
+<td>394.6</td>
+<td>411.1</td>
+<td>427.5</td>
+<td>423.5</td>
+<td>L2+（另有 L3 档）</td>
+</tr>
+<tr>
+<td>STI-42424XGGPM-4BT</td>
+<td>LT-IS6328XGP-4XS24GT-4BT</td>
+<td>PoE++ 衍生型（1–2/1–4 口 bt 60–90W）</td>
+<td>2400</td>
+<td>430.5</td>
+<td>448.4</td>
+<td>466.4</td>
+<td>456.5</td>
+<td>L2+（另有 L3 档）</td>
+</tr>
+<tr>
+<td>STI-4240XGGM-U</td>
+<td>LT-IS6328XG-4XS24GT-U-D</td>
+<td>●24<em>10/100/1000Base-T RJ45 ports, 4</em>1G/2.5G/10GBase-X SFP slots / ● AC/DC redundant power supply with polarit…</td>
+<td>2100</td>
+<td>376.7</td>
+<td>392.4</td>
+<td>408.1</td>
+<td>412.5</td>
+<td>L2+（另有 L3 档）</td>
+</tr>
+<tr>
+<td>STI-42424XGGPM-U</td>
+<td>LT-IS6328XGP-4XS24GT-U</td>
+<td>PoE 衍生型（同主型规格 + PoE）</td>
+<td>2400</td>
+<td>430.5</td>
+<td>448.4</td>
+<td>466.4</td>
+<td>451.0</td>
+<td>L2+（另有 L3 档）</td>
+</tr>
+<tr>
+<td>STI-42424XGGPM-U-2BT</td>
+<td>LT-IS6328XGP-4XS24GT-U-2BT</td>
+<td>PoE++ 衍生型（1–2/1–4 口 bt 60–90W）</td>
+<td>2500</td>
+<td>448.4</td>
+<td>467.1</td>
+<td>485.8</td>
+<td>484.0</td>
+<td>L2+（另有 L3 档）</td>
+</tr>
+<tr>
+<td>STI-4168XGGCM-U</td>
+<td>LT-IS6328XG-4XS16GX8GC-D</td>
+<td>●16<em>100/1000Base-X SFP slots, 8</em>1000Base Combo, 4*1G/2.5G/10G Base-X SFP+ slots / ● AC/DC redundant power sup…</td>
+<td>2650</td>
+<td>475.3</td>
+<td>495.1</td>
+<td>514.9</td>
+<td>511.5</td>
+<td>L2+（另有 L3 档）</td>
+</tr>
+</tbody>
+</table>
+<p><strong>L3 Managed Industrial Ethernet Switch with 10G uplink series</strong>（19 款）</p>
+<table>
+<thead>
+<tr>
+<th>Saga 型号</th>
+<th>SmartByte 型号</th>
+<th>规格摘要</th>
+<th>CNY</th>
+<th>USD +20%</th>
+<th>USD +25%</th>
+<th>USD +30%</th>
+<th>Saga 列表价 USD</th>
+<th>备注</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>STI-448XGGGM(L3)</td>
+<td>LT-IS6516XG-4XS4GX8GT</td>
+<td>Industrial L3, 8<em>10/100/1000Base-T RJ45,4</em>100/1000Base-X SFP, 4*1G/2.5G/10G SFP+</td>
+<td>1900</td>
+<td>340.8</td>
+<td>355.0</td>
+<td>369.2</td>
+<td>363.0</td>
+<td>L3</td>
+</tr>
+<tr>
+<td>STI-448XGGGPM(L3)</td>
+<td>LT-IS6516XGP-4XS4GX8GT</td>
+<td>PoE 衍生型（同主型规格 + PoE）</td>
+<td>1980</td>
+<td>355.2</td>
+<td>370.0</td>
+<td>384.8</td>
+<td>385.0</td>
+<td>L3</td>
+</tr>
+<tr>
+<td>STI-2160XGGM(L3)</td>
+<td>LT-IS6518XG-2XS16GT</td>
+<td>Industrial L3, 16<em>10/100/1000Base-T RJ45, 2</em>1G/2.5G/10G SFP+</td>
+<td>2000</td>
+<td>358.7</td>
+<td>373.7</td>
+<td>388.6</td>
+<td>385.0</td>
+<td>L3</td>
+</tr>
+<tr>
+<td>STI-21616XGGPM(L3)</td>
+<td>LT-IS6518XGP-2XS16GT</td>
+<td>PoE 衍生型（同主型规格 + PoE）</td>
+<td>2160</td>
+<td>387.4</td>
+<td>403.6</td>
+<td>419.7</td>
+<td>412.5</td>
+<td>L3</td>
+</tr>
+<tr>
+<td>—（沿用 LT-）</td>
+<td>LT-IS6520XG-4XS8GX8GT</td>
+<td>Industrial L3, 8<em>10/100/1000Base-T RJ45, 8</em>100/1000Base-X SFP, 4*1G/2.5G/10G SFP+</td>
+<td>2280</td>
+<td>409.0</td>
+<td>426.0</td>
+<td>443.0</td>
+<td></td>
+<td>工业 L3：8×GE + 8×SFP + 4×10G——Saga L3 档无此端口组合，沿用 SmartByte 并注明</td>
+</tr>
+<tr>
+<td>STI-4160XGGM</td>
+<td>LT-IS6520XG-4XS16GT</td>
+<td>Industrial L3, 16<em>10/100/1000Base-T RJ45, 4</em>1G/2.5G/10G SFP+</td>
+<td>2350</td>
+<td>421.5</td>
+<td>439.1</td>
+<td>456.7</td>
+<td>462.0</td>
+<td>L3</td>
+</tr>
+<tr>
+<td>STI-41616XGGPM</td>
+<td>LT-IS6520XGP-4XS16GT</td>
+<td>PoE 衍生型（同主型规格 + PoE）</td>
+<td>2510</td>
+<td>450.2</td>
+<td>469.0</td>
+<td>487.7</td>
+<td>495.0</td>
+<td>L3</td>
+</tr>
+<tr>
+<td>STI-41616XGGPM-4BT</td>
+<td>LT-IS6520XGP-4XS16GT-4BT</td>
+<td>PoE++ 衍生型（1–2/1–4 口 bt 60–90W）</td>
+<td>2710</td>
+<td>486.1</td>
+<td>506.4</td>
+<td>526.6</td>
+<td>528.0</td>
+<td>L3</td>
+</tr>
+<tr>
+<td>STI-4240XGGM(L3)</td>
+<td>LT-IS6528XG-4XS24GT</td>
+<td>Industrial L3, 24<em>10/100/1000Base-T RJ45, 4</em>1G/2.5G/10G SFP+</td>
+<td>2460</td>
+<td>441.3</td>
+<td>459.6</td>
+<td>478.0</td>
+<td>478.5</td>
+<td>L3</td>
+</tr>
+<tr>
+<td>STI-42424XGGPM(L3)</td>
+<td>LT-IS6528XGP-4XS24GT</td>
+<td>PoE 衍生型（同主型规格 + PoE）</td>
+<td>2700</td>
+<td>484.3</td>
+<td>504.5</td>
+<td>524.7</td>
+<td>517.0</td>
+<td>L3</td>
+</tr>
+<tr>
+<td>STI-42424XGGPM-4BT(L3)</td>
+<td>LT-IS6528XGP-4XS24GT-4BT</td>
+<td>PoE++ 衍生型（1–2/1–4 口 bt 60–90W）</td>
+<td>2900</td>
+<td>520.2</td>
+<td>541.9</td>
+<td>563.5</td>
+<td>550.0</td>
+<td>L3</td>
+</tr>
+<tr>
+<td>STI-4240XGGM-U(L3)</td>
+<td>LT-IS6528XG-4XS24GT-U</td>
+<td>Industrial L3, 24<em>10/100/1000Base-T RJ45, 4</em>1G/2.5G/10G SFP+, rack-mount</td>
+<td>2600</td>
+<td>466.4</td>
+<td>485.8</td>
+<td>505.2</td>
+<td>506.0</td>
+<td>L3</td>
+</tr>
+<tr>
+<td>STI-42424XGGPM-U(L3)</td>
+<td>LT-IS6528XGP-4XS24GT-U</td>
+<td>PoE 衍生型（同主型规格 + PoE）</td>
+<td>2900</td>
+<td>520.2</td>
+<td>541.9</td>
+<td>563.5</td>
+<td>550.0</td>
+<td>L3</td>
+</tr>
+<tr>
+<td>STI-42424XGGPM-U-2BT(L3)</td>
+<td>LT-IS6528XGP-4XS24GT-U-2BT</td>
+<td>PoE++ 衍生型（1–2/1–4 口 bt 60–90W）</td>
+<td>3000</td>
+<td>538.1</td>
+<td>560.5</td>
+<td>583.0</td>
+<td>583.0</td>
+<td>L3</td>
+</tr>
+<tr>
+<td>STI-4816XGCGM-U</td>
+<td>LT-IS6528XG-4XS16GT8GC-U</td>
+<td>Industrial L3, 16<em>10/100/1000Base-T RJ45, 8</em>gigabit Combo, 4*1G/2.5G/10G SFP+, rack-mount</td>
+<td>2900</td>
+<td>520.2</td>
+<td>541.9</td>
+<td>563.5</td>
+<td>572.0</td>
+<td>L3</td>
+</tr>
+<tr>
+<td>STI-4816XGCGPM-U</td>
+<td>LT-IS6528XGP-4XS16GT8GC-U</td>
+<td>PoE 衍生型（同主型规格 + PoE）</td>
+<td>3060</td>
+<td>548.9</td>
+<td>571.7</td>
+<td>594.6</td>
+<td>605.0</td>
+<td>L3</td>
+</tr>
+<tr>
+<td>STI-4816XGCGPM-U-2BT</td>
+<td>LT-IS6528XGP-4XS16GT8GC-U-2BT</td>
+<td>PoE++ 衍生型（1–2/1–4 口 bt 60–90W）</td>
+<td>3160</td>
+<td>566.8</td>
+<td>590.4</td>
+<td>614.1</td>
+<td>638.0</td>
+<td>L3</td>
+</tr>
+<tr>
+<td>STI-4168XGGCM-U(L3)</td>
+<td>LT-IS6528XG-4XS16GX8GC-U</td>
+<td>Industrial L3, 16<em>100/1000Base-X SFP, 8</em>gigabit Combo, 4*1G/2.5G/10G SFP+, rack-mount</td>
+<td>3100</td>
+<td>556.1</td>
+<td>579.2</td>
+<td>602.4</td>
+<td>605.0</td>
+<td>L3</td>
+</tr>
+<tr>
+<td>STI-4480XGGM-U</td>
+<td>LT-IS6552XG-4XS48GT-U</td>
+<td>Industrial L3, 48<em>10/100/1000Base-T RJ45, 4</em>1G/2.5G/10G SFP+, rack-mount</td>
+<td>4500</td>
+<td>807.2</td>
+<td>840.8</td>
+<td>874.4</td>
+<td>847.0</td>
+<td>L3</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Layer 3 Managed Ethernet Switches, 10G uplink series (Supports static and dynam</strong>（8 款）</p>
+<table>
+<thead>
+<tr>
+<th>Saga 型号</th>
+<th>SmartByte 型号</th>
+<th>规格摘要</th>
+<th>CNY</th>
+<th>USD +20%</th>
+<th>USD +25%</th>
+<th>USD +30%</th>
+<th>Saga 列表价 USD</th>
+<th>备注</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>STC-424XGGM(L3)</td>
+<td>LT-S8528XG-4XS24GT</td>
+<td>4<em>10G/2.5G/1G SFP+ ports ，24</em>10/100/1000M RJ45 ports, without SFP module, Layer 3 management</td>
+<td>1500</td>
+<td>269.1</td>
+<td>280.3</td>
+<td>291.5</td>
+<td>295.0</td>
+<td>L3</td>
+</tr>
+<tr>
+<td>STC-424XGGPM(L3)</td>
+<td>LT-S8528XGP-4XS24GT</td>
+<td>4<em>10G/2.5G/1G SFP+ ports ，24</em>10/100/1000M RJ45 ports, without SFP module, Layer 3 management ,single AC power…</td>
+<td>1900</td>
+<td>340.8</td>
+<td>355.0</td>
+<td>369.2</td>
+<td>374.0</td>
+<td>L3</td>
+</tr>
+<tr>
+<td>STC-4816XGCGM</td>
+<td>LT-IS8528XG-4XS16GT8GC</td>
+<td>4<em>10G/2.5G/1G SFP+ slots，16</em>10/100/1000M RJ45 ports，8*GE COMBO ports, without SFP module, Layer 3 management</td>
+<td>1600</td>
+<td>287.0</td>
+<td>299.0</td>
+<td>310.9</td>
+<td>353.0</td>
+<td>L3</td>
+</tr>
+<tr>
+<td>STC-4816XGCGPM</td>
+<td>LT-IS8528XGP-4XS16GT8GC</td>
+<td>4<em>10G/2.5G/1G SFP+ slots，16</em>10/100/1000M RJ45 ports，8*GE COMBO ports, without SFP module, Layer 3 management,…</td>
+<td>2000</td>
+<td>358.7</td>
+<td>373.7</td>
+<td>388.6</td>
+<td>611.0</td>
+<td>L3</td>
+</tr>
+<tr>
+<td>STC-4168XGGCM</td>
+<td>LT-S8528XG-4XS16GX8GC</td>
+<td>4<em>10G/2.5G/1G SFP+ slots，16</em>1G SFP ports，8*GE COMBO ports, without SFP module, Layer 3 management</td>
+<td>2100</td>
+<td>376.7</td>
+<td>392.4</td>
+<td>408.1</td>
+<td>413.0</td>
+<td>L3</td>
+</tr>
+<tr>
+<td>STC-448XGGM(L3)</td>
+<td>LT-S8552XG-4XS48GT</td>
+<td>4<em>10G/2.5G/1G SFP+ ports ，48</em>10/100/1000M RJ45 ports, without SFP module, Layer 3 management</td>
+<td>2600</td>
+<td>466.4</td>
+<td>485.8</td>
+<td>505.2</td>
+<td>512.0</td>
+<td>L3</td>
+</tr>
+<tr>
+<td>STC-448XGGPM(L3)</td>
+<td>LT-S8552XGP-4XS48GT</td>
+<td>4<em>10G/2.5G/1G SFP+ ports ，48</em>10/100/1000M RJ45 ports, without SFP module, Layer 3 management , single AC powe…</td>
+<td>3100</td>
+<td>556.1</td>
+<td>579.2</td>
+<td>602.4</td>
+<td>583.0</td>
+<td>L3</td>
+</tr>
+<tr>
+<td>STC-448XGGMO</td>
+<td>LT-S8552XG-4XS48GX</td>
+<td>4<em>1G/2.5G/10G SFP+ ports ，48</em>1G SFP ports, without SFP module, Layer 3 management, single AC power supply</td>
+<td>3500</td>
+<td>627.8</td>
+<td>654.0</td>
+<td>680.1</td>
+<td>688.0</td>
+<td>L3</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Layer 2+ Managed Ethernet Switch Non-PoE/PoE Series(Support DHCP server, IPv4/IP</strong>（11 款）</p>
+<table>
+<thead>
+<tr>
+<th>Saga 型号</th>
+<th>SmartByte 型号</th>
+<th>规格摘要</th>
+<th>CNY</th>
+<th>USD +20%</th>
+<th>USD +25%</th>
+<th>USD +30%</th>
+<th>Saga 列表价 USD</th>
+<th>备注</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>STC-28DGGM</td>
+<td>LT-S8310G-2GX8GT</td>
+<td>L2+, 8<em>10/100/1000Base-T + 4</em>1G/2.5G SFP</td>
+<td>380</td>
+<td>68.2</td>
+<td>71.0</td>
+<td>73.8</td>
+<td>85.0</td>
+<td>L2+</td>
+</tr>
+<tr>
+<td>STC-28DGGPM</td>
+<td>LT-S8310GP-2GX8GT</td>
+<td>L2+, 8<em>10/100/1000Base-T PoE + 4</em>1G/2.5G SFP, 120W power supply</td>
+<td>450</td>
+<td>80.7</td>
+<td>84.1</td>
+<td>87.4</td>
+<td>99.0</td>
+<td>L2+</td>
+</tr>
+<tr>
+<td>STC-424DGGM</td>
+<td>LT-S8328G-4GX24GT-S</td>
+<td>L2 +, 24<em>10/100/1000Base-T + 4</em>1G/2.5G SFP, AC5爆款</td>
+<td>460</td>
+<td>82.5</td>
+<td>85.9</td>
+<td>89.4</td>
+<td>110.0</td>
+<td>L2+</td>
+</tr>
+<tr>
+<td>STC-424DGGPM-280W</td>
+<td>LT-S8328GP-4GX24GT-S</td>
+<td>L2 +, 24<em>10/100/1000Base-T PoE + 4</em>1G/2.5G SFP, AC5爆款,280W power supply</td>
+<td>750</td>
+<td>134.5</td>
+<td>140.1</td>
+<td>145.7</td>
+<td>165.0</td>
+<td>L2+</td>
+</tr>
+<tr>
+<td>STC-424DGGPM-440W</td>
+<td>LT-S8328GP-4GX24GT</td>
+<td>L2 +, 24<em>10/100/1000Base-T PoE + 4</em>1G/2.5G SFP,440W power supply</td>
+<td>1200</td>
+<td>215.2</td>
+<td>224.2</td>
+<td>233.2</td>
+<td>220.0</td>
+<td>L2+</td>
+</tr>
+<tr>
+<td>STC-424XGGM</td>
+<td>LT-S8328XG-4XS24GT-S</td>
+<td>L2 +, 24<em>10/100/1000Base-T PoE + 4</em>1G/2.5G/10G SFP+, AC5 爆款</td>
+<td>710</td>
+<td>127.4</td>
+<td>132.7</td>
+<td>138.0</td>
+<td>143.0</td>
+<td>L2+（另有 L3 档）</td>
+</tr>
+<tr>
+<td>STC-424XGGPM-280W</td>
+<td>LT-S8328XGP-4XS24GT-S</td>
+<td>L2 +, 24<em>10/100/1000Base-T PoE + 4</em>1G/2.5G/10G SFP+, AC5爆款,280W power supply</td>
+<td>1010</td>
+<td>181.2</td>
+<td>188.7</td>
+<td>196.3</td>
+<td>198.0</td>
+<td>L2+</td>
+</tr>
+<tr>
+<td>STC-448DGGM</td>
+<td>LT-S8352G-4GX48GT</td>
+<td>L2+, 48<em>10/100/1000Base-T + 4</em>1G/2.5G SFP</td>
+<td>1320</td>
+<td>236.8</td>
+<td>246.6</td>
+<td>256.5</td>
+<td>220.0</td>
+<td>L2+</td>
+</tr>
+<tr>
+<td>STC-448DGGPM</td>
+<td>LT-S8352GP-4GX48GT</td>
+<td>L2+, 48<em>10/100/1000Base-T PoE+ 4</em>1G/2.5G SFP, 440W power supply; 850W power supply optional</td>
+<td>1720</td>
+<td>308.5</td>
+<td>321.4</td>
+<td>334.2</td>
+<td>308.0</td>
+<td>L2+</td>
+</tr>
+<tr>
+<td>STC-448XGGM</td>
+<td>LT-S8352XG-4XS48GT</td>
+<td>L2+, 48<em>10/100/1000Base-T + 4</em>1G/2.5G SFP</td>
+<td>1470</td>
+<td>263.7</td>
+<td>274.7</td>
+<td>285.7</td>
+<td>286.0</td>
+<td>L2+（另有 L3 档）</td>
+</tr>
+<tr>
+<td>STC-448XGGPM</td>
+<td>LT-S8352XGP-4XS48GT</td>
+<td>L2+, 48<em>10/100/1000Base-T PoE+ 4</em>1G/2.5G/10G SFP+, 440W power supply; 850W power supply optional</td>
+<td>1870</td>
+<td>335.4</td>
+<td>349.4</td>
+<td>363.4</td>
+<td>369.0</td>
+<td>L2+（另有 L3 档）</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Unmanaged Ultra-compact Industrial Fast Media Converters(PoE/Non-PoE)</strong>（6 款）</p>
+<table>
+<thead>
+<tr>
+<th>Saga 型号</th>
+<th>SmartByte 型号</th>
+<th>规格摘要</th>
+<th>CNY</th>
+<th>USD +20%</th>
+<th>USD +25%</th>
+<th>USD +30%</th>
+<th>Saga 列表价 USD</th>
+<th>备注</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>STI-110FE</td>
+<td>LT-IMC30F-E</td>
+<td>● 1<em>10/100Base-TX RJ45 port, 1</em>100Base-FX SFP(/SC/ST/FC optional) fiber port / ● DC 12~58V input, redundant p…</td>
+<td>110</td>
+<td>19.7</td>
+<td>20.6</td>
+<td>21.4</td>
+<td>23.1</td>
+<td>1×FE + 1×100M SFP</td>
+</tr>
+<tr>
+<td>STI-111FP</td>
+<td>LT-IMC30FP-E</td>
+<td>● 1<em>10/100Base-TX RJ45 PoE/PoE+ port, 1</em>100Base-FX SFP(/SC/ST/FC optional) fiber port / ● DC 44~57V input, re…</td>
+<td>140</td>
+<td>25.1</td>
+<td>26.2</td>
+<td>27.2</td>
+<td>29.7</td>
+<td>1×FE PoE + 1×100M SFP</td>
+</tr>
+<tr>
+<td>STI-120FE</td>
+<td>LT-IMC30F-1FX2TX-E</td>
+<td>● 2<em>10/100Base-TX RJ45 port, 1</em>100Base-FX SFP(/SC/ST/FC optional) fiber port / ● DC 12~58V input, redundant p…</td>
+<td>120</td>
+<td>21.5</td>
+<td>22.4</td>
+<td>23.3</td>
+<td>26.4</td>
+<td>2×FE + 1×100M SFP</td>
+</tr>
+<tr>
+<td>STI-122FP</td>
+<td>LT-IMC30FP-1FX2TX-E</td>
+<td>● 2<em>10/100Base-TX RJ45 PoE/PoE+ port, 1</em>100Base-FX SFP(/SC/ST/FC optional) fiber port / ● DC 44~57V input, re…</td>
+<td>150</td>
+<td>26.9</td>
+<td>28.0</td>
+<td>29.1</td>
+<td>33.0</td>
+<td>2×FE PoE + 1×100M SFP</td>
+</tr>
+<tr>
+<td>STI-220FE</td>
+<td>LT-IMC30F-2FX2TX-E</td>
+<td>● 2<em>10/100Base-TX RJ45 port, 2</em>100Base-FX SFP port / ● DC 12~58V input, redundant power supply with polarity …</td>
+<td>140</td>
+<td>25.1</td>
+<td>26.2</td>
+<td>27.2</td>
+<td>29.7</td>
+<td>2×FE + 2×100M SFP</td>
+</tr>
+<tr>
+<td>STI-222FP</td>
+<td>LT-IMC30FP-2FX2TX-E</td>
+<td>● 2<em>10/100Base-TX RJ45 PoE/PoE+ port, 2</em>100Base-FX SFP port / ● DC 44~57V input, redundant power supply with …</td>
+<td>170</td>
+<td>30.5</td>
+<td>31.8</td>
+<td>33.0</td>
+<td>36.3</td>
+<td>2×FE PoE + 2×100M SFP</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Unmanaged Ultra-compact Industrial Gigabit Media Converters(PoE/Non-PoE)</strong>（6 款）</p>
+<table>
+<thead>
+<tr>
+<th>Saga 型号</th>
+<th>SmartByte 型号</th>
+<th>规格摘要</th>
+<th>CNY</th>
+<th>USD +20%</th>
+<th>USD +25%</th>
+<th>USD +30%</th>
+<th>Saga 列表价 USD</th>
+<th>备注</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>STI-110GE</td>
+<td>LT-IMC30G-E</td>
+<td>●1<em>10/100/1000Base-T RJ45 port, 1</em>100/1000Base-X SFP(/SC/ST/FC optional) fiber port / ● DC 12~58V input, redu…</td>
+<td>125</td>
+<td>22.4</td>
+<td>23.4</td>
+<td>24.3</td>
+<td>29.7</td>
+<td>1×GE + 1×1G SFP</td>
+</tr>
+<tr>
+<td>STI-111GP</td>
+<td>LT-IMC30GP-E</td>
+<td>● 1<em>10/100/1000Base-T RJ45 PoE/PoE+ port, 1</em>100/1000Base-X SFP(/SC/ST/FC optional) fiber port / ● DC 44~57V i…</td>
+<td>155</td>
+<td>27.8</td>
+<td>29.0</td>
+<td>30.1</td>
+<td>36.3</td>
+<td>1×GE PoE + 1×1G SFP</td>
+</tr>
+<tr>
+<td>STI-120GE</td>
+<td>LT-IMC30G-1GX2GT-E</td>
+<td>● 2<em>10/100/1000Base-T RJ45 ports, 1</em>100/1000Base-X SFP(/SC/ST/FC optional) fiber port / ● DC 12~58V input, re…</td>
+<td>135</td>
+<td>24.2</td>
+<td>25.2</td>
+<td>26.2</td>
+<td>29.7</td>
+<td>2×GE + 1×1G SFP</td>
+</tr>
+<tr>
+<td>STI-122GP</td>
+<td>LT-IMC30GP-1GX2GT-E</td>
+<td>● 2<em>10/100/1000Base-T RJ45 PoE/PoE+ ports, 1</em>100/1000Base-X SFP(/SC/ST/FC optional) fiber port / ● DC 44~57V …</td>
+<td>165</td>
+<td>29.6</td>
+<td>30.8</td>
+<td>32.1</td>
+<td>36.3</td>
+<td>2×GE PoE + 1×1G SFP</td>
+</tr>
+<tr>
+<td>STI-220GE</td>
+<td>LT-IMC30G-2GX2GT-E</td>
+<td>● 2<em>2</em>10/100/1000Base-T RJ45 ports, 2*100/1000Base-X SFP ports / ● DC 12~58V input, redundant power supply wi…</td>
+<td>155</td>
+<td>27.8</td>
+<td>29.0</td>
+<td>30.1</td>
+<td>36.3</td>
+<td>2×GE + 2×1G SFP</td>
+</tr>
+<tr>
+<td>STI-222GP</td>
+<td>LT-IMC30GP-2GX2GT-E</td>
+<td>● 2<em>10/100/1000Base-T RJ45 PoE ports, 2</em>100/1000Base-X SFP ports / ● DC 44~57V input, redundant power supply …</td>
+<td>185</td>
+<td>33.2</td>
+<td>34.6</td>
+<td>35.9</td>
+<td>39.6</td>
+<td>2×GE PoE + 2×1G SFP</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Unmanaged Industrial Ethernet Switches</strong>（15 款）</p>
+<table>
+<thead>
+<tr>
+<th>Saga 型号</th>
+<th>SmartByte 型号</th>
+<th>规格摘要</th>
+<th>CNY</th>
+<th>USD +20%</th>
+<th>USD +25%</th>
+<th>USD +30%</th>
+<th>Saga 列表价 USD</th>
+<th>备注</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>STI-140FE</td>
+<td>LT-IS3005F-1FX4TX</td>
+<td>● 4<em>10/100Base-TX RJ45 ports, 1</em>100Base-FX SFP(/SC/ST/FC optional) fiber port / ● DC 12~58V input, redundant …</td>
+<td>130</td>
+<td>23.3</td>
+<td>24.3</td>
+<td>25.3</td>
+<td>29.7</td>
+<td>4×FE + 1×100M SFP</td>
+</tr>
+<tr>
+<td>STI-050FE</td>
+<td>LT-IS3005F-5TX-M</td>
+<td>● 5*10/100Base-TX RJ45 ports / ● DC 12~36V input, redundant power supply with polarity reverse/over-voltage p…</td>
+<td>85</td>
+<td>15.2</td>
+<td>15.9</td>
+<td>16.5</td>
+<td>27.5</td>
+<td>5×FE（Saga 为 DC12-58V；SmartByte -M 为 12-36V——核对）</td>
+</tr>
+<tr>
+<td>STI-050FE</td>
+<td>LT-IS3005F-5TX-E</td>
+<td>● 5*10/100Base-TX RJ45 ports（NO.5 is the uplink port) / ● DC 12~58V input, redundant power supply with polari…</td>
+<td>122</td>
+<td>21.9</td>
+<td>22.8</td>
+<td>23.7</td>
+<td>27.5</td>
+<td>5×FE</td>
+</tr>
+<tr>
+<td>STI-240FE</td>
+<td>LT-IS3006F-2FX4TX</td>
+<td>● 4<em>10/100Base-TX RJ45 ports, 2</em>100Base-FX SFP fiber ports / ● DC 12~58V input, redundant power supply with p…</td>
+<td>140</td>
+<td>25.1</td>
+<td>26.2</td>
+<td>27.2</td>
+<td>33.0</td>
+<td>4×FE + 2×100M SFP</td>
+</tr>
+<tr>
+<td>STI-080FE</td>
+<td>LT-IS3008F-8TX</td>
+<td>● 8*10/100M RJ45 ports(No.8 is uplink port) / ● DC 12~58V input, redundant power supply with polarity reverse…</td>
+<td>136</td>
+<td>24.4</td>
+<td>25.4</td>
+<td>26.4</td>
+<td>44.0</td>
+<td>8×FE</td>
+</tr>
+<tr>
+<td>STI-180FE</td>
+<td>LT-IS3009F-1FX8TX</td>
+<td>● 8<em>10/100Base-TX RJ45 ports, 1</em>100Base-FX SFP(/SC/ST/FC optional) fiber port / ● DC 12~58V input, redundant …</td>
+<td>155</td>
+<td>27.8</td>
+<td>29.0</td>
+<td>30.1</td>
+<td>48.4</td>
+<td>8×FE + 1×100M SFP</td>
+</tr>
+<tr>
+<td>STI-050GE</td>
+<td>LT-IS3005G-5GT-M</td>
+<td>● 5*10/100/1000Base-TX RJ45 ports / ● DC 12~36V input, redundant power supply with polarity reverse/over-volt…</td>
+<td>95</td>
+<td>17.0</td>
+<td>17.8</td>
+<td>18.5</td>
+<td>34.1</td>
+<td>5×GE（电压范围核对）</td>
+</tr>
+<tr>
+<td>STI-050GE</td>
+<td>LT-IS3005G-5GT</td>
+<td>● 4<em>10/100/1000Base-T RJ45 ports downlink, 1</em>10/100/1000Base-T RJ45 port uplink / ● DC 12~58V input, redundan…</td>
+<td>134</td>
+<td>24.0</td>
+<td>25.0</td>
+<td>26.0</td>
+<td>34.1</td>
+<td>5×GE</td>
+</tr>
+<tr>
+<td>STI-140GE</td>
+<td>LT-IS3005G-1GX4GT</td>
+<td>● 4<em>10/100/1000M RJ45 ports, 1</em>1000Base-X SFP(/SC/ST/FC optional) fiber port / ● DC 12~58V input, redundant p…</td>
+<td>150</td>
+<td>26.9</td>
+<td>28.0</td>
+<td>29.1</td>
+<td>37.4</td>
+<td>4×GE + 1×1G SFP</td>
+</tr>
+<tr>
+<td>STI-150GE</td>
+<td>LT-IS3006G-1GT1GX4GT</td>
+<td>● 4<em>10/100/1000M RJ45 ports downlink, 1</em>1000Base-X SFP port and 1*10/100/1000Base-T RJ45 port uplink / ● DC 1…</td>
+<td>170</td>
+<td>30.5</td>
+<td>31.8</td>
+<td>33.0</td>
+<td>42.9</td>
+<td>5×GE + 1×1G SFP</td>
+</tr>
+<tr>
+<td>STI-240GE</td>
+<td>LT-IS3006G-2GX4GT</td>
+<td>● 4<em>10/100/1000M RJ45 ports, 2</em>1000Base-X SFP fiber ports / ● DC 12~58V input, redundant power supply with po…</td>
+<td>156</td>
+<td>28.0</td>
+<td>29.1</td>
+<td>30.3</td>
+<td>40.7</td>
+<td>4×GE + 2×1G SFP</td>
+</tr>
+<tr>
+<td>STI-080GE</td>
+<td>LT-IS3008G-8GT</td>
+<td>● 8*10/100/1000M RJ45 ports(No.8 is uplink port) / ● DC 12~58V input, redundant power supply with polarity re…</td>
+<td>175</td>
+<td>31.4</td>
+<td>32.7</td>
+<td>34.0</td>
+<td>55.0</td>
+<td>8×GE</td>
+</tr>
+<tr>
+<td>STI-280GE</td>
+<td>LT-IS3010G-2GX8GT</td>
+<td>●8<em>10/100/1000M RJ45 ports, 2</em>1000Base-X SFP (/SC/ST/FC optional) fiber ports / ● DC 12~58V input, redundant …</td>
+<td>260</td>
+<td>46.6</td>
+<td>48.6</td>
+<td>50.5</td>
+<td>63.8</td>
+<td>8×GE + 2×1G SFP</td>
+</tr>
+<tr>
+<td>STI-0160GE</td>
+<td>LT-IS6016G-16GT</td>
+<td>●16*10/100/1000Base-T RJ45 ports / ● Redundant power DC 12-58V input with polarity reverse/over-voltage/over-…</td>
+<td>510</td>
+<td>91.5</td>
+<td>95.3</td>
+<td>99.1</td>
+<td>115.5</td>
+<td>16×GE</td>
+</tr>
+<tr>
+<td>STI-2160GE</td>
+<td>LT-IS6018G-2GX16GT</td>
+<td>●16<em>10/100/1000Base-T RJ45 ports, 2</em>1000Base-X SFP slots / ● Redundant power DC 12-58V input with polarity re…</td>
+<td>790</td>
+<td>141.7</td>
+<td>147.6</td>
+<td>153.5</td>
+<td>170.5</td>
+<td>16×GE + 2×1G SFP</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Unmanaged Industrial PoE Switches</strong>（14 款）</p>
+<table>
+<thead>
+<tr>
+<th>Saga 型号</th>
+<th>SmartByte 型号</th>
+<th>规格摘要</th>
+<th>CNY</th>
+<th>USD +20%</th>
+<th>USD +25%</th>
+<th>USD +30%</th>
+<th>Saga 列表价 USD</th>
+<th>备注</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>STI-144FP</td>
+<td>LT-IS3005FP-1FX4TX</td>
+<td>●4<em>10/100Base-TX RJ45 PoE ports, 1</em>100Base-FX SFP(/SC/ST/FC optional) fiber port / ● DC 44~57V input, redunda…</td>
+<td>170</td>
+<td>30.5</td>
+<td>31.8</td>
+<td>33.0</td>
+<td>37.4</td>
+<td>4×FE PoE + 1×100M SFP</td>
+</tr>
+<tr>
+<td>STI-054FP</td>
+<td>LT-IS3005FP-5TX</td>
+<td>●4<em>10/100Base-TX RJ45 PoE ports downlink , 1</em>10/100Base-TX RJ45 port uplink / ● DC 44~57V input, redundant po…</td>
+<td>162</td>
+<td>29.1</td>
+<td>30.3</td>
+<td>31.5</td>
+<td>35.2</td>
+<td>4×FE PoE + 1×FE 上联</td>
+</tr>
+<tr>
+<td>STI-244FP</td>
+<td>LT-IS3006FP-2FX4TX</td>
+<td>● 4<em>10/100Base-TX RJ45 ports, 2</em>100Base-FX SFP fiber ports / ● DC 44~57V input, redundant power supply with p…</td>
+<td>180</td>
+<td>32.3</td>
+<td>33.6</td>
+<td>35.0</td>
+<td>40.7</td>
+<td>4×FE PoE + 2×100M SFP</td>
+</tr>
+<tr>
+<td>STI-088FP</td>
+<td>LT-IS3008FP-8TX</td>
+<td>● 8*10/100M RJ45 ports(No.8 is uplink port) / ● DC 44~57V input, redundant power supply with polarity reverse…</td>
+<td>196</td>
+<td>35.2</td>
+<td>36.6</td>
+<td>38.1</td>
+<td>51.7</td>
+<td>8×FE PoE</td>
+</tr>
+<tr>
+<td>STI-188FP</td>
+<td>LT-IS3009FP-1FX8TX</td>
+<td>● 8<em>10/100Base-TX RJ45 ports, 1</em>100Base-FX SFP(/SC/ST/FC optional) fiber port / ● DC 44~57V input, redundant …</td>
+<td>215</td>
+<td>38.6</td>
+<td>40.2</td>
+<td>41.8</td>
+<td>56.1</td>
+<td>8×FE PoE + 1×100M SFP</td>
+</tr>
+<tr>
+<td>STI-054GP</td>
+<td>LT-IS3005GP-5GT</td>
+<td>● 4<em>10/100/1000Base-T PoE downlink, 1</em>10/100/1000Base-T RJ45 uplink / ● DC 44~57V input, redundant power supp…</td>
+<td>174</td>
+<td>31.2</td>
+<td>32.5</td>
+<td>33.8</td>
+<td>42.9</td>
+<td>4×GE PoE + 1×GE 上联</td>
+</tr>
+<tr>
+<td>STI-144GP</td>
+<td>LT-IS3005GP-1GX4GT</td>
+<td>● 4<em>10/100/1000Base-T PoE downlink, 1</em>1000Base-X SFP uplink / ● DC 44~57V input, redundant power supply with …</td>
+<td>190</td>
+<td>34.1</td>
+<td>35.5</td>
+<td>36.9</td>
+<td>46.2</td>
+<td>4×GE PoE + 1×1G SFP</td>
+</tr>
+<tr>
+<td>STI-154GP</td>
+<td>LT-IS3006GP-1GT1GX4GT</td>
+<td>● 4<em>10/100/1000M RJ45 ports downlink, 1</em>1000Base-X SFP port and 1*10/100/1000Base-T RJ45 port uplink / ● DC 4…</td>
+<td>210</td>
+<td>37.7</td>
+<td>39.2</td>
+<td>40.8</td>
+<td>51.7</td>
+<td>4×GE PoE + 1×GE + 1×1G SFP</td>
+</tr>
+<tr>
+<td>STI-244GP</td>
+<td>LT-IS3006GP-2GX4GT</td>
+<td>● 4<em>10/100/1000Base-T RJ45 PoE ports, 2</em>1000Base-X SFP ports / ● DC 44~57V input, redundant power supply with…</td>
+<td>196</td>
+<td>35.2</td>
+<td>36.6</td>
+<td>38.1</td>
+<td>49.5</td>
+<td>4×GE PoE + 2×1G SFP</td>
+</tr>
+<tr>
+<td>STI-088GP</td>
+<td>LT-IS3008GP-8GT</td>
+<td>● 8*10/100/1000Base-T PoE ports / ● DC 44~57V input, redundant power supply with polarity reverse/over-voltag…</td>
+<td>235</td>
+<td>42.2</td>
+<td>43.9</td>
+<td>45.7</td>
+<td>66.0</td>
+<td>8×GE PoE</td>
+</tr>
+<tr>
+<td>STI-288GP</td>
+<td>LT-IS3010GP-2GX8GT</td>
+<td>● 8<em>10/100/1000Base-T RJ45 PoE ports, 2</em>1000Base-X SFP ports / ● DC 44~57V input, redundant power supply with…</td>
+<td>320</td>
+<td>57.4</td>
+<td>59.8</td>
+<td>62.2</td>
+<td>74.8</td>
+<td>8×GE PoE + 2×1G SFP</td>
+</tr>
+<tr>
+<td>STI-488GP</td>
+<td>LT-IS6012GP-4GX8GT</td>
+<td>● 8<em>10/100/1000Base-T RJ45 PoE ports, 4</em>1000Base-X SFP ports / ● DC 44~57V input, redundant power supply with…</td>
+<td>600</td>
+<td>107.6</td>
+<td>112.1</td>
+<td>116.6</td>
+<td>132.0</td>
+<td>8×GE PoE + 4×1G SFP（Saga PDF 规格行写 2 port Fiber，型号名为 488——报价…</td>
+</tr>
+<tr>
+<td>STI-01616GP</td>
+<td>LT-IS6016GP-16GT</td>
+<td>● 16*10/100/1000Base-T RJ45 PoE/PoE+ ports / ● DC 44~57V input, redundant power supply with polarity reverse/…</td>
+<td>670</td>
+<td>120.2</td>
+<td>125.2</td>
+<td>130.2</td>
+<td>143.0</td>
+<td>16×GE PoE</td>
+</tr>
+<tr>
+<td>STI-21616GP</td>
+<td>LT-IS6018GP-2GX16GT</td>
+<td>● 16<em>10/100/1000Base-T RJ45 PoE ports, 2</em>1000Base-X SFP slots / ● DC 44~57V input, redundant power supply wit…</td>
+<td>950</td>
+<td>170.4</td>
+<td>177.5</td>
+<td>184.6</td>
+<td>203.5</td>
+<td>16×GE PoE + 2×1G SFP</td>
+</tr>
+</tbody>
+</table>
+<p><strong>1 channel single fiber Bypass</strong>（6 款）</p>
+<table>
+<thead>
+<tr>
+<th>Saga 型号</th>
+<th>SmartByte 型号</th>
+<th>规格摘要</th>
+<th>CNY</th>
+<th>USD +20%</th>
+<th>USD +25%</th>
+<th>USD +30%</th>
+<th>Saga 列表价 USD</th>
+<th>备注</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>—（沿用 LT-）</td>
+<td>LT-IS6312G-4GX8GT-FBP</td>
+<td>L2+ Managed industrial Bypass switch with 8<em>10/100/1000Base-T RJ45 ports, 4</em>1G/2.5GBase-X SFP slots and 1 cha…</td>
+<td>960</td>
+<td>172.2</td>
+<td>179.4</td>
+<td>186.5</td>
+<td></td>
+<td>光纤 Bypass 系列：Saga 三份价格表均无 Bypass 型号——沿用 SmartByte 型号并注明</td>
+</tr>
+<tr>
+<td>—（沿用 LT-）</td>
+<td>LT-IS6312GP-4GX8GT-FBP</td>
+<td>L2+ Managed industrial Bypass switch with 8<em>10/100/1000Base-T RJ45 PoE ports, 4</em>1G/2.5GBase-X SFP slots and 1…</td>
+<td>1040</td>
+<td>186.5</td>
+<td>194.3</td>
+<td>202.1</td>
+<td></td>
+<td>光纤 Bypass 系列：Saga 三份价格表均无 Bypass 型号——沿用 SmartByte 型号并注明</td>
+</tr>
+<tr>
+<td>—（沿用 LT-）</td>
+<td>LT-IS6312GP-4GX8GT-2BT-FBP</td>
+<td>L2+ Managed industrial Bypass switch with 8*10/100/1000Base-T RJ45 PoE ports, 1-2 ports support PoE++ 60-90W,…</td>
+<td>1140</td>
+<td>204.5</td>
+<td>213.0</td>
+<td>221.5</td>
+<td></td>
+<td>光纤 Bypass 系列：Saga 三份价格表均无 Bypass 型号——沿用 SmartByte 型号并注明</td>
+</tr>
+<tr>
+<td>—（沿用 LT-）</td>
+<td>LT-IS6312XG-4XS8GT-FBP</td>
+<td>L2+ Managed industrial Bypass switch with 8<em>10/100/1000Base-T RJ45 ports, 4</em>1G/2.5G/10GBase-X SFP+ slots and …</td>
+<td>1160</td>
+<td>208.1</td>
+<td>216.7</td>
+<td>225.4</td>
+<td></td>
+<td>光纤 Bypass 系列：Saga 三份价格表均无 Bypass 型号——沿用 SmartByte 型号并注明</td>
+</tr>
+<tr>
+<td>—（沿用 LT-）</td>
+<td>LT-IS6312XGP-4XS8GT-FBP</td>
+<td>L2+ Managed industrial Bypass switch with 8<em>10/100/1000Base-T RJ45 PoE ports, 4</em>1G/2.5G/10GBase-X SFP+ slots …</td>
+<td>1240</td>
+<td>222.4</td>
+<td>231.7</td>
+<td>241.0</td>
+<td></td>
+<td>光纤 Bypass 系列：Saga 三份价格表均无 Bypass 型号——沿用 SmartByte 型号并注明</td>
+</tr>
+<tr>
+<td>—（沿用 LT-）</td>
+<td>LT-IS6312XGP-4XS8GT-2BT-FBP</td>
+<td>L2+ Managed industrial Bypass switch with 8*10/100/1000Base-T RJ45 PoE ports, 1-2 ports support PoE++ 60-90W,…</td>
+<td>1340</td>
+<td>240.4</td>
+<td>250.4</td>
+<td>260.4</td>
+<td></td>
+<td>光纤 Bypass 系列：Saga 三份价格表均无 Bypass 型号——沿用 SmartByte 型号并注明</td>
+</tr>
+</tbody>
+</table>
+<p><strong>2 channels single fiber Bypass or 1 channel dual fiber Bypass</strong>（6 款）</p>
+<table>
+<thead>
+<tr>
+<th>Saga 型号</th>
+<th>SmartByte 型号</th>
+<th>规格摘要</th>
+<th>CNY</th>
+<th>USD +20%</th>
+<th>USD +25%</th>
+<th>USD +30%</th>
+<th>Saga 列表价 USD</th>
+<th>备注</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>—（沿用 LT-）</td>
+<td>LT-IS6312G-4GX8GT-2FBP</td>
+<td>L2+ Managed industrial Bypass switch with 8<em>10/100/1000Base-T RJ45 ports, 4</em>1G/2.5GBase-X SFP slots and 2 cha…</td>
+<td>1260</td>
+<td>226.0</td>
+<td>235.4</td>
+<td>244.8</td>
+<td></td>
+<td>光纤 Bypass 系列：Saga 三份价格表均无 Bypass 型号——沿用 SmartByte 型号并注明</td>
+</tr>
+<tr>
+<td>—（沿用 LT-）</td>
+<td>LT-IS6312GP-4GX8GT-2FBP</td>
+<td>L2+ Managed industrial Bypass switch with 8<em>10/100/1000Base-T RJ45 PoE ports, 4</em>1G/2.5GBase-X SFP slots and 2…</td>
+<td>1340</td>
+<td>240.4</td>
+<td>250.4</td>
+<td>260.4</td>
+<td></td>
+<td>光纤 Bypass 系列：Saga 三份价格表均无 Bypass 型号——沿用 SmartByte 型号并注明</td>
+</tr>
+<tr>
+<td>—（沿用 LT-）</td>
+<td>LT-IS6312GP-4GX8GT-2BT-2FBP</td>
+<td>L2+ Managed industrial Bypass switch with 8*10/100/1000Base-T RJ45 PoE ports, 1-2 ports support PoE++ 60-90W,…</td>
+<td>1440</td>
+<td>258.3</td>
+<td>269.1</td>
+<td>279.8</td>
+<td></td>
+<td>光纤 Bypass 系列：Saga 三份价格表均无 Bypass 型号——沿用 SmartByte 型号并注明</td>
+</tr>
+<tr>
+<td>—（沿用 LT-）</td>
+<td>LT-IS6312XG-4XS8GT-2FBP</td>
+<td>L2+ Managed industrial Bypass switch with 8<em>10/100/1000Base-T RJ45 ports, 4</em>1G/2.5G/10GBase-X SFP+ slots and …</td>
+<td>1460</td>
+<td>261.9</td>
+<td>272.8</td>
+<td>283.7</td>
+<td></td>
+<td>光纤 Bypass 系列：Saga 三份价格表均无 Bypass 型号——沿用 SmartByte 型号并注明</td>
+</tr>
+<tr>
+<td>—（沿用 LT-）</td>
+<td>LT-IS6312XGP-4XS8GT-2FBP</td>
+<td>L2+ Managed industrial Bypass switch with 8<em>10/100/1000Base-T RJ45 PoE ports, 4</em>1G/2.5G/10GBase-X SFP+ slots …</td>
+<td>1540</td>
+<td>276.2</td>
+<td>287.7</td>
+<td>299.3</td>
+<td></td>
+<td>光纤 Bypass 系列：Saga 三份价格表均无 Bypass 型号——沿用 SmartByte 型号并注明</td>
+</tr>
+<tr>
+<td>—（沿用 LT-）</td>
+<td>LT-IS6312XGP-4XS8GT-2BT-2FBP</td>
+<td>L2+ Managed industrial Bypass switch with 8*10/100/1000Base-T RJ45 PoE ports, 1-2 ports support PoE++ 60-90W,…</td>
+<td>1640</td>
+<td>294.2</td>
+<td>306.4</td>
+<td>318.7</td>
+<td></td>
+<td>光纤 Bypass 系列：Saga 三份价格表均无 Bypass 型号——沿用 SmartByte 型号并注明</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><strong>Saga 暂无对应型号（17 款，只能写 SmartByte LT- 型号并注明「Saga 暂无对应型号，沿用 SmartByte 型号 LT-xxx」）</strong>：LT-IS6320G-4GX16GT-D、LT-IS6320GP-4GX16GT-D、LT-IS6320GP-4GX16GT-D-4BT、LT-IS6312XGP-4XS8GT-2BT、LT-IS6520XG-4XS8GX8GT、LT-IS6312G-4GX8GT-FBP、LT-IS6312GP-4GX8GT-FBP、LT-IS6312GP-4GX8GT-2BT-FBP、LT-IS6312XG-4XS8GT-FBP、LT-IS6312XGP-4XS8GT-FBP、LT-IS6312XGP-4XS8GT-2BT-FBP、LT-IS6312G-4GX8GT-2FBP、LT-IS6312GP-4GX8GT-2FBP、LT-IS6312GP-4GX8GT-2BT-2FBP、LT-IS6312XG-4XS8GT-2FBP、LT-IS6312XGP-4XS8GT-2FBP、LT-IS6312XGP-4XS8GT-2BT-2FBP</li>
+</ul>
+<h4>5.3.2 HRUI 洪瑞 / Realtek 线（<code>data/价格主表_HRUI.csv</code>，55 行，CNY 不含税含运费，来源《洪瑞报价-天龙2026930.xls》，汇率 6.69 @ 2026-10-17）</h4>
+<blockquote>
+<p>用法：只在客户自己说 Realtek / 低价 / 功能简单时给；报价按本表（2026-09-30 新进价）重算，不要用 Drive 2026 Q3 老美元表（39 款隐含加价 &lt;20%，Q-47）。ZX- 为洪瑞报价单中性型号；「Saga 对应型号」空 = 尚未对照（Q-42）。</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>ZX 型号</th>
+<th>Saga 对应型号</th>
+<th>品名</th>
+<th>规格摘要</th>
+<th>CNY 成本</th>
+<th>USD +20%</th>
+<th>USD +25%</th>
+<th>USD +30%</th>
+<th>最近采购价 RMB / 日期</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ZX-SW0050</td>
+<td></td>
+<td>5口百兆以太网交换机</td>
+<td>5个百兆网口，背板带宽1.0Gbps，DC5V1A，金属外壳，桌面式</td>
+<td>26.5</td>
+<td>4.8</td>
+<td>5.0</td>
+<td>5.1</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX-SW0080</td>
+<td></td>
+<td>8口百兆以太网交换机</td>
+<td>8个百兆网口，背板带宽1.6Gbps，DC5V1A，金属外壳，桌面式</td>
+<td>35.0</td>
+<td>6.3</td>
+<td>6.5</td>
+<td>6.8</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX-SWG1050</td>
+<td>STC-05GE</td>
+<td>5口千兆以太网交换机</td>
+<td>5个千兆网口 DC5V1A，金属外壳 背板带宽10Gbps</td>
+<td>33.0</td>
+<td>5.9</td>
+<td>6.2</td>
+<td>6.4</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX-SWG1080</td>
+<td>STC-08GE</td>
+<td>8口千兆以太网交换机</td>
+<td>5个千兆网口 DC5V1A，金属外壳 背板带宽10Gbps</td>
+<td>56.0</td>
+<td>10.0</td>
+<td>10.5</td>
+<td>10.9</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX-SWG10160D</td>
+<td>STC-016GE</td>
+<td>16口千兆以太网交换机</td>
+<td>端口形态：16*GE 背板带宽：32Gbps 电源规格：AC100-240V 12V1A 硬件功能：VLAN、Default、Extend 三种模式、环路告警、QoS优先级</td>
+<td>182.0</td>
+<td>32.6</td>
+<td>34.0</td>
+<td>35.4</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX-SWG10240D</td>
+<td>STC-024GE-D / STC-024GE-U</td>
+<td>24口千兆以太网交换机</td>
+<td>24个千兆网口，AC220V，金属外壳，桌面式，内置电源，12V2A，支持VLAN、Extend、环路告警，背板带宽48Gbps，默认搭配1U挂耳，支持机架安装</td>
+<td>249.0</td>
+<td>44.7</td>
+<td>46.5</td>
+<td>48.4</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX-SWG10240</td>
+<td>STC-024GE-D / STC-024GE-U</td>
+<td>24口千兆以太网交换机</td>
+<td>24个千兆网口，AC220V，金属外壳，桌面式，内置电源，12V2A，支持VLAN、Extend、环路告警，背板带宽48Gbps，标准1U机架式</td>
+<td>285.0</td>
+<td>51.1</td>
+<td>53.3</td>
+<td>55.4</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX-SWG10242S</td>
+<td>STC-224GE</td>
+<td>26口千兆以太网交换机</td>
+<td>24个千兆网口+2个上联SFP口，AC220V，金属外壳，内置电源12V2A，支持VLAN、Extend，背板带宽52Gbps，1U机架式安装</td>
+<td>310.0</td>
+<td>55.6</td>
+<td>57.9</td>
+<td>60.2</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX-SWG10482S</td>
+<td>STC-248GE</td>
+<td>50口千兆以太网交换机</td>
+<td>48个千兆网口+2个上联SFP口，AC220V，金属外壳，内置电源12V4A，支持VLAN（1-46），背板带宽100Gbps，1U机架式安装</td>
+<td>805.0</td>
+<td>144.4</td>
+<td>150.4</td>
+<td>156.4</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX-SWG2082NS</td>
+<td>STC-28GM</td>
+<td>10口千兆管理型以太网交换机</td>
+<td>8个千兆网口+2个千兆SFP口+1个管理端口，背板带宽20Gbps，二层网络管理功能，支持路由、DHCP、VLAN、MAC地址、ACL访问控制、QOS、组播、风暴抑制、IPV4/IPV6等业务功能，…</td>
+<td>315.0</td>
+<td>56.5</td>
+<td>58.9</td>
+<td>61.2</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX-SWG20244S</td>
+<td>STC-424GM</td>
+<td>千兆28口管理型交换机</td>
+<td>24个千兆网口+4个千兆SFP口+1个管理端口，背板带宽52Gbps，二层网络管理功能，支持路由、DHCP、VLAN、MAC地址、ACL访问控制、QOS、组播、风暴抑制、IPV4/IPV6等业务功能…</td>
+<td>590.0</td>
+<td>105.8</td>
+<td>110.2</td>
+<td>114.6</td>
+<td>530.0 / 2025-08-04</td>
+</tr>
+<tr>
+<td>ZX-SWTG3424S</td>
+<td>STC-424XGGM</td>
+<td>28口万兆上联三层管理型以太网交换机</td>
+<td>24个千兆下联网口+4个万兆上联SFP光口+1个USB串口+1个Console口，背板带宽128Gbps，三层网络管理功能，支持路由、DHCP、VLAN、MAC地址、ACL访问控制、QOS、组播、风…</td>
+<td>720.0</td>
+<td>129.1</td>
+<td>134.5</td>
+<td>139.9</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX-SWTG342408F</td>
+<td>STC-4248XGGCM</td>
+<td>28口万兆上联三层管理型以太网交换机</td>
+<td>24个千兆SFP光口+8个千兆电口(光电复用)+4个万兆SFP光口+1个Console口背板带宽128Gbps，三层网络管理功能，支持路由、DHCP、VLAN、MAC地址、ACL访问控制、QOS、组…</td>
+<td>1750.0</td>
+<td>313.9</td>
+<td>327.0</td>
+<td>340.1</td>
+<td>1600.0 / 2024-02-19</td>
+</tr>
+<tr>
+<td>ZX-SWTG3448S</td>
+<td>STC-448XGGM</td>
+<td>52口万兆上联三层管理型以太网交换机</td>
+<td>48个千兆下联网口+4个万兆上联SFP光口+1个USB串口+1个Console口，背板带宽176Gbps，三层网络管理功能，支持路由、DHCP、VLAN、MAC地址、ACL访问控制、QOS、组播、风…</td>
+<td>1500.0</td>
+<td>269.1</td>
+<td>280.3</td>
+<td>291.5</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX-SWTG3C12F</td>
+<td>STC-120XGM</td>
+<td>12口万兆三层管理型以太网交换机</td>
+<td>12个万兆SFP光口+1个Console口，背板带宽240Gbps，三层网络管理功能，支持路由、DHCP、VLAN、MAC地址、ACL访问控制、QOS、组播、风暴抑制、IPV4/IPV6等业务功能，…</td>
+<td>950.0</td>
+<td>170.4</td>
+<td>177.5</td>
+<td>184.6</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX-SWTG3624AS</td>
+<td>STC-624XGDGM</td>
+<td>30口管理型万兆上联2.5G 交换机</td>
+<td>24个2.5G 网口+6个万兆上联SFP光口+1个Console口，背板带宽240Gbps，三层网络管理功能，支持路由、DHCP、VLAN、MAC地址、ACL访问控制、QOS、组播、风暴抑制、IPV…</td>
+<td>1900.0</td>
+<td>340.8</td>
+<td>355.0</td>
+<td>369.2</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX902-AF-42N</td>
+<td>STC-024FP</td>
+<td>百兆6口PoE交换机</td>
+<td>5口10/100M交换机，其中1-4口支持PoE，IEEE 802.3af/at国际标准，单端口供电功率最大30W，整机总功率55W，上联口1个百兆电口，背板带宽1.2Gbps，网口传输支持250米…</td>
+<td>57.0</td>
+<td>10.2</td>
+<td>10.7</td>
+<td>11.1</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX902-AF-82N</td>
+<td>STC-028FP</td>
+<td>百兆10口PoE交换机</td>
+<td>10口10/100M交换机，其中1-8口支持PoE，IEEE 802.3af/at国际标准，单端口供电功率最大30W，整机总功率96W，上联口2个百兆电口，背板带宽2.0Gbps，网口传输支持250…</td>
+<td>78.0</td>
+<td>14.0</td>
+<td>14.6</td>
+<td>15.2</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX902-AF-82GN</td>
+<td>STC-028GFP</td>
+<td>百千兆10口PoE交换机</td>
+<td>10口10/100M交换机，其中1-8口支持PoE，IEEE 802.3af/at国际标准，单端口供电功率最大30W，整机总功率120W，上联口2个千兆电口，背板带宽5.6Gbps，网口传输支持25…</td>
+<td>100.0</td>
+<td>17.9</td>
+<td>18.7</td>
+<td>19.4</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX901-AF-821GNS</td>
+<td>STC-128GFP</td>
+<td>百千兆11口PoE交换机</td>
+<td>8个百兆PoE网口+2个千兆上联网口+1个千兆上联SFP光口 1-8口支持POE供电，兼容IEEE802.3af/at国际标准 3挡拨码支持VLAN、Default、Extend三种模式</td>
+<td>130.0</td>
+<td>23.3</td>
+<td>24.3</td>
+<td>25.3</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX902-AF-162G</td>
+<td>STC-0216GFP</td>
+<td>百千兆18口PoE交换机</td>
+<td>18口100/1000M混合型交换机，其中1-16口为百兆口，支持PoE，IEEE 802.3af/at国际标准，单端口供电功率最大30W，整机总功率200W，背板带宽7.2Gbps，上联口为2个千…</td>
+<td>215.0</td>
+<td>38.6</td>
+<td>40.2</td>
+<td>41.8</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX902-AF-242G</td>
+<td>STC-0224GFP</td>
+<td>百千兆26口PoE交换机</td>
+<td>26口100/1000M混合型交换机，其中1-24口为百兆口支持PoE，IEEE 802.3af/at国际标准，单端口供电功率最大30W，整机总功率300W，背板带宽8.8Gbps，上联口为2千兆电…</td>
+<td>315.0</td>
+<td>56.5</td>
+<td>58.9</td>
+<td>61.2</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX902-AFG-411NS-65</td>
+<td>STC-114GP</td>
+<td>千兆6口PoE交换机</td>
+<td>4个千兆PoE网口+1个千兆上联网口+1个千兆上联SFP光口 1-4口支持标准POE供电，兼容IEEE 802.3af/at国际标准 -10℃-50℃运行，4KV防雷，8KV防静电 AC 100-2…</td>
+<td>95.0</td>
+<td>17.0</td>
+<td>17.8</td>
+<td>18.5</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX902-AFG-42NS-65</td>
+<td></td>
+<td>千兆6口PoE交换机</td>
+<td>4个千兆PoE网口+2个千兆上联SFP光口 1-4口支持标准POE供电，兼容IEEE 802.3af/at国际标准 -10℃-50℃运行，4KV防雷，8KV防静电 AC 100-240V 输入，内置…</td>
+<td>125.0</td>
+<td>22.4</td>
+<td>23.4</td>
+<td>24.3</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX902-AFG-42N-65</td>
+<td>STC-024GP</td>
+<td>千兆6口PoE交换机</td>
+<td>4个千兆PoE网口+2个千兆上联网口 1-4口支持标准POE供电，兼容IEEE 802.3af/at国际标准 -10℃-50℃运行，4KV防雷，8KV防静电 AC 100-240V 输入，内置电源总…</td>
+<td>115.0</td>
+<td>20.6</td>
+<td>21.5</td>
+<td>22.3</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX902-AFG-82N</td>
+<td>STC-028GP / STC-208GP</td>
+<td>千兆10口PoE交换机</td>
+<td>10口10/100/1000M交换机，其中1-8口支持PoE，IEEE 802.3af/at国际标准，单端口供电功率最大30W，上联口为2个千兆电口，整机总功率120W，背板带宽20.0Gbps</td>
+<td>140.0</td>
+<td>25.1</td>
+<td>26.2</td>
+<td>27.2</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX902-AFG-822NS</td>
+<td>STC-228GP</td>
+<td>千兆12口PoE交换机</td>
+<td>12口10/100/1000M交换机，其中1-8口支持PoE，IEEE 802.3af/at国际标准，单端口最大供电功率30W，整机总功率120W，背板带宽24Gbps，支持拨码Extend延长，支…</td>
+<td>185.0</td>
+<td>33.2</td>
+<td>34.6</td>
+<td>35.9</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX-AFGM-82NS</td>
+<td>STC-28GPM</td>
+<td>10口千兆管理型PoE交换机</td>
+<td>8个千兆PoE网口+2个千兆SFP口+1个Console口，其中1-8口支持IEEE 802.3af/at国际标准，单端口最大供电功率30W，整机总功率120W，背板带宽20Gbps，二层网络管理功…</td>
+<td>396.0</td>
+<td>71.0</td>
+<td>74.0</td>
+<td>77.0</td>
+<td>355.1 / 2026-07-18</td>
+</tr>
+<tr>
+<td>ZX-AFGM-1622S-200</td>
+<td>STC-2216GPM</td>
+<td>20口千兆管理型PoE交换机</td>
+<td>16个千兆PoE网口+2个千兆网口+2个千兆SFP光口+1个Console口，其中1-16口支持IEEE 802.3af/at国际标准，单端口最大供电功率30W，整机总功率200W，背板带宽40Gb…</td>
+<td>790.0</td>
+<td>141.7</td>
+<td>147.6</td>
+<td>153.5</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX-AFGM-1622S-300</td>
+<td>STC-2216GPM</td>
+<td>20口千兆管理型PoE交换机</td>
+<td>16个千兆PoE网口+2个千兆网口+2个千兆SFP光口+1个Console口，其中1-16口支持IEEE 802.3af/at国际标准，单端口最大供电功率30W，整机总功率300W，背板带宽40Gb…</td>
+<td>840.0</td>
+<td>150.7</td>
+<td>157.0</td>
+<td>163.2</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX-AFGM-2444S-300</td>
+<td>STC-4424GCPM</td>
+<td>32口千兆管理型PoE交换机</td>
+<td>24个千兆PoE网口+4个千兆网口+4个千兆SFP光口+1个Console口，其中1-24口支持IEEE 802.3af/at国际标准，单端口最大供电功率30W，整机总功率300W，背板带宽56Gb…</td>
+<td>900.0</td>
+<td>161.4</td>
+<td>168.2</td>
+<td>174.9</td>
+<td>820.0 / 2025-08-04</td>
+</tr>
+<tr>
+<td>ZX-AFGM-2444S-400</td>
+<td>STC-4424GCPM</td>
+<td>32口千兆管理型PoE交换机</td>
+<td>24个千兆PoE网口+4个千兆网口+4个千兆SFP光口+1个Console口，其中1-24口支持IEEE 802.3af/at国际标准，单端口最大供电功率30W，整机总功率400W，背板带宽56Gb…</td>
+<td>960.0</td>
+<td>172.2</td>
+<td>179.4</td>
+<td>186.5</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX200-AFGM-SWTG3424S-400</td>
+<td>STC-424XGGPM</td>
+<td>28口万兆上联三层管理型PoE交换机</td>
+<td>24个千兆下联网口+4个万兆上联SFP+光口+1个USB串口+1个Console口，其中1-24口符合IEEE 802.3af/at国际标准，单端口最大供电功率30W，整机PoE功率400W（双路电…</td>
+<td>1500.0</td>
+<td>269.1</td>
+<td>280.3</td>
+<td>291.5</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX-AXGM-SWTG3448S-400</td>
+<td>STC-448XGGPM</td>
+<td>52口万兆上联三层管理型PoE交换机</td>
+<td>48个千兆PoE网口+4个万兆上联SFP光口+1个USB串口+1个Console口，POE符合IEEE 802.3af/at/bt国际标准，1-8端口最大供电功率90W，整机总功率650W，背板带宽…</td>
+<td>2350.0</td>
+<td>421.5</td>
+<td>439.1</td>
+<td>456.7</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX-AXGM-SWTG3624AS-450</td>
+<td>STC-624XGDGPM</td>
+<td>30口管理型万兆上联2.5G POE交换机</td>
+<td>24个2.5G PoE网口+6个万兆上联SFP光口+1个Console口，其中1-4口符合IEEE 802.3af/at/bt国际标准，整机总功率450W，PoE输出400W，背板带宽240Gbps…</td>
+<td>2400.0</td>
+<td>430.5</td>
+<td>448.4</td>
+<td>466.4</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX900-AFG-N301</td>
+<td></td>
+<td>30W千兆POE供电器</td>
+<td>1路AC电源输入+1路千兆RJ45端口POE输出+1路千兆RJ45端口网络输入 输入电压：AC100-240V，输出电压：DC52V 输出功率：30W 供电线序：12+/36- 支持输出状态显示：L…</td>
+<td>46.0</td>
+<td>8.3</td>
+<td>8.6</td>
+<td>8.9</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX-BTG-N601</td>
+<td></td>
+<td>BT60W千兆POE供电器</td>
+<td>1路AC电源输入+1路千兆RJ45端口POE输出+1路千兆RJ45端口网络输入 输入电压：AC100-240V，输出电压：DC52V 输出功率：60W 供电线序：12-/36+、45+/78- 支持…</td>
+<td>135.0</td>
+<td>24.2</td>
+<td>25.2</td>
+<td>26.2</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX-BTG-N901</td>
+<td></td>
+<td>BT90W千兆POE供电器</td>
+<td>1路AC电源输入+1路千兆RJ45端口POE输出+1路千兆RJ45端口网络输入 输入电压：AC100-240V，输出电压：DC52V 输出功率：90W 供电线序：12-/36+、45+/78- 支持…</td>
+<td>154.0</td>
+<td>27.6</td>
+<td>28.8</td>
+<td>29.9</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX900-AF-42N</td>
+<td>STC-024FP</td>
+<td>百兆6口PoE交换机</td>
+<td>6口10/100M交换机，其中1-4口支持PoE，IEEE 802.3af/at国际标准，单端口最大供电功率30W，整机总功率65W，上联口2个百兆电口，背板带宽1.2Gbps，网口传输支持200米…</td>
+<td>62.0</td>
+<td>11.1</td>
+<td>11.6</td>
+<td>12.0</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX900-AF-82N</td>
+<td>STC-028FP</td>
+<td>百兆10口PoE交换机</td>
+<td>10口10/100M交换机，其中1-8口支持PoE，IEEE 802.3af/at国际标准，单端口供电功率最大30W，整机总功率120W，上联口2个百兆电口，背板带宽2.0Gbps，网口传输支持20…</td>
+<td>90.0</td>
+<td>16.1</td>
+<td>16.8</td>
+<td>17.5</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX900-AF-82GN</td>
+<td>STC-028GFP</td>
+<td>百千兆10口PoE交换机</td>
+<td>10口10/100M交换机，其中1-8口支持PoE，IEEE 802.3af/at国际标准，单端口供电功率最大30W，整机总功率120W，上联口2个千兆电口，背板带宽5.6Gbps，网口传输支持25…</td>
+<td>108.0</td>
+<td>19.4</td>
+<td>20.2</td>
+<td>21.0</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX900-AF-1621GS-200</td>
+<td>STC-1216GFP</td>
+<td>百千兆19口PoE交换机</td>
+<td>19口100/1000M混合型交换机，其中1-16口为百兆口支持PoE，IEEE 802.3af/at国际标准，单端口供电功率最大30W，整机总功率200W，背板带宽9.2Gbps，上联口为2千兆电…</td>
+<td>249.0</td>
+<td>44.7</td>
+<td>46.5</td>
+<td>48.4</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX900-AF-1621GS-300</td>
+<td>STC-1216GFP</td>
+<td>百千兆19口PoE交换机</td>
+<td>19口100/1000M混合型交换机，其中1-16口为百兆口支持PoE，IEEE 802.3af/at国际标准，单端口供电功率最大30W，整机总功率300W，背板带宽9.2Gbps，上联口为2千兆电…</td>
+<td>285.0</td>
+<td>51.1</td>
+<td>53.3</td>
+<td>55.4</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX900-AF-2421GS-300</td>
+<td>STC-1224GFP</td>
+<td>百千兆27口智能型PoE交换机</td>
+<td>27口100/1000M混合型交换机，其中1-24口为百兆口支持PoE，IEEE 802.3af/at国际标准，单端口供电功率最大30W，整机总功率300W，背板带宽10.8Gbps，上联口为2千兆…</td>
+<td>365.0</td>
+<td>65.5</td>
+<td>68.2</td>
+<td>70.9</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX900-AFG-411NS</td>
+<td>STC-114GP</td>
+<td>千兆6口PoE交换机</td>
+<td>6口10/100/1000M交换机，其中1-4口支持PoE，IEEE 802.3af/at国际标准，单端口最大供电功率30W，上联口1个千兆电口+1个千兆光口，整机总功率65W，背板带宽12Gbps…</td>
+<td>115.0</td>
+<td>20.6</td>
+<td>21.5</td>
+<td>22.3</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX900-AFG-42NS</td>
+<td>STC-204GP</td>
+<td>千兆6口PoE交换机</td>
+<td>6口10/100/1000M交换机，其中1-4口支持PoE，IEEE 802.3af/at国际标准，单端口最大供电功率30W，上联口2个千兆光口，整机总功率65W，背板带宽12Gbps，网口传输支持…</td>
+<td>135.0</td>
+<td>24.2</td>
+<td>25.2</td>
+<td>26.2</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX900-AFG-42N</td>
+<td>STC-024GP</td>
+<td>千兆6口POE交换机</td>
+<td>6口10/100/1000M交换机，其中1-4口支持PoE，IEEE 802.3af/at国际标准，单端口最大供电功率30W，上联口2个千兆电口，整机总功率65W，背板带宽12Gbps，网口传输支持…</td>
+<td>115.0</td>
+<td>20.6</td>
+<td>21.5</td>
+<td>22.3</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX900-AFG-82N</td>
+<td>STC-028GP / STC-208GP</td>
+<td>千兆10口PoE交换机</td>
+<td>10口10/100/1000M交换机，其中1-8口支持PoE，IEEE 802.3af/at国际标准，单端口最大供电功率30W，整机总功率120W，背板带宽20Gbps，网口传输支持250米，支持拨…</td>
+<td>170.0</td>
+<td>30.5</td>
+<td>31.8</td>
+<td>33.0</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX900-AFG-82NS</td>
+<td></td>
+<td>千兆10口PoE交换机</td>
+<td>10口10/100/1000M交换机，其中1-8口支持PoE，IEEE 802.3af/at国际标准，单端口最大供电功率30W，整机总功率120W，背板带宽20Gbps，支持拨码Extend延长，支…</td>
+<td>180.0</td>
+<td>32.3</td>
+<td>33.6</td>
+<td>35.0</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX900-AFG-822NS</td>
+<td></td>
+<td>千兆12口PoE交换机</td>
+<td>12口10/100/1000M交换机，其中1-8口支持PoE，IEEE 802.3af/at国际标准，单端口最大供电功率30W，整机总功率120W，背板带宽24Gbps，支持拨码Extend延长，支…</td>
+<td>200.0</td>
+<td>35.9</td>
+<td>37.4</td>
+<td>38.9</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX900-AFG-1622S-200</td>
+<td>STC-2216GP</td>
+<td>千兆20口PoE交换机</td>
+<td>20口千兆交换机，支持PoE，IEEE 802.3af/at国际标准，整机总功率200W，背板带宽40Gbps，上联口为2千兆电口，2个千兆SFP光口，支持POE优先级，从1至16口依次顺序，支持拨…</td>
+<td>350.0</td>
+<td>62.8</td>
+<td>65.4</td>
+<td>68.0</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX900-AFG-1622S-300</td>
+<td>STC-2216GP</td>
+<td>千兆20口PoE交换机</td>
+<td>20口千兆交换机，支持PoE，IEEE 802.3af/at国际标准，整机总功率300W，背板带宽40Gbps，上联口为2千兆电口，2个千兆SFP光口，支持POE优先级，从1至16口依次顺序，支持拨…</td>
+<td>425.0</td>
+<td>76.2</td>
+<td>79.4</td>
+<td>82.6</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX900-AFG-2422S-300D</td>
+<td>STC-2224GP</td>
+<td>千兆28口PoE交换机</td>
+<td>28口千兆交换机，支持PoE，IEEE 802.3af/at国际标准，整机总功率300W，背板带宽56Gbps，上联口为2千兆电口，2个千兆SFP光口，支持POE优先级，从1至24口依次顺序，支持拨…</td>
+<td>470.0</td>
+<td>84.3</td>
+<td>87.8</td>
+<td>91.3</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX900-AFG-2422S-300</td>
+<td>STC-2224GP</td>
+<td>千兆28口PoE交换机</td>
+<td>28口千兆交换机，支持PoE，IEEE 802.3af/at国际标准，整机总功率300W，背板带宽56Gbps，上联口为2千兆电口，2个千兆SFP光口，支持POE优先级，从1至24口依次顺序，支持拨…</td>
+<td>490.0</td>
+<td>87.9</td>
+<td>91.6</td>
+<td>95.2</td>
+<td></td>
+</tr>
+<tr>
+<td>ZX900-AFG-2422S-400</td>
+<td>STC-2224GP</td>
+<td>千兆28口PoE交换机</td>
+<td>28口千兆交换机，支持PoE，IEEE 802.3af/at国际标准，整机总功率400W，背板带宽56Gbps，上联口为2千兆电口，2个千兆SFP光口，支持POE优先级，从1至24口依次顺序，支持拨…</td>
+<td>545.0</td>
+<td>97.8</td>
+<td>101.8</td>
+<td>105.9</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3>5.4 Saga 暂无对应、不要承诺的产品形态（范围护栏）</h3>
+<p>Saga <strong>没有</strong>（信稿 / 报价里出现即错，客户点名问时按 §9.4 两层答法）：反向 PoE、PoE 注入器 / 分离器单卖、光模块 / SFP 单卖（只随整机）、Bypass / TAP（Saga 无对应型号，只能沿用 LT- 型号且标注）、GPON / OLT / ONT、Wi-Fi / AP、M12 轨交、HDMI、百兆介质转换器以外的 MC（只有 STC-110XGE 为 10G MC）、WDM、升压 PoE（Booster 线未进价表）、机柜 / 配件、路由器、定制 ODM 开发、PoE BT 整机（只有 -2BT/-4BT 部分口）、L3 工业机以外的 L3 功能承诺、被动 PoE 整机（只有 -24V/-Auto 三款）、KC 认证、云管理 / 控制器 / REST API、堆叠（AC5 线；CENTEC STH1G 可堆叠 ≤8 台 / 360 Gbps 是另一层）、2.5G <strong>铜口</strong>（AC5 线 2.5G 只在 SFP/SFP+ 笼子；CENTEC 有 Multi-Gig 铜口但无价无现货；Realtek 商用线有 2.5G/10G 铜口 → 待 SB-263 裁定）、SFP28+ 高速 Marvell、SDK / 源码（「source code mode is NEVER an option」）、Cisco 私有协议（CDP/HSRP）、NAT / TSN / MPLS（AC5）/ SD-WAN / BFD / IP SLA / PIM-DM / RIPng / PBR（AC5）。</p>
+<hr />
+<h2>6. 技术能力与边界</h2>
+<h3>6.1 AC5 7.5 L2+ 功能表（已核，<code>Saga Feature List_7.5.x_L2+.xlsx</code>）</h3>
+<p>HTTPS ☑ · SNMP v1/v2c/v3 ☑ · SSH2 ☑ · SFTP/SCP Client+Server ☑ · sFlow ☑ · MQTT ☑ · PIM-SM ☑（仅 CLI）· ERPS &lt;20 ms ☑（单环/相切/相交）· LACP 64 组 ☑ · 静态路由 v4/v6 ☑ · IGMP Snooping / VLAN / QoS / ACL（AC5 3K–6K 条 vs Realtek 256–512）· LLDP · Syslog · Voice VLAN · PoE watchdog / 定时 / 250 m 延长（工业 PoE）。<strong>无</strong> MLAG / OSPF / RIP / VRRP / NAT（L2+ 档）；L3 型号另有 RIP/OSPF（按型号表）。「高阶管理 = 可编程 + API」是早期思路，<strong>现行口径不卖 API</strong>。</p>
+<h3>6.2 硬件事实</h3>
+<ul>
+<li>工作温度：非 PoE / PoE ≤240W <strong>-40 ~ +75 ℃</strong>（部分 +70 ℃）；370W 机型 -40 ~ +60 ℃；防护 <strong>IP40</strong>（NOT IP67/IP68）；CENTEC 0 ~ 40 ℃（Netaş 曾指不够）。</li>
+<li>工业机 DC 12–58 V（部分 12–75 V）冗余输入、极性反接/过载保护；PoE 机 DC 44–57 V；<code>-U</code> 机架型 AC/DC 冗余。</li>
+<li>PoE：802.3af/at 标配；bt 60–90 W 只在 <code>-2BT/-4BT</code> 衍生型的 1–2/1–4 口；PoE 机 GUI 只显示 <strong>PD 侧</strong>电压/功率，不显示交换机自身输入电压。</li>
+<li>单台重量/尺寸（报 DAP 直接用）：STI-21616DGGPM/XGGPM 158×115×54 mm 净 1.2 kg（12 台/箱 20 kg）；STI-288DGGPM 1.2 kg；8 口管理型与 STI-21616DGGPM 同尺寸（一款彩盒通用）；STC-424XGGPM ≈3.4–3.5 kg，440×180/205×44 mm；STC-448XGGPM ≈5.6 kg；STC-2224GFP-24V 2.9/3.6 kg，440×290×45 mm；SmartByte 原箱 8 PoE+2 SFP 两台/箱 3 kg，24/48 口机 10.6 kg（53.5×20.5×40.8 cm）；ANW-2116-PG 8 台/箱 21 kg。</li>
+<li>芯片（Case 1 德国客户问答）：Marvell 98DX336S + 88E1680 + 88E1548（AC3 代）；PoE 用独立小板；无 TSN、无 virtual stacking；10G 收发器 LT-MC80X 用 Marvell 88X3310 PHY。</li>
+<li>出货前 <strong>5 个工作日稳定性测试</strong>（公司政策；常订型号 STI-244GP、STI-050GE 只做 8 小时老化）。</li>
+</ul>
+<h3>6.3 OEM / ODM 菜单（对外英文可直接用）</h3>
+<p>"Company logo / Packaging / Front panel (PVC mask) / Product label / Model name / Serial number / User manual / Default login IP / SNMP OID customization / Web GUI language — all mature options. We can also discuss firmware customization for specific project requirements, subject to technical evaluation."</p>
+<table>
+<thead>
+<tr>
+<th>项目</th>
+<th>口径</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>免费、1 台也做</td>
+<td>logo、型号名、SN、MAC 段、默认登录 IP、SNMP OID、Web UI logo、标签、彩盒去 Made in China</td>
+</tr>
+<tr>
+<td>收费 / 有 MOQ</td>
+<td>Web UI 配色/字体（「改码量大，样单不做」）、PVC 面膜丝印（整批开模，余料 Saga 代存；SA-006 $50 一次性）、定制彩盒 <strong>$2.5/套、200 套起</strong>（盒 + 异形泡棉 + 顶片 + 说明书）、特殊包装</td>
+</tr>
+<tr>
+<td>SKD / CKD / ODM</td>
+<td>SKD 可做；CKD/ODM 需评估；<strong>源代码不开放</strong>；SDK/API 不作为卖点（2025-11 曾说「part of our TTC services」——不再使用）</td>
+</tr>
+<tr>
+<td>功能开发</td>
+<td>只在<strong>有订金 / 订单确认后</strong>排期，否则不给时间表（AC5 加 SFTP 先例）</td>
+</tr>
+<tr>
+<td>中性包装</td>
+<td>可做中性包装 / 标签；不打 Made in China；不出现 Saga 以外品牌痕迹（INH-04）</td>
+</tr>
+<tr>
+<td>文件</td>
+<td>COO 产地证 $15/份；其他认证文件复印件免费；<strong>只发 Saga 名义证书</strong>，SmartByte 名义（LT- 型号）证书不外发</td>
+</tr>
+<tr>
+<td>自有 PEN</td>
+<td>NYNEX 2025-03 发现 SmartByte 通用 MIB 含其他 OEM 企业 OID（.57430 / .56813 / .171 D-Link）；Q-35/Q-45 按 T29-U15 口径：<strong>不申请不更换</strong>（宣传 SmartByte 品牌是合作约定、订单归 Saga）；OEM 菜单里 SNMP OID 写 "Private MIB under your own IANA PEN (please send us your PEN) or under Saga's enterprise tree"</td>
+</tr>
+</tbody>
+</table>
+<h3>6.4 Not-to-Do 清单（边界即资本）</h3>
+<p>合并版：云管理 / 控制器、EN50155 轨交 / 车载、IP67、消费级 / 家用路由、UL / E-mark / KC 行业、SFP28 及以上高速 Marvell、L3 组播级固件、SDK / 源码、国内公账单、视频营销 / Facebook / YouTube / 付费广告、极低价客户、「无未来的贸易商」、不尊重工程时间的、拉开会不买的、不稳定需求的项目型、无法连续复购的产品、OEM 贴牌的超重活、硬件售后「换新，不修」。客户需求命中清单 → 直接写「停点：边界」，不设计绕路。</p>
+<h3>6.5 认证登记（Saga 名义，可外发）</h3>
+<table>
+<thead>
+<tr>
+<th>类别</th>
+<th>证书号 / 报告号</th>
+<th>日期</th>
+<th>机构</th>
+<th>标准</th>
+<th>覆盖</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>CE-EMC</td>
+<td>JAT24070502534EC-1 / ER-1</td>
+<td>2024-07-05</td>
+<td>东莞骏安 Jun'an</td>
+<td>EMC 2014/30/EU；EN 55032:2015+A11:2020；EN 55035:2017+A11:2020；EN IEC 61000-3-2/-3-3</td>
+<td>Ethernet Switch 24 型</td>
+</tr>
+<tr>
+<td>CE-LVD</td>
+<td>JAT24070502534SC-1 / SR-1</td>
+<td>2024-07-05</td>
+<td>东莞骏安</td>
+<td>LVD 2014/35/EU；EN IEC 62368-1:2024</td>
+<td>同上</td>
+</tr>
+<tr>
+<td>RoHS</td>
+<td>JAT24070502534RC-1 / RR-1</td>
+<td>2024-07-05</td>
+<td>东莞骏安</td>
+<td>2011/65/EU &amp; (EU)2015/863 &amp; 2017/2102</td>
+<td>同上</td>
+</tr>
+<tr>
+<td>REACH</td>
+<td>— / JAT24070502534CR-1</td>
+<td>2024-07-05</td>
+<td>东莞骏安</td>
+<td>SVHC 240 项</td>
+<td>同上</td>
+</tr>
+<tr>
+<td>UKCA-EMC / LVD</td>
+<td>JAT24070502535EC-1 / SC-1</td>
+<td>2024-07-05</td>
+<td>东莞骏安</td>
+<td>BS EN 55032 / 55035 / 61000-3 / BS EN IEC 62368-1:2024</td>
+<td>同上</td>
+</tr>
+<tr>
+<td>FCC SDoC</td>
+<td>NCT24028321XE1-1</td>
+<td>2024-07-11</td>
+<td>深圳中测通 NCT</td>
+<td>47 CFR Part 15 Subpart B</td>
+<td>同上</td>
+</tr>
+<tr>
+<td>介质转换器 CE/FCC/RoHS</td>
+<td>HK2104211224E / HK2104210402S / HK2104211225E / HK2104210399R</td>
+<td>2021-04-29</td>
+<td>深圳华科 HUAK</td>
+<td>同上系列</td>
+<td>Media Converters</td>
+</tr>
+<tr>
+<td>介质转换器 UKCA</td>
+<td>HTT202210092ER / LR</td>
+<td>2022-10-17</td>
+<td>深圳华通 HTT</td>
+<td>BS EN 55032 / 62368-1</td>
+<td>主测 STC-110XGE</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>证书覆盖的型号范围需人工打开 PDF 确认后再对外承诺（原件在 Drive <code>MUST KNOW/Certification/</code>，索引 <code>docs/drive/Certification/认证证书索引.md</code>；登记表 <code>docs/reference/证书登记表_2026-10-22.md/.csv</code>）。</li>
+<li>认证口径（统一）：持有 CE / FCC / RoHS / REACH / UKCA；<strong>无 UL</strong>（2024-01 曾对 AirLive 说过「CE/UL compliant」——错，不再用）；TAA/GSA 不满足；日本 PSE/VCCI 可以客户名义办、费用客户自担（PSE 电源用 MEAN WELL GST120A48/240A48）；KC/BIS/EAC 由客户方办；UKCA 只对 GB 客户提。</li>
+</ul>
+<p>来源：<code>docs/对外口径一致性_2026-10-24.md</code> #3/#5/#10/#22、<code>docs/reference/Saga商务条款速查.md</code> §4/§5/§9/§11、<code>docs/reference/证书登记表_2026-10-22.md</code>、<code>docs/Saga理念摘读_2026-10-23.md</code> A29。</p>
+<hr />
+<h2>7. 商务条款（销售口径）</h2>
+<h3>7.1 交期与起订</h3>
+<table>
+<thead>
+<tr>
+<th>项目</th>
+<th>口径</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>生产启动</td>
+<td>收到货款后开始（银行到账 1–2 个工作日）</td>
+</tr>
+<tr>
+<td>标准品</td>
+<td>≤50 台 <strong>4–7 个工作日</strong>（Simon 现行对客户：「3–5 working days」+ 5 天老化；NYNEX 2026-09「3 weeks (15 working days) after order confirmed」）；定制/大单另议</td>
+</tr>
+<tr>
+<td>大单</td>
+<td>备料约 3 周（PCB、PoE 芯片、AC5 芯片）；<strong>≥25% 订金起备料</strong>；优先谈分批交付；250 台 ≈ 40 个自然日；1K 台 3–6 周</td>
+</tr>
+<tr>
+<td>运输</td>
+<td>快递 DHL/FedEx/UPS 4–7 天；海运/空运按单询价；下单到收货 ≈10–15 个自然日</td>
+</tr>
+<tr>
+<td>MOQ</td>
+<td><strong>1 台</strong>；定制（贴牌 / 面膜 / 固件）MOQ 按项目</td>
+</tr>
+<tr>
+<td>样品</td>
+<td><strong>不免费</strong>（"Saga Telecom do NOT do FREE SAMPLES"）；按 partner price 收费、样品款抵扣首个批量订单；5 个工作日出货；建议 ≥2 台。唯一例外：2026-04 对日本 UNEAX 说过「lending a piece is OK」（对方未接；对 UNEAX 不要改口）</td>
+</tr>
+</tbody>
+</table>
+<h3>7.2 付款</h3>
+<table>
+<thead>
+<tr>
+<th>项目</th>
+<th>口径</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>币种 / 条款</td>
+<td><strong>USD EXW</strong>（仓库规则）；Drive FAQ 写 DAP/DDP 为主 → 客户要到门价时按 DAP 单独核算运费；非欧盟客户常用 DAP / FOB 深圳</td>
+</tr>
+<tr>
+<td>方式</td>
+<td>T/T（默认）、PayPal（+5%，样机 / 小额）、Xtransfer（Angora / James / NYNEX / Netaş）、EUR 账户（NYNEX 2026-09 三币报价 USD 6.71 / EUR 7.6 / RMB 2,015）、HK 账户收 TRY、RMB 经中国付款代理（俄罗斯 / 土耳其部分）</td>
+</tr>
+<tr>
+<td>比例</td>
+<td>标准品批量 <strong>50% 预付 + 50% 发货前</strong>；定制/OEM 100% 预付；小额/样品 100% 预付；要求锁定排期需预付 25% 物料押金</td>
+</tr>
+<tr>
+<td>手续费</td>
+<td>T/T 银行费 $25/单（买方承担）；PayPal 5%</td>
+</tr>
+<tr>
+<td>首笔外汇</td>
+<td>中国银行对首笔境外来款要<strong>买方股东信息</strong>（一个股东即可，只首笔）——新客户首付前先说</td>
+</tr>
+<tr>
+<td>有效期</td>
+<td>报价 15 天；汇率剧烈波动重新定价；TRY 报价只给 3–7 天</td>
+</tr>
+<tr>
+<td>国内</td>
+<td>国内客户只接私账（支付宝 / 微信 / 银行卡），不接公账</td>
+</tr>
+<tr>
+<td>待清路径</td>
+<td>RU / BY / KZ / UZ 收款路径未清前不报价（Backlog）</td>
+</tr>
+</tbody>
+</table>
+<h3>7.3 保修与售后</h3>
+<table>
+<thead>
+<tr>
+<th>项目</th>
+<th>口径</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>保修期（对外）</td>
+<td><strong>商用 STC 1 年 / 工业 STI 3 年 / DIN 电源 3 年 / 介质转换器与 PoE 配件 1 年 / CENTEC STH 1 年</strong>，自交付日起，终身技术支持；SmartByte 官网 5 年是工厂政策，<strong>不引用</strong></td>
+</tr>
+<tr>
+<td>DOA</td>
+<td>发货后 3 个月内到货即坏 = DOA：往返运费与更换由工厂承担；保内客户寄回自付、工厂承担回寄与维修；保外全部客户承担</td>
+</tr>
+<tr>
+<td>RMA</td>
+<td><strong>每 100 台同型号随货送 2 台备件</strong>（或等值 2% 货款抵扣）；<strong>不接受退货</strong>，坏机以备件 / 下单补发处理；「硬件售后：换新，不修」</td>
+</tr>
+<tr>
+<td>支持</td>
+<td>邮件 + 远程（Web/CLI 日志）；固件升级免费；不含现场服务</td>
+</tr>
+<tr>
+<td>除外</td>
+<td>雷击、过压、进水、私自改装、SN 涂改、未授权维修</td>
+</tr>
+</tbody>
+</table>
+<h3>7.4 物流与清关实务（只记实际发生过的）</h3>
+<table>
+<thead>
+<tr>
+<th>项目</th>
+<th>做法</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>两条物流线</td>
+<td>① <strong>客户自己的广州货代</strong>（Mbata 尼日利亚：Saga 只送到广州仓，发货信息单写「品名 / 数量 / 重量 / HS 8517622990 / 品牌 无 / 不带电不带磁」）；② <strong>Saga 自己的深圳买单报关线</strong>（James 加拿大、Angora 土耳其、Sugito 马来西亚、NYNEX 德国、Rishi 印度…）：填「出口货物确认函 / 货物情况说明表」</td>
+</tr>
+<tr>
+<td>HS 编码</td>
+<td>交换机 <strong>8517622990</strong>；光模块 8517795000；光纤清洁笔 8517799000</td>
+</tr>
+<tr>
+<td>品牌栏</td>
+<td>OEM/贴牌客户一律「<strong>无品牌</strong>」；自有品牌出货写「Saga Telecom · 境内自主品牌 · 生产厂家 Zhengzhou Saga Telecom Co., Ltd.」</td>
+</tr>
+<tr>
+<td>报关费</td>
+<td>大货运费基础上再加 ≈250 元（150 报关 + 100 保险）</td>
+</tr>
+<tr>
+<td>大单运费</td>
+<td>Angora 176 台 = 23 箱 471.9 kg，运费 22,426 RMB ≈ 127 RMB/台（≈$18），把毛利从 ~24% 压到 15.9% → 同规模报价时<strong>运费单列、空运/海运分开报</strong></td>
+</tr>
+<tr>
+<td>印度清关</td>
+<td>FedEx 需收货人先在 kyc.fedex.com 上传 GSTIN + 身份/地址证明 + POA，否则卡海关</td>
+</tr>
+<tr>
+<td>装箱单</td>
+<td>工厂 PACKING LIST 开给 Zhengzhou Saga Telecom（Consignee），再由 Saga 转出口；客户只看到 Saga 的 CI/PL</td>
+</tr>
+<tr>
+<td>出口管制分类</td>
+<td><strong>EAR99 · NLR · CCATS 不适用 · HTS 8517622990 · 原产国 China</strong>（对 Netaş 已填；大企业供应商入库问 ECCN 照此答）</td>
+</tr>
+<tr>
+<td>个人数据</td>
+<td>Netaş《Annex 1》已签：客户方个人数据只用于履约、不转第三方 → Netaş 联系人不进群发、不转给工厂</td>
+</tr>
+<tr>
+<td>客户资料夹</td>
+<td>成单客户一户一个 Google Drive 订单文件夹，把对方指定人加为编辑，请其上传测试报告</td>
+</tr>
+</tbody>
+</table>
+<h3>7.5 Simon 2026-09/10 现行口径（S 邮箱原话，可直接复用）</h3>
+<table>
+<thead>
+<tr>
+<th>项目</th>
+<th>英文原话</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>群发主推</td>
+<td>"Marvell AC5 based L2+ switch: 24 Port PoE af/at + 10G Fiber Uplinks + OEM and customizable Web GUI — Price: 180USD/PC"</td>
+</tr>
+<tr>
+<td>样品</td>
+<td>"Normally evaluation units are provided at a partner price, and the sample cost will be credited toward your first commercial order. For long-term partners we can discuss additional support based on the project and cooperation plan."</td>
+</tr>
+<tr>
+<td>分销</td>
+<td>"For now, we do not have a distributor in the UK. We are certainly open to discussing a distributorship after we get to know each other and see good cooperation."</td>
+</tr>
+<tr>
+<td>控制器 / API 问法</td>
+<td>先反问 "REST API / SNMP-based / SSH-CLI automation / NETCONF / other controller platform?"——实际可承诺 SNMP + CLI/SSH + Web；<strong>无云控制器、无 REST API</strong>，下一封应直说</td>
+</tr>
+<tr>
+<td>资料包</td>
+<td>先发 <code>Saga Feature List_7.5.x_L2+.xlsx</code> + <code>Product Link_2026Q3.pdf</code>；深谈再发 <code>STC-424XGGPM-280W.docx</code> + <code>Marvell Based CLI/Web Manual.docx</code> + <code>SWITCH-MIBS-release.docx</code></td>
+</tr>
+<tr>
+<td>涨价</td>
+<td>"in recent days, PCB and material costs are rising. This is one of the very competitive models."（统一说法：2026 年 PCB/RAM 成本 + 汇率，AC5 整线约 +$15；<strong>不说「高价是为了筛选客户」</strong>）</td>
+</tr>
+</tbody>
+</table>
+<p>来源：<code>docs/reference/Saga商务条款速查.md</code> §1–§3/§8/§10/§11、<code>docs/对外口径一致性_2026-10-24.md</code> #6–#9/#12、<code>docs/Saga理念摘读_2026-10-23.md</code> A24。</p>
+<hr />
+<h2>8. 定价规则（两套并存，都是底线不是策略）</h2>
+<h3>8.1 公式（仓库规则，用户 2026-10-19 认可）</h3>
+<pre><code>报价 USD（EXW）= SmartByte 未税人民币价 × (1 + 档位) ÷ USD/CNY 近期汇率
+档位 ∈ { 20%, 25%, 30% }      汇率快照 1 USD = 6.69 CNY（2026-10-17；报价当天重核）
+</code></pre>
+<table>
+<thead>
+<tr>
+<th>客户类型</th>
+<th>档位</th>
+<th>理由</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>分销商 / 电商 / 明显比价型</td>
+<td><strong>20%</strong></td>
+<td>走量、价格敏感、与台系品牌正面比价</td>
+</tr>
+<tr>
+<td>集成商 / 项目型 / 方案商</td>
+<td><strong>25%</strong></td>
+<td>看方案可行性，让利空间保留在 25% 内</td>
+</tr>
+<tr>
+<td>OEM/ODM 深度定制、小批量技术型（CLI/MIB/私有 UI）</td>
+<td><strong>30%</strong></td>
+<td>定制与技术支持成本高，Saga 核心差异化</td>
+</tr>
+</tbody>
+</table>
+<h3>8.2 芯片线 / 账户类型底线（《计划.docx》，Simon 原话）</h3>
+<ul>
+<li><strong>Realtek ≥ 20 个点</strong>（特殊客户或量大可压至 15）；<strong>Marvell ≥ 25 个点</strong>（可压至 20）；<strong>CENTEC ≥ 35 个点</strong>（必要时可加至 50 甚至更高）。</li>
+<li>小单 <strong>3 成左右</strong>（按型号 / 数量 / 国家调整，<strong>不低于 2.5 成</strong>，含运费杂费）；大单私账 2–2.5 成；大单公账扣 10 个点税后<strong>不低于 15 个点</strong>。</li>
+<li>封顶：「给我 100，我最多卖 130」（<strong>30% 天花板</strong>）；「Mbata 就是 20 个点，不能再低了」。</li>
+<li>两套口径（按客户类型 20/25/30 vs 按芯片线 20/25/35）并存，写档案时注明选哪一档、为什么。</li>
+</ul>
+<h3>8.3 价格书写与有效期</h3>
+<p><code>$xx USD EXW（快照 YYYY-MM-DD，15 天有效，报价前核价）</code>；首触邮件只报 <strong>一个</strong> P1 价格、只写 Saga 型号；同名 L2+/L3 注档位；对照表标「核对」的条目报价前与 SmartByte 确认规格。</p>
+<h3>8.4 价格异议处理</h3>
+<p>价格异议一律不让步（iotsistem、Aironix、case.uk 先例）；来信只有「target price / extremely expensive / cheaper alternative」而无任何技术问题 → 价格流客户 → 降级或 PASS，不在档案里设计「让价方案」。折扣「基于数量且在样品测试之后，只有客户对质量满意时谈价才有意义；分销商给最好价」。</p>
+<h3>8.5 常用价格锚（USD，CNY 6.69，20% 档为主）</h3>
+<p>Realtek 商用线以 §5.3.2 为准（例：STC-028GP = ZX900-AFG-82N，CNY 170 → $30.5 / 31.8 / 33.0；2023-11 首版曾报 $24.5；STC-2224GP = ZX900-AFG-2422S-300 CNY 490 → $87.9 / 91.6 / 95.2）· STC-424DGGM $82.5 · STC-424DGGPM-280W $134.5 · STC-424XGGM $127.4 · <strong>STC-424XGGPM-280W $181.2（群发 $180）</strong> · STC-448XGGM $263.7 · STC-448XGGPM $335.4 · STC-4168XGGCM $376.7（L3 列表 $413）· STI-280GE $46.6 · STI-288GPM $78.9 · STI-288DGGPM $139.9 · STI-21616DGGPM $240.4 · STI-21616XGGPM $297.8 · STI-488XGGPM $165 · STI-42424XGGPM-4BT $430.5 · STC-110XGE $65 · <strong>STH-2C24XF-HSI $1,500（含 MA $1,250）· STH-2C6QX $1,200 · STH-2C24XE-HSI $1,700（2026-07 现货）· STH-8C48DX-HSI $4,800 · STH-32C-HSI $6,000</strong>。</p>
+<h3>8.6 CENTEC（STH）报价锚（无成本价，只有对外锚）</h3>
+<table>
+<thead>
+<tr>
+<th>平台</th>
+<th>代表型号</th>
+<th>锚</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>XLite</td>
+<td>STH-2C6QX-HSI/-SFI（6×40G + 2×100G）</td>
+<td>$1,200（2026 Q2 价表）</td>
+</tr>
+<tr>
+<td>XLite</td>
+<td>STH-2C24XF-HSI（24×10G SFP+ + 2×100G）</td>
+<td>HSI $1,250 含 MA（2026-06 对 SA-060）；群发 $1,500；SFI 无 DC 输入</td>
+</tr>
+<tr>
+<td>VastLakes STH10G</td>
+<td>STH-2C24XE-HSI（24×10G Multi-Gig 铜 + 2×100G）</td>
+<td>$1,700（2026-07 现货）</td>
+</tr>
+<tr>
+<td>BigFlow / PeakNetX</td>
+<td>STH-8C48DX-HSI（48×25G + 8×100G）/ STH-32C-HSI / STH-32QC（32×400G）</td>
+<td>$4,800 / $6,000 / 400G 随 ITM 单 6 台 + 36 × 400G-SR4 @ $300</td>
+</tr>
+<tr>
+<td>STH1G（可堆叠 ≤8）</td>
+<td>STH-2QX4DX48GP-HSI 等 5 款</td>
+<td><strong>仓内无任何价格（Q-54）</strong></td>
+</tr>
+<tr>
+<td>Multi-Gig 铜口 PoE++（STH2.5G/5G/10G 20 余款）</td>
+<td>STH-8DX24VP-HSI、STH-2C24XP-HSI、STH-2QX4DX8XP40DP-HSI…</td>
+<td><strong>无价、现货未知（Q-56）</strong>，不主动报</td>
+</tr>
+</tbody>
+</table>
+<p>STOS 功能按许可分层：<strong>EB 基础 / MS 高级 / MA 城域 / ST 堆叠</strong>；EB 即有 RIPv1/v2、PBR、IP SLA、VRRP、ERPS、QinQ、sFlow、IPFIX；MLAG / VXLAN-EVPN / MPLS / BGP-OSPF 在高层许可。2026-01 群发写过 CENTEC「Full L3 features (VXLAN, EVPN, MPLS, Stacking etc.)」——Stacking 是否删除待核。</p>
+<h3>8.7 价表版本与已知矛盾（报价前必看）</h3>
+<ul>
+<li>仓内三代 Marvell 价表：① Drive <code>Extra Info/Price/2026 Price List_*.xls</code>（老抬头；STI-288DGGPM $125、STC-424XGGPM-280W $180、STC-4168XGGCM $375）= Angora 2024-11 成交价 = <strong>Simon 2025–26 所有实际报价的量级</strong>；② 仓库根目录三份《Price List_Marvell Based …》PDF（2026-06-22，新抬头，85/94 款 = ① × 1.10：$137.5 / $198 / $413）= <code>价格主表</code> 的「Saga列表价USD」，但 2026-06→10 四个月外发里<strong>几乎没用过</strong>；③ 仓库公式价（本表 USD 列）。</li>
+<li>118 款对照：+20% 档中位数 = ② 列表价的 90%；<strong>12 款 +20% 档 ≤ 列表价 70%</strong>（STI-480XGGM $150.7 vs $253、STI-488XGGPM $165 vs $269.5、STC-4816XGCGPM $358.7 vs $611、STI-050GE $17 vs $34.1…）→ Q-59 待 Simon 定（跟着 SmartByte 降还是守列表价；默认按档位）；10 款 +20% 档 &gt; 列表价（2.5G-SFP 工业 DGG 家族，如 STI-288DGGPM $139.9 vs $137.5——列表价按旧汇率 ≈7.1 算）。</li>
+<li>非管理工业线成本表是 2024-01 的，算出的档位价（STI-054GP $31–34、STI-244GP $35–38）比 Simon 2026-04 实报（$33 / $45）还低——<strong>不可靠，报前核</strong>。</li>
+<li>群发里的低价（Elsa $170 / STI-21616GP $165 / STI-488XGGBPM $215）是<strong>旧汇率引流价</strong>（U28），不是现行报价基准。</li>
+<li>HRUI 线：Drive 2026 Q3 美元表 61 款对洪瑞 2026-09-30 新进价的隐含加价 47 款可对照里 <strong>39 款 &lt; 20%、2 款为负</strong>（Q-47）——Realtek 线报价必须按新进价重算。</li>
+<li>Simon 实际毛利（PI 包 <code>成本统计.xlsx</code>）：Angora 大单 ~24% → 运费后 15.9%；NYNEX 2024–2026 USD 19.6k 利润 RMB 7,082；Obmac 一单 265 台 USD 9,350 利润 RMB 23,118；利润点来源「13 + 5（返点）+ 20 个点价格 = 接近 40 个点」（出口退税 13% + 返点 5% + 加价 20%）。内部数字，<strong>不外发</strong>。</li>
+</ul>
+<p>来源：<code>docs/rules/报价与型号规则.md</code>、<code>docs/reference/价格表_三档加价_USD.md</code>、<code>docs/reference/价格表_HRUI_三档加价_USD.md</code>、<code>docs/reference/CENTEC_产品表与报价锚_2026-10-24.md</code>、<code>docs/对外口径一致性_2026-10-24.md</code> #15/#19–#21、<code>docs/成单客户_毛利复盘_内部_2026-10-24.md</code>、<code>docs/Saga理念摘读_2026-10-23.md</code> A11。</p>
+<hr />
+<h2>9. 品牌口径与对外话术</h2>
+<h3>9.1 固定四句（英文，逐字，不改写）</h3>
+<table>
+<thead>
+<tr>
+<th>场景</th>
+<th>原文</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>邮件签名 / 落款</td>
+<td><code>&lt;名字&gt;</code> / https://sagatele.com/ / <strong>An Engineering &amp; Supply-Chain-First Telecom Partner</strong> / <strong>Built to Last, Continuous Supply, Evolving Together</strong></td>
+</tr>
+<tr>
+<td>一句话介绍</td>
+<td><strong>Tailored Managed Networking Solutions — A Scalable Path from Access to Core</strong></td>
+</tr>
+<tr>
+<td>三个关键词</td>
+<td><strong>Architectural Stability, Continuous Supply, and Lifecycle Continuity</strong></td>
+</tr>
+<tr>
+<td>使命</td>
+<td>Ensure that the journey from the first access switch to a mature, high-speed core remains scalable, coherent, stable, and low-friction</td>
+</tr>
+</tbody>
+</table>
+<p>仓库信稿签名统一：<strong>「Saga Telecom - sagatele.com」</strong>（首触样板落款 "Saga Telecom — An Engineering &amp; Supply-Chain-First Telecom Partner · PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://sagatele.com/"）。</p>
+<h3>9.2 口号史（知道就行，别用旧的）</h3>
+<p>3C「Connecting, Converting, Creating」→「Saga Telecom, OEM Factory / Tailored Managed Networking Solutions Provider / Built to Last, Continuous Supply, Evolving Together」→ 2026-07-29 中间句改为「An Engineering &amp; Supply-Chain-First Telecom Partner」（「solutions 太泛化了，本身我们只有硬件」「叫 partner 比较亲切」）；「<strong>OEM factory 不要加了，有点 low</strong>」；第三句不变。2025–2026 签名「Saga Telecom/OEM Factory」127 封已发出——不翻案，新材料一律新口径。</p>
+<h3>9.3 理念语录（Roadmap / 官网原句，可直接引用）</h3>
+<ul>
+<li>Continuity Over Novelty — "Upgrading from Access to Core is treated as a system extension rather than a replacement. By maintaining familiar workflows, we ensure that as bandwidth increases, operational complexity does not."</li>
+<li>Rational Technology Selection — "Silicon choice is an engineering decision, not a marketing one. Access Layer: Anchored on Marvell platforms selected for their industrial pedigree, field-proven stability, and mature ecosystem. Aggregation &amp; Core Layer: Built on CENTEC solutions introduced only after comprehensive validation of ecosystem maturity, long-term supply alignment, and backbone-grade reliability."</li>
+<li>"A single, accountable technical contact across the entire network lifecycle."</li>
+<li>"These are not isolated hardware SKUs, but a coherent, scalable system that can evolve with network demands."</li>
+<li>"The transition from Access → Aggregation/Core is often the highest-risk point in a network's lifecycle."</li>
+<li>官网："Built to engineer, not just to sell." / "We commit to Marvell and CENTEC architectures and go deep — not broad." / "Chip inventory, held on purpose." / "Strategic inventory isn't a cost center. It's the product." / "We're not a marketing-driven company. We put resources into engineering and inventory because that's where we actually create value for clients." / "Typical response within one business day. We don't use contact forms — direct email gets a faster, more useful reply."</li>
+<li>"We are backing our clients and following the market trend. Let's evolve together!!"</li>
+<li>官网 At-a-Glance：Positioning = Engineering &amp; Supply-Chain-First；Chipset Platforms = Marvell · CENTEC · Realtek；Customization = OEM / ODM / SKD / CKD；Supply Model = Strategic Inventory · Fast Lead Time；Certifications = CE · FCC · RoHS · REACH · UKCA；We Don't = Rail / transit certified (EN50155)、IP67、Consumer / home routers（UL 与 KC 官网写「available on request for qualified projects」——比仓库「无 UL」松，原样保留但信稿按仓库口径）。</li>
+</ul>
+<h3>9.4 口径规则 R1–R7 + 用词表</h3>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>规则</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>R1</td>
+<td>自我定位只用 §9.1 四句；不自称 factory / manufacturer / we build；统一 "we supply / our Marvell-based portfolio / our manufacturing partner's facility"；About 文案「不要说是贸易商，换个说法」；对外不说 SOHO，说 "a specialized networking solutions provider"</td>
+</tr>
+<tr>
+<td>R2</td>
+<td><strong>禁用</strong> SmartByte 标语与工厂自述（"Genuine Source Factory • Robust R&amp;D Support"、"SmartByte is specializing in R &amp; D…"、Factory Tour 图文）</td>
+</tr>
+<tr>
+<td>R3</td>
+<td>SmartByte 官网只借事实（型号、端口、PoE 预算、固件版本、认证、保修年限按 Saga 口径）</td>
+</tr>
+<tr>
+<td>R4</td>
+<td>网址只写 sagatele.com</td>
+</tr>
+<tr>
+<td>R5</td>
+<td>不主动承诺云管理（CENTEC DHCS 客户点名问时只答 "exists, self-hosted DHCS, not part of our standard offer"）</td>
+</tr>
+<tr>
+<td>R6</td>
+<td>芯片口径：接入层 Marvell、汇聚/核心 CENTEC；「CENTEC 不是 access 是 core」；不写 SKU 之外的性能承诺</td>
+</tr>
+<tr>
+<td>R7</td>
+<td>客户语言英文、仓库笔记中文；英文引用照抄原句</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><strong>用词白名单</strong>：engineering-driven、supply-chain-first、architectural stability、lifecycle continuity、strategic inventory、low-friction deployment、predictable delivery。</li>
+<li><strong>禁用词 / banned phrases（信稿审计直接报错）</strong>：cheap、best price、leading manufacturer、high quality with low price、professional service、list price、in stock（CENTEC 400G 群发写过，实际交期要核）、free samples、trading company、OEM Factory、NDAA、TAA、UL、GSA、general agent、we manufacture、Marvell ecosystem、SONiC、ONIE、"I researched your website"、产地、竞品名字。</li>
+<li><strong>信稿结构规则</strong>：单一 P1、只问 <strong>ONE question</strong>、英文、付费样品、不写电话（WhatsApp 只给跳转）、UKCA 只对 GB、非欧盟 → DAP / FOB 深圳、模型必须在有效型号集合内。</li>
+<li><strong>两层答法</strong>（客户问「有没有 X」）：第一层 Marvell AC5 线有/无；第二层 CENTEC 线有/无（查 <code>CENTEC_产品表与报价锚</code> + <code>客户功能需求台账</code> 看谁问过、当年怎么答）。例：多千兆铜口——"Marvell line: 2.5G/10G on the fiber cages only; our commercial Realtek line has 2.5G/10G copper; CENTEC Multi-Gig PoE++ models exist on request."</li>
+</ul>
+<h3>9.5 敏感问题的统一答法（口径表 #1–#22 精华）</h3>
+<table>
+<thead>
+<tr>
+<th>主题</th>
+<th>统一口径</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Saga ↔ SmartByte 关系</td>
+<td>"SmartByte is our Marvell-platform manufacturing partner; Saga owns the product definition, firmware branding (including the private MIB) and after-sales. The firmware you receive is built for Saga and does not carry third-party OEM identifiers." 合规部门追问以 Peter 2025-03-25 的说明为准；不主动翻 2024 年「completely self-developed」旧话</td>
+</tr>
+<tr>
+<td>堆叠</td>
+<td>接入 AC5 <strong>不堆叠</strong>；可堆叠线 = CENTEC STH-2QX4DX48GP-HSI（≤8 台 / 360 Gbps，ST 许可）</td>
+</tr>
+<tr>
+<td>源码 / SDK / API</td>
+<td>"source code mode is NEVER an option"；SKD 可谈；API/SDK 不卖；转介第三方（Joey）做 CKD/源码不背书</td>
+</tr>
+<tr>
+<td>L3 / 协议边界</td>
+<td>L2+（AC5 7.5）静态路由 v4/v6 + PIM-SM；L3 型号另有 RIP/OSPF；不做 NAT / 云管 / TSN / MPLS（AC5）/ SD-WAN / BFD / IP SLA / Cisco 私有协议</td>
+</tr>
+<tr>
+<td>代理 / 分销身份</td>
+<td>可与客户签区域分销（客户当 Saga 的代理，"after we get to know each other"）；Saga 自己不自称任何上游总代；不接触客户的下游（SI/ISP）；无海外分公司</td>
+</tr>
+<tr>
+<td>第三方转介</td>
+<td>可转介不背书；轨交 / 源码 / 云管三类一律转出（轨交 M12 → Inmax）</td>
+</tr>
+<tr>
+<td>对 MikroTik 用户</td>
+<td>不比功能（RouterOS 脚本 / REST API / 云 NMS 我们没有），只说三件真事：OEM 贴牌 + 定制 Web GUI/默认配置、同为 Marvell Prestera、可作部分项目的替代；$130 级别</td>
+</tr>
+<tr>
+<td>涨价</td>
+<td>PCB/RAM + 汇率，AC5 整线约 +$15</td>
+</tr>
+<tr>
+<td>光模块</td>
+<td>不单卖；随整机按 §5.1 价位</td>
+</tr>
+<tr>
+<td>Realtek 线</td>
+<td>只在客户自己说 Realtek / 低价 / 功能简单时给；「management functions are even worse than Marvell」（Alan 原话）</td>
+</tr>
+<tr>
+<td>日本 / 美国政府 / 韩国</td>
+<td>PSE/VCCI 客户名义办费用自担；TAA/GSA 不满足；KC 客户方办</td>
+</tr>
+<tr>
+<td>国内冲突</td>
+<td>项目可能与 SmartByte 国内客户重叠（大型校园 / 运营商 / 无软件裸机）→ 标「待 Simon 判断冲突」，不推进（Q-49）</td>
+</tr>
+</tbody>
+</table>
+<h3>9.6 FAQ 英文一句话（可直接贴）</h3>
+<ul>
+<li>Lead time: "Standard models ship in 4–7 working days after payment, plus 4–7 days by express."</li>
+<li>Samples: "Samples are charged at unit price and fully deductible from your first bulk order."</li>
+<li>Warranty: "1-year warranty on commercial models (STC) and 3-year on industrial models (STI) and DIN power supplies, from the delivery date, with lifetime technical support."</li>
+<li>Payment: "T/T 50% deposit, balance before shipment; PayPal accepted with 5% fee."</li>
+<li>Spares: "2 free spare units per 100 pcs of the same model instead of RMA returns."</li>
+<li>OEM: "Logo, label, carton and Web-UI logo customization are free of charge; neutral packing available."</li>
+<li>Distributorship: "We are certainly open to discussing a distributorship after we get to know each other and see good cooperation."</li>
+<li>Export classification: "EAR99, NLR; HTS 8517.62.2990; country of origin China."</li>
+</ul>
+<p>来源：<code>docs/reference/Saga品牌口径与宣传语录.md</code>、<code>docs/对外口径一致性_2026-10-24.md</code>、<code>docs/reference/Saga商务条款速查.md</code> §6–§9、<code>docs/Saga理念摘读_2026-10-23.md</code> A10/A25、<code>scripts/saga_clients/audit_ab.py</code>（banned phrases）。</p>
+<hr />
+<h2>10. 市场与区域策略</h2>
+<h3>10.1 区域优先级（Simon 的话为准，AI 建议为辅）</h3>
+<table>
+<thead>
+<tr>
+<th>层级</th>
+<th>国家</th>
+<th>Simon 原话 / 依据</th>
+<th>运行方式（收款 / 物流 / 合规是否已通）</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>四主区</strong></td>
+<td><strong>土耳其、美国、英国、德国</strong></td>
+<td>「本身我是有土耳其、英国、德国客户的，成单的，质量都不错，这 3 个国家肯定是重点」；「美国：重要做，市场足够大，业务国际化，客户质量也不错，我手上有一些不错的，可以突破一下」（<strong>没有听 AI 的「放弃美国」</strong>）；「土耳其 = 现金流底盘，美国 = 爆发潜力，英国 = 高质量利润池，德国 = 技术 + 口碑市场」</td>
+<td>TR：TRY 收款（HK 账户）+ Xtransfer + 小批量多批次 + WhatsApp + DAP 伊斯坦布尔；US/CA：PayPal/T/T + DHL/UPS DAP（无 UL、TAA 不满足 → 只推私营企业 / WISP / 中小 DC / MSP / 行业 SI，不碰政府军队 Tier-1）；UK/DE：T/T、EUR 账户、Xtransfer——<strong>全部已通</strong></td>
+</tr>
+<tr>
+<td>次重点</td>
+<td><strong>波兰</strong></td>
+<td>「地理位置 OK，对中国产品也不太排斥」「波兰可稍微重点」</td>
+<td>已有群发基础（585 封），无成单</td>
+</tr>
+<tr>
+<td>范围内</td>
+<td>欧洲其他（意大利「我手上客户多」但「不是特别好的突破方向」、捷克、北欧、西班牙、法国、荷比、奥地利、瑞士等）+ 加拿大</td>
+<td>T05/T06「北美 + 欧洲 + 土耳其」</td>
+<td>大多已通或同 EU</td>
+</tr>
+<tr>
+<td>次级</td>
+<td><strong>俄罗斯、印度、韩国</strong></td>
+<td>「欧洲 美国这 2 个是绝对大头，然后一些俄罗斯 印度 韩国客户」；俄罗斯「我手上有成单客户，整个客户 list 也长，我也去过俄罗斯，对中国产品相对友好」</td>
+<td>RU：货代人民币、不走公账（<strong>RU/BY/KZ/UZ 收款路径未清前不报价</strong>）；IN：FedEx KYC（GSTIN/POA）、倒推式价格客户、通路「未通」；KR：需 KC（无）→ 守界</td>
+</tr>
+<tr>
+<td>已有成单但不主攻</td>
+<td>尼日利亚、泰国、马来西亚、阿联酋、新加坡、赞比亚、格鲁吉亚</td>
+<td>成单 20 家里的「其他」</td>
+<td>NG：客户货代 + WhatsApp only；TH/MY：货代 RMB；AE：T/T</td>
+</tr>
+<tr>
+<td>守界 / 不做</td>
+<td><strong>乌克兰、伊朗、叙利亚</strong>（守界，留 C 不发）；军工 / 公共采购 / 生命安全领域；轨交主营；巴西（「目前来看是最麻烦的一个国家」）；日本（PSE 自担，部分通）；韩国 KC；小国（SI/HR/RS/RO/BG/EE/LV/LT/LU/IS）不主动挖；大陆公司一律不入库</td>
+<td>INH-11、《计划》、U117</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>「国家 = 运行方式，不是市场规模」：一个国家能不能做取决于收款、物流、合规三件事是否已有现成通路。已通：TR、US、CA、UK、DE、UAE、NG、RU（货代）；部分：JP（PSE）、IL；未通：IN、KR、BR、ZA。</li>
+<li>「在对的 4 个国家，把对的 20 个客户，服务成离不开你的 8 个」；每个核心市场「1 个标杆客户 + 2–3 个稳定客户 + 5–8 个潜在客户」。</li>
+<li>DC 交换机（CENTEC 400G 等）当<strong>项目入口</strong>，只在美 / 德 / 英推，只卖给有现成 DC / 项目经验或已有部署计划的；CENTEC 市场判断：第一梯队土耳其（Angora / Netaş 找降 BOM 做自有品牌），第二梯队德 / 英（Open Networking Whitebox，企业网 / 教育 / 非关键 DC），第三梯队美国（私营 / WISP）；「俄罗斯是 Centec 的天堂」；不适合 NDAA / TAA 项目。</li>
+<li>土耳其细节：Angora 合作两年多（近来以项目为主）；Netaş 把 Saga 列入供应商 list、常收 compliance 邮件；里拉贬值 → HK 账户直收 TRY；Q3（6–8 月）停摆，1–2 月与 9–10 月是窗口；Yerli Malı 本土制造 15% 加分 → SKD/CKD 玩法；TAREKS 抽检、CE DoC / 土耳其语标签 / OEM 需客户商标授权书；<code>TR重点公司.xlsx</code> 8 家：Kron（主推 CENTEC 高速）、Karel（商业 PoE 国产化替代）、Netaş（在谈）、Turkcell（与 Netaş 关系紧密，不主动推）、Vodafone TR、KoçSistem、Aselsan / Havelsan（军工 — 守界）。</li>
+<li>英国跳板想法：Angora 在英国的公司 <strong>Connexite</strong> 可作对接 / 投标 / 中转平台；ITM 想做英国基地（可签分销）。</li>
+<li>展会清单（Simon 存档）：COMPUTEX Taipei、Secon Korea、SVIAZ / MIPS Russia、Exposec Brazil、Intersec Saudi、Essen Germany；德国 SPS / Hannover Messe。</li>
+<li>PLANET 渠道（本仓库原始任务）：PLANET Technology（台湾）的欧美分销商 / 集成商 / 安防工业经销 / 贴牌品牌商 = 「在和台湾品牌合作」的客户池（已接受台系价位、习惯亚洲供货）；<strong>台厂本身不是客户</strong>（INH-03）；该矿脉 2026-10-20 起<strong>暂停不是搁置</strong>（T22 / T29-U8 / U28），129 户已入库并按同一尺度复核。</li>
+</ul>
+<h3>10.2 发信窗口与来询季节（全库 S/A 邮箱统计，对方本地时间）</h3>
+<table>
+<thead>
+<tr>
+<th>国家</th>
+<th>群发封数 / 平均打开率</th>
+<th>最好的时段</th>
+<th>最差的时段</th>
+<th>来询高峰月</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>美国</td>
+<td>2,491 / 5.4%</td>
+<td>周三 08–10（13.6%）、周二 08–10</td>
+<td>周五 14–16、周四 12–14</td>
+<td>8 月、11 月、1 月</td>
+</tr>
+<tr>
+<td>英国</td>
+<td>1,094 / 5.0%</td>
+<td>周四 12–14（11.9%）、周二 14–16</td>
+<td>周四 14–16、周五 12–14</td>
+<td>1 月、5–6 月</td>
+</tr>
+<tr>
+<td>德国</td>
+<td>922 / 4.4%</td>
+<td>周四 12–14、周二 08–10</td>
+<td>周五（12–14 为 0%）</td>
+<td>9–12 月</td>
+</tr>
+<tr>
+<td>土耳其</td>
+<td>901 / 4.0%</td>
+<td>周四 10–12、周一 10–12</td>
+<td>周二 14–16、周五 08–10</td>
+<td>5 月、1–2 月</td>
+</tr>
+<tr>
+<td>加拿大</td>
+<td>681 / 5.7%</td>
+<td>周五 12–14、周二 12–14</td>
+<td>周四 10–12</td>
+<td>—</td>
+</tr>
+<tr>
+<td>波兰</td>
+<td>585 / 5.5%</td>
+<td>周四 12–14</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>俄罗斯</td>
+<td>577 / 6.2%</td>
+<td>—</td>
+<td>—</td>
+<td>12 月、5 月</td>
+</tr>
+<tr>
+<td>韩国</td>
+<td>1,206 / 5.1%</td>
+<td>周一 / 周二 10–12</td>
+<td>周三 / 周四</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>打开率最高的主题：「24 port poe switch」20.4%、「10g fiber media converter」17.9%、「24 port fiber switch」17.2%；最低：「10g l3 managed switch」1.3%、「managed poe switches」1.2%。德国对「oem core switching solution」0%。</li>
+<li>假日避让表：<code>docs/各国假日避让_2026-11_2027-03.md</code>。</li>
+</ul>
+<p>来源：<code>docs/Saga理念摘读_2026-10-23.md</code> A5/A6/A9/A12/A25、<code>docs/Saga内在逻辑与概念_2026-10-24.md</code> C7、<code>docs/各国发信窗口与来询季节_2026-10-27.md</code>、<code>docs/成单客户_PI复盘_2026-10.md</code> 看点 6、<code>docs/reference/Saga公司画像与边界.md</code> §6。</p>
+<hr />
+<h2>11. 目标客户画像、判读框架与分级标准</h2>
+<h3>11.1 目标客户排序（Simon 原话顺序）</h3>
+<ol>
+<li><strong>品牌商 / 方案商（有 OEM/ODM 需求）→ 最优先</strong>；偏技术的客户谈深度定制（功能、管理 UI）——核心差异化。「有自有品牌的交换机产品线」是最强正向信号。</li>
+<li><strong>明显有从中国进口经验或合作供应商者</strong>（Utepo / ONV / UNIPOE / HRUI / Scodeno…）；<strong>在和台湾品牌合作的也可以（ORing / PLANET / Edgecore）</strong>——长期潜力客户，慢慢跟。</li>
+<li><strong>分销商 / 电商</strong>（卖现成品牌、要现货标品）→ 可跟（可 OEM、有芯片库存、交期快）；纯转售知名品牌的分销商（Sava 类）绑定最弱。</li>
+<li><strong>集成商 / 项目商</strong>（CCTV / 工业 / 园区）→ 可跟，<strong>最好是小项目</strong>；大集团很难拿下。</li>
+<li>同行（明确在用大陆 / 台湾品牌的）→ 通过长期跟进有希望。
+- 偏好 <strong>项目型</strong>（弱化贸易商身份）与 <strong>技术型</strong>（CLI / MIB / 深度功能是主场）；「深度合作基本上还是要过工程师这一关」；客户判据一句话：「他是不是在构建一个系统，而不是买一台设备？」
+- 反向信号：只问 price list / target price / MOQ 的价格流；主营轨交；巨头分销（Ingram、TD SYNNEX、Arrow、Wesco/Anixter、Bechtle、Computacenter、Also…直接 C）；巨头运营商（hard 但<strong>不是</strong>永久 pass）；要求 API/SDK/云 NMS 的（Latmedia 类 → 转介，不是绑定对象）。</li>
+</ol>
+<h3>11.2 每户判读框架 J1–J7（加厚与 A/B 调查直接用，每个答案必须带证据）</h3>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>维度</th>
+<th>取值</th>
+<th>证据长什么样</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>J1</td>
+<td>客户类型</td>
+<td>OEM 品牌商 / 有进口经验者 / 分销商 / 集成商 / 其他</td>
+<td>官网自有品牌交换机线；PI/报关/货代经验、问 HS code/Incoterm；多品牌目录；项目案例页</td>
+</tr>
+<tr>
+<td>J2</td>
+<td>技术流 or 价格流</td>
+<td>技术 / 价格 / 混合 / 未知</td>
+<td>问 VLAN·ERPS·MIB·CLI·固件·温度·PoE 预算（技术）；只问 price list / target price / MOQ（价格）</td>
+</tr>
+<tr>
+<td>J3</td>
+<td>走到第几道筛子</td>
+<td>0 未触达 / 1 回过群发 / 2 读过 Drive / 3 走过 Template</td>
+<td>引用型号或价表数字 = 2；PI 编号、付款凭证、保修证书、NDA/ECCN 表 = 3</td>
+</tr>
+<tr>
+<td>J4</td>
+<td>绑定等级</td>
+<td>无 / 轻度（样品在手）/ 中度（批量 + 客户文档出现 Saga 规格）/ 较深（客户系统依赖 Saga 固件·OID·CLI）/ 深（自研集成 + 多年复购）</td>
+<td>监控快照里的产品页、GitHub、博客、招标文件、LibreNMS 提交</td>
+</tr>
+<tr>
+<td>J5</td>
+<td>停点 + 复活条件</td>
+<td>停点 ∈ {功能上限, 温度/认证, 价格, Saga 边界, 国内冲突, 对方不需要, 无回音}；复活条件写成<strong>外部事件</strong></td>
+<td>停点取客户最后一封实质邮件原话；复活例：「固件 7.5 补 PIM-SM」「客户发布新一代产品」「招标公告」</td>
+</tr>
+<tr>
+<td>J6</td>
+<td>国家通路</td>
+<td>已通 / 部分 / 未通</td>
+<td>见 §10.1</td>
+</tr>
+<tr>
+<td>J7</td>
+<td>节奏</td>
+<td>最后接触日期 / 由哪个名字 / 累计触达次数 / 下一次触发条件</td>
+<td>三邮箱合并后的时间线</td>
+</tr>
+</tbody>
+</table>
+<p>每户输出一行（可被脚本读取）：<code>绑定等级：轻度 ｜ 类型：集成商(技术流) ｜ 筛子：3 ｜ 停点：功能上限—L3 组播 ｜ 复活：固件补 PIM-SM/DM 或 CENTEC 工业温度机型 ｜ 通路：TR 已通 ｜ 节奏：最后 2026-07-17 Alan，第 9 次 ｜ 证据：A 邮箱 2026-02-27 / 2026-03-02</code>。绑定深度 Simon 的标签（轻度 / 较深 / 深）是基线，证据充分可升但要注明 Simon 原级。</p>
+<h3>11.3 长期客户群 A/B 标准 v5（2026-10-29，Q-76 收口，三库同尺）</h3>
+<ul>
+<li><strong>A（精华跟）满足任一</strong>：A1 复购 ≥2 或绑定 ≥中度 ｜ A2 成单 / 样品 / PI + 真人往来 ｜ A3 真人往来 + 对位 + 四主区/波兰 + （坐实 或 自牌）｜ A4 Simon 点名 ｜ A5 自牌 + 对位 + 真人往来 ｜ A6 真回 ≥3 + 对位。</li>
+<li><strong>B 底线</strong> = 对位 + 活着 + 有路径。留 B 规则：行业内 + 对位 + （进口同类 / established 分销·集成·品牌商 / 成单·样品·回信·需求）；微型 + 有进口证据 = 留 B 预付；未坐实 + 有路径 = 留 B 待坐实。</li>
+<li><strong>打回 C 储备（可逆）</strong>：个人 Gmail / 无主体；微型零售无进口证据；dormant；未坐实 + 无路径；非对位 + 区域外；红旗 / 制裁；明确没需求。dead 域 + 备用路径 = 留 B 换路径。</li>
+<li><strong>梯子</strong>：回信 / 询价 / 样品 / 成单 → 升；两轮无动静 → 降；弹回 / 停发 → pass；UA/IR/SY → C；gg 8 家永不 A。</li>
+<li><strong>永久 pass（Gate 0，必须刚性）</strong>：仅三种——无邮箱且无 WA；弹回且无备用地址；明确婉拒 / 要求停发。<strong>不是</strong>永久 pass：乌克兰、巨头运营商、品类不对位（光端机 / DWDM / 光模块——Simon 本职可用）、「研究后定 C」。「一旦入选 永不考虑」——所以不刚性的一律留 C 储备。</li>
+<li><strong>C ≠ 垃圾</strong>：C = 储备，不发信、两月巡检、来信即回 B。</li>
+<li><strong>Q-33</strong>：经销体系 / 洪瑞现供的 reseller 客户「不碰，标记」（<code>q33_hold</code> 只巡检），SA-040 例外可跟。</li>
+<li><strong>Simon 的分层方向（U128，绑定）</strong>：A/B 都是长期跟群；等级随反馈 / 挖掘 / 公司进展 / 产品线演变；C 捞出直接 B；External + Planet 同尺；核心规模不设硬指标；「再去过一遍客户 = 调研 + 加厚」，没深挖过的必须挖，不清楚的进 C 储备。</li>
+<li><strong>§6 默认分层（Q-77，待 Simon，默认执行）</strong>：A 精华跟 — 季度个人信 + 两月巡检 + 回信 48 h；B1（≈300–450）— 群发 + 一年两次人工点名；B2（≈1,500–1,700）— 只群发 6–8 周一封，弹回即 pass；C 储备 — 不发、两月巡检、来信即回 B。B2 = 桌面卡 + 快照 + 邮箱域活；A + B1 需登记 + 具名 KP。</li>
+<li>旧规则（继承，仍是底色）：A = 真实可追溯需求 + 可直达的人；B = 有邮箱可群发；C = 无邮箱 / 体量过大 / 区域外 / 业务不对口；<code>人工定级</code> 列优先于机器评级；集成商 / 顾问优先于分销商（Mikrotik 仓实测 A 率 34.5% vs 3.7%）。</li>
+</ul>
+<h3>11.4 公司底数登记（坐实）</h3>
+<ul>
+<li>「坐实」= 在官方 / 半官方登记源核到法人主体（Companies House / northdata / pappers / KRS / proff / allabolag / MD SDAT / BBB / D&amp;B / Crunchbase…），写入 <code>data/saga_clients/registry/&lt;key&gt;_2026-10-27.json</code>（1,487 码）；规则「<strong>1 查未得即停</strong>」；38 家 A 部分坐实（付费墙）只做 A 季度复核；新入库即查。规程：<code>docs/公司底数_作业规程.md</code>。</li>
+</ul>
+<p>来源：<code>docs/reference/Saga公司画像与边界.md</code> §4/§5、<code>docs/Saga内在逻辑与概念_2026-10-24.md</code> §4、<code>docs/AB判定_新标准_讨论稿_2026-10-29.md</code>、<code>docs/长期客户群_方案与复核_2026-10-29.md</code>、<code>docs/rules/客户分级与去重规则.md</code>、<code>docs/requirements/用户要求总账.md</code> INH-05/07/11。</p>
+<hr />
+<h2>12. 客户资产现状（2026-10-29）</h2>
+<h3>12.1 三个客户库</h3>
+<table>
+<thead>
+<tr>
+<th>库</th>
+<th>来源</th>
+<th>编号</th>
+<th>规模</th>
+<th>渲染 / 真源</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Saga Clients</strong></td>
+<td>S/A/E 三邮箱全部往来 + PI 包 + Drive 客户名单 + 补录</td>
+<td>SA-/SB-/SC- + 三位连号（2026-10-25 重编，映射 <code>data/saga_clients/编号映射_2026-10-25.csv</code>）</td>
+<td><strong>A 169 / B 1,225 / C 3,253</strong>（entities 4,647）</td>
+<td><code>data/saga_clients/entities.json</code> + <code>research/&lt;code&gt;.json</code>（1,698 份）→ <code>build.py</code> → <code>render.py</code> → <code>Saga Clients/A|B|C/*.md</code></td>
+</tr>
+<tr>
+<td><strong>External Clients</strong></td>
+<td>Simon 三个旧仓库 <code>CCTV-PoE</code> / <code>Edgecore</code> / <code>mikrotik-info</code>（4,351 户导入；大陆公司删除；CCTV agent 永不再跑）</td>
+<td>XA-/XB-/XC- + 来源字母 C/E/M</td>
+<td>渲染 <strong>B 647 / C 3,704</strong>（长期群 B 601 + 46 副档）</td>
+<td><code>data/external_clients/{cctv,edgecore,mikrotik}.json</code> + <code>overrides.json</code> + <code>research/&lt;code&gt;.json</code>（1,096 卡）→ <code>scripts/external_clients/render.py</code> → <code>External Clients/&lt;repo&gt;/A|B|C/</code></td>
+</tr>
+<tr>
+<td><strong>Planet</strong></td>
+<td>本仓库 PLANET 渠道挖掘 W01–W22（2026-10-19/20）</td>
+<td>PA-/PB-/PC-</td>
+<td><strong>129</strong>（A 2 / B 109 / C 18）</td>
+<td><code>data/客户名单_Planet渠道_2026-10.csv</code>（26 列，唯一真源）+ <code>batch/*.json</code> → <code>scripts/render.py</code> → <code>profile/A|B|C/</code></td>
+</tr>
+</tbody>
+</table>
+<h3>12.2 长期客户群（三库并池，<code>docs/长期客户群_名册_2026-10-29.md</code>）</h3>
+<ul>
+<li><strong>唯一 2,045 = A 170 / B 1,875</strong>（Saga A 169 / B 1,225；External B 601；Planet A 1 / B 49）+ <strong>107 副档随主档</strong>（同一公司跨库重复：External 46、Planet 61；如 PA-003 = SA-034）。</li>
+<li>区域分布（A / B）：四主区 + 波兰 77 / 665；欧洲其他 8 / 498；俄语区 13 / 96；印度/南亚 21 / 99；东亚/东南亚/大洋洲 24 / 258；中东/非洲 21 / 157；拉美 4 / 49；其他 2 / 56。</li>
+<li>复核日志 <code>data/长期客户群_复核记录.csv</code> 1,219 条（留 B 1,039 / 打回 C 180）。</li>
+<li>C 储备：Saga 3,253 / External 3,704 / Planet 18；<strong>永久 pass 1,431</strong>（刚性三条）。</li>
+<li><strong>A 170 的完备度</strong>：136 户五项全齐（桌面卡 / 官网快照 / 快照后加厚 / 公司登记 / 具名 KP）；其余只缺官网快照 33（GitHub Actions 夜跑补）、PB-046 快照+加厚、SB-110 / SB-1103 邮箱域异常（留 B 备用路径）、PA-003 副档；38 A 部分坐实（付费墙，按规则停）。</li>
+<li>缺口表 <code>docs/长期客户群_深挖缺口_2026-10-29.md</code>：External 快照+加厚 647 / 登记 627 / KP 322 / 邮箱 17；Planet 快照 111 / 登记 110 / KP 60 / 邮箱 2；Saga 齐 952 / 快照 370 / 快照后加厚 185 / KP 116 / 邮箱 11 / 域异常 5。官网快照 ≈1,100 由 Actions <code>customer-watch</code> 两夜补齐，<code>lt_snapshot_thicken.py</code> 自动加厚。</li>
+<li>「跟进总台」<code>docs/跟进总台.md</code>；P 池总名册 <code>docs/P池_总名册.md</code>；周发送包（W44 待发）。</li>
+</ul>
+<h3>12.3 Gmail 资产</h3>
+<table>
+<thead>
+<tr>
+<th>箱</th>
+<th>入库</th>
+<th>规模 / 要点</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>S（Simon）</td>
+<td><code>data/gmail_s/messages/&lt;year&gt;/&lt;yyyy-mm&gt;.jsonl</code></td>
+<td>2023-11 → 2026-10；群发活动与公开价格点 <code>docs/reference/S邮箱_群发活动与公开价格点_2026-10-22.md</code>、报价史 <code>data/S邮箱_报价史_2026-10-22.csv</code></td>
+</tr>
+<tr>
+<td>A（Alan）</td>
+<td><code>data/gmail_a/</code>（含附件文本 <code>attachments/text/</code>）</td>
+<td>14,500 发 → 真实来信 208 → 实质线程 91；总览 <code>docs/gmail/A邮箱_总览_2026-10-24.md</code>、真实往来 <code>A邮箱_真实往来线程_2026-10-24.md</code></td>
+</tr>
+<tr>
+<td>E（Elsa）</td>
+<td><code>data/gmail_e/</code>；触达表 <code>data/gmail_已触达清单.csv</code>（271 行）</td>
+<td>3,675 封 / 3,288 会话；<code>Replied</code> 51 会话（南亚/东南亚/拉美为主，欧美极少）；退订：westwardsales.com（US）永久不触达；starcom.net.pk 要求公司域名发件</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>原则：Gmail 是次要源；客户事实进仓只写「日期 + 主题 + 对方域名 + 原话摘录」；首触前先查触达表；659 个「群发过但从未回信」域名不建档（Q-44）。</li>
+</ul>
+<p>来源：<code>docs/长期客户群_名册_2026-10-29.md</code>、<code>docs/长期客户群_深挖缺口_2026-10-29.md</code>、<code>docs/gmail/00-Gmail盘点与使用方案.md</code>、<code>External Clients/00-总索引.md</code>、<code>README.md</code>。</p>
+<hr />
+<h2>13. 成单客户 20 家（PI 包，2023-07 → 2026-10）</h2>
+<p>单据销售额合计 <strong>USD 109,988 + RMB 158,432</strong>（RMB = 走货代的 3 家）；Simon 成本统计利润合计 RMB 127,097。Simon 自己的标签（文件夹名）= 最硬的信号：<strong>活跃 6 / 可发展 7 / gg（已凉，= 难复购）8</strong>；收款渠道 Xtransfer 4、货代走账 3、PayPal 2；轻度绑定 5。单号前缀 = 经手账号（STSC = Simon / STAG = Alan / STEC = Elsa）。</p>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>客户（国家）</th>
+<th>编号</th>
+<th>Simon 标签</th>
+<th>单数 / 期间</th>
+<th>销售额</th>
+<th>型号 / 要点</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><strong>Angora Networks</strong>（TR）</td>
+<td>SA-077</td>
+<td>活跃 · Xtransfer · 轻度绑定</td>
+<td>10 / 2024-05 → 2025-06</td>
+<td>USD 61,669（一单 178 台 USD 47,174）</td>
+<td>STC-28DGGPM / 416DGGPM / 424XGGPM / 448XGGPM、自有品牌 <strong>Verge / ANW-2248-PX</strong>；大单运费 ≈$18/台压毛利到 15.9%；2024-11 Simon 把 Turkey Client List 64 家交给 Angora（Q-51）；PVC 面膜 / 彩盒 $2.5 / MAC 段等 OEM 先例多出自此户；英国公司 Connexite</td>
+</tr>
+<tr>
+<td>2</td>
+<td><strong>Biz-Ethics Ltd / BEL Networks</strong>（NG，Mbata）</td>
+<td>SA-079</td>
+<td>活跃 · 货代走账 · 轻度绑定</td>
+<td>12 / 2024-09 → 2026-08</td>
+<td>RMB 101,353</td>
+<td>BNSC- 贴牌系列（STC-28GPM / 4168XGGCM / 424DGDPM…）；SmartByte + HRUI + Hohunet 三家都采购过；<strong>只用 WhatsApp</strong>；客户自己的广州货代（末端 VALENTINE, Lagos）；「Mbata 就是 20 个点，不能再低了」；belnetworks.com 域已被第三方停放（2024-08 重注册）→ 邮件不可达</td>
+</tr>
+<tr>
+<td>3</td>
+<td><strong>NYNEX satellite OHG / fiberONE</strong>（DE，Frederik）</td>
+<td>SA-008</td>
+<td>活跃 · Xtransfer · 可发展</td>
+<td>5 / 2024-11 → 2026-10</td>
+<td>USD 19,634</td>
+<td>STC-4168XGGCM（2026-10-06 复购 20 台）、STC-424XGGM；<strong>绑定最深</strong>：向 LibreNMS 提交 OID、坚持 SmartByte OID、2025-03 合规部门追问 Saga↔SmartByte 关系、要求自有 PEN；GitHub <code>freddy36</code> 监控（宪法第九条）；PeeringDB AS200519；三币报价 USD 6.71 / EUR 7.6 / RMB 2,015；维护计划 <code>docs/成单客户_NYNEX_维护计划_2026-10-22.md</code>；T29-U15 安排：Saga 推 SmartByte、Peter 处理技术</td>
+</tr>
+<tr>
+<td>4</td>
+<td><strong>PBA Forever Technology</strong>（TH，Peeranun）</td>
+<td>SA-080</td>
+<td>活跃 · 货代走账 · 轻度绑定</td>
+<td>6 / 2024-10 → 2026-07</td>
+<td>RMB 37,489</td>
+<td>工业 16/24 口 PoE 为主（STC-05XGWE / 08XGWE / 108XGDGP / 114XGDGP…）；泰文 CCTV 安装商 pbacctv.com；LINE 沟通</td>
+</tr>
+<tr>
+<td>5</td>
+<td><strong>James Clendenan Systems</strong>（CA，James）</td>
+<td>SA-078</td>
+<td>活跃 · Xtransfer · 轻度绑定</td>
+<td>4 / 2024-06 → 2026-09</td>
+<td>USD 6,740</td>
+<td>贴牌 <strong>SW-3200-16GP</strong> = STI-21616DGGPM/XGGPM、STI-488XGGPM、STC-424XGGM；「DI/DO/RS485 + 10G + PoE BT = James 出货的 AC5 方案」；<strong>WeChat / LinkedIn 只对 James 用过</strong>；新品牌 Control Ready（controlready.ca）；2026-08 问 2.5G/mgig PoE + 双电源 + 机架（未答，SB-263 线）</td>
+</tr>
+<tr>
+<td>6</td>
+<td><strong>NETAŞ Telekomünikasyon A.Ş.</strong>（TR，Burak）</td>
+<td>SA-086</td>
+<td>活跃 · Xtransfer · 轻度绑定</td>
+<td>1 / 2025-12</td>
+<td>USD 545</td>
+<td>STI-488DGGPM-2BT 首单 + 保修证书「Three (3) years」；买样后不符项目需求但把 Saga 列入供应商 list；法务要 NDA / ECCN（EAR99 已填）、KVKK 个人数据附加协议已签；上市公司（2026-08 H1 订单 +96%）；接受 CENTEC；温度要求 -40~+71 ℃</td>
+</tr>
+<tr>
+<td>7</td>
+<td><strong>Vi-Link, Inc.</strong>（US，Thu）</td>
+<td>SA-006</td>
+<td>可发展</td>
+<td>4 / 2024-04 → 2026-09</td>
+<td>USD 1,147</td>
+<td>Fiber MC、STC-110FE / 110XGE / 14DUR / 4168XGGCM；新网店 vilink.us（80+ SKU 自有 IE/ME/EN 工业交换机线）；PayPal 税务敏感（「please kindly try bank… its about tax」）</td>
+</tr>
+<tr>
+<td>8</td>
+<td><strong>GOGREENIT</strong>（UK，Chris Clemson）</td>
+<td>SA-007</td>
+<td>可发展 · PayPal</td>
+<td>1 / 2025-08</td>
+<td>USD 588</td>
+<td>STI-42424XGGPM-4BT；写博客、报告 SSH 终端 bug（进入客户运维循环）；自建 Mastodon / PeerTube（每日活跃）</td>
+</tr>
+<tr>
+<td>9</td>
+<td><strong>BitBook LLC / БитБук</strong>（RU，Andrey Татарников）</td>
+<td>SA-016</td>
+<td>可发展 · 货代走账</td>
+<td>2 / 2023-11 → 2025-07</td>
+<td>USD 6,038</td>
+<td>STC-128GFP / 28GPM / 424GM / 4424GCPM、STI-288GPM；网店 bitbuk.ru 自有品牌 <strong>PRIORAT</strong> PoE 交换机，2026-07-06 博文公开承接 OEM/ODM 贴牌</td>
+</tr>
+<tr>
+<td>10</td>
+<td><strong>Sundar Techno Solutions</strong>（IN，Manoj）</td>
+<td>SA-032</td>
+<td>可发展</td>
+<td>4 / 2025-01 → 2026-02</td>
+<td>USD 875</td>
+<td>STI-0160GE；IBASE / Volktek / Panasonic 代理</td>
+</tr>
+<tr>
+<td>11</td>
+<td><strong>ASTEL DIGICOM Electronics LLC</strong>（AE，Sanjay）</td>
+<td>SA-001</td>
+<td>可发展</td>
+<td>1 / 2025-11</td>
+<td>USD 166</td>
+<td>HDR-15-24、STI-110GE / 140GE；2025-11 外发含 s. 邮箱 PayPal 与 152 手机号（已发生）→ 后续只用 a. 邮箱 + WhatsApp 跳转</td>
+</tr>
+<tr>
+<td>12</td>
+<td><strong>WIZARDSINC SDN BHD</strong>（MY，Raja Kumaran）</td>
+<td>SA-090</td>
+<td>可发展</td>
+<td>3 / 2026-08</td>
+<td>RMB 19,590</td>
+<td>NDR-240-48、STI-21616GP / 21616GPM / 288GP / 288GPM、STI-G2-MD / G20-SD 光模块</td>
+</tr>
+<tr>
+<td>13</td>
+<td>DELTA CONSULTING LLC（GE，George）</td>
+<td>SB-375</td>
+<td>gg</td>
+<td>1 / 2023-07</td>
+<td>USD 100</td>
+<td>STC-028GFP / 128GFP；兼营 ISP（AS209786）</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Fastball（IN，Rishi）</td>
+<td>SB-1113</td>
+<td>gg</td>
+<td>1 / 2023-10</td>
+<td>USD 260</td>
+<td>IndiaMART 挂 <strong>FBC-204GP = STC-204GP</strong> 贴牌</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Obmac Systems（ZM，Pythias）</td>
+<td>SB-1120</td>
+<td>gg</td>
+<td>1 / 2024-01</td>
+<td>USD 9,350（265 台）</td>
+<td>STC-4248XGGCM、STI-244GP、光模块；利润 RMB 23,118；重心转光伏 EPC</td>
+</tr>
+<tr>
+<td>16</td>
+<td>UNITED CONTROL ENGINEERS INDIA（IN，Rajesh）</td>
+<td>SB-006</td>
+<td>gg</td>
+<td>1 / 2024-04</td>
+<td>USD 120</td>
+<td>FedEx KYC 先例（GSTIN 09AACCU4195M1ZP）；Phoenix Contact 等授权分销</td>
+</tr>
+<tr>
+<td>17</td>
+<td>«Rio-Import» LLC（RU，Igor）</td>
+<td>SB-003</td>
+<td>gg</td>
+<td>1 / 2024-05</td>
+<td>USD 1,140</td>
+<td>STI-050GE / 080GE；推 Phoenix Contact 工业 PoE</td>
+</tr>
+<tr>
+<td>18</td>
+<td>XSPec Hospitech / XSPec Technology（MY，Sugito）</td>
+<td>SB-002</td>
+<td>gg</td>
+<td>2 / 2024-06 → 07</td>
+<td>USD 1,146</td>
+<td>商用交换机；2026 新目录站 54 品牌；MINDTCE 2026-11 参展</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Resonant Networks Pte Ltd（SG，Au）</td>
+<td>SB-001</td>
+<td>gg</td>
+<td>1 / 2024-09</td>
+<td>USD 185</td>
+<td>2026-08 新开 GitHub 组织 Resonant-Networks（DC 自动化「source of truth」仓库）→ 监控中；2024-10 Alan 曾说「we are a factory manufacturer… do trading/reselling」</td>
+</tr>
+<tr>
+<td>20</td>
+<td>52 Networks Inc.（US，John）</td>
+<td>SB-020</td>
+<td>gg · PayPal</td>
+<td>1 / 2025-07</td>
+<td>USD 285</td>
+<td>NDR-240-48、STI-288GP；GSA MAS 要 TAA → 样机收后沉默；2025 仍出政府单</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>定级规则：Simon 标活跃 / 可发展 → A；gg → B（成交过·慢慢跟进），<code>人工定级.csv</code> 仍优先；档案有「成交记录（PI 包 · 自动汇总）」节。</li>
+<li>活跃平台与监控：每户的官网 / RSS / GitHub / LinkedIn / 行业名录都已登记到 <code>scripts/web_watch/targets.json</code>，GitHub Actions <code>customer-watch</code> 每夜 02:23Z 巡检；详情 <code>docs/成单客户_活跃平台与监控_2026-10-23.md</code>。</li>
+<li>内部毛利复盘：<code>docs/成单客户_毛利复盘_内部_2026-10-24.md</code>（<strong>不外发</strong>）。</li>
+<li>没进成单表但重要的往来户：Larch（SB-359，8,000 台询盘，$250 目标价 + 无软件 + 国内冲突 → 主动停）、ITM Components（SB-767，英国，400G 6 台 + 36 模块报价，想做英国基地）、Versitron（SB-826，堆叠问答史）、Milliseconds Evolution（SB-1115，UK MikroTik 顾问，2026-10 两台样机 PI STSC-20261017-001）、Fikes Media（SB-1114，OEM 菜单 / API 问答）、UNEAX（SB-164，日本 PSE/VCCI、借样例外）、Kron / Karel / Turkcell（TR 重点）、Supermicro（SC-262，板级询盘，巨头规则冲突 Q-55）。</li>
+</ul>
+<p>来源：<code>docs/成单客户_PI复盘_2026-10.md</code>、<code>docs/成单客户_活跃平台与监控_2026-10-23.md</code>、<code>docs/成单客户_毛利复盘_内部_2026-10-24.md</code>、<code>docs/reference/Saga商务条款速查.md</code> §10/§11、<code>docs/对外口径一致性_2026-10-24.md</code>。</p>
+<hr />
+<h2>14. 跟进节奏与渠道</h2>
+<ul>
+<li><strong>群发 = 引流到资料，不是销售</strong>：任务是让 1% 的人点开 Drive 链接并自我筛选；主题按月换产品（Industrial PoE Switch / Mini Industrial PoE Switch / 8 Port Industrial PoE Switch / 16 Port Ethernet Switch / 90W PoE Managed Switch / Marvell Alleycat5 Solution / 24 Port Fiber Switch / 48 Port PoE Managed Switch / Managed Optical Bypass Switch / 10G Enterprise SFP Switch / Booster PoE Switch / OEM Core Switching Solution…），附件永远是 Product Link PDF 不是价格；「回复过群发」本身几乎不含信息，看回复内容类型。<strong>减少群发是战略取舍</strong>（U28），不是能力问题。</li>
+<li><strong>慢是武器</strong>：对停滞客户不催、不让价（Netaş 停滞 4 个月后再发一次特性表；ITM 400G 报价后不催）；每户要有<strong>节奏记录</strong>（最后触达 / 次数 / 下一次触发条件），复活条件写成外部事件。</li>
+<li><strong>渠道规则</strong>：邮件英文为主；WhatsApp 跳转（不显示号码；WhatsApp 客户档案不写代号）；WeChat / LinkedIn 只对 James；LinkedIn 公司页「必须」（Simon 2026-08），YouTube / Facebook 暂时 pass，X 一般；平台店铺 FindLight 10 / EC21 15 / Made-in-China 20 / Global Sources 100（免费上限已用满，Global Sources 已不投广告）；不用联系表单（"direct email gets a faster, more useful reply"）。</li>
+<li><strong>监控（每 2 个月一轮，覆盖面要广）</strong>：官网 / RSS / GitHub / LinkedIn / Facebook / 展会 / 政府采购 / 域名 RDAP；自动部分 = <code>scripts/web_watch/</code>（<code>targets.json</code> 2,987 源 / 1,405 客户，<code>checklist.py</code>），GitHub 部分 = <code>scripts/github_watch/</code>；人工看 LinkedIn。</li>
+<li><strong>周发送包与跟进总台</strong>：<code>docs/跟进总台.md</code> 汇总每周发送包（W44 待发）；<code>board.py</code> 会重排发送包——不要重复跑。</li>
+<li><strong>Elsa 首触尚未决定</strong>（T13–T16：Elsa first-touch not decided → send nothing）；Planet 仓首触与 Elsa 群发不混发。</li>
+<li><strong>退信 / 婉拒</strong>：退信不删邮箱，标「发不过去」并给替代通道；明确「take us off」→ 永久不触达（westwardsales.com）；Q-33 reseller 只巡检。</li>
+</ul>
+<p>来源：<code>docs/Saga内在逻辑与概念_2026-10-24.md</code> C8/C12、<code>docs/gmail/00-Gmail盘点与使用方案.md</code>、<code>docs/Saga理念摘读_2026-10-23.md</code> A23/A25、<code>docs/成单客户_活跃平台与监控_2026-10-23.md</code> §2/§4、<code>docs/跟进总台.md</code>。</p>
+<hr />
+<h2>15. 概念词典与内部术语表</h2>
+<h3>15.1 Saga 的 13 个核心概念（C1–C13，概念层）</h3>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>概念</th>
+<th>一句话定义</th>
+<th>在数据里长什么样</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>C1</td>
+<td>两层三供应商（Saga = 接口层）</td>
+<td>Saga 不是产品公司，是接口层：三家供应商在下、客户在上，Saga 提供统一命名 / 资料 / 条款 / 对接人</td>
+<td>PI「Manufacturer: Zhengzhou Saga Telecom」+「Marvell Chip」；STC/STI/STH 覆盖三家来源</td>
+</tr>
+<tr>
+<td>C2</td>
+<td>三道筛子</td>
+<td>口号「Marvell 管理型」→ Drive 自助资料 → Template 条款；过滤优先于转化</td>
+<td>群发附件永远是 Product Link PDF；客户能引用型号/价表 = 过第 2 道；付样 / PI / 标签 = 第 3 道</td>
+</tr>
+<tr>
+<td>C3</td>
+<td>顺手单 vs 拼命单</td>
+<td>只做边际努力小、复购可能大的单；不为一次性大单改变运营方式</td>
+<td>Larch 8,000 台被主动停止；需要新认证 / 新物流 / 新付款 / 新固件的客户权重下调</td>
+</tr>
+<tr>
+<td>C4</td>
+<td>技术流绑定</td>
+<td>让型号、CLI/MIB、固件行为、规格书进入客户系统；放弃 API/SDK 伪绑定</td>
+<td>NYNEX LibreNMS OID；Go Green IT 博客 + bug 报告；Netaş 样机留在终端客户</td>
+</tr>
+<tr>
+<td>C5</td>
+<td>中性与隐身</td>
+<td>设备中性无中文；SmartByte 隐身在 Saga 后、Saga 隐身在客户品牌后</td>
+<td>Angora Verge、Fastball FBC-204GP、Mbata BNSC-、James SW-3200</td>
+</tr>
+<tr>
+<td>C6</td>
+<td>价格被动 → 利润底线制</td>
+<td>不定价不谈价，只守底线（20/25/30 与 20/25/35 两套）+ 30% 封顶</td>
+<td>价格异议不让步；「target price」无技术问题 = 价格流 → 降级</td>
+</tr>
+<tr>
+<td>C7</td>
+<td>国家 = 运行方式</td>
+<td>能不能做看收款 / 物流 / 合规通路是否已有，不看需求大小</td>
+<td>TR TRY+WA；RU 货代；NG 客户货代；US/EU PayPal/T/T+DAP；JP PSE</td>
+</tr>
+<tr>
+<td>C8</td>
+<td>群发 = 引流到资料</td>
+<td>让 1% 点开 Drive 自我筛选，不是促成回复</td>
+<td>14,500 → 1,011 → 208 → 91 → ≈10 → 4</td>
+</tr>
+<tr>
+<td>C9</td>
+<td>三个名字 = 一个流程</td>
+<td>Elsa 首触 → Alan 报价/PI → Simon 早期关系/收款</td>
+<td>STEC / STAG / STSC；「My friend Simon sent you some info… I will take over」</td>
+</tr>
+<tr>
+<td>C10</td>
+<td>边界即资本</td>
+<td>Not-to-Do 清单是让一个人持续可运营的方法</td>
+<td>命中清单 → 「停点：边界」，不绕路</td>
+</tr>
+<tr>
+<td>C11</td>
+<td>供应商关系优先于客户机会</td>
+<td>冲突时 Saga 让路；CENTEC 敲门砖但 Peter 产品优先</td>
+<td>Larch 让路；可能与 SmartByte 国内客户重叠 → 「待 Simon 判断冲突」</td>
+</tr>
+<tr>
+<td>C12</td>
+<td>慢是武器</td>
+<td>固定成本极低，可以等客户替换周期；每次触达增加熟悉度不增加成本</td>
+<td>群发连续两年；Netaş 4 个月后再发特性表；每户节奏记录</td>
+</tr>
+<tr>
+<td>C13</td>
+<td>信息资产化</td>
+<td>资料一次做好、季度更新、所有客户共用；既是筛子也是绑定工具</td>
+<td>Resource Library（Roadmap.pdf、STOS V2.4、7.5.x 特性表）；加厚产出是结构化字段</td>
+</tr>
+</tbody>
+</table>
+<p>因果链：约束（一人 / 无库存 / 不能打价 / 认证有限 / 不做国内 / 供应商优先）→ C10 → C3；→ C2（C8 把人引到筛子，C13 做筛子）→ 少客户 → C4 绑定；→ C6 → C12 → 十年现金流；→ C7；→ C5 → OEM 品牌商最优先；→ C1 → C11；→ C9。</p>
+<h3>15.2 内部术语表（仓库 / 对话里反复出现的黑话）</h3>
+<table>
+<thead>
+<tr>
+<th>术语</th>
+<th>含义</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>P 池 / 资产池 / 长期客户群</strong></td>
+<td>三库并池后的长期跟进群（A + B），U115–U117 起的主线「把客户挖干净 → 长期客户资产池」</td>
+</tr>
+<tr>
+<td><strong>精华跟 / 普通跟</strong></td>
+<td>A = 精华跟（季度个人信 + 两月巡检 + 回信 48 h）；B = 普通跟（群发 + 点名）</td>
+</tr>
+<tr>
+<td><strong>C 储备</strong></td>
+<td>C ≠ 垃圾；不发、两月巡检、来信即回 B；只有永久 pass 才是 bye</td>
+</tr>
+<tr>
+<td><strong>永久 pass</strong></td>
+<td>Gate 0 刚性三条（无邮箱且无 WA / 弹回且无备用 / 明确婉拒），「一旦入选 永不考虑」</td>
+</tr>
+<tr>
+<td><strong>三闸（Gate 0/1/2）</strong></td>
+<td>C 池筛选：闸 0 机筛永久 pass；闸 1 人工批量复核；闸 2 Planet/External 补证；报告在 <code>docs/requirements/C池闸*</code></td>
+</tr>
+<tr>
+<td><strong>坐实 / 部分坐实 / 登记底数</strong></td>
+<td>在官方登记源核到法人主体；付费墙只到部分坐实；「1 查未得即停」</td>
+</tr>
+<tr>
+<td><strong>桌面卡 / 研究档 / 加厚 / 快照后加厚</strong></td>
+<td>桌面卡 = 一页公司事实卡（External <code>research/&lt;code&gt;.json</code>）；研究档 = Saga <code>research/&lt;code&gt;.json</code>；加厚 = 补证据字段；快照后加厚 = 用官网快照 <code>site_snapshots/&lt;code&gt;.json</code> 再补 <code>site_contacts</code> / <code>snap_thicken</code></td>
+</tr>
+<tr>
+<td><strong>五项全齐</strong></td>
+<td>桌面卡 / 官网快照 / 快照后加厚 / 公司登记 / 具名 KP 都有</td>
+</tr>
+<tr>
+<td><strong>副档 / 主档（dup_of）</strong></td>
+<td>跨库同一公司：副档随主档，不单独计数（名册 2,045 唯一）</td>
+</tr>
+<tr>
+<td><strong>对位 / 非对位 / dayjob_fit</strong></td>
+<td>对位 = 行业与品类与 Saga 交换机对得上；非对位但 Simon 本职可用的（光端机 / DWDM / 光模块）= dayjob_fit，不永久 pass</td>
+</tr>
+<tr>
+<td><strong>守界</strong></td>
+<td>乌克兰 / 伊朗 / 叙利亚、军工、公共采购、生命安全、轨交——留 C 不发</td>
+</tr>
+<tr>
+<td><strong>巨头</strong></td>
+<td>大分销 / 大运营商 / 大厂（<code>build.py GIANT_DOMAINS</code> -45 分）→ C，但不是永久 pass（Supermicro 例外争议 Q-55）</td>
+</tr>
+<tr>
+<td><strong>gg</strong></td>
+<td>Simon 的标签「已凉」= 难复购；8 家成单 gg 永不 A</td>
+</tr>
+<tr>
+<td><strong>q33_hold</strong></td>
+<td>Q-33 reseller / 洪瑞经销体系客户：不碰、标记、只巡检</td>
+</tr>
+<tr>
+<td><strong>人工定级 / grade_override / overrides.json</strong></td>
+<td>三库各自的人工覆盖机制（Planet CSV <code>人工定级</code> 列 / Saga 研究档 <code>grade_override</code> / External <code>overrides.json</code>）；PI 活跃·可发展强制 A</td>
+</tr>
+<tr>
+<td><strong>四主区</strong></td>
+<td>土耳其 / 美国 / 英国 / 德国（+ 波兰次重点）</td>
+</tr>
+<tr>
+<td><strong>门面机型</strong></td>
+<td>品牌站 / 产品站 / 群发主推的 9+3 款（§5.2）</td>
+</tr>
+<tr>
+<td><strong>两层答法</strong></td>
+<td>客户问「有没有 X」：先 Marvell AC5 线，再 CENTEC 线</td>
+</tr>
+<tr>
+<td><strong>口径表 #n</strong></td>
+<td><code>docs/对外口径一致性_2026-10-24.md</code> 第 n 行的统一口径</td>
+</tr>
+<tr>
+<td><strong>INH-xx / PR-xx-yy / Q-xx / T29-Uxx / 第 n 批</strong></td>
+<td>继承规则 / 用户要求总账编号 / 待裁定问题 / 对话轮次 / 变更日志批次</td>
+</tr>
+<tr>
+<td><strong>发送包 / 跟进总台 / 名册 / 缺口表</strong></td>
+<td>周发送包（W44）/ <code>docs/跟进总台.md</code> / <code>docs/长期客户群_名册_*.md</code> / <code>docs/长期客户群_深挖缺口_*.md</code></td>
+</tr>
+<tr>
+<td><strong>打回候选（快照）</strong></td>
+<td>两个不同夜晚官网抓取都失败才成为打回候选；单夜失败只记录；<strong>永不自动打回</strong></td>
+</tr>
+<tr>
+<td><strong>MS / MC / TS / TC</strong></td>
+<td>《计划》状态码：Manufacture Stock / Manufacture Customize / Trade Stock / Trade Customize</td>
+</tr>
+<tr>
+<td><strong>STSC / STAG / STEC</strong></td>
+<td>PI 单号前缀 = 经手账号 Simon / Alan / Elsa</td>
+</tr>
+<tr>
+<td><strong>Must-Read / A Word / Order Procedure / TTC / CCF</strong></td>
+<td>Drive Template 条款文件；TTC = Saga 对外服务条款名（OEM/ODM/SKD/CKD）；CCF = Commercial Contract Framework</td>
+</tr>
+</tbody>
+</table>
+<p>来源：<code>docs/Saga内在逻辑与概念_2026-10-24.md</code> §2/§3、<code>docs/长期客户群_方案与复核_2026-10-29.md</code>、<code>docs/requirements/待统一处理问题清单.md</code>、本会话记忆。</p>
+<hr />
+<h2>16. 仓库地图（elsasaga-cloud/Planet，分支 arena/3f35b9b3-planet）</h2>
+<h3>16.1 目录</h3>
+<table>
+<thead>
+<tr>
+<th>路径</th>
+<th>内容</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>AGENT-CONSTITUTION.md</code> / <code>AGENT-README.md</code> / <code>README.md</code></td>
+<td>宪法（开工先读 / 对话全记录 / 零臆造 / 不可手改 / README 自检 / GitHub 监控…）；操作记录；每轮进度表（第 167 轮）</td>
+</tr>
+<tr>
+<td><code>docs/requirements/</code></td>
+<td><strong>对话全记录.md</strong>（每轮原文 + 时间戳，只增不删）、<strong>用户要求总账.md</strong>（PR-xx + INH-01…17）、<strong>待统一处理问题清单.md</strong>（Q-01…Q-77）、<strong>变更日志.md</strong>（995 行提交记录）、AB加厚审计、C池三闸报告</td>
+</tr>
+<tr>
+<td><code>docs/reference/</code></td>
+<td>Saga 画像 / 品牌口径 / 商务条款 / 官网全文 / 价格表三档 (SmartByte·HRUI·CENTEC·Realtek 工业·2.5G-10G·2023 首版) / 群发价台账 / 群发剔除名单 / 证书登记表 / 实际进价与毛利 / PLANET 对照 / 继承规则摘要</td>
+</tr>
+<tr>
+<td><code>docs/rules/</code></td>
+<td>客户分级与去重规则、客户档案结构与内容规则、报价与型号规则</td>
+</tr>
+<tr>
+<td><code>docs/methodology/</code></td>
+<td>Planet 客户挖掘方法论、死路与死链备案</td>
+</tr>
+<tr>
+<td><code>docs/smartbyte/</code>、<code>docs/suppliers/{HRUI,Hohunet}</code>、<code>docs/drive/{MUST-KNOW,Certification,Resource-Library}</code></td>
+<td>供应商与 Drive 入库资料</td>
+</tr>
+<tr>
+<td><code>docs/gmail/</code></td>
+<td>三邮箱盘点、A 邮箱总览与真实往来、S 邮箱核对、Elsa 来询未回</td>
+</tr>
+<tr>
+<td><code>docs/</code> 根</td>
+<td>Saga 理念摘读 / 内在逻辑与概念 / 对外口径一致性 / 方法论全集 / 两家公司逻辑 HTML / 理解与方向 V0·V1 HTML / 成单客户三件 / 客户功能需求台账 / 各国发信窗口 / 假日避让 / AB 判定讨论稿 / 长期客户群方案·名册·缺口 / 公司底数作业规程 / P 池总名册 / 跟进总台 / <strong>本文</strong></td>
+</tr>
+<tr>
+<td><code>Saga Clients/A|B|C/</code> · <code>External Clients/&lt;repo&gt;/A|B|C/</code> · <code>profile/A|B|C/</code></td>
+<td>三库渲染档案（<strong>只读，脚本生成</strong>）</td>
+</tr>
+<tr>
+<td><code>data/saga_clients/</code></td>
+<td><code>entities.json</code>、<code>客户主表.csv</code>、<code>research/</code>、<code>registry/</code>、<code>site_snapshots/</code>、<code>site_digest.json</code>、<code>sieve.json</code>、<code>编号映射</code>、<code>人工定级.csv</code></td>
+</tr>
+<tr>
+<td><code>data/external_clients/</code></td>
+<td><code>{cctv,edgecore,mikrotik}.json</code>、<code>overrides.json</code>、<code>research/</code></td>
+</tr>
+<tr>
+<td><code>data/客户名单_Planet渠道_2026-10.csv</code> + <code>batch/*.json</code></td>
+<td>Planet 库真源</td>
+</tr>
+<tr>
+<td><code>data/价格主表.csv</code> / <code>价格主表_HRUI.csv</code> / <code>hohunet_STH对照表.csv</code> / <code>hrui_STC对照表.csv</code></td>
+<td>价格与型号真源</td>
+</tr>
+<tr>
+<td><code>data/gmail_{s,a,e}/</code>、<code>data/pi_2026-10/</code>、<code>data/pi_orders/</code>、<code>data/drive_r3/</code>、<code>data/smartbyte_*</code>、<code>data/hrui_*</code>、<code>data/hohunet_*</code>、<code>data/sagatele_site/</code>、<code>data/wechat_smartbyte_ocr/</code></td>
+<td>原始入库资料（邮件 / PI 包 / Drive / 官网抓取 / 微信 OCR）</td>
+</tr>
+<tr>
+<td><code>data/长期客户群_*.csv</code>、<code>data/customer_watch/</code>、<code>data/github_watch/</code></td>
+<td>长期群复核记录、监控产物</td>
+</tr>
+<tr>
+<td>仓库根目录 xls/pdf/docx</td>
+<td>SmartByte / HRUI 原始价表、Saga 价表 PDF、特性表 7.5.x、CLI/Web 手册、《Saga公司背景信息.docx》</td>
+</tr>
+</tbody>
+</table>
+<h3>16.2 脚本与链路</h3>
+<table>
+<thead>
+<tr>
+<th>链</th>
+<th>命令</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Saga 库</td>
+<td><code>cd scripts/saga_clients &amp;&amp; python3 renumber.py --snapshot-md &amp;&amp; python3 build.py &amp;&amp; python3 render.py</code> → <code>renumber.py --restore-dates</code> → <code>audit_full.py</code>（hard 0 / soft 370 基线）+ <code>audit.py</code></td>
+</tr>
+<tr>
+<td>External 库</td>
+<td><code>python3 scripts/external_clients/render.py</code></td>
+</tr>
+<tr>
+<td>Planet 库</td>
+<td><code>cd scripts &amp;&amp; python3 render.py</code>（129）；<code>python3 scripts/audit.py</code> → errors: 0</td>
+</tr>
+<tr>
+<td>长期群</td>
+<td><code>python3 scripts/lt_roster.py</code>（名册 2,045）、<code>python3 scripts/lt_gap_audit.py [--no-dns]</code>（缺口）、<code>python3 scripts/lt_snapshot_list.py</code>（补快照清单）、<code>python3 scripts/saga_clients/lt_snapshot_thicken.py [--dry]</code>（快照消费 → 加厚 + 打回候选）、<code>p_roster.py</code>、<code>web_watch/checklist.py</code></td>
+</tr>
+<tr>
+<td>价格</td>
+<td><code>scripts/pricing.py</code>（主表三档）、<code>scripts/pricing_hrui.py</code></td>
+</tr>
+<tr>
+<td>入库</td>
+<td><code>scripts/gmail_ingest/</code>、<code>scripts/drive_ingest/</code>、<code>scripts/pi_orders/parse_pi.py</code>、<code>scripts/smartbyte_crawl/</code>、<code>scripts/suppliers_crawl/</code>、<code>scripts/wechat_ocr.py</code></td>
+</tr>
+<tr>
+<td>监控</td>
+<td><code>scripts/web_watch/watch.py</code>（<code>--layer all|a|b|…</code> 大小写不敏感；<code>snapshot_missing()</code> / <code>snapshot_thicken()</code> / <code>git_commit()</code> 带 pull --rebase；<code>--selftest</code>）、<code>scripts/github_watch/watch.py</code></td>
+</tr>
+<tr>
+<td>台账</td>
+<td><code>python3 scripts/changelog.py</code>（变更日志批次号，~130 s）；README / 总账 / Q 清单手工追加（幂等检查）</td>
+</tr>
+<tr>
+<td>本文</td>
+<td><code>python3 scripts/saga_intro/build.py</code> → <code>docs/Saga全景信息包_&lt;日期&gt;.md/.html</code></td>
+</tr>
+</tbody>
+</table>
+<h3>16.3 GitHub Actions（<code>.github/workflows/</code>，沙箱不能推工作流文件、<code>gh</code> 403）</h3>
+<table>
+<thead>
+<tr>
+<th>工作流</th>
+<th>触发</th>
+<th>作用</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>customer-watch.yml</code></td>
+<td>cron 02:23Z 每夜 + 手动 <code>workflow_dispatch</code>（输入 <code>layer</code>）</td>
+<td>监控源巡检 + 缺失官网快照补抓 + 快照加厚，bot 自动 commit/push 到本分支（timeout 90 min）</td>
+</tr>
+<tr>
+<td><code>saga-clients-snapshot.yml</code></td>
+<td>手动 / 定时</td>
+<td>Saga 客户官网快照</td>
+</tr>
+<tr>
+<td><code>drive-smartbyte-ingest.yml</code></td>
+<td>手动</td>
+<td>Drive 入库</td>
+</tr>
+<tr>
+<td><code>smartbyte-crawl.yml</code></td>
+<td>手动</td>
+<td>SmartByte 官网全量抓取</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>Actions bot 随时可能推送到本分支 → 任何 push 前 <code>git fetch &amp;&amp; git pull --rebase</code>；Actions 改过的研究档 / Planet CSV 不要覆盖，rebase 后重跑渲染链。</li>
+<li>沙箱：2 CPU / 3 GB；外网只有 github / pypi / npm；<code>curl</code> 被封用 <code>fetch_page</code>；客户网站不可达（靠 Actions）；pip 安装会随重置消失；<strong>沙箱频繁重置 → 尽早 commit</strong>。</li>
+</ul>
+<h3>16.4 Git 配方</h3>
+<pre><code>git -c user.name=elsasaga-cloud -c user.email=elsasaga-cloud@users.noreply.github.com commit -m &quot;...&quot;
+git fetch -q origin arena/3f35b9b3-planet &amp;&amp; git pull -q --rebase origin arena/3f35b9b3-planet
+git push -q origin arena/3f35b9b3-planet &amp;&amp; git ls-remote origin arena/3f35b9b3-planet
+</code></pre>
+<p><code>main</code> 是 orphan，<strong>永远不要 rebase/merge main</strong>；破坏性 git 操作需 Simon 许可；commit 信息里转义 <code>$</code>；中文 / 空格路径用 python 处理。</p>
+<p>来源：<code>AGENT-CONSTITUTION.md</code>、<code>AGENT-README.md</code>、<code>README.md</code>、<code>scripts/*/操作步骤.md</code>。</p>
+<hr />
+<h2>17. 规则总表（写任何东西前过一遍）</h2>
+<h3>17.1 继承硬规则 INH-01…17</h3>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>规则</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>INH-01</td>
+<td>Saga = 小型贸易商（SOHO），预算小、不投广告；长期跟进为主</td>
+</tr>
+<tr>
+<td>INH-02</td>
+<td>目标：Marvell 方案接入层交换机；地区欧洲 + 美国/加拿大 + 土耳其；A 类优先，数量不是目标</td>
+</tr>
+<tr>
+<td>INH-03</td>
+<td>台厂不是客户（PLANET 本身及其办事处）；只挖其欧美分销商 / 集成商 / 方案商</td>
+</tr>
+<tr>
+<td>INH-04</td>
+<td>中性包装 / 贴客户型号；不出现 Made in China</td>
+</tr>
+<tr>
+<td>INH-05</td>
+<td>ABC 定级：A = 真实可追溯需求 + 可直达的人；B = 有邮箱可群发；C = 无邮箱 / 过大 / 区域外 / 不对口；<code>人工定级</code> 优先</td>
+</tr>
+<tr>
+<td>INH-06</td>
+<td>编号冻结、只追加；不重排、不回填、不复用（Saga 库 2026-10-25 一次性重编为例外，映射表留存）</td>
+</tr>
+<tr>
+<td>INH-07</td>
+<td>集成商 / 顾问优先于分销商；巨头分销直接 C</td>
+</tr>
+<tr>
+<td>INH-08</td>
+<td>邮箱只记真实公开找到的；不猜不拼；优先具名 KP，通用邮箱兜底</td>
+</tr>
+<tr>
+<td>INH-09</td>
+<td>每个事实带证据（原文 + URL + 日期），否则「待补证」；事实 / 推断 / 假设分层</td>
+</tr>
+<tr>
+<td>INH-10</td>
+<td>同国 + 法律后缀去重；每个跳过的名字说明原因</td>
+</tr>
+<tr>
+<td>INH-11</td>
+<td>小国不主动挖；乌克兰 / 军工 / 公共采购 / 生命安全标「守界」只做民用商用</td>
+</tr>
+<tr>
+<td>INH-12</td>
+<td>价格格式 <code>$xx USD EXW（快照日期，15 天有效，报价前核价）</code></td>
+</tr>
+<tr>
+<td>INH-13</td>
+<td>首触：单一 P1、只问一个问题、不写 "I researched your website"、不提产地；客户英文、笔记中文</td>
+</tr>
+<tr>
+<td>INH-14</td>
+<td>跟进在仓库外进行；仓库只记用户报告的回复 / 退信；退信不删邮箱</td>
+</tr>
+<tr>
+<td>INH-15</td>
+<td>不手改档案；批次 JSON + 脚本渲染；每轮更新 README 并 grep 自检</td>
+</tr>
+<tr>
+<td>INH-16</td>
+<td>破坏性 git 需许可；时间戳未知如实写明，不编造</td>
+</tr>
+<tr>
+<td>INH-17</td>
+<td>Saga 不做云管理 / 轨交 / IP67 / 消费级；无 UL / E-mark / KC——命中即降级或 PASS</td>
+</tr>
+</tbody>
+</table>
+<h3>17.2 Simon 的常设指令（节选，按时间）</h3>
+<ul>
+<li>每轮对话原文 + 时间戳进 <code>对话全记录.md</code>；提炼进总账；决策进 Q 清单按默认执行，不一轮一问（T07）。</li>
+<li>档案与邮件用 Saga 型号；SmartByte 兜底注明；报价 20/25/30；Versa / Planet USA = C。</li>
+<li>区域：US/CA + 全欧洲 + 土耳其；四主区 + 波兰；V0「TR/中东/东南亚/非洲主战场」是错的；Planet 挖掘暂停不是搁置。</li>
+<li>Drive 为主、SmartByte 官网为真源；Drive 内容全部入库后 Drive 已删除；Elsa 首触未定 → 不发；Actions 跑着也不闲着。</li>
+<li>客户去重完成；渲染只从 JSON；A 长期跟 / B 慢慢跟 / C 储备（U115 修正「C 垃圾」）；T27 待核留着。</li>
+<li>S/A Gmail 连不上连接器——不要再建议。</li>
+<li>「啥都入库 不要漏掉」；加厚不套公式、证据为本；<strong>永不覆盖/删除 V0，V1 新文件</strong>；不唠叨；每次复核带时间戳 + commit。</li>
+<li>NYNEX 安排（Saga 推 SmartByte、Peter 技术）；CENTEC 跟进 / 备货 / 固件是 Simon 的事；不说 Saga 是欧洲总代；监控 <code>freddy36</code>。</li>
+<li>成单客户每个活跃平台都挖都监控；HTML 先、MD 定向加厚后。</li>
+<li>物流两条线；三账号一人；gg = 难复购；绑定深度证据可升但注明 Simon 原级；减少群发是战略取舍；CENTEC 敲门砖；WeChat/LinkedIn 只 James；WhatsApp 客户不写代号；群发低价是旧汇率；加厚顺序 A → B 欧美土 → 其他。</li>
+<li><strong>永远不要让 Simon 去问 Peter/HRUI 要价格</strong>；grep 证据再说「缺」；「省你的时间 + 有没有长期复利」。</li>
+<li>回答大白话：搞定 / 没搞定 + 你要做啥 / 不用做啥；批量大、任务长（40–60 分钟一轮）。</li>
+<li>External Clients：按仓库分目录；CCTV agent 永不再跑；按 Saga 实际情况重评；旧仓私有不删；每轮文字报告。</li>
+<li>C 池：先设计再做、不着急；A 90 太少以后再议；闸 0 刚性；乌克兰 / 巨头 / 不对位 / 研究后定 C 不是永久 pass；External 4,351 同池、Planet 也要搞；两月一次监控覆盖面广。</li>
+<li>《计划》/《背景信息》红线：对外无 152 手机 / s. 邮箱；国内单只私账；芯片线底线；网站永不中文；无电话只 WhatsApp 跳转；slogan 不变；去掉 OEM Factory；不自称贸易商；CENTEC = 核心线之一；LinkedIn 必须；30% 封顶；目标顺序 OEM 品牌商 &gt; 有进口经验 &gt; 分销 &gt; 小集成；轨交主营 PASS；无 UL/E-mark/KC。</li>
+</ul>
+<h3>17.3 Agent 作业守则与踩过的坑</h3>
+<ul>
+<li>价格 / 型号：有效型号集合之外不写；2.5G 等待 SB-263 裁定；RMB 报价待 Simon；Realtek 线按 2026-09-30 新进价；非管理工业线旧成本不可靠。</li>
+<li>邮箱：<code>emails_live</code> 镜像 <code>emails</code>；Simon 备注不是 pass 依据；公开页邮箱只进 facts / <code>site_contacts</code> / <code>kp[].email</code>，<strong>绝不自动写入实体邮箱</strong>；绝不发明邮箱。</li>
+<li>分级：按 entities grade 选，不按前缀（SC- 可以是 B）；跨库计数以名册 <code>dup_of</code> 为准；grade 只经 <code>grade_override</code> / <code>overrides.json</code> / <code>人工定级</code> 改。</li>
+<li>域名：External <code>domain_prev</code>；Planet <code>网站</code> 可能带子路径（<code>host_of</code>/<code>reg_domain</code>）；DNS <code>nxdomain/dead</code> 复查两次；域名修正后重生成补快照清单。</li>
+<li>快照：本地测试用 <code>--snap-dir /tmp/...</code>；失败记录含域名；单夜失败不打回；消费端已去膨胀。</li>
+<li>台账：幂等存在性检查；README 可能无尾换行；PR 行 5 格、Q 行 8 格；CSV <code>utf-8-sig</code>；对话全记录只追加、真实 <code>date -u</code>。</li>
+<li>脚本：<code>ast.parse</code> 后跑两遍；f-string 内无反斜杠；heredoc 里 f-string 不能有字面 <code>{}</code>；<code>scripts/saga_clients/calendar.py</code> 会遮蔽标准库 → 用 <code>importlib</code> 按路径加载；MX 缓存格式 <code>[[pref, host], …]</code>。</li>
+<li>渲染：<code>renumber.py --snapshot-md</code> 前、<code>--restore-dates</code> 后；<code>board.py</code> 会重排发送包不要重跑；清理 <code>__pycache__</code>；HTML 交付物只用内联 CSS（预览沙箱无网）。</li>
+<li>调研：注册库「1 查未得即停」；A 季度复核；死路见 <code>docs/methodology/死路与死链备案.md</code>；不重爬 Mikrotik；不再搜已做过的 registry（从文件重推导）。</li>
+</ul>
+<p>来源：<code>docs/requirements/用户要求总账.md</code>、<code>docs/requirements/对话全记录.md</code>、<code>AGENT-CONSTITUTION.md</code>、本会话记忆。</p>
+<hr />
+<h2>18. 未决事项（Q 清单与 backlog，默认执行中）</h2>
+<table>
+<thead>
+<tr>
+<th>编号</th>
+<th>事项</th>
+<th>默认</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Q-77</td>
+<td>§6 默认分层 A / B1 / B2 / C 储备（§11.3）</td>
+<td>默认执行，Simon 一句话可改</td>
+</tr>
+<tr>
+<td>Q-75 / Q-73 / Q-62 / Q-63 / Q-64</td>
+<td>U125–U129 期间的分层与并池细则</td>
+<td>按默认</td>
+</tr>
+<tr>
+<td>Q-59</td>
+<td>12 款 +20% 档远低于列表价：跟 SmartByte 降还是守列表价</td>
+<td>按档位规则</td>
+</tr>
+<tr>
+<td>Q-54 / Q-56</td>
+<td>STH1G 可堆叠线、CENTEC Multi-Gig 铜口 PoE++ 无价</td>
+<td>不主动报价</td>
+</tr>
+<tr>
+<td>Q-52</td>
+<td>Realtek/HRUI 线是否对海外老客户开放（NYNEX FTTH 10G ONT/MC 1,000+/年、$30–40）</td>
+<td>只在客户点名 Realtek 时给</td>
+</tr>
+<tr>
+<td>Q-49 / Q-48 / Q-50</td>
+<td>国内冲突边界 / 「深」绑定画像 / CENTEC DC 线地位</td>
+<td>按概念层推断执行</td>
+</tr>
+<tr>
+<td>Q-47 / Q-42 / Q-41</td>
+<td>HRUI 隐含加价不足 20% / ZX ↔ HR ↔ STC 对照不全 / 三档是否下调</td>
+<td>按新进价重算；默认档位</td>
+</tr>
+<tr>
+<td>Q-51</td>
+<td>交给 Angora 的 Turkey Client List 64 家（53 在库）Saga 是否继续直发</td>
+<td>待 Simon</td>
+</tr>
+<tr>
+<td>Q-46</td>
+<td>《销售额 &amp; 利润.xlsx》密码保护</td>
+<td>待 Simon</td>
+</tr>
+<tr>
+<td>Q-35 / Q-45</td>
+<td>自有 PEN / MAC 块</td>
+<td>不申请不更换（T29-U15）</td>
+</tr>
+<tr>
+<td>Backlog</td>
+<td>civil_only 3；SC-2143；StarNet；RU/KZ/BY/UZ 收款；2.5G（SB-263）；SB-583 RMB；W44 发送包；SC-1177 WA；TR 微信；gmail-only 户；SC-3066/3067；RVi；SC-455 / SC-259 / SC-1714 问 Simon；XC-C0157；reg_pending Akçaba / Smartplus / Sapphire / IT Warehouse + US 20；SC-729（ООО «Мицар»）；КОМИКОН；XC-E063；SB-595；gg 8；G1 33；P 池监控扩面；SC-634 补路径；可逆打回名单复核；<code>build.py</code> 对位标志回填；ipc2u.de nxdomain；SB-582 国别；SB-110 FB gmail 不自动加；134 快照失败户二夜复核；<strong>Actions 跑完后：Saga 链 + External/Planet 渲染 + 名册 + 缺口审计 + 看 <code>data/长期客户群_快照打回候选_&lt;日&gt;.csv</code></strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>来源：<code>docs/requirements/待统一处理问题清单.md</code>、本会话记忆。</p>
+<hr />
+<h2>19. 来源清单（本文每一句都能回到这些文件）</h2>
+<table>
+<thead>
+<tr>
+<th>主题</th>
+<th>文件</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>公司画像 / 边界</td>
+<td><code>docs/reference/Saga公司画像与边界.md</code>、<code>Saga公司背景信息.docx</code>（根目录）</td>
+</tr>
+<tr>
+<td>品牌口径 / 语录 / 官网</td>
+<td><code>docs/reference/Saga品牌口径与宣传语录.md</code>、<code>docs/reference/Saga官网_sagatele.com_全文_2026-10-22.md</code>、<code>data/sagatele_site/</code></td>
+</tr>
+<tr>
+<td>商务条款 / 物流 / 口径</td>
+<td><code>docs/reference/Saga商务条款速查.md</code>、<code>docs/对外口径一致性_2026-10-24.md</code>、<code>docs/drive/MUST-KNOW/*.md</code></td>
+</tr>
+<tr>
+<td>理念与概念</td>
+<td><code>docs/Saga理念摘读_2026-10-23.md</code>（A1–A38 / D1–D14 / E1–E26）、<code>docs/Saga内在逻辑与概念_2026-10-24.md</code>、<code>docs/理解与方向_V1_深度串联_2026-10-24.html</code>、<code>docs/两家公司逻辑与方向_SmartByte-Saga.html</code>、<code>docs/方法论_全集_2026-10-27.md</code></td>
+</tr>
+<tr>
+<td>价格 / 型号</td>
+<td><code>data/价格主表.csv</code>、<code>data/价格主表_HRUI.csv</code>、<code>docs/reference/价格表_*.md</code>、<code>docs/reference/CENTEC_产品表与报价锚_2026-10-24.md</code>、<code>docs/reference/实际进价与毛利_校验_2026-10-22.md</code>、<code>docs/reference/规格书有_价格表无_型号清单_2026-10-22.md</code>、<code>docs/rules/报价与型号规则.md</code></td>
+</tr>
+<tr>
+<td>认证</td>
+<td><code>docs/reference/证书登记表_2026-10-22.md/.csv</code>、<code>docs/drive/Certification/认证证书索引.md</code></td>
+</tr>
+<tr>
+<td>供应商</td>
+<td><code>docs/smartbyte/*</code>、<code>docs/smartbyte_wechat_summary.md</code>、<code>docs/suppliers/HRUI/*</code>、<code>docs/suppliers/Hohunet/*</code></td>
+</tr>
+<tr>
+<td>成单客户</td>
+<td><code>docs/成单客户_PI复盘_2026-10.md</code>、<code>docs/成单客户_活跃平台与监控_2026-10-23.md</code>、<code>docs/成单客户_毛利复盘_内部_2026-10-24.md</code>、<code>docs/成单客户_NYNEX_维护计划_2026-10-22.md</code>、<code>data/pi_orders/*.csv</code></td>
+</tr>
+<tr>
+<td>客户需求 / 窗口</td>
+<td><code>docs/客户功能需求台账_2026-10-24.md</code>、<code>docs/各国发信窗口与来询季节_2026-10-27.md</code>、<code>docs/各国假日避让_2026-11_2027-03.md</code></td>
+</tr>
+<tr>
+<td>分级 / 长期群</td>
+<td><code>docs/rules/客户分级与去重规则.md</code>、<code>docs/rules/客户档案结构与内容规则.md</code>、<code>docs/AB判定_新标准_讨论稿_2026-10-29.md</code>、<code>docs/长期客户群_方案与复核_2026-10-29.md</code>、<code>docs/长期客户群_名册_2026-10-29.md</code>、<code>docs/长期客户群_深挖缺口_2026-10-29.md</code>、<code>docs/公司底数_作业规程.md</code>、<code>docs/P池_总名册.md</code>、<code>docs/跟进总台.md</code></td>
+</tr>
+<tr>
+<td>规则 / 台账</td>
+<td><code>AGENT-CONSTITUTION.md</code>、<code>docs/requirements/用户要求总账.md</code>、<code>docs/requirements/待统一处理问题清单.md</code>、<code>docs/requirements/对话全记录.md</code>、<code>docs/requirements/变更日志.md</code>、<code>docs/reference/从Mikrotik仓库继承的规则摘要.md</code></td>
+</tr>
+<tr>
+<td>Gmail</td>
+<td><code>docs/gmail/*</code>、<code>data/gmail_{s,a,e}/</code></td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
