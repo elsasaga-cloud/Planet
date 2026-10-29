@@ -2,7 +2,7 @@
 
 > **评级 C**　|　波兰　|　档案编号 `SC-276`　|　优先级 —　|　状态：已推送 8 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：波兰 Assmann（ASSMANN / DIGITUS 品牌集团波兰公司；表内「很大的一个公司，由国内较多合作商」）：波兰次主区 + 自有品牌 DIGITUS（贴牌中国）→ 闸 2 查底数（宜同时核德国总部口径）　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 品牌商 · OEM 30%：ASSMANN Distribution Sp. z o.o.（Warszawa；NIP 8951883569；ASSMANN Group / DIGITUS 波兰分销公司）坐实；OEM ✔ 波兰 ✔ 对位 ✔ 体量 ✔ → P 池候选（同步找德国总部产品管理）　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 8 次（2025-02-05 → 2025-10-21）　|　**所在清单**：A优质名单(PL)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-276
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 24
 country: 波兰
 region: 欧洲
@@ -39,6 +39,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `assmann.pl` → Proofpoint 企业网关（MX：mxa-0091e701.gslb.pphosted.com、mxb-0091e701.gslb.pphosted.com）。企业级邮件网关（Proofpoint 企业网关）：链接重写 + 附件沙箱 → 像素失效、附件常被隔离，冷邮件到达率最低；这户靠回原线程 / LinkedIn / 对方来信，不靠新开线程群发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 126 批（PL · 1 次检索：assmann.pl/en/company/contact（法人 / NIP / REGON / 地址）+ bizraport / krs-pobierz（旧法人 KRS 0000203233 已注销）；2026-10-29，2026-10-29 查；https://www.assmann.pl/en/company/contact/）：**
+
+- 法定名 / 登记号：ASSMANN Distribution Sp. z o.o.（assmann.pl；**官网 Contact：Gilarska 10/1 lok.1, 03-589 Warszawa；+48 22 586 11 60；office@assmann.pl；NIP PL8951883569；REGON 020543570；ASSMANN Group（DIGITUS 品牌，德国 Lüdenscheid 总部）波兰分销公司；旧法人 ASSMANN Electronic Sp. z o.o. KRS 0000203233（Wrocław，已 wykreślona）**）；表内：「很大的一个公司，由国内较多合作商」 · NIP 8951883569 / REGON 020543570（KRS 号未取） · 状态 **营业中（官网）** · 成立 未取（旧法人 2004） · Sp. z o.o.（ASSMANN Group 子公司）
+- 行业码 / 经营范围：网络 / 布线产品品牌分销（DIGITUS；波兰）
+- 注册地址：Gilarska 10/1 lok.1, 03-589 Warszawa
+- 规模档：中型（集团约 500；波兰公司小型）
+- 账目：未取；—
+- 高管：（office@assmann.pl 表内 = 官网公开总邮箱；DIGITUS 产品经理在德国总部 → LinkedIn 挖）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **DIGITUS 自有品牌（贴牌中国）→ OEM 30%：波兰公司一页纸探路 + 同步找 Lüdenscheid 总部 Product Management（STC-028GP / STC-228GP / STI-154GP 对标 DIGITUS 口型 + 丝印彩盒 MOQ + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**
+- 备注：OEM 30%；P 池候选 ★（品牌商自有网络线 = 目标顺位 1；集团中型）；坐实（NIP / REGON）。
 
 ## 基本事实（事实/推断/假设分层）
 

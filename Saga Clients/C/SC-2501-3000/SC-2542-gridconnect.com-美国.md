@@ -2,7 +2,7 @@
 
 > **评级 C**　|　美国　|　档案编号 `SC-2542`　|　优先级 —　|　状态：用户判定不行
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：美国 Grid Connect, Inc.（Naperville IL；Atop 的；表内完整地址 + 直线电话）：美国主区 + 工业网络分销主体（Atop 等）+ 对位 ✔；互动过 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 自有品牌 + 白标 · OEM 30%：Grid Connect, Inc.（Naperville 2002；25 人；ISO 9001；分销 + GRID 自有产品 + 白标 / 定制 IoT；CEO Adam Justice）坐实；OEM ✔ 主区 ✔ 对位 ✔ 互动过 ✔ → P 池候选；Simon 曾判不行，可否决　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-2542
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: -25
 country: 美国
 region: 北美
@@ -39,6 +39,32 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `gridconnect.com` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、alt3.aspmx.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 126 批（US · 1 次检索：gridconnect.com/pages/grid-connect-inc-business-profile（法人 / 地址 / 2002 / 25 人 / 高管）+ linkedin（11–50）+ 官网 Who is Grid Connect（分销起家 → GRID 自有产品）；IL SoS 未取；2026-10-29，2026-10-29 查；https://www.gridconnect.com/pages/grid-connect-inc-business-profile）：**
+
+- 法定名 / 登记号：Grid Connect, Inc.（gridconnect.com；**官网 Business Profile：1630 W Diehl Rd, Naperville IL 60563；2002 年创立；25 人；ISO 9001:2015；工业网络分销 + 自有品牌 GRID 产品（Naperville 组装）+ 白标设备 / 定制 IoT 硬件；创始人兼总裁 Mike Justice、CEO Adam Justice、COO Anthony Linder；(630) 245-1445；sales@gridconnect.com**）；表内：Atop 的；完整地址 + 直线电话；互动过；Simon 曾判不行 · 未取（IL SoS 未查） · 状态 **营业中（官网 2026）** · 成立 2002 · Inc.（私有）
+- 行业码 / 经营范围：工业网络分销 + 自有品牌 GRID + 白标 / 定制 IoT
+- 注册地址：1630 W Diehl Rd, Naperville, IL 60563
+- 规模档：小型（25）
+- 账目：未取；—
+- 高管：Mike Justice — Founder & President
+- 高管：Adam Justice — CEO
+- 高管：Anthony Linder — COO
+- 高管：jeanineh@gridconnect.com（表内具名；职务未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **分销 + 自有品牌 + 白标 → OEM 30% / 分销 20% 双轨：点名 Adam Justice 一页纸一次（STI-154GP / STI-288GPM 工业 + 丝印 MOQ + 付费样机；Atop 不点名）— 北美常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳 / DAP（买方清关）；周三 08–10 当地**；Simon 可否决
+- 备注：OEM 30%；P 池候选 ★（自有品牌 + 白标业务 + 高管具名）；坐实（官网法人档案）；Simon 曾判不行。
 
 ## 基本事实（事实/推断/假设分层）
 

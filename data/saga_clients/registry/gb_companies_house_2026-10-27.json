@@ -4,7 +4,7 @@
   "source": "France · API Recherche d'entreprises（recherche-entreprises.api.gouv.fr，官方免费：SIRENE + RNE + 财报）",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 63
+  "count": 71
  },
  "rows": {
   "SA-015": {
@@ -2154,6 +2154,250 @@
    ],
    "notes": "OEM 30%；P 池候选 ★（英国品牌商）；坐实（主体映射推定）。",
    "code": "SC-678"
+  },
+  "SC-2383": {
+   "batch": 126,
+   "name": "3G Router Store — Westlake Communications Ltd / Millbeck Communications（3grouterstore.co.uk；**ZoomInfo：Westlake Communications Ltd，Essex，+44 1708 388799；tuugo：D10 & D11 Seedbed Centre, Davidson Way, Romford RM7 0AZ；LinkedIn：Millbeck Communications 2002 年创立、2–10 人、运营 3GRouterStore 网店 + 自有品牌 Proroute 路由器 / Fullband 天线、Teltonika 合作**）；Companies House 号未取 → 部分坐实；表内：商业 PoE 主要是洪瑞的；18 推 0 回；Simon 曾判不行",
+   "iso": "GB",
+   "fetched": "2026-10-29",
+   "source": "GB · 1 次检索：zoominfo（Westlake Communications Ltd）+ tuugo（Romford 地址）+ linkedin（Millbeck；Proroute / Fullband 自有品牌；2002）；CH 号未取；2026-10-29",
+   "url": "https://gh.linkedin.com/company/millbeck-communications",
+   "number": "未取（CH 1 查未得；两法人名待分辨）",
+   "status": "营业中（网店在线）",
+   "incorporated": "2002",
+   "company_type": "Ltd",
+   "sic": [
+    "IoT / 4G-5G 路由器网店 + 自有品牌（Proroute / Fullband）"
+   ],
+   "address": "D10 & D11 Seedbed Centre, Davidson Way, Romford, Essex RM7 0AZ",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（2–10）",
+   "officers": [
+    "（sales@3grouterstore.co.uk 表内；具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌路由 / 天线贴牌 + 卖洪瑞 PoE → OEM 30% / 分销 20%：一页纸一次（STC-028GP / STI-154GP 工业 PoE 配 4G 路由场景 + 丝印 MOQ）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地；洪瑞现供 → Q-33 口径（默认只推 SmartByte / Marvell 管理 + 工业线）**；Simon 可否决"
+   ],
+   "notes": "OEM 30%；P 池候选 ○（自有品牌 ✔ 进口经验 ✔ 主区 ✔；微型）；部分坐实；Simon 曾判不行；Q-33。",
+   "code": "SC-2383"
+  },
+  "SC-2608": {
+   "batch": 126,
+   "name": "Mayflex（mayflex.com；**PitchBook：Excel House, Junction Six Industrial Park, Electric Avenue, Birmingham B6 7JJ；1917 年创立；250 人；Sonepar UK 子公司；数据通信产品分销（安装商 / 集成商）；Endole：Mayflex Holdings Limited 06732855（2008-10-24，Sonepar 集团）；自有品牌 Excel Networking**）；表内：商业 PoE；andrew.percival@ 具名；19 推 0 回；Simon 曾判不行",
+   "iso": "GB",
+   "fetched": "2026-10-29",
+   "source": "GB · 1 次检索：pitchbook（Birmingham；1917；250；Sonepar UK）+ endole（Mayflex Holdings 06732855）+ glassdoor；运营公司 CH 号未取；2026-10-29",
+   "url": "https://pitchbook.com/profiles/company/65358-73",
+   "number": "Mayflex Holdings Ltd 06732855（控股；运营公司号未取）",
+   "status": "Active（Sonepar 集团）",
+   "incorporated": "1917（控股 2008-10-24）",
+   "company_type": "Ltd（Sonepar UK 子公司）",
+   "sic": [
+    "布线 / 网络 / 安防分销 + 自有品牌 Excel"
+   ],
+   "address": "Excel House, Junction Six Industrial Park, Electric Avenue, Birmingham B6 7JJ",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "大型（250；母公司 Sonepar 巨头）",
+   "officers": [
+    "Andrew Percival（andrew.percival@mayflex.com 表内具名；职务未取）",
+    "（sales@mayflex.com 表内）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**巨头旗下自有品牌 Excel → OEM 30% 长线：点名 Andrew Percival / Excel 产品经理一页纸一次（STC-228GP / STC-2224GP 对标 Excel 口型 + 丝印彩盒 MOQ + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；Simon 可否决；集团采购流程长"
+   ],
+   "notes": "OEM 30%；P 池候选 △（自有品牌 ✔ 主区 ✔ 具名 KP ✔，但 Sonepar 巨头体系 → 长线观察档）；坐实（名录）；Simon 曾判不行。",
+   "code": "SC-2608"
+  },
+  "SC-2728": {
+   "batch": 126,
+   "name": "Blue Helix Limited（bluehelix.co.uk；**aihitdata：CH 04836349，Votec House, Hambridge Lane, Newbury RG14 5TN；CEO Steven Westbrook、秘书 Leo Yu；VAT 927 2027 36；名录标 SIC 99999（Dormant）；另有注册号 06248590；laserfocusworld（2018）：Crawley RH11 0PH，28 人；官网：AMG Systems / ComNet / D-Link / Trend Networks 光纤 + 铜缆方案分销，面向数据中心 / 安防 / 公用 / 国防 / 政府客户**）→ 法人状态待核；表内：主要卖 AMG / Comnet；marke@ 具名；19 推 0 回；Simon 曾判不行",
+   "iso": "GB",
+   "fetched": "2026-10-29",
+   "source": "GB · 1 次检索：aihitdata（04836349；SIC 99999；Newbury；Westbrook）+ bluehelix.co.uk 品类页（AMG 108 / ComNet 110 / D-Link 132 SKU）+ laserfocusworld（28 人）；CH 直查未做；2026-10-29",
+   "url": "https://www.aihitdata.com/company/0034F506/blue-helix/overview",
+   "number": "04836349（名录标 Dormant；另 06248590 待核）",
+   "status": "待核（名录 SIC 99999 休眠 vs 官网在营）",
+   "incorporated": "2003（推定，20 年）",
+   "company_type": "Ltd",
+   "sic": [
+    "工业 / 安防网络 + 布线分销（AMG / ComNet / D-Link）"
+   ],
+   "address": "Votec House, Hambridge Lane, Newbury RG14 5TN",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（28）",
+   "officers": [
+    "Steven Westbrook — CEO / Director",
+    "marke@bluehelix.co.uk（表内具名；职务未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**工业网络分销 → 分销 20%：先 CH 直查两号分清运营主体，再点名 marke@ 一页纸一次（STI-154GP / STI-288GPM 对标 AMG / ComNet 口型 + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；法人未清前 预付 100%"
+   ],
+   "notes": "分销 20%；P 池候选 △（分销主体 ✔ 主区 ✔ 对位 ✔，但法人状态存疑 → 观察档 + 预付）；部分坐实；Simon 曾判不行。",
+   "code": "SC-2728"
+  },
+  "SC-2802": {
+   "batch": 126,
+   "name": "EURO SECURITY SOLUTIONS LIMITED（eurosecuritysolutions.co.uk；**Companies House 11094000；2 Guillemot Court, Taylor Close, London SE8 5UU；2017-12-04 成立；Active；SIC 62020 IT 咨询 + 80200 安防系统服务；最近账目至 2023-12-31；2024 年账目应于 2025-09-30 前递交（页面快照时未见 → 是否逾期待核）**）；表内：展会很在意 AC/DC 输入、问 VC 用法、要 full info、想拿样；退信；WA 号在表",
+   "iso": "GB",
+   "fetched": "2026-10-29",
+   "source": "GB · 1 次检索：find-and-update.company-information.service.gov.uk/company/11094000；2026-10-29",
+   "url": "https://find-and-update.company-information.service.gov.uk/company/11094000",
+   "number": "11094000",
+   "status": "Active（2024 账目递交情况待核）",
+   "incorporated": "2017-12-04",
+   "company_type": "Private limited company",
+   "sic": [
+    "IT 咨询 + 安防系统服务（伦敦；疑似住宅注册地址）"
+   ],
+   "address": "2 Guillemot Court, Taylor Close, London SE8 5UU",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（推定）",
+   "officers": [
+    "（info@eurosecuritysolutions.co.uk 表内曾退信；WA +44 7830 323788 表内 → 改走 WA）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**样品意向户 → 集成商 25%：WA 续上展会话题一次（AC/DC 双输入 STI-154GP 工业 + VC 用法说明 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；微型 → 预付 100%"
+   ],
+   "notes": "集成商 25%；P 池候选 △（样品意向 ✔ 主区 ✔ 对位 ✔；微型 + 退信 → 观察档 WA 触达）；坐实（CH）。",
+   "code": "SC-2802"
+  },
+  "SC-2809": {
+   "batch": 126,
+   "name": "Ogar Technology Limited（ogartechnology.com；**RocketReach：36-37 Albert Embankment, Suite 7, Vintage House, London SE1 7TL（虚拟办公室型地址）；2015 年创立；4 人；CEO / MD Sunday Ogar；EC21：分支 Ogar Technology Consulting Ltd（尼日利亚 Ikeja Computer Village）+ Ogar Technology LLC（美国 8 The Green = 注册代理地址）；自称安防 / 太阳能设备制造商**）→ 红旗：微型 + 虚拟地址 + 主销尼日利亚；表内：商业 PoE 看着像 ONV 的；17 推 0 回 + 退信；Simon 曾判不行",
+   "iso": "GB",
+   "fetched": "2026-10-29",
+   "source": "GB · 1 次检索：rocketreach（London 地址；4 人；2015；Sunday Ogar）+ crunchbase + ec21 分支页；CH 号未取；2026-10-29",
+   "url": "https://rocketreach.co/ogar-technology-profile_b45d2847fc628fbd",
+   "number": "未取（CH 号未查）",
+   "status": "营业中（名录）",
+   "incorporated": "2015",
+   "company_type": "Ltd",
+   "sic": [
+    "安防 / 太阳能贸易（伦敦壳 + 尼日利亚销售）"
+   ],
+   "address": "36-37 Albert Embankment, Suite 7, London SE1 7TL（虚拟）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（4）",
+   "officers": [
+    "Sunday Ogar — Managing Director & CEO"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**红旗（虚拟地址 + 微型 + 主销尼日利亚）→ 不动；回 C 储备**— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地"
+   ],
+   "notes": "不动；回 C；部分坐实（红旗）；Simon 曾判不行。",
+   "code": "SC-2809"
+  },
+  "SC-2954": {
+   "batch": 126,
+   "name": "Videcon Ltd（videcon.co.uk；**Endole：1995-07-31 成立，Active，Heckmondwike West Yorkshire，营业额 £36.27M；Tracxn：150 人，自有品牌 Concept Pro（1998 起，IP / AHD / 模拟 CCTV），ISO 9001 分销；prospeo：WF16 0PN，+44 1924 528000，分销 Concept Pro / UNV / Apollo / Advanced / Hochiki / Ajax / WD / CDVI**）；CH 号未取；表内：CCTV 为主、有商业 PoE；退信；Simon 曾判不行",
+   "iso": "GB",
+   "fetched": "2026-10-29",
+   "source": "GB · 1 次检索：endole 品牌页（Videcon Ltd；1995；£36.27M）+ tracxn（150 人；Concept Pro）+ prospeo（地址 / 电话）；CH 号未取；2026-10-29",
+   "url": "https://open.endole.co.uk/insight/brand/206497-videcon",
+   "number": "未取（CH 号 1 查未得；法人名 Videcon Ltd 坐实）",
+   "status": "Active",
+   "incorporated": "1995-07-31",
+   "company_type": "Ltd",
+   "sic": [
+    "安防分销 + 自有品牌 Concept Pro（trade-only）"
+   ],
+   "address": "Heckmondwike, West Yorkshire WF16 0PN",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（150；£36M）",
+   "officers": [
+    "（sales@videcon.co.uk 表内曾退信；Concept Pro 产品经理 KP 待 LinkedIn）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌 Concept Pro + 中型分销 → OEM 30%：找产品经理后一页纸一次（STC-028GP / STC-228GP / STC-2224GP 安防 PoE 丝印彩盒 MOQ + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；Simon 可否决"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（自有品牌 + 中型分销 + 主区）；坐实（法人 + 营业额）；Simon 曾判不行。",
+   "code": "SC-2954"
+  },
+  "SC-2976": {
+   "batch": 126,
+   "name": "Blake UK Ltd（blake-uk.com；**PitchBook：1971 年创立，Sheffield，20 人，曾用名 Blake Aerials Limited，私募债融资；NPIF（2017）：24 人、营业额 £2.2M（2016 财年）、天线制造 + 进口商（RF / 电子 / 元件）；ZoomInfo：TV 信号 / CCTV / Wi-Fi 产品设计制造，11–50，<$5M**）；CH 号未取；表内：CCTV / networking / fiber 销售平台；Simon 曾判不行",
+   "iso": "GB",
+   "fetched": "2026-10-29",
+   "source": "GB · 1 次检索：pitchbook（1971；20 人；Sheffield）+ npif.co.uk（24 人；£2.2M）+ zoominfo（11–50）；CH 号未取；2026-10-29",
+   "url": "https://pitchbook.com/profiles/company/179962-84",
+   "number": "未取（CH 号 1 查未得；法人名 Blake UK Ltd）",
+   "status": "营业中",
+   "incorporated": "1971",
+   "company_type": "Ltd",
+   "sic": [
+    "天线 / 信号分配 / CCTV / 网络产品制造 + 进口分销（谢菲尔德）"
+   ],
+   "address": "Sheffield, South Yorkshire",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（20–24；£2.2M）",
+   "officers": [
+    "Paul Blake — MD（NPIF 报道）",
+    "Cavin Carver — Operations Director（NPIF 报道）",
+    "（sales@blake-uk.com 表内）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**制造 + 进口商（自有品牌 Blake）→ OEM 30% / 分销 20%：点名 Paul Blake 一页纸一次（STC-028GP / STC-228GP 安防 PoE + 丝印 MOQ + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；Simon 可否决"
+   ],
+   "notes": "分销 20% / OEM 30%；P 池候选 ○（进口商 + 自有品牌 + 主区；小型）；部分坐实；Simon 曾判不行。",
+   "code": "SC-2976"
+  },
+  "SC-331": {
+   "batch": 126,
+   "name": "Industrial Communication Products Ltd — IndustrialComms（industrialcomms.com；**官网 Press 页脚：The Angel Business Centre, 1 Luton Road, Toddington, Bedfordshire LU5 6DE；Advantech 英国分销 + INSYS icom 分销协议 + Bobcat 交换机；ZoomInfo：2008 年创立、<$5M；modernrailways：服务铁路基础设施 + 机车车辆（EN50155 交换机）**）；CH 号未取；表内：bypass / 工业 FS 基本是研华的；名单内未触达",
+   "iso": "GB",
+   "fetched": "2026-10-29",
+   "source": "GB · 1 次检索：industrialcomms.com/pages/press（法人 + 地址 + Advantech / INSYS）+ zoominfo（2008）+ modernrailways（铁路）；CH 号未取；2026-10-29",
+   "url": "https://www.industrialcomms.com/pages/press",
+   "number": "未取（CH 号 1 查未得；法人名坐实）",
+   "status": "营业中（官网 2025 版权）",
+   "incorporated": "2008",
+   "company_type": "Ltd",
+   "sic": [
+    "工业通信产品分销（Advantech / INSYS；公用 / 交通 / 铁路）"
+   ],
+   "address": "The Angel Business Centre, 1 Luton Road, Toddington, Bedfordshire LU5 6DE",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（推定）",
+   "officers": [
+    "（sales@industrialcomms.com 表内；具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**工业分销（铁路占比高，守界只做非轨交场景）→ 分销 20%：一页纸一次（STI-154GP / STI-288GPM 公用 / 交通路侧场景 + MOQ 1 + 付费样机；不提 EN50155）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**"
+   ],
+   "notes": "分销 20%；P 池候选 ○（工业分销 + 进口台湾品牌 + 主区；冷户 §5 四条）；部分坐实；守界注记：轨交项目不碰。",
+   "code": "SC-331"
   }
  }
 }

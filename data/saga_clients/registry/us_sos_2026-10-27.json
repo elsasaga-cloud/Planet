@@ -4,7 +4,7 @@
   "source": "USA · 州务卿登记 / OpenCorporates",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 145
+  "count": 157
  },
  "rows": {
   "SA-002": {
@@ -4874,6 +4874,380 @@
    ],
    "notes": "分销 20%（可升贴标 30%）；P 池候选 ○（美国大型光纤分销）；坐实（SAM.gov）。",
    "code": "SC-292"
+  },
+  "SC-2255": {
+   "batch": 126,
+   "name": "PoE Texas（poetexas.com；**LeadIQ / SignalHire / Apollo：11821 Buckner Rd, Austin TX 78726；2011 年创立；约 10 人；营收估 $1–10M；自有产品线 PoE 注入器 / 分离器 / 测试仪 / 电源，WiFi-Texas 母公司；CEO T. A.（= 表内 tandrews@）、CTO Joe Herbst（= 表内 jherbst@）；+1 512 479 0317**）；表内：在亚马逊卖 Utepo 商业 PoE；8 推 0 回；Simon 曾判不行",
+   "iso": "US",
+   "fetched": "2026-10-29",
+   "source": "US · 1 次检索：leadiq（Austin 地址；2011；2–10 人；Ceo T. A. / Cto J. H.）+ signalhire（$1–10M）+ apollo（Joe Herbst CTO）；TX SoS 未取；2026-10-29",
+   "url": "https://leadiq.com/c/poe-texas/5e94745703157faf174e393d",
+   "number": "未取（TX SoS 未查）",
+   "status": "营业中（名录 2025）",
+   "incorporated": "2011",
+   "company_type": "LLC / Corp（推定）",
+   "sic": [
+    "PoE 配件自有品牌 + 亚马逊渠道（奥斯汀）"
+   ],
+   "address": "11821 Buckner Rd, Austin, TX 78726",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型 / 小型（约 10）",
+   "officers": [
+    "T. Andrews — CEO（tandrews@poetexas.com 表内 = 决策人直达）",
+    "Joe Herbst — CTO（jherbst@poetexas.com 表内）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌 PoE 配件 + 已卖 Utepo → OEM 30% / 分销 20% 双轨：点名 CEO 一页纸一次（STC-028GP $28 / STC-228GP $33 + 丝印 MOQ + 付费样机；Utepo 不点名）— 北美常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳 / DAP（买方清关）；周三 08–10 当地**；Simon 可否决"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（自有品牌 + CEO / CTO 邮箱在表 + 进口经验）；部分坐实（州号未取）；Simon 曾判不行。",
+   "code": "SC-2255"
+  },
+  "SC-2418": {
+   "batch": 126,
+   "name": "Streakwave Wireless, Inc.（streakwave.com；**官网 Our Story + siliconmaps：全球增值分销商，总部 840 Jury Court, San Jose CA 95112，分仓 Salt Lake City / Cincinnati / 墨尔本 / 新西兰；无线宽带 / 电信 / IP 监控 / 绿色能源全线；服务 WISP / 集成商 / VAR**）→ 国别纠偏：表内「加拿大」→ 美国；表内：卖很多牌子（商业 PoE / 工业 FS / SFP）；1 推 0 回；Simon 曾判不行",
+   "iso": "US",
+   "fetched": "2026-10-29",
+   "source": "US · 1 次检索：streakwave.com/about.asp（San Jose HQ + 分仓）+ siliconmaps（840 Jury Court；888-604-5234）；CA SoS 未取；2026-10-29",
+   "url": "https://streakwave.com/about.asp",
+   "number": "未取（CA SoS 未查）",
+   "status": "营业中（官网 2022 版权）",
+   "incorporated": "未取",
+   "company_type": "Inc.",
+   "sic": [
+    "无线 / 网络 / 安防增值分销（多仓；北美 + 澳新）"
+   ],
+   "address": "840 Jury Court, San Jose, CA 95112",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（多仓分销）",
+   "officers": [
+    "（sales@ / info@streakwave.com 表内总邮箱；采购 KP 待 LinkedIn）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**大分销 → 分销 20%（长线）：一页纸一次（WISP 配套：STI-154GP 工业 PoE + STC-228GP + MOQ 1 + 付费样机）— 北美常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳 / DAP（买方清关）；周三 08–10 当地**；Simon 可否决"
+   ],
+   "notes": "分销 20%；P 池候选 ○（中型分销 + 对位；冷）；部分坐实；国别纠偏 US；Simon 曾判不行。",
+   "code": "SC-2418"
+  },
+  "SC-2429": {
+   "batch": 126,
+   "name": "El Paso Communication Systems, Inc. — EPCOM（epcom.net；**buzzfile：1630 E Paisano Dr, El Paso TX 79901；1987 年创立；Texas 公司；本部约 60 人 / 全部 95 人；营收约 $23.7M；进口 + 出口 + 制造；少数族裔企业；LeadIQ：29 年经验、San Antonio / El Paso / Miami 三仓、99% 当日发货、51–200 人**）；表内：PLANET 商用 + 工业两线备货、Wi-Tek 在用；研究档对位 STC-424DGGM；8 推 0 回；Simon 曾判不行",
+   "iso": "US",
+   "fetched": "2026-10-29",
+   "source": "US · 1 次检索：buzzfile（1987；Texas；95 人；$23.7M；1630 E Paisano Dr）+ leadiq（三仓；51–200）+ datanyze；TX SoS 号未取；2026-10-29",
+   "url": "https://www.buzzfile.com/business/Epcom-915-533-5119",
+   "number": "未取（TX SoS 号未查；法人名已坐实）",
+   "status": "营业中",
+   "incorporated": "1987",
+   "company_type": "Inc.（Texas）",
+   "sic": [
+    "无线电 / 无线网络 / 电子安防分销（Syscom 美方；三仓）"
+   ],
+   "address": "1630 E Paisano Dr, El Paso, TX 79901",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（95 人；$23.7M）",
+   "officers": [
+    "（purchasing@epcom.net 表内 = 采购部直达；sales@ 表内；具名采购 KP 待 LinkedIn）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**PLANET 双线分销 → 分销 20%：点名 purchasing@ 一页纸一次（STC-424DGGM 对标 Planet 同口型 + STI-288GPM 工业 + MOQ 1 + 付费样机）— 北美常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳 / DAP（买方清关）；周三 08–10 当地**；Simon 可否决"
+   ],
+   "notes": "分销 20%；P 池候选 ★（中型分销 + Planet 渠道 + 采购邮箱在表）；坐实（法人 + 地址 + 规模）；Simon 曾判不行。",
+   "code": "SC-2429"
+  },
+  "SC-2542": {
+   "batch": 126,
+   "name": "Grid Connect, Inc.（gridconnect.com；**官网 Business Profile：1630 W Diehl Rd, Naperville IL 60563；2002 年创立；25 人；ISO 9001:2015；工业网络分销 + 自有品牌 GRID 产品（Naperville 组装）+ 白标设备 / 定制 IoT 硬件；创始人兼总裁 Mike Justice、CEO Adam Justice、COO Anthony Linder；(630) 245-1445；sales@gridconnect.com**）；表内：Atop 的；完整地址 + 直线电话；互动过；Simon 曾判不行",
+   "iso": "US",
+   "fetched": "2026-10-29",
+   "source": "US · 1 次检索：gridconnect.com/pages/grid-connect-inc-business-profile（法人 / 地址 / 2002 / 25 人 / 高管）+ linkedin（11–50）+ 官网 Who is Grid Connect（分销起家 → GRID 自有产品）；IL SoS 未取；2026-10-29",
+   "url": "https://www.gridconnect.com/pages/grid-connect-inc-business-profile",
+   "number": "未取（IL SoS 未查）",
+   "status": "营业中（官网 2026）",
+   "incorporated": "2002",
+   "company_type": "Inc.（私有）",
+   "sic": [
+    "工业网络分销 + 自有品牌 GRID + 白标 / 定制 IoT"
+   ],
+   "address": "1630 W Diehl Rd, Naperville, IL 60563",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（25）",
+   "officers": [
+    "Mike Justice — Founder & President",
+    "Adam Justice — CEO",
+    "Anthony Linder — COO",
+    "jeanineh@gridconnect.com（表内具名；职务未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**分销 + 自有品牌 + 白标 → OEM 30% / 分销 20% 双轨：点名 Adam Justice 一页纸一次（STI-154GP / STI-288GPM 工业 + 丝印 MOQ + 付费样机；Atop 不点名）— 北美常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳 / DAP（买方清关）；周三 08–10 当地**；Simon 可否决"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（自有品牌 + 白标业务 + 高管具名）；坐实（官网法人档案）；Simon 曾判不行。",
+   "code": "SC-2542"
+  },
+  "SC-2597": {
+   "batch": 126,
+   "name": "Urban Security Group — cctv.supplies / cctv.nyc（**官网 About：布鲁克林家族小企业，40+ 年；CCTV 批发 + 零售 + 安装；718-701-5850**）；法人注册号未取 → 部分坐实；表内：商业 PoE 主要是洪瑞的；20 推 0 回；Simon 曾判不行",
+   "iso": "US",
+   "fetched": "2026-10-29",
+   "source": "US · 1 次检索：cctv.supplies 首页 About Us（Urban Security Group；Brooklyn；40+ 年；718-701-5850）；NY DOS 未取；2026-10-29",
+   "url": "https://www.cctv.supplies/",
+   "number": "未取（NY DOS 未查）",
+   "status": "营业中（官网 2026-03）",
+   "incorporated": "未取（40+ 年）",
+   "company_type": "未取（家族企业）",
+   "sic": [
+    "CCTV 批发 / 零售 / 安装（纽约）"
+   ],
+   "address": "Brooklyn, New York",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型 / 小型",
+   "officers": [
+    "（support@cctv.nyc 表内；具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**安防批零 → 分销 20%：一页纸一次（STC-028GP $28 / STC-228GP $33 + MOQ 1 + 付费样机）— 北美常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳 / DAP（买方清关）；周三 08–10 当地；洪瑞现供 → Q-33 口径（默认只推 SmartByte / Marvell 管理 + 工业线）**；Simon 可否决"
+   ],
+   "notes": "分销 20%；P 池候选 △（进口洪瑞 ✔ 主区 ✔ 对位 ✔；微型 → 观察档）；部分坐实；Simon 曾判不行；Q-33。",
+   "code": "SC-2597"
+  },
+  "SC-2606": {
+   "batch": 126,
+   "name": "Logicbus, Inc.（logicbus.com；**Crunchbase：法人 Logicbus, Inc.，Chula Vista CA，Active，11–50；官网 Support：2001 年创立，863 Bowsprit Road Chula Vista；ContactOut：San Diego 8268 Clairemont Mesa Blvd Suite 302 + 墨西哥瓜达拉哈拉办公室，40 人；CEO Blasioz Valenzuela；Daniel Flores — Gerente de Sucursal México（= 表内 danielflores@）；Luis Eduardo Rodríguez — Ejecutivo de compras**）；表内：Atop / 三旺工业 FS 电口；20 推 0 回；Simon 曾判不行",
+   "iso": "US",
+   "fetched": "2026-10-29",
+   "source": "US · 1 次检索：crunchbase（Logicbus, Inc.；Active；11–50）+ logicbus.com/support（2001；Chula Vista）+ contactout（40 人；高管 / 采购）；CA SoS 未取；2026-10-29",
+   "url": "https://www.crunchbase.com/organization/logicbus",
+   "number": "未取（CA SoS 未查）",
+   "status": "Active（Crunchbase）",
+   "incorporated": "2001",
+   "company_type": "Inc.",
+   "sic": [
+    "工业自动化 / 工业通信分销（美墨双边）"
+   ],
+   "address": "863 Bowsprit Road, Chula Vista, CA（+ San Diego / Guadalajara）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（40）",
+   "officers": [
+    "Blasioz Valenzuela — CEO",
+    "Daniel Flores — Gerente de Sucursal México（danielflores@logicbus.com 表内）",
+    "Luis Eduardo Rodríguez Luvian — Ejecutivo de compras（采购）",
+    "teodoro@logicbus.com（表内具名；职务未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**工业分销（美墨）→ 分销 20%：点名 Daniel Flores 一页纸一次（STI-154GP / STI-280GE 工业电口对标 Atop / 三旺 + MOQ 1 + 付费样机）— 北美常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳 / DAP（买方清关）；周三 08–10 当地**；Simon 可否决"
+   ],
+   "notes": "分销 20%；P 池候选 ○（工业分销 + 进口中国工业品牌 + 具名 KP）；坐实；Simon 曾判不行。",
+   "code": "SC-2606"
+  },
+  "SC-2619": {
+   "batch": 126,
+   "name": "Alantek Communications（alantekusa.com；**ZoomInfo：Alantek Communications Asia Pte Ltd；4639 Sandydale Ln, Houston TX 77039；1–10 人；营收 <$5M；官网 About：1998 年创立、「总部美国」、光纤 / LAN 无源布线制造商，经授权分销商销售**）→ 实为亚洲运营的布线品牌美国壳；表内：工业 FS / PoE / MC 周边；Simon 曾判不行",
+   "iso": "US",
+   "fetched": "2026-10-29",
+   "source": "US · 1 次检索：alantekusa.com/about-us + zoominfo（Asia Pte Ltd；Houston；1–10；<$5M）；2026-10-29",
+   "url": "https://www.alantekusa.com/about-us/",
+   "number": "未取",
+   "status": "营业中（官网 2020 更新）",
+   "incorporated": "1998",
+   "company_type": "Pte Ltd（新加坡）+ 美国联络地址",
+   "sic": [
+    "无源布线 / 光纤品牌（主销亚洲 / 中东渠道）"
+   ],
+   "address": "4639 Sandydale Ln, Houston, TX 77039",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（1–10）",
+   "officers": [
+    "（info@alantekusa.com 表内；具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**微型品牌壳、以无源为主 → 不动；回 C 储备**— 北美常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳 / DAP（买方清关）；周三 08–10 当地"
+   ],
+   "notes": "不动；回 C；部分坐实；Simon 曾判不行。",
+   "code": "SC-2619"
+  },
+  "SC-2622": {
+   "batch": 126,
+   "name": "cctvvideo.com（support@；**1 查「cctvvideo.com」仅返回 e-link China 厂页（其供货商）→ 公司本体未坐实**）；表内：VC / SFP / 工业 FS，有 e-link 的；Simon 曾判不行",
+   "iso": "US",
+   "fetched": "2026-10-29",
+   "source": "US · 1 次检索无命中（仅 e-link 供货商页）；2026-10-29",
+   "url": "",
+   "number": "未取（1 查无命中）",
+   "status": "存续待核（域名 MX 正常）",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "安防 / 光传输网店（美国，推定）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（推定）",
+   "officers": [
+    "（support@cctvvideo.com 表内；具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**未坐实 + Simon 判不行 → 不动，回 C 储备**— 北美常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳 / DAP（买方清关）；周三 08–10 当地"
+   ],
+   "notes": "不动；回 C；未坐实。",
+   "code": "SC-2622"
+  },
+  "SC-2657": {
+   "batch": 126,
+   "name": "Lynn Electronics Corporation / Inc.（lynnelec.com / thinklynn.com；**RocketReach：154 Railroad Dr, Ivyland PA 18974；1964 年创立；营收 $18.6M；29 人（konaequity 108 人 / Indeed 51–200）；(215) 355-8200；Shad Sechrist — Director, Data Center Solutions；konaequity：Walter Corrar 经理、Marci Price 区域销售**）；表内：MC / switch / SFP，从 VOLKTEK 买 MC；kedsall@thinklynn.com 具名；11 推 0 回；Simon 曾判不行",
+   "iso": "US",
+   "fetched": "2026-10-29",
+   "source": "US · 1 次检索：rocketreach（1964；$18.6M；29；Ivyland）+ konaequity（108 人；wcorrar@ / mprice@ 公开）+ indeed（51–200）；PA 登记号未取；2026-10-29",
+   "url": "https://rocketreach.co/lynn-electronics-corporation-profile_b44d75e7fd255469",
+   "number": "未取（PA 登记号未查）",
+   "status": "营业中（2025 营收数据）",
+   "incorporated": "1964",
+   "company_type": "Corporation",
+   "sic": [
+    "连接 / 网络产品制造 + 分销（自有品牌；数据中心方案线）"
+   ],
+   "address": "154 Railroad Dr, Ivyland, PA 18974",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（29–108；$18.6M）",
+   "officers": [
+    "Shad Sechrist — Director, Data Center Solutions（DC 线 KP）",
+    "kedsall@thinklynn.com（表内具名；职务未取）",
+    "Walter Corrar — Manager（wcorrar@lynnelec.com 公开）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌 + 进口 Volktek + DC 方案线 → OEM 30%：点名 Shad Sechrist 一页纸一次（STC-110XGE 10G MC + STC-424XGGM 对标 + 丝印 MOQ；CENTEC STH 线作敲门砖提一句）— 北美常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳 / DAP（买方清关）；周三 08–10 当地**；Simon 可否决"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（中型自有品牌 + 进口经验 + DC 线 KP）；坐实（名录三源一致）；Simon 曾判不行。",
+   "code": "SC-2657"
+  },
+  "SC-284": {
+   "batch": 126,
+   "name": "Data Comm for Business, Inc. — DCB（dcbnet.com；**GovTribe / SAM.gov：UEI YX2BCLJKZ456、CAGE 0GGX7，注册 2002-02-04，有效至 2027-07-08；2949 County Road 1000 E, Dewey IL 61840（+ Plano TX 办公室）；1981 年创立；1–10 / 11–50 人；营收估 $1–10M；NAICS 334210 电话设备制造；联邦交通领域供应商；LinkedIn：Brad Boles VP Sales & Systems；RocketReach：Dan Smith VP Sales**）；表内：有自己一套型号、「感觉还行」；mgadel@ / rpeterson@ 具名；19 推 0 回",
+   "iso": "US",
+   "fetched": "2026-10-29",
+   "source": "US · 1 次检索：govtribe（UEI / CAGE / SAM 有效期 / 地址 / 1981）+ linkedin（11–50；Plano）+ rocketreach；IL SoS 未取；2026-10-29",
+   "url": "https://govtribe.com/vendors/data-comm-for-business-incorporated-0ggx7",
+   "number": "UEI YX2BCLJKZ456 / CAGE 0GGX7",
+   "status": "SAM.gov Active（至 2027-07-08）",
+   "incorporated": "1981",
+   "company_type": "Inc.",
+   "sic": [
+    "数据通信设备自研 + 集成（串口 / 加密 / SCADA；联邦客户）"
+   ],
+   "address": "2949 County Road 1000 E, Dewey, IL 61840",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（1–50）",
+   "officers": [
+    "Brad Boles — VP Sales & Systems",
+    "Dan Smith — VP Sales",
+    "mgadel@dcbnet.com / rpeterson@dcbnet.com（表内具名；职务未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自研厂商 + 联邦客户（TAA 门槛）→ OEM 30% 观察：一页纸一次（STI-154GP 工业 PoE 作其 SCADA 配套 + 丝印 MOQ；不提 NDAA / TAA）— 北美常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳 / DAP（买方清关）；周三 08–10 当地**；联邦项目不碰"
+   ],
+   "notes": "OEM 30%；P 池候选 △（自有型号 ✔ 主区 ✔ 对位 ✔，但联邦导向 TAA 门槛 → 观察档）；坐实（SAM.gov）。",
+   "code": "SC-284"
+  },
+  "SC-2993": {
+   "batch": 126,
+   "name": "Cables N More（cablesnmore.com / tlnetworx.com；**ZoomInfo：550 Commerce Dr, Quakertown PA 18951；(215) 259-5279；11–50 人；Crunchbase：1–10，计算机 / 音视频线缆 + 消费电子 + 网络安装设备销售商**）；法人注册号未取 → 部分坐实；表内：宇航的工业 FS、MC 好几个外壳、SFP，**自己的 logo 和型号**；17 推 0 回 + 退信；Simon 曾判不行",
+   "iso": "US",
+   "fetched": "2026-10-29",
+   "source": "US · 1 次检索：zoominfo（Quakertown 地址 / 电话 / 11–50）+ crunchbase（1–10）；PA 登记号未取；2026-10-29",
+   "url": "https://www.zoominfo.com/c/cables-n-more/15567269",
+   "number": "未取（PA 登记号未查）",
+   "status": "营业中（名录）",
+   "incorporated": "未取",
+   "company_type": "LLC / Inc.（推定）",
+   "sic": [
+    "线缆 / 网络设备网店 + 自有 logo 贴牌（宾州）"
+   ],
+   "address": "550 Commerce Dr, Quakertown, PA 18951",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（1–50）",
+   "officers": [
+    "（customerservice@cablesnmore.com / info@tlnetworx.com 表内；具名 KP 未取 → LinkedIn 找 owner）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有 logo 型号 + 进口宇航 → OEM 30%：找 owner 后一页纸一次（STC-110XGE MC + STI-154GP 工业 + 丝印 / 彩盒 MOQ + 付费样机）— 北美常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳 / DAP（买方清关）；周三 08–10 当地**；Simon 可否决"
+   ],
+   "notes": "OEM 30%；P 池候选 ○（自有 logo 贴牌 + 进口经验；小型、退信待换地址）；部分坐实；Simon 曾判不行。",
+   "code": "SC-2993"
+  },
+  "SC-503": {
+   "batch": 126,
+   "name": "LUTZE Inc.（lutze.com；**PitchBook / BounceWatch / Wiza：13330 South Ridge Drive, Charlotte NC 28273；1982 / 1989 创立；73–77 人；Friedrich Lütze GmbH（德国 Weinstadt）北美总部；工业线缆 / 电源 / 断路器 / 网络产品；总裁 Juergen Seybold、北美销售总监 Brad Meeks、业务发展经理 Ray Eksir；经授权分销商销售**）；表内：工业 FS 自己的 PVC 膜和编号（自有品牌贴牌）；sgregson@ 具名；11 推 0 回；表内标「体量过大」",
+   "iso": "US",
+   "fetched": "2026-10-29",
+   "source": "US · 1 次检索：pitchbook（Charlotte；73 人；1989）+ bouncewatch（77 人；1982；北美总部）+ wiza（高管名单）；NC SoS 未取；2026-10-29",
+   "url": "https://pitchbook.com/profiles/company/120730-78",
+   "number": "未取（NC SoS 未查）",
+   "status": "营业中（2025 名录）",
+   "incorporated": "1982（美国公司）",
+   "company_type": "Inc.（德国 Lütze 集团子公司）",
+   "sic": [
+    "工业自动化连接 / 控制产品制造 + 自有品牌网络产品"
+   ],
+   "address": "13330 South Ridge Drive, Charlotte, NC 28273",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（73–77；集团约 500）",
+   "officers": [
+    "Juergen Seybold — President",
+    "Brad Meeks — Director of Sales, North America",
+    "Ray Eksir — Business Development Manager",
+    "sgregson@lutze.com（表内具名；职务未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌工业交换机（贴牌）→ OEM 30%：点名产品 / 采购 KP 一页纸一次（STI-154GP / STI-288GPM / STI-488DGGPM 工业线对标 + 丝印 PVC 膜 MOQ + 付费样机；集团采购在德国 → 同时核 Weinstadt 总部）— 北美常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳 / DAP（买方清关）；周三 08–10 当地**"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（品牌商自有工业线 = 目标顺位 1；中型非巨头）；坐实（名录三源一致）。",
+   "code": "SC-503"
   }
  }
 }

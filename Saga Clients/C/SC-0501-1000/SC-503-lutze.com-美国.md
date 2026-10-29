@@ -2,7 +2,7 @@
 
 > **评级 C**　|　美国　|　档案编号 `SC-503`　|　优先级 —　|　状态：已推送 11 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：美国 Lütze Inc.（lutze.com；工业 FS 自己的 PVC 膜和编号 = 自有品牌贴牌；德系工业集团美国公司，表内「体量过大」）：美国主区 + 自有品牌 ✔ + 对位 ✔；11 推 0 回 → 闸 2 查底数（OEM 对象；体量偏大非巨头）　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 品牌商 · OEM 30%：LUTZE Inc.（Charlotte NC；73–77 人；德国 Lütze 集团北美总部；自有品牌工业交换机贴牌）坐实；OEM ✔ 主区 ✔ 对位 ✔ 体量 ✔ → P 池候选（同步核德国总部采购）　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 11 次（2025-02-19 → 2025-11-06）　|　**所在清单**：A优质名单(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-503
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 20
 country: 美国
 region: 北美
@@ -39,6 +39,32 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STI-288DGGPM（工业 L2+ 8 PoE + 2×2.5G SFP）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `lutze.com` → Proofpoint 企业网关（MX：mx1-us1.ppe-hosted.com、mx2-us1.ppe-hosted.com）。企业级邮件网关（Proofpoint 企业网关）：链接重写 + 附件沙箱 → 像素失效、附件常被隔离，冷邮件到达率最低；这户靠回原线程 / LinkedIn / 对方来信，不靠新开线程群发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 126 批（US · 1 次检索：pitchbook（Charlotte；73 人；1989）+ bouncewatch（77 人；1982；北美总部）+ wiza（高管名单）；NC SoS 未取；2026-10-29，2026-10-29 查；https://pitchbook.com/profiles/company/120730-78）：**
+
+- 法定名 / 登记号：LUTZE Inc.（lutze.com；**PitchBook / BounceWatch / Wiza：13330 South Ridge Drive, Charlotte NC 28273；1982 / 1989 创立；73–77 人；Friedrich Lütze GmbH（德国 Weinstadt）北美总部；工业线缆 / 电源 / 断路器 / 网络产品；总裁 Juergen Seybold、北美销售总监 Brad Meeks、业务发展经理 Ray Eksir；经授权分销商销售**）；表内：工业 FS 自己的 PVC 膜和编号（自有品牌贴牌）；sgregson@ 具名；11 推 0 回；表内标「体量过大」 · 未取（NC SoS 未查） · 状态 **营业中（2025 名录）** · 成立 1982（美国公司） · Inc.（德国 Lütze 集团子公司）
+- 行业码 / 经营范围：工业自动化连接 / 控制产品制造 + 自有品牌网络产品
+- 注册地址：13330 South Ridge Drive, Charlotte, NC 28273
+- 规模档：中型（73–77；集团约 500）
+- 账目：未取；—
+- 高管：Juergen Seybold — President
+- 高管：Brad Meeks — Director of Sales, North America
+- 高管：Ray Eksir — Business Development Manager
+- 高管：sgregson@lutze.com（表内具名；职务未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自有品牌工业交换机（贴牌）→ OEM 30%：点名产品 / 采购 KP 一页纸一次（STI-154GP / STI-288GPM / STI-488DGGPM 工业线对标 + 丝印 PVC 膜 MOQ + 付费样机；集团采购在德国 → 同时核 Weinstadt 总部）— 北美常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳 / DAP（买方清关）；周三 08–10 当地**
+- 备注：OEM 30%；P 池候选 ★（品牌商自有工业线 = 目标顺位 1；中型非巨头）；坐实（名录三源一致）。
 
 ## 基本事实（事实/推断/假设分层）
 

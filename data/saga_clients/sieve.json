@@ -3,10 +3,10 @@
   "updated": "2026-10-29",
   "rules": "docs/C池三闸筛选_方案_2026-10-29.md §2",
   "counts": {
-   "keep_C": 974,
+   "keep_C": 977,
    "pass_final": 191,
-   "pool_candidate": 36,
-   "candidate": 62
+   "pool_candidate": 61,
+   "candidate": 34
   },
   "n": 1263
  },
@@ -6092,13 +6092,18 @@
   ]
  },
  "SC-2255": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "美国 PoE Texas（poetexas.com；在亚马逊上卖 Utepo 商业 PoE）：美国主区 + 已进口中国同类品牌 + 对位 ✔；8 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 自有品牌 · OEM 30%：PoE Texas（Austin 2011；约 10 人；自有 PoE 配件线；CEO tandrews@ / CTO jherbst@ 都在表）部分坐实（州号未取）；自有品牌 ✔ 进口 Utepo ✔ 主区 ✔ 决策人直达 ✔ → P 池候选；Simon 曾判不行，可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-07"
+  "batch": "G2-126",
+  "g1_batch": "G1-07",
+  "g1_reason": "美国 PoE Texas（poetexas.com；在亚马逊上卖 Utepo 商业 PoE）：美国主区 + 已进口中国同类品牌 + 对位 ✔；8 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决",
+  "tags": [
+   "oem_target"
+  ]
  },
  "SC-2256": {
   "verdict": "candidate",
@@ -6140,13 +6145,15 @@
   "batch": "G1-07"
  },
  "SC-2262": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "德国 1st-embedded / supersrv.de（ISON 的，少量工业电口）：德国主区 + 已进口中国工业品牌；3 推 0 回 → 闸 2 查底数，低优先；Simon 曾判不行 → 可按编号否决",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 集成 + 分销 20%：1ST-embedded GmbH（Neu Wulmstorf 2010；CEO Sven Trommer = 表内邮箱）部分坐实（HRB 未取）；决策人直达 ✔ 进口 ISON ✔ 主区 ✔ 对位 ✔ → P 池候选；Simon 曾判不行，可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-07"
+  "batch": "G2-126",
+  "g1_batch": "G1-07",
+  "g1_reason": "德国 1st-embedded / supersrv.de（ISON 的，少量工业电口）：德国主区 + 已进口中国工业品牌；3 推 0 回 → 闸 2 查底数，低优先；Simon 曾判不行 → 可按编号否决"
  },
  "SC-2263": {
   "verdict": "keep_C",
@@ -6622,13 +6629,18 @@
   "batch": "G1-07"
  },
  "SC-2383": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "英国 3G Router Store（商业 PoE 主要是洪瑞的）：英国主区 + 已进口同供应链产品 + 对位 ✔；18 推 0 回 → 闸 2 查底数；洪瑞现供客户 → Q-33 口径待 Simon（默认只推 SmartByte / Marvell 管理 + 工业线）；Simon 曾判不行 → 可按编号否决",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 自有品牌 · OEM 30%：3G Router Store = Westlake / Millbeck Communications（Romford；2002；2–10 人；自有品牌 Proroute 路由 / Fullband 天线）部分坐实；OEM ✔ 进口洪瑞 ✔ 主区 ✔ 对位 ✔ → P 池候选；Q-33 口径；Simon 曾判不行，可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-07"
+  "batch": "G2-126",
+  "g1_batch": "G1-07",
+  "g1_reason": "英国 3G Router Store（商业 PoE 主要是洪瑞的）：英国主区 + 已进口同供应链产品 + 对位 ✔；18 推 0 回 → 闸 2 查底数；洪瑞现供客户 → Q-33 口径待 Simon（默认只推 SmartByte / Marvell 管理 + 工业线）；Simon 曾判不行 → 可按编号否决",
+  "tags": [
+   "oem_target"
+  ]
  },
  "SC-2384": {
   "verdict": "keep_C",
@@ -6799,13 +6811,15 @@
   "batch": "G1-03"
  },
  "SC-2402": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "美国 Siseg USA（Utepo 的商业 PoE）：美国主区 + 已进口中国同类品牌 + 对位 ✔；19 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "△ 观察档 · 分销 20%：SISEGUSA = Sistemas de Seguridad S.A.（厄瓜多尔 Guayaquil 安防批发 + 迈阿密 LLC）→ 国别纠偏 美国 → 厄瓜多尔；进口 Utepo ✔ 对位 ✔ 坐实 ✔ 但区域外 → 入池观察档；Simon 曾判不行，可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-07"
+  "batch": "G2-126",
+  "g1_batch": "G1-07",
+  "g1_reason": "美国 Siseg USA（Utepo 的商业 PoE）：美国主区 + 已进口中国同类品牌 + 对位 ✔；19 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决"
  },
  "SC-2403": {
   "verdict": "keep_C",
@@ -6868,13 +6882,15 @@
   "batch": "G1-04"
  },
  "SC-2418": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "加拿大 / 美国 Streakwave（卖很多牌子：商业 PoE / 工业 FS / SFP；北美无线 + 网络大分销）：北美主区 + 分销主体 + 对位 ✔；1 推 0 回 → 闸 2 查底数（体量偏大）；Simon 曾判不行 → 可按编号否决",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 中型分销 20%：Streakwave Wireless, Inc.（San Jose 总部 + 4 分仓；无线 / 安防 / 网络增值分销）部分坐实；国别纠偏 加拿大 → 美国；对位 ✔ 主区 ✔ 体量 ✔ 坐实 ✔ → P 池候选（长线）；Simon 曾判不行，可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-07",
+  "batch": "G2-126",
+  "g1_batch": "G1-07",
+  "g1_reason": "加拿大 / 美国 Streakwave（卖很多牌子：商业 PoE / 工业 FS / SFP；北美无线 + 网络大分销）：北美主区 + 分销主体 + 对位 ✔；1 推 0 回 → 闸 2 查底数（体量偏大）；Simon 曾判不行 → 可按编号否决",
   "tags": [
    "dayjob_fit"
   ]
@@ -6934,13 +6950,15 @@
   ]
  },
  "SC-2429": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "美国 Epcom（El Paso；Syscom 美方；约 100 人；PLANET 商用 + 工业两线备货、Wi-Tek 在用；研究档对位 STC-424DGGM）：美国主区 + 分销主体 + 对位 ✔；8 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 中型分销 20%：El Paso Communication Systems, Inc. — EPCOM（1987；95 人；$23.7M；三仓；PLANET 双线在售；purchasing@ 在表）坐实；对位 ✔ 主区 ✔ 体量 ✔ 坐实 ✔ → P 池候选；Simon 曾判不行，可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-07"
+  "batch": "G2-126",
+  "g1_batch": "G1-07",
+  "g1_reason": "美国 Epcom（El Paso；Syscom 美方；约 100 人；PLANET 商用 + 工业两线备货、Wi-Tek 在用；研究档对位 STC-424DGGM）：美国主区 + 分销主体 + 对位 ✔；8 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决"
  },
  "SC-243": {
   "verdict": "keep_C",
@@ -7341,13 +7359,15 @@
   "batch": "G1-04"
  },
  "SC-2488": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "德国 fiber24.net（光路 / Planet 的 / 工业 FS 很多牌子）：德国主区 + 多品牌分销 + 对位 ✔；8 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 分销 20%：Fiber24 GmbH（HRB 104376 Hamburg；2008；RIK Holding 控制；Planet 在售）坐实；分销 ✔ 主区 ✔ 坐实 ✔ 对位 ✔ = 冷户四条 → P 池候选；Simon 曾判不行，可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-07",
+  "batch": "G2-126",
+  "g1_batch": "G1-07",
+  "g1_reason": "德国 fiber24.net（光路 / Planet 的 / 工业 FS 很多牌子）：德国主区 + 多品牌分销 + 对位 ✔；8 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决",
   "tags": [
    "dayjob_fit"
   ]
@@ -7576,13 +7596,18 @@
   "date": "2026-10-29"
  },
  "SC-2542": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "美国 Grid Connect, Inc.（Naperville IL；Atop 的；表内完整地址 + 直线电话）：美国主区 + 工业网络分销主体（Atop 等）+ 对位 ✔；互动过 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 自有品牌 + 白标 · OEM 30%：Grid Connect, Inc.（Naperville 2002；25 人；ISO 9001；分销 + GRID 自有产品 + 白标 / 定制 IoT；CEO Adam Justice）坐实；OEM ✔ 主区 ✔ 对位 ✔ 互动过 ✔ → P 池候选；Simon 曾判不行，可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-07"
+  "batch": "G2-126",
+  "g1_batch": "G1-07",
+  "g1_reason": "美国 Grid Connect, Inc.（Naperville IL；Atop 的；表内完整地址 + 直线电话）：美国主区 + 工业网络分销主体（Atop 等）+ 对位 ✔；互动过 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决",
+  "tags": [
+   "oem_target"
+  ]
  },
  "SC-2543": {
   "verdict": "keep_C",
@@ -7853,13 +7878,15 @@
   "batch": "G1-04"
  },
  "SC-2597": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "美国 cctv.supplies / cctv.nyc（商业 PoE 主要是洪瑞的）：美国主区 + 已进口同供应链产品 + 对位 ✔；20 推 0 回 → 闸 2 查底数；洪瑞现供客户 → Q-33 口径待 Simon（默认只推 SmartByte / Marvell 管理 + 工业线）；Simon 曾判不行 → 可按编号否决",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "△ 观察档 · 分销 20%：Urban Security Group（布鲁克林家族 CCTV 批零 40+ 年）部分坐实；进口洪瑞 ✔ 主区 ✔ 对位 ✔ 微型 → 入池观察档；Q-33 口径；Simon 曾判不行，可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-07"
+  "batch": "G2-126",
+  "g1_batch": "G1-07",
+  "g1_reason": "美国 cctv.supplies / cctv.nyc（商业 PoE 主要是洪瑞的）：美国主区 + 已进口同供应链产品 + 对位 ✔；20 推 0 回 → 闸 2 查底数；洪瑞现供客户 → Q-33 口径待 Simon（默认只推 SmartByte / Marvell 管理 + 工业线）；Simon 曾判不行 → 可按编号否决"
  },
  "SC-2598": {
   "verdict": "pool_candidate",
@@ -7942,22 +7969,26 @@
   "batch": "G1-07"
  },
  "SC-2606": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "美国 Logicbus（Atop / 三旺 3onedata 工业 FS 电口）：美国主区 + 已进口中国工业品牌 + 对位 ✔；20 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 工业分销 20%：Logicbus, Inc.（Chula Vista 2001；40 人；美墨双边；Daniel Flores 墨西哥分公司经理 = 表内邮箱；有采购专员）坐实；进口 Atop / 三旺 ✔ 主区 ✔ 对位 ✔ 具名 KP ✔ → P 池候选；Simon 曾判不行，可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-07"
+  "batch": "G2-126",
+  "g1_batch": "G1-07",
+  "g1_reason": "美国 Logicbus（Atop / 三旺 3onedata 工业 FS 电口）：美国主区 + 已进口中国工业品牌 + 对位 ✔；20 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决"
  },
  "SC-2608": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "英国 Mayflex（Sonepar 旗下大型布线 / 安防 / 网络分销，自有品牌 Excel Networking；商业 PoE）：英国主区 + 分销 + 自有品牌 ✔；19 推 0 回 → 闸 2 查底数（体量偏大）；Simon 曾判不行 → 可按编号否决",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "△ 观察档（长线）· OEM 30%：Mayflex（Birmingham 1917；250 人；Sonepar UK 子公司；自有品牌 Excel Networking；Andrew Percival 在表）坐实；OEM ✔ 主区 ✔ 具名 KP ✔ 但巨头采购体系 → 入池长线观察档；Simon 曾判不行，可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-07",
+  "batch": "G2-126",
+  "g1_batch": "G1-07",
+  "g1_reason": "英国 Mayflex（Sonepar 旗下大型布线 / 安防 / 网络分销，自有品牌 Excel Networking；商业 PoE）：英国主区 + 分销 + 自有品牌 ✔；19 推 0 回 → 闸 2 查底数（体量偏大）；Simon 曾判不行 → 可按编号否决",
   "tags": [
    "oem_target"
   ]
@@ -8032,16 +8063,18 @@
   "batch": "G1-07"
  },
  "SC-2619": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "美国 Alantek USA（布线品牌 Alantek 美国站；工业 FS / PoE / MC 周边）：美国主区 + 自有品牌线（推定贴牌）→ 闸 2 查底数核自有品牌，低优先；Simon 曾判不行 → 可按编号否决",
+  "verdict": "keep_C",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "闸 2 查实：Alantek Communications（新加坡 Pte Ltd 运营的布线品牌，休斯敦联络地址；1–10 人；以无源为主）→ 微型品牌壳，回 C 储备",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-07",
+  "batch": "G2-126",
+  "g1_batch": "G1-07",
+  "g1_reason": "美国 Alantek USA（布线品牌 Alantek 美国站；工业 FS / PoE / MC 周边）：美国主区 + 自有品牌线（推定贴牌）→ 闸 2 查底数核自有品牌，低优先；Simon 曾判不行 → 可按编号否决",
   "tags": [
-   "oem_target",
-   "dayjob_fit"
+   "dayjob_fit",
+   "oem_target"
   ]
  },
  "SC-262": {
@@ -8063,13 +8096,15 @@
   "batch": "G1-07"
  },
  "SC-2622": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "美国 cctvvideo.com（VC / SFP / 工业 FS，有 e-link 的）：美国主区 + 已进口中国品牌 e-link；→ 闸 2 查底数，低优先；Simon 曾判不行 → 可按编号否决",
+  "verdict": "keep_C",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "闸 2 未坐实：cctvvideo.com 1 查仅返回 e-link 供货商页 + Simon 判不行 → 回 C 储备",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-07",
+  "batch": "G2-126",
+  "g1_batch": "G1-07",
+  "g1_reason": "美国 cctvvideo.com（VC / SFP / 工业 FS，有 e-link 的）：美国主区 + 已进口中国品牌 e-link；→ 闸 2 查底数，低优先；Simon 曾判不行 → 可按编号否决",
   "tags": [
    "dayjob_fit"
   ]
@@ -8240,15 +8275,18 @@
   "batch": "G1-04"
  },
  "SC-2657": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "美国 Lynn Electronics（MC / switch / SFP，从 VOLKTEK 买 MC）：美国主区 + 进口经验（台湾 Volktek）+ 自有品牌连接产品 → 闸 2 查底数；11 推 0 回；Simon 曾判不行 → 可按编号否决",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 自有品牌 · OEM 30%：Lynn Electronics Corporation（Ivyland PA 1964；$18.6M；29–108 人；进口 Volktek；Director Data Center Solutions 在职）坐实；自有品牌 ✔ 进口经验 ✔ 主区 ✔ 体量 ✔ → P 池候选（DC 线可提 CENTEC）；Simon 曾判不行，可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-07",
+  "batch": "G2-126",
+  "g1_batch": "G1-07",
+  "g1_reason": "美国 Lynn Electronics（MC / switch / SFP，从 VOLKTEK 买 MC）：美国主区 + 进口经验（台湾 Volktek）+ 自有品牌连接产品 → 闸 2 查底数；11 推 0 回；Simon 曾判不行 → 可按编号否决",
   "tags": [
-   "dayjob_fit"
+   "dayjob_fit",
+   "oem_target"
   ]
  },
  "SC-2658": {
@@ -8703,13 +8741,15 @@
   ]
  },
  "SC-2728": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "英国 Blue Helix（主要卖 AMG / Comnet 工业以太网）：英国主区 + 工业网络分销主体 + 对位 ✔；19 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "△ 观察档 · 分销 20%：Blue Helix Limited（CH 04836349；AMG / ComNet / D-Link 分销；28 人）部分坐实，名录标 SIC 99999 休眠 vs 官网在营 → 法人待 CH 直查；分销 ✔ 主区 ✔ 对位 ✔ → 入池观察档 + 预付；Simon 曾判不行，可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-07"
+  "batch": "G2-126",
+  "g1_batch": "G1-07",
+  "g1_reason": "英国 Blue Helix（主要卖 AMG / Comnet 工业以太网）：英国主区 + 工业网络分销主体 + 对位 ✔；19 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决"
  },
  "SC-273": {
   "verdict": "keep_C",
@@ -8920,13 +8960,15 @@
   "batch": "G1-04"
  },
  "SC-276": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "波兰 Assmann（ASSMANN / DIGITUS 品牌集团波兰公司；表内「很大的一个公司，由国内较多合作商」）：波兰次主区 + 自有品牌 DIGITUS（贴牌中国）→ 闸 2 查底数（宜同时核德国总部口径）",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 品牌商 · OEM 30%：ASSMANN Distribution Sp. z o.o.（Warszawa；NIP 8951883569；ASSMANN Group / DIGITUS 波兰分销公司）坐实；OEM ✔ 波兰 ✔ 对位 ✔ 体量 ✔ → P 池候选（同步找德国总部产品管理）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-07",
+  "batch": "G2-126",
+  "g1_batch": "G1-07",
+  "g1_reason": "波兰 Assmann（ASSMANN / DIGITUS 品牌集团波兰公司；表内「很大的一个公司，由国内较多合作商」）：波兰次主区 + 自有品牌 DIGITUS（贴牌中国）→ 闸 2 查底数（宜同时核德国总部口径）",
   "tags": [
    "oem_target"
   ]
@@ -9077,13 +9119,15 @@
   ]
  },
  "SC-2802": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "英国 Euro Security Solutions Ltd（展会：很在意 AC/DC 输入、问 VC 用法、要 full info、想拿样；邮件退信）：英国主区 + 样品意向 + 对位 ✔ → 闸 2 查底数 + 找新地址，低优先；Simon 曾判不行 → 可按编号否决",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "△ 观察档 · 集成商 25%：Euro Security Solutions Limited（CH 11094000；2017；伦敦；微型）坐实；样品意向 ✔ 主区 ✔ 对位 ✔ → 入池观察档（退信 → 走表内 WA）+ 预付",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-07",
+  "batch": "G2-126",
+  "g1_batch": "G1-07",
+  "g1_reason": "英国 Euro Security Solutions Ltd（展会：很在意 AC/DC 输入、问 VC 用法、要 full info、想拿样；邮件退信）：英国主区 + 样品意向 + 对位 ✔ → 闸 2 查底数 + 找新地址，低优先；Simon 曾判不行 → 可按编号否决",
   "tags": [
    "dayjob_fit"
   ]
@@ -9120,13 +9164,15 @@
   "batch": "G1-02"
  },
  "SC-2809": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "英国 Ogar Technology（商业 PoE 看着像 ONV 的；退信）：英国主区 + 疑似进口中国品牌 + 对位 ✔；17 推 0 回 → 闸 2 查底数 + 找新地址，低优先；Simon 曾判不行 → 可按编号否决",
+  "verdict": "keep_C",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "闸 2 红旗：Ogar Technology Limited（伦敦虚拟办公室地址；4 人；主销尼日利亚；美国壳 LLC）→ 不动，回 C 储备",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-07"
+  "batch": "G2-126",
+  "g1_batch": "G1-07",
+  "g1_reason": "英国 Ogar Technology（商业 PoE 看着像 ONV 的；退信）：英国主区 + 疑似进口中国品牌 + 对位 ✔；17 推 0 回 → 闸 2 查底数 + 找新地址，低优先；Simon 曾判不行 → 可按编号否决"
  },
  "SC-2813": {
   "verdict": "keep_C",
@@ -9226,16 +9272,18 @@
   ]
  },
  "SC-2834": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "波兰 Dipol（大型安防 / 光纤 / 网络分销，自有品牌 Ultipower 等；IFSEC 参展；VC / MC / SFP / 工业 FS）：波兰次主区 + 分销 + 自有品牌 ✔ → 闸 2 查底数；Simon 曾判不行 → 可按编号否决",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 自有品牌 · OEM 30%：DIPOL Sp. j.（Kraków 1990；KRS 0000094703；自有品牌 Signal / Ultimax / Ultipower；全国分部）坐实；OEM ✔ 波兰 ✔ 体量 ✔ 对位 ✔ → P 池候选；Simon 曾判不行，可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-07",
+  "batch": "G2-126",
+  "g1_batch": "G1-07",
+  "g1_reason": "波兰 Dipol（大型安防 / 光纤 / 网络分销，自有品牌 Ultipower 等；IFSEC 参展；VC / MC / SFP / 工业 FS）：波兰次主区 + 分销 + 自有品牌 ✔ → 闸 2 查底数；Simon 曾判不行 → 可按编号否决",
   "tags": [
-   "oem_target",
-   "dayjob_fit"
+   "dayjob_fit",
+   "oem_target"
   ]
  },
  "SC-2835": {
@@ -9246,13 +9294,15 @@
   "date": "2026-10-29"
  },
  "SC-284": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "美国 DCB（Data Comm for Business；有自己一套型号、产品多、「感觉还行」）：美国主区 + 自有品牌网络设备（推定部分贴牌）→ 闸 2 查底数；19 推 0 回",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "△ 观察档 · OEM 30%：Data Comm for Business, Inc.（Dewey IL 1981；SAM.gov UEI YX2BCLJKZ456 有效至 2027；自研数据通信设备；联邦交通客户）坐实；自有型号 ✔ 主区 ✔ 对位 ✔ 但联邦 TAA 门槛 → 入池观察档",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-07",
+  "batch": "G2-126",
+  "g1_batch": "G1-07",
+  "g1_reason": "美国 DCB（Data Comm for Business；有自己一套型号、产品多、「感觉还行」）：美国主区 + 自有品牌网络设备（推定部分贴牌）→ 闸 2 查底数；19 推 0 回",
   "tags": [
    "oem_target"
   ]
@@ -9719,13 +9769,15 @@
   ]
  },
  "SC-2943": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "波兰 Extralink（extralink24.com / .eu；自有品牌 Extralink：国内外壳 switch / PoE 配件 / PON，「有人在卖他们的」= 品牌已铺渠道）：波兰次主区 + 自有品牌贴牌 ✔ → 闸 2 查底数（OEM 对象）；退信 → 找新地址；Simon 曾判不行 → 可按编号否决",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 自有品牌 · OEM 30%：Batna Sp. z o.o. — Extralink（Częstochowa；KRS 0001003926；20+ 年；x-kom / Neonet 渠道；Ekstraklasa 赞助）坐实；OEM ✔ 波兰 ✔ 体量 ✔ 对位 ✔ → P 池候选（退信 → 找产品经理）；Simon 曾判不行，可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-08",
+  "batch": "G2-126",
+  "g1_batch": "G1-08",
+  "g1_reason": "波兰 Extralink（extralink24.com / .eu；自有品牌 Extralink：国内外壳 switch / PoE 配件 / PON，「有人在卖他们的」= 品牌已铺渠道）：波兰次主区 + 自有品牌贴牌 ✔ → 闸 2 查底数（OEM 对象）；退信 → 找新地址；Simon 曾判不行 → 可按编号否决",
   "tags": [
    "oem_target"
   ]
@@ -9830,13 +9882,18 @@
   ]
  },
  "SC-2954": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "英国 Videcon（videcon.co.uk；CCTV 分销为主、有商业 PoE；疑有自有品牌线，闸 2 核）：英国主区 + 分销主体 + 对位 ✔；退信 → 闸 2 查底数 + 找新地址，低优先；Simon 曾判不行 → 可按编号否决",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 自有品牌 · OEM 30%：Videcon Ltd（Heckmondwike 1995；£36.27M；150 人；自有品牌 Concept Pro；trade-only 分销）坐实；OEM ✔ 主区 ✔ 体量 ✔ 对位 ✔ → P 池候选（退信 → 找产品经理）；Simon 曾判不行，可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-08"
+  "batch": "G2-126",
+  "g1_batch": "G1-08",
+  "g1_reason": "英国 Videcon（videcon.co.uk；CCTV 分销为主、有商业 PoE；疑有自有品牌线，闸 2 核）：英国主区 + 分销主体 + 对位 ✔；退信 → 闸 2 查底数 + 找新地址，低优先；Simon 曾判不行 → 可按编号否决",
+  "tags": [
+   "oem_target"
+  ]
  },
  "SC-2955": {
   "verdict": "candidate",
@@ -9937,13 +9994,18 @@
   ]
  },
  "SC-2976": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "英国 Blake UK（blake-uk.com；CCTV / networking / fiber 销售平台 = 英国天线 / 安防大分销）：英国主区 + 分销主体 + 对位 ✔ → 闸 2 查底数，低优先；Simon 曾判不行 → 可按编号否决",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 进口商 + 自有品牌 · 分销 20% / OEM 30%：Blake UK Ltd（Sheffield 1971；20–24 人；£2.2M；天线制造 + 进口商；MD Paul Blake）部分坐实；进口 ✔ 自有品牌 ✔ 主区 ✔ 对位 ✔ → P 池候选；Simon 曾判不行，可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-08"
+  "batch": "G2-126",
+  "g1_batch": "G1-08",
+  "g1_reason": "英国 Blake UK（blake-uk.com；CCTV / networking / fiber 销售平台 = 英国天线 / 安防大分销）：英国主区 + 分销主体 + 对位 ✔ → 闸 2 查底数，低优先；Simon 曾判不行 → 可按编号否决",
+  "tags": [
+   "oem_target"
+  ]
  },
  "SC-2983": {
   "verdict": "keep_C",
@@ -9955,16 +10017,18 @@
   "batch": "G1-04"
  },
  "SC-2993": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "美国 Cables N More / TL Networx（cablesnmore.com / tlnetworx.com；宇航的工业 FS、MC 好几个外壳、SFP，**自己的 logo 和型号**）：美国主区 + 自有品牌贴牌 ✔ + 已进口中国品牌 ✔；17 推 0 回 + 退信 → 闸 2 查底数 + 找新地址；Simon 曾判不行 → 可按编号否决",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 自有 logo 贴牌 · OEM 30%：Cables N More（Quakertown PA；1–50 人；自己的 logo 和型号；进口宇航）部分坐实；OEM ✔ 进口经验 ✔ 主区 ✔ 对位 ✔ → P 池候选（退信 → 找 owner 新地址）；Simon 曾判不行，可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-08",
+  "batch": "G2-126",
+  "g1_batch": "G1-08",
+  "g1_reason": "美国 Cables N More / TL Networx（cablesnmore.com / tlnetworx.com；宇航的工业 FS、MC 好几个外壳、SFP，**自己的 logo 和型号**）：美国主区 + 自有品牌贴牌 ✔ + 已进口中国品牌 ✔；17 推 0 回 + 退信 → 闸 2 查底数 + 找新地址；Simon 曾判不行 → 可按编号否决",
   "tags": [
-   "oem_target",
-   "dayjob_fit"
+   "dayjob_fit",
+   "oem_target"
   ]
  },
  "SC-2995": {
@@ -10029,13 +10093,15 @@
   "date": "2026-10-29"
  },
  "SC-3023": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "波兰 Nettrans（nettrans.pl；工业 FS：国内 3C Link / ONV 的）：波兰次主区 + 已进口中国同类品牌 + 对位 ✔；退信 → 闸 2 查底数 + 找新地址；Simon 曾判不行 → 可按编号否决",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "△ 观察档 · 分销 20%：NetTrans Jarosław Żydek（Lublin 个体；NIP 712-239-07-96；进口 3C Link / ONV）坐实；进口 ✔ 波兰 ✔ 坐实 ✔ 对位 ✔ 但个体微型 → 入池观察档 + 预付；Simon 曾判不行，可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-08"
+  "batch": "G2-126",
+  "g1_batch": "G1-08",
+  "g1_reason": "波兰 Nettrans（nettrans.pl；工业 FS：国内 3C Link / ONV 的）：波兰次主区 + 已进口中国同类品牌 + 对位 ✔；退信 → 闸 2 查底数 + 找新地址；Simon 曾判不行 → 可按编号否决"
  },
  "SC-3024": {
   "verdict": "keep_C",
@@ -11200,13 +11266,15 @@
   "date": "2026-10-29"
  },
  "SC-331": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "英国 Industrial Comms（industrialcomms.com；bypass / 工业 FS 基本是研华的 = 工业网络分销）：英国主区 + 分销主体 + 对位 ✔；名单内未触达 → 闸 2 查底数，低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 工业分销 20%：Industrial Communication Products Ltd（Toddington 2008；Advantech / INSYS 英国分销；铁路占比高）部分坐实；分销 ✔ 进口台湾品牌 ✔ 主区 ✔ 对位 ✔ = 冷户四条 → P 池候选；守界：只做非轨交场景",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-08"
+  "batch": "G2-126",
+  "g1_batch": "G1-08",
+  "g1_reason": "英国 Industrial Comms（industrialcomms.com；bypass / 工业 FS 基本是研华的 = 工业网络分销）：英国主区 + 分销主体 + 对位 ✔；名单内未触达 → 闸 2 查底数，低优先"
  },
  "SC-3312": {
   "verdict": "pass_final",
@@ -12007,13 +12075,18 @@
   ]
  },
  "SC-364": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "德国 EasyWind GmbH（easywind.org；阿里巴巴 RTS 成单：4 台 1 光 4 电小壳非 PoE）：德国主区 + 成单 ✔ + 对位 ✔ ≥2 条；WA 加不上 → 闸 2 查底数 + 回访",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "△ 观察档 · 成单回访：EasyWind GmbH（Enge-Sande；小型风机制造商；RTS 成单 4 台 MC 自用）坐实；成单 ✔ 主区 ✔ 对位 ✔ ≥2 条 → 入池观察档，复购体量低 → Simon 定",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-08"
+  "batch": "G2-126",
+  "g1_batch": "G1-08",
+  "g1_reason": "德国 EasyWind GmbH（easywind.org；阿里巴巴 RTS 成单：4 台 1 光 4 电小壳非 PoE）：德国主区 + 成单 ✔ + 对位 ✔ ≥2 条；WA 加不上 → 闸 2 查底数 + 回访",
+  "tags": [
+   "dayjob_fit"
+  ]
  },
  "SC-365": {
   "verdict": "keep_C",
@@ -12327,13 +12400,15 @@
   "batch": "G1-08"
  },
  "SC-503": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "美国 Lütze Inc.（lutze.com；工业 FS 自己的 PVC 膜和编号 = 自有品牌贴牌；德系工业集团美国公司，表内「体量过大」）：美国主区 + 自有品牌 ✔ + 对位 ✔；11 推 0 回 → 闸 2 查底数（OEM 对象；体量偏大非巨头）",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 品牌商 · OEM 30%：LUTZE Inc.（Charlotte NC；73–77 人；德国 Lütze 集团北美总部；自有品牌工业交换机贴牌）坐实；OEM ✔ 主区 ✔ 对位 ✔ 体量 ✔ → P 池候选（同步核德国总部采购）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-08",
+  "batch": "G2-126",
+  "g1_batch": "G1-08",
+  "g1_reason": "美国 Lütze Inc.（lutze.com；工业 FS 自己的 PVC 膜和编号 = 自有品牌贴牌；德系工业集团美国公司，表内「体量过大」）：美国主区 + 自有品牌 ✔ + 对位 ✔；11 推 0 回 → 闸 2 查底数（OEM 对象；体量偏大非巨头）",
   "tags": [
    "oem_target"
   ]

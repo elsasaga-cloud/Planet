@@ -4,7 +4,7 @@
   "source": "Germany · Handelsregister / Northdata（登记摘要）",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 75
+  "count": 78
  },
  "rows": {
   "SA-008": {
@@ -2546,6 +2546,98 @@
    ],
    "notes": "OEM 30%；P 池候选 ★（数量询盘 + 自有品牌）；部分坐实。",
    "code": "SC-683"
+  },
+  "SC-2262": {
+   "batch": 126,
+   "name": "1ST-embedded GmbH（1st-embedded.com / supersrv.de；**官网 company 页：2010 年 7 月成立；Neu Wulmstorf（汉堡都市圈）；CEO Sven Trommer（Dipl.-Ing.；= 表内 sven.trommer@）；嵌入式 PC / 5G 路由 / 交换机 / 网关 / 网络安全 / 光电器件的系统集成商 + 分销商；+49 40 7003550；info@1ST-embedded.com**）；HRB 未取；表内：ISON 的，少量工业电口；3 推 0 回；Simon 曾判不行",
+   "iso": "DE",
+   "fetched": "2026-10-29",
+   "source": "DE · 1 次检索：v22018035980363305.supersrv.de/company（2010-07；Neu Wulmstorf；Sven Trommer CEO；+49 40 7003550）；HRB 未取；2026-10-29",
+   "url": "https://v22018035980363305.supersrv.de/company",
+   "number": "未取（HRB 1 查未得）",
+   "status": "营业中（官网 + 网店在线）",
+   "incorporated": "2010-07",
+   "company_type": "GmbH",
+   "sic": [
+    "嵌入式 / 工业网络系统集成 + 分销（汉堡）"
+   ],
+   "address": "Neu Wulmstorf, Metropolregion Hamburg",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型 / 小型",
+   "officers": [
+    "Sven Trommer — CEO / Geschäftsführer（sven.trommer@1st-embedded.com 表内 = 决策人直达）",
+    "Jelena Dronowa — Head of Digital Media"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**集成 + 分销（已进口 ISON）→ 分销 20%：点名 Sven Trommer 一页纸一次（STI-154GP / STI-280GE 工业电口对标 ISON + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；Simon 可否决"
+   ],
+   "notes": "分销 20%；P 池候选 ○（CEO 邮箱在表 + 进口经验 + 主区；体量小）；部分坐实（HRB 未取）；Simon 曾判不行。",
+   "code": "SC-2262"
+  },
+  "SC-2488": {
+   "batch": 126,
+   "name": "Fiber24 GmbH（fiber24.net；**unternehmen24 / creditreform / webvalid：HRB 104376 Amtsgericht Hamburg；Wandsbeker Königstraße 50, 22041 Hamburg；2008-03-04 登记；股本 €25,000；UID DE259003489；经营范围「电信与网络产品的贸易与销售」；2021-11-11 与 RIK Holding GmbH（Selmsdorf，AG Schwerin HRB 11665）签控制与利润转移协议；2021 年报可查；wirtschaftsaktiv**）；表内：光路 / Planet 的 / 工业 FS 很多牌子；shop@ 表内；8 推 0 回；Simon 曾判不行",
+   "iso": "DE",
+   "fetched": "2026-10-29",
+   "source": "DE · 1 次检索：unternehmen24（HRB 104376；2008；€25,000；DE259003489）+ creditreform（Großhandel IKT；aktiv；2022-05 变更）+ webvalid（RIK Holding 控制协议）；2026-10-29",
+   "url": "https://www.unternehmen24.info/Firmeninformationen/Deutschland/Firma/3123567",
+   "number": "HRB 104376（Hamburg）",
+   "status": "wirtschaftsaktiv（2021 年报已公示）",
+   "incorporated": "2008-03-04",
+   "company_type": "GmbH（RIK Holding GmbH 控制）",
+   "sic": [
+    "ICT / 网络产品批发 + 网店（汉堡）"
+   ],
+   "address": "Wandsbeker Königstraße 50, 22041 Hamburg",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（推定；股本 €25,000）",
+   "officers": [
+    "（shop@fiber24.net 表内 / info@fiber24.net 名录；Geschäftsführer 姓名未取 → handelsregister 待查）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**多品牌网店分销（Planet 在售）→ 分销 20%：一页纸一次（STC-228GP / STC-2224GP 对标 Planet 同口型 + STI 工业 + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；Simon 可否决"
+   ],
+   "notes": "分销 20%；P 池候选 ○（分销主体 + Planet 渠道 + 主区 + 坐实；冷）；坐实（HRB）；Simon 曾判不行；dayjob 线索光路。",
+   "code": "SC-2488"
+  },
+  "SC-364": {
+   "batch": 126,
+   "name": "EasyWind GmbH（easywind.org；**ee-sh.de / wind-turbine-models / bds-sh：Lecker Straße 7（Gebäude 2c），25917 Enge-Sande（GreenTEC Campus）；2008 年起小型风机（6 kW）制造商，全球 300+ 台；+49 4662 88431-0；联系人 Hans-Günter Feddersen**）；HRB 未取；表内：阿里巴巴 RTS 成单 4 台 1 光 4 电小壳非 PoE（风机通信配套）；produktion@ 表内；电话加不上",
+   "iso": "DE",
+   "fetched": "2026-10-29",
+   "source": "DE · 1 次检索：ee-sh.de 能源地图（地址 / 电话 / Feddersen）+ wind-turbine-models（制造商档案）+ bds-sh（2008；300+ 台）；HRB 未取；2026-10-29",
+   "url": "https://ee-sh.de/de/energymap/data/EasyWind-GmbH.php",
+   "number": "未取（HRB 1 查未得）",
+   "status": "营业中（2024 展会参展）",
+   "incorporated": "2008",
+   "company_type": "GmbH",
+   "sic": [
+    "小型风力发电机制造（终端自用网络设备）"
+   ],
+   "address": "Lecker Straße 7, Gebäude 2c, 25917 Enge-Sande",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（推定）",
+   "officers": [
+    "Hans-Günter Feddersen — 联系人（能源地图）",
+    "（produktion@easywind.org 表内 = 成单对接邮箱）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**成单回访（终端自用 25%）：按原单回访一次（同款 MC 复购 + 风机机舱工业级 STI-154GP 升级建议；MOQ 1）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；体量小不加码"
+   ],
+   "notes": "终端自用 25%；P 池候选 △（成单 ✔ 主区 ✔ 对位 ✔；复购体量低 → 观察档，Simon 定）；坐实（法人 + 地址）。",
+   "code": "SC-364"
   }
  }
 }

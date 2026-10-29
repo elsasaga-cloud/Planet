@@ -3,7 +3,7 @@
 
 > **评级 C**　|　美国　|　档案编号 `SC-2429`　|　优先级 —　|　状态：已推送 8 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：美国 Epcom（El Paso；Syscom 美方；约 100 人；PLANET 商用 + 工业两线备货、Wi-Tek 在用；研究档对位 STC-424DGGM）：美国主区 + 分销主体 + 对位 ✔；8 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 中型分销 20%：El Paso Communication Systems, Inc. — EPCOM（1987；95 人；$23.7M；三仓；PLANET 双线在售；purchasing@ 在表）坐实；对位 ✔ 主区 ✔ 体量 ✔ 坐实 ✔ → P 池候选；Simon 曾判不行，可否决
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 8 次（2025-03-12 → 2025-10-21）　|　**所在清单**：A优质名单(US)、AI评估(US)、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -11,7 +11,7 @@
 code: SC-2429
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 rating_research: C  # 用户判定不行/不相关（尊重用户表判断，保留 C）；Planet 渠道档案 PB-066 评 B 仅作参考
 name_official: "El Paso Communication Systems, Inc.（dba EPCOM）"
 score: -19
@@ -42,6 +42,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGM（深挖对位：对位其现货 GS-4210-24T2S（24×GE + 2×SFP，L2+，$353.99 InStock）——分销商现货款说明有周转；Saga 同口数 L2+（上联 4×SFP 更多）EXW $82.5；分销 → 20%（沿用 Planet 档案 PB-066）；需求：）
 - **最大未知**：年走量与现供应商
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `epcom.net` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、alt3.aspmx.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 126 批（US · 1 次检索：buzzfile（1987；Texas；95 人；$23.7M；1630 E Paisano Dr）+ leadiq（三仓；51–200）+ datanyze；TX SoS 号未取；2026-10-29，2026-10-29 查；https://www.buzzfile.com/business/Epcom-915-533-5119）：**
+
+- 法定名 / 登记号：El Paso Communication Systems, Inc. — EPCOM（epcom.net；**buzzfile：1630 E Paisano Dr, El Paso TX 79901；1987 年创立；Texas 公司；本部约 60 人 / 全部 95 人；营收约 $23.7M；进口 + 出口 + 制造；少数族裔企业；LeadIQ：29 年经验、San Antonio / El Paso / Miami 三仓、99% 当日发货、51–200 人**）；表内：PLANET 商用 + 工业两线备货、Wi-Tek 在用；研究档对位 STC-424DGGM；8 推 0 回；Simon 曾判不行 · 未取（TX SoS 号未查；法人名已坐实） · 状态 **营业中** · 成立 1987 · Inc.（Texas）
+- 行业码 / 经营范围：无线电 / 无线网络 / 电子安防分销（Syscom 美方；三仓）
+- 注册地址：1630 E Paisano Dr, El Paso, TX 79901
+- 规模档：中型（95 人；$23.7M）
+- 账目：未取；—
+- 高管：（purchasing@epcom.net 表内 = 采购部直达；sales@ 表内；具名采购 KP 待 LinkedIn）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **PLANET 双线分销 → 分销 20%：点名 purchasing@ 一页纸一次（STC-424DGGM 对标 Planet 同口型 + STI-288GPM 工业 + MOQ 1 + 付费样机）— 北美常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳 / DAP（买方清关）；周三 08–10 当地**；Simon 可否决
+- 备注：分销 20%；P 池候选 ★（中型分销 + Planet 渠道 + 采购邮箱在表）；坐实（法人 + 地址 + 规模）；Simon 曾判不行。
 
 ## 基本事实（事实/推断/假设分层）
 

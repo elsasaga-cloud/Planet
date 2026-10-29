@@ -2,7 +2,7 @@
 
 > **评级 C**　|　英国　|　档案编号 `SC-2809`　|　优先级 —　|　状态：已推送 17 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：英国 Ogar Technology（商业 PoE 看着像 ONV 的；退信）：英国主区 + 疑似进口中国品牌 + 对位 ✔；17 推 0 回 → 闸 2 查底数 + 找新地址，低优先；Simon 曾判不行 → 可按编号否决
+> **C 池筛选：留 C 储备**（闸 2 · 2026-10-29）：闸 2 红旗：Ogar Technology Limited（伦敦虚拟办公室地址；4 人；主销尼日利亚；美国壳 LLC）→ 不动，回 C 储备
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 17 次（2024-04-02 → 2025-10-23）　|　**所在清单**：A优质名单(UK)、AI评估(UK)·DONE、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-2809
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: keep_C  # 闸 2 G2 2026-10-29
 score: -42
 country: 英国
 region: 欧洲
@@ -39,6 +39,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-28DGGPM（8 口 PoE + 2 SFP L2+）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `ogartechnology.com` → Microsoft 365（MX：ogartechnology-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 126 批（GB · 1 次检索：rocketreach（London 地址；4 人；2015；Sunday Ogar）+ crunchbase + ec21 分支页；CH 号未取；2026-10-29，2026-10-29 查；https://rocketreach.co/ogar-technology-profile_b45d2847fc628fbd）：**
+
+- 法定名 / 登记号：Ogar Technology Limited（ogartechnology.com；**RocketReach：36-37 Albert Embankment, Suite 7, Vintage House, London SE1 7TL（虚拟办公室型地址）；2015 年创立；4 人；CEO / MD Sunday Ogar；EC21：分支 Ogar Technology Consulting Ltd（尼日利亚 Ikeja Computer Village）+ Ogar Technology LLC（美国 8 The Green = 注册代理地址）；自称安防 / 太阳能设备制造商**）→ 红旗：微型 + 虚拟地址 + 主销尼日利亚；表内：商业 PoE 看着像 ONV 的；17 推 0 回 + 退信；Simon 曾判不行 · 未取（CH 号未查） · 状态 **营业中（名录）** · 成立 2015 · Ltd
+- 行业码 / 经营范围：安防 / 太阳能贸易（伦敦壳 + 尼日利亚销售）
+- 注册地址：36-37 Albert Embankment, Suite 7, London SE1 7TL（虚拟）
+- 规模档：微型（4）
+- 账目：未取；—
+- 高管：Sunday Ogar — Managing Director & CEO
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **红旗（虚拟地址 + 微型 + 主销尼日利亚）→ 不动；回 C 储备**— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地
+- 备注：不动；回 C；部分坐实（红旗）；Simon 曾判不行。
 
 ## 基本事实（事实/推断/假设分层）
 

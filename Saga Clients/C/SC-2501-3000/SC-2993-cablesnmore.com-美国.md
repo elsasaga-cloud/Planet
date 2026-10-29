@@ -2,7 +2,7 @@
 
 > **评级 C**　|　美国　|　档案编号 `SC-2993`　|　优先级 —　|　状态：已推送 17 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：美国 Cables N More / TL Networx（cablesnmore.com / tlnetworx.com；宇航的工业 FS、MC 好几个外壳、SFP，**自己的 logo 和型号**）：美国主区 + 自有品牌贴牌 ✔ + 已进口中国品牌 ✔；17 推 0 回 + 退信 → 闸 2 查底数 + 找新地址；Simon 曾判不行 → 可按编号否决　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）、dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 自有 logo 贴牌 · OEM 30%：Cables N More（Quakertown PA；1–50 人；自己的 logo 和型号；进口宇航）部分坐实；OEM ✔ 进口经验 ✔ 主区 ✔ 对位 ✔ → P 池候选（退信 → 找 owner 新地址）；Simon 曾判不行，可否决　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）、oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 17 次（2024-05-30 → 2025-10-31）　|　**所在清单**：A优质名单(US)、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-2993
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: -59
 country: 美国
 region: 北美
@@ -39,6 +39,30 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STI-288DGGPM（工业 L2+ 8 PoE + 2×2.5G SFP）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `cablesnmore.com` → Microsoft 365（MX：cablesnmore-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+- `tlnetworx.com` → Proofpoint 企业网关（MX：mxa-0045b001.gslb.pphosted.com、mxb-0045b001.gslb.pphosted.com）。企业级邮件网关（Proofpoint 企业网关）：链接重写 + 附件沙箱 → 像素失效、附件常被隔离，冷邮件到达率最低；这户靠回原线程 / LinkedIn / 对方来信，不靠新开线程群发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 126 批（US · 1 次检索：zoominfo（Quakertown 地址 / 电话 / 11–50）+ crunchbase（1–10）；PA 登记号未取；2026-10-29，2026-10-29 查；https://www.zoominfo.com/c/cables-n-more/15567269）：**
+
+- 法定名 / 登记号：Cables N More（cablesnmore.com / tlnetworx.com；**ZoomInfo：550 Commerce Dr, Quakertown PA 18951；(215) 259-5279；11–50 人；Crunchbase：1–10，计算机 / 音视频线缆 + 消费电子 + 网络安装设备销售商**）；法人注册号未取 → 部分坐实；表内：宇航的工业 FS、MC 好几个外壳、SFP，**自己的 logo 和型号**；17 推 0 回 + 退信；Simon 曾判不行 · 未取（PA 登记号未查） · 状态 **营业中（名录）** · 成立 未取 · LLC / Inc.（推定）
+- 行业码 / 经营范围：线缆 / 网络设备网店 + 自有 logo 贴牌（宾州）
+- 注册地址：550 Commerce Dr, Quakertown, PA 18951
+- 规模档：小型（1–50）
+- 账目：未取；—
+- 高管：（customerservice@cablesnmore.com / info@tlnetworx.com 表内；具名 KP 未取 → LinkedIn 找 owner）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自有 logo 型号 + 进口宇航 → OEM 30%：找 owner 后一页纸一次（STC-110XGE MC + STI-154GP 工业 + 丝印 / 彩盒 MOQ + 付费样机）— 北美常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳 / DAP（买方清关）；周三 08–10 当地**；Simon 可否决
+- 备注：OEM 30%；P 池候选 ○（自有 logo 贴牌 + 进口经验；小型、退信待换地址）；部分坐实；Simon 曾判不行。
 
 ## 基本事实（事实/推断/假设分层）
 

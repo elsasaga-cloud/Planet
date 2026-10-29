@@ -2,7 +2,7 @@
 
 > **评级 C**　|　英国　|　档案编号 `SC-2976`　|　优先级 —　|　状态：用户判定不行
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：英国 Blake UK（blake-uk.com；CCTV / networking / fiber 销售平台 = 英国天线 / 安防大分销）：英国主区 + 分销主体 + 对位 ✔ → 闸 2 查底数，低优先；Simon 曾判不行 → 可按编号否决
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 进口商 + 自有品牌 · 分销 20% / OEM 30%：Blake UK Ltd（Sheffield 1971；20–24 人；£2.2M；天线制造 + 进口商；MD Paul Blake）部分坐实；进口 ✔ 自有品牌 ✔ 主区 ✔ 对位 ✔ → P 池候选；Simon 曾判不行，可否决　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：分销商/经销商（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:UK、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-2976
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: -58
 country: 英国
 region: 欧洲
@@ -39,6 +39,31 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `blake-uk.com` → Mimecast 企业网关（MX：eu-smtp-inbound-1.mimecast.com、eu-smtp-inbound-2.mimecast.com）。企业级邮件网关（Mimecast 企业网关）：链接重写 + 附件沙箱 → 像素失效、附件常被隔离，冷邮件到达率最低；这户靠回原线程 / LinkedIn / 对方来信，不靠新开线程群发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 126 批（GB · 1 次检索：pitchbook（1971；20 人；Sheffield）+ npif.co.uk（24 人；£2.2M）+ zoominfo（11–50）；CH 号未取；2026-10-29，2026-10-29 查；https://pitchbook.com/profiles/company/179962-84）：**
+
+- 法定名 / 登记号：Blake UK Ltd（blake-uk.com；**PitchBook：1971 年创立，Sheffield，20 人，曾用名 Blake Aerials Limited，私募债融资；NPIF（2017）：24 人、营业额 £2.2M（2016 财年）、天线制造 + 进口商（RF / 电子 / 元件）；ZoomInfo：TV 信号 / CCTV / Wi-Fi 产品设计制造，11–50，<$5M**）；CH 号未取；表内：CCTV / networking / fiber 销售平台；Simon 曾判不行 · 未取（CH 号 1 查未得；法人名 Blake UK Ltd） · 状态 **营业中** · 成立 1971 · Ltd
+- 行业码 / 经营范围：天线 / 信号分配 / CCTV / 网络产品制造 + 进口分销（谢菲尔德）
+- 注册地址：Sheffield, South Yorkshire
+- 规模档：小型（20–24；£2.2M）
+- 账目：未取；—
+- 高管：Paul Blake — MD（NPIF 报道）
+- 高管：Cavin Carver — Operations Director（NPIF 报道）
+- 高管：（sales@blake-uk.com 表内）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **制造 + 进口商（自有品牌 Blake）→ OEM 30% / 分销 20%：点名 Paul Blake 一页纸一次（STC-028GP / STC-228GP 安防 PoE + 丝印 MOQ + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；Simon 可否决
+- 备注：分销 20% / OEM 30%；P 池候选 ○（进口商 + 自有品牌 + 主区；小型）；部分坐实；Simon 曾判不行。
 
 ## 基本事实（事实/推断/假设分层）
 

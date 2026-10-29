@@ -2,7 +2,7 @@
 
 > **评级 C**　|　美国　|　档案编号 `SC-2657`　|　优先级 —　|　状态：已推送 11 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：美国 Lynn Electronics（MC / switch / SFP，从 VOLKTEK 买 MC）：美国主区 + 进口经验（台湾 Volktek）+ 自有品牌连接产品 → 闸 2 查底数；11 推 0 回；Simon 曾判不行 → 可按编号否决　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 自有品牌 · OEM 30%：Lynn Electronics Corporation（Ivyland PA 1964；$18.6M；29–108 人；进口 Volktek；Director Data Center Solutions 在职）坐实；自有品牌 ✔ 进口经验 ✔ 主区 ✔ 体量 ✔ → P 池候选（DC 线可提 CENTEC）；Simon 曾判不行，可否决　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）、oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 11 次（2022-11-30 → 2023-10-16）　|　**所在清单**：群发(已重新审核/一般 常规)、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-2657
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: -31
 country: 美国
 region: 北美
@@ -39,6 +39,32 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STI-110GE（工业迷你 1 光 1 电（MC 位））
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `lynnelec.com` → Proofpoint 企业网关（MX：mxa-0045b001.gslb.pphosted.com、mxb-0045b001.gslb.pphosted.com、lynnelec-com.mail.protection.outlook.com）。企业级邮件网关（Proofpoint 企业网关）：链接重写 + 附件沙箱 → 像素失效、附件常被隔离，冷邮件到达率最低；这户靠回原线程 / LinkedIn / 对方来信，不靠新开线程群发
+- `thinklynn.com` → Proofpoint 企业网关（MX：mxa-0045b001.gslb.pphosted.com、mxb-0045b001.gslb.pphosted.com）。企业级邮件网关（Proofpoint 企业网关）：链接重写 + 附件沙箱 → 像素失效、附件常被隔离，冷邮件到达率最低；这户靠回原线程 / LinkedIn / 对方来信，不靠新开线程群发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 126 批（US · 1 次检索：rocketreach（1964；$18.6M；29；Ivyland）+ konaequity（108 人；wcorrar@ / mprice@ 公开）+ indeed（51–200）；PA 登记号未取；2026-10-29，2026-10-29 查；https://rocketreach.co/lynn-electronics-corporation-profile_b44d75e7fd255469）：**
+
+- 法定名 / 登记号：Lynn Electronics Corporation / Inc.（lynnelec.com / thinklynn.com；**RocketReach：154 Railroad Dr, Ivyland PA 18974；1964 年创立；营收 $18.6M；29 人（konaequity 108 人 / Indeed 51–200）；(215) 355-8200；Shad Sechrist — Director, Data Center Solutions；konaequity：Walter Corrar 经理、Marci Price 区域销售**）；表内：MC / switch / SFP，从 VOLKTEK 买 MC；kedsall@thinklynn.com 具名；11 推 0 回；Simon 曾判不行 · 未取（PA 登记号未查） · 状态 **营业中（2025 营收数据）** · 成立 1964 · Corporation
+- 行业码 / 经营范围：连接 / 网络产品制造 + 分销（自有品牌；数据中心方案线）
+- 注册地址：154 Railroad Dr, Ivyland, PA 18974
+- 规模档：中型（29–108；$18.6M）
+- 账目：未取；—
+- 高管：Shad Sechrist — Director, Data Center Solutions（DC 线 KP）
+- 高管：kedsall@thinklynn.com（表内具名；职务未取）
+- 高管：Walter Corrar — Manager（wcorrar@lynnelec.com 公开）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自有品牌 + 进口 Volktek + DC 方案线 → OEM 30%：点名 Shad Sechrist 一页纸一次（STC-110XGE 10G MC + STC-424XGGM 对标 + 丝印 MOQ；CENTEC STH 线作敲门砖提一句）— 北美常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳 / DAP（买方清关）；周三 08–10 当地**；Simon 可否决
+- 备注：OEM 30%；P 池候选 ★（中型自有品牌 + 进口经验 + DC 线 KP）；坐实（名录三源一致）；Simon 曾判不行。
 
 ## 基本事实（事实/推断/假设分层）
 

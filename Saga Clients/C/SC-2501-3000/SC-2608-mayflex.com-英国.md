@@ -2,7 +2,7 @@
 
 > **评级 C**　|　英国　|　档案编号 `SC-2608`　|　优先级 —　|　状态：已推送 19 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：英国 Mayflex（Sonepar 旗下大型布线 / 安防 / 网络分销，自有品牌 Excel Networking；商业 PoE）：英国主区 + 分销 + 自有品牌 ✔；19 推 0 回 → 闸 2 查底数（体量偏大）；Simon 曾判不行 → 可按编号否决　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：△ 观察档（长线）· OEM 30%：Mayflex（Birmingham 1917；250 人；Sonepar UK 子公司；自有品牌 Excel Networking；Andrew Percival 在表）坐实；OEM ✔ 主区 ✔ 具名 KP ✔ 但巨头采购体系 → 入池长线观察档；Simon 曾判不行，可否决　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 19 次（2024-03-30 → 2025-10-24）　|　**所在清单**：A优质名单(UK)、AI评估(UK)·DONE、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-2608
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: -28
 country: 英国
 region: 欧洲
@@ -39,6 +39,30 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-28DGGPM（8 口 PoE + 2 SFP L2+）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `mayflex.com` → Mimecast 企业网关（MX：de-smtp-inbound-1.mimecast.com、de-smtp-inbound-2.mimecast.com）。企业级邮件网关（Mimecast 企业网关）：链接重写 + 附件沙箱 → 像素失效、附件常被隔离，冷邮件到达率最低；这户靠回原线程 / LinkedIn / 对方来信，不靠新开线程群发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 126 批（GB · 1 次检索：pitchbook（Birmingham；1917；250；Sonepar UK）+ endole（Mayflex Holdings 06732855）+ glassdoor；运营公司 CH 号未取；2026-10-29，2026-10-29 查；https://pitchbook.com/profiles/company/65358-73）：**
+
+- 法定名 / 登记号：Mayflex（mayflex.com；**PitchBook：Excel House, Junction Six Industrial Park, Electric Avenue, Birmingham B6 7JJ；1917 年创立；250 人；Sonepar UK 子公司；数据通信产品分销（安装商 / 集成商）；Endole：Mayflex Holdings Limited 06732855（2008-10-24，Sonepar 集团）；自有品牌 Excel Networking**）；表内：商业 PoE；andrew.percival@ 具名；19 推 0 回；Simon 曾判不行 · Mayflex Holdings Ltd 06732855（控股；运营公司号未取） · 状态 **Active（Sonepar 集团）** · 成立 1917（控股 2008-10-24） · Ltd（Sonepar UK 子公司）
+- 行业码 / 经营范围：布线 / 网络 / 安防分销 + 自有品牌 Excel
+- 注册地址：Excel House, Junction Six Industrial Park, Electric Avenue, Birmingham B6 7JJ
+- 规模档：大型（250；母公司 Sonepar 巨头）
+- 账目：未取；—
+- 高管：Andrew Percival（andrew.percival@mayflex.com 表内具名；职务未取）
+- 高管：（sales@mayflex.com 表内）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **巨头旗下自有品牌 Excel → OEM 30% 长线：点名 Andrew Percival / Excel 产品经理一页纸一次（STC-228GP / STC-2224GP 对标 Excel 口型 + 丝印彩盒 MOQ + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；Simon 可否决；集团采购流程长
+- 备注：OEM 30%；P 池候选 △（自有品牌 ✔ 主区 ✔ 具名 KP ✔，但 Sonepar 巨头体系 → 长线观察档）；坐实（名录）；Simon 曾判不行。
 
 ## 基本事实（事实/推断/假设分层）
 

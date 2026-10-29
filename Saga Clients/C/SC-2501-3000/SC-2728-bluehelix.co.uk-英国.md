@@ -2,7 +2,7 @@
 
 > **评级 C**　|　英国　|　档案编号 `SC-2728`　|　优先级 —　|　状态：已推送 19 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：英国 Blue Helix（主要卖 AMG / Comnet 工业以太网）：英国主区 + 工业网络分销主体 + 对位 ✔；19 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：△ 观察档 · 分销 20%：Blue Helix Limited（CH 04836349；AMG / ComNet / D-Link 分销；28 人）部分坐实，名录标 SIC 99999 休眠 vs 官网在营 → 法人待 CH 直查；分销 ✔ 主区 ✔ 对位 ✔ → 入池观察档 + 预付；Simon 曾判不行，可否决
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 19 次（2024-03-26 → 2025-10-24）　|　**所在清单**：A优质名单(UK)、AI评估(UK)·DONE、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-2728
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: -36
 country: 英国
 region: 欧洲
@@ -39,6 +39,30 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `bluehelix.co.uk` → Microsoft 365（MX：bluehelix-co-uk.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 126 批（GB · 1 次检索：aihitdata（04836349；SIC 99999；Newbury；Westbrook）+ bluehelix.co.uk 品类页（AMG 108 / ComNet 110 / D-Link 132 SKU）+ laserfocusworld（28 人）；CH 直查未做；2026-10-29，2026-10-29 查；https://www.aihitdata.com/company/0034F506/blue-helix/overview）：**
+
+- 法定名 / 登记号：Blue Helix Limited（bluehelix.co.uk；**aihitdata：CH 04836349，Votec House, Hambridge Lane, Newbury RG14 5TN；CEO Steven Westbrook、秘书 Leo Yu；VAT 927 2027 36；名录标 SIC 99999（Dormant）；另有注册号 06248590；laserfocusworld（2018）：Crawley RH11 0PH，28 人；官网：AMG Systems / ComNet / D-Link / Trend Networks 光纤 + 铜缆方案分销，面向数据中心 / 安防 / 公用 / 国防 / 政府客户**）→ 法人状态待核；表内：主要卖 AMG / Comnet；marke@ 具名；19 推 0 回；Simon 曾判不行 · 04836349（名录标 Dormant；另 06248590 待核） · 状态 **待核（名录 SIC 99999 休眠 vs 官网在营）** · 成立 2003（推定，20 年） · Ltd
+- 行业码 / 经营范围：工业 / 安防网络 + 布线分销（AMG / ComNet / D-Link）
+- 注册地址：Votec House, Hambridge Lane, Newbury RG14 5TN
+- 规模档：小型（28）
+- 账目：未取；—
+- 高管：Steven Westbrook — CEO / Director
+- 高管：marke@bluehelix.co.uk（表内具名；职务未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **工业网络分销 → 分销 20%：先 CH 直查两号分清运营主体，再点名 marke@ 一页纸一次（STI-154GP / STI-288GPM 对标 AMG / ComNet 口型 + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；法人未清前 预付 100%
+- 备注：分销 20%；P 池候选 △（分销主体 ✔ 主区 ✔ 对位 ✔，但法人状态存疑 → 观察档 + 预付）；部分坐实；Simon 曾判不行。
 
 ## 基本事实（事实/推断/假设分层）
 

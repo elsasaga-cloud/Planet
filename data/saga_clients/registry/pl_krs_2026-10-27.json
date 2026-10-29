@@ -4,7 +4,7 @@
   "source": "Poland · KRS 官方 API（api-krs.ms.gov.pl）+ 财政部 VAT 白名单 API（wl-api.mf.gov.pl）",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 53
+  "count": 57
  },
  "rows": {
   "SA-023": {
@@ -1764,6 +1764,127 @@
    ],
    "notes": "OEM 30%；P 池候选 ★（波兰品牌商，体量偏大）；坐实（KRS）；Simon 曾判不行。",
    "code": "SC-2516"
+  },
+  "SC-276": {
+   "batch": 126,
+   "name": "ASSMANN Distribution Sp. z o.o.（assmann.pl；**官网 Contact：Gilarska 10/1 lok.1, 03-589 Warszawa；+48 22 586 11 60；office@assmann.pl；NIP PL8951883569；REGON 020543570；ASSMANN Group（DIGITUS 品牌，德国 Lüdenscheid 总部）波兰分销公司；旧法人 ASSMANN Electronic Sp. z o.o. KRS 0000203233（Wrocław，已 wykreślona）**）；表内：「很大的一个公司，由国内较多合作商」",
+   "iso": "PL",
+   "fetched": "2026-10-29",
+   "source": "PL · 1 次检索：assmann.pl/en/company/contact（法人 / NIP / REGON / 地址）+ bizraport / krs-pobierz（旧法人 KRS 0000203233 已注销）；2026-10-29",
+   "url": "https://www.assmann.pl/en/company/contact/",
+   "number": "NIP 8951883569 / REGON 020543570（KRS 号未取）",
+   "status": "营业中（官网）",
+   "incorporated": "未取（旧法人 2004）",
+   "company_type": "Sp. z o.o.（ASSMANN Group 子公司）",
+   "sic": [
+    "网络 / 布线产品品牌分销（DIGITUS；波兰）"
+   ],
+   "address": "Gilarska 10/1 lok.1, 03-589 Warszawa",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（集团约 500；波兰公司小型）",
+   "officers": [
+    "（office@assmann.pl 表内 = 官网公开总邮箱；DIGITUS 产品经理在德国总部 → LinkedIn 挖）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**DIGITUS 自有品牌（贴牌中国）→ OEM 30%：波兰公司一页纸探路 + 同步找 Lüdenscheid 总部 Product Management（STC-028GP / STC-228GP / STI-154GP 对标 DIGITUS 口型 + 丝印彩盒 MOQ + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（品牌商自有网络线 = 目标顺位 1；集团中型）；坐实（NIP / REGON）。",
+   "code": "SC-276"
+  },
+  "SC-2834": {
+   "batch": 126,
+   "name": "DIPOL Gołaszewski, Waśniowski Spółka Jawna（dipol.com.pl；**aleo / baza-firm：ul. Ciepłownicza 40, 31-574 Kraków；NIP 6780101049；REGON 350509592；KRS 0000094703；1990 年创立；欧洲 CCTV / WLAN / TV-SAT 分销 + 天线制造，1200+ 品项，自有品牌 Signal / Ultimax / Ultipower；多城分部（表内 sandomierz@ / warszawa@）**）；表内：VC / MC / SFP / 工业 FS；IFSEC 参展；Simon 曾判不行",
+   "iso": "PL",
+   "fetched": "2026-10-29",
+   "source": "PL · 1 次检索：aleo.com（KRS 0000094703；NIP 6780101049；Ciepłownicza 40）+ baza-firm（1990；品牌 / 品类）；2026-10-29",
+   "url": "https://aleo.com/int/company/dipol-golaszewski,-gwizdala,-wasniowski-spolka-jawna",
+   "number": "KRS 0000094703 / NIP 6780101049",
+   "status": "营业中（KRS 2026 更新）",
+   "incorporated": "1990",
+   "company_type": "Spółka jawna（合伙）",
+   "sic": [
+    "安防 / 网络 / 卫星电视分销 + 自有品牌（克拉科夫；全国分部）"
+   ],
+   "address": "ul. Ciepłownicza 40, 31-574 Kraków",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（全国分部）",
+   "officers": [
+    "Gołaszewski / Waśniowski — 合伙人（KRS）",
+    "（sandomierz@ / warszawa@dipol.com.pl 表内分部邮箱；总部采购 KP 待 LinkedIn）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌 Ultipower（PoE / 交换机）→ OEM 30%：找总部产品经理后一页纸一次（STC-028GP / STC-228GP / STC-2224GP 对标 Ultipower 口型 + 丝印彩盒 MOQ + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；Simon 可否决"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（自有品牌 + 中型分销 + 波兰次主区）；坐实（KRS）；Simon 曾判不行；dayjob 线索 VC / MC。",
+   "code": "SC-2834"
+  },
+  "SC-2943": {
+   "batch": 126,
+   "name": "Batna Sp. z o.o. — 品牌 Extralink（extralink24.com / .eu；**官网 Regulamin：KRS 0001003926（Sąd Rejonowy w Częstochowie XVII Wydział）；NIP 5732901461；REGON 380387214；ul. Boznańskiej Olgi 3E, 42-202 Częstochowa（通信地址 ul. 1 Maja 23）；rakow.com：Extralink 品牌所有者 Batna 经营 20+ 年、多品牌官方分销商，光纤 + 以太网产品起家，产品入驻 x-kom / Neonet，Ekstraklasa 联赛赞助**）；表内：很多国内的外壳 switch / PoE 配件 / PON，「有人在卖他们的」；退信；Simon 曾判不行",
+   "iso": "PL",
+   "fetched": "2026-10-29",
+   "source": "PL · 1 次检索：extralink24.com/regulamin（KRS / NIP / REGON / 地址）+ rakow.com（品牌所有者 Batna；20+ 年；x-kom / Neonet 渠道）；2026-10-29",
+   "url": "https://www.extralink24.com/regulamin/",
+   "number": "KRS 0001003926 / NIP 5732901461",
+   "status": "营业中（2024–2026 赞助 / 网店）",
+   "incorporated": "未取（经营 20+ 年；现法人 2022 重组）",
+   "company_type": "Sp. z o.o.",
+   "sic": [
+    "网络 / 光纤自有品牌 Extralink + 多品牌分销（琴斯托霍瓦）"
+   ],
+   "address": "ul. Boznańskiej Olgi 3E, 42-202 Częstochowa",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（推定；全国零售渠道）",
+   "officers": [
+    "（sales@extralink24.eu 表内曾退信；Batna 管理层 / 产品经理待 LinkedIn）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌 Extralink（贴牌中国）→ OEM 30%：找产品经理 + 新地址后一页纸一次（STC-028GP / STC-228GP / STI-154GP 对标 Extralink 口型 + 丝印彩盒 MOQ + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；Simon 可否决"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（自有品牌 + 全国渠道 + 波兰次主区）；坐实（KRS）；Simon 曾判不行。",
+   "code": "SC-2943"
+  },
+  "SC-3023": {
+   "batch": 126,
+   "name": "NetTrans Jarosław Żydek（nettrans.pl；**官网 Kontakt：ul. Poznańska 115, 20-731 Lublin；NIP 712-239-07-96；REGON 366956479；个体经营（jednoosobowa działalność）；技术 / 售后 biuro@ +48 577 677 288；销售 handlowy@ +48 570 477 388**）；表内：工业 FS 国内 3C Link / ONV 的；退信；Simon 曾判不行",
+   "iso": "PL",
+   "fetched": "2026-10-29",
+   "source": "PL · 1 次检索：nettrans.pl/kontakt.html（法人 / NIP / REGON / 地址 / 电话）；2026-10-29",
+   "url": "https://nettrans.pl/kontakt.html",
+   "number": "NIP 712-239-07-96 / REGON 366956479",
+   "status": "营业中（官网）",
+   "incorporated": "未取（REGON 2017 前后）",
+   "company_type": "个体经营",
+   "sic": [
+    "工业网络 / 光纤设备网店（卢布林）"
+   ],
+   "address": "ul. Poznańska 115, 20-731 Lublin",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（个体）",
+   "officers": [
+    "Jarosław Żydek — 业主（handlowy@nettrans.pl 表内 = 销售邮箱）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**个体进口商 → 分销 20%：点名 Jarosław 一页纸一次（STI-154GP / STI-280GE 对标 3C Link / ONV + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；个体 → 预付 100%；Simon 可否决"
+   ],
+   "notes": "分销 20%；P 池候选 △（进口中国品牌 ✔ 波兰 ✔ 坐实 ✔ 对位 ✔；个体微型 → 观察档 + 预付）；坐实（NIP）；Simon 曾判不行。",
+   "code": "SC-3023"
   }
  }
 }

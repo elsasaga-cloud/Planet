@@ -2,7 +2,7 @@
 
 > **评级 C**　|　英国　|　档案编号 `SC-2802`　|　优先级 —　|　状态：用户判定不行
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：英国 Euro Security Solutions Ltd（展会：很在意 AC/DC 输入、问 VC 用法、要 full info、想拿样；邮件退信）：英国主区 + 样品意向 + 对位 ✔ → 闸 2 查底数 + 找新地址，低优先；Simon 曾判不行 → 可按编号否决　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：△ 观察档 · 集成商 25%：Euro Security Solutions Limited（CH 11094000；2017；伦敦；微型）坐实；样品意向 ✔ 主区 ✔ 对位 ✔ → 入池观察档（退信 → 走表内 WA）+ 预付　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
 >
 > **类型**：系统集成/工程商（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-2802
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: -42
 country: 英国
 region: 欧洲
@@ -39,6 +39,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-448XGGM(L3)（L3 48 口 + 4×10G（Hohunet/CENTEC 线））
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `eurosecuritysolutions.co.uk` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、alt3.aspmx.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 126 批（GB · 1 次检索：find-and-update.company-information.service.gov.uk/company/11094000；2026-10-29，2026-10-29 查；https://find-and-update.company-information.service.gov.uk/company/11094000）：**
+
+- 法定名 / 登记号：EURO SECURITY SOLUTIONS LIMITED（eurosecuritysolutions.co.uk；**Companies House 11094000；2 Guillemot Court, Taylor Close, London SE8 5UU；2017-12-04 成立；Active；SIC 62020 IT 咨询 + 80200 安防系统服务；最近账目至 2023-12-31；2024 年账目应于 2025-09-30 前递交（页面快照时未见 → 是否逾期待核）**）；表内：展会很在意 AC/DC 输入、问 VC 用法、要 full info、想拿样；退信；WA 号在表 · 11094000 · 状态 **Active（2024 账目递交情况待核）** · 成立 2017-12-04 · Private limited company
+- 行业码 / 经营范围：IT 咨询 + 安防系统服务（伦敦；疑似住宅注册地址）
+- 注册地址：2 Guillemot Court, Taylor Close, London SE8 5UU
+- 规模档：微型（推定）
+- 账目：未取；—
+- 高管：（info@eurosecuritysolutions.co.uk 表内曾退信；WA +44 7830 323788 表内 → 改走 WA）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **样品意向户 → 集成商 25%：WA 续上展会话题一次（AC/DC 双输入 STI-154GP 工业 + VC 用法说明 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；微型 → 预付 100%
+- 备注：集成商 25%；P 池候选 △（样品意向 ✔ 主区 ✔ 对位 ✔；微型 + 退信 → 观察档 WA 触达）；坐实（CH）。
 
 ## 基本事实（事实/推断/假设分层）
 

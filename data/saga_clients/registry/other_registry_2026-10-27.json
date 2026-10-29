@@ -4,7 +4,7 @@
   "source": "其他国家官方 / 准官方登记",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 509
+  "count": 510
  },
  "rows": {
   "SA-061": {
@@ -15774,6 +15774,37 @@
    ],
    "notes": "不动；回 C；坐实（已注销）。",
    "code": "SC-667"
+  },
+  "SC-2402": {
+   "batch": 126,
+   "name": "SISTEMAS DE SEGURIDAD S.A. — SISEGUSA（sisegusa.com；**官网：厄瓜多尔 Guayaquil, Urdesa Central, Av. Las Lomas 403；+593 4 371 2850；安防 / 网络批发（CCTV / 对讲 / 门禁 / 报警 / 路由）；ventasdeseguridad 名录：进口 + 分销 + 培训；关联 Siseg Global Solutions = 迈阿密注册 LLC（电商 / 3PL，服务拉美）**）→ 国别纠偏：美国 → 厄瓜多尔（经迈阿密进口）；表内：Utepo 商业 PoE；19 推 0 回；Simon 曾判不行",
+   "iso": "EC",
+   "fetched": "2026-10-29",
+   "source": "EC · 1 次检索：sisegusa.com/home（Guayaquil 地址 / 电话）+ sisegglobal.com（Miami LLC）+ ventasdeseguridad 名录；RUC 未取；2026-10-29",
+   "url": "https://www.sisegusa.com/home",
+   "number": "未取（RUC 未查）",
+   "status": "营业中（官网在线）",
+   "incorporated": "未取",
+   "company_type": "S.A.（+ 美国 LLC）",
+   "sic": [
+    "安防 / 网络批发（厄瓜多尔；迈阿密转运）"
+   ],
+   "address": "Urdesa Central, Av. Las Lomas 403, Guayaquil, Ecuador",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（推定）",
+   "officers": [
+    "j.linares@sisegusa.com（表内具名；职务未取）",
+    "（info@sisegusa.com 官网公开）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**拉美批发（区域外）→ 分销 20%：一页纸一次（STC-028GP / STC-228GP + MOQ 1 + 付费样机；FOB 深圳 / 迈阿密 DAP）— 北美常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳 / DAP（买方清关）；周三 08–10 当地**；区域外低优先"
+   ],
+   "notes": "分销 20%；P 池候选 △（进口 Utepo ✔ 对位 ✔ 坐实 ✔，区域外 → 观察档）；部分坐实；国别纠偏 EC；Simon 曾判不行。",
+   "code": "SC-2402"
   }
  }
 }

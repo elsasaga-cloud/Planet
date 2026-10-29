@@ -2,7 +2,7 @@
 
 > **评级 C**　|　德国　|　档案编号 `SC-364`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：德国 EasyWind GmbH（easywind.org；阿里巴巴 RTS 成单：4 台 1 光 4 电小壳非 PoE）：德国主区 + 成单 ✔ + 对位 ✔ ≥2 条；WA 加不上 → 闸 2 查底数 + 回访
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：△ 观察档 · 成单回访：EasyWind GmbH（Enge-Sande；小型风机制造商；RTS 成单 4 台 MC 自用）坐实；成单 ✔ 主区 ✔ 对位 ✔ ≥2 条 → 入池观察档，复购体量低 → Simon 定　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:DE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-364
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 22
 country: 德国
 region: 欧洲
@@ -39,6 +39,30 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STI-144GP（工业 4 PoE + 1 SFP 小壳）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `easywind.org` → Microsoft 365（MX：easywind-org.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 126 批（DE · 1 次检索：ee-sh.de 能源地图（地址 / 电话 / Feddersen）+ wind-turbine-models（制造商档案）+ bds-sh（2008；300+ 台）；HRB 未取；2026-10-29，2026-10-29 查；https://ee-sh.de/de/energymap/data/EasyWind-GmbH.php）：**
+
+- 法定名 / 登记号：EasyWind GmbH（easywind.org；**ee-sh.de / wind-turbine-models / bds-sh：Lecker Straße 7（Gebäude 2c），25917 Enge-Sande（GreenTEC Campus）；2008 年起小型风机（6 kW）制造商，全球 300+ 台；+49 4662 88431-0；联系人 Hans-Günter Feddersen**）；HRB 未取；表内：阿里巴巴 RTS 成单 4 台 1 光 4 电小壳非 PoE（风机通信配套）；produktion@ 表内；电话加不上 · 未取（HRB 1 查未得） · 状态 **营业中（2024 展会参展）** · 成立 2008 · GmbH
+- 行业码 / 经营范围：小型风力发电机制造（终端自用网络设备）
+- 注册地址：Lecker Straße 7, Gebäude 2c, 25917 Enge-Sande
+- 规模档：小型（推定）
+- 账目：未取；—
+- 高管：Hans-Günter Feddersen — 联系人（能源地图）
+- 高管：（produktion@easywind.org 表内 = 成单对接邮箱）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **成单回访（终端自用 25%）：按原单回访一次（同款 MC 复购 + 风机机舱工业级 STI-154GP 升级建议；MOQ 1）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；体量小不加码
+- 备注：终端自用 25%；P 池候选 △（成单 ✔ 主区 ✔ 对位 ✔；复购体量低 → 观察档，Simon 定）；坐实（法人 + 地址）。
 
 ## 基本事实（事实/推断/假设分层）
 

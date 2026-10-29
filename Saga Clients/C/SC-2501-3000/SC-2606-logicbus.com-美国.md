@@ -2,7 +2,7 @@
 
 > **评级 C**　|　美国　|　档案编号 `SC-2606`　|　优先级 —　|　状态：已推送 20 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：美国 Logicbus（Atop / 三旺 3onedata 工业 FS 电口）：美国主区 + 已进口中国工业品牌 + 对位 ✔；20 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 工业分销 20%：Logicbus, Inc.（Chula Vista 2001；40 人；美墨双边；Daniel Flores 墨西哥分公司经理 = 表内邮箱；有采购专员）坐实；进口 Atop / 三旺 ✔ 主区 ✔ 对位 ✔ 具名 KP ✔ → P 池候选；Simon 曾判不行，可否决
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 20 次（2024-04-01 → 2025-10-25）　|　**所在清单**：A优质名单(US)、AI评估(US)、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-2606
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: -28
 country: 美国
 region: 北美
@@ -39,6 +39,32 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STI-288DGGPM（工业 L2+ 8 PoE + 2×2.5G SFP）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `logicbus.com` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、alt3.aspmx.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 126 批（US · 1 次检索：crunchbase（Logicbus, Inc.；Active；11–50）+ logicbus.com/support（2001；Chula Vista）+ contactout（40 人；高管 / 采购）；CA SoS 未取；2026-10-29，2026-10-29 查；https://www.crunchbase.com/organization/logicbus）：**
+
+- 法定名 / 登记号：Logicbus, Inc.（logicbus.com；**Crunchbase：法人 Logicbus, Inc.，Chula Vista CA，Active，11–50；官网 Support：2001 年创立，863 Bowsprit Road Chula Vista；ContactOut：San Diego 8268 Clairemont Mesa Blvd Suite 302 + 墨西哥瓜达拉哈拉办公室，40 人；CEO Blasioz Valenzuela；Daniel Flores — Gerente de Sucursal México（= 表内 danielflores@）；Luis Eduardo Rodríguez — Ejecutivo de compras**）；表内：Atop / 三旺工业 FS 电口；20 推 0 回；Simon 曾判不行 · 未取（CA SoS 未查） · 状态 **Active（Crunchbase）** · 成立 2001 · Inc.
+- 行业码 / 经营范围：工业自动化 / 工业通信分销（美墨双边）
+- 注册地址：863 Bowsprit Road, Chula Vista, CA（+ San Diego / Guadalajara）
+- 规模档：小型（40）
+- 账目：未取；—
+- 高管：Blasioz Valenzuela — CEO
+- 高管：Daniel Flores — Gerente de Sucursal México（danielflores@logicbus.com 表内）
+- 高管：Luis Eduardo Rodríguez Luvian — Ejecutivo de compras（采购）
+- 高管：teodoro@logicbus.com（表内具名；职务未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **工业分销（美墨）→ 分销 20%：点名 Daniel Flores 一页纸一次（STI-154GP / STI-280GE 工业电口对标 Atop / 三旺 + MOQ 1 + 付费样机）— 北美常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳 / DAP（买方清关）；周三 08–10 当地**；Simon 可否决
+- 备注：分销 20%；P 池候选 ○（工业分销 + 进口中国工业品牌 + 具名 KP）；坐实；Simon 曾判不行。
 
 ## 基本事实（事实/推断/假设分层）
 
