@@ -1,4 +1,4 @@
-# SB-039 zelax.ru · sitemap · https://www.zelax.ru/sitemap.xml · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-039 zelax.ru · sitemap · https://www.zelax.ru/sitemap.xml · fetched 2026-10-29T08:41:09Z · HTTP 200
 2025-09-18T15:32:45+03:00	https://www.zelax.ru/news/company/25-09-18/oborudovanie-k-lep-i-multipleksoryi-m-asp-pg-snyatyi-s-proizvodstva/
 2024-03-12T17:54:45+03:00	https://www.zelax.ru/news/company/24-03-12/kompaniya-zelax-optimiziruet-linejku-kommutatorov-zes-32xx/
 2021-10-27T16:35:26+03:00	https://www.zelax.ru/where-to-buy/order-delivery/

@@ -1,4 +1,4 @@
-# SB-775 patton.com · home · https://www.patton.com/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-775 patton.com · home · https://www.patton.com/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 Patton Electronics | US Manufactured Network Equipment
 Toggle navigation
 COMPANY
@@ -142,6 +142,7 @@ Link Up for Less
 Leading the Edge
 WAN Access Without Excess
 News Alert:
+Patton Delivers TDM-over-IP Technology in an SFP Module, Preserving Mission-Critical T1/E1 Services | 10.28.2026
 Patton and alfanar Partner to Accelerate the Secure Digital Transformation of Saudi Power Infrastructure | 9.2.2026
 Tone Commander Secure SIP Phones Obtain Fresh JITC/STIG Certifications | 8.20.2026
 Artel Announces New Carrier-Class PTP Switch Built for the Demands of Modern Broadcast | 7.27.2026
@@ -150,7 +151,6 @@ Patton Awarded Subcontract to Develop Source-Secure Fiber Optic Modules for U.S.
 Artel Ignites Precision Networking with New Quarra PTP-10G4POE Switch | 6.4.2026
 Patton and Probity Partner to Protect Critical Infrastructure with Revolutionary New Data Diode Kit that Delivers NSA-Listed Security | 5.28.2026
 Patton Unveils Powerful New US-Manufactured 12G-SDI Fiber Extender Kits | 4.23.2026
-Artel Smashes the SDI-to-IP Barrier with Game-Changing FiberLink� ST2110-TD Throw-Down Units | 3.19.2026
 Company
 > Contact Us
 > About Patton

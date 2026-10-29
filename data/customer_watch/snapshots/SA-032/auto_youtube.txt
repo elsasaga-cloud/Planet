@@ -1,4 +1,6 @@
-# SA-032 Sundar Techno Solutions Pvt. Ltd.（班加罗尔，工业 PC/自动化，Volktek 代理） · auto_youtube · https://www.youtube.com/@SUNDARTECHNOSOLUTIONS · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SA-032 Sundar Techno Solutions Pvt. Ltd.（班加罗尔，工业 PC/自动化，Volktek 代理） · auto_youtube · https://www.youtube.com/@SUNDARTECHNOSOLUTIONS · fetched 2026-10-29T08:41:09Z · HTTP 200
+2026-10-28T14:37:17+00:00	HOW TO STOP THROTTLING USING HIGH-QUALITY THERMAL PADS AND BIG FINS IN FANLESS INDUSTRIAL COMPUTERS	https://www.youtube.com/watch?v=kuR5d3Hg_vc
+2026-10-28T11:38:13+00:00	HART to PROFIBUS PA to ABB DCS | FINT T500 Process Automation Architecture_SUNDAR TECHNO SOLUTIONS	https://www.youtube.com/shorts/j4IxPcgvgt8
 2026-10-27T15:11:57+00:00	🏙️ **STS COMPACT AI WORKSTATION FOR ARCHITECTURE, CAD, BIM AND 3D VISUALIZATION_CPU+GPU+NPU**	https://www.youtube.com/shorts/oRgETjMUT0k
 2026-10-27T14:36:16+00:00	🚜 **AI-POWERED AUTONOMOUS FORKLIFTS | STS FANLESS EMBEDDED COMPUTER FOR SMART MATERIAL HANDLING**	https://www.youtube.com/shorts/rUBhdrCDbWQ
 2026-10-25T14:22:17+00:00	USB-C to SFP Fiber Network Adapter | 1 Gbps Ethernet up to 10 km Single-Mode Fiber_SUNDAR TECHNO	https://www.youtube.com/shorts/zoEWSuLFIok
@@ -12,5 +14,3 @@
 2026-10-21T17:36:16+00:00	**INDUSTRIAL GRADE KVM EXTENDERS USING ETHERNET / OFC | HDMI, USB, AUDIO & FIBER DISTANCE**	https://www.youtube.com/shorts/lHkb8k0Cuoo
 2026-10-21T17:03:26+00:00	**RUGGED HANDHELD COMPUTERS, RUGGED MOBILE PHONES & 2D SCANNER TERMINALS | SUNDAR TECHNO SOLUTIONS**	https://www.youtube.com/shorts/TYkJ8jXriRE
 2026-10-19T15:24:27+00:00	**BESS + IoT: Better visibility for energy storage**_SUNDAR TECHNO SOLUTIONS_BANGALORE_INDIA	https://www.youtube.com/shorts/Q5oOtMpokSc
-2026-10-19T14:55:51+00:00	**SoftPLC on an Embedded PC: Can Control, HMI and Edge IoT Work Together?**_SUNDAR TECHNO SOLUTIONS	https://www.youtube.com/shorts/mv_yOERK-tA
-2026-10-18T15:13:48+00:00	Explore industrial computing for CentOS Stream projects with Sundar Techno Solutions (STS)	https://www.youtube.com/shorts/4yD_dHC_U3M

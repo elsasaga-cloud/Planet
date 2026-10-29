@@ -1,4 +1,4 @@
-# SB-265 Vdeotronic AG · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCD96WpFWvsFSRLZjJKXyH8w · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-265 Vdeotronic AG · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCD96WpFWvsFSRLZjJKXyH8w · fetched 2026-10-29T08:41:09Z · HTTP 200
 2024-09-23T12:01:06+00:00	Senstar MultiSensor™ Einführungsvideo	https://www.youtube.com/watch?v=slir-tyUex8
 2024-09-23T11:56:39+00:00	Unboxing Panomera	https://www.youtube.com/watch?v=r9t7MHRO_PM
 2020-09-28T11:10:31+00:00	Senstar Safespaces bei Videotronic AG	https://www.youtube.com/watch?v=PFOAOjsA-AQ

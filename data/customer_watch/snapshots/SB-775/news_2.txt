@@ -1,4 +1,4 @@
-# SB-775 patton.com · news_2 · https://www.patton.com/press/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-775 patton.com · news_2 · https://www.patton.com/press/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 Patton - Press Room
 Toggle navigation
 COMPANY
@@ -123,6 +123,9 @@ Home
 >
 News Room
 Latest News
+Patton Delivers TDM-over-IP Technology in an SFP Module, Preserving Mission-Critical T1/E1 Services
+Announcing Pattons new ForeFront FF-T1E1-SFP module that empowers carriers, mobile operators, utilities, and missi. . .
+10.28.2026
 Patton and alfanar Partner to Accelerate the Secure Digital Transformation of Saudi Power Infrastructure
 Strategic agreement pairs Patton's industrial networking and cybersecurity technology with ALFANAR's energy infrast. . .
 9.2.2026
@@ -138,10 +141,9 @@ New joint solution combines XOP platforms with Patton's Tone Commander secure SI
 Patton Awarded Subcontract to Develop Source-Secure Fiber Optic Modules for U.S. Defense Applications
 Penn State Applied Research Laboratory has awarded Patton a subcontract to develop specialized, source-secure fiber. . .
 6.10.2026
-Artel Ignites Precision Networking with New Quarra PTP-10G4POE Switch
-The Quarra PTP-10G4POE from Artel is a rugged Ethernet switch with nanosecond PTP synchronization, PoE+, and 10G co. . .
-6.4.2026
 Recent Press Releases
+Artel Ignites Precision Networking with New Quarra PTP-10G4POE Switch
+6.4.2026
 Patton and Probity Partner to Protect Critical Infrastructure with Revolutionary New Data Diode Kit that Delivers NSA-Listed Security
 5.28.2026
 Patton Unveils Powerful New US-Manufactured 12G-SDI Fiber Extender Kits
@@ -180,8 +182,6 @@ Patton Announces World's Smallest Ethernet Extender: New SFP Module Extends Ethe
 9.9.2024
 Patton Acquires Raymar Information Technologies - Delivering Lifelines to Legacy Industrial Networks
 8.26.2024
-Patton Acquires Artel Video Systems: Enhancing IP- and Fiber-based Multimedia delivery portfolios.
-8.2.2024
 View Archive
 Subscribe!
 Patton NewsWire Service
@@ -285,4 +285,4 @@ SmartNode 4838 • Front/Rear • 455-kbyte • JPEG • RGB
 SmartLink 4022 • Front/Rear • 531-kbyte • JPEG • RGB
 SmartLink M-ATA • 221-kbyte • JPEG • RGB
 SmartLink M-ATA • 319-kbyte • JPEG • RGB
-SmartLink M
+SmartLin

@@ -1,4 +1,4 @@
-# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 Cyberbajt Wireless, Światłowody, MikroTik, Ubiquiti, Anteny WiFi i LTE, Monitoring
 Koszyk
 Kontakt
@@ -40,17 +40,17 @@ Wyniki wyszukiwania:
 Kategorie
 Nowości
 Promocje
-Urządzenia (2726)
-Wszystkie 2726
-Switche 1013
+Urządzenia (2732)
+Wszystkie 2732
+Switche 1014
 Access Pointy 187
 Routery WiFi 389
-Routery zaawansowane 106
+Routery zaawansowane 107
 Routery LTE/5G 216
 Adaptery PowerLine 21
 Urządzenia klienckie CPE 78
-Radiolinie 79
-Kontrolery sieci 15
+Radiolinie 80
+Kontrolery sieci 17
 Karty sieciowe 240
 Stacje bazowe ISP 88
 Dekodery IPTV 21
@@ -59,16 +59,16 @@ Telefony i bramki VoIP 22
 Akcesoria dedykowane 23
 Modemy LTE/5G 8
 Lokalizatory GPS 9
-Teltonika 118
+Teltonika 119
 VDSL, G.SHDSL, ADSL 1
-Światłowody (5055)
-Wszystkie 5055
+Światłowody (5056)
+Wszystkie 5056
 Kable DAC/AOC SFP+ QSFP+ SFP28 QSFP28 117
 Kable światłowodowe 1023
 Patchcordy światłowodowe 1328
 Pigtaile światłowodowe 118
 Moduły optyczne SFP, SFP+, QSFP+, SFP28, QSFP28 357
-Adaptery światłowodowe 126
+Adaptery światłowodowe 127
 Budowa sieci optotelekomunikacyjnej 353
 Spawarki światłowodowe i akcesoria 50
 Urządzenia diagnostyczne 158
@@ -106,27 +106,27 @@ Kable i wtyki CCTV 32
 Akcesoria instalacyjne CCTV 51
 Testery wideo z monitorem LCD 1
 Inne akcesoria CCTV 111
-LAN (4934)
-Wszystkie 4934
+LAN (4948)
+Wszystkie 4948
 Kable LAN 403
 Patchcordy RJ45 1868
-Szafy RACK 880
-Akcesoria do szaf RACK 885
+Szafy RACK 892
+Akcesoria do szaf RACK 886
 Moduły keystone 232
 Gniazda i wtyki 293
 Organizacja kabli 95
 Testery LAN 95
 Zaciskarki RJ, narzędzia, strippery 91
-System 45x45 39
+System 45x45 40
 Kable sterownicze i alarmowe YTDY 9
 Ograniczniki przepięć LAN 21
 Kable telefoniczne 23
-Zasilanie (2240)
-Wszystkie 2240
-Zasilacze UPS 371
+Zasilanie (2245)
+Wszystkie 2245
+Zasilacze UPS 372
 Zasilacze PoE 89
-Zasilacze buforowe 226
-Zasilacze impulsowe 509
+Zasilacze buforowe 227
+Zasilacze impulsowe 512
 Adaptery POE 52
 Akumulatory 106
 Przetwornice napięcia 158
@@ -225,12 +225,12 @@ Instalacje elektryczne (11)
 Wszystkie 11
 Produkty ergonomiczne (15)
 Wszystkie 15
-Akcesoria IT (1863)
-Wszystkie 1863
+Akcesoria IT (1866)
+Wszystkie 1866
 Stacje dokujące do dysków 6
 Kable i adaptery szeregowe oraz równoległe 23
 Konsole KVM 193
-Przełączniki KVM, USB 43
+Przełączniki KVM, USB 46
 Stacje dokujące do laptopów 15
 Adaptery USB 48
 Kable i adaptery HDMI, Display Port 260
@@ -254,13 +254,13 @@ Licencje 12
 Pamięci RAM 6
 Dyski twarde 63
 Dyski sieciowe NAS 147
-Inteligentny dom (473)
-Wszystkie 473
+Inteligentny dom (474)
+Wszystkie 474
 Dzwonki i wideodzwonki Smart 9
 Monitoring Smart 82
 Sterowanie ogrzewaniem 12
 Kontrolery i przekaźniki Smart 106
-Czujniki Smart 48
+Czujniki Smart 49
 Oświetlenie Smart 174
 Gniazda Smart Plug 28
 Huby i bramki Smart 14
@@ -278,29 +278,29 @@ Produkty archiwalne (557)
 Wszystkie 557
 Czołowi producenci
 Nowości
-Hikvision DS-2CD2043G2-LI2U(2.8mm) kamera IP bullet 4 MP AcuSense
-652.03 zł netto
+DIGITUS DS-12863 przełącznik KVM 2-portowy Triple Display 4K HDMI
+821.63 zł netto
 Do koszyka
-Hikvision DS-2CD2043G2-LI(2.8mm) kamera IP bullet 4 MP AcuSense
-617.47 zł netto
+DIGITUS DS-12865 przełącznik KVM 2-portowy Dual Display 4K
+661.15 zł netto
 Do koszyka
-Hikvision DS-2CD20123G2-LIUY/SL(2.8mm) kamera IP bullet 12 MP
-967.72 zł netto
+TP-Link Omada Flex Bridge 5 – zewnętrzny most bezprzewodowy 5 GHz
+554.4 zł netto
 Do koszyka
-Hikvision DS-2CD2T86G2H-2I(2.8mm)(eF) – kamera IP bullet 8 MP IR
-1167.14 zł netto
+TP-Link Omada Fusion G+ – brama sieciowa z kontrolerem
+971.19 zł netto
 Do koszyka
-Hikvision DS-2CD2T46G3-IZS2UY/SL(2.8/4mm) kamera IP bullet 4 MP
-872.93 zł netto
+TP-Link Tapo T150 – czujnik obecności człowieka 5 w 1
+168 zł netto
 Do koszyka
-Hikvision DS-2CD2T46G3-4IZY(2.8/4mm)(BLACK) kamera IP bullet 4 MP z obiektywem zmiennoogniskowym
-878.62 zł netto
+Mean Well HLG-150H-24B zasilacz LED 24 V 151,2 W z funkcją ściemniania
+212.98 zł netto
 Do koszyka
-Hikvision DS-2CD2T46G3-4IZY(2.8/4mm) kamera IP bullet 4 MP z obiektywem zmiennoogniskowym
-837.31 zł netto
+Mean Well HLG-150H-24A zasilacz LED 24 V 150 W 6,3 A
+208.03 zł netto
 Do koszyka
-Huawei eKitEngine S110-16T2S – niezarządzalny switch Gigabit z 2x SFP
-405.64 zł netto
+Mean Well HLG-150H-12B zasilacz LED 12 V 150 W IP67
+212.98 zł netto
 Do koszyka
 Projektowanie,
 budowa i integracja

@@ -1,4 +1,4 @@
-# SB-997 agmultivision.it · news_1 · https://www.agmultivision.it/project/digital-signage/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-997 agmultivision.it · news_1 · https://www.agmultivision.it/project/digital-signage/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 AGMultivision – DIGITAL SIGNAGE, totem interattivi, tavoli touch
 Facebook
 X
@@ -85,7 +85,7 @@ DISPLAY TOUCH SCREEN
 MIRROR DISPLAY
 Focus Partner
 Vuoi scoprire cosa possiamo fare per te?
-Email
+Facebook
 Questo campo serve per la convalida e dovrebbe essere lasciato inalterato.
 Nome *
 Cognome *

@@ -1,4 +1,4 @@
-# SB-683 spectra.de · home · https://spectra.de/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-683 spectra.de · home · https://spectra.de/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 Spectra - Der Partner für Industrie-PC und Automation
 Zum Hauptinhalt springen
 Zur Suche springen
@@ -163,7 +163,7 @@ Industrie-PCs für RoBoTec
 RoBoTec revolutioniert mit Spectra KI-Workstations die Automatisierung in der Agrarindustrie
 Next-Level Pflanzenproduktion: Vollautomatisiert, steril, KI-optimiert. Roboter greifen Setzlinge, Computer Vision analysiert jede Mikrosekunde, eine inhouse trainierte KI berechnet den perfekten Schnittweg – und ein Hochpräzisions-Laser erledigt den Rest.
 Keine Menschen, keine Kontamination, 24/7 Produktion, maximale Qualität.
--> Hier die spannende Application-Story von RoBoTec entdecken
+› Hier die spannende Application-Story von RoBoTec entdecken
 Industrie-PCs für RoBoTec
 RoBoTec revolutioniert mit Spectra KI-Workstations die Automatisierung in der Agrarindustrie
 Next-Level Pflanzenproduktion: Vollautomatisiert, steril, KI-optimiert. Roboter greifen Setzlinge, Computer Vision analysiert jede Mikrosekunde, eine inhouse trainierte KI berechnet den perfekten Schnittweg – und ein Hochpräzisions-Laser erledigt den Rest.
@@ -178,18 +178,18 @@ Sofort lieferbar
 Marktsituation
 Industrie-PC und Automatisierungstechnik News
 News zu Industrie-PCs und Automatisierungstechnik
+› Box-PCs für Echtzeitanwendungen
+28.10.2026
+Kurze Reaktionszeiten und hohe Rechenleistung sind in der industriellen Automatisierung entscheidend. Die neuen Spectra Box-PCs mit Intel Core 5 223PTE der Bartlett-Lake-Generation bieten acht Performance-Cores, bis zu 5,4 GHz und Echtzeitanwendungen...
+› Bestehende Videoüberwachung intelligent nachrüsten
+27.10.2026
+Mehr Sicherheit ohne aufwendige neue Infrastruktur: Mit der kompakten PLANET AIS-1000 AI Surveillance Station lassen sich bestehende Kamerasysteme um intelligente Analysefunktionen erweitern...
+› Energieeffiziente Plattform für Embedded-Systeme
+27.10.2026
+Wenig Platz im System, aber hohe Anforderungen an Rechenleistung und Konnektivität? Das GIGAIPC QBi-N150A bietet eine kompakte und energieeffiziente Plattform für industrielle Visualisierung, Maschinenüberwachung und IIoT-Anwendungen...
 › Mehr Rechenleistung für anspruchsvolle Anwendungen
 02.10.2026
 Ob Bildverarbeitung, KI, Simulation oder anspruchsvolle Engineering-Anwendungen: Die Spectra WS 6000 mit AMD Ryzen Threadripper bietet die Rechenleistung, die komplexe industrielle Aufgaben benötigen. So lassen sich große Datenmengen...
-› Industrielle Netzwerke zuverlässig schützen
-01.10.2026
-Mit der zunehmenden Vernetzung von Maschinen und Anlagen steigen auch die Anforderungen an die Cybersicherheit industrieller Netzwerke. Die IEC 62443-4-2-zertifizierten ORing Switches aus unserem Portfolio bieten eine nach einem...
-› Der 19-Zoll-Industrie-PC für schnelleren Service und weniger Stillstand
-12.08.2026
-Kein umständliches Öffnen von Maschinen, kein Ausbau des Rack-PCs: Beim neuen SPECTRA Rack 6000 U5 Front I/O befinden sich nahezu alle wichtigen Schnittstellen direkt auf der Vorderseite. Das spart Zeit bei Inbetriebnahme, Wartung und Service...
-› M-Bus-Konverter für Gebäudeautomation und Energiemonitoring
-05.08.2026
-Der C04 M-Bus Master zu RS-232/RS-485 Konverter verbindet bis zu zehn M-Bus-Zähler zuverlässig mit Ihrer seriellen Infrastruktur. Dank 1 kV galvanischer Trennung, robustem Temperaturbereich von -40 bis +75 °C und flexibler DIN-Schienenmontage eignet sich...
 News zum Industrie-PC Markt und Spectra Internes
 › Spectra stellt die Weichen für die Zukunft
 18.09.2026

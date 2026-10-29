@@ -1,4 +1,4 @@
-# SB-397 netiks.rs · sitemap · http://www.netiks.rs/sitemap.xml · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-397 netiks.rs · sitemap · http://www.netiks.rs/sitemap.xml · fetched 2026-10-29T08:41:09Z · HTTP 200
 2011-03-03	http://www.netiks.rs
 2011-03-03	http://www.netiks.rs/svi-proizvodi
 2011-03-03	http://www.netiks.rs/prodavnica

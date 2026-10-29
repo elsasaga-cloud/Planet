@@ -1,4 +1,4 @@
-# SB-917 torqsys.com · sitemap · https://www.fuzzylogicautomation.com/sitemap.xml · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-917 torqsys.com · sitemap · https://www.fuzzylogicautomation.com/sitemap.xml · fetched 2026-10-29T08:41:09Z · HTTP 200
 2025-07-19	https://www.fuzzylogicautomation.com/about-us
 2025-12-28	https://www.fuzzylogicautomation.com/contactus
 2025-07-06	https://www.fuzzylogicautomation.com/privacy

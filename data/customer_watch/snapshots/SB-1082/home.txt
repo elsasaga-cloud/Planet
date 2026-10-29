@@ -1,4 +1,4 @@
-# SB-1082 standardaudio.se · home · https://www.standardaudio.se/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-1082 standardaudio.se · home · https://www.standardaudio.se/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 Standard Audio Systems AB - Ledande systemleverantör av AV-teknik, talat utrymningslarm, inrymningslarm
 Nyheter
 Service & Support
@@ -218,7 +218,6 @@ Display
 Stativ & Kiosker
 Display
 Interaktiva skärmar
-LED-vägg
 PC-moduler
 Skärmar
 Stativ & Fästen
@@ -460,7 +459,6 @@ Stativ & Kiosker
 Tillbehör
 Display
 Interaktiva skärmar
-LED-vägg
 PC-moduler
 Skärmar
 Stativ & Fästen
@@ -795,4 +793,6 @@ Hörselhjälpmedel
 Slingförstärkare
 Tillbehör
 WIFI
-IP Audi
+IP Audio
+Konferenssystem
+

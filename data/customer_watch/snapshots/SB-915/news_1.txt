@@ -1,4 +1,4 @@
-# SB-915 radwin.com · news_1 · https://www.radwin.com/blog · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-915 radwin.com · news_1 · https://www.radwin.com/blog · fetched 2026-10-29T08:41:09Z · HTTP 200
 Blog Posts | RADWIN Website
 Skip to Content
 Home
@@ -71,6 +71,15 @@ What's New
 PR Archive
 Customer Success
 ​
+Wi-Fi 7 Fixed Wireless Access
+Wi-Fi 7 Goes Outdoors: What It Means for Fixed Wireless Wi-Fi 7 is best known as the technology inside the newest phones and home routers. But for fixed wireless operators, its bigger opportunity may ...
+Deterministic Wireless
+Fixed Wireless Access
+PtMP
+QORA
+Wi-Fi 7
+Oct 28, 2026
+Articles
 Cambium Networks Administration: FAQ for Partners & ISPs
 Who Bought Cambium Networks? Product Status for Partners and ISPs Last updated: October 21, 2026. We update this page as new public information becomes available. Cambium Networks went into administra...
 Cambium
@@ -168,14 +177,6 @@ Professional Services
 WINCare
 Nov 30, 2025
 Customer Success
-Extending the TerraNet mmWave Series: Introducing the New V90
-High-Capacity Wireless. Zero Compromise. RADWIN continues to deliver high-performance wireless connectivity with the expansion of the TerraNet 60 GHz mmWave Series ,now featuring the new TerraNet V90 ...
-MMWave
-PtMP
-PtP
-TerraNet
-Oct 24, 2025
-What's New
 1
 2
 3
@@ -255,11 +256,13 @@ Alpha PRO
 Cambium
 Deterministic Wireless
 ePMP
+Fixed Wireless Access
 Free Assessment
 Migration
 PMP
 PTP
 QORA
+Wi-Fi 7
 About us​
 RADWIN connects people, businesses, and critical infrastructure with reliable, secure, and scalable wireless solutions, keeping the world connected, resilient, and ready for what’s next.
 Social Media

@@ -1,4 +1,4 @@
-# SB-547 netinet.pl · feed_auto · https://netinet.pl/feed/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-547 netinet.pl · feed_auto · https://netinet.pl/feed/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 Wed, 30 Sep 2026 06:52:10 +0000	Jak dobrać odpowiedni uchwyt do projektora?	https://netinet.pl/jak-dobrac-odpowiedni-uchwyt-do-projektora/
 Fri, 25 Sep 2026 07:00:45 +0000	Jak wybrać biurko komputerowe? Poradnik i modele Techly	https://netinet.pl/jak-wybrac-biurko-komputerowe/
 Sun, 30 Aug 2026 18:44:17 +0000	Ranking TOP 5 szaf ładujących z gniazdami 230 V AC. Które rozwiązanie wybrać?	https://netinet.pl/szafy-ladujace-do-laptopow-ranking-top-5/

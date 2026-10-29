@@ -1,9 +1,10 @@
-# SB-391 inscapedata.com · home · https://inscapedata.com/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-391 inscapedata.com · home · https://inscapedata.com/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 Outdoor PoE Switch, Leader in Outdoor Network Solutions, Outdoor 2, 4, 8 Port Gigabit PoE Switch, Outdoor PoE Managed Switch, Weatherproof Gigabit PoE Switch, Waterproof PoE Switch, Gigabit PoE Injector, Remote Reboot, Outdoor Power over Ethernet Management, Wired, Wireless & IP Video Surveillance Systems | Inscape Data
 Products & Solutions
 Outdoor PoE & Enclosure Solutions
 Outdoor PoE Switches
-Outdoor Din Rail & Rack Mount PoE Switches
+Outdoor Din Rail PoE Switches
+Outdoor Rack Mount PoE Switches
 Outdoor UPS & UPS PoE Systems
 Outdoor Gigabit & 2.5Gb PoE Injectors
 Passive PoE Switches
@@ -136,7 +137,8 @@ Support
 Company
 Outdoor PoE & Enclosure Solutions
 Outdoor PoE Switches
-Outdoor Din Rail & Rack Mount PoE Switches
+Outdoor Din Rail PoE Switches
+Outdoor Rack Mount PoE Switches
 Outdoor UPS & UPS PoE Systems
 Outdoor Gigabit & 2.5Gb PoE Injectors
 Passive PoE Switches

@@ -1,4 +1,4 @@
-# SB-032 PIOLINK · news_1 · https://www.piolink.com/en/company/News.php · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-032 PIOLINK · news_1 · https://www.piolink.com/en/company/News.php · fetched 2026-10-29T08:41:09Z · HTTP 200
 PIOLINK - News
 Skip to main content
 Skip to main menu
@@ -86,6 +86,10 @@ No.
 분류
 제목
 작성일
+202
+[Notice] Node.js Vulnerabilities (CVE-2026-111497 and 9 Others): Impact on PIOLINK Products
+2026-10-29
+Notice
 201
 [Notice] PHP Engine Vulnerabilities (CVE-2026-109618 / CVE-2026-109619): Product Impact and Recommended Actions
 2026-10-28
@@ -141,10 +145,6 @@ Press Releases
 188
 PIOLINK Supplies 3,500 Security Switches and APs to Japan’s Largest Car-Life Store, AUTOBACS — Supporting DX in Automotive Maintenance Services
 2025-07-04
-Press Releases
-187
-PIOLINK Participated in K-Global@Vietnam 2025
-2025-06-23
 Press Releases
 1 2 3 4 5 6 7 8 9 10
 Share this page

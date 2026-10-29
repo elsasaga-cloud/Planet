@@ -1,4 +1,4 @@
-# SB-758 fossfibreoptics.com · news_1 · https://www.fossfibreoptics.com/news · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-758 fossfibreoptics.com · news_1 · https://www.fossfibreoptics.com/news · fetched 2026-10-29T08:41:09Z · HTTP 200
 News & Articles | Fiber Optic Insights, Product Updates & Company News | Foss
 Skip to main content
 To top
@@ -118,6 +118,9 @@ Sale and delivery conditions
 Data protection policy
 For Slovakia and Czech Republic
 NEWS AND ARTICLES
+Unmanned Systems and Automation: Changing the Future of Defence Operations
+Unmanned systems are becoming an increasingly important part of modern defence operations. From aerial surveillance and reconnaissance to logistics, engineering and operations in hazardous environments, UAVs and UGVs are extending the reach of military personnel while reducing the need to expose people to unnecessary risk.
+Read more
 Fiber-Optic Spools for Drones and UGVs
 Reliable communication is one of the fundamental challenges in remotely operated systems. Drones, unmanned ground vehicles (UGVs) and robotic platforms typically depend on radio-frequency (RF) links to transmit video, sensor data and control signals.
 Read more
@@ -214,8 +217,4 @@ Reliable fiber optic solutions for safety and communication in the transport sec
 Roads and railways place great demands on the network's reliability. The fiber optic equipment must withstand both mechanical stress an large temperature variations. This can make standard materials unsuitable.
 Read more
 High quality products designed for extreme environments
-Rough maritime environments require products with uncompromising quality. Wet and salty environments with mechanical stress and large temperature variations can make standard materials unsuitable. The products must also be easy to install and maintain.
-Read more
-Robust fiber optics solutions for industrial use
-Industrial environments place great demands on equipment. Both mechanical stress and large temperature variations can make standard materials unsuitable.
-Rea
+Rough maritime environments require products with uncomprom

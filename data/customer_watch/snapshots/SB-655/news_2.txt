@@ -1,4 +1,4 @@
-# SB-655 digisol.com · news_2 · https://www.digisol.com/resources/case-study/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-655 digisol.com · news_2 · https://www.digisol.com/resources/case-study/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 Case Study - Digisol
 Company
 About Us
@@ -57,7 +57,6 @@ End of Life Products
 Download Drivers
 Firmware
 Product Registration
-Where to Buy
 Warranty
 Warranty/DOA Policy
 Surveillance Products Warranty
@@ -71,6 +70,7 @@ Become Digisol Partner
 Partners
 Partner schemes
 Visit DAPP
+Where to Buy
 Shop Now
 Search
 Company
@@ -130,7 +130,6 @@ End of Life Products
 Download Drivers
 Firmware
 Product Registration
-Where to Buy
 Warranty
 Warranty/DOA Policy
 Surveillance Products Warranty
@@ -144,12 +143,13 @@ Become Digisol Partner
 Partners
 Partner schemes
 Visit DAPP
+Where to Buy
 Shop Now
 Case Study
 Home
 Resources
 Case Study
-localadmin 2026-06-22T11:+
+Digisol 2026-06-22T11:+
 Education
 Hospitality
 Real Estate
@@ -160,19 +160,5 @@ Defense
 BSFI
 Infrastructure
 Ecommerce
-Corporate Office
-CITIPOINT,
-Unit No. B-701, B-702 & B-703, Andheri – Kurla Rd, Andheri East, Mumbai, Maharashtra 400059
-Registered office L-7, Verna Industrial Estate, Salcete, Goa India – 403722
-Toll Free : – 1800-209-3444
-Mail ID – helpdesk@digisol.com
-Quick Links
-About Us
-Solution
-Careers
-Resources
-Privacy Policy
-Make in India Initiative
-Digisol IT Networking Made In India Products are available in specific part codes
-© 2024 Digisol Systems Ltd. All Rights Reserved
+Digisol is proudly powered by WordPress
 WhatsApp us

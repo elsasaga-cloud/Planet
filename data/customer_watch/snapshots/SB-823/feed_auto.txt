@@ -1,4 +1,4 @@
-# SB-823 synchronet.net · feed_auto · https://synchronet.net/feed/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-823 synchronet.net · feed_auto · https://synchronet.net/feed/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 Fri, 16 Oct 2026 22:23:44 +0000	Microsoft 365 Isn’t a Backup Strategy: What Every Western New York Business Leader Should Know	https://synchronet.net/microsoft-365-backup-western-new-york/
 Thu, 01 Oct 2026 10:13:00 +0000	Top 5 Small Business IT Problems That Can Disrupt Your Western New York Business	https://synchronet.net/small-business-it-problems-disrupt-operations/
 Thu, 24 Sep 2026 10:29:00 +0000	Is Your Business Wasting Money on Microsoft 365? A Guide to Microsoft 365 Optimization	https://synchronet.net/microsoft-365-optimization-roi/

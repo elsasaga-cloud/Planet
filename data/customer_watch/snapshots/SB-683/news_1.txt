@@ -1,4 +1,4 @@
-# SB-683 spectra.de · news_1 · https://spectra.de/news/industrie-pc-und-automation-news · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-683 spectra.de · news_1 · https://spectra.de/news/industrie-pc-und-automation-news · fetched 2026-10-29T08:41:09Z · HTTP 200
 Industrie-PC und Automation News von Spectra
 Zum Hauptinhalt springen
 Zur Suche springen
@@ -143,6 +143,15 @@ Industrie-PC und Automation News
 In unserem Newsbereich informieren wir Sie regelmäßig über Neuigkeiten rund um Spectra und die Welt der industriellen IT. Sie erhalten aktuelle Informationen zu Industrie-PC-Systemen, Industrie-PC Komponenten, Automationslösungen, industrieller Kommunikation und neusten Technologien.
 Darüber hinaus berichten wir über Messen und Veranstaltungen, Produktneuheiten und Entwicklungen bei Spectra – kompakt, praxisnah und immer auf dem neuesten Stand.
 News zu Industrie-PCs und Automatisierungstechnik
+› Box-PCs für Echtzeitanwendungen
+28.10.2026
+Kurze Reaktionszeiten und hohe Rechenleistung sind in der industriellen Automatisierung entscheidend. Die neuen Spectra Box-PCs mit Intel Core 5 223PTE der Bartlett-Lake-Generation bieten acht Performance-Cores, bis zu 5,4 GHz und Echtzeitanwendungen...
+› Bestehende Videoüberwachung intelligent nachrüsten
+27.10.2026
+Mehr Sicherheit ohne aufwendige neue Infrastruktur: Mit der kompakten PLANET AIS-1000 AI Surveillance Station lassen sich bestehende Kamerasysteme um intelligente Analysefunktionen erweitern...
+› Energieeffiziente Plattform für Embedded-Systeme
+27.10.2026
+Wenig Platz im System, aber hohe Anforderungen an Rechenleistung und Konnektivität? Das GIGAIPC QBi-N150A bietet eine kompakte und energieeffiziente Plattform für industrielle Visualisierung, Maschinenüberwachung und IIoT-Anwendungen...
 › Mehr Rechenleistung für anspruchsvolle Anwendungen
 02.10.2026
 Ob Bildverarbeitung, KI, Simulation oder anspruchsvolle Engineering-Anwendungen: Die Spectra WS 6000 mit AMD Ryzen Threadripper bietet die Rechenleistung, die komplexe industrielle Aufgaben benötigen. So lassen sich große Datenmengen...
@@ -225,13 +234,4 @@ Teltonika Networks ist ein europäischer Hersteller industrieller Netzwerk- und 
 › Sealevel bei Spectra
 28.04.2026
 USB-Isolatoren mit medizinischen Zulassungen
-Sealevel Systems Inc. ist ein US-amerikanischer Hersteller von industriellen Computing- und Kommunikationslösungen. Die Produkte zeichnen sich durch außergewöhnliche Robustheit...
-› Redisage bei Spectra
-10.03.2026
-Als exklusiver Redisage-Distributor in der DACH-Region bietet Spectra direkten Zugang zu besonders kompakten, robusten und flexibel integrierbaren Kommunikationslösungen mit erweiterten industriellen Eigenschaften.
-› Strategische Engineering Alliance für innovative Industrie-PCs
-26.02.2026
-Die langjährige Strategische Engineering Alliance zwischen Spectra und Cincoze vereint Applikationserfahrung und Entwicklungsexpertise aus Deutschland mit Elektronik-Know-how und Fertigungsqualität aus Taiwan...
-› CRA-ready - für Ihre Investitionssicherheit
-02.02.2026
-Für Spectra sind Security und Safety integraler Bestandteil jedes Produkts. Die Bedeutung der Cybersicherheit wächst in einer zunehmend vernetzten und digitalisierten Welt stetig. Um Unternehmen und Verbrauch
+Sealevel Systems Inc. ist ein US-amerikanischer Hersteller von industriellen Computing- und Kommunikationslösungen. Die Produk

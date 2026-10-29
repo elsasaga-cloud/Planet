@@ -1,4 +1,4 @@
-# SB-946 intrising.com.tw · home · https://www.intrising.com.tw/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-946 intrising.com.tw · home · https://www.intrising.com.tw/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 Home - Intrising Networks
 ...
 News
@@ -52,6 +52,10 @@ AV Over IP
 Extenders / Controller / Switch / App & Cloud Service Total Solution
 Learn More
 News
+Expo
+Let's Connect at SPS 2026!
+Information of SPS 2026
+Intrising Networks is Headed to SPS 2026 — Join Us in Nuremberg!
 New Feature
 ISO 9001:2015 Certification
 Elevating Excellence in Quality
@@ -64,10 +68,6 @@ Expo
 Let's Meet at SPS 2025!
 Information of SPS 2025
 Intrising is going to SPS 2025 and we are excited to meet you there!
-New Feature
-T Series
-Intrising Unveils the Future of Industrial Networking
-Intrising’s launchues T Series 10G TSN switches for Industry 4.0. Featuring IEEE 802.1Qbv/AS for nanosecond sync and HSR/PRP for zero-loss redundancy, these ruggedized solutions bridge IT/OT with deterministic, high-bandwidth performance.
 Intrising Networks
 Your Trustworthy Partner For A Connected Future
 Integration

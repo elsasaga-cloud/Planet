@@ -1,4 +1,4 @@
-# SB-311 dipolnet.cz · home · https://www.dipolnet.cz/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-311 dipolnet.cz · home · https://www.dipolnet.cz/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 Monitorování IP, LAN, WLAN, TV, SAT, Antény, Vodiče - DIPOL
 Přizpůsobíme se vám
 Používáme cookies , aby náš obchod fungoval spolehlivě a přizpůsobil se vám. Cookies nám umožňují přizpůsobit obsah a propagační akce vašim zájmům.
@@ -501,7 +501,7 @@ Do košíku
 Náhled
 IP tube kamera Dahua IPC-HFW2849TL-S-LED-0280B-PRO (8 Mpix, 2,8 mm, 0,0004 lx, osvětlení bílým světlem 20 m, WizColor)
 14172,73 Kč
-Předchozí nejnižší cena: 14172,73 Kč
+Předchozí nejnižší cena: 8078,46 Kč
 9070,55 Kč
 7496,32 Kč bez DPH
 Kód: Q1755
@@ -509,7 +509,7 @@ Do košíku
 Náhled
 Otočná PTZ IP kamera Dahua SD3D416NB-GNY (4 Mpix, 5–80 mm, optický zoom: 16x, IR 80 m, PoE)
 18836,68 Kč
-Předchozí nejnižší cena: 13185,67 Kč
+Předchozí nejnižší cena: 10736,91 Kč
 12055,47 Kč
 9963,20 Kč bez DPH
 Kód: K00919
@@ -530,7 +530,7 @@ Kód: K17910
 Náhled
 Hikvision DS-2CD1F47G3H-LIUF/SX PT pan-tilt IP camera (4 Mpix, 2.8 mm, hybrid illumination up to 30 m, Auto Tracking, ColorVu, Audio, PoE)
 10318,88 Kč
-Předchozí nejnižší cena: 9555,98 Kč
+Předchozí nejnižší cena: 9460,42 Kč
 10215,69 Kč
 8442,72 Kč bez DPH
 Kód: M89329
@@ -616,4 +616,4 @@ Terénní testy technologie 6G. Komunikace v pásmu 7 GHz ověřena mimo laborat
 Společnosti Ericsson a Verizon oznámily provedení jednoho z prvních terénních testů komunikace využívající technologii 6G v pásmu 7 GHz na světě. Testování proběhlo v kalifornském Concordě, v areálu fungující základnové stanice amerického operátora. V rámci tohoto projektu se poprvé podařilo navázat spojení s využitím předstandardizovaného systému 6G v reálném venkovním prostředí, což představuje významný krok směrem k vývoji budoucích mobilních sítí....
 Pokračovat ve čtení
 Kaskádové zapojení modulátorů DVB-T Signal.
-Modulátory Signal-420 R86700 umožňují distribuci digitálního signálu HD v koaxiálním kabelu, jehož zdrojem mohou být mimo jiné zařízení jako: multimediální přehrávače, DVR rekordéry, Blu-ray přehrávače, stolní počítače
+Modulátory Signal-420 R86700 umožňují distribuci digitálního signálu HD v koaxiálním kabelu, jehož zdrojem mohou být mimo jiné zařízení jako: multimediální přehrávače, DVR rekordéry, Blu-ray přehrávače, stolní počítače,

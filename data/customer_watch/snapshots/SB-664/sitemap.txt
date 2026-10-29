@@ -1,4 +1,4 @@
-# SB-664 jm.pl · sitemap · https://jm.pl/sitemap.xml · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-664 jm.pl · sitemap · https://jm.pl/sitemap.xml · fetched 2026-10-29T08:41:09Z · HTTP 200
 	https://jm.pl/pl/baza-wiedzy-7-wip/
 	https://jm.pl/pl/baza-wiedzy-1-wip/
 	https://jm.pl/pl/specjalista-ds-sprzedazy-led-sektor-b2b/
@@ -141,11 +141,11 @@
 	https://jm.pl/pl/zasady/
 	https://jm.pl/pl/o-firmie/
 	https://jm.pl/pl/kariera/
+	https://jm.pl/en/career/
 	https://jm.pl/en/promotions/
 	https://jm.pl/en//
 	https://jm.pl/en/linecard/
 	https://jm.pl/en//
-	https://jm.pl/en/career/
 	https://jm.pl/en/about-company/
 	https://jm.pl/en/contact/
 	https://jm.pl/en/rules/

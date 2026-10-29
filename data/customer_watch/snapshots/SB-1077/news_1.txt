@@ -1,4 +1,4 @@
-# SB-1077 soft-tronik.ru · news_1 · https://www.soft-tronik.ru/news/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-1077 soft-tronik.ru · news_1 · https://www.soft-tronik.ru/news/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 Новости
 Дистрибуторская компания
 Москва
@@ -204,7 +204,7 @@ B2B
 Главная
 Новости
 Найти
-Мы теперь в Телеграмм и Макс!
+Мы теперь в Телеграм и Макс!
 19.10.2026
 Приглашаем на вебинар Zyxel Networks
 18.10.2026

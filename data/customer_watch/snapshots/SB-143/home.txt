@@ -1,4 +1,4 @@
-# SB-143 broadstar.com · home · https://www.broadstar.com/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-143 broadstar.com · home · https://www.broadstar.com/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 Home - Broadstar
 Skip to content
 Menu
@@ -194,7 +194,6 @@ Property Manager
 Owner or Developer
 Other
 Number of Units *
-Role Services Name
 Property Location * --- Select Choice ---
 West Palm Beach area
 Fort Lauderdale area
@@ -204,6 +203,7 @@ Punta Gorda area
 Panama City / Panhandle
 Other Florida
 Outside Florida
+Property Community Your
 Services of Interest Internet
 BroadStreamTV
 Phone

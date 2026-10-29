@@ -1,4 +1,4 @@
-# SB-333 yli.ro · home · https://yli.ro/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-333 yli.ro · home · https://yli.ro/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 YLI Control Acces
 HOME
 PRODUSE
@@ -150,21 +150,21 @@ suport
 Customer Service
 Formular Retur/Service
 contact
-QK-M1000BKIT(V2)+ - Kit automatizare porti culisante, controler digital QK-CE24AQ, max. 1000kg, 24Vcc
-G3-TT - Gateway Bluetooth–LAN pentru incuietori inteligente TTLock, conexiune Ethernet RJ45
+INBIO-1-2PRO-PLUS - Centrala biometrica de control acces IP pentru 1 usa, cu suport pentru cititoare Wiegand, RS-485 si acces bi-directional
 BXB-E30DZE-BL - Corp bariera de acces auto cu servomotor BRUSHLESS pe 24Vcc, viteza reglabila 1,5–6 secunde, brat de pana la 6 metri
-FLM16-FJ-4-E-RDGN - Buton de iesire, contact NO-COM, LED rosu/verde, montaj Ø16 mm, actionare prin apasare, IP67
-YMP-180 - Electromagnet aplicat de 180 kgf, IP68, rezistent la medii saline
-CCA3-2-2PLUS - Centrala de control acces IP pentru 2 usi cu suport cititoare Wiegand, RS485 si acces bi-directional
-S535(BRAK.F.RAIN) - Aparatoare ploaie pentru interfoanele Akuvox S535
-CAB4-PS5-gy(M) - Cabinet multifunctional pentru centrale de control acces, sursa 12~14.1Vcc / 5A, backup, negru-gri, cu pini magnetici pentru fixare controler
-BXB-S45CB01VF-H-wh-L - Corp bariera cu servomotor 24V, ciclu de utilizare industrial intensiv 100%, brat maxim 4.5m, 1-4 SECUNDE, MTBF 6 milioane
-YMP-180-S - Electromagnet aplicat de 180 kgf, IP68, monitorizare NO-COM, rezistent la medii saline
 GL-QM6-219 - Bolard auto hidraulic din Inox cu diametru de 219mm si inaltime utila de 600mm cu iluminare LED, IP68
-CAB4-PS5-wh(M) - Cabinet multifunctional pentru centrale de control acces, sursa 12~14.1Vcc / 5A, backup, alb, cu pini magnetici pentru fixare controler
-S535 - Video interfon IP SIP, post de apel cu ecran touchscreen de 5”, Linux, BLE 5.0, recunoaștere facială, NFC, cod QR
-BMPB-Z311-900 - Poarta batanta bidirectionala cu servomotor brushless, senzori deschidere automata, calea de trecere de 900mm
+BXB-S45CB01VF-H-wh-L - Corp bariera cu servomotor 24V, ciclu de utilizare industrial intensiv 100%, brat maxim 4.5m, 1-4 SECUNDE, MTBF 6 milioane
+FLM16-FJ-4-E-RDGN - Buton de iesire, contact NO-COM, LED rosu/verde, montaj Ø16 mm, actionare prin apasare, IP67
+MBK-380MC - Suport pentru montarea aparenta a contraplacii electromagnetilor YMP-380M
+S535(BRAK.S) - Suport montare aplicata pentru videointerfoanele IP Akuvox S535
+G3-TT - Gateway Bluetooth–LAN pentru incuietori inteligente TTLock, conexiune Ethernet RJ45
 INBIO-2-2PRO-PLUS - Centrala biometrica de control acces IP pentru 2 usi, cu suport pentru cititoare Wiegand, RS-485 si acces bi-directional
+CAB4-PS5-wh(M) - Cabinet multifunctional pentru centrale de control acces, sursa 12~14.1Vcc / 5A, backup, alb, cu pini magnetici pentru fixare controler
+INBIO-4-2PRO-PLUS - Centrala biometrica de control acces IP pentru 4 usi, cu suport pentru cititoare Wiegand, RS-485 si acces bi-directional
+GL-KZQ-01 - Cabinet complet echipat pentru controlul a maxim 8 bolarzi hidraulici
+PB-16-NO(LED)-rdgn - Buton de iesire, contact NO, Led semnalizare, filet M16, actionare prin apasare
+BMPB-Z311-900 - Poarta batanta bidirectionala cu servomotor brushless, senzori deschidere automata, calea de trecere de 900mm
+CCA3-2-2PLUS - Centrala de control acces IP pentru 2 usi cu suport cititoare Wiegand, RS485 si acces bi-directional
 Noutati
 Supraveghere video Dahua
 YLI CONTROL ACCES anunță cu plăcere parteneriatul de distribuție cu Zhejiang Dahua Technology Co., Ltd. (Dahua Technology), unul din liderii mondiali furnizor de serv....

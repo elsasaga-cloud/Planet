@@ -1,4 +1,4 @@
-# SB-172 consteel-electronics.com · home · https://consteel-electronics.com/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-172 consteel-electronics.com · home · https://consteel-electronics.com/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 Automatyka i elektronika przemysłowa - CONSTEEL Electronics
 Menu
 Twój koszyk
@@ -293,7 +293,8 @@ Negocjuj cenę ">
 Negocjuj cenę
 Podgląd
 Nowość
-5-7 dni
+Wysyłka 24h
+Testuj za Darmo!
 KLIC-LG1 – bramka KNX do klimatyzacji LG z interfejsem R/Y/B i 3 wejściami, Zennio
 KLIC-LG1 – bramka KNX do klimatyzacji LG z interfejsem R/Y/B i sterowaniem nawiewem.KLIC-LG1 firmy Zennio to bramka komunikacyjna KNX przeznaczona..
 814,00 zł
@@ -487,5 +488,4 @@ Podgląd
 Nowość
 2 lata gwarancji
 3-4 dni
-HD67G31-G43-B2 konwerter DMX do HTTP/REST Server z RS-485, LAN, LTE SIM i montażem DIN
-HD67G31-G43-B
+HD67G31-G43-B2 konwerter DMX do HTTP/REST Server z RS-485, LAN, LTE SIM i monta

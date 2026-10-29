@@ -1,4 +1,4 @@
-# SB-915 radwin.com · sitemap · https://www.radwin.com/sitemap.xml · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-915 radwin.com · sitemap · https://www.radwin.com/sitemap.xml · fetched 2026-10-29T08:41:09Z · HTTP 200
 2026-01-22	https://www.radwin.com/about
 2026-01-22	https://www.radwin.com/become-a-partner
 2026-01-22	https://www.radwin.com/board-of-directors
@@ -12,9 +12,9 @@
 2026-03-12	https://www.radwin.com/contact-radwin-certification
 2026-03-12	https://www.radwin.com/contact-request-a-quote
 2026-04-13	https://www.radwin.com/contact-support-request
-2026-10-26	https://www.radwin.com/contactus
+2026-10-28	https://www.radwin.com/contactus
 2026-08-16	https://www.radwin.com/cookie-policy
-2026-10-21	https://www.radwin.com/descubre-qora
+2026-10-29	https://www.radwin.com/descubre-qora
 2026-10-25	https://www.radwin.com/employee/form
 2025-11-04	https://www.radwin.com/forestry
 2025-11-02	https://www.radwin.com/forestry-first-responders
@@ -136,6 +136,7 @@
 	https://www.radwin.com/blog/videos-10/feed
 	https://www.radwin.com/blog/what-s-new-2/feed
 	https://www.radwin.com/blog/11/feed
+	https://www.radwin.com/blog/articles-3/wi-fi-7-fixed-wireless-access-122
 	https://www.radwin.com/blog/articles-3/cambium-ptp-alternative-radwin-alpha-pro-and-2000e-121
 	https://www.radwin.com/blog/articles-3/epmp-and-pmp-450-alternatives-120
 	https://www.radwin.com/blog/articles-3/cambium-networks-administration-faq-for-partners-isps-119
@@ -175,4 +176,4 @@
 	https://www.radwin.com/blog/pr-archive-6/fcc-grants-radwin-s-waiver-enabling-jet-point-to-multipoint-beamforming-5ghz-base-stations-to-operate-at-a-higher-power-during-the-covid-19-pandemic-56
 	https://www.radwin.com/blog/pr-archive-6/radwin-professional-services-provides-network-optimization-assistance-worldwide-during-covid-19-55
 	https://www.radwin.com/blog/pr-archive-6/introducing-radwin-s-new-and-innovative-multisectortm-ptmp-dual-carrier-base-station-series-54
-	https://www.radwin.com/blog/pr-archive-6/radwin-introduces-terrabridge-a-cutting-edge-mmwave-solution-for-the-transportation-mark
+	https://www.radwin.com/blog/pr-archive-6/radwin-introdu

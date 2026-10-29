@@ -1,4 +1,4 @@
-# SB-092 spacetronik.pl · home · https://spacetronik.pl/en/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-092 spacetronik.pl · home · https://spacetronik.pl/en/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 Spacetronik.pl - Official Brand Store | Electronics & Technology.
 Ergoline Smartline
 Log in
@@ -12,10 +12,10 @@ de
 en
 cs
 sk
-Prices in zł (1 € = 4.3175zł)
+Prices in zł (1 € = 4.3208zł)
 €
-Kč (1 € = 24.3377Kč)
-$ (1 € = 1.1256$)
+Kč (1 € = 24.37Kč)
+$ (1 € = 1.1242$)
 Country of collecting the order Austria
 Belgium
 Bułgaria
@@ -43,8 +43,8 @@ Sweden
 Węgry
 Ergoline Smartline
 Apply changes
-Gotowi na GTA VI
 It Will Be Dark Soon
+Ready for GTA VI
 Audio and Video Satellite TV Terrestrial antennas
 Coaxial Cables
 Connectors and Adapters
@@ -364,4 +364,4 @@ Lamps at home for autumn: How to create a cozy atmosphere and take care of your 
 2026-09-15
 How can a wireless mouse with an AI function cut document editing time in half? A guide to Spacetronik EZZY
 2026-09-14
-How to get started on social media in autumn? Proven content ideas 
+How to get started on social media in autumn? Proven content ideas fo

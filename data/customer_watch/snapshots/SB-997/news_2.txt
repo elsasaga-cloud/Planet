@@ -1,4 +1,4 @@
-# SB-997 agmultivision.it · news_2 · https://www.agmultivision.it/project/sale-comando-e-controllo/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-997 agmultivision.it · news_2 · https://www.agmultivision.it/project/sale-comando-e-controllo/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 AGMultivision – Control room, SALE COMANDO E CONTROLLO
 Facebook
 X
@@ -93,7 +93,7 @@ CONTROLLER PER VIDEOWALL
 MONITOR PER VIDEOWALL
 Focus Partner
 Vuoi scoprire cosa possiamo fare per te?
-Name
+Comments
 Questo campo serve per la convalida e dovrebbe essere lasciato inalterato.
 Nome *
 Cognome *

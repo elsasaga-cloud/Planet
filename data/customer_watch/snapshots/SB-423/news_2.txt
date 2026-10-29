@@ -1,4 +1,4 @@
-# SB-423 es-france.com · news_2 · https://www.es-france.com/blog/category/14-catalogues · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-423 es-france.com · news_2 · https://www.es-france.com/blog/category/14-catalogues · fetched 2026-10-29T08:41:09Z · HTTP 200
 Ressources d'ES France : Livres Blancs, Notes d'application, Etudes de cas, Catalogues
 Close
 Menu
@@ -321,14 +321,21 @@ Compteur & Industrie
 IOT & Smart Home
 Consommation en veille ultra-faible
 Dernières Actualités
-ES France à la SIA Battery System Study Day 2026
-Retrouvez ES France le 4 novembre 2026 à Renault Lardy pour échanger sur les essais batteries, la caractérisation...
-Sondes différentielles PMK HSDP : 500 MHz à 1,5 GHz
-PMK enrichit sa gamme HSDP avec 3 nouvelles sondes différentielles de 500 MHz à 1,5 GHz pour l'analyse des bus CAN,...
-Quel sécheur ou granulateur PILOTECH choisir ?
-Comparez les YC-310, YC-1000, YC-03, YC-500, YC-1800 et YC-019 selon le procédé, la capacité et les contraintes de...
+Drones, UAV et eVTOL : solutions de test et mesure
+Les solutions ES France pour tester les drones et eVTOL : batteries, BMS, motorisation électrique, recharge, GNSS, RF...
+RF-Lambda : 5 solutions pour le filtrage, l'amplification et la mesure RF
+5 composants RF-Lambda pour filtrer, amplifier, coupler et détecter les signaux RF et hyperfréquences, de 30 MHz à...
+NI élargit sa gamme PXI avec de nouveaux DMM et oscilloscopes plus accessibles
+Découvrez les nouveautés NI PXI : multimètre PXIe-4086, oscilloscopes PXIe-5160/5162 et évolutions du logiciel...
 Ressources
-Il y a 397 Actualités.
+Il y a 398 Actualités.
+Drones, UAV et eVTOL : solutions de test et mesure
+Posté le: 28/10/26
+|
+Catégories:
+Ressources , TESTS & MESURES
+Les solutions ES France pour tester les drones et eVTOL : batteries, BMS, motorisation électrique, recharge, GNSS, RF et mesures acoustiques.
+Lire plus
 Capteurs inertiels MEMS Tronics pour UAV et VTOL : AXO et GYPRO
 Posté le: 22/10/26
 |
@@ -391,13 +398,6 @@ Posté le: 02/10/26
 Catégories:
 Ressources , BIO-TESTS & INDUSTRIES
 Hydrologie, recherche, enseignement et assainissement : découvrez 5 applications terrain des courantomètres Fluvia RC3 et FloStick RC4.
-Lire plus
-Comment mesurer le pH avec un véhicule marin autonome ?
-Posté le: 29/09/26
-|
-Catégories:
-Ressources , BIO-TESTS & INDUSTRIES
-Ce livre blanc présente le déploiement du capteur AQ² sur un véhicule marin autonome pour mesurer le pH et la température en zone côtière.
 Lire plus
 1
 2

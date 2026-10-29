@@ -1,4 +1,4 @@
-# SB-555 tacel.ca · news_2 · https://www.tacel.ca/en/events · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-555 tacel.ca · news_2 · https://www.tacel.ca/en/events · fetched 2026-10-29T08:41:09Z · HTTP 200
 Events & Installations | Tacel
 About About
 Products Products
@@ -32,7 +32,7 @@ EN EN EN | FR FR FR
 Events & Installations
 Upcoming Installations, training sessions, trade shows, and demos across Canada
 Filters
-3 results
+2 results
 Clear
 Search
 Year
@@ -42,7 +42,7 @@ All Tags
 Sort
 Oldest First
 Filters
-3 results
+2 results
 Clear
 Search
 Year
@@ -51,12 +51,6 @@ Tag
 All Tags
 Sort
 Oldest First
-Trade Show
-October 28, 2026 - Chatham , ON
-IMSA West Region Trade Show 2026
-Tacel exhibits at the IMSA Ontario Trillium Section West Region Trade Show 2026 in Chatham, connecting with traffic and transportation professionals from across the region.
-Trade Show Ontario
-View Event
 Trade Show
 November 10-13, 2026 - Vaughan , ON
 MEA Conference 2026
@@ -71,7 +65,7 @@ ITS GTHA Summit
 View Event
 Past Events
 Filters
-38 results
+39 results
 Clear
 Search
 Year
@@ -80,6 +74,12 @@ Tag
 All Tags
 Sort
 Most Recent
+Trade Show
+October 28, 2026 - Chatham , ON
+Tacel Attended the IMSA West Region Trade Show 2026
+Tacel attended the IMSA Ontario Trillium Section West Region Trade Show 2026 in Chatham, connecting with traffic and transportation professionals from across the region.
+Trade Show Ontario
+View Event Gallery
 Trade Show
 October 14-15, 2026 - Lévis , QC
 TP Québec Colloque annuel 2026
@@ -281,4 +281,4 @@ View Event Gallery
 Trade Show
 June 19, 2025 - Toronto , ON
 ITE Toronto Section — 2025 Spring Luncheon
-Tacel sponsored and attended the ITE Toronto Section 2025 Spring Luncheon at Hart House, University of Toronto, connecting with transportatio
+Tacel sponsored and attended the ITE Toronto Section 2025 Spring Luncheon at Hart House, University of Toronto, conne

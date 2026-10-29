@@ -1,4 +1,4 @@
-# SB-1062 odoo.com · news_1 · https://www.odoo.com/blog · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-1062 odoo.com · news_1 · https://www.odoo.com/blog · fetched 2026-10-29T08:41:09Z · HTTP 200
 Blog Posts | Odoo
 Skip to Content
 Odoo
@@ -185,7 +185,13 @@ Odoo News
 Business Hacks
 Success Stories
 Loading...
-1773 result(s)
+1775 result(s)
+Odoo for Restaurants
+Oct 29, 2026
+Business Hacks
+What Odoo 20 Means for Australian Business Owners
+Oct 28, 2026
+Business Hacks
 How Specialty Turf and Robotics Launched Its Autonomous Mowing Business With Odoo
 Oct 27, 2026
 Customer Reviews
@@ -216,12 +222,6 @@ Customer Reviews
 【2027 Hong Kong Accounting Guide】 Tax Filing & Audit Requirements Explained
 Oct 22, 2026
 Business Hacks
-Odoo Education Program Partners with Eastern International University (EIU)
-Oct 22, 2026
-Odoo News
-SIBI: More Order and Traceability to Manage the Sale and Repair of Pumping Equipment with Odoo
-Oct 21, 2026
-Customer Reviews
 1
 2
 3

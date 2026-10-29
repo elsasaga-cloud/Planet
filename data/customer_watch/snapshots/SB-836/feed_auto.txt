@@ -1,4 +1,5 @@
-# SB-836 fiberworks.no · feed_auto · https://www.fiberworks.no/WebPages/produkt/rss.aspx · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-836 fiberworks.no · feed_auto · https://www.fiberworks.no/WebPages/produkt/rss.aspx · fetched 2026-10-29T08:41:09Z · HTTP 200
+28.10.2026 10.21.32	Fiberworks 40+1 DWDM Mux+Demux 19" 1RU	https://www.fiberworks.no/fiberworks-as/f-dmux-40f1-2160-mlu/fiberworks-40-plus-1-dwdm-mux-plus-demux-19-1ru-ch-dot--21-60-wide-1310wb-monitor-lc-upc
 28.10.2026 08.43.03	SFP+, 10Gbase-T Copper Interface, I-temp	https://www.fiberworks.no/fiberworks-as/sfp-10gbase-t-80-fn/sfp-plus--10gbase-t-copper-interface-i-temp-rj45-80m-on-cat6-7-fortinet
 27.10.2026 14.57.37	FX95 Multi-Fiber Optical Loss Test Set	https://www.fiberworks.no/veex/vx-fx95-kit/fx95-multi-fiber-optical-loss-test-set-1310-1550nm-native-mpo-24-apcm-key-up
 27.10.2026 10.59.43	Snor SM SPX LC/UPC-LC/UPC 10 m	https://www.fiberworks.no/fiberworks-as/p-sm9-s2b-lcu-lcu-10/snor-sm-spx-lc-upc-lc-upc-10-m-9-os2-g-dot-657-dot-a2-%c3%b82mm-bl%c3%a5
@@ -62,5 +63,4 @@
 19.10.2026 14.45.10	Garland Breakout TAP P1GCCB	https://www.fiberworks.no/garland-technology/gt-p1gccb-ot/garland-breakout-tap-p1gccb-10-100-1000m-2x-rj45-2x-rj45-dc-9-36v
 19.10.2026 13.27.55	Adapter FOBEX Jr. SM 4 kanals til LC	https://www.fiberworks.no/fostec/fx-ja90-0204-4b0-00/adapter-fobex-jr-dot--sm-4-kanals-til-lc-bulkhead-d-hole
 19.10.2026 13.17.48	SFP BiDi, 1.25 Gbps GigE, DDM, SM, 20km	https://www.fiberworks.no/fiberworks-as/sfp-ge-bx20sc-35-in/sfp-bidi-1-dot-25-gbps-gige-ddm-sm-20km-tx-rx1310-1550nm-14db-sc-intel
-14.10.2026 14.22.54	Snor Cat.6A U/UTP Grå 25 m	https://www.fiberworks.no/fiberworks-as/p-cat6a-s6g-u-utp-25/snor-cat-dot-6a-u-utp-gr%c3%a5-25-m-awg-24-7-snag-less-lszh
-14.10.2026 07.37.10	G288 QXXE MIKRO, blåsekabel ø10,5 mm	https://www.fiberworks.no/fiberworks
+14.10.2026 14.22.54	Snor Cat.6A U/UTP Grå 25 m	https

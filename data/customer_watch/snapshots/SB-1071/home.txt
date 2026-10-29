@@ -1,4 +1,4 @@
-# SB-1071 scada-hmi.it · home · https://www.scada-hmi.it/store2/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-1071 scada-hmi.it · home · https://www.scada-hmi.it/store2/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 Sielco Sistemi Store
 Skip to Content
 Currency
@@ -52,11 +52,6 @@ Prodotti
 Add to Cart
 Add to Wish List
 Add to Compare
-SS 10680 IoT Gateway Modbus/MQTT
-€240.00
-Add to Cart
-Add to Wish List
-Add to Compare
 Opal8 8 Port Entry Level Unmanaged Din-Rail Switch
 €88.00
 Add to Cart
@@ -74,6 +69,11 @@ Add to Wish List
 Add to Compare
 DR-30-24 Power supply with universal input - 24V / 1,5A output
 €19.91
+Add to Cart
+Add to Wish List
+Add to Compare
+DR-15-24 Power supply with universal input - 24V / 0,63A output
+€16.17
 Information
 Search Terms
 Privacy and Cookie Policy

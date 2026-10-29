@@ -1,7 +1,7 @@
-# SB-1024 dowtechnologies.com · sitemap · https://www.dowtechnologies.com/sitemap.xml · fetched 2026-10-28T08:44:48Z · HTTP 200
-2026-10-26	https://www.dowtechnologies.com/
-2026-10-26	https://www.dowtechnologies.com/search
-2026-10-26	https://www.dowtechnologies.com/contactus
+# SB-1024 dowtechnologies.com · sitemap · https://www.dowtechnologies.com/sitemap.xml · fetched 2026-10-29T08:41:09Z · HTTP 200
+2026-10-28	https://www.dowtechnologies.com/
+2026-10-28	https://www.dowtechnologies.com/search
+2026-10-28	https://www.dowtechnologies.com/contactus
 2026-05-21	https://www.dowtechnologies.com/12volt-closeouts
 2026-08-31	https://www.dowtechnologies.com/12volt
 2026-08-31	https://www.dowtechnologies.com/custom-integration
@@ -54,7 +54,7 @@
 2026-06-16	https://www.dowtechnologies.com/smart-thermostats
 2026-06-16	https://www.dowtechnologies.com/power
 2026-06-16	https://www.dowtechnologies.com/home-security
-2026-10-20	https://www.dowtechnologies.com/smart-home-accessories
+2026-10-28	https://www.dowtechnologies.com/smart-home-accessories
 2026-07-30	https://www.dowtechnologies.com/remotes-2
 2026-06-16	https://www.dowtechnologies.com/processors-base-stations
 2026-10-20	https://www.dowtechnologies.com/touch-panels-keypads
@@ -113,7 +113,7 @@
 2026-08-13	https://www.dowtechnologies.com/12volt-extended-warranties
 2026-06-23	https://www.dowtechnologies.com/12volt-deals
 2026-08-14	https://www.dowtechnologies.com/radios-2
-2026-09-14	https://www.dowtechnologies.com/amplifiers-2
+2026-10-28	https://www.dowtechnologies.com/amplifiers-2
 2026-09-08	https://www.dowtechnologies.com/12volt-speakers
 2026-08-13	https://www.dowtechnologies.com/subwoofers
 2026-08-13	https://www.dowtechnologies.com/apple-and-android-integration
@@ -123,7 +123,7 @@
 2026-08-13	https://www.dowtechnologies.com/12volt-av-accessories
 2026-08-13	https://www.dowtechnologies.com/satellite-radio
 2026-08-13	https://www.dowtechnologies.com/gm-chevrolet-2
-2026-08-13	https://www.dowtechnologies.com/direct-replacement
+2026-10-28	https://www.dowtechnologies.com/direct-replacement
 2026-08-13	https://www.dowtechnologies.com/jeep
 2026-08-13	https://www.dowtechnologies.com/tesla
 2026-08-14	https://www.dowtechnologies.com/dodge-chrysler-ram
@@ -151,7 +151,7 @@
 2026-08-13	https://www.dowtechnologies.com/bluetooth-accessories
 2026-08-27	https://www.dowtechnologies.com/dash-cameras
 2026-08-13	https://www.dowtechnologies.com/custom-install-radars
-2026-08-13	https://www.dowtechnologies.com/portable-radar-detectors
+2026-10-28	https://www.dowtechnologies.com/portable-radar-detectors
 2026-08-13	https://www.dowtechnologies.com/radar-accessories
 2026-08-13	https://www.dowtechnologies.com/radar-oem-integration
 2026-08-13	https://www.dowtechnologies.com/led-lights
@@ -200,6 +200,6 @@
 2026-08-13	https://www.dowtechnologies.com/pockets-trim-rings
 2026-08-13	https://www.dowtechnologies.com/apx-direct-replacement-kits
 2026-08-13	https://www.dowtechnologies.com/radio-replacement-harnesses
-2026-09-23	https://www.dowtechnologies.com/interface-harnesses
+2026-10-28	https://www.dowtechnologies.com/interface-harnesses
 2026-08-13	https://www.dowtechnologies.com/speaker-harnesses
 2026-08-1

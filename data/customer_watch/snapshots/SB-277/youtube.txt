@@ -1,4 +1,5 @@
-# SB-277 instantbyte.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC_yWaJtmKy9dwFjqV4JT7uA · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-277 instantbyte.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC_yWaJtmKy9dwFjqV4JT7uA · fetched 2026-10-29T08:41:09Z · HTTP 200
+2026-10-28T17:00:18+00:00	Videoporteros IP Grandstream | Control de accesos profesional #Shorts	https://www.youtube.com/shorts/hydlxkMN6Iw
 2026-10-27T22:02:02+00:00	Certificación oficial MikroTik MTCRE en Madrid | 28 y 29 de octubre	https://www.youtube.com/shorts/67Y3LDqSkrM
 2026-10-22T16:00:40+00:00	Webinar Grandstream: videoporteros IP y control de accesos | 6 de noviembre	https://www.youtube.com/shorts/qW58jZvEOtU
 2026-10-13T16:00:09+00:00	Certifícate con Grandstream en Madrid | GCPNS 25-27 noviembre | Instant Byte	https://www.youtube.com/shorts/auS6Kl9e7fk
@@ -13,4 +14,3 @@
 2026-08-20T17:17:53+00:00	Certificación Ubiquiti All in One | 23, 24 y 25 de septiembre #Shorts	https://www.youtube.com/shorts/mSHrat9-zL4
 2026-06-18T16:00:53+00:00	NAT Traversal en Huawei eKit: acceso remoto al escritorio de la intranet (SME Network Center)	https://www.youtube.com/watch?v=AryIpwshIXs
 2026-06-16T21:56:33+00:00	MikroTik para Dante #1/3: Configuración básica del switch	https://www.youtube.com/shorts/i0ushNBI4Sc
-2026-06-16T10:56:33+00:00	Switches MikroTik con Dante | Configuración QoS e IGMP Snooping (ES)	https://www.youtube.com/watch?v=h_zvVdxyiik

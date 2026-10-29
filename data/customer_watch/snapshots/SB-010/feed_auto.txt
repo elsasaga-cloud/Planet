@@ -1,4 +1,4 @@
-# SB-010 americanfibertek.com · feed_auto · https://americanfibertek.com/feed/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-010 americanfibertek.com · feed_auto · https://americanfibertek.com/feed/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 Fri, 10 Mar 2023 15:44:31 +0000	Clear Audio over Extreme Distances via Fiber	https://americanfibertek.com/2023/03/10/audio-over-distance/
 Mon, 01 Jul 2019 16:58:21 +0000	Securing the Statue of Liberty	https://americanfibertek.com/2019/07/01/securing-the-statue-of-liberty/
 Mon, 20 May 2019 19:00:00 +0000	Simple Analog to IP Migration	https://americanfibertek.com/2019/05/20/simple-analog-to-ip-migration/

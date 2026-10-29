@@ -1,4 +1,4 @@
-# SB-1116 Litech (Pvt) Ltd · feed_auto · https://litech.com.pk/feed/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-1116 Litech (Pvt) Ltd · feed_auto · https://litech.com.pk/feed/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 Fri, 01 May 2026 06:24:11 +0000	Fiber Optic Cable Connectors and Splicing	https://litech.com.pk/fiber-optic-cable-connectors-and-splicing/
 Fri, 01 May 2026 06:23:16 +0000	Design and Construction of Fiber Optic Cable	https://litech.com.pk/design-and-construction-of-fiber-optic-cable/
 Fri, 01 May 2026 06:21:27 +0000	Definition and Basics of Fiber Optic Cable	https://litech.com.pk/definition-and-basics-of-fiber-optic-cable/

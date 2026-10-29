@@ -1,4 +1,4 @@
-# SB-459 ssdcam.ru · telegram · https://t.me/s/ssdcam_cctv · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-459 ssdcam.ru · telegram · https://t.me/s/ssdcam_cctv · fetched 2026-10-29T08:41:09Z · HTTP 200
 SSDCAM Системы Безопасности – Telegram
 SSDCAM Системы Безопасности
 @ssdcam_cctv
@@ -30,7 +30,7 @@ Media is too big
 VIEW IN TELEGRAM
 Расширенная видеоинструкция по настройке и созданию списков для распознавания A/M номеров. А так же настройки для подключения шлагбаума LPD и LPR.
 👍 8
-1.02K views edited
+1.03K views edited
 SSDCAM Системы Безопасности
 Уважаемые клиенты, сообщаем о поступлении на наш склад POE инжектора новой модели PM-42G, данный POE инжектор обеспечивает передачу данных до 1000 Мбит./сек и имеет мощность 90Ватт (POE++)
 https://ssdcam.ru/poe/pm-42g
@@ -84,7 +84,7 @@ NVR-1516A 16 POE
 NVR-1508A 4 POE
 NVR-1508A 10 POE
 👍 5
-800 views
+801 views
 SSDCAM Системы Безопасности
 Уважаемые партнеры! Сообщаем о поступлении беспроводных SSDCAM NT-52!
 - Технология MIMO
@@ -95,7 +95,7 @@ SSDCAM Системы Безопасности
 - Моментальная настройка и приведение в рабочее состояние с помощью кнопок управления на корпусе моста! (Подключение к WEB интерфейсу не обязательно)
 https://ssdcam.ru/poe/nt-52
 ⚡ 2 👌 1
-584 views
+585 views
 SSDCAM Системы Безопасности
 Media is too big
 VIEW IN TELEGRAM
@@ -106,21 +106,21 @@ https://ssdcam.ru/ip/cam/outdoor/ip-718m
 IP-783S (Матрица SONY Exmor IMX415 Starivs + процессор NOVATEK NT98560)
 https://ssdcam.ru/ip/cam/outdoor/ip-783s
 👍 4 🔥 1
-252 views edited
+253 views edited
 SSDCAM Системы Безопасности
 Записали сравнительное видео между 8Мп IP камерами IP-718M и IP-783S (помещение, день) Основное отличие данных камер заключается в сенсоре (матрице) и процессоре обработки. IP-718M (Матрица GC8613 + процессор FH8856) https://ssdcam.ru/ip/cam/outdoor/ip…
 Сравнение 8Мп камер IP-718M и IP-783S.mkv
 101.8 MB
 Видеофайл для скачивания без сжатия.
 ❤ 3
-264 views
+265 views
 SSDCAM Системы Безопасности
 Media is too big
 VIEW IN TELEGRAM
 Подключение автономной IP вызывной панели SSDCAM SSD-1150W к серверам TUYA
 https://ssdcam.ru/domofon/ssd-1150w
 ❤ 5
-165 views edited
+166 views edited
 SSDCAM Системы Безопасности
 Уважаемые партнеры!
 Рады сообщить о том, что наш инженерный отдел предоставил большое количество кастомных прошивок для IP камер, сетевых NVR и гибридных DVR под управлением XMEYE с интегрированным облачным сервисом IPEYE!
@@ -129,7 +129,7 @@ SSDCAM Системы Безопасности
 Скачать прошивки можно по ссылке:
 https://ssdcam.ru/feedback/ipeye
 👍 1
-267 views edited
+274 views edited
 SSDCAM Системы Безопасности
 Уважаемые партнеры!
 Напоминаем о том, что к нам поступило большое количество СКУД, в частности:
@@ -140,4 +140,4 @@ https://ssdcam.ru/skud/ac-25l
 https://ssdcam.ru/skud/dl-180
 https://ssdcam.ru/skud/kvm-2
 🤷‍♂ 1 👍 1 🔥 1
-83 views
+89 views

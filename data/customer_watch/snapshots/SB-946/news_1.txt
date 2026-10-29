@@ -1,4 +1,4 @@
-# SB-946 intrising.com.tw · news_1 · https://www.intrising.com.tw/news/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-946 intrising.com.tw · news_1 · https://www.intrising.com.tw/news/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 Intrising Networks
 ...
 News
@@ -40,6 +40,10 @@ All
 New Feature
 Expo
 Case Study
+Expo
+Let's Connect at SPS 2026!
+Information of SPS 2026
+Intrising Networks is Headed to SPS 2026 — Join Us in Nuremberg!...
 New Feature
 ISO 9001:2015 Certification
 Elevating Excellence in Quality

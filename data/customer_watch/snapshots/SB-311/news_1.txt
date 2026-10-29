@@ -1,4 +1,4 @@
-# SB-311 dipolnet.cz · news_1 · https://www.dipolnet.cz/nove_produkty,items-news.htm · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-311 dipolnet.cz · news_1 · https://www.dipolnet.cz/nove_produkty,items-news.htm · fetched 2026-10-29T08:41:09Z · HTTP 200
 Obchod, Nové produkty
 Přizpůsobíme se vám
 Používáme cookies , aby náš obchod fungoval spolehlivě a přizpůsobil se vám. Cookies nám umožňují přizpůsobit obsah a propagační akce vašim zájmům.
@@ -570,7 +570,7 @@ Kód: Q0658
 9070,55 Kč
 7496,32 Kč bez DPH
 14172,73 Kč
-Předchozí nejnižší cena: 14172,73 Kč
+Předchozí nejnižší cena: 8078,46 Kč
 od 0,00 Kč
 Dostupný
 Do košíku
@@ -592,7 +592,7 @@ Kód: Q1755
 12055,47 Kč
 9963,20 Kč bez DPH
 18836,68 Kč
-Předchozí nejnižší cena: 13185,67 Kč
+Předchozí nejnižší cena: 10736,91 Kč
 od 0,00 Kč
 Dostupný
 Do košíku
@@ -614,4 +614,4 @@ Kód: K03938
 od 0,00 Kč
 Dostupný
 Náhled
-Hikvision DS-2CD1F47G3H-LIUF/SX PT pan-tilt IP camera (4 Mpix, 2.8 mm, hybrid illumination up to 30 m, Auto Tracking, ColorVu,
+Hikvision DS-2CD1F47G3H-LIUF/SX PT pan-tilt IP camera (4 Mpix, 2.8 mm, hybrid illumination up to 30 m, Auto Tracking, ColorVu, 

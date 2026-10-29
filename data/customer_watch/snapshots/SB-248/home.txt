@@ -1,4 +1,4 @@
-# SB-248 nellyssecurity.com · home · https://nellyssecurity.com/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-248 nellyssecurity.com · home · https://nellyssecurity.com/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 Nelly's Security | CCTV, Access Control, and Intrusion Alarms
 Skip to content
 855-340-9999 / 9AM - 5PM CST / Monday - Friday
@@ -318,6 +318,13 @@ $739.00
 Unit price
 /
 per
+UNV 5MP HD Wide Angle 180° Field of View NDAA Compliant Weatherproof IR Fixed Turret IP Security Camera with Deep Learning AI (IPC3605SB-ADF16KM-I0)
+Translation missing: en.products.product.sku: SKU# 3600
+Vendor:
+Uniview
+UNV 5MP HD Wide Angle 180° Field of View NDAA Compliant Weatherproof IR Fixed Turret IP Security Camera with Deep Learning AI (IPC3605SB-ADF16KM-I0)
+Regular price
+$719.00
 L-Series 4K Ultra HD Weatherproof Active Deterrence 24/7 Color Turret IP Security Camera with a 2.8mm Fixed Lens and Built-in Mic and Speaker (L8T-DT)
 Translation missing: en.products.product.sku: SKU# 3926
 Vendor:
@@ -337,13 +344,6 @@ Translation missing: en.products.product.sku: SKU# 3603
 Vendor:
 Uniview
 UNV 4K Tri-Guard NDAA-Compliant Weatherproof Turret IP Security Camera 2.8mm Fixed Lens with Deep Learning AI, Active Deterrence, and 24/7 Color Illumination (IPC3618SB-ADF28KMC-I0)
-Regular price
-$719.00
-UNV 5MP HD Wide Angle 180° Field of View NDAA Compliant Weatherproof IR Fixed Turret IP Security Camera with Deep Learning AI (IPC3605SB-ADF16KM-I0)
-Translation missing: en.products.product.sku: SKU# 3600
-Vendor:
-Uniview
-UNV 5MP HD Wide Angle 180° Field of View NDAA Compliant Weatherproof IR Fixed Turret IP Security Camera with Deep Learning AI (IPC3605SB-ADF16KM-I0)
 Regular price
 $719.00
 UNV 8MP 4K UltraHD NDAA-Compliant Weatherproof Bullet IP Security Camera with 2.8mm Fixed Lens and a Built-In Microphone (IPC2128SR-ADF28KM-H)

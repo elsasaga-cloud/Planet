@@ -1,4 +1,4 @@
-# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 LRI Automação Industrial - Soluções em Automação Industrial
 Menu
 Projetos Especiais
@@ -429,18 +429,10 @@ Comprar
 Ver ficha técnica
 Produto genuíno, com nota fiscal · Suporte técnico direto com quem projeta · Dúvida técnica no WhatsApp (51) 2129-3000
 Destaques
-Switch Ethernet não Gerenciável 5 Portas Gigabit com PoE, Trilho DIN LRI-SW-5P
-R$ 549,00
+Inversor CC/CA 600W Entrada 125Vcc Saída 127Vca 60Hz | LRI125-600-127-V3
+R$ 990,00
 R$
-532 , 53
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-Switch Industrial 8 Portas Gigabit Gerenciável L2+ e 4 Portas SFP com Alimentação Redundante LRI-SW-8G4S1C
-R$ 1.959,00
-R$
-1.900 , 23
+960 , 30
 à vista
 com desconto Pix - Vindi
 Comprar
@@ -453,52 +445,52 @@ R$
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
--50%
-LRI-PS6548 - Fonte de Alimentação Chaveada Industrial para Trilho DIN de 65W, 48V
-R$ 255,00
-R$ 127,50
+I-7520 - Conversor Bi-direcional RS-232 para RS-485 com Isolação 3000Vcc ICP DAS
+R$ 720,00
 R$
-123 , 68
+698 , 40
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
+Switch Ethernet não Gerenciável 5 Portas Gigabit com PoE, Trilho DIN LRI-SW-5P
+R$ 549,00
+R$
+532 , 53
 à vista
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
 Lançamentos
-Detector de Tensão CA TSV101
-Sob consulta
-Saiba mais
-Pedir cotação
-Sensor de Umidade e Temperatura TSH300v3 Modbus RTU RS-485
-R$ 875,73
+Módulo Termopar de 2 Canais com Interface Modbus RTU TST320
+R$ 1.321,66
 R$
-849 , 46
+1.282 , 01
 à vista
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
-Módulo S0 Contador de Pulsos com Interface Modbus RTU TDI340
-R$ 1.080,91
+LRI-CON-7521U Conversor/Splitter Isolado RS-485/RS-232/TTL para 4 Canais RS-485
+R$ 499,00
 R$
-1.048 , 48
+484 , 03
 à vista
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
-Módulo de Saída Analógica TCW280
+Módulo de Entrada 60V TSA202-60
 Sob consulta
 Saiba mais
 Pedir cotação
+Ethernet Módulo IO Digital TCW181B-CM
+R$ 1.543,64
+R$
+1.497 , 33
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
 Depoimentos
-Nome: Manoel
-Avaliação: Positivo
-Depoimento: Atendimento/entrega rápida e eficiente
-Comentado em: 31/01/2024
-LRI Automação Industrial
-Atendimento/entrega rápida e eficiente
-Written by: Manoel
-LRI Automação Industrial
-1 / 1 stars
-1200
 Nome: Djalma Filho
 Avaliação: Positivo
 Depoimento: Ótima loja, facilidade nas compras. E produtos de boa qualidade. E preços competitivos.
@@ -509,6 +501,16 @@ Written by: Djalma Filho
 LRI Automação Industrial
 1 / 1 stars
 1255
+Nome: Manoel
+Avaliação: Positivo
+Depoimento: Atendimento/entrega rápida e eficiente
+Comentado em: 31/01/2024
+LRI Automação Industrial
+Atendimento/entrega rápida e eficiente
+Written by: Manoel
+LRI Automação Industrial
+1 / 1 stars
+1200
 [ Ver todos ]
 Cadastre-se em nossa newsletter
 e receba novidades via E-mail ou Telegram
@@ -550,5 +552,5 @@ Hi-Link
 NK Technologies
 LRI Store é uma Marca Registrada de Leandro Roisenberg FI sob INPI 910048894 | CNPJ: 94.574.647/0005-02
 Tecnologia Tray
-Load time: 1.42 secs - 28-10-2026  - node: commerce-web4-bot-lw - store
+Load time: 1.515 secs - 29-10-2026  - node: commerce-web3-bot-lw - store
 ×

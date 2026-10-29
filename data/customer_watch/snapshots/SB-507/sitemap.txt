@@ -1,4 +1,4 @@
-# SB-507 fibreoptic.com.au · sitemap · https://www.fibreoptic.com.au/sitemap.xml · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-507 fibreoptic.com.au · sitemap · https://www.fibreoptic.com.au/sitemap.xml · fetched 2026-10-29T08:41:09Z · HTTP 200
 2026-09-30	https://www.fibreoptic.com.au/fos-insights
 2026-05-21	https://www.fibreoptic.com.au/products
 2026-07-14	https://www.fibreoptic.com.au/fos-insights/how-to-future-proof-your-network-infrastructure-for-the-next-decade

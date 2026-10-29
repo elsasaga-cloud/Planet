@@ -1,4 +1,4 @@
-# SB-277 instantbyte.com · news_1 · https://www.instantbyte.com/blog/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-277 instantbyte.com · news_1 · https://www.instantbyte.com/blog/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 Blog de Instant Byte - Mayorista de valor añadido espcializados en networking, wireless, VoIP, seguridad y vídeovigilancia, fibra óptica e IoT
 Skip to content
 Twitter
@@ -13,6 +13,11 @@ Conoce
 Casos de éxito
 Promociones
 Webinar
+Grandstream confirma que sus productos y servicios no están afectados por PHP2Shell
+29 de octubre de 2026
+Conoce
+Según el comunicado de Grandstream del 27 de octubre, sus equipos, firmware, aplicaciones y servicios cloud no utilizan PHP. No se requiere ninguna acción específica en despliegues Grandstream por CVE-2026-109618 y CVE-2026-109619; conviene revisar por separado otros sistemas que sí usen PHP.
+Read More
 UniFi Long-Range PoE: alimentación y datos hasta 800 metros para instalaciones remotas
 28 de octubre de 2026
 Conoce
@@ -67,11 +72,6 @@ Certificaciones Ubiquiti All in One en Barcelona: UFSP, UWA y URSCA del 16 al 18
 19 de octubre de 2026
 Formación
 Tres certificaciones oficiales Ubiquiti en un curso presencial de tres días en Barcelona: UFSP, UWA y URSCA. Consulta programa, horarios e inscripción.
-Read More
-UniFi Industrial: switches DIN sin ventilador y U7 Industrial IP67 para entornos exigentes
-15 de octubre de 2026
-Conoce
-Ubiquiti completa su familia UniFi Industrial con tres switches DIN rail redundantes y el U7 Industrial, un punto de acceso IP67 con antena direccional, cobertura 360° y aislador RF, todo gestionado desde UniFi.
 Read More
 Paginación de entradas
 1
@@ -626,7 +626,4 @@ comprar unifi
 compras +1500 €
 compresión de vídeo
 comunicación
-comunicacion bidireccional
-comunicación empresas
-comunicacion unificada
-comunic
+comu

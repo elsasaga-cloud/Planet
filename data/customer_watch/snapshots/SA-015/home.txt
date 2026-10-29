@@ -1,4 +1,4 @@
-# SA-015 megnet.co.uk · home · https://megnet.co.uk/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SA-015 megnet.co.uk · home · https://megnet.co.uk/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 Megnet | Compatible & OEM Network Transceivers, DAC & AOC
 Call us 24/7 +44 08451301585
 Next Day Delivery Across - UK & Europe, KSA & UAE
@@ -197,28 +197,28 @@ Patch Cable
 Bestsellers
 Popular items
 Quick view
-AP45-WW-NEW
+CHPC-SC-SC-35M-OM1-DPX
 Rated 0 out of 5
 Quick view
-UCS-CPU-6148-NEW
+CHPC-MPOF-MPOF-20M-OM4-12F-B
 Rated 0 out of 5
 Quick view
-CHPC-SC-LC/APC-7M-OM3-SPX
+CHPC-SC-E2000/APC-0.5M-OM5-SPX
 Rated 0 out of 5
 Quick view
-CHMC-104-EU
+CHPC-SC-LC/APC-3M-OS1-DPX
 Rated 0 out of 5
 Quick view
-CHS-ALC-QSFP-40G-SR-1
+CHPC-LC-SC/APC-6M-OS1-SPX
 Rated 0 out of 5
 Quick view
-CHT-DEL-SFP28-25G-SR
+CHPC-SC-SC/APC-9M-OS1-DPX
 Rated 0 out of 5
 Quick view
-CHPC-SC-SC/APC-4M-OM5-SPX
+AIR-PWRINJ6-REF
 Rated 0 out of 5
 Quick view
-CHT-CIS-DWDM-SFP-1561.41-80km
+CHPC-SC-LC/APC-35M-OS1-SPX
 Rated 0 out of 5
 Lifetime Warranty
 On All Chimera Products
@@ -234,13 +234,13 @@ CHPC-LC-FC-15M-OS1-DPX
 CHPC-LC-FC-15M-OM5-DPX
 CHPC-LC-FC-20M-OS1-SPX
 Specials
-CHPC-SC-E2000/APC-10M-OS2-SPX
-CP-BEKEM-W-RF-REF
-CHPC-LC-SC-30M-OS2-DPX
+CHPC-LC-LC-8M-OS2-DPX
+CHT-MEL-SFP-10G-SR-1
+CHD-MSA-SFP-10G-CU4M
 Sale
-CHPC-SC-FC-4M-OS1-DPX
-CHT-MSA-DWDM-SFP-1533.47-80km
-CHT-ARI-QSFP28-100G-LR
+CHPC-SC-SC/APC-1M-OS2-DPX
+CHPC-LC-LC-6M-OS2-DPX
+CHPC-LC-LC-9M-OS2-SPX
 Shop by Popular Categories
 AOC (162)
 DAC (192)

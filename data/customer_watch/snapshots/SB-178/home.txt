@@ -1,4 +1,4 @@
-# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 WISP.PL Dystrybutor sprzętu sieciowego, MikroTik, Ubiquiti, TP-Link, Światłowody
 WISP.PL Sieci bezprzewodowe - Dystrybutor sprzętu sieciowego
 WISP.PL
@@ -297,47 +297,43 @@ Płytka sterowania ON/OFF/PWM - nakładka TR
 49,00 zł netto
 szt
 Najniższa cena z 30 dni: 79,95 zł
-NOWOŚĆ WYPRZEDAŻ
-Grandstream HT818 v2 bramka VoIP
-503,07 zł z VAT
-622,13 zł
-409,00 zł netto
+Wisnetworks WIS-ANS2417-90 MIMO Sector
+244,77 zł z VAT
+420,22 zł
+199,00 zł netto
 szt
-Najniższa cena z 30 dni: 622,13 zł
-DishEter PRO 28 HV
-613,77 zł z VAT
-1 159,89 zł
-499,00 zł netto
+Najniższa cena z 30 dni: 420,22 zł
+WYPRZEDAŻ
+SparkLAN WMIA-166AG
+11,07 zł z VAT
+86,04 zł
+9,00 zł netto
 szt
-Najniższa cena z 30 dni: 1 159,89 zł
-Wisnetworks WIS-L5820S Sector Base Station
-479,70 zł z VAT
-719,55 zł
-390,00 zł netto
+Najniższa cena z 30 dni: 86,04 zł
+WYPRZEDAŻ
+Uchwyt kablowy KO10, na przewód okrągły ø 10 mm
+4,92 zł z VAT
+9,84 zł
+4,00 zł netto
 szt
-Najniższa cena z 30 dni: 719,55 zł
-Uchwyt kablowy KO12, na przewód okrągły ø 12 mm
-6,03 zł z VAT
-10,46 zł
-4,90 zł netto
+Najniższa cena z 30 dni: 9,84 zł
+Tenda TEG1126P-24-410W
+836,40 zł z VAT
+984,00 zł
+680,00 zł netto
 szt
-Najniższa cena z 30 dni: 10,46 zł
-Wisnetworks WIS-L5818S Sector Base Station
-367,77 zł z VAT
-575,64 zł
-299,00 zł netto
+Najniższa cena z 30 dni: 984,00 zł
+Wisnetworks WIS-L713AC Dual-Band Sector Base Station
+725,70 zł z VAT
+978,59 zł
+590,00 zł netto
 szt
-Najniższa cena z 30 dni: 575,64 zł
+Najniższa cena z 30 dni: 978,59 zł
 Najnowsze propozycje
 NOWOŚĆ
 D-Link C36/ISP/E
 303,85 zł z VAT
 247,03 zł netto
-szt
-NOWOŚĆ
-Maszt balastowy bezinwazyjny ATLAS-5 ZB-1000/38+RAM2/415x265
-198,95 zł z VAT
-161,75 zł netto
 szt
 NOWOŚĆ
 Obudowa rack 19", 1U, szara dla splittera PLC SM SC/APC
@@ -351,8 +347,8 @@ Open Rack 32U Lanberg 600x800, czarny
 szt
 NOWOŚĆ
 Pakiet 150GB danych dla Teltonika RMS Connect/VPN (RMSDT101G150)
-209,40 zł z VAT
-170,24 zł netto
+209,63 zł z VAT
+170,43 zł netto
 szt
 NOWOŚĆ
 Regał na baterie do UPS, 830x454, 2x rzędy, 4x poziomy (8 półek), czarny
@@ -360,8 +356,8 @@ Regał na baterie do UPS, 830x454, 2x rzędy, 4x poziomy (8 półek), czarny
 254,15 zł netto
 szt
 Teltonika RMS Management Pack, licencja na 5 lat + Rozszerzona gwarancja na 3 lata (grupa H)
-872,45 zł z VAT
-709,31 zł netto
+873,46 zł z VAT
+710,13 zł netto
 szt
 NOWOŚĆ
 TP-Link EAP727
@@ -372,6 +368,11 @@ NOWOŚĆ
 TP-Link Fusion 2.5G
 1 069,85 zł z VAT
 869,80 zł netto
+szt
+NOWOŚĆ
+Ubiquiti UniFi Protect G6 Mini Dome (UVC-G6-Mini-Dome-B)
+1 579,23 zł z VAT
+1 283,93 zł netto
 szt
 Porównywarka
 Wybierz produkty do porównania
@@ -384,4 +385,4 @@ WYSYŁKA
 Zamówienia złożone i potwierdzone do godz. 15-tej są realizowane w tym samym dniu*.
 Koszty przesyłki:
 DHL: od 13 PLN (netto)
-
+FedEx: od 1

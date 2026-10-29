@@ -1,4 +1,4 @@
-# SB-479 ezy.hr · home · https://ezy.hr/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-479 ezy.hr · home · https://ezy.hr/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 EZY Infotech d.o.o.
 " />
 AUTORIZACIJA
@@ -130,6 +130,8 @@ Flash Memorije
 USB FLASH memorije
 Micro SD kartice
 ŠTAMPAČI I SKENERI
+Laserski
+Color
 Multifunkcionalni Uređaji
 Inkjet
 3D Štampači
@@ -165,7 +167,9 @@ Pribor
 Pribor za Tablet računala
 Touch Screen Stylus Pen
 Torbe, ruksaci, navlake
+Ruksaci
 Torbe i navlake 13"-14"
+Torbe i navlake 15"-17"
 ŽIČANA MREŽNA OPREMA
 Switch
 Fast Ethernet 5-Port

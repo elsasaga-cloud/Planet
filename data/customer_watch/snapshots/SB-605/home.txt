@@ -1,10 +1,14 @@
-# SB-605 Elkov Elektro · home · https://www.elkov.cz/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-605 Elkov Elektro · home · https://www.elkov.cz/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 Elektromateriál a svítidla | ELKOV
 Přejít na obsah
 Přihlášení
 Vítejte v ELKOV
 Přihlašovací e-mail
 Heslo
+Účet ještě není aktivovaný
+Na tento e-mail jsme již poslali pozvánku do nového e-shopu. Pro první přihlášení je potřeba dokončit aktivaci přes odkaz v e-mailu
+Znovu odeslat pozvánku
+Použít jiný email
 Zůstat přihlášený
 Zapomenuté heslo
 Přihlásit se
@@ -584,13 +588,4 @@ Kabely SCART
 Kabely USB
 Kabely a redukce HDMI
 Vybraní výrobci
-Pečlivě vybíráme výrobce, kteří splňují naše nároky na kvalitu, spolehlivost a inovace.
-O partnerství
-Měření a regulace
-Regulace
-Řídící systémy MaR
-Ekvitermní regulace
-Regulace tlaku - manostaty
-Regulace teploty - termostaty
-Regulace vlhkosti
-Čidla tla
+Pečlivě vybíráme výrobce, kteří splňují naše nároky 

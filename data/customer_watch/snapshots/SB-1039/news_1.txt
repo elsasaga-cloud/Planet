@@ -1,4 +1,4 @@
-# SB-1039 ico.de · news_1 · https://www.ico.de/news/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-1039 ico.de · news_1 · https://www.ico.de/news/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 Innovative News - ICO Innovative Computer GmbH
 Cookies & Datenschutz
 Um die ordnungsgemäße Funktion unserer Website sicherzustellen (z. B. Warenkorb, Merkzettel und Kundenkonto), verwenden wir Cookies (Notwendig).
@@ -87,6 +87,10 @@ Anfahrt
 Startseite
 ICO NEWS
 Hier finden Sie Neuigkeiten und aktuelle Artikel rund um unser Sortiment und unser Unternehmen
+Kompakter Embedded-PC für den Einbau auf engem Raum
+ICO bietet lüfterlosen Industrierechner mit Intel Atom x7433RE und zwei 2,5-Gigabit-LAN-Anschlüssen.
+(mehr …)
+29.10.2026
 Medical Tablet für mobile Dokumentation und Barcodeerfassung
 10,5-Zoll-Tablet mit integriertem 1D/2D-Scanner, IP66-Schutz und medizinischer Zertifizierung
 (mehr …)
@@ -123,10 +127,6 @@ Weiße Newland-Barcodescanner HR23 und HR33 mit KI-Unterstützung
 Die neuen Varianten der Serien HR23 Dorada und HR33 Marlin von Newland verbinden KI-gestützte Datenerfassung mit antibakterieller Beschichtung und LED-Zielpunkt. Kabelgebundene und Bluetooth-Ausführungen ermöglichen den Einsatz im Gesundheitswesen ebenso wie an Kassen- und Kiosksystemen.
 (mehr …)
 28.09.2026
-19-Zoll-Panel-PCs für maritime Bedien- und Kontrollsysteme
-Panelmaster Marine 1991 und 1992 verbinden robuste Industriehardware mit zwei unterschiedlichen Touch-Konzepten.
-(mehr …)
-24.09.2026
 1
 2
 3

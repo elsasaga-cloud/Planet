@@ -1,4 +1,4 @@
-# SB-622 market-telecom.kz · sitemap · https://market-telecom.kz/sitemap.xml · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-622 market-telecom.kz · sitemap · https://market-telecom.kz/sitemap.xml · fetched 2026-10-29T08:41:09Z · HTTP 200
 	https://market-telecom.kz/
 2026-10-26	https://market-telecom.kz/blog
 2026-10-23	https://market-telecom.kz/services
@@ -24,19 +24,15 @@
 2026-09-30	https://market-telecom.kz/ip-ats-hotel
 2026-09-10	https://market-telecom.kz/asterisk/trade
 2026-06-06	https://market-telecom.kz/asterisk/construction
-2026-06-06	https://market-telecom.kz/asterisk/finance
 2026-06-06	https://market-telecom.kz/asterisk/it
 2026-06-06	https://market-telecom.kz/asterisk/production
 2026-06-06	https://market-telecom.kz/asterisk/consulting
 2026-06-06	https://market-telecom.kz/asterisk/advertising
-2026-06-06	https://market-telecom.kz/asterisk/tourism
 2026-06-06	https://market-telecom.kz/asterisk/record
 2026-06-06	https://market-telecom.kz/asterisk/plan
-2026-06-06	https://market-telecom.kz/asterisk/scaleup
 2026-06-06	https://market-telecom.kz/asterisk/gsm
 2026-06-06	https://market-telecom.kz/asterisk/cdr
 2026-09-10	https://market-telecom.kz/asterisk/connect-office
-2026-06-06	https://market-telecom.kz/asterisk/queue
 2026-06-06	https://market-telecom.kz/asterisk/vmail
 2026-06-06	https://market-telecom.kz/asterisk/fax-email
 2026-06-06	https://market-telecom.kz/asterisk/ring-lowcost
@@ -44,9 +40,6 @@
 2026-09-10	https://market-telecom.kz/asterisk/dial-plan
 2026-06-06	https://market-telecom.kz/asterisk/conference
 2026-06-06	https://market-telecom.kz/asterisk/security
-2026-06-06	https://market-telecom.kz/asterisk/startup
-2026-06-06	https://market-telecom.kz/asterisk/hotel
-2026-06-06	https://market-telecom.kz/asterisk/taxi
 2026-06-06	https://market-telecom.kz/video-systems
 2026-06-06	https://market-telecom.kz/video-for-home
 2026-06-06	https://market-telecom.kz/video-for-build
@@ -216,4 +209,10 @@
 2025-12-08	https://market-telecom.kz/news/grandstream-ghp630w-i-ghp631w
 2025-09-04	https://market-telecom.kz/blog/data-storage-systems
 2025-09-09	https://market-telecom.kz/blog/video-dom
-2025-09-03	ht
+2025-09-03	https://market-telecom.kz/blog/vybor-proektora
+2025-10-24	https://market-telecom.kz/news/wizcolor-dahua
+2024-10-18	https://market-telecom.kz/news/tp-link-omadacloud
+2026-10-19	https://market-telecom.kz/blog/windows-11-pro
+2025-09-09	https://market-telecom.kz/blog/vybor-camera
+2025-09-09	https://market-telecom.kz/blog/vybor-2024
+2025-09-09	https://market-telecom.kz/blog/s

@@ -1,4 +1,4 @@
-# SB-646 artsistem.com · sitemap · https://www.artsistem.com/sitemap.xml · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-646 artsistem.com · sitemap · https://www.artsistem.com/sitemap.xml · fetched 2026-10-29T08:41:09Z · HTTP 200
 	https://www.artsistem.com/
 	https://www.artsistem.com/hakkimizda
 	https://www.artsistem.com/oduller

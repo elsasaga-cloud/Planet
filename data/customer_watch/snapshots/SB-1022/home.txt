@@ -1,4 +1,4 @@
-# SB-1022 danbit.dk · home · https://danbit.dk/da/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-1022 danbit.dk · home · https://danbit.dk/da/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 Danbit - Leverandør af IT-produkter til professionelle
 Velkommen til DANBIT - Dansk Binær Teknik A/S
 B2B – Kun handel med virksomheder
@@ -42,30 +42,44 @@ Vi tilbyder specialiseret teknisk ekspertise
 Midlertidig teknisk assistance til virksomheder
 Faglig support gennem hele projektforløbet
 Kontakt Os
+Wi-Fi 7 5100MBPS Dual Band Access Point, udendørs, Eksterne antenner, PoE
+Udendørs Dual Band Access Point, Gateway, Repeater, WISP1 × 100/1000/2500BASE-T PoE+ WAN-port (802.3at PoE+ PD)1 × 10/100/1000BASE-T LAN-port2 x 2,4GHz N-hun antennestik3 x 5GHz Hun antennestik IP67 klassificeretVejrbestandigt…
+2.300,00 kr
 NVIDIA® Jetson AGX Orin™ AI Embedded Computer, 2x Isolated CAN Bus, NVIDIA Ampere™ arkitektur GPU med 56 Tensor Cores
 Understøtter NVIDIA® Jetson AGX Orin™1792-kernet NVIDIA Ampere™-arkitektur GPU med 56 Tensor-kernerUnderstøtter 2 x GbEUnderstøtter 8 GMSL-kameraer (Kan specialbestilles med 4x PoE i stedet)2 x RS-232/422/4855…
 0,00 kr
-26" ECDIS DNVGL-CG-0339, IACS-E10 Marine godkendt Panel-Monitor, 24VDC, PCAP Touch, format
-26" DNVGL-CG-0339, IACS-E10, IEC60945 4th marine monitor350 nitsPCAP touchFanlessIP66 på FrontOpløsning: 1920 x 1200 - formatActive display area: 550 x 344 mm1 x VGA1 x HDMI 1.41 x DVI-DStrømforsyning:…
-28.485,00 kr
-32" IP66 TFT-skærm 6 sider IP66 tæt, Optical Bonded, PCAP touch, 1000 nits i rustfrit stål
-32" TFT 1920x1080@60Hz FULL HDPCAP Touch16:91000 NitsOptical Bonded - meget vigtig featureIngen kondens-dug bag frontglasForbedret pålidelighed og ydeevne6-sidet fuldt IP66 forsegletVGA og HDMI indgangeUV-beskyttelseRustfriVESA…
-30.578,00 kr
-15U Støjsvag 19" rackskab, 650 x 650 mm udv. mål, lydsvag Fan + Digital temp. regulering, sort
-Lydisoleret 19” rackskab15UUdvendig mål: 650 x 650 mmFritståendeMed hjul - låsMetal sortFå pris på andre varianter:Udvendig mål: spørg salgsafdelingenRACKSKABE SENDES MED FRAGTMAND!
-14.924,00 kr
 15,6" 12. gen. notebook, Intel® Alder Lake-processo, i5, TPM 2.0, RS232, 2xRJ45, 3xUSB 3.0, IP65 800Nits
 15,6” FHD-panelopløsning med PCAP-touch, 1920x1080800 nits, optisk binding til synlighed i sollys12. generations Intel®-processorfamilie – Alder Lake-processor i5 (i7, i9 på forespørgsel)CPU: Intel Core…
 0,00 kr
-8-ports Managed Switch RJ45, PoE++ 2-ports 100 / 1000Mbit og 2-ports 10Gbit SFP-slot, DIN, 48 - 56VDC
-Administreret PoE-switch med 8 RJ45- og 4 SFP-slots 8 x 10/100 / 1000Mbit med PoE++ (95 Watt) PoE-strømforbruget er 360 watt (45 watt pr. port) PoE udvidga-tilstand - max. 160-200 meter 2 x 100 / 1000Mbit…
-6.527,00 kr
-32" IP66 TFT-skærm 6 sider IP66 tæt, Optical Bonded, 1500 nits i rustfrit stål
-32" TFT 1920x1080@60Hz FULL HD16:91500 NitsTilkøb PCAP TouchOptical Bonded - meget vigtig featureIngen kondens-dug bag frontglasForbedret pålidelighed og ydeevne6-sidet fuldt IP66 forsegletVGA og HDMI…
-27.241,00 kr
+15U Støjsvag 19" rackskab, 650 x 650 mm udv. mål, lydsvag Fan + Digital temp. regulering, sort
+Lydisoleret 19” rackskab15UUdvendig mål: 650 x 650 mmFritståendeMed hjul - låsMetal sortFå pris på andre varianter:Udvendig mål: spørg salgsafdelingenRACKSKABE SENDES MED FRAGTMAND!
+14.924,00 kr
 2 x 1-Way Digital I/O over Single Mode eller Multi Mode Fiberkabel (simplex - 1 fiber) (Dry contact)
 2 kanaler 1-way over fiberkabelLeveres som sæt500 meter@MM100 km@SMIndgang: Normalt åbenUdgang: Relæ - normalt åbenRelækontakt: 5VDC/5A, 30VDC/1A, 240VAC/0,25AStatus LEDFiberkontakt: STI/O tilslutninger:…
 2.240,00 kr
+32" IP66 TFT-skærm 6 sider IP66 tæt, Optical Bonded, PCAP touch, 1000 nits i rustfrit stål
+32" TFT 1920x1080@60Hz FULL HDPCAP Touch16:91000 NitsOptical Bonded - meget vigtig featureIngen kondens-dug bag frontglasForbedret pålidelighed og ydeevne6-sidet fuldt IP66 forsegletVGA og HDMI indgangeUV-beskyttelseRustfriVESA…
+30.578,00 kr
+Armeret fiberkabel, Multi mode, SC-SC, 50m, 50/125my, OM3, Aquafarvet, LSZH
+Stålarmeret fiber patchkabel
+Multi mode
+Duplex
+2 x SC stik i hver ende
+Robust kappe
+Aquafarvet,
+Kabeltykkelse: 3mm
+50m
+Rabat gives ved køb af større mængder
+1.457,00 kr
+IP68 anti-bakteriel silikonetastatur med Track Point - USB - LED baggrundslys, Nordisk tegnsæt
+Medico keyboard med trackpoint
+Nordisk layout
+Taster med soft touch
+USB
+LED baggrundsbelysning til brug i mørke
+IP68, tåler rengøring med 80% alkohol, Antibakteriel
+11 x 286 x 148 mm (H X B X D)
+836,00 kr
 Erfaring & ekspertise
 50+ års erfaring med tekniske løsninger og rådgivning.
 Kvalitetsprodukter
@@ -112,6 +126,8 @@ Adgangskontrol med brik: kort, læsere og låse
 Hvilken brik er sikker, hvordan forbindes læseren, og hvornår skal låsen være fail-safe? En faglig gennemgang af adgangskontrol til erhverv.
 Magnetkort, Strekkode, NFC
 Nye produkter
+15" Panel-monitor, 4:3 format, HDMI, VGA 1024 x 768, 250nits, Touch, 24VDC
+7.422,00 kr
 11-Port Automatic Transfer Switch with Energy and SNMP, Syslog, Temperature, Humidity
 7.362,00 kr
 12.1 Industrial Panel PC Intel® Core™ i5-1235U, Windows 11, 1024x768
@@ -129,8 +145,6 @@ Zero Trust VPN-gateway med MFA og ZTNA, 10G RJ45 + 10G SFP+, 4 x Gigabit LAN
 Post-kvante sikkerhedsgateway med PUF-hardwarebeskyttelse, IPS/IDS og Zero Trust, 10G RJ45 + 10G SFP+
 Ring +45 56 66 20 20 for pris
 Sikkerhedsgateway med IPS/IDS, Zero Trust og Wi-Fi 7, 10G RJ45 + 10G SFP+, 4 x Gigabit LAN
-Ring +45 56 66 20 20 for pris
-VPN-router med firewall, fiber (SFP) og 4 x PoE+ (120 W), 4 x Gigabit RJ45 + 1 x SFP
 Ring +45 56 66 20 20 for pris
 Levering
 Salgs og leveringsbetingelser

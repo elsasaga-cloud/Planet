@@ -1,4 +1,4 @@
-# SB-101 AVICAM Ltd. · feed_auto · https://avicam-bg.com/feed/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-101 AVICAM Ltd. · feed_auto · https://avicam-bg.com/feed/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 Fri, 02 Oct 2020 12:59:06 +0000	Системи с лицево разпознаване RaySharp	https://avicam-bg.com/sistemi-s-licevo-razpoznavane-raysharp/
 Fri, 26 Jun 2020 10:56:12 +0000	Камери с вграден софтуер за разпознаване на автомобилни регистрационни номера	https://avicam-bg.com/camera-lpr-milesight/
 Fri, 29 May 2020 11:36:41 +0000	Сравнение между изображения с резолюции 2MP, 5MP и 8MP(4K)- видеоклип	https://avicam-bg.com/%d1%81%d1%80%d0%b0%d0%b2%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bc%d0%b5%d0%b6%d0%b4%d1%83-%d0%b8%d0%b7%d0%be%d0%b1%d1%80%d0%b0%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f-%d1%81-%d1%80%d0%b5%d0%b7%d0%be%d0%bb%d1%8e/

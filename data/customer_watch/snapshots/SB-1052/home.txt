@@ -1,4 +1,4 @@
-# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 LAN Számítástecnikai Szolgáltató Kft.
 Ugrás a fő tartalomhoz
 Visszajelzés a kisegítő lehetőségekről
@@ -230,7 +230,7 @@ Cikkszám: TA-180FTPC6ATD
 Ár:
 1.454 Ft + ÁFA
 (1.847 Ft)
-1574 db raktáron
+1324 db raktáron
 db
 Kosárba
 Részletek
@@ -263,7 +263,7 @@ Cikkszám: TA-180FTPC6ATD
 Ár:
 1.454 Ft + ÁFA
 (1.847 Ft)
-1574 db raktáron
+1324 db raktáron
 db
 Kosárba
 Részletek

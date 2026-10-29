@@ -1,4 +1,4 @@
-# SB-289 sisav.it · feed_auto · https://www.sisav.it/feed/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-289 sisav.it · feed_auto · https://www.sisav.it/feed/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 Mon, 05 Oct 2026 13:34:27 +0000	MAGBES	https://www.sisav.it/magbes/
 Fri, 25 Sep 2026 13:20:32 +0000	SHW9000	https://www.sisav.it/shw9000/
 Fri, 25 Sep 2026 12:48:55 +0000	SHD9000	https://www.sisav.it/shd9000/

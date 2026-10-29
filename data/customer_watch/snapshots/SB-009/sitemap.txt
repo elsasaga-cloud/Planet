@@ -1,4 +1,4 @@
-# SB-009 sicurmax.com · sitemap · https://sicurmax.com/sitemap.xml · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-009 sicurmax.com · sitemap · https://sicurmax.com/sitemap.xml · fetched 2026-10-29T08:41:09Z · HTTP 200
 	https://sicurmax.com/
 	https://sicurmax.com/contatti
 	https://sicurmax.com/azienda
@@ -7,7 +7,7 @@
 2025-06-06	https://sicurmax.com/news/offerta-estate-antifurto-casa-con-sconto-20-percento-a-bovolone-verona-sicurma-38
 2026-08-27	https://sicurmax.com/categorie
 2026-08-27	https://sicurmax.com/kit-antifurto-ponteggio-a-bovolone-verona-sicurmax-32/soluzioni
-2025-10-29	https://sicurmax.com/sistemi-di-sicurezza-per-abitazioni-private-a-bovolone-verona-sicurmax-39/soluzioni
 	https://sicurmax.com/sistemi-di-sicurezza-per-enti-pubblici-a-bovolone-verona-sicurmax-33/soluzioni
-	https://sicurmax.com/noleggio-piattaforme-aeree-esperti-da-oltre-20-anni-sicurmax-71/soluzioni
+2025-10-29	https://sicurmax.com/sistemi-di-sicurezza-per-abitazioni-private-a-bovolone-verona-sicurmax-39/soluzioni
 	https://sicurmax.com/sistemi-di-sicurezza-a-noleggio-a-bovolone-verona-sicurmax-40/soluzioni
+	https://sicurmax.com/noleggio-piattaforme-aeree-esperti-da-oltre-20-anni-sicurmax-71/soluzioni

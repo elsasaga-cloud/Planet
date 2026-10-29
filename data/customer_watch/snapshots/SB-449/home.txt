@@ -1,4 +1,4 @@
-# SB-449 bvsecurity.com · home · https://bvsecurity.com/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-449 bvsecurity.com · home · https://bvsecurity.com/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 Skip to content
 Log in or Create account for Wholesale Price
 Menu
@@ -175,12 +175,12 @@ per
 See more
 PoE SWITCHES & INJECTORS SERIES
 BV-Tech 5-Port Gigabit PoE Switch (4 PoE+ Ports, 1 Gigabit Uplink), Unmanaged, 55W | SW501G-PLUS
-$44.99
+$42.99
 Unit price
 /
 per
 BV-Tech Full Gigabit 6-Port PoE+ Switch (4 PoE+, 2 Uplink, 1000mbps 60W) | SW502G
-$39.99
+$37.99
 Unit price
 /
 per
@@ -208,7 +208,7 @@ Unit price
 /
 per
 BV-Tech 10-Port Gigabit PoE Switch (8 PoE+ Ports, 2 Gigabit Uplink), Unmanaged, 96W | SW811G-PLUS
-$119.99
+$84.99
 Unit price
 /
 per

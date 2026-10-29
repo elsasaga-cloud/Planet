@@ -1,4 +1,6 @@
-# SB-654 davantel.com · feed_auto · https://www.davantel.com/feed · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-654 davantel.com · feed_auto · https://www.davantel.com/feed · fetched 2026-10-29T08:41:09Z · HTTP 200
+Wed, 28 Oct 2026 16:21:27 +0000	Cómo Funciona la Telelectura de Contadores con IoT	https://www.davantel.com/como-funciona-la-telelectura-de-contadores
+Wed, 28 Oct 2026 09:00:00 +0000	DHCPv6 Prefix Delegation: Subnetting automatizado para IoT industrial	https://www.davantel.com/dhcpv6-prefix-delegation-subnetting-automatizado-para-iot-industrial
 Mon, 26 Oct 2026 09:00:00 +0000	SD-WAN: Guía Técnica Completa para Ingenieros y Gestores de Red	https://www.davantel.com/sd-wan-guia-tecnica-completa-para-ingenieros-y-gestores-de-red
 Fri, 23 Oct 2026 08:00:00 +0000	TachoSync: la nueva solución de Teltonika para la gestión remota de datos del tacógrafo	https://www.davantel.com/tachosync-la-nueva-solucion-de-teltonika-para-la-gestion-remota-de-datos-del-tacografo
 Wed, 21 Oct 2026 08:00:00 +0000	Data to sender status y más actualizaciones de firmware en RutOS 7.25	https://www.davantel.com/data-to-sender-status-y-mas-actualizaciones-de-firmware-en-rutos-7-25
@@ -53,6 +55,4 @@ Mon, 06 Jul 2026 08:00:00 +0000	Gateways Robustel MG460 para Redes Marítimas: G
 Fri, 03 Jul 2026 08:00:00 +0000	ZeroTier vs WireGuard: Guía Comparativa y Configuración Práctica con Teltonika	https://www.davantel.com/zerotier-vs-wireguard-guia-comparativa-y-configuracion-practica-con-teltonika
 Wed, 01 Jul 2026 08:00:00 +0000	Servidores de Tiempo NTP y PTP: Guía Técnica para Ingenieros de Automatización	https://www.davantel.com/servidores-de-tiempo-ntp-y-ptp-guia-tecnica-para-ingenieros-de-automatizacion
 Tue, 30 Jun 2026 08:00:00 +0000	AES sin intercambio de claves: análisis técnico de la tecnología de cifrado de Pantherun Technologies	https://www.davantel.com/aes-sin-intercambio-de-claves-analisis-tecnico-de-la-tecnologia-de-cifrado-de-pantherun-technologies
-Mon, 29 Jun 2026 06:02:06 +0000	Más allá de la potencia de la señal: logrando estabilidad en 5G mediante el bloqueo preciso de bandas en routers industriales	https://www.davantel.com/mas-alla-de-la-potencia-de-la-senal-logrando-estabilidad-en-5g-mediante-el-bloqueo-preciso-de-bandas-en-routers-industriales
-Fri, 26 Jun 2026 08:00:00 +0000	¿Qué es el protocolo de comunicación IEC 61850 y cómo funciona?	https://www.davantel.com/que-es-el-protocolo-de-comunicacion-iec-61850-y-como-funciona
-Wed, 24 Jun 2026 08:00:00 +0000	¿Cómo configurar un router Teltonika como un extensor WiFi (wireless bridge)?	https://www.davantel.com/como-configu
+Mon, 29 Jun 2026 06:02:06 +0000	Más allá de la potencia de la señal: logrando estabilidad en 5G mediante el bloqueo preciso de bandas en routers industriales	https://www.davantel.com/mas-alla-de-la-potencia-de-la-senal-logrando-estabilidad-en-5g-mediante-el-bloqueo-preciso-de-bandas-en-rout

@@ -1,4 +1,4 @@
-# SB-1004 arpeo.pl · feed_auto · https://arpeo.pl/feed/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-1004 arpeo.pl · feed_auto · https://arpeo.pl/feed/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 Thu, 06 Aug 2026 13:08:36 +0000	Jak chronić przewody w automatyce?	https://arpeo.pl/jak-chronic-przewody-w-automatyce/
 Thu, 06 Aug 2026 13:02:06 +0000	Sposoby prowadzenia kabli w przemyśle	https://arpeo.pl/sposoby-prowadzenia-kabli-w-przemysle/
 Thu, 06 Aug 2026 12:41:19 +0000	Zastosowania zacisków ekranujących EMC	https://arpeo.pl/zastosowania-zaciskow-ekranujacych-emc/

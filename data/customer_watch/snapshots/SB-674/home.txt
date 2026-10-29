@@ -1,4 +1,4 @@
-# SB-674 noxel.pl · home · https://noxel.pl/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-674 noxel.pl · home · https://noxel.pl/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 Noxel.pl | Monitoring IP, szafy rack, termowizja, wideodomofony
 Zwroty i reklamacje: reklamacje@noxel.pl
 Skorzystaj z darmowej dostawy powyżej 299zł
@@ -126,16 +126,16 @@ Dahua
 3569,00 zł
 Zestaw monitoringu Dahua 8MPx IP PoE 12 kamer IPC-HFW1839TC-A-IL-0280B-S6-BLACK
 Dahua
-5039,00 zł
+5099,00 zł
 Zestaw monitoringu Dahua 8MPx IP PoE 16 kamer IPC-HFW1839TC-A-IL-0280B-S6-BLACK
 Dahua
-6379,00 zł
+6439,00 zł
 Zestaw monitoringu Dahua 8MPx IP PoE 12 kamer IPC-HFW1839TC-A-IL-0280B-S6
 Dahua
-5039,00 zł
+5099,00 zł
 Zestaw monitoringu Dahua 8MPx IP PoE 16 kamer IPC-HFW1839TC-A-IL-0280B-S6
 Dahua
-6379,00 zł
+6439,00 zł
 Zestaw monitoringu Dahua 8MPx IP PoE 2 kamery czarne IPC-HDW1839T-A-IL-0280B-S6-BLACK
 Dahua
 1499,00 zł Pierwotna cena wynosiła: 1499,00 zł. 1189,00 zł Aktualna cena wynosi: 1189,00 zł.
@@ -166,7 +166,6 @@ NAJWYŻSZA OCHRONA
 Zasilacze UPS
 Już od: 189 zł
 Sprawdzone zasilacze awaryjne UPS
-Wysoka jakość oraz sprawdzony producent
 Zasilacze na każdą kieszeń oraz wiele wariantów urządzeń
 Dostępne warianty również w wersji do szaf RACK
 Wariant z diodami LED lub ekranem LCD

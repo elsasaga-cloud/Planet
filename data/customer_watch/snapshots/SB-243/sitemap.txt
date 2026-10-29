@@ -1,4 +1,4 @@
-# SB-243 hfcl.com · sitemap · https://www.hfcl.com/sitemap.xml · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-243 hfcl.com · sitemap · https://www.hfcl.com/sitemap.xml · fetched 2026-10-29T08:41:09Z · HTTP 200
 2026-10-23T09:12:01.892Z	https://www.hfcl.com
 2026-08-21T18:47:11.298Z	https://www.hfcl.com/products/defence-solutions
 2026-10-23T05:18:26.786Z	https://www.hfcl.com/insights

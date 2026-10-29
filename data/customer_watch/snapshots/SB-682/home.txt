@@ -1,4 +1,4 @@
-# SB-682 serverblink.com · home · https://www.serverblink.com/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-682 serverblink.com · home · https://www.serverblink.com/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 PC, Computer & Server Parts | IT Hardware Store | Server Blink
 Toggle menu
 $10 off on First Order: Code: FIRSTORDER
@@ -488,6 +488,24 @@ $630.83
 Now:
 $545.00
 New Products
+SAMSUNG
+|
+sku:
+M474A1K43DB1-CWE-Generic
+M474A1K43DB1-CWE | Generic | 8Gb Pc4-25600 Ddr4-3200Mhz Ecc Unbuffered Cl22 Sodimm 1.2V Single-Rank Memory Module
+Price
+$396.36
+Now:
+$249.99
+INTEL
+|
+sku:
+SSDPF2KX038T1
+SSDPF2KX038T1 | Intel | 3.84TB 4.0 x4 TLC SSD
+Price
+$1,580.55
+Now:
+$1,285.00
 SEAGATE
 |
 sku:
@@ -555,11 +573,11 @@ HP
 |
 sku:
 P18606-B21
-P18606-B21 | HP | ProLiant DL325 Gen10 Plus V2 8SFF Server
+P18606-B21 | HP | ProLiant DL325 Gen10 Plus Server
 Price
 $3,167.25
 Now:
-$2,575.00
+$2,565.00
 JUNIPER
 |
 sku:
@@ -578,24 +596,6 @@ Price
 $1,777.35
 Now:
 $1,445.00
-Generic
-|
-sku:
-CAB-AC-C13-KOR
-CAB-AC-C13-KOR | Generic | AC Power Cord, Korea
-Price
-$39.81
-Now:
-$35.42
-Generic
-|
-sku:
-GEN-CAB-C13-ACB
-GEN-CAB-C13-ACB | Generic | Ac Power Cord (Brazil), C13, Nbr 14136,
-Price
-$37.81
-Now:
-$31.42
 REVIEWS
 Excellent
 Based on Reviews

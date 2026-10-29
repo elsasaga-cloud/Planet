@@ -1,4 +1,4 @@
-# SA-020 bitstream.pl · feed_auto · https://bitstream.pl/rss/ · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SA-020 bitstream.pl · feed_auto · https://bitstream.pl/rss/ · fetched 2026-10-29T08:41:09Z · HTTP 200
 Thu, 08 Oct 2026 12:13:20 +0200	Mediakonwerter w sieciach przemysłowych – kiedy światłowód zastępuje skrętkę	https://bitstream.pl/aktualnosci/mediakonwerter-w-sieciach-przemyslowych-kiedy-swiatlowod-zastepuje-skretke/
 Thu, 08 Oct 2026 12:04:15 +0200	Różnice między Ethernetem przemysłowym a biurowym w zastosowaniach produkcyjnych	https://bitstream.pl/aktualnosci/roznice-miedzy-ethernetem-przemyslowym-a-biurowym-w-zastosowaniach-produkcyjnych/
 Thu, 08 Oct 2026 11:51:37 +0200	Dyrektywa NIS2 w energetyce – wymagania cyberbezpieczeństwa dla polskich operatorów	https://bitstream.pl/aktualnosci/dyrektywa-nis2-w-energetyce-wymagania-cyberbezpieczenstwa-dla-polskich-operatorow/

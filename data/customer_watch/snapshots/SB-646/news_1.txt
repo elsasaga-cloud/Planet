@@ -1,4 +1,4 @@
-# SB-646 artsistem.com · news_1 · https://www.artsistem.com/haberler · fetched 2026-10-28T08:44:48Z · HTTP 200
+# SB-646 artsistem.com · news_1 · https://www.artsistem.com/haberler · fetched 2026-10-29T08:41:09Z · HTTP 200
 Haberler · Art Sistem
 📍 İstanbul · Ankara · Gaziantep · (0212) 552 52 42
 destek@artsistem.com · Bayi Başvurusu · B2B Giriş
@@ -51,7 +51,16 @@ Sensei
 Tüm Markalar
 Kurumsal Markalar Ürün Kategorileri Çözümler Faydalı Araçlar E-Hizmetler Haberler İletişim B2B Giriş Bayi Başvurusu
 Ana Sayfa / Haberler Haberler
-Sektörden güncel haberler ve analizler ( 44 içerik).
+Sektörden güncel haberler ve analizler ( 47 içerik).
+Ürün Lansmanı MSI'dan üç modlu dünya ilki oyuncu monitörü
+MSI, Computex 2026'da tanıtacağı MPG OLED 322URDX36 ile 4K, 2K ve FHD çözünürlükler arasında geçiş yapan dünyanın ilk monitörünü duyurdu.
+29 Ekim 2026
+Sektör Haberi NVIDIA RTX Spark, RTX 5090 ve GTA VI Söylentileri
+NVIDIA'nın pahalı RTX Spark laptopları, RTX 5090 üretiminin durma iddiası ve GTA VI'nın PC'ye erken geleceği söylentisi gündemde.
+28 Ekim 2026
+Sektör Haberi AB Yasası Değiştirilebilir Pil Dönemini Başlatıyor
+AB'nin yeni pil yönetmeliği, akıllı telefonlarda değiştirilebilir pil dönemini yeniden başlatıyor. Üreticiler yıl içinde uyum sağlayacak.
+28 Ekim 2026
 Marka Duyurusu Dell AI Data Platform'a Semantik Katman Geldi
 Dell, AI Data Platform'u semantik katman, cuDF GPU hızlandırma ve 500 kiracılı PowerScale desteğiyle güçlendirdi.
 27 Ekim 2026
@@ -133,15 +142,6 @@ Intel'in el konsollarına özel ilk SoC'u Arc G3, MSI Claw 8 EX ile sahneye çı
 Ürün Lansmanı Acer Swift Spin 14 AI: 26 Saatlik Batarya, MIL-STD-810H
 Acer, 360 derece dönebilen Swift Spin 14 AI ile 26 saatlik batarya ömrü ve MIL-STD-810H sertifikasını bir arada sunuyor. Intel Core Ultra 9 ve Wi-Fi 7 desteği öne çıkıyor.
 16 Haziran 2026
-Ürün Lansmanı ROG Harpe II Extreme Edition: 24 Ayar Altın Kaplama Fare
-ASUS, ROG markasının 20. yılına özel 24 ayar altın kaplama mekanik iskelet ve 65.000 DPI sensörlü Harpe II Extreme Edition'ı Computex 2026'da tanıttı.
-16 Haziran 2026
-Marka Duyurusu Galaxy S25 için Android 17 tabanlı One UI 9 test ediliyor
-Samsung, Galaxy S25 serisi için Android 17 altyapısına dayanan One UI 9'u test etmeye başladı. Güncelleme süreci hız kazanıyor.
-08 Haziran 2026
-Marka Duyurusu Intel Arc GPU Serisinin Geleceği Netleşiyor
-Intel, Arc GPU serisini sürdüreceğini açıkladı. Battlemage mimarisiyle yeni nesil ekran kartları yolda; şirket ayrık GPU pazarından çekilmiyor.
-08 Haziran 2026
 22 yıldır Türkiye'nin lider teknoloji dağıtıcısı. 5.000+ bayi, 3 şube.
 Facebook Instagram LinkedIn YouTube WhatsApp
 Kurumsal
