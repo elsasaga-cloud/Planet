@@ -4,7 +4,7 @@
   "source": "Turkey · Ticaret Sicil / MERSIS（公开可得部分）",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 138
+  "count": 141
  },
  "rows": {
   "SA-086": {
@@ -4454,6 +4454,96 @@
    ],
    "notes": "集成 25%；P 池候选 ○（土耳其主区 ✔ WA 可达 ✔ 具体口数需求 ✔ 决策人 Co-Owner 具名 ✔）；部分坐实（vergi no 未取）。",
    "code": "SC-442"
+  },
+  "SC-2776": {
+   "batch": 134,
+   "name": "Karel Elektronik Sanayi ve Ticaret A.Ş.（karel.com.tr；**1986 年成立；总部 Ankara Teknoloji Geliştirme Bölgesi (Cyberpark) Üniversiteler Mah. 1606. Cad. B Blok Kat:3, Bilkent 06800 Ankara；工厂 Sincan OSB Gazneliler Cad. No:10, 06935 Ankara（室内 20,500 m²）；约 2,500 人；100% 土耳其资本；IT 500「土耳其本土 IT 制造商」第一；研发投入 ≈ 营收 8.5%；出口 30+ 国**）；ticaret sicil / MERSİS 未取；表内：Simon 二筛「用的丰润达的」= 已采购中国 OEM 商业 PoE 交换机；无邮箱",
+   "iso": "TR",
+   "fetched": "2026-10-29",
+   "source": "TR · 1 次检索：taysad.org.tr 会员页（法人名 / Cyberpark 地址）+ ostimsavunma.org（1986 / 2,500 人 / Sincan 工厂 / 出口 30+ 国）+ alo118（工厂地址）；ticaret sicil 未取；2026-10-29",
+   "url": "https://www.ostimsavunma.org/companies/karel-elektronik-as-2",
+   "number": "未取（ticaret sicil / MERSİS 未查；法人名 + 地址坐实）",
+   "status": "营业中（目录 2025–2026）",
+   "incorporated": "1986",
+   "company_type": "Anonim Şirketi（A.Ş.）",
+   "sic": [
+    "通信电子制造（PBX / 网络 / 安防）自有品牌（安卡拉）"
+   ],
+   "address": "Cyberpark Üniversiteler Mah. 1606. Cad. B Blok Kat:3, Bilkent 06800 Ankara",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "大型（≈ 2,500 人）",
+   "officers": [
+    "（具名采购 KP 未取；官网 İletişim / Satın Alma 待找）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**土耳其主区 · 巨头品牌商 OEM 30%（长线）：官网找 Satın Alma / Ürün Yönetimi 邮箱后一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-2224GP $86 / STC-4424GCPM $165 中性包装 + 贴 Karel 牌 + MOQ 1；丰润达现供 → 只推 SmartByte / Marvell 管理线差异）— 土耳其常规：英文 / 土耳其语稿、20 / 25 / 30 + T/T 50/50（首单可预付 100%）+ FOB 深圳 / DAP 买方清关（CE / RoHS）；周二 / 周四 10–12 TRT**"
+   ],
+   "notes": "OEM 30%；P 池候选 ★ 长线（土耳其主区 ✔ 巨头自有品牌 ✔ 已用中国 OEM ✔ 对位 ✔；无邮箱 → 先找路径；Simon 原「判定不行」→ 可按编号否决）；部分坐实（sicil 未取）。",
+   "code": "SC-2776"
+  },
+  "SC-1190": {
+   "batch": 134,
+   "name": "Bilimsa Teknoloji（表内；bilimsateknoloji@gmail.com；Muharrem Kılıç；8 光 8 电工业交换机已报 $110；**1 次检索未中（vknsorgula 返回同名壳 Bilimtek / 学术同名人）**）",
+   "iso": "TR",
+   "fetched": "2026-10-29",
+   "source": "TR · 1 次检索：vknsorgula「Bilimsa Teknoloji」未命中（返回 BİLİMTEK MAKİNA 等非同一主体）；2026-10-29",
+   "url": "",
+   "number": "未取（未坐实）",
+   "status": "未知",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "工业交换机询价（土耳其）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "未取",
+   "officers": [
+    "Muharrem Kılıç — 表内联系人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**土耳其主区 · 待坐实：先回 gmail 问法人名 / 网址（引用已报 $110 的 8 光 8 电），坐实后再 WA 一页纸— 土耳其常规：英文 / 土耳其语稿、20 / 25 / 30 + T/T 50/50（首单可预付 100%）+ FOB 深圳 / DAP 买方清关（CE / RoHS）；周二 / 周四 10–12 TRT**"
+   ],
+   "notes": "未坐实（1 查未中即停）→ 回 C 待下轮 1 查；土耳其主区 ✔ 已报价 ✔ 具名 ✔。",
+   "code": "SC-1190"
+  },
+  "SC-2271": {
+   "batch": 134,
+   "name": "NAZEMCO（表内；Osama；Ady 展会加了微信；要商业级 PoE 交换机；**1 次检索未中（返回 Una-IoT / 贸易数据同名个人等非同一主体）**）",
+   "iso": "TR",
+   "fetched": "2026-10-29",
+   "source": "TR · 1 次检索：「Nazemco Turkey network switch Osama」未命中；2026-10-29",
+   "url": "",
+   "number": "未取（未坐实）",
+   "status": "未知",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "商业 PoE 交换机询价（土耳其）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "未取",
+   "officers": [
+    "Osama — 表内微信联系人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**土耳其主区 · 待坐实：微信先问公司全名 / 网址 / 所在市，坐实后一页纸（STC-028GP $28 / STC-228GP $33 / STC-2224GP $86）— 土耳其常规：英文 / 土耳其语稿、20 / 25 / 30 + T/T 50/50（首单可预付 100%）+ FOB 深圳 / DAP 买方清关（CE / RoHS）；周二 / 周四 10–12 TRT**"
+   ],
+   "notes": "未坐实（1 查未中即停）→ 回 C 待下轮 1 查；土耳其主区 ✔ 微信可达 ✔；并入「土耳其微信追问公司名」清单。",
+   "code": "SC-2271"
   }
  }
 }

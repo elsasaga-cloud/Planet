@@ -4,7 +4,7 @@
   "source": "Germany · Handelsregister / Northdata（登记摘要）",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 82
+  "count": 83
  },
  "rows": {
   "SA-008": {
@@ -2762,6 +2762,37 @@
    ],
    "notes": "分销 20%；P 池候选 ★（德国主区 ✔ 台湾工业品牌经销 ✔ 对位 ✔ 坐实 ✔ 决策人具名 ✔）；坐实（Impressum HRB）。",
    "code": "SC-1675"
+  },
+  "SC-568": {
+   "batch": 134,
+   "name": "EFB-Elektronik GmbH（efb-elektronik.de；**HRB 33008 AG Bielefeld；USt-IdNr. DE 126943218；Striegauer Straße 1, 33719 Bielefeld；+49 521 40418-0；info@efb-elektronik.de；Geschäftsführer Robin Ohle（目录另列 Nana Heinemann / Alexander van der Lof）；结构化布线 / 光纤 / 网络机柜 / 网络技术，身份「Hersteller + Großhändler」= 自有品牌 EFB 产品线（含网络交换机）；UKCA 声明 2026-10-06 自署 = 在营**）；表内：Simon「比较专业 / 质量」",
+   "iso": "DE",
+   "fetched": "2026-10-29",
+   "source": "DE · 1 次检索：efb-elektronik.de UKCA 声明页（HRB / USt-ID / GF / 地址 / 电话）+ firmendatenbanken（HRB 33008 / GF / 业务）；2026-10-29",
+   "url": "https://www.firmendatenbanken.de/unternehmen/detail/463966/efb-elektronik-gmbh.htm",
+   "number": "HRB 33008（AG Bielefeld）",
+   "status": "营业中（2026-10 自署 UKCA 声明）",
+   "incorporated": "未取",
+   "company_type": "GmbH",
+   "sic": [
+    "网络 / 布线基础设施制造 + 批发（比勒费尔德）"
+   ],
+   "address": "Striegauer Straße 1, 33719 Bielefeld",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "大型（德国全国性分销 + 自有品牌）",
+   "officers": [
+    "Robin Ohle — Geschäftsführer",
+    "Nana Heinemann / Alexander van der Lof — 目录列 GF（待核）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**德国主区 · 自有品牌分销商 OEM 30%（长线）：info@ + 官网找 Einkauf / Produktmanagement 后一页纸一次（STC-2224GP $86 / STC-4424GCPM $165 / STC-424XGGPM-280W $198 中性包装 + 贴 EFB 牌 + MOQ 1 + 付费样机）— 德国主区常规：英文 / 德语稿、20 / 25 / 30 + T/T 50/50 + DAP 买方清关（CE / RoHS / REACH）；周二 / 周四 10–12 CET**"
+   ],
+   "notes": "OEM 30%；P 池候选 ★ 长线（德国主区 ✔ 自有品牌 ✔ 对位 ✔ Simon「专业」✔；决策人未具名 → 先找 Einkauf）；坐实（HRB 33008）。",
+   "code": "SC-568"
   }
  }
 }

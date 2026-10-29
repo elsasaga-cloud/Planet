@@ -4,7 +4,7 @@
   "source": "Russia · ЕГРЮЛ / Росстат 公开数据（rusprofile / list-org 镜像）",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 89
+  "count": 91
  },
  "rows": {
   "SA-057": {
@@ -2791,6 +2791,62 @@
    ],
    "notes": "回 C（未坐实：2 查无；真意向保留）。",
    "code": "SC-2972"
+  },
+  "SC-1613": {
+   "batch": 134,
+   "name": "ORIGO Networks（origo-networks.ru；Simon「自己的白色外壳，有人在卖他们的」「比较重要」= 自有品牌；**1 次检索未中：rusprofile 两家 ООО «Ориго»（ИНН 7743272134 金融服务 2018 / ИНН 7727565486 咨询 2006）均非网络设备主体 = 同名壳 ≠ 品牌法人**）",
+   "iso": "RU",
+   "fetched": "2026-10-29",
+   "source": "RU · 1 次检索：rusprofile「ООО Ориго」仅同名壳，未指向 origo-networks.ru；2026-10-29",
+   "url": "",
+   "number": "未取（未坐实）",
+   "status": "未知",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "网络设备自有品牌（俄罗斯）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "未取",
+   "officers": [],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**俄罗斯 · 自有品牌 OEM 30% 待坐实：官网「Реквизиты / О компании」取 ИНН 后再一页纸（STC-028GP $28 / STC-2224GP $86 中性包装 + 贴牌）— 俄语区常规：英 / 俄稿、20 / 25 / 30；收款 / 物流路径待 Simon（RU / KZ 「收款待定」）；FOB 深圳**"
+   ],
+   "notes": "未坐实（1 查未中即停）→ 回 C 待下轮 1 查（官网页脚 ИНН）；oem_target ✔ Simon「比较重要」✔；收款待定。",
+   "code": "SC-1613"
+  },
+  "SC-2957": {
+   "batch": 134,
+   "name": "ConexPro（conexpro.com；Simon 二筛「基本是全线帧田的」= 自有品牌、全线中国 OEM；**1 次检索未中：rusprofile 返回 ООО «Коннект-Про»（ИНН 9702037865，2021，1 人，执行董事 Смольянинова К.М.）= 同名壳 ≠ 品牌法人**；无邮箱",
+   "iso": "RU",
+   "fetched": "2026-10-29",
+   "source": "RU · 1 次检索：rusprofile「Конекспро」仅同名壳 Коннект-Про，未指向 conexpro.com；2026-10-29",
+   "url": "",
+   "number": "未取（未坐实）",
+   "status": "未知",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "网络 / 安防设备自有品牌（俄罗斯）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "未取",
+   "officers": [],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**俄罗斯 · 自有品牌 OEM 30% 待坐实：官网「Контакты / Реквизиты」取 ИНН + 采购邮箱后再一页纸（帧田现供 → 推 SmartByte / Marvell 管理线差异）— 俄语区常规：英 / 俄稿、20 / 25 / 30；收款 / 物流路径待 Simon（RU / KZ 「收款待定」）；FOB 深圳**"
+   ],
+   "notes": "未坐实（1 查未中即停）→ 回 C 待下轮 1 查；oem_target ✔（Simon 原「判定不行」→ 可按编号否决）；无邮箱；收款待定。",
+   "code": "SC-2957"
   }
  }
 }

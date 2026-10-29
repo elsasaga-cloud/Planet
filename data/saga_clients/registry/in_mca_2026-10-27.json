@@ -4,7 +4,7 @@
   "source": "India · MCA 公司登记（Zauba Corp / Tofler 镜像）",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 78
+  "count": 84
  },
  "rows": {
   "SA-073": {
@@ -2459,6 +2459,189 @@
    ],
    "notes": "OEM 30%；P 池候选 ★（自有品牌经分销销售 ✔ 印度点名国 ✔ 对位 ✔ 决策人具名 ✔ 坐实 ✔；Simon 曾标 Spam → 可否决）；坐实（CIN）。",
    "code": "SC-3198"
+  },
+  "SC-1657": {
+   "batch": 135,
+   "name": "San Telequip Private Limited（santelequip.com；**CIN U32202PN1992PTC065720；ROC Pune；1992-03-04 成立；NIC 3220 通信设备制造；实缴 ₹1.11 M；约 32 人；董事 Leena Anant Gokhale / Nitin Shreekant Joshi / Hemant Laxman Joshi（增补）；最近年报 2023-03-31**）；表内：Chetan Kamdi，gmail；Profibus 连接器商，主动问 5 / 8 电口价格",
+   "iso": "IN",
+   "fetched": "2026-10-29",
+   "source": "IN · 1 次检索：zaubacorp（CIN / 董事 / NIC）+ thecompanycheck（成立 / 实缴 / 人数 / 年报）；2026-10-29",
+   "url": "https://www.zaubacorp.com/SAN-TELEQUIP-PRIVATE-LIMITED-U32202PN1992PTC065720",
+   "number": "U32202PN1992PTC065720（CIN）",
+   "status": "Active（年报 2023-03-31）",
+   "incorporated": "1992-03-04",
+   "company_type": "Private Limited",
+   "sic": [
+    "工业通信 / 现场总线连接器制造与分销（浦那）"
+   ],
+   "address": "Pune, Maharashtra（注册地址见 MCA）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（≈ 32 人）",
+   "officers": [
+    "Leena Anant Gokhale — Director",
+    "Nitin Shreekant Joshi — Director",
+    "Chetan Kamdi — 表内联系人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**印度 · 工业自动化渠道 25%：回 Chetan 引用其 5 / 8 电口问价，报 STI-054GP（4 PoE + 1 GE）/ STC-028GP $28 / STI-280GE $46.6 + MOQ 1 + 付费样机— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（微型预付 100%）+ FOB 深圳 / CIF 孟买·金奈·德里，买方清关（BIS 由买方自理需如实说）；周二 / 周四 11–13 IST**"
+   ],
+   "notes": "集成 / 渠道 25%；P 池候选 ○（印度先例 ✔ 工业渠道对位 ✔ 主动问价 ✔ 坐实 ✔；1992 老牌 32 人）；坐实（CIN）。",
+   "code": "SC-1657"
+  },
+  "SC-1793": {
+   "batch": 135,
+   "name": "Axis Solutions Pvt Ltd / Axis Solutions Limited（axisindia.in；**Registered Office 324, Road No. 5, Kathwada GIDC, Ahmedabad 382430, Gujarat；+91 99099 06354；info@axisindia.in；LEONTON（台湾工业以太网）印度授权分销商，官网挂 Leonton 工业交换机全系**）；CIN 未取；表内：Lavesh Savale Sales Engineer，gmail；2022-12 问 website",
+   "iso": "IN",
+   "fetched": "2026-10-29",
+   "source": "IN · 1 次检索：axisindia.in 产品页页脚（法人名 / 注册地址 / 电话）+ Leonton 数据表（授权分销）；CIN 未取；2026-10-29",
+   "url": "https://axisindia.in/products/partners/automation/leonton/industrial-ethernet-switch/unmanaged-switch/16-port-industrial-gigabit-ethernet-switch/",
+   "number": "未取（CIN 未查；官网页脚坐实法人名 + 地址）",
+   "status": "营业中（官网 2022–2026）",
+   "incorporated": "未取",
+   "company_type": "Pvt Ltd（官网另写 Limited，待核）",
+   "sic": [
+    "工业自动化分销（艾哈迈达巴德；Leonton 授权）"
+   ],
+   "address": "324, Road No. 5, Kathwada GIDC, Ahmedabad 382430, Gujarat",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "Lavesh Savale — Sales Engineer（表内）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**印度 · 工业分销 20%：info@ + Lavesh 一页纸对标 Leonton（STI-280GE $46.6 / STI-288GPM $78.9 / STI-244DGGPM $121 + MOQ 1 + 付费样机）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（微型预付 100%）+ FOB 深圳 / CIF 孟买·金奈·德里，买方清关（BIS 由买方自理需如实说）；周二 / 周四 11–13 IST**"
+   ],
+   "notes": "分销 20%；P 池候选 ○（印度先例 ✔ 台湾工业品牌分销 = 有进口经验 ✔ 对位 ✔）；部分坐实（CIN 未取）。",
+   "code": "SC-1793"
+  },
+  "SC-1916": {
+   "batch": 135,
+   "name": "VIgIL — M/s Udaya Security Vision（vigilworld.com；**VIgIL Tower, Mahatab Road, Cuttack, Odisha；vigil_usv@yahoo.co.in；奥里萨邦 CCTV 自有品牌 VIgIL「manufacturer – supplier – service provider」22 年**）；GST / 法人形式未取；表内：PoE switch 用 hisource 的 ✔",
+   "iso": "IN",
+   "fetched": "2026-10-29",
+   "source": "IN · 1 次检索：vigilworld.com/contact-us（法人名 / 地址 / 邮箱 / 业务）；GST 未取；2026-10-29",
+   "url": "https://vigilworld.com/contact-us/",
+   "number": "未取（GST 未查；官网坐实商号 + 地址）",
+   "status": "营业中（官网）",
+   "incorporated": "未取（约 2000 年「22 年前」）",
+   "company_type": "未取（疑 Proprietorship / Partnership）",
+   "sic": [
+    "CCTV 自有品牌制造 + 供应 + 服务（卡塔克）"
+   ],
+   "address": "VIgIL Tower, Mahatab Road, Cuttack, Odisha",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "（具名 KP 未取；官网 Contact 仅 yahoo 邮箱）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**印度 · 自有品牌安防商 OEM 30%：yahoo 邮箱一页纸一次（STC-028GP $28 / STC-228GP $33 中性包装 + 贴 VIgIL 牌 + MOQ 1；hisource 现供 → 推 SmartByte 管理线差异）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（微型预付 100%）+ FOB 深圳 / CIF 孟买·金奈·德里，买方清关（BIS 由买方自理需如实说）；周二 / 周四 11–13 IST**"
+   ],
+   "notes": "OEM 30%；P 池候选 ○（印度先例 ✔ 自有品牌 ✔ 已用中国 PoE ✔；仅 yahoo 邮箱）；部分坐实（GST 未取）。",
+   "code": "SC-1916"
+  },
+  "SC-2154": {
+   "batch": 135,
+   "name": "RoundRobin Tech Services Pvt. Ltd.（roundrobintech.com；**孟买总部；网络安全产品增值分销商（VAD），印度 + SAARC 14 年+；11–50 人；Pradeep Patel — Regional Manager（艾哈迈达巴德）；另 Rajesh Makwana Regional Pre-Sales、Dhagash Thaker Product Manager**）；CIN 未取；表内：Pradeep「分销商，有需求会说」真回；Bakhtavar Usmani",
+   "iso": "IN",
+   "fetched": "2026-10-29",
+   "source": "IN · 1 次检索：crunchbase（业务 / 规模 / 孟买）+ rocketreach（Pradeep Patel 职务 / 团队）；CIN 未取；2026-10-29",
+   "url": "https://www.crunchbase.com/organization/roundrobin-tech-services",
+   "number": "未取（CIN 未查；目录坐实法人名）",
+   "status": "营业中（目录 2026）",
+   "incorporated": "未取（≈ 2010）",
+   "company_type": "Pvt. Ltd.",
+   "sic": [
+    "网络安全 / 网络基础设施增值分销（孟买）"
+   ],
+   "address": "Mumbai, Maharashtra",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 人）",
+   "officers": [
+    "Pradeep Patel — Regional Manager（表内真回）",
+    "Dhagash Thaker — Product Manager"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**印度 · 增值分销 20%：回 Pradeep 引用其「有需求会说」，一页纸价格锚（STC-028GP $28 / STC-2224GP $86 / STC-4424GCPM $165）+ 抄 Product Manager— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（微型预付 100%）+ FOB 深圳 / CIF 孟买·金奈·德里，买方清关（BIS 由买方自理需如实说）；周二 / 周四 11–13 IST**"
+   ],
+   "notes": "分销 20%；P 池候选 ○（印度先例 ✔ 分销对位 ✔ 真回 ✔ 决策链具名 ✔）；部分坐实（CIN 未取）。",
+   "code": "SC-2154"
+  },
+  "SC-2208": {
+   "batch": 135,
+   "name": "Hanutech Solution（hanutechsolution.com / .co.in；**Proprietorship；GST 07AXLPM4765G1Z3（2018-06-28 登记）；CEO / 东主 Mahinder；≤ 10 人；年营业额 ₹1.5–5 Cr；B-16/1 Vijay Vihar Phase-2, Rohini, Delhi 110085（IndiaMART 另列 B 73）；hanutechsolution2018@gmail.com；+91 89204 13407；光纤 / FTTH / CCTV / 光收发器店，Amazon / Flipkart 卖家；关联 RAMEX（Bhiwadi）**）；表内：丰润达商业 PoE ✔",
+   "iso": "IN",
+   "fetched": "2026-10-29",
+   "source": "IN · 1 次检索：IndiaMART aboutus（GST / 东主 / 规模 / 营业额）+ hanutechsolution.co.in 页脚（地址 / 邮箱 / 电话）；2026-10-29",
+   "url": "https://www.indiamart.com/hanutech-solution/aboutus.html",
+   "number": "07AXLPM4765G1Z3（GST）",
+   "status": "营业中（官网 + IndiaMART）",
+   "incorporated": "2018-06-28（GST）",
+   "company_type": "Proprietorship",
+   "sic": [
+    "IT / 网络 / 光纤 / CCTV 零售 + 电商（德里 Rohini）"
+   ],
+   "address": "B-16/1 Vijay Vihar Phase-2, Rohini, Delhi 110085",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（≤ 10 人）",
+   "officers": [
+    "Mahinder — Proprietor / CEO"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**印度 · 电商零售 20% 预付 100%：gmail 一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-110XGE $65 + MOQ 1）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（微型预付 100%）+ FOB 深圳 / CIF 孟买·金奈·德里，买方清关（BIS 由买方自理需如实说）；周二 / 周四 11–13 IST**"
+   ],
+   "notes": "零售 20%；P 池候选 △ 预付 100%（印度先例 ✔ 中国品牌 ✔ 坐实 ✔ 但独资微型 + 电商卖家）；坐实（GST）。",
+   "code": "SC-2208"
+  },
+  "SC-1177": {
+   "batch": 135,
+   "name": "Projexon（projexon.com；表内 CCTV 为主，WA 问 L2 / L3 交换机；R. Vignesh Director；**1 次检索未中：zaubacorp 两家同名 Projexon Engineering（中央邦 2017 / 德里 2021，董事 Pandey / Tripathi / Devi / Kumar）均非 Vignesh 的 CCTV 公司 = 同名壳**）",
+   "iso": "IN",
+   "fetched": "2026-10-29",
+   "source": "IN · 1 次检索：zaubacorp「Projexon」仅同名工程公司，未指向 projexon.com；2026-10-29",
+   "url": "",
+   "number": "未取（未坐实）",
+   "status": "未知",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "CCTV / 网络集成（印度）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "未取",
+   "officers": [
+    "R. Vignesh — Director（表内）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**印度 · 待坐实：WA 问 Vignesh 法人全名 / GST / 城市后一页纸（STC-2224GP $86 / STC-4424GCPM $165）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（微型预付 100%）+ FOB 深圳 / CIF 孟买·金奈·德里，买方清关（BIS 由买方自理需如实说）；周二 / 周四 11–13 IST**"
+   ],
+   "notes": "未坐实（1 查未中即停）→ 回 C 待下轮 1 查（官网页脚 GST）；印度先例 ✔ WA 可达 ✔ 决策人 ✔。",
+   "code": "SC-1177"
   }
  }
 }

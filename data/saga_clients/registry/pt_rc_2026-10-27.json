@@ -4,7 +4,7 @@
   "source": "Portugal · Registo Comercial（racius / iberinform / rigorbiz 镜像）",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 3
+  "count": 4
  },
  "rows": {
   "SB-1023": {
@@ -98,6 +98,36 @@
    ],
    "notes": "回 C 储备（坐实但主业不对位 CAE 47401 + 冷户 0 回 + Simon 判不行）；Q-33。",
    "code": "SC-2870"
+  },
+  "SC-2969": {
+   "batch": 134,
+   "name": "Metrikingdom Unipessoal Lda（metrikingdom.com；**NIF / NIPC 515518425；Rua Santa Marta N.º 43Ef, 3 D, 1150-293 Lisboa；2019-06-04 成立；Sociedade Unipessoal por Quotas；资本 € 6.000；CAE 62100 = 计算机编程活动（iberinform 2026-08 更新）**）；表内：Saleha Kanwal，+351 920 236 978，问 2 SFP + 2 RJ45 交换机",
+   "iso": "PT",
+   "fetched": "2026-10-29",
+   "source": "PT · 1 次检索：racius（NIF / 地址 / 成立日 / 资本）+ iberinform（CAE 62100 / 形式）；2026-10-29",
+   "url": "https://www.racius.com/metrikingdom-unipessoal-lda/",
+   "number": "515518425（NIF / NIPC）",
+   "status": "营业中（iberinform 2026-08）",
+   "incorporated": "2019-06-04",
+   "company_type": "Sociedade Unipessoal por Quotas",
+   "sic": [
+    "IT 编程 / 服务（里斯本）—— 非网络设备分销"
+   ],
+   "address": "Rua Santa Marta N.º 43Ef, 3 D, 1150-293 Lisboa",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（独资有限，资本 € 6k）",
+   "officers": [
+    "Saleha Kanwal — 表内联系人（职务未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**葡萄牙（欧洲）· 微型 IT 服务商 25%：先回邮确认用途 / 数量（2 SFP + 2 RJ45 → STI-154GP 样机 $36 或 STC-228GP $33），预付 100% + DAP— 葡萄牙常规：英文稿、20 / 25 / 30 + 预付 100%（微型）+ DAP 买方清关（CE / RoHS / REACH）；周二 / 周四 10–12 WET**"
+   ],
+   "notes": "集成 25%；P 池候选 △ 预付 100%（欧洲 ✔ 具体需求 ✔ 坐实 ✔；但 CAE 软件 + € 6k 资本 + 独资 = 微型、复购存疑）；坐实（NIF）。",
+   "code": "SC-2969"
   }
  }
 }
