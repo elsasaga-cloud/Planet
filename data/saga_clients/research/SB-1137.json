@@ -38,8 +38,8 @@
    "role": "Sócia-Administradora（casadosdados 2026-10-29；2009-08-13 入股；登记邮箱）（第 120 批 官方登记核实 2026-10-29）"
   }
  ],
- "grade_override": "B",
- "override_reason": "两轮主动要价（2024-06、2024-11），规格明确（CCTV 用 8+2/16+2/24+2 PoE）；巴西非主攻 → B 慢慢跟进。",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
  "notes": "西/葡语混写；要价都给了，没成——价格或进口门槛（巴西关税高）。",
  "deep": {
   "done_at": "2026-10-24",
@@ -146,5 +146,15 @@
    "subject": "8+2 / 16+2 / 24+2 PoE — volume and target price?",
    "body": "Hi, Fabian,\n\nYou priced our 8+2 / 16+2 / 24+2 PoE switches twice in 2024 and we never heard what happened — usually that means the landed price did not work.\n\nOne question: what yearly volume and landed target price per unit would make it work in Brazil? With that I can tell you honestly whether we can meet it, instead of sending another price list.\n\nThank you.\nSimon\nSaga Telecom - sagatele.com"
   }
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "两轮主动要价（2024-06、2024-11），规格明确（CCTV 用 8+2/16+2/24+2 PoE）；巴西非主攻 → B 慢慢跟进。",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）"
+  }
+ ]
 }

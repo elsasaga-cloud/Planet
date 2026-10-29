@@ -1,0 +1,65 @@
+{
+ "code": "SC-345",
+ "name_official": "pine-networks.com",
+ "researched_at": "2026-10-29",
+ "website_status": "",
+ "summary": "C 池三闸捞出（○ 正式）：○ DC 集成 25%（CENTEC 敲门砖）：Pine Networks（Garches；开放网络交钥匙集成 Edgecore / Adtran / UfiSpace；christophe@ 在表）部分坐实（SIREN 未取）；DC 对位 ✔ 具名 KP ✔ 欧洲 ✔ 坐实 ✔ = 冷户四条 → P 池候选（STH 系列一页纸；客户稿不提 SONiC）",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [],
+ "kp": [],
+ "grade_override": "B",
+ "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ DC 集成 25%（CENTEC 敲门砖）：Pine Networks（Garches；开放网络交钥匙集成 Edgecore / Adtran / UfiSpace；christophe@ 在表）部分坐实（SIREN 未取）；DC 对位 ✔ 具名 KP ✔ 欧洲 ✔ 坐实 ✔ = 冷户四条 → P 池候选（STH 系列一页纸；客户稿不提 SONiC）；闸 1：法国 Pine Networks（pine-networks.com；Edgecore 的 = 开放网络 / 数据中心白盒渠道）：欧洲 + DC 对位（CENTEC 敲门砖）+ 分销主体；名单内未触达 → 闸 2 查底数，低优先",
+ "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "B",
+   "prev_reason": "",
+   "reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ DC 集成 25%（CENTEC 敲门砖）：Pine Networks（Garches；开放网络交钥匙集成 Edgecore / Adtran / UfiSpace；christophe@ 在表）部分坐实（SIREN 未取）；DC 对位 ✔ 具名 KP ✔ 欧洲 ✔ 坐实 ✔ = 冷户四条 → P 池候选（STH 系列一页纸；客户稿不提 SONiC）；闸 1：法国 Pine Networks（pine-networks.com；Edgecore 的 = 开放网络 / 数据中心白盒渠道）：欧洲 + DC 对位（CENTEC 敲门砖）+ 分销主体；名单内未触达 → 闸 2 查底数，低优先"
+  }
+ ],
+ "lt_review": {
+  "status": "留 B",
+  "batch": "LT-R02",
+  "prio": 1,
+  "queued": "LT-R02",
+  "verdict_date": "2026-10-29",
+  "note": "桌面复核（闸 2 证据充分，三问成立）：○ DC 集成 25%（CENTEC 敲门砖）：Pine Networks（Garches；开放网络交钥匙集成 Edgecore / Adtran / UfiSpace；christophe@ 在表）部分坐实（SIREN 未取）；DC 对位 ✔ 具名 KP ✔ 欧洲 ✔ 坐实 ✔ = 冷户四条 → P 池候选（STH 系列一页纸；客户稿不提 SONiC）；备注：DC 开放网络集成 → CENTEC 敲门砖线（STH 一页纸，客户稿不提 SONiC）",
+  "why": "C 升 B（池位 ○，部分坐实 / 未坐实）→ 深挖：官网 / 进口数据 / 项目，确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备"
+ },
+ "mail_review": {
+  "as_of": "2026-10-29",
+  "binding": {
+   "level": "未绑定（C 池捞出，仓内无往来记录）",
+   "basis": "三闸：闸 0 活着 + 闸 1 对位候选 + 闸 2 坐实 / 部分坐实"
+  },
+  "situation": "C 池三闸捞出 → B（LT-01）：○ DC 集成 25%（CENTEC 敲门砖）：Pine Networks（Garches；开放网络交钥匙集成 Edgecore / Adtran / UfiSpace；christophe@ 在表）部分坐实（SIREN 未取）；DC 对位 ✔ 具名 KP ✔ 欧洲 ✔ 坐实 ✔ = 冷户四条 → P 池候选（STH 系列一页纸；客户稿不提 SONiC）",
+  "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
+  "breakpoint": "无往来（从未触达或仅群发无回）",
+  "saga_now": {
+   "p1": "",
+   "why": "待复核后按业务线定首推型号"
+  },
+  "next_move": {
+   "when": "不动：LT-01 复核（待过）后再定",
+   "channel": "—",
+   "action": "长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备"
+  },
+  "facts": [
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 三闸（sieve.json）",
+    "quote": "○ DC 集成 25%（CENTEC 敲门砖）：Pine Networks（Garches；开放网络交钥匙集成 Edgecore / Adtran / UfiSpace；christophe@ 在表）部分坐实（SIREN 未取）；DC 对位 ✔ 具名 KP ✔ 欧洲 ✔ 坐实 ✔ = 冷户四条 → P 池候选（STH 系列一页纸；客户稿不提 SONiC）",
+    "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   }
+  ],
+  "proof_gaps": [
+   "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
+  ]
+ }
+}

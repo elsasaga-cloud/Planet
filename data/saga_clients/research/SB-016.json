@@ -105,5 +105,12 @@
    "body": "You asked for our catalog after the 8-port PoE managed switch shipment photos — I can send the PDF and a landed-cost estimate to Dar es Salaam for 5 or 10 units; which size is closer?"
   },
   "as_of": "2026-10-24"
+ },
+ "lt_review": {
+  "batch": "LT-01",
+  "status": "待过",
+  "prio": 2,
+  "date": "2026-10-29",
+  "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 1，WA ✔，展会 —，绑定 轻度触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  }
 }

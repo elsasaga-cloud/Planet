@@ -69,8 +69,8 @@
    "source": "用户 Clients 表（ISAF 2025）+ 黄页法人信息"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "B",
+ "override_reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A",
  "notes": "欧洲主攻区、CEO 直接、已有同类供应商（EWIND）= 真实在采、可替换；兴趣点 2.5G + 升压 PoE 小口数机型。P1：STC-28DGGPM（8 口 PoE 商用）作为其要的 8 口报价，并附 2.5G 机型（STC-424XGGPM-280W 或 SmartByte 2.5G 8 口款，报价前核价）；分销价阶 20%。邮件 0 回复 → WA 跟。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -235,5 +235,15 @@
    "body": "Dear Vasilis,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth: you have worked with EWIND for five years, and you asked for an 8-port quote plus the 2.5G question.\n\nThe 8-port, gigabit where your BS-SWP series is still Fast Ethernet: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based, CE/RoHS - model STC-28DGGPM - $80.7 USD EXW at distributor price (MOQ 1, 15-day validity), in BS packing from small lots. The 2.5G answer: 4 x 2.5G PoE+ + 1 x 2.5G + 1 x 10G SFP+, unmanaged - STC-114XGDGP - $44.0. The 5-port booster unit I quote once you confirm the input voltage you have at the camera end.\n\nOne question: for the 8-port, is it tens or hundreds a year - that decides whether the carton carries the BS logo from the first lot?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "B",
+   "prev_reason": "",
+   "reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A"
+  }
+ ]
 }

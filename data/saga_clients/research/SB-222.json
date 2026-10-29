@@ -22,8 +22,8 @@
    "role": "WA +260 97…（5 次实质回复；2026-06 问价）— WA 一页纸一次：集成商 25% B、STI-054GP / STI-154GP / STI-280GE $46.6 一口价 + MOQ 1 + 付费样机；同时一句话问公司名 / 邮箱 — 赞比亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 卢萨卡、ZABS 不声称（第 121 批 官方登记核实 2026-10-29）"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -152,5 +152,15 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）"
+  }
+ ]
 }

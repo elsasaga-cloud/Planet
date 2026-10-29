@@ -50,8 +50,8 @@
    "role": "CEO & founder；2024-08 起唯一所有人（secsolution：Marcello Canali 售股）= 拍板人 / 收件人（第 111 批 官方登记核实 2026-10-28）"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
@@ -168,5 +168,15 @@
    "body": "Hello Eter team,\n\nYour auto-replies route quotation requests to commerciale@, so this comes here rather than to the general mailbox; copy to Andrea, who went through the bypass wiring diagram with us.\n\nSaga Telecom supplies industrial managed switches on the Marvell platform - 8 x Gigabit PoE+ + 2 x SFP, DIN-rail, -40 to 75 C, L2+ - for access-control and biometric reader networks, neutral label or yours, from single units. Reference price: model STI-288DGGPM - $137.5 USD EXW (MOQ 1, 15-day validity), CE/RoHS. The hardware-bypass version Andrea asked about is quoted separately against the site plan.\n\nOne question: do your biometric readers get PoE from the installer, or do you supply the switch as well?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）"
+  }
+ ]
 }

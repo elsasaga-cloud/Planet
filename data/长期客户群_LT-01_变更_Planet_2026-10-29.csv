@@ -1,0 +1,130 @@
+﻿编号,公司,国家,原等级,新等级,理由,复核
+PA-001,4Power S.r.l.,意大利,B,B,随主档 SA-081（B）,
+PA-002,Cartronic Group (Cartronic Memory S.A.),西班牙,B,B,三闸捞出 → B（Simon U128「直接定为 B」）,待过·优先级 1（2026-10-29）
+PA-003,RFOG POLAND Tomasz Paszkowski,波兰,A,A,随主档 SA-034（A）,
+PB-001,Spectra GmbH & Co. KG,德国,B,B,随主档 SB-683（B）,
+PB-002,W3CAM SAS,法国,B,B,三闸捞出 → B（Simon U128「直接定为 B」）,待过·优先级 1（2026-10-29）
+PB-003,Konsorcjum FEN Sp. z o.o.,波兰,B,B,三闸捞出 → B（Simon U128「直接定为 B」）,待过·优先级 1（2026-10-29）
+PB-004,Neteon Technologies,美国,B,B,随主档 SB-1059（B）,
+PB-005,Mid-Atlantic Rugged Systems (M/A Rugged),美国,B,B,随主档 SB-1131（B）,
+PB-006,Network Camera Store,美国,B,B,B 留（对位 + 活着 + 有路径）,待过·优先级 3（2026-10-29）
+PB-007,Paragon Networks Ltd,英国,B,B,B 留（对位 + 活着 + 有路径）,待过·优先级 3（2026-10-29）
+PC-001,EET Group,丹麦（泛欧）,C,C,随主档 SC-2599（C）,
+PC-002,Senetic,波兰（多国站点）,B,B,随主档 XC-M118（B）,
+PC-003,Morele.net,波兰,C,C,C 储备（三闸留 C）,
+PC-004,Exertis Connect (France),法国,C,C,C 储备（三闸留 C）,
+PC-005,"Planet Technology USA / Versa Technology, Inc.",美国,C,C,随主档 SC-253（C）,
+PA-004,NSI Distribution (2164929 Ontario Inc.),加拿大,B,B,随主档 SA-087（B）,
+PA-005,Jampel S.r.l.,意大利,B,B,随主档 XC-M096（B）,
+PA-006,Kyma Srl,意大利,B,B,随主档 SA-083（B）,
+PA-007,ALARM ABSOLON spol. s r.o.,捷克,B,B,三闸捞出 → B（Simon U128「直接定为 B」）,待过·优先级 1（2026-10-29）
+PA-008,Aspectis Kft.,匈牙利,B,B,三闸捞出 → B（Simon U128「直接定为 B」）,待过·优先级 1（2026-10-29）
+PA-009,Direktronik AB,瑞典,B,B,随主档 SA-043（B）,
+PA-010,iOC Tech Inc.,加拿大,B,B,三闸捞出 → B（Simon U128「直接定为 B」）,待过·优先级 1（2026-10-29）
+PB-008,PLANET Germany GmbH,德国,B,B,B 留（对位 + 活着 + 有路径）,待过·优先级 3（2026-10-29）
+PB-009,BTS NETWORK GmbH (lwl-shop24.de),德国,B,B,三闸捞出 → B（Simon U128「直接定为 B」）,待过·优先级 1（2026-10-29）
+PB-010,Ballicom Ltd,英国,B,B,B 留（对位 + 活着 + 有路径）,待过·优先级 3（2026-10-29）
+PB-011,ProVu Communications Ltd,英国,B,B,三闸捞出 → B（Simon U128「直接定为 B」）,待过·优先级 1（2026-10-29）
+PB-012,Visual Control Systems Ltd,英国,B,B,B 留（对位 + 活着 + 有路径）,待过·优先级 3（2026-10-29）
+PB-013,Wood Communications Ltd,爱尔兰,B,B,随主档 SB-721（B）,
+PB-014,NetWalker (EURL),法国,B,B,B 留（对位 + 活着 + 有路径）,待过·优先级 3（2026-10-29）
+PB-015,Sistel Networking (SISTEL srl),意大利,B,B,随主档 SB-492（B）,
+PB-016,LK enterprise s.r.o. (Kamerový Svět),捷克,B,B,B 留（对位 + 活着 + 有路径）,待过·优先级 3（2026-10-29）
+PB-017,INTER-COMP.PL KOWALSKI sp. z o.o. (media-konwertery.pl),波兰,B,B,随主档 SB-428（B）,
+PB-018,Power Biztonságtechnikai Kereskedelmi Kft.,匈牙利,B,B,三闸捞出 → B（Simon U128「直接定为 B」）,待过·优先级 1（2026-10-29）
+PB-019,Sound People AS,挪威,B,B,B 留（对位 + 活着 + 有路径）,待过·优先级 3（2026-10-29）
+PB-020,Jlinks Technology Corp.,加拿大,B,B,三闸捞出 → B（Simon U128「直接定为 B」）,待过·优先级 1（2026-10-29）
+PB-021,Nassau National Cable,美国,B,B,B 留（对位 + 活着 + 有路径）,待过·优先级 3（2026-10-29）
+PB-022,Business Systems Connection Inc.,美国,B,B,随主档 SB-1013（B）,
+PC-006,100MEGA Distribution s.r.o. / ASM (planet-technology.cz),捷克,B,B,B 留（对位 + 活着 + 有路径）,待过·优先级 3（2026-10-29）
+PC-007,ACTION S.A. (planet.pl),波兰,C,C,永久 pass（三闸）,
+PC-008,Alcadon AB,瑞典,C,C,C 储备（三闸留 C）,
+PA-011,Young B.T.S. Informatikai és Kereskedelmi Kft.,匈牙利,B,B,随主档 XA-M491（B）,
+PA-012,SIR.tel. S.r.l.,意大利,B,B,三闸捞出 → B（Simon U128「直接定为 B」）,待过·优先级 1（2026-10-29）
+PA-013,Leteng AS,挪威,B,B,三闸捞出 → B（Simon U128「直接定为 B」）,待过·优先级 1（2026-10-29）
+PB-023,Anatronic S.A.,西班牙,B,B,B 留（对位 + 活着 + 有路径）,待过·优先级 3（2026-10-29）
+PB-024,Coel Distribution srl,意大利,B,B,随主档 SB-1018（B）,
+PB-025,Microdata Finland Oy,芬兰,B,B,三闸捞出 → B（Simon U128「直接定为 B」）,待过·优先级 1（2026-10-29）
+PB-026,CMS (Cable Management Supplies) plc,英国,B,B,B 留（对位 + 活着 + 有路径）,待过·优先级 3（2026-10-29）
+PB-027,VERSIM S.A.,波兰,B,B,B 留（对位 + 活着 + 有路径）,待过·优先级 3（2026-10-29）
+PB-028,Lastella Trade S.r.l. (DigitX.it),意大利,B,B,随主档 SC-2941（B）,
+PB-029,Microsam,加拿大,B,B,B 留（对位 + 活着 + 有路径）,待过·优先级 3（2026-10-29）
+PB-030,Connect Data – Sintel (Connect Data SARL),法国,B,B,随主档 XA-M496（B）,
+PC-009,Compass Distribution (Sirius S.p.A. – Divisione Compass),意大利,B,B,随主档 XC-M093（B）,
+PC-010,Kenex s.r.o.,捷克,C,C,随主档 SC-1854（C）,
+PA-014,Pulse Supply,美国,B,B,随主档 XC-M154（B）,
+PA-015,PROFIcomms s.r.o.,捷克,B,B,随主档 XA-M154（B）,
+PB-031,Bimel Elektronik Mamulleri Pazarlama A.Ş.,土耳其,B,B,随主档 SB-861（B）,
+PB-032,Rima Elektronik Bilişim ve Güvenlik Sistemleri San. ve Dış Tic. Ltd. Şti.,土耳其,B,B,随主档 SB-286（B）,
+PB-033,Ergen Elektronik,土耳其,B,B,三闸捞出 → B（Simon U128「直接定为 B」）,待过·优先级 1（2026-10-29）
+PB-034,"Platinum Micro, Inc.",美国,C,C,C 储备（三闸留 C）,
+PB-035,"ABP Technology (ABP International, Inc.)",美国,B,B,随主档 XC-M132（B）,
+PB-036,Globall Distribution,加拿大,B,B,随主档 SB-1125（B）,
+PB-037,Fiber24 (shop.fiber24.net),德国,B,B,随主档 SC-2488（B）,
+PB-038,TRIOTRONIK Computerhandels GmbH,奥地利,B,B,随主档 SB-1091（B）,
+PB-039,Aikom Technology S.r.l.,意大利,B,B,随主档 XA-M022（B）,
+PB-040,Alarmsysteemexpert,荷兰,B,B,三闸捞出 → B（Simon U128「直接定为 B」）,待过·优先级 1（2026-10-29）
+PC-011,Akçaba Communications (Akçaba Ltd.),北塞浦路斯（TRNC）,B,B,三闸捞出 → B（Simon U128「直接定为 B」）,待过·优先级 1（2026-10-29）
+PB-041,Nokta Elektronik ve Bilişim Sistemleri,土耳其,B,B,随主档 SB-1119（B）,
+PB-042,Connectec (Connectec UK),英国,B,B,随主档 SB-1123（B）,
+PB-043,Saratota Ltd,英国,B,B,随主档 SB-679（B）,
+PB-044,CiudadWireless,西班牙,B,B,随主档 XA-M275（B）,
+PB-045,Shop4Power (Shop4power / shop4networks),荷兰,B,B,随主档 SB-779（B）,
+PB-046,"Data Connect Enterprise, Inc. (DSL-Warehouse / DCE Express)",美国,A,A,随主档 SA-059（A）,
+PB-047,"WAV, LLC (Last Mile Gear, a WAV company)",美国,B,B,随主档 XA-C0013（B）,
+PB-048,Switch SFP Ltd,英国,B,B,随主档 XA-M250（B）,
+PB-049,"Intermédia – Informática, Lda",葡萄牙,B,B,三闸捞出 → B（Simon U128「直接定为 B」）,待过·优先级 1（2026-10-29）
+PB-050,"PCV Computers, s.r.o.",捷克,B,B,随主档 XA-M153（B）,
+PB-051,Eltrox (eltrox.pl),波兰,B,B,随主档 SC-2510（B）,
+PB-052,"STS Lab, Inc. (CCTV.Net)",美国,B,B,三闸捞出 → B（Simon U128「直接定为 B」）,待过·优先级 1（2026-10-29）
+PB-053,"Lin Haw International Co., Ltd.",加拿大,B,B,随主档 SB-1127（B）,
+PC-012,StarTech.com Ltd (StarTech.com USA LLP),加拿大,C,C,随主档 XB-M177（C）,
+PB-054,GelecekBT Bilgi Teknolojileri,土耳其,B,B,随主档 SB-275（B）,
+PB-055,Industrial Personal Computer 2U GmbH (IPC2U),德国,B,B,随主档 SB-617（B）,
+PC-013,Oprema Ltd (EET Group),英国,B,B,随主档 SC-2372（B）,
+PB-056,ViSe S.r.l.,意大利,B,B,B 留（对位 + 活着 + 有路径）,待过·优先级 3（2026-10-29）
+PB-057,FONEX K.T.M. Borowscy Sp. j.,波兰,B,B,随主档 SB-1124（B）,
+PB-058,JPF Industries SAS,法国,B,B,三闸捞出 → B（Simon U128「直接定为 B」）,待过·优先级 1（2026-10-29）
+PB-059,Europ Computer Performance SARL (ECP),法国,B,B,三闸捞出 → B（Simon U128「直接定为 B」）,待过·优先级 1（2026-10-29）
+PB-060,DATA GROUP SK s.r.o. (DATA Network),斯洛伐克,B,B,B 留（对位 + 活着 + 有路径）,待过·优先级 3（2026-10-29）
+PB-061,Elctron E-commerce Partners Sp. z o.o. (CTR / ctr.pl),波兰,B,B,三闸捞出 → B（Simon U128「直接定为 B」）,待过·优先级 1（2026-10-29）
+PB-062,Gateway Comunicaciones y Sistemas S.L.,西班牙,B,B,B 留（对位 + 活着 + 有路径）,待过·优先级 3（2026-10-29）
+PB-063,MADER s.r.o.,捷克,C,C,C 储备（三闸留 C）,
+PB-064,"Link Technologies, Inc.",美国,C,C,C 储备（三闸留 C）,
+PB-065,Allnet Sp. z o.o. Sp.k.（WISP.PL）,波兰,B,B,随主档 SB-178（B）,
+PB-066,"El Paso Communication Systems, Inc.（dba EPCOM）",美国,B,B,随主档 SC-2429（B）,
+PB-067,EDOX SAS,法国,B,B,随主档 XA-M172（B）,
+PB-068,MARCOM S.r.l.,意大利,B,B,随主档 SB-1055（B）,
+PB-069,Cyberbajt Tadeusz Nowak（cyberbajt.pl）,波兰,B,B,随主档 SB-1021（B）,
+PB-070,VanCo.cz s.r.o.（wifi-shop.cz）,捷克,C,C,随主档 SC-994（C）,
+PB-071,AccessPoint Kft.,匈牙利,B,B,随主档 XA-M086（B）,
+PB-072,CompMarket Hungary Zrt.,匈牙利,B,B,随主档 XA-M088（B）,
+PB-073,Fiberworks AS（fiberworks.no）,挪威,B,B,随主档 SB-836（B）,
+PB-074,APLUS Système Automation（aplus-sa.com）,法国,B,B,随主档 XA-M170（B）,
+PB-075,"SOFTCOM GROUP, spol. s r.o.（softcom.cz）",捷克,B,B,B 留（对位 + 活着 + 有路径）,待过·优先级 3（2026-10-29）
+PB-076,PLANET SHOP – Networking & Communication（Nastas Apostolos，planet-shop.gr）,希腊,C,C,C 储备（三闸留 C）,
+PB-077,Ditecom Design（ditecom.com）,西班牙,B,B,随主档 XA-M279（B）,
+PB-078,Solimedia Technology Inc,加拿大,B,B,随主档 SB-1078（B）,
+PB-079,Interamerican Tech Corp (ItamTech),美国,B,B,随主档 XA-M222（B）,
+PB-080,Telecom Creations,美国,B,B,B 留（对位 + 活着 + 有路径）,待过·优先级 3（2026-10-29）
+PA-016,VOIP24SKLEP.PL Sp. z o.o.,波兰,B,B,三闸捞出 → B（Simon U128「直接定为 B」）,待过·优先级 1（2026-10-29）
+PB-081,OKSA Automation Limited,英国,B,B,随主档 SB-176（B）,
+PB-082,Snugfort Limited (ScreenMoove),英国,B,B,三闸捞出 → B（Simon U128「直接定为 B」）,待过·优先级 1（2026-10-29）
+PB-083,Redcorp SA/NV,比利时,B,B,随主档 SB-1129（B）,
+PB-084,VoIPDistri.com (VOIP.world),德国,B,B,B 留（对位 + 活着 + 有路径）,待过·优先级 3（2026-10-29）
+PB-085,ESUS IT sp. z o.o.,波兰,B,B,B 留（对位 + 活着 + 有路径）,待过·优先级 3（2026-10-29）
+PB-086,Technical Reality Limited,英国,B,B,B 留（对位 + 活着 + 有路径）,待过·优先级 3（2026-10-29）
+PB-087,ITM Components Ltd,英国,B,B,随主档 SB-1045（B）,
+PB-088,Mills Ltd,英国,B,B,三闸捞出 → B（Simon U128「直接定为 B」）,待过·优先级 1（2026-10-29）
+PB-089,Danbit A/S (Dansk Binær Teknik A/S),丹麦,B,B,随主档 SB-1022（B）,
+PB-090,KLINGER Finland Oy,芬兰,B,B,随主档 SB-1126（B）,
+PB-091,DIGIRAM.PL Adam Tytoń,波兰,B,B,B 留（对位 + 活着 + 有路径）,待过·优先级 3（2026-10-29）
+PA-017,U.T.E. Electronic GmbH & Co. KG,德国,B,B,随主档 SA-088（B）,
+PA-018,LANCOMAT s.r.o.,捷克,B,B,随主档 SA-089（B）,
+PB-092,Unifibre Srl（Optoplast Srl 承接业务）,意大利,B,B,随主档 SB-1092（B）,
+PB-093,LAN Számítástechnikai Szolgáltató Kft.,匈牙利,B,B,随主档 SB-1052（B）,
+PB-094,Avstek Oy,芬兰,B,B,随主档 SB-1008（B）,
+PB-095,Netram Memory GmbH,德国,B,B,随主档 SB-1133（B）,
+PB-096,LOSAN s.r.o.,捷克,B,B,随主档 SB-1128（B）,
+PB-097,PHU Multiproject,波兰,B,B,随主档 SB-1058（B）,
+PB-098,Acceed GmbH,德国,B,B,随主档 SB-932（B）,

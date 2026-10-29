@@ -17,5 +17,57 @@
  ],
  "researched_at": "2026-10-29",
  "country_fix": "瑞士",
- "notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。"
+ "notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。",
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "B",
+   "prev_reason": "",
+   "reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 欧洲 · 工业自动化分销 20%：Omni Ray AG（Dübendorf；CHE-105.959.689；1950；CHF 2.05M；20–49 人；MD Roger Müller；Moxa 分销）坐实；欧洲 ✔ 台湾工业品牌分销 ✔ 对位 ✔ → P 池候选；表内「智利」→ 瑞士 country_fix 待 Simon；闸 1：Omni Ray（omniray.ch；表内「智利」实为 .ch 瑞士 → 国别待核；Moxa）：欧洲主区 ✔ 台湾工业品牌分销 ✔ 对位（STI 工业线）✔；未触达 → 闸 2 查底数（zefix / 官网 Impressum）并核国别"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 欧洲 · 工业自动化分销 20%：Omni Ray AG（Dübendorf；CHE-105.959.689；1950；CHF 2.05M；20–49 人；MD Roger Müller；Moxa 分销）坐实；欧洲 ✔ 台湾工业品牌分销 ✔ 对位 ✔ → P 池候选；表内「智利」→ 瑞士 country_fix 待 Simon；闸 1：Omni Ray（omniray.ch；表内「智利」实为 .ch 瑞士 → 国别待核；Moxa）：欧洲主区 ✔ 台湾工业品牌分销 ✔ 对位（STI 工业线）✔；未触达 → 闸 2 查底数（zefix / 官网 Impressum）并核国别",
+ "lt_review": {
+  "status": "留 B",
+  "batch": "LT-R02",
+  "prio": 1,
+  "queued": "LT-R02",
+  "verdict_date": "2026-10-29",
+  "note": "桌面复核（闸 2 证据充分，三问成立）：★ 欧洲 · 工业自动化分销 20%：Omni Ray AG（Dübendorf；CHE-105.959.689；1950；CHF 2.05M；20–49 人；MD Roger Müller；Moxa 分销）坐实；欧洲 ✔ 台湾工业品牌分销 ✔ 对位 ✔ → P 池候选；表内「智利」→ 瑞士 country_fix 待 Simon；备注：表内「智利」实为瑞士（CHE-105.959.689）→ country_fix 随下一次 build 处理",
+  "why": "C 升 B（池位 ★，坐实）→ 深挖：官网 / 进口数据 / 项目，确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备"
+ },
+ "mail_review": {
+  "as_of": "2026-10-29",
+  "binding": {
+   "level": "未绑定（C 池捞出，仓内无往来记录）",
+   "basis": "三闸：闸 0 活着 + 闸 1 对位候选 + 闸 2 坐实 / 部分坐实"
+  },
+  "situation": "C 池三闸捞出 → B（LT-01）：★ 欧洲 · 工业自动化分销 20%：Omni Ray AG（Dübendorf；CHE-105.959.689；1950；CHF 2.05M；20–49 人；MD Roger Müller；Moxa 分销）坐实；欧洲 ✔ 台湾工业品牌分销 ✔ 对位 ✔ → P 池候选；表内「智利」→ 瑞士 country_fix 待 Simon",
+  "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
+  "breakpoint": "无往来（从未触达或仅群发无回）",
+  "saga_now": {
+   "p1": "",
+   "why": "待复核后按业务线定首推型号"
+  },
+  "next_move": {
+   "when": "不动：LT-01 复核（待过）后再定",
+   "channel": "—",
+   "action": "长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备"
+  },
+  "facts": [
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 三闸（sieve.json）",
+    "quote": "★ 欧洲 · 工业自动化分销 20%：Omni Ray AG（Dübendorf；CHE-105.959.689；1950；CHF 2.05M；20–49 人；MD Roger Müller；Moxa 分销）坐实；欧洲 ✔ 台湾工业品牌分销 ✔ 对位 ✔ → P 池候选；表内「智利」→ 瑞士 country_fix 待 Simon",
+    "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   }
+  ],
+  "proof_gaps": [
+   "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
+  ]
+ }
 }

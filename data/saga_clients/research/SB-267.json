@@ -122,5 +122,12 @@
    "body": "Hi Amy,\n\nPicking up your note of 2025-07-07 (\"Please advise the price of 4-port POE plus 1 uplink and 8 port POE with 1 uplink switches?…\"). Instead of another catalog mail, one question:\n\nDid the 4/8-port PoE quote from July (4-PoE + 1 uplink $19, 2-SFP + 4-PoE $21, 8-PoE + 2 uplink $24.5, 8-PoE + 2 SFP $36.5 USD EXW) fit the access-control job, or did the count change? Those were a 2025 snapshot; if the job is live I will re-confirm them the same day.\n\nIf there is no live project, just say so and I will stop here.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "lt_review": {
+  "batch": "LT-01",
+  "status": "待过",
+  "prio": 2,
+  "date": "2026-10-29",
+  "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 1，WA ✔，展会 —，绑定 轻度触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  }
 }

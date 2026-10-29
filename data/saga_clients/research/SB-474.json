@@ -55,8 +55,8 @@
    "source": "S/A 邮箱来信 2024-05-09 → 2025-02-08 来信 5 封（无署名全名）（第 72 批从邮件表头补）"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来；A6 真回≥3+对位（任何区域）",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -229,5 +229,15 @@
    "body": "Hi, Andy,\n\nIn February 2025 you told me plainly that the L3 DIN PoE unit at $500 was more than you pay elsewhere. Fair point, and I have not pushed PoE on you since.\n\nThis is about a different slot. Two things in our range today that Case does not list:\n\n- Industrial 10G uplink access: STI-488XGGPM, 8× GE PoE+ + 4× 10G SFP+, L2+ (Marvell), -40 to +75 °C, DIN-rail — $171.9 USD EXW, MOQ 1 pc, 15-day validity.\n- Full-L3 aggregation on our CENTEC line: STH-2C24XF-HSI, 24× 10G SFP+ + 2× 100G, OSPF/BGP/MPLS, dual hot-swap PSU — $1,500 USD EXW, built to order.\n\nBoth can carry the Case label (software logo from one unit; overlay and box from 300 / 200 pcs).\n\nOne question: is there a 10G-uplink or L3 aggregation gap in your industrial range where one of these would fill a hole rather than duplicate what you already buy? If not, I will leave it there.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来；A6 真回≥3+对位（任何区域）"
+  }
+ ]
 }

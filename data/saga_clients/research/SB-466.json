@@ -126,5 +126,15 @@
    "body": "Hi Manish,\n\nYou asked us on Alibaba about Ethernet-over-coax adapters. Straight answer: we do not carry EoC.\n\nWhat we do build, for the CCTV and PBX installs you do in hotels and offices: an 8 x Gigabit PoE+ + 2 x SFP L2+ managed switch, Marvell-based, FCC/CE/RoHS - model STC-28DGGPM - $84.1 USD EXW (MOQ 1, 15-day validity); the 24 x PoE+ (280 W) + 4 x SFP version, STC-424DGGPM-280W, is $140.1.\n\nOne question: is there a PoE switch position in the same hotel or office project that we could quote?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "lt_review": {
+  "status": "留 B",
+  "batch": "LT-R04",
+  "prio": 2,
+  "queued": "LT-R04",
+  "verdict_date": "2026-10-29",
+  "note": "桌面复核（研究档类型 + 对位首推）：安防/IT 集成商（美国，EoC 询盘）；切入：询盘品类 EoC（Saga 不供，Q-32）→ 转推 CCTV/PBX 配套 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）；行业内 ✔ 对位 ✔（宽留冷「不对位」系 fit 标志未回填，非真不对位）",
+  "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未发信））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
+ },
+ "override_history": []
 }

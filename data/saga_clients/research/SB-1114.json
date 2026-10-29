@@ -45,8 +45,8 @@
   "tier": 30,
   "why": "明确问 OEM 定制 → OEM/ODM 30% 档；若只是自用/项目则 25%"
  },
- "grade_override": "B",
- "override_reason": "具名 Owner 实质回复 + OEM 意向，但规模小、API 诉求未必能满足、追问未回 → B",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来",
  "mail_review": {
   "binding": {
    "level": "轻度触达（2026-10-03 一封实质来信「This actually does have my interest. What levels of customization… api availability for controller integration」；Simon 10-04 长回 + 10-19 催样，均无回；Elsa 箱：`to:fikesmedia.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 3 / 来 1）（第 74 批(h)））",
@@ -117,5 +117,15 @@
   "size": "微型（一人公司）（第 88 批 官方登记核实 2026-10-27）",
   "hq": "105 George St, Silsbee, TX 77656",
   "other": "第 94 批：MikroTik 转售副业、老板全职在学区 → 分销 20% 一页纸，不投第 2 封；若回信问的是学区项目（第 94 批 官方登记核实 2026-10-28）"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "具名 Owner 实质回复 + OEM 意向，但规模小、API 诉求未必能满足、追问未回 → B",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来"
+  }
+ ]
 }

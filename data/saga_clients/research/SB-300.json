@@ -127,5 +127,12 @@
    "body": "Hello,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nFollowing the brochure you picked up: for the production lines at the Ordu plant we supply a DIN-rail industrial switch, 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, fanless (dusty environment), -40 to 75 C, model STI-288DGGPM - $137.5 USD EXW (MOQ 1, 15-day validity). CE/RoHS, 3-year warranty with our DIN power supply.\n\nOne question: who in the plant IT / electrical team should I send this to?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "lt_review": {
+  "batch": "LT-01",
+  "status": "待过",
+  "prio": 2,
+  "date": "2026-10-29",
+  "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 ✔，绑定 未发信））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  }
 }

@@ -22,8 +22,8 @@
    "date": "2026-10-21"
   }
  ],
- "grade_override": "B",
- "override_reason": "实体未核实且零互动；即便同一公司，主业为太阳能，工业 PoE 为项目配套。B 慢跟。",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A1 复购/绑定≥中度；A2 成单/样品/PI+真人往来",
  "notes": "",
  "researched_at": "2026-10-21",
  "deep": {
@@ -110,6 +110,16 @@
    "email": "shaji@greentechme.net",
    "phone": "",
    "source": "用户表 / entities 邮箱"
+  }
+ ],
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "实体未核实且零互动；即便同一公司，主业为太阳能，工业 PoE 为项目配套。B 慢跟。",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A1 复购/绑定≥中度；A2 成单/样品/PI+真人往来"
   }
  ]
 }

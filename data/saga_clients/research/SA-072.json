@@ -66,8 +66,8 @@
    "source": "https://test.transaudiovideo.com/group/"
   }
  ],
- "grade_override": "A",
- "override_reason": "A 三条件：① 可追溯需求——「采购过多次交换机（主要商业级、少量工业级）、希望合作、要详细报价单」；② 直接具名联系人——GM Francesco Brighel（f.brighel@，手机在册，家族企业第二代）；③ 可赢规模——30 人家族分销商、2024 年营收 €18.0M，Security 事业部分销 CCTV，非巨头。",
+ "grade_override": "B",
+ "override_reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A",
  "notes": "重启用手机/WhatsApp（有号码），一页式报价（STC-28DGGPM、STC-424DGGPM-280W、STI-288DGGPM，项目 25%）。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -200,5 +200,15 @@
    "body": "Francesco, Simon from Saga Telecom (we met at IFSEC). The detailed price list you asked for, in three lines, distributor price, EXW, MOQ 1, 15-day validity: commercial 24 x PoE+ (280 W) + 4 x SFP L2+ managed, Marvell-based - STC-424DGGPM-280W - $134.5; 8 x PoE+ + 2 x SFP L2+ managed - STC-28DGGPM - $80.7; DIN-rail industrial 8 x PoE+ + 2 x SFP L2+ managed - STI-288DGGPM - $137.5. Which of the three would you like as a sample for the Caserta demo room?"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "A 三条件：① 可追溯需求——「采购过多次交换机（主要商业级、少量工业级）、希望合作、要详细报价单」；② 直接具名联系人——GM Francesco Brighel（f.brighel@，手机在册，家族企业第二代）；③ 可赢规模——30 人家族分销商、2024 年营收 €18.0M，Security 事业部分销 CCTV，非巨头。",
+   "reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A"
+  }
+ ]
 }

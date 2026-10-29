@@ -130,5 +130,12 @@
    "body": "Hi Andreea,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 10 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nBeside the UTEPO switches you carry with Dahua and ZKTeco, neutral-brand units at distributor price, EXW, MOQ 1, 15-day validity, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD; DIN-rail industrial 8 x PoE+ + 2 x SFP, unmanaged, -40 to 75 C - STI-288GP - $60. Samples are paid at the same price and ship by courier.\n\nOne question: would a 1 + 1 sample to compare on your access-control sites be useful - and to which address?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "lt_review": {
+  "batch": "LT-01",
+  "status": "待过",
+  "prio": 2,
+  "date": "2026-10-29",
+  "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  }
 }

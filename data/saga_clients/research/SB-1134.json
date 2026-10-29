@@ -40,8 +40,8 @@
    "role": "Gerente General（官网 gerencia@ 吻合；研究档 KP；三次真回）= 收件人 — 一页纸 + 规格书：STH-8C48DX-HSI $4,800 / STH-2C24XF-HSI $1,500 CENTEC + 接入 STC-424XGGPM-280W $198 / STC-4424GCPM $165 + 付费样机；西语备注 — 拉美常规：英文稿（西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29）"
   }
  ],
- "grade_override": "B",
- "override_reason": "总经理 3 次具名真回（2025-05、2026-01 ×2），有「Data Center client」在手并承诺反馈；自动 C 系无互动评分；按证据升 B（慢慢跟进，非主攻区）。",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
  "notes": "西语区（萨尔瓦多）；信件英文流畅。feedback 未到 = 典型「转发给客户后沉默」。",
  "deep": {
   "done_at": "2026-10-24",
@@ -148,5 +148,15 @@
    "subject": "Re: OEM Core Switching Solution — the data-center client",
    "body": "Dear Antonio,\n\nIn January you took our CENTEC material (STH25G series, function list V2.4) to a data-center client and kindly offered some feedback. I did not follow up on it, so let me do that now.\n\nIf the 25G/100G core is still open on their side: the 48 x 25G + 8 x 100G unit (STH-8C48DX-HSI) is $4,800 USD EXW on the 2026 Q2 list (valid 15 days from this mail), L3 with VXLAN-EVPN, MPLS and MLAG, hot-swap PSUs, with your label if needed.\n\nOne question: did the client decide, and if not, what was their feedback on the material?\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
   }
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "总经理 3 次具名真回（2025-05、2026-01 ×2），有「Data Center client」在手并承诺反馈；自动 C 系无互动评分；按证据升 B（慢慢跟进，非主攻区）。",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）"
+  }
+ ]
 }

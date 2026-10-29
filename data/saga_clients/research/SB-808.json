@@ -117,5 +117,15 @@
    "body": "Hello Deponet team,\n\nAlongside the Ruijie, Maipu and Allied Telesis switches you distribute, a neutral-brand line for the price-sensitive end of your reseller base, CE/RoHS, from small lots: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD EXW at distributor price (MOQ 1, 15-day validity); 24 x Gigabit + 4 x 10G SFP+ L2+ - STC-424XGGM - $127.4; industrial mini Gigabit media converter - STI-110GE - $26.5.\n\nOne question: which PoE size do your resellers order most - 8, 16 or 24 ports?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "lt_review": {
+  "status": "留 B",
+  "batch": "LT-R04",
+  "prio": 2,
+  "queued": "LT-R04",
+  "verdict_date": "2026-10-29",
+  "note": "桌面复核（研究档类型 + 对位首推）：网络产品分销商（土耳其，多品牌）；切入：多品牌货架（Ruijie/Maipu/Allied Telesis）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）作白牌价位；24 口位 STC-424XGGM；MC 位 STI-110GE；行业内 ✔ 对位 ✔（宽留冷「不对位」系 fit 标志未回填，非真不对位）",
+  "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未发信））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
+ },
+ "override_history": []
 }

@@ -1,0 +1,65 @@
+{
+ "code": "SC-1657",
+ "name_official": "San Telequip Pvt. Ltd.",
+ "researched_at": "2026-10-29",
+ "website_status": "",
+ "summary": "C 池三闸捞出（○ 正式）：○ 印度 · 工业自动化渠道 25%：San Telequip Private Limited（Pune；CIN U32202PN1992PTC065720；1992；≈ 32 人；董事 Gokhale / Joshi）坐实；印度先例 ✔ 工业渠道对位 ✔ 主动问 5 / 8 电口价 ✔ → P 池候选",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [],
+ "kp": [],
+ "grade_override": "B",
+ "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 印度 · 工业自动化渠道 25%：San Telequip Private Limited（Pune；CIN U32202PN1992PTC065720；1992；≈ 32 人；董事 Gokhale / Joshi）坐实；印度先例 ✔ 工业渠道对位 ✔ 主动问 5 / 8 电口价 ✔ → P 池候选；闸 1：印度 San Telequip Pvt. Ltd.（santelequip.com 正常；Chetan Kamdi，gmail；Profibus Connectors 商，主动问了 5 / 8 电口的价格 ✔）：印度先例 ✔ 工业自动化渠…",
+ "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "B",
+   "prev_reason": "",
+   "reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 印度 · 工业自动化渠道 25%：San Telequip Private Limited（Pune；CIN U32202PN1992PTC065720；1992；≈ 32 人；董事 Gokhale / Joshi）坐实；印度先例 ✔ 工业渠道对位 ✔ 主动问 5 / 8 电口价 ✔ → P 池候选；闸 1：印度 San Telequip Pvt. Ltd.（santelequip.com 正常；Chetan Kamdi，gmail；Profibus Connectors 商，主动问了 5 / 8 电口的价格 ✔）：印度先例 ✔ 工业自动化渠…"
+  }
+ ],
+ "lt_review": {
+  "status": "留 B",
+  "batch": "LT-R03",
+  "prio": 1,
+  "queued": "LT-R03",
+  "verdict_date": "2026-10-29",
+  "note": "桌面复核（闸 2 证据，三问成立）：○ 印度 · 工业自动化渠道 25%：San Telequip Private Limited（Pune；CIN U32202PN1992PTC065720；1992；≈ 32 人；董事 Gokhale / Joshi）坐实；印度先例 ✔ 工业渠道对位 ✔ 主动问 5 / 8 电口价 ✔ → P 池候选",
+  "why": "C 升 B（池位 ○，部分坐实 / 未坐实）→ 深挖：官网 / 进口数据 / 项目，确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备"
+ },
+ "mail_review": {
+  "as_of": "2026-10-29",
+  "binding": {
+   "level": "未绑定（C 池捞出，仓内无往来记录）",
+   "basis": "三闸：闸 0 活着 + 闸 1 对位候选 + 闸 2 坐实 / 部分坐实"
+  },
+  "situation": "C 池三闸捞出 → B（LT-01）：○ 印度 · 工业自动化渠道 25%：San Telequip Private Limited（Pune；CIN U32202PN1992PTC065720；1992；≈ 32 人；董事 Gokhale / Joshi）坐实；印度先例 ✔ 工业渠道对位 ✔ 主动问 5 / 8 电口价 ✔ → P 池候选",
+  "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
+  "breakpoint": "无往来（从未触达或仅群发无回）",
+  "saga_now": {
+   "p1": "",
+   "why": "待复核后按业务线定首推型号"
+  },
+  "next_move": {
+   "when": "不动：LT-01 复核（待过）后再定",
+   "channel": "—",
+   "action": "长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备"
+  },
+  "facts": [
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 三闸（sieve.json）",
+    "quote": "○ 印度 · 工业自动化渠道 25%：San Telequip Private Limited（Pune；CIN U32202PN1992PTC065720；1992；≈ 32 人；董事 Gokhale / Joshi）坐实；印度先例 ✔ 工业渠道对位 ✔ 主动问 5 / 8 电口价 ✔ → P 池候选",
+    "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   }
+  ],
+  "proof_gaps": [
+   "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
+  ]
+ }
+}

@@ -61,8 +61,8 @@
    "source": "https://www.tofler.in/vicom-security-private-limited/company/U51109WB1995PTC070096"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "B",
+ "override_reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A",
  "notes": "已开视频会 + 自有品牌 + 明确机型需求 = 可做 OEM（VICOM 贴牌）。印度非主攻区但项目体量可观。P1：4 光 24 电管理 PoE → STC-424DGGPM-280W（4 SFP 版本核对）；4 光 4 PoE 管理 → STI 工业 4 电 4 光机型（核价）；OEM 价阶 30%。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -253,5 +253,15 @@
    "body": "Hello VICOM team,\n\nAfter the video call and the mails that followed, nothing from us needed an answer until now. Your VIES7511-8PGE2GF-DC and 24GP4GC-L2M are two footprints we build on a Marvell core, in VICOM packing as a second source: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, -40 to 75 C - model STI-288GPM - $85.5 USD EXW with your logo (MOQ 1, 15-day validity); 24 x Gigabit PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $145.7. The 16-port PoE follows the same datasheet layout. CE/RoHS files supplied; BIS stays on your side.\n\nOne question: you mentioned a unified management platform - which one, so I check what the web GUI and SNMP of these units need to expose to it?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "B",
+   "prev_reason": "",
+   "reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A"
+  }
+ ]
 }

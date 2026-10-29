@@ -47,8 +47,8 @@
    "source": "https://twincn.com/item.aspx?no=12278439"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来；A6 真回≥3+对位（任何区域）",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -160,5 +160,15 @@
    "body": "Hi Gary,\n\nYou told Alan in August there is no requirement so far - noted, and this is not a chase. One line to keep on file for when an entry-level, non-railway panel SKU comes up at Tailyn: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based, -40 to 75 C - model STI-288GPM - $85.5 USD EXW at OEM tier (MOQ 1, 15-day validity), Tailyn label from small lots; the alert-system details you asked about in 2025 go with the datasheet when you want them.\n\nOne question: is 2027 the year an entry-level SKU gets sourced, or does Tailyn keep the whole industrial range in-house?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来；A6 真回≥3+对位（任何区域）"
+  }
+ ]
 }

@@ -39,8 +39,8 @@
    "source": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl"
   }
  ],
- "grade_override": "B",
- "override_reason": "两次具名真互动均为 25G/100G 数据中心需求（Simon：DC 交换机客户优先）；2025-12 明说「we have 100-25G projects」后被我们一句「still focusing on access」放掉；俄罗斯为次要市场，按 B 慢慢跟进。",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
  "notes": "俄罗斯付款：T/T USD 受限，口径里的「RMB via CN agent」是可行路径——信里不展开，对方问再说。他 2024-05 问的 48×25G+8×100G 正是 STH-8C48DX-HSI（$4,800 EXW）；32×100G = STH-32C-HSI（$6,000）。",
  "deep": {
   "done_at": "2026-10-24",
@@ -148,5 +148,15 @@
    "subject": "48x25G + 8x100G and 32x100G — the two models you asked for in 2024",
    "body": "Hi, Yaroslav,\n\nTwo things I owe you from our December exchange.\n\nOur website: https://sagatele.com/\n\nAnd the two switches you asked about in May 2024 both exist now on our CENTEC-based line:\n- STH-8C48DX-HSI: 48 x 25G SFP28 + 8 x 100G QSFP28, L3 with VXLAN-EVPN, MPLS, MLAG, hot-swap PSUs — $4,800 USD EXW\n- STH-32C-HSI: 32 x 100G QSFP28 — $6,000 USD EXW\n(2026 Q2 list, valid 15 days from this mail; your logo and model name possible.)\n\nOne question: when is the 100/25G project you mentioned in December due, and roughly how many units? With that I can confirm lead time and the payment route that works for you.\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
   }
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "两次具名真互动均为 25G/100G 数据中心需求（Simon：DC 交换机客户优先）；2025-12 明说「we have 100-25G projects」后被我们一句「still focusing on access」放掉；俄罗斯为次要市场，按 B 慢慢跟进。",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）"
+  }
+ ]
 }

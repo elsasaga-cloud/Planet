@@ -54,8 +54,8 @@
    "source": "https://firmeneintrag.creditreform.de/47229/5070424913/NURI_SAHIN_SICHERHEITSDIENSTE_FALKE_SECURITY"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "B",
+ "override_reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B5 四主区+对位（冷）；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A",
  "notes": "德国主攻区 + 明确机型兴趣（4 光 8 电 10G 上联、2.5G 1 光 8 电）+ 项目型摄像业务 = 对位 STC-424XGGPM-280W / 2.5G 8 口机型。仅 7 次推送（未达耳聋阈值）→ 保 A，改用手机/WhatsApp 直接报价（项目 25%）；再无回应降 B。注意同名 Falke Sicherheitstechnik（柏林/波茨坦）为另一家公司，勿混。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -174,5 +174,15 @@
    "body": "Hello Mr. Sahin,\n\nAt the show you looked at the 8-copper models with fibre uplinks - the 4 x 10G version and the 2.5G 1-fibre + 8-copper - and asked for prices; the mails you had since were general product mails. Here are the numbers.\n\n8 x Gigabit PoE+ + 2 x 2.5G SFP, L2+ managed, Marvell-based, CE/RoHS - model STC-28DGGPM - $84.1 USD EXW (MOQ 1, 15-day validity). 24 x Gigabit PoE+ (280 W) + 4 x 10G SFP+, L2+ managed, Marvell-based - STC-424XGGPM-280W - $180 (the mail you had in August said $170; the RMB has moved from 7.2 to 6.7 since). 1 x 10G SFP+ + 8 x 2.5G, non-PoE, unmanaged - STC-18XGDGE - $50.1.\n\nOne question: for your 1-256 channel camera projects, is the 8-port going into the cabinet as PoE for cameras, or as a non-PoE aggregation unit?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "B",
+   "prev_reason": "",
+   "reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B5 四主区+对位（冷）；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A"
+  }
+ ]
 }

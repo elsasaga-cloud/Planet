@@ -53,8 +53,8 @@
    "source": "https://www.ripe.net/membership/member-support/list-of-members/tr/fiberixinternet/"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -134,5 +134,15 @@
    "body": "Hi Karasu,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nFor the Fiberix network: a 24 x Gigabit + 4 x 10G SFP+ L2+ managed switch (Marvell-based, VLAN / QoS / IGMP, web GUI), model STC-424XGGM - $132.7 USD EXW (MOQ 1, 15-day validity). An L3 version (static + dynamic routing) is $280.3 USD EXW. 1G / 10G SFP modules can go on the same invoice.\n\nOne question: shall I send the datasheet so you can compare it with your Guangzhou supplier's price - and which uplink optics do you use, 10 km or 20 km?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌"
+  }
+ ]
 }

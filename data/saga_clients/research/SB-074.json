@@ -24,8 +24,8 @@
    "source": "用户 Clients 表（ISAF 2025）"
   }
  ],
- "grade_override": "B",
- "override_reason": "需求泛（'要 PoE switch'）、语言障碍、无后续互动 → B 慢跟（土耳其在主攻区故保留）。",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌",
  "notes": "WA 用土耳其语模板（机器翻译）发 STC-28DGGPM / STC-21616GP 图片+价格，一次。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -105,5 +105,15 @@
    "body": "ISAF'ta görüştüğümüz PoE switch için: 8 port gigabit PoE+ yönetilebilir + 2 SFP, 84,1 USD EXW; yönetilemeyen 8 port PoE 26,2 USD EXW (MOQ 1, 15 gün geçerli). Kaç kamera için planlıyorsunuz?\n\nSaygılarımla,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "需求泛（'要 PoE switch'）、语言障碍、无后续互动 → B 慢跟（土耳其在主攻区故保留）。",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌"
+  }
+ ]
 }

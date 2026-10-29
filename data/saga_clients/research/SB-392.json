@@ -47,8 +47,8 @@
    "source": "https://www.zoominfo.com/pic/makro-sistem/1340413263"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -129,5 +129,15 @@
    "body": "Hi Mustafa,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nAt the booth we quoted the 2 SFP + 10-port managed PoE industrial switch at $130 USD and the 12-fibre + 12-copper managed unit at $150 USD (both EXW); those figures stand. You asked for a delivered price with customs duty and VAT included (DDP) - I can prepare that through our forwarder once I know the quantity and the destination city.\n\nOne question: for the first project, how many units and delivery to which city?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌"
+  }
+ ]
 }

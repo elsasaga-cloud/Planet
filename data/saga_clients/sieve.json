@@ -4,21 +4,22 @@
   "rules": "docs/C池三闸筛选_方案_2026-10-29.md §2 · A/B 并池 docs/AB并池方案_草案_2026-10-29.md §5",
   "counts": {
    "pool": 364,
-   "pool_watch": 220,
-   "keep_C": 2988,
+   "pool_watch": 209,
+   "keep_C": 2999,
    "pass_final": 219
   },
   "n": 3791,
   "counts_C": {
-   "keep_C": 2988,
+   "keep_C": 2997,
    "pass_final": 219,
-   "pool_watch": 39,
+   "pool_watch": 30,
    "pool": 172
   },
   "n_C": 3418,
   "counts_AB": {
    "pool": 192,
-   "pool_watch": 181
+   "pool_watch": 179,
+   "keep_C": 2
   },
   "n_AB": 373
  },
@@ -2488,13 +2489,13 @@
   ]
  },
  "SB-070": {
-  "verdict": "pool_watch",
+  "verdict": "keep_C",
   "gate": 3,
   "rule": "AB1",
-  "reason": "☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：真回 ✔ 但 未坐实对位 未知 → 观察；命中 1/6（成单/样品 — · 真回 ✔ · WA — · 对位 未知 · 登记 未坐实 · 体量 小型（20 人））",
+  "reason": "复核打回（LT-R04）：neowine（韩国）：研究档「潜在代理（非本行业）」，唯一动作是 48 口索样后无下文 → 非本行业 → C 储备｜原：☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：真回 ✔ 但 未坐实对位 未知 → 观察；命中 1/6（成单/样品 — · 真回 ✔ · WA — · 对位 未知 · 登记 未坐实 · 体量 小型（20 人））",
   "date": "2026-10-29",
   "manual": false,
-  "batch": "AB-01",
+  "batch": "LT-R04",
   "origin": "Saga-B",
   "ab_conc": "P 观察候选",
   "grade": "☆",
@@ -2502,7 +2503,9 @@
   "tags": [
    "kc_needed",
    "prepay"
-  ]
+  ],
+  "lt_prev_verdict": "pool_watch",
+  "lt_prev_batch": "AB-01"
  },
  "SB-071": {
   "verdict": "pool",
@@ -2552,20 +2555,22 @@
   "tags": []
  },
  "SB-080": {
-  "verdict": "pool_watch",
+  "verdict": "keep_C",
   "gate": 3,
   "rule": "AB1",
-  "reason": "☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：真回 ✔ 但 微型未坐实对位 未知 → 观察；命中 1/6（成单/样品 — · 真回 ✔ · WA ✔ · 对位 未知 · 登记 未坐实 · 体量 微型（推定））",
+  "reason": "复核打回（LT-R04）：cyber-tec.net（伊拉克）：域名不可达（快照失败），百兆收发器一次询价后无路径 → C 储备；对方来信即回 B｜原：☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：真回 ✔ 但 微型未坐实对位 未知 → 观察；命中 1/6（成单/样品 — · 真回 ✔ · WA ✔ · 对位 未知 · 登记 未坐实 · 体量 微型（推定））",
   "date": "2026-10-29",
   "manual": false,
-  "batch": "AB-01",
+  "batch": "LT-R04",
   "origin": "Saga-B",
   "ab_conc": "P 观察候选",
   "grade": "☆",
   "next_check": "2026-12-28",
   "tags": [
    "prepay"
-  ]
+  ],
+  "lt_prev_verdict": "pool_watch",
+  "lt_prev_batch": "AB-01"
  },
  "SB-083": {
   "verdict": "pool",
@@ -14015,13 +14020,13 @@
   "batch": "G1-26"
  },
  "SC-1602": {
-  "verdict": "pool_watch",
+  "verdict": "keep_C",
   "gate": 3,
   "rule": "P1",
-  "reason": "☆ P 池观察档（档位 △ = 微型 / 自用 / 个体 / 存疑，试单或回访一次后定）：△ 哈萨克斯坦 · 集成 25% 预付 100%：ТОО «LS SERVICE»（Астана；БИН 210740005950；2021-07-06；负责人 Ерсабиров С.Ж.；ОКЭД 43220 水暖安装 ≠ 网络设备 → 同一主体待核）部分坐实；先例 ✔ 对位 ✔ 表内「俄罗斯」→ KZ 国别待核；收款待定 → P 池候选 △",
+  "reason": "复核打回（LT-R03）：ТОО «LS SERVICE»（Астана；БИН 210740005950；ОКЭД 43220 水暖安装 ≠ 网络设备）：登记经营范围与业务对不上、同一主体待核 + 哈萨克斯坦收款待定 → 主体不明朗 → C 储备；对方来信 / 收款路径定了即回 B｜原：☆ P 池观察档（档位 △ = 微型 / 自用 / 个体 / 存疑，试单或回访一次后定）：△ 哈萨克斯坦 · 集成 25% 预付 100%：ТОО «LS SERVICE»（Астана；БИН 210740005950；2021-07-06；负责人 Ерсабиров С.Ж.；ОКЭД 43220 水暖安装 ≠ 网络设备 → 同一主体待核）部分坐实；先例 ✔ 对位 ✔ 表内「俄罗斯」→ KZ 国别待核；收款待定 → P 池候选 △",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "P-01",
+  "batch": "LT-R03",
   "g2_batch": "G2-134",
   "g2_reason": "△ 哈萨克斯坦 · 集成 25% 预付 100%：ТОО «LS SERVICE»（Астана；БИН 210740005950；2021-07-06；负责人 Ерсабиров С.Ж.；ОКЭД 43220 水暖安装 ≠ 网络设备 → 同一主体待核）部分坐实；先例 ✔ 对位 ✔ 表内「俄罗斯」→ KZ 国别待核；收款待定 → P 池候选 △",
   "g1_batch": "G1-37",
@@ -14030,7 +14035,9 @@
   "next_check": "2026-12-28",
   "tags": [
    "country_pending"
-  ]
+  ],
+  "lt_prev_verdict": "pool_watch",
+  "lt_prev_batch": "P-01"
  },
  "SC-1603": {
   "verdict": "keep_C",
@@ -21810,13 +21817,13 @@
   "batch": "G1-35"
  },
  "SC-2260": {
-  "verdict": "pool_watch",
+  "verdict": "keep_C",
   "gate": 3,
   "rule": "P1",
-  "reason": "☆ P 池观察档（档位 △ = 微型 / 自用 / 个体 / 存疑，试单或回访一次后定）：△ 观察档 · 分销 20%：DEMA s.a.s. = videosorveglianza.it（Vimercate；P.I. 13338240156）坐实；多牌直进 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔，微型 s.a.s. 网店 → 入池观察档 + 预付；Q-33 口径；Simon 曾判不行，可否决",
+  "reason": "复核打回（LT-R01）：DEMA s.a.s. = videosorveglianza.it（Vimercate 微型网店）：Q-33 经销体系现供（「不碰，标记」）+ Simon 曾判不行 → C 储备，q33_hold 标签保留｜原：☆ P 池观察档（档位 △ = 微型 / 自用 / 个体 / 存疑，试单或回访一次后定）：△ 观察档 · 分销 20%：DEMA s.a.s. = videosorveglianza.it（Vimercate；P.I. 13338240156）坐实；多牌直进 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔，微型 s.a.s. 网店 → 入池观察档 + 预付；Q-33 口径；Simon 曾判不行，可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "P-01",
+  "batch": "LT-R01",
   "g2_batch": "G2-127",
   "g2_reason": "△ 观察档 · 分销 20%：DEMA s.a.s. = videosorveglianza.it（Vimercate；P.I. 13338240156）坐实；多牌直进 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔，微型 s.a.s. 网店 → 入池观察档 + 预付；Q-33 口径；Simon 曾判不行，可否决",
   "g1_batch": "G1-07",
@@ -21825,7 +21832,9 @@
   "next_check": "2026-12-28",
   "tags": [
    "q33_hold"
-  ]
+  ],
+  "lt_prev_verdict": "pool_watch",
+  "lt_prev_batch": "P-01"
  },
  "SC-2261": {
   "verdict": "keep_C",
@@ -23024,13 +23033,13 @@
   ]
  },
  "SC-2368": {
-  "verdict": "pool_watch",
+  "verdict": "keep_C",
   "gate": 3,
   "rule": "P1",
-  "reason": "☆ P 池观察档（档位 △ = 微型 / 自用 / 个体 / 存疑，试单或回访一次后定）：△ 观察档 · dayjob：Asociación Civil Radio ZP-30（Filadelfia 巴拉圭；基督教电台；wernerh@ 具名复购）部分坐实（RUC 未取）；复购 ✔ 具名 ✔ ≥2 条；光端机 = 本职线 + 终端 + 区域外 → 入池观察档，待 Q-70 dayjob 子池",
+  "reason": "复核打回（LT-R03）：Asociación Civil Radio ZP-30（巴拉圭基督教电台）：光端机终端复购 = 纯本职线 + 终端 + 区域外（Q-70：纯光端机需求留 C dayjob_fit）→ C 储备，Simon 本职线自取｜原：☆ P 池观察档（档位 △ = 微型 / 自用 / 个体 / 存疑，试单或回访一次后定）：△ 观察档 · dayjob：Asociación Civil Radio ZP-30（Filadelfia 巴拉圭；基督教电台；wernerh@ 具名复购）部分坐实（RUC 未取）；复购 ✔ 具名 ✔ ≥2 条；光端机 = 本职线 + 终端 + 区域外 → 入池观察档，待 Q-70 dayjob 子池",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "P-01",
+  "batch": "LT-R03",
   "g2_batch": "G2-127",
   "g2_reason": "△ 观察档 · dayjob：Asociación Civil Radio ZP-30（Filadelfia 巴拉圭；基督教电台；wernerh@ 具名复购）部分坐实（RUC 未取）；复购 ✔ 具名 ✔ ≥2 条；光端机 = 本职线 + 终端 + 区域外 → 入池观察档，待 Q-70 dayjob 子池",
   "g1_batch": "G1-01",
@@ -23039,7 +23048,9 @@
   "next_check": "2026-12-28",
   "tags": [
    "dayjob_fit"
-  ]
+  ],
+  "lt_prev_verdict": "pool_watch",
+  "lt_prev_batch": "P-01"
  },
  "SC-2369": {
   "verdict": "keep_C",
@@ -25667,13 +25678,13 @@
   "batch": "G1-43"
  },
  "SC-2597": {
-  "verdict": "pool_watch",
+  "verdict": "keep_C",
   "gate": 3,
   "rule": "P1",
-  "reason": "☆ P 池观察档（档位 △ = 微型 / 自用 / 个体 / 存疑，试单或回访一次后定）：△ 观察档 · 分销 20%：Urban Security Group（布鲁克林家族 CCTV 批零 40+ 年）部分坐实；进口洪瑞 ✔ 主区 ✔ 对位 ✔ 微型 → 入池观察档；Q-33 口径；Simon 曾判不行，可否决",
+  "reason": "复核打回（LT-R01）：Urban Security Group（布鲁克林家族 CCTV 批零）：Q-33 经销体系现供（进口洪瑞），规则「不碰，标记」= 群内也不会主动发；微型；Simon 曾判不行 → C 储备保留 q33_hold 标签｜原：☆ P 池观察档（档位 △ = 微型 / 自用 / 个体 / 存疑，试单或回访一次后定）：△ 观察档 · 分销 20%：Urban Security Group（布鲁克林家族 CCTV 批零 40+ 年）部分坐实；进口洪瑞 ✔ 主区 ✔ 对位 ✔ 微型 → 入池观察档；Q-33 口径；Simon 曾判不行，可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "P-01",
+  "batch": "LT-R01",
   "g2_batch": "G2-126",
   "g2_reason": "△ 观察档 · 分销 20%：Urban Security Group（布鲁克林家族 CCTV 批零 40+ 年）部分坐实；进口洪瑞 ✔ 主区 ✔ 对位 ✔ 微型 → 入池观察档；Q-33 口径；Simon 曾判不行，可否决",
   "g1_batch": "G1-07",
@@ -25682,7 +25693,9 @@
   "next_check": "2026-12-28",
   "tags": [
    "q33_hold"
-  ]
+  ],
+  "lt_prev_verdict": "pool_watch",
+  "lt_prev_batch": "P-01"
  },
  "SC-2598": {
   "verdict": "pool",
@@ -26141,19 +26154,21 @@
   "batch": "G1-44"
  },
  "SC-2633": {
-  "verdict": "pool_watch",
+  "verdict": "keep_C",
   "gate": 3,
   "rule": "P1",
-  "reason": "☆ P 池观察档（档位 △ = 微型 / 自用 / 个体 / 存疑，试单或回访一次后定）：△ 观察档 · 分销 20%：SiSeCam Solutions S.L.U.（Fuengirola；Axis 全线网店）部分坐实（CIF 未取）；分销 ✔ 欧洲 ✔ 对位 ✔ 坐实 部分 ✔，Axis 体系微型 → 入池观察档（邮件 fail → 官网表单 / 电话）；Simon 曾判不行，可否决",
+  "reason": "复核打回（LT-R01）：SiSeCam Solutions S.L.U.（Fuengirola；Axis 全线网店；CIF 未取）：邮箱 fail 无路径 + Axis 体系微型 + Simon 曾判不行 → 不明朗 → C 储备；补到可用邮箱即回 B｜原：☆ P 池观察档（档位 △ = 微型 / 自用 / 个体 / 存疑，试单或回访一次后定）：△ 观察档 · 分销 20%：SiSeCam Solutions S.L.U.（Fuengirola；Axis 全线网店）部分坐实（CIF 未取）；分销 ✔ 欧洲 ✔ 对位 ✔ 坐实 部分 ✔，Axis 体系微型 → 入池观察档（邮件 fail → 官网表单 / 电话）；Simon 曾判不行，可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "P-01",
+  "batch": "LT-R01",
   "g2_batch": "G2-127",
   "g2_reason": "△ 观察档 · 分销 20%：SiSeCam Solutions S.L.U.（Fuengirola；Axis 全线网店）部分坐实（CIF 未取）；分销 ✔ 欧洲 ✔ 对位 ✔ 坐实 部分 ✔，Axis 体系微型 → 入池观察档（邮件 fail → 官网表单 / 电话）；Simon 曾判不行，可否决",
   "g1_batch": "G1-07",
   "g1_reason": "西班牙 Sisecam（工业 FS；Axis 及其他牌子的分销商；邮件 fail）：欧洲 + 分销主体 + 对位 ✔ → 闸 2 查底数 + 找新地址；Simon 曾判不行 → 可按编号否决",
   "grade": "△",
-  "next_check": "2026-12-28"
+  "next_check": "2026-12-28",
+  "lt_prev_verdict": "pool_watch",
+  "lt_prev_batch": "P-01"
  },
  "SC-2634": {
   "verdict": "keep_C",
@@ -27256,19 +27271,21 @@
   ]
  },
  "SC-2728": {
-  "verdict": "pool_watch",
+  "verdict": "keep_C",
   "gate": 3,
   "rule": "P1",
-  "reason": "☆ P 池观察档（档位 △ = 微型 / 自用 / 个体 / 存疑，试单或回访一次后定）：△ 观察档 · 分销 20%：Blue Helix Limited（CH 04836349；AMG / ComNet / D-Link 分销；28 人）部分坐实，名录标 SIC 99999 休眠 vs 官网在营 → 法人待 CH 直查；分销 ✔ 主区 ✔ 对位 ✔ → 入池观察档 + 预付；Simon 曾判不行，可否决",
+  "reason": "复核打回（LT-R01）：Blue Helix Limited（CH 04836349）：Companies House 账目类别 Dormant / SIC 99999 休眠，名录（kompass）却标 20–49 人在营 → 交易主体不明朗（可能经 06248590 等关联号）；按「不明朗 → C 储备」，对方回信即回 B｜原：☆ P 池观察档（档位 △ = 微型 / 自用 / 个体 / 存疑，试单或回访一次后定）：△ 观察档 · 分销 20%：Blue Helix Limited（CH 04836349；AMG / ComNet / D-Link 分销；28 人）部分坐实，名录标 SIC 99999 休眠 vs 官网在营 → 法人待 CH 直查；分销 ✔ 主区 ✔ 对位 ✔ → 入池观察档 + 预付；Simon 曾判不行，可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "P-01",
+  "batch": "LT-R01",
   "g2_batch": "G2-126",
   "g2_reason": "△ 观察档 · 分销 20%：Blue Helix Limited（CH 04836349；AMG / ComNet / D-Link 分销；28 人）部分坐实，名录标 SIC 99999 休眠 vs 官网在营 → 法人待 CH 直查；分销 ✔ 主区 ✔ 对位 ✔ → 入池观察档 + 预付；Simon 曾判不行，可否决",
   "g1_batch": "G1-07",
   "g1_reason": "英国 Blue Helix（主要卖 AMG / Comnet 工业以太网）：英国主区 + 工业网络分销主体 + 对位 ✔；19 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决",
   "grade": "△",
-  "next_check": "2026-12-28"
+  "next_check": "2026-12-28",
+  "lt_prev_verdict": "pool_watch",
+  "lt_prev_batch": "P-01"
  },
  "SC-2729": {
   "verdict": "keep_C",
@@ -27292,13 +27309,13 @@
   ]
  },
  "SC-2730": {
-  "verdict": "pool_watch",
+  "verdict": "keep_C",
   "gate": 3,
   "rule": "P1",
-  "reason": "△ P 池观察档（ГК «Рубеж» 制裁名单待核 —— 守界：核查清楚前不主动发，只巡检）：★ 俄罗斯 · 品牌商 OEM 30%（长线）：RVi Group（ГК «Рубеж» 成员；2007；视频监控制造商；产品线含交换机 / 网络设备）部分坐实（ИНН 未取）；自有品牌 ✔ 已贴牌中国 PoE ✔ 对位 ✔ → P 池候选；守界：集团是否涉制裁待核 + 收款路径待 Simon（U124 核验：观察档符号 ★→△ 统一口径，制裁核清后恢复 ★ 转正）",
+  "reason": "复核打回（LT-R03）：RVi Group（ГК «Рубеж»）：品牌真实但集团是否涉制裁待核 + 俄罗斯收款路径未解 → 红旗 + 收款两项未清 → C 储备（只存档）；两项清了即回 B / ★｜原：△ P 池观察档（ГК «Рубеж» 制裁名单待核 —— 守界：核查清楚前不主动发，只巡检）：★ 俄罗斯 · 品牌商 OEM 30%（长线）：RVi Group（ГК «Рубеж» 成员；2007；视频监控制造商；产品线含交换机 / 网络设备）部分坐实（ИНН 未取）；自有品牌 ✔ 已贴牌中国 PoE ✔ 对位 ✔ → P 池候选；守界：集团是否涉制裁待核 + 收款路径待 Simon（U124 核验：观察档符号 ★→△ 统一口径，制裁核清后恢复 ★ 转正）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "P-01",
+  "batch": "LT-R03",
   "g2_batch": "G2-131",
   "g2_reason": "★ 俄罗斯 · 品牌商 OEM 30%（长线）：RVi Group（ГК «Рубеж» 成员；2007；视频监控制造商；产品线含交换机 / 网络设备）部分坐实（ИНН 未取）；自有品牌 ✔ 已贴牌中国 PoE ✔ 对位 ✔ → P 池候选；守界：集团是否涉制裁待核 + 收款路径待 Simon",
   "g1_batch": "G1-31",
@@ -27308,7 +27325,9 @@
   "tags": [
    "oem_target"
   ],
-  "fix_batch": "P-FIX-02 11:24Z"
+  "fix_batch": "P-FIX-02 11:24Z",
+  "lt_prev_verdict": "pool_watch",
+  "lt_prev_batch": "P-01"
  },
  "SC-2731": {
   "verdict": "keep_C",
@@ -31408,19 +31427,21 @@
   "batch": "G1-46"
  },
  "SC-309": {
-  "verdict": "pool_watch",
+  "verdict": "keep_C",
   "gate": 3,
   "rule": "P1",
-  "reason": "☆ P 池观察档（档位 △ = 微型 / 自用 / 个体 / 存疑，试单或回访一次后定）：△ 观察档 · 分销 20% + 预付 100%：ООО «ТД ТЕЛЕКОР»（Москва；ИНН 9729079661 / ОГРН 1177746446778；2017；GD Трошин М. В.；trostyanskiy@tdtel.ru 在册）坐实但仲裁 33 + 执行程序 4 = 红旗；在售中国同口型 ✔ 对位 ✔ → 入池观察档；可否决",
+  "reason": "复核打回（LT-R03）：ООО «ТД ТЕЛЕКОР»（ИНН 9729079661）：仲裁 33 件 + 执行程序 4 件 = 红旗，加俄罗斯收款待定 → C 储备；不值得花时间｜原：☆ P 池观察档（档位 △ = 微型 / 自用 / 个体 / 存疑，试单或回访一次后定）：△ 观察档 · 分销 20% + 预付 100%：ООО «ТД ТЕЛЕКОР»（Москва；ИНН 9729079661 / ОГРН 1177746446778；2017；GD Трошин М. В.；trostyanskiy@tdtel.ru 在册）坐实但仲裁 33 + 执行程序 4 = 红旗；在售中国同口型 ✔ 对位 ✔ → 入池观察档；可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "P-01",
+  "batch": "LT-R03",
   "g2_batch": "G2-129",
   "g2_reason": "△ 观察档 · 分销 20% + 预付 100%：ООО «ТД ТЕЛЕКОР»（Москва；ИНН 9729079661 / ОГРН 1177746446778；2017；GD Трошин М. В.；trostyanskiy@tdtel.ru 在册）坐实但仲裁 33 + 执行程序 4 = 红旗；在售中国同口型 ✔ 对位 ✔ → 入池观察档；可否决",
   "g1_batch": "G1-13",
   "g1_reason": "俄罗斯 TD Tel（tdtel.ru；表内「卖朱姐牌子设备 PoE / MC / switch / 周边」= 在售中国同口型产品）：进口中国同类 ✔ 对位 ✔ 俄罗斯；群发 18 次 0 回 → 闸 2 查底数；俄语区收款待定，低优先",
   "grade": "△",
-  "next_check": "2026-12-28"
+  "next_check": "2026-12-28",
+  "lt_prev_verdict": "pool_watch",
+  "lt_prev_batch": "P-01"
  },
  "SC-3090": {
   "verdict": "keep_C",
@@ -39979,19 +40000,21 @@
   "batch": "G1-18"
  },
  "SC-827": {
-  "verdict": "pool_watch",
+  "verdict": "keep_C",
   "gate": 3,
   "rule": "P1",
-  "reason": "☆ P 池观察档（档位 △ = 微型 / 自用 / 个体 / 存疑，试单或回访一次后定）：△ 观察档 · 分销 20% + 预付 100%：itjan.de = Dipl.-Ing. Dittmar Janetzky 个体（Zirndorf；Impressum 坐实；站点建设中）；表内「100 台用于 Amazon 销售」= 数量信号 ✔ 决策人直达 ✔ 四主区 ✔ 对位 ✔ → 入池观察档（个体 + 空站 → 预付 100%）；可否决",
+  "reason": "复核打回（LT-R01）：itjan.de = Dipl.-Ing. Dittmar Janetzky IT Ingenieurbüro（Zirndorf；heinze 标 1–2 人；站点仍为 Impressum 占位页）：个体 + 建站中，表内「100 台用于 Amazon 销售」无日期无后续 → 不明朗 → C 储备；对方再来信即回 B｜原：☆ P 池观察档（档位 △ = 微型 / 自用 / 个体 / 存疑，试单或回访一次后定）：△ 观察档 · 分销 20% + 预付 100%：itjan.de = Dipl.-Ing. Dittmar Janetzky 个体（Zirndorf；Impressum 坐实；站点建设中）；表内「100 台用于 Amazon 销售」= 数量信号 ✔ 决策人直达 ✔ 四主区 ✔ 对位 ✔ → 入池观察档（个体 + 空站 → 预付 100%）；可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "P-01",
+  "batch": "LT-R01",
   "g2_batch": "G2-128",
   "g2_reason": "△ 观察档 · 分销 20% + 预付 100%：itjan.de = Dipl.-Ing. Dittmar Janetzky 个体（Zirndorf；Impressum 坐实；站点建设中）；表内「100 台用于 Amazon 销售」= 数量信号 ✔ 决策人直达 ✔ 四主区 ✔ 对位 ✔ → 入池观察档（个体 + 空站 → 预付 100%）；可否决",
   "g1_batch": "G1-10",
   "g1_reason": "德国 ITJAN / Janetzky（itjan.de / janetzky.net；表内「100 个 用于 Amazon 销售」= 数量信号）：四主区 + 数量意向 + 对位 ✔；→ 闸 2 查底数（亚马逊卖家微型 → 预付）",
   "grade": "△",
-  "next_check": "2026-12-28"
+  "next_check": "2026-12-28",
+  "lt_prev_verdict": "pool_watch",
+  "lt_prev_batch": "P-01"
  },
  "SC-828": {
   "verdict": "keep_C",

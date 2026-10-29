@@ -48,8 +48,8 @@
    "role": "President（Gig Harbor WA；36 年电气 / 通信行业）= 拍板人（第 105 批 官方登记核实 2026-10-28）"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "Q-76 LT-R04 2026-10-29 复核打回 C 储备：Osborn Sales（美国）：制造商销售代表公司，非采购主体 → C 储备（如要代理合作另议）；c_sub=储备·复核打回 ；回信 / 询价即回 B",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
@@ -142,5 +142,24 @@
    "body": "Hi Kyle,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 9 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nYou represent manufacturers in industrial networking and security; we build industrial switches in Shenzhen and have no US representation. The line, neutral-brand, -40 to 75 C, FCC/CE/RoHS, small lots, EXW USD, 15-day validity: DIN-rail 8 x Gigabit + 2 x SFP unmanaged - model STI-280GE - $46; 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - STI-288GPM - $82.2; commercial 8 x PoE+ + 2 x SFP L2+ - STC-28DGGPM - $84.1. Rep terms: commission on invoiced sales in your territory, no stock obligation.\n\nOne question: which territories do you cover, and would an industrial switch line fit next to what you already carry?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "lt_review": {
+  "status": "打回 C",
+  "batch": "LT-R04",
+  "prio": 2,
+  "queued": "LT-R04",
+  "verdict_date": "2026-10-29",
+  "note": "Osborn Sales（美国）：制造商销售代表公司，非采购主体 → C 储备（如要代理合作另议）",
+  "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
+ },
+ "override_history": [
+  {
+   "batch": "LT-R04",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "C",
+   "prev_reason": "",
+   "reason": "Osborn Sales（美国）：制造商销售代表公司，非采购主体 → C 储备（如要代理合作另议）"
+  }
+ ]
 }

@@ -1,26 +1,26 @@
-# P 池总名册（当前快照 · 生成 2026-10-29 11:57Z）
+# P 池总名册（当前快照 · 生成 2026-10-29 13:17Z）
 
-> 源：`data/saga_clients/P池_巡检表_2026-10-29.csv`（675 户 = 正式 435 / 观察 240）。档位 ★★ 4 · ★ 257 · ○ 174 · ☆ 201 · △ 39；来源 Saga B 283 · Saga C 211 · Saga A 90 · External 67 · Planet 仓 24；下次人工巡检 2026-12-28（清单 `docs/P池_巡检清单_2026-12-28.md`）。 批次历史与评估口径见 `docs/P池_资产池名册_2026-10-29.md`；筛选方法见 `docs/C池三闸筛选_方案_2026-10-29.md`。A / B 档并池见 `docs/AB并池方案_草案_2026-10-29.md`（预演，未执行）。
+> 源：`data/saga_clients/P池_巡检表_2026-10-29.csv`（664 户 = 正式 435 / 观察 229）。档位 ★★ 4 · ★ 257 · ○ 174 · ☆ 199 · △ 30；来源 Saga B 281 · Saga C 202 · Saga A 90 · External 67 · Planet 仓 24；下次人工巡检 2026-12-28（清单 `docs/P池_巡检清单_2026-12-28.md`）。 批次历史与评估口径见 `docs/P池_资产池名册_2026-10-29.md`；筛选方法见 `docs/C池三闸筛选_方案_2026-10-29.md`。A / B 档并池见 `docs/AB并池方案_草案_2026-10-29.md`（预演，未执行）。
 
 ## 0. 一眼
 
 | 区域组 | 正式 | 观察 | 合计 |
 |---|---|---|---|
-| 四主区 + 波兰 | 146 | 91 | 237 |
-| 欧洲其他 | 83 | 32 | 115 |
-| 俄语区 | 43 | 13 | 56 |
+| 四主区 + 波兰 | 146 | 88 | 234 |
+| 欧洲其他 | 83 | 30 | 113 |
+| 俄语区 | 43 | 10 | 53 |
 | 印度 / 南亚 | 47 | 33 | 80 |
-| 东亚 / 东南亚 / 大洋洲 | 63 | 28 | 91 |
-| 中东 / 非洲 | 36 | 38 | 74 |
-| 拉美 | 15 | 5 | 20 |
+| 东亚 / 东南亚 / 大洋洲 | 63 | 27 | 90 |
+| 中东 / 非洲 | 36 | 37 | 73 |
+| 拉美 | 15 | 4 | 19 |
 | 其他 | 2 | 0 | 2 |
-| **合计** | **435** | **240** | **675** |
+| **合计** | **435** | **229** | **664** |
 
 档位：★★ = 核心（成单 / 深绑定）；★ = 重点（体量 + 对位 + 登记齐 / 自有品牌）；○ = 正式（对位 + 登记坐实或部分坐实）；☆ = 观察（微型 / 对位一般，试单后转正）；△ = 观察（疑点待核）。
-标签：`prepay` 169、`core` 154、`oem_target` 149、`industrial` 49、`dayjob_fit` 43、`ru_payment` 29、`reg_pending` 27、`a_review` 19、`q33_hold` 12、`security_dist` 12、`micro` 12、`giant` 9、`gg` 8、`country_pending` 7、`isp_channel` 6、`kc_needed` 6、`dc` 5、`official_dist` 3、`civil_only` 3、`group_member` 2、`fed_vendor` 2、`cr_pending` 1、`small` 1、`sole_trader` 1、`legal_pending` 1、`integrator` 1、`cold` 1、`status_check` 1、`hospitality` 1。
+标签：`prepay` 167、`core` 154、`oem_target` 148、`industrial` 49、`dayjob_fit` 42、`ru_payment` 29、`reg_pending` 27、`a_review` 19、`security_dist` 12、`micro` 12、`q33_hold` 10、`giant` 9、`gg` 8、`country_pending` 6、`isp_channel` 6、`dc` 5、`kc_needed` 5、`official_dist` 3、`civil_only` 3、`group_member` 2、`fed_vendor` 2、`cr_pending` 1、`small` 1、`sole_trader` 1、`legal_pending` 1、`integrator` 1、`cold` 1、`status_check` 1、`hospitality` 1。
 （`q33_hold` 只巡检不主动发；`civil_only` 只谈民用项目；`ru_payment` 先问收款；`prepay` 预付 100%；`reg_pending` 注册号待补；`dayjob_fit` 需求在光端机 / DWDM / 光模块，Simon 日职线可用；`oem_target` 自有品牌 → OEM 30% 线）
 
-## 四主区 + 波兰（237 户）
+## 四主区 + 波兰（234 户）
 
 | 编号 | 档 | 入池 | 公司 | 国家 | 来源 | 标签 | 判语（摘） |
 |---|---|---|---|---|---|---|---|
@@ -253,16 +253,13 @@
 | SC-1009 | △ | 观察 | arasvarel.com | 土耳其 | Saga C |  | 观察档 · 集成商 25%：Varel Alarm Sistemleri Tic. A.Ş.（1990；Siemens Solution Partner；2012 并入荷兰 ARAS B.V.；约 14 人）部分坐实；对… |
 | SC-1013 | △ | 观察 | gemaxxnetwork.com | 德国 | Saga C | oem_target | 观察档 · OEM 30%：geMaxx 自有品牌（关联 GEMAXX Communications GmbH, Duisburg；11–50）；about 页 2022 + sales@ 退信 + 集团站「2001-2… |
 | SC-2402 | △ | 观察 | sisegusa.com | 美国 | Saga C | country_pending | 观察档 · 分销 20%：SISEGUSA = Sistemas de Seguridad S.A.（厄瓜多尔 Guayaquil 安防批发 + 迈阿密 LLC）→ 国别纠偏 美国 → 厄瓜多尔；进口 Utepo ✔ 对… |
-| SC-2597 | △ | 观察 | cctv.supplies | 美国 | Saga C | q33_hold | 观察档 · 分销 20%：Urban Security Group（布鲁克林家族 CCTV 批零 40+ 年）部分坐实；进口洪瑞 ✔ 主区 ✔ 对位 ✔ 微型 → 入池观察档；Q-33 口径；Simon 曾判不行，可否决 |
 | SC-2608 | △ | 观察 | mayflex.com | 英国 | Saga C | oem_target | 观察档（长线）· OEM 30%：Mayflex（Birmingham 1917；250 人；Sonepar UK 子公司；自有品牌 Excel Networking；Andrew Percival 在表）坐实；OEM … |
-| SC-2728 | △ | 观察 | bluehelix.co.uk | 英国 | Saga C |  | 观察档 · 分销 20%：Blue Helix Limited（CH 04836349；AMG / ComNet / D-Link 分销；28 人）部分坐实，名录标 SIC 99999 休眠 vs 官网在营 → 法人待 … |
 | SC-2802 | △ | 观察 | Euro Security Solutions Ltd | 英国 | Saga C | dayjob_fit | 观察档 · 集成商 25%：Euro Security Solutions Limited（CH 11094000；2017；伦敦；微型）坐实；样品意向 ✔ 主区 ✔ 对位 ✔ → 入池观察档（退信 → 走表内 WA）+… |
 | SC-284 | △ | 观察 | dcbnet.com | 美国 | Saga C | oem_target | 观察档 · OEM 30%：Data Comm for Business, Inc.（Dewey IL 1981；SAM.gov UEI YX2BCLJKZ456 有效至 2027；自研数据通信设备；联邦交通客户）坐实；… |
 | SC-3023 | △ | 观察 | nettrans.pl | 波兰 | Saga C |  | 观察档 · 分销 20%：NetTrans Jarosław Żydek（Lublin 个体；NIP 712-239-07-96；进口 3C Link / ONV）坐实；进口 ✔ 波兰 ✔ 坐实 ✔ 对位 ✔ 但个体微型… |
 | SC-364 | △ | 观察 | EasyWind GmbH | 德国 | Saga C | dayjob_fit | 观察档 · 成单回访：EasyWind GmbH（Enge-Sande；小型风机制造商；RTS 成单 4 台 MC 自用）坐实；成单 ✔ 主区 ✔ 对位 ✔ ≥2 条 → 入池观察档，复购体量低 → Simon 定 |
-| SC-827 | △ | 观察 | itjan.de | 德国 | Saga C |  | 观察档 · 分销 20% + 预付 100%：itjan.de = Dipl.-Ing. Dittmar Janetzky 个体（Zirndorf；Impressum 坐实；站点建设中）；表内「100 台用于 Amazo… |
 
-## 欧洲其他（115 户）
+## 欧洲其他（113 户）
 
 | 编号 | 档 | 入池 | 公司 | 国家 | 来源 | 标签 | 判语（摘） |
 |---|---|---|---|---|---|---|---|
@@ -375,14 +372,12 @@
 | SC-1446 | △ | 观察 | lojacctv.com | 葡萄牙 | Saga C | oem_target | 观察档 · 分销 20%：lojaCCTV = Neurónio Digital, Unipessoal Lda.（NIF 517867990；Ramada；一人公司 1–10）坐实；回信 ✔ 欧洲 ✔ 坐实 ✔ 对位 … |
 | SC-1706 | △ | 观察 | itvsecurity.com | 丹麦 | Saga C |  | 观察档 · 分销 20%：ITV-Security ApS（CVR 38937456；Randers；安防网店 + 分销；Vivotek + acorid）坐实；进口中国品牌 ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔ → 入池观… |
 | SC-2256 | △ | 观察 | redfox.srl | 意大利 | Saga C |  | 观察档 · 集成 25%：REDFOX S.R.L.（San Benedetto del Tronto；CF 01870630447 / REA AP-180065；资本 €10,050；安防集成 15+ 年；CEO M… |
-| SC-2260 | △ | 观察 | videosorveglianza.it | 意大利 | Saga C | q33_hold | 观察档 · 分销 20%：DEMA s.a.s. = videosorveglianza.it（Vimercate；P.I. 13338240156）坐实；多牌直进 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔，微型 s.a.s. … |
-| SC-2633 | △ | 观察 | sisecam.es | 西班牙 | Saga C |  | 观察档 · 分销 20%：SiSeCam Solutions S.L.U.（Fuengirola；Axis 全线网店）部分坐实（CIF 未取）；分销 ✔ 欧洲 ✔ 对位 ✔ 坐实 部分 ✔，Axis 体系微型 → 入池观… |
 | SC-2718 | △ | 观察 | mercasat.es | 西班牙 | Saga C |  | 观察档 · 分销 20%：MERCASAT SL（Málaga；CIF B92538883；资本 €3,120；CNAE 4652；22 年）坐实；多牌直进 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔，资本微型 → 入池观察档 +… |
 | SC-2725 | △ | 观察 | todotelecom.com | 西班牙 | Saga C |  | 观察档 · 分销 20%：TODO TELECOM, S.L.（Dénia；CIF B53673364；RM Alicante H A-71082；资本 €26.8k；代理人 Francisco Manuel Valer… |
 | SC-2969 | △ | 观察 | metrikingdom.com | 葡萄牙 | Saga C |  | 葡萄牙（欧洲）· 微型 IT 服务商 25% 预付 100%：Metrikingdom Unipessoal Lda（Lisboa；NIF 515518425；2019-06-04；资本 € 6k；CAE 62100 编… |
 | SC-427 | △ | 观察 | tbkvision.com | 西班牙 | Saga C | oem_target | 观察档 · OEM 30%：TBK Vision（品牌真实：DVR 手册；域名关联法国 TBK SOLUTION SIREN 750660060；西班牙法人未得）部分坐实；自有品牌 ✔ 进口 Utepo ✔ 欧洲 ✔ →… |
 
-## 俄语区（56 户）
+## 俄语区（53 户）
 
 | 编号 | 档 | 入池 | 公司 | 国家 | 来源 | 标签 | 判语（摘） |
 |---|---|---|---|---|---|---|---|
@@ -436,10 +431,7 @@
 | SB-297 | ☆ | 观察 | Gorgos Cristian（摩尔多瓦基希讷乌，安防客户；表内名为地址） | 摩尔多瓦 | Saga B | prepay、ru_payment | B 档并池（P 观察候选）：真回 ✔ 但 未坐实 → 观察 |
 | SB-499 | ☆ | 观察 | Bogdan（b.medvedev11@mail.ru；电话 +996 = 吉尔吉斯斯坦 | 吉尔吉斯斯坦 | Saga B | prepay、ru_payment | B 档并池（P 观察候选）：真回 ✔ 但 微型未坐实 → 观察 |
 | SB-608 | ☆ | 观察 | （乌兹别克斯坦 · Marlen Sadybekov，仅电话） | 哈萨克斯坦 | Saga B | prepay、ru_payment | B 档并池（P 观察候选）：真回 ✔ 但 微型未坐实 → 观察 |
-| SC-1602 | △ | 观察 | lsservice.kz | 俄罗斯 | Saga C | country_pending | 哈萨克斯坦 · 集成 25% 预付 100%：ТОО «LS SERVICE»（Астана；БИН 210740005950；2021-07-06；负责人 Ерсабиров С.Ж.；ОКЭД 43220 水暖安装 … |
-| SC-2730 | △ | 观察 | rvigroup.ru | 俄罗斯 | Saga C | oem_target | 俄罗斯 · 品牌商 OEM 30%（长线）：RVi Group（ГК «Рубеж» 成员；2007；视频监控制造商；产品线含交换机 / 网络设备）部分坐实（ИНН 未取）；自有品牌 ✔ 已贴牌中国 PoE ✔ 对位 ✔… |
 | SC-302 | △ | 观察 | osnovo.ru | 俄罗斯 | Saga C | oem_target | 观察档 · OEM 30% + 预付 100%：OSNOVO 俄区自有品牌 PoE / 工业交换机（品牌站 + 官方经销商 osnovo-shop.ru 在线；品牌运营法人 1 查未取）部分坐实；自有品牌 ✔ 对位 ✔ … |
-| SC-309 | △ | 观察 | tdtel.ru | 俄罗斯 | Saga C |  | 观察档 · 分销 20% + 预付 100%：ООО «ТД ТЕЛЕКОР»（Москва；ИНН 9729079661 / ОГРН 1177746446778；2017；GD Трошин М. В.；trosty… |
 | SC-729 | △ | 观察 | Brown Bear（brownbear.ru） | 俄罗斯 | Saga C | ru_payment、prepay、legal_pending | 俄罗斯 · 安防 / 网络设备批发 20%：brownbear.ru 对应法人 ИНН 9728025085 / ОГРН 1217700015807（Москва，2021 登记；类目：安防系统、网络设备、电缆、电信设… |
 | SC-884 | △ | 观察 | novicam.ru | 俄罗斯 | Saga C | oem_target | 观察档 · OEM 30% + 预付 100%：Novicam = ООО «НОВЫЕ КАМЕРЫ»（Москва；ИНН 7725668550 / ОГРН 1097746256332；2009；GD Макиев… |
 
@@ -528,7 +520,7 @@
 | SC-2891 | △ | 观察 | trimatrikbd.com | 孟加拉国 | Saga C | oem_target | 观察档 · 孟加拉贴牌 CCTV 店 OEM 30% + 预付 100%：Trimatrik Multimedia（Dhaka Uttara + Mouchak 分店；进口商 / 安装）部分坐实（注册号未取）；ONV 带… |
 | SC-969 | △ | 观察 | Trueview（trueview.co.in） | 印度 | Saga C | oem_target、reg_pending | 印度 · 自有品牌 CCTV / IFPD / 数字标牌 OEM 30%（观察）：Trueview（2011 起；Plot A-114/6 Five Star Shendra MIDC + Plot 56 AURIC，C… |
 
-## 东亚 / 东南亚 / 大洋洲（91 户）
+## 东亚 / 东南亚 / 大洋洲（90 户）
 
 | 编号 | 档 | 入池 | 公司 | 国家 | 来源 | 标签 | 判语（摘） |
 |---|---|---|---|---|---|---|---|
@@ -599,7 +591,6 @@
 | SB-032 | ☆ | 观察 | PIOLINK, Inc.（파이오링크，韩国） | 韩国 | Saga B | kc_needed | B 档并池（P 观察候选）：真回 ✔ 但 对位 未知 → 观察 |
 | SB-034 | ☆ | 观察 | TJ Computer（泰国；Peter Ponganan Ruenboon） | 泰国 | Saga B | prepay | B 档并池（P 观察候选）：真回 ✔ 但 微型未坐实 → 观察 |
 | SB-052 | ☆ | 观察 | Excellent Data Communications（马来西亚；Wan Rohiz | 马来西亚 | Saga B | prepay | B 档并池（P 观察候选）：真回 ✔ 但 微型未坐实 → 观察 |
-| SB-070 | ☆ | 观察 | Neowine Co., Ltd.（네오와인，韩国） | 韩国 | Saga B | kc_needed、prepay | B 档并池（P 观察候选）：真回 ✔ 但 未坐实对位 未知 → 观察 |
 | SB-089 | ☆ | 观察 | Winsonic Electronics Co., Ltd.（台湾） | 台湾 | Saga B | prepay | B 档并池（P 观察候选）：真回 ✔ 但 未坐实 → 观察 |
 | SB-1100 | ☆ | 观察 | IT Broadcast & Cyber Security（印度尼西亚；Firman W | 印度尼西亚 | Saga B | prepay | B 档并池（P 观察候选）：真回 ✔ 但 微型未坐实对位 未知 → 观察 |
 | SB-1102 | ☆ | 观察 | Viễn Thông Giá Tốt（vienthonggiatot.com） | 越南 | Saga B |  | B 档并池（P 观察候选）：真回 ✔ 但 微型对位 未知 → 观察 |
@@ -624,7 +615,7 @@
 | SC-2106 | △ | 观察 | Optimal Cable Services | 澳大利亚 | Saga C | dayjob_fit | 观察档 · dayjob：Optimal Cable Services Pty Ltd → AFL（Tottenham VIC；光缆 / 连接产品制造；Peter Dicka 现 Manager Connectivity… |
 | SC-455 | △ | 观察 | ags-electronics.com | 韩国 | Saga C | country_pending | 观察档 · 分销 20%：AGS Electronics（ags-electronics.com；ZoomInfo 载 Albuquerque NM 美国 11–50 人）国别存疑（表内韩国 → 疑美国，待 Simon … |
 
-## 中东 / 非洲（74 户）
+## 中东 / 非洲（73 户）
 
 | 编号 | 档 | 入池 | 公司 | 国家 | 来源 | 标签 | 判语（摘） |
 |---|---|---|---|---|---|---|---|
@@ -668,7 +659,6 @@
 | SB-033 | ☆ | 观察 | Marvel IT Solutions / Marvel Business Consul | 巴林 | Saga B | prepay | B 档并池（P 观察候选）：真回 ✔ 但 未坐实对位 未知 → 观察 |
 | SB-043 | ☆ | 观察 | Euro Technology（阿布扎比，阿联酋） | 阿联酋 | Saga B | prepay | B 档并池（P 观察候选）：真回 ✔ 但 微型未坐实对位 未知 → 观察 |
 | SB-053 | ☆ | 观察 | Onnet Technologies & Innovations LLC (OTAI) | 阿联酋 | Saga B | prepay | B 档并池（P 观察候选）：真回 ✔ 但 未坐实对位 未知 → 观察 |
-| SB-080 | ☆ | 观察 | Cyber Tec（cyber-tec.net，伊拉克卡尔巴拉；域名现不可达） | 伊拉克 | Saga B | prepay | B 档并池（P 观察候选）：真回 ✔ 但 微型未坐实对位 未知 → 观察 |
 | SB-102 | ☆ | 观察 | Denso Electronics（densoelectronics.com，赞比亚；W | 赞比亚 | Saga B | prepay | B 档并池（P 观察候选）：真回 ✔ 但 未坐实 → 观察 |
 | SB-110 | ☆ | 观察 | iTKATI UG Ltd（ITKATI Uganda，Kampala；itkati.c | 乌干达 | Saga B |  | B 档并池（P 观察候选）：真回 ✔ 但 微型对位 未知 → 观察 |
 | SB-1109 | ☆ | 观察 | （个人 gmail，埃塞俄比亚 +251 955） | 埃塞俄比亚 | Saga B | prepay | B 档并池（P 观察候选）：真回 ✔ 但 微型未坐实 → 观察 |
@@ -703,7 +693,7 @@
 | SB-896 | ☆ | 观察 | Musine（肯尼亚；个人 gmail） | 肯尼亚 | Saga B | prepay | B 档并池（P 观察候选）：真回 ✔ 但 微型未坐实 → 观察 |
 | SB-897 | ☆ | 观察 | （肯尼亚 · Peter Weru，gmail） | 肯尼亚 | Saga B | prepay | B 档并池（P 观察候选）：真回 ✔ 但 微型未坐实对位 未知 → 观察 |
 
-## 拉美（20 户）
+## 拉美（19 户）
 
 | 编号 | 档 | 入池 | 公司 | 国家 | 来源 | 标签 | 判语（摘） |
 |---|---|---|---|---|---|---|---|
@@ -725,7 +715,6 @@
 | SB-1134 | ☆ | 观察 | Conexión de Redes de Centro América（萨尔瓦多；KP  | 萨尔瓦多 | Saga B | prepay | B 档并池（P 观察候选）：真回 ✔ 但 未坐实 → 观察 |
 | SB-517 | ☆ | 观察 | （Ernesto Guevara；表内国别厄瓜多尔，电话 +505 为尼加拉瓜） | 尼加拉瓜 | Saga B | prepay | B 档并池（P 观察候选）：真回 ✔ 但 微型未坐实 → 观察 |
 | SC-1583 | △ | 观察 | cartagocomex.com | 巴西 | Saga C |  | 观察档 · 巴西进口代理 贸易 20% + 预付 100%：Cartago Comex Ltda（Maringá；CNPJ 36.699.505/0001-33；2020；报关行 + 商业代理；R$1,000；1–10 … |
-| SC-2368 | △ | 观察 | Radio ZP30 | 巴拉圭 | Saga C | dayjob_fit | 观察档 · dayjob：Asociación Civil Radio ZP-30（Filadelfia 巴拉圭；基督教电台；wernerh@ 具名复购）部分坐实（RUC 未取）；复购 ✔ 具名 ✔ ≥2 条；光端机 =… |
 | SC-2955 | △ | 观察 | Continental Towers Guaatemala, S.A. | 危地马拉 | Saga C | dayjob_fit | 观察档 · 成单复购回访：Continental Towers Guatemala S.A.（1 查命中 Continental Towers Corp LATAM：拉美铁塔商，2008，Terra Towers 旗下，… |
 
 ## 其他（2 户）

@@ -42,8 +42,8 @@
    "source": "https://www.kyma.it/contatti-2/"
   }
  ],
- "grade_override": "A",
- "override_reason": "Planet 渠道档案 PA-006 评 A（真实需求 + 具名联系人 + 体量可赢，规则 INH）；Saga 表内未互动故自动评 B，按调研提升",
+ "grade_override": "B",
+ "override_reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -177,5 +177,15 @@
    "body": "Hello Davide,\n\nWe wrote to you once in February 2025 about a 16-port Ethernet switch, and since then only general product mails - most recently \"16 Port Industrial PoE Switch\" on 16 September 2026 - none of which needed an answer. This one is specific.\n\nKyma has imported PLANET since 1994 and now carries 3onedata, so buying industrial switches direct from Asia is already how you work. At distributor price, EXW, MOQ 1, 15-day validity, -40 to 75 C, CE/RoHS: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, L2 managed, Marvell-based - model STI-288GPM - $78.9 USD; the L2+ version with ring redundancy - STI-288DGGPM - $137.5; 8 x Gigabit PoE+ + 4 x SFP, L2+ with ring - STI-488DGGPM - $147.1. Neutral brand, English web GUI.\n\nOne question: which industrial PoE configuration do your customers ask for most - 8-port PoE+ with 2 SFP, or the 4-SFP version?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "Planet 渠道档案 PA-006 评 A（真实需求 + 具名联系人 + 体量可赢，规则 INH）；Saga 表内未互动故自动评 B，按调研提升",
+   "reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A"
+  }
+ ]
 }

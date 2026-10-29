@@ -55,8 +55,8 @@
    "source": "https://www.marketscreener.com/quote/stock/VINTRON-INFORMATICS-LIMIT-20704747/"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
@@ -360,5 +360,15 @@
    "body": "Vadim,\n\nIn March we suggested two test units for Quip Pro — STH-8C48DX-HSI (48× 25G + 8× 100G) at USD 5,000 and STH-2C24XF-HSI (24× 10G SFP+ + 2× 100G) at USD 1,350, MOQ 1, EXW — and asked whether your work is project-based or own-brand. We did not hear back. Both prices are confirmed at order time (memory and SSD costs have moved since March).\n\nWhich capacity is the first project, and is the test sample for a telecom site or a data-centre site? That decides the firmware image we ship.\n\nElsa\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）"
+  }
+ ]
 }

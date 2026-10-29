@@ -50,8 +50,8 @@
    "source": "https://www.zaubacorp.com/company/ANDA-TELECOM-PRIVATE-LIMITED/U64202DL2004PTC131212"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -281,5 +281,15 @@
    "body": "Hi Subhash,\n\nFollowing your 4 August note (\"no a days Stacking is mandatory\") — a straight answer rather than another datasheet (you have the STC-424XGGPM-280W sheet Elsa sent on 4 August):\n\nOur AC5-based units do not offer Catalyst-style hardware stacking (no dedicated stack ports, no single-image chassis). Where stacking is a written requirement, we have the CENTEC-based STH-2QX4DX48GP (48 x 1G PoE++ + 4 x 25G + 2 x 40G) that stacks up to 8 units as one logical switch. On the AC5 access units, what you get instead is ring redundancy and 10G SFP+ uplinks, which is how most of our European integrators build the same redundancy.\n\nSo the one question: is stacking a written clause in your tenders, or an operations preference? If it is a clause, the STH-2QX4DX48GP is the unit to discuss (ANDA label possible); if it is a preference, I can map ATMIS-6208PI / 6216PI / 6408PI line by line to our industrial PoE models with your label.\n\nBest regards,\nElsa\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）"
+  }
+ ]
 }

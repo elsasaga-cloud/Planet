@@ -24,8 +24,8 @@
    "source": "https://www.falconebiz.com/company/DEVRAY-IT-SOLUTIONS-PRIVATE-LIMITED-U62013UP2024PTC204532"
   }
  ],
- "grade_override": "B",
- "override_reason": "2026-10-25 第 77 批（T29-U56 Simon「值得捞的处理一下」）：C → B。理由：Managing Director 本人 4 轮具名提问，明确要 SKD（印度本地组装 = 绕产地限制的常见做法）+ 价格；两处是我方欠答而非对方冷。印度非主战场，B = 慢慢跟进；原 C 理由「低价值区域冷线索」留此备查。",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
  "notes": "（建档：第 77 批 C 薄切片，T29-U56；证据全部来自 Elsa 邮箱 `data/gmail_e/text/` + `index_replied.jsonl`）",
  "deep": {
   "done_at": "2026-10-25",
@@ -148,5 +148,15 @@
    "subject": "Re: Marvell Managed Commercial Switches",
    "body": "Hello Yogendra,\n\nTwo of your questions never got a proper answer from us - apologies, here they are.\n\n1. L3 switch with 8 GB RAM and 16 GB flash (your 20 January question): no. Our L3 units are CENTEC-based with 2 GB DRAM and 8 GB eMMC flash (the 400G platform has 4 GB DRAM). If the 8 GB / 16 GB line comes from a tender sheet, it rules us out on paper, and I would rather say so now than send a datasheet that does not match.\n\n2. Costing for the Marvell managed commercial range (31 March) and SKD: 24 x Gigabit PoE+ (280 W) + 4 x 10G SFP+, L2+ managed - model STC-424XGGPM-280W - $180 USD EXW (MOQ 1, 15-day validity); 8 x Gigabit PoE+ + 2 x 2.5G SFP, L2+ managed - model STC-28DGGPM - $87.4 USD EXW (MOQ 1, 15-day validity). These are built-unit prices from Shenzhen. SKD kits for assembly in India are possible, but only as a volume programme with a yearly quantity behind them; the kit price depends on how much of the assembly you take on.\n\n3. Sourcing from outside China: we cannot offer that. Units and kits ship from Shenzhen, and BIS registration stays on your side either way.\n\nOne question: for an SKD programme, what yearly quantity per model would you commit to? That tells me whether it is worth preparing a kit BOM for you.\n\nThank you.\nElsa\nSaga Telecom - sagatele.com"
   }
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "2026-10-25 第 77 批（T29-U56 Simon「值得捞的处理一下」）：C → B。理由：Managing Director 本人 4 轮具名提问，明确要 SKD（印度本地组装 = 绕产地限制的常见做法）+ 价格；两处是我方欠答而非对方冷。印度非主战场，B = 慢慢跟进；原 C 理由「低价值区域冷线索」留此备查。",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）"
+  }
+ ]
 }

@@ -128,5 +128,15 @@
    "body": "Hi Anek,\n\nOver the past months you had a few product mails from us - most recently \"Managed PoE Switches\" on 25 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nOur product lines overlap closely, which is the point: for the converters and switches sold under the Bismon label, a second ODM source in your packaging from small lots, CE/RoHS: industrial Gigabit media converter, 1 x RJ45 + 1 x SFP slot, -40 to 75 C - model STI-110GE - $26.5 USD EXW with your logo (MOQ 1, 15-day validity); PoE version - STI-111GP - $30.1; DIN-rail 8 x Gigabit + 2 x SFP unmanaged - STI-280GE - $46; commercial 8 x PoE+ + 2 x SFP, L2+ managed, Marvell-based - STC-28DGGPM - $87.4.\n\nOne question: which SKU would you want sampled first - the one where your current source gives you the most trouble?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "lt_review": {
+  "status": "留 B",
+  "batch": "LT-R04",
+  "prio": 2,
+  "queued": "LT-R04",
+  "verdict_date": "2026-10-29",
+  "note": "桌面复核（研究档类型 + 对位首推）：网络产品品牌商（泰国，产品线相似）；切入：Bismon 标 MC/工业 FS → 工业千兆 MC STI-110GE（$24.3 @30%）、PoE MC STI-111GP（$30.1）、工业 8 GE + 2 SFP STI-280GE（$50.5）、商用 8 口 PoE+ 2 SFP STC-28DGGPM（$87；行业内 ✔ 对位 ✔（宽留冷「不对位」系 fit 标志未回填，非真不对位）",
+  "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
+ },
+ "override_history": []
 }

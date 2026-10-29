@@ -17,8 +17,8 @@
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A6 真回≥3+对位（任何区域）",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -121,5 +121,15 @@
    "body": "Hi Tomasz,\n\nI hope the two 90 W injectors ran the PTZ cameras as expected.\n\nIf the next site needs several high-power ports, one switch is cheaper and cleaner than stacking injectors: DIN-rail industrial 8 x Gigabit PoE (two of them PoE++ 60-90 W) + 2 x SFP, L2+ managed, -40 to 75 C, 240 W budget, model STI-288DGGPM-2BT - $154 USD EXW (MOQ 1, 15-day validity). It goes in a cabinet; we do not make outdoor IP67 housings, so for a pole-mounted box it would sit inside your enclosure with a 48 V supply.\n\nOne question: how many 60-90 W devices per cabinet does the next site need?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A6 真回≥3+对位（任何区域）"
+  }
+ ]
 }

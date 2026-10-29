@@ -123,5 +123,12 @@
    "body": "Hi Atul,\n\nIn 2023 you asked about certificates for the bypass industrial switch and said the product was useful for you. (Over the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 11 August 2026 - and there was no reason to answer a mass mail.)\n\nThe unit: DIN-rail L2+ managed, 8 x Gigabit PoE+ + 4 x SFP, hardware optical bypass on the fibre uplinks, -40 to 75 C - $194.3 USD EXW (MOQ 1, 15-day validity). CE / FCC / RoHS files are ready; there is no UL and no BIS. For panels without the bypass requirement, the regular DIN-rail 8 x PoE+ + 2 x SFP L2 managed unit, STI-288GPM, is $82.2.\n\nOne question: is the project a ring of panels on one fibre, and how many nodes?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
+ },
+ "lt_review": {
+  "batch": "LT-01",
+  "status": "待过",
+  "prio": 2,
+  "date": "2026-10-29",
+  "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 2，WA —，展会 —，绑定 Elsa 群））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  }
 }

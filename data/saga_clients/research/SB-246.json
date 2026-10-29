@@ -46,8 +46,8 @@
    "source": "用户表"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
@@ -136,5 +136,15 @@
    "body": "Hi, Marek,\n\nFollowing your note in February about our CENTEC-based core/aggregation switches — here is what is fixed now, and what I would size for you.\n\n1. 100G spine: STH-32C-HSI, 32x100G QSFP28, L3 (VXLAN/EVPN, BGP/OSPF, MPLS, MLAG, IPv6), 2x hot-swap PSU, MA license pre-installed — $6,000 USD EXW (2026 Q2 list, valid 15 days from this mail).\n2. Compact leaf/spine: STH-2C6QX-HSI, 6x40G + 2x100G, half-width, dual-node — $1,200 USD EXW (same list, same validity).\n3. 48x25G + 8x100G: STH-8C48DX-HSI — $4,800 USD EXW.\n\nThe 10G aggregation models (24x10G SFP+ class) are priced per project; if that is the layer you are sizing, tell me port count and uplink speed and I will quote those directly.\n\nOne question: which layer is the replacement for — 10G/25G aggregation or 100G spine?\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌"
+  }
+ ]
 }

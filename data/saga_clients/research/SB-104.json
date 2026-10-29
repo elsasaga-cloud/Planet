@@ -150,5 +150,12 @@
    "body": "Hi, Eros,\n\nIn November 2024 you asked \"euro?\" for a 48-port PoE managed switch and we quoted 280 EUR; the current unit is a different generation:\n\n- STC-448XGGPM: 48x GbE PoE+ 440 W (850 W optional) + 4x 10G SFP+, L2+, Marvell AC5 — $335 USD EXW (2026-10 price table, valid 15 days from this mail)\n\nOne question: was the 48-port for a specific site in 2024, and is it worth a fresh quote for 2026 projects?\n\nThank you.\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "lt_review": {
+  "batch": "LT-01",
+  "status": "待过",
+  "prio": 2,
+  "date": "2026-10-29",
+  "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 1，WA ✔，展会 —，绑定 轻度触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  }
 }

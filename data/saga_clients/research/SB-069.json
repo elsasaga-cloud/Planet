@@ -31,8 +31,8 @@
    "source": "用户 Clients 表"
   }
  ],
- "grade_override": "B",
- "override_reason": "低值历史成交、无互动、南亚非主攻区 → B。",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A1 复购/绑定≥中度",
  "notes": "回访一封即可。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -123,5 +123,15 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-25"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "低值历史成交、无互动、南亚非主攻区 → B。",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A1 复购/绑定≥中度"
+  }
+ ]
 }

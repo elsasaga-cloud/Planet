@@ -132,5 +132,12 @@
    "body": "Hi Andrea,\n\nOver the past months you had a few product mails from us - most recently \"16 Port Industrial PoE Switch\" on 17 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nBeside the E-wind converters and switches on lanshack.com, at distributor price, EXW, MOQ 1, 15-day validity: industrial Gigabit media converter, DIN-rail, 1 x RJ45 + 1 x SFP slot, -40 to 75 C - model STI-110GE - $26.5 USD; industrial 8 x Gigabit PoE+ + 2 x SFP unmanaged - STI-288GP - $60. FCC/CE/RoHS, no UL listing - said up front. Samples are paid at the same price.\n\nOne question: would a 2-piece sample help you compare build quality against the E-wind units you already stock?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "lt_review": {
+  "batch": "LT-01",
+  "status": "待过",
+  "prio": 2,
+  "date": "2026-10-29",
+  "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  }
 }

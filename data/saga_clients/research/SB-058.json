@@ -52,8 +52,8 @@
    "source": "http://www.sabmar.tv/"
   }
  ],
- "grade_override": "B",
- "override_reason": "成交品类为 HDMI 光端机（Saga 三供应商不覆盖），交换机需求未见；成交记录使其不降 C，B 待机。",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌",
  "notes": "若其视频项目需 PoE 交换机再报；不主动投入。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -153,5 +153,15 @@
    "body": "Hi Marcin,\n\nAfter the HDMI-over-fibre extender you tested with us, this is the next piece for the vans and the virtual studio. (You also had a couple of our general product mails this year - no need to answer those.)\n\nFor an IP OB van or the UE5 studio backbone: 24 x Gigabit RJ45 + 4 x 10G SFP+ uplinks, L2+ managed (VLAN, IGMP snooping for multicast video, QoS), Marvell-based, CE/RoHS - model STC-424XGGM - $132.7 USD EXW (MOQ 1, 15-day validity). We do not supply the SFP+ optics, so you keep your usual modules.\n\nOne question: are you moving the vans to NDI or SMPTE 2110 this season, or staying SDI for now?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "成交品类为 HDMI 光端机（Saga 三供应商不覆盖），交换机需求未见；成交记录使其不降 C，B 待机。",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌"
+  }
+ ]
 }

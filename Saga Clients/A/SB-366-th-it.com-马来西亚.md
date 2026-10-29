@@ -1,0 +1,328 @@
+# th-it.com
+
+> **评级 A**　|　马来西亚　|　档案编号 `SB-366`　|　优先级 ★★★　|　状态：名单内·未触达
+>
+> **类型**：IT 设备租赁商（马来西亚）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：E已回复　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+
+```yaml structured_profile
+code: SB-366
+rating: A
+rating_auto: B
+rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+score: 44
+country: 马来西亚
+region: 亚太
+website: th-it.com
+type: IT 设备租赁商（马来西亚）
+tier_tags: ["E已回复"]
+deal: no
+replies: 0
+followups: 0
+first_contact: unknown
+last_contact: unknown
+s_mail: 8 msgs (out 6 / in 2), 2024-07-29 -> 2025-01-06
+p1: STC-28DGGPM
+price_tier: 20%
+research: done
+site_snapshot: ok  # 2026-10-21
+sources: 1
+updated: 2026-10-29
+```
+
+## SALES BRIEF（压缩模型）
+
+- **是谁**：马来西亚 TH IT Resource Centre（IT 设备短长期租赁：笔记本、PC、服务器、投影、翻新产品；表内「商业 PoE」「邮件中有详细的联系信息」；KP Lee）；表内未跟进。（调研 2026-10-21；表内兴趣：商业POE）
+- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域））；自动分级 B：+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/马来西亚
+- **历史互动**：名单内·无互动记录
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（3/6 封有打开记录）：「Re: 24V poe switch」(2024-08-14)、「Re: 24V poe switch」(2024-09-09)、「Re: 24V poe switch」(2024-10-15) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-12 $300（48 Port PoE Managed Switch）、2025-01-06 $240（24 Port Fiber Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-04 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-05-04；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-06 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-06；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
+- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **最大未知**：年走量与现供应商
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-366` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：轻度触达→两次拒（2024-07-29「sorry, no need」；2026-09-08「we don't need this currently」，Elsa 邮箱）；Elsa 群发 BCC 已触达 9 轮 2025-04-11→2026-09-08（锚 To sofyan@mutiara-teknologi.com.my，本户在 Bcc）；2026-09-08 那轮「24 Port PoE Managed Switch」即被回「we don't need this currently」——第二次拒之后仍在 Bcc 名单上（剔除名单 §一 已列）** ｜ 类型：马来西亚 IT 租赁商（TH-IT） ｜ 筛子：1 ｜ 停点：两次书面拒绝；2027 前不发；若再发只发给采购口而非 Rental Sales Manager ｜ 复活：不动 ｜ 通路：MY ｜ 节奏：不动 ｜ 证据：k=79b10682153051b0；第 19 批回补来信原文 2 条（gmail_s/gmail_a）
+- **现状一句话**：—
+- **对方真实需求（有据）**：—
+- **断点 / 为什么停在这里**：—
+- **Saga 现在该推什么**：P1 **—**（20% 档，—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-12 $300（48 Port PoE Managed Switch）、2025-01-06 $240（24 Port Fiber Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-04 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-05-04；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-06 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-06；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——已打开的主题（3/6 封有打开记录）：「Re: 24V poe switch」(2024-08-14)、「Re: 24V poe switch」(2024-09-09)、「Re: 24V poe switch」(2024-10-15) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续
+- **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2023-07-01 | 备 | Saga 内部马来西亚线索表 Client_List_待决定.xlsx（XSPec/Sugito 文件夹） | 名单行：「13 https://m.th-it.com/index.php?ws=tag&tag_id=315611 马来西亚 谷歌 商业POE inquiry@th-it.com」 | Saga 自己的线索表里对本户的一手备注（来源/兴趣点/是否已加 WhatsApp/展会现场对话）（名单无日期；条目为 Mitec 2023 展会现场记录，按 2023-07 归期）——比群发打开率更硬的证据；写下一封邮件时直接引用这里的兴趣点 | `Drive PI 文件夹 9_马来西亚_Sugito` |
+| 2024-07-29 | 来 | inquiry@th-it.com | sorry, no need. Greetings. Hope this email finds you well. Thank you and best regards. Mr. Lee Te Hua,Rental Sales Manager Mobile no: 019-2626812Offic | 来信原文（主题「Re: 24V poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `79b10682153051b0` |
+| 2024-09-09 | 来 | inquiry@th-it.com | Thanks for the update. Greetings. Hope this email finds you well. Thank you and best regards. Mr. Lee Te Hua,Rental Sales Manager Mobile no: 019-26268 | 来信原文（主题「Re: 24V poe switch」；第 19 批从 gmail_s 回补，之前只有计数没有原话） | `8ceb773d69d13c9f` |
+| 2025-04-11 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | 16 Port Ethernet Switch（Elsa 群发第 1/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单 | `elsa_bcc` |
+| 2025-05-04 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | 48 Port PoE Managed Switch（Elsa 群发第 2/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my；正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58） | 第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单 | `elsa_bcc` |
+| 2025-06-05 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | 8 Port Industrial PoE Switch（Elsa 群发第 3/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单 | `elsa_bcc` |
+| 2025-07-04 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | Mini Industrial PoE Switch（Elsa 群发第 4/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单 | `elsa_bcc` |
+| 2025-10-06 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | 10G Enterprise SFP Switch（Elsa 群发第 5/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单 | `elsa_bcc` |
+| 2025-11-20 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | Industrial PoE Switch（Elsa 群发第 6/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单 | `elsa_bcc` |
+| 2026-02-05 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | OEM Core Switching Solution（Elsa 群发第 7/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单 | `elsa_bcc` |
+| 2026-04-29 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | Updated Ethernet Switches Links（Elsa 群发第 8/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单 | `elsa_bcc` |
+| 2026-09-08 | 来 | Mr. Lee Te Hua（Rental Sales Manager, TH-IT，马来西亚） | Thanks, we don't need this currently. | Elsa 邮箱 2026-08-17「24 Port PoE Managed Switch」群发的回信（连接器实时查到，仓库 gmail_e 索引截至 2026-08-19 未含）——第二次书面拒绝（2024-07-29「sorry, no need」）；头衔是租赁销售经理 = 不是采购口。两次拒 → 2027 前不再发 | `Gmail 连接器（Elsa）message 1a07ff9946d7554d，thread 19ff3ec967fec1c0` |
+| 2026-09-08 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | 24 Port PoE Managed Switch（Elsa 群发第 9/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(o) `from:e.sagatelecom to:th-it.com` 全程 complete：9 行；To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；就是这封被回「we don't need this currently」 | `elsa_bcc` |
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **时机与节律**：真人来信 2 封（2024-07-29 → 2024-09-09）；对方本地时间中位 17:00（= 北京时间 17:00）；**他们回信中位 7.3 小时**（1 次，100% 在 24 小时内）；我方回信中位 620.0 小时（2 次，>72 小时 2 次）。
+- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 3 封（2024-11-15 → 2025-01-06），打开标签 0 次。
+- **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 0 条 + 个性化群发价 3 条，2024-08-14 → 2025-01-06；「今天」= 价格主表 2026-10-17 汇率、20% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
+
+  | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
+  |---|---|---|---|---|---|---|---|
+  | 2025-01-06 | 「Price: 240usd/pc」 | $240 | —（原句无型号） | — | 群发价 | 24 Port Fiber Switch | `04b20100471a1077` |
+  | 2024-12-12 | 「Price is very competitive, 300usd/pc」 | $300 | —（原句无型号） | — | 群发价 | 48 Port PoE Managed Switch | `7493830b6e19d535` |
+  | 2024-08-14 | 「Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 24V poe switch | `7ee8d55c9a41b028` |
+
+  「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
+- **规模与贴牌线索（官网快照 2026-10-21）**：站点地图 46 条 URL；社媒：https://wa.me/60162281069?text=Hello, I am interested in Google%20Review. (https://www.th-it.com/showproducts/productid/5306613/)、https://wa.me/60162281069?text=Hello, I am interested in TH%20IT%20Networking%20Equipment%20Rental. (https://www.th-it.com/showproducts/productid/5232684/)、https://wa.me/60162281069?text=Hi, i am interested to know more. (https://www.th-it.com/)。
+- **写信的人（来信签名机械抽取）**：inquiry（inquiry@th-it.com，2 封，2024-07-29 → 2024-09-09）。
+- **他们嘴里的词（2 封来信、去引用后 1,567 字符的词频）**：话题（次数，最近一次）：PoE ×7（2024-09-09）、光纤 / 媒体转换 ×1（2024-07-29）、10G ×1（2024-09-09）、工业 ×1（2024-09-09）、CCTV / 安防 ×1（2024-09-09）、价格 / 折扣 ×1（2024-09-09）；芯片 / 供应商词：Marvell ×1。
+- **最后一球**：1:1 对话 1 段，最长一段 5 封 / 跨 77 天（2024-07-29 → 2024-10-15，「Re: 24V poe switch」）；最后一句是我们说的（2024-10-15，742 天前，「Re: 24V poe switch」，`f593f54d20a0fc7c`）→ 球在对方手里。
+- **日历窗口**：对方：2026-12-25 圣诞；2027-02-06 农历新年（02-06/07）；2027-02-08 斋月（约） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `th-it.com` → Yahoo 小企业邮箱（MX：mx-biz.mail.am0.yahoodns.net、mx-biz.mail.am0.yahoodns.net）。主机商附带邮箱（Yahoo 小企业邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让：** 下一步为「不动」，不排发信，略。
+
+**公司底数 · 第 119 批（MY · 1 次检索：th-it.com/services（TH IT RESOURCE CENTRE SDN BHD；TH IT NETWORKS SDN BHD 198301012255 (107648-T)；No. 130, Jalan Kapar 27/89, Seksyen 27, 40400 Shah Alam；+6016-280 3363；inquiry@th-it.com）+ th-it.com 租赁方案页（sister company … authorized Ekahau partner distributor；41, Jalan Pengeluaran U1/78, Hicom-Glenmarie）；2026-10-28，2026-10-28 查；https://www.th-it.com/services/stag/13449/pc-rental-kuala-lumpur-malaysia/）：**
+
+- 法定名 / 登记号：TH IT Resource Centre Sdn Bhd（th-it.com；**页脚姊妹公司 TH IT Networks Sdn Bhd 198301012255 (107648-T)；No. 130, Jalan Kapar 27/89, Seksyen 27, 40400 Shah Alam, Selangor；+6016-280 3363；Ekahau 授权分销（Wi-Fi 设计）；本体 SSM 号 1 查未得 → 部分坐实**）— IT 设备短长期租赁（笔记本 / PC / 服务器 / 投影）+ 无线网络设计；KP Lee；表内「商业 PoE」；未跟进 · 未取（本体；姊妹 198301012255 (107648-T)） · 状态 **营业中（官网在）** · 成立 姊妹 1983 · Sdn Bhd
+- 行业码 / 经营范围：IT 设备租赁 + 无线网络设计（Shah Alam）
+- 注册地址：No. 130, Jalan Kapar 27/89, Seksyen 27, 40400 Shah Alam, Selangor, Malaysia
+- 规模档：小型
+- 账目：未取；—
+- 高管：Lee — 表内联系人（研究档 KP；inquiry@th-it.com；职务待核）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **租赁 + Wi-Fi 设计、有商业 PoE 需求记录 → 集成商 25% B small，一页纸一次（AP 供电 STC-028GP / STC-2216GP / 2224GP 一口价 + MOQ 1 + 付费样机）— 马来西亚常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳（SIRIM 不声称；DAP 买方清关）**；再无回声 → 不动
+- 备注：集成商 25% small；一页纸一次；部分坐实（官网页脚姊妹登记号 + 地址）。
+
+## 基本事实（事实/推断/假设分层）
+
+| 项 | 内容 | 层级 |
+|---|---|---|
+| 名称 | th-it.com（取自域名，公司全名待核） | 推断 |
+| 国家 | 马来西亚 | 事实（用户表）|
+| 网站/域名 | th-it.com | 事实（用户表 URL/邮箱域名） |
+| 类型 | IT 设备租赁商（马来西亚） | 推断（据兴趣/备注关键词） |
+| 联系人 | Lee | 事实（用户表） |
+| 来源（From） | 谷歌 | 事实（用户表） |
+| 兴趣（Interested in） | 商业POE | 事实（用户表） |
+| 用户备注（Remark） | 邮件中有详细的联系信息 | 事实（用户表） |
+| 所在清单 | E已回复 | 事实（文件路径） |
+| 在卖/在用品牌（备注所见） | — | 事实（用户备注）/ 推断 |
+
+## 客户调研（网页核实 · 引文 + URL + 日期）
+
+- **状态：已调研（2026-10-21）**　网站状态：在线（th-it.com，快照 2026-10-21）
+- **是谁**：马来西亚 TH IT Resource Centre（IT 设备短长期租赁：笔记本、PC、服务器、投影、翻新产品；表内「商业 PoE」「邮件中有详细的联系信息」；KP Lee）；表内未跟进。
+- **类型**：IT 设备租赁商（马来西亚）
+- **【官网快照】官网标题：Notebook, Laptop & Computer Rental Selangor, Projector Supplier Kuala Lumpur (KL), Server ；品类词 无线 / WiFi**
+  > Specializes in providing short- and long-term IT equipment rental. We provide laptop, pc, shredder, printer, server, projector, led panel, photocopier etc for rental purposes.
+  > 来源：https://www.th-it.com/（抓取 2026-10-21）
+- **【用户表】表内兴趣/备注**
+  > 商业POE；邮件中有详细的联系信息
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **【官网快照】TH IT 定位**
+  > Notebook, Laptop & Computer Rental Selangor ; Specializes in providing short- and long-term IT equipment rental
+  > 来源：https://www.th-it.com/（抓取 2026-10-21）
+- **【用户表】商业 PoE**
+  > 商业POE；邮件中有详细的联系信息
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Lee（表内联系人 Lee（职务待核；商业 PoE 需求记录）= 收件人 — 一页纸一次：集成商 25% B small、AP 供电 STC-028GP / STC-2216GP / 2224GP 一口价 + MOQ 1 + 付费样机 — 马来西亚常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、SIRIM 不声称（第 119 批 官方登记核实 2026-10-28））inquiry@th-it.com 〔用户表〕
+- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | TH IT Resource Centre Sdn Bhd（本体 SSM 未取；页脚姊妹 TH IT Networks Sdn Bhd 198301012255 (107648-T)，Ekahau 授权分销） |
+| 成立 | 姊妹 1983（第 119 批 官方登记核实 2026-10-28） |
+| 总部/地址 | No. 130, Jalan Kapar 27/89, Seksyen 27, 40400 Shah Alam, Selangor（+6016-280 3363）（第 119 批 官方登记核实 2026-10-28） |
+| 其他 | 官网 th-it.com，语言 en，快照状态 ok；角色判定来源：官网文案；第 119 批：IT 设备租赁 + 无线网络设计，有商业 PoE 需求记录 → **集成商 25% B small，一页纸一次**；再无回声 → 不动；部分坐实（官网页脚）（第 119 批 官方登记核实 2026-10-28） |
+
+- **业务线**：IT 设备租赁（马来西亚）
+- **触达通道（公开）**：role: IT 设备租赁商（马来西亚）；region: 马来西亚；contact: inquiry@th-it.com
+- **近况信号**：
+  - 官网：Specializes in providing short- and long-term IT equipment rental. We provide laptop, pc, shredder, printer, server, projector…；页面 /photoalbum/id/19545/refurbish-product/
+  - 表内：商业 POE；邮件中有详细的联系信息；KP Lee
+- **风险/边界**：租赁业务（采购不规律、量小）；非主攻区（T5，马来西亚）；未跟进过
+- **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——租赁/翻新配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）
+- **邮件切入句（英文）**：Lee, for the switches in your rental and refurbished IT fleet, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from single units, CE/RoHS, EXW USD — which port count do your rental projects need most?
+
+### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：在线）
+
+- **首页**：https://www.th-it.com/　语言：en　站点地图 URL 数：46
+- **标题**：Notebook, Laptop & Computer Rental Selangor, Projector Supplier Kuala Lumpur (KL), Server Rental Malaysia ~ TH IT RESOURCE CENTRE SDN BHD
+- **描述**：Specializes in providing short- and long-term IT equipment rental. We provide laptop, pc, shredder, printer, server, projector, led panel, photocopier etc for rental purposes.
+- **首页栏目**：ABOUT TH IT RESOURCE CENTRE
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：wireless 8、distributor 7、wifi 1、planet 1
+- **站内公开邮箱**：inquiry@th-it.com
+- **站内公开电话**：+6016-280 3363, 00101023207 (558965
+- **社媒**：https://wa.me/60162281069?text=Hello, I am interested in Google%20Review. (https://www.th-it.com/showproducts/productid/5306613/), https://wa.me/60162281069?text=Hello, I am interested in TH%20IT%20Networking%20Equipment%20Rental. (https://www.th-it.com/showproducts/productid/5232684/), https://wa.me/60162281069?text=Hi, i am interested to know more. (https://www.th-it.com/), https://wa.me/60162281069?text=Hi, i am interested to know more. (https://www.th-it.com/category/), https://wa.me/60162281069?text=Hi, i am interested to know more. (https://www.th-it.com/computer_for_rent.html), https://wa.me/60162281069?text=Hi, i am interested to know more. (https://www.th-it.com/contactus/)
+- **产品类页面**：https://www.th-it.com/photoalbum/id/19545/refurbish-product/
+- **已抓子页**：[Networking Equipment Rental Selangor, Malaysia, Kuala Lumpur](https://www.th-it.com/ourproducts/cid/546084/)；[TH IT RESOURCE CENTRE SDN BHD - Contact Us Selangor, Malaysi](https://www.th-it.com/contactus/)；[Notebook, Laptop & Computer Rental Selangor, Projector Suppl](https://www.th-it.com/pages/pages_id/13507/)；[Category - TH IT RESOURCE CENTRE SDN BHD](https://www.th-it.com/category/)；[Our Services / TH IT RESOURCE CENTRE SDN BHD](https://www.th-it.com/services/)；[Professional Notebook Rental And IT Services, Selangor, Mala](https://www.th-it.com/services/cid/6544/)
+- 首页正文摘录：Home About About TH IT Resource Centre Sdn Bhd Our Services List of Major Jobs Sustainability Services Ekahau IT Rental Services Events & Projects Rental Gallery Photo Video Testimonial Testimonial Google Review Contact Home About About TH IT Resource Centre Sdn Bhd Our Services List of Major Jobs Sustainability Services Ekahau IT Rental Services Events & Projects Rental Gallery Photo Video Testimonial Testimonial Go
+- 数据文件：`data/saga_clients/site_snapshots/SB-366.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
+
+## 在卖/在用品牌 → Saga 对位
+
+（备注未提及具体品牌）
+
+## 历史跟进记录（原表照录）
+
+（无跟进表记录）
+
+## 邮箱往来（S 邮箱 · 自动汇总）
+
+- **账号**：s.sagatelecom　|　**邮件**：8 封（去 6 / 来 2）　|　**期间**：2024-07-29 → 2025-01-06　|　**最后去信**：2025-01-06
+- **对方邮箱**：inquiry@th-it.com
+- **最后一封来信**：2024-09-09 inquiry@th-it.com「Re: 24V poe switch」：Thanks for the update. Greetings. Hope this email finds you well. Thank you and best regards. Mr. Lee Te Hua,Rental Sales Manager Mobile no: 019-2626812Office tel: 0162803363Office Fax: No Fax Company website: http://www.th-it.comTo get latest update from us, 
+- **邮件里报过的价**：2025-01-06 $240；2024-12-12 $300；2024-08-14 $65
+
+| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
+|---|---|---|---|---|---|
+| 24 Port Fiber Switch | 2025-01-06 | 2025-01-06 | 0 | 1 | 1 |
+| 48 Port PoE Managed Switch | 2024-12-12 | 2024-12-12 | 0 | 1 | 1 |
+| 8 Port Industrial PoE Switch | 2024-11-15 | 2024-11-15 | 0 | 1 | 1 |
+| 24V poe switch | 2024-07-27 | 2024-10-15 | 2 | 4 | 14 |
+
+## 动态监控（自动 · 网站 / 社媒 / 代码库）
+
+- **监控层**：A 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-27T08:02:45Z
+- **最近变化摘要**：2026-10-27 home：内容变化：+1 −1 行
+- 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-366/`；本节随档案重渲染刷新，实时看日志。
+
+| 源 | 类型 | 状态 | 最近变化 | 摘要 |
+|---|---|---|---|---|
+| [home](https://www.th-it.com/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 5968 字符；首行：Notebook, Laptop & Computer Rental Selangor, Projector Supplier Kuala Lumpur (K |
+| [sitemap](https://www.th-it.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
+
+- **人工定期看（登录墙，不自动抓）**：WhatsApp: https://wa.me/60162281069?text=Hi, i am interested to know more. (https://www.th-it.com/)；Facebook: https://www.facebook.com/THIT.MALAYSIA；WhatsApp: https://wa.me/60162281069?text=Hi, i am interested to know more. (https://www.th-it.com/computer_for_rent.html)
+
+## 联系方式（已有 · 原值照录）
+
+- 邮箱：`inquiry@th-it.com`〔企业邮箱；来源：用户表原值〕
+- 联系人（原值）：Lee
+- 网站/域名：th-it.com
+- **邮箱纪律**：只用表内原值，不猜测、不拼接；发不过去的地址标注后保留不删。
+
+## 关键人（KP）与触达通道
+
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Lee | 表内联系人 Lee（职务待核；商业 PoE 需求记录）= 收件人 — 一页纸一次：集成商 25% B small、AP 供电 STC-028GP / STC-2216GP / 2224GP 一口价 + MOQ 1 + 付费样机 — 马来西亚常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、SIRIM 不声称（第 119 批 官方登记核实 2026-10-28） | inquiry@th-it.com | 调研核实（公开页） | 用户表 |
+
+- **通道建议**：企业邮箱可直发
+
+## 来源与归并（不漏 · 原始行定位）
+
+本客户只有 1 行原始记录。
+
+| 文件#表:行 | No. | Company（原值） | Country | Person | From | Interested in | Contact | Remark | 跟进表 |
+|---|---|---|---|---|---|---|---|---|---|
+| E Replied 2026.08.04.xlsx#总表:34 | 33 | https://m.th-it.com/index.php?ws=tag&tag_id=315611 | 马来西亚 | Lee | 谷歌 | 商业POE | inquiry@th-it.com | 邮件中有详细的联系信息 | — |
+
+## 产品决策（Saga · 单一决策口径）
+
+| 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
+|---|---|---|---|---|
+| **P1** | STC-28DGGPM | 深挖对位：租赁/翻新配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4） | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（IT 设备租赁商（马来西亚）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：20% 档 $139.9 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $181.2——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+
+- **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
+
+## 跟进建议
+
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
+
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
+- **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
+- 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
+- **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
+
+## SWOT
+
+- **S**：名单内已有联系记录，不是零起点
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
+- **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源
+- **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
+
+## 触达与风险红线
+
+1. 包装、外观、说明书全部中性，不出现「Made in China」，贴客户自己的型号。
+2. 邮件只用表内原值地址；「发不过去」的地址保留并标注，不猜新地址。
+3. 不承诺 UL、EN50155、IP67、云管理；PoE 功率与工业温宽以实测为准。
+4. 乌克兰/军工/公共部门/轨道/生命安全场景守界；巨头分销与品牌厂商不投入。
+5. 同一客户在多张表出现时以本档为唯一入口，避免多人重复触达。
+
+## Qualification 清单
+
+| 门槛 | 状态 |
+|---|---|
+| 需求面成立（在卖/在用交换机或 PoE） | ✅ |
+| 决策人识别 | ✅ |
+| 触达通道 | ✅ 企业邮箱 |
+| 现用/在卖交换品牌 | ❓ 未知 |
+| 采购量/预算 | ❓ 未确认 |
+| 商业资格结论 | **技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进** |
+
+## Unknowns（待问清单 · 跟进后逐项消除）
+
+- [ ] 年走量与现供应商
+
+## 英文跟进邮件（样板 · 可直接发送）
+
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
+
+```text
+Hi Lee,
+
+Picking up our earlier exchange about PoE / industrial switches. For the switches in your rental and refurbished IT fleet, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from single units, CE/RoHS, EXW USD — which port count do your rental projects need most?
+
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
+
+If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
+https://sagatele.com/
+```
+
+> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+
+## 新跟进记录（仓库外发出后补）
+
+| 日期 | 渠道 | 对象 | 我方动作 | 对方回应 | 下一步 | 下次动作日期 |
+|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |
+
+> 历史跟进见上文「历史跟进记录（原表照录）」；新动作由用户在仓库外执行后告知日期与渠道，写入 research JSON 的 notes 后重渲染。
+
+## 下次复核
+
+- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+
+## 变更日志
+
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 44）；人工/调研定级 → A
+
+---
+
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

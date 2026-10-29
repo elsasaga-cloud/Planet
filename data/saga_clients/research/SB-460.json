@@ -113,5 +113,15 @@
    "body": "Hi Michael,\n\nThank you for the OM-FBS-22-SLC order through our shop; my colleague handled that one. For the Ethernet side of the same installations we also supply from single units, CE/RoHS: a DIN-rail 8 x Gigabit + 2 x SFP unmanaged switch, -40 to 75 C - model STI-280GE - $46 USD EXW (MOQ 1, 15-day validity); the 8 x PoE+ + 2 x SFP L2 managed version, Marvell-based - STI-288GPM - $82.2.\n\nOne question: is there a switch position in your next project I can quote?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "lt_review": {
+  "status": "留 B",
+  "batch": "LT-R04",
+  "prio": 2,
+  "queued": "LT-R04",
+  "verdict_date": "2026-10-29",
+  "note": "桌面复核（研究档类型 + 对位首推）：IT/网络公司（德国，Shopify 成交客户）；切入：Shopify 已成交（OM-FBS-22-SLC）→ 复购延伸：工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、8 PoE + 2 SFP STI-288GPM（$82.2）；光旁路配件类 Saga 列表外（沿用现有货源，注明）；行业内 ✔ 对位 ✔（宽留冷「不对位」系 fit 标志未回填，非真不对位）",
+  "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未发信））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
+ },
+ "override_history": []
 }

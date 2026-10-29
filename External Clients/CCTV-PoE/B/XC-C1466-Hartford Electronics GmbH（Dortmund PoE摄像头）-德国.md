@@ -1,0 +1,88 @@
+# XC-C1466 · Hartford Electronics GmbH（Dortmund PoE摄像头） · 德国
+
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 安防（报警 / 视频 / 传感）制造 + 分销 20–30%：Hartford Electronics GmbH（Dortmund；HRB 28743 Amtsgericht Dortmund；资本 €25,000）坐实；自有 PoE 摄像线 → 交换机捆绑 / 贴牌对位；主区 DE；体量小 → ○；kundendienst@hartford-electronics.de（客服箱，待挖销售 K） ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:18677 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-02 2026-10-29）→ 下一动作 不动
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：○ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 安防（报警 / 视频 / 传感）制造 + 分销 20–30%：Hartford Electronics GmbH（Dortmund；HRB 28743 Amtsgericht Dortmund；资本 €25,000）坐实；自有 PoE 摄像线 → 交换机捆绑 / 贴牌对位；主区 DE；体量小 → ○；kundendienst@hartford-electronics.de（客服箱，待挖销售 KP）
+
+## 1. 初判与理由
+- 初判：**XC** — 终端用户 / 渠道触点（机场、大学、超市、政府、军队…走集成商与框架采购，不是 Saga 的直接买家）
+- 人工改级：XB（2026-10-29，Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 安防（报警 / 视频 / 传感）制造 + 分销 20–30%：Hartford Electronics GmbH（Dortmund；HRB 28743 Amtsgericht Dortmund；资本 €25,000）坐实；自有 PoE 摄像线 → 交换机捆绑 / 贴牌对位；主区 DE；体量小 → ○；kundendienst@hartford-electronics.de（客服箱，待挖销售 K）；编号不变
+- 标记：终端触点、邮箱已补（X1-02 2026-10-29）
+- 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
+- 规则：编号一次分配、永不重排；深度研究后升降只改「等级」字段并移动文件夹（见 00-总索引）
+
+## 2. 基本事实（来源库口径，未经本库复核）
+| 项 | 内容 |
+|---|---|
+| 公司 | Hartford Electronics GmbH（Dortmund PoE摄像头） |
+| 国家 / 城市 | 德国 |
+| ISO | DE |
+| 网站 | hartford-electronics.de |
+| 类型 / 角色 | 安防设备制造商/分销商 |
+| 他们首推（仅参考，不照搬） | — |
+| 来源库分级 / 星级（仅参考） | ★ |
+| 来源章节 | ===== 意大利 Part 2 ===== (113-122, 10个渠道) > 🇩🇪 德国 Part 11：安防安装商/集成商深挖 + Smart Building/KNX生态（#541-555） |
+| 来源库字段·公司类型 | 安防设备制造商/分销商 |
+| 来源库字段·总部 | Dortmund, Germany |
+| 来源库字段·产品 | PoE IP网络摄像头（4K 8MP Speed Dome等） |
+| 来源库字段·网站 | hartford-electronics.de |
+| 来源库字段·行业 | 安防设备 |
+| 来源库字段·角色 | PoE IP摄像头品牌 |
+| 来源库字段·客户优先级 | 🟡 B类（PoE摄像头品牌，配套PoE交换机需求） |
+| 来源文件 | `03-海外客户开发清单.md` 第 18677 行 @ elsasaga-cloud/CCTV-PoE@9be1416 (arena/01a0c908-cctv-poe) |
+
+## 3. 联系方式
+- 邮箱：kundendienst@hartford-electronics.de（公开·X1-02 补）
+
+## 4. 关键人（KP）
+- 无（待挖）
+
+## 5. 证据与来源 URL（来源库）
+- 无
+
+## 6. 已知触达
+- Saga S 箱 2026-09/10 群发名单：未匹配到本户邮箱
+
+## 6b. 来源库原文块（原样，含其产品主张——不采信型号与价格）
+
+> 545. Hartford Electronics GmbH（Dortmund PoE摄像头）🟢
+> | 维度 | 详情 |
+> |------|------|
+> | **公司全称** | Hartford Electronics GmbH |
+> | **公司类型** | 安防设备制造商/分销商 |
+> | **总部** | Dortmund, Germany |
+> | **产品** | PoE IP网络摄像头（4K 8MP Speed Dome等） |
+> | **网站** | hartford-electronics.de |
+> | **行业** | 安防设备 |
+> | **角色** | PoE IP摄像头品牌 |
+> 
+> | 维度 | 评估 |
+> |------|------|
+> | **客户优先级** | 🟡 **B类**（PoE摄像头品牌，配套PoE交换机需求） |
+> 
+> ---
+
+## 7. 我方产品线提示
+- HRUI PoE 非管理型为主 + SmartByte PoE 管理型（安防/CCTV 渠道：价格 + 交期 + 长距 PoE）
+- 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
+- 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
+
+## 8. 研究卡（第 2 步，X1-02，2026-10-29）
+
+- **结论：XC** — X1-02 补路径：○ 安防（报警 / 视频 / 传感）制造 + 分销 20–30%：Hartford Electronics GmbH（Dortmund；HRB 28743 Amtsgericht Dortmund；资本 €25,000）（等级不动，池位见 sieve_x）
+- 活着吗：2026-10-29 检索命中官网 / 名录（在线）
+- 一句话：Hartford Electronics GmbH：安防（报警 / 视频监控 / 传感技术）制造 + 分销
+- 是什么人：安防设备制造商/分销商；Hartford Electronics GmbH
+- 对口哪条线：Saga STI 工业 / SmartByte 商用 PoE — ○ 安防（报警 / 视频 / 传感）制造 + 分销 20–30%：Hartford Electronics GmbH（D
+- 找得到人吗：kundendienst@hartford-electronics.de（官网 / 名录公开（X1-02 补路径））；KP：无具名
+- 已触达：未触达（路径 2026-10-29 新补）
+- 与 Saga Clients：无
+- **下一动作：不动** — 已入 P 池 → 按巡检节奏首触
+
+证据：
+| 类型 | 说明 | 摘录 | 来源 | 日期 |
+|---|---|---|---|---|
+| 官网 / 名录 | openregister：Hartford Electronics GmbH · HRB 28743 Dortmund · Impressum 来源 |  | https://openregister.de/company/DE-HRB-R3201-22529 | 2026-10-29 |
+| 官网 / 名录 | Google Play 开发者信息：kundendienst@hartford-electronics.de · Rheinlanddamm 201 A · +49 231 96349150 |  | https://play.google.com/store/apps/details?id=com.berview.google.anroid&hl=en_US | 2026-10-29 |
+
+- 备注：Hartford Electronics GmbH；Rheinlanddamm 201a, 44139 Dortmund；HRB 28743 Amtsgericht Dortmund；资本 €25,000；+49 231 96349150

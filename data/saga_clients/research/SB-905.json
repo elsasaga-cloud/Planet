@@ -69,8 +69,8 @@
    "source": "S/A 邮箱来信 2025-07-06 → 10-31 来信 3 封（第 72 批从邮件表头补）"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来；A6 真回≥3+对位（任何区域）",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 2026-10-22 并入 teltronix.net 往来（3 进 7 出，F16）",
  "deep": {
   "done_at": "2026-10-21",
@@ -225,5 +225,15 @@
    "body": "Hi, Wadii,\n\nIn September 2024 we answered your 20-unit 24-port PoE RFQ (4x SFP, redundant PSU) with \"not on our list\" — too short an answer. In July 2025 you got the PSU costs (HDR-30-24 $15 / NDR-120-48 $25 / NDR-240-48 $40).\n\nWhat we have today: 24x GbE PoE+ 280 W + 4x 10G SFP+, L2+, Marvell AC5 — $180 USD EXW, valid 15 days from this mail (our summer mail quoted $170; that batch is gone); single PSU, ring redundancy; a dual-PSU version is quoted on request.\n\nOne question: did the 2024 project close, and do your current projects still require dual PSU and stacking, or would 10G uplinks + ring redundancy do?\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来；A6 真回≥3+对位（任何区域）"
+  }
+ ]
 }

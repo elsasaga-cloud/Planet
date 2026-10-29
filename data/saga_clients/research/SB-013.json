@@ -61,8 +61,8 @@
    "source": "https://synchcom.com.pk/about-us/"
   }
  ],
- "grade_override": "B",
- "override_reason": "样品后 8 次推送零回复；需求是裸 PCBA（本地组装贴牌），毛利与售后风险高；南亚区 + 含国防行业。B 慢跟：仅在其主动询价时报整机或 PCBA（需 SmartByte 确认可供板级）。",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来",
  "notes": "",
  "researched_at": "2026-10-21",
  "deep": {
@@ -145,5 +145,15 @@
    "body": "Asif, after the MC and 8-port managed PCB samples: we can now supply the 8-port managed switch as a finished unit (2× SFP + 8× GbE PoE, $74.0 EXW) or discuss board-level supply for your own enclosure — which route fits your current telecom/energy projects?"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "样品后 8 次推送零回复；需求是裸 PCBA（本地组装贴牌），毛利与售后风险高；南亚区 + 含国防行业。B 慢跟：仅在其主动询价时报整机或 PCBA（需 SmartByte 确认可供板级）。",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来"
+  }
+ ]
 }

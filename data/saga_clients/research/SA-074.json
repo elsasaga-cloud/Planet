@@ -68,8 +68,8 @@
    "source": "https://papagal.bg/eik/202351530/4f70"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "B",
+ "override_reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A",
  "notes": "已回复 + 具体需求（4/8 口 PoE，CCTV 项目多）+ 3,000 路摄像头存量 = 稳定小批量复购源；保加利亚虽为非主动开发小国，但为入站回复，按 A 跟。P1：STC-28DGGPM（8 口 PoE）+ STI-244GP（4 口），项目价阶 25%。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -213,5 +213,15 @@
    "body": "Hello Lachezar,\n\nIn December you looked at our price list and concluded the prices were rather high; I asked which model to re-price and that is where it stopped - our side as much as yours.\n\nSo, the budget line for camera sites that do not need management, CE/RoHS, EXW, MOQ 1, 15-day validity: 8 x Gigabit PoE+ + 2 x Gigabit uplinks, unmanaged - model STC-028GP - $26.2 USD; 4 x Gigabit PoE+ + 1 x Gigabit + 1 x SFP - STC-114GP - $17.8. Where a site needs VLAN and ring, the managed 8-port on Marvell stays at $84.1 - STC-28DGGPM.\n\nOne question: what do you pay today for the 8-port PoE you install most? A band is enough, and I will say yes or no in one line.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "B",
+   "prev_reason": "",
+   "reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A"
+  }
+ ]
 }

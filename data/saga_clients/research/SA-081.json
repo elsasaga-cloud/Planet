@@ -56,8 +56,8 @@
    "source": "https://it.linkedin.com/company/4power-srl"
   }
  ],
- "grade_override": "A",
- "override_reason": "Planet 渠道档案 PA-001 评 A（真实需求 + 具名联系人 + 体量可赢，规则 INH）；Saga 表内未互动故自动评 B，按调研提升",
+ "grade_override": "B",
+ "override_reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -182,5 +182,15 @@
    "body": "Pasquale, Simon from Saga Telecom (Shenzhen). You distribute PLANET in Italy and run your own 4Net brand, so you know exactly what Taiwan-grade PoE costs. One question: for 4Net, do you buy PoE switches as finished goods under your label today, or only resell PLANET as-is? If the former: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based, $80.7 USD EXW at distributor tier (MOQ 1, 15-day validity), 4Net logo free, colour box from 200 sets."
   },
   "as_of": "2026-10-24"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "Planet 渠道档案 PA-001 评 A（真实需求 + 具名联系人 + 体量可赢，规则 INH）；Saga 表内未互动故自动评 B，按调研提升",
+   "reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A"
+  }
+ ]
 }

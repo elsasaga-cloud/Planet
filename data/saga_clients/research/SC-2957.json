@@ -17,5 +17,57 @@
  ],
  "researched_at": "2026-10-29",
  "country_fix": "捷克",
- "notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。"
+ "notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。",
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "B",
+   "prev_reason": "",
+   "reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 捷克（欧洲）· 自有品牌商 OEM 30%（长线）：Conexpro（conexpro.com About / Contact 直取：ISP / 安装商全线网络配件品牌，PoE 交换机 / SFP / 注入器 / 机柜 / 电池；Hřbitovní 1479/25, 312 00 Plzeň；info@conexpro.com；多国分销）部分坐实（IČO 未取，法人疑 i4wifi a.s.…；闸 1：俄罗斯 ConexPro（conexpro.com 正常；Simon 二筛备注「基本是全线帧田的」✔ = 自有品牌、全线自中国 OEM；无邮箱）：俄罗斯点名区 ✔ 自有品牌 OEM 对象 ✔ 对位 ✔ 公司可坐实 ✔ → 闸 2 查底数（…"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 捷克（欧洲）· 自有品牌商 OEM 30%（长线）：Conexpro（conexpro.com About / Contact 直取：ISP / 安装商全线网络配件品牌，PoE 交换机 / SFP / 注入器 / 机柜 / 电池；Hřbitovní 1479/25, 312 00 Plzeň；info@conexpro.com；多国分销）部分坐实（IČO 未取，法人疑 i4wifi a.s.…；闸 1：俄罗斯 ConexPro（conexpro.com 正常；Simon 二筛备注「基本是全线帧田的」✔ = 自有品牌、全线自中国 OEM；无邮箱）：俄罗斯点名区 ✔ 自有品牌 OEM 对象 ✔ 对位 ✔ 公司可坐实 ✔ → 闸 2 查底数（…",
+ "lt_review": {
+  "status": "留 B",
+  "batch": "LT-R02",
+  "prio": 1,
+  "queued": "LT-R02",
+  "verdict_date": "2026-10-29",
+  "note": "桌面复核（闸 2 证据充分，三问成立）：★ 捷克（欧洲）· 自有品牌商 OEM 30%（长线）：Conexpro（conexpro.com About / Contact 直取：ISP / 安装商全线网络配件品牌，PoE 交换机 / SFP / 注入器 / 机柜 / 电池；Hřbitovní 1479/25, 312 00 Plzeň；info@conexpro.com；多国分销）部分坐实（IČO 未取，法人疑 i4wifi a.s.）；表内「俄罗斯」→ 实为捷克 = 国别纠…",
+  "why": "C 升 B（池位 ★，坐实）→ 深挖：官网 / 进口数据 / 项目，确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备"
+ },
+ "mail_review": {
+  "as_of": "2026-10-29",
+  "binding": {
+   "level": "未绑定（C 池捞出，仓内无往来记录）",
+   "basis": "三闸：闸 0 活着 + 闸 1 对位候选 + 闸 2 坐实 / 部分坐实"
+  },
+  "situation": "C 池三闸捞出 → B（LT-01）：★ 捷克（欧洲）· 自有品牌商 OEM 30%（长线）：Conexpro（conexpro.com About / Contact 直取：ISP / 安装商全线网络配件品牌，PoE 交换机 / SFP / 注入器 / 机柜 / 电池；Hřbitovní 1479/25, 312 00 Plzeň；info@conexpro.com；多国分销）部分坐实（IČO 未取，法人疑 i4wifi a.s.…",
+  "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
+  "breakpoint": "无往来（从未触达或仅群发无回）",
+  "saga_now": {
+   "p1": "",
+   "why": "待复核后按业务线定首推型号"
+  },
+  "next_move": {
+   "when": "不动：LT-01 复核（待过）后再定",
+   "channel": "—",
+   "action": "长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备"
+  },
+  "facts": [
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 三闸（sieve.json）",
+    "quote": "★ 捷克（欧洲）· 自有品牌商 OEM 30%（长线）：Conexpro（conexpro.com About / Contact 直取：ISP / 安装商全线网络配件品牌，PoE 交换机 / SFP / 注入器 / 机柜 / 电池；Hřbitovní 1479/25, 312 00 Plzeň；info@conexpro.com；多国分销）部分坐实（IČO 未取，法人疑 i4wifi a.s.）；表内「俄罗斯」→ 实为捷克 = 国别纠偏待 Simon；Simon 二筛「全线帧田」= 已用中国 OEM ✔ 欧洲 ✔ 邮箱 ✔ → P 池候选（Simon 原「判定不行」可否决）",
+    "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   }
+  ],
+  "proof_gaps": [
+   "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
+  ]
+ }
 }

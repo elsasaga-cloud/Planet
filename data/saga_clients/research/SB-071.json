@@ -56,8 +56,8 @@
    "source": "https://www.zoominfo.com/p/Mark-Delapaz/-1345711402"
   }
  ],
- "grade_override": "B",
- "override_reason": "同 SB-067 逻辑：在采同类国产工业交换机但无回复、菲律宾非主攻区 → B。",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来",
  "notes": "一封'迈威对位 STI 工业线'邮件。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -224,5 +224,15 @@
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "同 SB-067 逻辑：在采同类国产工业交换机但无回复、菲律宾非主攻区 → B。",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来"
+  }
+ ]
 }

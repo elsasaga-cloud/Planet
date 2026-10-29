@@ -30,8 +30,8 @@
    "source": "https://www.iberinform.es/empresa/1753516/suministros-industriales-mp4"
   }
  ],
- "grade_override": "B",
- "override_reason": "品类不符（工业 MRO/自动化配件商，无网络产品线），仅 1 次回复后 18 次推送无果；S 重点名单身份保留在档，若用户坚持可在 人工定级.csv 改回 A。",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A4 Simon 点名",
  "notes": "",
  "researched_at": "2026-10-21",
  "deep": {
@@ -116,5 +116,15 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "品类不符（工业 MRO/自动化配件商，无网络产品线），仅 1 次回复后 18 次推送无果；S 重点名单身份保留在档，若用户坚持可在 人工定级.csv 改回 A。",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A4 Simon 点名"
+  }
+ ]
 }

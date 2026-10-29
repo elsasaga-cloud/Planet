@@ -165,5 +165,15 @@
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-25"
- }
+ },
+ "lt_review": {
+  "status": "留 B",
+  "batch": "LT-R04",
+  "prio": 2,
+  "queued": "LT-R04",
+  "verdict_date": "2026-10-29",
+  "note": "桌面复核（研究档类型 + 对位首推）：IT 分销商（阿联酋，Vivotek 工业 PoE 在售）；切入：在售 Vivotek 工业 PoE → 工业管理 8 PoE + 2 SFP STI-288GPM（$78.9 @20%）；商用 CCTV PoE 位 STC-28DGGPM / STC-424DGGPM-280W；行业内 ✔ 对位 ✔（宽留冷「不对位」系 fit 标志未回填，非真不对位）",
+  "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
+ },
+ "override_history": []
 }

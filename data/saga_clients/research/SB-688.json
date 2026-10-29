@@ -155,5 +155,15 @@
    "body": "Hello,\n\nWe have sent you a few mails on \"10G Enterprise SFP Switch\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the Lantech industrial switches in your Endüstriyel Network line, we supply Marvell-based DIN-rail 8-PoE + 2 SFP managed and 8-GE + 4×10G L3 units (−40~75 °C, CE/RoHS, neutral packing) from small lots as a budget line, EXW USD — which Lantech port count do your factory projects use most?\n\nReference price: DIN-rail 8-PoE + 2 SFP L2 managed industrial switch, 240 W (STI-288GPM) $82.2 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "lt_review": {
+  "status": "留 B",
+  "batch": "LT-R04",
+  "prio": 2,
+  "queued": "LT-R04",
+  "verdict_date": "2026-10-29",
+  "note": "桌面复核（研究档类型 + 对位首推）：网络与工业网络方案商（土耳其，Lantech 在售）；切入：在售 Lantech 工业管理交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）/ L3 工业 STI-448XGGGPM(L3)（$370.0）作预算线；变电站（IEC 61850）/ 轨道（EN50155）场景不涉；行业内 ✔ 对位 ✔（宽留冷「不对位」系 fit 标志未回填，非真不对位）",
+  "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 读而不回））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
+ },
+ "override_history": []
 }

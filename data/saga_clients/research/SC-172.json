@@ -40,8 +40,8 @@
   }
  ],
  "kp": [],
- "grade_override": "C",
- "override_reason": "同行/台湾厂商：COP Security（自产 CCTV/网络，OEM/ODM），非渠道客户；c_sub=同行/台湾厂商",
+ "grade_override": "B",
+ "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 监控厂 · OEM 30%：COP Security System Corp.（新北新店；1992；$14.5M；联系人 Tony Jiang）部分坐实（統編未取）；制造商 ✔ 具名联系人 ✔ 对位 ✔ → P 池候选；闸 1：台湾 COP Security（cop-security.com；1992 起自有品牌 CCTV，表内「工业交换机 ONV 的」= 配套 PoE / 工业机外购中国品牌）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔；2 次…",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
@@ -71,5 +71,55 @@
   "tier": 30,
   "why": "台湾厂商（自产 CCTV/网络产品，OEM/ODM 身份），非渠道客户 → 改 C"
  },
- "email_hook": "（不发送：台湾厂商/同行）"
+ "email_hook": "（不发送：台湾厂商/同行）",
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": "C",
+   "to": "B",
+   "prev_reason": "同行/台湾厂商：COP Security（自产 CCTV/网络，OEM/ODM），非渠道客户；c_sub=同行/台湾厂商",
+   "reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 监控厂 · OEM 30%：COP Security System Corp.（新北新店；1992；$14.5M；联系人 Tony Jiang）部分坐实（統編未取）；制造商 ✔ 具名联系人 ✔ 对位 ✔ → P 池候选；闸 1：台湾 COP Security（cop-security.com；1992 起自有品牌 CCTV，表内「工业交换机 ONV 的」= 配套 PoE / 工业机外购中国品牌）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔；2 次…"
+  }
+ ],
+ "lt_review": {
+  "status": "留 B",
+  "batch": "LT-R03",
+  "prio": 1,
+  "queued": "LT-R03",
+  "verdict_date": "2026-10-29",
+  "note": "桌面复核（闸 2 证据，三问成立）：★ 监控厂 · OEM 30%：COP Security System Corp.（新北新店；1992；$14.5M；联系人 Tony Jiang）部分坐实（統編未取）；制造商 ✔ 具名联系人 ✔ 对位 ✔ → P 池候选",
+  "why": "C 升 B（池位 ★，坐实）→ 深挖：官网 / 进口数据 / 项目，确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备"
+ },
+ "mail_review": {
+  "as_of": "2026-10-29",
+  "binding": {
+   "level": "未绑定（C 池捞出，仓内无往来记录）",
+   "basis": "三闸：闸 0 活着 + 闸 1 对位候选 + 闸 2 坐实 / 部分坐实"
+  },
+  "situation": "C 池三闸捞出 → B（LT-01）：★ 监控厂 · OEM 30%：COP Security System Corp.（新北新店；1992；$14.5M；联系人 Tony Jiang）部分坐实（統編未取）；制造商 ✔ 具名联系人 ✔ 对位 ✔ → P 池候选",
+  "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
+  "breakpoint": "无往来（从未触达或仅群发无回）",
+  "saga_now": {
+   "p1": "",
+   "why": "待复核后按业务线定首推型号"
+  },
+  "next_move": {
+   "when": "不动：LT-01 复核（待过）后再定",
+   "channel": "—",
+   "action": "长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备"
+  },
+  "facts": [
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 三闸（sieve.json）",
+    "quote": "★ 监控厂 · OEM 30%：COP Security System Corp.（新北新店；1992；$14.5M；联系人 Tony Jiang）部分坐实（統編未取）；制造商 ✔ 具名联系人 ✔ 对位 ✔ → P 池候选",
+    "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   }
+  ],
+  "proof_gaps": [
+   "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
+  ]
+ }
 }

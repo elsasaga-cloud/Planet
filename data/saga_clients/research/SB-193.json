@@ -55,8 +55,8 @@
    "source": "https://www.northdata.de/DEMA%20Vertriebs-GmbH,%20Unterm%C3%BCnkheim"
   }
  ],
- "grade_override": "B",
- "override_reason": "2026-10-25 第 77 批（T29-U56 Simon「值得捞的处理一下」）：C → B。理由：2025-06-10 Markus Geck 真人回信问 8/24 口的起订量与价，Alan 发了整表但没答「数量」，之后只收群发——是我方欠跟，不是对方没兴趣；DEMA 是自有品牌（DEMA / Fix Aktiv）进口商 + 德国（四主之一），按《背景信息》顺序属「OEM 品牌商 / 有进口经验者」。原 C 理由保留备查：2026-10-21 核实：DEMA 为五金/园艺/农用品电商与进口集团（Stabilo 连锁，>1,200 人、>€300M），无网络设备品类 → C（子原因：行业外 + 规模大）",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌",
  "notes": "（无首轮调研；由 deepen.py 建档）｜第 77 批：C→B（见 override_reason）；2026-11 回 2025-06-10 原线程补答「数量」+ 现价 + 自有品牌贴标一句。",
  "deep": {
   "done_at": "2026-10-21",
@@ -160,5 +160,15 @@
    "subject": "Re: 16 Port Ethernet Switch",
    "body": "Hello Markus,\n\nIn June 2025 you asked two things about the DIN-rail copper switches - the purchase quantities and the price for the 8-port and 24-port units. We sent you the full list but never answered the quantity question properly - apologies, here it is.\n\n- Quantities: MOQ is 1 unit. Samples and small lots are fine; larger lots get a quantity price on request.\n- 8 x Gigabit DIN-rail, 12-58 V DC, -40 to 75 C, unmanaged - model STI-080GE - $31.4 USD EXW (MOQ 1, 15-day validity); it was $32.5 on the June-2025 list.\n- 24 x Gigabit DIN-rail unmanaged - model STI-0240GE - $130 USD EXW (MOQ 1, 15-day validity), built to order, 4-7 working days.\n- 8 x Gigabit PoE+ DIN-rail unmanaged, in case PoE is the version you meant - model STI-088GP - $42.2 USD EXW (MOQ 1, 15-day validity).\n\nCE/RoHS, 3-year warranty. If these are for your own-brand range (DEMA / Fix Aktiv): the logo on the unit is free; a colour box is available from 200 sets.\n\nOne question: is the switch for your own-brand range in the Stabilo stores and web shops, or for an installation of your own? That decides whether I send the own-label sample or the plain one.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   }
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "2026-10-25 第 77 批（T29-U56 Simon「值得捞的处理一下」）：C → B。理由：2025-06-10 Markus Geck 真人回信问 8/24 口的起订量与价，Alan 发了整表但没答「数量」，之后只收群发——是我方欠跟，不是对方没兴趣；DEMA 是自有品牌（DEMA / Fix Aktiv）进口商 + 德国（四主之一），按《背景信息》顺序属「OEM 品牌商 / 有进口经验者」。原 C 理由保留备查：2026-10-21 核实：DEMA 为五金/园艺/农用品电商与进口集团（Stabilo 连锁，>1,200 人、>€300M），无网络设备品类 → C（子原因：行业外 + 规模大）",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌"
+  }
+ ]
 }

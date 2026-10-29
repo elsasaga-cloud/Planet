@@ -39,8 +39,8 @@
    "source": "data/gmail_a/messages/<year>/<month>.jsonl"
   }
  ],
- "grade_override": "B",
- "override_reason": "2026-10-25 第 77 批（T29-U56 Simon「值得捞的处理一下」）：C → B。理由：英国品牌商 VP Product Management 两次具名提问（2025-04 定制/芯片；2026-01 2.5G/供电/REST/样机），Alan 2026-01-22 的答复含一个未兑现承诺（REST/JSON Q2）——欠一封收尾信；《背景信息》把 OEM 品牌商排第一。原 C 来自 INH 体量规则（-45 巨头/品牌厂商），Simon 备注「加不上 比较专业」。B = 慢慢跟进：仍只发 Q-55 规定的那一封收尾信，不进群发。",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌",
  "notes": "巨头规则（INH：体量不匹配）→ C 不动；但这是仓内少有的英国品牌商 VP 两次具名提问，按 Q-55「巨头例外档」处理：档案齐全，只允许一封收尾信（把 2026-01-22 的 REST 承诺交代清楚），不进群发。flags.wa_failed=1（WhatsApp 加不上）。｜第 77 批：C→B（见 override_reason）；收尾信不变，2026-11 发。",
  "deep": {
   "done_at": "2026-10-24",
@@ -164,5 +164,15 @@
    "subject": "Re: OEM Core Switching Solution — closing two loops from January",
    "body": "Hello Mark,\n\nTwo things from my January reply that I owe you a straight update on.\n\n1. The management interface: I wrote that a RESTful API with JSON would be available in Q2. What shipped in the 2026/Q2 software is an RPC-based management API plus SNMP v3 and CLI — not REST/JSON. Please do not plan on REST from our side; I would rather say so than let the Q2 line stand.\n\n2. 2.5G on SFP+: my \"NO\" was correct only for the CENTEC STH10G. On our Marvell AC5 line the SFP+ cages run at 1G/2.5G/10G (for example 24 x GbE + 4 x SFP+, or the industrial 8 x GbE + 4 x SFP+ at -40 to +75 C), and the DG models carry 1G/2.5G SFP. I should have said that in January. Copper ports on that line are 1G; if the requirement is multi-gig copper, we have two ways: the commercial Realtek line (8 x 2.5G PoE + 10G SFP web-managed at $66 USD EXW, 24 x 2.5G PoE++ L3 at $466.4 USD EXW, single PSU) or, on request and not on our published list, CENTEC-based 24/48 x 2.5G/5G/10G Base-T units with PoE++ and dual PSU.\n\nOne question: what is the application behind the 2.5G requirement — ONT/CPE uplinks, or something else? That tells me whether a sample (3-5 working days) is worth your time.\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
   }
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "2026-10-25 第 77 批（T29-U56 Simon「值得捞的处理一下」）：C → B。理由：英国品牌商 VP Product Management 两次具名提问（2025-04 定制/芯片；2026-01 2.5G/供电/REST/样机），Alan 2026-01-22 的答复含一个未兑现承诺（REST/JSON Q2）——欠一封收尾信；《背景信息》把 OEM 品牌商排第一。原 C 来自 INH 体量规则（-45 巨头/品牌厂商），Simon 备注「加不上 比较专业」。B = 慢慢跟进：仍只发 Q-55 规定的那一封收尾信，不进群发。",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌"
+  }
+ ]
 }

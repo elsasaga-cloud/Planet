@@ -40,8 +40,8 @@
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "Q-76 LT-R04 2026-10-29 复核打回 C 储备：netsolutions（澳大利亚）：Extreme Networks 专营网店，白牌契合度低、预期低 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
@@ -126,5 +126,24 @@
    "body": "Hello,\n\nWe have sent you a few mails on \"Marvell Industrial Alert System\" and you never had a reason to answer — fair enough. No brochure this time, just one question:\n\nAlongside the Extreme range you specialise in, we can supply a neutral-brand Marvell-based 24-GE + 4×10G L2+ switch and 8/24-port PoE models from small lots for budget-tier requests — do you get asked for a lower-cost edge switch often enough to list one?\n\nReference price: 24-GE + 4 × 10G SFP+ L2+ managed switch (Marvell AC5) (STC-424XGGM) $127.4 USD EXW, MOQ 1 pc, 15-day validity, 1-year warranty.\n\nIf it is not relevant now, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "lt_review": {
+  "status": "打回 C",
+  "batch": "LT-R04",
+  "prio": 2,
+  "queued": "LT-R04",
+  "verdict_date": "2026-10-29",
+  "note": "netsolutions（澳大利亚）：Extreme Networks 专营网店，白牌契合度低、预期低 → C 储备",
+  "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 读而不回））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
+ },
+ "override_history": [
+  {
+   "batch": "LT-R04",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "C",
+   "prev_reason": "",
+   "reason": "netsolutions（澳大利亚）：Extreme Networks 专营网店，白牌契合度低、预期低 → C 储备"
+  }
+ ]
 }

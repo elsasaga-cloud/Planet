@@ -47,8 +47,8 @@
    "source": "https://www.dnb.com/business-directory/company-profiles/rovez-sro.5b2132d62801505d075735db36808cde ; https://www.rovez.sk/"
   }
  ],
- "grade_override": "B",
- "override_reason": "有样品单但 3–4 人微型集成商、样品后 13 次推送无回应，体量不支持长期投入；B 慢跟（半年一次回访即可）。",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A1 复购/绑定≥中度；A2 成单/样品/PI+真人往来",
  "notes": "",
  "researched_at": "2026-10-21",
  "deep": {
@@ -131,5 +131,15 @@
    "body": "Hello Rovez team,\n\nOver the past months you had a few product mails from us - most recently \"24 Port PoE Managed Switch\" on 2 September 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nYou took a sample of our industrial PoE switch after the show; this is the follow-on for the Avigilon sites, where the per-port budget matters. EXW, MOQ 1, 15-day validity, CE/RoHS: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based, 30 W (802.3at) per port - model STC-28DGGPM - $84.1 USD; 24 x PoE+ + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $140.1 - the budget is 280 W total, so plan PTZ heads against it rather than assuming 30 W on all 24; for outdoor cabinets, DIN-rail 8 x PoE+ + 2 x SFP with ring redundancy - STI-288DGGPM - $137.5.\n\nOne question: how did the sample behave in your test - and is the next site 8-port cabinets or a 24-port head end?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "有样品单但 3–4 人微型集成商、样品后 13 次推送无回应，体量不支持长期投入；B 慢跟（半年一次回访即可）。",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A1 复购/绑定≥中度；A2 成单/样品/PI+真人往来"
+  }
+ ]
 }

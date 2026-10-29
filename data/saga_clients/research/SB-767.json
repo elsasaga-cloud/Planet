@@ -48,8 +48,8 @@
    "source": "用户表"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A6 真回≥3+对位（任何区域）",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
@@ -349,5 +349,15 @@
    "body": "Hi, Steve,\n\nIn August the six 400G units with QSFP112 modules were ready to ship, and you were updating your senior manager. Since then no news, which usually means the customer's budget moved.\n\nThe March price ($107,675 for 6 units + modules) was tied to that production batch; a new order is re-quoted on the current batch, so please do not plan on the old number.\n\nOne question: is the 400G project still on your customer's 2026 plan, or should we park it until their next budget cycle?\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A6 真回≥3+对位（任何区域）"
+  }
+ ]
 }

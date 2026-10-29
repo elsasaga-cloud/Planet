@@ -131,5 +131,12 @@
    "body": "Following ISAF: for your security-distribution catalogue, 2× SFP + 8× GbE PoE L2 managed at $71.0 list EXW (unmanaged $33.2), neutral packing — would you like me to quote delivered-to-Belgrade for a first 20-unit lot, or does purchasing run through Prague?"
   },
   "as_of": "2026-10-24"
+ },
+ "lt_review": {
+  "batch": "LT-01",
+  "status": "待过",
+  "prio": 2,
+  "date": "2026-10-29",
+  "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 ✔，绑定 轻度触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  }
 }

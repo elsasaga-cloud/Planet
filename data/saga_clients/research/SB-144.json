@@ -34,8 +34,8 @@
    "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -131,5 +131,15 @@
    "body": "Hi Robert,\n\nPicking up your note of 2026-03-30 (\"do you manufacture your own products or OEM them from another factory? I visited your website, but I could not…\"). Instead of another catalog mail, one question:\n\nFor the multi-residential projects you bid on, which PoE access switch spec do the consultants write in, so we can match it line by line?\n\nReference price: STC-424XGGPM-280W (24× GE PoE+ 280 W + 4× 10G SFP+, L2+) at $180 USD EXW, MOQ 1 pc, 15-day validity — the $170 in our August mail was the launch price.\n\nIf there is no live project, just say so and I will stop here.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来"
+  }
+ ]
 }

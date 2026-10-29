@@ -25,8 +25,8 @@
    "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 国别更正为「吉尔吉斯斯坦」（country_fix）：唯一身份 = WhatsApp +996 555 772975（吉尔吉斯国家码，长度相符）；研究档 hq 已按 +996 推断（Q-65 国别机检 2026-10-27）",
  "deep": {
   "done_at": "2026-10-21",
@@ -134,5 +134,15 @@
   "draft_en": null,
   "as_of": "2026-10-24"
  },
- "country_fix": "吉尔吉斯斯坦"
+ "country_fix": "吉尔吉斯斯坦",
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）"
+  }
+ ]
 }

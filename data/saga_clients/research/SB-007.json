@@ -25,8 +25,8 @@
    "source": "S 邮箱 2024 来信表头 + 附件 DI order #1.xls"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "Q-76 LT-01 2026-10-29：守界（乌克兰）→ C 储备，不发不跟，战后再看；c_sub=储备·守界 ；宽留冷命中：守界（乌克兰）",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -174,5 +174,15 @@
    "body": "Hi Sergiy,\n\nTwo years ago your first test order (DI order #1, 20 Nov 2024) stopped on the question of who we are. The plain answer today: Saga is an engineering-led supplier — the Marvell managed line is our own platform (firmware, web GUI with your logo, feature roadmap), the low-cost unmanaged items are sourced from partner factories under our QC. We do not pretend to own the SMT line.\n\nOne question: are the Marvell items in that BO still worth shipping with your label, 7–10 working days after payment, as quoted then? If yes, I will re-issue the proforma at current prices; if no, I will close the file.\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "C",
+   "prev_reason": "",
+   "reason": "Q-76 LT-01 2026-10-29：守界（乌克兰）→ C 储备，不发不跟，战后再看；c_sub=储备·守界 ；宽留冷命中：守界（乌克兰）"
+  }
+ ]
 }

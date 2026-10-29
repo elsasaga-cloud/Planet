@@ -142,5 +142,15 @@
    "body": "Hi, Jacco,\n\nLast March you asked for prices for 8-port industrial PoE for outdoor cameras and we sent two price lists without asking anything back.\n\n- STI-288DGGPM: 8x GbE PoE + 2x SFP, L2+ managed, DIN, -40 to +75 C — $137.5 USD EXW\n- STC-28DGGPM: same ports, commercial, desktop — $84.1 USD EXW\n(2026-10 price table, valid 15 days from this mail)\n\nOne question: did any model reach a shortlist — and if not, was it price, the PSU, or lead time?\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "lt_review": {
+  "status": "留 B",
+  "batch": "LT-R04",
+  "prio": 2,
+  "queued": "LT-R04",
+  "verdict_date": "2026-10-29",
+  "note": "桌面复核（研究档类型 + 对位首推）：安防集成/经销商；切入：自进口安装商：STC-28DGGPM（全口 30W 配 4K 摄像）为主、STC-424DGGPM-280W 为多摄像点；25% 档（自进口亦可按 20% 谈量）；行业内 ✔ 对位 ✔（宽留冷「不对位」系 fit 标志未回填，非真不对位）",
+  "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 2，WA ✔，展会 —，绑定 未绑定））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
+ },
+ "override_history": []
 }

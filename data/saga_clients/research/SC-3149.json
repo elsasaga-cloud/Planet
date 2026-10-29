@@ -1,95 +1,114 @@
 {
-  "code": "SC-3149",
-  "name_official": "Starcom Technologies（巴基斯坦；Asghar Ali）",
-  "researched_at": "2026-10-25",
-  "website_status": "未查",
-  "summary": "Elsa 邮箱 1 线程：2026-02-26「Updated Ethernet Switches Links」→ 同日真人回「Please send us email from your company Email domain. Like SAGA web site. Not from Gmail. We not do business with Gmail email senders.」——无回复。用户表「用户判定不行」。",
-  "type": "巴基斯坦 IT 分销",
-  "size": "",
-  "brands_seen": [],
-  "evidence": [],
-  "kp": [
-    {
-      "name": "Asghar Ali",
-      "title": "",
-      "email": "ali@starcom.net.pk / info@starcom.com.pk",
-      "phone": "",
-      "source": "Elsa 邮箱 2026-02-26"
-    }
-  ],
-  "grade_override": null,
-  "override_reason": "",
-  "notes": "（建档：第 77 批 C 薄切片，T29-U56；证据全部来自 Elsa 邮箱 `data/gmail_e/text/` + `index_replied.jsonl`）",
-  "deep": {
-    "done_at": "2026-10-25",
-    "level": "仅 Elsa 邮箱证据"
-  },
-  "company_facts": {
-    "legal_name": "Starcom Technologies",
-    "founded": "",
-    "hq": "巴基斯坦",
-    "size": "",
-    "other": ""
-  },
-  "channels": {
-    "role": "巴基斯坦 IT 分销",
-    "region": "巴基斯坦"
-  },
-  "risks": [
-    "只接受域名邮箱来信——Gmail 三箱都发不了；要用 alan@sagatele.com（站上公开的域名邮箱）",
-    "Simon 用户表已判「不行」"
-  ],
-  "saga_fit": {
-    "p1": "—",
-    "tier": null,
-    "why": "先过域名邮箱这一关"
-  },
-  "email_hook": "（见 mail_review.draft_en）",
-  "mail_review": {
-    "as_of": "2026-10-25",
-    "binding": {
-      "level": "Elsa 1:1 去信 1 轮 + 真人回 1 封（2026-02-26，要求域名邮箱）；未回；C 不改",
-      "type": "巴基斯坦分销",
-      "sieve": "1",
-      "stop": "对方不收 Gmail；我们没有从域名邮箱再发",
-      "revive": "若 Simon 愿意：从 alan@sagatele.com 发两行；否则放弃",
-      "lane": "巴基斯坦（非主战场）",
-      "cadence": "一次",
-      "evidence": "`data/gmail_e/text/19c98c6db0a514dc.json`"
-    },
-    "situation": "对方只和域名邮箱做生意；Elsa 的 Gmail 被拒。sagatele.com 站上公开的是 alan@sagatele.com。",
-    "need": "不明（只到邮箱门槛）",
-    "breakpoint": "2026-02-26 起无域名邮箱去信",
-    "saga_now": {
-      "p1": "—",
-      "tier": null,
-      "price": "不报价",
-      "why": "先过邮箱门槛",
-      "repeat": "无",
-      "gaps": "需求不明"
-    },
-    "next_move": {
-      "when": "待 Simon 排期（需从 alan@sagatele.com 发；Simon 用户表判「不行」，可放弃）",
-      "channel": "alan@sagatele.com → ali@starcom.net.pk（新信，主题沿用「Ethernet Switches - from our company domain」）",
-      "action": "两行：按他要求改从域名邮箱来；一问他们代理哪些品牌/要哪类机（第 77 批 2026-10-25 T29-U56「值得捞的处理一下」）",
-      "one_question": "Which switch categories do you actually stock - industrial PoE, commercial managed, or 10G aggregation?"
-    },
-    "facts": [
-      {
-        "date": "2026-02-26",
-        "dir": "来",
-        "who": "Asghar Ali（Starcom Technologies）",
-        "quote": "Please send us email from your company Email domain. Like SAGA web site. Not from Gmail. We not do business with Gmail email senders.",
-        "why": "门槛式回复；三箱 Gmail 都过不了，只有 alan@sagatele.com 能发",
-        "k": "gmail_e 19c98c6db0a514dc"
-      }
-    ],
-    "proof_gaps": [
-      "需求不明"
-    ],
-    "draft_en": {
-      "subject": "Ethernet Switches - from our company domain",
-      "body": "Hello Ali,\n\nYou asked in February that we write from our company domain rather than Gmail - fair enough, this is it. Saga Telecom (sagatele.com) supplies Marvell-based managed switches, Realtek-based commercial units and CENTEC-based 10G/100G aggregation, all under our own or your label.\n\nOne question: which switch categories do you actually stock - industrial PoE, commercial managed, or 10G aggregation? Then I send one page, not a catalogue.\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
-    }
+ "code": "SC-3149",
+ "name_official": "Starcom Technologies（巴基斯坦；Asghar Ali）",
+ "researched_at": "2026-10-25",
+ "website_status": "未查",
+ "summary": "Elsa 邮箱 1 线程：2026-02-26「Updated Ethernet Switches Links」→ 同日真人回「Please send us email from your company Email domain. Like SAGA web site. Not from Gmail. We not do business with Gmail email senders.」——无回复。用户表「用户判定不行」。",
+ "type": "巴基斯坦 IT 分销",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [],
+ "kp": [
+  {
+   "name": "Asghar Ali",
+   "title": "",
+   "email": "ali@starcom.net.pk / info@starcom.com.pk",
+   "phone": "",
+   "source": "Elsa 邮箱 2026-02-26"
   }
+ ],
+ "grade_override": "B",
+ "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 巴基斯坦 · 集成 25% + 预付 100%：Starcom Technologies (Pvt) Ltd（Karachi Saddar；2004；22–32 人；$5.3M；CEO Asghar Ali）部分坐实（SECP 未取）；2026-02 真人回「请用公司域名邮箱发」✔ Raisecom 采购 ✔ 对位 ✔ 决策人具名 ✔ → P 池候选（用 sagatele.com 域名重发）；闸 1：巴基斯坦 Starcom（starcom.com.pk / starcom.net.pk；switch + 安防，从 Raisecom 买一些产品；OTN 方案商；2026-02-26 真人回「Please send us email f…",
+ "notes": "（建档：第 77 批 C 薄切片，T29-U56；证据全部来自 Elsa 邮箱 `data/gmail_e/text/` + `index_replied.jsonl`）",
+ "deep": {
+  "done_at": "2026-10-25",
+  "level": "仅 Elsa 邮箱证据"
+ },
+ "company_facts": {
+  "legal_name": "Starcom Technologies",
+  "founded": "",
+  "hq": "巴基斯坦",
+  "size": "",
+  "other": ""
+ },
+ "channels": {
+  "role": "巴基斯坦 IT 分销",
+  "region": "巴基斯坦"
+ },
+ "risks": [
+  "只接受域名邮箱来信——Gmail 三箱都发不了；要用 alan@sagatele.com（站上公开的域名邮箱）",
+  "Simon 用户表已判「不行」"
+ ],
+ "saga_fit": {
+  "p1": "—",
+  "tier": null,
+  "why": "先过域名邮箱这一关"
+ },
+ "email_hook": "（见 mail_review.draft_en）",
+ "mail_review": {
+  "as_of": "2026-10-25",
+  "binding": {
+   "level": "Elsa 1:1 去信 1 轮 + 真人回 1 封（2026-02-26，要求域名邮箱）；未回；C 不改",
+   "type": "巴基斯坦分销",
+   "sieve": "1",
+   "stop": "对方不收 Gmail；我们没有从域名邮箱再发",
+   "revive": "若 Simon 愿意：从 alan@sagatele.com 发两行；否则放弃",
+   "lane": "巴基斯坦（非主战场）",
+   "cadence": "一次",
+   "evidence": "`data/gmail_e/text/19c98c6db0a514dc.json`"
+  },
+  "situation": "对方只和域名邮箱做生意；Elsa 的 Gmail 被拒。sagatele.com 站上公开的是 alan@sagatele.com。",
+  "need": "不明（只到邮箱门槛）",
+  "breakpoint": "2026-02-26 起无域名邮箱去信",
+  "saga_now": {
+   "p1": "—",
+   "tier": null,
+   "price": "不报价",
+   "why": "先过邮箱门槛",
+   "repeat": "无",
+   "gaps": "需求不明"
+  },
+  "next_move": {
+   "when": "待 Simon 排期（需从 alan@sagatele.com 发；Simon 用户表判「不行」，可放弃）",
+   "channel": "alan@sagatele.com → ali@starcom.net.pk（新信，主题沿用「Ethernet Switches - from our company domain」）",
+   "action": "两行：按他要求改从域名邮箱来；一问他们代理哪些品牌/要哪类机（第 77 批 2026-10-25 T29-U56「值得捞的处理一下」）",
+   "one_question": "Which switch categories do you actually stock - industrial PoE, commercial managed, or 10G aggregation?"
+  },
+  "facts": [
+   {
+    "date": "2026-02-26",
+    "dir": "来",
+    "who": "Asghar Ali（Starcom Technologies）",
+    "quote": "Please send us email from your company Email domain. Like SAGA web site. Not from Gmail. We not do business with Gmail email senders.",
+    "why": "门槛式回复；三箱 Gmail 都过不了，只有 alan@sagatele.com 能发",
+    "k": "gmail_e 19c98c6db0a514dc"
+   }
+  ],
+  "proof_gaps": [
+   "需求不明"
+  ],
+  "draft_en": {
+   "subject": "Ethernet Switches - from our company domain",
+   "body": "Hello Ali,\n\nYou asked in February that we write from our company domain rather than Gmail - fair enough, this is it. Saga Telecom (sagatele.com) supplies Marvell-based managed switches, Realtek-based commercial units and CENTEC-based 10G/100G aggregation, all under our own or your label.\n\nOne question: which switch categories do you actually stock - industrial PoE, commercial managed, or 10G aggregation? Then I send one page, not a catalogue.\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
+  }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "B",
+   "prev_reason": "",
+   "reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 巴基斯坦 · 集成 25% + 预付 100%：Starcom Technologies (Pvt) Ltd（Karachi Saddar；2004；22–32 人；$5.3M；CEO Asghar Ali）部分坐实（SECP 未取）；2026-02 真人回「请用公司域名邮箱发」✔ Raisecom 采购 ✔ 对位 ✔ 决策人具名 ✔ → P 池候选（用 sagatele.com 域名重发）；闸 1：巴基斯坦 Starcom（starcom.com.pk / starcom.net.pk；switch + 安防，从 Raisecom 买一些产品；OTN 方案商；2026-02-26 真人回「Please send us email f…"
+  }
+ ],
+ "lt_review": {
+  "status": "留 B",
+  "batch": "LT-R03",
+  "prio": 1,
+  "queued": "LT-R03",
+  "verdict_date": "2026-10-29",
+  "note": "桌面复核（闸 2 证据，三问成立）：○ 巴基斯坦 · 集成 25% + 预付 100%：Starcom Technologies (Pvt) Ltd（Karachi Saddar；2004；22–32 人；$5.3M；CEO Asghar Ali）部分坐实（SECP 未取）；2026-02 真人回「请用公司域名邮箱发」✔ Raisecom 采购 ✔ 对位 ✔ 决策人具名 ✔ → P 池候选（用 sagatele.com 域名重发）",
+  "why": "C 升 B（池位 ○，部分坐实 / 未坐实）→ 深挖：官网 / 进口数据 / 项目，确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备"
+ }
 }

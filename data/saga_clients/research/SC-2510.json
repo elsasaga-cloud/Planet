@@ -36,8 +36,8 @@
   }
  ],
  "kp": [],
- "grade_override": "C",
- "override_reason": "用户判定不行/不相关（尊重用户表判断，保留 C）；Planet 渠道档案 PB-051 评 B 仅作参考",
+ "grade_override": "B",
+ "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★★ 首选 · OEM 30%：ELTROX Sp. z o.o.（KRS 0000175807；NIP 6462490527；Częstochowa；2003 起；36 直营 + 52 合作门店；批发品牌 Hurton；自有品牌 KENIK / GetFort 含网络设备；进口商）坐实；对位 ✔ 波兰次主区 ✔ 品牌商 ✔ 进口商 ✔ 体量 ✔ → P 池候选（采购 KP 待取；与 Plane…；闸 1：波兰 Eltrox / getfort（全国性安防分销 + 连锁门店，MikroTik Master；Planet 仓 PB-051 评 B）→ 波兰次主区 + 分销体量；Simon 判不行 → 闸 2 查底数（并线 PB-051）",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -86,5 +86,55 @@
   "tier": 20,
   "why": "监控分销商主力场景为 8–16 路摄像头 PoE；FNSW-1600P 为 16 口 FE PoE 非管理（Saga 暂无 16 口商用 PoE/FE PoE，注明），以 8 口千兆 PoE 管理型 STC-28DGGPM 切入；分销商/网店 → 20%（沿用 Planet 档案 PB-051）；需求："
  },
- "email_hook": "（不主动发送：用户判定不行）"
+ "email_hook": "（不主动发送：用户判定不行）",
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": "C",
+   "to": "B",
+   "prev_reason": "用户判定不行/不相关（尊重用户表判断，保留 C）；Planet 渠道档案 PB-051 评 B 仅作参考",
+   "reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★★ 首选 · OEM 30%：ELTROX Sp. z o.o.（KRS 0000175807；NIP 6462490527；Częstochowa；2003 起；36 直营 + 52 合作门店；批发品牌 Hurton；自有品牌 KENIK / GetFort 含网络设备；进口商）坐实；对位 ✔ 波兰次主区 ✔ 品牌商 ✔ 进口商 ✔ 体量 ✔ → P 池候选（采购 KP 待取；与 Plane…；闸 1：波兰 Eltrox / getfort（全国性安防分销 + 连锁门店，MikroTik Master；Planet 仓 PB-051 评 B）→ 波兰次主区 + 分销体量；Simon 判不行 → 闸 2 查底数（并线 PB-051）"
+  }
+ ],
+ "lt_review": {
+  "status": "留 B",
+  "batch": "LT-R02",
+  "prio": 1,
+  "queued": "LT-R02",
+  "verdict_date": "2026-10-29",
+  "note": "桌面复核（闸 2 证据充分，三问成立）：★★ 首选 · OEM 30%：ELTROX Sp. z o.o.（KRS 0000175807；NIP 6462490527；Częstochowa；2003 起；36 直营 + 52 合作门店；批发品牌 Hurton；自有品牌 KENIK / GetFort 含网络设备；进口商）坐实；对位 ✔ 波兰次主区 ✔ 品牌商 ✔ 进口商 ✔ 体量 ✔ → P 池候选（采购 KP 待取；与 Planet 仓 PB-051 并线）；Simon …",
+  "why": "C 升 B（池位 ★★，坐实）→ 深挖：官网 / 进口数据 / 项目，确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备"
+ },
+ "mail_review": {
+  "as_of": "2026-10-29",
+  "binding": {
+   "level": "未绑定（C 池捞出，仓内无往来记录）",
+   "basis": "三闸：闸 0 活着 + 闸 1 对位候选 + 闸 2 坐实 / 部分坐实"
+  },
+  "situation": "C 池三闸捞出 → B（LT-01）：★★ 首选 · OEM 30%：ELTROX Sp. z o.o.（KRS 0000175807；NIP 6462490527；Częstochowa；2003 起；36 直营 + 52 合作门店；批发品牌 Hurton；自有品牌 KENIK / GetFort 含网络设备；进口商）坐实；对位 ✔ 波兰次主区 ✔ 品牌商 ✔ 进口商 ✔ 体量 ✔ → P 池候选（采购 KP 待取；与 Plane…",
+  "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
+  "breakpoint": "无往来（从未触达或仅群发无回）",
+  "saga_now": {
+   "p1": "",
+   "why": "待复核后按业务线定首推型号"
+  },
+  "next_move": {
+   "when": "不动：LT-01 复核（待过）后再定",
+   "channel": "—",
+   "action": "长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备"
+  },
+  "facts": [
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 三闸（sieve.json）",
+    "quote": "★★ 首选 · OEM 30%：ELTROX Sp. z o.o.（KRS 0000175807；NIP 6462490527；Częstochowa；2003 起；36 直营 + 52 合作门店；批发品牌 Hurton；自有品牌 KENIK / GetFort 含网络设备；进口商）坐实；对位 ✔ 波兰次主区 ✔ 品牌商 ✔ 进口商 ✔ 体量 ✔ → P 池候选（采购 KP 待取；与 Planet 仓 PB-051 并线）；Simon 曾判不行，可否决",
+    "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   }
+  ],
+  "proof_gaps": [
+   "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
+  ]
+ }
 }

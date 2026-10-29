@@ -17,5 +17,57 @@
  ],
  "researched_at": "2026-10-29",
  "country_fix": "阿联酋",
- "notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。"
+ "notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。",
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "B",
+   "prev_reason": "",
+   "reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 油气工业集成 25%：Leap Networks（Abu Dhabi；2012；11–20 人；CEO Muhammad Ashfaq = 表内具名 KP；ISO 9001 / 14001 / 45001；沙特姊妹公司 Leap Networks Arabia）部分坐实（执照未取）；决策人直达 ✔ 工业对位 ✔ → P 池候选；表内沙特 ↔ 总部阿联酋 备注待 Simon；闸 1：阿联酋 / 沙特 Leap Networks（leap-networks.ae；表内「4 光 4 管理 PoE 64 个」= 数量询盘；KP Tarek Bary，邮箱退信 8 次但域正常，+971 手机在表）：数量信号 ✔ 对位 ✔ 退…"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 油气工业集成 25%：Leap Networks（Abu Dhabi；2012；11–20 人；CEO Muhammad Ashfaq = 表内具名 KP；ISO 9001 / 14001 / 45001；沙特姊妹公司 Leap Networks Arabia）部分坐实（执照未取）；决策人直达 ✔ 工业对位 ✔ → P 池候选；表内沙特 ↔ 总部阿联酋 备注待 Simon；闸 1：阿联酋 / 沙特 Leap Networks（leap-networks.ae；表内「4 光 4 管理 PoE 64 个」= 数量询盘；KP Tarek Bary，邮箱退信 8 次但域正常，+971 手机在表）：数量信号 ✔ 对位 ✔ 退…",
+ "lt_review": {
+  "status": "留 B",
+  "batch": "LT-R03",
+  "prio": 1,
+  "queued": "LT-R03",
+  "verdict_date": "2026-10-29",
+  "note": "桌面复核（闸 2 证据，三问成立）：○ 油气工业集成 25%：Leap Networks（Abu Dhabi；2012；11–20 人；CEO Muhammad Ashfaq = 表内具名 KP；ISO 9001 / 14001 / 45001；沙特姊妹公司 Leap Networks Arabia）部分坐实（执照未取）；决策人直达 ✔ 工业对位 ✔ → P 池候选；表内沙特 ↔ 总部阿联酋 备注待 Simon",
+  "why": "C 升 B（池位 ○，部分坐实 / 未坐实）→ 深挖：官网 / 进口数据 / 项目，确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备"
+ },
+ "mail_review": {
+  "as_of": "2026-10-29",
+  "binding": {
+   "level": "未绑定（C 池捞出，仓内无往来记录）",
+   "basis": "三闸：闸 0 活着 + 闸 1 对位候选 + 闸 2 坐实 / 部分坐实"
+  },
+  "situation": "C 池三闸捞出 → B（LT-01）：○ 油气工业集成 25%：Leap Networks（Abu Dhabi；2012；11–20 人；CEO Muhammad Ashfaq = 表内具名 KP；ISO 9001 / 14001 / 45001；沙特姊妹公司 Leap Networks Arabia）部分坐实（执照未取）；决策人直达 ✔ 工业对位 ✔ → P 池候选；表内沙特 ↔ 总部阿联酋 备注待 Simon",
+  "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
+  "breakpoint": "无往来（从未触达或仅群发无回）",
+  "saga_now": {
+   "p1": "",
+   "why": "待复核后按业务线定首推型号"
+  },
+  "next_move": {
+   "when": "不动：LT-01 复核（待过）后再定",
+   "channel": "—",
+   "action": "长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备"
+  },
+  "facts": [
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 三闸（sieve.json）",
+    "quote": "○ 油气工业集成 25%：Leap Networks（Abu Dhabi；2012；11–20 人；CEO Muhammad Ashfaq = 表内具名 KP；ISO 9001 / 14001 / 45001；沙特姊妹公司 Leap Networks Arabia）部分坐实（执照未取）；决策人直达 ✔ 工业对位 ✔ → P 池候选；表内沙特 ↔ 总部阿联酋 备注待 Simon",
+    "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   }
+  ],
+  "proof_gaps": [
+   "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
+  ]
+ }
 }

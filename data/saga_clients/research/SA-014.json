@@ -1,242 +1,254 @@
 {
-  "code": "SA-014",
-  "name_official": "Impulse Networks / Impulse CCTV（Singapore HQ；Vancouver、India 等办事处）",
-  "website_status": "在线",
-  "summary": "自称工业级 CCTV 与 PoE 网络交换机的全球制造商（总部新加坡 81 Ubi Ave 4，北美总部温哥华，印度生产「Make in India」BIS 认证），产品线含网络摄像机、NVR、VMS、PoE/L3/机箱式核心交换机；51–200 人口径；通过集成商/经销商网络销售。用户表：2026 年 E 已回复，兴趣 ONV 工业 FS、工业 FS 打他们的 logo。",
-  "type": "品牌商/贴牌需求（OEM/ODM）——安防品牌自有 PoE 交换机线",
-  "size": "51–200 人（Prospectoo 口径，待核）",
-  "brands_seen": [
-    "Impulse",
-    "ONV"
-  ],
-  "evidence": [
-    {
-      "kind": "官网",
-      "claim": "定位：工业级 CCTV 与 PoE 交换机制造商",
-      "quote": "Impulse CCTV is a global manufacturer of industrial grade CCTV surveillance and PoE Network Switches. Make in India Certified, Global certifications.",
-      "url": "https://impulsecctv.com/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "总部与办事处分布、产品类目含 Network Switches",
-      "quote": "Impulse is headquartered in Singapore, with North American headquarters in Vancouver, Canada and regional offices worldwide … Products - Network Cameras - Network Video Recorder (NVR) - Video Management System - Network Switches",
-      "url": "https://impulsecctv.com/about-us/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "交换机子类含机箱核心/企业级/L3+",
-      "quote": "Network Switches - Chassis Based Core Switch - Enterprise Grade Switch - Layer 3+ Switch",
-      "url": "https://impulsecctv.com/category/technology2/",
-      "date": "2026-10-21"
-    },
-    {
-      "kind": "官网",
-      "claim": "IGS 工业系列功能与型号列表",
-      "quote": "4 Port / 8 Ports Gigabit PoE Ports - IEEE 802.3af and 802.3at compliant Dual DC power input - Rapid Ring (R-Ring) … G.8032 ERPS … Datasheets pdf IMP-IGS-1G06CG pdf IMP-IGS-1G06CP pdf IMP-IGS-1G10CG pdf IMP-IGS-1G10CP pdf IMP-EGS-1G24P02F pdf IMP-EGS-1G48P04X pdf IMP-EGS-1G24P04X pdf IMP-EGS-1G08P02F",
-      "url": "https://impulsecctv.com/industrial-network-switches/",
-      "date": "2022-10-27"
-    },
-    {
-      "kind": "官网博客",
-      "claim": "2026-01 推荐机型 IMP-IGS-1G06CG / 1G10CP",
-      "quote": "Impulse IGS Series: … 4-10 Gigabit PoE ports with IEEE 802.3af/at compliance - Dual DC power input … Operating temperature: -40°C to 75°C … Impulse 6-Port Gigabit PoE Switch (IMP-IGS-1G06CG) … Impulse 10-Port Gigabit PoE Switch (IMP-IGS-1G10CP)",
-      "url": "https://impulsecctv.com/blog/choosing-the-right-poe-switch-for-scalable-networks/",
-      "date": "2026-01-30"
-    }
-  ],
-  "kp": [
-    {
-      "name": "—",
-      "role": "总机邮箱",
-      "email": "info@impulsecctv.com",
-      "phone": "+1 778-508-3514（温哥华，ZoomInfo）",
-      "source": "https://impulsecctv.com/about-us/"
-    }
-  ],
-  "notes": "A 确认：安防品牌自有 PoE 交换机线 + 2026 年主动回复 + 明确要贴 logo；P1 = STI-288DGGPM（工业 PoE，对位其在用 ONV 工业 FS），30% OEM 档；注意其印度产线可能要求 SKD/CKD，先问整机。",
-  "researched_at": "2026-10-21",
-  "deep": {
-    "done_at": "2026-10-21",
-    "level": "深挖 v1"
+ "code": "SA-014",
+ "name_official": "Impulse Networks / Impulse CCTV（Singapore HQ；Vancouver、India 等办事处）",
+ "website_status": "在线",
+ "summary": "自称工业级 CCTV 与 PoE 网络交换机的全球制造商（总部新加坡 81 Ubi Ave 4，北美总部温哥华，印度生产「Make in India」BIS 认证），产品线含网络摄像机、NVR、VMS、PoE/L3/机箱式核心交换机；51–200 人口径；通过集成商/经销商网络销售。用户表：2026 年 E 已回复，兴趣 ONV 工业 FS、工业 FS 打他们的 logo。",
+ "type": "品牌商/贴牌需求（OEM/ODM）——安防品牌自有 PoE 交换机线",
+ "size": "51–200 人（Prospectoo 口径，待核）",
+ "brands_seen": [
+  "Impulse",
+  "ONV"
+ ],
+ "evidence": [
+  {
+   "kind": "官网",
+   "claim": "定位：工业级 CCTV 与 PoE 交换机制造商",
+   "quote": "Impulse CCTV is a global manufacturer of industrial grade CCTV surveillance and PoE Network Switches. Make in India Certified, Global certifications.",
+   "url": "https://impulsecctv.com/",
+   "date": "2026-10-21"
   },
-  "company_facts": {
-    "legal_name": "Impulse Networks / Impulse CCTV",
-    "hq": "Singapore（81 Ubi Ave 4）；北美 Vancouver；印度生产（BIS）",
-    "staff": "51–200",
-    "other": "自有品牌 IMP- 系列：IGS 工业 PoE（IMP-IGS-1G06CG/CP、1G10CG/CP、1G12CG）、EGS 企业 PoE（1G08P02F、1G24P02F/04X、1G48P04X）、XGS 10G 核心（2404XCP、480204XCP）、SWT-0049 系列 24/48×10G + 40/100G；ONV 来源（用户表）"
+  {
+   "kind": "官网",
+   "claim": "总部与办事处分布、产品类目含 Network Switches",
+   "quote": "Impulse is headquartered in Singapore, with North American headquarters in Vancouver, Canada and regional offices worldwide … Products - Network Cameras - Network Video Recorder (NVR) - Video Management System - Network Switches",
+   "url": "https://impulsecctv.com/about-us/",
+   "date": "2026-10-21"
   },
-  "business_lines": [
-    "网络摄像机 / NVR / VMS",
-    "工业 PoE 交换机 IGS（ERPS/R-Ring/PTP/OAM）",
-    "企业 PoE 与 10G/100G 核心交换机"
-  ],
-  "products_seen": [
-    {
-      "brand": "Impulse",
-      "model": "IMP-IGS-1G06CG / 1G06CP",
-      "spec": "工业 4 GE PoE + 2 SFP，双 DC，R-Ring/ERPS，-40~75℃",
-      "url": "https://impulsecctv.com/industrial-network-switches/",
-      "date": "2022-10-27",
-      "saga": "STI-144GP"
-    },
-    {
-      "brand": "Impulse",
-      "model": "IMP-IGS-1G10CG / 1G10CP",
-      "spec": "工业 8 GE PoE + 2 SFP",
-      "url": "https://impulsecctv.com/blog/choosing-the-right-poe-switch-for-scalable-networks/",
-      "date": "2026-01-30",
-      "saga": "STI-288DGGPM"
-    },
-    {
-      "brand": "Impulse",
-      "model": "IMP-IGS-1G12CG",
-      "spec": "工业 L2+ 10G 上联 PoE，iDMS，DHCP server",
-      "url": "https://impulsecctv.com/switching-supply-for-sundergarh-college-and-hospital",
-      "date": "2021-10-13",
-      "saga": "—（工业 10G 需核）"
-    },
-    {
-      "brand": "Impulse",
-      "model": "IMP-EGS-1G08P02F / 1G24P02F / 1G24P04X / 1G48P04X",
-      "spec": "企业 PoE 8/24/48 口（2 SFP 或 4×10G）",
-      "url": "https://impulsecctv.com/industrial-network-switches/",
-      "date": "2022-10-27",
-      "saga": "STC-28DGGPM / STC-424DGGPM-280W / STC-424XGGPM-280W / STC-448XGGM(L3)"
-    },
-    {
-      "brand": "Impulse",
-      "model": "IMP-XGS-2404XCP / 480204XCP；IMP-SWT-0049 系列",
-      "spec": "L3 10G 核心、24/48×10G + 40/100G",
-      "url": "https://impulsecctv.com/product/imp-swt-0049-series/",
-      "date": "2026-10-21",
-      "saga": "—（核心层不在 Saga 型谱）"
-    }
-  ],
-  "channels": {
-    "网站": "https://impulsecctv.com/",
-    "直邮": "info@impulsecctv.com（用户表）"
+  {
+   "kind": "官网",
+   "claim": "交换机子类含机箱核心/企业级/L3+",
+   "quote": "Network Switches - Chassis Based Core Switch - Enterprise Grade Switch - Layer 3+ Switch",
+   "url": "https://impulsecctv.com/category/technology2/",
+   "date": "2026-10-21"
   },
-  "signals": [
-    "2026-01 博客仍主推 IGS 1G06CG/1G10CP——工业 PoE 为活跃走量线（2026-10-21）",
-    "用户表：ONV 工业 FS，他们的 logo——已有成熟 ODM"
-  ],
-  "risks": [
-    "印度「Make in India」BIS 路线：可能转向本地组装（SKD/CKD）而非整机进口",
-    "ONV 关系稳固；切入点为 Marvell 平台二供"
-  ],
-  "saga_fit": {
-    "p1": "STI-288DGGPM",
-    "tier": 30,
-    "why": "IMP-IGS-1G10CP（8 GE PoE + 2 SFP 工业）= STI-288DGGPM；1G06CP = STI-144GP；EGS 24/48 = STC-424DGGPM-280W / STC-448XGGM(L3)；OEM 30% 档"
+  {
+   "kind": "官网",
+   "claim": "IGS 工业系列功能与型号列表",
+   "quote": "4 Port / 8 Ports Gigabit PoE Ports - IEEE 802.3af and 802.3at compliant Dual DC power input - Rapid Ring (R-Ring) … G.8032 ERPS … Datasheets pdf IMP-IGS-1G06CG pdf IMP-IGS-1G06CP pdf IMP-IGS-1G10CG pdf IMP-IGS-1G10CP pdf IMP-EGS-1G24P02F pdf IMP-EGS-1G48P04X pdf IMP-EGS-1G24P04X pdf IMP-EGS-1G08P02F",
+   "url": "https://impulsecctv.com/industrial-network-switches/",
+   "date": "2022-10-27"
   },
-  "email_hook": "Your IMP-IGS-1G10CP and IMP-IGS-1G06CG are the exact 8+2 and 4+2 industrial PoE footprints we build on a Marvell core with ERPS ring, so I am quoting both in Impulse packing as a second source next to your current line.",
-  "mail_review": {
-    "binding": {
-      "level": "未绑定（Elsa 邮箱 2026-01-07 Amol Kumar 回「pls share your company website and your address」→ Elsa 01-08 回复后无下文；A/S 邮箱 21 封 0 回）；补核（第 73 批）：Elsa 01-08 的回复没给网站/地址（当时无官网），只反问项目/自有品牌 + MII；Elsa 1:1 去信 4 轮 2026-03-02→2026-08-04（To 仅本户 ak@impulsecctv.com；头 msg 19fcb4933308f270 核对无 Bcc，称呼「Hi, Amol」= 个性化逐月 1:1 名单；主题 Updated Ethernet Switches Links、Industrial PoE Switch、10G Enterprise SFP Switch、24 Port PoE Managed Switch；客户来过信：Elsa 回 2026-01-08 Re:「OEM Core Switching Solution」）（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 5 条）",
-      "type": "新加坡安防品牌 Impulse CCTV（自有 PoE 交换机线，要贴 logo——用户表）",
-      "sieve": "0（邮件层无人工回复）",
-      "stop": "可信度核验（网站/地址）后停；当时 sagatele.com 未上线",
-      "revive": "用 sagatele.com + 公司地址重发一次",
-      "lane": "SG 非主攻",
-      "cadence": "一次",
-      "evidence": "邮件：去信 21 封（2024-07-08 → 2026-09-21），来信 0；Opened 标签 2 次（2025-02-21、2024-07-08）；收件人 info@impulsecctv.com, ps@impulsecctv.com"
-    },
-    "situation": "唯一的人工回复在 Elsa 邮箱：对 CENTEC 核心交换机群发问「公司网站和地址」。这是身份核验，不是需求。",
-    "need": "自有品牌 PoE 交换机（对位其在用 ONV——用户表）。",
-    "breakpoint": "可信度门槛；现有网站可补。",
-    "saga_now": {
-      "p1": "STI-288DGGPM",
-      "tier": 30,
-      "price": "再触锚价 STI-288DGGPM $137.5（PDF 上限；30% 档 151.6 超；第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-02 $65（10g media converter）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-08 $300（48 Port PoE Managed Switch）、2025-10-17 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
-      "why": "已打开的主题（2/21 封有打开记录）：「2.5G Ethernet Switch」(2024-07-08)、「8 Port Industrial PoE Switch」(2025-02-21) → 读者兴趣偏「2.5G」；与 P1 同类，继续 最近一封去信是 2026-09-21 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Product Link_2026Q2(2026-03-03)、Product Link_2026Q3(2026-07-17)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
-      "repeat": [],
-      "gaps": []
-    },
-    "next_move": {
-      "when": "2026-11",
-      "channel": "E 邮箱 → ak@impulsecctv.com（Elsa 署名；若改从 A 箱发，署名换 Alan）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-      "action": "首封前知悉：Elsa 已 1:1 去信 4 轮（2026-03-02→2026-08-04，客户回过信（2026-01-08））（第 74 批(m)）；一封：sagatele.com + 地址 + 一句话",
-      "one_question": "Our site is now live at sagatele.com — which Impulse PoE SKU is sourced from ONV today? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity)."
-    },
-    "facts": [
-      {
-        "date": "2024-07-08",
-        "dir": "去",
-        "who": "Saga（群发）",
-        "quote": "「2.5G Ethernet Switch」被打开（Mailtrack Opened 标签）",
-        "why": "唯一的互动痕迹",
-        "k": "bbfc5a22d14032ff"
-      },
-      {
-        "date": "2025-02-21",
-        "dir": "去",
-        "who": "Saga（群发）",
-        "quote": "「8 Port Industrial PoE Switch」被打开（Mailtrack Opened 标签）",
-        "why": "唯一的互动痕迹",
-        "k": "f408faefdae4dd88"
-      },
-      {
-        "date": "2026-01-07",
-        "dir": "来（Elsa 箱）",
-        "who": "Amol Kumar（Impulse CCTV）",
-        "quote": "pls share your company website and your address",
-        "why": "核验",
-        "k": "E 19b9767e81c6fe96"
-      },
-      {
-        "date": "2026-01-08",
-        "dir": "去",
-        "who": "Elsa",
-        "quote": "For detailed CENTEC-based product information(specifications and datasheets), we usually provide them directly to partners via email… 1. Are you working on a project or developing your own brand? 2. Is this regarding MII compliance, or just a regular import?（附 8C48XF.png）",
-        "why": "Amol 01-07 要网站 + 地址，Elsa 01-08 没给（当时无官网），反问项目/品牌 + MII → 无下文；现在 sagatele.com 上线，信稿补这一笔是对的",
-        "k": "gmail_e 19b9ccd03f17ff1c"
-      },
-      {
-        "date": "2026-03-02",
-        "dir": "out",
-        "who": "Elsa → ak@impulsecctv.com",
-        "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 1/4 轮；To 仅本户）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:ak@impulsecctv.com` 全程 complete：4 轮直收；客户曾来信（见 Re: 行）",
-        "k": "elsa_1to1",
-        "msg_id": "19cad60100c49788"
-      },
-      {
-        "date": "2026-04-03",
-        "dir": "out",
-        "who": "Elsa → ak@impulsecctv.com",
-        "quote": "Industrial PoE Switch（Elsa 1:1 逐月名单第 2/4 轮；To 仅本户）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:ak@impulsecctv.com` 全程 complete：4 轮直收；客户曾来信（见 Re: 行）",
-        "k": "elsa_1to1",
-        "msg_id": "19d52b6b91eebc24"
-      },
-      {
-        "date": "2026-05-11",
-        "dir": "out",
-        "who": "Elsa → ak@impulsecctv.com",
-        "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
-        "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
-        "k": "elsa_1to1",
-        "msg_id": "19e160cd5dd086ce"
-      },
-      {
-        "date": "2026-08-04",
-        "dir": "out",
-        "who": "Elsa → ak@impulsecctv.com",
-        "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 4/4 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
-        "why": "第 74 批(m) `from:e.sagatelecom to:ak@impulsecctv.com` 全程 complete：4 轮直收；客户曾来信（见 Re: 行）",
-        "k": "elsa_1to1",
-        "msg_id": "19fcb4933308f270"
-      }
-    ],
-    "proof_gaps": [
-      "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 去信 4 轮、0 回），仓库未见原文"
-    ],
-    "draft_en": {
-      "subject": "Company website and address — sagatele.com",
-      "body": "Hi Amol,\n\nIn January you asked for our website and address before going further. Both are now in place: sagatele.com (products, firmware notes, company background) and our address is on the Contact page.\n\nOne question, so I send the right thing: which Impulse PoE switch SKU do you source from ONV today? If you tell me the model, I will send the matching Marvell-based industrial unit (DIN-rail 8× PoE + 2× SFP, managed) with your label option and a sample price, nothing else.\n\nReference price: STI-288DGGPM (8× GE PoE + 2× 2.5G SFP, managed DIN-rail) at $137.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nBest regards,\nElsa\nSaga Telecom - sagatele.com"
-    },
-    "as_of": "2026-10-24"
+  {
+   "kind": "官网博客",
+   "claim": "2026-01 推荐机型 IMP-IGS-1G06CG / 1G10CP",
+   "quote": "Impulse IGS Series: … 4-10 Gigabit PoE ports with IEEE 802.3af/at compliance - Dual DC power input … Operating temperature: -40°C to 75°C … Impulse 6-Port Gigabit PoE Switch (IMP-IGS-1G06CG) … Impulse 10-Port Gigabit PoE Switch (IMP-IGS-1G10CP)",
+   "url": "https://impulsecctv.com/blog/choosing-the-right-poe-switch-for-scalable-networks/",
+   "date": "2026-01-30"
   }
+ ],
+ "kp": [
+  {
+   "name": "—",
+   "role": "总机邮箱",
+   "email": "info@impulsecctv.com",
+   "phone": "+1 778-508-3514（温哥华，ZoomInfo）",
+   "source": "https://impulsecctv.com/about-us/"
+  }
+ ],
+ "notes": "A 确认：安防品牌自有 PoE 交换机线 + 2026 年主动回复 + 明确要贴 logo；P1 = STI-288DGGPM（工业 PoE，对位其在用 ONV 工业 FS），30% OEM 档；注意其印度产线可能要求 SKD/CKD，先问整机。",
+ "researched_at": "2026-10-21",
+ "deep": {
+  "done_at": "2026-10-21",
+  "level": "深挖 v1"
+ },
+ "company_facts": {
+  "legal_name": "Impulse Networks / Impulse CCTV",
+  "hq": "Singapore（81 Ubi Ave 4）；北美 Vancouver；印度生产（BIS）",
+  "staff": "51–200",
+  "other": "自有品牌 IMP- 系列：IGS 工业 PoE（IMP-IGS-1G06CG/CP、1G10CG/CP、1G12CG）、EGS 企业 PoE（1G08P02F、1G24P02F/04X、1G48P04X）、XGS 10G 核心（2404XCP、480204XCP）、SWT-0049 系列 24/48×10G + 40/100G；ONV 来源（用户表）"
+ },
+ "business_lines": [
+  "网络摄像机 / NVR / VMS",
+  "工业 PoE 交换机 IGS（ERPS/R-Ring/PTP/OAM）",
+  "企业 PoE 与 10G/100G 核心交换机"
+ ],
+ "products_seen": [
+  {
+   "brand": "Impulse",
+   "model": "IMP-IGS-1G06CG / 1G06CP",
+   "spec": "工业 4 GE PoE + 2 SFP，双 DC，R-Ring/ERPS，-40~75℃",
+   "url": "https://impulsecctv.com/industrial-network-switches/",
+   "date": "2022-10-27",
+   "saga": "STI-144GP"
+  },
+  {
+   "brand": "Impulse",
+   "model": "IMP-IGS-1G10CG / 1G10CP",
+   "spec": "工业 8 GE PoE + 2 SFP",
+   "url": "https://impulsecctv.com/blog/choosing-the-right-poe-switch-for-scalable-networks/",
+   "date": "2026-01-30",
+   "saga": "STI-288DGGPM"
+  },
+  {
+   "brand": "Impulse",
+   "model": "IMP-IGS-1G12CG",
+   "spec": "工业 L2+ 10G 上联 PoE，iDMS，DHCP server",
+   "url": "https://impulsecctv.com/switching-supply-for-sundergarh-college-and-hospital",
+   "date": "2021-10-13",
+   "saga": "—（工业 10G 需核）"
+  },
+  {
+   "brand": "Impulse",
+   "model": "IMP-EGS-1G08P02F / 1G24P02F / 1G24P04X / 1G48P04X",
+   "spec": "企业 PoE 8/24/48 口（2 SFP 或 4×10G）",
+   "url": "https://impulsecctv.com/industrial-network-switches/",
+   "date": "2022-10-27",
+   "saga": "STC-28DGGPM / STC-424DGGPM-280W / STC-424XGGPM-280W / STC-448XGGM(L3)"
+  },
+  {
+   "brand": "Impulse",
+   "model": "IMP-XGS-2404XCP / 480204XCP；IMP-SWT-0049 系列",
+   "spec": "L3 10G 核心、24/48×10G + 40/100G",
+   "url": "https://impulsecctv.com/product/imp-swt-0049-series/",
+   "date": "2026-10-21",
+   "saga": "—（核心层不在 Saga 型谱）"
+  }
+ ],
+ "channels": {
+  "网站": "https://impulsecctv.com/",
+  "直邮": "info@impulsecctv.com（用户表）"
+ },
+ "signals": [
+  "2026-01 博客仍主推 IGS 1G06CG/1G10CP——工业 PoE 为活跃走量线（2026-10-21）",
+  "用户表：ONV 工业 FS，他们的 logo——已有成熟 ODM"
+ ],
+ "risks": [
+  "印度「Make in India」BIS 路线：可能转向本地组装（SKD/CKD）而非整机进口",
+  "ONV 关系稳固；切入点为 Marvell 平台二供"
+ ],
+ "saga_fit": {
+  "p1": "STI-288DGGPM",
+  "tier": 30,
+  "why": "IMP-IGS-1G10CP（8 GE PoE + 2 SFP 工业）= STI-288DGGPM；1G06CP = STI-144GP；EGS 24/48 = STC-424DGGPM-280W / STC-448XGGM(L3)；OEM 30% 档"
+ },
+ "email_hook": "Your IMP-IGS-1G10CP and IMP-IGS-1G06CG are the exact 8+2 and 4+2 industrial PoE footprints we build on a Marvell core with ERPS ring, so I am quoting both in Impulse packing as a second source next to your current line.",
+ "mail_review": {
+  "binding": {
+   "level": "未绑定（Elsa 邮箱 2026-01-07 Amol Kumar 回「pls share your company website and your address」→ Elsa 01-08 回复后无下文；A/S 邮箱 21 封 0 回）；补核（第 73 批）：Elsa 01-08 的回复没给网站/地址（当时无官网），只反问项目/自有品牌 + MII；Elsa 1:1 去信 4 轮 2026-03-02→2026-08-04（To 仅本户 ak@impulsecctv.com；头 msg 19fcb4933308f270 核对无 Bcc，称呼「Hi, Amol」= 个性化逐月 1:1 名单；主题 Updated Ethernet Switches Links、Industrial PoE Switch、10G Enterprise SFP Switch、24 Port PoE Managed Switch；客户来过信：Elsa 回 2026-01-08 Re:「OEM Core Switching Solution」）（第 74 批(m) `from:e.sagatelecom to:` 全程 complete，直收 5 条）",
+   "type": "新加坡安防品牌 Impulse CCTV（自有 PoE 交换机线，要贴 logo——用户表）",
+   "sieve": "0（邮件层无人工回复）",
+   "stop": "可信度核验（网站/地址）后停；当时 sagatele.com 未上线",
+   "revive": "用 sagatele.com + 公司地址重发一次",
+   "lane": "SG 非主攻",
+   "cadence": "一次",
+   "evidence": "邮件：去信 21 封（2024-07-08 → 2026-09-21），来信 0；Opened 标签 2 次（2025-02-21、2024-07-08）；收件人 info@impulsecctv.com, ps@impulsecctv.com"
+  },
+  "situation": "唯一的人工回复在 Elsa 邮箱：对 CENTEC 核心交换机群发问「公司网站和地址」。这是身份核验，不是需求。",
+  "need": "自有品牌 PoE 交换机（对位其在用 ONV——用户表）。",
+  "breakpoint": "可信度门槛；现有网站可补。",
+  "saga_now": {
+   "p1": "STI-288DGGPM",
+   "tier": 30,
+   "price": "再触锚价 STI-288DGGPM $137.5（PDF 上限；30% 档 151.6 超；第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-02 $65（10g media converter）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-08 $300（48 Port PoE Managed Switch）、2025-10-17 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）",
+   "why": "已打开的主题（2/21 封有打开记录）：「2.5G Ethernet Switch」(2024-07-08)、「8 Port Industrial PoE Switch」(2025-02-21) → 读者兴趣偏「2.5G」；与 P1 同类，继续 最近一封去信是 2026-09-21 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Product Link_2026Q2(2026-03-03)、Product Link_2026Q3(2026-07-17)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）",
+   "repeat": [],
+   "gaps": []
+  },
+  "next_move": {
+   "when": "2026-11",
+   "channel": "E 邮箱 → ak@impulsecctv.com（Elsa 署名；若改从 A 箱发，署名换 Alan）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "action": "首封前知悉：Elsa 已 1:1 去信 4 轮（2026-03-02→2026-08-04，客户回过信（2026-01-08））（第 74 批(m)）；一封：sagatele.com + 地址 + 一句话",
+   "one_question": "Our site is now live at sagatele.com — which Impulse PoE SKU is sourced from ONV today? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity)."
+  },
+  "facts": [
+   {
+    "date": "2024-07-08",
+    "dir": "去",
+    "who": "Saga（群发）",
+    "quote": "「2.5G Ethernet Switch」被打开（Mailtrack Opened 标签）",
+    "why": "唯一的互动痕迹",
+    "k": "bbfc5a22d14032ff"
+   },
+   {
+    "date": "2025-02-21",
+    "dir": "去",
+    "who": "Saga（群发）",
+    "quote": "「8 Port Industrial PoE Switch」被打开（Mailtrack Opened 标签）",
+    "why": "唯一的互动痕迹",
+    "k": "f408faefdae4dd88"
+   },
+   {
+    "date": "2026-01-07",
+    "dir": "来（Elsa 箱）",
+    "who": "Amol Kumar（Impulse CCTV）",
+    "quote": "pls share your company website and your address",
+    "why": "核验",
+    "k": "E 19b9767e81c6fe96"
+   },
+   {
+    "date": "2026-01-08",
+    "dir": "去",
+    "who": "Elsa",
+    "quote": "For detailed CENTEC-based product information(specifications and datasheets), we usually provide them directly to partners via email… 1. Are you working on a project or developing your own brand? 2. Is this regarding MII compliance, or just a regular import?（附 8C48XF.png）",
+    "why": "Amol 01-07 要网站 + 地址，Elsa 01-08 没给（当时无官网），反问项目/品牌 + MII → 无下文；现在 sagatele.com 上线，信稿补这一笔是对的",
+    "k": "gmail_e 19b9ccd03f17ff1c"
+   },
+   {
+    "date": "2026-03-02",
+    "dir": "out",
+    "who": "Elsa → ak@impulsecctv.com",
+    "quote": "Updated Ethernet Switches Links（Elsa 1:1 逐月名单第 1/4 轮；To 仅本户）",
+    "why": "第 74 批(m) `from:e.sagatelecom to:ak@impulsecctv.com` 全程 complete：4 轮直收；客户曾来信（见 Re: 行）",
+    "k": "elsa_1to1",
+    "msg_id": "19cad60100c49788"
+   },
+   {
+    "date": "2026-04-03",
+    "dir": "out",
+    "who": "Elsa → ak@impulsecctv.com",
+    "quote": "Industrial PoE Switch（Elsa 1:1 逐月名单第 2/4 轮；To 仅本户）",
+    "why": "第 74 批(m) `from:e.sagatelecom to:ak@impulsecctv.com` 全程 complete：4 轮直收；客户曾来信（见 Re: 行）",
+    "k": "elsa_1to1",
+    "msg_id": "19d52b6b91eebc24"
+   },
+   {
+    "date": "2026-05-11",
+    "dir": "out",
+    "who": "Elsa → ak@impulsecctv.com",
+    "quote": "10G Enterprise SFP Switch（Elsa 2026 年 1:1 名单重发；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213）",
+    "why": "本户在 Elsa 的 1:1 名单里（非 BCC 批次）；未见回复（Elsa 箱 Replied 标签无）",
+    "k": "elsa_1to1",
+    "msg_id": "19e160cd5dd086ce"
+   },
+   {
+    "date": "2026-08-04",
+    "dir": "out",
+    "who": "Elsa → ak@impulsecctv.com",
+    "quote": "24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 4/4 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f）",
+    "why": "第 74 批(m) `from:e.sagatelecom to:ak@impulsecctv.com` 全程 complete：4 轮直收；客户曾来信（见 Re: 行）",
+    "k": "elsa_1to1",
+    "msg_id": "19fcb4933308f270"
+   }
+  ],
+  "proof_gaps": [
+   "邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 去信 4 轮、0 回），仓库未见原文"
+  ],
+  "draft_en": {
+   "subject": "Company website and address — sagatele.com",
+   "body": "Hi Amol,\n\nIn January you asked for our website and address before going further. Both are now in place: sagatele.com (products, firmware notes, company background) and our address is on the Contact page.\n\nOne question, so I send the right thing: which Impulse PoE switch SKU do you source from ONV today? If you tell me the model, I will send the matching Marvell-based industrial unit (DIN-rail 8× PoE + 2× SFP, managed) with your label option and a sample price, nothing else.\n\nReference price: STI-288DGGPM (8× GE PoE + 2× 2.5G SFP, managed DIN-rail) at $137.5 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nBest regards,\nElsa\nSaga Telecom - sagatele.com"
+  },
+  "as_of": "2026-10-24"
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "B",
+   "prev_reason": "",
+   "reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A"
 }

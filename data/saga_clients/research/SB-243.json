@@ -55,8 +55,8 @@
    "source": "https://www.thecompanycheck.com/company/hfcl-limited/L64200HP1987PLC007466"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来；A6 真回≥3+对位（任何区域）",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
@@ -265,5 +265,15 @@
    "body": "Dear Shantanu,\n\nAfter our April exchange (industrial PoE at $35, AWB and delivery proof for India) the thread moved to WhatsApp with Simon. One point deserves a written answer: Make-in-India content.\n\nWhat we can do: ship SKD kits for assembly by an Indian partner and progress to CKD as volumes justify it; firmware and web GUI under HFCL branding. What we cannot do: claim a Saga plant in India or certify a local-content percentage ourselves.\n\nOne question: which HFCL programme is this for, and what local-content percentage does that tender actually score? With that number we can tell you honestly whether the SKD route gets you there.\n\nBest regards,\nElsa\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来；A6 真回≥3+对位（任何区域）"
+  }
+ ]
 }

@@ -68,8 +68,8 @@
    "source": "https://www.construction.co.uk/c/633203/securitytec"
   }
  ],
- "grade_override": "B",
- "override_reason": "3 人微型批发商，17 次推送零回复，兴趣在 VC（Saga 不做）；保留 B 慢跟（Utepo 在售说明有 PoE 替代空间）。",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A1 复购/绑定≥中度",
  "notes": "",
  "researched_at": "2026-10-21",
  "deep": {
@@ -188,5 +188,15 @@
    "body": "Hi Graham,\n\nWe wrote to you once in February 2025 about an industrial PoE switch, and since then only general product mails - most recently \"16 Port Industrial PoE Switch\" on 18 September 2026 - none of which needed an answer. This one is specific.\n\nYour NTP3-GSW0802S-MTP150 and our unit are the same port layout: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based - model STC-28DGGPM - $80.7 USD EXW at distributor tier (MOQ 1, 15-day validity), in Securitytec packing from small lots, CE/RoHS/UKCA. As a second source it protects your trade price against the HiLook tier around 44 pounds. For the 16/24-port positions: 16 x PoE+ + 2 x SFP unmanaged industrial - STI-21616GP - $185; 24 x PoE+ (280 W) + 4 x SFP, L2+ managed - STC-424DGGPM-280W - $134.5.\n\nOne question: which of your installers' orders is the 8-port in - the camera kits, or sold separately?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "3 人微型批发商，17 次推送零回复，兴趣在 VC（Saga 不做）；保留 B 慢跟（Utepo 在售说明有 PoE 替代空间）。",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A1 复购/绑定≥中度"
+  }
+ ]
 }

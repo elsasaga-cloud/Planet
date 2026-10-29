@@ -65,8 +65,8 @@
    "source": "Clients 表邮箱（entities）"
   }
  ],
- "grade_override": "B",
- "override_reason": "41 次跟进仅 4 次'要资料'式回复，无询价；中东非主攻区；客户群含军方/政府（守界）→ 慢跟，只做商业/银行/医疗项目。",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
  "notes": "WA 维持；有项目时报 STC-424DGGPM-280W（项目 25%）。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -170,5 +170,15 @@
    "body": "Chandra, Simon from Saga Telecom. You asked the price of the 4-port DIN PoE in 2024 - $38 then; the same unit, 4 x Gigabit PoE+ + 1 x Gigabit + 1 x SFP, -40 to 75 C, is $39.2 USD EXW today (MOQ 1, 15-day validity). One question: any live CCTV site this quarter where it would fit, or shall I check again next quarter?"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "41 次跟进仅 4 次'要资料'式回复，无询价；中东非主攻区；客户群含军方/政府（守界）→ 慢跟，只做商业/银行/医疗项目。",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）"
+  }
+ ]
 }

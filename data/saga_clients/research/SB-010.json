@@ -68,8 +68,8 @@
    "source": "S/A 邮箱来信 2024-11-22 来信 1 封（第 72 批从邮件表头补）"
   }
  ],
- "grade_override": "B",
- "override_reason": "品牌定位是美国制造/BAA + 外采 TAA 合规（TAA 指定国不含中国大陆），SmartByte/HRUI/Hohunet 中国产整机无法进入其外采线；仅 SFP/电源等非 TAA 敏感配件有机会。B 慢跟：只在其主动询价时报配件。",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A4 Simon 点名",
  "notes": "INH 红线：TAA/UL；本客户是典型 TAA 冲突案例。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -173,5 +173,15 @@
  "company_facts": {
   "legal_name": "AMERICAN FIBERTEK, INC.（1984 Somerset NJ；2020 迁 St. Petersburg FL；母公司 Sunny-Z Inc.）",
   "staff": "7–28；营收估 $8–11M（第 86 批 官方登记核实 2026-10-27）"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "品牌定位是美国制造/BAA + 外采 TAA 合规（TAA 指定国不含中国大陆），SmartByte/HRUI/Hohunet 中国产整机无法进入其外采线；仅 SFP/电源等非 TAA 敏感配件有机会。B 慢跟：只在其主动询价时报配件。",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A4 Simon 点名"
+  }
+ ]
 }

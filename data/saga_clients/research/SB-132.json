@@ -59,8 +59,8 @@
    "source": "https://www.linkedin.com/in/senerustbas/"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -140,5 +140,15 @@
    "body": "Hi Ercan,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nThe 5-port industrial PoE switch you asked about: DIN-rail, 4 x Gigabit PoE+ + 1 x Gigabit uplink, 48 V DC input (so it runs from the MEAN WELL DIN supplies you already distribute), -40 to 75 C, model STI-054GP - distributor price $31.2 USD EXW (MOQ 1, 15-day validity). The version with an SFP uplink, STI-144GP, is $34.1; the 8-port PoE+ + 2 SFP unit, STI-288GP, is $57.4. CE/RoHS, 3-year warranty with the DIN power supply, neutral packaging or your label.\n\nOne question: for your 16-region dealer network, would a first order of 50 units be the right size for a test, or smaller?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌"
+  }
+ ]
 }

@@ -56,8 +56,8 @@
    "source": "https://hcin4.com/default/01/02.php"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
@@ -160,5 +160,15 @@
    "body": "Hi, Peter,\n\nYou asked for prices in January and we did not come back properly — sorry for that.\n\nCENTEC core/aggregation (L3, VXLAN/EVPN, MPLS, MLAG; MA license pre-installed; hot-swap PSU):\n- STH-32C-HSI, 32x100G — $6,000 USD EXW\n- STH-2C6QX-HSI, 6x40G + 2x100G, half-width — $1,200 USD EXW\n- STH-8C48DX-HSI, 48x25G + 8x100G — $4,800 USD EXW\n(2026 Q2 list; valid 15 days from this mail.)\n\nFor the Volktek-class access range you sell: 24x1G + 4x10G SFP+ L2+ managed, PoE 280W — $180 USD EXW (the $170 in our summer mail was the previous batch), OEM label/GUI possible from 50 pcs (price per 2026-10 table, valid 15 days).\n\nOne question: is the first project a 10G/25G aggregation box or a 100G core?\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来"
+  }
+ ]
 }

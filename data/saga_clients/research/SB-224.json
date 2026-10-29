@@ -112,5 +112,12 @@
    "body": "For a small TV studio network, the 8-port gigabit PoE+ switch with 2 SFP is $84.1 EXW and pairs with our HDMI-over-fibre extenders; what are you connecting — cameras, encoders or both?"
   },
   "as_of": "2026-10-24"
+ },
+ "lt_review": {
+  "batch": "LT-01",
+  "status": "待过",
+  "prio": 2,
+  "date": "2026-10-29",
+  "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 2，WA ✔，展会 —，绑定 轻度触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  }
 }

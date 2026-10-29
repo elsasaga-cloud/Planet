@@ -145,5 +145,12 @@
    "body": "Hi Cumhur,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth. Thank you for your card.\n\nFor the PoE switches your dealers buy with Dahua cameras, a private-label line that does not overlap with the TP-Link range you distribute: 2 x SFP + 8 x Gigabit PoE+, unmanaged, model STC-228GP - $33.2 USD EXW; 24 x Gigabit PoE+ with uplinks, model STC-2024GP - $93.5 USD EXW (distributor prices, MOQ 1, 15-day validity, CE/RoHS). Anıl Telekom label on the unit and carton from a 50-piece lot.\n\nOne question: for a first test, would you want the 50 pieces with your label, or neutral?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "lt_review": {
+  "batch": "LT-01",
+  "status": "待过",
+  "prio": 2,
+  "date": "2026-10-29",
+  "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 ✔，绑定 未发信））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  }
 }

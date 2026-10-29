@@ -75,8 +75,8 @@
   "tier": 20,
   "why": "MikroTik 顾问做项目 + 拟经销：先按经销 20% 档（$180 已是 20% 档价），项目成交后再定；样品 2 台口径已定"
  },
- "grade_override": "B",
- "override_reason": "有具名 KP + 真实意向 + 样品 PI 已开，但新公司、无项目、未付款 → B（等项目；若样品付款即升 A）",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌",
  "mail_review": {
   "binding": {
    "level": "轻度绑定→样品 PI 未付（2026-09-29 起 4 封实质来信：要目录、问 UK 分销 → 「project by project」+ 愿买样 → 10-17 给地址、Simon 开 2 台 STC-424XGGPM-280W $180 的样品发票 → 同日「unable to make the payment now… when I have a project」；Elsa 箱：`to:millievolution.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 5 / 来 4）（第 74 批(j)））",
@@ -159,5 +159,15 @@
  "company_facts": {
   "legal_name": "MILLISECONDS EVOLUTION LIMITED（Companies House 16807798；2025-10-24；128 City Road London EC1V 2NX（注册代理地址）；SIC 62020 / 62030 / 70229 / 85590；首份账目 2027-07-24 到期）",
   "staff": "初创微型（3 董事）（第 86 批 官方登记核实 2026-10-27）"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "有具名 KP + 真实意向 + 样品 PI 已开，但新公司、无项目、未付款 → B（等项目；若样品付款即升 A）",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌"
+  }
+ ]
 }

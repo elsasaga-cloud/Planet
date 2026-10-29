@@ -17,5 +17,57 @@
  ],
  "researched_at": "2026-10-29",
  "country_fix": "白俄罗斯",
- "notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。"
+ "notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。",
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "B",
+   "prev_reason": "",
+   "reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 自有 iFLOW 牌 + 多牌分销 · OEM 30% / 分销 20%：ООО «Торговый дом «АВАНТ-ТЕХНО»（Минск, ул. Короля 45；avant.by + utepo.by 同主体；BYN 计价；Hikvision / Utepo / 自有 iFLOW 工业 PoE）部分坐实（УНП 未取）；国别纠偏 俄罗斯 → 白俄罗斯 待 Simon；自有牌…；闸 1：白俄罗斯 Avant（avant.by；表内国别俄罗斯，域 .by；工商业 FS 好几家牌子，有宇航等国内的）：进口中国同类 ✔ 对位 ✔ 俄语区先例；未触达 → 闸 2 查底数 + 国别核（RU → BY 待证据）；RU + BY 收款…"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 自有 iFLOW 牌 + 多牌分销 · OEM 30% / 分销 20%：ООО «Торговый дом «АВАНТ-ТЕХНО»（Минск, ул. Короля 45；avant.by + utepo.by 同主体；BYN 计价；Hikvision / Utepo / 自有 iFLOW 工业 PoE）部分坐实（УНП 未取）；国别纠偏 俄罗斯 → 白俄罗斯 待 Simon；自有牌…；闸 1：白俄罗斯 Avant（avant.by；表内国别俄罗斯，域 .by；工商业 FS 好几家牌子，有宇航等国内的）：进口中国同类 ✔ 对位 ✔ 俄语区先例；未触达 → 闸 2 查底数 + 国别核（RU → BY 待证据）；RU + BY 收款…",
+ "lt_review": {
+  "status": "留 B",
+  "batch": "LT-R03",
+  "prio": 1,
+  "queued": "LT-R03",
+  "verdict_date": "2026-10-29",
+  "note": "桌面复核（闸 2 证据，三问成立）：○ 自有 iFLOW 牌 + 多牌分销 · OEM 30% / 分销 20%：ООО «Торговый дом «АВАНТ-ТЕХНО»（Минск, ул. Короля 45；avant.by + utepo.by 同主体；BYN 计价；Hikvision / Utepo / 自有 iFLOW 工业 PoE）部分坐实（УНП 未取）；国别纠偏 俄罗斯 → 白俄罗斯 待 Simon；自有牌 …；备注：白俄罗斯收款待定；自有 iFLOW 工业 PoE = OEM 目标",
+  "why": "C 升 B（池位 ○，部分坐实 / 未坐实）→ 深挖：官网 / 进口数据 / 项目，确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备"
+ },
+ "mail_review": {
+  "as_of": "2026-10-29",
+  "binding": {
+   "level": "未绑定（C 池捞出，仓内无往来记录）",
+   "basis": "三闸：闸 0 活着 + 闸 1 对位候选 + 闸 2 坐实 / 部分坐实"
+  },
+  "situation": "C 池三闸捞出 → B（LT-01）：○ 自有 iFLOW 牌 + 多牌分销 · OEM 30% / 分销 20%：ООО «Торговый дом «АВАНТ-ТЕХНО»（Минск, ул. Короля 45；avant.by + utepo.by 同主体；BYN 计价；Hikvision / Utepo / 自有 iFLOW 工业 PoE）部分坐实（УНП 未取）；国别纠偏 俄罗斯 → 白俄罗斯 待 Simon；自有牌…",
+  "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
+  "breakpoint": "无往来（从未触达或仅群发无回）",
+  "saga_now": {
+   "p1": "",
+   "why": "待复核后按业务线定首推型号"
+  },
+  "next_move": {
+   "when": "不动：LT-01 复核（待过）后再定",
+   "channel": "—",
+   "action": "长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备"
+  },
+  "facts": [
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 三闸（sieve.json）",
+    "quote": "○ 自有 iFLOW 牌 + 多牌分销 · OEM 30% / 分销 20%：ООО «Торговый дом «АВАНТ-ТЕХНО»（Минск, ул. Короля 45；avant.by + utepo.by 同主体；BYN 计价；Hikvision / Utepo / 自有 iFLOW 工业 PoE）部分坐实（УНП 未取）；国别纠偏 俄罗斯 → 白俄罗斯 待 Simon；自有牌 ✔ 已进口中国同类 ✔ 对位 ✔ → P 池候选（预付 100%，白俄收款路径待 Simon）",
+    "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   }
+  ],
+  "proof_gaps": [
+   "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
+  ]
+ }
 }

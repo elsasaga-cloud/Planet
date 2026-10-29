@@ -68,8 +68,8 @@
    "source": "https://www.dersicherheitsdienst.de/news/565-liveye-beruft-markus-diederichs-in-die-geschaeftsfuehrung"
   }
  ],
- "grade_override": "B",
- "override_reason": "无具体需求信号、0 回复 / 7 次 → 慢跟（德国主攻区故保留 B）。",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌",
  "notes": "WA 季度触达。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -176,5 +176,15 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "无具体需求信号、0 回复 / 7 次 → 慢跟（德国主攻区故保留 B）。",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌"
+  }
+ ]
 }

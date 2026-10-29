@@ -1,0 +1,128 @@
+# XB-C1115 · Wortmann AG · 德国
+
+> **现判 XC 暂不管** ｜ 人工改级 2026-10-29：C（Q-76 LT-01 2026-10-29：无可用邮箱（无路径）→ C 储备；补到邮箱即回 B） ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:17339 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W3-R13 2026-10-28）→ 下一动作 不动
+
+## 1. 初判与理由
+- 初判：**XB** — 主攻区渠道型买家，但来源库只给了官网/—，没有邮箱 → 先 XB，补到邮箱再升
+- 人工改级：XC（2026-10-29，Q-76 LT-01 2026-10-29：无可用邮箱（无路径）→ C 储备；补到邮箱即回 B）；编号不变
+- 标记：多处出现×2、缺联系
+- 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
+- 规则：编号一次分配、永不重排；深度研究后升降只改「等级」字段并移动文件夹（见 00-总索引）
+
+## 2. 基本事实（来源库口径，未经本库复核）
+| 项 | 内容 |
+|---|---|
+| 公司 | Wortmann AG |
+| 国家 / 城市 | 德国 |
+| ISO | DE |
+| 网站 | wortmann.de |
+| 类型 / 角色 | Vollsortiment IT分销商 + 制造商（TERRA品牌） |
+| 他们首推（仅参考，不照搬） | — |
+| 来源库分级 / 星级（仅参考） | ★ |
+| 来源章节 | ===== 意大利 Part 2 ===== (113-122, 10个渠道) > 🇩🇪 德国 Part 8：IT分销商生态 + Milesight渠道伙伴 + Security Essen展商（#499-515） |
+| 来源库字段·公司类型 | Vollsortiment IT分销商 + 制造商（TERRA品牌） |
+| 来源库字段·总部 | Hüllhorst, Nordrhein-Westfalen, Germany |
+| 来源库字段·成立时间 | 1986年 |
+| 来源库字段·营收 | ~€20亿（2024年） |
+| 来源库字段·员工 | ~2,000人 |
+| 来源库字段·网站 | wortmann.de |
+| 来源库字段·行业 | IT分销 + PC/服务器/显示器制造（TERRA品牌） |
+| 来源库字段·角色 | 德国#1 Vollsortiment分销商（Channel Excellence Awards连续多年#1） |
+| 来源库字段·客户优先级 | 🟢 A类（德国#1 Vollsortiment分销商，大量PoE需求） |
+| 来源库字段·匹配度 | 高（PoE分销渠道，SMB定位匹配） |
+| 来源库字段·Simon可切入 | 中等（需通过供应商审核，但门槛低于Broadline） |
+| 来源库字段·IT分销 | 全品类硬件、软件、网络产品 |
+| 来源库字段·自有品牌TERRA | PC、笔记本、显示器、服务器（"Made in Germany"） |
+| 来源库字段·TERRA Cloud | 云服务（Microsoft CSP） |
+| 来源库字段·网络产品 | 官网有**331款网络交换机**在售！ |
+| 来源库字段·优先级 | 9 |
+| 来源库字段·类型 | A类Vollsortiment |
+| 来源库字段·切入点 | 331款交换机在售 |
+| 来源文件 | `03-海外客户开发清单.md` 第 17339 行 @ elsasaga-cloud/CCTV-PoE@9be1416 (arena/01a0c908-cctv-poe) |
+| 同一家在来源库其他位置 | `03-海外客户开发清单.md`:18930（🇩🇪 德国 Part 11：安防安装商/集成商深挖 + Smart Buildi） |
+
+## 3. 联系方式
+- 邮箱：无（表单或待挖）
+
+## 4. 关键人（KP）
+- 无（待挖）
+
+## 5. 证据与来源 URL（来源库）
+- 无
+
+## 6. 已知触达
+- Saga S 箱 2026-09/10 群发名单：未匹配到本户邮箱
+
+## 6b. 来源库原文块（原样，含其产品主张——不采信型号与价格）
+
+> 502. Wortmann AG 🟢🟢🟢
+> | 维度 | 详情 |
+> |------|------|
+> | **公司全称** | Wortmann AG |
+> | **公司类型** | Vollsortiment IT分销商 + 制造商（TERRA品牌） |
+> | **总部** | Hüllhorst, Nordrhein-Westfalen, Germany |
+> | **成立时间** | 1986年 |
+> | **营收** | ~€20亿（2024年） |
+> | **员工** | ~2,000人 |
+> | **网站** | wortmann.de |
+> | **行业** | IT分销 + PC/服务器/显示器制造（TERRA品牌） |
+> | **角色** | 德国#1 Vollsortiment分销商（Channel Excellence Awards连续多年#1） |
+> 
+> **核心业务：**
+> - **IT分销**： 全品类硬件、软件、网络产品
+> - **自有品牌TERRA**： PC、笔记本、显示器、服务器（"Made in Germany"）
+> - **TERRA Cloud**： 云服务（Microsoft CSP）
+> - **网络产品**： 官网有**331款网络交换机**在售！
+>   - D-Link：DGS-1510-52XMP（48口GBit PoE 370W/4×SFP+）、DGS-1210-08P（8口PoE Managed）
+>   - Netgear：GS524（24口）等
+>   - 多种PoE交换机可选
+> 
+> **PoE交换机需求分析：**
+> - ✅ **331款交换机在售** — 网络产品是重要品类
+> - ✅ **"Made in Germany"理念** — 但分销非自产品牌，开放度高
+> - ✅ **Vollsortiment分销** — 服务大量中小经销商
+> - ✅ **SMB定位** — 与Saga的性价比定位匹配
+> - ✅ **德国制造品牌** — 对供应链品质要求高但合理
+> 
+> **开发策略：**
+> - 📞 联系Wortmann网络产品采购经理
+> - 📧 定位：补充现有PoE产品线（中低端性价比型号）
+> - 🎯 强调CE认证、库存交期、技术支持
+> - 💡 **Wortmann是Saga PoE进入德国分销渠道的理想入口**
+> 
+> | 维度 | 评估 |
+> |------|------|
+> | **客户优先级** | 🟢 **A类**（德国#1 Vollsortiment分销商，大量PoE需求） |
+> | **匹配度** | 高（PoE分销渠道，SMB定位匹配） |
+> | **Simon可切入** | 中等（需通过供应商审核，但门槛低于Broadline） |
+> 
+> ---
+>
+> ——另见 `03-海外客户开发清单.md`:18930：
+> | 优先级 | 公司 | 类型 | 切入点 |
+> | 9 | **Wortmann** (#502) | A类Vollsortiment | 331款交换机在售 |
+
+## 7. 我方产品线提示
+- HRUI PoE 非管理型为主 + SmartByte PoE 管理型（安防/CCTV 渠道：价格 + 交期 + 长距 PoE）
+- 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
+- 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
+
+## 8. 研究卡（第 2 步，W3-R13，2026-10-28）
+
+- **结论：XB** — 巨头（BIG）：自有品牌 TERRA 由成熟 ODM 体系供货，小贸易商难切入，不再补查 → B 不动；邮箱未记
+- 活着吗：本轮 web_search 复核在线（2026-10-28）
+- 一句话：德国 IT 厂商 + 分销（WORTMANN AG，Hüllhorst；1986 起；自有品牌 TERRA；2025 营收 €12 亿；约 800 人；16,000 家经销商）
+- 是什么人：德国 IT 厂商 + 分销（WORTMANN AG，Hüllhorst；1986 起；自有品牌 TERRA；2025 营收 €12 亿；约 800 人；16,000 家经销商）；规模：德国 IT 厂商 + 分销（WORTMANN AG，Hüllhorst；1986 起；自有品牌 TERRA；2025 营收 €12 亿；约 800 人；16,000 家经销商）
+- 对口哪条线：—
+- 找得到人吗：（缺）；KP：无具名
+- 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
+- 与 Saga Clients：无
+- **下一动作：不动**；建议 不动
+
+证据：
+| 类型 | 说明 | 摘录 | 来源 | 日期 |
+|---|---|---|---|---|
+| 来源库官网/名录核对 | Vollsortiment IT分销商 + 制造商（TERRA品牌） |  | https://wortmann.de/ | 2026-09-28 |
+| 本轮网查 | Kurzprofil：über 1 Milliarde € Umsatz in 2025…Hersteller, Distributor und Cloud Service Anbieter…ungefähr 800 Mitarbeitern über 16.000 Fachhändler | Als Hersteller, Distributor und Cloud Service Anbieter bedienen wir mit ungefähr 800 Mitarbeitern über 16.000 Fachhändler und Systemhäuser in ganz Europa | https://www.wortmann.de/de-de/content/unternehmen-kurzprofil.aspx | 2026-10-28 |
+
+- 备注：本轮网查复核（2026-10-28，证据见 §8「本轮网查」条）。

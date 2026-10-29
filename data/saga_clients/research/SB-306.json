@@ -26,8 +26,8 @@
    "role": "Digital Systems 经营者（古吉拉特；WA；2024-04 对 10G MC 回 Yes + 名片）= 收件人（第 114 批 官方登记核实 2026-10-28）"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -123,5 +123,15 @@
    "body": "Hi Jayesh,\n\nYou mentioned moving from local-market media converters to importing directly. The gigabit converter for a first mixed carton: industrial Gigabit, 1 x RJ45 + 1 x SFP slot (or fixed SC 20 km), DIN-rail, -40 to 75 C, CE/RoHS (BIS stays on your side) - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); the 10G media converter we discussed is quoted separately once I know the quantity.\n\nOne question: for a first mixed carton of gigabit and 10G converters, what quantity per model would make the freight worthwhile for you?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）"
+  }
+ ]
 }

@@ -56,8 +56,8 @@
    "role": "Solution Architect（研究档 KP；2026-01-15 真回 CENTEC「great alternative in our market」；2026-03-10 带 C9300L-48P-4X 等价 8 台堆叠需求）= 收件人 — 一页纸 + 补答：STH1G 48×1G PoE+ + 4×10G SFP+ 堆叠 按主表报 + 堆叠带宽 / PoE 预算 / 交期如实 + 付费样机；FOB 深圳；一句话问国别 （第 122 批 官方登记核实 2026-10-29）"
   }
  ],
- "grade_override": "B",
- "override_reason": "5 封实质来信（2026-01 ×2、03 ×3），带终端客户具体型号（C9300L-48P-4X 等价 + 堆叠）进入 CENTEC STH1G 选型，停在「数量？」；gmail 地址导致自动 C，按证据升 B（慢慢跟进）。",
+ "grade_override": "A",
+ "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
  "notes": "国别未填：信中「our market」未点名；姓氏 Beltetón 多见于危地马拉（待证）。非欧美土主攻，但是仓内唯一一个把 STH1G（CENTEC 48×1G PoE 堆叠线）谈到参数层面的客户（另一个是 SB-826 Versitron，只发未回）。",
  "deep": {
   "done_at": "2026-10-24",
@@ -198,5 +198,15 @@
    "subject": "Re: OEM Core Switching Solution — STH-2QX4DX48GP-HSI vs C9300L-48P-4X, is the project still open?",
    "body": "Hi, Arnoldo,\n\nIn March we settled on the CENTEC-based STH-2QX4DX48GP-HSI as the stackable alternative to the C9300L-48P-4X, and I owe you a cleaner comparison than a datasheet:\n\n- Access: 48 x 1G PoE++ (90 W per port, 1200 W dual hot-swap PSU) vs 48 x 1G PoE+ on the Cisco\n- Uplinks: 4 x 25G SFP28 + 2 x 40G QSFP+ (25G ports can run at 10G) vs 4 x 10G SFP+\n- Stacking: up to 8 units, ring or chain over the fiber ports, 360 Gbps vs StackWise-320\n- Software: L3 with OSPF/BGP/PIM, VXLAN-EVPN, MPLS, MACsec, SNMP v3/CLI/Web; your own logo and model name on the unit\n\nIf the budget is tighter, the -SFI version (PoE+ 30 W, single PSU) is the lighter option.\n\nOne question: is the C9300L replacement still open, and roughly how many units (how many 8-unit stacks, how many sites)? With that I will give you the EXW unit price instead of a range.\n\nThank you.\nAlan\nSaga Telecom - sagatele.com"
   }
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "5 封实质来信（2026-01 ×2、03 ×3），带终端客户具体型号（C9300L-48P-4X 等价 + 堆叠）进入 CENTEC STH1G 选型，停在「数量？」；gmail 地址导致自动 C，按证据升 B（慢慢跟进）。",
+   "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）"
+  }
+ ]
 }

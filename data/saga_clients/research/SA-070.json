@@ -65,8 +65,8 @@
    "source": "https://www.videostar.it/it/chi-siamo.html"
   }
  ],
- "grade_override": "A",
- "override_reason": "A 三条件：① 可追溯需求——在采 ONV（Saga 直接可替代的同类中国品牌）且嫌价高，展会问 12 光 12 电/芯片/电源，提问专业；② 直接具名联系人——官网公开 Direttore Commerciale Alfredo Timpanaro（alfredo.timpanaro@topsicurezza.com）与 Responsabile Import Tommaso Daniele（import@）；③ 可赢规模——西西里进口商、自有品牌 Videostar（OEM 贴牌买家），非巨头。",
+ "grade_override": "B",
+ "override_reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A",
  "notes": "重启用电话（固话在册）+ 一封'ONV 对位表'：12 光 12 电机型（核价）+ Marvell 芯片/电源规格答复。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -182,5 +182,15 @@
    "body": "Dear Sig. Timpanaro,\n\nAt IFSEC 2023 you told us you buy from ONV, are happy with the quality but find the price high at times, and asked about a 12-fibre + 12-copper unit and the chipset and power supply inside. The mails you had from us since were general ones; this is specific.\n\nFor the Videostar PoE line: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell switch core, industrial-grade power stage, CE/RoHS - model STC-28DGGPM - $87.4 USD EXW with the Videostar logo in the web UI (MOQ 1, 15-day validity; printed carton from 200 sets). For the 12-fibre + 12-copper position I quote against the exact ONV code rather than guess.\n\nOne question: which ONV code do you buy for the 12-fibre + 12-copper unit today?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "A 三条件：① 可追溯需求——在采 ONV（Saga 直接可替代的同类中国品牌）且嫌价高，展会问 12 光 12 电/芯片/电源，提问专业；② 直接具名联系人——官网公开 Direttore Commerciale Alfredo Timpanaro（alfredo.timpanaro@topsicurezza.com）与 Responsabile Import Tommaso Daniele（import@）；③ 可赢规模——西西里进口商、自有品牌 Videostar（OEM 贴牌买家），非巨头。",
+   "reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A"
+  }
+ ]
 }

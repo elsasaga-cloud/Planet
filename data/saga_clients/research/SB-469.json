@@ -47,8 +47,8 @@
    "role": "研究档 KP（procurement@）— 公司为中国货源采购代理 / 转口商（第 110 批 官方登记核实 2026-10-28）"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "Q-76 LT-R04 2026-10-29 复核打回 C 储备：novytel（捷克）：进出口贸易中介，仅一次 VC（光端机）RFQ = 本职线 + 中介 → C 储备（dayjob_fit）；c_sub=储备·复核打回 ；回信 / 询价即回 B",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
@@ -127,5 +127,24 @@
    "body": "Hi Miloš,\n\nYou asked on Alibaba for media converters and did not get a proper answer from us - apologies, here it is.\n\nNeutral-brand industrial converters, DIN-rail, -40 to 75 C, CE/RoHS, from small lots: Gigabit, 1 x RJ45 + 1 x SFP slot (or fixed SC single-mode 20 km) - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); Gigabit PoE+ version - STI-111GP - $27.8. Desktop versions on request.\n\nOne question: what quantity and fibre type - single-mode distance, or SFP-slot so the customer picks the optic - does your end customer need?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "lt_review": {
+  "status": "打回 C",
+  "batch": "LT-R04",
+  "prio": 2,
+  "queued": "LT-R04",
+  "verdict_date": "2026-10-29",
+  "note": "novytel（捷克）：进出口贸易中介，仅一次 VC（光端机）RFQ = 本职线 + 中介 → C 储备（dayjob_fit）",
+  "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未发信））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
+ },
+ "override_history": [
+  {
+   "batch": "LT-R04",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "C",
+   "prev_reason": "",
+   "reason": "novytel（捷克）：进出口贸易中介，仅一次 VC（光端机）RFQ = 本职线 + 中介 → C 储备（dayjob_fit）"
+  }
+ ]
 }

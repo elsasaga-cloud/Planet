@@ -48,8 +48,8 @@
    "source": "https://www.nsidistribution.com/our-stores"
   }
  ],
- "grade_override": "A",
- "override_reason": "Planet 渠道档案 PA-004 评 A（真实需求 + 具名联系人 + 体量可赢，规则 INH）；Saga 表内未互动故自动评 B，按调研提升",
+ "grade_override": "B",
+ "override_reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B4 四主区+对位+坐实；B5 四主区+对位（冷）；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -182,5 +182,15 @@
    "body": "Hi, Norm,\n\nWe have sent NSI a few notes this year — the 10G L3 managed switch in June, the industrial and booster PoE units before that — and never gave you a reason to answer. No brochure this time, just one question:\n\nIs there a line in your distribution catalogue where a Marvell-based 24-port PoE switch with 4× 10G SFP+ uplinks (STC-424DGGPM-440W, $215.2 USD EXW, OEM label possible) would fit — and who at NSI decides on new vendors?\n\nIf not, a one-word reply is enough and I will take you off the catalog mails.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "Planet 渠道档案 PA-004 评 A（真实需求 + 具名联系人 + 体量可赢，规则 INH）；Saga 表内未互动故自动评 B，按调研提升",
+   "reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B4 四主区+对位+坐实；B5 四主区+对位（冷）；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A"
+  }
+ ]
 }

@@ -44,8 +44,8 @@
   }
  ],
  "kp": [],
- "grade_override": "C",
- "override_reason": "用户判定不行/不相关（尊重用户表判断，保留 C）；Planet 渠道档案 PB-028 评 B 仅作参考",
+ "grade_override": "B",
+ "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 工业 B2B 电商 + 自有商标 · OEM 30%：Lastella Trade S.r.l. = digitX.it（Funo di Argelato BO；P.I. 03695681209 / REA 539359；门户 2007 起；2018 注册商标 digitx；在售 Moxa / Planet / Teltonika）坐实；进口 3onedata / Planet ✔ 自有商标…；闸 1：意大利 Digitx（digitx.it；研究档：博洛尼亚工业电子 B2B 电商 2012 起，卖 Moxa / PLANET / 3onedata / Teltonika / Mean Well 给自动化客户；bypass / 工业电源…",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -86,5 +86,55 @@
   "tier": 20,
   "why": "其 PLANET 在售以工业 DIN 线为主（ISW/IGS）；Saga 工业 8 口 PoE L2+ 对位；电商/经销走量 → 20%（沿用 Planet 档案 PB-028）；需求："
  },
- "email_hook": "（不主动发送：用户判定不行）"
+ "email_hook": "（不主动发送：用户判定不行）",
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": "C",
+   "to": "B",
+   "prev_reason": "用户判定不行/不相关（尊重用户表判断，保留 C）；Planet 渠道档案 PB-028 评 B 仅作参考",
+   "reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 工业 B2B 电商 + 自有商标 · OEM 30%：Lastella Trade S.r.l. = digitX.it（Funo di Argelato BO；P.I. 03695681209 / REA 539359；门户 2007 起；2018 注册商标 digitx；在售 Moxa / Planet / Teltonika）坐实；进口 3onedata / Planet ✔ 自有商标…；闸 1：意大利 Digitx（digitx.it；研究档：博洛尼亚工业电子 B2B 电商 2012 起，卖 Moxa / PLANET / 3onedata / Teltonika / Mean Well 给自动化客户；bypass / 工业电源…"
+  }
+ ],
+ "lt_review": {
+  "status": "留 B",
+  "batch": "LT-R02",
+  "prio": 1,
+  "queued": "LT-R02",
+  "verdict_date": "2026-10-29",
+  "note": "桌面复核（闸 2 证据充分，三问成立）：○ 工业 B2B 电商 + 自有商标 · OEM 30%：Lastella Trade S.r.l. = digitX.it（Funo di Argelato BO；P.I. 03695681209 / REA 539359；门户 2007 起；2018 注册商标 digitx；在售 Moxa / Planet / Teltonika）坐实；进口 3onedata / Planet ✔ 自有商标 ✔ 欧洲 ✔ 对位 ✔ → P 池候选（…",
+  "why": "C 升 B（池位 ○，部分坐实 / 未坐实）→ 深挖：官网 / 进口数据 / 项目，确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备"
+ },
+ "mail_review": {
+  "as_of": "2026-10-29",
+  "binding": {
+   "level": "未绑定（C 池捞出，仓内无往来记录）",
+   "basis": "三闸：闸 0 活着 + 闸 1 对位候选 + 闸 2 坐实 / 部分坐实"
+  },
+  "situation": "C 池三闸捞出 → B（LT-01）：○ 工业 B2B 电商 + 自有商标 · OEM 30%：Lastella Trade S.r.l. = digitX.it（Funo di Argelato BO；P.I. 03695681209 / REA 539359；门户 2007 起；2018 注册商标 digitx；在售 Moxa / Planet / Teltonika）坐实；进口 3onedata / Planet ✔ 自有商标…",
+  "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
+  "breakpoint": "无往来（从未触达或仅群发无回）",
+  "saga_now": {
+   "p1": "",
+   "why": "待复核后按业务线定首推型号"
+  },
+  "next_move": {
+   "when": "不动：LT-01 复核（待过）后再定",
+   "channel": "—",
+   "action": "长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备"
+  },
+  "facts": [
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 三闸（sieve.json）",
+    "quote": "○ 工业 B2B 电商 + 自有商标 · OEM 30%：Lastella Trade S.r.l. = digitX.it（Funo di Argelato BO；P.I. 03695681209 / REA 539359；门户 2007 起；2018 注册商标 digitx；在售 Moxa / Planet / Teltonika）坐实；进口 3onedata / Planet ✔ 自有商标 ✔ 欧洲 ✔ 对位 ✔ → P 池候选（退信 → 官网表单 / 电话）；Simon 曾判不行，可否决",
+    "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   }
+  ],
+  "proof_gaps": [
+   "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
+  ]
+ }
 }

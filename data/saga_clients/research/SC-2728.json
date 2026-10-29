@@ -1,0 +1,89 @@
+{
+ "code": "SC-2728",
+ "name_official": "bluehelix.co.uk",
+ "researched_at": "2026-10-29",
+ "website_status": "",
+ "summary": "C 池三闸捞出（△ 观察）：△ 观察档 · 分销 20%：Blue Helix Limited（CH 04836349；AMG / ComNet / D-Link 分销；28 人）部分坐实，名录标 SIC 99999 休眠 vs 官网在营 → 法人待 CH 直查；分销 ✔ 主区 ✔ 对位 ✔ → 入池观察档 + 预付；Simon 曾判不行，可否决",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [],
+ "kp": [],
+ "grade_override": "C",
+ "override_reason": "Q-76 LT-R01 2026-10-29 复核打回 C 储备：Blue Helix Limited（CH 04836349）：Companies House 账目类别 Dormant / SIC 99999 休眠，名录（kompass）却标 20–49 人在营 → 交易主体不明朗（可能经 06248590 等关联号）；按「不明朗 → C 储备」，对方回信即回 B；c_sub=储备·复核打回 ；回信 / 询价即回 B",
+ "notes": "（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "override_history": [
+  {
+   "batch": "LT-01",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "B",
+   "prev_reason": "",
+   "reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · 分销 20%：Blue Helix Limited（CH 04836349；AMG / ComNet / D-Link 分销；28 人）部分坐实，名录标 SIC 99999 休眠 vs 官网在营 → 法人待 CH 直查；分销 ✔ 主区 ✔ 对位 ✔ → 入池观察档 + 预付；Simon 曾判不行，可否决；闸 1：英国 Blue Helix（主要卖 AMG / Comnet 工业以太网）：英国主区 + 工业网络分销主体 + 对位 ✔；19 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决"
+  },
+  {
+   "batch": "LT-R01",
+   "date": "2026-10-29",
+   "from_override": "B",
+   "to": "C",
+   "prev_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · 分销 20%：Blue Helix Limited（CH 04836349；AMG / ComNet / D-Link 分销；28 人）部分坐实，名录标 SIC 99999 休眠 vs 官网在营 → 法人待 CH 直查；分销 ✔ 主区 ✔ 对位 ✔ → 入池观察档 + 预付；Simon 曾判不行，可否决；闸 1：英国 Blue Helix（主要卖 AMG / Comnet 工业以太网）：英国主区 + 工业网络分销主体 + 对位 ✔；19 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决",
+   "reason": "Blue Helix Limited（CH 04836349）：Companies House 账目类别 Dormant / SIC 99999 休眠，名录（kompass）却标 20–49 人在营 → 交易主体不明朗（可能经 06248590 等关联号）；按「不明朗 → C 储备」，对方回信即回 B"
+  }
+ ],
+ "lt_review": {
+  "status": "打回 C",
+  "batch": "LT-R01",
+  "prio": 1,
+  "queued": "LT-R01",
+  "verdict_date": "2026-10-29",
+  "note": "Blue Helix Limited（CH 04836349）：Companies House 账目类别 Dormant / SIC 99999 休眠，名录（kompass）却标 20–49 人在营 → 交易主体不明朗（可能经 06248590 等关联号）；按「不明朗 → C 储备」，对方回信即回 B",
+  "why": "C 升 B（池位 △，部分坐实 / 未坐实）→ 深挖：官网 / 进口数据 / 项目，确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备"
+ },
+ "mail_review": {
+  "as_of": "2026-10-29",
+  "binding": {
+   "level": "未绑定（C 池捞出，仓内无往来记录）",
+   "basis": "三闸：闸 0 活着 + 闸 1 对位候选 + 闸 2 坐实 / 部分坐实"
+  },
+  "situation": "C 池三闸捞出 → B（LT-01）：△ 观察档 · 分销 20%：Blue Helix Limited（CH 04836349；AMG / ComNet / D-Link 分销；28 人）部分坐实，名录标 SIC 99999 休眠 vs 官网在营 → 法人待 CH 直查；分销 ✔ 主区 ✔ 对位 ✔ → 入池观察档 + 预付；Simon 曾判不行，可否决",
+  "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
+  "breakpoint": "无往来（从未触达或仅群发无回）",
+  "saga_now": {
+   "p1": "",
+   "why": "待复核后按业务线定首推型号"
+  },
+  "next_move": {
+   "when": "不动：LT-01 复核（待过）后再定",
+   "channel": "—",
+   "action": "长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备"
+  },
+  "facts": [
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 三闸（sieve.json）",
+    "quote": "△ 观察档 · 分销 20%：Blue Helix Limited（CH 04836349；AMG / ComNet / D-Link 分销；28 人）部分坐实，名录标 SIC 99999 休眠 vs 官网在营 → 法人待 CH 直查；分销 ✔ 主区 ✔ 对位 ✔ → 入池观察档 + 预付；Simon 曾判不行，可否决",
+    "why": "闸 2 坐实 / 对位依据（非邮件事实，不计真回）"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 复核 LT-R01",
+    "quote": "BLUE HELIX LIMITED 04836349 — Account category DORMANT；SIC 99999 Dormant Company；Newbury RG14 5TN",
+    "why": "长期客户群复核证据（非邮件事实，不计真回）",
+    "url": "https://www.aihitdata.com/company/0034F506/blue-helix/overview"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 复核 LT-R01",
+    "quote": "kompass：Blue Helix，SIC 46520 电子电信设备批发，20–49 人，成立 2003",
+    "why": "长期客户群复核证据（非邮件事实，不计真回）",
+    "url": "https://gb.kompass.com/c/blue-helix/gb25016169/"
+   }
+  ],
+  "proof_gaps": [
+   "无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例"
+  ]
+ }
+}

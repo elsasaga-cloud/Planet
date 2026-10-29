@@ -38,8 +38,8 @@
    "source": "用户 Clients 表"
   }
  ],
- "grade_override": "B",
- "override_reason": "伊拉克非主攻区（收款/物流风险），1 次回复后 18 次无果 → 慢跟。",
+ "grade_override": "C",
+ "override_reason": "Q-76 LT-R04 2026-10-29 复核打回 C 储备：cyber-tec.net（伊拉克）：域名不可达（快照失败），百兆收发器一次询价后无路径 → C 储备；对方来信即回 B；c_sub=储备·复核打回 ；回信 / 询价即回 B",
  "notes": "WA 季度触达。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -125,5 +125,24 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
- }
+ },
+ "lt_review": {
+  "status": "打回 C",
+  "batch": "LT-R04",
+  "prio": 2,
+  "queued": "LT-R04",
+  "verdict_date": "2026-10-29",
+  "note": "cyber-tec.net（伊拉克）：域名不可达（快照失败），百兆收发器一次询价后无路径 → C 储备；对方来信即回 B",
+  "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 1，WA ✔，展会 —，绑定 未发信））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
+ },
+ "override_history": [
+  {
+   "batch": "LT-R04",
+   "date": "2026-10-29",
+   "from_override": "B",
+   "to": "C",
+   "prev_reason": "伊拉克非主攻区（收款/物流风险），1 次回复后 18 次无果 → 慢跟。",
+   "reason": "cyber-tec.net（伊拉克）：域名不可达（快照失败），百兆收发器一次询价后无路径 → C 储备；对方来信即回 B"
+  }
+ ]
 }

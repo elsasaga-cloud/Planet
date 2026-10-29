@@ -177,5 +177,15 @@
    "body": "Hello,\n\nIn June 2025 you asked to see our website and the honest answer then was \"not much on it\". That has changed: sagatele.com now carries the product lines, firmware notes and company background.\n\nOne question: which ETK model in your range is sourced from an outside ODM today? If you name it, I will send the matching Marvell-based industrial unit (2.5G/10G uplinks, L2+/L3) and a sample price — nothing else.\n\nReference price: STI-488XGGPM (8× GE PoE + 4× 10G SFP+, managed DIN-rail) at $178.8 USD EXW, MOQ 1 pc, 15-day validity, 3-year warranty.\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "lt_review": {
+  "status": "留 B",
+  "batch": "LT-R04",
+  "prio": 2,
+  "queued": "LT-R04",
+  "verdict_date": "2026-10-29",
+  "note": "桌面复核（研究档类型 + 对位首推）：品牌商（自有 ETK 系列，疑 ODM 贴牌）+ 分销；切入：ETK 自有品牌补 SKU → STC-28DGGPM（Marvell L2+ 8 PoE + 2 SFP）贴牌，OEM 30%；工业带告警 STI-288GPM。；行业内 ✔ 对位 ✔（宽留冷「不对位」系 fit 标志未回填，非真不对位）",
+  "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 1，WA —，展会 —，绑定 未绑定））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
+ },
+ "override_history": []
 }
