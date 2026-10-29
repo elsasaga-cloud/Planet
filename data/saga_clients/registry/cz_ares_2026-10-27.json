@@ -4,7 +4,7 @@
   "source": "Czechia · ARES 官方 API（ares.gov.cz）+ or.justice.cz 商业登记",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 24
+  "count": 25
  },
  "rows": {
   "SA-089": {
@@ -790,6 +790,36 @@
    ],
    "notes": "分销 20%；P 池候选 ★（中型分销 + Planet 渠道 + 具名 KP；冷户 §5 四条齐）；坐实；dayjob 线索 CWDM。",
    "code": "SC-1335"
+  },
+  "SC-2609": {
+   "batch": 127,
+   "name": "PARTIZAN SECURITY s.r.o. — partizanstore.eu（**官网 Terms / Privacy：IČ 28909437；DIČ CZ28909437；Kresomyslova 384/17, Nusle, 140 00 Praha；布拉格市法院商事登记 C 152541；+420 776 345 933；About：Partizan = 2008 年创立的欧洲安防品牌，自产硬件 + 自研软件（IP / AHD CCTV、门禁、Partizan 软件 26 语种），总部布拉格，项目遍及 60+ 国**）→ 国别纠偏：表内「欧洲（国别未填）」→ 捷克；表内：商业 PoE 主要是洪瑞的；17 推 0 回；Simon 曾判不行",
+   "iso": "CZ",
+   "fetched": "2026-10-29",
+   "source": "CZ · 1 次检索：partizanstore.eu/en/commercial-terms-and-conditions/（IČ / 地址 / 登记）+ /about-us/（品牌沿革）；2026-10-29",
+   "url": "https://www.partizanstore.eu/en/commercial-terms-and-conditions/",
+   "number": "28909437（IČ；Praha C 152541）",
+   "status": "营业中（官网 2026）",
+   "incorporated": "未取（品牌 2008）",
+   "company_type": "s.r.o.",
+   "sic": [
+    "自有品牌 CCTV / 门禁（硬件 + 软件）+ 欧洲网店"
+   ],
+   "address": "Kresomyslova 384/17, Nusle, 140 00 Praha 4",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（推定）",
+   "officers": [
+    "（sales@partizanstore.eu 表内总邮箱；产品经理 KP 待 LinkedIn）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌 CCTV 配套 PoE 现由洪瑞供 → OEM 30%：一页纸一次（STC-028GP / STC-228GP / STC-2224GP 丝印 + MOQ + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地；洪瑞现供 → Q-33 口径（默认只推 SmartByte / Marvell 管理 + 工业线）**；Simon 可否决"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（自有品牌 + 现成贴牌需求 + 欧洲 + 坐实）；坐实（IČ）；国别纠偏 CZ；Q-33；Simon 曾判不行。",
+   "code": "SC-2609"
   }
  }
 }

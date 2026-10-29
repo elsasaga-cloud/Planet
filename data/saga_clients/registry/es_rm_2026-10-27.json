@@ -4,7 +4,7 @@
   "source": "España · Registro Mercantil（einforma / infoempresa / axesor 镜像）",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 8
+  "count": 13
  },
  "rows": {
   "SB-424": {
@@ -253,6 +253,157 @@
    ],
    "notes": "OEM 30%；P 池候选 △（自有品牌 ✔ 进口 Utepo ✔ 欧洲 ✔，但法人未坐实 → 预付 100%）；部分坐实。",
    "code": "SC-427"
+  },
+  "SC-2633": {
+   "batch": 127,
+   "name": "SiSeCam Solutions S.L.U.（sisecam.es / sisecamtiendaonline.es；**官网页脚：Oficina Central Avenida Condes de San Isidro 47, Planta 1ª Of. 2, Edificio Madrid, 29640 Fuengirola (Málaga)；+34 952 637 131；axis@sisecam.es；Axis 全线网店（对讲 / 音频 / 门禁，备货 + 10 天交付）**）；表内：工业 FS；Axis 及其他牌子分销；邮件 fail；Simon 曾判不行",
+   "iso": "ES",
+   "fetched": "2026-10-29",
+   "source": "ES · 1 次检索：sisecamtiendaonline.es（Axis 网店 3 页，页脚法人 S.L.U. + 地址 + 电话）；CIF 未取；2026-10-29",
+   "url": "https://sisecamtiendaonline.es/Control-de-acceso-fisico-Axis/Axis-Network-Intercoms-Series",
+   "number": "未取（CIF 未查）",
+   "status": "营业中（网店 2024 版权）",
+   "incorporated": "未取",
+   "company_type": "S.L.U.",
+   "sic": [
+    "Axis 安防网店 / 分销（马拉加）"
+   ],
+   "address": "Av. Condes de San Isidro 47, 1ª Of. 2, 29640 Fuengirola (Málaga)",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型 / 小型",
+   "officers": [
+    "（axis@sisecam.es 表内 = 曾 fail；官网仍公示同址；具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**Axis 体系网店 → 分销 20%：一页纸一次（STC-028GP / STC-228GP 配套 Axis 摄像机 + STI-154GP + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；邮件 fail → 官网表单 / 电话；Simon 可否决"
+   ],
+   "notes": "分销 20%；P 池候选 △（分销 ✔ 欧洲 ✔ 对位 ✔ 坐实 部分 ✔；Axis 体系微型 → 观察档）；部分坐实（CIF 未取）；Simon 曾判不行。",
+   "code": "SC-2633"
+  },
+  "SC-2718": {
+   "batch": 127,
+   "name": "MERCASAT SL（mercasat.es；**empresite / iberinform / einforma：CIF B92538883；Sociedad limitada unipersonal；资本 €3,120；CNAE 4652 电子 / 电信设备批发；Calle La Boheme 22 esq. Sal Marina, Pol. Ind., 29006 Málaga；952 105 737；22 年；BORME 2006 章程修改**）；表内：商业 PoE 好几种外壳、好多家国内牌子；Simon 曾判不行",
+   "iso": "ES",
+   "fetched": "2026-10-29",
+   "source": "ES · 1 次检索：empresite.eleconomista.es（CIF / 形式）+ iberinform（地址 / CNAE / Activa）+ einforma（资本 €3,120；BORME）；2026-10-29",
+   "url": "https://www.iberinform.es/empresa/1329911/mercasat",
+   "number": "B92538883（CIF）",
+   "status": "营业中（Activa）",
+   "incorporated": "约 2004（22 年）",
+   "company_type": "S.L. unipersonal",
+   "sic": [
+    "卫星 / 电信 / 电子设备批发（马拉加）"
+   ],
+   "address": "Calle La Boheme 22, Pol. Ind., 29006 Málaga",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（资本 €3,120）",
+   "officers": [
+    "（info@mercasat.es 表内总邮箱；具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**多牌进口批发 → 分销 20%：一页纸一次（STC-028GP $28 / STC-228GP $33 + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；资本微型 → 预付；Simon 可否决"
+   ],
+   "notes": "分销 20%；P 池候选 △（多牌直进 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔；资本 €3,120 微型 → 观察档 + 预付）；坐实（CIF）；Simon 曾判不行。",
+   "code": "SC-2718"
+  },
+  "SC-2725": {
+   "batch": 127,
+   "name": "TODO TELECOM, S.L.（todotelecom.com；**datoscif + 官网 aviso legal：CIF B53673364；Registro Mercantil de Alicante T 2552 F 86 H A-71082；资本 €26,800；Pol. Ind. Juyarco 40-A, Partida Madrigueres Sud, 03700 Dénia (Alicante)；96 578 44 63；BORME 2023-08 委任代理人 Francisco Manuel Valero Tello；webinfo@todotelecom.com**）；表内：商业 PoE 为主、多种外壳、销售平台、网站有 WA 按钮；Simon 曾判不行",
+   "iso": "ES",
+   "fetched": "2026-10-29",
+   "source": "ES · 1 次检索：datoscif.es（CIF / 资本 / BORME）+ todotelecom.com/content/3-condiciones-genrales-de-uso（登记）+ /content/2-aviso-legal-politica-privacidad（地址 / 电话）；2026-10-29",
+   "url": "https://www.datoscif.es/empresa/todo-telecom-sl",
+   "number": "B53673364（CIF；RM Alicante H A-71082）",
+   "status": "营业中（BORME 2023）",
+   "incorporated": "未取（2014 前）",
+   "company_type": "S.L.",
+   "sic": [
+    "电信 / 网络设备网店 + 批发（阿利坎特）"
+   ],
+   "address": "Pol. Ind. Juyarco 40-A, 03700 Dénia (Alicante)",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（资本 €26.8k）",
+   "officers": [
+    "Francisco Manuel Valero Tello — Apoderado（BORME 2023-08-31）",
+    "（webinfo@todotelecom.com 表内总邮箱）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**多牌网店 → 分销 20%：一页纸一次（STC-028GP / STC-228GP / STC-2216GP + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；Simon 可否决"
+   ],
+   "notes": "分销 20%；P 池候选 △（多牌直进 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔；网店小型 → 观察档）；坐实（CIF）；Simon 曾判不行。",
+   "code": "SC-2725"
+  },
+  "SC-2760": {
+   "batch": 127,
+   "name": "TEMPEL, S.A. — Tempel Group（tempelgroup.com；**indisa 名录：C/ Cobalto 4, 08907 L'Hospitalet de Llobregat (Barcelona)；品牌 Panasonic / Transcend / Advantech / Moxa / Robustel / Getac / IEI / AAEON 等；interempresas / automaticaeinstrumentacion：1978 年巴塞罗那创立，电子品牌分销（西 + 葡）+ 拉美分部（阿根廷 / 智利 / 哥伦比亚 / 巴西 / 秘鲁 / 墨西哥），工业 + 消费双线，客户含大型工程公司**）；表内：Moxa 分销 = 工业电子分销集团；Simon 曾判不行",
+   "iso": "ES",
+   "fetched": "2026-10-29",
+   "source": "ES · 1 次检索：indisa.es（法人 TEMPEL, S.A.；地址；品牌）+ interempresas（35 周年 2013；拉美分部）+ automaticaeinstrumentacion；CIF 未取；2026-10-29",
+   "url": "https://www.indisa.es/empresas/tempel-sa-barcelona",
+   "number": "未取（CIF 未查；法人名 S.A. 坐实）",
+   "status": "营业中（名录 + 官网）",
+   "incorporated": "1978",
+   "company_type": "S.A.",
+   "sic": [
+    "工业 / 消费电子分销集团（伊比利亚 + 拉美 6 国）"
+   ],
+   "address": "C/ Cobalto 4, 08907 L'Hospitalet de Llobregat (Barcelona)",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（集团；多国分部）",
+   "officers": [
+    "（info@tempelgroup.com 表内总邮箱；工业线产品经理 KP 待 LinkedIn）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**工业分销集团（Moxa 在售）→ 分销 20%：一页纸一次（STI-154GP / STI-288GPM / STI-0240GE 入门工业线对标 + MOQ 1 + 付费样机；Moxa 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；拉美分部可带出口；Simon 可否决"
+   ],
+   "notes": "分销 20%；P 池候选 ★（中型集团分销 + 工业对位 + 欧洲 + 坐实）；部分坐实（CIF 未取）；Simon 曾判不行。",
+   "code": "SC-2760"
+  },
+  "SC-3266": {
+   "batch": 127,
+   "name": "Calytel Distribución de Sistemas de Seguridad — Francisco Santos González（calytel.com / calytel.es / calytel.info；**官网 Aviso Legal：个体 NIF 11857123W；Espada 6, Bajo C, 28923 Alcorcón (Madrid)；门店 C/ Los Mesejo 25, 28007 Madrid；910 82 12 50；安防电子产品分销网店**）；表内：很多国内产品、CCTV 为主、「卖下边公司的」；Simon 曾判不行",
+   "iso": "ES",
+   "fetched": "2026-10-29",
+   "source": "ES · 1 次检索：calytel.com/PBCPPlayer.asp?ID=1688672（aviso legal：个体 NIF / 地址）+ calytel.info/aviso-legal/；2026-10-29",
+   "url": "https://www.calytel.info/aviso-legal/",
+   "number": "11857123W（个体 NIF）",
+   "status": "营业中（官网在线）",
+   "incorporated": "未取",
+   "company_type": "个体经营（autónomo）",
+   "sic": [
+    "安防产品分销网店（马德里）"
+   ],
+   "address": "Espada 6, Bajo C, 28923 Alcorcón (Madrid)",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "个体微型",
+   "officers": [
+    "Francisco Santos González — 业主（info@calytel.com 表内 = 官网公示）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**个体微型网店 + 冷户 0 回 → 不动**"
+   ],
+   "notes": "回 C 储备（个体 NIF 坐实但微型 + 冷户 + Simon 判不行）。",
+   "code": "SC-3266"
   }
  }
 }

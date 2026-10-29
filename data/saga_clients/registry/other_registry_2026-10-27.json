@@ -4,7 +4,7 @@
   "source": "其他国家官方 / 准官方登记",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 510
+  "count": 519
  },
  "rows": {
   "SA-061": {
@@ -15805,6 +15805,281 @@
    ],
    "notes": "分销 20%；P 池候选 △（进口 Utepo ✔ 对位 ✔ 坐实 ✔，区域外 → 观察档）；部分坐实；国别纠偏 EC；Simon 曾判不行。",
    "code": "SC-2402"
+  },
+  "SC-468": {
+   "batch": 127,
+   "name": "BK EESTI OÜ（bkeesti.ee；**inforegister / e-krediidiinfo / infopank：注册码 10022238；1996-03-29 注册（前身 Balti Kontaktide AS 1994）；VAT EE100265240；Järveotsa tee 50c, 13520 Tallinn；+372 6506901；2020 转为 OÜ，与 SIA BK Latvia、UAB BK grupė（立陶宛）同属 BK 集团（控制权转换公告）；登记邮箱 andrius@bkgrupe.lt**）；表内：CCTV 为主，有 Utepo 的；martin.kirk@ / oskar.ojaste@ 具名；15 推 0 回",
+   "iso": "EE",
+   "fetched": "2026-10-29",
+   "source": "EE · 1 次检索：inforegister.ee（注册码 / 日期 / VAT / 集团公告）+ e-krediidiinfo（地址 / 曾用名）+ infopank（电话）；2026-10-29",
+   "url": "https://www.inforegister.ee/en/10022238-BK-EESTI-OU/",
+   "number": "10022238",
+   "status": "营业中（Registered）",
+   "incorporated": "1996-03-29",
+   "company_type": "OÜ（BK 集团）",
+   "sic": [
+    "安防 / 弱电分销（波罗的海三国集团）"
+   ],
+   "address": "Järveotsa tee 50c, 13520 Tallinn",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（推定）",
+   "officers": [
+    "Martin Kirk（martin.kirk@bkeesti.ee 表内具名；职务未取）",
+    "Oskar Ojaste（oskar.ojaste@bkeesti.ee 表内具名）",
+    "（集团采购 andrius@bkgrupe.lt 登记邮箱 — 仅备查）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**波罗的海集团分销 → 分销 20%：点名 Martin 一页纸一次（STC-028GP / STC-228GP + STI-154GP + MOQ 1 + 付费样机；Utepo 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**"
+   ],
+   "notes": "分销 20%；P 池候选 ○（集团分销 + 进口 Utepo ✔ 欧洲 ✔ 对位 ✔ 具名 KP ✔）；坐实（注册码）。",
+   "code": "SC-468"
+  },
+  "SC-2872": {
+   "batch": 127,
+   "name": "SEVECU Security（sevecu.com / sevecu.dk；**官网：丹麦语 + 英语安防网店，品类 Dahua / AirSpace / 「Branded」/「MARCA BLANCA」白标 PoE（= Visiotech 西班牙目录体系）**；CVR 未取 → 法人未坐实）；表内：商业 PoE 大华 / ONV / 洪瑞；17 推 0 回；Simon 曾判不行",
+   "iso": "DK",
+   "fetched": "2026-10-29",
+   "source": "DK · 1 次检索：sevecu.dk（Dahua / 白标 PoE 产品页 ×2）+ sevecu.com（AirSpace SEV-0004139）；CVR 未取；2026-10-29",
+   "url": "https://www.sevecu.com/sev-0004139-detail",
+   "number": "未取（CVR 未查）",
+   "status": "营业中（网店在线）",
+   "incorporated": "未取",
+   "company_type": "未取（ApS 推定）",
+   "sic": [
+    "安防网店（丹麦；Visiotech 目录下游）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（推定）",
+   "officers": [
+    "（sales@sevecu.com 表内总邮箱）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**Visiotech 渠道下游 + 法人未取 → 不动（Visiotech SC-371 已在池）**；洪瑞现供 → Q-33 口径（默认只推 SmartByte / Marvell 管理 + 工业线）"
+   ],
+   "notes": "回 C 储备（Visiotech 下游 + CVR 未取 + 冷户 + Simon 判不行）；Q-33。",
+   "code": "SC-2872"
+  },
+  "SC-1393": {
+   "batch": 127,
+   "name": "SETKO ООО — 「Умный Дом」（setko.uz；**yellowpages.uz / pc.uz / top.uz：塔什干 Mirzo-Ulugbek 区（просп. Мустакиллик 2 / м-в Ирригатор 2）；+998 71 237-29-77；Panasonic / Siemens / Samsung 企业通信系统官方供应商 + 安防 / 网络 / 智能家居；top.uz 公开邮箱 info@ / nikolay@setko.uz；信息更新 2025-07**）；表内：2018/19 买过洪瑞 PoE 交换机；退信但 MX 正常",
+   "iso": "UZ",
+   "fetched": "2026-10-29",
+   "source": "UZ · 1 次检索：yellowpages.uz（法人 SETKO ООО）+ pc.uz（品类 / 电话 / 2025 更新）+ top.uz（nikolay@ 公开）；ИНН 未取；2026-10-29",
+   "url": "https://pc.uz/company/10212-setko",
+   "number": "未取（ИНН 未查；法人名坐实）",
+   "status": "营业中（名录 2025-07 更新）",
+   "incorporated": "未取",
+   "company_type": "ООО",
+   "sic": [
+    "企业通信 / 安防 / 网络集成 + 门店（塔什干）"
+   ],
+   "address": "Мирзо-Улугбекский район, Ташкент 100000",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（推定）",
+   "officers": [
+    "Nikolay（nikolay@setko.uz；top.uz 公开 — 职务未取）",
+    "（info@ / sales@setko.uz 表内；曾退信）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**成单户回访 → 分销 20% / 集成 25%：改发 nikolay@ 一页纸一次（STC-028GP / STC-228GP + STI-154GP + MOQ 1）— 区域外常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳；低频一页纸；洪瑞现供 → Q-33 口径（默认只推 SmartByte / Marvell 管理 + 工业线）**"
+   ],
+   "notes": "成单回访；P 池候选 ○（成单 ✔ 对位 ✔ 坐实 ✔ 区域次优）；部分坐实（ИНН 未取）；Q-33。",
+   "code": "SC-1393"
+  },
+  "SC-1493": {
+   "batch": 127,
+   "name": "DUXBURY TRANSMISSION EQUIPMENT (PTY) LIMITED t/a Duxbury Networking（duxbury.co.za；**官网 Privacy Policy：注册号 2018/441897/07；Block 1, Riviera Office Park, 66 Oxford Rd, Parktown, Johannesburg 2193；telecoms-channel 档：1984 年创立，JHB / CT / DBN 三分部，8,000+ 经销伙伴，增值分销（Netgear / HPE Aruba / Extreme / Cambium / Proxim / Axis / Sophos / Milesight 独家）**）；表内：要过 8 光 8 管理 PoE 样品、「也卖很多商业 PoE」；3 具名邮箱；16 推 0 回",
+   "iso": "ZA",
+   "fetched": "2026-10-29",
+   "source": "ZA · 1 次检索：duxbury.co.za/privacy-policy/（法人 + 注册号 + 地址）+ telecoms-channel.co.za（沿革 / 品牌 / 规模）；2026-10-29",
+   "url": "https://www.duxbury.co.za/privacy-policy/",
+   "number": "2018/441897/07",
+   "status": "营业中（官网 2026）",
+   "incorporated": "1984（现法人 2018）",
+   "company_type": "(Pty) Ltd",
+   "sic": [
+    "网络 / 无线 / 安防增值分销（南非三分部）"
+   ],
+   "address": "Block 1, Riviera Office Park, 66 Oxford Rd, Parktown, Johannesburg 2193",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（8,000+ 经销商）",
+   "officers": [
+    "T. van Schalkwyk（tvanschalkwyk@duxnet.co.za 表内具名）",
+    "P. Stuttard（pstuttard@duxnet.co.za 表内具名）",
+    "J. Pillay（jpillay@duxnet.co.za 表内具名）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**大分销 → 分销 20%：点名曾索样者一页纸一次（STC-4424GCPM L2+ Marvell $165 对标其索样口型 + STC-228GP + MOQ 1 + 付费样机）— 区域外常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳；低频一页纸**；次优区长线"
+   ],
+   "notes": "分销 20%；P 池候选 ★（中型分销 + 索样互动 + 具名 KP + 坐实）；坐实（注册号）。",
+   "code": "SC-1493"
+  },
+  "SC-2955": {
+   "batch": 127,
+   "name": "Continental Towers Guatemala, S.A.（mip.com.gt；**1 查命中 Continental Towers Corp LATAM（LinkedIn：拉美最大私营通信铁塔商，18+ 年，中美洲 / 秘鲁 / 哥伦比亚；11–50 人；2da calle 7-93 zona 14, Plaza Las Conchas 701, Guatemala 01014；PitchBook：2008 成立，母公司 Terra Towers；RocketReach：$3M / 18 人）—— mip.com.gt 域名未直接命中 → 部分坐实**）；表内：「下过两次单买 2 光 3 电和收发器」= 复购户；英语不好；Simon 曾判不行",
+   "iso": "GT",
+   "fetched": "2026-10-29",
+   "source": "GT · 1 次检索：rocketreach（规模 / 地址）+ linkedin（定位 / 分部）+ pitchbook（2008；Terra Towers）；mip.com.gt 法人未直接命中；2026-10-29",
+   "url": "https://www.linkedin.com/company/continental-towers",
+   "number": "未取（登记未查）",
+   "status": "营业中（LinkedIn 2026 更新）",
+   "incorporated": "2008",
+   "company_type": "S.A.",
+   "sic": [
+    "通信铁塔基础设施（中美洲）"
+   ],
+   "address": "2da calle 7-93 zona 14, Plaza Las Conchas 701, Guatemala 01014",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（11–50）",
+   "officers": [
+    "（info@ / sistemas@mip.com.gt 表内总邮箱；IT 系统部）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**复购终端回访 → 直客价（分销 20% 口径）：一页纸一次（STC-228GP 2 光 / STI-154GP 站点用 + STC-110XGE MC + MOQ 1；西语一句问候可加）— 区域外常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳；低频一页纸**；区域外低频"
+   ],
+   "notes": "成单复购；P 池候选 △（成单 ✔ 复购 ✔；区域外 + 终端自用 → 观察档）；部分坐实（域名法人未直接命中）；Simon 曾判不行。",
+   "code": "SC-2955"
+  },
+  "SC-2368": {
+   "batch": 127,
+   "name": "Asociación Civil Radio ZP-30 「La Voz del Chaco Paraguayo」（zp30.com.py；**官网 + radiosdeparaguay + Facebook：Calle Trébol 137E, Filadelfia 160401, Fernheim, Boquerón；+595 491 432 330；avisos@zp30.com.py；基督教广播电台（AM 610），分台 Loma Plata / Yalve Sanga**）；表内：HDMI + USB over SM fiber 光端机「多次下单」；wernerh@ 具名",
+   "iso": "PY",
+   "fetched": "2026-10-29",
+   "source": "PY · 1 次检索：zp30.com.py 页脚 + radiosdeparaguay.com.py（法人形式 Asociación Civil）+ facebook；RUC 未取；2026-10-29",
+   "url": "https://radiosdeparaguay.com.py/la-voz-del-chaco/",
+   "number": "未取（RUC 未查）",
+   "status": "营业中（官网 2025）",
+   "incorporated": "未取",
+   "company_type": "Asociación Civil（非营利）",
+   "sic": [
+    "广播电台（终端自用）"
+   ],
+   "address": "Calle Trébol 137E, Filadelfia, Boquerón",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型",
+   "officers": [
+    "Werner H.（wernerh@zp30.com.py 表内具名 = 复购下单人）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**复购终端（光端机 = 本职线）→ Q-70 dayjob 子池；Saga 线只在其问交换机时报 STC-028GP / STC-110XGE**"
+   ],
+   "notes": "成单复购；P 池候选 △ + dayjob_fit（复购 ✔ 具名 ✔；终端 + 区域外 + 本职线产品 → 观察档，待 Q-70）；部分坐实（RUC 未取）。",
+   "code": "SC-2368"
+  },
+  "SC-257": {
+   "batch": 127,
+   "name": "Al Rajhi Telecom（alrajhitel.com；**LinkedIn：Al Rajhi Building & Construction 子公司；利雅得；2013 年创立；系统集成（弱电 / CCTV / 门禁 / 数据中心 / Cisco Premium Partner / 网络安全）；LinkedIn 规模 501–1,000 vs prospeo 51–100 + 营收估 $7.96M；7687 King Fahad Branch Rd, Al Murabba, Riyadh 12612；+966 11 422 1089；2025 Intersec Saudi 参展**；CR 号未取）；表内：2024-10-22 DC Division Manager（inam@）回群发索样 STI-154GP（答 $36 非免费）",
+   "iso": "SA",
+   "fetched": "2026-10-29",
+   "source": "SA · 1 次检索：linkedin.com/company/alrajhitel（母公司 / 2013 / 专长）+ x.com/alrajhitel + prospeo（地址 / 电话 / 规模）；CR 未取；2026-10-29",
+   "url": "https://www.linkedin.com/company/alrajhitel/",
+   "number": "未取（CR 未查）",
+   "status": "营业中（LinkedIn 2025 更新）",
+   "incorporated": "2013",
+   "company_type": "LLC（集团子公司）",
+   "sic": [
+    "系统集成 / 弱电 / 数据中心（利雅得）"
+   ],
+   "address": "7687 King Fahad Branch Rd, Al Murabba, Riyadh 12612",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（51–100 ～ 501–1,000）",
+   "officers": [
+    "Inam（inam@alrajhitel.com 表内 = DC Division Manager，真回索样）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**DC 集成商回访 → 集成 25%：点名 Inam 一页纸一次（STI-154GP 样机 $36 + STC-4424GCPM / STH-2C24XF-HSI DC 接入 + 付费样机 + T/T 50/50）— 区域外常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳；低频一页纸**；次优区"
+   ],
+   "notes": "集成 25%；P 池候选 ○（具名 KP 真回 ✔ 样品意向 ✔ 对位 ✔ 体量 ✔）；部分坐实（CR 未取）。",
+   "code": "SC-257"
+  },
+  "SC-1045": {
+   "batch": 127,
+   "name": "บริษัท อัลฟา เบส มาร์เก็ตติ้ง จำกัด — Alfa Base Marketing Co., Ltd.（alfabase.co.th；**官网：582/5 ถนนลาดกระบัง, Lat Krabang, Bangkok 10520；1995（พ.ศ. 2538）注册；进口 + 制造 + 咨询；自有品牌 ALFA BASE（UTP / 光纤跳线 / 配线架 / ODF / MC / SFP / MPO / 机架 / 电源 / 蓄电池），面向政府与电信**）；表内：自有品牌 + 同时卖 ONV / Elink；16 推 0 回",
+   "iso": "TH",
+   "fetched": "2026-10-29",
+   "source": "TH · 1 次检索：alfabase.co.th 首页 + /shop/ + /product-category/products/alfa-base/（法人泰文名 / 地址 / 1995 / 自有品牌型号）；DBD 注册号未取；2026-10-29",
+   "url": "https://alfabase.co.th/product-category/products/alfa-base/",
+   "number": "未取（DBD 未查；法人泰文名坐实）",
+   "status": "营业中（官网 2026 版权）",
+   "incorporated": "1995",
+   "company_type": "Co., Ltd.",
+   "sic": [
+    "自有品牌布线 / 光通信产品 + 进口分销（曼谷）"
+   ],
+   "address": "582/5 Lat Krabang Rd, Lat Krabang, Bangkok 10520",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型 / 中型（20+ 年）",
+   "officers": [
+    "（info@alfabase.co.th 表内总邮箱；产品经理 KP 待 LinkedIn）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌布线商补网络线 → OEM 30%：一页纸一次（STC-028GP / STC-228GP 丝印 + STC-110XGE MC 对标其 MC 线 + MOQ + 付费样机）— 区域外常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳；低频一页纸**；次优区"
+   ],
+   "notes": "OEM 30%；P 池候选 ○（自有品牌 ✔ 进口 ✔ 对位 ✔ 坐实 ✔；冷）；部分坐实（DBD 未取）。",
+   "code": "SC-1045"
+  },
+  "SC-2437": {
+   "batch": 127,
+   "name": "Nana-tech（nana-tech.net；**1 查仅返回 Nana Engineering Technology Co., Ltd.（水泵；nanaengineering.com）与 thai.finance 同名合伙企业 NANA TECH LIMITED PARTNERSHIP 0133547002680（Pathum Thani）—— 域名均未对上 → 未坐实**）；表内：工业网络分销，大量 Utepo；pimpisa@ 具名；8 推 0 回；Simon 判不行",
+   "iso": "TH",
+   "fetched": "2026-10-29",
+   "source": "TH · 1 次检索：nanaengineering.com/about（他司）+ thai.finance/az-companies/nana-t（同名合伙，未证明为本域名）；2026-10-29",
+   "url": "http://thai.finance/az-companies/nana-t",
+   "number": "未取（0133547002680 为同名合伙，未证实）",
+   "status": "未坐实",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "工业网络分销（推定）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "未取",
+   "officers": [
+    "Pimpisa（pimpisa@nana-tech.net 表内具名；职务未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**未坐实 → 不动；来信再起则预付 100%**"
+   ],
+   "notes": "回 C 储备（1 查未命中 + 冷户 + Simon 判不行）。",
+   "code": "SC-2437"
   }
  }
 }

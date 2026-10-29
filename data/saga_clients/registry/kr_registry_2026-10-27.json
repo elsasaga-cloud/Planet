@@ -3,8 +3,8 @@
   "kind": "registry",
   "source": "대한민국 · 사업자등록 / 名錄摘要（DART 僅上市）",
   "created": "2026-10-27",
-  "updated": "2026-10-27",
-  "count": 2
+  "updated": "2026-10-29",
+  "count": 3
  },
  "rows": {
   "SA-010": {
@@ -73,6 +73,36 @@
    "notes": "登記號待補。",
    "fetched": "2026-10-27",
    "code": "SA-029"
+  },
+  "SC-296": {
+   "batch": 127,
+   "name": "lsipro（**hanmail 户 lsipro@hanmail.net；无域名 / 法人 → 0 查**）；表内：3G / HD-SDI 光端机「多次下单」= 复购户（本职线产品）",
+   "iso": "KR",
+   "fetched": "2026-10-29",
+   "source": "KR · 0 查（hanmail 个体，无可查主体）；2026-10-29",
+   "url": "",
+   "number": "未取（无主体）",
+   "status": "未坐实",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "未取（光端机复购）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "未取",
+   "officers": [
+    "（lsipro@hanmail.net 表内）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**无法人 + 本职线产品 → 不动；Q-70 定 dayjob 子池后复议**"
+   ],
+   "notes": "回 C 储备 + dayjob_fit（复购但 hanmail 0 查未坐实；待 Q-70）。",
+   "code": "SC-296"
   }
  }
 }

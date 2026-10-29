@@ -4,7 +4,7 @@
   "source": "Italy · Registro Imprese 公开摘要",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 59
+  "count": 63
  },
  "rows": {
   "SA-070": {
@@ -1898,6 +1898,127 @@
    ],
    "notes": "OEM 30%；P 池候选 ★（品牌商自有 PoE 线 = 目标顺位 1；体量大但非巨头）；坐实；Simon 曾判不行。",
    "code": "SC-2219"
+  },
+  "SC-2256": {
+   "batch": 127,
+   "name": "REDFOX S.R.L.（redfox-tech.com；**官网页脚：Via Pasubio 57/A, 63074 San Benedetto del Tronto (AP)；CF / Registro Imprese 01870630447；REA AP-180065；资本 €10,050；PEC redfox@pec-mail.it；防盗 / 视频监控 / 智能家居安装 15+ 年；Contatti 页：Marco Di Pietro — CEO & Sales Manager（m.dipietro@fifanetwork.it）、Gianluca Faraotti — 技术主管**）；表内：工商业 PoE 用 Utepo；14 推 0 回；Simon 曾判不行",
+   "iso": "IT",
+   "fetched": "2026-10-29",
+   "source": "IT · 1 次检索：redfox-tech.com 首页页脚（CF / REA / 资本）+ /contatti/（CEO 具名 + 邮箱公开）；2026-10-29",
+   "url": "https://www.redfox-tech.com/contatti/",
+   "number": "01870630447（CF / Registro Imprese AP）",
+   "status": "营业中（官网 2024-12）",
+   "incorporated": "未取（15+ 年）",
+   "company_type": "S.r.l.",
+   "sic": [
+    "安防集成 / 安装（马尔凯）"
+   ],
+   "address": "Via Pasubio 57/A, 63074 San Benedetto del Tronto (AP)",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（资本 €10,050）",
+   "officers": [
+    "Marco Di Pietro — CEO & Sales Manager（m.dipietro@fifanetwork.it，官网 contatti 页公开）",
+    "Gianluca Faraotti — Capotecnico（tecnicorf@fifanetwork.it 官网公开）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**小集成商 → 集成 25%：点名 Marco 一页纸一次（STC-028GP $28 / STI-154GP 工业 PoE + MOQ 1 + 付费样机；Utepo 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；微型 → 预付；Simon 可否决"
+   ],
+   "notes": "集成 25%；P 池候选 △（进口 Utepo ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔ + CEO 公开邮箱；微型集成商 → 观察档 + 预付）；坐实（CF / REA）；Simon 曾判不行。",
+   "code": "SC-2256"
+  },
+  "SC-2258": {
+   "batch": 127,
+   "name": "TOWNET S.R.L.（townet.it；**Crunchbase：Cagli, Marche；1–10 人；电信设备 / 能源系统 / 传感器制造；Confapi Pesaro 名录 + Sicurezza Milano 展商档：Via dei Finale 20, 61043 Cagli (PU)；0721-797396；2003 年创立，2018 起 SmartBox 供电 / 控制电柜 BU + 自有 IoT 云平台**）；表内：用 hasivo 的（安防 + 工业 FS）；enrico@ 具名；9 推 0 回；Simon 曾判不行",
+   "iso": "IT",
+   "fetched": "2026-10-29",
+   "source": "IT · 1 次检索：crunchbase（法人名 Townet Srl；Cagli；1–10）+ confapipesaro 名录（地址 / 电话）+ expoplaza-sicurezza 展商档（2003；SmartBox）；P.IVA 未取；2026-10-29",
+   "url": "https://expoplaza-sicurezza.fieramilano.it/en/exhibitors/townet-s-r-l-1",
+   "number": "未取（P.IVA 未查）",
+   "status": "营业中（Crunchbase Active；2024 展商）",
+   "incorporated": "2003",
+   "company_type": "S.r.l.",
+   "sic": [
+    "电信设备 + 智能供电柜（SmartBox）制造（马尔凯）"
+   ],
+   "address": "Via dei Finale 20, 61043 Cagli (PU)",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（1–10）",
+   "officers": [
+    "enrico@townet.it（表内具名；职务未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自产 SmartBox 柜内配套交换机 → OEM 30% / 集成 25% 双轨：点名 Enrico 一页纸一次（STI-154GP / STI-288GPM 工业 PoE 柜内配套 + 丝印 MOQ + 付费样机；hasivo 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；Simon 可否决"
+   ],
+   "notes": "OEM 30%；P 池候选 ○（制造商 + 柜内配套 = 贴牌对象；欧洲 ✔ 对位 ✔）；部分坐实（P.IVA 未取）；Simon 曾判不行。",
+   "code": "SC-2258"
+  },
+  "SC-2260": {
+   "batch": 127,
+   "name": "DEMA s.a.s. — videosorveglianza.it（**官网页脚：Via Cavour 63, 20871 Vimercate (MB)；CF / P.I. 13338240156；CCIAA MI-1640818；视频监控套件网店（Safire Smart 等）**）；表内：商业 PoE 进口 ONV / 洪瑞 / Witek 多牌；14 推 0 回；Simon 曾判不行",
+   "iso": "IT",
+   "fetched": "2026-10-29",
+   "source": "IT · 1 次检索：videosorveglianza.it 首页页脚（DEMA s.a.s.；P.I.；CCIAA）；2026-10-29",
+   "url": "https://www.videosorveglianza.it/",
+   "number": "13338240156（P.I.；CCIAA MI-1640818）",
+   "status": "营业中（官网 2024-09）",
+   "incorporated": "未取",
+   "company_type": "s.a.s.（合伙）",
+   "sic": [
+    "CCTV 网店 / 安装（伦巴第）"
+   ],
+   "address": "Via Cavour 63, 20871 Vimercate (MB)",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型",
+   "officers": [
+    "（info@videosorveglianza.it 表内总邮箱；具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**多牌进口微型网店 → 分销 20%：一页纸一次（STC-028GP $28 / STC-228GP $33 + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地；洪瑞现供 → Q-33 口径（默认只推 SmartByte / Marvell 管理 + 工业线）**；微型 → 预付；Simon 可否决"
+   ],
+   "notes": "分销 20%；P 池候选 △（多牌直进 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔；微型 s.a.s. → 观察档 + 预付）；坐实（P.I.）；Q-33；Simon 曾判不行。",
+   "code": "SC-2260"
+  },
+  "SC-2941": {
+   "batch": 127,
+   "name": "Lastella Trade S.r.l. Società unipersonale — digitX.it（**官网 Chi siamo / Assistenza：CCIAA Bologna，CF / P.I. 03695681209，REA 539359；Via Galliera 62, 40050 Funo di Argelato (BO)；051 6604005；门户 2007 起（prodotti-moxa.it）、2012 被 Lastella 收购、2014 更名 digitX、2018 digitx 注册商标（自有光纤产品线）；在售 Moxa / Teltonika / Takachi / Patlite / Planet / Mean Well**）；表内：3onedata / Planet 工业 FS 买家（研究档）；退信；Simon 曾判不行",
+   "iso": "IT",
+   "fetched": "2026-10-29",
+   "source": "IT · 1 次检索：digitx.it/chi_siamo.asp（法人 / P.I. / REA / 沿革 / 商标）+ /assistenza.asp（地址 / 电话）；2026-10-29",
+   "url": "https://www.digitx.it/chi_siamo.asp",
+   "number": "03695681209（P.I.；REA BO-539359）",
+   "status": "营业中（官网 2026）",
+   "incorporated": "2012（Lastella 接手；门户 2007）",
+   "company_type": "S.r.l. unipersonale",
+   "sic": [
+    "工业电子 B2B 电商（自动化 / 工业网络 / 光纤；自有商标 digitx）"
+   ],
+   "address": "Via Galliera 62, 40050 Funo di Argelato (BO)",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "（info@digitx.it 表内 = 退信；官网仅表单 + 电话 051 6604005；采购 KP 待 LinkedIn）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**工业 B2B 电商 + 自有商标 digitx → 分销 20% / OEM 30%：一页纸一次（STI-154GP / STI-288GPM / STI-0240GE 对标 Moxa 入门 + 丝印 MOQ + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；退信 → 官网表单 / 电话换地址；Simon 可否决"
+   ],
+   "notes": "OEM 30%；P 池候选 ○（进口 3onedata / Planet ✔ 自有商标 ✔ 欧洲 ✔ 对位 ✔）；坐实（P.I. / REA）；Simon 曾判不行。",
+   "code": "SC-2941"
   }
  }
 }

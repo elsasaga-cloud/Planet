@@ -2,7 +2,7 @@
 
 > **评级 C**　|　荷兰　|　档案编号 `SC-3302`　|　优先级 —　|　状态：已推送 15 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：荷兰 Niveo Professional（niveoprofessional.com；自有品牌 Niveo：商业 PoE / 10G / MC / 机架 / SFP / 大口 FS 全线贴牌）：欧洲 + 自有品牌 ✔ + 对位 ✔；15 推 0 回 + 退信 → 闸 2 查底数 + 找新地址（OEM 对象）；Simon 曾判不行 → 可按编号否决　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）、dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 全线自有品牌 · OEM 30%：Niveo Professional = BNS Netstar bv / Niveo International bv（Hilversum 2009；2–10 人；营收估 $6.9M；A/V 安装渠道自有网络品牌；MD Arthur de Jager = 表内 arthur@）部分坐实（KvK 未取）；自有品牌 ✔ 决策人直达 ✔ 欧洲 ✔ 对位 ✔ → P 池候选（退信 → 改发 arthur@ / jaap@）；Simon 曾判不行，可否决　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）、oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 15 次（2024-05-17 → 2025-10-03）　|　**所在清单**：A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-3302
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: -112
 country: 荷兰
 region: 欧洲
@@ -39,6 +39,34 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424XGGPM-280W（24 口 PoE + 4×10G 上联）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `niveoprofessional.com` → 其他主机商邮箱（mx.transip.email）（MX：mx.transip.email）。主机商附带邮箱（mx.transip.email）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+- `niveopraofessional.com` → 域名不存在。域名已不存在（NXDOMAIN）：这个域的所有地址都退信；公司可能换了域名或关门 → 先核再发，核不到就降级
+- ⚠ 手里这些地址所在的域已收不了信：`info@niveopraofessional.com` → 作废，别再发；该户若无其他域名 / 渠道，列入降级候选
+- 其他域名仍活：`niveoprofessional.com` → 只用这些域的地址
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 127 批（NL · 1 次检索：linkedin.com/company/netstar-products-bv（2009；2–10；Arthur de Jager 职务）+ zoominfo（Olympia 2D；$6.9M）；KvK 未取；2026-10-29，2026-10-29 查；https://www.linkedin.com/company/netstar-products-bv）：**
+
+- 法定名 / 登记号：Niveo Professional — BNS Netstar bv / Niveo International bv（niveoprofessional.com；**LinkedIn：Hilversum；2009 年创立；2–10 人；面向专业 A/V 安装商的自有网络品牌；Arthur de Jager = BNS Netstar bv 共同所有人 / Niveo International bv 董事总经理（= 表内 arthur@）；北美销售总监 David Stephens；ZoomInfo：Olympia 2D, Hilversum；营收估 $6.9M；制造业 / 电信设备**）；表内：自有品牌 Niveo 全线（商业 PoE / 10G / MC / 机架 / SFP / 大口 FS）；15 推 0 回 + 退信；Simon 曾判不行 · 未取（KvK 未查） · 状态 **营业中（LinkedIn 2024 更新）** · 成立 2009 · B.V.（BNS Netstar bv / Niveo International bv）
+- 行业码 / 经营范围：自有品牌网络产品（A/V 安装渠道；欧美）
+- 注册地址：Olympia 2D, Hilversum
+- 规模档：微型（2–10；$6.9M）
+- 账目：未取；—
+- 高管：Arthur de Jager — Co-owner BNS Netstar bv / MD Niveo International bv（arthur@niveoprofessional.com 表内 = 决策人直达）
+- 高管：jaap@niveoprofessional.com（表内具名）
+- 高管：David Stephens — Director of Sales North America
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **全线自有品牌 → OEM 30%：点名 Arthur 一页纸一次（STC-228GP / STC-2224GP / STC-4424GCPM L2+ 丝印 + 10G 口型 STC-424XGGM + MOQ + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；退信 → 改发 arthur@ / jaap@；Simon 可否决
+- 备注：OEM 30%；P 池候选 ★（全线自有品牌 + 决策人邮箱在表 + 欧洲 + 对位）；部分坐实（KvK 未取）；Simon 曾判不行。
 
 ## 基本事实（事实/推断/假设分层）
 

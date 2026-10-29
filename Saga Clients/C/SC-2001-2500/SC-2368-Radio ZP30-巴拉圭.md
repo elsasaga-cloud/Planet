@@ -2,7 +2,7 @@
 
 > **评级 C**　|　巴拉圭　|　档案编号 `SC-2368`　|　优先级 —　|　状态：成交过·维护
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：巴拉圭 Radio ZP30：HDMI + USB over SM fiber 光端机「多次下单」→ 复购户；产品属本职线（dayjob），P 池是否收 dayjob 户待 Q-70 → 先入候选　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：△ 观察档 · dayjob：Asociación Civil Radio ZP-30（Filadelfia 巴拉圭；基督教电台；wernerh@ 具名复购）部分坐实（RUC 未取）；复购 ✔ 具名 ✔ ≥2 条；光端机 = 本职线 + 终端 + 区域外 → 入池观察档，待 Q-70 dayjob 子池　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：成交/下单过；推送 1 次（2025-10-08 → 2025-10-08）　|　**所在清单**：E冷名单(巴拉圭)、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-2368
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: -16
 country: 巴拉圭
 region: 拉美
@@ -39,6 +39,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（VC/光端机：Saga 不做（可只推交换机））
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `zp30.com.py` → 同域名 MX → 托管在 isionaserver1.com（MX：mail.zp30.com.py）。主机商附带邮箱（同域名 MX → 托管在 isionaserver1.com）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 127 批（PY · 1 次检索：zp30.com.py 页脚 + radiosdeparaguay.com.py（法人形式 Asociación Civil）+ facebook；RUC 未取；2026-10-29，2026-10-29 查；https://radiosdeparaguay.com.py/la-voz-del-chaco/）：**
+
+- 法定名 / 登记号：Asociación Civil Radio ZP-30 「La Voz del Chaco Paraguayo」（zp30.com.py；**官网 + radiosdeparaguay + Facebook：Calle Trébol 137E, Filadelfia 160401, Fernheim, Boquerón；+595 491 432 330；avisos@zp30.com.py；基督教广播电台（AM 610），分台 Loma Plata / Yalve Sanga**）；表内：HDMI + USB over SM fiber 光端机「多次下单」；wernerh@ 具名 · 未取（RUC 未查） · 状态 **营业中（官网 2025）** · 成立 未取 · Asociación Civil（非营利）
+- 行业码 / 经营范围：广播电台（终端自用）
+- 注册地址：Calle Trébol 137E, Filadelfia, Boquerón
+- 规模档：微型
+- 账目：未取；—
+- 高管：Werner H.（wernerh@zp30.com.py 表内具名 = 复购下单人）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **复购终端（光端机 = 本职线）→ Q-70 dayjob 子池；Saga 线只在其问交换机时报 STC-028GP / STC-110XGE**
+- 备注：成单复购；P 池候选 △ + dayjob_fit（复购 ✔ 具名 ✔；终端 + 区域外 + 本职线产品 → 观察档，待 Q-70）；部分坐实（RUC 未取）。
 
 ## 基本事实（事实/推断/假设分层）
 

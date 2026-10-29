@@ -2,7 +2,7 @@
 
 > **评级 C**　|　印度　|　档案编号 `SC-343`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：印度 Optilink（MC / SFP / FS / 周边自有品牌，KP Vinit Savla）→ 印度次优区 + 自有品牌 OEM 对象；未触达 → 闸 2 查底数　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 自有品牌 · OEM 30%：Optilink Networks Pvt. Ltd.（Mumbai Chembur；20 人；自有品牌 Optilink 网络 / 光通信全线；Manager Shashank Shah 公开邮箱）部分坐实（CIN 未取）；自有品牌 ✔ 对位 ✔ 坐实 ✔ 次优区 → P 池候选（冷）　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:India　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-343
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 23
 country: 印度
 region: 南亚
@@ -39,6 +39,30 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STI-110GE（工业迷你 1 光 1 电（MC 位））
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `optilinknetwork.com` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、alt3.aspmx.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 127 批（IN · 1 次检索：zoominfo（地址 / 20 人 / 定位）+ bharatibiz（Manager 具名 + 邮箱）+ rocketreach（Vinit Savla 职务）；CIN 未取（zaubacorp 下轮）；2026-10-29，2026-10-29 查；https://www.zoominfo.com/pic/optilink-networks-pvt-ltd/347261750）：**
+
+- 法定名 / 登记号：Optilink Networks Pvt. Ltd.（optilinknetwork.com；**ZoomInfo：501/502 Sanjona Complex, Plot 11-A, Hemu Kalani Chembur Rd, Mumbai 400071；20 人；自有品牌 Optilink 网络 / 无线 / VoIP / IPTV / 数字前端全线分销，全球渠道伙伴；bharatibiz：Shashank Shah — Manager（shashank@optilinknetwork.com）；RocketReach：Vinit Savla = 高级网络工程师（表内 KP 实为工程岗）**）；表内：MC / SFP / FS / 周边自有品牌；未触达 · 未取（CIN 未查；法人名坐实） · 状态 **营业中（名录在线）** · 成立 未取 · Pvt. Ltd.
+- 行业码 / 经营范围：自有品牌网络 / 光通信产品（孟买）
+- 注册地址：501/502 Sanjona Complex, Hemu Kalani Chembur Rd, Mumbai 400071
+- 规模档：小型（20）
+- 账目：未取；—
+- 高管：Shashank Shah — Manager（shashank@optilinknetwork.com；bharatibiz 公开）
+- 高管：Vinit Savla — Senior Network Engineer（表内 KP；非采购）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自有品牌全线 → OEM 30%：点名 Shashank 一页纸一次（STC-028GP / STC-228GP / STC-2224GP 丝印 + STC-110XGE MC + MOQ + 付费样机）— 区域外常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳；低频一页纸**；印度次优区
+- 备注：OEM 30%；P 池候选 ○（自有品牌 + 次优区 + 坐实；冷）；部分坐实（CIN 未取）。
 
 ## 基本事实（事实/推断/假设分层）
 

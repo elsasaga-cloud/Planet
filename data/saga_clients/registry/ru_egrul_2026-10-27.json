@@ -3,8 +3,8 @@
   "kind": "registry",
   "source": "Russia · ЕГРЮЛ / Росстат 公开数据（rusprofile / list-org 镜像）",
   "created": "2026-10-27",
-  "updated": "2026-10-28",
-  "count": 57
+  "updated": "2026-10-29",
+  "count": 58
  },
  "rows": {
   "SA-057": {
@@ -1829,6 +1829,36 @@
    ],
    "notes": "未坐实（个人，0 查）→ 不动（WA 复购线保留）。",
    "code": "SB-320"
+  },
+  "SC-1942": {
+   "batch": 127,
+   "name": "Satvision（satvision-cctv.ru / satvision.pro；**官网：视频监控设备自有商标 20+ 年；中央办公室 Самара, ул. Санфировой 95 к.1；8 800 550-12-51；satvision@satv.ru；全俄 12 个分部；自研软件；客户含 Сбербанк / Ростелеком / РЖД / Почта России**；法人 ООО 名 / ИНН 未取）；表内：自有 logo，Mike Yakushev（m.yakushev@satv.ru）回过 1 次，15 次跟进",
+   "iso": "RU",
+   "fetched": "2026-10-29",
+   "source": "RU · 1 次检索：satvision-cctv.ru 首页（地址 / 分部 / 客户）+ /company/（品牌定位）+ satvision.pro；ИНН 未取（rusprofile 下轮）；2026-10-29",
+   "url": "https://satvision-cctv.ru/company/",
+   "number": "未取（ИНН 未查）",
+   "status": "营业中（官网在线）",
+   "incorporated": "未取（20+ 年）",
+   "company_type": "ООО（推定）",
+   "sic": [
+    "自有品牌 CCTV（萨马拉；12 分部）"
+   ],
+   "address": "ул. Санфировой 95 к.1, Самара",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（12 分部）",
+   "officers": [
+    "Mike Yakushev（m.yakushev@satv.ru 表内 = 真回 KP；职务未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌 CCTV 配套 PoE → OEM 30%：点名 Mike 一页纸一次（STC-028GP / STC-228GP / STC-2224GP 丝印 + MOQ + 付费样机）；预付款 + 待 Simon 定收款 / 物流路径**"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（真回 + 自有品牌 + 体量）；部分坐实（ИНН 未取）；RU 收款路径待 Simon。",
+   "code": "SC-1942"
   }
  }
 }

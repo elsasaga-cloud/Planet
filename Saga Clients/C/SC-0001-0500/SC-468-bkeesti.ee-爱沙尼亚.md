@@ -2,7 +2,7 @@
 
 > **评级 C**　|　爱沙尼亚　|　档案编号 `SC-468`　|　优先级 —　|　状态：已推送 15 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：爱沙尼亚 BK Eesti（bkeesti.ee；CCTV 为主，有 Utepo 的）：欧洲 + 已进口中国同类品牌 + 对位 ✔；15 推 0 回 → 闸 2 查底数，低优先
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 集团分销 20%：BK EESTI OÜ（Tallinn；注册码 10022238；1996；BK 集团 EE / LV / LT 三国；martin.kirk@ / oskar.ojaste@ 在表）坐实；进口 Utepo ✔ 欧洲 ✔ 对位 ✔ 具名 KP ✔ → P 池候选
 >
 > **类型**：安防集成/经销（推断）　|　**历史关系**：推送 15 次（2024-05-13 → 2025-10-07）　|　**所在清单**：A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-468
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 20
 country: 爱沙尼亚
 region: 欧洲
@@ -39,6 +39,31 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `bkeesti.ee` → Microsoft 365（MX：bkeesti-ee.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 127 批（EE · 1 次检索：inforegister.ee（注册码 / 日期 / VAT / 集团公告）+ e-krediidiinfo（地址 / 曾用名）+ infopank（电话）；2026-10-29，2026-10-29 查；https://www.inforegister.ee/en/10022238-BK-EESTI-OU/）：**
+
+- 法定名 / 登记号：BK EESTI OÜ（bkeesti.ee；**inforegister / e-krediidiinfo / infopank：注册码 10022238；1996-03-29 注册（前身 Balti Kontaktide AS 1994）；VAT EE100265240；Järveotsa tee 50c, 13520 Tallinn；+372 6506901；2020 转为 OÜ，与 SIA BK Latvia、UAB BK grupė（立陶宛）同属 BK 集团（控制权转换公告）；登记邮箱 andrius@bkgrupe.lt**）；表内：CCTV 为主，有 Utepo 的；martin.kirk@ / oskar.ojaste@ 具名；15 推 0 回 · 10022238 · 状态 **营业中（Registered）** · 成立 1996-03-29 · OÜ（BK 集团）
+- 行业码 / 经营范围：安防 / 弱电分销（波罗的海三国集团）
+- 注册地址：Järveotsa tee 50c, 13520 Tallinn
+- 规模档：小型（推定）
+- 账目：未取；—
+- 高管：Martin Kirk（martin.kirk@bkeesti.ee 表内具名；职务未取）
+- 高管：Oskar Ojaste（oskar.ojaste@bkeesti.ee 表内具名）
+- 高管：（集团采购 andrius@bkgrupe.lt 登记邮箱 — 仅备查）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **波罗的海集团分销 → 分销 20%：点名 Martin 一页纸一次（STC-028GP / STC-228GP + STI-154GP + MOQ 1 + 付费样机；Utepo 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**
+- 备注：分销 20%；P 池候选 ○（集团分销 + 进口 Utepo ✔ 欧洲 ✔ 对位 ✔ 具名 KP ✔）；坐实（注册码）。
 
 ## 基本事实（事实/推断/假设分层）
 

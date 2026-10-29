@@ -2,7 +2,7 @@
 
 > **评级 C**　|　挪威　|　档案编号 `SC-274`　|　优先级 —　|　状态：已推送 10 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：挪威 Alcadon（北欧布线 / 网络分销集团，很多 Planet 产品，CWDM）：欧洲 + 分销主体 + 对位 ✔；10 推 0 回 → 闸 2 查底数（体量偏大）　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 集团分销 20%：ALCADON AS（Oslo；org.nr 952 334 891；1989；16 人；NOK 85.8M；Alcadon 集团瑞典控股）坐实；Planet 渠道 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔ = 冷户四条 → P 池候选（长线，同步找集团产品管理）　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 10 次（2024-10-30 → 2025-10-06）　|　**所在清单**：A优质名单(其他优质欧洲客户)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-274
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 24
 country: 挪威
 region: 欧洲
@@ -39,6 +39,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `alcadon.no` → Microsoft 365（MX：alcadon-no.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 127 批（NO · 1 次检索：proff.no（org / 成立 / 股东 / 16 人）+ gulesider（营业额 85,842 tkr；3.1% 利润率）；2026-10-29，2026-10-29 查；https://www.proff.no/selskap/alcadon-as/oslo/elektronikk-og-telekommunikasjonsutstyr-engros/IFQZUAZ10MZ-1）：**
+
+- 法定名 / 登记号：ALCADON AS（alcadon.no；**proff / gulesider：Org.nr 952 334 891；成立 1989-07-11 / 注册 1995-02-19；Aksjeselskap；股本 NOK 600,000；16 人；营业额 NOK 85,842 千；Alfaset 1. industrivei 4, 0668 Oslo；23 17 78 80；最大股东 Alcadon Mrv AB（瑞典 Alcadon 集团）；行业：电子 / 电信设备批发**）；表内：北欧布线 / 网络分销，很多 Planet 产品、CWDM；10 推 0 回 · 952 334 891 · 状态 **营业中（Foretaksregisteret）** · 成立 1989-07-11 · AS（Alcadon 集团子公司）
+- 行业码 / 经营范围：网络 / 布线分销（挪威；集团瑞典）
+- 注册地址：Alfaset 1. industrivei 4, 0668 Oslo
+- 规模档：小型（16；NOK 85.8M）
+- 账目：未取；—
+- 高管：（salg@alcadon.no 表内总邮箱；产品经理 KP 待 LinkedIn；集团采购在瑞典）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **集团分销 → 分销 20%（长线）：一页纸一次（STC-228GP / STC-2224GP 对标 Planet 同口型 + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；体量偏大 → 同步找集团产品管理
+- 备注：分销 20%；P 池候选 ○（集团分销 + Planet 渠道 + 欧洲 + 对位 = 冷户四条）；坐实（org.nr）。
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -3,8 +3,8 @@
   "kind": "registry",
   "source": "Australia · ABN Lookup（abr.business.gov.au，官方）",
   "created": "2026-10-27",
-  "updated": "2026-10-27",
-  "count": 14
+  "updated": "2026-10-29",
+  "count": 15
  },
  "rows": {
   "SA-024": {
@@ -461,6 +461,36 @@
    "notes": "研究档 KP 空 → 新增 Willgoose。",
    "fetched": "2026-10-27",
    "code": "SB-714"
+  },
+  "SC-2106": {
+   "batch": 127,
+   "name": "Optimal Cable Services Pty Ltd → AFL（optimal.com.au；**Crunchbase：澳大利亚光缆 / 连接产品制造商，11–50 人，已被 AFL（藤仓集团）收购；bluebusinessguide：100 Olympia St, Tottenham VIC；03 9316 8300；ZoomInfo：Peter Dicka = Manager, Connectivity AFL (Australia)（= 表内 peter_dicka@optimal.com.au）**）；表内：2007 年起合作、买过 MC / CWDM、「偶尔有反应」、23 次跟进；marketing@aflglobal.com 亦在表",
+   "iso": "AU",
+   "fetched": "2026-10-29",
+   "source": "AU · 1 次检索：crunchbase（被 AFL 收购；11–50）+ bluebusinessguide（地址 / 电话）+ zoominfo（Peter Dicka 现职）；ABN 未取；2026-10-29",
+   "url": "https://www.crunchbase.com/organization/optimal-cable-services",
+   "number": "未取（ABN 未查）",
+   "status": "营业中（AFL 旗下）",
+   "incorporated": "未取",
+   "company_type": "Pty Ltd（AFL 子公司）",
+   "sic": [
+    "光缆 / 连接产品制造（墨尔本）"
+   ],
+   "address": "100 Olympia St, Tottenham VIC 3012",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（11–50；集团 AFL）",
+   "officers": [
+    "Peter Dicka — Manager, Connectivity AFL (Australia)（peter_dicka@optimal.com.au 表内 = 老 KP 仍在职）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**长期成单户（MC / CWDM = 本职线为主）→ Q-70 dayjob 子池；Saga 线只提 STC-110XGE MC + STI 工业 PoE；AFL 集团采购体系 → 长线**"
+   ],
+   "notes": "成单回访；P 池候选 △ + dayjob_fit（长期成单 ✔ KP 在职 ✔；产品偏光传输 + 巨头体系 → 观察档）；部分坐实（ABN 未取）。",
+   "code": "SC-2106"
   }
  }
 }

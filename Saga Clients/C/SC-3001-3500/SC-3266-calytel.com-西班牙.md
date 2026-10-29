@@ -2,7 +2,7 @@
 
 > **评级 C**　|　西班牙　|　档案编号 `SC-3266`　|　优先级 —　|　状态：用户判定不行
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：西班牙 Calytel（calytel.com；很多国内的产品、CCTV 为主、「卖下边公司的」）：欧洲 + 多品牌进口经验 + 对位 ✔ → 闸 2 查底数，低优先（stop flag 为文本命中）；Simon 曾判不行 → 可按编号否决
+> **C 池筛选：留 C 储备**（闸 2 · 2026-10-29）：闸 2 查实：Calytel = 个体 Francisco Santos González（Alcorcón；NIF 11857123W；安防网店）→ 个体微型 + 冷户 0 回 + Simon 判不行 → 回 C 储备
 >
 > **类型**：安防集成/经销（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:Spain、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-3266
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: keep_C  # 闸 2 G2 2026-10-29
 score: -98
 country: 西班牙
 region: 欧洲
@@ -39,6 +39,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `calytel.com` → 其他主机商邮箱（smtp1.oxatis.com）（MX：smtp1.oxatis.com、smtp2.oxatis.com）。主机商附带邮箱（smtp1.oxatis.com）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 127 批（ES · 1 次检索：calytel.com/PBCPPlayer.asp?ID=1688672（aviso legal：个体 NIF / 地址）+ calytel.info/aviso-legal/；2026-10-29，2026-10-29 查；https://www.calytel.info/aviso-legal/）：**
+
+- 法定名 / 登记号：Calytel Distribución de Sistemas de Seguridad — Francisco Santos González（calytel.com / calytel.es / calytel.info；**官网 Aviso Legal：个体 NIF 11857123W；Espada 6, Bajo C, 28923 Alcorcón (Madrid)；门店 C/ Los Mesejo 25, 28007 Madrid；910 82 12 50；安防电子产品分销网店**）；表内：很多国内产品、CCTV 为主、「卖下边公司的」；Simon 曾判不行 · 11857123W（个体 NIF） · 状态 **营业中（官网在线）** · 成立 未取 · 个体经营（autónomo）
+- 行业码 / 经营范围：安防产品分销网店（马德里）
+- 注册地址：Espada 6, Bajo C, 28923 Alcorcón (Madrid)
+- 规模档：个体微型
+- 账目：未取；—
+- 高管：Francisco Santos González — 业主（info@calytel.com 表内 = 官网公示）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **个体微型网店 + 冷户 0 回 → 不动**
+- 备注：回 C 储备（个体 NIF 坐实但微型 + 冷户 + Simon 判不行）。
 
 ## 基本事实（事实/推断/假设分层）
 

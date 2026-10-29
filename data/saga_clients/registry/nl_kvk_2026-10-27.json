@@ -3,8 +3,8 @@
   "kind": "registry",
   "source": "Nederland · KvK Handelsregister（镜像 drimble / transfirm）",
   "created": "2026-10-27",
-  "updated": "2026-10-27",
-  "count": 1
+  "updated": "2026-10-29",
+  "count": 2
  },
  "rows": {
   "SB-055": {
@@ -39,6 +39,38 @@
    "notes": "研究档 legal_name 已有（含 V.O.F.）；founded / size 可回填 2013-10-29 / 5–9 人。",
    "fetched": "2026-10-27",
    "code": "SB-055"
+  },
+  "SC-3302": {
+   "batch": 127,
+   "name": "Niveo Professional — BNS Netstar bv / Niveo International bv（niveoprofessional.com；**LinkedIn：Hilversum；2009 年创立；2–10 人；面向专业 A/V 安装商的自有网络品牌；Arthur de Jager = BNS Netstar bv 共同所有人 / Niveo International bv 董事总经理（= 表内 arthur@）；北美销售总监 David Stephens；ZoomInfo：Olympia 2D, Hilversum；营收估 $6.9M；制造业 / 电信设备**）；表内：自有品牌 Niveo 全线（商业 PoE / 10G / MC / 机架 / SFP / 大口 FS）；15 推 0 回 + 退信；Simon 曾判不行",
+   "iso": "NL",
+   "fetched": "2026-10-29",
+   "source": "NL · 1 次检索：linkedin.com/company/netstar-products-bv（2009；2–10；Arthur de Jager 职务）+ zoominfo（Olympia 2D；$6.9M）；KvK 未取；2026-10-29",
+   "url": "https://www.linkedin.com/company/netstar-products-bv",
+   "number": "未取（KvK 未查）",
+   "status": "营业中（LinkedIn 2024 更新）",
+   "incorporated": "2009",
+   "company_type": "B.V.（BNS Netstar bv / Niveo International bv）",
+   "sic": [
+    "自有品牌网络产品（A/V 安装渠道；欧美）"
+   ],
+   "address": "Olympia 2D, Hilversum",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（2–10；$6.9M）",
+   "officers": [
+    "Arthur de Jager — Co-owner BNS Netstar bv / MD Niveo International bv（arthur@niveoprofessional.com 表内 = 决策人直达）",
+    "jaap@niveoprofessional.com（表内具名）",
+    "David Stephens — Director of Sales North America"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**全线自有品牌 → OEM 30%：点名 Arthur 一页纸一次（STC-228GP / STC-2224GP / STC-4424GCPM L2+ 丝印 + 10G 口型 STC-424XGGM + MOQ + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；退信 → 改发 arthur@ / jaap@；Simon 可否决"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（全线自有品牌 + 决策人邮箱在表 + 欧洲 + 对位）；部分坐实（KvK 未取）；Simon 曾判不行。",
+   "code": "SC-3302"
   }
  }
 }

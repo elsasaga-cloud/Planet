@@ -2,7 +2,7 @@
 
 > **评级 C**　|　法国　|　档案编号 `SC-345`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：法国 Pine Networks（pine-networks.com；Edgecore 的 = 开放网络 / 数据中心白盒渠道）：欧洲 + DC 对位（CENTEC 敲门砖）+ 分销主体；名单内未触达 → 闸 2 查底数，低优先
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ DC 集成 25%（CENTEC 敲门砖）：Pine Networks（Garches；开放网络交钥匙集成 Edgecore / Adtran / UfiSpace；christophe@ 在表）部分坐实（SIREN 未取）；DC 对位 ✔ 具名 KP ✔ 欧洲 ✔ 坐实 ✔ = 冷户四条 → P 池候选（STH 系列一页纸；客户稿不提 SONiC）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：DC线索　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-345
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 23
 country: 法国
 region: 欧洲
@@ -39,6 +39,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-448XGGM(L3)（L3 48 口 + 4×10G（Hohunet/CENTEC 线））
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `pine-networks.com` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、alt3.aspmx.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 127 批（FR · 1 次检索：pine-networks.com 首页（地址 / 电话 / 合作品牌）+ /data-center/ + /portfolios/sonic/；SIREN 未取；2026-10-29，2026-10-29 查；https://pine-networks.com/）：**
+
+- 法定名 / 登记号：Pine Networks（pine-networks.com；**官网：219 Grande Rue, 92380 Garches；+33 1 88 94 77 04；contact@pine-networks.com；开放网络交钥匙集成（Edgecore / Adtran / UfiSpace 等，数据中心 1G–800G）+ 自研监控 PMO；客户云服务商 / ISP / 企业**）；表内：Edgecore 的；christophe@ 具名；名单内未触达 · 未取（SIREN 未查） · 状态 **营业中（官网 2026-01）** · 成立 未取 · SAS（推定）
+- 行业码 / 经营范围：开放网络 / 数据中心集成（巴黎西郊）
+- 注册地址：219 Grande Rue, 92380 Garches
+- 规模档：微型 / 小型（推定）
+- 账目：未取；—
+- 高管：christophe@pine-networks.com（表内具名；职务未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **DC 白盒集成 → 集成 25%（CENTEC 敲门砖）：点名 Christophe 一页纸一次（STH-2C24XF-HSI $1,500 / STH-8C48DX-HSI 接入层 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；客户稿内不提 SONiC / ONIE
+- 备注：集成 25%；P 池候选 ○（DC 对位 + 具名 KP + 欧洲 + 坐实（官网）= 冷户四条）；部分坐实（SIREN 未取）。
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -2,7 +2,7 @@
 
 > **评级 C**　|　斯洛文尼亚　|　档案编号 `SC-3057`　|　优先级 —　|　状态：用户判定不行
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：kamery-hikvision.sk（表内国别「斯洛文尼亚」应为斯洛伐克 .sk，闸 2 核；Wi-Tek 的）：欧洲 + 已进口中国同类品牌；退信 → 闸 2 查底数 + 定国别，低优先；Simon 曾判不行 → 可按编号否决
+> **C 池筛选：留 C 储备**（闸 2 · 2026-10-29）：闸 2 未坐实：kamery-hikvision.sk 1 查仅返回同名他站（hik-kamery.sk / kamery-hikvision-sk.sk / maxalarm）+ 退信 + Simon 判不行 → 回 C 储备；国别纠偏 斯洛文尼亚 → 斯洛伐克（待 Simon 确认）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-3057
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: keep_C  # 闸 2 G2 2026-10-29
 score: -62
 country: 斯洛文尼亚
 region: 欧洲
@@ -38,6 +38,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `kamery-hikvision.sk` → 其他主机商邮箱（mail.fajnnet.cz）（MX：mail.fajnnet.cz）。主机商附带邮箱（mail.fajnnet.cz）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 127 批（SK · 1 次检索：hik-kamery.sk 隐私页 + kamery-hikvision-sk.sk 联系页 + maxalarm.sk（均为同名他站）；ORSR 未查；2026-10-29，2026-10-29 查；https://www.kamery-hikvision-sk.sk/kontaktujte-nas）：**
+
+- 法定名 / 登记号：kamery-hikvision.sk（**1 查仅返回同名他站：hik-kamery.sk = Insomnium s.r.o. IČO 46590129；kamery-hikvision-sk.sk（Svornosti 50, Bratislava）；maxalarm.sk = EUROIN a.s. —— 均非本域名 → 经营主体未坐实**）；国别纠偏：表内「斯洛文尼亚」→ 斯洛伐克（.sk）；表内：Wi-Tek 的；退信；Simon 曾判不行 · 未取（经营主体未命中） · 状态 **未坐实** · 成立 未取 · 未取
+- 行业码 / 经营范围：CCTV 网店（斯洛伐克；推定）
+- 注册地址：未取
+- 规模档：微型（推定）
+- 账目：未取；—
+- 高管：（predaj@kamery-hikvision.sk 表内 = 退信）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **未坐实 + 退信 → 不动**；国别改斯洛伐克（待 Simon 确认）
+- 备注：回 C 储备（1 查未命中经营主体 + 退信 + Simon 判不行）；国别纠偏 SK。
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -2,7 +2,7 @@
 
 > **评级 C**　|　沙特阿拉伯　|　档案编号 `SC-257`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：沙特利雅得系统集成 / 数据中心业务 Al Rajhi Telecom：2024-10-22 DC Division Manager 回群发索样 STI-154GP（Simon 答 $36 非免费）→ 具名 KP + 对位 + 样品意向；区域次优 → 闸 2 查底数
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ DC 集成 25%：Al Rajhi Telecom（利雅得；Al Rajhi Building & Construction 子公司；2013；51–100 ～ 501–1,000 人；弱电 / DC / Cisco Premium；DC Division Manager Inam 真回索样）部分坐实（CR 未取）；具名真回 ✔ 样品意向 ✔ 对位 ✔ 体量 ✔ → P 池候选（次优区）
 >
 > **类型**：系统集成 / 数据中心（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：补录、S邮箱人工往来、沙特、区域外　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-257
 rating: C
 rating_auto: B
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 rating_research: C  # 区域外（沙特）+ 2024 年后无回 → C；有具名 KP 留档
 name_official: "Al Rajhi Telecommunication (alrajhitel.com)"
 score: 38
@@ -40,6 +40,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STI-154GP（深挖对位：集成商 25% 档；其开口问的就是 STI-154GP）
 - **最大未知**：年走量与现供应商
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `alrajhitel.com` → 印度 / 亚洲主机商邮箱（MX：us2.mx1.mailhostbox.com、us2.mx2.mailhostbox.com、us2.mx3.mailhostbox.com）。主机商附带邮箱（印度 / 亚洲主机商邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 127 批（SA · 1 次检索：linkedin.com/company/alrajhitel（母公司 / 2013 / 专长）+ x.com/alrajhitel + prospeo（地址 / 电话 / 规模）；CR 未取；2026-10-29，2026-10-29 查；https://www.linkedin.com/company/alrajhitel/）：**
+
+- 法定名 / 登记号：Al Rajhi Telecom（alrajhitel.com；**LinkedIn：Al Rajhi Building & Construction 子公司；利雅得；2013 年创立；系统集成（弱电 / CCTV / 门禁 / 数据中心 / Cisco Premium Partner / 网络安全）；LinkedIn 规模 501–1,000 vs prospeo 51–100 + 营收估 $7.96M；7687 King Fahad Branch Rd, Al Murabba, Riyadh 12612；+966 11 422 1089；2025 Intersec Saudi 参展**；CR 号未取）；表内：2024-10-22 DC Division Manager（inam@）回群发索样 STI-154GP（答 $36 非免费） · 未取（CR 未查） · 状态 **营业中（LinkedIn 2025 更新）** · 成立 2013 · LLC（集团子公司）
+- 行业码 / 经营范围：系统集成 / 弱电 / 数据中心（利雅得）
+- 注册地址：7687 King Fahad Branch Rd, Al Murabba, Riyadh 12612
+- 规模档：中型（51–100 ～ 501–1,000）
+- 账目：未取；—
+- 高管：Inam（inam@alrajhitel.com 表内 = DC Division Manager，真回索样）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **DC 集成商回访 → 集成 25%：点名 Inam 一页纸一次（STI-154GP 样机 $36 + STC-4424GCPM / STH-2C24XF-HSI DC 接入 + 付费样机 + T/T 50/50）— 区域外常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳；低频一页纸**；次优区
+- 备注：集成 25%；P 池候选 ○（具名 KP 真回 ✔ 样品意向 ✔ 对位 ✔ 体量 ✔）；部分坐实（CR 未取）。
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -2,7 +2,7 @@
 
 > **评级 C**　|　西班牙　|　档案编号 `SC-2760`　|　优先级 —　|　状态：用户判定不行
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：西班牙 Tempel Group（Moxa 分销；工业电子分销集团）：欧洲 + 工业网络分销主体 + 对位 ✔ → 闸 2 查底数；Simon 曾判不行 → 可按编号否决
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 中型集团分销 20%：TEMPEL, S.A. — Tempel Group（Barcelona 1978；Panasonic / Advantech / Moxa / Robustel 分销；拉美 6 国分部）部分坐实（CIF 未取）；工业分销 ✔ 体量 ✔ 欧洲 ✔ 对位 ✔ → P 池候选（Moxa 不点名；拉美可带出口）；Simon 曾判不行，可否决
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-2760
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: -37
 country: 西班牙
 region: 欧洲
@@ -38,6 +38,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `tempelgroup.com` → Microsoft 365（MX：tempelgroup-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 127 批（ES · 1 次检索：indisa.es（法人 TEMPEL, S.A.；地址；品牌）+ interempresas（35 周年 2013；拉美分部）+ automaticaeinstrumentacion；CIF 未取；2026-10-29，2026-10-29 查；https://www.indisa.es/empresas/tempel-sa-barcelona）：**
+
+- 法定名 / 登记号：TEMPEL, S.A. — Tempel Group（tempelgroup.com；**indisa 名录：C/ Cobalto 4, 08907 L'Hospitalet de Llobregat (Barcelona)；品牌 Panasonic / Transcend / Advantech / Moxa / Robustel / Getac / IEI / AAEON 等；interempresas / automaticaeinstrumentacion：1978 年巴塞罗那创立，电子品牌分销（西 + 葡）+ 拉美分部（阿根廷 / 智利 / 哥伦比亚 / 巴西 / 秘鲁 / 墨西哥），工业 + 消费双线，客户含大型工程公司**）；表内：Moxa 分销 = 工业电子分销集团；Simon 曾判不行 · 未取（CIF 未查；法人名 S.A. 坐实） · 状态 **营业中（名录 + 官网）** · 成立 1978 · S.A.
+- 行业码 / 经营范围：工业 / 消费电子分销集团（伊比利亚 + 拉美 6 国）
+- 注册地址：C/ Cobalto 4, 08907 L'Hospitalet de Llobregat (Barcelona)
+- 规模档：中型（集团；多国分部）
+- 账目：未取；—
+- 高管：（info@tempelgroup.com 表内总邮箱；工业线产品经理 KP 待 LinkedIn）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **工业分销集团（Moxa 在售）→ 分销 20%：一页纸一次（STI-154GP / STI-288GPM / STI-0240GE 入门工业线对标 + MOQ 1 + 付费样机；Moxa 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；拉美分部可带出口；Simon 可否决
+- 备注：分销 20%；P 池候选 ★（中型集团分销 + 工业对位 + 欧洲 + 坐实）；部分坐实（CIF 未取）；Simon 曾判不行。
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -3,8 +3,8 @@
   "kind": "registry",
   "source": "India · MCA 公司登记（Zauba Corp / Tofler 镜像）",
   "created": "2026-10-27",
-  "updated": "2026-10-28",
-  "count": 48
+  "updated": "2026-10-29",
+  "count": 52
  },
  "rows": {
   "SA-073": {
@@ -1548,6 +1548,127 @@
    ],
    "notes": "不动（地址失效 + 未坐实）；未坐实（同名陷阱）。",
    "code": "SB-595"
+  },
+  "SC-343": {
+   "batch": 127,
+   "name": "Optilink Networks Pvt. Ltd.（optilinknetwork.com；**ZoomInfo：501/502 Sanjona Complex, Plot 11-A, Hemu Kalani Chembur Rd, Mumbai 400071；20 人；自有品牌 Optilink 网络 / 无线 / VoIP / IPTV / 数字前端全线分销，全球渠道伙伴；bharatibiz：Shashank Shah — Manager（shashank@optilinknetwork.com）；RocketReach：Vinit Savla = 高级网络工程师（表内 KP 实为工程岗）**）；表内：MC / SFP / FS / 周边自有品牌；未触达",
+   "iso": "IN",
+   "fetched": "2026-10-29",
+   "source": "IN · 1 次检索：zoominfo（地址 / 20 人 / 定位）+ bharatibiz（Manager 具名 + 邮箱）+ rocketreach（Vinit Savla 职务）；CIN 未取（zaubacorp 下轮）；2026-10-29",
+   "url": "https://www.zoominfo.com/pic/optilink-networks-pvt-ltd/347261750",
+   "number": "未取（CIN 未查；法人名坐实）",
+   "status": "营业中（名录在线）",
+   "incorporated": "未取",
+   "company_type": "Pvt. Ltd.",
+   "sic": [
+    "自有品牌网络 / 光通信产品（孟买）"
+   ],
+   "address": "501/502 Sanjona Complex, Hemu Kalani Chembur Rd, Mumbai 400071",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（20）",
+   "officers": [
+    "Shashank Shah — Manager（shashank@optilinknetwork.com；bharatibiz 公开）",
+    "Vinit Savla — Senior Network Engineer（表内 KP；非采购）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌全线 → OEM 30%：点名 Shashank 一页纸一次（STC-028GP / STC-228GP / STC-2224GP 丝印 + STC-110XGE MC + MOQ + 付费样机）— 区域外常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳；低频一页纸**；印度次优区"
+   ],
+   "notes": "OEM 30%；P 池候选 ○（自有品牌 + 次优区 + 坐实；冷）；部分坐实（CIN 未取）。",
+   "code": "SC-343"
+  },
+  "SC-347": {
+   "batch": 127,
+   "name": "Prama India（pramaindia.in；**1 查命中 PRAMA HIKVISION INDIA PRIVATE LIMITED（zaubacorp：CIN U36100MH2009PTC190094；2009-02-03；ROC Mumbai；海康威视合资子公司，37 分部 / 26 RMA 中心，Goregaon East 总部；industrialautomationindia：10K+ 人，营收 ₹500–1K Cr）—— pramaindia.in 为 Prama 方域名，法人未直接命中 → 部分坐实**）；表内：CCTV 为主 + 商业 PoE 自有 logo；未触达",
+   "iso": "IN",
+   "fetched": "2026-10-29",
+   "source": "IN · 1 次检索：zaubacorp（Prama Hikvision CIN）+ exportersindia + industrialautomationindia（JV 沿革 / 规模）；pramaindia.in 自身法人未命中；2026-10-29",
+   "url": "https://www.zaubacorp.com/PRAMA-HIKVISION-INDIA-PRIVATE-LIMITED-U36100MH2009PTC190094",
+   "number": "U36100MH2009PTC190094（JV 公司；pramaindia.in 法人另待）",
+   "status": "营业中（Active）",
+   "incorporated": "2009-02-03（JV）",
+   "company_type": "Pvt. Ltd.（海康 JV）",
+   "sic": [
+    "CCTV 制造 / 分销（海康印度体系）"
+   ],
+   "address": "Oberoi Commerz II, Goregaon (East), Mumbai 400063（JV 总部）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "巨型（10K+；₹500–1K Cr）",
+   "officers": [
+    "（sales@pramaindia.in 表内总邮箱）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**海康 JV 体系，PoE 自配 → 不动（oem 备注留档）**"
+   ],
+   "notes": "回 C 储备（巨头 / 中资 JV 体系 + 域名法人未直接命中 + 未触达）；oem 备注。",
+   "code": "SC-347"
+  },
+  "SC-1025": {
+   "batch": 127,
+   "name": "Pixelcube（**gmail 户 pixelcube.siran@gmail.com；无域名 / 法人 → 0 查**）；表内：Siran（WeChat siran-pixel）问 SKD、要全系列价目、想来公司看",
+   "iso": "IN",
+   "fetched": "2026-10-29",
+   "source": "IN · 0 查（gmail 个体，无可查主体）；2026-10-29",
+   "url": "",
+   "number": "未取（无主体）",
+   "status": "未坐实",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "未取（SKD / 贴牌意向）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "未取",
+   "officers": [
+    "Siran（pixelcube.siran@gmail.com 表内；WeChat siran-pixel）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**无法人 → 不动；若其来信 / 微信再起则按 OEM 30% + 预付 100% 走**"
+   ],
+   "notes": "回 C 储备（gmail 个体 0 查未坐实；SKD 意向留档）。",
+   "code": "SC-1025"
+  },
+  "SC-2386": {
+   "batch": 127,
+   "name": "KHUSHI ENTERPRISES（**gmail 户 panaji@gmail.com；无域名 → 0 查**）；表内：「import from ONV, need price list, LG distributor」",
+   "iso": "IN",
+   "fetched": "2026-10-29",
+   "source": "IN · 0 查（gmail，无可查主体）；2026-10-29",
+   "url": "",
+   "number": "未取（无主体）",
+   "status": "未坐实",
+   "incorporated": "未取",
+   "company_type": "未取（商号）",
+   "sic": [
+    "进口分销（推定；果阿？）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "未取",
+   "officers": [
+    "（panaji@gmail.com 表内）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**无法人 → 不动；来信再起则预付 100%**"
+   ],
+   "notes": "回 C 储备（gmail 商号 0 查未坐实）。",
+   "code": "SC-2386"
   }
  }
 }

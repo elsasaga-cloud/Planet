@@ -2,7 +2,7 @@
 
 > **评级 C**　|　俄罗斯　|　档案编号 `SC-1942`　|　优先级 —　|　状态：有回复·跟进中
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：俄罗斯 Satvision（CCTV 品牌，自有 logo，Mike Yakushev 回过 1 次，15 次跟进）→ 真回 + 自有品牌；俄区收款路径待 Simon → 闸 2 查底数　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 自有品牌 · OEM 30%：Satvision（萨马拉；自有商标 CCTV 20+ 年；全俄 12 分部；客户含 Сбербанк / РЖД；Mike Yakushev 真回）部分坐实（ИНН 未取）；真回 ✔ 自有品牌 ✔ 体量 ✔ 对位 ✔ → P 池候选；预付款 + RU 收款 / 物流路径待 Simon　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：实质回复 1 次；推送 15 次（2024-06-12 → 2025-10-23）　|　**所在清单**：A优质名单(优质俄罗斯客户)、AI评估(RU)、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1942
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 0
 country: 俄罗斯
 region: 俄语区
@@ -39,6 +39,30 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `satvision-cctv.ru` → 俄罗斯主机商邮箱（MX：mx1.timeweb.ru、mx2.timeweb.ru）。俄语区云邮箱（俄罗斯主机商邮箱）：Gmail 投递正常，但制裁环境下美元汇路和 PayPal 常走不通 → 报价前先问付款银行 / 币种，T/T 以外别承诺
+- `satv.ru` → Mail.ru（VK WorkMail）（MX：emx.mail.ru）。俄语区云邮箱（Mail.ru（VK WorkMail））：Gmail 投递正常，但制裁环境下美元汇路和 PayPal 常走不通 → 报价前先问付款银行 / 币种，T/T 以外别承诺
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 127 批（RU · 1 次检索：satvision-cctv.ru 首页（地址 / 分部 / 客户）+ /company/（品牌定位）+ satvision.pro；ИНН 未取（rusprofile 下轮）；2026-10-29，2026-10-29 查；https://satvision-cctv.ru/company/）：**
+
+- 法定名 / 登记号：Satvision（satvision-cctv.ru / satvision.pro；**官网：视频监控设备自有商标 20+ 年；中央办公室 Самара, ул. Санфировой 95 к.1；8 800 550-12-51；satvision@satv.ru；全俄 12 个分部；自研软件；客户含 Сбербанк / Ростелеком / РЖД / Почта России**；法人 ООО 名 / ИНН 未取）；表内：自有 logo，Mike Yakushev（m.yakushev@satv.ru）回过 1 次，15 次跟进 · 未取（ИНН 未查） · 状态 **营业中（官网在线）** · 成立 未取（20+ 年） · ООО（推定）
+- 行业码 / 经营范围：自有品牌 CCTV（萨马拉；12 分部）
+- 注册地址：ул. Санфировой 95 к.1, Самара
+- 规模档：中型（12 分部）
+- 账目：未取；—
+- 高管：Mike Yakushev（m.yakushev@satv.ru 表内 = 真回 KP；职务未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自有品牌 CCTV 配套 PoE → OEM 30%：点名 Mike 一页纸一次（STC-028GP / STC-228GP / STC-2224GP 丝印 + MOQ + 付费样机）；预付款 + 待 Simon 定收款 / 物流路径**
+- 备注：OEM 30%；P 池候选 ★（真回 + 自有品牌 + 体量）；部分坐实（ИНН 未取）；RU 收款路径待 Simon。
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -2,7 +2,7 @@
 
 > **评级 C**　|　泰国　|　档案编号 `SC-2437`　|　优先级 —　|　状态：已推送 8 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：泰国 Nana-tech（工业网络分销商，大量 Utepo，早期 AI 50% A）→ 贴牌渠道商；8 推 0 回；Simon 判不行 → 闸 2 查底数　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：留 C 储备**（闸 2 · 2026-10-29）：闸 2 未坐实：nana-tech.net 1 查仅返回 Nana Engineering（水泵）+ thai.finance 同名合伙（域名未对上）+ 冷户 + Simon 判不行 → 回 C 储备　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：推送 8 次（2025-03-12 → 2025-10-13）　|　**所在清单**：A优质名单(Thailand)、AI评估(TH)·DONE、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-2437
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: keep_C  # 闸 2 G2 2026-10-29
 score: -19
 country: 泰国
 region: 亚太
@@ -39,6 +39,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-448DGGPM（48 口 PoE 走量款）
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `nana-tech.net` → 主机商 cPanel 类邮箱（MX：mail.nana-tech.net）。主机商附带邮箱（主机商 cPanel 类邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 127 批（TH · 1 次检索：nanaengineering.com/about（他司）+ thai.finance/az-companies/nana-t（同名合伙，未证明为本域名）；2026-10-29，2026-10-29 查；http://thai.finance/az-companies/nana-t）：**
+
+- 法定名 / 登记号：Nana-tech（nana-tech.net；**1 查仅返回 Nana Engineering Technology Co., Ltd.（水泵；nanaengineering.com）与 thai.finance 同名合伙企业 NANA TECH LIMITED PARTNERSHIP 0133547002680（Pathum Thani）—— 域名均未对上 → 未坐实**）；表内：工业网络分销，大量 Utepo；pimpisa@ 具名；8 推 0 回；Simon 判不行 · 未取（0133547002680 为同名合伙，未证实） · 状态 **未坐实** · 成立 未取 · 未取
+- 行业码 / 经营范围：工业网络分销（推定）
+- 注册地址：未取
+- 规模档：未取
+- 账目：未取；—
+- 高管：Pimpisa（pimpisa@nana-tech.net 表内具名；职务未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **未坐实 → 不动；来信再起则预付 100%**
+- 备注：回 C 储备（1 查未命中 + 冷户 + Simon 判不行）。
 
 ## 基本事实（事实/推断/假设分层）
 

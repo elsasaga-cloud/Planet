@@ -4,7 +4,7 @@
   "source": "Portugal · Registo Comercial（racius / iberinform / rigorbiz 镜像）",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 2
+  "count": 3
  },
  "rows": {
   "SB-1023": {
@@ -68,6 +68,36 @@
    ],
    "notes": "分销 20%；P 池候选 △（回信 ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔；微型一人公司 → 预付）；坐实。",
    "code": "SC-1446"
+  },
+  "SC-2870": {
+   "batch": 127,
+   "name": "PT REFURB, UNIPESSOAL LDA（ptrefurb.pt；**rigorbiz / nif.pt / 官网 Terms：NIF 510298370；成立 2012-06-01；资本 €15,000；CAE 47401 计算机 / 外设零售；Rua do Pinheiro 363, 4410-037 Serzedo, Vila Nova de Gaia；自称「全国最大翻新电脑进口分销商、伊比利亚最大之一」**）；表内：洪瑞的商业 PoE；17 推 0 回；Simon 曾判不行",
+   "iso": "PT",
+   "fetched": "2026-10-29",
+   "source": "PT · 1 次检索：rigorbiz.pt（NIF / 资本 / CAE / 地址）+ nif.pt + ptrefurb.pt/en/termos-e-condicoes/（法人 + 定位）；2026-10-29",
+   "url": "https://www.rigorbiz.pt/pt-refurb-unipessoal-lda",
+   "number": "510298370（NIF）",
+   "status": "营业中（Ativa）",
+   "incorporated": "2012-06-01",
+   "company_type": "Unipessoal Lda",
+   "sic": [
+    "翻新电脑进口 / 零售（CAE 47401）"
+   ],
+   "address": "Rua do Pinheiro 363, 4410-037 Serzedo, Vila Nova de Gaia",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（资本 €15k）",
+   "officers": [
+    "（geral@ptrefurb.pt 表内总邮箱）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**主业翻新电脑零售，PoE 为边角 → 不动**；洪瑞现供 → Q-33 口径（默认只推 SmartByte / Marvell 管理 + 工业线）"
+   ],
+   "notes": "回 C 储备（坐实但主业不对位 CAE 47401 + 冷户 0 回 + Simon 判不行）；Q-33。",
+   "code": "SC-2870"
   }
  }
 }

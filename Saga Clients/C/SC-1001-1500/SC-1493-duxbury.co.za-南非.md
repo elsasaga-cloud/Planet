@@ -2,7 +2,7 @@
 
 > **评级 C**　|　南非　|　档案编号 `SC-1493`　|　优先级 —　|　状态：已推送 16 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：南非 Duxbury Networking（知名分销商）：要过 8 光 8 管理 PoE 样品、「也卖很多商业 PoE」、常用邮件沟通；16 推 0 回 → 分销体量 + 对位 ✔ → 闸 2
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 中型分销 20%：DUXBURY TRANSMISSION EQUIPMENT (PTY) LTD t/a Duxbury Networking（Johannesburg；注册号 2018/441897/07；1984 起；三分部；8,000+ 经销伙伴；3 具名邮箱在表）坐实；索样互动 ✔ 分销体量 ✔ 对位 ✔ 具名 KP ✔ → P 池候选（次优区长线）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 16 次（2024-05-09 → 2025-11-04）　|　**所在清单**：A优质名单(South Africa)、AI评估(ZA)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1493
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 9
 country: 南非
 region: 非洲
@@ -39,6 +39,32 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-28DGGPM（8 口 PoE + 2 SFP L2+）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `duxbury.co.za` → Microsoft 365（MX：duxbury-co-za.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+- `duxnet.co.za` → Microsoft 365（MX：duxnet-co-za.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 127 批（ZA · 1 次检索：duxbury.co.za/privacy-policy/（法人 + 注册号 + 地址）+ telecoms-channel.co.za（沿革 / 品牌 / 规模）；2026-10-29，2026-10-29 查；https://www.duxbury.co.za/privacy-policy/）：**
+
+- 法定名 / 登记号：DUXBURY TRANSMISSION EQUIPMENT (PTY) LIMITED t/a Duxbury Networking（duxbury.co.za；**官网 Privacy Policy：注册号 2018/441897/07；Block 1, Riviera Office Park, 66 Oxford Rd, Parktown, Johannesburg 2193；telecoms-channel 档：1984 年创立，JHB / CT / DBN 三分部，8,000+ 经销伙伴，增值分销（Netgear / HPE Aruba / Extreme / Cambium / Proxim / Axis / Sophos / Milesight 独家）**）；表内：要过 8 光 8 管理 PoE 样品、「也卖很多商业 PoE」；3 具名邮箱；16 推 0 回 · 2018/441897/07 · 状态 **营业中（官网 2026）** · 成立 1984（现法人 2018） · (Pty) Ltd
+- 行业码 / 经营范围：网络 / 无线 / 安防增值分销（南非三分部）
+- 注册地址：Block 1, Riviera Office Park, 66 Oxford Rd, Parktown, Johannesburg 2193
+- 规模档：中型（8,000+ 经销商）
+- 账目：未取；—
+- 高管：T. van Schalkwyk（tvanschalkwyk@duxnet.co.za 表内具名）
+- 高管：P. Stuttard（pstuttard@duxnet.co.za 表内具名）
+- 高管：J. Pillay（jpillay@duxnet.co.za 表内具名）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **大分销 → 分销 20%：点名曾索样者一页纸一次（STC-4424GCPM L2+ Marvell $165 对标其索样口型 + STC-228GP + MOQ 1 + 付费样机）— 区域外常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳；低频一页纸**；次优区长线
+- 备注：分销 20%；P 池候选 ★（中型分销 + 索样互动 + 具名 KP + 坐实）；坐实（注册号）。
 
 ## 基本事实（事实/推断/假设分层）
 

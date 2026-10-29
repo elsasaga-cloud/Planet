@@ -4,7 +4,7 @@
   "source": "Slovensko · ORSR / FinStat（官方登记 + 公开财报）",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 2
+  "count": 3
  },
  "rows": {
   "SB-005": {
@@ -72,6 +72,36 @@
    ],
    "notes": "分销 20%；P 池候选 ★（中型进口分销 + 具名 KP + 对位）；坐实；dayjob 线索 analog over fiber。",
    "code": "SC-1881"
+  },
+  "SC-3057": {
+   "batch": 127,
+   "name": "kamery-hikvision.sk（**1 查仅返回同名他站：hik-kamery.sk = Insomnium s.r.o. IČO 46590129；kamery-hikvision-sk.sk（Svornosti 50, Bratislava）；maxalarm.sk = EUROIN a.s. —— 均非本域名 → 经营主体未坐实**）；国别纠偏：表内「斯洛文尼亚」→ 斯洛伐克（.sk）；表内：Wi-Tek 的；退信；Simon 曾判不行",
+   "iso": "SK",
+   "fetched": "2026-10-29",
+   "source": "SK · 1 次检索：hik-kamery.sk 隐私页 + kamery-hikvision-sk.sk 联系页 + maxalarm.sk（均为同名他站）；ORSR 未查；2026-10-29",
+   "url": "https://www.kamery-hikvision-sk.sk/kontaktujte-nas",
+   "number": "未取（经营主体未命中）",
+   "status": "未坐实",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "CCTV 网店（斯洛伐克；推定）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（推定）",
+   "officers": [
+    "（predaj@kamery-hikvision.sk 表内 = 退信）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**未坐实 + 退信 → 不动**；国别改斯洛伐克（待 Simon 确认）"
+   ],
+   "notes": "回 C 储备（1 查未命中经营主体 + 退信 + Simon 判不行）；国别纠偏 SK。",
+   "code": "SC-3057"
   }
  }
 }

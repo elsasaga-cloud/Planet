@@ -2,7 +2,7 @@
 
 > **评级 C**　|　危地马拉　|　档案编号 `SC-2955`　|　优先级 —　|　状态：WhatsApp 已加·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：危地马拉 Continental Towers（mip.com.gt）：「下过两次单买 2 光 3 电和收发器」= 复购户（表内 deal 词未被机器识别）；英语不好；Simon 曾判不行 → 闸 2 核成交记录再定　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：△ 观察档 · 成单复购回访：Continental Towers Guatemala S.A.（1 查命中 Continental Towers Corp LATAM：拉美铁塔商，2008，Terra Towers 旗下，11–50 人；mip.com.gt 域名未直接命中）部分坐实；成单 ✔ 复购 ✔ ≥2 条，区域外 + 终端自用 → 入池观察档；Simon 曾判不行，可否决　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：WhatsApp 已加　|　**所在清单**：群发(杂)、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-2955
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: -55
 country: 危地马拉
 region: 拉美
@@ -39,6 +39,27 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STI-110GE（工业迷你 1 光 1 电（MC 位））
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `mip.com.gt` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、alt3.aspmx.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**公司底数 · 第 127 批（GT · 1 次检索：rocketreach（规模 / 地址）+ linkedin（定位 / 分部）+ pitchbook（2008；Terra Towers）；mip.com.gt 法人未直接命中；2026-10-29，2026-10-29 查；https://www.linkedin.com/company/continental-towers）：**
+
+- 法定名 / 登记号：Continental Towers Guatemala, S.A.（mip.com.gt；**1 查命中 Continental Towers Corp LATAM（LinkedIn：拉美最大私营通信铁塔商，18+ 年，中美洲 / 秘鲁 / 哥伦比亚；11–50 人；2da calle 7-93 zona 14, Plaza Las Conchas 701, Guatemala 01014；PitchBook：2008 成立，母公司 Terra Towers；RocketReach：$3M / 18 人）—— mip.com.gt 域名未直接命中 → 部分坐实**）；表内：「下过两次单买 2 光 3 电和收发器」= 复购户；英语不好；Simon 曾判不行 · 未取（登记未查） · 状态 **营业中（LinkedIn 2026 更新）** · 成立 2008 · S.A.
+- 行业码 / 经营范围：通信铁塔基础设施（中美洲）
+- 注册地址：2da calle 7-93 zona 14, Plaza Las Conchas 701, Guatemala 01014
+- 规模档：小型（11–50）
+- 账目：未取；—
+- 高管：（info@ / sistemas@mip.com.gt 表内总邮箱；IT 系统部）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **复购终端回访 → 直客价（分销 20% 口径）：一页纸一次（STC-228GP 2 光 / STI-154GP 站点用 + STC-110XGE MC + MOQ 1；西语一句问候可加）— 区域外常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳；低频一页纸**；区域外低频
+- 备注：成单复购；P 池候选 △（成单 ✔ 复购 ✔；区域外 + 终端自用 → 观察档）；部分坐实（域名法人未直接命中）；Simon 曾判不行。
 
 ## 基本事实（事实/推断/假设分层）
 

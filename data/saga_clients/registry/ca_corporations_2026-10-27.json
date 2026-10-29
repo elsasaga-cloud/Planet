@@ -4,7 +4,7 @@
   "source": "Canada · Corporations Canada / Ontario 登记（OpenCorporates 摘要）",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 33
+  "count": 34
  },
  "rows": {
   "SA-087": {
@@ -1075,6 +1075,36 @@
    ],
    "notes": "OEM 30%；P 池候选 ★（北美现成 OEM 买家）；部分坐实。",
    "code": "SC-1443"
+  },
+  "SC-2832": {
+   "batch": 127,
+   "name": "Smart Access — SASTORE.ca（smartaccess.ca；**官网 n.smartaccess.ca + Facebook：25 Helene St N, Mississauga, ON L5G 3B6；1-844-244-2299；info@smartaccess.ca；IP / AHD / TVI 监控 + PoE 网络设备网店**；注意：Google Play 的 Smart Access Inc.（1904038 Alberta Ltd，Edmonton，零售软件）为同名他司）；法人名未取 → 部分坐实；表内：商业 PoE 国内外壳、CCTV；退信；Simon 曾判不行",
+   "iso": "CA",
+   "fetched": "2026-10-29",
+   "source": "CA · 1 次检索：n.smartaccess.ca（地址 / 电话 / 邮箱 / 品类）+ facebook.com/SmartAccessCanada（Mississauga）；法人名 / 注册号未取；2026-10-29",
+   "url": "https://n.smartaccess.ca/",
+   "number": "未取（法人名未取）",
+   "status": "营业中（官网 2021 存档；Facebook 在线）",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "CCTV / PoE 网店（安大略）"
+   ],
+   "address": "25 Helene St N, Mississauga, ON L5G 3B6",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型",
+   "officers": [
+    "（info@smartaccess.ca 表内 = 退信）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**微型网店 + 退信 + 法人未取 → 不动**"
+   ],
+   "notes": "回 C 储备（微型 CCTV 网店 + 退信 + 法人未取 + Simon 判不行）。",
+   "code": "SC-2832"
   }
  }
 }

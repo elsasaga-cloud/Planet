@@ -2,7 +2,7 @@
 
 > **评级 C**　|　泰国　|　档案编号 `SC-1045`　|　优先级 —　|　状态：已推送 16 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：泰国 Alfabase（自有品牌 + 同时卖 ONV / Elink，早期 AI 45% A）→ 典型贴牌渠道商（OEM 30% 对象）；16 推 0 回 → 闸 2 查底数　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 自有品牌 · OEM 30%：Alfa Base Marketing Co., Ltd.（曼谷 Lat Krabang；1995；进口 + 制造；自有品牌 ALFA BASE 布线 / 光纤 / MC / SFP 全线）部分坐实（DBD 未取）；自有品牌 ✔ 进口 ONV / Elink ✔ 对位 ✔ 坐实 ✔ → P 池候选（次优区，冷）　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：推送 16 次（2024-05-13 → 2025-10-14）　|　**所在清单**：A优质名单(Thailand)、AI评估(TH)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1045
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 15
 country: 泰国
 region: 亚太
@@ -39,6 +39,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（24 口 PoE L2+ 走量款）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `alfabase.co.th` → 其他主机商邮箱（antispamawn.thaicloudsolutions.com）（MX：antispamawn.thaicloudsolutions.com）。主机商附带邮箱（antispamawn.thaicloudsolutions.com）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 127 批（TH · 1 次检索：alfabase.co.th 首页 + /shop/ + /product-category/products/alfa-base/（法人泰文名 / 地址 / 1995 / 自有品牌型号）；DBD 注册号未取；2026-10-29，2026-10-29 查；https://alfabase.co.th/product-category/products/alfa-base/）：**
+
+- 法定名 / 登记号：บริษัท อัลฟา เบส มาร์เก็ตติ้ง จำกัด — Alfa Base Marketing Co., Ltd.（alfabase.co.th；**官网：582/5 ถนนลาดกระบัง, Lat Krabang, Bangkok 10520；1995（พ.ศ. 2538）注册；进口 + 制造 + 咨询；自有品牌 ALFA BASE（UTP / 光纤跳线 / 配线架 / ODF / MC / SFP / MPO / 机架 / 电源 / 蓄电池），面向政府与电信**）；表内：自有品牌 + 同时卖 ONV / Elink；16 推 0 回 · 未取（DBD 未查；法人泰文名坐实） · 状态 **营业中（官网 2026 版权）** · 成立 1995 · Co., Ltd.
+- 行业码 / 经营范围：自有品牌布线 / 光通信产品 + 进口分销（曼谷）
+- 注册地址：582/5 Lat Krabang Rd, Lat Krabang, Bangkok 10520
+- 规模档：小型 / 中型（20+ 年）
+- 账目：未取；—
+- 高管：（info@alfabase.co.th 表内总邮箱；产品经理 KP 待 LinkedIn）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自有品牌布线商补网络线 → OEM 30%：一页纸一次（STC-028GP / STC-228GP 丝印 + STC-110XGE MC 对标其 MC 线 + MOQ + 付费样机）— 区域外常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳；低频一页纸**；次优区
+- 备注：OEM 30%；P 池候选 ○（自有品牌 ✔ 进口 ✔ 对位 ✔ 坐实 ✔；冷）；部分坐实（DBD 未取）。
 
 ## 基本事实（事实/推断/假设分层）
 

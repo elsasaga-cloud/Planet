@@ -2,7 +2,7 @@
 
 > **评级 C**　|　澳大利亚　|　档案编号 `SC-2106`　|　优先级 —　|　状态：成交过·维护
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：澳大利亚 Optimal Cable Services（现属 AFL）：2007 年起合作、买过 MC / CWDM、「偶尔有反应」、23 次跟进 → 长期成单户 + 体量；产品偏光传输 → 闸 2 核现状并标 dayjob　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：△ 观察档 · dayjob：Optimal Cable Services Pty Ltd → AFL（Tottenham VIC；光缆 / 连接产品制造；Peter Dicka 现 Manager Connectivity AFL Australia = 表内 KP 在职）部分坐实（ABN 未取）；2007 起长期成单 ✔ KP 在职 ✔；产品偏光传输 + AFL 集团体系 → 入池观察档，待 Q-70　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
 >
 > **类型**：系统集成/工程商（推断）　|　**历史关系**：成交/下单过；推送 23 次（2024-04-02 → 2025-10-22）　|　**所在清单**：A优质名单(AU)、DWDM线索、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-2106
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: -6
 country: 澳大利亚
 region: 亚太
@@ -39,6 +39,30 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STI-110GE（工业迷你 1 光 1 电（MC 位））
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `optimal.com.au` → Proofpoint 企业网关（MX：mx0a-00222701.pphosted.com、mx0b-00222701.pphosted.com）。企业级邮件网关（Proofpoint 企业网关）：链接重写 + 附件沙箱 → 像素失效、附件常被隔离，冷邮件到达率最低；这户靠回原线程 / LinkedIn / 对方来信，不靠新开线程群发
+- `aflglobal.com` → Proofpoint 企业网关（MX：mx0a-00222701.pphosted.com、mx0b-00222701.pphosted.com）。企业级邮件网关（Proofpoint 企业网关）：链接重写 + 附件沙箱 → 像素失效、附件常被隔离，冷邮件到达率最低；这户靠回原线程 / LinkedIn / 对方来信，不靠新开线程群发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 127 批（AU · 1 次检索：crunchbase（被 AFL 收购；11–50）+ bluebusinessguide（地址 / 电话）+ zoominfo（Peter Dicka 现职）；ABN 未取；2026-10-29，2026-10-29 查；https://www.crunchbase.com/organization/optimal-cable-services）：**
+
+- 法定名 / 登记号：Optimal Cable Services Pty Ltd → AFL（optimal.com.au；**Crunchbase：澳大利亚光缆 / 连接产品制造商，11–50 人，已被 AFL（藤仓集团）收购；bluebusinessguide：100 Olympia St, Tottenham VIC；03 9316 8300；ZoomInfo：Peter Dicka = Manager, Connectivity AFL (Australia)（= 表内 peter_dicka@optimal.com.au）**）；表内：2007 年起合作、买过 MC / CWDM、「偶尔有反应」、23 次跟进；marketing@aflglobal.com 亦在表 · 未取（ABN 未查） · 状态 **营业中（AFL 旗下）** · 成立 未取 · Pty Ltd（AFL 子公司）
+- 行业码 / 经营范围：光缆 / 连接产品制造（墨尔本）
+- 注册地址：100 Olympia St, Tottenham VIC 3012
+- 规模档：小型（11–50；集团 AFL）
+- 账目：未取；—
+- 高管：Peter Dicka — Manager, Connectivity AFL (Australia)（peter_dicka@optimal.com.au 表内 = 老 KP 仍在职）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **长期成单户（MC / CWDM = 本职线为主）→ Q-70 dayjob 子池；Saga 线只提 STC-110XGE MC + STI 工业 PoE；AFL 集团采购体系 → 长线**
+- 备注：成单回访；P 池候选 △ + dayjob_fit（长期成单 ✔ KP 在职 ✔；产品偏光传输 + 巨头体系 → 观察档）；部分坐实（ABN 未取）。
 
 ## 基本事实（事实/推断/假设分层）
 

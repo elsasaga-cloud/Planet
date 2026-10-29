@@ -3,8 +3,8 @@
   "kind": "registry",
   "source": "France · API Recherche d'entreprises（recherche-entreprises.api.gouv.fr：INSEE SIRENE + RNE + 年报，官方免费）",
   "created": "2026-10-27",
-  "updated": "2026-10-28",
-  "count": 16
+  "updated": "2026-10-29",
+  "count": 18
  },
  "rows": {
   "SA-011": {
@@ -528,6 +528,66 @@
    ],
    "notes": "未坐实（个人，0 查）→ 不动（WA 维系）。",
    "code": "SB-989"
+  },
+  "SC-3135": {
+   "batch": 127,
+   "name": "SPHINX CONNECT FRANCE（sphinxconnect.fr / sphinxcomputer.fr；**societe.com / annuaire-entreprises：SIREN 439 398 462；SIRET 总部 439 398 462 00044；TVA FR27439398462；创立 2001-10-10；SAS（原 SARL）；20–49 人；NAF 46.51Z 计算机 / 外设批发；Parc de la Bretonnière, 85600 Montaigu-Vendée（Boufféré）；4 个机构 1 个在营**）；表内：工业 FS 好几个牌子 = 工业网络分销商；Simon 曾判不行",
+   "iso": "FR",
+   "fetched": "2026-10-29",
+   "source": "FR · 1 次检索：societe.com（SIREN / 人数 / NAF）+ annuaire-entreprises.data.gouv.fr（RNE 2001-10-10；机构）+ lefigaro entreprises（SAS）；2026-10-29",
+   "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/439398462",
+   "number": "439 398 462（SIREN）",
+   "status": "营业中（RNE 在册）",
+   "incorporated": "2001-10-10",
+   "company_type": "SAS",
+   "sic": [
+    "工业网络 / IT 设备批发（旺代）"
+   ],
+   "address": "Parc de la Bretonnière, 85600 Montaigu-Vendée",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（20–49）",
+   "officers": [
+    "（sales@sphinxconnect.fr 表内总邮箱；产品经理 KP 待 LinkedIn）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**工业分销 → 分销 20%：一页纸一次（STI-154GP / STI-288GPM / STI-0240GE + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；Simon 可否决"
+   ],
+   "notes": "分销 20%；P 池候选 ○（工业分销 + 欧洲 + 对位 + 坐实 = 冷户四条）；坐实（SIREN）；Simon 曾判不行。",
+   "code": "SC-3135"
+  },
+  "SC-345": {
+   "batch": 127,
+   "name": "Pine Networks（pine-networks.com；**官网：219 Grande Rue, 92380 Garches；+33 1 88 94 77 04；contact@pine-networks.com；开放网络交钥匙集成（Edgecore / Adtran / UfiSpace 等，数据中心 1G–800G）+ 自研监控 PMO；客户云服务商 / ISP / 企业**）；表内：Edgecore 的；christophe@ 具名；名单内未触达",
+   "iso": "FR",
+   "fetched": "2026-10-29",
+   "source": "FR · 1 次检索：pine-networks.com 首页（地址 / 电话 / 合作品牌）+ /data-center/ + /portfolios/sonic/；SIREN 未取；2026-10-29",
+   "url": "https://pine-networks.com/",
+   "number": "未取（SIREN 未查）",
+   "status": "营业中（官网 2026-01）",
+   "incorporated": "未取",
+   "company_type": "SAS（推定）",
+   "sic": [
+    "开放网络 / 数据中心集成（巴黎西郊）"
+   ],
+   "address": "219 Grande Rue, 92380 Garches",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型 / 小型（推定）",
+   "officers": [
+    "christophe@pine-networks.com（表内具名；职务未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**DC 白盒集成 → 集成 25%（CENTEC 敲门砖）：点名 Christophe 一页纸一次（STH-2C24XF-HSI $1,500 / STH-8C48DX-HSI 接入层 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；客户稿内不提 SONiC / ONIE"
+   ],
+   "notes": "集成 25%；P 池候选 ○（DC 对位 + 具名 KP + 欧洲 + 坐实（官网）= 冷户四条）；部分坐实（SIREN 未取）。",
+   "code": "SC-345"
   }
  }
 }

@@ -2,7 +2,7 @@
 
 > **评级 C**　|　法国　|　档案编号 `SC-3135`　|　优先级 —　|　状态：用户判定不行
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：法国 Sphinx（sphinxcomputer.fr / sphinxconnect.fr；工业 FS 好几个牌子 = 法国工业网络分销商）：欧洲 + 分销主体 + 对位 ✔ → 闸 2 查底数（stop flag 为文本命中，非要求停发）；Simon 曾判不行 → 可按编号否决
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 工业分销 20%：SPHINX CONNECT FRANCE SAS（Montaigu-Vendée；SIREN 439 398 462；2001；20–49 人；NAF 46.51Z）坐实；工业 FS 多牌 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔ = 冷户四条 → P 池候选；Simon 曾判不行，可否决
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-3135
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: -69
 country: 法国
 region: 欧洲
@@ -38,6 +38,30 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STI-288DGGPM（工业 L2+ 8 PoE + 2×2.5G SFP）
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `sphinxcomputer.fr` → IONOS 主机邮箱（MX：mx00.kundenserver.de、mx01.kundenserver.de）。主机商附带邮箱（IONOS 主机邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+- `sphinxconnect.fr` → IONOS 主机邮箱（MX：mx00.kundenserver.de、mx01.kundenserver.de）。主机商附带邮箱（IONOS 主机邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 127 批（FR · 1 次检索：societe.com（SIREN / 人数 / NAF）+ annuaire-entreprises.data.gouv.fr（RNE 2001-10-10；机构）+ lefigaro entreprises（SAS）；2026-10-29，2026-10-29 查；https://annuaire-entreprises.data.gouv.fr/entreprise/439398462）：**
+
+- 法定名 / 登记号：SPHINX CONNECT FRANCE（sphinxconnect.fr / sphinxcomputer.fr；**societe.com / annuaire-entreprises：SIREN 439 398 462；SIRET 总部 439 398 462 00044；TVA FR27439398462；创立 2001-10-10；SAS（原 SARL）；20–49 人；NAF 46.51Z 计算机 / 外设批发；Parc de la Bretonnière, 85600 Montaigu-Vendée（Boufféré）；4 个机构 1 个在营**）；表内：工业 FS 好几个牌子 = 工业网络分销商；Simon 曾判不行 · 439 398 462（SIREN） · 状态 **营业中（RNE 在册）** · 成立 2001-10-10 · SAS
+- 行业码 / 经营范围：工业网络 / IT 设备批发（旺代）
+- 注册地址：Parc de la Bretonnière, 85600 Montaigu-Vendée
+- 规模档：小型（20–49）
+- 账目：未取；—
+- 高管：（sales@sphinxconnect.fr 表内总邮箱；产品经理 KP 待 LinkedIn）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **工业分销 → 分销 20%：一页纸一次（STI-154GP / STI-288GPM / STI-0240GE + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；Simon 可否决
+- 备注：分销 20%；P 池候选 ○（工业分销 + 欧洲 + 对位 + 坐实 = 冷户四条）；坐实（SIREN）；Simon 曾判不行。
 
 ## 基本事实（事实/推断/假设分层）
 

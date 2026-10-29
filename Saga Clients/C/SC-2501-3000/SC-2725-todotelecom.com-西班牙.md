@@ -2,7 +2,7 @@
 
 > **评级 C**　|　西班牙　|　档案编号 `SC-2725`　|　优先级 —　|　状态：用户判定不行
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：西班牙 Todotelecom（商业 PoE 为主、好多种外壳、销售平台；网站有 WA 按钮）：欧洲 + 多品牌进口经验 + 对位 ✔ → 闸 2 查底数，低优先；Simon 曾判不行 → 可按编号否决
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：△ 观察档 · 分销 20%：TODO TELECOM, S.L.（Dénia；CIF B53673364；RM Alicante H A-71082；资本 €26.8k；代理人 Francisco Manuel Valero Tello）坐实；多牌直进 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔，网店小型 → 入池观察档；Simon 曾判不行，可否决
 >
 > **类型**：分销商/经销商（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:Spain、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-2725
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: -35
 country: 西班牙
 region: 欧洲
@@ -39,6 +39,30 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-28DGGPM（8 口 PoE + 2 SFP L2+）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `todotelecom.com` → 主机商 cPanel 类邮箱（MX：mail.todotelecom.com）。主机商附带邮箱（主机商 cPanel 类邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 127 批（ES · 1 次检索：datoscif.es（CIF / 资本 / BORME）+ todotelecom.com/content/3-condiciones-genrales-de-uso（登记）+ /content/2-aviso-legal-politica-privacidad（地址 / 电话）；2026-10-29，2026-10-29 查；https://www.datoscif.es/empresa/todo-telecom-sl）：**
+
+- 法定名 / 登记号：TODO TELECOM, S.L.（todotelecom.com；**datoscif + 官网 aviso legal：CIF B53673364；Registro Mercantil de Alicante T 2552 F 86 H A-71082；资本 €26,800；Pol. Ind. Juyarco 40-A, Partida Madrigueres Sud, 03700 Dénia (Alicante)；96 578 44 63；BORME 2023-08 委任代理人 Francisco Manuel Valero Tello；webinfo@todotelecom.com**）；表内：商业 PoE 为主、多种外壳、销售平台、网站有 WA 按钮；Simon 曾判不行 · B53673364（CIF；RM Alicante H A-71082） · 状态 **营业中（BORME 2023）** · 成立 未取（2014 前） · S.L.
+- 行业码 / 经营范围：电信 / 网络设备网店 + 批发（阿利坎特）
+- 注册地址：Pol. Ind. Juyarco 40-A, 03700 Dénia (Alicante)
+- 规模档：小型（资本 €26.8k）
+- 账目：未取；—
+- 高管：Francisco Manuel Valero Tello — Apoderado（BORME 2023-08-31）
+- 高管：（webinfo@todotelecom.com 表内总邮箱）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **多牌网店 → 分销 20%：一页纸一次（STC-028GP / STC-228GP / STC-2216GP + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；Simon 可否决
+- 备注：分销 20%；P 池候选 △（多牌直进 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔；网店小型 → 观察档）；坐实（CIF）；Simon 曾判不行。
 
 ## 基本事实（事实/推断/假设分层）
 

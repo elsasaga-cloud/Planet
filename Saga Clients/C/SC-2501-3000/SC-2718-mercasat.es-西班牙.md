@@ -2,7 +2,7 @@
 
 > **评级 C**　|　西班牙　|　档案编号 `SC-2718`　|　优先级 —　|　状态：用户判定不行
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：西班牙 Mercasat（商业 PoE 好几种外壳、好多家国内的牌子）：欧洲 + 多品牌进口经验 + 对位 ✔ → 闸 2 查底数，低优先；Simon 曾判不行 → 可按编号否决
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：△ 观察档 · 分销 20%：MERCASAT SL（Málaga；CIF B92538883；资本 €3,120；CNAE 4652；22 年）坐实；多牌直进 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔，资本微型 → 入池观察档 + 预付；Simon 曾判不行，可否决
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:Spain、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-2718
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: -35
 country: 西班牙
 region: 欧洲
@@ -39,6 +39,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-28DGGPM（8 口 PoE + 2 SFP L2+）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `mercasat.es` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、alt3.aspmx.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 127 批（ES · 1 次检索：empresite.eleconomista.es（CIF / 形式）+ iberinform（地址 / CNAE / Activa）+ einforma（资本 €3,120；BORME）；2026-10-29，2026-10-29 查；https://www.iberinform.es/empresa/1329911/mercasat）：**
+
+- 法定名 / 登记号：MERCASAT SL（mercasat.es；**empresite / iberinform / einforma：CIF B92538883；Sociedad limitada unipersonal；资本 €3,120；CNAE 4652 电子 / 电信设备批发；Calle La Boheme 22 esq. Sal Marina, Pol. Ind., 29006 Málaga；952 105 737；22 年；BORME 2006 章程修改**）；表内：商业 PoE 好几种外壳、好多家国内牌子；Simon 曾判不行 · B92538883（CIF） · 状态 **营业中（Activa）** · 成立 约 2004（22 年） · S.L. unipersonal
+- 行业码 / 经营范围：卫星 / 电信 / 电子设备批发（马拉加）
+- 注册地址：Calle La Boheme 22, Pol. Ind., 29006 Málaga
+- 规模档：微型（资本 €3,120）
+- 账目：未取；—
+- 高管：（info@mercasat.es 表内总邮箱；具名 KP 未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **多牌进口批发 → 分销 20%：一页纸一次（STC-028GP $28 / STC-228GP $33 + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；资本微型 → 预付；Simon 可否决
+- 备注：分销 20%；P 池候选 △（多牌直进 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔；资本 €3,120 微型 → 观察档 + 预付）；坐实（CIF）；Simon 曾判不行。
 
 ## 基本事实（事实/推断/假设分层）
 
