@@ -1,6 +1,8 @@
 # XC-C0431 · Transition Networks NYC交通 (美国) · 美国
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-44.md`:70 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（闸 1 · G1-auto · 2026-10-29）：终端 / 应用方 / 市场注记（B类 - 交通PoE大项目 B类 - 交通PoE大项目 ）：走集成商与框架采购，不是直接买家；无联系路径 → 留 C 待巡检
 
 ## 1. 初判与理由
 - 初判：**XC** — 终端用户 / 渠道触点（机场、大学、超市、政府、军队…走集成商与框架采购，不是 Saga 的直接买家）

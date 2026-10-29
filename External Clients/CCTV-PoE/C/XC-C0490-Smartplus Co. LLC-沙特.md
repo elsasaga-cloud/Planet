@@ -1,6 +1,8 @@
 # XC-C0490 · Smartplus Co. LLC · 沙特
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-5.md`:311 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：★ 安防分销 20%：Smartplus Co. LLC（Riyadh Al Laban, Al Murabba 12612；Hikvision 官方「Strategic National Distributor for Saudi Arabia」名录在册；多仓 + RMA 中心；产品目录含非管理 / 管理 / L3 / PoE 交换机）官方名录坐实（CR 号未查到 → 补证）；hello@smartplus.com.sa + +966 11 412 9 412；非主区但战略级国家分销体量
 
 ## 1. 初判与理由
 - 初判：**XC** — 终端用户 / 渠道触点（机场、大学、超市、政府、军队…走集成商与框架采购，不是 Saga 的直接买家）

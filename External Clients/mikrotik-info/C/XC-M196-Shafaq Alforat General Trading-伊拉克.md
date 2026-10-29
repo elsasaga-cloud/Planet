@@ -1,6 +1,8 @@
 # XC-M196 · Shafaq Alforat General Trading · 伊拉克
 
 > **初判 XC 暂不管** ｜ 来源 mikrotik-info `C-131`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（闸 1 · G1-auto · 2026-10-29）：巨头 / 大集团 / 大 VAR 守界「大的搞不定」（分销（ORing 授权）  范围外（非欧洲/北美） 来源库（mikrotik-info）已判 C（细分：范围外（非欧洲/北美）；依据：区域外（伊拉克），不在欧洲）→ 留 C 长线不 pass
 
 ## 1. 初判与理由
 - 初判：**XC** — 来源库（mikrotik-info）已判 C（细分：范围外（非欧洲/北美）；依据：区域外（伊拉克），不在欧洲+美加范围内，决策链长或存在品牌冲突）；Simon 口径「mik 的 C 不碰」→ 关仓前仅存档，不跟

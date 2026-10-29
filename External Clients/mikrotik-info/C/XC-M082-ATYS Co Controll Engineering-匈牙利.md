@@ -1,6 +1,8 @@
 # XC-M082 · ATYS Co Controll Engineering · 匈牙利
 
 > **初判 XC 暂不管** ｜ 来源 mikrotik-info `C-017`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：★ 工业自动化分销 20%：ATYS-CO Korlátolt Felelősségű Társaság（Budapest Fertő u. 14；Cégjegyzékszám 01-09-462105；Adószám 12060991-2-42；1997-02-06 登记，前身 1991；净营收 4.5–6.5 bn HUF ≈ €12–16M；A+ 信用）坐实；Westermo Reseller → STI 工业对位；S 箱已群发（已触达）；sales@ + kissa@
 
 ## 1. 初判与理由
 - 初判：**XC** — 来源库（mikrotik-info）已判 C（细分：B下放·无邮箱（群发触达不到）；依据：【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一）；Simon 口径「mik 的 C 不碰」→ 关仓前仅存档，不跟

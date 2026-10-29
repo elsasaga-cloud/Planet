@@ -1,6 +1,8 @@
 # XC-M074 · Pondi d.o.o. · 克罗地亚
 
 > **初判 XC 暂不管** ｜ 来源 mikrotik-info `C-009`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（闸 2 · G2 · 2026-10-29）：坐实但微型：Pondi d.o.o.（Split Ostravska 8；OIB 62781739468；MBS 060121488；2025 营收 €418,353；主业 web hosting，MikroTik 批发为副线 mikrotik-hrvatska.com）→ 体量不够「极精华」，留 C(2) 巡检；回信或下单即转观察档
 
 ## 1. 初判与理由
 - 初判：**XC** — 来源库（mikrotik-info）已判 C（细分：B下放·无邮箱（群发触达不到）；依据：【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一）；Simon 口径「mik 的 C 不碰」→ 关仓前仅存档，不跟

@@ -1,6 +1,8 @@
 # XC-C0607 · Relematic · 墨西哥
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-58-part1.md`:12（其分级 B类） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（闸 1 · G1-auto · 2026-10-29）：PoE 配套设备 / 方案品牌（Allied Telesis/Epcom Titanium PoE交换机, CCTV/门禁/网络/消防/IoT/GPS,）：官网 relematic.mx，无邮箱 —— 捆绑 / 贴牌线索，留 C 待巡检（不是渠道买家）
 
 ## 1. 初判与理由
 - 初判：**XC** — 终端用户 / 渠道触点（机场、大学、超市、政府、军队…走集成商与框架采购，不是 Saga 的直接买家）

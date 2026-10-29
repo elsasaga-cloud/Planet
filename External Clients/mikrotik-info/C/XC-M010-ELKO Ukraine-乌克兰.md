@@ -1,6 +1,8 @@
 # XC-M010 · ELKO Ukraine · 乌克兰
 
 > **初判 XC 暂不管** ｜ 来源 mikrotik-info `B-011`（原评级 B，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（闸 1 · G1-auto · 2026-10-29）：乌克兰 守界：分销（MikroTik 官方）   超大集团 / 决策链太长（Saga 守界：大集团搞不定） —— 不 pass、不主动发，留 C
 
 ## 1. 初判与理由
 - 初判：**XC** — 超大集团 / 决策链太长（Saga 守界：大集团搞不定）

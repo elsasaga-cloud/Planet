@@ -1,6 +1,8 @@
 # XC-C0614 · Infinigate · 德国
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-58-part2.md`:11（其分级 A类） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（闸 1 · G1-auto · 2026-10-29）：巨头 / 大集团 / 大 VAR 守界「大的搞不定」（欧洲多国IT增值分销(VAD), 网络+安全 B类Security VAD  超大集团 / 决策链太长）→ 留 C 长线不 pass
 
 ## 1. 初判与理由
 - 初判：**XC** — 超大集团 / 决策链太长

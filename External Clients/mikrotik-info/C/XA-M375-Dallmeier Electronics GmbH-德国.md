@@ -1,6 +1,8 @@
 # XA-M375 · Dallmeier Electronics GmbH · 德国
 
 > **现判 XC 暂不管** ｜ 来源 mikrotik-info `A-146`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R03 2026-10-27）→ 下一动作 不动
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（闸 1 · G1-auto · 2026-10-29）：同行 / 竞品 / 原厂 / 芯片商（来源库：集成商/代理（Allied Telesis）   主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱（含实名 KP）；研究卡：同行厂商 → C）—— 不是买家，留 C 同行观察（不发）
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱（含实名 KP）

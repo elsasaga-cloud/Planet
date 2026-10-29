@@ -1,6 +1,8 @@
 # XC-C1529 · New Trend Computer Networks LLC (TP-Link Dubai) · 阿联酋
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:21814 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（闸 1 · G1-auto · 2026-10-29）：同行 / 竞品 / 原厂 / 芯片商（来源库：TP-Link网络产品 28年/D-Link Premium  品牌原厂 / 芯片商 / VMS 厂商 / 同行，不是买家）—— 不是买家，留 C 同行观察（不发）
 
 ## 1. 初判与理由
 - 初判：**XC** — 品牌原厂 / 芯片商 / VMS 厂商 / 同行，不是买家

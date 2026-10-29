@@ -1,6 +1,8 @@
 # XC-C0717 · Koç University · 土耳其
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-59-part6-turkey.md`:12 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（闸 1 · G1-auto · 2026-10-29）：终端 / 应用方 / 市场注记（Ruijie校园网络验证案例  ）：走集成商与框架采购，不是直接买家；仅官网 ku.edu.tr → 留 C 待巡检
 
 ## 1. 初判与理由
 - 初判：**XC** — 终端用户 / 渠道触点（机场、大学、超市、政府、军队…走集成商与框架采购，不是 Saga 的直接买家）

@@ -1,6 +1,8 @@
 # XC-M005 · Veaceslav Samburschii / Academia MikroTik · 罗马尼亚
 
 > **初判 XC 暂不管** ｜ 来源 mikrotik-info `A-369`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（闸 1 · G1-auto · 2026-10-29）：同行 / 竞品 / 原厂 / 芯片商（来源库：集成商/顾问（MikroTik 认证）   品牌原厂 / 供应商 / 同行，不是买家）—— 不是买家，留 C 同行观察（不发）
 
 ## 1. 初判与理由
 - 初判：**XC** — 品牌原厂 / 供应商 / 同行，不是买家

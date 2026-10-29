@@ -1,6 +1,8 @@
 # XC-M118 · Eptimo · 波兰
 
 > **初判 XC 暂不管** ｜ 来源 mikrotik-info `C-053`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：★ ISP / 无线渠道分销 20%：EPTIMO Spółka Akcyjna（Warszawa Plac Bankowy 2；KRS 0000640183；NIP 5472148020；REGON 243394597；2016-10-03 登记；股本 802,990 zł；IT 硬件）坐实；MikroTik 官方分销 / VAD → SmartByte 管理型 + STI 对位；具名 KP maciej.wiszniewski@；波兰
 
 ## 1. 初判与理由
 - 初判：**XC** — 来源库（mikrotik-info）已判 C（细分：B下放·无邮箱（群发触达不到）；依据：【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一）；Simon 口径「mik 的 C 不碰」→ 关仓前仅存档，不跟

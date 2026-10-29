@@ -1,6 +1,8 @@
 # XC-C1602 · Morgan Arabia Trading Co. · 沙特
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:24792 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（闸 1 · G1 · 2026-10-29）：Morgan Arabia Trading（沙特 Riyadh + Khobar，IT 设备贸易商；info@ + 2 电话）：贸易商、无具名 KP、非主区 → 留 C 待巡检
 
 ## 1. 初判与理由
 - 初判：**XC** — 终端用户 / 渠道触点（机场、大学、超市、政府、军队…走集成商与框架采购，不是 Saga 的直接买家）

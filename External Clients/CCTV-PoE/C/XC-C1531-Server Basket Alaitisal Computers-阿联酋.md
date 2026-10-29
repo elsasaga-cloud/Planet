@@ -1,6 +1,8 @@
 # XC-C1531 · Server Basket / Alaitisal Computers · 阿联酋
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:22054 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（闸 1 · G1 · 2026-10-29）：Server Basket / Alaitisal Computers（阿联酋，网络交换机在线零售）：网店 / 零售 → 留 C 待巡检
 
 ## 1. 初判与理由
 - 初判：**XC** — 终端用户 / 渠道触点（机场、大学、超市、政府、军队…走集成商与框架采购，不是 Saga 的直接买家）

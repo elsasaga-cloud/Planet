@@ -1,6 +1,8 @@
 # XB-C0583 · ADI - Ultrak Security Systems · 波兰
 
 > **现判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/poland-part1-deep-mining.md`:14 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W3-R06 2026-10-28）→ 下一动作 不动
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（闸 1 · G1-auto · 2026-10-29）：巨头 / 大集团 / 大 VAR 守界「大的搞不定」（大型广线/集团分销，决策链长 → B 慢慢跟进（ADI 全球体系）→ C）→ 留 C 长线不 pass
 
 ## 1. 初判与理由
 - 初判：**XB** — 主攻区渠道型买家，但来源库只给了官网/—，没有邮箱 → 先 XB，补到邮箱再升

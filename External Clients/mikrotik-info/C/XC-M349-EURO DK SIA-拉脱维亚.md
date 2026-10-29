@@ -1,6 +1,8 @@
 # XC-M349 · EURO DK SIA · 拉脱维亚
 
 > **初判 XC 暂不管** ｜ 来源 mikrotik-info `C-284`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：★ ISP / 无线渠道分销 20%：SIA "EURO DK"（Liepāja Satiksmes iela 6；Reģ. Nr. 42103042138；PVN LV42103042138；2007-05-23 成立；2011 年起 MikroTik 官方分销、2013 年起 Ubiquiti 官方分销；发货 150+ 国）坐实；现以 getic.com 品牌运营 —— XC-C0175「Getic（欧洲）」同一公司，随本档；eurodk@ / sales@eurodk.lv
 
 ## 1. 初判与理由
 - 初判：**XC** — 来源库（mikrotik-info）已判 C（细分：其他；依据：【2026-09-29 R58】U14 拉脱维亚（波罗的海三国不主动挖名单，用户 2026-06-24 口径）+官方渠道）；Simon 口径「mik 的 C 不碰」→ 关仓前仅存档，不跟

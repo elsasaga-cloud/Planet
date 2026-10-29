@@ -1,6 +1,8 @@
 # XB-C0626 · NAPCO Security Technologies, Inc · 美国
 
 > **现判 XC 暂不管** ｜ 来源 CCTV-PoE `exhibition/other-exhibitors-batch.md`:306 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W3-R06 2026-10-28）→ 下一动作 不动
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（闸 1 · G1-auto · 2026-10-29）：同行 / 竞品 / 原厂 / 芯片商（来源库：安防设备制造商/分销商 安防设备制造商/分销商  主攻区渠道型买家，但来源库只给了官网/—，没有邮箱 → 先 XB，补到邮箱再升；研究卡：厂商 → C）—— 不是买家，留 C 同行观察（不发）
 
 ## 1. 初判与理由
 - 初判：**XB** — 主攻区渠道型买家，但来源库只给了官网/—，没有邮箱 → 先 XB，补到邮箱再升

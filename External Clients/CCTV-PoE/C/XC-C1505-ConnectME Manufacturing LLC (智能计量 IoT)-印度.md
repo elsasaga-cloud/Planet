@@ -1,6 +1,8 @@
 # XC-C1505 · ConnectME Manufacturing LLC (智能计量/IoT) · 印度
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:21343 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（闸 1 · G1-auto · 2026-10-29）：渠道型主体但路径未建（智能计量/IoT/BMS集成  ；官网 connectme.biz，无邮箱 / 电话 / WA；来源库标 ）→ 留 C 待巡检，补到邮箱再闸 2
 
 ## 1. 初判与理由
 - 初判：**XC** — 终端用户 / 渠道触点（机场、大学、超市、政府、军队…走集成商与框架采购，不是 Saga 的直接买家）

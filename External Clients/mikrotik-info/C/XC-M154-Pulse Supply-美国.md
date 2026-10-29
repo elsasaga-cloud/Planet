@@ -1,6 +1,8 @@
 # XC-M154 · Pulse Supply · 美国
 
 > **初判 XC 暂不管** ｜ 来源 mikrotik-info `C-089`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（闸 1 · G1-auto · 2026-10-29）：渠道型主体但路径未建（分销（PLANET 授权）  B下放·无邮箱（群发触达不到）；官网 pulsesupply.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱）→ 留 C 待巡检，补到邮箱再闸 2
 
 ## 1. 初判与理由
 - 初判：**XC** — Planet 美国渠道（Saga 规则：Versa/Planet USA = C）

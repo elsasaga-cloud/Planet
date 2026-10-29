@@ -1,6 +1,8 @@
 # XB-C0688 · Bilgi Teknolojileri · 土耳其
 
 > **现判 XC 暂不管** ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:195 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W3-R13 2026-10-28）→ 下一动作 并线
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（闸 1 · G1-auto · 2026-10-29）：第 2 步研究卡：来源名仅「Bilgi Teknolojileri」，按 Perpa + PoE 品类判定为 GelecekBT；公司底数第 92 批核实：GelecekBT 与 Telkolink → 随主档，留 C 不单独判
 
 ## 1. 初判与理由
 - 初判：**XB** — 主攻区，类型待核（来源库没写清是渠道还是终端）

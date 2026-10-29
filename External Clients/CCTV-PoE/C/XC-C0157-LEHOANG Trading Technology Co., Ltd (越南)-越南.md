@@ -1,6 +1,8 @@
 # XC-C0157 · LEHOANG Trading Technology Co., Ltd (越南) · 越南
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-2.md`:136（其分级 A类） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（闸 2 · G2 · 2026-10-29）：未坐实：一次检索只见同名（河内 LE HOANG TECHNOLOGY MST 0103242353、平定 / 头顿两家 Lê Hoàng）—— 与 HCMC lehoangcctv.com 主体对不上，不强判 → 留 C(2)，等 Simon 追问 MST 后再入池
 
 ## 1. 初判与理由
 - 初判：**XC** — 终端用户 / 渠道触点（机场、大学、超市、政府、军队…走集成商与框架采购，不是 Saga 的直接买家）

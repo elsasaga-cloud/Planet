@@ -227,7 +227,7 @@ def gate0(recs, mx, saga_sieve):
         # 第 2 步研究卡判「与 X?-?### 同一公司 → 并线」：随主档，不单独判
         card = CARDS.get(code)
         gr = (card or {}).get('grade_reason_final') or ''
-        m = re.search(r'与\s*(X[ABC]-[A-Z]\d{3,4})', gr) if ('并线' in gr or '同一公司' in gr) else None
+        m = re.search(r'(X[ABC]-[A-Z]\d{3,4})', gr) if re.search(r'并线|并入|同一公司|同品牌|跨库重复|库内重复', gr) else None
         if m:
             dups.append((r, repo, {'code': m.group(1), 'grade': 'X', 'via': '研究卡并线'}, {}))
             continue
@@ -329,14 +329,130 @@ def apply_gate0(hits, dups, sieve):
     return added, kept, len(dropped)
 
 
+MAIN_ORDER = ['美国', '加拿大', '英国', '德国', '土耳其', '波兰']
+EU = {'意大利', '西班牙', '法国', '荷兰', '瑞典', '捷克', '比利时', '奥地利', '瑞士', '葡萄牙', '丹麦', '挪威', '芬兰', '爱尔兰', '希腊', '匈牙利', '罗马尼亚', '斯洛伐克', '保加利亚', '立陶宛', '拉脱维亚', '爱沙尼亚', '克罗地亚', '斯洛文尼亚', '塞尔维亚', '卢森堡'}
+
+
+def bucket_x(r):
+    c = r.get('country_zh') or ''
+    if c in MAIN_ORDER:
+        return MAIN_ORDER.index(c)
+    if c in EU:
+        return 6
+    if not c:
+        return 9
+    return 8
+
+
+def queue(n, country=None):
+    CARDS.update(all_cards())
+    sieve = load_sieve()
+    mx = load_mx()
+    D = mx.get('domains', {})
+    todo = [(r, repo) for r, repo in load_xc() if r['code'] not in sieve and (not country or (r.get('country_zh') or '') == country)]
+    todo.sort(key=lambda x: (bucket_x(x[0]), x[0]['code']))
+    print(f'待闸 1 {len(todo)}；本次 {min(n, len(todo))}')
+    for r, repo in todo[:n]:
+        ds = domains_of(r)
+        st = ' '.join(f"{d}:{D.get(d, {}).get('status', '?')}" for d in ds[:3])
+        em = ', '.join((e.get('addr') + ('(停)' if e.get('status') == '停用' else '')) for e in (r.get('emails') or [])[:3])
+        card = CARDS.get(r['code'])
+        cs = (f" | 卡:{card.get('grade_reason_final', '')[:90]} / {card.get('type_final', '')[:40]} / {(card.get('contacts') or {}).get('email', '')}" if card else '')
+        kv = r.get('kv') or {}
+        kvs = ' '.join(f'{k}={str(v)[:50]}' for k, v in kv.items() if k in ('类型', '客户级别', '推荐产品', '卖点', '第一步', '预期首单', '对标竞品', 'WhatsApp', '网站', '主营', '业务', '规模', '定位', '备注', '状态', '联系'))[:260]
+        raw = (r.get('raw') or '').replace('\n', ' / ')[:220]
+        print(f"{r['code']} | {repo} | {r['name'][:48]} | {r.get('country_zh') or '未填'} | {(r.get('type') or '')[:36]} | em:{em} | ph:{len(r.get('phones') or [])} | {st} | 标:{'、'.join((r.get('flags') or [])[:4])} | sub:{r.get('c_sub') or ''} | 由:{(r.get('grade_reason') or '')[:70]}{cs} | kv:{kvs} | raw:{raw}")
+
+
+PEER_RE = re.compile(r'竞品|原厂|芯片|同行|OEM工业交换机|交换机品牌|PoE品牌|网络设备品牌|白牌品牌|品牌原厂|制造商/品牌|Switchdev|开源|固件|VMS', re.I)
+GIANT_RE = re.compile(r'大集团|超大|巨头|全球最大|世界500|Fortune|上市|决策链|大型 (?:IT|DC|MSP|VAR)|大 VAR|大 SI', re.I)
+MIL_RE = re.compile(r'军用|国防|军工|海军|防务|MIL-STD', re.I)
+POE_DEV_RE = re.compile(r'显示器|数字标牌|电脑|PC|照明|灯具|编解码|SDVoE|AVoIP|电源|门禁|对讲|IP电话|VoIP|充电桩|BMS|IoT平台|摄像机|相机', re.I)
+CHANNEL_RE = re.compile(r'分销|批发|经销|代理|集成|安装|VAR|SI\b|MSP|零售|网店|电商|进口|贸易|Distribut|Wholesale|Integrator|Installer|Reseller|Supply|Trading', re.I)
+
+
+def gate1_rule(r, card, mx_D):
+    """XC 闸 1 规则辅助（T29-U119 评估权下放）：返回 (verdict, reason, tags)；None = 交人工（候选审阅）。"""
+    fl = r.get('flags') or []
+    typ_core = ' '.join(str(x) for x in [r.get('type') or '', (r.get('kv') or {}).get('类型', ''), r.get('c_sub') or ''])
+    typ = typ_core + ' ' + (r.get('grade_reason') or '')
+    cg = (card or {}).get('grade_reason_final') or ''
+    ct = (card or {}).get('type_final') or ''
+    name = r.get('name') or ''
+    live = [e for e in (r.get('emails') or []) if e.get('status') != '停用']
+    ds = domains_of(r)
+    st = [mx_D.get(d, {}).get('status') for d in ds if d in mx_D]
+    dead = bool(st) and all(x in DEAD for x in st)
+    has_path = bool(live or r.get('phones'))
+    cty = r.get('country_zh') or '未填'
+    if UA_RE.search(cty):
+        return ('keep_C', f'乌克兰 守界：{typ[:60]} —— 不 pass、不主动发，留 C', [])
+    if MIL_RE.search(typ + ' ' + cg + ' ' + ct + ' ' + name):
+        return ('keep_C', f'军用 / 国防方向 守界（{(cg or typ)[:70]}）→ 留 C 不发', [])
+    if '原厂或同行' in fl or PEER_RE.search(typ) or re.search(r'厂商|同行|竞品|原厂', cg + ' ' + ct):
+        return ('keep_C', f'同行 / 竞品 / 原厂 / 芯片商（来源库：{typ[:70]}{("；研究卡：" + cg[:60]) if cg else ""}）—— 不是买家，留 C 同行观察（不发）', ['peer'])
+    if '大集团' in fl or GIANT_RE.search(typ + ' ' + cg + ' ' + ct):
+        return ('keep_C', f'巨头 / 大集团 / 大 VAR 守界「大的搞不定」（{(cg or typ)[:80]}）→ 留 C 长线不 pass', ['giant'])
+    if cg and re.search(r'并线|并入|重复|同公司|同集团|同一公司|同品牌', cg):
+        return ('keep_C', f'第 2 步研究卡：{cg[:90]} → 随主档，留 C 不单独判', [])
+    if card and card.get('grade_final') == 'C' and cg:
+        return ('keep_C', f'第 2 步研究卡（{card.get("round", "")} {card.get("researched_at", "")}）已逐户判 C：{cg[:100]} → 留 C 储备（有邮箱者随群发节奏，不入池）', [])
+    if '终端触点' in fl:
+        dev = POE_DEV_RE.search(typ_core)
+        if dev and not CHANNEL_RE.search(typ_core):
+            return ('keep_C', f'PoE 配套设备 / 方案品牌（{typ_core[:60]}）：{("官网 " + "、".join(ds[:2])) if ds else "无官网"}，无邮箱 —— 捆绑 / 贴牌线索，留 C 待巡检（不是渠道买家）', ['poe_device'])
+        if not CHANNEL_RE.search(typ_core):
+            return ('keep_C', f'终端 / 应用方 / 市场注记（{typ_core[:60] or name[:40]}）：走集成商与框架采购，不是直接买家；{("仅官网 " + ds[0]) if ds else "无联系路径"} → 留 C 待巡检', [])
+    if not has_path:
+        return ('keep_C', f'渠道型主体但路径未建（{typ_core[:50]}；{("官网 " + "、".join(ds[:2]) + "，") if ds else ""}无邮箱 / 电话 / WA；来源库标 {"、".join(x for x in fl if x in ("无可用邮箱", "缺联系", "来源库已删", "域名待核", "来源C"))}）→ 留 C 待巡检，补到邮箱再闸 2', [])
+    if dead and not has_path:
+        return ('keep_C', f'域名 {"、".join(d + ":" + str(mx_D.get(d, {}).get("status")) for d in ds[:2])} 全死且无邮箱 / 电话（闸 0 刚性②需「退信」记录，此处无）→ 留 C 待巡检', [])
+    return None
+
+
+def gate1(apply):
+    CARDS.update(all_cards())
+    sieve = load_sieve()
+    mx = load_mx()
+    D = mx.get('domains', {})
+    todo = [(r, repo) for r, repo in load_xc() if r['code'] not in sieve]
+    auto, manual = [], []
+    for r, repo in todo:
+        res = gate1_rule(r, CARDS.get(r['code']), D)
+        (auto if res else manual).append((r, repo, res))
+    if apply:
+        for r, repo, (verdict, reason, tags) in auto:
+            row = {'verdict': verdict, 'gate': 1, 'rule': 'G1-auto', 'reason': reason, 'date': TODAY, 'repo': repo, 'origin': 'External', 'batch': 'X1-auto'}
+            if tags:
+                row['tags'] = tags
+            sieve[r['code']] = row
+        cnt = save_sieve(sieve)
+        print('applied', len(auto), dict(cnt))
+    print('待闸 1', len(todo), '规则判', len(auto), '交人工', len(manual))
+    print(collections.Counter(v[0] + ':' + (','.join(v[2]) or '-') for _, _, v in auto))
+    return auto, manual
+
+
 def main():
     ap = argparse.ArgumentParser()
+    ap.add_argument('--gate1', choices=['dry', 'apply'], default=None)
+    ap.add_argument('--queue', type=int, default=0)
+    ap.add_argument('--country', default=None)
     ap.add_argument('--mx', action='store_true')
     ap.add_argument('--only-missing', action='store_true')
     ap.add_argument('--workers', type=int, default=16)
     ap.add_argument('--gate0', action='store_true')
     ap.add_argument('--stats', action='store_true')
     a = ap.parse_args()
+    if a.gate1:
+        auto, manual = gate1(a.gate1 == 'apply')
+        if a.gate1 == 'dry':
+            for r, repo, _ in sorted(manual, key=lambda x: (bucket_x(x[0]), x[0]['code'])):
+                em = ', '.join(e.get('addr') for e in (r.get('emails') or [])[:2])
+                card = CARDS.get(r['code'])
+                print(f"{r['code']} | {repo} | {r['name'][:44]} | {r.get('country_zh') or '未填'} | {(r.get('type') or '')[:40]} | em:{em} | ph:{len(r.get('phones') or [])} | 标:{'、'.join((r.get('flags') or [])[:3])} | 由:{(r.get('grade_reason') or '')[:60]}{(' | 卡:' + card.get('grade_reason_final', '')[:70]) if card else ''} | raw:{(r.get('raw') or '').replace(chr(10), ' / ')[:160]}")
+    if a.queue:
+        queue(a.queue, a.country)
     if a.mx:
         run_mx(a.only_missing, a.workers)
     if a.gate0:

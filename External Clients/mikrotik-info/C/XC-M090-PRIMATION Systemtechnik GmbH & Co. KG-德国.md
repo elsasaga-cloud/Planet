@@ -1,6 +1,8 @@
 # XC-M090 · PRIMATION Systemtechnik GmbH & Co. KG · 德国
 
 > **初判 XC 暂不管** ｜ 来源 mikrotik-info `C-025`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 工业 / IT 分销 20%：Primation Systemtechnik GmbH & Co. KG（Grasbrunn Bretonischer Ring 11；HRA 78735 München；2001-09-13 登记（Kompass 称 1994 创立）；资本 €250,001；USt DE813373627；WZ 4651 IT 设备批发；0–9 人）坐实；HMS / Red Lion / N-Tron 渠道 → STI 对位；具名 KP matthias.henning@；主区 DE；体量微型 → ○
 
 ## 1. 初判与理由
 - 初判：**XC** — 来源库（mikrotik-info）已判 C（细分：B下放·无邮箱（群发触达不到）；依据：【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一）；Simon 口径「mik 的 C 不碰」→ 关仓前仅存档，不跟

@@ -1,6 +1,8 @@
 # XC-E060 · DELTA Computer Products GmbH · 德国
 
 > **初判 XC 暂不管** ｜ 来源 Edgecore `XLSX-渠道伙伴库#112`（原评级 -） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（闸 1 · G1 · 2026-10-29）：DELTA Computer Products GmbH（德国 SI / VAR）：来源库终局已删、仅电话 → 路径未建，留 C 待巡检
 
 ## 1. 初判与理由
 - 初判：**XC** — 来源库 2026-10-19 R16/R17 终局已删（旧 B-007）：HPC/AI 服务器硬件为主，交换机为配套边线；按方案 §7 已删档案不复活，仅存档备查

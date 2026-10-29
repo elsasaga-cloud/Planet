@@ -1,6 +1,8 @@
 # XB-C0300 · AVENIR (Aselsan) · 土耳其
 
 > **现判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-4.md`:216（其分级 A类） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W3-R06 2026-10-28）→ 下一动作 不动
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（闸 1 · G1-auto · 2026-10-29）：军用 / 国防方向 守界（厂商/国防体系，不是采购方 → C）→ 留 C 不发
 
 ## 1. 初判与理由
 - 初判：**XB** — 主攻区渠道型买家，但来源库只给了官网/—，没有邮箱 → 先 XB，补到邮箱再升

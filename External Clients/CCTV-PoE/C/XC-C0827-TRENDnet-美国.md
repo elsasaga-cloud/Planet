@@ -1,6 +1,8 @@
 # XC-C0827 · TRENDnet · 美国
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-60-part4-uk.md`:12 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（闸 1 · G1-auto · 2026-10-29）：同行 / 竞品 / 原厂 / 芯片商（来源库：B类 — 美国网络设备品牌，NDAA/TAA合规 B类 — 美国网络设备品牌，NDAA/TAA合规  终端用户 / 渠道触点（机场、大学、超）—— 不是买家，留 C 同行观察（不发）
 
 ## 1. 初判与理由
 - 初判：**XC** — 终端用户 / 渠道触点（机场、大学、超市、政府、军队…走集成商与框架采购，不是 Saga 的直接买家）

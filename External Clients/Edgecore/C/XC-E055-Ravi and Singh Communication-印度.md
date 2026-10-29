@@ -1,6 +1,8 @@
 # XC-E055 · Ravi and Singh Communication · 印度
 
 > **初判 XC 暂不管** ｜ 来源 Edgecore `XLSX-渠道伙伴库#79`（原评级 -） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（闸 1 · G1 · 2026-10-29）：Ravi and Singh Communication（印度 SI / VAR）：非主区 + 仅电话 → 留 C
 
 ## 1. 初判与理由
 - 初判：**XC** — 来源库 2026-10-19 R16/R17 终局已删（旧 A-062）：登记 LLP 已除名、签约主体混乱；按方案 §7 已删档案不复活，仅存档备查

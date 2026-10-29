@@ -1,6 +1,8 @@
 # XC-C0175 · Getic（欧洲） · 德国
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-22.md`:27 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（随 Saga `XC-M349`）（闸 2 · DUP · 2026-10-29）：与 XC-M349 同一公司（SIA "EURO DK"（LSEZ；现以 Getic 品牌运营））→ 随主档，不单独判
 
 ## 1. 初判与理由
 - 初判：**XC** — 终端用户 / 渠道触点（机场、大学、超市、政府、军队…走集成商与框架采购，不是 Saga 的直接买家）

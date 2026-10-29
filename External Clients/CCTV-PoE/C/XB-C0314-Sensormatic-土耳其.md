@@ -1,6 +1,8 @@
 # XB-C0314 · Sensormatic · 土耳其
 
 > **现判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-4.md`:433 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W3-R06 2026-10-28）→ 下一动作 不动
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（闸 1 · G1-auto · 2026-10-29）：第 2 步研究卡（W3-R06 2026-10-28）已逐户判 C：非采购渠道 → C → 留 C 储备（有邮箱者随群发节奏，不入池）
 
 ## 1. 初判与理由
 - 初判：**XB** — 主攻区，类型待核（来源库没写清是渠道还是终端）

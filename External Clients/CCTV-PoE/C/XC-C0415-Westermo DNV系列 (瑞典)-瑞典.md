@@ -1,6 +1,8 @@
 # XC-C0415 · Westermo DNV系列 (瑞典) · 瑞典
 
 > **初判 XC 暂不管** ｜ 来源 CCTV-PoE `profile/new-customers-batch-43.md`:63 ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（闸 1 · G1-auto · 2026-10-29）：同行 / 竞品 / 原厂 / 芯片商（来源库：B类 - DNV海事+海上 B类 - DNV海事+海上  品牌原厂 / 芯片商 / VMS 厂商 / 同行，不是买家）—— 不是买家，留 C 同行观察（不发）
 
 ## 1. 初判与理由
 - 初判：**XC** — 品牌原厂 / 芯片商 / VMS 厂商 / 同行，不是买家

@@ -1,6 +1,8 @@
 # XC-E057 · ASBIS Poland Sp.z o.o · 波兰
 
 > **初判 XC 暂不管** ｜ 来源 Edgecore `XLSX-渠道伙伴库#94`（原评级 -） ｜ 导入 2026-10-27 ｜ 研究状态：未研究（第 2 步待做）
+>
+> **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：留 XC 储备**（闸 1 · G1-auto · 2026-10-29）：巨头 / 大集团 / 大 VAR 守界「大的搞不定」（分销商   超大集团 / 决策链太长（Saga 守界：大集团搞不定））→ 留 C 长线不 pass
 
 ## 1. 初判与理由
 - 初判：**XC** — 超大集团 / 决策链太长（Saga 守界：大集团搞不定）
