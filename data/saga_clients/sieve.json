@@ -3,10 +3,10 @@
   "updated": "2026-10-29",
   "rules": "docs/C池三闸筛选_方案_2026-10-29.md §2",
   "counts": {
-   "keep_C": 1820,
+   "keep_C": 1833,
    "pass_final": 202,
-   "pool_candidate": 101,
-   "candidate": 75
+   "pool_candidate": 121,
+   "candidate": 42
   },
   "n": 2198
  },
@@ -1142,13 +1142,15 @@
   ]
  },
  "SC-1020": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "哈萨克斯坦 Moon.kz（moon.kz；ONV 很多产品）：进口中国同类 ✔ 对位 ✔ 俄语区先例（NAG KZ）；群发 18 次 0 回 → 闸 2 查底数（statsnet）；收款待定，低优先",
+  "verdict": "keep_C",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "闸 2 回 C：Moon.kz 1 查仅同名他户（topcam.kz 个体 / Monitoring Systems KZ / MOONSTAR.KZ）→ 未坐实 → 回 C 储备",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-19"
+  "batch": "G2-129",
+  "g1_batch": "G1-19",
+  "g1_reason": "哈萨克斯坦 Moon.kz（moon.kz；ONV 很多产品）：进口中国同类 ✔ 对位 ✔ 俄语区先例（NAG KZ）；群发 18 次 0 回 → 闸 2 查底数（statsnet）；收款待定，低优先"
  },
  "SC-1021": {
   "verdict": "keep_C",
@@ -3611,13 +3613,15 @@
   ]
  },
  "SC-1251": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "俄罗斯 Bolid（bolid.ru；俄产安防大厂自有品牌，表内「从 Elink 买 MC」）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔ Simon 点名俄罗斯；群发 17 次 0 回 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 自有品牌大厂 · OEM 30%（长线）：АО НВП «БОЛИД»（Королёв；ИНН 5018000402 / ОГРН 1035003350766；1996；GD Бабанов И. А.；俄安防 / 消防自动化制造龙头）坐实；已进口 Elink MC ✔ 对位 ✔ 坐实 ✔ → P 池候选（找采购部；17 推 0 回 → 换稿）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-21",
+  "batch": "G2-129",
+  "g1_batch": "G1-21",
+  "g1_reason": "俄罗斯 Bolid（bolid.ru；俄产安防大厂自有品牌，表内「从 Elink 买 MC」）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔ Simon 点名俄罗斯；群发 17 次 0 回 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
   "tags": [
    "oem_target"
   ]
@@ -3878,13 +3882,15 @@
   "batch": "G1-05"
  },
  "SC-1280": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "俄罗斯 PLC Systems（plcsystems.ru；工业 FS，Korenix 的分销商；lantan.pro 域 nxdomain）：进口台湾同类 ✔ 对位 ✔ 分销主体 Simon 点名俄罗斯；群发 18 次 0 回 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 工业分销 20%：ООО «ПЛКСистемы»（Москва；ИНН 7708160477 / ОГРН 1027739102379；GD Прейс М. В.；Korenix + PLC / SCADA 分销）坐实；已进口台湾 Korenix ✔ 对位 ✔ 坐实 ✔ 分销主体 ✔ → P 池候选（18 推 0 回 → 换稿）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-22"
+  "batch": "G2-129",
+  "g1_batch": "G1-22",
+  "g1_reason": "俄罗斯 PLC Systems（plcsystems.ru；工业 FS，Korenix 的分销商；lantan.pro 域 nxdomain）：进口台湾同类 ✔ 对位 ✔ 分销主体 Simon 点名俄罗斯；群发 18 次 0 回 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先"
  },
  "SC-1281": {
   "verdict": "keep_C",
@@ -5964,13 +5970,15 @@
   "batch": "G1-05"
  },
  "SC-1492": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "俄罗斯 DSSL（dssl.ru；TRASSIR 自有品牌安防大厂，表内「很多朱姐客户的型号，很多牌子的」）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔ Simon 点名俄罗斯；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 自有品牌大厂 · OEM 30%（长线）：ООО «ДССЛ» / TRASSIR（Москва；ИНН 7709423841 / ОГРН 1037709044460；2003；GD Олейник И. В.；自产 + 19 物流中心 + 40 国）坐实；多牌进口中国 ✔ 对位 ✔ 坐实 ✔ → P 池候选（找硬件采购）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-24",
+  "batch": "G2-129",
+  "g1_batch": "G1-24",
+  "g1_reason": "俄罗斯 DSSL（dssl.ru；TRASSIR 自有品牌安防大厂，表内「很多朱姐客户的型号，很多牌子的」）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔ Simon 点名俄罗斯；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
   "tags": [
    "oem_target"
   ]
@@ -6185,13 +6193,15 @@
   ]
  },
  "SC-1513": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "Manggis（manggis.kz；表内国别「俄罗斯」、.kz 域 → 疑哈萨克，待核；主要是 ONV 和海康威视的产品）：进口中国同类 ✔ 对位 ✔ 哈萨克有先例；未触达 → 闸 2 查底数（statsnet / adata）并核国别；俄语区收款待定，低优先",
+  "verdict": "keep_C",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "闸 2 回 C：ТОО «Manggis»（Алматы, пр. Гагарина 236Б；БИН 110940009256）坐实但为 CCTV 网店 + 安装商 → 回 C 储备（哈萨克有 NAG 更强主体）；国别纠偏 俄罗斯 → 哈萨克斯坦 待 Simon",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-25"
+  "batch": "G2-129",
+  "g1_batch": "G1-25",
+  "g1_reason": "Manggis（manggis.kz；表内国别「俄罗斯」、.kz 域 → 疑哈萨克，待核；主要是 ONV 和海康威视的产品）：进口中国同类 ✔ 对位 ✔ 哈萨克有先例；未触达 → 闸 2 查底数（statsnet / adata）并核国别；俄语区收款待定，低优先"
  },
  "SC-1514": {
   "verdict": "keep_C",
@@ -6335,13 +6345,15 @@
   "batch": "G1-25"
  },
  "SC-1527": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "俄罗斯 PLController（plcontroller.ru；「基本就是朱姐客户的牌子」= 中国工业交换机多牌进口分销）：进口中国同类 ✔ 对位 ✔ Simon 点名俄罗斯；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
+  "verdict": "keep_C",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "闸 2 回 C（微型）：ООО «ПЛКОНТРОЛЛЕР»（Омск；ИНН 5505062590；2019；在册 1 人；住宅地址）坐实但一人公司 → 回 C 储备（来信再起则预付 100%）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-25"
+  "batch": "G2-129",
+  "g1_batch": "G1-25",
+  "g1_reason": "俄罗斯 PLController（plcontroller.ru；「基本就是朱姐客户的牌子」= 中国工业交换机多牌进口分销）：进口中国同类 ✔ 对位 ✔ Simon 点名俄罗斯；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先"
  },
  "SC-1528": {
   "verdict": "keep_C",
@@ -13154,13 +13166,15 @@
   ]
  },
  "SC-283": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "俄罗斯 Comonyx / CCTV Onyx（comonyx.com / cctvonyx.ru；自有 Onyx CCTV 品牌 + 「有 ONV 的 PoE 配件」= 自有品牌 + 进口中国 PoE）：Simon 点名俄罗斯 + 自有品牌 + 对位 ✔，群发 20 次 0 回 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 自有品牌 · OEM 30%：ООО «ОНИКС Системы Безопасности» / ComOnyx（Москва；ИНН 9715421349 / ОГРН 1227700346796；GD Азовцев П. К.；品牌 1993 起安防制造商）坐实；自有品牌 ✔ 进口中国 PoE ✔ 对位 ✔ 坐实 ✔ → P 池候选（预付 100%，收款路径待 Simon）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-12",
+  "batch": "G2-129",
+  "g1_batch": "G1-12",
+  "g1_reason": "俄罗斯 Comonyx / CCTV Onyx（comonyx.com / cctvonyx.ru；自有 Onyx CCTV 品牌 + 「有 ONV 的 PoE 配件」= 自有品牌 + 进口中国 PoE）：Simon 点名俄罗斯 + 自有品牌 + 对位 ✔，群发 20 次 0 回 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
   "tags": [
    "oem_target"
   ]
@@ -13808,13 +13822,15 @@
   ]
  },
  "SC-295": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "乌兹别克斯坦 Inline（inline.uz；表内「工业 FS / SFP / 光猫，好几个牌子，有公司的 2 光 8、nufiber 的」= 在售与公司同口型工业机）：进口中国同类 ✔ 对位 ✔ + 同区先例 SETKO 成单，群发 19 次 0 回 → 闸 2 查底数；低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 集成 25%：OOO «Inline System»（Ташкент, ул. Нукус 89；2011 起；СКС / ВОЛС / 安防 / IP 电话全线集成商；office@inline.uz）部分坐实（ИНН 未取）；在售同口型 2 光 8 ✔ 对位 ✔ 同区 SETKO 成单先例 ✔ → P 池候选（19 推 0 回 → 换稿；预付 100%）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-12"
+  "batch": "G2-129",
+  "g1_batch": "G1-12",
+  "g1_reason": "乌兹别克斯坦 Inline（inline.uz；表内「工业 FS / SFP / 光猫，好几个牌子，有公司的 2 光 8、nufiber 的」= 在售与公司同口型工业机）：进口中国同类 ✔ 对位 ✔ + 同区先例 SETKO 成单，群发 19 次 0 回 → 闸 2 查底数；低优先"
  },
  "SC-2950": {
   "verdict": "keep_C",
@@ -14010,16 +14026,18 @@
   "batch": "G1-04"
  },
  "SC-299": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "哈萨克斯坦 NAG（nag.kz；NAG / SNR 集团自有品牌，表内「从国内买 CWDM 模块 / Switch / SFP / MC 等」= 自有品牌 + 从中国直采）：自有品牌 ✔ 进口中国同类 ✔ 对位 ✔，群发 16 次 0 回 → 闸 2 查底数；俄语区收款待定，低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 自有品牌 SNR · OEM 30%：ТОО «NAG KAZAKHSTAN»（Алматы, пр. Жибек Жолы 135；БИН 191040001403；2019；Евразийский банк USD / EUR 账户，代理行 Raiffeisen Vienna；NAG / SNR 集团哈萨克子公司）坐实；自有品牌 ✔ 中国直采 ✔ 对位 ✔ 坐实 ✔ → P 池候选（外币账户 = 俄语区收款路径线索，供 Simon 参考）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-12",
+  "batch": "G2-129",
+  "g1_batch": "G1-12",
+  "g1_reason": "哈萨克斯坦 NAG（nag.kz；NAG / SNR 集团自有品牌，表内「从国内买 CWDM 模块 / Switch / SFP / MC 等」= 自有品牌 + 从中国直采）：自有品牌 ✔ 进口中国同类 ✔ 对位 ✔，群发 16 次 0 回 → 闸 2 查底数；俄语区收款待定，低优先",
   "tags": [
-   "oem_target",
-   "dayjob_fit"
+   "dayjob_fit",
+   "oem_target"
   ]
  },
  "SC-2993": {
@@ -14089,13 +14107,15 @@
   "date": "2026-10-29"
  },
  "SC-302": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "俄罗斯 OSNOVO（osnovo.ru；俄区自有品牌 PoE 交换机 / MC / 工业 FS，中国代工）：自有品牌 ✔ 对位 ✔ Simon 点名俄罗斯；群发 18 次 0 回 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "△ 观察档 · OEM 30% + 预付 100%：OSNOVO 俄区自有品牌 PoE / 工业交换机（品牌站 + 官方经销商 osnovo-shop.ru 在线；品牌运营法人 1 查未取）部分坐实；自有品牌 ✔ 对位 ✔ 中国代工 ✔ → 入池观察档（法人补查后升 ★）；可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-13",
+  "batch": "G2-129",
+  "g1_batch": "G1-13",
+  "g1_reason": "俄罗斯 OSNOVO（osnovo.ru；俄区自有品牌 PoE 交换机 / MC / 工业 FS，中国代工）：自有品牌 ✔ 对位 ✔ Simon 点名俄罗斯；群发 18 次 0 回 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
   "tags": [
    "oem_target"
   ]
@@ -14214,13 +14234,15 @@
   "batch": "G1-08"
  },
  "SC-305": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "俄罗斯 ProSoft（prosoft.ru；大型工业自动化分销，表内「三旺 · 迈威 · BDCOM」）：进口中国工业同类 ✔ 对位 ✔ 俄罗斯；群发 8 次 0 回 → 闸 2 查底数；俄语区收款待定，低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 中型工业分销 20%：ООО «ПРОСОФТ»（Москва；ИНН 7724020910 / ОГРН 1037739267488；1994；40 人在册；GD Минеев Е. М.）坐实；已进口三旺 / 迈威 / BDCOM ✔ 对位 ✔ 坐实 ✔ → P 池候选（找工业网络产品经理；8 推 0 回 → 换稿）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-13"
+  "batch": "G2-129",
+  "g1_batch": "G1-13",
+  "g1_reason": "俄罗斯 ProSoft（prosoft.ru；大型工业自动化分销，表内「三旺 · 迈威 · BDCOM」）：进口中国工业同类 ✔ 对位 ✔ 俄罗斯；群发 8 次 0 回 → 闸 2 查底数；俄语区收款待定，低优先"
  },
  "SC-3051": {
   "verdict": "keep_C",
@@ -14436,13 +14458,15 @@
   ]
  },
  "SC-309": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "俄罗斯 TD Tel（tdtel.ru；表内「卖朱姐牌子设备 PoE / MC / switch / 周边」= 在售中国同口型产品）：进口中国同类 ✔ 对位 ✔ 俄罗斯；群发 18 次 0 回 → 闸 2 查底数；俄语区收款待定，低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "△ 观察档 · 分销 20% + 预付 100%：ООО «ТД ТЕЛЕКОР»（Москва；ИНН 9729079661 / ОГРН 1177746446778；2017；GD Трошин М. В.；trostyanskiy@tdtel.ru 在册）坐实但仲裁 33 + 执行程序 4 = 红旗；在售中国同口型 ✔ 对位 ✔ → 入池观察档；可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-13"
+  "batch": "G2-129",
+  "g1_batch": "G1-13",
+  "g1_reason": "俄罗斯 TD Tel（tdtel.ru；表内「卖朱姐牌子设备 PoE / MC / switch / 周边」= 在售中国同口型产品）：进口中国同类 ✔ 对位 ✔ 俄罗斯；群发 18 次 0 回 → 闸 2 查底数；俄语区收款待定，低优先"
  },
  "SC-3092": {
   "verdict": "keep_C",
@@ -14496,13 +14520,15 @@
   "batch": "G1-04"
  },
  "SC-311": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "俄罗斯 Videoglaz（videoglaz.ru；CCTV 为主 + hasivo 商业 PoE）：进口中国同类 ✔ 对位 ✔ 俄罗斯；群发 17 次 0 回 → 闸 2 查底数；俄语区收款待定，低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 连锁分销 20%：ООО «ВИДЕОГЛАЗ ЦЕНТР»（Москва；ИНН 7719840097 / ОГРН 1137746240279；品牌 2002；B2B 门户 + 加盟）坐实；已进口 hasivo PoE ✔ 对位 ✔ 坐实 ✔ 连锁体量 ✔ → P 池候选（17 推 0 回 → 点名 B2B 采购换稿）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-13"
+  "batch": "G2-129",
+  "g1_batch": "G1-13",
+  "g1_reason": "俄罗斯 Videoglaz（videoglaz.ru；CCTV 为主 + hasivo 商业 PoE）：进口中国同类 ✔ 对位 ✔ 俄罗斯；群发 17 次 0 回 → 闸 2 查底数；俄语区收款待定，低优先"
  },
  "SC-3119": {
   "verdict": "pass_final",
@@ -15002,13 +15028,15 @@
   ]
  },
  "SC-323": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "俄罗斯 CompTek（comptek.ru；大型网络分销，表内「有 DCN 的，switch 等很多产品」）：进口中国同类 ✔ 对位 ✔ 俄罗斯；未触达 → 闸 2 查底数；俄语区收款待定，低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 大分销 20%（长线）：ООО «КОМПТЕК»（Москва；ИНН 5003082667 / ОГРН 1085003004877；2008；2021 利润 628 млн ₽；GD Залётов А. Н.）坐实；已进口 DCN ✔ 对位 ✔ 坐实 ✔ → P 池候选（找网络线产品经理）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-13"
+  "batch": "G2-129",
+  "g1_batch": "G1-13",
+  "g1_reason": "俄罗斯 CompTek（comptek.ru；大型网络分销，表内「有 DCN 的，switch 等很多产品」）：进口中国同类 ✔ 对位 ✔ 俄罗斯；未触达 → 闸 2 查底数；俄语区收款待定，低优先"
  },
  "SC-3233": {
   "verdict": "pass_final",
@@ -18610,13 +18638,15 @@
   "batch": "G1-16"
  },
  "SC-623": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "俄罗斯 Industrial Nets（industrialnets.ru / i-nets.ru；工业 FS 带串口，表内「和深圳 Comark 合作，还有 N-Net」）：进口中国同类 ✔ 对位 ✔ Simon 点名俄罗斯；群发 17 次 0 回 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
+  "verdict": "keep_C",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "闸 2 回 C：Industrial Nets（industrialnets.ru）1 查仅同名「Инженерные сети» 他户 → 未坐实；进口中国同类 ✔ 但法人未取 → 回 C 储备（来信再起则补查 + 预付 100%）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-16"
+  "batch": "G2-129",
+  "g1_batch": "G1-16",
+  "g1_reason": "俄罗斯 Industrial Nets（industrialnets.ru / i-nets.ru；工业 FS 带串口，表内「和深圳 Comark 合作，还有 N-Net」）：进口中国同类 ✔ 对位 ✔ Simon 点名俄罗斯；群发 17 次 0 回 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先"
  },
  "SC-624": {
   "verdict": "keep_C",
@@ -18628,13 +18658,15 @@
   "batch": "G1-09"
  },
  "SC-625": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "俄罗斯 Ipmatika（ipmatika.ru / ipmatika.com；表内「用了 Wi-Tek 和 TG-NET 的工业 FS，工商业 FS 基本是 Wi-Tek 的」）：进口中国同类 ✔ 对位 ✔ 俄罗斯分销；群发 17 次 0 回 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 中型分销 20%：ООО «АЙПИМАТИКА»（Красногорск；ИНН 7733678135 / ОГРН 5087746581621；2008；2025 利润 82.9 млн ₽；GD Усов М. Е.；经销合同在 Федресурс；.kz 分部）坐实；已进口 Wi-Tek / TG-NET ✔ 对位 ✔ 坐实 ✔ → P 池候选（17 推 0 回 → 换稿；哈萨克分部 = 备选收款路径）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-16"
+  "batch": "G2-129",
+  "g1_batch": "G1-16",
+  "g1_reason": "俄罗斯 Ipmatika（ipmatika.ru / ipmatika.com；表内「用了 Wi-Tek 和 TG-NET 的工业 FS，工商业 FS 基本是 Wi-Tek 的」）：进口中国同类 ✔ 对位 ✔ 俄罗斯分销；群发 17 次 0 回 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先"
  },
  "SC-627": {
   "verdict": "keep_C",
@@ -19045,13 +19077,15 @@
   "batch": "G1-16"
  },
  "SC-670": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "俄罗斯 Lansale LLC（lansale.ru；国际站询盘「150 pcs 千兆 1 光 2 PoE」= 数量信号）：数量 ✔ 对位 ✔（小口工业 / 商用 PoE，STI-154GP 近口型）Simon 点名俄罗斯；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 集成 25% + 预付 100%：ООО «ЛАНСЭЙЛ»（Москва；ИНН 9723019747 / ОГРН 1177746269634；2017；负责人 Петров П. В. = pvp@lansale.ru 决策人直达）坐实；150 台 1 光 2 PoE 询盘 ✔ 对位 ✔ 坐实 ✔ → P 池候选（点名 Павел 报阶梯价）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-16"
+  "batch": "G2-129",
+  "g1_batch": "G1-16",
+  "g1_reason": "俄罗斯 Lansale LLC（lansale.ru；国际站询盘「150 pcs 千兆 1 光 2 PoE」= 数量信号）：数量 ✔ 对位 ✔（小口工业 / 商用 PoE，STI-154GP 近口型）Simon 点名俄罗斯；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先"
  },
  "SC-671": {
   "verdict": "pool_candidate",
@@ -19311,13 +19345,15 @@
   "batch": "G1-17"
  },
  "SC-702": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "俄罗斯 Angtel（angtel.ru；工业 FS 有自己的系列编号、有人在卖他们的 = 自有品牌）：自有品牌 = OEM 对象 ✔ 对位 ✔ Simon 点名俄罗斯；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
+  "verdict": "keep_C",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "闸 2 回 C（守界）：АО «АНГСТРЕМ-ТЕЛЕКОМ»（Зеленоград；ИНН 7735102121；24 人；自有 Корунд / Топаз 系列）坐实但持 ГОСТ РВ 0015-002 军品体系证书 + Ангстрем 系制裁风险 → 军工不碰（INH）→ 回 C",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-17",
+  "batch": "G2-129",
+  "g1_batch": "G1-17",
+  "g1_reason": "俄罗斯 Angtel（angtel.ru；工业 FS 有自己的系列编号、有人在卖他们的 = 自有品牌）：自有品牌 = OEM 对象 ✔ 对位 ✔ Simon 点名俄罗斯；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
   "tags": [
    "oem_target"
   ]
@@ -19370,13 +19406,15 @@
   "batch": "G1-17"
  },
  "SC-708": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "俄罗斯 ARMO Systems（armosystems.ru / armo.ru；大型安防分销，表内「用的 Utepo 的，工业 FS / SFP / PoE 配件」）：进口中国同类 ✔ 对位 ✔ 分销主体；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 大分销 20%（长线）：ООО «АРМО-Системы»（Москва；ИНН 7715284716 / ОГРН 1027739174352；2001；股本 10 млн ₽；2025 营收 3.2 млрд ₽；GD Кобытев А. В.）坐实；已进口 Utepo ✔ 对位 ✔ 坐实 ✔ → P 池候选（找产品经理）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-17"
+  "batch": "G2-129",
+  "g1_batch": "G1-17",
+  "g1_reason": "俄罗斯 ARMO Systems（armosystems.ru / armo.ru；大型安防分销，表内「用的 Utepo 的，工业 FS / SFP / PoE 配件」）：进口中国同类 ✔ 对位 ✔ 分销主体；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先"
  },
  "SC-709": {
   "verdict": "keep_C",
@@ -19418,13 +19456,18 @@
   "batch": "G1-17"
  },
  "SC-714": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "白俄罗斯 Avant（avant.by；表内国别俄罗斯，域 .by；工商业 FS 好几家牌子，有宇航等国内的）：进口中国同类 ✔ 对位 ✔ 俄语区先例；未触达 → 闸 2 查底数 + 国别核（RU → BY 待证据）；RU + BY 收款待定，低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 自有 iFLOW 牌 + 多牌分销 · OEM 30% / 分销 20%：ООО «Торговый дом «АВАНТ-ТЕХНО»（Минск, ул. Короля 45；avant.by + utepo.by 同主体；BYN 计价；Hikvision / Utepo / 自有 iFLOW 工业 PoE）部分坐实（УНП 未取）；国别纠偏 俄罗斯 → 白俄罗斯 待 Simon；自有牌 ✔ 已进口中国同类 ✔ 对位 ✔ → P 池候选（预付 100%，白俄收款路径待 Simon）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-17"
+  "batch": "G2-129",
+  "g1_batch": "G1-17",
+  "g1_reason": "白俄罗斯 Avant（avant.by；表内国别俄罗斯，域 .by；工商业 FS 好几家牌子，有宇航等国内的）：进口中国同类 ✔ 对位 ✔ 俄语区先例；未触达 → 闸 2 查底数 + 国别核（RU → BY 待证据）；RU + BY 收款待定，低优先",
+  "tags": [
+   "oem_target"
+  ]
  },
  "SC-715": {
   "verdict": "keep_C",
@@ -19505,13 +19548,15 @@
   ]
  },
  "SC-722": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "俄罗斯 BIC Video（bic-video.ru；工业 FS / SFP / MC 朱姐客户的 + HDMI / SDI / AHD，很多牌子「可以查一下」）：进口中国同类 ✔ 对位 ✔；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 分销 20%：ООО «БИК-ВИДЕО»（СПб + Москва；ИНН 7826154575 / ОГРН 1027810264932；2002；22 人；Директор Залогин К. А.）坐实；多牌在售中国同口型 ✔ 对位 ✔ 坐实 ✔ → P 池候选（SDI / HDMI 走本职线）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-17",
+  "batch": "G2-129",
+  "g1_batch": "G1-17",
+  "g1_reason": "俄罗斯 BIC Video（bic-video.ru；工业 FS / SFP / MC 朱姐客户的 + HDMI / SDI / AHD，很多牌子「可以查一下」）：进口中国同类 ✔ 对位 ✔；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
   "tags": [
    "dayjob_fit"
   ]
@@ -19574,13 +19619,15 @@
   "batch": "G1-09"
  },
  "SC-729": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "俄罗斯 Brown Bear（brownbear.ru；工业 FS / MC Planet 的）：进口台湾同类 ✔ 对位 ✔ Simon 点名俄罗斯；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
+  "verdict": "keep_C",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "闸 2 回 C：Brown Bear（brownbear.ru）1 查仅同名 ООО «Браун» 他户 → 未坐实；Planet 渠道 ✔ 但法人未取 → 回 C 储备",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-17"
+  "batch": "G2-129",
+  "g1_batch": "G1-17",
+  "g1_reason": "俄罗斯 Brown Bear（brownbear.ru；工业 FS / MC Planet 的）：进口台湾同类 ✔ 对位 ✔ Simon 点名俄罗斯；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先"
  },
  "SC-730": {
   "verdict": "keep_C",
@@ -20080,13 +20127,15 @@
   "batch": "G1-17"
  },
  "SC-782": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "俄罗斯 Exara（exara.ru；在找 switch / WDM / MPLS / PTN，会中文、常驻杭州，Simon 邮件当天发了目录册让老板审核；+86 手机在表）：真互动 ✔ 对位 ✔（switch 线）+ 本职线（WDM / PTN）；→ 闸 2 查底数（rusprofile）+ 微信 / 电话跟进；俄语区收款待定",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★★ 制造商 · 真互动 · OEM 30%：ООО «ГК ЭКСАРА»（Москва；ИНН 9725000981 / ОГРН 5187746026331；2018；ОКВЭД 26.30 通信设备制造；营收 1.8 млрд ₽；GD Андросенко Т. В.）坐实；目录册已发、杭州中文联系人 +86 在表 ✔ 对位 ✔ 坐实 ✔ 体量 ✔ → P 池候选首选（微信 / 中文直跟；WDM / PTN 走本职线）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-17",
+  "batch": "G2-129",
+  "g1_batch": "G1-17",
+  "g1_reason": "俄罗斯 Exara（exara.ru；在找 switch / WDM / MPLS / PTN，会中文、常驻杭州，Simon 邮件当天发了目录册让老板审核；+86 手机在表）：真互动 ✔ 对位 ✔（switch 线）+ 本职线（WDM / PTN）；→ 闸 2 查底数（rusprofile）+ 微信 / 电话跟进；俄语区收款待定",
   "tags": [
    "dayjob_fit"
   ]
@@ -20420,13 +20469,15 @@
   "batch": "G1-18"
  },
  "SC-817": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "俄罗斯 EFO / Infiber（infiber.ru 域 no_mx，efo.ru 正常；MC / FS / 光猫，表内「很多中国合作商」）：进口中国同类 ✔ 对位 ✔ 大电子分销主体；未触达 → 闸 2 查底数（rusprofile）+ 换 efo.ru 地址；俄语区收款待定，低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 老牌进口分销 20%（长线）：ООО «ЭФО»（СПб；ИНН 7804050438 / ОГРН 1027802501000；1995；多家原厂独家代表；GD Федоров В. В.）坐实；很多中国合作商 ✔ 对位 ✔ 坐实 ✔ → P 池候选（infiber.ru 无 MX → 换 efo.ru 地址再发）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-18"
+  "batch": "G2-129",
+  "g1_batch": "G1-18",
+  "g1_reason": "俄罗斯 EFO / Infiber（infiber.ru 域 no_mx，efo.ru 正常；MC / FS / 光猫，表内「很多中国合作商」）：进口中国同类 ✔ 对位 ✔ 大电子分销主体；未触达 → 闸 2 查底数（rusprofile）+ 换 efo.ru 地址；俄语区收款待定，低优先"
  },
  "SC-818": {
   "verdict": "keep_C",
@@ -20813,22 +20864,26 @@
   ]
  },
  "SC-859": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "俄罗斯 Mirtelcom（mirtelcom.ru；丰润达的工业 PoE）：进口中国同类 ✔ 对位 ✔ Simon 点名俄罗斯；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
+  "verdict": "keep_C",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "闸 2 回 C（守界 + 未坐实）：mirtelcom.ru 1 查命中 ООО «МИРТЕЛЕКОМ» Симферополь（Миранда-Медиа 子公司 = 克里米亚制裁风险）+ Краснодар 同名运营商，域名归属未证 → 不主动碰 → 回 C",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-18"
+  "batch": "G2-129",
+  "g1_batch": "G1-18",
+  "g1_reason": "俄罗斯 Mirtelcom（mirtelcom.ru；丰润达的工业 PoE）：进口中国同类 ✔ 对位 ✔ Simon 点名俄罗斯；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先"
  },
  "SC-860": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "俄罗斯 Mistercom（mistercom.ru；工商业 FS 好几家牌子，有朱姐客户的；网站有 WA 按钮）：进口中国同类 ✔ 对位 ✔ WA 路径 ✔；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
+  "verdict": "keep_C",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "闸 2 回 C：Mistercom 同名两户（Москва 已清算 / Воскресенск 执行程序 34 件）域名归属未证 → 未坐实 + 红旗 → 回 C 储备（WA 路径在，来信再核法人）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-18"
+  "batch": "G2-129",
+  "g1_batch": "G1-18",
+  "g1_reason": "俄罗斯 Mistercom（mistercom.ru；工商业 FS 好几家牌子，有朱姐客户的；网站有 WA 按钮）：进口中国同类 ✔ 对位 ✔ WA 路径 ✔；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先"
  },
  "SC-861": {
   "verdict": "keep_C",
@@ -21047,22 +21102,26 @@
   "batch": "G1-18"
  },
  "SC-883": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "哈萨克斯坦 Nout.kz（nout.kz，表内国别俄罗斯、域 .kz；ONV 的好几个工业 FS 型号，比较多的品牌）：进口中国同类 ✔ 对位 ✔ 俄语区先例（NAG KZ）；未触达 → 闸 2 查底数（statsnet）+ 国别核（RU → KZ 待证据）；收款待定，低优先",
+  "verdict": "keep_C",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "闸 2 回 C：Nout.kz = ТОО «Ноут кз»（Алматы；БИН 170940036145；2017；руководитель Унру А. С.）坐实但为笔记本 / 电子产品电商零售，非网络分销主体 → 回 C 储备；国别纠偏 俄罗斯 → 哈萨克斯坦 待 Simon",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-18"
+  "batch": "G2-129",
+  "g1_batch": "G1-18",
+  "g1_reason": "哈萨克斯坦 Nout.kz（nout.kz，表内国别俄罗斯、域 .kz；ONV 的好几个工业 FS 型号，比较多的品牌）：进口中国同类 ✔ 对位 ✔ 俄语区先例（NAG KZ）；未触达 → 闸 2 查底数（statsnet）+ 国别核（RU → KZ 待证据）；收款待定，低优先"
  },
  "SC-884": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "俄罗斯 Novicam（novicam.ru；自有品牌 CCTV，商业 PoE / 配件主要挂 PV-Link 牌）：自有品牌 = OEM 对象 ✔ 对位 ✔ Simon 点名俄罗斯；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "△ 观察档 · OEM 30% + 预付 100%：Novicam = ООО «НОВЫЕ КАМЕРЫ»（Москва；ИНН 7725668550 / ОГРН 1097746256332；2009；GD Макиевский Г. В.）ИНН 对上但 2025 纳税 0 → 运营主体存疑；自有品牌 CCTV + PV-Link 配件 ✔ 对位 ✔ → 入池观察档；可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-18",
+  "batch": "G2-129",
+  "g1_batch": "G1-18",
+  "g1_reason": "俄罗斯 Novicam（novicam.ru；自有品牌 CCTV，商业 PoE / 配件主要挂 PV-Link 牌）：自有品牌 = OEM 对象 ✔ 对位 ✔ Simon 点名俄罗斯；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
   "tags": [
    "oem_target"
   ]
@@ -21191,13 +21250,18 @@
   "batch": "G1-18"
  },
  "SC-897": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "乌兹别克斯坦 Pixietech（pixietech.uz；洪瑞的 = 洪瑞现供）：进口中国同类 ✔ 对位 ✔ 同区先例 SETKO 成单；未触达 → 闸 2 查底数；低优先；洪瑞现供客户 → Q-33 口径待 Simon（默认只推 SmartByte / Marvell 管理 + 工业线）",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 本土自有品牌 · OEM 30%：PixieTech（Ташкент, ул. Янгизамон 31/1；2020 创立「首家本土电信设备制造商」；交换机 / 路由 / GPON / IP 话机 / 机柜 / UPS 全线贴牌）部分坐实（ИНН 未取）；全线贴牌 = OEM 对象 ✔ 对位 ✔ 同区先例 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon：默认只推 SmartByte / Marvell 管理 + 工业线）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-18"
+  "batch": "G2-129",
+  "g1_batch": "G1-18",
+  "g1_reason": "乌兹别克斯坦 Pixietech（pixietech.uz；洪瑞的 = 洪瑞现供）：进口中国同类 ✔ 对位 ✔ 同区先例 SETKO 成单；未触达 → 闸 2 查底数；低优先；洪瑞现供客户 → Q-33 口径待 Simon（默认只推 SmartByte / Marvell 管理 + 工业线）",
+  "tags": [
+   "oem_target"
+  ]
  },
  "SC-898": {
   "verdict": "candidate",
@@ -21337,13 +21401,15 @@
   "batch": "G1-11"
  },
  "SC-912": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "俄罗斯 QP Optom（qpoptom.ru；批发，全线用 itoonertech 的 FS，IPC 为主 / CCTV 领域）：进口中国同类 ✔ 对位 ✔ 批发主体 Simon 点名俄罗斯；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
+  "verdict": "keep_C",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "闸 2 回 C：QP Optom（qpoptom.ru）1 查仅同名「Видеонаблюдение» 他户 → 未坐实；批发主体 ✔ 但法人未取 → 回 C 储备",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-19"
+  "batch": "G2-129",
+  "g1_batch": "G1-19",
+  "g1_reason": "俄罗斯 QP Optom（qpoptom.ru；批发，全线用 itoonertech 的 FS，IPC 为主 / CCTV 领域）：进口中国同类 ✔ 对位 ✔ 批发主体 Simon 点名俄罗斯；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先"
  },
  "SC-913": {
   "verdict": "keep_C",
@@ -21623,13 +21689,15 @@
   ]
  },
  "SC-941": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "俄罗斯 Smartec（smartec-cctv.ru；自有品牌 CCTV，工业 FS 国内的外壳 = 中国代工）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
+  "verdict": "keep_C",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "闸 2 回 C（红旗）：Smartec 对应法人 ООО «Смартек Секьюрити»（ИНН 7731421078）2026-10-02 状态不动 = 已清算，品牌站仍在线、新主体未取 → 回 C（新法人来信再起则 OEM 30% + 预付 100%）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-19",
+  "batch": "G2-129",
+  "g1_batch": "G1-19",
+  "g1_reason": "俄罗斯 Smartec（smartec-cctv.ru；自有品牌 CCTV，工业 FS 国内的外壳 = 中国代工）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
   "tags": [
    "oem_target"
   ]
@@ -21677,13 +21745,15 @@
   ]
  },
  "SC-946": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "俄罗斯 Spektr Video（spektrvideo.ru；工商业 FS 有 Utepo 的）：进口中国同类 ✔ 对位 ✔ Simon 点名俄罗斯；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先",
+  "verdict": "keep_C",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "闸 2 回 C（红旗 + 微型）：ООО «Спектр Видео»（Зеленоград；ИНН 7730667230；一人公司；执行程序 38 件）坐实但不入池 → 回 C 储备",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-19"
+  "batch": "G2-129",
+  "g1_batch": "G1-19",
+  "g1_reason": "俄罗斯 Spektr Video（spektrvideo.ru；工商业 FS 有 Utepo 的）：进口中国同类 ✔ 对位 ✔ Simon 点名俄罗斯；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先"
  },
  "SC-947": {
   "verdict": "keep_C",
@@ -21973,13 +22043,15 @@
   "batch": "G1-19"
  },
  "SC-977": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "白俄罗斯 Utepo.by（表内国别俄罗斯、域 .by；Utepo 白俄罗斯专营，工业 FS）：进口中国同类 ✔ 对位 ✔ 俄语区先例；未触达 → 闸 2 查底数 + 国别核（RU → BY 待证据）；RU + BY 收款待定，低优先",
+  "verdict": "keep_C",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "闸 2 回 C（并入）：utepo.by 页脚 = ООО «Торговый дом «АВАНТ-ТЕХНО»（Минск, ул. Короля 45）与 SC-714 同一法人 → 并入 SC-714 统一跟进，避免双发；国别纠偏 俄罗斯 → 白俄罗斯 待 Simon",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-19"
+  "batch": "G2-129",
+  "g1_batch": "G1-19",
+  "g1_reason": "白俄罗斯 Utepo.by（表内国别俄罗斯、域 .by；Utepo 白俄罗斯专营，工业 FS）：进口中国同类 ✔ 对位 ✔ 俄语区先例；未触达 → 闸 2 查底数 + 国别核（RU → BY 待证据）；RU + BY 收款待定，低优先"
  },
  "SC-978": {
   "verdict": "keep_C",

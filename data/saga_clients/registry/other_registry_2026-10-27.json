@@ -4,7 +4,7 @@
   "source": "其他国家官方 / 准官方登记",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 520
+  "count": 528
  },
  "rows": {
   "SA-061": {
@@ -16110,6 +16110,242 @@
    ],
    "notes": "回 C 储备（坐实但主业不对位 + 冷户）；坐实（BTW）。",
    "code": "SC-856"
+  },
+  "SC-714": {
+   "batch": 129,
+   "name": "ООО «Торговый дом «АВАНТ-ТЕХНО» — Avant（avant.by；**官网：Минск；BYN 计价；Hikvision / HiWatch СКУД + 自有 iFLOW 牌工业 PoE 交换机（F-SW-IU406HPOE 等）+ 监控全线；utepo.by 页脚同主体：220004 Минск, ул. Короля 45；+375 17 304-40-40；УНП 未取**）；表内：工商业 FS 好几家牌子，有宇航等国内的；未触达。**国别纠偏：俄罗斯 → 白俄罗斯（待 Simon 确认）**",
+   "iso": "BY",
+   "fetched": "2026-10-29",
+   "source": "BY · 1 次检索：avant.by/catalog/setevoe_oborudovanie/switches/（Минск / BYN / iFLOW 自有牌 / 公司名 АВАНТ-ТЕХНО）+ utepo.by 页脚（法人全称 / 地址 / 电话）；УНП 未取；2026-10-29",
+   "url": "https://avant.by/catalog/setevoe_oborudovanie/switches/",
+   "number": "未取（УНП 未查；法人名坐实）",
+   "status": "营业中（官网 2026 价目）",
+   "incorporated": "未取",
+   "company_type": "ООО",
+   "sic": [
+    "安防 / 网络设备分销 + 自有 iFLOW 牌（明斯克）"
+   ],
+   "address": "220004 Минск, ул. Короля 45",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（白俄主要安防分销之一）",
+   "officers": [
+    "（info@avant.by / info@utepo.by 官网公开；具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有 iFLOW 牌 + 多牌分销 → OEM 30% / 分销 20%：一页纸一次（STC-028GP / STC-228GP / STI-154GP 贴牌 iFLOW + MOQ 1 + 付费样机；现供中国牌子不点名）— 白俄常规：预付 100% + 收款路径待 Simon 定**"
+   ],
+   "notes": "OEM 30%；P 池候选 ○（自有牌 ✔ 已进口中国同类 ✔ 对位 ✔ 法人名坐实 ✔）；部分坐实（УНП 未取）；SC-977 utepo.by 同主体并入本户；收款待定。",
+   "code": "SC-714"
+  },
+  "SC-977": {
+   "batch": 129,
+   "name": "utepo.by = ООО «Торговый дом «АВАНТ-ТЕХНО»（**页脚：220004 Республика Беларусь, Минск, ул. Короля 45；info@utepo.by；+375 17 304-40-40；「Официальный представитель UTEPO в Беларуси」；产品页标注 Производитель UTEPO Китай**）= 与 SC-714 avant.by 同一法人 → 并入 SC-714；表内：Utepo 白俄专营。**国别纠偏：俄罗斯 → 白俄罗斯（待 Simon 确认）**",
+   "iso": "BY",
+   "fetched": "2026-10-29",
+   "source": "BY · 1 次检索：utepo.by 首页页脚（法人 / 地址 / 电话）+ 产品页（UTEPO 中国制造）；2026-10-29",
+   "url": "https://utepo.by/",
+   "number": "未取（同 SC-714）",
+   "status": "营业中（同 SC-714）",
+   "incorporated": "未取",
+   "company_type": "ООО",
+   "sic": [
+    "Utepo 白俄专营站（АВАНТ-ТЕХНО 旗下）"
+   ],
+   "address": "220004 Минск, ул. Короля 45",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "— 并入 SC-714",
+   "officers": [],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**同一主体 → 不单独跟进；统一走 SC-714（avant.by）一页纸**"
+   ],
+   "notes": "回 C（并入 SC-714 同主体，避免双发）；国别纠偏 BY 待 Simon。",
+   "code": "SC-977"
+  },
+  "SC-299": {
+   "batch": 129,
+   "name": "ТОО «NAG KAZAKHSTAN (НАГ Казахстан)» — nag.kz（**shop.nag.kz 银行信息页 + ets-tender：БИН 191040001403；050000 Алматы, Алмалинский р-н, пр. Жибек Жолы 135, 6 эт., оф. 2061（ets 载 ул. Панфилова 98）；Евразийский банк USD / EUR 账户（代理行 Raiffeisen Bank International, Vienna）；NAG / SNR 集团（俄 Екатеринбург）哈萨克子公司；自有品牌 SNR + Ubiquiti / MikroTik / Teltonika / NetPing 分销**）；表内：从国内买 CWDM 模块 / Switch / SFP / MC；群发 16 次 0 回",
+   "iso": "KZ",
+   "fetched": "2026-10-29",
+   "source": "KZ · 1 次检索：shop.nag.kz/article/bank（法人 / БИН / 地址 / 外币账户）+ shop.nag.kz/payment（品牌线）+ ets-tender.kz（БИН / 地址）；2026-10-29",
+   "url": "https://shop.nag.kz/article/bank",
+   "number": "191040001403（БИН）",
+   "status": "营业中（商城 2026）",
+   "incorporated": "2019-10（БИН 前缀）",
+   "company_type": "ТОО",
+   "sic": [
+    "网络设备分销 + 自有品牌 SNR（阿拉木图；NAG 集团）"
+   ],
+   "address": "050000 Алматы, пр. Жибек Жолы 135, 6 эт., оф. 2061",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（集团大型）",
+   "officers": [
+    "（info@nag.kz 表内；采购 KP 待名录）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**SNR 自有品牌从中国直采 → OEM 30%（集团采购在俄 Екатеринбург，哈萨克子公司 = 可能的收款路径：有 USD / EUR 账户）：一页纸一次（STC-228GP / STC-2224GP / STI-288GPM 贴牌 + 光模块走本职线 + MOQ 1）— 预付 100%，路径待 Simon 定**"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（自有品牌 ✔ 中国直采 ✔ 对位 ✔ 坐实 ✔；外币账户 = 俄语区收款线索）；坐实（БИН）。",
+   "code": "SC-299"
+  },
+  "SC-883": {
+   "batch": 129,
+   "name": "ТОО «Ноут кз» — Nout.kz（**官网 offer + ba.prg.kz：БИН 170940036145；2017-09-29 登记；050057 Алматы, ул. Тимирязева 42/14；руководитель Унру Анатолий Сергеевич；笔记本 / 电子产品电商 + 实体店**）；表内：ONV 的好几个工业 FS 型号；未触达。**国别纠偏：俄罗斯 → 哈萨克斯坦（待 Simon 确认）**",
+   "iso": "KZ",
+   "fetched": "2026-10-29",
+   "source": "KZ · 1 次检索：nout.kz/offer/（法人 / БИН / 地址）+ ba.prg.kz（登记日 / 负责人）+ orgprint（定位：笔记本电商）；2026-10-29",
+   "url": "https://nout.kz/offer/",
+   "number": "170940036145（БИН）",
+   "status": "营业中",
+   "incorporated": "2017-09-29",
+   "company_type": "ТОО",
+   "sic": [
+    "电子产品电商零售（阿拉木图）"
+   ],
+   "address": "050057 Алматы, ул. Тимирязева 42/14",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "Унру Анатолий Сергеевич — руководитель"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**电商零售 → 回 C 储备（闸 2 证实为笔记本网店，非网络分销）**"
+   ],
+   "notes": "回 C（电商零售，非分销主体）；坐实（БИН）；国别纠偏 KZ 待 Simon。",
+   "code": "SC-883"
+  },
+  "SC-1513": {
+   "batch": 129,
+   "name": "ТОО «Manggis»（manggis.kz；**官网 delivery 页：БИН 110940009256（另载 181040026149）；Алматы, пр. Гагарина 236Б оф.303；自提点 пр. Серкебаева 56（офис Glazok）；+7 727 317-61-61；info@manggis.kz；CCTV / СКУД 网店 + 批零 + 安装（spr.kz 2019 确认）**）；表内：主要是 ONV 和海康威视的产品；未触达。**国别纠偏：俄罗斯 → 哈萨克斯坦（待 Simon 确认）**",
+   "iso": "KZ",
+   "fetched": "2026-10-29",
+   "source": "KZ · 1 次检索：manggis.kz/delivery（法人 / БИН / 地址 / 电话）+ spr.kz/almati/manggis.html（定位 / 地址）；2026-10-29",
+   "url": "https://manggis.kz/delivery",
+   "number": "110940009256（БИН；另 181040026149）",
+   "status": "营业中（网店 2026）",
+   "incorporated": "2011-09（БИН 前缀）",
+   "company_type": "ТОО",
+   "sic": [
+    "CCTV / 门禁网店 + 安装（阿拉木图）"
+   ],
+   "address": "Алматы, пр. Гагарина 236Б оф.303",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "（info@manggis.kz 官网公开）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**网店 + 安装商 → 回 C 储备（哈萨克有 NAG 等更强主体）**"
+   ],
+   "notes": "回 C（网店 / 安装商，非分销主体）；坐实（БИН）；国别纠偏 KZ 待 Simon。",
+   "code": "SC-1513"
+  },
+  "SC-1020": {
+   "batch": 129,
+   "name": "Moon.kz（**1 查仅返回 goszakup 个体 «Видеонаблюдение»（topcam.kz）/ ТОО Monitoring Systems Kazakhstan / ТОО MOONSTAR.KZ（2023）等同名他户 → 法人未取**）；表内：ONV 很多产品；群发 18 次 0 回",
+   "iso": "KZ",
+   "fetched": "2026-10-29",
+   "source": "KZ · 1 次检索：goszakup / kompra / niac 同名户均非本域 → 未坐实；2026-10-29",
+   "url": "",
+   "number": "未取",
+   "status": "未坐实（1 查未得）",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "CCTV / 网络设备（哈萨克）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "未取",
+   "officers": [],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**未坐实 → 回 C 储备；来信再起则官网 реквизиты 补查 + 预付 100%**"
+   ],
+   "notes": "回 C（未坐实）；进口中国同类 ✔ 但法人未取。",
+   "code": "SC-1020"
+  },
+  "SC-295": {
+   "batch": 129,
+   "name": "OOO «Inline System» — INLINE SYSTEM（inline.uz；**官网：100015 Ташкент, Мирабадский р-н, ул. Нукус 89；office@inline.uz；+998 71 255-10-78 / 255-31-63；2011 起（版权）；系统集成商：СКС / ЛВС / ВОЛС / Wi-Fi / IP 电话 / 视频会议 / 安防 / 供电，ISO 质量体系；Yeastar / Escene / Yealink 等；ИНН 未取**）；表内：工业 FS / SFP / 光猫好几个牌子，有公司同口型 2 光 8、nufiber 的；群发 19 次 0 回",
+   "iso": "UZ",
+   "fetched": "2026-10-29",
+   "source": "UZ · 1 次检索：inline.uz 首页（法人 / 地址 / 电话 / 邮箱）+ inline.uz/o-kompanii-1（定位 / 业务线）；ИНН 未取；2026-10-29",
+   "url": "https://www.inline.uz/o-kompanii-1",
+   "number": "未取（ИНН 未查；法人名坐实）",
+   "status": "营业中（官网 2026）",
+   "incorporated": "2011",
+   "company_type": "OOO",
+   "sic": [
+    "IT / 电信系统集成 + 设备供应（塔什干）"
+   ],
+   "address": "100015 Ташкент, Мирабадский р-н, ул. Нукус 89",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（乌国主要集成商之一）",
+   "officers": [
+    "（office@inline.uz 官网公开；具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**集成商在售同口型 2 光 8 → 集成 25%：一页纸一次（STC-228GP / STI-288GPM / STC-2224GP + MOQ 1 + 付费样机；同区 SETKO 成单经验）— 乌兹别克常规：预付 100% + FOB 深圳，收款路径待 Simon 定**"
+   ],
+   "notes": "集成 25%；P 池候选 ○（已进口中国同类 ✔ 对位 ✔ 法人名坐实 ✔ 同区先例 ✔）；部分坐实（ИНН 未取）。",
+   "code": "SC-295"
+  },
+  "SC-897": {
+   "batch": 129,
+   "name": "Pixietech — PixieTech（pixietech.uz；**官网 + itmir.uz：乌兹别克自有品牌，2020 年创立「首家本土电信设备制造商」（进口替代）；产品线：交换机 / 路由器 / GPON & GEPON / IP 话机 / 网关 / IP-АТС / 机柜 / UPS / 布线；Ташкент, Мирабадский р-н, ул. Янгизамон 31/1（另 Абу Сулейман Банокатий 199）；+998 71 205-85-85；info@pixietech.uz；法人 / ИНН 未取**）；表内：洪瑞的 = 洪瑞现供（Q-33）；未触达",
+   "iso": "UZ",
+   "fetched": "2026-10-29",
+   "source": "UZ · 1 次检索：pixietech.uz 首页（品牌 / 2020 / 产品线 / 地址 / 邮箱）+ itmir.uz/pixietech（经销价目）；ИНН 未取；2026-10-29",
+   "url": "https://pixietech.uz/",
+   "number": "未取（ИНН 未查）",
+   "status": "营业中（官网 2026）",
+   "incorporated": "2020",
+   "company_type": "未取（品牌）",
+   "sic": [
+    "电信设备自有品牌 / 贴牌（塔什干）"
+   ],
+   "address": "Ташкент, Мирабадский р-н, ул. Янгизамон 31/1",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型 / 中型（新品牌全线）",
+   "officers": [
+    "（info@pixietech.uz 官网公开；具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**本土自有品牌全线贴牌 → OEM 30%：一页纸一次（STC-228GP / STC-2224GP / STC-424XGGPM-280W 贴牌 Pixietech + MOQ 1；洪瑞现供 → Q-33 口径：默认只推 SmartByte / Marvell 管理 + 工业线）— 预付 100%，收款路径待 Simon 定**"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（自有品牌 ✔ 全线贴牌 = OEM 对象 ✔ 对位 ✔ 同区先例 ✔）；部分坐实（ИНН 未取）；Q-33 洪瑞现供待 Simon。",
+   "code": "SC-897"
   }
  }
 }
