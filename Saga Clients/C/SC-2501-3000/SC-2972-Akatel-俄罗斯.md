@@ -2,12 +2,15 @@
 
 > **评级 C**　|　俄罗斯　|　档案编号 `SC-2972`　|　优先级 —　|　状态：用户判定不行
 >
+> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：俄罗斯 Akatel（akatel.ru no_mx；alarmex.ru 正常 = 换址；「从中间商采购中国产品，想从中国直接购买」；两部座机，WA 加不上）：真意向 ✔ Simon 点名俄罗斯 ✔；→ 闸 2 查底数（rusprofile）+ 换 alarmex.ru 地址；俄语区收款待定
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-2972
 rating: C
 rating_auto: C
+sieve: candidate  # 闸 1 G1 2026-10-29
 score: -58
 country: 俄罗斯
 region: 俄语区
@@ -24,7 +27,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -137,8 +140,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -58）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -58）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -2,12 +2,15 @@
 
 > **评级 C**　|　巴基斯坦　|　档案编号 `SC-2285`　|　优先级 —　|　状态：已推送 1 次·未回复
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：巴基斯坦 Netlink（netlink.com.pk 域正常；退信；MC / switch 周边；官网手机 +92 321 9232025）：退信但官网有手机 → 留 C 待巡检
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 1 次（2025-10-06 → 2025-10-06）　|　**所在清单**：E冷名单(巴基斯坦)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-2285
 rating: C
 rating_auto: C
+sieve: keep_C  # 闸 1 G1 2026-10-29
 score: -12
 country: 巴基斯坦
 region: 南亚
@@ -25,7 +28,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -139,8 +142,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -12）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -12）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

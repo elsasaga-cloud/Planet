@@ -2,12 +2,15 @@
 
 > **评级 C**　|　印度　|　档案编号 `SC-2908`　|　优先级 —　|　状态：用户判定不行
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：印度 Ved Info Services（vedinfoservices.com 正常；.co.in nxdomain；退信；从国内买 switch 等，三旺的；工业 FS / MC / VC / PoE / 机架；手机在表）：进口中国同类 ✔ 但退信 → 留 C 待巡检（通了即转候选）
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(IN)·DONE、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-2908
 rating: C
 rating_auto: C
+sieve: keep_C  # 闸 1 G1 2026-10-29
 score: -51
 country: 印度
 region: 南亚
@@ -25,7 +28,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 3
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -153,8 +156,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 C，分数 -51）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 C，分数 -51）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

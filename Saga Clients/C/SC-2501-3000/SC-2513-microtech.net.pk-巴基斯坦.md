@@ -3,12 +3,15 @@
 
 > **评级 C**　|　巴基斯坦　|　档案编号 `SC-2513`　|　优先级 —　|　状态：已推送 3 次·未回复
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：巴基斯坦 Microtech（microtech.net.pk；工业 FS / PoE，洪瑞商业 PoE / V-SOL；Elsa 线程 5 封：把 Saga 当买家回「Not Available」并发来自家 MikroTik 报价单）：互动错位 + 非点名国 → 留 C（储备；Q-33 洪瑞）
+>
 > **类型**：巴基斯坦 IT 分销/集成（MikroTik 渠道）（推断）　|　**历史关系**：推送 3 次（2025-06-03 → 2025-10-02）　|　**所在清单**：E已回复、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-2513
 rating: C
 rating_auto: C
+sieve: keep_C  # 闸 1 G1 2026-10-29
 name_official: "Microtech Inc（巴基斯坦卡拉奇；Noman Asghar）"
 score: -23
 country: 巴基斯坦
@@ -27,7 +30,7 @@ price_tier: 20%
 research: done
 site_snapshot: none
 sources: 2
-updated: 2026-10-25
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -200,8 +203,8 @@ Saga Telecom - sagatele.com
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -23）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -23）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

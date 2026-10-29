@@ -2,12 +2,15 @@
 
 > **评级 C**　|　越南　|　档案编号 `SC-2370`　|　优先级 —　|　状态：发不过去
 >
+> **⛔ 已过筛 · 永久 pass**（闸 1 · G1 · 2026-10-29）：越南 CCTVapp（cctvapp.net no_mx；wificamera.vn nxdomain；退信「发不过去」；智能监控 / smart home）：退信 + 全部域名死 + 无公司名 / 电话 → 闸 0 刚性 G0-2 → 永久 pass —— 不再加厚 / 不群发 / 不监控 / 不进日历；撤销只在客户主动找上门时由 Simon 拍板（`data/saga_clients/sieve.json`）。
+>
 > **类型**：安防集成/经销（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(VN/VN)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-2370
 rating: C
 rating_auto: C
+sieve: pass_final  # 闸 1 G1 2026-10-29
 score: -16
 country: 越南
 region: 亚太
@@ -24,7 +27,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -134,8 +137,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -16）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -16）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

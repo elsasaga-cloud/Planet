@@ -2,12 +2,15 @@
 
 > **评级 C**　|　阿联酋　|　档案编号 `SC-1902`　|　优先级 —　|　状态：名单内·未触达
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：阿联酋 MAN Middle East（man-middleeast.com 无 MX；man.eu 正常；问工业 8 电口导轨安装；珊姐转，大概率是斯洛文尼亚客户的客户）：巨头终端（卡车集团）+ 已有渠道客户在供 → 留 C（巨头不永久 pass；不越过渠道）
+>
 > **类型**：系统集成/工程商（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：A优质名单(阿联酋 沙特阿拉伯)、询盘流水　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-1902
 rating: C
 rating_auto: C
+sieve: keep_C  # 闸 1 G1 2026-10-29
 score: 1
 country: 阿联酋
 region: 中东
@@ -25,7 +28,7 @@ price_tier: 25%
 research: pending
 site_snapshot: none
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -137,8 +140,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 1）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 1）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

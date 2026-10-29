@@ -2,12 +2,15 @@
 
 > **评级 C**　|　坦桑尼亚　|　档案编号 `SC-1803`　|　优先级 —　|　状态：名单内·未触达
 >
+> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：坦桑尼亚 Habari（habari.co.tz；常规千兆小外电 20 个；具名 KP liliani.mboya@ / eliangiringa@）：数量询问 = 真需求 ✔ 对位（STC-028GP）✔ 决策人可点名 ✔；→ 闸 2 查底数（官网 / 目录；BRELA ✗）；非点名国 → 低优先
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(已重新审核/一般 常规)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-1803
 rating: C
 rating_auto: C
+sieve: candidate  # 闸 1 G1 2026-10-29
 score: 3
 country: 坦桑尼亚
 region: 非洲
@@ -24,7 +27,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -137,8 +140,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 3）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 3）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

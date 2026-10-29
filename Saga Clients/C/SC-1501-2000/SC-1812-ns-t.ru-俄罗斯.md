@@ -2,12 +2,15 @@
 
 > **评级 C**　|　俄罗斯　|　档案编号 `SC-1812`　|　优先级 —　|　状态：已推送 15 次·未回复
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：俄罗斯 NS-T / Tinko（ns-t.ru 退信「发不过去」，域正常；tinko.ru 正常；串口 / MC / SFP / 工业 FS / PoE 多牌）：进口中国同类 ✔ 但退信 → 留 C 待巡检（换 tinko.ru 地址再试）
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 15 次（2024-04-26 → 2025-10-23）　|　**所在清单**：A优质名单(优质俄罗斯客户)、AI评估(RU)、群发(PA)、群发(Russia)、在用同行产品　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-1812
 rating: C
 rating_auto: C
+sieve: keep_C  # 闸 1 G1 2026-10-29
 score: 3
 country: 俄罗斯
 region: 俄语区
@@ -25,7 +28,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 5
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -174,8 +177,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 5 行原始记录归并；自动评级 C，分数 3）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 5 行原始记录归并；自动评级 C，分数 3）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

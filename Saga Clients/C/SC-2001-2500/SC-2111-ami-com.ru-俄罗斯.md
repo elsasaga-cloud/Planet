@@ -2,12 +2,15 @@
 
 > **评级 C**　|　俄罗斯　|　档案编号 `SC-2111`　|　优先级 —　|　状态：名单内·未触达
 >
+> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：俄罗斯 AMI-COM（ami-com.ru；朱姐客户的；很多 ONV 型号都没变 + 「Just」这个牌子可能是他们自己的；主要 CCTV 本土品牌）：进口中国同类 ✔ 疑自有牌 ✔ Simon 点名俄罗斯；未触达 → 闸 2 查底数（rusprofile）核自有牌；俄语区收款待定，低优先
+>
 > **类型**：安防集成/经销（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(Russia)、群发(谷歌)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-2111
 rating: C
 rating_auto: C
+sieve: candidate  # 闸 1 G1 2026-10-29
 score: -6
 country: 俄罗斯
 region: 俄语区
@@ -24,7 +27,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 3
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -138,8 +141,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 C，分数 -6）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 C，分数 -6）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -2,12 +2,15 @@
 
 > **评级 C**　|　印度　|　档案编号 `SC-2078`　|　优先级 —　|　状态：发不过去
 >
+> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：印度 Zebeye → Zebronics（zebeye.com 退信；zebronics.com 正常 = 换址；洪瑞的商业 PoE / FS 贴 Zebronics 牌在卖）：自有品牌 = OEM 对象 ✔ Simon 点名印度 ✔ 对位 ✔；洪瑞现供 → Q-33 口径待 Simon；→ 闸 2 查底数（zaubacorp）+ 换 zebronics.com 地址　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+>
 > **类型**：分销商/经销商（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(已重新审核/一般 常规)、在用同行产品　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-2078
 rating: C
 rating_auto: C
+sieve: candidate  # 闸 1 G1 2026-10-29
 score: -4
 country: 印度
 region: 南亚
@@ -25,7 +28,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 2
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -141,8 +144,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -4）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -4）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
