@@ -157,7 +157,8 @@ def saga_rows():
         doms = e.get('domains') or []
         sts = [mx.get(d, {}).get('status') for d in doms]
         mxs = ('ok' if 'ok' in sts else (sts[0] or '未查')) if doms else '无域名'
-        em = '有' if (r['企业邮箱'] or r['全部邮箱']) else '无'
+        em = '有' if (r['企业邮箱'] or r['全部邮箱']) else ('WA' if ((e.get('flags') or {}).get('wa_added') or e.get('phones')) else (
+            '研究档（官网公开邮箱）' if any(k.get('email') for k in (j.get('kp') or [])) or (j.get('site_contacts') or {}).get('emails') else '无'))
         kp = '有' if any(k.get('name') not in (None, '', '—', '-') for k in (j.get('kp') or [])) or any(p and p not in ('发不过去',) for p in (e.get('persons') or [])) else '无'
         lt = j.get('lt_review') or {}
         rv = f"{lt.get('status')}·{lt.get('batch')}" if lt else ('已过·登记 + 加厚' if deep else '未过')
@@ -202,7 +203,7 @@ def external_rows(do_dns=True):
         regs = '已坐实' if card and any('登记' in str(ev.get('kind', '')) or '工商' in str(ev.get('claim', '')) for ev in card.get('evidence') or []) else '无'
         d = reg_domain(r.get('domain') or '')
         mxs = (mx.get(d, {}).get('status') or '未查') if d else '无域名'
-        em = '有' if (r.get('emails_live') or r.get('emails')) else '无'
+        em = '有' if (r.get('emails_live') or r.get('emails')) else ('研究档（官网公开邮箱）' if card and ((card.get('contacts') or {}).get('page_emails') or (card.get('contacts') or {}).get('email')) else '无')
         kp = '有' if str(r.get('kp_named')) == 'True' or (card and (card.get('contacts') or {}).get('kp')) else '无'
         rv = (o.get('review') or {}).get('status') or ('随主档' if r.get('saga_dup') not in (None, 'None', '') else '未过')
         rv = f"{rv}·{(o.get('review') or {}).get('batch', '')}".rstrip('·')
@@ -253,7 +254,10 @@ def planet_rows(do_dns=True):
             miss.append('邮箱')
         if kp == '无':
             miss.append('具名 KP')
-        out.append({'库': 'Planet 仓', '编号': c, '公司': r['公司名'][:60], '国家': r['国家'], '等级': g, '研究深度': depth, '登记底数': '无',
+        preg = '部分坐实（无登记号）' if '登记底数（' in (r['备注'] or '') and '未取' in (r['备注'] or '') else ('已坐实' if '登记底数（' in (r['备注'] or '') else '无')
+        if preg != '无':
+            miss = [m for m in miss if m != '登记底数']
+        out.append({'库': 'Planet 仓', '编号': c, '公司': r['公司名'][:60], '国家': r['国家'], '等级': g, '研究深度': depth, '登记底数': preg,
                     '官网快照': psnap, '域名MX': mxs, '邮箱': em, '具名KP': kp, '复核': rv, '跨库重复': dup, '还缺什么': '；'.join(miss)})
     return out
 
