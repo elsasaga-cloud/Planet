@@ -26,7 +26,7 @@ price_tier: 30%
 research: done
 site_snapshot: unreachable  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -74,6 +74,20 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 122 批（UG · 1 次检索：eastafricatenders.com/directory/itkati-ug-ltd（Registration Date Jul 25, 2018；Block 244 Plot 965 Kampala）+ yellow.ug/company/40803（established in 2009；Company manager sarah basemera；Employees 6-10）+ worldplaces（Makindye；+256704575328）；URSB 未得；2026-10-29，2026-10-29 查；https://eastafricatenders.com/directory/itkati-ug-ltd/）：**
+
+- 法定名 / 登记号：iTKATI UG Ltd（ITKati Corp.；itkati.com；**eastafricatenders：Registration Date 2018-07-25，Block 244 Plot 965, Kyadondo, Makindye, Kampala；yellow.ug：2009 年起、6–10 人、Company manager Sarah Basemera；+256 393 225 713 / +256 704 575 328；企业网络 / CCTV / Starlink / VoIP / 软件**）；URSB 号 1 查未得 → 部分坐实；KP Bob（technical@；WA 已加；价格 OK、要样、**要贴自有标**） · 未取（URSB 号 1 查未得；登记日 2018-07-25） · 状态 **营业中（官网 + 名录 2026-07 更新）** · 成立 2009（登记 2018-07-25） · Ltd
+- 行业码 / 经营范围：IT / 网络 / 安防集成（坎帕拉 Makindye）
+- 注册地址：Block 244, Plot 965, Kyadondo, Makindye, Kampala, Uganda
+- 规模档：微型（6–10）
+- 账目：未取；—
+- 高管：Bob — 技术 / 采购（研究档 KP；technical@itkati.com；WA 已加）= 收件人
+- 高管：Sarah Basemera — Company manager（yellow.ug 2026-10-29；无公开邮箱）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **价格 OK + 要样 + 要自有标 → 贴标 OEM 30% B，一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-2216GP 贴标 + 贴标 MOQ + 付费样机；小量先按集成商 25% 中性包装）— 乌干达常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 坎帕拉（买方清关；UCC 不声称）**；回信 → 加厚
+- 备注：贴标 OEM 30%（小量 25%）；一页纸一次（预付 100%）；部分坐实（登记日 + 地址 + 人数；URSB 号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -105,18 +119,18 @@ updated: 2026-10-28
 - **【用户表】需求与回复**
   > 对价格OK 想拿样 贴标；2024.2.27 发了2光4小壳信息 → Give price for 4,8,16,24,64 ports；2024.3.18 → price
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Bob（技术/采购（表内））technical@itkati.com +256 704 575 328（WA 已加）〔用户 Clients 表〕
-- **KP**：Sarah Basemera（Company manager（yellow.ug）） +256 785 284 579〔yellow.ug〕
+- **KP**：Bob（技术 / 采购（研究档 KP；WA 已加；价格 OK、要样、要自有标）= 收件人 — 一页纸一次：贴标 OEM 30% B、STC-028GP $28 / STC-228GP $33 / STC-2216GP 贴标 + 贴标 MOQ + 付费样机；小量先按集成商 25% 中性包装 — 乌干达常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 坎帕拉、UCC 不声称（第 122 批 官方登记核实 2026-10-29））technical@itkati.com +256 704 575 328（WA 已加）〔用户 Clients 表〕
+- **KP**：Sarah Basemera（Company manager（yellow.ug 2026-10-29；无公开邮箱）（第 122 批 官方登记核实 2026-10-29）） +256 785 284 579〔yellow.ug〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 黄页/FB 核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | iTKATI UG LTD（ITKati Corp.） |
-| 成立 | 2009（yellow.ug）/ 登记 2018-07（eastafricatenders） |
-| 总部/地址 | Plot 965, Kyadondo, Makindye, Kampala, Uganda；+256 393 225 713；care@itkati.com / support@itkati.com |
-| 其他 | 经理 Sarah Basemera（yellow.ug）；FB 联系 +256 704 575 328 itkaticorp@gmail.com；另有 eafricahost.itkati.com 主机业务 |
+| 法定名称 | iTKATI UG Ltd（ITKati Corp.；URSB 号 1 查未得；登记日 2018-07-25） |
+| 成立 | 2009（登记 2018-07-25）（第 122 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Block 244, Plot 965, Kyadondo, Makindye, Kampala, Uganda（+256 393 225 713 / +256 704 575 328）（第 122 批 官方登记核实 2026-10-29） |
+| 其他 | 经理 Sarah Basemera（yellow.ug）；FB 联系 +256 704 575 328 itkaticorp@gmail.com；另有 eafricahost.itkati.com 主机业务；第 122 批：IT / 网络 / 安防集成（企业网络 / CCTV / Starlink / VoIP）→ **贴标 OEM 30% 一页纸一次（小量 25%；预付 100%）**；部分坐实（登记日 + 地址 + 人数）（第 122 批 官方登记核实 2026-10-29） |
 
 - **业务线**：企业网络架构与布线、SD-WAN/云；CCTV 与安防系统、对讲/VoIP；Starlink/互联网带宽、Web 托管与软件开发
 - **触达通道（公开）**：official: care@itkati.com / +256 393 225 713；contact: Bob technical@itkati.com，+256 704 575 328 / +256 785 284 579（WA 已加）；facebook: facebook.com/itkati
@@ -186,8 +200,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Bob | 技术/采购（表内） | technical@itkati.com / +256 704 575 328（WA 已加） | 调研核实（公开页） | 用户 Clients 表 |
-| Sarah Basemera | Company manager（yellow.ug） | +256 785 284 579 | 调研核实（公开页） | yellow.ug |
+| Bob | 技术 / 采购（研究档 KP；WA 已加；价格 OK、要样、要自有标）= 收件人 — 一页纸一次：贴标 OEM 30% B、STC-028GP $28 / STC-228GP $33 / STC-2216GP 贴标 + 贴标 MOQ + 付费样机；小量先按集成商 25% 中性包装 — 乌干达常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 坎帕拉、UCC 不声称（第 122 批 官方登记核实 2026-10-29） | technical@itkati.com / +256 704 575 328（WA 已加） | 调研核实（公开页） | 用户 Clients 表 |
+| Sarah Basemera | Company manager（yellow.ug 2026-10-29；无公开邮箱）（第 122 批 官方登记核实 2026-10-29） | +256 785 284 579 | 调研核实（公开页） | yellow.ug |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 
@@ -280,12 +294,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 59）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 59）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -26,7 +26,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -75,6 +75,20 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 122 批（EG · 1 次检索：dnb.com（EGYPTIAN ALUMINIUM TUBES COMPANY (TUBAL EGYPT)；9 El Zahaby Square, Roxi, Heliopolis Cairo；Key Principal Fibi Bakhoum Toma）+ trademo（HS 761210 egypt；18 ashmoun st heliopolis 11341）+ teg-designs 目录（(+202) 24176301）；登记号未得；2026-10-29，2026-10-29 查；https://www.dnb.com/business-directory/company-profiles.egyptian_aluminium_tubes_company_(tubal_egypt).a3feb8608b1be15e8ac0ce4ca87e6db8.html）：**
+
+- 法定名 / 登记号：Egyptian Aluminium Tubes Company – Tubal Egypt（tubal-egypt.com；**D&B：9 El Zahaby Square, Roxi, Heliopolis, Cairo；Key Principal Fibi Bakhoum Toma；+202 2417 6301 / 2290 5751；trademo：HS 761210 铝管出口商；官网地址 18 Ashmoun St., Heliopolis 11341**）；登记号 1 查未得 → 部分坐实（制造商实体）；董事会成员 Daniel Adel Harvey 处理 PoE 新业务（2 光 10 电讲解在行、问告警口接 EMS、问 **SKD 分供便于清关** —— 我方已答可以）；1 次跟进无实质回复 · 未取（商业登记号 1 查未得） · 状态 **营业中（官网 + 出口记录）** · 成立 未取 · S.A.E.（推定）
+- 行业码 / 经营范围：铝管制造（赫利奥波利斯）+ PoE 进口新业务
+- 注册地址：18 Ashmoun St. / 9 El Zahaby Square, Heliopolis, Cairo 11341, Egypt
+- 规模档：中型（制造）
+- 账目：未取；—
+- 高管：Daniel Adel Harvey — Board Member（研究档 KP；info@tubal-egypt.com）= 收件人
+- 高管：Fibi Bakhoum Toma — Key Principal（D&B 2026-10-29；无公开邮箱）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **董事会成员亲自谈 PoE + SKD 清关需求（我方已答可以）→ 贴标 OEM 30% B，一页纸一次（STC-2216GP / STI-288DGGPM $137「2 光 10 电」对位 + SKD（整机拆箱分供，不做定制板）+ 贴标 MOQ + 付费样机；告警口 / EMS 按规格书答）— 埃及常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方清关；NTRA 不声称）**；回信 → 加厚
+- 备注：贴标 OEM 30%（SKD）；一页纸一次（预付 100%）；部分坐实（D&B 地址 + 负责人 + 出口记录；登记号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -100,17 +114,18 @@ updated: 2026-10-28
 - **【用户表】主要处理 POE；对 2 光 10 电详细讲解比较懂；问 alarm port 能外接 EMS 吗；SKD 可以吗，外壳和板子分开提供，回复可以，客户说容易清关；Board member good**
   > 兴趣：主要处理POE，对2光10电做了详细讲解，比较懂… SKD可以嘛？把外壳和板子分开提供 回复说可以 客户说这样容易清关
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Daniel Adel Harvey（）info@tubal-egypt.com +20 122 787 9183〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Daniel Adel Harvey（Board Member（研究档 KP；亲自谈 PoE / EMS 告警口 / SKD 清关）= 收件人 — 一页纸一次：贴标 OEM 30% B、STC-2216GP / STI-288DGGPM $137「2 光 10 电」对位 + SKD（整机拆箱分供，不做定制板）+ 贴标 MOQ + 付费样机 — 埃及常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方清关）、NTRA 不声称（第 122 批 官方登记核实 2026-10-29））info@tubal-egypt.com +20 122 787 9183〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Fibi Bakhoum Toma（Key Principal（D&B 2026-10-29；无公开邮箱）（第 122 批 官方登记核实 2026-10-29）） 〔〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照：主体待核 + SKD 意向））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Tubal Egypt（Egyptian Aluminum Tubes Co.） |
-| 成立 | （待核） |
-| 总部/地址 | 18 Ashmoun St., Heliopolis, Cairo 11341, Egypt |
-| 其他 | SKD 进口意向（清关） |
+| 法定名称 | Egyptian Aluminium Tubes Company – Tubal Egypt（商业登记号 1 查未得；PoE 为新业务） |
+| 成立 | 未取（第 122 批 官方登记核实 2026-10-29） |
+| 总部/地址 | 18 Ashmoun St. / 9 El Zahaby Square, Heliopolis, Cairo 11341, Egypt（+202 2417 6301）（第 122 批 官方登记核实 2026-10-29） |
+| 其他 | SKD 进口意向（清关）；第 122 批：铝管制造商（HS 761210 出口）董事会成员谈 PoE 进口 + SKD → **贴标 OEM 30% 一页纸一次（预付 100%）**；部分坐实（D&B 地址 + 负责人 + 出口记录）（第 122 批 官方登记核实 2026-10-29） |
 
 - **业务线**：铝管制造（主业）；PoE 网络设备进口 / 组装（新业务，待核）
 - **触达通道（公开）**：role: 进口 / SKD 组装（OEM 口径）；region: 埃及
@@ -168,7 +183,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Daniel Adel Harvey | — | info@tubal-egypt.com / +20 122 787 9183 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Daniel Adel Harvey | Board Member（研究档 KP；亲自谈 PoE / EMS 告警口 / SKD 清关）= 收件人 — 一页纸一次：贴标 OEM 30% B、STC-2216GP / STI-288DGGPM $137「2 光 10 电」对位 + SKD（整机拆箱分供，不做定制板）+ 贴标 MOQ + 付费样机 — 埃及常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方清关）、NTRA 不声称（第 122 批 官方登记核实 2026-10-29） | info@tubal-egypt.com / +20 122 787 9183 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Fibi Bakhoum Toma | Key Principal（D&B 2026-10-29；无公开邮箱）（第 122 批 官方登记核实 2026-10-29） | — | 调研核实（公开页） | 调研 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 
@@ -261,12 +277,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

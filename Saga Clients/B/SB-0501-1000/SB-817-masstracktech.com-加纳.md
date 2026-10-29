@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -72,6 +72,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 122 批（GH · 1 次检索：zoominfo.com/p/David-Akoto（Technical Manager at MassTrack Technologies；2013-present；B33/41 Opposite Trinity Presby Church Kwashieman, Accra；+233 206485957）+ ghanayello.com/question/31146（Masstrack Technologies 车辆跟踪问答 2021）；RGD 未得；2026-10-29，2026-10-29 查；https://www.zoominfo.com/p/David-Akoto/-2106421416）：**
+
+- 法定名 / 登记号：MassTrack Technologies / Masstrack（masstracktech.com，账户停用；**ZoomInfo：B33/41 Opposite Trinity Presby Church, Kwashieman, Accra；+233 20 648 5957；David Akoto = Technical Manager（2013 起）；ghanayello 2021：车辆跟踪设备供应商**）；RGD 号 1 查未得 → 部分坐实；2024-08 对 4 / 8 口工业 PoE 回「154」；WA 19 次无实质回复 · 未取（RGD 号 1 查未得） · 状态 **域名停用（名录在册）** · 成立 未取（KP 2013 起） · Limited（推定）
+- 行业码 / 经营范围：车队 / 车辆跟踪技术服务（阿克拉）
+- 注册地址：B33/41 Opposite Trinity Presby Church, Kwashieman, Accra, Ghana
+- 规模档：小型
+- 账目：未取；—
+- 高管：David Opoku Akoto — Technical Manager（ZoomInfo 2026-10-29；研究档 KP info@masstracktech.com）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **曾点名「154」→ 集成商 25% B，WA 最后一次一页纸（STI-154GP 一口价 + STI-054GP + MOQ 1 + 付费样机）— 加纳常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 阿克拉（买方清关）**；域名停用 + 19×0 → 再无回声 → 不动
+- 备注：集成商 25%；WA 最后一次一页纸（预付 100%）；部分坐实（ZoomInfo 地址 + 职务；RGD 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -97,16 +110,17 @@ updated: 2026-10-28
 - **【用户表】公司：物流运输；聊天说自己是工程师，谈了 MC；2024-08 4 8 口工业 PoE→154**
   > 兴趣：公司:物流运输 聊天: 说自己是工程师 谈了MC；回复：154
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：David Opoku Akoto（）info@masstracktech.com +233 20 648 5957〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：David Opoku Akoto（Technical Manager（ZoomInfo 2026-10-29；2013 起）= 收件人 — WA 最后一次一页纸：集成商 25% B、STI-154GP 一口价 + STI-054GP + MOQ 1 + 付费样机 — 加纳常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 阿克拉（第 122 批 官方登记核实 2026-10-29））info@masstracktech.com +233 20 648 5957〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照停用 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Masstrack Technologies（待核） |
-| 总部/地址 | 加纳 |
-| 其他 | 物流 / 车队跟踪（推断）；域名停用 |
+| 法定名称 | MassTrack Technologies（RGD 号 1 查未得；域名停用） |
+| 成立 | 未取（KP 2013 起）（第 122 批 官方登记核实 2026-10-29） |
+| 总部/地址 | B33/41 Opposite Trinity Presby Church, Kwashieman, Accra, Ghana（+233 20 648 5957）（第 122 批 官方登记核实 2026-10-29） |
+| 其他 | 物流 / 车队跟踪（推断）；域名停用；第 122 批：车队 / 车辆跟踪服务商、曾点名「154」、19×0 → **WA 最后一次一页纸（预付 100%）**；部分坐实（ZoomInfo 地址 + 职务）（第 122 批 官方登记核实 2026-10-29） |
 
 - **触达通道（公开）**：role: 行业外 / 自用（物流 IT）；region: 加纳
 - **风险/边界**：域名停用；行业外；西非付款
@@ -176,7 +190,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| David Opoku Akoto | — | info@masstracktech.com / +233 20 648 5957 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| David Opoku Akoto | Technical Manager（ZoomInfo 2026-10-29；2013 起）= 收件人 — WA 最后一次一页纸：集成商 25% B、STI-154GP 一口价 + STI-054GP + MOQ 1 + 付费样机 — 加纳常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 阿克拉（第 122 批 官方登记核实 2026-10-29） | info@masstracktech.com / +233 20 648 5957 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；邮件已推送 19 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -273,12 +287,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 31）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 31）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

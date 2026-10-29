@@ -1,7 +1,7 @@
 # Prestige Satellites Communications S.A.C.
 **官方名称（调研核实）**：Prestige Satellite Communications Inc.（prestigevsat.com；Fort Lauderdale, FL, USA——用户表记为秘鲁 S.A.C.，国家待核）
 
-> **评级 B**　|　秘鲁　|　档案编号 `SB-051`　|　优先级 ★★　|　状态：成交过·维护
+> **评级 B**　|　美国　|　档案编号 `SB-051`　|　优先级 ★★　|　状态：成交过·维护
 >
 > **类型**：通信集成/经销商（推断）　|　**历史关系**：成交/下单过　|　**所在清单**：群发(杂)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -12,8 +12,9 @@ rating_auto: A
 rating_research: B  # 有历史成交但无时间、无互动记录，南美非主攻区 → B 待机回访。
 name_official: "Prestige Satellite Communications Inc.（prestigevsat.com；Fort Lauderdale, FL, USA——用户表记为秘鲁 S.A.C.，国家待核）"
 score: 63
-country: 秘鲁
-region: 拉美
+country: 美国
+country_table: 秘鲁  # 表内原填；调研纠正为 美国（research JSON country_fix）
+region: 北美
 website: prestigevsat.com
 type: 通信集成/经销商
 tier_tags: ["群发(杂)"]
@@ -27,7 +28,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -74,12 +75,26 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 122 批（US · 1 次检索：search.sunbiz.org（PRESTIGE SATELLITE COMMUNICATIONS INC；P16000009000；FEI/EIN 81-1222208；Date Filed 01/26/2016；ACTIVE；2873 SW 14th Street FORT LAUDERDALE, FL 33312；President BYE, WILLIAM）+ zoominfo（805 NE 18th Ave Apt 5, Fort Lauderdale；1-10；William Bye Director and Engineer；Howell Robert Owner）；2026-10-29，2026-10-29 查；https://search.sunbiz.org/Inquiry/corporationsearch/SearchResultDetail?inquirytype=EntityName&directionType=Initial&searchNameOrder=PRESTIGESATELLITECOMMUNICATION+P160000090000&aggregateId=domp-p16000009000-20d41eec-a083-4d54-9313-5c26da829222）：**
+
+- 法定名 / 登记号：Prestige Satellite Communications Inc.（prestigevsat.com；**Sunbiz：Florida Profit Corporation，Document No. P16000009000，FEI/EIN 81-1222208，Filed 2016-01-26，Status ACTIVE；2873 SW 14th Street, Fort Lauderdale, FL 33312；President / Registered Agent William Bye；ZoomInfo：Owner Howell Robert（= 表内 Rob ✓）、Director & Engineer William Bye、1–10 人；豪华游艇 VSAT / TVRO / IT 服务 → 表内「秘鲁 S.A.C.」误 → country_fix 美国**）→ 坐实；表内「买了 MC、PoE」= 老客户；0 次跟进 · FL Document No. P16000009000；EIN 81-1222208 · 状态 **ACTIVE（Sunbiz）** · 成立 2016-01-26 · Florida Profit Corporation
+- 行业码 / 经营范围：游艇 VSAT / TVRO / IT 服务（劳德代尔堡）
+- 注册地址：2873 SW 14th Street, Fort Lauderdale, FL 33312, USA
+- 规模档：微型（1–10）
+- 账目：未取；—
+- 高管：Rob = Robert Howell — Owner（ZoomInfo 2026-10-29；研究档 KP rob@prestigevsat.com）= 收件人
+- 高管：William Bye — President / Director & Engineer（Sunbiz 2026-10-29；无公开邮箱）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **★ 老客户（买过 MC + PoE）→ 回访一页纸一次（集成商 25%：STC-110XGE $65 + STC-228GP $33 / STC-2216GP 游艇机房一口价 + MOQ 1；船级 / 海事认证不声称）— 美国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP（买方清关；NDAA / TAA / UL / 船级不声称）；周三 08–10 当地**；回信即升 A 候选
+- 备注：回访（集成商 25%）；一页纸一次（预付）；坐实（Sunbiz 文件号 + EIN + 状态 + 地址）；country_fix 美国；★ 回信即升。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | Prestige Satellites Communications S.A.C. | 事实（用户表） |
-| 国家 | 秘鲁 | 事实（用户表）|
+| 国家 | 美国 | 事实（用户表）|
 | 网站/域名 | prestigevsat.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 通信集成/经销商 | 推断（据兴趣/备注关键词） |
 | 联系人 | — | 事实（用户表） |
@@ -110,7 +125,8 @@ updated: 2026-10-28
 - **【用户表】买了 MC PoE；记为秘鲁 S.A.C.**
   > 买了MC POE / Prestige Satellites Communications S.A.C. / rob@prestigevsat.com / 外贸邦
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Rob（姓待核）（（用户表邮箱前缀；疑负责人））rob@prestigevsat.com（用户表） —〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Rob（姓待核）（Owner（ZoomInfo：Howell Robert = Rob）= 收件人 — 回访一页纸一次：集成商 25% B、STC-110XGE $65 + STC-228GP $33 / STC-2216GP 游艇机房一口价 + MOQ 1；船级 / 海事认证不声称 — 美国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP（买方清关）、NDAA / TAA / UL 不声称；周三 08–10 当地（第 122 批 官方登记核实 2026-10-29））rob@prestigevsat.com（用户表） —〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：William Bye（President / Registered Agent / Director & Engineer（Sunbiz + ZoomInfo 2026-10-29；无公开邮箱）（第 122 批 官方登记核实 2026-10-29）） 〔〕
 - **调研后定级**：B（原自动 A）——有历史成交但无时间、无互动记录，南美非主攻区 → B 待机回访。
 - 备注：老客户回访一封（STI-110GE + STC-28DGGPM）。
 
@@ -118,10 +134,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | PRESTIGE SATELLITE COMMUNICATIONS INC（Florida P16000009000） |
-| 成立 | 2016-01-26（FL 登记） |
-| 总部/地址 | 2873 SW 14th Street, Fort Lauderdale, FL 33312（登记） |
-| 其他 | 游艇 VSAT/TVRO/IT；用户表后缀 S.A.C.（秘鲁）待核 |
+| 法定名称 | Prestige Satellite Communications Inc.（Florida Profit Corporation；Document No. P16000009000；EIN 81-1222208；ACTIVE） |
+| 成立 | 2016-01-26（第 122 批 官方登记核实 2026-10-29） |
+| 总部/地址 | 2873 SW 14th Street, Fort Lauderdale, FL 33312, USA（第 122 批 官方登记核实 2026-10-29） |
+| 其他 | 游艇 VSAT/TVRO/IT；用户表后缀 S.A.C.（秘鲁）待核；第 122 批：表内「秘鲁 S.A.C.」误 → country_fix 美国（Sunbiz 登记劳德代尔堡）；★ 老客户（买过 MC + PoE）→ **回访一页纸一次；回信即升 A 候选**；坐实（Sunbiz 文件号 + EIN + 状态 + 地址）（第 122 批 官方登记核实 2026-10-29） |
 
 - **业务线**：超级游艇 VSAT / TVRO 安装维护；船载 IT 网络 / 4G-5G
 - **触达通道（公开）**：网站: https://www.prestigevsat.com/；邮箱: rob@prestigevsat.com（用户表）；X: https://twitter.com/Prestigevsat
@@ -172,7 +188,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Rob（姓待核） | （用户表邮箱前缀；疑负责人） | rob@prestigevsat.com（用户表） / — | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Rob（姓待核） | Owner（ZoomInfo：Howell Robert = Rob）= 收件人 — 回访一页纸一次：集成商 25% B、STC-110XGE $65 + STC-228GP $33 / STC-2216GP 游艇机房一口价 + MOQ 1；船级 / 海事认证不声称 — 美国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP（买方清关）、NDAA / TAA / UL 不声称；周三 08–10 当地（第 122 批 官方登记核实 2026-10-29） | rob@prestigevsat.com（用户表） / — | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| William Bye | President / Registered Agent / Director & Engineer（Sunbiz + ZoomInfo 2026-10-29；无公开邮箱）（第 122 批 官方登记核实 2026-10-29） | — | 调研核实（公开页） | 调研 |
 
 - **通道建议**：企业邮箱可直发
 
@@ -207,8 +224,8 @@ updated: 2026-10-28
 
 ## SWOT
 
-- **S**：有成交史，信任与开户成本已付
-- **W**：拉美：物流/收款/汇率摩擦高于主攻区
+- **S**：有成交史，信任与开户成本已付；北美主攻区，复购与口碑可外溢
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STI-144GP 按 25% 档报价，做现供应商的第二货源；规模（调研）：待补证
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
@@ -266,12 +283,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 63）；人工/调研定级 → B
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 63）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

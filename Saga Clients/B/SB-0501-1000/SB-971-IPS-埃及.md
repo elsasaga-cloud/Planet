@@ -24,7 +24,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -71,6 +71,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 122 批（EG · 1 次检索：integrated-ps.com/contacts（171 El Banfseg 7, New Cairo；+2 (02) 23 07 88 03；+2 (010) 21 21 20 27）+ facebook（IPS - Integrated premium solutions；171 El Banafseg 7, First Settlement, Cairo；Info@integrated-ps.com）；登记号未得；2026-10-29，2026-10-29 查；https://integrated-ps.com/contacts/）：**
+
+- 法定名 / 登记号：IPS – Integrated Premium Solutions（integrated-ps.com；**官网 contacts / facebook：171 El Banafseg 7, First Settlement, New Cairo；+20 2 2307 8803 / +20 10 2121 2027；Info@；安防 + 证卡打印 / 跟踪系统方案商（Edikio / Agilia / BENTSAI）**）；登记号 1 查未得 → 部分坐实；自站询盘「4V1D 1080P」= 视频光端机（不供）；KP Ahmed；未跟进 · 未取（商业登记号 1 查未得） · 状态 **营业中（官网在）** · 成立 未取 · LLC（推定）
+- 行业码 / 经营范围：安防 / 证卡打印 / 跟踪方案（新开罗）
+- 注册地址：171 El Banafseg 7, First Settlement, New Cairo, Egypt
+- 规模档：小型
+- 账目：未取；—
+- 高管：Ahmed — 联系人（研究档 KP；ahmed@integrated-ps.com）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **询盘视频光端机（不供）+ 证卡打印为主 → 不动（B 保留；来询按集成商 25% 报 STC-028GP）**— 埃及常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方清关；NTRA 不声称）
+- 备注：不动（产品不对位）；部分坐实（官网地址）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -103,15 +116,17 @@ updated: 2026-10-28
 - **【用户表】4V1D 1080P 自建站询盘**
   > 4V1D 1080P / from: 自建站
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Ahmed（）ahmed@integrated-ps.com 〔用户表〕
+- **KP**：Ahmed（联系人（研究档 KP）— 不动：询盘视频光端机「4V1D」（不供）+ 证卡打印为主 — 埃及常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方清关）、NTRA 不声称（第 122 批 官方登记核实 2026-10-29））ahmed@integrated-ps.com 〔用户表〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 埃及 |
-| 其他 | 官网 integrated-ps.com，语言 en-US，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | IPS – Integrated Premium Solutions（商业登记号 1 查未得） |
+| 成立 | 未取（第 122 批 官方登记核实 2026-10-29） |
+| 总部/地址 | 171 El Banafseg 7, First Settlement, New Cairo, Egypt（+20 2 2307 8803）（第 122 批 官方登记核实 2026-10-29） |
+| 其他 | 官网 integrated-ps.com，语言 en-US，快照状态 ok；角色判定来源：官网文案；第 122 批：**不动（产品不对位）**；部分坐实（官网地址）（第 122 批 官方登记核实 2026-10-29） |
 
 - **业务线**：安防 / 门禁 / 业务方案集成（埃及）
 - **触达通道（公开）**：role: 安防/业务方案集成商（埃及）；region: 埃及；contact: ahmed@integrated-ps.com
@@ -172,7 +187,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ahmed | — | ahmed@integrated-ps.com | 调研核实（公开页） | 用户表 |
+| Ahmed | 联系人（研究档 KP）— 不动：询盘视频光端机「4V1D」（不供）+ 证卡打印为主 — 埃及常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方清关）、NTRA 不声称（第 122 批 官方登记核实 2026-10-29） | ahmed@integrated-ps.com | 调研核实（公开页） | 用户表 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 
@@ -265,12 +280,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 26）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 26）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

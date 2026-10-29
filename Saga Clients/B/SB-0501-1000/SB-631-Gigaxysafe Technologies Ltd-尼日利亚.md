@@ -24,7 +24,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -72,6 +72,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 122 批（NG · 1 次检索：businesslist.com.ng/company/266231（Gigaxysafe Technologies Ltd；Suit 28F Sabondale Shopping Complex, Obafemi Awolowo Way, Jabi, Abuja；+234 803 930 8003；MD kayode.oluwaseyi@gigaxysafe.com.ng；info@gigaxysafe.com.ng）+ spiceworks（registered security technology company；Founded 2012；Employees 10；Incorporated）；RC 未得；2026-10-29，2026-10-29 查；https://www.businesslist.com.ng/company/266231/gigaxysafe-technologies-ltd）：**
+
+- 法定名 / 登记号：Gigaxysafe Technologies Ltd（gigaxysafe.com.ng；**businesslist.com.ng / spiceworks：Suite 28F Sabondale Shopping Complex, Obafemi Awolowo Way, Jabi, Abuja；+234 803 930 8003 / +234 702 500 1983；MD Kayode Oluwaseyi；2012 年成立；约 10 人；注册安防技术公司（通信 / 安防设备进出口、分销、安装）；网店卖 Cisco / PLANET / Ubiquiti / 2.5G 16 口 + 太阳能**）；RC 号 1 查未得 → 部分坐实；自站 RFQ「RUCKUS Cisco Switch」；无跟进 · 未取（CAC RC 号 1 查未得） · 状态 **营业中（网店 2022+）** · 成立 2012 · Ltd
+- 行业码 / 经营范围：安防 / 通信设备进口分销 + 网店（阿布贾）
+- 注册地址：Suite 28F, Sabondale Shopping Complex, Obafemi Awolowo Way, Jabi, Abuja, Nigeria
+- 规模档：微型（约 10 人）
+- 账目：未取；—
+- 高管：Kayode Oluwaseyi — Managing Director（businesslist 2022 公开页；kayode.oluwaseyi@gigaxysafe.com.ng）= 收件人（抄 info@gigaxysafe.com.ng）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **进口分销 + 网店（在售 PLANET / 2.5G）→ 分销 20% B，一页纸一次（STC-028GP $28 / STC-2216GP / STC-2224GP $86 / STC-4424GCPM $165 一口价 + MOQ 1 + 付费样机；在售品牌不点名；2.5G 不报）— 尼日利亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 拉各斯（买方清关；SON / NCC 不声称）**；回信 → 加厚
+- 备注：分销 20%；一页纸一次（预付 100%）；部分坐实（名录地址 + MD + 成立年；RC 未取）。
+
 **官网标价样本（快照 2026-10-21，同句含 switch / PoE 且带币种数字；用来估他们的零售档位，不是我们的报价依据）：**
 
 - TL8125 ← 「5 Gigabit Ethernet Interface Adapter, with Realtek RTL8125B, Support NAS/PC, 2」（https://gigaxysafe.com.ng/products/2-port-2-5gb-pcie-network-card-dual-lan-port-2-5-gigabit-ethernet-interface-adapter-with-realtek-rtl8125b-support-nas-pc-2-5g-nic-compliant-windows-linux-mac-os）
@@ -109,14 +122,17 @@ updated: 2026-10-28
 - **【用户表】RUCKUS Cisco Switch RFQ**
   > RUCKUS Cisco Switch / from: 自建站
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Kayode Oluwaseyi（Managing Director（businesslist.com.ng 公开页 2022；抄 info@gigaxysafe.com.ng）= 收件人 — 一页纸一次：分销 20% B、STC-028GP $28 / STC-2216GP / STC-2224GP $86 / STC-4424GCPM $165 一口价 + MOQ 1 + 付费样机；在售品牌不点名；2.5G 不报 — 尼日利亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 拉各斯、SON / NCC 不声称（第 122 批 官方登记核实 2026-10-29））kayode.oluwaseyi@gigaxysafe.com.ng 〔〕
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 
 | 公司事实 | 内容 |
 |---|---|
-| 总部/地址 | 尼日利亚 |
-| 其他 | 官网 gigaxysafe.com.ng，语言 en，快照状态 ok；角色判定来源：官网文案 |
+| 法定名称 | Gigaxysafe Technologies Ltd（CAC RC 号 1 查未得） |
+| 成立 | 2012（第 122 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Suite 28F, Sabondale Shopping Complex, Obafemi Awolowo Way, Jabi, Abuja, Nigeria（+234 803 930 8003 / +234 702 500 1983）（第 122 批 官方登记核实 2026-10-29） |
+| 其他 | 官网 gigaxysafe.com.ng，语言 en，快照状态 ok；角色判定来源：官网文案；第 122 批：注册安防技术公司（通信 / 安防设备进口分销 + 网店 Cisco / PLANET / Ubiquiti / 2.5G）→ **分销 20% 一页纸一次（预付 100%）**；部分坐实（名录地址 + MD + 成立年）（第 122 批 官方登记核实 2026-10-29） |
 
 - **业务线**：网络 / 安防产品网店
 - **触达通道（公开）**：role: 网络产品网店（尼日利亚，品牌货 RFQ）；region: 尼日利亚；contact: info@gigaxysafe.com.ng
@@ -175,7 +191,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| —（未具名） | 公司级 | info@gigaxysafe.com.ng / +2347025001983 | 用户表原值 | Clients/ 表 |
+| Kayode Oluwaseyi | Managing Director（businesslist.com.ng 公开页 2022；抄 info@gigaxysafe.com.ng）= 收件人 — 一页纸一次：分销 20% B、STC-028GP $28 / STC-2216GP / STC-2224GP $86 / STC-4424GCPM $165 一口价 + MOQ 1 + 付费样机；在售品牌不点名；2.5G 不报 — 尼日利亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 拉各斯、SON / NCC 不声称（第 122 批 官方登记核实 2026-10-29） | kayode.oluwaseyi@gigaxysafe.com.ng | 调研核实（公开页） | 调研 |
 
 - **通道建议**：有电话但 WhatsApp 状态未记：先试加 WhatsApp，再邮件；企业邮箱可直发
 
@@ -211,7 +227,7 @@ updated: 2026-10-28
 ## SWOT
 
 - **S**：自有品牌/贴牌需求 = 现成 OEM 客户
-- **W**：无具名决策人，仍是公司级触达；非洲：物流/收款/汇率摩擦高于主攻区
+- **W**：非洲：物流/收款/汇率摩擦高于主攻区
 - **O**：P1 STC-424XGGM 按 20% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；对位其在用/在卖的 Cisco：涨价、断货或交期拉长时切入
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
@@ -228,7 +244,7 @@ updated: 2026-10-28
 | 门槛 | 状态 |
 |---|---|
 | 需求面成立（在卖/在用交换机或 PoE） | ✅ |
-| 决策人识别 | ❌ 未识别（公司级） |
+| 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ✅ Cisco |
 | 采购量/预算 | ❓ 未确认 |
@@ -245,7 +261,7 @@ updated: 2026-10-28
 **主题**：STC-424XGGM - 24-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
 
 ```text
-Hello,
+Hi Kayode,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Following your Ruckus / Cisco switch request: where a project allows a non-brand access layer, we supply neutral-brand Marvell-based 24-GE + 4×10G L2+ and 8-PoE + 2 SFP switches from small lots, CE/RoHS, EXW USD — would a budget alternative help on any current quote?
 
@@ -270,12 +286,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

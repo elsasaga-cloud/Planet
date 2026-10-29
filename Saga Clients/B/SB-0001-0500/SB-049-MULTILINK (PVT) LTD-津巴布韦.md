@@ -98,6 +98,20 @@ updated: 2026-10-29
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 122 批（ZW · 1 次检索：gravatar.com/newsletter160（SECURICO … acquiring … MultiLink (Pvt) Ltd … 2008 … Electronic Division … second largest electronic security systems provider in Zimbabwe）+ pindula.co.zw（Founded 1998；2008 acquired Multi-Link）+ divinesimbindhlukula.co.zw（Managing Director of DDNS Security Operations (Pvt) Ltd … holding company for SECURICO … MULTI-LINK P/L）；注册号未得；2026-10-29，2026-10-29 查；https://www.pindula.co.zw/Securico_Security_Services）：**
+
+- 法定名 / 登记号：Multi-Link (Pvt) Ltd = SECURICO 电子安防事业部（securico.co.zw；**公开资料：DDNS Security Operations (Pvt) Ltd 为控股公司（SECURICO / Canine / MULTI-LINK P/L），MD Divine Ndhlukula；SECURICO 1998 年创立，2008 年收购 Multi-Link，津巴布韦第二大电子安防系统商；Ebenezer House, 10 Millwood Road, Workington, Harare（研究档）；ISO 9001 / 45001 / 14001；4,300+ 员工**）；注册号 1 查未得 → 部分坐实（大型集团）；表内 **2011–2013 买过光端机（8V1D / 16V1D / 18 机架）+ 多种 FS** = 老客户；KP Samuel Kanoyangwa / Blessing Murondiwa（info@） · 未取（津巴布韦公司注册号 1 查未得） · 状态 **营业中（集团官网 + 公开资料）** · 成立 1998（SECURICO）/ Multi-Link 2008 并入 · (Pvt) Ltd（DDNS Security Operations 控股）
+- 行业码 / 经营范围：电子安防系统（哈拉雷）
+- 注册地址：Ebenezer House, 10 Millwood Road, Workington, Harare, Zimbabwe
+- 规模档：大型（集团 4,300+）
+- 账目：未取；—
+- 高管：Samuel Kanoyangwa / Blessing Murondiwa — 表内联系人（研究档 KP；info@securico.co.zw）= 收件人
+- 高管：Divine Ndhlukula — Managing Director, DDNS Security Operations（公开资料 2026-10-29；无公开邮箱）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **老客户（2011–2013 光端机 + FS）→ 回访一页纸一次（集成商 25%：FS 对位 STI-154GP / STI-288DGGPM $137 工业线 + STC-2216GP / STC-2224GP $86 一口价 + MOQ 1；光端机不供明说）— 津巴布韦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 哈拉雷（买方清关）**；再无回声 → 不动
+- 备注：回访（集成商 25%）；一页纸一次（预付 100%）；部分坐实（集团公开资料 + 地址；注册号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -137,7 +151,8 @@ updated: 2026-10-29
 - **【用户表】2011–2013 成交**
   > 8V1D 16V1D 18机架 11 13年 / 13年买了FS 很多种类的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Samuel Kanoyangwa / Blessing Murondiwa（（用户表联系人；职务待核））info@securico.co.zw（用户表） +263 242 621 956（公司）〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Samuel Kanoyangwa / Blessing Murondiwa（表内联系人（研究档 KP；职务待核）= 收件人 — 回访一页纸一次：集成商 25% B、FS 对位 STI-154GP / STI-288DGGPM $137 + STC-2216GP / STC-2224GP $86 一口价 + MOQ 1；光端机不供明说 — 津巴布韦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 哈拉雷（第 122 批 官方登记核实 2026-10-29））info@securico.co.zw（用户表） +263 242 621 956（公司）〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Divine Ndhlukula（Managing Director, DDNS Security Operations (Pvt) Ltd（控股；公开资料 2026-10-29；无公开邮箱）（第 122 批 官方登记核实 2026-10-29）） 〔〕
 - **调研后定级**：B（原自动 A）——老成交客户（2011–2013）但沉寂 12 年、非洲非主攻区、冷名单无回复 → B 待机。
 - 备注：一封老客户回访邮件（FS 对位 STI 工业线）即可。
 
@@ -145,10 +160,10 @@ updated: 2026-10-29
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | DDNS Security Operations (Private) Ltd t/a SECURICO（Multilink (Pvt) Ltd 为其 2008 年收购的电子事业部） |
-| 成立 | 1998（Securico） |
-| 总部/地址 | Ebenezer House, 10 Millwood Road, Workington, Harare（+263 242 621 956/7；+263 772 140 773/4；info@securico.co.zw） |
-| 其他 | 电子安防（CCTV、报警、门禁、远程监控）+ 保安/押运 |
+| 法定名称 | Multi-Link (Pvt) Ltd = SECURICO 电子安防事业部（控股 DDNS Security Operations (Pvt) Ltd；注册号 1 查未得） |
+| 成立 | 1998（SECURICO）/ 2008 并入（第 122 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Ebenezer House, 10 Millwood Road, Workington, Harare, Zimbabwe（第 122 批 官方登记核实 2026-10-29） |
+| 其他 | 电子安防（CCTV、报警、门禁、远程监控）+ 保安/押运；第 122 批：津巴布韦第二大电子安防系统商；老客户（2011–2013 光端机 + FS）→ **回访一页纸一次（预付 100%）**；部分坐实（集团公开资料 + 地址）（第 122 批 官方登记核实 2026-10-29） |
 
 - **业务线**：电子安防系统集成与监控（原 Multi-Link）；保安、押运、风险管理
 - **触达通道（公开）**：网站: https://www.securico.co.zw/；电话: +263 242 621 956/7（公开）；邮箱（公开）: info@securico.co.zw
@@ -219,7 +234,8 @@ updated: 2026-10-29
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Samuel Kanoyangwa / Blessing Murondiwa | （用户表联系人；职务待核） | info@securico.co.zw（用户表） / +263 242 621 956（公司） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Samuel Kanoyangwa / Blessing Murondiwa | 表内联系人（研究档 KP；职务待核）= 收件人 — 回访一页纸一次：集成商 25% B、FS 对位 STI-154GP / STI-288DGGPM $137 + STC-2216GP / STC-2224GP $86 一口价 + MOQ 1；光端机不供明说 — 津巴布韦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 哈拉雷（第 122 批 官方登记核实 2026-10-29） | info@securico.co.zw（用户表） / +263 242 621 956（公司） | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Divine Ndhlukula | Managing Director, DDNS Security Operations (Pvt) Ltd（控股；公开资料 2026-10-29；无公开邮箱）（第 122 批 官方登记核实 2026-10-29） | — | 调研核实（公开页） | 调研 |
 
 - **通道建议**：企业邮箱可直发
 

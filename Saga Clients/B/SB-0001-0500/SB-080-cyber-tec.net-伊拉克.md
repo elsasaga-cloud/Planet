@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: unreachable  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -77,6 +77,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 122 批（IQ · 1 次检索：「Cyber-Tec Karbala Iraq Sarmad Alwakil」→ 无相关结果（仅 Erbil 同类公司 / 新闻）；2026-10-29，2026-10-29 查；）：**
+
+- 法定名 / 登记号：Cyber-Tec（cyber-tec.net，域名已失效；**1 查无命中 → 未坐实**）— 伊拉克卡尔巴拉小型 IT / 网络公司；KP Sarmad Alwakil（yahoo 备用，WA 已加）；兴趣 TA510-FE 百兆工业收发器（不供）；19 次推送 1 次实质回复 · 未取（1 查无命中） · 状态 **域名失效（存续待核）** · 成立 未取 · 未取
+- 行业码 / 经营范围：IT / 网络（卡尔巴拉）
+- 注册地址：未取（Karbala, Iraq）
+- 规模档：微型（推定）
+- 账目：未取；—
+- 高管：Sarmad Alwakil — 联系人（研究档 KP；sarmad@cyber-tec.net / yahoo）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **需求百兆工业 MC（不供）+ 域名失效 + 19×1 → 不动（B 保留；来询按集成商 25% 报 STI-054GP）**— 伊拉克常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方经迪拜 / 土耳其货代自提清关）
+- 备注：不动（产品不对位 + 存续待核）；未坐实。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -107,7 +120,7 @@ updated: 2026-10-28
 - **【官网快照】域名状态**
   > site_snapshot 2026-10-21：cyber-tec.net unreachable（DNS/连接失败）；web 搜索无该域收录
   > 来源：（data/saga_clients/site_snapshots/SB-080.json）（抓取 2026-10-21）
-- **KP**：Sarmad Alwakil（（职位未核））sarmad@cyber-tec.net / sarmad.karbala@yahoo.com +964 773 610 4911（WA 已加）〔用户 Clients 表〕
+- **KP**：Sarmad Alwakil（联系人（研究档 KP；WA 已加）— 不动：需求百兆工业 MC（不供）+ 域名失效 + 19×1 — 伊拉克常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方经迪拜 / 土耳其货代清关）（第 122 批 官方登记核实 2026-10-29））sarmad@cyber-tec.net / sarmad.karbala@yahoo.com +964 773 610 4911（WA 已加）〔用户 Clients 表〕
 - **调研后定级**：B（原自动 A）——伊拉克非主攻区（收款/物流风险），1 次回复后 18 次无果 → 慢跟。
 - 备注：WA 季度触达。
 
@@ -115,10 +128,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | 待核 |
-| 成立 | 待核 |
-| 总部/地址 | Karbala, Iraq（表内邮箱 sarmad.karbala@yahoo.com） |
-| 其他 | +964 773 610 4911（WA） |
+| 法定名称 | Cyber-Tec（1 查无命中；域名 cyber-tec.net 失效） |
+| 成立 | 未取（第 122 批 官方登记核实 2026-10-29） |
+| 总部/地址 | 未取（Karbala, Iraq）（第 122 批 官方登记核实 2026-10-29） |
+| 其他 | +964 773 610 4911（WA）；第 122 批：**不动（产品不对位 + 存续待核）**；未坐实（第 122 批 官方登记核实 2026-10-29） |
 
 - **业务线**：待核（表内：工业光纤收发器采购）
 - **触达通道（公开）**：contact: Sarmad Alwakil sarmad@cyber-tec.net / sarmad.karbala@yahoo.com，+964 773 610 4911（WA 已加）
@@ -189,7 +202,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Sarmad Alwakil | （职位未核） | sarmad@cyber-tec.net / sarmad.karbala@yahoo.com / +964 773 610 4911（WA 已加） | 调研核实（公开页） | 用户 Clients 表 |
+| Sarmad Alwakil | 联系人（研究档 KP；WA 已加）— 不动：需求百兆工业 MC（不供）+ 域名失效 + 19×1 — 伊拉克常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方经迪拜 / 土耳其货代清关）（第 122 批 官方登记核实 2026-10-29） | sarmad@cyber-tec.net / sarmad.karbala@yahoo.com / +964 773 610 4911（WA 已加） | 调研核实（公开页） | 用户 Clients 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
 
@@ -283,12 +296,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 60）；人工/调研定级 → B
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 60）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

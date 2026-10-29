@@ -3149,7 +3149,7 @@
    "p1": "STC-28DGGPM",
    "tier": 25,
    "signals": 1,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-050": {
@@ -3176,8 +3176,8 @@
   },
   "SB-051": {
    "grade": "B",
-   "iso": "PE",
-   "country": "秘鲁",
+   "iso": "US",
+   "country": "美国",
    "facts": 1,
    "in": 0,
    "out": 0,
@@ -3193,7 +3193,7 @@
    "p1": "STI-144GP",
    "tier": 25,
    "signals": 1,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-052": {
@@ -5789,7 +5789,7 @@
    "p1": "—",
    "tier": 20,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-1063": {
@@ -10409,7 +10409,7 @@
    "p1": "STC-28DGGPM",
    "tier": 20,
    "signals": 1,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-240": {
@@ -13357,7 +13357,7 @@
    "p1": "STC-28DGGPM",
    "tier": 25,
    "signals": 0,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-374": {
@@ -15623,7 +15623,7 @@
    "p1": "STI-054GP",
    "tier": 25,
    "signals": 1,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-477": {
@@ -18510,8 +18510,8 @@
   },
   "SB-608": {
    "grade": "B",
-   "iso": "UZ",
-   "country": "乌兹别克斯坦",
+   "iso": "KZ",
+   "country": "哈萨克斯坦",
    "facts": 1,
    "in": 0,
    "out": 0,
@@ -18989,7 +18989,7 @@
    "p1": "STI-111GP",
    "tier": 25,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-630": {
@@ -19033,7 +19033,7 @@
    "p1": "STC-424XGGM",
    "tier": 20,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-632": {
@@ -26381,7 +26381,7 @@
    "p1": "STC-28DGGPM",
    "tier": 20,
    "signals": 2,
-   "kp": 0,
+   "kp": 1,
    "summary": true
   },
   "SB-966": {
@@ -26953,7 +26953,7 @@
    "p1": "STI-288GPM",
    "tier": 30,
    "signals": 2,
-   "kp": 1,
+   "kp": 2,
    "summary": true
   },
   "SB-992": {

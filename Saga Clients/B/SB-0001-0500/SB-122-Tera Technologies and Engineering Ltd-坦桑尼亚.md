@@ -80,6 +80,20 @@ updated: 2026-10-29
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 122 批（TZ · 1 次检索：ttel.co.tz/about（Tera Technologies and Engineering Limited；Mbezi beach Africana, Plot No. 2283, Block H Tarangire Street, Africana Drive, P.O. Box 31257；+255222701612；Eng.Dr.Daudi Charles Chief Executive Office and Co-Founder）+ devex.com（World Bank / TradeMark Africa 合同；Sinza Block A, Plot No. 173）+ 研究档领英（Certificate of Incorporation No: 85715；2011-09-09）；2026-10-29，2026-10-29 查；https://ttel.co.tz/about）：**
+
+- 法定名 / 登记号：Tera Technologies and Engineering Limited（teratech.co.tz / ttel.co.tz；**公司自述：2011-09-09 依 Companies Act 2002 注册，Certificate of Incorporation No. 85715（领英公司页）；官网 about：Mbezi Beach Africana, Plot No. 2283, Block H, Tarangire Street, Africana Drive, P.O. Box 31257, Dar es Salaam；Tel/Fax +255 22 270 1612；第二办公 Sinza Block A, Plot 173（devex）；CEO & Co-Founder Eng. Dr. Daudi Charles（ERB 注册工程师 2013 起）；约 10 名工程师；世行 / TMA 中标 3 项**）→ 坐实；CRB 一级承包商（电信 / ICT / 安防）；KP Ramadhani Ndijuye（gmail，2024–2025 问 5 电口价、确认千兆、工业 16/24 口「可能会用到」） · Certificate of Incorporation No. 85715（公司自述；BRELA 未核） · 状态 **营业中（官网 + 中标记录）** · 成立 2011-09-09 · Limited
+- 行业码 / 经营范围：电信 / ICT / 安防 / 电力承包（达累斯萨拉姆 + 多多马）
+- 注册地址：Plot No. 2283, Block H, Tarangire Street, Africana Drive, Mbezi Beach, P.O. Box 31257, Dar es Salaam, Tanzania
+- 规模档：小型（11–50）
+- 账目：未取；—
+- 高管：Ramadhani Ndijuye — 联系人（研究档 KP；rndijuye@gmail.com）= 收件人
+- 高管：Eng. Dr. Daudi Charles — CEO & Co-Founder（官网 about 2026-10-29；info@teratech.co.tz）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **CRB 一级 ICT 承包商 + 多次问价 → 集成商 25% B，一页纸一次（STI-054GP / STI-154GP 5 口工业 + STI-288DGGPM $137 / STC-2216GP 16 口 一口价 + MOQ 1 + 付费样机；抄 CEO 公共箱）— 坦桑尼亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 达累斯萨拉姆（买方清关；TBS / TCRA 不声称）**；回信 → 加厚
+- 备注：集成商 25%；一页纸一次（预付 100%）；坐实（证书号 + 官网地址 + CEO）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -117,18 +131,18 @@ updated: 2026-10-29
 - **【用户表】回复：2 光 2 小壳邮件；18 口 2.5G→是 PoE 吗；Marvell 组合→Are they Giga Ethernet Switches；工业 16/24 口→可能会用到**
   > 回复：是PoE吗？；Are they Giga Ethernet Switches；可能会用到
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Ramadhani Ndijuye（）rndijuye@gmail.com +255 769 320 545〔（本地 Clients/ 表格，无公开 URL）〕
-- **KP**：Eng. Daudi Charles（）info@teratech.co.tz +255 754 247 576〔https://ttel.co.tz/about〕
+- **KP**：Ramadhani Ndijuye（联系人（研究档 KP；2024–2025 问 5 电口价 / 确认千兆 / 工业 16–24 口「可能会用到」）= 收件人 — 一页纸一次：集成商 25% B、STI-054GP / STI-154GP + STI-288DGGPM $137 / STC-2216GP 一口价 + MOQ 1 + 付费样机；抄 CEO 公共箱 — 坦桑尼亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 达市、TBS / TCRA 不声称（第 122 批 官方登记核实 2026-10-29））rndijuye@gmail.com +255 769 320 545〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Eng. Daudi Charles（CEO & Co-Founder（官网 about 2026-10-29；ERB 注册工程师）（第 122 批 官方登记核实 2026-10-29））info@teratech.co.tz +255 754 247 576〔https://ttel.co.tz/about〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + LinkedIn + 名录核对））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Tera Technologies and Engineering Limited |
-| 成立 | 2011-09-09 |
-| 总部/地址 | Mbezi Beach / Sinza, Dar es Salaam, Tanzania（P.O. Box 31257） |
-| 其他 | CRB Class One（Telecom/ICT/Security）；ASIS 会员 |
+| 法定名称 | Tera Technologies and Engineering Limited（Certificate of Incorporation No. 85715，公司自述；BRELA 未核） |
+| 成立 | 2011-09-09（第 122 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Plot No. 2283, Block H, Tarangire Street, Africana Drive, Mbezi Beach, P.O. Box 31257, Dar es Salaam, Tanzania（+255 22 270 1612；第二办公 Sinza Block A, Plot 173）（第 122 批 官方登记核实 2026-10-29） |
+| 其他 | CRB Class One（Telecom/ICT/Security）；ASIS 会员；第 122 批：CRB 一级承包商（电信 / ICT / 安防），世行 / TMA 中标 → **集成商 25% 一页纸一次（预付 100%）**；坐实（证书号 + 官网地址 + CEO）（第 122 批 官方登记核实 2026-10-29） |
 
 - **业务线**：电信与微波基础设施（站点建设、企业链路）；ICT 网络与安防系统集成；工业自动化 / IoT；电力 / HVAC；自有软件平台（TeraPay、VTS 车辆追踪）
 - **触达通道（公开）**：role: 系统集成 / 承包商（项目）；region: 坦桑尼亚 + 邻国
@@ -205,8 +219,8 @@ updated: 2026-10-29
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Ramadhani Ndijuye | — | rndijuye@gmail.com / +255 769 320 545 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
-| Eng. Daudi Charles | — | info@teratech.co.tz / +255 754 247 576 | 调研核实（公开页） | https://ttel.co.tz/about |
+| Ramadhani Ndijuye | 联系人（研究档 KP；2024–2025 问 5 电口价 / 确认千兆 / 工业 16–24 口「可能会用到」）= 收件人 — 一页纸一次：集成商 25% B、STI-054GP / STI-154GP + STI-288DGGPM $137 / STC-2216GP 一口价 + MOQ 1 + 付费样机；抄 CEO 公共箱 — 坦桑尼亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 达市、TBS / TCRA 不声称（第 122 批 官方登记核实 2026-10-29） | rndijuye@gmail.com / +255 769 320 545 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Eng. Daudi Charles | CEO & Co-Founder（官网 about 2026-10-29；ERB 注册工程师）（第 122 批 官方登记核实 2026-10-29） | info@teratech.co.tz / +255 754 247 576 | 调研核实（公开页） | https://ttel.co.tz/about |
 | Mr. Ramadhani Ndijuye | — | rndijuye@gmail.com / +255769320545 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；仅免费邮箱：可发，但优先找官网公开的企业邮箱（见调研 KP）

@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -74,6 +74,20 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 122 批（PE · 1 次检索：universidadperu.com/empresas/om-telecom.php（RUC 20600792858；OM TELECOM S.R.L.；Activo；02/Noviembre/2015；CIIU 64207；Av. Ramon Castilla Nro. 1120 Int. 503a, Santiago de Surco；Habido；RNP）+ connectamericas（7 funcionários；Fundado em 2015；Joel Ore CFO）；2026-10-29，2026-10-29 查；https://www.universidadperu.com/empresas/om-telecom.php）：**
+
+- 法定名 / 登记号：OM TELECOM S.R.L.（om-telecom.com；**SUNAT 镜像 universidadperu：RUC 20600792858；Activo / Habido；Fecha Inicio 2015-11-02；CIIU 64207 电信；Dirección Legal Av. Ramón Castilla 1120 Int. 503A, Santiago de Surco, Lima；RNP 政府供应商；connectamericas：7 人、2015、Bureau Veritas 认证；工业电信集成（能源自动化 / 矿业 / 油气：光网络、载波、远动保护、CCTV）**）→ 坐实；KP Clyver Ore M.（Sales Manager，WA 已加；2023-11 问「L3 工业」）/ Joel Ore（CFO）；2 次回复 / 18 次跟进 · RUC 20600792858 · 状态 **Activo / Habido（SUNAT 镜像）** · 成立 2015-11-02 · S.R.L.
+- 行业码 / 经营范围：工业电信集成（利马）
+- 注册地址：Av. Ramón Castilla 1120 Int. 503A, Santiago de Surco, Lima, Peru（办公 Calle Rocca de Vergallo 263 Of. 101, Magdalena）
+- 规模档：微型（7 人）
+- 账目：未取；—
+- 高管：Clyver Ore M. — Sales Manager（研究档 KP；clyver.ore@om-telecom.com；WA 已加）= 收件人
+- 高管：Joel Ore — CFO（connectamericas 2026-10-29 吻合；研究档 KP）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **工业电信集成（矿业 / 能源）+ 曾问 L3 工业 → 集成商 25% B，一页纸一次（工业 L2 管理 STI-288DGGPM $137 / STI-488DGGPM $147 + 机柜侧 STC-4424GCPM $165 L2+ 一口价 + STC-110XGE $65；工业 L3 不供如实说；西语备注）— 秘鲁常规：英文稿（可附西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 利马（买方清关）**；回信 → 加厚
+- 备注：集成商 25%；一页纸一次（预付 100%）；坐实（RUC + 状态 + 成立日 + 法定地址）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -113,8 +127,8 @@ updated: 2026-10-28
 - **【用户表】需求与回复**
   > 客户找光猫+工业MC；2023.11.29 发了商业POE价格册 → L3 industrial managed switch with POE?；2024.3.15 发了L3管理poE型号 → price and model list
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Clyver Ore M.（Sales Manager）clyver.ore@om-telecom.com +51 989 144 163（WA 已加）〔用户 Clients 表〕
-- **KP**：Joel Ore（CFO） 〔connectamericas.com〕
+- **KP**：Clyver Ore M.（Sales Manager（研究档 KP；WA 已加；2023-11 问 L3 工业）= 收件人 — 一页纸一次：集成商 25% B、STI-288DGGPM $137 / STI-488DGGPM $147 工业 L2 管理 + STC-4424GCPM $165 L2+ + STC-110XGE $65 一口价；工业 L3 不供如实说；西语备注 — 秘鲁常规：英文稿（可附西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 利马（第 122 批 官方登记核实 2026-10-29））clyver.ore@om-telecom.com +51 989 144 163（WA 已加）〔用户 Clients 表〕
+- **KP**：Joel Ore（CFO（connectamericas 2026-10-29 吻合）（第 122 批 官方登记核实 2026-10-29）） 〔connectamericas.com〕
 - **调研后定级**：B（原自动 A）——南美非主攻区；需求一半（ONU）Saga 不供，另一半工业 MC 为低客单价；2 次回复后 16 次推送无果 → 慢跟。
 - 备注：WA 一次性报 STI-110GE 工业 MC（分销 20%），不做 ONU。
 
@@ -122,10 +136,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | OM TELECOM S.R.L.（RUC 20600792858） |
-| 成立 | 2015-11-02 |
-| 总部/地址 | Calle Rocca de Vergallo 263, Of. 101, Magdalena/Lima（法定：Av. Ramón Castilla 1120 Int. 503A, Santiago de Surco）；+51 1 711 3192 |
-| 其他 | CFO Joel Ore；登记于秘鲁国家供应商名录（可参与政府采购）；进口经 Callao 空运（电信设备、转换器） |
+| 法定名称 | OM TELECOM S.R.L.（RUC 20600792858；Activo / Habido） |
+| 成立 | 2015-11-02（第 122 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Av. Ramón Castilla 1120 Int. 503A, Santiago de Surco, Lima, Peru（办公 Calle Rocca de Vergallo 263 Of. 101, Magdalena）（第 122 批 官方登记核实 2026-10-29） |
+| 其他 | CFO Joel Ore；登记于秘鲁国家供应商名录（可参与政府采购）；进口经 Callao 空运（电信设备、转换器）；第 122 批：工业电信集成（能源自动化 / 矿业 / 油气），RNP 政府供应商，Bureau Veritas → **集成商 25% 一页纸一次（预付 100%）**；坐实（RUC + 状态 + 成立日 + 法定地址）（第 122 批 官方登记核实 2026-10-29） |
 
 - **业务线**：工业电信：光网络、载波、SDH/PDH 复用、远动保护（电力自动化）；矿业/油气/工业通信系统设计、配置、测试与开通；IP 电话、CCTV、火灾探测、结构化布线；接头盒/连接器/适配器等无源供应
 - **触达通道（公开）**：official: +51 1 711 3192；om-telecom.com；contact: Clyver Ore M.（Sales Manager）clyver.ore@om-telecom.com，+51 989 144 163（WA 已加）；linkedin: pe.linkedin.com/company/omtelecomperu
@@ -199,8 +213,8 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Clyver Ore M. | Sales Manager | clyver.ore@om-telecom.com / +51 989 144 163（WA 已加） | 调研核实（公开页） | 用户 Clients 表 |
-| Joel Ore | CFO | — | 调研核实（公开页） | connectamericas.com |
+| Clyver Ore M. | Sales Manager（研究档 KP；WA 已加；2023-11 问 L3 工业）= 收件人 — 一页纸一次：集成商 25% B、STI-288DGGPM $137 / STI-488DGGPM $147 工业 L2 管理 + STC-4424GCPM $165 L2+ + STC-110XGE $65 一口价；工业 L3 不供如实说；西语备注 — 秘鲁常规：英文稿（可附西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 利马（第 122 批 官方登记核实 2026-10-29） | clyver.ore@om-telecom.com / +51 989 144 163（WA 已加） | 调研核实（公开页） | 用户 Clients 表 |
+| Joel Ore | CFO（connectamericas 2026-10-29 吻合）（第 122 批 官方登记核实 2026-10-29） | — | 调研核实（公开页） | connectamericas.com |
 | Mr.Clyver Ore M. | — | clyver.ore@om-telecom.com / +51989144163 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
@@ -294,12 +308,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 69）；人工/调研定级 → B
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 69）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -26,7 +26,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -73,6 +73,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 122 批（IQ · 1 次检索：dnb.com（WAN COMPANY FOR COMPUTER NETWORK DESIGN AND INSTALLATION AND COMPUTER TRADING LTD.；DBA WAN COMPANY FOR NETWORKING TECHNOLOGY；1st Floor, Ali Namali Building Salim Street Suleimani；Sarwar Ibrahim Saeed Managing Director）+ facebook.com/@WanCompany（founded in Jan 2005；info@wannt.co）+ crunchbase（Founded Jan 3, 2005；wannt.krd）；2026-10-29，2026-10-29 查；https://www.dnb.com/business-directory/company-profiles.wan_company_for_computer_network_design_and_installation_and_computer_trading_ltd.5822f9dba5a299855fa2907040632e17.html）：**
+
+- 法定名 / 登记号：WAN Company for Computer Network Design and Installation and Computer Trading Ltd.（DBA WAN Company for Networking Technology / WAN Networking Technology；wannt.co / wannt.krd；**D&B：1st Floor, Ali Namali Building, Salim Street, Sulaymaniyah；Managing Director Sarwar Ibrahim Saeed（= 研究档 KP ✓）；facebook / crunchbase：2005-01 创立，Teknim 品牌库区代理；在线商店 + WAN Academy + CCTV 展厅**）；登记号 1 查未得 → 部分坐实；表内 **PLANET 合作 10 年、Uniview 3 年**，需求千兆工业 PoE 4 / 8 / 16 口；WA 10 次无实质回复 · 未取（库区公司登记号 1 查未得） · 状态 **营业中（官网 + 社媒 2025）** · 成立 2005-01-03 · Ltd
+- 行业码 / 经营范围：ICT 设备分销 / 集成 + 培训（苏莱曼尼亚）
+- 注册地址：1st Floor, Ali Namali Building, Salim Street, Sulaymaniyah, Kurdistan Region, Iraq
+- 规模档：中小型
+- 账目：未取；—
+- 高管：Sarwar Ibrahim Saeed — Managing Director / CEO（D&B 2026-10-29 吻合；研究档 KP sarwar.ibrahim@wannt.co）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **PLANET 十年伙伴 + 明确需求千兆工业 PoE 4 / 8 / 16 → 分销 20% B，一页纸一次（STI-054GP / STI-288GPM $78.9 / STI-288DGGPM $137 / STI-488DGGPM $147 一口价 + MOQ 1 + 付费样机；PLANET / Uniview 不点名）— 伊拉克常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方经迪拜 / 土耳其货代自提清关）**；回信 → 加厚
+- 备注：分销 20%；一页纸一次（预付 100%）；部分坐实（D&B 法定名 + 地址 + MD；登记号未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -99,17 +112,17 @@ updated: 2026-10-28
 - **【用户表】需要千兆工业 POE 4/8/16 口；和 uniview 合作了三年，和 Planet 合作了 10 年**
   > 兴趣：需要千兆工业POE 4/8/16口 和uniview合作了三年，和Planet合作了10年
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Sarwar Ibrahim Saeed（）sarwar.ibrahim@wannt.co +964 770 436 8880〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Sarwar Ibrahim Saeed（Managing Director / CEO（D&B 2026-10-29 吻合）= 收件人 — 一页纸一次：分销 20% B、千兆工业 PoE 4 / 8 / 16（STI-054GP / STI-288GPM $78.9 / STI-288DGGPM $137 / STI-488DGGPM $147）一口价 + MOQ 1 + 付费样机；PLANET / Uniview 不点名 — 伊拉克常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方经迪拜 / 土耳其货代清关）（第 122 批 官方登记核实 2026-10-29））sarwar.ibrahim@wannt.co +964 770 436 8880〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照核对：PLANET 十年渠道））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | WAN Networking Technology Co. |
-| 成立 | 约 2014（十余年） |
-| 总部/地址 | Sulaymaniyah, Kurdistan Region, Iraq |
-| 其他 | PLANET 10 年伙伴、Uniview 3 年 |
+| 法定名称 | WAN Company for Computer Network Design and Installation and Computer Trading Ltd.（DBA WAN Company for Networking Technology；库区登记号 1 查未得） |
+| 成立 | 2005-01-03（第 122 批 官方登记核实 2026-10-29） |
+| 总部/地址 | 1st Floor, Ali Namali Building, Salim Street, Sulaymaniyah, Kurdistan Region, Iraq（第 122 批 官方登记核实 2026-10-29） |
+| 其他 | PLANET 10 年伙伴、Uniview 3 年；第 122 批：PLANET 十年伙伴 + Teknim 库区代理 + 在线商店 / 培训 / CCTV 展厅 → **分销 20% 一页纸一次（预付 100%）**；部分坐实（D&B 法定名 + 地址 + MD）（第 122 批 官方登记核实 2026-10-29） |
 
 - **业务线**：ICT 分销（网络、CCTV、MikroTik）；集成与培训（WAN Academy）
 - **触达通道（公开）**：role: 区域分销 + 集成商（PLANET 渠道）；region: 伊拉克库尔德斯坦
@@ -185,7 +198,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Sarwar Ibrahim Saeed | — | sarwar.ibrahim@wannt.co / +964 770 436 8880 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Sarwar Ibrahim Saeed | Managing Director / CEO（D&B 2026-10-29 吻合）= 收件人 — 一页纸一次：分销 20% B、千兆工业 PoE 4 / 8 / 16（STI-054GP / STI-288GPM $78.9 / STI-288DGGPM $137 / STI-488DGGPM $147）一口价 + MOQ 1 + 付费样机；PLANET / Uniview 不点名 — 伊拉克常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方经迪拜 / 土耳其货代清关）（第 122 批 官方登记核实 2026-10-29） | sarwar.ibrahim@wannt.co / +964 770 436 8880 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；邮件已推送 10 次无回复 → 换通道（电话 / LinkedIn / 官网表单），不要再发同模板
 
@@ -278,12 +291,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 36）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 36）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

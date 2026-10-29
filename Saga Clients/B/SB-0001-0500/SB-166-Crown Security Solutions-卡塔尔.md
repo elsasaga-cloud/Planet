@@ -26,7 +26,7 @@ price_tier: 20%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -68,6 +68,19 @@ updated: 2026-10-27
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 122 批（QA · 1 次检索：rocketreach.co/mohamed-safeer-email_25509741（Chief Technology Officer @ CROWN SECURITY SOLUTIONS LIMITED / Crown Security Solutions WLL；Qatar；2018 - now；Crown Group 2012–2018）；地址 / CR 未得；2026-10-29，2026-10-29 查；https://rocketreach.co/mohamed-safeer-email_25509741）：**
+
+- 法定名 / 登记号：Crown Security Solutions W.L.L.（卡塔尔；Crown Group；**RocketReach：Mohamed Safeer = Chief Technology Officer（2018 起；2012–2018 Crown Group 技术支持）**；地址 / CR 1 查未得 → 部分坐实（KP 职务坐实）；Cudy 分销商；**提出 200 台工业 5 电口需求**，2025-02 要工业 16 / 24 口 datasheet，2025-10 CPSE 展会面谈；无邮箱（WA） · 未取（CR 号 1 查未得） · 状态 **营业中（展会 2025-10 面谈）** · 成立 未取 · W.L.L.
+- 行业码 / 经营范围：安防分销（多哈；Cudy 分销）
+- 注册地址：未取（Doha, Qatar）
+- 规模档：小型
+- 账目：未取；—
+- 高管：Mohamed Safeer — Chief Technology Officer（RocketReach 2026-10-29；研究档 KP；仅 WA）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **★ 200 台工业 5 电口需求 + 展会面谈 + CTO 为 KP → 分销 20% B，WA 一页纸（STI-054GP / STI-280GE $46.6 ×200 阶梯一口价 + 工业 16 / 24 口 STI-0240GE $130 规格书 + 付费样机；Cudy 不点名）— 卡塔尔常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 多哈（买方清关；CRA 不声称）**；回信即升 A 候选
+- 备注：分销 20%；WA 一页纸 + 规格书（预付 100%）；部分坐实（KP 职务；地址 / CR 未取）；★ 回信即升。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -90,16 +103,17 @@ updated: 2026-10-27
 - **【用户表】兴趣：200 个工业 5 电口；Cudy 的分销商；回复 Datasheet；cpse 展会**
   > 兴趣：200个工业5电口 Cudy的分销商；回复：Datasheet；cpse展会
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Mohamed Safeer（） +974 3362 7118〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Mohamed Safeer（Chief Technology Officer（RocketReach 2026-10-29；Crown Group 2012 起；仅 WA）= 收件人 — WA 一页纸 + 规格书：分销 20% B、STI-054GP / STI-280GE $46.6 ×200 阶梯一口价 + 工业 16 / 24 口 STI-0240GE $130 规格书 + 付费样机；Cudy 不点名 — 卡塔尔常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 多哈、CRA 不声称（第 122 批 官方登记核实 2026-10-29）） +974 3362 7118〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · 无域名 · 仅表内信息）
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | （待核） |
-| 总部/地址 | 卡塔尔 |
-| 其他 | CPSE 2025 到访 |
+| 法定名称 | Crown Security Solutions W.L.L.（Crown Group；地址 / CR 1 查未得） |
+| 成立 | 未取（第 122 批 官方登记核实 2026-10-29） |
+| 总部/地址 | 未取（Doha, Qatar）（第 122 批 官方登记核实 2026-10-29） |
+| 其他 | CPSE 2025 到访；第 122 批：★ 200 台工业 5 电口需求 + 2025-02 要工业 16 / 24 口规格书 + 2025-10 CPSE 面谈 → **分销 20% WA 一页纸（预付 100%）；回信即升 A 候选**；部分坐实（KP 职务）（第 122 批 官方登记核实 2026-10-29） |
 
 - **业务线**：安防 / 网络设备分销（Cudy）
 - **触达通道（公开）**：role: 分销商；region: 卡塔尔
@@ -146,7 +160,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Mohamed Safeer | — | +974 3362 7118 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Mohamed Safeer | Chief Technology Officer（RocketReach 2026-10-29；Crown Group 2012 起；仅 WA）= 收件人 — WA 一页纸 + 规格书：分销 20% B、STI-054GP / STI-280GE $46.6 ×200 阶梯一口价 + 工业 16 / 24 口 STI-0240GE $130 规格书 + 付费样机；Cudy 不点名 — 卡塔尔常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 多哈、CRA 不声称（第 122 批 官方登记核实 2026-10-29） | +974 3362 7118 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；无邮箱：只能电话 / WhatsApp / 官网表单
 
@@ -244,12 +258,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 53）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 53）
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

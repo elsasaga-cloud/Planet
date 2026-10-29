@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -75,6 +75,19 @@ updated: 2026-10-28
 
 **假日避让：** 下一步为「不动」，不排发信，略。
 
+**公司底数 · 第 122 批（BH · 1 次检索：marvelitcs.com（© Marvel Business Consultants Co. W.L.L；Office 0 Building 100 Road 56 Block 203, Muharraq；+973 39885090；sales@marvelitcs.com；17 YEARS）+ namibiayponline 名录（Marvel Business Consultants CO WLL；Network Switches / Access Control）；CR 未得；2026-10-29，2026-10-29 查；https://marvelitcs.com/）：**
+
+- 法定名 / 登记号：Marvel Business Consultants Co. W.L.L.（品牌 Marvel IT Solutions / Marvel ITCS；marvelitcs.com；**官网页脚：Office 0, Building 100, Road 56, Block 203, Muharraq, Bahrain；+973 3988 5090；sales@；自述 17 年；托管 IT + 安防 + 网络交换（名录类目）**）；CR 号 1 查未得 → 部分坐实；KP Nasir（info@；要「Cisco 同款型号」；2024-07 passive PoE 手册回 OK）；2 次回复 / 15 次跟进 · 未取（CR 号 1 查未得） · 状态 **营业中（官网 2026）** · 成立 约 2008（自述 17 年） · W.L.L.
+- 行业码 / 经营范围：托管 IT / 安防 / 网络（穆哈拉格）
+- 注册地址：Office 0, Building 100, Road 56, Block 203, Muharraq, Bahrain
+- 规模档：小型（<50 推定）
+- 账目：未取；—
+- 高管：Nasir — 联系人（研究档 KP；info@marvelitcs.com）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **MSP 要 Cisco 对位 → 集成商 25% B，一页纸一次（CBS / SG 类对位表 → STC-2224GP $86 / STC-4424GCPM $165 L2+ / STC-2216GP 一口价 + MOQ 1 + 付费样机；在用品牌不点名）— 巴林常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 麦纳麦（买方清关；TRA 不声称）**；再无回声 → 不动
+- 备注：集成商 25%；一页纸一次（预付 100%）；部分坐实（官网法定名 + 地址；CR 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -109,7 +122,7 @@ updated: 2026-10-28
 - **【用户表】兴趣：需要 Cisco model；2024-07 passive poe 手册→OK；2025-12 mini→hi**
   > 兴趣：需要Cisco model；回复：OK；hi
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Nasir（）info@marvelitcs.com +973 3617 0186〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Nasir（联系人（研究档 KP；要 Cisco 同款型号）= 收件人 — 一页纸一次：集成商 25% B、CBS / SG 类对位 → STC-2224GP $86 / STC-4424GCPM $165 / STC-2216GP 一口价 + MOQ 1 + 付费样机；在用品牌不点名 — 巴林常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 麦纳麦、TRA 不声称（第 122 批 官方登记核实 2026-10-29））info@marvelitcs.com +973 3617 0186〔（本地 Clients/ 表格，无公开 URL）〕
 - **调研后定级**：B（原自动 A）——需求指向 Cisco 原厂型号（Saga 不供原厂 Cisco），只能以替代方案切入；中东非主攻区 → 慢跟。
 - 备注：WA 一次性给'Cisco CBS/SG 对位 → STC 系列'替代表（分销 20%）；无回应即停。
 
@@ -117,9 +130,10 @@ updated: 2026-10-28
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | Marvel Business Consultants W.L.L.（官网 About 页名；待核） |
-| 总部/地址 | Bahrain |
-| 其他 | sales@marvelitcs.com；+973 3988 5090 |
+| 法定名称 | Marvel Business Consultants Co. W.L.L.（品牌 Marvel IT Solutions；CR 号 1 查未得） |
+| 成立 | 约 2008（自述 17 年）（第 122 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Office 0, Building 100, Road 56, Block 203, Muharraq, Bahrain（+973 3988 5090）（第 122 批 官方登记核实 2026-10-29） |
+| 其他 | sales@marvelitcs.com；+973 3988 5090；第 122 批：托管 IT + 安防 + 网络交换 → **集成商 25% 一页纸一次（预付 100%）**；部分坐实（官网法定名 + 地址）（第 122 批 官方登记核实 2026-10-29） |
 
 - **业务线**：托管 IT / 数据网络 / 机房；CCTV / 门禁 / 人流统计；IP 电话 / 视频会议；网络安全（SOPHOS）；数字营销 / 软件开发
 - **触达通道（公开）**：role: MSP / 安防集成（中小企业客户）；region: 巴林 + 沙特
@@ -200,7 +214,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Nasir | — | info@marvelitcs.com / +973 3617 0186 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Nasir | 联系人（研究档 KP；要 Cisco 同款型号）= 收件人 — 一页纸一次：集成商 25% B、CBS / SG 类对位 → STC-2224GP $86 / STC-4424GCPM $165 / STC-2216GP 一口价 + MOQ 1 + 付费样机；在用品牌不点名 — 巴林常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 麦纳麦、TRA 不声称（第 122 批 官方登记核实 2026-10-29） | info@marvelitcs.com / +973 3617 0186 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Mr. Nasir | — | info@marvelitcs.com / +97336170186 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
@@ -293,12 +307,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 68）；人工/调研定级 → B
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 68）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

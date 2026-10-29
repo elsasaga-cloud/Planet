@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-28
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -87,6 +87,19 @@ updated: 2026-10-28
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 122 批（TZ · 1 次检索：tescom.co.tz（TESCOM COMPANY LIMITED；locally owned ICT and Telecommunication；Kijitonyama, Dar-es-salaam；+255 712 565698；+255 738 261794；info@tescom.co.tz）；BRELA 未得；2026-10-29，2026-10-29 查；http://www.tescom.co.tz/）：**
+
+- 法定名 / 登记号：TESCOM Company Limited（tescom.co.tz；**官网：Kijitonyama, Dar es Salaam；+255 712 565 698 / +255 738 261 794；info@；两条线 = ICT & 电信工程（电子围栏 / 门禁 / CCTV / 电动门 / Wi-Fi）+ 注册专业供应商（安防设备供货）**）；BRELA 号 1 查未得 → 部分坐实；KP Mossad Masheu；需求 1 光 2 电千兆 MC（不供）；WA 1 次无实质回复 · 未取（BRELA 号 1 查未得） · 状态 **营业中（官网在）** · 成立 未取 · Limited
+- 行业码 / 经营范围：ICT / 电信工程 + 安防设备供应（达累斯萨拉姆）
+- 注册地址：Kijitonyama, Dar es Salaam, Tanzania
+- 规模档：小型
+- 账目：未取；—
+- 高管：Mossad Masheu — 联系人（研究档 KP；samuisso@tescom.co.tz）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **安防工程 + 供货两条线 → 集成商 25% B，一页纸一次（STC-028GP $28 / STC-228GP $33 CCTV PoE 一口价 + MOQ 1；千兆 MC 仅 STC-110XGE $65 明说）— 坦桑尼亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 达累斯萨拉姆（买方清关；TBS / TCRA 不声称）**；再无回声 → 不动
+- 备注：集成商 25%；一页纸一次（预付 100%）；部分坐实（官网地址 + 电话；BRELA 未取）。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -112,15 +125,17 @@ updated: 2026-10-28
 - **【用户表】MC 1 光 2 电千兆**
   > 兴趣：MC1光2电千兆
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **KP**：Mossad Masheu（）samuisso@tescom.co.tz +255 712 565 698〔（本地 Clients/ 表格，无公开 URL）〕
+- **KP**：Mossad Masheu（联系人（研究档 KP）= 收件人 — 一页纸一次：集成商 25% B、STC-028GP $28 / STC-228GP $33 CCTV PoE 一口价 + MOQ 1；千兆 MC 仅 STC-110XGE $65 明说 — 坦桑尼亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 达市、TBS / TCRA 不声称（第 122 批 官方登记核实 2026-10-29））samuisso@tescom.co.tz +255 712 565 698〔（本地 Clients/ 表格，无公开 URL）〕
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 表内））
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | TESCOM Company Limited |
-| 总部/地址 | Tanzania |
+| 法定名称 | TESCOM Company Limited（BRELA 号 1 查未得） |
+| 成立 | 未取（第 122 批 官方登记核实 2026-10-29） |
+| 总部/地址 | Kijitonyama, Dar es Salaam, Tanzania（+255 712 565 698 / +255 738 261 794）（第 122 批 官方登记核实 2026-10-29） |
+| 其他 | 第 122 批：ICT / 电信工程 + 注册专业供应商两条线 → **集成商 25% 一页纸一次（预付 100%）**；部分坐实（官网地址）（第 122 批 官方登记核实 2026-10-29） |
 
 - **业务线**：ICT 服务 / 安防安装 / 办公设备
 - **触达通道（公开）**：role: 安装 / 服务商；region: 坦桑尼亚
@@ -176,7 +191,7 @@ updated: 2026-10-28
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Mossad Masheu | — | samuisso@tescom.co.tz / +255 712 565 698 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+| Mossad Masheu | 联系人（研究档 KP）= 收件人 — 一页纸一次：集成商 25% B、STC-028GP $28 / STC-228GP $33 CCTV PoE 一口价 + MOQ 1；千兆 MC 仅 STC-110XGE $65 明说 — 坦桑尼亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 达市、TBS / TCRA 不声称（第 122 批 官方登记核实 2026-10-29） | samuisso@tescom.co.tz / +255 712 565 698 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
 | Mr.Mossad Masheu | — | samuisso@tescom.co.tz / +255712565698 | 用户表原值·WhatsApp 已加 | Clients/ 表 |
 
 - **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；企业邮箱可直发
@@ -271,12 +286,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-27**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-28：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
 
 ---
 
-*建档日期：2026-10-28　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

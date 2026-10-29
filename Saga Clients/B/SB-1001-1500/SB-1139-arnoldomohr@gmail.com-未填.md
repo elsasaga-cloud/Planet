@@ -28,7 +28,7 @@ price_tier: 30%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-27
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -99,6 +99,19 @@ updated: 2026-10-27
 
 - 窗口内无该国法定假日
 
+**公司底数 · 第 122 批（0 查（gmail + 无公司；人名 1 查无命中）；2026-10-29，2026-10-29 查；）：**
+
+- 法定名 / 登记号：Arnoldo Beltetón Mohr（arnoldomohr@gmail.com；Solution Architect 署名；**无公司 / 国别（姓氏 Beltetón 多见于危地马拉，待证）→ 0 查（1 次人名检索仅 facebook 同名 + 1980 年代同姓部长）**）— **A 邮箱 2025-04 起 8 轮群发后 2026-01-15 真回「CENTEC could be a great alternative in our market」，2026-03-10 带终端客户需求：Cisco C9300L-48P-4X 等价物（48×1G PoE+ + 4×10G SFP+，8 台堆叠 320 Gbps）** — 仓内唯一把 STH1G（CENTEC 48×1G PoE 堆叠线）谈到参数层面的客户 · 0 查 · 状态 **互动中（2026-01 / 03 两次真回）** · 成立 — · 未知
+- 行业码 / 经营范围：方案架构（国别待核；疑危地马拉）
+- 注册地址：未取
+- 规模档：未知
+- 账目：未取；—
+- 高管：Arnoldo Beltetón Mohr — Solution Architect（研究档 KP；arnoldomohr@gmail.com）= 收件人
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **★ CENTEC 堆叠线真实需求 → 建议升 A（Simon 定）；集成商 25% B 先行：一页纸（STH1G 48×1G PoE+ + 4×10G SFP+ 堆叠 按主表报 + 堆叠带宽 / PoE 预算 / 交期如实 + 付费样机；FOB 深圳；国别一句话问清）**；回信即升
+- 备注：集成商 25%（CENTEC STH1G）；一页纸 + 补答（预付 100%）；0 查；★ 建议升 A。
+
 ## 基本事实（事实/推断/假设分层）
 
 | 项 | 内容 | 层级 |
@@ -135,7 +148,7 @@ updated: 2026-10-27
 - **【邮件（去）】Alan 锁定 STH-2QX4DX48GP-HSI 并给堆叠参数，问数量**
   > max 8 units… 360Gbps… 2*40G and 4*25G… chain and ring… what is the quantity you need?
   > 来源：gmail_a data/gmail_a/messages/2026/2026-01.jsonl / 2026-03.jsonl（线程 OEM Core Switching Solution）（抓取 2026-03-12）
-- **KP**：Arnoldo Beltetón Mohr（）arnoldomohr@gmail.com 〔gmail_a data/gmail_a/messages/2026/2026-01.jsonl / 2026-03.jsonl（线程 OEM Core Switching Solution）〕
+- **KP**：Arnoldo Beltetón Mohr（Solution Architect（研究档 KP；2026-01-15 真回 CENTEC「great alternative in our market」；2026-03-10 带 C9300L-48P-4X 等价 8 台堆叠需求）= 收件人 — 一页纸 + 补答：STH1G 48×1G PoE+ + 4×10G SFP+ 堆叠 按主表报 + 堆叠带宽 / PoE 预算 / 交期如实 + 付费样机；FOB 深圳；一句话问国别 （第 122 批 官方登记核实 2026-10-29））arnoldomohr@gmail.com 〔gmail_a data/gmail_a/messages/2026/2026-01.jsonl / 2026-03.jsonl（线程 OEM Core Switching Solution）〕
 - **调研后定级**：B（原自动 C）——5 封实质来信（2026-01 ×2、03 ×3），带终端客户具体型号（C9300L-48P-4X 等价 + 堆叠）进入 CENTEC STH1G 选型，停在「数量？」；gmail 地址导致自动 C，按证据升 B（慢慢跟进）。
 - 备注：国别未填：信中「our market」未点名；姓氏 Beltetón 多见于危地马拉（待证）。非欧美土主攻，但是仓内唯一一个把 STH1G（CENTEC 48×1G PoE 堆叠线）谈到参数层面的客户（另一个是 SB-826 Versitron，只发未回）。
 
@@ -143,9 +156,10 @@ updated: 2026-10-27
 
 | 公司事实 | 内容 |
 |---|---|
-| 法定名称 | （未知；gmail 联系人） |
-| 总部/地址 | （未填） |
-| 其他 | Solution Architect 署名；2026-03 为终端客户选型 |
+| 法定名称 | 未取（0 查：gmail + 无公司；人名 1 查无命中；姓氏 Beltetón 多见危地马拉，待证） |
+| 成立 | 未取（第 122 批 官方登记核实 2026-10-29） |
+| 总部/地址 | 未取（国别待核）（第 122 批 官方登记核实 2026-10-29） |
+| 其他 | Solution Architect 署名；2026-03 为终端客户选型；第 122 批：★ 仓内唯一把 CENTEC STH1G 谈到参数层面的客户 → **建议升 A（Simon 定）；先按集成商 25% 一页纸 + 补答**；0 查（第 122 批 官方登记核实 2026-10-29） |
 
 - **触达通道（公开）**：role: 方案商 / 项目经理；region: （未填；疑危地马拉）
 - **风险/边界**：终端客户是否已选其他品牌不明（03-12 后无回）；STH1G 仓内无价（主表/CENTEC Q2 xls 均无 STH-2QX4DX 行）——报价要 Simon 自己定；gmail 联系人，公司实体不明
@@ -192,7 +206,7 @@ updated: 2026-10-27
 
 | 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
 |---|---|---|---|---|
-| Arnoldo Beltetón Mohr | — | arnoldomohr@gmail.com | 调研核实（公开页） | gmail_a data/gmail_a/messages/2026/2026-01.jsonl / 2026-03.jsonl（线程 OEM Core Switching Solution） |
+| Arnoldo Beltetón Mohr | Solution Architect（研究档 KP；2026-01-15 真回 CENTEC「great alternative in our market」；2026-03-10 带 C9300L-48P-4X 等价 8 台堆叠需求）= 收件人 — 一页纸 + 补答：STH1G 48×1G PoE+ + 4×10G SFP+ 堆叠 按主表报 + 堆叠带宽 / PoE 预算 / 交期如实 + 付费样机；FOB 深圳；一句话问国别 （第 122 批 官方登记核实 2026-10-29） | arnoldomohr@gmail.com | 调研核实（公开页） | gmail_a data/gmail_a/messages/2026/2026-01.jsonl / 2026-03.jsonl（线程 OEM Core Switching Solution） |
 | Mr. Arnoldo Beltetón | — | arnoldomohr@gmail.com | 用户表原值 | Clients/ 表 |
 
 - **通道建议**：仅免费邮箱：可发，但优先找官网公开的企业邮箱（见调研 KP）
@@ -293,12 +307,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-26**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-27：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -18）；人工/调研定级 → B
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -18）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-27　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
