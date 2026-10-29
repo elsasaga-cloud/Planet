@@ -2,12 +2,15 @@
 
 > **评级 C**　|　印度　|　档案编号 `SC-1344`　|　优先级 —　|　状态：名单内·未触达
 >
+> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：印度 Excell Media（excellmedia.net；从 Volktek 买 2 光 8 管理）：进口台湾同类 ✔ 对位 ✔（STC-228GP 同口型）Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先
+>
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(富通天下)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-1344
 rating: C
 rating_auto: C
+sieve: candidate  # 闸 1 G1 2026-10-29
 score: 11
 country: 印度
 region: 南亚
@@ -24,7 +27,7 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -133,8 +136,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 11）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 11）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
