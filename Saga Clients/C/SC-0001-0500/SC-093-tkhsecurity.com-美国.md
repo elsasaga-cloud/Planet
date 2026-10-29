@@ -2,12 +2,15 @@
 
 > **评级 C**　|　美国　|　档案编号 `SC-093`　|　优先级 —　|　状态：已推送 25 次·未回复
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：TKH Security（荷兰上市 TKH Group，多国办事处）→ 上市集团体量过大；25 推 0 回
+>
 > **类型**：上市集团旗下安防方案商（推断）　|　**历史关系**：推送 25 次（2024-04-29 → 2025-11-04）　|　**所在清单**：A优质名单(US)、A优质名单(其他优质欧洲客户)、AI评估(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-093
 rating: C
 rating_auto: B
+sieve: keep_C  # 闸 1 G1 2026-10-29
 rating_research: C  # 上市集团：TKH Security（TKH Group 旗下），体量过大；c_sub=上市集团/体量过大
 score: 38
 country: 美国
@@ -26,7 +29,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -229,8 +232,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 38）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 38）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

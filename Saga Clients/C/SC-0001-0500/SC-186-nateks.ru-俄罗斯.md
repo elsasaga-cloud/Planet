@@ -2,12 +2,15 @@
 
 > **评级 C**　|　俄罗斯　|　档案编号 `SC-186`　|　优先级 —　|　状态：已推送 18 次·未回复
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：俄罗斯 Nateks（本土研发制造、国产替代定位，35+ 年）→ 俄产同行厂商；18 推 0 回　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+>
 > **类型**：俄罗斯本土通信设备研发制造商（同行/国产替代导向）（推断）　|　**历史关系**：推送 18 次（2024-05-03 → 2025-10-31）　|　**所在清单**：A优质名单(优质俄罗斯客户)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-186
 rating: C
 rating_auto: B
+sieve: keep_C  # 闸 1 G1 2026-10-29
 rating_research: C  # 同行/俄国产替代厂商：Nateks 自研自产（国产替代定位），非渠道客户；c_sub=同行/专营俄产
 score: 30
 country: 俄罗斯
@@ -26,7 +29,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -204,8 +207,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 30）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 30）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

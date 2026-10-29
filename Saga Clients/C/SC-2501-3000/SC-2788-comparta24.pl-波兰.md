@@ -2,12 +2,15 @@
 
 > **评级 C**　|　波兰　|　档案编号 `SC-2788`　|　优先级 —　|　状态：已推送 7 次·未回复
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：波兰 Comparta24（工业 FS 自有牌子，有小壳）→ 波兰贴牌渠道；表记 Spam = 不宜骚扰；7 推 0 回 → oem_target　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+>
 > **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：推送 7 次（2025-03-20 → 2025-10-10）　|　**所在清单**：A优质名单(PL)、AI评估(PL)·DONE、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-2788
 rating: C
 rating_auto: C
+sieve: keep_C  # 闸 1 G1 2026-10-29
 score: -40
 country: 波兰
 region: 欧洲
@@ -25,7 +28,7 @@ price_tier: 30%
 research: pending
 site_snapshot: none
 sources: 3
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -161,8 +164,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 C，分数 -40）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 C，分数 -40）
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

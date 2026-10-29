@@ -2,12 +2,15 @@
 
 > **评级 C**　|　美国　|　档案编号 `SC-047`　|　优先级 —　|　状态：已推送 10 次·未回复
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：德国 Indu-Sol 美国公司（PROMESH 工业交换机为德国自产）→ 厂商海外销售机构，非 OEM 买家
+>
 > **类型**：厂商海外公司（Indu-Sol PROMESH，自产）（推断）　|　**历史关系**：推送 10 次（2025-02-21 → 2025-10-22）　|　**所在清单**：A优质名单(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-047
 rating: C
 rating_auto: B
+sieve: keep_C  # 闸 1 G1 2026-10-29
 rating_research: C  # 厂商海外公司：德国 Indu-Sol GmbH 自产 PROMESH 工业交换机，美国公司为销售/服务机构，非 OEM 买家；c_sub=厂商办事处/同行
 score: 44
 country: 美国
@@ -26,7 +29,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-24
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -199,8 +202,8 @@ updated: 2026-10-24
 
 ## 变更日志
 
-- 2026-10-24：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 44）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 44）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-24　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

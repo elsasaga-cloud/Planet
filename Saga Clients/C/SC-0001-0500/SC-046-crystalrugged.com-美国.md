@@ -2,12 +2,15 @@
 
 > **评级 C**　|　美国　|　档案编号 `SC-046`　|　优先级 —　|　状态：已推送 10 次·未回复
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：美国 Crystal Group：国防加固服务器 / 军用 PoE 交换机制造商（AS9100D）→ 军工守界 + 自研厂商
+>
 > **类型**：国防加固计算制造商（军工）（推断）　|　**历史关系**：推送 10 次（2025-02-05 → 2025-10-23）　|　**所在清单**：A优质名单(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-046
 rating: C
 rating_auto: B
+sieve: keep_C  # 闸 1 G1 2026-10-29
 rating_research: C  # 守界：美国国防加固计算制造商（Crystal Group，军用 PoE 交换机）；c_sub=守界：军工
 score: 44
 country: 美国
@@ -26,7 +29,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-25
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -215,8 +218,8 @@ updated: 2026-10-25
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 44）；人工/调研定级 → C
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 44）；人工/调研定级 → C
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

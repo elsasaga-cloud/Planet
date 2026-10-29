@@ -3,12 +3,15 @@
 
 > **评级 C**　|　中国大陆　|　档案编号 `SC-3418`　|　优先级 —　|　状态：名单内·未触达
 >
+> **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：国内光通信贸易商 ZhenHui Optical（Tina，163 邮箱，连要电话被 Alan 拒）→ 中国大陆规则（国内单只走私账）；不判死　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+>
 > **类型**：国内贸易商（替其客户采购）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：补录、Q-44复跑、国内　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-3418
 rating: C
 rating_auto: C
+sieve: keep_C  # 闸 1 G1 2026-10-29
 name_official: "ZhenHui Optical（发件名；huili0126@163.com，Tina，+86 15989404908）"
 score: -15
 country: 中国大陆
@@ -27,7 +30,7 @@ price_tier: 30%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-25
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -173,8 +176,8 @@ updated: 2026-10-25
 
 ## 变更日志
 
-- 2026-10-25：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -15）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -15）
 
 ---
 
-*建档日期：2026-10-25　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
