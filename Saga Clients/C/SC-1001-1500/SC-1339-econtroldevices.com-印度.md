@@ -2,7 +2,7 @@
 
 > **评级 C**　|　印度　|　档案编号 `SC-1339`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：印度 eControl Devices（econtroldevices.com；Atop 的工业 FS）：进口台湾同类 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：△ 观察档 · 分销 20% + 预付 100%：Econtrol Devices Pvt Ltd（Faridabad；CIN U51909HR2019PTC081687；2019；₹1 lakh；<₹1 Cr；董事 Rekha Sorout = 登记邮箱 决策人直达）坐实但微型；进口台湾工业线 ✔ 对位 ✔ → 入池观察档；可否决
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:India　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1339
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 11
 country: 印度
 region: 南亚
@@ -39,6 +39,30 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STI-288DGGPM（工业 L2+ 8 PoE + 2×2.5G SFP）
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `econtroldevices.com` → Zoho Mail（MX：mx.zoho.com、mx2.zoho.com、mx3.zoho.com）。中小企业云邮箱（Zoho Mail）：过滤中等、像素一般可用；这类公司邮箱通常老板或销售本人收，信要短、带型号和一口价
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 130 批（IN · 1 次检索：zaubacorp（CIN / 董事 / 地址）+ tofler（PAN / 营收档 / 登记邮箱）+ thecompanycheck；2026-10-29，2026-10-29 查；https://www.tofler.in/econtrol-devices-private-limited/company/U51909HR2019PTC081687）：**
+
+- 法定名 / 登记号：Econtrol Devices Private Limited（econtroldevices.com；**CIN U51909HR2019PTC081687；PAN AAFCE5794H；2019-07-29 登记；ROC Delhi；实收 ₹1 lakh；FY22 营收 <₹1 Cr；Plot No-A2, BPTP District-1, Block-B, Sector-81, Faridabad, Haryana 121002；董事 Rekha Sorout（MCA 登记邮箱 rekha.sorout@econtroldevices.com）/ Amit Kumar；其他批发**）；表内：Atop（台湾）工业交换机进口 · U51909HR2019PTC081687（CIN） · 状态 **Active（MCA 2026）** · 成立 2019-07-29 · Private Limited
+- 行业码 / 经营范围：工业网络设备批发（法里达巴德）
+- 注册地址：Plot No-A2, BPTP District-1, Block-B, Sector-81, Faridabad, Haryana 121002
+- 规模档：微型（₹1 lakh；<₹1 Cr）
+- 账目：未取；—
+- 高管：Rekha Sorout — Director（rekha.sorout@econtroldevices.com = MCA 登记邮箱）
+- 高管：Amit Kumar — Director
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **微型进口商 → 分销 20% + 预付 100%：点名 Rekha Sorout 一页纸一次（STI-280GE $46.6 / STI-288GPM $78.9 + MOQ 1 + 付费样机；Atop 不点名）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST**
+- 备注：分销 20% + 预付 100%；P 池候选 △（进口台湾工业线 ✔ 对位 ✔ 坐实 ✔ 但微型 → 观察档）；坐实。
 
 ## 基本事实（事实/推断/假设分层）
 

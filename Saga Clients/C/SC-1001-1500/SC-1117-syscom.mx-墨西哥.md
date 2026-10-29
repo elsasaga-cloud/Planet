@@ -2,7 +2,7 @@
 
 > **评级 C**　|　墨西哥　|　档案编号 `SC-1117`　|　优先级 —　|　状态：已推送 1 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：墨西哥 SYSCOM（syscom.mx；拉美大型安防 / 网络分销，Hasivo 的工业 FS）：进口中国同类 ✔ 对位 ✔ 大分销主体；推 1 次 0 回 → 闸 2 查底数（D&B）；拉美非点名国，长线低优先
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 巨头分销 20%（长线）：SYSCOM = Sistemas y Servicios de Comunicación, S.A. de C.V.（Chihuahua；501–1000 人；电信 + 安防批发）坐实（法人名 + 地址；RFC 未取）；巨型分销 ✔ 对位 ✔ → P 池候选（找网络产品线经理；长线）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 1 次（2025-10-14 → 2025-10-14）　|　**所在清单**：E冷名单(墨西哥)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1117
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 15
 country: 墨西哥
 region: 拉美
@@ -39,6 +39,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STI-288DGGPM（工业 L2+ 8 PoE + 2×2.5G SFP）
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `syscom.mx` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、aspmx2.googlemail.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 130 批（MX · 1 次检索：crunchbase（法人名 / 规模）+ mexicopymes / directorioempresarialmexico（razón social / 地址 / 行业）；RFC 未取；2026-10-29，2026-10-29 查；https://www.crunchbase.com/organization/syscom-73a0）：**
+
+- 法定名 / 登记号：SYSCOM = Sistemas y Servicios de Comunicación, S.A. de C.V.（syscom.mx；**Chihuahua：Av. 20 de Noviembre 805, Col. Centro 31000 / Calle Sexta 3407, Col. Santa Rosa 31050；501–1000 人（crunchbase）；电信 + 电子安防批发（comercio al por mayor de equipo de telecomunicaciones）；RFC 未取**）；表内：墨西哥最大电信 / 安防分销之一 · 未取（RFC 未查） · 状态 **营业中（目录 2020 / crunchbase 2026）** · 成立 未取 · S.A. de C.V.
+- 行业码 / 经营范围：电信 / 安防批发分销（奇瓦瓦）
+- 注册地址：Av. 20 de Noviembre 805, Col. Centro, Chihuahua 31000
+- 规模档：巨型（501–1000 人）
+- 账目：未取；—
+- 高管：（具名 KP 未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **巨头分销 20%（长线）：找网络产品线经理一页纸一次（STC-028GP / STC-228GP / STC-2224GP 分销价 + MOQ 1 + 付费样机；DAP 买方清关）— 其他区常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP 买方清关；周二 / 周四 当地 10–12**
+- 备注：分销 20%；P 池候选 ★ 长线（巨型分销 ✔ 对位 ✔ 坐实（法人名 + 地址）✔；巨头难进 → 长线）；坐实。
 
 ## 基本事实（事实/推断/假设分层）
 

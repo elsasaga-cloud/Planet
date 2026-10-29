@@ -4,7 +4,7 @@
   "source": "대한민국 · 사업자등록 / 名錄摘要（DART 僅上市）",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 3
+  "count": 8
  },
  "rows": {
   "SA-010": {
@@ -103,6 +103,156 @@
    ],
    "notes": "回 C 储备 + dayjob_fit（复购但 hanmail 0 查未坐实；待 Q-70）。",
    "code": "SC-296"
+  },
+  "SC-185": {
+   "batch": 130,
+   "name": "(주)다산네트웍스 DASAN Networks, Inc.（dasannetworks.com；**사업자등록번호 129-81-16613；법인등록번호 110111-0924765；KOSDAQ 039560；1993-03-04 설립；대표 남민우 Nam Min Woo；DASAN Tower 10F, 49 Daewangpangyo-ro 644beon-gil, Bundang-gu, Seongnam, Gyeonggi 13493；070-7010-1000；유선 통신장비 제조；44 人在册（控股层面）**）；表内：长期进口三旺工业交换机；具名 KP 在",
+   "iso": "KR",
+   "fetched": "2026-10-29",
+   "source": "KR · 1 次检索：bizno.net/article/1298116613（사업자 / 법인번호 / 대표 / 주소）+ englishdart.fss.or.kr（KOSDAQ 039560 / 1993）；2026-10-29",
+   "url": "https://englishdart.fss.or.kr/dsbc001/selectPopup.ax?selectKey=00268251",
+   "number": "129-81-16613（사업자등록번호）/ 110111-0924765（법인등록번호）",
+   "status": "계속사업자（KOSDAQ 上市）",
+   "incorporated": "1993-03-04",
+   "company_type": "주식회사（上市）",
+   "sic": [
+    "有线通信设备制造（城南板桥）"
+   ],
+   "address": "DASAN Tower 10F, 49 Daewangpangyo-ro 644beon-gil, Bundang-gu, Seongnam-si, Gyeonggi-do 13493",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "大型（上市集团；DZS 母体）",
+   "officers": [
+    "남민우 Nam Min Woo — 대표이사"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**上市设备商贴牌 / 配套 → OEM 30%（长线）：点名表内 KP 一页纸一次（STI-288GPM / STI-488DGGPM 工业线 + STC-4424GCPM 贴牌 + 中性包装；三旺不点名；无 KC 买方自证）— 韩国常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳；无 KC（买方自行认证，SDT 先例）；周二 / 周四 10–12 KST**"
+   ],
+   "notes": "OEM 30%；P 池候选 ★ 长线（上市品牌商 ✔ 已进口中国工业线 ✔ 对位 ✔ 坐实 ✔）；坐实（DART）。",
+   "code": "SC-185"
+  },
+  "SC-387": {
+   "batch": 130,
+   "name": "(주)디지타스 DGTAS（dgtas.co.kr；**官网页脚：사업자등록번호 114-87-02536；대표 최상윤；경기도 안산시 단원구 범지기로 147；TEL 031-455-0017 / FAX 031-491-0420；DGTAS@DGTAS.CO.KR；AHD / IP / 特种摄像机 R&D 制造 + 整新（Refurbishment）业务**）；表内：摄像机厂，微信路径在",
+   "iso": "KR",
+   "fetched": "2026-10-29",
+   "source": "KR · 1 次检索：dgtas.co.kr（页脚 사업자 / 대표 / 地址 / 产品页）；2026-10-29",
+   "url": "https://www.dgtas.co.kr/page/page11",
+   "number": "114-87-02536（사업자등록번호）",
+   "status": "营业中（官网 2026）",
+   "incorporated": "未取",
+   "company_type": "주식회사",
+   "sic": [
+    "摄像机 R&D 制造（安山）"
+   ],
+   "address": "경기도 안산시 단원구 범지기로 147",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型 / 中型（制造 + 整新）",
+   "officers": [
+    "최상윤 — 대표"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**摄像机厂配套 PoE → OEM 30%：微信 / 邮件一页纸一次（STC-028GP $28 / STC-228GP $33 贴牌 DGTAS + 中性包装 + MOQ 1 + 付费样机）— 韩国常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳；无 KC（买方自行认证，SDT 先例）；周二 / 周四 10–12 KST**"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（制造商 ✔ 微信路径 ✔ 对位 ✔ 坐实 ✔）；坐实（官网页脚）。",
+   "code": "SC-387"
+  },
+  "SC-493": {
+   "batch": 130,
+   "name": "(주)아이디스 IDIS Co., Ltd.（Intelligent Digital Integrated Security Co., Ltd.；idisglobal.com / idis.co.kr；**사업자 314-86-25786；법인 160111-0302755；1997-09-24 설립（2011-07-01 인적분할 신설）；대표 김영달；대전 유성구 테크노3로 8-10（관평동）34012；031-723-5000；409 人；KOSDAQ**）；表内：韩国监控品牌龙头，自有 PoE 配套",
+   "iso": "KR",
+   "fetched": "2026-10-29",
+   "source": "KR · 1 次检索：bizno.net/article/3148625786（사업자 / 법인 / 대표 / 주소 / 409 人）+ IDIS Holdings 사업보고서（1997 / 分割）；2026-10-29",
+   "url": "https://bizno.net/article/3148625786",
+   "number": "314-86-25786（사업자등록번호）/ 160111-0302755（법인등록번호）",
+   "status": "계속사업자（KOSDAQ 上市）",
+   "incorporated": "1997-09-24",
+   "company_type": "주식회사（上市）",
+   "sic": [
+    "视频监控设备制造（大田）"
+   ],
+   "address": "대전광역시 유성구 테크노3로 8-10（관평동）34012",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "大型（409 人；上市）",
+   "officers": [
+    "김영달 — 대표이사"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**监控品牌龙头 → OEM 30%（长线）：找硬件采购一页纸一次（STC-228GP / STC-2224GP 贴牌 IDIS + 中性包装 + MOQ 1；无 KC 买方自证）— 韩国常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳；无 KC（买方自行认证，SDT 先例）；周二 / 周四 10–12 KST**"
+   ],
+   "notes": "OEM 30%；P 池候选 ★ 长线（上市品牌商 ✔ 对位 ✔ 坐实 ✔）；坐实。",
+   "code": "SC-493"
+  },
+  "SC-1191": {
+   "batch": 130,
+   "name": "(주)씨앤지시스템 CNG System（cngsystem.com → dialogic.co.kr；**站点标题「::: CNG System ::: ㈜씨앤지시스템」；服务器定位 Seoul 동작구；Dialogic / AudioCodes / Sangoma 通信卡 / 录音板分销；사업자 未取（同名 주식회사 씨앤지 127-86-49224 为杨州金属加工，不采）**）；表内：问过 CENTEC 交换机；support@dialogic.co.kr",
+   "iso": "KR",
+   "fetched": "2026-10-29",
+   "source": "KR · 1 次检索：dialogic.co.kr.siteindices.com（站点标题 / 定位）；bolta 同名不对应；사업자 未取；2026-10-29",
+   "url": "https://dialogic.co.kr.siteindices.com/",
+   "number": "未取（사업자 未查到）",
+   "status": "营业中（站点在线）",
+   "incorporated": "未取",
+   "company_type": "주식회사",
+   "sic": [
+    "通信卡 / 电信设备分销（首尔）"
+   ],
+   "address": "未取（Seoul, 동작구 服务器定位）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型 / 中型",
+   "officers": [
+    "（具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**CENTEC 敲门砖 → 分销 20%：一页纸一次（STH-2C24XF-HSI $1,500 / STH-8C48DX-HSI $4,800 + STC 接入线；无 KC 买方自证）换 dialogic.co.kr 地址再发— 韩国常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳；无 KC（买方自行认证，SDT 先例）；周二 / 周四 10–12 KST**"
+   ],
+   "notes": "分销 20%；P 池候选 ○（CENTEC 意向 ✔ 分销主体 ✔ 对位 ✔）；部分坐实（사업자 未取）。",
+   "code": "SC-1191"
+  },
+  "SC-1243": {
+   "batch": 130,
+   "name": "SDT Inc. 에스디티 주식회사（sdt.inc；**官网页脚：사업자등록번호 630-87-00933；서울 강남구 테헤란로44길 5, 10층 06211；CEO 윤지원 Jiwon Yune；主业 = 全栈量子计算（QDM：控制电子 / 极低温机械 / 量子计算机；QubeStack GS 认证 1 等级；Quantum Korea 2026 参展）**）；表内：曾想分销工业交换机（KC 问题）",
+   "iso": "KR",
+   "fetched": "2026-10-29",
+   "source": "KR · 1 次检索：sdt.inc 首页 + /about-us/events/quantum-korea-2026（页脚 사업자 / 地址 / 主业）；2026-10-29",
+   "url": "https://sdt.inc/",
+   "number": "630-87-00933（사업자등록번호）",
+   "status": "营业中（官网 2026）",
+   "incorporated": "未取",
+   "company_type": "주식회사",
+   "sic": [
+    "量子计算软硬件（首尔；原工业 IoT）"
+   ],
+   "address": "서울시 강남구 테헤란로44길 5, 10층 06211",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（量子初创）",
+   "officers": [
+    "윤지원 Jiwon Yune — CEO"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**主业已转量子计算 → 分销意向过期 → 回 C 储备（来信再起则常规 + KC 买方自证）**— 韩国常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳；无 KC（买方自行认证，SDT 先例）；周二 / 周四 10–12 KST"
+   ],
+   "notes": "回 C（坐实但主业转向，品类不再对位；KC 待 Simon 口径）。",
+   "code": "SC-1243"
   }
  }
 }

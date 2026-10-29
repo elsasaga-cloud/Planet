@@ -2,7 +2,7 @@
 
 > **评级 C**　|　南非　|　档案编号 `SC-382`　|　优先级 —　|　状态：已推送 5 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：南非 Security Warehouse（securitywarehouse.co.za；Hasivo + CCTV 分销）：进口中国同类 ✔ 对位 ✔ + 同区先例 Duxbury / MiRO；群发 5 次 0 回 → 闸 2 查底数；低优先
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 安防分销 20%：Security Warehouse (Pty) Ltd（Centurion；Reg 2003/015829/07；VAT 4600163721；101–250 人；MD Pasco Lattuca）坐实；分销主体 ✔ 对位 ✔ 决策人具名 ✔ → P 池候选
 >
 > **类型**：安防集成/经销（推断）　|　**历史关系**：推送 5 次（2025-06-20 → 2025-11-04）　|　**所在清单**：A优质名单(South Africa)、AI评估(ZA)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-382
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 22
 country: 南非
 region: 非洲
@@ -39,6 +39,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `securitywarehouse.co.za` → Microsoft 365（MX：securitywarehouse-co-za.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 130 批（ZA · 1 次检索：securitywarehouse.co.za/support/terms-conditions/（Reg / VAT / 地址）+ crunchbase（MD / 规模）；2026-10-29，2026-10-29 查；https://securitywarehouse.co.za/support/terms-conditions/）：**
+
+- 法定名 / 登记号：Security Warehouse (Pty) Ltd（securitywarehouse.co.za；**官网 T&C：Reg 2003/015829/07；VAT 4600163721；118 Theuns Street, Cnr Theuns & Jakaranda, Hennopspark, Centurion 0172；+27 12 653 1005；info@securitywarehouse.co.za；创始人 / MD Pasco Lattuca（crunchbase）；101–250 人；电子安防分销 覆盖非洲**）；表内：CCTV 分销 · 2003/015829/07（Reg No.）/ VAT 4600163721 · 状态 **Active（官网 2025）** · 成立 2003 · (Pty) Ltd
+- 行业码 / 经营范围：电子安防分销（森图里恩）
+- 注册地址：118 Theuns Street, Hennopspark, Centurion 0172
+- 规模档：中型（101–250 人）
+- 账目：未取；—
+- 高管：Pasco Lattuca — Founder & Managing Director
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **安防分销 20%：点名 Pasco Lattuca 一页纸一次（STC-028GP $28 / STC-228GP $33 CCTV 配套 + MOQ 1 + 付费样机）— 南非常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP 买方清关；周二 / 周四 10–12 SAST**
+- 备注：分销 20%；P 池候选 ★（分销主体 ✔ 对位 ✔ 坐实 ✔ 决策人具名 ✔）；坐实。
 
 ## 基本事实（事实/推断/假设分层）
 

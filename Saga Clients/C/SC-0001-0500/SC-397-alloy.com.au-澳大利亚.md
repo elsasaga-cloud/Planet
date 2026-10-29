@@ -2,7 +2,7 @@
 
 > **评级 C**　|　澳大利亚　|　档案编号 `SC-397`　|　优先级 —　|　状态：已推送 22 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：澳大利亚 Alloy（alloy.com.au；自有品牌 MC / SFP / 光猫 / 工业 FS / 商业 PoE，「很多公司在卖他家的」）：自有品牌 = OEM 对象 ✔ 对位 ✔；群发 22 次 0 回 → 闸 2 查底数（ABN）；四主区外，低优先　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 自有品牌 · OEM 30%：Alloy Computer Products (Australia) Pty Ltd（ABN 41 006 507 473；制造商 + 增值分销；自有 PoE AS2008-P / AS1026-P、L3 Lite AS5010-P、MC GCR2000）坐实；自有品牌 ✔ 对位 ✔ 坐实 ✔ → P 池候选　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 22 次（2024-05-23 → 2025-11-06）　|　**所在清单**：A优质名单(AU)、AI评估(AU)、群发(谷歌)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-397
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 21
 country: 澳大利亚
 region: 亚太
@@ -39,6 +39,30 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-28DGGPM（8 口 PoE + 2 SFP L2+）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `alloy.com.au` → Microsoft 365（MX：alloy-com-au.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+- `leadersystems.com.au` → Microsoft 365（MX：leadersystems-com-au.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 130 批（AU · 1 次检索：buy.nsw.gov.au/supplier/profile/103131（ABN）+ alloy.com.au/products/vendor/alloy/ + /alloy/（自有品牌线）；2026-10-29，2026-10-29 查；https://buy.nsw.gov.au/supplier/profile/103131）：**
+
+- 法定名 / 登记号：Alloy Computer Products (Australia) Pty. Ltd.（alloy.com.au；**ABN 41 006 507 473（buy.nsw.gov.au 供应商库）；制造商 + 增值分销；自有品牌 PoE 交换机 AS2008-P / AS2024-P / AS1008-P / AS1026-P、L3 Lite 管理型 AS5010-P / AS5128-F、MC GCR2000SC / AC1020SC；自述向英美澳新菲政府机构供光纤设备 15 年+**）；表内：澳洲自有品牌交换机 / MC · 41 006 507 473（ABN） · 状态 **Active（NSW 供应商库 / 官网）** · 成立 未取 · Pty Ltd
+- 行业码 / 经营范围：网络设备自有品牌 / 增值分销（墨尔本）
+- 注册地址：未取（Victoria，官网未抄）
+- 规模档：中型（SME）
+- 账目：未取；—
+- 高管：（具名 KP 未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自有品牌 → OEM 30%：一页纸一次（STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM 贴牌 Alloy + 中性包装 + MOQ 1 + 付费样机）— 其他区常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP 买方清关；周二 / 周四 当地 10–12**
+- 备注：OEM 30%；P 池候选 ★（自有品牌 ✔ 对位 ✔ 坐实 ✔）；坐实（ABN）。
 
 ## 基本事实（事实/推断/假设分层）
 

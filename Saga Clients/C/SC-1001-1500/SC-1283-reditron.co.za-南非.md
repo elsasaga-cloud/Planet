@@ -2,7 +2,7 @@
 
 > **评级 C**　|　南非　|　档案编号 `SC-1283`　|　优先级 —　|　状态：已推送 8 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：南非 Reditron（reditron.co.za；大型安防分销，Utepo + 帧田 + CCTV）：进口中国同类 ✔ 对位 ✔ 分销主体 + 同区先例 Duxbury / MiRO；群发 8 次 0 回 → 闸 2 查底数（CIPC 镜像）；低优先
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 安防分销 20%：Reditron (Pty) Ltd（Johannesburg Linbro Park；Reg 2002/028391/07 自报）坐实；分销主体 ✔ 对位 ✔ 坐实 ✔ → P 池候选
 >
 > **类型**：安防集成/经销（推断）　|　**历史关系**：推送 8 次（2025-03-21 → 2025-11-04）　|　**所在清单**：A优质名单(South Africa)、AI评估(ZA)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1283
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 12
 country: 南非
 region: 非洲
@@ -39,6 +39,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `reditron.co.za` → Microsoft 365（MX：reditron-co-za.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 130 批（ZA · 1 次检索：reditron.co.za Credit-Application PDF（Reg No / 地址）+ cylex / firmania（地址 / 电话）；2026-10-29，2026-10-29 查；https://reditron.co.za/wp-content/uploads/2024/10/Reditron-Credit-Application-2022_Editable.pdf）：**
+
+- 法定名 / 登记号：Reditron (Pty) Ltd（reditron.co.za；**信用申请表自报 registration number 2002/028391/07；9 Electron Street, Linbro Business Park, Sandton / Johannesburg 2090；+27 87 802 2288；CCTV 分销**）；表内：安防分销 · 2002/028391/07（Reg No.，自报） · 状态 **Active（官网 2024）** · 成立 2002 · (Pty) Ltd
+- 行业码 / 经营范围：电子安防分销（约翰内斯堡）
+- 注册地址：9 Electron Street, Linbro Business Park, Sandton 2090
+- 规模档：中型
+- 账目：未取；—
+- 高管：（具名 KP 未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **安防分销 20%：一页纸一次（STC-028GP $28 / STC-228GP $33 CCTV 配套 + MOQ 1 + 付费样机）— 南非常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP 买方清关；周二 / 周四 10–12 SAST**
+- 备注：分销 20%；P 池候选 ★（分销主体 ✔ 对位 ✔ 坐实 ✔）；坐实（自报注册号）。
 
 ## 基本事实（事实/推断/假设分层）
 

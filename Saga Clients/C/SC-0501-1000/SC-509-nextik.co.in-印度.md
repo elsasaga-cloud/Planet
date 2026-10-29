@@ -2,7 +2,7 @@
 
 > **评级 C**　|　印度　|　档案编号 `SC-509`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：印度 Nextik（nextik.co.in；表内「BD 的核心交换机 / WDM 核心交换机」= 在售 BDCOM 中国品牌）：进口中国同类 ✔ 对位 ✔（企业 / DC 线）Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先
+> **C 池筛选：留 C 储备**（闸 2 · 2026-10-29）：闸 2 回 C：Nextik（nextik.co.in）1 查仅得 X 账号 + 同名他户 → 法人未取 → 未坐实 → 回 C 储备
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(IN)·DONE、DWDM线索　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-509
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: keep_C  # 闸 2 G2 2026-10-29
 score: 20
 country: 印度
 region: 南亚
@@ -39,6 +39,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-448XGGM(L3)（L3 48 口 + 4×10G（Hohunet/CENTEC 线））
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `nextik.co.in` → 同域名 MX → 托管在 secureserver.net（MX：mail.nextik.co.in）。主机商附带邮箱（同域名 MX → 托管在 secureserver.net）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 130 批（IN · 1 次检索：x.com/nextik_official + indiafilings / zaubacorp 同名他户 → 法人未取；2026-10-29，2026-10-29 查；）：**
+
+- 法定名 / 登记号：Nextik（nextik.co.in；**1 查仅得 X 账号 @nextik_official（"Advanced data communication equipment / Customized Innovations"，India）+ 同名他户 Netik IT Technologies（Hyderabad）/ Nextlink Technologies（Bangalore）→ 法人未取 → 未坐实**）；表内：自称数据通信设备品牌 · 未取 · 状态 **未坐实** · 成立 未取 · 未取
+- 行业码 / 经营范围：数据通信设备（印度，待证）
+- 注册地址：未取
+- 规模档：未知
+- 账目：未取；—
+- 高管：（具名 KP 未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **未坐实 → 回 C 储备；来信再起则 OEM 30% + 预付 100%**— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST
+- 备注：回 C（未坐实：仅社媒账号，法人未取）。
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -2,7 +2,7 @@
 
 > **评级 C**　|　台湾　|　档案编号 `SC-172`　|　优先级 —　|　状态：已推送 2 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：台湾 COP Security（cop-security.com；1992 起自有品牌 CCTV，表内「工业交换机 ONV 的」= 配套 PoE / 工业机外购中国品牌）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔；2 次 0 回 → 闸 2 查底数（twincn）；四主区外，低优先　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 监控厂 · OEM 30%：COP Security System Corp.（新北新店；1992；$14.5M；联系人 Tony Jiang）部分坐实（統編未取）；制造商 ✔ 具名联系人 ✔ 对位 ✔ → P 池候选　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：台湾安防/网络厂商（同行）（推断）　|　**历史关系**：推送 2 次（2025-09-19 → 2025-10-16）　|　**所在清单**：A台湾名单　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-172
 rating: C
 rating_auto: B
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 rating_research: C  # 同行/台湾厂商：COP Security（自产 CCTV/网络，OEM/ODM），非渠道客户；c_sub=同行/台湾厂商
 score: 31
 country: 台湾
@@ -40,6 +40,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（深挖对位：台湾厂商（自产 CCTV/网络产品，OEM/ODM 身份），非渠道客户 → 改 C）
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `cop-security.com` → 同域名 MX → 托管在 hinet.net（MX：mailfilter.cop-security.com）。主机商附带邮箱（同域名 MX → 托管在 hinet.net）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 130 批（TW · 1 次检索：zoominfo（营收 / 地址）+ crunchbase（法人名 / sales@）+ asmag（1992 / Tony Jiang）；統編未取；2026-10-29，2026-10-29 查；https://www.asmag.com/suppliers/companyinfo.aspx?co=copsecurity）：**
+
+- 法定名 / 登记号：COP Security System Corp.（cop-security.com；**1992 创立；4-6F, No.5, Lane 130, Minquan Rd, Xindian, New Taipei；sales@cop-security.com；联系人 Tony Jiang（asmag）；ZoomInfo 营收 $14.5M；CCTV / IP 摄像机 / 浪涌保护 / IR 照明 / 传输 制造**）；統編未取；表内：监控厂配套 · 未取（統編未查） · 状态 **营业中（目录 2026）** · 成立 1992 · 股份有限公司
+- 行业码 / 经营范围：CCTV 制造（新北新店）
+- 注册地址：4-6F, No.5, Lane 130, Minquan Rd, Xindian Dist., New Taipei City
+- 规模档：中型（$14.5M）
+- 账目：未取；—
+- 高管：Tony Jiang — 联系人（asmag）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **监控厂配套 PoE → OEM 30%：点名 Tony Jiang 中文一页纸一次（STC-028GP $28 / STC-228GP $33 贴牌 COP + MOQ 1 + 付费样机）— 台湾常规：中文 / 英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳；周二 / 周四 10–12**
+- 备注：OEM 30%；P 池候选 ★（制造商 ✔ 对位 ✔ 具名联系人 ✔）；部分坐实（統編未取）。
 
 ## 基本事实（事实/推断/假设分层）
 

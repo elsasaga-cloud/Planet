@@ -2,7 +2,7 @@
 
 > **评级 C**　|　南非　|　档案编号 `SC-298`　|　优先级 —　|　状态：已推送 8 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：南非 MiRO（miro.co.za；表内「很多有名的牌子，有 Edimax 的；商业 PoE / FS / 工业 FS / 周边设备；分销商」= 多牌分销 + 进口台湾同类）：同区先例 Duxbury ★ + 对位 ✔，群发 8 次 0 回 → 闸 2 查底数；低优先
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 大分销 20%：MiRO Distribution（Centurion；Enterprise No. B2002068592；2002；VAT 9199666141；R25M+；Cambium / Ubiquiti / BDCOM / MikroTik / Edge-corE；南部非洲 10 国）坐实；已进口中国同类 ✔ 对位 ✔ 坐实 ✔ 同区先例 ✔ → P 池候选
 >
 > **类型**：分销商/经销商（推断）　|　**历史关系**：推送 8 次（2025-01-31 → 2025-11-04）　|　**所在清单**：A优质名单(South Africa)、AI评估(ZA)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-298
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 24
 country: 南非
 region: 非洲
@@ -39,6 +39,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-28DGGPM（8 口 PoE + 2 SFP L2+）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `miro.co.za` → Microsoft 365（MX：miro-co-za.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 130 批（ZA · 1 次检索：b2bhint（注册号 / VAT / 法定地址 / 规模档）+ opening-hours（品牌 / 覆盖国）+ africabz；2026-10-29，2026-10-29 查；https://b2bhint.com/en/company/za/miro-distribution--B2002068592）：**
+
+- 法定名 / 登记号：MiRO Distribution（miro.co.za；**Enterprise No. B2002068592（2002-08-26 注册；Close corporation → 公司转换）；VAT 9199666141；R25M+ 档；法定地址 Unit 6, N1 Industrial Park, Landsmark Avenue, Kosmosdal Ext.11, Samrand 1685 / 营业 9 Landmarks Ave, Samrand Business Park, Centurion；+27 12 657 0960；sales@miro.co.za；品牌 Cambium / Ubiquiti / Grandstream / BDCOM / MikroTik / Siklu / Tenda / TP-Link / Mimosa / Edge-corE / Radwin / Ajax；覆盖南部非洲 10 国**）；表内：无线 / 网络大分销 · B2002068592（Enterprise No.）/ VAT 9199666141 · 状态 **Active（2024-12 核）** · 成立 2002-08-26 · (Pty) Ltd（原 CC）
+- 行业码 / 经营范围：网络 / 无线 / IP 视频分销（森图里恩）
+- 注册地址：9 Landmarks Ave, Samrand Business Park, Centurion 0157
+- 规模档：中型 / 大型（R25M+；10 国）
+- 账目：未取；—
+- 高管：（具名 KP 未取；sales@ 官网公开）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **大分销 20%：找产品经理一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-2224GP $86 分销价 + MOQ 1 + 付费样机；BDCOM / Edge-corE 不点名）— 南非常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP 买方清关；周二 / 周四 10–12 SAST**
+- 备注：分销 20%；P 池候选 ★（分销主体 ✔ 已进口中国同类 ✔ 对位 ✔ 坐实 ✔ 同区先例 ✔）；坐实。
 
 ## 基本事实（事实/推断/假设分层）
 

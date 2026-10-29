@@ -2,7 +2,7 @@
 
 > **评级 C**　|　巴西　|　档案编号 `SC-1038`　|　优先级 —　|　状态：已推送 1 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：巴西 Teltex（teltex.com.br；做摄像头的，要用到 PoE，价格表已发）：自有品牌摄像头 = OEM 对象 ✔ 对位 ✔ 有互动 ✔；推 1 次 0 回 → 闸 2 查底数（cnpj.biz）；拉美非点名国，低优先　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 大集成 25%（长线）：Teltex Tecnologia SA（São Paulo；CNPJ 73.442.360/0001-17；33 年；巴西前 5 安防集成商；葡 / 美办事处）坐实；大集成 ✔ 对位 ✔ 坐实 ✔ → P 池候选（找采购 / 工程部；长线）　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：安防集成/经销（推断）　|　**历史关系**：推送 1 次（2025-10-06 → 2025-10-06）　|　**所在清单**：E冷名单(巴西)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1038
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 15
 country: 巴西
 region: 拉美
@@ -39,6 +39,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（24 口 PoE L2+ 走量款）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `teltex.com.br` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、alt3.aspmx.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 130 批（BR · 1 次检索：teltex.com.br/en/（CNPJ / 排名 / 海外办）+ /homepage-portugues/（地址 / 电话 / 邮箱）；2026-10-29，2026-10-29 查；https://teltex.com.br/en/）：**
+
+- 法定名 / 登记号：Teltex Tecnologia SA（teltex.com.br；**页脚 CNPJ 73.442.360/0001-17；33 年；Rua França Pinto 1089, Vila Mariana, São Paulo SP 04016-030；+55 11 3840-6400；comercial@teltex.com.br；2022 巴西前 5 大安防集成商（Informática Hoje Top 200 / FGV 审计）；2025 年鉴前 10 盈利；葡萄牙 Torres Vedras / 美国 Hallandale Beach 办事处；100% 自有团队全国项目**）；表内：大集成商 · 73.442.360/0001-17（CNPJ） · 状态 **Ativa（官网 2026）** · 成立 1993（33 年） · S.A.
+- 行业码 / 经营范围：电子安防 / 技术基建集成（圣保罗）
+- 注册地址：Rua França Pinto 1089, Vila Mariana, São Paulo SP 04016-030
+- 规模档：大型（巴西前 5 安防集成）
+- 账目：未取；—
+- 高管：（具名 KP 未取；comercial@ 官网公开）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **大集成商 25%（长线）：找采购 / 工程部一页纸一次（STC-2224GP $86 / STC-4424GCPM $165 / STI-288GPM $78.9 项目价 + 付费样机；DAP 买方清关）— 其他区常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP 买方清关；周二 / 周四 当地 10–12**
+- 备注：集成 25%；P 池候选 ★ 长线（大集成 ✔ 对位 ✔ 坐实 ✔）；坐实（CNPJ）。
 
 ## 基本事实（事实/推断/假设分层）
 

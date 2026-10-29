@@ -2,7 +2,7 @@
 
 > **评级 C**　|　南非　|　档案编号 `SC-622`　|　优先级 —　|　状态：已推送 15 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：南非 IA Control（iacontrol.co.za；工业 MC / FS，表内「在和台湾 Korenix 合作」）：进口台湾同类 ✔ 对位 ✔ + 同区先例 Duxbury / MiRO；群发 15 次 0 回 → 闸 2 查底数（CIPC 镜像）；低优先
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 工业分销 20%：Industrial Automation and Control (Pty) Ltd — IAC（Centurion Samrand；Communica 集团；Hirschmann / Belden / Korenix / Advantech 非洲分销）部分坐实（Reg No 未取）；工业分销主体 ✔ 对位 ✔ → P 池候选（价位补充线）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 15 次（2024-06-04 → 2025-11-05）　|　**所在清单**：A优质名单(South Africa)、AI评估(ZA)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-622
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 18
 country: 南非
 region: 非洲
@@ -39,6 +39,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STI-288DGGPM（工业 L2+ 8 PoE + 2×2.5G SFP）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `iacontrol.co.za` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、aspmx2.googlemail.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 130 批（ZA · 1 次检索：shop.iacontrol.co.za/pages/contact-us（法人 / 地址 / 电话）+ website.informer（品牌 / 域名 1998）；Reg No 未取；2026-10-29，2026-10-29 查；https://shop.iacontrol.co.za/pages/contact-us）：**
+
+- 法定名 / 登记号：Industrial Automation and Control (Pty) Ltd — IAC（iacontrol.co.za；**官网：Communica Building, 53 Landmarks Avenue, Samrand Business Park, Centurion；P.O. Box 2860, The Reeds 0158；+27 12 657 3600；info@iacontrol.co.za；Hirschmann / Belden / Lumberg / Korenix / Advantech / Mobotix 非洲分销（Communica 集团；域名 1998 起）**）；Reg No 未取；表内：工业网络分销 · 未取（Reg No 未查） · 状态 **营业中（官网 2025）** · 成立 未取（域名 1998） · (Pty) Ltd
+- 行业码 / 经营范围：工业网络 / 自动化分销（森图里恩）
+- 注册地址：Communica Building, 53 Landmarks Avenue, Samrand Business Park, Centurion
+- 规模档：中型（集团成员）
+- 账目：未取；—
+- 高管：（具名 KP 未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **工业分销 20%：一页纸一次（STI-280GE $46.6 / STI-288GPM $78.9 / STI-244DGGPM $121 作价位补充线 + MOQ 1；Hirschmann / Korenix 不点名）— 南非常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP 买方清关；周二 / 周四 10–12 SAST**
+- 备注：分销 20%；P 池候选 ○（工业分销主体 ✔ 对位 ✔）；部分坐实（Reg No 未取）。
 
 ## 基本事实（事实/推断/假设分层）
 

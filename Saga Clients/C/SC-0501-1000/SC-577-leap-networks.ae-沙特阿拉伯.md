@@ -2,7 +2,7 @@
 
 > **评级 C**　|　沙特阿拉伯　|　档案编号 `SC-577`　|　优先级 —　|　状态：已推送 8 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：阿联酋 / 沙特 Leap Networks（leap-networks.ae；表内「4 光 4 管理 PoE 64 个」= 数量询盘；KP Tarek Bary，邮箱退信 8 次但域正常，+971 手机在表）：数量信号 ✔ 对位 ✔ 退信 ≠ 死 → 闸 2 找新地址 + WA 路径；四主区外，低优先
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 油气工业集成 25%：Leap Networks（Abu Dhabi；2012；11–20 人；CEO Muhammad Ashfaq = 表内具名 KP；ISO 9001 / 14001 / 45001；沙特姊妹公司 Leap Networks Arabia）部分坐实（执照未取）；决策人直达 ✔ 工业对位 ✔ → P 池候选；表内沙特 ↔ 总部阿联酋 备注待 Simon　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 8 次（2025-03-31 → 2025-10-23）　|　**所在清单**：A优质名单(阿联酋 沙特阿拉伯)、AI评估(阿联酋 沙特阿拉伯)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-577
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 19
 country: 沙特阿拉伯
 region: 中东
@@ -39,6 +39,31 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（24 口 PoE L2+ 走量款）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `leap-networks.ae` → 其他主机商邮箱（mx1.zimbra.ae）（MX：mx1.zimbra.ae、mx2.zimbra.ae）。主机商附带邮箱（mx1.zimbra.ae）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 130 批（AE · 1 次检索（补查）：leap-networks.ae/about-us/（2012 / ISO / 行业）+ prospeo（地址 / CEO / 规模）+ theorg（沙特姊妹公司）；首查误中同名 Leap Technologies 不采；2026-10-29，2026-10-29 查；https://www.leap-networks.ae/about-us/）：**
+
+- 法定名 / 登记号：Leap Networks（leap-networks.ae；**2012 成立；Guardian Office Tower, Al Murror Road, Dhafeer Street 407, Abu Dhabi 37855（prospeo）；11–20 人；CEO Muhammad Ashfaq（= 表内具名 KP muhammad.ashfaq@）；ISO 9001 / 14001 / 45001；油气 / 石化 / 矿业 / 交通电信系统集成（DWDM / TETRA / SDH / CCTV / PAGA / 门禁）；姊妹公司 Leap Networks Arabia（沙特，CEO Asif Imam）**）；执照号未取；表内国别沙特（两地皆有） · 未取（执照号未查） · 状态 **营业中（官网 2025）** · 成立 2012 · LLC（待核）
+- 行业码 / 经营范围：油气电信系统集成（阿布扎比 / 沙特）
+- 注册地址：Guardian Office Tower, Al Murror Road, Dhafeer Street 407, Abu Dhabi 37855
+- 规模档：小型（11–20 人；双国）
+- 账目：未取；—
+- 高管：Muhammad Ashfaq — Chief Executive Officer（表内具名邮箱）
+- 高管：Tarek Bary — （表内具名邮箱）
+- 高管：Asif Imam — CEO, Leap Networks Arabia
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **油气工业集成 25%：点名 Muhammad Ashfaq 一页纸一次（STI-288GPM $78.9 / STI-244DGGPM $121 / STI-488DGGPM $147 工业线 + 付费样机；DWDM / SDH 走本职线）— 其他区常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP 买方清关；周二 / 周四 当地 10–12**
+- 备注：集成 25%；P 池候选 ○（决策人具名 ✔ 工业对位 ✔）；部分坐实（执照未取）；dayjob_fit；表内沙特 ↔ 总部阿联酋 备注。
 
 ## 基本事实（事实/推断/假设分层）
 

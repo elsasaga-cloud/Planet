@@ -3,8 +3,8 @@
   "kind": "registry",
   "source": "台灣 · 經濟部商工登記 / 名錄摘要",
   "created": "2026-10-27",
-  "updated": "2026-10-27",
-  "count": 1
+  "updated": "2026-10-29",
+  "count": 6
  },
  "rows": {
   "SA-013": {
@@ -41,6 +41,159 @@
    "notes": "統一編號待補。",
    "fetched": "2026-10-27",
    "code": "SA-013"
+  },
+  "SC-172": {
+   "batch": 130,
+   "name": "COP Security System Corp.（cop-security.com；**1992 创立；4-6F, No.5, Lane 130, Minquan Rd, Xindian, New Taipei；sales@cop-security.com；联系人 Tony Jiang（asmag）；ZoomInfo 营收 $14.5M；CCTV / IP 摄像机 / 浪涌保护 / IR 照明 / 传输 制造**）；統編未取；表内：监控厂配套",
+   "iso": "TW",
+   "fetched": "2026-10-29",
+   "source": "TW · 1 次检索：zoominfo（营收 / 地址）+ crunchbase（法人名 / sales@）+ asmag（1992 / Tony Jiang）；統編未取；2026-10-29",
+   "url": "https://www.asmag.com/suppliers/companyinfo.aspx?co=copsecurity",
+   "number": "未取（統編未查）",
+   "status": "营业中（目录 2026）",
+   "incorporated": "1992",
+   "company_type": "股份有限公司",
+   "sic": [
+    "CCTV 制造（新北新店）"
+   ],
+   "address": "4-6F, No.5, Lane 130, Minquan Rd, Xindian Dist., New Taipei City",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（$14.5M）",
+   "officers": [
+    "Tony Jiang — 联系人（asmag）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**监控厂配套 PoE → OEM 30%：点名 Tony Jiang 中文一页纸一次（STC-028GP $28 / STC-228GP $33 贴牌 COP + MOQ 1 + 付费样机）— 台湾常规：中文 / 英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳；周二 / 周四 10–12**"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（制造商 ✔ 对位 ✔ 具名联系人 ✔）；部分坐实（統編未取）。",
+   "code": "SC-172"
+  },
+  "SC-465": {
+   "batch": 130,
+   "name": "陞泰科技股份有限公司 AV TECH CORPORATION（avtech.com.tw；**統編 97092770；上市 8072；設立 1996-06-26；實收資本 NT$8 億；代表人 陳世忠；新北市三重區中興北街 193-2 號；02-2655-3866；登记信箱 lydia.lin@avtech.com.tw；出進口廠商登記 1996-08-29**）；表内：上市监控品牌，自有 PoE 配套中国代工",
+   "iso": "TW",
+   "fetched": "2026-10-29",
+   "source": "TW · 1 次检索：twincn.com/item.aspx?no=97092770（統編 / 上市 / 代表人 / 地址）+ findcompany（資本 / 登记信箱）；2026-10-29",
+   "url": "https://twincn.com/item.aspx?no=97092770",
+   "number": "97092770（統編）",
+   "status": "核准設立（上市 8072）",
+   "incorporated": "1996-06-26",
+   "company_type": "股份有限公司（上市）",
+   "sic": [
+    "视频监控设备制造（新北三重）"
+   ],
+   "address": "新北市三重區中興北街 193-2 號",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "大型（上市；實收 NT$8 億）",
+   "officers": [
+    "陳世忠 — 代表人 / 董事長",
+    "lydia.lin@avtech.com.tw — 登记信箱（findcompany）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**上市监控品牌 → OEM 30%（长线）：找采购 / 产品部中文一页纸一次（STC-228GP / STC-2224GP 贴牌 AVTECH + 中性包装 + MOQ 1）— 台湾常规：中文 / 英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳；周二 / 周四 10–12**"
+   ],
+   "notes": "OEM 30%；P 池候选 ★ 长线（上市品牌商 ✔ 对位 ✔ 坐实 ✔）；坐实。",
+   "code": "SC-465"
+  },
+  "SC-491": {
+   "batch": 130,
+   "name": "昇銳智慧科技股份有限公司 Hi Sharp Intelligence Technology Co., Ltd.（原 昇銳電子股份有限公司；hisharp.com；**統編 22601576；上櫃 3128；成立 1987-09-23；實收 NT$4.73 億；董事長 江添貴；總經理 / 發言人 蕭哲彥；桃園市八德區長興路 673 號；03-3653121；fred@hisharp.com.tw（公司資料）**）；表内：监控品牌，洪瑞现供 → Q-33",
+   "iso": "TW",
+   "fetched": "2026-10-29",
+   "source": "TW · 1 次检索：twincn.com/item.aspx?no=22601576（統編 / 上櫃 / 代表人）+ hisharp.com/zh-tw/governance.php（公司基本資料）+ wantgoo（實收 / 邮箱）；2026-10-29",
+   "url": "https://www.hisharp.com/zh-tw/governance.php",
+   "number": "22601576（統編）",
+   "status": "核准設立（上櫃 3128）",
+   "incorporated": "1987-09-23",
+   "company_type": "股份有限公司（上櫃）",
+   "sic": [
+    "电子监视系统制造 / 进出口（桃园八德）"
+   ],
+   "address": "桃園市八德區長興路 673 號",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "大型（上櫃；實收 NT$4.73 億）",
+   "officers": [
+    "江添貴 — 董事長",
+    "蕭哲彥 — 總經理 / 發言人",
+    "鄭忠恕 — 代理發言人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**上櫃监控品牌 → OEM 30%：中文一页纸一次（STC-228GP / STC-2224GP 贴牌 Hi Sharp + 中性包装；洪瑞现供 → Q-33 口径：默认只推 SmartByte / Marvell 管理 + 工业线）— 台湾常规：中文 / 英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳；周二 / 周四 10–12**"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（上櫃品牌商 ✔ 对位 ✔ 坐实 ✔）；坐实；Q-33 洪瑞现供待 Simon。",
+   "code": "SC-491"
+  },
+  "SC-1029": {
+   "batch": 130,
+   "name": "Xentino Technologies Corp.（xentino.com；**官网 Company Tax Number 54303706；9F, No 20, Zhong 1st Road, Keelung 20041（EC21 另载 5F, No.89, Aly. 3, Ln. 182, Sec. 2, Wenhua Rd., Banqiao）；2013 起（品牌 2000 起 xDSL 中东 / 东欧）；6–10 人；年营收 USD 100–500k；GM Sinan Bedir；+886-2-82581593**）；表内：自有品牌交换机 / 工业交换机 / 路由 / GPON 全线",
+   "iso": "TW",
+   "fetched": "2026-10-29",
+   "source": "TW · 1 次检索：xentino.com/index.cfm?fuseaction=objects2.company（Tax No / 地址 / 产品线）+ xentino.en.ec21.com（规模 / GM）；2026-10-29",
+   "url": "https://www.xentino.com/index.cfm?fuseaction=objects2.company",
+   "number": "54303706（統編，官网自报）",
+   "status": "营业中（官网 / EC21）",
+   "incorporated": "2013",
+   "company_type": "有限公司",
+   "sic": [
+    "网络设备自有品牌（基隆 / 新北）"
+   ],
+   "address": "9F, No 20, Zhong 1st Road, Keelung 20041",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（6–10 人；USD 100–500k）",
+   "officers": [
+    "Sinan Bedir — GM"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**微型自有品牌面向土耳其 / 中东 / 东欧（= 主区）→ OEM 30% + 预付 100%：点名 Sinan Bedir 英文 / 土耳其语一页纸一次（STC-228GP / STI-288GPM 贴牌 Xentino + MOQ 1 + 付费样机）— 台湾常规：中文 / 英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳；周二 / 周四 10–12**"
+   ],
+   "notes": "OEM 30% + 预付 100%；P 池候选 △（自有品牌 ✔ 主区市场 ✔ 坐实 ✔ 但微型 → 观察档）；坐实（統編官网自报）。",
+   "code": "SC-1029"
+  },
+  "SC-1134": {
+   "batch": 130,
+   "name": "XP Networks / XP Active Systems = ANTEK TECHNOLOGY CO., LTD.（xp-networks.com；**官网 About / Contact：11F, 51 Hengyang Road, Taipei 100；+886 2-29124340 / FAX 2-29100012；info@xp-networks.com**）；統編未取；表内：自有 XP 品牌交换机",
+   "iso": "TW",
+   "fetched": "2026-10-29",
+   "source": "TW · 1 次检索：xp-networks.com/about-us/ + /contact-info/contact-us/（法人名 / 地址 / 电话）；統編未取；2026-10-29",
+   "url": "https://www.xp-networks.com/about-us/",
+   "number": "未取（統編未查）",
+   "status": "营业中（官网在线）",
+   "incorporated": "未取",
+   "company_type": "有限公司",
+   "sic": [
+    "网络设备自有品牌（台北）"
+   ],
+   "address": "11F, 51 Hengyang Road, Taipei 100",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "（具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌 → OEM 30%：中文一页纸一次（STC-228GP / STC-2224GP 贴牌 XP + 中性包装 + MOQ 1 + 付费样机）— 台湾常规：中文 / 英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳；周二 / 周四 10–12**"
+   ],
+   "notes": "OEM 30%；P 池候选 ○（自有品牌 ✔ 对位 ✔）；部分坐实（統編未取）。",
+   "code": "SC-1134"
   }
  }
 }

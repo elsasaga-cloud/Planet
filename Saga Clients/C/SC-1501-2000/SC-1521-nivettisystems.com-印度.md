@@ -2,7 +2,7 @@
 
 > **评级 C**　|　印度　|　档案编号 `SC-1521`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：印度 Nivetti Systems（nivettisystems.com / .in；印度自有品牌网络设备商）：自有品牌 = OEM 对象 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 自研品牌 · OEM 30%（长线）：Nivetti Systems Pvt Ltd（Bangalore JP Nagar；2014；51–200 人；自研 2.4 Tbps 路由器 2024）部分坐实（CIN 未取）；高端自研、接入层可能贴牌 ✔ 对位 ✔ → P 池候选（长线）　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：DC线索　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1521
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 9
 country: 印度
 region: 南亚
@@ -39,6 +39,30 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
 - **最大未知**：具体需求型号（表内兴趣列为空）；网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `nivettisystems.com` → Zoho Mail（MX：mx.zoho.in、mx2.zoho.in、mx3.zoho.in）。中小企业云邮箱（Zoho Mail）：过滤中等、像素一般可用；这类公司邮箱通常老板或销售本人收，信要短、带型号和一口价
+- `nivettisystems.in` → Zoho Mail（MX：mx.zoho.in、mx2.zoho.in、mx3.zoho.in）。中小企业云邮箱（Zoho Mail）：过滤中等、像素一般可用；这类公司邮箱通常老板或销售本人收，信要短、带型号和一口价
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 130 批（IN · 1 次检索：bloomberg profile（地址）+ cbinsights（2014 / 产品 / 2.4 Tbps 新闻）+ zoominfo（规模）；CIN 未取；2026-10-29，2026-10-29 查；https://www.cbinsights.com/company/nivetti-systems）：**
+
+- 法定名 / 登记号：Nivetti Systems Private Limited（nivettisystems.com；**166, 21st Main Road, 2nd Phase, J P Nagar, Bangalore 560078（Bloomberg）；2014 创立；51–200 人（ZoomInfo）；自研路由 / 交换 / NiOS 网络操作系统 / HawkSecure；2024-03-09 印度首台自研 2.4 Tbps 路由器（联邦部长 Vaishnaw 揭幕，PTI）**）；CIN 未取；表内：自有品牌路由 / 交换机 · 未取（CIN 未查） · 状态 **营业中（2024 新闻 / 2026 目录）** · 成立 2014 · Private Limited
+- 行业码 / 经营范围：安全网络设备自研品牌（班加罗尔）
+- 注册地址：166, 21st Main Road, 2nd Phase, J P Nagar, Bangalore, Karnataka 560078
+- 规模档：中型（51–200 人）
+- 账目：未取；—
+- 高管：（具名 KP 未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **高端自研、接入层 / PoE 可能贴牌 → OEM 30%（长线）：一页纸一次（STC-2224GP / STC-4424GCPM 贴牌 + 中性包装 + MOQ 1；不谈 SONiC / 白盒）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST**
+- 备注：OEM 30%；P 池候选 ○ 长线（自有品牌 ✔ 对位（接入层）✔）；部分坐实（CIN 未取）。
 
 ## 基本事实（事实/推断/假设分层）
 

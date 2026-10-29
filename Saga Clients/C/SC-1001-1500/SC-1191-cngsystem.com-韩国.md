@@ -2,7 +2,7 @@
 
 > **评级 C**　|　韩国　|　档案编号 `SC-1191`　|　优先级 —　|　状态：发不过去
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：韩国 CNG System（cngsystem.com 退信；dialogic.co.kr 正常；表内「CENTEC Switch」）：CENTEC 敲门砖 ✔ Simon 点名韩国；退信 ≠ 死 → 闸 2 查底数（bizno）+ 换 dialogic.co.kr 地址；低优先
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ CENTEC 敲门砖 · 分销 20%：(주)씨앤지시스템 CNG System（dialogic.co.kr；Seoul；Dialogic / AudioCodes 通信卡分销）部分坐实（사업자 未取）；CENTEC 意向 ✔ 分销主体 ✔ 对位 ✔ → P 池候选（换 dialogic.co.kr 地址再发）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：A优质名单(KR)、AI评估(KR)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1191
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 13
 country: 韩国
 region: 亚太
@@ -38,6 +38,30 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（24 口 PoE L2+ 走量款）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `cngsystem.com` → 主机商 cPanel 类邮箱（MX：mail.cngsystem.com）。主机商附带邮箱（主机商 cPanel 类邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+- `dialogic.co.kr` → 自建 / 同域名邮件服务器（MX：mail.dialogic.co.kr）。自建邮件服务器：有自己的 IT（可能灰名单 → 首封延迟几小时才进箱），像素可用；读信的是技术人，参数先于价格
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 130 批（KR · 1 次检索：dialogic.co.kr.siteindices.com（站点标题 / 定位）；bolta 同名不对应；사업자 未取；2026-10-29，2026-10-29 查；https://dialogic.co.kr.siteindices.com/）：**
+
+- 法定名 / 登记号：(주)씨앤지시스템 CNG System（cngsystem.com → dialogic.co.kr；**站点标题「::: CNG System ::: ㈜씨앤지시스템」；服务器定位 Seoul 동작구；Dialogic / AudioCodes / Sangoma 通信卡 / 录音板分销；사업자 未取（同名 주식회사 씨앤지 127-86-49224 为杨州金属加工，不采）**）；表内：问过 CENTEC 交换机；support@dialogic.co.kr · 未取（사업자 未查到） · 状态 **营业中（站点在线）** · 成立 未取 · 주식회사
+- 行业码 / 经营范围：通信卡 / 电信设备分销（首尔）
+- 注册地址：未取（Seoul, 동작구 服务器定位）
+- 规模档：小型 / 中型
+- 账目：未取；—
+- 高管：（具名 KP 未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **CENTEC 敲门砖 → 分销 20%：一页纸一次（STH-2C24XF-HSI $1,500 / STH-8C48DX-HSI $4,800 + STC 接入线；无 KC 买方自证）换 dialogic.co.kr 地址再发— 韩国常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳；无 KC（买方自行认证，SDT 先例）；周二 / 周四 10–12 KST**
+- 备注：分销 20%；P 池候选 ○（CENTEC 意向 ✔ 分销主体 ✔ 对位 ✔）；部分坐实（사업자 未取）。
 
 ## 基本事实（事实/推断/假设分层）
 

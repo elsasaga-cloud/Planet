@@ -2,7 +2,7 @@
 
 > **评级 C**　|　印度　|　档案编号 `SC-1366`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：印度 Mayenet Solutions（mayenetsolutions.com 域 nxdomain；mayenet.com 正常；「不太要工业级，要商业级全千兆不要混合速率，想拿样」）：真意向 + 样品 ✔ 对位 ✔（STC-2224GP 全千兆）Simon 点名印度 → 闸 2 查底数 + 换 mayenet.com 地址；低优先
+> **C 池筛选：留 C 储备**（闸 2 · 2026-10-29）：闸 2 回 C（真意向例外）：Mayenet 1 查仅近名 Mazenet → 未坐实；想拿样 ✔ → 回 C 储备 + 单次样品报价例外（STC-228GP 样机 + 运费 预付 100%），回信即补查法人
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:India　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1366
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: keep_C  # 闸 2 G2 2026-10-29
 score: 11
 country: 印度
 region: 南亚
@@ -39,6 +39,31 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STI-288DGGPM（工业 L2+ 8 PoE + 2×2.5G SFP）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `mayenetsolutions.com` → 域名不存在。域名已不存在（NXDOMAIN）：这个域的所有地址都退信；公司可能换了域名或关门 → 先核再发，核不到就降级
+- `mayenet.com` → Microsoft 365（MX：mayenet-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+- 其他域名仍活：`mayenet.com` → 只用这些域的地址
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 130 批（IN · 1 次检索：crunchbase / devex / rocketreach 近名 Mazenet → 域名未对上；2026-10-29，2026-10-29 查；）：**
+
+- 法定名 / 登记号：Mayenet（mayenet.com / mayenetsolutions.com；**1 查仅得 Mazenet Solution（Chennai Nungambakkam；IT 服务 / 铁路项目）等近名他户 → 法人未取 → 未坐实**）；表内：真意向 — 想拿样；具名 ikar@mayenet.com · 未取 · 状态 **未坐实** · 成立 未取 · 未取
+- 行业码 / 经营范围：网络方案（印度，待证）
+- 注册地址：未取
+- 规模档：未知
+- 账目：未取；—
+- 高管：Ikar — （表内具名邮箱 ikar@mayenet.com）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **未坐实但真意向（想拿样）→ 回 C 储备 + 例外：直接回一次样品报价（STC-228GP 样机 $35 + 运费，预付 100%）看回信，回信即补查法人**— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST
+- 备注：回 C（未坐实；真意向保留 → 单次样品报价例外）。
 
 ## 基本事实（事实/推断/假设分层）
 

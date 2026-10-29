@@ -2,7 +2,7 @@
 
 > **评级 C**　|　韩国　|　档案编号 `SC-185`　|　优先级 —　|　状态：已推送 22 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：韩国 DASAN Networks（dasannetworks.com；上市网络设备集团；表内「三旺的长期合作客户」「质量高」= 长期进口中国工业交换机；KP Richard / jrcho@）：Simon 点名韩国 + 进口中国同类品牌 + 对位 ✔，群发 22 次 0 回 → 闸 2 查底数（DART）+ 找产品采购 KP；低优先，可否决　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 上市设备商 · OEM 30%（长线）：(주)다산네트웍스 DASAN Networks, Inc.（Seongnam 板桥；사업자 129-81-16613；법인 110111-0924765；KOSDAQ 039560；1993；대표 남민우）坐实；长期进口中国工业线 ✔ 具名 KP ✔ 对位 ✔ 坐实 ✔ → P 池候选（无 KC 买方自证）　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：上市网络设备集团（韩国，同行）（推断）　|　**历史关系**：推送 22 次（2024-04-29 → 2025-10-30）　|　**所在清单**：A优质名单(KR)、AI评估(KR)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-185
 rating: C
 rating_auto: B
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 rating_research: C  # 上市网络设备集团（同行/体量）；c_sub=体量过大/同行
 score: 30
 country: 韩国
@@ -40,6 +40,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（深挖对位：上市网络设备制造集团（自研产品、集团采购）→ 改 C（体量/同行））
 - **最大未知**：年走量与现供应商
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `dasannetworks.com` → Microsoft 365（MX：dasannetworks-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 130 批（KR · 1 次检索：bizno.net/article/1298116613（사업자 / 법인번호 / 대표 / 주소）+ englishdart.fss.or.kr（KOSDAQ 039560 / 1993）；2026-10-29，2026-10-29 查；https://englishdart.fss.or.kr/dsbc001/selectPopup.ax?selectKey=00268251）：**
+
+- 法定名 / 登记号：(주)다산네트웍스 DASAN Networks, Inc.（dasannetworks.com；**사업자등록번호 129-81-16613；법인등록번호 110111-0924765；KOSDAQ 039560；1993-03-04 설립；대표 남민우 Nam Min Woo；DASAN Tower 10F, 49 Daewangpangyo-ro 644beon-gil, Bundang-gu, Seongnam, Gyeonggi 13493；070-7010-1000；유선 통신장비 제조；44 人在册（控股层面）**）；表内：长期进口三旺工业交换机；具名 KP 在 · 129-81-16613（사업자등록번호）/ 110111-0924765（법인등록번호） · 状态 **계속사업자（KOSDAQ 上市）** · 成立 1993-03-04 · 주식회사（上市）
+- 行业码 / 经营范围：有线通信设备制造（城南板桥）
+- 注册地址：DASAN Tower 10F, 49 Daewangpangyo-ro 644beon-gil, Bundang-gu, Seongnam-si, Gyeonggi-do 13493
+- 规模档：大型（上市集团；DZS 母体）
+- 账目：未取；—
+- 高管：남민우 Nam Min Woo — 대표이사
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **上市设备商贴牌 / 配套 → OEM 30%（长线）：点名表内 KP 一页纸一次（STI-288GPM / STI-488DGGPM 工业线 + STC-4424GCPM 贴牌 + 中性包装；三旺不点名；无 KC 买方自证）— 韩国常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳；无 KC（买方自行认证，SDT 先例）；周二 / 周四 10–12 KST**
+- 备注：OEM 30%；P 池候选 ★ 长线（上市品牌商 ✔ 已进口中国工业线 ✔ 对位 ✔ 坐实 ✔）；坐实（DART）。
 
 ## 基本事实（事实/推断/假设分层）
 

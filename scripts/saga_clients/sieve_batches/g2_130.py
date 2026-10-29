@@ -1,0 +1,119 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""C 池三闸 · 闸 2 · 第 130 批（2026-10-29）—— 闸 1 第 12–25 批（桶 ⑥「企业邮箱 · 其他区」）候选 75 户中的**非俄语区段 42 户** = IN 17 / KR 6 / TW 5 / JP 1 / ZA 7 / AU 1 / BR 2 / MX 1 / AE 2，底数见 registry_batches/b130_c.py。本批跑完 → 闸 1 第 01–25 批候选 75 户全部过闸 2（candidate 归零）。
+
+闸 2 结论写回 sieve.json（gate=2, rule=G2, batch=G2-130）：
+  · pool_candidate = 法人 / 官网坐实或部分坐实 + §5 条数够 → 「P 池候选」，等 Simon 定夺；微型 / 国别存疑 → △ 观察档 + 预付 100%。
+  · keep_C = 未坐实（1 查仅同名他户：Enercore / Nextik / TrueView / Lapis / ASI / Mayenet）/ 主业转向（SDT 量子计算）/ 微型 SMME（Chiisa）→ 回 C 储备。无新 pass_final。
+  · 国别存疑（待 Simon，未写 research）：SC-455 AGS 表内韩国 ↔ ZoomInfo 美国 Albuquerque；SC-577 Leap 表内沙特 ↔ 总部阿布扎比（沙特姊妹公司）。
+tier：★★ 首选 / ★ 品牌商 · 中型分销 / ○ 分销 · 集成 / △ 观察档（微型 / 国别存疑 → 预付 100%）。
+
+用法：python3 sieve_batches/g2_130.py   （幂等；写 sieve.json + docs/requirements/C池闸2_批130_2026-10-29.md）
+"""
+import os
+import sys
+from collections import Counter
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, os.path.dirname(HERE))
+import sieve  # noqa: E402
+
+BATCH = 'G2-130'
+DATE = '2026-10-29'
+
+V = {
+    # ---- 印度 · 自有品牌 / 制造商 ----
+    'SC-413': ('pool_candidate', '★ 自有品牌 · OEM 30%：Hi-Focus Electronics India Pvt Ltd（Chennai；CIN U51909TN2015PTC099815；GSTIN 33AADCH5807L1ZJ；2015；实收 ₹1 Cr；15 GST 登记 = 多邦网络；MD Shobhalal Mukesh Kumar）坐实；自有品牌 ✔ 中国代工 ✔ 对位 ✔ 坐实 ✔ → P 池候选', ['oem_target']),
+    'SC-1042': ('pool_candidate', '★ 巨头品牌商 · OEM 30%（长线）：Aditya Infotech Limited / CP PLUS（Noida；NSE: CPPLUS；1,402 人；印度第一 CCTV 品牌 43.3% 份额；800+ 分销商）坐实；自有品牌 ✔ 巨型 ✔ 对位 ✔ → P 池候选（LinkedIn 点名采购；长线）', ['oem_target']),
+    'SC-1352': ('pool_candidate', '★ 自有品牌 · OEM 30%：Globus Infocom Limited（Noida；官网页脚 CIN U72100UP2001PLC126647；2001；Make-in-India 教育科技 / 显示 / 安防品牌；InfoComm 2023/2024 参展）坐实；自有品牌 ✔ 参展活跃 ✔ 对位 ✔ 坐实 ✔ → P 池候选', ['oem_target']),
+    'SC-1365': ('pool_candidate', '★ 制造商 · OEM 30%：Masibus Automation And Instrumentation Pvt Ltd（Gandhinagar；CIN U32201GJ1987PTC009994；1987；135 人；FY25 ₹100–500 Cr；Associate Director Sales D Kachhiya）坐实；已进口中国工业交换机 ✔ 对位 ✔ 坐实 ✔ 具名销售负责人 ✔ → P 池候选', ['oem_target']),
+    'SC-1371': ('pool_candidate', '★ 全线自有品牌 · OEM 30%：WatchDog = Apollo Infoways Pvt Ltd（Noida Sector-63；PoE / 工业 / DC 交换机全线自有品牌；GeM 上架；Bangalore / Dubai / Singapore 办事处）部分坐实（CIN 未取）；自有品牌全线 ✔ 对位 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon：默认只推 SmartByte / Marvell 管理 + 工业线）', ['oem_target']),
+    'SC-1521': ('pool_candidate', '○ 自研品牌 · OEM 30%（长线）：Nivetti Systems Pvt Ltd（Bangalore JP Nagar；2014；51–200 人；自研 2.4 Tbps 路由器 2024）部分坐实（CIN 未取）；高端自研、接入层可能贴牌 ✔ 对位 ✔ → P 池候选（长线）', ['oem_target']),
+    # ---- 印度 · 分销 / 集成 / ISP ----
+    'SC-898': ('pool_candidate', '★ 中型分销 20%：Plexonics Technologies Limited（Chandigarh；CIN U72900CH2011PLC033105；2011；实收 ₹5.35 Cr；3 董事）坐实；多牌进口 ✔ 对位 ✔ 坐实 ✔ → P 池候选', []),
+    'SC-463': ('pool_candidate', '○ 方案集成 25%：Atronic Systems Pvt Ltd（Noida Sector-122；51–200 人；Operations Head Arti Kohli）部分坐实（CIN 未取）；已用中国 PoE ✔ 对位 ✔ → P 池候选（点名 Arti Kohli）', []),
+    'SC-1339': ('pool_candidate', '△ 观察档 · 分销 20% + 预付 100%：Econtrol Devices Pvt Ltd（Faridabad；CIN U51909HR2019PTC081687；2019；₹1 lakh；<₹1 Cr；董事 Rekha Sorout = 登记邮箱 决策人直达）坐实但微型；进口台湾工业线 ✔ 对位 ✔ → 入池观察档；可否决', []),
+    'SC-1344': ('pool_candidate', '○ 中型区域 ISP 自用进口 · 直客 25%：Excell Media Pvt Ltd（Hyderabad；CIN U64203TG1998PTC030014；1998；实收 ₹6 Cr）坐实；已进口台湾管理型 ✔ 对位 ✔ 坐实 ✔（中型区域 ISP ≠ 巨头运营商）→ P 池候选', []),
+    'SC-1403': ('pool_candidate', '○ 小集成 25%：Triflex Infocom（Bangalore HAL 3rd Stage；2004；<$5M）部分坐实（目录页，CIN 未取）；已进口中国 MC / PoE ✔ 对位 ✔ → P 池候选', []),
+    # ---- 印度 · 回 C ----
+    'SC-324': ('keep_C', '闸 2 回 C：Enercore（enercore.co.in）1 查仅得同名 Enercore Solutions（Gurgaon 2023 住宅地址 微型 IT 服务）域名归属未证 → 未坐实 → 回 C 储备', []),
+    'SC-509': ('keep_C', '闸 2 回 C：Nextik（nextik.co.in）1 查仅得 X 账号 + 同名他户 → 法人未取 → 未坐实 → 回 C 储备', []),
+    'SC-969': ('keep_C', '闸 2 回 C：TrueView（trueview.co.in）1 查仅同名两户（True View Technologies Delhi 2008 / TrueView Corporate Mumbai 2022）域名归属未证 → 未坐实 → 回 C 储备（具名 KP manish@ / rupesh.bagde@ 在，来信再起则补查 CIN）', []),
+    'SC-1203': ('keep_C', '闸 2 回 C（未坐实 + 红旗）：Lapis Technologies 1 查仅同名 Shimoga 户（CIN U74993KA2018PTC109130；₹1 lakh；zaubacorp Strike Off）归属未证 → 回 C 储备', []),
+    'SC-1322': ('keep_C', '闸 2 回 C：ASI（asi.ind.in）1 查仅同名 ASI Industries（矿业）等 → 未坐实 → 回 C 储备', []),
+    'SC-1366': ('keep_C', '闸 2 回 C（真意向例外）：Mayenet 1 查仅近名 Mazenet → 未坐实；想拿样 ✔ → 回 C 储备 + 单次样品报价例外（STC-228GP 样机 + 运费 预付 100%），回信即补查法人', []),
+    # ---- 韩国 ----
+    'SC-185': ('pool_candidate', '★ 上市设备商 · OEM 30%（长线）：(주)다산네트웍스 DASAN Networks, Inc.（Seongnam 板桥；사업자 129-81-16613；법인 110111-0924765；KOSDAQ 039560；1993；대표 남민우）坐实；长期进口中国工业线 ✔ 具名 KP ✔ 对位 ✔ 坐实 ✔ → P 池候选（无 KC 买方自证）', ['oem_target']),
+    'SC-387': ('pool_candidate', '★ 摄像机厂 · OEM 30%：(주)디지타스 DGTAS（안산；사업자 114-87-02536；대표 최상윤；AHD / IP 摄像机 R&D 制造）坐实；制造商 ✔ 微信路径 ✔ 对位 ✔ 坐实 ✔ → P 池候选', ['oem_target']),
+    'SC-455': ('pool_candidate', '△ 观察档 · 分销 20%：AGS Electronics（ags-electronics.com；ZoomInfo 载 Albuquerque NM 美国 11–50 人）国别存疑（表内韩国 → 疑美国，待 Simon 核）+ 法人未取 → 部分坐实；进口台湾工业线 ✔ 对位 ✔ → 入池观察档（若美国 = 主区 ✔）', []),
+    'SC-493': ('pool_candidate', '★ 监控品牌龙头 · OEM 30%（长线）：(주)아이디스 IDIS Co., Ltd.（大田；사업자 314-86-25786；법인 160111-0302755；1997；409 人；KOSDAQ；대표 김영달）坐实；自有品牌 ✔ 对位 ✔ 坐实 ✔ → P 池候选（找硬件采购；长线）', ['oem_target']),
+    'SC-1191': ('pool_candidate', '○ CENTEC 敲门砖 · 分销 20%：(주)씨앤지시스템 CNG System（dialogic.co.kr；Seoul；Dialogic / AudioCodes 通信卡分销）部分坐实（사업자 未取）；CENTEC 意向 ✔ 分销主体 ✔ 对位 ✔ → P 池候选（换 dialogic.co.kr 地址再发）', []),
+    'SC-1243': ('keep_C', '闸 2 回 C（主业转向）：SDT Inc. 에스디티（Seoul 강남；사업자 630-87-00933；CEO 윤지원）坐实但主业已转全栈量子计算 → 分销意向过期 + KC 问题 → 回 C 储备', []),
+    # ---- 台湾 / 日本 ----
+    'SC-172': ('pool_candidate', '★ 监控厂 · OEM 30%：COP Security System Corp.（新北新店；1992；$14.5M；联系人 Tony Jiang）部分坐实（統編未取）；制造商 ✔ 具名联系人 ✔ 对位 ✔ → P 池候选', ['oem_target']),
+    'SC-465': ('pool_candidate', '★ 上市监控品牌 · OEM 30%（长线）：陞泰科技 AV TECH CORPORATION（新北三重；統編 97092770；上市 8072；1996；實收 NT$8 億；代表人 陳世忠）坐实；自有品牌 ✔ 对位 ✔ 坐实 ✔ → P 池候选（长线）', ['oem_target']),
+    'SC-491': ('pool_candidate', '★ 上櫃监控品牌 · OEM 30%：昇銳智慧科技 Hi Sharp（桃園八德；統編 22601576；上櫃 3128；1987；董事長 江添貴 / 總經理 蕭哲彥）坐实；自有品牌 ✔ 对位 ✔ 坐实 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon）', ['oem_target']),
+    'SC-1029': ('pool_candidate', '△ 观察档 · OEM 30% + 预付 100%：Xentino Technologies Corp.（基隆；統編 54303706 官网自报；2013；6–10 人；GM Sinan Bedir；品牌面向土耳其 / 中东 / 东欧）坐实但微型；自有品牌 ✔ 主区市场 ✔ → 入池观察档；可否决', ['oem_target']),
+    'SC-1134': ('pool_candidate', '○ 自有品牌 · OEM 30%：XP Networks / XP Active Systems = ANTEK TECHNOLOGY CO., LTD.（台北衡陽路；+886 2-29124340）部分坐实（統編未取）；自有品牌 ✔ 对位 ✔ → P 池候选', ['oem_target']),
+    'SC-485': ('pool_candidate', '★ 日本自有品牌 · OEM 30%：FXC株式会社（東京台東区浅草橋；法人番号 4010501029351；2001；資本金 1 億円；50–100 人；関西 / 九州営業所）坐实；自有品牌 MC / 交换机 ✔ 中型 ✔ 对位 ✔ 坐实 ✔ → P 池候选', ['oem_target']),
+    # ---- 南非 ----
+    'SC-298': ('pool_candidate', '★ 大分销 20%：MiRO Distribution（Centurion；Enterprise No. B2002068592；2002；VAT 9199666141；R25M+；Cambium / Ubiquiti / BDCOM / MikroTik / Edge-corE；南部非洲 10 国）坐实；已进口中国同类 ✔ 对位 ✔ 坐实 ✔ 同区先例 ✔ → P 池候选', []),
+    'SC-382': ('pool_candidate', '★ 安防分销 20%：Security Warehouse (Pty) Ltd（Centurion；Reg 2003/015829/07；VAT 4600163721；101–250 人；MD Pasco Lattuca）坐实；分销主体 ✔ 对位 ✔ 决策人具名 ✔ → P 池候选', []),
+    'SC-622': ('pool_candidate', '○ 工业分销 20%：Industrial Automation and Control (Pty) Ltd — IAC（Centurion Samrand；Communica 集团；Hirschmann / Belden / Korenix / Advantech 非洲分销）部分坐实（Reg No 未取）；工业分销主体 ✔ 对位 ✔ → P 池候选（价位补充线）', []),
+    'SC-644': ('pool_candidate', '★ 批发分销 20%：Scoop Distribution (Pty) Ltd（Cape Town / Midrand；Reg 2001/007610/07；VAT 4830195584；Ubiquiti / MikroTik / Tenda / Reyee / Fanvil 授权）坐实；已进口中国同类 ✔ 对位 ✔ 坐实 ✔ → P 池候选', []),
+    'SC-1283': ('pool_candidate', '★ 安防分销 20%：Reditron (Pty) Ltd（Johannesburg Linbro Park；Reg 2002/028391/07 自报）坐实；分销主体 ✔ 对位 ✔ 坐实 ✔ → P 池候选', []),
+    'SC-1332': ('pool_candidate', '★ 自有品牌 UltraLAN · OEM 30%：DBG Distribution（原 Uniterm Direct；JHB / CPT / DBN；2002；自有 UltraLAN PoE 交换机 / 延长器 / 注入器 + Ubiquiti / Tenda / Optcore 代理）部分坐实（Reg No 未取）；自有品牌 ✔ 分销网络 ✔ 对位 ✔ → P 池候选（光纤 / SFP 走本职线）', ['oem_target', 'dayjob_fit']),
+    'SC-1552': ('keep_C', '闸 2 回 C（微型）：Chiisa Technologies Pty Ltd（Polokwane；2015；SMME IT 服务）部分坐实但微型 → 回 C 储备', []),
+    # ---- 澳 / 巴西 / 墨西哥 / 海湾 ----
+    'SC-397': ('pool_candidate', '★ 自有品牌 · OEM 30%：Alloy Computer Products (Australia) Pty Ltd（ABN 41 006 507 473；制造商 + 增值分销；自有 PoE AS2008-P / AS1026-P、L3 Lite AS5010-P、MC GCR2000）坐实；自有品牌 ✔ 对位 ✔ 坐实 ✔ → P 池候选', ['oem_target']),
+    'SC-1038': ('pool_candidate', '★ 大集成 25%（长线）：Teltex Tecnologia SA（São Paulo；CNPJ 73.442.360/0001-17；33 年；巴西前 5 安防集成商；葡 / 美办事处）坐实；大集成 ✔ 对位 ✔ 坐实 ✔ → P 池候选（找采购 / 工程部；长线）', []),
+    'SC-1379': ('pool_candidate', '★ 自有品牌制造商 · OEM 30%：Parks S.A. Comunicações Digitais（Cachoeirinha RS；CNPJ 92.679.331/0001-18；1972；通信传输设备制造）坐实；自有品牌 ✔ 制造商 ✔ 对位 ✔ 坐实 ✔ → P 池候选（GPON / 光模块走本职线）', ['oem_target', 'dayjob_fit']),
+    'SC-1117': ('pool_candidate', '★ 巨头分销 20%（长线）：SYSCOM = Sistemas y Servicios de Comunicación, S.A. de C.V.（Chihuahua；501–1000 人；电信 + 安防批发）坐实（法人名 + 地址；RFC 未取）；巨型分销 ✔ 对位 ✔ → P 池候选（找网络产品线经理；长线）', []),
+    'SC-577': ('pool_candidate', '○ 油气工业集成 25%：Leap Networks（Abu Dhabi；2012；11–20 人；CEO Muhammad Ashfaq = 表内具名 KP；ISO 9001 / 14001 / 45001；沙特姊妹公司 Leap Networks Arabia）部分坐实（执照未取）；决策人直达 ✔ 工业对位 ✔ → P 池候选；表内沙特 ↔ 总部阿联酋 备注待 Simon', ['dayjob_fit']),
+    'SC-1248': ('pool_candidate', '○ 真意向 · 贸易 / 集成 25% + 预付 100%：Avensia Group（Dubai Al Qusais；P.O. Box 87334；综合贸易 + IT）部分坐实（执照未取）；想换供应商 ✔ WA ✔ 对位 ✔ → P 池候选', []),
+}
+
+
+def main():
+    assert len(V) == 42
+    ents = {e['code']: e for e in sieve.load_entities()}
+    sv = sieve.load_sieve()
+    for code, (verdict, reason, tags) in V.items():
+        assert verdict in ('pool_candidate', 'keep_C', 'pass_final') and len(reason) >= 12, code
+        cur = sv.get(code) or {}
+        assert cur.get('verdict') in ('candidate', verdict) or cur.get('batch') == BATCH, ('not a gate-1 candidate', code, cur)
+        g1_batch = cur.get('g1_batch') or (cur.get('batch') if cur.get('gate') == 1 else None)
+        g1_reason = cur.get('g1_reason') or (cur.get('reason') if cur.get('gate') == 1 else None)
+        row = {'verdict': verdict, 'gate': 2, 'rule': 'G2', 'reason': reason, 'date': DATE, 'manual': True, 'batch': BATCH,
+               'g1_batch': g1_batch, 'g1_reason': g1_reason}
+        old_tags = set(cur.get('tags') or [])
+        new_tags = sorted(old_tags | set(tags))
+        if new_tags:
+            row['tags'] = new_tags
+        sv[code] = row
+    cnt = sieve.save_sieve(sv)
+    c = Counter(v[0] for v in V.values())
+    L = [f'# C 池 · 闸 2 · 第 130 批（{DATE}）—— 闸 1 第 12–25 批（桶 ⑥）候选 · 非俄语区段 42 户查底数（候选 75 户全部过闸 2）', '',
+         f'> 底数明细见 `data/saga_clients/registry/`（`registry_batches/b130_c.py`，第 130 批）并已渲染进各户 MD「公司底数」块；本表为闸 2 结论，写入 `data/saga_clients/sieve.json`（gate=2, batch={BATCH}）。'
+         f' 结果：**P 池候选 {c["pool_candidate"]} / 回 C {c["keep_C"]}**（无新永久 pass）。坐实 23 / 部分坐实 12（WatchDog、Nivetti、Atronic、Triflex、AGS、CNG、COP、XP Networks、IAC、DBG、Leap、Avensia）/ 未坐实 6（Enercore、Nextik、TrueView、Lapis、ASI、Mayenet）+ 主业转向 1（SDT）。'
+         ' 国别存疑待 Simon：SC-455 AGS 表内韩国 ↔ ZoomInfo 美国 Albuquerque；SC-577 Leap 表内沙特 ↔ 总部阿布扎比。本批跑完 → 闸 1 第 01–25 批候选 75 户全部过闸 2，candidate 归零；P 池候选累计 155。', '',
+         '> 档位：★ 22 = 自有品牌 / 制造商 15（HiFocus、CP PLUS、Globus、Masibus、WatchDog、DASAN、DGTAS、IDIS、COP、AVTECH、Hi Sharp、FXC、DBG/UltraLAN、Alloy、Parks）+ 中型 · 大分销 / 集成 7（Plexonics、MiRO、Security Warehouse、Scoop、Reditron、Teltex、SYSCOM）；'
+         '○ 9 = Nivetti、Atronic、Excell Media、Triflex、CNG、XP Networks、IAC、Leap、Avensia；△ 观察档 3 = Econtrol（微型）/ AGS（国别存疑）/ Xentino（微型）；'
+         '回 C 8 = 未坐实 6 + 主业转向 1（SDT）+ 微型 1（Chiisa）。Q-33 洪瑞现供：WatchDog / Hi Sharp 口径待 Simon。'
+         '**Simon 可按编号否决**。', '']
+    for verdict, title in (('pool_candidate', 'P 池候选'), ('keep_C', '回 C 储备'), ('pass_final', '永久 pass')):
+        rows = [(k, v) for k, v in V.items() if v[0] == verdict]
+        if not rows:
+            continue
+        L += [f'## {title}（{len(rows)}）', '', '| 编号 | 公司 / 名 | 国家 | 标签 | 闸 2 结论 |', '|---|---|---|---|---|']
+        for k, (vd, rs, tags) in sorted(rows):
+            e = ents[k]
+            L.append(f"| `{k}` | {sieve.md(e.get('name'))} | {e.get('country') or '未填'} | {'、'.join(sorted(set(tags) | set((sv[k].get('tags') or []))))} | {sieve.md(rs)} |")
+        L.append('')
+    p = os.path.join(sieve.REQ, f'C池闸2_批130_{DATE}.md')
+    open(p, 'w', encoding='utf-8').write('\n'.join(L))
+    print(BATCH, len(V), dict(c), 'sieve', dict(cnt), os.path.relpath(p, sieve.ROOT))
+
+
+if __name__ == '__main__':
+    main()

@@ -4,7 +4,7 @@
   "source": "Australia · ABN Lookup（abr.business.gov.au，官方）",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 15
+  "count": 16
  },
  "rows": {
   "SA-024": {
@@ -491,6 +491,36 @@
    ],
    "notes": "成单回访；P 池候选 △ + dayjob_fit（长期成单 ✔ KP 在职 ✔；产品偏光传输 + 巨头体系 → 观察档）；部分坐实（ABN 未取）。",
    "code": "SC-2106"
+  },
+  "SC-397": {
+   "batch": 130,
+   "name": "Alloy Computer Products (Australia) Pty. Ltd.（alloy.com.au；**ABN 41 006 507 473（buy.nsw.gov.au 供应商库）；制造商 + 增值分销；自有品牌 PoE 交换机 AS2008-P / AS2024-P / AS1008-P / AS1026-P、L3 Lite 管理型 AS5010-P / AS5128-F、MC GCR2000SC / AC1020SC；自述向英美澳新菲政府机构供光纤设备 15 年+**）；表内：澳洲自有品牌交换机 / MC",
+   "iso": "AU",
+   "fetched": "2026-10-29",
+   "source": "AU · 1 次检索：buy.nsw.gov.au/supplier/profile/103131（ABN）+ alloy.com.au/products/vendor/alloy/ + /alloy/（自有品牌线）；2026-10-29",
+   "url": "https://buy.nsw.gov.au/supplier/profile/103131",
+   "number": "41 006 507 473（ABN）",
+   "status": "Active（NSW 供应商库 / 官网）",
+   "incorporated": "未取",
+   "company_type": "Pty Ltd",
+   "sic": [
+    "网络设备自有品牌 / 增值分销（墨尔本）"
+   ],
+   "address": "未取（Victoria，官网未抄）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（SME）",
+   "officers": [
+    "（具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌 → OEM 30%：一页纸一次（STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM 贴牌 Alloy + 中性包装 + MOQ 1 + 付费样机）— 其他区常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP 买方清关；周二 / 周四 当地 10–12**"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（自有品牌 ✔ 对位 ✔ 坐实 ✔）；坐实（ABN）。",
+   "code": "SC-397"
   }
  }
 }

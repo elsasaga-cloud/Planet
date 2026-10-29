@@ -2,7 +2,7 @@
 
 > **评级 C**　|　印度　|　档案编号 `SC-898`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：印度 Plexonics（plexonics.com；百通 + 「买很多国内的 PoE」）：进口中国同类 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 中型分销 20%：Plexonics Technologies Limited（Chandigarh；CIN U72900CH2011PLC033105；2011；实收 ₹5.35 Cr；3 董事）坐实；多牌进口 ✔ 对位 ✔ 坐实 ✔ → P 池候选
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(IN)·DONE、群发(富通天下)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-898
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 17
 country: 印度
 region: 南亚
@@ -39,6 +39,31 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（24 口 PoE L2+ 走量款）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `plexonics.com` → Microsoft 365（MX：plexonics-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 130 批（IN · 1 次检索：thecompanycheck（CIN / 董事 / 地址）+ tofler（PAN / 实收 / 邮箱）；2026-10-29，2026-10-29 查；https://www.tofler.in/plexonics-technologies-limited/company/U72900CH2011PLC033105）：**
+
+- 法定名 / 登记号：Plexonics Technologies Limited（plexonics.com；**CIN U72900CH2011PLC033105；PAN AACCE7703P；2011-07-12 登记；非上市公众公司；ROC Chandigarh；授权 ₹10 Cr / 实收 ₹5.35 Cr（tofler；thecompanycheck 载 ₹1.35 Cr）；181/23 First Floor, Industrial Area Phase 1, Chandigarh 160002；董事 Come Alexandre Carpentier / Avneet Bansal / Akshay Sharma；finance@plexonics.com；IT 产品零售 & 分销**）；表内：Belden + 多牌中国 PoE 分销 · U72900CH2011PLC033105（CIN） · 状态 **Active（MCA 2026）** · 成立 2011-07-12 · Public Limited（非上市）
+- 行业码 / 经营范围：IT / 网络产品分销（昌迪加尔）
+- 注册地址：181/23 First Floor, Industrial Area Phase 1, Chandigarh 160002
+- 规模档：中型（实收 ₹5.35 Cr）
+- 账目：未取；—
+- 高管：Come Alexandre Carpentier — Director
+- 高管：Avneet Bansal — Director
+- 高管：Akshay Sharma — Director
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **中型分销 20%：一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-2224GP $86 分销价 + MOQ 1 + 付费样机；Belden 不点名）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST**
+- 备注：分销 20%；P 池候选 ★（分销主体 ✔ 多牌进口 ✔ 对位 ✔ 坐实 ✔）；坐实。
 
 ## 基本事实（事实/推断/假设分层）
 

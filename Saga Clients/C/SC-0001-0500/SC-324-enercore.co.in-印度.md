@@ -2,7 +2,7 @@
 
 > **评级 C**　|　印度　|　档案编号 `SC-324`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：印度 Enercore（enercore.co.in；表内「工业 FS 有海思的」= 在售中国方案工业机）：进口中国同类 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先
+> **C 池筛选：留 C 储备**（闸 2 · 2026-10-29）：闸 2 回 C：Enercore（enercore.co.in）1 查仅得同名 Enercore Solutions（Gurgaon 2023 住宅地址 微型 IT 服务）域名归属未证 → 未坐实 → 回 C 储备
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(IN)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-324
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: keep_C  # 闸 2 G2 2026-10-29
 score: 23
 country: 印度
 region: 南亚
@@ -39,6 +39,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STI-288DGGPM（工业 L2+ 8 PoE + 2×2.5G SFP）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `enercore.co.in` → Google Workspace（MX：SMTP.GOOGLE.COM）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 130 批（IN · 1 次检索：tofler / thecompanycheck / filesure 同名 Enercore Solutions（Gurgaon 2023 微型）→ 域名未对上；2026-10-29，2026-10-29 查；）：**
+
+- 法定名 / 登记号：Enercore（enercore.co.in；**1 查仅得 Enercore Solutions Private Limited（CIN U62013HR2023PTC113183；2023-07-10；Gurgaon Sector-56 住宅地址 J-6058 Devender Vihar；实收 ₹1 lakh；董事 Manav Yadav / Sanjeev Yadav；IT 服务类）— 与 enercore.co.in 归属未证 → 未坐实**）；表内：询过工业交换机 · 未取（同名 CIN U62013HR2023PTC113183 不采） · 状态 **未坐实** · 成立 未取 · 未取
+- 行业码 / 经营范围：工业网络（印度，待证）
+- 注册地址：未取
+- 规模档：未知（同名户为微型）
+- 账目：未取；—
+- 高管：（具名 KP 未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **未坐实 → 回 C 储备；来信再起则预付 100%**— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST
+- 备注：回 C（未坐实：1 查仅同名微型他户）。
 
 ## 基本事实（事实/推断/假设分层）
 

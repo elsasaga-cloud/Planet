@@ -2,7 +2,7 @@
 
 > **评级 C**　|　印度　|　档案编号 `SC-463`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：印度 Atronic（atronic.co.in；表内「logo 都没换，还是 ONV 的」= 直售中国品牌）：进口中国同类 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 方案集成 25%：Atronic Systems Pvt Ltd（Noida Sector-122；51–200 人；Operations Head Arti Kohli）部分坐实（CIN 未取）；已用中国 PoE ✔ 对位 ✔ → P 池候选（点名 Arti Kohli）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(IN)·DONE、群发(筛选后质量一般的_群发)、表:India　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-463
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 20
 country: 印度
 region: 南亚
@@ -39,6 +39,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `atronic.co.in` → Zoho Mail（MX：mx.zoho.in、mx2.zoho.in、mx3.zoho.in）。中小企业云邮箱（Zoho Mail）：过滤中等、像素一般可用；这类公司邮箱通常老板或销售本人收，信要短、带型号和一口价
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 130 批（IN · 1 次检索：atronic.co.in/products/（页脚法人 / 地址 / 电话）+ zoominfo（规模 / Operations Head）；CIN 未取；2026-10-29，2026-10-29 查；https://atronic.co.in/products/）：**
+
+- 法定名 / 登记号：Atronic Systems Pvt Ltd（atronic.co.in；**官网页脚：1st & 3rd Floors, CM-17, Gopala Sweet, Sector-122, Noida, UP 201316；+91 87964 26475；ZoomInfo：51–200 人 / <$5M / 另址 26 Block C, Noida 201304；Operations Head Arti Kohli；门禁 / RFID / RTLS / 机器人 / 远程塔站管理 / 公共监控信息系统**）；CIN 未取；表内：方案商，ONV 交换机原样转售 · 未取（CIN 未查） · 状态 **营业中（官网 2022 / 目录 2026）** · 成立 未取 · Private Limited
+- 行业码 / 经营范围：安防 / 物联网方案集成（诺伊达）
+- 注册地址：1st & 3rd Floors, CM-17, Gopala Sweet, Sector-122, Noida, Uttar Pradesh 201316
+- 规模档：中型（51–200 人）
+- 账目：未取；—
+- 高管：Arti Kohli — Operations Head
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **方案商集成 25%：点名 Arti Kohli 一页纸一次（STC-228GP / STI-288GPM 塔站 / 门禁 PoE 场景 + MOQ 1 + 付费样机；ONV 不点名）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST**
+- 备注：集成 25%；P 池候选 ○（集成主体 ✔ 已用中国 PoE ✔ 对位 ✔）；部分坐实（CIN 未取）。
 
 ## 基本事实（事实/推断/假设分层）
 

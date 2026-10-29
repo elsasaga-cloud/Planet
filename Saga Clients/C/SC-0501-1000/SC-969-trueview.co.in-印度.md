@@ -2,7 +2,7 @@
 
 > **评级 C**　|　印度　|　档案编号 `SC-969`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：印度 TrueView（trueview.co.in；自有品牌 CCTV + 商业 PoE「同行的」，有人卖他们的设备）：自有品牌 = OEM 对象 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：留 C 储备**（闸 2 · 2026-10-29）：闸 2 回 C：TrueView（trueview.co.in）1 查仅同名两户（True View Technologies Delhi 2008 / TrueView Corporate Mumbai 2022）域名归属未证 → 未坐实 → 回 C 储备（具名 KP manish@ / rupesh.bagde@ 在，来信再起则补查 CIN）　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：分销商/经销商（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(IN)·DONE、群发(筛选后质量一般的_群发)、表:India　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-969
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: keep_C  # 闸 2 G2 2026-10-29
 score: 17
 country: 印度
 region: 南亚
@@ -39,6 +39,30 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-28DGGPM（8 口 PoE + 2 SFP L2+）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `trueview.co.in` → Zoho Mail（MX：mx.zoho.com、mx2.zoho.com、mx3.zoho.com）。中小企业云邮箱（Zoho Mail）：过滤中等、像素一般可用；这类公司邮箱通常老板或销售本人收，信要短、带型号和一口价
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 130 批（IN · 1 次检索：tracxn 同名两户（Delhi 2008 / Mumbai 2022）→ 域名未对上；2026-10-29，2026-10-29 查；）：**
+
+- 法定名 / 登记号：TrueView（trueview.co.in；**1 查仅得同名：True View Technologies Private Limited（CIN U74999MR2008PTC475132；L-305-A, Dua Complex, Shakarpur, East Delhi 110092；2008-06-04；54 人（2025-08）；FY25 <₹10 Cr）/ TrueView Corporate Services（Mumbai 2022）— trueview.co.in 归属未证（疑 Delhi 户）→ 未坐实**）；表内：自有 TrueView 品牌 CCTV；具名 KP manish@ / rupesh.bagde@ · 未取（疑似 CIN U74999MR2008PTC475132 未证，不采） · 状态 **未坐实** · 成立 未取 · 未取
+- 行业码 / 经营范围：CCTV 自有品牌（印度，待证）
+- 注册地址：未取（疑 Shakarpur, East Delhi）
+- 规模档：未知（疑 54 人）
+- 账目：未取；—
+- 高管：Manish — （表内具名邮箱）
+- 高管：Rupesh Bagde — （表内具名邮箱）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **未坐实 → 回 C 储备；具名 KP 在 → 来信再起则补查 CIN + OEM 30% + 预付 100%**— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST
+- 备注：回 C（未坐实：同名多户，域名归属未证；自有品牌线索保留）。
 
 ## 基本事实（事实/推断/假设分层）
 

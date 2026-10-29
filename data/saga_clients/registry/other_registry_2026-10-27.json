@@ -4,7 +4,7 @@
   "source": "其他国家官方 / 准官方登记",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 528
+  "count": 542
  },
  "rows": {
   "SA-061": {
@@ -16346,6 +16346,428 @@
    ],
    "notes": "OEM 30%；P 池候选 ★（自有品牌 ✔ 全线贴牌 = OEM 对象 ✔ 对位 ✔ 同区先例 ✔）；部分坐实（ИНН 未取）；Q-33 洪瑞现供待 Simon。",
    "code": "SC-897"
+  },
+  "SC-455": {
+   "batch": 130,
+   "name": "AGS Electronics（ags-electronics.com；**1 查 ZoomInfo：AGS-Electronics, 6565 Americas Pkwy NE Ste 200, Albuquerque, NM（美国）；(505) 550-6501；11–50 人；<$5M；电子制造 — 表内「韩国」与检索结果国别不一致 → 国别存疑（KR → US 待核）；韩国法人未取**）；表内：Atop 工业交换机经销，sales@ 公共邮箱",
+   "iso": "KR",
+   "fetched": "2026-10-29",
+   "source": "KR/US · 1 次检索：zoominfo.com/c/ags-electronics-inc/368409713（域名对上但落美国）；韩国 사업자 未取；2026-10-29",
+   "url": "https://www.zoominfo.com/c/ags-electronics-inc/368409713",
+   "number": "未取（国别待核）",
+   "status": "营业中（目录 2026）",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "工业网络 / 电子（国别存疑：韩国表内 / 美国检索）"
+   ],
+   "address": "6565 Americas Pkwy NE Ste 200, Albuquerque, NM（ZoomInfo，待核）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（11–50 人）",
+   "officers": [
+    "（具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**国别待核：若美国 = 主区 ✔ → 分销 20% 一页纸（STI-280GE / STI-288GPM 工业线 + MOQ 1；Atop 不点名）；若韩国 → 常规 + 无 KC**— 其他区常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP 买方清关；周二 / 周四 当地 10–12"
+   ],
+   "notes": "分销 20%；P 池候选 △（进口台湾工业线 ✔ 对位 ✔ 但国别存疑 KR → US 待核 + 法人未取 → 观察档）；部分坐实。",
+   "code": "SC-455"
+  },
+  "SC-485": {
+   "batch": 130,
+   "name": "FXC株式会社 FXC, Inc.（fxc.jp；**法人番号 4010501029351；設立 2001-01；資本金 1 億円；50–100 人；〒111-0053 東京都台東区浅草橋 3-20-15 浅草橋ミハマビル 7F；関西（新大阪）/ 九州（博多）営業所；ネットワーク機器の製造・販売・導入支援（メディアコンバータ / スイッチ 自有品牌）**）；表内：日本自有品牌 MC / 交换机",
+   "iso": "JP",
+   "fetched": "2026-10-29",
+   "source": "JP · 1 次检索：industlink.jp/company/1562839232/（法人番号 / 地址 / 規模 / 拠点）+ baseconnect（資本金 / 2001）；2026-10-29",
+   "url": "https://industlink.jp/company/1562839232/",
+   "number": "4010501029351（法人番号）",
+   "status": "营业中（2026）",
+   "incorporated": "2001-01",
+   "company_type": "株式会社",
+   "sic": [
+    "网络设备制造 / 销售（东京台东）"
+   ],
+   "address": "〒111-0053 東京都台東区浅草橋 3-20-15 浅草橋ミハマビル 7F",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（50–100 人；資本金 1 億円）",
+   "officers": [
+    "（具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**日本自有品牌 → OEM 30%：英文 / 日文一页纸一次（STC-228GP / STC-2224GP / STI-288GPM 贴牌 FXC + 中性包装 + MOQ 1 + 付费样机）— 其他区常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP 买方清关；周二 / 周四 当地 10–12**"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（自有品牌 ✔ 中型 ✔ 对位 ✔ 坐实 ✔）；坐实（法人番号）。",
+   "code": "SC-485"
+  },
+  "SC-298": {
+   "batch": 130,
+   "name": "MiRO Distribution（miro.co.za；**Enterprise No. B2002068592（2002-08-26 注册；Close corporation → 公司转换）；VAT 9199666141；R25M+ 档；法定地址 Unit 6, N1 Industrial Park, Landsmark Avenue, Kosmosdal Ext.11, Samrand 1685 / 营业 9 Landmarks Ave, Samrand Business Park, Centurion；+27 12 657 0960；sales@miro.co.za；品牌 Cambium / Ubiquiti / Grandstream / BDCOM / MikroTik / Siklu / Tenda / TP-Link / Mimosa / Edge-corE / Radwin / Ajax；覆盖南部非洲 10 国**）；表内：无线 / 网络大分销",
+   "iso": "ZA",
+   "fetched": "2026-10-29",
+   "source": "ZA · 1 次检索：b2bhint（注册号 / VAT / 法定地址 / 规模档）+ opening-hours（品牌 / 覆盖国）+ africabz；2026-10-29",
+   "url": "https://b2bhint.com/en/company/za/miro-distribution--B2002068592",
+   "number": "B2002068592（Enterprise No.）/ VAT 9199666141",
+   "status": "Active（2024-12 核）",
+   "incorporated": "2002-08-26",
+   "company_type": "(Pty) Ltd（原 CC）",
+   "sic": [
+    "网络 / 无线 / IP 视频分销（森图里恩）"
+   ],
+   "address": "9 Landmarks Ave, Samrand Business Park, Centurion 0157",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型 / 大型（R25M+；10 国）",
+   "officers": [
+    "（具名 KP 未取；sales@ 官网公开）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**大分销 20%：找产品经理一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-2224GP $86 分销价 + MOQ 1 + 付费样机；BDCOM / Edge-corE 不点名）— 南非常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP 买方清关；周二 / 周四 10–12 SAST**"
+   ],
+   "notes": "分销 20%；P 池候选 ★（分销主体 ✔ 已进口中国同类 ✔ 对位 ✔ 坐实 ✔ 同区先例 ✔）；坐实。",
+   "code": "SC-298"
+  },
+  "SC-382": {
+   "batch": 130,
+   "name": "Security Warehouse (Pty) Ltd（securitywarehouse.co.za；**官网 T&C：Reg 2003/015829/07；VAT 4600163721；118 Theuns Street, Cnr Theuns & Jakaranda, Hennopspark, Centurion 0172；+27 12 653 1005；info@securitywarehouse.co.za；创始人 / MD Pasco Lattuca（crunchbase）；101–250 人；电子安防分销 覆盖非洲**）；表内：CCTV 分销",
+   "iso": "ZA",
+   "fetched": "2026-10-29",
+   "source": "ZA · 1 次检索：securitywarehouse.co.za/support/terms-conditions/（Reg / VAT / 地址）+ crunchbase（MD / 规模）；2026-10-29",
+   "url": "https://securitywarehouse.co.za/support/terms-conditions/",
+   "number": "2003/015829/07（Reg No.）/ VAT 4600163721",
+   "status": "Active（官网 2025）",
+   "incorporated": "2003",
+   "company_type": "(Pty) Ltd",
+   "sic": [
+    "电子安防分销（森图里恩）"
+   ],
+   "address": "118 Theuns Street, Hennopspark, Centurion 0172",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（101–250 人）",
+   "officers": [
+    "Pasco Lattuca — Founder & Managing Director"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**安防分销 20%：点名 Pasco Lattuca 一页纸一次（STC-028GP $28 / STC-228GP $33 CCTV 配套 + MOQ 1 + 付费样机）— 南非常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP 买方清关；周二 / 周四 10–12 SAST**"
+   ],
+   "notes": "分销 20%；P 池候选 ★（分销主体 ✔ 对位 ✔ 坐实 ✔ 决策人具名 ✔）；坐实。",
+   "code": "SC-382"
+  },
+  "SC-622": {
+   "batch": 130,
+   "name": "Industrial Automation and Control (Pty) Ltd — IAC（iacontrol.co.za；**官网：Communica Building, 53 Landmarks Avenue, Samrand Business Park, Centurion；P.O. Box 2860, The Reeds 0158；+27 12 657 3600；info@iacontrol.co.za；Hirschmann / Belden / Lumberg / Korenix / Advantech / Mobotix 非洲分销（Communica 集团；域名 1998 起）**）；Reg No 未取；表内：工业网络分销",
+   "iso": "ZA",
+   "fetched": "2026-10-29",
+   "source": "ZA · 1 次检索：shop.iacontrol.co.za/pages/contact-us（法人 / 地址 / 电话）+ website.informer（品牌 / 域名 1998）；Reg No 未取；2026-10-29",
+   "url": "https://shop.iacontrol.co.za/pages/contact-us",
+   "number": "未取（Reg No 未查）",
+   "status": "营业中（官网 2025）",
+   "incorporated": "未取（域名 1998）",
+   "company_type": "(Pty) Ltd",
+   "sic": [
+    "工业网络 / 自动化分销（森图里恩）"
+   ],
+   "address": "Communica Building, 53 Landmarks Avenue, Samrand Business Park, Centurion",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（集团成员）",
+   "officers": [
+    "（具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**工业分销 20%：一页纸一次（STI-280GE $46.6 / STI-288GPM $78.9 / STI-244DGGPM $121 作价位补充线 + MOQ 1；Hirschmann / Korenix 不点名）— 南非常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP 买方清关；周二 / 周四 10–12 SAST**"
+   ],
+   "notes": "分销 20%；P 池候选 ○（工业分销主体 ✔ 对位 ✔）；部分坐实（Reg No 未取）。",
+   "code": "SC-622"
+  },
+  "SC-644": {
+   "batch": 130,
+   "name": "Scoop Distribution (Pty) Ltd（scoop.co.za；**T&C：Company Registration 2001/007610/07；VAT 4830195584；注册办公 1A Harvest Close, Richmond Park, Richwood, Cape Town 7441；Midrand 分部 Unit 4, CDE Premium Park, 362 Roan Cres, Corporate Park North；+27 11 312 9414；Ubiquiti / MikroTik / Tenda / Linkbasic / Reyee / Zycoo / Fanvil 授权分销**）；表内：网络批发",
+   "iso": "ZA",
+   "fetched": "2026-10-29",
+   "source": "ZA · 1 次检索：scoop.co.za Terms_And_Conditions.pdf（Reg / VAT / 注册地址）+ yellosa（Midrand / 品牌）；2026-10-29",
+   "url": "https://scoop.co.za/download/applications/Terms_And_Conditions.pdf",
+   "number": "2001/007610/07（Reg No.）/ VAT 4830195584",
+   "status": "Active（T&C 2021 / 目录 2022）",
+   "incorporated": "2001",
+   "company_type": "(Pty) Ltd",
+   "sic": [
+    "网络 / 电信批发分销（开普敦 / 米德兰）"
+   ],
+   "address": "1A Harvest Close, Richmond Park, Richwood, Cape Town 7441",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（双城）",
+   "officers": [
+    "（具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**批发分销 20%：一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-2224GP $86 分销价 + MOQ 1 + 付费样机；Tenda / Reyee 不点名）— 南非常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP 买方清关；周二 / 周四 10–12 SAST**"
+   ],
+   "notes": "分销 20%；P 池候选 ★（分销主体 ✔ 已进口中国同类 ✔ 对位 ✔ 坐实 ✔）；坐实。",
+   "code": "SC-644"
+  },
+  "SC-1283": {
+   "batch": 130,
+   "name": "Reditron (Pty) Ltd（reditron.co.za；**信用申请表自报 registration number 2002/028391/07；9 Electron Street, Linbro Business Park, Sandton / Johannesburg 2090；+27 87 802 2288；CCTV 分销**）；表内：安防分销",
+   "iso": "ZA",
+   "fetched": "2026-10-29",
+   "source": "ZA · 1 次检索：reditron.co.za Credit-Application PDF（Reg No / 地址）+ cylex / firmania（地址 / 电话）；2026-10-29",
+   "url": "https://reditron.co.za/wp-content/uploads/2024/10/Reditron-Credit-Application-2022_Editable.pdf",
+   "number": "2002/028391/07（Reg No.，自报）",
+   "status": "Active（官网 2024）",
+   "incorporated": "2002",
+   "company_type": "(Pty) Ltd",
+   "sic": [
+    "电子安防分销（约翰内斯堡）"
+   ],
+   "address": "9 Electron Street, Linbro Business Park, Sandton 2090",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型",
+   "officers": [
+    "（具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**安防分销 20%：一页纸一次（STC-028GP $28 / STC-228GP $33 CCTV 配套 + MOQ 1 + 付费样机）— 南非常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP 买方清关；周二 / 周四 10–12 SAST**"
+   ],
+   "notes": "分销 20%；P 池候选 ★（分销主体 ✔ 对位 ✔ 坐实 ✔）；坐实（自报注册号）。",
+   "code": "SC-1283"
+  },
+  "SC-1332": {
+   "batch": 130,
+   "name": "DBG Distribution（原 Uniterm Direct；dbg.co.za；**2002 起；JHB 10 Angus Crescent, Longmeadow Business Estate East, Modderfontein 1645；CPT Unit 12 & 13, Rivergate Park 2, 35 Columbus Crescent, Parklands 7441；DBN Unit 51 Micro Park, Cornubia；自有品牌 UltraLAN：PoE 交换机 / PoE 延长器 / 注入器 / 分离器 / 光纤 / 机柜 / Mini UPS；代理 Ubiquiti / Tenda / Fanvil / Optcore / Ajax / DTECH；服务 ISP / 安装商 / 经销商**）；Reg No 未取；表内：光纤分销（本职线）",
+   "iso": "ZA",
+   "fetched": "2026-10-29",
+   "source": "ZA · 1 次检索：dbg.co.za/about-us/（2002 / 更名 / 三城）+ /our-brands/（UltraLAN 自有品牌线）+ shop.dbg.co.za（分部地址）；Reg No 未取；2026-10-29",
+   "url": "https://dbg.co.za/our-brands/",
+   "number": "未取（Reg No 未查）",
+   "status": "营业中（官网 2026）",
+   "incorporated": "2002",
+   "company_type": "(Pty) Ltd",
+   "sic": [
+    "网络 / 光纤分销 + 自有品牌 UltraLAN（约翰内斯堡）"
+   ],
+   "address": "10 Angus Crescent, Longmeadow Business Estate East, Modderfontein 1645",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（三城分部）",
+   "officers": [
+    "（具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌 UltraLAN PoE 交换机 = OEM 对象 → OEM 30%：一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-2224GP $86 贴牌 UltraLAN + 中性包装 + MOQ 1；光纤 / SFP 走本职线）— 南非常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP 买方清关；周二 / 周四 10–12 SAST**"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（自有品牌 ✔ 分销网络 ✔ 对位 ✔）；部分坐实（Reg No 未取）；dayjob_fit（光纤线）。",
+   "code": "SC-1332"
+  },
+  "SC-1552": {
+   "batch": 130,
+   "name": "Chiisa Technologies Pty Ltd（chiisa.co.za / chiisa.com；**2015 创立；99A Genl Mauritz, Bendor Ext10, Polokwane 0699；015 298 2125 / 084 360 9412；support@chiisa.co.za；SMME IT 服务（自述）**）；Reg No 未取；表内：小 IT 服务商",
+   "iso": "ZA",
+   "fetched": "2026-10-29",
+   "source": "ZA · 1 次检索：chiisa.com/about-us/（2015 / 地址 / 邮箱）；LinkedIn 同名 Chisa Technologies（Bryanston 2005）不对应；2026-10-29",
+   "url": "https://chiisa.com/about-us/",
+   "number": "未取（Reg No 未查）",
+   "status": "营业中（官网在线）",
+   "incorporated": "2015",
+   "company_type": "(Pty) Ltd",
+   "sic": [
+    "IT 服务（波罗克瓦尼）"
+   ],
+   "address": "99A Genl Mauritz, Bendor Ext10, Polokwane 0699",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（SMME）",
+   "officers": [
+    "（具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**微型 IT 服务 → 回 C 储备（来信再起则预付 100%）**— 南非常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP 买方清关；周二 / 周四 10–12 SAST"
+   ],
+   "notes": "回 C（微型 SMME；部分坐实）。",
+   "code": "SC-1552"
+  },
+  "SC-1038": {
+   "batch": 130,
+   "name": "Teltex Tecnologia SA（teltex.com.br；**页脚 CNPJ 73.442.360/0001-17；33 年；Rua França Pinto 1089, Vila Mariana, São Paulo SP 04016-030；+55 11 3840-6400；comercial@teltex.com.br；2022 巴西前 5 大安防集成商（Informática Hoje Top 200 / FGV 审计）；2025 年鉴前 10 盈利；葡萄牙 Torres Vedras / 美国 Hallandale Beach 办事处；100% 自有团队全国项目**）；表内：大集成商",
+   "iso": "BR",
+   "fetched": "2026-10-29",
+   "source": "BR · 1 次检索：teltex.com.br/en/（CNPJ / 排名 / 海外办）+ /homepage-portugues/（地址 / 电话 / 邮箱）；2026-10-29",
+   "url": "https://teltex.com.br/en/",
+   "number": "73.442.360/0001-17（CNPJ）",
+   "status": "Ativa（官网 2026）",
+   "incorporated": "1993（33 年）",
+   "company_type": "S.A.",
+   "sic": [
+    "电子安防 / 技术基建集成（圣保罗）"
+   ],
+   "address": "Rua França Pinto 1089, Vila Mariana, São Paulo SP 04016-030",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "大型（巴西前 5 安防集成）",
+   "officers": [
+    "（具名 KP 未取；comercial@ 官网公开）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**大集成商 25%（长线）：找采购 / 工程部一页纸一次（STC-2224GP $86 / STC-4424GCPM $165 / STI-288GPM $78.9 项目价 + 付费样机；DAP 买方清关）— 其他区常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP 买方清关；周二 / 周四 当地 10–12**"
+   ],
+   "notes": "集成 25%；P 池候选 ★ 长线（大集成 ✔ 对位 ✔ 坐实 ✔）；坐实（CNPJ）。",
+   "code": "SC-1038"
+  },
+  "SC-1379": {
+   "batch": 130,
+   "name": "Parks S.A. Comunicações Digitais（parks.com.br；**CNPJ 92.679.331/0001-18；1972-08-01 成立；S.A. fechada；Av. Cruzeiro 530, Distrito Industrial, Cachoeirinha RS 94930-615；CNAE 2631-1/00 通信传输设备制造；Ativa**）；表内：巴西自有品牌电信设备制造（GPON / 交换机；本职线重叠）",
+   "iso": "BR",
+   "fetched": "2026-10-29",
+   "source": "BR · 1 次检索：econodata（CNPJ / CNAE / 成立）+ informecadastral / speedio（地址 / 状态）；2026-10-29",
+   "url": "https://www.econodata.com.br/consulta-empresa/92679331000118-parks-sa-comunicacoes-digitais",
+   "number": "92.679.331/0001-18（CNPJ）",
+   "status": "Ativa（Receita 2026）",
+   "incorporated": "1972-08-01",
+   "company_type": "S.A.（fechada）",
+   "sic": [
+    "通信传输设备制造（南大河州）"
+   ],
+   "address": "Av. Cruzeiro 530, Distrito Industrial, Cachoeirinha RS 94930-615",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "大型（53 年制造商）",
+   "officers": [
+    "（具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌制造商 → OEM 30%：找硬件采购一页纸一次（STC-2224GP / STC-4424GCPM / STI-288GPM 贴牌 Parks + 中性包装 + MOQ 1；GPON / 光模块走本职线）— 其他区常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP 买方清关；周二 / 周四 当地 10–12**"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（自有品牌 ✔ 制造商 ✔ 对位 ✔ 坐实 ✔）；坐实（CNPJ）；dayjob_fit。",
+   "code": "SC-1379"
+  },
+  "SC-1117": {
+   "batch": 130,
+   "name": "SYSCOM = Sistemas y Servicios de Comunicación, S.A. de C.V.（syscom.mx；**Chihuahua：Av. 20 de Noviembre 805, Col. Centro 31000 / Calle Sexta 3407, Col. Santa Rosa 31050；501–1000 人（crunchbase）；电信 + 电子安防批发（comercio al por mayor de equipo de telecomunicaciones）；RFC 未取**）；表内：墨西哥最大电信 / 安防分销之一",
+   "iso": "MX",
+   "fetched": "2026-10-29",
+   "source": "MX · 1 次检索：crunchbase（法人名 / 规模）+ mexicopymes / directorioempresarialmexico（razón social / 地址 / 行业）；RFC 未取；2026-10-29",
+   "url": "https://www.crunchbase.com/organization/syscom-73a0",
+   "number": "未取（RFC 未查）",
+   "status": "营业中（目录 2020 / crunchbase 2026）",
+   "incorporated": "未取",
+   "company_type": "S.A. de C.V.",
+   "sic": [
+    "电信 / 安防批发分销（奇瓦瓦）"
+   ],
+   "address": "Av. 20 de Noviembre 805, Col. Centro, Chihuahua 31000",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "巨型（501–1000 人）",
+   "officers": [
+    "（具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**巨头分销 20%（长线）：找网络产品线经理一页纸一次（STC-028GP / STC-228GP / STC-2224GP 分销价 + MOQ 1 + 付费样机；DAP 买方清关）— 其他区常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP 买方清关；周二 / 周四 当地 10–12**"
+   ],
+   "notes": "分销 20%；P 池候选 ★ 长线（巨型分销 ✔ 对位 ✔ 坐实（法人名 + 地址）✔；巨头难进 → 长线）；坐实。",
+   "code": "SC-1117"
+  },
+  "SC-577": {
+   "batch": 130,
+   "name": "Leap Networks（leap-networks.ae；**2012 成立；Guardian Office Tower, Al Murror Road, Dhafeer Street 407, Abu Dhabi 37855（prospeo）；11–20 人；CEO Muhammad Ashfaq（= 表内具名 KP muhammad.ashfaq@）；ISO 9001 / 14001 / 45001；油气 / 石化 / 矿业 / 交通电信系统集成（DWDM / TETRA / SDH / CCTV / PAGA / 门禁）；姊妹公司 Leap Networks Arabia（沙特，CEO Asif Imam）**）；执照号未取；表内国别沙特（两地皆有）",
+   "iso": "AE",
+   "fetched": "2026-10-29",
+   "source": "AE · 1 次检索（补查）：leap-networks.ae/about-us/（2012 / ISO / 行业）+ prospeo（地址 / CEO / 规模）+ theorg（沙特姊妹公司）；首查误中同名 Leap Technologies 不采；2026-10-29",
+   "url": "https://www.leap-networks.ae/about-us/",
+   "number": "未取（执照号未查）",
+   "status": "营业中（官网 2025）",
+   "incorporated": "2012",
+   "company_type": "LLC（待核）",
+   "sic": [
+    "油气电信系统集成（阿布扎比 / 沙特）"
+   ],
+   "address": "Guardian Office Tower, Al Murror Road, Dhafeer Street 407, Abu Dhabi 37855",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（11–20 人；双国）",
+   "officers": [
+    "Muhammad Ashfaq — Chief Executive Officer（表内具名邮箱）",
+    "Tarek Bary — （表内具名邮箱）",
+    "Asif Imam — CEO, Leap Networks Arabia"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**油气工业集成 25%：点名 Muhammad Ashfaq 一页纸一次（STI-288GPM $78.9 / STI-244DGGPM $121 / STI-488DGGPM $147 工业线 + 付费样机；DWDM / SDH 走本职线）— 其他区常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP 买方清关；周二 / 周四 当地 10–12**"
+   ],
+   "notes": "集成 25%；P 池候选 ○（决策人具名 ✔ 工业对位 ✔）；部分坐实（执照未取）；dayjob_fit；表内沙特 ↔ 总部阿联酋 备注。",
+   "code": "SC-577"
+  },
+  "SC-1248": {
+   "batch": 130,
+   "name": "Avensia Group — Avensia Tech Solution（avensiauae.com；**Al Qusais, Damascus Street, Dubai；P.O. Box 87334；TEL +9714-2636886 / FAX 2636883；General Trading +971 509962388；IT & Technical +971 526456607；info@avensiauae.com；综合贸易 + IT + 技术服务 + 设施管理；交换机 / AP 页「Get in Touch for Bulk Orders」**）；执照未取；表内：想换供应商（真意向），WA 路径",
+   "iso": "AE",
+   "fetched": "2026-10-29",
+   "source": "AE · 1 次检索：avensiauae.com/it-products/network-switches-avensia-group-uae/ + wifi 页（地址 / 电话 / 业务）+ topfirms（Al Qusais）；执照未取；2026-10-29",
+   "url": "https://www.avensiauae.com/it-products/network-switches-avensia-group-uae/",
+   "number": "未取（执照未查）",
+   "status": "营业中（官网 2021 / 目录）",
+   "incorporated": "未取",
+   "company_type": "LLC（待核）",
+   "sic": [
+    "综合贸易 / IT（迪拜）"
+   ],
+   "address": "Al Qusais, Damascus Street, Dubai, P.O. Box 87334",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（综合贸易）",
+   "officers": [
+    "（具名 KP 未取；WA 路径在表）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**真意向（想换供应商）→ 贸易 / 集成 25% + 预付 100%：WA + 邮件一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-2224GP $86 + MOQ 1 + 付费样机；DAP 买方清关）— 其他区常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP 买方清关；周二 / 周四 当地 10–12**"
+   ],
+   "notes": "集成 25% + 预付 100%；P 池候选 ○（真意向 ✔ WA ✔ 对位 ✔）；部分坐实（执照未取）。",
+   "code": "SC-1248"
   }
  }
 }

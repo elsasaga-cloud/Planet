@@ -2,7 +2,7 @@
 
 > **评级 C**　|　阿联酋　|　档案编号 `SC-1248`　|　优先级 —　|　状态：WhatsApp 已加·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：阿联酋 Avensia UAE（avensiauae.com；表内「想换供应商」；WA 已加未回；avensiasuae.com 域 nxdomain）：真意向 ✔ 对位 ✔ WA 路径 ✔；推 1 次 0 回 → 闸 2 查底数（D&B）；四主区外，低优先
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 真意向 · 贸易 / 集成 25% + 预付 100%：Avensia Group（Dubai Al Qusais；P.O. Box 87334；综合贸易 + IT）部分坐实（执照未取）；想换供应商 ✔ WA ✔ 对位 ✔ → P 池候选
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：WhatsApp 已加；推送 1 次（2023-08-31 → 2023-08-31）　|　**所在清单**：群发(New)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1248
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 12
 country: 阿联酋
 region: 中东
@@ -38,6 +38,32 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `avensiauae.com` → 印度 / 亚洲主机商邮箱（MX：us3.mx2.mailhostbox.com、us3.mx3.mailhostbox.com、us3.mx1.mailhostbox.com）。主机商附带邮箱（印度 / 亚洲主机商邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+- `avensiasuae.com` → 域名不存在。域名已不存在（NXDOMAIN）：这个域的所有地址都退信；公司可能换了域名或关门 → 先核再发，核不到就降级
+- ⚠ 手里这些地址所在的域已收不了信：`contact@avensiasuae.com`、`info@avensiasuae.com` → 作废，别再发；该户若无其他域名 / 渠道，列入降级候选
+- 其他域名仍活：`avensiauae.com` → 只用这些域的地址
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 130 批（AE · 1 次检索：avensiauae.com/it-products/network-switches-avensia-group-uae/ + wifi 页（地址 / 电话 / 业务）+ topfirms（Al Qusais）；执照未取；2026-10-29，2026-10-29 查；https://www.avensiauae.com/it-products/network-switches-avensia-group-uae/）：**
+
+- 法定名 / 登记号：Avensia Group — Avensia Tech Solution（avensiauae.com；**Al Qusais, Damascus Street, Dubai；P.O. Box 87334；TEL +9714-2636886 / FAX 2636883；General Trading +971 509962388；IT & Technical +971 526456607；info@avensiauae.com；综合贸易 + IT + 技术服务 + 设施管理；交换机 / AP 页「Get in Touch for Bulk Orders」**）；执照未取；表内：想换供应商（真意向），WA 路径 · 未取（执照未查） · 状态 **营业中（官网 2021 / 目录）** · 成立 未取 · LLC（待核）
+- 行业码 / 经营范围：综合贸易 / IT（迪拜）
+- 注册地址：Al Qusais, Damascus Street, Dubai, P.O. Box 87334
+- 规模档：小型（综合贸易）
+- 账目：未取；—
+- 高管：（具名 KP 未取；WA 路径在表）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **真意向（想换供应商）→ 贸易 / 集成 25% + 预付 100%：WA + 邮件一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-2224GP $86 + MOQ 1 + 付费样机；DAP 买方清关）— 其他区常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP 买方清关；周二 / 周四 当地 10–12**
+- 备注：集成 25% + 预付 100%；P 池候选 ○（真意向 ✔ WA ✔ 对位 ✔）；部分坐实（执照未取）。
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -2,7 +2,7 @@
 
 > **评级 C**　|　台湾　|　档案编号 `SC-1029`　|　优先级 —　|　状态：已推送 8 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：台湾 Xentino（xentino.com；工业 FS / SFP，表内「用的 ONV 的，就换了个标」= 贴牌自有品牌）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔；群发 8 次 0 回 → 闸 2 查底数（twincn）；四主区外，低优先　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：△ 观察档 · OEM 30% + 预付 100%：Xentino Technologies Corp.（基隆；統編 54303706 官网自报；2013；6–10 人；GM Sinan Bedir；品牌面向土耳其 / 中东 / 东欧）坐实但微型；自有品牌 ✔ 主区市场 ✔ → 入池观察档；可否决　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 8 次（? → ?）　|　**所在清单**：A台湾名单　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1029
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 16
 country: 台湾
 region: 亚太
@@ -39,6 +39,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STI-288DGGPM（工业 L2+ 8 PoE + 2×2.5G SFP）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `xentino.com` → 主机商 cPanel 类邮箱（MX：mail.xentino.com）。主机商附带邮箱（主机商 cPanel 类邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 130 批（TW · 1 次检索：xentino.com/index.cfm?fuseaction=objects2.company（Tax No / 地址 / 产品线）+ xentino.en.ec21.com（规模 / GM）；2026-10-29，2026-10-29 查；https://www.xentino.com/index.cfm?fuseaction=objects2.company）：**
+
+- 法定名 / 登记号：Xentino Technologies Corp.（xentino.com；**官网 Company Tax Number 54303706；9F, No 20, Zhong 1st Road, Keelung 20041（EC21 另载 5F, No.89, Aly. 3, Ln. 182, Sec. 2, Wenhua Rd., Banqiao）；2013 起（品牌 2000 起 xDSL 中东 / 东欧）；6–10 人；年营收 USD 100–500k；GM Sinan Bedir；+886-2-82581593**）；表内：自有品牌交换机 / 工业交换机 / 路由 / GPON 全线 · 54303706（統編，官网自报） · 状态 **营业中（官网 / EC21）** · 成立 2013 · 有限公司
+- 行业码 / 经营范围：网络设备自有品牌（基隆 / 新北）
+- 注册地址：9F, No 20, Zhong 1st Road, Keelung 20041
+- 规模档：微型（6–10 人；USD 100–500k）
+- 账目：未取；—
+- 高管：Sinan Bedir — GM
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **微型自有品牌面向土耳其 / 中东 / 东欧（= 主区）→ OEM 30% + 预付 100%：点名 Sinan Bedir 英文 / 土耳其语一页纸一次（STC-228GP / STI-288GPM 贴牌 Xentino + MOQ 1 + 付费样机）— 台湾常规：中文 / 英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳；周二 / 周四 10–12**
+- 备注：OEM 30% + 预付 100%；P 池候选 △（自有品牌 ✔ 主区市场 ✔ 坐实 ✔ 但微型 → 观察档）；坐实（統編官网自报）。
 
 ## 基本事实（事实/推断/假设分层）
 

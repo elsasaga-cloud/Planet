@@ -2,7 +2,7 @@
 
 > **评级 C**　|　印度　|　档案编号 `SC-1365`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：印度 Masibus（masibus.com；工业仪表 / 控制自有品牌，三旺 + IO「比较专业」；邮件中有详细联系信息）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔；未触达 → 闸 2 查底数（zaubacorp）；低优先　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 制造商 · OEM 30%：Masibus Automation And Instrumentation Pvt Ltd（Gandhinagar；CIN U32201GJ1987PTC009994；1987；135 人；FY25 ₹100–500 Cr；Associate Director Sales D Kachhiya）坐实；已进口中国工业交换机 ✔ 对位 ✔ 坐实 ✔ 具名销售负责人 ✔ → P 池候选　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：工业自动化/IoT 方案商（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:India　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1365
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 11
 country: 印度
 region: 南亚
@@ -39,6 +39,31 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STI-288DGGPM（工业 L2+ 8 PoE + 2×2.5G SFP）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `masibus.com` → Mimecast 企业网关（MX：de-smtp-inbound-1.mimecast.com、de-smtp-inbound-2.mimecast.com）。企业级邮件网关（Mimecast 企业网关）：链接重写 + 附件沙箱 → 像素失效、附件常被隔离，冷邮件到达率最低；这户靠回原线程 / LinkedIn / 对方来信，不靠新开线程群发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 130 批（IN · 1 次检索：thecompanycheck（CIN / 资本 / 地址 / AGM）+ tracxn（135 人 / 营收档）+ indiamart 注册信息页（董事 DIN / 销售负责人）；2026-10-29，2026-10-29 查；https://www.thecompanycheck.com/company/masibus-automation-and-instrumentation-private-limited/U32201GJ1987PTC009994）：**
+
+- 法定名 / 登记号：Masibus Automation And Instrumentation Private Limited（masibus.com；**CIN U32201GJ1987PTC009994；1987-09-21 登记（1975 起）；ROC Ahmedabad；授权 ₹3.70 Cr / 实收 ₹3.08 Cr；B-30, GIDC Electronics Estate, Sector-25, Gandhinagar, Gujarat 382042；135 人（2024-10，tracxn）；FY25 营收 ₹100–500 Cr；AGM 2025-09-29；董事 Vidya Subramaniam / Dominic Joseph Cordeiro；Associate Director Operation Sales D Kachhiya（indiamart）**）；表内：工业仪表制造商，进口三旺工业交换机配套 · U32201GJ1987PTC009994（CIN） · 状态 **Active（MCA 2026）** · 成立 1987-09-21 · Private Limited
+- 行业码 / 经营范围：工业自动化仪表制造（甘地讷格尔）
+- 注册地址：B-30, GIDC Electronics Estate, Sector-25, Gandhinagar, Gujarat 382042
+- 规模档：中型（135 人；₹100–500 Cr）
+- 账目：未取；—
+- 高管：Vidya Subramaniam — Director（DIN 00022694）
+- 高管：Dominic Joseph Cordeiro — Director（DIN 00022731）
+- 高管：D Kachhiya — Associate Director Operation Sales
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **工业仪表商配套工业交换机 → OEM 30%：点名 D Kachhiya 一页纸一次（STI-280GE $46.6 / STI-288GPM $78.9 / STI-244DGGPM 贴牌 Masibus + 中性包装；三旺不点名）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST**
+- 备注：OEM 30%；P 池候选 ★（制造商 ✔ 已进口中国工业交换机 ✔ 对位 ✔ 坐实 ✔ 具名销售负责人 ✔）；坐实。
 
 ## 基本事实（事实/推断/假设分层）
 

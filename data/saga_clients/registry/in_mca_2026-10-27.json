@@ -4,7 +4,7 @@
   "source": "India · MCA 公司登记（Zauba Corp / Tofler 镜像）",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 52
+  "count": 69
  },
  "rows": {
   "SA-073": {
@@ -1669,6 +1669,525 @@
    ],
    "notes": "回 C 储备（gmail 商号 0 查未坐实）。",
    "code": "SC-2386"
+  },
+  "SC-413": {
+   "batch": 130,
+   "name": "Hi-Focus Electronics India Private Limited — HiFocus CCTV（hifocuscctv.com；**CIN U51909TN2015PTC099815；GSTIN 33AADCH5807L1ZJ；2015-03-25 登记；ROC Chennai；实收 ₹1 Cr；15 个 GST 登记（12 活跃）= 多邦分销网络；MD Shobhalal Mukesh Kumar；董事 Mudit Jain / Vikram Singhvi / Meena Bafna**）；表内：自有 HiFocus 品牌 CCTV + PoE 交换机，中国代工",
+   "iso": "IN",
+   "fetched": "2026-10-29",
+   "source": "IN · 1 次检索：thecompanycheck（CIN / GSTIN / 董事 / 官网 hifocuscctv.com 对上）+ indiafilings + falconebiz（4 董事）；2026-10-29",
+   "url": "https://www.thecompanycheck.com/company/hifocus-electronics-india-private-limited/U51909TN2015PTC099815",
+   "number": "U51909TN2015PTC099815（CIN）",
+   "status": "Active（MCA 2026）",
+   "incorporated": "2015-03-25",
+   "company_type": "Private Limited",
+   "sic": [
+    "电子安防自有品牌 / 多邦分销（金奈）"
+   ],
+   "address": "No. 3 Sunkuvar Agraharam Street, Chintadripet, Chennai, Tamil Nadu 600002",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（实收 ₹1 Cr；15 GST 登记）",
+   "officers": [
+    "Shobhalal Mukesh Kumar — Managing Director",
+    "Mudit Jain — Director",
+    "Vikram Singhvi — Director",
+    "Meena Bafna — Director"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌 CCTV 配套 PoE → OEM 30%：一页纸一次（STC-028GP $28 / STC-228GP $33 中性包装 + 贴牌 HiFocus + MOQ 1 + 付费样机）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST**"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（自有品牌 ✔ 中国代工 ✔ 对位 ✔ 坐实 ✔ 多邦网络 ✔）；坐实（CIN / GSTIN / 官网对上）。",
+   "code": "SC-413"
+  },
+  "SC-1042": {
+   "batch": 130,
+   "name": "Aditya Infotech Limited — CP PLUS / Aditya Group（adityagroup.com；**NSE: CPPLUS / BSE 544466；ISIN INE819V01029；A-12, Sector 4, Noida, UP 201301；1995 起；1,402 人；CP PLUS = 印度最大视频监控品牌（FY26 价值份额 43.3%，Frost & Sullivan 引自年报）；800+ 分销商 / 30,000+ 渠道伙伴；品牌商 + 分销 + 电子制造**）；表内：CP Plus 品牌 CCTV / NVR / PoE 配套",
+   "iso": "IN",
+   "fetched": "2026-10-29",
+   "source": "IN · 1 次检索：mool.ai/research/nse/cpplus（上市 / 规模 / 份额 / 总部）+ zoominfo（1995 / Noida A-12）；2026-10-29",
+   "url": "https://mool.ai/research/nse/cpplus",
+   "number": "NSE: CPPLUS / BSE 544466（CIN 未抄）",
+   "status": "上市（2025 起）",
+   "incorporated": "1995",
+   "company_type": "Public Limited（上市）",
+   "sic": [
+    "视频监控品牌商 / 分销 / 制造（诺伊达）"
+   ],
+   "address": "A-12, Sector 4, Noida, Uttar Pradesh 201301",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "巨型（1,402 人；印度第一 CCTV 品牌）",
+   "officers": [
+    "（具名 KP 未取；表内邮箱为公共）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**巨头品牌商 OEM 30%（长线）：找 PoE 交换机 / 网络产品线采购负责人一页纸一次（STC-228GP / STC-2224GP / STC-4424GCPM 贴牌 CP PLUS + 中性包装）；不指望群发，LinkedIn 点名**— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST"
+   ],
+   "notes": "OEM 30%；P 池候选 ★ 长线（自有品牌 ✔ 巨型 ✔ 对位 ✔ 坐实 ✔；巨头难进 → 长线）；坐实（上市信息）。",
+   "code": "SC-1042"
+  },
+  "SC-1352": {
+   "batch": 130,
+   "name": "Globus Infocom Limited（globusinfocom.com；**官网页脚 CIN U72100UP2001PLC126647；A-66, Sector-4, Noida, UP 201301；2001 起 25 年；Make-in-India 品牌：教育科技 / 协作会议 & 专业显示 / 安防监控 / 机构家具；销售 +91 8588839434；info@globusinfocom.com；InfoComm 2019 / 2023 / 2024、SECUTECH 2018、Engineer’s Meet 2025 参展**）；表内：自有品牌 CCTV / 显示 / 配套网络",
+   "iso": "IN",
+   "fetched": "2026-10-29",
+   "source": "IN · 1 次检索：globusinfocom.com（页脚 CIN / 地址）+ /contacts + /events（参展）；2026-10-29",
+   "url": "https://www.globusinfocom.com/",
+   "number": "U72100UP2001PLC126647（CIN）",
+   "status": "Active（官网 2025）",
+   "incorporated": "2001",
+   "company_type": "Public Limited（非上市）",
+   "sic": [
+    "教育科技 / 显示 / 安防自有品牌（诺伊达）"
+   ],
+   "address": "A-66, Sector-4, Noida, District Gautam Buddha Nagar, Uttar Pradesh 201301",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（25 年品牌；多条产品线）",
+   "officers": [
+    "（具名 KP 未取；销售热线 +91 8588839434）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌多线 → OEM 30%：一页纸一次（STC-228GP / STC-2224GP 贴牌 Globus + 中性包装 + MOQ 1 + 付费样机；教育校园 PoE 场景）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST**"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（自有品牌 ✔ 参展活跃 ✔ 对位 ✔ 坐实 ✔）；坐实（官网页脚 CIN）。",
+   "code": "SC-1352"
+  },
+  "SC-1365": {
+   "batch": 130,
+   "name": "Masibus Automation And Instrumentation Private Limited（masibus.com；**CIN U32201GJ1987PTC009994；1987-09-21 登记（1975 起）；ROC Ahmedabad；授权 ₹3.70 Cr / 实收 ₹3.08 Cr；B-30, GIDC Electronics Estate, Sector-25, Gandhinagar, Gujarat 382042；135 人（2024-10，tracxn）；FY25 营收 ₹100–500 Cr；AGM 2025-09-29；董事 Vidya Subramaniam / Dominic Joseph Cordeiro；Associate Director Operation Sales D Kachhiya（indiamart）**）；表内：工业仪表制造商，进口三旺工业交换机配套",
+   "iso": "IN",
+   "fetched": "2026-10-29",
+   "source": "IN · 1 次检索：thecompanycheck（CIN / 资本 / 地址 / AGM）+ tracxn（135 人 / 营收档）+ indiamart 注册信息页（董事 DIN / 销售负责人）；2026-10-29",
+   "url": "https://www.thecompanycheck.com/company/masibus-automation-and-instrumentation-private-limited/U32201GJ1987PTC009994",
+   "number": "U32201GJ1987PTC009994（CIN）",
+   "status": "Active（MCA 2026）",
+   "incorporated": "1987-09-21",
+   "company_type": "Private Limited",
+   "sic": [
+    "工业自动化仪表制造（甘地讷格尔）"
+   ],
+   "address": "B-30, GIDC Electronics Estate, Sector-25, Gandhinagar, Gujarat 382042",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（135 人；₹100–500 Cr）",
+   "officers": [
+    "Vidya Subramaniam — Director（DIN 00022694）",
+    "Dominic Joseph Cordeiro — Director（DIN 00022731）",
+    "D Kachhiya — Associate Director Operation Sales"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**工业仪表商配套工业交换机 → OEM 30%：点名 D Kachhiya 一页纸一次（STI-280GE $46.6 / STI-288GPM $78.9 / STI-244DGGPM 贴牌 Masibus + 中性包装；三旺不点名）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST**"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（制造商 ✔ 已进口中国工业交换机 ✔ 对位 ✔ 坐实 ✔ 具名销售负责人 ✔）；坐实。",
+   "code": "SC-1365"
+  },
+  "SC-1371": {
+   "batch": 130,
+   "name": "WatchDog = Apollo Infoways Pvt. Ltd.（mywatchdog.in；**官网：H-102, Sector-63, Noida, UP 201301；Toll Free 1800 309 9415；info@mywatchdog.in；自有品牌 WatchDog：PoE / 工业 / 数据中心（自述至 800G）交换机 + 路由 / 无线 / 光模块 / 防火墙；\"Engineered in Noida\"；GeM 上架、政府 / PSU / 国防采购资质自述；Bangalore / Dubai / Singapore 办事处；产品 PDF 页脚署 Apollo Infoways Pvt. Ltd.**）；CIN 未取；表内：自有品牌交换机全线（洪瑞 / 丰润达 / AOA 现供 → Q-33）",
+   "iso": "IN",
+   "fetched": "2026-10-29",
+   "source": "IN · 1 次检索：mywatchdog.in 首页 + /contact.html（地址 / 办事处）+ 10G-Data-Center-Switch PDF（法人名 Apollo Infoways）；CIN 未取；2026-10-29",
+   "url": "https://www.mywatchdog.in/",
+   "number": "未取（法人 Apollo Infoways Pvt. Ltd. 自报，CIN 未查）",
+   "status": "营业中（官网 2025）",
+   "incorporated": "未取",
+   "company_type": "Private Limited",
+   "sic": [
+    "网络设备自有品牌（诺伊达）"
+   ],
+   "address": "H-102, Sector-63, Noida, Gautam Budh Nagar, Uttar Pradesh 201301",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（4 城办事处；全线产品）",
+   "officers": [
+    "（具名 KP 未取；Toll Free + info@ 官网公开）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**全线自有品牌 = OEM 对象 → OEM 30%：一页纸一次（STC-2224GP / STC-4424GCPM / STC-424XGGPM-280W 贴牌 WatchDog + MOQ 1；洪瑞现供 → Q-33 口径：默认只推 SmartByte / Marvell 管理 + 工业线；现供厂商不点名）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST**"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（自有品牌全线 ✔ 对位 ✔ 多城 ✔）；部分坐实（法人名自报，CIN 未取）；Q-33 洪瑞现供待 Simon。",
+   "code": "SC-1371"
+  },
+  "SC-1521": {
+   "batch": 130,
+   "name": "Nivetti Systems Private Limited（nivettisystems.com；**166, 21st Main Road, 2nd Phase, J P Nagar, Bangalore 560078（Bloomberg）；2014 创立；51–200 人（ZoomInfo）；自研路由 / 交换 / NiOS 网络操作系统 / HawkSecure；2024-03-09 印度首台自研 2.4 Tbps 路由器（联邦部长 Vaishnaw 揭幕，PTI）**）；CIN 未取；表内：自有品牌路由 / 交换机",
+   "iso": "IN",
+   "fetched": "2026-10-29",
+   "source": "IN · 1 次检索：bloomberg profile（地址）+ cbinsights（2014 / 产品 / 2.4 Tbps 新闻）+ zoominfo（规模）；CIN 未取；2026-10-29",
+   "url": "https://www.cbinsights.com/company/nivetti-systems",
+   "number": "未取（CIN 未查）",
+   "status": "营业中（2024 新闻 / 2026 目录）",
+   "incorporated": "2014",
+   "company_type": "Private Limited",
+   "sic": [
+    "安全网络设备自研品牌（班加罗尔）"
+   ],
+   "address": "166, 21st Main Road, 2nd Phase, J P Nagar, Bangalore, Karnataka 560078",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（51–200 人）",
+   "officers": [
+    "（具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**高端自研、接入层 / PoE 可能贴牌 → OEM 30%（长线）：一页纸一次（STC-2224GP / STC-4424GCPM 贴牌 + 中性包装 + MOQ 1；不谈 SONiC / 白盒）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST**"
+   ],
+   "notes": "OEM 30%；P 池候选 ○ 长线（自有品牌 ✔ 对位（接入层）✔）；部分坐实（CIN 未取）。",
+   "code": "SC-1521"
+  },
+  "SC-898": {
+   "batch": 130,
+   "name": "Plexonics Technologies Limited（plexonics.com；**CIN U72900CH2011PLC033105；PAN AACCE7703P；2011-07-12 登记；非上市公众公司；ROC Chandigarh；授权 ₹10 Cr / 实收 ₹5.35 Cr（tofler；thecompanycheck 载 ₹1.35 Cr）；181/23 First Floor, Industrial Area Phase 1, Chandigarh 160002；董事 Come Alexandre Carpentier / Avneet Bansal / Akshay Sharma；finance@plexonics.com；IT 产品零售 & 分销**）；表内：Belden + 多牌中国 PoE 分销",
+   "iso": "IN",
+   "fetched": "2026-10-29",
+   "source": "IN · 1 次检索：thecompanycheck（CIN / 董事 / 地址）+ tofler（PAN / 实收 / 邮箱）；2026-10-29",
+   "url": "https://www.tofler.in/plexonics-technologies-limited/company/U72900CH2011PLC033105",
+   "number": "U72900CH2011PLC033105（CIN）",
+   "status": "Active（MCA 2026）",
+   "incorporated": "2011-07-12",
+   "company_type": "Public Limited（非上市）",
+   "sic": [
+    "IT / 网络产品分销（昌迪加尔）"
+   ],
+   "address": "181/23 First Floor, Industrial Area Phase 1, Chandigarh 160002",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（实收 ₹5.35 Cr）",
+   "officers": [
+    "Come Alexandre Carpentier — Director",
+    "Avneet Bansal — Director",
+    "Akshay Sharma — Director"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**中型分销 20%：一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-2224GP $86 分销价 + MOQ 1 + 付费样机；Belden 不点名）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST**"
+   ],
+   "notes": "分销 20%；P 池候选 ★（分销主体 ✔ 多牌进口 ✔ 对位 ✔ 坐实 ✔）；坐实。",
+   "code": "SC-898"
+  },
+  "SC-463": {
+   "batch": 130,
+   "name": "Atronic Systems Pvt Ltd（atronic.co.in；**官网页脚：1st & 3rd Floors, CM-17, Gopala Sweet, Sector-122, Noida, UP 201316；+91 87964 26475；ZoomInfo：51–200 人 / <$5M / 另址 26 Block C, Noida 201304；Operations Head Arti Kohli；门禁 / RFID / RTLS / 机器人 / 远程塔站管理 / 公共监控信息系统**）；CIN 未取；表内：方案商，ONV 交换机原样转售",
+   "iso": "IN",
+   "fetched": "2026-10-29",
+   "source": "IN · 1 次检索：atronic.co.in/products/（页脚法人 / 地址 / 电话）+ zoominfo（规模 / Operations Head）；CIN 未取；2026-10-29",
+   "url": "https://atronic.co.in/products/",
+   "number": "未取（CIN 未查）",
+   "status": "营业中（官网 2022 / 目录 2026）",
+   "incorporated": "未取",
+   "company_type": "Private Limited",
+   "sic": [
+    "安防 / 物联网方案集成（诺伊达）"
+   ],
+   "address": "1st & 3rd Floors, CM-17, Gopala Sweet, Sector-122, Noida, Uttar Pradesh 201316",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（51–200 人）",
+   "officers": [
+    "Arti Kohli — Operations Head"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**方案商集成 25%：点名 Arti Kohli 一页纸一次（STC-228GP / STI-288GPM 塔站 / 门禁 PoE 场景 + MOQ 1 + 付费样机；ONV 不点名）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST**"
+   ],
+   "notes": "集成 25%；P 池候选 ○（集成主体 ✔ 已用中国 PoE ✔ 对位 ✔）；部分坐实（CIN 未取）。",
+   "code": "SC-463"
+  },
+  "SC-1339": {
+   "batch": 130,
+   "name": "Econtrol Devices Private Limited（econtroldevices.com；**CIN U51909HR2019PTC081687；PAN AAFCE5794H；2019-07-29 登记；ROC Delhi；实收 ₹1 lakh；FY22 营收 <₹1 Cr；Plot No-A2, BPTP District-1, Block-B, Sector-81, Faridabad, Haryana 121002；董事 Rekha Sorout（MCA 登记邮箱 rekha.sorout@econtroldevices.com）/ Amit Kumar；其他批发**）；表内：Atop（台湾）工业交换机进口",
+   "iso": "IN",
+   "fetched": "2026-10-29",
+   "source": "IN · 1 次检索：zaubacorp（CIN / 董事 / 地址）+ tofler（PAN / 营收档 / 登记邮箱）+ thecompanycheck；2026-10-29",
+   "url": "https://www.tofler.in/econtrol-devices-private-limited/company/U51909HR2019PTC081687",
+   "number": "U51909HR2019PTC081687（CIN）",
+   "status": "Active（MCA 2026）",
+   "incorporated": "2019-07-29",
+   "company_type": "Private Limited",
+   "sic": [
+    "工业网络设备批发（法里达巴德）"
+   ],
+   "address": "Plot No-A2, BPTP District-1, Block-B, Sector-81, Faridabad, Haryana 121002",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（₹1 lakh；<₹1 Cr）",
+   "officers": [
+    "Rekha Sorout — Director（rekha.sorout@econtroldevices.com = MCA 登记邮箱）",
+    "Amit Kumar — Director"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**微型进口商 → 分销 20% + 预付 100%：点名 Rekha Sorout 一页纸一次（STI-280GE $46.6 / STI-288GPM $78.9 + MOQ 1 + 付费样机；Atop 不点名）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST**"
+   ],
+   "notes": "分销 20% + 预付 100%；P 池候选 △（进口台湾工业线 ✔ 对位 ✔ 坐实 ✔ 但微型 → 观察档）；坐实。",
+   "code": "SC-1339"
+  },
+  "SC-1344": {
+   "batch": 130,
+   "name": "Excell Media Private Limited（excellmedia.net；**CIN U64203TG1998PTC030014；1998-08-26 登记；ROC Hyderabad；授权 / 实收 ₹6 Cr；Quinn House, 8-2-268/N/28/A/2, Road No. 2, Banjara Hills, Hyderabad, Telangana 500034；info@excellmedia.net（MCA 登记）；ISP / 宽带服务**）；表内：区域 ISP 自用，进口 Volktek 管理型交换机",
+   "iso": "IN",
+   "fetched": "2026-10-29",
+   "source": "IN · 1 次检索：zaubacorp（CIN / 地址 / 邮箱）+ thecompanycheck（实收 / 行业）+ edgeinsights（官网对上）；2026-10-29",
+   "url": "https://www.zaubacorp.com/EXCELL-MEDIA-PRIVATE-LIMITED-U64203TG1998PTC030014",
+   "number": "U64203TG1998PTC030014（CIN）",
+   "status": "Active（MCA 2026）",
+   "incorporated": "1998-08-26",
+   "company_type": "Private Limited",
+   "sic": [
+    "区域 ISP / 宽带（海得拉巴）"
+   ],
+   "address": "8-2-268/N/28/A/2, Road No. 2, Banjara Hills, Hyderabad, Telangana 500034",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（实收 ₹6 Cr；28 年）",
+   "officers": [
+    "（具名 KP 未取；info@ 为 MCA 登记邮箱）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**中型区域 ISP 自用进口 = 有进口经验者 → 直客 25%：一页纸一次（STC-2224GP $86 / STC-4424GCPM $165 接入 + 付费样机；Volktek 不点名）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST**"
+   ],
+   "notes": "直客 25%；P 池候选 ○（已进口台湾管理型 ✔ 对位 ✔ 坐实 ✔；中型区域 ISP ≠ 巨头运营商）；坐实。",
+   "code": "SC-1344"
+  },
+  "SC-1403": {
+   "batch": 130,
+   "name": "Triflex Infocom（triflexinfo.com；**#497/B, 1st Floor, 8th Cross, 8th Main, HAL 3rd Stage, Bangalore 560075（fundoodata / vcsdata）；2004 创立；IT 基建 SME；<$5M（ZoomInfo）**）；CIN 未取；表内：IT 集成，进口中国 MC / PoE",
+   "iso": "IN",
+   "fetched": "2026-10-29",
+   "source": "IN · 1 次检索：fundoodata（地址 / 行业）+ zoominfo（2004 / 规模）+ vcsdata；CIN 未取；2026-10-29",
+   "url": "https://www.fundoodata.com/companies-detail/Triflex-Infocom/56479.html",
+   "number": "未取（CIN 未查）",
+   "status": "营业中（目录 2026）",
+   "incorporated": "2004",
+   "company_type": "未取（SME）",
+   "sic": [
+    "IT 基础设施集成（班加罗尔）"
+   ],
+   "address": "#497/B, 1st Floor, 8th Cross, 8th Main, HAL 3rd Stage, Bangalore, Karnataka 560075",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（<$5M）",
+   "officers": [
+    "（具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**小集成 25%：一页纸一次（STC-028GP $28 / STC-228GP $33 + MOQ 1 + 付费样机）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST**"
+   ],
+   "notes": "集成 25%；P 池候选 ○（集成主体 ✔ 已进口中国同类 ✔ 对位 ✔）；部分坐实（目录页，CIN 未取）。",
+   "code": "SC-1403"
+  },
+  "SC-324": {
+   "batch": 130,
+   "name": "Enercore（enercore.co.in；**1 查仅得 Enercore Solutions Private Limited（CIN U62013HR2023PTC113183；2023-07-10；Gurgaon Sector-56 住宅地址 J-6058 Devender Vihar；实收 ₹1 lakh；董事 Manav Yadav / Sanjeev Yadav；IT 服务类）— 与 enercore.co.in 归属未证 → 未坐实**）；表内：询过工业交换机",
+   "iso": "IN",
+   "fetched": "2026-10-29",
+   "source": "IN · 1 次检索：tofler / thecompanycheck / filesure 同名 Enercore Solutions（Gurgaon 2023 微型）→ 域名未对上；2026-10-29",
+   "url": "",
+   "number": "未取（同名 CIN U62013HR2023PTC113183 不采）",
+   "status": "未坐实",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "工业网络（印度，待证）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "未知（同名户为微型）",
+   "officers": [
+    "（具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**未坐实 → 回 C 储备；来信再起则预付 100%**— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST"
+   ],
+   "notes": "回 C（未坐实：1 查仅同名微型他户）。",
+   "code": "SC-324"
+  },
+  "SC-509": {
+   "batch": 130,
+   "name": "Nextik（nextik.co.in；**1 查仅得 X 账号 @nextik_official（\"Advanced data communication equipment / Customized Innovations\"，India）+ 同名他户 Netik IT Technologies（Hyderabad）/ Nextlink Technologies（Bangalore）→ 法人未取 → 未坐实**）；表内：自称数据通信设备品牌",
+   "iso": "IN",
+   "fetched": "2026-10-29",
+   "source": "IN · 1 次检索：x.com/nextik_official + indiafilings / zaubacorp 同名他户 → 法人未取；2026-10-29",
+   "url": "",
+   "number": "未取",
+   "status": "未坐实",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "数据通信设备（印度，待证）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "未知",
+   "officers": [
+    "（具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**未坐实 → 回 C 储备；来信再起则 OEM 30% + 预付 100%**— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST"
+   ],
+   "notes": "回 C（未坐实：仅社媒账号，法人未取）。",
+   "code": "SC-509"
+  },
+  "SC-969": {
+   "batch": 130,
+   "name": "TrueView（trueview.co.in；**1 查仅得同名：True View Technologies Private Limited（CIN U74999MR2008PTC475132；L-305-A, Dua Complex, Shakarpur, East Delhi 110092；2008-06-04；54 人（2025-08）；FY25 <₹10 Cr）/ TrueView Corporate Services（Mumbai 2022）— trueview.co.in 归属未证（疑 Delhi 户）→ 未坐实**）；表内：自有 TrueView 品牌 CCTV；具名 KP manish@ / rupesh.bagde@",
+   "iso": "IN",
+   "fetched": "2026-10-29",
+   "source": "IN · 1 次检索：tracxn 同名两户（Delhi 2008 / Mumbai 2022）→ 域名未对上；2026-10-29",
+   "url": "",
+   "number": "未取（疑似 CIN U74999MR2008PTC475132 未证，不采）",
+   "status": "未坐实",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "CCTV 自有品牌（印度，待证）"
+   ],
+   "address": "未取（疑 Shakarpur, East Delhi）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "未知（疑 54 人）",
+   "officers": [
+    "Manish — （表内具名邮箱）",
+    "Rupesh Bagde — （表内具名邮箱）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**未坐实 → 回 C 储备；具名 KP 在 → 来信再起则补查 CIN + OEM 30% + 预付 100%**— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST"
+   ],
+   "notes": "回 C（未坐实：同名多户，域名归属未证；自有品牌线索保留）。",
+   "code": "SC-969"
+  },
+  "SC-1203": {
+   "batch": 130,
+   "name": "Lapis Technologies（lapistechnologies.in；**1 查仅得 Lapis Technologies Private Limited（CIN U74993KA2018PTC109130；R 11/12, Megur Prakash, APMC Yard, Sagar Road, Shimoga, Karnataka 577204；2018-01-02；₹1 lakh；gmail 登记邮箱；zaubacorp 状态 Strike Off（tracxn 载 Active）；董事 Sriranga Talavane / Siddarth Hebbar）— 与 CCTV / PoE 站归属未证 + 注销红旗 → 未坐实**）",
+   "iso": "IN",
+   "fetched": "2026-10-29",
+   "source": "IN · 1 次检索：zaubacorp（Strike Off）+ tracxn 同名 → 域名未对上；2026-10-29",
+   "url": "",
+   "number": "未取（同名 CIN U74993KA2018PTC109130 Strike Off 不采）",
+   "status": "未坐实（同名户 Strike Off）",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "CCTV / PoE 配件（印度，待证）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "未知",
+   "officers": [
+    "（具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**未坐实 + 同名注销红旗 → 回 C 储备；来信再起则预付 100%**— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST"
+   ],
+   "notes": "回 C（未坐实 + 红旗）。",
+   "code": "SC-1203"
+  },
+  "SC-1322": {
+   "batch": 130,
+   "name": "ASI（asi.ind.in；**1 查仅得 ASI Industries（孟买 矿业上市 502015）/ Asiatic Electrical & Switchgear（New Delhi）等同名 → 法人未取 → 未坐实**）；表内：admin@asi.ind.in 公共邮箱",
+   "iso": "IN",
+   "fetched": "2026-10-29",
+   "source": "IN · 1 次检索：pitchbook / contactout / crunchbase 同名他户 → 域名未对上；2026-10-29",
+   "url": "",
+   "number": "未取",
+   "status": "未坐实",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "未知（印度，待证）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "未知",
+   "officers": [
+    "（具名 KP 未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**未坐实 → 回 C 储备**— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST"
+   ],
+   "notes": "回 C（未坐实：1 查仅同名他户）。",
+   "code": "SC-1322"
+  },
+  "SC-1366": {
+   "batch": 130,
+   "name": "Mayenet（mayenet.com / mayenetsolutions.com；**1 查仅得 Mazenet Solution（Chennai Nungambakkam；IT 服务 / 铁路项目）等近名他户 → 法人未取 → 未坐实**）；表内：真意向 — 想拿样；具名 ikar@mayenet.com",
+   "iso": "IN",
+   "fetched": "2026-10-29",
+   "source": "IN · 1 次检索：crunchbase / devex / rocketreach 近名 Mazenet → 域名未对上；2026-10-29",
+   "url": "",
+   "number": "未取",
+   "status": "未坐实",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "网络方案（印度，待证）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "未知",
+   "officers": [
+    "Ikar — （表内具名邮箱 ikar@mayenet.com）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**未坐实但真意向（想拿样）→ 回 C 储备 + 例外：直接回一次样品报价（STC-228GP 样机 $35 + 运费，预付 100%）看回信，回信即补查法人**— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST"
+   ],
+   "notes": "回 C（未坐实；真意向保留 → 单次样品报价例外）。",
+   "code": "SC-1366"
   }
  }
 }

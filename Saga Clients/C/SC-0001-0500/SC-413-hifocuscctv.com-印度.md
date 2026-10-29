@@ -2,7 +2,7 @@
 
 > **评级 C**　|　印度　|　档案编号 `SC-413`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：印度 HiFocus（hifocuscctv.com；自有品牌 CCTV，表内「买丰润达的商业 PoE」）：自有品牌 ✔ 进口中国同类 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 自有品牌 · OEM 30%：Hi-Focus Electronics India Pvt Ltd（Chennai；CIN U51909TN2015PTC099815；GSTIN 33AADCH5807L1ZJ；2015；实收 ₹1 Cr；15 GST 登记 = 多邦网络；MD Shobhalal Mukesh Kumar）坐实；自有品牌 ✔ 中国代工 ✔ 对位 ✔ 坐实 ✔ → P 池候选　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：安防集成/经销（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:India、在用同行产品　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-413
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 21
 country: 印度
 region: 南亚
@@ -39,6 +39,32 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-28DGGPM（8 口 PoE + 2 SFP L2+）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `hifocuscctv.com` → Google Workspace（MX：smtp.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 130 批（IN · 1 次检索：thecompanycheck（CIN / GSTIN / 董事 / 官网 hifocuscctv.com 对上）+ indiafilings + falconebiz（4 董事）；2026-10-29，2026-10-29 查；https://www.thecompanycheck.com/company/hifocus-electronics-india-private-limited/U51909TN2015PTC099815）：**
+
+- 法定名 / 登记号：Hi-Focus Electronics India Private Limited — HiFocus CCTV（hifocuscctv.com；**CIN U51909TN2015PTC099815；GSTIN 33AADCH5807L1ZJ；2015-03-25 登记；ROC Chennai；实收 ₹1 Cr；15 个 GST 登记（12 活跃）= 多邦分销网络；MD Shobhalal Mukesh Kumar；董事 Mudit Jain / Vikram Singhvi / Meena Bafna**）；表内：自有 HiFocus 品牌 CCTV + PoE 交换机，中国代工 · U51909TN2015PTC099815（CIN） · 状态 **Active（MCA 2026）** · 成立 2015-03-25 · Private Limited
+- 行业码 / 经营范围：电子安防自有品牌 / 多邦分销（金奈）
+- 注册地址：No. 3 Sunkuvar Agraharam Street, Chintadripet, Chennai, Tamil Nadu 600002
+- 规模档：中型（实收 ₹1 Cr；15 GST 登记）
+- 账目：未取；—
+- 高管：Shobhalal Mukesh Kumar — Managing Director
+- 高管：Mudit Jain — Director
+- 高管：Vikram Singhvi — Director
+- 高管：Meena Bafna — Director
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自有品牌 CCTV 配套 PoE → OEM 30%：一页纸一次（STC-028GP $28 / STC-228GP $33 中性包装 + 贴牌 HiFocus + MOQ 1 + 付费样机）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST**
+- 备注：OEM 30%；P 池候选 ★（自有品牌 ✔ 中国代工 ✔ 对位 ✔ 坐实 ✔ 多邦网络 ✔）；坐实（CIN / GSTIN / 官网对上）。
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -2,7 +2,7 @@
 
 > **评级 C**　|　巴西　|　档案编号 `SC-1379`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：巴西 Parks（parks.com.br；巴西自有品牌电信设备商，WDM switch 用的桂林的 = 中国代工；电话在表）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔ + 本职线 WDM；未触达 → 闸 2 查底数（cnpj.biz）；拉美非点名国，低优先　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）、dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 自有品牌制造商 · OEM 30%：Parks S.A. Comunicações Digitais（Cachoeirinha RS；CNPJ 92.679.331/0001-18；1972；通信传输设备制造）坐实；自有品牌 ✔ 制造商 ✔ 对位 ✔ 坐实 ✔ → P 池候选（GPON / 光模块走本职线）　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）、oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：DWDM线索　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1379
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 11
 country: 巴西
 region: 拉美
@@ -38,6 +38,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（24 口 PoE L2+ 走量款）
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `parks.com.br` → 同域名 MX → 托管在 antispamcloud.com（MX：mx1.apmx.com.br、mx2.apmx.com.br、mx3.apmx.com.br、mx4.apmx.com.br）。主机商附带邮箱（同域名 MX → 托管在 antispamcloud.com）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 130 批（BR · 1 次检索：econodata（CNPJ / CNAE / 成立）+ informecadastral / speedio（地址 / 状态）；2026-10-29，2026-10-29 查；https://www.econodata.com.br/consulta-empresa/92679331000118-parks-sa-comunicacoes-digitais）：**
+
+- 法定名 / 登记号：Parks S.A. Comunicações Digitais（parks.com.br；**CNPJ 92.679.331/0001-18；1972-08-01 成立；S.A. fechada；Av. Cruzeiro 530, Distrito Industrial, Cachoeirinha RS 94930-615；CNAE 2631-1/00 通信传输设备制造；Ativa**）；表内：巴西自有品牌电信设备制造（GPON / 交换机；本职线重叠） · 92.679.331/0001-18（CNPJ） · 状态 **Ativa（Receita 2026）** · 成立 1972-08-01 · S.A.（fechada）
+- 行业码 / 经营范围：通信传输设备制造（南大河州）
+- 注册地址：Av. Cruzeiro 530, Distrito Industrial, Cachoeirinha RS 94930-615
+- 规模档：大型（53 年制造商）
+- 账目：未取；—
+- 高管：（具名 KP 未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自有品牌制造商 → OEM 30%：找硬件采购一页纸一次（STC-2224GP / STC-4424GCPM / STI-288GPM 贴牌 Parks + 中性包装 + MOQ 1；GPON / 光模块走本职线）— 其他区常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP 买方清关；周二 / 周四 当地 10–12**
+- 备注：OEM 30%；P 池候选 ★（自有品牌 ✔ 制造商 ✔ 对位 ✔ 坐实 ✔）；坐实（CNPJ）；dayjob_fit。
 
 ## 基本事实（事实/推断/假设分层）
 
