@@ -2,7 +2,7 @@
 
 > **评级 C**　|　荷兰　|　档案编号 `SC-3302`　|　优先级 —　|　状态：已推送 15 次·未回复
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 全线自有品牌 · OEM 30%：Niveo Professional = BNS Netstar bv / Niveo International bv（Hilversum 2009；2–10 人；营收估 $6.9M；A/V 安装渠道自有网络品牌；MD Arthur de Jager = 表内 arthur@）部分坐实（KvK 未取）；自有品牌 ✔ 决策人直达 ✔ 欧洲 ✔ 对位 ✔ → P 池候选（退信 → 改发 arthur@ / jaap@）；Simon 曾判不行，可否决　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）、oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ★）：★ 全线自有品牌 · OEM 30%：Niveo Professional = BNS Netstar bv / Niveo International bv（Hilversum 2009；2–10 人；营收估 $6.9M；A/V 安装渠道自有网络品牌；MD Arthur de Jager = 表内 arthur@）部分坐实（KvK 未取）；自有品牌 ✔ 决策人直达 ✔ 欧洲 ✔ 对位 ✔ → P 池候选（退信 → 改发 arthur@ / jaap@）；Simon 曾判不行，可否决　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）、oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 15 次（2024-05-17 → 2025-10-03）　|　**所在清单**：A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-3302
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
 score: -112
 country: 荷兰
 region: 欧洲

@@ -3,12 +3,12 @@
   "updated": "2026-10-29",
   "rules": "docs/C池三闸筛选_方案_2026-10-29.md §2",
   "counts": {
-   "keep_C": 2996,
+   "keep_C": 2995,
    "pass_final": 219,
    "pool_watch": 37,
    "pool": 167
   },
-  "n": 3419
+  "n": 3418
  },
  "SC-001": {
   "verdict": "keep_C",
@@ -28606,19 +28606,13 @@
   "verdict": "keep_C",
   "gate": 1,
   "rule": "G1",
-  "reason": "INGENIERIA Y CONTRATOS S.A.S.（海关数据；原表仅谷歌搜索链接；国别未填，S.A.S. 后缀指向哥伦比亚 → 国别待核）：海关数据有进口记录 = 路径可建 → 留 C 待巡检",
+  "reason": "INGENIERIA Y CONTRATOS S.A.S.（海关数据；原表仅谷歌搜索链接；国别未填，S.A.S. 后缀指向哥伦比亚 → 国别待核）：海关数据有进口记录 = 路径可建 → 留 C 待巡检；SC-3415（同一海关记录重复建档）已于 2026-10-29 并入本户（人工归并.csv），编号作废",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-48"
- },
- "SC-3415": {
-  "verdict": "keep_C",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "INGENIERIA Y CONTRATOS S.A.S.（与 SC-3414 完全同一条海关数据，重复录入 → 待并档到 SC-3414）：随 SC-3414 留 C",
-  "date": "2026-10-29",
-  "manual": true,
-  "batch": "G1-48"
+  "batch": "G1-48",
+  "merged": [
+   "SC-3415"
+  ]
  },
  "SC-3416": {
   "verdict": "keep_C",

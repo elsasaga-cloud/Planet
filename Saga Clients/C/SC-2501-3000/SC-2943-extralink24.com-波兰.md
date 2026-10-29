@@ -2,7 +2,7 @@
 
 > **评级 C**　|　波兰　|　档案编号 `SC-2943`　|　优先级 —　|　状态：用户判定不行
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 自有品牌 · OEM 30%：Batna Sp. z o.o. — Extralink（Częstochowa；KRS 0001003926；20+ 年；x-kom / Neonet 渠道；Ekstraklasa 赞助）坐实；OEM ✔ 波兰 ✔ 体量 ✔ 对位 ✔ → P 池候选（退信 → 找产品经理）；Simon 曾判不行，可否决　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ★）：★ 自有品牌 · OEM 30%：Batna Sp. z o.o. — Extralink（Częstochowa；KRS 0001003926；20+ 年；x-kom / Neonet 渠道；Ekstraklasa 赞助）坐实；OEM ✔ 波兰 ✔ 体量 ✔ 对位 ✔ → P 池候选（退信 → 找产品经理）；Simon 曾判不行，可否决　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：分销商/经销商（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-2943
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
 score: -54
 country: 波兰
 region: 欧洲

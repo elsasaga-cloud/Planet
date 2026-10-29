@@ -2,7 +2,7 @@
 
 > **评级 C**　|　巴西　|　档案编号 `SC-1689`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 巴西 · 工业网络分销 / 集成 20%：Above-Net Comercio de Informatica, Telecomunicacao e Servicos Ltda（Rio de Janeiro；CNPJ 05.920.155/0001-60；2003；800+ 客户 / 1,500 项目）坐实；已进口中国工业线（三旺）✔ 对位 ✔ 巴西先例 ✔ → P 池候选
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ★）：★ 巴西 · 工业网络分销 / 集成 20%：Above-Net Comercio de Informatica, Telecomunicacao e Servicos Ltda（Rio de Janeiro；CNPJ 05.920.155/0001-60；2003；800+ 客户 / 1,500 项目）坐实；已进口中国工业线（三旺）✔ 对位 ✔ 巴西先例 ✔ → P 池候选
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：E冷名单(巴西)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1689
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
 score: 5
 country: 巴西
 region: 拉美

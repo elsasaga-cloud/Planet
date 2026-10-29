@@ -1,21 +1,24 @@
 # conexpro.com
+**官方名称（调研核实）**：Conexpro
 
-> **评级 C**　|　俄罗斯　|　档案编号 `SC-2957`　|　优先级 —　|　状态：用户判定不行
+> **评级 C**　|　捷克　|　档案编号 `SC-2957`　|　优先级 —　|　状态：用户判定不行
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 捷克（欧洲）· 自有品牌商 OEM 30%（长线）：Conexpro（conexpro.com About / Contact 直取：ISP / 安装商全线网络配件品牌，PoE 交换机 / SFP / 注入器 / 机柜 / 电池；Hřbitovní 1479/25, 312 00 Plzeň；info@conexpro.com；多国分销）部分坐实（IČO 未取，法人疑 i4wifi a.s.）；表内「俄罗斯」→ 实为捷克 = 国别纠偏待 Simon；Simon 二筛「全线帧田」= 已用中国 OEM ✔ 欧洲 ✔ 邮箱 ✔ → P 池候选（Simon 原「判定不行」可否决）　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ★）：★ 捷克（欧洲）· 自有品牌商 OEM 30%（长线）：Conexpro（conexpro.com About / Contact 直取：ISP / 安装商全线网络配件品牌，PoE 交换机 / SFP / 注入器 / 机柜 / 电池；Hřbitovní 1479/25, 312 00 Plzeň；info@conexpro.com；多国分销）部分坐实（IČO 未取，法人疑 i4wifi a.s.）；表内「俄罗斯」→ 实为捷克 = 国别纠偏待 Simon；Simon 二筛「全线帧田」= 已用中国 OEM ✔ 欧洲 ✔ 邮箱 ✔ → P 池候选（Simon 原「判定不行」可否决）　|　标签：country_pending、oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：品牌商（ISP / 安装商全线网络配件自有品牌：PoE 交换机 / SFP / 注入器 / 机柜）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-2957
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
+name_official: "Conexpro"
 score: -55
-country: 俄罗斯
-region: 俄语区
+country: 捷克
+country_table: 俄罗斯  # 表内原填；调研纠正为 捷克（research JSON country_fix）
+region: 欧洲
 website: conexpro.com
-type: 经销/集成（类型待核）
+type: 品牌商（ISP / 安装商全线网络配件自有品牌：PoE 交换机 / SFP / 注入器 / 机柜）
 tier_tags: ["用户判定不行"]
 deal: no
 replies: 0
@@ -23,8 +26,8 @@ followups: 0
 first_contact: unknown
 last_contact: unknown
 p1: STC-424DGGPM-280W
-price_tier: 20%
-research: pending
+price_tier: 30%
+research: done
 site_snapshot: none
 sources: 1
 updated: 2026-10-29
@@ -32,11 +35,11 @@ updated: 2026-10-29
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：俄罗斯的经销/集成（类型待核）；兴趣/在卖：基本是全线帧田的
+- **是谁**：国别纠偏：表内「俄罗斯」 → 捷克。Conexpro 官网 About / Contact：总部 Hřbitovní 1479/25, 312 00 Plzeň, Czech Republic（另列 Sídlo Daimlerova 6, 312 00 Plzeň）；info@conexpro.com。来源：公司底数登记（`data/saga_clients/registry/`，第 136 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。（调研 2026-10-29；表内兴趣：基本是全线帧田的）
 - **为什么是 C 级**：-60 用户已归入「不行及不太相关的」；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；C 级细分：用户判定不行/不相关
 - **历史互动**：名单内·无互动记录
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：不跟进；仅归档防重复开发
 
 ## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
@@ -66,9 +69,9 @@ updated: 2026-10-29
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | conexpro.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 俄罗斯 | 事实（用户表）|
+| 国家 | 捷克 | 事实（用户表）|
 | 网站/域名 | conexpro.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
+| 类型 | 品牌商（ISP / 安装商全线网络配件自有品牌：PoE 交换机 / SFP / 注入器 / 机柜） | 推断（据兴趣/备注关键词） |
 | 联系人 | — | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 基本是全线帧田的 | 事实（用户表） |
@@ -78,7 +81,15 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SC-2957.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-29）**　网站状态：营业中（官网 2026）
+- **是谁**：国别纠偏：表内「俄罗斯」 → 捷克。Conexpro 官网 About / Contact：总部 Hřbitovní 1479/25, 312 00 Plzeň, Czech Republic（另列 Sídlo Daimlerova 6, 312 00 Plzeň）；info@conexpro.com。来源：公司底数登记（`data/saga_clients/registry/`，第 136 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。
+- **类型**：品牌商（ISP / 安装商全线网络配件自有品牌：PoE 交换机 / SFP / 注入器 / 机柜）
+- **规模**：中型（全线品牌 + 多国分销）
+- **【官网】国别纠偏 表内「俄罗斯」 → 捷克**
+  > Conexpro 官网 About / Contact：总部 Hřbitovní 1479/25, 312 00 Plzeň, Czech Republic（另列 Sídlo Daimlerova 6, 312 00 Plzeň）；info@conexpro.com
+  > 来源：https://conexpro.com/about（抓取 2026-10-29）
+- 备注：T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。
+
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -136,7 +147,6 @@ updated: 2026-10-29
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

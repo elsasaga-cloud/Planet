@@ -2,7 +2,7 @@
 
 > **评级 C**　|　巴拉圭　|　档案编号 `SC-2368`　|　优先级 —　|　状态：成交过·维护
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：△ 观察档 · dayjob：Asociación Civil Radio ZP-30（Filadelfia 巴拉圭；基督教电台；wernerh@ 具名复购）部分坐实（RUC 未取）；复购 ✔ 具名 ✔ ≥2 条；光端机 = 本职线 + 终端 + 区域外 → 入池观察档，待 Q-70 dayjob 子池　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+> **C 池筛选：☆ P 池 · 观察档（试单 / 回访后转正或退回 C）**（闸 3 · 2026-10-29）：☆ P 池观察档（档位 △ = 微型 / 自用 / 个体 / 存疑，试单或回访一次后定）：△ 观察档 · dayjob：Asociación Civil Radio ZP-30（Filadelfia 巴拉圭；基督教电台；wernerh@ 具名复购）部分坐实（RUC 未取）；复购 ✔ 具名 ✔ ≥2 条；光端机 = 本职线 + 终端 + 区域外 → 入池观察档，待 Q-70 dayjob 子池　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：成交/下单过；推送 1 次（2025-10-08 → 2025-10-08）　|　**所在清单**：E冷名单(巴拉圭)、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-2368
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool_watch  # 闸 3 P1 2026-10-29
 score: -16
 country: 巴拉圭
 region: 拉美

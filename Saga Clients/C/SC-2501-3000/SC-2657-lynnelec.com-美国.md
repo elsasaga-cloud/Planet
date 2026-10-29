@@ -2,7 +2,7 @@
 
 > **评级 C**　|　美国　|　档案编号 `SC-2657`　|　优先级 —　|　状态：已推送 11 次·未回复
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 自有品牌 · OEM 30%：Lynn Electronics Corporation（Ivyland PA 1964；$18.6M；29–108 人；进口 Volktek；Director Data Center Solutions 在职）坐实；自有品牌 ✔ 进口经验 ✔ 主区 ✔ 体量 ✔ → P 池候选（DC 线可提 CENTEC）；Simon 曾判不行，可否决　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）、oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ★）：★ 自有品牌 · OEM 30%：Lynn Electronics Corporation（Ivyland PA 1964；$18.6M；29–108 人；进口 Volktek；Director Data Center Solutions 在职）坐实；自有品牌 ✔ 进口经验 ✔ 主区 ✔ 体量 ✔ → P 池候选（DC 线可提 CENTEC）；Simon 曾判不行，可否决　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）、oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 11 次（2022-11-30 → 2023-10-16）　|　**所在清单**：群发(已重新审核/一般 常规)、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-2657
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
 score: -31
 country: 美国
 region: 北美

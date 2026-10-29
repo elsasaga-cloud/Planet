@@ -2,7 +2,7 @@
 
 > **评级 C**　|　西班牙　|　档案编号 `SC-2633`　|　优先级 —　|　状态：用户判定不行
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：△ 观察档 · 分销 20%：SiSeCam Solutions S.L.U.（Fuengirola；Axis 全线网店）部分坐实（CIF 未取）；分销 ✔ 欧洲 ✔ 对位 ✔ 坐实 部分 ✔，Axis 体系微型 → 入池观察档（邮件 fail → 官网表单 / 电话）；Simon 曾判不行，可否决
+> **C 池筛选：☆ P 池 · 观察档（试单 / 回访后转正或退回 C）**（闸 3 · 2026-10-29）：☆ P 池观察档（档位 △ = 微型 / 自用 / 个体 / 存疑，试单或回访一次后定）：△ 观察档 · 分销 20%：SiSeCam Solutions S.L.U.（Fuengirola；Axis 全线网店）部分坐实（CIF 未取）；分销 ✔ 欧洲 ✔ 对位 ✔ 坐实 部分 ✔，Axis 体系微型 → 入池观察档（邮件 fail → 官网表单 / 电话）；Simon 曾判不行，可否决
 >
 > **类型**：分销商/经销商（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-2633
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool_watch  # 闸 3 P1 2026-10-29
 score: -29
 country: 西班牙
 region: 欧洲

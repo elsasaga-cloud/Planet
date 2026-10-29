@@ -2,7 +2,7 @@
 
 > **评级 C**　|　香港　|　档案编号 `SC-2587`　|　优先级 —　|　状态：已推送 8 次·未回复
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 香港 · 品牌商 OEM 30%：tactio Corporation（Lai Chi Kok；2006；自有品牌 INEO 工业 PoE + 交换机 8–48 口 + MC + AP 全线）部分坐实（CR 未取）；自有品牌全线 ✔ 已贴牌中国同类 ✔ 对位 ✔ → P 池候选（换 OEM 稿）　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ★）：★ 香港 · 品牌商 OEM 30%：tactio Corporation（Lai Chi Kok；2006；自有品牌 INEO 工业 PoE + 交换机 8–48 口 + MC + AP 全线）部分坐实（CR 未取）；自有品牌全线 ✔ 已贴牌中国同类 ✔ 对位 ✔ → P 池候选（换 OEM 稿）　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：分销商/经销商（推断）　|　**历史关系**：推送 8 次（2025-02-12 → 2025-10-14）　|　**所在清单**：A优质名单(HK)、AI评估(HK)·DONE、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-2587
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
 score: -27
 country: 香港
 region: 亚太

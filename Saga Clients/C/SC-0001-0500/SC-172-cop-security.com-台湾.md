@@ -2,7 +2,7 @@
 
 > **评级 C**　|　台湾　|　档案编号 `SC-172`　|　优先级 —　|　状态：已推送 2 次·未回复
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 监控厂 · OEM 30%：COP Security System Corp.（新北新店；1992；$14.5M；联系人 Tony Jiang）部分坐实（統編未取）；制造商 ✔ 具名联系人 ✔ 对位 ✔ → P 池候选　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ★）：★ 监控厂 · OEM 30%：COP Security System Corp.（新北新店；1992；$14.5M；联系人 Tony Jiang）部分坐实（統編未取）；制造商 ✔ 具名联系人 ✔ 对位 ✔ → P 池候选　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：台湾安防/网络厂商（同行）（推断）　|　**历史关系**：推送 2 次（2025-09-19 → 2025-10-16）　|　**所在清单**：A台湾名单　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-172
 rating: C
 rating_auto: B
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
 rating_research: C  # 同行/台湾厂商：COP Security（自产 CCTV/网络，OEM/ODM），非渠道客户；c_sub=同行/台湾厂商
 score: 31
 country: 台湾

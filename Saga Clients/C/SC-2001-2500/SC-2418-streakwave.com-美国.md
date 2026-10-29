@@ -1,21 +1,24 @@
 # streakwave.com
+**官方名称（调研核实）**：Streakwave Wireless, Inc.
 
-> **评级 C**　|　加拿大　|　档案编号 `SC-2418`　|　优先级 —　|　状态：已推送 1 次·未回复
+> **评级 C**　|　美国　|　档案编号 `SC-2418`　|　优先级 —　|　状态：已推送 1 次·未回复
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 中型分销 20%：Streakwave Wireless, Inc.（San Jose 总部 + 4 分仓；无线 / 安防 / 网络增值分销）部分坐实；国别纠偏 加拿大 → 美国；对位 ✔ 主区 ✔ 体量 ✔ 坐实 ✔ → P 池候选（长线）；Simon 曾判不行，可否决　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ○）：○ 中型分销 20%：Streakwave Wireless, Inc.（San Jose 总部 + 4 分仓；无线 / 安防 / 网络增值分销）部分坐实；国别纠偏 加拿大 → 美国；对位 ✔ 主区 ✔ 体量 ✔ 坐实 ✔ → P 池候选（长线）；Simon 曾判不行，可否决　|　标签：country_pending、dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 1 次（2025-10-18 → 2025-10-18）　|　**所在清单**：A优质名单(Canada)、AI评估(CA)·DONE、群发(筛选后质量一般的_群发)、表:Canada、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：无线 / 安防 / 网络增值分销商（推断）　|　**历史关系**：推送 1 次（2025-10-18 → 2025-10-18）　|　**所在清单**：A优质名单(Canada)、AI评估(CA)·DONE、群发(筛选后质量一般的_群发)、表:Canada、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-2418
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
+name_official: "Streakwave Wireless, Inc."
 score: -18
-country: 加拿大
+country: 美国
+country_table: 加拿大  # 表内原填；调研纠正为 美国（research JSON country_fix）
 region: 北美
 website: streakwave.com
-type: 经销/集成（类型待核）
+type: 无线 / 安防 / 网络增值分销商
 tier_tags: ["A优质名单(Canada)", "AI评估(CA)·DONE", "群发(筛选后质量一般的_群发)", "表:Canada", "用户判定不行"]
 deal: no
 replies: 0
@@ -25,7 +28,7 @@ last_contact: 2025-10-18
 s_mail: 21 msgs (out 21 / in 0), 2024-06-20 -> 2026-10-07
 p1: STC-28DGGPM
 price_tier: 20%
-research: pending
+research: done
 site_snapshot: none
 sources: 4
 updated: 2026-10-29
@@ -33,11 +36,11 @@ updated: 2026-10-29
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：加拿大的经销/集成（类型待核）；兴趣/在卖：卖很多牌子的；商业POE 工业FS SFP；提到的品牌：FS
+- **是谁**：国别纠偏：表内「加拿大」 → 美国。Streakwave Wireless, Inc. 官网 Our Story：总部 840 Jury Court, San Jose, CA 95112；分仓 Salt Lake City / Cincinnati / 墨尔本 / 新西兰。来源：公司底数登记（`data/saga_clients/registry/`，第 126 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。（调研 2026-10-29；表内兴趣：卖很多牌子的；商业POE 工业FS SFP）
 - **为什么是 C 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+4 AI/Claude 评估 B；-60 用户已归入「不行及不太相关的」；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025；C 级细分：用户判定不行/不相关
 - **历史互动**：推送 1 次（2025-10-18 → 2025-10-18）
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-28DGGPM（8 口 PoE + 2 SFP L2+）
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：不跟进；仅归档防重复开发
 
 ## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
@@ -68,9 +71,9 @@ updated: 2026-10-29
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | streakwave.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 加拿大 | 事实（用户表）|
+| 国家 | 美国 | 事实（用户表）|
 | 网站/域名 | streakwave.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
+| 类型 | 无线 / 安防 / 网络增值分销商 | 推断（据兴趣/备注关键词） |
 | 联系人 | Carl M / CEO / Charles Listwan / Sr. Product Manager / 一些牌子的 Edimax等 | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 卖很多牌子的 / 商业POE 工业FS SFP | 事实（用户表） |
@@ -90,7 +93,15 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SC-2418.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-29）**　网站状态：营业中（官网 2022 版权）
+- **是谁**：国别纠偏：表内「加拿大」 → 美国。Streakwave Wireless, Inc. 官网 Our Story：总部 840 Jury Court, San Jose, CA 95112；分仓 Salt Lake City / Cincinnati / 墨尔本 / 新西兰。来源：公司底数登记（`data/saga_clients/registry/`，第 126 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。
+- **类型**：无线 / 安防 / 网络增值分销商
+- **规模**：中型（多仓分销）
+- **【官网】国别纠偏 表内「加拿大」 → 美国**
+  > Streakwave Wireless, Inc. 官网 Our Story：总部 840 Jury Court, San Jose, CA 95112；分仓 Salt Lake City / Cincinnati / 墨尔本 / 新西兰
+  > 来源：https://streakwave.com/about.asp（抓取 2026-10-29）
+- 备注：T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。
+
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -162,7 +173,6 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

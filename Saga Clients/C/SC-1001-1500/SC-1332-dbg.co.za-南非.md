@@ -2,7 +2,7 @@
 
 > **评级 C**　|　南非　|　档案编号 `SC-1332`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 自有品牌 UltraLAN · OEM 30%：DBG Distribution（原 Uniterm Direct；JHB / CPT / DBN；2002；自有 UltraLAN PoE 交换机 / 延长器 / 注入器 + Ubiquiti / Tenda / Optcore 代理）部分坐实（Reg No 未取）；自有品牌 ✔ 分销网络 ✔ 对位 ✔ → P 池候选（光纤 / SFP 走本职线）　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）、oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ★）：★ 自有品牌 UltraLAN · OEM 30%：DBG Distribution（原 Uniterm Direct；JHB / CPT / DBN；2002；自有 UltraLAN PoE 交换机 / 延长器 / 注入器 + Ubiquiti / Tenda / Optcore 代理）部分坐实（Reg No 未取）；自有品牌 ✔ 分销网络 ✔ 对位 ✔ → P 池候选（光纤 / SFP 走本职线）　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）、oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：分销商/经销商（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:South Africa　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1332
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
 score: 11
 country: 南非
 region: 非洲

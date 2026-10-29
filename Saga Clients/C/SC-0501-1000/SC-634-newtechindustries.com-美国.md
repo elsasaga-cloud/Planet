@@ -2,7 +2,7 @@
 
 > **评级 C**　|　美国　|　档案编号 `SC-634`　|　优先级 —　|　状态：已推送 18 次·未回复
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 自有品牌 · OEM 30%：New Tech Industries, Inc.（Davie FL；11–50 人；官网在售自有型号工业 PoE DIN 交换机 NT408-2P / NT404-1 + TRENDnet）部分坐实（sunbiz 未取）；自有品牌 ✔ 进口 Wi-Tek ✔ 主区 ✔ 对位极强 ✔ → P 池候选；18 推全退信（两域 MX 正常）→ 官网表单 / LinkedIn 换址后再发　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ★）：★ 自有品牌 · OEM 30%：New Tech Industries, Inc.（Davie FL；11–50 人；官网在售自有型号工业 PoE DIN 交换机 NT408-2P / NT404-1 + TRENDnet）部分坐实（sunbiz 未取）；自有品牌 ✔ 进口 Wi-Tek ✔ 主区 ✔ 对位极强 ✔ → P 池候选；18 推全退信（两域 MX 正常）→ 官网表单 / LinkedIn 换址后再发　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 18 次（2024-05-09 → 2025-10-31）　|　**所在清单**：A优质名单(US)、AI评估(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-634
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
 score: 18
 country: 美国
 region: 北美

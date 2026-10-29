@@ -2,7 +2,7 @@
 
 > **评级 C**　|　德国　|　档案编号 `SC-568`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 德国主区 · 自有品牌分销商 OEM 30%（长线）：EFB-Elektronik GmbH（Bielefeld；HRB 33008 AG Bielefeld；USt-ID DE126943218；GF Robin Ohle；Hersteller + Großhändler = 自有品牌网络 / 布线产品线）坐实；德国主区 ✔ 自有品牌 ✔ 对位 ✔ Simon「专业」✔ → P 池候选（info@ 在；先找 Einkauf 具名）　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ★）：★ 德国主区 · 自有品牌分销商 OEM 30%（长线）：EFB-Elektronik GmbH（Bielefeld；HRB 33008 AG Bielefeld；USt-ID DE126943218；GF Robin Ohle；Hersteller + Großhändler = 自有品牌网络 / 布线产品线）坐实；德国主区 ✔ 自有品牌 ✔ 对位 ✔ Simon「专业」✔ → P 池候选（info@ 在；先找 Einkauf 具名）　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：A优质名单(DE)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-568
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
 score: 19
 country: 德国
 region: 欧洲

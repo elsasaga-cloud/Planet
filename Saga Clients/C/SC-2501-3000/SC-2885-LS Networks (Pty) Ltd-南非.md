@@ -2,7 +2,7 @@
 
 > **评级 C**　|　南非　|　档案编号 `SC-2885`　|　优先级 —　|　状态：用户判定不行
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 南非 · 安防集成 25%：Plug & Play Solutions = 表内 LS Networks (Pty) Ltd（Centurion；2012；35 人；$5M；Sales Exec Kelvin Jordaan）部分坐实（Reg No 未取）；工业 PoE + MC 真需求 ✔ 对位 ✔ 南非先例 ✔ Simon「单独跟进」✔ → P 池候选
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ○）：○ 南非 · 安防集成 25%：Plug & Play Solutions = 表内 LS Networks (Pty) Ltd（Centurion；2012；35 人；$5M；Sales Exec Kelvin Jordaan）部分坐实（Reg No 未取）；工业 PoE + MC 真需求 ✔ 对位 ✔ 南非先例 ✔ Simon「单独跟进」✔ → P 池候选
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:South Africa、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-2885
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
 score: -49
 country: 南非
 region: 非洲

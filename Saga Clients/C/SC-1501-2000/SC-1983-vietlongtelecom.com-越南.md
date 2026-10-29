@@ -2,7 +2,7 @@
 
 > **评级 C**　|　越南　|　档案编号 `SC-1983`　|　优先级 —　|　状态：已推送 8 次·未回复
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 越南 · 分销 20%：Việt Long（vietlongtelecom.com 官网直取：G-NET 河内分销 + 保修代理；G-IES / G-IMS 工业交换机、GX-PES PoE、MC；电话 ×3）部分坐实（MST 未取，通名）；越南先例 ✔ 中国 OEM 品牌代理 ✔ 对位 ✔；8 推 0 回 → 换稿仅一次 → P 池候选
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ○）：○ 越南 · 分销 20%：Việt Long（vietlongtelecom.com 官网直取：G-NET 河内分销 + 保修代理；G-IES / G-IMS 工业交换机、GX-PES PoE、MC；电话 ×3）部分坐实（MST 未取，通名）；越南先例 ✔ 中国 OEM 品牌代理 ✔ 对位 ✔；8 推 0 回 → 换稿仅一次 → P 池候选
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 8 次（2024-05-13 → 2024-12-30）　|　**所在清单**：群发(VN/VN)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1983
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
 score: -1
 country: 越南
 region: 亚太

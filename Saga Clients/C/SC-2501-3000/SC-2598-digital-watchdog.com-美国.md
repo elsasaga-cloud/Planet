@@ -2,7 +2,7 @@
 
 > **评级 C**　|　美国　|　档案编号 `SC-2598`　|　优先级 —　|　状态：已推送 20 次·未回复
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 品牌商 · OEM 30%：Digital Watchdog（Tampa FL；1987；80–125 人；$11–39M；CEO HK Lee）部分坐实；KP wade@ = President / COO Wade Thomas；自有 logo 商业 PoE → 对位 ✔ 主区 ✔ 品牌 ✔ KP 直达 ✔ → P 池候选（体量偏大）；Simon 曾判不行，可否决　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ★）：★ 品牌商 · OEM 30%：Digital Watchdog（Tampa FL；1987；80–125 人；$11–39M；CEO HK Lee）部分坐实；KP wade@ = President / COO Wade Thomas；自有 logo 商业 PoE → 对位 ✔ 主区 ✔ 品牌 ✔ KP 直达 ✔ → P 池候选（体量偏大）；Simon 曾判不行，可否决　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：推送 20 次（2024-03-27 → 2025-10-25）　|　**所在清单**：A优质名单(US)、AI评估(US)、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-2598
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
 score: -28
 country: 美国
 region: 北美

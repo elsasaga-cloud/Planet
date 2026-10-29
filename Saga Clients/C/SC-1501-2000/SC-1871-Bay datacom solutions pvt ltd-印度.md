@@ -1,21 +1,24 @@
 # Bay datacom solutions pvt ltd
+**官方名称（调研核实）**：Bay Datacom Solutions Pvt. Ltd.（U32100TG1998PTC028943（CIN））
 
-> **评级 C**　|　尼泊尔　|　档案编号 `SC-1871`　|　优先级 —　|　状态：名单内·未触达
+> **评级 C**　|　印度　|　档案编号 `SC-1871`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 印度 · 大集成 25%：Bay Datacom Solutions Pvt Ltd（Hyderabad + Bengaluru；CIN U32100TG1998PTC028943；1998；200–500 人；₹24 Cr）坐实；4 光 24 电 PoE 具体需求 ✔ 中型集成 ✔ → P 池候选；表内「尼泊尔」→ 印度 country_fix 待 Simon
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ○）：○ 印度 · 大集成 25%：Bay Datacom Solutions Pvt Ltd（Hyderabad + Bengaluru；CIN U32100TG1998PTC028943；1998；200–500 人；₹24 Cr）坐实；4 光 24 电 PoE 具体需求 ✔ 中型集成 ✔ → P 池候选；表内「尼泊尔」→ 印度 country_fix 待 Simon
 >
-> **类型**：系统集成/工程商（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(杂)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：网络 / 安全 / 数据中心系统集成商（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(杂)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-1871
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
+name_official: "Bay Datacom Solutions Pvt. Ltd.（U32100TG1998PTC028943（CIN））"
 score: 1
-country: 尼泊尔
+country: 印度
+country_table: 尼泊尔  # 表内原填；调研纠正为 印度（research JSON country_fix）
 region: 南亚
 website: baydatacom.com
-type: 系统集成/工程商
+type: 网络 / 安全 / 数据中心系统集成商
 tier_tags: ["群发(杂)"]
 deal: no
 replies: 0
@@ -24,7 +27,7 @@ first_contact: unknown
 last_contact: unknown
 p1: STC-424DGGPM-280W
 price_tier: 25%
-research: pending
+research: done
 site_snapshot: none
 sources: 1
 updated: 2026-10-29
@@ -32,11 +35,11 @@ updated: 2026-10-29
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：尼泊尔的系统集成/工程商；兴趣/在卖：网管工业级4光24电POE交换机
+- **是谁**：国别纠偏：表内「尼泊尔」 → 印度。Bay Datacom Solutions Pvt. Ltd.：CIN U32100TG1998PTC028943；1998-02-28；Hyderabad Jubilee Hills Road No. 92, 500096；200–500 人；FY22 净销售 ₹2,405 lakh。来源：公司底数登记（`data/saga_clients/registry/`，第 131 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。（调研 2026-10-29；表内兴趣：网管工业级4光24电POE交换机）
 - **为什么是 C 级**：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/尼泊尔；-10 最近活动 2020（陈旧）；C 级细分：陈旧线索无互动
 - **历史互动**：名单内·无互动记录
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（24 口 PoE L2+ 走量款）
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：不跟进；仅归档防重复开发
 
 ## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
@@ -67,9 +70,9 @@ updated: 2026-10-29
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | Bay datacom solutions pvt ltd | 事实（用户表） |
-| 国家 | 尼泊尔 | 事实（用户表）|
+| 国家 | 印度 | 事实（用户表）|
 | 网站/域名 | baydatacom.com | 事实（用户表 URL/邮箱域名） |
-| 类型 | 系统集成/工程商 | 推断（据兴趣/备注关键词） |
+| 类型 | 网络 / 安全 / 数据中心系统集成商 | 推断（据兴趣/备注关键词） |
 | 联系人 | Mr.Deepak / Gheemire    CEO | 事实（用户表） |
 | 来源（From） | RFQ<br>20200227 | 事实（用户表） |
 | 兴趣（Interested in） | 网管工业级4光24电POE交换机 | 事实（用户表） |
@@ -79,7 +82,15 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SC-1871.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-29）**　网站状态：Active（MCA）
+- **是谁**：国别纠偏：表内「尼泊尔」 → 印度。Bay Datacom Solutions Pvt. Ltd.：CIN U32100TG1998PTC028943；1998-02-28；Hyderabad Jubilee Hills Road No. 92, 500096；200–500 人；FY22 净销售 ₹2,405 lakh。来源：公司底数登记（`data/saga_clients/registry/`，第 131 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。
+- **类型**：网络 / 安全 / 数据中心系统集成商
+- **规模**：中型（200–500 人；₹24 Cr）
+- **【登记】国别纠偏 表内「尼泊尔」 → 印度**
+  > Bay Datacom Solutions Pvt. Ltd.：CIN U32100TG1998PTC028943；1998-02-28；Hyderabad Jubilee Hills Road No. 92, 500096；200–500 人；FY22 净销售 ₹2,405 lakh
+  > 来源：https://info.edgeinsights.in/company/Bay-Datacom-Solutions-Pvt.-Ltd./131542（抓取 2026-10-29）
+- 备注：T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。
+
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -138,7 +149,6 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

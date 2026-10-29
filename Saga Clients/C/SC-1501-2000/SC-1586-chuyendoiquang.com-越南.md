@@ -2,7 +2,7 @@
 
 > **评级 C**　|　越南　|　档案编号 `SC-1586`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 越南 · 分销 20%：CÔNG TY TNHH GIẢI PHÁP VIỄN THÔNG THIÊN TÂN（Hà Nội Từ Liêm；MST 0105224649；电子 / 电信设备批发）坐实；越南先例 ✔ 中国品牌 ✔ 对位 ✔ 业务微信可达 ✔ → P 池候选；VC 本职线并行　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ○）：○ 越南 · 分销 20%：CÔNG TY TNHH GIẢI PHÁP VIỄN THÔNG THIÊN TÂN（Hà Nội Từ Liêm；MST 0105224649；电子 / 电信设备批发）坐实；越南先例 ✔ 中国品牌 ✔ 对位 ✔ 业务微信可达 ✔ → P 池候选；VC 本职线并行　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(VN/VN)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1586
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
 score: 7
 country: 越南
 region: 亚太

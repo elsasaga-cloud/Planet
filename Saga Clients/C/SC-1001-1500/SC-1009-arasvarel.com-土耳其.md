@@ -2,7 +2,7 @@
 
 > **评级 C**　|　土耳其　|　档案编号 `SC-1009`　|　优先级 —　|　状态：发不过去
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：△ 观察档 · 集成商 25%：Varel Alarm Sistemleri Tic. A.Ş.（1990；Siemens Solution Partner；2012 并入荷兰 ARAS B.V.；约 14 人）部分坐实；对位 ✔ 主区 ✔ 坐实 ✔ 复购体量（项目型）△ → 入池观察档；先换 varelalarm.com 地址重发
+> **C 池筛选：☆ P 池 · 观察档（试单 / 回访后转正或退回 C）**（闸 3 · 2026-10-29）：☆ P 池观察档（档位 △ = 微型 / 自用 / 个体 / 存疑，试单或回访一次后定）：△ 观察档 · 集成商 25%：Varel Alarm Sistemleri Tic. A.Ş.（1990；Siemens Solution Partner；2012 并入荷兰 ARAS B.V.；约 14 人）部分坐实；对位 ✔ 主区 ✔ 坐实 ✔ 复购体量（项目型）△ → 入池观察档；先换 varelalarm.com 地址重发
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：在用同行产品　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1009
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool_watch  # 闸 3 P1 2026-10-29
 score: 16
 country: 土耳其
 region: 土耳其

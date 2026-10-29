@@ -2,7 +2,7 @@
 
 > **评级 C**　|　墨西哥　|　档案编号 `SC-3130`　|　优先级 —　|　状态：已推送 1 次·未回复
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 墨西哥 · CCTV 大分销 20%（长线）：TVC en Línea.com, S.A. de C.V.（Monterrey；RFC TVC060802NE4；2000；201–500 人；蒙特雷 + 墨西哥城）坐实；大分销 ✔ Utepo / 大华中国品牌进口 ✔ 对位 ✔ 墨西哥先例 SYSCOM ✔ → P 池候选（换 ventas / compras 地址 + WA）
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ★）：★ 墨西哥 · CCTV 大分销 20%（长线）：TVC en Línea.com, S.A. de C.V.（Monterrey；RFC TVC060802NE4；2000；201–500 人；蒙特雷 + 墨西哥城）坐实；大分销 ✔ Utepo / 大华中国品牌进口 ✔ 对位 ✔ 墨西哥先例 SYSCOM ✔ → P 池候选（换 ventas / compras 地址 + WA）
 >
 > **类型**：安防集成/经销（推断）　|　**历史关系**：推送 1 次（2025-10-07 → 2025-10-07）　|　**所在清单**：E冷名单(墨西哥)、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-3130
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
 score: -68
 country: 墨西哥
 region: 拉美

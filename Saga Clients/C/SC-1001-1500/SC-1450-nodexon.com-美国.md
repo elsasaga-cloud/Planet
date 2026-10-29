@@ -2,7 +2,7 @@
 
 > **评级 C**　|　美国　|　档案编号 `SC-1450`　|　优先级 —　|　状态：发不过去
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 品牌商 · OEM 30%：MICROLINK NETWORKS LLC / NODEXON（1994；NY + Houston；51–200；$10M；CEO Yaseen Khalid；20+ 分销商）部分坐实；长飞 / 中科贴牌 → 对位 ✔ 主区 ✔ OEM ✔ 体量 ✔ → P 池候选；先换地址　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）、oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ★）：★ 品牌商 · OEM 30%：MICROLINK NETWORKS LLC / NODEXON（1994；NY + Houston；51–200；$10M；CEO Yaseen Khalid；20+ 分销商）部分坐实；长飞 / 中科贴牌 → 对位 ✔ 主区 ✔ OEM ✔ 体量 ✔ → P 池候选；先换地址　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）、oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：DC线索、群发(之前OK现在群发)、在用同行产品　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1450
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
 score: 10
 country: 美国
 region: 北美

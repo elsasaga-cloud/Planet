@@ -1,21 +1,23 @@
 # kamery-hikvision.sk
 
-> **评级 C**　|　斯洛文尼亚　|　档案编号 `SC-3057`　|　优先级 —　|　状态：用户判定不行
+> **评级 C**　|　斯洛伐克　|　档案编号 `SC-3057`　|　优先级 —　|　状态：用户判定不行
 >
 > **C 池筛选：留 C 储备**（闸 2 · 2026-10-29）：闸 2 未坐实：kamery-hikvision.sk 1 查仅返回同名他站（hik-kamery.sk / kamery-hikvision-sk.sk / maxalarm）+ 退信 + Simon 判不行 → 回 C 储备；国别纠偏 斯洛文尼亚 → 斯洛伐克（待 Simon 确认）
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：CCTV 网店（主体未坐实；Wi-Tek 用户；退信）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-3057
 rating: C
 rating_auto: C
 sieve: keep_C  # 闸 2 G2 2026-10-29
+name_official: "kamery-hikvision.sk"
 score: -62
-country: 斯洛文尼亚
+country: 斯洛伐克
+country_table: 斯洛文尼亚  # 表内原填；调研纠正为 斯洛伐克（research JSON country_fix）
 region: 欧洲
 website: kamery-hikvision.sk
-type: 经销/集成（类型待核）
+type: CCTV 网店（主体未坐实；Wi-Tek 用户；退信）
 tier_tags: ["用户判定不行"]
 deal: no
 replies: 0
@@ -23,8 +25,8 @@ followups: 0
 first_contact: unknown
 last_contact: unknown
 p1: STC-424DGGPM-280W
-price_tier: 20%
-research: pending
+price_tier: 25%
+research: done
 site_snapshot: none
 sources: 1
 updated: 2026-10-29
@@ -32,11 +34,11 @@ updated: 2026-10-29
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：斯洛文尼亚的经销/集成（类型待核）；兴趣/在卖：wi-tek
+- **是谁**：国别纠偏：表内「斯洛文尼亚」 → 斯洛伐克。kamery-hikvision.sk：.sk = 斯洛伐克国家顶级域；「kamery」为斯洛伐克语 / 捷克语「摄像机」（斯洛文尼亚语为 kamere）；1 查仅命中同名他站（hik-kamery.sk / kamery-hikvision-sk.sk Bratislava / maxalarm.sk），经营主体未坐实。来源：公司底数登记（`data/saga_clients/registry/`，第 127 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。（调研 2026-10-29；表内兴趣：wi-tek）
 - **为什么是 C 级**：-60 用户已归入「不行及不太相关的」；-25 邮件发不过去且无 WhatsApp 通道；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/斯洛文尼亚；C 级细分：用户判定不行/不相关
 - **历史互动**：名单内·无互动记录
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：不跟进；仅归档防重复开发
 
 ## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
@@ -67,9 +69,9 @@ updated: 2026-10-29
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | kamery-hikvision.sk（取自域名，公司全名待核） | 推断 |
-| 国家 | 斯洛文尼亚 | 事实（用户表）|
+| 国家 | 斯洛伐克 | 事实（用户表）|
 | 网站/域名 | kamery-hikvision.sk | 事实（用户表 URL/邮箱域名） |
-| 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
+| 类型 | CCTV 网店（主体未坐实；Wi-Tek 用户；退信） | 推断（据兴趣/备注关键词） |
 | 联系人 | 发不过去 | 事实（用户表） |
 | 来源（From） | — | 事实（用户表） |
 | 兴趣（Interested in） | wi-tek | 事实（用户表） |
@@ -79,7 +81,15 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SC-3057.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-29）**　网站状态：未坐实
+- **是谁**：国别纠偏：表内「斯洛文尼亚」 → 斯洛伐克。kamery-hikvision.sk：.sk = 斯洛伐克国家顶级域；「kamery」为斯洛伐克语 / 捷克语「摄像机」（斯洛文尼亚语为 kamere）；1 查仅命中同名他站（hik-kamery.sk / kamery-hikvision-sk.sk Bratislava / maxalarm.sk），经营主体未坐实。来源：公司底数登记（`data/saga_clients/registry/`，第 127 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。
+- **类型**：CCTV 网店（主体未坐实；Wi-Tek 用户；退信）
+- **规模**：微型（推定）
+- **【域名】国别纠偏 表内「斯洛文尼亚」 → 斯洛伐克**
+  > kamery-hikvision.sk：.sk = 斯洛伐克国家顶级域；「kamery」为斯洛伐克语 / 捷克语「摄像机」（斯洛文尼亚语为 kamere）；1 查仅命中同名他站（hik-kamery.sk / kamery-hikvision-sk.sk Bratislava / maxalarm.sk），经营主体未坐实
+  > 来源：https://kamery-hikvision.sk/（抓取 2026-10-29）
+- 备注：T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。
+
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -138,7 +148,6 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

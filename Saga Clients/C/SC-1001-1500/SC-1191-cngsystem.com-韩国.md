@@ -2,7 +2,7 @@
 
 > **评级 C**　|　韩国　|　档案编号 `SC-1191`　|　优先级 —　|　状态：发不过去
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ CENTEC 敲门砖 · 分销 20%：(주)씨앤지시스템 CNG System（dialogic.co.kr；Seoul；Dialogic / AudioCodes 通信卡分销）部分坐实（사업자 未取）；CENTEC 意向 ✔ 分销主体 ✔ 对位 ✔ → P 池候选（换 dialogic.co.kr 地址再发）
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ○）：○ CENTEC 敲门砖 · 分销 20%：(주)씨앤지시스템 CNG System（dialogic.co.kr；Seoul；Dialogic / AudioCodes 通信卡分销）部分坐实（사업자 未取）；CENTEC 意向 ✔ 分销主体 ✔ 对位 ✔ → P 池候选（换 dialogic.co.kr 地址再发）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：A优质名单(KR)、AI评估(KR)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1191
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
 score: 13
 country: 韩国
 region: 亚太

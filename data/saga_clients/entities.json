@@ -569238,8 +569238,8 @@
 "name": "manggis.kz",
 "name_src": "domain",
 "names": [],
-"country": "俄罗斯",
-"iso": "RU",
+"country": "哈萨克斯坦",
+"iso": "KZ",
 "region": "俄语区",
 "other_countries": [],
 "domains": [
@@ -569328,7 +569328,29 @@
 "c_sub": "群发冷名单无回应",
 "status": "名单内·未触达",
 "code": "SC-1513",
-"grade": "C"
+"grade": "C",
+"research": {
+"code": "SC-1513",
+"name_official": "ТОО «Manggis»（110940009256（БИН；另 181040026149））",
+"website_status": "营业中（网店 2026）",
+"summary": "国别纠偏：表内「俄罗斯」 → 哈萨克斯坦。ТОО «Manggis» delivery 页：БИН 110940009256（另载 181040026149）；Алматы, пр. Гагарина 236Б оф.303；+7 727 317-61-61；info@manggis.kz。来源：公司底数登记（`data/saga_clients/registry/`，第 129 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。",
+"type": "CCTV / СКУД 网店 + 批零 + 安装",
+"size": "小型",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网",
+"claim": "国别纠偏 表内「俄罗斯」 → 哈萨克斯坦",
+"quote": "ТОО «Manggis» delivery 页：БИН 110940009256（另载 181040026149）；Алматы, пр. Гагарина 236Б оф.303；+7 727 317-61-61；info@manggis.kz",
+"url": "https://manggis.kz/delivery",
+"date": "2026-10-29"
+}
+],
+"researched_at": "2026-10-29",
+"country_fix": "哈萨克斯坦",
+"notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。"
+},
+"country_table": "俄罗斯"
 },
 {
 "name": "mangthanhcong.vn",
@@ -581809,8 +581831,8 @@
 "name": "lsservice.kz",
 "name_src": "domain",
 "names": [],
-"country": "俄罗斯",
-"iso": "RU",
+"country": "哈萨克斯坦",
+"iso": "KZ",
 "region": "俄语区",
 "other_countries": [],
 "domains": [
@@ -581900,7 +581922,29 @@
 "c_sub": "群发冷名单无回应",
 "status": "名单内·未触达",
 "code": "SC-1602",
-"grade": "C"
+"grade": "C",
+"research": {
+"code": "SC-1602",
+"name_official": "LS Service（210740005950（БИН））",
+"website_status": "在营（电子政务 2025-07-30）",
+"summary": "国别纠偏：表内「俄罗斯」 → 哈萨克斯坦。ТОО «LS SERVICE» БИН 210740005950；2021-07-06 注册；010000 Астана, р-н Сарыарка, ул. Бердібек Соқпақбаев 4, н.п. 6；域名 lsservice.kz（.kz）。来源：公司底数登记（`data/saga_clients/registry/`，第 134 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。",
+"type": "集成商（微型，ОКЭД 43220 与网络设备不符 → 同一主体待核）",
+"size": "小型",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "登记",
+"claim": "国别纠偏 表内「俄罗斯」 → 哈萨克斯坦",
+"quote": "ТОО «LS SERVICE» БИН 210740005950；2021-07-06 注册；010000 Астана, р-н Сарыарка, ул. Бердібек Соқпақбаев 4, н.п. 6；域名 lsservice.kz（.kz）",
+"url": "https://ba.prg.kz/710000000-astana/210740005950-too-ls-service/",
+"date": "2026-10-29"
+}
+],
+"researched_at": "2026-10-29",
+"country_fix": "哈萨克斯坦",
+"notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。"
+},
+"country_table": "俄罗斯"
 },
 {
 "name": "luugiatelecom.vn",
@@ -593412,9 +593456,9 @@
 "name": "tekmodul.de",
 "name_src": "domain",
 "names": [],
-"country": "未填",
-"iso": "??",
-"region": "未知",
+"country": "德国",
+"iso": "DE",
+"region": "欧洲",
 "other_countries": [],
 "domains": [
 "tekmodul.de"
@@ -593504,7 +593548,29 @@
 "c_sub": "群发冷名单无回应",
 "status": "名单内·未触达",
 "code": "SC-1675",
-"grade": "C"
+"grade": "C",
+"research": {
+"code": "SC-1675",
+"name_official": "tekmodul GmbH（HRB 158866（Amtsgericht München））",
+"website_status": "Active（Impressum 2022 / 展会 2024）",
+"summary": "国别纠偏：表内国别未填 → 德国。tekmodul GmbH Impressum：Lindwurmstraße 97a, 80337 München；Registergericht München HRB 158866；USt-IdNr. DE240985730；Geschäftsführer Tassilo Halt。来源：公司底数登记（`data/saga_clients/registry/`，第 131 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。",
+"type": "工业通信 / 无线模块分销（Atop 经销）",
+"size": "小型（专业分销；参展）",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "登记",
+"claim": "国别纠偏 表内国别未填 → 德国",
+"quote": "tekmodul GmbH Impressum：Lindwurmstraße 97a, 80337 München；Registergericht München HRB 158866；USt-IdNr. DE240985730；Geschäftsführer Tassilo Halt",
+"url": "https://www.tekmodul.de/impressum/",
+"date": "2026-10-29"
+}
+],
+"researched_at": "2026-10-29",
+"country_fix": "德国",
+"notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。"
+},
+"country_table": "未填"
 },
 {
 "name": "trius-audio.de",
@@ -598657,9 +598723,9 @@
 "name": "oak-integrator.lv",
 "name_src": "domain",
 "names": [],
-"country": "玻利维亚",
-"iso": "BO",
-"region": "拉美",
+"country": "拉脱维亚",
+"iso": "LV",
+"region": "欧洲",
 "other_countries": [],
 "domains": [
 "oak-integrator.lv"
@@ -598743,15 +598809,37 @@
 "c_sub": "群发冷名单无回应",
 "status": "名单内·未触达",
 "code": "SC-1713",
-"grade": "C"
+"grade": "C",
+"research": {
+"code": "SC-1713",
+"name_official": "OAK INTEGRATOR Products SIA（40003540103（Products SIA）/ 40103496615（Solutions SIA））",
+"website_status": "Active（tracxn 2025）",
+"summary": "国别纠偏：表内「玻利维亚」 → 拉脱维亚。OAK INTEGRATOR Products SIA：Reģ. Nr. 40003540103；2001-04-04；原 Beijer Electronics SIA，2016-02-01 更名；Rīga, Mežkalna iela 5。来源：公司底数登记（`data/saga_clients/registry/`，第 131 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。",
+"type": "工业自动化分销（Mitsubishi Electric 拉脱维亚独家 + Westermo / Korenix）",
+"size": "小型（$1.33M；3 人）",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "登记",
+"claim": "国别纠偏 表内「玻利维亚」 → 拉脱维亚",
+"quote": "OAK INTEGRATOR Products SIA：Reģ. Nr. 40003540103；2001-04-04；原 Beijer Electronics SIA，2016-02-01 更名；Rīga, Mežkalna iela 5",
+"url": "https://tracxn.com/d/companies/oak-integrator/__O2MYpO0NTFEGt-ZrtiwTJY37PXdoWkQr",
+"date": "2026-10-29"
+}
+],
+"researched_at": "2026-10-29",
+"country_fix": "拉脱维亚",
+"notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。"
+},
+"country_table": "玻利维亚"
 },
 {
 "name": "omniray.ch",
 "name_src": "domain",
 "names": [],
-"country": "智利",
-"iso": "CL",
-"region": "拉美",
+"country": "瑞士",
+"iso": "CH",
+"region": "欧洲",
 "other_countries": [],
 "domains": [
 "omniray.ch"
@@ -598835,7 +598923,29 @@
 "c_sub": "群发冷名单无回应",
 "status": "名单内·未触达",
 "code": "SC-1714",
-"grade": "C"
+"grade": "C",
+"research": {
+"code": "SC-1714",
+"name_official": "Omni Ray AG（CHE-105.959.689）",
+"website_status": "Active（Handelsregister）",
+"summary": "国别纠偏：表内「智利」 → 瑞士。Omni Ray AG：Schweizer Handelsregister CHE-105.959.689；LEI 967600D74EO0N5PVE227；Im Schörli 5, 8600 Dübendorf；1950 创立；资本 CHF 2,050,000。来源：公司底数登记（`data/saga_clients/registry/`，第 131 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。",
+"type": "工业自动化分销商（Moxa 分销）",
+"size": "中型（CHF 2.05M 资本；20–49 人；75 年）",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "登记",
+"claim": "国别纠偏 表内「智利」 → 瑞士",
+"quote": "Omni Ray AG：Schweizer Handelsregister CHE-105.959.689；LEI 967600D74EO0N5PVE227；Im Schörli 5, 8600 Dübendorf；1950 创立；资本 CHF 2,050,000",
+"url": "https://www.northdata.com/Omni%20Ray%20AG,%20D%C3%BCbendorf/CHE-105.959.689",
+"date": "2026-10-29"
+}
+],
+"researched_at": "2026-10-29",
+"country_fix": "瑞士",
+"notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。"
+},
+"country_table": "智利"
 },
 {
 "name": "onsite.pk",
@@ -622677,8 +622787,8 @@
 "names": [
 "Bay datacom solutions pvt ltd"
 ],
-"country": "尼泊尔",
-"iso": "NP",
+"country": "印度",
+"iso": "IN",
 "region": "南亚",
 "other_countries": [],
 "domains": [
@@ -622771,7 +622881,29 @@
 "c_sub": "陈旧线索无互动",
 "status": "名单内·未触达",
 "code": "SC-1871",
-"grade": "C"
+"grade": "C",
+"research": {
+"code": "SC-1871",
+"name_official": "Bay Datacom Solutions Pvt. Ltd.（U32100TG1998PTC028943（CIN））",
+"website_status": "Active（MCA）",
+"summary": "国别纠偏：表内「尼泊尔」 → 印度。Bay Datacom Solutions Pvt. Ltd.：CIN U32100TG1998PTC028943；1998-02-28；Hyderabad Jubilee Hills Road No. 92, 500096；200–500 人；FY22 净销售 ₹2,405 lakh。来源：公司底数登记（`data/saga_clients/registry/`，第 131 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。",
+"type": "网络 / 安全 / 数据中心系统集成商",
+"size": "中型（200–500 人；₹24 Cr）",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "登记",
+"claim": "国别纠偏 表内「尼泊尔」 → 印度",
+"quote": "Bay Datacom Solutions Pvt. Ltd.：CIN U32100TG1998PTC028943；1998-02-28；Hyderabad Jubilee Hills Road No. 92, 500096；200–500 人；FY22 净销售 ₹2,405 lakh",
+"url": "https://info.edgeinsights.in/company/Bay-Datacom-Solutions-Pvt.-Ltd./131542",
+"date": "2026-10-29"
+}
+],
+"researched_at": "2026-10-29",
+"country_fix": "印度",
+"notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。"
+},
+"country_table": "尼泊尔"
 },
 {
 "name": "Chipcom",
@@ -707296,9 +707428,9 @@
 "name": "sisegusa.com",
 "name_src": "domain",
 "names": [],
-"country": "美国",
-"iso": "US",
-"region": "北美",
+"country": "厄瓜多尔",
+"iso": "EC",
+"region": "拉美",
 "other_countries": [],
 "domains": [
 "sisegusa.com"
@@ -707677,7 +707809,29 @@
 "c_sub": "用户判定不行/不相关",
 "status": "已推送 19 次·未回复",
 "code": "SC-2402",
-"grade": "C"
+"grade": "C",
+"research": {
+"code": "SC-2402",
+"name_official": "SISTEMAS DE SEGURIDAD S.A. — SISEGUSA",
+"website_status": "营业中（官网在线）",
+"summary": "国别纠偏：表内「美国」 → 厄瓜多尔。SISEGUSA 官网：Urdesa Central, Av. Las Lomas 403, Guayaquil, Ecuador；+593 4 371 2850；关联 Siseg Global Solutions = 迈阿密 LLC（电商 / 3PL）。来源：公司底数登记（`data/saga_clients/registry/`，第 126 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。",
+"type": "安防 / 网络批发分销（经迈阿密进口）",
+"size": "小型（推定）",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网",
+"claim": "国别纠偏 表内「美国」 → 厄瓜多尔",
+"quote": "SISEGUSA 官网：Urdesa Central, Av. Las Lomas 403, Guayaquil, Ecuador；+593 4 371 2850；关联 Siseg Global Solutions = 迈阿密 LLC（电商 / 3PL）",
+"url": "https://www.sisegusa.com/home",
+"date": "2026-10-29"
+}
+],
+"researched_at": "2026-10-29",
+"country_fix": "厄瓜多尔",
+"notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。"
+},
+"country_table": "美国"
 },
 {
 "name": "stawefang@gmail.com",
@@ -710039,8 +710193,8 @@
 "name": "streakwave.com",
 "name_src": "domain",
 "names": [],
-"country": "加拿大",
-"iso": "CA",
+"country": "美国",
+"iso": "US",
 "region": "北美",
 "other_countries": [],
 "domains": [
@@ -710253,7 +710407,29 @@
 "c_sub": "用户判定不行/不相关",
 "status": "已推送 1 次·未回复",
 "code": "SC-2418",
-"grade": "C"
+"grade": "C",
+"research": {
+"code": "SC-2418",
+"name_official": "Streakwave Wireless, Inc.",
+"website_status": "营业中（官网 2022 版权）",
+"summary": "国别纠偏：表内「加拿大」 → 美国。Streakwave Wireless, Inc. 官网 Our Story：总部 840 Jury Court, San Jose, CA 95112；分仓 Salt Lake City / Cincinnati / 墨尔本 / 新西兰。来源：公司底数登记（`data/saga_clients/registry/`，第 126 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。",
+"type": "无线 / 安防 / 网络增值分销商",
+"size": "中型（多仓分销）",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网",
+"claim": "国别纠偏 表内「加拿大」 → 美国",
+"quote": "Streakwave Wireless, Inc. 官网 Our Story：总部 840 Jury Court, San Jose, CA 95112；分仓 Salt Lake City / Cincinnati / 墨尔本 / 新西兰",
+"url": "https://streakwave.com/about.asp",
+"date": "2026-10-29"
+}
+],
+"researched_at": "2026-10-29",
+"country_fix": "美国",
+"notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。"
+},
+"country_table": "加拿大"
 },
 {
 "name": "visioncop.com",
@@ -740619,8 +740795,8 @@
 "name": "partizanstore.eu",
 "name_src": "domain",
 "names": [],
-"country": "欧洲（国别未填）",
-"iso": "EU",
+"country": "捷克",
+"iso": "CZ",
 "region": "欧洲",
 "other_countries": [],
 "domains": [
@@ -740977,7 +741153,29 @@
 "c_sub": "用户判定不行/不相关",
 "status": "已推送 17 次·未回复",
 "code": "SC-2609",
-"grade": "C"
+"grade": "C",
+"research": {
+"code": "SC-2609",
+"name_official": "PARTIZAN SECURITY s.r.o. — partizanstore.eu（28909437（IČ；Praha C 152541））",
+"website_status": "营业中（官网 2026）",
+"summary": "国别纠偏：表内「欧洲（国别未填）」 → 捷克。PARTIZAN SECURITY s.r.o. 商务条款页：IČ 28909437；DIČ CZ28909437；Kresomyslova 384/17, Nusle, 140 00 Praha 4；布拉格市法院商事登记 C 152541。来源：公司底数登记（`data/saga_clients/registry/`，第 127 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。",
+"type": "自有品牌安防厂商（Partizan，2008 起，布拉格）",
+"size": "小型（推定）",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网",
+"claim": "国别纠偏 表内「欧洲（国别未填）」 → 捷克",
+"quote": "PARTIZAN SECURITY s.r.o. 商务条款页：IČ 28909437；DIČ CZ28909437；Kresomyslova 384/17, Nusle, 140 00 Praha 4；布拉格市法院商事登记 C 152541",
+"url": "https://www.partizanstore.eu/en/commercial-terms-and-conditions/",
+"date": "2026-10-29"
+}
+],
+"researched_at": "2026-10-29",
+"country_fix": "捷克",
+"notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。"
+},
+"country_table": "欧洲（国别未填）"
 },
 {
 "name": "dimiks.com",
@@ -795050,9 +795248,9 @@
 "name": "conexpro.com",
 "name_src": "domain",
 "names": [],
-"country": "俄罗斯",
-"iso": "RU",
-"region": "俄语区",
+"country": "捷克",
+"iso": "CZ",
+"region": "欧洲",
 "other_countries": [],
 "domains": [
 "conexpro.com"
@@ -795133,7 +795331,29 @@
 "c_sub": "用户判定不行/不相关",
 "status": "用户判定不行",
 "code": "SC-2957",
-"grade": "C"
+"grade": "C",
+"research": {
+"code": "SC-2957",
+"name_official": "Conexpro",
+"website_status": "营业中（官网 2026）",
+"summary": "国别纠偏：表内「俄罗斯」 → 捷克。Conexpro 官网 About / Contact：总部 Hřbitovní 1479/25, 312 00 Plzeň, Czech Republic（另列 Sídlo Daimlerova 6, 312 00 Plzeň）；info@conexpro.com。来源：公司底数登记（`data/saga_clients/registry/`，第 136 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。",
+"type": "品牌商（ISP / 安装商全线网络配件自有品牌：PoE 交换机 / SFP / 注入器 / 机柜）",
+"size": "中型（全线品牌 + 多国分销）",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网",
+"claim": "国别纠偏 表内「俄罗斯」 → 捷克",
+"quote": "Conexpro 官网 About / Contact：总部 Hřbitovní 1479/25, 312 00 Plzeň, Czech Republic（另列 Sídlo Daimlerova 6, 312 00 Plzeň）；info@conexpro.com",
+"url": "https://conexpro.com/about",
+"date": "2026-10-29"
+}
+],
+"researched_at": "2026-10-29",
+"country_fix": "捷克",
+"notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。"
+},
+"country_table": "俄罗斯"
 },
 {
 "name": "nlnts.tech",
@@ -810363,8 +810583,8 @@
 "name": "kamery-hikvision.sk",
 "name_src": "domain",
 "names": [],
-"country": "斯洛文尼亚",
-"iso": "SI",
+"country": "斯洛伐克",
+"iso": "SK",
 "region": "欧洲",
 "other_countries": [],
 "domains": [
@@ -810454,7 +810674,29 @@
 "c_sub": "用户判定不行/不相关",
 "status": "用户判定不行",
 "code": "SC-3057",
-"grade": "C"
+"grade": "C",
+"research": {
+"code": "SC-3057",
+"name_official": "kamery-hikvision.sk",
+"website_status": "未坐实",
+"summary": "国别纠偏：表内「斯洛文尼亚」 → 斯洛伐克。kamery-hikvision.sk：.sk = 斯洛伐克国家顶级域；「kamery」为斯洛伐克语 / 捷克语「摄像机」（斯洛文尼亚语为 kamere）；1 查仅命中同名他站（hik-kamery.sk / kamery-hikvision-sk.sk Bratislava / maxalarm.sk），经营主体未坐实。来源：公司底数登记（`data/saga_clients/registry/`，第 127 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。",
+"type": "CCTV 网店（主体未坐实；Wi-Tek 用户；退信）",
+"size": "微型（推定）",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "域名",
+"claim": "国别纠偏 表内「斯洛文尼亚」 → 斯洛伐克",
+"quote": "kamery-hikvision.sk：.sk = 斯洛伐克国家顶级域；「kamery」为斯洛伐克语 / 捷克语「摄像机」（斯洛文尼亚语为 kamere）；1 查仅命中同名他站（hik-kamery.sk / kamery-hikvision-sk.sk Bratislava / maxalarm.sk），经营主体未坐实",
+"url": "https://kamery-hikvision.sk/",
+"date": "2026-10-29"
+}
+],
+"researched_at": "2026-10-29",
+"country_fix": "斯洛伐克",
+"notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。"
+},
+"country_table": "斯洛文尼亚"
 },
 {
 "name": "nearcomnet.com",
@@ -857475,70 +857717,7 @@
 "ai_eval": "",
 "claude_eval": "",
 "followups": 0
-}
-],
-"followups": [],
-"fu_count": 0,
-"fu_first": "",
-"fu_last": "",
-"fu_years": [],
-"reply_sub": 0,
-"reply_neg": 0,
-"reply_read": 0,
-"reply_other": 0,
-"platforms": [],
-"last_tier_letter": "",
-"wa_in_fu": false,
-"deal_in_fu": false,
-"fu_sample": false,
-"last_year": 0,
-"merge_keys": [],
-"grade_auto": "C",
-"score": -103,
-"reasons": [
-"-60 用户已归入「不行及不太相关的」",
-"-40 无任何联系方式",
-"-3 区域 未知/未填"
-],
-"c_sub": "无联系方式",
-"status": "用户判定不行",
-"code": "SC-3414",
-"grade": "C"
 },
-{
-"name": "（未具名）",
-"name_src": "none",
-"names": [],
-"country": "未填",
-"iso": "??",
-"region": "未知",
-"other_countries": [],
-"domains": [],
-"urls": [
-"https://www.google.com/search?q=INGENIERIA+Y+CONTRATOS+S+A+S&oq=INGENIERIA+Y+CONTRATOS+S+A+S&aqs=chrome.0.69i59.292j0j7&sourceid=chrome&ie=UTF-8"
-],
-"platform_links": [
-"https://www.google.com/search?q=INGENIERIA+Y+CONTRATOS+S+A+S&oq=INGENIERIA+Y+CONTRATOS+S+A+S&aqs=chrome.0.69i59.292j0j7&sourceid=chrome&ie=UTF-8"
-],
-"emails": [],
-"corp_emails": [],
-"phones": [],
-"persons": [],
-"positions": [],
-"froms": [
-"海关数据"
-],
-"interests": [],
-"remarks": [],
-"categories": [],
-"tags": [
-"用户判定不行"
-],
-"flags": {},
-"fit": {},
-"ai_evals": [],
-"years": [],
-"sources": [
 {
 "file": "Clients/不行及不太相关的.xlsx",
 "sheet": "总表",
@@ -857579,7 +857758,9 @@
 "deal_in_fu": false,
 "fu_sample": false,
 "last_year": 0,
-"merge_keys": [],
+"merge_keys": [
+"m:SC-3414+SC-3415"
+],
 "grade_auto": "C",
 "score": -103,
 "reasons": [
@@ -857589,7 +857770,10 @@
 ],
 "c_sub": "无联系方式",
 "status": "用户判定不行",
-"code": "SC-3415",
+"code": "SC-3414",
+"code_aliases": [
+"SC-3415"
+],
 "grade": "C"
 },
 {
@@ -895671,8 +895855,8 @@
 "name": "leap-networks.ae",
 "name_src": "domain",
 "names": [],
-"country": "沙特阿拉伯",
-"iso": "SA",
+"country": "阿联酋",
+"iso": "AE",
 "region": "中东",
 "other_countries": [],
 "domains": [
@@ -895912,7 +896096,29 @@
 "c_sub": "发不过去",
 "status": "已推送 8 次·未回复",
 "code": "SC-577",
-"grade": "C"
+"grade": "C",
+"research": {
+"code": "SC-577",
+"name_official": "Leap Networks",
+"website_status": "营业中（官网 2025）",
+"summary": "国别纠偏：表内「沙特阿拉伯」（姊妹公司在沙特，KP 所在主体在阿布扎比） → 阿联酋。Leap Networks 官网 About：2012 成立；Guardian Office Tower, Al Murror Road, Dhafeer Street 407, Abu Dhabi 37855；CEO Muhammad Ashfaq（= 表内具名 KP muhammad.ashfaq@）；沙特为姊妹公司 Leap Networks Arabia。来源：公司底数登记（`data/saga_clients/registry/`，第 130 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。",
+"type": "油气 / 交通电信系统集成商（DWDM / TETRA / SDH / CCTV）",
+"size": "小型（11–20 人；双国）",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网",
+"claim": "国别纠偏 表内「沙特阿拉伯」（姊妹公司在沙特，KP 所在主体在阿布扎比） → 阿联酋",
+"quote": "Leap Networks 官网 About：2012 成立；Guardian Office Tower, Al Murror Road, Dhafeer Street 407, Abu Dhabi 37855；CEO Muhammad Ashfaq（= 表内具名 KP muhammad.ashfaq@）；沙特为姊妹公司 Leap Networks Arabia",
+"url": "https://www.leap-networks.ae/about-us/",
+"date": "2026-10-29"
+}
+],
+"researched_at": "2026-10-29",
+"country_fix": "阿联酋",
+"notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。"
+},
+"country_table": "沙特阿拉伯"
 },
 {
 "name": "macktechbiz.com",
@@ -919052,8 +919258,8 @@
 "name": "avant.by",
 "name_src": "domain",
 "names": [],
-"country": "俄罗斯",
-"iso": "RU",
+"country": "白俄罗斯",
+"iso": "BY",
 "region": "俄语区",
 "other_countries": [],
 "domains": [
@@ -919143,7 +919349,29 @@
 "c_sub": "群发冷名单无回应",
 "status": "名单内·未触达",
 "code": "SC-714",
-"grade": "C"
+"grade": "C",
+"research": {
+"code": "SC-714",
+"name_official": "ООО «Торговый дом «АВАНТ-ТЕХНО» — Avant",
+"website_status": "营业中（官网 2026 价目）",
+"summary": "国别纠偏：表内「俄罗斯」 → 白俄罗斯。ООО «Торговый дом «АВАНТ-ТЕХНО»：Минск；BYN 计价；utepo.by 页脚同主体 220004 Минск, ул. Короля 45；+375 17 304-40-40。来源：公司底数登记（`data/saga_clients/registry/`，第 129 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。",
+"type": "安防 / 网络分销 + 自有 iFLOW 牌工业 PoE 交换机",
+"size": "中型（白俄主要安防分销之一）",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网",
+"claim": "国别纠偏 表内「俄罗斯」 → 白俄罗斯",
+"quote": "ООО «Торговый дом «АВАНТ-ТЕХНО»：Минск；BYN 计价；utepo.by 页脚同主体 220004 Минск, ул. Короля 45；+375 17 304-40-40",
+"url": "https://avant.by/catalog/setevoe_oborudovanie/switches/",
+"date": "2026-10-29"
+}
+],
+"researched_at": "2026-10-29",
+"country_fix": "白俄罗斯",
+"notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。"
+},
+"country_table": "俄罗斯"
 },
 {
 "name": "aveon.ru",
@@ -937483,8 +937711,8 @@
 "name": "nout.kz",
 "name_src": "domain",
 "names": [],
-"country": "俄罗斯",
-"iso": "RU",
+"country": "哈萨克斯坦",
+"iso": "KZ",
 "region": "俄语区",
 "other_countries": [],
 "domains": [
@@ -937574,7 +937802,29 @@
 "c_sub": "群发冷名单无回应",
 "status": "名单内·未触达",
 "code": "SC-883",
-"grade": "C"
+"grade": "C",
+"research": {
+"code": "SC-883",
+"name_official": "ТОО «Ноут кз» — Nout.kz（170940036145（БИН））",
+"website_status": "营业中",
+"summary": "国别纠偏：表内「俄罗斯」 → 哈萨克斯坦。ТОО «Ноут кз»：БИН 170940036145；2017-09-29 登记；050057 Алматы, ул. Тимирязева 42/14；руководитель Унру Анатолий Сергеевич。来源：公司底数登记（`data/saga_clients/registry/`，第 129 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。",
+"type": "笔记本 / 电子产品电商 + 实体店（非网络分销主体）",
+"size": "小型",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "登记",
+"claim": "国别纠偏 表内「俄罗斯」 → 哈萨克斯坦",
+"quote": "ТОО «Ноут кз»：БИН 170940036145；2017-09-29 登记；050057 Алматы, ул. Тимирязева 42/14；руководитель Унру Анатолий Сергеевич",
+"url": "https://nout.kz/offer/",
+"date": "2026-10-29"
+}
+],
+"researched_at": "2026-10-29",
+"country_fix": "哈萨克斯坦",
+"notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。"
+},
+"country_table": "俄罗斯"
 },
 {
 "name": "novicam.ru",
@@ -946894,8 +947144,8 @@
 "name": "utepo.by",
 "name_src": "domain",
 "names": [],
-"country": "俄罗斯",
-"iso": "RU",
+"country": "白俄罗斯",
+"iso": "BY",
 "region": "俄语区",
 "other_countries": [],
 "domains": [
@@ -946987,7 +947237,29 @@
 "c_sub": "群发冷名单无回应",
 "status": "名单内·未触达",
 "code": "SC-977",
-"grade": "C"
+"grade": "C",
+"research": {
+"code": "SC-977",
+"name_official": "utepo.by = ООО «Торговый дом «АВАНТ-ТЕХНО»",
+"website_status": "营业中（同 SC-714）",
+"summary": "国别纠偏：表内「俄罗斯」 → 白俄罗斯。utepo.by 页脚：220004 Республика Беларусь, Минск, ул. Короля 45；info@utepo.by；+375 17 304-40-40；「Официальный представитель UTEPO в Беларуси」= 与 SC-714 同一法人。来源：公司底数登记（`data/saga_clients/registry/`，第 129 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。",
+"type": "UTEPO 白俄官方代表（同 SC-714 АВАНТ-ТЕХНО）",
+"size": "— 并入 SC-714",
+"brands_seen": [],
+"evidence": [
+{
+"kind": "官网",
+"claim": "国别纠偏 表内「俄罗斯」 → 白俄罗斯",
+"quote": "utepo.by 页脚：220004 Республика Беларусь, Минск, ул. Короля 45；info@utepo.by；+375 17 304-40-40；「Официальный представитель UTEPO в Беларуси」= 与 SC-714 同一法人",
+"url": "https://utepo.by/",
+"date": "2026-10-29"
+}
+],
+"researched_at": "2026-10-29",
+"country_fix": "白俄罗斯",
+"notes": "T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。"
+},
+"country_table": "俄罗斯"
 },
 {
 "name": "vemer.it",

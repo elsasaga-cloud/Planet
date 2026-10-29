@@ -2,7 +2,7 @@
 
 > **评级 C**　|　法国　|　档案编号 `SC-345`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ DC 集成 25%（CENTEC 敲门砖）：Pine Networks（Garches；开放网络交钥匙集成 Edgecore / Adtran / UfiSpace；christophe@ 在表）部分坐实（SIREN 未取）；DC 对位 ✔ 具名 KP ✔ 欧洲 ✔ 坐实 ✔ = 冷户四条 → P 池候选（STH 系列一页纸；客户稿不提 SONiC）
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ○）：○ DC 集成 25%（CENTEC 敲门砖）：Pine Networks（Garches；开放网络交钥匙集成 Edgecore / Adtran / UfiSpace；christophe@ 在表）部分坐实（SIREN 未取）；DC 对位 ✔ 具名 KP ✔ 欧洲 ✔ 坐实 ✔ = 冷户四条 → P 池候选（STH 系列一页纸；客户稿不提 SONiC）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：DC线索　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-345
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
 score: 23
 country: 法国
 region: 欧洲

@@ -1,21 +1,24 @@
 # leap-networks.ae
+**官方名称（调研核实）**：Leap Networks
 
-> **评级 C**　|　沙特阿拉伯　|　档案编号 `SC-577`　|　优先级 —　|　状态：已推送 8 次·未回复
+> **评级 C**　|　阿联酋　|　档案编号 `SC-577`　|　优先级 —　|　状态：已推送 8 次·未回复
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 油气工业集成 25%：Leap Networks（Abu Dhabi；2012；11–20 人；CEO Muhammad Ashfaq = 表内具名 KP；ISO 9001 / 14001 / 45001；沙特姊妹公司 Leap Networks Arabia）部分坐实（执照未取）；决策人直达 ✔ 工业对位 ✔ → P 池候选；表内沙特 ↔ 总部阿联酋 备注待 Simon　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ○）：○ 油气工业集成 25%：Leap Networks（Abu Dhabi；2012；11–20 人；CEO Muhammad Ashfaq = 表内具名 KP；ISO 9001 / 14001 / 45001；沙特姊妹公司 Leap Networks Arabia）部分坐实（执照未取）；决策人直达 ✔ 工业对位 ✔ → P 池候选；表内沙特 ↔ 总部阿联酋 备注待 Simon　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 8 次（2025-03-31 → 2025-10-23）　|　**所在清单**：A优质名单(阿联酋 沙特阿拉伯)、AI评估(阿联酋 沙特阿拉伯)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：油气 / 交通电信系统集成商（DWDM / TETRA / SDH / CCTV）（推断）　|　**历史关系**：推送 8 次（2025-03-31 → 2025-10-23）　|　**所在清单**：A优质名单(阿联酋 沙特阿拉伯)、AI评估(阿联酋 沙特阿拉伯)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-577
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
+name_official: "Leap Networks"
 score: 19
-country: 沙特阿拉伯
+country: 阿联酋
+country_table: 沙特阿拉伯  # 表内原填；调研纠正为 阿联酋（research JSON country_fix）
 region: 中东
 website: leap-networks.ae
-type: 经销/集成（类型待核）
+type: 油气 / 交通电信系统集成商（DWDM / TETRA / SDH / CCTV）
 tier_tags: ["A优质名单(阿联酋 沙特阿拉伯)", "AI评估(阿联酋 沙特阿拉伯)·DONE"]
 deal: no
 replies: 0
@@ -24,8 +27,8 @@ first_contact: 2025-03-31
 last_contact: 2025-10-23
 s_mail: 18 msgs (out 18 / in 0), 2025-03-31 -> 2026-09-25
 p1: STC-424DGGPM-280W
-price_tier: 20%
-research: pending
+price_tier: 25%
+research: done
 site_snapshot: none
 sources: 2
 updated: 2026-10-29
@@ -33,11 +36,11 @@ updated: 2026-10-29
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：沙特阿拉伯的经销/集成（类型待核）；兴趣/在卖：4光4管理POE 64个
+- **是谁**：国别纠偏：表内「沙特阿拉伯」（姊妹公司在沙特，KP 所在主体在阿布扎比） → 阿联酋。Leap Networks 官网 About：2012 成立；Guardian Office Tower, Al Murror Road, Dhafeer Street 407, Abu Dhabi 37855；CEO Muhammad Ashfaq（= 表内具名 KP muhammad.ashfaq@）；沙特为姊妹公司 Leap Networks Arabia。来源：公司底数登记（`data/saga_clients/registry/`，第 130 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。（调研 2026-10-29；表内兴趣：4光4管理POE 64个）
 - **为什么是 C 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；-25 邮件发不过去且无 WhatsApp 通道；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/沙特阿拉伯；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）；C 级细分：发不过去
 - **历史互动**：推送 8 次（2025-03-31 → 2025-10-23）
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（24 口 PoE L2+ 走量款）
-- **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：年走量与现供应商
 - **下一步**：不跟进；仅归档防重复开发
 
 ## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
@@ -70,9 +73,9 @@ updated: 2026-10-29
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | leap-networks.ae（取自域名，公司全名待核） | 推断 |
-| 国家 | 沙特阿拉伯 | 事实（用户表）|
+| 国家 | 阿联酋 | 事实（用户表）|
 | 网站/域名 | leap-networks.ae | 事实（用户表 URL/邮箱域名） |
-| 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
+| 类型 | 油气 / 交通电信系统集成商（DWDM / TETRA / SDH / CCTV） | 推断（据兴趣/备注关键词） |
 | 联系人 | Tarek Bary / Muhammad Ashfaq / Chief Executive Officer | 事实（用户表） |
 | 来源（From） | 自建站<br>2022.3.30 | 事实（用户表） |
 | 兴趣（Interested in） | 4光4管理POE 64个 | 事实（用户表） |
@@ -92,7 +95,15 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SC-577.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-29）**　网站状态：营业中（官网 2025）
+- **是谁**：国别纠偏：表内「沙特阿拉伯」（姊妹公司在沙特，KP 所在主体在阿布扎比） → 阿联酋。Leap Networks 官网 About：2012 成立；Guardian Office Tower, Al Murror Road, Dhafeer Street 407, Abu Dhabi 37855；CEO Muhammad Ashfaq（= 表内具名 KP muhammad.ashfaq@）；沙特为姊妹公司 Leap Networks Arabia。来源：公司底数登记（`data/saga_clients/registry/`，第 130 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。
+- **类型**：油气 / 交通电信系统集成商（DWDM / TETRA / SDH / CCTV）
+- **规模**：小型（11–20 人；双国）
+- **【官网】国别纠偏 表内「沙特阿拉伯」（姊妹公司在沙特，KP 所在主体在阿布扎比） → 阿联酋**
+  > Leap Networks 官网 About：2012 成立；Guardian Office Tower, Al Murror Road, Dhafeer Street 407, Abu Dhabi 37855；CEO Muhammad Ashfaq（= 表内具名 KP muhammad.ashfaq@）；沙特为姊妹公司 Leap Networks Arabia
+  > 来源：https://www.leap-networks.ae/about-us/（抓取 2026-10-29）
+- 备注：T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。
+
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -167,7 +178,6 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

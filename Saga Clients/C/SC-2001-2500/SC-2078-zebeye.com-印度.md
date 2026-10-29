@@ -2,7 +2,7 @@
 
 > **评级 C**　|　印度　|　档案编号 `SC-2078`　|　优先级 —　|　状态：发不过去
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 印度 · 全国品牌商 OEM 30%（长线）：Zebronics India Pvt Ltd（Chennai；CIN U30000TN1997PTC038037；1997；实收 ₹3.28 Cr；31 GST 登记；MCA 邮箱 sandeep.doshi@）坐实；自有品牌 ✔ 已贴牌中国 PoE ✔ 大型 ✔ 对位 ✔ → P 池候选（换 zebronics.com 地址；洪瑞现供 → Q-33 口径待 Simon）　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ★）：★ 印度 · 全国品牌商 OEM 30%（长线）：Zebronics India Pvt Ltd（Chennai；CIN U30000TN1997PTC038037；1997；实收 ₹3.28 Cr；31 GST 登记；MCA 邮箱 sandeep.doshi@）坐实；自有品牌 ✔ 已贴牌中国 PoE ✔ 大型 ✔ 对位 ✔ → P 池候选（换 zebronics.com 地址；洪瑞现供 → Q-33 口径待 Simon）　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）、q33_hold
 >
 > **类型**：分销商/经销商（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(已重新审核/一般 常规)、在用同行产品　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-2078
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
 score: -4
 country: 印度
 region: 南亚

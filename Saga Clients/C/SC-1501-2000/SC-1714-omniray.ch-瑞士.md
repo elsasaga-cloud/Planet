@@ -1,21 +1,24 @@
 # omniray.ch
+**官方名称（调研核实）**：Omni Ray AG（CHE-105.959.689）
 
-> **评级 C**　|　智利　|　档案编号 `SC-1714`　|　优先级 —　|　状态：名单内·未触达
+> **评级 C**　|　瑞士　|　档案编号 `SC-1714`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 欧洲 · 工业自动化分销 20%：Omni Ray AG（Dübendorf；CHE-105.959.689；1950；CHF 2.05M；20–49 人；MD Roger Müller；Moxa 分销）坐实；欧洲 ✔ 台湾工业品牌分销 ✔ 对位 ✔ → P 池候选；表内「智利」→ 瑞士 country_fix 待 Simon
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ★）：★ 欧洲 · 工业自动化分销 20%：Omni Ray AG（Dübendorf；CHE-105.959.689；1950；CHF 2.05M；20–49 人；MD Roger Müller；Moxa 分销）坐实；欧洲 ✔ 台湾工业品牌分销 ✔ 对位 ✔ → P 池候选；表内「智利」→ 瑞士 country_fix 待 Simon
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(杂)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：工业自动化分销商（Moxa 分销）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(杂)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-1714
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
+name_official: "Omni Ray AG（CHE-105.959.689）"
 score: 5
-country: 智利
-region: 拉美
+country: 瑞士
+country_table: 智利  # 表内原填；调研纠正为 瑞士（research JSON country_fix）
+region: 欧洲
 website: omniray.ch
-type: 经销/集成（类型待核）
+type: 工业自动化分销商（Moxa 分销）
 tier_tags: ["群发(杂)"]
 deal: no
 replies: 0
@@ -24,7 +27,7 @@ first_contact: unknown
 last_contact: unknown
 p1: STC-424DGGPM-280W
 price_tier: 20%
-research: pending
+research: done
 site_snapshot: none
 sources: 1
 updated: 2026-10-29
@@ -32,11 +35,11 @@ updated: 2026-10-29
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：智利的经销/集成（类型待核）；兴趣/在卖：Moxa；提到的品牌：Moxa
+- **是谁**：国别纠偏：表内「智利」 → 瑞士。Omni Ray AG：Schweizer Handelsregister CHE-105.959.689；LEI 967600D74EO0N5PVE227；Im Schörli 5, 8600 Dübendorf；1950 创立；资本 CHF 2,050,000。来源：公司底数登记（`data/saga_clients/registry/`，第 131 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。（调研 2026-10-29；表内兴趣：Moxa）
 - **为什么是 C 级**：-6 群发批次名单；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/智利；C 级细分：群发冷名单无回应
 - **历史互动**：名单内·无互动记录
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：不跟进；仅归档防重复开发
 
 ## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
@@ -67,9 +70,9 @@ updated: 2026-10-29
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | omniray.ch（取自域名，公司全名待核） | 推断 |
-| 国家 | 智利 | 事实（用户表）|
+| 国家 | 瑞士 | 事实（用户表）|
 | 网站/域名 | omniray.ch | 事实（用户表 URL/邮箱域名） |
-| 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
+| 类型 | 工业自动化分销商（Moxa 分销） | 推断（据兴趣/备注关键词） |
 | 联系人 | — | 事实（用户表） |
 | 来源（From） | — | 事实（用户表） |
 | 兴趣（Interested in） | Moxa | 事实（用户表） |
@@ -79,7 +82,15 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SC-1714.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-29）**　网站状态：Active（Handelsregister）
+- **是谁**：国别纠偏：表内「智利」 → 瑞士。Omni Ray AG：Schweizer Handelsregister CHE-105.959.689；LEI 967600D74EO0N5PVE227；Im Schörli 5, 8600 Dübendorf；1950 创立；资本 CHF 2,050,000。来源：公司底数登记（`data/saga_clients/registry/`，第 131 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。
+- **类型**：工业自动化分销商（Moxa 分销）
+- **规模**：中型（CHF 2.05M 资本；20–49 人；75 年）
+- **【登记】国别纠偏 表内「智利」 → 瑞士**
+  > Omni Ray AG：Schweizer Handelsregister CHE-105.959.689；LEI 967600D74EO0N5PVE227；Im Schörli 5, 8600 Dübendorf；1950 创立；资本 CHF 2,050,000
+  > 来源：https://www.northdata.com/Omni%20Ray%20AG,%20D%C3%BCbendorf/CHE-105.959.689（抓取 2026-10-29）
+- 备注：T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。
+
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -140,7 +151,6 @@ updated: 2026-10-29
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

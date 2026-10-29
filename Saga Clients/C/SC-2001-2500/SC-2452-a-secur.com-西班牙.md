@@ -2,7 +2,7 @@
 
 > **评级 C**　|　西班牙　|　档案编号 `SC-2452`　|　优先级 —　|　状态：已推送 15 次·未回复
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 贴牌渠道 · 分销 20% / OEM 30%：A-SECUR = Leistung S.L.U.（Mos, Pontevedra；11–50；安防批发 + 自有线 Movok；ONV / Utepo 页面）部分坐实（CIF 未取）；进口经验 ✔ 欧洲 ✔ 对位 ✔ 自有线 ✔ → P 池候选；Simon 曾判不行，可否决　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ○）：○ 贴牌渠道 · 分销 20% / OEM 30%：A-SECUR = Leistung S.L.U.（Mos, Pontevedra；11–50；安防批发 + 自有线 Movok；ONV / Utepo 页面）部分坐实（CIF 未取）；进口经验 ✔ 欧洲 ✔ 对位 ✔ 自有线 ✔ → P 池候选；Simon 曾判不行，可否决　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：推送 15 次（2024-04-02 → 2025-10-02）　|　**所在清单**：A优质名单(Spain)、AI评估(ES)·DONE、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-2452
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
 score: -20
 country: 西班牙
 region: 欧洲

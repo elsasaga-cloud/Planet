@@ -2,7 +2,7 @@
 
 > **评级 C**　|　西班牙　|　档案编号 `SC-1053`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 分销 20%（冷户）：Casmar Electrónica SA（A08551061；Barcelona 1979；82 人；安防分销 / 制造）坐实；对位 ✔ 欧洲 ✔ 坐实 ✔ 体量 ✔ = §5 四条 → P 池候选；从未触达 → 先发 casmar@casmar.es　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ○）：○ 分销 20%（冷户）：Casmar Electrónica SA（A08551061；Barcelona 1979；82 人；安防分销 / 制造）坐实；对位 ✔ 欧洲 ✔ 坐实 ✔ 体量 ✔ = §5 四条 → P 池候选；从未触达 → 先发 casmar@casmar.es　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(ES)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1053
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
 score: 15
 country: 西班牙
 region: 欧洲

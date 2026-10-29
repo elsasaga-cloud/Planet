@@ -2,7 +2,7 @@
 
 > **评级 C**　|　印度　|　档案编号 `SC-1793`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 印度 · 工业分销 20%：Axis Solutions Pvt Ltd（Ahmedabad Kathwada GIDC；Leonton 印度授权分销；info@axisindia.in）部分坐实（CIN 未取）；印度先例 ✔ 台湾工业品牌分销 = 进口经验 ✔ 对位 ✔ → P 池候选
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ○）：○ 印度 · 工业分销 20%：Axis Solutions Pvt Ltd（Ahmedabad Kathwada GIDC；Leonton 印度授权分销；info@axisindia.in）部分坐实（CIN 未取）；印度先例 ✔ 台湾工业品牌分销 = 进口经验 ✔ 对位 ✔ → P 池候选
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(之前OK现在群发)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1793
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
 score: 3
 country: 印度
 region: 南亚

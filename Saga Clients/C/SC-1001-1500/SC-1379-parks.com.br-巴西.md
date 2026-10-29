@@ -2,7 +2,7 @@
 
 > **评级 C**　|　巴西　|　档案编号 `SC-1379`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 自有品牌制造商 · OEM 30%：Parks S.A. Comunicações Digitais（Cachoeirinha RS；CNPJ 92.679.331/0001-18；1972；通信传输设备制造）坐实；自有品牌 ✔ 制造商 ✔ 对位 ✔ 坐实 ✔ → P 池候选（GPON / 光模块走本职线）　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）、oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ★）：★ 自有品牌制造商 · OEM 30%：Parks S.A. Comunicações Digitais（Cachoeirinha RS；CNPJ 92.679.331/0001-18；1972；通信传输设备制造）坐实；自有品牌 ✔ 制造商 ✔ 对位 ✔ 坐实 ✔ → P 池候选（GPON / 光模块走本职线）　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）、oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：DWDM线索　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1379
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
 score: 11
 country: 巴西
 region: 拉美

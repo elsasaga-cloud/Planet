@@ -2,7 +2,7 @@
 
 > **评级 C**　|　波兰　|　档案编号 `SC-2834`　|　优先级 —　|　状态：用户判定不行
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 自有品牌 · OEM 30%：DIPOL Sp. j.（Kraków 1990；KRS 0000094703；自有品牌 Signal / Ultimax / Ultipower；全国分部）坐实；OEM ✔ 波兰 ✔ 体量 ✔ 对位 ✔ → P 池候选；Simon 曾判不行，可否决　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）、oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ★）：★ 自有品牌 · OEM 30%：DIPOL Sp. j.（Kraków 1990；KRS 0000094703；自有品牌 Signal / Ultimax / Ultipower；全国分部）坐实；OEM ✔ 波兰 ✔ 体量 ✔ 对位 ✔ → P 池候选；Simon 曾判不行，可否决　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）、oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：系统集成/工程商（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:PL、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-2834
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
 score: -45
 country: 波兰
 region: 欧洲

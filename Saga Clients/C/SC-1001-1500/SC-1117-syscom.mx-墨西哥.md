@@ -2,7 +2,7 @@
 
 > **评级 C**　|　墨西哥　|　档案编号 `SC-1117`　|　优先级 —　|　状态：已推送 1 次·未回复
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 巨头分销 20%（长线）：SYSCOM = Sistemas y Servicios de Comunicación, S.A. de C.V.（Chihuahua；501–1000 人；电信 + 安防批发）坐实（法人名 + 地址；RFC 未取）；巨型分销 ✔ 对位 ✔ → P 池候选（找网络产品线经理；长线）
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ★）：★ 巨头分销 20%（长线）：SYSCOM = Sistemas y Servicios de Comunicación, S.A. de C.V.（Chihuahua；501–1000 人；电信 + 安防批发）坐实（法人名 + 地址；RFC 未取）；巨型分销 ✔ 对位 ✔ → P 池候选（找网络产品线经理；长线）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 1 次（2025-10-14 → 2025-10-14）　|　**所在清单**：E冷名单(墨西哥)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1117
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
 score: 15
 country: 墨西哥
 region: 拉美

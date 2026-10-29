@@ -2,7 +2,7 @@
 
 > **评级 C**　|　土耳其　|　档案编号 `SC-2776`　|　优先级 —　|　状态：用户判定不行
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 土耳其主区 · 巨头品牌商 OEM 30%（长线）：Karel Elektronik Sanayi ve Ticaret A.Ş.（Ankara Cyberpark 总部 + Sincan OSB 工厂；1986；≈ 2,500 人；100% 土耳其资本；IT 500 本土 IT 制造第一）部分坐实（ticaret sicil 未取）；Simon 二筛「用的丰润达的」= 已用中国 OEM ✔ 自有品牌 ✔ 土耳其主区 ✔ → P 池候选（无邮箱 → 先找 Satın Alma 路径；Simon 原「判定不行」可按编号否决）　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ★）：★ 土耳其主区 · 巨头品牌商 OEM 30%（长线）：Karel Elektronik Sanayi ve Ticaret A.Ş.（Ankara Cyberpark 总部 + Sincan OSB 工厂；1986；≈ 2,500 人；100% 土耳其资本；IT 500 本土 IT 制造第一）部分坐实（ticaret sicil 未取）；Simon 二筛「用的丰润达的」= 已用中国 OEM ✔ 自有品牌 ✔ 土耳其主区 ✔ → P 池候选（无邮箱 → 先找 Satın Alma 路径；Simon 原「判定不行」可按编号否决）　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-2776
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
 score: -39
 country: 土耳其
 region: 土耳其

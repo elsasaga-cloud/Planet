@@ -1,21 +1,24 @@
 # partizanstore.eu
+**官方名称（调研核实）**：PARTIZAN SECURITY s.r.o. — partizanstore.eu（28909437（IČ；Praha C 152541））
 
-> **评级 C**　|　欧洲（国别未填）　|　档案编号 `SC-2609`　|　优先级 —　|　状态：已推送 17 次·未回复
+> **评级 C**　|　捷克　|　档案编号 `SC-2609`　|　优先级 —　|　状态：已推送 17 次·未回复
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 自有品牌 · OEM 30%：PARTIZAN SECURITY s.r.o.（Praha；IČ 28909437；布拉格市法院 C 152541；Partizan = 2008 年创立的欧洲安防品牌，自产硬件 + 自研软件，60+ 国项目）坐实 → 国别纠偏 欧洲（未填）→ 捷克；自有品牌 ✔ 配套 PoE 现由洪瑞供 ✔ 欧洲 ✔ 对位 ✔ → P 池候选；Q-33 口径；Simon 曾判不行，可否决　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ★）：★ 自有品牌 · OEM 30%：PARTIZAN SECURITY s.r.o.（Praha；IČ 28909437；布拉格市法院 C 152541；Partizan = 2008 年创立的欧洲安防品牌，自产硬件 + 自研软件，60+ 国项目）坐实 → 国别纠偏 欧洲（未填）→ 捷克；自有品牌 ✔ 配套 PoE 现由洪瑞供 ✔ 欧洲 ✔ 对位 ✔ → P 池候选；Q-33 口径；Simon 曾判不行，可否决　|　标签：country_pending、oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）、q33_hold
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 17 次（2024-03-31 → 2025-10-07）　|　**所在清单**：A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：自有品牌安防厂商（Partizan，2008 起，布拉格）（推断）　|　**历史关系**：推送 17 次（2024-03-31 → 2025-10-07）　|　**所在清单**：A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-2609
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
+name_official: "PARTIZAN SECURITY s.r.o. — partizanstore.eu（28909437（IČ；Praha C 152541））"
 score: -28
-country: 欧洲（国别未填）
+country: 捷克
+country_table: 欧洲（国别未填）  # 表内原填；调研纠正为 捷克（research JSON country_fix）
 region: 欧洲
 website: partizanstore.eu
-type: 经销/集成（类型待核）
+type: 自有品牌安防厂商（Partizan，2008 起，布拉格）
 tier_tags: ["A优质名单(其他优质欧洲客户)", "AI评估(EU)·DONE", "用户判定不行"]
 deal: no
 replies: 0
@@ -24,8 +27,8 @@ first_contact: 2024-03-31
 last_contact: 2025-10-07
 s_mail: 25 msgs (out 25 / in 0), 2024-06-29 -> 2026-09-03
 p1: STC-28DGGPM
-price_tier: 20%
-research: pending
+price_tier: 30%
+research: done
 site_snapshot: none
 sources: 3
 updated: 2026-10-29
@@ -33,11 +36,11 @@ updated: 2026-10-29
 
 ## SALES BRIEF（压缩模型）
 
-- **是谁**：欧洲（国别未填）的经销/集成（类型待核）；兴趣/在卖：商业PoE 主要是洪瑞的；商业POE 主要是洪瑞的；提到的品牌：洪瑞
+- **是谁**：国别纠偏：表内「欧洲（国别未填）」 → 捷克。PARTIZAN SECURITY s.r.o. 商务条款页：IČ 28909437；DIČ CZ28909437；Kresomyslova 384/17, Nusle, 140 00 Praha 4；布拉格市法院商事登记 C 152541。来源：公司底数登记（`data/saga_clients/registry/`，第 127 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。（调研 2026-10-29；表内兴趣：商业PoE 主要是洪瑞的；商业POE 主要是洪瑞的）
 - **为什么是 C 级**：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；-60 用户已归入「不行及不太相关的」；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/欧洲（国别未填）；+5 最近活动 2025；-16 推送 17 次无任何回复（聋名单）；C 级细分：用户判定不行/不相关
 - **历史互动**：推送 17 次（2024-03-31 → 2025-10-07）
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-28DGGPM（8 口 PoE + 2 SFP L2+）
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；网页调研未做（公司规模/业务/在卖品牌待核）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：不跟进；仅归档防重复开发
 
 ## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
@@ -47,6 +50,8 @@ updated: 2026-10-29
 **邮箱域体检（DNS MX / A，2026-10-29 查）：**
 
 - `partizanstore.eu` → 其他主机商邮箱（mx.partizan.global）（MX：mx.partizan.global）。主机商附带邮箱（mx.partizan.global）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让：** 下一步为「未排」，不排发信，略。
 
 **公司底数 · 第 127 批（CZ · 1 次检索：partizanstore.eu/en/commercial-terms-and-conditions/（IČ / 地址 / 登记）+ /about-us/（品牌沿革）；2026-10-29，2026-10-29 查；https://www.partizanstore.eu/en/commercial-terms-and-conditions/）：**
 
@@ -66,9 +71,9 @@ updated: 2026-10-29
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | partizanstore.eu（取自域名，公司全名待核） | 推断 |
-| 国家 | 欧洲（国别未填） | 事实（用户表）|
+| 国家 | 捷克 | 事实（用户表）|
 | 网站/域名 | partizanstore.eu | 事实（用户表 URL/邮箱域名） |
-| 类型 | 经销/集成（类型待核） | 推断（据兴趣/备注关键词） |
+| 类型 | 自有品牌安防厂商（Partizan，2008 起，布拉格） | 推断（据兴趣/备注关键词） |
 | 联系人 | — | 事实（用户表） |
 | 来源（From） | 谷歌 | 事实（用户表） |
 | 兴趣（Interested in） | 商业PoE 主要是洪瑞的 / 商业POE 主要是洪瑞的 | 事实（用户表） |
@@ -94,7 +99,15 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：待调研**。分级目前基于用户表内信号 + 规则；A/B 候选将按批次做网页核实（公司是否仍在运营、业务类型、规模、在卖品牌），写入 `data/saga_clients/research/SC-2609.json` 后由渲染器并入本节。
+- **状态：已调研（2026-10-29）**　网站状态：营业中（官网 2026）
+- **是谁**：国别纠偏：表内「欧洲（国别未填）」 → 捷克。PARTIZAN SECURITY s.r.o. 商务条款页：IČ 28909437；DIČ CZ28909437；Kresomyslova 384/17, Nusle, 140 00 Praha 4；布拉格市法院商事登记 C 152541。来源：公司底数登记（`data/saga_clients/registry/`，第 127 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。
+- **类型**：自有品牌安防厂商（Partizan，2008 起，布拉格）
+- **规模**：小型（推定）
+- **【官网】国别纠偏 表内「欧洲（国别未填）」 → 捷克**
+  > PARTIZAN SECURITY s.r.o. 商务条款页：IČ 28909437；DIČ CZ28909437；Kresomyslova 384/17, Nusle, 140 00 Praha 4；布拉格市法院商事登记 C 152541
+  > 来源：https://www.partizanstore.eu/en/commercial-terms-and-conditions/（抓取 2026-10-29）
+- 备注：T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。
+
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -177,7 +190,6 @@ updated: 2026-10-29
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 网页调研未做（公司规模/业务/在卖品牌待核）
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

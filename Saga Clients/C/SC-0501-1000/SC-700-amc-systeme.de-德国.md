@@ -2,7 +2,7 @@
 
 > **评级 C**　|　德国　|　档案编号 `SC-700`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 集成 25%：AMC – Analytik & Messtechnik GmbH Chemnitz（HRB 995 AG Chemnitz；GF Bernd Göbel；1990 起 Advantech / NI / Gantner 伙伴）坐实；进口台湾工业品牌 ✔ 四主区 ✔ 对位 ✔ 坐实 ✔ = 冷户四条 → P 池候选
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ○）：○ 集成 25%：AMC – Analytik & Messtechnik GmbH Chemnitz（HRB 995 AG Chemnitz；GF Bernd Göbel；1990 起 Advantech / NI / Gantner 伙伴）坐实；进口台湾工业品牌 ✔ 四主区 ✔ 对位 ✔ 坐实 ✔ = 冷户四条 → P 池候选
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:DE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-700
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
 score: 17
 country: 德国
 region: 欧洲

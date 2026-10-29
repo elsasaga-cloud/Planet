@@ -2,7 +2,7 @@
 
 > **评级 C**　|　澳大利亚　|　档案编号 `SC-397`　|　优先级 —　|　状态：已推送 22 次·未回复
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 自有品牌 · OEM 30%：Alloy Computer Products (Australia) Pty Ltd（ABN 41 006 507 473；制造商 + 增值分销；自有 PoE AS2008-P / AS1026-P、L3 Lite AS5010-P、MC GCR2000）坐实；自有品牌 ✔ 对位 ✔ 坐实 ✔ → P 池候选　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ★）：★ 自有品牌 · OEM 30%：Alloy Computer Products (Australia) Pty Ltd（ABN 41 006 507 473；制造商 + 增值分销；自有 PoE AS2008-P / AS1026-P、L3 Lite AS5010-P、MC GCR2000）坐实；自有品牌 ✔ 对位 ✔ 坐实 ✔ → P 池候选　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 22 次（2024-05-23 → 2025-11-06）　|　**所在清单**：A优质名单(AU)、AI评估(AU)、群发(谷歌)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-397
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
 score: 21
 country: 澳大利亚
 region: 亚太

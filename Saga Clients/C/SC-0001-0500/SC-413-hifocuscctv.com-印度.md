@@ -2,7 +2,7 @@
 
 > **评级 C**　|　印度　|　档案编号 `SC-413`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 自有品牌 · OEM 30%：Hi-Focus Electronics India Pvt Ltd（Chennai；CIN U51909TN2015PTC099815；GSTIN 33AADCH5807L1ZJ；2015；实收 ₹1 Cr；15 GST 登记 = 多邦网络；MD Shobhalal Mukesh Kumar）坐实；自有品牌 ✔ 中国代工 ✔ 对位 ✔ 坐实 ✔ → P 池候选　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ★）：★ 自有品牌 · OEM 30%：Hi-Focus Electronics India Pvt Ltd（Chennai；CIN U51909TN2015PTC099815；GSTIN 33AADCH5807L1ZJ；2015；实收 ₹1 Cr；15 GST 登记 = 多邦网络；MD Shobhalal Mukesh Kumar）坐实；自有品牌 ✔ 中国代工 ✔ 对位 ✔ 坐实 ✔ → P 池候选　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：安防集成/经销（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:India、在用同行产品　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-413
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
 score: 21
 country: 印度
 region: 南亚

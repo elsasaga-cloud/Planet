@@ -2,7 +2,7 @@
 
 > **评级 C**　|　西班牙　|　档案编号 `SC-2760`　|　优先级 —　|　状态：用户判定不行
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 中型集团分销 20%：TEMPEL, S.A. — Tempel Group（Barcelona 1978；Panasonic / Advantech / Moxa / Robustel 分销；拉美 6 国分部）部分坐实（CIF 未取）；工业分销 ✔ 体量 ✔ 欧洲 ✔ 对位 ✔ → P 池候选（Moxa 不点名；拉美可带出口）；Simon 曾判不行，可否决
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ★）：★ 中型集团分销 20%：TEMPEL, S.A. — Tempel Group（Barcelona 1978；Panasonic / Advantech / Moxa / Robustel 分销；拉美 6 国分部）部分坐实（CIF 未取）；工业分销 ✔ 体量 ✔ 欧洲 ✔ 对位 ✔ → P 池候选（Moxa 不点名；拉美可带出口）；Simon 曾判不行，可否决
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-2760
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
 score: -37
 country: 西班牙
 region: 欧洲

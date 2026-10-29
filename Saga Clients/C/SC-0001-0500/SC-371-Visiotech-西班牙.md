@@ -2,7 +2,7 @@
 
 > **评级 C**　|　西班牙　|　档案编号 `SC-371`　|　优先级 —　|　状态：成交过·维护
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★★ 首选 · OEM 30%：Visiotech Security S.L.（B80645518；Madrid；自有品牌 Safire / X-Security / Nivian；欧洲多国大分销）坐实；成单 ✔ 曾谈 OEM 交换机 ✔ 自有品牌 ✔ 具名 KP emussons@ ✔ → P 池候选　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ★★）：★★ 首选 · OEM 30%：Visiotech Security S.L.（B80645518；Madrid；自有品牌 Safire / X-Security / Nivian；欧洲多国大分销）坐实；成单 ✔ 曾谈 OEM 交换机 ✔ 自有品牌 ✔ 具名 KP emussons@ ✔ → P 池候选　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：成交/下单过；推送 31 次（2024-03-24 → 2025-10-03）　|　**所在清单**：A优质名单(Spain)、A优质名单(其他优质欧洲客户)、AI评估(ES)·DONE、AI评估(EU)·DONE、群发(富通天下)、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-371
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
 score: 22
 country: 西班牙
 region: 欧洲

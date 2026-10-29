@@ -2,7 +2,7 @@
 
 > **评级 C**　|　南非　|　档案编号 `SC-644`　|　优先级 —　|　状态：已推送 15 次·未回复
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 批发分销 20%：Scoop Distribution (Pty) Ltd（Cape Town / Midrand；Reg 2001/007610/07；VAT 4830195584；Ubiquiti / MikroTik / Tenda / Reyee / Fanvil 授权）坐实；已进口中国同类 ✔ 对位 ✔ 坐实 ✔ → P 池候选
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ★）：★ 批发分销 20%：Scoop Distribution (Pty) Ltd（Cape Town / Midrand；Reg 2001/007610/07；VAT 4830195584；Ubiquiti / MikroTik / Tenda / Reyee / Fanvil 授权）坐实；已进口中国同类 ✔ 对位 ✔ 坐实 ✔ → P 池候选
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 15 次（2024-05-13 → 2025-11-04）　|　**所在清单**：A优质名单(South Africa)、AI评估(ZA)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-644
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
 score: 18
 country: 南非
 region: 非洲

@@ -2,7 +2,7 @@
 
 > **评级 C**　|　巴西　|　档案编号 `SC-1691`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 巴西 · 工业分销 20%：Alfacomp Automação Industrial Ltda（Porto Alegre + Campinas；CNPJ 04.430.358/0001-05；2001；R$400K）坐实；中国工业品牌全线（迈威）✔ 对位 ✔ WA ✔ → P 池候选
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ★）：★ 巴西 · 工业分销 20%：Alfacomp Automação Industrial Ltda（Porto Alegre + Campinas；CNPJ 04.430.358/0001-05；2001；R$400K）坐实；中国工业品牌全线（迈威）✔ 对位 ✔ WA ✔ → P 池候选
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：E冷名单(巴西)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1691
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
 score: 5
 country: 巴西
 region: 拉美

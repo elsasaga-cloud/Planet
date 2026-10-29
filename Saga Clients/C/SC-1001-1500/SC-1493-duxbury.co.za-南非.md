@@ -2,7 +2,7 @@
 
 > **评级 C**　|　南非　|　档案编号 `SC-1493`　|　优先级 —　|　状态：已推送 16 次·未回复
 >
-> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 中型分销 20%：DUXBURY TRANSMISSION EQUIPMENT (PTY) LTD t/a Duxbury Networking（Johannesburg；注册号 2018/441897/07；1984 起；三分部；8,000+ 经销伙伴；3 具名邮箱在表）坐实；索样互动 ✔ 分销体量 ✔ 对位 ✔ 具名 KP ✔ → P 池候选（次优区长线）
+> **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ★）：★ 中型分销 20%：DUXBURY TRANSMISSION EQUIPMENT (PTY) LTD t/a Duxbury Networking（Johannesburg；注册号 2018/441897/07；1984 起；三分部；8,000+ 经销伙伴；3 具名邮箱在表）坐实；索样互动 ✔ 分销体量 ✔ 对位 ✔ 具名 KP ✔ → P 池候选（次优区长线）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 16 次（2024-05-09 → 2025-11-04）　|　**所在清单**：A优质名单(South Africa)、AI评估(ZA)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1493
 rating: C
 rating_auto: C
-sieve: pool_candidate  # 闸 2 G2 2026-10-29
+sieve: pool  # 闸 3 P1 2026-10-29
 score: 9
 country: 南非
 region: 非洲

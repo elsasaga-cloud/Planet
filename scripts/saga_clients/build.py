@@ -711,6 +711,12 @@ def main():
         ent['code'] = code
         if not ent.get('code_aliases') and code in prev_alias:
             ent['code_aliases'] = prev_alias[code]
+        # 人工归并（人工归并.csv）的占位实体只有首条来源行作稳定键，found 里不会出现被并掉的大编号 → 从 merge_keys 的 m:A+B 补齐曾用编号（编号冻结：大编号作废不再复用）
+        for mk in ent.get('merge_keys') or []:
+            if mk.startswith('m:'):
+                for other in mk[2:].split('+'):
+                    if other != code and other not in (ent.get('code_aliases') or []):
+                        ent.setdefault('code_aliases', []).append(other)
         ent['grade'] = ent['grade_auto']
         # 人工定级 / 调研覆盖
         ov = None
