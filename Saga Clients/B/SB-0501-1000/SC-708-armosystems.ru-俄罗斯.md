@@ -28,7 +28,7 @@ last_contact: unknown
 p1: STC-228GP
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -58,6 +58,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ★ 大分销 20%（长线）：ООО «АРМО-Системы»（Москва；ИНН 7715284716 / ОГРН 1027739174352；2001；股本 10 млн ₽；2025 营收 3.2 млрд ₽；GD Кобытев А. В.）坐实；已进口 Utepo ✔ 对位 ✔ 坐实 ✔ → P 池候选（找产品经理） | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 登记底数（registry） | RU · 1 次检索：focus.kontur.ru（ИНН / ОГРН / 登记 / 股本 / 总经理 / 营收）+ vbr.ru（地址变更 2026-09）；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Оборудование и ПО для видеонаблюдения, СКУД и пожарной сигнализации купить в компании АРМО-Системы — Купить системы видеонаблюдения, контроля доступа, оповещения, охранной и пожарной сигнализации по низкой цене в интернет-магазине Armosystems.ru | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -119,10 +120,11 @@ updated: 2026-10-29
 - **KP**：—（表内邮箱（公开 / 总机））lon@armo.ru 〔〕
 - **KP**：—（表内邮箱（公开 / 总机））anna@armo.ru 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 大分销 20%（长线）：ООО «АРМО-Системы»（Москва；ИНН 7715284716 / ОГРН 1027739174352；2001；股本 10 млн ₽；2025 营收 3.2 млрд ₽；GD Кобытев А. В.）坐实；已进口 Utepo ✔ 对位 ✔ 坐实 ✔ → P 池候选（找产品经理）；闸 1：俄罗斯 ARMO Systems（armosystems.ru / armo.ru；大型安防分销，表内「用的 Utepo 的，工业 FS / SFP / PoE 配件」）：进口中国同类 ✔ 对位 ✔ 分销主体；未触达 → 闸 2 查底数（…
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/saga_fit.basis/deep/facts。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -137,6 +139,22 @@ POE配件
 - **风险/边界**：**Utepo 现供大分销 → 分销 20%（长线）：找产品经理一页纸一次（STC-028GP / STC-228GP / STI-288GPM 对标 Utepo + MOQ 1 + 付费样机；Utepo 不点名）— 俄语区常规：英文 / 俄文稿、20 / 25 / 30 + 预付 100%（收款 / 物流路径待 Simon 定：第三国结算或代理）+ FOB 深圳；周四 10–12 当地**
 - **Saga 对位结论**：P1 STC-228GP（20% 档）——默认对位（大分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）
 
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://armosystems.ru/　语言：ru　站点地图 URL 数：8663
+- **标题**：Оборудование и ПО для видеонаблюдения, СКУД и пожарной сигнализации купить в компании АРМО-Системы
+- **描述**：Купить системы видеонаблюдения, контроля доступа, оповещения, охранной и пожарной сигнализации по низкой цене в интернет-магазине Armosystems.ru
+- **首页栏目**：Каталог оборудования / Новости / Полезные статьи
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：axis 1
+- **站内型号串**（正则抽取，含非交换机）：ST-DB220DT, STC-IPM5508A
+- **站内公开邮箱**：armo-peterburg@armo.ru, armosystems@armo.ru, as-remont@armo.ru, job@armo.ru
+- **站内公开电话**：+7 (495) 787-3342, +7 (812) 303-5353, +7 495 787-33-42
+- **社媒**：https://t.me/armosystems, https://vk.com/armosys
+- **产品类页面**：http://www.armosystems.ru/catalog/；http://www.armosystems.ru/catalog/videokamery3/；http://www.armosystems.ru/catalog/videokamery3/kab21/；http://www.armosystems.ru/catalog/videokamery3/kab22/；http://www.armosystems.ru/catalog/videokamery3/kad20-ir/；http://www.armosystems.ru/catalog/videokamery3/kad21-ir/
+- **已抓子页**：[Контакты АРМО-Системы Москва, как проехать](https://armosystems.ru/contacts/)；[Продукция «Линсис» получила сертификат СТО Газпром](https://armosystems.ru/partner_news/linsys_pao_gazprom/)；[Международные партнеры АРМО-Системы](https://armosystems.ru/about/partners/)；[О компании АРМО-Системы](https://armosystems.ru/about/)；[Системы безопасности купить в Armosystems.ru](https://armosystems.ru/catalog/)
+- 首页正文摘录：Дистрибьюция оборудования для систем безопасности Просмотренные : 0 Отложенные : 0 8 800 700-33-43 +7 495 787-33-42 Заказать обратный звонок armosystems@armo.ru Каталог О компании Новости Сервис Заявка Вебинары Акции Контакты LikeNews Мероприятия Полезные статьи Вендоры Видео Сертификаты Архив рассылок Вакансии Сотрудничество 8 800 700-33-43 +7 495 787-33-42 Каталог О компании Новости Сервис Заявка Вебинары Акции Кон
+- 数据文件：`data/saga_clients/site_snapshots/SC-708.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
+
 ## 在卖/在用品牌 → Saga 对位
 
 | 备注所见品牌 | 含义 | Saga 切入 |
@@ -150,12 +168,13 @@ POE配件
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-708/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://armosystems.ru/) | html | 待首轮 | — | 官网首页 |
+| [home](https://armosystems.ru/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 2173 字符；首行：Оборудование и ПО для видеонаблюдения, СКУД и пожарной сигнализации купить в ко |
 
 ## 联系方式（已有 · 原值照录）
 

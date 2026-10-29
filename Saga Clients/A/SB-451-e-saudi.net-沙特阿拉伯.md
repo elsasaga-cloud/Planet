@@ -27,7 +27,7 @@ s_mail: 44 msgs (out 34 / in 10), 2024-02-25 -> 2026-09-08
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -69,6 +69,7 @@ updated: 2026-10-29
 | 2024-10-15 | 来 | Saeed | Yes indeed we need a sample and datasheet if you can provide us. | 要样 | `bad9a4f3d0798ce2` |
 | 2024-10-15 | 去 | Simon | The sample is NOT free. 50usd/pc | 付样筛 | `600c9221602d0b9d` |
 | 2025-04-28 | 来 | saeed@e-saudi.net | Dear Alan, I have shared It with our sales department. We will check if we can accommodate it. In the meantime, to better understand the scenario it w | 来信原文（主题「RE: Commercial PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `5f589ba4397ac9aa` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：e-saudi.net MX aspmx2.googlemail.com. / alt2.aspmx.l.google.com.；A 209.17.116.163；NS ns37.worldnic.com. / ns38.worldnic.com. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -137,7 +138,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（e-saudi.net：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（e-saudi.net：HTTP 错误，2026-10-29，第 2 次）
 - **是谁**：沙特阿拉伯 e-saudi.net（KP Saeed Mohammed；表内「Catalog」、有回复、「邮件中有详细的联系信息」；官网 http_error，业务范围待核）；表内 1 次跟进，有回复。
 - **类型**：IT/网络贸易商（沙特，有回复，业务待核）
 - **【用户表】表内兴趣/备注**
@@ -148,7 +149,8 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Saeed Mohammed（Operation Manager / Business Development Manager（RocketReach，2005 至今；表内 1 次跟进有回复 要 Catalog）= 拍板人 / 收件人 — 一页纸一次：集成商 25% B、远端站点 STI-154GP / STI-288DGGPM 宽温 + 机房 STC-4424GCPM 一口价 + 3 年保 + MOQ 1 + 付费样机、opener 引其要 Catalog — 沙特常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP、SASO / SABER 不声称（第 119 批 官方登记核实 2026-10-28））saeed@e-saudi.net +966 55 068 6619（2024-02→06 签名 Mobile）〔用户表〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -169,7 +171,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——已索取目录（有回复）→ 续谈：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、24 口 STC-424DGGPM-280W（$140.1）、工业 8 GE + 2 SFP STI-280GE（$48.6）
 - **邮件切入句（英文）**：Saeed, following the catalogue you requested: which of the lines fits your current projects — managed 8/24-PoE L2+ switches or DIN-rail industrial units — so I can send an EXW USD price list for that family first?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：e-saudi.net
   > https://e-saudi.net/ http 403 ct=text/html
@@ -215,7 +217,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-24T04:35:40Z
 - **最近变化摘要**：2026-10-24 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-451/`；本节随档案重渲染刷新，实时看日志。
 

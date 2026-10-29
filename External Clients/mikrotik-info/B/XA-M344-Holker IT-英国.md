@@ -1,10 +1,10 @@
 # XA-M344 · Holker IT · 英国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 mikrotik-info `A-306`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R02 2026-10-27）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 mikrotik-info `A-306`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱（含实名 KP）
-- 研究后改级：XA → **XB**（W1-R02，小项目集成商/服务商，非渠道；9–10 月已发未回 → B 慢慢跟进（不进第二封））；编号不变
+- 研究后改级：XA → **XB**（LT-T03，小项目集成商/服务商，非渠道；9–10 月已发未回 → B 慢慢跟进（不进第二封））；编号不变
 - 人工改级：XB（2026-10-29，Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径））；编号不变
 - 标记：S箱已群发
 - 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
@@ -84,13 +84,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W1-R02，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — 小项目集成商/服务商，非渠道；9–10 月已发未回 → B 慢慢跟进（不进第二封）
-- 活着吗：来源库 2026-09-27 核对在线；本轮未复查
+- 活着吗：在线（holkerit.co.uk，快照 2026-10-29）：Home - Holker IT
 - 一句话：MSP（Burnley，Platinum Partner）；Marvell Prestera 接入层切入
 - 是什么人：MSP（Burnley，Platinum Partner）；规模：未量化
-- 在卖/在用：Allied Telesis（Marvell Prestera 接入层）
+- 在卖/在用：Allied Telesis（Marvell Prestera 接入层）、Allied Telesis
 - 对口哪条线：—
 - 找得到人吗：enquiries@holkerit.co.uk（来源库公开邮箱）；KP：无具名
 - 已触达：S 箱 2026-10-03 群发「24 Port PoE Managed Switch」→ 已发未回
@@ -102,5 +102,7 @@
 |---|---|---|---|---|
 | 来源库官网/名录核对 | Platinum Partner。 【2026-09-27 A300–A319联络核验】来源等级：official-company。AT官方Featured Partner页与官网联系页给enquiries@holkerit.co.uk、0333 305 2020与Burnley Crown House；AT UK Partner of the Year+Platinum，2009年Matthew Metcalfe创立；次级reassu |  | https://holkerit.co.uk/ | 2026-09-27 |
 | S 箱群发记录 | S 箱 2026-10-03 发 enquiries@holkerit.co.uk「24 Port PoE Managed Switch」，去 1 来 0 |  | data/gmail_s/2026-09_10群发名单_未入库.csv | 2026-10-03 |
+| 官网快照 | 官网在线；Home - Holker IT | Welcome to Holker IT. Transforming Technology for Success. Based in Burnley, Lancashire. Our tailored managed services and cutting-edge cyber security solutions ensure your operations run smoothly, securely, and efficiently. | https://www.holkerit.co.uk/ | 2026-10-29 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence。
+轻卡：本轮未外查，沿用来源库官网/名录核对。

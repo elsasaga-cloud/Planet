@@ -1,10 +1,10 @@
 # XA-C0026 · M2M Germany GmbH · 德国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:17687 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R01 2026-10-27）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:17687 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家（分销/集成/安装/零售/OEM 品牌）+ 有邮箱
-- 研究后改级：XA → **XB**（W1-R01，IoT 方案商，交换机非品类重点 → B 不动）；编号不变
+- 研究后改级：XA → **XB**（LT-T03，IoT 方案商，交换机非品类重点 → B 不动）；编号不变
 - 人工改级：XB（2026-10-29，Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径））；编号不变
 - 标记：多处出现×3
 - 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
@@ -87,13 +87,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W1-R01，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — IoT 方案商，交换机非品类重点 → B 不动
-- 活着吗：活（官网 2026-05 更新）
+- 活着吗：在线（m2mgermany.de，快照 2026-10-29）：Ihr Experte für zukunftsfähige IoT-Lösungen | m2m Germany
 - 一句话：Wehrheim 的 M2M/IoT 方案商 + 分销（2007 起，11–50 人），LoRaWAN 全服务、Milesight 欧洲大分销之一、自研无线硬件。PoE 交换机只是 IoT 网关配套，非其品类重点。
 - 是什么人：IoT 方案商/分销（Milesight 渠道）；规模：11–50 人
-- 在卖/在用：Milesight、自有 m2m Germany 硬件
+- 在卖/在用：Milesight、自有 m2m Germany 硬件、Siemens
 - 对口哪条线：HRUI PoE 入门款（网关配套） — 弱—中
 - 找得到人吗：sales@m2mgermany.de（Milesight 伙伴页公开）；KP：无具名
 - 已触达：未发信
@@ -105,3 +105,7 @@
 |---|---|---|---|---|
 | 官网 Manufacturer | As a LoRaWAN full service provider … also develops its own wireless hardware；Milesight 在列 |  | https://www.m2mgermany.de/en/manufacturer/ | 2026-05-29 |
 | LinkedIn | 11–50 人；Wehrheim；2007 |  | https://www.linkedin.com/company/m2m-germany-gmbh | 2026-10-27 |
+| 官网快照 | 官网在线；Ihr Experte für zukunftsfähige IoT-Lösungen ｜ m2m Germany | Digitale Innovation durch moderne Funktechnologien. Von der Beratung über die Lieferung der Hardware bis zur Integration. | https://www.m2mgermany.de/ | 2026-10-29 |
+
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+

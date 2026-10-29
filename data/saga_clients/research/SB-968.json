@@ -142,6 +142,14 @@
     "quote": "Managed PoE Switches",
     "why": "本日去信真实主题（邮箱索引 78a0fc42cc087210；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封）",
     "k": "78a0fc42cc087210"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 复核 LT-R10",
+    "quote": "DNS 2026-10-29 16:2xZ：zenithtek.co.kr MX mailapp.hiworks.co.kr.；A 104.21.7.156 / 172.67.130.85；NS miles.ns.cloudflare.com. / jasmine.ns.cloudflare.com.",
+    "why": "长期客户群复核证据（非邮件事实，不计真回）",
+    "url": ""
    }
   ],
   "proof_gaps": [],
@@ -161,5 +169,15 @@
    "2026-10-29"
   ],
   "batch": "LT-T03"
- }
+ },
+ "lt_review": {
+  "status": "留 B",
+  "batch": "LT-R10",
+  "prio": null,
+  "queued": "LT-R10",
+  "verdict_date": "2026-10-29",
+  "note": "官网快照两次失败（2026-10-21 / 2026-10-29：HTTP 错误（4xx/5xx，多为反爬 / 屏蔽境外抓取）），但 DNS 2026-10-29 16:2xZ 复查 zenithtek.co.kr MX/A/NS 正常 → 非死域、邮箱路径未断 → 留 B 不动；快照失败只记「官网不可抓」，不作打回依据（可逆：两次独立 DNS 死才复核）",
+  "why": ""
+ },
+ "override_history": []
 }

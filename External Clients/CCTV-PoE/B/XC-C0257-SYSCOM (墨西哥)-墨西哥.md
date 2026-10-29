@@ -1,12 +1,12 @@
 # XC-C0257 · SYSCOM (墨西哥) · 墨西哥
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：与 Saga SC-1117 同一公司 → 随主档等级 B（复核随主档，不单列）） ｜ 来源 CCTV-PoE `profile/new-customers-batch-3.md`:249（其分级 A类） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T01 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：与 Saga SC-1117 同一公司 → 随主档等级 B（复核随主档，不单列）） ｜ 来源 CCTV-PoE `profile/new-customers-batch-3.md`:249（其分级 A类） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 >
 > **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（随 Saga `SC-1117`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-1117 同一公司（经 syscom.mx）→ 随 Saga 档：pool（闸 3，★ P 池正式入池（档位 ★）：★ 巨头分销 20%（长线）：SYSCOM = Sistemas y Servicios de Comunicación, S.A. de C.V.（Chihuahua；501–1000 人；电信 + 安防批）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-1117，经 syscom.mx）→ 以 Saga 档为准
-- 研究后改级：XC → **XB**（LT-T01，Q-76 LT-01 2026-10-29：与 Saga SC-1117 同一公司 → 随主档等级 B（复核随主档，不单列））；编号不变
+- 研究后改级：XC → **XB**（LT-T03，Q-76 LT-01 2026-10-29：与 Saga SC-1117 同一公司 → 随主档等级 B（复核随主档，不单列））；编号不变
 - 人工改级：XB（2026-10-29，Q-76 LT-01 2026-10-29：与 Saga SC-1117 同一公司 → 随主档等级 B（复核随主档，不单列））；编号不变
 - 标记：profile批次文件、国别多说法:MX/CO/AE、多处出现×11、重复=Saga
 - 与 Saga Clients 重叠：**SC-1117**（Saga 评级 C，经域名 syscom.mx）→ 以 Saga 档为主；本条只保留来源库事实
@@ -120,13 +120,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，LT-T01，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — Q-76 LT-01 2026-10-29：与 Saga SC-1117 同一公司 → 随主档等级 B（复核随主档，不单列）
-- 活着吗：域名 syscom.mx MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓
+- 活着吗：在线（syscom.mx，快照 2026-10-29）：SYSCOM - Donde los PROs Encuentran TODO | Mayorista Tecnológico México
 - 一句话：SYSCOM (墨西哥)（墨西哥）：墨西哥最大安防分销商（Hikvision已收购其股份）；业务=墨西哥+哥伦比亚大型IT分销；开发策略=B类(墨西哥大型分销), 拉美第二市场；公司全称=Syscom Distribution LLC (Sys LLC)；公司类型=IT分销商/系统集成商；总部=UAE；客户优先级=🟢 A类（GITEX参展+IT分销+PoE品类）
 - 是什么人：墨西哥最大安防分销商（Hikvision已收购其股份）
-- 在卖/在用：Hikvision
+- 在卖/在用：Hikvision、Ubiquiti、Ruijie、TP-Link、MikroTik、Huawei、Grandstream、Cambium、Teltonika、Hanwha、Milesight、ZKTeco
 - 对口哪条线：STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）
 - 找得到人吗：（缺）；KP：无具名
 - 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
@@ -137,5 +137,7 @@
 | 类型 | 说明 | 摘录 | 来源 | 日期 |
 |---|---|---|---|---|
 | 来源库官网/名录核对 | 墨西哥最大安防分销商（Hikvision已收购其股份）；业务=墨西哥+哥伦比亚大型IT分销；开发策略=B类(墨西哥大型分销), 拉美第二市场；公司全称=Syscom Distribution LLC (Sys LLC)；公司类型=IT分销商/系统集成商；总部=UAE；客户优先级=🟢 A类（GITEX参展+IT分销+PoE品类） |  | https://syscom.mx | 2026-09 |
+| 官网快照 | 官网在线；SYSCOM - Donde los PROs Encuentran TODO ｜ Mayorista Tecnológico México | El catálogo más completo de México para integradores. +75,000 productos certificados: Videovigilancia, Redes IT, Audio/Video, Control de Acceso, Telecomunicaciones, Energía Solar y más. 38 años, 24 centros, 99% entrega mismo día, soporte de por vida. | https://www.syscom.mx/ | 2026-10-29 |
 
-- 备注：LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。

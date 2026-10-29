@@ -29,7 +29,7 @@ s_mail: 26 msgs (out 26 / in 0), 2024-07-11 -> 2026-09-28
 p1: STC-424XGGPM-280W
 price_tier: 30%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -39,7 +39,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（○ 正式）：○ 自有品牌 · OEM 30%：Alfa Base Marketing Co., Ltd.（曼谷 Lat Krabang；1995；进口 + 制造；自有品牌 ALFA BASE 布线 / 光纤 / MC / SFP 全线）部分坐实（DBD 未取）；自有品牌 ✔ 进口 ONV / Elink ✔ 对位 ✔ 坐实 ✔ → P 池候选（次优区，冷）（调研 2026-10-29；表内兴趣：有公司的产品 也有ONV的 也有Elink的）
 - **为什么是 B 级**：**调研后定级 B**（Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 自有品牌 · OEM 30%：Alfa Base Marketing Co., Ltd.（曼谷 Lat Krabang；1995；进口 + 制造；自有品牌 ALFA BASE 布线 / 光纤 / MC / SFP 全线）部分坐实（DBD 未取）；自有品牌 ✔ 进口 ONV / Elink ✔ 对位 ✔ 坐实 ✔ → P 池候选（次优区，冷）；闸 1：泰国 Alfabase（自有品牌 + 同时卖 ONV / Elink，早期 AI 45% A）→ 典型贴牌渠道商（OEM 30% 对象）；16 推 0 回 → 闸 2 查底数）；自动分级 C：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-12 备注提示大公司/上市公司/运营商（体量不匹配）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/泰国；+5 最近活动 2025；-16 推送 16 次无任何回复（聋名单）
 - **历史互动**：推送 16 次（2024-05-13 → 2025-10-14）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-424XGGPM-280W — 默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）；
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-424XGGPM-280W — 官网快照对位：PoE 词频 19、监控 0 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）；
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动：LT-01 复核（待过）后再定 — 长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
@@ -52,13 +52,14 @@ updated: 2026-10-29
 - **现状一句话**：C 池三闸捞出 → B（LT-01）：○ 自有品牌 · OEM 30%：Alfa Base Marketing Co., Ltd.（曼谷 Lat Krabang；1995；进口 + 制造；自有品牌 ALFA BASE 布线 / 光纤 / MC / SFP 全线）部分坐实（DBD 未取）；自有品牌 ✔ 进口 ONV / Elink ✔ 对位 ✔ 坐实 ✔ → P 池候选（次优区，冷）
 - **对方真实需求（有据）**：未知（无往来；复核时从官网 / 进口数据 / 项目推断）
 - **断点 / 为什么停在这里**：无往来（从未触达或仅群发无回）
-- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（% 档，价见价格主表）——默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
+- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（% 档，价见价格主表）——官网快照对位：PoE 词频 19、监控 0 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）
 - **下一步（具体）**：不动：LT-01 复核（待过）后再定　—　长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ○ 自有品牌 · OEM 30%：Alfa Base Marketing Co., Ltd.（曼谷 Lat Krabang；1995；进口 + 制造；自有品牌 ALFA BASE 布线 / 光纤 / MC / SFP 全线）部分坐实（DBD 未取）；自有品牌 ✔ 进口 ONV / Elink ✔ 对位 ✔ 坐实 ✔ → P 池候选（次优区，冷） | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 登记底数（registry） | TH · 1 次检索：alfabase.co.th 首页 + /shop/ + /product-category/products/alfa-base/（法人泰文名 / 地址 / 1995 / 自有品牌型号）；DBD 注册号未取；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | ผู้ขายสินค้าโทรคมนาคม สายสัญญาณ Fiber optic patch cord มาตรฐานสากล — เราเป็นผู้ผลิตและนำเข้าสินค้า สายใยแก้วนำแสง ไฟเบอร์ออฟติก patch cord สำหรับงานระบบ data center รับให้คำปรึกษาด้านงานระบบโทรคมนาคม | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -116,10 +117,11 @@ updated: 2026-10-29
   > 来源：（抓取 2026-10-29）
 - **KP**：—（表内邮箱（公开 / 总机））info@alfabase.co.th 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 自有品牌 · OEM 30%：Alfa Base Marketing Co., Ltd.（曼谷 Lat Krabang；1995；进口 + 制造；自有品牌 ALFA BASE 布线 / 光纤 / MC / SFP 全线）部分坐实（DBD 未取）；自有品牌 ✔ 进口 ONV / Elink ✔ 对位 ✔ 坐实 ✔ → P 池候选（次优区，冷）；闸 1：泰国 Alfabase（自有品牌 + 同时卖 ONV / Elink，早期 AI 45% A）→ 典型贴牌渠道商（OEM 30% 对象）；16 推 0 回 → 闸 2 查底数
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/saga_fit/deep/facts。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -132,7 +134,23 @@ updated: 2026-10-29
   - 表内兴趣：有公司的产品 也有ONV的
 也有Elink的
 - **风险/边界**：**自有品牌布线商补网络线 → OEM 30%：一页纸一次（STC-028GP / STC-228GP 丝印 + STC-110XGE MC 对标其 MC 线 + MOQ + 付费样机）— 区域外常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳；低频一页纸**；次优区；登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号
-- **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
+- **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——官网快照对位：PoE 词频 19、监控 0 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://alfabase.co.th/　语言：en-US　站点地图 URL 数：38
+- **标题**：ผู้ขายสินค้าโทรคมนาคม สายสัญญาณ Fiber optic patch cord มาตรฐานสากล
+- **描述**：เราเป็นผู้ผลิตและนำเข้าสินค้า สายใยแก้วนำแสง ไฟเบอร์ออฟติก patch cord สำหรับงานระบบ data center รับให้คำปรึกษาด้านงานระบบโทรคมนาคม
+- **首页栏目**：PRODUCT / DATA SHEET / DOWNLOAD / CATALOGUE / Customer Alfabase / Why Alfabase ? / MPO/MTP Solution / POWER SUPPLY
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 119、cable 94、telecom 56、switch 33、poe 19、ethernet 15、sfp 13、media converter 13、wifi 6、data center 3、industrial 2、10g 2
+- **站内型号串**（正则抽取，含非交换机）：EV48100-T, CXPS-E3, CXPS-E101, CX-803, CX-9417, CX-5002, CX-2022-S, ADH24UUS2-231, AL-1132, AL-1133, AL-4172S, AL-3133S
+- **站内公开邮箱**：info@alfabase.co.th
+- **社媒**：https://www.facebook.com/Alfabasecommunication
+- **产品类页面**：https://alfabase.co.th/shop/；https://alfabase.co.th/product-list/
+- **已抓子页**：[Power Over Ethernet (PoE) - อุปกรณ์สำหรับงานระบบโทรคมนาคม](https://alfabase.co.th/product-category/products/alfa-base/telecom-product/power-over-ethernet-poe/)；[DC Switchedmode System Control - อุปกรณ์สำหรับระบบโซล่าเซล](https://alfabase.co.th/product-category/products/alfa-base/power-supply/dc-switchedmode-system-control/)；[DC Switchedmode Rectifier System - อุปกรณ์สำหรับระบบโซล่าเซล](https://alfabase.co.th/product-category/products/alfa-base/power-supply/dc-switchedmode-rectifier-system/)；[FTTx Solution - Alfa Base จำหน่ายและนำเข้าสินค้าอุปกรณ์ สายแ](https://alfabase.co.th/product-category/products/alfa-base/alfabase-fiber-optic/fttx-solution/)；[MPO/MTP Solution - หัวต่อสำหรับสายสัญญาณ คุณภาพสูง](https://alfabase.co.th/product-category/products/alfa-base/alfabase-fiber-optic/mpo-mtp-solution/)；[FTTx Closure - Alfa Base จำหน่ายและนำเข้าสินค้าอุปกรณ์ สายแล](https://alfabase.co.th/product-category/products/alfa-base/alfabase-fiber-optic/fttx-solution/fttx-closure/)
+- 首页正文摘录：Sign in close Username or email * Required Password * Required Log in Lost your password? Remember me No account yet? Create an Account Search for: Search Home About us Products Alfa Base Fiber Optic Lan Networking Telecom Products Rack System Stationary Battery Power Supply Lightera Lightera Lan Networking Lightera Fiber Optic Lightera Accessories Services News & Promotion Contact us Downloads Hot Need Support FACEB
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 19、监控 0 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SC-1045.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -190,12 +208,14 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-1045/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://alfabase.co.th/) | html | 待首轮 | — | 官网首页 |
+| [home](https://alfabase.co.th/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 7897 字符；首行：ผู้ขายสินค้าโทรคมนาคม สายสัญญาณ Fiber optic patch cord มาตรฐานสากล |
+| [feed_auto](https://alfabase.co.th/feed/) | rss | HTTP 200 | 2026-10-29T15:11:51Z | 10 条；最新：Sat, 27 Jun 2026 03:27:02 ทำไม AI ถึงทำให้โลกต้องเปลี่ยนจากไฟฟ้ามาใช้แสง? |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -225,7 +245,7 @@ updated: 2026-10-29
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424XGGPM-280W | 深挖对位：默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档） | $180 USD EXW（㉕ ② 群发现价（群发价台账），30% 档公式为 $196.3——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（OEM（闸 2 判定 · 30% 档）） |
+| **P1** | STC-424XGGPM-280W | 深挖对位：官网快照对位：PoE 词频 19、监控 0 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W） | $180 USD EXW（㉕ ② 群发现价（群发价台账），30% 档公式为 $196.3——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（OEM（闸 2 判定 · 30% 档）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：30% 档 $151.6 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 

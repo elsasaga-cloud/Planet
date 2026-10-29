@@ -148,6 +148,14 @@
     "quote": "买Elink的一部分工业级交换机 也卖本土的品牌Teltonika 对M12交换机知道一些，问了I/O模块，以及是否有分销商",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 复核 LT-R10",
+    "quote": "DNS 2026-10-29 16:2xZ：voipdistri.com MX mx08.mxgate.org. / mx07.mxgate.org.；A 185.226.241.8；NS ns2.q-ns.de. / ns1.q-ns.de.",
+    "why": "长期客户群复核证据（非邮件事实，不计真回）",
+    "url": ""
    }
   ],
   "proof_gaps": [],
@@ -164,5 +172,15 @@
    "2026-10-29"
   ],
   "batch": "LT-T03"
- }
+ },
+ "lt_review": {
+  "status": "留 B",
+  "batch": "LT-R10",
+  "prio": null,
+  "queued": "LT-R10",
+  "verdict_date": "2026-10-29",
+  "note": "官网快照两次失败（2026-10-21 / 2026-10-29：超时），但 DNS 2026-10-29 16:2xZ 复查 voipdistri.com MX/A/NS 正常 → 非死域、邮箱路径未断 → 留 B 不动；快照失败只记「官网不可抓」，不作打回依据（可逆：两次独立 DNS 死才复核）",
+  "why": ""
+ },
+ "override_history": []
 }

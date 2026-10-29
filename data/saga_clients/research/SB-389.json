@@ -2,7 +2,7 @@
  "code": "SB-389",
  "name_official": "Hiperonline İletişim Hizmetleri San. Tic. Ltd. Şti.（Eskişehir, TR；hiperonline.com.tr；区域 ISP）",
  "researched_at": "2026-10-21",
- "website_status": "在线",
+ "website_status": "hiperonline.com 已挂牌出售（HugeDomains，2026-10-29；MX 无）；公司在营官网 hiperonline.com.tr",
  "summary": "埃斯基谢希尔的区域互联网服务商 Hiperonline（BTK 授权 ISP；在 Eskişehir 自建光纤（HiperFiber，最高 1000 Mbps）与无线 airfiber 接入网，其他地区借用主导运营商网络覆盖 81 省；企业 Metro Ethernet 最高 10 Gbps；0850 840 98 83；经销商体系）。ISAF 记录：eskisehir@hiperonline.com——Ady 加了 WhatsApp，一直在看多口交换机，不会英文；无后续跟进。ISP 自用：接入/汇聚多口交换机（24/48 口 + 10G 上联）、无线基站供电 PoE。",
  "type": "",
  "size": "",
@@ -119,6 +119,14 @@
     "quote": "Ady加了WhatsApp  一直在看多口交换机， 不会英文 / @hiperonline.com",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 复核 LT-R10",
+    "quote": "DNS 2026-10-29 16:2xZ：hiperonline.com MX NoAnswer；A 54.243.117.197 / 13.223.25.84；NS nsg1.namebrightdns.com. / nsg2.namebrightdns.com.",
+    "why": "长期客户群复核证据（非邮件事实，不计真回）",
+    "url": ""
    }
   ],
   "proof_gaps": [
@@ -150,5 +158,15 @@
    "2026-10-29"
   ],
   "batch": "LT-T03"
- }
+ },
+ "lt_review": {
+  "status": "留 A",
+  "batch": "LT-R10",
+  "prio": null,
+  "queued": "LT-R10",
+  "verdict_date": "2026-10-29",
+  "note": "hiperonline.com 快照为 HugeDomains「for sale」页，DNS 2026-10-29 MX NoAnswer / A = NameBright 停放 IP → eskisehir@hiperonline.com 邮件路径已断；公司在营（BTK 授权 ISP，官网 hiperonline.com.tr）+ ISAF 名片 + WhatsApp 已加 → A 不动，路径 = WhatsApp / .com.tr 域；.com 地址不再发",
+  "why": ""
+ },
+ "website_status_prev": "在线"
 }

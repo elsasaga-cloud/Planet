@@ -28,7 +28,7 @@ last_contact: unknown
 p1: STC-2216GP
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -108,7 +108,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（△ 观察）：△ 观察档 · 集成商 25%：Varel Alarm Sistemleri Tic. A.Ş.（1990；Siemens Solution Partner；2012 并入荷兰 ARAS B.V.；约 14 人）部分坐实；对位 ✔ 主区 ✔ 坐实 ✔ 复购体量（项目型）△ → 入池观察档；先换 varelalarm.com 地址重发
 - **类型**：集成商（闸 2 判定 · 25% 档）
 - **规模**：小型（约 14）
-- **在卖/在用品牌**：Utepo, Siemens
+- **在卖/在用品牌**：Utepo, Siemens, Uniview
 - **【登记底数 / 官网（闸 2 坐实）】Varel Alarm Sistemleri Ticaret A.Ş.（varelalarm.com；**官网：1990 年创立、İstanbul Acıbadem 总部、消防 / CCTV / 门禁 / 紧急广播系统集成商、Siemens Solution Partner、2012 年并入荷兰 ARAS B.V.（ARAS Security 集团）；RocketReach 14 人；ZoomInfo 营收 <$5M**）；MERSIS 号 1 查未得 → 部分坐实；表内：工**
   > TR · 1 次检索：varelalarm.com 首页（1990 yılında kurulan Varel Alarm Sistemleri Tic. A.Ş.；E5 Karayolu Üstü Etap İş Merkezi A Blok Lavanta Sokak No:16 Acıbadem；+90 216 327 62 80；vag@varelalarm.com；2012 ARAS B.V.）+ rocketreach（Employees 14；Founded 1990）+ zoominfo（<$5M）；2026-10-29
   > 来源：https://varelalarm.com/（抓取 2026-10-29）
@@ -118,10 +118,11 @@ updated: 2026-10-29
   > 来源：（抓取 2026-10-29）
 - **KP**：—（表内邮箱（公开 / 总机））info@varelalarm.com 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · 集成商 25%：Varel Alarm Sistemleri Tic. A.Ş.（1990；Siemens Solution Partner；2012 并入荷兰 ARAS B.V.；约 14 人）部分坐实；对位 ✔ 主区 ✔ 坐实 ✔ 复购体量（项目型）△ → 入池观察档；先换 varelalarm.com 地址重发；闸 1：土耳其 Aras Varel / Varel Alarm（工商业 FS，在卖 Utepo）：土耳其主区 + 已进口中国同类品牌 + 对位 ✔；arasvarel.com 无 MX 但 varelalarm.com 正常 → 闸 2 查底数…
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/saga_fit.basis/deep。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -134,6 +135,22 @@ updated: 2026-10-29
   - 表内兴趣：工商业FS  有Utepo的
 - **风险/边界**：**集成商 25%：换 varelalarm.com 地址重发一页纸一次（STC-228GP $33 / STI-154GP 工业 + MOQ 1 + 付费样机；Utepo 不点名）— 土耳其常规：英文稿（可附土语备注）、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳 / DAP（买方清关）；周四 10–12 当地**；再无回声 → 观察档；登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号
 - **Saga 对位结论**：P1 STC-2216GP（25% 档）——默认对位（集成商 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://varelalarm.com/　语言：tr　站点地图 URL 数：0
+- **标题**：Varel Alarm / Güvenlik Sistemleri Entegratörü
+- **描述**：Yangın algılama, CCTV, kartlı geçiş ve acil anons sistemlerinde uluslararası standartlarda mühendislik, projelendirme, kurulum ve teknik servis hizmetleri.
+- **首页栏目**：Güvenilir Güvenlik. Profesyonel Çözümler. / Dünya Lideri Üreticilerin Çözümleri / Global Markalarla Güçlü İş Birliği / Güvenlik Çözüm Alanlarımız / Başarılı Projelerimiz / Uluslararası standartlarda güvenlik mühendisliği. / Güvenlik Sistemleri Entegratörü / Uçtan Uca Proje Yönetimi
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cctv 34、fiber 7、nvr 1、cable 1
+- **站内出现的品牌**：Siemens, Uniview　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：FDA261, FDA262, FC361-ZZ, OOHC740, FC726-ZA
+- **站内公开邮箱**：vag@varelalarm.com
+- **站内公开电话**：+90 (216) 327 62 80, +90 (216) 327 62 83
+- **社媒**：https://www.instagram.com/arasvarel/, https://www.linkedin.com/company/varelalarmsistemleri/?viewAsMember=true
+- **已抓子页**：[Çözümlerimiz / Varel Alarm](https://varelalarm.com/?page=solution&slug=cctv-kamera-sistemleri)
+- 首页正文摘录：Kurumsal expand_more Hakkımızda Misyon & Vizyon Sertifikalar İş Ortakları Kariyer Çözümlerimiz expand_more Yangın Algılama Sistemleri Acil Anons ve Seslendirme Sistemleri CCTV Kamera Sistemleri Kartlı Geçiş Sistemleri Gaz Algılama Sistemleri Entegrasyon Sistemleri Fiber Optik Çözümleri Hizmetlerimiz expand_more Tasarım Projelendirme Kurulum Servis Bakım Referanslar Blog İletişim tr expand_more 🇹🇷 Türkçe 🇬🇧 English 🇳🇱
+- 数据文件：`data/saga_clients/site_snapshots/SC-1009.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -148,12 +165,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-1009/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://arasvarel.com/) | html | 待首轮 | — | 官网首页 |
+| [home](https://arasvarel.com/) | html | HTTP 403 | 2026-10-29T15:11:51Z | 官网首页 |
 
 ## 联系方式（已有 · 原值照录）
 

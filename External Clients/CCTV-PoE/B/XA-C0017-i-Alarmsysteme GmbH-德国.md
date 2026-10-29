@@ -1,6 +1,6 @@
 # XA-C0017 · i-Alarmsysteme GmbH · 德国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:16034 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R01 2026-10-27）→ 下一动作 首触
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:16034 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 首触
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家（分销/集成/安装/零售/OEM 品牌）+ 有邮箱
@@ -60,13 +60,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W1-R01，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XA** — DACH 安防批发商，已自选中国 PoE 品牌在卖 → 采购路径现成 → A 首触
-- 活着吗：活（2025-10 搬新址 Alte Gießerei 12, Erkrath）
+- 活着吗：在线（i-alarmsysteme.de，快照 2026-10-29）：i-Alarmsysteme GmbH - Deutschland
 - 一句话：奥地利 Weikersdorf 总部、DACH 5 个点、50+ 人的报警/视频/门禁批发商（1980 起），德国分部在 Erkrath；Dahua 官方分销（Excellent Distributor 2020），并把中国品牌 Wi-Tek 的 PoE 交换机/AP 作为自家「网络与传输技术」线在卖——说明已接受中国 PoE 品牌直供。
 - 是什么人：安防批发商（DACH，Dahua 分销 + 自选中国 PoE 品牌）；规模：>50 人，5 个点
-- 在卖/在用：Dahua、Wi-Tek、Ajax、其他报警/门禁
+- 在卖/在用：Dahua、Wi-Tek、Ajax、其他报警/门禁、Uniview、barox、Pulsar
 - 对口哪条线：HRUI PoE（对标其 Wi-Tek 线）+ SmartByte L2+ — 已在卖中国 PoE 品牌，采购路径现成；DE 分部有 vertrieb@ 口
 - 找得到人吗：vertrieb@i-alarmsysteme.de（Dahua 伙伴页 + 官网公开（德国分部销售口））；KP：无具名
 - 已触达：未发信
@@ -80,6 +80,7 @@
 | 官网 Unternehmen | 5 Standorte in Österreich, Deutschland & Schweiz；> 50 MitarbeiterInnen |  | https://www.i-alarmsysteme.de/ueber-uns/unternehmen/ | 2026-10-27 |
 | Dahua 分销伙伴页 | i-Alarmsysteme GmbH … Dahua Execllent Distributor 2020；vertrieb@i-alarmsysteme.de |  | https://www.dahuasecurity.com/de/partners/DistributionPartner?id=all | 2026-10-27 |
 | 官网博客 | i-Alarmsysteme Deutschland ist umgezogen! … Alte Gießerei 12, 40699 Erkrath |  | https://www.i-alarmsysteme.de/blog/i-Alarmsysteme-Deutschland-ist-umgezogen | 2025-10-31 |
+| 官网快照 | 官网在线；i-Alarmsysteme GmbH - Deutschland | Ihr Großhändler für Alarmanlagen, Videoüberwachung und Zutrittskontrollen ✅ Top Marken ✅ Günstige Preise ✅ Online-Shop | https://www.i-alarmsysteme.de/ | 2026-10-29 |
 
 草稿（英文，首触；Simon 发，Agent 不发）：
 
@@ -98,4 +99,5 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：不提 Wi-Tek 名字。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+不提 Wi-Tek 名字。

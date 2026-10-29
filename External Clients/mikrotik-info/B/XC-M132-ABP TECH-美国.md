@@ -1,6 +1,6 @@
 # XC-M132 · ABP TECH · 美国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ IP 技术 / 工业网络专业分销 20%：ABP Technology（Dallas TX；PLANET 美国授权分销，在售 PLANET 工业以太网全系）官网部分坐实（州注册号待补）；主区 US；sales@ / partners@abptech.com｜补证 X1-02R（2026-10-29）：体量 75–80 人 / $5.5M 坐实；TX SOS 号仍待补（补到即 ★）；体量补证：A） ｜ 来源 mikrotik-info `C-067`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-02 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ IP 技术 / 工业网络专业分销 20%：ABP Technology（Dallas TX；PLANET 美国授权分销，在售 PLANET 工业以太网全系）官网部分坐实（州注册号待补）；主区 US；sales@ / partners@abptech.com｜补证 X1-02R（2026-10-29）：体量 75–80 人 / $5.5M 坐实；TX SOS 号仍待补（补到即 ★）；体量补证：A） ｜ 来源 mikrotik-info `C-067`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 >
 > **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：○ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ IP 技术 / 工业网络专业分销 20%：ABP Technology（Dallas TX；PLANET 美国授权分销，在售 PLANET 工业以太网全系）官网部分坐实（州注册号待补）；主区 US；sales@ / partners@abptech.com｜补证 X1-02R（2026-10-29）：体量 75–80 人 / $5.5M 坐实；TX SOS 号仍待补（补到即 ★）；体量补证：ABP Technology · 13988 Diplomat Drive Suite 180, Dallas TX 75234 · 2001 起 · 75–80 人 / 营收 $5.5M · CEO Robert Messer · CTO Henry Castillo（LeadIQ / Adapt / Zippia）；TX SOS 号一次检索未中 → reg_pending 留；体量够 ★，补到注册号即升
 
@@ -49,12 +49,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，X1-02，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XC** — X1-02 补路径：○ IP 技术 / 工业网络专业分销 20%：ABP Technology（Dallas TX；PLANET 美国授权分销，在售 PLANET 工业以太网全系）官网部分坐实（州注册号待补）；主区 US；sales@ / （等级不动，池位见 sieve_x）
-- 活着吗：2026-10-29 检索命中官网 / 名录（在线）
+- 活着吗：在线（abptech.com，快照 2026-10-29）：ABP Technology | Preconfigured IP Cameras, IP Phones & AI Systems
 - 一句话：ABP Technology：IP 技术专业分销（PLANET 美国授权）；sales 分机 3
 - 是什么人：分销（PLANET 授权）；ABP Technology
+- 在卖/在用：Teltonika、Grandstream、PLANET
 - 对口哪条线：Saga STI 工业 / SmartByte 商用 PoE — ○ IP 技术 / 工业网络专业分销 20%：ABP Technology（Dallas TX；PLANET 美国授权分
 - 找得到人吗：sales@abptech.com（官网 / 名录公开（X1-02 补路径））；KP：无具名
 - 已触达：未触达（路径 2026-10-29 新补）
@@ -68,5 +69,7 @@
 | 官网 / 名录 | Partner Store About：specialty distributor of IP Technology · sales@abptech.com |  | https://partnerstore.abptech.com/about-us | 2026-10-29 |
 | 登记 / 名录 | LeadIQ：ABP Technology · Dallas · 2001 · 75 人 · IP 电话 / 监控 / 视频 / 基础设施专业分销 |  | https://leadiq.com/c/abp-technology/5a1d902d5400005b0075cbe2/employee-directory | 2026-10-29 |
 | 登记 / 名录 | Adapt.io：CEO Robert Messer · CTO Henry Castillo · 25–100 人 · $1–10M |  | https://www.adapt.io/company/abp-technology-1 | 2026-10-29 |
+| 官网快照 | 官网在线；ABP Technology ｜ Preconfigured IP Cameras, IP Phones & AI Systems | ABP Technology is a specialty distributor of IP communications, video surveillance, and network infrastructure — and the partner that helps you grow into AI Voice and AI Video services. | https://www.abptech.com/ | 2026-10-29 |
 
-- 备注：ABP Technology；13988 Diplomat Drive Suite 180, Dallas TX 75234；+1 972-831-1600
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+ABP Technology；13988 Diplomat Drive Suite 180, Dallas TX 75234；+1 972-831-1600

@@ -28,7 +28,7 @@ last_contact: 2025-10-06
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
-site_snapshot: unreachable  # 2026-10-21
+site_snapshot: unreachable  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -111,7 +111,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（itkati.com：域名不可达（DNS/连接失败），2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（itkati.com：域名不可达（DNS/连接失败），2026-10-29，第 2 次）
 - **是谁**：乌干达坎帕拉的小型 IT/网络/安防集成商 iTKATI UG Ltd（2009 年起、2018 年登记；6–10 人；企业网络、CCTV、Starlink、云与托管、VoIP/对讲、软件；地址 Plot 965 Kyadondo/Makindye；care@itkati.com，+256 393 225 713）。表内联系人 Bob（technical@itkati.com，+256 704 575 328，WA 已加）：对价格 OK、想拿样并**贴自有标**，2024-02 要 4/8/16/24/64 口价格，2024-03 再问价；18 次推送 1 次实质回复。贴标 = OEM 档 30% → B（东非非主攻区，但意向明确）。
 - **【官网】定位与联系方式**
   > We believe that a robust network architecture is the foundation of a successful digital enterprise… SD-WAN, CLOUD Technologies… Plot 965, Kampala +256393225713 care@itkati.com… Plot 965, Kyadondo Kampala
@@ -128,7 +128,8 @@ updated: 2026-10-29
 - **KP**：Bob（技术 / 采购（研究档 KP；WA 已加；价格 OK、要样、要自有标）= 收件人 — 一页纸一次：贴标 OEM 30% B、STC-028GP $28 / STC-228GP $33 / STC-2216GP 贴标 + 贴标 MOQ + 付费样机；小量先按集成商 25% 中性包装 — 乌干达常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 坎帕拉、UCC 不声称（第 122 批 官方登记核实 2026-10-29））technical@itkati.com +256 704 575 328（WA 已加）〔用户 Clients 表〕
 - **KP**：Sarah Basemera（Company manager（yellow.ug 2026-10-29；无公开邮箱）（第 122 批 官方登记核实 2026-10-29）） +256 785 284 579〔yellow.ug〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 黄页/FB 核对））
@@ -149,7 +150,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——要全系列价 + 贴标 → 以 8 PoE + 2 SFP L2+ 起手做样机，OEM 30% 档；中性包装 + 丝印其 logo，MOQ 按型号另议
 - **邮件切入句（英文）**：You mentioned the pricing was fine and you would like samples with your own label — we can ship one 8-port PoE unit in neutral packing with your logo silk-screened for evaluation; which port counts should the first batch cover?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名不可达（DNS/连接失败））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：域名不可达（DNS/连接失败））
 
 - 尝试域名：itkati.com
   > https://itkati.com/ conn: HTTPSConnectionPool(host='itkati.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPS
@@ -189,7 +190,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-110/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |

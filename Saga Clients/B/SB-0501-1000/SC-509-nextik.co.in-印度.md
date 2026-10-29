@@ -26,10 +26,10 @@ followups: 0
 first_contact: unknown
 last_contact: unknown
 s_mail: 7 msgs (out 7 / in 0), 2025-03-03 -> 2026-09-23
-p1: STC-424XGGPM-280W
+p1: STC-424XGGM
 price_tier: 30%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -39,7 +39,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（○ 正式）：闸 2 回 C：Nextik（nextik.co.in）1 查仅得 X 账号 + 同名他户 → 法人未取 → 未坐实 → 回 C 储备（调研 2026-10-29；表内兴趣：BD的核心交换机；WDM 核心交换机）
 - **为什么是 B 级**：**调研后定级 B**（Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：闸 2 回 C：Nextik（nextik.co.in）1 查仅得 X 账号 + 同名他户 → 法人未取 → 未坐实 → 回 C 储备；闸 1：印度 Nextik（nextik.co.in；表内「BD 的核心交换机 / WDM 核心交换机」= 在售 BDCOM 中国品牌）：进口中国同类 ✔ 对位 ✔（企业 / DC 线）Simon 点名印度；未触达 → 闸 2 查底数（zauba…）；自动分级 C：+2 在 AI 客户评估名单；-8 DWDM/光传输线索：Saga 不做 DWDM（Hohunet 线为交换机）；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-424XGGPM-280W — 默认对位（FTTH / 交换机制造商 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）；
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-424XGGM — 官网快照对位：10G/2.5G 词频 9、交换机 67 → 24 GE + 4×10G L2+ 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）；
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动：LT-01 复核（待过）后再定 — 长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
@@ -52,13 +52,14 @@ updated: 2026-10-29
 - **现状一句话**：C 池三闸捞出 → B（LT-01）：闸 2 回 C：Nextik（nextik.co.in）1 查仅得 X 账号 + 同名他户 → 法人未取 → 未坐实 → 回 C 储备
 - **对方真实需求（有据）**：未知（无往来；复核时从官网 / 进口数据 / 项目推断）
 - **断点 / 为什么停在这里**：无往来（从未触达或仅群发无回）
-- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（% 档，价见价格主表）——默认对位（FTTH / 交换机制造商 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
+- **Saga 现在该推什么**：P1 **STC-424XGGM**（% 档，价见价格主表）——官网快照对位：10G/2.5G 词频 9、交换机 67 → 24 GE + 4×10G L2+ 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）
 - **下一步（具体）**：不动：LT-01 复核（待过）后再定　—　长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | 闸 2 回 C：Nextik（nextik.co.in）1 查仅得 X 账号 + 同名他户 → 法人未取 → 未坐实 → 回 C 储备 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 登记底数（registry） | IN · 1 次检索：x.com/nextik_official + indiafilings / zaubacorp 同名他户 → 法人未取；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Leading Manufacturer of FTTH Solutions \| NexTik — NexTik is a manufacturer in the field of fiber-to-the-home (FTTH) technology with more than 10 years of experience. Call Now +91 8130608406 | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -112,7 +113,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-29）**　网站状态：域名 nextik.co.in（官网快照待 Actions 补抓）
+- **状态：已调研（2026-10-29）**　网站状态：在线（nextik.co.in，快照 2026-10-29）：Leading Manufacturer of FTTH Solutions | NexTik
 - **是谁**：C 池三闸捞出（○ 正式）：闸 2 回 C：Nextik（nextik.co.in）1 查仅得 X 账号 + 同名他户 → 法人未取 → 未坐实 → 回 C 储备
 - **类型**：FTTH / 交换机制造商 OEM（闸 2 判定 · 30% 档）
 - **规模**：未知
@@ -125,10 +126,11 @@ updated: 2026-10-29
   > 来源：（抓取 2026-10-29）
 - **KP**：—（表内邮箱（公开 / 总机））info@nextik.co.in 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：闸 2 回 C：Nextik（nextik.co.in）1 查仅得 X 账号 + 同名他户 → 法人未取 → 未坐实 → 回 C 储备；闸 1：印度 Nextik（nextik.co.in；表内「BD 的核心交换机 / WDM 核心交换机」= 在售 BDCOM 中国品牌）：进口中国同类 ✔ 对位 ✔（企业 / DC 线）Simon 点名印度；未触达 → 闸 2 查底数（zauba…
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/saga_fit/deep/facts。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -140,7 +142,24 @@ updated: 2026-10-29
   - 印度 Nextik（nextik.co.in；表内「BD 的核心交换机 / WDM 核心交换机」= 在售 BDCOM 中国品牌）：进口中国同类 ✔ 对位 ✔（企业 / DC 线）Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先
   - 表内兴趣：BD的核心交换机；WDM 核心交换机
 - **风险/边界**：**未坐实 → 回 C 储备；来信再起则 OEM 30% + 预付 100%**— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST；登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号
-- **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——默认对位（FTTH / 交换机制造商 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
+- **Saga 对位结论**：P1 STC-424XGGM（30% 档）——官网快照对位：10G/2.5G 词频 9、交换机 67 → 24 GE + 4×10G L2+ 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://nextik.co.in/　语言：en　站点地图 URL 数：40
+- **标题**：Leading Manufacturer of FTTH Solutions / NexTik
+- **描述**：NexTik is a manufacturer in the field of fiber-to-the-home (FTTH) technology with more than 10 years of experience. Call Now +91 8130608406
+- **首页栏目**：Powering India’s Digital Infrastructure with 20+ Years of Innovation / Trusted Excellence in Data Cables / Leaders in Switch Manufacturing / Premium Networking Solutions / Delivering Cutting-Edge FTTH & Networking Solutions / NexTik: Innovating IT Services for Your Success / Unlock Exponential Growth: / Our Clients
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 67、cable 26、sfp 20、telecom 20、fiber 18、ftth 18、surveillance 13、datacenter 13、10g 9、gigabit 6、wireless 4、poe 2
+- **站内型号串**（正则抽取，含非交换机）：QSFP28, NMS9728, NMS9754, NMS6710-PB, NMS6732-PB, NMS8728E, NMS8728EF, NMS8748E, NMS8752E, NMS8752EF
+- **站内公开邮箱**：info@nextik.co.in
+- **站内公开电话**：+91 8130608406, +91 9971141088
+- **社媒**：https://www.facebook.com/nextikofficial, https://www.instagram.com/nextik_official/, https://www.linkedin.com/company/nextik-official, https://x.com/nextik_official
+- **产品类页面**：https://nextik.co.in/switches/core-switches；https://nextik.co.in/switches/access-switches；https://nextik.co.in/switches/aggregation-switches；https://nextik.co.in/Micro-Optical-Devices/optical-Switch
+- **已抓子页**：[Core Switches / NexTik](https://nextik.co.in/switches/core-switches.php)；[Access Network Switches / NexTik](https://nextik.co.in/switches/access-switches.php)；[Campus Networking Solution / NexTik](https://nextik.co.in/solution/campus-networking.php)；[Aggregation Switches / NexTik](https://nextik.co.in/switches/aggregation-switches.php)；[Optical Switch / NexTik](https://nextik.co.in/Micro-Optical-Devices/optical-Switch.php)
+- 首页正文摘录：Sales : +91 8130608406 info@nextik.co.in Support : +91 9971141088 Get A Quote Home About Us Products WDM Series CWDM /CCWDM DWDM AWG DWDM FWDM / PON WDM FBT WDM Micro Optical Devices Optical Circulator Optical Isolator Optical Attenuator Hybrid Devices Photo Detector Optical Switch FTTH Accessories Cable FBT Coupler PLC Splitter Patch Cord and Pigtails Adapter and Fast Connector MTP/MPO Enclosure Copper Accessories N
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 9、交换机 67 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SC-509.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -168,12 +187,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-509/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://nextik.co.in/) | html | 待首轮 | — | 官网首页 |
+| [home](https://nextik.co.in/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 5828 字符；首行：Leading Manufacturer of FTTH Solutions \| NexTik |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -204,17 +224,18 @@ updated: 2026-10-29
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424XGGPM-280W | 深挖对位：默认对位（FTTH / 交换机制造商 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档） | $180 USD EXW（㉕ ② 群发现价（群发价台账），30% 档公式为 $196.3——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（FTTH / 交换机制造商 OEM（闸 2 判定 · 30% 档）） |
+| **P1** | STC-424XGGM | 深挖对位：官网快照对位：10G/2.5G 词频 9、交换机 67 → 24 GE + 4×10G L2+ 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W） | $138.0 USD EXW（30% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（FTTH / 交换机制造商 OEM（闸 2 判定 · 30% 档）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：30% 档 $151.6 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），30% 档公式为 $196.3——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424XGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424XGGM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -224,7 +245,7 @@ updated: 2026-10-29
 
 - **S**：自有品牌/贴牌需求 = 现成 OEM 客户
 - **W**：南亚：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STC-424XGGPM-280W 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；规模（调研）：未知
+- **O**：P1 STC-424XGGM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；规模（调研）：未知
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -252,14 +273,14 @@ updated: 2026-10-29
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424XGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
+**主题**：STC-424XGGM - 24-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
 
 ```text
 Hi Anand,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGPM-280W - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $180 USD EXW (MOQ 1, 15-day validity).
+We supply a Marvell-based 24-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $138.0 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

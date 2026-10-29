@@ -1,6 +1,6 @@
 # XA-M004 · Industrial Solutions Inc · 加拿大
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 mikrotik-info `A-007`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W2-R04 2026-10-27）→ 下一动作 首触
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 mikrotik-info `A-007`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 首触
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱
@@ -76,13 +76,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W2-R04，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XA** — CA 主攻区工业分销、未触达 → A 首触
-- 活着吗：来源库 2026-09-22 核对在线；本轮未复查
+- 活着吗：在线（indsol.com，快照 2026-10-29）：Industrial Solutions Inc.
 - 一句话：工业自动化分销（Industrial Solutions Inc，Alberta，9 人；Moxa/Red Lion/N-Tron/Sixnet/eWon）；卖 N-Tron/Red Lion 工业交换机（8口非网管约 $500+）→ 中性货同规格 STI-280GE（Saga）约 $64（EXW 快照，15 天有效），做第二供应商/替换，价差 5 倍
 - 是什么人：工业自动化分销（Industrial Solutions Inc，Alberta，9 人；Moxa/Red Lion/N-Tron/Sixnet/eWon）；规模：工业自动化分销（Industrial Solutions Inc，Alberta，9 人；Moxa/Red Lion/N-Tron/Sixnet/eWon）
-- 在卖/在用：N-Tron、Red Lion、Anybus、Ewon
+- 在卖/在用：N-Tron、Red Lion、Anybus、Ewon、Phoenix Contact、Cisco、Moxa
 - 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — 工业交换机品类现成
 - 找得到人吗：sales@indsol.com（来源库公开邮箱）；KP：无具名
 - 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
@@ -93,6 +93,7 @@
 | 类型 | 说明 | 摘录 | 来源 | 日期 |
 |---|---|---|---|---|
 | 来源库官网/名录核对 | 阿尔伯塔工业自动化；【2026-09-22 补】仅 9 人小公司， Alberta/BC/Manitoba/Saskatchewan 四省。代理 Moxa、Red Lion、N-Tron、Sixnet、eWon、Phoenix Contact，主打工控与油气。 |  | https://indsol.com/ | 2026-09-22 |
+| 官网快照 | 官网在线；Industrial Solutions Inc. | Industrial Solutions Inc. | https://www.indsol.com/ | 2026-10-29 |
 
 草稿（英文，首触；Simon 发，Agent 不发）：
 
@@ -111,4 +112,5 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+轻卡：本轮未外查，沿用来源库官网/名录核对。

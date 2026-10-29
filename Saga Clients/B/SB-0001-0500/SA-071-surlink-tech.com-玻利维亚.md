@@ -29,7 +29,7 @@ s_mail: 8 msgs (out 8 / in 0), 2024-06-28 -> 2025-01-10
 p1: none
 price_tier: 20%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -157,7 +157,8 @@ updated: 2026-10-29
 - **KP**：Daniel Menacho（Ventas — 结构化布线 / BASOR 桥架 / Toten 机柜）kmenacho@surlink-tech.com +591 63338212〔http://www.surlink-tech.com/empresa.php〕
 - **KP**：Silvia Salas（Ventas Fibra Óptica — ADSS / 五金）ssalas@surlink-tech.com +591 63486474〔https://www.surlink-tech.com/contacto.php〕
 - **调研后定级**：B（原自动 A）——Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 550 只 90 W 注入器为明确量化需求且已回复；分销商身份可带后续 PoE 交换机。南美非主攻区但无需额外投入。先向 SmartByte 核实是否有 90 W（802.3bt）注入器及价格；若无，用 STC-28DGGPM（bt 版本核对）替代方案报价，分销价阶 20%。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + Corning 官方经销名录核对））
@@ -182,7 +183,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 待核型（无标准对应）（20% 档）——550 × 90W 工业 PoE 注入器：需 SmartByte 核型或外采配套；可顺带报 STI-288DGGPM 作 PoE 交换方案替代；分销 20% 档
 - **邮件切入句（英文）**：For the 550 units of 90W industrial PoE injectors, I am confirming the bt injector part number and MOQ pricing with the factory now; if a switch-based design is acceptable, the 8-port 90W-capable industrial PoE switch can be quoted immediately as an alternative.
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：surlink-tech.com
   > https://surlink-tech.com/ http 403 ct=text/html; charset=utf-8
@@ -224,7 +225,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-071/`；本节随档案重渲染刷新，实时看日志。
 

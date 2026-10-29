@@ -27,7 +27,7 @@ s_mail: 11 msgs (out 10 / in 1), 2025-01-13 -> 2025-11-19
 p1: STI-0160GE
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 3
 updated: 2026-10-29
 ```
@@ -62,6 +62,7 @@ updated: 2026-10-29
 | 2025-07-23 | 来 | Fosco Sales（Grace，sales@fo4sale.com） | HI Alan, Please send me more info about your product line, pricing and your website. Thanks. | 本户唯一真人来信——三件套要求 | `gmail_a cb73165c3eeea9fa` |
 | 2025-07-24 | 去 | Saga（Alan） | Hi, Grace, Please see attached download links for full info.（附 Download Link_Alan.pdf） | 断点：没有价、没有网站、没有型号清单 | `gmail_a a03d325cd72aad7c` |
 | 2025-11-19 | 去 | Saga（Alan，群发 → sales@foscoconnect.com） | （2025-08-26 Mini DIN / 09-19 光旁路 / 10-15 10G SFP / 11-19 四封群发，均无回） | 之后停发；本户在 2026 年的群发名单里已不在 | `gmail_a 2dbe7b958999a21f / ccf3841f6f306580 / 917dae8064969d5d` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Fiber Optic Cable Supplier, Distributor — Stocking distributor of fiber optic installation tools, bulk fiber cables, fiber patch cables, test equipment, cable management, fiber optic training and more. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：官网未爬：公司所在地（表内 CA）、是否上架交换机；「国内公司搭建的国外网站」是表内猜测，未证实
 
@@ -133,9 +134,10 @@ updated: 2026-10-29
 - **KP**：Grace（Fosco Sales）（）sales@fo4sale.com 〔gmail_a cb73165c3eeea9fa〕
 - **KP**：Colin Yao（创始人 / 业主（官网 + BBB「Sales Manager」= 老板亲自管销售）= **老板 = 联系人** → 光口交换机分销 20%（STI-154GP / STC-110XGE / STI-288DGGPM），FOB 深圳（第 90 批 官方登记核实 2026-10-27）） 〔https://www.fiberoptics4sale.com/〕
 - **调研后定级**：B（原自动 C）——第 71 批(i)：北美主攻区 + 真人要价（2025-07-23）——C 不成立；按 B 慢慢跟进。表内「疑国内公司海外站」留作风险，不影响报价。
-- 备注：由第 71 批(i)建档（Replied 标签 × 事实表无来信 复核）。 ｜ 国别更正为「美国」（country_fix）：Fiber Optics For Sale Co. 在加州 Pleasanton / Livermore（官网 / BBB），用户表「CA」= California 误作加拿大（第 90 批 / Q-65 2026-10-27）
+- 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。
+由第 71 批(i)建档（Replied 标签 × 事实表无来信 复核）。 ｜ 国别更正为「美国」（country_fix）：Fiber Optics For Sale Co. 在加州 Pleasanton / Livermore（官网 / BBB），用户表「CA」= California 误作加拿大（第 90 批 / Q-65 2026-10-27）
 
-### 加厚挖掘（2026-10-24 · 邮件复核 · 未爬官网）
+### 加厚挖掘（2026-10-24 · 邮件复核 · 未爬官网 + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -149,6 +151,21 @@ updated: 2026-10-29
 - **风险/边界**：线上店对价格极敏感；多品牌中国货源；2025-07 要价后给的是链接包，没有价——第一印象已打折
 - **Saga 对位结论**：P1 STI-0160GE（20% 档）——他回的是 16 口 DIN 千兆；线上分销按 20%
 - **邮件切入句（英文）**：把 2025-07-24 那封补完整：型号 + 价 + 交期 + 网站，一问「哪几款上架」
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://www.fiberoptics4sale.com　语言：en　站点地图 URL 数：742
+- **标题**：Fiber Optic Cable Supplier, Distributor
+- **描述**：Stocking distributor of fiber optic installation tools, bulk fiber cables, fiber patch cables, test equipment, cable management, fiber optic training and more.
+- **首页栏目**：Fosco Connect / Fiber Optic Tools / Optical Testing Equipment / Fiber Optic Cleaners / Patch Cables / Fiber Fusion Splicers / Fiber Optic Patch Panels / Volume Pricing or Custom Assembly
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 975、cable 581、switch 260、ethernet 252、poe 88、sfp 84、gigabit 77、industrial 52、media converter 28、wireless 21、10g 7、scada 3
+- **站内型号串**（正则抽取，含非交换机）：RS-232, RS-485, SFP28, QSFP28, EN50155, IEC-61850-3, FRM220, VFL-250, SML-1000-MD81-47-LCU, INJ-IG02-PHE, GE-125R, INJ-IG01-PHE
+- **站内公开邮箱**：colin@fo4sale.com, sales@foscoconnect.com
+- **产品类页面**：https://www.fiberoptics4sale.com/blogs/wave-optics/laser-q-switching；https://www.fiberoptics4sale.com/blogs/wave-optics/ultrafast-optical-switching；https://www.fiberoptics4sale.com/blogs/wave-optics/nonlinear-optical-modulators-and-switches；https://www.fiberoptics4sale.com/blogs/archive-posts/95044358-what-is-power-over-ethernet-poe；https://www.fiberoptics4sale.com/blogs/wave-optics/guided-wave-all-optical-modulators-and-switches；https://www.fiberoptics4sale.com/blogs/wave-optics/optical-fibers-for-industrial-laser-applications
+- **已抓子页**：[Acitve and Passive Fiber Optic and Networking Devices](https://www.fiberoptics4sale.com/collections/category_fiber-optic-devices/subcategory_wdm-products)；[PoE Injectors](https://www.fiberoptics4sale.com/collections/poe-injectors)；[PoE Extenders](https://www.fiberoptics4sale.com/collections/poe-extenders)；[Full Stock of Leviton's Cable Management Products](https://www.fiberoptics4sale.com/collections/subcategory_leviton-products)；[Fire Stop Products for IT Network Cabling Installation](https://www.fiberoptics4sale.com/collections/subcategory_fire-stop-products)；[Contact Fosco Connect (Fiber Optics For Sale Co.)](https://www.fiberoptics4sale.com/pages/help)
+- 首页正文摘录：Skip to content Fiber Optic Networking OSP Infrastructure Copper Optics Tutorial Help Need help? Call Us 510-319-9878 sales@foscoconnect.com Back Fiber Optic Bulk Cables Broadcast/Military Assemblies Cable Assemblies Cable Management Connectivity Consumables Fiber Devices Fiber Tools Fiber Termination Testing Equipment Back Networking Industrial Networking Media Convertion Switching & Network Equipment Transceivers &
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 55、PoE 88 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1136.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -191,12 +208,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1136/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://fiberoptics4sale.com/) | html | 待首轮 | — | 官网首页 |
+| [home](https://fiberoptics4sale.com/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 19362 字符；首行：Fiber Optic Cable Supplier, Distributor |
 
 ## 联系方式（已有 · 原值照录）
 

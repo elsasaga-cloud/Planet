@@ -285,13 +285,13 @@ A 维持但体量极小（1 人公司）：有真实装机场景（消防探测�
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-28T08:44:48Z
-- **最近变化摘要**：2026-10-28 home：内容变化：+8 −8 行
+- **监控层**：A 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 home：内容变化：+2 −2 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-017/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://parallaxdigital.co.uk/) | html | HTTP 200 | 2026-10-28T08:44:48Z | 7736 字符；首行：Parallax Digital – Digital products and services |
+| [home](https://parallaxdigital.co.uk/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 7738 字符；首行：Parallax Digital – Digital products and services |
 | [sitemap](https://parallaxdigital.co.uk/wp-sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
 | [news_1](https://parallaxdigital.co.uk/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6671 字符；首行：News – Parallax Digital |
 | [news_2](https://parallaxdigital.co.uk/projects/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4517 字符；首行：Projects – Parallax Digital |

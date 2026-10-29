@@ -25,7 +25,7 @@ last_contact: unknown
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
-site_snapshot: timeout  # 2026-10-21
+site_snapshot: timeout  # 2026-10-29
 sources: 3
 updated: 2026-10-29
 ```
@@ -128,7 +128,8 @@ updated: 2026-10-29
 - **KP**：Ahmet Can（店主（ASKON Konya 会员；Armiya 经销商）= 收件人本人（第 105 批 官方登记核实 2026-10-28））acan@cansisteknoloji.com +90 541 541 0010（WA）/ +90 332 447 4226〔官网 + 行业目录 + 用户 Clients 表〕
 - **KP**：Ahmet Can（店主（行业目录公开））—（见官网） 0541 541 0010〔https://guvenliksistemleri.net/konya-sehrindeki-guvenlik-sistemleri-fi〕
 - **调研后定级**：B（原自动 A）——微型零售安装店，单机需求（已报 $150 未回）；土耳其主攻区故保留 B 慢跟。
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 WA 一次性跟进 12 光 12 电报价有效期；成交则按零星小单处理。
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 需求映射））
@@ -148,7 +149,7 @@ WA 一次性跟进 12 光 12 电报价有效期；成交则按零星小单处理
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——安装商 25% 档：日常 STC-28DGGPM（$84.1）；其 12 光 12 电需求以已报 $150 机型跟进（型号待核），备选 STI-448DGGGM（8 GE + 8 SFP）
 - **邮件切入句（英文）**：Ahmet Bey, ISAF'ta sorduğunuz 12 fiber + 12 bakır PoE yönetilebilir switch için $150 teklifimiz geçerli; proje başladı mı, kaç adet gerekiyor?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：超时（站慢或封锁））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：超时（站慢或封锁））
 
 - 尝试域名：cansisteknoloji.com
   > https://cansisteknoloji.com/ conn: HTTPSConnectionPool(host='cansisteknoloji.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutErr
@@ -167,7 +168,7 @@ WA 一次性跟进 12 光 12 电报价有效期；成交则按零星小单处理
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-079/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |

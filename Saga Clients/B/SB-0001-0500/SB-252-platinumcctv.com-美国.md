@@ -23,7 +23,7 @@ s_mail: 24 msgs (out 23 / in 1), 2024-11-29 -> 2026-09-16
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -35,7 +35,7 @@ updated: 2026-10-29
 - **历史互动**：推送 10 次（2025-02-27 → 2025-10-24）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-13 $300（48 Port PoE Managed Switch）、2025-08-07 $240（24 Port Fiber Switch）、2025-10-02 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
+- **最大未知**：年走量与现供应商
 - **下一步**：不动 —；备用具名邮箱 → scott@platinumcctv.com —
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
@@ -52,6 +52,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-11-29 | 来 | 自动回复 | 自动回复里给出同事邮箱 scott@platinumcctv.com | 群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口 | `d15c53f56333d9f6` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Platinum CCTV - Security Cameras - It's ALL we do — Protect your Business with a Security Camera System that REALLY delivers on promises. Our AVM camera systems give you faster access to your video and the ability to playback with ease. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -123,9 +124,10 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（platinumcctv.com：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：在线（platinumcctv.com，快照 2026-10-29）：Platinum CCTV - Security Cameras - It's ALL we do
 - **是谁**：美国 Platinum CCTV（CCTV 网店/安装；表内「商业 PoE 较多外壳」「可以尝试多跟进一下」；KP Paul Cutrano（Director of Field Operations）；官网 http_error）；群发 10 次无回复。
 - **类型**：CCTV 网店/安装商（美国）
+- **在卖/在用品牌**：Hikvision, Dahua, Uniview
 - **【用户表】表内兴趣/备注**
   > 商业PoE 较多外壳
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
@@ -134,10 +136,11 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Paul Cutrano（Director of Field Operations（2019 起；前 AT&T 技师）= 收件人（第 106 批 官方登记核实 2026-10-28））paul@platinumcctv.com 〔用户表〕
 - **KP**：Scott Davidson（Account Manager（RocketReach）（第 106 批 官方登记核实 2026-10-28）） 〔https://rocketreach.co/platinum-cctv-management_b46d69c0fc5c87a1〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/brands_seen/site_contacts/deep/facts。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -155,14 +158,21 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——CCTV 配套 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8/16 PoE 位 HRUI（列表价，注明）
 - **邮件切入句（英文）**：Paul, for the PoE switches you deploy and sell with camera systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from single units, FCC/CE/RoHS, EXW USD — which PoE port count do your field crews install most?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
 
-- 尝试域名：platinumcctv.com
-  > https://platinumcctv.com/ http 403 ct=text/html; charset=utf-8
-  > https://www.platinumcctv.com/ http 403 ct=text/html; charset=utf-8
-  > http://platinumcctv.com/ http 403 ct=text/html; charset=utf-8
-- **提示**：抓取失败不代表公司不在；人工打开一次即可。
-- 数据文件：`data/saga_clients/site_snapshots/SB-252.json`
+- **首页**：https://platinumcctv.com/　语言：en　站点地图 URL 数：300
+- **标题**：Platinum CCTV - Security Cameras - It's ALL we do
+- **描述**：Protect your Business with a Security Camera System that REALLY delivers on promises. Our AVM camera systems give you faster access to your video and the ability to playback with ease.
+- **首页栏目**：Call Now: 630-225-0693 Or Get a Quote Here / Quality Security Camera Systems For Over 20 Years / Security Cameras Systems are all we do...we do them best / We Treat Your Video Like Data / Featured Products / Stay Connected / Menu Links / Categories
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 288、nvr 100、poe 36、switch 30、cctv 27、gigabit 10、access control 9、cable 9、surveillance 7、hikvision 5、dahua 5、sfp 4
+- **站内出现的品牌**：Hikvision, Dahua, Uniview　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RG-59, CAT-5, CAT-6, HD-8219, HD-PTZ4, RS-232, RS-485
+- **社媒**：https://twitter.com/PlatinumCCTV, https://www.instagram.com/platinum_cctv/, https://youtube.com/platinumcctv
+- **产品类页面**：https://platinumcctv.com/poe-switch.html；https://platinumcctv.com/48-port-gigabit-poe-managed-switch-for-ip-cameras-48-ports-poe-600w-power-budget-256g…；https://platinumcctv.com/8-port-poe-ndaa；https://platinumcctv.com/16-port-poe-ndaa；https://platinumcctv.com/4-port-poe-ndaa.html；https://platinumcctv.com/24-port-poe-ndaa.html
+- **已抓子页**：[PoE Switches to power your IP Cameras](https://platinumcctv.com/poe-switch.html)；[NVR Recorders CCTV / IP Cameras](https://platinumcctv.com/nvr-cctv.html)；[Manufacturing Camera Systems / NVR Security Camera Systems](https://platinumcctv.com/manufacturing-camera-systems.html)；[Corporate Retail Security Camera NVR Systems for Better Data](https://platinumcctv.com/retail-store-security-system.html)；[Platinum CCTV - Security Cameras - It's ALL we do / Product ](https://platinumcctv.com/product_index.asp)；[Technical Support and Service](https://platinumcctv.com/cctv-support)
+- 首页正文摘录：Home Tech Support Downloads Returns My Account Contact Blog Hello, Guest View Cart (0) Items Qty. Price Subtotal: View Cart Checkout home Call Now: 630-225-0693 Or Get a Quote Here 0 Items × Search Business Security Camera Systems Manufacturing Security Cameras Property Management Camera Systems Warehouse Security Cameras Retail Security Cameras Cannabis Facility Security Cameras Restaurant Security Cameras School Se
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 36、监控 422 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-252.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -209,7 +219,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-252/`；本节随档案重渲染刷新，实时看日志。
 
@@ -293,7 +303,6 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

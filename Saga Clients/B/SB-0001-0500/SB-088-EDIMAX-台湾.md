@@ -28,7 +28,7 @@ s_mail: 14 msgs (out 12 / in 2), 2025-03-27 -> 2026-09-08
 p1: STI-21616GP
 price_tier: 30%
 research: done
-site_snapshot: timeout  # 2026-10-21
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -40,7 +40,7 @@ updated: 2026-10-29
 - **历史互动**：实质回复 1 次；推送 8 次（2025-07-09 → 2025-07-09）；最近一次客户回复：2025-07-09：INFO
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（3/12 封有打开记录）：「Re: 16 Port Ethernet Switch」(2025-07-09)、「Re: 16 Port Ethernet Switch」(2025-08-22)、「Re: 16 Port Ethernet Switch」(2025-10-20) → 读者兴趣主题类别不明（看原主题）；—；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-29 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
+- **最大未知**：年走量与现供应商
 - **下一步**：2027 — —（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；STI-21616GP 为非管理，钩子「L2+」纠正；管理版 STI-21616XGGPM $322.6）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
@@ -61,6 +61,7 @@ updated: 2026-10-29
 | 2025-07-09 | 去 | Saga（Alan，群发 → contact@acelink.com.tw） | There is a 16-port Din Gigabit Ethernet switch for you. It is good for vehicle network and industrial automation. | 引出 Jesse 回复的那封，收件人是 Acelink 不是 EDIMAX | `gmail_a（thr 1836987067716081325）` |
 | 2025-08-22 | 去 | Saga（Alan） | Re: 16 Port Ethernet Switch（同线程催问） | 资料后第一次催，无回 | `gmail_a bdfe1e2f97b68dcb` |
 | 2025-10-20 | 去 | Saga（Alan） | Re: 16 Port Ethernet Switch（同线程第二次催） | 无回；之后转为群发 | `gmail_a 98f870e641fc26ff` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | EDIMAX - Netwoking Solution Provider including SMB Wi-Fi Access Point, AP Controller, SMB and Industrial PoE++ L2+ Switch, Industrial Embedded Wirless (Wi-Fi, B — Edimax provides vast and comprehensive product line fulfills all connectivity needs, whatever the network architecture or application req | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -124,6 +125,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（edimax.com；快照超时）
 - **是谁**：台湾网络品牌 EDIMAX（上市，消费 / SMB / 工业网络产品），表内 Jesse Chen / Bruce Yang 兴趣工业 FS、SFP、周边，2025-07 对 16 电回复 INFO。EDIMAX 工业线多为外购贴牌 → OEM 30%。台湾厂商口径：按继承规则台系品牌商不是「渠道客户」，但作为 OEM/贴牌采购方可按 OEM 30% 档跟进。
+- **在卖/在用品牌**：Edimax
 - **【官网快照】edimax.com 抓取超时（站点正常，反爬 / 慢）**
   > status timeout
   > 来源：https://www.edimax.com/（抓取 2026-10-21）
@@ -133,10 +135,11 @@ updated: 2026-10-29
 - **KP**：Jesse Chen（採購 / PM（2025-07 對 16 電回 INFO）= 收件人 — 一頁紙一次：貼標 OEM 30%，只給工業線 STI-154GP / 288DGGPM / 488DGGPM / 0240GE + 16 口 PoE STC-2216GP 一口價 + EDIMAX 標 / 自編貨號 / 付費樣機；SFP / 無線 明說不做；守界：同行 不給成本結構— 台灣常規：英文稿、20 / 25 / 30 + T/T 預付 + FOB 深圳、BSMI 不聲稱（第 116 批 官方登记核实 2026-10-28））jessechen@edimax.com.tw 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Bruce Yang（研究档联系人 = 抄送（第 116 批 官方登记核实 2026-10-28））bruceyang@edimax.com.tw 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：任冠生（董事長（twfile；上市 3047；統編 22164580；2026-03 代表人變更為 潘良榮）— 不發（第 116 批 官方登记核实 2026-10-28）） 〔https://www.twfile.com/item.aspx?no=22164580&sn=2461840〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 （无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照超时 + 表内：台系品牌 OEM））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照超时 + 表内：台系品牌 OEM） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -153,14 +156,19 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-21616GP（30% 档）——16 电工业 PoE → STI-21616GP 贴 EDIMAX 标（OEM 30%）；配套 SFP 不在价目（Q-32）。
 - **邮件切入句（英文）**：Jesse, on the 16-port industrial PoE you asked about — 16×PoE+ + 2 SFP, L2+ managed, −40~75 ℃, CE/FCC/RoHS; if EDIMAX is re-sourcing that SKU, I can send the OEM spec and a sample price this week.
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：超时（站慢或封锁））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
 
-- 尝试域名：edimax.com.tw, edimax.com
-  > https://edimax.com.tw/ conn: HTTPSConnectionPool(host='edimax.com.tw', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HT
-  > https://www.edimax.com.tw/ conn: HTTPSConnectionPool(host='www.edimax.com.tw', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError
-  > http://edimax.com.tw/ conn: HTTPConnectionPool(host='edimax.com.tw', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTP
-- **提示**：抓取失败不代表公司不在；人工打开一次即可。
-- 数据文件：`data/saga_clients/site_snapshots/SB-088.json`
+- **首页**：https://www.edimax.com/edimax/global　语言：未标　站点地图 URL 数：0
+- **标题**：EDIMAX - Netwoking Solution Provider including SMB Wi-Fi Access Point, AP Controller, SMB and Industrial PoE++ L2+ Switch, Industrial Embedded Wirless (Wi-Fi, B
+- **描述**：Edimax provides vast and comprehensive product line fulfills all connectivity needs, whatever the network architecture or application requirements are. Our products are distinguished by their cost-effectiveness and clear support and warranty conditions. The complete products range consists of SMB Wi
+- **首页栏目**：Easily Upgrade to Multi-Gigabit New Era / Turbocharged for Ultimate Performance! / Blaze Ahead with Wi-Fi 7 Next-Level Speed! / Compact. Portable. Stable. / Wi-Fi 7 Tri-Band Tiny USB Adapter / 2-in-1 Combo / World's First / Industrial Robust Design
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 40、switch 20、wireless 17、industrial 16、ethernet 12、cable 8、gigabit 7、sfp 6、camera 6、automation 4、media converter 4、surveillance 3
+- **站内出现的品牌**：Edimax　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：AC1200, AC1750, AC1300, AX1800, AC600, AC2600, AC750, AC900, AC650, AX3000, AV500, BE6500
+- **社媒**：https://www.edimax.com/edimax/global/, https://www.edimax.com/edimax/merchandise/merchandise_list/data/edimax/global/industrial/, https://www.edimax.com/edimax/merchandise/merchandise_list/data/edimax/global/industrial_outdoor/, https://www.edimax.com/edimax/merchandise/merchandise_list/data/edimax/global/industrial_outdoor_poe_extender/, https://www.edimax.com/edimax/merchandise/merchandise_list/data/edimax/global/industrial_outdoor_poe_injector/, https://www.edimax.com/edimax/merchandise/merchandise_list/data/edimax/global/industrial_switch/
+- 首页正文摘录：Global Edimax Global website Global︱English America USA︱English Europe Czech Republic︱Čeština Europe︱English France︱Français Germany︱Deutsch Italy︱Italiano Netherlands︱Nederlands Poland︱Polski Portugal︱Português Romania︱România Russian︱Россия Spain︱Español Ukraine︱Ukrainian United Kingdom︱English Asia Pacific Australia︱English China︱简体中文 HongKong︱繁體中文 Taiwan︱繁體中文 This site uses cookies. By continuing to browse the si
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 20、PoE 40 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-088.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -204,7 +212,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-088/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
@@ -291,7 +299,6 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

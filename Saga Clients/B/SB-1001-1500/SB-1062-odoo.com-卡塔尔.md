@@ -192,17 +192,17 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
-- **最近变化摘要**：2026-10-29 youtube：新增 9 条：2026-09-15T09:41:53 Odoo Insider - Tech Live Q&A；2026-10-29T05:02:08 Odoo 20 Unlock
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 youtube：新增 4 条：2026-09-17T11:28:06 Webinaire - Odoo 20 - Découvrez toutes les nouveautés dans les 
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1062/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.odoo.com/) | html | HTTP 200 | 2026-10-29T08:41:09Z | 6288 字符；首行：Open Source ERP and CRM \| Odoo |
+| [home](https://www.odoo.com/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 6292 字符；首行：Open Source ERP and CRM \| Odoo |
 | [sitemap](https://www.odoo.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
 | [news_1](https://www.odoo.com/blog) | html | HTTP 200 | 2026-10-29T08:41:09Z | 7729 字符；首行：Blog Posts \| Odoo |
 | [news_2](https://www.odoo.com/app/blog) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4065 字符；首行：Odoo \| Open Source Blogs alternative to Medium |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg) | rss | HTTP 200 | 2026-10-29T08:41:09Z | 15 条；最新：2026-09-15T09:41:53+00:00 Odoo Insider - Tech Live Q&A |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg) | rss | HTTP 200 | 2026-10-29T15:11:51Z | 15 条；最新：2026-09-17T11:28:06+00:00 Webinaire - Odoo 20 - Découvrez toutes les nouveautés da |
 
 - **人工定期看（登录墙，不自动抓）**：X/Twitter: https://twitter.com/Odoo；LinkedIn: https://www.linkedin.com/company/odoo；Instagram: https://www.instagram.com/odoo.official；Facebook: https://www.facebook.com/odoo
 

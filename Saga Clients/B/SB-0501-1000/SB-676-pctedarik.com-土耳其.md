@@ -191,13 +191,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
-- **最近变化摘要**：2026-10-29 youtube：新增 1 条：2026-10-21T13:18:28 Reolink P430 Kamera İnsan sağlıgı Güvenliği (İSG)
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 home：内容变化：+10 −10 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-676/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://pctedarik.com/) | html | HTTP 200 | 2026-10-29T08:41:09Z | 11945 字符；首行：Toptan Harddisk - Toptan Güvenlik Kamerası - Toptan Bilgisayar |
+| [home](https://pctedarik.com/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 11925 字符；首行：Toptan Harddisk - Toptan Güvenlik Kamerası - Toptan Bilgisayar |
 | [sitemap](https://pctedarik.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
 | [youtube](https://www.youtube.com/@pctedarik) | youtube_handle | HTTP 200 | 2026-10-29T08:41:09Z | 15 条；最新：2026-10-27T16:05:59+00:00 Çok Paran Olsa Ne Yaparsın? |
 

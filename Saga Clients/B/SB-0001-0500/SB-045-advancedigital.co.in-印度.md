@@ -28,7 +28,7 @@ last_contact: 2025-06-21
 p1: STI-110GE
 price_tier: 20%
 research: done
-site_snapshot: parked_or_empty  # 2026-10-21
+site_snapshot: parked_or_empty  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -126,7 +126,8 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Subodh（）info@advancedigital.co.in +91 94260 60606〔（本地 Clients/ 表格，无公开 URL）〕
 - **调研后定级**：B（原自动 A）——需求偏光产品（光模块/无源，非 Saga 主线），印度非主攻区，3 次回复后 12 次推送无果 → 慢跟。
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 WA 一次性给 MC/光口交换机（STI-110GE、STC 带 SFP 机型）价格。
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 表内））
@@ -146,7 +147,7 @@ WA 一次性给 MC/光口交换机（STI-110GE、STC 带 SFP 机型）价格。
 - **Saga 对位结论**：P1 STI-110GE（20% 档）——光产品经销 → 千兆工业 MC STI-110GE 作为价格锚；10G MC 按 SmartByte 型号报并注明。
 - **邮件切入句（英文）**：Subodh, you've had our optical/MC prices since 2024 but no project yet — is there one model (gigabit MC or 2-SFP + 4-port switch) where a 10-pc trial price would actually move stock for you?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：停放/空站（疑停业或仅占位））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：停放/空站（疑停业或仅占位））
 
 - 尝试域名：advancedigital.co.in
 - **提示**：域名停放/空站 → 公司可能已停业或换域名；跟进前先用邮箱/电话核实，勿只凭网站判死。
@@ -180,7 +181,7 @@ WA 一次性给 MC/光口交换机（STI-110GE、STC 带 SFP 机型）价格。
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-045/`；本节随档案重渲染刷新，实时看日志。
 

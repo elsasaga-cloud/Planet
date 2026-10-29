@@ -28,7 +28,7 @@ last_contact: unknown
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -128,7 +128,8 @@ updated: 2026-10-29
 - **KP**：Tajamal Ishaq（Manager（研究档；多次问 2 光 8 电管理 PoE / 2 光 4 小壳 / mini 工业机价格）= 收件人 — 一页纸一次：分销 20% B、STI-288DGGPM $137 / STI-154GP / STI-054GP mini + 工业电源搭配说明、一口价 + MOQ 1 + 付费样机、光猫不做明说 — 巴基斯坦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、PTA 不声称（第 118 批 官方登记核实 2026-10-28））tajamal@futurist.com.pk +92 333 519 9946〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Aqeel Abbas（CEO（研究档；邮箱未取）= 抄送抬头（第 118 批 官方登记核实 2026-10-28）） 〔https://rocketreach.co/aqeel-abbas-email_44568110〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 （无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（名录 + 海关核对））
@@ -155,7 +156,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——其最明确的问价对象 = 2 光 8 电管理 PoE，对应 Saga STC-28DGGPM；工业 4/8 口 PoE 备选 STI-144GP / STI-288GP 与竞品对价。
 - **邮件切入句（英文）**：Tajamal, you asked us for the 8-PoE + 2-SFP managed unit price and later compared a 4/8-port industrial PoE from another factory — if you send the exact port/PoE-budget spec you are benchmarking, I'll quote the matching Saga model EXW the same day.
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：futurist.com.pk
   > https://futurist.com.pk/ http 403 ct=text/html; charset=utf-8
@@ -195,7 +196,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-869/`；本节随档案重渲染刷新，实时看日志。
 

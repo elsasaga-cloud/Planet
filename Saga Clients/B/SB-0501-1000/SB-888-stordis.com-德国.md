@@ -23,7 +23,7 @@ s_mail: 14 msgs (out 13 / in 1), 2025-06-02 -> 2026-10-19
 p1: STC-424XGGM
 price_tier: 20%
 research: done
-site_snapshot: unreachable  # 2026-10-21
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -35,7 +35,7 @@ updated: 2026-10-29
 - **历史互动**：推送 6 次（2025-06-02 → 2025-11-05）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（1/13 封有打开记录）：「24 Port PoE Managed Switch」(2026-08-18) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2026-10-19 $180（24 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-07 $280（10G Enterprise SFP Switch）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
+- **最大未知**：年走量与现供应商
 - **下一步**：不动 — —（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
@@ -54,6 +54,7 @@ updated: 2026-10-29
 | 2025-06-02 | 去 | A 箱（Alan） | Marvell Alleycat5 Solution | 首封去信（邮箱索引；去信共 13 封） | `d5b5b2beabd2f82e` |
 | 2026-10-19 | 去 | S 箱（Simon） | 24 Port PoE Managed Switch | 最近一封去信（邮箱索引；去信共 13 封） | `8b14e4365d712787` |
 | 2026-09-24 | 来 | tomasz.sadowski@stordis.com | Automatic reply: Managed PoE Switches｜Hello,  Thank you for your message. I am currently out of office until Wednesday, Sep 30, 2026 and will have limited acc | 自动回复/退信（机器，不算人工回复） | `988c84b55fd3dd07` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | STORDIS - Network People · Open By Design — STORDIS is a service-oriented, value-adding company, dedicated to delivering the most advanced technology through Open Networking solutions. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -123,7 +124,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（stordis.com：域名不可达（DNS/连接失败），2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：在线（stordis.com，快照 2026-10-29）：STORDIS - Network People · Open By Design
 - **是谁**：德国 STORDIS（开放网络/白盒交换机分销商，英国有分公司；表内「AC5 芯片交换机很多，高速」；KP Tomasz Sadowski（Technical）、Mariusz Ślęzak；官网 unreachable）；群发 6 次无回复。
 - **类型**：开放网络分销商（德国/英国，Marvell AC5 平台）
 - **【用户表】表内兴趣/备注**
@@ -135,10 +136,11 @@ updated: 2026-10-29
 - **KP**：Tomasz Sadowski（Technical（研究档）= 技术收件人（第 104 批 官方登记核实 2026-10-28））tomasz.sadowski@stordis.com 〔用户表〕
 - **KP**：Mariusz Ślęzak（研究档 KP（职务未核）（第 104 批 官方登记核实 2026-10-28））mariusz.szlezak@stordis.com 〔用户表〕
 - **KP**：Waldemar Scheck（Geschäftsführer（单独代表；Stuttgart HRB 724261 在册）= 拍板人（经 info@ 转）（第 104 批 官方登记核实 2026-10-28）） 〔https://stordis.com/legal-notice-impressum/〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/deep/facts。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -156,14 +158,21 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-424XGGM（20% 档）——Marvell 平台契合 → 24 GE + 4×10G L2+ STC-424XGGM（$127.4 @20%）、48 口 PoE 10G 上联 STC-448XGGPM（$335.4）、24 口 PoE STC-424XGGPM-280W（$180）
 - **邮件切入句（英文）**：Tomasz, alongside the Marvell AC5-based switches you distribute, we supply Marvell-based 24-GE + 4×10G and 24/48-PoE + 4×10G L2+ access switches (neutral brand) from small lots, CE/RoHS, EXW USD — is there an entry-level managed access position your partners ask for?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名不可达（DNS/连接失败））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
 
-- 尝试域名：stordis.com
-  > https://stordis.com/ conn: HTTPSConnectionPool(host='stordis.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError("HTTPS
-  > https://www.stordis.com/ conn: HTTPSConnectionPool(host='www.stordis.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError("H
-  > http://stordis.com/ conn: HTTPConnectionPool(host='stordis.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError("HTTPCon
-- **提示**：域名不可达 → 表内域名可能拼错/过期；跟进前核对邮箱域名。
-- 数据文件：`data/saga_clients/site_snapshots/SB-888.json`
+- **首页**：https://stordis.com/　语言：en-US　站点地图 URL 数：242
+- **标题**：STORDIS - Network People · Open By Design
+- **描述**：STORDIS is a service-oriented, value-adding company, dedicated to delivering the most advanced technology through Open Networking solutions.
+- **首页栏目**：Edgecore Networks DCS203 (AS7326-56X) / 25G Cloud & Data Center Switch / Edgecore Networks DCS204 (AS7726-32X) / 100G Cloud & Data Center Switch / Edgecore Networks EXP100-32X / 100G Programmable Switch / Switch2Open S-SFP-25G-SR / 25G SR Open Standard SFP28 Transceiver / Enterprise SONiC Distribution by Broadcom / Network Operating System (NOS) / Open Networking Infrastructure for Modern Data Centers / Designed to keep your network running / Hardware, openly built
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 687、sfp 430、data center 158、cable 112、10g 79、poe 55、wireless 28、2.5g 26、gigabit 21、automation 17、fiber 16、telecom 15
+- **站内型号串**（正则抽取，含非交换机）：QSFP28, SFP28, DCS203, OSFP112, DCS204, AS7326-56X, AS7726-32X, MPO-8, EXP100-32X, OSFP224, EPS203, S-SFP-25G-SR
+- **站内公开邮箱**：.wojciechowski@stordis.com, alexander.scheck@stordis.com, als@stordis.com, anb@stordis.com, meetukaszstordisatocpglobalsummit2026@stordis.com, paw@stordis.com
+- **站内公开电话**：+49 711 342158 02, +49 711 342158 03
+- **产品类页面**：https://stordis.com/poe-switch-types/；https://stordis.com/noviflow-products-and-the-noviflow-switch-operating-system-nos/；https://stordis.com/discover-the-switch2open-product-line/；https://stordis.com/sonic-linux-switch/；https://stordis.com/why-bare-metal-switching/；https://stordis.com/switch-silicon-explained/
+- **已抓子页**：[Enterprise SONiC Linux-Express Bundle / SEB7726-32X-A-x-xY](https://stordis.com/product/enterprise-sonic-linux-switch-edgecore-eps203-as4630-54npe-36x2-5g-rj45-poe-12x10g-rj45-poe-4x25g-sfp28-2x100g-qsfp28-l2-l3-support-2-5g-campus/)；[#Open2Support Network Consultancy Services - STORDIS GmbH](https://stordis.com/product/open2support-network-consultancy-services/)；[Edgecore DCS203 (AS7326-56X) / 25G Switch](https://stordis.com/product/edgecore-networks-dcs203-as7326-56x-25g-cloud-data-center-switch/)；[Edgecore DCS204 (AS7726-32X) / 100G Switch](https://stordis.com/product/edgecore-networks-dcs204-as7726-32x-100g-cloud-data-center-switch/)；[BE Networks BEV-2SP-XY / Open2Support Orchestration](https://stordis.com/product/be-networks-bev-2sp-xy-i-verity-orchestration-subscription-for-managed-switch-1-5y/)；[Edgecore Networks IRX3032 / Optical Wavelength Switch (OWS)](https://stordis.com/product/edgecore-irx3032/)
+- 首页正文摘录：Test SONiC Download GNS3 VM Test OcNOS® Download VM AI Tool SmartCLAI - Configure SONiC Switch Hot Enterprise SONiC Support Ebook SONiC for AI Networks Ebook Validated Network Design Download the Validated Reference Design eBook Now Download the STORDIS AI Networks eBook Now 24/7 Network Hardware and Software Support STORDIS GmbH Network People · Open By Design All Products Cloud & Data Center 1G Switches 10G Switche
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 5、PoE 55 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-888.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -207,14 +216,14 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
 - **最近变化摘要**：2026-10-28 home：内容变化：+227 −3 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-888/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://stordis.com/) | html | ConnectionError: HTTPSConnectionPool(host='stordis.com', por | 2026-10-28T08:44:48Z | 官网首页（T27 快照状态 unreachable） |
-| [feed_auto](https://stordis.com/feed/) | rss | ConnectionError: HTTPSConnectionPool(host='stordis.com', por | 2026-10-27T08:02:45Z | 首页自动发现的 feed |
+| [home](https://stordis.com/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 19080 字符；首行：STORDIS - Network People · Open By Design |
+| [feed_auto](https://stordis.com/feed/) | rss | HTTP 200 | 2026-10-29T15:11:51Z | 10 条；最新：Fri, 09 Oct 2026 13:02:31 Coherent Optics Explained: 6 Critical Facts Powering 100 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -293,7 +302,6 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

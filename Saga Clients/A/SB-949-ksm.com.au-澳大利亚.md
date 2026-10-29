@@ -24,7 +24,7 @@ s_mail: 47 msgs (out 32 / in 15), 2024-04-29 -> 2026-09-04
 p1: STI-280GE
 price_tier: 20%
 research: done
-site_snapshot: unreachable  # 2026-10-21
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -36,7 +36,7 @@ updated: 2026-10-29
 - **历史互动**：推送 22 次（2024-04-30 → 2025-10-20）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（1/32 封有打开记录）：「Industrial PoE Switch」(2025-08-12) → 读者兴趣偏「工业」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-25 $65（10G fiber media converter）、2024-11-22 $300（48 Port PoE Managed Switch）、2024-12-23 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
-- **最大未知**：官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
+- **最大未知**：年走量与现供应商
 - **下一步**：不动 — —（第 76 批(c) 2026-10-25：0 事实户补时间线事实）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
@@ -58,6 +58,7 @@ updated: 2026-10-29
 | 2024-05-23 | 来 | sales@ksm.com.au | Thank you for your email, please select from one of the options below?｜In order to best service your inquiry, please make a selection:   For immediate attention please call reception: 02 8003 | 自动分流回复（「please select from one of the options」，机器） | `8c52c7e804df5e5b` |
 | 2024-06-25 | 来 | sales@ksm.com.au | Thank you for your email, please select from one of the options below?｜In order to best service your inquiry, please make a selection:   For immediate attention please call reception: 02 8003 | 自动分流回复（「please select from one of the options」，机器） | `c09ebf5a9eef70eb` |
 | 2024-07-19 | 来 | sales@ksm.com.au | Thank you for your email, please select from one of the options below?｜In order to best service your inquiry, please make a selection:   For immediate attention please call reception: 02 8003 | 自动分流回复（「please select from one of the options」，机器） | `44c06ef904f344a1` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | KSM Solutions — KSM Solutions, KSM Australia | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -131,7 +132,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（ksm.com.au：域名不可达（DNS/连接失败），2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：在线（ksm.com.au，快照 2026-10-29）：KSM Solutions
 - **是谁**：澳大利亚 KSM（ksm.com.au：工业 MC「很多外壳 有像国内的」、常总的工业 FS、商业 FS、SFP；产品页 industrial-grade-managed-l2-ethernet-switch-l2t4m；KP Kevin（质量高）；官网 unreachable）；群发 22 次无回复。
 - **类型**：工业网络经销商（澳大利亚，国内货源在供）
 - **【用户表】表内兴趣/备注**
@@ -145,10 +146,11 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Kevin（Director（官网署名「Kevin - Director」；22 次跟进无回复）= 拍板人 / 收件人 — 一页纸一次（最后一次）：分销 20% B small、STI-288DGGPM $137 / STI-488DGGPM $147 / STI-154GP 宽温 + 3 年保 + MOQ 1 + 付费样机、与现供应商同级比价 — 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、RCM 不声称（DAP 买方清关）（第 118 批 官方登记核实 2026-10-28））kevin@ksm.com.au 〔用户表〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/deep/facts。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -166,14 +168,19 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-280GE（20% 档）——工业 L2 管理交换机位（现国内货源）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GPM（$78.9）、工业千兆 MC STI-110GE（$22.4）
 - **邮件切入句（英文）**：Kevin, for the industrial managed switch and MC positions on your site, we supply Marvell-based DIN-rail 8-GE/8-PoE + 2 SFP managed switches and gigabit MCs (−40~75 °C, CE/RoHS) from single units, EXW USD; RCM by your side — which SKU do your Australian customers reorder most?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名不可达（DNS/连接失败））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
 
-- 尝试域名：ksm.com.au
-  > https://ksm.com.au/ conn: HTTPSConnectionPool(host='ksm.com.au', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPS
-  > https://www.ksm.com.au/ conn: HTTPSConnectionPool(host='www.ksm.com.au', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("H
-  > http://ksm.com.au/ conn: HTTPConnectionPool(host='ksm.com.au', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPCon
-- **提示**：域名不可达 → 表内域名可能拼错/过期；跟进前核对邮箱域名。
-- 数据文件：`data/saga_clients/site_snapshots/SB-949.json`
+- **首页**：https://www.ksm.com.au/　语言：en　站点地图 URL 数：0
+- **标题**：KSM Solutions
+- **描述**：KSM Solutions, KSM Australia
+- **首页栏目**：Welcome to KSM Solutions e-store!
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fibre 195、ethernet 170、industrial 58、sfp 56、media converter 54、switch 48、fiber 31、poe 28
+- **站内公开邮箱**：sales@ksm.com.au
+- **站内公开电话**：+61 (0)41 2921435
+- **已抓子页**：[Managed Industrial Switches L2, L2+ & L3](https://www.ksm.com.au/managed-industrial-switches-l2-l2-l3/)；[Industrial POE Fibre Media Converter 100Mbps/1Gbps](https://www.ksm.com.au/industrial-poe-fibre-media-converter-100mbps-1gbps/)；[Fiber Ethernet Switch](https://www.ksm.com.au/fibre-ethernet-switch/)；[Fiber Ethernet Switch Multimode 2 Port Multimode 4 Port Ethe](https://www.ksm.com.au/fibre-ethernet-switch/2-port-multimode-4-port-ethernet/)；[Fiber Ethernet Switch Single Mode 2 Port Single Mode 4 Port ](https://www.ksm.com.au/fibre-ethernet-switch/2-port-single-mode-4-port-ethernet/)；[Fiber Ethernet Switch 1 to 8 Port Fiber to 2 to 8 Port Ether](https://www.ksm.com.au/fibre-ethernet-switch/1-8-port-fibre-to-2-8-port-ethernet/)
+- 首页正文摘录：Products About Us Contact Us My Account Shopping Cart - 0 Items Menu Shop Cart ( 0 ) Account Product Support By the Hour Fibre Transceiver SFP Module 1.25G Multimode 0.55KM 1.25G Single Mode 20-120KM 1.25G Bidirection Single Mode 20-120KM RJ45 Ethernet SFP Module Autonegotiate 10/100/1000M Fixed 1000M Fibre Ethernet Switch 2 Port Multimode 4 Port Ethernet 2 Port Single Mode 4 Port Ethernet 1 Port Single Mode Mutimode
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 58、PoE 28 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-949.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -235,7 +242,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T08:41:09Z
 - **最近变化摘要**：2026-10-29 home：内容变化：+2 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-949/`；本节随档案重渲染刷新，实时看日志。
 
@@ -317,7 +324,6 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

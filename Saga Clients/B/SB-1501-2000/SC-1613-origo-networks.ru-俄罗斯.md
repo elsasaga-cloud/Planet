@@ -28,7 +28,7 @@ last_contact: unknown
 p1: STC-424XGGPM-280W
 price_tier: 30%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -38,7 +38,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（★ 正式）：★ 俄罗斯 · 自有品牌商 OEM 30%（长线）：ORIGO Networks（origo-networks.ru 官网直取：L3 24×2.5G PoE / CCTV PoE 交换机 / Wi-Fi 6 / 10G MC 全线自有品牌；2025-05 参展 COMPUTEX、2025-09 L3 取证）部分坐实（ИНН 未取，联系页 404）；Simon「自己的白色外壳 / 比较重要」✔ 对位 ✔ → P 池候选（官网找 sale…（调研 2026-10-29；表内兴趣：自己的白色外壳  有人在卖他们的）
 - **为什么是 B 级**：**调研后定级 B**（Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 俄罗斯 · 自有品牌商 OEM 30%（长线）：ORIGO Networks（origo-networks.ru 官网直取：L3 24×2.5G PoE / CCTV PoE 交换机 / Wi-Fi 6 / 10G MC 全线自有品牌；2025-05 参展 COMPUTEX、2025-09 L3 取证）部分坐实（ИНН 未取，联系页 404）；Simon「自己的白色外壳 / 比较重要」✔ 对…；闸 1：俄罗斯 ORIGO Networks（origo-networks.ru 正常；Simon：「自己的白色外壳，有人在卖他们的」「比较重要」；无邮箱 / 无电话）：自有品牌交换机商 = OEM 对象 ✔ 俄罗斯点名区 ✔ 对位 ✔ Simo…）；自动分级 C：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-424XGGPM-280W — 默认对位（自有品牌商 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）；
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-424XGGPM-280W — 官网快照对位：PoE 词频 249、监控 1 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）；
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动：LT-01 复核（待过）后再定 — 长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
@@ -51,7 +51,7 @@ updated: 2026-10-29
 - **现状一句话**：C 池三闸捞出 → B（LT-01）：★ 俄罗斯 · 自有品牌商 OEM 30%（长线）：ORIGO Networks（origo-networks.ru 官网直取：L3 24×2.5G PoE / CCTV PoE 交换机 / Wi-Fi 6 / 10G MC 全线自有品牌；2025-05 参展 COMPUTEX、2025-09 L3 取证）部分坐实（ИНН 未取，联系页 404）；Simon「自己的白色外壳 / 比较重要」✔ 对…
 - **对方真实需求（有据）**：未知（无往来；复核时从官网 / 进口数据 / 项目推断）
 - **断点 / 为什么停在这里**：无往来（从未触达或仅群发无回）
-- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（% 档，价见价格主表）——默认对位（自有品牌商 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
+- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（% 档，价见价格主表）——官网快照对位：PoE 词频 249、监控 1 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）
 - **下一步（具体）**：不动：LT-01 复核（待过）后再定　—　长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -112,10 +112,11 @@ updated: 2026-10-29
 - **【长期群复核 LT-R03】桌面复核（闸 2 证据，三问成立）：★ 俄罗斯 · 自有品牌商 OEM 30%（长线）：ORIGO Networks（origo-networks.ru 官网直取：L3 24×2.5G PoE / CCTV PoE 交换机 / Wi-Fi 6 / 10G MC 全线自有品牌；2025-05 参展 COMPUTEX、2025-09 L3 取证）部分坐实（ИНН 未取，联系页 404）；Simon「自己的白色外壳 / 比较重要」✔ 对位…**
   > 来源：（抓取 2026-10-29）
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 俄罗斯 · 自有品牌商 OEM 30%（长线）：ORIGO Networks（origo-networks.ru 官网直取：L3 24×2.5G PoE / CCTV PoE 交换机 / Wi-Fi 6 / 10G MC 全线自有品牌；2025-05 参展 COMPUTEX、2025-09 L3 取证）部分坐实（ИНН 未取，联系页 404）；Simon「自己的白色外壳 / 比较重要」✔ 对…；闸 1：俄罗斯 ORIGO Networks（origo-networks.ru 正常；Simon：「自己的白色外壳，有人在卖他们的」「比较重要」；无邮箱 / 无电话）：自有品牌交换机商 = OEM 对象 ✔ 俄罗斯点名区 ✔ 对位 ✔ Simo…
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/saga_fit/deep。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -128,7 +129,19 @@ updated: 2026-10-29
   - 表内兴趣：自己的白色外壳 
 有人在卖他们的
 - **风险/边界**：**俄罗斯 · 自有品牌商 OEM 30%（长线）：官网产品页找 sales@ / 采购后一页纸（STC-028GP $28 / STC-2224GP $86 / STC-424XGGPM-280W $198 中性包装 + 贴 ORIGO 牌；他们已有 2.5G L3 线 → 推 SmartByte / Marvell 管理线差异）— 俄语区常规：英 / 俄稿、20 / 25 / 30；收款 / ；登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号
-- **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——默认对位（自有品牌商 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
+- **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——官网快照对位：PoE 词频 249、监控 1 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://origo-networks.ru/　语言：未标　站点地图 URL 数：0
+- **标题**：Origo – Сетевое оборудование для дома и бизнеса
+- **首页栏目**：КОММУТАТОРЫ ORIGO / КОММУТАТОРЫ ДЛЯ CCTV / Новинки / Мультигигабитный Mesh Wi-Fi 6 роутер AX3000 / L3 коммутатор 24x2.5G PoE, 6x10G SFP+ / Медиаконвертер 10GBase-T/10G SFP+ / Новости / Компании Hadal Project и ORIGO объявляют о технологическом партнерстве
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 249、sfp 123、10g 31、2.5g 6、gigabit 5、ethernet 1、cctv 1
+- **站内型号串**（正则抽取，含非交换机）：QSFP28, RJ-45, OS6226, OI2210P, OS2210FP, SFP28, OS5230P, OS3228, OS3254, OI3120P, OI3112P, OI3106P
+- **已抓子页**：[PoE-адаптеры](https://origo-networks.ru/products/19/)；[Коммутаторы](https://origo-networks.ru/products/1/|2_4)；[Коммутаторы](https://origo-networks.ru/products/1/)；[Wi-Fi адаптеры](https://origo-networks.ru/products/8/)；[Устройства USB](https://origo-networks.ru/products/9/)；[Трансиверы и кабели](https://origo-networks.ru/products/21/)
+- 首页正文摘录：Продукты Коммутаторы Трансиверы и кабели Медиаконвертеры Сетевые платформы Сетевые адаптеры PCI-E Wi-Fi маршрутизаторы Контроллеры и точки доступа Wi-Fi антенны Wi-Fi адаптеры PoE-адаптеры IP-телефоны KVM-переключатели Устройства USB Где купить Дистрибьюторы Прайс-лист Поддержка Техническая поддержка Сервисное обслуживание Гарантия Дополнительные услуги О компании Информация о компании Новости Логотип Все результаты 
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 249、监控 1 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SC-1613.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -140,12 +153,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-1613/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://origo-networks.ru/) | html | 待首轮 | — | 官网首页 |
+| [home](https://origo-networks.ru/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 1420 字符；首行：Origo – Сетевое оборудование для дома и бизнеса |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -173,7 +187,7 @@ updated: 2026-10-29
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424XGGPM-280W | 深挖对位：默认对位（自有品牌商 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档） | $180 USD EXW（㉕ ② 群发现价（群发价台账），30% 档公式为 $196.3——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（自有品牌商 OEM（闸 2 判定 · 30% 档）） |
+| **P1** | STC-424XGGPM-280W | 深挖对位：官网快照对位：PoE 词频 249、监控 1 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W） | $180 USD EXW（㉕ ② 群发现价（群发价台账），30% 档公式为 $196.3——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（自有品牌商 OEM（闸 2 判定 · 30% 档）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：30% 档 $151.6 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 

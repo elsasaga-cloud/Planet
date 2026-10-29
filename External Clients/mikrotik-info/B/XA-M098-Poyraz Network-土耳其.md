@@ -1,6 +1,6 @@
 # XA-M098 · Poyraz Network · 土耳其
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 mikrotik-info `A-463`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R01 2026-10-27）→ 下一动作 第二封
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 mikrotik-info `A-463`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 第二封
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱
@@ -70,13 +70,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W1-R01，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XA** — TR 主攻区 Master Distributor、交换机专类 → 维持 A（TR 优先级最高之一）
-- 活着吗：来源库 2026-09-28 官网核对在线；本轮未复查
+- 活着吗：在线（poyraznetwork.com，快照 2026-10-29）：Dealer Dashboard | Poyraz Network
 - 一句话：Kocaeli 的 MikroTik Master Distributor（另 Ubiquiti 授权分销、Mimosa/Cudy/V-Sol），5000+ 产品、B2B 经销商价、培训项目，10 年经验。
 - 是什么人：MikroTik Master Distributor + 多牌（B2B）；规模：小型（未查）
-- 在卖/在用：MikroTik、Ubiquiti、Mimosa、Cudy、V-Sol
+- 在卖/在用：MikroTik、Ubiquiti、Mimosa、Cudy、V-Sol、Cambium、Tenda
 - 对口哪条线：SmartByte 商用 L2+（已发）→ 第二封换 STI 工业 L2+ PoE 补位 — TR 头部 MikroTik 分销，交换机专类，经销商网络大
 - 找得到人吗：sales@poyraznetwork.com（来源库首选（official-company/channel））；KP：无具名
 - 已触达：9-28~10-10 群发 24 口 PoE L2+ → 已发未回
@@ -88,6 +88,7 @@
 |---|---|---|---|---|
 | 来源库官网核对 | Poyraz Network 为 MikroTik Master Distributor（另 Ubiquiti Authorized Distributor），导航含 Switches 与 Training Programs，5000+ 产品 |  | https://poyraznetwork.com/us | 2026-09-28 |
 | 来源库群发记录 | R71：本户一轮跟进已完成（用户报告），逐户日期/收件地址未记录 |  | External Clients/mikrotik-info/A/XA-M098 | 2026-10-12 |
+| 官网快照 | 官网在线；Dealer Dashboard ｜ Poyraz Network | B2B Dealer Dashboard | https://poyraznetwork.com/us | 2026-10-29 |
 
 草稿（英文，第二封；Simon 发，Agent 不发）：
 
@@ -106,4 +107,5 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：轻卡：本轮未外查，沿用来源库官网核对（R53 2026-09-28 / R63 2026-10-06）。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+轻卡：本轮未外查，沿用来源库官网核对（R53 2026-09-28 / R63 2026-10-06）。

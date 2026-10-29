@@ -29,7 +29,7 @@ s_mail: 11 msgs (out 11 / in 0), 2024-06-14 -> 2024-12-30
 p1: STC-424XGGPM-280W
 price_tier: 30%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -117,10 +117,11 @@ updated: 2026-10-29
 - **KP**：—（表内邮箱（公开 / 总机））sales@globusinfocom.com 〔〕
 - **KP**：—（表内邮箱（公开 / 总机））ashish@globusinfocom.com 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 自有品牌 · OEM 30%：Globus Infocom Limited（Noida；官网页脚 CIN U72100UP2001PLC126647；2001；Make-in-India 教育科技 / 显示 / 安防品牌；InfoComm 2023/2024 参展）坐实；自有品牌 ✔ 参展活跃 ✔ 对位 ✔ 坐实 ✔ → P 池候选；闸 1：印度 Globus Infocom（globusinfocom.com；自有品牌 AV / 安防，工业 FS；Ashish@ 具名在表）：自有品牌 = OEM 对象 ✔ 对位 ✔ 具名 KP ✔ Simon 点名印度；未触达 → 闸 2 …
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/saga_fit.basis/deep。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -133,6 +134,22 @@ updated: 2026-10-29
   - 表内兴趣：工业FS
 - **风险/边界**：**自有品牌多线 → OEM 30%：一页纸一次（STC-228GP / STC-2224GP 贴牌 Globus + 中性包装 + MOQ 1 + 付费样机；教育校园 PoE 场景）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC /
 - **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://www.globusinfocom.com/　语言：en　站点地图 URL 数：380
+- **标题**：Globus Infocom Limited
+- **描述**：India’s only Make in India brand, offering customized solutions for Education Technology, Collaborative Conferencing & Professional Displays and Security and Surveillance
+- **首页栏目**：Support Request / Creating intelligent and coherent technology ecosystem for 25+ years / Range of Softwares / Technology That Powers Success / Creating intelligent and coherent technology ecosystem for 24+ years
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 13、surveillance 1
+- **站内型号串**（正则抽取，含非交换机）：C6-PUV12, C6-PV12, C6UH-V20, C6UH-M30
+- **站内公开邮箱**：helpdesk@globusinfocom.com, info@globusinfocom.com
+- **站内公开电话**：+91 8588839434
+- **社媒**：http://twitter.com/home?status=Digital+Language+Lab+Solution+https%3A%2F%2Fwww.globusinfocom.com%2Fdigital-language-lab-solution, http://www.facebook.com/sharer.php?s=100&p[url]=https%3A%2F%2Fwww.globusinfocom.com%2Fdigital-language-lab-solution&p[images][0]=https%3A%2F%2Fwww.globusinfocom.com%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2F1%2Fimage%2F9df78eab33525d08d6e5fb8d27136e95%2Fb%2Fh%2Fbhashalearnia.jpg&p[title]=Digital+Language+Lab+Solution&p[summary]=%3Cul+class%3D%22prdt_specs%22%3E+%3Cbr+%2F%3E%0D%0A%3Cli%3EMultilingual+courses+in+English%2C+Hindi%2C+Spanish%2C+French+%26+Sanskrit%3C%2FlI%3E%3Cbr+%2F%3E%0D%0A%3Cli%3EOnline+and+Offline+mode%3C%2Fli%3E%3Cbr+%2F%3E%0D%0A%3Cli%3EMTI+Tool+to+remove+Mother+Tongue+Influence%3C%2Fli%3E+%3Cbr+%2F%3E%0D%0A%3Cli%3ESounds+%26ndash%3B+Jaw+Movement+Videos%3C%2Fli%3E+%3Cbr+%2F%3E%0D%0A%3Cli%3EGamified+Quizzes+along+with+Vocabulary+practice+tool%3C%2Fli%3E+%3Cbr+%2F%3E%0D%0A%3Cli%3E500%2B+Hours+of+content+library%3C%2Fli%3E%3Cbr+%2F%3E%0D%0A%3C%2Ful%3E%3Cbr+%2F%3E%0D%0A%3Cp%3E%3Cimg+src%3D%22https%3A%2F%2Fwww.globusinfocom.com%2Fmedia%2Fwysiwyg%2Flanguage-lab-icon.png%22+style%3D%22width%3A+62%25%3B%22+%2F%3E%3C%2Fp%3E, https://instagram.com/globusinfocomlimited, https://twitter.com/globus_infocom, https://www.facebook.com/globusinfocomlimited/, https://www.linkedin.com/company/1437289/admin/dashboard/
+- **产品类页面**：https://www.globusinfocom.com/8-port-industrial-gigabit-ethernet-poe-switch-with-4-sfp-uplink-port-managed-lay…；https://www.globusinfocom.com/security-and-surveillance/networking/poe-switch/；https://www.globusinfocom.com/security-and-surveillance/networking/industrial-switch/；https://www.globusinfocom.com/8-port-fast-ethernet-poe-switch-with-2-gigabit-uplink-port/；https://www.globusinfocom.com/16-port-gigabit-ethernet-poe-switch-with-2-sfp-uplink-port/；https://www.globusinfocom.com/8-port-gigabit-ethernet-poe-switch-with-2-sfp-uplink-port-managed/
+- **已抓子页**：[Contact Us](https://www.globusinfocom.com/contacts)；[Partner With Us](https://www.globusinfocom.com/partner-with-us)；[PTZ Camera Camera](https://www.globusinfocom.com/camera/ptz-camera)；[Furniture Solution](https://www.globusinfocom.com/solution/furniture)；[Digital Language Lab Solution / Sanskrit language lab-Globus](https://www.globusinfocom.com/digital-language-lab-solution)
+- 首页正文摘录：Partner with Us Service Support × Support Request Submit Request or Mail to helpdesk@globusinfocom.com Call to TOLL FREE Number 1800-419-4398 (MON-SAT 9:30 HRS - 18:00 HRS) Creating intelligent and coherent technology ecosystem for 25+ years Emerged as a leading Make-in-India EdTech brand we are committed to transform education. We understand how technology has the power to change lives for the better, therefore, we 
+- 数据文件：`data/saga_clients/site_snapshots/SC-1352.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -167,12 +184,14 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-1352/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://globusinfocom.com/) | html | 待首轮 | — | 官网首页 |
+| [home](https://globusinfocom.com/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 3717 字符；首行：Globus Infocom Limited |
+| [feed_auto](https://www.globusinfocom.com/blog/rss/index/store_id/1/) | rss | HTTP 200 | 2026-10-29T15:11:51Z | 139 条；最新：Wed, 12 Feb 2025 06:03:00 Choose the right software for English language learning |
 
 ## 联系方式（已有 · 原值照录）
 

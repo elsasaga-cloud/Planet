@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -52,6 +52,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 2+8千兆商业PoE / from: 阿里巴巴RFQ | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：bwsystems.de MX mx01.ionos.de. / mx00.ionos.de.；A 217.160.0.214；NS ns1042.ui-dns.de. / ns1042.ui-dns.org. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -107,7 +108,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（BWsystems：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（bwsystems.de：HTTP 错误，2026-10-29，第 2 次）
 - **是谁**：德国 BWsystems（bwsystems.de；阿里巴巴 RFQ「2+8 千兆商业 PoE」；KP Hans Georg Werner；官网 http_error）；表内未跟进。
 - **类型**：系统集成商（德国，2+8 PoE RFQ）
 - **【用户表】表内兴趣/备注**
@@ -117,7 +118,8 @@ updated: 2026-10-29
   > 2+8千兆商业PoE / from: 阿里巴巴RFQ
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Hans-Georg Werner（Inhaber（Einzelunternehmen；USt-ID DE137120780）= 收件人本人（第 105 批 官方登记核实 2026-10-28））service@bwsystems.de 〔用户表〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -138,7 +140,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——RFQ 8 PoE + 2 SFP 千兆 → 恰为 STC-28DGGPM（$84.1 @25%）；待核时效
 - **邮件切入句（英文）**：Hans Georg, following your request for a gigabit 8-PoE + 2-SFP commercial switch: our Marvell-based L2+ model (8 × PoE+ 120 W budget, 2 × SFP, VLAN/QoS, CE/RoHS) ships from single units, EXW USD, 10–15 days — is the requirement still open, and how many units?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：bwsystems.de
   > https://bwsystems.de/ conn: HTTPSConnectionPool(host='bwsystems.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[S
@@ -157,7 +159,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-24T04:35:40Z
 - **最近变化摘要**：2026-10-24 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-321/`；本节随档案重渲染刷新，实时看日志。
 

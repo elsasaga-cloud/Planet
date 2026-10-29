@@ -1,10 +1,10 @@
 # XA-M276 · DMI COMPUTER · 西班牙
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 mikrotik-info `B-462`（原评级 B，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W2-R05c 2026-10-27）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 mikrotik-info `B-462`（原评级 B，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱（含实名 KP）
-- 研究后改级：XA → **XB**（W2-R05c，大型广线/集团分销，决策链长 → B 慢慢跟进）；编号不变
+- 研究后改级：XA → **XB**（LT-T03，大型广线/集团分销，决策链长 → B 慢慢跟进）；编号不变
 - 人工改级：XB（2026-10-29，Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径））；编号不变
 - 标记：S箱已群发
 - 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
@@ -83,13 +83,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W2-R05c，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — 大型广线/集团分销，决策链长 → B 慢慢跟进
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：在线（dmi.es，快照 2026-10-29）：DMI Computer S.A. - Mayorista y distribuidor Informático
 - 一句话：大型广线 IT 分销（DMI Computer，Madrid）；MikroTik 官方分销，商用线可直接比价，工业线为零 → 新品类增量
 - 是什么人：大型广线 IT 分销（DMI Computer，Madrid）；规模：未量化
-- 在卖/在用：MikroTik（Master、VAD）
+- 在卖/在用：MikroTik（Master、VAD）、Ubiquiti
 - 对口哪条线：—
 - 找得到人吗：clientes@dmi.es（来源库公开邮箱）；KP：无具名
 - 已触达：S 箱 2026-10-10 群发「24 Port PoE Managed Switch」→ 已发未回
@@ -101,5 +101,7 @@
 |---|---|---|---|---|
 | 来源库官网/名录核对 | Madrid |  | https://dmi.es/ | 2026-09-28 |
 | S 箱群发记录 | S 箱 2026-10-10 发 clientes@dmi.es「24 Port PoE Managed Switch」，去 1 来 0 |  | data/gmail_s/2026-09_10群发名单_未入库.csv | 2026-10-10 |
+| 官网快照 | 官网在线；DMI Computer S.A. - Mayorista y distribuidor Informático | Mayorista informático nacional, especializado en el hardware de ordenadores con más de 20 años de experiencia. | https://www.dmi.es/ | 2026-10-29 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+轻卡：本轮未外查，沿用来源库官网/名录核对。

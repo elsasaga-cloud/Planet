@@ -23,7 +23,7 @@ s_mail: 2 msgs (out 2 / in 0), 2026-03-11 -> 2026-08-10
 p1: STI-280GE
 price_tier: 20%
 research: done
-site_snapshot: parked_or_empty  # 2026-10-21
+site_snapshot: parked_or_empty  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -54,6 +54,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-08-10 | 去 | A 群发 | OEM Core Switching Solution、24 Port PoE Managed Switch | 2 封 / 0 次打开 / 0 回｜首封 2026-03-11 → 末封 2026-08-10（2 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 也有光路的工业FS | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：lendoux.com MX mail.lendoux.com.；A 51.79.87.52；NS ns2.gcdn.services. / ns1.gcorelabs.net. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -112,7 +113,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（lendoux.com：停放/空站（疑停业或仅占位），2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：在线（lendoux.com「Lendoux Specialized Store」；快照 parked 判定为误判，2026-10-29）
 - **是谁**：加拿大 Lendoux Specialized Store（数据中心设备、电信网络、安防系统与工业仪表的多品牌专业商店；表内「也有光路的工业 FS」；KP Rasel Haddadi（CEO，未显示邮箱）；快照 parked_or_empty）；表内未跟进。
 - **类型**：多品牌 IT/工业设备商店（加拿大，工业 FS 现光路）
 - **在卖/在用品牌**：光路
@@ -126,7 +127,8 @@ updated: 2026-10-29
   > 也有光路的工业FS
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Rasel Haddadi（CEO（LinkedIn；同时任 HOUPER 区域经理 → Houper 疑为关联自有品牌）= 拍板人 / 收件人（第 112 批 官方登记核实 2026-10-28））info@lendoux.com 〔用户表〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -147,7 +149,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-280GE（20% 档）——工业 FS（现光路）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业 8 PoE + 2 SFP STI-288GPM（$78.9）；数据中心位 24 GE + 4×10G STC-424XGGM（$127.4）
 - **邮件切入句（英文）**：Rasel, alongside the brands in your industrial networking category, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches and 24-GE + 4×10G L2+ from single units, FCC/CE/RoHS, EXW USD — which industrial switch SKU do your customers order most?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：停放/空站（疑停业或仅占位））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：停放/空站（疑停业或仅占位））
 
 - 尝试域名：lendoux.com
 - **提示**：域名停放/空站 → 公司可能已停业或换域名；跟进前先用邮箱/电话核实，勿只凭网站判死。
@@ -176,13 +178,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
-- **最近变化摘要**：2026-10-29 home：内容变化：+28 −26 行
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 home：内容变化：+54 −38 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-815/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://lendoux.com/en/) | html | HTTP 200 | 2026-10-29T08:41:09Z | 5026 字符；首行：Lendoux Specialized Store |
+| [home](https://lendoux.com/en/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 5178 字符；首行：Lendoux Specialized Store |
 
 ## 联系方式（已有 · 原值照录）
 

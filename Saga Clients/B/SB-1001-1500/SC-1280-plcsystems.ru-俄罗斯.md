@@ -26,10 +26,10 @@ followups: 18
 first_contact: 2024-05-01
 last_contact: 2025-10-31
 s_mail: 18 msgs (out 18 / in 0), 2024-06-25 -> 2026-01-12
-p1: STC-228GP
+p1: STI-288GPM
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -39,7 +39,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（○ 正式）：○ 工业分销 20%：ООО «ПЛКСистемы»（Москва；ИНН 7708160477 / ОГРН 1027739102379；GD Прейс М. В.；Korenix + PLC / SCADA 分销）坐实；已进口台湾 Korenix ✔ 对位 ✔ 坐实 ✔ 分销主体 ✔ → P 池候选（18 推 0 回 → 换稿）（调研 2026-10-29；表内兴趣：工业FS   Korenix的分销商；工业FS）
 - **为什么是 B 级**：**调研后定级 B**（Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 工业分销 20%：ООО «ПЛКСистемы»（Москва；ИНН 7708160477 / ОГРН 1027739102379；GD Прейс М. В.；Korenix + PLC / SCADA 分销）坐实；已进口台湾 Korenix ✔ 对位 ✔ 坐实 ✔ 分销主体 ✔ → P 池候选（18 推 0 回 → 换稿）；闸 1：俄罗斯 PLC Systems（plcsystems.ru；工业 FS，Korenix 的分销商；lantan.pro 域 nxdomain）：进口台湾同类 ✔ 对位 ✔ 分销主体 Simon 点名俄罗斯；群发 18 次 0 回 → 闸 …）；自动分级 C：+6 在 A/DONE 优质国家名单（已做过整轮推送）；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025；-16 推送 18 次无任何回复（聋名单）
 - **历史互动**：推送 18 次（2024-05-01 → 2025-10-31）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-228GP — 默认对位（工业分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）；
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STI-288GPM — 官网快照对位：工业/自动化词频 16、PoE 18 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）；
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动：LT-01 复核（待过）后再定 — 长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
@@ -52,13 +52,14 @@ updated: 2026-10-29
 - **现状一句话**：C 池三闸捞出 → B（LT-01）：○ 工业分销 20%：ООО «ПЛКСистемы»（Москва；ИНН 7708160477 / ОГРН 1027739102379；GD Прейс М. В.；Korenix + PLC / SCADA 分销）坐实；已进口台湾 Korenix ✔ 对位 ✔ 坐实 ✔ 分销主体 ✔ → P 池候选（18 推 0 回 → 换稿）
 - **对方真实需求（有据）**：未知（无往来；复核时从官网 / 进口数据 / 项目推断）
 - **断点 / 为什么停在这里**：无往来（从未触达或仅群发无回）
-- **Saga 现在该推什么**：P1 **STC-228GP**（% 档，价见价格主表）——默认对位（工业分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）
+- **Saga 现在该推什么**：P1 **STI-288GPM**（% 档，价见价格主表）——官网快照对位：工业/自动化词频 16、PoE 18 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）
 - **下一步（具体）**：不动：LT-01 复核（待过）后再定　—　长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ○ 工业分销 20%：ООО «ПЛКСистемы»（Москва；ИНН 7708160477 / ОГРН 1027739102379；GD Прейс М. В.；Korenix + PLC / SCADA 分销）坐实；已进口台湾 Korenix ✔ 对位 ✔ 坐实 ✔ 分销主体 ✔ → P 池候选（18 推 0 回 → 换稿） | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 登记底数（registry） | RU · 1 次检索：download.plcsystems.ru/doc/rekvizity-plksistemy.pdf（法人 / ИНН / ОГРН / 总经理 / 开户行）+ sbis.ru/contragents/7708160477（地址）+ eqinfo（产品线 Korenix）；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | ПЛКСистемы - оборудование и услуги для промышленной автоматизации — Компания ПЛКСистемы - один из ведущих российских поставщиков программно-технических средств и систем для промышленной автоматизации c 1995 г. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -120,10 +121,11 @@ updated: 2026-10-29
 - **KP**：—（表内邮箱（公开 / 总机））medvedev@plcsystems.ru 〔〕
 - **KP**：—（表内邮箱（公开 / 总机））info@plcsystems.ru 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 工业分销 20%：ООО «ПЛКСистемы»（Москва；ИНН 7708160477 / ОГРН 1027739102379；GD Прейс М. В.；Korenix + PLC / SCADA 分销）坐实；已进口台湾 Korenix ✔ 对位 ✔ 坐实 ✔ 分销主体 ✔ → P 池候选（18 推 0 回 → 换稿）；闸 1：俄罗斯 PLC Systems（plcsystems.ru；工业 FS，Korenix 的分销商；lantan.pro 域 nxdomain）：进口台湾同类 ✔ 对位 ✔ 分销主体 Simon 点名俄罗斯；群发 18 次 0 回 → 闸 …
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/saga_fit/deep/facts。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -135,7 +137,24 @@ updated: 2026-10-29
   - 俄罗斯 PLC Systems（plcsystems.ru；工业 FS，Korenix 的分销商；lantan.pro 域 nxdomain）：进口台湾同类 ✔ 对位 ✔ 分销主体 Simon 点名俄罗斯；群发 18 次 0 回 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先
   - 表内兴趣：工业FS   Korenix的分销商；工业FS
 - **风险/边界**：**Korenix 现供工业分销 → 分销 20%：一页纸一次（STI-154GP / STI-288DGGPM / STI-488DGGPM 对标 Korenix 入门线 + MOQ 1 + 付费样机；Korenix 不点名）— 俄语区常规：英文 / 俄文稿、20 / 25 / 30 + 预付 100%（收款 / 物流路径待 Simon 定：第三国结算或代理）+ FOB 深圳；周四 10–12 
-- **Saga 对位结论**：P1 STC-228GP（20% 档）——默认对位（工业分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）
+- **Saga 对位结论**：P1 STI-288GPM（20% 档）——官网快照对位：工业/自动化词频 16、PoE 18 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://plcsystems.ru/　语言：ru　站点地图 URL 数：2042
+- **标题**：ПЛКСистемы - оборудование и услуги для промышленной автоматизации
+- **描述**：Компания ПЛКСистемы - один из ведущих российских поставщиков программно-технических средств и систем для промышленной автоматизации c 1995 г.
+- **首页栏目**：Каталог продукции / Новые поступления / Услуги / Производители / О компании
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：ethernet 81、poe 18、sfp 14、automation 9、wifi 7、industrial 6、scada 5、moxa 2
+- **站内型号串**（正则抽取，含非交换机）：MT8000, MT6000, HP11-AC, HP11-AR, HPM130, HPM150, DS5P-FH, DS5C2-FH, DS5C2-FS, AS-C6, IDS205G, MB-41P1
+- **站内公开邮箱**：bachurin@plcsystems.ru, example@mail.ru, info@plcsystems.kz, info@plcsystems.ru, parvazetdinov@plcsystems.ru, sales@plcsystems.ru
+- **站内公开电话**：+7 (700) 978-91-53, +7 (727) 978-91-53, +7 (919) 345-70-00, 0079... 01.04.2025
+- **社媒**：https://vk.com/xinje_rus, https://www.youtube.com/@%D0%9F%D0%9B%D0%9A%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B-%D1%8D4%D0%B4
+- **产品类页面**：https://plcsystems.ru/news/industrial-automation-show-ias-shanghai/；https://plcsystems.ru/news/besplatnyy-bilet-na-vystavku-expoelectronica-2024/；https://plcsystems.ru/news/priglashaem-posetit-nash-stend-na-expoelectronica-2025/；https://plcsystems.ru/news/womaster-mp614-peredovoy-polnostyu-gigabitnyy-kommutator-m12-urovnya-3-s-poe/；https://plcsystems.ru/news/expoelectronica-2025-krupneyshaya-v-rossii-mezhdunarodnaya-vystavka-elektroniki/；https://plcsystems.ru/catalog/
+- **已抓子页**：[Контакты](https://plcsystems.ru/about/contacts/)；[Каталог](https://plcsystems.ru/catalog/)；[ПЛК XINJE XL с Ethernet — купить у официального дистрибьютер](https://plcsystems.ru/catalog/programmiruemye_kontrollery_/xinje_xl_1/xl_s_ethernet/)；[XD с Ethernet — купить со скидкой у официального дистрибьюте](https://plcsystems.ru/catalog/programmiruemye_kontrollery_/xinje_xd_1/xd_s_ethernet/)；[Бесплатный тест-драйв продукции](https://plcsystems.ru/support/besplatnyy-test-drayv-produktsii/)；[Информация о компании](https://plcsystems.ru/about/)
+- 首页正文摘录：8 (800) 707-18-71 Компания Производители Новости Поддержка Техническая информация Сертификаты Тест-драйв Задать вопрос в поддержку Отраслевые решения Обучение С МГТУ им. Баумана От представительства XINJE Вебинары Контакты задать вопрос 8 (800) 707-18-71 sales@plcsystems.ru support@plcsystems.ru Каталог продукции Программируемые контроллеры Xinje XF XSF на CODESYS Модули ввода/вывода XF Xinje XL XSLH на CODESYS Модул
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 16、PoE 18 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SC-1280.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -194,12 +213,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-1280/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://plcsystems.ru/) | html | 待首轮 | — | 官网首页 |
+| [home](https://plcsystems.ru/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 15095 字符；首行：ПЛКСистемы - оборудование и услуги для промышленной автоматизации |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -234,7 +254,7 @@ updated: 2026-10-29
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-228GP | 深挖对位：默认对位（工业分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档） | $33.2 USD EXW（HRUI Realtek 线：洪瑞 2026-09-30 成本 + 20%（列表价 $30.8 隐含加价低于底线，第 73 批口径）；见 data/价格主表_HRUI.csv；汇率 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（工业分销（闸 2 判定 · 20% 档）） |
+| **P1** | STI-288GPM | 深挖对位：官网快照对位：工业/自动化词频 16、PoE 18 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP） | $78.9 USD EXW（20% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（工业分销（闸 2 判定 · 20% 档）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：20% 档 $139.9 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $181.2——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -243,9 +263,9 @@ updated: 2026-10-29
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-228GP），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-228GP 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288GPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -255,7 +275,7 @@ updated: 2026-10-29
 
 - **S**：名单内已有联系记录，不是零起点
 - **W**：已推送 18 次无回复，邮件通道疲劳；俄语区：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STC-228GP 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 Korenix：涨价、断货或交期拉长时切入；规模（调研）：小型 / 中型
+- **O**：P1 STI-288GPM 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 Korenix：涨价、断货或交期拉长时切入；规模（调研）：小型 / 中型
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -283,14 +303,14 @@ updated: 2026-10-29
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-228GP - 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (neutral label)
+**主题**：STI-288GPM - industrial DIN-rail L2 managed switch (Marvell-based, neutral label)
 
 ```text
 Hi Medvedev,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
 
-We supply an 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (unmanaged, 120 W, PoE watchdog) - model STC-228GP - that fits the same slot as the Korenix class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $33.2 USD EXW (valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as the Korenix class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $78.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

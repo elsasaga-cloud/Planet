@@ -1,6 +1,6 @@
 # XA-M495 · Noriak Distribution · 法国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 mikrotik-info `A-253`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W2-R05c 2026-10-27）→ 下一动作 第二封
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 mikrotik-info `A-253`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 第二封
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱（含实名 KP）
@@ -77,10 +77,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W2-R05c，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XA** — FR 进口分销商、规模对口 → 维持 A（优先）
-- 活着吗：来源库 2026-09-27 核对在线；本轮未复查
+- 活着吗：在线（noriak-distri.com，快照 2026-10-29）：Accueil
 - 一句话：进口分销商（Noriak Distribution / Micro Tech Distribution SAS，Cesson-Sévigné 35；2006 起，20–49 人，6 名外勤销售；Noriak Réseau 3,500 个网络/工业网络/监控 SKU）；Marvell Prestera 接入层切入
 - 是什么人：进口分销商（Noriak Distribution / Micro Tech Distribution SAS，Cesson-Sévigné 35；2006 起，20–49 人，6 名外勤销售；Noriak Réseau 3,500 个网络/工业网络/监控 SKU）；规模：进口分销商（Noriak Distribution / Micro Tech Distribution SAS，Cesson-Sévigné 35；2006 起，20–49 人，6 名外勤销售；Noriak Réseau 3,500 个网络/工业网络/监控 SKU）
 - 在卖/在用：Perle Systems（工业 PoE 交换机、媒体转换、串口设备联网）
@@ -95,6 +95,7 @@
 |---|---|---|---|---|
 | 来源库官网/名录核对 | Perle 授权分销商。 【2026-09-27 A240–A259联络核验】来源等级：official-search-only。旧noriak-reseau.com实际503；noriak-distri官网首页有效，但Reseau/Presentation/Nouveautes旧路径均跳首页，本次正文未复见邮箱。完整邮箱、Cesson-Sévigné地址和0299043250在官网搜索索引及Canyon品牌渠道搜索摘要对应；Canyo |  | https://noriak-distri.com/ | 2026-09-27 |
 | S 箱群发记录 | S 箱 2026-10-01 发 contact@noriak-distri.com「24 Port PoE Managed Switch」，去 1 来 0 |  | data/gmail_s/2026-09_10群发名单_未入库.csv | 2026-10-01 |
+| 官网快照 | 官网在线；Accueil | Noriak Distri < ... > Tous nos partenaires | https://www.noriak-distri.com | 2026-10-29 |
 
 草稿（英文，第二封；Simon 发，Agent 不发）：
 
@@ -117,4 +118,5 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：本轮 web_search：noriak-distri.com「importation et distribution … produits réseaux」；pappers 20–49 人；noriak-reseau.com「réseau industriel … switches」。 轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence。
+本轮 web_search：noriak-distri.com「importation et distribution … produits réseaux」；pappers 20–49 人；noriak-reseau.com「réseau industriel … switches」。 轻卡：本轮未外查，沿用来源库官网/名录核对。

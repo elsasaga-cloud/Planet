@@ -1,6 +1,6 @@
 # XA-M081 · Optitera Global Networks Inc. · 加拿大
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 mikrotik-info `A-379`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W2-R04 2026-10-27）→ 下一动作 第二封
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 mikrotik-info `A-379`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 第二封
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱（含实名 KP）
@@ -78,13 +78,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W2-R04，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XA** — CA 主攻区分销 → 维持 A
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：在线（optiteraglobal.ca，快照 2026-10-29）：Networking & Telecom Equipment Supplier in Canada - Optiteraglobal
 - 一句话：网络设备分销（Optitera Global Networks，Ontario；已有工业交换机线）；卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口
 - 是什么人：网络设备分销（Optitera Global Networks，Ontario；已有工业交换机线）；规模：未量化
-- 在卖/在用：MikroTik（Reseller）
+- 在卖/在用：MikroTik（Reseller）、MikroTik、Cambium、Grandstream、TP-Link、Ubiquiti
 - 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — 已有工业交换机线，STI 做第二供应商
 - 找得到人吗：sales@optiteraglobal.ca（来源库公开邮箱）；KP：无具名
 - 已触达：S 箱 2026-10-04 群发「24 Port PoE Managed Switch」→ 已发未回
@@ -96,6 +96,7 @@
 |---|---|---|---|---|
 | 来源库官网/名录核对 | 原批量导入说明（三星依据仅渠道等级、需先查证是否已有工业交换机/PoE++产品线），本轮核验为“已有”，待补标记解除。【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。原B-070（批量导入行，三星依据仅渠道等级，备注含待补标记）。核验要点：官网为MikroTik经销商站点，MikroTik品类含Switches（品牌计数105款MikroTik SKU），另有ISP/WISP/电信/CC |  | https://optiteraglobal.ca/ | 2026-09-28 |
 | S 箱群发记录 | S 箱 2026-10-04 发 sales@optiteraglobal.ca「24 Port PoE Managed Switch」，去 1 来 0 |  | data/gmail_s/2026-09_10群发名单_未入库.csv | 2026-10-04 |
+| 官网快照 | 官网在线；Networking & Telecom Equipment Supplier in Canada - Optiteraglobal | Networking & Telecom Equipment Supplier in Canada - Optiteraglobal | https://optiteraglobal.ca/ | 2026-10-29 |
 
 草稿（英文，第二封；Simon 发，Agent 不发）：
 
@@ -114,4 +115,5 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/evidence/site_p1_hint。
+轻卡：本轮未外查，沿用来源库官网/名录核对。

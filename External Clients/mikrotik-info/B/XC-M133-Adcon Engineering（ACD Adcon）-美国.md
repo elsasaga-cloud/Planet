@@ -1,6 +1,6 @@
 # XC-M133 · Adcon Engineering（ACD/Adcon） · 美国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：☆ 工业元件 / 传感 / 视觉 / 机柜分销 20%：Adcon Engineering Co., Inc.（Strongsville OH 20102 Progress Dr；线卡含 EtherDevice DIN 导轨非管理交换机）官网 + NDT 名录部分坐实（OH SOS 号待补）；主区 US 但体量未知、官网陈旧 → 观察档；sales@adconengineering.com） ｜ 来源 mikrotik-info `C-068`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-03 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：☆ 工业元件 / 传感 / 视觉 / 机柜分销 20%：Adcon Engineering Co., Inc.（Strongsville OH 20102 Progress Dr；线卡含 EtherDevice DIN 导轨非管理交换机）官网 + NDT 名录部分坐实（OH SOS 号待补）；主区 US 但体量未知、官网陈旧 → 观察档；sales@adconengineering.com） ｜ 来源 mikrotik-info `C-068`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 >
 > **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：☆ P 池 · 观察档**（闸 3 · G3 · 2026-10-29）：☆ 工业元件 / 传感 / 视觉 / 机柜分销 20%：Adcon Engineering Co., Inc.（Strongsville OH 20102 Progress Dr；线卡含 EtherDevice DIN 导轨非管理交换机）官网 + NDT 名录部分坐实（OH SOS 号待补）；主区 US 但体量未知、官网陈旧 → 观察档；sales@adconengineering.com
 
@@ -47,10 +47,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，X1-03，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XC** — X1-03 补路径：☆ 工业元件 / 传感 / 视觉 / 机柜分销 20%：Adcon Engineering Co., Inc.（Strongsville OH 20102 Progress Dr；线卡含 EtherDevice DIN （等级不动，池位见 sieve_x）
-- 活着吗：2026-10-29 检索命中官网 / 名录（在线）
+- 活着吗：快照失败（adconengineering.com：HTTP 错误，2026-10-29，第 1 次）
 - 一句话：Adcon Engineering Co., Inc.：工业元件 / 传感 / 视觉 / 机柜分销，产品线含 EtherDevice DIN 导轨工业非管理交换机；财务负责人 Bill Raftry（allbiz 名录）；体量未知，官网陈旧
 - 是什么人：分销（HMS/N-Tron·Red Lion 渠道）；Adcon Engineering Co., Inc.
 - 对口哪条线：Saga STI 工业 / SmartByte 商用 PoE — ☆ 工业元件 / 传感 / 视觉 / 机柜分销 20%：Adcon Engineering Co., Inc.（Stro
@@ -65,4 +65,5 @@
 | 官网 / 名录 | 官网产品页：Adcon Engineering · sales@adconengineering.com · 440.238.3915 |  | https://www.adconengineering.com/vp_banner_p4_edge.htm | 2026-10-29 |
 | 官网 / 名录 | NDT.org 名录：Adcon Engineering Co., Inc. · 20102 Progress Dr · 线卡含 EtherDevice 5/8 口工业非管理交换机 |  | https://www.ndt.org/vendor.asp?ObjectID=39255 | 2026-10-29 |
 
-- 备注：Adcon Engineering Co., Inc.；20102 Progress Drive, Strongsville (Cleveland), OH 44149；+1 440 238 3915
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/fail#1。
+Adcon Engineering Co., Inc.；20102 Progress Drive, Strongsville (Cleveland), OH 44149；+1 440 238 3915

@@ -29,7 +29,7 @@ last_contact: unknown
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -58,6 +58,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ○ 自有 iFLOW 牌 + 多牌分销 · OEM 30% / 分销 20%：ООО «Торговый дом «АВАНТ-ТЕХНО»（Минск, ул. Короля 45；avant.by + utepo.by 同主体；BYN 计价；Hikvision / Utepo / 自有 iFLOW 工业 PoE）部分坐实（УНП 未取）；国别纠偏 俄罗斯 → 白俄罗斯 待 Simon；自有牌 ✔ 已进口中国同类 ✔ 对位 ✔ → P 池候选（预付 100%，白俄收款路径待 Simon） | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Ведущий поставщик оборудования для систем безопасности в Республике Беларусь — Оборудование для систем видеонаблюдения ✔️ систем контроля доступа ✔️ систем охранной и пожарной сигнализации ✔️ электротехническое оборудование по спец. ценам ✔️ в наличии ✔️ под заказ | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -105,14 +106,34 @@ updated: 2026-10-29
 - **是谁**：国别纠偏：表内「俄罗斯」 → 白俄罗斯。ООО «Торговый дом «АВАНТ-ТЕХНО»：Минск；BYN 计价；utepo.by 页脚同主体 220004 Минск, ул. Короля 45；+375 17 304-40-40。来源：公司底数登记（`data/saga_clients/registry/`，第 129 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。
 - **类型**：安防 / 网络分销 + 自有 iFLOW 牌工业 PoE 交换机
 - **规模**：中型（白俄主要安防分销之一）
+- **在卖/在用品牌**：Hikvision
 - **【官网】国别纠偏 表内「俄罗斯」 → 白俄罗斯**
   > ООО «Торговый дом «АВАНТ-ТЕХНО»：Минск；BYN 计价；utepo.by 页脚同主体 220004 Минск, ул. Короля 45；+375 17 304-40-40
   > 来源：https://avant.by/catalog/setevoe_oborudovanie/switches/（抓取 2026-10-29）
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 自有 iFLOW 牌 + 多牌分销 · OEM 30% / 分销 20%：ООО «Торговый дом «АВАНТ-ТЕХНО»（Минск, ул. Короля 45；avant.by + utepo.by 同主体；BYN 计价；Hikvision / Utepo / 自有 iFLOW 工业 PoE）部分坐实（УНП 未取）；国别纠偏 俄罗斯 → 白俄罗斯 待 Simon；自有牌…；闸 1：白俄罗斯 Avant（avant.by；表内国别俄罗斯，域 .by；工商业 FS 好几家牌子，有宇航等国内的）：进口中国同类 ✔ 对位 ✔ 俄语区先例；未触达 → 闸 2 查底数 + 国别核（RU → BY 待证据）；RU + BY 收款…
-- 备注：T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。
+T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。
 
-### 加厚挖掘（2026-10-29 · 邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://avant.by/　语言：ru　站点地图 URL 数：355
+- **标题**：Ведущий поставщик оборудования для систем безопасности в Республике Беларусь
+- **描述**：Оборудование для систем видеонаблюдения ✔️ систем контроля доступа ✔️ систем охранной и пожарной сигнализации ✔️ электротехническое оборудование по спец. ценам ✔️ в наличии ✔️ под заказ
+- **首页栏目**：Видеокамеры и видеорегистраторы / Системы контроля доступа по лучшей цене / Полный комплекс для ОПС / Управляйте домом и контролируйте его состояние через смартфон! / Технологии / Проекты / Мы в социальных сетях!
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：hikvision 60、poe 32、sfp 3、switch 1、ethernet 1、gigabit 1、ubiquiti 1、tp-link 1
+- **站内出现的品牌**：Hikvision　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RJ-45, F-SW-EU205POE-V, F-NR-216X, F-SW-EU208-O, F-SW-EU206HPOE-V, F-SW-EU426POE-V, MIT-A3, F-SW-EU205-O, UTP6306S-PSB, UTP7308GE-POE, DS-3E1726-SI-16F8T2X, DS-3E0105P-E
+- **站内公开邮箱**：brest1@avant.by, brest@avant.by, gomel1@avant.by, gomel@avant.by, grodno1@avant.by, grodno@avant.by
+- **站内公开电话**：+375(152) 560-282, +375(152) 560-976, +375(162) 50-54-10, +375(162) 50-54-13, +375(17) 304-40-40, +375(17) 337-98-67
+- **社媒**：https://t.me/s/avant_techno, https://www.facebook.com/avanttechnoby, https://www.instagram.com/avantby/, https://www.linkedin.com/company/86410134/, https://www.youtube.com/channel/UCxIpyIu2NIr4HetIhYR70pw
+- **产品类页面**：https://avant.by/blog/kak-vybrat-poe-kommutator/；https://avant.by/blog/rezhimy-raboty-i-funktsii-poe-kommutatorov/；https://avant.by/news/kabeli_utp_ftp_minskkabel_s_dalnostyu_poe_do_300_m/；https://avant.by/news/poe-kommutatory-utepo-na-sklade-i-gotovy-k-otgruzkam/；https://avant.by/news/neupravlyaemyy_poe_kommutator_hikvision_ds_3e0109p_e_s/；https://avant.by/blog/tekhnologiya-poe-pitanie-i-dannye-po-odnomu-kabelyu-ethernet/
+- **已抓子页**：[Кабельная продукция ОПС купить в Беларуси, цены](https://avant.by/catalog/equipment-for-the-security-and-fire-alar/kabelnaya_produktsiya_ops/)；[Коммутатор купить в Минске — switch RJ45 для видеонаблюдения](https://avant.by/catalog/setevoe_oborudovanie/switches/)；[Витая пара и оптические кабели — купить в Минске с доставкой](https://avant.by/catalog/setevoe_oborudovanie/kabel/)；[Контакты «АВАНТ-ТЕХНО»](https://avant.by/contacts/)；[Системы видеонаблюдения купить в Беларуси, цены](https://avant.by/catalog/sistem-videonabludeniya/filter/brand-is-iflow/apply/)；[Каталог](https://avant.by/catalog/)
+- 首页正文摘录：Готовый интернет-магазин электроники Каталог По всему сайту По каталогу Каталог Системы видеонаблюдения IP видеокамеры IP видеорегистраторы HD TVI видеокамеры + аналоговые HD TVI видеорегистраторы + аналоговые Hiwatch Программное обеспечение Тепловизоры Кронштейны, кожухи Дополнительное оборудование Сетевое оборудование Коммутаторы для видеонаблюдения и сетей Жесткие диски для видеонаблюдения Мониторы Кабельная проду
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 32、监控 0 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SC-714.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -126,12 +147,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-714/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://avant.by/) | html | 待首轮 | — | 官网首页 |
+| [home](https://avant.by/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 8341 字符；首行：Ведущий поставщик оборудования для систем безопасности в Республике Беларусь |
 
 ## 联系方式（已有 · 原值照录）
 

@@ -27,7 +27,7 @@ last_contact: unknown
 p1: STC-114GP
 price_tier: 25%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -57,6 +57,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | Ady加了WhatsApp  最主要要商业级POE 对升压5口感兴趣 / Ecevit / marbim.com.tr | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：marbim.com.tr MX mail.marbim.com.tr.；A 89.252.182.2；NS ns32.guzelhosting.com. / ns31.guzelhosting.com. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库
 
@@ -117,7 +118,8 @@ updated: 2026-10-29
   > Ady加了WhatsApp  最主要要商业级POE 对升压5口感兴趣 / Ecevit / marbim.com.tr
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Ecevit（姓氏待核）（（ISAF 名片））—（无邮箱；WhatsApp） —（Ady WhatsApp）〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 （无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · 官网未检索到 · 仅表内信息）
@@ -136,7 +138,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-114GP（25% 档）——默认 25% 档：STC-114GP（1 SFP + 1 GE 上联 + 4 GE PoE 非管理，Saga Realtek 线列表 $16.5）对应「5 口商用 PoE」；升压（DC 12–24 V 输入）版本待向 HRUI 核实；8 口 STC-028GP（$24.2）
 - **邮件切入句（英文）**：Ecevit Bey, ISAF'ta ilgilendiğiniz 5 port PoE: 4 PoE + 1 uplink (+1 SFP) modelimiz EXW 17,8 USD; 12/24 V girişli yükseltici (boost) sürümünü üreticiden teyit ediyorum — sahada besleme 48 V mi yoksa 12 V akü/solar mı?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：marbim.com.tr
   > https://marbim.com.tr/ http 403 ct=text/html
@@ -155,7 +157,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-575/`；本节随档案重渲染刷新，实时看日志。
 

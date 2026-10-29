@@ -29,7 +29,7 @@ last_contact: unknown
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -58,6 +58,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ★ 德国主区 · 工业通信分销 20%：tekmodul GmbH（München；HRB 158866；2005；GF Tassilo Halt；electronica 2024 参展；Atop 经销）坐实；主区 ✔ 台湾工业品牌经销 ✔ 对位 ✔ 决策人具名 ✔ → P 池候选 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | News \| Techniknachrichten aus dem Wireless-Sektor \| tekmodul GmbH — Neueste Techniknachrichten aus dem Wireless-Sektor. Funkmodule, Automatisierungstechnick, Industriekommunikation und vieles mehr. Jetzt bei tekmodul! | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -109,10 +110,25 @@ updated: 2026-10-29
   > tekmodul GmbH Impressum：Lindwurmstraße 97a, 80337 München；Registergericht München HRB 158866；USt-IdNr. DE240985730；Geschäftsführer Tassilo Halt
   > 来源：https://www.tekmodul.de/impressum/（抓取 2026-10-29）
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 德国主区 · 工业通信分销 20%：tekmodul GmbH（München；HRB 158866；2005；GF Tassilo Halt；electronica 2024 参展；Atop 经销）坐实；主区 ✔ 台湾工业品牌经销 ✔ 对位 ✔ 决策人具名 ✔ → P 池候选；闸 1：德国 Tekmodul（tekmodul.de；表内国别未填 → .de；「Atop 的，感觉比较专业」= 台湾工业品牌专业经销）：德国主区 ✔ 台湾品牌证据 ✔ 分销主体 ✔ 对位（STI 工业线）✔；未触达 → 闸 2 查底数（han…
-- 备注：T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。
+T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。
 
-### 加厚挖掘（2026-10-29 · 邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://www.tekmodul.de/en/　语言：en-GB　站点地图 URL 数：177
+- **标题**：News / Techniknachrichten aus dem Wireless-Sektor / tekmodul GmbH
+- **描述**：Neueste Techniknachrichten aus dem Wireless-Sektor. Funkmodule, Automatisierungstechnick, Industriekommunikation und vieles mehr. Jetzt bei tekmodul!
+- **首页栏目**：News / LC76 – brand new family of multi-constellation GNSS modules
+- **站内型号串**（正则抽取，含非交换机）：LC76GPA, AG3352, LC76GAB, LC76F, GK9501
+- **站内公开邮箱**：info@tekmodul.de, iwantajob@tekmodul.de, quectel@tekmodul.de
+- **社媒**：https://twitter.com/share?url=https%3A%2F%2Fwww.tekmodul.de%2Fen%2Flc76-family-gnss-en%2F&text=LC76%20%E2%80%93%20brand%20new%20family%20of%20multi-constellation%20GNSS%20modules, https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.tekmodul.de%2Fen%2Flc76-family-gnss-en%2F&t=LC76%20%26%238211%3B%20brand%20new%20family%20of%20multi-constellation%20GNSS%20modules, https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.tekmodul.de%2Fen%2Flc76-family-gnss-en%2F&title=LC76%20%26%238211%3B%20brand%20new%20family%20of%20multi-constellation%20GNSS%20modules&summary=New%20LC76%20family%20of%20innovative%20multi-constellation%20GNSS%20modules%0D%0A-%20also%20with%20extremely%20low%20power%20consumption%0D%0AWith%20the%20LC76GPA%2C%20Quectel%20presents%20a%20new%20GNSS%20module%20that%20is%20characterized%20by%20a%20current%20consumption%20of%20only%20approx.%2010.5mA%20in%20active%20acquisition%20or
+- **产品类页面**：https://www.tekmodul.de/eh7520-industrial-switch-von-atop/；https://www.tekmodul.de/industrial-managed-switches-von-atop/；https://www.tekmodul.de/industrial-switches-fuer-staedtische-verkehrssysteme/；https://www.tekmodul.de/unmanaged-switches-von-atop/；https://www.tekmodul.de/industrial-connectivity-serial-server-protocol-gateways/；https://www.tekmodul.de/shop/
+- **已抓子页**：[Was wir Ihnen bieten / Unsere Leistungen / tekmodul GmbH](https://www.tekmodul.de/was-wir-ihnen-bieten/)；[Kontaktformular - tekmodul GmbH](https://www.tekmodul.de/kontaktformular/)；[LC76 - brand new family of multi-constellation GNSS modules ](https://www.tekmodul.de/en/lc76-family-gnss-en/)；[Stellenanzeigen und Initiativ-Bewerbungen /tekmodul](https://www.tekmodul.de/partner-fuer-funkmodule-und-drahtlose-kommunikation/partner-fuer-funkmodule-und-drahtlose-kommunikation-stellenanzeigen/)
+- 首页正文摘录：Skip to content Search for: News LC76 – brand new family of multi-constellation GNSS modules New LC76 family of innovative multi-constellation GNSS modules - also with extremely low power consumption With the LC76GPA, Quectel presents a new GNSS module that is characterized by a current consumption of only approx. 10.5mA in active acquisition or tracking mode. This low power consumption [...] Unternehmen Über uns Ste
+- 数据文件：`data/saga_clients/site_snapshots/SC-1675.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -124,12 +140,14 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-1675/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://tekmodul.de/) | html | 待首轮 | — | 官网首页 |
+| [home](https://tekmodul.de/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 684 字符；首行：News \| Techniknachrichten aus dem Wireless-Sektor \| tekmodul GmbH |
+| [feed_auto](https://www.tekmodul.de/en/feed/) | rss | HTTP 200 | 2026-10-29T15:11:51Z | 1 条；最新：Thu, 03 Nov 2022 11:15:16 LC76 – brand new family of multi-constellation GNSS modul |
 
 ## 联系方式（已有 · 原值照录）
 

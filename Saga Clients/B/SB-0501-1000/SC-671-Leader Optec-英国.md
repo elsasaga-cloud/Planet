@@ -29,7 +29,7 @@ s_mail: 2 msgs (out 2 / in 0), 2026-03-13 -> 2026-08-12
 p1: STC-424XGGPM-280W
 price_tier: 30%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -59,6 +59,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ★ 自有品牌 · OEM 30%：LEADER OPTEC LIMITED（St Asaph；Co. No. 03936485；2000；11–50 人；$5.1M；董事 Paul Anthony Desmond = 表内 pauldesmond@）坐实；自有品牌布线商 ✔ 中国采购 30–40% ✔ 四主区 ✔ 决策人直达 ✔ → P 池候选 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 登记底数（registry） | GB · 1 次检索：companycheck.co.uk（公司号 / 董事 / 状态）+ zoominfo（11–50；$5.1M）+ crunchbase（MD Paul Desmond）；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | UK Fibre Optic Cable Assembly Manufacturer \| Leader Optec — UK manufacturer of fibre optic cable assemblies since 1993: pre-terminated, MTP, patch leads and Mil-Tac. Official Sumitomo distributor and service centre. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -117,10 +118,11 @@ updated: 2026-10-29
   > 来源：（抓取 2026-10-29）
 - **KP**：—（表内邮箱（公开 / 总机））pauldesmond@leaderoptec.com 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 自有品牌 · OEM 30%：LEADER OPTEC LIMITED（St Asaph；Co. No. 03936485；2000；11–50 人；$5.1M；董事 Paul Anthony Desmond = 表内 pauldesmond@）坐实；自有品牌布线商 ✔ 中国采购 30–40% ✔ 四主区 ✔ 决策人直达 ✔ → P 池候选；闸 1：英国 Leader Optec（leaderoptec.com；passive / FTTH 为主的 trader，30–40% 业务在中国，表内邮箱 = 其国内负责人、负责采购 active 产品）：四主区 + 进口经验 + 中国采购 …
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/saga_fit.basis/deep/facts。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -134,6 +136,22 @@ updated: 2026-10-29
 邮箱是他国内负责人的，负责采购active产品
 - **风险/边界**：**自有品牌布线商补 active 线 → OEM 30%：点名 Paul 一页纸一次（STC-028GP / STC-228GP / STC-110XGE MC 丝印 + MOQ + 付费样机；可提中国采购直供）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**
 - **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://leaderoptec.com/　语言：en-GB　站点地图 URL 数：219
+- **标题**：UK Fibre Optic Cable Assembly Manufacturer / Leader Optec
+- **描述**：UK manufacturer of fibre optic cable assemblies since 1993: pre-terminated, MTP, patch leads and Mil-Tac. Official Sumitomo distributor and service centre.
+- **首页栏目**：Leader Optec / Site Navigation / Featured Products / MTP® Lite Trunk / 1U Patch Panel / Sumitomo T-72C+ Core Aligned Fusion Splicer / Loose Tube / CST (Armoured)
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fibre 66、cable 14、sfp 5、telecom 2、distributor 2、industrial 1、fiber 1、10g 1、oem 1
+- **站内型号串**（正则抽取，含非交换机）：OTDR-1000, MPO-12, MPO-24, MIL-DTL-83526, QSFP28, MPO-16, PSM10, EIA-568-C, IEC11801, IEC-61754-7, TIA-604-5, IEC-60793
+- **站内公开邮箱**：accounts@leaderoptec.com, john.smith@leaderoptec.com, sales@leaderoptec.com, talk@viewcreative.co.uk
+- **站内公开电话**：+44 (0)1745 586600, +44 (0)1745 586601, +44(0)1745 586600
+- **社媒**：https://www.facebook.com/LeaderOptecLtd, https://www.instagram.com/leaderoptec/, https://www.linkedin.com/company/leader-optec-ltd/
+- **产品类页面**：https://leaderoptec.com/our-products/copper-assemblies/copper-patch-panels/cat6a-shielded-toolless-keystone-ja…；https://leaderoptec.com/our-products/harsh-environment；https://leaderoptec.com/our-products/copper-assemblies；https://leaderoptec.com/our-products/data-centre-solutions；https://leaderoptec.com/our-products/fibre-optic-assemblies；https://leaderoptec.com/our-products/harsh-environment/energy
+- **已抓子页**：[Rack & Bench Mount Network Simulator / Network… / Leader Opt](https://leaderoptec.com/our-products/test-measurement-tooling/network-simulators/desktop-network-simulator)；[Brands / Leader Optec](https://leaderoptec.com/about-leader-optec/brands)；[Our Markets / Leader Optec](https://leaderoptec.com/about-leader-optec/markets)；[Data Centre Solutions / Leader Optec](https://leaderoptec.com/our-products/data-centre-solutions)；[MTP® Lite Trunk / MTP® Assemblies / Leader Optec](https://leaderoptec.com/our-products/data-centre-solutions/mtp-assemblies/mtp-lite-trunk-assemblies)；[MTP® Cassettes / MTP® Assemblies / Leader Optec](https://leaderoptec.com/our-products/data-centre-solutions/mtp-assemblies/lite-linke-24f-mtpm-elite-lc-cassette-om4-2x12f)
+- 首页正文摘录：Skip navigation and jump to content Leader Optec Sales: +44 (0)1745 586600 Email Us Follow Us Site Navigation Home Our Products Our Products Mil-Tac Fibre Optic Assemblies Copper Assemblies Test, Measurement & Tooling Data Centre Solutions Online Shop Online Shop Online Shop Patch leads Tooling Splicers Adaptors Services Our Services Bespoke Assembly Design Repair and Restoration Services Sumitomo Splicer Servicing, 
+- 数据文件：`data/saga_clients/site_snapshots/SC-671.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -156,12 +174,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-671/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://leaderoptec.com/) | html | 待首轮 | — | 官网首页 |
+| [home](https://leaderoptec.com/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 4910 字符；首行：UK Fibre Optic Cable Assembly Manufacturer \| Leader Optec |
 
 ## 联系方式（已有 · 原值照录）
 

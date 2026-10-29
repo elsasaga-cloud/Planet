@@ -1,6 +1,6 @@
 # XB-C0564 · Radiant Info Solutions（印度德里） · 印度
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 CCTV-PoE `profile/new-customers-batch-8.md`:127（其分级 A类） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T01 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 CCTV-PoE `profile/new-customers-batch-8.md`:127（其分级 A类） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XB** — IN：Simon 口径「一些俄/印/韩」→ XB 慢慢跟
@@ -98,10 +98,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，LT-T01，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — 桌面复核（来源库核对 + 研究卡）：C类 — Hirschmann授权合作伙伴；类型=C类 — Hirschmann授权合作伙伴；产品=Hirschmann MACH100/RS30/SPIDER全系列；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））
-- 活着吗：域名 radiant.in MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓
+- 活着吗：在线（radiant.in，快照 2026-10-29）：Radiant.in: IT Networking Solutions | Distributor, Partner, Delhi, India
 - 一句话：Radiant Info Solutions（印度德里）（印度）：Hirschmann授权合作伙伴；开发策略=印度Hirschmann渠道，Saga可以性价比替代；置信度=★★★★★；公司全称=Radiant Info Solutions Pvt. Ltd.；地址=Y-53, Ground Floor, Okhla Indl. Area, Phase-II, New Delhi-11
 - 是什么人：Hirschmann授权合作伙伴
 - 在卖/在用：Moxa、Hirschmann、Antaira、Perle
@@ -116,5 +116,7 @@
 |---|---|---|---|---|
 | 来源库官网/名录核对 | Hirschmann授权合作伙伴；开发策略=印度Hirschmann渠道，Saga可以性价比替代；置信度=★★★★★；公司全称=Radiant Info Solutions Pvt. Ltd.；地址=Y-53, Ground Floor, Okhla Indl. Area, Phase-II, New Delhi-11 |  | https://radiant.in | 2026-09 |
 | 长期群复核 LT-R07 | 桌面复核（来源库核对 + 研究卡）：C类 — Hirschmann授权合作伙伴；类型=C类 — Hirschmann授权合作伙伴；产品=Hirschmann MACH100/RS30/SPIDER全系列；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%）） |  |  | 2026-10-29 |
+| 官网快照 | 官网在线；Radiant.in: IT Networking Solutions ｜ Distributor, Partner, Delhi, India | Radiant Info Solutions Pvt. Ltd. is IT Networking Solutions company and structured cabling provider in India, offers network cabling services & LAN solution | https://radiant.in/ | 2026-10-29 |
 
-- 备注：LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。
+LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。

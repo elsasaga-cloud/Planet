@@ -23,7 +23,7 @@ s_mail: 18 msgs (out 17 / in 1), 2025-06-20 -> 2026-08-28
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -35,7 +35,7 @@ updated: 2026-10-29
 - **历史互动**：推送 6 次（2025-06-20 → 2025-11-05）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —｜已发资料（勿重发）：Product Link_2026Q2(2026-03-10)、Saga Feature List_7.5.x_L2+(2026-07-13)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；换人再触锚价 STC-28DGGPM $80.7（20% 档；第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-19 $65（10G Media Converter）、2025-10-16 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：For the switches you list across brands, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS, EXW USD; RCM by your side — which switch SKU sells most on your platform? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
-- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
+- **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（非主攻区；cs@ 自 2025-08 起已收群发 0 回 → 换人一问，不加频） A 邮箱 → cs@ubwh.com.au（无具名 KP；先在网店「Contact」页找采购姓名） 一问（研究档 email_hook + 价锚）（第 75 批(ah) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用）；RCM stays on your side；按 action「一问」写短信）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
@@ -55,6 +55,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2025-06-20 | 来 | store@ubwh.com.au | The email address 'store@ubwh.com.au' is obsolete and no longer monitored. Please re-send your email to: cs@ubwh.com.au | 来信原文（主题「Delivery failed: Un-monitored email」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `38270940dcccfc56` |
 | 2026-08-28 | 去 | A 箱（Alan） | 24 Port PoE Managed Switch | 本日去信真实主题（邮箱索引 a5d7984695768a16；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `a5d7984695768a16` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | UBWH Australia \| Shop Ubiquiti Networks Products Online — Visit UBWH Australia for all your managed & wireless networking products. Explore our range of UniFi WiFi, Networking & Switching and UniFi Video products | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -119,9 +120,10 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（ubwh.com.au：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：在线（ubwh.com.au，快照 2026-10-29）：UBWH Australia | Shop Ubiquiti Networks Products Online
 - **是谁**：澳大利亚 UBWH（ubwh.com.au：销售平台型网店，「很多品牌子的」；仅 cs@；官网 http_error）；群发 6 次无回复。
 - **类型**：多品牌网店（澳大利亚，平台型）
+- **在卖/在用品牌**：Ubiquiti, Teltonika, TP-Link, D-Link, Tenda, Edimax
 - **【用户表】表内兴趣/备注**
   > 很多品牌子的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
@@ -129,10 +131,11 @@ updated: 2026-10-29
   > 很多品牌子的；销售平台
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Robert Clark（所有人（域名 whois：Freenet Warehouse Pty Ltd）— 不动，不发（第 118 批 官方登记核实 2026-10-28）） 〔scamadviser.com/check-website/ubwh.com.au〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/brands_seen/site_contacts/deep/facts。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -150,14 +153,19 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——平台 switch 位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）
 - **邮件切入句（英文）**：For the switches you list across brands, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS, EXW USD; RCM by your side — which switch SKU sells most on your platform?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
 
-- 尝试域名：ubwh.com.au
-  > https://ubwh.com.au/ http 403 ct=text/html; charset=utf-8
-  > https://www.ubwh.com.au/ http 403 ct=text/html; charset=utf-8
-  > http://ubwh.com.au/ http 403 ct=text/html; charset=utf-8
-- **提示**：抓取失败不代表公司不在；人工打开一次即可。
-- 数据文件：`data/saga_clients/site_snapshots/SB-624.json`
+- **首页**：https://ubwh.com.au/　语言：en　站点地图 URL 数：0
+- **标题**：UBWH Australia / Shop Ubiquiti Networks Products Online
+- **描述**：Visit UBWH Australia for all your managed & wireless networking products. Explore our range of UniFi WiFi, Networking & Switching and UniFi Video products
+- **首页栏目**：Specials: When They're gone - They're Gone!
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 104、switch 77、camera 54、ubiquiti 51、wifi 30、nvr 29、fiber 28、industrial 18、cctv 8、cable 8、tp-link 7、sfp 5
+- **站内出现的品牌**：Ubiquiti, Teltonika, TP-Link, D-Link, Tenda, Edimax　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：NVR4104HS-P-4KS2, RJ-45, UVC-G5-PRO, SW-8F2G-120W, WI-PS308G-V2, WI-PS306GF-I-V2, WI-PS305GF, WI-PS305G-V2, WI-PS310GF-ALIEN, SW-8G2S-150W-AUTO, WI-PMS310GF-ALIEN, WI-PCMS310GF
+- **已抓子页**：[Shop POE Network Switches / UBWH Australia](https://ubwh.com.au/POE-Network-Switches/)；[Shop Non-POE Switches Online / UBWH Australia](https://ubwh.com.au/Non-POE-Network-Switches/)；[Shop Industrial Products Products Online / UBWH Australia](https://ubwh.com.au/Industrial-Products/)；[Shop PoE Cameras and NVRs Products Online / UBWH Australia](https://ubwh.com.au/PoE-Cameras-and-NVRs/)；[Shop 5MP TiOC PoE Bullet Camera Online / UBWH Australia](https://ubwh.com.au/PoE-Cameras-and-NVRs/3549T1P-AS-PV)；[Shop 4 Channel NVR with PoE Online / UBWH Australia](https://ubwh.com.au/PoE-Cameras-and-NVRs/NVR4104HS-P-4KS2)
+- 首页正文摘录：Toggle Navigation Home New Products Special Offers Reviews Stories Get a Quote Site Settings L: English C: AUD My Account Log In Register My Account My Orders My Address Book My Password 0 items Ubiquiti products - Warehouse prices 02 8412 8312 Contact Us Home Cart Contents Checkout My Account UBWH Advantages Same Day Dispatch . Our warehouses will dispatch orders the same day in 98% of cases, for orders paid before 
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 18、PoE 104 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-624.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -200,13 +208,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
-- **最近变化摘要**：2026-10-29 home：内容变化：+16 −12 行
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 home：内容变化：+8 −8 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-624/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://ubwh.com.au/) | html | HTTP 200 | 2026-10-29T08:41:09Z | 3425 字符；首行：UBWH Australia \| Shop Ubiquiti Networks Products Online |
+| [home](https://ubwh.com.au/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 3424 字符；首行：UBWH Australia \| Shop Ubiquiti Networks Products Online |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -280,7 +288,6 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

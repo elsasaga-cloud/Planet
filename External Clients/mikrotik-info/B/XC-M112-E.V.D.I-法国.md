@@ -1,6 +1,6 @@
 # XC-M112 · E.V.D.I. · 法国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 关键基础设施视频 / 传输 / 布线 B2B 分销 20%：E.V.D.I. SAS（Malaucène；RCS Avignon 399 343 870；SIRET 399 343 870 00040；资本 €80,000；1994 起；Président Laurent Duboc）坐实；ComNet / AMG / KBC 授权 → 工业 / PoE 对位；客户含核电 / 军用 → 只谈民） ｜ 来源 mikrotik-info `C-047`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-02 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 关键基础设施视频 / 传输 / 布线 B2B 分销 20%：E.V.D.I. SAS（Malaucène；RCS Avignon 399 343 870；SIRET 399 343 870 00040；资本 €80,000；1994 起；Président Laurent Duboc）坐实；ComNet / AMG / KBC 授权 → 工业 / PoE 对位；客户含核电 / 军用 → 只谈民） ｜ 来源 mikrotik-info `C-047`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 >
 > **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：○ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 关键基础设施视频 / 传输 / 布线 B2B 分销 20%：E.V.D.I. SAS（Malaucène；RCS Avignon 399 343 870；SIRET 399 343 870 00040；资本 €80,000；1994 起；Président Laurent Duboc）坐实；ComNet / AMG / KBC 授权 → 工业 / PoE 对位；客户含核电 / 军用 → 只谈民用项目；contact@evdi.fr
 
@@ -46,12 +46,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，X1-02，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XC** — X1-02 补路径：○ 关键基础设施视频 / 传输 / 布线 B2B 分销 20%：E.V.D.I. SAS（Malaucène；RCS Avignon 399 343 870；SIRET 399 343 870 00040；资本 €80,（等级不动，池位见 sieve_x）
-- 活着吗：2026-10-29 检索命中官网 / 名录（在线）
+- 活着吗：在线（evdi.fr，快照 2026-10-29）：EVDI — Distributeur B2B · vidéosurveillance, transmission & câblage
 - 一句话：E.V.D.I. – Environnement Voix Données Image SAS：关键基础设施（核电 / 工业 / 城市 / 军用）视频监控 + 传输 + 布线 B2B 分销，1994 起；ComNet / AMG / KBC / MOBOTIX / Hanwha 授权；Président Laurent Duboc；注
 - 是什么人：分销（ComNet 授权）；E.V.D.I. – Environnement Voix Données Image SAS
+- 在卖/在用：ComNet、Hanwha
 - 对口哪条线：Saga STI 工业 / SmartByte 商用 PoE — ○ 关键基础设施视频 / 传输 / 布线 B2B 分销 20%：E.V.D.I. SAS（Malaucène；RCS A
 - 找得到人吗：contact@evdi.fr（官网 / 名录公开（X1-02 补路径））；KP：无具名
 - 已触达：未触达（路径 2026-10-29 新补）
@@ -63,5 +64,7 @@
 |---|---|---|---|---|
 | 官网 / 名录 | 官网首页：EVDI B2B distributor since 1994 · contact@evdi.fr · SAS 80 000 € · RCS Avignon 399 343 870 |  | https://evdi.fr/en | 2026-10-29 |
 | 官网 / 名录 | Mentions légales：E.V.D.I. SAS · SIRET 399 343 870 00040 · Président Laurent Duboc |  | https://evdi.fr/mentions-legales | 2026-10-29 |
+| 官网快照 | 官网在线；EVDI — Distributeur B2B · vidéosurveillance, transmission & câblage | Distributeur agréé pour infrastructures critiques (nucléaire, industriel, urbain, militaire). ComNet, AMG, KBC, MOBOTIX, Hanwha Vision. Depuis 1994 — devis sous 24 h. | https://evdi.fr/ | 2026-10-29 |
 
-- 备注：E.V.D.I. – Environnement Voix Données Image SAS；937 Chemin de la Madeleine, 84340 Malaucène；RCS Avignon 399 343 870；SIRET 399 343 870 00040；TVA FR45399343870；资本 €80,000；+33 1 64 56 00 00
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+E.V.D.I. – Environnement Voix Données Image SAS；937 Chemin de la Madeleine, 84340 Malaucène；RCS Avignon 399 343 870；SIRET 399 343 870 00040；TVA FR45399343870；资本 €80,000；+33 1 64 56 00 00

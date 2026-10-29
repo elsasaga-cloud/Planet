@@ -1,10 +1,10 @@
 # XA-E025 · Network Distributors · 美国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 Edgecore `B-049`（原评级 B，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R01 2026-10-27）→ 下一动作 第二封
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 Edgecore `B-049`（原评级 B，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 第二封
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱
-- 研究后改级：XA → **XB**（W1-R01，主业光模块、12 人、PE 控股；交换机只是延伸 → XB，第二封排 11 月第二周（10G 上联款配光模块））；编号不变
+- 研究后改级：XA → **XB**（LT-T03，主业光模块、12 人、PE 控股；交换机只是延伸 → XB，第二封排 11 月第二周（10G 上联款配光模块））；编号不变
 - 人工改级：XB（2026-10-29，Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径））；编号不变
 - 标记：S箱已群发
 - 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
@@ -102,10 +102,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W1-R01，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — 主业光模块、12 人、PE 控股；交换机只是延伸 → XB，第二封排 11 月第二周（10G 上联款配光模块）
-- 活着吗：活（网店 + LinkedIn 375 粉），2026-10-27
+- 活着吗：在线（networkdistributors.com，快照 2026-10-29）：Network Distributors â Fibre Optic Cables and More
 - 一句话：圣何塞的兼容光模块专业分销商（1999/2001 起，12 人，$8–26M，PE Salt Creek 控股），为 50+ OEM 品牌做兼容光模块/线缆，近年加「open networking solutions」。10-21 发 sales@ 未回。
 - 是什么人：光模块/线缆专业分销商（开放网络延伸）；规模：12 人；$8M（RocketReach）–$26M（Prospeo）
 - 在卖/在用：兼容光模块（Cisco/Juniper/Brocade/HP 兼容）、DAC/AOC、WDM、open networking
@@ -122,6 +122,7 @@
 | MapQuest 简介 | optical transceivers, cables, and open networking solutions |  | https://www.mapquest.com/us/california/network-distributors-358592707 | 2026-10-27 |
 | Salt Creek Capital | Salt Creek Capital Acquires Network Distributors（2017-08） |  | https://blog.saltcreekcap.com/2017/08/03/salt-creek-capital-acquires-network-distributors/ | 2017-08-03 |
 | 网店页 | sales@networkdistributors.com / 408 392 0066 |  | https://networkdistributors.com/hp_gbic.html | 2026-10-27 |
+| 官网快照 | 官网在线；Network Distributors â Fibre Optic Cables and More | Network Distributors â Fibre Optic Cables and More | https://networkdistributors.com/ | 2026-10-29 |
 
 草稿（英文，第二封；Simon 发，Agent 不发）：
 
@@ -139,3 +140,6 @@ Have you considered adding a switch line to the optics business, or do you prefe
 Simon
 Saga Telecom - sagatele.com
 ```
+
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/evidence。
+

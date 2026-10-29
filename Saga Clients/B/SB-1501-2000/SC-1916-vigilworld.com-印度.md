@@ -28,7 +28,7 @@ last_contact: unknown
 p1: STC-424XGGPM-280W
 price_tier: 30%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -58,6 +58,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ○ 印度 · 自有品牌安防商 OEM 30%：VIgIL – M/s Udaya Security Vision（Cuttack, Odisha；CCTV 自有品牌 22 年；vigil_usv@yahoo.co.in）部分坐实（GST 未取）；印度先例 ✔ 自有品牌 ✔ hisource PoE 现供 ✔ → P 池候选（仅 yahoo 邮箱） | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 登记底数（registry） | IN · 1 次检索：vigilworld.com/contact-us（法人名 / 地址 / 邮箱 / 业务）；GST 未取；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Your domain is expired — Domain is expired | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -116,10 +117,11 @@ updated: 2026-10-29
   > 来源：（抓取 2026-10-29）
 - **KP**：—（表内邮箱（公开 / 总机））vigil_usv@yahoo.co.in 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 印度 · 自有品牌安防商 OEM 30%：VIgIL – M/s Udaya Security Vision（Cuttack, Odisha；CCTV 自有品牌 22 年；vigil_usv@yahoo.co.in）部分坐实（GST 未取）；印度先例 ✔ 自有品牌 ✔ hisource PoE 现供 ✔ → P 池候选（仅 yahoo 邮箱）；闸 1：印度 Vigil（vigilworld.com no_mx；vigil_usv@yahoo.co.in；PoE switch，hisource 的 ✔）：点名中国品牌 ✔ 印度先例 ✔ 对位 ✔ 可达 ✔ → 闸 2 查底数（MCA 镜像…
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：saga_fit.basis/deep/facts。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -133,6 +135,14 @@ updated: 2026-10-29
 - **风险/边界**：登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号
 - **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——默认对位（自有品牌安防商 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
 
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://vigilworld.com/　语言：未标　站点地图 URL 数：0
+- **标题**：Your domain is expired
+- **描述**：Domain is expired
+- 首页正文摘录：Your domain is expired. Renew the domain to activate the website Website content is unavailable due to the fact that domain has expired. Renew your domain in order to see your website online. What's next? Save your domain Don't lose your domain. Log in to your Hostinger account in order to renew your domain Renew now Get a new domain starting from $0.99 Use our domain checker tool to find the perfect name for your on
+- 数据文件：`data/saga_clients/site_snapshots/SC-1916.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
+
 ## 在卖/在用品牌 → Saga 对位
 
 （备注未提及具体品牌）
@@ -143,12 +153,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-1916/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://vigilworld.com/) | html | 待首轮 | — | 官网首页 |
+| [home](https://vigilworld.com/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 508 字符；首行：Your domain is expired |
 
 ## 联系方式（已有 · 原值照录）
 

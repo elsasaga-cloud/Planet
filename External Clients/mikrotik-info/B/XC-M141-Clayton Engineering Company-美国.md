@@ -1,6 +1,6 @@
 # XC-M141 · Clayton Engineering Company · 美国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：☆ 电气分销 + 培训 / 咨询 20%：Clayton Engineering Company（Cuddy / Bridgeville PA；1947 起；AHTD 会员；11–50 人；Owner Don Bohn）官网线卡部分坐实（PA 注册号待补）；主区 US 但电气分销为主 → 观察档；sales@clayeng.net） ｜ 来源 mikrotik-info `C-076`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-03 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：☆ 电气分销 + 培训 / 咨询 20%：Clayton Engineering Company（Cuddy / Bridgeville PA；1947 起；AHTD 会员；11–50 人；Owner Don Bohn）官网线卡部分坐实（PA 注册号待补）；主区 US 但电气分销为主 → 观察档；sales@clayeng.net） ｜ 来源 mikrotik-info `C-076`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 >
 > **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：☆ P 池 · 观察档**（闸 3 · G3 · 2026-10-29）：☆ 电气分销 + 培训 / 咨询 20%：Clayton Engineering Company（Cuddy / Bridgeville PA；1947 起；AHTD 会员；11–50 人；Owner Don Bohn）官网线卡部分坐实（PA 注册号待补）；主区 US 但电气分销为主 → 观察档；sales@clayeng.net
 
@@ -47,12 +47,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，X1-03，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XC** — X1-03 补路径：☆ 电气分销 + 培训 / 咨询 20%：Clayton Engineering Company（Cuddy / Bridgeville PA；1947 起；AHTD 会员；11–50 人；Owner Don Bohn）（等级不动，池位见 sieve_x）
-- 活着吗：2026-10-29 检索命中官网 / 名录（在线）
+- 活着吗：在线（claytonengineering.com，快照 2026-10-29）：Clayton Engineering
 - 一句话：Clayton Engineering Company：电气分销 + 培训 / 咨询，1947 起，AHTD（高科技分销商协会）会员；11–50 人；Owner Don Bohn
 - 是什么人：分销（HMS/N-Tron·Red Lion 渠道）；Clayton Engineering Company
+- 在卖/在用：Schneider
 - 对口哪条线：Saga STI 工业 / SmartByte 商用 PoE — ☆ 电气分销 + 培训 / 咨询 20%：Clayton Engineering Company（Cuddy / Bri
 - 找得到人吗：sales@clayeng.net（官网 / 名录公开（X1-03 补路径））；KP：无具名
 - 已触达：未触达（路径 2026-10-29 新补）
@@ -64,5 +65,7 @@
 |---|---|---|---|---|
 | 官网 / 名录 | 官网线卡 PDF：CLAYTON ENGINEERING COMPANY · sales@clayeng.net · FOUNDED 1947 · AHTD |  | https://www.claytonengineering.com/media/documents/ClaytonEng_LineList.pdf?_cchid=bb828c8df56a6b690ad711392e475619 | 2026-10-29 |
 | 官网 / 名录 | Crunchbase：Clayton Engineering · Bridgeville PA · 11–50 · Owner Don Bohn · sales@clayeng.net |  | https://www.crunchbase.com/organization/clayton-engineering-4b76 | 2026-10-29 |
+| 官网快照 | 官网在线；Clayton Engineering | The Leading Brands in Automation and Control | https://www.claytonengineering.com/ | 2026-10-29 |
 
-- 备注：Clayton Engineering Company；685 Millers Run Rd, Cuddy (Bridgeville), PA 15031；+1 800 252 9866
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+Clayton Engineering Company；685 Millers Run Rd, Cuddy (Bridgeville), PA 15031；+1 800 252 9866

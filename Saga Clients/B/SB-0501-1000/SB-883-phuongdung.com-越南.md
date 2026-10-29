@@ -23,7 +23,7 @@ s_mail: 2 msgs (out 0 / in 2), 2024-09-30 -> 2024-10-28
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
-site_snapshot: timeout  # 2026-10-21
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -35,7 +35,7 @@ updated: 2026-10-29
 - **历史互动**：推送 1 次（2025-02-10 → 2025-02-10）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
+- **最大未知**：年走量与现供应商
 - **下一步**：不动 — 首封前知悉：Elsa 仅 2025-02-10 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；—
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
@@ -52,6 +52,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-02-10 | out | Elsa → info@phuongdung.com | 8 Port Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Nhà phân phối sỉ & lẻ thiết bị công nghệ - Phương Dung Telecom — Phương Dung Telecom mua bán lắp đặt camera IP quan sát không dây chính hãng: Vantech, Afiri, USVISION, Honeywell, Ezviz, Ebitcam, KBVision, HIKVision, Dahua..Công ty lắp camera tại nhà cho gia đình tại TpHCM, Bình Dương. LH: 1900 599 8 | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -99,10 +100,10 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（phuongdung.com：超时（站慢或封锁），2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：在线（phuongdung.com，快照 2026-10-29）：Nhà phân phối sỉ & lẻ thiết bị công nghệ - Phương Dung Telecom
 - **是谁**：越南 Phuong Dung（phuongdung.com：分销商/批发零售商，switch 有 ONV 的；KP Văn Đức Phương；官网 timeout）；表内 1 次跟进无回复。
 - **类型**：网络产品分销/批发商（越南，ONV 在售）
-- **在卖/在用品牌**：ONV
+- **在卖/在用品牌**：ONV, Dahua, Hikvision, Uniview, TP-Link, D-Link, Siemens, Bosch, ZKTeco, Huawei, Tenda, Ubiquiti, Cisco
 - **【用户表】表内兴趣/备注**
   > 分销商 批发零售商；switch 有ONV的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
@@ -110,10 +111,11 @@ updated: 2026-10-29
   > 分销商 批发零售商 / switch 有ONV的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Văn Đức Phương（负责人 / 法人代表（masothue VĂN ĐỨC PHƯƠNG 吻合；另代表 Univision Việt Nam JSC、Sài Gòn New；1 次跟进无回复）= 拍板人 / 收件人 — 一页纸一次：分销 20% B small、摄像机 PoE STC-028GP $28 / STC-228GP / STC-2216GP 一口价 + MOQ 1 + 付费样机、不点名 ONV — 越南常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、MIC 不声称（第 119 批 官方登记核实 2026-10-28））info@phuongdung.com 〔用户表〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/brands_seen/site_contacts/deep/facts。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -131,14 +133,21 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——ONV 位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；非管理 4/8 PoE 位 HRUI（列表价，注明）
 - **邮件切入句（英文）**：Mr. Phương, alongside the ONV switches you wholesale, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS, EXW USD — which PoE port count do your retail and installer customers buy most?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：超时（站慢或封锁））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
 
-- 尝试域名：phuongdung.com
-  > https://phuongdung.com/ conn: HTTPSConnectionPool(host='phuongdung.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<H
-  > https://www.phuongdung.com/ conn: HTTPSConnectionPool(host='www.phuongdung.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutErro
-  > http://phuongdung.com/ conn: HTTPConnectionPool(host='phuongdung.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTT
-- **提示**：抓取失败不代表公司不在；人工打开一次即可。
-- 数据文件：`data/saga_clients/site_snapshots/SB-883.json`
+- **首页**：https://phuongdung.com/　语言：vi　站点地图 URL 数：4184
+- **标题**：Nhà phân phối sỉ & lẻ thiết bị công nghệ - Phương Dung Telecom
+- **描述**：Phương Dung Telecom mua bán lắp đặt camera IP quan sát không dây chính hãng: Vantech, Afiri, USVISION, Honeywell, Ezviz, Ebitcam, KBVision, HIKVision, Dahua..Công ty lắp camera tại nhà cho gia đình tại TpHCM, Bình Dương. LH: 1900 599 817. Phân phối sỉ camera, Tuyển đại lý camera toàn quốc
+- **首页栏目**：CÔNG TY TNHH VIỄN THÔNG PHƯƠNG DUNG / Camera Quan Sát / Camera IR Flame Sensor 4MP – Model HF-VR 343 / Camera tích hợp đầu báo nhiệt 4MP – Model HF-VH 243 / Báo Cháy, Báo Trộm / Camera tích hợp đầu báo nhiệt – Model HF-VH 221 / Đầu báo khói RF – Model HF-S3E-R / Còi đèn báo động Lora – Model HK-SG-1124
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 404、dahua 156、hikvision 127、telecom 28、cable 17、wifi 16、cisco 15、axis 15、tp-link 9、sfp 7、poe 3、industrial 2
+- **站内出现的品牌**：Dahua, Hikvision, Uniview, TP-Link, D-Link, Siemens, Bosch, ZKTeco, Huawei, Tenda, Ubiquiti, Cisco　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：SFP28, T1L-2WT, UHO-S2E, UHO-S2, UHO-S1, HF-S3E-R, HK-SG-1124, J-SAP-HK-1104, NP-FW100, PC-971W, DS-KH6320-WTE1, DS-K1T344MBFWX-E1
+- **站内公开邮箱**：info@phuongdung.com
+- **产品类页面**：https://phuongdung.com/5port-gigabit-desktop-switch-with-4port-poe/；https://phuongdung.com/ms106lp-switch-6-cong-10100mbps-voi-4-cong-poe/；https://phuongdung.com/ms110p-switch-10-cong-10100mbps-voi-8-cong-poe/；https://phuongdung.com/rges05f-5port-10100-mbps-unmanaged-nonpoe-switch/；https://phuongdung.com/ms108gp-8port-gigabit-desktop-switch-with-7port-poe/；https://phuongdung.com/ms110cp-8port-10100-mbps-2port-gigabit-desktop-switch-with-8port-poe/
+- **已抓子页**：[Network](https://phuongdung.com/network/)；[Camera Unv](https://phuongdung.com/camera-unv/)；[Camera VIGI](https://phuongdung.com/camera-vigi/)；[Camera TAPO](https://phuongdung.com/camera-tapo/)；[Camera khác](https://phuongdung.com/camera-khac/)；[Camera Dahua](https://phuongdung.com/camera-dahua/)
+- 首页正文摘录：Giới thiệu Tin tức Tuyển dụng Liên hệ Download Kiểm tra bảo hành Kiểm tra đơn hàng Đăng ký Đăng nhập Tất cả các danh mục Camera Quan Sát Báo Cháy, Báo Trộm Thiết bị kiểm soát Thiết Bị Quang Thiết bị âm thanh Laptop & Apple Thiết bị tin học Thiết Bị Điện Thoại Thiết Bị thông minh Thiết bị viễn thông Thiết Bị Mạng Thiết bị công nghệ Thiết bị khác Hàng Thanh Lý 0 Luôn có khuyến mãi Giao hàng toàn quốc Bảo hành tận nơi Đ
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 3、监控 405 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-883.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -167,13 +176,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-25T07:41:18Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-883/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://phuongdung.com/) | html | ConnectTimeout: HTTPSConnectionPool(host='phuongdung.com', p | 2026-10-25T07:41:18Z | 官网首页（T27 快照状态 timeout） |
+| [home](https://phuongdung.com/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 12536 字符；首行：Nhà phân phối sỉ & lẻ thiết bị công nghệ - Phương Dung Telecom |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -248,7 +257,6 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

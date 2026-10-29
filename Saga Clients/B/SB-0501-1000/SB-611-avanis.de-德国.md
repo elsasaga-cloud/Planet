@@ -213,15 +213,15 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-27T08:02:45Z
-- **最近变化摘要**：2026-10-27 home：内容变化：+0 −4 行
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 news_2：内容变化：+1 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-611/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://avanis.de/) | html | HTTP 200 | 2026-10-27T08:02:45Z | 5808 字符；首行：Avanis GmbH - Ihr zuverlässiger Partner für Netzwerktechnik |
-| [news_1](https://avanis.de/news) | html | HTTP 200 | 2026-10-23T04:20:51Z | 12230 字符；首行：Neuigkeiten und Fachartikel - Avanis Blog |
-| [news_2](https://avanis.de/news/blog/welttag-der-patientensicherheit-2026) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7245 字符；首行：Welttag der Patientensicherheit 2026 |
+| [home](https://avanis.de/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 5805 字符；首行：Avanis GmbH - Ihr zuverlässiger Partner für Netzwerktechnik |
+| [news_1](https://avanis.de/news) | html | HTTP 200 | 2026-10-29T15:11:51Z | 12227 字符；首行：Neuigkeiten und Fachartikel - Avanis Blog |
+| [news_2](https://avanis.de/news/blog/welttag-der-patientensicherheit-2026) | html | HTTP 200 | 2026-10-29T15:11:51Z | 7242 字符；首行：Welttag der Patientensicherheit 2026 |
 
 - **人工定期看（登录墙，不自动抓）**：Instagram: https://www.instagram.com/avanis_gmbh/；LinkedIn: https://linkedin.com/company/avanis-gmbh
 

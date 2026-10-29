@@ -29,7 +29,7 @@ s_mail: 22 msgs (out 22 / in 0), 2024-06-28 -> 2026-08-25
 p1: STC-228GP
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: http_error  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -41,7 +41,7 @@ updated: 2026-10-29
 - **历史互动**：推送 17 次（2024-05-31 → 2025-11-03）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-228GP — 默认对位（连锁分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）；
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：不动：LT-01 复核（待过）后再定 — 长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-29）
@@ -125,7 +125,8 @@ updated: 2026-10-29
   > 来源：（抓取 2026-10-29）
 - **KP**：—（表内邮箱（公开 / 总机））pokupka@videoglaz.ru 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 连锁分销 20%：ООО «ВИДЕОГЛАЗ ЦЕНТР»（Москва；ИНН 7719840097 / ОГРН 1137746240279；品牌 2002；B2B 门户 + 加盟）坐实；已进口 hasivo PoE ✔ 对位 ✔ 坐实 ✔ 连锁体量 ✔ → P 池候选（17 推 0 回 → 点名 B2B 采购换稿）；闸 1：俄罗斯 Videoglaz（videoglaz.ru；CCTV 为主 + hasivo 商业 PoE）：进口中国同类 ✔ 对位 ✔ 俄罗斯；群发 17 次 0 回 → 闸 2 查底数；俄语区收款待定，低优先
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#1。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
 ### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
@@ -141,6 +142,15 @@ updated: 2026-10-29
   - 表内兴趣：CCTV为主 有hasivo的商业POE
 - **风险/边界**：**CCTV 连锁 B2B 门户在售 hasivo PoE → 分销 20%：找 B2B 采购一页纸一次（STC-028GP $28 / STC-228GP $33 对标 hasivo + MOQ 1 + 付费样机；hasivo 不点名）— 俄语区常规：英文 / 俄文稿、20 / 25 / 30 + 预付 100%（收款 / 物流路径待 Simon 定：第三国结算或代理）+ FOB 深圳；周四 1
 - **Saga 对位结论**：P1 STC-228GP（20% 档）——默认对位（连锁分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
+
+- 尝试域名：videoglaz.ru
+  > https://videoglaz.ru/ http 401 ct=text/html
+  > https://www.videoglaz.ru/ http 401 ct=text/html
+  > http://videoglaz.ru/ http 401 ct=text/html
+- **提示**：抓取失败不代表公司不在；人工打开一次即可。
+- 数据文件：`data/saga_clients/site_snapshots/SC-311.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -195,12 +205,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-311/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://videoglaz.ru/) | html | 待首轮 | — | 官网首页 |
+| [home](https://videoglaz.ru/) | html | HTTP 401 | 2026-10-29T15:11:51Z | 官网首页 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -275,6 +286,7 @@ updated: 2026-10-29
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
+- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

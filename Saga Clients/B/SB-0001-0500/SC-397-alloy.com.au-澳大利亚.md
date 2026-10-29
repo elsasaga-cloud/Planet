@@ -29,7 +29,7 @@ s_mail: 33 msgs (out 32 / in 1), 2024-06-25 -> 2026-09-01
 p1: STC-424XGGPM-280W
 price_tier: 30%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 3
 updated: 2026-10-29
 ```
@@ -59,6 +59,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ★ 自有品牌 · OEM 30%：Alloy Computer Products (Australia) Pty Ltd（ABN 41 006 507 473；制造商 + 增值分销；自有 PoE AS2008-P / AS1026-P、L3 Lite AS5010-P、MC GCR2000）坐实；自有品牌 ✔ 对位 ✔ 坐实 ✔ → P 池候选 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 登记底数（registry） | AU · 1 次检索：buy.nsw.gov.au/supplier/profile/103131（ABN）+ alloy.com.au/products/vendor/alloy/ + /alloy/（自有品牌线）；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Leader Proudly Australian Distributor – Leader Proudly Australian Distributor | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -117,6 +118,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（★ 正式）：★ 自有品牌 · OEM 30%：Alloy Computer Products (Australia) Pty Ltd（ABN 41 006 507 473；制造商 + 增值分销；自有 PoE AS2008-P / AS1026-P、L3 Lite AS5010-P、MC GCR2000）坐实；自有品牌 ✔ 对位 ✔ 坐实 ✔ → P 池候选
 - **类型**：OEM（闸 2 判定 · 30% 档）
 - **规模**：中型（SME）
+- **在卖/在用品牌**：Ubiquiti
 - **【登记底数 / 官网（闸 2 坐实）】Alloy Computer Products (Australia) Pty. Ltd.（alloy.com.au；**ABN 41 006 507 473（buy.nsw.gov.au 供应商库）；制造商 + 增值分销；自有品牌 PoE 交换机 AS2008-P / AS2024-P / AS1008-P / AS1026-P、L3 Lite 管理型 AS5010-P / AS5128-F、MC GCR2000SC / AC1020SC；自述向英美澳新菲政府机构供光纤设备**
   > AU · 1 次检索：buy.nsw.gov.au/supplier/profile/103131（ABN）+ alloy.com.au/products/vendor/alloy/ + /alloy/（自有品牌线）；2026-10-29
   > 来源：https://buy.nsw.gov.au/supplier/profile/103131（抓取 2026-10-29）
@@ -128,10 +130,11 @@ updated: 2026-10-29
 - **KP**：—（表内邮箱（公开 / 总机））sales@alloy.com.au 〔〕
 - **KP**：—（表内邮箱（公开 / 总机））sales@leadersystems.com.au 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 自有品牌 · OEM 30%：Alloy Computer Products (Australia) Pty Ltd（ABN 41 006 507 473；制造商 + 增值分销；自有 PoE AS2008-P / AS1026-P、L3 Lite AS5010-P、MC GCR2000）坐实；自有品牌 ✔ 对位 ✔ 坐实 ✔ → P 池候选；闸 1：澳大利亚 Alloy（alloy.com.au；自有品牌 MC / SFP / 光猫 / 工业 FS / 商业 PoE，「很多公司在卖他家的」）：自有品牌 = OEM 对象 ✔ 对位 ✔；群发 22 次 0 回 → 闸 2 查底数（ABN…
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/saga_fit.basis/deep/facts。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -144,6 +147,20 @@ updated: 2026-10-29
   - 表内兴趣：MC SFP 光猫 工业FS
 很多公司在卖他家的；商业POE 别人卖他们的
 - **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://leadersystems.com.au/　语言：en-US　站点地图 URL 数：74
+- **标题**：Leader Proudly Australian Distributor – Leader Proudly Australian Distributor
+- **首页栏目**：TRADE-ONLY / UC, MTR & VoIP / Cloud Services / Ubiquiti UniFi / Voice & Connectivity / Virtual Training / In-Person Training & Events / Self-Paced Online Learning
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：ubiquiti 8、automation 1、wireless 1
+- **站内出现的品牌**：Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：AUAAJA0700
+- **站内公开邮箱**：accounts@leadersystems.com.au, help@breezeconnect.com.au, help@leadercloud.com.au, sales@leadersystems.com.au, warranty@leadersystems.com.au
+- **社媒**：https://patchbox.com/, https://twitter.com/LeaderComputers, https://www.3cx.com/, https://www.dropbox.com/, https://www.dropbox.com/business/hellosign, https://www.facebook.com/LeaderAus
+- **已抓子页**：[Demo Experience – Leader Proudly Australian Distributor](https://leadersystems.com.au/demo-experience/)；[Contact Us – Leader Proudly Australian Distributor](https://leadersystems.com.au/contact-us/)
+- 首页正文摘录：TRADE-ONLY Our Promise Vendors Solutions UC, MTR & VoIP Connect to anyone on any device from anywhere Cloud Services Your path to a profitable business in the cloud Ubiquiti UniFi The comprehensive solution for all your IT needs Voice & Connectivity Your telco service provider with exceptional reliability Training Virtual Training Gain invaluable knowledge from industry experts In-Person Training & Events Upskill and
+- 数据文件：`data/saga_clients/site_snapshots/SC-397.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -205,12 +222,12 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-397/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://alloy.com.au/) | html | 待首轮 | — | 官网首页 |
+| [home](https://alloy.com.au/) | html | ConnectTimeout: HTTPSConnectionPool(host='alloy.com.au', por | - | 官网首页 |
 
 ## 联系方式（已有 · 原值照录）
 

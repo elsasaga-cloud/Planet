@@ -1,10 +1,10 @@
 # XA-E008 · Cambridge Computer · 美国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 Edgecore `A-053`（原评级 A，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R01 2026-10-27）→ 下一动作 第二封
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 Edgecore `A-053`（原评级 A，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 第二封
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱（含实名 KP）
-- 研究后改级：XA → **XB**（W1-R01，主业存储、交换机配套；体量偏大、客户是高校药企；能做的只是 CENTEC ToR 的价格选项 → XB，第二封排 11 月第二周）；编号不变
+- 研究后改级：XA → **XB**（LT-T03，主业存储、交换机配套；体量偏大、客户是高校药企；能做的只是 CENTEC ToR 的价格选项 → XB，第二封排 11 月第二周）；编号不变
 - 人工改级：XB（2026-10-29，Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径））；编号不变
 - 标记：S箱已群发
 - 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
@@ -95,10 +95,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W1-R01，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — 主业存储、交换机配套；体量偏大、客户是高校药企；能做的只是 CENTEC ToR 的价格选项 → XB，第二封排 11 月第二周
-- 活着吗：官网活（2026-07 更新）、SAM 登记有效至 2027-05
+- 活着吗：在线（cambridgecomputer.com，快照 2026-10-29）：Cambridge Computer | Advanced Computing Solutions
 - 一句话：1991 年起的存储/数据保护/HPC 经销商（51–200 人，$10–50M 级），女性企业认证，NVIDIA 网络经销商、NetApp 州合同经销商，客户为大企业/顶尖高校/药企；自称 broker-agent 而非 VAR。10-19 发 sgay@ 未回。
 - 是什么人：存储/HPC 方向 VAR（技术型买家为主）；规模：51–200 人；$10–50M（GovTribe）
 - 在卖/在用：NVIDIA Networking、NetApp、QCT、Edgecore（官方 SI 名录）
@@ -115,6 +115,7 @@
 | NVIDIA 经销商名录 | Cambridge Computer 列为 NVIDIA Networking 北美经销商 |  | https://www.nvidia.com/en-us/networking/resellers/nala/ | 2021-05-26 |
 | GovTribe | SAM 登记 Active through May 5, 2027；51–250 人；$10M–$50M |  | https://govtribe.com/vendors/cambridge-computer-services-inc-dot-1gum2 | 2026-05-05 |
 | CIOReview | CTO Jacob Farmer：业务模式 broker-agent 而非 reseller/integrator |  | https://cioreview.com/cambridge-computer | 2026-10-27 |
+| 官网快照 | 官网在线；Cambridge Computer ｜ Advanced Computing Solutions | Trusted technology integrator offering tailored solutions in enterprise, research, and edge computing for advanced technical users. | https://www.cambridgecomputer.com/ | 2026-10-29 |
 
 草稿（英文，第二封；Simon 发，Agent 不发）：
 
@@ -133,4 +134,5 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：下一封改发 joliverio@（实名关系经理），比 sgay@ 更对口。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence。
+下一封改发 joliverio@（实名关系经理），比 sgay@ 更对口。

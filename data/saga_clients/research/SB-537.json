@@ -108,6 +108,14 @@
     "quote": "商业PoE 自己的型号 有ONV Utepo Ewind的工业FS；https://lyvi.ru/p-g10999549758472032000",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 复核 LT-R10",
+    "quote": "DNS 2026-10-29 16:2xZ：htvision.ru MX mail.htvision.ru.；A 217.107.219.186；NS ns3.jino.ru. / ns1.jino.ru.",
+    "why": "长期客户群复核证据（非邮件事实，不计真回）",
+    "url": ""
    }
   ],
   "proof_gaps": [],
@@ -127,5 +135,15 @@
    "2026-10-29"
   ],
   "batch": "LT-T03"
- }
+ },
+ "lt_review": {
+  "status": "留 B",
+  "batch": "LT-R10",
+  "prio": null,
+  "queued": "LT-R10",
+  "verdict_date": "2026-10-29",
+  "note": "官网快照两次失败（2026-10-21 / 2026-10-29：连接不可达（屏蔽境外 / 仅 CDN）），但 DNS 2026-10-29 16:2xZ 复查 htvision.ru MX/A/NS 正常 → 非死域、邮箱路径未断 → 留 B 不动；快照失败只记「官网不可抓」，不作打回依据（可逆：两次独立 DNS 死才复核）",
+  "why": ""
+ },
+ "override_history": []
 }

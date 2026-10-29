@@ -1,6 +1,6 @@
 # XC-M127 · Automatikos centras, UAB · 立陶宛
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 工业自动化分销 + 集成 20%：AUTOMATIKOS CENTRAS, UAB（Kaunas Pramonės pr. 17H；Įmonės kodas 111760799；Vadovas Liudgardas Skruodenis）坐实；Westermo Reseller → STI 对位；info@automatikoscentras.lt） ｜ 来源 mikrotik-info `C-062`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-02 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 工业自动化分销 + 集成 20%：AUTOMATIKOS CENTRAS, UAB（Kaunas Pramonės pr. 17H；Įmonės kodas 111760799；Vadovas Liudgardas Skruodenis）坐实；Westermo Reseller → STI 对位；info@automatikoscentras.lt） ｜ 来源 mikrotik-info `C-062`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 >
 > **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：○ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 工业自动化分销 + 集成 20%：AUTOMATIKOS CENTRAS, UAB（Kaunas Pramonės pr. 17H；Įmonės kodas 111760799；Vadovas Liudgardas Skruodenis）坐实；Westermo Reseller → STI 对位；info@automatikoscentras.lt
 
@@ -48,10 +48,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，X1-02，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XC** — X1-02 补路径：○ 工业自动化分销 + 集成 20%：AUTOMATIKOS CENTRAS, UAB（Kaunas Pramonės pr. 17H；Įmonės kodas 111760799；Vadovas Liudgardas （等级不动，池位见 sieve_x）
-- 活着吗：2026-10-29 检索命中官网 / 名录（在线）
+- 活着吗：在线（automatikoscentras.lt，快照 2026-10-29）：Acentras.lt - Automatikos centras
 - 一句话：AUTOMATIKOS CENTRAS, UAB：工业自动化（PLC / 变频 / 伺服 / 机器人）分销 + 集成（Westermo Reseller）；经理 Saulius +370 615 25580；Vadovas Liudgardas Skruodenis
 - 是什么人：分销（Westermo Reseller）；AUTOMATIKOS CENTRAS, UAB
 - 对口哪条线：Saga STI 工业 / SmartByte 商用 PoE — ○ 工业自动化分销 + 集成 20%：AUTOMATIKOS CENTRAS, UAB（Kaunas Pramonės 
@@ -65,5 +65,7 @@
 |---|---|---|---|---|
 | 官网 / 名录 | 官网 Kontaktai：info@automatikoscentras.lt · Pramonės pr. 17H Kaunas · 经理 Saulius / 工程师 Darius |  | https://automatikoscentras.lt/kontaktai/ | 2026-10-29 |
 | 官网 / 名录 | geltoni.lt：AUTOMATIKOS CENTRAS, UAB · 111760799 · Vadovas Liudgardas Skruodenis |  | https://geltoni.lt/imones/automatikos-centras-uab/23403 | 2026-10-29 |
+| 官网快照 | 官网在线；Acentras.lt - Automatikos centras | Automatikos centras – įmonė, dirbanti su pažangiausia pramonine automatikos įranga ir siūlanti šiuolaikinius sprendimus procesų automatizavimui. | https://automatikoscentras.lt/ | 2026-10-29 |
 
-- 备注：AUTOMATIKOS CENTRAS, UAB；Pramonės pr. 17H, LT-51327 Kaunas；Įmonės kodas 111760799；+370 37 262707
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence。
+AUTOMATIKOS CENTRAS, UAB；Pramonės pr. 17H, LT-51327 Kaunas；Įmonės kodas 111760799；+370 37 262707

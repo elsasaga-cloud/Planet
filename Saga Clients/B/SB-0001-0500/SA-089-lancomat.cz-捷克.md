@@ -28,7 +28,7 @@ last_contact: unknown
 p1: STI-288GPM
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -60,6 +60,7 @@ updated: 2026-10-29
 | 2025-04-12 | 去 | Elsa 箱群发 Bcc | Marvell Alleycat5 Solution｜Hi, How are you? We are doing Marvell Alleycat5 chip for tai | Elsa 群发命中（批 CZ，锚 To office@ergate.cz） | `196298c90e618602` |
 | 2026-08-28 | 去 | Elsa 群发（BCC；To office@ergate.cz，CZ 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 info@lancomat.cz, lancomat.cz）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-08-28 | 去 | Elsa 箱群发 Bcc | 24 Port PoE Managed Switch｜Price: 170USD/PC | Elsa 群发命中（批 CZ，锚 To office@ergate.cz） | `1a04798efe1a50d8` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Lancomat.cz - vše pro strukturované kabeláže, optické sítě a rozvaděče — Prodej materiálu pro instalace strukturované kabeláže, optických sítí a rozvaděčů. Distributor produktů Leviton, Conteg, Panduit a Solarix. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -114,7 +115,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（lancomat.cz；并档 Planet 渠道档案 PA-018）
 - **是谁**：布拉格的结构化布线 / 光纤 / 机柜分销商，有源类目在售 7 款 PLANET 工业 / PoE 交换机，总经理与销售团队邮箱全部公开。类型：结构化布线 / 光纤 / 机柜分销商兼电商（「vše pro strukturované kabeláže, optické sítě a rozvaděče」；另有 IP 对讲、有源设备、UPS、OEM 组件、租赁服务）；PLANET 为其工业 / 商用交换机在售品牌。信号：lancomat.cz 商品页「Výrobce PLANET TECHNOLOGY」：IGS-1820TF 8 383 Kč（OutOfStock，36 měsíců）、IGS-12040MT 9 588 Kč bez DPH / 11 601 s DPH、IGS-624HPT、GSD-908HP（24 months）、IGS-5225-4T2S（60 months 保修）、IGS-10020PT（8×GE PoE 130 W managed）、IGS-6325-20T4C4X（L3 24 GLAN + 4 SFP）。Planet 渠道档案 PA-018 评级 A（需求：7 款 PLANET 工业 / PoE 交换机商品页带 CZK 价与保修（IGS-5225-4T2S 60 个月）→ 有源类目采购真实且含管理型工业款；触达：/podrobne-kontakty/ 公开 jednatel Tomáš Jahoda tjahoda@lancomat.cz +420 724 825 435、Zdeněk Zíta zzita@、销售专员 Jan Raboch jraboch@ 等 11 名具名 + 直线 → 决策人直达；体量：布拉格布线分销（IČO 27929795，约 11 名员工公开名单）→ 可赢；Gmail：Elsa 账号 2025-04-12 → 2026-08-28 以 BCC 群发 10 封至 info@lancomat.cz，0 回复 → 非首触，但具名通道未用过；Mikrotik 仓无此户 → A）。并档说明：Saga 表内本条 SA-089（捷克）自动评 C（原因：；Saga 群发已推送 0 次无回复）。
-- **在卖/在用品牌**：PLANET
+- **在卖/在用品牌**：PLANET, Aruba, Teltonika
 - **【官网（搜索快照）】法律实体 / 地址 / 总机**
   > LANCOMAT s.r.o. Poděbradská 520/24 190 00, Praha 9 - Vysočany Česká republika IČO: 27929795 DIČ: CZ27929795 … telefon +420 284 680 755 … email info@lancomat.cz (dotazy, poptávky, objednávky)
   > 来源：https://www.lancomat.cz/kontakt/（抓取 2026-10-20）
@@ -140,9 +141,10 @@ updated: 2026-10-29
 - **KP**：Jan Raboch（）jraboch@lancomat.cz +420 774 411 618〔https://www.lancomat.cz/podrobne-kontakty/〕
 - **KP**：Zdeněk Zíta / Tomáš Jahoda（两名执行董事（jednatel），2007-07-16 起未变，各自可单独代表公司（第 83 批 官方登记核实 2026-10-27）） 〔https://ares.gov.cz/ekonomicke-subjekty/27929795〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PA-018，W 批次调研 2026-10-19/20））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PA-018，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -169,6 +171,24 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-288GPM（20% 档）——其在售 IGS-10020PT（工业 8×GE PoE+ + 2×SFP 管理，130 W）→ Saga STI-288GPM 同口型（IP30、-40~75 °C、冗余 DC、L2 管理、240 W），20% 档 $78.9 USD EXW；IGS-624HPT / GSD-908HP 由 STI-244GP / STC-28DGGPM 第二封对位；布线分销商 / 电商（走量）→ 20%（沿用 Planet 档案 PA-018）；需求：
 - **邮件切入句（英文）**：Your active-equipment range carries PLANET industrial units (IGS-10020PT, IGS-624HPT, GSD-908HP) for cabling installers — a Marvell-based, neutral-packed STI line at EXW gives those slots a second source with margin you set yourself. Among your industrial PoE switches, is the 8-port Gigabit PoE+ managed class (IGS-10020PT) the one installers order most, or the 4-port IGS-624HPT — so I send the right sample first?
 
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://www.lancomat.cz:443/　语言：cs　站点地图 URL 数：3895
+- **标题**：Lancomat.cz - vše pro strukturované kabeláže, optické sítě a rozvaděče
+- **描述**：Prodej materiálu pro instalace strukturované kabeláže, optických sítí a rozvaděčů. Distributor produktů Leviton, Conteg, Panduit a Solarix.
+- **首页栏目**：Vše pro strukturované kabeláže, optické sítě a rozvaděče / Venkovní propojovací kabel RJ45/RJ45, S/FTP, 30m, kat. 6A, TPE, LSOH, černý / PATCHBOX.ONE Cat.6a sestava (STP, Blue, 1.8m / 30RU) / Nástěnný optický rozvaděč pro 48 spojek E2000/LC/SC, šedý / Optický box na DIN lištu, dvě pozice E2000/LC/SC, bílý / Optický kabel, UDU - gelový, 8x9um OS2 G657A1, univerzální, LSHF Eca, černý / Průmyslový switch, L2/L3 static, 4×GLAN, 2×SFP, konzolový RJ-45, podpora VLAN / Pigtail LC/PC, 50um MM, vlákno OM5, délka 1m
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 56、sfp 46、poe 32、ethernet 9、odm 7、10g 6、oem 6、planet 6、2.5g 3、gigabit 2、wifi 2、mikrotik 1
+- **站内出现的品牌**：Aruba, Teltonika, PLANET　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：IGS-5225-4T2S, RJ-45, CSS326-24G-2S, CRS328-24P-4S, JL813A, CRS326-24G-2S, IFGS-1222TF, AC-TM4-13-4000, PONE30STPBL, ORN-48, SXOB-SC-DIN-2, GF108UNI08LU
+- **站内公开邮箱**：info@lancomat.cz, sales@planet.com.tw
+- **站内公开电话**：+420 284 680 755, +886-2-22199518, 000 (1) 2500 (4, 000 (62) 100 (1) 100
+- **社媒**：https://www.linkedin.com/company/lancomat/
+- **产品类页面**：https://www.lancomat.cz/edgeswitch-24x-glan-2x-sfp-poe-250w-p17889/；https://www.lancomat.cz/switch-4-port-10-100-1000t-802-3at-poe-2-port-100-1000x-sfp-p15824/；https://www.lancomat.cz/switche-c569/；https://www.lancomat.cz/switche-c1056/；https://www.lancomat.cz/switche-c569/hpe/；https://www.lancomat.cz/switche-c569/cisco/
+- **已抓子页**：[Switche / Lancomat.cz](https://www.lancomat.cz:443/switche-c569/)；[IGS-5225-4T2S Průmyslový switch, L2/L3 static, 4×GLAN, 2×SFP](https://www.lancomat.cz:443/prumyslovy-switch-l2-l3-static-4-glan-2-sfp-konzolovy-rj-45-podpora-vlan-p242015/)
+- 首页正文摘录：Nákupní asistent +420 284 680 755 info@lancomat.cz Přihlásit CZK EUR 0 0 Kč Aktivní síťové prvky Díly pro OEM Nástroje Optické sítě Průmyslová kabeláž Půjčovna Rozvaděče Strukturovaná kabeláž Výrobci Menu Vše pro strukturované kabeláže, optické sítě a rozvaděče Specializujeme se na strukturované kabeláže, telekomunikační rozvaděče, vláknovou optiku, IP interkomy, aktivní prvky, záložní zdroje a doplňující sortiment. 
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 9、交换机 56 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-089.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
+
 ## 在卖/在用品牌 → Saga 对位
 
 | 备注所见品牌 | 含义 | Saga 切入 |
@@ -181,13 +201,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
-- **最近变化摘要**：2026-10-29 home：内容变化：+164 −164 行
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 home：内容变化：+176 −177 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-089/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://lancomat.cz/) | html | HTTP 200 | 2026-10-29T08:41:09Z | 9371 字符；首行：Lancomat.cz - vše pro strukturované kabeláže, optické sítě a rozvaděče |
+| [home](https://lancomat.cz/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 9279 字符；首行：Lancomat.cz - vše pro strukturované kabeláže, optické sítě a rozvaděče |
 
 ## 联系方式（已有 · 原值照录）
 

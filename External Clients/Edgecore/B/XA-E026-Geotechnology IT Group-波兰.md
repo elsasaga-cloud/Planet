@@ -1,10 +1,10 @@
 # XA-E026 · Geotechnology IT Group · 波兰
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 Edgecore `B-057`（原评级 B，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W2-R04 2026-10-27）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 Edgecore `B-057`（原评级 B，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱
-- 研究后改级：XA → **XB**（W2-R04，集成商非渠道；10-21 刚发未回 → B 慢慢跟进）；编号不变
+- 研究后改级：XA → **XB**（LT-T03，集成商非渠道；10-21 刚发未回 → B 慢慢跟进）；编号不变
 - 人工改级：XB（2026-10-29，Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径））；编号不变
 - 标记：S箱已群发
 - 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
@@ -98,12 +98,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W2-R04，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — 集成商非渠道；10-21 刚发未回 → B 慢慢跟进
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：在线（geotechnology.pl，快照 2026-10-29）：Technologie informatyczne, rozwiązania it - Warszawa | Geotechnology
 - 一句话：IT 集成商/VAR（Warsaw，公共部门向）
 - 是什么人：IT 集成商/VAR（Warsaw，公共部门向）；规模：未量化
+- 在卖/在用：Cisco
 - 对口哪条线：—
 - 找得到人吗：biuro@geotechnology.pl（来源库公开邮箱）；KP：无具名
 - 已触达：S 箱 2026-10-21 群发「24 Port PoE Managed Switch」→ 已发未回
@@ -115,5 +116,7 @@
 |---|---|---|---|---|
 | 来源库官网/名录核对 | - 邮箱：biuro@geotechnology.pl（官网 Kontakt 页）；edgestore@geotechnology.pl（其自营 Edge Store 店铺页） - 电话：+48 22 395 88 30（总机）；销售部 22 395 88 39；官网 https://www.geotechnology.pl - 地址：ul. Przyokopowa 33, 01-208 Warszawa - 登记：Geotechnol |  | https://geotechnology.pl/ | 2026-09-28 |
 | S 箱群发记录 | S 箱 2026-10-21 发 biuro@geotechnology.pl「24 Port PoE Managed Switch」，去 1 来 0 |  | data/gmail_s/2026-09_10群发名单_未入库.csv | 2026-10-21 |
+| 官网快照 | 官网在线；Technologie informatyczne, rozwiązania it - Warszawa ｜ Geotechnology | Oferujemy kompleksowe wsparcie informatyczne dla naszych Klientów, zarówno od strony handlowej jak i technicznej. | https://www.geotechnology.pl/ | 2026-10-29 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence。
+轻卡：本轮未外查，沿用来源库官网/名录核对。

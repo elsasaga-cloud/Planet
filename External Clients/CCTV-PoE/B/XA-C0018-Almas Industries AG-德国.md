@@ -1,10 +1,10 @@
 # XA-C0018 · Almas Industries AG · 德国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:16082 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R01 2026-10-27）→ 下一动作 等回
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:16082 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 等回
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家（分销/集成/安装/零售/OEM 品牌）+ 有邮箱
-- 研究后改级：XA → **XB**（W1-R01，终端方案商而非渠道，info@ 无采购口 → B；第 2 波若找到采购/技术负责人再首触）；编号不变
+- 研究后改级：XA → **XB**（LT-T03，终端方案商而非渠道，info@ 无采购口 → B；第 2 波若找到采购/技术负责人再首触）；编号不变
 - 人工改级：XB（2026-10-29，Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径））；编号不变
 - 标记：无
 - 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
@@ -61,10 +61,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W1-R01，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — 终端方案商而非渠道，info@ 无采购口 → B；第 2 波若找到采购/技术负责人再首触
-- 活着吗：活
+- 活着吗：在线（almas-industries.de，快照 2026-10-29）：Almas Industries - Sicherheitstechnik für Unternehmen
 - 一句话：曼海姆的安防方案商（2004 起，生物识别门禁/视频/报警/除颤器，集团 300 人 8 国，德国公司 2024 营收 2,170 万欧元、123 人，母公司 Almas Industries Ltd 伦敦）。自装自卖的终端方案商，不是分销商（原库「Hikvision DACH Distributor」有误）。
 - 是什么人：安防方案商/集成商（自有安装队伍）；规模：123 人；€21.7M（2024，德国公司）
 - 在卖/在用：自有生物识别、视频监控（品牌未列）
@@ -79,3 +79,7 @@
 |---|---|---|---|---|
 | 官网 Über uns | über 300 Mitarbeiter und 30.000 Kunden in acht Ländern … Unternehmen von Butler Industries |  | https://almas-industries.de/ueber-almas-industries/ | 2025-12-11 |
 | handelsregister.ai | Revenue 2024 21,70 Mio. €；Employees 2024 123；Konzernabschluss … ALMAS INDUSTRIES Limited in London |  | https://handelsregister.ai/en/organizations/mannheim/activities-of-holding-companies/almas-industries-ag-7c813be78ba568775f946c8ea2d1d63b | 2026-10-27 |
+| 官网快照 | 官网在线；Almas Industries - Sicherheitstechnik für Unternehmen | Innovative Sicherheitstechnik für Unternehmen zur Absicherung von Objekte & Räumlichkeiten ✓Sicherheitsberatung ✓Projektierung ✓Installation | https://almas-industries.de/ | 2026-10-29 |
+
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence。
+

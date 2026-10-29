@@ -1,10 +1,10 @@
 # XA-M491 · Young B.T.S. Ltd. · 匈牙利
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 mikrotik-info `A-233`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W2-R04 2026-10-27）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 mikrotik-info `A-233`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱（含实名 KP）
-- 研究后改级：XA → **XB**（W2-R04，小项目集成商（Allied Telesis 伙伴名录批量导入），非渠道 → B 慢慢跟进）；编号不变
+- 研究后改级：XA → **XB**（LT-T03，小项目集成商（Allied Telesis 伙伴名录批量导入），非渠道 → B 慢慢跟进）；编号不变
 - 人工改级：XB（2026-10-29，Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径））；编号不变
 - 标记：无
 - 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
@@ -86,13 +86,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W2-R04，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — 小项目集成商（Allied Telesis 伙伴名录批量导入），非渠道 → B 慢慢跟进
-- 活着吗：来源库 2026-09-27 核对在线；本轮未复查
+- 活着吗：在线（young.hu，快照 2026-10-29）：Kommunikációs rendszerekben gondolkodunk - Young B.T.S. Informatikai Kft.
 - 一句话：IT 集成商（Young B.T.S.）；Marvell Prestera 接入层切入
 - 是什么人：IT 集成商（Young B.T.S.）；规模：未量化
-- 在卖/在用：Allied Telesis（Marvell Prestera 接入层）
+- 在卖/在用：Allied Telesis（Marvell Prestera 接入层）、Hikvision、Uniview、Advantech、Allied Telesis
 - 对口哪条线：—
 - 找得到人吗：info@young.hu（来源库公开邮箱）；KP：无具名
 - 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
@@ -103,5 +103,7 @@
 | 类型 | 说明 | 摘录 | 来源 | 日期 |
 |---|---|---|---|---|
 | 来源库官网/名录核对 | 【待人工补信息】本条为集成商/顾问型，属 A 级主产地，但当前抓不到邮箱（群发触达不到），故由人工定级提为 A。需要人工处理：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 【2026-09-27 A210–A239联络核验】来源等级：official-search-only。官网联系页搜索索引明确报价/产品信息info@young.hu、+36(1)4522720；中央young@young.hu、+36 |  | https://young.hu/ | 2026-09-27 |
+| 官网快照 | 官网在线；Kommunikációs rendszerekben gondolkodunk - Young B.T.S. Informatikai Kft. | Kommunikációs rendszerekben gondolkodunk - Young B.T.S. Informatikai Kft. | https://www.young.hu/ | 2026-10-29 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+轻卡：本轮未外查，沿用来源库官网/名录核对。

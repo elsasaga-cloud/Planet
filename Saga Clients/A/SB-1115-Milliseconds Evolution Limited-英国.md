@@ -28,7 +28,7 @@ s_mail: 9 msgs (out 5 / in 4), 2026-09-28 -> 2026-10-19
 p1: STC-424XGGPM-280W
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -63,6 +63,7 @@ updated: 2026-10-29
 | 2026-10-17 | 来 | Iyiola Folayan | Thanks for the invoice. Unfortunately I am unable to make the payment now. I can only proceed when I have a project that can take care of the cost. | 样品 PI 搁置 | `d90558425d8bf645` |
 | 2026-10-17 | 去 | Simon → Iyiola | Lets do 2pcs, OK? If everything is good, we will deduct this amount from future orders. Your technical feedback is appreciated.（PI 2 台样机）→ 10-17 Iyiola「Unfortunately I am unable to make the payment now. I can only proceed when I have a project that can take care of the cost」→ 10-19 Simon「Let's wait then」 | 付样规则筛掉了「先要货后找项目」的一人公司；账期/信用不开。不主动催，12 月问一句项目有没有来 | `gmail_s（millievolution.com，jsonl client 字段为空，按域名重扫）` |
 | 2026-10-17 | 去 | Simon → Iyiola Folayan（Milliseconds Evolution Ltd, 128 City Road, London EC1V 2NX） | Quotation STSC-20261017-001, Incoterm DAP: STC-424XGGPM-280W × 2 @ $180 = $360; Freight $150 (about 10 kg volume weight to UK by FedEx air, door-to-door, 4~6 calendar days to local customs); Bank cost $25; TOTAL $535. Payment: Sample full payment by PayPal or T/T; Bulk 50% T/T in advance + 50% before shipment; MoQ 1; label customizable; price validity 15 days; Saga reserves repricing if USD-RMB moves sharply. | $535 的构成：货 $360 + 运 $150 + 银行费 $25；DAP 含出口清关与国际运费、不含英国进口清关与关税；装箱单 1 箱 2 台 G.W 10 kg、53.5×20.5×40.8 cm | `Drive Extra Info `Quotation__STSC-20261017-001.xlsx` + `Quotation__PL_STSC-20261017-001.xlsx`` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Index of / | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -154,10 +155,11 @@ updated: 2026-10-29
 - **KP**：Iyiola Folayan（Director + **唯一 PSC（持股 50–75% + 任免董事权，2025-10-24 通知）** = 控股人 = 联系人；公司仍是 2025-10 新壳（虚拟地址）→ 付费样品 + 100% 预付不变（第 87 批 官方登记核实 2026-10-27））ifolayan@millievolution.com 〔S 邮箱签名 + Simon 10-03 信中提到 MikroTik consultant list〕
 - **KP**：Aderonke Folayan（Director（2025-10-24 起；Wakefield）= 家属 / 共同股东（第 86 批 官方登记核实 2026-10-27）） 〔https://find-and-update.company-information.service.gov.uk/company/16807798/officers〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌
-- 备注：LT-T02 官网实查（2026-10-29）：见 evidence「LT-T02 官网实查」。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：deep/facts。
+LT-T02 官网实查（2026-10-29）：见 evidence「LT-T02 官网实查」。
 128 City Road EC1V 2NX 是伦敦常见的虚拟注册地址（公司可能无实体仓）；「经销」意向要在首单之后再谈。下一步：不催；等客户项目来时把样品 PI 换成正式单。
 
-### 加厚挖掘（2026-10-29 · 邮件证据 + 官网实查 v1（LT-T02））
+### 加厚挖掘（2026-10-29 · 邮件证据 + 官网实查 v1（LT-T02） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -166,6 +168,14 @@ updated: 2026-10-29
 
 - **风险/边界**：新公司（Companies House 2025-10-24 注册）+ 官网空站（2026-10-29）→ 对外一切以邮件往来与 Companies House 为准；不要在信里引用其官网
 - **Saga 对位结论**：P1 STC-424XGGPM-280W（20% 档）——MikroTik 顾问做项目 + 拟经销：先按经销 20% 档（$180 已是 20% 档价），项目成交后再定；样品 2 台口径已定
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://millievolution.com/　语言：未标　站点地图 URL 数：0
+- **标题**：Index of /
+- **首页栏目**：Index of /
+- 首页正文摘录：Index of / Name Last modified Size Description cgi-bin/ 2025-10-31 13:16 -
+- 数据文件：`data/saga_clients/site_snapshots/SB-1115.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -187,7 +197,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1115/`；本节随档案重渲染刷新，实时看日志。
 

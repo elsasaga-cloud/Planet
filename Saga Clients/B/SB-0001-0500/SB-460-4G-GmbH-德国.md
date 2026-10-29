@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-280GE
 price_tier: 25%
 research: done
-site_snapshot: unreachable  # 2026-10-21
+site_snapshot: unreachable  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -52,6 +52,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | OM-FBS-22-SLC / from: Shopify 珊姐跟进了 | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：4g-gmbh.de MX mx01.ionos.de. / mx00.ionos.de.；A NoAnswer；NS ns1117.ui-dns.biz. / ns1071.ui-dns.com. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -109,7 +110,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（4G-GmbH：域名不可达（DNS/连接失败），2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（4g-gmbh.de：域名不可达（DNS/连接失败），2026-10-29，第 2 次）
 - **是谁**：德国 4G GmbH（4g-gmbh.de；Shopify 订单 OM-FBS-22-SLC（光旁路/光开关类配件），「珊姐跟进了」；KP Michael Kleiböhmer（CEO）；官网 unreachable）；表内未跟进（已有订单接触）。
 - **类型**：IT/网络公司（德国，Shopify 成交客户）
 - **【用户表】表内兴趣/备注**
@@ -119,7 +120,8 @@ updated: 2026-10-29
   > OM-FBS-22-SLC / from: Shopify 珊姐跟进了
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Michael Kleiböhmer（Geschäftsführer（2023-06 起，单独代表；Münster HRB 15069 在册）= 收件人本人（第 105 批 官方登记核实 2026-10-28））mk@4g-gmbh.de 〔用户表〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -140,7 +142,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-280GE（25% 档）——Shopify 已成交（OM-FBS-22-SLC）→ 复购延伸：工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、8 PoE + 2 SFP STI-288GPM（$82.2）；光旁路配件类 Saga 列表外（沿用现有货源，注明）
 - **邮件切入句（英文）**：Michael, following your OM-FBS-22-SLC order: for the Ethernet side of the same installations we also supply Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches from single units, CE/RoHS, EXW USD — is there a switch position in your next project I can quote?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名不可达（DNS/连接失败））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：域名不可达（DNS/连接失败））
 
 - 尝试域名：4g-gmbh.de
   > https://4g-gmbh.de/ conn: HTTPSConnectionPool(host='4g-gmbh.de', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPS
@@ -159,7 +161,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-460/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |

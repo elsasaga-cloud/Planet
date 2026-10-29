@@ -23,7 +23,7 @@ s_mail: 21 msgs (out 21 / in 0), 2024-06-15 -> 2026-09-16
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
-site_snapshot: unreachable  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -35,7 +35,7 @@ updated: 2026-10-29
 - **历史互动**：推送 13 次（2024-05-01 → 2025-10-16）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — Atlantis 标 PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标作二供；换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-06 $65（10G media converter）、2024-11-18 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Daniela, for the PoE switches sold under the Atlantis label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, 802.3bt options) in your packaging from small lots, CE/RoHS — which PoE SKU would you want sampled against your current ONV unit? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
-- **最大未知**：官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
+- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 首封前知悉：Elsa 仅 2025-02-19 单发过 1 封「8 Port Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；换收件人再发一封（第 75 批(ac) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
@@ -56,6 +56,7 @@ updated: 2026-10-29
 | 2026-09-16 | 去 | A/S 群发 | Industrial PoE Switch、Marvell Networking Solutions | 21 封 / 0 次打开 / 0 回｜首封 2024-06-15 → 末封 2026-09-16（21 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 商业PoE ONV的 好多人卖他们的 | 表内备注 | `用户表` |
 | 2026-09-16 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 a2cb4e466064cd91；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `a2cb4e466064cd91` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：atlantis-land.com MX mx.zoho.eu. / mx3.zoho.eu.；A 172.67.132.115 / 104.21.4.210；NS weston.ns.cloudflare.com. / gail.ns.cloudflare.com. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -129,7 +130,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（atlantis-land.com：域名不可达（DNS/连接失败），2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（atlantis-land.com：HTTP 错误，2026-10-29，第 2 次）
 - **是谁**：意大利 Atlantis-Land（意大利网络/安防品牌 Atlantis：商用 PoE 现 ONV 代工，「好多人卖他们的」；KP Massimo Liddo（Director）、Daniela Sdanga（Buyer）；「可以尝试多跟进一下」；官网 unreachable）；群发 13 次无回复。
 - **类型**：网络/安防品牌商（意大利，PoE 现 ONV）
 - **在卖/在用品牌**：ONV
@@ -141,7 +142,8 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Daniela Sdanga（Buyer（研究档）；法人 / 官网均未核出（第 108 批 官方登记核实 2026-10-28））mdl@atlantis-land.com 〔用户表〕
 - **KP**：Massimo Liddo（Director（研究档）；法人 / 官网均未核出（第 108 批 官方登记核实 2026-10-28））info@atlantis-land.com 〔用户表〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -162,13 +164,13 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——Atlantis 标 PoE（现 ONV）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标作二供
 - **邮件切入句（英文）**：Daniela, for the PoE switches sold under the Atlantis label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W, 802.3bt options) in your packaging from small lots, CE/RoHS — which PoE SKU would you want sampled against your current ONV unit?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名不可达（DNS/连接失败））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：atlantis-land.com
-  > https://atlantis-land.com/ conn: HTTPSConnectionPool(host='atlantis-land.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1
-  > https://www.atlantis-land.com/ conn: HTTPSConnectionPool(host='www.atlantis-land.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLErr
-  > http://atlantis-land.com/ conn: HTTPSConnectionPool(host='atlantis-land.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1
-- **提示**：域名不可达 → 表内域名可能拼错/过期；跟进前核对邮箱域名。
+  > https://atlantis-land.com/ http 403 ct=text/html; charset=utf-8
+  > https://www.atlantis-land.com/ http 403 ct=text/html; charset=utf-8
+  > http://atlantis-land.com/ http 403 ct=text/html; charset=utf-8
+- **提示**：抓取失败不代表公司不在；人工打开一次即可。
 - 数据文件：`data/saga_clients/site_snapshots/SB-525.json`
 
 ## 在卖/在用品牌 → Saga 对位
@@ -222,7 +224,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-24T04:35:40Z
 - **最近变化摘要**：2026-10-24 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-525/`；本节随档案重渲染刷新，实时看日志。
 
@@ -306,7 +308,7 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
+- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

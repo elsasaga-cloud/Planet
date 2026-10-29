@@ -1,6 +1,6 @@
 # XC-M083 · Aspect · 北马其顿
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：☆ 自动化方案 / 计算机设备分销 20%：Aspect（Skopje Orce Nikolov 190/3-1；20–49 人 / $1–5M）官网 + ZoomInfo 部分坐实（法人全名 / ЕМБС 待补）；Westermo Reseller；非 EU → 预付 100%；观察档；office@aspect.com.mk｜补证 X1-02R（2026-10-29）：同名 АСПЕКТ ДО） ｜ 来源 mikrotik-info `C-018`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-02 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：☆ 自动化方案 / 计算机设备分销 20%：Aspect（Skopje Orce Nikolov 190/3-1；20–49 人 / $1–5M）官网 + ZoomInfo 部分坐实（法人全名 / ЕМБС 待补）；Westermo Reseller；非 EU → 预付 100%；观察档；office@aspect.com.mk｜补证 X1-02R（2026-10-29）：同名 АСПЕКТ ДО） ｜ 来源 mikrotik-info `C-018`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 >
 > **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：☆ P 池 · 观察档**（闸 3 · G3 · 2026-10-29）：☆ 自动化方案 / 计算机设备分销 20%：Aspect（Skopje Orce Nikolov 190/3-1；20–49 人 / $1–5M）官网 + ZoomInfo 部分坐实（法人全名 / ЕМБС 待补）；Westermo Reseller；非 EU → 预付 100%；观察档；office@aspect.com.mk｜补证 X1-02R（2026-10-29）：同名 АСПЕКТ ДОО（软件）排除；ЕМБС 仍待补；同名排除：АСПЕКТ ДОО Скопје（ЕМБС 4390237，aspekt.com.mk，软件 / 计算机工程，11-ти Октомври 25）≠ 本户 aspect.com.mk（Orce Nikolov 190/3-1，自动化方案）→ 不强判，reg_pending 留
 
@@ -47,12 +47,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，X1-02，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XC** — X1-02 补路径：☆ 自动化方案 / 计算机设备分销 20%：Aspect（Skopje Orce Nikolov 190/3-1；20–49 人 / $1–5M）官网 + ZoomInfo 部分坐实（法人全名 / ЕМБС 待补）；We（等级不动，池位见 sieve_x）
-- 活着吗：2026-10-29 检索命中官网 / 名录（在线）
+- 活着吗：在线（aspect.com.mk，快照 2026-10-29）：Aspect | Your best solution.
 - 一句话：Aspect（Skopje）：自动化方案 / 计算机设备分销（Westermo Reseller）；20–49 人 / 营收 $1–5M（ZoomInfo）；法人全名待补
 - 是什么人：分销（Westermo Reseller）；Aspect（Skopje）
+- 在卖/在用：Ubiquiti
 - 对口哪条线：Saga STI 工业 / SmartByte 商用 PoE — ☆ 自动化方案 / 计算机设备分销 20%：Aspect（Skopje Orce Nikolov 190/3-1；20–
 - 找得到人吗：office@aspect.com.mk（官网 / 名录公开（X1-02 补路径））；KP：无具名
 - 已触达：未触达（路径 2026-10-29 新补）
@@ -65,5 +66,7 @@
 | 官网 / 名录 | 官网 Contact：office@aspect.com.mk · Orce Nikolov 190/3-1 Skopje · +389 23 233 777 |  | https://www.aspect.com.mk/contact | 2026-10-29 |
 | 官网 / 名录 | ZoomInfo：Aspect · Skopje · 20–49 人 · $1–5M |  | https://www.zoominfo.com/c/aspect/459879493 | 2026-10-29 |
 | 登记 / 名录 | CompanyWall MK：АСПЕКТ ДОО Скопје · ЕМБС 4390237 · info@aspekt.com.mk（同名非本户） |  | https://www.companywall.com.mk/kompanija/%D0%B0%D1%81%D0%BF%D0%B5%D0%BA%D1%82-%D0%B4%D0%BE%D0%BE-%D1%81%D0%BA%D0%BE%D0%BF%D1%98%D0%B5/MMAY9YT0 | 2026-10-29 |
+| 官网快照 | 官网在线；Aspect ｜ Your best solution. | Transform your operations with cutting-edge warehouse automation, mobile terminals, barcode scanners, and SCADA systems. Expert solutions for logistics, manufacturing, and distribution. | https://aspect.com.mk/ | 2026-10-29 |
 
-- 备注：Aspect（Skopje）；Orce Nikolov 190/3-1, 1000 Skopje；+389 2 3233 777
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+Aspect（Skopje）；Orce Nikolov 190/3-1, 1000 Skopje；+389 2 3233 777

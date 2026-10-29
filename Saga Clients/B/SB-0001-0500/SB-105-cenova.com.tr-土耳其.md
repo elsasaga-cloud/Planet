@@ -23,7 +23,7 @@ s_mail: 18 msgs (out 18 / in 0), 2024-06-27 -> 2026-09-17
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -35,7 +35,7 @@ updated: 2026-10-29
 - **历史互动**：推送 2 次（2025-09-25 → 2025-10-23）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — PoE（现 Ewind）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；工业 8 PoE + 2 SFP STI-288GP（$57.4）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-11 $65（10G Media Converter）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-25 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Rifat, for the PoE switches you sell with CCTV systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches plus DIN-rail 8-PoE industrial units from small lots, CE/RoHS, EXW USD — which PoE SKU do your dealers reorder most?
-- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
+- **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2024-11-05 | 去 | Simon → Angora Networks（SA-077）附件 Turkey Client List.xlsx | 名单行：「POE switch industrial network info@cenova.com.tr https://www.cenova.com.tr/dl-end3308pfg」 | Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持） | `gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx` |
 | 2026-09-17 | 去 | A/S 群发 | 10G Enterprise SFP Switch、Industrial PoE Switch | 18 封 / 0 次打开 / 0 回｜首封 2024-06-27 → 末封 2026-09-17（18 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | POE switch 工业FS CCTV产品还是主要的；POE switch 工业FS E-wind的 CCTV产品还是主要的 | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Cenova Bilişim Teknolojileri — NVR,Kamera,Network IP Kamera,Network NVR Server,Storage,AHD DVR,Mobil NVR ,Mobil DVR | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）
 
@@ -137,7 +138,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（cenova.com.tr：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：在线（cenova.com.tr，快照 2026-10-29）：Cenova Bilişim Teknolojileri
 - **是谁**：土耳其 Cenova（CCTV 产品为主，PoE 交换机与工业 FS 为 Ewind 代工；KP Rifat Baydemir（General Manager）；官网 http_error）；表内 2 次跟进无回复。
 - **类型**：CCTV 分销商（土耳其，PoE 现 Ewind）
 - **在卖/在用品牌**：Ewind
@@ -148,10 +149,11 @@ updated: 2026-10-29
   > POE switch 工业FS E-wind的 CCTV产品还是主要的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Rifat Baydemir（）rifat@cenova.com.tr 〔用户表〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/deep/facts。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -170,14 +172,19 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——PoE（现 Ewind）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；工业 8 PoE + 2 SFP STI-288GP（$57.4）
 - **邮件切入句（英文）**：Rifat, for the PoE switches you sell with CCTV systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches plus DIN-rail 8-PoE industrial units from small lots, CE/RoHS, EXW USD — which PoE SKU do your dealers reorder most?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
 
-- 尝试域名：cenova.com.tr
-  > https://cenova.com.tr/ http 403 ct=text/html; charset=utf-8
-  > https://www.cenova.com.tr/ http 403 ct=text/html; charset=utf-8
-  > http://cenova.com.tr/ http 403 ct=text/html; charset=utf-8
-- **提示**：抓取失败不代表公司不在；人工打开一次即可。
-- 数据文件：`data/saga_clients/site_snapshots/SB-105.json`
+- **首页**：https://cenova.com.tr/　语言：tr　站点地图 URL 数：0
+- **标题**：Cenova Bilişim Teknolojileri
+- **描述**：NVR,Kamera,Network IP Kamera,Network NVR Server,Storage,AHD DVR,Mobil NVR ,Mobil DVR
+- **首页栏目**：Batarya, Wifi, Solar Kameralar / Akıllı Wi-Fi Kameralar / En Yenileri Keşfedin / WS-125 / CN-50G / CN-8504G / CN-X1 / CN-X3
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 77、poe 38、wifi 28、ethernet 13、nvr 12、gigabit 5、sfp 2、fiber 2、10g 2
+- **站内型号串**（正则抽取，含非交换机）：CN-2005, DC12V, AC24V, DZ-A5420, DZ-A5330, DZ-2628-BM, DZ-2628-DP, DL-B05, DZ-4628-DP, DL-D05, DZ-DL4628-BM, DZ-A2228S
+- **社媒**：https://twitter.com/CenovaBT, https://www.facebook.com/CenovaBT, https://www.instagram.com/cenovaguvenlik/, https://www.youtube.com/channel/UCf7Jh-ltU9xWlZhyhF0X3kg, https://www.youtube.com/user/keremdmrc, https://www.youtube.com/watch?v=SNRIwkSWeP8
+- **已抓子页**：[PoE Switchler - CENOVA](https://cenova.com.tr/urunler/switchler/poe-switchler)；[Endüstriyel Switchler - CENOVA](https://cenova.com.tr/urunler/switchler/endustriyel-switchler)；[Network Ürünler - CENOVA](https://cenova.com.tr/urunler/network-urunler)；[Ethernet Switchler - CENOVA](https://cenova.com.tr/urunler/switchler/ethernet-switchler)；[IP Kameralar - CENOVA](https://cenova.com.tr/urunler/network-urunler/ip-kameralar)；[Bebek Kameraları - CENOVA](https://cenova.com.tr/urunler/network-urunler/bebek-kameralari)
+- 首页正文摘录：Yükleniyor.. 0 Teklif Listem Bayi Girişi Hesabım ÜRÜNLER Network Ürünler IP Kameralar NVR Cihazlar Kitler Bebek Kameraları AHD/XVR Ürünler AHD Kameralar XVR Cihazlar Alarm Sistemleri Alarm Panelleri Sirenler Dedektörler Beam Sensörler Çevre Birimler Access Kontroller Wifi / 4G Kameralar Bebek Kameralar Wifi Kameralar 4G Kameralar Mobil Sistemler Dashcam MDVR Cihazlar Araç Monitörü Araç Kameraları Termal Kameralar Ter
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 38、监控 12 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-105.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -219,13 +226,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
 - **最近变化摘要**：2026-10-29 home：内容变化：+1 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-105/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://cenova.com.tr/) | html | HTTP 200 | 2026-10-29T08:41:09Z | 3207 字符；首行：Cenova Bilişim Teknolojileri |
+| [home](https://cenova.com.tr/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 3206 字符；首行：Cenova Bilişim Teknolojileri |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -302,7 +309,6 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

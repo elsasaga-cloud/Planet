@@ -23,7 +23,7 @@ s_mail: 24 msgs (out 24 / in 0), 2024-07-02 -> 2026-09-25
 p1: STI-110GE
 price_tier: 30%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -35,7 +35,7 @@ updated: 2026-10-29
 - **历史互动**：推送 16 次（2024-05-08 → 2025-10-10）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — Bismon 标 MC/工业 FS → 工业千兆 MC STI-110GE（$24.3 @30%）、PoE MC STI-111GP（$30.1）、工业 8 GE + 2 SFP STI-280GE（$50.5）、商用 8 口 PoE+ 2 SFP STC-28DGGPM（$87.4）贴标作二供。已打开的主题（1/24 封有打开记录）：「16 Port Ethernet Switch」(2025-03-06) → 读者兴趣偏「其他」；当前 P1 属「10G 汇聚/L3」，下一封按「其他」给，不按 P1；换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-02 $65（10G Media Converter）、2025-08-11 $240（24 Port Fiber Switch）、2025-10-10 $280（10G Enterprise SFP Switch）、2026-06-25 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Anek, for the media converters and switches sold under the Bismon label, we can be a second ODM source (gigabit/PoE MCs, DIN-rail 8-GE + 2 SFP managed, commercial 8-PoE L2+ on a Marvell platform) in your packaging from small lots, CE/RoHS — which SKU would you want sampled first? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
-- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
+- **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(ai) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2026-09-25 | 去 | A/S 群发 | Marvell Industrial Alert System、Industrial PoE Switch | 24 封 / 1 次打开 / 0 回｜首封 2024-07-02 → 末封 2026-09-25（24 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 产品线很相似 | 表内备注 | `用户表` |
 | 2026-09-25 | 去 | A 箱（Alan） | Managed PoE Switches | 本日去信真实主题（邮箱索引 2432f4a1c0b56415；信稿开头句引用此封；此前稿内写的「Marvell Industrial Alert System」是线程列表首题，不是本封） | `2432f4a1c0b56415` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | BISMON \| Communication Products - Fiber Optic, Industrial Switch, UTP Cable, OTDR Thailand — BISMON ตัวแทนจำหน่าย Commscope, AFL อย่างเป็นทางการ จำหน่ายอุปกรณ์ Fiber Optic, Industrial Switch, Media Converter, สายแลน UTP, ตู้ Rack ภายในอาคารและนอกอาคาร, OTDR ครบวงจร สต็อกพร้อมส่ง โทร 02-563-5000 | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -116,7 +117,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（Bismon Co.,Ltd：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：在线（bismon.com，快照 2026-10-29）：BISMON | Communication Products - Fiber Optic, Industrial Switch, UTP Cable, OTDR Thailand
 - **是谁**：泰国 Bismon Co., Ltd（泰国网络产品品牌：MC/交换机等，「产品线很相似」；KP Anek Thongdee（Chief Executive Officer）；「可以尝试多跟进一下」；官网 http_error）；群发 16 次无回复。
 - **类型**：网络产品品牌商（泰国，产品线相似）
 - **【用户表】表内兴趣/备注**
@@ -126,10 +127,11 @@ updated: 2026-10-29
   > 产品线很相似；可以尝试多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Anek Thongdee（Chief Executive Officer（研究档；自有品牌 Bismon；เลขทะเบียน 0105546131011）= 拍板人 / 收件人（发 sale@，抬头 Attn: Mr. Anek Thongdee, CEO）— 一页纸一次（最后一次）：贴标 OEM 30% B、Bismon 标 / 自编货号 / 中性包装 STC 阶梯 + STI-154GP / 288DGGPM、MC 只有 STC-110XGE、付费样机— 泰国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、NBTC 不声称（第 117 批 官方登记核实 2026-10-28））sale@bismon.com 〔用户表〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/deep/facts。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -147,14 +149,21 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-110GE（30% 档）——Bismon 标 MC/工业 FS → 工业千兆 MC STI-110GE（$24.3 @30%）、PoE MC STI-111GP（$30.1）、工业 8 GE + 2 SFP STI-280GE（$50.5）、商用 8 口 PoE+ 2 SFP STC-28DGGPM（$87.4）贴标作二供
 - **邮件切入句（英文）**：Anek, for the media converters and switches sold under the Bismon label, we can be a second ODM source (gigabit/PoE MCs, DIN-rail 8-GE + 2 SFP managed, commercial 8-PoE L2+ on a Marvell platform) in your packaging from small lots, CE/RoHS — which SKU would you want sampled first?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
 
-- 尝试域名：bismon.com
-  > https://bismon.com/ http 403 ct=text/html; charset=utf-8
-  > https://www.bismon.com/ http 403 ct=text/html; charset=utf-8
-  > http://bismon.com/ http 403 ct=text/html; charset=utf-8
-- **提示**：抓取失败不代表公司不在；人工打开一次即可。
-- 数据文件：`data/saga_clients/site_snapshots/SB-919.json`
+- **首页**：https://www.bismon.com/　语言：en　站点地图 URL 数：5451
+- **标题**：BISMON / Communication Products - Fiber Optic, Industrial Switch, UTP Cable, OTDR Thailand
+- **描述**：BISMON ตัวแทนจำหน่าย Commscope, AFL อย่างเป็นทางการ จำหน่ายอุปกรณ์ Fiber Optic, Industrial Switch, Media Converter, สายแลน UTP, ตู้ Rack ภายในอาคารและนอกอาคาร, OTDR ครบวงจร สต็อกพร้อมส่ง โทร 02-563-5000
+- **首页栏目**：ทำไมต้องเลือก BISMON? / 4 CH / Media Converter / 72 Core / New Product / BISMON ARTICLE / BISMON PRODUCTS PRICE LIST / Surge Protector for CCTV & LAN Network Solution
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 577、fiber 557、switch 438、industrial 263、poe 155、ethernet 103、sfp 81、cisco 81、10g 61、cctv 56、media converter 46、2.5g 30
+- **站内型号串**（正则抽取，含非交换机）：RS485, QSFP28, SFP28, RS232, RG-11, RG-58, RG-59, RG-62, RG-174, RS422, IEEE1394, TS100
+- **站内公开邮箱**：sale@bismon.com
+- **站内公开电话**：+662-563-5000, +662-563-5011, 000 (081-3532819, 000 (081-988-8200, 000 (09-8635-3594
+- **产品类页面**：https://www.bismon.com/product/Cable-Car/x932；https://www.bismon.com/product/Head-Set-R-1/x926；https://www.bismon.com/product/Drop-wire-Clip/x905；https://www.bismon.com/product/Safety-Belt-HC-27/x929；https://www.bismon.com/product/Station-Wire-Clip/x907；https://www.bismon.com/product/Span-Clamp-Type-C/x906
+- **已抓子页**：[Ethernet Switch & Converter / จำหน่ายโดย BISMON ประเทศไทย](https://www.bismon.com/product.php?xid=050115010100&nav=top)；[ติดต่อ BISMON / โทร 02-563-5000 / จำหน่ายอุปกรณ์ Fiber Optic](https://www.bismon.com/contact.php)；[เกี่ยวกับ BISMON / ผู้จำหน่ายอุปกรณ์ Fiber Optic และ Network](https://www.bismon.com/about-us.php)；[Service - BISMON / Communication Products - Fiber Optic, Ind](https://www.bismon.com/services.php)
+- 首页正文摘录：[email protected] +662-563-5000 Line office Messenger ( 0 ) Login Sign Up Line office Messenger 02-563-5000 ( 0 ) Fiber Optic Commscope Rack & Cabinet Switch CCTV & Video Fusion Splicer Cabling Power & UPS Test & Tools Service PRODUCT ▾ PRODUCT ▾ Fiber Optic › Commscope › Rack & Cabinet › Ethernet & Switch › CCTV & Video › Fusion Splicer › Cabling › Power & UPS › Test & Tools › Service › SERVICE DOWNLOADS TECH GUIDE 
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 268、PoE 155 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-919.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -212,13 +221,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 home：内容变化：+559 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-919/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://bismon.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 29834 字符；首行：BISMON \| Communication Products - Fiber Optic, Industrial Switch, UTP Cable,  |
+| [home](https://bismon.com/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 29835 字符；首行：BISMON \| Communication Products - Fiber Optic, Industrial Switch, UTP Cable,  |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -296,7 +305,6 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

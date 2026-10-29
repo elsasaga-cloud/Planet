@@ -1,6 +1,6 @@
 # XA-M477 · DDS Netcom AG · 瑞士
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 mikrotik-info `A-225`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W2-R04 2026-10-27）→ 下一动作 首触
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 mikrotik-info `A-225`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 首触
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱（含实名 KP）
@@ -79,13 +79,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W2-R04，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XA** — CH 工业网络渠道、未触达 → A 首触（小，权重中）
-- 活着吗：本轮 web_search 复核在线（2026-10-27）
+- 活着吗：在线（webshop.dds.ch，快照 2026-10-29）：DDS NETCOM AG
 - 一句话：OT/工业网络专业商 + 网店（DDS NetCom AG，Fehraltorf，1992 起，2–10 人；2023 起为美国 McNaughton-McKay 全资子公司）；Marvell Prestera 接入层切入
 - 是什么人：OT/工业网络专业商 + 网店（DDS NetCom AG，Fehraltorf，1992 起，2–10 人；2023 起为美国 McNaughton-McKay 全资子公司）；规模：OT/工业网络专业商 + 网店（DDS NetCom AG，Fehraltorf，1992 起，2–10 人；2023 起为美国 McNaughton-McKay 全资子公司）
-- 在卖/在用：Allied Telesis（Marvell Prestera 接入层）
+- 在卖/在用：Allied Telesis（Marvell Prestera 接入层）、Hirschmann、Cisco、Allied Telesis
 - 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — 工业/楼宇自动化网络，DIN 轨 PoE 对位
 - 找得到人吗：info@dds.ch（来源库公开邮箱）；KP：无具名
 - 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
@@ -96,6 +96,7 @@
 | 类型 | 说明 | 摘录 | 来源 | 日期 |
 |---|---|---|---|---|
 | 来源库官网/名录核对 | 【人工定级保留】原无邮箱说明已由本轮来源核验结果替代；不改评级。 伙伴等级：Resell。 【2026-09-27 A210–A239联络核验】来源等级：official-obfuscated。dds.ch实际跳转官网商城，正文DDS NETCOM AG、Allmendstrasse 8 CH-8320 Fehraltorf及info(at)dds.ch，可逆规范化不是猜测。电话正文同时有+41 43 3552211和+41 44 35 |  | https://webshop.dds.ch/ | 2026-09-27 |
+| 官网快照 | 官网在线；DDS NETCOM AG | DDS NETCOM AG | https://webshop.dds.ch/ | 2026-10-29 |
 
 草稿（英文，首触；Simon 发，Agent 不发）：
 
@@ -114,4 +115,5 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：本轮 web_search 复核：LinkedIn「seit Mai 2023 eine 100%ige Tochter der McNaughton-McKay… kritische IT-Netzwerke in Industrie, Produktion und Gebäudeautomation」；os.dds.ch「Industrial Networking Solutions… Switching」。 
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+本轮 web_search 复核：LinkedIn「seit Mai 2023 eine 100%ige Tochter der McNaughton-McKay… kritische IT-Netzwerke in Industrie, Produktion und Gebäudeautomation」；os.dds.ch「Industrial Networking Solutions… Switching」。 

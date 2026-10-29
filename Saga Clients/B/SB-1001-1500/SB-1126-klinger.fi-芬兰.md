@@ -25,7 +25,7 @@ last_contact: unknown
 p1: STI-288GPM
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -55,6 +55,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2025-02-16 | 去 | Elsa 群发（BCC；To info@alphatelecom.cc，北欧/中东欧 批次） | Industrial PoE Switch — This is a Marvell based industrial PoE switch for you. Port: 2*Gigabit SFP+4*Gigabit PoE Feature: 120W budget, PoE watchdog, 250-meter poe distance, s | Elsa 箱群发 BCC 触达证据（命中地址 info@klinger.fi, klinger.fi）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-08-13 | 去 | Elsa 群发（BCC；To info@dasys.fi，北欧/中东欧 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 info@klinger.fi, klinger.fi）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Etusivu - KLINGER Finland — Korkealaatuisia tuotteita, johtavaa asiantuntemusta ja joustavaa asiakaspalvelua. KLINGER Finland on teknisen kaupan kumppanisi lähellä ja kaukana. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -127,9 +128,10 @@ updated: 2026-10-29
   > 来源：https://www.klinger.fi/en/product/product-marking-and-labels/labelling-machines-and-solutions/mecklabeller-labelling-machines/ml300/（抓取 2026-10-20）
 - **KP**：Esa Virtanen（Toimitusjohtaja（proff.fi；集团子公司 CEO）— 不直接发；收件人 = CCTV Systems 事业部（info@ 点名）（第 109 批 官方登记核实 2026-10-28）） 〔https://www.proff.fi/yrityksen/klinger-finland-oy/masala/koneet-ja-laitteet/0195519-1I10PO〕
 - **调研后定级**：B（原自动 C）——Planet 渠道档案 PB-090 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-090，W 批次调研 2026-10-19/20））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-090，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -155,6 +157,23 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-288GPM（25% 档）——其 Planet 类目核心为 IGS-10020HPT（工业 8×GE PoE+ + 2×SFP 管理，ERPS）→ Saga STI-288GPM 同口型（IP30、-40~75 °C、冗余 DC、L2 管理、240W）；项目 / 集成口径 25% = $82.2 EXW；16 口位 IGS-20160HPT 由 STI-2160XGGM（非 PoE，需说明）或 STI-21616XGGPM 第二封对位；工业供应商 CCTV 系统事业部（项目 / 集成口径）→ 25%（沿用 Planet 档案 PB-090）；需求：
 - **邮件切入句（英文）**：Your CCTV systems team lists PLANET IGS-10020HPT / IGS-20160HPT for industrial camera networks — a neutral-packed Marvell-based DIN-rail PoE+ managed line at EXW gives the same slot a second source for your project BOMs. In your industrial camera projects, is the 8-port PoE+ DIN unit (IGS-10020HPT class) still the standard pick, or have you moved to 16-port — so I send the right sample first?
 
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://klinger.fi/　语言：fi　站点地图 URL 数：1319
+- **标题**：Etusivu - KLINGER Finland
+- **描述**：Korkealaatuisia tuotteita, johtavaa asiantuntemusta ja joustavaa asiakaspalvelua. KLINGER Finland on teknisen kaupan kumppanisi lähellä ja kaukana.
+- **首页栏目**：Teknisen kaupan ratkaisutoimittaja / KLINGER Finland – Luotettava kumppanisi globaalisti ja paikallisesti / PALVELUT / Kaupintakontti / Laippaliitoskoulutus / Merkintälaitehuolto / SISÄLLÖT JA UUTISET / Tutustu KLINGER Finlandin toimintaan yritysvideon avulla
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 12、nvr 11、camera 2、surveillance 2
+- **站内型号串**（正则抽取，含非交换机）：XRN-1620SB1, EMAM1000, EMKP1030, EMSA1612, HRX-1635, EMSA1613, HRX-1634, EMSA3103, EMSA3108, XRN-820S-1TB-S, EMSA3109, XRN-420S
+- **站内公开邮箱**：info@klinger.fi
+- **站内公开电话**：+358 (0)10 400 1011, +358 10 400 1601
+- **社媒**：https://www.linkedin.com/company/klinger-finland-oy, https://www.youtube.com/@klinger-finland
+- **产品类页面**：https://klinger.fi/en/content-and-news/industrial-product-marking-klinger-finlands-guide-to-modern-marking-sol…；https://klinger.fi/en/contact/industrial-seals-sales/；https://klinger.fi/tuotteet/tuotemerkinta/etiketit-ja-varinauhat/lampoetiketit/；https://klinger.fi/en/content-and-news/subcontracting-2026-klinger-finland-at-a-major-industrial-event/；https://klinger.fi/en/content-and-news/take-control-of-industrial-camera-surveillance-download-klinger-finland…；https://klinger.fi/en/content-and-news/industrial-sensors-for-demanding-applications-dis-sensors-from-klinger-…
+- **已抓子页**：[Kameravalvonta - KLINGER Finland](https://klinger.fi/tuotteet/kameravalvonta/)；[Kamerajärjestelmien palvelut - KLINGER Finland](https://klinger.fi/palvelut/kamerajarjestelmien-palvelut/)；[Tallentimet - KLINGER Finland](https://klinger.fi/tuotteet/kameravalvonta/tallentimet/)；[Aluevalvonta - KLINGER Finland](https://klinger.fi/tuotteet/kameravalvonta/aluevalvonta/)；[Oheislaitteet - KLINGER Finland](https://klinger.fi/tuotteet/kameravalvonta/oheislaitteet/)；[Ääniviestintä - KLINGER Finland](https://klinger.fi/tuotteet/kameravalvonta/aaniviestinta/)
+- 首页正文摘录：Skip to content Lataukset English Kirjaudu verkkokauppaan Toggle navigation TUOTTEET VENTTIILIT JA TOIMILAITTEET Palloventtiilit Läppäventtiilit Istukka- ja mäntäventtiilit Luistiventtiilit Levyluistiventtiilit Takaiskuventtiilit Varoventtiilit Mudanerottimet Magneettiventtiilit Tulppaventtiilit Toimilaitteet Venttiiliedustukset TIIVISTEET JA OHEISTUOTTEET Tasotiivisteet Punostiivisteet Hitsaussuojakankaat Laippasuoj
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 12、监控 15 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1126.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
+
 ## 在卖/在用品牌 → Saga 对位
 
 | 备注所见品牌 | 含义 | Saga 切入 |
@@ -167,14 +186,14 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-28T08:44:48Z
-- **最近变化摘要**：2026-10-28 feed_auto：新增 1 条：Tue, 27 Oct 2026 14 Domino Cx350i – mustesuihkutulostin suurten pakkausmerkintöjen 
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 feed_auto：新增 1 条：Thu, 29 Oct 2026 10 ECONOSTO Oy sulautuu KLINGER Finlandiin 1.1.2027 – yhteinen mat
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1126/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://klinger.fi/) | html | HTTP 200 | 2026-10-28T08:44:48Z | 9649 字符；首行：Etusivu - KLINGER Finland |
-| [feed_auto](https://klinger.fi/feed/) | rss | HTTP 200 | 2026-10-28T08:44:48Z | 10 条；最新：Tue, 27 Oct 2026 14:02:43 Domino Cx350i – mustesuihkutulostin suurten pakkausmerki |
+| [home](https://klinger.fi/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 9552 字符；首行：Etusivu - KLINGER Finland |
+| [feed_auto](https://klinger.fi/feed/) | rss | HTTP 200 | 2026-10-29T15:11:51Z | 10 条；最新：Thu, 29 Oct 2026 10:17:15 ECONOSTO Oy sulautuu KLINGER Finlandiin 1.1.2027 – yhtei |
 
 ## 联系方式（已有 · 原值照录）
 

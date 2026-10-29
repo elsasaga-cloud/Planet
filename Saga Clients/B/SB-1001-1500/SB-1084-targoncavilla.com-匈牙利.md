@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-280GE
 price_tier: 20%
 research: done
-site_snapshot: timeout  # 2026-10-21
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-29
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-280GE — 工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）；首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-21；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：For the industrial switches you supply, we offer neutral-brand DIN-rail 5-GE and 8-GE + 2 SFP units (−40~75 °C, 12–57 V, CE/RoHS; the managed 8-GE on a Marvell platform) from single units, EXW USD — which configuration do your customers order most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：待 Simon 排期（首封） A 邮箱 → villa@frekvent.com 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-21「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(k) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
@@ -54,6 +54,7 @@ updated: 2026-10-29
 | 2025-03-05 | 去 | Elsa 群发（BCC；To icecom@icecom.is，IS/SE/BG/RU/LT 批次） | Mini Industrial PoE Switch — This is about our MINI Din unmanaged switches for you. 1. 100/1000M auto-adaptive SFP fiber 2. support DIP for flexible configuration 3. PoE optional, | Elsa 箱群发 BCC 触达证据（命中地址 frekvent.com, villa@frekvent.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-08-21 | 去 | Elsa 群发（BCC；To icecom@icecom.is，IS/SE/BG/RU/LT 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 frekvent.com, villa@frekvent.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 工业FS | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Targoncavilla - Alkatrészcsoport - frekvent — Targoncavilla, Alkatrészcsoport, frekvent | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -107,7 +108,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（targoncavilla.com：超时（站慢或封锁），2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：在线（targoncavilla.com，快照 2026-10-29）：Targoncavilla - Alkatrészcsoport - frekvent
 - **是谁**：匈牙利 Targoncavilla / Frekvent（targoncavilla.com / frekvent.com；表内「工业 FS」；官网 timeout，业务范围待核）；表内未跟进。
 - **类型**：工业设备供应商（匈牙利，待核）
 - **【用户表】表内兴趣/备注**
@@ -116,10 +117,11 @@ updated: 2026-10-29
 - **【用户表】工业 FS**
   > 工业FS
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/deep/facts。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -137,14 +139,19 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-280GE（20% 档）——工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）
 - **邮件切入句（英文）**：For the industrial switches you supply, we offer neutral-brand DIN-rail 5-GE and 8-GE + 2 SFP units (−40~75 °C, 12–57 V, CE/RoHS; the managed 8-GE on a Marvell platform) from single units, EXW USD — which configuration do your customers order most?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：超时（站慢或封锁））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
 
-- 尝试域名：targoncavilla.com, frekvent.com
-  > https://targoncavilla.com/ conn: HTTPSConnectionPool(host='www.frekvent.com', port=443): Max retries exceeded with url: /sct/882409/category (Caused by C
-  > https://www.targoncavilla.com/ conn: HTTPSConnectionPool(host='www.frekvent.com', port=443): Max retries exceeded with url: /sct/882409/category (Caused by C
-  > http://targoncavilla.com/ conn: HTTPSConnectionPool(host='www.frekvent.com', port=443): Max retries exceeded with url: /sct/882409/category (Caused by C
-- **提示**：抓取失败不代表公司不在；人工打开一次即可。
-- 数据文件：`data/saga_clients/site_snapshots/SB-1084.json`
+- **首页**：https://www.frekvent.com/Villa　语言：hu　站点地图 URL 数：1
+- **标题**：Targoncavilla - Alkatrészcsoport - frekvent
+- **描述**：Targoncavilla, Alkatrészcsoport, frekvent
+- **首页栏目**：Targoncavilla / 1.000 mm hosszú emelővilla (1000 kg/db teherbírás) - ISO/FEM2A / 1.000 mm hosszú emelővilla (1250 kg/db teherbírás) - ISO/FEM2A / 1.100 mm hosszú emelővilla (1000 kg/db teherbírás) - ISO/FEM2A / 1.100 mm hosszú emelővilla (1250 kg/db teherbírás) - ISO/FEM2A / 1.200 mm hosszú emelővilla (1000 kg/db teherbírás) - ISO/FEM2A / 1.200 mm hosszú emelővilla (1000 kg/db teherbírás) - ISO/FEM2B / 1.200 mm hosszú emelővilla (1250 kg/db teherbírás) - ISO/FEM2A
+- **站内型号串**（正则抽取，含非交换机）：HU12678859, H-EN-I-1064
+- **站内公开邮箱**：arpad.andris@frekvent.com, bela.hudak@frekvent.com, brigitta.szabo@frekvent.com, denes.gonczlik@frekvent.com, gabor.fenyvesi@frekvent.com, gabor.lencse@frekvent.com
+- **站内公开电话**：+36 20 217 1265, +36 20 269 8843, +36 20 285 4041, +36 20 333 6090, +36 20 375 1174, +36 30 359 6412
+- **社媒**：https://wa.me/36202171265, https://wa.me/36202698843, https://wa.me/36202854041, https://wa.me/36203336090, https://wa.me/36203751174, https://wa.me/36303596412
+- **已抓子页**：[Információk - frekvent](https://www.frekvent.com/shop_contact.php)；[Új vásárló regisztrálása - frekvent](https://www.frekvent.com/shop_reg.php)；[Új vásárló regisztrálása - frekvent](https://www.frekvent.com/shop_reg.php?overlay=login&login_redir=https://www.frekvent.com/shop_order_track.php)；[Részletes keresés - frekvent](https://www.frekvent.com/shop_search.php?complex=ok&search=_all_&in_what=00000001&param_id[]=8284851&param_value[]=0)
+- 首页正文摘录：Viszonteladói árakért keresse munkatársunkat! Érdekel Keresés Elérhetőség FT (HUF) Belépés A kosár üres Alkatrészcsoport Targoncavilla Targoncavilla Szűrés Szűrés Mutasd a találatokat Alkatrésztípus Csapszeg Targoncavilla ISO/FEM osztály ISO/FEM2A (1000-2500 kg) ISO/FEM2B (1000-2500 kg) ISO/FEM3A (2501-4999 kg) ISO/FEM3B (2501-4999 kg) ISO/FEM4A (5000-8000 kg) L - Villa hosszúság (mm) 1 000 mm - 1 800 mm Teherbírás (
+- 数据文件：`data/saga_clients/site_snapshots/SB-1084.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -158,7 +165,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-27T08:02:45Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-27T08:02:45Z
 - **最近变化摘要**：2026-10-24 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1084/`；本节随档案重渲染刷新，实时看日志。
 
@@ -239,7 +246,6 @@ updated: 2026-10-29
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

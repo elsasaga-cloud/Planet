@@ -1,10 +1,10 @@
 # XA-M279 · Ditecom · 西班牙
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 mikrotik-info `A-381`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W2-R05c 2026-10-27）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 mikrotik-info `A-381`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱（含实名 KP）
-- 研究后改级：XA → **XB**（W2-R05c，小店 → B）；编号不变
+- 研究后改级：XA → **XB**（LT-T03，小店 → B）；编号不变
 - 人工改级：XB（2026-10-29，Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径））；编号不变
 - 标记：无
 - 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
@@ -75,10 +75,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W2-R05c，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — 小店 → B
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：在线（ditecom.com，快照 2026-10-29）：DITECOM - Equipos de test y medida, control remoto de temperatura — Tienda DITECOM
 - 一句话：小型电子仪器设计/分销网店（Ditecom Design SL，Madrid；在售 1 款工业交换机）；第二供应源；公开电话与邮箱
 - 是什么人：小型电子仪器设计/分销网店（Ditecom Design SL，Madrid；在售 1 款工业交换机）；规模：未量化
 - 在卖/在用：工业管理型（EX-9911M环网）
@@ -92,5 +92,7 @@
 | 类型 | 说明 | 摘录 | 来源 | 日期 |
 |---|---|---|---|---|
 | 来源库官网/名录核对 | 原批量导入说明（三星依据仅渠道等级、需先查证是否已有工业交换机/PoE++产品线），本轮核验为“已有”，待补标记解除。【2026-09-28 B/C复筛第1批】来源等级：official-company（复筛核验）。原B-465（批量导入行，备注含待补标记）。核验要点：站内搜索命中在售工业交换机 ISW-801（8×10/100TX，−40..75°C，60€+IVA），Networking 分类存在（17项） → 待补标记所问“是否已 |  | https://ditecom.com/ | 2026-09-28 |
+| 官网快照 | 官网在线；DITECOM - Equipos de test y medida, control remoto de temperatura — Tienda DITECOM | Tienda de instrumentos de test y medida. Soluciones de medición en remoto - temperatura por IP, gestión del E/S remota. Networking. | https://www.ditecom.com/ | 2026-10-29 |
 
-- 备注：本轮 web_search：ditecom.com 工业交换机类目仅 ISW-801。 轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。
+本轮 web_search：ditecom.com 工业交换机类目仅 ISW-801。 轻卡：本轮未外查，沿用来源库官网/名录核对。

@@ -1,6 +1,6 @@
 # XC-M116 · QL3D · 法国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：☆ 工业 / 交通 / 数据中心网络方案分销 20%：QL3D（Bazainville 78；HW group 法国独家；HMS Red Lion / N-Tron；联系人 Ludovic Debôves）名录部分坐实（SIREN 待补）；小型 → 观察档；info@ql3d.fr｜补证 X1-02R（2026-10-29）：SIREN 429 607 740 坐实（SARL €120k；3–5 ） ｜ 来源 mikrotik-info `C-051`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-02 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：☆ 工业 / 交通 / 数据中心网络方案分销 20%：QL3D（Bazainville 78；HW group 法国独家；HMS Red Lion / N-Tron；联系人 Ludovic Debôves）名录部分坐实（SIREN 待补）；小型 → 观察档；info@ql3d.fr｜补证 X1-02R（2026-10-29）：SIREN 429 607 740 坐实（SARL €120k；3–5 ） ｜ 来源 mikrotik-info `C-051`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 >
 > **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：☆ P 池 · 观察档**（闸 3 · G3 · 2026-10-29）：☆ 工业 / 交通 / 数据中心网络方案分销 20%：QL3D（Bazainville 78；HW group 法国独家；HMS Red Lion / N-Tron；联系人 Ludovic Debôves）名录部分坐实（SIREN 待补）；小型 → 观察档；info@ql3d.fr｜补证 X1-02R（2026-10-29）：SIREN 429 607 740 坐实（SARL €120k；3–5 人）；QL3D SARL · 资本 €120,000 · 2000-02-21 起（RCS Versailles 2007）· NAF 4652Z 电子与电信设备批发 · 3–5 人 · 经理 Ludovic Deboves
 
@@ -47,10 +47,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，X1-02，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XC** — X1-02 补路径：☆ 工业 / 交通 / 数据中心网络方案分销 20%：QL3D（Bazainville 78；HW group 法国独家；HMS Red Lion / N-Tron；联系人 Ludovic Debôves）名录部分坐实（（等级不动，池位见 sieve_x）
-- 活着吗：2026-10-29 检索命中官网 / 名录（在线）
+- 活着吗：在线（ql3d.fr，快照 2026-10-29）：QL3D
 - 一句话：QL3D：工业 / 交通 / 数据中心网络方案分销（HW group 法国独家；HMS Red Lion / N-Tron）；联系人 Ludovic Debôves
 - 是什么人：分销（HMS/N-Tron·Red Lion 渠道）；QL3D
 - 对口哪条线：Saga STI 工业 / SmartByte 商用 PoE — ☆ 工业 / 交通 / 数据中心网络方案分销 20%：QL3D（Bazainville 78；HW group 法国独家
@@ -66,5 +66,7 @@
 | 官网 / 名录 | DCmag 名录：QL3D · info@ql3d.fr · 01 34 91 90 20 |  | https://annuaire.dcmag.fr/directory/ql3d/ | 2026-10-29 |
 | 登记 / 名录 | societe.com：QL3D · SIREN 429 607 740 · SARL €120,000 · 4652Z · Ludovic DEBOVES |  | https://www.societe.com/societe/ql3d-429607740.html | 2026-10-29 |
 | 登记 / 名录 | manageo：3–5 人 · RCS Versailles 2007B00575 |  | https://www.manageo.fr/entreprises/429607740.html | 2026-10-29 |
+| 官网快照 | 官网在线；QL3D | QL3D - Connectivity & Control Solutions | https://ql3d.fr/ | 2026-10-29 |
 
-- 备注：QL3D；9 chemin de la Fosse, 78550 Bazainville；+33 1 34 91 90 20；X1-02R 补证：SIREN 429 607 740；SIRET 429 607 740 00041；TVA FR43429607740
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。
+QL3D；9 chemin de la Fosse, 78550 Bazainville；+33 1 34 91 90 20；X1-02R 补证：SIREN 429 607 740；SIRET 429 607 740 00041；TVA FR43429607740

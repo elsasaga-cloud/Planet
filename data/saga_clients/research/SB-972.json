@@ -119,6 +119,14 @@
     "quote": "Updated Ethernet Switches Links",
     "why": "本日去信真实主题（邮箱索引 f7d7240237f34e20；信稿开头句引用此封；此前稿内写的「10G media converter」是线程列表首题，不是本封）",
     "k": "f7d7240237f34e20"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 复核 LT-R10",
+    "quote": "DNS 2026-10-29 16:2xZ：electrologicservices.com MX aspmx3.googlemail.com. / alt1.aspmx.l.google.com.；A 62.38.149.50；NS ns52.domaincontrol.com. / ns51.domaincontrol.com.",
+    "why": "长期客户群复核证据（非邮件事实，不计真回）",
+    "url": ""
    }
   ],
   "proof_gaps": [],
@@ -138,5 +146,15 @@
    "2026-10-29"
   ],
   "batch": "LT-T03"
- }
+ },
+ "lt_review": {
+  "status": "留 B",
+  "batch": "LT-R10",
+  "prio": null,
+  "queued": "LT-R10",
+  "verdict_date": "2026-10-29",
+  "note": "官网快照两次失败（2026-10-21 / 2026-10-29：超时），但 DNS 2026-10-29 16:2xZ 复查 electrologicservices.com MX/A/NS 正常 → 非死域、邮箱路径未断 → 留 B 不动；快照失败只记「官网不可抓」，不作打回依据（可逆：两次独立 DNS 死才复核）",
+  "why": ""
+ },
+ "override_history": []
 }

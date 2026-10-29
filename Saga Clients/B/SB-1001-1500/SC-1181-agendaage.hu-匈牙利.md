@@ -26,10 +26,10 @@ followups: 15
 first_contact: 2024-05-01
 last_contact: 2025-10-07
 s_mail: 23 msgs (out 23 / in 0), 2024-06-25 -> 2026-09-09
-p1: STC-228GP
+p1: STC-424XGGM
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -39,7 +39,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（○ 正式）：○ 进口商 · 分销 20%：Agenda-Age Kft.（Budapest 2002；B2B 网络批发；>514M HUF；20–49；总经理邮箱 ugyvezeto@ 公开）坐实；进口 credfiber ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔ → P 池候选（调研 2026-10-29；表内兴趣：SFP MC 工业FS；SFP MC 工业FS  在用深圳这家公司的 http://www.credfiber.com/En/Product.asp）
 - **为什么是 B 级**：**调研后定级 B**（Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 进口商 · 分销 20%：Agenda-Age Kft.（Budapest 2002；B2B 网络批发；>514M HUF；20–49；总经理邮箱 ugyvezeto@ 公开）坐实；进口 credfiber ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔ → P 池候选；闸 1：匈牙利 Agenda Age（SFP / MC / 工业 FS，在用深圳 credfiber 的）：欧洲 + 已进口中国同类品牌 + 对位 ✔；15 次跟进无回复（冷）→ 闸 2 查底数）；自动分级 C：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/匈牙利；+5 最近活动 2025；-16 推送 15 次无任何回复（聋名单）
 - **历史互动**：推送 15 次（2024-05-01 → 2025-10-07）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-228GP — 默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）；
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-424XGGM — 官网快照对位：10G/2.5G 词频 19、交换机 100 → 24 GE + 4×10G L2+ 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）；
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动：LT-01 复核（待过）后再定 — 长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
@@ -52,13 +52,14 @@ updated: 2026-10-29
 - **现状一句话**：C 池三闸捞出 → B（LT-01）：○ 进口商 · 分销 20%：Agenda-Age Kft.（Budapest 2002；B2B 网络批发；>514M HUF；20–49；总经理邮箱 ugyvezeto@ 公开）坐实；进口 credfiber ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔ → P 池候选
 - **对方真实需求（有据）**：未知（无往来；复核时从官网 / 进口数据 / 项目推断）
 - **断点 / 为什么停在这里**：无往来（从未触达或仅群发无回）
-- **Saga 现在该推什么**：P1 **STC-228GP**（% 档，价见价格主表）——默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）
+- **Saga 现在该推什么**：P1 **STC-424XGGM**（% 档，价见价格主表）——官网快照对位：10G/2.5G 词频 19、交换机 100 → 24 GE + 4×10G L2+ 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）
 - **下一步（具体）**：不动：LT-01 复核（待过）后再定　—　长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ○ 进口商 · 分销 20%：Agenda-Age Kft.（Budapest 2002；B2B 网络批发；>514M HUF；20–49；总经理邮箱 ugyvezeto@ 公开）坐实；进口 credfiber ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔ → P 池候选 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 登记底数（registry） | HU · 1 次检索：cegadatok.hu/agenda-age-kft（2002；514M HUF；ugyvezeto@）+ agendaage.hu 首页（B2B only；+36 1 313 1073）+ zoominfo（20–49）；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Agenda-Age Kft. \| A hálózatspecialista — Cégünk hálózatinformatikai nagykereskedés, 20 éves szakmai tapasztalattal. Optikai és réz alapú megoldások széles választéka. Rendeljen webáruházunkban! | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -116,10 +117,11 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-29）**　网站状态：域名 agendaage.hu（官网快照待 Actions 补抓）
+- **状态：已调研（2026-10-29）**　网站状态：在线（agendaage.hu，快照 2026-10-29）：Agenda-Age Kft. | A hálózatspecialista
 - **是谁**：C 池三闸捞出（○ 正式）：○ 进口商 · 分销 20%：Agenda-Age Kft.（Budapest 2002；B2B 网络批发；>514M HUF；20–49；总经理邮箱 ugyvezeto@ 公开）坐实；进口 credfiber ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔ → P 池候选
 - **类型**：分销（闸 2 判定 · 20% 档）
 - **规模**：小型（20–49；>514M HUF）
+- **在卖/在用品牌**：Zyxel, Ubiquiti, MikroTik
 - **【登记底数 / 官网（闸 2 坐实）】AGENDA-AGE Kft.（agendaage.hu；**cegadatok：2002-05-09 成立；1095 Budapest, Soroksári út 48. 8.ép.fsz；主业 IT / 通信产品批发；最近年营收 >514M HUF；状态 aktív；ugyvezeto@agendaage.hu（总经理邮箱）公开；ZoomInfo 20–49 人、营收 1–5M；官网自述「网络 IT 批发，仅服务法人 / 签约经销商 / 安装商」**）；表内：SFP / **
   > HU · 1 次检索：cegadatok.hu/agenda-age-kft（2002；514M HUF；ugyvezeto@）+ agendaage.hu 首页（B2B only；+36 1 313 1073）+ zoominfo（20–49）；2026-10-29
   > 来源：https://cegadatok.hu/agenda-age-kft/（抓取 2026-10-29）
@@ -129,10 +131,11 @@ updated: 2026-10-29
   > 来源：（抓取 2026-10-29）
 - **KP**：—（表内邮箱（公开 / 总机））info@agendaage.hu 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 进口商 · 分销 20%：Agenda-Age Kft.（Budapest 2002；B2B 网络批发；>514M HUF；20–49；总经理邮箱 ugyvezeto@ 公开）坐实；进口 credfiber ✔ 欧洲 ✔ 坐实 ✔ 对位 ✔ → P 池候选；闸 1：匈牙利 Agenda Age（SFP / MC / 工业 FS，在用深圳 credfiber 的）：欧洲 + 已进口中国同类品牌 + 对位 ✔；15 次跟进无回复（冷）→ 闸 2 查底数
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/brands_seen/site_contacts/saga_fit/deep/facts。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -147,7 +150,23 @@ updated: 2026-10-29
 在用深圳这家公司的
 http://www.credfiber.com/En/Product.asp
 - **风险/边界**：**进口商 / 分销 20%：换 ugyvezeto@ 一页纸一次（STI-154GP / STC-228GP 对标 credfiber 同类 + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号
-- **Saga 对位结论**：P1 STC-228GP（20% 档）——默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）
+- **Saga 对位结论**：P1 STC-424XGGM（20% 档）——官网快照对位：10G/2.5G 词频 19、交换机 100 → 24 GE + 4×10G L2+ 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://agendaage.hu/　语言：hu　站点地图 URL 数：0
+- **标题**：Agenda-Age Kft. / A hálózatspecialista
+- **描述**：Cégünk hálózatinformatikai nagykereskedés, 20 éves szakmai tapasztalattal. Optikai és réz alapú megoldások széles választéka. Rendeljen webáruházunkban!
+- **首页栏目**：Üdvözöljük webáruházunkban! / Termékeink / Ajánló / KICSI a Grandway MT500, de ERŐS! / Érkeznek az új generációs szálhegesztők / Megérkeztek új páncélozott patch kábeleink / Bemutatjuk a Grandway OTDR családot / Így védje meg rendszereit a villamos hálózat bizonytalansága ellen!
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：sfp 130、switch 100、poe 96、ethernet 62、10g 19、ftth 14、planet 9、mikrotik 5、oem 4、ubiquiti 3、gigabit 1、cisco 1
+- **站内出现的品牌**：Zyxel, Ubiquiti, MikroTik　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：FHO5000, FHO3000, AI-10A, NF-168S, RS485, VL-2013, FSKV2015Y, AI-7C, AI-8C, OPM410, DR-120-24, POE12-HP
+- **站内公开邮箱**：info@agendaage.hu, web@agendaage.hu
+- **站内公开电话**：+36 1 313 1073
+- **已抓子页**：[Tápegység, PoE - Agenda-Age Kft. / A hálózatspecialista](https://agendaage.hu/:tapegyseg-poe)；[Switch konverterek - Agenda-Age Kft. / A hálózatspecialista](https://agendaage.hu/:switch-konverterek)；[Switch - Agenda-Age Kft. / A hálózatspecialista](https://agendaage.hu/:aktiv-eszkoz-switch)；[Ipari Redundáns Menedzselhető Switch - Agenda-Age Kft. / A h](https://agendaage.hu/tudasbazis/fogalmak/videotar/ipari-redundans-menedzselheto-switch)；[Terméktámogatás, katalógusok - Agenda-Age Kft. / A hálózatsp](https://agendaage.hu/tamogatas/termektamogatas-katalogusok1)；[Konverter - Agenda-Age Kft. / A hálózatspecialista](https://agendaage.hu/:ethernet-rez-konverter)
+- 首页正文摘录：Belépés Regisztráció Termékek Szolgáltatások Rólunk Kapcsolat Tudásbázis AKCIÓ Börze Leértékelt termékek HÁLÓZATI aktív eszközök Switch Távfelügyelet Média konverter ETHERNET (réz) hálózati termékek Kábel - folyóméter Kábel - szerelt (patch) Csatlakozó és törésgátló Fali aljzat, -keret, kiemelő keret Modulár betét, -toldó, -összekötő Patch panel Kábel Y adapter Szerelési anyag Szerszám, eszköz Teszter, Műszer Konvert
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 19、交换机 100 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SC-1181.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -202,12 +221,13 @@ http://www.credfiber.com/En/Product.asp
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-1181/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://agendaage.hu/) | html | 待首轮 | — | 官网首页 |
+| [home](https://agendaage.hu/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 13382 字符；首行：Agenda-Age Kft. \| A hálózatspecialista |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -239,7 +259,7 @@ http://www.credfiber.com/En/Product.asp
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-228GP | 深挖对位：默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档） | $33.2 USD EXW（HRUI Realtek 线：洪瑞 2026-09-30 成本 + 20%（列表价 $30.8 隐含加价低于底线，第 73 批口径）；见 data/价格主表_HRUI.csv；汇率 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销（闸 2 判定 · 20% 档）） |
+| **P1** | STC-424XGGM | 深挖对位：官网快照对位：10G/2.5G 词频 19、交换机 100 → 24 GE + 4×10G L2+ 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP） | $127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销（闸 2 判定 · 20% 档）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：20% 档 $139.9 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $181.2——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -248,9 +268,9 @@ http://www.credfiber.com/En/Product.asp
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-228GP），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-228GP 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424XGGM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -260,7 +280,7 @@ http://www.credfiber.com/En/Product.asp
 
 - **S**：欧洲主攻区，复购与口碑可外溢
 - **W**：已推送 15 次无回复，邮件通道疲劳
-- **O**：P1 STC-228GP 按 20% 档报价，做现供应商的第二货源；规模（调研）：小型（20–49；>514M HUF）
+- **O**：P1 STC-424XGGM 按 20% 档报价，做现供应商的第二货源；规模（调研）：小型（20–49；>514M HUF）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -288,14 +308,14 @@ http://www.credfiber.com/En/Product.asp
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-228GP - 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (neutral label)
+**主题**：STC-424XGGM - 24-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
 
 ```text
 Hi Lajos,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
 
-We supply an 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (unmanaged, 120 W, PoE watchdog) - model STC-228GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $33.2 USD EXW (valid 15 days).
+We supply a Marvell-based 24-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $127.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

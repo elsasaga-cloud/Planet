@@ -1,6 +1,6 @@
 # XB-C0025 · Vietnam Network / Đức Mỹ（岘港） · 越南
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 CCTV-PoE `profile/new-customers-batch-10.md`:86 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T01 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 CCTV-PoE `profile/new-customers-batch-10.md`:86 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XB** — 对口但不在主攻区（美加/欧/土以外）→ XB
@@ -66,12 +66,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，LT-T01，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — 桌面复核（来源库核对 + 研究卡）：C类 — 网络设备分销；类型=C类 — 网络设备分销；品牌=Aruba, Ruijie, Maipu, Cambium, Cisco, TP-Link；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））
-- 活着吗：域名 vietnamnetwork.vn 有 A 记录、无 MX（邮箱可能托管在别的域；DNS 2026-10-29）
+- 活着吗：在线（vietnamnetwork.vn，快照 2026-10-29）：Thiết bị mạng chính hãng - Giải pháp điện nhẹ tổng thể
 - 一句话：Vietnam Network / Đức Mỹ（岘港）（越南）：网络设备分销；地址=31 Nguyễn Đức Trung, Thanh Khê, Đà Nẵng；开发策略=中部分销，多品牌；置信度=★★★★★
 - 是什么人：网络设备分销
+- 在卖/在用：Ruijie、H3C、Cisco、Grandstream、Ubiquiti、MikroTik、Aruba、Juniper、Cambium、Allied Telesis、Hikvision、Fortinet
 - 对口哪条线：STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）
 - 找得到人吗：vietnamnetwork.vn@gmail.com（活（来源库 9 月核对））；KP：无具名
 - 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
@@ -83,5 +84,7 @@
 |---|---|---|---|---|
 | 来源库官网/名录核对 | 网络设备分销；地址=31 Nguyễn Đức Trung, Thanh Khê, Đà Nẵng；开发策略=中部分销，多品牌；置信度=★★★★★ |  | https://vietnamnetwork.vn | 2026-09 |
 | 长期群复核 LT-R07 | 桌面复核（来源库核对 + 研究卡）：C类 — 网络设备分销；类型=C类 — 网络设备分销；品牌=Aruba, Ruijie, Maipu, Cambium, Cisco, TP-Link；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%）） |  |  | 2026-10-29 |
+| 官网快照 | 官网在线；Thiết bị mạng chính hãng - Giải pháp điện nhẹ tổng thể | Vietnam Network cung cấp sản phẩm thiết bị mạng, camera giám sát, báo cháy, khóa thông minh, âm thanh. Giá cạnh tranh, lắp đặt chuyên nghiệp | https://vietnamnetwork.vn/ | 2026-10-29 |
 
-- 备注：LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。

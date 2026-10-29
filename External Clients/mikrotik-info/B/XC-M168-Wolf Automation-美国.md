@@ -1,6 +1,6 @@
 # XC-M168 · Wolf Automation · 美国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 全线工业自动化分销 20%：Marshall Wolf Automation, Inc.（Algonquin IL；50+ 品牌授权含 Advantech；11–50 人）官网部分坐实（IL SOS 号待补）；主区 US；sales@wolfautomation.com｜补证 X1-02R（2026-10-29）：体量 35 人 / $5–25M；IL SOS 号仍待补；体量补证：Marsha） ｜ 来源 mikrotik-info `C-103`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-02 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 全线工业自动化分销 20%：Marshall Wolf Automation, Inc.（Algonquin IL；50+ 品牌授权含 Advantech；11–50 人）官网部分坐实（IL SOS 号待补）；主区 US；sales@wolfautomation.com｜补证 X1-02R（2026-10-29）：体量 35 人 / $5–25M；IL SOS 号仍待补；体量补证：Marsha） ｜ 来源 mikrotik-info `C-103`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 >
 > **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：○ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 全线工业自动化分销 20%：Marshall Wolf Automation, Inc.（Algonquin IL；50+ 品牌授权含 Advantech；11–50 人）官网部分坐实（IL SOS 号待补）；主区 US；sales@wolfautomation.com｜补证 X1-02R（2026-10-29）：体量 35 人 / $5–25M；IL SOS 号仍待补；体量补证：Marshall Wolf Automation, Inc. · 210 Dowdle St Suite 1, Algonquin IL 60102 · 1984/85 起（Bloomberg 1987-01-27）· 35 人 · 营收 $5–25M · CEO Hans Wolf；IL SOS 号一次检索未中 → reg_pending 留
 
@@ -47,12 +47,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，X1-02，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XC** — X1-02 补路径：○ 全线工业自动化分销 20%：Marshall Wolf Automation, Inc.（Algonquin IL；50+ 品牌授权含 Advantech；11–50 人）官网部分坐实（IL SOS 号待补）；主区 （等级不动，池位见 sieve_x）
-- 活着吗：2026-10-29 检索命中官网 / 名录（在线）
+- 活着吗：在线（wolfautomation.com，快照 2026-10-29）：Industrial Controls Distributor | Marshall Wolf Automation
 - 一句话：Marshall Wolf Automation, Inc.：全线工业自动化分销（50+ 品牌授权；Advantech 授权）；11–50 人
 - 是什么人：分销（Advantech 授权）；Marshall Wolf Automation, Inc.
+- 在卖/在用：Advantech
 - 对口哪条线：Saga STI 工业 / SmartByte 商用 PoE — ○ 全线工业自动化分销 20%：Marshall Wolf Automation, Inc.（Algonquin IL；
 - 找得到人吗：sales@wolfautomation.com（官网 / 名录公开（X1-02 补路径））；KP：无具名
 - 已触达：未触达（路径 2026-10-29 新补）
@@ -66,5 +67,7 @@
 | 官网 / 名录 | Crunchbase：Marshall Wolf Automation Inc · Algonquin · 11–50 · sales@ |  | https://www.crunchbase.com/organization/marshall-wolf-automation | 2026-10-29 |
 | 登记 / 名录 | Bloomberg：Marshall Wolf Automation Inc · 210 Dowdle St Algonquin · 35 人 · 1987-01-27 |  | https://www.bloomberg.com/profile/company/0044653D:US | 2026-10-29 |
 | 登记 / 名录 | Glassdoor：1984 起 · $5–25M · CEO Hans Wolf |  | https://www.glassdoor.com/Overview/Working-at-Marshall-Wolf-Automation-EI_IE1802137.11,35.htm | 2026-10-29 |
+| 官网快照 | 官网在线；Industrial Controls Distributor ｜ Marshall Wolf Automation | Find industrial automation solutions for OEMs, manufacturers, system integrators, and end users. Fast shipping, expert support, and trusted brands. | https://www.wolfautomation.com/ | 2026-10-29 |
 
-- 备注：Marshall Wolf Automation, Inc.；210 Dowdle Street Ste 1 / 923 S Main St, Algonquin IL 60102；+1 847-658-8130
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+Marshall Wolf Automation, Inc.；210 Dowdle Street Ste 1 / 923 S Main St, Algonquin IL 60102；+1 847-658-8130

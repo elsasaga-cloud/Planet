@@ -23,7 +23,7 @@ last_contact: 2023-10-19
 p1: STI-110GE
 price_tier: 30%
 research: done
-site_snapshot: unreachable  # 2026-10-21
+site_snapshot: unreachable  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -56,6 +56,7 @@ updated: 2026-10-29
 | 2026-05-12 | 去 | Elsa 群发（BCC；To info@andasis.com，misc(TR/TN/TZ/NL/SA/BE/RU) 批次） | 10G Enterprise SFP Switch — 24×1G SFP + 8 combo + 4×10G SFP+ managed, dual AC（价格不在摘要里；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | Elsa 箱群发 BCC 触达证据（命中地址 fybera.com, sales@fybera.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | MC 自己的logo 周边产品较多 看着像国内的外壳 | 表内备注 | `用户表` |
 | 2026-10-29 | 查 | Agent 复核 LT-R09 | fybera.com：FYBERA - Your optical fibre equipment provider … Ethernet Media Converter 1100/2 Brand: Fybera … Email: sales@fybera.com · Call now: +359 2 4214270 | 长期客户群复核证据（非邮件事实，不计真回） | `` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：fybera.com MX NoNameservers；A NoNameservers；NS NoNameservers | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -109,7 +110,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（fybera.com：域名不可达（DNS/连接失败），2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（fybera.com：域名不可达（DNS/连接失败），2026-10-29，第 2 次）
 - **是谁**：比利时 Fybera（官网快照不可达；表内「MC 自己的 logo，周边产品较多，看着像国内的外壳」）；群发 12 次无回复。
 - **类型**：光纤配件品牌商（比利时，自有标 MC；官网待核）
 - **【用户表】表内兴趣/备注**
@@ -118,7 +119,8 @@ updated: 2026-10-29
 - **【用户表】MC 自己的 logo 国内外壳**
   > MC 自己的logo  周边产品较多 看着像国内的外壳
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 LT-R09 2026-10-29 country_fix：表内「比利时」有误，官网 fybera.com 联系电话 +359 2 4214270（索非亚）→ 保加利亚。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
@@ -140,7 +142,7 @@ LT-R09 2026-10-29 country_fix：表内「比利时」有误，官网 fybera.com 
 - **Saga 对位结论**：P1 STI-110GE（30% 档）——自有 logo MC（国内外壳）→ 工业千兆 MC STI-110GE（$24.3 @30%）/ 桌面 MC 用 HRUI（列表价，注明）贴 Fybera 标
 - **邮件切入句（英文）**：For the media converters sold under the Fybera label, we can supply gigabit MCs (desktop or industrial DIN/wall mount) and 8-GE + 2 SFP switches in your packaging from small lots, CE/RoHS — which MC configuration do your customers order most?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名不可达（DNS/连接失败））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：域名不可达（DNS/连接失败））
 
 - 尝试域名：fybera.com
   > https://fybera.com/ conn: HTTPSConnectionPool(host='fybera.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPS
@@ -174,7 +176,7 @@ LT-R09 2026-10-29 country_fix：表内「比利时」有误，官网 fybera.com 
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-944/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |

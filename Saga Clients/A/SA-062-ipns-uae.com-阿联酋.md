@@ -28,7 +28,7 @@ s_mail: 21 msgs (out 20 / in 1), 2025-03-26 -> 2026-09-22
 p1: STI-288DGGPM
 price_tier: 25%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -154,7 +154,8 @@ updated: 2026-10-29
   > IPNS is CCTV distributor and delivers end-to-end IP CCTV network solutions … Our entire CCTV range, including mounting and accessories, is held in stock at our United A-wide network of fully-stocked warehouses.
   > 来源：https://ipns-uae.com/cctv-distributor-amc-contract-abu-dhabi/（抓取 2022-01-15）
 - **KP**：（ISAF 2025 现场联系人，见 Clients 表）（） +971 55 983 5897（用户记录）〔用户 Clients 表（ISAF 2025）〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 面对面接触 + 已在从深圳采购并刷自有 logo = 现成的 OEM 买家；工业线在用 N-Net 可替换。邮件不回 → 走 WA。P1：STI-288DGGPM（2 光 8 电工业 PoE；其询问的 alarm 继电器输出需向 SmartByte 核实），OEM 价阶 30%。注意政府/警务项目守界，只供商用与一般楼宇安防。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v2（官网核对））
@@ -182,7 +183,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——2 光 10 电近似 STI-288DGGPM（8+2）；alarm 继电器为工业机标配（需 SmartByte 确认）；集成商 25% 档
 - **邮件切入句（英文）**：You asked at ISAF whether the standard switches carry an alarm output: the industrial 8-port gigabit PoE + 2 SFP managed DIN unit does, with dual DC input, so that is the model I am quoting as a second source next to your N-Net units.
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：ipns-uae.com
   > https://ipns-uae.com/ http 403 ct=text/html; charset=utf-8
@@ -237,7 +238,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-062/`；本节随档案重渲染刷新，实时看日志。
 

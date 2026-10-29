@@ -1,6 +1,6 @@
 # XC-M100 · Adeptor AS · 挪威
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 电子 / 电气设备增值分销 20%：Adeptor AS（Bergen；20 年；HMS Red Lion / N-Tron 渠道；官网具名部门负责人 elen.arnoy@ / leah.foseid@ / elias.storaas@）官网部分坐实（Org.nr 待补）；sales@adeptor.no｜补证 X1-02R（2026-10-29）：Org.nr 997 293 851 坐实） ｜ 来源 mikrotik-info `C-035`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-02 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 电子 / 电气设备增值分销 20%：Adeptor AS（Bergen；20 年；HMS Red Lion / N-Tron 渠道；官网具名部门负责人 elen.arnoy@ / leah.foseid@ / elias.storaas@）官网部分坐实（Org.nr 待补）；sales@adeptor.no｜补证 X1-02R（2026-10-29）：Org.nr 997 293 851 坐实） ｜ 来源 mikrotik-info `C-035`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 >
 > **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：○ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 电子 / 电气设备增值分销 20%：Adeptor AS（Bergen；20 年；HMS Red Lion / N-Tron 渠道；官网具名部门负责人 elen.arnoy@ / leah.foseid@ / elias.storaas@）官网部分坐实（Org.nr 待补）；sales@adeptor.no｜补证 X1-02R（2026-10-29）：Org.nr 997 293 851 坐实（22 人；2025 PBT 13.5M NOK）；ADEPTOR AS · Kanalveien 62, 5068 Bergen · 22 人 · NACE 46.500 ICT 设备批发 · 日常经理 Dag Ivar Roald · 2025 税前利润 13.5M NOK
 
@@ -47,10 +47,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，X1-02，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XC** — X1-02 补路径：○ 电子 / 电气设备增值分销 20%：Adeptor AS（Bergen；20 年；HMS Red Lion / N-Tron 渠道；官网具名部门负责人 elen.arnoy@ / leah.foseid@ / eli（等级不动，池位见 sieve_x）
-- 活着吗：2026-10-29 检索命中官网 / 名录（在线）
+- 活着吗：在线（adeptor.no，快照 2026-10-29）：Adeptor AS – Produkter og kompetanse for krevende miljøer
 - 一句话：Adeptor AS：电子 / 电气设备增值分销 20 年（HMS Red Lion / N-Tron 渠道）；部门负责人具名（elen.arnoy@ / leah.foseid@ / elias.storaas@ 见官网）
 - 是什么人：分销（HMS：Red Lion / N-Tron）；Adeptor AS
 - 对口哪条线：Saga STI 工业 / SmartByte 商用 PoE — ○ 电子 / 电气设备增值分销 20%：Adeptor AS（Bergen；20 年；HMS Red Lion / N-
@@ -65,5 +65,7 @@
 | 官网 / 名录 | 官网 Kontakt oss：sales@adeptor.no · +47 55 59 69 90 · 部门联系人 |  | https://www.adeptor.no/kundesenter/kontakt-oss | 2026-10-29 |
 | 官网 / 名录 | Eliaden 展商页：Adeptor AS · 20 年增值分销 · Kanalveien 62 Bergen |  | https://eliaden.no/utstillere/adeptor-as/ | 2026-10-29 |
 | 登记 / 名录 | Proff：ADEPTOR AS · Org nr 997 293 851 · 2011 · 22 人 · Kanalveien 62 Bergen · DL Dag Ivar Roald |  | https://www.proff.no/selskap/adeptor-as/bergen/elektronikk-og-telekommunikasjonsutstyr-engros/IGHRGUZ10MZ | 2026-10-29 |
+| 官网快照 | 官网在线；Adeptor AS – Produkter og kompetanse for krevende miljøer | Produkter og kompetanse for industriell kommunikasjon, automasjon, belysning, Ex-komponenter, test, inspeksjon og måleteknikk. | https://www.adeptor.no/ | 2026-10-29 |
 
-- 备注：Adeptor AS；Kanalveien 62, 5068 Bergen（+ Stavanger / Oslo / Kungälv SE）；+47 55 59 69 90；X1-02R 补证：Org.nr 997 293 851（2011-09-02）
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/evidence。
+Adeptor AS；Kanalveien 62, 5068 Bergen（+ Stavanger / Oslo / Kungälv SE）；+47 55 59 69 90；X1-02R 补证：Org.nr 997 293 851（2011-09-02）

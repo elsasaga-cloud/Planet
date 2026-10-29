@@ -28,7 +28,7 @@ last_contact: unknown
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: timeout  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -40,7 +40,7 @@ updated: 2026-10-29
 - **历史互动**：成交/下单过；WhatsApp 已加
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-21616GP / STI-21616GPM（已测）→ 项目批量 — 刚成交、毛利好、项目型；按 2026-08 成交价（RMB）；项目批量时复核；成交价（RMB，2026-08-21）：STI-288GPM ¥550、STI-21616GP ¥1,140、STI-21616GPM ¥1,550、NDR-240-48 ¥270、工业 SFP ¥50；进价见 P20260821-01（整单毛利 18.8%，整机 16–17%）——项目批量时整机按 Marvell 25% 档重核（STI-21616GP ¥1,269 / STI-21616GPM ¥1,707），光模块可让；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-04 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-05-04；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-06 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-06；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Raja — how did the 16-port managed vs unmanaged units behave in the test ring, and when does the project batch get sized?
-- **最大未知**：年走量与现供应商
+- **最大未知**：官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
 - **下一步**：现在（距发货 ≈2 个月） WhatsApp（Simon） 先把 Raja 从 Elsa 群发 Bcc 名单剔出（2026-09-08 仍在 sofyan 锚的 Bcc，成单后还在收 $170 群发稿）（第 74 批(o)）；一句话问测试结论与项目批量（第 76 批(c) 2026-10-25：audit_ab 软项修正：补 summary）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
@@ -126,7 +126,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-22）**　网站状态：
+- **状态：已调研（2026-10-22）**　网站状态：快照失败（live.com.my：超时（站慢或封锁），2026-10-29，第 1 次）
 - **是谁**：吉隆坡 ICT/门禁/CCTV 集成商 WizardsInc Sdn Bhd（Technology Park Malaysia 孵化器；CEO Raja Kumaran）：2026-08 一单 RMB 10,500 / 42 件（STI-288GPM ×2、STI-21616GP ×4、STI-21616GPM ×1 + 工业光模块 28 + 电源），PI 标「Sample Testing」= 项目前的批量样机；关系全在 WhatsApp/WeChat，A/S 邮箱 0 封；曾被留在 Elsa 群发 Bcc（成单后仍收 $170 群发稿）。
 - **【PI】成交单据 STS-20260818-001（Quotation，2026-08-18）：NDR-240-48、STI-288GP、STI-G2-MD、STI-G20-SD 共 36 台，RMB 7580.0**
   > 来源：PI.zip:19 马来西亚 Raja 可发展/STS-20260818-001.xlsx（抓取 2026-08-18）
@@ -148,12 +148,23 @@ updated: 2026-10-29
 - **KP**：Raja King（单据联系人） 〔PI.zip 单据〕
 - **KP**：Raja Kumaran（单据联系人）rajaking@outlook.com 〔PI.zip 单据〕
 - **调研后定级**：A（原自动 A）——PI 包成单客户，Simon 标签 可发展 → A
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#1。
+
 
 ### 加厚挖掘（2026-10-23 · 公开平台核查（T29-U18，针对性：只核活跃平台与触达通道））
 
 - **触达通道（公开）**：公开动态平台（监控中，T29-U18）: 官网 wizardsinc.co（WordPress，RSS ?feed=rss2）；10times 展会评论（CEO Raja Kumaran 2026-07 参观 LED Light Malaysia）；GitHub 用户 WizardsInc-Maintenance（归属未证实）
 - **近况信号**：
   - 2026-10-23 核查：WizardsInc Sdn Bhd（2011-01-24 注册，930621-U）= 吉隆坡 Technology Park Malaysia 孵化器内的 ICT/嵌入式/门禁 CCTV 集成商，总机 03-4044 4044、热线 1-700-816-003；CEO Raja Kumaran 2026-07 在看 LED/标牌展——门禁+CCTV+标牌项目都要 PoE 交换机
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：超时（站慢或封锁））
+
+- 尝试域名：live.com.my
+  > https://live.com.my/ conn: HTTPSConnectionPool(host='live.com.my', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTP
+  > https://www.live.com.my/ conn: HTTPSConnectionPool(host='www.live.com.my', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<
+  > http://live.com.my/ conn: HTTPConnectionPool(host='live.com.my', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPCo
+- **提示**：抓取失败不代表公司不在；人工打开一次即可。
+- 数据文件：`data/saga_clients/site_snapshots/SA-090.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -178,7 +189,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：4 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T02:54:23Z
+- **监控层**：成单精选层　|　**自动源**：4 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T02:54:23Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-090/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
@@ -264,6 +275,7 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
+- [ ] 官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

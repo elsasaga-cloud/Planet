@@ -23,7 +23,7 @@ s_mail: 19 msgs (out 18 / in 1), 2025-02-14 -> 2026-09-22
 p1: STI-280GE
 price_tier: 20%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -52,6 +52,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-07-13 | 内 | Gmail 退信（A 邮箱） | kalen.makela@uniformatic.fr 永久退信：550 5.4.1 Recipient address rejected: Access denied. For more information see https://aka.ms/EXOSmtpErrors | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_a 27accacfb0894d3e` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：uniformatic.fr MX uniformatic-fr.mail.protection.outlook.com.；A NoAnswer；NS ns5.safebrands.tech. / ns1.safebrands.fr. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -112,7 +113,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（uniformatic.fr：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（uniformatic.fr：HTTP 错误，2026-10-29，第 2 次）
 - **是谁**：法国 Uniformatic（工业电源、交换机、工业交换机经销；KP virginie@；官网 http_error）；群发 8 次无回复。
 - **类型**：工业电源/网络经销商（法国）
 - **【用户表】表内兴趣/备注**
@@ -122,7 +123,8 @@ updated: 2026-10-29
   > 工业电源 switch 工业switch
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Virginie（研究档 KP（职务待核）= 收件人；2025-12 总部迁里昂后先确认邮箱仍有效（第 111 批 官方登记核实 2026-10-28））virginie@uniformatic.fr 〔用户表〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -143,7 +145,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-280GE（20% 档）——工业 switch → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）；工业电源 Saga 不供
 - **邮件切入句（英文）**：Virginie, alongside the industrial power supplies and switches you carry, we supply neutral-brand Marvell-based DIN-rail 5-GE and 8-GE + 2 SFP managed switches (−40~75 °C, 12–57 V, CE/RoHS) from single units, EXW USD — which industrial switch configuration do your customers order most?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：uniformatic.fr
   > https://uniformatic.fr/ conn: HTTPSConnectionPool(host='uniformatic.fr', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("H
@@ -195,7 +197,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-558/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |

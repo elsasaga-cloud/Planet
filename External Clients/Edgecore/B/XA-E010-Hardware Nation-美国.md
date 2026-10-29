@@ -1,6 +1,6 @@
 # XA-E010 · Hardware Nation · 美国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 Edgecore `A-055`（原评级 A，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R01 2026-10-27）→ 下一动作 第二封
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 Edgecore `A-055`（原评级 A，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 第二封
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱
@@ -92,13 +92,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W1-R01，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XA** — 美国主攻区、白牌/开放网络为卖点的小 VAR、创始人直达邮箱——Saga 最对口的美国类型之一；换 CENTEC+OEM 角度第二封
-- 活着吗：官网活（2026-10-26 更新），招 BDR Open Networking
+- 活着吗：在线（hardwarenation.com，快照 2026-10-29）：Engineering, Sourcing, Support | Hardware Nation
 - 一句话：佐治亚 Buford 的开放网络 VAR/经销商（2006 起，11–50 人，$1.8–2M），自述帮 DC 运营商/服务商/企业建「传统与开放网络」，IP Infusion 经销伙伴、Ubiquiti 授权经销商，BBB 认证 19 年。10-19 发创始人 alex@ 未回。
 - 是什么人：开放网络 VAR + 网店（白牌友好）；规模：11–50 人；$1.8–2M（D&B）
-- 在卖/在用：Ubiquiti、IP Infusion (OcNOS)、Edgecore（官方 SI/On-Line 名录）、open networking / disaggregated
+- 在卖/在用：Ubiquiti、IP Infusion (OcNOS)、Edgecore（官方 SI/On-Line 名录）、open networking / disaggregated、Juniper、Fortinet、Aruba、Extreme
 - 对口哪条线：CENTEC + SmartByte 商用管理型（OEM 贴牌） — 白牌 + 开放网络是他们的卖点，Centec L3 与 Marvell L2+ 都能进；小公司、创始人直达
 - 找得到人吗：alex@hardwarenation.com（Crunchbase/第三方公开，创始人直达，10-19 已发未回）；KP：Alex Cronin（Co-founder / Infrastructure Architect（Indeed 记 CEO），BBB + Crunchbase）
 - 已触达：S 箱 2026-10-19 发 alex@ → 已发未回
@@ -112,6 +112,7 @@
 | IP Infusion 伙伴名录 | Hardware Nation = IP Infusion Reseller Partner（Americas/USA） |  | https://www.ipinfusion.com/partner-directory/hardware-nation/ | 2023-09-15 |
 | BBB | Hardware Nation, LLC，Buford GA，BBB Accredited since 2012，产品含 Open Networking / Network Switches；Alex Cronin Founding Partner |  | https://www.bbb.org/us/ga/buford/profile/computer-dealers/hardware-nation-llc-0443-27429563 | 2026-10-27 |
 | 网店页 | Ubiquiti UniFi 16-Port PoE Switch — Authorized Dealer |  | https://hardwarenation.com/product/ubiquiti-unifi-16-port-poe-switch-usw-16-poe/ | 2023-06-15 |
+| 官网快照 | 官网在线；Engineering, Sourcing, Support ｜ Hardware Nation | We build network infrastructure with disaggregated, open, and OEM components, enabling freedom of choice, flexibility, and cost reduction. | https://hardwarenation.com/ | 2026-10-29 |
 
 草稿（英文，第二封；Simon 发，Agent 不发）：
 
@@ -129,3 +130,6 @@ Which of the two would be worth a sample on your bench first?
 Simon
 Saga Telecom - sagatele.com
 ```
+
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/evidence/site_p1_hint。
+

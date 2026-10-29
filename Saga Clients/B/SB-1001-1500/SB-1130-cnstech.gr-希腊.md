@@ -26,7 +26,7 @@ s_mail: 26 msgs (out 25 / in 1), 2024-06-15 -> 2026-09-09
 p1: STH-2C24XF-HSI
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -64,6 +64,7 @@ updated: 2026-10-29
 | 2026-05-27 | 去 | Saga（Alan） | Any feedback about our models? | 催信无回 | `gmail_a 503822601642167c` |
 | 2026-06-16 | 去 | Saga（Alan） | This is our 400GB Data Center Switch… Price: 16000USD/PC | 与对方问题无关的群发（小安装商收到 400G 报价） | `gmail_a d526efc0de228beb` |
 | 2026-09-09 | 去 | Saga（Alan，群发） | Hi, Akism, This is our 16-port DIN PoE switch… 240W budget | 抬头拼错（Akism）；无回 | `gmail_a 9a6326e41b0e0371` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | CNSTECH \| Διαχειριζόμενες Υπηρεσίες IT & Συστήματα Ασφαλείας — Managed IT, CCTV, συστήματα ασφαλείας, δίκτυα και τεχνική υποστήριξη από την CNSTECH στο Περιστέρι για επιχειρήσεις και επαγγελματικούς χώρους. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：官网未爬：公司规模、是否做网络集成（非仅 CCTV）；Panagiotis 是谁（05-21 Alan 抬头用了这个名字，来信未署名）
 
@@ -158,9 +159,10 @@ updated: 2026-10-29
 - **KP**：Panagiotis（署名出现在 Alan 2026-05-21 回信抬头）（）info@cnstech.gr 〔gmail_a f95072ae72b68c26〕
 - **KP**：Panagiotis Lichas（负责人 / 业主（ananas.gr 名录 ΛΙΧΑΣ ΠΑΝΑΓΙΩΤΗΣ；2026-05-21 回信署名）= 拍板人（抄）（第 109 批 官方登记核实 2026-10-28））info@cnstech.gr 〔https://www.cnstech.gr/about-us/〕
 - **调研后定级**：B（原自动 C）——第 71 批(g)：欧洲主攻区 + 2026-05 真人回复「tell us more」——C（垃圾）口径不成立；按 B 慢慢跟进。表内 Claude 评 5% C 是按「纯工程服务」判的，但对方对 10G L3 核心机表态有兴趣，先当有项目的集成商看。
-- 备注：由第 71 批(g)建档（Replied 标签出站 × 事实表无来信 的复核发现）。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。
+由第 71 批(g)建档（Replied 标签出站 × 事实表无来信 的复核发现）。
 
-### 加厚挖掘（2026-10-24 · 邮件复核 · 未爬官网）
+### 加厚挖掘（2026-10-24 · 邮件复核 · 未爬官网 + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -173,6 +175,22 @@ updated: 2026-10-29
 - **风险/边界**：规模小，10G L3 核心机可能只是好奇；要先问项目；只有 info@，无具名邮箱
 - **Saga 对位结论**：P1 STH-2C24XF-HSI（25% 档）——对方对半宽 10G L3 推介开口；CCTV 主业则对应 STC-424XGGPM-280W $180
 - **邮件切入句（英文）**：把 05-20 那句「tell us more」接回来：一段话讲清机型 + 价 + 交期，再问项目是什么
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://www.cnstech.gr/　语言：el　站点地图 URL 数：385
+- **标题**：CNSTECH / Διαχειριζόμενες Υπηρεσίες IT & Συστήματα Ασφαλείας
+- **描述**：Managed IT, CCTV, συστήματα ασφαλείας, δίκτυα και τεχνική υποστήριξη από την CNSTECH στο Περιστέρι για επιχειρήσεις και επαγγελματικούς χώρους.
+- **首页栏目**：Σημεία υπεροχής CNSTECH / Άμεση υποστήριξη / Λύσεις επιχειρήσεων / Ασφάλεια / Τεχνογνωσία / Ολοκληρωμένες υπηρεσίες IT, ασφάλειας και επικοινωνίας / Διαχειριζόμενες Υπηρεσίες IT / PC & Laptop Service
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cctv 30、access control 23、poe 14、nvr 7、switch 5、cable 3、camera 1、installer 1、dahua 1
+- **站内公开邮箱**：info@cnstech.gr
+- **站内公开电话**：+30 210 5713 048
+- **社媒**：https://twitter.com/cnstechgr, https://www.akuvox.com/, https://www.facebook.com/cnstech, https://www.instagram.com/cnstechgr/, https://www.linkedin.com/company/cnstech, https://www.youtube.com/@cnstech962
+- **产品类页面**：https://www.cnstech.gr/product-category/alarm-cctv/；https://www.cnstech.gr/product-category/alarm-cctv/cctv/；https://www.cnstech.gr/product-category/μηχανές-γραφείου/；https://www.cnstech.gr/product-category/alarm-cctv/alarms/；https://www.cnstech.gr/product-category/υπολογιστές-laptops/；https://www.cnstech.gr/product-category/alarm-cctv/access-control/
+- **已抓子页**：[Κάμερες Ασφαλείας & CCTV στο Περιστέρι / CNSTECH](https://www.cnstech.gr/cameras-cctv/)；[Δίκτυα & Δομημένη Καλωδίωση στο Περιστέρι / CNSTECH](https://www.cnstech.gr/δίκτυα/)；[Επικοινωνία με CNSTECH / IT Support & Ασφάλεια](https://www.cnstech.gr/contact/)；[Υπηρεσίες IT, CCTV & Συστήματα Ασφαλείας / CNSTECH](https://www.cnstech.gr/services/)；[Επισκευή Υπολογιστών & Laptop στο Περιστέρι / CNSTECH](https://www.cnstech.gr/pc-laptop-service/)
+- 首页正文摘录：Menu Αρχική Υπηρεσίες Υποστήριξη Επικοινωνία Managed IT & Security Διαχειριζόμενες Υπηρεσίες Πληροφορικής για επιχειρήσεις που δεν αντέχουν downtime Η CNSTECH ενοποιεί IT, Ασφάλεια και Επικοινωνία σε ένα σταθερό τεχνικό οικοσύστημα με SLA, πιστοποιημένες εγκαταστάσεις και υποστήριξη που απαντά άμεσα. Μιλήστε με την ομάδα μας Δείτε τις υπηρεσίες EN 50131 Certified Installers 24/7 Monitoring SLA Contracts 500+ Εγκαταστ
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 14、监控 38 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1130.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -225,12 +243,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1130/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://cnstech.gr/) | html | 待首轮 | — | 官网首页 |
+| [home](https://cnstech.gr/) | html | HTTP 522 | 2026-10-29T15:11:51Z | 官网首页 |
 
 ## 联系方式（已有 · 原值照录）
 

@@ -1,6 +1,6 @@
 # XB-E074 · PT Trikomindo Karunia Utama · 印尼
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 Edgecore `B-065`（原评级 B，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T01 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 Edgecore `B-065`（原评级 B，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XB** — 对口但不在主攻区（美加/欧/土以外）→ XB
@@ -110,12 +110,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，LT-T01，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — 桌面复核（来源库核对 + 研究卡）：IT 设备经销商；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））
-- 活着吗：域名 trikomindo.co.id MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓
+- 活着吗：在线（trikomindo.co.id，快照 2026-10-29）：Trikomindo Karunia Utama – System Integrator Network
 - 一句话：PT Trikomindo Karunia Utama（印尼 · Jakarta Pusat（Mangga Dua））：IT 设备经销商
 - 是什么人：IT 设备经销商
+- 在卖/在用：D-Link、TP-Link、Cisco、Allied Telesis、TRENDnet
 - 对口哪条线：STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）
 - 找得到人吗：sales@trikomindo.co.id（活（来源库 9 月核对））；KP：无具名
 - 已触达：S 箱 2026-10-22 去信 1 / 来信 0（24 Port PoE Managed Switch）
@@ -129,5 +130,7 @@
 | 来源库证据链接 | 来源库调研时引用 |  | https://trikomindo.co.id | 2026-10-27 |
 | 来源库证据链接 | 来源库调研时引用 |  | https://www.indonetwork.co.id/product/distributor-linksys-switch-managed-2210126 | 2026-10-27 |
 | 长期群复核 LT-R07 | 桌面复核（来源库核对 + 研究卡）：IT 设备经销商；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%）） |  |  | 2026-10-29 |
+| 官网快照 | 官网在线；Trikomindo Karunia Utama – System Integrator Network | Trikomindo Karunia Utama – System Integrator Network | https://trikomindo.co.id/ | 2026-10-29 |
 
-- 备注：LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。

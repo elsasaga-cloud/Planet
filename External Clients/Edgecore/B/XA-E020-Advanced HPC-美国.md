@@ -1,10 +1,10 @@
 # XA-E020 · Advanced HPC · 美国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 Edgecore `B-043`（原评级 B，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R01 2026-10-27）→ 下一动作 第二封
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 Edgecore `B-043`（原评级 B，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 第二封
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱
-- 研究后改级：XA → **XB**（W1-R01，HPC 利基、NVIDIA 生态为主；Centec 100G 只能当价格档试一封 → XB，排 11 月第二周）；编号不变
+- 研究后改级：XA → **XB**（LT-T03，HPC 利基、NVIDIA 生态为主；Centec 100G 只能当价格档试一封 → XB，排 11 月第二周）；编号不变
 - 人工改级：XB（2026-10-29，Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径））；编号不变
 - 标记：S箱已群发
 - 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
@@ -97,10 +97,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W1-R01，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — HPC 利基、NVIDIA 生态为主；Centec 100G 只能当价格档试一封 → XB，排 11 月第二周
-- 活着吗：活（网店在售 NVIDIA/Edgecore 交换机），2026-10-27
+- 活着吗：在线（advancedhpc.com，快照 2026-10-29）：High Performance Computing | Advanced HPC
 - 一句话：圣地亚哥 HPC 集成商兼网店，卖 NVIDIA/Mellanox InfiniBand 与以太交换机、光模块，也上架 Edgecore AS7712-32X 100G；客户是 HPC/AI 集群。10-21 发 sales@ 未回。
 - 是什么人：HPC 集成商 + DC 组件网店；规模：中小（私营）
 - 在卖/在用：NVIDIA/Mellanox、Edgecore AS7712-32X、Intel Omni-Path
@@ -116,6 +116,7 @@
 | 官网产品页 | Edgecore Networks AS7712-32X 100GbE Data Center Switch 在售 |  | https://www.advancedhpc.com/pages/smart-cloud-solutions-scs-enterprise-private-cloud-hardware-edgecore-networks-as7712-32x-100gbe-data-center-switch-power-to-port | 2026-10-27 |
 | 官网 Ethernet Switches | Shop a broad portfolio of ToR switches 12–128 ports, 1GbE–400GbE |  | https://www.advancedhpc.com/collections/ethernet-switches | 2026-10-27 |
 | 官网 Contact | Advanced HPC, Inc. 7879 Raytheon Rd. San Diego；(858) 716-8262 |  | https://www.advancedhpc.com/pages/contact-us | 2026-10-27 |
+| 官网快照 | 官网在线；High Performance Computing ｜ Advanced HPC | Advanced HPC provides high performance computing, storage systems and clusters to enable the latest in technology, from AI to machine learning. | https://www.advancedhpc.com/ | 2026-10-29 |
 
 草稿（英文，第二封；Simon 发，Agent 不发）：
 
@@ -133,3 +134,6 @@ Do your cluster customers ever ask for a lower-priced 100G option, or is it NVID
 Simon
 Saga Telecom - sagatele.com
 ```
+
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。
+

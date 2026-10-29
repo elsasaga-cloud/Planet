@@ -200,6 +200,14 @@
     "quote": "Dear Alan, I have shared It with our sales department. We will check if we can accommodate it. In the meantime, to better understand the scenario it w",
     "why": "来信原文（主题「RE: Commercial PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
     "k": "5f589ba4397ac9aa"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 复核 LT-R10",
+    "quote": "DNS 2026-10-29 16:2xZ：e-saudi.net MX aspmx2.googlemail.com. / alt2.aspmx.l.google.com.；A 209.17.116.163；NS ns37.worldnic.com. / ns38.worldnic.com.",
+    "why": "长期客户群复核证据（非邮件事实，不计真回）",
+    "url": ""
    }
   ],
   "proof_gaps": [],
@@ -229,5 +237,14 @@
    "2026-10-29"
   ],
   "batch": "LT-T03"
+ },
+ "lt_review": {
+  "status": "留 A",
+  "batch": "LT-R10",
+  "prio": null,
+  "queued": "LT-R10",
+  "verdict_date": "2026-10-29",
+  "note": "e-saudi.net 快照两次 http_error，但 DNS 2026-10-29 MX Google / A 209.17.116.163 正常 → 站点反爬 / 非死域，邮箱路径在 → A 不动",
+  "why": ""
  }
 }

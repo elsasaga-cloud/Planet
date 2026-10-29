@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
-site_snapshot: timeout  # 2026-10-21
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-29
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — CCTV 配套 PoE（Dahua 生态）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、工业千兆 MC STI-110GE（$22.4）；非管理 4/8 PoE 位 HRUI（列表价，注明）；首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-01；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：For the PoE switches and media converters you list with Dahua systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and gigabit MCs from single units, CE/RoHS, EXW USD — which PoE port count do your Polish installer customers buy most? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
-- **最大未知**：官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
+- **最大未知**：年走量与现供应商
 - **下一步**：待 Simon 排期（首封） A 邮箱 → info@obserwuj.pl（无具名 KP；公用地址） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-09-01「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(d) 2026-10-25：英文信稿已写 `draft_en`）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
@@ -54,6 +54,7 @@ updated: 2026-10-29
 | 2025-04-03 | 去 | Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次） | L3 Managed Switch — This is a Marvell-based L3 Managed 24 port DIN PoE Switch. 1, PoE af/at/bt, 370W budget, max 60℃ 2, Support DI/DO/RS485, USB, Alarm 3, Customizable We | Elsa 箱群发 BCC 触达证据（命中地址 info@obserwuj.pl, obserwuj.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-09-01 | 去 | Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 info@obserwuj.pl, obserwuj.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | FS VC MC SFP 大华产品比较多 | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Systemy zabezpieczeń i monitoringu CCTV - Sklep internetowy obserwuj.pl — Sklep internetowy obserwuj.pl to ekspert w dziedzinie systemów zabezpieczeń i monitoringu CCTV. Zobacz naszą pełną ofertę - Dzięki nam poczujesz się bezpiecznie! | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -108,20 +109,21 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（obserwuj.pl：超时（站慢或封锁），2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：在线（obserwuj.pl，快照 2026-10-29）：Systemy zabezpieczeń i monitoringu CCTV - Sklep internetowy obserwuj.pl
 - **是谁**：波兰 Obserwuj.pl（CCTV 网店：FS、VC、MC、SFP，「大华产品比较多」；表内「质量一般」；官网 timeout）；表内未跟进。
 - **类型**：CCTV 网店（波兰，Dahua 为主）
-- **在卖/在用品牌**：Dahua
+- **在卖/在用品牌**：Dahua, TP-Link, Hikvision, Pulsar
 - **【用户表】表内兴趣/备注**
   > FS VC MC SFP 大华产品比较多
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **【用户表】大华产品比较多**
   > FS VC MC SFP 大华产品比较多
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/brands_seen/site_contacts/deep/facts。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -140,14 +142,23 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——CCTV 配套 PoE（Dahua 生态）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、工业千兆 MC STI-110GE（$22.4）；非管理 4/8 PoE 位 HRUI（列表价，注明）
 - **邮件切入句（英文）**：For the PoE switches and media converters you list with Dahua systems, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ switches and gigabit MCs from single units, CE/RoHS, EXW USD — which PoE port count do your Polish installer customers buy most?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：超时（站慢或封锁））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
 
-- 尝试域名：obserwuj.pl
-  > https://obserwuj.pl/ conn: HTTPSConnectionPool(host='obserwuj.pl', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTP
-  > https://www.obserwuj.pl/ conn: HTTPSConnectionPool(host='www.obserwuj.pl', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<
-  > http://obserwuj.pl/ conn: HTTPConnectionPool(host='obserwuj.pl', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPCo
-- **提示**：抓取失败不代表公司不在；人工打开一次即可。
-- 数据文件：`data/saga_clients/site_snapshots/SB-1061.json`
+- **首页**：https://obserwuj.pl/　语言：pl　站点地图 URL 数：7020
+- **标题**：Systemy zabezpieczeń i monitoringu CCTV - Sklep internetowy obserwuj.pl
+- **描述**：Sklep internetowy obserwuj.pl to ekspert w dziedzinie systemów zabezpieczeń i monitoringu CCTV. Zobacz naszą pełną ofertę - Dzięki nam poczujesz się bezpiecznie!
+- **首页栏目**：Promocje / Kamera obrotowa 5Mpix WiFi IMOU IPC-S7CP-5M0WE / Kamera kopułka 6M DAHUA IPC-HDW1639T-A-IL-0280B-S6 / Kamera tuba 6M DAHUA IPC-HFW1639TC-A-IL-0280B-S6 / Kamera Cruiser Dual IMOU IPC-S7XP-10M0WED-0360B / Nowości / ZG2S – Inteligentna Bramka Zigbee 3.0 i Matter (Smart Gateway) / PFB-JB – Aluminiowa puszka montażowa do kamer monitoringu
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 123、switch 106、cctv 102、dahua 51、gigabit 24、ethernet 20、tp-link 18、sfp 7、hikvision 3、nvr 2、10g 1、wifi 1
+- **站内出现的品牌**：Dahua, TP-Link, Hikvision, Pulsar　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：IEEE802, WP8010, EN14604, IPC-HFW1639TC-A-IL-0280B-S6, IPC-HDW1639T-A-IL-0280B-S6, RJ-45, DH-1967, PFT1300, SF105C, DH-SG1005, GS105D, DH-CHS4106-4ET
+- **站内公开邮箱**：info@obserwuj.pl
+- **站内公开电话**：0000 0000 1155 4563, 0000 0000 1155 4571
+- **社媒**：https://www.facebook.com/obserwujpl, https://www.instagram.com/obserwujpl/, https://www.youtube.com/channel/UCKW73FaouqyaHcrKqwSY8Bg, https://www.youtube.com/channel/UCKW73FaouqyaHcrKqwSY8Bg/videos
+- **产品类页面**：https://www.obserwuj.pl/switche-poe,c205.html；https://www.obserwuj.pl/switch-poe-3-portowy-passive-xpoe-3-10,id7922.html；https://www.obserwuj.pl/switch-poe-5-portowy-gigabitowy-atte-xpoe-5-50-of,id8985.html；https://www.obserwuj.pl/switch-poe-6-portowy-5xpoe---1xuplink-xpoe-6-11-of,id5852.html；https://www.obserwuj.pl/switch-poe-6-portowy-5xpoe---1xuplink-xpoe-6-11-s2,id5853.html；https://www.obserwuj.pl/switch-poe-6-portowy-5xpoe---1xuplink-xpoe-6-11-s3,id5854.html
+- **已抓子页**：[Urządzenia WLAN, LAN - Switche PoE - Sklep internetowy obser](https://obserwuj.pl/switche-poe,c205.html)；[Urządzenia WLAN, LAN - Switche - Sklep internetowy obserwuj.](https://obserwuj.pl/switche,c204.html)；[Kontakt - Sklep internetowy obserwuj.pl](https://obserwuj.pl/kontakt,p1.html)；[Intercomy - sieciowe - Sklep internetowy obserwuj.pl](https://obserwuj.pl/sieciowe,c234.html)；[Akcesoria CCTV dla Twojego systemu - Sklep internetowy obser](https://obserwuj.pl/akcesoria-cctv,c1.html)；[Akcesoria CCTV - monitory CCTV - Sklep internetowy obserwuj.](https://obserwuj.pl/monitory-cctv,c63.html)
+- 首页正文摘录：obserwujpl Zapraszamy na nasz kanał Aktualności Nowości Cenniki Promocje Pobieranie Kontakt Kategorie Wyszukiwarka Twoje konto 0 Ulubione Koszyk Koszyk Koszyk Monitoring CCTV Monitoring HD AHD/CVi/TVI/CVBS Rejestratory Kamery Gotowe zestawy monitoringu CCTV Monitoring IP Gotowe zestawy IP Rejestratory Kamery 0 Kamera tuba 6M DAHUA IPC-HFW1639TC-A-IL-0280B-S6 Cena: 295.20 zł Akcesoria CCTV UPS-y Dyski twarde Kamery CC
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 123、监控 104 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1061.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -162,13 +173,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
 - **最近变化摘要**：2026-10-24 home：内容变化：+1 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1061/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://obserwuj.pl/) | html | ConnectTimeout: HTTPSConnectionPool(host='obserwuj.pl', port | 2026-10-28T08:44:48Z | 官网首页（T27 快照状态 timeout） |
+| [home](https://obserwuj.pl/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 10278 字符；首行：Systemy zabezpieczeń i monitoringu CCTV - Sklep internetowy obserwuj.pl |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -241,7 +252,6 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

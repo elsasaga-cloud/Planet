@@ -29,7 +29,7 @@ s_mail: 23 msgs (out 23 / in 0), 2024-07-04 -> 2026-09-30
 p1: STC-424XGGPM-280W
 price_tier: 30%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -61,6 +61,7 @@ updated: 2026-10-29
 | 2026-10-29 | 查 | Agent 复核 LT-R01 | TBK Vision is present in the market since 1996 … NETWORK CCTV DEVICES … A spanish brand | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 复核 LT-R01 | TBK Vision … whose products are marketed in the Spanish market by Hommax Sistemas（2016-10-25） | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 登记底数（registry） | ES · 1 次检索：verif.com（TBK SOLUTION FR 750660060；site tbkvision.com）+ manualslib（TBK NEO DVR）；西班牙登记无命中；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Plesk Obsidian 18.0.81 | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -118,10 +119,11 @@ updated: 2026-10-29
   > 来源：（抓取 2026-10-29）
 - **KP**：—（表内邮箱（公开 / 总机））info@tbkvision.com 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · OEM 30%：TBK Vision（品牌真实：DVR 手册；域名关联法国 TBK SOLUTION SIREN 750660060；西班牙法人未得）部分坐实；自有品牌 ✔ 进口 Utepo ✔ 欧洲 ✔ → 入池观察档，预付 100%，先核法人 + 找新 KP；闸 1：西班牙 TBK Vision（安防品牌商，Utepo 工业交换机 + 自有型号，早期 AI 45% A）→ 主区 + 自有品牌 OEM 对象；退信但域名正常；14 次跟进 → 闸 2 找新 KP
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：saga_fit.basis/deep/facts。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -135,6 +137,12 @@ updated: 2026-10-29
 SFP CCTV 一些其他的FS
 - **风险/边界**：**自有品牌 → OEM 30%：先核法人国别 + 找新 KP（LinkedIn「TBK Vision」），再一页纸（STI-154GP 工业 / STC-228GP + 丝印 MOQ；Utepo 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号
 - **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://tbkvision.com/login_up.php　语言：en　站点地图 URL 数：0
+- **标题**：Plesk Obsidian 18.0.81
+- 数据文件：`data/saga_clients/site_snapshots/SC-427.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -189,12 +197,13 @@ SFP CCTV 一些其他的FS
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-427/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://tbkvision.com/) | html | 待首轮 | — | 官网首页 |
+| [home](https://tbkvision.com/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 89 字符；首行：Web Server's Default Page |
 
 ## 联系方式（已有 · 原值照录）
 

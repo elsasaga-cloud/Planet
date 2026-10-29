@@ -29,7 +29,7 @@ s_mail: 27 msgs (out 24 / in 3), 2024-06-15 -> 2026-09-01
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -41,7 +41,7 @@ updated: 2026-10-29
 - **历史互动**：实质回复 1 次；推送 11 次（2024-05-17 → 2025-11-07）；最近一次客户回复：2024-08-13：后续不用跟了
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（2/24 封有打开记录）：「Passive PoE Switch」(2024-08-13)、「Re: Passive PoE Switch」(2024-08-13) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-17 $65（10G media converter）、2024-08-09 $220（48 port managed switch）；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-03 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
+- **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
@@ -60,6 +60,7 @@ updated: 2026-10-29
 | 2024-08-13 | 来 | Austėja Matulaitytė | in Lithuania and Europe nobody anymore want a China products for security due to regulations | 市场信号 | `94cc7dd92c05aaa7` |
 | 2024-08-13 | 去 | Saga（Simon） | Hi, Austeja, Thanks for your information. I understand your concerns, it seems that you do not do OEM, right? Many European companies are importing from China, but they will ask for Chinese suppliers to do some customization(change the logo, model name etc.). This is popular now. We can also do this… | Saga 实质答复原文（主题「Re: Passive PoE Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准 | `e8fb7d7801aaff8c` |
 | 2024-12-12 | 去 | Saga（Simon） | Hi, Austėja, How are you? Previously we had a discussion on brand and import issues. Fact 1: you now prefer a supplier from EU countries. Fact 2: you now have a Chinese partner for OEM manufacturing. This email is about, If possible to try our models if we have a strategic partner in Turkey? This pa… | Saga 实质答复原文（主题「Re: Passive PoE Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准 | `ed973dfae5902353` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Smart electronics, computer accessories and DAHUA distributor-Extradigital — Best DAHUA CCTV distributor in Europe. IP CVI cameras. NVR HCVR best cheap price. Largest warehouse in Europe. Fastest shipping same day. UAB EURODIGITAL. Ship across Europe. Printer HP cartridges. Canon toners cheapest pri | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -137,7 +138,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线
 - **是谁**：立陶宛考纳斯的泛欧电子/安防电商与分销商（EURODIGITAL UAB，公司代码 300638881，VAT LT100002890717；经营 15 年以上）：智能电子、安防与视频监控、光伏设备、EV 充电桩；自称「欧洲最佳 Dahua CCTV 分销商 / 欧洲最大仓库 / 当日发货全欧」。用户表：区域登记为「欧洲（国别未填）」→ 实为立陶宛；1 次实质回复，11 次跟进。
-- **在卖/在用品牌**：Dahua
+- **在卖/在用品牌**：Dahua, Huawei
 - **【官网】业务范围与年限**
   > We are one of the largest suppliers of smart electronics, security, video surveillance systems, solar PV eqipement and EV charging stations in Europe, successfully operating more then 15 years.
   > 来源：https://www.extradigital.eu/about-us（抓取 2026-10-21）
@@ -155,10 +156,11 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Austėja（EURODIGITAL）（来信署名人（研究档 KP）= 收件人 — 一页纸一次：分销 20% B、STC-028GP $28 / STC-228GP $33 / STC-2224GP $86 整箱一口价 + MOQ 1 + 付费样机；CE / RoHS / REACH；在售品牌不点名 — 欧盟常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP（买方清关）；周四 12–14 当地（第 123 批 官方登记核实 2026-10-29））info@extradigital.eu 〔S/A 邮箱来信 2024-08-13 来信 3 封（第 72 批从邮件表头补）〕
 - **KP**：Saulius Razlevičius（Vadovas / 董事（rekvi.lt 2026-10-29；无公开邮箱）（第 123 批 官方登记核实 2026-10-29）） 〔〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 （无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对 · 国别补齐））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对 · 国别补齐） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -176,14 +178,21 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——电商/分销 20% 档：STC-28DGGPM（8 PoE+ + 2 SFP 管理）配 Dahua 套装；16 口 STI-21616GP；24 口 STC-424DGGPM-280W
 - **邮件切入句（英文）**：For the Dahua kits you ship across Europe, an 8-port PoE+ managed switch with 2 SFP uplinks at $80.7 EXW gives you a house-brand price band under the Dahua PFS range; shall I send carton quantities?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
 
-- 尝试域名：extradigital.eu
-  > https://extradigital.eu/ http 403 ct=text/html; charset=utf-8
-  > https://www.extradigital.eu/ http 403 ct=text/html; charset=utf-8
-  > http://extradigital.eu/ http 403 ct=text/html; charset=utf-8
-- **提示**：抓取失败不代表公司不在；人工打开一次即可。
-- 数据文件：`data/saga_clients/site_snapshots/SB-196.json`
+- **首页**：https://www.extradigital.eu/　语言：en　站点地图 URL 数：6247
+- **标题**：Smart electronics, computer accessories and DAHUA distributor-Extradigital
+- **描述**：Best DAHUA CCTV distributor in Europe. IP CVI cameras. NVR HCVR best cheap price. Largest warehouse in Europe. Fastest shipping same day. UAB EURODIGITAL. Ship across Europe. Printer HP cartridges. Canon toners cheapest price free delivery, GPS tracking devices and All-in-one barebone PC computers
+- **首页栏目**：POWERBANKS / SMARTPHONE MOUNTS / PROGRAMMABLE CONSTRUCTORS / UV LED NAILS LAMPS / ACRYLIC MARKERS / Bestsellers / Customer reviews
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 212、cable 201、dahua 160、automation 86、nvr 50、cctv 23、poe 20、wireless 20、switch 18、access control 10、fiber 5、surveillance 5
+- **站内出现的品牌**：Huawei, Dahua　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：AC230V, RS485, NF622, WP9525, WP9520, BTY-M6K, IPC-T22EP, IPC-C11EP, IPC-F88FIP-V2, MERV13
+- **站内公开电话**：+370-671-30065
+- **产品类页面**：https://www.extradigital.eu/wi-fi-4g-equipement/industrial-cellular-router-4glte-poe_UR32LL04EUP；https://www.extradigital.eu/wi-fi-4g-equipement/industrial-cellular-router-5g-4g-lte-poe-ip65_HS082642；https://www.extradigital.eu/wi-fi-4g-equipement/industrial-cellular-router-4glte-poe-wi-fi_UR32L04EUPW；https://www.extradigital.eu/powerbanks/power-bank-for-router-36w_POE-36E；https://www.extradigital.eu/powerbanks/power-bank-for-router-17w_POE-430P；https://www.extradigital.eu/barcode-scanners/industrial-1d2d-barcode-scanner_HS084820
+- **已抓子页**：[TUYA Smart Home Automation - Control Your Home Remotely - Ex](https://www.extradigital.eu/safe-and-smart-home/tuya-smart-home-automation-products)；[Become partner - Extradigital](https://www.extradigital.eu/become-partner)；[Home Cameras Wi-Fi & 4G / Smart Security Systems - Extradigi](https://www.extradigital.eu/safe-and-smart-home/home-cameras-wi-fi-4g)；[Smart Heating & Ventilating Solutions / Safe Smart Home - Ex](https://www.extradigital.eu/safe-and-smart-home/smart-heating-and-ventilating-solutions)
+- 首页正文摘录：welcome to ExtraDigital.eu Become Partner Smartphone accessories Tempered glass screen protectors APPLE screen protector SAMSUNG screen protector HUAWEI screen protector NOKIA screen protector XIAOMI screen protector ONEPLUS screen protector GOOGLE screen protector HONOR screen protector Chargers and adapters Adapters Car chargers Chargers Wireless chargers Smartphone batteries APPLE phone batteries BLACKBERRY batter
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 5、PoE 20 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-196.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -234,13 +243,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
-- **最近变化摘要**：2026-10-29 home：内容变化：+119 −97 行
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 home：内容变化：+118 −71 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-196/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://extradigital.eu/) | html | HTTP 200 | 2026-10-29T08:41:09Z | 13149 字符；首行：Smart electronics, computer accessories and DAHUA distributor-Extradigital |
+| [home](https://extradigital.eu/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 12963 字符；首行：Smart electronics, computer accessories and DAHUA distributor-Extradigital |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -315,7 +324,6 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

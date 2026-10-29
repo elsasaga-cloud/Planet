@@ -1,6 +1,6 @@
 # XA-C0003 · CCTVburada · 土耳其
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 CCTV-PoE `profile/new-customers-batch-4.md`:186（其分级 A类） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R01 2026-10-27）→ 下一动作 首触
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 CCTV-PoE `profile/new-customers-batch-4.md`:186（其分级 A类） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 首触
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家（分销/集成/安装/零售/OEM 品牌）+ 有邮箱
@@ -74,10 +74,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W1-R01，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XA** — 土耳其主攻区、网店在卖中国品牌交换机 → A，但体量小，首触排下周 TR 窗口
-- 活着吗：活（网店 2025-12 博客）
+- 活着吗：在线（cctvburada.com，快照 2026-10-29）：CCTV & Güvenlik Sistemleri – CCTV & Güvenlik Sistemleri
 - 一句话：伊斯坦布尔 Kartal 的安防经销/安装商 + 网店，Hikvision 授权经销商，网店有「24 Port Switchler」类目在卖 Ruijie Reyee 管理型交换机（5,500 TL），另做全市摄像头安装服务。小型经销 + 安装，土耳其主攻区。
 - 是什么人：安防经销商/安装商 + 网店（TR）；规模：小
 - 在卖/在用：Hikvision、Ruijie Reyee、Dahua、UNV、TP-Link
@@ -92,6 +92,7 @@
 |---|---|---|---|---|
 | 网店博客 | We serve as an authorized reseller and dealer for Hikvision solutions … Network switch, PoE switch models |  | https://www.cctvburada.com/en/blogs/markalar/hikvision-turkiye-distributoru-yetkili-bayi-ve-servisi | 2025-12-04 |
 | 网店类目 | 24 Port Switchler：Ruijie Reyee RG-ES224GC … 5,500.00TL |  | https://www.cctvburada.com/collections/24-port-switchler | 2026-10-27 |
+| 官网快照 | 官网在线；CCTV & Güvenlik Sistemleri – CCTV & Güvenlik Sistemleri | CCTV & Güvenlik Sistemleri | https://www.cctvburada.com/ | 2026-10-29 |
 
 草稿（英文，首触；Simon 发，Agent 不发）：
 
@@ -109,3 +110,6 @@ Do you import directly, or do you buy switches through a local distributor? Eith
 Simon
 Saga Telecom - sagatele.com
 ```
+
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence。
+

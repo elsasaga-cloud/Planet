@@ -29,7 +29,7 @@ s_mail: 38 msgs (out 23 / in 15), 2023-11-21 -> 2026-10-06
 p1: STC-228GP
 price_tier: 30%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -41,7 +41,7 @@ updated: 2026-10-29
 - **历史互动**：实质回复 1 次；推送 19 次（2024-02-12 → 2025-11-05）；最近一次客户回复：2024-10-16：发了一个报价2+2+8的
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：暂无；若对方自有标部门出现，才按 STC-28DGGPM / STI-110GE 对位 — ZA 非主攻 + 体量过大 + 零互动 → 维持最低频保活。已打开的主题（2/23 封有打开记录）：「Re: 8 Port Industrial PoE Switch [#RS9」(2024-10-17)、「48 Port PoE Managed Switch」(2024-12-11) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1；按 20% 分销档；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-11 $300（48 Port PoE Managed Switch）、2025-10-01 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Does Regal's Securi-Prod line source any OEM switches, and who owns that decision?
-- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
+- **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（之前不发） A 邮箱 → Jacques 首封前知悉：Elsa 仅 2025-02-10 单发过 1 封「Industrial PoE Switch」，之后没再碰他（第 74 批(m)）；一句话问自有标部门归口；停止向 nsc.support 发任何群发（第 75 批(am) 2026-10-25：英文信稿已写 `draft_en`；STC-228GP 20% $33.2（2025-10 报价待对照））（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
@@ -63,6 +63,7 @@ updated: 2026-10-29
 | 2024-10-17 | 来 | Josephine Davis（Sales Support） | Morning Simon Please find the Attached Quote（K8 document Quotation-25992001.pdf） | Regal 反向给 Saga 报价——证明 Saga 邮件被当成采购 | `f41d4564c84c5f93` |
 | 2025-02-10 | out | Elsa → enquiries@regalsecurity.co.za | Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2026-08-07 | 去 | Alan → Jacques du Plessis | 24 Port PoE Managed Switch… Price: 170USD/PC | A 邮箱直发 IT 总监，无回 | `54e2f9d2852f5f15` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Regal Security Home — Regal distributes world-class electronic security equipment – from CCTV, Alarm, Access Control, Gate & Garage automation, electric fencing, wireless network solutions and more. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：Regal 报价单 PDF 未入库（附件未存），不知其报的产品与价格——若能找回，是 ZA 市场 8 口工业 PoE 的竞品价格情报
 
@@ -174,10 +175,11 @@ updated: 2026-10-29
 - **KP**：Jacques Plessis（联系人（研究档）— 一页纸一次（Attn: Network Product Manager）：分销 20%（对价在售 PLANET GS-4210-8P2S → STC-228GP / STI-154GP）↔ 贴标 OEM 30%（Securi-Prod 网络线）双轨 B；2025-10 报价为开场 — 南非常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 约堡、ICASA / NRCS 不声称（第 120 批 官方登记核实 2026-10-29））enquiries@regalsecurity.co.za +27 87 802 3920〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Josephine（）sales@regalsecurity.co.za 〔（本地 Clients/ 表格，无公开 URL）〕
 - **调研后定级**：B（原自动 A）——体量大（30+ 分支、数百人）超出 Saga 常规可赢尺寸，且南非非主攻区、1 次回复后 18 次推送无回复；但其网络配件在采 Upeto/itoonertech 级别的中国小品牌，说明供应商门槛不高 → 不降 C，B 慢跟。
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 重启角度：对位其在售 Upeto/Planet MC 与 PoE 型号给'同规格更低价 + 中性包装'清单（STI-110GE / STC-28DGGPM，分销 20%），找产品经理而非采购总机。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + LinkedIn + 名录核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + LinkedIn + 名录核对） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -202,14 +204,20 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-228GP（30% 档）——已报价口型 2 SFP + 2 GE + 8 PoE = Saga STC-228GP（列表 $30.8）；主攻 Securi-Prod 自有标贴牌（OEM 30%），若按分销采购则 20%。
 - **邮件切入句（英文）**：Jacques, following the 2+2+8 PoE quote — would a Securi-Prod-branded version (neutral carton, your label, same Marvell/Realtek platforms as the PLANET and Genata units you list) be worth a 50-pc trial price?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
 
-- 尝试域名：regalsecurity.co.za
-  > https://regalsecurity.co.za/ http 403 ct=text/html; charset=utf-8
-  > https://www.regalsecurity.co.za/ http 403 ct=text/html; charset=utf-8
-  > http://regalsecurity.co.za/ http 403 ct=text/html; charset=utf-8
-- **提示**：抓取失败不代表公司不在；人工打开一次即可。
-- 数据文件：`data/saga_clients/site_snapshots/SB-042.json`
+- **首页**：https://regalsecurity.co.za/　语言：en-US　站点地图 URL 数：0
+- **标题**：Regal Security Home
+- **描述**：Regal distributes world-class electronic security equipment – from CCTV, Alarm, Access Control, Gate & Garage automation, electric fencing, wireless network solutions and more.
+- **首页栏目**：Welcome To The Digital Home Of Regal Security / Explore our featured product ranges / Safety In Numbers / Featured Products / Door Interlock PCB - 5Door / Door Interlock PCB / Paxton Net2 I/O - Board 2A PSU - Plastic Housing / ZKTeco SRB Secure Relay Board
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cctv 245、cable 146、switch 67、poe 62、wireless 57、hikvision 55、camera 46、nvr 34、sfp 21、tp-link 18、gigabit 16、fibre 15
+- **站内出现的品牌**：Hikvision, TP-Link, ZKTeco　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：IEEE802, CC721, CC740-5W, CC721-8W, CC741-8W, CC781-4W, CC722, CC742-5W, LK14-2, LK14-1, LK253-2, LK179-9
+- **站内公开电话**：+010 745 6489, +27 10 745 6489
+- **已抓子页**：[Network Switches](https://regalsecurity.co.za/343-network-switches)；[CCTV Products](https://regalsecurity.co.za/92-cctv-products)；[Networking Products](https://regalsecurity.co.za/269-networking-products)；[CCTV IP Cameras](https://regalsecurity.co.za/96-cctv-ip-cameras)；[CCTV HD Analogue Cameras](https://regalsecurity.co.za/301-cctv-hd-analogue-cameras)；[PoE](https://regalsecurity.co.za/344-poe)
+- 首页正文摘录：Login / Register  Login / Register Authentication Failed Email Password Show Sign in Register Forgot your password? Need help?   Products   Product Categories Access Control Access Accessories Access Brackets & Enclosures Access Door Controllers Access Door Locks Access Entrance Control Access Kits Access Reader Access Security & Inspection Access Software Access Take-On Readers Access Tokens Alarm Systems Alarm
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 7、PoE 62 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-042.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -270,7 +278,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-042/`；本节随档案重渲染刷新，实时看日志。
 
@@ -355,7 +363,6 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -23,7 +23,7 @@ s_mail: 33 msgs (out 30 / in 3), 2023-12-28 -> 2026-09-16
 p1: STI-280GE
 price_tier: 30%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -52,6 +52,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2023-12-28 | 来 | 自动回复 | 自动回复里给出代理人/同事邮箱 mark.dixon@mencom.com | 群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口 | `2281cb9524be76f4` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：mencom.com MX mencom-com.mail.protection.outlook.com.；A 104.26.11.50 / 104.26.10.50；NS noor.ns.cloudflare.com. / clint.ns.cloudflare.com. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -138,7 +139,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（mencom.com：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（mencom.com：HTTP 错误，2026-10-29，第 2 次）
 - **是谁**：美国 Mencom Corporation（工业连接器/线缆组件制造商，兼售自有标工业交换机与 MC，「标价高」；KP John Heath（Engineering Manager）、Jason Moore（Industrial Technician）、John J. Bisson；官网 http_error）；群发 19 次无回复。
 - **类型**：工业连接器制造商（美国，自有标工业 FS/MC）
 - **【用户表】表内兴趣/备注**
@@ -150,7 +151,8 @@ updated: 2026-10-29
 - **KP**：John Heath（Engineering Manager（选型人）= 收件人（第 102 批 官方登记核实 2026-10-28））john.heath@mencom.com 〔用户表〕
 - **KP**：John J. Bisson（Sales（growjo；Kompass 误列 Owner）= 抄送（第 102 批 官方登记核实 2026-10-28））john@mencom.com 〔用户表〕
 - **KP**：Bruce E. Mistarz（President / CEO / 创办人（1987；GA Domestic Profit Corporation 注册代理）= 拍板人（点名）（第 102 批 官方登记核实 2026-10-28）） 〔〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -172,7 +174,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-280GE（30% 档）——Mencom 标工业 FS/MC → 工业 8 GE + 2 SFP 管理 STI-280GE（$50.5 @30%）、5 GE STI-050GE（$18.5）、工业千兆 MC STI-110GE（$24.3）贴标作二供
 - **邮件切入句（英文）**：John, for the industrial Ethernet switches and media converters in the Mencom catalogue, we can be a second ODM source (DIN-rail 5-GE, 8-GE + 2 SFP managed, gigabit MCs; −40~75 °C, FCC/CE/RoHS; managed versions on a Marvell platform) in your packaging from small lots — which SKU would you want sampled first?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：mencom.com
   > https://mencom.com/ http 403 ct=text/html; charset=utf-8
@@ -238,7 +240,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-772/`；本节随档案重渲染刷新，实时看日志。
 

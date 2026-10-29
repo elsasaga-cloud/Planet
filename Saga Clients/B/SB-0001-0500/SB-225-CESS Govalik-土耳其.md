@@ -24,7 +24,7 @@ last_contact: unknown
 p1: none
 price_tier: 25%
 research: done
-site_snapshot: unreachable  # 2026-10-21
+site_snapshot: unreachable  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -53,6 +53,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 最主要问了收发器 / SAHIN OZTURK / sahin@shnrise.com | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：shnrise.com MX mail.shnrise.com.；A 45.84.189.66；NS ns32.guzelhosting.com. / ns31.guzelhosting.com. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -112,7 +113,8 @@ updated: 2026-10-29
   > 最主要问了收发器 / SAHIN OZTURK / sahin@shnrise.com
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Şahin Öztürk（ISAF 名片（域名 shnrise.com 与 CESS 关系未证实）= 收件人（第 106 批 官方登记核实 2026-10-28））sahin@shnrise.com（用户表） —〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 （无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · 官网未检索到 · 仅表内信息）
@@ -132,7 +134,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 待核型（无标准对应）（25% 档）——待核型：收发器（SFP）不在价格表；可搭 STI-110GE MC（$23.4）/ STC-228GP（$30.8）
 - **邮件切入句（英文）**：Şahin Bey, ISAF'ta sorduğunuz SFP modüller için tip (1G/10G, SM/MM, mesafe) ve adet bilgisini alabilir miyim? Fiyatla birlikte 2 SFP + 8 port PoE switch (30,8 USD EXW) seçeneğini de ekleyeyim.
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名不可达（DNS/连接失败））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：域名不可达（DNS/连接失败））
 
 - 尝试域名：shnrise.com
   > https://shnrise.com/ conn: ('Connection aborted.', HTTPException('got more than 100 headers'))
@@ -151,7 +153,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-225/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |

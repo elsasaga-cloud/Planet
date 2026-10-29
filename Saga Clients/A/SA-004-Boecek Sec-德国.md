@@ -28,7 +28,7 @@ s_mail: 15 msgs (out 15 / in 0), 2025-04-14 -> 2026-09-23
 p1: STI-144GP
 price_tier: 25%
 research: done
-site_snapshot: parked_or_empty  # 2026-10-21
+site_snapshot: parked_or_empty  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -62,6 +62,7 @@ updated: 2026-10-29
 | 2026-08-18 | 去 | A 箱（Alan） | 24 Port PoE Managed Switch｜稿内价 $170 | 去信正文含价（邮箱索引） | `3711c54c803677ad` |
 | 2026-09-23 | 去 | Saga（Alan） | 「Managed PoE Switches」——最后一封群发，仍是 boecek@ 公用地址 | 同一地址打了 17 个月；换人（找具名采购）比再发更有用 | `7c09d3b669698238` |
 | 2026-09-23 | 去 | A 箱（Alan） | Managed PoE Switches | 最近一封去信（邮箱索引；去信共 15 封） | `7c09d3b669698238` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：boecek.de MX smtpin.rzone.de.；A 217.160.0.167；NS docks02.rzone.de. / shades02.rzone.de. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表「样品购买」无 PI；邮件 0 打开
 
@@ -129,7 +130,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：未核实（公开搜索未检索到 boecek.de 相关页面）
+- **状态：已调研（2026-10-21）**　网站状态：官网停放（boecek.de = STRATO「Domain reserved」占位页，2026-10-21 / 10-29 两次；域名与邮箱 MX 仍在）
 - **是谁**：德国安防客户（用户表：买了 5 电口样品，需要一起买工业电源，问了 2 款 2.5G 价格，对机架式工业管理交换机有兴趣，需要支持…）。网页搜索未找到该域名的公开页面，公司规模/类型待用户侧确认。
 - **类型**：安防集成/经销（据用户备注推断）
 - **规模**：未知
@@ -139,7 +140,8 @@ updated: 2026-10-29
 - **【核查】boecek.de 不可访问；无公开页面**
   > Failed to fetch page (HTTP 500)
   > 来源：https://boecek.de/（抓取 2026-10-21）
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 A 级维持：有样品购买 + 具体型号问价（用户一手证据）；网页无法核实不扣分，但「最大未知」= 公司实体与规模。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1（受限：无公开网页））
@@ -164,7 +166,7 @@ A 级维持：有样品购买 + 具体型号问价（用户一手证据）；网
 - **Saga 对位结论**：P1 STI-144GP（25% 档）——已买 5 电口工业样品 → 复购口径先给 4+1 口工业 PoE（STI-144GP）与 8+2 口工业管理型（STI-288DGGPM，支持 CLI/Web）；2.5G 需求用 STC-424XGGPM-280W（2.5G 下行待核）仅作备选
 - **邮件切入句（英文）**：Since you took the 5-port industrial samples with the DIN power supply, the natural next step is the 8-port managed DIN unit with CLI and the 4+1 PoE version, both quoted EXW so the freight and import-duty side is transparent.
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：停放/空站（疑停业或仅占位））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：停放/空站（疑停业或仅占位））
 
 - 尝试域名：boecek.de
   > https://boecek.de/ conn: HTTPSConnectionPool(host='boecek.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL:
@@ -214,7 +216,7 @@ A 级维持：有样品购买 + 具体型号问价（用户一手证据）；网
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-004/`；本节随档案重渲染刷新，实时看日志。
 

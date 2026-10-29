@@ -1,6 +1,6 @@
 # XA-E009 · Colfax Direct · 美国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 Edgecore `A-054`（原评级 A，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R01 2026-10-27）→ 下一动作 第二封
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 Edgecore `A-054`（原评级 A，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 第二封
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱
@@ -90,13 +90,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W1-R01，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XA** — 已在卖 Edgecore 白牌 DC 交换机的美国网店，决策链短，CENTEC 线天然对口；24 口 PoE 那封根本不对路，换 CENTEC 角度再发
-- 活着吗：网店活（colfaxdirect.com，按品牌浏览含 Edgecore/Mellanox/Chelsio），2026-10-27
+- 活着吗：在线（colfaxdirect.com，快照 2026-10-29）：Colfax Direct | Infiniband & Ethernet - Cards, Switches & Cables - Colfax Direct
 - 一句话：Colfax International（1987 年起的 HPC/AI 服务器厂商，Sunnyvale）的电商部门（2008 起），专卖 HPC/DC 网卡、交换机、线缆、光模块，在售 Edgecore 与 Mellanox/NVIDIA 交换机。10-19 发 sales@ 未回。
 - 是什么人：HPC/DC 组件网店（厂商集团下属，自有采购）；规模：母公司 Colfax International 私营；网店团队小
-- 在卖/在用：Edgecore、Mellanox/NVIDIA、Chelsio、Netronome、AurCore
+- 在卖/在用：Edgecore、Mellanox/NVIDIA、Chelsio、Netronome、AurCore、Netgear
 - 对口哪条线：CENTEC（网店上架一条低价 10/25/100G 线） — 已经在网店卖 Edgecore 白牌交换机，加一条 Centec 系低价线阻力最小；采购决策在 Colfax 内部，链短
 - 找得到人吗：sales@colfaxdirect.com（官网公开，10-19 已发未回）；KP：Gautam Shah（CEO, Colfax International，官方新闻稿引言（2010）+ D&B）
 - 已触达：S 箱 2026-10-19 发 sales@ → 已发未回
@@ -110,6 +110,7 @@
 | LinkedIn | Colfax Direct provides adapters, switches, cables, SSDs … from Broadcom, Chelsio, Edgecore, Intel, Mellanox… |  | https://www.linkedin.com/company/colfax | 2026-10-27 |
 | Edgecore 官网北美 On-Line 名录 | COLFAX DIRECT 750 Palomar Avenue Sunnyvale |  | https://www.edge-core.com/where-to-buy/northamerica-online/ | 2024-12-19 |
 | 网店条款 | All deliveries are F.O.B. Sunnyvale（自营库存） |  | https://www.colfaxdirect.com/store/pc/viewcontent.asp?idpage=5 | 2026-10-27 |
+| 官网快照 | 官网在线；Colfax Direct ｜ Infiniband & Ethernet - Cards, Switches & Cables - Colfax Direct | Shop Colfax Direct for Adapter Cards, SmartNICs, Switches, Interconnects, Cables, Transceivers, Software and more. | https://www.colfaxdirect.com/store/pc/home.asp | 2026-10-29 |
 
 草稿（英文，第二封；Simon 发，Agent 不发）：
 
@@ -128,4 +129,5 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：不要提 Mellanox 对比价；只给自己的价。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+不要提 Mellanox 对比价；只给自己的价。

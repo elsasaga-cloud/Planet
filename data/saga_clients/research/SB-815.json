@@ -2,7 +2,7 @@
  "code": "SB-815",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（lendoux.com：停放/空站（疑停业或仅占位），2026-10-29，第 2 次）",
+ "website_status": "在线（lendoux.com「Lendoux Specialized Store」；快照 parked 判定为误判，2026-10-29）",
  "summary": "加拿大 Lendoux Specialized Store（数据中心设备、电信网络、安防系统与工业仪表的多品牌专业商店；表内「也有光路的工业 FS」；KP Rasel Haddadi（CEO，未显示邮箱）；快照 parked_or_empty）；表内未跟进。",
  "type": "多品牌 IT/工业设备商店（加拿大，工业 FS 现光路）",
  "size": "",
@@ -120,6 +120,14 @@
     "quote": "也有光路的工业FS",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 复核 LT-R10",
+    "quote": "DNS 2026-10-29 16:2xZ：lendoux.com MX mail.lendoux.com.；A 51.79.87.52；NS ns2.gcdn.services. / ns1.gcorelabs.net.",
+    "why": "长期客户群复核证据（非邮件事实，不计真回）",
+    "url": ""
    }
   ],
   "proof_gaps": [],
@@ -136,5 +144,16 @@
    "2026-10-29"
   ],
   "batch": "LT-T03"
- }
+ },
+ "lt_review": {
+  "status": "留 B",
+  "batch": "LT-R10",
+  "prio": null,
+  "queued": "LT-R10",
+  "verdict_date": "2026-10-29",
+  "note": "快照判 parked_or_empty 为误判：首页标题「Lendoux Specialized Store」+ 完整描述（数据中心 / 电信 / 安防 / 工业仪表多品牌商店）；DNS 正常（MX mail.lendoux.com / A 51.79.87.52）→ 在营，留 B",
+  "why": ""
+ },
+ "override_history": [],
+ "website_status_prev": "快照失败（lendoux.com：停放/空站（疑停业或仅占位），2026-10-29，第 2 次）"
 }

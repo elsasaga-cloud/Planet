@@ -1,6 +1,6 @@
 # XB-C1191 · Ace Vega Technologies · 阿联酋
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:20503 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T01 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:20503 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XB** — 对口但不在主攻区（美加/欧/土以外）→ XB
@@ -73,10 +73,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，LT-T01，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — 桌面复核（来源库核对 + 研究卡）：结构化布线/ELV集成商；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））
-- 活着吗：域名 acevegatechnologies.com MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓
+- 活着吗：在线（acevegatechnologies.com，快照 2026-10-29）：ELV company Dubai, UAE | ELV Solutions & Security system Dubai
 - 一句话：Ace Vega Technologies（阿联酋）：结构化布线/ELV集成商；公司全称=Ace Vega Technologies；公司类型=结构化布线/ELV集成商；总部=Office 5, 2nd Floor, Bin Shebib Building, Um Ramool, Dubai, ；客户优先级=🟡 B类（布线+CCTV集成，PoE交换机配套）
 - 是什么人：结构化布线/ELV集成商
 - 对口哪条线：STC 项目集成款（25% 档：STC-2216GP / STC-228GP）
@@ -90,5 +90,7 @@
 |---|---|---|---|---|
 | 来源库官网/名录核对 | 结构化布线/ELV集成商；公司全称=Ace Vega Technologies；公司类型=结构化布线/ELV集成商；总部=Office 5, 2nd Floor, Bin Shebib Building, Um Ramool, Dubai, ；客户优先级=🟡 B类（布线+CCTV集成，PoE交换机配套） |  | https://acevegatechnologies.com | 2026-09 |
 | 长期群复核 LT-R07 | 桌面复核（来源库核对 + 研究卡）：结构化布线/ELV集成商；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%）） |  |  | 2026-10-29 |
+| 官网快照 | 官网在线；ELV company Dubai, UAE ｜ ELV Solutions & Security system Dubai | Ace Vega Technologies stands as one of the best ELV companies in Dubai, UAE providing high-quality ELV systems to ensure security and safety | https://acevegatechnologies.com/ | 2026-10-29 |
 
-- 备注：LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。
+LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。

@@ -1,6 +1,6 @@
 # XC-M151 · Power Mation · 美国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 工业自动化分销 20%：Power/mation（St. Paul MN 1310 Energy Lane + Waukesha WI；1961 起；≈159 人；CEO Jim Landes）名录部分坐实（MN SOS 号待补）；HMS / Red Lion / N-Tron 渠道 → STI 工业对位；主区 US；info@powermation.com） ｜ 来源 mikrotik-info `C-086`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-03 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 工业自动化分销 20%：Power/mation（St. Paul MN 1310 Energy Lane + Waukesha WI；1961 起；≈159 人；CEO Jim Landes）名录部分坐实（MN SOS 号待补）；HMS / Red Lion / N-Tron 渠道 → STI 工业对位；主区 US；info@powermation.com） ｜ 来源 mikrotik-info `C-086`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 >
 > **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：○ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 工业自动化分销 20%：Power/mation（St. Paul MN 1310 Energy Lane + Waukesha WI；1961 起；≈159 人；CEO Jim Landes）名录部分坐实（MN SOS 号待补）；HMS / Red Lion / N-Tron 渠道 → STI 工业对位；主区 US；info@powermation.com
 
@@ -47,10 +47,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，X1-03，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XC** — X1-03 补路径：○ 工业自动化分销 20%：Power/mation（St. Paul MN 1310 Energy Lane + Waukesha WI；1961 起；≈159 人；CEO Jim Landes）名录部分坐实（MN S（等级不动，池位见 sieve_x）
-- 活着吗：2026-10-29 检索命中官网 / 名录（在线）
+- 活着吗：在线（powermation.com，快照 2026-10-29）：Innovative Industrial Automation Distributor | Power/mation
 - 一句话：Power/mation：工业自动化分销，1961 起，≈159 人；CEO Jim Landes（allbiz 名录）
 - 是什么人：分销（HMS/N-Tron·Red Lion 渠道）；Power/mation
 - 对口哪条线：Saga STI 工业 / SmartByte 商用 PoE — ○ 工业自动化分销 20%：Power/mation（St. Paul MN 1310 Energy Lane + Wa
@@ -64,5 +64,7 @@
 |---|---|---|---|---|
 | 官网 / 名录 | thepartsdirect 分销名录：Power/mation · 1310 Energy Ln St. Paul · info@powermation.com · Waukesha 分部 |  | https://thepartsdirect.com/powermation/products | 2026-10-29 |
 | 官网 / 名录 | AeroLeads：Power/Mation · 159 人 · 1961 起 |  | https://aeroleads.com/c/powermation | 2026-10-29 |
+| 官网快照 | 官网在线；Innovative Industrial Automation Distributor ｜ Power/mation | Power/mation is an industrial automation distributor and solutions provider with multiple locations in the Midwest including MN, WI, IA, IL, ND, and SD. | https://www.powermation.com/ | 2026-10-29 |
 
-- 备注：Power/mation；1310 Energy Lane, St. Paul, MN 55108（+ Waukesha WI）；+1 651 605 3300
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。
+Power/mation；1310 Energy Lane, St. Paul, MN 55108（+ Waukesha WI）；+1 651 605 3300

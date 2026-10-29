@@ -23,7 +23,7 @@ s_mail: 31 msgs (out 31 / in 0), 2024-07-04 -> 2026-09-10
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
-site_snapshot: unreachable  # 2026-10-21
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -35,7 +35,7 @@ updated: 2026-10-29
 - **历史互动**：推送 21 次（2024-05-13 → 2025-10-22）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — Ness 标 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、工业 8 PoE + 2 SFP STI-288GP（$62.2）贴标作二供。已打开的主题（3/31 封有打开记录）：「Industrial PoE Switch」(2025-08-15)、「OEM Core Switching Solution」(2026-01-13)、「10G Enterprise SFP Switch」(2026-05-06) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Saga Feature List_7.5.x_L2+(2026-06-26)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-30 $65（10G media converter）；群发里他已看到的价（续）：2026-07-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-16 $300（48 Port PoE Managed Switch）、2025-10-03 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Mary, for the PoE switches shipped with Ness CCTV kits, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; DIN-rail 8-PoE for Utepo positions) in Ness packaging from small lots, CE/RoHS; RCM by your side — which PoE SKU would you want sampled first? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
-- **最大未知**：官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
+- **最大未知**：年走量与现供应商
 - **下一步**：2026-11 A 邮箱 → grmace@ness.com.au 短信一问（email_hook）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
@@ -54,6 +54,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-10 | 去 | A/S 群发 | Industrial PoE Switch、Managed Optical Bypass Switch | 31 封 / 3 次打开 / 0 回｜首封 2024-07-04 → 末封 2026-09-10（31 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 主要是CCTV 少量商业POE 有Utepo的 | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Alarm, Security, Camera, Intercom, Monitoring, Supplier - Ness Corporation — Trusted family-run Ness systems, helping tradies secure homes, businesses & industries with burglar alarms, security cameras, monitoring and video intercoms since 1972 | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -126,10 +127,10 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（ness.com.au：域名不可达（DNS/连接失败），2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：在线（ness.com.au，快照 2026-10-29）：Alarm, Security, Camera, Intercom, Monitoring, Supplier - Ness Corporation
 - **是谁**：澳大利亚 Ness Corporation（澳洲安防产品制造/分销商：报警主机、CCTV；表内「主要是 CCTV 少量商业 PoE 有 Utepo 的」「可以多跟进一下」；KP Gerard Mace（Project Manager）、Mary Cartisano（Supply Manager）；官网 unreachable）；群发 21 次无回复。
 - **类型**：安防产品制造/分销商（澳大利亚，PoE 现 Utepo）
-- **在卖/在用品牌**：Utepo
+- **在卖/在用品牌**：Utepo, Hikvision, TP-Link, Bosch, Ubiquiti
 - **【用户表】表内兴趣/备注**
   > 主要是CCTV 少量商业POE 有Utepo的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
@@ -138,10 +139,11 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Mary Cartisano（）sales@ness.com.au 〔用户表〕
 - **KP**：Gerard Mace（）grmace@ness.com.au 〔用户表〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/brands_seen/site_contacts/deep/facts。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -160,14 +162,23 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——Ness 标 PoE（现 Utepo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、工业 8 PoE + 2 SFP STI-288GP（$62.2）贴标作二供
 - **邮件切入句（英文）**：Mary, for the PoE switches shipped with Ness CCTV kits, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; DIN-rail 8-PoE for Utepo positions) in Ness packaging from small lots, CE/RoHS; RCM by your side — which PoE SKU would you want sampled first?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名不可达（DNS/连接失败））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
 
-- 尝试域名：ness.com.au
-  > https://ness.com.au/ conn: HTTPSConnectionPool(host='ness.com.au', port=443): Max retries exceeded with url: / (Caused by NewConnectionError("HTTPS
-  > https://www.ness.com.au/ conn: HTTPSConnectionPool(host='www.ness.com.au', port=443): Max retries exceeded with url: / (Caused by NewConnectionError("H
-  > http://ness.com.au/ conn: HTTPConnectionPool(host='ness.com.au', port=80): Max retries exceeded with url: / (Caused by NewConnectionError("HTTPCon
-- **提示**：域名不可达 → 表内域名可能拼错/过期；跟进前核对邮箱域名。
-- 数据文件：`data/saga_clients/site_snapshots/SB-546.json`
+- **首页**：https://ness.com.au/　语言：en　站点地图 URL 数：1915
+- **标题**：Alarm, Security, Camera, Intercom, Monitoring, Supplier - Ness Corporation
+- **描述**：Trusted family-run Ness systems, helping tradies secure homes, businesses & industries with burglar alarms, security cameras, monitoring and video intercoms since 1972
+- **首页栏目**：Shortcuts to Popular Categories / Featured Products / Our Brands / Security / HIKVISION / TP-LINK / CCTV / Hardwired
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：hikvision 204、camera 180、cctv 66、switch 62、wireless 46、nvr 41、tp-link 37、poe 36、automation 29、access control 29、gigabit 17、surveillance 11
+- **站内出现的品牌**：Hikvision, TP-Link, Bosch, Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：DS-2CD2367G3-LIS2UY, DS-2CD2387G3-LIS2UY, MIC-7522-Z30W, NDE-3000, NDV-3000, NDE-3502-AL, NPD-6001B, DS-2CD2367G2P-LSU, DS-2CD2386G2-ISU, DS-7608NI-M2, DS-2CD63C5G1-IVS, DS-UPS3000-AU
+- **站内公开邮箱**：sales@ness.com.au
+- **站内公开电话**：+61 2 8825 9222
+- **社媒**：https://twitter.com/NESSCorporation, https://www.facebook.com/NessCorporationAus/, https://www.youtube.com/user/nesscorporation
+- **产品类页面**：https://ness.com.au/126-212b-tp-link-es206gp-6-port-gigabit-poe-switch-65w；https://ness.com.au/104-657k-hikvision-ds-3e1526p-ei-v2-24-port-smart-gigabit-poe-switch；https://ness.com.au/101-504-poe；https://ness.com.au/routers-switches；https://ness.com.au/wireless-switches；https://ness.com.au/hardwired-switches
+- **已抓子页**：[Alarm, Security, Camera, Intercom, Monitoring, Supplier - CC](https://ness.com.au/cctv-security-cameras)；[Alarm, Security, Camera, Intercom, Monitoring, Supplier - QA](https://ness.com.au/qamsong-cctv-cameras-nvrs)；[Alarm, Security, Camera, Intercom, Monitoring, Supplier - Ro](https://ness.com.au/routers-switches)；[Alarm, Security, Camera, Intercom, Monitoring, Supplier - Re](https://ness.com.au/wireless-switches)；[Alarm, Security, Camera, Intercom, Monitoring, Supplier - Ne](https://ness.com.au/105)；[Alarm, Security, Camera, Intercom, Monitoring, Supplier - CC](https://ness.com.au/cctv-security-cameras)
+- 首页正文摘录：Welcome Trade Login Trade Login Wishlist (0) Close Home Products Security Control Panels Tecom Hikvision Security Keypads/Touchscreen Sensors/Detectors Kits View All CCTV QAMSONG HIKVISION DIGITAL WATCHDOG TP-LINK ART OF LOGIC BOSCH View All Intercoms 2 Wire Intercoms Analogue Intercoms & Doorbells Door Stations IP Room Stations IP Intercom Accessories Intercom Kits ACCESS CONTROL Cards-Fobs Access Controllers Biomet
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 10、PoE 36 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-546.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -228,7 +239,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-546/`；本节随档案重渲染刷新，实时看日志。
 
@@ -312,7 +323,6 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

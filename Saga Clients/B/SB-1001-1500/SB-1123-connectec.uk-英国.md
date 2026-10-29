@@ -25,7 +25,7 @@ last_contact: unknown
 p1: STI-488DGGPM
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -54,6 +54,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-08-25 | 去 | Elsa 群发（BCC；To shop@idelectro.ru，RU 元器件/工业分销+UK/GR/TR 个别 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 connectec.uk, sales@connectec.uk）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Trade Security, Networking, AV, TV & Satellite Supplier - Connectec.uk — Get trade prices on 1000's of Security, Networking, AV, TV & Satellite products. Buy online with free next day delivery on orders over £150 or visit our trade counter. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -113,7 +114,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（connectec.uk；并档 Planet 渠道档案 PB-042）
 - **是谁**：北威尔士 Wrexham 的安防/网络/电气贸易分销商，PLANET 授权分销，给全英安装商供货（贸易账户、批量折扣、次日达、贸易柜台）。类型：分销商/贸易柜台（面向安装商的消防、安防、网络与电气产品全国分销；展厅 + 贸易柜台；Top Brands：Hikvision / HiLook / Pyronix / Tenda / Planet）。信号：官网品牌页自述「As an authorised Planet distributor Connectec stock a wide range of Planet products」；首页「Shop for Planet Business networking and communication products」；在售 IGS-5225-8P4S / IGS-801T / WGS-5225-8UP2SV / GS-4210-8HP2S；Mikrotik 仓库 C-107 标「分销（PLANET 授权）」。Planet 渠道档案 PB-042 评级 B（需求：PLANET 授权分销自述 + 工业/商用 PoE 多款在售 + 安装商渠道；触达：sales@connectec.uk 官网公开（contact / about / trade 多页），无具名；体量中小（Wrexham 单址 + 网店），可赢；区域英国（一线）；Mikrotik C-107 为「B下放·无邮箱」，本仓补到邮箱 → B）。并档说明：Saga 表内本条 SB-1123（英国）自动评 C（原因：；Saga 群发已推送 0 次无回复）。
-- **在卖/在用品牌**：PLANET, MikroTik, Hikvision, Tenda
+- **在卖/在用品牌**：PLANET, MikroTik, Hikvision, Tenda, Ruijie, H3C
 - **【公司自述】PLANET 授权分销自述 + 安装商渠道**
   > Connectec are distributors of Planet networking switches, fibre optic devices, wireless equipment and IP network devices for home, business and industrial use … As an authorised Planet distributor Connectec stock a wide range of Planet products with many available for free next day delivery. We also offer trade accounts for professional installers with bulk and trade discounts available on many Planet networking products.
   > 来源：https://connectec.uk/brands/planet（抓取 2026-10-19）
@@ -135,9 +136,10 @@ updated: 2026-10-29
 - **KP**：Paul Jarvis（Managing Director（LinkedIn / Business Wales；非登记董事）= 收件人（sales@ 主送 + 点名）（第 100 批 官方登记核实 2026-10-28））sales@connectec.uk 〔〕
 - **KP**：Tao Wei（Director / PSC（Companies House 10933159，2025-11-25 起；母公司 Dynamic Technology Solutions Ltd 100%）= 拍板人（华人姓名 → 可选中文直联，Simon 定，默认英文）（第 100 批 官方登记核实 2026-10-28）） 〔〕
 - **调研后定级**：B（原自动 C）——Planet 渠道档案 PB-042 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-042，W 批次调研 2026-10-19/20））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-042，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -162,6 +164,23 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-488DGGPM（20% 档）——对位其在售并标「recommended for security applications · 3 year guarantee」的 IGS-5225-8P4S（工业 8 PoE + 4 SFP）；分销走量 → 20%（沿用 Planet 档案 PB-042）；需求：
 - **邮件切入句（英文）**：PLANET is the one networking brand on your trade counter; a second-source industrial PoE+ switch with the same 3-year cover gives your installers a lower price point on camera jobs. On your installers' camera jobs, is the 8-port industrial PoE+ (IGS-5225 class) what they take most, or the rack-mount 8/16/24-port units?
 
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://connectec.uk/　语言：en　站点地图 URL 数：6367
+- **标题**：Trade Security, Networking, AV, TV & Satellite Supplier - Connectec.uk
+- **描述**：Get trade prices on 1000's of Security, Networking, AV, TV & Satellite products. Buy online with free next day delivery on orders over £150 or visit our trade counter.
+- **首页栏目**：Nationwide Distributor of Fire, Security, Networking & Electrical / Authorised Hikvision Wholesaler / Ruijie Networking Solutions / What's New VIEW MORE / Top Sellers / Q & A / Blog, News and Social Media / Connected Technology Made Easy
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 43、hikvision 43、cctv 33、cable 16、poe 15、wireless 12、switch 9、installer 8、planet 6、fibre 5、fiber 4、gigabit 4
+- **站内出现的品牌**：Ruijie, Hikvision, H3C　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：LL137YP, GB277433186, RG-RAP62, AX3000, DS-2CD2343G2-IU, DS-2CD2E43G2-U, DS-2CD2143G2-IS, DS-2CD23166G3-IS2UY, DS-2CD23126G3-IS2UY, DS-2CD2346G3-IZ2UY, DS-2CD2546G3-IZS2UY, DS-2CD2T46G3-2IZY
+- **站内公开邮箱**：sales@connectec.uk
+- **社媒**：https://twitter.com/ConnectecUK, https://www.facebook.com/connectecltd/, https://www.linkedin.com/company/connectec-limited/, https://www.youtube.com/channel/UCVvKx0BJhcxrhTvqXb77GFg
+- **产品类页面**：https://connectec.uk/networking/network-devices/network-switches/industrial-switches；https://connectec.uk/networking/network-devices/network-switches/ruijie-rg-es209mg-p-smart-8-port-poe-switch-1…；https://connectec.uk/networking/network-devices/network-switches/desktop-switches/hikvision-ds-3e0105p-e-5-por…；https://connectec.uk/networking/network-devices/network-switches/desktop-switches/hilook-ns-0106p-35-4-port-po…；https://connectec.uk/networking/network-devices/network-switches/desktop-switches/hilook-ns-0310p-60-8-port-po…；https://connectec.uk/networking/network-devices/network-switches/desktop-switches/hikvision-ds-3e0520hp-e-20-p…
+- **已抓子页**：[Product from TREND Networks](https://connectec.uk/brands/trend-networks/products)；[Product from EZVIZ](https://connectec.uk/brands/ezviz/products)；[Product from Ruijie](https://connectec.uk/brands/ruijie/products)；[Hikvision IP CCTV Cameras](https://connectec.uk/security/cctv/cctv-cameras/hikvision-ip-cctv-cameras)；[Age Restricted Products](https://connectec.uk/age-restricted-products)
+- 首页正文摘录：GBP EUR Euro GBP Pound Sterling PLN złoty EX VAT INC VAT Tax based on shipping to United Kingdom , Change? Company Logo Basket 0 Search SUBMIT MENU NEW CLEARANCE SECURITY Loading NETWORKING Loading AV, TV & SATELLITE Loading ELECTRICAL Loading COMPUTING Loading INSTALLATION Loading NEW CLEARANCE Clearance End Of Life Bargains Refurbished Returned and Ex-demo REWARDS INFO Contact Call, Email or Chat with us About Find
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 7、交换机 9 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1123.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
+
 ## 在卖/在用品牌 → Saga 对位
 
 （备注未提及具体品牌）
@@ -172,13 +191,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
-- **最近变化摘要**：2026-10-29 home：内容变化：+10 −10 行
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 home：内容变化：+13 −13 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1123/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://connectec.uk/) | html | HTTP 200 | 2026-10-29T08:41:09Z | 5124 字符；首行：Trade Security, Networking, AV, TV & Satellite Supplier - Connectec.uk |
+| [home](https://connectec.uk/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 5138 字符；首行：Trade Security, Networking, AV, TV & Satellite Supplier - Connectec.uk |
 
 ## 联系方式（已有 · 原值照录）
 

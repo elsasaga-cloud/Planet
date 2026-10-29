@@ -28,7 +28,7 @@ s_mail: 23 msgs (out 23 / in 0), 2024-06-19 -> 2026-09-25
 p1: STI-144GP
 price_tier: 20%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -40,7 +40,7 @@ updated: 2026-10-29
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 36 次（2022-09-13 → 2025-10-21）；最近一次客户回复：2024-06-19：email发了2光8BT信息
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 需求是 LO-IGS-M8GT2GF-HPOE 对位（8 GE PoE + 2 SFP 工业）→ STI-288DGGPM 直接对位；锚价：STI-288DGGPM $137.5（PDF 上限；30% 档 151.6 超）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-19 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-21 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Your LO-IGS-4GT2GF-POE and LO-IGS-8GT2GF-POE sit exactly on the 4+2 and 8+2 industrial PoE footprints we build, so I am quoting both in LightOptics packing with the managed versions on a Marvell platform as the differentiator against your current source. Which footprint moves more units for you, 4+2 or 8+2, so I quote that one first? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity).
-- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
+- **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） A 邮箱 → sales@fibermarkt.com（无具名 KP） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(p) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
@@ -63,6 +63,7 @@ updated: 2026-10-29
 | 2024-11-19 | 去 | S 箱（Simon）报价 | 48 Port PoE Managed Switch｜ $300（原句：*Price is very competitive, 300usd/pc*） | S 邮箱报价史（规则 ㉕ ① 自报价优先） | `e5f1f002a33fa0f0` |
 | 2026-08-21 | 去 | A 箱（Alan） | 24 Port PoE Managed Switch｜稿内价 $170 | 去信正文含价（邮箱索引） | `ffc710b07244cdbd` |
 | 2026-09-25 | 去 | A 箱（Alan） | Managed PoE Switches | 最近一封去信（邮箱索引；去信共 23 封） | `c12866c8e3aa01f1` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Urządzenia światłowodowe - Postaw na Fibermarkt — Niezawodna i optymalna kosztowo optyka - moduły SFP, SFP+, XFP, QSFP+ oraz systemy CWDM. Ofertę uzupełniają wysokiej jakości patchcordy i konwertery mediów. Skontaktuj się z nami! Wysyłka w 24h. Polskie oprogramowanie. Bezpłatne doradztwo. Moduły opt | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：「2 次实质回复」无原文
 
@@ -145,7 +146,7 @@ updated: 2026-10-29
 - **是谁**：克拉科夫的光通信设备分销商/电商，自有品牌 LightOptics：兼容光模块（可编程兼容 60+ 厂商）、DAC、MC、xWDM、工业/接入 PoE 交换机（如 LO-IGS-M8GT2GF-HPOE 8 PoE + 2 SFP）；客户为 ISP 与集成商；10+ 年经验，本地仓库与售后。用户表：A 优质名单(PL)，2 次实质回复，36 次跟进，WhatsApp 已加；在售磊通(Leitong)与 GXCOM 产品。
 - **类型**：分销商/电商（自有品牌贴牌）
 - **规模**：未见人数（中小）
-- **在卖/在用品牌**：LightOptics, 磊通, GXCOM
+- **在卖/在用品牌**：LightOptics, 磊通, GXCOM, Aruba, MikroTik, Cisco
 - **【第三方（inwestrut）】自有品牌含 PoE 网管交换机 + 联系方式**
   > Model LO-IGS-M8GT2GF-HPOE – z obsługą PoE, PoE+ oraz PoE++ wyposażony w 8 portów 10/100/1000Mbps PoE i 2 porty 1000Mbps SFP … Fibermarkt Sp. z o.o. Adres: Śnieżna 18, 30-822 Kraków … Telefon: +48 533 533 575
   > 来源：https://inwestrut.pl/fibermarkt-sp-z-o-o/（抓取 2026-10-21）
@@ -159,10 +160,11 @@ updated: 2026-10-29
   > Przemysłowy przełącznik LightOptics - LO-IGS-8GT2GF-POE … 8*10/100/1000Base-T RJ45, 2*1000M fiber ports (SFP) 1 406,00 PLN netto
   > 来源：https://profisystems.pl/pl/producer/lightoptics,103922（抓取 2026-10-21）
 - **KP**：Krzysztof Podgórski（Prezes Zarządu（2026-02-17 起；此前 Magdalena Podgórska 任 Prezes，现为 Prokurent）；股东 Grzegorz Szydełko + GEMINVE（2020-08 起）；2024 亏 −705k、2025 亏 −432k PLN（第 84 批 官方登记核实 2026-10-27））sales@fibermarkt.com +48 533 533 575〔https://inwestrut.pl/fibermarkt-sp-z-o-o/〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 A 确认（欧洲自有品牌 + 2 次实质回复 + 在售中国品牌）：对位 LO-IGS-M8GT2GF-HPOE ≈ STI-288DGGPM，MC = STI-110GE；贴牌 30%。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1）
+### 加厚挖掘（2026-10-21 · 深挖 v1 + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -189,14 +191,22 @@ A 确认（欧洲自有品牌 + 2 次实质回复 + 在售中国品牌）：对�
 - **Saga 对位结论**：P1 STI-144GP（20% 档）——LO-IGS-4GT2GF-POE（4 GE PoE + 2 SFP，经销 888 PLN ≈ $220）对位 STI-144GP（EXW $35 @25% 口径，需按 2 SFP 版核价）；LO-IGS-8GT2GF-POE 对位 STI-288DGGPM；分销 20% 档
 - **邮件切入句（英文）**：Your LO-IGS-4GT2GF-POE and LO-IGS-8GT2GF-POE sit exactly on the 4+2 and 8+2 industrial PoE footprints we build, so I am quoting both in LightOptics packing with the managed versions on a Marvell platform as the differentiator against your current source.
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
 
-- 尝试域名：lightoptics.pl, fibermarkt.com
-  > https://lightoptics.pl/ http 403 ct=text/html; charset=utf-8
-  > https://www.lightoptics.pl/ http 403 ct=text/html; charset=utf-8
-  > http://lightoptics.pl/ http 403 ct=text/html; charset=utf-8
-- **提示**：抓取失败不代表公司不在；人工打开一次即可。
-- 数据文件：`data/saga_clients/site_snapshots/SA-041.json`
+- **首页**：https://fibermarkt.com/pl　语言：pl　站点地图 URL 数：0
+- **标题**：Urządzenia światłowodowe - Postaw na Fibermarkt
+- **描述**：Niezawodna i optymalna kosztowo optyka - moduły SFP, SFP+, XFP, QSFP+ oraz systemy CWDM. Ofertę uzupełniają wysokiej jakości patchcordy i konwertery mediów. Skontaktuj się z nami! Wysyłka w 24h. Polskie oprogramowanie. Bezpłatne doradztwo. Moduły optyczne.
+- **首页栏目**：Światłowodowe urządzenia sieciowe koniec problemów z kompatybilnością / INDYWIDUALNE OPROGRAMOWANIE / TESTY POD KĄTEM PARAMETRÓW / POLSKI SERWIS / SZEROKA KOMPATYBILNOŚĆ / DEDYKOWANY PROGRAMATOR / KOMPATYBILNE Z / AKCESORIA
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：sfp 173、10g 64、poe 46、fiber 46、switch 24、ethernet 11、wifi 9、cisco 4、gigabit 3、odm 3、mikrotik 2、ubiquiti 1
+- **站内出现的品牌**：Aruba, MikroTik, Cisco　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：QSFP28, SFP28, SDR-480P-48, SFP-10G-SR, SFP-10G-LR, SFP-10G-LRM, LO-IGS-2GT1GF-POE, LO-IGS-4GT2GF-POE, LO-IGS-8GT2GF-POE, LO-IGS-M8GT2GF-HPOE, SFP-10G-T-X, LO-IGS-2GT1GF
+- **站内公开邮箱**：jan@firma.pl, sales@fibermarkt.com
+- **站内公开电话**：+48 533 533 575, +48 800 007 707, 0000 4309 0600 1001
+- **社媒**：https://www.facebook.com/fibermarkt, https://www.linkedin.com/company/37852218, https://www.youtube.com/@fibermarkt6062
+- **已抓子页**：[Regulamin sklepu Fibermarkt](https://fibermarkt.com/pl/regulamin-sklepu-fibermarkt)；[Przełączniki przemysłowe - Fibermarkt.com](https://fibermarkt.com/pl/przelaczniki/przelaczniki-przemyslowe.html)；[Przemysłowe przełączniki POE - Fibermarkt.com](https://fibermarkt.com/pl/przelaczniki/przelaczniki-przemyslowe/poe.html)；[zasilacze przemysłowe - Fibermarkt.com](https://fibermarkt.com/pl/przelaczniki/przelaczniki-przemyslowe/zasilacze-przemyslowe.html)；[Prosty sposób na połączenie switchy z portami RJ45 z portami](https://fibermarkt.com/pl/blog/post/prosty-sposob-na-polaczenie-switchy-z-portami-rj45-z-portami-sfp.html)；[Kontakt](https://fibermarkt.com/pl/skontaktuj-sie-z-nami)
+- 首页正文摘录：Sklep nie będzie działał poprawnie w przypadku wyłączenia obsługi plików cookies. Język Język: angielski niemiecki francuski hiszpański włoski czeski rumuński Toggle Nav Szukaj Szukaj Wyszukiwanie zaawansowane Szukaj Moje konto Moje konto Moje konto Moja lista życzeń Zaloguj się Moja lista życzeń Mój koszyk Menu PRODUKTY Moduły optyczne QSFP28 (100G) QSFP+ (40G) SFP28 (10G/25G) SFP+ (10G) SFP+ do HP/Aruba (1G,10G) XF
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 64、交换机 24 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-041.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -274,7 +284,7 @@ A 确认（欧洲自有品牌 + 2 次实质回复 + 在售中国品牌）：对�
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-041/`；本节随档案重渲染刷新，实时看日志。
 
@@ -357,7 +367,6 @@ A 确认（欧洲自有品牌 + 2 次实质回复 + 在售中国品牌）：对�
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

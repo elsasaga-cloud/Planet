@@ -26,7 +26,7 @@ s_mail: 16 msgs (out 16 / in 0), 2025-03-20 -> 2026-09-14
 p1: STI-144GP
 price_tier: 25%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -57,6 +57,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-14 | 去 | A 群发 | Industrial PoE Switch、48 Port PoE Managed Switch | 16 封 / 1 次打开 / 0 回｜首封 2025-03-20 → 末封 2026-09-14（16 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 对升压5口很有兴趣，问能否做8口的，对2光10电有兴趣，觉得功能强大，问是L2还是L3 | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：erstech.hu MX posta3.mediacenter.hu. / posta2.mediacenter.hu.；A 92.43.203.178；NS ns2.mediacenter.hu. / ns3.mc-int-dns.org. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -136,7 +137,8 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Janos Hogye（Ügyvezető（Hőgye János；ISAF 2025 到访）= 拍板人 / 收件人（第 109 批 官方登记核实 2026-10-28））jhogye@erstech.hu +36 70 708 7960（用户记录）〔用户 Clients 表（ISAF 2025）〕
 - **调研后定级**：B（原自动 A）——微型安装商（年营收 ≈7 万欧元）、展后 6 次推送 0 回复；匈牙利非主攻区。需求真实（升压 5 口/2 光 10 电）但体量只够零星小单 → 慢跟。
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 重启用 WA/一次性报价：STI-244GP 类小口数 PoE + 2 光 10 电管理型（核价）。注意 erstech.hu 与 erstechtechnika.hu 域混用，发信用其名片邮箱。
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 需求映射））
@@ -156,7 +158,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-144GP（25% 档）——安装商 25% 档：STI-144GP（DIN 4 PoE + 1 SFP 上联，$35.5）回应「升压 5 口」；8 口 STI-288GP（$59.8）；2 光管理型 STI-280DGGM（L2+，$121.0）
 - **邮件切入句（英文）**：Janos, on the two models you liked in Essen: the 4-port PoE + 1 SFP DIN switch is $35.5 EXW and the 8-port PoE+ 2 SFP managed (L2+, not L3) is $121.0 — for your camera jobs, do you need the 8-port version with PoE or without?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：erstech.hu
   > https://erstech.hu/ http 403 ct=text/html; charset=iso-8859-2
@@ -206,13 +208,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-024/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://erstech.hu/) | html | ConnectTimeout: HTTPSConnectionPool(host='erstech.hu', port= | 2026-10-23T04:20:51Z | 官网首页（T27 快照状态 http_error） |
+| [home](https://erstech.hu/) | html | HTTP 403 | 2026-10-29T15:11:51Z | 官网首页（T27 快照状态 http_error） |
 
 ## 联系方式（已有 · 原值照录）
 

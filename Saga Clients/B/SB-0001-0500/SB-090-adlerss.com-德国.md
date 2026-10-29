@@ -23,7 +23,7 @@ s_mail: 13 msgs (out 13 / in 0), 2025-08-14 -> 2026-09-22
 p1: STI-288GP
 price_tier: 25%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 3
 updated: 2026-10-29
 ```
@@ -54,6 +54,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-22 | 去 | A 群发 | 90W PoE Managed Switch、Mini Industrial PoE Switch | 13 封 / 1 次打开 / 0 回｜首封 2025-08-14 → 末封 2026-09-22（13 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | ONV的工业FS；有ONV的 | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：adlerss.com MX adlerss-com.mail.protection.outlook.com.；A 104.21.81.52 / 172.67.138.217；NS beth.ns.cloudflare.com. / noah.ns.cloudflare.com. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -120,7 +121,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（adlerss.com：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（adlerss.com：HTTP 错误，2026-10-29，第 2 次）
 - **是谁**：德国 Adler SS（adlerss.com；表内「ONV 的工业 FS / 有 ONV 的」；KP Zain Ullah（Operations Engineer）；官网 http_error，业务范围待核）；表内 3 次跟进无回复。
 - **类型**：安防/网络安装商（德国，工业 FS 现 ONV）
 - **在卖/在用品牌**：ONV
@@ -131,7 +132,8 @@ updated: 2026-10-29
   > ONV的工业FS / 有ONV的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Zain (Sana) Ullah（Operations Engineer（signalhire）= 技术口（非采购）→ 技术切入：宽温 / PoE 预算 / SFP 兼容（第 93 批 官方登记核实 2026-10-28））zain@adlerss.com 〔用户表〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -153,7 +155,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-288GP（25% 档）——工业 FS（现 ONV）→ 工业 8 PoE + 2 SFP 非管理 STI-288GP（$59.8 @25%）/ 管理 STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）
 - **邮件切入句（英文）**：Zain, for the ONV-type industrial PoE positions in your installations, we supply DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from single units, EXW USD — which port count do your projects use most?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：adlerss.com
   > https://adlerss.com/ http 403 ct=text/html; charset=utf-8
@@ -203,7 +205,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-090/`；本节随档案重渲染刷新，实时看日志。
 

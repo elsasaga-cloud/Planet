@@ -1,6 +1,6 @@
 # XA-M154 · Proficomms · 捷克
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 mikrotik-info `A-497`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W2-R04 2026-10-27）→ 下一动作 首触
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 mikrotik-info `A-497`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 首触
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱（含实名 KP）
@@ -82,13 +82,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W2-R04，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XA** — CZ 专业分销、品类现成、未触达 → A 首触（优先）
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：在线（proficomms.cz，快照 2026-10-29）：PROFIcomms - distributor aktivních síťových prvků | PROFIcomms.cz
 - 一句话：专业网络分销（Proficomms，Brno；ComNet/Microsens/AMG/PLANET/TRENDnet/Cisco IE）；已代理6个品牌，加第7个阻力小
 - 是什么人：专业网络分销（Proficomms，Brno；ComNet/Microsens/AMG/PLANET/TRENDnet/Cisco IE）；规模：未量化
-- 在卖/在用：ComNet、Microsens、AMG、PLANET、Cisco IE、TRENDnet
+- 在卖/在用：ComNet、Microsens、AMG、PLANET、Cisco IE、TRENDnet、Extreme、Juniper、Axis
 - 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — 已卖多牌工业/专业交换机
 - 找得到人吗：info@proficomms.cz（来源库公开邮箱）；KP：无具名
 - 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
@@ -99,6 +99,7 @@
 | 类型 | 说明 | 摘录 | 来源 | 日期 |
 |---|---|---|---|---|
 | 来源库官网/名录核对 | 本行由分销商名录批量导入，三星依据仅为渠道等级（专业分销）与「ComNet/Microsens/AMG/PLANET/Cisco IE/TRENDnet」，尚无人工核实。建议先查证其是否已有工业交换机 / PoE++ 产品线，再定切入型号 【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 kontakt 正文可见：info@proficomms.cz。待补标记解除；C→B 回升（原下放原因=无邮 |  | https://proficomms.cz/ | 2026-09-28 |
+| 官网快照 | 官网在线；PROFIcomms - distributor aktivních síťových prvků ｜ PROFIcomms.cz | Společnost PROFIcomms je distributor aktivních prvků, specializující se na oblasti podnikových, metropolitních, telekomunikačních sítí a kamerových | https://www.proficomms.cz/ | 2026-10-29 |
 
 草稿（英文，首触；Simon 发，Agent 不发）：
 
@@ -118,4 +119,5 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+轻卡：本轮未外查，沿用来源库官网/名录核对。

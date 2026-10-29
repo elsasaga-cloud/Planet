@@ -23,7 +23,7 @@ s_mail: 11 msgs (out 11 / in 0), 2025-03-19 -> 2026-03-05
 p1: STI-110GE
 price_tier: 20%
 research: done
-site_snapshot: unreachable  # 2026-10-21
+site_snapshot: unreachable  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -54,6 +54,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-03-05 | 去 | A 群发 | Industrial PoE Switch、48 Port PoE Managed Switch | 11 封 / 1 次打开 / 0 回｜首封 2025-03-19 → 末封 2026-03-05（11 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | MC；9697 0621 M | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：excelengineeringsg.net MX alt1.aspmx.l.google.com. / alt2.aspmx.l.google.com.；A NoAnswer；NS ns-cloud-a1.googledomains.com. / ns-cloud-a3.googledomains.com. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -106,7 +107,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（Excel Engineering (SG) Pte Ltd：域名不可达（DNS/连接失败），2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（excelengineeringsg.net：域名不可达（DNS/连接失败），2026-10-29，第 2 次）
 - **是谁**：新加坡 Excel Engineering (SG) Pte Ltd（表内「MC」；KP David Voo，电话 9697 0621；官网 unreachable）；群发 7 次无回复。
 - **类型**：工程公司（新加坡，MC 需求）
 - **【用户表】表内兴趣/备注**
@@ -116,7 +117,8 @@ updated: 2026-10-29
   > MC
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：David Voo（研究档 KP（9697 0621）— 微型（實繳 S$1,000、虛擬地址、官網失效）+ 需求只有 MC → 不動（第 116 批 官方登记核实 2026-10-28））sales@excelengineeringsg.net 〔用户表〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -137,7 +139,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-110GE（20% 档）——MC → 工业千兆 MC STI-110GE（$22.4 @20%）、PoE MC STI-111GP（$27.8）、百兆 STI-110FE（$19.7）
 - **邮件切入句（英文）**：David, for the media converters in your engineering projects, we supply neutral-brand industrial gigabit, PoE and Fast Ethernet MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — which MC configuration does your current project need?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名不可达（DNS/连接失败））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：域名不可达（DNS/连接失败））
 
 - 尝试域名：excelengineeringsg.net
   > https://excelengineeringsg.net/ conn: HTTPSConnectionPool(host='excelengineeringsg.net', port=443): Max retries exceeded with url: / (Caused by NameResolution
@@ -186,7 +188,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-797/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |

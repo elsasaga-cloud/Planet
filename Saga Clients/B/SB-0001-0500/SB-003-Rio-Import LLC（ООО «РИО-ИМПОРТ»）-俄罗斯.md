@@ -27,7 +27,7 @@ last_contact: 2024-11-18
 p1: STI-288DGGPM
 price_tier: 20%
 research: done
-site_snapshot: timeout  # 2026-10-21
+site_snapshot: timeout  # 2026-10-29
 sources: 3
 updated: 2026-10-29
 ```
@@ -160,7 +160,8 @@ updated: 2026-10-29
   > 来源：http://www.rio-krsk.ru/contacts/（抓取 2026-10-21）
 - **KP**：—（订单邮箱 → 法人 ООО «РИО-ИМПОРТ»（ОГРН 1092468006047 · ИНН 2460214069，Красноярск 2009-02-19，资本 10,000 ₽）；现任总经理 Сергеева Н. М.，创始人 / 2012 年 100% 股东 Попов И. Ю.；营收 38 млн ₽（第 86 批 官方登记核实 2026-10-27））rio-import2003@mail.ru +7 (391) 291-14-24〔http://www.rio-krsk.ru/contacts/〕
 - **KP**：Сергеева Надежда Михайловна（Генеральный директор（现任；companies.rbc）= 签字人（第 86 批 官方登记核实 2026-10-27）） 〔https://www.rio-krsk.ru/company/requisites/〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 A 级确认：工业自动化分销 + 成单；主推 STI 工业 DIN L2+ 系列（俄语区付款/物流由用户侧按现有通道）。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
@@ -188,7 +189,7 @@ A 级确认：工业自动化分销 + 成单；主推 STI 工业 DIN L2+ 系列�
 - **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——自动化柜内 DIN 导轨 PoE（替代其介绍的 Phoenix Contact 1000 系列位）：STI-288DGGPM / STI-144GP，分销 20% 档；配 Delta 电源无需 Saga 供电源
 - **邮件切入句（英文）**：For the DIN-rail PoE slot you cover with the Phoenix Contact 1000 series, the 8-port gigabit managed unit at distributor EXW is the one Igor's last order came from, so I am refreshing that price plus the 4+1 compact version.
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：超时（站慢或封锁））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：超时（站慢或封锁））
 
 - 尝试域名：rio-krsk.ru
   > https://rio-krsk.ru/ conn: HTTPSConnectionPool(host='rio-krsk.ru', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTP
@@ -226,7 +227,7 @@ A 级确认：工业自动化分销 + 成单；主推 STI 工业 DIN L2+ 系列�
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：3 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **监控层**：成单精选层　|　**自动源**：3 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-28T08:44:48Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-003/`；本节随档案重渲染刷新，实时看日志。
 

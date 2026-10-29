@@ -29,7 +29,7 @@ s_mail: 27 msgs (out 24 / in 3), 2024-08-05 -> 2026-09-09
 p1: CENTEC STH25G（已发）/ STH-8C48DX-HSI $4,800 EXW；接入 STC-424XGGPM $198
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -65,6 +65,7 @@ updated: 2026-10-29
 | 2026-01-20 | 去 | Alan | Please check attached information and let me know.（附 8C48XF.png、Performance of PeakNetX Platform_EN_V3.1.pptx、Saga Software Function List_EN_V2.4.pptx、STH25G Series.pptx） | 资料齐，但没问客户是谁/规模 | `reply` |
 | 2026-01-20 | 来 | Antonio | Thank you for your support and for processing the information with the Data Center client. I'll leave you with some feedback. | 有 DC 客户在手；feedback 未到 | `promise_in` |
 | 2026-09-09 | 去 | Alan | This is our 16-port DIN PoE switch… Do you need some units for testing? | 与 DC 话题无关的推送；无回 | `push` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Conexion de Redes \| Equipos de Telecomunicaciones en El Salvador — Suministro e instalación de equipos de telecomunicaciones en El Salvador y Centroamérica. Especialistas en fibra óptica, FTTH, XGPON, Data Center, IPTV, microondas IP y redes LTE. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：DC 客户身份与规模；他承诺的 feedback 是否通过其他渠道给过（仓内无）
 
@@ -147,6 +148,7 @@ updated: 2026-10-29
 - **是谁**：A 邮箱 24 去 3 来；总经理 Antonio 三次真回：2025-05-28 要旁路交换机更多资料（给 STI-488XGGPM2B-2BT）；2026-01-19 对 CENTEC「OEM Core Switching Solution」说「Interesting solution. Please send the technical information so we can share it with our clients」→ Alan 01-20 发 PeakNetX V3.1 + Function List V2.4 + STH25G；01-20 回「Thank you for your support and for processing the information with the Data Center client. I'll leave you with some feedback」→ feedback 从未到；2026-09-09 推 16 口 DIN PoE 无回。
 - **类型**：中美洲网络集成/分销商（为其客户转发方案）
 - **规模**：（未核）
+- **在卖/在用品牌**：Huawei
 - **【邮件】要旁路交换机资料**
   > I'd like to read more about the advantages of this equipment. Please send me more information.
   > 来源：data/gmail_a/messages/<year>/<month>.jsonl（抓取 2025-05-28）
@@ -158,9 +160,10 @@ updated: 2026-10-29
   > 来源：data/gmail_a/messages/<year>/<month>.jsonl（抓取 2026-01-20）
 - **KP**：Antonio Alberto Guadron（Gerente General（官网 gerencia@ 吻合；研究档 KP；三次真回）= 收件人 — 一页纸 + 规格书：STH-8C48DX-HSI $4,800 / STH-2C24XF-HSI $1,500 CENTEC + 接入 STC-424XGGPM-280W $198 / STC-4424GCPM $165 + 付费样机；西语备注 — 拉美常规：英文稿（西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29））gerencia@conexionderedes.com 〔data/gmail_a/messages/<year>/<month>.jsonl〕
 - **调研后定级**：A（原自动 C）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
-- 备注：西语区（萨尔瓦多）；信件英文流畅。feedback 未到 = 典型「转发给客户后沉默」。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。
+西语区（萨尔瓦多）；信件英文流畅。feedback 未到 = 典型「转发给客户后沉默」。
 
-### 加厚挖掘（2026-10-24 · 邮件证据 + 官网常识）
+### 加厚挖掘（2026-10-24 · 邮件证据 + 官网常识 + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -173,6 +176,24 @@ updated: 2026-10-29
 - **风险/边界**：DC 客户是否选型结束不明；中美洲物流/付款（T/T USD 可行）；非主攻区，资源有限
 - **Saga 对位结论**：P1 CENTEC STH25G（已发）/ STH-8C48DX-HSI $4,800 EXW；接入 STC-424XGGPM $198（25% 档）——集成商转发型；一句话问 DC 客户的反馈即可
 - **邮件切入句（英文）**：（见 mail_review.draft_en）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://www.conexionderedes.com/　语言：es　站点地图 URL 数：54
+- **标题**：Conexion de Redes / Equipos de Telecomunicaciones en El Salvador
+- **描述**：Suministro e instalación de equipos de telecomunicaciones en El Salvador y Centroamérica. Especialistas en fibra óptica, FTTH, XGPON, Data Center, IPTV, microondas IP y redes LTE.
+- **首页栏目**：Conexión de Redes / Productos Destacados / Conector rápido SC impermeable para NAP preconectorizada / Cable Drop preconectorizado / Caja FTTA 8 / Cajas de distribucion de fibra optica_uso aereo / Cassettes MPO / MPT / ODFs de alta concentracion, para DATA CENTER
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：telecom 15、cable 8、industrial 5、ftth 3、data center 3、switch 1、wifi 1
+- **站内出现的品牌**：Huawei　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：GR-326
+- **站内公开邮箱**：gerencia@conexionderedes.com, tucorreo@ejemplo.com
+- **站内公开电话**：+503 2262-1049, +503 7553-2289
+- **社媒**：https://wa.me/50375532289?text=Hola%2C%20estoy%20interesado%20en%20el%20producto%3A%20ODF%20%20Din%20Riel%2C%20tipo%20Industrial, https://wa.me/50375532289?text=Hola%2C%20me%20gustar%C3%ADa%20obtener%20m%C3%A1s%20informaci%C3%B3n%20sobre%20sus%20productos%20y%20servicios.
+- **产品类页面**：https://conexionderedes.com/novedades/catalogo-2026-energia-solar-conectividad-industrial-proteccion-descargas
+- **已抓子页**：[ODF Din Riel, tipo Industrial / Conexion de Redes](https://www.conexionderedes.com/tienda/d723aa93-78df-478d-93a8-f333968ee094)；[Contáctanos / Conexion de Redes](https://www.conexionderedes.com/contacto)
+- 首页正文摘录：Especialistas en telecomunicaciones · Centroamérica +503 2262-1049 gerencia@conexionderedes.com Inicio Tienda Quiénes Somos Servicios Videos Novedades Contáctanos Inicio Tienda Quiénes Somos Servicios Videos Novedades Contáctanos +503 2262-1049 gerencia@conexionderedes.com Telecomunicaciones · Centroamérica Conexión de Redes Especialistas en equipos de telecomunicaciones de centroamérica Ver productos Selección espec
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 5、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1134.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -225,12 +246,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1134/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://conexionderedes.com/) | html | 待首轮 | — | 官网首页 |
+| [home](https://conexionderedes.com/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 5327 字符；首行：Conexion de Redes \| Equipos de Telecomunicaciones en El Salvador |
 
 ## 联系方式（已有 · 原值照录）
 

@@ -23,7 +23,7 @@ s_mail: 13 msgs (out 13 / in 0), 2024-11-03 -> 2026-09-15
 p1: STC-424XGGM
 price_tier: 25%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: ok  # 2026-10-29
 sources: 3
 updated: 2026-10-29
 ```
@@ -35,7 +35,7 @@ updated: 2026-10-29
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-424XGGM — 大口 FS（现 BDCOM）→ 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE STC-448XGGPM（$335）、24 口 PoE STC-424DGGPM-280W（$140.1）。已打开的主题（3/13 封有打开记录）：「Mini Industrial PoE Switch」(2024-11-03)、「8 Port Industrial PoE Switch」(2024-11-30)、「10G Media Converter」(2024-12-31) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-02-26)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；首触锚价 STC-424XGGM $132.7 EXW（主表档位（PDF 上限 $143；SA-002 2026-07 实报 $130）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-31 $65（10G Media Converter）、2026-06-18 $16000（32 Port 400GB DC Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-20；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Motaz, alongside the BDCOM switches you deploy, we supply Marvell-based 24-GE + 4×10G, 24-PoE + 4 SFP and 48-PoE + 4×10G L2+ switches from single units, CE/RoHS, EXW USD — is there a high-port-count position in your current projects I can quote? Reference: STC-424XGGM at $132.7 USD EXW (MOQ 1, 15-day validity).
-- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
+- **最大未知**：年走量与现供应商
 - **下一步**：2026-11 A 邮箱 → motaz@smartsystems.jo（Motaz Alsharif；只发他，不抄 info@） 首封前知悉：Elsa 已 To 直发 14 轮（2025-03-04→2026-08-20）（最近 2026-08-20「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 短信一问（email_hook）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
@@ -56,6 +56,7 @@ updated: 2026-10-29
 | 2026-08-20 | 去 | Elsa 群发（To 直收：本户是「RU/UZ/KZ/BY/TR+PL 个别」批次的锚，其余客户在 Bcc） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发直达证据（To info@smartsystems.jo）；该批次 14 轮 2025-03-04→2026-08-20 每轮都以本户为 To；S/A digest 看不到 Elsa 的发信 | `elsa_bcc` |
 | 2026-09-15 | 去 | A/S 群发 | Industrial PoE Switch、Booster PoE Switch | 13 封 / 3 次打开 / 0 回｜首封 2024-11-03 → 末封 2026-09-15（13 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 大口FS；大口FS BDCOM；switch | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Smart Systems \| Online Computer Store in Amman — Smart Systems for computers located in Amman - Jordan, offering online shopping for all Computer Systems, Computer Accessories and Computing Equipment. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -123,10 +124,10 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（smartsystems.jo：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：在线（smartsystems.jo，快照 2026-10-29）：Smart Systems | Online Computer Store in Amman
 - **是谁**：约旦 Smart Systems（smartsystems.jo；表内「大口 FS / BDCOM / switch」；KP Motaz Alsharif（Owner）；官网 http_error）；表内未跟进。
 - **类型**：网络集成/分销商（约旦，BDCOM 在供）
-- **在卖/在用品牌**：BDCOM
+- **在卖/在用品牌**：BDCOM, TP-Link, Hikvision, Dahua, D-Link, Zyxel, Huawei, TRENDnet, PLANET
 - **【用户表】表内兴趣/备注**
   > 大口FS；大口FS BDCOM；switch
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
@@ -134,10 +135,11 @@ updated: 2026-10-29
   > 大口FS / 大口FS BDCOM / switch
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Motaz Alsharif（Owner（prospeo 2026-10-29 吻合；研究档 KP）= 收件人 — 一页纸一次：分销 20% B、STC-4424GCPM $165 / STC-424XGGPM-280W $198 / STC-448XGGPM $335 一口价 + MOQ 1 + 付费样机；在供品牌不点名 — 约旦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 安曼（第 123 批 官方登记核实 2026-10-29））motaz@smartsystems.jo 〔用户表〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/brands_seen/site_contacts/deep/facts。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -155,14 +157,22 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-424XGGM（25% 档）——大口 FS（现 BDCOM）→ 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE STC-448XGGPM（$335）、24 口 PoE STC-424DGGPM-280W（$140.1）
 - **邮件切入句（英文）**：Motaz, alongside the BDCOM switches you deploy, we supply Marvell-based 24-GE + 4×10G, 24-PoE + 4 SFP and 48-PoE + 4×10G L2+ switches from single units, CE/RoHS, EXW USD — is there a high-port-count position in your current projects I can quote?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
 
-- 尝试域名：smartsystems.jo
-  > https://smartsystems.jo/ http 403 ct=text/html; charset=utf-8
-  > https://www.smartsystems.jo/ http 403 ct=text/html; charset=utf-8
-  > http://smartsystems.jo/ http 403 ct=text/html; charset=utf-8
-- **提示**：抓取失败不代表公司不在；人工打开一次即可。
-- 数据文件：`data/saga_clients/site_snapshots/SB-785.json`
+- **首页**：https://smartsystems.jo/　语言：en　站点地图 URL 数：2133
+- **标题**：Smart Systems / Online Computer Store in Amman
+- **描述**：Smart Systems for computers located in Amman - Jordan, offering online shopping for all Computer Systems, Computer Accessories and Computing Equipment.
+- **首页栏目**：0 / Shopping Cart / + (962) 6 585-58-83 / New Arrivals / UPS Systems / Network & Data Centers / Cables, Adapters & Converters / Special Deals
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 18、tp-link 16、wireless 15、switch 11、data center 9、planet 9、hikvision 9、dahua 9、poe 5、gigabit 5、distributor 4、camera 2
+- **站内出现的品牌**：TP-Link, Hikvision, Dahua, D-Link, Zyxel, Huawei, TRENDnet, PLANET　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：IL-114, SMARTSYS91, MK120, LC-PS611, CF412A, KM3322W, KMH-200, MK270, MK295, MG7514, LS1024G, ES228GP
+- **站内公开电话**：+962 6 562 7771, +962 6 5627771 12, +962 6 5627771 3 12, +962 6 568 3700
+- **社媒**：https://www.facebook.com/SmartSystems.jo/, https://www.instagram.com/smartsystems1991/
+- **产品类页面**：https://smartsystems.jo/tp-link-ls105lp-5-port-10100mbps-desktop-switch-4-port-poe-ls105lp；https://smartsystems.jo/tp-link-ls105gp-5-port-gigabit-desktop-switch-4-port-poe-network-switches-ls105gp；https://smartsystems.jo/tp-link-ls109p-9-port-10100mbps-desktop-switch-8-port-poe-network-switches-ls109p；https://smartsystems.jo/tp-link-ls106lp-6-port-10100mbps-desktop-switch-4-port-poe-network-switches-ls106lp；https://smartsystems.jo/tp-link-tl-sg1210p-10-port-gigabit-desktop-switch-8-port-poe-network-switches-tl-sg121…；https://smartsystems.jo/tp-link-tl-sg1005lp-5-port-gigabit-desktop-switch-4-port-poe-network-switches-tl-sg100…
+- **已抓子页**：[Find Your Favorite Brand](https://smartsystems.jo/product/manufacturer)；[Product Comparison](https://smartsystems.jo/product/compare)；[About Us / Smart Systems - Amman Jordan](https://smartsystems.jo/about_us)；[OFF-BRAND / Smart Systems / Amman Jordan](https://smartsystems.jo/off-brand)；[Contact Us](https://smartsystems.jo/information/contact)；[Reward Store / Smart Systems / Amman Jordan](https://smartsystems.jo/reward-store)
+- 首页正文摘录：Welcome visitor you can login or create an account . Home About Us Brands A Acronis Apacer Acer Adata AMD APC ASUS Avision AOC a asustor R Remax RAPOO Romoss T TP-Link Tecnoware Trendnet TOSHIBA TONER COMPATIBLE V VORMOR Vention ViewSonic VT ع عروض الاقساط B BDCom Brother BenQ Bitdefender J Jabra Jetion x xp-pen D Dell Dtech D-link Delpos Dahua DOOGEE E EagleNet EaglePower ELEN Elgato Epson EXTRO H Huawei HP Hikvisio
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 5、监控 4 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-785.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -200,7 +210,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-785/`；本节随档案重渲染刷新，实时看日志。
 
@@ -286,7 +296,6 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

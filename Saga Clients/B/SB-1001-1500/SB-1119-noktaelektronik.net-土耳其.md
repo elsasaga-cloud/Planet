@@ -26,7 +26,7 @@ s_mail: 14 msgs (out 14 / in 0), 2024-06-14 -> 2026-10-20
 p1: STC-424XGGPM-280W
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -56,6 +56,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2024-11-05 | 去 | Simon → Angora Networks（SA-077）附件 Turkey Client List.xlsx | 名单行：「CCTV products nokta@noktaelektronik.net https://www.noktaelektronik.net/tr」 | Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持） | `gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx` |
 | 2026-10-20 | 去 | A/S 群发 | 24 Port PoE Managed Switch、10G Enterprise SFP Switch | 14 封 / 0 次打开 / 0 回｜首封 2024-06-14 → 末封 2026-10-20（14 去 / 0 来） | `gmail_digest` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Nokta Elektronik — Güvenlik ve Network Distribütörü — CCTV kamera, network, yangın algılama ve hemşire çağrı sistemlerinde Türkiye distribütörü; upTech markasının sahibi. Binlerce ürün, stok kodu ile arama. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）
 
@@ -123,7 +124,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（noktaelektronik.net；并档 Planet 渠道档案 PB-041）
 - **是谁**：伊斯坦布尔的安防与网络分销商，ORing 授权，首页主推 PLANET GS-5220 高端 PoE 交换机，设 B2B 批发平台。类型：分销商（自述「Güvenlik ve Network Distribütörü」安防与网络分销；ORing 授权；设 B2B 批发平台）。信号：官网 PLANET 产品页：GS-5220-8P2T2S、GS-5220-24UP4XV/24UP4XVR（Ultra PoE + 4×10G SFP+）、GS-5220-16S8C；Mikrotik 仓库 A-462 核：首页主推 Planet GS-5220 L3 24 口 802.3bt PoE + 4×10G SFP+。Planet 渠道档案 PB-041 评级 B（需求：PLANET GS-5220 系列在售 + 安防/网络分销 + B2B 批发平台；触达：nokta@noktaelektronik.net（官网，经 Mikrotik A-462 记录），无具名；体量中小（伊斯坦布尔），可赢；区域土耳其（T05 入池）；Mikrotik A-462 已建档 → 本仓 B 并档，首触以 Mikrotik 为准）。并档说明：Saga 表内本条 SB-1119（土耳其）自动评 C（原因：；Saga 群发已推送 2 次无回复）。
-- **在卖/在用品牌**：PLANET, MikroTik, ORing
+- **在卖/在用品牌**：PLANET, MikroTik, ORing, Dahua, Ruijie
 - **【卖方目录】PLANET GS-5220 产品页（PoE+ 8 口）**
   > GS-5220-8P2T2S L2+ 8-Port 10/100/1000T 802.3at PoE + 2-Port 10/100/1000T + 2-Port 100/1000X SFP Managed Switch - Nokta Elektronik ve Bilişim Sistemleri
   > 来源：https://noktaelektronik.net/tr/urunler/9375/2433/gs-5220-8p2t2s（抓取 2026-10-19）
@@ -137,9 +138,10 @@ updated: 2026-10-29
   > A-462 Nokta Elektronik 土耳其 分销（ORing 授权）… +90 212 222 87 80 / nokta@noktaelektronik.net … 官网核对：Nokta Elektronik 定位「Güvenlik ve Network Distribütörü」，有 Aktif Network Ürünleri 分类（Dahua 交换机、Uptech ethernet switch），首页主推 Planet GS-5220 L3 24口 802.3bt PoE + 4×10G SFP+ 管理型交换机，另设 B2B 批发平台
   > 来源：https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv（抓取 2026-09-28）
 - **调研后定级**：B（原自动 C）——Planet 渠道档案 PB-041 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-041，W 批次调研 2026-10-19/20））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-041，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -163,6 +165,22 @@ updated: 2026-10-29
 - **风险/边界**：Mikrotik 侧首触状态；PLANET 占比；是否要求 bt/LCD（Saga 无）；Saga 群发已推送 2 次无回复 → 改用具名收件人与新钩子
 - **Saga 对位结论**：P1 STC-424XGGPM-280W（20% 档）——对位其主推 GS-5220-24UP4XV（24 PoE + 4×10G SFP+）——Saga 为 802.3at 280W + 4×10G SFP+ L2+（无 bt/LCD，注明）；分销走量 → 20%（沿用 Planet 档案 PB-041）；需求：
 - **邮件切入句（英文）**：PLANET's GS-5220 sits at the top of your PoE range; a 24-port PoE+ with 4×10G uplinks at a lower tier gives your dealers the same uplink spec for mid-size camera sites. For your dealers' camera and campus jobs, is the 24-port PoE+ with 10G uplinks the size that moves most, or the 8-port units?
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://www.noktaelektronik.net/tr　语言：tr　站点地图 URL 数：1178
+- **标题**：Nokta Elektronik — Güvenlik ve Network Distribütörü
+- **描述**：CCTV kamera, network, yangın algılama ve hemşire çağrı sistemlerinde Türkiye distribütörü; upTech markasının sahibi. Binlerce ürün, stok kodu ile arama.
+- **首页栏目**：Nokta Elektronik — Güvenlik ve Elektronik Sistemleri Distribütörü / Çözümlerimiz / CCTV Çözümleri / Yangın Algılama Sistemleri / Hemşire Çağrı Sistemleri / Merkezi Sistem Saat Çözümleri / Bariyer ve Otopark Çözümleri / Özel Yazılım
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cctv 19、planet 7、dahua 7、fiber 2、ethernet 2
+- **站内出现的品牌**：ORing, Dahua, Ruijie　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RS232, RS485
+- **站内公开邮箱**：nokta@noktaelektronik.net, ornek@email.com
+- **站内公开电话**：+90 212 222 87 80
+- **产品类页面**：https://www.noktaelektronik.net/tr/urunler/web-smart-poe-switch-11；https://www.noktaelektronik.net/en/urunler/web-smart-poe-switch-11；https://www.noktaelektronik.net/tr/urunler/yonetilemeyen-poe-switch-11；https://www.noktaelektronik.net/en/urunler/yonetilemeyen-poe-switch-11；https://www.noktaelektronik.net/tr/urunler/l2l2-yonetilebilir-poe-switch-11；https://www.noktaelektronik.net/en/urunler/l2l2-yonetilebilir-poe-switch-11
+- **已抓子页**：[Endüstriyel Haberleşme Ürünleri / Nokta Elektronik](https://www.noktaelektronik.net/tr/urunler/endustriyel-haberlesme-urunleri-0)；[Pasif Network Ürünleri / Nokta Elektronik](https://www.noktaelektronik.net/tr/urunler/pasif-network-urunleri-0)；[Ürünler / Nokta Elektronik](https://www.noktaelektronik.net/tr/urunler)；[Akıllı Ev Ürünleri / Nokta Elektronik](https://www.noktaelektronik.net/tr/urunler/akilli-ev-urunleri-0)；[RF Haberleşme Ürünleri / Nokta Elektronik](https://www.noktaelektronik.net/tr/urunler/rf-haberlesme-urunleri-0)；[Ses ve Görüntü Ürünleri / Nokta Elektronik](https://www.noktaelektronik.net/tr/urunler/ses-ve-goruntu-urunleri-0)
+- 首页正文摘录：+90 212 222 87 80 nokta@noktaelektronik.net Ürünler Ar-Ge & Üretim Yazılım Markalar Hakkımızda İletişim E-Katalog B2B Giriş Teknik Servis Dil Seçimi Dil Seçimi Menüyü aç Aramayı kapat Nokta Elektronik — Güvenlik ve Elektronik Sistemleri Distribütörü Çözümlerimiz ⚡ CCTV Çözümleri 🔥 Yangın Algılama Sistemleri 🏥 Hemşire Çağrı Sistemleri ⌚ Merkezi Sistem Saat Çözümleri 🅿️ Bariyer ve Otopark Çözümleri 💻 Özel Yazılım 📱 Mob
+- 数据文件：`data/saga_clients/site_snapshots/SB-1119.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -202,7 +220,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1119/`；本节随档案重渲染刷新，实时看日志。
 

@@ -1,6 +1,6 @@
 # XC-M152 · Power Motion · 美国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：☆ 自动化元件与系统分销 20%：Power Motion Sales Inc.（Fenton MO 652 Axminister Dr；St. Louis / KC / Little Rock；Owner Christopher Tremblay）官方 FB 部分坐实（MO SOS 号待补）；主区 US 但体量未知、视觉 / 运动为主 → 观察档；slsales@powermotionsales） ｜ 来源 mikrotik-info `C-087`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-03 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：☆ 自动化元件与系统分销 20%：Power Motion Sales Inc.（Fenton MO 652 Axminister Dr；St. Louis / KC / Little Rock；Owner Christopher Tremblay）官方 FB 部分坐实（MO SOS 号待补）；主区 US 但体量未知、视觉 / 运动为主 → 观察档；slsales@powermotionsales） ｜ 来源 mikrotik-info `C-087`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 >
 > **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：☆ P 池 · 观察档**（闸 3 · G3 · 2026-10-29）：☆ 自动化元件与系统分销 20%：Power Motion Sales Inc.（Fenton MO 652 Axminister Dr；St. Louis / KC / Little Rock；Owner Christopher Tremblay）官方 FB 部分坐实（MO SOS 号待补）；主区 US 但体量未知、视觉 / 运动为主 → 观察档；slsales@powermotionsales.com
 
@@ -47,10 +47,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，X1-03，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XC** — X1-03 补路径：☆ 自动化元件与系统分销 20%：Power Motion Sales Inc.（Fenton MO 652 Axminister Dr；St. Louis / KC / Little Rock；Owner Christ（等级不动，池位见 sieve_x）
-- 活着吗：2026-10-29 检索命中官网 / 名录（在线）
+- 活着吗：在线（powermotionsales.com，快照 2026-10-29）：Power Motion | Industrial Automation Solutions Provider
 - 一句话：Power Motion Sales Inc.：自动化元件与系统分销（视觉 / 传感 / 运动 / 安全 / 机器人 / 远程连接）；Owner Christopher Tremblay；体量未知
 - 是什么人：分销（HMS/N-Tron·Red Lion 渠道）；Power Motion Sales Inc.
 - 对口哪条线：Saga STI 工业 / SmartByte 商用 PoE — ☆ 自动化元件与系统分销 20%：Power Motion Sales Inc.（Fenton MO 652 Axmin
@@ -64,5 +64,7 @@
 |---|---|---|---|---|
 | 官网 / 名录 | Facebook 官方页：Power Motion Inc. · Fenton MO · slsales@powermotionsales.com |  | https://www.facebook.com/powermotioninc/ | 2026-10-29 |
 | 官网 / 名录 | Explorium：Power Motion Sales Inc. · 3 处 · slsales@ |  | https://www.explorium.ai/manufacturing/companies/power-motion-sales | 2026-10-29 |
+| 官网快照 | 官网在线；Power Motion ｜ Industrial Automation Solutions Provider | Power Motion partners with leading manufacturers and your company to deliver industrial automation, systems engineering and project support – contact us now to see how we can help. | https://www.powermotionsales.com/ | 2026-10-29 |
 
-- 备注：Power Motion Sales Inc.；652 Axminister Dr, Fenton, MO 63026（St. Louis / KC / Little Rock）；+1 800 844 7879
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/evidence。
+Power Motion Sales Inc.；652 Axminister Dr, Fenton, MO 63026（St. Louis / KC / Little Rock）；+1 800 844 7879

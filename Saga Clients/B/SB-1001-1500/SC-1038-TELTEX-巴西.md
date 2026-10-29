@@ -29,7 +29,7 @@ s_mail: 10 msgs (out 10 / in 0), 2024-07-03 -> 2025-03-07
 p1: STC-2216GP
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -59,6 +59,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ★ 大集成 25%（长线）：Teltex Tecnologia SA（São Paulo；CNPJ 73.442.360/0001-17；33 年；巴西前 5 安防集成商；葡 / 美办事处）坐实；大集成 ✔ 对位 ✔ 坐实 ✔ → P 池候选（找采购 / 工程部；长线） | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 登记底数（registry） | BR · 1 次检索：teltex.com.br/en/（CNPJ / 排名 / 海外办）+ /homepage-portugues/（地址 / 电话 / 邮箱）；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Teltex \| Soluções 360º em Segurança Eletrônica e Digital, Eficiência Energética e Smart City — Segurança 360º. Soluções integradas em Segurança Eletrônica e Digital, Smart Cities e Eficiência Energética | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -102,7 +103,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-29）**　网站状态：域名 teltex.com.br（官网快照待 Actions 补抓）
+- **状态：已调研（2026-10-29）**　网站状态：在线（teltex.com.br，快照 2026-10-29）：Teltex | Soluções 360º em Segurança Eletrônica e Digital, Eficiência Energética e Smart City
 - **是谁**：C 池三闸捞出（★ 正式）：★ 大集成 25%（长线）：Teltex Tecnologia SA（São Paulo；CNPJ 73.442.360/0001-17；33 年；巴西前 5 安防集成商；葡 / 美办事处）坐实；大集成 ✔ 对位 ✔ 坐实 ✔ → P 池候选（找采购 / 工程部；长线）
 - **类型**：大集成（闸 2 判定 · 25% 档）
 - **规模**：大型（巴西前 5 安防集成）
@@ -115,10 +116,11 @@ updated: 2026-10-29
   > 来源：（抓取 2026-10-29）
 - **KP**：—（表内邮箱（公开 / 总机））thales.rollo@teltex.com.br 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 大集成 25%（长线）：Teltex Tecnologia SA（São Paulo；CNPJ 73.442.360/0001-17；33 年；巴西前 5 安防集成商；葡 / 美办事处）坐实；大集成 ✔ 对位 ✔ 坐实 ✔ → P 池候选（找采购 / 工程部；长线）；闸 1：巴西 Teltex（teltex.com.br；做摄像头的，要用到 PoE，价格表已发）：自有品牌摄像头 = OEM 对象 ✔ 对位 ✔ 有互动 ✔；推 1 次 0 回 → 闸 2 查底数（cnpj.biz）；拉美非点名国，低优先
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/saga_fit.basis/deep/facts。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -131,6 +133,19 @@ updated: 2026-10-29
   - 表内兴趣：做摄像头的，要用到POE
 价格表发他
 - **Saga 对位结论**：P1 STC-2216GP（25% 档）——默认对位（大集成 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://teltex.com.br/　语言：pt-BR　站点地图 URL 数：1
+- **标题**：Teltex / Soluções 360º em Segurança Eletrônica e Digital, Eficiência Energética e Smart City
+- **描述**：Segurança 360º. Soluções integradas em Segurança Eletrônica e Digital, Smart Cities e Eficiência Energética
+- **首页栏目**：Segurança 360º / Somos especialistas no seu cenário de negócios / Indústrias / Cidades / Condomínios / Aeroportos / Educação / Bancos
+- **站内型号串**（正则抽取，含非交换机）：POL-01, POL-02, POL-03, POL-04, POL-05
+- **站内公开邮箱**：comercial@teltex.com.br
+- **站内公开电话**：+55 (11) 3840.6400
+- **社媒**：https://teltex.com.br, https://teltex.com.br/ar, https://teltex.com.br/en, https://teltex.com.br/es, https://teltex.com.br/pt, https://teltex.com.br/verticais/aeroportos/
+- 首页正文摘录：ícone busca X ícone lupa . . . Verticais Aeroportos Agronegócio Bancos Cidades Inteligentes Condomínios Construção Educação Hospitais Indústrias Poder Judiciário Logística Portos Rodovias Varejo Soluções Segurança Eletrônica Eficiência Energética Cidades Inteligentes Segurança da Informação e TIC Quem somos Contato Blog Projetos Vagas Clientes Rastreio Tem alguma dúvida? Fale conosco! Facebook link Instagram link lin
+- 数据文件：`data/saga_clients/site_snapshots/SC-1038.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -166,12 +181,14 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-1038/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://teltex.com.br/) | html | 待首轮 | — | 官网首页 |
+| [home](https://teltex.com.br/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 9671 字符；首行：Teltex \| Soluções 360º em Segurança Eletrônica e Digital, Eficiência Energétic |
+| [feed_auto](https://teltex.com.br/feed/) | rss | HTTP 200 | 2026-10-29T15:11:51Z | 10 条；最新：Thu, 27 Aug 2026 13:41:01 Muito além do controle de acesso: a estratégia de segura |
 
 ## 联系方式（已有 · 原值照录）
 

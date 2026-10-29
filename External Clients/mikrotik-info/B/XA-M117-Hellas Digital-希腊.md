@@ -1,6 +1,6 @@
 # XA-M117 · Hellas Digital · 希腊
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 mikrotik-info `A-474`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W2-R05d 2026-10-27）→ 下一动作 第二封
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 mikrotik-info `A-474`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 第二封
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱
@@ -70,13 +70,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W2-R05d，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XA** — GR 网络网店 → 维持 A（轻卡）
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：在线（hellasdigital.gr，快照 2026-10-29）：Hellas Digital - Online Shop
 - 一句话：网络设备网店（Hellas Digital，Glyfada）；MikroTik 官方分销，商用线可直接比价，工业线为零 → 新品类增量
 - 是什么人：网络设备网店（Hellas Digital，Glyfada）；规模：未量化
-- 在卖/在用：MikroTik（Master）
+- 在卖/在用：MikroTik（Master）、TP-Link、MikroTik
 - 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — MikroTik 渠道
 - 找得到人吗：info@hellasdigital.gr（来源库公开邮箱）；KP：无具名
 - 已触达：S 箱 2026-10-06 群发「24 Port PoE Managed Switch」→ 已发未回
@@ -88,6 +88,7 @@
 |---|---|---|---|---|
 | 来源库官网/名录核对 | Athens 【2026-09-28 R53 B段复筛达标升级】官网核对：Hellas Digital（雅典 Glyfada）在线商店 Networking。原 B-125 → 现 A-474，物理位置不动、原 B 号空置不回填；证据与原文摘录见批次文件。 证据：[1](https://www.hellasdigital.gr/)；批次：batch/contact_research_2026-09-28_R53_B复筛升级.json#A |  | https://hellasdigital.gr/ | 2026-09-28 |
 | S 箱群发记录 | S 箱 2026-10-06 发 info@hellasdigital.gr「24 Port PoE Managed Switch」，去 1 来 0 |  | data/gmail_s/2026-09_10群发名单_未入库.csv | 2026-10-06 |
+| 官网快照 | 官网在线；Hellas Digital - Online Shop | Welcome to our online shop. Find here Internet via Satellite, VoIP Systems, Fiber Optics, Wi-Fi, KNX Automations and more. Visit us now! | https://www.hellasdigital.gr/ | 2026-10-29 |
 
 草稿（英文，第二封；Simon 发，Agent 不发）：
 
@@ -106,4 +107,5 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/evidence/site_p1_hint。
+轻卡：本轮未外查，沿用来源库官网/名录核对。

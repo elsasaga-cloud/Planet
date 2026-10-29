@@ -25,7 +25,7 @@ s_mail: 7 msgs (out 7 / in 0), 2024-06-30 -> 2024-12-23
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -66,6 +66,7 @@ updated: 2026-10-29
 | 2026-04-29 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | Updated Ethernet Switches Links（Elsa 群发第 8/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(n) `from:e.sagatelecom to:saxco.com.my` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2026-09-08 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | 24 Port PoE Managed Switch（Elsa 群发第 9/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(n) `from:e.sagatelecom to:saxco.com.my` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：主动联系 问了network switch security products distributor | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：saxco.com.my MX smtp.google.com.；A 104.21.18.103 / 172.67.181.148；NS hazel.ns.cloudflare.com. / woz.ns.cloudflare.com. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -134,7 +135,8 @@ updated: 2026-10-29
   > 兴趣：主动联系 问了network switch security products distributor
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Heng Lee Sun（Purchaser（研究档；主动问网络交换机）= 收件人 — 一页纸一次：分销 20% B、摄像机 PoE STC-028GP $28 / STC-228GP / STC-2216GP / STC-2224GP 一口价 + MOQ 1 + 付费样机 — 马来西亚常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、SIRIM 不声称（第 119 批 官方登记核实 2026-10-28））purchaser5@saxco.com.my +60 12 418 8623〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 （无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照 HTTP 错误 + 表内））
@@ -154,12 +156,12 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——安防分销配套 8 PoE 管理机（$80.7 @20%）。
 - **邮件切入句（英文）**：Ms. Heng, following your switch enquiry — 8-PoE + 2-SFP managed $81, 16-PoE $137.5, 24-PoE $135 EXW (Marvell L2+ on the 8/24); which sizes do your CCTV dealers pull most?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：saxco.com.my
-  > https://saxco.com.my/ http 403 ct=text/html; charset=utf-8
-  > https://www.saxco.com.my/ http 403 ct=text/html; charset=utf-8
-  > http://saxco.com.my/ http 403 ct=text/html; charset=utf-8
+  > https://saxco.com.my/ http 401 ct=text/html; charset=utf-8
+  > https://www.saxco.com.my/ http 401 ct=text/html; charset=utf-8
+  > http://saxco.com.my/ http 401 ct=text/html; charset=utf-8
 - **提示**：抓取失败不代表公司不在；人工打开一次即可。
 - 数据文件：`data/saga_clients/site_snapshots/SB-307.json`
 
@@ -190,7 +192,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-307/`；本节随档案重渲染刷新，实时看日志。
 

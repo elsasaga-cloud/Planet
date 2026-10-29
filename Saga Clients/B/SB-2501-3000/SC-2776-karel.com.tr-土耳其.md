@@ -29,7 +29,7 @@ s_mail: 8 msgs (out 8 / in 0), 2024-07-02 -> 2025-11-28
 p1: STC-424XGGPM-280W
 price_tier: 30%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -59,6 +59,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ★ 土耳其主区 · 巨头品牌商 OEM 30%（长线）：Karel Elektronik Sanayi ve Ticaret A.Ş.（Ankara Cyberpark 总部 + Sincan OSB 工厂；1986；≈ 2,500 人；100% 土耳其资本；IT 500 本土 IT 制造第一）部分坐实（ticaret sicil 未取）；Simon 二筛「用的丰润达的」= 已用中国 OEM ✔ 自有品牌 ✔ 土耳其主区 ✔ → P 池候选（无邮箱 → 先找 Satın Alma 路径；Simon 原「判定不行」可按编号否决） | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 登记底数（registry） | TR · 1 次检索：taysad.org.tr 会员页（法人名 / Cyberpark 地址）+ ostimsavunma.org（1986 / 2,500 人 / Sincan 工厂 / 出口 30+ 国）+ alo118（工厂地址）；ticaret sicil 未取；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Karel | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -114,10 +115,11 @@ updated: 2026-10-29
 - **【长期群复核 LT-R02】桌面复核（闸 2 证据充分，三问成立）：★ 土耳其主区 · 巨头品牌商 OEM 30%（长线）：Karel Elektronik Sanayi ve Ticaret A.Ş.（Ankara Cyberpark 总部 + Sincan OSB 工厂；1986；≈ 2,500 人；100% 土耳其资本；IT 500 本土 IT 制造第一）部分坐实（ticaret sicil 未取）；Simon 二筛「用的丰润达的」= 已用中国 OEM ✔ 自有品牌 ✔ 土耳其主区 ✔ → P 池…；备注：≈2,500 人巨头 → 长线（不期待快单，季度一封新品即可）**
   > 来源：（抓取 2026-10-29）
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 土耳其主区 · 巨头品牌商 OEM 30%（长线）：Karel Elektronik Sanayi ve Ticaret A.Ş.（Ankara Cyberpark 总部 + Sincan OSB 工厂；1986；≈ 2,500 人；100% 土耳其资本；IT 500 本土 IT 制造第一）部分坐实（ticaret sicil 未取）；Simon 二筛「用的丰润达的」= 已用中国 OEM ✔…；闸 1：土耳其 Karel（karel.com.tr 正常；Simon 二筛备注「用的丰润达的」✔ = 已采购中国 OEM 商业 PoE 交换机；Karel = 土耳其本土通信 / 网络设备品牌厂 → OEM 品牌商首选对象；无邮箱）：土耳其四主…
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/saga_fit.basis/deep/facts。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -130,6 +132,20 @@ updated: 2026-10-29
   - 表内兴趣：商业POE
 - **风险/边界**：登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号
 - **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——默认对位（巨头品牌商 OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://www.karel.com.tr/　语言：tr　站点地图 URL 数：1079
+- **标题**：Karel
+- **首页栏目**：İletişim
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：ethernet 14、ftth 10、fiber 6、wifi 1
+- **站内型号串**（正则抽取，含非交换机）：WE105, VP129, IP138, IP136, IP132G, IP131, IP313G, IP311P, IP310P, IP310, IP216G, IP214G
+- **站内公开邮箱**：destek@karel.com.tr, satis@karel.com.tr
+- **社媒**：https://twitter.com/karelcomtr, https://www.facebook.com/Karel.ComTr, https://www.instagram.com/karelcomtr, https://www.linkedin.com/company/karel-tr, https://www.linkedin.com/company/karel-tr/, https://www.youtube.com/karelcomtr
+- **产品类页面**：https://www.karel.com.tr/blog/yonetilebilir-ethernet-switchlerin-4-avantaji；https://www.karel.com.tr/blog/hayatimizi-degistirecek-20-teknolojik-urun；https://www.karel.com.tr/bilgi/cctv-sisteminde-hangi-ek-urunler-kullanilir；https://www.karel.com.tr/blog/urununuzu-satmak-icin-asmaniz-gereken-4-engel；https://www.karel.com.tr/blog/sirketiniz-icin-teknoloji-urun-ve-cozumu-secimi；https://www.karel.com.tr/blog/teknoloji-gelistirmede-toplum-ve-kulturun-etkisi
+- **已抓子页**：[İletişim Ürünleri / Karel](https://www.karel.com.tr/iletisim-sistemleri/iletisim-urunleri)；[Hemşire Çağrı Sistemleri / Karel](https://www.karel.com.tr/iletisim-sistemleri/iletisim-urunleri/hemsire-cagri-sistemleri)；[Çağrı Merkezi Çözümleri ve Yazılım Sistemleri / Karel](https://karelbulut.com/cagri-merkezi/)；[Karel CRM Müşteri İlişkileri Yönetim Sistemi / Karel](https://karelbulut.com/crm)；[Telefonlar / Karel](https://www.karel.com.tr/iletisim-teknolojileri/iletisim-urunleri/telefonlar)；[ViPort Video Konferans / Karel](https://www.karel.com.tr/iletisim-sistemleri/iletisim-urunleri/video-konferans)
+- 首页正文摘录：Ana içeriğe atla İletişim Teknolojileri Savunma Teknolojileri Saha Operasyonları Otomotiv Teknolojileri Elektronik Üretim Online İşlemler İletişim Ürünleri Operatör Hizmetleri Entegre Çözümler Sektörel Çözümler Teknoloji Bazlı Çözümler Firma Büyüklüğüne Göre Çözümler Entegrasyonlar ve API Dökümanları Müşteri Hizmetleri Yetkili Satıcılar ve Servisler Çözüm Ortakları ve Dağıtıcılar Referanslar Abonelik İşlemleri Giriş 
+- 数据文件：`data/saga_clients/site_snapshots/SC-2776.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -159,12 +175,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-2776/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://karel.com.tr/) | html | 待首轮 | — | 官网首页 |
+| [home](https://karel.com.tr/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 7717 字符；首行：Karel |
 
 ## 联系方式（已有 · 原值照录）
 

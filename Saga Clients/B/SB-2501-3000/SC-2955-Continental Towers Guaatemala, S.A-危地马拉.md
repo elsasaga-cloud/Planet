@@ -29,7 +29,7 @@ s_mail: 1 msgs (out 1 / in 0), 2024-06-18 -> 2024-06-18
 p1: STC-2216GP
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -59,6 +59,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | △ 观察档 · 成单复购回访：Continental Towers Guatemala S.A.（1 查命中 Continental Towers Corp LATAM：拉美铁塔商，2008，Terra Towers 旗下，11–50 人；mip.com.gt 域名未直接命中）部分坐实；成单 ✔ 复购 ✔ ≥2 条，区域外 + 终端自用 → 入池观察档；Simon 曾判不行，可否决 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 登记底数（registry） | GT · 1 次检索：rocketreach（规模 / 地址）+ linkedin（定位 / 分部）+ pitchbook（2008；Terra Towers）；mip.com.gt 法人未直接命中；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Home - MIP — DIVISIONES Ver Más Built to Suit Buy and Leaseback Oficinas Corporativas Centros Comerciales Nuestros Clientes | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -115,10 +116,11 @@ updated: 2026-10-29
 - **KP**：—（表内邮箱（公开 / 总机））info@mip.com.gt 〔〕
 - **KP**：—（表内邮箱（公开 / 总机））sistemas@mip.com.gt 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · 成单复购回访：Continental Towers Guatemala S.A.（1 查命中 Continental Towers Corp LATAM：拉美铁塔商，2008，Terra Towers 旗下，11–50 人；mip.com.gt 域名未直接命中）部分坐实；成单 ✔ 复购 ✔ ≥2 条，区域外 + 终端自用 → 入池观察档；Simon 曾判不行，可否决；闸 1：危地马拉 Continental Towers（mip.com.gt）：「下过两次单买 2 光 3 电和收发器」= 复购户（表内 deal 词未被机器识别）；英语不好；Simon 曾判不行 → 闸 2 核成交记录再定
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：saga_fit.basis/deep/facts。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -132,6 +134,16 @@ updated: 2026-10-29
 英语不好
 - **风险/边界**：**复购终端回访 → 直客价（分销 20% 口径）：一页纸一次（STC-228GP 2 光 / STI-154GP 站点用 + STC-110XGE MC + MOQ 1；西语一句问候可加）— 区域外常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳；低频一页纸**；区域外低频；登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号
 - **Saga 对位结论**：P1 STC-2216GP（25% 档）——默认对位（终端 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://mip.com.gt/　语言：es　站点地图 URL 数：47
+- **标题**：Home - MIP
+- **描述**：DIVISIONES Ver Más Built to Suit Buy and Leaseback Oficinas Corporativas Centros Comerciales Nuestros Clientes
+- **首页栏目**：Multinational Investments & Projects / DIVISIONES / Nuestros Clientes / Bienvenido / Inicio de Sesión
+- **已抓子页**：[Contáctenos - MIP](https://mip.com.gt/contactenos/)
+- 首页正文摘录：Ir al contenido Nosotros Alternar menú Quienes Somos Valores Politica SST Decálogo de Valores Institucional Divisiones Disponibilidad Portafolio Clientes Contáctenos Buscar por: Buscar Buscar Multinational Investments & Projects Main Menu Multinational Investments & Projects Nosotros Alternar menú Quienes Somos Valores Politica SST Decálogo de Valores Institucional Divisiones Disponibilidad Portafolio Clientes Contác
+- 数据文件：`data/saga_clients/site_snapshots/SC-2955.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -153,12 +165,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-2955/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://mip.com.gt/) | html | 待首轮 | — | 官网首页 |
+| [home](https://mip.com.gt/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 1204 字符；首行：Home - MIP |
 
 ## 联系方式（已有 · 原值照录）
 

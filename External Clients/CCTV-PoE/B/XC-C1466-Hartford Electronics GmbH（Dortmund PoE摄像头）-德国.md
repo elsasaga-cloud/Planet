@@ -1,6 +1,6 @@
 # XC-C1466 · Hartford Electronics GmbH（Dortmund PoE摄像头） · 德国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 安防（报警 / 视频 / 传感）制造 + 分销 20–30%：Hartford Electronics GmbH（Dortmund；HRB 28743 Amtsgericht Dortmund；资本 €25,000）坐实；自有 PoE 摄像线 → 交换机捆绑 / 贴牌对位；主区 DE；体量小 → ○；kundendienst@hartford-electronics.de（客服箱，待挖销售 K） ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:18677 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-02 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 安防（报警 / 视频 / 传感）制造 + 分销 20–30%：Hartford Electronics GmbH（Dortmund；HRB 28743 Amtsgericht Dortmund；资本 €25,000）坐实；自有 PoE 摄像线 → 交换机捆绑 / 贴牌对位；主区 DE；体量小 → ○；kundendienst@hartford-electronics.de（客服箱，待挖销售 K） ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:18677 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 >
 > **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：○ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 安防（报警 / 视频 / 传感）制造 + 分销 20–30%：Hartford Electronics GmbH（Dortmund；HRB 28743 Amtsgericht Dortmund；资本 €25,000）坐实；自有 PoE 摄像线 → 交换机捆绑 / 贴牌对位；主区 DE；体量小 → ○；kundendienst@hartford-electronics.de（客服箱，待挖销售 KP）
 
@@ -67,10 +67,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，X1-02，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XC** — X1-02 补路径：○ 安防（报警 / 视频 / 传感）制造 + 分销 20–30%：Hartford Electronics GmbH（Dortmund；HRB 28743 Amtsgericht Dortmund；资本 €25,000）（等级不动，池位见 sieve_x）
-- 活着吗：2026-10-29 检索命中官网 / 名录（在线）
+- 活着吗：在线（hartford-electronics.de，快照 2026-10-29）：HARTFORD Electronics – Sensortechnik
 - 一句话：Hartford Electronics GmbH：安防（报警 / 视频监控 / 传感技术）制造 + 分销
 - 是什么人：安防设备制造商/分销商；Hartford Electronics GmbH
 - 对口哪条线：Saga STI 工业 / SmartByte 商用 PoE — ○ 安防（报警 / 视频 / 传感）制造 + 分销 20–30%：Hartford Electronics GmbH（D
@@ -84,5 +84,7 @@
 |---|---|---|---|---|
 | 官网 / 名录 | openregister：Hartford Electronics GmbH · HRB 28743 Dortmund · Impressum 来源 |  | https://openregister.de/company/DE-HRB-R3201-22529 | 2026-10-29 |
 | 官网 / 名录 | Google Play 开发者信息：kundendienst@hartford-electronics.de · Rheinlanddamm 201 A · +49 231 96349150 |  | https://play.google.com/store/apps/details?id=com.berview.google.anroid&hl=en_US | 2026-10-29 |
+| 官网快照 | 官网在线；HARTFORD Electronics – Sensortechnik | HARTFORD Electronics – Sensortechnik | https://hartford-electronics.de/ | 2026-10-29 |
 
-- 备注：Hartford Electronics GmbH；Rheinlanddamm 201a, 44139 Dortmund；HRB 28743 Amtsgericht Dortmund；资本 €25,000；+49 231 96349150
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/evidence。
+Hartford Electronics GmbH；Rheinlanddamm 201a, 44139 Dortmund；HRB 28743 Amtsgericht Dortmund；资本 €25,000；+49 231 96349150

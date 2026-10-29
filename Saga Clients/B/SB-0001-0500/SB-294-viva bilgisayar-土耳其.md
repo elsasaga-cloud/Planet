@@ -27,7 +27,7 @@ last_contact: unknown
 p1: STI-288GP
 price_tier: 25%
 research: done
-site_snapshot: parked_or_empty  # 2026-10-21
+site_snapshot: parked_or_empty  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -57,6 +57,8 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 要工业级交换机 / 90 54464 91142 已加 | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：hisvisionhatay.com MX NXDOMAIN；A NXDOMAIN；NS NXDOMAIN | 长期客户群复核证据（非邮件事实，不计真回） | `` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：vivabilgisayar.com MX aspmx3.googlemail.com. / alt1.aspmx.l.google.com.；A 85.159.66.93；NS ns2.natrohost.com. / ns1.natrohost.com. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库
 
@@ -115,7 +117,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：在线
+- **状态：已调研（2026-10-21）**　网站状态：两域失效（vivabilgisayar.com 挂牌停放、hisvisionhatay.com NXDOMAIN，2026-10-29；MX 仍指 Google；路径 = WhatsApp）
 - **是谁**：土耳其哈塔伊（安塔基亚）的 IT/安防服务商 Viva Bilgisayar（2000/2002 年起；1–10 人（RocketReach 4 人）；Hikvision Hatay Silver Partner、项目集成商与经销商，兼 Dahua；业务：IP 摄像集成、网络基础设施、软件/网页设计、短信服务；业主 İsmet Yavuz；Sümerler Mah. 16. Sk. No:16/3 Defne/Hatay；+90 544 649 11 42；info@vivabilgisayar.net）。ISAF 记录：要工业级交换机；WhatsApp 已加；无后续跟进。
 - **在卖/在用品牌**：Hikvision（Silver Partner）, Dahua
 - **【官网】公司定位**
@@ -131,7 +133,8 @@ updated: 2026-10-29
   > 要工业级交换机 / 90 54464 91142 已加
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：İsmet Yavuz（业主（LinkedIn「Viva Bilgisayar」；Defne / Hatay 一人电脑 + 安防店，推定 şahıs 个体）= **老板 = 联系人**；**同名陷阱：İstanbul 的 Viva Bilgisayar 非本户**（第 90 批 官方登记核实 2026-10-27））is_ya@hotmail.com（公开 + 用户表） +90 544 649 11 42（公开，WhatsApp 已加）〔https://www.linkedin.com/in/ismet-yavuz-608269100/〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 （无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
@@ -151,7 +154,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-288GP（25% 档）——集成商 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP 非管理，−40~+75 ℃，$59.8）作 Hikvision 户外柜标配；管理型 STI-288DGGPM（$137.5）；4 口 STI-144GP（$35.5）
 - **邮件切入句（英文）**：İsmet Bey, ISAF'ta sorduğunuz endüstriyel switch: DIN ray 8 port gigabit PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD (yönetilebilir sürüm 137,5 USD); Hikvision saha panolarınız için ilk etapta kaç adet lazım?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：停放/空站（疑停业或仅占位））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：停放/空站（疑停业或仅占位））
 
 - 尝试域名：hisvisionhatay.com, vivabilgisayar.com
   > https://hisvisionhatay.com/ conn: HTTPSConnectionPool(host='hisvisionhatay.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionErro
@@ -170,7 +173,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-294/`；本节随档案重渲染刷新，实时看日志。
 

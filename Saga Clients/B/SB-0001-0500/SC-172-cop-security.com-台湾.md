@@ -187,16 +187,17 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-172/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://cop-security.com/) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
-| [sitemap](https://cop-security.com/sitemap.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 500 条） |
-| [news_1](https://cop-security.com/edcontent.php?lang=en&tb=3) | html | 待首轮 | — | 导航「News & Announcement」 |
-| [news_2](https://cop-security.com/edcontent.php?lang=en&tb=3&cid=6) | html | 待首轮 | — | 导航「Events」 |
-| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCjXRz4lZ8-bNWCj1uX4rSMg) | rss | 待首轮 | — | YouTube 频道 https://www.youtube.com/channel/UCjXRz4lZ8-bNWCj1uX4rSMg/videos |
+| [home](https://cop-security.com/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 4108 字符；首行：COP Security - We are the Specialist in Network Connection \| COP SECURITY SYST |
+| [sitemap](https://cop-security.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-29T15:11:51Z | 500 个 URL；最新 lastmod 2019-04-17T03:44:24 |
+| [news_1](https://cop-security.com/edcontent.php?lang=en&tb=3) | html | HTTP 200 | 2026-10-29T15:11:51Z | 1230 字符；首行：News \| COP SECURITY SYSTEM CORP. |
+| [news_2](https://cop-security.com/edcontent.php?lang=en&tb=3&cid=6) | html | HTTP 200 | 2026-10-29T15:11:51Z | 1388 字符；首行：News \| COP SECURITY SYSTEM CORP. |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCjXRz4lZ8-bNWCj1uX4rSMg) | rss | HTTP 200 | 2026-10-29T15:11:51Z | 15 条；最新：2026-08-06T12:25:03+00:00 【科寶電子】EA-NF1001-IDAS／IDBS DIP Switch 設定教學｜鏈路警報 (LFP)、流量控 |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/copalexcctv/；X/Twitter: https://twitter.com/cop_security；LinkedIn: https://www.linkedin.com/in/cop-security-11616b158/
 

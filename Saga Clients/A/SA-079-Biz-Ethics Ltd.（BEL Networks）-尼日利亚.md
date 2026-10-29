@@ -28,7 +28,7 @@ last_contact: unknown
 p1: STC-424XGGPM-280W
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: parked_or_empty  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -40,7 +40,7 @@ updated: 2026-10-29
 - **历史互动**：成交/下单过
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：BNSC-28GPM（= HRUI ZX-AFGM-82NS，Realtek 线）稳定补货；BNSC-424DGGPM（= SmartByte LT-S8328GP-4GX24GT-S）零星；Netstream 线 STC-424XGGPM-280W + STH-2C24XF-SFI 待复购 — 12 单、两套自有品牌、三条供应线都买过；WhatsApp 直达；毛利低但复购稳｜档位说明（原 tier 字段文字「RMB 货代走账（不走 USD 三档）」移此）：RMB 货代走账（不走 USD 三档）；绑定价（人民币，EXW 工厂直发到他的广州仓）：BNSC-28GPM ¥408（进 ¥355.1 → 13.0%）；BNSC-424DGGPM ¥946（进 ¥765 → 19.1%）；Netstream-42410G280W ¥1,100；BNSC-4168XGGCM ¥2,250；Netstream-24X100G-SFI（STH-2C24XF-SFI）¥7,500（2025-11）。下一批 BNSC-28GPM 按 ¥408 不动（Simon U28 绑定价）；若要回到 Realtek 20% 底线需 ¥444——这是 Simon 的决定，不在信里提；历史：2025-03 HRUI 进价 ¥335 时同一 ¥408 的毛利是 17.9%，上游 2026 涨到 ¥355.1 后变 13.0%——下次 HRUI 再涨就只能动价
 - **第一问（只问一个）**：Valentine, next BNSC-28GPM batch — same 12 pcs? And how are the two Netstream 24X100G cores running: any plan to add 25G/100G ports or more 10G-uplink PoE for that network?
-- **最大未知**：年走量与现供应商
+- **最大未知**：官网当前状态异常（停放/空站（疑停业或仅占位））——公司是否仍在运营待核
 - **下一步**：2026-11（BNSC-28GPM 上次 08-30，按 1–2 个月节奏到期） WhatsApp（Elsa 开 PI） 补货问一句的同时，第一次主动问 Netstream 线：两台 STH-2C24XF-SFI 用得怎样、要不要 25G/100G 扩容或第二台 10G 上联 PoE；别只等他报 BNSC 数量（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：tier 字段规范为数字）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
@@ -123,7 +123,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-22）**　网站状态：
+- **状态：已调研（2026-10-22）**　网站状态：快照失败（belnetworks.com：停放/空站（疑停业或仅占位），2026-10-29，第 1 次）
 - **是谁**：已成单 12 个单号（2024-09-08 → 2026-08-30，RMB 单据合计 ≈101k，货代走账）；SmartByte + HRUI + Hohunet 三家都采购过；Simon 标签：活跃 · 货代走账 · 轻度绑定；详见 research/SA-079.json
 - **类型**：网络设备经销/自有品牌 BNSC-（拉各斯）
 - **【PI】成交单据 STSC20240908012（CI，2024-09-08）：STC-228GP、STC-28GPM、STC-424DGGPM 共 42 台，RMB 25245.0；采购 HRUI、SmartByte RMB 18250.0**
@@ -166,6 +166,8 @@ updated: 2026-10-29
   > 来源：Extra Info.zip 根目录《客户绑定情况分析.docx》（data/extra_info_2026-10/text/Extra_Info__客户绑定情况分析.docx__6d196b92.json）（抓取 2026-10-22）
 - **KP**：Valentine Mbata（单据联系人）info@belnetworks.com 〔PI.zip 单据〕
 - **调研后定级**：A（原自动 A）——PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#1。
+
 
 ### 加厚挖掘（2026-10-23 · 公开平台核查（T29-U18，针对性：只核活跃平台与触达通道））
 
@@ -173,6 +175,12 @@ updated: 2026-10-29
 - **近况信号**：
   - ⚠ 2026-10-23 核查：客户邮箱域 belnetworks.com 自 2024-08-16 起由第三方注册并停放（不是客户的网站）。info@belnetworks.com 很可能收不到或被陌生人收到——对 Biz-Ethics 的任何报价/单据改走 WhatsApp +234 702 918 6461，并向 Valentine 要一个新邮箱；A 邮箱入库后核对 2024-09 以来与他们的邮件实际走的是哪个地址
 - **Saga 对位结论**：P1 待核型（无标准对应）（20% 档）——成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：停放/空站（疑停业或仅占位））
+
+- 尝试域名：belnetworks.com
+- **提示**：域名停放/空站 → 公司可能已停业或换域名；跟进前先用邮箱/电话核实，勿只凭网站判死。
+- 数据文件：`data/saga_clients/site_snapshots/SA-079.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -209,14 +217,14 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
+- **监控层**：成单精选层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
 - **最近变化摘要**：2026-10-29 domain_rdap：内容变化：+1 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-079/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [domain_home](https://belnetworks.com/) | html | HTTP 200 | 2026-10-23T02:54:23Z | 751 字符；首行：Your future website - 1st Domains |
-| [domain_rdap](https://rdap.verisign.com/com/v1/domain/belnetworks.com) | json | HTTP 200 | 2026-10-29T08:41:09Z | status=["active"]; events=[{"eventAction": "registration", "eventDate": "2024-08-16T06; na |
+| [domain_rdap](https://rdap.verisign.com/com/v1/domain/belnetworks.com) | json | HTTP 200 | 2026-10-29T15:11:51Z | status=["active"]; events=[{"eventAction": "registration", "eventDate": "2024-08-16T06; na |
 
 - **人工定期看（登录墙，不自动抓）**：LinkedIn 公司页未找到（搜索被美国 BEL Network Integration & Support / 比利时 Belnet 淹没）；ngcontacts.com 目录条目：BIZ-ETHICS LTD. 计算机网络/监控/门禁/电源设备；联系只剩 WhatsApp +234 702 918 6461（PI 单据）
 
@@ -293,6 +301,7 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
+- [ ] 官网当前状态异常（停放/空站（疑停业或仅占位））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -23,7 +23,7 @@ s_mail: 28 msgs (out 28 / in 0), 2024-06-20 -> 2026-09-17
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2026-09-17 | 去 | A/S 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 28 封 / 1 次打开 / 0 回｜首封 2024-06-20 → 末封 2026-09-17（28 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 商业POE ONV的 也有其他外壳 | 表内备注 | `用户表` |
 | 2026-09-17 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 ba7510510355d551；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `ba7510510355d551` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：atz.com.sg MX mail.atz.com.sg.；A 104.21.72.91 / 172.67.179.117；NS melinda.ns.cloudflare.com. / mitch.ns.cloudflare.com. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -126,7 +127,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（atz.com.sg：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（atz.com.sg：HTTP 错误，2026-10-29，第 2 次）
 - **是谁**：新加坡 ATZ（atz.com.sg；表内「商业 PoE ONV 的，也有其他外壳」；官网 http_error）；群发 14 次无回复。
 - **类型**：网络/安防经销商（新加坡，PoE 现 ONV）
 - **在卖/在用品牌**：ONV
@@ -136,7 +137,8 @@ updated: 2026-10-29
 - **【用户表】商业 PoE ONV 也有其他外壳**
   > 商业POE ONV的 也有其他外壳
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -157,7 +159,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——PoE（现 ONV 等）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）
 - **邮件切入句（英文）**：For the PoE switches you currently source from ONV and similar suppliers, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS, EXW USD — which PoE SKU do you reorder most?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：atz.com.sg
   > https://atz.com.sg/ http 403 ct=text/html; charset=utf-8
@@ -218,7 +220,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-346/`；本节随档案重渲染刷新，实时看日志。
 

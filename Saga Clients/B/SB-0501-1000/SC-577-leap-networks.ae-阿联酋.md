@@ -30,7 +30,7 @@ s_mail: 18 msgs (out 18 / in 0), 2025-03-31 -> 2026-09-25
 p1: STC-424DGGPM-280W
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -59,6 +59,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ○ 油气工业集成 25%：Leap Networks（Abu Dhabi；2012；11–20 人；CEO Muhammad Ashfaq = 表内具名 KP；ISO 9001 / 14001 / 45001；沙特姊妹公司 Leap Networks Arabia）部分坐实（执照未取）；决策人直达 ✔ 工业对位 ✔ → P 池候选；表内沙特 ↔ 总部阿联酋 备注待 Simon | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Telecom Systems Integration UAE \| Oil & Gas \| Leap Networks — ISO certified telecom systems engineering & integration company in UAE. Specialized in oil & gas, petrochemical industries. Greenfield & brownfield projects. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -122,10 +123,26 @@ updated: 2026-10-29
   > Leap Networks 官网 About：2012 成立；Guardian Office Tower, Al Murror Road, Dhafeer Street 407, Abu Dhabi 37855；CEO Muhammad Ashfaq（= 表内具名 KP muhammad.ashfaq@）；沙特为姊妹公司 Leap Networks Arabia
   > 来源：https://www.leap-networks.ae/about-us/（抓取 2026-10-29）
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 油气工业集成 25%：Leap Networks（Abu Dhabi；2012；11–20 人；CEO Muhammad Ashfaq = 表内具名 KP；ISO 9001 / 14001 / 45001；沙特姊妹公司 Leap Networks Arabia）部分坐实（执照未取）；决策人直达 ✔ 工业对位 ✔ → P 池候选；表内沙特 ↔ 总部阿联酋 备注待 Simon；闸 1：阿联酋 / 沙特 Leap Networks（leap-networks.ae；表内「4 光 4 管理 PoE 64 个」= 数量询盘；KP Tarek Bary，邮箱退信 8 次但域正常，+971 手机在表）：数量信号 ✔ 对位 ✔ 退…
-- 备注：T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。
+T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。
 
-### 加厚挖掘（2026-10-29 · 邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://www.leap-networks.ae/　语言：en-US　站点地图 URL 数：30
+- **标题**：Telecom Systems Integration UAE / Oil & Gas / Leap Networks
+- **描述**：ISO certified telecom systems engineering & integration company in UAE. Specialized in oil & gas, petrochemical industries. Greenfield & brownfield projects.
+- **首页栏目**：Continuous pursuit of differentiation and excellence / About us / key solutions / Services / Markets / Discover Our Location / Engineering Excellence. Complete Solutions. Reliable Partnership.
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：telecom 47、cctv 4、access control 4、fibre 2、wireless 2、cable 2、switch 1、industrial 1、ethernet 1、surveillance 1
+- **站内型号串**（正则抽取，含非交换机）：MPT1327
+- **站内公开邮箱**：inquiry@leap-networks.ae
+- **站内公开电话**：+971 2 816 0470
+- **已抓子页**：[LAN/WAN Network Solutions / Leap Networks UAE](https://www.leap-networks.ae/solution/lan-wan-networks/)；[Security Networks Solutions / Leap Networks UAE](https://www.leap-networks.ae/solution/security-networks/)；[IP-Based Networks - Leap Networks](https://www.leap-networks.ae/solution/ip-based-networks/)；[Telephone Networks - Leap Networks](https://www.leap-networks.ae/solution/telephone-networks/)；[Trunked Radio Networks / Leap Networks UAE](https://www.leap-networks.ae/solution/trunk-radio-networks/)；[Microwave Radio Networks - Leap Networks](https://www.leap-networks.ae/solution/micro-wave-radio-networks/)
+- 首页正文摘录：Home About Us Projects Services Front End Engineering Design (Feed) & Basic Engineering Detailed Engineering Design Project Management Procurement Systems Integration Site Installation & Commissioning After Sales Service Solutions Security Networks Trunked Radio Networks LAN/WAN Networks IP-Based Networks Integrated Communication Console (ICC) Satellite Communication Networks (VSAT) Cybersecurity Solutions Telephone 
+- **自动对位建议**：STC-28DGGPM（官网快照对位：交换机词频 1、无 PoE/工业侧重 → 8 口 L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SC-577.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -170,12 +187,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-577/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://leap-networks.ae/) | html | 待首轮 | — | 官网首页 |
+| [home](https://leap-networks.ae/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 6275 字符；首行：Telecom Systems Integration UAE \| Oil & Gas \| Leap Networks |
 
 ## 联系方式（已有 · 原值照录）
 

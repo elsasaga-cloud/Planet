@@ -29,7 +29,7 @@ s_mail: 67 msgs (out 32 / in 35), 2025-10-13 -> 2026-08-12
 p1: none
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -107,6 +107,7 @@ updated: 2026-10-29
 | 2026-03-02 | 去 | Saga（Alan） | Hi, Ender, Thanks for your information. 1. For those 3 units, it is Layer 2+, not L3 We can provide L3 models as you may notice from the links. But still PIM-SM/DM and RIPng/PBR are the main issue. It is just NOT available with the current chipset solution. This info can be found in Saga Software Fu… | Saga 实质答复原文（主题「Re: Industrial L2/L3 Managed Switches」；第 20 批从 gmail_a 回补）——承诺/口径以此为准 | `812cebfaec6cbb12` |
 | 2026-07-17 | 去 | Alan | We updated our feature list. 1. Our models are now Marvell AC5 based. 2. This update focuses on L2+ features | 最后一次触达，未提 7.5 已有 PIM-SM（对 Go Green IT 7-10 的邮件提了） | `a323d408b374a3d1` |
 | 2026-08-12 | 来 | compliance@netas.com.tr（季度群发） | Q4/2025（02-09）、Q1/2026（05-05）、Q2/2026（08-12）三期《A Letter from Chief Export Compliance Officer to Business Partners》+ 2026-03-02《2025-2026 ZTE 出口管制合规政策与管理承诺》均发到 A 邮箱 | Saga 仍在 Netaş「业务伙伴」合规分发名单上（最近一期 2026-08-12）——供应商账号没有被清理，是被动绑定仍在的硬证据；Netaş 是 ZTE 参股公司，其合规口径跟 ZTE 走：下次报 CENTEC（国产芯片）或任何含美国成分的型号前，ECCN/EAR99 表要和 2025-12 那份一致 | `gmail_a 2026-02-09 / 2026-03-02 / 2026-05-05 / 2026-08-12` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | NETAŞ - Bilgi ve İletişim Teknolojileri — Bilgi ve iletişim teknolojileri alanında, uçtan uca katma değerli çözümler, sistem entegrasyonu ve teknoloji hizmetleri sunuyoruz. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：两箱核对完毕（A 箱 20,521 封全入）：Netaş 最早往来 = 2025-10-13 Alan 开发信 → Emre Bulut 当天回「May be Simon has already told you」；S 邮箱 0 封——Simon 与 Emre 的「更早接触」不在邮件里（LinkedIn/展会/电话），仓内无记录，不去猜；留在客户处那台样机的测试结论（对方未反馈）；《基于Netas的推广计划》9 家目标中只有 Karel 建档（SC-2776，C 级 = 用户表「用户判定不行」，S 邮箱 2024-07 → 2025-11 去 8 封 0 回）；Krontech / KocSistem / Teknoser / NGN / Tellcom / Berqnet / Probil / Biznet 未建档——土耳其 2027 线开工前要先建档（编号冻结期不新建）
 
@@ -210,9 +211,10 @@ updated: 2026-10-29
 - **KP**：Özlem Şahin (Uçak)（Netaş 同事，2026-01-23 / 01-27 两封来信（同串抄送/代答；职务待核））ozlem.ucak@netas.com.tr 〔A 邮箱 2026-01 来信表头〕
 - **KP**：Netaş Compliance（合规部）（2026-02→08 六封合规/供应商文件往来（供应商合规流程的发件方，非采购））compliance@netas.com.tr 〔A 邮箱 2026-02-09→08-12 来信表头〕
 - **调研后定级**：A（原自动 A）——规模大 + 守界：BIST 上市电信设备/系统集成巨头（1967 年成立；约 1,264–1,403 名员工；ZTE 持股 48.05%、土耳其武装部队基金会持股 15%）——集团级采购、ZTE 供应链关联且军方基金会股东，超出 Saga 可赢范围；PI 包成单客户，Simon 标签 活跃 → A
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（年报核对 → 规模大降 C））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（年报核对 → 规模大降 C） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -230,6 +232,22 @@ updated: 2026-10-29
 - **风险/边界**：集团采购 + ZTE 关联 + 军方基金会股东 → C
 - **Saga 对位结论**：P1 待核型（无标准对应）（25% 档）——不推进
 - **邮件切入句（英文）**：（不主动发送）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://netas.com.tr/　语言：tr-TR　站点地图 URL 数：478
+- **标题**：NETAŞ - Bilgi ve İletişim Teknolojileri
+- **描述**：Bilgi ve iletişim teknolojileri alanında, uçtan uca katma değerli çözümler, sistem entegrasyonu ve teknoloji hizmetleri sunuyoruz.
+- **首页栏目**：Yeteneklerimizi Sizin için Kullanıyoruz! / Üstün ArGe Yeteneği / Kaliteli Üretim / Profesyonel Servisler / Global İş Ortakları / Teknoloji Eğitim Merkezi / Akıllı Teknolojilerimizle Dijital Dönüşümde Yanınızdayız! / Başarı Hikayeleri
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：ethernet 6、fiber 3、telecom 1
+- **站内型号串**（正则抽取，含非交换机）：NCS6712, NCS6712A, NCS6722, NCS6722A, NCS6742, NCS6742A, NCS6744, TN-1XE, ISO45001, AS9100
+- **站内公开邮箱**：info@netas.com.tr, kalite-yonetimi-netas.netas-bdhkalite@mail.xurrent.com, kvkk@netas.com.tr, netas@hs02.kep.tr
+- **站内公开电话**：+90 (216) 394 53 23, +90 (216) 500 17 00, +90 (216) 522 20 00, +90 (232) 445 33 33, +90 (312) 210 18 08, +90(216) 522 20 00
+- **社媒**：https://twitter.com/netastr, https://www.facebook.com/NetasTR, https://www.facebook.com/netastr/, https://www.instagram.com/netastr, https://www.instagram.com/netastr/, https://www.linkedin.com/company/netas
+- **产品类页面**：https://netas.com.tr/tuketim-urunleri-sektorunde-donusum；https://netas.com.tr/zte-ve-nubianin-online-magazasi-zteshop-acildi；https://netas.com.tr/mobil-cihaz-parkurunda-hizli-cevik-ve-surdurulebilir-test；https://netas.com.tr/netas-visium-farma-buyuk-firma-dalinda-yenilikci-urun-odulu；https://netas.com.tr/netas-ve-bogazici-universitesi-global-urun-gelistirmek-uzere-is-birligi-yapti
+- **已抓子页**：[İletişim - Netas Telekomünikasyon A.Ş.](https://netas.com.tr/iletisim)；[Hakkımızda - Netas Telekomünikasyon A.Ş.](https://netas.com.tr/hakkimizda)；[Yerli ve İleri Haberleşme Sistemleri Tasarımı- NETAŞ](https://netas.com.tr/stratejik-iletisim-cozumleri)；[Netaş Ağ Operasyon Merkezi - NETAŞ](https://netas.com.tr/netas-ag-operasyon-merkezi)
+- 首页正文摘录：Kariyer İletişim < MENU MENU MENU MENU Ürünler ÜRÜN AİLEMİZLE SİZE ÖZEL ÇÖZÜMLER SUNUYORUZ. Yerli Bulut Sunucu Serisi Netaş N3 Bulut Sunucu Netaş N4 Bulut Sunucu Netaş N4 NCS6712 Netaş N4 NCS6712A Netaş N4 NCS6722 Netaş N4 NCS6722A Netaş N4 NCS6742 Netaş N4 NCS6742A Netaş N4 NCS6744 Nesnelerin İnterneti (IOT) ION Servis Yönetimi Mobi-fi Etkinlik Yönetimi ve Bilet Satışı Akıllı Etkinlik Yönetimi Yüksek Güvenlikli Medy
+- 数据文件：`data/saga_clients/site_snapshots/SA-086.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -268,7 +286,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：4 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：成单精选层　|　**自动源**：4 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-086/`；本节随档案重渲染刷新，实时看日志。
 

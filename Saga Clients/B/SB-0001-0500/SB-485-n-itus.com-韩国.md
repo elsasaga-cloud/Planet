@@ -28,7 +28,7 @@ s_mail: 14 msgs (out 13 / in 1), 2024-06-28 -> 2026-03-30
 p1: none
 price_tier: 30%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -140,7 +140,8 @@ updated: 2026-10-29
 - **KP**：Y. H. Ahn（N-iTUS 研究档 KP（2025-11 回「Price and ODM」）= 收件人；대표 장세봉 = 拍板人（第 115 批 官方登记核实 2026-10-28））yhahn@n-itus.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Peter（Director（邮箱退信 → 地址失效、不再发）（第 115 批 官方登记核实 2026-10-28））peter01@n-itus.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：장세봉 Jang Se-bong（대표이사 엔아이투스(주) N-iTUS Co., Ltd.（bizno / catch）= 拍板人（第 115 批 官方登记核实 2026-10-28）） 〔https://bizno.net/article/1198600900〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 （无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照 HTTP 错误 + 表内））
@@ -160,7 +161,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 待核型（无标准对应）（30% 档）——其询价对象为升压 PoE 款（价目无，待 Q-32 / SmartByte 另询）；ODM 口径 30%；常规商用线 STC-28DGGPM 备选。
 - **邮件切入句（英文）**：Mr. Ahn, on the PoE boost (voltage-step-up) model you asked price and ODM for — to quote we need target input voltage range and PoE budget; meanwhile, the standard 8-PoE + 2-SFP L2+ is available ODM from small lots.
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：n-itus.com
   > https://n-itus.com/ http 403 ct=text/html; charset=iso-8859-1
@@ -203,7 +204,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-485/`；本节随档案重渲染刷新，实时看日志。
 

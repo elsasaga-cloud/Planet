@@ -1,6 +1,6 @@
 # XA-M175 · HD Technology · 法国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 mikrotik-info `B-524`（原评级 B，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W2-R05c 2026-10-27）→ 下一动作 首触
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 mikrotik-info `B-524`（原评级 B，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 首触
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱（含实名 KP）
@@ -76,10 +76,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W2-R05c，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XA** — FR 工业分销、未触达 → A 首触（轻卡）
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：在线（hdtechnology.com，快照 2026-10-29）：HD Technology, Editeur et Intégrateur de Solution MES
 - 一句话：MES 软件商兼工业硬件分销（HD Technology，Bron/Lyon；30 年，Red Lion/N-Tron 官方分销，store.hdtechnology.com）；卖 N-Tron/Red Lion 工业交换机（8口非网管约 $500+）→ 中性货同规格 STI-280GE（Saga）约 $64（EXW 快照，15 天有效），做第二供应商，价差 5 倍
 - 是什么人：MES 软件商兼工业硬件分销（HD Technology，Bron/Lyon；30 年，Red Lion/N-Tron 官方分销，store.hdtechnology.com）；规模：未量化
 - 在卖/在用：N-Tron、Red Lion
@@ -93,6 +93,7 @@
 | 类型 | 说明 | 摘录 | 来源 | 日期 |
 |---|---|---|---|---|
 | 来源库官网/名录核对 | 本行由分销商名录批量导入，三星依据仅为渠道等级（分销（HMS/N-Tron·Red Lion 渠道））与「N-Tron + Red Lion」，尚无人工核实。建议先查证其是否已有工业交换机 / PoE++ 产品线，再定切入型号 【2026-09-28 R49 邮箱补录】来源等级：official-company。官网联系页正文可见：contact@hdtechnology.fr。待补标记解除；C→B 回升（原下放原因=无邮箱）。 证据： |  | https://hdtechnology.com/ | 2026-09-28 |
+| 官网快照 | 官网在线；HD Technology, Editeur et Intégrateur de Solution MES | HD Technology, Editeur et Intégrateur de Solution MES | https://www.hdtechnology.com/ | 2026-10-29 |
 
 草稿（英文，首触；Simon 发，Agent 不发）：
 
@@ -111,4 +112,5 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：本轮 web_search：redlion.net/fr/distributeurs/technologie-hd；store.hdtechnology.com/red-lion。 轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence。
+本轮 web_search：redlion.net/fr/distributeurs/technologie-hd；store.hdtechnology.com/red-lion。 轻卡：本轮未外查，沿用来源库官网/名录核对。

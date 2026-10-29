@@ -28,7 +28,7 @@ s_mail: 8 msgs (out 8 / in 0), 2026-03-23 -> 2026-10-01
 p1: STC-424DGGPM-280W
 price_tier: 25%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -40,7 +40,7 @@ updated: 2026-10-29
 - **历史互动**：实质回复 3 次；WhatsApp 已加；推送 23 次（2023-11-29 → 2025-10-27）；最近一次客户回复：2024-10-25：最近来中国
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — ELV 项目 PoE（他问过 HDMI 转换器，不做）→ 24 口 PoE+ 管理 + 8 口 PoE+ 2 SFP 两款 EXW，带 CE 文件；—；群发里他已看到的价（续）：2026-07-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-04-29 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：We do not build HDMI converters, but for the camera and ELV closets in your projects the Marvell-based 24-port PoE+ managed switch and the 8-port PoE+ 2 SFP unit are the two I can quote EXW with CE files.
-- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
+- **最大未知**：年走量与现供应商
 - **下一步**：按 WA 节奏 WhatsApp WA（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
@@ -61,6 +61,7 @@ updated: 2026-10-29
 | 2024-06-18 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「发了几个商业交换机图」→ 对方「需要工业级的」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.38 2024.6.18` |
 | 2024-08-17 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「passive poe手册」→ 对方「price」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.38 2024.8.17` |
 | 2024-10-25 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「8电口」→ 对方「最近来中国」 | Simon 跟进表里的回应记录（邮箱看不到的渠道）；按原文留存 | `Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.38 1025` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | System Integrator in UAE \| Tecpro Solutions — Tecpro Solutions is UAE's trusted system integrator with 20+ years' experience in IT infrastructure, smart buildings & digital transformation. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文
 
@@ -130,6 +131,7 @@ updated: 2026-10-29
 - **是谁**：阿联酋 IT + ELV 系统集成商（IT 基础设施、智能楼宇、安防、BMS），2004 年创立，迪拜/阿布扎比/艾因/印度科钦设办公室，11–50 人；用户记录 3 次回复并已加 WhatsApp（Rafi），询过 HDMI 转换器。
 - **类型**：系统集成商（IT/ELV）
 - **规模**：小型（11–50 人，3 个本地办公室）
+- **在卖/在用品牌**：Ubiquiti
 - **【官网】20+ 年经验的阿联酋系统集成商，覆盖政府/企业/银行/机场/医疗/教育/酒店/电信**
   > Tecpro Solutions, a leading System Integrator in UAE brings over 20+ years of industry experience… government, corporate, banking, airports, healthcare, education, hospitality, telecom, and contracting
   > 来源：https://www.tecprosolutions.com/（抓取 2026-10-21）
@@ -153,10 +155,11 @@ updated: 2026-10-29
   > 来源：https://www.protenders.com/companies/tecpro-solutions-llc（抓取 2026-10-21）
 - **KP**：Mohammed Rafi（Executive Director） +971 50 4489928（用户记录 WA）〔用户 Clients 表 + LinkedIn 职务〕
 - **KP**：MD Shereef（（用户记录））shereef@tecprosolutions.com 〔用户 Clients 表〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 3 次回复 + WA 在线 + 高管级联系人；集成商身份与 ELV 项目用 PoE 交换机高度相关，虽历史询盘为 HDMI 转换器（Saga 不做）。中东非主攻区但可直接转为项目报价。P1：STC-424DGGPM-280W（楼宇安防 24 口 PoE），项目价阶 25%。
 
-### 加厚挖掘（2026-10-21 · 深挖 v2（官网 2026 新闻 + 名录核对））
+### 加厚挖掘（2026-10-21 · 深挖 v2（官网 2026 新闻 + 名录核对） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -181,14 +184,21 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-424DGGPM-280W（25% 档）——ELV/安防项目接入：STC-424DGGPM-280W + STC-28DGGPM；集成商 25% 档；HDMI 不供，明确告知
 - **邮件切入句（英文）**：We do not build HDMI converters, but for the camera and ELV closets in your projects the Marvell-based 24-port PoE+ managed switch and the 8-port PoE+ 2 SFP unit are the two I can quote EXW with CE files.
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
 
-- 尝试域名：tecprosolutions.com
-  > https://tecprosolutions.com/ http 403 ct=text/html; charset=utf-8
-  > https://www.tecprosolutions.com/ http 403 ct=text/html; charset=utf-8
-  > http://tecprosolutions.com/ http 403 ct=text/html; charset=utf-8
-- **提示**：抓取失败不代表公司不在；人工打开一次即可。
-- 数据文件：`data/saga_clients/site_snapshots/SA-051.json`
+- **首页**：https://www.tecprosolutions.com/　语言：en-US　站点地图 URL 数：61
+- **标题**：System Integrator in UAE / Tecpro Solutions
+- **描述**：Tecpro Solutions is UAE's trusted system integrator with 20+ years' experience in IT infrastructure, smart buildings & digital transformation.
+- **首页栏目**：Future-Ready / Cutting Edge IT Solutions / A place where innovation thrive every day / Driven by Trust, Powered by Technology / Our Success Stories / A Glimpse Into Our World / What Our Clients Say / Latest News & Insights from The Industry
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：access control 44、cctv 39、surveillance 37、automation 30、wireless 29、integrator 10、industrial 3、telecom 3、data center 3、switch 2、camera 1、distributor 1
+- **站内出现的品牌**：Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内公开邮箱**：dxb@tecprosolutions.com
+- **站内公开电话**：00971 2 6767373 00971 52 9250500, 00971 3 7662264 00971 52 913 9002, 00971 4 3266881 00971 52 9250501
+- **社媒**：https://twitter.com/intent/tweet?text=Tecpro+Solutions+Expands+Sustainability+Portfolio+with+CLIMACERT+X+Partnership&url=https%3A%2F%2Fwww.tecprosolutions.com%2Ftecpro-solutions-expands-sustainability-portfolio-with-climacert-x-partnership%2F, https://twitter.com/intent/tweet?text=Unified+Physical+Security%3A+Integrating+CCTV%2C+Access+Control%2C+Perimeter+Security%2C+and+Intelligent+Monitoring&url=https%3A%2F%2Fwww.tecprosolutions.com%2Funified-physical-security-integrating-cctv-access-control-perimeter-security-and-intelligent-monitoring%2F, https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.tecprosolutions.com%2Ftecpro-solutions-expands-sustainability-portfolio-with-climacert-x-partnership%2F, https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.tecprosolutions.com%2Funified-physical-security-integrating-cctv-access-control-perimeter-security-and-intelligent-monitoring%2F, https://www.facebook.com/tecprosolutionsindia, https://www.instagram.com/tecprosolutions/
+- **已抓子页**：[CCTV Surveillance System / Tecpro Solution UAE](https://www.tecprosolutions.com/cctv-surveillance-system/)；[Tecpro Solutions Partners with CLIMACERT X](https://www.tecprosolutions.com/tecpro-solutions-expands-sustainability-portfolio-with-climacert-x-partnership/)；[About Tecpro Solutions - Leading IT Integrator](https://www.tecprosolutions.com/overview/)；[Contact Tecpro Solutions / IT Services UAE](https://www.tecprosolutions.com/contact-us/)；[Network Management Services / Tecpro Solutions](https://www.tecprosolutions.com/network-management/)；[Unified Physical Security Solutions / Tecpro](https://www.tecprosolutions.com/unified-physical-security-integrating-cctv-access-control-perimeter-security-and-intelligent-monitoring/)
+- 首页正文摘录：Skip to content Skip to footer Home About Us Business IT Infrastructure and Application Network Management Wireless & Mobility Solutions Business Application Server & Storage Solutions Data Centre & Cloud Solutions Information & Communication Technology (ICT) Managed Services Smart Building Technologies CCTV Surveillance Solutions Building Management System Access Control System Audio Visual Solutions Turnstiles & Ga
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 8、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-051.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -243,13 +253,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-27T08:02:45Z
+- **监控层**：A 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-27T08:02:45Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-051/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://tecprosolutions.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 11183 字符；首行：System Integrator in UAE \| Tecpro Solutions |
+| [home](https://tecprosolutions.com/) | html | HTTP 525 | 2026-10-23T04:20:51Z | 官网首页（T27 快照状态 http_error） |
 | [feed_auto](https://www.tecprosolutions.com/feed/) | rss | HTTP 200 | 2026-10-27T08:02:45Z | 5 条；最新：Fri, 03 Jul 2026 07:13:25 Smart Command & Control Centers for Unified Security, Fac |
 
 ## 联系方式（已有 · 原值照录）
@@ -327,7 +337,6 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

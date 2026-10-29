@@ -23,7 +23,7 @@ s_mail: 1 msgs (out 1 / in 0), 2024-12-10 -> 2024-12-10
 p1: STC-424XGGM
 price_tier: 25%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -35,7 +35,7 @@ updated: 2026-10-29
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — RFQ 24 口管理 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）/ 24 口 PoE STC-424DGGPM-280W（$140.1）；待核时效；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-10 $240（24 Port Fiber Switch）
 - **第一问（只问一个）**：Rateb, following your request for 24-port managed switches: we offer Marvell-based 24-GE + 4×10G (non-PoE) and 24-PoE + 4 SFP L2+ models from single units, CE/RoHS, EXW USD, 10–15 days — is PoE required, and how many units does the project need?
-- **最大未知**：具体需求型号（表内兴趣列为空）；官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
+- **最大未知**：具体需求型号（表内兴趣列为空）
 - **下一步**：群发节奏 A 邮箱 观察打开
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
@@ -54,6 +54,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2024-12-10 | 去 | S 群发 | 24 Port Fiber Switch | 1 封 / 0 次打开 / 0 回｜首封 2024-12-10 → 末封 2024-12-10（1 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 商业24口管理 / from: 阿里巴巴RFQ | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | keme-tec.com – مؤسسة خليل قطناني للكهروميكانيك | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -112,7 +113,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（keme-tec.com：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：在线（keme-tec.com，快照 2026-10-29）：keme-tec.com – مؤسسة خليل قطناني للكهروميكانيك
 - **是谁**：约旦 Keme-Tec（keme-tec.com；阿里巴巴 RFQ「商业 24 口管理」；KP Rateb Mahmoud（project manager），projects@ + yahoo；官网 http_error）；表内未跟进。
 - **类型**：项目集成商（约旦，24 口管理 RFQ）
 - **【用户表】表内兴趣/备注**
@@ -122,10 +123,11 @@ updated: 2026-10-29
   > 商业24口管理 / from: 阿里巴巴RFQ
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Rateb Mahmoud（Project Manager（研究档 KP；阿里 RFQ 24 口管理）= 收件人 — 一页纸一次：集成商 25% B、STC-4424GCPM $165 24 PoE + 4 SFP L2+ / 24 GE 非 PoE 管理版 按主表 一口价 + MOQ 1 + 付费样机；一句话问是否要 PoE — 约旦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 安曼（第 123 批 官方登记核实 2026-10-29））projects@keme-tec.com 〔用户表〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/deep/facts。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -143,14 +145,20 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-424XGGM（25% 档）——RFQ 24 口管理 → 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）/ 24 口 PoE STC-424DGGPM-280W（$140.1）；待核时效
 - **邮件切入句（英文）**：Rateb, following your request for 24-port managed switches: we offer Marvell-based 24-GE + 4×10G (non-PoE) and 24-PoE + 4 SFP L2+ models from single units, CE/RoHS, EXW USD, 10–15 days — is PoE required, and how many units does the project need?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
 
-- 尝试域名：keme-tec.com
-  > https://keme-tec.com/ http 403 ct=text/html; charset=utf-8
-  > https://www.keme-tec.com/ http 403 ct=text/html; charset=utf-8
-  > http://keme-tec.com/ http 403 ct=text/html; charset=utf-8
-- **提示**：抓取失败不代表公司不在；人工打开一次即可。
-- 数据文件：`data/saga_clients/site_snapshots/SB-482.json`
+- **首页**：https://keme-tec.com/　语言：en-US　站点地图 URL 数：217
+- **标题**：keme-tec.com – مؤسسة خليل قطناني للكهروميكانيك
+- **首页栏目**：Home / Trending products / FV20-4T-0055G/0075L / CT-5801 TERMINAL MODULE / CLZ-FP-46-15-HD / Line-M-4IO-A / RBX-40-400 / K504EX-14DT/DT
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 22、automation 6、10g 2
+- **站内型号串**（正则抽取，含非交换机）：RX-12, RX-10-400, RX-5-400, FV20-4T-0055G, FV20-4T-0075G, RBX-40-400, RBX-80-400, FV20-4T-1600G, SC-03, SC-N6, FV20-4T-0037G, FV20-4T-0110G
+- **站内公开电话**：00962-79-7800745
+- **社媒**：https://www.facebook.com/KhaleelElectromechEst
+- **产品类页面**：https://keme-tec.com/product-category/；https://keme-tec.com/shop/；https://keme-tec.com/shop-2/；https://keme-tec.com/product/g070/；https://keme-tec.com/product/gw01/；https://keme-tec.com/product/gl100/
+- **已抓子页**：[Switches – keme-tec.com](https://keme-tec.com/product-category/odot/switches/)；[Contacters – keme-tec.com](https://keme-tec.com/product/contacters/)；[Brands – keme-tec.com](https://keme-tec.com/product-category/brands/)；[KINCO – keme-tec.com](https://keme-tec.com/product-category/brands/kinco/)；[Fuji Electric – keme-tec.com](https://keme-tec.com/product-category/brands/fujielectric/)；[Contactors – keme-tec.com](https://keme-tec.com/product-category/circutor/contactors/)
+- 首页正文摘录：Menu Home About Us Services Shop Product Category Top rated product Contact Us Cart Checkout My account User Login Call Us: 00962-79-7800745 All categories Uncategorized Accessories Active multifunction filter BECKHOFF Brands BUS And Network Adapters Bus Coupler Capacitors Circutor Classic Control Communication Contactors Controller Converters Current transformers Embedded PCs Energy managers Extended IO module Fuji 
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 5、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-482.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -173,7 +181,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-27T08:02:45Z
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-27T08:02:45Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-482/`；本节随档案重渲染刷新，实时看日志。
 
@@ -257,7 +265,6 @@ updated: 2026-10-29
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 具体需求型号（表内兴趣列为空）
-- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

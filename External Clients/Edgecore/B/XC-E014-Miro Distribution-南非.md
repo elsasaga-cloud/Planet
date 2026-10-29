@@ -1,12 +1,12 @@
 # XC-E014 · Miro Distribution · 南非
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：与 Saga SC-298 同一公司 → 随主档等级 B（复核随主档，不单列）） ｜ 来源 Edgecore `B-009`（原评级 B，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T01 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：与 Saga SC-298 同一公司 → 随主档等级 B（复核随主档，不单列）） ｜ 来源 Edgecore `B-009`（原评级 B，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 >
 > **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（随 Saga `SC-298`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-298 同一公司（经 miro.co.za）→ 随 Saga 档：pool（闸 3，★ P 池正式入池（档位 ★）：★ 大分销 20%：MiRO Distribution（Centurion；Enterprise No. B2002068592；2002；VAT 9199666141；R25M+；Cambium / Ubi）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-298，经 miro.co.za）→ 以 Saga 档为准，本条不单独跟
-- 研究后改级：XC → **XB**（LT-T01，Q-76 LT-01 2026-10-29：与 Saga SC-298 同一公司 → 随主档等级 B（复核随主档，不单列））；编号不变
+- 研究后改级：XC → **XB**（LT-T03，Q-76 LT-01 2026-10-29：与 Saga SC-298 同一公司 → 随主档等级 B（复核随主档，不单列））；编号不变
 - 人工改级：XB（2026-10-29，Q-76 LT-01 2026-10-29：与 Saga SC-298 同一公司 → 随主档等级 B（复核随主档，不单列））；编号不变
 - 标记：重复=Saga
 - 与 Saga Clients 重叠：**SC-298**（Saga 评级 C，经域名 miro.co.za）→ 以 Saga 档为主；本条只保留来源库事实
@@ -100,12 +100,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，LT-T01，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — Q-76 LT-01 2026-10-29：与 Saga SC-298 同一公司 → 随主档等级 B（复核随主档，不单列）
-- 活着吗：域名 miro.co.za MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓
+- 活着吗：在线（miro.co.za，快照 2026-10-29）：MiRO | Leading IT/ICT Distributor specialising in IP Convergence solutions
 - 一句话：Miro Distribution（南非 · Samrand）：分销商
 - 是什么人：分销商
+- 在卖/在用：Ubiquiti、Cambium、TP-Link、Grandstream、MikroTik、Teltonika、Tenda、Uniview、Milesight
 - 对口哪条线：STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）
 - 找得到人吗：sales@miro.co.za（活（来源库 9 月核对））；KP：Marco de Ru（Managing Director，来源库 KP 段）
 - 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
@@ -117,5 +118,7 @@
 |---|---|---|---|---|
 | 来源库官网/名录核对 | 分销商 |  | https://miro.co.za | 2026-10-27 |
 | 来源库证据链接 | 来源库调研时引用 |  | https://www.edge-core.com/where-to-buy/emea-reseller/ | 2026-10-27 |
+| 官网快照 | 官网在线；MiRO ｜ Leading IT/ICT Distributor specialising in IP Convergence solutions | We are a leading IT/ICT Distributor in South Africa and the SADC region, specialising in only the best-of-breed IP Convergence solutions. | https://miro.co.za/ | 2026-10-29 |
 
-- 备注：LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。

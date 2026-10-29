@@ -28,7 +28,7 @@ last_contact: 2025-06-21
 p1: STC-114XGDGP
 price_tier: 30%
 research: done
-site_snapshot: parked_or_empty  # 2026-10-21
+site_snapshot: parked_or_empty  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -129,7 +129,8 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Harvinder Luthra（Win-Tech Alliance Ltd（香港法人）孟买负责人；提出 5 / 8 口 2.5G 交换机 CKD = 收件人（第 114 批 官方登记核实 2026-10-28））luthra@win-alliance.com +91 98199 91960〔（本地 Clients/ 表格，无公开 URL）〕
 - **调研后定级**：B（原自动 A）——CKD 散件模式需工厂直接配合（Saga 为贸易商，需 SmartByte 同意拆件供货，可行性未定）；印度非主攻区；1 次回复后 12 次推送无果 → 慢跟。
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 若 SmartByte 可做 2.5G 整机/半散件，一次性给方案与 MOQ；否则停。
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网快照 + 表内））
@@ -150,7 +151,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-114XGDGP（30% 档）——5/8 口 2.5G → Saga 2.5G 线 STC-114XGDGP（1×10G SFP+ + 1×2.5G + 4×2.5G PoE）起手，8 口版按 SmartByte 型号报；CKD 按 OEM 30% 档并需原厂确认散件模式。
 - **邮件切入句（英文）**：Harvinder, on the 2.5G 5/8-port CKD idea — before we price kits, what monthly volume would the Mumbai assembly line run, and do you need BIS test support from the factory?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：停放/空站（疑停业或仅占位））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：停放/空站（疑停业或仅占位））
 
 - 尝试域名：win-alliance.com
   > https://win-alliance.com/ conn: HTTPSConnectionPool(host='win-alliance.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(
@@ -184,7 +185,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-044/`；本节随档案重渲染刷新，实时看日志。
 

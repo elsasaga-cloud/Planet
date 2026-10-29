@@ -23,7 +23,7 @@ s_mail: 13 msgs (out 13 / in 0), 2025-10-16 -> 2026-10-07
 p1: STI-280GE
 price_tier: 20%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: ok  # 2026-10-29
 sources: 3
 updated: 2026-10-29
 ```
@@ -35,7 +35,7 @@ updated: 2026-10-29
 - **历史互动**：推送 1 次（2025-10-16 → 2025-10-16）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-280GE — Planet 工业线预算位 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GPM（$78.9）、工业千兆 MC STI-110GE（$22.4）；SFP/工业电源 Saga 不供。已打开的主题（1/13 封有打开记录）：「Industrial PoE Switch」(2026-04-23) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-16 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
+- **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
@@ -54,6 +54,7 @@ updated: 2026-10-29
 | 2025-04-01 | 去 | Elsa 群发（BCC；To INFO@sarcitalia.it，IT 批次） | Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere | Elsa 箱群发 BCC 触达证据（命中地址 info@qubix.it, qubix.it）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-07 | 去 | A 群发 | Managed PoE Switches、10G Enterprise SFP Switch | 13 封 / 1 次打开 / 0 回｜首封 2025-10-16 → 末封 2026-10-07（13 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 主要是planet的；工业FS MC SFP 工业电源 几乎全是Planet的设备 | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | QUBIX – Networking Solution | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -116,7 +117,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（qubix.it：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：在线（qubix.it，快照 2026-10-29）：QUBIX – Networking Solution
 - **是谁**：意大利 Qubix（工业网络分销：「几乎全是 Planet 的设备」——工业 FS、MC、SFP、工业电源；KP Filippo Gnocco（General Manager）、Davide Villotti（Business Developer Manager）；表内「质量一般」；官网 http_error）；表内 1 次跟进无回复。
 - **类型**：工业网络分销商（意大利，Planet 为主）
 - **在卖/在用品牌**：Planet
@@ -128,10 +129,11 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Filippo Gnocco（General Manager（LinkedIn）= 拍板人 / 收件人（第 109 批 官方登记核实 2026-10-28））fgnocco@qubix.it 〔用户表〕
 - **KP**：Davide Villotti（Business Developer Manager（研究档）= 收件人（抄）（第 109 批 官方登记核实 2026-10-28））info@qubix.it 〔用户表〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/deep/facts。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -149,14 +151,19 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-280GE（20% 档）——Planet 工业线预算位 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GPM（$78.9）、工业千兆 MC STI-110GE（$22.4）；SFP/工业电源 Saga 不供
 - **邮件切入句（英文）**：Filippo, alongside the PLANET industrial range you distribute, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP and 8-PoE + 2 SFP managed switches and gigabit MCs from single units, CE/RoHS, EXW USD — is there a lower-priced industrial position your integrator customers ask for?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
 
-- 尝试域名：qubix.it
-  > https://qubix.it/ http 403 ct=text/html
-  > https://www.qubix.it/ http 403 ct=text/html
-  > http://qubix.it/ http 403 ct=text/html
-- **提示**：抓取失败不代表公司不在；人工打开一次即可。
-- 数据文件：`data/saga_clients/site_snapshots/SB-432.json`
+- **首页**：https://www.qubix.it/　语言：it-IT　站点地图 URL 数：16
+- **标题**：QUBIX – Networking Solution
+- **首页栏目**：Area riservata: login / Richiedi Quotazione / Dati Azienda / Dati Contatto / Sei un Installatore ? / Vi aspettiamo a Smart Building Levante 2026 il 18 e 19 novembre / Qubix Magazine #3: Novità prodotti e approfondimenti tecnici / Novità Qubix: apparati attivi, cavo Long Reach e strumenti per la fibra ottica
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 266、sfp 157、planet 84、switch 80、datacenter 77、industrial 68、wireless 48、media converter 42、gigabit 16、fiber 15、10g 12、ethernet 4
+- **站内型号串**（正则抽取，含非交换机）：IEEE802, OM3-OM4, SGS-6341-24P4X, SGS-6310-8P4X, GS-6311-24HP4X, SGS-6341-48P6XR, FGSD-1008HPS, FGSW-1816HPS, GS-2210-8P2S, GS-2210-16P2S, GS-2210-24P2S, GS-4210-8P2S
+- **站内公开电话**：+39 049 775667, +39 049 7801994
+- **产品类页面**：https://www.qubix.it/product-categories/networking/switch/；https://www.qubix.it/product-categories/networking/industrial/；https://www.qubix.it/product-categories/cabling/；https://www.qubix.it/product-categories/networking/；https://www.qubix.it/product-categories/cabling/rack/；https://www.qubix.it/product-categories/videosorveglianza/
+- **已抓子页**：[PoE Layer 3 – QUBIX](https://www.qubix.it/product-categories/networking/switch/poe-layer-3/)；[PoE Layer 2 – QUBIX](https://www.qubix.it/product-categories/networking/switch/poe-layer-2/)；[PoE Unmanaged – QUBIX](https://www.qubix.it/product-categories/networking/switch/poe-unmanaged/)；[PoE Injector e Splitter – QUBIX](https://www.qubix.it/product-categories/networking/switch/poe-injector-e-splitter/)；[PoE Layer 3 – QUBIX](https://www.qubix.it/product-categories/networking/switch-qubix/switch-qubix-layer-3-poe/)；[PoE Layer 2 – QUBIX](https://www.qubix.it/product-categories/networking/switch-qubix/switch-qubix-layer-2-poe/)
+- 首页正文摘录：× Area riservata: login Nome utente o indirizzo email Password Ricordami Hai dimenticato la password? Registrati Azienda News Contatti Area riservata Italiano Italiano it English Inglese en Le mie liste materiali 0 Carrello Home Rame Cavi Categoria 5E Categoria 6 Categoria 6A Categoria 7/7A Cabling System Easy Crimp Compact Easy Crimp Sistema 110 Plug, patch cord e giunti Adattatori e accessori Industrial System Fibr
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 68、PoE 266 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-432.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -197,13 +204,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-28T08:44:48Z
-- **最近变化摘要**：2026-10-28 home：内容变化：+265 −4 行
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 home：内容变化：+264 −3 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-432/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://qubix.it/) | html | HTTP 200 | 2026-10-28T08:44:48Z | 21376 字符；首行：QUBIX – Networking Solution |
+| [home](https://qubix.it/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 21376 字符；首行：QUBIX – Networking Solution |
 | [feed_auto](https://www.qubix.it/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Mon, 19 Oct 2026 05:00:27 Vi aspettiamo a Smart Building Levante 2026 il 18 e 19 n |
 
 ## 联系方式（已有 · 原值照录）
@@ -284,7 +291,6 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

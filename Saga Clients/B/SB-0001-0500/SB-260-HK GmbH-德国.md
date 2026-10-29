@@ -23,7 +23,7 @@ s_mail: 15 msgs (out 15 / in 0), 2025-04-15 -> 2026-09-24
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -35,7 +35,7 @@ updated: 2026-10-29
 - **历史互动**：推送 7 次（2025-04-15 → 2025-11-05）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — PoE + 光口 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）。已打开的主题（1/15 封有打开记录）：「10G L3 Managed Switch」(2026-06-02) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-10 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Lukas, for the projects where you need PoE switches with fibre uplinks, we supply Marvell-based 8-PoE + 2 SFP L2+ (commercial) and DIN-rail 4/8-PoE + SFP industrial units from single units, CE/RoHS, EXW USD — which port count and uplink type does your typical installation use?
-- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
+- **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
@@ -54,6 +54,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-24 | 去 | A 群发 | 10G Enterprise SFP Switch、90W PoE Managed Switch | 15 封 / 1 次打开 / 0 回｜首封 2025-04-15 → 末封 2026-09-24（15 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 有时候需要POE，需要用到带光口的交换机 | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Startseite :: HK-Systeme — Seit über 25 Jahren ist HK-Systeme Ihr verlässlicher Partner wenn es um Brandmeldeanlagen, Sprachalamierung oder Elektroakustische Alarmanlagen geht. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -118,7 +119,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（HK GmbH：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：在线（hk-systeme.de，快照 2026-10-29）：Startseite :: HK-Systeme
 - **是谁**：德国 HK GmbH（hk-systeme.de；表内「有时候需要 PoE，需要用到带光口的交换机」；KP Lukas Gierlirg；官网 http_error）；表内 7 次跟进无回复。
 - **类型**：系统集成商（德国，PoE + 光口需求）
 - **【用户表】表内兴趣/备注**
@@ -129,10 +130,11 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Lukas Gierlirg（研究档联系人（Impressum 域下；职务未核）= 收件人（第 100 批 官方登记核实 2026-10-28））lg@hk-systeme.de 〔用户表〕
 - **KP**：Johannes Brüls（Geschäftsführer（Dipl.-Ing.；Impressum；HRB 105842 Düsseldorf）= 拍板人（点名）（第 100 批 官方登记核实 2026-10-28）） 〔〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/deep/facts。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -150,14 +152,17 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——PoE + 光口 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）、工业 8 PoE + 2 SFP STI-288GPM（$82.2）、4 PoE + 1 SFP STI-154GP（$39.2）
 - **邮件切入句（英文）**：Lukas, for the projects where you need PoE switches with fibre uplinks, we supply Marvell-based 8-PoE + 2 SFP L2+ (commercial) and DIN-rail 4/8-PoE + SFP industrial units from single units, CE/RoHS, EXW USD — which port count and uplink type does your typical installation use?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
 
-- 尝试域名：hk-systeme.de
-  > https://hk-systeme.de/ http 503 ct=text/html
-  > https://www.hk-systeme.de/ http 503 ct=text/html
-  > http://hk-systeme.de/ http 503 ct=text/html
-- **提示**：抓取失败不代表公司不在；人工打开一次即可。
-- 数据文件：`data/saga_clients/site_snapshots/SB-260.json`
+- **首页**：https://hk-systeme.de/de　语言：de　站点地图 URL 数：17
+- **标题**：Startseite :: HK-Systeme
+- **描述**：Seit über 25 Jahren ist HK-Systeme Ihr verlässlicher Partner wenn es um Brandmeldeanlagen, Sprachalamierung oder Elektroakustische Alarmanlagen geht.
+- **首页栏目**：Willkommen bei HK-Systeme / BMA, SAA, ELA, SYSTEMINTEGRATION & MEDIEN-IT/EDV / HK-Systeme / Es gibt nichts, was nicht geht! / Anwendung / Immer die passende Lösung / Kontakt
+- **站内公开邮箱**：buero@hk-systeme.de
+- **社媒**：https://www.facebook.com/HK-GmbH-1422657987948776/
+- **已抓子页**：[Brandmeldeanlagen :: HK-Systeme](https://hk-systeme.de/de/pages/brandmeldeanlagen)；[Partner :: HK-Systeme](https://hk-systeme.de/de/pages/partner)
+- 首页正文摘录：Menü Startseite Anwendungen BMA SAA ELA Medientechnik & IT Systemintegration Digitale Schule Partner Referenzen 1KOMMA5° Haus Altenberg Jobs Kontakt Willkommen bei HK-Systeme BMA, SAA, ELA, SYSTEMINTEGRATION & MEDIEN-IT/EDV Von der Idee bis zur Umsetzung bleiben wir an Ihrer Seite! HK-Systeme Es gibt nichts, was nicht geht! Seit über 26 Jahren ist HK-Systeme Ihr verlässlicher Partner wenn es um Brandmeldeanlagen, Spr
+- 数据文件：`data/saga_clients/site_snapshots/SB-260.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -201,7 +206,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-260/`；本节随档案重渲染刷新，实时看日志。
 
@@ -282,7 +287,6 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

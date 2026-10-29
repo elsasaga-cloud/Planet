@@ -26,10 +26,10 @@ followups: 0
 first_contact: unknown
 last_contact: unknown
 s_mail: 19 msgs (out 10 / in 9), 2024-04-23 -> 2024-12-27
-p1: STC-228GP
+p1: STI-288GPM
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -39,7 +39,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（○ 正式）：○ 印度 · 全国分销 20%（交换机副线）：Cohesive Technologies (P) Ltd（Grandstream 印度授权全国分销；服务 IN / LK / NP / MV）部分坐实（CIN / 地址未取）；中国品牌（Wi-Tek / Grandstream）✔ 对位（IP 电话配套 PoE）✔ → P 池候选（调研 2026-10-29；表内兴趣：Witek Grandstream）
 - **为什么是 B 级**：**调研后定级 B**（Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 印度 · 全国分销 20%（交换机副线）：Cohesive Technologies (P) Ltd（Grandstream 印度授权全国分销；服务 IN / LK / NP / MV）部分坐实（CIN / 地址未取）；中国品牌（Wi-Tek / Grandstream）✔ 对位（IP 电话配套 PoE）✔ → P 池候选；闸 1：印度 Cohesive Global（cohesiveglobal.com；Wi-Tek / Grandstream）：中国品牌分销 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先）；自动分级 C：-6 群发批次名单；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-228GP — 默认对位（全国分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）；
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STI-288GPM — 官网快照对位：工业/自动化词频 50、PoE 44 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）；
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：不动：LT-01 复核（待过）后再定 — 长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
@@ -52,13 +52,14 @@ updated: 2026-10-29
 - **现状一句话**：C 池三闸捞出 → B（LT-01）：○ 印度 · 全国分销 20%（交换机副线）：Cohesive Technologies (P) Ltd（Grandstream 印度授权全国分销；服务 IN / LK / NP / MV）部分坐实（CIN / 地址未取）；中国品牌（Wi-Tek / Grandstream）✔ 对位（IP 电话配套 PoE）✔ → P 池候选
 - **对方真实需求（有据）**：未知（无往来；复核时从官网 / 进口数据 / 项目推断）
 - **断点 / 为什么停在这里**：无往来（从未触达或仅群发无回）
-- **Saga 现在该推什么**：P1 **STC-228GP**（% 档，价见价格主表）——默认对位（全国分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）
+- **Saga 现在该推什么**：P1 **STI-288GPM**（% 档，价见价格主表）——官网快照对位：工业/自动化词频 50、PoE 44 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）
 - **下一步（具体）**：不动：LT-01 复核（待过）后再定　—　长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ○ 印度 · 全国分销 20%（交换机副线）：Cohesive Technologies (P) Ltd（Grandstream 印度授权全国分销；服务 IN / LK / NP / MV）部分坐实（CIN / 地址未取）；中国品牌（Wi-Tek / Grandstream）✔ 对位（IP 电话配套 PoE）✔ → P 池候选 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 登记底数（registry） | IN · 1 次检索：cohesiveglobal.com 三个产品页（法人名 / 授权 / 服务区）；CIN 未取；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | IP Phones, VoIP Solutions & Networking \| Cohesive Technologies – National Distributor India — Cohesive Technologies is India's leading distributor of IP Phones, VoIP PBX, Networking, Smart Home Automation & IP Surveillance solutions. Authorized partner for Grandstream, Snom, Milesight, Yeastar & mor | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -106,7 +107,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（○ 正式）：○ 印度 · 全国分销 20%（交换机副线）：Cohesive Technologies (P) Ltd（Grandstream 印度授权全国分销；服务 IN / LK / NP / MV）部分坐实（CIN / 地址未取）；中国品牌（Wi-Tek / Grandstream）✔ 对位（IP 电话配套 PoE）✔ → P 池候选
 - **类型**：全国分销（闸 2 判定 · 20% 档）
 - **规模**：中型（全国分销 + 4 国）
-- **在卖/在用品牌**：Grandstream, Wi-Tek
+- **在卖/在用品牌**：Grandstream, Wi-Tek, Ubiquiti, Milesight
 - **【登记底数 / 官网（闸 2 坐实）】Cohesive Technologies (P) Ltd（cohesiveglobal.com；**官网页脚 © 2026；Grandstream 印度授权全国分销（IP 电话 + GWN 交换机 / AP / GDMS）；服务 印度 / 斯里兰卡 / 尼泊尔 / 马尔代夫；sales@cohesiveglobal.com**）；CIN / 地址未取；表内：Wi-Tek / Grandstream**
   > IN · 1 次检索：cohesiveglobal.com 三个产品页（法人名 / 授权 / 服务区）；CIN 未取；2026-10-29
   > 来源：https://www.cohesiveglobal.com/grandstream/gwn7700-network-switch.php（抓取 2026-10-29）
@@ -116,10 +117,11 @@ updated: 2026-10-29
   > 来源：（抓取 2026-10-29）
 - **KP**：—（表内邮箱（公开 / 总机））info@cohesiveglobal.com 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 印度 · 全国分销 20%（交换机副线）：Cohesive Technologies (P) Ltd（Grandstream 印度授权全国分销；服务 IN / LK / NP / MV）部分坐实（CIN / 地址未取）；中国品牌（Wi-Tek / Grandstream）✔ 对位（IP 电话配套 PoE）✔ → P 池候选；闸 1：印度 Cohesive Global（cohesiveglobal.com；Wi-Tek / Grandstream）：中国品牌分销 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/saga_fit/deep/facts。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -131,7 +133,25 @@ updated: 2026-10-29
   - 印度 Cohesive Global（cohesiveglobal.com；Wi-Tek / Grandstream）：中国品牌分销 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先
   - 表内兴趣：Witek Grandstream
 - **风险/边界**：**印度 · 全国分销 20%（交换机为副线）：一页纸一次（STC-028GP / STC-228GP / STC-2224GP 作 IP 电话配套 PoE + MOQ 1 + 付费样机；Grandstream / Wi-Tek 不点名）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买；登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号
-- **Saga 对位结论**：P1 STC-228GP（20% 档）——默认对位（全国分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）
+- **Saga 对位结论**：P1 STI-288GPM（20% 档）——官网快照对位：工业/自动化词频 50、PoE 44 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://www.cohesiveglobal.com/　语言：en　站点地图 URL 数：1069
+- **标题**：IP Phones, VoIP Solutions & Networking / Cohesive Technologies – National Distributor India
+- **描述**：Cohesive Technologies is India's leading distributor of IP Phones, VoIP PBX, Networking, Smart Home Automation & IP Surveillance solutions. Authorized partner for Grandstream, Snom, Milesight, Yeastar & more.
+- **首页栏目**：Speak to an Expert / The Latest From Cohesive / An Incredible Few Days in Rome! / Meet Us at IFSEC India 2026 / Akubela HyPanel — Smart Home, One Panel / Networking Solutions / Snom Portfolio / Customer Testimonials
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 77、telecom 58、distributor 48、industrial 45、poe 44、access control 33、surveillance 28、wireless 28、sfp 25、gigabit 25、automation 21、nvr 14
+- **站内出现的品牌**：Grandstream, Ubiquiti, Milesight　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：UCM6300, GWN7674, QX5000, GWN7800, GWN7700, GWN7711, GWN7810, QX200, QX500, QX3000, GWN7670, GWN7062
+- **站内公开邮箱**：info@cohesiveglobal.com, sales@cohesiveglobal.com
+- **站内公开电话**：+91 120 4830000, +91 7290000544
+- **社媒**：https://twitter.com/cohtechnologies, https://www.facebook.com/CohesiveTechnologies, https://www.instagram.com/cohesive_technologies/, https://www.linkedin.com/company/cohesive-technologies-pvt.-ltd., https://www.youtube.com/cohtechnologies
+- **产品类页面**：https://www.cohesiveglobal.com/cyberdata/3-port-poe-gigabit-port-mirroring-switch-11259.php；https://www.cohesiveglobal.com/akubela/smart-switch.php；https://www.cohesiveglobal.com/akubela/switch-actuator.php；https://www.cohesiveglobal.com/grandstream/poe-injector.php；https://www.cohesiveglobal.com/akubela/smart-boiler-switch.php；https://www.cohesiveglobal.com/akubela/2-gang-curtain-switch.php
+- **已抓子页**：[UC, IP-PBX & Contact Centre India / SIP PBX – Cohesive](https://www.cohesiveglobal.com/our-products/uc-ippbx-contact-centre.php)；[Akubela Smart Switch India / Official Distributor – Cohesive](https://www.cohesiveglobal.com/akubela/smart-switch.php)；[Guardian Telecom AC Range Aluminum Cast Telephone / Cohesive](https://www.cohesiveglobal.com/guardian-telecom/ac-range.php)；[Guardian Telecom CI Range Correctional Telephone / Cohesive ](https://www.cohesiveglobal.com/guardian-telecom/ci-range.php)；[Guardian Telecom DT Range Desk Top & Wallmount Telephone / C](https://www.cohesiveglobal.com/guardian-telecom/dt-range.php)；[Grandstream Networking Solutions India / GWN – Cohesive](https://www.cohesiveglobal.com/grandstream/networking-solutions.php)
+- 首页正文摘录：Cohesive // Loading 0 📞 +91 120 4830000 ✉️ info@cohesiveglobal.com 📍 169, Patparganj Industrial Area, Delhi – 110092 💬 WhatsApp 🔧 Support ✕ Our Brands ▾ ▾ Products By Brand Authorised national distributor across India, Sri Lanka, Nepal & the Maldives View All → GS Grandstream IP Voice Telephony IP Video Phones Networking Solutions Convergence Solutions More Categories.. Sn Snom IP Phones IP Desk Phones Hotel IP & Ana
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 50、PoE 44 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SC-1797.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -168,12 +188,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-1797/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://cohesiveglobal.com/) | html | 待首轮 | — | 官网首页 |
+| [home](https://cohesiveglobal.com/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 15568 字符；首行：IP Phones, VoIP Solutions & Networking \| Cohesive Technologies – National Dis |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -201,7 +222,7 @@ updated: 2026-10-29
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-228GP | 深挖对位：默认对位（全国分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档） | $33.2 USD EXW（HRUI Realtek 线：洪瑞 2026-09-30 成本 + 20%（列表价 $30.8 隐含加价低于底线，第 73 批口径）；见 data/价格主表_HRUI.csv；汇率 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（全国分销（闸 2 判定 · 20% 档）） |
+| **P1** | STI-288GPM | 深挖对位：官网快照对位：工业/自动化词频 50、PoE 44 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP） | $78.9 USD EXW（20% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（全国分销（闸 2 判定 · 20% 档）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：20% 档 $139.9 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $181.2——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -210,9 +231,9 @@ updated: 2026-10-29
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-228GP），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-228GP 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288GPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -222,7 +243,7 @@ updated: 2026-10-29
 
 - **S**：名单内已有联系记录，不是零起点
 - **W**：南亚：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STC-228GP 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 Witek：涨价、断货或交期拉长时切入；规模（调研）：中型（全国分销 + 4 国）
+- **O**：P1 STI-288GPM 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 Witek：涨价、断货或交期拉长时切入；规模（调研）：中型（全国分销 + 4 国）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -251,14 +272,14 @@ updated: 2026-10-29
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-228GP - 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (neutral label)
+**主题**：STI-288GPM - industrial DIN-rail L2 managed switch (Marvell-based, neutral label)
 
 ```text
 Hello,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
 
-We supply an 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (unmanaged, 120 W, PoE watchdog) - model STC-228GP - that fits the same slot as the Witek class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $33.2 USD EXW (valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as the Witek class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $78.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

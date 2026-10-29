@@ -29,7 +29,7 @@ s_mail: 26 msgs (out 25 / in 1), 2024-06-12 -> 2026-08-19
 p1: STC-424XGGPM-280W
 price_tier: 30%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 3
 updated: 2026-10-29
 ```
@@ -39,7 +39,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（★ 正式）：★ 自有品牌 · OEM 30%：Satvision（萨马拉；自有商标 CCTV 20+ 年；全俄 12 分部；客户含 Сбербанк / РЖД；Mike Yakushev 真回）部分坐实（ИНН 未取）；真回 ✔ 自有品牌 ✔ 体量 ✔ 对位 ✔ → P 池候选；预付款 + RU 收款 / 物流路径待 Simon（调研 2026-10-29；表内兴趣：主要是CCTV  好几种外壳 自己的型号 有hasivo的；发不过去）
 - **为什么是 B 级**：**调研后定级 B**（Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 自有品牌 · OEM 30%：Satvision（萨马拉；自有商标 CCTV 20+ 年；全俄 12 分部；客户含 Сбербанк / РЖД；Mike Yakushev 真回）部分坐实（ИНН 未取）；真回 ✔ 自有品牌 ✔ 体量 ✔ 对位 ✔ → P 池候选；预付款 + RU 收款 / 物流路径待 Simon；闸 1：俄罗斯 Satvision（CCTV 品牌，自有 logo，Mike Yakushev 回过 1 次，15 次跟进）→ 真回 + 自有品牌；俄区收款路径待 Simon → 闸 2 查底数）；自动分级 C：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；-60 用户已归入「不行及不太相关的」；-25 邮件发不过去且无 WhatsApp 通道；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 15 次（2024-06-12 → 2025-10-23）；最近一次客户回复：2024-06-12：standard poe有嘛？
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-424XGGPM-280W — 默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）；
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-424XGGPM-280W — 官网快照对位：PoE 词频 13、监控 1 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）；
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动：LT-01 复核（待过）后再定 — 长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
@@ -52,13 +52,14 @@ updated: 2026-10-29
 - **现状一句话**：C 池三闸捞出 → B（LT-01）：★ 自有品牌 · OEM 30%：Satvision（萨马拉；自有商标 CCTV 20+ 年；全俄 12 分部；客户含 Сбербанк / РЖД；Mike Yakushev 真回）部分坐实（ИНН 未取）；真回 ✔ 自有品牌 ✔ 体量 ✔ 对位 ✔ → P 池候选；预付款 + RU 收款 / 物流路径待 Simon
 - **对方真实需求（有据）**：未知（无往来；复核时从官网 / 进口数据 / 项目推断）
 - **断点 / 为什么停在这里**：无往来（从未触达或仅群发无回）
-- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（% 档，价见价格主表）——默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
+- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（% 档，价见价格主表）——官网快照对位：PoE 词频 13、监控 1 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）
 - **下一步（具体）**：不动：LT-01 复核（待过）后再定　—　长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ★ 自有品牌 · OEM 30%：Satvision（萨马拉；自有商标 CCTV 20+ 年；全俄 12 分部；客户含 Сбербанк / РЖД；Mike Yakushev 真回）部分坐实（ИНН 未取）；真回 ✔ 自有品牌 ✔ 体量 ✔ 对位 ✔ → P 池候选；预付款 + RU 收款 / 物流路径待 Simon | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 登记底数（registry） | RU · 1 次检索：satvision-cctv.ru 首页（地址 / 分部 / 客户）+ /company/（品牌定位）+ satvision.pro；ИНН 未取（rusprofile 下轮）；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Satvision - системы видеонаблюдения — У нас вы найдете большой выбор систем видеонаблюдения по доступным ценам. Закажите прямо сейчас! | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -127,10 +128,11 @@ updated: 2026-10-29
 - **KP**：—（表内邮箱（公开 / 总机））m.yakushev@satv.ru 〔〕
 - **KP**：—（表内邮箱（公开 / 总机））satvision@satv.ru 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 自有品牌 · OEM 30%：Satvision（萨马拉；自有商标 CCTV 20+ 年；全俄 12 分部；客户含 Сбербанк / РЖД；Mike Yakushev 真回）部分坐实（ИНН 未取）；真回 ✔ 自有品牌 ✔ 体量 ✔ 对位 ✔ → P 池候选；预付款 + RU 收款 / 物流路径待 Simon；闸 1：俄罗斯 Satvision（CCTV 品牌，自有 logo，Mike Yakushev 回过 1 次，15 次跟进）→ 真回 + 自有品牌；俄区收款路径待 Simon → 闸 2 查底数
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/saga_fit/deep/facts。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -142,7 +144,24 @@ updated: 2026-10-29
   - 俄罗斯 Satvision（CCTV 品牌，自有 logo，Mike Yakushev 回过 1 次，15 次跟进）→ 真回 + 自有品牌；俄区收款路径待 Simon → 闸 2 查底数
   - 表内兴趣：主要是CCTV  好几种外壳 自己的型号 有hasivo的；发不过去
 - **风险/边界**：**自有品牌 CCTV 配套 PoE → OEM 30%：点名 Mike 一页纸一次（STC-028GP / STC-228GP / STC-2224GP 丝印 + MOQ + 付费样机）；预付款 + 待 Simon 定收款 / 物流路径**；登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号
-- **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
+- **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——官网快照对位：PoE 词频 13、监控 1 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://satvision-cctv.ru/　语言：ru　站点地图 URL 数：88
+- **标题**：Satvision - системы видеонаблюдения
+- **描述**：У нас вы найдете большой выбор систем видеонаблюдения по доступным ценам. Закажите прямо сейчас!
+- **首页栏目**：Новости / Видео / Техноблог
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 13、sfp 2、gigabit 1、cctv 1
+- **站内型号串**（正则抽取，含非交换机）：SVB-608PC, SVI-S153A, SVI-D453A, SVB-408, SVB-405, SVB-604PC, SVB-6024PC-E, SVI-D283A, SVI-S123, SVI-S123A, SVI-S183A, SVI-D353VM
+- **站内公开邮箱**：satvision-tech@yandex.ru, satvision@satv.ru
+- **站内公开电话**：000027775 6 780, 000034363 25 270, 000039534 48 380, 000040275 9 580, 000042970 56 600, 000043461 540
+- **社媒**：https://vk.com/club77890303, https://www.youtube.com/channel/UCgZEVoZLZ2vIok5CYJcNogA
+- **产品类页面**：https://satvision-cctv.ru/catalog/
+- **已抓子页**：[Коммутаторы](https://satvision-cctv.ru/catalog/aksessuary_dlya_videonablyudeniya/poe_kommutatory/)；[SVB-608PC](https://satvision-cctv.ru/catalog/aksessuary_dlya_videonablyudeniya/poe_kommutatory/3144/)；[Каталог](https://satvision-cctv.ru/marketing/katalog/)；[Каталоги в pdf](https://satvision-cctv.ru/marketing/katalogi-v-pdf/)；[Единый Реестр российской радиоэлектронной продукции (ПП РФ №](https://satvision-cctv.ru/company/news/oborudovanie_satvision_vkhodit_v_edinyy_reestr_rossiyskoy_radioelektronnoy_produktsii_pp_rf_878/)；[Кейсы партнеров](https://satvision-cctv.ru/marketing/case-studies-partners/)
+- 首页正文摘录：Ваш город Другой город Центральный офис: Самара, ул. Санфировой, 95 к.1 Поиск Войти 8 800 550-12-51 Запрос в отдел продаж 8 800 550-12-51 звонки бесплатные на территории РФ О компании О нас Миссия компании Сертификаты качества Вакансии Подбор персонала Политика Где купить Каталог АНD видеорегистраторы 4-х канальные 8-ми канальные 16-ти канальные 32-х канальные AHD видеокамеры Купольные внутренние камеры Купольные ант
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 13、监控 1 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SC-1942.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -195,12 +214,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-1942/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://satvision-cctv.ru/) | html | 待首轮 | — | 官网首页 |
+| [home](https://satvision-cctv.ru/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 11513 字符；首行：Satvision - системы видеонаблюдения |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -237,7 +257,7 @@ updated: 2026-10-29
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424XGGPM-280W | 深挖对位：默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档） | $180 USD EXW（㉕ ② 群发现价（群发价台账），30% 档公式为 $196.3——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（OEM（闸 2 判定 · 30% 档）） |
+| **P1** | STC-424XGGPM-280W | 深挖对位：官网快照对位：PoE 词频 13、监控 1 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W） | $180 USD EXW（㉕ ② 群发现价（群发价台账），30% 档公式为 $196.3——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（OEM（闸 2 判定 · 30% 档）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：30% 档 $151.6 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 

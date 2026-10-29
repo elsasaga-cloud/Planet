@@ -1,6 +1,6 @@
 # XA-E006 · Nine-One-One Communication Supply · 加拿大
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 Edgecore `A-050`（原评级 A，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W2-R04 2026-10-27）→ 下一动作 第二封
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 Edgecore `A-050`（原评级 A，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 第二封
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱
@@ -95,10 +95,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W2-R04，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XA** — CA 主攻区电信分销、KP 实名 → 维持 A
-- 活着吗：本轮 web_search 复核在线（2026-10-27）
+- 活着吗：在线（nine-one-one.ca，快照 2026-10-29）：Nine-One-One Communication Supply Inc.
 - 一句话：电信硬件批发分销（Calgary，1989 起，Ericsson-LG 加拿大独家分销，11–50 人；经销商网络全国）
 - 是什么人：电信硬件批发分销（Calgary，1989 起，Ericsson-LG 加拿大独家分销，11–50 人；经销商网络全国）；规模：电信硬件批发分销（Calgary，1989 起，Ericsson-LG 加拿大独家分销，11–50 人；经销商网络全国）
 - 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — 全国经销商网络，PoE 配 IP 话机/酒店部署
@@ -112,6 +112,7 @@
 |---|---|---|---|---|
 | 来源库官网/名录核对 | - https://www.edge-core.com/where-to-buy/NorthAmerica-reseller/（2026-10-18 检索，官方渠道名录）；批次：batch/contact_research_2026-10-18_R1_官方渠道全量.json |  | https://nine-one-one.ca/ | 2026-09-28 |
 | S 箱群发记录 | S 箱 2026-10-19 发 jesse.foster@nine-one-one.ca「24 Port PoE Managed Switch」，去 1 来 0 |  | data/gmail_s/2026-09_10群发名单_未入库.csv | 2026-10-19 |
+| 官网快照 | 官网在线；Nine-One-One Communication Supply Inc. | Nine-One-One Communication Supply Inc. | https://nine-one-one.ca/ | 2026-10-29 |
 
 草稿（英文，第二封；Simon 发，Agent 不发）：
 
@@ -134,4 +135,5 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：本轮 web_search 复核：nine-one-one.ca「wholesale distributor servicing all of Canada… network switches」；Boom Collaboration 稿 Jesse Foster V.P. Sales & Marketing。 
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。
+本轮 web_search 复核：nine-one-one.ca「wholesale distributor servicing all of Canada… network switches」；Boom Collaboration 稿 Jesse Foster V.P. Sales & Marketing。 

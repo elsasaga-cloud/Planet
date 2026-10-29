@@ -28,7 +28,7 @@ last_contact: unknown
 p1: STC-424XGGM
 price_tier: 25%
 research: done
-site_snapshot: parked_or_empty  # 2026-10-21
+site_snapshot: parked_or_empty  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -58,6 +58,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | Ady加了WhatsApp  一直在看多口交换机， 不会英文 / @hiperonline.com | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：hiperonline.com MX NoAnswer；A 54.243.117.197 / 13.223.25.84；NS nsg1.namebrightdns.com. / nsg2.namebrightdns.com. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库
 
@@ -115,7 +116,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：在线
+- **状态：已调研（2026-10-21）**　网站状态：hiperonline.com 已挂牌出售（HugeDomains，2026-10-29；MX 无）；公司在营官网 hiperonline.com.tr
 - **是谁**：埃斯基谢希尔的区域互联网服务商 Hiperonline（BTK 授权 ISP；在 Eskişehir 自建光纤（HiperFiber，最高 1000 Mbps）与无线 airfiber 接入网，其他地区借用主导运营商网络覆盖 81 省；企业 Metro Ethernet 最高 10 Gbps；0850 840 98 83；经销商体系）。ISAF 记录：eskisehir@hiperonline.com——Ady 加了 WhatsApp，一直在看多口交换机，不会英文；无后续跟进。ISP 自用：接入/汇聚多口交换机（24/48 口 + 10G 上联）、无线基站供电 PoE。
 - **【官网】ISP 定位与网络**
   > Hiperonline, Eskişehir'de kendi kuruduğu fiber internet altyapısı ve kablosuz internet altyapısı üzerinden hizmet vermektedir. … yerleşik operatöre ait altyapı üzerinden fiber ve VDSL internet hizmetini Türkiye'nin 81 ilinde sunmaktadır. … 1000 Mbps'e varan hızlarla
@@ -131,7 +132,8 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（姓名未记录；Eskişehir 办公室）（Eskişehir 分部信箱（.com 已死 → **公司活着，官网 / 邮箱在 hiperonline.com.tr**；Q-64 死域名单移出）—— 下一封写 info@ / teknik@ @hiperonline.com.tr 问 Teknik Müdür（第 90 批 官方登记核实 2026-10-27））eskisehir@hiperonline.com（用户表） 0850 840 98 83（公司）〔（本地 Clients/ 表格，无公开 URL）〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 （无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
@@ -153,7 +155,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-424XGGM（25% 档）——运营商自用 25% 档：STC-424XGGM（24 GE + 4×10G SFP+ L2+，$132.7）作接入汇聚；L3 版 STC-424XGGM(L3)（$280.3）；48 口 STC-448XGGM(L3)（$485.8）；基站 PoE STC-424DGGPM-280W（$140.1）
 - **邮件切入句（英文）**：Merhaba, ISAF'ta incelediğiniz çok portlu switch'ler için: 24 port gigabit + 4×10G SFP+ L2+ EXW 132,7 USD, L3 sürümü 280,3 USD, 48 port L3 485,8 USD — erişim katmanı için VLAN/QinQ ve IGMP yeterli mi, yoksa OSPF gereken L3 mi arıyorsunuz?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：停放/空站（疑停业或仅占位））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：停放/空站（疑停业或仅占位））
 
 - 尝试域名：hiperonline.com
   > https://hiperonline.com/ conn: HTTPSConnectionPool(host='hiperonline.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(
@@ -171,7 +173,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-389/`；本节随档案重渲染刷新，实时看日志。
 

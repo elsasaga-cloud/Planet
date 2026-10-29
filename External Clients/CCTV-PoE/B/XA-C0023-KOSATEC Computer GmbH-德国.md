@@ -1,10 +1,10 @@
 # XA-C0023 · KOSATEC Computer GmbH · 德国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:17420 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R01 2026-10-27）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:17420 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家（分销/集成/安装/零售/OEM 品牌）+ 有邮箱
-- 研究后改级：XA → **XB**（W1-R01，大型广线分销，info@ 直邮无效 → B 不动；若将来有德国经销商案例再经 listing 渠道申请）；编号不变
+- 研究后改级：XA → **XB**（LT-T03，大型广线分销，info@ 直邮无效 → B 不动；若将来有德国经销商案例再经 listing 渠道申请）；编号不变
 - 人工改级：XB（2026-10-29，Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径））；编号不变
 - 标记：无
 - 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
@@ -83,10 +83,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W1-R01，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — 大型广线分销，info@ 直邮无效 → B 不动；若将来有德国经销商案例再经 listing 渠道申请
-- 活着吗：活（轻卡：未外查）
+- 活着吗：在线（kosatec.de，快照 2026-10-29）：KOSATEC Empowering Global Innovation GmbH - IT for Professionals | KOSATEC AI First IT Distribution
 - 一句话：布伦瑞克的全品类 IT 分销商（德国 Top-5 Vollsortimenter，营收数亿欧元级——据公开常识，待补证）。广线分销商上新要走厂商准入与 listing 流程，小供应商直邮进不去。
 - 是什么人：全品类 IT 分销商（大）；规模：待补证（公开常识：数亿欧元级）
 - 对口哪条线：— — 体量门槛高
@@ -99,5 +99,7 @@
 | 类型 | 说明 | 摘录 | 来源 | 日期 |
 |---|---|---|---|---|
 | 来源库 | Vollsortiment IT分销商；德国Top 5；info@kosatec.de |  | External Clients/CCTV-PoE/A/XA-C0023 | 2026-10-27 |
+| 官网快照 | 官网在线；KOSATEC Empowering Global Innovation GmbH - IT for Professionals ｜ KOSATEC AI First IT Distribution | KOSATEC - Your online shop for IT products. Notebooks, PCs, components, peripherals and more. | https://shop.kosatec.de/en | 2026-10-29 |
 
-- 备注：轻卡。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。
+轻卡。

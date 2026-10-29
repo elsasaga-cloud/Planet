@@ -29,7 +29,7 @@ s_mail: 2 msgs (out 2 / in 0), 2024-12-19 -> 2025-01-13
 p1: STC-424XGGPM-280W
 price_tier: 30%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -103,7 +103,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-29）**　网站状态：域名 avtech.com.tw（官网快照待 Actions 补抓）
+- **状态：已调研（2026-10-29）**　网站状态：在线（avtech.com.tw，快照 2026-10-29）：https://avtech.com.tw/global/
 - **是谁**：C 池三闸捞出（★ 正式）：★ 上市监控品牌 · OEM 30%（长线）：陞泰科技 AV TECH CORPORATION（新北三重；統編 97092770；上市 8072；1996；實收 NT$8 億；代表人 陳世忠）坐实；自有品牌 ✔ 对位 ✔ 坐实 ✔ → P 池候选（长线）
 - **类型**：OEM（闸 2 判定 · 30% 档）
 - **规模**：大型（上市；實收 NT$8 億）
@@ -116,10 +116,11 @@ updated: 2026-10-29
   > 来源：（抓取 2026-10-29）
 - **KP**：—（表内邮箱（公开 / 总机））marketing@avtech.com.tw 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 上市监控品牌 · OEM 30%（长线）：陞泰科技 AV TECH CORPORATION（新北三重；統編 97092770；上市 8072；1996；實收 NT$8 億；代表人 陳世忠）坐实；自有品牌 ✔ 对位 ✔ 坐实 ✔ → P 池候选（长线）；闸 1：台湾 AVTECH（avtech.com.tw；自有品牌 CCTV，表内「商业 PoE 很像帧田的」= 配套 PoE 外购中国）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔；未触达 → 闸 2 查底数（twincn）；四主…
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/saga_fit.basis/deep。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -131,6 +132,11 @@ updated: 2026-10-29
   - 台湾 AVTECH（avtech.com.tw；自有品牌 CCTV，表内「商业 PoE 很像帧田的」= 配套 PoE 外购中国）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔；未触达 → 闸 2 查底数（twincn）；四主区外，低优先
   - 表内兴趣：商业PoE 很像帧田的
 - **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://avtech.com.tw/global/　语言：未标　站点地图 URL 数：0
+- 数据文件：`data/saga_clients/site_snapshots/SC-465.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -154,12 +160,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-465/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://avtech.com.tw/) | html | 待首轮 | — | 官网首页 |
+| [home](https://avtech.com.tw/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 0 字符；首行： |
 
 ## 联系方式（已有 · 原值照录）
 

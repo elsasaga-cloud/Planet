@@ -25,7 +25,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -55,6 +55,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2025-04-03 | 去 | Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次） | L3 Managed Switch — This is a Marvell-based L3 Managed 24 port DIN PoE Switch. 1, PoE af/at/bt, 370W budget, max 60℃ 2, Support DI/DO/RS485, USB, Alarm 3, Customizable We | Elsa 箱群发 BCC 触达证据（命中地址 fonex.pl, sklep@fonex.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-09-01 | 去 | Elsa 群发（BCC；To j.zaczek@mbs-systems.pl，PL-2 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 fonex.pl, sklep@fonex.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Alarmy, Monitoring i Domofony › Sklep internetowy Fonex.pl — Sklep internetowy. Dystrybucja systemów alarmowych, oddymiania, monitoringu CCTV, domofonów, wideodomofonów, kontroli dostępu, oddymiania, P-POŻ / SSP | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -109,7 +110,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（fonex.pl；并档 Planet 渠道档案 PB-057）
 - **是谁**：琴斯托霍瓦的安防系统分销商（SATEL 授权），网店 + B2B 批发计划，PLANET 为 CCTV 网络配套。类型：安防分销商/电商（1994 年起电子安防系统分销：CCTV、报警、对讲/可视对讲、门禁、消防/排烟、门控自动化、智能家居；SATEL 授权分销；B2B 安装商与批发合作计划）。信号：fonex.pl PLANET 商品在售：GSD-2022P（16 PoE+ + 2 RJ45 + 2 SFP，871 zł，免运费、「Przewidywana dostawa: we wtorek」现货）、WGS-4215-8P2S（「Switch PoE przemysłowy」类目，8 PoE+ 2 SFP 工业壁挂管理型）；类目路径 Telewizja przemysłowa › Elementy sieci LAN/WAN › Switch › Switch PoE。Planet 渠道档案 PB-057 评级 B（需求：PLANET PoE 商用 + 工业两档在售、面向安装商的安防分销；触达：sklep@fonex.pl（销售/订单）、info@fonex.pl（技术）、wspolpraca@fonex.pl（B2B 批发合作）均官网公开；体量：Sp. j.（家族合伙），人数待补证；无具名 → B）。并档说明：Saga 表内本条 SB-1124（波兰）自动评 C（原因：；Saga 群发已推送 0 次无回复）。
-- **在卖/在用品牌**：PLANET
+- **在卖/在用品牌**：PLANET, Pulsar, Uniview, Ubiquiti, Extralink, TP-Link, Hikvision
 - **【卖方目录】PLANET 商用 PoE 在售（现货、价格）**
   > GSD-2022P Planet Switch 16x PoE+, 2x RJ45, 2x SFP … Budżet mocy PoE: do 185 W … 871.00 zł Dostawa: darmowa Gwarancja: 24 miesiące Przewidywana dostawa: we wtorek … Telewizja przemysłowa › Elementy sieci LAN / WAN › Switch › Switch PoE
   > 来源：https://www.fonex.pl/gsd-2022p-planet-switch-16x-poe-2x-rj45-2x-sfp-10256.html（抓取 2026-10-20）
@@ -124,9 +125,10 @@ updated: 2026-10-29
   > 来源：https://www.fonex.pl/strona/wspolpraca-b2b-7.html（抓取 2026-10-20）
 - **KP**：（Borowscy 合伙人）（wspólnicy（KRS 0000317918 普通合伙；姓名未取）= 收件人 sklep@ 点名 właściciel / zakupy（第 100 批 官方登记核实 2026-10-28））sklep@fonex.pl 〔〕
 - **调研后定级**：B（原自动 C）——Planet 渠道档案 PB-057 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-057，W 批次调研 2026-10-19/20））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-057，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -149,6 +151,23 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——其在售 WGS-4215-8P2S（8 PoE+ 2 SFP 工业管理型）直接对位；CCTV 户外/机柜场景；分销商 → 20%（沿用 Planet 档案 PB-057）；需求：
 - **邮件切入句（英文）**：Your CCTV network range carries the WGS-4215-8P2S class for installers; an EXW second source for that 8-port Gigabit PoE managed industrial tier gives your B2B accounts the same slot at a lower landed cost. For the CCTV installs your B2B accounts quote today, is the 8-port Gigabit PoE managed industrial tier the one that moves most, or the 16/24-port commercial PoE?
 
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://www.fonex.pl/　语言：pl　站点地图 URL 数：6206
+- **标题**：Alarmy, Monitoring i Domofony › Sklep internetowy Fonex.pl
+- **描述**：Sklep internetowy. Dystrybucja systemów alarmowych, oddymiania, monitoringu CCTV, domofonów, wideodomofonów, kontroli dostępu, oddymiania, P-POŻ / SSP
+- **首页栏目**：Nasz wybór / Nowości / Co nowego / Nowości w ofercie SATEL – nowe czujki, sterowniki, czytnik i akcesoria / Co zrobić, gdy czujnik czadu się włączy? / Dlaczego Fonex? / Fonex - Twój sklep z alarmami / Kamery i urządzenia monitoringu
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 334、switch 96、ethernet 59、cctv 58、gigabit 45、sfp 42、hikvision 24、uniview 17、ubiquiti 10、odm 7、tp-link 7、planet 3
+- **站内出现的品牌**：Pulsar, Uniview, Ubiquiti, Extralink, TP-Link, Hikvision　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RJ-45, BCS-L-DIP14FCR3L3, BCS-L-EIP14FCL3, BCS-L-TIP14FCL5, BCS-X2W, BCS-L-SP04G02G, BCS-L-SP0802G, BCS-L-SP1602G-2SFP-M, BCS-L-SP2402G-2SFP-M, BCS-SP24G04G-4SFP-M, BCS-SP48G-4SFP-M, BCS-IP5
+- **站内公开邮箱**：info@fonex.pl, sklep@fonex.pl
+- **站内公开电话**：0000 5065 1900 1002, 0000 5065 1900 1006, 0000 5065 1900 1007
+- **产品类页面**：https://www.fonex.pl/fgsd-1022vhp-planet-switch-8x-poe-2x-rj45-2x-sfp-9936.html；https://www.fonex.pl/tl-sg1008p-tp-link-switch-8x-10-100-1000mbps-4x-poe-3250.html；https://www.fonex.pl/ciot-h4l2-commax-switch-poe-6-portowy-do-wideodomofonu-ip-6759.html；https://www.fonex.pl/ciot-h8l2-commax-switch-poe-10-portowy-do-wideodomofonu-ip-6760.html；https://www.fonex.pl/tl-sg1218mp-tp-link-switch-poe-18-portow-gigabit-ethernet-10302.html；https://www.fonex.pl/tl-sg1428pe-tp-link-switch-poe-24-portow-gigabit-ethernet-10653.html
+- **已抓子页**：[Switche do kamer cyfrowego systemu monitoringu - fonex.pl](https://www.fonex.pl/kategorie/switch-311.html)；[Zasilacz PoE - Zasilanie PoE do kamer 48V i 24V - fonex.pl](https://www.fonex.pl/kategorie/zasilacze-poe-310.html)；[Telewizja Przemysłowa - System Monitoringu CCTV - fonex.pl](https://www.fonex.pl/kategorie/telewizja-przemyslowa-4.html)；[Extendery i transmisja PoE / LAN - fonex.pl](https://www.fonex.pl/kategorie/extendery-i-transmisja-poe-lan-645.html)；[Kontakt, media społecznościowe, dojedź do nas - fonex.pl](https://www.fonex.pl/strona/kontakt-4.html)；[Kamery CCTV do monitoringu. Kamery tubowe i kopułowe - fonex](https://www.fonex.pl/kategorie/kamery-cctv-182.html)
+- 首页正文摘录：Szukaj Konto 0 Koszyk 0 Ulubione 0 Porównaj 34 3 525 111 783 825 111 sklep@fonex.pl KONTAKT > zamknij wyszukiwanie Wszystkie kategorie Telewizja przemysłowa Systemy alarmowe Domofony i wideodomofony Kontrola dostępu Systemy zasilania Inteligentny dom Systemy ppoż i oddymiania Systemy mocowań Systemy prezentacji treści Automatyka do bram Akcesoria komputerowe 30 LAT FONEX Pozostałe Oferta dla dewelopera Inwestycje - o
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 334、监控 58 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1124.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
+
 ## 在卖/在用品牌 → Saga 对位
 
 （备注未提及具体品牌）
@@ -159,13 +178,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-25T07:41:18Z
-- **最近变化摘要**：2026-10-25 home：内容变化：+179 −1 行
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 home：内容变化：+179 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1124/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://fonex.pl/) | html | HTTP 200 | 2026-10-25T07:41:18Z | 15696 字符；首行：Alarmy, Monitoring i Domofony › Sklep internetowy Fonex.pl |
+| [home](https://fonex.pl/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 15696 字符；首行：Alarmy, Monitoring i Domofony › Sklep internetowy Fonex.pl |
 
 ## 联系方式（已有 · 原值照录）
 

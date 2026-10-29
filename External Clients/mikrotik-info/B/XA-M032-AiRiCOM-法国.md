@@ -1,6 +1,6 @@
 # XA-M032 · AiRiCOM · 法国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 mikrotik-info `A-046`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W2-R05c 2026-10-27）→ 下一动作 首触
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 mikrotik-info `A-046`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 首触
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱
@@ -69,13 +69,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W2-R05c，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XA** — FR 工业网络分销、未触达 → A 首触
-- 活着吗：来源库 2026-09-22 核对在线；本轮未复查
+- 活着吗：在线（airicom.com，快照 2026-10-29）：Airicom - Votre expert en IoT et M2M
 - 一句话：工业网络/IIoT 分销（AiRiCOM，Boufféré 85 + Paris；N-Tron/Advantech/Terz 工业交换机法国备货，Moxa 渠道伙伴）；工业交换机同类替换
 - 是什么人：工业网络/IIoT 分销（AiRiCOM，Boufféré 85 + Paris；N-Tron/Advantech/Terz 工业交换机法国备货，Moxa 渠道伙伴）；规模：未量化
-- 在卖/在用：Red Lion、N-Tron
+- 在卖/在用：Red Lion、N-Tron、Milesight、Advantech、Moxa
 - 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — 工业交换机品类现成
 - 找得到人吗：marketing@airicom.fr（来源库公开邮箱）；KP：无具名
 - 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
@@ -86,6 +86,7 @@
 | 类型 | 说明 | 摘录 | 来源 | 日期 |
 |---|---|---|---|---|
 | 来源库官网/名录核对 | Boufféré + 巴黎两处办公室；【2026-09-22 补】经 Moxa 渠道名录确认同时为 Moxa 法国渠道伙伴，主营 Moxa 工业网络产品线。 【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 404 页正文可见；搜索索引所示 commercial@/support@airicom.fr 未复核，暂不写入：marketing@airicom.fr。airicom.com 404 页 |  | https://airicom.com/ | 2026-09-22 |
+| 官网快照 | 官网在线；Airicom - Votre expert en IoT et M2M | Airicom, spécialiste en Télécommunication et capteurs sans fil IoT et M2M, conseille de multiples sociétés dans leur transformation digitale | https://airicom.com/ | 2026-10-29 |
 
 草稿（英文，首触；Simon 发，Agent 不发）：
 
@@ -104,4 +105,5 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：本轮 web_search：airicom.com「Airicom : votre spécialiste des Switches industriels en France … Advantech, N-Tron et Terz」。仅公开 marketing@，首封请其转采购。 轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+本轮 web_search：airicom.com「Airicom : votre spécialiste des Switches industriels en France … Advantech, N-Tron et Terz」。仅公开 marketing@，首封请其转采购。 轻卡：本轮未外查，沿用来源库官网/名录核对。

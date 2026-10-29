@@ -184,14 +184,14 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
-- **最近变化摘要**：2026-10-24 youtube：恢复可达（上轮 YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过））
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 sitemap：新增 820 条：2026-02-04 csr；2025-11-19 nexcom；2025-11-19 iei；2025-11-20 solutions；2025-11-21 i
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1002/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.amplicon.com/) | html | HTTP 200 | 2026-10-29T08:41:09Z | 6771 字符；首行：Amplicon: Industrial Computers, Communications & Measurement |
-| [sitemap](https://www.amplicon.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-29T08:41:09Z | 900 个 URL；最新 lastmod 2026-10-23 |
+| [sitemap](https://www.amplicon.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-29T15:11:51Z | 900 个 URL；最新 lastmod 2026-10-23 |
 | [news_1](https://www.amplicon.com/about/news-events/) | html | HTTP 200 | 2026-10-29T08:41:09Z | 4549 字符；首行：News & Events |
 | [news_2](https://www.amplicon.com/whitepapers/) | html | HTTP 200 | 2026-10-29T08:41:09Z | 7122 字符；首行：Amplicon Whitepapers and Technical Articles |
 | [youtube](https://www.youtube.com/user/amplicontv) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-04-02T09:10:01+00:00 Amplicon ICP DAS Remote I/O solutions \| Remote I/O modu |

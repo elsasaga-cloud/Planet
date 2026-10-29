@@ -29,7 +29,7 @@ s_mail: 11 msgs (out 11 / in 0), 2024-06-21 -> 2026-10-09
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -58,6 +58,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ★★ 首选 · OEM 30%：ELTROX Sp. z o.o.（KRS 0000175807；NIP 6462490527；Częstochowa；2003 起；36 直营 + 52 合作门店；批发品牌 Hurton；自有品牌 KENIK / GetFort 含网络设备；进口商）坐实；对位 ✔ 波兰次主区 ✔ 品牌商 ✔ 进口商 ✔ 体量 ✔ → P 池候选（采购 KP 待取；与 Planet 仓 PB-051 并线）；Simon 曾判不行，可否决 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Strona główna \| Getfort — Kenik to profesjonalne systemy zabezpieczeń do domu i firm. Nowoczesne kamery do monitoringu, rejestratory oraz domofony i wideodomofony. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -116,9 +117,10 @@ updated: 2026-10-29
   > Eltrox.pl ul. Warszawska 74 42-202 Częstochowa Poland +48 34 333 57 04
   > 来源：https://www.ui.com/distributors/?region=eur&country_state=PL（抓取 2026-10-20）
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★★ 首选 · OEM 30%：ELTROX Sp. z o.o.（KRS 0000175807；NIP 6462490527；Częstochowa；2003 起；36 直营 + 52 合作门店；批发品牌 Hurton；自有品牌 KENIK / GetFort 含网络设备；进口商）坐实；对位 ✔ 波兰次主区 ✔ 品牌商 ✔ 进口商 ✔ 体量 ✔ → P 池候选（采购 KP 待取；与 Plane…；闸 1：波兰 Eltrox / getfort（全国性安防分销 + 连锁门店，MikroTik Master；Planet 仓 PB-051 评 B）→ 波兰次主区 + 分销体量；Simon 判不行 → 闸 2 查底数（并线 PB-051）
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-051，W 批次调研 2026-10-19/20））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-051，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -139,6 +141,21 @@ updated: 2026-10-29
 - **风险/边界**：法人全称与注册号；PLANET 是否仍为常备（页面缺货）；具名采购人（sklep@ 为网店邮箱）
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——监控分销商主力场景为 8–16 路摄像头 PoE；FNSW-1600P 为 16 口 FE PoE 非管理（Saga 暂无 16 口商用 PoE/FE PoE，注明），以 8 口千兆 PoE 管理型 STC-28DGGPM 切入；分销商/网店 → 20%（沿用 Planet 档案 PB-051）；需求：
 - **邮件切入句（英文）**：（不主动发送：用户判定不行）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://getfort.com/　语言：en　站点地图 URL 数：608
+- **标题**：Strona główna / Getfort
+- **描述**：Kenik to profesjonalne systemy zabezpieczeń do domu i firm. Nowoczesne kamery do monitoringu, rejestratory oraz domofony i wideodomofony.
+- **首页栏目**：Poznaj Nowe Szafy Rack / Wszystko czego potrzebujesz do dobrej instalacji / Zasilanie Getfort / Przewody Getfort / Co sprzedajemy? / Kategorie produktów / Fundamenty przewagi GetFort / Nasze produkty
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 160、switch 81、sfp 59、ethernet 29、2.5g 20、cctv 19、gigabit 11、wifi 3
+- **站内型号串**（正则抽取，含非交换机）：GF-220G-16P-240, GF-120G-16P-240, GF-210D-8P-120, GF-110-8PG-S-120, RJ45-RJ45, GF-110D-8P-120, GF-226G-24P-250, GF-218G-16P-200, SGF47-88EH-SPB, SGF47-80EH-SPB, SGF47-88EH-SGB, SGF47-80EH-SGB
+- **站内公开邮箱**：kontakt@getfort.com
+- **产品类页面**：https://getfort.com/produkty/switch-poe-getfort-16fe2ge2sfp-240w；https://getfort.com/produkty/switch-poe-getfort-16ge2ge2sfp-240w；https://getfort.com/produkty/switch-getfort-poe-zewnetrzny-4ge1ge1sfp-ip65；https://getfort.com/produkty/switch-poe-getfort-8fe-x-poe-2fe-uplink-120w-poe；https://getfort.com/produkty/switch-poe-getfort-przemyslowy-poe-4ge1ge1sfp-40-80；https://getfort.com/produkty/switch-poe-getfort-przemyslowy-poe-8ge2ge2sfp-40-80
+- **已抓子页**：[SWITCH POE GETFORT 8+1+SFP Gigabit Ethernet 120W / Getfort](https://getfort.com/produkty/switch-poe-getfort-81sfp-gigabit-ethernet-120w)；[SWITCH POE GETFORT 8FE+2GE 120W / Getfort](https://getfort.com/produkty/switch-poe-getfort-8fe2ge-120w)；[SWITCH POE GETFORT 16GE+2GE+2SFP 240W / Getfort](https://getfort.com/produkty/switch-poe-getfort-16ge2ge2sfp-240w)；[SWITCH POE GETFORT 16FE+2GE+2SFP 240W / Getfort](https://getfort.com/produkty/switch-poe-getfort-16fe2ge2sfp-240w)；[SWITCH POE GETFORT 24FE+2GE+2SFP 250W / Getfort](https://getfort.com/produkty/switch-poe-getfort-24fe2ge2sfp-250w)；[SWITCH POE GETFORT 16FE+2GE+1SFP 200W / Getfort](https://getfort.com/produkty/switch-poe-getfort-16fe2ge1sfp-200w)
+- 首页正文摘录：O marce Produkty Okablowanie Audio-wideo Szafy RACK i obudowy Urządzenia IT Elektronika Zasilanie CCTV Elektryka i narzędzia Wsparcie Centrum pobierania Kontakt Poznaj Nowe Szafy Rack Teraz jeszcze więcej przestrzeni – 47U Dowiedz się więcej Wszystko czego potrzebujesz do dobrej instalacji Przewody • złącza • zasilanie • rack • sieci • PoE Dowiedz się więcej Zasilanie Getfort Przetwornice napięcia, listwy antyprzepię
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 20、交换机 81 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SC-2510.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -173,12 +190,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-2510/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://getfort.com/) | html | 待首轮 | — | 官网首页 |
+| [home](https://getfort.com/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 4090 字符；首行：Strona główna \| Getfort |
 
 ## 联系方式（已有 · 原值照录）
 

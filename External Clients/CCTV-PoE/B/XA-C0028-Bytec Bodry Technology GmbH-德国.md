@@ -1,10 +1,10 @@
 # XA-C0028 · Bytec Bodry Technology GmbH · 德国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:18248 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R01 2026-10-27）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:18248 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家（分销/集成/安装/零售/OEM 品牌）+ 有邮箱
-- 研究后改级：XA → **XB**（W1-R01，2.6 亿欧元分销商、网络线绑 D-Link → B 不动）；编号不变
+- 研究后改级：XA → **XB**（LT-T03，2.6 亿欧元分销商、网络线绑 D-Link → B 不动）；编号不变
 - 人工改级：XB（2026-10-29，Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径））；编号不变
 - 标记：无
 - 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
@@ -95,10 +95,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W1-R01，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — 2.6 亿欧元分销商、网络线绑 D-Link → B 不动
-- 活着吗：活
+- 活着吗：在线（bytec.de，快照 2026-10-29）：bytec – Ihr Spezialdistributor im IT Großhandel
 - 一句话：腓特烈港的 IT 专业分销商（1989 起，92 人，2023 营收 ≈2.64 亿欧元），Fujitsu/Lenovo 主力分销，2020 起加 D-Link 全线。体量大、网络线刚起步且已绑 D-Link。
 - 是什么人：IT 专业分销商（大，Fujitsu/Lenovo/D-Link）；规模：92 人；€264M（2023）
 - 在卖/在用：Fujitsu、Lenovo、D-Link、Datacore、IBM
@@ -113,3 +113,7 @@
 |---|---|---|---|---|
 | implisense | Large enterprise · 92 employees (2023) · €263,593,751 revenue |  | https://app.implisense.com/en/companies/bytec-bodry-technology-gmbh-friedrichshafen--DEOXF195OE22 | 2025-06-19 |
 | IT-Business | Bytec vertreibt das Netzwerkportfolio von D-Link … Schwerpunkt Business-Produkte |  | https://www.it-business.de/bytec-vertreibt-das-netzwerkportfolio-von-d-link-a-980896/ | 2020-11-20 |
+| 官网快照 | 官网在线；bytec – Ihr Spezialdistributor im IT Großhandel | Wir liefern schnell, effizient und zuverlässig Hardware, Software & IT-Services - für Reseller, Systemhäuser, Softwarehäuser und den IT Fachhandel. | https://www.bytec.de/ | 2026-10-29 |
+
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/evidence/site_p1_hint。
+

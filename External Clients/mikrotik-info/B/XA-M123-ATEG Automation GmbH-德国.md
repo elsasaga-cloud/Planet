@@ -1,6 +1,6 @@
 # XA-M123 · ATEG Automation GmbH · 德国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 mikrotik-info `A-478`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R03 2026-10-27）→ 下一动作 第二封
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 mikrotik-info `A-478`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 第二封
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱（含实名 KP）
@@ -78,10 +78,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W1-R03，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XA** — DE 主攻区工业自动化分销、HMS 战略伙伴 → 维持 A
-- 活着吗：本轮 web_search 复核在线（2026-10-27）
+- 活着吗：在线（ateg.de，快照 2026-10-29）：Industrietastaturen | Folientastaturen | Industrie Monitore | Led Großanzeigen | Berührungslose Temperaturmessung – Ateg Automation GmbH
 - 一句话：工业自动化组件分销（Remscheid，1995 起，>1000 客户；HMS Networks Strategic Partner 2026-03；2–10 人）；卖 N-Tron/Red Lion 工业交换机（8口非网管约 $500+）→ 中性货同规格 STI-280GE（Saga）约 $64（EXW 快照，15 天有效），做第二供应商/替换，价差 5 倍
 - 是什么人：工业自动化组件分销（Remscheid，1995 起，>1000 客户；HMS Networks Strategic Partner 2026-03；2–10 人）；规模：工业自动化组件分销（Remscheid，1995 起，>1000 客户；HMS Networks Strategic Partner 2026-03；2–10 人）
 - 在卖/在用：N-Tron、Red Lion、Anybus、Ewon
@@ -96,6 +96,7 @@
 |---|---|---|---|---|
 | 来源库官网/名录核对 | 本行由分销商名录批量导入，三星依据仅为渠道等级（分销（HMS/N-Tron·Red Lion 渠道））与「N-Tron + Red Lion + Anybus + Ewon」，尚无人工核实。建议先查证其是否已有工业交换机 / PoE++ 产品线，再定切入型号 【2026-09-28 R49 邮箱补录】来源等级：official-company。官网 /kontakt/ 正文可见：info@ateg.de；同页另有 vertrieb@at |  | https://ateg.de/ | 2026-09-28 |
 | S 箱群发记录 | S 箱 2026-10-06 发 info@ateg.de「24 Port PoE Managed Switch」，去 1 来 0 |  | data/gmail_s/2026-09_10群发名单_未入库.csv | 2026-10-06 |
+| 官网快照 | 官网在线；Industrietastaturen ｜ Folientastaturen ｜ Industrie Monitore ｜ Led Großanzeigen ｜ Berührungslose Temperaturmessung – Ateg Automation GmbH | ATEG Automation GmbH liefert Industrietastaturen, Folientastaturen, Industrie Monitore, Led Großanzeigen, Infrarotsensoren und Infrarot Thermometer für berührungslose Temperaturmessung sowie Infrarotkameras. Ihr Spezialist für Edelstahltastatur, Metalltastatur, wasserdichte, auch medizinische Tastat | https://www.ateg.de/ | 2026-10-29 |
 
 草稿（英文，第二封；Simon 发，Agent 不发）：
 
@@ -114,4 +115,5 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：本轮 web_search 复核：ateg.de/ueber-uns「1995 als Vertriebsgesellschaft für Komponenten der Automatisierungstechnik… über 1000 Kunden」；ateg.de/news 2026-03-04 HMS Networks Strategic Partner；implisense：industrielle Netzwerktechnik 在产品线内。 
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。
+本轮 web_search 复核：ateg.de/ueber-uns「1995 als Vertriebsgesellschaft für Komponenten der Automatisierungstechnik… über 1000 Kunden」；ateg.de/news 2026-03-04 HMS Networks Strategic Partner；implisense：industrielle Netzwerktechnik 在产品线内。 

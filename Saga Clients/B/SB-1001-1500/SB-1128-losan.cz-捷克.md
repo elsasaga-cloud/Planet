@@ -25,7 +25,7 @@ last_contact: unknown
 p1: STI-280GM
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -55,6 +55,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2025-04-12 | 去 | Elsa 群发（BCC；To office@ergate.cz，CZ 批次） | Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere | Elsa 箱群发 BCC 触达证据（命中地址 losan.cz, tp@losan.cz）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-08-28 | 去 | Elsa 群发（BCC；To office@ergate.cz，CZ 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 losan.cz, tp@losan.cz）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | LOSAN – prodej a servis výpočetní a kancelářské techniky | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -130,9 +131,10 @@ updated: 2026-10-29
   > 来源：https://losan.cz/usti-nad-labem/（抓取 2026-10-20）
 - **KP**：Jan Stehno（Jednatel / 股东（fakturujzdarma；2023-02-02 起；另 Pavel Zwinger）= 拍板人 / 收件人（点名）（第 109 批 官方登记核实 2026-10-28）） 〔https://rejstrik.penize.cz/64053580-losan-s-r-o〕
 - **调研后定级**：B（原自动 C）——Planet 渠道档案 PB-096 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-096，W 批次调研 2026-10-19/20））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-096，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -161,6 +163,18 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-280GM（20% 档）——其有发货库存的主力款 IGS-10020MT（工业 8×GE + 2×SFP 管理型 DIN，8 351 Kč 净价）→ Saga STI-280GM 同口型，20% 档 $68.2 USD EXW，价差最直观；IGS-4215-4T2S 由 STI-240GE 第二封对位；IT 零售 / 电商 + 机构供应（走量端，自定毛利）→ 20%（沿用 Planet 档案 PB-096）；需求：
 - **邮件切入句（英文）**：Your e-shop keeps the PLANET IGS-10020MT in stock at 8 351 Kč net — a Marvell-based, neutral-packed STI managed DIN-rail line at EXW gives that slot a second source with room for your own margin. For your school and institutional projects, is the 8-port Gigabit + 2×SFP managed class (IGS-10020MT) the unit you move most, or the 4-port IGS-4215-4T2S — so I send the matching sample first?
 
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://losan.cz/　语言：cs　站点地图 URL 数：48
+- **标题**：LOSAN – prodej a servis výpočetní a kancelářské techniky
+- **首页栏目**：Pozáruční opravy / Záruční opravy / Návrh a realizace sítí / Outsourcing / Prodej / Pro školy / Výjezdy / S čím Vám umíme pomoci?
+- **站内型号串**（正则抽取，含非交换机）：HAL3000, CZ64053580
+- **站内公开电话**：0000 0026 0157 2687
+- **产品类页面**：https://losan.cz/2021/03/05/e-shop/；https://losan.cz/prodej-2/；https://losan.cz/2021/03/08/prodej/
+- **已抓子页**：[KONTAKTY – LOSAN](https://losan.cz/kontakty/)；[NAŠI PARTNEŘI – LOSAN](https://losan.cz/nasi-partneri/)；[E-SHOP – LOSAN](https://losan.cz/2021/03/05/e-shop/)
+- 首页正文摘录：Skip to content LOSAN prodej a servis výpočetní a kancelářské techniky Menu SERVIS A OPRAVY ZÁRUČNÍ OPRAVY POZÁRUČNÍ OPRAVY ZÁCHRANA DAT INSTALACE SW ČIŠTĚNÍ VÝJEZDY ODVIROVÁNÍ CENÍK SERVISNÍCH PRACÍ PRO FIRMY PRODEJ SPRÁVA ICT (SÍTÍ) NÁVRH A REALIZACE SÍTÍ OUTSOURCING AUDIT A KONZULTACE PRONÁJEM ICT REFERENCE EKOLOGICKÁ LIKVIDACE PRO ŠKOLY INTERAKTIVNÍ TABULE ZÁRUKA NBD (Next Business Day) NABÍJENÍ A TRANSPORT TABLE
+- 数据文件：`data/saga_clients/site_snapshots/SB-1128.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
+
 ## 在卖/在用品牌 → Saga 对位
 
 | 备注所见品牌 | 含义 | Saga 切入 |
@@ -173,7 +187,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1128/`；本节随档案重渲染刷新，实时看日志。
 

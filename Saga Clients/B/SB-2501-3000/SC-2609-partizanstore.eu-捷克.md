@@ -30,7 +30,7 @@ s_mail: 25 msgs (out 25 / in 0), 2024-06-29 -> 2026-09-03
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 3
 updated: 2026-10-29
 ```
@@ -59,6 +59,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ★ 自有品牌 · OEM 30%：PARTIZAN SECURITY s.r.o.（Praha；IČ 28909437；布拉格市法院 C 152541；Partizan = 2008 年创立的欧洲安防品牌，自产硬件 + 自研软件，60+ 国项目）坐实 → 国别纠偏 欧洲（未填）→ 捷克；自有品牌 ✔ 配套 PoE 现由洪瑞供 ✔ 欧洲 ✔ 对位 ✔ → P 池候选；Q-33 口径；Simon 曾判不行，可否决 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Partizan Store Europe – You see. You control. — Partizan je európska firemní značka, založená v roce 2008. Vyrábíme zařízení a vyvíjíme programové vybavení pro implementaci moderních bezpečnostních systémů. Naše řešení optimálně pokrývají rozsáhlé spektrum úkolů i uživatelů díky vysoké kvalitě a pře | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -126,10 +127,27 @@ updated: 2026-10-29
   > PARTIZAN SECURITY s.r.o. 商务条款页：IČ 28909437；DIČ CZ28909437；Kresomyslova 384/17, Nusle, 140 00 Praha 4；布拉格市法院商事登记 C 152541
   > 来源：https://www.partizanstore.eu/en/commercial-terms-and-conditions/（抓取 2026-10-29）
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 自有品牌 · OEM 30%：PARTIZAN SECURITY s.r.o.（Praha；IČ 28909437；布拉格市法院 C 152541；Partizan = 2008 年创立的欧洲安防品牌，自产硬件 + 自研软件，60+ 国项目）坐实 → 国别纠偏 欧洲（未填）→ 捷克；自有品牌 ✔ 配套 PoE 现由洪瑞供 ✔ 欧洲 ✔ 对位 ✔ → P 池候选；Q-33 口径；Simon 曾…；闸 1：Partizan Store（partizanstore.eu，国别未填；商业 PoE 主要是洪瑞的）：欧洲 + 已进口同供应链产品；17 推 0 回 → 闸 2 先定国别再查底数，低优先；洪瑞现供客户 → Q-33 口径待 Simon（…
-- 备注：T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。
+T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。
 
-### 加厚挖掘（2026-10-29 · 邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://www.partizanstore.eu/　语言：cs　站点地图 URL 数：1
+- **标题**：Partizan Store Europe – You see. You control.
+- **描述**：Partizan je európska firemní značka, založená v roce 2008. Vyrábíme zařízení a vyvíjíme programové vybavení pro implementaci moderních bezpečnostních systémů. Naše řešení optimálně pokrývají rozsáhlé spektrum úkolů i uživatelů díky vysoké kvalitě a přesto výhodným cenám. Partizan není pouze zvláštní
+- **首页栏目**：Přihlášení k vašemu účtu / Poslední hodnocení / Zápatí / Kontakt / Informace pro vás / Odebírat newsletter / Bezpečnostní kontrola
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 54、poe 42、switch 25、nvr 18、odm 17、cctv 12、gigabit 5、access control 5、wifi 3、sfp 2、surveillance 1、cable 1
+- **站内型号串**（正则抽取，含非交换机）：IPD-5SP-IR, IPO-5SP, IPD-VF5MP-IR, IPO-VF5MP, IPS-220X-IR, IPS-230X-IR, PSW-8, NVH-1622, PSW-4, NSW-24, PNK-3A-PTZ, IPO-2SP
+- **站内公开邮箱**：sales@partizanstore.eu
+- **站内公开电话**：+420 608 880 986
+- **社媒**：https://twitter.com/share, https://www.facebook.com/partizaneurope, https://www.facebook.com/partizaneurope/, https://www.instagram.com/partizan_security_global/, https://www.youtube.com/@partizansecurity
+- **已抓子页**：[PoE switche - PartizanStore.eu](https://www.partizanstore.eu/kategorie/poe-switche/)；[Switche bez PoE - PartizanStore.eu](https://www.partizanstore.eu/kategorie/switche-bez-poe/)；[5Mp PTZ IP kamera IPS-220X-IR SE AI v1.0 Starlight / Na Part](https://www.partizanstore.eu/2494/)；[O nás](https://www.partizanstore.eu/o-nas/)；[IP CCTV - PartizanStore.eu](https://www.partizanstore.eu/en/ip-cctv/)
+- 首页正文摘录：Tento web používá soubory cookie. Dalším procházením tohoto webu vyjadřujete souhlas s jejich používáním. Více informací zde Nastavení Souhlasím Přejít na obsah Přihlášení k vašemu účtu E-mail Heslo Nevyplňujte toto pole Surname Přihlásit se Nová registrace Zapomenuté heslo Pokračovat do košíku Zákaznická podpora: +420 608 880 986 sales@partizanstore.eu Doprava a platby Pro Partnery Kontakty O nás Hodnocení obchodu O
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 42、监控 85 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SC-2609.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -186,12 +204,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-2609/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://partizanstore.eu/) | html | 待首轮 | — | 官网首页 |
+| [home](https://partizanstore.eu/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 3162 字符；首行：Partizan Store Europe – You see. You control. |
 
 ## 联系方式（已有 · 原值照录）
 

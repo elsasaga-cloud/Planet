@@ -26,7 +26,7 @@ s_mail: 37 msgs (out 37 / in 0), 2024-07-03 -> 2026-09-23
 p1: STI-288GPM
 price_tier: 30%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: ok  # 2026-10-29
 sources: 3
 updated: 2026-10-29
 ```
@@ -38,7 +38,7 @@ updated: 2026-10-29
 - **历史互动**：推送 27 次（2024-05-08 → 2025-11-05）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288GPM — 自有 LÜTZE 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-280GE（$50.5）作二供；需符合其机柜导轨系列外观。已打开的主题（2/37 封有打开记录）：「24 Port Fiber Switch」(2024-12-18)、「90W PoE Managed Switch」(2025-01-09) → 读者兴趣偏「MC/光电」；与 P1 同类，继续｜已发资料（勿重发）：Saga Software Function List-release 7.(2025-04-23)、Product Link_2026Q2(2026-02-11)、Saga Feature List_7.5.x_L2+(2026-07-07)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；首触锚价 STI-288GPM $85.5 EXW（主表档位（PDF 上限 $88；SA-016 2025-07 实报 $72 为分销量价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $65（10G fiber media converter）、2024-11-25 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-18 $240（24 Port Fiber Switch）、2025-09-24 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the industrial Ethernet switches in the LÜTZE industrial-communication catalogue, we can be a second ODM source (DIN-rail 8-GE/8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from small lots in your housing — is there a model in the range you would like a second-source quote for? Reference: STI-288GPM at $85.5 USD EXW (MOQ 1, 15-day validity).
-- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
+- **最大未知**：年走量与现供应商
 - **下一步**：2026-11 A 邮箱 → dimitrios.koutrouvis@luetze.de 首封前知悉：Elsa 2025-02 已 1:1 发过「90W PoE Managed Switch」给 info@luetze.de（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 短信一问（email_hook）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
@@ -59,6 +59,7 @@ updated: 2026-10-29
 | 2025-02-21 | 去 | Elsa 1:1 去信（To sales.gb@lutze.co.uk） | 8 Port Industrial PoE Switch — Marvell based unmanaged 8 GE PoE, 30W/port, 250 m PoE, watchdog, DIP, SFP/SC/FC/ST（稿内无价，第 74 批(p) 已读稿） | Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，无称呼；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封 | `elsa_1to1` |
 | 2026-09-23 | 去 | A/S 群发 | Mini Industrial PoE Switch、10G Enterprise SFP Switch | 37 封 / 2 次打开 / 0 回｜首封 2024-07-03 → 末封 2026-09-23（37 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS 自己的牌子 质量还行 主要是工业电缆；自己的牌子；https://www.luetze.com/es-es/catalogo/Control/Comunicaci%C3%B3n-industrial | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Home | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -138,7 +139,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（luetze.com：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：在线（luetze.com，快照 2026-10-29）：Home
 - **是谁**：德国 Lütze（LÜTZE：工业电缆与自动化集团（德/英/西等多国），工业通信目录含自有品牌工业以太网交换机；表内「工业 FS 自己的牌子 质量还行，主要是工业电缆」「可以着重跟一下」「比较重要」；备注 luetze.com/es-es/catalogo/Control/Comunicación-industrial）；群发 27 次无回复。
 - **类型**：德国工业电缆/自动化集团（自有标工业 FS；用户标「重要」，二供口径）
 - **【用户表】表内兴趣/备注**
@@ -148,10 +149,11 @@ updated: 2026-10-29
   > 工业FS  自己的牌子  质量还行 主要是工业电缆 / 自己的牌子；可以着重跟一下；比较重要
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Dimitrios Koutrouvis（Geschäftsführer（2024-10-08 起；与 Amphenol 高管 D'Amico / Lampo 同日任命 = 公司 2024-10 起属美国 Amphenol 集团）= 研究档收件人 dimitrios.koutrouvis@luetze.com 本人 → **联系人 = 德国总经理**，但采购已集团化 → 只写一封问「网络 / 连接线是否仍本地选型」（第 89 批 官方登记核实 2026-10-27））dimitrios.koutrouvis@luetze.com 〔https://www.northdata.de/Friedrich%20L%C3%BCtze%20GmbH,%20Weinstadt〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/deep/facts。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -170,14 +172,17 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-288GPM（30% 档）——自有 LÜTZE 标工业交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ 非管理 STI-280GE（$50.5）作二供；需符合其机柜导轨系列外观
 - **邮件切入句（英文）**：For the industrial Ethernet switches in the LÜTZE industrial-communication catalogue, we can be a second ODM source (DIN-rail 8-GE/8-PoE + 2 SFP managed on Marvell L2+, or unmanaged, −40~75 °C, CE/RoHS) from small lots in your housing — is there a model in the range you would like a second-source quote for?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
 
-- 尝试域名：luetze.com, luetze.de, lutze.co.uk
-  > https://luetze.com/ http 503 ct=text/html; charset=iso-8859-1
-  > https://www.luetze.com/ http 503 ct=text/html; charset=iso-8859-1
-  > http://luetze.com/ http 503 ct=text/html; charset=iso-8859-1
-- **提示**：抓取失败不代表公司不在；人工打开一次即可。
-- 数据文件：`data/saga_clients/site_snapshots/SB-543.json`
+- **首页**：https://www.lutze.com/　语言：en-US　站点地图 URL 数：1
+- **标题**：Home
+- **首页栏目**：NEW LUTZE Cable Catalog / SEOOW Flexible Cord / LUTZE Joins Rockwell Automation PartnerNetwork™ / Meet us - Tradeshows / German Technology Day / SPS Smart Production Solutions
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 219、industrial 93、switch 43、ethernet 28、automation 10
+- **社媒**：http://driveflex.com/, https://www.linkedin.com/company/lutzeinc, https://www.youtube.com/LUTZEInc
+- **已抓子页**：[Industrial Ethernet Switches](https://www.lutze.com/products/control/industrial-ethernet)；[Components and Solutions for IIoT / Industry 4.0](https://www.lutze.com/products/control/industrial-internet-of-things)；[Industrial Cable Overview](https://www.lutze.com/products/cable/industrial-cables)；[Industrial Connectors](https://www.lutze.com/products/connectivity/industrial-connectors)；[Components and Solutions for IIoT / Industry 4.0](https://www.lutze.com/products/control/industrial-internet-of-things)；[AirSTREAM Compact](https://www.lutze.com/products/cabinet/wiring-system-for-switchboxes-and-small-control-cabinets)
+- 首页正文摘录：Lütze Transportation LinkedIn Youtube Deutschland International United States Österreich Schweiz United Kingdom France Suisse España 中國 - Contact Blog Products Solutions Company LUTZE Inc. Careers at LUTZE Press Locations Certificates Newsstream Downloads Where to buy Product Finder Cable & Connectivity Cabinet Control Cable Industrial Cables Control Cables Electronic Cables BUS and Network Cables Motor, VFD, Servo a
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 98、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-543.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -244,7 +249,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-27T08:02:45Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-27T08:02:45Z
 - **最近变化摘要**：2026-10-27 home：内容变化：+0 −4 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-543/`；本节随档案重渲染刷新，实时看日志。
 
@@ -332,7 +337,6 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

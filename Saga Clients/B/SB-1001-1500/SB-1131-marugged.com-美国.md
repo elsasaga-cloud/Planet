@@ -27,7 +27,7 @@ s_mail: 1 msgs (out 1 / in 0), 2026-10-07 -> 2026-10-07
 p1: STI-288DGGPM
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -64,6 +64,7 @@ updated: 2026-10-29
 | 2025-11-19 | 去 | Elsa 群发（BCC；To desmond@multitradepac.com） | Industrial PoE Switch（Elsa 群发第 6/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com） | 第 74 批(o) `from:e.sagatelecom to:marugged.com` 全程 complete：7 行；To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单 | `elsa_bcc` |
 | 2026-09-08 | 去 | Elsa 群发（BCC；To desmond@multitradepac.com） | 24 Port PoE Managed Switch（Elsa 群发第 7/7 轮；本户在 Bcc，锚 To desmond@multitradepac.com；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(o) `from:e.sagatelecom to:marugged.com` 全程 complete：7 行；To=desmond@multitradepac.com ⇒ 本户在该锚 Bcc 名单 | `elsa_bcc` |
 | 2026-10-07 | 去 | S 群发 | 24 Port PoE Managed Switch | 1 封 / 0 次打开 / 0 回｜首封 2026-10-07 → 末封 2026-10-07（1 去 / 0 来） | `gmail_digest` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Rugged Computers and Network Technology \| M/A Rugged — Value-added distributor of rugged computers and network technology specifically designed to operate in harsh usage environments. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -121,7 +122,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（marugged.com；并档 Planet 渠道档案 PB-005）
 - **是谁**：马里兰小型加固计算/工业网络 VAD，PLANET 与 Moxa 分销。类型：工业自动化经销（加固计算与网络 VAD；PLANET 授权分销；Moxa 合作 10 年+）。信号：「Authorized PLANET Technology Distributor」专页，在售 WGS-4215-8P2S 等；多品牌（Moxa、WoMaster、Vecow、Cincoze、Nexcom、Falcon Electric）。Planet 渠道档案 PB-005 评级 B（需求面：PLANET 授权分销 + 工业网络（品牌页+商品页级）；触达：仅 sales@marugged.com；体量小型；但其客户含军工/交通（守界）→ B）。并档说明：Saga 表内本条 SB-1131（马来西亚）自动评 C（原因：；Saga 群发已推送 0 次无回复）。
-- **在卖/在用品牌**：PLANET, Moxa
+- **在卖/在用品牌**：PLANET, Moxa, Teltonika, ORing
 - **【公司自述】M/A Rugged 是 PLANET 美国授权分销**
   > M/A Rugged is an authorized PLANET Technology distributor in the U.S. Contact us for a quote on any of their innovative industrial networking products.
   > 来源：https://marugged.com/planet-technology/?page=3（抓取 2026-10-19）
@@ -132,9 +133,10 @@ updated: 2026-10-29
   > PLANET Technology WGS-4215-8P2S Wall-mount Ethernet switch
   > 来源：https://marugged.com/planet-technology-wgs-4215-8p2s/（抓取 2026-10-19）
 - **调研后定级**：B（原自动 C）——Planet 渠道档案 PB-005 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-005，W 批次调研 2026-10-19/20））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-005，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -153,6 +155,22 @@ updated: 2026-10-29
   - 小型 VAD，直接向最终客户做配置与定制（「custom solutions」）→ 工业壁挂/DIN PoE 第二货源，强调定制能力
 - **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——对位其在售 WGS-4215-8P2S（8×GE PoE + 2 SFP 工业 L2+）；分销商 → 20%（沿用 Planet 档案 PB-005）；需求：
 - **邮件切入句（英文）**：Which PLANET wall-mount or DIN PoE model do your customers spec most, and would a 3-year-warranty alternative at a lower price fit your line card?
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://marugged.com/　语言：en　站点地图 URL 数：0
+- **标题**：Rugged Computers and Network Technology / M/A Rugged
+- **描述**：Value-added distributor of rugged computers and network technology specifically designed to operate in harsh usage environments.
+- **首页栏目**：Get a Quote / Thank you! / ATOP Technologies / Cincoze / Falcon Electric / Asus IOT / InHand Networks / Innodisk
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：ethernet 280、switch 250、industrial 189、sfp 155、poe 106、wireless 104、media converter 88、moxa 86、fiber 79、camera 63、gigabit 39、cable 31
+- **站内出现的品牌**：Moxa, Teltonika, PLANET, ORing　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：SFP-1G, EDS-2010-ML, EDS-2016-ML, EDS-2018-ML, EDS-205A, EDS-208A, EDS-4008, EDS-4009, EDS-4012, EDS-4014, EDS-510E, EDS-518E
+- **站内公开邮箱**：sales@marugged.com
+- **社媒**：https://twitter.com/MA_Rugged, https://www.facebook.com/midatlanticrugged/, https://www.instagram.com/ma_rugged/, https://www.linkedin.com/showcase/mid-atlantic-rugged-systems, https://www.youtube.com/channel/UCQjGXCcAtPm_Vg1di_qo-Fg
+- **已抓子页**：[Industrial Network Infrastructure / M/A Rugged](https://marugged.com/industrial-network-infrastructure/)；[Moxa Industrial Ethernet Switch / M/A Rugged](https://marugged.com/ethernet-switches/)；[ATOP Ethernet Switches / M/A Rugged](https://marugged.com/atop-ethernet-switch/)；[IP67 Rated - IP67 PoE + Ethernet Extender - Get Rugged](https://marugged.com/ip67-poe-ethernet-extender/)；[IP67 Network Switch / M/A Rugged](https://marugged.com/ip67-rated-ethernet-switches/)；[IP67 Rated - IP67 Unmanaged Ethernet Switches - Get Rugged](https://marugged.com/ip67-unmanaged-ethernet-switches/)
+- 首页正文摘录：sales@marugged.com 855-784-4334 Request a Quote Get a Quote First Name * First Name field cannot be blank. Last Name Last Name field cannot be blank. Email Address * You must enter a valid email. Phone Number Part Number Quantity Additional Comments Thank you! Your submission has been sent. Menu Menu Sign In Register Products More Less Manufacturers Moxa MSA Innodisk Cincoze Neousys Falcon Electric PLANET Technology 
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 194、PoE 106 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1131.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -177,7 +195,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1131/`；本节随档案重渲染刷新，实时看日志。
 

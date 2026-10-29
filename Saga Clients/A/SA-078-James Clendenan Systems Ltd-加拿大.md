@@ -28,7 +28,7 @@ s_mail: 19 msgs (out 13 / in 6), 2024-06-27 -> 2026-08-31
 p1: STC-448DGGPM
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: timeout  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -40,7 +40,7 @@ updated: 2026-10-29
 - **历史互动**：成交/下单过
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-488XGGPM / STI-21616XGGPM（在购系列，AC5）｜他 8/26 问的 mGig PoE：CENTEC STH-8DX24VP-HSI（24×2.5/5G PoE++ + 8×25G/10G，双 CRPS）/ STH-2C24XP-HSI（24×10G mGig PoE++ + 2×100G），见 `docs/reference/CENTEC_产品表与报价锚_2026-10-24.md`；价/现货 → Simon（Q-56）｜便宜路径：Realtek STC-624XGDGPM（6×10G SFP + 24×2.5G PoE bt 400W，L3 网管，$396 EXW，单电源，`data/hrui_STC对照表.csv`）——双电源 + PWM 风扇只有 CENTEC — OEM 品牌商档（装进自己的产品）；每一次固件/机械适配都是替换成本（C4/C5）｜毛利复盘：21.7% → 29.3%，正常区间；第四单（2026-09 12 × $335）成本表未更新；第 4 单 $335/台（2026-08-30 PI 为准）；复购沿用；2026-06-22 报价单 STS-20260622-001：裸板 STI-21616DGGPM-PCB $230 / 无壳整机 $240（含 MQTT + LLDP-MED 定制），运费 UPS $180 + 银行 $25 = $1,605——他的 ODM 形态是买板装自己的壳
 - **第一问（只问一个）**：For the MQTT setup, what exactly does SCOUT need from the switch side — periodic port/PoE status publish, or alarms only? (And on the power-board rework: which of the four requests is a must-have for the next batch?)
-- **最大未知**：年走量与现供应商
+- **最大未知**：官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
 - **下一步**：2026-11 上旬（12 台到货后） LinkedIn/WeChat（Simon U28：James 只走这两个） 到货确认 + 问 MQTT 对接需要交换机侧提供什么（Topic/字段），把需求写成一页给 SmartByte；同一封里把《JCSL-Custom power pcb》四项需求逐条回「能/不能/要多少量」，别只回 MQTT；**同一条私信顺手把 8/26 的 mGig PoE 问题正面答了：有（CENTEC 24 口 mGig PoE++，双电源 + 热插拔风扇 + 机架），要不要规格书**
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
@@ -132,7 +132,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-22）**　网站状态：
+- **状态：已调研（2026-10-22）**　网站状态：快照失败（clendenan.ca：超时（站慢或封锁），2026-10-29，第 1 次）
 - **是谁**：已成单 4 次（2024-06 4 台 / 2024-12 6 台 / 2026-08-30 12 台 @ $335）；Simon 标签：活跃 · Xtransfer · 轻度绑定；详见 research/SA-078.json
 - **类型**：系统集成/工程（北温哥华）
 - **【PI】成交单据 STSC20240627010（CI，2024-06-27）：STI-21616DGGPM 共 9 台，USD 1095.0；采购 SmartByte RMB 4908.0；Simon 成本表利润 RMB 1729.39**
@@ -165,7 +165,8 @@ updated: 2026-10-29
   > 来源：Extra Info.zip 根目录《客户绑定情况分析.docx》（data/extra_info_2026-10/text/Extra_Info__客户绑定情况分析.docx__6d196b92.json）（抓取 2026-10-22）
 - **KP**：James Clendenan（单据联系人）james@clendenan.ca 〔PI.zip 单据〕
 - **调研后定级**：A（原自动 A）——PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）
-- 备注： ｜ 针对性加厚 2026-10-22（UL PSU 线索，T29-U13 ②）
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#1。
+ ｜ 针对性加厚 2026-10-22（UL PSU 线索，T29-U13 ②）
 
 ### 加厚挖掘（2026-10-23 · 公开平台核查（T29-U18，针对性：只核活跃平台与触达通道））
 
@@ -174,6 +175,15 @@ updated: 2026-10-29
   - 2026-10-23 核查：James 另起品牌 Control Ready——面向应急/活动响应的「拎走即用」套件（SCOUT Wi-Fi+电话+存储箱、BARK 拖车传感告警、POST 标牌），宣称 Built in Canada with local components → 套件里需要小型宽温 PoE/工业交换机；可把 STI-154GP / STI-288DGGPM 作为 SCOUT 箱内件推荐（注意其「本地元件」话术，供货以中性包装）
 - **风险/边界**：【2026-10-22 第二遍复盘】S 邮箱全库 13,583 封里唯一的 UL 需求来自本户（UL listed 52–57 VDC 250–300 W PSU，2024-06）；Simon 2023-12 曾向 Mencom 问 UL DIN 电源 → 跟进时可直接给 MEAN WELL UL 版电源型号 + 价格（Drive《SmartByte》有 MEAN WELL 价目表），交换机本体不承诺 UL。
 - **Saga 对位结论**：P1 待核型（无标准对应）（25% 档）——成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：超时（站慢或封锁））
+
+- 尝试域名：clendenan.ca
+  > https://clendenan.ca/ conn: HTTPSConnectionPool(host='clendenan.ca', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTT
+  > https://www.clendenan.ca/ conn: HTTPSConnectionPool(host='www.clendenan.ca', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(
+  > http://clendenan.ca/ conn: HTTPConnectionPool(host='clendenan.ca', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPC
+- **提示**：抓取失败不代表公司不在；人工打开一次即可。
+- 数据文件：`data/saga_clients/site_snapshots/SA-078.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -213,7 +223,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：5 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T02:54:23Z
+- **监控层**：成单精选层　|　**自动源**：5 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T02:54:23Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-078/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
@@ -301,6 +311,7 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
+- [ ] 官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

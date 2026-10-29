@@ -24,7 +24,7 @@ last_contact: 2025-10-06
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -112,7 +112,8 @@ updated: 2026-10-29
   > 兴趣：Surveillance projects
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Leonardo Sezerino（技术负责人（研究档 KP）= 收件人 — 一页纸一次：集成商 25% B、监控项目 PoE（STC-028GP $28 / STC-228GP $33 / STC-2216GP）一口价 + 付费样机；2019 欠税公示 → 预付 100% 不让步 — 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（进口税自理）、Anatel 不声称（第 121 批 官方登记核实 2026-10-29））leonardo@getecseg.com.br +55 47 9918 1838〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 （无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照 HTTP 错误 + 表内））
@@ -129,7 +130,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——监控项目配套 8 PoE 管理机。
 - **邮件切入句（英文）**：（低优先；若再询再报）
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：getecseg.com.br
   > https://getecseg.com.br/ http 404 ct=text/html; charset=utf-8
@@ -157,7 +158,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-798/`；本节随档案重渲染刷新，实时看日志。
 

@@ -1,6 +1,6 @@
 # XA-M306 · NTS Direct · 美国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 mikrotik-info `A-354`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R02 2026-10-27）→ 下一动作 首触
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 mikrotik-info `A-354`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 首触
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱（含实名 KP）
@@ -86,13 +86,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W1-R02，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XA** — US 主攻区工业路由分销、未触达 → A 首触
-- 活着吗：来源库 2026-09-27 核对在线；本轮未复查
+- 活着吗：在线（shop.ntsdirect.com，快照 2026-10-29）：Grow Your Business with NTS Direct | Next-Generation Distribution
 - 一句话：Teltonika 北美战略分销（备货/预配置/培训）；Marvell 接入层生态切入
 - 是什么人：Teltonika 北美战略分销（备货/预配置/培训）；规模：未量化
-- 在卖/在用：Teltonika Networks（含 TSW 系列交换机）
+- 在卖/在用：Teltonika Networks（含 TSW 系列交换机）、Teltonika、Grandstream、TP-Link、Cisco、Uniview、Ubiquiti、Netgear、Tenda
 - 对口哪条线：SmartByte 商用 L2+（已发/首触）+ Saga STI 工业 L2+ PoE 补位 — 工业路由分销，工业 PoE 配套
 - 找得到人吗：sales@ntsdirect.com（来源库公开邮箱）；KP：无具名
 - 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
@@ -103,6 +103,7 @@
 | 类型 | 说明 | 摘录 | 来源 | 日期 |
 |---|---|---|---|---|
 | 来源库官网/名录核对 | 2025 年与 Teltonika 达成北美战略分销合作，备货并提供预配置、技术培训、集成支持。 【2026-09-27 A340–A359联络核验】来源等级：official-company。官网Contact Us与公司About Us PDF给Sales@NTSDirect.com、877.483.5393、41 Main Street, Bolton, MA 01740；自述增值分销（VoIP/UC、网络、视频会议、安防），30 |  | https://shop.ntsdirect.com/ | 2026-09-27 |
+| 官网快照 | 官网在线；Grow Your Business with NTS Direct ｜ Next-Generation Distribution | Anytime. Anywhere. Thousands of products are at your fingertips. NTS Direct provides everything you need to help your IP telephony business start turning a profit; including certifications, preferred pricing on equipment, and full warranty coverage. | https://shop.ntsdirect.com/ | 2026-10-29 |
 
 草稿（英文，首触；Simon 发，Agent 不发）：
 
@@ -121,4 +122,5 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/evidence/site_p1_hint。
+轻卡：本轮未外查，沿用来源库官网/名录核对。

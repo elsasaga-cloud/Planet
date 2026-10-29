@@ -29,7 +29,7 @@ s_mail: 312 msgs (out 168 / in 144), 2024-04-28 -> 2026-07-08
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -146,6 +146,7 @@ updated: 2026-10-29
 | 2026-07-31 | 来 | Levent Kılıç（SAGA Enterprise L3 Recommendation Report, 6 页） | Angora Networks views SAGA Telecom as our foundational manufacturing partner… four requirements for a true enterprise L3 tier: Stacking / USB port / OOB management port / Redundant dual PSU… full Layer 3 stack — OSPF, BGP, VRF, ideally MPLS/IS-IS… Compared to SAGA's current top-tier street pricing of USD 340 / USD 530 for the STC-424XGGPM / STC-448XGGPM, an enterprise-tier SKU could reasonably command a 2–4x list-price uplift… co-investment or volume-commitment structures… Turk Telekom 2026 procurement cycle | Angora 正式提出三阶段路线图（0–6 月 USB/OSPF/RIP/VRRP；6–12 月 OOB/双电源/堆叠可行性；12–18 月堆叠+BGP/VRF）+ 联合路线图评审 + 优先伙伴条款。这是 Angora 自己写的「长期战略伙伴」文件——绑定意愿的最高证据 | `Drive PI 文件夹 7_土耳其_Levent（未见邮件原件，可能走微信）` |
 | 2026-08-17 | 去 | Simon（Reply on "SAGA Enterprise L3 Recommendation Report"） | our Marvell solutions have fully shifted from AC3 series to AC5 series… lite-hotfix-7.3.13 is the last version… Our positioning is clearly on Marvell L2+ solutions… we basically adopt a "let it be" attitude for most L3 models due to ROI… soaring prices of RAM/DDR and PCB boards… Counter-Solution: 1 quick test and promotion about our AC5 ready models 2 Review our updated L3 feature list 3 Evaluate if CENTEC solution is acceptable: all features above are readily available… Saga has already fixed its chipset solutions on Marvell L2+ and CENTEC L3, this is a strategic move | Saga 书面婉拒 Marvell 企业级 L3 投入，给出 CENTEC L3 作为唯一桥；Angora 要的堆叠/OOB/双电源在 CENTEC 系列现成。此后邮件无回复（S 邮箱最后一封 2026-07-08）→ 需要在微信确认 Angora 是否测 AC5 / 评估 CENTEC | `Drive PI 文件夹 7_土耳其_Levent` |
 | 2026-10-03 | 来 | Levent（微信，10-02 19:56）→ Simon（10-03 00:19） | Levent: We expect an order for 88 pieces of L2+ industrial 8-port together with 48V power supply. Can you please share a pricing for this in the same box → Simon: STI-288DGGPM 875RMB/PC; Power supply 240W Meanwell original brand 250RMB/PC; for the switch itself we keep the price low, basically the same as last order; we will handle the material costs here; will use same packing box → Levent: Thanks Simon. Great. | 最新一单正在路上：88 台 STI-288DGGPM + 240W 明纬电源，人民币计价（875+250），同包装；10-03 至今无 PI 文件夹 → 现在要做的是催 PO/预付款，而不是谈 CENTEC | `wechat_ocr` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Anasayfa - Angora Networks — Angora Networks anasayfa, mainpage | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：微信侧 2026-09-23 的 25 张聊天截图（Drive→PI 包）缩略图仅 58×360 px、OCR 为空——内容不可读；只有 2026-10-06 那张（10-02/03 的 88 台报价）可读。2026-10-21 截图同样不可读 → 88 台单的 PO 是否已到，仓内无证；Turk Telekom 项目的现状（2025-09 之后邮件无更新）；2026-07-31 报告与 2026-08-17 回复都只在 Drive（PI 文件夹），邮箱无原件 → 传递渠道（微信/会议）待 Simon 确认；Turkey Client List（2024-11-05）给出后 Angora 是否实际跟进过名单中的公司——无任何记录；Q-51 定直发/让渡规则；TRONX BILISIM（tronx.com.tr, Mustafa Calik）未单独建档：Saga 客户库无 TronX 实体，建议作为 SA-077 子实体而非新建 B 户；Türk Telekom 2,000–3,000 台 RFP（2024-12）最终有没有发标/谁中标：S 邮箱 2025-02-11 后无下文（只在 2025-06-26「1,000 to 2,000 units」与 2026-03 警察局项目里再现大数）——下次微信问 Levent 一句「TT 那个标后来怎样」；Connexite（connexite.co.uk，2025-07-23 草案）后来有没有上线——网站/亚马逊未爬；若 Simon 想做英国零售，这是现成的问法
 
@@ -347,9 +348,10 @@ updated: 2026-10-29
 - **KP**：Levent Kilic（单据联系人）levent.kilic@angoranetworks.com; lkilic@angoranetworks.com 〔PI.zip 单据〕
 - **KP**：Mr. Mustafa Calik（单据联系人）mustafa.calik@tronx.com.tr 〔PI.zip 单据〕
 - **调研后定级**：A（原自动 A）——成单客户：S 邮箱可证 5 批订单（2024-05 → 2025-06），含 176 台大单；在谈 Turk Telekom 千台级项目与 TronX 常规订单；两名实名 KP 直接往来。
-- 备注：A 级（成单）。边界提示：其终端客户为土耳其警察、Turk Telekom、NATO 项目（2025-07 媒体转换器询价，合作方已放弃）——属公共部门/运营商，Saga 以 Angora 为客户、不直接对公共部门，沿用 Simon 既有做法。PI 包入库后用发票级数据补「订单明细」。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。
+A 级（成单）。边界提示：其终端客户为土耳其警察、Turk Telekom、NATO 项目（2025-07 媒体转换器询价，合作方已放弃）——属公共部门/运营商，Saga 以 Angora 为客户、不直接对公共部门，沿用 Simon 既有做法。PI 包入库后用发票级数据补「订单明细」。
 
-### 加厚挖掘（2026-10-22 · S 邮箱一手往来 v1（PI 明细待补））
+### 加厚挖掘（2026-10-22 · S 邮箱一手往来 v1（PI 明细待补） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -376,6 +378,22 @@ updated: 2026-10-29
 - **风险/边界**：终端为公共部门/运营商（警察、Turk Telekom、NATO 询价）——守界：只对 Angora 供货、不直接触达公共部门；RFP 功能缺口：堆叠、PIM、VRF-Lite、BFD、NAT、Netflow、Y.1731、TWAMP、MACsec 均不支持；HTTPS 曾是问题（AC5 支持）；土耳其海关对单独进口电源敏感——交换机+电源需同箱成套；空运费波动大；付款常拖（7 台单从 03-03 拖到 05-08；大单分三笔）——坚持款到发货
 - **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——TT 智能站点与警察 RFP 都落在 8 口工业 PoE L2+（STI-288DGGPM，AC5）；商用线 STC-424DGGPM-280W/424XGGPM/448XGGPM 已成单；OEM 贴牌按 30% 档，但历史成交价 $105–151 远低于主表 +20%（$134.5），复购需按量谈
 - **邮件切入句（英文）**：For the 2026 Police RfP switch section you sent, the lowest-cost fully compliant unit is the AC5-based 8-port industrial PoE L2+ (STI-288DGGPM) in Angora packing, and I can hold a project price for 100+ pieces, so that is what I am quoting first.
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://www.angoranetworks.com/　语言：tr-TR　站点地图 URL 数：73
+- **标题**：Anasayfa - Angora Networks
+- **描述**：Angora Networks anasayfa, mainpage
+- **首页栏目**：Network Cihazları Tasarımı ve Üretimi / Haberler / Görünürlük, Güvenlik, Maliyet: Packet Broker / Angora Networks ® PacketFence NAC entegrasyonu tamamladı.
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 49、poe 31、sfp 24、10g 17、gigabit 8、oem 8、odm 8、ethernet 7、fiber 5、industrial 4、data center 4
+- **站内型号串**（正则抽取，含非交换机）：QSFP28, ANW-2023-E8GT, ANW-IND-8P-2SFP, ANW-2023-8G, ANW-2023-24G, ANW-2023-48G, ANW-2712-8T4X, ANW-2712-24T4X, ANW-2712-48T4X, ANW-2712-48T6X, ANW-5713-24S8T6X, ANW-1005-T
+- **站内公开电话**：+90 (312) 241 7747, +90 312 241 7747
+- **社媒**：https://twitter.com/angoranetworks, https://www.instagram.com/angora_networks/, https://www.linkedin.com/company/angora-networks/, https://www.youtube.com/channel/UCCAG46dVy-wxXtO-_b7fTPA
+- **产品类页面**：https://www.angoranetworks.com/verge-network-switch-serisi/；https://www.angoranetworks.com/synapse-network-switch-ailesi/；https://www.angoranetworks.com/hitit-yerli-network-switch-ailesi/；https://www.angoranetworks.com/verge-network-switch-family/?lang=en；https://www.angoranetworks.com/verge-network-switch-family/?lang=ru
+- **已抓子页**：[Verge Yerli Network Switch Ailesi - Angora Networks](https://www.angoranetworks.com/verge-network-switch-serisi/)；[Synapse Network Switch Ailesi - Angora Networks](https://www.angoranetworks.com/synapse-network-switch-ailesi/)；[Hitit Network Switch Ailesi - Angora Networks](https://www.angoranetworks.com/hitit-yerli-network-switch-ailesi/)；[Network Switch Ailesi - Angora Networks](https://www.angoranetworks.com/network-devices/)；[İş Ortaklığı Form - Angora Networks](https://www.angoranetworks.com/partners/)；[Angora Networks - Angora Networks](https://www.angoranetworks.com/about/)
+- 首页正文摘录：Sorularınız için +90 312 241 7747 [email protected] Ürünlerimiz Network Ürünleri Verge Network Switch Ailesi Synapse Network Switch Ailesi Hitit Network Switch Ailesi Iris SFP Ailesi Network Management Güvenlik Karınca Network Packet Broker Arı Yerli SD-WAN Güvenlik ve Servis Donanımları VIRTUAL Desktop ThinCE VDI Özgün Tasarım (OEM/ODM) Hizmeti Hizmetlerimiz Profesyonel Hizmetler Eğitim ve Dökümantasyon İş Ortaklar
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 4、PoE 31 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-077.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -430,7 +448,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：6 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：成单精选层　|　**自动源**：6 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-077/`；本节随档案重渲染刷新，实时看日志。
 

@@ -28,7 +28,7 @@ s_mail: 6 msgs (out 6 / in 0), 2024-06-17 -> 2024-11-15
 p1: STC-2216GP
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -58,6 +58,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | △ 观察档 · 成单回访：EasyWind GmbH（Enge-Sande；小型风机制造商；RTS 成单 4 台 MC 自用）坐实；成单 ✔ 主区 ✔ 对位 ✔ ≥2 条 → 入池观察档，复购体量低 → Simon 定 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 登记底数（registry） | DE · 1 次检索：ee-sh.de 能源地图（地址 / 电话 / Feddersen）+ wind-turbine-models（制造商档案）+ bds-sh（2008；300+ 台）；HRB 未取；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | EasyWind – Zertifiziert. Effizient. Weltweit im Einsatz. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -115,10 +116,11 @@ updated: 2026-10-29
   > 来源：（抓取 2026-10-29）
 - **KP**：—（表内邮箱（公开 / 总机））produktion@easywind.org 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · 成单回访：EasyWind GmbH（Enge-Sande；小型风机制造商；RTS 成单 4 台 MC 自用）坐实；成单 ✔ 主区 ✔ 对位 ✔ ≥2 条 → 入池观察档，复购体量低 → Simon 定；闸 1：德国 EasyWind GmbH（easywind.org；阿里巴巴 RTS 成单：4 台 1 光 4 电小壳非 PoE）：德国主区 + 成单 ✔ + 对位 ✔ ≥2 条；WA 加不上 → 闸 2 查底数 + 回访
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/saga_fit.basis/deep/facts。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -131,6 +133,17 @@ updated: 2026-10-29
   - 表内兴趣：RTS/4个1光4小壳 非POE
 - **风险/边界**：**成单回访（终端自用 25%）：按原单回访一次（同款 MC 复购 + 风机机舱工业级 STI-154GP 升级建议；MOQ 1）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；体量小不加码；登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号
 - **Saga 对位结论**：P1 STC-2216GP（25% 档）——默认对位（自用 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://easywind.org/　语言：de　站点地图 URL 数：0
+- **标题**：EasyWind – Zertifiziert. Effizient. Weltweit im Einsatz.
+- **首页栏目**：Robuste Kleinwindkraft – bewährt seit über 30 Jahren / Zertifizierte Technik seit über 30 Jahren / Partners / Mediathek / Demo-Anlage / Aktuelle Referenzobjekte / EasyWind News / Lassen Sie uns über Ihr Projekt sprechen
+- **站内公开邮箱**：mailto@easywind.org
+- **站内公开电话**：+49 4662 88431-0, +49 4662 88431-99
+- **已抓子页**：[About – EasyWind](https://easywind.org/about/)；[Contact – EasyWind](https://easywind.org/contact/)
+- 首页正文摘录：Zum Inhalt springen Über uns Kleinwindanlagen Referenzen News FAQs Downloads Kontakt Kontakt Main Menu Über uns Kleinwindanlagen Referenzen News FAQs Downloads Robuste Kleinwindkraft – bewährt seit über 30 Jahren Zertifiziert. Effizient. Weltweit im Einsatz. Über EasyWind Kontakt Die Zukunft des Windes – seit 1989 Zertifizierte Technik seit über 30 Jahren EasyWind ist beheimatet auf dem GreenTec Campus, einem Cluster
+- 数据文件：`data/saga_clients/site_snapshots/SC-364.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -157,12 +170,14 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-364/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://easywind.org/) | html | 待首轮 | — | 官网首页 |
+| [home](https://easywind.org/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 1659 字符；首行：EasyWind – Zertifiziert. Effizient. Weltweit im Einsatz. |
+| [feed_auto](https://easywind.org/feed/) | rss | HTTP 200 | 2026-10-29T15:11:51Z | 10 条；最新：Thu, 31 Jul 2025 11:23:00 Wir sind dabei! NORLA 2023 |
 
 ## 联系方式（已有 · 原值照录）
 

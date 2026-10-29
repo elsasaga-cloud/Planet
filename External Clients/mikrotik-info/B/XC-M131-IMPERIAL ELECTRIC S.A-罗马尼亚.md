@@ -1,6 +1,6 @@
 # XC-M131 · IMPERIAL ELECTRIC S.A. · 罗马尼亚
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 工业通信分销 + 集成 20%：SC IMPERIAL ELECTRIC SA（București；CIF RO 6755；J40/16226/91；1991 起；营收 ≈€1M；1–9 人；DG Mihai Georgescu / Director Executiv Vlad Georgescu 具名）坐实；ORing / MOXA / ICP DAS 代理 → STI 对位；产品线含 EN） ｜ 来源 mikrotik-info `C-066`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-02 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 工业通信分销 + 集成 20%：SC IMPERIAL ELECTRIC SA（București；CIF RO 6755；J40/16226/91；1991 起；营收 ≈€1M；1–9 人；DG Mihai Georgescu / Director Executiv Vlad Georgescu 具名）坐实；ORing / MOXA / ICP DAS 代理 → STI 对位；产品线含 EN） ｜ 来源 mikrotik-info `C-066`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 >
 > **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：○ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 工业通信分销 + 集成 20%：SC IMPERIAL ELECTRIC SA（București；CIF RO 6755；J40/16226/91；1991 起；营收 ≈€1M；1–9 人；DG Mihai Georgescu / Director Executiv Vlad Georgescu 具名）坐实；ORing / MOXA / ICP DAS 代理 → STI 对位；产品线含 EN50155 轨道认证 → 只谈非轨交项目；office@imperialelectric.ro
 
@@ -47,12 +47,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，X1-02，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XC** — X1-02 补路径：○ 工业通信分销 + 集成 20%：SC IMPERIAL ELECTRIC SA（București；CIF RO 6755；J40/16226/91；1991 起；营收 ≈€1M；1–9 人；DG Mihai Geo（等级不动，池位见 sieve_x）
-- 活着吗：2026-10-29 检索命中官网 / 名录（在线）
+- 活着吗：在线（imperialelectric.ro，快照 2026-10-29）：Automatizari si comunicatii industriale - IMPERIAL ELECTRIC SA
 - 一句话：SC IMPERIAL ELECTRIC SA：ORing / MOXA / ICP DAS 工业通信分销 + 集成（含 EN50155 轨道认证产品 → 轨交 PASS 线只谈民用）；1991 起；营收 ≈€1M；1–9 人；DG Mihai Georgescu mihai.georg
 - 是什么人：分销（ORing 授权）；SC IMPERIAL ELECTRIC SA
+- 在卖/在用：ORing
 - 对口哪条线：Saga STI 工业 / SmartByte 商用 PoE — ○ 工业通信分销 + 集成 20%：SC IMPERIAL ELECTRIC SA（București；CIF RO 6
 - 找得到人吗：office@imperialelectric.ro（官网 / 名录公开（X1-02 补路径））；KP：无具名
 - 已触达：未触达（路径 2026-10-29 新补）
@@ -64,5 +65,7 @@
 |---|---|---|---|---|
 | 官网 / 名录 | iotindustrial.ro：SC IMPERIAL ELECTRIC SA · CIF RO 6755 · J40/16226/91 · office@imperialelectric.ro |  | https://iotindustrial.ro/contact-imperial-electric | 2026-10-29 |
 | 官网 / 名录 | Catalog Feroviar：ORing / MOXA 分销 · 1991 · €1M · 1–9 人 · Vlad / Mihai Georgescu 具名 |  | https://catalogferoviar.ro/catalog/13373/imperial-electric-sa/ | 2026-10-29 |
+| 官网快照 | 官网在线；Automatizari si comunicatii industriale - IMPERIAL ELECTRIC SA | Solutii de automatizari si comunicatii industriale: SCADA, MES, Industry 4.0, Smart Factory. Switchuri industriale, calculatoare industriale, convertoare media | https://imperialelectric.ro/ | 2026-10-29 |
 
-- 备注：SC IMPERIAL ELECTRIC SA；B-dul Camil Ressu 27B, Sector 3, 031736 București；CIF RO 6755；J40/16226/91；资本 200,000 Lei；+40 728 942 385
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+SC IMPERIAL ELECTRIC SA；B-dul Camil Ressu 27B, Sector 3, 031736 București；CIF RO 6755；J40/16226/91；资本 200,000 Lei；+40 728 942 385

@@ -1,6 +1,6 @@
 # XC-M177 · Distec Ltd · 英国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 工业计算 / IIoT 方案分销 20%：Distec Ltd（Irlam Manchester；InHand Networks 区域渠道分销 2025-09；Industry 4.0 Summit 参展）官网部分坐实（Companies House 号待补）；主区 GB；sales@ / info@distec.co.uk｜补证 X1-02R（2026-10-29）：Companies Ho） ｜ 来源 mikrotik-info `C-112`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-02 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 工业计算 / IIoT 方案分销 20%：Distec Ltd（Irlam Manchester；InHand Networks 区域渠道分销 2025-09；Industry 4.0 Summit 参展）官网部分坐实（Companies House 号待补）；主区 GB；sales@ / info@distec.co.uk｜补证 X1-02R（2026-10-29）：Companies Ho） ｜ 来源 mikrotik-info `C-112`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 >
 > **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：○ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 工业计算 / IIoT 方案分销 20%：Distec Ltd（Irlam Manchester；InHand Networks 区域渠道分销 2025-09；Industry 4.0 Summit 参展）官网部分坐实（Companies House 号待补）；主区 GB；sales@ / info@distec.co.uk｜补证 X1-02R（2026-10-29）：Companies House 02718521 坐实；DISTEC LIMITED · Huntsman Drive, Northbank Ind. Est., Irlam M44 5EG · 活跃 · 4 董事
 
@@ -47,10 +47,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，X1-02，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XC** — X1-02 补路径：○ 工业计算 / IIoT 方案分销 20%：Distec Ltd（Irlam Manchester；InHand Networks 区域渠道分销 2025-09；Industry 4.0 Summit 参展）官网部分坐（等级不动，池位见 sieve_x）
-- 活着吗：2026-10-29 检索命中官网 / 名录（在线）
+- 活着吗：在线（distec.co.uk，快照 2026-10-29）：Industrial Computing Experts - Distec Ltd
 - 一句话：Distec Ltd：工业计算 / IIoT 方案分销（InHand Networks 区域渠道分销 2025-09；与 Siemens 同台参展 Industry 4.0 Summit）
 - 是什么人：分销（HMS/N-Tron·Red Lion 渠道）；Distec Ltd
 - 对口哪条线：Saga STI 工业 / SmartByte 商用 PoE — ○ 工业计算 / IIoT 方案分销 20%：Distec Ltd（Irlam Manchester；InHand Ne
@@ -65,5 +65,7 @@
 | 官网 / 名录 | PBSI：Distec Ltd · Irlam Manchester M44 5EG · sales@distec.co.uk |  | https://www.pbsionthenet.net/company/16593/Distec-Ltd.aspx | 2026-10-29 |
 | 官网 / 名录 | P&C Today 2025-09-09：Distec × InHand Networks 区域渠道分销 · info@distec.co.uk |  | https://www.pandct.com/news/distec-partners-with-inhand-networks-to-strengthen-secure-iiot-offering | 2026-10-29 |
 | 登记 / 名录 | Company Check：DISTEC LIMITED · 02718521 · 1992-05-29 · Irlam M44 5EG · Active |  | https://companycheck.co.uk/company/02718521/DISTEC-LIMITED/companies-house-data | 2026-10-29 |
+| 官网快照 | 官网在线；Industrial Computing Experts - Distec Ltd | Industrial Computing, Embedded Systems and Digital Signage solutions for Industrial Automation, Retail and Healthcare markets. | https://www.distec.co.uk/ | 2026-10-29 |
 
-- 备注：Distec Ltd；Huntsman Drive, Northbank Industrial Park, Irlam, Manchester M44 5EG；+44 161 777 4273；X1-02R 补证：Companies House 02718521（1992-05-29）
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。
+Distec Ltd；Huntsman Drive, Northbank Industrial Park, Irlam, Manchester M44 5EG；+44 161 777 4273；X1-02R 补证：Companies House 02718521（1992-05-29）

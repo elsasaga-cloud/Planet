@@ -113,6 +113,14 @@
     "quote": "Managed PoE Switches",
     "why": "本日去信真实主题（邮箱索引 e7b1c4c6519cdcf6；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
     "k": "e7b1c4c6519cdcf6"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 复核 LT-R10",
+    "quote": "DNS 2026-10-29 16:2xZ：exsys.it MX mx.exsys.it.；A 89.46.104.30；NS dns3.arubadns.net. / dns.technorail.com.",
+    "why": "长期客户群复核证据（非邮件事实，不计真回）",
+    "url": ""
    }
   ],
   "proof_gaps": [],
@@ -132,5 +140,15 @@
    "2026-10-29"
   ],
   "batch": "LT-T03"
- }
+ },
+ "lt_review": {
+  "status": "留 B",
+  "batch": "LT-R10",
+  "prio": null,
+  "queued": "LT-R10",
+  "verdict_date": "2026-10-29",
+  "note": "官网快照两次失败（2026-10-21 / 2026-10-29：HTTP 错误（4xx/5xx，多为反爬 / 屏蔽境外抓取）），但 DNS 2026-10-29 16:2xZ 复查 exsys.it MX/A/NS 正常 → 非死域、邮箱路径未断 → 留 B 不动；快照失败只记「官网不可抓」，不作打回依据（可逆：两次独立 DNS 死才复核）",
+  "why": ""
+ },
+ "override_history": []
 }

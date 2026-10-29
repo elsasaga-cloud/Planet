@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
-site_snapshot: timeout  # 2026-10-21
+site_snapshot: timeout  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -52,6 +52,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | Switch | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：vilcom.ru MX mail.vilcom.ru.；A 81.177.135.38；NS ns3-l2.nic.ru. / ns4-cloud.nic.ru. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -106,7 +107,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（vilcom.ru：超时（站慢或封锁），2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（vilcom.ru：超时（站慢或封锁），2026-10-29，第 2 次）
 - **是谁**：俄罗斯 Vilcom（vilcom.ru；表内「Switch」；官网 timeout，业务待核）；表内未跟进。
 - **类型**：IT/网络公司（俄罗斯，待核）
 - **【用户表】表内兴趣/备注**
@@ -116,7 +117,8 @@ updated: 2026-10-29
   > Switch
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Амеличкин Александр Борисович（Руководитель ООО «ВИЛКОМ ХОЛДИНГ»（zachestnyibiznes）— 破产观察中，不动（第 114 批 官方登记核实 2026-10-28）） 〔https://www.list-org.com/company/71963〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -137,7 +139,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——Switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）
 - **邮件切入句（英文）**：For the switches you supply, we offer neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS; EAC by your side — which port count do your customers order most?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：超时（站慢或封锁））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：超时（站慢或封锁））
 
 - 尝试域名：vilcom.ru
   > https://vilcom.ru/ conn: HTTPSConnectionPool(host='vilcom.ru', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSC
@@ -156,7 +158,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-895/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |

@@ -23,7 +23,7 @@ s_mail: 29 msgs (out 29 / in 0), 2024-06-17 -> 2026-09-21
 p1: STI-280GE
 price_tier: 25%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -35,7 +35,7 @@ updated: 2026-10-29
 - **历史互动**：推送 15 次（2024-06-03 → 2025-10-17）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-280GE — 工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、8 PoE + 2 SFP STI-288GPM（$82.2）、5 GE STI-050GE（$17.8）。已打开的主题（3/29 封有打开记录）：「10G media converter」(2024-07-15)、「Passive poe switch」(2024-08-21)、「Power Converter」(2024-09-24) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-04)、Product Link_2026Q3(2026-07-17)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-01 $65（10G media converter）、2024-11-27 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-17 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Robin, for the industrial switches in your projects, we supply DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS; managed versions on a Marvell platform) from single units, EXW USD — which configuration do your Singapore installations use most? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
-- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
+- **最大未知**：年走量与现供应商
 - **下一步**：2026-11 A 邮箱 → robin@grep.sg（Robin Luo；只发他，不抄 info@） 短信一问（email_hook）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
@@ -54,6 +54,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-21 | 去 | A/S 群发 | Industrial PoE Switch、10G L3 Managed Switch | 29 封 / 3 次打开 / 0 回｜首封 2024-06-17 → 末封 2026-09-21（29 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Grep Tech \| AI Vision, Industrial IoT & Business Solutions | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -124,7 +125,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（grep.sg：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：在线（grep.sg，快照 2026-10-29）：Grep Tech | AI Vision, Industrial IoT & Business Solutions
 - **是谁**：新加坡 GREP（grep.sg；表内「工业 FS」；KP Robin Luo（Managing Director）；官网 http_error）；群发 15 次无回复。
 - **类型**：IT/工业网络公司（新加坡）
 - **【用户表】表内兴趣/备注**
@@ -134,10 +135,11 @@ updated: 2026-10-29
   > 工业FS
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Robin Luo（Founder / CEO / Managing Director, Grep Tech（Crunchbase / Tracxn；2012 創辦；SMS 網關 / 軟體 = 行業外）— 15 次 0 回覆，不動（第 116 批 官方登记核实 2026-10-28））robin@grep.sg 〔用户表〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/deep/facts。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -155,14 +157,20 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-280GE（25% 档）——工业 FS → 工业 8 GE + 2 SFP 管理 STI-280GE（$48.6 @25%）、8 PoE + 2 SFP STI-288GPM（$82.2）、5 GE STI-050GE（$17.8）
 - **邮件切入句（英文）**：Robin, for the industrial switches in your projects, we supply DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS; managed versions on a Marvell platform) from single units, EXW USD — which configuration do your Singapore installations use most?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
 
-- 尝试域名：grep.sg
-  > https://grep.sg/ http 403 ct=text/html; charset=utf-8
-  > https://www.grep.sg/ http 403 ct=text/html; charset=utf-8
-  > http://grep.sg/ http 403 ct=text/html; charset=utf-8
-- **提示**：抓取失败不代表公司不在；人工打开一次即可。
-- 数据文件：`data/saga_clients/site_snapshots/SB-945.json`
+- **首页**：https://www.grep.sg/　语言：en-US　站点地图 URL 数：50
+- **标题**：Grep Tech / AI Vision, Industrial IoT & Business Solutions
+- **首页栏目**：AI Vision, Industrial IoT & Business Solutions / AI Vision / Industry IoT / Business Solutions / WHY BUSINESSES CHOOSE GREP TECH / 🏢 A Complete Technology Partner / ⭐ Why Customers Choose Grep Tech / Our Core Expertise
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 26、switch 8、ethernet 8、automation 1、cctv 1
+- **站内型号串**（正则抽取，含非交换机）：RS232, EAC-30N1, EAC-10N1, NX-EAC-50N1, AGX-EAC-70N, BL340, RUTM51, RTU5026, BL410, GPS-T4-1C, DS18B20-1, BL200
+- **站内公开电话**：+65 6340 1030, +65 63401030
+- **社媒**：https://wa.me/6563401030
+- **产品类页面**：https://www.grep.sg/product-category/industrial-ethernet-switch/；https://www.grep.sg/product-category/industrial-computer-armxy/；https://www.grep.sg/product-category/industrial-cellular-router/；https://www.grep.sg/product-tag/4g-lte-industrial-router/；https://www.grep.sg/product-tag/4g-lte-industrial-router-r10/；https://www.grep.sg/product-category/modem_pool/
+- **已抓子页**：[Multi-Company HRMS / Grep Tech](https://www.grep.sg/solutions/multi-company-hrms/)；[Cellular RTU / Grep Tech](https://www.grep.sg/product-category/cellular-rtu/)；[Industry Modem / Grep Tech](https://www.grep.sg/product-category/industry-modem/)；[Nvidia Industry PC / Grep Tech](https://www.grep.sg/product-category/nvidia-industry-pc/)；[Contact Us / Grep Tech](https://www.grep.sg/contact-us/)；[Shop / Grep Tech](https://www.grep.sg/shop/)
+- 首页正文摘录：Search for: Search Button +65 6340 1030 [email protected] 0 Items GT-AiVision Overview Partners Live Monitoring Face Behavior Virtual Patrol Incident Management Deployment FAQ Products SMS Gateway SMS Gateway HTTP SMS API SMS to Email Email to SMS SMS Web Hook SNMP Trap to SMS API for SMS OTP API for Subscriber GPS Tracker 4G GPS Tracker Wired 4G GPS Tracker for Vehicles Industry Modem Cellular RTU Nvidia Industry PC
+- **自动对位建议**：STI-280GE（官网快照对位：工业/自动化词频 27、无 PoE 侧重 → DIN 8 GE + 2 SFP 非 PoE 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-945.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -217,7 +225,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-27T08:02:45Z
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-27T08:02:45Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-945/`；本节随档案重渲染刷新，实时看日志。
 
@@ -300,7 +308,6 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

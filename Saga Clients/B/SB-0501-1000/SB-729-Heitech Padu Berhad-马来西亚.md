@@ -25,7 +25,7 @@ s_mail: 8 msgs (out 8 / in 0), 2024-06-14 -> 2024-12-26
 p1: STI-288GPM
 price_tier: 25%
 research: done
-site_snapshot: parked_or_empty  # 2026-10-21
+site_snapshot: parked_or_empty  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -62,6 +62,8 @@ updated: 2026-10-29
 | 2025-07-04 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | Mini Industrial PoE Switch（Elsa 群发第 4/5 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my） | 第 74 批(n) `from:e.sagatelecom to:secure-x.my OR to:heitech.com.my` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2025-10-06 | 去 | Elsa 群发（BCC；To sofyan@mutiara-teknologi.com.my） | 10G Enterprise SFP Switch（Elsa 群发第 5/5 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 第 74 批(n) `from:e.sagatelecom to:secure-x.my OR to:heitech.com.my` 命中行 To=sofyan@mutiara-teknologi.com.my ⇒ 本户在该锚 Bcc 名单；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」是 S/A 口径 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：对于POE很有兴趣，拿了Hisource的彩页，主要看了工业级的，问了一下电源口的接线，也看了商业级的 | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：heitech.com.my MX fa98d20c-cc19-4f3b-885b-d6804a8d1346.in.tmes-sg.trendmicro.c；A 202.171.42.202；NS i1dns.i-sentrix.com. / i2dns.i-sentrix.net. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：secure-x.my MX fa98d20c-cc19-4f3b-885b-d6804a8d1346.in.tmes-sg.trendmicro.c；A 202.171.33.164；NS i2dns.i-sentrix.net. / i1dns.i-sentrix.com. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -122,7 +124,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：停放（secure-x.my 空；heitech.com.my 待核）
+- **状态：已调研（2026-10-21）**　网站状态：在线（主站 heitech.com.my；secure-x.my 为施工页，2026-10-29）
 - **是谁**：马来西亚上市 ICT 集成商 HeiTech Padu（政府 / 企业系统集成，Shah Alam HeiTech Village），网络安全顾问 Ts. Rizaki bin Napi 展会对 PoE 很有兴趣，拿了彩页，主要看工业级并问电源接线，也看了商用；无跟进。大型集成商 → 项目型。
 - **【官网快照】secure-x.my 为空页**
   > status parked_or_empty
@@ -131,7 +133,8 @@ updated: 2026-10-29
   > 兴趣：对于POE很有兴趣，拿了Hisource的彩页，主要看了工业级的，问了一下电源口的接线，也看了商业级的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Ts. Rizaki bin Napi（Cybersecurity Consultant（研究档；展会对工业 PoE 有兴趣；非采购）— 不动，不发（企业项目来询按集成商 25% 报）（第 119 批 官方登记核实 2026-10-28））rizaki@heitech.com.my +60 19 620 1681〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 （无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照空页 + 表内））
@@ -151,7 +154,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-288GPM（25% 档）——工业管理 PoE → STI-288GPM（$82.2 @25%，12–48 V 端子供电）。
 - **邮件切入句（英文）**：Rizaki, to your power-input question from the show: the industrial PoE units take 48–57 V DC on a removable terminal block (dual input, reverse-polarity protected); happy to send the wiring sheet and a 1-pc sample for your lab.
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：停放/空站（疑停业或仅占位））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：停放/空站（疑停业或仅占位））
 
 - 尝试域名：secure-x.my, heitech.com.my
 - **提示**：域名停放/空站 → 公司可能已停业或换域名；跟进前先用邮箱/电话核实，勿只凭网站判死。
@@ -185,7 +188,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-729/`；本节随档案重渲染刷新，实时看日志。
 

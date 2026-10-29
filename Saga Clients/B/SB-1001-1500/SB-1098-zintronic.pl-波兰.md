@@ -23,7 +23,7 @@ s_mail: 7 msgs (out 7 / in 0), 2024-06-15 -> 2025-01-22
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -57,6 +57,7 @@ updated: 2026-10-29
 | 2026-09-01 | 去 | Elsa（e.sagatelecom，Gmail 连接器实时查询） | Elsa 邮箱群发「24 Port PoE Managed Switch」→ biuro@zintronic.pl（截至 2026-10-24 无回复） | 仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据 | `Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）` |
 | 2026-09-01 | 去 | Elsa 群发（To 直收：本户是「PL」批次的锚，其余客户在 Bcc） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发直达证据（To biuro@zintronic.pl）；该批次 10 轮 2025-04-03→2026-09-01 每轮都以本户为 To；S/A digest 看不到 Elsa 的发信 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 商业PoE hasivo的 | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：zintronic.pl MX aspmx2.googlemail.com. / aspmx3.googlemail.com.；A 104.26.6.126 / 172.67.69.70；NS toby.ns.cloudflare.com. / peaches.ns.cloudflare.com. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -121,7 +122,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（zintronic.pl：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（zintronic.pl：HTTP 错误，2026-10-29，第 2 次）
 - **是谁**：波兰 Zintronic（CCTV 品牌/网店；表内「商业 PoE Hasivo 的」「质量一般」；官网 http_error）；表内未跟进。
 - **类型**：CCTV 网店/品牌（波兰，PoE 现 Hasivo）
 - **在卖/在用品牌**：Hasivo
@@ -132,7 +133,8 @@ updated: 2026-10-29
   > 商业PoE hasivo的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Marek Ziniewicz（Prezes Zarządu / 80% 股东（KRS 0000690689；Dominika Talarczyk 20%）= 老板 = 联系人（biuro@zintronic.pl 点名）（第 93 批 官方登记核实 2026-10-28）） 〔https://rejestr.io/krs/690689/zintronic〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -154,7 +156,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——PoE（现 Hasivo）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8 PoE 位 HRUI（列表价，注明）
 - **邮件切入句（英文）**：For the PoE switches you sell with Zintronic camera kits, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and budget 4/8-PoE unmanaged switches from single units, CE/RoHS, EXW USD — which PoE port count do your customers buy most?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：zintronic.pl
   > https://zintronic.pl/ http 403 ct=text/html; charset=utf-8
@@ -190,7 +192,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1098/`；本节随档案重渲染刷新，实时看日志。
 

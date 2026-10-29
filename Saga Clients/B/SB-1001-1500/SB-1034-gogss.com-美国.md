@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -54,6 +54,7 @@ updated: 2026-10-29
 | 2025-04-06 | 去 | Elsa 群发（BCC；To info@allisontecusa.com，US-2 批次） | 16 Port PoE Managed Switch — This is a Marvell-based 16 Port PoE L2+ Managed Switch. 1, 2*1G/2.5G/10G fiber+16*1G RJ45/PoE 2, Support PoE management, alarm output 3, Customizable  | Elsa 箱群发 BCC 触达证据（命中地址 gogss.com, tina@gogss.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-09-08 | 去 | Elsa 群发（BCC；To info@allisontecusa.com，US-2 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 gogss.com, tina@gogss.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 比较多的外壳 有国内的 switch | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：gogss.com MX aspmx.l.google.com. / alt2.aspmx.l.google.com.；A 104.21.60.147 / 172.67.197.200；NS laila.ns.cloudflare.com. / gabriel.ns.cloudflare.com. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -113,7 +114,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（gogss.com：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（gogss.com：HTTP 错误，2026-10-29，第 2 次）
 - **是谁**：美国 GOGSS（gogss.com：销售平台型网店，交换机「比较多的外壳 有国内的」；KP tina@；官网 http_error）；表内未跟进。
 - **类型**：网络产品网店（美国，平台型）
 - **【用户表】表内兴趣/备注**
@@ -124,7 +125,8 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Hong (Tina) Chen（Sales Manager, GSS New York（IPVM 认证）= 收件人本人（第 103 批 官方登记核实 2026-10-28））tina@gogss.com 〔用户表〕
 - **KP**：Gary Greve（Owner = 拍板人（抄送路径经 Tina）（第 103 批 官方登记核实 2026-10-28）） 〔https://gogss.com/about-us/〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -145,7 +147,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——平台网店 switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、工业 8 GE + 2 SFP STI-280GE（$46.6）
 - **邮件切入句（英文）**：Tina, for the switches you list, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-GE + 2 SFP industrial units from single units, FCC/CE/RoHS, EXW USD — which switch SKU sells most on your platform?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：gogss.com
   > https://gogss.com/ http 403 ct=text/html; charset=utf-8
@@ -164,7 +166,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1034/`；本节随档案重渲染刷新，实时看日志。
 

@@ -28,7 +28,7 @@ s_mail: 2 msgs (out 2 / in 0), 2024-09-09 -> 2024-10-11
 p1: none
 price_tier: 25%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -40,7 +40,7 @@ updated: 2026-10-29
 - **历史互动**：实质回复 3 次；WhatsApp 已加；推送 18 次（2023-12-09 → 2025-10-06）；最近一次客户回复：2025-01-02：问了高速的 后续没进展了
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：SmartByte 12 光 12 电 — 12 光 12 电 ×2（SOC 机柜或客户现场未定，L3 与否未定）→ 先确认部署与 L3 再报，不报通用价；—
 - **第一问（只问一个）**：For the two 12-SFP + 12-RJ45 units, could you confirm the deployment (your own SOC rack or a client site) and whether you need L3 features, so I quote the right build rather than a generic one?
-- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
+- **最大未知**：年走量与现供应商
 - **下一步**：按 WA 节奏 WhatsApp WA（用 one_question 这句，WhatsApp 直接发，不附资料）（第 75 批(r) 2026-10-25：WhatsApp 一句话版已写 `draft_en`（Simon 按 WA 节奏自发））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
@@ -62,6 +62,7 @@ updated: 2026-10-29
 | 2024-10-11 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「2.5g/10g network」→ 对方「有兴趣 让发资料」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/Whatsapp_S跟进 2026.08.04.xlsx no.52 1011` |
 | 2024-10-11 | 去 | S 箱（Simon） | 2.5G/10G network switch | 最近一封去信（邮箱索引；去信共 2 封） | `ff2fdd83c9098338` |
 | 2025-01-02 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「mini」→ 对方「问了高速的 后续没进展了」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/Whatsapp_S跟进 2026.08.04.xlsx no.52 1.2` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Carbonio Authentication | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文
 
@@ -133,10 +134,11 @@ updated: 2026-10-29
   > Rymtech E.A.S Avenida Aviadores Del Chaco 2050 World Trade Center, Torre 3, Piso 14 Asuncion Asuncion 1890
   > 来源：https://www.nsnlookup.com/cage/py（抓取 2026-10-16）
 - **KP**：Ruslan Osorio Guerra（股东 / 负责人（政府采购登记；FIRST 2024 演讲人））—（未公开） —〔https://www.contrataciones.gov.py/proveedor/rymtech-e-a-s.html〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：deep/facts。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 规格明确（12 光 12 电，2 台）、3 次回复、WA 在线 → 可追溯真实需求且小单可成；南美非主攻区但不需额外投入。P1：SmartByte 12 光 12 电管理型（按 docs/smartbyte/products 核对 24 口 combo 机型，报价前核价），项目价阶 25%。
 
-### 加厚挖掘（2026-10-21 · 深挖 v2（政府采购名录 + LinkedIn + 官网核对））
+### 加厚挖掘（2026-10-21 · 深挖 v2（政府采购名录 + LinkedIn + 官网核对） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -160,14 +162,11 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 待核型（无标准对应）（25% 档）——需求 12 SFP + 12 RJ45：Saga 标准型谱无对应，需向 SmartByte 核型；若改用 8 SFP 机型可替代则另报
 - **邮件切入句（英文）**：For the two 12-SFP + 12-RJ45 units, could you confirm the deployment (your own SOC rack or a client site) and whether you need L3 features, so I quote the right build rather than a generic one?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
 
-- 尝试域名：rym-tech.net
-  > https://rym-tech.net/ http 403 ct=text/html; charset=utf-8
-  > https://www.rym-tech.net/ http 403 ct=text/html; charset=utf-8
-  > http://rym-tech.net/ http 403 ct=text/html; charset=utf-8
-- **提示**：抓取失败不代表公司不在；人工打开一次即可。
-- 数据文件：`data/saga_clients/site_snapshots/SA-061.json`
+- **首页**：https://rym-tech.net/static/login/　语言：en　站点地图 URL 数：0
+- **标题**：Carbonio Authentication
+- 数据文件：`data/saga_clients/site_snapshots/SA-061.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -211,7 +210,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-061/`；本节随档案重渲染刷新，实时看日志。
 
@@ -292,7 +291,6 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

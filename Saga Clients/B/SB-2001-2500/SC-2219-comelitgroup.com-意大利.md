@@ -29,7 +29,7 @@ s_mail: 25 msgs (out 25 / in 0), 2024-07-02 -> 2026-10-08
 p1: STC-424XGGPM-280W
 price_tier: 30%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 3
 updated: 2026-10-29
 ```
@@ -39,7 +39,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（★ 正式）：★ 品牌商 · OEM 30%：Comelit Group S.p.A.（01546400167；Rovetta 1985；€112M / 250–499 人；自有品牌 UniPoE 交换机贴牌）坐实；对位 ✔ 欧洲 ✔ 自有品牌 ✔ 体量 ✔ → P 池候选（长线：需挖总部产品 / 采购 KP）；Simon 曾判不行，可否决（调研 2026-10-29；表内兴趣：UniPoE的工业FS 也有商业PoE 之前跟过spain的分公司；商业POE 自己的logo）
 - **为什么是 B 级**：**调研后定级 B**（Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 品牌商 · OEM 30%：Comelit Group S.p.A.（01546400167；Rovetta 1985；€112M / 250–499 人；自有品牌 UniPoE 交换机贴牌）坐实；对位 ✔ 欧洲 ✔ 自有品牌 ✔ 体量 ✔ → P 池候选（长线：需挖总部产品 / 采购 KP）；Simon 曾判不行，可否决；闸 1：意大利 Comelit Group（对讲 / 安防集团，UniPoE 工业 FS + 商业 PoE 自有 logo；之前跟过西班牙分公司）→ 欧洲主区 + 品牌商体量；Simon 曾判不行 → 闸 2 查底数，入池需 §5 四条）；自动分级 C：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；-60 用户已归入「不行及不太相关的」；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-02-03 → 2025-10-13）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-424XGGPM-280W — 默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）；
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-424XGGPM-280W — 官网快照对位：PoE 词频 1、监控 110 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）；
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动：LT-01 复核（待过）后再定 — 长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
@@ -52,13 +52,14 @@ updated: 2026-10-29
 - **现状一句话**：C 池三闸捞出 → B（LT-01）：★ 品牌商 · OEM 30%：Comelit Group S.p.A.（01546400167；Rovetta 1985；€112M / 250–499 人；自有品牌 UniPoE 交换机贴牌）坐实；对位 ✔ 欧洲 ✔ 自有品牌 ✔ 体量 ✔ → P 池候选（长线：需挖总部产品 / 采购 KP）；Simon 曾判不行，可否决
 - **对方真实需求（有据）**：未知（无往来；复核时从官网 / 进口数据 / 项目推断）
 - **断点 / 为什么停在这里**：无往来（从未触达或仅群发无回）
-- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（% 档，价见价格主表）——默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
+- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（% 档，价见价格主表）——官网快照对位：PoE 词频 1、监控 110 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）
 - **下一步（具体）**：不动：LT-01 复核（待过）后再定　—　长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ★ 品牌商 · OEM 30%：Comelit Group S.p.A.（01546400167；Rovetta 1985；€112M / 250–499 人；自有品牌 UniPoE 交换机贴牌）坐实；对位 ✔ 欧洲 ✔ 自有品牌 ✔ 体量 ✔ → P 池候选（长线：需挖总部产品 / 采购 KP）；Simon 曾判不行，可否决 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 登记底数（registry） | IT · 1 次检索：aziende.it/comelit-group-s-p-a（01546400167；€111.6M 2024；250–499）+ reportaziende（€112.5M 2025）+ impresaitalia；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Comelit USA \| Security & Video Door Entry Solutions — Scalable security solutions trusted by property managers and installers. Building access control and video intercom systems. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -128,10 +129,11 @@ updated: 2026-10-29
 - **KP**：—（表内邮箱（公开 / 总机））info@comelit.it 〔〕
 - **KP**：—（表内邮箱（公开 / 总机））info@comelit.es 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 品牌商 · OEM 30%：Comelit Group S.p.A.（01546400167；Rovetta 1985；€112M / 250–499 人；自有品牌 UniPoE 交换机贴牌）坐实；对位 ✔ 欧洲 ✔ 自有品牌 ✔ 体量 ✔ → P 池候选（长线：需挖总部产品 / 采购 KP）；Simon 曾判不行，可否决；闸 1：意大利 Comelit Group（对讲 / 安防集团，UniPoE 工业 FS + 商业 PoE 自有 logo；之前跟过西班牙分公司）→ 欧洲主区 + 品牌商体量；Simon 曾判不行 → 闸 2 查底数，入池需 §5 四条
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/saga_fit/deep/facts。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -144,7 +146,24 @@ updated: 2026-10-29
   - 表内兴趣：UniPoE的工业FS 也有商业PoE
 之前跟过spain的分公司；商业POE 自己的logo
 - **风险/边界**：**自有品牌 PoE 交换机（UniPoE）→ OEM 30%：找总部产品 / 采购 KP 后一页纸（STC-028GP / STC-228GP / STI-154GP 对标 UniPoE 口型 + 丝印彩盒 MOQ + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；Si
-- **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
+- **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——官网快照对位：PoE 词频 1、监控 110 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://comelitgroupusa.com　语言：en-US　站点地图 URL 数：128
+- **标题**：Comelit USA / Security & Video Door Entry Solutions
+- **描述**：Scalable security solutions trusted by property managers and installers. Building access control and video intercom systems.
+- **首页栏目**：70 years of security . / Smarter security solutions start here . / Advanced Security, built for your property . / All your buildings. One platform. / No Recurring Fees / Security Solutions for every property . / The security of a tomorrow / Your data, genuinely protected.
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cctv 49、access control 41、camera 39、installer 19、distributor 16、surveillance 13、wireless 11、nvr 9、integrator 9、wifi 4、switch 1、poe 1
+- **站内型号串**（正则抽取，含非交换机）：HFX-9500M, HFX-700W, HFX700W, EX-7000HW, HFX-700B, HFX700B, EX-7000H, EX-9000H
+- **站内公开邮箱**：info@comelitusa.com
+- **站内公开电话**：+1 (626)930-0388
+- **社媒**：https://www.facebook.com/comelitusaofficial, https://www.instagram.com/comelit_usa_official/, https://www.linkedin.com/company/comelit-usa/, https://www.youtube.com/channel/UC17ViglfWwh8XHKGQOcuAqg, https://www.youtube.com/watch?v=28I1--blk94&t=48s, https://www.youtube.com/watch?v=FAGYUiM5uLM
+- **产品类页面**：https://comelitgroupusa.com/products/entry-panel/switch/；https://comelitgroupusa.com/products/entry-panel/steelswitch/；https://comelitgroupusa.com/products/；https://comelitgroupusa.com/products/kits/；https://comelitgroupusa.com/products/cctv/；https://comelitgroupusa.com/products/intercom/
+- **已抓子页**：[CCTV & Video Surveillance Systems for Dealers / Comelit USA](https://comelitgroupusa.com/products/cctv/)；[Contact Us / Comelit USA - Comelit Group](https://comelitgroupusa.com/about-us/contact-us/)；[Kits - Comelit Group](https://comelitgroupusa.com/products/kits/)；[Intercom - Comelit Group](https://comelitgroupusa.com/products/intercom/)；[Entry Panels - Comelit Group](https://comelitgroupusa.com/products/entry-panels/)；[Resident Mobile App - Comelit Group](https://comelitgroupusa.com/products/resident-app/)
+- 首页正文摘录：Features & Integrations Residents Property manager Installers Developers Professional App & Dashboard All integrations Comelit and Livly access control solutions Solutions Multifamily Single Family Gated Communities Senior Living Student Housing Commercial HOA Security Solutions Products Entry Panel/Intercoms Entry Panels Intercom Wireless Internet Solution LTE PAC Access Control PAC Input & Output Controllers Cubes 
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 1、监控 110 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SC-2219.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -193,12 +212,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-2219/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://comelitgroup.com/) | html | 待首轮 | — | 官网首页 |
+| [home](https://comelitgroup.com/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 11895 字符；首行：Comelit USA \| Security & Video Door Entry Solutions |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -233,7 +253,7 @@ updated: 2026-10-29
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424XGGPM-280W | 深挖对位：默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档） | $180 USD EXW（㉕ ② 群发现价（群发价台账），30% 档公式为 $196.3——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（OEM（闸 2 判定 · 30% 档）） |
+| **P1** | STC-424XGGPM-280W | 深挖对位：官网快照对位：PoE 词频 1、监控 110 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W） | $180 USD EXW（㉕ ② 群发现价（群发价台账），30% 档公式为 $196.3——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（OEM（闸 2 判定 · 30% 档）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：30% 档 $151.6 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 

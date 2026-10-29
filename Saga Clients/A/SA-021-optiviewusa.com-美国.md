@@ -28,7 +28,7 @@ s_mail: 26 msgs (out 24 / in 2), 2024-06-25 -> 2026-09-08
 p1: STC-424DGGPM-280W
 price_tier: 30%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -188,7 +188,8 @@ updated: 2026-10-29
   > 来源：https://optiviewusa.com/product/ovpoe12v-8-4-160-m/（抓取 2026-06-11）
 - **KP**：Stephen Lebowitz（President（BBB 登记管理层）= 老板；Optiview 为 Florida 公司（2000-01-21 注册），另用 5 个零售别名 + 经销商门户（第 84 批 官方登记核实 2026-10-27））sales@optiviewusa.com（Crunchbase 公开） +1 904-805-1581〔https://www.zoominfo.com/c/optiview-inc/344525981 ; https://www.crunchbase.com/organization/optiview-d25f〕
 - **KP**：Silvia Flores（来信署名人（职务未在邮件署名里出现）；地址 2026-07-20 永久退信（550 5.1.1 Address not found）→ 已离职/停用，改问 purchasing@ 接替人）silvia.flores@optiviewusa.com 〔S/A 邮箱来信 2024-10-29 来信 2 封（第 72 批从邮件表头补）〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 A 确认：美国 CCTV 批发商 + 自有品牌 + S 重点；P1 = STC-28DGGPM（8 口商业 PoE，安防主力）→ STC-424DGGPM-280W；注意 NDAA：交换机不在 NDAA 889 覆盖范围（摄像机/视频设备为主），但避免华为海思方案表述，强调 Marvell。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1）
@@ -223,12 +224,12 @@ A 确认：美国 CCTV 批发商 + 自有品牌 + S 重点；P1 = STC-28DGGPM（
 - **Saga 对位结论**：P1 STC-424DGGPM-280W（30% 档）——OVPOE24-370-2GC（24×FE PoE）升级位 = STC-424DGGPM-280W（24 GE PoE + 4 SFP）；OVPOE8-125 对位 STC-28DGGPM；OVPOE8G-DR-SFP/12V-8+4 对位 STI-288DGGPM；贴 Optiview 标 30% 档
 - **邮件切入句（英文）**：Your OVPOE24-370-2GC is still 10/100 on the PoE ports, so the Marvell-based 24-port gigabit PoE+ with 4 SFP uplinks in Optiview packing is the natural upgrade SKU and the one I am pricing first, alongside the 8-port unit that matches the OVPOE8-125.
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：optiviewusa.com
-  > https://optiviewusa.com/ http 403 ct=text/html; charset=utf-8
-  > https://www.optiviewusa.com/ http 403 ct=text/html; charset=utf-8
-  > http://optiviewusa.com/ http 403 ct=text/html; charset=utf-8
+  > https://optiviewusa.com/ http 520 ct=text/html; charset=utf-8
+  > https://www.optiviewusa.com/ http 520 ct=text/html; charset=utf-8
+  > http://optiviewusa.com/ http 520 ct=text/html; charset=utf-8
 - **提示**：抓取失败不代表公司不在；人工打开一次即可。
 - 数据文件：`data/saga_clients/site_snapshots/SA-021.json`
 
@@ -291,13 +292,13 @@ A 确认：美国 CCTV 批发商 + 自有品牌 + S 重点；P1 = STC-28DGGPM（
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-021/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://optiviewusa.com/) | html | HTTP 202 | 2026-10-23T04:20:51Z | 0 字符；首行： |
+| [home](https://optiviewusa.com/) | html | HTTP 429 | 2026-10-23T04:20:51Z | 官网首页（T27 快照状态 http_error） |
 
 ## 联系方式（已有 · 原值照录）
 

@@ -25,7 +25,7 @@ s_mail: 10 msgs (out 6 / in 4), 2024-07-07 -> 2024-12-12
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -55,6 +55,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2024-07-08 | 来 | Switchcom Distribution 工单机器人 | Kevin received your request and is currently working diligently to provide you with pricing… your request is a top priority for us | Saga 的推销信被当成「客户询价」进了对方的销售工单——Switchcom 是南非分销商（Ubiquiti/MikroTik 类），其系统把一切来信视为买家 | `gmail_s（switchcom.co.za，jsonl client 字段为空，按域名重扫）` |
 | 2024-12-12 | 来 | Kevin Maphanga（Account Manager, Switchcom） | Please see the attached sales quote above on what we can offer and stock is available.（回 Simon「48 Port PoE Managed Switch, 300usd/pc」） | 对方反向给 Saga 报价 + 有现货 = 同行分销商，不是买家；Saga 的 300 USD 52 口 L2+ 价对它没有意义，除非谈 OEM/白牌供货。维持不动；若要动，只能以「supplier onboarding」口径找其采购而不是 Account Manager | `gmail_s（switchcom.co.za，jsonl client 字段为空，按域名重扫）` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Switchcom Distribution — Switchcom Distribution is a leading distributor of high-end wired and wireless networking equipment, VoIP, surveillance, and more. We offer a vast product portfolio consisting of top brands like Cambium Networks, Hikvision, MikroTik, Ubiquiti Networks, and more to meet all y | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -108,7 +109,7 @@ updated: 2026-10-29
 - **是谁**：南非网络设备分销商（销售台 sales@ + 客户经理 Kevin Maphanga）。Simon 2024-07 推 10G 媒体转换器、2024-12 推 52 口 L2+ PoE，对方两次都把 Saga 当买家：自动回复「Kevin received your request…」并于 2024-12-12 发来其自家报价单 Quotation QU509692.PDF——没有进入采购对话。S 邮箱 10 封（2024-07-07 → 2024-12-12）。
 - **类型**：网络设备分销商（ICT 分销：无线 / 网络 / VoIP / 监控 / 光纤；服务 reseller / installer / ISP / WISP / 终端；Shopify 网店）
 - **规模**：中（有销售台 + 多客户经理）
-- **在卖/在用品牌**：ALGcom, Cambium Networks, Extralink, Fanvil, Hikvision, Huawei eKit, Mercusys, MikroTik, Siklu, TP-Link, Tenda, Ubiquiti
+- **在卖/在用品牌**：ALGcom, Cambium Networks, Extralink, Fanvil, Hikvision, Huawei eKit, Mercusys, MikroTik, Siklu, TP-Link, Tenda, Ubiquiti, Huawei, Cambium
 - **【email】销售台把 Simon 当询价客户**
   > Kevin received your request and is currently working diligently to provide you with pricing. Please be assured that your request is a top priority for us
   > 来源：data/gmail_s/messages/2024/2024-07.jsonl（from sales@switchcom.co.za）（抓取 2024-07-08）
@@ -120,10 +121,11 @@ updated: 2026-10-29
   > 来源：https://www.switchcom.co.za/（抓取 2026-10-29）
 - **KP**：Kevin Maphanga（Account Manager（销售侧，非采购；研究档）— 一页纸一次收件 sales@ Attn: Procurement / Product Manager、抄 Kevin：分销 20% B、渠道 / 贴标角度 STC-2224GP / STC-4424GCPM / STI-154GP 一口价 + MOQ 1 + 付费样机 — 南非常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 约堡、ICASA / NRCS 不声称（第 120 批 官方登记核实 2026-10-29））kevin@switchcom.co.za +27 (0)10 007 2555〔S 邮箱签名〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来
-- 备注：LT-T02 官网实查（2026-10-29）：见 evidence「LT-T02 官网实查」。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。
+LT-T02 官网实查（2026-10-29）：见 evidence「LT-T02 官网实查」。
 分销商的采购/品类经理才是对的人；现有联系人是销售。南非不在 Planet 仓重点区域，但 Saga Clients 全域覆盖：慢慢跟，换「渠道/贴牌」角度找品类负责人再发。
 
-### 加厚挖掘（2026-10-29 · 邮件证据 + 官网实查 v1（LT-T02））
+### 加厚挖掘（2026-10-29 · 邮件证据 + 官网实查 v1（LT-T02） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -136,6 +138,23 @@ updated: 2026-10-29
   - 官网首页品牌墙：Huawei eKit / Siklu / ALGcom / MikroTik / Fanvil / Ubiquiti / TP-Link / Extralink / Hikvision / Mercusys / Tenda + 自有配件线「Switchcom Distribution」（2026-10-29）→ 走量分销 + 自有配件标 = 20% 档 + 贴牌话题可谈
   - Best sellers 全是 Ubiquiti airMAX CPE（WISP 客群）→ 对位 = WISP 汇聚 PoE（STC-228GP / STC-2224GP）而不是企业核心
 - **Saga 对位结论**：P1 STC-424DGGPM-280W（20% 档）——分销商 → 20% 档；走量口型 24 口 PoE
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://www.switchcom.co.za/　语言：en　站点地图 URL 数：133
+- **标题**：Switchcom Distribution
+- **描述**：Switchcom Distribution is a leading distributor of high-end wired and wireless networking equipment, VoIP, surveillance, and more. We offer a vast product portfolio consisting of top brands like Cambium Networks, Hikvision, MikroTik, Ubiquiti Networks, and more to meet all your networking needs.
+- **首页栏目**：WHO ARE WE? / WHAT MAKES US DIFFERENT? / BULK PURCHASING / FREE DELIVERY / PRICE MATCH / Our Best Sellers / Sample Product
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 176、ubiquiti 170、wireless 103、fibre 101、poe 74、access control 46、cable 44、surveillance 35、fiber 28、ethernet 27、gigabit 20、camera 16
+- **站内出现的品牌**：Ubiquiti, Huawei, Tenda, MikroTik, Hikvision, Extralink, TP-Link, Cambium　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：FAN-I16V, FAN-I10V, FAN-I10, PBE-M5-300, LBE-5AC, PBE-M5-400, SH-5800-18-30-D, SH-5800-13-60-D, SH-5800-10-90-D, DC12V, DC30V, AC125V
+- **站内公开邮箱**：sales@switchcom.co.za
+- **社媒**：http://www.facebook.com/sharer.php?u=_bc_product_uri_, https://twitter.com/SwitchcomD, https://twitter.com/share?url=_bc_product_uri_, https://twitter.com/share?url=https://www.switchcom.co.za/products/fanvil-2sip-1-button-ip54-mini-poe-intercom&text=fanvil-2sip-1-button-ip54-mini-poe-intercom, https://twitter.com/share?url=https://www.switchcom.co.za/products/fanvil-2sip-1-button-ip54-mini-video-poe-intercom&text=fanvil-2sip-1-button-ip54-mini-video-poe-intercom, https://twitter.com/share?url=https://www.switchcom.co.za/products/fanvil-2sip-1-button-ip65-video-poe-intercom&text=fanvil-2sip-1-button-ip65-video-poe-intercom
+- **产品类页面**：https://www.switchcom.co.za/sitemap_products_1.xml?from=12497122763&amp;to=6986256744531；https://www.switchcom.co.za/sitemap_products_2.xml?from=6986256973907&amp;to=7482600063059；https://www.switchcom.co.za/agents.md；https://www.switchcom.co.za/blogs/news；https://www.switchcom.co.za/blogs/blog；https://www.switchcom.co.za/blogs/tenda
+- **已抓子页**：[Tenda POE Switches – Switchcom Distribution](https://www.switchcom.co.za/collections/tenda-poe-switches)；[Fanvil 2SIP 1 Button IP54 Mini PoE Intercom / FAN-I10 – Swit](https://www.switchcom.co.za/collections/newest-products/products/fanvil-2sip-1-button-ip54-mini-poe-intercom)；[Fanvil 2SIP 1 Button IP65 Video PoE Intercom / FAN-I16V – Sw](https://www.switchcom.co.za/collections/newest-products/products/fanvil-2sip-1-button-ip65-video-poe-intercom)；[Fanvil 2SIP 1 Button IP54 Mini Video PoE Intercom / FAN-I10V](https://www.switchcom.co.za/collections/newest-products/products/fanvil-2sip-1-button-ip54-mini-video-poe-intercom)；[Tenda Fast Ethernet Switches – Switchcom Distribution](https://www.switchcom.co.za/collections/tenda-fast-ethernet-switches)；[Timer Switch – Switchcom Distribution](https://www.switchcom.co.za/collections/timer-switch)
+- 首页正文摘录：Menu Home Brands ALGcom ALGcom Dish Antennas ALGcom Ultra High Performance Shielded Antennas ALGcom Microwave Antennas ALGcom Asymmetrical Horn Antennas Algcom Symmetrical Horn Antennas Algcom Accessories EDS UPS Extralink Networking Cabinets & Accessories Networking Cable Flyleads Fibre Fanvil IP Phones IP Door Phones Headsets Hikvision Displays Transmissions Conference Surveillance ICT Access Control Huawei ekit Hu
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 74、监控 57 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1117.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -162,7 +181,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1117/`；本节随档案重渲染刷新，实时看日志。
 

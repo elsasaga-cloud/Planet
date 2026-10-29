@@ -24,7 +24,7 @@ last_contact: 2025-10-06
 p1: none
 price_tier: 20%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -113,7 +113,8 @@ updated: 2026-10-29
   > 兴趣：500个PoE 802.3af injector 2004年加入国际站
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Oscar Yamawaki（技术负责人（研究档）= 收件人 — 一页纸一次：贴标 OEM 30% B、注入器不供明说 → STC-028GP / STC-228GP 贴标 + 批量阶梯 + MOQ + 付费样机 — 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（进口税自理）、Anatel 不声称（第 120 批 官方登记核实 2026-10-29））oscar.yamawaki@daiken.com.br +55 41 99917 5755〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 （无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照 HTTP 错误 + 表内））
@@ -133,7 +134,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 待核型（无标准对应）（20% 档）——需求 PoE injector（价目缺口 Q-32）；交换机无询。
 - **邮件切入句（英文）**：（待 Q-32 价目补齐后报 500 pcs injector）
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：daiken.com.br
   > https://daiken.com.br/ conn: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
@@ -161,7 +162,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-498/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |

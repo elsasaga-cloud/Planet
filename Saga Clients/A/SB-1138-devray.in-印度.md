@@ -29,7 +29,7 @@ s_mail: 7 msgs (out 7 / in 0), 2024-07-03 -> 2026-09-17
 p1: STC-424XGGPM-280W / STC-28DGGPM（商用 Marvell L2+ 线报价）；L3 大内存需求无对位（CENTEC 2 GB DRAM / 8 GB eMMC；400G 平台 4 GB）
 price_tier: 30%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -67,6 +67,7 @@ updated: 2026-10-29
 | 2026-03-31 | 来 | Yogendra Rajput | Ok Great, can you share me the Data sheets along with the costing and we are interested in SKD. | 要 costing + 明确 SKD 意向 | `gmail_e 19d443b73c1a908e` |
 | 2026-03-31 | 去 | Elsa | Please check attached links for more information, It includes almost everything. SKD is fine with us. Let's talk after your review. | 只给链接，没给 costing = 我方欠答 ②；「SKD is fine」已出口，补答要接住 | `gmail_e 19d444848ab36c29` |
 | 2026-10-25 | 研 | 第 77 批复核 | C→B；CENTEC 内存规格核自 STH10G/2.5G 规格书「DRAM: 2GB on all models」、S5500/S4600 系列「Flash 8GB EMMC（OS）/ 4MB SPI（Boot）」、STH400G「DRAM: 4GB」 | 补答第 ① 点的依据（`data/extra_info_2026-10/text/Extra_Info__STH__*`） | `—` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | DevRay \| Next-Gen Firewall, SD-WAN, Routers and Switches — DevRay delivers next-generation firewall, SD-WAN, routers, industrial switches and enterprise networking solutions for secure, scalable business connectivity. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：年量未知；RAM/Flash 指标出处未知
 
@@ -146,9 +147,10 @@ updated: 2026-10-29
 - **KP**：Yogendra Kumar Rajput（Founder / Managing Director（CISA & CISM）；DevRay IT Solutions Pvt Ltd + MapleCloud Tech Services Pvt Ltd 两家董事（MCA）= 拍板人 / 收件人；Elsa 线程 12 封具名追问 CENTEC L3（第 114 批 官方登记核实 2026-10-28））yogendra.rajput@maplecloudtechnologies.com / yogendra.rajput@devray.in +91-9739995151（信尾；对外材料不写电话）〔Elsa 邮箱 2026-01-16 签名〕
 - **KP**：Neha Jain（Director DevRay IT Solutions Private Limited（MCA）（第 114 批 官方登记核实 2026-10-28）） 〔https://www.falconebiz.com/company/DEVRAY-IT-SOLUTIONS-PRIVATE-LIMITED-U62013UP2024PTC204532〕
 - **调研后定级**：A（原自动 C）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
-- 备注：（建档：第 77 批 C 薄切片，T29-U56；证据全部来自 Elsa 邮箱 `data/gmail_e/text/` + `index_replied.jsonl`）
+- 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。
+（建档：第 77 批 C 薄切片，T29-U56；证据全部来自 Elsa 邮箱 `data/gmail_e/text/` + `index_replied.jsonl`）
 
-### 加厚挖掘（2026-10-25 · 仅 Elsa 邮箱证据）
+### 加厚挖掘（2026-10-25 · 仅 Elsa 邮箱证据 + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -161,6 +163,15 @@ updated: 2026-10-29
 - **风险/边界**：要「非中国产地提货」——Saga 给不了，只能 SKD 在印度组装；8 GB RAM / 16 GB Flash 像招标表抄 Cisco 9300 的硬指标，CENTEC 线 2 GB DRAM / 8 GB eMMC 对不上；印度价格战；SKD 只能做量
 - **Saga 对位结论**：P1 STC-424XGGPM-280W / STC-28DGGPM（商用 Marvell L2+ 线报价）；L3 大内存需求无对位（CENTEC 2 GB DRAM / 8 GB eMMC；400G 平台 4 GB）（30% 档）——OEM 品牌商 30% 档；SKD 另按量议
 - **邮件切入句（英文）**：（见 mail_review.draft_en）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://devray.in/　语言：未标　站点地图 URL 数：12
+- **标题**：DevRay / Next-Gen Firewall, SD-WAN, Routers and Switches
+- **描述**：DevRay delivers next-generation firewall, SD-WAN, routers, industrial switches and enterprise networking solutions for secure, scalable business connectivity.
+- **站内公开邮箱**：sales@devray.in
+- **产品类页面**：https://www.devray.in/product/industrial-managed-switches/；https://www.devray.in/product/data-center-enterprise-switches/；https://www.devray.in/product/devray-sd-wan/；https://www.devray.in/product/devray-enterprise-router/；https://www.devray.in/product/devgate-next-generation-firewall/
+- 数据文件：`data/saga_clients/site_snapshots/SB-1138.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -189,12 +200,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1138/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://devray.in/) | html | 待首轮 | — | 官网首页 |
+| [home](https://devray.in/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 56 字符；首行：DevRay \| Next-Gen Firewall, SD-WAN, Routers and Switches |
 
 ## 联系方式（已有 · 原值照录）
 

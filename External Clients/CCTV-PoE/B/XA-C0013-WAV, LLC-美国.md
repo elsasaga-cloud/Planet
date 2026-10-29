@@ -1,6 +1,6 @@
 # XA-C0013 · WAV, LLC · 美国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 CCTV-PoE `smartbyte/profile/wav-usa.md`:1（其分级 A类） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R01 2026-10-27）→ 下一动作 首触
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 CCTV-PoE `smartbyte/profile/wav-usa.md`:1（其分级 A类） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 首触
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家（分销/集成/安装/零售/OEM 品牌）+ 有邮箱
@@ -146,10 +146,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W1-R01，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XA** — 美国 WISP 渠道分销商、多仓、实名 EVP → A 首触
-- 活着吗：活（2026-09 AFL 战略分销稿）
+- 活着吗：在线（wavonline.com，快照 2026-10-29）：Top Wireless Equipment Distributor For WISP & ISP
 - 一句话：伊利诺伊 Aurora 的北美 WISP/ISP 设备分销商（1990 起，51–200 人，$40.9M，4 个美国仓 + 加拿大 MBSI WAV），卖 Cambium/Ubiquiti/TP-Link/MikroTik 与光纤设备，2024-11 收购 ISP Supplies。营销 EVP Zach Hubeck 实名邮箱已公开。
 - 是什么人：WISP/ISP 设备分销商（北美）；规模：51–200 人；$40.9M
 - 在卖/在用：Cambium、Ubiquiti、TP-Link、MikroTik、AFL、Clearfield、Altowav
@@ -166,6 +166,7 @@
 | RocketReach | Revenue $40.9M；72 人 |  | https://rocketreach.co/wav-llc-profile_b5c70e67f42e0d32 | 2026-10-27 |
 | 官网新闻 | WAV … completed an agreement to acquire ISP Supplies |  | https://www.wavonline.com/wav-announces-acquisition-of-isp-supplies-to-expand-distribution-footprint | 2024-11-11 |
 | PRWeb | said Zach Hubeck, Executive Vice President of Marketing at WAV |  | https://www.prweb.com/releases/wav-and-mbsi-wav-named-among-afls-strategic-distribution-partners-in-the-us-and-canada-302882264.html | 2026-09-17 |
+| 官网快照 | 官网在线；Top Wireless Equipment Distributor For WISP & ISP | WAV is the top wireless equipment distributor for WISPs and ISPs. From private LTE to fixed wireless broadband we specialize in making the Internet work. | https://www.wavonline.com/ | 2026-10-29 |
 
 草稿（英文，首触；Simon 发，Agent 不发）：
 
@@ -183,3 +184,6 @@ What is WAV's process for evaluating a new switch vendor - a line review with yo
 Simon
 Saga Telecom - sagatele.com
 ```
+
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。
+

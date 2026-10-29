@@ -1,6 +1,6 @@
 # XC-M121 · Avtera BH · 波黑
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ IT / 消费电子进口分销 20%：Avtera BH d.o.o.（Sarajevo Blažuj 78；Reg. 065-0-Reg-08-002025 Općinski sud Sarajevo；PDV 201375920000；资本 900,000 KM；Direktor Ajdin Babić）坐实；Westermo Reseller 名录 → 对位 ✔ 但 IT 大分销口径；非 E） ｜ 来源 mikrotik-info `C-056`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-02 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ IT / 消费电子进口分销 20%：Avtera BH d.o.o.（Sarajevo Blažuj 78；Reg. 065-0-Reg-08-002025 Općinski sud Sarajevo；PDV 201375920000；资本 900,000 KM；Direktor Ajdin Babić）坐实；Westermo Reseller 名录 → 对位 ✔ 但 IT 大分销口径；非 E） ｜ 来源 mikrotik-info `C-056`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 >
 > **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：○ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ IT / 消费电子进口分销 20%：Avtera BH d.o.o.（Sarajevo Blažuj 78；Reg. 065-0-Reg-08-002025 Općinski sud Sarajevo；PDV 201375920000；资本 900,000 KM；Direktor Ajdin Babić）坐实；Westermo Reseller 名录 → 对位 ✔ 但 IT 大分销口径；非 EU → 预付 100% 起步；avtera@avtera.ba
 
@@ -46,10 +46,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，X1-02，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XC** — X1-02 补路径：○ IT / 消费电子进口分销 20%：Avtera BH d.o.o.（Sarajevo Blažuj 78；Reg. 065-0-Reg-08-002025 Općinski sud Sarajevo；PDV 201（等级不动，池位见 sieve_x）
-- 活着吗：2026-10-29 检索命中官网 / 名录（在线）
+- 活着吗：在线（avtera.ba，快照 2026-10-29）：Avtera BH B2B trgovina
 - 一句话：Avtera BH d.o.o.：IT / 消费电子进口分销（Westermo Reseller 名录）；Direktor Ajdin Babić；中型
 - 是什么人：分销（Westermo Reseller）；Avtera BH d.o.o.
 - 对口哪条线：Saga STI 工业 / SmartByte 商用 PoE — ○ IT / 消费电子进口分销 20%：Avtera BH d.o.o.（Sarajevo Blažuj 78；Reg.
@@ -62,5 +62,7 @@
 | 类型 | 说明 | 摘录 | 来源 | 日期 |
 |---|---|---|---|---|
 | 官网 / 名录 | 官网 O Avteri BH：Avtera BH d.o.o. · Blažuj 78 Sarajevo · PDV 201375920000 · 资本 900,000 KM · Direktor Ajdin Babić · avtera@avtera.ba |  | https://www.avtera.ba/o-avteri-bh/ | 2026-10-29 |
+| 官网快照 | 官网在线；Avtera BH B2B trgovina | Avtera BH B2B trgovina | https://www.avtera.ba/ | 2026-10-29 |
 
-- 备注：Avtera BH d.o.o.；Blažuj 78, 71215 Blažuj-Ilidža, Sarajevo；PDV 201375920000；Reg. 065-0-Reg-08-002025 Općinski sud Sarajevo；资本 900,000 KM；+387 33 776 750
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。
+Avtera BH d.o.o.；Blažuj 78, 71215 Blažuj-Ilidža, Sarajevo；PDV 201375920000；Reg. 065-0-Reg-08-002025 Općinski sud Sarajevo；资本 900,000 KM；+387 33 776 750

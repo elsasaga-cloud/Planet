@@ -1,6 +1,6 @@
 # XC-M125 · Electrobit · 爱沙尼亚
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 工业自动化分销 20%：Electrobit OÜ（Tallinn Suur-Sõjamäe 13A；Registrikood 10668940；KMKR EE101082723；原 Beijer Electronics Eesti OÜ）坐实；Westermo Reseller → STI 对位；官网具名销售工程师（arvo.lokk@ / andrei.dorosh@ / rene.erk） ｜ 来源 mikrotik-info `C-060`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-02 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 工业自动化分销 20%：Electrobit OÜ（Tallinn Suur-Sõjamäe 13A；Registrikood 10668940；KMKR EE101082723；原 Beijer Electronics Eesti OÜ）坐实；Westermo Reseller → STI 对位；官网具名销售工程师（arvo.lokk@ / andrei.dorosh@ / rene.erk） ｜ 来源 mikrotik-info `C-060`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 >
 > **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：○ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 工业自动化分销 20%：Electrobit OÜ（Tallinn Suur-Sõjamäe 13A；Registrikood 10668940；KMKR EE101082723；原 Beijer Electronics Eesti OÜ）坐实；Westermo Reseller → STI 对位；官网具名销售工程师（arvo.lokk@ / andrei.dorosh@ / rene.erkman@）；info@electrobit.ee
 
@@ -47,12 +47,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，X1-02，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XC** — X1-02 补路径：○ 工业自动化分销 20%：Electrobit OÜ（Tallinn Suur-Sõjamäe 13A；Registrikood 10668940；KMKR EE101082723；原 Beijer Electroni（等级不动，池位见 sieve_x）
-- 活着吗：2026-10-29 检索命中官网 / 名录（在线）
+- 活着吗：在线（electrobit.ee，快照 2026-10-29）：Electrobit OÜ - Tööstusautomaatika tooted ja tarkus
 - 一句话：Electrobit OÜ（原 Beijer Electronics Eesti OÜ）：工业自动化产品分销（Mitsubishi 等；Westermo Reseller）；销售工程师具名 arvo.lokk@ / andrei.dorosh@ / rene.erkman@（官网）
 - 是什么人：分销（Westermo Reseller）；Electrobit OÜ（原 Beijer Electronics Eesti OÜ）
+- 在卖/在用：Westermo、Korenix
 - 对口哪条线：Saga STI 工业 / SmartByte 商用 PoE — ○ 工业自动化分销 20%：Electrobit OÜ（Tallinn Suur-Sõjamäe 13A；Registr
 - 找得到人吗：info@electrobit.ee（官网 / 名录公开（X1-02 补路径））；KP：无具名
 - 已触达：未触达（路径 2026-10-29 新补）
@@ -64,5 +65,7 @@
 |---|---|---|---|---|
 | 官网 / 名录 | 官网页脚：Electrobit OÜ · Suur-Sõjamäe 13A Tallinn · Registrikood 10668940 · info@electrobit.ee · 销售联系人 |  | https://www.electrobit.ee/ | 2026-10-29 |
 | 官网 / 名录 | e-Krediidiinfo：ELECTROBIT OÜ 10668940 · 曾用名 Beijer Electronics Eesti OÜ |  | https://www.e-krediidiinfo.ee/10668940-ELECTROBIT | 2026-10-29 |
+| 官网快照 | 官网在线；Electrobit OÜ - Tööstusautomaatika tooted ja tarkus | Avasta Electrobit OÜ tööstusautomaatika tooted: sagedusmuundurid, tööstuskontrollerid, robotid, foto- ja induktiivandurid, servoajamid, switchid. | https://www.electrobit.ee/ | 2026-10-29 |
 
-- 备注：Electrobit OÜ（原 Beijer Electronics Eesti OÜ）；Suur-Sõjamäe 13A, 11415 Tallinn；Registrikood 10668940；KMKR EE101082723；+372 6518 140
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+Electrobit OÜ（原 Beijer Electronics Eesti OÜ）；Suur-Sõjamäe 13A, 11415 Tallinn；Registrikood 10668940；KMKR EE101082723；+372 6518 140

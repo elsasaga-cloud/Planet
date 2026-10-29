@@ -23,7 +23,7 @@ s_mail: 27 msgs (out 27 / in 0), 2024-07-08 -> 2026-08-21
 p1: STI-280GE
 price_tier: 20%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -55,6 +55,8 @@ updated: 2026-10-29
 | 2026-08-21 | 去 | A/S 群发 | Managed Optical Bypass Switch、Industrial PoE Switch | 27 封 / 1 次打开 / 0 回｜首封 2024-07-08 → 末封 2026-08-21（27 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS 也有其他的牌子 有点杂 | 表内备注 | `用户表` |
 | 2026-08-21 | 去 | A 箱（Alan） | 24 Port PoE Managed Switch | 本日去信真实主题（邮箱索引 bd340520a3fe250c；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封） | `bd340520a3fe250c` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：bcp-uk.com MX bcpuk-com0i.mail.protection.outlook.com.；A 185.151.30.173；NS ns1.stackdns.com. / ns3.stackdns.com. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：britaniccablingproduction.com MX mx.stackmail.com.；A 185.151.30.173；NS ns4.stackdns.com. / ns2.stackdns.com. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -131,7 +133,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（britaniccablingproduction.com：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（britaniccablingproduction.com：HTTP 错误，2026-10-29，第 2 次）
 - **是谁**：英国 Britannic Cabling Production / BCP（bcp-uk.com：布线产品；表内「工业 FS 也有其他的牌子 有点杂」「可以多跟进一下」；官网 http_error）；群发 18 次无回复。
 - **类型**：布线/网络产品经销商（英国）
 - **【用户表】表内兴趣/备注**
@@ -141,7 +143,8 @@ updated: 2026-10-29
   > 工业FS 也有其他的牌子 有点杂；可以多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Wadii Kherfani（Director（2020-02-12 起；1978 生；Companies House 12459641）= **老板 = 采购 = 联系人**（配偶 Anna Kherfani 2021-05 起亦为董事）—— 夫妻店自有品牌「BCP」结构化布线 + 机柜（自称 British manufacturer，实为 ISO 9000 工厂代工贴标）+ 关联 Teltronix Holdings Ltd（12455268）→ 产品线缺有源设备 → **OEM 30%：BCP 标 PoE 交换机 / 工业 DIN 补「end-to-end」方案**；MOQ 1 箱、T/T 50/50 或 100% 预付（第 92 批 官方登记核实 2026-10-28）） 〔https://find-and-update.company-information.service.gov.uk/company/12459641/officers〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -163,7 +166,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-280GE（20% 档）——工业 FS 多品牌 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）作白牌预算位
 - **邮件切入句（英文）**：Alongside the industrial switch brands you carry with your cabling range, we supply neutral-brand DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS/UKCA; managed versions on a Marvell platform) from single units, EXW USD — is there a budget industrial position your customers ask for?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：britaniccablingproduction.com, bcp-uk.com
   > https://britaniccablingproduction.com/ http 403 ct=text/html; charset=utf-8
@@ -228,7 +231,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-740/`；本节随档案重渲染刷新，实时看日志。
 

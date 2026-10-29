@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-110GE
 price_tier: 20%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -51,6 +51,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | MC 像公司之前的灰色外壳 SFP optical switch | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：oemarket.com MX mx02.mailcluster.com.au. / mx01.mailcluster.com.au.；A 101.0.113.110；NS ns4.digitalpacific.com. / ns3.digitalpacific.com. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -102,7 +103,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（oemarket.com：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（oemarket.com：HTTP 错误，2026-10-29，第 2 次）
 - **是谁**：澳大利亚 OEMarket（oemarket.com：MC「像公司之前的灰色外壳」、SFP、光开关；官网 http_error）；表内未跟进。
 - **类型**：网络配件网店（澳大利亚，MC）
 - **【用户表】表内兴趣/备注**
@@ -111,7 +112,8 @@ updated: 2026-10-29
 - **【用户表】MC 灰色外壳；SFP 光开关**
   > MC 像公司之前的灰色外壳 SFP optical switch
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -132,7 +134,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-110GE（20% 档）——MC 位 → 工业千兆 MC STI-110GE（$22.4 @20%）、百兆 STI-110FE（$19.7）；桌面 MC 以 HRUI 列表价（注明）；SFP/光开关 Saga 不供
 - **邮件切入句（英文）**：For the media converters you list, we supply neutral-brand gigabit and Fast Ethernet MCs (desktop and DIN-rail) from single units, CE/RoHS, EXW USD; RCM by your side — which MC configuration sells most in your shop?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：oemarket.com
   > https://oemarket.com/ http 409 ct=text/html; charset=iso-8859-1
@@ -151,7 +153,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-844/`；本节随档案重渲染刷新，实时看日志。
 

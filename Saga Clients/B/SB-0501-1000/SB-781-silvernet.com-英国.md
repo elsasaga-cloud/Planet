@@ -23,7 +23,7 @@ s_mail: 25 msgs (out 25 / in 0), 2024-07-04 -> 2026-08-18
 p1: STI-288DGGPM-2BT
 price_tier: 30%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -54,6 +54,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-08-18 | 去 | A/S 群发 | Marvell Industrial Alert System、10G Enterprise SFP Switch | 25 封 / 2 次打开 / 0 回｜首封 2024-07-04 → 末封 2026-08-18（25 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS SFP 一些周边产品 光路的新品工业FS；https://silvernet.com/products/73208mp-bt/ | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：silvernet.com MX silvernet-com.mail.protection.outlook.com.；A 185.151.30.172；NS ns2.bdm.microsoftonline.com. / ns4.bdm.microsoftonline.com. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -131,7 +132,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（silvernet.com：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（silvernet.com：HTTP 错误，2026-10-29，第 2 次）
 - **是谁**：英国 Silvernet（无线/工业网络品牌：自有标工业 FS（73208MP-BT，光路新品）、SFP 与周边；KP C. DiPrima、K. Newton；官网 http_error）；群发 16 次无回复。
 - **类型**：网络品牌商（英国，工业 FS 现光路）
 - **在卖/在用品牌**：光路
@@ -148,7 +149,8 @@ updated: 2026-10-29
 - **KP**：K. Newton（）knewton@silvernet.com 〔用户表〕
 - **KP**：Christopher Roland Ballard（Director（2005-03-09 创立至今，1973-10 生，身份已核）+ PSC 持股 50–75% = **老板 = 该写的人**（我们 25 封都寄给了员工）（第 88 批 官方登记核实 2026-10-27）） 〔https://find-and-update.company-information.service.gov.uk/company/05386276/persons-with-significant-control〕
 - **KP**：Mandy Joyce Ballard（Secretary + PSC 持股 25–50%（1970-08 生；配偶）—— 不必抄送（第 88 批 官方登记核实 2026-10-27）） 〔https://find-and-update.company-information.service.gov.uk/company/05386276/officers〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -170,7 +172,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-288DGGPM-2BT（30% 档）——Silvernet 标 bt 工业 FS（现光路 73208MP-BT）→ 8 PoE（2 口 bt 90W）+ 2 SFP STI-288DGGPM-2BT（$154.0 @30%）、常规 STI-288GPM（$85.5）贴标作二供；SFP Saga 不供
 - **邮件切入句（英文）**：For the Silvernet industrial PoE switch line (e.g. the 73208MP-BT position), we can be a second ODM source on a Marvell L2+ platform (8-PoE with 802.3bt ports + 2 SFP, −40~75 °C, CE/RoHS/UKCA) in your packaging from small lots — which SKU would you want sampled against your current unit?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：silvernet.com
   > https://silvernet.com/ http 403 ct=text/html; charset=utf-8
@@ -233,7 +235,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-781/`；本节随档案重渲染刷新，实时看日志。
 

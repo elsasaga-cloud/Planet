@@ -2,7 +2,7 @@
  "code": "SB-729",
  "name_official": "HeiTech Padu Berhad（马来西亚，上市）",
  "researched_at": "2026-10-21",
- "website_status": "停放（secure-x.my 空；heitech.com.my 待核）",
+ "website_status": "在线（主站 heitech.com.my；secure-x.my 为施工页，2026-10-29）",
  "summary": "马来西亚上市 ICT 集成商 HeiTech Padu（政府 / 企业系统集成，Shah Alam HeiTech Village），网络安全顾问 Ts. Rizaki bin Napi 展会对 PoE 很有兴趣，拿了彩页，主要看工业级并问电源接线，也看了商用；无跟进。大型集成商 → 项目型。",
  "type": "",
  "size": "",
@@ -165,6 +165,22 @@
     "quote": "兴趣：对于POE很有兴趣，拿了Hisource的彩页，主要看了工业级的，问了一下电源口的接线，也看了商业级的",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 复核 LT-R10",
+    "quote": "DNS 2026-10-29 16:2xZ：heitech.com.my MX fa98d20c-cc19-4f3b-885b-d6804a8d1346.in.tmes-sg.trendmicro.c；A 202.171.42.202；NS i1dns.i-sentrix.com. / i2dns.i-sentrix.net.",
+    "why": "长期客户群复核证据（非邮件事实，不计真回）",
+    "url": ""
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 复核 LT-R10",
+    "quote": "DNS 2026-10-29 16:2xZ：secure-x.my MX fa98d20c-cc19-4f3b-885b-d6804a8d1346.in.tmes-sg.trendmicro.c；A 202.171.33.164；NS i2dns.i-sentrix.net. / i1dns.i-sentrix.com.",
+    "why": "长期客户群复核证据（非邮件事实，不计真回）",
+    "url": ""
    }
   ],
   "proof_gaps": [],
@@ -181,5 +197,16 @@
    "2026-10-29"
   ],
   "batch": "LT-T03"
- }
+ },
+ "lt_review": {
+  "status": "留 B",
+  "batch": "LT-R10",
+  "prio": null,
+  "queued": "LT-R10",
+  "verdict_date": "2026-10-29",
+  "note": "快照抓的是 secure-x.my「Portal Page Under Construction」；主站 heitech.com.my DNS 正常（MX Trend Micro 托管 / A 202.171.42.202）→ 上市集成商 HeiTech Padu 在营，rizaki@heitech.com.my 路径在 → 留 B；website 以 heitech.com.my 为准",
+  "why": ""
+ },
+ "override_history": [],
+ "website_status_prev": "停放（secure-x.my 空；heitech.com.my 待核）"
 }

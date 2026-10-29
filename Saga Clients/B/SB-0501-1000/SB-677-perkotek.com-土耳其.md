@@ -191,14 +191,14 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
 - **最近变化摘要**：2026-10-29 sitemap：新增 815 条：2021-06-16T09:12:42 ariza-bildirimi；2021-06-16T09:12:42 teknik-destek-talebi；2021
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-677/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://www.perkotek.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 12998 字符；首行：Perkotek Parmak İzi Okuma \| X Ray Cihazı \| Turnike Ve Otopark Bariyeri |
-| [sitemap](https://www.perkotek.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-29T08:41:09Z | 900 个 URL；最新 lastmod 2021-06-16T09:12:42 |
+| [sitemap](https://www.perkotek.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-29T15:11:51Z | 900 个 URL；最新 lastmod 2021-06-16T09:12:42 |
 | [news_1](https://www.perkotek.com/haberler) | html | HTTP 200 | 2026-10-23T04:20:51Z | 17262 字符；首行：Perkotek Haberler \| Perkotek Teknolojı |
 | [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UChxRFzKn9Vq-71GzItRCbDQ) | rss | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-10-22T08:03:49+00:00 Perkotek SR 6 Otopark Bariyeri |
 

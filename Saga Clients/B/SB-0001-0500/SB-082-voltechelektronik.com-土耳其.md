@@ -25,7 +25,7 @@ last_contact: unknown
 p1: STI-288DGGPM
 price_tier: 25%
 research: done
-site_snapshot: unreachable  # 2026-10-21
+site_snapshot: unreachable  # 2026-10-29
 sources: 3
 updated: 2026-10-29
 ```
@@ -121,7 +121,8 @@ updated: 2026-10-29
   > 来源：http://www.voltechelektronik.com/（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（）info@voltechelektronik.com（公开） +90 551 375 12 25（WA）/ +90 532 548 9162〔官网 + 用户 Clients 表（ISAF 2025）〕
 - **调研后定级**：B（原自动 A）——微型安装商、需求仅'找工业 PoE 网管'且无后续互动；土耳其主攻区故保留 B。
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 WA 一次：STI-288DGGPM 图片+价格（项目 25%）。
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 需求映射））
@@ -141,7 +142,7 @@ WA 一次：STI-288DGGPM 图片+价格（项目 25%）。
 - **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——安装商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，−40~+75 ℃，$137.5）；预算型 STI-288GP 非管理（$59.8）
 - **邮件切入句（英文）**：ISAF'ta aradığınız endüstriyel yönetilebilir PoE switch: DIN ray, 8 PoE+ port + 2 SFP, −40/+75 °C, $137.5 EXW; yönetilemeyen versiyonu $59.8. Saha dolabı 48 V DC mi?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名不可达（DNS/连接失败））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：域名不可达（DNS/连接失败））
 
 - 尝试域名：voltechelektronik.com
   > https://voltechelektronik.com/ conn: HTTPSConnectionPool(host='voltechelektronik.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionE
@@ -160,7 +161,7 @@ WA 一次：STI-288DGGPM 图片+价格（项目 25%）。
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-082/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |

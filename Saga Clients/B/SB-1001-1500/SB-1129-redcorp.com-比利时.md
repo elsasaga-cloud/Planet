@@ -25,7 +25,7 @@ last_contact: unknown
 p1: STI-288GPM
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -55,6 +55,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2025-02-17 | 去 | Elsa 群发（BCC；To info@megamobile.be，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次） | 24 Port Fiber Switch — I would like to recommend a switch, 24 port 1G SFP+8 port 1G SFP/RJ45 combo +4*10G SFP+. It is a price-competitive aggregation switch. Price: 240usd/p | Elsa 箱群发 BCC 触达证据（命中地址 redcorp.com, sales@redcorp.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-08-13 | 去 | Elsa 群发（BCC；To info@dasys.fi，北欧/中东欧 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 redcorp.com, sales@redcorp.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Redcorp - Our mission, Making IT buying simple | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -134,9 +135,10 @@ updated: 2026-10-29
 - **KP**：Dino Reich（Founder（redcorp.com About）= 收件人（抄）（第 109 批 官方登记核实 2026-10-28））dino@redcorp.com 〔https://www.redcorp.com/fr/Home/About〕
 - **KP**：Danny Lipski（董事（pappers.be 口径 Daniel Lipski）（第 109 批 官方登记核实 2026-10-28））danny@redcorp.com 〔https://www.redcorp.com/fr/Home/About〕
 - **调研后定级**：B（原自动 C）——Planet 渠道档案 PB-083 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-083，W 批次调研 2026-10-19/20））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-083，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -175,6 +177,20 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-288GPM（20% 档）——其 PLANET 页工业 PoE 管理款最密集（IGS-4215-8P2T2S € 501.69 / IGS-5225-8P4S € 669.78 / IGS-4215-4P4T € 435.65）→ Saga 工业 8×GE PoE+ + 2×SFP L2 管理（$78.9 EXW）同口型；非 PoE 位 IGS-801M € 242.71 由 STI-280GM（$68.2）第二封；分销 / B2B 电商 → 20%（沿用 Planet 档案 PB-083）；需求：
 - **邮件切入句（英文）**：Your PLANET page is dense with industrial IGS units at € 230–1 130 — a neutral-packed Marvell-based DIN-rail line at EXW gives the same slots at roughly one fifth of the price. On the industrial PLANET units you list (IGS-4215 / IGS-5225 class), do customers mostly buy the PoE+ managed models or the compact unmanaged ones — so I quote the right slot first?
 
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://www.Redcorp.com/　语言：en　站点地图 URL 数：0
+- **标题**：Redcorp - Our mission, Making IT buying simple
+- **首页栏目**：Login / Language / I'm looking for / Quickfinders / Your cart is empty ! / More than an IT Webshop, A team that thinks along with you! / Stay tuned for the latest products and our weekly promotions. / What our customers say
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 6、switch 2、wireless 1、distributor 1
+- **站内公开邮箱**：customercare@redcorp.com, johan@redcorp.com
+- **站内公开电话**：+32 (0)2 558 30 00, +32 (0)2 558 30 22, +32 (0)2 558 30 50, +32 (0)2 558 30 62, +32 2 558 30 00
+- **社媒**：http://www.linkedin.com/company/redcorp, https://twitter.com/redcorp, https://www.facebook.com/RedcorpITShop
+- **已抓子页**：[Redcorp - About Us](https://www.redcorp.com/en/Home/AboutUs)；[Redcorp - Contact Us](https://www.redcorp.com/en/Home/Contact)；[Redcorp - Contact Us](https://www.redcorp.com/en/home/contact)；[Redcorp - Our mission, Making IT buying simple](https://www.redcorp.com/en/CategoriesNavigation/NavigationIndex?NavId=6)
+- 首页正文摘录：Chat with us Call us +32 2 558 30 00 About Us Contact Us Login / Sign up Login Forgot your password? Or create your account here ! EN FR NL 0 Login Or create your account here Language EN FR NL I'm looking for Computing Cell Phones and Tablets Peripherals 3D Printing Printing Storage Software Networking Cloud Quickfinders Promotions Laptops Desktops Monitors Printers Headphones I'm looking for Promotions Laptops Desk
+- **自动对位建议**：STC-28DGGPM（官网快照对位：交换机词频 2、无 PoE/工业侧重 → 8 口 L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1129.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
+
 ## 在卖/在用品牌 → Saga 对位
 
 （备注未提及具体品牌）
@@ -185,13 +201,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 home：内容变化：+0 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1129/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://redcorp.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4990 字符；首行：Redcorp - Our mission, Making IT buying simple |
+| [home](https://redcorp.com/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 4982 字符；首行：Redcorp - Our mission, Making IT buying simple |
 
 ## 联系方式（已有 · 原值照录）
 

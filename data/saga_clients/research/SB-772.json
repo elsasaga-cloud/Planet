@@ -118,6 +118,14 @@
     "quote": "自动回复里给出代理人/同事邮箱 mark.dixon@mencom.com",
     "why": "群发一直发给休假/离职的人；这个地址从未发过，是换具名邮箱的现成入口",
     "k": "2281cb9524be76f4"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 复核 LT-R10",
+    "quote": "DNS 2026-10-29 16:2xZ：mencom.com MX mencom-com.mail.protection.outlook.com.；A 104.26.11.50 / 104.26.10.50；NS noor.ns.cloudflare.com. / clint.ns.cloudflare.com.",
+    "why": "长期客户群复核证据（非邮件事实，不计真回）",
+    "url": ""
    }
   ],
   "proof_gaps": [],
@@ -134,5 +142,15 @@
    "2026-10-29"
   ],
   "batch": "LT-T03"
- }
+ },
+ "lt_review": {
+  "status": "留 B",
+  "batch": "LT-R10",
+  "prio": null,
+  "queued": "LT-R10",
+  "verdict_date": "2026-10-29",
+  "note": "官网快照两次失败（2026-10-21 / 2026-10-29：HTTP 错误（4xx/5xx，多为反爬 / 屏蔽境外抓取）），但 DNS 2026-10-29 16:2xZ 复查 mencom.com MX/A/NS 正常 → 非死域、邮箱路径未断 → 留 B 不动；快照失败只记「官网不可抓」，不作打回依据（可逆：两次独立 DNS 死才复核）",
+  "why": ""
+ },
+ "override_history": []
 }

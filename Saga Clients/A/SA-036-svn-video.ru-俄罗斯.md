@@ -246,16 +246,16 @@ A 维持但体量小：已在用 HRUI 商业 PoE 自有型号 → Saga 可用 ST
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：7 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
-- **最近变化摘要**：2026-10-29 news_2：内容变化：+3 −3 行
+- **监控层**：A 级面层　|　**自动源**：7 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 news_2：内容变化：+1 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-036/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://svn-video.ru/) | html | HTTP 200 | 2026-10-28T08:44:48Z | 10078 字符；首行：Системы видеонаблюдения SVN с доставкой по России |
-| [sitemap](https://svn-video.ru/index.php?route=extension/feed/yandex_sitemap) | sitemap | HTTP 200 | 2026-10-29T08:41:09Z | 900 个 URL；最新 lastmod - |
-| [news_1](https://svn-video.ru/shopblog) | html | HTTP 200 | 2026-10-29T08:41:09Z | 4208 字符；首行：Инструкции и статьи по видеонаблюдению |
-| [news_2](https://svn-video.ru/shopblog/news) | html | HTTP 200 | 2026-10-29T08:41:09Z | 3582 字符；首行：Новости |
+| [sitemap](https://svn-video.ru/index.php?route=extension/feed/yandex_sitemap) | sitemap | HTTP 200 | 2026-10-29T15:11:51Z | 900 个 URL；最新 lastmod - |
+| [news_1](https://svn-video.ru/shopblog) | html | HTTP 200 | 2026-10-29T15:11:51Z | 4208 字符；首行：Инструкции и статьи по видеонаблюдению |
+| [news_2](https://svn-video.ru/shopblog/news) | html | HTTP 200 | 2026-10-29T15:11:51Z | 3582 字符；首行：Новости |
 | [telegram](https://t.me/s/SVN_VIDEO_bot) | html | HTTP 200 | 2026-10-23T04:20:51Z | 197 字符；首行：Telegram: Launch @SVN_VIDEO_bot |
 | [youtube](https://www.youtube.com/@SVNVIDEO) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-09-28T11:23:52+00:00 Обзор NVR 6.0 прошивки IP регистраторов - Часть 3. Обслу |
 | [vk](https://vk.com/svn.video) | html | HTTP 200 | 2026-10-23T04:20:51Z | 7 字符；首行：‌ |

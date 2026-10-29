@@ -26,7 +26,7 @@ s_mail: 6 msgs (out 6 / in 0), 2024-06-25 -> 2024-11-21
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -38,7 +38,7 @@ updated: 2026-10-29
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM（研究档） — 自有品牌 + 体量；按主表 OEM 30% 档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-22 $65（10G media converter）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-09 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-09；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
+- **最大未知**：年走量与现供应商
 - **下一步**：随 SA-050 A 邮箱 → lukasz.gasiewicz@impakt.com.pl 并档；不再对 support@lanberg.pl 群发
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
@@ -56,6 +56,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2025-08-25 | 来（E 邮箱） | Support Lanberg | RE: [EXTERNAL] 90W PoE Managed Switch（转 lukasz.gasiewicz@impakt.com.pl） | Lanberg 采购在 Impakt | `gmail_e/index_replied` |
 | 2025-10-09 | 去 | Elsa 群发（BCC；To info@axuse.com，PL-3（大分销 aat/lanberg/elmark/dipol/a2s） 批次） | 10G Enterprise SFP Switch — This is our 24-port Marvell-based managed SFP switch. 1, 4 port 1G SFP+8-port 1G SFP/RJ45 Combo +4*10G SFP+ 2, Dual AC input 3, Support fan monitoring（正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | Elsa 箱群发 BCC 触达证据（命中地址 export@lanberg.pl, lanberg.pl, support@lanberg.pl）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Active and passive network equipment \| Lanberg — Welcome to the website of Lanberg - a Polish manufacturer of network equipment for the IT and telecomm industries. We encourage you to learn more about our product range, join our Partner Program and visit our blog. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：E 邮箱该信正文未入库（仅索引）
 
@@ -124,19 +125,21 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（lanberg.pl：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：在线（lanberg.pl，快照 2026-10-29）：Active and passive network equipment | Lanberg
 - **是谁**：波兰 Lanberg（IT 配件品牌（Impakt S.A. 旗下）：PoE 设备、商用 FS、周边，自有 logo；官网快照 HTTP 错误；表内「质量一般」；邮箱 export@）；表内未跟进。
 - **类型**：波兰 IT 配件品牌商（Lanberg，OEM 采购；体量较大）
+- **在卖/在用品牌**：Aruba
 - **【用户表】表内兴趣/备注**
   > PoE设备 商业FS 周边产品 自己的logo
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **【用户表】PoE 设备 商业 FS 自己的 logo**
   > PoE设备 商业FS 周边产品 自己的logo；质量一般
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/brands_seen/site_contacts/deep/facts。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -155,14 +158,20 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——自有 Lanberg 标 PoE/商用 FS → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；非管理 5/8/16 口位 HRUI（列表价，注明）
 - **邮件切入句（英文）**：For the PoE and unmanaged switches in the Lanberg range, we can be an ODM source on a Marvell platform (8-PoE + 2 SFP L2+, 24-PoE + 4 SFP) plus budget 5/8/16-port units in your retail packaging from small lots, CE/RoHS — which switch SKU sells most through your distribution?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
 
-- 尝试域名：lanberg.pl
-  > https://lanberg.pl/ http 403 ct=text/html; charset=utf-8
-  > https://www.lanberg.pl/ http 403 ct=text/html; charset=utf-8
-  > http://lanberg.pl/ http 403 ct=text/html; charset=utf-8
-- **提示**：抓取失败不代表公司不在；人工打开一次即可。
-- 数据文件：`data/saga_clients/site_snapshots/SB-574.json`
+- **首页**：https://lanberg.eu　语言：en　站点地图 URL 数：8
+- **标题**：Active and passive network equipment / Lanberg
+- **描述**：Welcome to the website of Lanberg - a Polish manufacturer of network equipment for the IT and telecomm industries. We encourage you to learn more about our product range, join our Partner Program and visit our blog.
+- **首页栏目**：News
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 69、cable 60、switch 35、wifi 9、installer 8、telecom 7、ethernet 5、wireless 5、industrial 4、camera 4、gigabit 3、cctv 2
+- **站内出现的品牌**：Aruba　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RJ-45, RJ-12, RJ-11, RJ-14, RSGE-24P-2GE-2S-360
+- **社媒**：https://www.facebook.com/Lanbergeu, https://www.linkedin.com/showcase/lanberg/, https://www.youtube.com/@C-berg
+- **已抓子页**：[Product catalog, active and passive IT network components / ](https://lanberg.eu/categories)；[Product catalog, active and passive IT network components / ](https://lanberg.eu/categories/fiber-optics)；[Contact - / Lanberg](https://lanberg.eu/contact)；[About us - / Lanberg](https://lanberg.eu/about-us)；[Product catalog, active and passive IT network components / ](https://lanberg.eu/categories/tools)；[Product catalog, active and passive IT network components / ](https://lanberg.eu/categories/network-active)
+- 首页正文摘录：Skip to content Active and passive network equipment, hanging and standing RACK cabinets, LAN cables, fiber optics - Lanberg Partner Panel English Polski English Česky Deutsch Ελληνικά Español Magyar Italiano Français Русский Slovensky Română Português Svenska (se) Български Українська Newsroom Product Catalogue Configurator Support Contact Learn more About us Where to buy? Become our partner FAQ Newsroom Product Cat
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 4、PoE 1 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-574.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -192,7 +201,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-574/`；本节随档案重渲染刷新，实时看日志。
 
@@ -272,7 +281,6 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

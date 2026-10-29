@@ -30,7 +30,7 @@ s_mail: 21 msgs (out 21 / in 0), 2024-06-20 -> 2026-10-07
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 4
 updated: 2026-10-29
 ```
@@ -59,6 +59,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ○ 中型分销 20%：Streakwave Wireless, Inc.（San Jose 总部 + 4 分仓；无线 / 安防 / 网络增值分销）部分坐实；国别纠偏 加拿大 → 美国；对位 ✔ 主区 ✔ 体量 ✔ 坐实 ✔ → P 池候选（长线）；Simon 曾判不行，可否决 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Streakwave Wireless — Streakwave Wireless, Inc. is a global value added distributor with sales and distribution facilities in: San Jose, CA (headquarters); Salt Lake City, UT; Cincinnati, OH; Hong Kong, Melbourne, Australia and Canterbury, New Zealand. Streakwave offers complete lines of wireless br | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -116,14 +117,32 @@ updated: 2026-10-29
 - **是谁**：国别纠偏：表内「加拿大」 → 美国。Streakwave Wireless, Inc. 官网 Our Story：总部 840 Jury Court, San Jose, CA 95112；分仓 Salt Lake City / Cincinnati / 墨尔本 / 新西兰。来源：公司底数登记（`data/saga_clients/registry/`，第 126 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。
 - **类型**：无线 / 安防 / 网络增值分销商
 - **规模**：中型（多仓分销）
+- **在卖/在用品牌**：Ubiquiti, Grandstream, MikroTik, Cambium, Milesight, Teltonika
 - **【官网】国别纠偏 表内「加拿大」 → 美国**
   > Streakwave Wireless, Inc. 官网 Our Story：总部 840 Jury Court, San Jose, CA 95112；分仓 Salt Lake City / Cincinnati / 墨尔本 / 新西兰
   > 来源：https://streakwave.com/about.asp（抓取 2026-10-29）
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 中型分销 20%：Streakwave Wireless, Inc.（San Jose 总部 + 4 分仓；无线 / 安防 / 网络增值分销）部分坐实；国别纠偏 加拿大 → 美国；对位 ✔ 主区 ✔ 体量 ✔ 坐实 ✔ → P 池候选（长线）；Simon 曾判不行，可否决；闸 1：加拿大 / 美国 Streakwave（卖很多牌子：商业 PoE / 工业 FS / SFP；北美无线 + 网络大分销）：北美主区 + 分销主体 + 对位 ✔；1 推 0 回 → 闸 2 查底数（体量偏大）；Simon 曾判不行 → 可按…
-- 备注：T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。
+T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。
 
-### 加厚挖掘（2026-10-29 · 邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://www.streakwave.com/　语言：en　站点地图 URL 数：2155
+- **标题**：Streakwave Wireless
+- **描述**：Streakwave Wireless, Inc. is a global value added distributor with sales and distribution facilities in: San Jose, CA (headquarters); Salt Lake City, UT; Cincinnati, OH; Hong Kong, Melbourne, Australia and Canterbury, New Zealand. Streakwave offers complete lines of wireless broadband networking equ
+- **首页栏目**：Wireless / UniFi Enterprise Products / Meet TikTube / Our Network of Trusted Brands / 9dot / GL.iNet / Algo / ARC Wireless
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 188、switch 81、10g 70、sfp 58、cable 57、2.5g 33、wireless 23、fiber 21、gigabit 16、surveillance 15、ethernet 13、ubiquiti 11
+- **站内出现的品牌**：Ubiquiti, Grandstream, MikroTik, Cambium, Milesight, Teltonika　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：QSFP28, RPSTL12, TCN-RPSTL12, SFP28, ZYX-GS1920, RJ-45, RS485, AES67, ZYX-XS1930-10, ZYX-POE12-30W, TP-POE-24G-12W, TCN-TP-POE-24G-12W
+- **社媒**：https://twitter.com/streakwave, https://www.facebook.com/Streakwave/, https://www.linkedin.com/company/streakwave-wireless/, https://www.youtube.com/streakwave, https://x.com/streakwave
+- **产品类页面**：https://www.streakwave.com/5-port-gbe-120w-poe-industrial-din-rail-switch；https://www.streakwave.com/5-port-gigabit-poe-l2-web-managed-switch；https://www.streakwave.com/fanless-8-port-gbe-poe-web-managed-switch；https://www.streakwave.com/24-port-gigabit-poe-l2-web-managed-switch；https://www.streakwave.com/44-port-gbe-poe-switch-l2-4-combo-2-sfp-375w；https://www.streakwave.com/24-port-gbe-poe-l2-web-managed-switch-2x-sfp
+- **已抓子页**：[Streakwave Manufacturers](https://www.streakwave.com/manufacturer/all)；[Streakwave Manufacturers](https://www.streakwave.com/catalog/manufacturers)；[Streakwave Switches](https://www.streakwave.com/switches)；[Streakwave Power & PoE](https://www.streakwave.com/power-poe)；[Streakwave PoE Injectors & Midspans](https://www.streakwave.com/poe-injectors-midspans)；[Streakwave](https://www.streakwave.com/about-us)
+- 首页正文摘录：Skip to main content Menu Search Personal menu Need help? Please call us at (888) 604-5234 Our Manufacturers About Streakwave Contact Our Team Search Close Search My account My account Close Register Log in Shopping cart Close 0 $0.00 You have no items in your shopping cart. All Categories Menu Close All Categories Back Antennas Back Omni Antennas (87) Directional Antennas (411) Sector Antennas (92) Antenna Accessori
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 12、PoE 188 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SC-2418.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -164,12 +183,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-2418/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://streakwave.com/) | html | 待首轮 | — | 官网首页 |
+| [home](https://streakwave.com/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 3755 字符；首行：Streakwave Wireless |
 
 ## 联系方式（已有 · 原值照录）
 

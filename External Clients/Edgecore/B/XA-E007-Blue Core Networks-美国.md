@@ -1,10 +1,10 @@
 # XA-E007 · Blue Core Networks · 美国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 Edgecore `A-052`（原评级 A，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R01 2026-10-27）→ 下一动作 等回
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 Edgecore `A-052`（原评级 A，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 等回
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱
-- 研究后改级：XA → **XB**（W1-R01，美国主攻区但只是 15 人全科 VAR，交换机非主业、无渠道体量；放 XB，第二封排到 12 月以后）；编号不变
+- 研究后改级：XA → **XB**（LT-T03，美国主攻区但只是 15 人全科 VAR，交换机非主业、无渠道体量；放 XB，第二封排到 12 月以后）；编号不变
 - 人工改级：XB（2026-10-29，Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径））；编号不变
 - 标记：S箱已群发
 - 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
@@ -93,10 +93,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W1-R01，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — 美国主攻区但只是 15 人全科 VAR，交换机非主业、无渠道体量；放 XB，第二封排到 12 月以后
-- 活着吗：官网活（Marlboro/Northborough MA 两址），2026-10-27
+- 活着吗：在线（bluecorenetworks.com，快照 2026-10-29）：Bluecore
 - 一句话：1997 年起的小型厂商中立 IT 方案商（约 15 人，$2.9M），做存储/安全/DC/无线/VoIP 全科；交换机只是其中一项，没有自有渠道体量。10-19 发 partners@ 未回。
 - 是什么人：小型 IT 方案商 / VAR（厂商中立）；规模：≈15 人；$2.9M（Manta）
 - 在卖/在用：Edgecore（官方 SI 名录）
@@ -112,5 +112,7 @@
 | Crunchbase | BlueCore Networks provides enterprise-class IT solutions；11–50；vendor independent |  | https://www.crunchbase.com/organization/bluecore-networks | 2026-10-27 |
 | Manta | 1997 年成立，约 15 人，年营收 ≈$2.93M，Computer Integrated Systems Design |  | https://www.manta.com/c/mb5sy5z/bluecore-networks | 2026-10-27 |
 | 官网 | info@bluecorenetworks.com / 28 Lord Road Suite 260 Marlboro MA |  | https://www.bluecorenetworks.com/ | 2026-10-27 |
+| 官网快照 | 官网在线；Bluecore | Bluecore | https://www.bluecorenetworks.com/ | 2026-10-29 |
 
-- 备注：与 Bluecore（营销 SaaS，2026-10 被 Insider One 收购）同名不同家，勿混。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence。
+与 Bluecore（营销 SaaS，2026-10 被 Insider One 收购）同名不同家，勿混。

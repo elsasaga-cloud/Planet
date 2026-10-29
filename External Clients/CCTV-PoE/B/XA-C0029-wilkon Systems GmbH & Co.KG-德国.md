@@ -1,10 +1,10 @@
 # XA-C0029 · wilkon Systems GmbH & Co.KG · 德国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:18575 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R01 2026-10-27）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:18575 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家（分销/集成/安装/零售/OEM 品牌）+ 有邮箱
-- 研究后改级：XA → **XB**（W1-R01，集成商/安装商（目标序列第 4 位），不在渠道优先级内 → B，第 3 波后再看）；编号不变
+- 研究后改级：XA → **XB**（LT-T03，集成商/安装商（目标序列第 4 位），不在渠道优先级内 → B，第 3 波后再看）；编号不变
 - 人工改级：XB（2026-10-29，Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径））；编号不变
 - 标记：无
 - 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
@@ -86,10 +86,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W1-R01，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — 集成商/安装商（目标序列第 4 位），不在渠道优先级内 → B，第 3 波后再看
-- 活着吗：活（轻卡：未外查）
+- 活着吗：在线（wilkon.de，快照 2026-10-29）：wilkon – Night-Audit-Dienstleister für Hotels seit 1989
 - 一句话：纽伦堡的 VdS 认证视频监控集成商（规划/安装/运营，含光纤/无线桥接/PoE 交换），自建 PoE 网络。项目型终端买家。
 - 是什么人：视频监控集成商（VdS Errichter）；规模：未查
 - 对口哪条线：HRUI PoE / SmartByte PoE（项目配套） — 项目用量小而散
@@ -102,5 +102,7 @@
 | 类型 | 说明 | 摘录 | 来源 | 日期 |
 |---|---|---|---|---|
 | 来源库 | 视频监控系统集成商（VdS认证Errichter）；网络基础设施含 PoE-Switching |  | External Clients/CCTV-PoE/A/XA-C0029 | 2026-10-27 |
+| 官网快照 | 官网在线；wilkon – Night-Audit-Dienstleister für Hotels seit 1989 | Night Audit outsourcen statt Personal suchen: garantierte Besetzung, geschulte Night Auditoren, planbare Kosten. In Deutschland und Österreich, seit 1989. | https://wilkon.de/de/ | 2026-10-29 |
 
-- 备注：轻卡。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence。
+轻卡。

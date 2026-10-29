@@ -1,6 +1,6 @@
 # XA-M050 · AA Jones Electric Ltd · 英国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 mikrotik-info `A-056`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R02 2026-10-27）→ 下一动作 第二封
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 mikrotik-info `A-056`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 第二封
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱（含实名 KP）
@@ -76,13 +76,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W1-R02，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XA** — GB 主攻区工业电气分销 → 维持 A
-- 活着吗：来源库 2026-09-22 核对在线；本轮未复查
+- 活着吗：在线（aajones.co.uk，快照 2026-10-29）：East Yorkshire's local specialist electrical wholesale & industrial controls suppliers | AA Jones Electric Ltd
 - 一句话：工业电气批发（Hull，3 万+ 库存项，N-Tron/Red Lion 渠道）；卖 N-Tron/Red Lion 工业交换机（8口非网管约 $500+）→ 中性货同规格 STI-280GE（Saga）约 $64（EXW 快照，15 天有效），做第二供应商/替换，价差 5 倍
 - 是什么人：工业电气批发（Hull，3 万+ 库存项，N-Tron/Red Lion 渠道）；规模：未量化
-- 在卖/在用：N-Tron、Red Lion、Anybus、Ixxat
+- 在卖/在用：N-Tron、Red Lion、Anybus、Ixxat、Phoenix Contact
 - 对口哪条线：SmartByte 商用 L2+（已发/首触）+ Saga STI 工业 L2+ PoE 补位 — 工业交换机品类现成
 - 找得到人吗：sales@aajones.co.uk（来源库公开邮箱）；KP：无具名
 - 已触达：S 箱 2026-09-28 群发「24 Port PoE Managed Switch」→ 已发未回
@@ -94,6 +94,7 @@
 |---|---|---|---|---|
 | 来源库官网/名录核对 | Hull 工业电气分销，有售前+售后支持；【2026-09-22 补】Unit H Venture Business Park, Witty Street, Hull HU3 4EL。英国独立电气批发商，库存 3 万+ 项目，兼做工控盘柜与危险区域设备。 |  | https://aajones.co.uk/ | 2026-09-22 |
 | S 箱群发记录 | S 箱 2026-09-28 发 sales@aajones.co.uk「24 Port PoE Managed Switch」，去 1 来 0 |  | data/gmail_s/2026-09_10群发名单_未入库.csv | 2026-09-28 |
+| 官网快照 | 官网在线；East Yorkshire's local specialist electrical wholesale & industrial controls suppliers ｜ AA Jones Electric Ltd | Independent electrical wholesalers in Hull supplying electricians, contractors and businesses across East Yorkshire. Over 30,000 electrical products in stock. | https://www.aajones.co.uk/ | 2026-10-29 |
 
 草稿（英文，第二封；Simon 发，Agent 不发）：
 
@@ -112,4 +113,5 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+轻卡：本轮未外查，沿用来源库官网/名录核对。

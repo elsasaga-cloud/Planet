@@ -28,7 +28,7 @@ last_contact: 2023-10-16
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
-site_snapshot: unreachable  # 2026-10-21
+site_snapshot: unreachable  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -111,7 +111,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（ara.com.bd：域名不可达（DNS/连接失败），2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（ara.com.bd：域名不可达（DNS/连接失败），2026-10-29，第 2 次）
 - **是谁**：孟加拉国网络经销商（MD. Chan Miah Sarker），海关数据显示买过磊通（Leitong）设备，Switch / MC / 周边，非自有品牌；support@ 退信（发不过去），备用 gmail；2023-02 对商用 PoE 价目回复 thanks。
 - **在卖/在用品牌**：Leitong（磊通）
 - **【官网快照】ara.com.bd 不可达**
@@ -122,7 +122,8 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：MD. Chan Miah Sarker（Sr. Executive, Support & Maintenance（官网 2026-10-29；非决策人；support@ara.com.bd 退信）= 收件人（请转采购）— 一页纸一次：分销 20% B、STC-028GP $28 / STC-228GP $33 / STC-110XGE $65 一口价 + MOQ 1 + 付费样机 — 亚洲常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29））smchan91@gmail.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照不可达 + 表内））
@@ -142,7 +143,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——经销同类商用 PoE → STC-28DGGPM 起手（分销 20%）。
 - **邮件切入句（英文）**：Mr. Sarker, you've imported PoE switches and media converters before — for a first mixed carton from us (8-PoE managed + gigabit MC), what quantities would make the Chittagong freight sensible?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名不可达（DNS/连接失败））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：域名不可达（DNS/连接失败））
 
 - 尝试域名：ara.com.bd
   > https://ara.com.bd/ conn: HTTPSConnectionPool(host='ara.com.bd', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPS
@@ -175,7 +176,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1103/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |

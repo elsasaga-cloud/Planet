@@ -29,7 +29,7 @@ s_mail: 11 msgs (out 10 / in 1), 2025-04-14 -> 2026-03-30
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -62,6 +62,7 @@ updated: 2026-10-29
 | 2025-06-10 | 来 | Markus Geck（Dema Vertriebs GmbH，德国） | Thank you very much for thinking of me. Yes, that is very interesting. What are the purchase quantities and what is the price for the 8 and 24 switches? | A 邮箱 2025-06 对 16 口机群发的真人回信：问 8 口与 24 口的起订量和价——Alan 当天回了全铜口工业系列报价单（见上一行）。C 级是人工定级（DEMA = 五金/园艺电商集团，行业外），不改；但这位 Markus 的询价是真的，留作「行业外个人兴趣」备注 | `gmail_a 2025-06-10 AW: 16 Port Ethernet Switch` |
 | 2025-06-10 | 去 | Alan → Markus Geck（Re: 16 Port Ethernet Switch；附 Quotation_Copper Switch.pdf + STI-0160GE.pdf） | 全铜口工业非管理整表（Buyer: Dema Vertriebs GmbH）：STI-050FE $22.5 / 054FP $30 / 050GE $25 / 054GP $32.5 / 080FE $25.5 / 088FP $36.5 / **080GE $32.5 / 088GP $43.5 / 0160GE $94.5 / 01616GP $125 / 0240GE $130**（Marvell Chip，-40~75℃，DIN）；Alan 补充「24-port PoE 不常订所以没列，要的话需批量」+「请花时间读 STI-0160GE 的长 datasheet」。 | Markus 当天只问了两件事：**购买数量（MOQ）** 和 8 口/24 口的价——价给了，但「数量」这问题没有被正面回答（报价单备注里只有 validity/neutral/warranty）；他之后再没回，Alan 继续群发 6 封无回。德国户，重启时先把 MOQ 1 / 样品价说清 | `k=869ab8494c880aed（A 邮箱 2025-06-10 06:44Z）；附件 sha=9ffabb9a4b4a3787` |
 | 2026-10-25 | 研 | 第 77 批复核 | C→B：2025-06-10 真人询价 + 我方未答数量；DEMA = 自有品牌进口商（德国） | T29-U56 Simon「值得捞的处理一下」；原 C 理由（行业外 + 大集团）留 override_reason | `—` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | DEMA Handel - Günstige Artikel für Gewerbe- & Privatkunden! | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：（第 77 批已裁：C→B）
 
@@ -144,9 +145,10 @@ updated: 2026-10-29
 - **KP**：Ulrich Abendschein（Geschäftsführer（2006 起；同时任 STABILO Fachmarkt 连锁多家公司 GF）= 拍板人；研究档原无具名 KP → 对表信抬头 z. Hd. Herrn Abendschein（第 88 批 官方登记核实 2026-10-27）） 〔https://www.northdata.de/DEMA%20Vertriebs-GmbH,%20Unterm%C3%BCnkheim〕
 - **KP**：Günther Denner（Prokurist（Kupferzell；自有品牌「Denner Edition」）= 采购 / 经营层第二签字人（第 88 批 官方登记核实 2026-10-27）） 〔https://www.northdata.de/DEMA%20Vertriebs-GmbH,%20Unterm%C3%BCnkheim〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌
-- 备注：（无首轮调研；由 deepen.py 建档）｜第 77 批：C→B（见 override_reason）；2026-11 回 2025-06-10 原线程补答「数量」+ 现价 + 自有品牌贴标一句。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）｜第 77 批：C→B（见 override_reason）；2026-11 回 2025-06-10 原线程补答「数量」+ 现价 + 自有品牌贴标一句。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（公司档案核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（公司档案核对） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -164,6 +166,18 @@ updated: 2026-10-29
 - **风险/边界**：行业外（DIY/园艺）+ 大集团采购流程——不符合 Saga 小单长期跟进模式
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——不推进；若其电商想增网络品类，按电商 20% 档报 STC-28DGGPM
 - **邮件切入句（英文）**：（不发送：行业外 + 大集团）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://dema-handel.net/　语言：de-DE　站点地图 URL 数：1
+- **标题**：DEMA Handel - Günstige Artikel für Gewerbe- & Privatkunden!
+- **首页栏目**：Unsere beliebtesten Kategorien / Topseller / Neu im Sortiment
+- **站内型号串**（正则抽取，含非交换机）：H07RN-F, H05VV-F, DEF25, DES400, DAR400, ZA25532
+- **站内公开邮箱**：info@dema-handel.de
+- **站内公开电话**：+49 (0) 7944, +49 (0)79 44
+- **已抓子页**：[10 m Verlängerungskabel Kabel H07RN-F 3x1,5mm² IP44 mit Schu](https://dema-handel.net/10-m-verlaengerungskabel-kabel-h07rn-f-3x1-5mm2-ip44-mit-schutzkontakt-schwarz/5429)
+- 首页正文摘录：Zum Hauptinhalt springen Zur Suche springen Zur Hauptnavigation springen 5€ Rabatt auf Ihren Einkauf! Service Hotline: +49 (0) 7944 / 98101-0 Markenqualität zu Top Preisen Für Gewerbe- & Privatkunden 5€ Rabatt auf Ihren Einkauf! Service Hotline: +49 (0) 7944 / 98101-0 Markenqualität zu Top Preisen Für Gewerbe- & Privatkunden Menü schließen Ihr Konto Anmelden oder registrieren Übersicht Persönliches Profil Adressen Be
+- 数据文件：`data/saga_clients/site_snapshots/SB-193.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -197,12 +211,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-193/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://dema-vertrieb.com/) | html | 待首轮 | — | 官网首页 |
+| [home](https://dema-vertrieb.com/) | html | HTTP 503 | 2026-10-29T15:11:51Z | 官网首页 |
 
 ## 联系方式（已有 · 原值照录）
 

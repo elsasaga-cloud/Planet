@@ -28,7 +28,7 @@ last_contact: unknown
 p1: STC-228GP
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -58,6 +58,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | 闸 2 回 C：Brown Bear（brownbear.ru）1 查仅同名 ООО «Браун» 他户 → 未坐实；Planet 渠道 ✔ 但法人未取 → 回 C 储备 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 登记底数（registry） | RU · 1 次检索：focus.kontur / birweb / saby 同名户均非本域 → 未坐实；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | БУРЫЙ МЕДВЕДЬ ТМ – интернет-магазин электронных компонентов, разъёмов и кабеля — Интернет-магазин «Бурый Медведь»: электронные компоненты, кабель, разъемы, стяжки, клеммы, сетевое оборудование. Оптом и в розницу с доставкой по всей России, самовывоз в Москве. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -100,7 +101,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-29）**　网站状态：域名 brownbear.ru（官网快照待 Actions 补抓）
+- **状态：已调研（2026-10-29）**　网站状态：在线（brownbear.ru，快照 2026-10-29）：БУРЫЙ МЕДВЕДЬ ТМ – интернет-магазин электронных компонентов, разъёмов и кабеля
 - **是谁**：C 池三闸捞出（△ 观察）：闸 2 回 C：Brown Bear（brownbear.ru）1 查仅同名 ООО «Браун» 他户 → 未坐实；Planet 渠道 ✔ 但法人未取 → 回 C 储备
 - **类型**：安防 / 网络设备批发（闸 2 判定 · 20% 档）
 - **规模**：未取
@@ -114,10 +115,11 @@ updated: 2026-10-29
   > 来源：（抓取 2026-10-29）
 - **KP**：—（表内邮箱（公开 / 总机））order@brownbear.ru 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：闸 2 回 C：Brown Bear（brownbear.ru）1 查仅同名 ООО «Браун» 他户 → 未坐实；Planet 渠道 ✔ 但法人未取 → 回 C 储备；闸 1：俄罗斯 Brown Bear（brownbear.ru；工业 FS / MC Planet 的）：进口台湾同类 ✔ 对位 ✔ Simon 点名俄罗斯；未触达 → 闸 2 查底数（rusprofile）；俄语区收款待定，低优先
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/saga_fit.basis/deep/facts。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -130,6 +132,22 @@ updated: 2026-10-29
   - 表内兴趣：工业FS MC Planet的
 - **风险/边界**：**未坐实 → 回 C 储备；来信再起则官网 Реквизиты 页补查 + 预付 100%**；登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号
 - **Saga 对位结论**：P1 STC-228GP（20% 档）——默认对位（安防 / 网络设备批发 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://brownbear.ru/　语言：ru　站点地图 URL 数：25
+- **标题**：БУРЫЙ МЕДВЕДЬ ТМ – интернет-магазин электронных компонентов, разъёмов и кабеля
+- **描述**：Интернет-магазин «Бурый Медведь»: электронные компоненты, кабель, разъемы, стяжки, клеммы, сетевое оборудование. Оптом и в розницу с доставкой по всей России, самовывоз в Москве.
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：planet 16
+- **站内出现的品牌**：PLANET　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：XT60U-M, XT60PT-F, XT60PB30-F, IEC320, XT60U-F, XT60H-F, XT60PW30-M, XT30UPB30-F, XT30PW30-F, MR30PW30-F, XT60PB30-M, XT90H-F
+- **站内公开邮箱**：order@brownbear.ru
+- **站内公开电话**：+7 (495) 710-75-95, +7 (495) 822-40-20
+- **社媒**：https://t.me/tm_brownbear_bot
+- **产品类页面**：https://www.brownbear.ru/catalog/
+- **已抓子页**：[Контактная информация](https://brownbear.ru/contact/)；[Разъем питания XT60 папа на кабель, 2 контакта, купить в инт](https://brownbear.ru/catalog/razjemi-soediniteli/razjemi-pitaniya/razemy-akkumulyatornye/razemy_xt30_xt60_i_xt90/razem_silovoy_xt60_amass_2_kontakta_shteker_na_kabel.html)；[Разъем питания XT60 мама на плату, 2 контакта, купить в инте](https://brownbear.ru/catalog/razjemi-soediniteli/razjemi-pitaniya/razemy-akkumulyatornye/razemy_xt30_xt60_i_xt90/razem_silovoy_xt60_amass_2_kontakta_rozetka_na_platu.html)；[Разъем питания XT60 мама на кабель, 2 контакта, купить в инт](https://brownbear.ru/catalog/razjemi-soediniteli/razjemi-pitaniya/razemy-akkumulyatornye/razemy_xt30_xt60_i_xt90/razem_silovoy_xt60_amass_2_kontakta_rozetka_na_kabel.html)；[Разъем питания XT60 мама на плату SMD, 2 контакта, купить в ](https://brownbear.ru/catalog/razjemi-soediniteli/razjemi-pitaniya/razemy-akkumulyatornye/razemy_xt30_xt60_i_xt90/razem_silovoy_xt60_amass_2_kontakta_rozetka_na_platu_uglovoy_smd.html)；[Разъем питания XT60 мама на кабель с кожухом, 2 контакта, ку](https://brownbear.ru/catalog/razjemi-soediniteli/razjemi-pitaniya/razemy-akkumulyatornye/razemy_xt30_xt60_i_xt90/razem_silovoy_xt60_amass_2_kontakta_rozetka_na_kabel_s_kozhukhom.html)
+- 首页正文摘录：Пн-Пт: с 10:00 до 18:00 Сб, Вс: выходной +7 (495) 822-40-20 order@brownbear.ru Вход Регистрация 0 0 0 В корзине пока пусто Каталог Каталог Разъёмы и соединители Разъёмы IEC C13 и C14 Разъёмы промышленные Кабель Плоский кабель (шлейф) Стяжки (хомуты) и крепеж Шнуры питания 220В Шнуры интерфейсные Клеммы и клеммники Кнопки и выключатели Оборудование PLANET Компоненты СКС Компоненты РЭА Контакты О нас Где купить Доставк
+- 数据文件：`data/saga_clients/site_snapshots/SC-729.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -144,12 +162,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-729/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://brownbear.ru/) | html | 待首轮 | — | 官网首页 |
+| [home](https://brownbear.ru/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 7023 字符；首行：БУРЫЙ МЕДВЕДЬ ТМ – интернет-магазин электронных компонентов, разъёмов и кабеля |
 
 ## 联系方式（已有 · 原值照录）
 

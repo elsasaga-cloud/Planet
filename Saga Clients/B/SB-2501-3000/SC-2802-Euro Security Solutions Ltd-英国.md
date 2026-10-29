@@ -29,7 +29,7 @@ s_mail: 1 msgs (out 1 / in 0), 2025-04-11 -> 2025-04-11
 p1: STC-2216GP
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: http_error  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -41,7 +41,7 @@ updated: 2026-10-29
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-2216GP — 默认对位（集成商 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）；
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：年走量与现供应商
+- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：不动：LT-01 复核（待过）后再定 — 长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-29）
@@ -115,7 +115,8 @@ updated: 2026-10-29
   > 来源：（抓取 2026-10-29）
 - **KP**：—（表内邮箱（公开 / 总机））info@eurosecuritysolutions.co.uk 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · 集成商 25%：Euro Security Solutions Limited（CH 11094000；2017；伦敦；微型）坐实；样品意向 ✔ 主区 ✔ 对位 ✔ → 入池观察档（退信 → 走表内 WA）+ 预付；闸 1：英国 Euro Security Solutions Ltd（展会：很在意 AC/DC 输入、问 VC 用法、要 full info、想拿样；邮件退信）：英国主区 + 样品意向 + 对位 ✔ → 闸 2 查底数 + 找新地址，低优先；Si…
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#1。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
 ### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
@@ -131,6 +132,15 @@ updated: 2026-10-29
   - 表内兴趣：对产品不是很懂，但是很在意AC/DC输入，也问了VC怎么用，需要full info，想拿样
 - **风险/边界**：**样品意向户 → 集成商 25%：WA 续上展会话题一次（AC/DC 双输入 STI-154GP 工业 + VC 用法说明 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；微型 → 预付 100%
 - **Saga 对位结论**：P1 STC-2216GP（25% 档）——默认对位（集成商 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
+
+- 尝试域名：eurosecuritysolutions.co.uk
+  > https://eurosecuritysolutions.co.uk/ http 404 ct=text/html; charset=utf-8
+  > https://www.eurosecuritysolutions.co.uk/ http 404 ct=text/html; charset=utf-8
+  > http://eurosecuritysolutions.co.uk/ http 404 ct=text/html; charset=utf-8
+- **提示**：抓取失败不代表公司不在；人工打开一次即可。
+- 数据文件：`data/saga_clients/site_snapshots/SC-2802.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -152,12 +162,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-2802/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://eurosecuritysolutions.co.uk/) | html | 待首轮 | — | 官网首页 |
+| [home](https://eurosecuritysolutions.co.uk/) | html | HTTP 404 | 2026-10-29T15:11:51Z | 官网首页 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -234,6 +245,7 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
+- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

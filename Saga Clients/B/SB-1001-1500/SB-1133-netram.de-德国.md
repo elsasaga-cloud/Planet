@@ -26,7 +26,7 @@ last_contact: unknown
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -57,6 +57,7 @@ updated: 2026-10-29
 | 2025-01-19 | 内 | Gmail 退信（S 邮箱） | sales@netram.de 永久退信：554 Sorry, no mailbox here by that name. | 该地址已失效——群发名单与 next_move 都不要再用它；若是具名 KP，多半已离职 | `gmail_s 0aada7d991e478c2` |
 | 2025-03-28 | 去 | Elsa 群发（BCC；To office@all4fiber.com，DE 批次） | 16 Port Ethernet Switch — There is a 16-port Din Gigabit Ethernet switch for you. It is good for vehicle network and industrial automation. Model choice 1. 5 Port/8 Port/24 Por | Elsa 箱群发 BCC 触达证据（命中地址 info@netram.de, netram.de）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-08-31 | 去 | Elsa 群发（BCC；To office@all4fiber.com，DE 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 info@netram.de, netram.de）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | You are being redirected... | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -127,9 +128,10 @@ updated: 2026-10-29
   > 来源：https://www.netram.de/gs724t-400eus-EN（抓取 2026-10-20）
 - **KP**：Jürgen Hübner（Geschäftsführer（*1968，自 2005；HRB 19078 Wuppertal）= **拍板人本人 = 收件人**（第 100 批 官方登记核实 2026-10-28）） +49 202 75805-0〔https://www.netram.de/Impressum〕
 - **调研后定级**：B（原自动 C）——Planet 渠道档案 PB-095 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 国别更正为「德国」（country_fix）：域名 netram.de + 研究档 hq Wuppertal + 法定名 Netram Memory GmbH；表内国别空（Q-65 国别机检 2026-10-27）
+- 备注：LT-T03 官网快照加厚（2026-10-29）：deep/facts。
+（无首轮调研；由 deepen.py 建档） ｜ 国别更正为「德国」（country_fix）：域名 netram.de + 研究档 hq Wuppertal + 法定名 Netram Memory GmbH；表内国别空（Q-65 国别机检 2026-10-27）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-095，W 批次调研 2026-10-19/20））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-095，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -158,6 +160,13 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-424DGGPM-280W（20% 档）——其列 SGSW-24040P4 / GS-4210-24P2S（24×GE PoE+ + 4/2 SFP 管理）→ Saga STC-424DGGPM-280W 同口型，20% 档 $134.5 USD EXW；IGS-20160HPT 由 STI-2160XGGM 第二封对位；分销商（走量）→ 20%（沿用 Planet 档案 PB-095）；需求：
 - **邮件切入句（英文）**：Next to your transceivers you list PLANET 24-port PoE and industrial units (SGSW-24040P4, IGS-20160HPT) — a Marvell-based, neutral-packed switch line at EXW pairs naturally with your optics as a switch-plus-SFP bundle. When customers take a 24-port PoE switch with your SFPs, is the SGSW-24040P4 / GS-4210-24P2S class what they ask for, or do they go straight to 10G-uplink units — so I send the right sample first?
 
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://www.netram.de/　语言：未标　站点地图 URL 数：1
+- **标题**：You are being redirected...
+- 首页正文摘录：You are being redirected...
+- 数据文件：`data/saga_clients/site_snapshots/SB-1133.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
+
 ## 在卖/在用品牌 → Saga 对位
 
 （备注未提及具体品牌）
@@ -168,7 +177,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1133/`；本节随档案重渲染刷新，实时看日志。
 

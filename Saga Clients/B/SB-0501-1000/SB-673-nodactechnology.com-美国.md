@@ -206,14 +206,14 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
 - **最近变化摘要**：2026-10-29 sitemap：新增 820 条：2025-08-07 Personal%20Data%20Processing%20Policy.pdf；2025-10-03 brands?l=p；2025-1
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-673/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://nodactechnology.com/) | html | HTTP 200 | 2026-10-29T08:41:09Z | 3505 字符；首行：Security & Low Voltage Solutions Distributor USA \| Nodac Technology |
-| [sitemap](https://nodactechnology.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-29T08:41:09Z | 900 个 URL；最新 lastmod 2025-10-03 |
+| [home](https://nodactechnology.com/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 3516 字符；首行：Security & Low Voltage Solutions Distributor USA \| Nodac Technology |
+| [sitemap](https://nodactechnology.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-29T15:11:51Z | 900 个 URL；最新 lastmod 2025-10-03 |
 | [news_1](https://nodactechnology.com/articles) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2198 字符；首行：Articles & Insights \| Electronic Security & Low Voltage Solutions \| Nodac Tec |
 | [news_2](https://nodactechnology.com/projectregistration) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3335 字符；首行：Project Registration \| Exclusive Pricing for Integrators \| Nodac Technology |
 | [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCGVaUrW5sszxkUmOCsEXScA) | rss | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-07-13T12:39:33+00:00 How to Configure DNAKE AC02C in Standalone Mode \| Acces |

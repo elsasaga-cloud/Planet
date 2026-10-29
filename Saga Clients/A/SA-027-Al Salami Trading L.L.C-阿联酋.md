@@ -28,7 +28,7 @@ s_mail: 15 msgs (out 14 / in 1), 2025-03-25 -> 2026-09-07
 p1: STI-144GP
 price_tier: 25%
 research: done
-site_snapshot: timeout  # 2026-10-21
+site_snapshot: timeout  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -141,7 +141,8 @@ updated: 2026-10-29
 - **KP**：—（总机（官网公开））alsalami@emirates.net.ae +971 4 265 0333〔https://www.alsalami.com/〕
 - **KP**：Rashid Al Salami（Chairman / Founder（官网 About））—（未公开） +971 4 265 0333（公司）〔https://www.alsalami.com/about-us/〕
 - **KP**：Reyann Salazar Brosoto（来信署名人（职务未在邮件署名里出现））reyann@alsalami.com +971 52 905 6975（2025-06-16 签名 Mob）〔S/A 邮箱来信 2025-06-16 来信 1 封（第 72 批从邮件表头补）〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 A 维持（主动询盘 + 已回复 + 中东集成商），首单仅 2 台，走项目复购逻辑；P1 = STI-144GP（1 光 4 电工业千兆，若价格表无则按 SmartByte 型号标注），25% 集成商档，MOQ 1 可直接成交。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v2（官网 + 名录核对））
@@ -168,7 +169,7 @@ A 维持（主动询盘 + 已回复 + 中东集成商），首单仅 2 台，走
 - **Saga 对位结论**：P1 STI-144GP（25% 档）——询盘即 1 光 4 电工业千兆 → STI-144GP；集成商 25% 档；2 台可当样机走 PayPal
 - **邮件切入句（英文）**：For the two industrial gigabit 1-fibre 4-copper units you asked about, the 4-port PoE + 1 SFP DIN switch ships within 10–15 days, and I can ship the pair as samples by courier on PayPal terms.
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：超时（站慢或封锁））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：超时（站慢或封锁））
 
 - 尝试域名：alsalami.com
   > https://alsalami.com/ timeout
@@ -212,7 +213,7 @@ A 维持（主动询盘 + 已回复 + 中东集成商），首单仅 2 台，走
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-027/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |

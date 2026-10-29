@@ -23,7 +23,7 @@ s_mail: 18 msgs (out 18 / in 0), 2024-06-24 -> 2026-09-17
 p1: STI-280GE
 price_tier: 20%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2024-11-05 | 去 | Simon → Angora Networks（SA-077）附件 Turkey Client List.xlsx | 名单行：「industrial network info@eretekne.com https://www.eretekne.com/kategori/100mbit-donusturuculer-1」 | Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持） | `gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx` |
 | 2026-09-17 | 去 | A/S 群发 | 10G Enterprise SFP Switch、Industrial PoE Switch | 18 封 / 0 次打开 / 0 回｜首封 2024-06-24 → 末封 2026-09-17（18 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS MC XPS的/ONV voscom的VC 周边产品 | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：eretekne.com MX mx.uzmanposta.com.；A 104.19.157.83 / 104.19.156.83；NS ns1.myideasoft.com. / ns2.myideasoft.com. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）
 
@@ -140,7 +141,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（eretekne.com：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（eretekne.com：HTTP 错误，2026-10-29，第 2 次）
 - **是谁**：土耳其 Eretekne（分销商：工业 FS/MC 为 XPS/ONV，Voscom 视频光端机与周边；官网 http_error）；表内 2 次跟进无回复。
 - **类型**：安防传输产品分销商（土耳其，XPS/ONV/Voscom）
 - **在卖/在用品牌**：XPS, ONV, Voscom
@@ -150,7 +151,8 @@ updated: 2026-10-29
 - **【用户表】XPS/ONV 工业 FS MC；Voscom VC**
   > 工业FS MC XPS的/ONV voscom的VC 周边产品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -172,7 +174,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-280GE（20% 档）——工业 FS/MC（现 XPS/ONV）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、8 PoE + 2 SFP STI-288GP（$57.4）、工业千兆 MC STI-110GE（$22.4）；视频光端机 Saga 不供
 - **邮件切入句（英文）**：Alongside the XPS and ONV industrial switches and MCs you distribute, we supply neutral-brand DIN-rail 8-GE/8-PoE + 2 SFP units (managed versions on a Marvell platform) and gigabit MCs from small lots, CE/RoHS, EXW USD — which industrial SKU do your installer customers reorder most?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：eretekne.com
   > https://eretekne.com/ http 410 ct=text/html; charset=utf-8
@@ -222,7 +224,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-28T08:44:48Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-273/`；本节随档案重渲染刷新，实时看日志。
 

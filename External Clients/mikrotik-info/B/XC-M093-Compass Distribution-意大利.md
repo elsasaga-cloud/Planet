@@ -1,6 +1,6 @@
 # XC-M093 · Compass Distribution · 意大利
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：★ IT / 网络 / 安防 / 布线分销 20%：Compass Distribution = Sirius S.p.A.（Grugliasco TO；P.IVA 01240900397；R.E.A. RA 130368；资本 €1.16M；2011 起；21–50 人；CEO Giampaolo Sabbatani、SMB Sales Director Rossella Barbieri）坐实） ｜ 来源 mikrotik-info `C-028`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-02 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：★ IT / 网络 / 安防 / 布线分销 20%：Compass Distribution = Sirius S.p.A.（Grugliasco TO；P.IVA 01240900397；R.E.A. RA 130368；资本 €1.16M；2011 起；21–50 人；CEO Giampaolo Sabbatani、SMB Sales Director Rossella Barbieri）坐实） ｜ 来源 mikrotik-info `C-028`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 >
 > **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：★ IT / 网络 / 安防 / 布线分销 20%：Compass Distribution = Sirius S.p.A.（Grugliasco TO；P.IVA 01240900397；R.E.A. RA 130368；资本 €1.16M；2011 起；21–50 人；CEO Giampaolo Sabbatani、SMB Sales Director Rossella Barbieri）坐实；ComNet 授权 → PoE / 工业对位；info@compass-distribution.it
 
@@ -54,12 +54,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，X1-02，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XC** — X1-02 补路径：★ IT / 网络 / 安防 / 布线分销 20%：Compass Distribution = Sirius S.p.A.（Grugliasco TO；P.IVA 01240900397；R.E.A. RA 13036（等级不动，池位见 sieve_x）
-- 活着吗：2026-10-29 检索命中官网 / 名录（在线）
+- 活着吗：在线（compass-distribution.it，快照 2026-10-29）：Compass Distribution - Telecomunicazioni, Cablaggio strutturato, Networking, Security
 - 一句话：Compass Distribution（Sirius S.p.A. 旗下；P.IVA 01240900397，R.E.A. RA 130368，资本 €1,160,000）：IT / 网络 / 电信 / 安防 / 结构化布线分销（ComNet 授权）；2011 起；21–50 人；CEO Giampaolo Sabbatani、SMB Sales Director Rossella Barbieri
 - 是什么人：分销（ComNet 授权）；Compass Distribution（Sirius S.p.A. 旗下；P.IVA 01240900397，R.E.A. RA 130368，资本 €1,160,000）
+- 在卖/在用：Teltonika、Zyxel、Bosch
 - 对口哪条线：Saga STI 工业 / SmartByte 商用 PoE — ★ IT / 网络 / 安防 / 布线分销 20%：Compass Distribution = Sirius S.p.
 - 找得到人吗：info@compass-distribution.it（官网 / 名录公开（X1-02 补路径））；KP：无具名
 - 已触达：未触达（路径 2026-10-29 新补）
@@ -71,5 +72,7 @@
 |---|---|---|---|---|
 | 官网 / 名录 | 官方 PDF 供货条款页脚：P. Iva 01240900397 · R.E.A. RA 130368 · Cap. Soc. €1.160.000 · info@compass-distribution.it · PEC siriusspa@legalmail.it |  | https://www.compass-distribution.it/wp-content/uploads/2024/03/Compass-Distribution-Condizioni-generali-di-Fornitura.pdf | 2026-10-29 |
 | 官网 / 名录 | Prospeo：Compass Distribution · Grugliasco · 2011 · 21–50 · CEO Giampaolo Sabbatani |  | https://prospeo.io/c/compass-distribution-revenue | 2026-10-29 |
+| 官网快照 | 官网在线；Compass Distribution - Telecomunicazioni, Cablaggio strutturato, Networking, Security | Distributore di prodotti e soluzioni per le telecomunicazioni, il cablaggio strutturato, il networking e la security con sedi a Torino, Vicenza, Bologna, Prato, Roma, Napoli. | https://www.compass-distribution.it/ | 2026-10-29 |
 
-- 备注：Compass Distribution（Sirius S.p.A. 旗下；P.IVA 01240900397，R.E.A. RA 130368，资本 €1,160,000）；Strada del Portone 159, 10095 Grugliasco (TO)；法定地址 Via Gentili 22, 48018 Faenza (RA)；P.IVA 01240900397；R.E.A. RA 130368；+39 011 0627111
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/evidence/site_p1_hint。
+Compass Distribution（Sirius S.p.A. 旗下；P.IVA 01240900397，R.E.A. RA 130368，资本 €1,160,000）；Strada del Portone 159, 10095 Grugliasco (TO)；法定地址 Via Gentili 22, 48018 Faenza (RA)；P.IVA 01240900397；R.E.A. RA 130368；+39 011 0627111

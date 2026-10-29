@@ -29,7 +29,7 @@ s_mail: 24 msgs (out 21 / in 3), 2025-03-12 -> 2026-10-09
 p1: STC-424DGGM
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 3
 updated: 2026-10-29
 ```
@@ -58,6 +58,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ★ 中型分销 20%：El Paso Communication Systems, Inc. — EPCOM（1987；95 人；$23.7M；三仓；PLANET 双线在售；purchasing@ 在表）坐实；对位 ✔ 主区 ✔ 体量 ✔ 坐实 ✔ → P 池候选；Simon 曾判不行，可否决 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | EPCOM - Everything in Security, Emergency and Communication Systems — The most complete technology catalog for US integrators. 75,000+ certified products: Video Surveillance, IT Networking, Audio/Video, Access Control, Telecommunications, Solar Energy and more. Same-day shipping, lifetime support. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -113,7 +114,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（epcom.net；并档 Planet 渠道档案 PB-066）
 - **是谁**：美墨边境 El Paso 的无线 + 安防 + 网络多品类分销商（≈100 人，Syscom 美方），PLANET 商用与工业两线都备货并自带 Epcom 保修。类型：分销（无线通信 + 安防 + 网络多品类分销商，1987 年起；Syscom 集团美方实体；ICOM/TXPro 对讲、安防、Wi-Tek/Alta Labs 网络；PLANET 商用 + 工业多款在售并提供「Epcom 保修」）。信号：epcom.net 产品页 PLANET：IGS-620TF（$249，Warranty: 1 year with Epcom，OutOfStock）、WGSD-10020（$229）、IGS-6325-8UP2S2X（5 years with Epcom）、GS-4210-24T2S（$353.99，InStock）、IGS-6325-16P4S（$1,345）、GS-5220-8UP2T2X、XGS3-24042——≥7 款，自带 Epcom 保修条款说明其为正式进货而非代发。Planet 渠道档案 PB-066 评级 B（需求：PLANET ≥7 款在售、GS-4210-24T2S 现货、自带 Epcom 保修条款 → 正式进货、需求真实；触达：sales@epcom.net 来自 Mikrotik 仓 B-346 行（本仓 epcom.net 首页/about 页未见邮箱 → 本仓记「待本仓核对」）；体量：≈95–101 人、营收 $17–24M、三个配送中心 → 偏大但不是巨头（与 PB-058 JPF 同档），按子公司/实体自身判定可赢；Mikrotik 仓 B-346 已有邮箱 → 并档，首触以 Mikrotik 仓库为准 → B ★）。并档说明：Saga 表内本条 SC-2429（美国）自动评 C（原因：；Saga 群发已推送 8 次无回复）。
-- **在卖/在用品牌**：PLANET
+- **在卖/在用品牌**：PLANET, ZKTeco
 - **【官网】GS-4210-24T2S 现货标价**
   > GS-4210-24T2S … PLANET … $353.99 … InStock
   > 来源：https://www.epcom.net/products/GS-4210-24T2S-PLANET-77985.html（抓取 2026-10-20）
@@ -136,9 +137,10 @@ updated: 2026-10-29
   > Worldwide leading distributor for Wireless and Security Systems… three distribution centers San Antonio, El Paso and Miami; 51-200 employees; HQ Miami, Florida
   > 来源：https://www.linkedin.com/company/epcomusa（抓取 2026-10-20）
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 中型分销 20%：El Paso Communication Systems, Inc. — EPCOM（1987；95 人；$23.7M；三仓；PLANET 双线在售；purchasing@ 在表）坐实；对位 ✔ 主区 ✔ 体量 ✔ 坐实 ✔ → P 池候选；Simon 曾判不行，可否决；闸 1：美国 Epcom（El Paso；Syscom 美方；约 100 人；PLANET 商用 + 工业两线备货、Wi-Tek 在用；研究档对位 STC-424DGGM）：美国主区 + 分销主体 + 对位 ✔；8 推 0 回 → 闸 2 查底数…
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-066，W 批次调研 2026-10-19/20））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-066，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -164,6 +166,23 @@ updated: 2026-10-29
 - **风险/边界**：采购是在 El Paso 还是由 Syscom 墨西哥集团集中采购（若集中则体量跳到巨头档 → 退出）；sales@ 是否仍有效（本仓未见页面）；对非 UL 商用交换机在美国安防渠道的接受度；Mikrotik 侧 B-346 首触状态；Saga 群发已推送 8 次无回复 → 改用具名收件人与新钩子
 - **Saga 对位结论**：P1 STC-424DGGM（20% 档）——对位其现货 GS-4210-24T2S（24×GE + 2×SFP，L2+，$353.99 InStock）——分销商现货款说明有周转；Saga 同口数 L2+（上联 4×SFP 更多）EXW $82.5；分销 → 20%（沿用 Planet 档案 PB-066）；需求：
 - **邮件切入句（英文）**：（不主动发送：用户判定不行）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://epcom.net/　语言：en　站点地图 URL 数：5588
+- **标题**：EPCOM - Everything in Security, Emergency and Communication Systems
+- **描述**：The most complete technology catalog for US integrators. 75,000+ certified products: Video Surveillance, IT Networking, Audio/Video, Access Control, Telecommunications, Solar Energy and more. Same-day shipping, lifetime support.
+- **首页栏目**：Top Radio Categories / Radio Communication Deals / Top Radio Brands / ABOUT US / Technical Support / Marketing Support / DOWNLOADS / FOLLOW US ON:
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 51、access control 29、poe 27、industrial 21、nvr 16、fiber 10、camera 9、gigabit 4、cctv 4、surveillance 4、distributor 3、ftth 2
+- **站内出现的品牌**：ZKTeco　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：STZ30G, STZ35G, STZ-30G, STZ45G, HWP-HBX48, TXG-5070, S8-POE, AES-128, XK84DLGEN3, PRO-AUDIO-18, OP6-WT, PRO-CAT-6
+- **站内公开邮箱**：sales@epcom.net
+- **社媒**：https://www.facebook.com/epcomusa/, https://www.instagram.com/epcom_usa/, https://www.linkedin.com/company/epcomusa/, https://youtube.com/c/EPCOM_USA
+- **产品类页面**：https://www.epcom.net/products；https://www.epcom.net/products/similar；https://www.epcom.net/products/similar/unv；https://www.epcom.net/products/similar/aten；https://www.epcom.net/products/similar/im05；https://www.epcom.net/products/similar/brady
+- **已抓子页**：[Categories - Towers and Masts](https://epcom.net/categories/404?m=radiocommunication-towers-and-masts&sortBy=best_sellers)；[Categories - Racks and Cabinets](https://epcom.net/categories/549?m=radiocommunication-racks-and-cabinets&sortBy=best_sellers)；[Search products / EPCOM](https://epcom.net/products?nuevo=true)；[MA1 Streaming Audio Amplifier / 1 Zone 2 Channels / Class D ](https://epcom.net/products/MA1-VSSL-244479.html)；[Quality of Products - EPCOM](https://epcom.net/principal/quality_of_products)；[A08S Slim Access Control Akuvox A08S / Aluminum and Tempered](https://epcom.net/products/A08S-AKUVOX-229570.html)
+- 首页正文摘录：New Solutions View Solutions Monthly Deals View All Top Radio Categories Digital Portable Radios Analog Mobile Radios Repeaters & Base Stations Antennas See all Commercial Radios & Systems Radio Communication Deals See all Deals Antennas TXPro, Andrew / CommScope, Laird Mobile Antennas TXPro, Hustler, Laird Duplexers Telewave, Sinclair, TX RX Systems RF Filters Telewave, EMR Corporation, Sinclair Cables Andrew / Comm
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 21、PoE 27 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SC-2429.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -211,12 +230,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-2429/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://epcom.net/) | html | 待首轮 | — | 官网首页 |
+| [home](https://epcom.net/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 2241 字符；首行：EPCOM - Everything in Security, Emergency and Communication Systems |
 
 ## 联系方式（已有 · 原值照录）
 

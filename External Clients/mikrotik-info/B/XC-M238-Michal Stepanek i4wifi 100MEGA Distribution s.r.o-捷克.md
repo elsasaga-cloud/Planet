@@ -1,12 +1,12 @@
 # XC-M238 · Michal Stepanek / i4wifi 100MEGA Distribution s.r.o. · 捷克
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：与 Saga SC-656 同一公司 → 随主档等级 B（复核随主档，不单列）） ｜ 来源 mikrotik-info `C-173`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T01 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：与 Saga SC-656 同一公司 → 随主档等级 B（复核随主档，不单列）） ｜ 来源 mikrotik-info `C-173`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 >
 > **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（随 Saga `SC-656`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-656 同一公司（经 100mega.cz）→ 随 Saga 档：pool（闸 3，★ P 池正式入池（档位 ★）：★ 大分销 20%：100MEGA Distribution s.r.o.（Brno；IČO 60707968；1994；捷克主要 IT 分销商）坐实；Planet 渠道 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔ =）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-656，经 100mega.cz）→ 以 Saga 档为准，本条不单独跟
-- 研究后改级：XC → **XB**（LT-T01，Q-76 LT-01 2026-10-29：与 Saga SC-656 同一公司 → 随主档等级 B（复核随主档，不单列））；编号不变
+- 研究后改级：XC → **XB**（LT-T03，Q-76 LT-01 2026-10-29：与 Saga SC-656 同一公司 → 随主档等级 B（复核随主档，不单列））；编号不变
 - 人工改级：XB（2026-10-29，Q-76 LT-01 2026-10-29：与 Saga SC-656 同一公司 → 随主档等级 B（复核随主档，不单列））；编号不变
 - 标记：重复=Saga
 - 与 Saga Clients 重叠：**SC-656**（Saga 评级 C，经域名 100mega.cz）→ 以 Saga 档为主；本条只保留来源库事实
@@ -48,10 +48,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，LT-T01，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — Q-76 LT-01 2026-10-29：与 Saga SC-656 同一公司 → 随主档等级 B（复核随主档，不单列）
-- 活着吗：域名 100mega.cz MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓
+- 活着吗：在线（100mega.cz，快照 2026-10-29）：100MEGA Distribution s.r.o.
 - 一句话：Michal Stepanek / i4wifi 100MEGA Distribution s.r.o.（捷克 · Neratovice）：集成商/顾问（MikroTik 认证）；MikroTik 认证顾问 MTCNA+MTCTCE+MTCSE
 - 是什么人：集成商/顾问（MikroTik 认证）
 - 在卖/在用：MikroTik
@@ -65,5 +65,7 @@
 | 类型 | 说明 | 摘录 | 来源 | 日期 |
 |---|---|---|---|---|
 | 来源库官网/名录核对 | 集成商/顾问（MikroTik 认证） |  | https://100mega.cz | 2026-09 |
+| 官网快照 | 官网在线；100MEGA Distribution s.r.o. | 100MEGA Distribution s.r.o. | https://www.100mega.cz/ | 2026-10-29 |
 
-- 备注：LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。
+LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。

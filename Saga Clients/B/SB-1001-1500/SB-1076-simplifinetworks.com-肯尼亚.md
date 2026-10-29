@@ -185,14 +185,14 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
 - **最近变化摘要**：2026-10-29 sitemap：新增 806 条：2026-10-01T00:00:00 services；2026-10-01T00:00:00 blog；2026-10-01T00:00:00 news-ar
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1076/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://simplifinetworks.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3609 字符；首行：Simplifi Networks |
-| [sitemap](https://simplifinetworks.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-29T08:41:09Z | 900 个 URL；最新 lastmod 2026-10-29T07:44:13 |
+| [sitemap](https://simplifinetworks.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-29T15:11:51Z | 900 个 URL；最新 lastmod 2026-10-29T15:06:21 |
 | [news_1](https://simplifinetworks.com/blog) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3523 字符；首行：Simplifi Networks |
 | [youtube](https://www.youtube.com/@simplifinetworks810) | youtube_handle | RuntimeError: channelId not found (HTTP 404)；YouTube 对运行器 IP | - | YouTube（运行器解析 channelId 后转 RSS） |
 

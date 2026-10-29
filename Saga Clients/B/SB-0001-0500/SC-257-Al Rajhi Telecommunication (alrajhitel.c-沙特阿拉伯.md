@@ -27,7 +27,7 @@ last_contact: unknown
 p1: STI-154GP
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -56,6 +56,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ○ DC 集成 25%：Al Rajhi Telecom（利雅得；Al Rajhi Building & Construction 子公司；2013；51–100 ～ 501–1,000 人；弱电 / DC / Cisco Premium；DC Division Manager Inam 真回索样）部分坐实（CR 未取）；具名真回 ✔ 样品意向 ✔ 对位 ✔ 体量 ✔ → P 池候选（次优区） | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Home - — ABOUT US Established in 2014 as a subsidiary of Al Rajhi Building & Construction Al Rajhi Telecom Company is a Saudi-based technology solutions provider serving government, commercial, industrial, and telecommunications sectors. Specializing in ICT infrastructure, MEP systems, ELV solutions | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -112,11 +113,27 @@ updated: 2026-10-29
   > 来源：data/gmail_s/messages/2024/2024-10.jsonl（k 775f9ed585dd20d5）（抓取 2024-10-22）
 - **KP**：Inam Ahmed（Data Center Division Manager）inam@alrajhitel.com +966 50716 2470; +966 11 4221089 Ext 2452〔S 邮箱签名〕
 - **调研后定级**：B（原自动 B）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ DC 集成 25%：Al Rajhi Telecom（利雅得；Al Rajhi Building & Construction 子公司；2013；51–100 ～ 501–1,000 人；弱电 / DC / Cisco Premium；DC Division Manager Inam 真回索样）部分坐实（CR 未取）；具名真回 ✔ 样品意向 ✔ 对位 ✔ 体量 ✔ → P 池候选（次优区）；闸 1：沙特利雅得系统集成 / 数据中心业务 Al Rajhi Telecom：2024-10-22 DC Division Manager 回群发索样 STI-154GP（Simon 答 $36 非免费）→ 具名 KP + 对位 + 样品意向；…
-- 备注：T29-U13 ② F16 补录。中东不在区域重点（US/CA + 欧洲 + 土耳其）→ 不主动跟；留档。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。
+T29-U13 ② F16 补录。中东不在区域重点（US/CA + 欧洲 + 土耳其）→ 不主动跟；留档。
 
-### 加厚挖掘（2026-10-29 · 邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 - **Saga 对位结论**：P1 STI-154GP（25% 档）——集成商 25% 档；其开口问的就是 STI-154GP
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://www.alrajhitel.com/　语言：en-US　站点地图 URL 数：96
+- **标题**：Home -
+- **描述**：ABOUT US Established in 2014 as a subsidiary of Al Rajhi Building & Construction Al Rajhi Telecom Company is a Saudi-based technology solutions provider serving government, commercial, industrial, and telecommunications sectors. Specializing in ICT infrastructure, MEP systems, ELV solutions, softwar
+- **首页栏目**：Our Services / Explore Our Services / Our Projects / TESTIMONIALS / FAQ'S / Frequently Asked Questions / Need any Help!
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：telecom 59、data center 35、industrial 3、access control 1、wholesale 1
+- **站内公开邮箱**：contactus@mobi-egypt.com, info@alrajhitel.com, showroom@alrajhitel.com
+- **站内公开电话**：+20 2 2380 8707, +20 2 2380 9807, +919000112965, +966 13 8309860
+- **社媒**：https://twitter.com/alrajhitel, https://www.facebook.com/alrajhitelecommunication/, https://www.instagram.com/alrajhitel/, https://www.linkedin.com/in/alrajhitel/, https://www.youtube.com/channel/UCopr3wwkxnm7FqO6W0D28jg
+- **产品类页面**：https://www.alrajhitel.com/case_study/industrial-automation/；https://www.alrajhitel.com/al-rajhi-e-commerce-for-ict-products-services/；https://www.alrajhitel.com/shop/
+- **已抓子页**：[About Us - Al Rajhi Telecom](https://www.alrajhitel.com/about-us/)；[Contact Us](https://www.alrajhitel.com/contact/)；[About Us - Al Rajhi Telecom](https://www.alrajhitel.com/about-us/)；[Our Partners & Customers -](https://www.alrajhitel.com/our-partners-customers/)；[Software & Cybersecurity -](https://www.alrajhitel.com/software-solutions/)；[Data Center & Power Solutions -](https://www.alrajhitel.com/data-center-power-solutions/)
+- 首页正文摘录：Skip to content Home About Us About Us Our Team Legal Documents Our Partners & Customers Services MEP (Mechanical, Electrical & Plumbing) ELV (Extra Low Voltage) Software & Cybersecurity Trading & E-commerce Telecommunication Data Center & Power Solutions Vendor Registration Blog Contact Us Engineering Tomorrow's Success, Today >>>> Al Rajhi Telecom Company We deliver top-notch service and support, with a certified t
+- 数据文件：`data/saga_clients/site_snapshots/SC-257.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -128,12 +145,14 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-257/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://alrajhitel.com/) | html | 待首轮 | — | 官网首页 |
+| [home](https://alrajhitel.com/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 5591 字符；首行：Home - |
+| [feed_auto](https://www.alrajhitel.com/feed/) | rss | HTTP 200 | 2026-10-29T15:11:51Z | 10 条；最新：Mon, 06 Apr 2026 12:24:08 Driving Digital Transformation in Saudi Arabia with Inte |
 
 ## 联系方式（已有 · 原值照录）
 

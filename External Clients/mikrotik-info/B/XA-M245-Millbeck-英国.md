@@ -1,6 +1,6 @@
 # XA-M245 · Millbeck · 英国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 mikrotik-info `B-533`（原评级 B，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R02 2026-10-27）→ 下一动作 第二封
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 mikrotik-info `B-533`（原评级 B，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 第二封
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱（含实名 KP）
@@ -78,13 +78,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W1-R02，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XA** — GB 主攻区 IoT 分销 → 维持 A
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：在线（millbeck.co.uk，快照 2026-10-29）：Industrial IoT Connectivity | SIMs, Routers & Hardware | Millbeck
 - 一句话：IoT/物联网分销（Teltonika Diamond 级）；他们只有8口→补16/24口与10G
 - 是什么人：IoT/物联网分销（Teltonika Diamond 级）；规模：未量化
-- 在卖/在用：Teltonika（Diamond 最高级）
+- 在卖/在用：Teltonika（Diamond 最高级）、Teltonika、Milesight、Ubiquiti
 - 对口哪条线：SmartByte 商用 L2+（已发/首触）+ Saga STI 工业 L2+ PoE 补位 — 工业路由分销，工业 PoE 配套
 - 找得到人吗：hello@millbeck.co（来源库公开邮箱）；KP：无具名
 - 已触达：S 箱 2026-10-10 群发「24 Port PoE Managed Switch」→ 已发未回
@@ -96,6 +96,7 @@
 |---|---|---|---|---|
 | 来源库官网/名录核对 | 本行由分销商名录批量导入，三星依据仅为渠道等级（分销）与「Teltonika（Diamond 最高级）」，尚无人工核实。建议先查证其是否已有工业交换机 / PoE++ 产品线，再定切入型号 【2026-09-28 R49 邮箱补录】来源等级：official-company。官网联系页正文可见：hello@millbeck.co.uk。待补标记解除；C→B 回升（原下放原因=无邮箱）。 证据：[1](https://www.millbe |  | https://millbeck.co.uk/ | 2026-09-28 |
 | S 箱群发记录 | S 箱 2026-10-10 发 hello@millbeck.co.uk「24 Port PoE Managed Switch」，去 1 来 0 |  | data/gmail_s/2026-09_10群发名单_未入库.csv | 2026-10-10 |
+| 官网快照 | 官网在线；Industrial IoT Connectivity ｜ SIMs, Routers & Hardware ｜ Millbeck | UK supplier of industrial IoT SIMs, routers, gateways, and antennas. Multi-network SIMs, private APN, and 4G/5G connected hardware from leading brands, including Teltonika and Proroute. | https://millbeck.co.uk/ | 2026-10-29 |
 
 草稿（英文，第二封；Simon 发，Agent 不发）：
 
@@ -114,4 +115,5 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+轻卡：本轮未外查，沿用来源库官网/名录核对。

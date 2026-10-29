@@ -26,7 +26,7 @@ s_mail: 19 msgs (out 18 / in 1), 2023-11-27 -> 2026-09-07
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-02-28 | out | Elsa → info@globall.ca, sales@globall.ca | Mini Industrial PoE Switch：MINI Din unmanaged … 100/1000M SFP … DIP … PoE optional, support OEM | Elsa 2025-02 对加拿大做过一轮 1:1（infralinknetworks / globall / communitech 同日），本户 0 回；之后未进任何 BCC 批次 | `elsa_1to1` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Home — Globall Distribution imports and supplies data and network products, monitoring and telephony. Complete solutions are offered to IT resellers, integrators and stores. We offer the best branded equipment. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -118,7 +119,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（globall.ca；并档 Planet 渠道档案 PB-036）
 - **是谁**：蒙特利尔北郊的小型进口分销商，自称 PLANET 全线加拿大分销，给经销商/集成商供网络、监控与电话产品。类型：分销商/进口商（2011 年起；数据网络、监控、光纤与电话产品进口分销，面向 B2B IT 经销商、集成商与零售；2–10 人；Yeastar/Milesight/Planet/EnGenius 等）。信号：官网 PLANET 专区自述「Canadian Distributor of Planet Networking & Communication products … distributor of the entire product portfolio from Planet Technology」；Mikrotik 仓库 C-015 标「分销（PLANET 授权）」。Planet 渠道档案 PB-036 评级 B（需求：PLANET 全线分销自述 + 进口商 + 经销商渠道；触达：info@globall.ca 官网公开；Corinne Defay（Marketing Manager，Yeastar 新闻稿具名，用 Info@）；体量 2–10 人可赢；区域加拿大（一线）；B）。并档说明：Saga 表内本条 SB-1125（加拿大）自动评 C（原因：；Saga 群发已推送 8 次无回复）。
-- **在卖/在用品牌**：PLANET, MikroTik
+- **在卖/在用品牌**：PLANET, MikroTik, Teltonika
 - **【卖方目录】PLANET 加拿大分销自述**
   > Welcome to Globall Distribution, Canadian Distributor of Planet Networking & Communication products. We are proud to be distributor of the entire product portfolio from Planet Technology. 1-514-374-7117 info@globall.ca … Warehouse 4185 rue Marcel Lacasse, Boisbriand, Qc J7H 1N4
   > 来源：https://www.globall.ca/collections/planet-technology（抓取 2026-10-19）
@@ -136,9 +137,10 @@ updated: 2026-10-29
   > 来源：https://github.com/SimonSaga-202306/mikrotik-info/blob/arena/01a0c3ef-mikrotik-info/客户名单_反向信号_2026-09.csv（抓取 2026-10-19）
 - **KP**：Corinne Defay（Marketing Manager（研究档 KP，无邮箱）；收件 info@globall.ca 一问业主（第 112 批 官方登记核实 2026-10-28）） +1 514-374-7117〔https://www.yeastar.com/news/globall-distribution-partnership/〕
 - **调研后定级**：B（原自动 C）——Planet 渠道档案 PB-036 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-036，W 批次调研 2026-10-19/20））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-036，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -161,6 +163,23 @@ updated: 2026-10-29
 - **风险/边界**：PLANET 占比（专区显示依赖度高）；CSA/cUL 要求；年台数；Saga 群发已推送 8 次无回复 → 改用具名收件人与新钩子
 - **Saga 对位结论**：P1 STC-424DGGPM-280W（20% 档）——经销商渠道走量 24 口 PoE；在售 IGS-504HPT/GSD-1008HP 为小型档；分销走量 → 20%（沿用 Planet 档案 PB-036）；需求：
 - **邮件切入句（英文）**：You already import and stock the full PLANET range for Canadian resellers; a direct PoE+ second source gives you a lower-cost tier on the switches that move most. Which PLANET PoE switch size do your Quebec resellers reorder most: the 8-port desktop units or 24-port rack units?
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://www.globall.ca/　语言：en　站点地图 URL 数：13
+- **标题**：Home
+- **描述**：Globall Distribution imports and supplies data and network products, monitoring and telephony. Complete solutions are offered to IT resellers, integrators and stores. We offer the best branded equipment.
+- **首页栏目**：GLOBALL.CA / Newsletter / Net working / Telecommunication / Video conference / Support for our manufacturing partners / Become a reseller / Offers of the week
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 32、camera 30、switch 20、poe 17、fiber 16、wireless 16、telecom 16、cable 9、ethernet 7、planet 4、gigabit 3、wifi 2
+- **站内出现的品牌**：Teltonika　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：TSW100000010, TSW100, UHV-20X-IPS-NDI-OPEN, IEEE802, UHV-20X-IPS-NDI, UHV-20X-IP-S, GDWBCA17, IPX-2200, PSI-6ODB-SH, GDWB66093NB, PSI-6CMP-WH-1, PSI-6CMR-WH
+- **站内公开邮箱**：info@globall.ca
+- **社媒**：https://www.facebook.com/globalldistribution, https://www.linkedin.com/company/2441118/admin/?feedType=following, https://www.youtube.com/channel/UCWYT9ajkP-f4GEW5v1rtSuw
+- **产品类页面**：https://www.globall.ca/sitemap_products_1.xml?from=8376244699435&amp;to=8746945970475；https://www.globall.ca/sitemap_products_2.xml?from=8746957275435&amp;to=10146993176875；https://www.globall.ca/fr/sitemap_products_1.xml?from=8376244699435&amp;to=8746945970475；https://www.globall.ca/fr/sitemap_products_2.xml?from=8746957275435&amp;to=10146993176875
+- **已抓子页**：[TSW100000010 L2 unmanaged switch TSW100 Teltonika - GLOBALL.](https://www.globall.ca/products/in-stock-liquidation-l2-unmanaged-switch-tsw100-teltonika)；[-OPEN (Open Box) IP NDI 20X Optical Zoom](https://www.globall.ca/products/copy-of-uhv-20x-ips-winsafe-uhv-ip-usb-3-0-20x-hdmi-ptz-video-conference-camera)；[Collections](https://www.globall.ca/collections)；[Installation - matériel Get it now - GLOBALL.CA](https://www.globall.ca/collections/installation-hardware-1)；[X4U Enterprise IP Phone Fanvil - GLOBALL.CA](https://www.globall.ca/products/x4u-enterprise-ip-phone-fanvil)；[E-metrotel SIP PBX 32 postes de base à 96 postes, 8 postes a](https://www.globall.ca/products/e-metrotel-sip-pbx-galaxy-mini)
+- 首页正文摘录：Skip to content Home page Products Shop Become a reseller Contact us Need help? 1-514-374-7117 info@globall.ca Follow Us Facebook YouTube LinkedIn Back Products Networking Telecommunication Video conference Camera monitoring Installation materials Back Shop Brands Wireless POE Industrial switch Industrial phone Hotel phone Commercial telephony Optical fiber Camera monitoring Headphones GLOBALL.CA Clear Close Language
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 32、PoE 17 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1125.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -207,7 +226,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1125/`；本节随档案重渲染刷新，实时看日志。
 

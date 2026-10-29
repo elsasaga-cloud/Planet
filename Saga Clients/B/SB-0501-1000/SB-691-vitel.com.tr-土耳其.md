@@ -23,7 +23,7 @@ s_mail: 5 msgs (out 5 / in 0), 2025-10-29 -> 2026-03-05
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2025-10-29 | 去 | A 箱（Alan） | 10G Enterprise SFP Switch | 首封去信（邮箱索引；去信共 5 封） | `1daad2b8424cb576` |
 | 2026-03-05 | 去 | A 群发 | 10G Enterprise SFP Switch、Booster PoE Switch | 5 封 / 0 次打开 / 0 回｜首封 2025-10-29 → 末封 2026-03-05（5 去 / 0 来） | `gmail_digest` |
 | 2026-03-05 | 去 | A 箱（Alan） | Updated Ethernet Switches Links | 最近一封去信（邮箱索引；去信共 5 封） | `0652ce42a540bde0` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：vitel.com.tr MX vitel-com-tr.mail.protection.outlook.com.；A 172.67.160.116 / 104.21.42.90；NS leonidas.ns.cloudflare.com. / nicole.ns.cloudflare.com. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -111,11 +112,12 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（vitel.com.tr：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（vitel.com.tr：HTTP 错误，2026-10-29，第 2 次）
 - **是谁**：土耳其 Vitel（vitel.com.tr，IT/通信增值分销商（待核）；KP Gökhan Kanat；官网 http_error）；表内 1 次跟进无回复。
 - **类型**：IT/通信分销商（土耳其，待核）
 - **KP**：Gökhan Kanat（研究档 KP（职务未核；Vitel A.Ş.）= 收件人（第 103 批 官方登记核实 2026-10-28））gokhan.kanat@vitel.com.tr 〔用户表〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -136,7 +138,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——分销位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）
 - **邮件切入句（英文）**：Gökhan, for the access-switch positions in your distribution portfolio, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G models from small lots, CE/RoHS, EXW USD — is there an entry-level managed position your resellers ask for?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：vitel.com.tr
   > https://vitel.com.tr/ http 403 ct=text/html; charset=utf-8
@@ -173,7 +175,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-691/`；本节随档案重渲染刷新，实时看日志。
 

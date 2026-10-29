@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-110GE
 price_tier: 20%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -53,6 +53,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2025-02-16 | 去 | Elsa 群发（BCC；To info@alphatelecom.cc，北欧/中东欧 批次） | Industrial PoE Switch — This is a Marvell based industrial PoE switch for you. Port: 2*Gigabit SFP+4*Gigabit PoE Feature: 120W budget, PoE watchdog, 250-meter poe distance, s | Elsa 箱群发 BCC 触达证据（命中地址 abigo4u.com, info@abigo4u.com, sales@abigo4u.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | MC 工业MC 很多牌子的 | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：abigo4u.com MX NoAnswer；A 136.144.212.108；NS ns2.dn-s.nl. / ns3.dn-s.nl. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -106,7 +107,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（abigo4u.com：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（abigo4u.com：HTTP 错误，2026-10-29，第 2 次）
 - **是谁**：荷兰 Abigo4u（abigo4u.com：MC 与工业 MC，「很多牌子的」多品牌经销；官网 http_error）；表内未跟进。
 - **类型**：MC 多品牌经销商（荷兰）
 - **【用户表】表内兴趣/备注**
@@ -115,7 +116,8 @@ updated: 2026-10-29
 - **【用户表】MC 工业 MC 很多牌子**
   > MC 工业MC 很多牌子的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -136,7 +138,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-110GE（20% 档）——MC/工业 MC 多品牌 → 工业千兆 MC STI-110GE（$22.4 @20%）、工业 PoE MC STI-111GP（$27.8）、工业百兆 MC STI-110FE（$19.7）作白牌预算位
 - **邮件切入句（英文）**：Alongside the media-converter brands you carry, we supply neutral-brand industrial gigabit, Fast Ethernet and PoE MCs (−40~75 °C, CE/RoHS) from single units, EXW USD — is there a budget MC position your customers ask for below the branded lines?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：abigo4u.com
   > https://abigo4u.com/ http 403 ct=text/html; charset=utf-8
@@ -155,7 +157,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-27T08:02:45Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-27T08:02:45Z
 - **最近变化摘要**：2026-10-27 home：内容变化：+12 −12 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-993/`；本节随档案重渲染刷新，实时看日志。
 

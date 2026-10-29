@@ -29,7 +29,7 @@ s_mail: 7 msgs (out 6 / in 1), 2024-06-20 -> 2025-01-01
 p1: STC-424XGGPM-280W
 price_tier: 30%
 research: done
-site_snapshot: none
+site_snapshot: http_error  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -41,7 +41,7 @@ updated: 2026-10-29
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-424XGGPM-280W — 默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）；
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：年走量与现供应商
+- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：不动：LT-01 复核（待过）后再定 — 长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-29）
@@ -118,7 +118,8 @@ updated: 2026-10-29
 - **KP**：—（表内邮箱（公开 / 总机））sales@masibus.com 〔〕
 - **KP**：—（表内邮箱（公开 / 总机））sharjah@masibus.com 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 制造商 · OEM 30%：Masibus Automation And Instrumentation Pvt Ltd（Gandhinagar；CIN U32201GJ1987PTC009994；1987；135 人；FY25 ₹100–500 Cr；Associate Director Sales D Kachhiya）坐实；已进口中国工业交换机 ✔ 对位 ✔ 坐实 ✔ 具名销售负责人 …；闸 1：印度 Masibus（masibus.com；工业仪表 / 控制自有品牌，三旺 + IO「比较专业」；邮件中有详细联系信息）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔；未触达 → 闸 2 查底数（zaubacorp）；低…
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#1。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
 ### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
@@ -134,6 +135,15 @@ updated: 2026-10-29
   - 表内兴趣：三旺 比较专业 工业控制 IO
 - **风险/边界**：**工业仪表商配套工业交换机 → OEM 30%：点名 D Kachhiya 一页纸一次（STI-280GE $46.6 / STI-288GPM $78.9 / STI-244DGGPM 贴牌 Masibus + 中性包装；三旺不点名）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买
 - **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
+
+- 尝试域名：masibus.com
+  > https://masibus.com/ http 403 ct=text/html; charset=utf-8
+  > https://www.masibus.com/ http 403 ct=text/html; charset=utf-8
+  > http://masibus.com/ http 403 ct=text/html; charset=utf-8
+- **提示**：抓取失败不代表公司不在；人工打开一次即可。
+- 数据文件：`data/saga_clients/site_snapshots/SC-1365.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -161,12 +171,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-1365/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://masibus.com/) | html | 待首轮 | — | 官网首页 |
+| [home](https://masibus.com/) | html | HTTP 403 | 2026-10-29T15:11:51Z | 官网首页 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -242,6 +253,7 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
+- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

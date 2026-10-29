@@ -28,7 +28,7 @@ last_contact: unknown
 p1: STC-2216GP
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -58,6 +58,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | △ 葡萄牙（欧洲）· 微型 IT 服务商 25% 预付 100%：Metrikingdom Unipessoal Lda（Lisboa；NIF 515518425；2019-06-04；资本 € 6k；CAE 62100 编程）坐实；具体需求 2 SFP + 2 RJ45 ✔ 电话 ✔ 欧洲 ✔ 但微型 + 非设备商 → P 池候选 △（复购存疑，先样机） | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 登记底数（registry） | PT · 1 次检索：racius（NIF / 地址 / 成立日 / 资本）+ iberinform（CAE 62100 / 形式）；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | InterServer - Affordable Unlimited Web Hosting, Cloud VPS and Dedicated Servers | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -113,10 +114,11 @@ updated: 2026-10-29
 - **【长期群复核 LT-R01】Metrikingdom Unipessoal Lda（Lisboa；NIF 515518425；微型 IT 服务商）：有具体规格需求（2 SFP + 2 RJ45）+ 电话可达 → 有成单可能（小单）→ 留 B，预付 100%**
   > 来源：（抓取 2026-10-29）
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 葡萄牙（欧洲）· 微型 IT 服务商 25% 预付 100%：Metrikingdom Unipessoal Lda（Lisboa；NIF 515518425；2019-06-04；资本 € 6k；CAE 62100 编程）坐实；具体需求 2 SFP + 2 RJ45 ✔ 电话 ✔ 欧洲 ✔ 但微型 + 非设备商 → P 池候选 △（复购存疑，先样机）；闸 1：葡萄牙 Metri Kingdom（metrikingdom.com 正常；Saleha Kanwal；+351 920 236 978；问「2 SFP + 2 RJ45 交换机」✔；无邮箱）：欧洲 ✔ 对位产品问 ✔ 电话 / WA 可…
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：saga_fit.basis/deep/facts。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -129,6 +131,12 @@ updated: 2026-10-29
   - 表内兴趣：2SFP+2RJ45交换机
 - **Saga 对位结论**：P1 STC-2216GP（25% 档）——默认对位（微型 IT 服务商 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）
 
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://metrikingdom.com/login_up.php　语言：en　站点地图 URL 数：0
+- **标题**：InterServer - Affordable Unlimited Web Hosting, Cloud VPS and Dedicated Servers
+- 数据文件：`data/saga_clients/site_snapshots/SC-2969.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
+
 ## 在卖/在用品牌 → Saga 对位
 
 （备注未提及具体品牌）
@@ -139,12 +147,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-2969/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://metrikingdom.com/) | html | 待首轮 | — | 官网首页 |
+| [home](https://metrikingdom.com/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 1053 字符；首行：Domain Default page |
 
 ## 联系方式（已有 · 原值照录）
 

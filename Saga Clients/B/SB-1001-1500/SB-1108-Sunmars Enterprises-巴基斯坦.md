@@ -28,7 +28,7 @@ last_contact: 2024-10-21
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -126,7 +126,8 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Asma (Aasma) Nasir（Marketing（研究档；2010 至今）— 不动（第 118 批 官方登记核实 2026-10-28）） +92 305 222 1659〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Ghulam Mohuied Din（CEO（lookup.pk「Managed By Mr. Ghulam Mohiuddin - CEO」吻合；WA +92 321 275 5707）— 不动，不发（WA 来询按集成商 25% 报摄像机 PoE，预付 100%）（第 118 批 官方登记核实 2026-10-28）） +92 321 275 5707〔https://www.businessbook.pk/detail/sunmars-enterprises-karachi-122447〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 （无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对；国家更正））
@@ -146,7 +147,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——CCTV/IP 监控集成侧 8 口 PoE 管理型；消防系统不涉及。
 - **邮件切入句（英文）**：（无邮箱；WhatsApp：For the CCTV side of your fire & security projects — 8-port PoE with 2 SFP uplinks, 1-pc sample, neutral packing; want the sheet?）
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：sunmarsent.com
   > https://sunmarsent.com/ http 403 ct=text/html
@@ -183,7 +184,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1108/`；本节随档案重渲染刷新，实时看日志。
 

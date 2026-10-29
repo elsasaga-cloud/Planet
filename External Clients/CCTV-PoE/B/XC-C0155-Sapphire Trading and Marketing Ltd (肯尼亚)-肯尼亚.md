@@ -1,12 +1,12 @@
 # XC-C0155 · Sapphire Trading and Marketing Ltd (肯尼亚) · 肯尼亚
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 安防分销 20%：Sapphire Trading & Marketing Ltd（Nairobi 17 Kijabe Street；官网联系页 Info@sapphire.co.ke / +254 795 705 335；ZoomInfo 11–50 人，设 Hikvision 销售经理岗；目录页另载 nishit@sapphire.co.ke）部分坐实（肯尼亚公司注册号未查到 → 补证）；） ｜ 来源 CCTV-PoE `profile/new-customers-batch-2.md`:28（其分级 A类） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T01 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 安防分销 20%：Sapphire Trading & Marketing Ltd（Nairobi 17 Kijabe Street；官网联系页 Info@sapphire.co.ke / +254 795 705 335；ZoomInfo 11–50 人，设 Hikvision 销售经理岗；目录页另载 nishit@sapphire.co.ke）部分坐实（肯尼亚公司注册号未查到 → 补证）；） ｜ 来源 CCTV-PoE `profile/new-customers-batch-2.md`:28（其分级 A类） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 >
 > **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：○ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 安防分销 20%：Sapphire Trading & Marketing Ltd（Nairobi 17 Kijabe Street；官网联系页 Info@sapphire.co.ke / +254 795 705 335；ZoomInfo 11–50 人，设 Hikvision 销售经理岗；目录页另载 nishit@sapphire.co.ke）部分坐实（肯尼亚公司注册号未查到 → 补证）；Hikvision 国家分销（来源库称 1996 年起）→ PoE 对位；非主区 → 预付 100% 起步｜补证 P2-02（2026-10-29）：TradeAtlas 贸易数据登记名「SAPPHIRE TRADING & MARKETING LTD.」P.O. Box 31177-00100 Nairobi；businesslist.co.ke 2011 起在册（Opp Text Book Centre Kijabe St，+254-20-2224566）→ 法人名坐实、肯尼亚登记号仍无 → prepay 保留
 
 ## 1. 初判与理由
 - 初判：**XC** — 终端用户 / 渠道触点（机场、大学、超市、政府、军队…走集成商与框架采购，不是 Saga 的直接买家）
-- 研究后改级：XC → **XB**（LT-T01，桌面复核（渠道名录 + 研究卡）：Hikvision国家分销商、电子产品进口商；在卖工业/商用交换机 = 行业内 ✔ 对位 ✔ 分销进口 ✔ → 留 B）；编号不变
+- 研究后改级：XC → **XB**（LT-T03，桌面复核（渠道名录 + 研究卡）：Hikvision国家分销商、电子产品进口商；在卖工业/商用交换机 = 行业内 ✔ 对位 ✔ 分销进口 ✔ → 留 B）；编号不变
 - 人工改级：XB（2026-10-29，Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 安防分销 20%：Sapphire Trading & Marketing Ltd（Nairobi 17 Kijabe Street；官网联系页 Info@sapphire.co.ke / +254 795 705 335；ZoomInfo 11–50 人，设 Hikvision 销售经理岗；目录页另载 nishit@sapphire.co.ke）部分坐实（肯尼亚公司注册号未查到 → 补证）；）；编号不变
 - 标记：profile批次文件、终端触点
 - 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
@@ -72,10 +72,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，LT-T01，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — 桌面复核（渠道名录 + 研究卡）：Hikvision国家分销商、电子产品进口商；在卖工业/商用交换机 = 行业内 ✔ 对位 ✔ 分销进口 ✔ → 留 B
-- 活着吗：域名 sapphire.co.ke MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓
+- 活着吗：在线（sapphire.co.ke，快照 2026-10-29）：Sapphire
 - 一句话：Sapphire Trading and Marketing Ltd (肯尼亚)（肯尼亚）：Hikvision国家分销商、电子产品进口商
 - 是什么人：Hikvision国家分销商、电子产品进口商
 - 在卖/在用：Hikvision
@@ -90,5 +90,7 @@
 |---|---|---|---|---|
 | 来源库官网/名录核对 | Hikvision国家分销商、电子产品进口商 |  | https://sapphire.co.ke | 2026-09 |
 | 长期群复核 LT-R05 | 桌面复核（渠道名录 + 研究卡）：Hikvision国家分销商、电子产品进口商；在卖工业/商用交换机 = 行业内 ✔ 对位 ✔ 分销进口 ✔ → 留 B |  |  | 2026-10-29 |
+| 官网快照 | 官网在线；Sapphire | Sapphire | https://sapphire.co.ke/ | 2026-10-29 |
 
-- 备注：LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence。
+LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。

@@ -27,7 +27,7 @@ last_contact: 2025-10-06
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
-site_snapshot: unreachable  # 2026-10-21
+site_snapshot: unreachable  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -124,7 +124,8 @@ updated: 2026-10-29
   > 回复：有用 需要和team沟通一下是否拿样
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Mogeni Enock（技术总监（研究档 KP；2024-03 回「有用，需沟通拿样」）= 收件人 — 一页纸一次：集成商 25% B、光纤上行摄像机接入（STI-154GP / STC-228GP $33）付费样机一口价 + 运费 — 肯尼亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 内罗毕、KEBS 不声称（第 121 批 官方登记核实 2026-10-29））mogeni@matrixsystems.co.ke +254 721 779 429〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 （无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 名录核对））
@@ -150,7 +151,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——IP 摄像机走光纤上行：8 口 PoE + 2 SFP 管理型，正对其「ip cameras over fiber」需求；样品从 1 台起。
 - **邮件切入句（英文）**：Mogeni, back in March 2024 you said the 8-PoE + 2-SFP unit was useful and you'd check with the team about a sample — for fibre-uplinked camera sites, is a single sample unit (we ship from 1 pc) the easiest way to restart?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名不可达（DNS/连接失败））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：域名不可达（DNS/连接失败））
 
 - 尝试域名：matrixsystems.co.ke
   > https://matrixsystems.co.ke/ conn: HTTPSConnectionPool(host='www.matrixsystems.co.ke', port=443): Max retries exceeded with url: / (Caused by NameResolutio
@@ -190,7 +191,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-586/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |

@@ -28,7 +28,7 @@ s_mail: 27 msgs (out 27 / in 0), 2024-06-24 -> 2026-09-28
 p1: STI-288DGGPM
 price_tier: 30%
 research: done
-site_snapshot: timeout  # 2026-10-21
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -40,7 +40,7 @@ updated: 2026-10-29
 - **历史互动**：成交/下单过；推送 18 次（2024-04-30 → 2025-10-15）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — MC / 光口交换机贴牌（WIDEN）→ 千兆 SFP 转换器 + 8 PoE DIN 两款 WIDEN 包装；锚价：STI-288GP $60 / STI-110GE $26.5（最近实报）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-17 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-03 $240（24 Port Fiber Switch）、2025-10-15 $280（10G Enterprise SFP Switch）、2026-06-26 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Your WIDEN industrial PoE converters are still 10/100 on the 4- and 8-port versions, so the gigabit 8-port DIN unit with two SFP uplinks in WIDEN packing is the obvious next SKU, and I can quote it together with the gigabit SFP converter you already brand. Shall I quote the gigabit 8-port PoE DIN unit with 2 SFP in WIDEN packing together with the gigabit SFP converter you already brand? Reference: STI-288GP at $60 / STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
-- **最大未知**：官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
+- **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） A 邮箱 → thawat@widen.co.th（具名但 27 封 0 回、0 打开——先核地址是否还活；不活就在 widen.co.th 找第二个人） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径））（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
@@ -63,6 +63,7 @@ updated: 2026-10-29
 | 2025-02-03 | 去 | A 箱（Alan） | 24 Port Fiber Switch｜稿内价 $240 | 去信正文含价（邮箱索引） | `1f829f9328c49ed2` |
 | 2026-09-28 | 去 | Saga（Alan） | 「Managed PoE Switches」——最后一封群发 | thawat@ 是具名地址但两年不回 → 要么地址死了要么人不对；先核再换人 | `f68e0de76ea765a6` |
 | 2026-09-28 | 去 | A 箱（Alan） | Managed PoE Switches | 最近一封去信（邮箱索引；去信共 27 封） | `f68e0de76ea765a6` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | WIDEN Fiber Optic Patch Cord, Adapter, Closure, Media Converter, Video Converter, wall Mount, Rack Mount — บริษัทนำเข้าและจัดจำหน่ายด้าน Fiber Optic และอุปกรณ์ครบวงจร อาทิ เช่น Patch Cord, Adapter, Closure, Media Converter, Video Converter, Wall Mount และ Rack Mount เพื่อตอบโจทย์ความต้องการของลูกค้า | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文
 
@@ -141,10 +142,11 @@ updated: 2026-10-29
   > WIDEN SFP Gigabit Ethernet Media Converter · WIDEN Optic Media Converter with POE · WIDEN Rack mountable Chassis … WIDEN Fiber Optic Industrial WDM Media Converter 10/100 8 Port RJ45 PoE · … 10/100/1000 2 Port RJ45 PoE · WIDEN Fiber Optic PoE Extender W-PoEEx 1,950.00 บาท
   > 来源：https://www.telepart.net/（抓取 2026-10-21）
 - **KP**：Thawat（负责人（官网公开直邮））thawat@widen.co.th +66 81-285-4599 / 02-149-3922〔http://www.widen.co.th/〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 A 确认：自有 logo 的光纤分销商，Saga MC/光纤交换机可直接贴牌；P1 = STI-110GE（MC）或 STC-28DGGPM 光口款，30% 档；泰国区可提 LINE 跟进。
 
-### 加厚挖掘（2026-10-21 · 深挖 v1）
+### 加厚挖掘（2026-10-21 · 深挖 v1 + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -170,14 +172,18 @@ A 确认：自有 logo 的光纤分销商，Saga MC/光纤交换机可直接贴�
 - **Saga 对位结论**：P1 STI-288DGGPM（30% 档）——WIDEN 已卖 4/8 口百兆工业 PoE MC/交换机 → 千兆升级位 STI-288DGGPM（8+2 SFP 管理）与 STI-144GP；千兆 MC 对位 STI-110GE；贴 WIDEN logo
 - **邮件切入句（英文）**：Your WIDEN industrial PoE converters are still 10/100 on the 4- and 8-port versions, so the gigabit 8-port DIN unit with two SFP uplinks in WIDEN packing is the obvious next SKU, and I can quote it together with the gigabit SFP converter you already brand.
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：超时（站慢或封锁））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
 
-- 尝试域名：widen.co.th
-  > https://widen.co.th/ conn: HTTPSConnectionPool(host='widen.co.th', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTP
-  > https://www.widen.co.th/ conn: HTTPSConnectionPool(host='www.widen.co.th', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<
-  > http://widen.co.th/ conn: HTTPConnectionPool(host='widen.co.th', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPCo
-- **提示**：抓取失败不代表公司不在；人工打开一次即可。
-- 数据文件：`data/saga_clients/site_snapshots/SA-012.json`
+- **首页**：http://www.widen.co.th/　语言：en　站点地图 URL 数：0
+- **标题**：WIDEN Fiber Optic Patch Cord, Adapter, Closure, Media Converter, Video Converter, wall Mount, Rack Mount
+- **描述**：บริษัทนำเข้าและจัดจำหน่ายด้าน Fiber Optic และอุปกรณ์ครบวงจร อาทิ เช่น Patch Cord, Adapter, Closure, Media Converter, Video Converter, Wall Mount และ Rack Mount เพื่อตอบโจทย์ความต้องการของลูกค้าด้วยเป้าหมายและอุดมการณ์ ทางบริษัทมีแผนพัฒนาการตลาดอย่างต่อเนื่องเพื่อให้สินค้าและผลิตภัณฑ์เป็นที่รู้จัก
+- **首页栏目**：WIDEN NETWORK SOLUTIONS
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 17、switch 5、poe 2、media converter 2、sfp 1、cable 1
+- **站内公开邮箱**：info@widen.co.th, thawat@widen.co.th
+- **已抓子页**：[WIDEN Fiber Optic Patch Cord, Adapter, Closure, Media Conver](http://www.widen.co.th/index.php?content=product_detail&category=15)
+- 首页正文摘录：Home About Products Download Contact Username : Password : Login ‹ › WIDEN NETWORK SOLUTIONS เราเป็นบริษัทนำเข้าและจัดจำหน่ายด้าน Fiber Optic และอุปกรณ์ครบวงจร อาทิ เช่น Patch Cord, Adapter, Closure, Media Converter, Video Converter, Wall Mount และ Rack Mount เพื่อตอบโจทย์ความต้องการของลูกค้าด้วยเป้าหมายและอุดมการณ์ ทางบริษัทมีแผนพัฒนาการตลาดอย่างต่อเนื่องเพื่อให้สินค้าและผลิตภัณฑ์เป็นที่รู้จักในวงการด้าน Network อย่
+- **自动对位建议**：STC-28DGGPM（官网快照对位：PoE 词频 2 → 8 口 PoE+ 2 SFP L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SA-012.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -236,7 +242,7 @@ A 确认：自有 logo 的光纤分销商，Saga MC/光纤交换机可直接贴�
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-012/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
@@ -318,7 +324,6 @@ A 确认：自有 logo 的光纤分销商，Saga MC/光纤交换机可直接贴�
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -111,6 +111,14 @@
     "quote": "有Utepo的",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 复核 LT-R10",
+    "quote": "DNS 2026-10-29 16:2xZ：morekamer.ru MX mx.yandex.net.；A 141.8.192.192；NS ns3.sprinthost.net. / ns4.sprinthost.net.",
+    "why": "长期客户群复核证据（非邮件事实，不计真回）",
+    "url": ""
    }
   ],
   "proof_gaps": [],
@@ -119,11 +127,11 @@
  },
  "lt_review": {
   "status": "留 B",
-  "batch": "LT-R04",
+  "batch": "LT-R10",
   "prio": 2,
-  "queued": "LT-R04",
+  "queued": "LT-R10",
   "verdict_date": "2026-10-29",
-  "note": "桌面复核（研究档类型 + 对位首推）：安防经销商（俄罗斯，Utepo 在售）；切入：Utepo 位 → 工业 8 PoE + 2 SFP STI-288GP（$57.4 @20%）、室内 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7）；行业内 ✔ 对位 ✔（宽留冷「不对位」系 fit 标志未回填，非真不对位）",
+  "note": "官网快照两次失败（2026-10-21 / 2026-10-29：HTTP 错误（4xx/5xx，多为反爬 / 屏蔽境外抓取）），但 DNS 2026-10-29 16:2xZ 复查 morekamer.ru MX/A/NS 正常 → 非死域、邮箱路径未断 → 留 B 不动；快照失败只记「官网不可抓」，不作打回依据（可逆：两次独立 DNS 死才复核）",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
  "override_history": [],

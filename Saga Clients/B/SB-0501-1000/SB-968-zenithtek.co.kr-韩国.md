@@ -23,7 +23,7 @@ s_mail: 34 msgs (out 34 / in 0), 2024-06-27 -> 2026-09-25
 p1: STI-110GE
 price_tier: 20%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -58,6 +58,7 @@ updated: 2026-10-29
 | 2026-09-25 | 去 | A/S 群发 | Managed Optical Bypass Switch、Industrial PoE Switch | 34 封 / 1 次打开 / 0 回｜首封 2024-06-27 → 末封 2026-09-25（34 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | MC switch等 | 表内备注 | `用户表` |
 | 2026-09-25 | 去 | A 箱（Alan） | Managed PoE Switches | 本日去信真实主题（邮箱索引 78a0fc42cc087210；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封） | `78a0fc42cc087210` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：zenithtek.co.kr MX mailapp.hiworks.co.kr.；A 104.21.7.156 / 172.67.130.85；NS miles.ns.cloudflare.com. / jasmine.ns.cloudflare.com. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -131,7 +132,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（zenithtek.co.kr：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（zenithtek.co.kr：HTTP 错误，2026-10-29，第 2 次）
 - **是谁**：韩国 Zenithtek（zenithtek.co.kr；表内「MC switch 等」「可以尝试多跟进一下」；官网 http_error）；群发 23 次无回复。
 - **类型**：网络产品公司（韩国，待核）
 - **【用户表】表内兴趣/备注**
@@ -141,7 +142,8 @@ updated: 2026-10-29
   > MC switch等；可以尝试多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：윤석열 Yoon Seok-yeol（CEO (주)제니스텍 ZENITHTEK Co., Ltd.（zenithtek.co.kr）= 拍板人（研究档无具名 KP → 收件 zenithtek@ 称 Mr. Yoon）（第 115 批 官方登记核实 2026-10-28）） 〔http://www.zenithtek.co.kr/kr/company/intro.php〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -162,7 +164,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-110GE（20% 档）——MC/switch → 工业千兆 MC STI-110GE（$22.4 @20%）、8 口 PoE+ 2 SFP STC-28DGGPM（$80.7）
 - **邮件切入句（英文）**：For the media converters and switches you supply, we offer neutral-brand gigabit MCs and Marvell-based 8-PoE + 2 SFP L2+ switches from small lots, CE/RoHS; KC by your side — which product do your customers order most?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：zenithtek.co.kr
   > https://zenithtek.co.kr/ conn: HTTPSConnectionPool(host='zenithtek.co.kr', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, 
@@ -230,7 +232,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-24T04:35:40Z
 - **最近变化摘要**：2026-10-24 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-968/`；本节随档案重渲染刷新，实时看日志。
 

@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STI-280GE
 price_tier: 20%
 research: done
-site_snapshot: unreachable  # 2026-10-21
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -34,7 +34,7 @@ updated: 2026-10-29
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-280GE — Digitus 工业 FS 位（价格高）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）、8 口 PoE+ 2 SFP STC-28DGGPM（$80.7）作预算位；SFP Saga 不供；首触锚价 STI-280GE $46 EXW（Saga 2025 Realtek 工业线对外价 $46（非管理工业线不用档位价 ㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-31；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Sonja, alongside the Digitus industrial switches and MCs you carry, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit MCs from single units, CE/RoHS, EXW USD — is there a lower-priced industrial position your customers ask for? Reference: STI-280GE at $46 USD EXW (MOQ 1, 15-day validity).
-- **最大未知**：官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
+- **最大未知**：年走量与现供应商
 - **下一步**：待 Simon 排期（首封） A 邮箱 → sonja.geserick@aplusnet.de（Sonja Geserick） 首封前知悉：Elsa 已 BCC 群发触达（最近 2026-08-31「24 Port PoE Managed Switch」，$170），开头按 ㉝ 写「我们发过几封 X 主题的信、你没有理由回」，别当完全陌生；同款 24-PoE 要报 $180 就先说 8–9 月那封是 $170、汇率 7.2→6.7。 首封：按 email_hook 一问（第 75 批(e) 2026-10-25：英文信稿已写 `draft_en`；STI-280GE 是非管理型（研究档 need 写「管理」有误，信稿按非管理 + 管理型 STI-280GM 分开写））（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
@@ -54,6 +54,7 @@ updated: 2026-10-29
 | 2025-03-28 | 去 | Elsa 群发（BCC；To office@all4fiber.com，DE 批次） | 16 Port Ethernet Switch — There is a 16-port Din Gigabit Ethernet switch for you. It is good for vehicle network and industrial automation. Model choice 1. 5 Port/8 Port/24 Por | Elsa 箱群发 BCC 触达证据（命中地址 aplusnet.de, info@aplusnet.de, sonja.geserick@aplusnet.de）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-08-31 | 去 | Elsa 群发（BCC；To office@all4fiber.com，DE 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 aplusnet.de, info@aplusnet.de, sonja.geserick@aplusnet.de）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | SFP 工业FS MC POE Digitus的产品很多 价格很高 | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Online Casinos mit schneller Auszahlung: Im Test 2026 — Online Casinos mit Fokus auf schnelle Auszahlung: zehn Anbieter, Bonusbedingungen, Zahlungswege, KYC und Lizenzlage in Deutschland verständlich erklärt. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -113,7 +114,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（aplusnet.de：域名不可达（DNS/连接失败），2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：在线（aplusnet.de，快照 2026-10-29）：Online Casinos mit schneller Auszahlung: Im Test 2026
 - **是谁**：德国 A+ Net（aplusnet.de：SFP、工业 FS、MC、PoE；「Digitus 的产品很多，价格很高」；KP Sonja Geserick；表内「质量一般」；官网 unreachable）；表内未跟进。
 - **类型**：网络产品经销商（德国，Digitus 为主）
 - **在卖/在用品牌**：Digitus
@@ -124,10 +125,11 @@ updated: 2026-10-29
   > SFP 工业FS MC POE Digitus的产品很多 价格很高
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Sonja Geserick（Geschäftsführerin（Komplementär-GmbH aplusNET Beteiligungs-GmbH HRB 5681）+ Gesellschafterin；二代（2005 接班）= **老板本人 = 收件人**（第 98 批 官方登记核实 2026-10-28））sonja.geserick@aplusnet.de 〔用户表〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/deep/facts。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -146,14 +148,16 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-280GE（20% 档）——Digitus 工业 FS 位（价格高）→ 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、工业千兆 MC STI-110GE（$22.4）、8 口 PoE+ 2 SFP STC-28DGGPM（$80.7）作预算位；SFP Saga 不供
 - **邮件切入句（英文）**：Sonja, alongside the Digitus industrial switches and MCs you carry, we supply neutral-brand Marvell-based DIN-rail 8-GE + 2 SFP managed switches and gigabit MCs from single units, CE/RoHS, EXW USD — is there a lower-priced industrial position your customers ask for?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名不可达（DNS/连接失败））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
 
-- 尝试域名：aplusnet.de
-  > https://aplusnet.de/ conn: HTTPSConnectionPool(host='aplusnet.de', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTP
-  > https://www.aplusnet.de/ conn: HTTPSConnectionPool(host='www.aplusnet.de', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("
-  > http://aplusnet.de/ conn: HTTPConnectionPool(host='aplusnet.de', port=80): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPCo
-- **提示**：域名不可达 → 表内域名可能拼错/过期；跟进前核对邮箱域名。
-- 数据文件：`data/saga_clients/site_snapshots/SB-1003.json`
+- **首页**：https://aplusnet.de/　语言：de　站点地图 URL 数：0
+- **标题**：Online Casinos mit schneller Auszahlung: Im Test 2026
+- **描述**：Online Casinos mit Fokus auf schnelle Auszahlung: zehn Anbieter, Bonusbedingungen, Zahlungswege, KYC und Lizenzlage in Deutschland verständlich erklärt.
+- **首页栏目**：Online Casinos mit schneller Auszahlung - im Test für deutsche Spieler 2026 / Online Casinos mit Fokus auf schnelle Auszahlung: die Auswahl / Online Casinos mit schneller Auszahlung: zehn Anbieter im Einzelcheck / 1. Tower Casino: der klassische 100-%-Bonus / 2. Godz: hohe Bonusquote mit niedriger Schwelle für den Maximalbetrag / 3. Trixino: Rekordquote plus Cashback / 4. Jokery: hoher Höchstbetrag, hoher Umsatz / 5. Betninja: fester Bonusbetrag ohne Prozentangabe
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：axis 2
+- **已抓子页**：[Kontakt zu Casino ohne OASIS: Fragen, Korrekturen, Hinweise](https://aplusnet.de/contact/)
+- 首页正文摘录：Casino ohne OASIS Casino ohne OASIS Nehmen Sie Kontakt mit uns auf Casino ohne OASIS Nehmen Sie Kontakt mit uns auf Online Casinos mit schneller Auszahlung - im Test für deutsche Spieler 2026 Aktualisiert: 29. Oktober 2026 Welche Online Casinos zahlen zügig aus, und was bremst eine Auszahlung? Wir stellen zehn Anbieter aus der Auswahl des Herausgebers vor und ordnen Bonusbedingungen, Zahlungswege und Verifizierung ei
+- 数据文件：`data/saga_clients/site_snapshots/SB-1003.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -167,13 +171,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T08:41:09Z
 - **最近变化摘要**：2026-10-29 home：内容变化：+459 −2 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1003/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://aplusnet.de/) | html | HTTP 200 | 2026-10-29T08:41:09Z | 59614 字符；首行：Online Casinos mit schneller Auszahlung: Im Test 2026 |
+| [home](https://aplusnet.de/) | html | ReadTimeout: HTTPSConnectionPool(host='aplusnet.de', port=44 | 2026-10-29T08:41:09Z | 官网首页（T27 快照状态 unreachable） |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -248,7 +252,6 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

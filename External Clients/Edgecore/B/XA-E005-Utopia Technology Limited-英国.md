@@ -1,6 +1,6 @@
 # XA-E005 · Utopia Technology Limited · 英国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 Edgecore `A-018`（原评级 A，阶段 01-delivery-failed） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R01 2026-10-27）→ 下一动作 首触
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 Edgecore `A-018`（原评级 A，阶段 01-delivery-failed） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 首触
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱
@@ -103,10 +103,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W1-R01，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XA** — 英国主攻区 + 面向 ISP/MSP 的增值分销商 + 接受白牌（Edgecore 在列）；首封根本没到，重发即首触
-- 活着吗：官网活、LinkedIn 283 粉、Kemp 伙伴页在列（2026-10-27）
+- 活着吗：快照失败（utopiatechnology.co.uk：HTTP 错误，2026-10-29，第 1 次）
 - 一句话：曼彻斯特增值分销/方案商（2009/2010 起，11–50 人，自报营收 $13.4M），客户是 ISP/MSP 与公共部门，主推 Huawei/Aurora/Kemp 等；X 自述「value-added technology distributor」。10-19 首封因 Gmail 临时故障最终未送达，等于没碰过。
 - 是什么人：增值分销商（面向 ISP/MSP/Reseller）；规模：11–50 人；$13.4M（RocketReach/ZoomInfo 估）
 - 在卖/在用：Huawei、Aurora Multimedia、Kemp LoadMaster、Invisible Systems、Renjo、Edgecore（官方 SI 名录）
@@ -142,4 +142,5 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：KP 直达邮箱未公开，稿写给 Levi 但发 salessupport@ 亦可；若再退信改 LinkedIn。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/fail#1。
+KP 直达邮箱未公开，稿写给 Levi 但发 salessupport@ 亦可；若再退信改 LinkedIn。

@@ -23,7 +23,7 @@ s_mail: 18 msgs (out 18 / in 0), 2025-02-11 -> 2026-09-22
 p1: STI-280GE
 price_tier: 20%
 research: done
-site_snapshot: timeout  # 2026-10-21
+site_snapshot: timeout  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -54,6 +54,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-22 | 去 | A/S 群发 | 10G Enterprise SFP Switch、90W PoE Managed Switch | 18 封 / 0 次打开 / 0 回｜首封 2025-02-11 → 末封 2026-09-22（18 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 3旺 moxa等比较有名的牌子 | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：gmidatabox.fr MX mx1.mail.ovh.net.；A 51.210.178.3；NS dns12.ovh.net. / ns12.ovh.net. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -122,7 +123,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（gmidatabox.fr：超时（站慢或封锁），2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（gmidatabox.fr：超时（站慢或封锁），2026-10-29，第 2 次）
 - **是谁**：法国 GMI Databox（工业网络分销商：三旺、Moxa 等知名品牌；官网 timeout）；群发 8 次无回复。
 - **类型**：工业网络分销商（法国，3onedata/Moxa）
 - **在卖/在用品牌**：3onedata, Moxa
@@ -133,7 +134,8 @@ updated: 2026-10-29
   > 3旺 moxa等比较有名的牌子
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Robert Bugnet（Président（pappers / verif；全名 Robert Gérard José Bugnet）= 拍板人 / 收件人（ventes@ 点名）（第 111 批 官方登记核实 2026-10-28）） 〔https://www.pappers.fr/entreprise/gmi-databox-320290190〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -154,7 +156,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-280GE（20% 档）——三旺/Moxa 位预算替代 → 工业 8 GE + 2 SFP 管理 STI-280GE（$46.6 @20%）、5 GE STI-050GE（$17.0）、8 PoE + 2 SFP STI-288GPM（$78.9）
 - **邮件切入句（英文）**：Alongside the Moxa and 3onedata ranges you distribute, we supply neutral-brand DIN-rail 5-GE, 8-GE + 2 SFP and 8-PoE + 2 SFP units (−40~75 °C, CE/RoHS; managed versions on a Marvell platform) from small lots, EXW USD — is there a budget industrial position your customers ask for between the two?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：超时（站慢或封锁））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：超时（站慢或封锁））
 
 - 尝试域名：gmidatabox.fr
   > https://gmidatabox.fr/ conn: HTTPSConnectionPool(host='gmidatabox.fr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HT
@@ -207,7 +209,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-838/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |

@@ -244,13 +244,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
 - **最近变化摘要**：2026-10-29 home：内容变化：+1 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-773/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](http://www.microseven.com/index.html) | html | HTTP 200 | 2026-10-29T08:41:09Z | 4569 字符；首行：microseven wi-fi and wired poe security camera |
+| [home](http://www.microseven.com/index.html) | html | HTTP 200 | 2026-10-29T15:11:51Z | 4569 字符；首行：microseven wi-fi and wired poe security camera |
 | [sitemap](http://www.microseven.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 67 个 URL；最新 lastmod 2024-03-08T02:32:19 |
 | [feed_auto](https://blog.microseven.com/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 20 条；最新：Tue, 24 Feb 2026 02:03:18 Microseven IP Camera Installation Guide – SD Card, WiFi  |
 

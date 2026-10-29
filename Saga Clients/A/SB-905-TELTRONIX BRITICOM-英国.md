@@ -29,7 +29,7 @@ s_mail: 33 msgs (out 27 / in 6), 2024-07-08 -> 2026-09-07
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 3
 updated: 2026-10-29
 ```
@@ -179,7 +179,8 @@ updated: 2026-10-29
   > 来源：data/gmail_s/messages/2024/2024-09.jsonl、2024-10.jsonl（wadii@teltronix.net，+44 1604 434 186）（抓取 2024-10-02）
 - **KP**：Wadii Kherfani（Director / 老板 —— Teltronix Holdings Ltd 两名董事之一（另一位 Anna Kherfani，同姓）；2011–2018 曾任 Linxcom Ltd（SB-160）董事（第 82 批 Companies House 核实 2026-10-27））wadii@teltronix.net 〔S/A 邮箱来信 2025-07-06 → 10-31 来信 3 封（第 72 批从邮件表头补）〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来；A6 真回≥3+对位（任何区域）
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 2026-10-22 并入 teltronix.net 往来（3 进 7 出，F16）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 公司档案核对））
@@ -198,9 +199,9 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——OEM 30% 档：STC-28DGGPM（8 PoE+ + 2 SFP 管理）作 Briticom 首款有源 SKU，与机柜/光缆成套；FTTx/数据中心位 STC-424XGGM（24 GE + 4×10G）
 - **邮件切入句（英文）**：Wadii — the 20-unit 24-port PoE project from Sept 2024: did it close, and do your current projects still require dual PSU and stacking, or would 10G uplinks + ERPS do?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
-- 尝试域名：briticom.net
+- 尝试域名：briticom.net, teltronix.net
   > https://briticom.net/ http 403 ct=text/html; charset=utf-8
   > https://www.briticom.net/ http 403 ct=text/html; charset=utf-8
   > http://briticom.net/ http 403 ct=text/html; charset=utf-8
@@ -248,7 +249,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-905/`；本节随档案重渲染刷新，实时看日志。
 

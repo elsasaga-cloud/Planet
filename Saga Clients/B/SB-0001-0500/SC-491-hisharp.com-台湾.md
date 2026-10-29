@@ -29,7 +29,7 @@ s_mail: 2 msgs (out 2 / in 0), 2024-12-18 -> 2025-01-13
 p1: STC-424XGGPM-280W
 price_tier: 30%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -39,7 +39,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（★ 正式）：★ 上櫃监控品牌 · OEM 30%：昇銳智慧科技 Hi Sharp（桃園八德；統編 22601576；上櫃 3128；1987；董事長 江添貴 / 總經理 蕭哲彥）坐实；自有品牌 ✔ 对位 ✔ 坐实 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon）（调研 2026-10-29；表内兴趣：商业PoE 洪瑞的）
 - **为什么是 B 级**：**调研后定级 B**（Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 上櫃监控品牌 · OEM 30%：昇銳智慧科技 Hi Sharp（桃園八德；統編 22601576；上櫃 3128；1987；董事長 江添貴 / 總經理 蕭哲彥）坐实；自有品牌 ✔ 对位 ✔ 坐实 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon）；闸 1：台湾 HiSharp（hisharp.com 域 no_mx / hisharp.com.tw；自有品牌 CCTV，表内「商业 PoE 洪瑞的」= 洪瑞现供）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔；未触达 → 闸 2…）；自动分级 C：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/台湾
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-424XGGPM-280W — 默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）；
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-424XGGPM-280W — 官网快照对位：PoE 词频 2、监控 90 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）；
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：不动：LT-01 复核（待过）后再定 — 长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
@@ -52,13 +52,14 @@ updated: 2026-10-29
 - **现状一句话**：C 池三闸捞出 → B（LT-01）：★ 上櫃监控品牌 · OEM 30%：昇銳智慧科技 Hi Sharp（桃園八德；統編 22601576；上櫃 3128；1987；董事長 江添貴 / 總經理 蕭哲彥）坐实；自有品牌 ✔ 对位 ✔ 坐实 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon）
 - **对方真实需求（有据）**：未知（无往来；复核时从官网 / 进口数据 / 项目推断）
 - **断点 / 为什么停在这里**：无往来（从未触达或仅群发无回）
-- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（% 档，价见价格主表）——默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
+- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（% 档，价见价格主表）——官网快照对位：PoE 词频 2、监控 90 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）
 - **下一步（具体）**：不动：LT-01 复核（待过）后再定　—　长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ★ 上櫃监控品牌 · OEM 30%：昇銳智慧科技 Hi Sharp（桃園八德；統編 22601576；上櫃 3128；1987；董事長 江添貴 / 總經理 蕭哲彥）坐实；自有品牌 ✔ 对位 ✔ 坐实 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon） | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 登记底数（registry） | TW · 1 次检索：twincn.com/item.aspx?no=22601576（統編 / 上櫃 / 代表人）+ hisharp.com/zh-tw/governance.php（公司基本資料）+ wantgoo（實收 / 邮箱）；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | HI SHARP INTELLIGENCE — Hi Sharp is a trailblazer in the surveillance industry with over 30 years of innovation. As a top Taiwanese brand, we excel in developing AI-powered security solutions that set us apart. Our strength lies in creating high-quality, high-performance surveillance products tailor | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -106,7 +107,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-29）**　网站状态：域名 hisharp.com（官网快照待 Actions 补抓）
+- **状态：已调研（2026-10-29）**　网站状态：在线（hisharp.com，快照 2026-10-29）：HI SHARP INTELLIGENCE
 - **是谁**：C 池三闸捞出（★ 正式）：★ 上櫃监控品牌 · OEM 30%：昇銳智慧科技 Hi Sharp（桃園八德；統編 22601576；上櫃 3128；1987；董事長 江添貴 / 總經理 蕭哲彥）坐实；自有品牌 ✔ 对位 ✔ 坐实 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon）
 - **类型**：OEM（闸 2 判定 · 30% 档）
 - **规模**：大型（上櫃；實收 NT$4.73 億）
@@ -119,10 +120,11 @@ updated: 2026-10-29
   > 来源：（抓取 2026-10-29）
 - **KP**：—（表内邮箱（公开 / 总机））sales@hisharp.com.tw 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 上櫃监控品牌 · OEM 30%：昇銳智慧科技 Hi Sharp（桃園八德；統編 22601576；上櫃 3128；1987；董事長 江添貴 / 總經理 蕭哲彥）坐实；自有品牌 ✔ 对位 ✔ 坐实 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon）；闸 1：台湾 HiSharp（hisharp.com 域 no_mx / hisharp.com.tw；自有品牌 CCTV，表内「商业 PoE 洪瑞的」= 洪瑞现供）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔；未触达 → 闸 2…
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/saga_fit/deep/facts。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -133,7 +135,24 @@ updated: 2026-10-29
 - **近况信号**：
   - 台湾 HiSharp（hisharp.com 域 no_mx / hisharp.com.tw；自有品牌 CCTV，表内「商业 PoE 洪瑞的」= 洪瑞现供）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔；未触达 → 闸 2 查底数（twincn）；四主区外，低优先；洪瑞现供客户 → Q-33 口径待 Simon（默认只推 SmartByte / Marvell 管理 + 工业线）
   - 表内兴趣：商业PoE 洪瑞的
-- **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
+- **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——官网快照对位：PoE 词频 2、监控 90 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://www.hisharp.com/en　语言：en　站点地图 URL 数：341
+- **标题**：HI SHARP INTELLIGENCE
+- **描述**：Hi Sharp is a trailblazer in the surveillance industry with over 30 years of innovation. As a top Taiwanese brand, we excel in developing AI-powered security solutions that set us apart. Our strength lies in creating high-quality, high-performance surveillance products tailored to meet your needs. F
+- **首页栏目**：HI SHARP INTELLIGENCE HI SHARP INTELLIGENCE / 主選單 / Latest News / HI SHARP Honored as a Top Security 50 for 16 consecutive years / VIDEO / Full-Color Camera / See Clearly in the Dark, Stay in Full Co / 4MP Full-Color Night Vision Camera / Starlight-Level Face Detection Camera
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 68、nvr 12、surveillance 10、distributor 7、poe 2、industrial 1、access control 1、cable 1
+- **站内型号串**（正则抽取，含非交换机）：HS-D137WE, TM7723, HS-T058WM, HS-D087S6, HS-D063WA, HS-H041PA, DC12V, HS-T058WN, HS-T057WN, HS-D087WN, HS-D071WN, HS-D144WC
+- **站内公开邮箱**：sales@hisharp.com.tw
+- **站内公开电话**：+886-3-365-3121
+- **社媒**：https://www.facebook.com/hisharp1987, https://www.linkedin.com/company/13600103, https://www.youtube.com/@HISHARP3128, https://www.youtube.com/watch?v=035TJ2y7GBM?si=cg48dcmlLexHwPq0, https://www.youtube.com/watch?v=89Okknjju7Y?si=aHVsH2yNpp5mXX9N, https://www.youtube.com/watch?v=8hAgNH5qDMM?si=SUio8G8_pERrDIQe
+- **产品类页面**：https://www.hisharp.com/catalog.php；https://www.hisharp.com/product.php?act=view&amp;id=428；https://www.hisharp.com/product.php?act=view&amp;id=423；https://www.hisharp.com/product.php?act=view&amp;id=422；https://www.hisharp.com/product.php?act=view&amp;id=419；https://www.hisharp.com/product.php?act=view&amp;id=418
+- **已抓子页**：[Network Security Cameras & Recorders / Home and Business / H](https://www.hisharp.com/en/product.php?act=list&cid=24)；[產品比較表 / HI SHARP INTELLIGENCE](https://www.hisharp.com/en/product_compare.php)；[Product Policy - News / HI SHARP INTELLIGENCE](https://www.hisharp.com/en/news.php?act=list&cid=7)；[Company Profile - About Us / HI SHARP INTELLIGENCE](https://www.hisharp.com/en/about.php)；[Catalog - Support / HI SHARP INTELLIGENCE](https://www.hisharp.com/en/catalog.php)；[Contact Us / HI SHARP INTELLIGENCE](https://www.hisharp.com/en/contact_us.php)
+- 首页正文摘录：HI SHARP INTELLIGENCE HI SHARP INTELLIGENCE 主選單 ABOUT US Company Profile Milestone Inquiry Career NEWS Industry Coverage Press Center Company Activity Product Policy PRODUCT NDAA Compliant Products Camera NVR/DVR Analog Products Hybrid Camera Series Dual-Light HD Series Value-Plus Analog Camera Hybrid DVR Network Products Taiwan Chipset IPC Face Detection IPC Value-Plus IP Camera PTZ Camera Network Video Recorder 5M 
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 2、监控 90 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SC-491.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -159,12 +178,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-491/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://hisharp.com/) | html | 待首轮 | — | 官网首页 |
+| [home](https://hisharp.com/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 3421 字符；首行：HI SHARP INTELLIGENCE |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -193,7 +213,7 @@ updated: 2026-10-29
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424XGGPM-280W | 深挖对位：默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档） | $180 USD EXW（㉕ ② 群发现价（群发价台账），30% 档公式为 $196.3——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（OEM（闸 2 判定 · 30% 档）） |
+| **P1** | STC-424XGGPM-280W | 深挖对位：官网快照对位：PoE 词频 2、监控 90 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W） | $180 USD EXW（㉕ ② 群发现价（群发价台账），30% 档公式为 $196.3——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（OEM（闸 2 判定 · 30% 档）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：30% 档 $151.6 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 

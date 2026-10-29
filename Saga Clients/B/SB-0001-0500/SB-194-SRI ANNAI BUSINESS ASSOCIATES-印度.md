@@ -24,7 +24,7 @@ last_contact: 2025-06-21
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
-site_snapshot: unreachable  # 2026-10-21
+site_snapshot: unreachable  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -110,7 +110,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（SRI ANNAI BUSINESS ASSOCIATES：域名不可达（DNS/连接失败），2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（sabaindia.com：域名不可达（DNS/连接失败），2026-10-29，第 2 次）
 - **是谁**：印度泰米尔纳德（0424 埃罗德区号）安防经销商 R. Sampath Kumar，做摄像机与门禁；2024-04 对 L2 管理 2 光 8 PoE 报过 $75（表内），此后无进展；官网域名已失效。
 - **【官网快照】sabaindia.com 域名不可达**
   > status unreachable
@@ -119,7 +119,8 @@ updated: 2026-10-29
   > 回复：price 报了75
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：R. Sampath Kumar（）info@sabaindia.com +91 424 427 2424 / +91 98427 13700〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照 + 表内；域名失效））
@@ -139,7 +140,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——历史报价对象 = L2 管理 8 PoE + 2 SFP → Saga STC-28DGGPM（$80.7/84.1/87.4；2024 年曾报 $75，报价前核价）。
 - **邮件切入句（英文）**：Sampath, we quoted you the 8-PoE + 2-SFP managed unit at USD 75 in April 2024 — is that camera project still open, and would a 10-pc trial price help you close it?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名不可达（DNS/连接失败））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：域名不可达（DNS/连接失败））
 
 - 尝试域名：sabaindia.com
   > https://sabaindia.com/ conn: HTTPSConnectionPool(host='sabaindia.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HT
@@ -176,7 +177,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-194/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |

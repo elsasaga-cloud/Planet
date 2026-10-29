@@ -28,7 +28,7 @@ last_contact: unknown
 p1: STI-144GP
 price_tier: 25%
 research: done
-site_snapshot: timeout  # 2026-10-21
+site_snapshot: timeout  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -144,7 +144,8 @@ updated: 2026-10-29
 - **KP**：（见 Clients 表联系人）（） +90 533 086 6289（WA）/ 0216 547 6700（用户记录）〔用户 Clients 表（ISAF 2025）〕
 - **KP**：Abdullah Unakıtan（Yönetim Kurulu Başkanı（董事长）；副主席 Fatma Unakıtan / Zeynep Basutçu Unakıtan（家族）；研究档联系人为项目经办（第 84 批 官方登记核实 2026-10-27）） 〔https://www.emis.com/php/company-profile/TR/Telemobil_Bilgi_Iletisim_Hizmetleri_AS_en_3350443.html〕
 - **调研后定级**：B（原自动 A）——Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B5 四主区+对位（冷）；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 土耳其主攻区 + 具体项目（2 光 2 电 PoE）+ 问交期 = 临门一脚。P1：STI 工业 2 光 2 电 PoE（按 SmartByte 工业目录核对型号；现场展示过 2 光 4 电可作替代），项目价阶 25%，交期 10–15 天。走 WA 直接报价。 ｜ T27 深挖更正：首轮调研把 telemobil.com.tr（Ltd Şti）当作主体；按联系人邮箱域 tbi.com.tr 应为 TBI Telemobil A.Ş.（51–200 人）。首轮引文保留作对照，以本条为准。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v1（更正主体））
@@ -171,7 +172,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-144GP（25% 档）——现场需求 2 光 2 电 PoE 工业机：最近标准型 STI-144GP（4 PoE + 1 SFP）/ STI-288DGGPM（8 PoE + 2 SFP）；2 光 2 电专用型向 SmartByte 核；项目 25% 档
 - **邮件切入句（英文）**：For the 2-fibre 2-copper PoE requirement you showed us at ISAF, the closest units we can ship in 10–15 days are the 4-port PoE + 1 SFP DIN switch and the 8-port + 2 SFP managed model, so I am quoting both with lead time confirmed.
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：超时（站慢或封锁））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：超时（站慢或封锁））
 
 - 尝试域名：tbi.com.tr
   > https://tbi.com.tr/ conn: HTTPSConnectionPool(host='tbi.com.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPS
@@ -190,7 +191,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-076/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |

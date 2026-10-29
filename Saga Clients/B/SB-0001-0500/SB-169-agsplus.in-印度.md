@@ -28,7 +28,7 @@ s_mail: 12 msgs (out 12 / in 0), 2024-07-04 -> 2024-12-30
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: done
-site_snapshot: parked_or_empty  # 2026-10-21
+site_snapshot: parked_or_empty  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -150,7 +150,8 @@ updated: 2026-10-29
 - **KP**：Vinod Tyagi（AGS Plus 研究档 KP（+91 98105 德里号段；2025-06 对 24 PoE 回「price」）= 收件人（第 114 批 官方登记核实 2026-10-28））sales@agsplus.in +91 98105 61477〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Gunjan（Xexagon 研究档 KP = 抄（第 114 批 官方登记核实 2026-10-28））gunjan@xexagon.co.in 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Tusharkumar Rajeshbhai Patel（CEO / Director Xexagon Hi-Tech Private Limited（tofler / xexagon.co.in）（第 114 批 官方登记核实 2026-10-28）） 〔https://www.tofler.in/xexagon-hi-tech-private-limited/company/U28299GJ2025PTC160203〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 （无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照占位 + 表内））
@@ -171,7 +172,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-424DGGPM-280W（20% 档）——24 PoE 询价 → STC-424DGGPM-280W（$134.5/140.1/145.7）；经销 20%。
 - **邮件切入句（英文）**：Vinod — you asked for prices last June (and left your WhatsApp number); we sent the download links but no price. The 8-PoE + 2-SFP industrial managed unit is $137.5 USD EXW; is the requirement still there?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：停放/空站（疑停业或仅占位））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：停放/空站（疑停业或仅占位））
 
 - 尝试域名：agsplus.in, xexagon.co.in, imimg.com
 - **提示**：域名停放/空站 → 公司可能已停业或换域名；跟进前先用邮箱/电话核实，勿只凭网站判死。
@@ -216,7 +217,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-169/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |

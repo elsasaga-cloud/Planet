@@ -126,6 +126,14 @@
     "quote": "Managed PoE Switches",
     "why": "本日去信真实主题（邮箱索引 9216b111c4f29135；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封）",
     "k": "9216b111c4f29135"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 复核 LT-R10",
+    "quote": "DNS 2026-10-29 16:2xZ：triplenet.co.kr MX mail.triplenet.co.kr.；A 133.186.144.129；NS ns4.cypack.com. / ns3.cypack.com.",
+    "why": "长期客户群复核证据（非邮件事实，不计真回）",
+    "url": ""
    }
   ],
   "proof_gaps": [],
@@ -145,5 +153,15 @@
    "2026-10-29"
   ],
   "batch": "LT-T03"
- }
+ },
+ "lt_review": {
+  "status": "留 B",
+  "batch": "LT-R10",
+  "prio": null,
+  "queued": "LT-R10",
+  "verdict_date": "2026-10-29",
+  "note": "官网快照两次失败（2026-10-21 / 2026-10-29：连接不可达（屏蔽境外 / 仅 CDN）），但 DNS 2026-10-29 16:2xZ 复查 triplenet.co.kr MX/A/NS 正常 → 非死域、邮箱路径未断 → 留 B 不动；快照失败只记「官网不可抓」，不作打回依据（可逆：两次独立 DNS 死才复核）",
+  "why": ""
+ },
+ "override_history": []
 }

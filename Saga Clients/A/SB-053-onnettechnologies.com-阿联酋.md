@@ -29,7 +29,7 @@ s_mail: 12 msgs (out 7 / in 5), 2025-03-26 -> 2026-09-08
 p1: STI-288DGGPM-2BT
 price_tier: 30%
 research: done
-site_snapshot: parked_or_empty  # 2026-10-21
+site_snapshot: parked_or_empty  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -148,7 +148,8 @@ updated: 2026-10-29
 - **KP**：Piyush S. Shah（）piyush@onnettechnologies.com +971 50 184 2443〔https://www.linkedin.com/in/piyushsshah/〕
 - **KP**：Dipali Pachchigar（Director（contactout / RocketReach）= 法定代表 / 家族（第 91 批 官方登记核实 2026-10-27）） 〔https://ae.linkedin.com/company/otaillc〕
 - **调研后定级**：A（原自动 A）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 只在有尾货/促销时触达；不做长期投入。
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（LinkedIn + 名录核对：本土制造商 OEM））
@@ -176,7 +177,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-288DGGPM-2BT（30% 档）——OTAI 自有品牌「大功率工业 PoE」→ Saga STI-288DGGPM-2BT（2×90W BT + 6×30W + 2 SFP 管理，$154.0（列表价封顶））贴牌；bypass 需求对 SmartByte LT-IS6312GP-4GX8GT-FBP（$186.5/194.3/202.1，注明 SmartByte 型号）。
 - **邮件切入句（英文）**：Saurabh, for the OTAI high-power industrial PoE line — our 8-port unit gives 2×90 W (bt) + 6×30 W with 2 SFP and an optional fibre-bypass variant, neutral or OTAI-branded from small lots; which exact spec is your current supplier shipping, so I quote like-for-like EXW?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：停放/空站（疑停业或仅占位））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：停放/空站（疑停业或仅占位））
 
 - 尝试域名：onnettechnologies.com
 - **提示**：域名停放/空站 → 公司可能已停业或换域名；跟进前先用邮箱/电话核实，勿只凭网站判死。
@@ -211,7 +212,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-053/`；本节随档案重渲染刷新，实时看日志。
 

@@ -1,10 +1,10 @@
 # XA-C0020 · Lieske Elektronik GmbH & Co. KG · 德国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:16706 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R01 2026-10-27）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:16706 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家（分销/集成/安装/零售/OEM 品牌）+ 有邮箱
-- 研究后改级：XA → **XB**（W1-R01，德国渠道型但纯工业自动化，主线不交叉 → B；等 STI 工业线有欧洲案例后再碰）；编号不变
+- 研究后改级：XA → **XB**（LT-T03，德国渠道型但纯工业自动化，主线不交叉 → B；等 STI 工业线有欧洲案例后再碰）；编号不变
 - 人工改级：XB（2026-10-29，Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径））；编号不变
 - 标记：无
 - 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
@@ -60,13 +60,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W1-R01，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — 德国渠道型但纯工业自动化，主线不交叉 → B；等 STI 工业线有欧洲案例后再碰
-- 活着吗：活（轻卡：未外查，沿用来源库）
+- 活着吗：在线（industry-electronics.de，快照 2026-10-29）：Industry-Electronics - B2B-Onlineshop für Elektronik & Elektrotechnik
 - 一句话：Vörstetten 的工业网络设备 B2B 分销商（Moxa/Hirschmann/Siemens/Weidmüller/Antaira/barox）。纯工业自动化渠道，与 Saga 的商用 PoE/L2+ 主线不交叉；STI 工业线只能当补位，且对手是 Moxa/Hirschmann 级别。
 - 是什么人：工业网络设备分销商；规模：未查
-- 在卖/在用：Moxa、Hirschmann、Siemens、Weidmüller、Antaira、barox
+- 在卖/在用：Moxa、Hirschmann、Siemens、Weidmüller、Antaira、barox、TP-Link、Ubiquiti、Cisco、Netgear、D-Link、Aruba、Juniper
 - 对口哪条线：（STI 工业线补位，暂不推） — 工业自动化渠道，非主线
 - 找得到人吗：vertrieb@industry-electronics.de（公开）；KP：无具名
 - 已触达：未发信
@@ -77,5 +77,7 @@
 | 类型 | 说明 | 摘录 | 来源 | 日期 |
 |---|---|---|---|---|
 | 来源库 | B2B工业网络设备专业分销(Moxa/Hirschmann/Siemens/barox)；vertrieb@industry-electronics.de |  | External Clients/CCTV-PoE/A/XA-C0020 | 2026-10-27 |
+| 官网快照 | 官网在线；Industry-Electronics - B2B-Onlineshop für Elektronik & Elektrotechnik | Ihr B2B-Onlineshop für Elektronik & Elektrotechnik. Als Online-Fachhandel für Industriekunden, Gewerbekunden und öffentliche Einrichtungen bieten wir derzeit ... | https://industry-electronics.de/ | 2026-10-29 |
 
-- 备注：轻卡。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+轻卡。

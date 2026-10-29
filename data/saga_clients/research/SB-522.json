@@ -2,7 +2,7 @@
  "code": "SB-522",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（adilec.com：停放/空站（疑停业或仅占位），2026-10-29，第 2 次）",
+ "website_status": "adilec.com 已挂牌出售（HugeDomains，2026-10-29；MX 无）；同户 guilera.com 在（MX Hornetsecurity）",
  "summary": "西班牙 Guilera（guilera.com；adilec.com 已停放出售）：光纤传输设备品牌（MC、FS、VC、SFP 全部自有 logo，MC 外壳不错）；表内「质量高」；邮箱 guilera@、compras@（采购））；群发 15 次无回复。",
  "type": "西班牙光纤传输品牌商（自有标 MC/FS/VC）",
  "size": "",
@@ -111,6 +111,22 @@
     "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
     "k": "elsa_1to1",
     "msg_id": "194f028e7579ede3"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 复核 LT-R10",
+    "quote": "DNS 2026-10-29 16:2xZ：adilec.com MX NoAnswer；A 13.223.25.84 / 54.243.117.197；NS nsg2.namebrightdns.com. / nsg1.namebrightdns.com.",
+    "why": "长期客户群复核证据（非邮件事实，不计真回）",
+    "url": ""
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 复核 LT-R10",
+    "quote": "DNS 2026-10-29 16:2xZ：guilera.com MX mx01.hornetsecurity.com. / mx02.hornetsecurity.com.；A 217.76.132.72；NS dns1.editorialamc.com. / dns2.editorialamc.com.",
+    "why": "长期客户群复核证据（非邮件事实，不计真回）",
+    "url": ""
    }
   ],
   "proof_gaps": [],
@@ -127,5 +143,16 @@
    "2026-10-29"
   ],
   "batch": "LT-T03"
- }
+ },
+ "lt_review": {
+  "status": "留 B",
+  "batch": "LT-R10",
+  "prio": null,
+  "queued": "LT-R10",
+  "verdict_date": "2026-10-29",
+  "note": "adilec.com 快照为 HugeDomains「for sale」、DNS MX NoAnswer / A = NameBright 停放 IP → info@adilec.com 已断；同户 guilera.com DNS 正常（MX Hornetsecurity，A 217.76.132.72）且 Elsa 2025-02-10 曾 1:1 去信 guilera@guilera.com → 留 B，路径 = guilera.com 两地址；adilec.com 不再发",
+  "why": ""
+ },
+ "override_history": [],
+ "website_status_prev": "快照失败（adilec.com：停放/空站（疑停业或仅占位），2026-10-29，第 2 次）"
 }

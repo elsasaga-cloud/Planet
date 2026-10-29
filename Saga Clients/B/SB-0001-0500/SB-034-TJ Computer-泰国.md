@@ -29,7 +29,7 @@ s_mail: 20 msgs (out 18 / in 2), 2025-02-12 -> 2026-09-07
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
-site_snapshot: unreachable  # 2026-10-21
+site_snapshot: unreachable  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -117,7 +117,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（TJ Computer：域名不可达（DNS/连接失败），2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（tj2003.net：域名不可达（DNS/连接失败），2026-10-29，第 2 次）
 - **是谁**：泰国电脑 / CCTV 店（tj2003.net 失效；tjcomputercctv@ 邮箱），Peter（Ponganan Ruenboon），需求 5 电口并要具体产品信息，2025-03 对 2 光 8 PoE 回复 Interested。
 - **类型**：小型经销商
 - **规模**：微型（待补证）
@@ -132,7 +132,8 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Peter (Ponganan Ruenboon)（经营者（2025-03 回 Interested；2025-05 要 5 电口具体信息）= 收件人 — 一页纸一次：集成商 25% B small、直接报 STC-228GP（8 PoE + 2 SFP）+ 5 口 STI-054GP（4 PoE + 1 GE）按主表现价、MOQ 1、付费样机、预付 100%、小额快递 DAP— 泰国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、NBTC 不声称（第 117 批 官方登记核实 2026-10-28））tjcomputercctv@tj2003.net（2025-03 / 05 来信地址；署名 พงศ์นันท์ รื่นบุญ (ปีเตอร์)）；tjcomputer2003@gmail.com 08-0069-1918 / 06-2217-9229（2025-05-14 签名）〔A 邮箱来信表头 + 签名〕
 - **调研后定级**：B（原自动 A）——微型经销商、5 口非管理交换机客单价极低、WA 不通 → 慢跟。
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 邮件一次性给 STI-244GP/5 口型号资料即可。
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照不可达 + 表内））
@@ -152,7 +153,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——2 光 8 PoE Interested → STC-28DGGPM；5 口 → STI-050GE / 商用 5 口按 HRUI 另询。
 - **邮件切入句（英文）**：Peter, you were interested in the 8-PoE + 2-SFP unit — $84 EXW at 1 pc; for the 5-port need, do you want PoE or plain gigabit? I'll send both sheets.
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名不可达（DNS/连接失败））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：域名不可达（DNS/连接失败））
 
 - 尝试域名：tj2003.net
   > https://tj2003.net/ conn: HTTPSConnectionPool(host='tj2003.net', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPS
@@ -197,7 +198,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-034/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |

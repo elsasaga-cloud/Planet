@@ -1,6 +1,6 @@
 # XB-C0533 · Electro IT Services · 埃塞俄比亚
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 CCTV-PoE `profile/new-customers-batch-6.md`:209 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T01 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 CCTV-PoE `profile/new-customers-batch-6.md`:209 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XB** — 对口但不在主攻区（美加/欧/土以外）→ XB
@@ -66,10 +66,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，LT-T01，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — 桌面复核（来源库核对 + 研究卡）：埃塞俄比亚Hikvision领先分销；业务=埃塞俄比亚Hikvision领先分销；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））
-- 活着吗：域名 electroitservices.net MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓
+- 活着吗：在线（electroitservices.net，快照 2026-10-29）：Hikvision distributor Ethiopia - Home
 - 一句话：Electro IT Services（埃塞俄比亚）：埃塞俄比亚Hikvision领先分销；地址=Africa Avenue, Garad Mall, 2nd Floor #44, Addis Ababa；业务=埃塞俄比亚Hikvision领先分销；开发策略=埃塞俄比亚Hikvision主力
 - 是什么人：埃塞俄比亚Hikvision领先分销
 - 在卖/在用：Hikvision
@@ -84,5 +84,7 @@
 |---|---|---|---|---|
 | 来源库官网/名录核对 | 埃塞俄比亚Hikvision领先分销；地址=Africa Avenue, Garad Mall, 2nd Floor #44, Addis Ababa；业务=埃塞俄比亚Hikvision领先分销；开发策略=埃塞俄比亚Hikvision主力 |  | https://electroitservices.net | 2026-09 |
 | 长期群复核 LT-R07 | 桌面复核（来源库核对 + 研究卡）：埃塞俄比亚Hikvision领先分销；业务=埃塞俄比亚Hikvision领先分销；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%）） |  |  | 2026-10-29 |
+| 官网快照 | 官网在线；Hikvision distributor Ethiopia - Home | We are trusted Hikvision distributor in Ethiopia, offering high-quality CCTV cameras and security solutions for homes and businesses. | https://electroitservices.net/ | 2026-10-29 |
 
-- 备注：LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。
+LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。

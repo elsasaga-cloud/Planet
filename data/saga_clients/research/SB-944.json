@@ -118,6 +118,14 @@
     "quote": "fybera.com：FYBERA - Your optical fibre equipment provider … Ethernet Media Converter 1100/2 Brand: Fybera … Email: sales@fybera.com · Call now: +359 2 4214270",
     "why": "长期客户群复核证据（非邮件事实，不计真回）",
     "url": "https://fybera.com/"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 复核 LT-R10",
+    "quote": "DNS 2026-10-29 16:2xZ：fybera.com MX NoNameservers；A NoNameservers；NS NoNameservers",
+    "why": "长期客户群复核证据（非邮件事实，不计真回）",
+    "url": ""
    }
   ],
   "proof_gaps": [
@@ -131,11 +139,11 @@
  },
  "lt_review": {
   "status": "留 B",
-  "batch": "LT-R09",
+  "batch": "LT-R10",
   "prio": null,
-  "queued": "LT-R09",
+  "queued": "LT-R10",
   "verdict_date": "2026-10-29",
-  "note": "域名 fybera.com DNS 委派坏（NoNameservers 2026-10-29，疑临时）；搜索可见官网在营：自有品牌 Fybera 光纤无源 + 媒体转换器 + 熔接机，联系电话 +359 2 4214270 = 保加利亚索非亚（表内写比利时有误 → country_fix BG）→ 自牌进口商留 B（OEM 话题；MC 对位弱、交换机待问）",
+  "note": "fybera.com DNS 2026-10-29 16:2xZ 仍 NoNameservers（与 14:48Z LT-R09 一致，委派仍坏）；LT-R09 已据搜索摘要判在营（自有品牌 Fybera 光纤无源 / 媒转，sales@fybera.com）→ 维持留 B，下次巡检（12-28）再查委派；邮箱路径待观察",
   "why": ""
  },
  "override_history": [],

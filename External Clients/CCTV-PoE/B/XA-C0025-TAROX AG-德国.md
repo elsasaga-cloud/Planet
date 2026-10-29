@@ -1,10 +1,10 @@
 # XA-C0025 · TAROX AG · 德国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:17472 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R01 2026-10-27）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:17472 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家（分销/集成/安装/零售/OEM 品牌）+ 有邮箱
-- 研究后改级：XA → **XB**（W1-R01，交换机非主线、体量大 → B 不动）；编号不变
+- 研究后改级：XA → **XB**（LT-T03，交换机非主线、体量大 → B 不动）；编号不变
 - 人工改级：XB（2026-10-29，Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径））；编号不变
 - 标记：无
 - 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
@@ -71,10 +71,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W1-R01，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — 交换机非主线、体量大 → B 不动
-- 活着吗：活（轻卡：未外查）
+- 活着吗：在线（tarox.de，快照 2026-10-29）：TAROX. Wir machen komplexe IT für Menschen einfach nutzbar.
 - 一句话：Lünen 的 IT 制造商（自有品牌 PC/服务器/工作站「Made in Germany」）兼分销。网络交换机非其品牌主线。
 - 是什么人：IT 制造商 + 分销（自有 PC 品牌）；规模：待补证
 - 在卖/在用：TAROX（自有）
@@ -88,5 +88,7 @@
 | 类型 | 说明 | 摘录 | 来源 | 日期 |
 |---|---|---|---|---|
 | 来源库 | IT制造（服务器/工作站/PC）+ 分销；info@tarox.de |  | External Clients/CCTV-PoE/A/XA-C0025 | 2026-10-27 |
+| 官网快照 | 官网在线；TAROX. Wir machen komplexe IT für Menschen einfach nutzbar. | TAROX – führender IT‑Komplettdienstleister mit System‑, Cloud‑ und Security‑Lösungen. Innovative Technik, starke Eigenmarke und Service für Unternehmen. | https://www.tarox.de/ | 2026-10-29 |
 
-- 备注：轻卡。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。
+轻卡。

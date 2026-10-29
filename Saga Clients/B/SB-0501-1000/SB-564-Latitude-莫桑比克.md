@@ -25,7 +25,7 @@ s_mail: 6 msgs (out 6 / in 0), 2025-02-13 -> 2025-08-05
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -63,6 +63,7 @@ updated: 2026-10-29
 | 2026-05-04 | out | Elsa → manjala@voiptech.co.mz | Industrial PoE Switch（Elsa 1:1 逐月名单第 6/7 轮；To 仅本户） | 第 74 批(n) `from:e.sagatelecom to:voiptech.co.mz` 全程 complete：7 轮直收（头 msg 19fd16fe889655ef 无 Bcc，称呼「Hi, Manuel」）；0 回 | `elsa_1to1` |
 | 2026-08-05 | out | Elsa → manjala@voiptech.co.mz | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 7/7 轮；To 仅本户；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(n) `from:e.sagatelecom to:voiptech.co.mz` 全程 complete：7 轮直收（头 msg 19fd16fe889655ef 无 Bcc，称呼「Hi, Manuel」）；0 回 | `elsa_1to1` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：WDM Switch | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：voiptech.co.mz MX mail.voiptech.co.mz.；A 50.87.0.105；NS ns2.rhostbh.com. / ns1.rhostbh.com. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -123,7 +124,8 @@ updated: 2026-10-29
   > 兴趣：WDM Switch
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Manuel Manjala（Chief Technology Officer（LinkedIn + PeeringDB 2026-10-29；研究档 KP）= 收件人 — 一页纸一次：集成商 25% B、STC-228GP $33 / STI-288DGGPM $137 / STC-4424GCPM $165 一口价 + MOQ 1 + 付费样机；光模块不供明说；葡语备注 — 非洲常规：英文稿（法语区附法语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29））manjala@voiptech.co.mz 〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 （无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照 HTTP 错误 + 表内））
@@ -140,7 +142,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——「WDM switch」按带单纤 BiDi 光口的 2 SFP + 8 口机理解 → STC-28DGGPM + BiDi 模块（模块 Q-32）。
 - **邮件切入句（英文）**：Manuel, by 'WDM switch' do you mean a switch with single-fibre (BiDi/WDM) SFP uplinks? If so the 2-SFP + 8-port managed unit is $84 EXW and we can fit tested 20 km BiDi modules; what distance and how many links?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：voiptech.co.mz
   > https://voiptech.co.mz/ http 403 ct=text/html
@@ -178,7 +180,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-564/`；本节随档案重渲染刷新，实时看日志。
 

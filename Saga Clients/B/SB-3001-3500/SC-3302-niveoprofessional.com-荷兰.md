@@ -26,10 +26,10 @@ followups: 15
 first_contact: 2024-05-17
 last_contact: 2025-10-03
 s_mail: 25 msgs (out 24 / in 1), 2023-12-25 -> 2026-09-01
-p1: STC-424XGGPM-280W
+p1: STC-424XGGM
 price_tier: 30%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 4
 updated: 2026-10-29
 ```
@@ -39,7 +39,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（★ 正式）：★ 全线自有品牌 · OEM 30%：Niveo Professional = BNS Netstar bv / Niveo International bv（Hilversum 2009；2–10 人；营收估 $6.9M；A/V 安装渠道自有网络品牌；MD Arthur de Jager = 表内 arthur@）部分坐实（KvK 未取）；自有品牌 ✔ 决策人直达 ✔ 欧洲 ✔ 对位 ✔ → P 池候选（退信 → 改发 arthur…（调研 2026-10-29；表内兴趣：商业PoE 配件 10G；MC 机架 SFP 大口FS）
 - **为什么是 B 级**：**调研后定级 B**（Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 全线自有品牌 · OEM 30%：Niveo Professional = BNS Netstar bv / Niveo International bv（Hilversum 2009；2–10 人；营收估 $6.9M；A/V 安装渠道自有网络品牌；MD Arthur de Jager = 表内 arthur@）部分坐实（KvK 未取）；自有品牌 ✔ 决策人直达 ✔ 欧洲 ✔ 对位 ✔ → …；闸 1：荷兰 Niveo Professional（niveoprofessional.com；自有品牌 Niveo：商业 PoE / 10G / MC / 机架 / SFP / 大口 FS 全线贴牌）：欧洲 + 自有品牌 ✔ + 对位 ✔；15…）；自动分级 C：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；-60 用户已归入「不行及不太相关的」；-40 备注含 不再跟进/Spam/骗子 等；-25 邮件发不过去且无 WhatsApp 通道；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/荷兰；+5 最近活动 2025；-16 推送 15 次无任何回复（聋名单）
 - **历史互动**：推送 15 次（2024-05-17 → 2025-10-03）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-424XGGPM-280W — 默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）；
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-424XGGM — 官网快照对位：10G/2.5G 词频 22、交换机 101 → 24 GE + 4×10G L2+ 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）；
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动：LT-01 复核（待过）后再定 — 长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
@@ -52,13 +52,14 @@ updated: 2026-10-29
 - **现状一句话**：C 池三闸捞出 → B（LT-01）：★ 全线自有品牌 · OEM 30%：Niveo Professional = BNS Netstar bv / Niveo International bv（Hilversum 2009；2–10 人；营收估 $6.9M；A/V 安装渠道自有网络品牌；MD Arthur de Jager = 表内 arthur@）部分坐实（KvK 未取）；自有品牌 ✔ 决策人直达 ✔ 欧洲 ✔ 对位 ✔ → …
 - **对方真实需求（有据）**：未知（无往来；复核时从官网 / 进口数据 / 项目推断）
 - **断点 / 为什么停在这里**：无往来（从未触达或仅群发无回）
-- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（% 档，价见价格主表）——默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
+- **Saga 现在该推什么**：P1 **STC-424XGGM**（% 档，价见价格主表）——官网快照对位：10G/2.5G 词频 22、交换机 101 → 24 GE + 4×10G L2+ 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）
 - **下一步（具体）**：不动：LT-01 复核（待过）后再定　—　长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ★ 全线自有品牌 · OEM 30%：Niveo Professional = BNS Netstar bv / Niveo International bv（Hilversum 2009；2–10 人；营收估 $6.9M；A/V 安装渠道自有网络品牌；MD Arthur de Jager = 表内 arthur@）部分坐实（KvK 未取）；自有品牌 ✔ 决策人直达 ✔ 欧洲 ✔ 对位 ✔ → P 池候选（退信 → 改发 arthur@ / jaap@）；Simon 曾判不行，可否决 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 登记底数（registry） | NL · 1 次检索：linkedin.com/company/netstar-products-bv（2009；2–10；Arthur de Jager 职务）+ zoominfo（Olympia 2D；$6.9M）；KvK 未取；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Niveo Professional – Niveo Professional provides the best 10g and AVB switches on the market, outshining others with easier installation and competitive pricing | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -135,10 +136,11 @@ updated: 2026-10-29
 - **KP**：—（表内邮箱（公开 / 总机））arthur@niveoprofessional.com 〔〕
 - **KP**：—（表内邮箱（公开 / 总机））jaap@niveoprofessional.com 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 全线自有品牌 · OEM 30%：Niveo Professional = BNS Netstar bv / Niveo International bv（Hilversum 2009；2–10 人；营收估 $6.9M；A/V 安装渠道自有网络品牌；MD Arthur de Jager = 表内 arthur@）部分坐实（KvK 未取）；自有品牌 ✔ 决策人直达 ✔ 欧洲 ✔ 对位 ✔ → …；闸 1：荷兰 Niveo Professional（niveoprofessional.com；自有品牌 Niveo：商业 PoE / 10G / MC / 机架 / SFP / 大口 FS 全线贴牌）：欧洲 + 自有品牌 ✔ + 对位 ✔；15…
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/saga_fit/deep/facts。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -150,7 +152,23 @@ updated: 2026-10-29
   - 荷兰 Niveo Professional（niveoprofessional.com；自有品牌 Niveo：商业 PoE / 10G / MC / 机架 / SFP / 大口 FS 全线贴牌）：欧洲 + 自有品牌 ✔ + 对位 ✔；15 推 0 回 + 退信 → 闸 2 查底数 + 找新地址（OEM 对象）；Simon 曾判不行 → 可按编号否决
   - 表内兴趣：商业PoE 配件 10G；MC 机架 SFP 大口FS
 - **风险/边界**：**全线自有品牌 → OEM 30%：点名 Arthur 一页纸一次（STC-228GP / STC-2224GP / STC-4424GCPM L2+ 丝印 + 10G 口型 STC-424XGGM + MOQ + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；退信 →；登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号
-- **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
+- **Saga 对位结论**：P1 STC-424XGGM（30% 档）——官网快照对位：10G/2.5G 词频 22、交换机 101 → 24 GE + 4×10G L2+ 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://niveoprofessional.com/　语言：en-US　站点地图 URL 数：162
+- **标题**：Niveo Professional – Niveo Professional provides the best 10g and AVB switches on the market, outshining others with easier installation and competitive pricing
+- **首页栏目**：Discover new technology for hassle-free connections / Enterprise grade switches / NGSME9AVB / NGSME48T4H / US BASED SUPPORT​ / EMEA AND APAC SUPPORT / ASIA and Pacific SUPPORT / WIRELESS
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 101、10g 22、poe 19、wireless 16、media converter 14、fiber 14、sfp 1、gigabit 1、wifi 1、telecom 1、installer 1
+- **站内型号串**（正则抽取，含非交换机）：AES67, NGSME48T4H, NRS10G8P, NPI-HX1, NPI-H1, NRS16T2P, NRS18P, NRS24T4P, NRS24T4P-AV, NRS24T4XP, NRS26P, NRS48T4XP
+- **站内公开邮箱**：info@niveoprofessional.com, support.apac@niveoprofessional.com, support.emea@niveoprofessional.com, support.na@niveoprofessional.com
+- **站内公开电话**：+31 (0)85 060 45 66, +31-297-612525
+- **社媒**：https://www.linkedin.com/company/netstar-products-bv
+- **产品类页面**：https://niveoprofessional.com/2023/06/23/infocomm-2023-niveo-professional-reveals-l2-full-management-ethernet-…；https://niveoprofessional.com/10g-switches/；https://niveoprofessional.com/poe-injectors/；https://niveoprofessional.com/avb-milan-switches/；https://niveoprofessional.com/switch-selector-2026/；https://niveoprofessional.com/2022/05/05/new-avb-switch/
+- **已抓子页**：[Company – Niveo Professional](https://niveoprofessional.com/company/)；[10G Switches – Niveo Professional](https://niveoprofessional.com/10g-switches/)；[POE Injectors – Niveo Professional](https://niveoprofessional.com/poe-injectors/)；[Business Switches – Niveo Professional](https://niveoprofessional.com/business-systems/)；[AVB/MILAN-Switches – Niveo Professional](https://niveoprofessional.com/avb-milan-switches/)；[Switch Selector 2026 – Niveo Professional](https://niveoprofessional.com/switch-selector-2026/)
+- 首页正文摘录：Home Products Switch Selector 2026 AVB/MILAN-Switches 10G Switches Broadcast & Data Centre Business Switches Wireless & Controllers Enterprise Grade Switches Fiber Modules/Media Converters Legacy Products POE Injectors Power distribution units UPS Systems Tools & Support Download Center (firmware/drivers) Instruction Video’s Niveo Professional Academy RMA request / procedure White Papers & Step by Step Guides Warrant
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 22、交换机 101 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SC-3302.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -205,12 +223,14 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-3302/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://niveoprofessional.com/) | html | 待首轮 | — | 官网首页 |
+| [home](https://niveoprofessional.com/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 5556 字符；首行：Niveo Professional – Niveo Professional provides the best 10g and AVB switches  |
+| [feed_auto](https://niveoprofessional.com/feed/) | rss | HTTP 200 | 2026-10-29T15:11:51Z | 10 条；最新：Thu, 31 Jul 2025 13:09:26 Sonic Electronics upgrades Qatar Development Bank |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -251,17 +271,18 @@ updated: 2026-10-29
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424XGGPM-280W | 深挖对位：默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档） | $180 USD EXW（㉕ ② 群发现价（群发价台账），30% 档公式为 $196.3——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（OEM（闸 2 判定 · 30% 档）） |
+| **P1** | STC-424XGGM | 深挖对位：官网快照对位：10G/2.5G 词频 22、交换机 101 → 24 GE + 4×10G L2+ 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W） | $138.0 USD EXW（30% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（OEM（闸 2 判定 · 30% 档）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：30% 档 $151.6 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），30% 档公式为 $196.3——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424XGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424XGGM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -271,7 +292,7 @@ updated: 2026-10-29
 
 - **S**：自有品牌/贴牌需求 = 现成 OEM 客户；欧洲主攻区，复购与口碑可外溢
 - **W**：已推送 15 次无回复，邮件通道疲劳
-- **O**：P1 STC-424XGGPM-280W 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；规模（调研）：微型（2–10；$6.9M）
+- **O**：P1 STC-424XGGM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；规模（调研）：微型（2–10；$6.9M）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -299,14 +320,14 @@ updated: 2026-10-29
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424XGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
+**主题**：STC-424XGGM - 24-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
 
 ```text
 Hi Arthur,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGPM-280W - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $180 USD EXW (MOQ 1, 15-day validity).
+We supply a Marvell-based 24-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $138.0 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

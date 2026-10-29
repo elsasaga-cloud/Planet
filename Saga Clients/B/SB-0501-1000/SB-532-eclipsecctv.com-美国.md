@@ -23,7 +23,7 @@ s_mail: 23 msgs (out 23 / in 0), 2025-01-21 -> 2026-09-16
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -35,7 +35,7 @@ updated: 2026-10-29
 - **历史互动**：推送 10 次（2025-02-26 → 2025-10-24）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — Eclipse 标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标；非管理 4/8/16 PoE 位 HRUI（列表价，注明）；换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-13 $300（48 Port PoE Managed Switch）、2025-10-01 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Tony, for the PoE switches sold under the Eclipse label with your cameras, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches in your packaging from small lots, FCC/CE/RoHS — which PoE SKU do your dealers reorder most? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
-- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
+- **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(u) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STC-05GE / STC-028GP 为 HRUI，不写 Marvell）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2026-09-16 | 去 | A/S 群发 | Industrial PoE Switch、Managed Optical Bypass Switch | 23 封 / 0 次打开 / 0 回｜首封 2025-01-21 → 末封 2026-09-16（23 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 商业PoE | 表内备注 | `用户表` |
 | 2026-09-16 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 9b7ce5c2e2e15d46；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `9b7ce5c2e2e15d46` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Eclipse CCTV - HD Security Cameras and CCTV Systems. IP, HD-CVI, HD-SDI, HD-TVI, AHD — Eclipse Security Cameras and Surveillance Systems for CCTV Installations and Service. Wholesale Surveillance cameras, DVRs and NVRs. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -125,7 +126,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（eclipsecctv.com：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：在线（eclipsecctv.com，快照 2026-10-29）：Eclipse CCTV - HD Security Cameras and CCTV Systems. IP, HD-CVI, HD-SDI, HD-TVI, AHD
 - **是谁**：美国 Eclipse CCTV / Eclipse Security（迈阿密 CCTV 品牌/分销；表内「商业 PoE」「可以尝试多跟进一下」；KP Tony Forbes（Sales Executive）、Manuel Alvarez（Support Engineer）；官网 http_error）；群发 10 次无回复。
 - **类型**：CCTV 品牌/分销商（美国）
 - **【用户表】表内兴趣/备注**
@@ -137,10 +138,11 @@ updated: 2026-10-29
 - **KP**：Tony Forbes（Sales Executive（Eclipse CCTV Inc.）= 收件人（第 101 批 官方登记核实 2026-10-28））tony@eclipsecctv.com 〔用户表〕
 - **KP**：Manuel Alvarez（研究档 KP sales@（职务未核）= 抄送（第 101 批 官方登记核实 2026-10-28））sales@eclipsecctv.com 〔用户表〕
 - **KP**：Moises Faroy（President（FL Sunbiz P20000058672；D&B / Buzzfile）= 拍板人（点名 / 抄送）（第 101 批 官方登记核实 2026-10-28）） 〔〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/deep/facts。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -159,14 +161,20 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——Eclipse 标 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标；非管理 4/8/16 PoE 位 HRUI（列表价，注明）
 - **邮件切入句（英文）**：Tony, for the PoE switches sold under the Eclipse label with your cameras, we can supply Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches in your packaging from small lots, FCC/CE/RoHS — which PoE SKU do your dealers reorder most?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
 
-- 尝试域名：eclipsecctv.com
-  > https://eclipsecctv.com/ http 403 ct=text/html; charset=utf-8
-  > https://www.eclipsecctv.com/ http 403 ct=text/html; charset=utf-8
-  > http://eclipsecctv.com/ http 403 ct=text/html; charset=utf-8
-- **提示**：抓取失败不代表公司不在；人工打开一次即可。
-- 数据文件：`data/saga_clients/site_snapshots/SB-532.json`
+- **首页**：https://www.eclipsecctv.com　语言：未标　站点地图 URL 数：742
+- **标题**：Eclipse CCTV - HD Security Cameras and CCTV Systems. IP, HD-CVI, HD-SDI, HD-TVI, AHD
+- **描述**：Eclipse Security Cameras and Surveillance Systems for CCTV Installations and Service. Wholesale Surveillance cameras, DVRs and NVRs.
+- **首页栏目**：Featured Products / Projects / Technical Support / Training & Education / Shop By Categories / Buying Assistance / Legals / Help & Support
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 367、nvr 92、access control 53、poe 44、cctv 42、surveillance 35、cable 33、switch 20、installer 15、wireless 14、industrial 10、uniview 4
+- **站内型号串**（正则抽取，含非交换机）：ESG-ABJB1, ESG-IPBMS4F2, ESG-IPDS8VZ, ESG-IPBMS5F2, ESG-NVR16, ECL-ACC230, ECL-ACC225, ECL-ACC220A, ESG-IPTS2F2, IEEE802, ESG-ADFM2, ESG-ADJB2
+- **社媒**：https://twitter.com/eclipsecctv, https://www.facebook.com/Eclipsecctv, https://www.instagram.com/eclipsesurveillance/, https://www.youtube.com/channel/UCaV7aUxE7XJAVFA7l4GVPeg/videos
+- **产品类页面**：https://www.eclipsecctv.com/POE-Switches_c_1813.html；https://www.eclipsecctv.com/ESG-POE24EX-Extended-Distance-PoE-Network-Switch_p_881.html；https://www.eclipsecctv.com/ESG-POE4EX-Extended-Distance-PoE-Network-Switch_p_1012.html；https://www.eclipsecctv.com/ESG-POE8EX-Extended-Distance-PoE-Network-Switch_p_1013.html；https://www.eclipsecctv.com/ESG-POE16EX-16ch-Extended-Distance-PoE-Network-Switch_p_882.html；https://www.eclipsecctv.com/ECL-SW5P12--12VDC-Industrial-Gigabit-Switch-interconnects-up-to-4-networkable-devi…
+- **已抓子页**：[POE Switches](https://www.eclipsecctv.com/POE-Switches_c_1813.html)；[Industrial Solutions](https://www.eclipsecctv.com/industrial-solutions)；[Eclipse ESG-NVR16 16 Camera Network Video Recorder](https://www.eclipsecctv.com/ESG-NVR16-16-Camera-Network-Video-Recorder_p_789.html)；[ESG-IPDS8VZ 8 Megapixel Network IP Dome Camera with Motozoom](https://www.eclipsecctv.com/ESG-IPDS8VZ-8-Megapixel-Network-IP-Dome-Camera-with-Motozoom_p_2049.html)；[Eclipse ESG-IPBMS4F2 4 Megapixel Starlight Network IP Bullet](https://www.eclipsecctv.com/Eclipse-ESG-IPBMS4F2-4-Megapixel-Starlight-Network-IP-Bullet-Camera_p_2038.html)；[Eclipse ESG-IPBMS5F2 5 Megapixel Starlight Network IP Bullet](https://www.eclipsecctv.com/Eclipse-ESG-IPBMS5F2-5-Megapixel-Starlight-Network-IP-Bullet-Camera_p_2060.html)
+- 首页正文摘录：0 888-422-8826 About Us Blog Contact Us Become A Dealer My Account Log in to my account or Create Account ( 0 Item s ) home Search Support Become a Dealer Support Site Hard Disk Calculator UL Listed Products 2024 Eclipse Catalog Signature PC Software Eclipse View Cloud Signature Mobile Apps Signature Camera Bracket and Accessory Chart Eclipse Net Support Looking For An Installer Solutions Banking Solutions Casino Sol
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 10、PoE 44 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-532.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -213,7 +221,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T08:41:09Z
 - **最近变化摘要**：2026-10-29 feed_auto：更新 18 条：ESG-NVR16 16 Camera Network Video Recorder（Tue, 27 Oct 2026 00 → Thu, 29 Oct 2026 
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-532/`；本节随档案重渲染刷新，实时看日志。
 
@@ -299,7 +307,6 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

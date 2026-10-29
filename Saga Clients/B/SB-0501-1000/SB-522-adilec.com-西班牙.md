@@ -23,7 +23,7 @@ s_mail: 17 msgs (out 16 / in 1), 2024-07-03 -> 2026-02-11
 p1: STI-110GE
 price_tier: 30%
 research: done
-site_snapshot: parked_or_empty  # 2026-10-21
+site_snapshot: parked_or_empty  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -52,6 +52,8 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-02-10 | out | Elsa → guilera@guilera.com | Mini Industrial PoE Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：adilec.com MX NoAnswer；A 13.223.25.84 / 54.243.117.197；NS nsg2.namebrightdns.com. / nsg1.namebrightdns.com. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：guilera.com MX mx01.hornetsecurity.com. / mx02.hornetsecurity.com.；A 217.76.132.72；NS dns1.editorialamc.com. / dns2.editorialamc.com. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -114,7 +116,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（adilec.com：停放/空站（疑停业或仅占位），2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：adilec.com 已挂牌出售（HugeDomains，2026-10-29；MX 无）；同户 guilera.com 在（MX Hornetsecurity）
 - **是谁**：西班牙 Guilera（guilera.com；adilec.com 已停放出售）：光纤传输设备品牌（MC、FS、VC、SFP 全部自有 logo，MC 外壳不错）；表内「质量高」；邮箱 guilera@、compras@（采购））；群发 15 次无回复。
 - **类型**：西班牙光纤传输品牌商（自有标 MC/FS/VC）
 - **【用户表】表内兴趣/备注**
@@ -127,7 +129,8 @@ updated: 2026-10-29
   > Adilec.com is for sale | HugeDomains
   > 来源：https://www.hugedomains.com/domain_profile.cfm?d=adilec.com（抓取 2026-10-21）
 - **KP**：（采购部）（采购部（compras@）= 收件人（点名 ADILEC product manager）（第 109 批 官方登记核实 2026-10-28））compras@guilera.com 〔用户表〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -148,9 +151,11 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-110GE（30% 档）——自有 logo MC/FS → 工业千兆 MC STI-110GE（$24.3 @30%）/ PoE MC STI-111GP（$30.1）；工业 FS 位 STI-288GPM（$85.5）贴 Guilera 标；VC/SFP Saga 不供
 - **邮件切入句（英文）**：For the media converters and switches sold under the Guilera label, we can be an ODM source on a Marvell/Realtek platform (industrial gigabit and PoE MCs, DIN-rail 8-PoE + 2 SFP managed; CE/RoHS) in your housing from small lots — which MC model do your Spanish integrators reorder most?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：停放/空站（疑停业或仅占位））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：停放/空站（疑停业或仅占位））
 
 - 尝试域名：adilec.com, guilera.com
+  > https://adilec.com/ conn: HTTPSConnectionPool(host='adilec.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[
+  > https://www.adilec.com/ conn: HTTPSConnectionPool(host='www.adilec.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8
 - **提示**：域名停放/空站 → 公司可能已停业或换域名；跟进前先用邮箱/电话核实，勿只凭网站判死。
 - 数据文件：`data/saga_clients/site_snapshots/SB-522.json`
 
@@ -207,7 +212,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-522/`；本节随档案重渲染刷新，实时看日志。
 

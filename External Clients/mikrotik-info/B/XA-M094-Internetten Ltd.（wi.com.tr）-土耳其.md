@@ -1,6 +1,6 @@
 # XA-M094 · Internetten Ltd.（wi.com.tr） · 土耳其
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 mikrotik-info `A-459`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R01 2026-10-27）→ 下一动作 第二封
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 mikrotik-info `A-459`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 第二封
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱
@@ -70,13 +70,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W1-R01，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XA** — TR 主攻区 MikroTik 分销 + 已卖中国 PoE 品牌 → 维持 A
-- 活着吗：来源库 2026-09-28 官网核对在线；本轮未复查
+- 活着吗：在线（wi.com.tr，快照 2026-10-29）：Network, Fiber Optic and Telecom Equipment | wi.com.tr
 - 一句话：Gebze 的 MikroTik 授权分销商，光纤/电信器材专营，在售 Ruijie Reyee PoE+ 交换机、SFP、GPON，有 B2B 经销商计划。
 - 是什么人：MikroTik 授权分销（光纤/电信）；规模：小型（未查）
-- 在卖/在用：MikroTik、Ruijie Reyee、GPON
+- 在卖/在用：MikroTik、Ruijie Reyee、GPON、Ruijie、Ubiquiti
 - 对口哪条线：SmartByte 商用 L2+（已发）→ 第二封换 STI 工业 L2+ PoE 补位 — 已卖中国品牌 PoE，经销商计划现成；工业 PoE 是其空白
 - 找得到人吗：satis@wi.com.tr（来源库首选（official-company/channel））；KP：无具名
 - 已触达：9-28~10-10 群发 24 口 PoE L2+ → 已发未回
@@ -88,6 +88,7 @@
 |---|---|---|---|---|
 | 来源库官网核对 | Wi / WINET 为 MikroTik Authorized Distributor，在售 Ruijie Reyee RG-ES206GS-P 千兆 PoE+ 交换机、SFP、GPON、B2B 经销商计划 |  | https://www.wi.com.tr/en | 2026-09-28 |
 | 来源库群发记录 | R71：本户一轮跟进已完成（用户报告），逐户日期/收件地址未记录 |  | External Clients/mikrotik-info/A/XA-M094 | 2026-10-12 |
+| 官网快照 | 官网在线；Network, Fiber Optic and Telecom Equipment ｜ wi.com.tr | Distributor of MikroTik, Ubiquiti, Mimosa and V-SOL. Licensed stock, fast shipping and warranty-backed technical support for enterprise networking, fiber optics and wireless. | https://www.wi.com.tr/en | 2026-10-29 |
 
 草稿（英文，第二封；Simon 发，Agent 不发）：
 
@@ -106,4 +107,5 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：轻卡：本轮未外查，沿用来源库官网核对（R53 2026-09-28 / R63 2026-10-06）。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+轻卡：本轮未外查，沿用来源库官网核对（R53 2026-09-28 / R63 2026-10-06）。

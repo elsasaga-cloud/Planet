@@ -1,6 +1,6 @@
 # XC-M126 · Dialect Skövde（evolvit.se） · 瑞典
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ IT 服务 / 系统集成 + 电信 25%：evolvit Solutions AB（Skövde Gesällgatan 1；51–100 人；MikroTik 官方分销名录）RIPE 会员页 + Crunchbase 部分坐实（org.nr 待补）；MikroTik 渠道 → SmartByte 管理型 + STI 对位；info@ / kontakt@evolvit.se） ｜ 来源 mikrotik-info `C-061`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-03 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ IT 服务 / 系统集成 + 电信 25%：evolvit Solutions AB（Skövde Gesällgatan 1；51–100 人；MikroTik 官方分销名录）RIPE 会员页 + Crunchbase 部分坐实（org.nr 待补）；MikroTik 渠道 → SmartByte 管理型 + STI 对位；info@ / kontakt@evolvit.se） ｜ 来源 mikrotik-info `C-061`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 >
 > **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：○ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ IT 服务 / 系统集成 + 电信 25%：evolvit Solutions AB（Skövde Gesällgatan 1；51–100 人；MikroTik 官方分销名录）RIPE 会员页 + Crunchbase 部分坐实（org.nr 待补）；MikroTik 渠道 → SmartByte 管理型 + STI 对位；info@ / kontakt@evolvit.se
 
@@ -48,10 +48,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，X1-03，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XC** — X1-03 补路径：○ IT 服务 / 系统集成 + 电信 25%：evolvit Solutions AB（Skövde Gesällgatan 1；51–100 人；MikroTik 官方分销名录）RIPE 会员页 + Crunchba（等级不动，池位见 sieve_x）
-- 活着吗：2026-10-29 检索命中官网 / 名录（在线）
+- 活着吗：在线（shop.evolvit.se，快照 2026-10-29）：Evolvit
 - 一句话：evolvit Solutions AB（曾用名 Dialect Skövde / Dialect Noracom）：IT 服务 / 系统集成 / 电信（51–100 人）；MikroTik 官方分销名录（shop.evolvit.se）；org.nr 一次检索未中
 - 是什么人：分销（MikroTik 官方）；evolvit Solutions AB（曾用名 Dialect Skövde / Dialect Noracom）
 - 对口哪条线：Saga STI 工业 / SmartByte 商用 PoE — ○ IT 服务 / 系统集成 + 电信 25%：evolvit Solutions AB（Skövde Gesällga
@@ -65,5 +65,7 @@
 |---|---|---|---|---|
 | 官网 / 名录 | RIPE 会员页：evolvit Solutions AB · Gesallgatan 1 Skövde · kontakt@evolvit.se |  | https://www.ripe.net/membership/indices/data/se.telefackhandeln.html | 2026-10-29 |
 | 官网 / 名录 | Crunchbase：evolvit Solutions · 51–100 · 又名 Dialect Skövde · info@evolvit.se |  | https://www.crunchbase.com/organization/evolvit-solutions | 2026-10-29 |
+| 官网快照 | 官网在线；Evolvit | Evolvit | https://shop.evolvit.se/ | 2026-10-29 |
 
-- 备注：evolvit Solutions AB（曾用名 Dialect Skövde / Dialect Noracom）；Gesällgatan 1, 541 50 Skövde；+46 500 105 300
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/evidence。
+evolvit Solutions AB（曾用名 Dialect Skövde / Dialect Noracom）；Gesällgatan 1, 541 50 Skövde；+46 500 105 300

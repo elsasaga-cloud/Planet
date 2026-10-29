@@ -23,7 +23,7 @@ s_mail: 12 msgs (out 11 / in 1), 2024-08-11 -> 2026-09-30
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: ok  # 2026-10-29
 sources: 3
 updated: 2026-10-29
 ```
@@ -35,7 +35,7 @@ updated: 2026-10-29
 - **历史互动**：推送 1 次（2025-11-06 → 2025-11-06）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：— — —；—；群发里他已看到的价（续）：2026-08-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
+- **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
@@ -52,6 +52,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2025-03-29 | 去 | Elsa 群发（BCC；To info@garmasl.com，ES 批次） | Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere | Elsa 箱群发 BCC 触达证据（命中地址 info@rister.com, rister.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | RISTER es una empresa líder en la distribución de sistemas de seguridad. — RISTER es una empresa líder en la distribución de sistemas de seguridad. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -103,10 +104,10 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（rister.com：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：在线（rister.com，快照 2026-10-29）：RISTER es una empresa líder en la distribución de sistemas de seguridad.
 - **是谁**：西班牙 Rister（销售平台型网店，「基本都是 D-Link 的」；KP Manu Mari（Chief Commercial Officer）、Fran Hita（Technical Manager）；表内「质量一般」；官网 http_error）；表内 1 次跟进无回复。
 - **类型**：网络产品网店（西班牙，D-Link 为主）
-- **在卖/在用品牌**：D-Link
+- **在卖/在用品牌**：D-Link, Extreme
 - **【用户表】表内兴趣/备注**
   > 基本都是DLINK的；销售平台
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
@@ -115,10 +116,11 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Manu Mari（）mmv@rister.com 〔用户表〕
 - **KP**：Fran Hita（）info@rister.com 〔用户表〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/brands_seen/site_contacts/deep/facts。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -136,14 +138,21 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——D-Link 位预算替代 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）
 - **邮件切入句（英文）**：Manu, alongside the D-Link range you sell, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and 24-GE + 4×10G switches from single units, CE/RoHS, EXW USD — is there a price point below D-Link that your business customers ask for?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
 
-- 尝试域名：rister.com
-  > https://rister.com/ http 468 ct=text/html
-  > https://www.rister.com/ http 468 ct=text/html
-  > http://rister.com/ http 468 ct=text/html
-- **提示**：抓取失败不代表公司不在；人工打开一次即可。
-- 数据文件：`data/saga_clients/site_snapshots/SB-433.json`
+- **首页**：https://rister.com/　语言：es　站点地图 URL 数：0
+- **标题**：RISTER es una empresa líder en la distribución de sistemas de seguridad.
+- **描述**：RISTER es una empresa líder en la distribución de sistemas de seguridad.
+- **首页栏目**：Soporte técnico / Formación / WEBINAR “Soluciones COMMEND de interfonía y megafonía” / Noticias / RISTER en el SICUR en 2 minutos / Catálogos Rister / Tienda Online / Nuestras marcas
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 13、poe 7、industrial 4、cctv 4、switch 2、camera 1
+- **站内出现的品牌**：Extreme　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RS485, NXM36, DC-1E, FM1010, DC12V, H5A-IRPTZ-DP40-WP, EABE1-2X40QF06-SPT0-AC, NXM36K1000, EABE1-2X40QF06-SPT0-M1, NXM36K1050, NXM36K2000, IRX-50
+- **站内公开邮箱**：info@rister.com, pedidos@rister.com, proyectos@rister.com, rrhh@rister.com, sat@rister.com, soporte@rister.com
+- **社媒**：https://www.linkedin.com/company/rister, https://www.youtube.com/channel/UCPEgXpzcEk8kQn1vyUwlQww
+- **已抓子页**：[catalogo](https://rister.com/content/20-catalogo-online)；[PRODUCTOS EXTREME](https://rister.com/92-productos-extreme)；[CÁMARA TÉRMICAS SEGURIDAD Y USO INDUSTRIAL](https://rister.com/camaras-termograficas/5826-camara-termicas-seguridad-y-uso-industrial.html)；[CÁMARA TÉRMICAS SEGURIDAD Y USO INDUSTRIAL](https://rister.com/camaras-termograficas/5829-camara-termicas-seguridad-y-uso-industrial.html)；[ACCESORIOS CCTV](https://rister.com/91-accesorios-cctv)；[Contacto](https://rister.com/content/16-datos-de-contacto)
+- 首页正文摘录：Configuración sobre cookies Preferencias sobre cookies Info Cookies necesarias Cookies funcionales Como eliminar cookies Utilizamos Cookies propias y de terceros para recopilar información para mejorar nuestros servicios y para análisis de tus hábitos de navegación. Si continuas navegando, supone la aceptación de la instalación de las mismas. Puedes configurar tu navegador para impedir su instalación. Cookies necesar
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 4、PoE 7 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-433.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -184,7 +193,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-433/`；本节随档案重渲染刷新，实时看日志。
 
@@ -269,7 +278,6 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

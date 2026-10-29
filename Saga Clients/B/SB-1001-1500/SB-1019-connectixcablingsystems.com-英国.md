@@ -23,7 +23,7 @@ s_mail: 9 msgs (out 8 / in 1), 2025-01-21 -> 2026-09-04
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: ok  # 2026-10-29
 sources: 3
 updated: 2026-10-29
 ```
@@ -35,7 +35,7 @@ updated: 2026-10-29
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：— — —；—；群发里他已看到的价（续，第 66 批全量复核）：2026-05-06 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
+- **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
@@ -53,6 +53,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2025-03-30 | 去 | Elsa 群发（BCC；To sales@cablenet.co.uk，UK 批次） | Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere | Elsa 箱群发 BCC 触达证据（命中地址 connectix.co.uk, matt.gill@connectix.co.uk, paul.farrelly@connectix.co.uk, sales@connectix.co.uk）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-09-04 | 去 | Elsa 群发（BCC；To sales@cablenet.co.uk，UK 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 connectix.co.uk, paul.farrelly@connectix.co.uk, sales@connectix.co.uk）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Connectix Cabling Systems | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -113,7 +114,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（connectixcablingsystems.com：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：在线（connectixcablingsystems.com，快照 2026-10-29）：Connectix Cabling Systems
 - **是谁**：英国 Connectix Cabling Systems（connectix.co.uk：结构化布线系统品牌；表内「Networking / Startech」「质量一般」；KP Matthew Craig（Product Designer））；表内未跟进。
 - **类型**：结构化布线品牌商（英国，有源为副线）
 - **在卖/在用品牌**：StarTech
@@ -126,10 +127,11 @@ updated: 2026-10-29
 - **KP**：Matthew Craig（研究档联系人（职务未核；CH 无此人）= 保留抄送（第 99 批 官方登记核实 2026-10-28））matt.craig@connectix.co.uk 〔用户表〕
 - **KP**：Tim Dickens（Director of Brands（ContactOut）= **主收件人**（自有品牌 Connectix 的产品线负责人）（第 99 批 官方登记核实 2026-10-28）） 〔https://contactout.com/company/connectix-cabling-systems-1071899〕
 - **KP**：Timothy Roland Brown（Marketing & Development Director（董事，1998-12-01 起）= 抄送；MD / PSC Kevin Arthur Hancock（创办人）（第 99 批 官方登记核实 2026-10-28）） 〔https://find-and-update.company-information.service.gov.uk/company/02814569/officers〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/deep/facts。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -148,14 +150,20 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——布线品牌配套有源 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 GE + 4×10G STC-424XGGM（$138.0）、工业千兆 MC STI-110GE（$24.3）贴 Connectix 标
 - **邮件切入句（英文）**：Matthew, to complement the Connectix cabling range with an active line, we can supply Marvell-based 8-PoE + 2 SFP and 24-GE + 4×10G L2+ switches and gigabit MCs under your label from small lots, CE/RoHS/UKCA — is an own-brand switch SKU something you are considering?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
 
-- 尝试域名：connectixcablingsystems.com, connectix.co.uk
-  > https://connectixcablingsystems.com/ http 403 ct=text/html; charset=utf-8
-  > https://www.connectixcablingsystems.com/ http 403 ct=text/html; charset=utf-8
-  > http://connectixcablingsystems.com/ http 403 ct=text/html; charset=utf-8
-- **提示**：抓取失败不代表公司不在；人工打开一次即可。
-- 数据文件：`data/saga_clients/site_snapshots/SB-1019.json`
+- **首页**：https://www.connectixcablingsystems.com/　语言：en-US　站点地图 URL 数：0
+- **标题**：Connectix Cabling Systems
+- **首页栏目**：Shop By Brand / Cookies
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 649、fibre 509、switch 245、tp-link 157、sfp 119、media converter 85、wireless 70、10g 29、cisco 29、camera 28、surveillance 28、installer 22
+- **站内型号串**（正则抽取，含非交换机）：BS6701, BS7671, SFP28, QSFP28
+- **站内公开邮箱**：edinburgh@connectix.co.uk, sales@connectix.co.uk, sales@connectix.ie
+- **站内公开电话**：+353 1 6236751, +44 131 440 4012
+- **社媒**：https://uk.linkedin.com/company/connectix-cabling-systems, https://www.instagram.com/connectixcs/
+- **已抓子页**：[Network Switches](https://www.connectixcablingsystems.com/3767-network-switches)；[Switches / Connectix Cabling Systems](https://www.connectixcablingsystems.com/531-switches)；[Flowlight / Connectix Broadband Systems](https://www.connectixcablingsystems.com/4584-flowlight)；[Network / TV & Satellite Distribution / CCS](https://www.connectixcablingsystems.com/4380-network)；[Network solutions for every environment](https://www.connectixcablingsystems.com/4227-markets)；[About Us / Connectix Cabling Systems](https://www.connectixcablingsystems.com/4223-about-us)
+- 首页正文摘录： Sign in  Products Copper Cabling Copper Cable Patch Panels Modules & Outlets Network Patch Leads Cat5e Networking Cat6 Networking Cat6a Networking Structured Cabling Courses Cable Management Fibre Networking Fibre Cable Pre-Terminated Fibre Fibre Leads & Pigtails Fibre Patch Panels & Boxes Fibre Connectors & Adapters MPO Fibre Networking Fibre Testing Fusion Splicers & Accessories Fibre Field Termination Kits Fibr
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 7、PoE 14 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1019.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -185,7 +193,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1019/`；本节随档案重渲染刷新，实时看日志。
 
@@ -273,7 +281,6 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

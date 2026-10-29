@@ -30,7 +30,7 @@ s_mail: 2 msgs (out 2 / in 0), 2024-11-20 -> 2026-03-27
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
-site_snapshot: unreachable  # 2026-10-21
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -42,7 +42,7 @@ updated: 2026-10-29
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 18 次（2024-04-28 → 2025-10-27）；最近一次客户回复：2024-11-19：1120email发了28poe
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 其问过 2 光 4 / 收过 28 PoE 报价 → 8 PoE + 2 SFP L2+ 起手；贸易商 20% 档；光模块另询；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Following the 8-port PoE quote we sent last November — if the Dubai project is still open, I can hold that price for 15 days and add the 2 SFP + 4 PoE compact model you asked about earlier; which quantity should I price?
-- **最大未知**：官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
+- **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 观察打开
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
@@ -62,6 +62,7 @@ updated: 2026-10-29
 | 2024-11-19 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「引流机型」→ 对方「1120email发了28poe」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.21 1119` |
 | 2026-03-27 | 去 | A/S 群发 | Marvell Managed Commercial Switches、8 Port Industrial PoE Switch | 2 封 / 0 次打开 / 0 回｜首封 2024-11-20 → 末封 2026-03-27（2 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | Cisco SFP-10G-LR 25个；2024.8.10 10G MC → 问了2光4；1119 引流机型 → 1120 email发了28poe | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Home - 4demand.co.uk — Repair & Installation Computer at yor home Details CCTV , ALARM & Security System Details Sales & commercial Details Smart Home Details Know Who We Are We Build New Future With Best Technology 4Demand is a holding company that emerged from the merger of several thriving compan | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -117,7 +118,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（4Demand Co：域名不可达（DNS/连接失败），2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：在线（4demand.co.uk，快照 2026-10-29）：Home - 4demand.co.uk
 - **是谁**：4Demand Ltd：2022-12 在伦敦注册的微型控股/贸易公司（<10 人，营业额 <£1M；董事 Mohsen Tavakoli Zaniani；自述由波斯湾地区多家企业合并而来，业务含 IT 服务、CCTV/报警、设备供应与进出口、Shopify API）。表内联系人 Mr. Ari（procurement@4demand.co.uk，+971 55 964 5463，WA 已加，迪拜）：2024-04 询 Cisco SFP-10G-LR ×25，2024-08 问 2 光 4，2025-11 收到 28 PoE 报价；18 次推送 1 次实质回复。贸易型买家 → B 20%。
 - **类型**：IT 贸易商
 - **规模**：待补证
@@ -143,10 +144,11 @@ updated: 2026-10-29
 - **KP**：Mr. Ari（采购（表内；WhatsApp +971 已加 → 海湾一线）= 收件人（第 102 批 官方登记核实 2026-10-28））procurement@4demand.co.uk +971 55 964 5463（WA 已加）〔用户 Clients 表〕
 - **KP**：Mohsen Tavakoli Zaniani（Director / PSC 75–100%（*1992-02；British；Companies House 14564199，2022-12-30 起）= 拍板人（抄送 / 点名）（第 102 批 官方登记核实 2026-10-28）） 〔Companies House（经 Endole）〕
 - **调研后定级**：A（原自动 A）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/deep/facts。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 WA 一次性告知可供兼容 SFP+（如 Saga 有渠道）并带上 STC 10G 上联机型；无回应即停。 ｜ 国别更正为「英国」（country_fix）：研究档已核 4DEMAND LTD（Companies House 14564199，伦敦地址）；表内「阿联酋」来自 +971 联系人手机（Q-65 国别机检 2026-10-27）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（Companies House + 官网核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（Companies House + 官网核对） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -170,14 +172,18 @@ WA 一次性告知可供兼容 SFP+（如 Saga 有渠道）并带上 STC 10G 上
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——其问过 2 光 4 / 收过 28 PoE 报价 → 8 PoE + 2 SFP L2+ 起手；贸易商 20% 档；光模块另询
 - **邮件切入句（英文）**：Following the 8-port PoE quote we sent last November — if the Dubai project is still open, I can hold that price for 15 days and add the 2 SFP + 4 PoE compact model you asked about earlier; which quantity should I price?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名不可达（DNS/连接失败））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
 
-- 尝试域名：4demand.co.uk
-  > https://4demand.co.uk/ conn: HTTPSConnectionPool(host='4demand.co.uk', port=443): Max retries exceeded with url: / (Caused by NewConnectionError("HTT
-  > https://www.4demand.co.uk/ conn: HTTPSConnectionPool(host='www.4demand.co.uk', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(
-  > http://4demand.co.uk/ conn: HTTPConnectionPool(host='4demand.co.uk', port=80): Max retries exceeded with url: / (Caused by NewConnectionError("HTTPC
-- **提示**：域名不可达 → 表内域名可能拼错/过期；跟进前核对邮箱域名。
-- 数据文件：`data/saga_clients/site_snapshots/SB-040.json`
+- **首页**：https://www.4demand.co.uk/　语言：en-GB　站点地图 URL 数：9
+- **标题**：Home - 4demand.co.uk
+- **描述**：Repair & Installation Computer at yor home Details CCTV , ALARM & Security System Details Sales & commercial Details Smart Home Details Know Who We Are We Build New Future With Best Technology 4Demand is a holding company that emerged from the merger of several thriving companies with a proven track
+- **首页栏目**：Repair & Installation Computer at yor home / CCTV , ALARM & Security System / Sales & commercial / Smart Home / We Build New Future With Best Technology / Services / Computer Repair at home / Smart Home (BMS)
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cctv 3、surveillance 3
+- **站内公开邮箱**：info@4demand.co.uk
+- **社媒**：https://t.me/fortechuk, https://wa.me/447455112115
+- **已抓子页**：[About Us - 4demand.co.uk](https://www.4demand.co.uk/about-us/)；[Contact Us - 4demand.co.uk](https://www.4demand.co.uk/contact-us/)；[Services - 4demand.co.uk](https://www.4demand.co.uk/services/)
+- 首页正文摘录：Skip to content Home Services Sales & Commercial IT Security System Smart Homes Contact Us About Us Menu Home Services Sales & Commercial IT Security System Smart Homes Contact Us About Us Get a QUOTE Repair & Installation Computer at yor home Details CCTV , ALARM & Security System Details Sales & commercial Details Smart Home Details Know Who We Are We Build New Future With Best Technology 4Demand is a holding compa
+- 数据文件：`data/saga_clients/site_snapshots/SB-040.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -223,14 +229,14 @@ WA 一次性告知可供兼容 SFP+（如 Saga 有渠道）并带上 STC 10G 上
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-27T08:02:45Z
+- **监控层**：A 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-040/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://4demand.co.uk/) | html | ConnectionError: HTTPSConnectionPool(host='4demand.co.uk', p | 2026-10-27T08:02:45Z | 官网首页（T27 快照状态 unreachable） |
-| [feed_auto](https://www.4demand.co.uk/feed/) | rss | ConnectionError: HTTPSConnectionPool(host='www.4demand.co.uk | 2026-10-27T08:02:45Z | 首页自动发现的 feed |
+| [home](https://4demand.co.uk/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 1317 字符；首行：Home - 4demand.co.uk |
+| [feed_auto](https://www.4demand.co.uk/feed/) | rss | HTTP 200 | 2026-10-29T15:11:51Z | 5 条；最新：Mon, 20 Feb 2023 21:48:08 Hello world! |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -305,7 +311,6 @@ WA 一次性告知可供兼容 SFP+（如 Saga 有渠道）并带上 STC 10G 上
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

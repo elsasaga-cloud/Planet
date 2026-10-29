@@ -26,7 +26,7 @@ s_mail: 29 msgs (out 29 / in 0), 2024-07-04 -> 2026-09-25
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -57,6 +57,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-25 | 去 | A/S 群发 | Marvell Industrial Alert System、8 Port Industrial PoE Switch | 29 封 / 2 次打开 / 0 回｜首封 2024-07-04 → 末封 2026-09-25（29 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 光路的10GMC SFP 商业FS 少部分工业FS 自己的logo | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：fiberdyne.com MX fiberdyne-com.mail.protection.outlook.com.；A 209.17.116.160；NS ns2-04.azure-dns.net. / ns3-04.azure-dns.org. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -133,7 +134,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（fiberdyne.com：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（fiberdyne.com：HTTP 错误，2026-10-29，第 2 次）
 - **是谁**：美国 Fiberdyne（官网快照 HTTP 错误；表内「光路的 10G MC、SFP、商业 FS，少部分工业 FS 自己的 logo」；KP Jeremy Nulty（International Sales Director）、Ken Misterka（VP Purchasing）、Peter Polus）；群发 18 次无回复。
 - **类型**：光纤产品品牌商（美国，自有标 FS/MC）
 - **【用户表】表内兴趣/备注**
@@ -145,7 +146,8 @@ updated: 2026-10-29
 - **KP**：Ken Misterka（VP Purchasing（2001 起）/ VP Logistics（2008 起）= **采购拍板人本人** —— 制造商采购要的是配套 / 贴牌，不是价表（第 89 批 官方登记核实 2026-10-27））sales@fiberdyne.com 〔用户表〕
 - **KP**：Jeremy Nulty（） 〔用户表〕
 - **KP**：Peter Polus（Founder / Chairman（1992 创立；Polus 家族所有；CEO 为 A. Peter Polus III）（第 89 批 官方登记核实 2026-10-27））peter@fiberdyne.com 〔用户表〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -167,7 +169,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——自有 logo 商用 FS → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）；工业位 STI-288GPM（$85.5）；10G MC / SFP Saga 不供（Q-32）
 - **邮件切入句（英文）**：Ken, for the switches sold under the Fiberdyne label, we can supply Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail industrial 8-PoE + 2 SFP models in your packaging from small lots, FCC/CE/RoHS — which switch SKU do your distributors reorder most?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：fiberdyne.com
   > https://fiberdyne.com/ http 403 ct=text/html
@@ -232,7 +234,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-352/`；本节随档案重渲染刷新，实时看日志。
 

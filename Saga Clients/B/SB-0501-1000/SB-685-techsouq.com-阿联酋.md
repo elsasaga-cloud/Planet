@@ -29,7 +29,7 @@ s_mail: 21 msgs (out 20 / in 1), 2024-09-08 -> 2026-04-08
 p1: STI-110GE
 price_tier: 20%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -148,7 +148,8 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Ahmad Pervez（Managing Director（ZoomInfo，2009 至今；2024-09 回 interesting）= 拍板人 / 收件人 — 一页纸一次：分销 20% B small、电商上架 STC-028GP $28 / STC-228GP / STC-2216GP 一口价 + MOQ 1 + 付费样机 + DAP 迪拜、机架 / 周边不做明说 — 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜、TDRA / ESMA 不声称（第 119 批 官方登记核实 2026-10-28））ahmad@techsouq.com +971 50 653 4953〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Shifan Shivani（Co-Founder（研究档 Shifan Shivani）= 抄送（第 119 批 官方登记核实 2026-10-28））info@techsouq.com +971 4 355 0600〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 （无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（名录 + 官网核对））
@@ -168,7 +169,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-110GE（20% 档）——MC 需求 → STI-110GE 起手；16 槽 MC 机架按 SmartByte 型号另询并注明。
 - **邮件切入句（英文）**：Ahmad, you flagged the media-converter rack and accessories as interesting — do you want to list a gigabit MC (single-fibre 20 km) with a 16-slot rack as a bundle? I'll quote both EXW from 1 set.
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：techsouq.com
   > https://techsouq.com/ http 403 ct=text/html; charset=utf-8
@@ -228,7 +229,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-685/`；本节随档案重渲染刷新，实时看日志。
 

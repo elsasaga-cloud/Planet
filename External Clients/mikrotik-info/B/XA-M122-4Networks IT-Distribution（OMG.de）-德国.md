@@ -1,6 +1,6 @@
 # XA-M122 · 4Networks IT-Distribution（OMG.de） · 德国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 mikrotik-info `A-477`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R01 2026-10-27）→ 下一动作 第二封
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 mikrotik-info `A-477`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 第二封
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱（含实名 KP）
@@ -77,13 +77,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W1-R01，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XA** — DE 主攻区多牌分销、KP 实名、跨库并线后信息最全 → 维持 A
-- 活着吗：来源库 2026-09-28 官网核对在线；本轮未复查
+- 活着吗：在线（omg.de，快照 2026-10-29）：OMG.DE - WLAN, Richtfunk & Smart Home vom Fachhändler
 - 一句话：4Networks IT-Distribution（Teltonika/MikroTik/Cambium 分销）及其零售网店 OMG.de（MikroTik CRS 现货、UniFi、Teltonika），设 Enterprise 伙伴与安装商计划；CEO Thilko Cullmann、销售负责人 Bernd Eisenhauer。CCTV 库 XA-C0002 并入本号。
 - 是什么人：IT 分销（MikroTik/Teltonika/Cambium）+ 网店；规模：小型（未查）
-- 在卖/在用：MikroTik、Teltonika、Cambium、Ubiquiti
+- 在卖/在用：MikroTik、Teltonika、Cambium、Ubiquiti、Hikvision、Zyxel
 - 对口哪条线：SmartByte 商用 L2+（已发）→ 第二封换 STI 工业 L2+ PoE 补位 — 多牌分销 + 安装商计划，工业 PoE 可与 Teltonika 工业路由配套
 - 找得到人吗：info@4networks.de（来源库首选（official-company/channel））；KP：Thilko Cullmann（CEO，4networks.de 官网/Impressum）；Bernd Eisenhauer（Head of Sales，LinkedIn 谱）
 - 已触达：9-28~10-10 群发 24 口 PoE L2+ → 已发未回
@@ -95,6 +95,7 @@
 |---|---|---|---|---|
 | 来源库官网核对 | OMG.DE 为 WLAN/定向无线专业零售商，MikroTik 品牌专区含 CRS520 现货，另 Ubiquiti/Teltonika/Cambium，设 Enterprise 伙伴与安装商计划 |  | https://www.omg.de/ | 2026-09-28 |
 | 来源库群发记录 | R71：本户一轮跟进已完成（用户报告），逐户日期/收件地址未记录 |  | External Clients/mikrotik-info/A/XA-M122 | 2026-10-12 |
+| 官网快照 | 官网在线；OMG.DE - WLAN, Richtfunk & Smart Home vom Fachhändler | Top-Produkte für WLAN, Richtfunk, Smart Home & mehr. Jetzt online bei OMG.DE bestellen! Schneller Versand ✓ Kompetenter Support ✓ Jetzt entdecken! | https://www.omg.de/ | 2026-10-29 |
 
 草稿（英文，第二封；Simon 发，Agent 不发）：
 
@@ -113,4 +114,5 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：轻卡：本轮未外查，沿用来源库官网核对（R53 2026-09-28 / R63 2026-10-06）。 并线自 XA-C0002（omg.de）。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+轻卡：本轮未外查，沿用来源库官网核对（R53 2026-09-28 / R63 2026-10-06）。 并线自 XA-C0002（omg.de）。

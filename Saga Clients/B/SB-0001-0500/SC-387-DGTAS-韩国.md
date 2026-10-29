@@ -29,7 +29,7 @@ s_mail: 26 msgs (out 26 / in 0), 2024-12-11 -> 2026-09-25
 p1: STC-424XGGPM-280W
 price_tier: 30%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 3
 updated: 2026-10-29
 ```
@@ -59,6 +59,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ★ 摄像机厂 · OEM 30%：(주)디지타스 DGTAS（안산；사업자 114-87-02536；대표 최상윤；AHD / IP 摄像机 R&D 制造）坐实；制造商 ✔ 微信路径 ✔ 对位 ✔ 坐实 ✔ → P 池候选 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 登记底数（registry） | KR · 1 次检索：dgtas.co.kr（页脚 사업자 / 대표 / 地址 / 产品页）；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | 주식회사 디지타스 | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -126,10 +127,11 @@ updated: 2026-10-29
 - **KP**：—（表内邮箱（公开 / 总机））leey@dgtas.co.kr 〔〕
 - **KP**：—（表内邮箱（公开 / 总机））dgtas@dgtas.co.kr 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 摄像机厂 · OEM 30%：(주)디지타스 DGTAS（안산；사업자 114-87-02536；대표 최상윤；AHD / IP 摄像机 R&D 制造）坐实；制造商 ✔ 微信路径 ✔ 对位 ✔ 坐实 ✔ → P 池候选；闸 1：韩国 DGTAS（dgtas.co.kr；摄像头厂商，有客户项目，要「可远程控制的 PoE switch」配套；Evelyn 加了微信，KP Lily）：自有品牌摄像头 ✔ 微信在 ✔ Simon 点名韩国；邮件 37 次 0 回 → 闸…
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/saga_fit.basis/deep/facts。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -142,6 +144,18 @@ updated: 2026-10-29
   - 表内兴趣：公司做摄像头的，有客户。让帮忙配一套，需要可以远程控制的poe switch
 - **风险/边界**：**摄像机厂配套 PoE → OEM 30%：微信 / 邮件一页纸一次（STC-028GP $28 / STC-228GP $33 贴牌 DGTAS + 中性包装 + MOQ 1 + 付费样机）— 韩国常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳；无 KC（买方自行认证，SDT 先例）；周二 / 周四 10–12 KST**
 - **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://www.dgtas.co.kr/　语言：ko　站点地图 URL 数：0
+- **标题**：주식회사 디지타스
+- **首页栏目**：(주)디지타스
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 21
+- **站内型号串**（正则抽取，含非交换机）：GID-8101S15RV2, GIM-265S07HC, GIM-264S07HC, GID-485S35RV1, GIP-568S07HA-36X, GIP-568S07HE3-22X, GIP-268S07HE-22X, GIP-578S07HE3-22X, GIP-278S07HE-22X, GIP-566S07HE3-22X, GIP-266S07HE-22X, GIP-545S35HEM-51
+- **站内公开邮箱**：dgtas@dgtas.co.kr, help@anybuild.co.kr
+- **已抓子页**：[[제품] CAMERA 주식회사 디지타스](https://www.dgtas.co.kr/myboard/myboard3)；[주식회사 디지타스](https://www.dgtas.co.kr/shop_info/agree.htm)；[공지사항 주식회사 디지타스](https://www.dgtas.co.kr/bbs_shop/list.htm?board_code=notice)；[현장 주식회사 디지타스](https://www.dgtas.co.kr/shop_contents/myboard_read.htm?myboard_code=myboard2&myboard_idx=28043&idx=94422)
+- 首页正文摘录：Toggle Left Side 전체보기 회사소개 디지타스 인사말 주요연혁 인증현황 오시는길 공지사항 제조사업 연구·개발 제조·양산 [제품] CAMERA [제품] 전자기기 다운로드 리퍼비시사업 리퍼비시 리퍼비시공정 리퍼비시연혁 현장 수리서비스사업 CS·수리 위탁 서비스 세부내역 CS 통합 프로그램 유통사업 회사소개 디지타스 인사말 주요연혁 인증현황 오시는길 공지사항 제조사업 연구·개발 제조·양산 [제품] CAMERA [제품] 전자기기 다운로드 리퍼비시사업 리퍼비시 리퍼비시공정 리퍼비시연혁 현장 수리서비스사업 CS·수리 위탁 서비스 세부내역 CS 통합 프로그램 유통사업 메뉴 선택 LOGIN REGISTER 상담문의 성공을 위한 완벽한 첫 걸음 전자제품의 개발부터 제조, CS, 수리·리퍼비시까지 하나의 프로세스로 운영합니다. DGTAS 주식회사 디
+- 数据文件：`data/saga_clients/site_snapshots/SC-387.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -215,12 +229,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-387/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://dgtas.co.kr/) | html | 待首轮 | — | 官网首页 |
+| [home](https://dgtas.co.kr/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 1303 字符；首行：주식회사 디지타스 |
 
 ## 联系方式（已有 · 原值照录）
 

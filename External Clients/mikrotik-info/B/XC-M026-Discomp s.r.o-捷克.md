@@ -1,12 +1,12 @@
 # XC-M026 · Discomp s.r.o. · 捷克
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：与 Saga SC-1335 同一公司 → 随主档等级 B（复核随主档，不单列）） ｜ 来源 mikrotik-info `A-495`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T01 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：与 Saga SC-1335 同一公司 → 随主档等级 B（复核随主档，不单列）） ｜ 来源 mikrotik-info `A-495`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 >
 > **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（随 Saga `SC-1335`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-1335 同一公司（经 discomp.cz）→ 随 Saga 档：pool（闸 3，★ P 池正式入池（档位 ★）：★ 中型分销 20%：DISCOMP s.r.o.（25236792；Plzeň 1999；50–99 人；Planet 渠道；具名 Dan Pacanda / Milan Harmáček）坐实；对位 ✔ ）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-1335，经 discomp.cz）→ 以 Saga 档为准，本条不单独跟
-- 研究后改级：XC → **XB**（LT-T01，Q-76 LT-01 2026-10-29：与 Saga SC-1335 同一公司 → 随主档等级 B（复核随主档，不单列））；编号不变
+- 研究后改级：XC → **XB**（LT-T03，Q-76 LT-01 2026-10-29：与 Saga SC-1335 同一公司 → 随主档等级 B（复核随主档，不单列））；编号不变
 - 人工改级：XB（2026-10-29，Q-76 LT-01 2026-10-29：与 Saga SC-1335 同一公司 → 随主档等级 B（复核随主档，不单列））；编号不变
 - 标记：重复=Saga
 - 与 Saga Clients 重叠：**SC-1335**（Saga 评级 C，经域名 discomp.cz）→ 以 Saga 档为主；本条只保留来源库事实
@@ -77,13 +77,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，LT-T01，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — Q-76 LT-01 2026-10-29：与 Saga SC-1335 同一公司 → 随主档等级 B（复核随主档，不单列）
-- 活着吗：域名 discomp.cz MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓
+- 活着吗：在线（discomp.cz，快照 2026-10-29）：Discomp | dodÃ¡vÃ¡me sÃ­Å¥ovÃ© prvky a bezdrÃ¡tovÃ© ÅeÅ¡enÃ­ pro firmy
 - 一句话：Discomp s.r.o.（捷克）：分销（MikroTik 官方）；MikroTik（Master+VAD+WiFi6）
 - 是什么人：分销（MikroTik 官方）
-- 在卖/在用：MikroTik
+- 在卖/在用：MikroTik、Ubiquiti、TP-Link、Huawei、Cambium、Uniview、D-Link、Hikvision、Ruijie、Grandstream、Teltonika
 - 对口哪条线：STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）
 - 找得到人吗：sales@discomp.cz（活（来源库 9 月核对））；KP：Ladislav Kotal（IT specialista(LinkedIn 员工页谱)，third-party-LinkedIn·谱/leads-only(直发需 opt-in)）
 - 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
@@ -95,5 +95,7 @@
 |---|---|---|---|---|
 | 来源库官网/名录核对 | 分销（MikroTik 官方） |  | https://discomp.cz | 2026-10-12 |
 | 来源库证据链接 | 来源库调研时引用 |  | https://www.discomp.cz | 2026-10-12 |
+| 官网快照 | 官网在线；Discomp ｜ dodÃ¡vÃ¡me sÃ­Å¥ovÃ© prvky a bezdrÃ¡tovÃ© ÅeÅ¡enÃ­ pro firmy | Best distributor of WiFi, fiber optic and LAN components, camera systems, brackets and racks â­ thousands products in stock and ready for immediate delivery! | https://www.discomp.cz/ | 2026-10-29 |
 
-- 备注：LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。

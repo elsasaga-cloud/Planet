@@ -1,6 +1,6 @@
 # XC-M194 · Tektraco · 马耳他
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 电信基础设施分销 20%：Tektraco Ltd.（San Gwann；C11363；VAT MT1204-6917；1990 起；10–49 人；GPON / OSP 光纤 / LAN / 测试线，另有实验室 / 医疗气体业务）坐实；Westermo Reseller → FS / STI 对位；sales@ / telecomsales@tektraco.com，CEO K. Scibe） ｜ 来源 mikrotik-info `C-129`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-02 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 电信基础设施分销 20%：Tektraco Ltd.（San Gwann；C11363；VAT MT1204-6917；1990 起；10–49 人；GPON / OSP 光纤 / LAN / 测试线，另有实验室 / 医疗气体业务）坐实；Westermo Reseller → FS / STI 对位；sales@ / telecomsales@tektraco.com，CEO K. Scibe） ｜ 来源 mikrotik-info `C-129`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 >
 > **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：○ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 电信基础设施分销 20%：Tektraco Ltd.（San Gwann；C11363；VAT MT1204-6917；1990 起；10–49 人；GPON / OSP 光纤 / LAN / 测试线，另有实验室 / 医疗气体业务）坐实；Westermo Reseller → FS / STI 对位；sales@ / telecomsales@tektraco.com，CEO K. Sciberras 具名
 
@@ -48,10 +48,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，X1-02，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XC** — X1-02 补路径：○ 电信基础设施分销 20%：Tektraco Ltd.（San Gwann；C11363；VAT MT1204-6917；1990 起；10–49 人；GPON / OSP 光纤 / LAN / 测试线，另有实验室 /（等级不动，池位见 sieve_x）
-- 活着吗：2026-10-29 检索命中官网 / 名录（在线）
+- 活着吗：在线（tektraco.com，快照 2026-10-29）：Tektraco
 - 一句话：Tektraco Ltd.：电信基础设施（GPON / OSP 光纤 / LAN / 测试）+ 实验室 / 医疗气体分销；10–49 人；CEO K. Sciberras ksciberras@（出口名录）
 - 是什么人：分销（Westermo Reseller）；Tektraco Ltd.
 - 对口哪条线：Saga STI 工业 / SmartByte 商用 PoE — ○ 电信基础设施分销 20%：Tektraco Ltd.（San Gwann；C11363；VAT MT1204-691
@@ -65,5 +65,7 @@
 |---|---|---|---|---|
 | 官网 / 名录 | Malta Exporters 名录：Tektraco Ltd · C11363 · 1990 · 10–49 人 · ksciberras@tektraco.com |  | https://maltaexporters.mt/directory-listings/tektraco-ltd/ | 2026-10-29 |
 | 官网 / 名录 | Tektraco Telecoms Contact：sales@tektraco.com · telecomsales@ · GPON / OSP / LAN |  | https://www.tektracotelecoms.com/contact-us | 2026-10-29 |
+| 官网快照 | 官网在线；Tektraco | Tektraco is an award-winning project engineering company which provides expertise in specialised fields of science and technology. | https://tektraco.com/ | 2026-10-29 |
 
-- 备注：Tektraco Ltd.；176 Birkirkara Road, San Gwann SGN 4190, Malta；C11363；VAT MT1204-6917；1990 起；+356 21 378 088
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence。
+Tektraco Ltd.；176 Birkirkara Road, San Gwann SGN 4190, Malta；C11363；VAT MT1204-6917；1990 起；+356 21 378 088

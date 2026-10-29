@@ -1,10 +1,10 @@
 # XA-M011 · Charalampos Marinakis / SystemCon · 希腊
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 mikrotik-info `A-021`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W2-R05d 2026-10-27）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 mikrotik-info `A-021`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱
-- 研究后改级：XA → **XB**（W2-R05d，顾问/培训/小集成商，非渠道 → B（不进第二封））；编号不变
+- 研究后改级：XA → **XB**（LT-T03，顾问/培训/小集成商，非渠道 → B（不进第二封））；编号不变
 - 人工改级：XB（2026-10-29，Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径））；编号不变
 - 标记：无
 - 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
@@ -71,13 +71,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W2-R05d，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — 顾问/培训/小集成商，非渠道 → B（不进第二封）
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：在线（systemcon.gr，快照 2026-10-29）：SystemCon – Innovative IT Solutions. Reliable Results.
 - 一句话：集成商/顾问（Systemcon）；MikroTik 认证顾问：自己做方案/集成/运维并自行采购设备 → 用 ERPS/IGMP/VLAN/CLI/MIB 这类技术语言切入，不打价格战
 - 是什么人：集成商/顾问（Systemcon）；规模：未量化
-- 在卖/在用：MikroTik 认证顾问 MTCNA、MTCINE
+- 在卖/在用：MikroTik 认证顾问 MTCNA、MTCINE、Ubiquiti
 - 对口哪条线：—
 - 找得到人吗：info@systemcon.gr（来源库公开邮箱）；KP：无具名
 - 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
@@ -88,5 +88,7 @@
 | 类型 | 说明 | 摘录 | 来源 | 日期 |
 |---|---|---|---|---|
 | 来源库官网/名录核对 | ★ 公司同时交付硬件与软件网络系统（从小型企业到企业级），并提供安装/配置/支持/管理的认证专业服务；核心服务：网络设计、Routing、Switching、防火墙安全、HotSpot 与用户管理、VPN、负载均衡与故障切换、高可用、流量整形与 QoS、无线、SLA 支持服务 |  | https://systemcon.gr/ | 2026-09-28 |
+| 官网快照 | 官网在线；SystemCon – Innovative IT Solutions. Reliable Results. | SystemCon – Innovative IT Solutions. Reliable Results. | https://systemcon.gr/ | 2026-10-29 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+轻卡：本轮未外查，沿用来源库官网/名录核对。

@@ -23,7 +23,7 @@ s_mail: 29 msgs (out 29 / in 0), 2024-07-09 -> 2026-08-28
 p1: STI-288GPM
 price_tier: 25%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2026-08-28 | 去 | A/S 群发 | 10G Enterprise SFP Switch、Managed Optical Bypass Switch | 29 封 / 1 次打开 / 0 回｜首封 2024-07-09 → 末封 2026-08-28（29 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | PoE 工业级交换机；1 817 896 3203(USA) 151 1888 7211(China) | 表内备注 | `用户表` |
 | 2026-08-28 | 去 | A 箱（Alan） | 24 Port PoE Managed Switch | 本日去信真实主题（邮箱索引 bd57a2d454286a68；信稿开头句引用此封；此前稿内写的「10G Enterprise SFP Switch」是线程列表首题，不是本封） | `bd57a2d454286a68` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：it2ss.com MX mail.it2ss.com.；A 50.116.95.52；NS hgns2.hostgator.com. / hgns1.hostgator.com. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -129,7 +130,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（ITSS Inc/：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（it2ss.com：HTTP 错误，2026-10-29，第 2 次）
 - **是谁**：美国 ITSS Inc（it2ss.com；表内「PoE 工业级交换机」；KP Jehad Alasad（CEO），电话美国 1 817 896 3203 / 中国 151 1888 7211；官网 http_error）；群发 18 次无回复。
 - **类型**：IT 方案/贸易商（美国，有国内联系方式）
 - **【用户表】表内兴趣/备注**
@@ -139,7 +140,8 @@ updated: 2026-10-29
   > PoE 工业级交换机
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Jehad Alasad（CEO / President（兼 VastMed LLC CEO；Alasad 家族多元集团老板）= 拍板人（第 93 批 官方登记核实 2026-10-28））jalasad@it2ss.com 〔用户表〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -161,7 +163,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-288GPM（25% 档）——PoE 工业级交换机 → 工业管理 8 PoE + 2 SFP STI-288GPM（$82.2 @25%）、非管理 STI-288GP（$59.8）、4 PoE + 1 SFP STI-154GP（$39.2）
 - **邮件切入句（英文）**：Jehad, for the industrial PoE switches you source, we supply DIN-rail 4-PoE + 1 SFP and 8-PoE + 2 SFP units (managed on Marvell L2+, or unmanaged, −40~75 °C, FCC/CE/RoHS) from single units, EXW USD — which configuration do your current projects need?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：it2ss.com
   > https://it2ss.com/ http 403 ct=text/html
@@ -224,7 +226,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-730/`；本节随档案重渲染刷新，实时看日志。
 

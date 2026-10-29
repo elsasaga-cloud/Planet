@@ -23,7 +23,7 @@ s_mail: 26 msgs (out 26 / in 0), 2024-06-25 -> 2026-09-18
 p1: STI-110GE
 price_tier: 30%
 research: done
-site_snapshot: timeout  # 2026-10-21
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -35,7 +35,7 @@ updated: 2026-10-29
 - **历史互动**：推送 17 次（2024-05-03 → 2025-10-16）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 自有标 MC/工业 FS → 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）、工业 8 GE + 2 SFP STI-280GE（$50.5）作二供；SFP/光猫 Saga 不供。已打开的主题（2/26 封有打开记录）：「24 Port Fiber Switch」(2025-02-03)、「Mini Industrial PoE Switch」(2025-09-10) → 读者兴趣偏「MC/光电」；当前 P1 属「10G 汇聚/L3」，下一封按「MC/光电」给，不按 P1｜已发资料（勿重发）：Product Link_2026Q2(2026-02-27)、Product Link_2026Q3(2026-07-14)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-18 $220（48 port managed switch）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-03 $240（24 Port Fiber Switch）、2025-10-16 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the media converters and industrial switches sold under the Fibertek label, we can be a second ODM source (gigabit/PoE MCs, DIN-rail 8-GE + 2 SFP, −40~75 °C, CE/RoHS) from small lots, EXW USD — which MC or switch SKU do you reorder most? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：2026-11 A 邮箱 → sales@fibertek-ap.com 短信一问（email_hook）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
@@ -54,6 +54,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-18 | 去 | A/S 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 26 封 / 2 次打开 / 0 回｜首封 2024-06-25 → 末封 2026-09-18（26 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS 多功能VC SFP MC 光猫 看着像国内的外壳 周边产品 小壳系列 自己的牌子 | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | FiberTek \| A top supplier in fiber optic panels & cables — FiberTek provides fiber optic cables, fiber patch panel, fiber optic test equipment, fiber media converters and other fiber optic products since 1999. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -122,7 +123,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（fibertek-ap.com：超时（站慢或封锁），2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：在线（fibertek-ap.com，快照 2026-10-29）：FiberTek | A top supplier in fiber optic panels & cables
 - **是谁**：新加坡 Fibertek-AP（自有品牌：工业 FS、多功能 VC、SFP、MC、光猫、小壳系列周边产品；表内「看着像国内的外壳」；官网超时）；群发 17 次无回复。
 - **类型**：光网络产品自有品牌商（新加坡，疑似国内货源）
 - **【用户表】表内兴趣/备注**
@@ -131,10 +132,11 @@ updated: 2026-10-29
 - **【用户表】自己的牌子 像国内外壳**
   > 工业FS 多功能VC SFP MC 光猫 看着像国内的外壳 周边产品 小壳系列 自己的牌子
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/deep/facts。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -152,14 +154,21 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-110GE（30% 档）——自有标 MC/工业 FS → 工业千兆 MC STI-110GE（$24.3 @30%）、工业 PoE MC STI-111GP（$30.1）、工业 8 GE + 2 SFP STI-280GE（$50.5）作二供；SFP/光猫 Saga 不供
 - **邮件切入句（英文）**：For the media converters and industrial switches sold under the Fibertek label, we can be a second ODM source (gigabit/PoE MCs, DIN-rail 8-GE + 2 SFP, −40~75 °C, CE/RoHS) from small lots, EXW USD — which MC or switch SKU do you reorder most?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：超时（站慢或封锁））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
 
-- 尝试域名：fibertek-ap.com
-  > https://fibertek-ap.com/ timeout
-  > https://www.fibertek-ap.com/ conn: HTTPSConnectionPool(host='www.fibertek-ap.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutErr
-  > http://fibertek-ap.com/ timeout
-- **提示**：抓取失败不代表公司不在；人工打开一次即可。
-- 数据文件：`data/saga_clients/site_snapshots/SB-506.json`
+- **首页**：https://www.fibertek-ap.com/　语言：en　站点地图 URL 数：383
+- **标题**：FiberTek / A top supplier in fiber optic panels & cables
+- **描述**：FiberTek provides fiber optic cables, fiber patch panel, fiber optic test equipment, fiber media converters and other fiber optic products since 1999.
+- **首页栏目**：Global Source For Fiber Optic Products And Solutions / Explore our Products / Featured Products / News & Highlights / Follow Us / Login Required
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 573、cable 308、ethernet 239、industrial 84、media converter 76、gigabit 45、poe 43、sfp 22、10g 12、cctv 7、switch 6
+- **站内型号串**（正则抽取，含非交换机）：FCRID-1EN-1R2, DPPY12, FCNCS-110GN-110GS, FCNID-1EP-1ES, FCNID-4EP-2ES, FCNID-1GP-1GS, FCNID-4GP-2GS, FCNID-8GP-2GS, FCNCS-1GP-1GS, FCNID-1EN-1ES, FCNID-4EN-2ES, FCNID-1GN-1GS
+- **站内公开邮箱**：sales@fibertek-ap.com
+- **站内公开电话**：+65 6280 1966
+- **产品类页面**：https://www.fibertek-ap.com/category/fiber-media-converter-poe-converter-industrial-fast-ethernet-poe-converte…；https://www.fibertek-ap.com/category/fiber-media-converter-poe-converter-industrial-gigabit-ethernet-poe-conve…；https://www.fibertek-ap.com/product/industrial-fast-ethernet-poe-converter-fcnid-1ep-1es-series；https://www.fibertek-ap.com/product/industrial-gigabit-ethernet-poe-converter-fcnid-1gp-1gs-series；https://www.fibertek-ap.com/category/fiber-media-converter-poe-converter；https://www.fibertek-ap.com/category/serial-server-industrial-serial-server
+- **已抓子页**：[Industrial Fast Ethernet POE Converter / FiberTek](https://www.fibertek-ap.com/category/fiber-media-converter-poe-converter-industrial-fast-ethernet-poe-converter)；[Industrial Gigabit Ethernet POE Converter / FiberTek](https://www.fibertek-ap.com/category/fiber-media-converter-poe-converter-industrial-gigabit-ethernet-poe-converter)；[Industrial Ethernet Media Converter / FiberTek](https://www.fibertek-ap.com/category/fiber-media-converter-industrial-ethernet-media-converter)；[Commercial Gigabit Ethernet POE Converter / FiberTek](https://www.fibertek-ap.com/category/fiber-media-converter-poe-converter-commercial-gigabit-ethernet-poe-converter)；[Industrial Fast Ethernet Converter / FiberTek](https://www.fibertek-ap.com/category/fiber-media-converter-industrial-ethernet-media-converter-industrial-fast-ethernet-converter)；[Industrial Gigabit Ethernet Converter / FiberTek](https://www.fibertek-ap.com/category/fiber-media-converter-industrial-ethernet-media-converter-industrial-gigabit-ethernet-converter)
+- 首页正文摘录：The Global Source For Fiber Optic Products and Solutions Our Online Shop +65 6280 1966 sales@fibertek-ap.com Sign in 0 No Request Quote Menu All Products Fiber Optic Cables Custom Cables Termination Accessories Fiber Optic Patch Panel Fiber Optic Enclosure Ethernet Network MPO Solution Fiber Media Converter Fiber Optic Termination Tools Optical Test Equipment Serial Server Back Fiber Optic Patch Cable Armoured Patch 
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 84、PoE 43 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-506.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -216,7 +225,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-506/`；本节随档案重渲染刷新，实时看日志。
 
@@ -297,7 +306,6 @@ updated: 2026-10-29
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

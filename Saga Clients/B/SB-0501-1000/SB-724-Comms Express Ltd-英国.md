@@ -26,7 +26,7 @@ s_mail: 28 msgs (out 28 / in 0), 2024-07-02 -> 2026-10-07
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -57,6 +57,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-10-07 | 去 | A/S 群发 | Industrial PoE Switch、24 Port PoE Managed Switch | 28 封 / 0 次打开 / 0 回｜首封 2024-07-02 → 末封 2026-10-07（28 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | Switch 光纤配件 销售平台 | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：comms-express.com MX d235690.a.ess.uk.barracudanetworks.com. / d235690.b.ess.uk.barracudanetworks.com.；A 104.20.24.54 / 172.66.162.129；NS kayleigh.ns.cloudflare.com. / vick.ns.cloudflare.com. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -133,7 +134,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（Comms Express Ltd：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（comms-express.com：HTTP 错误，2026-10-29，第 2 次）
 - **是谁**：英国 Comms Express Ltd（网络/布线产品电商：交换机、光纤配件；表内「销售平台」「可以多跟进一下」；KP Justin Ellis（Managing Director）；官网 http_error）；群发 18 次无回复。
 - **类型**：网络产品电商（英国）
 - **【用户表】表内兴趣/备注**
@@ -143,7 +144,8 @@ updated: 2026-10-29
   > Switch 光纤配件 销售平台；可以多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Justin Ellis（Director / Managing Director（2019-03-01 任；1972-03 生；Companies House 04359914；兼 Comms Capital Holdings Ltd 董事 = 控股方）= **老板 = 拍板人 = 研究档 KP 本人**（第 94 批 官方登记核实 2026-10-28））justin@comms-express.com 〔用户表〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -165,7 +167,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——电商 switch 位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 GE + 4×10G STC-424XGGM（$127.4）、工业 8 GE + 2 SFP STI-280GE（$46.6）；光纤配件 Saga 不供
 - **邮件切入句（英文）**：Justin, for the switch category at Comms Express, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+, 24-GE + 4×10G and DIN-rail industrial units from small lots, CE/RoHS/UKCA, EXW USD — is there an own-label or budget switch position you would consider listing?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：comms-express.com
   > https://comms-express.com/ http 403 ct=text/html; charset=utf-8
@@ -228,7 +230,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-724/`；本节随档案重渲染刷新，实时看日志。
 

@@ -1,6 +1,6 @@
 # XA-M212 · Wifimag.ro · 罗马尼亚
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 mikrotik-info `A-528`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W2-R05d 2026-10-27）→ 下一动作 第二封
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 mikrotik-info `A-528`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 第二封
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱
@@ -70,13 +70,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W2-R05d，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XA** — RO WISP 网店 → 维持 A（轻卡）
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：在线（wifimag.ro，快照 2026-10-29）：Wifimag.ro — echipamente de rețea și wireless, din stoc și la comandă
 - 一句话：Ubiquiti/MikroTik 授权网店（Wifimag.ro，Tulcea；2007 起）；卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口
 - 是什么人：Ubiquiti/MikroTik 授权网店（Wifimag.ro，Tulcea；2007 起）；规模：未量化
-- 在卖/在用：MikroTik（Reseller）
+- 在卖/在用：MikroTik（Reseller）、Ubiquiti、MikroTik、TP-Link、Extralink、D-Link、Zyxel
 - 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — WISP 渠道
 - 找得到人吗：mikrotik@wifimag.ro（来源库公开邮箱）；KP：无具名
 - 已触达：S 箱 2026-10-06 群发「24 Port PoE Managed Switch」→ 已发未回
@@ -88,6 +88,7 @@
 |---|---|---|---|---|
 | 来源库官网/名录核对 | Tulcea 【2026-09-28 R53 B段复筛达标升级】官网核对：Wifimag.ro（罗马尼亚，2007 年起）自述 «Reseller autorizat pentru Ubiquiti și MikroTik»（页面直链 ui.com distributors 与 mikrotik.com/buy），站内有 Switch-uri 类目：UniFi Switch 24（USW-24，1350 lei）、UniFi Switc |  | https://wifimag.ro/ | 2026-09-28 |
 | S 箱群发记录 | S 箱 2026-10-06 发 mikrotik@wifimag.ro「24 Port PoE Managed Switch」，去 1 来 0 |  | data/gmail_s/2026-09_10群发名单_未入库.csv | 2026-10-06 |
+| 官网快照 | 官网在线；Wifimag.ro — echipamente de rețea și wireless, din stoc și la comandă | Wifimag.ro — echipamente de rețea și wireless de la Ubiquiti, MikroTik, TP-Link și altele. Din stoc propriu și la comandă, cu suport tehnic real. | https://wifimag.ro/ | 2026-10-29 |
 
 草稿（英文，第二封；Simon 发，Agent 不发）：
 
@@ -106,4 +107,5 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+轻卡：本轮未外查，沿用来源库官网/名录核对。

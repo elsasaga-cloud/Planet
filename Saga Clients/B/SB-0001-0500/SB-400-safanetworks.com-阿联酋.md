@@ -23,7 +23,7 @@ s_mail: 23 msgs (out 23 / in 0), 2025-04-17 -> 2026-09-29
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2026-09-29 | 去 | A 群发 | 10G Enterprise SFP Switch、Industrial PoE Switch | 23 封 / 1 次打开 / 0 回｜首封 2025-04-17 → 末封 2026-09-29（23 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | Switch APs | 表内备注 | `用户表` |
 | 2026-09-29 | 去 | A 箱（Alan） | Managed PoE Switches | 本日去信真实主题（邮箱索引 f0ceba3cf7577894；信稿开头句引用此封；此前稿内写的「10G Enterprise SFP Switch」是线程列表首题，不是本封） | `f0ceba3cf7577894` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：safanetworks.com MX mx.stackmail.com.；A 172.67.182.6 / 104.21.59.177；NS arya.ns.cloudflare.com. / sterling.ns.cloudflare.com. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -119,7 +120,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（safanetworks.com：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（safanetworks.com：HTTP 错误，2026-10-29，第 2 次）
 - **是谁**：阿联酋 Safa Networks（safanetworks.com；表内「Switch APs」；官网 http_error）；群发 7 次无回复。
 - **类型**：网络产品经销商（阿联酋）
 - **【用户表】表内兴趣/备注**
@@ -128,7 +129,8 @@ updated: 2026-10-29
 - **【用户表】Switch APs**
   > Switch APs
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -149,7 +151,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——Switch → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%，为 AP 供电）、24 口 STC-424DGGPM-280W（$134.5）
 - **邮件切入句（英文）**：For the PoE switches you sell with access points, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS, EXW USD — which port count do your UAE customers order most?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：safanetworks.com
   > https://safanetworks.com/ http 403 ct=text/html; charset=utf-8
@@ -200,7 +202,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-400/`；本节随档案重渲染刷新，实时看日志。
 

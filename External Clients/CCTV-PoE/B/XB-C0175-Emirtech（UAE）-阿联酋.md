@@ -1,6 +1,6 @@
 # XB-C0175 · Emirtech（UAE） · 阿联酋
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 CCTV-PoE `profile/new-customers-batch-21.md`:255 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T01 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 CCTV-PoE `profile/new-customers-batch-21.md`:255 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XB** — 对口但不在主攻区（美加/欧/土以外）→ XB
@@ -117,12 +117,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，LT-T01，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — 桌面复核（来源库核对 + 研究卡）：C类 — PoE集成；类型=C类 — PoE集成；产品=PoE交换机供应+安装 (CCTV/AP/VoIP)；主营=ADMCC认证PoE；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））
-- 活着吗：域名 emirtech.ae MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓
+- 活着吗：在线（emirtech.ae，快照 2026-10-29）：AI-Powered CCTV & Security Systems in Abu Dhabi | Emirtech Technology
 - 一句话：Emirtech（UAE）（阿联酋）：PoE集成；开发策略=阿布扎比PoE安防集成；置信度=★★★★☆；公司全称=Emirtech Technology L.L.C - O.P.C；公司类型=ADMCC认证系统集成商；总部=M44, Mussafah Industrial Area, Abu Dhabi, UAE；客户优先级=🟢 A类（ADMCC认证集成商，明确PoE产品线）
 - 是什么人：PoE集成
+- 在卖/在用：Uniview、Dahua、Cisco、Hikvision、Aruba、Huawei、Ruijie、Grandstream、Axis
 - 对口哪条线：STC 项目集成款（25% 档：STC-2216GP / STC-228GP）
 - 找得到人吗：sales@emirtech.ae（活（来源库 9 月核对））；KP：无具名
 - 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
@@ -134,5 +135,7 @@
 |---|---|---|---|---|
 | 来源库官网/名录核对 | PoE集成；开发策略=阿布扎比PoE安防集成；置信度=★★★★☆；公司全称=Emirtech Technology L.L.C - O.P.C；公司类型=ADMCC认证系统集成商；总部=M44, Mussafah Industrial Area, Abu Dhabi, UAE；客户优先级=🟢 A类（ADMCC认证集成商，明确PoE产品线） |  | https://emirtech.ae | 2026-09 |
 | 长期群复核 LT-R07 | 桌面复核（来源库核对 + 研究卡）：C类 — PoE集成；类型=C类 — PoE集成；产品=PoE交换机供应+安装 (CCTV/AP/VoIP)；主营=ADMCC认证PoE；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%）） |  |  | 2026-10-29 |
+| 官网快照 | 官网在线；AI-Powered CCTV & Security Systems in Abu Dhabi ｜ Emirtech Technology | AI-powered video analytics, CCTV, access control & alarm installation in Abu Dhabi & Al Ain — ADMCC-approved. In-house engineers. | https://emirtech.ae/ | 2026-10-29 |
 
-- 备注：LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。

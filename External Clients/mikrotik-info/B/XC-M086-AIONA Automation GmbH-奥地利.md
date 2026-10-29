@@ -1,12 +1,12 @@
 # XC-M086 · AIONA Automation GmbH · 奥地利
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 工业自动化 / IT 分销 20%：AIONA Automation GmbH（Wien；FN 408418 s；UID ATU68435749；2014-01-15 成立；经营 IT 产品贸易：可视化 / 通信 / 远程维护）坐实；HMS / Red Lion / N-Tron 分销 → STI 对位；具名 KP gz@ + office@；体量小 → ○） ｜ 来源 mikrotik-info `C-021`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T01 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 工业自动化 / IT 分销 20%：AIONA Automation GmbH（Wien；FN 408418 s；UID ATU68435749；2014-01-15 成立；经营 IT 产品贸易：可视化 / 通信 / 远程维护）坐实；HMS / Red Lion / N-Tron 分销 → STI 对位；具名 KP gz@ + office@；体量小 → ○） ｜ 来源 mikrotik-info `C-021`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 >
 > **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：○ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 工业自动化 / IT 分销 20%：AIONA Automation GmbH（Wien；FN 408418 s；UID ATU68435749；2014-01-15 成立；经营 IT 产品贸易：可视化 / 通信 / 远程维护）坐实；HMS / Red Lion / N-Tron 分销 → STI 对位；具名 KP gz@ + office@；体量小 → ○
 
 ## 1. 初判与理由
 - 初判：**XC** — 来源库（mikrotik-info）已判 C（细分：B下放·无邮箱（群发触达不到）；依据：【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一）；Simon 口径「mik 的 C 不碰」→ 关仓前仅存档，不跟
-- 研究后改级：XC → **XB**（LT-T01，桌面复核（渠道名录 + 研究卡）：分销（HMS：Red Lion / N-Tron）；信号：Red Lion, N-Tron；在卖工业/商用交换机 = 行业内 ）；编号不变
+- 研究后改级：XC → **XB**（LT-T03，桌面复核（渠道名录 + 研究卡）：分销（HMS：Red Lion / N-Tron）；信号：Red Lion, N-Tron；在卖工业/商用交换机 = 行业内 ）；编号不变
 - 人工改级：XB（2026-10-29，Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 工业自动化 / IT 分销 20%：AIONA Automation GmbH（Wien；FN 408418 s；UID ATU68435749；2014-01-15 成立；经营 IT 产品贸易：可视化 / 通信 / 远程维护）坐实；HMS / Red Lion / N-Tron 分销 → STI 对位；具名 KP gz@ + office@；体量小 → ○）；编号不变
 - 标记：来源C
 - 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
@@ -62,13 +62,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，LT-T01，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — 桌面复核（渠道名录 + 研究卡）：分销（HMS：Red Lion / N-Tron）；信号：Red Lion, N-Tron；在卖工业/商用交换机 = 行业内 ✔ 对位 ✔ 分销进口 ✔ → 留 B
-- 活着吗：域名 bestofautomation.at MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓
+- 活着吗：在线（bestofautomation.at，快照 2026-10-29）：Aiona Automation
 - 一句话：AIONA Automation GmbH（奥地利）：分销（HMS：Red Lion / N-Tron）；Red Lion, N-Tron
 - 是什么人：分销（HMS：Red Lion / N-Tron）
-- 在卖/在用：Red Lion
+- 在卖/在用：Red Lion、Advantech
 - 对口哪条线：STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）
 - 找得到人吗：gz@aiona.at（活（来源库 9 月核对））；KP：Alexander Zöchling（AIONA 官方团队页列 Product Manager Automation；未证明负责工业交换机采购。，official-company-team·岗位公开；邮件展示/链接错配，采购职责未知，leads-only）；Gregor Zink（AIONA 官方团队页列 Verkauf & Technik Automation（自动化销售与技术）。，official-company-team·公司公布的销售/技术入口；采购权限与交换机品类职责未知，leads-only）
 - 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
@@ -83,5 +83,7 @@
 | 来源库证据链接 | 来源库调研时引用 |  | https://www.bestofautomation.at/ | 2026-09 |
 | 来源库证据链接 | 来源库调研时引用 |  | https://www.hms-networks.com/contact/find-distributor?indexCatalogue=partner-company&searchQuery=AIONA%20Automation&wordsMode=AllWords | 2026-09 |
 | 长期群复核 LT-R05 | 桌面复核（渠道名录 + 研究卡）：分销（HMS：Red Lion / N-Tron）；信号：Red Lion, N-Tron；在卖工业/商用交换机 = 行业内 ✔ 对位 ✔ 分销进口 ✔ → 留 B |  |  | 2026-10-29 |
+| 官网快照 | 官网在线；Aiona Automation | Aiona Automation | https://www.bestofautomation.at/ | 2026-10-29 |
 
-- 备注：LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。

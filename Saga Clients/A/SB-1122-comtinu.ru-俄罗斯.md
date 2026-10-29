@@ -29,7 +29,7 @@ s_mail: 23 msgs (out 20 / in 3), 2024-05-17 -> 2026-08-10
 p1: STH-8C48DX-HSI（48×25G + 8×100G，$4,800 EXW）/ STH-32C-HSI（32×100G，$6,000）
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -65,6 +65,7 @@ updated: 2026-10-29
 | 2025-12-03 | 来 | Yaroslav | We are not having appropriate projects so far that will include such switches.（对 Booster PoE 推送） | 接入产品不对他 | `neg` |
 | 2025-12-03 | 来 | Yaroslav | Yes, we have 100-25G projects What is your company website? | DC 项目在手 + 要网站 | `need` |
 | 2025-12-03 | 去 | Alan | For now, we are still focusing on access switches. It will be CENTEC based=a famous Chinese chip… Please let me know if this is acceptable to you. | 断点：没给网站、没给型号价 | `reply` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Home - ООО "Комтиню". Оборудование, приборы и системы для телекоммуникации. — Новости Все новости Популярные продукты Каталог Партнеры О компании ООО «КОМТИНЮ» является Российским поставщиком оборудования тактовой сетевой синхронизации (ТСС) и систем единого времени, тестового измерительного оборудо | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：公司实体/规模（comtinu.ru 未爬）；项目时间与台数；付款路径
 
@@ -145,9 +146,10 @@ updated: 2026-10-29
   > 来源：data/gmail_a|gmail_s/messages/<year>/<month>.jsonl（抓取 2025-12-03）
 - **KP**：Yaroslav（）yb@comtinu.ru 〔data/gmail_a|gmail_s/messages/<year>/<month>.jsonl〕
 - **调研后定级**：A（原自动 C）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
-- 备注：俄罗斯付款：T/T USD 受限，口径里的「RMB via CN agent」是可行路径——信里不展开，对方问再说。他 2024-05 问的 48×25G+8×100G 正是 STH-8C48DX-HSI（$4,800 EXW）；32×100G = STH-32C-HSI（$6,000）。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。
+俄罗斯付款：T/T USD 受限，口径里的「RMB via CN agent」是可行路径——信里不展开，对方问再说。他 2024-05 问的 48×25G+8×100G 正是 STH-8C48DX-HSI（$4,800 EXW）；32×100G = STH-32C-HSI（$6,000）。
 
-### 加厚挖掘（2026-10-24 · 邮件证据）
+### 加厚挖掘（2026-10-24 · 邮件证据 + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -159,6 +161,21 @@ updated: 2026-10-29
 - **风险/边界**：对俄付款/物流（制裁）；他问「公司网站」我们没答——sagatele.com 要给；项目时间不明
 - **Saga 对位结论**：P1 STH-8C48DX-HSI（48×25G + 8×100G，$4,800 EXW）/ STH-32C-HSI（32×100G，$6,000）（25% 档）——他要的型号 Saga 现在真有价；一封信把 2024 的问题和 2025 的项目接回来
 - **邮件切入句（英文）**：（见 mail_review.draft_en）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://www.comtinu.ru/　语言：ru-RU　站点地图 URL 数：220
+- **标题**：Home - ООО "Комтиню". Оборудование, приборы и системы для телекоммуникации.
+- **描述**：Новости Все новости Популярные продукты Каталог Партнеры О компании ООО «КОМТИНЮ» является Российским поставщиком оборудования тактовой сетевой синхронизации (ТСС) и систем единого времени, тестового измерительного оборудования для сетей связи и лабораторий, систем мониторинга качества услуг связи, 
+- **首页栏目**：Новости / Популярные продукты / Уличный маршрутизатор 5G ODU-C120 / LTE Cat6 маршрутизатор CPE-C260 / Портативный 4G LTE роутер MiFi CAT4 MiFi-M47 / Анализатор PON-сетей NIVA / Партнеры / О компании
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：sfp 75、wifi 24、ethernet 19、fiber 3、10g 2
+- **站内型号串**（正则抽取，含非交换机）：QSFP28, TP4100, MAP-300, SPT-N4U, BD-1024-PS, BD-1024, ODU-C120, CPE-C260, AOG-110, DD800, CAA-100A, CAA-100
+- **站内公开邮箱**：office@comtinu.ru, sales@comtinu.ru
+- **站内公开电话**：+7 495 937-36-08, +7 495 937-36-09
+- **产品类页面**：https://www.comtinu.ru/products/；https://www.comtinu.ru/product/sfp/；https://www.comtinu.ru/product/viavi-pmd/；https://www.comtinu.ru/product/viavi-onmsi/；https://www.comtinu.ru/product/cdata-fd511g/；https://www.comtinu.ru/product/cdata-fd504g/
+- **已抓子页**：[Продукты - ООО "Комтиню". Оборудование, приборы и системы дл](https://www.comtinu.ru/products/)；[Мониторинг сетей - ООО "Комтиню". Оборудование, приборы и си](https://www.comtinu.ru/product-category/network-monitoring/)；[Эксплуатационная поддержка - ООО "Комтиню". Оборудование, пр](https://www.comtinu.ru/product-category/network-monitoring/oss/)；[Оптические модули SFP, SFP+, QSFP28 - ООО "Комтиню". Оборудо](https://www.comtinu.ru/product-category/network-monitoring/sfp/)；[Мониторинг производительности сетей - ООО "Комтиню". Оборудо](https://www.comtinu.ru/product-category/network-monitoring/npmd/)；[Ответвители трафика - ООО "Комтиню". Оборудование, приборы и](https://www.comtinu.ru/product-category/network-monitoring/taps/)
+- 首页正文摘录：Перейти к содержимому +7 495 937-36-08 office@comtinu.ru 0 Компания Новости Партнеры Продукция Синхронизация сетей связи Эталонные генераторы частоты и времени ВЗГ и оборудование синхронизации Сервера точного времени NTP, PTP, IRIG Распределители синхросигналов Система управления синхронизацией Блок защиты GNSS GNSS антенны, усилители, сплиттеры Полевое тестирование и измерения Анализаторы синхронизации Измерители фа
+- 数据文件：`data/saga_clients/site_snapshots/SB-1122.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -193,12 +210,14 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：A 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1122/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://comtinu.ru/) | html | 待首轮 | — | 官网首页 |
+| [home](https://comtinu.ru/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 7664 字符；首行：Home - ООО "Комтиню". Оборудование, приборы и системы для телекоммуникации. |
+| [feed_auto](https://www.comtinu.ru/feed/) | rss | HTTP 200 | 2026-10-29T15:11:51Z | 7 条；最新：Mon, 30 Mar 2026 14:02:52 Модули 400 и 800G для платформ Xinertel |
 
 ## 联系方式（已有 · 原值照录）
 

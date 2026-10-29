@@ -1,10 +1,10 @@
 # XA-M325 · BRS Networks AB · 瑞典
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 mikrotik-info `A-112`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W2-R05a 2026-10-27）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 mikrotik-info `A-112`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱（含实名 KP）
-- 研究后改级：XA → **XB**（W2-R05a，方案商非渠道 → B）；编号不变
+- 研究后改级：XA → **XB**（LT-T03，方案商非渠道 → B）；编号不变
 - 人工改级：XB（2026-10-29，Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径））；编号不变
 - 标记：S箱已群发
 - 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
@@ -114,10 +114,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W2-R05a，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — 方案商非渠道 → B
-- 活着吗：来源库 2026-09-27 核对在线；本轮未复查
+- 活着吗：在线（brsnetworks.se，快照 2026-10-29）：IT-drift för företag | Moln, säkerhet & moderna arbetsplatser
 - 一句话：光纤网络方案商（BRS Networks，SE/DK/DE）；Marvell 接入层生态切入
 - 是什么人：光纤网络方案商（BRS Networks，SE/DK/DE）；规模：未量化
 - 在卖/在用：Allied Telesis（Marvell Prestera 接入层）、Fortinet
@@ -132,5 +132,7 @@
 |---|---|---|---|---|
 | 来源库官网/名录核对 | 光纤网络方案商，业务覆盖瑞典、丹麦、德国 —— 北欧+德语区三地经营。 【2026-09-27 联系方式核验】公开邮箱·一方/伙伴来源。公司 Facebook 公开邮箱、Visby 地址和电话相符。邮箱公开列出，未做投递测试。 来源：[3](https://www.facebook.com/brsnetworks/) |  | https://brsnetworks.se/ | 2026-09-27 |
 | S 箱群发记录 | S 箱 2026-09-29 发 info@brsnetworks.se「24 Port PoE Managed Switch」，去 1 来 0 |  | data/gmail_s/2026-09_10群发名单_未入库.csv | 2026-09-29 |
+| 官网快照 | 官网在线；IT-drift för företag ｜ Moln, säkerhet & moderna arbetsplatser | BRS Networks levererar IT-drift, moderna arbetsplatser, molnlösningar och IT-säkerhet för företag. Vi skapar stabil och säker IT-miljö. | https://brsnetworks.se/ | 2026-10-29 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/evidence。
+轻卡：本轮未外查，沿用来源库官网/名录核对。

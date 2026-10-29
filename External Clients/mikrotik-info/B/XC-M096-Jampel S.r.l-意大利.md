@@ -1,6 +1,6 @@
 # XC-M096 · Jampel S.r.l. · 意大利
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 嵌入式 PC / 工业通信分销 20%：JAMPEL S.r.l.（Bologna Via degli Stradelli Guelfi 86/A；ICP DAS 官方分销 + Moxa 授权）官方名录部分坐实（P.IVA 待补）；STI 工业对位；info@jampel.it） ｜ 来源 mikrotik-info `C-031`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-03 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 嵌入式 PC / 工业通信分销 20%：JAMPEL S.r.l.（Bologna Via degli Stradelli Guelfi 86/A；ICP DAS 官方分销 + Moxa 授权）官方名录部分坐实（P.IVA 待补）；STI 工业对位；info@jampel.it） ｜ 来源 mikrotik-info `C-031`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 >
 > **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：○ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 嵌入式 PC / 工业通信分销 20%：JAMPEL S.r.l.（Bologna Via degli Stradelli Guelfi 86/A；ICP DAS 官方分销 + Moxa 授权）官方名录部分坐实（P.IVA 待补）；STI 工业对位；info@jampel.it
 
@@ -47,12 +47,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，X1-03，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XC** — X1-03 补路径：○ 嵌入式 PC / 工业通信分销 20%：JAMPEL S.r.l.（Bologna Via degli Stradelli Guelfi 86/A；ICP DAS 官方分销 + Moxa 授权）官方名录部分坐实（P.（等级不动，池位见 sieve_x）
-- 活着吗：2026-10-29 检索命中官网 / 名录（在线）
+- 活着吗：在线（jampel.it，快照 2026-10-29）：Distributore Hardware Industriale in Italia e in Europa » Jampel
 - 一句话：JAMPEL S.r.l.：嵌入式 PC / 工业通信分销（ICP DAS 官方分销名录；Moxa 授权）；P.IVA 一次检索未中
 - 是什么人：分销（Moxa 授权）；JAMPEL S.r.l.
+- 在卖/在用：Moxa、Hirschmann、Lantech、Vivotek、PLANET
 - 对口哪条线：Saga STI 工业 / SmartByte 商用 PoE — ○ 嵌入式 PC / 工业通信分销 20%：JAMPEL S.r.l.（Bologna Via degli Strade
 - 找得到人吗：info@jampel.it（官网 / 名录公开（X1-03 补路径））；KP：无具名
 - 已触达：未触达（路径 2026-10-29 新补）
@@ -64,5 +65,7 @@
 |---|---|---|---|---|
 | 官网 / 名录 | ICP DAS 官方分销名录：JAMPEL s.r.l. · Bologna · info@jampel.it |  | https://www.icpdas.com/distributors/country/jampel.htm | 2026-10-29 |
 | 官网 / 名录 | CTI Electronics 联系页：JAMPEL S.r.l. · Via Degli Stradelli Guelfi 86/A · +39 051 452042 |  | https://www.ctielectronics.com/Assets/contactJampel.php | 2026-10-29 |
+| 官网快照 | 官网在线；Distributore Hardware Industriale in Italia e in Europa » Jampel | Da oltre 40 anni distribuiamo in Italia e in tutta Europa soluzioni hardware industriale pensate per l’impiego in ambienti critici e complessi. | https://www.jampel.it/ | 2026-10-29 |
 
-- 备注：JAMPEL S.r.l.；Via degli Stradelli Guelfi 86/A, 40138 Bologna；+39 051 452042
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+JAMPEL S.r.l.；Via degli Stradelli Guelfi 86/A, 40138 Bologna；+39 051 452042

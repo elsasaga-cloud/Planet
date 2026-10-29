@@ -23,7 +23,7 @@ s_mail: 32 msgs (out 32 / in 0), 2024-06-28 -> 2026-09-29
 p1: STI-448DGGGM
 price_tier: 25%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 3
 updated: 2026-10-29
 ```
@@ -54,6 +54,8 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-29 | 去 | A/S 群发 | Managed Optical Bypass Switch、Marvell Industrial Alert System | 32 封 / 0 次打开 / 0 回｜首封 2024-06-28 → 末封 2026-09-29（32 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 在找工业管理；8光8管理 / from: 阿里巴巴询盘 | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：ione.kr MX kr1-aspmx2.worksmobile.com. / kr1-aspmx1.worksmobile.com.；A 119.200.199.118；NS ns1.ssandom.com. / ns2.ssandom.com. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：ionetech.com MX mail.ionetech.com.；A 114.108.129.120；NS ns.hostment.com. / ns2.hostment.com. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -127,7 +129,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（ionetech.com：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（ionetech.com：HTTP 错误，2026-10-29，第 2 次）
 - **是谁**：韩国 iOne Tech（ionetech.com / ione.kr；表内「在找工业管理」、阿里巴巴询盘「8 光 8 管理」；KP CEO Kim「可以尝试多跟进一下」；官网 http_error）；群发 19 次无回复。
 - **类型**：工业网络公司（韩国，8 光 8 管理询盘）
 - **【用户表】表内兴趣/备注**
@@ -137,7 +139,8 @@ updated: 2026-10-29
   > 在找工业管理；8光8管理 / from: 阿里巴巴询盘
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Kim（研究档「CEO Kim」（ione.kr）— 与 ionetech.com 主体（(주)아이원테크놀러지 대표 황동현）不符，身份不清，不动（第 115 批 官方登记核实 2026-10-28））cjkim@ione.kr 〔用户表〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -158,7 +161,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-448DGGGM（25% 档）——询盘 8 SFP + 8 GE 管理 → 工业 L2+ 8 GE + 4×1G SFP + 4×2.5G SFP STI-448DGGGM（$205.5 @25%）；PoE 版 STI-448DGGGPM（$220.5）
 - **邮件切入句（英文）**：Mr. Kim, following your enquiry for an 8-fibre + 8-copper managed industrial switch: our L2+ model offers 8 × GE with 4 × 1G SFP + 4 × 1G/2.5G SFP (−40~75 °C, 12–58 V redundant, CE/RoHS; PoE version available) from single units, EXW USD, 10–15 days; KC by your side — how many units, and is PoE needed on the copper ports?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：ionetech.com, ione.kr
   > https://ionetech.com/ http 403 ct=text/html; charset=iso-8859-1
@@ -222,7 +225,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-509/`；本节随档案重渲染刷新，实时看日志。
 

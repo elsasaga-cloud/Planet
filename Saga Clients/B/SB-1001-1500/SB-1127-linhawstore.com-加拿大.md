@@ -26,7 +26,7 @@ last_contact: unknown
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -57,6 +57,7 @@ updated: 2026-10-29
 | 2025-04-05 | 去 | Elsa 群发（BCC；To sales@solimedia.net，US-3 批次） | Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, OID) 2, Added intere | Elsa 箱群发 BCC 触达证据（命中地址 linhaw.com, sales@linhaw.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2025-06-29 | 去 | Elsa 群发（BCC；To sales@solimedia.net，US-3 批次） | 48 Port PoE Managed Switch — There is a Marvell based 52 port Rack network switch for you. 4*1G/2.5G/10G SFP+48*10/100/1000M Copper, L2+ Managed, PoE af/at, 400W budget Support ST（正文价 300usd/pc，第 74 批(p) 读稿 msg 194eff1f9bf46879 / 1973a613b8166b58） | Elsa 箱群发 BCC 触达证据（命中地址 linhaw.com, sales@linhaw.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-09-08 | 去 | Elsa 群发（BCC；To sales@solimedia.net，US-3 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 linhaw.com, sales@linhaw.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Home \| Lin Haw International | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -136,7 +137,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（linhawstore.com；并档 Planet 渠道档案 PB-053）
 - **是谁**：温哥华都会区 B2B IT/AV/安防硬件批发商，自己从台湾直接进口 PLANET 交换机，也从中国 OEM 进口。类型：分销商/进口商（加拿大本土 B2B 批发：IT 基础设施、连接线缆、网络、AV、安防硬件，1986 年起；17 人、营收 $10–25M（Frasers）；展厅 3,500+ 产品；美国海关记录显示为 PLANET 直接进口商）。信号：【W10 再更正】美国海关提单（ImportGenius 进口商页 2026-10-05 更新）：供应商 PLANET TECHNOLOGY CORPORATION → LIN HAW INTL CO LTD 共 35 柜 / 12,897 kg，**最近一票 2017-04-04**（另 2011-12-23 有 1 柜反向记录）→ PLANET 直接进口为历史（8 年以上无新票）；当前 Odoo 商城品牌墙无 Planet（自有品牌 PC Cable World 549 件，Netgear / TP-Link / Ubiquiti 交换机在售）；旧 PoE 类目页（2015）已 404。Planet 渠道档案 PB-053 评级 B（【W10 再更正】B 维持但 PLANET 关联为历史（最近一票 2017-04-04）：公开 sales@linhaw.com + 进口商 + 自有品牌 + 小公司（17 人）+ 加拿大在区域内；是否留在「PLANET 渠道池」交 Q-15 裁定（默认留，标注『历史 PLANET 进口商』）；Rob Baerg 仅第三方名录 → 待核不猜）。并档说明：Saga 表内本条 SB-1127（美国）自动评 C（原因：；Saga 群发已推送 0 次无回复）。
-- **在卖/在用品牌**：PLANET, TP-Link, Ubiquiti, Netgear
+- **在卖/在用品牌**：PLANET, TP-Link, Ubiquiti, Netgear, Grandstream, Cambium
 - **【海关提单】PLANET 直接进口商（美国海关 AMS 数据）**
   > LIN HAW INTL CO LTD … Top trading partners … PLANET TECHNOLOGY CORPORATION 35± shipments … EPNEW ELECTRONICS CO.,LTD. 41± shipments … SAFEWELL GROUP HOLDINGS LIMITED 39± shipments
   > 来源：https://www.importgenius.com/suppliers/planet-technology-corporation（抓取 2026-10-20）
@@ -165,9 +166,10 @@ updated: 2026-10-29
   > Lin Haw Intl Co Ltd … Updated: 2026-10-05 … Total Suppliers | 3 | PLANET TECHNOLOGY CORPORATION | China Taiwan | 2017-04-04 | 35 | 12897 | … Total Importers | 1 | PLANET TECHNOLOGY CORPORATION | Seattle, Washington | 2011-12-23 | 1 | 323 Kgs
   > 来源：https://www.importgenius.com/importers/lin-haw-intl-co-ltd（抓取 2026-10-20）
 - **调研后定级**：B（原自动 C）——Planet 渠道档案 PB-053 评 B（有具名联系人 / 在售 PLANET 或工业网络品类）；Saga 表内 C 原因「」被调研推翻，提升为 B
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-053，W 批次调研 2026-10-19/20））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-053，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -184,6 +186,20 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——其 PoE Devices 类目 10 款 PLANET 以中小 PoE 设备为主（型号待取证），IT/AV 批发走量档为 8 口千兆 PoE 管理型；24 口作第二步；分销商 → 20%（沿用 Planet 档案 PB-053）；需求：
 - **邮件切入句（英文）**：You've imported switches direct from Taiwan before and run your own PC Cable World line; an EXW second source for the 8- and 24-port Gigabit PoE managed tiers, neutral or under your label, drops into the same import lane. Of the PoE switches you stock today, is the 8-port Gigabit PoE managed tier or the 24-port the one that turns fastest for your resellers?
 
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://www.linhawstore.com/　语言：en-US　站点地图 URL 数：2410
+- **标题**：Home / Lin Haw International
+- **首页栏目**：SHOP BY CATEGORY / BEST SELLING BRANDS / Why Lin Haw?
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 302、fiber 134、poe 105、switch 83、camera 69、wifi 42、wireless 36、ubiquiti 25、sfp 24、surveillance 19、10g 12、media converter 10
+- **站内出现的品牌**：Ubiquiti, Grandstream, Cambium　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：RS232, SFP28
+- **产品类页面**：https://www.linhawstore.com/shop/category/power-poe-injectors-629；https://www.linhawstore.com/shop/category/networking-voip-uc-solutions-power-supplies-poe-injectors-652；https://www.linhawstore.com/shop/category/cabling-210；https://www.linhawstore.com/shop/category/power-power-bars-626；https://www.linhawstore.com/shop/category/power-power-cables-618；https://www.linhawstore.com/shop/category/cabling-cat6-cables-654
+- **已抓子页**：[Shop / Lin Haw International](https://www.linhawstore.com/shop/category/networking-switches-routers-301)；[Shop / Lin Haw International](https://www.linhawstore.com/shop/category/networking-voip-uc-solutions-231)；[Brand Page / Lin Haw International](https://www.linhawstore.com/shop/brands)；[Shop / Lin Haw International](https://www.linhawstore.com/shop/category/networking-212)；[Shop / Lin Haw International](https://www.linhawstore.com/shop/category/cabling-category-cables-217)；[Shop / Lin Haw International](https://www.linhawstore.com/shop/category/cabling-fiber-optic-cables-656)
+- 首页正文摘录：0 Sign in 604-325-8880 [email protected] Monday-Friday 8:00 AM-4:30 PM (PST) 0 Sign in Home Shop Now Newly Added Brands Shop By Category All Products Cabling Networking Audio Visual Security & Surveillance Racks & Cabinets Cable Management Tools & Testers PC Peripherals Power Mobile Boosters & Accs About Us Login / Register 0 Sign in SHOP BY CATEGORY Cabling Category Cables Fiber Cables Networking Switches & Routers 
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 12、交换机 83 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1127.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
+
 ## 在卖/在用品牌 → Saga 对位
 
 （备注未提及具体品牌）
@@ -194,7 +210,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1127/`；本节随档案重渲染刷新，实时看日志。
 

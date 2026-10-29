@@ -1,10 +1,10 @@
 # XA-M431 · CAMELI SAT · 意大利
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 mikrotik-info `A-334`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W2-R05b 2026-10-27）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 mikrotik-info `A-334`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱（含实名 KP）
-- 研究后改级：XA → **XB**（W2-R05b，小项目集成商（Allied Telesis 伙伴名录批量导入），非渠道 → B 慢慢跟进；且无可用邮箱）；编号不变
+- 研究后改级：XA → **XB**（LT-T03，小项目集成商（Allied Telesis 伙伴名录批量导入），非渠道 → B 慢慢跟进；且无可用邮箱）；编号不变
 - 人工改级：XB（2026-10-29，Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径））；编号不变
 - 标记：无
 - 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
@@ -76,10 +76,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W2-R05b，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — 小项目集成商（Allied Telesis 伙伴名录批量导入），非渠道 → B 慢慢跟进；且无可用邮箱
-- 活着吗：域名修正为 camelisat.it（原 camelisat.it与0564 是邮箱用户名 / 注释 / 旧域）；DNS 2026-10-29 MX + A 正常；官网快照待 Actions 补抓
+- 活着吗：在线（camelisat.it，快照 2026-10-29）：
 - 一句话：卫星/安防安装商（CAMELI SAT）；Marvell Prestera 接入层切入
 - 是什么人：卫星/安防安装商（CAMELI SAT）；规模：未量化
 - 在卖/在用：Allied Telesis（Marvell Prestera 接入层）
@@ -94,6 +94,8 @@
 |---|---|---|---|---|
 | 来源库官网/名录核对 | 【待人工补信息】本条为集成商/顾问型，属 A 级主产地，但当前抓不到邮箱（群发触达不到），故由人工定级提为 A。需要人工处理：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 【2026-09-27 A320–A339联络核验】来源等级：leads-only。AT名录列CAMELI SAT（Donoratico, LI）；工商/商录显示主体为Cameli Sat di Burgalassi Agnese（di |  | https://camelisat.it/ | 2026-09-27 |
 | 域名修正 | 记录域名 camelisat.it与0564 → camelisat.it（LT-X01 2026-10-29：导入把原文「info@camelisat.it与0564」整段当域名）；DNS 2026-10-29 MX + A 正常 | domain_prev=camelisat.it与0564 | https://camelisat.it/ | 2026-10-29 |
+| 官网快照 | 官网在线； |  | https://www.camelisat.it/ | 2026-10-29 |
 
-- 备注：LT-X01b 域名修正同步（2026-10-29）：camelisat.it与0564 → camelisat.it。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/evidence。
+LT-X01b 域名修正同步（2026-10-29）：camelisat.it与0564 → camelisat.it。
 轻卡：本轮未外查，沿用来源库官网/名录核对。

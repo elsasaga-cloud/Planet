@@ -1,12 +1,12 @@
 # XC-M006 · IndustrialComms · 英国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：与 Saga SC-331 同一公司 → 随主档等级 B（复核随主档，不单列）） ｜ 来源 mikrotik-info `A-267`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T01 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：与 Saga SC-331 同一公司 → 随主档等级 B（复核随主档，不单列）） ｜ 来源 mikrotik-info `A-267`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 >
 > **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：○ P 池 · 正式入池**（随 Saga `SC-331`）（闸 0 · DUP · 2026-10-29）：与 Saga SC-331 同一公司（经 industrialcomms.com）→ 随 Saga 档：pool（闸 3，★ P 池正式入池（档位 ○）：○ 工业分销 20%：Industrial Communication Products Ltd（Toddington 2008；Advantech / INSYS 英国分销；铁路占比高）部分坐实；分销 ✔ ）
 
 ## 1. 初判与理由
 - 初判：**XC** — 与 Saga Clients 重叠（SC-331，经 industrialcomms.com）→ 以 Saga 档为准，本条不单独跟
-- 研究后改级：XC → **XB**（LT-T01，Q-76 LT-01 2026-10-29：与 Saga SC-331 同一公司 → 随主档等级 B（复核随主档，不单列））；编号不变
+- 研究后改级：XC → **XB**（LT-T03，Q-76 LT-01 2026-10-29：与 Saga SC-331 同一公司 → 随主档等级 B（复核随主档，不单列））；编号不变
 - 人工改级：XB（2026-10-29，Q-76 LT-01 2026-10-29：与 Saga SC-331 同一公司 → 随主档等级 B（复核随主档，不单列））；编号不变
 - 标记：重复=Saga
 - 与 Saga Clients 重叠：**SC-331**（Saga 评级 C，经域名 industrialcomms.com）→ 以 Saga 档为主；本条只保留来源库事实
@@ -76,13 +76,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，LT-T01，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — Q-76 LT-01 2026-10-29：与 Saga SC-331 同一公司 → 随主档等级 B（复核随主档，不单列）
-- 活着吗：域名 industrialcomms.com MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓
+- 活着吗：在线（industrialcomms.com，快照 2026-10-29）：Industrial Communication Products Ltd | IndustrialComms
 - 一句话：IndustrialComms（英国）：专业分销；EtherWAN
 - 是什么人：专业分销
-- 在卖/在用：EtherWAN
+- 在卖/在用：EtherWAN、Hirschmann、Siemens、Allied Telesis
 - 对口哪条线：STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）
 - 找得到人吗：sales@industrialcomms.com（活（来源库 9 月核对））；KP：Graham Bull（CEO(Advantech 2021 分件官方引语)，official-self-published·谱/leads-only(直发需 opt-in)）
 - 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
@@ -95,5 +95,7 @@
 | 来源库官网/名录核对 | 专业分销 |  | https://industrialcomms.com | 2026-10-12 |
 | 来源库证据链接 | 来源库调研时引用 |  | https://designsolutionsmag.co.uk/advantech-chooses-industrialcomms-as-uk-distributor/ | 2026-10-12 |
 | 来源库证据链接 | 来源库调研时引用 |  | https://www.industrialcomms.com | 2026-10-12 |
+| 官网快照 | 官网在线；Industrial Communication Products Ltd ｜ IndustrialComms | Leading distributor of Industrial Communication Products and Power Supplies. IndustrialComms is the brand name for Industrial Communications Products Ltd. We are a dedicated Business to Business (B2B) supplier serving the needs of Business and Pub... | https://www.industrialcomms.com/ | 2026-10-29 |
 
-- 备注：LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。

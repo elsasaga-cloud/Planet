@@ -29,7 +29,7 @@ s_mail: 6 msgs (out 6 / in 0), 2024-06-28 -> 2024-12-30
 p1: STC-2216GP
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -59,6 +59,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | 闸 2 回 C（未坐实 + 红旗）：Lapis Technologies 1 查仅同名 Shimoga 户（CIN U74993KA2018PTC109130；₹1 lakh；zaubacorp Strike Off）归属未证 → 回 C 储备 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 登记底数（registry） | IN · 1 次检索：zaubacorp（Strike Off）+ tracxn 同名 → 域名未对上；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Lapis Technologies - Empowering Businesses with Smart, Scalable, and Secure Tech Products. — Innovative tech partner offering reliable networking, display, AV, cybersecurity, and video surveillance services. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -102,10 +103,11 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-29）**　网站状态：域名 lapistechnologies.in（官网快照待 Actions 补抓）
+- **状态：已调研（2026-10-29）**　网站状态：在线（lapistechnologies.in，快照 2026-10-29）：Lapis Technologies - Empowering Businesses with Smart, Scalable, and Secure Tech Products.
 - **是谁**：C 池三闸捞出（○ 正式）：闸 2 回 C（未坐实 + 红旗）：Lapis Technologies 1 查仅同名 Shimoga 户（CIN U74993KA2018PTC109130；₹1 lakh；zaubacorp Strike Off）归属未证 → 回 C 储备
 - **类型**：网络集成商（闸 2 判定 · 25% 档）
 - **规模**：未知
+- **在卖/在用品牌**：Netgear, Bosch, Fortinet
 - **【登记底数 / 官网（闸 2 坐实）】Lapis Technologies（lapistechnologies.in；**1 查仅得 Lapis Technologies Private Limited（CIN U74993KA2018PTC109130；R 11/12, Megur Prakash, APMC Yard, Sagar Road, Shimoga, Karnataka 577204；2018-01-02；₹1 lakh；gmail 登记邮箱；zaubacorp 状态 Strike Off（trac**
   > IN · 1 次检索：zaubacorp（Strike Off）+ tracxn 同名 → 域名未对上；2026-10-29
   > 来源：（抓取 2026-10-29）
@@ -115,10 +117,11 @@ updated: 2026-10-29
   > 来源：（抓取 2026-10-29）
 - **KP**：—（表内邮箱（公开 / 总机））info@lapistechnologies.in 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：闸 2 回 C（未坐实 + 红旗）：Lapis Technologies 1 查仅同名 Shimoga 户（CIN U74993KA2018PTC109130；₹1 lakh；zaubacorp Strike Off）归属未证 → 回 C 储备；闸 1：印度 Lapis Technologies（lapistechnologies.in；商业 PoE Alcon 的）：进口中国同类 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/brands_seen/site_contacts/saga_fit.basis/deep/facts。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -131,6 +134,21 @@ updated: 2026-10-29
   - 表内兴趣：商业POE Alcon的
 - **风险/边界**：**未坐实 + 同名注销红旗 → 回 C 储备；来信再起则预付 100%**— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IST；登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号
 - **Saga 对位结论**：P1 STC-2216GP（25% 档）——默认对位（网络集成商 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://lapistechnologies.in/　语言：en-GB　站点地图 URL 数：14
+- **标题**：Lapis Technologies - Empowering Businesses with Smart, Scalable, and Secure Tech Products.
+- **描述**：Innovative tech partner offering reliable networking, display, AV, cybersecurity, and video surveillance services.
+- **首页栏目**：Display / Pro Audio/Video / Networking & Cybersecurity / Video Surveillance & Access Control / Fire Safety & PA Systems / Printing / Who We Are / Future-Ready Innovative Technology
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：surveillance 30、access control 30、distributor 7、cable 4、fiber 1、integrator 1
+- **站内出现的品牌**：Netgear, Bosch, Fortinet　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内公开邮箱**：info@lapistechnologies.in
+- **站内公开电话**：+91-7659818883
+- **社媒**：http://youtube.com/@lapistechnologies4519, https://facebook.com/lapishyd, https://instagram.com/lapistechnologies, https://linkedin.com/company/lapistechnologies
+- **已抓子页**：[About - Lapis Technologies](https://lapistechnologies.in/about/)；[Contact - Lapis Technologies](https://lapistechnologies.in/contact/)；[Networking & Cybersecurity - Lapis Technologies](https://lapistechnologies.in/networking-cybersecurity/)
+- 首页正文摘录：Skip to content Home About Solutions Display Pro Audio/Video Networking & Cybersecurity Video Surveillance & Access Control Fire Safety & PA Systems Printing LG Business Innovation Center Blog Careers Contact Display Lapis Technologies – Illuminating Your Brand with Smarter Display Products. Know More Pro Audio/Video Lapis Technologies – Elevating Communication Through Cutting-Edge AV Innovation. Know More Networking
+- 数据文件：`data/saga_clients/site_snapshots/SC-1203.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -158,12 +176,14 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-1203/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://lapistechnologies.in/) | html | 待首轮 | — | 官网首页 |
+| [home](https://lapistechnologies.in/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 5475 字符；首行：Lapis Technologies - Empowering Businesses with Smart, Scalable, and Secure Tec |
+| [feed_auto](https://lapistechnologies.in/feed/) | rss | HTTP 200 | 2026-10-29T15:11:51Z | 1 条；最新：Wed, 09 Apr 2025 09:40:55 Lapis Technologies unveils LG Business Innovation Centre  |
 
 ## 联系方式（已有 · 原值照录）
 

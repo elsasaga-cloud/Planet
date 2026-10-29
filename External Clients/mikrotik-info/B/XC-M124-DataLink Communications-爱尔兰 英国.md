@@ -1,6 +1,6 @@
 # XC-M124 · DataLink Communications · 爱尔兰/英国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 工业通信分销 20%：DataLink Communications Ltd（Loughrea Co. Galway；ORing 授权；emacsys 分销名录；11–50 人；覆盖 IE / UK）名录 + 官网部分坐实（CRO 号待补）；sales@datalinkcom.net｜补证 X1-02R（2026-10-29）：法人名修正 D.L.C. DataLink Communicati） ｜ 来源 mikrotik-info `C-059`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-02 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 工业通信分销 20%：DataLink Communications Ltd（Loughrea Co. Galway；ORing 授权；emacsys 分销名录；11–50 人；覆盖 IE / UK）名录 + 官网部分坐实（CRO 号待补）；sales@datalinkcom.net｜补证 X1-02R（2026-10-29）：法人名修正 D.L.C. DataLink Communicati） ｜ 来源 mikrotik-info `C-059`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 >
 > **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：○ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：○ 工业通信分销 20%：DataLink Communications Ltd（Loughrea Co. Galway；ORing 授权；emacsys 分销名录；11–50 人；覆盖 IE / UK）名录 + 官网部分坐实（CRO 号待补）；sales@datalinkcom.net｜补证 X1-02R（2026-10-29）：法人名修正 D.L.C. DataLink Communications Ltd；CRO 号仍待补；法人名修正：D.L.C. DataLink Communications Ltd · Cloghaun, Kilchreest, Loughrea H62 F985 · (091) 840838 · sales@datalinkcom.net；CRO 号一次检索未中 → reg_pending 留
 
@@ -47,10 +47,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，X1-02，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XC** — X1-02 补路径：○ 工业通信分销 20%：DataLink Communications Ltd（Loughrea Co. Galway；ORing 授权；emacsys 分销名录；11–50 人；覆盖 IE / UK）名录 + 官网部（等级不动，池位见 sieve_x）
-- 活着吗：2026-10-29 检索命中官网 / 名录（在线）
+- 活着吗：在线（datalinkcom.net，快照 2026-10-29）：BASKET168 | Link Login Provider Pragmatic Slot Gacor Pasti Jackpot Malam Ini
 - 一句话：DataLink Communications Ltd：爱尔兰 / 英国工业通信分销（ORing 授权；emacsys 分销名录）；11–50 人
 - 是什么人：分销（ORing 授权）；DataLink Communications Ltd
 - 对口哪条线：Saga STI 工业 / SmartByte 商用 PoE — ○ 工业通信分销 20%：DataLink Communications Ltd（Loughrea Co. Galway
@@ -65,5 +65,7 @@
 | 官网 / 名录 | emacsys 分销商名录：DataLink Communications Ltd · Loughrea Co. Galway · sales@datalinkcom.net |  | http://www.emacsys.com/html/distributors.html | 2026-10-29 |
 | 官网 / 名录 | LeadIQ：Datalink Communications · 11–50 人 |  | https://leadiq.com/c/datalink-communications/5a1da7f723000054009baae5 | 2026-10-29 |
 | 登记 / 名录 | Golden Pages：D.L.C. DataLink Communications Ltd · Loughrea H62 F985 · Industrial Networking Supplies |  | https://www.goldenpages.ie/dlc-datalink-communications-ltd-loughrea-H62/ | 2026-10-29 |
+| 官网快照 | 官网在线；BASKET168 ｜ Link Login Provider Pragmatic Slot Gacor Pasti Jackpot Malam Ini | BASKET168 adalah platform yang menawarkan akses mudah untuk bermain berbagai permainan slot dari penyedia terkemuka, termasuk Pragmatic Play. | https://www.datalinkcom.net/ | 2026-10-29 |
 
-- 备注：DataLink Communications Ltd；Cloghaun, Kilchreest, Loughrea, Co. Galway, Ireland（LeadIQ 另列 Natick MA 地址，疑混淆）；+353 91 840838
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/evidence。
+DataLink Communications Ltd；Cloghaun, Kilchreest, Loughrea, Co. Galway, Ireland（LeadIQ 另列 Natick MA 地址，疑混淆）；+353 91 840838

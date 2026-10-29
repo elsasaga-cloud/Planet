@@ -22,7 +22,7 @@ last_contact: unknown
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -54,6 +54,7 @@ updated: 2026-10-29
 | 2025-02-18 | 去 | Elsa 群发（BCC；To dipol@skuatechnology.com，PT/IE/SE/OM/HU/NZ/RO/MT/AE/BE 早期混合 批次） | Mini Industrial PoE Switch — This is about our MINI Din unmanaged switches for you. 1. 100/1000M auto-adaptive SFP fiber 2. support DIP for flexible configuration 3. PoE optional, | Elsa 箱群发 BCC 触达证据（命中地址 office@tehnoelectric.ro, tehnoelectric.ro）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-08-13 | 去 | Elsa 群发（BCC；To info@iotkomponenty.sk，SK/RO/BE/FI/PT/IE/SE/HU/MT/NZ/AE+非洲散户 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 office@tehnoelectric.ro, tehnoelectric.ro）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | POE injector 比较杂 啥都有 | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：tehnoelectric.ro MX mail.tehnoelectric.ro.；A 172.67.204.213 / 104.21.77.55；NS rafe.ns.cloudflare.com. / chuck.ns.cloudflare.com. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -106,7 +107,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（tehnoelectric.ro：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（tehnoelectric.ro：HTTP 错误，2026-10-29，第 2 次）
 - **是谁**：罗马尼亚 Tehnoelectric（tehnoelectric.ro：销售平台型网店，「PoE injector 比较杂 啥都有」；官网 http_error）；表内未跟进。
 - **类型**：综合电子网店（罗马尼亚，平台型）
 - **【用户表】表内兴趣/备注**
@@ -115,7 +116,8 @@ updated: 2026-10-29
 - **【用户表】PoE injector 比较杂**
   > POE injector 比较杂 啥都有；销售平台
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -136,7 +138,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——PoE 位 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）；非管理 4/8 PoE 位 HRUI（列表价，注明）；PoE 注入器 Saga 不供（Q-32）
 - **邮件切入句（英文）**：For the PoE products you list, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and budget 4/8-PoE unmanaged switches from single units, CE/RoHS, EXW USD — which PoE switch SKU sells most in your shop?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：tehnoelectric.ro
   > https://tehnoelectric.ro/ http 403 ct=text/html; charset=utf-8
@@ -155,7 +157,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1087/`；本节随档案重渲染刷新，实时看日志。
 

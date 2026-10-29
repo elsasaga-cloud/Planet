@@ -182,17 +182,17 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
-- **最近变化摘要**：2026-10-23 首轮基线
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 news_2：内容变化：+3 −3 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-721/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://woodcomm.ie/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 11348 字符；首行：Wood Communications – Your Link To The Future – Networking & Data Centre Certi |
+| [home](https://woodcomm.ie/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 11348 字符；首行：Wood Communications – Your Link To The Future – Networking & Data Centre Certi |
 | [sitemap](https://woodcomm.ie/wp-sitemap.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
-| [news_1](https://woodcomm.ie/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4249 字符；首行：News – Wood Communications – Wood Communications |
-| [news_2](https://woodcomm.ie/category/news/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 4278 字符；首行：News – Wood Communications – Wood Communications |
-| [feed_auto](https://woodcomm.ie/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Thu, 08 Oct 2026 13:22:15 cat6a cable price ireland |
+| [news_1](https://woodcomm.ie/news/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 4249 字符；首行：News – Wood Communications – Wood Communications |
+| [news_2](https://woodcomm.ie/category/news/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 4278 字符；首行：News – Wood Communications – Wood Communications |
+| [feed_auto](https://woodcomm.ie/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Thu, 08 Oct 2026 13:22:15 Cat6a Cable Price Ireland |
 
 - **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/woodcommdatanetworkingexperts；LinkedIn: https://www.linkedin.com/company/wood-communications
 

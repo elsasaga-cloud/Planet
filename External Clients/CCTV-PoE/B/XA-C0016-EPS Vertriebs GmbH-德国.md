@@ -1,6 +1,6 @@
 # XA-C0016 · EPS Vertriebs GmbH · 德国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:15998 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R01 2026-10-27）→ 下一动作 首触
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:15998 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 首触
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家（分销/集成/安装/零售/OEM 品牌）+ 有邮箱
@@ -60,13 +60,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W1-R01，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XA** — 德国安防批发商、官方分销多牌、已有 Switche 品类、家族小公司 → A 首触
-- 活着吗：活（Security Essen 2026 参展页）
+- 活着吗：在线（eps-vertrieb.de，快照 2026-10-29）：EPS Vertrieb & System – Ihr Ansprechpartner für Alarm-, Brand-
 - 一句话：Havixbeck 的安防技术批发商（1980 起，11–50 人，EPS 集团），只供 Fachhandel/电工/Errichter；Dahua DACH 官方分销（2020 最佳分销商奖）、Milesight 视频、Ajax/Jablotron 报警，产品表里已有「Switche」一类。家族经营（Hövelmann 父子 + Haas 任 GF）。
 - 是什么人：安防技术批发商（Dahua/Milesight/Ajax/Jablotron 官方分销）；规模：11–50 人
-- 在卖/在用：Dahua、Milesight、Ajax、Jablotron、FireAngel、UR Fog
+- 在卖/在用：Dahua、Milesight、Ajax、Jablotron、FireAngel、UR Fog、Schneider
 - 对口哪条线：HRUI PoE 主打（Dahua 项目配套）+ SmartByte L2+ — Dahua 官方分销必配 PoE 交换机；目前只能卖 Dahua 自家 PoE，缺一条中性便宜线给 Errichter
 - 找得到人吗：info@eps-vertrieb.de（Dahua 伙伴页 + 官网公开）；KP：Maik Hövelmann（Geschäftsführer（2023 起，二代），handelsregister.ai）
 - 已触达：未发信
@@ -80,6 +80,7 @@
 | wlw.at 产品表 | Videotechnik ｜ DAHUA, Milesight ｜ Kameras … NVR/XVR, Monitore, Switche |  | https://www.wlw.at/de/firma/eps-elektronische-sicherungsanlagen-und-systeme-vertriebs-gmbh-1215232 | 2026-10-27 |
 | LinkedIn | Großhandel；11–50；Havixbeck；1980 |  | https://de.linkedin.com/company/eps-vertriebs-gmbh | 2026-10-27 |
 | handelsregister.ai | GF: Jürgen Hövelmann (2008), Maik Hövelmann (2023), Wilfried Haas (2003) |  | https://handelsregister.ai/de/organizations/havixbeck/grosshandel-mit-geraeten-der-unterhaltungselektronik/eps-vertriebs-gmbh-b8f9f21763acdb35268d625fd44cd07b | 2026-10-27 |
+| 官网快照 | 官网在线；EPS Vertrieb & System – Ihr Ansprechpartner für Alarm-, Brand- | Geschäftskunden aufgepasst: Alarm-, Brand- und Videotechnik von angesehenen Herstellern: AJAX, JABLOTRON, DAHUA... | https://www.eps-vertrieb.de/ | 2026-10-29 |
 
 草稿（英文，首触；Simon 发，Agent 不发）：
 
@@ -98,4 +99,5 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：不点名 Dahua PoE 比价。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+不点名 Dahua PoE 比价。

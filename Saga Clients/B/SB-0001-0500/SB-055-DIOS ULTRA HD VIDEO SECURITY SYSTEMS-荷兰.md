@@ -29,7 +29,7 @@ s_mail: 28 msgs (out 26 / in 2), 2024-07-05 -> 2026-09-02
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
-site_snapshot: unreachable  # 2026-10-21
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -41,7 +41,7 @@ updated: 2026-10-29
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 16 次（2024-05-10 → 2025-10-06）；最近一次客户回复：2025-03-05：price
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM / STI-288DGGPM — 一句话带问题，不再发价表。已打开的主题（2/26 封有打开记录）：「8 Port Industrial PoE Switch」(2025-03-05)、「Re: 8 Port Industrial PoE Switch」(2025-03-05) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Price List_Marvell Industrial Unmanage(2025-03-05)、Price List_Marvell Industrial Managed (2025-03-05)、Product Link_2026Q2(2026-02-16)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按 25% 集成档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-04 $300（48 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：STC-28DGGPM 由列表价 $99 改为 25% 档 $84.1；STI-288DGGPM $137.5 = 列表价封顶（25% 档 $145.7 更高）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-06 $280（10G Enterprise SFP Switch）、2026-06-10 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：From the two price lists last March, did any model reach a shortlist — and if not, was it price, PSU, or lead time?
-- **最大未知**：官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
+- **最大未知**：年走量与现供应商
 - **下一步**：2026-11 A 邮箱 → j.slob@dios-industries.com 问价表里哪一款进过选型、输在哪
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
@@ -61,6 +61,7 @@ updated: 2026-10-29
 | 2025-03-05 | 来 | Jacco Slob（CEO） | please sent me pricelist. | 要价表 | `217f8105eb7fd892` |
 | 2025-03-05 | 来 | Jacco | thank u, where can i find prices? | 链接里找不到价 | `a25eb7d3ab45c05e` |
 | 2025-03-05 | 去 | Alan | Please see attached 2 price lists. | 给价表后停 | `955016f874e9ee64` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Dios Ultra HD Video Security Systems gespecialiseerd in Ultra HD en/of 4k — Dios Ultra HD Video Security Systems gespecialiseerd in Ultra HD en/of 4k camerabeveiliging oplossingen. Altijd goed beveiligt | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -160,10 +161,11 @@ updated: 2026-10-29
   > 来源：https://www.oozo.nl/bedrijven/rucphen/sint-willebrord/sint-willebrord/1825632/dios-industries（抓取 2026-10-21）
 - **KP**：Jacco (Jacob) Slob（CEO + 经个人控股 Kiyi Holding B.V.（KvK 59106808）任 Epic Europe B.V. 唯一 bestuurder（2013-10-29 起）= **老板 = 联系人**；2025-03 本人两封要价表，我们给了两份后无下文 = 价表没对上需求（他卖监控配套 PoE）（第 88 批 官方登记核实 2026-10-27））j.slob@dios-industries.com +31 6 4685 3228（2025-03-05 签名 m 06-46853228）〔S/A 邮箱来信 2025-03-05 来信 2 封（第 72 批从邮件表头补）〕
 - **调研后定级**：B（原自动 A）——欧洲主攻区、CCTV 对位 PoE，但 1 次回复后 15 次推送无果 → 慢跟。
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 WA 季度触达一次（STC-28DGGPM / STC-424DGGPM-280W，项目 25%）。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 注册核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + 注册核对） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -181,14 +183,21 @@ WA 季度触达一次（STC-28DGGPM / STC-424DGGPM-280W，项目 25%）。
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——自进口安装商：STC-28DGGPM（全口 30W 配 4K 摄像）为主、STC-424DGGPM-280W 为多摄像点；25% 档（自进口亦可按 20% 谈量）
 - **邮件切入句（英文）**：Since you import directly for your 4K installs, the 8-port PoE+ managed switch at $84.1 EXW with 30 W on every port covers the multi-sensor heads; shall I quote a mixed carton of 8- and 24-port units?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名不可达（DNS/连接失败））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
 
-- 尝试域名：dios-industries.com
-  > https://dios-industries.com/ conn: HTTPSConnectionPool(host='dios-industries.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionErro
-  > https://www.dios-industries.com/ conn: HTTPSConnectionPool(host='www.dios-industries.com', port=443): Max retries exceeded with url: / (Caused by NewConnection
-  > http://dios-industries.com/ conn: HTTPConnectionPool(host='dios-industries.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError(
-- **提示**：域名不可达 → 表内域名可能拼错/过期；跟进前核对邮箱域名。
-- 数据文件：`data/saga_clients/site_snapshots/SB-055.json`
+- **首页**：https://dios-industries.com/　语言：nl-NL　站点地图 URL 数：6
+- **标题**：Dios Ultra HD Video Security Systems gespecialiseerd in Ultra HD en/of 4k
+- **描述**：Dios Ultra HD Video Security Systems gespecialiseerd in Ultra HD en/of 4k camerabeveiliging oplossingen. Altijd goed beveiligt
+- **首页栏目**：Dios Ultra HD digitale camerabeveiliging / Kwalitatieve oplossingen voor uw veiligheid / DIOS Ultra HD Video Security Systems / Bedrijfs missie / Bedrijfs visie / Bedrijfs strategie
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 39、ethernet 9、switch 8、nvr 4、installer 2、axis 1
+- **站内公开邮箱**：info@dios-industries.com
+- **站内公开电话**：+31 (0)85 4018 169
+- **社媒**：https://twitter.com/DIOS_INDUSTRIES, https://www.instagram.com/diosindustries/
+- **产品类页面**：https://dios-industries.com/producten/
+- **已抓子页**：[Producten van Dios Ultra HD Video Security Systems Ultra HD/](https://dios-industries.com/producten/)；[Contact Dios Ultra HD Video Security Systems gespecialiseerd](https://dios-industries.com/contact/)；[Service van Dios Ultra HD Video Security Systems](https://dios-industries.com/dios-ultra-hd-video-security-systems-service/)
+- 首页正文摘录：Home Producten Branches Service Vacatures Contact Dios Ultra HD digitale camerabeveiliging Kwalitatieve oplossingen voor uw veiligheid DIOS Ultra HD Video Security Systems Dios Ultra HD Video Security Systems is een onderdeel van EPIC EUROPE BV en heeft zich toegelegd op hoogwaardige digitale camerabeveiliging. Of het nu gaat om 1 camera of 100-en camera’s in 1 project of vele vestigingen die bij elkaar moeten komen,
+- **自动对位建议**：STC-28DGGPM（官网快照对位：交换机词频 8、无 PoE/工业侧重 → 8 口 L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-055.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -242,13 +251,13 @@ WA 季度触达一次（STC-28DGGPM / STC-424DGGPM-280W，项目 25%）。
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-27T08:02:45Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-055/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://dios-industries.com/) | html | ConnectionError: HTTPSConnectionPool(host='dios-industries.c | 2026-10-27T08:02:45Z | 官网首页（T27 快照状态 unreachable） |
+| [home](https://dios-industries.com/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 2322 字符；首行：Dios Ultra HD Video Security Systems gespecialiseerd in Ultra HD en/of 4k |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -324,7 +333,6 @@ WA 季度触达一次（STC-28DGGPM / STC-424DGGPM-280W，项目 25%）。
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

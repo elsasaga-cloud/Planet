@@ -213,14 +213,14 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
 - **最近变化摘要**：2026-10-29 sitemap：新增 491 条： index； 18； intro； notice； 22； system； 46； ito…
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-982/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.mcss.co.kr/) | html | HTTP 200 | 2026-10-29T08:41:09Z | 6957 字符；首行：엠씨에스솔루션 \| 네트워크 솔루션·ICT·IoT 전문기업 |
-| [sitemap](https://www.mcss.co.kr/sitemap.xml) | sitemap | HTTP 200 | 2026-10-29T08:41:09Z | 571 个 URL；最新 lastmod 2026-08-06 |
+| [home](https://www.mcss.co.kr/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 6957 字符；首行：엠씨에스솔루션 \| 네트워크 솔루션·ICT·IoT 전문기업 |
+| [sitemap](https://www.mcss.co.kr/sitemap.xml) | sitemap | HTTP 200 | 2026-10-29T15:11:51Z | 571 个 URL；最新 lastmod 2026-08-06 |
 | [news_1](https://www.mcss.co.kr/blog) | html | HTTP 200 | 2026-10-26T07:56:19Z | 5554 字符；首行：엠씨에스솔루션 \| 네트워크 솔루션·ICT·IoT 전문기업 |
 | [news_2](https://www.mcss.co.kr/reference) | html | HTTP 200 | 2026-10-23T04:20:51Z | 9245 字符；首行：엠씨에스솔루션 \| 네트워크 솔루션·ICT·IoT 전문기업 |
 | [youtube](https://www.youtube.com/@mcssolution) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-09-18T06:40:10+00:00 네트워크 장비 관리, 이 앱 하나로 종결합니다. #shorts |

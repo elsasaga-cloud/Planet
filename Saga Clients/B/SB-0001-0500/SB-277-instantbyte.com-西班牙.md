@@ -209,13 +209,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
-- **最近变化摘要**：2026-10-29 youtube：新增 1 条：2026-10-28T17:00:18 Videoporteros IP Grandstream \| Control de accesos profesional #
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 home：内容变化：+172 −29 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-277/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://www.instantbyte.com/) | html | HTTP 200 | 2026-10-29T08:41:09Z | 17516 字符；首行：Instant Byte - Mayorista Wifi, Camaras IP, VoIP, Networking, Wireless, Wimax,  |
+| [home](https://www.instantbyte.com/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 17806 字符；首行：Instant Byte - Mayorista Wifi, Camaras IP, VoIP, Networking, Wireless, Wimax,  |
 | [news_1](https://www.instantbyte.com/blog/) | html | HTTP 200 | 2026-10-29T08:41:09Z | 40825 字符；首行：Blog de Instant Byte - Mayorista de valor añadido espcializados en networking, |
 | [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UC_yWaJtmKy9dwFjqV4JT7uA) | rss | HTTP 200 | 2026-10-29T08:41:09Z | 15 条；最新：2026-10-28T17:00:18+00:00 Videoporteros IP Grandstream \| Control de accesos profe |
 

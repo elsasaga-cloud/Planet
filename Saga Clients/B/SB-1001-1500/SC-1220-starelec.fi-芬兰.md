@@ -29,7 +29,7 @@ s_mail: 22 msgs (out 22 / in 0), 2024-07-10 -> 2026-09-09
 p1: STC-228GP
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -59,6 +59,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | △ 观察档 · 分销 20%：Starelec Oy（0549989-1；Vaasa 1984；电子元件 / 仪表分销，网络为副线，有 ONV）坐实；§5 四条技术上齐，但副线 + 体量小 → 入池观察档，Simon 定 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 登记底数（registry） | FI · 1 次检索：starelec.fi/sivu/yritys（0549989-1；1984；Vaasa）+ yritystele（Aktiivinen）；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Sähkökomponentit netistä - Starelec.fi — Starelec on elektroniikkaan keskittynyt verkkokauppa, jossa asiointi on aina turvallista ja vaivatonta! | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -116,7 +117,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-29）**　网站状态：域名 starelec.fi（官网快照待 Actions 补抓）
+- **状态：已调研（2026-10-29）**　网站状态：在线（starelec.fi，快照 2026-10-29）：Sähkökomponentit netistä - Starelec.fi
 - **是谁**：C 池三闸捞出（△ 观察）：△ 观察档 · 分销 20%：Starelec Oy（0549989-1；Vaasa 1984；电子元件 / 仪表分销，网络为副线，有 ONV）坐实；§5 四条技术上齐，但副线 + 体量小 → 入池观察档，Simon 定
 - **类型**：分销（闸 2 判定 · 20% 档）
 - **规模**：小型（推定）
@@ -131,10 +132,11 @@ updated: 2026-10-29
 - **KP**：—（表内邮箱（公开 / 总机））myynti@starelec.fi 〔〕
 - **KP**：—（表内邮箱（公开 / 总机））sampo.aallos@starelec.fi 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · 分销 20%：Starelec Oy（0549989-1；Vaasa 1984；电子元件 / 仪表分销，网络为副线，有 ONV）坐实；§5 四条技术上齐，但副线 + 体量小 → 入池观察档，Simon 定；闸 1：芬兰 Starelec（Networking，有 ONV 的 switch）：欧洲 + 已进口中国同类品牌 + 对位 ✔；15 次跟进无回复（冷）→ 闸 2 查底数
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/saga_fit.basis/deep/facts。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -148,6 +150,18 @@ updated: 2026-10-29
 有ONV的switch
 - **风险/边界**：**分销 20%：点名 Sampo 一页纸一次（STC-028GP $28 / STC-228GP $33 对标 ONV + MOQ 1）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；网络为副线不加码
 - **Saga 对位结论**：P1 STC-228GP（20% 档）——默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://starelec.fi/　语言：fi-FI　站点地图 URL 数：4904
+- **标题**：Sähkökomponentit netistä - Starelec.fi
+- **描述**：Starelec on elektroniikkaan keskittynyt verkkokauppa, jossa asiointi on aina turvallista ja vaivatonta!
+- **首页栏目**：Uudistunut verkkokauppa on nyt avattu / Uusimmat tuotteet / Suositut brändit / Viikon suosituimmat / Elektroniikkakomponentit ja tarvikkeet Starelec verkkokaupasta / Laaja valikoima elektroniikkakomponentteja / Arduino, anturit ja kehitysalustat projekteihin / Kaapelit, liittimet ja asennustarvikkeet
+- **站内型号串**（正则抽取，含非交换机）：VTMG13
+- **站内公开邮箱**：shop@starelec.fi
+- **产品类页面**：https://starelec.fi/tuotemerkki/itw-switches-ltd；https://starelec.fi/tuotemerkki/marquardt-switches-inc；https://starelec.fi/tuotemerkki/arcolectric-switches-plc；https://starelec.fi/tuotemerkki/sorny-roong-industrial-co；https://starelec.fi/tuotemerkki/general-industrial-controls；https://starelec.fi/tuotemerkki/panasonic-industrial-devices
+- 首页正文摘录：Tervetuloa uudistettuun verkkokauppaan! Voit kirjautua sisään samoilla tunnuksilla kuin ennen. Soita meille Lähetä viesti ✓ Kotimainen verkkokauppa ✓ Nopea toimitus Finland Suosikit 0 Koti Asiakas Kirjaudu sisään Ota yhteyttä 0 Ostoskori Valikko Valikoima Asennuskaapelit ja -tarvikkeet Elektroniset komponentit Kytkimet Liitäntäkaapelit Liittimet Magneetit Mekaaniset ja sähkömekaaniset osat Mittaus- ja automaatiolaitt
+- 数据文件：`data/saga_clients/site_snapshots/SC-1220.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -202,12 +216,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-1220/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://starelec.fi/) | html | 待首轮 | — | 官网首页 |
+| [home](https://starelec.fi/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 5491 字符；首行：Sähkökomponentit netistä - Starelec.fi |
 
 ## 联系方式（已有 · 原值照录）
 

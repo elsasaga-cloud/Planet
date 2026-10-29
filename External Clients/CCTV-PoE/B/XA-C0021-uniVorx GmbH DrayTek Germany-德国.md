@@ -1,10 +1,10 @@
 # XA-C0021 · uniVorx GmbH / DrayTek Germany · 德国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:16718 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R01 2026-10-27）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 CCTV-PoE `03-海外客户开发清单.md`:16718 ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家（分销/集成/安装/零售/OEM 品牌）+ 有邮箱
-- 研究后改级：XA → **XB**（W1-R01，DrayTek 独家总代，结构上不会引入第二牌交换机 → B 不动）；编号不变
+- 研究后改级：XA → **XB**（LT-T03，DrayTek 独家总代，结构上不会引入第二牌交换机 → B 不动）；编号不变
 - 人工改级：XB（2026-10-29，Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径））；编号不变
 - 标记：无
 - 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
@@ -61,10 +61,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W1-R01，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — DrayTek 独家总代，结构上不会引入第二牌交换机 → B 不动
-- 活着吗：活
+- 活着吗：在线（draytek.de，快照 2026-10-29）：TwoCom Web-Services
 - 一句话：柏林近郊 Schönefeld 的 DrayTek DACH 独家总代（2014 年底接手，11–50 人），只卖 DrayTek 一牌（含 VigorSwitch PoE 全线），下面再分给 Comline/TwoCom/TKR 等分销。品牌独家总代不会上第二家交换机。
 - 是什么人：单品牌独家总代（DrayTek）；规模：11–50 人
 - 在卖/在用：DrayTek
@@ -79,3 +79,7 @@
 |---|---|---|---|---|
 | DrayTek.de Wir über uns | Die uniVorx GmbH als exklusiver DrayTek Partner für die DACH Region |  | https://www.draytek.de/wir-ueber-uns.html | 2026-10-27 |
 | heise | Neuer Generaldistributor ist dann das eigens gegründete Berliner Unternehmen Univorx |  | https://www.heise.de/newsticker/meldung/Neuer-Distributionsweg-fuer-DrayTek-Router-2499623.html | 2014-12-18 |
+| 官网快照 | 官网在线；TwoCom Web-Services | TwoCom Web-Services | https://draytek.de/ | 2026-10-29 |
+
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/evidence。
+

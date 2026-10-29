@@ -1,10 +1,10 @@
 # XA-M411 · Sittig Technologies GmbH · 德国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 mikrotik-info `A-179`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R03 2026-10-27）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 mikrotik-info `A-179`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱（含实名 KP）
-- 研究后改级：XA → **XB**（W1-R03，小项目集成商/系统之家（Allied Telesis 伙伴名录批量导入），非渠道；9–10 月已发未回 → B 慢慢跟进（不进第二封））；编号不变
+- 研究后改级：XA → **XB**（LT-T03，小项目集成商/系统之家（Allied Telesis 伙伴名录批量导入），非渠道；9–10 月已发未回 → B 慢慢跟进（不进第二封））；编号不变
 - 人工改级：XB（2026-10-29，Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径））；编号不变
 - 标记：S箱已群发
 - 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
@@ -82,13 +82,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W1-R03，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — 小项目集成商/系统之家（Allied Telesis 伙伴名录批量导入），非渠道；9–10 月已发未回 → B 慢慢跟进（不进第二封）
-- 活着吗：来源库 2026-09-27 核对在线；本轮未复查
+- 活着吗：在线（sittig-tech.com，快照 2026-10-29）：Sittig Technologies - The Future of Communication
 - 一句话：公共广播/数据通信/IP 照明（Frankfurt）；Marvell Prestera 接入层切入
 - 是什么人：公共广播/数据通信/IP 照明（Frankfurt）；规模：未量化
-- 在卖/在用：Allied Telesis（Marvell Prestera 接入层）
+- 在卖/在用：Allied Telesis（Marvell Prestera 接入层）、Ubiquiti
 - 对口哪条线：—
 - 找得到人吗：info@sittig.de（来源库公开邮箱）；KP：无具名
 - 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
@@ -99,5 +99,7 @@
 | 类型 | 说明 | 摘录 | 来源 | 日期 |
 |---|---|---|---|---|
 | 来源库官网/名录核对 | 伙伴等级：Resell。 【2026-09-27 联系方式核验】公开邮箱·一方/伙伴来源。官网页脚公开通用邮箱，Frankfurt；业务含公共广播、数据通信及 IP 照明，勿用招聘邮箱代替。 来源：[1](https://www.sittig-tech.com/career) |  | https://sittig-tech.com/ | 2026-09-27 |
+| 官网快照 | 官网在线；Sittig Technologies - The Future of Communication | Sittig Technologies transforms airport communication with cutting-edge audio management and automatic announcement solutions. | https://www.sittig-tech.com/ | 2026-10-29 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence。
+轻卡：本轮未外查，沿用来源库官网/名录核对。

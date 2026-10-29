@@ -23,7 +23,7 @@ s_mail: 7 msgs (out 7 / in 0), 2024-07-06 -> 2025-01-27
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
-site_snapshot: unreachable  # 2026-10-21
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -35,7 +35,7 @@ updated: 2026-10-29
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 自有型号商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标；工业 8 PoE + 2 SFP STI-288GP（$62.2）作 Utepo 二供。已打开的主题（3/7 封有打开记录）：「Mini industrial switch」(2024-08-18)、「Power Converter」(2024-09-14)、「16 Port PoE Managed Switch」(2025-01-27) → 读者兴趣偏「工业」；与 P1 同类，继续；首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-17 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-21 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-21；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-26；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：For the PoE switches sold under your own model numbers, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W; DIN-rail 8-PoE for Utepo positions) in your packaging from small lots, CE/RoHS; EAC by your side — which PoE SKU do you reorder most? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：2026-11 S 邮箱 → sales@cmd-sec.ru 首封前知悉：本户是 Elsa 俄罗斯-3 批次的锚，To 直收 15 轮（2025-02-21→2026-08-26，最近 24-PoE $170），一封未回；S 箱 2024→2025 另 7 封、3 次打开。开头按 ㉝「我们发过不少信、你没有理由回」，别当陌生户；24-PoE 要报 $180 就先说 8 月那封是 $170、汇率 7.2→6.7；短信一问（email_hook）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
@@ -60,6 +60,7 @@ updated: 2026-10-29
 | 2026-08-26 | 去 | Elsa（e.sagatelecom，Gmail 连接器实时查询） | Elsa 邮箱群发「24 Port PoE Managed Switch」→ sales@cmd-sec.ru（截至 2026-10-24 无回复） | 仓库 gmail_e 只收录有回复的线程，Elsa 2026-08-19 → 09-15 的 201 封群发不在库里；本户在前 100 封内。意义：S/A 邮箱的「未发信/未触达」判断不等于 Elsa 没碰过——三个邮箱对同一户的触达要合看；Elsa 群发无回 = 再加一次「读而不回/未触达」证据 | `Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）` |
 | 2026-08-26 | out | Elsa 群发（To 直收：本户是「俄罗斯-3（锚 cmd-sec.ru）」批次的锚，其余客户在 Bcc） | 24 Port PoE Managed Switch（俄罗斯-3 批次月轮之一；To 本户、其余 Bcc；正文价 170usd/pc，第 74 批(p) 读稿 msg 1a05bfb71364077f） | 第 74 批(e) 误判为 1:1 单发；第 74 批(l) 读 Bcc 头证实本户是锚（每轮 To 本户、Bcc 24–27 家） | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 有Utepo的工业FS 主要是商业POE 自己的型号 | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | CMD оборудование для видеонаблюдения - купить CMD \| cmd-sec.ru — Производство оборудования для видеонаблюдения торговой марки CMD \| 8 (800) 555-42-83 Оборудование для видеонаблюдения Cmd Video Security с доставкой по России. Выгодные условия для партнеров. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -120,7 +121,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（cmd-sec.ru：域名不可达（DNS/连接失败），2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：在线（cmd-sec.ru，快照 2026-10-29）：CMD оборудование для видеонаблюдения - купить CMD | cmd-sec.ru
 - **是谁**：俄罗斯 CMD-sec（安防：自有型号商用 PoE 为主，工业 FS 有 Utepo；官网 unreachable）；表内未跟进。
 - **类型**：安防品牌商（俄罗斯，自有型号 PoE）
 - **在卖/在用品牌**：Utepo
@@ -130,10 +131,11 @@ updated: 2026-10-29
 - **【用户表】自己的型号；Utepo**
   > 有Utepo的工业FS 主要是商业POE 自己的型号
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/deep/facts。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -151,14 +153,22 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——自有型号商用 PoE → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）、24 口 STC-424DGGPM-280W（$145.7）贴标；工业 8 PoE + 2 SFP STI-288GP（$62.2）作 Utepo 二供
 - **邮件切入句（英文）**：For the PoE switches sold under your own model numbers, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP, 24-PoE 280 W; DIN-rail 8-PoE for Utepo positions) in your packaging from small lots, CE/RoHS; EAC by your side — which PoE SKU do you reorder most?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：域名不可达（DNS/连接失败））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
 
-- 尝试域名：cmd-sec.ru
-  > https://cmd-sec.ru/ conn: HTTPSConnectionPool(host='cmd-sec.ru', port=443): Max retries exceeded with url: / (Caused by NewConnectionError("HTTPSC
-  > https://www.cmd-sec.ru/ conn: HTTPSConnectionPool(host='www.cmd-sec.ru', port=443): Max retries exceeded with url: / (Caused by NewConnectionError("HT
-  > http://cmd-sec.ru/ conn: HTTPConnectionPool(host='cmd-sec.ru', port=80): Max retries exceeded with url: / (Caused by NewConnectionError("HTTPConn
-- **提示**：域名不可达 → 表内域名可能拼错/过期；跟进前核对邮箱域名。
-- 数据文件：`data/saga_clients/site_snapshots/SB-863.json`
+- **首页**：https://cmd-sec.ru/　语言：未标　站点地图 URL 数：247
+- **标题**：CMD оборудование для видеонаблюдения - купить CMD / cmd-sec.ru
+- **描述**：Производство оборудования для видеонаблюдения торговой марки CMD / 8 (800) 555-42-83 Оборудование для видеонаблюдения Cmd Video Security с доставкой по России. Выгодные условия для партнеров.
+- **首页栏目**：Видеонаблюдение CMD / Почему вам стоит обратиться именно к нам?
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 4、ethernet 2、nvr 2
+- **站内型号串**（正则抽取，含非交换机）：CMD-NVR122-32, IP1080-WD2, CMD-VD74MK, IP5-WB2, CMD-HDMI-10M, CMD-HDMI-3M, CMD-HDMI-5M, RJ45-RJ45
+- **站内公开邮箱**：sales@cmd-sec.ru
+- **站内公开电话**：+7 (966) 240-06-21, +7 (966) 240-06-21 8 (800) 555-42-83
+- **社媒**：https://t.me/cmd_cctv, https://vk.com/tekocmd, https://youtube.com/channel/UCiynziB4_roLN0cYyFkqBLQ
+- **产品类页面**：https://cmd-sec.ru/catalog/setevoe_oborudovanie/cmd-sw104-poe/；https://cmd-sec.ru/catalog/setevoe_oborudovanie/cmd-sw108-poe/；https://cmd-sec.ru/catalog/setevoe_oborudovanie/cmd-sw224-poe/；https://cmd-sec.ru/catalog/setevoe_oborudovanie/cmd-sw208-poe/；https://cmd-sec.ru/catalog/setevoe_oborudovanie/cmd-sw204-poe/；https://cmd-sec.ru/catalog/setevoe_oborudovanie/cmd-sw16-poe-m/
+- **已抓子页**：[О продукции CMD](https://cmd-sec.ru/about/)；[Контакты CMD Video Security](https://cmd-sec.ru/contacts/)；[Оборудование для видеонаблюдения CMD](https://cmd-sec.ru/catalog/)；[Хранение данных, цены, характеристики - купить у дилеров](https://cmd-sec.ru/catalog/hdd-sd/)；[Разъемы для видеооборудования от CMD, цены, характеристики -](https://cmd-sec.ru/catalog/razemy/)；[Оборудование для видеонаблюдения CMD](https://cmd-sec.ru/catalog/domofony/)
+- 首页正文摘录：+7 (966) 240-06-21 8 (800) 555-42-83 Заказать звонок Toggle navigation О продукции Каталог Дилеры Стать партнером Обучение FAQ Скачать Контакты Узнать больше Узнать больше Узнать больше Узнать больше Узнать больше Ваши выгоды Основной склад бренда находится в Казани Обработка гарантийных обращений в течение 5 рабочих дней Оборудование бренда удобно использовать в тендерах и проектах Наличие горячей линии техподдержки
+- **自动对位建议**：STC-28DGGPM（官网快照对位：PoE 词频 4 → 8 口 PoE+ 2 SFP L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-863.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -190,7 +200,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T08:41:09Z
 - **最近变化摘要**：2026-10-24 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-863/`；本节随档案重渲染刷新，实时看日志。
 
@@ -269,7 +279,6 @@ updated: 2026-10-29
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

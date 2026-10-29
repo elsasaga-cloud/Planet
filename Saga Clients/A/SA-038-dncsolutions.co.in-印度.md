@@ -28,7 +28,7 @@ s_mail: 3 msgs (out 3 / in 0), 2024-06-19 -> 2024-12-11
 p1: STI-144GP
 price_tier: 30%
 research: done
-site_snapshot: timeout  # 2026-10-21
+site_snapshot: timeout  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -159,7 +159,8 @@ updated: 2026-10-29
   > 来源：https://www.dncsolutions.co.in/（抓取 2026-10-21）
 - **KP**：—（官网公开电话（WhatsApp 已加）） +91 96561 23414〔https://www.dncsolutions.co.in/〕
 - **KP**：Lakshman Lakshmannivas Deepak（Director（DIN 06562153，2013-05-20 创立至今，唯一在任创始董事）= 实控人；Whole-time Director Nomitha Soundrarajan（2023-07）；MCA 年报停在 FY2022-23（第 85 批 官方登记核实 2026-10-27）） 〔https://www.zaubacorp.com/DNC-TECHNOSOLUTIONS-PRIVATE-LIMITED-U33125KL2013PTC034130〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 A 维持（2 次实质回复 + 自有品牌 + 官网电话即 WhatsApp）；主需求 MC 与 VC：P1 = STI-110GE（MC）贴牌 30%；VC/HDMI 光端机 Saga 不做，如实说明。
 
 ### 加厚挖掘（2026-10-21 · 深挖 v2（官网 dncsolutions.co.in + IndiaMART 核对））
@@ -187,7 +188,7 @@ A 维持（2 次实质回复 + 自有品牌 + 官网电话即 WhatsApp）；主�
 - **Saga 对位结论**：P1 STI-144GP（30% 档）——自有标 DNC 4-PoE+1-FX 的同口型 = STI-144GP；MC-10100G 位 = STI-110GE；8 口升级 STI-288DGGPM；按 DNC 命名 OEM 30% 档
 - **邮件切入句（英文）**：For your DNC 4-PoE + 1-FX switch and the MC-10100G converter, I can supply the 4-port gigabit PoE+ with SFP (STI-154GP) and the gigabit media converter (STI-110GE) in DNC packing, EXW, with CE/RoHS files.
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：超时（站慢或封锁））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：超时（站慢或封锁））
 
 - 尝试域名：dncsolutions.co.in
   > https://dncsolutions.co.in/ conn: HTTPSConnectionPool(host='dncsolutions.co.in', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutErro
@@ -242,7 +243,7 @@ A 维持（2 次实质回复 + 自有品牌 + 官网电话即 WhatsApp）；主�
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-038/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |

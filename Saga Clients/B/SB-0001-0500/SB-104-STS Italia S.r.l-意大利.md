@@ -28,7 +28,7 @@ s_mail: 19 msgs (out 18 / in 1), 2024-11-20 -> 2026-10-08
 p1: STC-424DGGPM-280W
 price_tier: 25%
 research: done
-site_snapshot: parked_or_empty  # 2026-10-21
+site_snapshot: parked_or_empty  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -150,7 +150,8 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Eros Stefani（联系人 · 姓氏 = 创始家族 Stefani（atoka 成员表首位 Silvio Stefani）→ 推定家族第二代 / 管理层；公司 73–82 人、2024 营收 €7,973,181、净利 €438,664 —— 比研究档「小安防店」大得多（第 87 批 官方登记核实 2026-10-27））eros.stefani@stsitalia.com —〔用户表〕
 - **KP**：Andrea Rongoni（采购 / 技术经办（不在登记成员表）（第 87 批 官方登记核实 2026-10-27））andrea.rongoni@stsitalia.com —〔用户表〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 （无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对 + 同名消歧））
@@ -172,7 +173,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-424DGGPM-280W（25% 档）——SI 项目机：STC-424DGGPM-280W（24 PoE+ 280W + 4 SFP）作摄像汇聚，STC-28DGGPM 作边缘；10G 上联升级 STC-424XGGPM-280W；集成商 25% 档
 - **邮件切入句（英文）**：For the CCTV and LPR sites you centralise into the control room, a 24-port PoE+ managed switch with 4 SFP uplinks (280 W budget) is EXW-priced per unit; I can also send the CE/RoHS files you would need for public-administration tenders.
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：停放/空站（疑停业或仅占位））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：停放/空站（疑停业或仅占位））
 
 - 尝试域名：stsitalia.com
 - **提示**：域名停放/空站 → 公司可能已停业或换域名；跟进前先用邮箱/电话核实，勿只凭网站判死。
@@ -221,7 +222,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-104/`；本节随档案重渲染刷新，实时看日志。
 

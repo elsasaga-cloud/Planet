@@ -30,7 +30,7 @@ s_mail: 29 msgs (out 29 / in 0), 2024-06-21 -> 2026-09-18
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 3
 updated: 2026-10-29
 ```
@@ -59,6 +59,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | △ 观察档 · 分销 20%：SISEGUSA = Sistemas de Seguridad S.A.（厄瓜多尔 Guayaquil 安防批发 + 迈阿密 LLC）→ 国别纠偏 美国 → 厄瓜多尔；进口 Utepo ✔ 对位 ✔ 坐实 ✔ 但区域外 → 入池观察档；Simon 曾判不行，可否决 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Sisegusa / Sistemas de Seguridad S.A. — Mayorista de Seguridad Electrónica, Tecnología y Redes Inalámbricas para Hogar y Oficina. Tenemos líneas como CCTV, Videoporteros, Control de Accesos, Alarmas contra Robo e Incendio, Automatización para Hogar y oficina, Routers, Potenciador de WIFI | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -117,14 +118,32 @@ updated: 2026-10-29
 - **是谁**：国别纠偏：表内「美国」 → 厄瓜多尔。SISEGUSA 官网：Urdesa Central, Av. Las Lomas 403, Guayaquil, Ecuador；+593 4 371 2850；关联 Siseg Global Solutions = 迈阿密 LLC（电商 / 3PL）。来源：公司底数登记（`data/saga_clients/registry/`，第 126 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。
 - **类型**：安防 / 网络批发分销（经迈阿密进口）
 - **规模**：小型（推定）
+- **在卖/在用品牌**：TP-Link, Hikvision, Ubiquiti, MikroTik, D-Link, Huawei, Grandstream, ZKTeco
 - **【官网】国别纠偏 表内「美国」 → 厄瓜多尔**
   > SISEGUSA 官网：Urdesa Central, Av. Las Lomas 403, Guayaquil, Ecuador；+593 4 371 2850；关联 Siseg Global Solutions = 迈阿密 LLC（电商 / 3PL）
   > 来源：https://www.sisegusa.com/home（抓取 2026-10-29）
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · 分销 20%：SISEGUSA = Sistemas de Seguridad S.A.（厄瓜多尔 Guayaquil 安防批发 + 迈阿密 LLC）→ 国别纠偏 美国 → 厄瓜多尔；进口 Utepo ✔ 对位 ✔ 坐实 ✔ 但区域外 → 入池观察档；Simon 曾判不行，可否决；闸 1：美国 Siseg USA（Utepo 的商业 PoE）：美国主区 + 已进口中国同类品牌 + 对位 ✔；19 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决
-- 备注：T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。
+T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。
 
-### 加厚挖掘（2026-10-29 · 邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://www.sisegusa.com/　语言：es-EC　站点地图 URL 数：1724
+- **标题**：Sisegusa / Sistemas de Seguridad S.A.
+- **描述**：Mayorista de Seguridad Electrónica, Tecnología y Redes Inalámbricas para Hogar y Oficina. Tenemos líneas como CCTV, Videoporteros, Control de Accesos, Alarmas contra Robo e Incendio, Automatización para Hogar y oficina, Routers, Potenciador de WIFI
+- **首页栏目**：El Portafolio más completo / Promociones destacadas / Partners de SISEGUSA
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：wifi 23、hikvision 23、camera 8、cable 7、cctv 6、mikrotik 4、ubiquiti 4、tp-link 4、telecom 2、cisco 1
+- **站内出现的品牌**：TP-Link, Hikvision, Ubiquiti, MikroTik, D-Link, Huawei, Grandstream, ZKTeco　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：ST-12V-7AMP, PPA-A16811, PA-TRALARM2, DS-2CE16D0T-IRPF, DS-2CE56D0T-IRPF, DS-1H18-A, PA-K10H, ST-L-MG401, HDD-1TB-DVRWD, DS-KAS-7M01, PA-SP5500, PA-IP150
+- **站内公开邮箱**：a.feijoo@sisegusa.com, a.gonzalez@sisegusa.com, a.toapanta@sisegusa.com, b.perez@sisegusa.com, c.aucapena@sisegusa.com, c.camacho@sisegusa.com
+- **站内公开电话**：+593 4 3712850
+- **产品类页面**：https://www.sisegusa.com/catalogo；https://www.sisegusa.com/shop/combo-acceso-1-ds-k1t320mfx-1-ds-kas-7m01-3053；https://www.sisegusa.com/shop/combo-acceso3-1-ds-k1t344mbfwx-e1-1ds-kas-7m01-4289；https://www.sisegusa.com/shop/ppa-combo-br1-500-1-ppa-e05132001-1-ppa-a19384-3919；https://www.sisegusa.com/shop/ppa-combo-dz-rio700-1-ppa-e02481005-3-ppa-a16768-3927；https://www.sisegusa.com/shop/ppa-combo-dz-cube600-1-ppa-e02216102-3-ppa-a16768-3923
+- **已抓子页**：[Catálogo / SISTEMAS DE SEGURIDAD S.A. SISEGUSA](https://www.sisegusa.com/catalogo)；[Contáctanos](https://www.sisegusa.com/contactus)；[Tienda en línea / Sisegusa / Sistemas de Seguridad S.A.](https://www.sisegusa.com/shop)；[Tienda en línea / Sisegusa / Sistemas de Seguridad S.A.](https://www.sisegusa.com/shop)；[PANELES SOLARES / SISEGUSA / PROSTAR](https://www.sisegusa.com/shop/category/paneles-solares-102?view_mode=grid)；[Alarmas Inalámbricas / SISTEMAS DE SEGURIDAD S.A. SISEGUSA](https://www.sisegusa.com/shop/category/alarmas-contra-robo-e-incendio-alarmas-inalambricas-74?attribute_value=11-50)
+- 首页正文摘录：Ir al contenido Invitado Iniciar sesión Mi cesta ( 0 ) Mi lista de deseos ( 0 ) Casa Buscar 0 Lista de deseos Cuenta Ofertas Categoría Pedidos 0 Mi carrito 0 Lista de deseos Iniciar sesión Categorías Tienda Capacitaciones E-Learnings Webinars/Eventos Soporte Técnico Departamento Técnico Descargar Catálogo Se nuestro Distribuidor Trabaja con nosotros ¿Quiénes somos? FAQ Contáctanos 0 0 Categorías Tienda Capacitaciones
+- 数据文件：`data/saga_clients/site_snapshots/SC-2402.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -181,12 +200,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-2402/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://sisegusa.com/) | html | 待首轮 | — | 官网首页 |
+| [home](https://sisegusa.com/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 1789 字符；首行：Sisegusa / Sistemas de Seguridad S.A. |
 
 ## 联系方式（已有 · 原值照录）
 

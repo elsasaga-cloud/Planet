@@ -1,6 +1,6 @@
 # XA-C0008 · Xortec · 德国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 CCTV-PoE `profile/new-customers-batch-58-part2.md`:19（其分级 A类） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R01 2026-10-27）→ 下一动作 首触
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 CCTV-PoE `profile/new-customers-batch-58-part2.md`:19（其分级 A类） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 首触
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家（分销/集成/安装/零售/OEM 品牌）+ 有邮箱
@@ -80,13 +80,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W1-R01，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XA** — 德国安防 VAD、多点、已卖多牌 PoE、具名销售口 → A 首触
-- 活着吗：活（官网 2026；2026-09 媒体仍报其并购）
+- 活着吗：在线（xortec.de，快照 2026-10-29）：Xortec GmbH – Ihr Partner für Netzwerk- und Sicherheitstechnik
 - 一句话：法兰克福的 B2B 安防/网络增值分销商（2007 起，11–50 人，PE Beyond Capital 支持，2021–2022 连并柏林/慕尼黑/汉堡三家同行，全国多点），客户是 Facherrichter/经销商/电工企业；网店已卖 barox/Veracity/Hikvision 等网络与 PoE 产品，首页给出销售负责人 Michael Kahl 与 sales.fra@。
 - 是什么人：安防/网络增值分销商（全国多点）；规模：11–50 人（LinkedIn，并购后或更多）
-- 在卖/在用：Hikvision、barox、Veracity、eks
+- 在卖/在用：Hikvision、barox、Veracity、eks、Hanwha、Bosch
 - 对口哪条线：HRUI PoE 主打 + SmartByte L2+ PoE — 安防 VAD 正是 HRUI PoE 的主渠道；已卖多牌 PoE，加一条中性低价线阻力小；有具名销售负责人
 - 找得到人吗：sales.fra@xortec.de（官网首页公开（法兰克福销售口））；KP：Michael Kahl（法兰克福销售联系人，官网首页）
 - 已触达：未发信
@@ -100,6 +100,7 @@
 | LinkedIn | Distributor von professionellen Videoüberwachungs- u. Datenkommunikationslösungen für den B2B Bereich；11–50；2007 |  | https://de.linkedin.com/company/xortec-gmbh | 2026-10-27 |
 | Beyond Capital Partners 新闻稿 | acquiring videotronic infosystems nord GmbH … Following … Burgenkönig Video GmbH |  | https://beyondcapital-partners.com/en/press-releasesxortec-gmbh-continues-its-market-expansion-through-next-add-on-acquisition-strengthening-its-nationwide-presence/ | 2022-02 |
 | 官网网络技术页 | IP-Extender/PoE-Extender 等网络产品在售（barox、Veracity） |  | https://xortec.de/Produkte/Netzwerktechnik/IP-Extender/ | 2026-10-27 |
+| 官网快照 | 官网在线；Xortec GmbH – Ihr Partner für Netzwerk- und Sicherheitstechnik | Xortec GmbH – Ihr Partner für Netzwerk- und Sicherheitstechnik mit über 30 Jahren Erfahrung ｜ Distribution and Solution Management. | https://xortec.de/ | 2026-10-29 |
 
 草稿（英文，首触；Simon 发，Agent 不发）：
 
@@ -118,4 +119,5 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：不提 Hikvision 对比。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+不提 Hikvision 对比。

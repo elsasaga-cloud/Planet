@@ -1,6 +1,6 @@
 # XC-M185 · Koning & Hartman B.V. · 荷兰/比利时
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 工业 / 电信 / 安防技术分销 20%：Koning & Hartman B.V.（Zwijndrecht Voltastraat 4，2024-06 新总部 + 物流中心；KvK 34222312；BTW NL814169144B01；比利时 Vilvoorde 分部）坐实；ORing 授权 → STI 工业对位；中型；info@koningenhartman.com） ｜ 来源 mikrotik-info `C-120`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-02 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 工业 / 电信 / 安防技术分销 20%：Koning & Hartman B.V.（Zwijndrecht Voltastraat 4，2024-06 新总部 + 物流中心；KvK 34222312；BTW NL814169144B01；比利时 Vilvoorde 分部）坐实；ORing 授权 → STI 工业对位；中型；info@koningenhartman.com） ｜ 来源 mikrotik-info `C-120`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 >
 > **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：★ 工业 / 电信 / 安防技术分销 20%：Koning & Hartman B.V.（Zwijndrecht Voltastraat 4，2024-06 新总部 + 物流中心；KvK 34222312；BTW NL814169144B01；比利时 Vilvoorde 分部）坐实；ORing 授权 → STI 工业对位；中型；info@koningenhartman.com
 
@@ -47,12 +47,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，X1-02，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XC** — X1-02 补路径：★ 工业 / 电信 / 安防技术分销 20%：Koning & Hartman B.V.（Zwijndrecht Voltastraat 4，2024-06 新总部 + 物流中心；KvK 34222312；BTW NL8（等级不动，池位见 sieve_x）
-- 活着吗：2026-10-29 检索命中官网 / 名录（在线）
+- 活着吗：在线（koningenhartman.com，快照 2026-10-29）：Koning & Hartman | Slimme Technologie & Duurzame oplossing
 - 一句话：Koning & Hartman B.V.：工业 / 电信 / 安防技术分销（ORing 授权；比利时 Vilvoorde 分部 info.be@）；中型
 - 是什么人：分销（ORing 授权）；Koning & Hartman B.V.
+- 在卖/在用：ORing
 - 对口哪条线：Saga STI 工业 / SmartByte 商用 PoE — ★ 工业 / 电信 / 安防技术分销 20%：Koning & Hartman B.V.（Zwijndrecht Vol
 - 找得到人吗：info@koningenhartman.com（官网 / 名录公开（X1-02 补路径））；KP：无具名
 - 已触达：未触达（路径 2026-10-29 新补）
@@ -64,5 +65,7 @@
 |---|---|---|---|---|
 | 官网 / 名录 | 官网搬迁公告：Voltastraat 4 Zwijndrecht · KvK 34.222.312 · info@koningenhartman.com |  | https://www.koningenhartman.nl/en/koning-en-hartman/we-are-moving | 2026-10-29 |
 | 官网 / 名录 | etotaal.nl 2024-05-30：新总部 Zwijndrecht · info@koningenhartman.com |  | https://etotaal.nl/nieuws/nieuw-onderkomen-koning-hartman/ | 2026-10-29 |
+| 官网快照 | 官网在线；Koning & Hartman ｜ Slimme Technologie & Duurzame oplossing | Koning & Hartman is dé specialist in industrie. Wij leveren innovatieve technologieën en duurzame oplossingen die bedrijven slimmer, betrouwbaarder en toekomstbestendig maken. | https://www.koningenhartman.com/nl/ | 2026-10-29 |
 
-- 备注：Koning & Hartman B.V.；Voltastraat 4, 3335 KK Zwijndrecht（2024-06 起）；发票地址 Louis Braillelaan 60 Zoetermeer；KvK 34222312；BTW NL814169144B01；+31 88 18 18 666
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+Koning & Hartman B.V.；Voltastraat 4, 3335 KK Zwijndrecht（2024-06 起）；发票地址 Louis Braillelaan 60 Zoetermeer；KvK 34222312；BTW NL814169144B01；+31 88 18 18 666

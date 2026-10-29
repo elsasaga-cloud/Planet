@@ -26,7 +26,7 @@ s_mail: 15 msgs (out 15 / in 0), 2025-04-15 -> 2026-09-24
 p1: STI-288DGGPM
 price_tier: 20%
 research: done
-site_snapshot: timeout  # 2026-10-21
+site_snapshot: timeout  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -57,6 +57,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-24 | 去 | A 群发 | 10G Enterprise SFP Switch、90W PoE Managed Switch | 15 封 / 1 次打开 / 0 回｜首封 2025-04-15 → 末封 2026-09-24（15 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 买Elink的一部分工业级交换机 也卖本土的品牌Teltonika 对M12交换机知道一些，问了I/O模块，以及是否有分销商 | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：voipdistri.com MX mx08.mxgate.org. / mx07.mxgate.org.；A 185.226.241.8；NS ns2.q-ns.de. / ns1.q-ns.de. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -142,7 +143,8 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Mathias Gottensträter（Inhaber / CEO（个体工商 Gewerbebetrieb；Creditreform：1 Inhaber、Außenhandel / Import）= 老板 = 联系人（第 93 批 官方登记核实 2026-10-28））communication@voipdistri.com +49 5201 730030〔用户 Clients 表 + Impressum〕
 - **调研后定级**：B（原自动 A）——画像极对路（德国、已进口 E-link 工业交换机、服务工业客户），但 7 次推送 0 回复；且其询问点（I/O 模块、找分销）Saga 不供 → 转为慢跟、换角度重启。
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 重启角度：'E-link 同类 DIN 工业 PoE 的补充 SKU + Teltonika 路由配套 PoE 供电'，P1 STI-288DGGPM（分销 20%）；一次单问邮件 + 电话。Impressum 邮箱 communication@voip.world 与用户记录 communication@voipdistri.com 同主体。
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 需求映射））
@@ -164,7 +166,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——网店分销 20% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP 管理，$137.5）对位 E-link 同类；非管理 STI-288GP（$57.4）；配 Teltonika 路由的 PoE 供电
 - **邮件切入句（英文）**：Herr Gottensträter, next to the E-link industrial switches in your shop: our DIN-rail 8-port PoE+ managed switch with 2 SFP is $137.5 EXW (unmanaged $57.4), shipped direct to Halle with no German distributor in between — which E-link SKU sells best so I can match that one first?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：超时（站慢或封锁））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：超时（站慢或封锁））
 
 - 尝试域名：voipdistri.com
   > https://voipdistri.com/ http 468 ct=text/html
@@ -218,7 +220,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-027/`；本节随档案重渲染刷新，实时看日志。
 

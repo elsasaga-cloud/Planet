@@ -28,7 +28,7 @@ s_mail: 4 msgs (out 3 / in 1), 2026-10-03 -> 2026-10-19
 p1: STC-424XGGPM-280W
 price_tier: 30%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -61,6 +61,7 @@ updated: 2026-10-29
 | 2026-10-03 | 来 | Christopher Fikes | This actually does have my interest. What levels of customization are offered? I would be interested if there was api availability for controller integration. | API 诉求 | `af638fab0ab5ad29` |
 | 2026-10-04 | 去 | Simon → Christopher Fikes | 1. Customization: logo / Packaging / PVC mask / label / model name / SN / manual / default IP / SNMP OID / Web GUI language… firmware customization subject to technical evaluation. 2. Controller Integration / API: could you share a little more about your controller architecture? REST API / SNMP / SSH-CLI / NETCONF / another platform… 3. Datasheet, Web manual, Feature List, MIB Manual attached. 4. "It's about function, not vendors" on your website… are you mainly evaluating for: consulting lab / customer deployments / private-label (OEM)? | Simon 已经回了定制清单并把 API 问题反问回去（没有直说「无 REST」）；10-19 又催了一次「Any feedback… Maybe arrange 2 samples?」——两封去信无回。档案原来的「现在：直说 API 边界」已过时：现在不该再发第三封，等到 11 月上旬只补一句「SNMP/CLI 即可，REST 没有」 | `gmail_s（fikesmedia.com，jsonl client 字段为空，按域名重扫）` |
 | 2026-10-19 | 去 | Simon → Christopher Fikes | Any feedback about our product information? Maybe arrange 2 samples for testing? | 15 天内第二封去信无回；美国 SOHO 咨询商（Owner 一人）10-03 的热情之后沉默——按「只问一句」规则，下一封放到 2026-11 上旬，且要把 10-04 没说清的 API 边界一句说死 | `gmail_s（fikesmedia.com，jsonl client 字段为空，按域名重扫）` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Home | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -120,6 +121,7 @@ updated: 2026-10-29
 - **是谁**：美国小公司（Owner Christopher Fikes，电话区号 409 = 德州 Beaumont 一带），2026-10-03 回复群发表示有兴趣，关心 OEM 定制层级与控制器 API 集成；Simon 10-04 发完整 OEM 清单 + MIB + 规格书 + CLI/Web 手册并反问控制器架构，10-19 追问样品，客户未回。S 邮箱 4 封。
 - **类型**：IT 集成 / 网络顾问（一人公司；客群 = 地方政府 / K-12 与高校 / SMB；方案 = 企业网络、数据中心网络、VoIP、MikroTik 咨询）
 - **规模**：小（Owner 直接回信）
+- **在卖/在用品牌**：MikroTik, Grandstream, Ubiquiti, Aruba
 - **【email】有兴趣 + 问 OEM 层级 + 要 API/控制器集成**
   > This actually does have my interest. What levels of customization are offered? I would be interested if there was api availability for controller integration. If you have some specification sheets and models available I would love to see them.
   > 来源：data/gmail_s/messages/2026/2026-10.jsonl（抓取 2026-10-03）
@@ -134,10 +136,11 @@ updated: 2026-10-29
   > 来源：https://www.fikesmedia.com/（抓取 2026-10-29）
 - **KP**：Christopher Fikes（Owner（2007–；同时任 Evadale ISD 信息技术主任 2018– + 兼职教授）= 一人副业老板（第 94 批 官方登记核实 2026-10-28））cfikes@fikesmedia.com 409.877.4220〔S 邮箱签名〕
 - **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来
-- 备注：LT-T02 官网实查（2026-10-29）：见 evidence「LT-T02 官网实查」。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。
+LT-T02 官网实查（2026-10-29）：见 evidence「LT-T02 官网实查」。
 API/控制器集成是关键未知：Saga 线（SmartByte Marvell AC5）有 SNMP/CLI/Web，无云控制器 REST API——下一封应直说 SNMP + CLI 自动化可做、REST/云控不做，别吊着。
 
-### 加厚挖掘（2026-10-29 · 邮件证据 + 官网实查 v1（LT-T02））
+### 加厚挖掘（2026-10-29 · 邮件证据 + 官网实查 v1（LT-T02） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -150,6 +153,20 @@ API/控制器集成是关键未知：Saga 线（SmartByte Marvell AC5）有 SNMP
 - **近况信号**：
   - 「function, not vendors」+ 自建数据中心网络页（ToR / VXLAN）→ 对白牌 Marvell 管理型 + 10G 上联接受度高；MikroTik 顾问身份 = 懂 CLI / SNMP，回信时直说 SNMP + CLI 自动化可做、REST 云控不做（见 notes）
 - **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——明确问 OEM 定制 → OEM/ODM 30% 档；若只是自用/项目则 25%
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://www.fikesmedia.com/　语言：en-US　站点地图 URL 数：0
+- **标题**：Home
+- **首页栏目**：Lower T echnology C ost And Get More / It's about function, not vendors. / Ready to Get Started? / FikesMedia © 202 5 / Services / Contact / Company
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：mikrotik 21、datacenter 18、switch 5、wireless 4、data center 2、fiber 1、ubiquiti 1
+- **站内出现的品牌**：MikroTik, Grandstream, Ubiquiti, Aruba　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内公开邮箱**：sales@fikesmedia.com, support@fikesmedia.com
+- **站内公开电话**：+1 409.877.4220, +1.409.877.4220
+- **已抓子页**：[About](https://www.fikesmedia.com/about)；[Contact](https://www.fikesmedia.com/contact)；[Networking](https://www.fikesmedia.com/networking)
+- 首页正文摘录：Search this site Embedded Files Skip to main content Skip to navigation Home Networking VOIP Datacenter Grandstream Consulting Mikrotik Consulting Tools About Contact Home Networking VOIP Datacenter Grandstream Consulting Mikrotik Consulting Tools About Contact More Home Networking VOIP Datacenter Grandstream Consulting Mikrotik Consulting Tools About Contact Lower T echnology C ost And Get More It's about function, 
+- **自动对位建议**：STC-28DGGPM（官网快照对位：交换机词频 5、无 PoE/工业侧重 → 8 口 L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1114.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -171,7 +188,7 @@ API/控制器集成是关键未知：Saga 线（SmartByte Marvell AC5）有 SNMP
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1114/`；本节随档案重渲染刷新，实时看日志。
 

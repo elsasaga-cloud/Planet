@@ -29,7 +29,7 @@ s_mail: 1 msgs (out 1 / in 0), 2025-08-08 -> 2025-08-08
 p1: STI-288DGGPM
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -58,6 +58,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ○ 工业 B2B 电商 + 自有商标 · OEM 30%：Lastella Trade S.r.l. = digitX.it（Funo di Argelato BO；P.I. 03695681209 / REA 539359；门户 2007 起；2018 注册商标 digitx；在售 Moxa / Planet / Teltonika）坐实；进口 3onedata / Planet ✔ 自有商标 ✔ 欧洲 ✔ 对位 ✔ → P 池候选（退信 → 官网表单 / 电话）；Simon 曾判不行，可否决 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | DigitX - Soluzioni per l'Elettronica Industriale — Vendita on-line Prodotti Moxa, Teltonika, Takachi, Planet Technology, 3onedata, Patlite, Digitus, Mean Well, Advantech. Spedizioni in tutta Italia - DigitX | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -103,7 +104,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线（digitx.it；并档 Planet 渠道档案 PB-028）
 - **是谁**：博洛尼亚郊区的工业电子 B2B 电商，卖 Moxa/PLANET/3onedata 等工业交换机给自动化客户。类型：工业电子电商/经销（2012 年起；Moxa、PLANET、Teltonika、Mean Well、3onedata、Digitus 等工业网络/自动化产品；2–10 人）。信号：官网 PLANET 品牌页 + 产品页（ISW-500T 等工业交换机）；首页「Distribuiamo Planet」；同时分销 3onedata（中国工业交换机品牌）。Planet 渠道档案 PB-028 评级 B（需求：PLANET 工业线在售 + 已售中国品牌 3onedata；触达：info@digitx.it 公开（官网 schema），无具名；体量 2–10 人，小但对口；B）。并档说明：Saga 表内本条 SC-2941（意大利）自动评 C（原因：；Saga 群发已推送 0 次无回复）。
-- **在卖/在用品牌**：PLANET, 3onedata, Moxa, Teltonika, Digitus
+- **在卖/在用品牌**：PLANET, 3onedata, Moxa, Teltonika, Digitus, Advantech
 - **【卖方目录】PLANET 品牌页 + 品牌墙（含 3onedata）**
   > Planet technology Prodotti per il networking - DigitX.it … Distribuiamo Moxa … Distribuiamo Planet … Distribuiamo 3onedata
   > 来源：https://www.digitx.it/planet/（抓取 2026-10-19）
@@ -117,9 +118,10 @@ updated: 2026-10-29
   > Dimensioni dell'azienda: 2-10 dipendenti · Sede principale: Argelato · Data di fondazione: 2012（LinkedIn showcase）
   > 来源：https://it.linkedin.com/showcase/digitx-it/（抓取 2026-10-19）
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 工业 B2B 电商 + 自有商标 · OEM 30%：Lastella Trade S.r.l. = digitX.it（Funo di Argelato BO；P.I. 03695681209 / REA 539359；门户 2007 起；2018 注册商标 digitx；在售 Moxa / Planet / Teltonika）坐实；进口 3onedata / Planet ✔ 自有商标…；闸 1：意大利 Digitx（digitx.it；研究档：博洛尼亚工业电子 B2B 电商 2012 起，卖 Moxa / PLANET / 3onedata / Teltonika / Mean Well 给自动化客户；bypass / 工业电源…
-- 备注：（无首轮调研；由 deepen.py 建档）
+- 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。
+（无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-028，W 批次调研 2026-10-19/20））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（并档 Planet 渠道档案 PB-028，W 批次调研 2026-10-19/20） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -139,6 +141,23 @@ updated: 2026-10-29
 - **风险/边界**：3onedata 现有供货路径（是否经意大利代理）；年工业交换机台数
 - **Saga 对位结论**：P1 STI-288DGGPM（20% 档）——其 PLANET 在售以工业 DIN 线为主（ISW/IGS）；Saga 工业 8 口 PoE L2+ 对位；电商/经销走量 → 20%（沿用 Planet 档案 PB-028）；需求：
 - **邮件切入句（英文）**：（不主动发送：用户判定不行）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://www.digitx.it/　语言：it　站点地图 URL 数：14362
+- **标题**：DigitX - Soluzioni per l'Elettronica Industriale
+- **描述**：Vendita on-line Prodotti Moxa, Teltonika, Takachi, Planet Technology, 3onedata, Patlite, Digitus, Mean Well, Advantech. Spedizioni in tutta Italia - DigitX
+- **首页栏目**：Elettronica industriale - DigitX / Teltonika / MOXA / Armadi Rack 19" / takachi / planet / mean well / SPEDIZIONI GRATUITE
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：industrial 53、ethernet 48、switch 38、moxa 25、wireless 13、planet 12、media converter 11、poe 9、camera 9、fiber 8、gigabit 4、10g 3
+- **站内出现的品牌**：Moxa, Teltonika, PLANET, Advantech　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：AWK-3131A-EU, EDS-205, EDS-208, ISW-500T, RUT901, RS-232, RS-422, W2150A-W4-EU, IX20-00G4, RJ-45, GS-6322-24P4X, RUT241
+- **站内公开邮箱**：info@digitx.it, postmaster@digitx.it
+- **社媒**：https://twitter.com/lastellatrade, https://www.facebook.com/DigitX.it, https://www.linkedin.com/showcase/digitx-it, https://www.youtube.com/@digitX-it
+- **产品类页面**：https://www.digitx.it/reparto/cat1-Industrial_Ethernet_Switches/；https://www.digitx.it/reparto/cat1-Industrial_Ethernet_Switches/produttore-come_star/；https://www.digitx.it/reparto/cat1-Industrial_Ethernet_Switches/produttore-teltonika/；https://www.digitx.it/reparto/cat1-Video_networking_products/cat2-Industrial_Video_Encoder/；https://www.digitx.it/reparto/cat1-Ethernet_Switch/；https://www.digitx.it/reparto/cat1-Industrial_Wireless/
+- **已抓子页**：[Industrial Ethernet Switches](https://www.digitx.it/reparto/cat1-Industrial_Ethernet_Switches/)；[Ethernet Switch](https://www.digitx.it/reparto/cat1-Ethernet_Switch/)；[Video networking products](https://www.digitx.it/reparto/cat1-Video_networking_products/)；[Industrial Ethernet Router](https://www.digitx.it/reparto/cat1-Industrial_Ethernet_Router/)；[Serial to Ethernet Products](https://www.digitx.it/reparto/cat1-Serial_to_Ethernet_Products/)；[Industrial Wireless](https://www.digitx.it/reparto/cat1-Industrial_Wireless/)
+- 首页正文摘录：[0] Wishlist Registrazione Accedi Elettronica industriale - DigitX top products NPort 5110 NPort 5130 NPort 5150 NPort W2150A-W4 EDS-205 EDS-208 Uport 1110 Uport 1130 UPort 1150 ISW-500T AWK-3131A-EU RUT901 prodotti industriali Industrial Ethernet Switches Serial to Ethernet Products Media Converters Multiport serial boards USB to Serial Hubs Remote io server Industrial Wireless Transceivers Embedded Computers Softwa
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 53、PoE 9 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SC-2941.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -162,12 +181,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-2941/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://digitx.it/) | html | 待首轮 | — | 官网首页 |
+| [home](https://digitx.it/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 6154 字符；首行：DigitX - Soluzioni per l'Elettronica Industriale |
 
 ## 联系方式（已有 · 原值照录）
 

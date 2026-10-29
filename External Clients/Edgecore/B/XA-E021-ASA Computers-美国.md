@@ -1,6 +1,6 @@
 # XA-E021 · ASA Computers · 美国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 Edgecore `B-044`（原评级 B，阶段 01-blocked-personal） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R01 2026-10-27）→ 下一动作 首触
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 Edgecore `B-044`（原评级 B，阶段 01-blocked-personal） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 首触
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱
@@ -100,13 +100,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W1-R01，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XA** — 自己就是 OEM 代工 + 机柜集成，ToR/管理网交换机是整柜必配，白牌友好；首封没到 → 重新首触到 sales@
-- 活着吗：活（官网 2026，CRN SP500 2024，ISC West 2025 发布）
+- 活着吗：在线（asacomputers.com，快照 2026-10-29）：Custom IT Infrastructure From Servers to Storage | ASA Computers
 - 一句话：Fremont 1989 年起的定制服务器/机柜集成商 + OEM 代工（51–200 人，ISO 9001，9.3 万平方英尺自有厂房），做 AI/HPC/云机柜，开放网络（Cumulus）组合，Racklive 是其系统部门。10-21 发 rchen@ 被拦截。
 - 是什么人：服务器/机柜集成商 + OEM 代工（开放网络组合）；规模：51–200 人；自有 93K ft² 厂房
-- 在卖/在用：Supermicro、Intel/AMD、Cumulus/开放网络、Edgecore（官方 SI 名录）
+- 在卖/在用：Supermicro、Intel/AMD、Cumulus/开放网络、Edgecore（官方 SI 名录）、Cisco
 - 对口哪条线：CENTEC + SmartByte（OEM 整机柜配套） — 机柜交付要配 ToR 与管理网交换机，且他们本身做 OEM，接受白牌；10-21 那封被拦截等于没到
 - 找得到人吗：sales@asacomputers.com（官网 Contact 公开；rchen@ 被拦截，改发 sales@）；KP：Robert Chen（VP Sales / Head of BD，官方介绍 PDF）；Arvind Bhargava（Founder & CEO，官网 Leadership）
 - 已触达：S 箱 2026-10-21 发 rchen@ → 被拦截（未到）
@@ -120,6 +120,7 @@
 | 官方公司介绍 PDF（Robert Chen） | ISO 9001:2015；Racklive is system division；partnered with Cumulus Networks … Open Networking products |  | https://res.cloudinary.com/hjlz68xhm/image/upload/v1581523465/cdvhjj2btaqrwkna7yxe.pdf | 2026-10-27 |
 | LinkedIn | 51–200 人；Specialties 含 OEM、Network Switches、Server Appliance Manufacturing |  | https://www.linkedin.com/company/asa-computers | 2026-10-27 |
 | 来源库跟进 | 2026-10-24 用户反馈 rchen@ Message blocked |  | External Clients/Edgecore/A/XA-E021 | 2026-10-24 |
+| 官网快照 | 官网在线；Custom IT Infrastructure From Servers to Storage ｜ ASA Computers | ASA Computers delivers custom AI, HPC, cloud, and data center infrastructure solutions including GPU servers, storage, networking, and rack integration services. | https://www.asacomputers.com/home.php | 2026-10-29 |
 
 草稿（英文，首触；Simon 发，Agent 不发）：
 
@@ -138,4 +139,5 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：一封一问：问对接人。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+一封一问：问对接人。

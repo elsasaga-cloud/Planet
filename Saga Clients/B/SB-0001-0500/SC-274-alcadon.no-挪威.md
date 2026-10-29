@@ -29,7 +29,7 @@ s_mail: 14 msgs (out 14 / in 0), 2024-10-30 -> 2026-02-13
 p1: STC-228GP
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -59,6 +59,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ○ 集团分销 20%：ALCADON AS（Oslo；org.nr 952 334 891；1989；16 人；NOK 85.8M；Alcadon 集团瑞典控股）坐实；Planet 渠道 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔ = 冷户四条 → P 池候选（长线，同步找集团产品管理） | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 登记底数（registry） | NO · 1 次检索：proff.no（org / 成立 / 股东 / 16 人）+ gulesider（营业额 85,842 tkr；3.1% 利润率）；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Alcadon AS - Leverandør av infrastruktur for nettverk — Alcadon tilbyr et bredt spekter av produkter av høy kvalitet og komponenter fra ledende merker og eget merke ECS, European Cabling Systems. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -116,10 +117,11 @@ updated: 2026-10-29
   > 来源：（抓取 2026-10-29）
 - **KP**：—（表内邮箱（公开 / 总机））salg@alcadon.no 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 集团分销 20%：ALCADON AS（Oslo；org.nr 952 334 891；1989；16 人；NOK 85.8M；Alcadon 集团瑞典控股）坐实；Planet 渠道 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔ = 冷户四条 → P 池候选（长线，同步找集团产品管理）；闸 1：挪威 Alcadon（北欧布线 / 网络分销集团，很多 Planet 产品，CWDM）：欧洲 + 分销主体 + 对位 ✔；10 推 0 回 → 闸 2 查底数（体量偏大）
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：saga_fit.basis/deep/facts。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -132,6 +134,17 @@ updated: 2026-10-29
   - 表内兴趣：CWDM 很多planet产品
 - **风险/边界**：**集团分销 → 分销 20%（长线）：一页纸一次（STC-228GP / STC-2224GP 对标 Planet 同口型 + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；体量偏大 → 同步找集团产品管理
 - **Saga 对位结论**：P1 STC-228GP（20% 档）——默认对位（集团分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://www.alcadon.no/　语言：no　站点地图 URL 数：4511
+- **标题**：Alcadon AS - Leverandør av infrastruktur for nettverk
+- **描述**：Alcadon tilbyr et bredt spekter av produkter av høy kvalitet og komponenter fra ledende merker og eget merke ECS, European Cabling Systems.
+- **首页栏目**：Produkter / Kategorier / Merker / Merkenavn / Artikler / Tilbehør / Alternativ / Kundesenter
+- **产品类页面**：https://www.alcadon.no/produkter；https://www.alcadon.no/produkter/aktivt-utstyr；https://www.alcadon.no/produkter/aktivt-utstyr/gpon；https://www.alcadon.no/produkter/fiber-blåserørsystem；https://www.alcadon.no/produkter/aktivt-utstyr/onu/cpe；https://www.alcadon.no/produkter/aktivt-utstyr/gpon/olt
+- **已抓子页**：[Kontakt oss - Alcadon AS](https://www.alcadon.no/kontakt-oss)
+- 首页正文摘录：1005001 /search Alcadon_D4 Oppdaterer, vennligst vent... Produkter Total antall treff: Se hele resultatet... Kategorier Merker Merkenavn Artikler Antal artiklar hittade: Tilbehør Alternativ Artikler Antal artiklar hittade: Kundesenter Kontakt oss Om oss Brukerstøtte Artikler Logg inn Ingen varer i handlevognen Ingen varer i ordreboka produkt produkter ( ) ( ) ( ) Til kassen × Aktiv leveringsdato Leveringsdatoer Ordre
+- 数据文件：`data/saga_clients/site_snapshots/SC-274.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -181,12 +194,14 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-274/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://alcadon.no/) | html | 待首轮 | — | 官网首页 |
+| [home](https://alcadon.no/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 2046 字符；首行：Alcadon AS - Leverandør av infrastruktur for nettverk |
+| [feed_auto](https://www.alcadon.no/WebPages/produkt/rss.aspx) | rss | HTTP 200 | 2026-10-29T15:11:51Z | 100 条；最新：28.10.2026 12:13:10 Påbygg til DCCS datasenter renhold |
 
 ## 联系方式（已有 · 原值照录）
 

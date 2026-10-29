@@ -25,7 +25,7 @@ s_mail: 28 msgs (out 28 / in 0), 2024-06-13 -> 2026-08-19
 p1: STI-288DGGPM
 price_tier: 25%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -37,7 +37,7 @@ updated: 2026-10-29
 - **历史互动**：推送 17 次（2024-06-13 → 2025-10-24）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 终端服务商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃，$137.5）用于工地监控柜；4 口 STI-144GP（$35.5）用于单塔；室内机房 STC-424DGGPM-280W。已打开的主题（2/28 封有打开记录）：「Industrial poe switch」(2024-09-03)、「24 Port Fiber Switch」(2025-03-04) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-03)、Product Link_2026Q3(2026-07-14)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-09 $220（48 port managed switch）、2024-11-11 $65（10G Media Converter）；**封顶**：STI-288DGGPM 25% 档 $145.7 高于 2026-06-22 自家列表价 $137.5，信稿按 $137.5 写（规则 ㉔：档位价不得高于自家公开列表价）；群发里他已看到的价（续）：2026-08-19 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-04 $240（24 Port Fiber Switch）、2025-09-30 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
 - **第一问（只问一个）**：For the site cabinets behind your remotely monitored cameras, a DIN-rail 4-port gigabit PoE switch rated −40 to +75 °C is $35.5 EXW and the managed 8-port version $137.5; do your towers run 48 V or 24 V DC inside?
-- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
+- **最大未知**：年走量与现供应商
 - **下一步**：2026-11 A 邮箱 → muhassin@optiwatchgroup.com 短信一问（email_hook）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
@@ -56,6 +56,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-08-19 | 去 | A/S 群发 | Managed Optical Bypass Switch、Industrial PoE Switch | 28 封 / 2 次打开 / 0 回｜首封 2024-06-13 → 末封 2026-08-19（28 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | （用户表字段） | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Remote Monitoring Solutions \| Construction Site Security \| Optiwatch Limited — London, Enfield, United Kingdom, Physical Security, Security, Safety, Construction Site Security, Building Site Security, Remote Monitoring, Video Surveillance, Remote Video Surveillance Monitoring, CCTV, Remote CCTV Moni | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -135,6 +136,7 @@ updated: 2026-10-29
 
 - **状态：已调研（2026-10-21）**　网站状态：在线
 - **是谁**：伦敦 Enfield 的远程监控安防服务商（2015-05 注册；创办人 Tim Chege；11–50 人 / RocketReach 15 人；营业额 <£1M 口径）：面向建筑工地的远程视频监控（AI 入侵检测、音频喊话、虚拟巡更）、门禁、入侵检测、火灾预防，自有 24/7 监控中心；隶属 Optimum Group（optimum-group.co.uk）。工地临时监控塔/柜需宽温 PoE 交换机——STI 系列直接适用。用户表：17 次跟进 0 回复。
+- **在卖/在用品牌**：Hikvision
 - **【官网】业务与地址**
   > Remotely monitored video surveillance or CCTV services that use intelligent alarm enabled video recording systems … Unit 5 Industrial Trading Estate 240-242 Lincoln Road, London, EN1 1SP, United Kingdom. +44 (0) 208 443 0077 marketing@optiwatchgroup.com
   > 来源：https://www.optiwatchgroup.com/videosurveillance/videosurveillance.html（抓取 2026-10-21）
@@ -151,10 +153,11 @@ updated: 2026-10-29
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Timothy Mathangani (Tim) Chege（Director（Companies House 09595034：2015-05-18 创立，2020-06 → 2022-10 曾退出董事会，2022-10-01 复任；现为唯一董事；肯尼亚籍居英；2026-01 身份已核）= **老板 = 联系人**；董事名单 6 进 6 出，2024-10 还有一位只待 6 周（第 87 批 官方登记核实 2026-10-27））marketing@optiwatchgroup.com（公司公开） +44 20 8443 0077〔https://www.crunchbase.com/organization/optiwatch〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 （无首轮调研；由 deepen.py 建档）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + Companies House 核对））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + Companies House 核对） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -171,14 +174,21 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-288DGGPM（25% 档）——终端服务商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃，$137.5）用于工地监控柜；4 口 STI-144GP（$35.5）用于单塔；室内机房 STC-424DGGPM-280W
 - **邮件切入句（英文）**：For the site cabinets behind your remotely monitored cameras, a DIN-rail 4-port gigabit PoE switch rated −40 to +75 °C is $35.5 EXW and the managed 8-port version $145.7; do your towers run 48 V or 24 V DC inside?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
 
-- 尝试域名：optiwatchgroup.com, optimumgroupcompanies.com
-  > https://optiwatchgroup.com/ conn: HTTPSConnectionPool(host='optiwatchgroup.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError
-  > https://www.optiwatchgroup.com/ conn: HTTPSConnectionPool(host='www.optiwatchgroup.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionE
-  > http://optiwatchgroup.com/ conn: HTTPConnectionPool(host='optiwatchgroup.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError("
-- **提示**：抓取失败不代表公司不在；人工打开一次即可。
-- 数据文件：`data/saga_clients/site_snapshots/SB-151.json`
+- **首页**：https://optiwatchgroup.com/　语言：en　站点地图 URL 数：0
+- **标题**：Remote Monitoring Solutions / Construction Site Security / Optiwatch Limited
+- **描述**：London, Enfield, United Kingdom, Physical Security, Security, Safety, Construction Site Security, Building Site Security, Remote Monitoring, Video Surveillance, Remote Video Surveillance Monitoring, CCTV, Remote CCTV Monitoring, Access Control, Remote Access Control Monitoring, Intrusion Detection, 
+- **首页栏目**：COMPLETE SECURITY / BACKGROUND / Rooted In Security / VISION / A Secure Environment / MISSION / Cost Effective Solutions / Bespoke Solutions
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 40、access control 38、surveillance 35、wireless 29、cctv 27、industrial 8、switch 7、wifi 5、hikvision 5、poe 2、cable 2、ethernet 1
+- **站内出现的品牌**：Hikvision　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内公开邮箱**：marketing@optiwatchgroup.com
+- **站内公开电话**：+44 (0) 208 443 0077
+- **社媒**：https://twitter.com/optiwatch, https://www.facebook.com/optiwatch/, https://www.linkedin.com/company/optiwatchlimited
+- **已抓子页**：[Partnerships / Optiwatch Limited](https://optiwatchgroup.com/company/partnerships.html)；[Access Control / Optiwatch Limited](https://optiwatchgroup.com/services/accesscontrol.html)；[Fire Prevention / Optiwatch Limited](https://optiwatchgroup.com/services/fireprevention.html)；[Video Surveillance / CCTV / Optiwatch Limited](https://optiwatchgroup.com/services/videosurveillance.html)；[Intrusion Detection / Optiwatch Limited](https://optiwatchgroup.com/services/intrusiondetection.html)
+- 首页正文摘录：COMPANY About Partnerships SERVICES Video Surveillance Access Control Intrusion Detection Fire Prevention RESOURCES Projects Blog Cost Effective Security Through Innovative Technology REMOTE MONITORING SOLUTIONS Remotely monitored real time video surveillance or CCTV, intrusion detection, access control and fire prevention services to proactively protect your construction site. VIDEO SURVEILLANCE Remotely monitored v
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 8、PoE 2 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-151.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -233,13 +243,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-27T08:02:45Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-151/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://optiwatchgroup.com/) | html | ConnectionError: HTTPSConnectionPool(host='optiwatchgroup.co | 2026-10-27T08:02:45Z | 官网首页（T27 快照状态 http_error） |
+| [home](https://optiwatchgroup.com/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 11519 字符；首行：Remote Monitoring Solutions \| Construction Site Security \| Optiwatch Limited |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -319,7 +329,6 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

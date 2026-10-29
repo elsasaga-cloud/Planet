@@ -1,6 +1,6 @@
 # XA-M250 · Switch SFP · 英国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 mikrotik-info `A-553`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R02 2026-10-27）→ 下一动作 首触
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 mikrotik-info `A-553`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 首触
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱
@@ -69,13 +69,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W1-R02，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XA** — GB 主攻区专业供应商、未触达 → A 首触
-- 活着吗：来源库 2026-09-28 核对在线；本轮未复查
+- 活着吗：在线（switchsfp.com，快照 2026-10-29）：Switch SFP 100% Reliable Compatible Optical Transceivers — Switch SFP Ltd
 - 一句话：光模块/交换机专业供应商（Antaira 授权）；同价位替代
 - 是什么人：光模块/交换机专业供应商（Antaira 授权）；规模：未量化
-- 在卖/在用：Antaira
+- 在卖/在用：Antaira、Cisco、Aruba、Juniper、Allied Telesis、MikroTik、Hikvision、Moxa、Hirschmann、Netgear、D-Link、Zyxel
 - 对口哪条线：SmartByte 商用 L2+（已发/首触）+ Saga STI 工业 L2+ PoE 补位 — 交换机 + 光模块专类
 - 找得到人吗：sales@switchsfp.com（来源库公开邮箱）；KP：无具名
 - 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
@@ -86,6 +86,7 @@
 | 类型 | 说明 | 摘录 | 来源 | 日期 |
 |---|---|---|---|---|
 | 来源库官网/名录核对 | 【2026-09-28 R53 B段复筛达标升级】官网核对：Switch SFP Ltd（英国，sales@switchsfp.com，01285 700 750，原表信号 Antaira 授权）自述 «An experienced and specialist UK team supplying over 12,100 vendor specification optical transceivers»、Jisc 网络设备框架成员；站 |  | https://switchsfp.com/ | 2026-09-28 |
+| 官网快照 | 官网在线；Switch SFP 100% Reliable Compatible Optical Transceivers — Switch SFP Ltd | With 100% reliable quality, quick lead-time and great post-sale service. All supported from UK stock with UK support alongside next day or urgent same day delivery. We aim to build mutually beneficial relationships with our customers by understanding their needs and providing solutions to exceed the | https://switchsfp.com/ | 2026-10-29 |
 
 草稿（英文，首触；Simon 发，Agent 不发）：
 
@@ -104,4 +105,5 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+轻卡：本轮未外查，沿用来源库官网/名录核对。

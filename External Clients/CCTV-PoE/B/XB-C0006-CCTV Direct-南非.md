@@ -1,6 +1,6 @@
 # XB-C0006 · CCTV Direct · 南非
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 CCTV-PoE `profile/CCTV-Direct-SouthAfrica.md`:1（其分级 A类） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T01 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 CCTV-PoE `profile/CCTV-Direct-SouthAfrica.md`:1（其分级 A类） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XB** — 对口但不在主攻区（美加/欧/土以外）→ XB
@@ -139,12 +139,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，LT-T01，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — 桌面复核（来源库核对 + 研究卡）：安防设备电商/直销；类型=安防设备电商/直销；品牌=UNV, AJAX, Hanwha, VueNet, TwilightPro；成立=2007年；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））
-- 活着吗：域名 cctv-direct.co.za MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓
+- 活着吗：在线（cctv-direct.co.za，快照 2026-10-29）：CCTV Direct
 - 一句话：CCTV Direct（南非）：安防设备电商/直销
 - 是什么人：安防设备电商/直销
+- 在卖/在用：Hikvision、Dahua、Ajax
 - 对口哪条线：STC 项目集成款（25% 档：STC-2216GP / STC-228GP）
 - 找得到人吗：info@cctv-direct.co.za（活（来源库 9 月核对））；KP：无具名
 - 已触达：S 箱 9–10 月群发名单未见本域 → 未触达
@@ -156,5 +157,7 @@
 |---|---|---|---|---|
 | 来源库官网/名录核对 | 安防设备电商/直销 |  | https://cctv-direct.co.za | 2026-09 |
 | 长期群复核 LT-R07 | 桌面复核（来源库核对 + 研究卡）：安防设备电商/直销；类型=安防设备电商/直销；品牌=UNV, AJAX, Hanwha, VueNet, TwilightPro；成立=2007年；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%）） |  |  | 2026-10-29 |
+| 官网快照 | 官网在线；CCTV Direct | CCTV Direct is an Online Distribution Channel offering you Premium Security products, Automation & Electronic Equipment at the best prices! Top Quality brands include Hikvision, Dahua, EZVIZ, Centurion, HiLook and AJAX Alarms We offer Free Courier Shipping in SA on all orders | https://cctv-direct.co.za/ | 2026-10-29 |
 
-- 备注：LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。

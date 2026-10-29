@@ -29,7 +29,7 @@ last_contact: unknown
 p1: STC-424DGGPM-280W
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -58,6 +58,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ○ 印度 · 大集成 25%：Bay Datacom Solutions Pvt Ltd（Hyderabad + Bengaluru；CIN U32100TG1998PTC028943；1998；200–500 人；₹24 Cr）坐实；4 光 24 电 PoE 具体需求 ✔ 中型集成 ✔ → P 池候选；表内「尼泊尔」→ 印度 country_fix 待 Simon | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Bay Datacom Solutions Pvt Ltd | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -105,14 +106,30 @@ updated: 2026-10-29
 - **是谁**：国别纠偏：表内「尼泊尔」 → 印度。Bay Datacom Solutions Pvt. Ltd.：CIN U32100TG1998PTC028943；1998-02-28；Hyderabad Jubilee Hills Road No. 92, 500096；200–500 人；FY22 净销售 ₹2,405 lakh。来源：公司底数登记（`data/saga_clients/registry/`，第 131 批）；C 池三闸闸 2 判定见 `data/saga_clients/sieve.json`。
 - **类型**：网络 / 安全 / 数据中心系统集成商
 - **规模**：中型（200–500 人；₹24 Cr）
+- **在卖/在用品牌**：Ubiquiti
 - **【登记】国别纠偏 表内「尼泊尔」 → 印度**
   > Bay Datacom Solutions Pvt. Ltd.：CIN U32100TG1998PTC028943；1998-02-28；Hyderabad Jubilee Hills Road No. 92, 500096；200–500 人；FY22 净销售 ₹2,405 lakh
   > 来源：https://info.edgeinsights.in/company/Bay-Datacom-Solutions-Pvt.-Ltd./131542（抓取 2026-10-29）
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 印度 · 大集成 25%：Bay Datacom Solutions Pvt Ltd（Hyderabad + Bengaluru；CIN U32100TG1998PTC028943；1998；200–500 人；₹24 Cr）坐实；4 光 24 电 PoE 具体需求 ✔ 中型集成 ✔ → P 池候选；表内「尼泊尔」→ 印度 country_fix 待 Simon；闸 1：尼泊尔 Bay Datacom Solutions Pvt Ltd（baydatacom.com；问网管工业级 4 光 24 电 PoE 交换机）：具体型号需求 ✔ 对位（STC-4424GCPM 商规 / STI 工业线近似，如实说明）…
-- 备注：T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。
+T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按官网 / 登记 / ccTLD 证据纠偏，原表国别保留在 entities.json country_table。
 
-### 加厚挖掘（2026-10-29 · 邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://www.baydatacom.com/　语言：zxx　站点地图 URL 数：0
+- **标题**：Bay Datacom Solutions Pvt Ltd
+- **首页栏目**：Leading System Integrator for Enterprise ICT Solutions and Services / Our Solutions / Datacenter Solutions / Unified Communications / Security and Surveillance / Internet of Things / Smart city & CCTV Surveillance / Blockchain
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：surveillance 23、cctv 11、datacenter 9、data center 8、integrator 3、switch 2、telecom 2
+- **站内出现的品牌**：Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内公开邮箱**：info@baydatacom.com
+- **站内公开电话**：+91) 40 40064430, +91) 40 40064433, +91-40-40064430
+- **已抓子页**：[Services / Bay Datacom Solutions](https://www.baydatacom.com/network-infra.html)；[About / Bay Datacom Solutions](https://www.baydatacom.com/about-us.html)；[Contact us / Bay Datacom Solutions](https://www.baydatacom.com/contact-us.html)；[Smart City & CCTV Surveillance / Bay Datacom Solutions](https://www.baydatacom.com/smart-city.html)；[Network & Security Solutions / Bay Datacom Solutions](https://www.baydatacom.com/network-security.html)；[Partners / Bay Datacom Solutions](https://www.baydatacom.com/partners.html)
+- 首页正文摘录：Career Contact info@baydatacom.com +91-40-40064430 Menu Enquire Today Home About Solutions Datacenter Solutions Unified Communications Network & Security Internet of Things Smart City & CCTV Surveillance Blockchain Services Comprehensive AMC Services Infrastructure Managed Services Project Rollout Services Data Centre Infra Support Services Network Infra Support Services Projects Clients Partners Enquire Today Leadin
+- **自动对位建议**：STC-28DGGPM（官网快照对位：交换机词频 2、无 PoE/工业侧重 → 8 口 L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SC-1871.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -124,12 +141,12 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-1871/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://baydatacom.com/) | html | 待首轮 | — | 官网首页 |
+| [home](https://baydatacom.com/) | html | SSLError: HTTPSConnectionPool(host='www.baydatacom.com', por | - | 官网首页 |
 
 ## 联系方式（已有 · 原值照录）
 

@@ -23,7 +23,7 @@ s_mail: 16 msgs (out 16 / in 0), 2025-04-04 -> 2026-09-25
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -35,7 +35,7 @@ updated: 2026-10-29
 - **历史互动**：推送 7 次（2025-04-04 → 2025-10-21）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 工商业 switch（现国内货）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、工业 8 GE + 2 SFP STI-280GE（$46.6）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-23 $300（48 Port PoE Managed Switch）、2025-10-21 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the commercial and industrial switches you list, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-GE + 2 SFP units from single units, CE/RoHS, EXW USD — which switch SKU sells most in your shop?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 2025-02 已 1:1 发过「16 Port Ethernet Switch」给 damix@damixsat.pl（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 观察打开
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2025-02-10 | 去 | Elsa 1:1 去信（To damix@damixsat.pl, serwis@damixsat.pl） | 16 Port Ethernet Switch — 16-port DIN Gigabit Ethernet switch for vehicle network / industrial automation; model choice 5/8 port, 10/100M, PoE version（稿内无价，第 74 批(p) 已读稿） | Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，称呼「Hi, Damix」；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封 | `elsa_1to1` |
 | 2026-09-25 | 去 | A 群发 | 10G Enterprise SFP Switch、48 Port PoE Managed Switch | 16 封 / 0 次打开 / 0 回｜首封 2025-04-04 → 末封 2026-09-25（16 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工商业switch 有国内的 | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Damixsat.pl – Sklep TV-SAT, RTV, AGD, Smart Home — Damixsat.pl – sprzęt TV-SAT, RTV, AGD, komputery Mini PC, anteny, kable HDMI i akcesoria Spacetronik. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -118,7 +119,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（damixsat.pl：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：在线（damixsat.pl，快照 2026-10-29）：Damixsat.pl – Sklep TV-SAT, RTV, AGD, Smart Home
 - **是谁**：波兰 Damixsat（卫星/电视与网络产品网店；表内「工商业 switch 有国内的」；官网 http_error）；表内 7 次跟进无回复。
 - **类型**：卫星/网络产品网店（波兰）
 - **【用户表】表内兴趣/备注**
@@ -128,10 +129,11 @@ updated: 2026-10-29
   > 工商业switch 有国内的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Damian Marciniak（业主（FHU DAMIX，CEIDG 个体）（第 93 批 官方登记核实 2026-10-28）） 〔https://www.damixsat.pl/webpage/o-firmie.html〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/deep/facts。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -150,14 +152,20 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——工商业 switch（现国内货）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、工业 8 GE + 2 SFP STI-280GE（$46.6）
 - **邮件切入句（英文）**：For the commercial and industrial switches you list, we supply neutral-brand Marvell-based 8-PoE + 2 SFP L2+ and DIN-rail 8-GE + 2 SFP units from single units, CE/RoHS, EXW USD — which switch SKU sells most in your shop?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
 
-- 尝试域名：damixsat.pl
-  > https://damixsat.pl/ http 403 ct=text/html; charset=utf-8
-  > https://www.damixsat.pl/ http 403 ct=text/html; charset=utf-8
-  > http://damixsat.pl/ http 403 ct=text/html; charset=utf-8
-- **提示**：抓取失败不代表公司不在；人工打开一次即可。
-- 数据文件：`data/saga_clients/site_snapshots/SB-270.json`
+- **首页**：https://damixsat.pl/　语言：pl　站点地图 URL 数：0
+- **标题**：Damixsat.pl – Sklep TV-SAT, RTV, AGD, Smart Home
+- **描述**：Damixsat.pl – sprzęt TV-SAT, RTV, AGD, komputery Mini PC, anteny, kable HDMI i akcesoria Spacetronik.
+- **首页栏目**：Minisforum PC AMD Ryzen 9 7940HS 0+0 / Spacetronik Moris 120BB Biurko elektrycz... / Uchwyt na 2 monitory Spacetronik SPA-S12... / Gniazdo blatowe Spacetronik otwierane SP... / Stolik C przyboczny pod kanape Funky Fur... / Mata ochronna gumowa pod krzesło SPB047 ... / Ergonomiczny hoker barowy SPC-SHOTTER-18... / Stojak telewizyjny z półką SPET09B
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 68、poe 51、ethernet 40、gigabit 33、sfp 15、cctv 14、wifi 13、nvr 10、2.5g 4、10g 2
+- **站内型号串**（正则抽取，含非交换机）：RJ-45, SPA-S12, SPA-S120B, SPET09B, AC1200, GL-MT6000, SPH-FO11, SPH-HLE01, SP-EPOEG21, SP-SG102, GS2008S2, TPR-5W
+- **站内公开邮箱**：damix@damixsat.pl
+- **社媒**：https://www.facebook.com/DamixSatPL
+- **已抓子页**：[Switche - Damixsat.pl](https://damixsat.pl/category/lan-gsm-switche)；[RACK i CCTV - Damixsat.pl](https://damixsat.pl/category/lan-gsm-rack-i-cctv)；[Karty Ethernet - Damixsat.pl](https://damixsat.pl/category/komputery-i-akcesoria-karty-ethernet)；[Przyłącza Ethernet USB - Damixsat.pl](https://damixsat.pl/category/kable-przewody-przylacza-ethernet-usb)
+- 首页正文摘录：× Ostatnio przeglądane produkty × Obserwowane produkty × Odkryj sprzęt TV-SAT, RTV, AGD i Smart Home w Damixsat! Anteny, dekodery, komputery Mini PC i akcesoria Spacetronik – z szybką wysyłką w całej Polsce. LAN GSM Anteny Routery Switche Wzmacniacze sygnału RACK i CCTV Starlink Komputery i akcesoria Adaptery WiFi USB Czytniki kart Akcesoria do dysków Kable SATA Kamery internetowe Monitory mobilne Karty Ethernet Mini
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 6、交换机 68 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-270.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -201,13 +209,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
-- **最近变化摘要**：2026-10-29 home：内容变化：+543 −32 行
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 home：内容变化：+542 −27 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-270/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://damixsat.pl/) | html | HTTP 200 | 2026-10-29T08:41:09Z | 27003 字符；首行：Damixsat.pl – Sklep TV-SAT, RTV, AGD, Smart Home |
+| [home](https://damixsat.pl/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 26980 字符；首行：Damixsat.pl – Sklep TV-SAT, RTV, AGD, Smart Home |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -282,7 +290,6 @@ updated: 2026-10-29
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -25,10 +25,10 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STC-228GP
+p1: STC-424XGGPM-280W
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -38,7 +38,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（○ 正式）：○ 分销 20%：Express Alarm Czech s.r.o.（Praha 9；IČ 26446863；2001；20–24 人；斯洛伐克姊妹公司 IČO 31630146；销售代表 Štefan Stein 官网公开）坐实；进口 Wi-Tek ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔ → P 池候选（调研 2026-10-29；表内兴趣：卖几个有名牌子的；wi-tek 很多其他产品）
 - **为什么是 B 级**：**调研后定级 B**（Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 分销 20%：Express Alarm Czech s.r.o.（Praha 9；IČ 26446863；2001；20–24 人；斯洛伐克姊妹公司 IČO 31630146；销售代表 Štefan Stein 官网公开）坐实；进口 Wi-Tek ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔ → P 池候选；闸 1：捷克 Express Alarm（expressalarm.cz；卖几个有名牌子 + Wi-Tek 很多其他产品）：欧洲 + 已进口中国同类品牌 + 对位 ✔；未触达 → 闸 2 查底数，低优先）；自动分级 C：-6 群发批次名单；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/捷克
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-228GP — 默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）；
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-424XGGPM-280W — 官网快照对位：PoE 词频 314、监控 163 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）；
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动：LT-01 复核（待过）后再定 — 长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
@@ -51,13 +51,14 @@ updated: 2026-10-29
 - **现状一句话**：C 池三闸捞出 → B（LT-01）：○ 分销 20%：Express Alarm Czech s.r.o.（Praha 9；IČ 26446863；2001；20–24 人；斯洛伐克姊妹公司 IČO 31630146；销售代表 Štefan Stein 官网公开）坐实；进口 Wi-Tek ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔ → P 池候选
 - **对方真实需求（有据）**：未知（无往来；复核时从官网 / 进口数据 / 项目推断）
 - **断点 / 为什么停在这里**：无往来（从未触达或仅群发无回）
-- **Saga 现在该推什么**：P1 **STC-228GP**（% 档，价见价格主表）——默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）
+- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（% 档，价见价格主表）——官网快照对位：PoE 词频 314、监控 163 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）
 - **下一步（具体）**：不动：LT-01 复核（待过）后再定　—　长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ○ 分销 20%：Express Alarm Czech s.r.o.（Praha 9；IČ 26446863；2001；20–24 人；斯洛伐克姊妹公司 IČO 31630146；销售代表 Štefan Stein 官网公开）坐实；进口 Wi-Tek ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔ → P 池候选 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 登记底数（registry） | CZ · 1 次检索：expressalarm.cz/dokument/kontakt/（法人 / IČ / 登记 / 联系人）+ kurzy 统计（2001；20–24 人；股本）+ estav 名录；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Express Alarm - Velkoobchod - autorizovaný distributor Hikvision \| Kamery Hikvision \| Express Alarm — První autorizovaný distributor sortimentu Hikvision v České republice. \| Hikvision kamery | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -106,7 +107,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（○ 正式）：○ 分销 20%：Express Alarm Czech s.r.o.（Praha 9；IČ 26446863；2001；20–24 人；斯洛伐克姊妹公司 IČO 31630146；销售代表 Štefan Stein 官网公开）坐实；进口 Wi-Tek ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔ → P 池候选
 - **类型**：分销（闸 2 判定 · 20% 档）
 - **规模**：小型（20–24）
-- **在卖/在用品牌**：Wi-Tek
+- **在卖/在用品牌**：Wi-Tek, Hikvision, Uniview, Ajax, MikroTik
 - **【登记底数 / 官网（闸 2 坐实）】Express Alarm Czech s.r.o.（expressalarm.cz；**官网 kontakt + kurzy：IČ 26446863；DIČ CZ26446863；Městský soud v Praze C 82812；2001-04-18 成立；股本 CZK 200,000；20–24 人；Plkovská 2934/1, 193 00 Praha 9 – Horní Počernice；+420 281 925 363；斯洛伐克姊妹公司 Express**
   > CZ · 1 次检索：expressalarm.cz/dokument/kontakt/（法人 / IČ / 登记 / 联系人）+ kurzy 统计（2001；20–24 人；股本）+ estav 名录；2026-10-29
   > 来源：https://www.expressalarm.cz/dokument/kontakt/（抓取 2026-10-29）
@@ -116,10 +117,11 @@ updated: 2026-10-29
   > 来源：（抓取 2026-10-29）
 - **KP**：—（表内邮箱（公开 / 总机））obchod@expressalarm.cz 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 分销 20%：Express Alarm Czech s.r.o.（Praha 9；IČ 26446863；2001；20–24 人；斯洛伐克姊妹公司 IČO 31630146；销售代表 Štefan Stein 官网公开）坐实；进口 Wi-Tek ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔ → P 池候选；闸 1：捷克 Express Alarm（expressalarm.cz；卖几个有名牌子 + Wi-Tek 很多其他产品）：欧洲 + 已进口中国同类品牌 + 对位 ✔；未触达 → 闸 2 查底数，低优先
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/saga_fit/deep/facts。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -131,7 +133,24 @@ updated: 2026-10-29
   - 捷克 Express Alarm（expressalarm.cz；卖几个有名牌子 + Wi-Tek 很多其他产品）：欧洲 + 已进口中国同类品牌 + 对位 ✔；未触达 → 闸 2 查底数，低优先
   - 表内兴趣：卖几个有名牌子的；wi-tek 很多其他产品
 - **风险/边界**：**Wi-Tek 现供安防批发 → 分销 20%：一页纸一次（STC-028GP $28 / STC-228GP $33 对标 Wi-Tek + STI-154GP + MOQ 1 + 付费样机；Wi-Tek 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**
-- **Saga 对位结论**：P1 STC-228GP（20% 档）——默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）
+- **Saga 对位结论**：P1 STC-424XGGPM-280W（20% 档）——官网快照对位：PoE 词频 314、监控 163 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://www.expressalarm.cz/　语言：cs　站点地图 URL 数：4672
+- **标题**：Express Alarm - Velkoobchod - autorizovaný distributor Hikvision / Kamery Hikvision / Express Alarm
+- **描述**：První autorizovaný distributor sortimentu Hikvision v České republice. / Hikvision kamery
+- **首页栏目**：Principy ochrany soukromí / Nastavení soukromí / DS-KIS612-P / DS-PWA96-Kit2-WE / DS-K4E100 / HD912-4AR-12 / TD-3108H1-8P-B2-B / DS-KH7100EY-E2/White
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 314、nvr 148、switch 121、hikvision 112、uniview 100、wifi 35、cctv 15、odm 14、sfp 12、distributor 7、gigabit 5、fiber 3
+- **站内出现的品牌**：Hikvision, Uniview, Ajax, MikroTik　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：CZ26446863, RJ-45, DS-3E0106P-E, DS-3E0109P-E, HK-SFP-1, ADS105FRP-4POAF, AFA-1, DS-3E0103DP-E, DS-3E0105D-O, DS-3E0105-O, DS-3E0105P-E, DS-3E0106HP-E
+- **站内公开邮箱**：obchod@expressalarm.cz
+- **站内公开电话**：+420 281 925 363
+- **产品类页面**：https://www.expressalarm.cz/kategorie/cctv/switche-poe/；https://www.expressalarm.cz/kategorie/cctv/switche-poe/switche-s-poe/；https://www.expressalarm.cz/kategorie/cctv/switche-poe/prislusenstvi/；https://www.expressalarm.cz/kategorie/cctv/switche-poe/switche-bez-poe/；https://www.expressalarm.cz/kategorie/cctv/switche-poe/poe-extendery-repeatery/；https://www.expressalarm.cz/kategorie/cctv/switche-poe/switche-s-poe/4-poe-porty/
+- **已抓子页**：[Switche+PoE / Express Alarm](https://www.expressalarm.cz/kategorie/cctv/switche-poe/)；[Switche s PoE / Express Alarm](https://www.expressalarm.cz/kategorie/cctv/switche-poe/switche-s-poe/)；[Příslušenství / Express Alarm](https://www.expressalarm.cz/kategorie/cctv/switche-poe/prislusenstvi/)；[Switche bez PoE / Express Alarm](https://www.expressalarm.cz/kategorie/cctv/switche-poe/switche-bez-poe/)；[PoE extendery/repeatery / Express Alarm](https://www.expressalarm.cz/kategorie/cctv/switche-poe/poe-extendery-repeatery/)；[PoE injektory a konvertory / Express Alarm](https://www.expressalarm.cz/kategorie/cctv/switche-poe/poe-injektory-a-konvertory/)
+- 首页正文摘录：Toggle navigation Toggle navigation 0 Váš autorizovaný dodavatel bezpečnostních technologií Registrace / Přihlásit / Oblíbené +420 281 925 363 obchod@expressalarm.cz Počet: 0 ks Cena: 0,00 Kč O nás Obchodní podmínky Partneři Odborné články Rady a tipy AX PRO DVR a NVR Videotelefony Hik-Partner Pro Periferie Ostatní Katalogy Kontakt Akceptuji Povolit pouze nutné Nastavit Principy ochrany soukromí Přizpůsobujeme se Vám
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 314、监控 163 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SC-783.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -143,12 +162,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-783/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://expressalarm.cz/) | html | 待首轮 | — | 官网首页 |
+| [home](https://expressalarm.cz/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 20473 字符；首行：Express Alarm - Velkoobchod - autorizovaný distributor Hikvision \| Kamery Hik |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -178,18 +198,17 @@ updated: 2026-10-29
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-228GP | 深挖对位：默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档） | $33.2 USD EXW（HRUI Realtek 线：洪瑞 2026-09-30 成本 + 20%（列表价 $30.8 隐含加价低于底线，第 73 批口径）；见 data/价格主表_HRUI.csv；汇率 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销（闸 2 判定 · 20% 档）） |
+| **P1** | STC-424XGGPM-280W | 深挖对位：官网快照对位：PoE 词频 314、监控 163 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP） | $180 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $181.2——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销（闸 2 判定 · 20% 档）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：20% 档 $139.9 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $181.2——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-228GP），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-228GP 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424XGGPM-280W 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -199,7 +218,7 @@ updated: 2026-10-29
 
 - **S**：欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-228GP 按 20% 档报价，做现供应商的第二货源；规模（调研）：小型（20–24）
+- **O**：P1 STC-424XGGPM-280W 按 20% 档报价，做现供应商的第二货源；规模（调研）：小型（20–24）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -227,14 +246,14 @@ updated: 2026-10-29
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-228GP - 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (neutral label)
+**主题**：STC-424XGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
 
 ```text
 Hello,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
 
-We supply an 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (unmanaged, 120 W, PoE watchdog) - model STC-228GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $33.2 USD EXW (valid 15 days).
+We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGPM-280W - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $180 USD EXW (MOQ 1, 15-day validity).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

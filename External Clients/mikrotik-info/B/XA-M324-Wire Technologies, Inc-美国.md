@@ -1,10 +1,10 @@
 # XA-M324 · Wire Technologies, Inc. · 美国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 mikrotik-info `A-130`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R02 2026-10-27）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 mikrotik-info `A-130`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱
-- 研究后改级：XA → **XB**（W1-R02，小项目集成商/服务商，非渠道；9–10 月已发未回 → B 慢慢跟进（不进第二封））；编号不变
+- 研究后改级：XA → **XB**（LT-T03，小项目集成商/服务商，非渠道；9–10 月已发未回 → B 慢慢跟进（不进第二封））；编号不变
 - 人工改级：XB（2026-10-29，Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径））；编号不变
 - 标记：S箱已群发
 - 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
@@ -70,10 +70,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W1-R02，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — 小项目集成商/服务商，非渠道；9–10 月已发未回 → B 慢慢跟进（不进第二封）
-- 活着吗：来源库 2026-09-27 核对在线；本轮未复查
+- 活着吗：在线（wiretechnologies.com，快照 2026-10-29）：Wire Technologies - Wire Technologies
 - 一句话：布线/集成（WI，未触达）；Marvell 接入层生态切入
 - 是什么人：布线/集成（WI，未触达）；规模：未量化
 - 在卖/在用：Allied Telesis（Marvell Prestera 接入层）
@@ -87,5 +87,7 @@
 | 类型 | 说明 | 摘录 | 来源 | 日期 |
 |---|---|---|---|---|
 | 来源库官网/名录核对 | 【2026-09-27 联系方式核验】公开邮箱·一方/伙伴来源。官网页脚真实地址及 Kaukauna WI 联系方式；页面正文有未清除的模板邮箱和假电话，已排除，不混用英国或德国同名实体。 来源：[2](https://wiretechnologies.com/contact/) |  | https://wiretechnologies.com/ | 2026-09-27 |
+| 官网快照 | 官网在线；Wire Technologies - Wire Technologies | Discover a realm of technological mastery with Wire Technologies. From seamless connectivity solutions to robust security measures, we craft innovative, reliable, and future-ready IT solutions tailored for your success. | https://wiretechnologies.com/ | 2026-10-29 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。
+轻卡：本轮未外查，沿用来源库官网/名录核对。

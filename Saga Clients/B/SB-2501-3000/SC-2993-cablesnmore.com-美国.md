@@ -26,10 +26,10 @@ followups: 17
 first_contact: 2024-05-30
 last_contact: 2025-10-31
 s_mail: 35 msgs (out 35 / in 0), 2024-06-26 -> 2026-02-27
-p1: STC-424XGGPM-280W
+p1: STC-28DGGPM
 price_tier: 30%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -39,7 +39,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（○ 正式）：○ 自有 logo 贴牌 · OEM 30%：Cables N More（Quakertown PA；1–50 人；自己的 logo 和型号；进口宇航）部分坐实；OEM ✔ 进口经验 ✔ 主区 ✔ 对位 ✔ → P 池候选（退信 → 找 owner 新地址）；Simon 曾判不行，可否决（调研 2026-10-29；表内兴趣：工业FS 宇航的；MC 好几个外壳 SFP 商业FS  周边产品 自己的log和型号）
 - **为什么是 B 级**：**调研后定级 B**（Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 自有 logo 贴牌 · OEM 30%：Cables N More（Quakertown PA；1–50 人；自己的 logo 和型号；进口宇航）部分坐实；OEM ✔ 进口经验 ✔ 主区 ✔ 对位 ✔ → P 池候选（退信 → 找 owner 新地址）；Simon 曾判不行，可否决；闸 1：美国 Cables N More / TL Networx（cablesnmore.com / tlnetworx.com；宇航的工业 FS、MC 好几个外壳、SFP，**自己的 logo 和型号**）：美国主区 + 自有品牌贴牌 ✔ +…）；自动分级 C：+6 在 A/DONE 优质国家名单（已做过整轮推送）；-60 用户已归入「不行及不太相关的」；-25 邮件发不过去且无 WhatsApp 通道；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 17 次无任何回复（聋名单）
 - **历史互动**：推送 17 次（2024-05-30 → 2025-10-31）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-424XGGPM-280W — 默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）；
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-28DGGPM — 官网快照对位：PoE 词频 1 → 8 口 PoE+ 2 SFP L2+ 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）；
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动：LT-01 复核（待过）后再定 — 长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
@@ -52,7 +52,7 @@ updated: 2026-10-29
 - **现状一句话**：C 池三闸捞出 → B（LT-01）：○ 自有 logo 贴牌 · OEM 30%：Cables N More（Quakertown PA；1–50 人；自己的 logo 和型号；进口宇航）部分坐实；OEM ✔ 进口经验 ✔ 主区 ✔ 对位 ✔ → P 池候选（退信 → 找 owner 新地址）；Simon 曾判不行，可否决
 - **对方真实需求（有据）**：未知（无往来；复核时从官网 / 进口数据 / 项目推断）
 - **断点 / 为什么停在这里**：无往来（从未触达或仅群发无回）
-- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（% 档，价见价格主表）——默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
+- **Saga 现在该推什么**：P1 **STC-28DGGPM**（% 档，价见价格主表）——官网快照对位：PoE 词频 1 → 8 口 PoE+ 2 SFP L2+ 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）
 - **下一步（具体）**：不动：LT-01 复核（待过）后再定　—　长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -60,6 +60,7 @@ updated: 2026-10-29
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ○ 自有 logo 贴牌 · OEM 30%：Cables N More（Quakertown PA；1–50 人；自己的 logo 和型号；进口宇航）部分坐实；OEM ✔ 进口经验 ✔ 主区 ✔ 对位 ✔ → P 池候选（退信 → 找 owner 新地址）；Simon 曾判不行，可否决 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 复核 LT-R01 | Cables N More offers … networking products, including cables, adapters, and media converters … patch panels, fiber optic accessories；550 Commerce Dr, Quakertown PA；11-50 Employees；<$5 Million；Founded 2002 | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 登记底数（registry） | US · 1 次检索：zoominfo（Quakertown 地址 / 电话 / 11–50）+ crunchbase（1–10）；PA 登记号未取；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Cables N More — A wide selection of electronics and accessories, including adapters, converters, Cables n More | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -118,10 +119,11 @@ updated: 2026-10-29
 - **KP**：—（表内邮箱（公开 / 总机））customerservice@cablesnmore.com 〔〕
 - **KP**：—（表内邮箱（公开 / 总机））info@tlnetworx.com 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 自有 logo 贴牌 · OEM 30%：Cables N More（Quakertown PA；1–50 人；自己的 logo 和型号；进口宇航）部分坐实；OEM ✔ 进口经验 ✔ 主区 ✔ 对位 ✔ → P 池候选（退信 → 找 owner 新地址）；Simon 曾判不行，可否决；闸 1：美国 Cables N More / TL Networx（cablesnmore.com / tlnetworx.com；宇航的工业 FS、MC 好几个外壳、SFP，**自己的 logo 和型号**）：美国主区 + 自有品牌贴牌 ✔ +…
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/saga_fit/deep/facts。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -134,7 +136,21 @@ updated: 2026-10-29
   - 表内兴趣：工业FS 宇航的；MC 好几个外壳 SFP 商业FS 
 周边产品 自己的log和型号
 - **风险/边界**：**自有 logo 型号 + 进口宇航 → OEM 30%：找 owner 后一页纸一次（STC-110XGE MC + STI-154GP 工业 + 丝印 / 彩盒 MOQ + 付费样机）— 北美常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳 / DAP（买方清关）；周三 08–10 当地**；Simon 可否决；登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号
-- **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
+- **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——官网快照对位：PoE 词频 1 → 8 口 PoE+ 2 SFP L2+ 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://cablesnmore.com/　语言：en　站点地图 URL 数：2595
+- **标题**：Cables N More
+- **描述**：A wide selection of electronics and accessories, including adapters, converters, Cables n More
+- **首页栏目**：Media Converters / Patch Panels / Cable Management / Audio / Video Electronics / DVI / HDMI Cables / USB / 2 Inch J-Hook - Standard Mount, Galvanized, 25 Pack / 12U Wall Mount Cabinet - 101 Series, 18 Inches Deep, Flat Packed
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 746、fiber 322、sfp 69、ethernet 65、media converter 59、gigabit 52、switch 36、poe 1、data center 1、cisco 1
+- **站内型号串**（正则抽取，含非交换机）：RG-59, RJ-45
+- **产品类页面**：https://cablesnmore.com/industrial-gigabit-fiber-media-converter-1000base-lx-lc-multimode-2km-1310nm-4-port-sw…；https://cablesnmore.com/switches；https://cablesnmore.com/rj11-switch-2-way；https://cablesnmore.com/industrial-media-converter-power-supply-24v-1a；https://cablesnmore.com/gigabit-fiber-media-converter-1000base-sx-lc-multimode-550m-850nm-poe；https://cablesnmore.com/gigabit-fiber-media-converter-1000base-lx-lc-singlemode-20km-1310nm-poe
+- **已抓子页**：[Switches at Cables N More](https://cablesnmore.com/switches)；[Network at Cables N More](https://cablesnmore.com/network)；[Keystone Wall Plate for Network and Audio/Video Inserts – Mu](https://cablesnmore.com/keystone-wall-plate-for-network-and-audiovideo-inserts-multiple-ports-colors)；[All fiber optic cables at Cables N More](https://cablesnmore.com/fiber-optic)；[Bulk fiber optic at Cables N More](https://cablesnmore.com/fiber-optic-2)；[Fiber Optic Connectors at Cables N More](https://cablesnmore.com/fiber-optic-connectors)
+- 首页正文摘录：Create Account Log in Wishlist (0) Cart (0) You have no items in your shopping cart. Search Audio / Video Adapters / Converters VGA Cable Adapters USB Adapters HDMI Gender Changers Audio / Video Cables XLR Cables Coaxial DVI / HDMI Cables Stereo / RCA Toslink Cables All in Audio / Video Cables Audio / Video Electronics Extenders Splitters Switches Audio / Video New Arrivals HDMI Port Saver - HDMI Female to Male $6.64
+- **自动对位建议**：STC-28DGGPM（官网快照对位：PoE 词频 1 → 8 口 PoE+ 2 SFP L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SC-2993.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -191,12 +207,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-2993/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://cablesnmore.com/) | html | 待首轮 | — | 官网首页 |
+| [home](https://cablesnmore.com/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 9059 字符；首行：Cables N More |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -229,17 +246,17 @@ updated: 2026-10-29
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424XGGPM-280W | 深挖对位：默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档） | $180 USD EXW（㉕ ② 群发现价（群发价台账），30% 档公式为 $196.3——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（OEM（闸 2 判定 · 30% 档）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：30% 档 $151.6 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| **P1** | STC-28DGGPM | 深挖对位：官网快照对位：PoE 词频 1 → 8 口 PoE+ 2 SFP L2+ 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W） | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（OEM（闸 2 判定 · 30% 档）） |
+| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：30% 档 $151.6 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），30% 档公式为 $196.3——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424XGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -249,7 +266,7 @@ updated: 2026-10-29
 
 - **S**：自有品牌/贴牌需求 = 现成 OEM 客户；北美主攻区，复购与口碑可外溢
 - **W**：已推送 17 次无回复，邮件通道疲劳
-- **O**：P1 STC-424XGGPM-280W 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；规模（调研）：小型（1–50）
+- **O**：P1 STC-28DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；规模（调研）：小型（1–50）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -277,14 +294,14 @@ updated: 2026-10-29
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424XGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
+**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
 
 ```text
 Hello,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGPM-280W - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $180 USD EXW (MOQ 1, 15-day validity).
+We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

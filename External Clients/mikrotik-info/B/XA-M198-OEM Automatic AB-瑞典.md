@@ -1,10 +1,10 @@
 # XA-M198 · OEM Automatic AB · 瑞典
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 mikrotik-info `B-295`（原评级 B，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W2-R05a 2026-10-27）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 mikrotik-info `B-295`（原评级 B，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱（含实名 KP）
-- 研究后改级：XA → **XB**（W2-R05a，集团型技术分销，统一从华沙入口 → B）；编号不变
+- 研究后改级：XA → **XB**（LT-T03，集团型技术分销，统一从华沙入口 → B）；编号不变
 - 人工改级：XB（2026-10-29，Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径））；编号不变
 - 标记：S箱已群发、库内重复
 - 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
@@ -84,10 +84,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W2-R05a，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — 集团型技术分销，统一从华沙入口 → B
-- 活着吗：来源库 2026-09-29 核对在线；本轮未复查
+- 活着吗：在线（oemautomatic.se，快照 2026-10-29）：Komponenter för industriautomation | OEM Automatic
 - 一句话：OEM Automatic 集团总部（瑞典上市集团）；卖 N-Tron/Red Lion 工业交换机（8口非网管约 $500+）→ 中性货同规格 STI-280GE（Saga）约 $64（EXW 快照，15 天有效），做第二供应商/替换，价差 5 倍；北欧工业零部件大分销、自有品牌 → OEM 最优先
 - 是什么人：OEM Automatic 集团总部（瑞典上市集团）；规模：未量化
 - 在卖/在用：N-Tron、Red Lion
@@ -101,5 +101,7 @@
 | 类型 | 说明 | 摘录 | 来源 | 日期 |
 |---|---|---|---|---|
 | 来源库官网/名录核对 | 波兰分公司已在名单第73行，有真实联系人：+48 22 863 27 22 / info@oemautomatic.pl（Antaira 授权）→ 从华沙打进去一次覆盖 SE/PL/CZ 【关联】同集团另一实体：OEM AUTOMATIC Sp. z o.o.（波兰）（oemautomatic.pl）【2026-09-29 R59 资产池审核降级】★★★→★★:OEM Automatic 瑞典壳,仅官网联系页;集团主档保留但触达面限于官 |  | https://oemautomatic.se/ | 2026-09-29 |
+| 官网快照 | 官网在线；Komponenter för industriautomation ｜ OEM Automatic | Vi marknadsför ett brett & djupt sortiment av komponenter för industriautomation från ledande tillverkare. Över 25 000 artiklar i lager. Samla dina inköp här. | https://www.oemautomatic.se/ | 2026-10-29 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence/site_p1_hint。
+轻卡：本轮未外查，沿用来源库官网/名录核对。

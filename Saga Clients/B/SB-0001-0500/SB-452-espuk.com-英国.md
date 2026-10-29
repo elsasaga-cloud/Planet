@@ -23,7 +23,7 @@ s_mail: 24 msgs (out 24 / in 0), 2024-09-08 -> 2026-09-28
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
-site_snapshot: timeout  # 2026-10-21
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -35,7 +35,7 @@ updated: 2026-10-29
 - **历史互动**：推送 12 次（2024-09-08 → 2025-10-15）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — ESP 标 PoE（现 Folksafe）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；非管理 4/8 PoE 位 HRUI（列表价，注明）；换人再触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-10-21 $65（10G Media Converter）、2024-11-27 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-25 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Paul, for the PoE switches shipped with ESP camera kits, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; budget 4/8-PoE unmanaged) in ESP packaging from small lots, CE/RoHS/UKCA — which PoE SKU do your electrical-wholesale customers reorder most? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
-- **最大未知**：官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
+- **最大未知**：年走量与现供应商
 - **下一步**：2027-Q1（换人后） A 邮箱 → 具名 KP 换收件人再发一封（第 75 批(y) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 换人后用）；STC-204GP/028GP/2016GP/08GE/05GE 为 HRUI，不写 Marvell）（第 76 批(a) 2026-10-25：开头句主题按邮箱索引核对改写，同日去信补入事实）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2026-09-28 | 去 | A/S 群发 | Industrial PoE Switch、10G Enterprise SFP Switch | 24 封 / 0 次打开 / 0 回｜首封 2024-09-08 → 末封 2026-09-28（24 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 用的folksafe的产品 网站：主要是安防 | 表内备注 | `用户表` |
 | 2026-09-28 | 去 | A 箱（Alan） | Managed PoE Switches | 本日去信真实主题（邮箱索引 4f1abec4563b0bac；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `4f1abec4563b0bac` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | ESP \| Trusted Fire & Security Products — Protect what matters with ESPs certified fire and security solutions. Discover CCTV, access control, alarms, and more for home and business use. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -133,7 +134,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（espuk.com：超时（站慢或封锁），2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：在线（espuk.com，快照 2026-10-29）：ESP | Trusted Fire & Security Products
 - **是谁**：英国 ESP (Elite Security Products)（espuk.com / esp-uk.com：安防品牌（CCTV 套装、门禁、对讲），Scolmore 集团旗下；表内「用的 Folksafe 的产品」「可以多跟进一下」；KP Paul Panini（Director / Technical）；官网 timeout）；群发 12 次无回复。
 - **类型**：安防品牌商（英国，PoE 现 Folksafe）
 - **在卖/在用品牌**：Folksafe
@@ -145,10 +146,11 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Paul Panini（ESG & Sustainability Director（LinkedIn）= **误对口（不管采购）→ 不发给他**（第 96 批 官方登记核实 2026-10-28））paul@esp-uk.com 〔用户表〕
 - **KP**：ESP 产品管理（公域）（Elite Security Products Limited 产品 / 采购公域（Scolmore 集团，Redditch）= 收件人；National Sales Manager Ben Mackrill 仅记档（第 96 批 官方登记核实 2026-10-28）） 〔https://find-and-update.company-information.service.gov.uk/company/02769392〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/deep/facts。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -167,14 +169,21 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——ESP 标 PoE（现 Folksafe）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴标；非管理 4/8 PoE 位 HRUI（列表价，注明）
 - **邮件切入句（英文）**：Paul, for the PoE switches shipped with ESP camera kits, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; budget 4/8-PoE unmanaged) in ESP packaging from small lots, CE/RoHS/UKCA — which PoE SKU do your electrical-wholesale customers reorder most?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：超时（站慢或封锁））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
 
-- 尝试域名：espuk.com, esp-uk.com
-  > https://espuk.com/ http 403 ct=text/html; charset=utf-8
-  > https://www.espuk.com/ http 403 ct=text/html; charset=utf-8
-  > http://espuk.com/ http 403 ct=text/html; charset=utf-8
-- **提示**：抓取失败不代表公司不在；人工打开一次即可。
-- 数据文件：`data/saga_clients/site_snapshots/SB-452.json`
+- **首页**：https://espuk.com/　语言：en　站点地图 URL 数：896
+- **标题**：ESP / Trusted Fire & Security Products
+- **描述**：Protect what matters with ESPs certified fire and security solutions. Discover CCTV, access control, alarms, and more for home and business use.
+- **首页栏目**：Scolmore Group Sites / Highest Quality Products / EcoVadis Gold / Part of the Scolmore Group / Home Safety Fire & CO alarms / 01 Domestic Safety Alarms / 02 CCTV Systems / 03 Fire Protection Systems
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 56、cctv 26、cable 17、poe 13、oem 7、nvr 6、switch 5、surveillance 2、access control 2、wifi 2、installer 1
+- **站内型号串**（正则抽取，含非交换机）：CAB-10, CAB-20, CAB-40, CAB-80, CABIP10, CABIP20, CABIP40, BS5839-1, ECSP3350B, ES11CST, ES11ST
+- **站内公开电话**：+44 (0) 1527 515 150
+- **社媒**：https://www.facebook.com/espltduk?type=web, https://www.linkedin.com/company/espuk/?type=web, https://www.youtube.com/c/ESPUK2011, https://x.com/esp_uk?type=web
+- **产品类页面**：https://espuk.com/product/A1SL；https://espuk.com/product/A1ECP；https://espuk.com/product/A1SLS；https://espuk.com/product/APKIT；https://espuk.com/product/A1EXIT；https://espuk.com/product/A1IPKB
+- **已抓子页**：[IP CCTV Systems / ESP](https://espuk.com/products/ip-cctv)；[ESP / Trusted Fire & Security Products](https://espuk.com/product-finder?range=cctv)；[2MP CCTV Kits / Rekor HD by ESP](https://espuk.com/products/2mp-cctv?product-type=camera-kits)；[New Products / Latest from ESP](https://espuk.com/new-products)；[Fort / Smart Security](https://espuk.com/products/fort)；[Espire UK / Safety Alarms](https://espuk.com/products/espire)
+- 首页正文摘录：Scolmore Group Sites Click Ovia UK Unicrimp Click Smart + Scolmore OEM Scolmore Middle East Sangamo IEC Lock Click Litehouse Espire Ovia Ireland ESP Ireland Elucian Orbik Product Search Marketing Hub Scolmore Sites Search View All Products Product Finder Basket ( 0 ) Product Finder Open main menu Search View All Products Product Finder Marketing Hub Scolmore Sites 2026 / ESP (Elite Security Products) Ltd. Part of the
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 13、监控 90 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-452.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -224,7 +233,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T08:41:09Z
 - **最近变化摘要**：2026-10-29 home：内容变化：+1 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-452/`；本节随档案重渲染刷新，实时看日志。
 
@@ -309,7 +318,6 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

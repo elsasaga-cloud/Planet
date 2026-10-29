@@ -28,7 +28,7 @@ last_contact: unknown
 p1: STC-2216GP
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -58,6 +58,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ○ 小集成 25%：Triflex Infocom（Bangalore HAL 3rd Stage；2004；<$5M）部分坐实（目录页，CIN 未取）；已进口中国 MC / PoE ✔ 对位 ✔ → P 池候选 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 登记底数（registry） | IN · 1 次检索：fundoodata（地址 / 行业）+ zoominfo（2004 / 规模）+ vcsdata；CIN 未取；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Triflex Infocom | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -105,6 +106,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（○ 正式）：○ 小集成 25%：Triflex Infocom（Bangalore HAL 3rd Stage；2004；<$5M）部分坐实（目录页，CIN 未取）；已进口中国 MC / PoE ✔ 对位 ✔ → P 池候选
 - **类型**：小集成（闸 2 判定 · 25% 档）
 - **规模**：小型（<$5M）
+- **在卖/在用品牌**：Ubiquiti
 - **【登记底数 / 官网（闸 2 坐实）】Triflex Infocom（triflexinfo.com；**#497/B, 1st Floor, 8th Cross, 8th Main, HAL 3rd Stage, Bangalore 560075（fundoodata / vcsdata）；2004 创立；IT 基建 SME；<$5M（ZoomInfo）**）；CIN 未取；表内：IT 集成，进口中国 MC / PoE**
   > IN · 1 次检索：fundoodata（地址 / 行业）+ zoominfo（2004 / 规模）+ vcsdata；CIN 未取；2026-10-29
   > 来源：https://www.fundoodata.com/companies-detail/Triflex-Infocom/56479.html（抓取 2026-10-29）
@@ -114,10 +116,11 @@ updated: 2026-10-29
   > 来源：（抓取 2026-10-29）
 - **KP**：—（表内邮箱（公开 / 总机））sureshsk@triflexinfo.com 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 小集成 25%：Triflex Infocom（Bangalore HAL 3rd Stage；2004；<$5M）部分坐实（目录页，CIN 未取）；已进口中国 MC / PoE ✔ 对位 ✔ → P 池候选；闸 1：印度 Triflex Info（triflexinfo.com；从国内买 MC / PoE switch）：进口中国同类 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/saga_fit.basis/deep/facts。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -131,6 +134,16 @@ updated: 2026-10-29
 - **风险/边界**：**小集成 25%：一页纸一次（STC-028GP $28 / STC-228GP $33 + MOQ 1 + 付费样机）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC / REACH / UKCA）；周二 / 周四 11–13 IS；登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号
 - **Saga 对位结论**：P1 STC-2216GP（25% 档）——默认对位（小集成 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）
 
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://triflexinfo.com/　语言：未标　站点地图 URL 数：0
+- **标题**：Triflex Infocom
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 1、integrator 1
+- **站内出现的品牌**：Ubiquiti　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **已抓子页**：[Triflex Infocom](https://triflexinfo.com/Products-Networking-Solutions.html)；[Triflex Infocom](https://triflexinfo.com/Products-Storage-Solutions.html)；[Triflex Infocom](https://triflexinfo.com/Products.html)；[Triflex Infocom](https://triflexinfo.com/Products-Personal-Computing.html)；[Triflex Infocom](https://triflexinfo.com/Products-Peripherals-&-Accessories.html)；[Triflex Infocom](https://triflexinfo.com/about-us.html)
+- 首页正文摘录：Welcome to Triflex Infocom Our Products Enterprise Solutions Networking Solutions Personal Computing Storage Solutions Peripherals & Accessories More » Triflex Infocom is a pioneer in IT infrastructure solutions, products and services and has rapidly emerged as a key player in the industry. Founded by people from diverse experience in IT Industry,Triflex began the Journey in 2004. At Triflex, we believe an organizati
+- 数据文件：`data/saga_clients/site_snapshots/SC-1403.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
+
 ## 在卖/在用品牌 → Saga 对位
 
 （备注未提及具体品牌）
@@ -141,12 +154,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-1403/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://triflexinfo.com/) | html | 待首轮 | — | 官网首页 |
+| [home](https://triflexinfo.com/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 1002 字符；首行：Triflex Infocom |
 
 ## 联系方式（已有 · 原值照录）
 

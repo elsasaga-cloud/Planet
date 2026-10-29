@@ -28,7 +28,7 @@ s_mail: 1 msgs (out 0 / in 1), 2023-09-20 -> 2023-09-20
 p1: STC-424DGGPM-280W
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -66,6 +66,7 @@ updated: 2026-10-29
 | 2023-12-13 | 去 | Saga 内部（List_2023.12.13.xlsx / New_List.xlsx / Bypass_client_list.xlsx，存于 Rishi 文件夹） | 印度名单：secureye「很多找到的邮箱都试了 fail」、kabirinfotech「买来刷logo」、mahalasaent「requested samples before, but now company distributor Surabhi Info is on it. SILENT follow-up」、sundartechno Manoj Kumar… | Saga 自己做的印度 MC/旁路/工业交换机线索表放在 Fastball 文件夹里 = 当时设想 Fastball 当印度分销去跟这些线索（与给 Angora 土耳其名单同一套路）。Fastball 没成为分销商，名单也没交出去；这些印度户多数已在客户库 C/B | `Drive PI 文件夹（data/pi_2026-10/text） 2_Rishi` |
 | 2024-01-15 | 去 | Saga 代采记录《Information.docx》《Customs_Information.docx》（Rishi 配件） | Supplier Lenon（宁波）… Cleaner Pen, HS 8517799000… 40 pc 1.25mm (LC) + 40 pc 2.5mm (SC)… Cost 2.7×80 + 46 ship = 262 USD；采购成本 2.7×80 + 2.5 = 218.5 USD | Saga 为 Rishi 代采过 80 支光纤清洁笔（毛利约 $43）——Fastball 的 FTTH 配件清单（跳线/尾纤/分光器/LIU/VFL/光功率计/PoE 延长器…）Saga 都能代采，但利润薄，只作为交换机单的搭售 | `pi_doc` |
 | 2024-01-15 | 去 | Saga→Rishi《Model_List.docx》《Title_Reference.docx》 | Commercial Rack: STC-4168XGGCM / STC-4816XGCGM / STC-4816XGCGPM / STC-424XGGM / STC-424XGGPM / STC-448XGGM / STC-448XGGPM / STC-448XGGM-AF… Industrial Rack: STI-448XGGM / STI-4168XGGCM…；Title_Reference：「5 port unmanaged Ethernet switch / 8 port 10/100M lan switch / … / 27 port hybrid rate poe switch…」共 30+ 条电商式标题 | Saga 给 Rishi 的是「机架型号清单 + 电商标题参考」——Fastball 在印度做线上/分销铺货，要的是可直接上架的标题与型号树；这份清单也是 Saga 现成的 IndiaMART/Amazon 文案底稿 | `pi_doc` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Fastball — Authorised National Distributor of India | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -117,7 +118,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-22）**　网站状态：
+- **状态：已调研（2026-10-22）**　网站状态：在线（fastball.in，快照 2026-10-29）：Fastball
 - **是谁**：已成单 1 次（STSC20231009002，2023-10-09）；Simon 文件夹标签 gg（已凉）；详见 research/SB-1113.json
 - **类型**：经销/贸易（德里）
 - **【PI】成交单据 STSC20231009002（CI，2023-10-09）：型号见单据 共 80 台，USD 260.0；Simon 成本表利润 RMB 553.48**
@@ -135,8 +136,10 @@ updated: 2026-10-29
   > 来源：https://www.splicingmachines.com/fiber-optic-splicing-machine.html（抓取 2026-10-23）
 - **KP**：Rishi Kumar Bansal（Proprietor / CEO Fastball（GST 07AJJPR5445G1ZX）— 成单 1 次后 gg（第 114 批 官方登记核实 2026-10-28））office@fastball.in 〔PI.zip 单据〕
 - **调研后定级**：B（原自动 A）——PI 包成单客户，Simon 标签 gg：gg（已凉）→ B（成交过·慢慢跟进）
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/deep/facts。
 
-### 加厚挖掘（2026-10-23 · 公开平台核查（T29-U18，针对性：只核活跃平台与触达通道））
+
+### 加厚挖掘（2026-10-23 · 公开平台核查（T29-U18，针对性：只核活跃平台与触达通道） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -148,6 +151,22 @@ updated: 2026-10-29
 - **近况信号**：
   - 2026-10-23 核查：Fastball 在 IndiaMART 挂有「4 Port Industrial Ethernet Switch FBC-204GP」与「20 port Gigabit fiber optic switch」——FBC-204GP 即我方 STC-204GP 的贴牌命名（FBC = Fastball），说明他们把 Saga/HRUI 的工业 4 口直接上架零售；另主营光纤工具（独家进口 Signal Fire AI-5/AI-9 熔接机）、LIU/ODF、PLC 分路器；对口 = 继续供 FBC- 系列小批量
 - **Saga 对位结论**：P1 待核型（无标准对应）（20% 档）——成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://fastball.in/　语言：en　站点地图 URL 数：0
+- **标题**：Fastball
+- **描述**：Authorised National Distributor of India
+- **首页栏目**：Fastball / Telco / Data Center / FTTx / TMI / ESD / Fiber & FTTx Services / Data Center Services
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：fiber 126、cable 107、switch 51、telecom 34、data center 31、sfp 14、industrial 9、poe 4、ftth 3、10g 2、camera 1、surveillance 1
+- **站内型号串**（正则抽取，含非交换机）：UDYAM-DL-05-0014783, AJJPR5445G, AI-7C
+- **站内公开邮箱**：office@fastball.com
+- **站内公开电话**：+91 98109 87870, +91-9355 075 075, +91-9871 753 979
+- **社媒**：https://wa.me/919355075075?text=Hi%20there!%20I%20am%20interested%20in%20your%20services.
+- **已抓子页**：[Fastball](https://fastball.in/Switches.html)；[Fastball](https://fastball.in/Optical Bypass Switch.html)；[Fastball](https://fastball.in/About.html)；[Fastball](https://fastball.in/Contact.html)；[Fastball](https://fastball.in/Partner.html)；[Fastball](https://fastball.in/Optical Fiber Cables.html)
+- 首页正文摘录：Fastball DWDM OPTICAL LINE PROTECTION OPTICAL BYPASS SWITCH REMOTE FIBER MONITORING SYSTEM FMS JOINT ENCLOSURES PATCH CORDS & PIGTAILS LI-ION BATTERY PACK POWER SUPPLIES POWER CABLES DATA CABLES CO-AXIAL CABLES PATCH CABLES RACKS AND CABINETS PATCH PANELS CONNECTORS PATCH CORDS CLEANING TOOLS PRINTERS & TAPES SPOOLS OPTICAL FIBER CABLES PDU FAN UNITS LIUS OLTS ONTS SFPS CAT6 PASSIVE NODES PASSIVE WDM RATIO COUPLERS S
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 9、PoE 4 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-1113.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -180,14 +199,14 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **监控层**：成单精选层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-28T08:44:48Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1113/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://fastball.in/) | html | HTTP 200 | 2026-10-28T08:44:48Z | 9609 字符；首行：Fastball |
-| [indiamart](https://www.indiamart.com/fastball/) | html | HTTP 200 | 2026-10-23T03:05:43Z | 3790 字符；首行：Exporter & Trader - Retailer of Fiber Optic Splicing Machines Suppliers by Fast |
+| [indiamart](https://www.indiamart.com/fastball/) | html | HTTP 429 | 2026-10-23T03:05:43Z | IndiaMART 店铺（有 FBC-204GP 4 口工业交换机 = 贴我方 STC-204GP 同款命名；20 口千兆光纤交换机） |
 
 - **人工定期看（登录墙，不自动抓）**：TradeIndia 店铺；GST 07AJJPR5445G1ZX，个体 proprietorship 2021；站点无 RSS（/feed/ 404、?feed=rss2 返回 HTML）: https://fastball.in/
 

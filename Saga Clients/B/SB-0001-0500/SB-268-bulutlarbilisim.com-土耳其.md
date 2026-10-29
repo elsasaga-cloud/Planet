@@ -23,7 +23,7 @@ s_mail: 2 msgs (out 2 / in 0), 2026-03-12 -> 2026-08-10
 p1: STC-424XGGM
 price_tier: 25%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -54,6 +54,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-08-10 | 去 | A 群发 | OEM Core Switching Solution、24 Port PoE Managed Switch | 2 封 / 0 次打开 / 0 回｜首封 2026-03-12 → 末封 2026-08-10（2 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 核心交换机 100G/25G；核心交换机 100G/25G的 / from: 阿里巴巴 | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：bulutlarbilisim.com MX bulutlarbilisim-com.mail.protection.outlook.com.；A 15.197.148.33 / 3.33.130.190；NS ns56.domaincontrol.com. / ns55.domaincontrol.com. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -109,7 +110,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（bulutlarbilisim.com：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（bulutlarbilisim.com：HTTP 错误，2026-10-29，第 2 次）
 - **是谁**：土耳其 Bulutlar Bilişim（阿里巴巴询盘「核心交换机 100G/25G」；KP Ammar Alsawadi（CEO）；表内「质量可能一般」；官网 http_error）；表内未跟进。
 - **类型**：IT 方案商（土耳其，核心交换机询盘超范围）
 - **【用户表】表内兴趣/备注**
@@ -119,7 +120,8 @@ updated: 2026-10-29
   > 核心交换机 100G/25G的 / from: 阿里巴巴
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Ammar Alsawadi（CEO（研究档）—— 法人一次未坐实、官网失效 → 先不发；若试只发 STH 一页纸，无回即 C（第 97 批 官方登记核实 2026-10-28））info@bulutlarbilisim.com 〔用户表〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -141,7 +143,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-424XGGM（25% 档）——100G/25G 核心交换机 Saga 不供（超范围）→ 接入层 24 GE + 4×10G L2+ STC-424XGGM（$132.7 @25%）、48 口 PoE 10G 上联 STC-448XGGPM（$335）作配套
 - **邮件切入句（英文）**：Ammar, following your enquiry for 100G/25G core switches: we focus on the access layer — Marvell-based 24-GE + 4×10G and 48-PoE + 4×10G L2+ switches from single units, CE/RoHS, EXW USD — would the access side of the same project be worth a quote?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：bulutlarbilisim.com
   > https://bulutlarbilisim.com/ conn: HTTPSConnectionPool(host='bulutlarbilisim.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFEr
@@ -171,7 +173,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-27T08:02:45Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-27T08:02:45Z
 - **最近变化摘要**：2026-10-24 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-268/`；本节随档案重渲染刷新，实时看日志。
 

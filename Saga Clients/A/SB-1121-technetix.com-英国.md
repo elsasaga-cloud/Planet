@@ -29,7 +29,7 @@ s_mail: 24 msgs (out 22 / in 2), 2024-06-20 -> 2026-08-10
 p1: 无直接对位；2.5G 需求 → STI-288DGGPM / STC-28DGGPM（2.5G 铜口 + 10G SFP+，SFP+ 不跑 2.5G）；CENTEC STH10G 仅 1G/10G
 price_tier: 30%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -67,6 +67,7 @@ updated: 2026-10-29
 | 2026-01-22 | 内 | （仓内核对 2026-10-24） | 主表规格栏：STC-424XGGM「4*1G/2.5G/10G SFP+」、STI-480XGGM「4*1G/2.5G/10GBase-X SFP+」；STI-288DGGPM 规格书「DG: 2.5 Gigabit based for optical ports」 | Alan 的「1, NO」只对 CENTEC；AC5 线 SFP+ 可跑 2.5G——收尾信要补 | `check` |
 | 2026-08-10 | 去 | Alan | 24 Port PoE af/at… 10G Fiber Uplinks… Price: 170USD/PC. Do you need some samples for testing? | 与他的问题无关的推送；无回 | `push` |
 | 2026-10-25 | 研 | 第 77 批复核 | C→B：品牌商 VP 两次具名提问 + 我方未兑现承诺待交代 | T29-U56；仍按 Q-55 只发一封收尾信 | `—` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Welcome to Technetix - Technetix — You will be redirected to your local region. If you are not, please select your region below: | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：Technetix 当前产品线中哪一段需要 2.5G/SFP+ 供电（官网未爬）；REST 承诺的来源（Alan 当时依据什么说 Q2）；WhatsApp 加不上（flags.wa_failed）的时间与号码
 
@@ -169,9 +170,10 @@ updated: 2026-10-29
   > 来源：data/gmail_a/messages/<year>/<month>.jsonl（抓取 2026-01-22）
 - **KP**：Mark Basham（）mark.basham@technetix.com +44 1444 251260 / m +44 7827 990840（信尾；对外材料不写电话）〔data/gmail_a/messages/<year>/<month>.jsonl〕
 - **调研后定级**：A（原自动 C）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌
-- 备注：巨头规则（INH：体量不匹配）→ C 不动；但这是仓内少有的英国品牌商 VP 两次具名提问，按 Q-55「巨头例外档」处理：档案齐全，只允许一封收尾信（把 2026-01-22 的 REST 承诺交代清楚），不进群发。flags.wa_failed=1（WhatsApp 加不上）。｜第 77 批：C→B（见 override_reason）；收尾信不变，2026-11 发。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。
+巨头规则（INH：体量不匹配）→ C 不动；但这是仓内少有的英国品牌商 VP 两次具名提问，按 Q-55「巨头例外档」处理：档案齐全，只允许一封收尾信（把 2026-01-22 的 REST 承诺交代清楚），不进群发。flags.wa_failed=1（WhatsApp 加不上）。｜第 77 批：C→B（见 override_reason）；收尾信不变，2026-11 发。
 
-### 加厚挖掘（2026-10-24 · 邮件证据 + 官网常识）
+### 加厚挖掘（2026-10-24 · 邮件证据 + 官网常识 + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -183,6 +185,16 @@ updated: 2026-10-29
 - **风险/边界**：巨头采购流程（供应商准入/UL/合规）小贸易商难进；2026-01-22 对他说了「RESTful API JSON Q2 可用」——STOS V2.4（2026/Q2）功能表只有「RPC-API management」，无 REST/JSON 字样：承诺未兑现或措辞不符，需交代；他真正的兴趣（2.5G on SFP+、SFP+ 供电）指向光纤接入侧的特殊用法，Saga 标准机型不对位
 - **Saga 对位结论**：P1 无直接对位；2.5G 需求 → STI-288DGGPM / STC-28DGGPM（2.5G 铜口 + 10G SFP+，SFP+ 不跑 2.5G）；CENTEC STH10G 仅 1G/10G（30% 档）——品牌商/定制意向，但巨头体量；先把承诺交代清楚，再看他是否还有话
 - **邮件切入句（英文）**：（见 mail_review.draft_en）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://technetix.com/　语言：en-US　站点地图 URL 数：1
+- **标题**：Welcome to Technetix - Technetix
+- **描述**：You will be redirected to your local region. If you are not, please select your region below:
+- **首页栏目**：Welcome to Technetix / You will be redirected to your local region. / If you are not, please select your region below:
+- **社媒**：https://americas.technetix.com/, https://emea.technetix.com, https://technetix.com/
+- 首页正文摘录：Skip to content Welcome to Technetix You will be redirected to your local region. If you are not, please select your region below: Americas EMEA ©2026 Technetix. All Rights Reserved.
+- 数据文件：`data/saga_clients/site_snapshots/SB-1121.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -222,12 +234,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1121/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://technetix.com/) | html | 待首轮 | — | 官网首页 |
+| [home](https://technetix.com/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 215 字符；首行：Welcome to Technetix - Technetix |
 
 ## 联系方式（已有 · 原值照录）
 

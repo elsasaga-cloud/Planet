@@ -215,15 +215,15 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-052/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://bsn-system.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2802 字符；首行：Home 2 - Berkah Saudara Network |
-| [sitemap](https://bsn-system.com/sitemap_index.xml) | sitemap | HTTP 200 | 2026-10-23T04:20:51Z | 0 个 URL；最新 lastmod - |
-| [feed_auto](https://bsn-system.com/feed/) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Wed, 30 Oct 2024 15:15:21 High Payout Rtp In The Game Monopoly Live |
+| [home](https://bsn-system.com/) | html | HTTP 503 | 2026-10-23T04:20:51Z | 官网首页（T27 快照状态 ok） |
+| [sitemap](https://bsn-system.com/sitemap_index.xml) | sitemap | HTTP 503 | 2026-10-23T04:20:51Z | 站点地图（2026-10-21 时 3001 条） |
+| [feed_auto](https://bsn-system.com/feed/) | rss | ReadTimeout: HTTPSConnectionPool(host='bsn-system.com', port | 2026-10-23T04:20:51Z | 首页自动发现的 feed |
 
 ## 联系方式（已有 · 原值照录）
 

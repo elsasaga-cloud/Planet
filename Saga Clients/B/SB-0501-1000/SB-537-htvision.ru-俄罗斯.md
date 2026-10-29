@@ -23,7 +23,7 @@ s_mail: 14 msgs (out 14 / in 0), 2024-07-10 -> 2025-12-12
 p1: STC-28DGGPM
 price_tier: 30%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: unreachable  # 2026-10-29
 sources: 3
 updated: 2026-10-29
 ```
@@ -35,7 +35,7 @@ updated: 2026-10-29
 - **历史互动**：推送 8 次（2025-03-28 → 2025-11-03）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 自有型号商用 PoE（现国内货）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 HTVision 标；工业 8 PoE + 2 SFP STI-288GP（$62.2）作 ONV/Utepo/Ewind 二供。已打开的主题（3/14 封有打开记录）：「PoE Switch」(2024-08-08)、「Mini Industrial PoE Switch」(2024-10-09)、「48 Port PoE Managed Switch」(2024-12-25) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；首触锚价 STC-28DGGPM $87.4 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-25 $300（48 Port PoE Managed Switch）、2025-10-03 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the PoE switches sold under the HTVision label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; industrial DIN-rail 8-PoE) in your packaging from small lots, CE/RoHS; EAC by your side — which PoE SKU do your dealers reorder most? Reference: STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
-- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
+- **最大未知**：官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - **下一步**：2026-11 A 邮箱 → info@htvision.ru（2024-12-27 曾退「Delivery incomplete」（临时），之后 9 封未见退信；发前看上一封有没有退回） 短信一问（email_hook）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
@@ -54,6 +54,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2025-12-12 | 去 | A/S 群发 | 48 Port PoE Managed Switch、Mini Industrial PoE Switch | 14 封 / 3 次打开 / 0 回｜首封 2024-07-10 → 末封 2025-12-12（14 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 商业PoE 自己的型号 有ONV Utepo Ewind的工业FS；https://lyvi.ru/p-g10999549758472032000 | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：htvision.ru MX mail.htvision.ru.；A 217.107.219.186；NS ns3.jino.ru. / ns1.jino.ru. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -125,7 +126,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（htvision.ru：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（htvision.ru：域名不可达（DNS/连接失败），2026-10-29，第 2 次）
 - **是谁**：俄罗斯 HTVision（CCTV 品牌商：自有型号商用 PoE，工业 FS 有 ONV / Utepo / Ewind；表内「有很多国内的外壳」「发不过去」（邮箱退信）；官网 http_error；备注 lyvi.ru 商品链接）；群发 8 次无回复。
 - **类型**：CCTV 品牌商（俄罗斯，自有型号 PoE，邮箱退信）
 - **在卖/在用品牌**：ONV, Utepo, Ewind
@@ -135,7 +136,8 @@ updated: 2026-10-29
 - **【用户表】自己的型号；ONV/Utepo/Ewind；发不过去**
   > 商业PoE 自己的型号 有ONV Utepo Ewind的工业FS；有很多国内的外壳 / 发不过去
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -157,13 +159,13 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（30% 档）——自有型号商用 PoE（现国内货）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 HTVision 标；工业 8 PoE + 2 SFP STI-288GP（$62.2）作 ONV/Utepo/Ewind 二供
 - **邮件切入句（英文）**：For the PoE switches sold under the HTVision label, we can be a second ODM source on a Marvell L2+ platform (8-PoE + 2 SFP; industrial DIN-rail 8-PoE) in your packaging from small lots, CE/RoHS; EAC by your side — which PoE SKU do your dealers reorder most?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：域名不可达（DNS/连接失败））
 
 - 尝试域名：htvision.ru
-  > https://htvision.ru/ http 403 ct=text/html; charset=iso-8859-1
-  > https://www.htvision.ru/ http 403 ct=text/html; charset=iso-8859-1
-  > http://htvision.ru/ http 403 ct=text/html; charset=iso-8859-1
-- **提示**：抓取失败不代表公司不在；人工打开一次即可。
+  > https://htvision.ru/ conn: HTTPSConnectionPool(host='htvision.ru', port=443): Max retries exceeded with url: / (Caused by NewConnectionError("HTTPS
+  > https://www.htvision.ru/ conn: HTTPSConnectionPool(host='www.htvision.ru', port=443): Max retries exceeded with url: / (Caused by NewConnectionError("H
+  > http://htvision.ru/ conn: HTTPConnectionPool(host='htvision.ru', port=80): Max retries exceeded with url: / (Caused by NewConnectionError("HTTPCon
+- **提示**：域名不可达 → 表内域名可能拼错/过期；跟进前核对邮箱域名。
 - 数据文件：`data/saga_clients/site_snapshots/SB-537.json`
 
 ## 在卖/在用品牌 → Saga 对位
@@ -215,7 +217,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-28T08:44:48Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-28T08:44:48Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-537/`；本节随档案重渲染刷新，实时看日志。
 
@@ -298,7 +300,7 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
+- [ ] 官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

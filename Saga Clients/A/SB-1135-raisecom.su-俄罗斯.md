@@ -29,7 +29,7 @@ s_mail: 12 msgs (out 7 / in 5), 2024-05-07 -> 2024-06-20
 p1: STC-4168XGGCM（L3，4×10G SFP+ + 16×SFP + 8 Combo，$413）对他的「L3 商用 8–12 SFP+ + 12–24 GE」；工业 STI-4168XGGCM-U(L3) $605
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: unreachable  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -41,7 +41,7 @@ updated: 2026-10-29
 - **历史互动**：成交/下单过；WhatsApp 已加
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-4168XGGCM（L3）$413；STI-4168XGGCM-U $511.5 / (L3) $605；STI-288DGGPM $137.5 — 已发资料（勿重发）：CLI 手册(2024-05-07)、STI-480XGGM 资料(2024-05-07)、Realtek 6×10G+24×2.5G 规格书(2024-06-20)；对俄付款在回信后谈｜档位说明（原 tier 字段文字「经销 25%」移此）：经销 25%；2024-06-20 报过 $550 / $120（老汇率 7.2）——再报前对表：同款 2026-10 表 $511.5（L2+）或 $605（L3）、$137.5；**第 63 批基准统一（规则 ㉕）**：STC-4168XGGCM 由列表价 $413 改为 25% 档 $392.4；他没收过 $240/$280 群发；工业 -U 两档 $511.5 / $605 = 列表价 ≤ 档位价，封顶保留
 - **第一问（只问一个）**：Dmitry — in June 2024 I had nothing for your "L3 commercial, 8-12 SFP+ and 12-24 GE" request; today we do: 4 x 10G SFP+ + 16 x 1G SFP + 8 x combo, L3, $413 USD EXW. Do you have a project this winter where it fits?
-- **最大未知**：具体需求型号（表内兴趣列为空）
+- **最大未知**：具体需求型号（表内兴趣列为空）；官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - **下一步**：2026-12 S 邮箱 → ddmitry@raisecom.su（回 2024-06-20 原线程「L2 managed switch」） 一句话：2024 年答「没有」的 L3 商用 8–12 SFP+ + 12–24 GE 现在有（STC-4168XGGCM，4×10G SFP+ + 16×SFP + 8 Combo，L3，$413 EXW）；问有没有新项目（第 76 批(b) 2026-10-25：audit_ab 硬错误修正：tier 字段规范为数字）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
@@ -151,7 +151,8 @@ updated: 2026-10-29
 - **KP**：Dmitry (Дейкун Дмитрий Александрович) Deikun（）ddmitry@raisecom.su 〔data/gmail_a|gmail_s/messages/<year>/<month>.jsonl〕
 - **KP**：Kovzur Max（）mk@raisecom.su +7 812 764 28 85（信尾）〔data/gmail_a|gmail_s/messages/<year>/<month>.jsonl〕
 - **调研后定级**：A（原自动 C）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A6 真回≥3+对位（任何区域）
-- 备注：最后一问（L3 商用 8–12 SFP+ + 12–24 GE）当年答「没有」——现在主表有 STC-4168XGGCM（4×10G SFP+ + 16×1G SFP + 8 Combo，L3，$413）和 STC-4816XGCGM（$353），接近他要的；2024 报的 $550（STI-4168XGGCM-U）在 2026-10 主表为 $511.5（L2+）/ $605（L3）。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#1。
+最后一问（L3 商用 8–12 SFP+ + 12–24 GE）当年答「没有」——现在主表有 STC-4168XGGCM（4×10G SFP+ + 16×1G SFP + 8 Combo，L3，$413）和 STC-4816XGCGM（$353），接近他要的；2024 报的 $550（STI-4168XGGCM-U）在 2026-10 主表为 $511.5（L2+）/ $605（L3）。
 
 ### 加厚挖掘（2026-10-24 · 邮件证据）
 
@@ -167,6 +168,15 @@ updated: 2026-10-29
 - **风险/边界**：对俄付款/物流；2024 项目早已过去；需新项目；Raisecom 代理身份——可能只在 Raisecom 没有的缝隙里找货
 - **Saga 对位结论**：P1 STC-4168XGGCM（L3，4×10G SFP+ + 16×SFP + 8 Combo，$413）对他的「L3 商用 8–12 SFP+ + 12–24 GE」；工业 STI-4168XGGCM-U(L3) $605（25% 档）——当年说没有的东西现在有——一句话重开
 - **邮件切入句（英文）**：（见 mail_review.draft_en）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：域名不可达（DNS/连接失败））
+
+- 尝试域名：raisecom.su
+  > https://raisecom.su/ conn: HTTPSConnectionPool(host='raisecom.su', port=443): Max retries exceeded with url: / (Caused by NewConnectionError("HTTPS
+  > https://www.raisecom.su/ conn: HTTPSConnectionPool(host='www.raisecom.su', port=443): Max retries exceeded with url: / (Caused by NewConnectionError("H
+  > http://raisecom.su/ conn: HTTPConnectionPool(host='raisecom.su', port=80): Max retries exceeded with url: / (Caused by NewConnectionError("HTTPCon
+- **提示**：域名不可达 → 表内域名可能拼错/过期；跟进前核对邮箱域名。
+- 数据文件：`data/saga_clients/site_snapshots/SB-1135.json`
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -189,12 +199,12 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1135/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://raisecom.su/) | html | 待首轮 | — | 官网首页 |
+| [home](https://raisecom.su/) | html | ConnectionError: HTTPSConnectionPool(host='raisecom.su', por | - | 官网首页 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -271,6 +281,7 @@ updated: 2026-10-29
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 具体需求型号（表内兴趣列为空）
+- [ ] 官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

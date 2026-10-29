@@ -29,7 +29,7 @@ s_mail: 6 msgs (out 6 / in 0), 2024-07-05 -> 2024-12-04
 p1: STC-228GP
 price_tier: 25%
 research: done
-site_snapshot: timeout  # 2026-10-21
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -41,7 +41,7 @@ updated: 2026-10-29
 - **历史互动**：成交/下单过；推送 1 次（2025-10-08 → 2025-10-08）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-228GP — 默认 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）替代延长器做远端接入（光纤 + PoE）；延长器待 Q-32；Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$34.6；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-06 $65（10G Media Converter）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-09 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-09；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-05-07 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-08→2026-05-07；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Pak Nur / Pak Gunawan, after the 12 extenders in 2011: for long-reach camera links we now recommend a 2× SFP + 8× PoE switch at $34.6 EXW (fibre instead of extenders) — are your current projects still copper-extender based, or moving to fibre?
-- **最大未知**：官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
+- **最大未知**：年走量与现供应商
 - **下一步**：群发节奏 A 邮箱 首封前知悉：Elsa 已 1:1 去信 9 轮（2025-04-30→2026-08-10，0 回）（第 74 批(m)）；观察打开
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
@@ -68,6 +68,7 @@ updated: 2026-10-29
 | 2026-03-30 | out | Elsa → gunawan@pt-aag.co.id | Marvell Managed Commercial Switches（Elsa 1:1 逐月名单第 7/9 轮；To 仅本户） | 第 74 批(m) `from:e.sagatelecom to:gunawan@pt-aag.co.id` 全程 complete：9 轮直收；0 回 | `elsa_1to1` |
 | 2026-05-07 | out | Elsa → gunawan@pt-aag.co.id | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 8/9 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 第 74 批(m) `from:e.sagatelecom to:gunawan@pt-aag.co.id` 全程 complete：9 轮直收；0 回 | `elsa_1to1` |
 | 2026-08-10 | out | Elsa → gunawan@pt-aag.co.id | 24 Port PoE Managed Switch … Price: 170USD/PC（第 9 轮；此前 2025-04-30 / 06-09 / 10-08 / 12-11、2026-01-06 / 02-27 / 03-30 / 05-07） | 本户不是 BCC 群发对象，而是 Elsa 的 1:1 月度序列收件人（9 轮无 Bcc）；S 箱 6 封 + Elsa 9 封 = 15 封 0 回 → 「未触达」应改读为「读而不回/地址冷」 | `elsa_1to1` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | PT. Anugerah Artha Guna – Konsultan IT – Aplikasi – Jaringan | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：Elsa 9 轮 1:1 是否有打开记录未核（Elsa 箱无 Opened 标签）
 
@@ -133,16 +134,18 @@ updated: 2026-10-29
 - **是谁**：印尼公司，2011 年买过 12 台延长器，E 冷名单 1 次跟进 0 回复。
 - **类型**：经销/集成商
 - **规模**：待补证
+- **在卖/在用品牌**：H3C
 - **【用户记录】2011 年买过 12 台延长器**
   > 2011年买过12台延长器（用户 Clients 表摘录）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） 〔用户 Clients 表〕
 - **KP**：Gunawan（联系人（Clients 表 / entities 邮箱；职务待核）= 收件人 — 回访一页纸一次：集成商 25% B、2011 成交（延长器 12 台）为开场 → 延长器不供 → STC-028GP / STC-228GP / STI-054GP 一口价 + MOQ 1 + 付费样机 — 印尼常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 雅加达、SDPPI 不声称（第 120 批 官方登记核实 2026-10-29））gunawan@pt-aag.co.id 〔〕
 - **调研后定级**：B（原自动 A）——2011 年一次小额成交后沉寂 14 年、公司名不完整（PT. Anugerah 为常见前缀，主体待核）→ B 待机。
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 回访一封；待补证：完整公司名与网站。
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 需求映射））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（基于首轮调研整理 + 需求映射） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -158,14 +161,20 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-228GP（25% 档）——默认 25% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）替代延长器做远端接入（光纤 + PoE）；延长器待 Q-32
 - **邮件切入句（英文）**：Pak Nur / Pak Gunawan, after the 12 extenders in 2011: for long-reach camera links we now recommend a 2× SFP + 8× PoE switch at $34.6 EXW (fibre instead of extenders) — are your current projects still copper-extender based, or moving to fibre?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：超时（站慢或封锁））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
 
-- 尝试域名：pt-aag.co.id
-  > https://pt-aag.co.id/ http 500 ct=text/html; charset=utf-8
-  > https://www.pt-aag.co.id/ http 500 ct=text/html; charset=utf-8
-  > http://pt-aag.co.id/ timeout
-- **提示**：抓取失败不代表公司不在；人工打开一次即可。
-- 数据文件：`data/saga_clients/site_snapshots/SB-050.json`
+- **首页**：https://pt-aag.co.id/　语言：en-US　站点地图 URL 数：0
+- **标题**：PT. Anugerah Artha Guna – Konsultan IT – Aplikasi – Jaringan
+- **首页栏目**：PT. Anugerah Artha Guna / About / List Of Legality,
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 6、industrial 2、data center 2
+- **站内出现的品牌**：H3C　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：AHU-0150119
+- **站内公开邮箱**：marketing@pt-aag.co.id
+- **站内公开电话**：+62 851-8282-8360
+- **社媒**：https://wa.me/6285182828360
+- **已抓子页**：[Product – PT. Anugerah Artha Guna](https://pt-aag.co.id/?page_id=55)
+- 首页正文摘录：Skip to content PT. Anugerah Artha Guna Konsultan IT – Aplikasi – Jaringan Menu About PRODUK KAMERA XACTI WEB MEETING CAMERA BODYWORN CAMERA WEARABLE CAMERA FORECO FOR FORCLIFT DOBORECCO FOR EXCAVATOR Product Customer Tutorial Gerakan Rakyat Contact Us Scroll down to content About Introduction, PT. Anugerah Artha Guna (AAG) was founded in 2010. At the beginning of the establishment of AAG, we entered into a work cont
+- 数据文件：`data/saga_clients/site_snapshots/SB-050.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -197,7 +206,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-050/`；本节随档案重渲染刷新，实时看日志。
 
@@ -278,7 +287,6 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -27,7 +27,7 @@ last_contact: 2025-10-06
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -125,7 +125,8 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Amine Abou Jaoude (Abou-Jaoudeh)（General Manager（家族企业；kompass 所有者 Fadi J. / Grace Y. Abou Jaoudeh；2024-04 问价）= 收件人 — 一页纸一次：分销 20% B、STC-028GP $28 / STC-228GP $33 / STC-2216GP / STC-2224GP $86 一口价 + MOQ 1 + 付费样机 — 黎巴嫩常规：英文稿、20 / 25 / 30 + T/T 预付 100%（不接受信用证）+ FOB 深圳 或 DAP 贝鲁特（第 121 批 官方登记核实 2026-10-29））amine@technotower-lb.com +961 3 839 839（WA 已加）〔用户 Clients 表 + Kompass〕
 - **KP**：Fadi J. Abou Jaoudeh（Owner（kompass 2026-10-29；无公开邮箱）（第 121 批 官方登记核实 2026-10-29）） 〔〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 （无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网 + Kompass/海关记录核对））
@@ -145,7 +146,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——其索价 8/16/24 口 PoE → 以 8 PoE + 2 SFP L2+ 起手，同页附 STC-2216GPM（16）与 STC-424DGGPM-280W（24）
 - **邮件切入句（英文）**：You asked for prices on 8-, 16- and 24-port PoE switches for your CCTV/access-control installs — I can send all three on one USD EXW sheet today; roughly how many sites a month do you equip?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：technotower-lb.com
   > https://technotower-lb.com/ conn: HTTPSConnectionPool(host='technotower-lb.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(
@@ -186,7 +187,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-24T04:35:40Z
 - **最近变化摘要**：2026-10-24 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-327/`；本节随档案重渲染刷新，实时看日志。
 

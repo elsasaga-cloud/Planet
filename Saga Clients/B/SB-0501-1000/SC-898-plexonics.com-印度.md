@@ -26,10 +26,10 @@ followups: 0
 first_contact: unknown
 last_contact: unknown
 s_mail: 18 msgs (out 17 / in 1), 2024-06-12 -> 2026-09-17
-p1: STC-228GP
+p1: STI-288GPM
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -39,7 +39,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（★ 正式）：★ 中型分销 20%：Plexonics Technologies Limited（Chandigarh；CIN U72900CH2011PLC033105；2011；实收 ₹5.35 Cr；3 董事）坐实；多牌进口 ✔ 对位 ✔ 坐实 ✔ → P 池候选（调研 2026-10-29；表内兴趣：百通；买很多国内的POE）
 - **为什么是 B 级**：**调研后定级 B**（Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 中型分销 20%：Plexonics Technologies Limited（Chandigarh；CIN U72900CH2011PLC033105；2011；实收 ₹5.35 Cr；3 董事）坐实；多牌进口 ✔ 对位 ✔ 坐实 ✔ → P 池候选；闸 1：印度 Plexonics（plexonics.com；百通 + 「买很多国内的 PoE」）：进口中国同类 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先）；自动分级 C：+2 在 AI 客户评估名单；-6 群发批次名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-228GP — 默认对位（中型分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）；
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STI-288GPM — 官网快照对位：工业/自动化词频 324、PoE 42 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）；
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动：LT-01 复核（待过）后再定 — 长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
@@ -52,13 +52,14 @@ updated: 2026-10-29
 - **现状一句话**：C 池三闸捞出 → B（LT-01）：★ 中型分销 20%：Plexonics Technologies Limited（Chandigarh；CIN U72900CH2011PLC033105；2011；实收 ₹5.35 Cr；3 董事）坐实；多牌进口 ✔ 对位 ✔ 坐实 ✔ → P 池候选
 - **对方真实需求（有据）**：未知（无往来；复核时从官网 / 进口数据 / 项目推断）
 - **断点 / 为什么停在这里**：无往来（从未触达或仅群发无回）
-- **Saga 现在该推什么**：P1 **STC-228GP**（% 档，价见价格主表）——默认对位（中型分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）
+- **Saga 现在该推什么**：P1 **STI-288GPM**（% 档，价见价格主表）——官网快照对位：工业/自动化词频 324、PoE 42 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）
 - **下一步（具体）**：不动：LT-01 复核（待过）后再定　—　长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ★ 中型分销 20%：Plexonics Technologies Limited（Chandigarh；CIN U72900CH2011PLC033105；2011；实收 ₹5.35 Cr；3 董事）坐实；多牌进口 ✔ 对位 ✔ 坐实 ✔ → P 池候选 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 登记底数（registry） | IN · 1 次检索：thecompanycheck（CIN / 董事 / 地址）+ tofler（PAN / 实收 / 邮箱）；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Plexonics Technologies Limited | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -129,10 +130,11 @@ updated: 2026-10-29
 - **KP**：—（表内邮箱（公开 / 总机））info@plexonics.com 〔〕
 - **KP**：—（表内邮箱（公开 / 总机））sales-india@plexonics.com 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 中型分销 20%：Plexonics Technologies Limited（Chandigarh；CIN U72900CH2011PLC033105；2011；实收 ₹5.35 Cr；3 董事）坐实；多牌进口 ✔ 对位 ✔ 坐实 ✔ → P 池候选；闸 1：印度 Plexonics（plexonics.com；百通 + 「买很多国内的 PoE」）：进口中国同类 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/saga_fit/deep/facts。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -144,7 +146,20 @@ updated: 2026-10-29
   - 印度 Plexonics（plexonics.com；百通 + 「买很多国内的 PoE」）：进口中国同类 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先
   - 表内兴趣：百通；买很多国内的POE
 - **风险/边界**：**中型分销 20%：一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-2224GP $86 分销价 + MOQ 1 + 付费样机；Belden 不点名）— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认证要求由买方核，Saga 仅 CE / RoHS / FCC
-- **Saga 对位结论**：P1 STC-228GP（20% 档）——默认对位（中型分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）
+- **Saga 对位结论**：P1 STI-288GPM（20% 档）——官网快照对位：工业/自动化词频 324、PoE 42 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://www.plexonics.com/　语言：en-gb　站点地图 URL 数：0
+- **标题**：Plexonics Technologies Limited
+- **首页栏目**：IP BASED THERMAL CAMERA SOLUTION / HAND HELD THERMAL IMAGE CAMERA / NO MATTER HOW COMPLEX YOUR NEEDS ARE, / IP SURVEILLANCE / NETWORK SWITCHES AND ROUTERS / OUR PRODUCTS / IP Thermal Camera / Hand-Held Thermal Image Camera
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 917、nvr 337、industrial 324、cable 294、switch 288、fiber 234、sfp 171、wireless 132、ethernet 88、gigabit 66、10g 64、surveillance 50
+- **站内型号串**（正则抽取，含非交换机）：PL-7574RVP, PL-2400MGIT, PL-2000, PL-2100, PL-2224MF-2GX, PL-2400MG, PL-2410MG-8PN, PL-2500, PL-2600, PL-2432MGE-24P, PL-2452MGT-48P, PL-2700
+- **站内公开邮箱**：info@plexonics.com
+- **已抓子页**：[Switches](https://www.plexonics.com/index.php/products/enterprise-networking/switches)；[Unmanaged Switches](https://www.plexonics.com/index.php/products/enterprise-networking/switches/unmanaged-switches)；[L2 Managed Switches](https://www.plexonics.com/index.php/products/enterprise-networking/switches/l2-managed-switches)；[L3 Managed Switches](https://www.plexonics.com/index.php/products/enterprise-networking/switches/l3-managed-switches)；[Datacenter Switches](https://www.plexonics.com/index.php/products/enterprise-networking/switches/datacenter-switches)；[Smart Managed Switches](https://www.plexonics.com/index.php/products/enterprise-networking/switches/smart-managed-switches)
+- 首页正文摘录：Home About Us Our Milestones Partner Program E-Waste Management Products Enterprise Networking Switches Unmanaged Switches PL-2000 SERIES PL-2100 SERIES Smart Managed Switches L2 Managed Switches PL-2224MF-2GX PL-2400MG SERIES PL-2410MG-8PN PL-2500 SERIES PL-2600 SERIES PL-2432MGE-24P PL-2452MGT-48P L3 Managed Switches PL-2700 SERIES PL-2800 SERIES Datacenter Switches PL-2900 SERIES PL-2954MGF-40G PL-2954MGXQ NEXGEN 
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 324、PoE 42 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SC-898.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -179,12 +194,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-898/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://plexonics.com/) | html | 待首轮 | — | 官网首页 |
+| [home](https://plexonics.com/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 23537 字符；首行：Plexonics Technologies Limited |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -218,7 +234,7 @@ updated: 2026-10-29
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-228GP | 深挖对位：默认对位（中型分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档） | $33.2 USD EXW（HRUI Realtek 线：洪瑞 2026-09-30 成本 + 20%（列表价 $30.8 隐含加价低于底线，第 73 批口径）；见 data/价格主表_HRUI.csv；汇率 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（中型分销（闸 2 判定 · 20% 档）） |
+| **P1** | STI-288GPM | 深挖对位：官网快照对位：工业/自动化词频 324、PoE 42 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP） | $78.9 USD EXW（20% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（中型分销（闸 2 判定 · 20% 档）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：20% 档 $139.9 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $181.2——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -227,9 +243,9 @@ updated: 2026-10-29
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-228GP），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-228GP 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288GPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -239,7 +255,7 @@ updated: 2026-10-29
 
 - **S**：名单内已有联系记录，不是零起点
 - **W**：南亚：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STC-228GP 按 20% 档报价，做现供应商的第二货源；规模（调研）：中型（实收 ₹5.35 Cr）
+- **O**：P1 STI-288GPM 按 20% 档报价，做现供应商的第二货源；规模（调研）：中型（实收 ₹5.35 Cr）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -267,14 +283,14 @@ updated: 2026-10-29
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-228GP - 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (neutral label)
+**主题**：STI-288GPM - industrial DIN-rail L2 managed switch (Marvell-based, neutral label)
 
 ```text
 Hi Balakrishnan.K,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
 
-We supply an 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (unmanaged, 120 W, PoE watchdog) - model STC-228GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $33.2 USD EXW (valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $78.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

@@ -26,10 +26,10 @@ followups: 0
 first_contact: unknown
 last_contact: unknown
 s_mail: 6 msgs (out 6 / in 0), 2024-06-30 -> 2026-10-10
-p1: STC-228GP
+p1: STC-424XGGM
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -39,7 +39,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（△ 观察）：△ 观察档 · 分销 20%：TODO TELECOM, S.L.（Dénia；CIF B53673364；RM Alicante H A-71082；资本 €26.8k；代理人 Francisco Manuel Valero Tello）坐实；多牌直进 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔，网店小型 → 入池观察档；Simon 曾判不行，可否决（调研 2026-10-29；表内兴趣：商业POE为主 好多种外壳 销售平台；商业POE为主 好多种外壳）
 - **为什么是 B 级**：**调研后定级 B**（Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · 分销 20%：TODO TELECOM, S.L.（Dénia；CIF B53673364；RM Alicante H A-71082；资本 €26.8k；代理人 Francisco Manuel Valero Tello）坐实；多牌直进 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔，网店小型 → 入池观察档；Simon 曾判不行，可否决；闸 1：西班牙 Todotelecom（商业 PoE 为主、好多种外壳、销售平台；网站有 WA 按钮）：欧洲 + 多品牌进口经验 + 对位 ✔ → 闸 2 查底数，低优先；Simon 曾判不行 → 可按编号否决）；自动分级 C：-6 群发批次名单；-60 用户已归入「不行及不太相关的」；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/西班牙
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-228GP — 默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）；
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-424XGGM — 官网快照对位：10G/2.5G 词频 11、交换机 65 → 24 GE + 4×10G L2+ 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）；
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动：LT-01 复核（待过）后再定 — 长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
@@ -52,13 +52,14 @@ updated: 2026-10-29
 - **现状一句话**：C 池三闸捞出 → B（LT-01）：△ 观察档 · 分销 20%：TODO TELECOM, S.L.（Dénia；CIF B53673364；RM Alicante H A-71082；资本 €26.8k；代理人 Francisco Manuel Valero Tello）坐实；多牌直进 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔，网店小型 → 入池观察档；Simon 曾判不行，可否决
 - **对方真实需求（有据）**：未知（无往来；复核时从官网 / 进口数据 / 项目推断）
 - **断点 / 为什么停在这里**：无往来（从未触达或仅群发无回）
-- **Saga 现在该推什么**：P1 **STC-228GP**（% 档，价见价格主表）——默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）
+- **Saga 现在该推什么**：P1 **STC-424XGGM**（% 档，价见价格主表）——官网快照对位：10G/2.5G 词频 11、交换机 65 → 24 GE + 4×10G L2+ 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）
 - **下一步（具体）**：不动：LT-01 复核（待过）后再定　—　长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | △ 观察档 · 分销 20%：TODO TELECOM, S.L.（Dénia；CIF B53673364；RM Alicante H A-71082；资本 €26.8k；代理人 Francisco Manuel Valero Tello）坐实；多牌直进 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔，网店小型 → 入池观察档；Simon 曾判不行，可否决 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 登记底数（registry） | ES · 1 次检索：datoscif.es（CIF / 资本 / BORME）+ todotelecom.com/content/3-condiciones-genrales-de-uso（登记）+ /content/2-aviso-legal-politica-privacidad（地址 / 电话）；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Material de Telecomunicaciones: CCTV, WiFi, Redes... \| Todo Telecom — Importación y distribución de material de telecomunicaciones: WiFi, Satélite, TV terrestre, Redes, Fibra óptica, Telefonía, Alarmas, CCTV y mucho más. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -107,7 +108,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（△ 观察）：△ 观察档 · 分销 20%：TODO TELECOM, S.L.（Dénia；CIF B53673364；RM Alicante H A-71082；资本 €26.8k；代理人 Francisco Manuel Valero Tello）坐实；多牌直进 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔，网店小型 → 入池观察档；Simon 曾判不行，可否决
 - **类型**：分销（闸 2 判定 · 20% 档）
 - **规模**：小型（资本 €26.8k）
-- **在卖/在用品牌**：Cisco
+- **在卖/在用品牌**：Cisco, Hikvision, MikroTik, Ubiquiti, Ajax, TP-Link, Dahua, Uniview, Ruijie, Grandstream, Zyxel, Aruba, H3C
 - **【登记底数 / 官网（闸 2 坐实）】TODO TELECOM, S.L.（todotelecom.com；**datoscif + 官网 aviso legal：CIF B53673364；Registro Mercantil de Alicante T 2552 F 86 H A-71082；资本 €26,800；Pol. Ind. Juyarco 40-A, Partida Madrigueres Sud, 03700 Dénia (Alicante)；96 578 44 63；BORME 2023-08 **
   > ES · 1 次检索：datoscif.es（CIF / 资本 / BORME）+ todotelecom.com/content/3-condiciones-genrales-de-uso（登记）+ /content/2-aviso-legal-politica-privacidad（地址 / 电话）；2026-10-29
   > 来源：https://www.datoscif.es/empresa/todo-telecom-sl（抓取 2026-10-29）
@@ -117,10 +118,11 @@ updated: 2026-10-29
   > 来源：（抓取 2026-10-29）
 - **KP**：—（表内邮箱（公开 / 总机））webinfo@todotelecom.com 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · 分销 20%：TODO TELECOM, S.L.（Dénia；CIF B53673364；RM Alicante H A-71082；资本 €26.8k；代理人 Francisco Manuel Valero Tello）坐实；多牌直进 ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔，网店小型 → 入池观察档；Simon 曾判不行，可否决；闸 1：西班牙 Todotelecom（商业 PoE 为主、好多种外壳、销售平台；网站有 WA 按钮）：欧洲 + 多品牌进口经验 + 对位 ✔ → 闸 2 查底数，低优先；Simon 曾判不行 → 可按编号否决
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/saga_fit/deep/facts。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -133,7 +135,23 @@ updated: 2026-10-29
   - 表内兴趣：商业POE为主 好多种外壳
 销售平台；商业POE为主 好多种外壳
 - **风险/边界**：**多牌网店 → 分销 20%：一页纸一次（STC-028GP / STC-228GP / STC-2216GP + MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；Simon 可否决
-- **Saga 对位结论**：P1 STC-228GP（20% 档）——默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）
+- **Saga 对位结论**：P1 STC-424XGGM（20% 档）——官网快照对位：10G/2.5G 词频 11、交换机 65 → 24 GE + 4×10G L2+ 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://www.todotelecom.com/　语言：es　站点地图 URL 数：0
+- **标题**：Material de Telecomunicaciones: CCTV, WiFi, Redes... / Todo Telecom
+- **描述**：Importación y distribución de material de telecomunicaciones: WiFi, Satélite, TV terrestre, Redes, Fibra óptica, Telefonía, Alarmas, CCTV y mucho más.
+- **首页栏目**：Distribuidores oficiales de las principales marcas profesionales / OPORTUNIDADES DE LA SEMANA / Receptor IPTV Qviart OGA - Android 9.0, 4K UHD, WiFi dual band / Cámara IP PTZ HiWatch HWP-N4225IH-DE - 2 MP, zoom óptico 25x, IR 100 m, PoE+ / Telefono manoslibres 2 hilos Hikvision. Montaje en superficie. Negro / Material Rack Profesional al Mejor Precio / NUEVA GAMA DE ARMARIOS RACKS / SOLUCIONES PROFESIONALES PARA PROFESIONALES
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 203、hikvision 188、poe 185、cctv 135、wifi 135、switch 65、mikrotik 56、tp-link 44、dahua 43、sfp 31、oem 30、ubiquiti 30
+- **站内出现的品牌**：Hikvision, MikroTik, Ubiquiti, Ajax, TP-Link, Dahua, Uniview, Ruijie, Grandstream, Zyxel, Aruba, H3C　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：HWI-D140HA-LU, W1C-PRO, CR123A, BATT-CR123A, CR7741, DS-UPS1200-R, FMC230, SOP228, HWI-T260HA-LU, DS-1272ZJ-120, DS-1272ZJ-120B, AJ-DOORPROTECT-G3-W
+- **站内公开邮箱**：webinfo@todotelecom.com
+- **站内公开电话**：000013899197 47.568
+- **已抓子页**：[POE](https://www.todotelecom.com/333-poe)；[Switch - Switch rack - Switch POE - Switch POE Exterior](https://www.todotelecom.com/124-switch)；[Cámara IP domo HiWatch HWI-D140HA-LU - 4 MP, luz híbrida, au](https://www.todotelecom.com/ip-domo/9489-hwi-d140ha-lu-camara-ip-domo-hiwatch-hwi-d140ha-lu-4-mp-luz-hibrida-audio-poe-hikvision-hiwatch.html)；[Sistemas CCTV Avanzados - Vigilancia Profesional / TodoTelec](https://www.todotelecom.com/6-cctv)；[Cámaras de Seguridad / Equipos de Vigilancia](https://www.todotelecom.com/29-cctv-camaras)；[VARIOS CCTV](https://www.todotelecom.com/154-varios-cctv)
+- 首页正文摘录：965 784 463 Envío gratuito* Asesoramiento a profesionales Base de Conocimiento Soporte Blog Descubre las ventajas para profesionales Navigation Oportunidades de la semana Reacondicionados Alarmas CABLEADAS ACCESORIOS CENTRALES / KITS DETECTORES CABLE ALARMA VIA RADIO ACCESORIOS CENTRALES DETECTORES CENTRALES (KITS) REPUESTOS INCENDIOS CENTRALES DETECTORES PULSADORES SIRENAS ACCESORIOS Pack AJAX Kit alarma Ajax AJ-STA
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 11、交换机 65 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SC-2725.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -161,12 +179,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-2725/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://todotelecom.com/) | html | 待首轮 | — | 官网首页 |
+| [home](https://todotelecom.com/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 36022 字符；首行：Material de Telecomunicaciones: CCTV, WiFi, Redes... \| Todo Telecom |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -198,7 +217,7 @@ updated: 2026-10-29
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-228GP | 深挖对位：默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档） | $33.2 USD EXW（HRUI Realtek 线：洪瑞 2026-09-30 成本 + 20%（列表价 $30.8 隐含加价低于底线，第 73 批口径）；见 data/价格主表_HRUI.csv；汇率 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销（闸 2 判定 · 20% 档）） |
+| **P1** | STC-424XGGM | 深挖对位：官网快照对位：10G/2.5G 词频 11、交换机 65 → 24 GE + 4×10G L2+ 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP） | $127.4 USD EXW（20% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销（闸 2 判定 · 20% 档）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：20% 档 $139.9 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $181.2——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -207,9 +226,9 @@ updated: 2026-10-29
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-228GP），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-228GP 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424XGGM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -219,7 +238,7 @@ updated: 2026-10-29
 
 - **S**：欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-228GP 按 20% 档报价，做现供应商的第二货源；规模（调研）：小型（资本 €26.8k）
+- **O**：P1 STC-424XGGM 按 20% 档报价，做现供应商的第二货源；规模（调研）：小型（资本 €26.8k）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -247,14 +266,14 @@ updated: 2026-10-29
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-228GP - 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (neutral label)
+**主题**：STC-424XGGM - 24-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
 
 ```text
 Hello,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
 
-We supply an 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (unmanaged, 120 W, PoE watchdog) - model STC-228GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $33.2 USD EXW (valid 15 days).
+We supply a Marvell-based 24-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $127.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

@@ -1,6 +1,6 @@
 # XA-M440 · Fiore Srl · 意大利
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 mikrotik-info `A-198`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W2-R05b 2026-10-27）→ 下一动作 第二封
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 mikrotik-info `A-198`（原评级 A，阶段 01-contacted） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 第二封
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱（含实名 KP）
@@ -74,13 +74,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W2-R05b，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XA** — IT 网络分销、规模对口 → 升 A（原 Allied 名录导入）
-- 活着吗：来源库 2026-09-27 核对在线；本轮未复查
+- 活着吗：在线（fioresrl.com，快照 2026-10-29）：Fiore Srl – Soluzioni ICT integrate: distribuzione e supporto per cablaggio, networking e comunicazione unificata
 - 一句话：全国性 ICT 分销（Fiore S.r.l.，Paderno Dugnano MI；1983 起，11–50 人，综合布线/网络/UCC，米兰/维琴察/罗马/巴里，自产 19 英寸机柜）；Marvell Prestera 接入层切入
 - 是什么人：全国性 ICT 分销（Fiore S.r.l.，Paderno Dugnano MI；1983 起，11–50 人，综合布线/网络/UCC，米兰/维琴察/罗马/巴里，自产 19 英寸机柜）；规模：全国性 ICT 分销（Fiore S.r.l.，Paderno Dugnano MI；1983 起，11–50 人，综合布线/网络/UCC，米兰/维琴察/罗马/巴里，自产 19 英寸机柜）
-- 在卖/在用：Allied Telesis（Marvell Prestera 接入层）
+- 在卖/在用：Allied Telesis（Marvell Prestera 接入层）、Ubiquiti
 - 对口哪条线：SmartByte 商用 L2+ + HRUI 入门 PoE + Saga STI 工业 L2+ PoE — 网络分销，服务 VAR/SI
 - 找得到人吗：info@fioresrl.com（来源库公开邮箱）；KP：无具名
 - 已触达：S 箱 2026-09-30 群发「24 Port PoE Managed Switch」→ 已发未回
@@ -92,6 +92,7 @@
 |---|---|---|---|---|
 | 来源库官网/名录核对 | 【2026-09-27 联系方式核验】公开邮箱·一方/伙伴来源。官网历史新闻分类页公开邮箱，第三方渠道名录同址同邮箱；当前首页已抓，主营 ICT 分销并自制 rack，不因补邮箱提升质量判断。 来源：[1](https://www.fioresrl.com/category/press-room/comunicati/) [1](https://www.trademanager.it/whoswho/listing/fiore-srl |  | https://fioresrl.com/ | 2026-09-27 |
 | S 箱群发记录 | S 箱 2026-09-30 发 info@fioresrl.com「24 Port PoE Managed Switch」，去 1 来 0 |  | data/gmail_s/2026-09_10群发名单_未入库.csv | 2026-09-30 |
+| 官网快照 | 官网在线；Fiore Srl – Soluzioni ICT integrate: distribuzione e supporto per cablaggio, networking e comunicazione unificata | Soluzioni ICT integrate: distribuzione e supporto per cablaggio, networking e comunicazione unificata. Un sistema di cablaggio ben progettato garantisce comunicazioni stabili e sicure, ottimizzando l’efficienza operativa e riducendo i tempi di fermo. | https://www.fioresrl.com/ | 2026-10-29 |
 
 草稿（英文，第二封；Simon 发，Agent 不发）：
 
@@ -114,4 +115,5 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：本轮 web_search：fioresrl.com「Dal 1983 Fiore si occupa della distribuzione di Cablaggio strutturato, Networking e Telefonia IP」；公司简介 PDF 2025-11。 轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence。
+本轮 web_search：fioresrl.com「Dal 1983 Fiore si occupa della distribuzione di Cablaggio strutturato, Networking e Telefonia IP」；公司简介 PDF 2025-11。 轻卡：本轮未外查，沿用来源库官网/名录核对。

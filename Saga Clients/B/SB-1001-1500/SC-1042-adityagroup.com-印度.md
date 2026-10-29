@@ -29,7 +29,7 @@ s_mail: 12 msgs (out 12 / in 0), 2024-06-19 -> 2026-09-17
 p1: STC-424XGGPM-280W
 price_tier: 30%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -59,6 +59,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ★ 巨头品牌商 · OEM 30%（长线）：Aditya Infotech Limited / CP PLUS（Noida；NSE: CPPLUS；1,402 人；印度第一 CCTV 品牌 43.3% 份额；800+ 分销商）坐实；自有品牌 ✔ 巨型 ✔ 对位 ✔ → P 池候选（LinkedIn 点名采购；长线） | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 登记底数（registry） | IN · 1 次检索：mool.ai/research/nse/cpplus（上市 / 规模 / 份额 / 总部）+ zoominfo（1995 / Noida A-12）；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Aditya Infotech Limited | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -112,7 +113,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-29）**　网站状态：域名 adityagroup.com（官网快照待 Actions 补抓）
+- **状态：已调研（2026-10-29）**　网站状态：在线（adityagroup.com，快照 2026-10-29）：Aditya Infotech Limited
 - **是谁**：C 池三闸捞出（★ 正式）：★ 巨头品牌商 · OEM 30%（长线）：Aditya Infotech Limited / CP PLUS（Noida；NSE: CPPLUS；1,402 人；印度第一 CCTV 品牌 43.3% 份额；800+ 分销商）坐实；自有品牌 ✔ 巨型 ✔ 对位 ✔ → P 池候选（LinkedIn 点名采购；长线）
 - **类型**：OEM（闸 2 判定 · 30% 档）
 - **规模**：巨型（1,402 人；印度第一 CCTV 品牌）
@@ -126,10 +127,11 @@ updated: 2026-10-29
   > 来源：（抓取 2026-10-29）
 - **KP**：—（表内邮箱（公开 / 总机））sales@adityagroup.com 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 巨头品牌商 · OEM 30%（长线）：Aditya Infotech Limited / CP PLUS（Noida；NSE: CPPLUS；1,402 人；印度第一 CCTV 品牌 43.3% 份额；800+ 分销商）坐实；自有品牌 ✔ 巨型 ✔ 对位 ✔ → P 池候选（LinkedIn 点名采购；长线）；闸 1：印度 Aditya Group（adityagroup.com；Utepo）：进口中国同类 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优先
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/saga_fit.basis/deep/facts。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -142,6 +144,18 @@ updated: 2026-10-29
   - 表内兴趣：Utepo
 - **风险/边界**：**巨头品牌商 OEM 30%（长线）：找 PoE 交换机 / 网络产品线采购负责人一页纸一次（STC-228GP / STC-2224GP / STC-4424GCPM 贴牌 CP PLUS + 中性包装）；不指望群发，LinkedIn 点名**— 印度常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 / 微型 预付 100%）+ FOB 深圳 / DAP 买方清关（进口认
 - **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://adityagroup.com/　语言：en　站点地图 URL 数：0
+- **标题**：Aditya Infotech Limited
+- **首页栏目**：Think Security, Think Aditya / Technology for the Future / Empowering Communities, Creating Impact! / India's Leading CCTV Surveillance Company / Featured Press Release
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：surveillance 25、dahua 6、cctv 5、industrial 2、camera 2、nvr 1、integrator 1
+- **站内公开邮箱**：adityainfotech.ipo@in.mpms.mufg.com, companysecretary@adityagroup.com, investor.helpdesk@in.mpms.mufg.com, support@adityagroup.com
+- **站内公开电话**：+91 120 4555 666, +91-8800952952
+- **已抓子页**：[Aditya Infotech Limited](https://adityagroup.com/about-us)；[Aditya Infotech Limited](https://adityagroup.com/our-brands)；[Aditya Infotech Limited](https://adityagroup.com/contact-us)；[Aditya Infotech Limited](https://adityagroup.com/cp-partner)；[Aditya Infotech Limited](https://adityagroup.com/dedicated-servic-and-support)
+- 首页正文摘录：Home Our Company About Us Our Journey MD's Message Awards & Recognitions Our Brands ESG Overview E-Waste Management CSR Media Center Press Release Events Advertisements Videos Mailers Newsletter Blog Partner Connect CP Partner IntelliServe CP PLUS World Investor Relations Result and Reports AIL Financials Subsidiary Financials Financial Results Annual Reports Shareholding Pattern Memorandum & Articles of Association 
+- 数据文件：`data/saga_clients/site_snapshots/SC-1042.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -177,12 +191,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-1042/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://adityagroup.com/) | html | 待首轮 | — | 官网首页 |
+| [home](https://adityagroup.com/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 12223 字符；首行：Aditya Infotech Limited |
 
 ## 联系方式（已有 · 原值照录）
 

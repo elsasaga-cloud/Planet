@@ -1,12 +1,12 @@
 # XC-M082 · ATYS Co Controll Engineering · 匈牙利
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 工业自动化分销 20%：ATYS-CO Korlátolt Felelősségű Társaság（Budapest Fertő u. 14；Cégjegyzékszám 01-09-462105；Adószám 12060991-2-42；1997-02-06 登记，前身 1991；净营收 4.5–6.5 bn HUF ≈ €12–16M；A+ 信用）坐实；Westermo Reselle） ｜ 来源 mikrotik-info `C-017`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T01 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 工业自动化分销 20%：ATYS-CO Korlátolt Felelősségű Társaság（Budapest Fertő u. 14；Cégjegyzékszám 01-09-462105；Adószám 12060991-2-42；1997-02-06 登记，前身 1991；净营收 4.5–6.5 bn HUF ≈ €12–16M；A+ 信用）坐实；Westermo Reselle） ｜ 来源 mikrotik-info `C-017`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 >
 > **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：★ 工业自动化分销 20%：ATYS-CO Korlátolt Felelősségű Társaság（Budapest Fertő u. 14；Cégjegyzékszám 01-09-462105；Adószám 12060991-2-42；1997-02-06 登记，前身 1991；净营收 4.5–6.5 bn HUF ≈ €12–16M；A+ 信用）坐实；Westermo Reseller → STI 工业对位；S 箱已群发（已触达）；sales@ + kissa@
 
 ## 1. 初判与理由
 - 初判：**XC** — 来源库（mikrotik-info）已判 C（细分：B下放·无邮箱（群发触达不到）；依据：【2026-09-23 复核下放】无邮箱（群发触达不到），按「B 只做群发」原则沉 C 待命；全量信息保留，出现以下任一）；Simon 口径「mik 的 C 不碰」→ 关仓前仅存档，不跟
-- 研究后改级：XC → **XB**（LT-T01，桌面复核（渠道名录 + 研究卡）：分销（Westermo Reseller）；信号：Westermo；在卖工业/商用交换机 = 行业内 ✔ 对位 ✔ 分销进口 ）；编号不变
+- 研究后改级：XC → **XB**（LT-T03，桌面复核（渠道名录 + 研究卡）：分销（Westermo Reseller）；信号：Westermo；在卖工业/商用交换机 = 行业内 ✔ 对位 ✔ 分销进口 ）；编号不变
 - 人工改级：XB（2026-10-29，Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 工业自动化分销 20%：ATYS-CO Korlátolt Felelősségű Társaság（Budapest Fertő u. 14；Cégjegyzékszám 01-09-462105；Adószám 12060991-2-42；1997-02-06 登记，前身 1991；净营收 4.5–6.5 bn HUF ≈ €12–16M；A+ 信用）坐实；Westermo Reselle）；编号不变
 - 标记：S箱已群发、库内重复、来源C
 - 与 Saga Clients 重叠：按域名未发现（公共邮箱域不参与匹配）
@@ -54,10 +54,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，LT-T01，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — 桌面复核（渠道名录 + 研究卡）：分销（Westermo Reseller）；信号：Westermo；在卖工业/商用交换机 = 行业内 ✔ 对位 ✔ 分销进口 ✔ → 留 B
-- 活着吗：域名 atysco.hu MX 正常（DNS 体检 2026-10-29）；官网快照待 Actions 补抓
+- 活着吗：在线（atysco.hu，快照 2026-10-29）：ATYS-CO | főoldal
 - 一句话：ATYS Co Controll Engineering（匈牙利）：分销（Westermo Reseller）；Westermo
 - 是什么人：分销（Westermo Reseller）
 - 在卖/在用：Westermo
@@ -75,5 +75,7 @@
 | 来源库证据链接 | 来源库调研时引用 |  | http://www.atysco.hu/en/sales | 2026-09 |
 | 来源库证据链接 | 来源库调研时引用 |  | http://www.ipari-ethernet.hu/muszaki-segitseg/Telefonos-muszaki-segitsegnyujtas/contact-details | 2026-09 |
 | 长期群复核 LT-R05 | 桌面复核（渠道名录 + 研究卡）：分销（Westermo Reseller）；信号：Westermo；在卖工业/商用交换机 = 行业内 ✔ 对位 ✔ 分销进口 ✔ → 留 B |  |  | 2026-10-29 |
+| 官网快照 | 官网在线；ATYS-CO ｜ főoldal | ATYS-CO ｜ főoldal | https://atysco.hu/ | 2026-10-29 |
 
-- 备注：LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/contacts.page/evidence。
+LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。

@@ -1,6 +1,6 @@
 # XB-E057 · COMMVERGE TECHNOLOGIES HOLDINGS (ASIA) · 中国台北
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 Edgecore `B-032`（原评级 B，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T01 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XB 留 B（对位 + 活着 + 有路径）） ｜ 来源 Edgecore `B-032`（原评级 B，阶段 00-lead） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 
 ## 1. 初判与理由
 - 初判：**XB** — 对口但不在主攻区（美加/欧/土以外）→ XB
@@ -100,12 +100,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，LT-T01，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XB** — 桌面复核（来源库核对 + 研究卡）：SI/VAR/集成商；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））
-- 活着吗：域名修正为 commverge.com（原 sales.tw 是邮箱用户名 / 注释 / 旧域）；DNS 2026-10-29 MX + A 正常；官网快照待 Actions 补抓
+- 活着吗：在线（commverge.com，快照 2026-10-29）：The leading network solutions integration company
 - 一句话：COMMVERGE TECHNOLOGIES HOLDINGS (ASIA)（中国台北 · Taipei）：SI/VAR/集成商
 - 是什么人：SI/VAR/集成商
+- 在卖/在用：Juniper
 - 对口哪条线：STC 项目集成款（25% 档：STC-2216GP / STC-228GP）
 - 找得到人吗：sales.tw@commverge.com（活（来源库 9 月核对））；KP：Wei Edmund Chih（Chan（Edmund Wei），President & CEO 兼联合创始人，来源库 KP 段）
 - 已触达：S 箱 2026-10-21 去信 1 / 来信 0（24 Port PoE Managed Switch）
@@ -121,6 +122,8 @@
 | 来源库证据链接 | 来源库调研时引用 |  | https://www.edge-core.com/where-to-buy/asia-reseller/ | 2026-10-27 |
 | 长期群复核 LT-R07 | 桌面复核（来源库核对 + 研究卡）：SI/VAR/集成商；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%）） |  |  | 2026-10-29 |
 | 域名修正 | 记录域名 sales.tw → commverge.com（LT-X01 2026-10-29：域名由邮箱 sales.tw@commverge.com 取（导入误把用户名当域名））；DNS 2026-10-29 MX + A 正常 | domain_prev=sales.tw | https://commverge.com/ | 2026-10-29 |
+| 官网快照 | 官网在线；The leading network solutions integration company | The leading network solutions integration company | https://www.commverge.com/ | 2026-10-29 |
 
-- 备注：LT-X01b 域名修正同步（2026-10-29）：sales.tw → commverge.com。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/evidence/site_p1_hint。
+LT-X01b 域名修正同步（2026-10-29）：sales.tw → commverge.com。
 LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。

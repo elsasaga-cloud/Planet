@@ -26,10 +26,10 @@ followups: 8
 first_contact: 2025-01-31
 last_contact: 2025-11-04
 s_mail: 18 msgs (out 18 / in 0), 2025-01-31 -> 2026-10-20
-p1: STC-228GP
+p1: STI-288GPM
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -39,7 +39,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（★ 正式）：★ 大分销 20%：MiRO Distribution（Centurion；Enterprise No. B2002068592；2002；VAT 9199666141；R25M+；Cambium / Ubiquiti / BDCOM / MikroTik / Edge-corE；南部非洲 10 国）坐实；已进口中国同类 ✔ 对位 ✔ 坐实 ✔ 同区先例 ✔ → P 池候选（调研 2026-10-29；表内兴趣：很多有名的牌子 有Edimax的 商业PoE FS  工业FS 周边设备；很多有名的牌子 有Edimax的 商业PoE FS  工业FS 周边设备  分销商）
 - **为什么是 B 级**：**调研后定级 B**（Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 大分销 20%：MiRO Distribution（Centurion；Enterprise No. B2002068592；2002；VAT 9199666141；R25M+；Cambium / Ubiquiti / BDCOM / MikroTik / Edge-corE；南部非洲 10 国）坐实；已进口中国同类 ✔ 对位 ✔ 坐实 ✔ 同区先例 ✔ → P 池候选；闸 1：南非 MiRO（miro.co.za；表内「很多有名的牌子，有 Edimax 的；商业 PoE / FS / 工业 FS / 周边设备；分销商」= 多牌分销 + 进口台湾同类）：同区先例 Duxbury ★ + 对位 ✔，群发 8 次 0…）；自动分级 C：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/南非；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-01-31 → 2025-11-04）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-228GP — 默认对位（大分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）；
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STI-288GPM — 官网快照对位：工业/自动化词频 34、PoE 110 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）；
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动：LT-01 复核（待过）后再定 — 长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
@@ -52,13 +52,14 @@ updated: 2026-10-29
 - **现状一句话**：C 池三闸捞出 → B（LT-01）：★ 大分销 20%：MiRO Distribution（Centurion；Enterprise No. B2002068592；2002；VAT 9199666141；R25M+；Cambium / Ubiquiti / BDCOM / MikroTik / Edge-corE；南部非洲 10 国）坐实；已进口中国同类 ✔ 对位 ✔ 坐实 ✔ 同区先例 ✔ → P 池候选
 - **对方真实需求（有据）**：未知（无往来；复核时从官网 / 进口数据 / 项目推断）
 - **断点 / 为什么停在这里**：无往来（从未触达或仅群发无回）
-- **Saga 现在该推什么**：P1 **STC-228GP**（% 档，价见价格主表）——默认对位（大分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）
+- **Saga 现在该推什么**：P1 **STI-288GPM**（% 档，价见价格主表）——官网快照对位：工业/自动化词频 34、PoE 110 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）
 - **下一步（具体）**：不动：LT-01 复核（待过）后再定　—　长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ★ 大分销 20%：MiRO Distribution（Centurion；Enterprise No. B2002068592；2002；VAT 9199666141；R25M+；Cambium / Ubiquiti / BDCOM / MikroTik / Edge-corE；南部非洲 10 国）坐实；已进口中国同类 ✔ 对位 ✔ 坐实 ✔ 同区先例 ✔ → P 池候选 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 登记底数（registry） | ZA · 1 次检索：b2bhint（注册号 / VAT / 法定地址 / 规模档）+ opening-hours（品牌 / 覆盖国）+ africabz；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | MiRO \| Leading IT/ICT Distributor specialising in IP Convergence solutions — We are a leading IT/ICT Distributor in South Africa and the SADC region, specialising in only the best-of-breed IP Convergence solutions. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -117,7 +118,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（★ 正式）：★ 大分销 20%：MiRO Distribution（Centurion；Enterprise No. B2002068592；2002；VAT 9199666141；R25M+；Cambium / Ubiquiti / BDCOM / MikroTik / Edge-corE；南部非洲 10 国）坐实；已进口中国同类 ✔ 对位 ✔ 坐实 ✔ 同区先例 ✔ → P 池候选
 - **类型**：大分销（闸 2 判定 · 20% 档）
 - **规模**：中型 / 大型（R25M+；10 国）
-- **在卖/在用品牌**：TP-Link, Ubiquiti, MikroTik, Grandstream, Tenda, Cambium, Mimosa
+- **在卖/在用品牌**：TP-Link, Ubiquiti, MikroTik, Grandstream, Tenda, Cambium, Mimosa, Teltonika, Uniview, Milesight
 - **【登记底数 / 官网（闸 2 坐实）】MiRO Distribution（miro.co.za；**Enterprise No. B2002068592（2002-08-26 注册；Close corporation → 公司转换）；VAT 9199666141；R25M+ 档；法定地址 Unit 6, N1 Industrial Park, Landsmark Avenue, Kosmosdal Ext.11, Samrand 1685 / 营业 9 Landmarks Ave, Samrand Busines**
   > ZA · 1 次检索：b2bhint（注册号 / VAT / 法定地址 / 规模档）+ opening-hours（品牌 / 覆盖国）+ africabz；2026-10-29
   > 来源：https://b2bhint.com/en/company/za/miro-distribution--B2002068592（抓取 2026-10-29）
@@ -129,10 +130,11 @@ updated: 2026-10-29
 - **KP**：—（表内邮箱（公开 / 总机））pogo@miro.co.za 〔〕
 - **KP**：—（表内邮箱（公开 / 总机））marco@miro.co.za 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 大分销 20%：MiRO Distribution（Centurion；Enterprise No. B2002068592；2002；VAT 9199666141；R25M+；Cambium / Ubiquiti / BDCOM / MikroTik / Edge-corE；南部非洲 10 国）坐实；已进口中国同类 ✔ 对位 ✔ 坐实 ✔ 同区先例 ✔ → P 池候选；闸 1：南非 MiRO（miro.co.za；表内「很多有名的牌子，有 Edimax 的；商业 PoE / FS / 工业 FS / 周边设备；分销商」= 多牌分销 + 进口台湾同类）：同区先例 Duxbury ★ + 对位 ✔，群发 8 次 0…
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/saga_fit/deep/facts。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -145,7 +147,23 @@ updated: 2026-10-29
   - 表内兴趣：很多有名的牌子 有Edimax的
 商业PoE FS  工业FS 周边设备；很多有名的牌子 有Edimax的
 商业PoE FS  工业FS 周边设备  分销商
-- **Saga 对位结论**：P1 STC-228GP（20% 档）——默认对位（大分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）
+- **Saga 对位结论**：P1 STI-288GPM（20% 档）——官网快照对位：工业/自动化词频 34、PoE 110 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://miro.co.za/　语言：en　站点地图 URL 数：0
+- **标题**：MiRO / Leading IT/ICT Distributor specialising in IP Convergence solutions
+- **描述**：We are a leading IT/ICT Distributor in South Africa and the SADC region, specialising in only the best-of-breed IP Convergence solutions.
+- **首页栏目**：IP Networking and ICT Distributor / Featured Products / Grandstream Enterprise Outdoor WiFi 6 Long... SKU#: GS-GWN7660ELR / TP-Link Omada Tri-Band Wi-Fi 7 Outdoor AP /... SKU#: TP-EAP772-O / Acconet Lattice Mast AF480 3m Section /... SKU#: MAST-MS-3M / Ubiquiti UniFi Protect AI Multi Sensor 4,... SKU#: UB-UVC-AI-MS-4-B / Teltonika 24-Port L2 Managed Switch / SWM282 SKU#: TTK-SWM282 / Grandstream Enterprise WiFi 7 Indoor Access... SKU#: GS-GWN7670E
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 116、sfp 113、poe 110、camera 74、wireless 58、gigabit 51、fibre 49、cable 48、surveillance 39、ubiquiti 34、tp-link 34、industrial 31
+- **站内出现的品牌**：Ubiquiti, Cambium, TP-Link, Grandstream, MikroTik, Teltonika, Tenda, Uniview, Milesight　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：BDCOM-PS2226PB, SNOM-M5, NTX-WS-26400-IDC, GS-GWN7701, GS-GWN7806PH-PRO, ED-GS-1008PL-V2, CLT-SFP-RJ45-1G, CLT-SFP-RJ45-10G, IEEE802, AC-SWI-5120-DC, BDCOM-S2528P, BDCOM-S3740F
+- **站内公开邮箱**：online@miro.co.za, sales@miro.co.za
+- **站内公开电话**：+27 12 657 0960, +27 87 353 8222
+- **已抓子页**：[MiRO Used items](https://miro.co.za/prices-drop?type=bin)；[Networking Equipment / Switches, PoE, Routers, Accessories, ](https://miro.co.za/8-07-networking)
+- 首页正文摘录：Waking up Nova... Wishlist ( ) message Quotes ( 0 ) Total: No products to quote View list All Categories Wi-Fi Broadband Wireless Carrier Wireless Antennas & Masts Tools, Power & Surge Networking Cabling & Cabinets Telephony Surveillance Access Control IoT & Smart Home Fibre Optics Tools, Power & Surge Training Search Login / Sign up Search 0 Order Cart Item 0 Total 0 View Order Cart Convert to Quote 0 Cart / Empty S
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 34、PoE 110 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SC-298.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -193,12 +211,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-298/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://miro.co.za/) | html | 待首轮 | — | 官网首页 |
+| [home](https://miro.co.za/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 20672 字符；首行：MiRO \| Leading IT/ICT Distributor specialising in IP Convergence solutions Wa |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -235,7 +254,7 @@ updated: 2026-10-29
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-228GP | 深挖对位：默认对位（大分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档） | $33.2 USD EXW（HRUI Realtek 线：洪瑞 2026-09-30 成本 + 20%（列表价 $30.8 隐含加价低于底线，第 73 批口径）；见 data/价格主表_HRUI.csv；汇率 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（大分销（闸 2 判定 · 20% 档）） |
+| **P1** | STI-288GPM | 深挖对位：官网快照对位：工业/自动化词频 34、PoE 110 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP） | $78.9 USD EXW（20% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（大分销（闸 2 判定 · 20% 档）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：20% 档 $139.9 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $181.2——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -244,9 +263,9 @@ updated: 2026-10-29
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-228GP），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-228GP 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288GPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -256,7 +275,7 @@ updated: 2026-10-29
 
 - **S**：名单内已有联系记录，不是零起点
 - **W**：已推送 8 次无回复，邮件通道疲劳；非洲：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STC-228GP 按 20% 档报价，做现供应商的第二货源；规模（调研）：中型 / 大型（R25M+；10 国）
+- **O**：P1 STI-288GPM 按 20% 档报价，做现供应商的第二货源；规模（调研）：中型 / 大型（R25M+；10 国）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -284,14 +303,14 @@ updated: 2026-10-29
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-228GP - 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (neutral label)
+**主题**：STI-288GPM - industrial DIN-rail L2 managed switch (Marvell-based, neutral label)
 
 ```text
 Hi Marco,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
 
-We supply an 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (unmanaged, 120 W, PoE watchdog) - model STC-228GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $33.2 USD EXW (valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $78.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

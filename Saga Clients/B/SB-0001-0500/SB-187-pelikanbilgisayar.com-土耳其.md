@@ -27,7 +27,7 @@ last_contact: unknown
 p1: STC-28GPM
 price_tier: 20%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -57,6 +57,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 没做交谈，给了名片 / 054176 47863 已加 | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：pelikanbilgisayar.com MX pmg.arslanbilgisayar.com.tr.；A 104.21.49.59 / 172.67.159.56；NS ken.ns.cloudflare.com. / beth.ns.cloudflare.com. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：WhatsApp 往来未入库
 
@@ -126,7 +127,8 @@ updated: 2026-10-29
   > 没做交谈，给了名片 / 054176 47863 已加
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Ahmet Karcı（Kurucu ortak / Firma Sahibi（2003-07 起，「tüm operasyonlar」；LinkedIn）= **老板 = 联系人**；Perpa 电子商城 DIGITUS 配件经销档口 + Şişli 仓库（第 88 批 官方登记核实 2026-10-27））bilgi@pelikanbilgisayar.com（用户表） +90 541 764 78 63（公开，WhatsApp 已加）〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 （无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（电商站核对））
@@ -147,10 +149,10 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28GPM（20% 档）——电商 20% 档：STC-28GPM（Saga Realtek 线 2 SFP + 8 GE PoE L2 管理，列表 $62.2）对标站内 Digitus 管理型 PoE；非管理 STC-028GP（$24.2）
 - **邮件切入句（英文）**：Ahmet Bey, sitenizdeki 'Yönetilebilir Layer 2 Gigabit PoE Switch' kategorisine uygun 2 SFP + 8 port PoE L2 switch fiyatı 71,0 USD EXW, yönetilmeyen 8 PoE + 2 uplink 25,1 USD; nötr kutu ile 10'ar adetlik deneme partisi ister misiniz?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：pelikanbilgisayar.com
-  > https://pelikanbilgisayar.com/ conn: HTTPSConnectionPool(host='pelikanbilgisayar.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOF
+  > https://pelikanbilgisayar.com/ http 403 ct=text/html; charset=utf-8
   > https://www.pelikanbilgisayar.com/ http 403 ct=text/html; charset=utf-8
   > http://pelikanbilgisayar.com/ http 403 ct=text/html; charset=utf-8
 - **提示**：抓取失败不代表公司不在；人工打开一次即可。
@@ -166,7 +168,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-187/`；本节随档案重渲染刷新，实时看日志。
 

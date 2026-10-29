@@ -25,10 +25,10 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STC-228GP
+p1: STI-288GPM
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -38,7 +38,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（○ 正式）：○ 越南 · 分销 20%：Viễn Thông Thành Công（mangvienthong.com.vn 官网直取：河内 Hoàng Mai Tây Nam Linh Đàm；光缆 / 3onedata MC / 光交换机 / 光模块 / VC / ODF 分销 + 熔接施工；inbox.thanhcong@gmail.com）部分坐实（MST 未取）；越南先例 ✔ 中国品牌 ✔ 对位 ✔ → P 池候选（调研 2026-10-29；表内兴趣：POE FS  MC VC；工业交换机）
 - **为什么是 B 级**：**调研后定级 B**（Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 越南 · 分销 20%：Viễn Thông Thành Công（mangvienthong.com.vn 官网直取：河内 Hoàng Mai Tây Nam Linh Đàm；光缆 / 3onedata MC / 光交换机 / 光模块 / VC / ODF 分销 + 熔接施工；inbox.thanhcong@gmail.com）部分坐实（MST 未取）；越南先例 ✔ 中国品牌 ✔ 对位 …；闸 1：越南 Mạng Viễn Thông（mangvienthong.com.vn 正常；联系 inbox.thanhcong@gmail.com；PoE / FS / MC / VC + 工业交换机，有中科德能的 ✔）：点名中国品牌 ✔ 越…）；自动分级 C：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/越南
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-228GP — 默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）；
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STI-288GPM — 官网快照对位：工业/自动化词频 5、PoE 27 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）；
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动：LT-01 复核（待过）后再定 — 长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
@@ -51,7 +51,7 @@ updated: 2026-10-29
 - **现状一句话**：C 池三闸捞出 → B（LT-01）：○ 越南 · 分销 20%：Viễn Thông Thành Công（mangvienthong.com.vn 官网直取：河内 Hoàng Mai Tây Nam Linh Đàm；光缆 / 3onedata MC / 光交换机 / 光模块 / VC / ODF 分销 + 熔接施工；inbox.thanhcong@gmail.com）部分坐实（MST 未取）；越南先例 ✔ 中国品牌 ✔ 对位 …
 - **对方真实需求（有据）**：未知（无往来；复核时从官网 / 进口数据 / 项目推断）
 - **断点 / 为什么停在这里**：无往来（从未触达或仅群发无回）
-- **Saga 现在该推什么**：P1 **STC-228GP**（% 档，价见价格主表）——默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）
+- **Saga 现在该推什么**：P1 **STI-288GPM**（% 档，价见价格主表）——官网快照对位：工业/自动化词频 5、PoE 27 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）
 - **下一步（具体）**：不动：LT-01 复核（待过）后再定　—　长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -114,10 +114,11 @@ updated: 2026-10-29
   > 来源：（抓取 2026-10-29）
 - **KP**：—（表内邮箱（公开 / 总机））inbox.thanhcong@gmail.com 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 越南 · 分销 20%：Viễn Thông Thành Công（mangvienthong.com.vn 官网直取：河内 Hoàng Mai Tây Nam Linh Đàm；光缆 / 3onedata MC / 光交换机 / 光模块 / VC / ODF 分销 + 熔接施工；inbox.thanhcong@gmail.com）部分坐实（MST 未取）；越南先例 ✔ 中国品牌 ✔ 对位 …；闸 1：越南 Mạng Viễn Thông（mangvienthong.com.vn 正常；联系 inbox.thanhcong@gmail.com；PoE / FS / MC / VC + 工业交换机，有中科德能的 ✔）：点名中国品牌 ✔ 越…
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/saga_fit/deep。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -129,7 +130,23 @@ updated: 2026-10-29
   - 越南 Mạng Viễn Thông（mangvienthong.com.vn 正常；联系 inbox.thanhcong@gmail.com；PoE / FS / MC / VC + 工业交换机，有中科德能的 ✔）：点名中国品牌 ✔ 越南先例 ✔ 对位 ✔ 可达 ✔ → 闸 2 查底数（MST）后一页纸
   - 表内兴趣：POE FS  MC VC；工业交换机
 - **风险/边界**：登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号
-- **Saga 对位结论**：P1 STC-228GP（20% 档）——默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）
+- **Saga 对位结论**：P1 STI-288GPM（20% 档）——官网快照对位：工业/自动化词频 5、PoE 27 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://mangvienthong.com.vn/　语言：vi　站点地图 URL 数：1190
+- **标题**：Viễn Thông Thành Công - Giải Pháp Mạng Viễn Thông
+- **描述**：Giải Pháp Mạng Viễn Thông
+- **首页栏目**：Viễn Thông Thành Công - Giải Pháp Mạng Viễn Thông / HỆ THỐNG CÁP QUANG / HỆ THỐNG CÁP THÔNG TIN / HỆ THỐNG CÁP MẠNG / THIẾT BỊ QUANG / HỘP PHỐI QUANG ODF / DÂY NHẨY QUANG / THIẾT BỊ MẠNG
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 132、wifi 47、camera 30、poe 27、ethernet 7、industrial 5、sfp 5、gigabit 5、tp-link 2、10g 1
+- **站内型号串**（正则抽取，含非交换机）：KV500, ONV-H1108PL, ONV-H1064PL, SW8K-POE, SW4K-POE, IES3020G-4GS, IES2010-2GF-4F, IES318-2F, XPTN-9000-85-2GX8GT-VX, XPTN-9000-85-2GX4GT-VX, XPTN-9000-65-2GX16GT-X, XPTN-9000-65-8GT-X
+- **站内公开邮箱**：inbox.thanhcong@gmail.com
+- **社媒**：https://www.facebook.com/mangvienthongthanhcong/
+- **产品类页面**：https://mangvienthong.com.vn/switch-poe-la-gi-nhung-thong-tin-chi-tiet-ve-switch-cap-nguon-poe/；https://mangvienthong.com.vn/san-pham/industrial-ethernet-switches-unmanaged-scodeno-xptn-9000-65-1fx2tx-x-10-…；https://mangvienthong.com.vn/switch-la-gi/；https://mangvienthong.com.vn/switch-cisco/；https://mangvienthong.com.vn/san-pham/combo-camera-huviron-poe-4-mat/；https://mangvienthong.com.vn/san-pham/bo-kit-camera-poe-huviron-8-mat/
+- **已抓子页**：[Switch POE - Viễn Thông Thành Công](https://mangvienthong.com.vn/switch-poe/)；[Switch chia mạng - Viễn Thông Thành Công](https://mangvienthong.com.vn/switch-chia-mang/)；[Switch Phổ Thông - Viễn Thông Thành Công](https://mangvienthong.com.vn/switch-pho-thong/)；[Switch Công Nghiệp - Viễn Thông Thành Công](https://mangvienthong.com.vn/switch-cong-nghiep/)；[Switch Quang các loại - Viễn Thông Thành Công](https://mangvienthong.com.vn/switch-quang-cac-loai/)；[Cáp camera - Viễn Thông Thành Công](https://mangvienthong.com.vn/cap-camera/)
+- 首页正文摘录：Menu Cáp quang các loại Cáp quang SingleMode Cáp quang treo Cáp quang luồn cống Cáp quang MultiMode Thiết bị quang Máy hàn cáp quang Converter Quang Switch Quang các loại Máy đo cáp quang Module quang các loại Bộ chuyển đổi Video sang Quang Cáp điều khiển Hộp phối quang ODF Hộp phối quang bắt rack Hộp phối quang ngoài trời ODF nhựa, ODF treo ODF Nhập Khẩu – ODF Dự Án Dây nhảy quang Dây nhảy quang MM Dây nhảy quang SM
+- **自动对位建议**：STI-288GP（官网快照对位：工业/自动化词频 5、PoE 27 → DIN 8 PoE+ 2 SFP 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SC-1606.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -143,12 +160,14 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-1606/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://mangvienthong.com.vn/) | html | 待首轮 | — | 官网首页 |
+| [home](https://mangvienthong.com.vn/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 5221 字符；首行：Viễn Thông Thành Công - Giải Pháp Mạng Viễn Thông |
+| [feed_auto](https://mangvienthong.com.vn/feed/) | rss | HTTP 200 | 2026-10-29T15:11:51Z | 10 条；最新：Fri, 15 May 2026 16:02:46 Thi công hàn nối cáp ADSS KV700 năm 2026 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -178,7 +197,7 @@ updated: 2026-10-29
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-228GP | 深挖对位：默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档） | $33.2 USD EXW（HRUI Realtek 线：洪瑞 2026-09-30 成本 + 20%（列表价 $30.8 隐含加价低于底线，第 73 批口径）；见 data/价格主表_HRUI.csv；汇率 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销（闸 2 判定 · 20% 档）） |
+| **P1** | STI-288GPM | 深挖对位：官网快照对位：工业/自动化词频 5、PoE 27 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-228GP） | $78.9 USD EXW（20% 档，SmartByte LT-IS3210GP-2GX8T 440 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销（闸 2 判定 · 20% 档）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：20% 档 $139.9 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $181.2——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
@@ -187,9 +206,9 @@ updated: 2026-10-29
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-228GP），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GPM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-228GP 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288GPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -199,7 +218,7 @@ updated: 2026-10-29
 
 - **S**：名单内已有联系记录，不是零起点
 - **W**：没有可靠直达通道
-- **O**：P1 STC-228GP 按 20% 档报价，做现供应商的第二货源；规模（调研）：小型
+- **O**：P1 STI-288GPM 按 20% 档报价，做现供应商的第二货源；规模（调研）：小型
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -227,14 +246,14 @@ updated: 2026-10-29
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-228GP - 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (neutral label)
+**主题**：STI-288GPM - industrial DIN-rail L2 managed switch (Marvell-based, neutral label)
 
 ```text
 Hello,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
 
-We supply an 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (unmanaged, 120 W, PoE watchdog) - model STC-228GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $33.2 USD EXW (valid 15 days).
+We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $78.9 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

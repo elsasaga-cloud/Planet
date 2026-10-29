@@ -28,7 +28,7 @@ last_contact: unknown
 p1: STC-228GP
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: http_error  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -40,7 +40,7 @@ updated: 2026-10-29
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-228GP — 默认对位（中型安防分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）；
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：年走量与现供应商
+- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - **下一步**：不动：LT-01 复核（待过）后再定 — 长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-29）
@@ -117,7 +117,8 @@ updated: 2026-10-29
   > 来源：（抓取 2026-10-29）
 - **KP**：—（表内邮箱（公开 / 总机））enquiries@mastdigital.co.uk 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 中型安防分销 20%：Mast Digital (UK) Ltd（Epworth DN9 1JZ；Ltd 2014；20+ 人；Dahua Tier 1 + Wi-Tek / Ajax / TP-Link 授权；MD Stuart Smedley）部分坐实（CH 号未取）；进口 Wi-Tek ✔ 四主区 ✔ 对位 ✔ MD 具名 ✔ → P 池候选；闸 1：英国 Mast Digital（mastdigital.co.uk；Dahua + Wi-Tek）：四主区 + 已进口中国同类品牌 + 对位 ✔；未触达 → 闸 2 查底数
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#1。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
 ### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
@@ -134,6 +135,15 @@ updated: 2026-10-29
 - **风险/边界**：**Wi-Tek 现供 Dahua 分销 → 分销 20%：点名 Stuart 一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-2224GP 对标 Wi-Tek + STI-154GP + MOQ 1 + 付费样机；Wi-Tek 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FO；登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号
 - **Saga 对位结论**：P1 STC-228GP（20% 档）——默认对位（中型安防分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）
 
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
+
+- 尝试域名：mastdigital.co.uk
+  > https://mastdigital.co.uk/ http 403 ct=text/html; charset=utf-8
+  > https://www.mastdigital.co.uk/ http 403 ct=text/html; charset=utf-8
+  > http://mastdigital.co.uk/ http 403 ct=text/html; charset=utf-8
+- **提示**：抓取失败不代表公司不在；人工打开一次即可。
+- 数据文件：`data/saga_clients/site_snapshots/SC-855.json`
+
 ## 在卖/在用品牌 → Saga 对位
 
 | 备注所见品牌 | 含义 | Saga 切入 |
@@ -147,12 +157,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-855/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://mastdigital.co.uk/) | html | 待首轮 | — | 官网首页 |
+| [home](https://mastdigital.co.uk/) | html | HTTP 403 | 2026-10-29T15:11:51Z | 官网首页 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -226,6 +237,7 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
+- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

@@ -29,7 +29,7 @@ s_mail: 23 msgs (out 23 / in 0), 2024-06-21 -> 2026-09-16
 p1: STC-424XGGPM-280W
 price_tier: 30%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 3
 updated: 2026-10-29
 ```
@@ -39,7 +39,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（○ 正式）：○ 制造商配套 · OEM 30%：TOWNET S.R.L.（Cagli 2003；1–10 人；电信设备 + SmartBox 供电柜制造；Sicurezza 展商；enrico@ 在表）部分坐实（P.IVA 未取）；柜内配套 = 贴牌对象 ✔ 进口 hasivo ✔ 欧洲 ✔ 对位 ✔ → P 池候选；Simon 曾判不行，可否决（调研 2026-10-29；表内兴趣：用hasivo的 主要是安防；工业FS）
 - **为什么是 B 级**：**调研后定级 B**（Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 制造商配套 · OEM 30%：TOWNET S.R.L.（Cagli 2003；1–10 人；电信设备 + SmartBox 供电柜制造；Sicurezza 展商；enrico@ 在表）部分坐实（P.IVA 未取）；柜内配套 = 贴牌对象 ✔ 进口 hasivo ✔ 欧洲 ✔ 对位 ✔ → P 池候选；Simon 曾判不行，可否决；闸 1：意大利 Townet（用 hasivo 的，安防 + 工业 FS）：欧洲 + 已进口中国同类品牌 + 对位 ✔；9 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决）；自动分级 C：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；-60 用户已归入「不行及不太相关的」；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+5 最近活动 2025；-10 推送 9 次无任何回复（聋名单）
 - **历史互动**：推送 9 次（2024-09-06 → 2025-10-16）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-424XGGPM-280W — 默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）；
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-424XGGPM-280W — 官网快照对位：PoE 词频 41、监控 5 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）；
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动：LT-01 复核（待过）后再定 — 长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
@@ -52,13 +52,14 @@ updated: 2026-10-29
 - **现状一句话**：C 池三闸捞出 → B（LT-01）：○ 制造商配套 · OEM 30%：TOWNET S.R.L.（Cagli 2003；1–10 人；电信设备 + SmartBox 供电柜制造；Sicurezza 展商；enrico@ 在表）部分坐实（P.IVA 未取）；柜内配套 = 贴牌对象 ✔ 进口 hasivo ✔ 欧洲 ✔ 对位 ✔ → P 池候选；Simon 曾判不行，可否决
 - **对方真实需求（有据）**：未知（无往来；复核时从官网 / 进口数据 / 项目推断）
 - **断点 / 为什么停在这里**：无往来（从未触达或仅群发无回）
-- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（% 档，价见价格主表）——默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
+- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（% 档，价见价格主表）——官网快照对位：PoE 词频 41、监控 5 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）
 - **下一步（具体）**：不动：LT-01 复核（待过）后再定　—　长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ○ 制造商配套 · OEM 30%：TOWNET S.R.L.（Cagli 2003；1–10 人；电信设备 + SmartBox 供电柜制造；Sicurezza 展商；enrico@ 在表）部分坐实（P.IVA 未取）；柜内配套 = 贴牌对象 ✔ 进口 hasivo ✔ 欧洲 ✔ 对位 ✔ → P 池候选；Simon 曾判不行，可否决 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 登记底数（registry） | IT · 1 次检索：crunchbase（法人名 Townet Srl；Cagli；1–10）+ confapipesaro 名录（地址 / 电话）+ expoplaza-sicurezza 展商档（2003；SmartBox）；P.IVA 未取；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Soluzioni Wireless e sistemi Smart di alimentazione per CCTV — Soluzioni Wireless e sistemi Smart di alimentazione per CCTV e TLC. Soluzioni per Smartcity, sensoristiche e impianti di sicurezza | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -116,6 +117,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（○ 正式）：○ 制造商配套 · OEM 30%：TOWNET S.R.L.（Cagli 2003；1–10 人；电信设备 + SmartBox 供电柜制造；Sicurezza 展商；enrico@ 在表）部分坐实（P.IVA 未取）；柜内配套 = 贴牌对象 ✔ 进口 hasivo ✔ 欧洲 ✔ 对位 ✔ → P 池候选；Simon 曾判不行，可否决
 - **类型**：OEM（闸 2 判定 · 30% 档）
 - **规模**：微型（1–10）
+- **在卖/在用品牌**：Teltonika
 - **【登记底数 / 官网（闸 2 坐实）】TOWNET S.R.L.（townet.it；**Crunchbase：Cagli, Marche；1–10 人；电信设备 / 能源系统 / 传感器制造；Confapi Pesaro 名录 + Sicurezza Milano 展商档：Via dei Finale 20, 61043 Cagli (PU)；0721-797396；2003 年创立，2018 起 SmartBox 供电 / 控制电柜 BU + 自有 IoT 云平台**）；表内：用 hasivo 的（安防 + **
   > IT · 1 次检索：crunchbase（法人名 Townet Srl；Cagli；1–10）+ confapipesaro 名录（地址 / 电话）+ expoplaza-sicurezza 展商档（2003；SmartBox）；P.IVA 未取；2026-10-29
   > 来源：https://expoplaza-sicurezza.fieramilano.it/en/exhibitors/townet-s-r-l-1（抓取 2026-10-29）
@@ -126,10 +128,11 @@ updated: 2026-10-29
 - **KP**：—（表内邮箱（公开 / 总机））info@townet.it 〔〕
 - **KP**：—（表内邮箱（公开 / 总机））enrico@townet.it 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 制造商配套 · OEM 30%：TOWNET S.R.L.（Cagli 2003；1–10 人；电信设备 + SmartBox 供电柜制造；Sicurezza 展商；enrico@ 在表）部分坐实（P.IVA 未取）；柜内配套 = 贴牌对象 ✔ 进口 hasivo ✔ 欧洲 ✔ 对位 ✔ → P 池候选；Simon 曾判不行，可否决；闸 1：意大利 Townet（用 hasivo 的，安防 + 工业 FS）：欧洲 + 已进口中国同类品牌 + 对位 ✔；9 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/saga_fit/deep/facts。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -141,7 +144,25 @@ updated: 2026-10-29
   - 意大利 Townet（用 hasivo 的，安防 + 工业 FS）：欧洲 + 已进口中国同类品牌 + 对位 ✔；9 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决
   - 表内兴趣：用hasivo的 主要是安防；工业FS
 - **风险/边界**：**自产 SmartBox 柜内配套交换机 → OEM 30% / 集成 25% 双轨：点名 Enrico 一页纸一次（STI-154GP / STI-288GPM 工业 PoE 柜内配套 + 丝印 MOQ + 付费样机；hasivo 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当；登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号
-- **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
+- **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——官网快照对位：PoE 词频 41、监控 5 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://www.townet.it/　语言：it-IT　站点地图 URL 数：138
+- **标题**：Soluzioni Wireless e sistemi Smart di alimentazione per CCTV
+- **描述**：Soluzioni Wireless e sistemi Smart di alimentazione per CCTV e TLC. Soluzioni per Smartcity, sensoristiche e impianti di sicurezza
+- **首页栏目**：WIRELESS / ENERGIA / PIATTAFORMA / FLEX CABLE / antenne filari per coperture uniformi, ideali per industria 4.0 / FORMAZIONE / ASSISTENZA / UTILITY
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：poe 41、sfp 12、switch 8、cctv 5、wireless 3、cable 3、industrial 1、ethernet 1、telecom 1、integrator 1
+- **站内出现的品牌**：Teltonika　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：K-20-BS, TW-SB5-POE, TW-SB8-POE, RUTX50, RUT951, RUT241, TW-ST-T2, TW-POE-G2, TW-56-POE, K-20-BR, K-40-SU, IT10050000006680
+- **站内公开邮箱**：info@townet.it
+- **站内公开电话**：+39 0721 797396, 0050000006680
+- **社媒**：https://www.facebook.com/townettechnologylab/, https://www.linkedin.com/company/1385845/admin/
+- **产品类页面**：https://www.townet.it/switch-poe-router-solar/
+- **已抓子页**：[Switch - Townet Switch PoE, Router, Solar](https://www.townet.it/switch-poe-router-solar/)；[Switch - Townet PoE Switch, Router, Solar](https://www.townet.it/switch/?lang=en)
+- 首页正文摘录：Salta al contenuto Cerca per: Prodotti WIRELESS soluzioni radio affidabili e performanti Point to Point Point to Multipoint Hotspot Wi-Fi Antenne ENERGIA sistemi smart per CCTV & TLC Smart Box Tower Accessori Stazioni di energia Scaricatori Connettori PIATTAFORMA controllo IoT del tuo sistema Data Manager FLEX CABLE antenne filari per coperture uniformi, ideali per industria 4.0 SCOPRI Soluzioni News Supporto FORMAZI
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 41、监控 5 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SC-2258.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -190,12 +211,14 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-2258/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://townet.it/) | html | 待首轮 | — | 官网首页 |
+| [home](https://townet.it/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 5550 字符；首行：Soluzioni Wireless e sistemi Smart di alimentazione per CCTV |
+| [feed_auto](https://www.townet.it/feed/) | rss | HTTP 200 | 2026-10-29T15:11:51Z | 10 条；最新：Tue, 23 Dec 2025 10:33:41 Protezione Civile |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -230,7 +253,7 @@ updated: 2026-10-29
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424XGGPM-280W | 深挖对位：默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档） | $180 USD EXW（㉕ ② 群发现价（群发价台账），30% 档公式为 $196.3——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（OEM（闸 2 判定 · 30% 档）） |
+| **P1** | STC-424XGGPM-280W | 深挖对位：官网快照对位：PoE 词频 41、监控 5 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W） | $180 USD EXW（㉕ ② 群发现价（群发价台账），30% 档公式为 $196.3——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（OEM（闸 2 判定 · 30% 档）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：30% 档 $151.6 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 

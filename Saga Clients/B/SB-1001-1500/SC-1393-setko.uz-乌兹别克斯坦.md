@@ -29,7 +29,7 @@ s_mail: 20 msgs (out 20 / in 0), 2024-06-29 -> 2026-10-07
 p1: STC-228GP
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 3
 updated: 2026-10-29
 ```
@@ -59,6 +59,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ○ 成单回访 · 分销 20% / 集成 25%：SETKO ООО（塔什干；Panasonic / Siemens / Samsung 企业通信官方供应商 + 安防 / 网络；top.uz 公开 nikolay@setko.uz）部分坐实（ИНН 未取）；成单 ✔ 对位 ✔ 坐实 ✔ → P 池候选（退信 → 改发 nikolay@）；Q-33 口径 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 登记底数（registry） | UZ · 1 次检索：yellowpages.uz（法人 SETKO ООО）+ pc.uz（品类 / 电话 / 2025 更新）+ top.uz（nikolay@ 公开）；ИНН 未取；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Системы контроля и безопасности в Ташкенте — SETKO — Системы контроля и безопасности в Ташкенте. Обеспечиваем решения по поставке и монтажу оборудования для безопасности, контролю под ключ. Официальная гарантия | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -117,7 +118,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（○ 正式）：○ 成单回访 · 分销 20% / 集成 25%：SETKO ООО（塔什干；Panasonic / Siemens / Samsung 企业通信官方供应商 + 安防 / 网络；top.uz 公开 nikolay@setko.uz）部分坐实（ИНН 未取）；成单 ✔ 对位 ✔ 坐实 ✔ → P 池候选（退信 → 改发 nikolay@）；Q-33 口径
 - **类型**：分销（闸 2 判定 · 20% 档）
 - **规模**：小型（推定）
-- **在卖/在用品牌**：Siemens
+- **在卖/在用品牌**：Siemens, Hikvision
 - **【登记底数 / 官网（闸 2 坐实）】SETKO ООО — 「Умный Дом」（setko.uz；**yellowpages.uz / pc.uz / top.uz：塔什干 Mirzo-Ulugbek 区（просп. Мустакиллик 2 / м-в Ирригатор 2）；+998 71 237-29-77；Panasonic / Siemens / Samsung 企业通信系统官方供应商 + 安防 / 网络 / 智能家居；top.uz 公开邮箱 info@ / nikolay@setko.uz**
   > UZ · 1 次检索：yellowpages.uz（法人 SETKO ООО）+ pc.uz（品类 / 电话 / 2025 更新）+ top.uz（nikolay@ 公开）；ИНН 未取；2026-10-29
   > 来源：https://pc.uz/company/10212-setko（抓取 2026-10-29）
@@ -128,10 +129,11 @@ updated: 2026-10-29
 - **KP**：—（表内邮箱（公开 / 总机））info@setko.uz 〔〕
 - **KP**：—（表内邮箱（公开 / 总机））sales@setko.uz 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 成单回访 · 分销 20% / 集成 25%：SETKO ООО（塔什干；Panasonic / Siemens / Samsung 企业通信官方供应商 + 安防 / 网络；top.uz 公开 nikolay@setko.uz）部分坐实（ИНН 未取）；成单 ✔ 对位 ✔ 坐实 ✔ → P 池候选（退信 → 改发 nikolay@）；Q-33 口径；闸 1：乌兹别克斯坦 setko.uz：2018/19 买过洪瑞 PoE 交换机（CCTV 类）；成单 + 对位 ✔；退信但域名 MX 正常 → 闸 2 查底数 + 找新地址
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/saga_fit.basis/deep/facts。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -144,6 +146,21 @@ updated: 2026-10-29
   - 表内兴趣：18 19年买了洪瑞一些POE switch 主要是CCTV类产品；CCTV
 - **风险/边界**：**成单户回访 → 分销 20% / 集成 25%：改发 nikolay@ 一页纸一次（STC-028GP / STC-228GP + STI-154GP + MOQ 1）— 区域外常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳；低频一页纸；洪瑞现供 → Q-33 口径（默认只推 SmartByte / Marvell 管理 + 工业线）*；登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号
 - **Saga 对位结论**：P1 STC-228GP（20% 档）——默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://setko.uz/　语言：ru-RU　站点地图 URL 数：38
+- **标题**：Системы контроля и безопасности в Ташкенте — SETKO
+- **描述**：Системы контроля и безопасности в Ташкенте. Обеспечиваем решения по поставке и монтажу оборудования для безопасности, контролю под ключ. Официальная гарантия
+- **首页栏目**：-под ключ- / -наше оборудование- / Система видеонаблюдения / Системы управления доступом / Сервера и Ситемы Хранения Данных / Сетевое оборудование
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：hikvision 12、automation 2、data center 1
+- **站内出现的品牌**：Hikvision　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内公开邮箱**：info@setko.uz
+- **站内公开电话**：+998 71 237-29-88, +998 71 238-99-97, +998 71 238-99-99
+- **社媒**：https://t.me/setko_manager?text=Здравствуйте%21%20Мне%20нужна%20консультация%20по%20оборудованию, https://www.facebook.com/p/SETKOUzbekistan-61579097662547/, https://www.instagram.com/setko_uz, https://www.youtube.com/@SETKOUzbekistan
+- **已抓子页**：[Контакты Setko — адрес, телефон, почта](https://setko.uz/contacts/)；[О компании SETKO — интегратор систем безопасности](https://setko.uz/about-company/)
+- 首页正文摘录：Перейти к основному содержанию Перейти к нижнему колонтитулу Оборудование Вендоры О компании Новости Решения Контакты Оборудование Вендоры О компании Новости Решения Контакты интернет-магазин Дистрибуция и оказание услуг проектирования, монтажа и технического обслуживания в узбекистане инженерные решения высокой эффективности для Setko - лидирующая компания Узбекистана на рынке комплесных технических систем обеспечен
+- 数据文件：`data/saga_clients/site_snapshots/SC-1393.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -180,12 +197,14 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-1393/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://setko.uz/) | html | 待首轮 | — | 官网首页 |
+| [home](https://setko.uz/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 9813 字符；首行：Системы контроля и безопасности в Ташкенте — SETKO |
+| [feed_auto](https://setko.uz/feed/) | rss | HTTP 200 | 2026-10-29T15:11:51Z | 4 条；最新：Wed, 08 Oct 2025 15:00:07 Ваша Безопасность Стала Невидимой, Но Умной: SETKO Предст |
 
 ## 联系方式（已有 · 原值照录）
 

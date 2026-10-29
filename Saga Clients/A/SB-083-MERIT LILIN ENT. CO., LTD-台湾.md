@@ -229,14 +229,14 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-29T08:41:09Z
+- **监控层**：A 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
 - **最近变化摘要**：2026-10-29 sitemap：新增 820 条： tw； support； worldwide； solution； case-studies； blog； ndaa； where-to-buy-europe…
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-083/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://meritlilin.com/en) | html | HTTP 200 | 2026-10-23T04:20:51Z | 6127 字符；首行：LILIN - IP Cameras, NVRs and Edge AI Video Analytics |
-| [sitemap](https://meritlilin.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-29T08:41:09Z | 900 个 URL；最新 lastmod 2026-10-04 |
+| [sitemap](https://meritlilin.com/sitemap.xml) | sitemap | HTTP 200 | 2026-10-29T15:11:51Z | 900 个 URL；最新 lastmod 2026-10-04 |
 | [news_1](https://meritlilin.com/en/blog) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5326 字符；首行：LILIN - Blog |
 | [news_2](https://meritlilin.com/en/case-studies) | html | HTTP 200 | 2026-10-23T04:20:51Z | 5312 字符；首行：LILIN - Case Studies |
 | [youtube](https://www.youtube.com/user/Meritlilin) | youtube_handle | HTTP 200 | 2026-10-24T07:26:33Z | 15 条；最新：2026-05-26T00:56:03+00:00 應用案例 - 淡水輕軌 |

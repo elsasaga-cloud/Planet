@@ -23,7 +23,7 @@ s_mail: 31 msgs (out 31 / in 0), 2024-06-19 -> 2026-09-24
 p1: STI-110GE
 price_tier: 20%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 2026-09-24 | 去 | A/S 群发 | Industrial PoE Switch、Managed Optical Bypass Switch | 31 封 / 0 次打开 / 0 回｜首封 2024-06-19 → 末封 2026-09-24（31 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 工业FS 工业MC 产品比较少 很多是周边产品 AOA的 | 表内备注 | `用户表` |
 | 2026-09-24 | 去 | A 箱（Alan） | Managed PoE Switches | 本日去信真实主题（邮箱索引 c51c081a3c66d481；信稿开头句引用此封；此前稿内写的「Industrial PoE Switch」是线程列表首题，不是本封） | `c51c081a3c66d481` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：krysma.com.au MX smtp.krysma.com.au.；A 172.67.196.166 / 104.21.68.155；NS duke.ns.cloudflare.com. / gail.ns.cloudflare.com. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -127,7 +128,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（krysma.com.au：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：快照失败（krysma.com.au：HTTP 错误，2026-10-29，第 2 次）
 - **是谁**：澳大利亚 Krysma（工业 FS、工业 MC 产品较少，多为 AOA 周边产品；「可以多跟进一下」；官网 http_error）；群发 24 次无回复。
 - **类型**：工业网络配件经销商（澳大利亚，AOA）
 - **在卖/在用品牌**：AOA
@@ -137,7 +138,8 @@ updated: 2026-10-29
 - **【用户表】工业 FS/MC 少 AOA 周边**
   > 工业FS 工业MC 产品比较少 很多是周边产品 AOA的；可以多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -157,7 +159,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-110GE（20% 档）——工业 MC/FS（现 AOA）→ 工业千兆 MC STI-110GE（$22.4 @20%）、百兆 STI-110FE（$19.7）、工业 8 GE + 2 SFP STI-280GE（$46.6）
 - **邮件切入句（英文）**：Alongside the AOA industrial products you carry, we supply neutral-brand DIN-rail gigabit/Fast Ethernet MCs and 8-GE + 2 SFP managed switches (−40~75 °C, CE/RoHS) from single units, EXW USD; RCM by your side — which MC configuration do your customers order most?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：krysma.com.au
   > https://krysma.com.au/ http 403 ct=text/html; charset=utf-8
@@ -228,7 +230,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-948/`；本节随档案重渲染刷新，实时看日志。
 

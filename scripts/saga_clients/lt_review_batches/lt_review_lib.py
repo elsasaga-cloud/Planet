@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """长期客户群 · 复核批共用件（T29-U128 起）。批文件 lt_r_0NN.py 只写 V = {code: (verdict, reason, [(quote, url), ...])}，然后 run(BATCH, V)。
 
-verdict ∈ {'留B', '打回C', '升A'}
+verdict ∈ {'留B', '打回C', '升A', '留A'}（留A = A 级复核不动，只记证据与日志；LT-R10 起）
 落点（Saga 库）：
   research/<code>.json  lt_review{status, batch, verdict_date, note}；mail_review.facts 追加 dir=查 的证据（去重）；
                         打回C → grade_override=C + override_reason（含 c_sub=储备·复核打回）+ override_history；升A → grade_override=A
@@ -41,12 +41,12 @@ def run(batch, V, date=DATE):
     ents = {e['code']: e for e in json.load(open(os.path.join(DATA, 'entities.json'), encoding='utf-8'))}
     cnt, log_rows, drop = {}, [], set()
     for code, (verdict, reason, facts) in V.items():
-        assert verdict in ('留B', '打回C', '升A'), (code, verdict)
+        assert verdict in ('留B', '打回C', '升A', '留A'), (code, verdict)
         e = ents[code]
         p = os.path.join(RESEARCH, code + '.json')
         rs = json.load(open(p, encoding='utf-8'))
         rv = rs.get('lt_review') or {}
-        rs['lt_review'] = {'status': {'留B': '留 B', '打回C': '打回 C', '升A': '升 A'}[verdict], 'batch': batch, 'prio': rv.get('prio'),
+        rs['lt_review'] = {'status': {'留B': '留 B', '打回C': '打回 C', '升A': '升 A', '留A': '留 A'}[verdict], 'batch': batch, 'prio': rv.get('prio'),
                            'queued': rv.get('batch'), 'verdict_date': date, 'note': reason, 'why': rv.get('why', '')}
         mr = rs.setdefault('mail_review', {})
         fl = mr.setdefault('facts', [])
@@ -75,7 +75,7 @@ def run(batch, V, date=DATE):
             rs['override_reason'] = f'Q-76 {batch} {date} 复核升 A 核心：{reason}'
         json.dump(rs, open(p, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
         cnt[verdict] = cnt.get(verdict, 0) + 1
-        log_rows.append([code, e.get('name'), e.get('country'), e['grade'], {'留B': 'B', '打回C': 'C', '升A': 'A'}[verdict], batch, date, reason])
+        log_rows.append([code, e.get('name'), e.get('country'), e['grade'], {'留B': 'B', '打回C': 'C', '升A': 'A', '留A': 'A'}[verdict], batch, date, reason])
     sieve_mod.save_sieve(s)
     if drop and os.path.exists(WATCH):
         wrows = list(csv.DictReader(open(WATCH, encoding='utf-8-sig')))

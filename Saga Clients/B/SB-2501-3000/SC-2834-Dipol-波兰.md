@@ -25,10 +25,10 @@ replies: 0
 followups: 0
 first_contact: unknown
 last_contact: unknown
-p1: STC-424XGGPM-280W
+p1: STC-424XGGM
 price_tier: 30%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 4
 updated: 2026-10-29
 ```
@@ -38,7 +38,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（★ 正式）：★ 自有品牌 · OEM 30%：DIPOL Sp. j.（Kraków 1990；KRS 0000094703；自有品牌 Signal / Ultimax / Ultipower；全国分部）坐实；OEM ✔ 波兰 ✔ 体量 ✔ 对位 ✔ → P 池候选；Simon 曾判不行，可否决（调研 2026-10-29；表内兴趣：VC MC  SFP 工业FS IFSEC 2010展会上有；CCTV/IP FTTH solution, VoIP&IPTV signals；MC, VC, splicing machine）
 - **为什么是 B 级**：**调研后定级 B**（Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 自有品牌 · OEM 30%：DIPOL Sp. j.（Kraków 1990；KRS 0000094703；自有品牌 Signal / Ultimax / Ultipower；全国分部）坐实；OEM ✔ 波兰 ✔ 体量 ✔ 对位 ✔ → P 池候选；Simon 曾判不行，可否决；闸 1：波兰 Dipol（大型安防 / 光纤 / 网络分销，自有品牌 Ultipower 等；IFSEC 参展；VC / MC / SFP / 工业 FS）：波兰次主区 + 分销 + 自有品牌 ✔ → 闸 2 查底数；Simon 曾判不行 → 可…）；自动分级 C：-6 群发批次名单；-60 用户已归入「不行及不太相关的」；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；-10 来源为 2010–2015 年展会且无后续记录
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-424XGGPM-280W — 默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）；
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-424XGGM — 官网快照对位：10G/2.5G 词频 6、交换机 215 → 24 GE + 4×10G L2+ 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）；
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动：LT-01 复核（待过）后再定 — 长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
@@ -51,13 +51,14 @@ updated: 2026-10-29
 - **现状一句话**：C 池三闸捞出 → B（LT-01）：★ 自有品牌 · OEM 30%：DIPOL Sp. j.（Kraków 1990；KRS 0000094703；自有品牌 Signal / Ultimax / Ultipower；全国分部）坐实；OEM ✔ 波兰 ✔ 体量 ✔ 对位 ✔ → P 池候选；Simon 曾判不行，可否决
 - **对方真实需求（有据）**：未知（无往来；复核时从官网 / 进口数据 / 项目推断）
 - **断点 / 为什么停在这里**：无往来（从未触达或仅群发无回）
-- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（% 档，价见价格主表）——默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
+- **Saga 现在该推什么**：P1 **STC-424XGGM**（% 档，价见价格主表）——官网快照对位：10G/2.5G 词频 6、交换机 215 → 24 GE + 4×10G L2+ 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）
 - **下一步（具体）**：不动：LT-01 复核（待过）后再定　—　长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ★ 自有品牌 · OEM 30%：DIPOL Sp. j.（Kraków 1990；KRS 0000094703；自有品牌 Signal / Ultimax / Ultipower；全国分部）坐实；OEM ✔ 波兰 ✔ 体量 ✔ 对位 ✔ → P 池候选；Simon 曾判不行，可否决 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 登记底数（registry） | PL · 1 次检索：aleo.com（KRS 0000094703；NIP 6780101049；Ciepłownicza 40）+ baza-firm（1990；品牌 / 品类）；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Monitoring IP, LAN, WLAN, TV, SAT, Anteny, Przewody - DIPOL — Mamy wszystko: telewizja, telefonia, monitoring, TV-SAT, LAN, WAN, alarmy, światłowody. Pełne wsparcie - atrakcyjne ceny. Tylko najlepsze produkty. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -106,6 +107,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（★ 正式）：★ 自有品牌 · OEM 30%：DIPOL Sp. j.（Kraków 1990；KRS 0000094703；自有品牌 Signal / Ultimax / Ultipower；全国分部）坐实；OEM ✔ 波兰 ✔ 体量 ✔ 对位 ✔ → P 池候选；Simon 曾判不行，可否决
 - **类型**：OEM（闸 2 判定 · 30% 档）
 - **规模**：中型（全国分部）
+- **在卖/在用品牌**：TP-Link, Hikvision, Dahua
 - **【登记底数 / 官网（闸 2 坐实）】DIPOL Gołaszewski, Waśniowski Spółka Jawna（dipol.com.pl；**aleo / baza-firm：ul. Ciepłownicza 40, 31-574 Kraków；NIP 6780101049；REGON 350509592；KRS 0000094703；1990 年创立；欧洲 CCTV / WLAN / TV-SAT 分销 + 天线制造，1200+ 品项，自有品牌 Signal / Ultimax / Ultipowe**
   > PL · 1 次检索：aleo.com（KRS 0000094703；NIP 6780101049；Ciepłownicza 40）+ baza-firm（1990；品牌 / 品类）；2026-10-29
   > 来源：https://aleo.com/int/company/dipol-golaszewski,-gwizdala,-wasniowski-spolka-jawna（抓取 2026-10-29）
@@ -117,10 +119,11 @@ updated: 2026-10-29
 - **KP**：—（表内邮箱（公开 / 总机））warszawa@dipol.com.pl 〔〕
 - **KP**：—（表内邮箱（公开 / 总机））m.czerwieci@dipol.com.pl 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 自有品牌 · OEM 30%：DIPOL Sp. j.（Kraków 1990；KRS 0000094703；自有品牌 Signal / Ultimax / Ultipower；全国分部）坐实；OEM ✔ 波兰 ✔ 体量 ✔ 对位 ✔ → P 池候选；Simon 曾判不行，可否决；闸 1：波兰 Dipol（大型安防 / 光纤 / 网络分销，自有品牌 Ultipower 等；IFSEC 参展；VC / MC / SFP / 工业 FS）：波兰次主区 + 分销 + 自有品牌 ✔ → 闸 2 查底数；Simon 曾判不行 → 可…
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/saga_fit/deep/facts。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -134,7 +137,25 @@ updated: 2026-10-29
 IFSEC 2010展会上有；CCTV/IP
 FTTH solution, VoIP&IPTV signals；MC, VC, splicing machine
 - **风险/边界**：**自有品牌 Ultipower（PoE / 交换机）→ OEM 30%：找总部产品经理后一页纸一次（STC-028GP / STC-228GP / STC-2224GP 对标 Ultipower 口型 + 丝印彩盒 MOQ + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地*
-- **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
+- **Saga 对位结论**：P1 STC-424XGGM（30% 档）——官网快照对位：10G/2.5G 词频 6、交换机 215 → 24 GE + 4×10G L2+ 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://www.dipol.com.pl/　语言：pl　站点地图 URL 数：5195
+- **标题**：Monitoring IP, LAN, WLAN, TV, SAT, Anteny, Przewody - DIPOL
+- **描述**：Mamy wszystko: telewizja, telefonia, monitoring, TV-SAT, LAN, WAN, alarmy, światłowody. Pełne wsparcie - atrakcyjne ceny. Tylko najlepsze produkty.
+- **首页栏目**：Szkolenia / Signal Pro / Promocja / Spawarki Signal Fire / Polecamy produkty / Kamera IP TP-Link VIGI InSight S355 (5 MPix, 2,8 mm, Full-Color, H.265+) / Kamera IP TP-Link VIGI InSight S385 (8 MPix, 2,8 mm, Full-Color, H.265+) / Kamera IP TP-Link VIGI InSight S455 (5 MPix, 2,8 mm, Full-Color, H.265+)
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 215、hikvision 195、dahua 156、poe 130、cctv 99、sfp 87、tp-link 87、ethernet 48、nvr 10、wifi 9、ubiquiti 8、10g 6
+- **站内出现的品牌**：TP-Link, Hikvision, Dahua　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：TDX-4168, MI520P, TL-SG2218P, SG2428LP, TL-SG3428MP, SG2452LP, DVB-T2, DS-KIS705EY, SN-IPR8140HCBN-B, SN-IPR8140BYBN-B, SN-NVR3808E1-J, SN-CBK646M
+- **站内公开邮箱**：dipol@dipol.com.pl
+- **站内公开电话**：+45 (1) -40, +45 (13) 0, +45 (16) 0, +48 12 644 29 13, +50 (2) -25, +55 (8) -20
+- **社媒**：https://www.facebook.com/dipolnet, https://www.youtube.com/dipolnet
+- **产品类页面**：https://www.dipol.com.pl/switch_poe_ds-kad606_do_wideodomofonow_ip_villa_i_generacja_-_24v-dc_marki_hikvision_…；https://www.dipol.com.pl/switch_poe_ds-kad606-p_do_wideodomofonow_ip_villa_i_generacja_-_24v-dc_marki_hikvisio…；https://www.dipol.com.pl/zestaw_wideodomofonowy_ip_hikvision_ds-kis602_b_ds-kd8003-ime1-surface_ds-kh6320-wte1…；https://www.dipol.com.pl/switch_signal_hdmi_3x1_H3131.htm；https://www.dipol.com.pl/zabezpieczenie_sieci_axon_poe_netprotector_J2836.htm；https://www.dipol.com.pl/switch_hdmi_3x1_signal_4k_x_2k_60_hz_hdmi_2_0_H3132.htm
+- **已抓子页**：[WLAN, LAN, Switche](https://www.dipol.com.pl/oferta-wlan-lan-switche,5310.htm)；[Monitoring, Switche](https://www.dipol.com.pl/oferta-monitoring-switche,7097.htm)；[TV-SAT, Multiswitche](https://www.dipol.com.pl/oferta-tv-sat-multiswitche,4424.htm)；[TV-SAT, Elementy sieci](https://www.dipol.com.pl/oferta-tv-sat-elementy-sieci,5494.htm)；[WLAN, LAN, Karty sieciowe](https://www.dipol.com.pl/oferta-wlan-lan-karty-sieciowe,5306.htm)；[Monitoring, Elementy sieci](https://www.dipol.com.pl/oferta-monitoring-elementy-sieci,5225.htm)
+- 首页正文摘录：Dostosowujemy się do Ciebie Używamy ciasteczek , przez co nasz sklep działa niezawodnie oraz dostosowuje się do Ciebie. Ciasteczka umożliwiają dopasowanie treści i promocji do Twoich zainteresowań. Jeśli się nie zgodzisz, nie wpłynie to na wyświetlanie reklam, tylko nie będą one do Ciebie dopasowane. Ciasteczka, dzięki którym działa nasz sklep Są niezbędne, by nasza strona działała prawidłowo, dlatego nie możesz z ni
+- **自动对位建议**：STC-424XGGM（官网快照对位：10G/2.5G 词频 6、交换机 215 → 24 GE + 4×10G L2+ 起手；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SC-2834.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -148,12 +169,13 @@ FTTH solution, VoIP&IPTV signals；MC, VC, splicing machine
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-2834/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://dipol.com.pl/) | html | 待首轮 | — | 官网首页 |
+| [home](https://dipol.com.pl/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 38569 字符；首行：Monitoring IP, LAN, WLAN, TV, SAT, Anteny, Przewody - DIPOL |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -193,17 +215,18 @@ FTTH solution, VoIP&IPTV signals；MC, VC, splicing machine
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424XGGPM-280W | 深挖对位：默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档） | $180 USD EXW（㉕ ② 群发现价（群发价台账），30% 档公式为 $196.3——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（OEM（闸 2 判定 · 30% 档）） |
+| **P1** | STC-424XGGM | 深挖对位：官网快照对位：10G/2.5G 词频 6、交换机 215 → 24 GE + 4×10G L2+ 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W） | $138.0 USD EXW（30% 档，SmartByte LT-S8328XG-4XS24GT-S 710 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（OEM（闸 2 判定 · 30% 档）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：30% 档 $151.6 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），30% 档公式为 $196.3——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 
 - **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
 
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGPM-280W），备选型不进首触。
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424XGGM），备选型不进首触。
 
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424XGGPM-280W 一条规格链接；只问一个问题。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424XGGM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -213,7 +236,7 @@ FTTH solution, VoIP&IPTV signals；MC, VC, splicing machine
 
 - **S**：自有品牌/贴牌需求 = 现成 OEM 客户；欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
-- **O**：P1 STC-424XGGPM-280W 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；规模（调研）：中型（全国分部）
+- **O**：P1 STC-424XGGM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；规模（调研）：中型（全国分部）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
 
 ## 触达与风险红线
@@ -241,14 +264,14 @@ FTTH solution, VoIP&IPTV signals；MC, VC, splicing machine
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-424XGGPM-280W - 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
+**主题**：STC-424XGGM - 24-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks (Marvell-based, neutral label)
 
 ```text
 Hi Mateusz,
 
 We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
 
-We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGPM-280W - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $180 USD EXW (MOQ 1, 15-day validity).
+We supply a Marvell-based 24-port Gigabit L2+ managed switch with 4x10G SFP+ uplinks - model STC-424XGGM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $138.0 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
 One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 

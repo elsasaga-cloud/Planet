@@ -29,7 +29,7 @@ s_mail: 21 msgs (out 21 / in 0), 2024-06-21 -> 2026-09-15
 p1: STC-2216GP
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 3
 updated: 2026-10-29
 ```
@@ -59,6 +59,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | △ 观察档 · 集成 25%：REDFOX S.R.L.（San Benedetto del Tronto；CF 01870630447 / REA AP-180065；资本 €10,050；安防集成 15+ 年；CEO Marco Di Pietro 官网公开邮箱）坐实；进口 Utepo ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔ = 冷户四条，微型集成商 → 入池观察档 + 预付；Simon 曾判不行，可否决 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 登记底数（registry） | IT · 1 次检索：redfox-tech.com 首页页脚（CF / REA / 资本）+ /contatti/（CEO 具名 + 邮箱公开）；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | RedFox S.r.l. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -128,10 +129,11 @@ updated: 2026-10-29
   > 来源：（抓取 2026-10-29）
 - **KP**：—（表内邮箱（公开 / 总机））redfox@redfox-tech.com 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档 · 集成 25%：REDFOX S.R.L.（San Benedetto del Tronto；CF 01870630447 / REA AP-180065；资本 €10,050；安防集成 15+ 年；CEO Marco Di Pietro 官网公开邮箱）坐实；进口 Utepo ✔ 欧洲 ✔ 对位 ✔ 坐实 ✔ = 冷户四条，微型集成商 → 入池观察档 + 预付；Simon 曾判不行…；闸 1：意大利 Redfox S.r.l.（工商业 PoE 用 Utepo 的）：欧洲 + 已进口中国同类品牌 + 对位 ✔；14 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/saga_fit.basis/deep/facts。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -144,6 +146,14 @@ updated: 2026-10-29
   - 表内兴趣：工商业PoE 用的Utepo的；工商业POE
 - **风险/边界**：**小集成商 → 集成 25%：点名 Marco 一页纸一次（STC-028GP $28 / STI-154GP 工业 PoE + MOQ 1 + 付费样机；Utepo 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；微型 → 预付；Simon 可否决
 - **Saga 对位结论**：P1 STC-2216GP（25% 档）——默认对位（集成 · 25% 档）：项目集成起手：16 GE PoE + 2 SFP 管理型（25% 档）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：http://redfox.srl/　语言：未标　站点地图 URL 数：0
+- **标题**：RedFox S.r.l.
+- **站内型号串**（正则抽取，含非交换机）：CC0000
+- 首页正文摘录：RedFox S.r.l. <body bgcolor='#FFFFFF' text='#000000' link='#0000FF' vlink='#CC0000' alink='#00CC33'><font face='Verdana'><p>&nbsp;</p><p>&nbsp;</p><a href='http://www.redfox-tech.com'>http://www.redfox-tech.com</a><p>&nbsp;</p><p>&nbsp;</p></font></body>
+- 数据文件：`data/saga_clients/site_snapshots/SC-2256.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -197,12 +207,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-2256/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://redfox.srl/) | html | 待首轮 | — | 官网首页 |
+| [home](https://redfox.srl/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 40 字符；首行：RedFox S.r.l. |
 
 ## 联系方式（已有 · 原值照录）
 

@@ -25,7 +25,7 @@ s_mail: 2 msgs (out 1 / in 1), 2026-09-29 -> 2026-09-30
 p1: STC-424XGGPM-280W（校园楼层 PoE，24 口 + 4×10G）
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -57,6 +57,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-29 | 去 | Alan → Alain Casault | This is a Marvell AC5 Managed PoE Switch featuring 1, DI/DO/RS485 for smart monitoring 2, PoE af/at/bt compliant 3, 1G/2.5G/10G fiber speed, customizable Web UI. Do you need some samples for testing? | 单发介绍（附 L3 Managed.jpg），无价 | `gmail_a 4a6e6a456e4bae81` |
 | 2026-09-30 | 来 | Alain Casault | Not for the moment, but I'll keep your Email for futur reference. | 真人回信，礼貌留门；邮件系统横幅为法语外部邮件警示（CSPE） | `gmail_a cae10af242e8d3f8` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Hélène Marcil – Orthopédagogue – Une aide à votre portée — Les troubles d’apprentissages… le TDAH… les mots épeurants qui finissent en « xie » … En tant que parent, on se sent parfois démuni. En tant que personne avec une ou plusieurs de ces conditions, ça fait peur. On se sent parfois seul, différe | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：机构全称与规模（educationhmo.com 未爬）；Alain 的职务
 
@@ -120,9 +121,10 @@ updated: 2026-10-29
   > Not for the moment, but I'll keep your Email for futur reference.
   > 来源：gmail_a k=cae10af242e8d3f8（抓取 2026-09-30）
 - **KP**：Alain Casault（ing. · CSPE 副总裁 / 联合创始人 · MikroTik 认证培训师本人（alaincasault.com）= 已婉拒「现在不要」（第 113 批 官方登记核实 2026-10-28））casault.alain@educationhmo.com 〔gmail_a 2026-09-30 回信签名「AC」〕
-- 备注：Q-44「A 邮箱入库后同一脚本再跑一遍，把有人工回信的补录」的产物（第 64 批）。727 个未入库出站域名里只有它一个是重点区域内的真人回信。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。
+Q-44「A 邮箱入库后同一脚本再跑一遍，把有人工回信的补录」的产物（第 64 批）。727 个未入库出站域名里只有它一个是重点区域内的真人回信。
 
-### 加厚挖掘（2026-10-29 · 邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -131,6 +133,17 @@ updated: 2026-10-29
 | 其他 | 第 113 批：**研究档类型「教育机构 IT / 终端用户」有误 → MikroTik 培训 + 电信咨询个体业务**；非渠道 + 明示「现在不要」→ **不动（B 保留；他主动来询再报）**（第 113 批 官方登记核实 2026-10-28） |
 
 - **Saga 对位结论**：P1 STC-424XGGPM-280W（校园楼层 PoE，24 口 + 4×10G）（25% 档）——教育终端用户，项目制，按集成商档 25%
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://helenemarcil.wordpress.com/　语言：fr-FR　站点地图 URL 数：10
+- **标题**：Hélène Marcil – Orthopédagogue – Une aide à votre portée
+- **描述**：Les troubles d’apprentissages… le TDAH… les mots épeurants qui finissent en « xie » … En tant que parent, on se sent parfois démuni. En tant que personne avec une ou plusieurs de ces conditions, ça fait peur. On se sent parfois seul, différent, bizarre même. Mais nous ne sommes pas obligés de rester
+- **首页栏目**：Accueil
+- **站内公开邮箱**：marcil.helene@educationhmo.com
+- **已抓子页**：[À propos – Hélène Marcil – Orthopédagogue](https://helenemarcil.wordpress.com/about/)；[Nos services – Hélène Marcil – Orthopédagogue](https://helenemarcil.wordpress.com/nos-services/)
+- 首页正文摘录：Accéder au contenu principal Hélène Marcil – Orthopédagogue Une aide à votre portée Menu Accueil Nos services À propos Accueil Les troubles d’apprentissages… le TDAH… les mots épeurants qui finissent en « xie » … En tant que parent, on se sent parfois démuni. En tant que personne avec une ou plusieurs de ces conditions, ça fait peur. On se sent parfois seul, différent, bizarre même. Mais nous ne sommes pas obligés de
+- 数据文件：`data/saga_clients/site_snapshots/SB-1118.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -155,12 +168,14 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1118/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://educationhmo.com/) | html | 待首轮 | — | 官网首页 |
+| [home](https://educationhmo.com/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 1332 字符；首行：Hélène Marcil – Orthopédagogue – Une aide à votre portée |
+| [feed_auto](https://helenemarcil.wordpress.com/feed/) | rss | HTTP 200 | 2026-10-29T15:11:51Z | 6 条；最新：Tue, 28 Oct 2014 15:47:36 Comment favoriser la réussite de votre enfant |
 
 ## 联系方式（已有 · 原值照录）
 

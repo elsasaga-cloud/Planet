@@ -29,7 +29,7 @@ s_mail: 4 msgs (out 4 / in 0), 2026-05-19 -> 2026-09-03
 p1: STC-28DGGPM
 price_tier: 25%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: http_error  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -61,6 +61,7 @@ updated: 2026-10-29
 | 2026-05-19 | 去 | A 箱（Alan） | 10G L3 Managed Switch | 首封去信（邮箱索引；去信共 4 封） | `30eb6e73fe31e45c` |
 | 2026-09-03 | 去 | A 群发 | 24 Port PoE Managed Switch、10G L3 Managed Switch | 4 封 / 0 次打开 / 0 回｜首封 2026-05-19 → 末封 2026-09-03（4 去 / 0 来） | `gmail_digest` |
 | 2026-09-03 | 去 | A 箱（Alan） | 24 Port PoE Managed Switch | 最近一封去信（邮箱索引；去信共 4 封） | `faea4c7dadab37be` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：intecseg.com MX mx.serviciodecorreo.es.；A 23.236.62.147；NS dns13.servidoresdns.net. / dns14.servidoresdns.net. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -137,7 +138,8 @@ updated: 2026-10-29
   > 来源：https://www.intecseguridad.com/en/productos-y-servicios/（抓取 2024-11-19）
 - **KP**：Vicente Jimenez（用户表 KP（intecseg.com；WA 已加；20 次 0 回复）— 公司同一性未证实 → 不动（第 109 批 官方登记核实 2026-10-28））vicente.jimenez@intecseg.com +34 616 913 800（WhatsApp 已加）〔Clients/A/DONE/其他优质欧洲客户.xlsx〕
 - **调研后定级**：B（原自动 A）——实体无法核实 + 20 次推送零回复；保留 WhatsApp 渠道慢跟，若其回复再补调研。
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（官网核对））
@@ -156,7 +158,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（25% 档）——安装商自用：STC-28DGGPM（8 PoE + 2 SFP）为主，STC-424DGGPM-280W 为大项目；集成商 25% 档
 - **邮件切入句（英文）**：Since the last order, the 8-port PoE+ managed switch now ships with the 2 SFP uplinks as standard; if you have a CCTV job coming up in Menorca or Mallorca I can hold EXW pricing for 15 days.
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
 
 - 尝试域名：intecseg.com
   > https://intecseg.com/ http 404 ct=text/html; charset=utf-8
@@ -211,7 +213,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-014/`；本节随档案重渲染刷新，实时看日志。
 

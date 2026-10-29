@@ -25,7 +25,7 @@ s_mail: 1 msgs (out 0 / in 1), 2024-03-09 -> 2024-03-09
 p1: STI-41616XGGPM
 price_tier: 25%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -56,6 +56,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2024-03-09 | 来 | Hassan Cheema | Attached herewith are the technical specifications of different Access/Aggregation switches and Routers for your working for technical compliance statement. | RFQ | `7203d72a927b7030` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Litech Pakistan offering Optical Fiber Cables & Telecom Cables in Pakistan — Litech Pakistan is Top Manufacturer of Best Quality Optical Fiber Cables in Pakistan. and is Sole Distributor in Pakistan for Exfo (Canada) , Inno Instruments , Wolong Batteries (China). Our professional skills in manufactu | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -117,9 +118,10 @@ updated: 2026-10-29
   > 来源：data/gmail_s/messages/2024/2024-03.jsonl（from hassancheema@litech.com.pk，主题 RFQ Switches）（抓取 2024-03-09）
 - **KP**：Hassan Ijaz Cheema（Manager Business Development（S 邮箱签名；+92 310 092 4444 = 官网电话；2024-03-09 主动 RFQ 接入 / 汇聚交换机 + 路由器，我方欠答）= 收件人 — 一页纸 + 补答：集成商 25% B（升 A 候选 ★）、接入 STC-4424GCPM $165（L2+ Marvell）/ 汇聚 10G STH-2C24XF-HSI $1,500（CENTEC）、路由器不做明说、技术符合性按我方实际规格逐条答不套华为型号、MOQ 1 + 付费样机、opener 引其 2024-03-09 RFQ 主题 — 巴基斯坦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、PTA 不声称（第 118 批 官方登记核实 2026-10-28））hassancheema@litech.com.pk +92 310 092 4444 / +92 51 8744109〔S 邮箱签名〕
 - **调研后定级**：B（原自动 B）——具名 BD 经理 + 真实 RFQ，但年代久、规格对标华为（部分做不了）、未回 → B
-- 备注：2.5 年前的 RFQ，先确认 Simon 当时是否在别的渠道回过；若没有，可发一封「当年没接上，现在 L2+/L3 线成熟」的短信重新开门（只对交换机部分，路由器不做）。公共项目/运营商类项目注意守界。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。
+2.5 年前的 RFQ，先确认 Simon 当时是否在别的渠道回过；若没有，可发一封「当年没接上，现在 L2+/L3 线成熟」的短信重新开门（只对交换机部分，路由器不做）。公共项目/运营商类项目注意守界。
 
-### 加厚挖掘（2026-10-29 · 邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 邮件证据 v1（S/A 箱往来整理；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -129,6 +131,23 @@ updated: 2026-10-29
 | 其他 | 第 118 批：光缆 / 光纤器材制造 + 分销 + 项目承包（客户 PTCL / Wateen / Zong / Mobilink + Huawei / ZTE 承包商），主动 RFQ + 多项目 + 我方欠答 → **集成商 25% B，一页纸 + 补答；升 A 候选 ★**；回信 → 加厚 + 升 A；部分坐实（官网 + D&B）；技术符合性声明由 Simon 定稿（第 118 批 官方登记核实 2026-10-28） |
 
 - **Saga 对位结论**：P1 STI-41616XGGPM（25% 档）——项目集成商 → 25% 档；汇聚层 L3 口型先用工业 L3 顶上，商用 48 口 L3 另议
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://litech.com.pk/　语言：en-US　站点地图 URL 数：95
+- **标题**：Litech Pakistan offering Optical Fiber Cables & Telecom Cables in Pakistan
+- **描述**：Litech Pakistan is Top Manufacturer of Best Quality Optical Fiber Cables in Pakistan. and is Sole Distributor in Pakistan for Exfo (Canada) , Inno Instruments , Wolong Batteries (China). Our professional skills in manufacturing Fiber, Voice, Structured Cabling Solutions....
+- **首页栏目**：LITECH Telecommunication Products / INNO INSTRUMENTS / EXFO PRODUCTS / WOLONG BATTERIES / PTCL CABLES / OPTICAL FIBER CABLES / CAT 6 Cables / Fiber Optic Cables
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 80、fiber 44、telecom 18、distributor 4、industrial 1、ethernet 1、wireless 1、ftth 1
+- **站内出现的品牌**：Huawei　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：FTB-2, FTB-4, FPM-600, FTB-5500B, PPM-350C, MAX-800, FIP-400B, FOT-300, MAX-5205
+- **站内公开邮箱**：fsd@litech.com.pk, info@litech.com.pk
+- **站内公开电话**：+92) 310 092 4444, +92) 310 0924444, +92) 41 262 6671, +92) 41 262 6672
+- **社媒**：https://www.facebook.com/litechpakistan, https://www.instagram.com/litech_pakistan/, https://www.linkedin.com/company/litech-pakistan, https://www.twitter.com/LitechPakistan
+- **产品类页面**：https://litech.com.pk/products/；https://litech.com.pk/e-catalog/；https://litech.com.pk/exfo-products/；https://litech.com.pk/shop/；https://litech.com.pk/lit_product/ftb-4-pro-platform/；https://litech.com.pk/lit_product/ftb-2-pro-platform/
+- **已抓子页**：[Litech is Seller of Optical fiber cables - Fiber Optic Cable](https://litech.com.pk/products/)；[Litech is authorized partner of EXFO for its sale of equipme](https://litech.com.pk/exfo-products/)；[Litech Pakistan fiber and optical cable and optical cable de](https://litech.com.pk/e-catalog/)；[We’re here to help related to Optical fiber cables, FTTH cab](https://litech.com.pk/contact-us/)；[Litech offers Fusion Splicers Solution, OTDR Solutions, Fibe](https://litech.com.pk/about-litech/)；[Litech offers Fusion Splicers Solution, OTDR Solutions, Fibe](https://litech.com.pk/about-litech/)
+- 首页正文摘录：Home About Us Products EXFO Products Litech Optical Fiber Cables Fiber Patch Cables Cat6 Cables INNO Fusion Splicers PTCL Cables Wolong Batteries Clients e-catalog Contact Us LITECH Telecommunication Products Established in 1999, Litech Sdn Bhd has developed a successful synergy between the evolving global telecommunication requirements and innovative technical solutions with our proudly presented brand – LITECH. Wit
+- 数据文件：`data/saga_clients/site_snapshots/SB-1116.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -152,7 +171,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1116/`；本节随档案重渲染刷新，实时看日志。
 

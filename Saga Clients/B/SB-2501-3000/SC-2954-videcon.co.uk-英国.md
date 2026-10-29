@@ -29,7 +29,7 @@ s_mail: 1 msgs (out 1 / in 0), 2025-01-24 -> 2025-01-24
 p1: STC-424XGGPM-280W
 price_tier: 30%
 research: done
-site_snapshot: none
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -39,7 +39,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（★ 正式）：★ 自有品牌 · OEM 30%：Videcon Ltd（Heckmondwike 1995；£36.27M；150 人；自有品牌 Concept Pro；trade-only 分销）坐实；OEM ✔ 主区 ✔ 体量 ✔ 对位 ✔ → P 池候选（退信 → 找产品经理）；Simon 曾判不行，可否决（调研 2026-10-29；表内兴趣：主要是CCTV 也有一些商业POE）
 - **为什么是 B 级**：**调研后定级 B**（Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 自有品牌 · OEM 30%：Videcon Ltd（Heckmondwike 1995；£36.27M；150 人；自有品牌 Concept Pro；trade-only 分销）坐实；OEM ✔ 主区 ✔ 体量 ✔ 对位 ✔ → P 池候选（退信 → 找产品经理）；Simon 曾判不行，可否决；闸 1：英国 Videcon（videcon.co.uk；CCTV 分销为主、有商业 PoE；疑有自有品牌线，闸 2 核）：英国主区 + 分销主体 + 对位 ✔；退信 → 闸 2 查底数 + 找新地址，低优先；Simon 曾判不行 → 可按编号否决）；自动分级 C：-60 用户已归入「不行及不太相关的」；-25 邮件发不过去且无 WhatsApp 通道；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-424XGGPM-280W — 默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）；
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-424XGGPM-280W — 官网快照对位：PoE 词频 75、监控 316 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）；
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动：LT-01 复核（待过）后再定 — 长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
@@ -52,13 +52,14 @@ updated: 2026-10-29
 - **现状一句话**：C 池三闸捞出 → B（LT-01）：★ 自有品牌 · OEM 30%：Videcon Ltd（Heckmondwike 1995；£36.27M；150 人；自有品牌 Concept Pro；trade-only 分销）坐实；OEM ✔ 主区 ✔ 体量 ✔ 对位 ✔ → P 池候选（退信 → 找产品经理）；Simon 曾判不行，可否决
 - **对方真实需求（有据）**：未知（无往来；复核时从官网 / 进口数据 / 项目推断）
 - **断点 / 为什么停在这里**：无往来（从未触达或仅群发无回）
-- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（% 档，价见价格主表）——默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
+- **Saga 现在该推什么**：P1 **STC-424XGGPM-280W**（% 档，价见价格主表）——官网快照对位：PoE 词频 75、监控 316 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）
 - **下一步（具体）**：不动：LT-01 复核（待过）后再定　—　长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-29 | 查 | Agent 三闸（sieve.json） | ★ 自有品牌 · OEM 30%：Videcon Ltd（Heckmondwike 1995；£36.27M；150 人；自有品牌 Concept Pro；trade-only 分销）坐实；OEM ✔ 主区 ✔ 体量 ✔ 对位 ✔ → P 池候选（退信 → 找产品经理）；Simon 曾判不行，可否决 | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
 | 2026-10-29 | 查 | Agent 登记底数（registry） | GB · 1 次检索：endole 品牌页（Videcon Ltd；1995；£36.27M）+ tracxn（150 人；Concept Pro）+ prospeo（地址 / 电话）；CH 号未取；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | CCTV, Fire, Intruder & Access Control Solutions - Videcon — Videcon is a leading trade-only distributor of CCTV, Fire, Intruder & Access Control products to the UK security market. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
 
@@ -106,6 +107,7 @@ updated: 2026-10-29
 - **是谁**：C 池三闸捞出（★ 正式）：★ 自有品牌 · OEM 30%：Videcon Ltd（Heckmondwike 1995；£36.27M；150 人；自有品牌 Concept Pro；trade-only 分销）坐实；OEM ✔ 主区 ✔ 体量 ✔ 对位 ✔ → P 池候选（退信 → 找产品经理）；Simon 曾判不行，可否决
 - **类型**：OEM（闸 2 判定 · 30% 档）
 - **规模**：中型（150；£36M）
+- **在卖/在用品牌**：Uniview, Ubiquiti, Zyxel, Ajax
 - **【登记底数 / 官网（闸 2 坐实）】Videcon Ltd（videcon.co.uk；**Endole：1995-07-31 成立，Active，Heckmondwike West Yorkshire，营业额 £36.27M；Tracxn：150 人，自有品牌 Concept Pro（1998 起，IP / AHD / 模拟 CCTV），ISO 9001 分销；prospeo：WF16 0PN，+44 1924 528000，分销 Concept Pro / UNV / Apollo / Advanced /**
   > GB · 1 次检索：endole 品牌页（Videcon Ltd；1995；£36.27M）+ tracxn（150 人；Concept Pro）+ prospeo（地址 / 电话）；CH 号未取；2026-10-29
   > 来源：https://open.endole.co.uk/insight/brand/206497-videcon（抓取 2026-10-29）
@@ -115,10 +117,11 @@ updated: 2026-10-29
   > 来源：（抓取 2026-10-29）
 - **KP**：—（表内邮箱（公开 / 总机））sales@videcon.co.uk 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 自有品牌 · OEM 30%：Videcon Ltd（Heckmondwike 1995；£36.27M；150 人；自有品牌 Concept Pro；trade-only 分销）坐实；OEM ✔ 主区 ✔ 体量 ✔ 对位 ✔ → P 池候选（退信 → 找产品经理）；Simon 曾判不行，可否决；闸 1：英国 Videcon（videcon.co.uk；CCTV 分销为主、有商业 PoE；疑有自有品牌线，闸 2 核）：英国主区 + 分销主体 + 对位 ✔；退信 → 闸 2 查底数 + 找新地址，低优先；Simon 曾判不行 → 可按编号否决
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/saga_fit/deep/facts。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
-### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -130,7 +133,24 @@ updated: 2026-10-29
   - 英国 Videcon（videcon.co.uk；CCTV 分销为主、有商业 PoE；疑有自有品牌线，闸 2 核）：英国主区 + 分销主体 + 对位 ✔；退信 → 闸 2 查底数 + 找新地址，低优先；Simon 曾判不行 → 可按编号否决
   - 表内兴趣：主要是CCTV 也有一些商业POE
 - **风险/边界**：**自有品牌 Concept Pro + 中型分销 → OEM 30%：找产品经理后一页纸一次（STC-028GP / STC-228GP / STC-2224GP 安防 PoE 丝印彩盒 MOQ + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；Simon 可否决；登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号
-- **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）
+- **Saga 对位结论**：P1 STC-424XGGPM-280W（30% 档）——官网快照对位：PoE 词频 75、监控 316 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
+
+- **首页**：https://videcon.co.uk/　语言：en　站点地图 URL 数：0
+- **标题**：CCTV, Fire, Intruder & Access Control Solutions - Videcon
+- **描述**：Videcon is a leading trade-only distributor of CCTV, Fire, Intruder & Access Control products to the UK security market.
+- **首页栏目**：Featured Products / MX5 1 Loop Panel - Small Cabinet 345x345x85 / Concept Pro AI Bridge - Professional / Ajax Superior MotionCam (PhOD) Jeweller (8EU) ASP black / Concept Pro Bi Spectrum 28 Series Bullet Camera / Concept Pro Network Recorder 8MP UHD 16 Channel NVR / Uniview Prime 4MP IP Tri-Guard 3.0 Owlview+ Motorised Turret Camera / Nuflex CAT5e UTP 305M Solid Copper Core Cable
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：camera 259、uniview 79、poe 75、cctv 43、switch 36、access control 16、wireless 16、ubiquiti 14、gigabit 12、nvr 7、surveillance 7、cable 7
+- **站内出现的品牌**：Uniview, Ubiquiti, Zyxel, Ajax　（「（！）」= Saga 自家/供应商品牌已在其站内出现）
+- **站内型号串**（正则抽取，含非交换机）：CVP5325IREL-AHD5M, CVP5325IREL-AHD2M, AIR3525EL-AHD2M, POE-24-12W-G, AIR3525EL-AHD5M, NBE-M5-16, NS-5AC, VA-SW4POE-IP-2, GS-105B, GS-108B, POE-IP08, POE-IP16
+- **站内公开邮箱**：sales@videcon.co.uk
+- **站内公开电话**：+44 (0) 1924 528000
+- **社媒**：https://www.facebook.com/videcon/, https://www.instagram.com/videconuk, https://www.linkedin.com/company/videcon-plc/, https://www.youtube.com/user/CCTVbyVidecon
+- **已抓子页**：[Networking - Routers, Switches And Transmission - CCTV - Vid](https://videcon.co.uk/cctv/networking/)；[IP Cameras Including Turret, Dome And Bullet Cameras - CCTV ](https://videcon.co.uk/cctv/ip-cameras/)；[AHD Cameras Including Dome And Eyeball Cameras - CCTV - Vide](https://videcon.co.uk/cctv/ahd-cameras/)；[Accessories - Key Switches - Videcon](https://videcon.co.uk/key-switches)；[CCTV Systems: IP Cameras, AI, and Video Management Software ](https://videcon.co.uk/cctv/)；[Videcon Brands](https://videcon.co.uk/brands/)
+- 首页正文摘录：Toggle menu +44 (0) 1924 528000 Account / Register Basket Search CCTV All CCTV Recording Devices Artificial Intelligence IP Cameras AHD Cameras Monitors Networking Detectors Brackets & Mounting Equipment Rapid Deployment Towers Servers Video Management Systems Accessories Fire All Fire 2 Wire Systems Ancillaries & Installation Air Sample Systems Analogue Systems Conventional Systems Disabled Refuge & Toilet Alarms Em
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 75、监控 316 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SC-2954.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -152,12 +172,13 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-2954/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://videcon.co.uk/) | html | 待首轮 | — | 官网首页 |
+| [home](https://videcon.co.uk/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 3885 字符；首行：CCTV, Fire, Intruder & Access Control Solutions - Videcon |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -186,7 +207,7 @@ updated: 2026-10-29
 
 | 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
 |---|---|---|---|---|
-| **P1** | STC-424XGGPM-280W | 深挖对位：默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档） | $180 USD EXW（㉕ ② 群发现价（群发价台账），30% 档公式为 $196.3——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（OEM（闸 2 判定 · 30% 档）） |
+| **P1** | STC-424XGGPM-280W | 深挖对位：官网快照对位：PoE 词频 75、监控 316 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W） | $180 USD EXW（㉕ ② 群发现价（群发价台账），30% 档公式为 $196.3——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 30%（OEM（闸 2 判定 · 30% 档）） |
 | 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $87.4 USD EXW（30% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.30 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 | 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：30% 档 $151.6 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
 

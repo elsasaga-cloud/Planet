@@ -28,7 +28,7 @@ last_contact: unknown
 p1: STC-228GP
 price_tier: 20%
 research: done
-site_snapshot: none
+site_snapshot: timeout  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -40,7 +40,7 @@ updated: 2026-10-29
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-228GP — 默认对位（增值分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）；
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：年走量与现供应商
+- **最大未知**：官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
 - **下一步**：不动：LT-01 复核（待过）后再定 — 长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-29）
@@ -116,7 +116,8 @@ updated: 2026-10-29
   > 来源：（抓取 2026-10-29）
 - **KP**：—（表内邮箱（公开 / 总机））patelpradeep86@gmail.com 〔〕
 - **调研后定级**：B（原自动 C）——Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 印度 · 增值分销 20%：RoundRobin Tech Services Pvt. Ltd.（Mumbai；网络安全 VAD 14 年+；11–50 人；Pradeep Patel Regional Manager 真回）部分坐实（CIN 未取）；印度先例 ✔ 分销对位 ✔ 真回 ✔ → P 池候选；闸 1：印度 Round Robin Tech（roundrobintech.com 正常；Pradeep Patel Regional 具名，gmail；「分销商，有需求会说」= 真实回复 ✔；另有 Bakhtavar Usmani）：印度先例…
-- 备注：LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#1。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
 
 ### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
@@ -134,6 +135,15 @@ Bakhtavar Usmani 另外一个人
 - **风险/边界**：登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号
 - **Saga 对位结论**：P1 STC-228GP（20% 档）——默认对位（增值分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）
 
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：超时（站慢或封锁））
+
+- 尝试域名：roundrobintech.com
+  > https://roundrobintech.com/ timeout
+  > https://www.roundrobintech.com/ timeout
+  > http://roundrobintech.com/ timeout
+- **提示**：抓取失败不代表公司不在；人工打开一次即可。
+- 数据文件：`data/saga_clients/site_snapshots/SC-2154.json`
+
 ## 在卖/在用品牌 → Saga 对位
 
 （备注未提及具体品牌）
@@ -144,12 +154,12 @@ Bakhtavar Usmani 另外一个人
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-2154/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://roundrobintech.com/) | html | 待首轮 | — | 官网首页 |
+| [home](https://roundrobintech.com/) | html | ReadTimeout: HTTPSConnectionPool(host='roundrobintech.com',  | - | 官网首页 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -224,6 +234,7 @@ Bakhtavar Usmani 另外一个人
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
+- [ ] 官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

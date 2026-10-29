@@ -23,7 +23,7 @@ s_mail: 6 msgs (out 6 / in 0), 2025-09-24 -> 2026-02-11
 p1: STI-110GE
 price_tier: 20%
 research: done
-site_snapshot: http_error  # 2026-10-21
+site_snapshot: ok  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -35,7 +35,7 @@ updated: 2026-10-29
 - **历史互动**：推送 2 次（2025-09-24 → 2025-10-31）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — MC 副线 → 工业千兆 MC STI-110GE（$22.4 @20%）、PoE MC STI-111GP（$27.8）；光模块 Saga 不供；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the media converters you offer alongside optics, we supply neutral-brand industrial gigabit and PoE MCs (−40~75 °C, CE/RoHS/UKCA) from single units, EXW USD — which MC configuration do your telecom customers order most?
-- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）；官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
+- **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：群发节奏 A 邮箱 观察打开
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
@@ -54,6 +54,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-02-11 | 去 | A 群发 | 10G Enterprise SFP Switch、Booster PoE Switch | 6 封 / 0 次打开 / 0 回｜首封 2025-09-24 → 末封 2026-02-11（6 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 主要是光模块 有一些MC | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Carritech \| Your Complete Telecoms Network Support Provider — At Carritech, we offer a wide range of network support services, designed to extend the life of your telecommunications network. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -110,7 +111,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（carritech.com：HTTP 错误，2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：在线（carritech.com，快照 2026-10-29）：Carritech | Your Complete Telecoms Network Support Provider
 - **是谁**：英国 Carritech（电信设备供应商：「主要是光模块，有一些 MC」；官网 http_error）；表内 2 次跟进无回复。
 - **类型**：电信设备/光模块供应商（英国，MC 为副线）
 - **【用户表】表内兴趣/备注**
@@ -120,10 +121,11 @@ updated: 2026-10-29
   > 主要是光模块 有一些MC
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Miguel Asín Barcos（Director / PSC / Sales Director（2011 起；Madrid；Companies House 07260202）= 收件点名；创始董事 Bruce Iain Sutherland（2010）（第 102 批 官方登记核实 2026-10-28）） 〔〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/deep/facts。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -142,14 +144,20 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-110GE（20% 档）——MC 副线 → 工业千兆 MC STI-110GE（$22.4 @20%）、PoE MC STI-111GP（$27.8）；光模块 Saga 不供
 - **邮件切入句（英文）**：For the media converters you offer alongside optics, we supply neutral-brand industrial gigabit and PoE MCs (−40~75 °C, CE/RoHS/UKCA) from single units, EXW USD — which MC configuration do your telecom customers order most?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：HTTP 错误）
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
 
-- 尝试域名：carritech.com
-  > https://carritech.com/ http 403 ct=text/html; charset=utf-8
-  > https://www.carritech.com/ http 403 ct=text/html; charset=utf-8
-  > http://carritech.com/ http 403 ct=text/html; charset=utf-8
-- **提示**：抓取失败不代表公司不在；人工打开一次即可。
-- 数据文件：`data/saga_clients/site_snapshots/SB-590.json`
+- **首页**：https://carritech.com/　语言：en-GB　站点地图 URL 数：235
+- **标题**：Carritech / Your Complete Telecoms Network Support Provider
+- **描述**：At Carritech, we offer a wide range of network support services, designed to extend the life of your telecommunications network.
+- **首页栏目**：Keep your network running. Turn surplus equipment into value. / We keep telecom equipment working, and recover its value when it's retired. / Keep your network running / Turn surplus equipment into value / Equipment one operator retires is the spare part another still needs. / Find the equipment already in your network. / Real networks, real outcomes. / Remote L3 technical support on a Nokia transmission network
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：switch 43、telecom 31、ethernet 2、fibre 1
+- **站内公开电话**：+34 915 511 534, +44 203 006 1170
+- **社媒**：https://www.facebook.com/Carritech-271429599884265/, https://www.linkedin.com/company/1678487/, https://www.youtube.com/@carritech1036
+- **产品类页面**：https://carritech.com/pstn-switch-off-legacy-support/；https://carritech.com/telecom-products/；https://carritech.com/telecom-products/latest-stock/；https://carritech.com/evolution-nokia-7750-sr-products/；https://carritech.com/telecom-repair-services/repairable-products/；https://carritech.com/telecom-network-support/supported-technologies-products/
+- **已抓子页**：[Routing & Switching / Supported Products / Carritech](https://carritech.com/products/routing-switching/)；[Routing & Switching / Supported Products / Carritech](https://carritech.com/products/routing-switching/)；[Core Network / Carritech](https://carritech.com/products/core-network/)；[Access Network / Carritech](https://carritech.com/products/access-network/)；[Transport Network / Carritech](https://carritech.com/products/transport-network/)
+- 首页正文摘录：Skip to content Keep your network running. Turn surplus equipment into value. Carritech provides technical support, equipment supply and repair for telecom networks — and recovers, redeploys and responsibly recycles equipment when it is no longer required. Explore Our Services → Talk to Carritech 200k+ parts in stock 16+ years supporting networks since 2010 100+ countries served worldwide 1,000+ tonnes of e-waste rec
+- **自动对位建议**：STC-424XGGM（官网快照对位：电信/FTTH 词频 31 → 汇聚 24 GE + 4×10G；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-590.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -181,7 +189,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-27T08:02:45Z
+- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-27T08:02:45Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-590/`；本节随档案重渲染刷新，实时看日志。
 
@@ -262,7 +270,6 @@ updated: 2026-10-29
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
 - [ ] 采购/产品负责人姓名（表内只有公司级邮箱）
-- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

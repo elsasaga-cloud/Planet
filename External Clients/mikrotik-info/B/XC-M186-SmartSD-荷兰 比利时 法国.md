@@ -1,6 +1,6 @@
 # XC-M186 · SmartSD · 荷兰/比利时/法国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 安防分销 20%：SmartSD B.V.（Breda Minervum 7118；KvK 24430056；51–100 人；NL + BeLux + 西班牙 SmartSD Hommax）坐实；ComNet 授权 → PoE / 工业对位；info@smartsd.com） ｜ 来源 mikrotik-info `C-121`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（X1-02 2026-10-29）→ 下一动作 不动
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XC 三闸捞出 → B（Simon U128「直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 安防分销 20%：SmartSD B.V.（Breda Minervum 7118；KvK 24430056；51–100 人；NL + BeLux + 西班牙 SmartSD Hommax）坐实；ComNet 授权 → PoE / 工业对位；info@smartsd.com） ｜ 来源 mikrotik-info `C-121`（原评级 C，阶段 未触达） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 不动
 >
 > **C 池三闸筛选（External 同法，`data/external_clients/sieve_x.json`）：★ P 池 · 正式入池**（闸 3 · G3 · 2026-10-29）：★ 安防分销 20%：SmartSD B.V.（Breda Minervum 7118；KvK 24430056；51–100 人；NL + BeLux + 西班牙 SmartSD Hommax）坐实；ComNet 授权 → PoE / 工业对位；info@smartsd.com
 
@@ -47,12 +47,13 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，X1-02，2026-10-29）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XC** — X1-02 补路径：★ 安防分销 20%：SmartSD B.V.（Breda Minervum 7118；KvK 24430056；51–100 人；NL + BeLux + 西班牙 SmartSD Hommax）坐实；ComNet 授权（等级不动，池位见 sieve_x）
-- 活着吗：2026-10-29 检索命中官网 / 名录（在线）
+- 活着吗：在线（smartsd.com，快照 2026-10-29）：SmartSD is a Security distributor - SmartSD
 - 一句话：SmartSD B.V.：安防分销（视频 / 门禁 / 入侵 / 消防；ComNet 授权）；51–100 人；中型
 - 是什么人：分销（ComNet 授权）；SmartSD B.V.
+- 在卖/在用：Hikvision、Dahua、Bosch、Pulsar、Hanwha、Netgear、EtherWAN、ComNet、Vivotek、Axis、Ajax
 - 对口哪条线：Saga STI 工业 / SmartByte 商用 PoE — ★ 安防分销 20%：SmartSD B.V.（Breda Minervum 7118；KvK 24430056；51–
 - 找得到人吗：info@smartsd.com（官网 / 名录公开（X1-02 补路径））；KP：无具名
 - 已触达：未触达（路径 2026-10-29 新补）
@@ -65,5 +66,7 @@
 | 官网 / 名录 | 官网隐私页：SmartSD · info@smartsd.com · NL +31 76 579 2577 · BeLux · SmartSD Hommax 西班牙 |  | https://smartsd.com/nl/p/privacy-statement | 2026-10-29 |
 | 官网 / 名录 | Crunchbase：SmartSD B.V. · Breda · 51–100 · info@smartsd.com |  | https://www.crunchbase.com/organization/smartsd | 2026-10-29 |
 | 官网 / 名录 | Drimble：SmartSD B.V. · KvK 24430056 · Minervum 7118 Breda |  | https://drimble.nl/bedrijf/breda/19040768/smartsd-bv.html | 2026-10-29 |
+| 官网快照 | 官网在线；SmartSD is a Security distributor - SmartSD | SmartSD is a Security distributor - SmartSD | https://smartsd.com/en | 2026-10-29 |
 
-- 备注：SmartSD B.V.；Minervum 7118, Breda（+ SmartSD Hommax 西班牙 Picanya；BeLux）；KvK 24430056；+31 76 579 2577
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/brands_seen/contacts.page/evidence/site_p1_hint。
+SmartSD B.V.；Minervum 7118, Breda（+ SmartSD Hommax 西班牙 Picanya；BeLux）；KvK 24430056；+31 76 579 2577

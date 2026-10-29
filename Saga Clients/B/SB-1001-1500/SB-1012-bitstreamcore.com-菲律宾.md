@@ -25,7 +25,7 @@ s_mail: 3 msgs (out 3 / in 0), 2025-02-11 -> 2025-05-01
 p1: STI-220GE
 price_tier: 25%
 research: done
-site_snapshot: timeout  # 2026-10-21
+site_snapshot: timeout  # 2026-10-29
 sources: 1
 updated: 2026-10-29
 ```
@@ -64,6 +64,7 @@ updated: 2026-10-29
 | 2026-05-05 | out | Elsa → ieviola@bitstreamcore.com | 10G Enterprise SFP Switch（Elsa 1:1 逐月名单第 7/8 轮；To 仅本户；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | 第 74 批(n) `from:e.sagatelecom to:bitstreamcore.com` 全程 complete：8 轮直收（头 msg 19fd4cc8158c0427 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
 | 2026-08-06 | out | Elsa → ieviola@bitstreamcore.com | 24 Port PoE Managed Switch（Elsa 1:1 逐月名单第 8/8 轮；To 仅本户；正文 Price: 170USD/PC） | 第 74 批(n) `from:e.sagatelecom to:bitstreamcore.com` 全程 complete：8 轮直收（头 msg 19fd4cc8158c0427 无 Bcc，称呼「Hi,」）；0 回 | `elsa_1to1` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：两光两电。sfp 主要对SFP感兴趣 | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：bitstreamcore.com MX mail.h-email.net.；A 104.247.81.99；NS ns1.parkingcrew.net. / ns2.parkingcrew.net. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -123,7 +124,8 @@ updated: 2026-10-29
   > 兴趣：两光两电。sfp 主要对SFP感兴趣
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Engr. Lito E. Viola（General Manager（研究档）= 收件人 — 一页纸一次：集成商 25% B、2 光 2 电 → STC-228GP / STC-028GP + STI-154GP 一口价 + 付费样机；SFP 不做明说 — 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉、NTC 不声称（第 120 批 官方登记核实 2026-10-29））ieviola@bitstreamcore.com 〔（本地 Clients/ 表格，无公开 URL）〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
+LT-T03 官网快照加厚（2026-10-21）：fail#1。
 （无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照超时 + 表内））
@@ -139,7 +141,7 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STI-220GE（25% 档）——2 光 2 电 → STI-220GE（$29.0 @25%）；SFP 不供（Q-32）。
 - **邮件切入句（英文）**：Engr. Viola, the 2-SFP + 2-copper industrial mini is $29 EXW (1 pc); we don't sell SFP modules on their own, but can fit tested 20 km modules into switch orders on request.
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：超时（站慢或封锁））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：超时（站慢或封锁））
 
 - 尝试域名：bitstreamcore.com
   > https://bitstreamcore.com/ conn: HTTPSConnectionPool(host='bitstreamcore.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError
@@ -174,7 +176,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1012/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |

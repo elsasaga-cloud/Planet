@@ -23,7 +23,7 @@ s_mail: 23 msgs (out 23 / in 0), 2024-07-10 -> 2026-09-18
 p1: STC-28DGGPM
 price_tier: 20%
 research: done
-site_snapshot: timeout  # 2026-10-21
+site_snapshot: ok  # 2026-10-29
 sources: 2
 updated: 2026-10-29
 ```
@@ -35,7 +35,7 @@ updated: 2026-10-29
 - **历史互动**：推送 16 次（2024-05-14 → 2025-11-25）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 丰润达在供 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-26 $300（48 Port PoE Managed Switch）、2024-12-25 $240（24 Port Fiber Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-13 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
-- **最大未知**：官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
+- **最大未知**：年走量与现供应商
 - **下一步**：不动 — 首封前知悉：Elsa 2025-02 已 1:1 发过「90W PoE Managed Switch」给 sales@hunters-wholesalers.co.uk（0 回），开头按 ㉝ 带一句「we wrote once in Feb 2025 about X, no reason you'd have replied」，别当完全陌生。 —
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-25）
@@ -54,6 +54,7 @@ updated: 2026-10-29
 | 2025-02-24 | 去 | Elsa 1:1 去信（To sales@hunters-wholesalers.co.uk） | 90W PoE Managed Switch — Marvell L2 managed PoE, programmable GUI, 2×PoE af/at/bt + 6×PoE af/at, 240W, PoE management（稿内无价，第 74 批(p) 已读稿） | Elsa 箱 in:sent 按国别后缀探测（to:.de/.uk/.pl/.cz）命中：2025-02 Elsa 开箱头两周的逐户单发，无称呼；Elsa Replied 线程 0、来询未回清单 0 → 0 回；S/A digest 看不到这封 | `elsa_1to1` |
 | 2026-09-18 | 去 | A/S 群发 | 10G Enterprise SFP Switch、Marvell Alleycat5 Solution | 23 封 / 0 次打开 / 0 回｜首封 2024-07-10 → 末封 2026-09-18（23 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 分销商 商业PoE 有润丰达的 | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Hunters Wholesalers — SSED ltd T/A Hunters Wholesalers | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -125,7 +126,7 @@ updated: 2026-10-29
 
 ## 客户调研（网页核实 · 引文 + URL + 日期）
 
-- **状态：已调研（2026-10-21）**　网站状态：快照失败（hunters-wholesalers.co.uk：超时（站慢或封锁），2026-10-21，第 1 次）
+- **状态：已调研（2026-10-21）**　网站状态：在线（hunters-wholesalers.co.uk，快照 2026-10-29）：Hunters Wholesalers
 - **是谁**：英国 Hunters Wholesalers（电气/安防批发分销商；表内「分销商 商业 PoE 有润丰达（丰润达）的」「可以多跟进一下」；官网 timeout）；群发 16 次无回复。
 - **类型**：电气/安防批发商（英国，PoE 现丰润达，Q-33 口径）
 - **在卖/在用品牌**：丰润达
@@ -136,10 +137,11 @@ updated: 2026-10-29
   > 分销商 商业PoE 有润丰达的；可以多跟进一下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Harjinder Narula（联系人 / 负责人（construction.co.uk；董事身份未核；SSED Ltd T/A Hunters Wholesalers）= 收件人（sales@ 点名）（第 101 批 官方登记核实 2026-10-28））sales@hunters-wholesalers.co.uk 〔〕
-- 备注：LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/deep/facts。
+LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
-### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
+### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-10-29））
 
 | 公司事实 | 内容 |
 |---|---|
@@ -158,14 +160,19 @@ updated: 2026-10-29
 - **Saga 对位结论**：P1 STC-28DGGPM（20% 档）——丰润达在供 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）
 - **邮件切入句（英文）**：For the managed PoE switch position in your wholesale range, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS/UKCA, EXW USD — which PoE port count do your trade customers buy most?
 
-### 官网快照（自动摘要 · 抓取 2026-10-21 · 状态：超时（站慢或封锁））
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：在线）
 
-- 尝试域名：hunters-wholesalers.co.uk
-  > https://hunters-wholesalers.co.uk/ timeout
-  > https://www.hunters-wholesalers.co.uk/ timeout
-  > http://hunters-wholesalers.co.uk/ timeout
-- **提示**：抓取失败不代表公司不在；人工打开一次即可。
-- 数据文件：`data/saga_clients/site_snapshots/SB-390.json`
+- **首页**：https://hunters-wholesalers.co.uk/　语言：en　站点地图 URL 数：0
+- **标题**：Hunters Wholesalers
+- **描述**：SSED ltd T/A Hunters Wholesalers
+- **关键词词频**（首页 + 产品子页，子串计数，仅作画像）：cable 238、cctv 219、camera 133、wireless 119、access control 56、wholesale 55、hikvision 38、poe 26、switch 25、ethernet 15、fiber 7、fibre 7
+- **站内型号串**（正则抽取，含非交换机）：CIE-A-200, DA1007-EX-4, ANP08B-P, SAC551C-CK, DS-D5022F2-1V2S, SELW-R433, AC1200, ALL-SPEC2-SL, DA314-1K-1K, DS-D5019S0-1P0, DS-D5222F2-1V1S, DS-D5027F3-2P2S
+- **站内公开邮箱**：donate@opencart.com, sales@hunters-wholesalers.co.uk
+- **社媒**：https://twitter.com/huntersfss, https://www.facebook.com/hunterswholesalers/
+- **已抓子页**：[ANP08B-P, Mini Case 1080p 8-ch Network Video Recorder - 8 Po](https://www.hunters-wholesalers.co.uk/product/anp08b-p-mini-case-1080p-8-ch-network-video-recorder-8-port-poe?language=en-gb)；[DA1007-EX-4, 4x30W Port midspan PoE injector With 7Ah VRLA B](https://www.hunters-wholesalers.co.uk/product/dantech-da1007-ex-4-exterior-7ah-midspanups-4-x-30w-poe-injector?language=en-gb)；[Radiocontact, 433/ANT/5, 433MHz Long Range Yagi Antenna](https://www.hunters-wholesalers.co.uk/product/radiocontact-433-ant-5-433mhz-long-range-yagi-antenna?language=en-gb)；[Knight Plastics, D60, 5 Screw Single Reed Normally Open Surf](https://www.hunters-wholesalers.co.uk/product/knight-plastics-d60-5-screw-single-reed-normally-open-surface-contact-g1?language=en-gb)；[Knight Plastics, YA40, Fully Sealed Flush Contact with Multi](https://www.hunters-wholesalers.co.uk/product/knight-plastics-ya40-fully-sealed-flush-contact-with-multiple-resistor-grade-3?language=en-gb)；[CCTV](https://www.hunters-wholesalers.co.uk/catalog/cctv?language=en-gb)
+- 首页正文摘录：Security, Fire and Alarm Systems, CCTV and Electronic Security Wholesalers and Suppliers Enquiry Cart Wish List (0) Checkout £ Currency € Euro £ Pound Sterling $ US Dollar Filter By Categories Alarm Systems Burglar Intruder Alarm systems Alarm Control Panels Hunter Special Brands Hybrid Alarm System Wired Alarm System Kits Wireless Alarm Systems Alarm Detectors Vanderbilt Intrusion Detection Bell Boxes and Sounders G
+- **自动对位建议**：STC-424DGGPM-280W（官网快照对位：PoE 词频 26、监控 353 → 24 口 PoE L2+ 走量款；仅在无人工对位时作为 P1）
+- 数据文件：`data/saga_clients/site_snapshots/SB-390.json`（原始摘要）；来源 GitHub Actions `saga-clients-snapshot` 抓取，仅公开页面。
 
 ## 在卖/在用品牌 → Saga 对位
 
@@ -219,7 +226,7 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-390/`；本节随档案重渲染刷新，实时看日志。
 
@@ -299,7 +306,6 @@ updated: 2026-10-29
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
-- [ ] 官网当前状态异常（超时（站慢或封锁））——公司是否仍在运营待核
 - [ ] 年走量与现供应商
 
 ## 英文跟进邮件（样板 · 可直接发送）

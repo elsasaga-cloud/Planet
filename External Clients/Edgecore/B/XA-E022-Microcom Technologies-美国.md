@@ -1,6 +1,6 @@
 # XA-E022 · Microcom Technologies · 美国
 
-> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 Edgecore `B-046`（原评级 B，阶段 01-bounced-primary） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（W1-R01 2026-10-27）→ 下一动作 首触
+> **现判 XB 慢慢跟进** ｜ 人工改级 2026-10-29：B（Q-76 LT-01 2026-10-29：XA → B 普通跟（长期群 A = 真人往来 / 成单证据；外部库无往来）；原 XA 优先级留痕 x_prio） ｜ 来源 Edgecore `B-046`（原评级 B，阶段 01-bounced-primary） ｜ 导入 2026-10-27 ｜ 研究状态：已研究（LT-T03 2026-10-29）→ 下一动作 首触
 
 ## 1. 初判与理由
 - 初判：**XA** — 主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱
@@ -104,10 +104,10 @@
 - 报价规则：SmartByte CNY 成本 +20/25/30%（分销 20 / 集成 25 / OEM 30）→ USD；报价前查 `data/价格主表.csv` / `_HRUI.csv`；格式 `$xx USD EXW（快照日期，15 天有效）`
 - 对外材料：英文；不写电话；不提供应商/客户/同行名；证书按国别（CE/RoHS/FCC/UKCA/EAC…）
 
-## 8. 研究卡（第 2 步，W1-R01，2026-10-27）
+## 8. 研究卡（第 2 步，LT-T03，2026-10-29）
 
 - **结论：XA** — 美国 Cambium 分销商，PoE 交换机是其无线项目的必配且现在只有 cnMatrix 可卖；首封从未到达 → 换新域首触
-- 活着吗：活；官网域已从 microcom.us 迁到 microcomtec.com（LinkedIn/RocketReach/Craft 均列新域）
+- 活着吗：在线（microcomtec.com，快照 2026-10-29）：Untitled Document
 - 一句话：加州 Calabasas 的无线网络产品库存批发分销商（1999 起，31–48 人，$18.6–18.9M），Cambium 北美分销（2017 签）、Aruba、Algo 官方分销；客户是 VAR/SI/顾问。两封旧域地址 10-24 均退信 = 没碰到。
 - 是什么人：无线/网络产品批发分销商（Cambium 北美分销）；规模：31–48 人；$18.6–18.9M
 - 在卖/在用：Cambium Networks、Aruba、Algo、Coax-Seal
@@ -124,6 +124,7 @@
 | Stock in the Channel | Official Distributor for Algo, Aruba Networks, Cambium Networks |  | https://us.stockinthechannel.com/Distributor/Microcom-Technologies/549 | 2026-10-27 |
 | RocketReach | Website microcomtec.com；Revenue $18.6M；31 人 |  | https://rocketreach.co/microcom-technologies-profile_b5c8497ef42e34f8 | 2026-10-27 |
 | 来源库跟进 | 2026-10-24 sales@microcom.us / info@microcom.us 均 Address not found |  | External Clients/Edgecore/A/XA-E022 | 2026-10-24 |
+| 官网快照 | 官网在线；Untitled Document | Untitled Document | https://microcomtec.com/ | 2026-10-29 |
 
 草稿（英文，首触；Simon 发，Agent 不发）：
 
@@ -142,4 +143,5 @@ Simon
 Saga Telecom - sagatele.com
 ```
 
-- 备注：若 sales@microcomtec.com 也退信，下一步只能电话；不要再用 microcom.us。
+- 备注：LT-T03 官网快照加厚（2026-10-29）：alive/evidence。
+若 sales@microcomtec.com 也退信，下一步只能电话；不要再用 microcom.us。
