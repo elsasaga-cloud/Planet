@@ -84,7 +84,7 @@
 ## 8. 研究卡（第 2 步，W1-R03，2026-10-27）
 
 - **结论：XB** — 小项目集成商/系统之家（Allied Telesis 伙伴名录批量导入），非渠道；9–10 月已发未回 → B 慢慢跟进（不进第二封）
-- 活着吗：来源库 2026-09-27 核对在线；本轮未复查
+- 活着吗：域名修正为 human-art.de（原 humanart-kyocera.de 是邮箱用户名 / 注释 / 旧域）；DNS 2026-10-29 MX + A 正常；官网快照待 Actions 补抓
 - 一句话：IT 系统之家（Berlin，Integrate Elite）；Marvell Prestera 接入层切入
 - 是什么人：IT 系统之家（Berlin，Integrate Elite）；规模：未量化
 - 在卖/在用：Allied Telesis（Marvell Prestera 接入层）
@@ -97,6 +97,8 @@
 证据：
 | 类型 | 说明 | 摘录 | 来源 | 日期 |
 |---|---|---|---|---|
-| 来源库官网/名录核对 | 伙伴等级：Integrate Elite, Resell。 【2026-09-27 联系方式核验】公开邮箱·一方/伙伴来源。企业自营 Kyocera 站点公开 vertrieb(at)human-art.de，规范化为 @；Berlin 地址及法人全名相符。 来源：[3](https://www.humanart-kyocera.de/human-art/wir-ueber-uns) |  | https://humanart-kyocera.de/ | 2026-09-27 |
+| 来源库官网/名录核对 | 伙伴等级：Integrate Elite, Resell。 【2026-09-27 联系方式核验】公开邮箱·一方/伙伴来源。企业自营 Kyocera 站点公开 vertrieb(at)human-art.de，规范化为 @；Berlin 地址及法人全名相符。 来源：[3](https://www.humanart-kyocera.de/human-art/wir-ueber-uns) |  | https://human-art.de/ | 2026-09-27 |
+| 域名修正 | 记录域名 humanart-kyocera.de → human-art.de（LT-X01 2026-10-29：humanart-kyocera.de 不存在（NXDOMAIN 2026-10-29）；邮箱域 human-art.de 为现行域）；DNS 2026-10-29 MX + A 正常 | domain_prev=humanart-kyocera.de | https://human-art.de/ | 2026-10-29 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：LT-X01b 域名修正同步（2026-10-29）：humanart-kyocera.de → human-art.de。
+轻卡：本轮未外查，沿用来源库官网/名录核对。

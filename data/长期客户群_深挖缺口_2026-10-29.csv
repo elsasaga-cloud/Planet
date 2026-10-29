@@ -166,7 +166,7 @@ Saga,SB-077,Liveye,德国,A,加厚（官网 / 登记核对）,已坐实,有（ok
 Saga,SB-078,Sitis Sarl,瑞士,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-079,cansisteknoloji.com,土耳其,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,失败（timeout）,ok,有,有,已过·登记 + 加厚,—,官网快照
 Saga,SB-081,dabos.com,美国,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,失败（http_error）,ok,有,有,已过·登记 + 加厚,—,官网快照
-Saga,SB-082,voltechelektronik.com,土耳其,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,失败（unreachable）,nxdomain,有,有,已过·登记 + 加厚,—,官网快照；邮箱域异常（nxdomain）
+Saga,SB-082,voltechelektronik.com,土耳其,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,失败（unreachable）,nxdomain,有,有,留 B·LT-R09,—,官网快照；邮箱域异常（nxdomain）
 Saga,SB-083,"MERIT LILIN ENT. CO., LTD.",台湾,A,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-084,"AD-NET TECHNOLOGY CO., LTD.",台湾,A,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-085,DIGI Group,美国,A,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
@@ -225,7 +225,7 @@ Saga,SB-1033,garmasl.com,西班牙,B,加厚（官网 / 登记核对）,部分坐
 Saga,SB-1034,gogss.com,美国,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,失败（http_error）,ok,有,有,已过·登记 + 加厚,—,官网快照
 Saga,SB-1035,gponnetwork.com,新加坡,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-1036,grinsrl.it,意大利,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
-Saga,SB-1037,hightrade-international.com,法国,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,有（ok）,dead,有,有,已过·登记 + 加厚,—,邮箱域异常（dead）
+Saga,SB-1037,hightrade-international.com,法国,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,有（ok）,ok,有,有,留 B·LT-R09,—,齐
 Saga,SB-1038,icecom.is,冰岛,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-1039,ico.de,德国,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-104,STS Italia S.r.l.,意大利,B,加厚（官网 / 登记核对）,已坐实,失败（parked_or_empty）,ok,有,有,留 B·LT-R05S,—,官网快照
@@ -274,7 +274,6 @@ Saga,SB-1078,solimedia.net,加拿大,B,加厚（官网 / 登记核对）,部分�
 Saga,SB-1079,spesaelettrica.it,意大利,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-108,gwsecurityusa.com,美国,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-1080,sphinxcomputer.de,德国,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
-Saga,SB-1081,sswmcctvshop.com,泰国,B,加厚（官网 / 登记核对）,已坐实,失败（unreachable）,nxdomain,有,有,已过·登记 + 加厚,—,官网快照；邮箱域异常（nxdomain）
 Saga,SB-1082,standardaudio.se,瑞典,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-1083,systemfabricworks.com,美国,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,有（ok）,ok,有,有,留 B·LT-R04,—,齐
 Saga,SB-1084,targoncavilla.com,匈牙利,B,加厚（官网 / 登记核对）,已坐实,失败（timeout）,ok,有,无,已过·登记 + 加厚,—,官网快照；具名 KP
@@ -294,10 +293,10 @@ Saga,SB-1096,westpennwire.com,美国,B,加厚（官网 / 登记核对）,部分�
 Saga,SB-1097,yatun.cz,捷克,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-1098,zintronic.pl,波兰,B,加厚（官网 / 登记核对）,已坐实,失败（http_error）,ok,有,有,已过·登记 + 加厚,—,官网快照
 Saga,SB-1099,zxtech.co,英国,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
-Saga,SB-110,itkati.com,乌干达,A,加厚（官网 / 登记核对）,部分坐实（无登记号）,失败（unreachable）,nxdomain,有,有,已过·登记 + 加厚,—,官网快照；邮箱域异常（nxdomain）
+Saga,SB-110,itkati.com,乌干达,A,加厚（官网 / 登记核对）,部分坐实（无登记号）,失败（unreachable）,nxdomain,有,有,留 B·LT-R09,—,官网快照；邮箱域异常（nxdomain）
 Saga,SB-1100,IT Broadcast & Cyber Security Infra System,印度尼西亚,B,仅表内 / 邮件证据（无域名）,已坐实,无,无域名,有,有,留 B·LT-R05S,—,齐
 Saga,SB-1102,vienthonggiatot.com,越南,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,留 B·LT-R05S,—,齐
-Saga,SB-1103,ara.com.bd,孟加拉国,A,加厚（官网 / 登记核对）,部分坐实（无登记号）,失败（unreachable）,nxdomain,有,有,已过·登记 + 加厚,—,官网快照；邮箱域异常（nxdomain）
+Saga,SB-1103,ara.com.bd,孟加拉国,A,加厚（官网 / 登记核对）,部分坐实（无登记号）,失败（unreachable）,nxdomain,有,有,留 B·LT-R09,—,官网快照；邮箱域异常（nxdomain）
 Saga,SB-1104,Agility Elektrotekniks Pvt Ltd,印度,B,仅表内 / 邮件证据（无域名）,已坐实,无,无域名,有,有,留 B·LT-R05S,—,齐
 Saga,SB-1105,Suraj Katte,印度,B,仅表内 / 邮件证据（无域名）,部分坐实（无登记号）,无,无域名,无,有,已过·登记 + 加厚,—,邮箱
 Saga,SB-1108,Sunmars Enterprises,巴基斯坦,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,失败（http_error）,ok,无,有,留 B·LT-R05S,—,官网快照；邮箱
@@ -409,7 +408,7 @@ Saga,SB-190,A Hamson Middle East FZE,阿联酋,B,加厚（官网 / 登记核对�
 Saga,SB-191,Astkom,俄罗斯,B,加厚（官网 / 登记核对）,已坐实,无,无域名,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-192,Core and Clad,巴林,B,仅表内 / 邮件证据（无域名）,已坐实,无,无域名,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-193,Dema Vertriebs GmbH,德国,A,加厚（官网 / 登记核对）,已坐实,无,ok,有,有,已过·登记 + 加厚,—,官网快照
-Saga,SB-194,SRI ANNAI BUSINESS ASSOCIATES,印度,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,失败（unreachable）,nxdomain,有,有,已过·登记 + 加厚,—,官网快照；邮箱域异常（nxdomain）
+Saga,SB-194,SRI ANNAI BUSINESS ASSOCIATES,印度,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,失败（unreachable）,nxdomain,有,有,留 B·LT-R09,—,官网快照；邮箱域异常（nxdomain）
 Saga,SB-195,bkgrupe.lt,立陶宛,B,加厚（官网 / 登记核对）,已坐实,失败（http_error）,ok,有,有,留 B·LT-R04,—,官网快照
 Saga,SB-196,extradigital.eu,立陶宛,B,加厚（官网 / 登记核对）,已坐实,失败（http_error）,ok,有,有,已过·登记 + 加厚,—,官网快照
 Saga,SB-197,intellisystem.it,意大利,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,有（ok）,ok,有,有,留 B·LT-R05S,—,齐
@@ -522,7 +521,7 @@ Saga,SB-306,Digital systems,印度,A,仅表内 / 邮件证据（无域名）,部
 Saga,SB-307,Saxco Marketing Sdn Bhd,马来西亚,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,失败（http_error）,ok,有,有,已过·登记 + 加厚,—,官网快照
 Saga,SB-308,alconlink.com,印度,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-309,alternetivo.cz,捷克,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
-Saga,SB-310,arcanlibya.com,利比亚,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,有（ok）,dead,有,有,已过·登记 + 加厚,—,邮箱域异常（dead）
+Saga,SB-310,arcanlibya.com,利比亚,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,有（ok）,ok,有,有,留 B·LT-R09,—,齐
 Saga,SB-311,dipolnet.cz,捷克,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-312,fibercomtelecoms.com,菲律宾,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-313,intellcom.net,格鲁吉亚,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
@@ -753,7 +752,7 @@ Saga,SB-541,kbcnetworks.com,美国,B,加厚（官网 / 登记核对）,部分坐
 Saga,SB-542,lanopia.de,德国,A,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-543,luetze.com,德国,B,加厚（官网 / 登记核对）,已坐实,失败（http_error）,ok,有,有,已过·登记 + 加厚,—,官网快照
 Saga,SB-544,makonetworks.com,美国,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
-Saga,SB-545,mreit.co.kr,韩国,B,加厚（官网 / 登记核对）,已坐实,有（ok）,nxdomain,有,有,已过·登记 + 加厚,—,邮箱域异常（nxdomain）
+Saga,SB-545,mreit.co.kr,韩国,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,留 B·LT-R09,—,齐
 Saga,SB-546,ness.com.au,澳大利亚,B,加厚（官网 / 登记核对）,已坐实,失败（unreachable）,ok,有,有,已过·登记 + 加厚,—,官网快照
 Saga,SB-547,netinet.pl,波兰,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-548,netsys-direct.com,美国,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,有（ok）,ok,有,无,已过·登记 + 加厚,—,具名 KP
@@ -874,7 +873,6 @@ Saga,SB-666,mavialarm.com.tr,土耳其,B,加厚（官网 / 登记核对）,部�
 Saga,SB-667,mgt.bayern,德国,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,留 B·LT-R04,—,齐
 Saga,SB-669,mnsbilisim.com,土耳其,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,有（ok）,ok,有,有,留 B·LT-R04,—,齐
 Saga,SB-670,monkas.com.tr,土耳其,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,有（ok）,ok,有,有,留 B·LT-R04,—,齐
-Saga,SB-671,my-tec.co,伊拉克,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,失败（unreachable）,nxdomain,有,有,留 B·LT-R05S,—,官网快照；邮箱域异常（nxdomain）
 Saga,SB-672,netshieldsa.com,南非,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-673,nodactechnology.com,美国,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,留 B·LT-R04,—,齐
 Saga,SB-674,noxel.pl,波兰,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,留 B·LT-R04,—,齐
@@ -923,7 +921,6 @@ Saga,SB-716,radioparts.com.au,澳大利亚,B,加厚（官网 / 登记核对）,�
 Saga,SB-717,skyware.com.hk,香港,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-718,teksarf.com,土耳其,B,仅表内 / 邮件证据（无域名）,部分坐实（无登记号）,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-719,trioms.com,新加坡,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,无,已过·登记 + 加厚,—,具名 KP
-Saga,SB-720,unitech-shop.ru,俄罗斯,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,失败（unreachable）,nxdomain,有,有,已过·登记 + 加厚,—,官网快照；邮箱域异常（nxdomain）
 Saga,SB-721,woodcomm.ie,爱尔兰,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-722,Aptvel global technologies,阿联酋,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-723,BİLGEN ELEKTRONİK,土耳其,B,仅表内 / 邮件证据（无域名）,部分坐实（无登记号）,无,无域名,无,有,已过·登记 + 加厚,—,邮箱
@@ -1089,7 +1086,6 @@ Saga,SB-888,stordis.com,德国,B,加厚（官网 / 登记核对）,已坐实,失
 Saga,SB-889,teamon.com.tr,土耳其,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-890,technopc.com.tr,土耳其,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-891,techpoint-gmbh.de,德国,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,留 B·LT-R04,—,齐
-Saga,SB-892,telcofusion.com.mx,墨西哥,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,失败（unreachable）,nxdomain,有,有,已过·登记 + 加厚,—,官网快照；邮箱域异常（nxdomain）
 Saga,SB-893,trassir.ru,俄罗斯,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-894,video-svp.ru,俄罗斯,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-895,vilcom.ru,俄罗斯,B,加厚（官网 / 登记核对）,已坐实,失败（timeout）,ok,有,有,已过·登记 + 加厚,—,官网快照
@@ -1140,7 +1136,7 @@ Saga,SB-940,cominet.co.kr,韩国,B,加厚（官网 / 登记核对）,部分坐�
 Saga,SB-941,comptek.kz,哈萨克斯坦,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-942,dmtrade.pl,波兰,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-943,dorani.com.au,澳大利亚,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,留 B·LT-R04,—,齐
-Saga,SB-944,fybera.com,比利时,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,失败（unreachable）,dead,有,无,已过·登记 + 加厚,—,官网快照；邮箱域异常（dead）；具名 KP
+Saga,SB-944,fybera.com,保加利亚,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,失败（unreachable）,dead,有,无,留 B·LT-R09,—,官网快照；邮箱域异常（dead）；具名 KP
 Saga,SB-945,grep.sg,新加坡,B,加厚（官网 / 登记核对）,部分坐实（无登记号）,失败（http_error）,ok,有,有,已过·登记 + 加厚,—,官网快照
 Saga,SB-946,intrising.com.tw,台湾,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
 Saga,SB-947,ison-tech.com,台湾,B,加厚（官网 / 登记核对）,已坐实,有（ok）,ok,有,有,已过·登记 + 加厚,—,齐
@@ -1511,7 +1507,7 @@ External,XB-C1317,Pure Signal,沙特,B,桌面卡,无,无,ok,有,无,留B·LT-R07
 External,XB-E001,ООО NAGTECH (NAG Uzbekistan),乌兹别克斯坦,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-E001,Deca Consulting,比利时,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-E002,Circle B（Taurus Group 旗下）,荷兰,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
-External,XB-E002,Mart Networks（Kenya/Tanzania/Uganda/Rwanda 四国体系）,肯尼亚（东非）,B,桌面卡,无,无,nxdomain,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数；邮箱域异常（nxdomain）
+External,XB-E002,Mart Networks（Kenya/Tanzania/Uganda/Rwanda 四国体系）,肯尼亚（东非）,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-E003,CELERIS Informatique,法国,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XC-E003,Pine Networks,法国,B,桌面卡,无,无,ok,有,有,随主档,Saga SC-345,官网快照 + 加厚；登记底数
 External,XB-E004,Soliton Telmec Limited,肯尼亚,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
@@ -1524,7 +1520,7 @@ External,XB-E010,"Positron Multiverse Co., Ltd",柬埔寨,B,桌面卡,无,无,ok
 External,XB-E013,DataOne Solutions Sdn Bhd,马来西亚,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XB-E014,Tech Trad Solution Sdn Bhd,马来西亚,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XB-E015,VESC Solution Sdn. Bhd.,马来西亚,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
-External,XB-E016,"AI TECH CO., Ltd",韩国,B,桌面卡,无,无,nxdomain,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数；邮箱域异常（nxdomain）
+External,XB-E016,"AI TECH CO., Ltd",韩国,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XB-E017,"DONGIL TECH Co., Ltd",韩国,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XB-E018,"DS&G Co., Ltd.",韩国,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XB-E019,INFO-A Inc,韩国,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
@@ -1566,13 +1562,13 @@ External,XB-E047,MBUZZ,沙特/阿联酋,B,桌面卡,无,无,ok,有,有,留B·LT-
 External,XB-E048,ScaleIL LTD,以色列,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XB-E049,NETSOFT SOLUTIONS,巴基斯坦,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
 External,XC-E018,STARCOM Technologies,巴基斯坦,B,桌面卡,无,无,ok,有,有,随主档,Saga SC-3149,官网快照 + 加厚；登记底数
-External,XB-E050,PT. Krida Hasta Tama,印尼,B,桌面卡,无,无,no_mx,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
+External,XB-E050,PT. Krida Hasta Tama,印尼,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XB-E052,E-TECH IT Sdn Bhd,马来西亚,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
 External,XB-E053,Loi Heng International,缅甸,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
 External,XB-E054,TrustForce Myanmar,缅甸,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
-External,XB-E055,Computer Dynamics Limited,新西兰,B,桌面卡,无,无,nxdomain,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；邮箱域异常（nxdomain）；具名 KP
+External,XB-E055,Computer Dynamics Limited,新西兰,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
 External,XB-E056,"STN Infotech Co., Ltd.",韩国,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
-External,XB-E057,COMMVERGE TECHNOLOGIES HOLDINGS (ASIA),中国台北,B,桌面卡,无,无,error:NoNameservers,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数；邮箱域异常（error:NoNameservers）
+External,XB-E057,COMMVERGE TECHNOLOGIES HOLDINGS (ASIA),中国台北,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XB-E058,"PETACOM TECHNOLOGY CO., LTD.",中国台北,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
 External,XB-E059,"Easy Net Co.,Ltd.",泰国,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
 External,XB-E060,SSS Vietnam Joint Stock Company,越南,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
@@ -1643,7 +1639,7 @@ External,XA-M052,System Devices UK Ltd,英国,B,桌面卡,无,无,ok,有,有,留
 External,XA-M054,Modelec Data-Industrie,荷兰,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M055,AGL Industrial Solutions,葡萄牙,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M061,Nexus Networks,马耳他,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
-External,XA-M064,ALLNET Nordic A/S,丹麦,B,桌面卡,无,无,no_mx,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
+External,XA-M064,ALLNET Nordic A/S,丹麦,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M066,Nextron AS,丹麦,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XB-M043,Ronitek,以色列,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
 External,XB-M044,Triple core,以色列,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
@@ -1654,7 +1650,7 @@ External,XA-M074,"Rootelsat, Ltd.（vesuviustreamline.com）",保加利亚,B,桌
 External,XA-M076,LOST d.o.o.,克罗地亚,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M077,Öruggt Net ehf（Secure Net）,冰岛,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M079,MBSI WAV,加拿大,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
-External,XA-M080,Mahkesis Group Inc.,加拿大,B,桌面卡,无,无,no_mx,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
+External,XA-M080,Mahkesis Group Inc.,加拿大,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
 External,XA-M081,Optitera Global Networks Inc.,加拿大,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M084,AXTEK line Kft.,匈牙利,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M085,AbsolCom Kft.,匈牙利,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
@@ -1673,7 +1669,7 @@ External,XA-M099,Sekuritim Bilisim,土耳其,B,桌面卡,无,无,ok,有,有,留B
 External,XA-M100,Sis Bil tek（wifianten.com）,土耳其,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
 External,XA-M101,3NET,塞尔维亚,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M103,Pixel Network LLC,塞尔维亚,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
-External,XA-M104,Cy-Wireless（art2soft）,塞浦路斯,B,桌面卡,无,无,no_mx,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
+External,XA-M104,Cy-Wireless（art2soft）,塞浦路斯,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
 External,XA-M105,MS Electronics LTD,塞浦路斯,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M106,Florian Valentin / Formatik,奥地利,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M107,NETZWARE,奥地利,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
@@ -1688,13 +1684,13 @@ External,XA-M121,XPATIT S.A.,希腊,B,桌面卡,无,无,ok,有,有,留B·LT-R07,
 External,XA-M122,4Networks IT-Distribution（OMG.de）,德国,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M123,ATEG Automation GmbH,德国,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M124,FMS Internetservice（mikrotik-shop.de）,德国,B,桌面卡,无,无,no_mx,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
-External,XC-M019,Fiber24,德国,B,桌面卡,无,无,no_mx,有,无,随主档,Saga SC-2488,官网快照 + 加厚；登记底数；具名 KP
+External,XC-M019,Fiber24,德国,B,桌面卡,无,无,ok,有,无,随主档,Saga SC-2488,官网快照 + 加厚；登记底数；具名 KP
 External,XA-M125,I-NetPartner GmbH（mikrotik-store.eu）,德国,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
 External,XA-M127,NSR One GmbH（nsr-tik.com）,德国,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
 External,XA-M128,Neunetia GmbH,德国,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
-External,XA-M130,etree GmbH,德国,B,桌面卡,无,无,no_mx,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
+External,XA-M130,etree GmbH,德国,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M131,hsc solutions,德国,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
-External,XA-M132,Allnet.Italia S.p.A.,意大利,B,桌面卡,无,无,no_mx,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
+External,XA-M132,Allnet.Italia S.p.A.,意大利,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M134,C1V Hosting,意大利,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
 External,XA-M136,Dnet-Distribution,意大利,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
 External,XA-M137,Elia Fiumalbo Tino Spadoni / Spadhausen,意大利,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
@@ -1714,18 +1710,18 @@ External,XA-M152,OEM Automatic spol. s r.o.,捷克,B,桌面卡,无,无,no_mx,有
 External,XA-M153,"PCV Computers, s.r.o.",捷克,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M154,Proficomms,捷克,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M155,TECON s.r.o.,捷克,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
-External,XA-M157,eD's system Czech,捷克,B,桌面卡,无,无,no_mx,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
-External,XA-M161,"WESTech, spol. s r.o.",斯洛伐克,B,桌面卡,无,无,no_mx,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
+External,XA-M157,eD's system Czech,捷克,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
+External,XA-M161,"WESTech, spol. s r.o.",斯洛伐克,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M162,PC H.AND d.o.o.,斯洛文尼亚,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M163,PEC SISTEMI d.o.o.（tehnox.si）,斯洛文尼亚,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
-External,XB-M078,TAKOPI GEORGIA（smart-network.ge）,格鲁吉亚,B,桌面卡,无,无,dead,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；邮箱域异常（dead）；具名 KP
+External,XB-M078,TAKOPI GEORGIA（smart-network.ge）,格鲁吉亚,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
 External,XA-M164,Foxconcept,比利时,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
 External,XA-M166,SmartEye BV（wifistock.be）,比利时,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M167,Alfa Systems,比利时/卢森堡,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
 External,XA-M168,ACTN,法国,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
 External,XA-M169,ALLNET France SAS,法国,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M170,APLUS Systeme Automation,法国,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
-External,XA-M171,Azurtem,法国,B,桌面卡,无,无,no_mx,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
+External,XA-M171,Azurtem,法国,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
 External,XA-M172,EDOX SAS,法国,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M173,FGET International,法国,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M174,GROUPE CONVERGENCE SAS,法国,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
@@ -1740,7 +1736,7 @@ External,XA-M183,Aenet.pl（alfaextranet.pl）,波兰,B,桌面卡,无,无,ok,有
 External,XA-M184,FIBERM sp. z o.o.,波兰,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
 External,XA-M185,FYR-SYSTEMS Sp. z o.o.,波兰,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M186,Konsorcjum ATS,波兰,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
-External,XA-M188,WiFi24,波兰,B,桌面卡,无,无,no_mx,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
+External,XA-M188,WiFi24,波兰,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
 External,XC-M036,eltrox.pl,波兰,B,桌面卡,无,无,ok,有,有,随主档,Saga SC-2510,官网快照 + 加厚；登记底数
 External,XA-M190,Irish Wireless,爱尔兰,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XC-M037,Winncom Technologies（Dublin）,爱尔兰,B,桌面卡,无,无,ok,有,无,随主档,Saga SC-1297,官网快照 + 加厚；登记底数；具名 KP
@@ -1754,7 +1750,7 @@ External,XA-M198,OEM Automatic AB,瑞典,B,桌面卡,无,无,ok,有,有,留B·LT
 External,XA-M199,Sanuk Systems AB,瑞典,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M200,Satellithuset i Limmared AB（routerboard.se）,瑞典,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
 External,XA-M201,ENGITECH S.A.,瑞士,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
-External,XA-M202,INOVIS Live Automation AG,瑞士,B,桌面卡,无,无,no_mx,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
+External,XA-M202,INOVIS Live Automation AG,瑞士,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
 External,XA-M205,H2 HOLDING LLC（fortshpejt.com）,科索沃,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
 External,XA-M207,ACC Distribution UAB,立陶宛,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M208,Dipol Connect SRL,罗马尼亚,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
@@ -1772,7 +1768,7 @@ External,XC-M044,EPCOM,美国,B,桌面卡,无,无,ok,有,有,随主档,Saga SC-2
 External,XA-M221,Hexstar,美国,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
 External,XA-M222,Interamerican Tech Corp.,美国,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
 External,XA-M226,Makro Wisp,美国,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
-External,XA-M228,NACE Inc（North American Cable）,美国,B,桌面卡,无,无,no_mx,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
+External,XA-M228,NACE Inc（North American Cable）,美国,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
 External,XA-M229,Pace International,美国,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M230,ROC-NOC,美国,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
 External,XA-M233,Solution Box LLC,美国,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
@@ -1789,7 +1785,7 @@ External,XA-M245,Millbeck,英国,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—
 External,XA-M247,NetXL Distribution Ltd.,英国,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
 External,XA-M248,Pymatek Automation,英国,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M250,Switch SFP,英国,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
-External,XA-M252,VoiceHost Limited,英国,B,桌面卡,无,无,no_mx,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
+External,XA-M252,VoiceHost Limited,英国,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
 External,XA-M253,broadbandbuyer.com,英国,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
 External,XA-M255,Corné van Halteren / DAEL,荷兰,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M256,Interstroom informatietechnologie b.v.,荷兰,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
@@ -1799,14 +1795,14 @@ External,XA-M266,Routershop.nl,荷兰,B,桌面卡,无,无,ok,有,无,留B·LT-R0
 External,XA-M267,SDC Group,荷兰,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M269,Wimood（wimoodshop.nl）,荷兰,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
 External,XA-M270,Bruno Caiola Ricardo / Sinaltech,葡萄牙,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
-External,XA-M272,Officelan,葡萄牙,B,桌面卡,无,无,no_mx,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
+External,XA-M272,Officelan,葡萄牙,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
 External,XA-M273,TRUENET,葡萄牙,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M275,CiudadWireless,西班牙,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
 External,XA-M276,DMI COMPUTER,西班牙,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M279,Ditecom,西班牙,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M280,Enric Perpinyà Pitarch / Perpi.tech,西班牙,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M281,Infortisa,西班牙,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
-External,XA-M285,LAUFQUEN COMUNICACIONES,西班牙,B,桌面卡,无,无,no_mx,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
+External,XA-M285,LAUFQUEN COMUNICACIONES,西班牙,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M286,Leadernet Sistemas Telec,西班牙,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
 External,XC-M055,Todo Telecom,西班牙,B,桌面卡,无,无,ok,有,无,随主档,Saga SC-2725,官网快照 + 加厚；登记底数；具名 KP
 External,XB-M104,I C T INTERNATIONAL L.L.C.,阿联酋,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
@@ -1815,7 +1811,7 @@ External,XA-M294,Tomislav Vrebac / Kerberos,克罗地亚,B,桌面卡,无,无,ok,
 External,XA-M302,ELMAT,意大利,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M303,Cayman Wireless,美国,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M304,Invictus,美国,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
-External,XA-M306,NTS Direct,美国,B,桌面卡,无,无,no_mx,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
+External,XA-M306,NTS Direct,美国,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M307,5Gstore,美国,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M308,A3 Communications,美国,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M309,Amplitel Technologies,美国,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
@@ -1872,7 +1868,7 @@ External,XA-M378,Dresdner ProSoft GmbH,德国,B,桌面卡,无,无,ok,有,有,留
 External,XA-M380,EDV-Beratung u Dienstleistungen Berg-Duda,德国,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M385,H & G Hansen & Gieraths EDV Vertriebs GmbH,德国,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M386,H&M electronics GbR,德国,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
-External,XA-M388,Human Art Computersysteme GmbH,德国,B,桌面卡,无,无,nxdomain,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数；邮箱域异常（nxdomain）
+External,XA-M388,Human Art Computersysteme GmbH,德国,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M389,Inducio GmbH,德国,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M390,Ingo Seidenberg Inseid – EDV-Beratung,德国,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M393,KWS Partner GmbH,德国,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
@@ -1908,7 +1904,7 @@ External,XA-M427,A.G.informatica S.r.l.,意大利,B,桌面卡,无,无,ok,有,无
 External,XA-M428,Adrianet Snc,意大利,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M429,Agomir,意大利,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M430,C.G.T. Elettronica SpA,意大利,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
-External,XA-M431,CAMELI SAT,意大利,B,桌面卡,已坐实,无,nxdomain,有,有,留B·LT-R07,—,官网快照 + 加厚；邮箱域异常（nxdomain）
+External,XA-M431,CAMELI SAT,意大利,B,桌面卡,已坐实,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚
 External,XA-M432,COMPUTER TIME S.r.l.,意大利,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M433,CONNECT ICS S.R.L.,意大利,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M434,CTC SYSTEMS SRL,意大利,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
@@ -1952,7 +1948,7 @@ External,XA-M473,IT-TRUST Network Solution,奥地利,B,桌面卡,无,无,ok,有,
 External,XA-M474,quattroSEC Gmbh,奥地利,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M475,S.A.B.E.L. Handels GmbH,奥地利,B,桌面卡,无,无,ok,有,无,留B·LT-R07,—,官网快照 + 加厚；登记底数；具名 KP
 External,XA-M476,Salzgeber GmbH,奥地利,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
-External,XA-M477,DDS Netcom AG,瑞士,B,桌面卡,无,无,no_mx,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
+External,XA-M477,DDS Netcom AG,瑞士,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M478,FIVE Informatik AG,瑞士,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M479,KNT Technology SP. Z O.O.,波兰,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
 External,XA-M481,Stovaris Sp. z o.o.,波兰,B,桌面卡,无,无,ok,有,有,留B·LT-R07,—,官网快照 + 加厚；登记底数
@@ -1998,9 +1994,9 @@ External,XC-M100,Adeptor AS,挪威,B,桌面卡,已坐实,无,ok,有,无,留B·LT
 External,XC-M101,Autic System AS,挪威,B,桌面卡,已坐实,无,ok,有,无,留B·LT-R05,—,官网快照 + 加厚；具名 KP
 External,XC-M102,Hatteland Technology,挪威,B,桌面卡,无,无,ok,无,无,随主档,Saga SC-490,官网快照 + 加厚；登记底数；邮箱；具名 KP
 External,XC-M103,Last Mile Communication,挪威,B,桌面卡,无,无,ok,有,无,留B·LT-R05,—,官网快照 + 加厚；登记底数；具名 KP
-External,XC-M109,Elkotex d.o.o.,斯洛文尼亚,B,桌面卡,无,无,no_mx,有,无,留B·LT-R05,—,官网快照 + 加厚；登记底数；具名 KP
+External,XC-M109,Elkotex d.o.o.,斯洛文尼亚,B,桌面卡,无,无,ok,有,无,留B·LT-R05,—,官网快照 + 加厚；登记底数；具名 KP
 External,XC-M112,E.V.D.I.,法国,B,桌面卡,无,无,ok,有,无,留B·LT-R05,—,官网快照 + 加厚；登记底数；具名 KP
-External,XC-M115,Phoebe IDF,法国,B,桌面卡,无,无,no_mx,有,无,留B·LT-R05,—,官网快照 + 加厚；登记底数；具名 KP
+External,XC-M115,Phoebe IDF,法国,B,桌面卡,无,无,ok,有,无,留B·LT-R05,—,官网快照 + 加厚；登记底数；具名 KP
 External,XC-M116,QL3D,法国,B,桌面卡,已坐实,无,ok,有,无,留B·LT-R05,—,官网快照 + 加厚；具名 KP
 External,XC-M117,Sphinx France,法国,B,桌面卡,无,无,ok,有,无,留B·LT-R05,—,官网快照 + 加厚；登记底数；具名 KP
 External,XC-M118,Eptimo,波兰,B,桌面卡,无,无,no_mx,有,有,留B·LT-R05,—,官网快照 + 加厚；登记底数
@@ -2010,7 +2006,7 @@ External,XC-M121,Avtera BH,波黑,B,桌面卡,无,无,ok,有,无,留B·LT-R05,�
 External,XC-M122,ATC Automation（L.E.D. Lighting & Electrical Distribution）,爱尔兰,B,桌面卡,无,无,ok,有,无,留B·LT-R05,—,官网快照 + 加厚；登记底数；具名 KP
 External,XC-M124,DataLink Communications,爱尔兰/英国,B,桌面卡,已坐实,无,no_mx,有,无,留B·LT-R05,—,官网快照 + 加厚；具名 KP
 External,XC-M125,Electrobit,爱沙尼亚,B,桌面卡,无,无,ok,有,无,留B·LT-R05,—,官网快照 + 加厚；登记底数；具名 KP
-External,XC-M126,Dialect Skövde（evolvit.se）,瑞典,B,桌面卡,无,无,no_mx,有,无,留B·LT-R05,—,官网快照 + 加厚；登记底数；具名 KP
+External,XC-M126,Dialect Skövde（evolvit.se）,瑞典,B,桌面卡,无,无,ok,有,无,留B·LT-R05,—,官网快照 + 加厚；登记底数；具名 KP
 External,XC-M127,"Automatikos centras, UAB",立陶宛,B,桌面卡,无,无,ok,有,无,留B·LT-R05,—,官网快照 + 加厚；登记底数；具名 KP
 External,XC-M131,IMPERIAL ELECTRIC S.A.,罗马尼亚,B,桌面卡,无,无,ok,有,无,留B·LT-R05,—,官网快照 + 加厚；登记底数；具名 KP
 External,XC-M132,ABP TECH,美国,B,桌面卡,已坐实,无,ok,有,无,留B·LT-R05,—,官网快照 + 加厚；具名 KP
@@ -2047,14 +2043,14 @@ External,XC-M351,2direct GmbH,德国,B,桌面卡,无,无,ok,无,有,随主档,Sa
 Planet 仓,PA-001,4Power S.r.l.,意大利,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,有,Q-76 LT-01 2026-10-29：随主,—,官网快照 + 加厚；登记底数
 Planet 仓,PA-002,Cartronic Group (Cartronic Memory S.A.),西班牙,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,有,Q-76 LT-01 2026-10-29：三闸,—,官网快照 + 加厚；登记底数
 Planet 仓,PA-003,RFOG POLAND Tomasz Paszkowski,波兰,A,仓研究（评级依据 + 证据 URL）,无,无,ok,有,无,Q-76 LT-01 2026-10-29：随主,—,官网快照 + 加厚；登记底数；具名 KP
-Planet 仓,PB-001,Spectra GmbH & Co. KG,德国,B,仓研究（评级依据 + 证据 URL）,无,无,error:LifetimeTimeout,有,无,Q-76 LT-01 2026-10-29：随主,Saga/Mikrotik C-026; C-149,官网快照 + 加厚；登记底数；邮箱域异常（error:LifetimeTimeout）；具名 KP
+Planet 仓,PB-001,Spectra GmbH & Co. KG,德国,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,无,Q-76 LT-01 2026-10-29：随主,Saga/Mikrotik C-026; C-149,官网快照 + 加厚；登记底数；具名 KP
 Planet 仓,PB-002,W3CAM SAS,法国,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,无,Q-76 LT-01 2026-10-29：三闸,—,官网快照 + 加厚；登记底数；具名 KP
-Planet 仓,PB-003,Konsorcjum FEN Sp. z o.o.,波兰,B,仓研究（评级依据 + 证据 URL）,无,无,error:LifetimeTimeout,有,无,Q-76 LT-01 2026-10-29：三闸,—,官网快照 + 加厚；登记底数；邮箱域异常（error:LifetimeTimeout）；具名 KP
-Planet 仓,PB-004,Neteon Technologies,美国,B,仓研究（评级依据 + 证据 URL）,无,无,error:LifetimeTimeout,有,无,Q-76 LT-01 2026-10-29：随主,—,官网快照 + 加厚；登记底数；邮箱域异常（error:LifetimeTimeout）；具名 KP
+Planet 仓,PB-003,Konsorcjum FEN Sp. z o.o.,波兰,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,无,Q-76 LT-01 2026-10-29：三闸,—,官网快照 + 加厚；登记底数；具名 KP
+Planet 仓,PB-004,Neteon Technologies,美国,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,无,Q-76 LT-01 2026-10-29：随主,—,官网快照 + 加厚；登记底数；具名 KP
 Planet 仓,PB-005,Mid-Atlantic Rugged Systems (M/A Rugged),美国,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,无,Q-76 LT-01 2026-10-29：随主,Saga/Mikrotik A-541,官网快照 + 加厚；登记底数；具名 KP
 Planet 仓,PB-006,Network Camera Store,美国,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,有,Q-76 LT-01 2026-10-29：B ,—,官网快照 + 加厚；登记底数
 Planet 仓,PB-007,Paragon Networks Ltd,英国,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,无,Q-76 LT-01 2026-10-29：B ,—,官网快照 + 加厚；登记底数；具名 KP
-Planet 仓,PC-002,Senetic,波兰（多国站点）,B,仓研究（评级依据 + 证据 URL）,无,无,error:LifetimeTimeout,无,无,Q-76 LT-01 2026-10-29：随主,Saga/Mikrotik C-053（Eptimo S.A.，Senetic Holding 子公司；非同一法人，仅作集团参照）,官网快照 + 加厚；登记底数；邮箱域异常（error:LifetimeTimeout）；邮箱；具名 KP
+Planet 仓,PC-002,Senetic,波兰（多国站点）,B,仓研究（评级依据 + 证据 URL）,无,无,ok,无,无,Q-76 LT-01 2026-10-29：随主,Saga/Mikrotik C-053（Eptimo S.A.，Senetic Holding 子公司；非同一法人，仅作集团参照）,官网快照 + 加厚；登记底数；邮箱；具名 KP
 Planet 仓,PA-004,NSI Distribution (2164929 Ontario Inc.),加拿大,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,无,Q-76 LT-01 2026-10-29：随主,—,官网快照 + 加厚；登记底数；具名 KP
 Planet 仓,PA-005,Jampel S.r.l.,意大利,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,有,Q-76 LT-01 2026-10-29：随主,Saga/Mikrotik C-031,官网快照 + 加厚；登记底数
 Planet 仓,PA-006,Kyma Srl,意大利,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,无,Q-76 LT-01 2026-10-29：随主,—,官网快照 + 加厚；登记底数；具名 KP
@@ -2086,7 +2082,6 @@ Planet 仓,PB-025,Microdata Finland Oy,芬兰,B,仓研究（评级依据 + 证�
 Planet 仓,PB-026,CMS (Cable Management Supplies) plc,英国,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,无,Q-76 LT-01 2026-10-29：B ,—,官网快照 + 加厚；登记底数；具名 KP
 Planet 仓,PB-027,VERSIM S.A.,波兰,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,有,Q-76 LT-01 2026-10-29：B ,—,官网快照 + 加厚；登记底数
 Planet 仓,PB-028,Lastella Trade S.r.l. (DigitX.it),意大利,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,有,Q-76 LT-01 2026-10-29：随主,—,官网快照 + 加厚；登记底数
-Planet 仓,PB-029,Microsam,加拿大,B,仓研究（评级依据 + 证据 URL）,无,无,nxdomain,有,有,Q-76 LT-01 2026-10-29：B ,—,官网快照 + 加厚；登记底数；邮箱域异常（nxdomain）
 Planet 仓,PB-030,Connect Data – Sintel (Connect Data SARL),法国,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,无,Q-76 LT-01 2026-10-29：随主,Saga/Mikrotik A-254,官网快照 + 加厚；登记底数；具名 KP
 Planet 仓,PC-009,Compass Distribution (Sirius S.p.A. – Divisione Compass),意大利,B,仓研究（评级依据 + 证据 URL）,无,无,ok,无,有,Q-76 LT-01 2026-10-29：随主,Saga/Mikrotik C-028,官网快照 + 加厚；登记底数；邮箱
 Planet 仓,PA-014,Pulse Supply,美国,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,无,Q-76 LT-01 2026-10-29：随主,Saga/Mikrotik C-089,官网快照 + 加厚；登记底数；具名 KP
@@ -2096,7 +2091,7 @@ Planet 仓,PB-032,Rima Elektronik Bilişim ve Güvenlik Sistemleri San. ve Dış
 Planet 仓,PB-033,Ergen Elektronik,土耳其,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,有,Q-76 LT-01 2026-10-29：三闸,—,官网快照 + 加厚；登记底数
 Planet 仓,PB-035,"ABP Technology (ABP International, Inc.)",美国,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,无,Q-76 LT-01 2026-10-29：随主,Saga/Mikrotik C-067,官网快照 + 加厚；登记底数；具名 KP
 Planet 仓,PB-036,Globall Distribution,加拿大,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,有,Q-76 LT-01 2026-10-29：随主,Saga/Mikrotik C-015,官网快照 + 加厚；登记底数
-Planet 仓,PB-037,Fiber24 (shop.fiber24.net),德国,B,仓研究（评级依据 + 证据 URL）,无,无,no_mx,有,无,Q-76 LT-01 2026-10-29：随主,Saga/Mikrotik A-480,官网快照 + 加厚；登记底数；具名 KP
+Planet 仓,PB-037,Fiber24 (shop.fiber24.net),德国,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,无,Q-76 LT-01 2026-10-29：随主,Saga/Mikrotik A-480,官网快照 + 加厚；登记底数；具名 KP
 Planet 仓,PB-038,TRIOTRONIK Computerhandels GmbH,奥地利,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,无,Q-76 LT-01 2026-10-29：随主,Saga/Mikrotik A-469,官网快照 + 加厚；登记底数；具名 KP
 Planet 仓,PB-039,Aikom Technology S.r.l.,意大利,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,有,Q-76 LT-01 2026-10-29：随主,Saga/Mikrotik A-032,官网快照 + 加厚；登记底数
 Planet 仓,PB-040,Alarmsysteemexpert,荷兰,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,有,Q-76 LT-01 2026-10-29：三闸,—,官网快照 + 加厚；登记底数
@@ -2106,8 +2101,8 @@ Planet 仓,PB-042,Connectec (Connectec UK),英国,B,仓研究（评级依据 + �
 Planet 仓,PB-043,Saratota Ltd,英国,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,无,Q-76 LT-01 2026-10-29：随主,Saga/Mikrotik C-116,官网快照 + 加厚；登记底数；具名 KP
 Planet 仓,PB-044,CiudadWireless,西班牙,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,有,Q-76 LT-01 2026-10-29：随主,Saga/Mikrotik A-562,官网快照 + 加厚；登记底数
 Planet 仓,PB-045,Shop4Power (Shop4power / shop4networks),荷兰,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,有,Q-76 LT-01 2026-10-29：随主,Saga/Mikrotik C-259,官网快照 + 加厚；登记底数
-Planet 仓,PB-046,"Data Connect Enterprise, Inc. (DSL-Warehouse / DCE Express)",美国,A,仓研究（评级依据 + 证据 URL）,无,无,error:LifetimeTimeout,有,有,Q-76 LT-01 2026-10-29：随主,Saga/Mikrotik A-270,官网快照 + 加厚；登记底数；邮箱域异常（error:LifetimeTimeout）
-Planet 仓,PB-047,"WAV, LLC (Last Mile Gear, a WAV company)",美国,B,仓研究（评级依据 + 证据 URL）,无,无,error:LifetimeTimeout,有,无,Q-76 LT-01 2026-10-29：随主,Saga/Mikrotik A-546; A-096,官网快照 + 加厚；登记底数；邮箱域异常（error:LifetimeTimeout）；具名 KP
+Planet 仓,PB-046,"Data Connect Enterprise, Inc. (DSL-Warehouse / DCE Express)",美国,A,仓研究（评级依据 + 证据 URL）,无,无,ok,有,有,Q-76 LT-01 2026-10-29：随主,Saga/Mikrotik A-270,官网快照 + 加厚；登记底数
+Planet 仓,PB-047,"WAV, LLC (Last Mile Gear, a WAV company)",美国,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,无,Q-76 LT-01 2026-10-29：随主,Saga/Mikrotik A-546; A-096,官网快照 + 加厚；登记底数；具名 KP
 Planet 仓,PB-048,Switch SFP Ltd,英国,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,无,Q-76 LT-01 2026-10-29：随主,Saga/Mikrotik A-553,官网快照 + 加厚；登记底数；具名 KP
 Planet 仓,PB-049,"Intermédia – Informática, Lda",葡萄牙,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,有,Q-76 LT-01 2026-10-29：三闸,—,官网快照 + 加厚；登记底数
 Planet 仓,PB-050,"PCV Computers, s.r.o.",捷克,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,无,Q-76 LT-01 2026-10-29：随主,Saga/Mikrotik B-201,官网快照 + 加厚；登记底数；具名 KP
@@ -2115,7 +2110,7 @@ Planet 仓,PB-051,Eltrox (eltrox.pl),波兰,B,仓研究（评级依据 + 证据 
 Planet 仓,PB-052,"STS Lab, Inc. (CCTV.Net)",美国,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,有,Q-76 LT-01 2026-10-29：三闸,—,官网快照 + 加厚；登记底数
 Planet 仓,PB-053,"Lin Haw International Co., Ltd.",加拿大,B,仓研究（评级依据 + 证据 URL）,无,无,no_mx,有,无,Q-76 LT-01 2026-10-29：随主,—,官网快照 + 加厚；登记底数；具名 KP
 Planet 仓,PB-054,GelecekBT Bilgi Teknolojileri,土耳其,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,无,Q-76 LT-01 2026-10-29：随主,—,官网快照 + 加厚；登记底数；具名 KP
-Planet 仓,PB-055,Industrial Personal Computer 2U GmbH (IPC2U),德国,B,仓研究（评级依据 + 证据 URL）,无,无,error:LifetimeTimeout,有,无,Q-76 LT-01 2026-10-29：随主,Saga/Mikrotik A-482,官网快照 + 加厚；登记底数；邮箱域异常（error:LifetimeTimeout）；具名 KP
+Planet 仓,PB-055,Industrial Personal Computer 2U GmbH (IPC2U),德国,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,无,Q-76 LT-01 2026-10-29：随主,Saga/Mikrotik A-482,官网快照 + 加厚；登记底数；具名 KP
 Planet 仓,PC-013,Oprema Ltd (EET Group),英国,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,无,Q-76 LT-01 2026-10-29：随主,—,官网快照 + 加厚；登记底数；具名 KP
 Planet 仓,PB-056,ViSe S.r.l.,意大利,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,有,Q-76 LT-01 2026-10-29：B ,—,官网快照 + 加厚；登记底数
 Planet 仓,PB-057,FONEX K.T.M. Borowscy Sp. j.,波兰,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,无,Q-76 LT-01 2026-10-29：随主,—,官网快照 + 加厚；登记底数；具名 KP
@@ -2126,7 +2121,7 @@ Planet 仓,PB-062,Gateway Comunicaciones y Sistemas S.L.,西班牙,B,仓研究�
 Planet 仓,PB-065,Allnet Sp. z o.o. Sp.k.（WISP.PL）,波兰,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,无,Q-76 LT-01 2026-10-29：随主,Saga/Mikrotik A-380（Mikrotik 侧人工 A，sklep@wisp.pl）→ 并档，首触以 Mikrotik 仓库为准；本仓回填：PLANET 边线 4+4 款（Scodeno 工业款 Mikrotik 侧定级依据已提及，不重复）（Q-06 同类，跨仓需用户手工）,官网快照 + 加厚；登记底数；具名 KP
 Planet 仓,PB-066,"El Paso Communication Systems, Inc.（dba EPCOM）",美国,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,无,Q-76 LT-01 2026-10-29：随主,Saga/Mikrotik B-346（Mikrotik 侧 B，sales@epcom.net）→ 并档，首触以 Mikrotik 仓库为准；本仓回填 PLANET ≥7 款 + Epcom 保修证据（Q-06 同类）,官网快照 + 加厚；登记底数；具名 KP
 Planet 仓,PB-067,EDOX SAS,法国,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,有,Q-76 LT-01 2026-10-29：随主,Saga/Mikrotik A-579（Mikrotik 侧 R63 升 A，commercial@edox.com，原 B-238）→ 并档，首触以 Mikrotik 仓库为准；本仓回填：Mikrotik 侧「工业线为零」与事实不符（ISW-504PT 等工业款在售）+ PLANET 155 款（Q-06 同类，跨仓需用户手工）,官网快照 + 加厚；登记底数
-Planet 仓,PB-068,MARCOM S.r.l.,意大利,B,仓研究（评级依据 + 证据 URL）,无,无,error:LifetimeTimeout,有,有,Q-76 LT-01 2026-10-29：随主,Saga/Mikrotik A-487（Mikrotik 侧 R53 人工 A，info@marcomweb.it，原 B-167）→ 并档，首触以 Mikrotik 仓库为准；本仓回填：Mikrotik 侧「工业线为零」与事实不符（PLANET 工业 ≥7 款 + Moxa EDS 在售）+ IGS-1020TF EOL 促销时点（Q-06 同类，跨仓需用户手工）,官网快照 + 加厚；登记底数；邮箱域异常（error:LifetimeTimeout）
+Planet 仓,PB-068,MARCOM S.r.l.,意大利,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,有,Q-76 LT-01 2026-10-29：随主,Saga/Mikrotik A-487（Mikrotik 侧 R53 人工 A，info@marcomweb.it，原 B-167）→ 并档，首触以 Mikrotik 仓库为准；本仓回填：Mikrotik 侧「工业线为零」与事实不符（PLANET 工业 ≥7 款 + Moxa EDS 在售）+ IGS-1020TF EOL 促销时点（Q-06 同类，跨仓需用户手工）,官网快照 + 加厚；登记底数
 Planet 仓,PB-069,Cyberbajt Tadeusz Nowak（cyberbajt.pl）,波兰,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,无,Q-76 LT-01 2026-10-29：随主,Saga/Mikrotik A-512（Mikrotik 侧人工 A ★★★，d.jonik@ 等 6 位具名销售邮箱）→ 并档，首触以 Mikrotik 仓库为准；本仓回填：PLANET 商用交换机 5 款 + 媒体转换器 2 款在售（Mikrotik 侧信号仅「Moxa 工业交换机」，建议其 STI-488XGGPM 首推可改为对位 WGS-4215-8P2S 的 STC-28DGGPM）（Q-06 同类，跨仓需用户手工）,官网快照 + 加厚；登记底数；具名 KP
 Planet 仓,PB-071,AccessPoint Kft.,匈牙利,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,有,Q-76 LT-01 2026-10-29：随主,Saga/Mikrotik A-452（Mikrotik 侧人工 A ★★★，info@accesspoint.hu）→ 并档，首触以 Mikrotik 仓库为准；本仓回填：PLANET 仅品牌筛选级信号 + 2025 财报（€8M / 10–19 人）+ biztributor 并购风险（Q-06 同类，跨仓需用户手工）,官网快照 + 加厚；登记底数
 Planet 仓,PB-072,CompMarket Hungary Zrt.,匈牙利,B,仓研究（评级依据 + 证据 URL）,无,无,ok,有,无,Q-76 LT-01 2026-10-29：随主,Saga/Mikrotik B-081（Mikrotik 侧 B ★★★，rakos.zoltan@compmarket.hu）→ 并档，首触以 Mikrotik 仓库为准；本仓回填：PLANET 交换机 14 款在目录（Mikrotik 侧「通用分销商信号」可据此加「PLANET 长尾」差异化切入）+ 2025 财报（€35M / 57 人）（Q-06 同类，跨仓需用户手工）,官网快照 + 加厚；登记底数；具名 KP

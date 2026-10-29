@@ -113,6 +113,14 @@
     "quote": "兴趣：买的磊通的一些设备;Switch MC 周边产品 不是自己的牌子；回复：thanks",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 复核 LT-R09",
+    "quote": "DNS 2026-10-29：ara.com.bd NXDOMAIN",
+    "why": "长期客户群复核证据（非邮件事实，不计真回）",
+    "url": ""
    }
   ],
   "proof_gaps": [
@@ -131,5 +139,14 @@
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来"
   }
- ]
+ ],
+ "lt_review": {
+  "status": "留 B",
+  "batch": "LT-R09",
+  "prio": null,
+  "queued": "LT-R09",
+  "verdict_date": "2026-10-29",
+  "note": "域名 ara.com.bd 失效（NXDOMAIN 2026-10-29；support@ 早已退信），备用 gmail smchan91@gmail.com 在表 + 1 次真回 + 海关显示买过磊通 → 留 B（路径 = 备用 gmail；非主区预付 100%）",
+  "why": ""
+ }
 }

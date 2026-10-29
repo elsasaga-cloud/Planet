@@ -103,7 +103,7 @@
 ## 8. 研究卡（第 2 步，LT-T01，2026-10-29）
 
 - **结论：XB** — 桌面复核（来源库核对 + 研究卡）：分销商；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））
-- 活着吗：域名 fletcher.prendergast 不存在（NXDOMAIN；DNS 2026-10-29）→ 路径待核 / 可能换域
+- 活着吗：域名修正为 cdl.co.nz（原 fletcher.prendergast 是邮箱用户名 / 注释 / 旧域）；DNS 2026-10-29 MX + A 正常；官网快照待 Actions 补抓
 - 一句话：Computer Dynamics Limited（新西兰 · Auckland）：分销商
 - 是什么人：分销商
 - 对口哪条线：STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）
@@ -115,9 +115,11 @@
 证据：
 | 类型 | 说明 | 摘录 | 来源 | 日期 |
 |---|---|---|---|---|
-| 来源库官网/名录核对 | 分销商 |  | https://fletcher.prendergast | 2026-10-27 |
+| 来源库官网/名录核对 | 分销商 |  | https://cdl.co.nz | 2026-10-27 |
 | 来源库证据链接 | 来源库调研时引用 |  | https://cdlnz.com | 2026-10-27 |
 | 来源库证据链接 | 来源库调研时引用 |  | https://www.edge-core.com/where-to-buy/asia-distributors/ | 2026-10-27 |
 | 长期群复核 LT-R07 | 桌面复核（来源库核对 + 研究卡）：分销商；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%）） |  |  | 2026-10-29 |
+| 域名修正 | 记录域名 fletcher.prendergast → cdl.co.nz（LT-X01 2026-10-29：域名由邮箱 sales@cdl.co.nz 取（导入误把用户名当域名））；DNS 2026-10-29 MX + A 正常 | domain_prev=fletcher.prendergast | https://cdl.co.nz/ | 2026-10-29 |
 
-- 备注：LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。
+- 备注：LT-X01b 域名修正同步（2026-10-29）：fletcher.prendergast → cdl.co.nz。
+LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。

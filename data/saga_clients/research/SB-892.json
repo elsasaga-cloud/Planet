@@ -33,8 +33,8 @@
    "role": "联系人（研究档 KP；2024-08 问 10G MC ×4）= 收件人 — 最后一次一页纸：集成商 25% B、STC-110XGE $65 ×4 一口价 + 运费；反向 PoE 不供明说；西语备注 — 墨西哥常规：英文稿（可附西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP、NOM / IFT 不声称（第 121 批 官方登记核实 2026-10-29）"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "Q-76 LT-R09 2026-10-29 复核打回 C 储备：域名 telcofusion.com.mx 失效（NXDOMAIN 2026-10-29）+ 只有 gmail + 需求 reverse PoE 板（Saga 无）+ 墨西哥非主区 → 不对位 + 无主体路径 → C 储备（来信即回 B）；c_sub=储备·复核打回 ；回信 / 询价即回 B",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -100,6 +100,14 @@
     "quote": "兴趣：reverse POE板子；回复：4个",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 复核 LT-R09",
+    "quote": "DNS 2026-10-29：telcofusion.com.mx NXDOMAIN",
+    "why": "长期客户群复核证据（非邮件事实，不计真回）",
+    "url": ""
    }
   ],
   "proof_gaps": [
@@ -108,5 +116,24 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
- }
+ },
+ "lt_review": {
+  "status": "打回 C",
+  "batch": "LT-R09",
+  "prio": null,
+  "queued": "LT-R09",
+  "verdict_date": "2026-10-29",
+  "note": "域名 telcofusion.com.mx 失效（NXDOMAIN 2026-10-29）+ 只有 gmail + 需求 reverse PoE 板（Saga 无）+ 墨西哥非主区 → 不对位 + 无主体路径 → C 储备（来信即回 B）",
+  "why": ""
+ },
+ "override_history": [
+  {
+   "batch": "LT-R09",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "C",
+   "prev_reason": "",
+   "reason": "域名 telcofusion.com.mx 失效（NXDOMAIN 2026-10-29）+ 只有 gmail + 需求 reverse PoE 板（Saga 无）+ 墨西哥非主区 → 不对位 + 无主体路径 → C 储备（来信即回 B）"
+  }
+ ]
 }

@@ -79,7 +79,7 @@
 ## 8. 研究卡（第 2 步，W2-R05b，2026-10-27）
 
 - **结论：XB** — 小项目集成商（Allied Telesis 伙伴名录批量导入），非渠道 → B 慢慢跟进；且无可用邮箱
-- 活着吗：来源库 2026-09-27 核对在线；本轮未复查
+- 活着吗：域名修正为 camelisat.it（原 camelisat.it与0564 是邮箱用户名 / 注释 / 旧域）；DNS 2026-10-29 MX + A 正常；官网快照待 Actions 补抓
 - 一句话：卫星/安防安装商（CAMELI SAT）；Marvell Prestera 接入层切入
 - 是什么人：卫星/安防安装商（CAMELI SAT）；规模：未量化
 - 在卖/在用：Allied Telesis（Marvell Prestera 接入层）
@@ -92,6 +92,8 @@
 证据：
 | 类型 | 说明 | 摘录 | 来源 | 日期 |
 |---|---|---|---|---|
-| 来源库官网/名录核对 | 【待人工补信息】本条为集成商/顾问型，属 A 级主产地，但当前抓不到邮箱（群发触达不到），故由人工定级提为 A。需要人工处理：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 【2026-09-27 A320–A339联络核验】来源等级：leads-only。AT名录列CAMELI SAT（Donoratico, LI）；工商/商录显示主体为Cameli Sat di Burgalassi Agnese（di |  | https://camelisat.it与0564/ | 2026-09-27 |
+| 来源库官网/名录核对 | 【待人工补信息】本条为集成商/顾问型，属 A 级主产地，但当前抓不到邮箱（群发触达不到），故由人工定级提为 A。需要人工处理：请补邮箱（或确认电话为唯一触达方式）后再进入群发名单。补到邮箱后本标注可删。 【2026-09-27 A320–A339联络核验】来源等级：leads-only。AT名录列CAMELI SAT（Donoratico, LI）；工商/商录显示主体为Cameli Sat di Burgalassi Agnese（di |  | https://camelisat.it/ | 2026-09-27 |
+| 域名修正 | 记录域名 camelisat.it与0564 → camelisat.it（LT-X01 2026-10-29：导入把原文「info@camelisat.it与0564」整段当域名）；DNS 2026-10-29 MX + A 正常 | domain_prev=camelisat.it与0564 | https://camelisat.it/ | 2026-10-29 |
 
-- 备注：轻卡：本轮未外查，沿用来源库官网/名录核对。
+- 备注：LT-X01b 域名修正同步（2026-10-29）：camelisat.it与0564 → camelisat.it。
+轻卡：本轮未外查，沿用来源库官网/名录核对。

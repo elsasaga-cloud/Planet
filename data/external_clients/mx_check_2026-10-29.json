@@ -2,13 +2,13 @@
  "_meta": {
   "checked": "2026-10-29",
   "source": "DNS MX/A 查询（dnspython，沙箱解析器）",
-  "domains": 628,
+  "domains": 661,
   "status_counts": {
-   "ok": 591,
+   "ok": 619,
    "no_mx": 30,
    "nxdomain": 5,
-   "error:NoNameservers": 1,
-   "dead": 1
+   "dead": 6,
+   "error:NoNameservers": 1
   }
  },
  "domains": {
@@ -1239,10 +1239,6 @@
     ]
    ],
    "status": "ok"
-  },
-  "camelisat.it与0564": {
-   "checked": "2026-10-29",
-   "status": "nxdomain"
   },
   "camera.lk": {
    "checked": "2026-10-29",
@@ -2651,10 +2647,6 @@
    ],
    "status": "ok"
   },
-  "fletcher.prendergast": {
-   "checked": "2026-10-29",
-   "status": "nxdomain"
-  },
   "fonex.com": {
    "checked": "2026-10-29",
    "mx": [
@@ -3158,10 +3150,6 @@
    ],
    "status": "no_mx"
   },
-  "hk.kim": {
-   "checked": "2026-10-29",
-   "status": "nxdomain"
-  },
   "hm-electronics.de": {
    "checked": "2026-10-29",
    "mx": [
@@ -3233,10 +3221,6 @@
     ]
    ],
    "status": "ok"
-  },
-  "humanart-kyocera.de": {
-   "checked": "2026-10-29",
-   "status": "nxdomain"
   },
   "hye.com.ph": {
    "checked": "2026-10-29",
@@ -6068,14 +6052,6 @@
    ],
    "status": "ok"
   },
-  "sales.kenya": {
-   "checked": "2026-10-29",
-   "status": "nxdomain"
-  },
-  "sales.tw": {
-   "checked": "2026-10-29",
-   "status": "error:NoNameservers"
-  },
   "santaclarasystems.com": {
    "checked": "2026-10-29",
    "mx": [
@@ -6599,10 +6575,6 @@
     ]
    ],
    "status": "ok"
-  },
-  "smart-network.ge": {
-   "checked": "2026-10-29",
-   "status": "dead"
   },
   "smartplus.com.sa": {
    "checked": "2026-10-29",
@@ -8129,6 +8101,358 @@
    "status": "ok"
   },
   "zorinstechnologies.sa": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "aitech24.co.kr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "aitech24-co-kr.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "allnet.dk": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "allnet-dk.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "azurtem.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "azurtem-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "camelisat.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     5,
+     "mx1.camelisat.it"
+    ]
+   ],
+   "status": "ok"
+  },
+  "cdl.co.nz": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "cdl-co-nz.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "commverge.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "commverge-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "cy-wireless.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.cy-wireless.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "dds.ch": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     20,
+     "elba.iway.ch"
+    ],
+    [
+     20,
+     "malta.iway.ch"
+    ]
+   ],
+   "status": "ok"
+  },
+  "edsystem.cz": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "edsystem-cz.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "elkotex.si": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     5,
+     "mx-a.elkogroup.com"
+    ],
+    [
+     30,
+     "mx-b.elkogroup.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "etree.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "etree-de.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "evolvit.se": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "evolvit-se.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "fiber24.net": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.fiber24.net"
+    ]
+   ],
+   "status": "ok"
+  },
+  "human-art.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "humanart-de01c.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "indotrading.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "indotrading-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "inovis-group.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     5,
+     "inovisgroup-com01e.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "laufquen.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "aspmx.l.google.com"
+    ],
+    [
+     20,
+     "alt1.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "mahkesis.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "mahkesis-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "nace.tv": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "ntsdirect.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "ntsdirect-com.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "officelan.pt": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx-01-eu-central-1.prod.hydra.sophos.com"
+    ],
+    [
+     20,
+     "mx-02-eu-central-1.prod.hydra.sophos.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "phoebe.fr": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "phoebe-fr.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "takopi.ge": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "uk.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "mx-01.emailme.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "vnn.vn": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx.vnptemail.vn"
+    ]
+   ],
+   "status": "ok"
+  },
+  "voicehost.co.uk": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx01.mw.nor.gb.voicehost.co.uk"
+    ],
+    [
+     20,
+     "mx02.mw.nor.gb.voicehost.co.uk"
+    ]
+   ],
+   "status": "ok"
+  },
+  "westech.sk": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx-a.elkogroup.com"
+    ],
+    [
+     20,
+     "westech-sk.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "wifi24.pl": {
    "checked": "2026-10-29",
    "mx": [
     [

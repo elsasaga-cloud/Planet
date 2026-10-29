@@ -3,7 +3,7 @@
  "name": "COMMVERGE TECHNOLOGIES HOLDINGS (ASIA)",
  "round": "LT-T01",
  "researched_at": "2026-10-29",
- "alive": "域名 sales.tw（DNS 查询出错，待重查）",
+ "alive": "域名修正为 commverge.com（原 sales.tw 是邮箱用户名 / 注释 / 旧域）；DNS 2026-10-29 MX + A 正常；官网快照待 Actions 补抓",
  "summary": "COMMVERGE TECHNOLOGIES HOLDINGS (ASIA)（中国台北 · Taipei）：SI/VAR/集成商",
  "type_final": "SI/VAR/集成商",
  "size": "",
@@ -15,7 +15,7 @@
    "kind": "来源库官网/名录核对",
    "claim": "SI/VAR/集成商",
    "quote": "",
-   "url": "https://sales.tw",
+   "url": "https://commverge.com",
    "date": "2026-10-27"
   },
   {
@@ -45,6 +45,13 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "域名修正",
+   "claim": "记录域名 sales.tw → commverge.com（LT-X01 2026-10-29：域名由邮箱 sales.tw@commverge.com 取（导入误把用户名当域名））；DNS 2026-10-29 MX + A 正常",
+   "quote": "domain_prev=sales.tw",
+   "url": "https://commverge.com/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
@@ -72,5 +79,6 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-X01b 域名修正同步（2026-10-29）：sales.tw → commverge.com。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "domain_fix": "commverge.com"
 }

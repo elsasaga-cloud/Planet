@@ -103,7 +103,7 @@
 ## 8. 研究卡（第 2 步，LT-T01，2026-10-29）
 
 - **结论：XB** — 桌面复核（来源库核对 + 研究卡）：SI/VAR/集成商；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））
-- 活着吗：域名 sales.tw（DNS 查询出错，待重查）
+- 活着吗：域名修正为 commverge.com（原 sales.tw 是邮箱用户名 / 注释 / 旧域）；DNS 2026-10-29 MX + A 正常；官网快照待 Actions 补抓
 - 一句话：COMMVERGE TECHNOLOGIES HOLDINGS (ASIA)（中国台北 · Taipei）：SI/VAR/集成商
 - 是什么人：SI/VAR/集成商
 - 对口哪条线：STC 项目集成款（25% 档：STC-2216GP / STC-228GP）
@@ -115,10 +115,12 @@
 证据：
 | 类型 | 说明 | 摘录 | 来源 | 日期 |
 |---|---|---|---|---|
-| 来源库官网/名录核对 | SI/VAR/集成商 |  | https://sales.tw | 2026-10-27 |
+| 来源库官网/名录核对 | SI/VAR/集成商 |  | https://commverge.com | 2026-10-27 |
 | 来源库证据链接 | 来源库调研时引用 |  | https://www.commverge.com | 2026-10-27 |
 | 来源库证据链接 | 来源库调研时引用 |  | https://www.commverge.com.tw | 2026-10-27 |
 | 来源库证据链接 | 来源库调研时引用 |  | https://www.edge-core.com/where-to-buy/asia-reseller/ | 2026-10-27 |
 | 长期群复核 LT-R07 | 桌面复核（来源库核对 + 研究卡）：SI/VAR/集成商；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%）） |  |  | 2026-10-29 |
+| 域名修正 | 记录域名 sales.tw → commverge.com（LT-X01 2026-10-29：域名由邮箱 sales.tw@commverge.com 取（导入误把用户名当域名））；DNS 2026-10-29 MX + A 正常 | domain_prev=sales.tw | https://commverge.com/ | 2026-10-29 |
 
-- 备注：LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。
+- 备注：LT-X01b 域名修正同步（2026-10-29）：sales.tw → commverge.com。
+LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。

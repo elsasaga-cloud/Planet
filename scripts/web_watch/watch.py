@@ -768,6 +768,17 @@ def snapshot_missing(elapsed):
         print('snapshot_missing failed:', e)
 
 
+def snapshot_thicken():
+    """T29-U131：快照一到就消费（LT-T03）：Saga 研究档 / External 卡 / Planet 仓备注 的在线态、在卖品牌、页面公开联系方式、型号对位校正，
+    产出 data/长期客户群_快照加厚_<日>.csv + 快照打回候选表；只改 JSON / CSV（MD 由下次会话的渲染链刷新）；失败不阻断巡检提交。"""
+    try:
+        r = subprocess.run([sys.executable, os.path.join(ROOT, 'scripts', 'saga_clients', 'lt_snapshot_thicken.py')], cwd=ROOT, check=False, timeout=900,
+                           capture_output=True, text=True)
+        print('snapshot_thicken:', (r.stdout or '').strip().splitlines()[-1:] or r.returncode, (r.stderr or '')[-300:])
+    except Exception as e:
+        print('snapshot_thicken failed:', e)
+
+
 def git_commit(msg):
     if not os.environ.get('GITHUB_ACTIONS'):
         print('not in GitHub Actions → skip commit')
@@ -790,6 +801,10 @@ def git_commit(msg):
     sh('git', 'config', 'user.email', '41898282+github-actions[bot]@users.noreply.github.com')
     sh('git', 'add', '-A', os.path.relpath(OUT, ROOT))
     sh('git', 'add', '-A', 'data/saga_clients/site_snapshots')  # T29-U131：巡检后补抓的官网快照一起提交
+    for extra in ('data/saga_clients/research', 'data/external_clients/research', 'data/客户名单_Planet渠道_2026-10.csv'):  # LT-T03 快照加厚落点
+        sh('git', 'add', '-A', extra)
+    for f in glob.glob(os.path.join(ROOT, 'data', '长期客户群_快照*.csv')):
+        sh('git', 'add', '-A', os.path.relpath(f, ROOT))
     r = subprocess.run(['git', 'commit', '-q', '-m', msg], cwd=ROOT, check=False)
     if r.returncode != 0:
         print('nothing to commit')
@@ -892,6 +907,7 @@ def main(argv=None):
     print(f'{TS} customers={len(customers)} sources={sum(n_sources.values())} changed_or_flagged={tot_changes} errors={tot_err} elapsed={time.time() - t0:.0f}s')
     if os.environ.get('GITHUB_ACTIONS') and not args.no_snapshot:
         snapshot_missing(time.time() - t0)
+        snapshot_thicken()
     if not args.no_commit:
         # 提交信息里按「源」计数（只数顶层条目，不数缩进的 diff 明细行；2026-10-23 07:03Z 修：此前把明细行也算进去，06:51Z 轮显示 55 实为 11 个源）
         n_top = {k: sum(1 for x in v if not x.startswith((' ', '###'))) for k, v in changes_by_layer.items()}

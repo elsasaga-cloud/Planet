@@ -54,6 +54,7 @@ updated: 2026-10-29
 | 2025-04-07 | 去 | Elsa 群发（BCC；To gildas.rault@faiveleytransport.com，FR 批次） | 90W PoE Managed Switch — This is a Marvell based layer 2 managed PoE switch. 1. Highly programmable GUI 2. 2*PoE af/at/bt+6*PoE af/at, 240W budget 3. Support PoE management It | Elsa 箱群发 BCC 触达证据（命中地址 hightrade-international.com, info@hightrade-international.com, thomas.lemaire@hightrade-international.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-09-03 | 去 | Elsa 群发（BCC；To kairosmusique@gmail.com，FR 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 hightrade-international.com, info@hightrade-international.com, thomas.lemaire@hightrade-international.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 40个 24口POE交换机 distributor | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 复核 LT-R09 | DNS 2026-10-29 14:48Z：hightrade-international.com MX 0 hightradeinternational-com02c.mail.pro；A 109.234.165.213 | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 

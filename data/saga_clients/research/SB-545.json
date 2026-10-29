@@ -144,10 +144,28 @@
     "quote": "在用洪瑞的商业POE 换了PVC膜",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 复核 LT-R09",
+    "quote": "DNS 2026-10-29 14:48Z：mreit.co.kr MX 10 mail.mreit.co.kr；A 210.206.162.16",
+    "why": "长期客户群复核证据（非邮件事实，不计真回）",
+    "url": ""
    }
   ],
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
- }
+ },
+ "lt_review": {
+  "status": "留 B",
+  "batch": "LT-R09",
+  "prio": null,
+  "queued": "LT-R09",
+  "verdict_date": "2026-10-29",
+  "note": "DNS 复查正常（mreit.co.kr MX mail.mreit.co.kr / A 210.206.162.16，2026-10-29 14:48Z；早上那轮超时误报）→ 不动；韩国自有 MR- 系列 PoE 品牌商，KC 待核",
+  "why": ""
+ },
+ "override_history": []
 }

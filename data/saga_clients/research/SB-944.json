@@ -26,7 +26,7 @@
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-R09 2026-10-29 country_fix：表内「比利时」有误，官网 fybera.com 联系电话 +359 2 4214270（索非亚）→ 保加利亚。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
@@ -110,6 +110,14 @@
     "quote": "MC 自己的logo 周边产品较多 看着像国内的外壳",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 复核 LT-R09",
+    "quote": "fybera.com：FYBERA - Your optical fibre equipment provider … Ethernet Media Converter 1100/2 Brand: Fybera … Email: sales@fybera.com · Call now: +359 2 4214270",
+    "why": "长期客户群复核证据（非邮件事实，不计真回）",
+    "url": "https://fybera.com/"
    }
   ],
   "proof_gaps": [
@@ -120,5 +128,16 @@
    "body": "Hello Fybera team,\n\nOver the past two years you had several product mails from us - most recently \"10G Enterprise SFP Switch\" on 12 May 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the media converters sold under the Fybera label, we build in your packaging from small lots, CE/RoHS: industrial mini Gigabit, 1 x RJ45 + 1 x SFP slot, DIN-rail, -40 to 75 C - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); the Gigabit PoE+ version - STI-111GP - $30.1; a DIN-rail 8 x Gigabit + 2 x SFP switch on the same line - STI-280GE - $46. Logo on the unit is free; colour box from 200 sets.\n\nOne question: which MC configuration do your customers order most - gigabit SFP-slot, or fixed SC single-mode?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
- }
+ },
+ "lt_review": {
+  "status": "留 B",
+  "batch": "LT-R09",
+  "prio": null,
+  "queued": "LT-R09",
+  "verdict_date": "2026-10-29",
+  "note": "域名 fybera.com DNS 委派坏（NoNameservers 2026-10-29，疑临时）；搜索可见官网在营：自有品牌 Fybera 光纤无源 + 媒体转换器 + 熔接机，联系电话 +359 2 4214270 = 保加利亚索非亚（表内写比利时有误 → country_fix BG）→ 自牌进口商留 B（OEM 话题；MC 对位弱、交换机待问）",
+  "why": ""
+ },
+ "override_history": [],
+ "country_fix": "保加利亚"
 }

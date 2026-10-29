@@ -2,12 +2,13 @@
  "_meta": {
   "checked": "2026-10-29",
   "source": "DNS MX/A 查询（dnspython，沙箱解析器）",
-  "domains": 112,
+  "domains": 121,
   "status_counts": {
-   "ok": 101,
-   "error:LifetimeTimeout": 8,
+   "ok": 110,
    "no_mx": 2,
-   "nxdomain": 1
+   "nxdomain": 2,
+   "error:LifetimeTimeout": 6,
+   "error:IDNAException": 1
   }
  },
  "domains": {
@@ -441,10 +442,6 @@
    ],
    "status": "ok"
   },
-  "data-connect.com ": {
-   "checked": "2026-10-29",
-   "status": "error:LifetimeTimeout"
-  },
   "digitx.it": {
    "checked": "2026-10-29",
    "mx": [
@@ -541,10 +538,6 @@
    ],
    "status": "ok"
   },
-  "fen.pl ": {
-   "checked": "2026-10-29",
-   "status": "error:LifetimeTimeout"
-  },
   "fiberworks.no": {
    "checked": "2026-10-29",
    "mx": [
@@ -626,10 +619,6 @@
     ]
    ],
    "status": "ok"
-  },
-  "ipc2u.de ": {
-   "checked": "2026-10-29",
-   "status": "error:LifetimeTimeout"
   },
   "itamtech.com": {
    "checked": "2026-10-29",
@@ -777,10 +766,6 @@
    ],
    "status": "ok"
   },
-  "marcomweb.it（商店 shop.marcomweb.it）": {
-   "checked": "2026-10-29",
-   "status": "error:LifetimeTimeout"
-  },
   "marugged.com": {
    "checked": "2026-10-29",
    "mx": [
@@ -884,10 +869,6 @@
     ]
    ],
    "status": "ok"
-  },
-  "neteon.net ": {
-   "checked": "2026-10-29",
-   "status": "error:LifetimeTimeout"
   },
   "netram.de": {
    "checked": "2026-10-29",
@@ -1033,10 +1014,6 @@
    ],
    "status": "ok"
   },
-  "planet.spectra.de ": {
-   "checked": "2026-10-29",
-   "status": "error:LifetimeTimeout"
-  },
   "powerbizt.hu": {
    "checked": "2026-10-29",
    "mx": [
@@ -1174,10 +1151,6 @@
     ]
    ],
    "status": "ok"
-  },
-  "senetic.pl ": {
-   "checked": "2026-10-29",
-   "status": "error:LifetimeTimeout"
   },
   "shop.fiber24.net": {
    "checked": "2026-10-29",
@@ -1455,10 +1428,6 @@
    ],
    "status": "ok"
   },
-  "wavonline.com ": {
-   "checked": "2026-10-29",
-   "status": "error:LifetimeTimeout"
-  },
   "wisp.pl": {
    "checked": "2026-10-29",
    "mx": [
@@ -1485,6 +1454,144 @@
     [
      10,
      "young-hu.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "data-connect.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     0,
+     "dataconnect-com01b.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "fen.pl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx-01-eu-west-1.prod.hydra.sophos.com"
+    ],
+    [
+     20,
+     "mx-02-eu-west-1.prod.hydra.sophos.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "fiber24.net": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mail.fiber24.net"
+    ]
+   ],
+   "status": "ok"
+  },
+  "ipc2u.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "ex1.ipc2ugroup.com"
+    ],
+    [
+     20,
+     "ex1.ipc2ugroup.com"
+    ],
+    [
+     30,
+     "ex1.ipc2ugroup.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "marcomweb.it": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "aspmx.l.google.com"
+    ],
+    [
+     20,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     20,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     30,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     30,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "neteon.net": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "senetic.pl": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "senetic-pl.mail.protection.outlook.com"
+    ]
+   ],
+   "status": "ok"
+  },
+  "spectra.de": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "pmgw.smtpgate.net"
+    ]
+   ],
+   "status": "ok"
+  },
+  "wavonline.com": {
+   "checked": "2026-10-29",
+   "mx": [
+    [
+     10,
+     "mx1-us1.ppe-hosted.com"
+    ],
+    [
+     20,
+     "mx2-us1.ppe-hosted.com"
     ]
    ],
    "status": "ok"

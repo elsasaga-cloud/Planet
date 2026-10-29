@@ -102,6 +102,14 @@
     "quote": "回复：price 报了75",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 复核 LT-R09",
+    "quote": "DNS 2026-10-29：sabaindia.com NXDOMAIN",
+    "why": "长期客户群复核证据（非邮件事实，不计真回）",
+    "url": ""
    }
   ],
   "proof_gaps": [
@@ -113,5 +121,15 @@
    "body": "Hi Sampath,\n\nIn April 2024 we quoted you the L2 managed 8-PoE + 2-SFP switch at $75, and the camera project went quiet.\n\nThe same slot today: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based, CE/RoHS (BIS stays on your side) - model STC-28DGGPM - $84.1 USD EXW (MOQ 1, 15-day validity); the CNY has moved from 7.2 to 6.7 against the dollar since 2024, which is the whole difference. For a 10-pc trial I can hold the distributor price of $80.7.\n\nOne question: is that camera project still open, or has a new one replaced it?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "lt_review": {
+  "status": "留 B",
+  "batch": "LT-R09",
+  "prio": null,
+  "queued": "LT-R09",
+  "verdict_date": "2026-10-29",
+  "note": "域名 sabaindia.com 失效（NXDOMAIN 2026-10-29），备用 sriannaiassociates@yahoo.com 在表 + 2024-04 对 L2 管理 2 光 8 PoE 报过 $75、1 次真回 → 留 B（路径 = yahoo；印度常规预付 100%）",
+  "why": ""
+ },
+ "override_history": []
 }

@@ -18,6 +18,7 @@ import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SD = os.path.join(ROOT, 'data', 'saga_clients')
+SD_DIR = os.path.join(SD, 'site_snapshots')
 XD = os.path.join(ROOT, 'data', 'external_clients')
 PCSV = os.path.join(ROOT, 'data', '客户名单_Planet渠道_2026-10.csv')
 DATE = '2026-10-29'
@@ -26,6 +27,42 @@ OUT_MD = os.path.join(ROOT, 'docs', f'长期客户群_深挖缺口_{DATE}.md')
 XMX = os.path.join(XD, f'mx_check_{DATE}.json')
 PMX = os.path.join(ROOT, 'data', f'planet_mx_check_{DATE}.json')
 FIELDS = ['库', '编号', '公司', '国家', '等级', '研究深度', '登记底数', '官网快照', '域名MX', '邮箱', '具名KP', '复核', '跨库重复', '还缺什么']
+
+
+CC2 = {'co.uk', 'org.uk', 'com.tr', 'com.au', 'net.au', 'co.za', 'com.my', 'com.br', 'co.in', 'com.pl', 'com.ua', 'com.mx', 'com.ar', 'co.nz', 'com.sg',
+       'com.hk', 'co.jp', 'co.kr', 'com.vn', 'com.ph', 'com.pk', 'com.bd', 'com.eg', 'com.sa', 'co.il', 'com.co', 'com.pe', 'com.ec', 'com.uy', 'com.py',
+       'com.bo', 'com.ve', 'com.gt', 'com.do', 'com.ng', 'co.ke', 'co.tz', 'com.gh', 'com.np', 'com.lb', 'com.kw', 'com.qa', 'com.om', 'com.bh', 'co.th', 'com.tw'}
+
+
+def host_of(u):
+    """网站字段 → 主机名（去协议 / 路径 / 空格 / 中文注释）"""
+    import re
+    u = (u or '').strip().lower()
+    u = re.sub(r'^https?://', '', u)
+    u = re.split(r'[/\s（(]', u)[0]
+    return u[4:] if u.startswith('www.') else u
+
+
+def reg_domain(h):
+    """主机名 → 可注册域（planet.spectra.de → spectra.de；shop.xx.co.uk → xx.co.uk）用于 MX 查询"""
+    h = host_of(h)
+    parts = h.split('.')
+    if len(parts) <= 2:
+        return h
+    if '.'.join(parts[-2:]) in CC2 or (parts[-2] in ('com', 'co', 'net', 'org', 'biz', 'gov', 'edu', 'ac', 'or', 'ne', 'info') and len(parts[-1]) == 2):
+        return '.'.join(parts[-3:])
+    return '.'.join(parts[-2:])
+
+
+def snap_file_status(code):
+    """External / Planet 仓 的快照直接读 data/saga_clients/site_snapshots/<code>.json（Actions 补抓落点；摘要器只收 Saga）。"""
+    p = os.path.join(SD_DIR, code + '.json')
+    if not os.path.exists(p):
+        return None
+    try:
+        return json.load(open(p, encoding='utf-8')).get('status') or 'unknown'
+    except Exception:
+        return 'broken'
 
 
 def load_json(p, default=None):
@@ -76,9 +113,9 @@ def dns_check(domains, cache_path, workers=16):
         with cf.ThreadPoolExecutor(max_workers=workers) as ex:
             for d, r in ex.map(one, todo):
                 cache['domains'][d] = r
-        cache['_meta'] = {'checked': DATE, 'source': 'DNS MX/A 查询（dnspython，沙箱解析器）', 'domains': len(cache['domains']),
-                          'status_counts': dict(collections.Counter(v['status'] for v in cache['domains'].values()))}
-        json.dump(cache, open(cache_path, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+    cache['_meta'] = {'checked': DATE, 'source': 'DNS MX/A 查询（dnspython，沙箱解析器）', 'domains': len(cache['domains']),
+                      'status_counts': dict(collections.Counter(v['status'] for v in cache['domains'].values()))}
+    json.dump(cache, open(cache_path, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     return cache['domains']
 
 
@@ -103,6 +140,8 @@ def saga_rows():
             depth = '骨架'
         elif '深挖' in lv:
             depth = '深挖'
+        elif ('LT-T01' in lv or '桌面' in lv) and isinstance(deep, dict) and deep.get('snapshot_at'):
+            depth = '桌面加厚 + 官网快照（LT-T03）'
         elif 'LT-T01' in lv or '桌面' in lv:
             depth = '桌面加厚（LT-T01，待官网快照）'
         elif 'LT-T02' in lv or '实查' in lv:
@@ -126,7 +165,7 @@ def saga_rows():
         miss = []
         if depth == '骨架':
             miss.append('加厚（官网 / 业务线 / 型号对位）')
-        elif depth.startswith('桌面加厚'):
+        elif depth.startswith('桌面加厚（'):
             miss.append('官网快照后加厚（型号对位校正）')
         if regs == '无':
             miss.append('登记底数')
@@ -150,16 +189,18 @@ def external_rows(do_dns=True):
             recs[r['code']] = r
     ov = load_json(os.path.join(XD, 'overrides.json'))
     codes = [c for c, o in ov.items() if o.get('grade') != 'C' and (o.get('grade') == 'B' or (o.get('review') or {}).get('status') == '留B')]
-    doms = [recs[c].get('domain') for c in codes if recs.get(c, {}).get('domain')]
+    doms = [reg_domain(recs[c].get('domain')) for c in codes if recs.get(c, {}).get('domain')]
     mx = dns_check(doms, XMX) if do_dns else (load_json(XMX, {}).get('domains') or {})
     out = []
     for c in codes:
         r = recs[c]
         o = ov[c]
         card = load_json(os.path.join(XD, 'research', f'{c}.json'))
-        depth = ('深挖' if card.get('deep') is True else '桌面卡') if card else '无卡'
+        xs = snap_file_status(c)
+        xsnap = '有（ok）' if xs == 'ok' else (f'失败（{xs}）' if xs else '无')
+        depth = ('深挖' if card.get('deep') is True else ('桌面卡 + 官网快照（LT-T03）' if xs == 'ok' and card.get('round') == 'LT-T03' else '桌面卡')) if card else '无卡'
         regs = '已坐实' if card and any('登记' in str(ev.get('kind', '')) or '工商' in str(ev.get('claim', '')) for ev in card.get('evidence') or []) else '无'
-        d = r.get('domain') or ''
+        d = reg_domain(r.get('domain') or '')
         mxs = (mx.get(d, {}).get('status') or '未查') if d else '无域名'
         em = '有' if (r.get('emails_live') or r.get('emails')) else '无'
         kp = '有' if str(r.get('kp_named')) == 'True' or (card and (card.get('contacts') or {}).get('kp')) else '无'
@@ -170,7 +211,7 @@ def external_rows(do_dns=True):
         miss = []
         if depth == '无卡':
             miss.append('研究卡（桌面）')
-        if depth != '深挖':
+        if depth == '桌面卡':
             miss.append('官网快照 + 加厚')
         if regs == '无':
             miss.append('登记底数')
@@ -181,27 +222,31 @@ def external_rows(do_dns=True):
         if kp == '无':
             miss.append('具名 KP')
         out.append({'库': 'External', '编号': c, '公司': r.get('name', '')[:60], '国家': r.get('country_zh', ''), '等级': 'B', '研究深度': depth, '登记底数': regs,
-                    '官网快照': '无', '域名MX': mxs, '邮箱': em, '具名KP': kp, '复核': rv, '跨库重复': dup, '还缺什么': '；'.join(miss) or '齐'})
+                    '官网快照': xsnap, '域名MX': mxs, '邮箱': em, '具名KP': kp, '复核': rv, '跨库重复': dup, '还缺什么': '；'.join(miss) or '齐'})
     return out
 
 
 def planet_rows(do_dns=True):
     rows = list(csv.DictReader(open(PCSV, encoding='utf-8-sig')))
     ab = [r for r in rows if (r['人工定级'] or r['评级']) in ('A', 'B')]
-    doms = [r['网站'].split('/')[0].replace('www.', '') for r in ab if r['网站']]
+    doms = [reg_domain(r['网站']) for r in ab if r['网站']]
     mx = dns_check(doms, PMX) if do_dns else (load_json(PMX, {}).get('domains') or {})
     out = []
     for r in ab:
         c = r['档案编号']
         g = r['人工定级'] or r['评级']
-        d = r['网站'].split('/')[0].replace('www.', '') if r['网站'] else ''
+        d = reg_domain(r['网站']) if r['网站'] else ''
         mxs = (mx.get(d, {}).get('status') or '未查') if d else '无域名'
         em = '有' if '@' in (r['入口/联系方式'] or '') else '无'
         kp = '有' if any(k in (r['入口/联系方式'] or '') + (r['备注'] or '') for k in ('Mr', 'Ms', 'CEO', 'Owner', 'Director', '经理', '总')) else '无'
         rv = (r['长期群复核'] or '未过').split('（')[0][:24]
         dup = f"Saga/Mikrotik {r['Mikrotik仓库对照编号']}" if r['Mikrotik仓库对照编号'] else '—'
         depth = '仓研究（评级依据 + 证据 URL）' if r['评级依据'] and r['PLANET关联证据URL'] else '名录级'
-        miss = ['官网快照 + 加厚', '登记底数']
+        ps = snap_file_status(c)
+        psnap = '有（ok）' if ps == 'ok' else (f'失败（{ps}）' if ps else '无')
+        if ps == 'ok' and '快照ok' in (r['备注'] or ''):
+            depth += ' + 官网快照（LT-T03）'
+        miss = ([] if ps == 'ok' and '快照ok' in (r['备注'] or '') else ['官网快照 + 加厚']) + ['登记底数']
         if d and mxs not in ('ok', 'no_mx'):
             miss.append(f'邮箱域异常（{mxs}）')
         if em == '无':
@@ -209,7 +254,7 @@ def planet_rows(do_dns=True):
         if kp == '无':
             miss.append('具名 KP')
         out.append({'库': 'Planet 仓', '编号': c, '公司': r['公司名'][:60], '国家': r['国家'], '等级': g, '研究深度': depth, '登记底数': '无',
-                    '官网快照': '无', '域名MX': mxs, '邮箱': em, '具名KP': kp, '复核': rv, '跨库重复': dup, '还缺什么': '；'.join(miss)})
+                    '官网快照': psnap, '域名MX': mxs, '邮箱': em, '具名KP': kp, '复核': rv, '跨库重复': dup, '还缺什么': '；'.join(miss)})
     return out
 
 
@@ -305,7 +350,7 @@ def main():
           '2. **加厚**：快照到了就跑 `snapshot_digest.py` + 加厚批（型号对位 / 在卖品牌 / 页面邮箱 → 研究档），不需要 Simon。',
           '3. **登记底数**：Saga 已全覆盖；External / Planet B 按「四主区 + 波兰 → 欧洲其他 → 其他」顺序分批坐实（每批 24 户，走 `registry_store` 同一套配方）。',
           '4. **具名 KP**：快照页面邮箱 + 登记董事（officers）回填；没有就留 info@（规则：具名 KP > info@，但不编造）。',
-          '5. **邮箱域异常**：nxdomain / dead 的 → 先查是否换域名，查不到 → 打回 C 储备（Gate 0 不是，因为还有网站或其他路径）。', '']
+          '5. **邮箱域异常**：nxdomain / dead 的 → 先查是否换域名，查不到 → 打回 C 储备（Gate 0 不是，因为还有网站或其他路径）。**已做（LT-R09，2026-10-29）**：Saga 12 户 + Planet 1 户逐个 DNS 复查：3 户是早上超时误报（SB-545 / SB-1037 / SB-310，改回正常）；5 户域名真死但有备用路径或真回（SB-082 WA、SB-110 FB 公开 gmail + 3 真回、SB-1103 gmail + 1 真回、SB-194 yahoo + 报过价、SB-944 官网在营仅 DNS 委派坏且国别改保加利亚）→ 留 B，表里仍标「邮箱域异常」提醒下次发信换路径；5 户无路径打回 C 储备（SB-1081 / SB-671 / SB-720 / SB-892 / PB-029 Microsam，可逆）。', '']
     L += cross_checks()
     L += ['## 5. 决定（默认，Simon 一句话可改）', '',
           '- **B 普通跟（B2）**：做到「桌面卡 + 官网快照 + 邮箱域活」为止，不逐户查登记 / 具名 KP——群发不需要，省时间。',

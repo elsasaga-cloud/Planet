@@ -1,14 +1,15 @@
 # my-tec.co
 **官方名称（调研核实）**：MyTec（mytec-iq.com，伊拉克）
 
-> **评级 B**　|　伊拉克　|　档案编号 `SB-671`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
+> **评级 C**　|　伊拉克　|　档案编号 `SB-671`　|　优先级 —　|　状态：WhatsApp 已加·未回复
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：WhatsApp 已加；推送 19 次（2023-10-17 → 2025-06-26）　|　**所在清单**：WA跟进　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-671
-rating: B
+rating: C
 rating_auto: B
+rating_research: C  # Q-76 LT-R09 2026-10-29 复核打回 C 储备：两域 my-tec.co / mytec-iq.com 均失效（NXDOMAIN 2026-1
 name_official: "MyTec（mytec-iq.com，伊拉克）"
 score: 34
 country: 伊拉克
@@ -32,10 +33,9 @@ updated: 2026-10-29
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：伊拉克 IT 公司 MyTec（Mushtaq Al Takhakh），表内「有过详细产品交谈，处理公司产品」；WA 19 次无实质回复；域名失效。（调研 2026-10-21；表内兴趣：处理公司产品  有过详细产品交谈）
-- **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+15 WhatsApp 已加并有跟进表；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/伊拉克；+5 最近活动 2025；-16 推送 19 次无任何回复（聋名单）
+- **为什么是 C 级**：**调研后定级 C**（Q-76 LT-R09 2026-10-29 复核打回 C 储备：两域 my-tec.co / mytec-iq.com 均失效（NXDOMAIN 2026-10-29）+ 只剩 yahoo + WA 19 次 0 实质回复 + 伊拉克非主区 → 无路径 → C 储备（来信即回 B）；c_sub=储备·复核打回 ；回信 / 询价即回 B）；自动分级 B：+12 备注记录了对方问价/要资料/见面等互动；+15 WhatsApp 已加并有跟进表；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/伊拉克；+5 最近活动 2025；-16 推送 19 次无任何回复（聋名单）；C 级细分：储备·复核打回
 - **历史互动**：WhatsApp 已加；推送 19 次（2023-10-17 → 2025-06-26）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 无明确口型；入门 8 PoE 管理机。；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1**：不推（C 级）；若对方主动来询，起手 STC-28DGGPM（深挖对位：无明确口型；入门 8 PoE 管理机。）
 - **最大未知**：官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - **下一步**：不动 — —
 
@@ -53,41 +53,9 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 兴趣：处理公司产品 有过详细产品交谈 | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 复核 LT-R09 | DNS 2026-10-29：my-tec.co / mytec-iq.com NXDOMAIN | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来；用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
-
-## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
-
-> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
-
-- **日历窗口**：对方：2027-02-08 斋月（约） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
-
-## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
-
-> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
-
-**邮箱域体检（DNS MX / A，2026-10-29 查）：**
-
-- `my-tec.co` → 域名不存在。域名已不存在（NXDOMAIN）：这个域的所有地址都退信；公司可能换了域名或关门 → 先核再发，核不到就降级
-- `mytec-iq.com` → 域名不存在。域名已不存在（NXDOMAIN）：这个域的所有地址都退信；公司可能换了域名或关门 → 先核再发，核不到就降级
-- `yahoo.com` → Yahoo 小企业邮箱（MX：mta5.am0.yahoodns.net、mta6.am0.yahoodns.net、mta7.am0.yahoodns.net）。主机商附带邮箱（Yahoo 小企业邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
-- ⚠ 手里这些地址所在的域已收不了信：`mushtaq@mytec-iq.com` → 作废，别再发；该户若无其他域名 / 渠道，列入降级候选
-- 其他域名仍活：`yahoo.com` → 只用这些域的地址
-
-**假日避让：** 下一步为「不动」，不排发信，略。
-
-**公司底数 · 第 122 批（IQ · 1 次检索：「MyTec Iraq mytec-iq.com Mushtaq」→ dnb MYTEC CO.,LTD.（釜山）/ linkedin Mytec（秘鲁仪表）/ MYTecSoft（美国）均非本户；2026-10-29，2026-10-29 查；）：**
-
-- 法定名 / 登记号：MyTec（my-tec.co / mytec-iq.com，域名失效；**1 查仅韩 / 秘 / 美同名 → 未坐实**）— 伊拉克 IT 公司；KP Mushtaq Al Takhakh；表内「有过详细产品交谈」；WA 19 次无实质回复 · 未取（1 查未命中本体） · 状态 **域名失效（存续待核）** · 成立 未取 · 未取
-- 行业码 / 经营范围：IT（伊拉克）
-- 注册地址：未取（Iraq）
-- 规模档：小型（推定）
-- 账目：未取；—
-- 高管：Mushtaq Al Takhakh — 联系人（研究档 KP；mushtaq@mytec-iq.com）
-- 控制人 / 股东：未取
-- **这意味着什么：**
-  - **域名失效 + 19×0 + 未坐实 → 不动（B 保留）**— 伊拉克常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方经迪拜 / 土耳其货代自提清关）
-- 备注：不动（存续待核 + 19×0）；未坐实。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -115,6 +83,7 @@ updated: 2026-10-29
   > 兴趣：处理公司产品 有过详细产品交谈
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Mushtaq Al Takhakh（联系人（研究档 KP）— 不动：域名失效 + 19×0 — 伊拉克常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方经迪拜 / 土耳其货代清关）（第 122 批 官方登记核实 2026-10-29））mushtaq@mytec-iq.com +964 770 270 3008〔（本地 Clients/ 表格，无公开 URL）〕
+- **调研后定级**：C（原自动 B）——Q-76 LT-R09 2026-10-29 复核打回 C 储备：两域 my-tec.co / mytec-iq.com 均失效（NXDOMAIN 2026-10-29）+ 只剩 yahoo + WA 19 次 0 实质回复 + 伊拉克非主区 → 无路径 → C 储备（来信即回 B）；c_sub=储备·复核打回 ；回信 / 询价即回 B
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照不可达 + 表内））
@@ -205,32 +174,10 @@ updated: 2026-10-29
 |---|---|---|---|---|---|---|---|---|---|
 | Whatsapp_S跟进 2026.08.04.xlsx#总表:99 | 98 | https://my-tec.co/ | 伊拉克 | Mushtaq AL takhakh | 领英 | 处理公司产品 <br>有过详细产品交谈 | mushtak_tahkahk@yahoo.com<br>mushtaq@mytec-iq.com | 9647702 703008<br>已加 | 19 条 |
 
-## 产品决策（Saga · 单一决策口径）
-
-| 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
-|---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：无明确口型；入门 8 PoE 管理机。 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（经销/集成（类型待核）） |
-| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：25% 档 $145.7 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），25% 档公式为 $188.7——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-
-- **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
-
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
-
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
-- **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
-- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
-- **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
-
-## SWOT
-
-- **S**：WhatsApp 直达
-- **W**：已推送 19 次无回复，邮件通道疲劳；中东：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STC-28DGGPM 按 25% 档报价，做现供应商的第二货源
-- **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
+> C 级不主动跟进。保留档案的意义：① 不重复开发；② 若对方主动来询再升级。
+> 不跟进理由：储备·复核打回。若用户不同意，在 `data/saga_clients/人工定级.csv` 写一行 `SB-671,B,理由` 后重跑即可。
 
 ## 触达与风险红线
 
@@ -249,7 +196,7 @@ updated: 2026-10-29
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
-| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
+| 商业资格结论 | **不合格（见 C 级细分）→ 不主动跟进** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -258,27 +205,7 @@ updated: 2026-10-29
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
-
-```text
-Hi Mushtaq,
-
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
-
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
-```
-
-> 研究档备注（未并入正文）：（低优先；若再询再报）
-
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> C 级不出邮件样板（不主动跟进）。
 
 ## 新跟进记录（仓库外发出后补）
 
@@ -290,11 +217,11 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- 不复核。对方主动来询 → 在 `data/saga_clients/人工定级.csv` 写一行升级后重跑。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）；人工/调研定级 → C
 
 ---
 

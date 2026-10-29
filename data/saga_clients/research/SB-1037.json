@@ -133,6 +133,14 @@
     "quote": "40个 24口POE交换机 distributor",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 复核 LT-R09",
+    "quote": "DNS 2026-10-29 14:48Z：hightrade-international.com MX 0 hightradeinternational-com02c.mail.pro；A 109.234.165.213",
+    "why": "长期客户群复核证据（非邮件事实，不计真回）",
+    "url": ""
    }
   ],
   "proof_gaps": [
@@ -143,5 +151,15 @@
    "body": "Hi Thomas,\n\nSome time ago you had a product mail from us - \"24 Port PoE Managed Switch\" on 3 September, priced at $170 - and there was no reason to answer a mass mail. This one is about your own requirement: 40 units of 24-port PoE switches.\n\nTwo ways to fill it, both Marvell-based L2+ managed (VLAN / QoS / IGMP, web GUI), CE/RoHS, neutral or your packaging, 10-15 days for 40 units:\n\n- 24 x Gigabit PoE+ (280 W) + 4 x Gigabit SFP, model STC-424DGGPM-280W - $134.5 USD EXW each (about $5,380 for 40, MOQ 1, 15-day validity).\n- 24 x Gigabit PoE+ (280 W) + 4 x 10G SFP+, model STC-424XGGPM-280W - now $180 USD EXW (the September mail said $170; the RMB moved from 7.2 to 6.7 against the dollar since then).\n\nIf the end customer only needs unmanaged 24-port PoE, there is a lower-cost unit on our Realtek line as well - I would quote it once I know the PoE budget they expect.\n\nOne question: is the 40-unit requirement still open, and which uplink does the end customer need - Gigabit SFP or 10G SFP+?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
- }
+ },
+ "lt_review": {
+  "status": "留 B",
+  "batch": "LT-R09",
+  "prio": null,
+  "queued": "LT-R09",
+  "verdict_date": "2026-10-29",
+  "note": "DNS 复查正常（hightrade-international.com MX mail.pro / A 109.234.165.213 / NS o2switch，2026-10-29 14:48Z；早上那轮误报）→ 不动",
+  "why": ""
+ },
+ "override_history": []
 }

@@ -99,7 +99,7 @@
 ## 8. 研究卡（第 2 步，LT-T01，2026-10-29）
 
 - **结论：XB** — 桌面复核（来源库核对 + 研究卡）：区域网络产品分销/SI（东非多国）；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））
-- 活着吗：域名 sales.kenya 不存在（NXDOMAIN；DNS 2026-10-29）→ 路径待核 / 可能换域
+- 活着吗：域名修正为 mart-networks.com（原 sales.kenya 是邮箱用户名 / 注释 / 旧域）；DNS 2026-10-29 MX + A 正常；官网快照待 Actions 补抓
 - 一句话：Mart Networks（Kenya/Tanzania/Uganda/Rwanda 四国体系）（肯尼亚（东非））：区域网络产品分销/SI（东非多国）
 - 是什么人：区域网络产品分销/SI（东非多国）
 - 对口哪条线：STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）
@@ -111,8 +111,10 @@
 证据：
 | 类型 | 说明 | 摘录 | 来源 | 日期 |
 |---|---|---|---|---|
-| 来源库官网/名录核对 | 区域网络产品分销/SI（东非多国） |  | https://sales.kenya | 2026-10-27 |
+| 来源库官网/名录核对 | 区域网络产品分销/SI（东非多国） |  | https://mart-networks.com | 2026-10-27 |
 | 来源库证据链接 | 来源库调研时引用 |  | https://www.edge-core.com/where-to-buy/emea-reseller/ | 2026-10-27 |
 | 长期群复核 LT-R07 | 桌面复核（来源库核对 + 研究卡）：区域网络产品分销/SI（东非多国）；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%）） |  |  | 2026-10-29 |
+| 域名修正 | 记录域名 sales.kenya → mart-networks.com（LT-X01 2026-10-29：域名由邮箱 sales@mart-networks.com 取（导入时误把邮箱用户名 sales.kenya 当域名））；DNS 2026-10-29 MX + A 正常 | domain_prev=sales.kenya | https://mart-networks.com/ | 2026-10-29 |
 
-- 备注：LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。
+- 备注：LT-X01b 域名修正同步（2026-10-29）：sales.kenya → mart-networks.com。
+LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。

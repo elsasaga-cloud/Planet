@@ -73,7 +73,7 @@
 ## 8. 研究卡（第 2 步，LT-T01，2026-10-29）
 
 - **结论：XB** — 桌面复核（来源库核对 + 研究卡）：分销（MikroTik 官方）；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%））
-- 活着吗：域名 smart-network.ge 无解析（DNS 2026-10-29）→ 路径待核
+- 活着吗：域名修正为 takopi.ge（原 smart-network.ge 是邮箱用户名 / 注释 / 旧域）；DNS 2026-10-29 MX + A 正常；官网快照待 Actions 补抓
 - 一句话：TAKOPI GEORGIA（smart-network.ge）（格鲁吉亚）：分销（MikroTik 官方）；MikroTik（Master+VAD）
 - 是什么人：分销（MikroTik 官方）
 - 在卖/在用：MikroTik
@@ -86,7 +86,9 @@
 证据：
 | 类型 | 说明 | 摘录 | 来源 | 日期 |
 |---|---|---|---|---|
-| 来源库官网/名录核对 | 分销（MikroTik 官方） |  | https://smart-network.ge | 2026-10-12 |
+| 来源库官网/名录核对 | 分销（MikroTik 官方） |  | https://takopi.ge | 2026-10-12 |
 | 长期群复核 LT-R07 | 桌面复核（来源库核对 + 研究卡）：分销（MikroTik 官方）；行业内 ✔ 对位 ✔ 有路径 ✔ → 留 B 普通跟·群发（非主区（预付 100%）） |  |  | 2026-10-29 |
+| 域名修正 | 记录域名 smart-network.ge → takopi.ge（LT-X01 2026-10-29：smart-network.ge 无解析（DNS 2026-10-29）；邮箱域 takopi.ge 为现行域）；DNS 2026-10-29 MX + A 正常 | domain_prev=smart-network.ge | https://takopi.ge/ | 2026-10-29 |
 
-- 备注：LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。
+- 备注：LT-X01b 域名修正同步（2026-10-29）：smart-network.ge → takopi.ge。
+LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。

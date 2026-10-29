@@ -55,6 +55,7 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 研 | 官网 | 业务范围与 WhatsApp 号码；网站建设中：Voltech Elektronik: Kamera sistemleri, telefon santral, bilgisayar çözümleri, alarm ve güvenlik sistemleri… Silivri ve çevresinde… Web sitemiz yapım aşamasında… WhatsApp: +90 551 375 12 25 | 无任何邮件往来；唯一证据为研究/用户表记录 | `http://www.voltechelektronik.com/` |
+| 2026-10-29 | 查 | Agent 复核 LT-R09 | DNS 2026-10-29：voltechelektronik.com MX/A/NS = NXDOMAIN | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来；用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 

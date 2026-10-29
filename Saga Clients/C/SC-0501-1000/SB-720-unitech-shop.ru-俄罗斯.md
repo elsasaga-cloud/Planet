@@ -1,13 +1,14 @@
 # unitech-shop.ru
 
-> **评级 B**　|　俄罗斯　|　档案编号 `SB-720`　|　优先级 ★★　|　状态：名单内·未触达
+> **评级 C**　|　俄罗斯　|　档案编号 `SB-720`　|　优先级 —　|　状态：名单内·未触达
 >
 > **类型**：PoE 网店（俄罗斯，HRUI 在售，Q-33 口径）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：在用同行产品　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-720
-rating: B
+rating: C
 rating_auto: B
+rating_research: C  # Q-76 LT-R09 2026-10-29 复核打回 C 储备：域名 unitech-shop.ru 失效（NXDOMAIN 2026-10-29）+ 官网早
 score: 33
 country: 俄罗斯
 region: 俄语区
@@ -31,10 +32,9 @@ updated: 2026-10-29
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：俄罗斯 Unitech-shop（unitech-shop.ru：商业 PoE 网店，「很多外壳 有洪瑞（HRUI）的」→ Q-33 口径；官网 unreachable）；表内未跟进。（调研 2026-10-21；表内兴趣：商业PoE）
-- **为什么是 B 级**：+10 用户二筛：在用 Utepo/ONV/Ewind 等同行产品（贴牌切入口）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯
+- **为什么是 C 级**：**调研后定级 C**（Q-76 LT-R09 2026-10-29 复核打回 C 储备：域名 unitech-shop.ru 失效（NXDOMAIN 2026-10-29）+ 官网早已 unreachable + 表内未跟进 + Q-33（在卖 HRUI 外壳）+ RU 收款待定 → 无路径 → C 储备（来信即回 B）；c_sub=储备·复核打回 ；回信 / 询价即回 B）；自动分级 B：+10 用户二筛：在用 Utepo/ONV/Ewind 等同行产品（贴牌切入口）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；C 级细分：储备·复核打回
 - **历史互动**：名单内·无互动记录
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — HRUI 在售 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5）。已打开的主题（1/4 封有打开记录）：「Mini Industrial PoE Switch」(2024-10-09) → 读者兴趣偏「工业」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-10 $65（10G media converter）、2024-09-06 $300（48 port poe managed switch）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1**：不推（C 级）；若对方主动来询，起手 STC-28DGGPM（深挖对位：HRUI 在售 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5））
 - **最大未知**：官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - **下一步**：不动 — —
 
@@ -54,48 +54,7 @@ updated: 2026-10-29
 | 2024-10-09 | 去 | S 群发 | 24 port PoE switch、10G media converter | 4 封 / 1 次打开 / 0 回｜首封 2024-07-12 → 末封 2024-10-09（4 去 / 0 来） | `gmail_digest` |
 | 2024-10-09 | 内 | Gmail 退信 | ** Message blocked ** Your message to info@unitech-shop.ru has been blocked… 550 LTD BeGet: user not found. | 去信没有送达；「1 次记录打开」无效；本户本就按 Q-33 不动 | `gmail_s 358e0b89bc10ef9d` |
 | 2026-10-21 | 用户表 | Simon | 商业PoE | 表内备注 | `用户表` |
-
-## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
-
-> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
-
-- **本国来询季节（RU 全库 17 个「户·月」真人来信，样本小）**：12 月 23.5% / 5 月 23.5% / 1 月 11.8%——本户来信太少，按本国节奏排下一步。
-- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 4 封（2024-07-12 → 2024-10-09），打开标签 1 次（近 12 个月 0，最后 2024-10-09）；打开过：「Mini Industrial PoE Switch」×1（2024-10-09）；从未打开：「24 port PoE switch」、「10G media converter」、「48 port poe managed switch」。
-- **报价轨迹**（S/A 去信里「价 + 型号/描述同句」：1:1 0 条 + 个性化群发价 2 条，2024-08-10 → 2024-09-06；「今天」= 价格主表 2026-10-17 汇率、20% 档、不高于 2026-06 列表价；只列每个型号/描述最近一次，最多 8 行）：
-
-  | 日期 | 型号 / 原句 | 当时 | 今天应报 | 变化 | 性质 | 主题 | 消息 key |
-  |---|---|---|---|---|---|---|---|
-  | 2024-09-06 | 「Price is very competitive, 300usd/pc」 | $300 | —（原句无型号） | — | 群发价 | 48 port poe managed switch | `361bcbc147d0f79b` |
-  | 2024-08-10 | 「Price: 65usd/pc, 1×10G SFP+1×100M/1G/2.5G/10G Ethernet, unmanaged, non」 | $65 | —（原句无型号） | — | 群发价 | 10G media converter | `04b0feafb9c5dff8` |
-
-  「个性化群发价」= 同一句价发给 ≥5 家的信（Simon 的手工群发），对方未必读过，但它就是对方邮箱里躺着的「上次报价」。
-- **同国同档参照（RU，20% 档、主推线「商用 2.5G PoE 管理型」，共 3 户有动静，列前 3）**：SA-035 td-fe.com（A，同档：回过 15 次（最近 2025-01-03），1:1 报过 8 次）；SB-060 bargas.ru（B，同档：1:1 报过 1 次）；SB-163 skeo.ru（B，同档：1:1 报过 1 次）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
-- **日历窗口**：对方：2026-11-04 民族统一日；2027-01-01 新年长假（01-01 → 01-10 整体停摆） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
-
-## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
-
-> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
-
-**邮箱域体检（DNS MX / A，2026-10-29 查）：**
-
-- `unitech-shop.ru` → 域名不存在。域名已不存在（NXDOMAIN）：这个域的所有地址都退信；公司可能换了域名或关门 → 先核再发，核不到就降级
-- ⚠ 手里这些地址所在的域已收不了信：`info@unitech-shop.ru` → 作废，别再发；该户若无其他域名 / 渠道，列入降级候选
-
-**假日避让：** 下一步为「不动」，不排发信，略。
-
-**公司底数 · 第 113 批（RU · 1 次检索：unitech-shop.ru（Видеонаблюдение и системы безопасности под ключ в Раменском, Москве и области；Сетевое оборудование PoE）+ unitek.ru / saby（同名 ООО «Юнитек» 均非本户，≠）；页脚法人未见；1 查即停；2026-10-28，2026-10-28 查；https://unitech-shop.ru/）：**
-
-- 法定名 / 登记号：Unitech-shop.ru（Раменское / 莫斯科州 CCTV + PoE 网店 + 安装）— **法人未取**（同名 ООО «Юнитек» 多家 ≠：7451260685 车里雅宾斯克发电机 / 7842327909 СПб 工业设备 / 5904266846 Пермь 金属加工）；info@ 2024-10-09 永久退信（550 user not found）→ 地址失效；表内「很多外壳 有洪瑞（HRUI）的」 · 未取 · 状态 **站点在线 / 邮箱失效** · 成立 未取 · 未取
-- 行业码 / 经营范围：CCTV / PoE 网店 + 安装（莫斯科州拉缅斯科耶）
-- 注册地址：Раменское, Московская обл.（街道未取）
-- 规模档：微型
-- 账目：—；—
-- 高管：（无 KP；info@ 退信）
-- 控制人 / 股东：未取
-- **这意味着什么：**
-  - **法人未取 + 唯一邮箱永久退信 + 微型网店 → 不动（地址失效；B 保留）**
-  - Q-33 HRUI 口径（若日后有新通道）= 只推 SmartByte / Marvell 管理 / 工业线
-- 备注：不动（地址失效 + 未坐实）。
+| 2026-10-29 | 查 | Agent 复核 LT-R09 | DNS 2026-10-29：unitech-shop.ru NXDOMAIN | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -124,6 +83,7 @@ updated: 2026-10-29
 - **【用户表】很多外壳 有洪瑞的**
   > 商业PoE；很多外壳 有洪瑞的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **调研后定级**：C（原自动 B）——Q-76 LT-R09 2026-10-29 复核打回 C 储备：域名 unitech-shop.ru 失效（NXDOMAIN 2026-10-29）+ 官网早已 unreachable + 表内未跟进 + Q-33（在卖 HRUI 外壳）+ RU 收款待定 → 无路径 → C 储备（来信即回 B）；c_sub=储备·复核打回 ；回信 / 询价即回 B
 - 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
@@ -161,20 +121,6 @@ updated: 2026-10-29
 
 （无跟进表记录）
 
-## 邮箱往来（S 邮箱 · 自动汇总）
-
-- **账号**：s.sagatelecom　|　**邮件**：4 封（去 4 / 来 0）　|　**期间**：2024-07-12 → 2024-10-09　|　**最后去信**：2024-10-09
-- **对方邮箱**：info@unitech-shop.ru
-- 对方从未回信（全部为我方去信）
-- **邮件里报过的价**：2024-09-06 $300；2024-08-10 $65
-
-| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
-|---|---|---|---|---|---|
-| Mini Industrial PoE Switch | 2024-10-09 | 2024-10-09 | 1 | 1 | 3 |
-| 48 port poe managed switch | 2024-09-06 | 2024-09-06 | 0 | 1 | 1 |
-| 10G media converter | 2024-08-10 | 2024-08-10 | 0 | 1 | 1 |
-| 24 port PoE switch | 2024-07-12 | 2024-07-12 | 0 | 1 | 1 |
-
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
 - **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z
@@ -207,32 +153,10 @@ updated: 2026-10-29
 |---|---|---|---|---|---|---|---|---|---|
 | 客户再筛选_在用同行的产品.xlsx#总表:54 | 53 | https://unitech-shop.ru/lokalnye-seti-sks/professionalnye-setevye-PoE-kommutatory-i-PoE-splittery/ | 俄罗斯 | 很多外壳 有洪瑞的 |  | 商业PoE | info@unitech-shop.ru |  | — |
 
-## 产品决策（Saga · 单一决策口径）
-
-| 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
-|---|---|---|---|---|
-| **P1** | STC-28DGGPM | 深挖对位：HRUI 在售 → 仅推 SmartByte/Marvell 线：8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$80.7 @20%）、24 口 STC-424DGGPM-280W（$134.5） | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（PoE 网店（俄罗斯，HRUI 在售，Q-33 口径）） |
-| 备选2 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：20% 档 $139.9 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $181.2——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-
-- **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
-
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
-
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
-- **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
-- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
-- **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
-
-## SWOT
-
-- **S**：名单内已有联系记录，不是零起点
-- **W**：俄语区：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 STC-28DGGPM 按 20% 档报价，做现供应商的第二货源
-- **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
+> C 级不主动跟进。保留档案的意义：① 不重复开发；② 若对方主动来询再升级。
+> 不跟进理由：储备·复核打回。若用户不同意，在 `data/saga_clients/人工定级.csv` 写一行 `SB-720,B,理由` 后重跑即可。
 
 ## 触达与风险红线
 
@@ -251,7 +175,7 @@ updated: 2026-10-29
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
-| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
+| 商业资格结论 | **不合格（见 C 级细分）→ 不主动跟进** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -260,23 +184,7 @@ updated: 2026-10-29
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STC-28DGGPM - 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks (Marvell-based, neutral label)
-
-```text
-Hello,
-
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For the managed PoE position in your shop, we supply neutral-brand Marvell-based 8-PoE + 2 SFP and 24-PoE + 4 SFP L2+ switches from small lots, CE/RoHS; EAC by your side — which PoE port count sells most?
-
-We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $80.7 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
-```
-
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> C 级不出邮件样板（不主动跟进）。
 
 ## 新跟进记录（仓库外发出后补）
 
@@ -288,11 +196,11 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- 不复核。对方主动来询 → 在 `data/saga_clients/人工定级.csv` 写一行升级后重跑。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 33）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 33）；人工/调研定级 → C
 
 ---
 

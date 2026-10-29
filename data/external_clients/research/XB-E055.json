@@ -3,7 +3,7 @@
  "name": "Computer Dynamics Limited",
  "round": "LT-T01",
  "researched_at": "2026-10-29",
- "alive": "域名 fletcher.prendergast 不存在（NXDOMAIN；DNS 2026-10-29）→ 路径待核 / 可能换域",
+ "alive": "域名修正为 cdl.co.nz（原 fletcher.prendergast 是邮箱用户名 / 注释 / 旧域）；DNS 2026-10-29 MX + A 正常；官网快照待 Actions 补抓",
  "summary": "Computer Dynamics Limited（新西兰 · Auckland）：分销商",
  "type_final": "分销商",
  "size": "",
@@ -15,7 +15,7 @@
    "kind": "来源库官网/名录核对",
    "claim": "分销商",
    "quote": "",
-   "url": "https://fletcher.prendergast",
+   "url": "https://cdl.co.nz",
    "date": "2026-10-27"
   },
   {
@@ -38,6 +38,13 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "域名修正",
+   "claim": "记录域名 fletcher.prendergast → cdl.co.nz（LT-X01 2026-10-29：域名由邮箱 sales@cdl.co.nz 取（导入误把用户名当域名））；DNS 2026-10-29 MX + A 正常",
+   "quote": "domain_prev=fletcher.prendergast",
+   "url": "https://cdl.co.nz/",
+   "date": "2026-10-29"
   }
  ],
  "contacts": {
@@ -59,5 +66,6 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。"
+ "notes": "LT-X01b 域名修正同步（2026-10-29）：fletcher.prendergast → cdl.co.nz。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "domain_fix": "cdl.co.nz"
 }

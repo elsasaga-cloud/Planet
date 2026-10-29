@@ -53,6 +53,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-22 | 去 | A/S 群发 | Marvell Industrial Alert System、Managed Optical Bypass Switch | 35 封 / 1 次打开 / 0 回｜首封 2024-06-19 → 末封 2026-09-22（35 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 在用洪瑞的商业POE 换了PVC膜 | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 复核 LT-R09 | DNS 2026-10-29 14:48Z：mreit.co.kr MX 10 mail.mreit.co.kr；A 210.206.162.16 | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 

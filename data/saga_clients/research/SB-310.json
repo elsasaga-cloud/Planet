@@ -103,6 +103,14 @@
     "quote": "兴趣：问了8光8价格，要价格表，要工业级POE管理交换机",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 复核 LT-R09",
+    "quote": "DNS 2026-10-29 14:48Z：arcanlibya.com MX 10 mx1.secure.ly…；A 102.213.180.5",
+    "why": "长期客户群复核证据（非邮件事实，不计真回）",
+    "url": ""
    }
   ],
   "proof_gaps": [
@@ -111,5 +119,15 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
- }
+ },
+ "lt_review": {
+  "status": "留 B",
+  "batch": "LT-R09",
+  "prio": null,
+  "queued": "LT-R09",
+  "verdict_date": "2026-10-29",
+  "note": "DNS 复查正常（arcanlibya.com MX mx1–4.secure.ly / A 102.213.180.5，2026-10-29 14:48Z；早上那轮误报）→ 不动；ISAF 2025 接触 + WA 在",
+  "why": ""
+ },
+ "override_history": []
 }

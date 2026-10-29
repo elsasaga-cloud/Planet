@@ -70,7 +70,8 @@ updated: 2026-10-29
   > 大口FS POE 周边产品 自己的logo；https://www.draytek.de/vigorswitch-g2280.html
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **调研后定级**：C（原自动 B）——台湾厂商区域办事处/分销站：DrayTek（自研 VigorSwitch），非渠道客户；c_sub=厂商办事处/台湾厂商
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
+- 备注：交叉检查 LT-X01（2026-10-29）：同域 draytek.de 的 External 档 XA-C0021 为长期客户群主档（B）；本档 C 储备，升降跟 XA-C0021 走。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

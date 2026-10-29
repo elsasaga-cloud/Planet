@@ -1205,3 +1205,16 @@ PB-085,ESUS IT sp. z o.o.,波兰,B,C,LT-R08,2026-10-29,ESUS IT：内存 / SSD �
 PB-086,Technical Reality Limited,英国,B,B,LT-R08,2026-10-29,桌面复核（PLANET 关联证据 URL 已在表）：technicalreality.co.uk：PLANET IGS-4215-8P2T2S「42 in stock Additional stock expected 21/09/；在售 PLANET 交换机 = 行业内 ✔ 对位 ✔ 进口分销 ✔ → 留 B 普通跟·群发
 PB-091,DIGIRAM.PL Adam Tytoń,波兰,B,C,LT-R08,2026-10-29,DIGIRAM.PL（个体经营网店）：PLANET 全线为分销 feed 转售、个体微型、无进口 → C 储备
 XC-M170,Blue Helix,英国,B,C,LT-X01,2026-10-29,LT-X01 2026-10-29：副档随主档 —— 主档 Saga SC-2728 已复核打回 C 储备（Blue Helix Limited（CH 04836349）：Companies House 账目类别 Dormant / SIC 99999 休眠，名录（kompass）却标 20–49 人在营 → 交易主体不明朗（可能经 06248590 等关联号）；按「不明朗 → C 储备」，对方回信即回 B）→ 本档同步 C；主档回 B 本档跟着回
+SB-082,voltechelektronik.com,土耳其,B,B,LT-R09,2026-10-29,域名 voltechelektronik.com 已失效（NXDOMAIN 2026-10-29），但 ISAF 2025 现场接触 + WA 已加 = 路径在 WA；土耳其主区小型安防服务商、找工业 PoE 网管交换机 → 留 B（路径 = WhatsApp；邮箱不再发）
+SB-110,itkati.com,乌干达,A,B,LT-R09,2026-10-29,域名 itkati.com 已失效（NXDOMAIN 2026-10-29），但有 3 次实质回复；黄页 / Facebook 仍列 www.itkati.com，FB 公开邮箱 itkaticorp@gmail.com、电话 +256 704 575328 → 留 B，路径换 FB 公开 gmail（公开页取得，非编造）
+SB-1103,ara.com.bd,孟加拉国,A,B,LT-R09,2026-10-29,域名 ara.com.bd 失效（NXDOMAIN 2026-10-29；support@ 早已退信），备用 gmail smchan91@gmail.com 在表 + 1 次真回 + 海关显示买过磊通 → 留 B（路径 = 备用 gmail；非主区预付 100%）
+SB-194,SRI ANNAI BUSINESS ASSOCIATES,印度,B,B,LT-R09,2026-10-29,域名 sabaindia.com 失效（NXDOMAIN 2026-10-29），备用 sriannaiassociates@yahoo.com 在表 + 2024-04 对 L2 管理 2 光 8 PoE 报过 $75、1 次真回 → 留 B（路径 = yahoo；印度常规预付 100%）
+SB-944,fybera.com,比利时,B,B,LT-R09,2026-10-29,域名 fybera.com DNS 委派坏（NoNameservers 2026-10-29，疑临时）；搜索可见官网在营：自有品牌 Fybera 光纤无源 + 媒体转换器 + 熔接机，联系电话 +359 2 4214270 = 保加利亚索非亚（表内写比利时有误 → country_fix BG）→ 自牌进口商留 B（OEM 话题；MC 对位弱、交换机待问）
+SB-1081,sswmcctvshop.com,泰国,B,C,LT-R09,2026-10-29,域名 sswmcctvshop.com 失效（NXDOMAIN 2026-10-29）+ 只有 gmail + 16 次跟进 0 实质回复 + 泰国网店微型 → 无主体无路径 → C 储备（来信即回 B）
+SB-671,my-tec.co,伊拉克,B,C,LT-R09,2026-10-29,两域 my-tec.co / mytec-iq.com 均失效（NXDOMAIN 2026-10-29）+ 只剩 yahoo + WA 19 次 0 实质回复 + 伊拉克非主区 → 无路径 → C 储备（来信即回 B）
+SB-720,unitech-shop.ru,俄罗斯,B,C,LT-R09,2026-10-29,域名 unitech-shop.ru 失效（NXDOMAIN 2026-10-29）+ 官网早已 unreachable + 表内未跟进 + Q-33（在卖 HRUI 外壳）+ RU 收款待定 → 无路径 → C 储备（来信即回 B）
+SB-892,telcofusion.com.mx,墨西哥,B,C,LT-R09,2026-10-29,域名 telcofusion.com.mx 失效（NXDOMAIN 2026-10-29）+ 只有 gmail + 需求 reverse PoE 板（Saga 无）+ 墨西哥非主区 → 不对位 + 无主体路径 → C 储备（来信即回 B）
+SB-545,mreit.co.kr,韩国,B,B,LT-R09,2026-10-29,DNS 复查正常（mreit.co.kr MX mail.mreit.co.kr / A 210.206.162.16，2026-10-29 14:48Z；早上那轮超时误报）→ 不动；韩国自有 MR- 系列 PoE 品牌商，KC 待核
+SB-1037,hightrade-international.com,法国,B,B,LT-R09,2026-10-29,DNS 复查正常（hightrade-international.com MX mail.pro / A 109.234.165.213 / NS o2switch，2026-10-29 14:48Z；早上那轮误报）→ 不动
+SB-310,arcanlibya.com,利比亚,B,B,LT-R09,2026-10-29,DNS 复查正常（arcanlibya.com MX mx1–4.secure.ly / A 102.213.180.5，2026-10-29 14:48Z；早上那轮误报）→ 不动；ISAF 2025 接触 + WA 在
+PB-029,Microsam,加拿大,B,C,LT-R09,2026-10-29,域名 microsam.ca 已失效（DNS 2026-10-29 MX/A/NS NXDOMAIN）；planet-ca.com 分销商名录仍列 info@microsam.ca / +1 (514) 999-9648，Facebook 页在、ZoomInfo <25 人 <$5M；邮箱路径断、只剩电话 / 社媒 → 无路径 → C 储备（补到邮箱即回 B）

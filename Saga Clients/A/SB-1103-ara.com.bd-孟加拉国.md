@@ -58,6 +58,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-08-11 | 去 | Elsa 群发（BCC；To kosovaku@gmail.com，印度-3（锚 kosovaku gmail；2025-02-28 起月轮，14 轮） 批次） | 24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC | Elsa 箱群发 BCC 触达证据（命中地址 smchan91@gmail.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：买的磊通的一些设备;Switch MC 周边产品 不是自己的牌子；回复：thanks | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 复核 LT-R09 | DNS 2026-10-29：ara.com.bd NXDOMAIN | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来；用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 

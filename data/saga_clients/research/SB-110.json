@@ -136,6 +136,22 @@
     "quote": "对价格OK 想拿样 贴标；2024.2.27 发了2光4小壳信息 → Give price for 4,8,16,24,64 ports；2024.3.18 → price",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 复核 LT-R09",
+    "quote": "yellow.ug：iTKATI UG LTD … established in 2009 … plot 4646 muwaire rd, Kampala … +256785284579 +256704575328 … www.itkati.com",
+    "why": "长期客户群复核证据（非邮件事实，不计真回）",
+    "url": "https://www.yellow.ug/company/40803/itkati-ug-ltd"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 复核 LT-R09",
+    "quote": "Facebook：ITKati Corp. … Makindye, Kampala … +256 704 575328 itkaticorp@gmail.com itkati.com",
+    "why": "长期客户群复核证据（非邮件事实，不计真回）",
+    "url": "https://www.facebook.com/itkati/"
    }
   ],
   "proof_gaps": [
@@ -154,5 +170,14 @@
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）"
   }
- ]
+ ],
+ "lt_review": {
+  "status": "留 B",
+  "batch": "LT-R09",
+  "prio": null,
+  "queued": "LT-R09",
+  "verdict_date": "2026-10-29",
+  "note": "域名 itkati.com 已失效（NXDOMAIN 2026-10-29），但有 3 次实质回复；黄页 / Facebook 仍列 www.itkati.com，FB 公开邮箱 itkaticorp@gmail.com、电话 +256 704 575328 → 留 B，路径换 FB 公开 gmail（公开页取得，非编造）",
+  "why": ""
+ }
 }

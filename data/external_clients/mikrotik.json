@@ -40921,7 +40921,7 @@
    "iso": "GE",
    "city": "",
    "website": "smart-network.ge",
-   "domain": "smart-network.ge",
+   "domain": "takopi.ge",
    "type": "分销（MikroTik 官方）",
    "signals": "MikroTik（Master+VAD）",
    "own_brand": "否",
@@ -41034,7 +41034,9 @@
    },
    "grade": "B",
    "grade_reason": "对口但不在主攻区（美加/欧/土以外）→ XB",
-   "code": "XB-M078"
+   "code": "XB-M078",
+   "domain_prev": "smart-network.ge",
+   "domain_fix_note": "LT-X01 2026-10-29：smart-network.ge 无解析（DNS 2026-10-29）；邮箱域 takopi.ge 为现行域"
   },
   {
    "repo": "mikrotik-info",
@@ -96048,7 +96050,7 @@
    "iso": "DE",
    "city": "Berlin",
    "website": "https://www.humanart-kyocera.de",
-   "domain": "humanart-kyocera.de",
+   "domain": "human-art.de",
    "type": "集成商/代理（Allied Telesis）",
    "signals": "Allied Telesis（Marvell Prestera 接入层）",
    "own_brand": "否",
@@ -96189,7 +96191,9 @@
    },
    "grade": "A",
    "grade_reason": "主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱（含实名 KP）",
-   "code": "XA-M388"
+   "code": "XA-M388",
+   "domain_prev": "humanart-kyocera.de",
+   "domain_fix_note": "LT-X01 2026-10-29：humanart-kyocera.de 不存在（NXDOMAIN 2026-10-29）；邮箱域 human-art.de 为现行域"
   },
   {
    "repo": "mikrotik-info",
@@ -103352,7 +103356,7 @@
    "iso": "IT",
    "city": "Donoratico (LI)",
    "website": "—（无公开站点）",
-   "domain": "camelisat.it与0564",
+   "domain": "camelisat.it",
    "type": "集成商/代理（Allied Telesis）",
    "signals": "Allied Telesis（Marvell Prestera 接入层）",
    "own_brand": "否",
@@ -103471,7 +103475,9 @@
    "touch": null,
    "grade": "A",
    "grade_reason": "主攻区（美加/欧/土）+ 渠道型买家 + 有可用商务邮箱（含实名 KP）",
-   "code": "XA-M431"
+   "code": "XA-M431",
+   "domain_prev": "camelisat.it与0564",
+   "domain_fix_note": "LT-X01 2026-10-29：导入把原文「info@camelisat.it与0564」整段当域名"
   },
   {
    "repo": "mikrotik-info",

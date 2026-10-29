@@ -33,8 +33,8 @@
    "role": "联系人（研究档 KP）— 不动：域名失效 + 19×0 — 伊拉克常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方经迪拜 / 土耳其货代清关）（第 122 批 官方登记核实 2026-10-29）"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "Q-76 LT-R09 2026-10-29 复核打回 C 储备：两域 my-tec.co / mytec-iq.com 均失效（NXDOMAIN 2026-10-29）+ 只剩 yahoo + WA 19 次 0 实质回复 + 伊拉克非主区 → 无路径 → C 储备（来信即回 B）；c_sub=储备·复核打回 ；回信 / 询价即回 B",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -96,6 +96,14 @@
     "quote": "兴趣：处理公司产品 有过详细产品交谈",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 复核 LT-R09",
+    "quote": "DNS 2026-10-29：my-tec.co / mytec-iq.com NXDOMAIN",
+    "why": "长期客户群复核证据（非邮件事实，不计真回）",
+    "url": ""
    }
   ],
   "proof_gaps": [
@@ -106,13 +114,22 @@
   "as_of": "2026-10-24"
  },
  "lt_review": {
-  "status": "留 B",
-  "batch": "LT-R05S",
+  "status": "打回 C",
+  "batch": "LT-R09",
   "prio": 2,
-  "queued": "LT-R05S",
+  "queued": "LT-R09",
   "verdict_date": "2026-10-29",
-  "note": "伊拉克 IT 公司 MyTec（Mushtaq Al Takhakh）：WA 已加、「有过详细产品交谈」、19 次跟进 → 真人往来 ✔ 行业内 ✔ → 留 B（预付）",
+  "note": "两域 my-tec.co / mytec-iq.com 均失效（NXDOMAIN 2026-10-29）+ 只剩 yahoo + WA 19 次 0 实质回复 + 伊拉克非主区 → 无路径 → C 储备（来信即回 B）",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA ✔，展会 —，绑定 未发信））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": []
+ "override_history": [
+  {
+   "batch": "LT-R09",
+   "date": "2026-10-29",
+   "from_override": null,
+   "to": "C",
+   "prev_reason": "",
+   "reason": "两域 my-tec.co / mytec-iq.com 均失效（NXDOMAIN 2026-10-29）+ 只剩 yahoo + WA 19 次 0 实质回复 + 伊拉克非主区 → 无路径 → C 储备（来信即回 B）"
+  }
+ ]
 }

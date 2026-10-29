@@ -1,6 +1,6 @@
 # fybera.com
 
-> **评级 B**　|　比利时　|　档案编号 `SB-944`　|　优先级 ★★　|　状态：已推送 12 次·未回复
+> **评级 B**　|　保加利亚　|　档案编号 `SB-944`　|　优先级 ★★　|　状态：已推送 12 次·未回复
 >
 > **类型**：光纤配件品牌商（比利时，自有标 MC；官网待核）（推断）　|　**历史关系**：推送 12 次（2022-11-22 → 2023-10-19）　|　**所在清单**：群发(已重新审核/谷歌 自己的logo)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -9,7 +9,8 @@ code: SB-944
 rating: B
 rating_auto: B
 score: 27
-country: 比利时
+country: 保加利亚
+country_table: 比利时  # 表内原填；调研纠正为 保加利亚（research JSON country_fix）
 region: 欧洲
 website: fybera.com
 type: 光纤配件品牌商（比利时，自有标 MC；官网待核）
@@ -54,6 +55,7 @@ updated: 2026-10-29
 | 2025-03-01 | 去 | Elsa 群发（BCC；To info@andasis.com，misc(TR/TN/TZ/NL/SA/BE/RU) 批次） | 8 Port Industrial PoE Switch — This is a Marvell based unmanaged 8 Port Gigabit PoE switch. 1. 30W per port for outdoor IP cameras 2. Support 250-meter PoE distance, PoE watchdog an | Elsa 箱群发 BCC 触达证据（命中地址 fybera.com, sales@fybera.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-05-12 | 去 | Elsa 群发（BCC；To info@andasis.com，misc(TR/TN/TZ/NL/SA/BE/RU) 批次） | 10G Enterprise SFP Switch — 24×1G SFP + 8 combo + 4×10G SFP+ managed, dual AC（价格不在摘要里；正文价 280usd/pc，第 74 批(p) 读稿 msg 19984c1d62ba38d6 / 19df5ef64e6ba213） | Elsa 箱群发 BCC 触达证据（命中地址 fybera.com, sales@fybera.com）；S/A digest 看不到 Elsa 的 BCC，之前据此写的「未发信/未触达」不成立 | `elsa_bcc` |
 | 2026-10-21 | 用户表 | Simon | MC 自己的logo 周边产品较多 看着像国内的外壳 | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 复核 LT-R09 | fybera.com：FYBERA - Your optical fibre equipment provider … Ethernet Media Converter 1100/2 Brand: Fybera … Email: sales@fybera.com · Call now: +359 2 4214270 | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来
 
@@ -72,9 +74,9 @@ updated: 2026-10-29
 - `fybera.com` → 无 MX 无 A。域名无 MX 也无 A 记录：收不了信也打不开网站 → 地址作废，降级候选
 - ⚠ 手里这些地址所在的域已收不了信：`sales@fybera.com` → 作废，别再发；该户若无其他域名 / 渠道，列入降级候选
 
-**假日避让（比利时 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（保加利亚 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
 
-- 法定假日：11-01 All Saints' Day；11-11 Armistice Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 窗口内无该国法定假日
 
 **公司底数 · 第 108 批（BE · 1 次检索「Fybera BVBA ondernemingsnummer」→ 仅 brandfetch 摘要（Fybera；optical communication distributor；founded 2010；2–10 employees）+ 同名异主 Fyber49 SRL 0839.140.763 / Fiberbroker BVBA 0649.404.805 / T.V.S.-FIBER BV（≠）；查不到即停，2026-10-28 查；https://fybera.com/）：**
 
@@ -95,7 +97,7 @@ updated: 2026-10-29
 | 项 | 内容 | 层级 |
 |---|---|---|
 | 名称 | fybera.com（取自域名，公司全名待核） | 推断 |
-| 国家 | 比利时 | 事实（用户表）|
+| 国家 | 保加利亚 | 事实（用户表）|
 | 网站/域名 | fybera.com | 事实（用户表 URL/邮箱域名） |
 | 类型 | 光纤配件品牌商（比利时，自有标 MC；官网待核） | 推断（据兴趣/备注关键词） |
 | 联系人 | — | 事实（用户表） |
@@ -116,7 +118,8 @@ updated: 2026-10-29
 - **【用户表】MC 自己的 logo 国内外壳**
   > MC 自己的logo  周边产品较多 看着像国内的外壳
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- 备注：（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
+- 备注：LT-R09 2026-10-29 country_fix：表内「比利时」有误，官网 fybera.com 联系电话 +359 2 4214270（索非亚）→ 保加利亚。
+（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先））
 

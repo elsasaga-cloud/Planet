@@ -1,14 +1,15 @@
 # sswmcctvshop.com
 **官方名称（调研核实）**：SSWM CCTV Shop（Siam Skyworth，泰国）
 
-> **评级 B**　|　泰国　|　档案编号 `SB-1081`　|　优先级 ★★　|　状态：已推送 16 次·未回复
+> **评级 C**　|　泰国　|　档案编号 `SB-1081`　|　优先级 —　|　状态：已推送 16 次·未回复
 >
 > **类型**：分销商/经销商（推断）　|　**历史关系**：推送 16 次（2024-05-09 → 2025-10-10）　|　**所在清单**：A优质名单(Thailand)、AI评估(TH)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-1081
-rating: B
+rating: C
 rating_auto: B
+rating_research: C  # Q-76 LT-R09 2026-10-29 复核打回 C 储备：域名 sswmcctvshop.com 失效（NXDOMAIN 2026-10-29）+ 只有
 name_official: "SSWM CCTV Shop（Siam Skyworth，泰国）"
 score: 25
 country: 泰国
@@ -33,10 +34,9 @@ updated: 2026-10-29
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：泰国 CCTV / 通讯产品销售平台（gmail siamskyworth@），在售丰润达工业 FS，兴趣工业 FS 等各种通讯产品；备注可多跟进；16 次跟进无实质回复；域名失效。（调研 2026-10-21；表内兴趣：工业FS等各种通讯产品 有丰润达的工业FS 销售平台）
-- **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/泰国；+5 最近活动 2025；-16 推送 16 次无任何回复（聋名单）
+- **为什么是 C 级**：**调研后定级 C**（Q-76 LT-R09 2026-10-29 复核打回 C 储备：域名 sswmcctvshop.com 失效（NXDOMAIN 2026-10-29）+ 只有 gmail + 16 次跟进 0 实质回复 + 泰国网店微型 → 无主体无路径 → C 储备（来信即回 B）；c_sub=储备·复核打回 ；回信 / 询价即回 B）；自动分级 B：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/泰国；+5 最近活动 2025；-16 推送 16 次无任何回复（聋名单）；C 级细分：储备·复核打回
 - **历史互动**：推送 16 次（2024-05-09 → 2025-10-10）
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 对位丰润达工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-23 $65（10G Media Converter）、2025-03-05 $240（24 Port Fiber Switch）、2025-10-10 $280（10G Enterprise SFP Switch）、2026-06-25 $16000（32 Port 400GB DC Switch）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1**：不推（C 级）；若对方主动来询，起手 STI-288GP（深挖对位：对位丰润达工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。）
 - **最大未知**：官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - **下一步**：不动 — —
 
@@ -55,39 +55,7 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2026-09-25 | 去 | A/S 群发 | Industrial PoE Switch、Mini Industrial PoE Switch | 25 封 / 0 次打开 / 0 回｜首封 2024-07-04 → 末封 2026-09-25（25 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 兴趣：工业FS等各种通讯产品 有丰润达的工业FS 销售平台 | 表内备注 | `用户表` |
-
-## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
-
-> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
-
-- **发信窗口（TH 全库 447 封群发的打开标签，对方本地时间；均值 4.5%）**：周二 10–12 点 6.1%（49 封）、周一 10–12 点 3.4%（59 封）。像素统计，只看相对高低；排发信日时落在这两个时段。
-- **打开偏好**（Opened = 像素，代理网关会误触发，只作参考）：群发 25 封（2024-07-04 → 2026-09-25），打开标签 0 次；**最近连续 25 封没打开**（近 180 天发 5 封 0 打开）→ 群发对这户已失效，停两个月，改一句 1:1 或换收件人。
-- **日历窗口**：对方：2026-12-05 国王诞辰；2026-12-31 新年（12-31 → 01-02） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
-
-## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
-
-> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
-
-**邮箱域体检（DNS MX / A，2026-10-29 查）：**
-
-- `sswmcctvshop.com` → 域名不存在。域名已不存在（NXDOMAIN）：这个域的所有地址都退信；公司可能换了域名或关门 → 先核再发，核不到就降级
-- `gmail.com` → Google Workspace（MX：gmail-smtp-in.l.google.com、alt1.gmail-smtp-in.l.google.com、alt2.gmail-smtp-in.l.google.com、alt3.gmail-smtp-in.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
-- 其他域名仍活：`gmail.com` → 只用这些域的地址
-
-**假日避让：** 下一步为「不动」，不排发信，略。
-
-**公司底数 · 第 117 批（0 查（无法人名、gmail、域名失效；按 1 查纪律不检索）；2026-10-28，2026-10-28 查；）：**
-
-- 法定名 / 登记号：泰国 CCTV / 通讯产品销售平台（sswmcctvshop.com 已失效；siamskyworth@gmail.com；**无法人名 + 免费邮箱 + 域名失效 → 0 查**）— 在售丰润达工业 FS；16 次跟进无实质回复 · 未查 · 状态 **域名失效** · 成立 未查 · 未查
-- 行业码 / 经营范围：CCTV / 通讯产品网店（已下线）
-- 注册地址：未查（泰国）
-- 规模档：未查
-- 账目：未查；—
-- 高管：（未具名；siamskyworth@gmail.com）
-- 控制人 / 股东：未查
-- **这意味着什么：**
-  - **域名失效 + gmail + 16 次 0 回复 + 丰润达在供（Q-33 口径）→ 不动（B 保留）**
-- 备注：不动；0 查。
+| 2026-10-29 | 查 | Agent 复核 LT-R09 | DNS 2026-10-29：sswmcctvshop.com NXDOMAIN | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -116,6 +84,7 @@ updated: 2026-10-29
   > 兴趣：工业FS等各种通讯产品 有丰润达的工业FS 销售平台
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（未具名）（）siamskyworth@gmail.com 〔（本地 Clients/ 表格，无公开 URL）〕
+- **调研后定级**：C（原自动 B）——Q-76 LT-R09 2026-10-29 复核打回 C 储备：域名 sswmcctvshop.com 失效（NXDOMAIN 2026-10-29）+ 只有 gmail + 16 次跟进 0 实质回复 + 泰国网店微型 → 无主体无路径 → C 储备（来信即回 B）；c_sub=储备·复核打回 ；回信 / 询价即回 B
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照不可达 + 表内））
@@ -177,28 +146,6 @@ updated: 2026-10-29
 | 2025-09-12 | 912 | 28bt |  | A |  | Thailand 2.27.xlsx#22 |
 | 2025-10-10 | 1010 | dac |  | A |  | Thailand 2.27.xlsx#22 |
 
-## 邮箱往来（S 邮箱 · 自动汇总）
-
-- **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：25 封（去 25 / 来 0）　|　**期间**：2024-07-04 → 2026-09-25　|　**最后去信**：2026-09-25
-- **对方邮箱**：siamskyworth@gmail.com
-- 对方从未回信（全部为我方去信）
-
-| 线程主题 | 首封 | 末封 | 来 | 去 | 附件 |
-|---|---|---|---|---|---|
-| Managed PoE Switches | 2026-09-25 | 2026-09-25 | 0 | 1 | 1 |
-| 24 Port PoE Managed Switch | 2026-08-20 | 2026-08-20 | 0 | 1 | 1 |
-| Saga Q3 Product Links | 2026-07-22 | 2026-07-22 | 0 | 1 | 2 |
-| 32 Port 400GB DC Switch | 2026-06-25 | 2026-06-25 | 0 | 1 | 1 |
-| 10G L3 Managed Switch | 2026-05-22 | 2026-05-22 | 0 | 1 | 1 |
-| Industrial PoE Switch | 2026-04-10 | 2026-04-10 | 0 | 1 | 1 |
-| Marvell Managed Commercial Switches | 2026-03-18 | 2026-03-18 | 0 | 1 | 1 |
-| Updated Ethernet Switches Links | 2026-02-17 | 2026-02-17 | 0 | 1 | 1 |
-| OEM Core Switching Solution | 2026-01-22 | 2026-01-22 | 0 | 1 | 1 |
-| Marvell Industrial Alert System | 2025-12-22 | 2025-12-22 | 0 | 1 | 1 |
-| Booster PoE Switch | 2025-11-17 | 2025-11-17 | 0 | 1 | 1 |
-| 10G Enterprise SFP Switch | 2025-10-10 | 2025-10-10 | 0 | 1 | 1 |
-| …共 25 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
-
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
 - **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T08:41:09Z
@@ -232,33 +179,10 @@ updated: 2026-10-29
 | A/DONE/Thailand 2.27.xlsx#总表:23 | 22 | http://www.sswmcctvshop.com/products.php?cat=POWER%20SUPPLY%20%E0%B9%81%E0%B8%A5%E0%B8%B0%20HDD | 泰国 | 可以尝试多跟进一下 | 谷歌 | 工业FS等各种通讯产品<br>有丰润达的工业FS 销售平台 | siamskyworth@gmail.com |  | 16 条 |
 | AI客户评估/DONE/AI客户评估_TH 09.28.xlsx#总表:11 | 10 | http://www.sswmcctvshop.com/products.php?cat=POWER%20SUPPLY%20%E0%B9%81%E0%B8%A5%E0%B8%B0%20HDD | 泰国 |  | 谷歌 | 工业FS等各种通讯产品<br>有丰润达的工业FS 销售平台 | siamskyworth@gmail.com | 早期ai: 45% A<br>泰国CCTV设备销售平台，主营安防设备及通信产品<br>发送CCTV交换机产品线邮件<br>16口PoE交换机、工业PoE交换机<br>官网存在丰润达工业交换机产品（深圳供应链）<br>gmail邮箱（siamskyworth@gmail.com）+ 销售平台结构，专业度和采购量都存疑 \| max: 20% B<br>泰国微小型CCTV安防工程商/零售门店，主营监控摄像头及基础安装线缆/电源配件。<br>推荐几款最基础的Realtek方案现货PoE爆款，询问是否有兴趣直接从中国进口标品以降低本地采购成本。<br>8/16口基础款PoE交换机（Realtek方案）、CCTV交换机<br>主营安防监控（海康大华等黄灯为主），交换机纯属配套型配菜产品；公司规模极小且页面简陋，可能缺乏直接进口经验，但可作为下游小项目商纳入长期培育池。 \| gpt: 15% C<br>核心业务偏CCTV配件（电源、硬盘等），交换机不是核心产品线<br>可偶尔推广PoE交换机SKU，但不属于重点开发客户 \| gemini: 20%  C<br>主营CCTV电源、硬盘及基础配件的小型安防店铺，官网无独立交换机产品线，业务匹配度极低 \| claude4.5: 15% C<br>泰国CCTV设备零售商，约3-10人，主营监控摄像头、硬盘、电源等安防配件<br>核心业务为CCTV摄像头及配件（HDD、电源），从产品分类看无交换机品类；规模极小但产品线与我司不匹配；若未来拓展PoE交换机可关注，但当前无明确需求迹象 | — |
 
-## 产品决策（Saga · 单一决策口径）
-
-| 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
-|---|---|---|---|---|
-| **P1** | STI-288GP | 深挖对位：对位丰润达工业 2 光 8 PoE → STI-288GP（$57.4 @20%）。 | $57.4 USD EXW（20% 档，SmartByte LT-IS3010GP-2GX8GT 320 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 20%（分销商/经销商） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：20% 档 $139.9 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $181.2——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-
-- **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
-
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288GP），备选型不进首触。
-
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288GP 一条规格链接；只问一个问题。
-- **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
-- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
-- **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
-
-## SWOT
-
-- **S**：名单内已有联系记录，不是零起点
-- **W**：已推送 16 次无回复，邮件通道疲劳；没有可靠直达通道
-- **O**：P1 STI-288GP 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 丰润达：涨价、断货或交期拉长时切入
-- **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
+> C 级不主动跟进。保留档案的意义：① 不重复开发；② 若对方主动来询再升级。
+> 不跟进理由：储备·复核打回。若用户不同意，在 `data/saga_clients/人工定级.csv` 写一行 `SB-1081,B,理由` 后重跑即可。
 
 ## 触达与风险红线
 
@@ -277,7 +201,7 @@ updated: 2026-10-29
 | 触达通道 | ⚠️ 仅免费邮箱 |
 | 现用/在卖交换品牌 | ✅ 丰润达, Realtek, 海康, 大华 |
 | 采购量/预算 | ❓ 未确认 |
-| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
+| 商业资格结论 | **不合格（见 C 级细分）→ 不主动跟进** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -286,23 +210,7 @@ updated: 2026-10-29
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：STI-288GP - industrial DIN-rail switch (neutral label)
-
-```text
-Hello,
-
-We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. For your industrial switch listings — the 2-SFP + 8-PoE DIN unit (same class as the Fengrunda one) is $57 EXW at 1 pc, with Marvell managed and 4-port versions alongside; want photos and a price list for the shop?
-
-We supply an industrial DIN-rail switch, 8x Gigabit PoE+ plus 2 SFP (unmanaged) - model STI-288GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $57.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
-
-If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
-```
-
-> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+> C 级不出邮件样板（不主动跟进）。
 
 ## 新跟进记录（仓库外发出后补）
 
@@ -314,11 +222,11 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- 不复核。对方主动来询 → 在 `data/saga_clients/人工定级.csv` 写一行升级后重跑。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 25）；人工/调研定级 → C
 
 ---
 

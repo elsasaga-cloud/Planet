@@ -81449,6 +81449,14 @@
 "quote": "业务范围与 WhatsApp 号码；网站建设中：Voltech Elektronik: Kamera sistemleri, telefon santral, bilgisayar çözümleri, alarm ve güvenlik sistemleri… Silivri ve çevresinde… Web sitemiz yapım aşamasında… WhatsApp: +90 551 375 12 25",
 "why": "无任何邮件往来；唯一证据为研究/用户表记录",
 "k": "http://www.voltechelektronik.com/"
+},
+{
+"date": "2026-10-29",
+"dir": "查",
+"who": "Agent 复核 LT-R09",
+"quote": "DNS 2026-10-29：voltechelektronik.com MX/A/NS = NXDOMAIN",
+"why": "长期客户群复核证据（非邮件事实，不计真回）",
+"url": ""
 }
 ],
 "proof_gaps": [
@@ -81460,7 +81468,17 @@
 "body": "Hello,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nYou were looking for an industrial managed PoE switch: DIN-rail, 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, -40 to 75 C, model STI-288DGGPM - $137.5 USD EXW (MOQ 1, 15-day validity). The unmanaged version of the same box, STI-288GP, is $59.8 USD EXW. CE/RoHS, 3-year warranty together with our DIN power supply.\n\nOne question: is the field cabinet powered at 48 V DC, or do you need the power supply included?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
 },
 "as_of": "2026-10-24"
-}
+},
+"lt_review": {
+"status": "留 B",
+"batch": "LT-R09",
+"prio": null,
+"queued": "LT-R09",
+"verdict_date": "2026-10-29",
+"note": "域名 voltechelektronik.com 已失效（NXDOMAIN 2026-10-29），但 ISAF 2025 现场接触 + WA 已加 = 路径在 WA；土耳其主区小型安防服务商、找工业 PoE 网管交换机 → 留 B（路径 = WhatsApp；邮箱不再发）",
+"why": ""
+},
+"override_history": []
 }
 },
 {
@@ -100307,6 +100325,14 @@
 "quote": "40个 24口POE交换机 distributor",
 "why": "表内备注",
 "k": "用户表"
+},
+{
+"date": "2026-10-29",
+"dir": "查",
+"who": "Agent 复核 LT-R09",
+"quote": "DNS 2026-10-29 14:48Z：hightrade-international.com MX 0 hightradeinternational-com02c.mail.pro；A 109.234.165.213",
+"why": "长期客户群复核证据（非邮件事实，不计真回）",
+"url": ""
 }
 ],
 "proof_gaps": [
@@ -100317,7 +100343,17 @@
 "body": "Hi Thomas,\n\nSome time ago you had a product mail from us - \"24 Port PoE Managed Switch\" on 3 September, priced at $170 - and there was no reason to answer a mass mail. This one is about your own requirement: 40 units of 24-port PoE switches.\n\nTwo ways to fill it, both Marvell-based L2+ managed (VLAN / QoS / IGMP, web GUI), CE/RoHS, neutral or your packaging, 10-15 days for 40 units:\n\n- 24 x Gigabit PoE+ (280 W) + 4 x Gigabit SFP, model STC-424DGGPM-280W - $134.5 USD EXW each (about $5,380 for 40, MOQ 1, 15-day validity).\n- 24 x Gigabit PoE+ (280 W) + 4 x 10G SFP+, model STC-424XGGPM-280W - now $180 USD EXW (the September mail said $170; the RMB moved from 7.2 to 6.7 against the dollar since then).\n\nIf the end customer only needs unmanaged 24-port PoE, there is a lower-cost unit on our Realtek line as well - I would quote it once I know the PoE budget they expect.\n\nOne question: is the 40-unit requirement still open, and which uplink does the end customer need - Gigabit SFP or 10G SFP+?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
 },
 "as_of": "2026-10-25"
-}
+},
+"lt_review": {
+"status": "留 B",
+"batch": "LT-R09",
+"prio": null,
+"queued": "LT-R09",
+"verdict_date": "2026-10-29",
+"note": "DNS 复查正常（hightrade-international.com MX mail.pro / A 109.234.165.213 / NS o2switch，2026-10-29 14:48Z；早上那轮误报）→ 不动",
+"why": ""
+},
+"override_history": []
 }
 },
 {
@@ -114101,10 +114137,10 @@
 "+5 最近活动 2025",
 "-16 推送 16 次无任何回复（聋名单）"
 ],
-"c_sub": "",
+"c_sub": "储备·复核打回",
 "status": "已推送 16 次·未回复",
 "code": "SB-1081",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-1081",
 "name_official": "SSWM CCTV Shop（Siam Skyworth，泰国）",
@@ -114141,8 +114177,8 @@
 "source": "（本地 Clients/ 表格，无公开 URL）"
 }
 ],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "Q-76 LT-R09 2026-10-29 复核打回 C 储备：域名 sswmcctvshop.com 失效（NXDOMAIN 2026-10-29）+ 只有 gmail + 16 次跟进 0 实质回复 + 泰国网店微型 → 无主体无路径 → C 储备（来信即回 B）；c_sub=储备·复核打回 ；回信 / 询价即回 B",
 "notes": "（无首轮调研；由 deepen.py 建档）",
 "deep": {
 "done_at": "2026-10-21",
@@ -114218,12 +114254,39 @@
 "quote": "兴趣：工业FS等各种通讯产品 有丰润达的工业FS 销售平台",
 "why": "表内备注",
 "k": "用户表"
+},
+{
+"date": "2026-10-29",
+"dir": "查",
+"who": "Agent 复核 LT-R09",
+"quote": "DNS 2026-10-29：sswmcctvshop.com NXDOMAIN",
+"why": "长期客户群复核证据（非邮件事实，不计真回）",
+"url": ""
 }
 ],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
+},
+"lt_review": {
+"status": "打回 C",
+"batch": "LT-R09",
+"prio": null,
+"queued": "LT-R09",
+"verdict_date": "2026-10-29",
+"note": "域名 sswmcctvshop.com 失效（NXDOMAIN 2026-10-29）+ 只有 gmail + 16 次跟进 0 实质回复 + 泰国网店微型 → 无主体无路径 → C 储备（来信即回 B）",
+"why": ""
+},
+"override_history": [
+{
+"batch": "LT-R09",
+"date": "2026-10-29",
+"from_override": null,
+"to": "C",
+"prev_reason": "",
+"reason": "域名 sswmcctvshop.com 失效（NXDOMAIN 2026-10-29）+ 只有 gmail + 16 次跟进 0 实质回复 + 泰国网店微型 → 无主体无路径 → C 储备（来信即回 B）"
 }
+]
 }
 },
 {
@@ -119568,6 +119631,22 @@
 "quote": "对价格OK 想拿样 贴标；2024.2.27 发了2光4小壳信息 → Give price for 4,8,16,24,64 ports；2024.3.18 → price",
 "why": "表内备注",
 "k": "用户表"
+},
+{
+"date": "2026-10-29",
+"dir": "查",
+"who": "Agent 复核 LT-R09",
+"quote": "yellow.ug：iTKATI UG LTD … established in 2009 … plot 4646 muwaire rd, Kampala … +256785284579 +256704575328 … www.itkati.com",
+"why": "长期客户群复核证据（非邮件事实，不计真回）",
+"url": "https://www.yellow.ug/company/40803/itkati-ug-ltd"
+},
+{
+"date": "2026-10-29",
+"dir": "查",
+"who": "Agent 复核 LT-R09",
+"quote": "Facebook：ITKati Corp. … Makindye, Kampala … +256 704 575328 itkaticorp@gmail.com itkati.com",
+"why": "长期客户群复核证据（非邮件事实，不计真回）",
+"url": "https://www.facebook.com/itkati/"
 }
 ],
 "proof_gaps": [
@@ -119586,7 +119665,16 @@
 "prev_reason": "",
 "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）"
 }
-]
+],
+"lt_review": {
+"status": "留 B",
+"batch": "LT-R09",
+"prio": null,
+"queued": "LT-R09",
+"verdict_date": "2026-10-29",
+"note": "域名 itkati.com 已失效（NXDOMAIN 2026-10-29），但有 3 次实质回复；黄页 / Facebook 仍列 www.itkati.com，FB 公开邮箱 itkaticorp@gmail.com、电话 +256 704 575328 → 留 B，路径换 FB 公开 gmail（公开页取得，非编造）",
+"why": ""
+}
 }
 },
 {
@@ -120981,6 +121069,14 @@
 "quote": "兴趣：买的磊通的一些设备;Switch MC 周边产品 不是自己的牌子；回复：thanks",
 "why": "表内备注",
 "k": "用户表"
+},
+{
+"date": "2026-10-29",
+"dir": "查",
+"who": "Agent 复核 LT-R09",
+"quote": "DNS 2026-10-29：ara.com.bd NXDOMAIN",
+"why": "长期客户群复核证据（非邮件事实，不计真回）",
+"url": ""
 }
 ],
 "proof_gaps": [
@@ -120999,7 +121095,16 @@
 "prev_reason": "",
 "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来"
 }
-]
+],
+"lt_review": {
+"status": "留 B",
+"batch": "LT-R09",
+"prio": null,
+"queued": "LT-R09",
+"verdict_date": "2026-10-29",
+"note": "域名 ara.com.bd 失效（NXDOMAIN 2026-10-29；support@ 早已退信），备用 gmail smchan91@gmail.com 在表 + 1 次真回 + 海关显示买过磊通 → 留 B（路径 = 备用 gmail；非主区预付 100%）",
+"why": ""
+}
 }
 },
 {
@@ -164251,6 +164356,14 @@
 "quote": "回复：price 报了75",
 "why": "表内备注",
 "k": "用户表"
+},
+{
+"date": "2026-10-29",
+"dir": "查",
+"who": "Agent 复核 LT-R09",
+"quote": "DNS 2026-10-29：sabaindia.com NXDOMAIN",
+"why": "长期客户群复核证据（非邮件事实，不计真回）",
+"url": ""
 }
 ],
 "proof_gaps": [
@@ -164262,7 +164375,17 @@
 "body": "Hi Sampath,\n\nIn April 2024 we quoted you the L2 managed 8-PoE + 2-SFP switch at $75, and the camera project went quiet.\n\nThe same slot today: 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, Marvell-based, CE/RoHS (BIS stays on your side) - model STC-28DGGPM - $84.1 USD EXW (MOQ 1, 15-day validity); the CNY has moved from 7.2 to 6.7 against the dollar since 2024, which is the whole difference. For a 10-pc trial I can hold the distributor price of $80.7.\n\nOne question: is that camera project still open, or has a new one replaced it?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
 },
 "as_of": "2026-10-24"
-}
+},
+"lt_review": {
+"status": "留 B",
+"batch": "LT-R09",
+"prio": null,
+"queued": "LT-R09",
+"verdict_date": "2026-10-29",
+"note": "域名 sabaindia.com 失效（NXDOMAIN 2026-10-29），备用 sriannaiassociates@yahoo.com 在表 + 2024-04 对 L2 管理 2 光 8 PoE 报过 $75、1 次真回 → 留 B（路径 = yahoo；印度常规预付 100%）",
+"why": ""
+},
+"override_history": []
 }
 },
 {
@@ -208429,6 +208552,14 @@
 "quote": "兴趣：问了8光8价格，要价格表，要工业级POE管理交换机",
 "why": "表内备注",
 "k": "用户表"
+},
+{
+"date": "2026-10-29",
+"dir": "查",
+"who": "Agent 复核 LT-R09",
+"quote": "DNS 2026-10-29 14:48Z：arcanlibya.com MX 10 mx1.secure.ly…；A 102.213.180.5",
+"why": "长期客户群复核证据（非邮件事实，不计真回）",
+"url": ""
 }
 ],
 "proof_gaps": [
@@ -208437,7 +208568,17 @@
 ],
 "draft_en": null,
 "as_of": "2026-10-24"
-}
+},
+"lt_review": {
+"status": "留 B",
+"batch": "LT-R09",
+"prio": null,
+"queued": "LT-R09",
+"verdict_date": "2026-10-29",
+"note": "DNS 复查正常（arcanlibya.com MX mx1–4.secure.ly / A 102.213.180.5，2026-10-29 14:48Z；早上那轮误报）→ 不动；ISAF 2025 接触 + WA 在",
+"why": ""
+},
+"override_history": []
 }
 },
 {
@@ -303050,12 +303191,30 @@
 "quote": "在用洪瑞的商业POE 换了PVC膜",
 "why": "表内备注",
 "k": "用户表"
+},
+{
+"date": "2026-10-29",
+"dir": "查",
+"who": "Agent 复核 LT-R09",
+"quote": "DNS 2026-10-29 14:48Z：mreit.co.kr MX 10 mail.mreit.co.kr；A 210.206.162.16",
+"why": "长期客户群复核证据（非邮件事实，不计真回）",
+"url": ""
 }
 ],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
-}
+},
+"lt_review": {
+"status": "留 B",
+"batch": "LT-R09",
+"prio": null,
+"queued": "LT-R09",
+"verdict_date": "2026-10-29",
+"note": "DNS 复查正常（mreit.co.kr MX mail.mreit.co.kr / A 210.206.162.16，2026-10-29 14:48Z；早上那轮超时误报）→ 不动；韩国自有 MR- 系列 PoE 品牌商，KC 待核",
+"why": ""
+},
+"override_history": []
 }
 },
 {
@@ -345607,10 +345766,10 @@
 "+5 最近活动 2025",
 "-16 推送 19 次无任何回复（聋名单）"
 ],
-"c_sub": "",
+"c_sub": "储备·复核打回",
 "status": "WhatsApp 已加·未回复",
 "code": "SB-671",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-671",
 "name_official": "MyTec（mytec-iq.com，伊拉克）",
@@ -345646,8 +345805,8 @@
 "role": "联系人（研究档 KP）— 不动：域名失效 + 19×0 — 伊拉克常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方经迪拜 / 土耳其货代清关）（第 122 批 官方登记核实 2026-10-29）"
 }
 ],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "Q-76 LT-R09 2026-10-29 复核打回 C 储备：两域 my-tec.co / mytec-iq.com 均失效（NXDOMAIN 2026-10-29）+ 只剩 yahoo + WA 19 次 0 实质回复 + 伊拉克非主区 → 无路径 → C 储备（来信即回 B）；c_sub=储备·复核打回 ；回信 / 询价即回 B",
 "notes": "（无首轮调研；由 deepen.py 建档）",
 "deep": {
 "done_at": "2026-10-21",
@@ -345709,6 +345868,14 @@
 "quote": "兴趣：处理公司产品 有过详细产品交谈",
 "why": "表内备注",
 "k": "用户表"
+},
+{
+"date": "2026-10-29",
+"dir": "查",
+"who": "Agent 复核 LT-R09",
+"quote": "DNS 2026-10-29：my-tec.co / mytec-iq.com NXDOMAIN",
+"why": "长期客户群复核证据（非邮件事实，不计真回）",
+"url": ""
 }
 ],
 "proof_gaps": [
@@ -345719,15 +345886,24 @@
 "as_of": "2026-10-24"
 },
 "lt_review": {
-"status": "留 B",
-"batch": "LT-R05S",
+"status": "打回 C",
+"batch": "LT-R09",
 "prio": 2,
-"queued": "LT-R05S",
+"queued": "LT-R09",
 "verdict_date": "2026-10-29",
-"note": "伊拉克 IT 公司 MyTec（Mushtaq Al Takhakh）：WA 已加、「有过详细产品交谈」、19 次跟进 → 真人往来 ✔ 行业内 ✔ → 留 B（预付）",
+"note": "两域 my-tec.co / mytec-iq.com 均失效（NXDOMAIN 2026-10-29）+ 只剩 yahoo + WA 19 次 0 实质回复 + 伊拉克非主区 → 无路径 → C 储备（来信即回 B）",
 "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA ✔，展会 —，绑定 未发信））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
 },
-"override_history": []
+"override_history": [
+{
+"batch": "LT-R09",
+"date": "2026-10-29",
+"from_override": null,
+"to": "C",
+"prev_reason": "",
+"reason": "两域 my-tec.co / mytec-iq.com 均失效（NXDOMAIN 2026-10-29）+ 只剩 yahoo + WA 19 次 0 实质回复 + 伊拉克非主区 → 无路径 → C 储备（来信即回 B）"
+}
+]
 }
 },
 {
@@ -362840,10 +363016,10 @@
 "+5 有可核实的公司网站/域名",
 "+0 区域 俄语区/俄罗斯"
 ],
-"c_sub": "",
+"c_sub": "储备·复核打回",
 "status": "名单内·未触达",
 "code": "SB-720",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-720",
 "name_official": "",
@@ -362872,8 +363048,8 @@
 }
 ],
 "kp": [],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "Q-76 LT-R09 2026-10-29 复核打回 C 储备：域名 unitech-shop.ru 失效（NXDOMAIN 2026-10-29）+ 官网早已 unreachable + 表内未跟进 + Q-33（在卖 HRUI 外壳）+ RU 收款待定 → 无路径 → C 储备（来信即回 B）；c_sub=储备·复核打回 ；回信 / 询价即回 B",
 "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
 "deep": {
 "done_at": "2026-10-21",
@@ -362958,12 +363134,39 @@
 "quote": "商业PoE",
 "why": "表内备注",
 "k": "用户表"
+},
+{
+"date": "2026-10-29",
+"dir": "查",
+"who": "Agent 复核 LT-R09",
+"quote": "DNS 2026-10-29：unitech-shop.ru NXDOMAIN",
+"why": "长期客户群复核证据（非邮件事实，不计真回）",
+"url": ""
 }
 ],
 "proof_gaps": [],
 "draft_en": null,
 "as_of": "2026-10-24"
+},
+"lt_review": {
+"status": "打回 C",
+"batch": "LT-R09",
+"prio": null,
+"queued": "LT-R09",
+"verdict_date": "2026-10-29",
+"note": "域名 unitech-shop.ru 失效（NXDOMAIN 2026-10-29）+ 官网早已 unreachable + 表内未跟进 + Q-33（在卖 HRUI 外壳）+ RU 收款待定 → 无路径 → C 储备（来信即回 B）",
+"why": ""
+},
+"override_history": [
+{
+"batch": "LT-R09",
+"date": "2026-10-29",
+"from_override": null,
+"to": "C",
+"prev_reason": "",
+"reason": "域名 unitech-shop.ru 失效（NXDOMAIN 2026-10-29）+ 官网早已 unreachable + 表内未跟进 + Q-33（在卖 HRUI 外壳）+ RU 收款待定 → 无路径 → C 储备（来信即回 B）"
 }
+]
 }
 },
 {
@@ -426393,10 +426596,10 @@
 "-4 区域 拉美/墨西哥",
 "+5 最近活动 2025"
 ],
-"c_sub": "",
+"c_sub": "储备·复核打回",
 "status": "WhatsApp 已加·未回复",
 "code": "SB-892",
-"grade": "B",
+"grade": "C",
 "research": {
 "code": "SB-892",
 "name_official": "Telcofusion（墨西哥；Jose Gregorio）",
@@ -426432,8 +426635,8 @@
 "role": "联系人（研究档 KP；2024-08 问 10G MC ×4）= 收件人 — 最后一次一页纸：集成商 25% B、STC-110XGE $65 ×4 一口价 + 运费；反向 PoE 不供明说；西语备注 — 墨西哥常规：英文稿（可附西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP、NOM / IFT 不声称（第 121 批 官方登记核实 2026-10-29）"
 }
 ],
-"grade_override": null,
-"override_reason": "",
+"grade_override": "C",
+"override_reason": "Q-76 LT-R09 2026-10-29 复核打回 C 储备：域名 telcofusion.com.mx 失效（NXDOMAIN 2026-10-29）+ 只有 gmail + 需求 reverse PoE 板（Saga 无）+ 墨西哥非主区 → 不对位 + 无主体路径 → C 储备（来信即回 B）；c_sub=储备·复核打回 ；回信 / 询价即回 B",
 "notes": "（无首轮调研；由 deepen.py 建档）",
 "deep": {
 "done_at": "2026-10-21",
@@ -426499,6 +426702,14 @@
 "quote": "兴趣：reverse POE板子；回复：4个",
 "why": "表内备注",
 "k": "用户表"
+},
+{
+"date": "2026-10-29",
+"dir": "查",
+"who": "Agent 复核 LT-R09",
+"quote": "DNS 2026-10-29：telcofusion.com.mx NXDOMAIN",
+"why": "长期客户群复核证据（非邮件事实，不计真回）",
+"url": ""
 }
 ],
 "proof_gaps": [
@@ -426507,7 +426718,26 @@
 ],
 "draft_en": null,
 "as_of": "2026-10-24"
+},
+"lt_review": {
+"status": "打回 C",
+"batch": "LT-R09",
+"prio": null,
+"queued": "LT-R09",
+"verdict_date": "2026-10-29",
+"note": "域名 telcofusion.com.mx 失效（NXDOMAIN 2026-10-29）+ 只有 gmail + 需求 reverse PoE 板（Saga 无）+ 墨西哥非主区 → 不对位 + 无主体路径 → C 储备（来信即回 B）",
+"why": ""
+},
+"override_history": [
+{
+"batch": "LT-R09",
+"date": "2026-10-29",
+"from_override": null,
+"to": "C",
+"prev_reason": "",
+"reason": "域名 telcofusion.com.mx 失效（NXDOMAIN 2026-10-29）+ 只有 gmail + 需求 reverse PoE 板（Saga 无）+ 墨西哥非主区 → 不对位 + 无主体路径 → C 储备（来信即回 B）"
 }
+]
 }
 },
 {
@@ -446706,8 +446936,8 @@
 "name": "fybera.com",
 "name_src": "domain",
 "names": [],
-"country": "比利时",
-"iso": "BE",
+"country": "保加利亚",
+"iso": "BG",
 "region": "欧洲",
 "other_countries": [],
 "domains": [
@@ -446969,7 +447199,7 @@
 "kp": [],
 "grade_override": null,
 "override_reason": "",
-"notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+"notes": "LT-R09 2026-10-29 country_fix：表内「比利时」有误，官网 fybera.com 联系电话 +359 2 4214270（索非亚）→ 保加利亚。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
 "deep": {
 "done_at": "2026-10-21",
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
@@ -447053,6 +447283,14 @@
 "quote": "MC 自己的logo 周边产品较多 看着像国内的外壳",
 "why": "表内备注",
 "k": "用户表"
+},
+{
+"date": "2026-10-29",
+"dir": "查",
+"who": "Agent 复核 LT-R09",
+"quote": "fybera.com：FYBERA - Your optical fibre equipment provider … Ethernet Media Converter 1100/2 Brand: Fybera … Email: sales@fybera.com · Call now: +359 2 4214270",
+"why": "长期客户群复核证据（非邮件事实，不计真回）",
+"url": "https://fybera.com/"
 }
 ],
 "proof_gaps": [
@@ -447063,8 +447301,20 @@
 "body": "Hello Fybera team,\n\nOver the past two years you had several product mails from us - most recently \"10G Enterprise SFP Switch\" on 12 May 2026 - and there was no reason to answer a mass mail. This one is specific.\n\nFor the media converters sold under the Fybera label, we build in your packaging from small lots, CE/RoHS: industrial mini Gigabit, 1 x RJ45 + 1 x SFP slot, DIN-rail, -40 to 75 C - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); the Gigabit PoE+ version - STI-111GP - $30.1; a DIN-rail 8 x Gigabit + 2 x SFP switch on the same line - STI-280GE - $46. Logo on the unit is free; colour box from 200 sets.\n\nOne question: which MC configuration do your customers order most - gigabit SFP-slot, or fixed SC single-mode?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
 },
 "as_of": "2026-10-25"
-}
-}
+},
+"lt_review": {
+"status": "留 B",
+"batch": "LT-R09",
+"prio": null,
+"queued": "LT-R09",
+"verdict_date": "2026-10-29",
+"note": "域名 fybera.com DNS 委派坏（NoNameservers 2026-10-29，疑临时）；搜索可见官网在营：自有品牌 Fybera 光纤无源 + 媒体转换器 + 熔接机，联系电话 +359 2 4214270 = 保加利亚索非亚（表内写比利时有误 → country_fix BG）→ 自牌进口商留 B（OEM 话题；MC 对位弱、交换机待问）",
+"why": ""
+},
+"override_history": [],
+"country_fix": "保加利亚"
+},
+"country_table": "比利时"
 },
 {
 "name": "grep.sg",
@@ -568266,7 +568516,7 @@
 "kp": [],
 "grade_override": "C",
 "override_reason": "台湾厂商区域办事处/分销站：DrayTek（自研 VigorSwitch），非渠道客户；c_sub=厂商办事处/台湾厂商",
-"notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+"notes": "交叉检查 LT-X01（2026-10-29）：同域 draytek.de 的 External 档 XA-C0021 为长期客户群主档（B）；本档 C 储备，升降跟 XA-C0021 走。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
 "deep": {
 "done_at": "2026-10-21",
 "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"

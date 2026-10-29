@@ -94,6 +94,14 @@
     "quote": "业务范围与 WhatsApp 号码；网站建设中：Voltech Elektronik: Kamera sistemleri, telefon santral, bilgisayar çözümleri, alarm ve güvenlik sistemleri… Silivri ve çevresinde… Web sitemiz yapım aşamasında… WhatsApp: +90 551 375 12 25",
     "why": "无任何邮件往来；唯一证据为研究/用户表记录",
     "k": "http://www.voltechelektronik.com/"
+   },
+   {
+    "date": "2026-10-29",
+    "dir": "查",
+    "who": "Agent 复核 LT-R09",
+    "quote": "DNS 2026-10-29：voltechelektronik.com MX/A/NS = NXDOMAIN",
+    "why": "长期客户群复核证据（非邮件事实，不计真回）",
+    "url": ""
    }
   ],
   "proof_gaps": [
@@ -105,5 +113,15 @@
    "body": "Hello,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nYou were looking for an industrial managed PoE switch: DIN-rail, 8 x Gigabit PoE+ + 2 x SFP, L2+ managed, -40 to 75 C, model STI-288DGGPM - $137.5 USD EXW (MOQ 1, 15-day validity). The unmanaged version of the same box, STI-288GP, is $59.8 USD EXW. CE/RoHS, 3-year warranty together with our DIN power supply.\n\nOne question: is the field cabinet powered at 48 V DC, or do you need the power supply included?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "lt_review": {
+  "status": "留 B",
+  "batch": "LT-R09",
+  "prio": null,
+  "queued": "LT-R09",
+  "verdict_date": "2026-10-29",
+  "note": "域名 voltechelektronik.com 已失效（NXDOMAIN 2026-10-29），但 ISAF 2025 现场接触 + WA 已加 = 路径在 WA；土耳其主区小型安防服务商、找工业 PoE 网管交换机 → 留 B（路径 = WhatsApp；邮箱不再发）",
+  "why": ""
+ },
+ "override_history": []
 }

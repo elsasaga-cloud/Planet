@@ -1,14 +1,15 @@
 # telcofusion.com.mx
 **官方名称（调研核实）**：Telcofusion（墨西哥；Jose Gregorio）
 
-> **评级 B**　|　墨西哥　|　档案编号 `SB-892`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
+> **评级 C**　|　墨西哥　|　档案编号 `SB-892`　|　优先级 —　|　状态：WhatsApp 已加·未回复
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：WhatsApp 已加；推送 15 次（2024-03-21 → 2025-10-06）　|　**所在清单**：WA跟进　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-892
-rating: B
+rating: C
 rating_auto: B
+rating_research: C  # Q-76 LT-R09 2026-10-29 复核打回 C 储备：域名 telcofusion.com.mx 失效（NXDOMAIN 2026-10-29）+ 
 name_official: "Telcofusion（墨西哥；Jose Gregorio）"
 score: 29
 country: 墨西哥
@@ -32,10 +33,9 @@ updated: 2026-10-29
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：墨西哥电信承包商 Telcofusion（Jose Gregorio，gmail），需求 reverse PoE 板（Saga 无），2024-08 对 10G MC 要 4 台（SmartByte 10G MC 另询）；WA 15 次无实质回复。（调研 2026-10-21；表内兴趣：reverse POE板子）
-- **为什么是 B 级**：+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/墨西哥；+5 最近活动 2025
+- **为什么是 C 级**：**调研后定级 C**（Q-76 LT-R09 2026-10-29 复核打回 C 储备：域名 telcofusion.com.mx 失效（NXDOMAIN 2026-10-29）+ 只有 gmail + 需求 reverse PoE 板（Saga 无）+ 墨西哥非主区 → 不对位 + 无主体路径 → C 储备（来信即回 B）；c_sub=储备·复核打回 ；回信 / 询价即回 B）；自动分级 B：+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/墨西哥；+5 最近活动 2025；C 级细分：储备·复核打回
 - **历史互动**：WhatsApp 已加；推送 15 次（2024-03-21 → 2025-10-06）；最近一次客户回复：2024-08-14：4个
-- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 10G MC / reverse PoE 板不在价目（按 SmartByte 型号另询并注明）；无 Saga 主推型。；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（深挖对位：10G MC / reverse PoE 板不在价目（按 SmartByte 型号另询并注明）；无 Saga 主推型。）
 - **最大未知**：官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
 - **下一步**：不动 — —
 
@@ -53,39 +53,9 @@ updated: 2026-10-29
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
 |---|---|---|---|---|---|
 | 2026-10-21 | 用户表 | Simon | 兴趣：reverse POE板子；回复：4个 | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 复核 LT-R09 | DNS 2026-10-29：telcofusion.com.mx NXDOMAIN | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来；用户表状态「WhatsApp 已加·未回复」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
-
-## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
-
-> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
-
-- **日历窗口**：对方：2026-11-02 亡灵节；2026-12-12 瓜达卢佩圣母节 → 圣诞–元旦（12-12 → 01-06 Guadalupe-Reyes） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
-
-## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
-
-> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
-
-**邮箱域体检（DNS MX / A，2026-10-29 查）：**
-
-- `telcofusion.com.mx` → 域名不存在。域名已不存在（NXDOMAIN）：这个域的所有地址都退信；公司可能换了域名或关门 → 先核再发，核不到就降级
-- `gmail.com` → Google Workspace（MX：gmail-smtp-in.l.google.com、alt1.gmail-smtp-in.l.google.com、alt2.gmail-smtp-in.l.google.com、alt3.gmail-smtp-in.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
-- 其他域名仍活：`gmail.com` → 只用这些域的地址
-
-**假日避让：** 下一步为「不动」，不排发信，略。
-
-**公司底数 · 第 121 批（MX · 1 次检索：「"Telcofusion" telcofusion.com.mx」→ 无结果；2026-10-29，2026-10-29 查；）：**
-
-- 法定名 / 登记号：Telcofusion（telcofusion.com.mx；**1 查无命中 → 未坐实**；gmail 联系）— 电信承包 / 安装商（研究档）；需求反向 PoE（不供）+ 2024-08 问 10G MC ×4；KP Jose Gregorio；WA 15 次无实质回复 · 未取（1 查无命中） · 状态 **未知** · 成立 未取 · 未取
-- 行业码 / 经营范围：电信承包 / 安装（墨西哥）
-- 注册地址：未取（Mexico）
-- 规模档：微型（推定）
-- 账目：未取；—
-- 高管：Jose Gregorio — 联系人（研究档 KP；telcofusion1@gmail.com）= 收件人
-- 控制人 / 股东：未取
-- **这意味着什么：**
-  - **曾问 10G MC ×4 → 集成商 25% B，最后一次一页纸（STC-110XGE $65 ×4 一口价 + 运费；反向 PoE 不供明说；西语备注）— 墨西哥常规：英文稿（可附西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP（买方清关；NOM / IFT 不声称）**；15×0 → 再无回声 → 不动
-- 备注：集成商 25%；最后一次一页纸（预付 100%）；未坐实（1 查无命中）。
 
 ## 基本事实（事实/推断/假设分层）
 
@@ -113,6 +83,7 @@ updated: 2026-10-29
   > 兴趣：reverse POE板子；回复：4个
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Jose Gregorio（联系人（研究档 KP；2024-08 问 10G MC ×4）= 收件人 — 最后一次一页纸：集成商 25% B、STC-110XGE $65 ×4 一口价 + 运费；反向 PoE 不供明说；西语备注 — 墨西哥常规：英文稿（可附西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP、NOM / IFT 不声称（第 121 批 官方登记核实 2026-10-29））telcofusion1@gmail.com +52 916 105 1657〔（本地 Clients/ 表格，无公开 URL）〕
+- **调研后定级**：C（原自动 B）——Q-76 LT-R09 2026-10-29 复核打回 C 储备：域名 telcofusion.com.mx 失效（NXDOMAIN 2026-10-29）+ 只有 gmail + 需求 reverse PoE 板（Saga 无）+ 墨西哥非主区 → 不对位 + 无主体路径 → C 储备（来信即回 B）；c_sub=储备·复核打回 ；回信 / 询价即回 B
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（快照不可达 + 表内））
@@ -199,33 +170,10 @@ updated: 2026-10-29
 |---|---|---|---|---|---|---|---|---|---|
 | Whatsapp_S跟进 2026.08.04.xlsx#总表:51 | 50 | https://telcofusion.com.mx/ | 墨西哥 | Jose Gregorio | 别人的RFQ | reverse POE板子 | telcofusion1@gmail.com | 916105 1657 已加 | 15 条 |
 
-## 产品决策（Saga · 单一决策口径）
-
-| 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
-|---|---|---|---|---|
-| **P1** | 待核型（无标准对应，向 SmartByte 核） | 深挖对位：10G MC / reverse PoE 板不在价目（按 SmartByte 型号另询并注明）；无 Saga 主推型。 | — | 深挖对位；档位 20%（经销/集成（类型待核）） |
-| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $80.7 USD EXW（20% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.20 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：20% 档 $139.9 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），20% 档公式为 $181.2——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
-
-- **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
-
 ## 跟进建议
 
-> 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
-
-- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
-- **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
-- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
-- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
-- **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
-
-## SWOT
-
-- **S**：WhatsApp 直达
-- **W**：已推送 15 次无回复，邮件通道疲劳；拉美：物流/收款/汇率摩擦高于主攻区
-- **O**：P1 — 按 20% 档报价，做现供应商的第二货源
-- **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
+> C 级不主动跟进。保留档案的意义：① 不重复开发；② 若对方主动来询再升级。
+> 不跟进理由：储备·复核打回。若用户不同意，在 `data/saga_clients/人工定级.csv` 写一行 `SB-892,B,理由` 后重跑即可。
 
 ## 触达与风险红线
 
@@ -244,7 +192,7 @@ updated: 2026-10-29
 | 触达通道 | ✅ WhatsApp 已加 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
-| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
+| 商业资格结论 | **不合格（见 C 级细分）→ 不主动跟进** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -253,19 +201,7 @@ updated: 2026-10-29
 
 ## 英文跟进邮件（样板 · 可直接发送）
 
-**主题**：Follow-up on your switch requirement (model confirmation in progress)
-
-```text
-Hi Jose,
-
-We have been in touch before about PoE and industrial switches; this is a specific follow-up rather than a catalogue. For the 4 × 10G media converters — SFP+ to 10G RJ45, desktop, ~$60 class EXW; still needed? Reverse-PoE boards we don't make.
-
-Best regards,
-Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
-https://sagatele.com/
-```
-
-> 该需求无 Saga 标准型号对应（见「产品决策」P1 待核型）：此样板只确认需求与核型进度，不报价；核型后再出带型号/价格的版本。
+> C 级不出邮件样板（不主动跟进）。
 
 ## 新跟进记录（仓库外发出后补）
 
@@ -277,11 +213,11 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- 不复核。对方主动来询 → 在 `data/saga_clients/人工定级.csv` 写一行升级后重跑。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 29）
+- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 29）；人工/调研定级 → C
 
 ---
 

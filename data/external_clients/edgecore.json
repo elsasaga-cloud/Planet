@@ -817,7 +817,7 @@
    "iso": "KE",
    "city": "",
    "website": "sales.kenya",
-   "domain": "sales.kenya",
+   "domain": "mart-networks.com",
    "type": "区域网络产品分销/SI（东非多国）",
    "src_status": "",
    "facts": [
@@ -972,7 +972,9 @@
    },
    "grade": "B",
    "grade_reason": "对口但不在主攻区（美加/欧/土以外）→ XB",
-   "code": "XB-E002"
+   "code": "XB-E002",
+   "domain_prev": "sales.kenya",
+   "domain_fix_note": "LT-X01 2026-10-29：域名由邮箱 sales@mart-networks.com 取（导入时误把邮箱用户名 sales.kenya 当域名）"
   },
   {
    "repo": "Edgecore",
@@ -4576,7 +4578,7 @@
    "iso": "KR",
    "city": "Seoul",
    "website": "hk.kim",
-   "domain": "hk.kim",
+   "domain": "aitech24.co.kr",
    "type": "SI/VAR/集成商",
    "src_status": "00-未触达",
    "facts": [
@@ -4736,7 +4738,9 @@
    },
    "grade": "B",
    "grade_reason": "KR：Simon 口径「一些俄/印/韩」→ XB 慢慢跟",
-   "code": "XB-E016"
+   "code": "XB-E016",
+   "domain_prev": "hk.kim",
+   "domain_fix_note": "LT-X01 2026-10-29：域名由邮箱 hk.kim@aitech24.co.kr 取（导入误把用户名当域名）"
   },
   {
    "repo": "Edgecore",
@@ -15156,7 +15160,7 @@
    "iso": "NZ",
    "city": "Auckland",
    "website": "fletcher.prendergast",
-   "domain": "fletcher.prendergast",
+   "domain": "cdl.co.nz",
    "type": "分销商",
    "src_status": "00-未触达",
    "facts": [
@@ -15322,7 +15326,9 @@
    },
    "grade": "B",
    "grade_reason": "对口但不在主攻区（美加/欧/土以外）→ XB",
-   "code": "XB-E055"
+   "code": "XB-E055",
+   "domain_prev": "fletcher.prendergast",
+   "domain_fix_note": "LT-X01 2026-10-29：域名由邮箱 sales@cdl.co.nz 取（导入误把用户名当域名）"
   },
   {
    "repo": "Edgecore",
@@ -15850,7 +15856,7 @@
    "iso": "TW",
    "city": "Taipei",
    "website": "sales.tw",
-   "domain": "sales.tw",
+   "domain": "commverge.com",
    "type": "SI/VAR/集成商",
    "src_status": "00-未触达",
    "facts": [
@@ -15999,7 +16005,9 @@
    },
    "grade": "B",
    "grade_reason": "对口但不在主攻区（美加/欧/土以外）→ XB",
-   "code": "XB-E057"
+   "code": "XB-E057",
+   "domain_prev": "sales.tw",
+   "domain_fix_note": "LT-X01 2026-10-29：域名由邮箱 sales.tw@commverge.com 取（导入误把用户名当域名）"
   },
   {
    "repo": "Edgecore",

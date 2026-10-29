@@ -58,6 +58,8 @@ updated: 2026-10-29
 |---|---|---|---|---|---|
 | 2024-01-20 | 来 | 用户表（Simon 跟进记录；渠道 Whatsapp） | 用户表跟进：推「发了最新工业电源价格册」→ 对方「catalog and price」 | Simon 自己的跟进表里有回应记录，邮箱里看不到（多为 WhatsApp/微信）——证明渠道活着；按原文留存，不扩写 | `Clients/Whatsapp_S跟进 2026.08.04.xlsx no.21 2024.1.20` |
 | 2026-10-21 | 用户表 | Simon | 对价格OK 想拿样 贴标；2024.2.27 发了2光4小壳信息 → Give price for 4,8,16,24,64 ports；2024.3.18 → price | 表内备注 | `用户表` |
+| 2026-10-29 | 查 | Agent 复核 LT-R09 | yellow.ug：iTKATI UG LTD … established in 2009 … plot 4646 muwaire rd, Kampala … +256785284579 +256704575328 … www.itkati.com | 长期客户群复核证据（非邮件事实，不计真回） | `` |
+| 2026-10-29 | 查 | Agent 复核 LT-R09 | Facebook：ITKati Corp. … Makindye, Kampala … +256 704 575328 itkaticorp@gmail.com itkati.com | 长期客户群复核证据（非邮件事实，不计真回） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来；用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
