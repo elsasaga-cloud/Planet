@@ -2,7 +2,7 @@
 
 > **评级 C**　|　德国　|　档案编号 `SC-1013`　|　优先级 —　|　状态：发不过去
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：德国 Gemaxx Network（ONV 工业 FS）：德国主区 + 已进口中国同类品牌 + 对位 ✔；曾退信但域名正常 → 闸 2 查底数 + 找新地址
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：△ 观察档 · OEM 30%：geMaxx 自有品牌（关联 GEMAXX Communications GmbH, Duisburg；11–50）；about 页 2022 + sales@ 退信 + 集团站「2001-2023」→ 存续待核；先用 info@gemaxx.net 一封试探，退信 / 无回声 → 回 C　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：在用同行产品　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1013
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 16
 country: 德国
 region: 欧洲
@@ -39,6 +39,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STI-288DGGPM（工业 L2+ 8 PoE + 2×2.5G SFP）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `gemaxxnetwork.com` → 主机商 cPanel 类邮箱（MX：mail.gemaxxnetwork.com）。主机商附带邮箱（主机商 cPanel 类邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 124 批（DE · 1 次检索：gemaxxnetwork.com/about-us（geMaxx brand；2022-12）+ gemaxx24.de（GEMAXX Communications GmbH 2001-2023；Hotline +49 211 176 08 02；info@gemaxx.net）+ crunchbase（Duisburg；11-50；Legal Name GEMAXX Communications GmbH）；2026-10-29，2026-10-29 查；https://gemaxxnetwork.com/about-us/）：**
+
+- 法定名 / 登记号：Gemaxx Network / geMaxx 品牌（gemaxxnetwork.com；**官网 about：「geMaxx brand established by an experienced team… network projects」= 自有品牌网络产品（表内 ONV 贴牌）；关联 GEMAXX Communications GmbH（Duisburg；Crunchbase 11–50；+49 211 176 08 02；info@gemaxx.net）；gemaxx24.de 页脚「GEMAXX Communications GmbH (2001 - 2023)」**）；HRB 1 查未得；sales@ 退信 + about 页 2022 → 存续待核 · 未取（HRB 1 查未得） · 状态 **存续待核（about 2022；sales@ 退信；集团站 2023）** · 成立 2001（GEMAXX Communications） · GmbH（关联主体）
+- 行业码 / 经营范围：电信（电话卡 / IVR / 呼叫中心）+ 自有品牌网络设备
+- 注册地址：Duisburg, Nordrhein-Westfalen（街道未取）
+- 规模档：小型（11–50）
+- 账目：未取；—
+- 高管：（info@gemaxx.net 集团站公开邮箱 = 试探收件人；sales@gemaxxnetwork.com 退信）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自有品牌 → OEM 30%，但先确认存续：info@gemaxx.net 一封试探（一页纸：工业 / 商业 PoE 贴牌 + MOQ + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；无回声或退信 → 回 C（巡检 2 个月后复核官网）
+- 备注：OEM 30%；P 池候选 △（观察档：存续待核）；部分坐实。
 
 ## 基本事实（事实/推断/假设分层）
 

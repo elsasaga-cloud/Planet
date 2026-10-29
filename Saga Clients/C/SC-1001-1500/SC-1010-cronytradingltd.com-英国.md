@@ -2,7 +2,7 @@
 
 > **评级 C**　|　英国　|　档案编号 `SC-1010`　|　优先级 —　|　状态：发不过去
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：英国 Crony Trading Ltd（商业 PoE，用的洪瑞的；网站品类杂）：英国主区 + 已进口同款供应链产品 + 对位 ✔；曾退信但域名正常 → 闸 2 查底数（Companies House）再定
+> **C 池筛选：留 C 储备**（闸 2 · 2026-10-29）：闸 2 查实微型：Crony Trading Ltd 05732999 一人公司、股本 £1、住宅注册地、登记主业纺织代理 + 退信 → 回 C 储备
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：在用同行产品　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1010
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: keep_C  # 闸 2 G2 2026-10-29
 score: 16
 country: 英国
 region: 欧洲
@@ -38,6 +38,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-28DGGPM（8 口 PoE + 2 SFP L2+）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `cronytradingltd.com` → 其他主机商邮箱（mx1.dreamhost.com）（MX：mx1.dreamhost.com、mx2.dreamhost.com）。主机商附带邮箱（mx1.dreamhost.com）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 124 批（GB · 1 次检索：find-and-update.company-information.service.gov.uk/company/05732999 + companiesintheuk（Employees 1；Capital 1 GBP；Micro）+ companycheck（SIC 46160）；2026-10-29，2026-10-29 查；https://find-and-update.company-information.service.gov.uk/company/05732999）：**
+
+- 法定名 / 登记号：CRONY TRADING LTD（**Companies House 05732999：Active；成立 2006-03-07；曾用名 CRONY ENTERTAINMENT LTD（至 2007-12-05）；注册地址 Flat 2, 218 Portland Road, South Norwood, London SE25 4QB（住宅）；SIC 46160 纺织 / 服装 / 鞋类销售代理；微型账目、1 名员工、股本 £1；唯一董事 Anthony Mwangi Waweru（2008-04 起，前任 7 人已辞）**）；表内：商业 PoE 用洪瑞的、网站品类杂；booking@ 退信 · 05732999 · 状态 **Active（账目至 2026-03-31 已交）** · 成立 2006-03-07 · Private limited Company
+- 行业码 / 经营范围：46160 纺织 / 服装销售代理（登记）≠ 网站网络产品
+- 注册地址：Flat 2, 218 Portland Road, South Norwood, London, SE25 4QB
+- 规模档：微型（1 人，股本 £1）
+- 账目：未取；—
+- 高管：Anthony Mwangi Waweru — Director（Companies House；1982-07）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **一人贸易公司 + 住宅注册地 + 登记主业纺织 + 退信 → 不动，回 C 储备**— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地
+- 备注：不动；回 C；坐实（微型 / 红旗：£1 股本 + 住宅地址 + 主业不符）。
 
 ## 基本事实（事实/推断/假设分层）
 

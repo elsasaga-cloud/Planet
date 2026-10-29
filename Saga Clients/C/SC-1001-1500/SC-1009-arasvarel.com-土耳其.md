@@ -2,7 +2,7 @@
 
 > **评级 C**　|　土耳其　|　档案编号 `SC-1009`　|　优先级 —　|　状态：发不过去
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：土耳其 Aras Varel / Varel Alarm（工商业 FS，在卖 Utepo）：土耳其主区 + 已进口中国同类品牌 + 对位 ✔；arasvarel.com 无 MX 但 varelalarm.com 正常 → 闸 2 查底数 + 换地址
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：△ 观察档 · 集成商 25%：Varel Alarm Sistemleri Tic. A.Ş.（1990；Siemens Solution Partner；2012 并入荷兰 ARAS B.V.；约 14 人）部分坐实；对位 ✔ 主区 ✔ 坐实 ✔ 复购体量（项目型）△ → 入池观察档；先换 varelalarm.com 地址重发
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：在用同行产品　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1009
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 16
 country: 土耳其
 region: 土耳其
@@ -38,6 +38,32 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（24 口 PoE L2+ 走量款）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `arasvarel.com` → 无 MX（只有 A 记录 104.21.10.161/172.67.131.173）。无 MX 记录：收信只能靠 A 记录兜底，多数邮件服务器不接 → 这个域的地址大概率退信，先走该户别的渠道（WhatsApp / 平台 / 别的域）
+- `varelalarm.com` → 主机商 cPanel 类邮箱（MX：mail.varelalarm.com）。主机商附带邮箱（主机商 cPanel 类邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+- 其他域名仍活：`varelalarm.com` → 只用这些域的地址
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 124 批（TR · 1 次检索：varelalarm.com 首页（1990 yılında kurulan Varel Alarm Sistemleri Tic. A.Ş.；E5 Karayolu Üstü Etap İş Merkezi A Blok Lavanta Sokak No:16 Acıbadem；+90 216 327 62 80；vag@varelalarm.com；2012 ARAS B.V.）+ rocketreach（Employees 14；Founded 1990）+ zoominfo（<$5M）；2026-10-29，2026-10-29 查；https://varelalarm.com/）：**
+
+- 法定名 / 登记号：Varel Alarm Sistemleri Ticaret A.Ş.（varelalarm.com；**官网：1990 年创立、İstanbul Acıbadem 总部、消防 / CCTV / 门禁 / 紧急广播系统集成商、Siemens Solution Partner、2012 年并入荷兰 ARAS B.V.（ARAS Security 集团）；RocketReach 14 人；ZoomInfo 营收 <$5M**）；MERSIS 号 1 查未得 → 部分坐实；表内：工商业 FS、在卖 Utepo；arasvarel.com 无 MX（退信域） · 未取（MERSIS 1 查未得） · 状态 **营业中（官网 2026）** · 成立 1990 · A.Ş.（ARAS B.V. 子公司）
+- 行业码 / 经营范围：弱电 / 安防系统集成（消防、CCTV、门禁；伊斯坦布尔）
+- 注册地址：E5 Karayolu Üstü Etap İş Merkezi A Blok Lavanta Sok. No:16, Acıbadem – İstanbul
+- 规模档：小型（约 14）
+- 账目：未取；—
+- 高管：（无具名决策人；vag@varelalarm.com 官网总邮箱 = 收件人；info@varelalarm.com 表内）
+- 高管：Burak Akgöz — Senior Technical Services Engineer（RocketReach；非决策人）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **集成商 25%：换 varelalarm.com 地址重发一页纸一次（STC-228GP $33 / STI-154GP 工业 + MOQ 1 + 付费样机；Utepo 不点名）— 土耳其常规：英文稿（可附土语备注）、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ FOB 深圳 / DAP（买方清关）；周四 10–12 当地**；再无回声 → 观察档
+- 备注：集成商 25%；P 池候选 △（观察档：小型集成商、ARAS 集团采购或集中）；部分坐实。
 
 ## 基本事实（事实/推断/假设分层）
 

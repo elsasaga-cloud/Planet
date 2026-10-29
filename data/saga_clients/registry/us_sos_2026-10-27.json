@@ -3,8 +3,8 @@
   "kind": "registry",
   "source": "USA · 州务卿登记 / OpenCorporates",
   "created": "2026-10-27",
-  "updated": "2026-10-28",
-  "count": 139
+  "updated": "2026-10-29",
+  "count": 145
  },
  "rows": {
   "SA-002": {
@@ -4686,6 +4686,194 @@
    ],
    "notes": "不动（一人网店）；部分坐实（法定名 + 址；SoS 号未取）；country_fix US。",
    "code": "SB-106"
+  },
+  "SC-1230": {
+   "batch": 124,
+   "name": "wantec, inc（wantec.com；**官网 about：1999 年德国创立、CEO Stefan Rupp、7,000 sqft 研发生产；美国分销运营 524 S Main Street, Simpsonville, SC 29681（2019 新 5,000 sqft）；门禁对讲 / 2wIP 网络适配器 / wantecWire 跳线；自有品牌工业交换机 Wantec 3405（4 口 + 1 SFP DIN 导轨，EAN 4250367734056，Lieske 售 €158）= 宇航贴牌**）；LinkedIn 51–200（偏高）；表内：周边产品 + 宇航的工业 FS；18 次跟进无回复",
+   "iso": "US",
+   "fetched": "2026-10-29",
+   "source": "US · 1 次检索：wantec.com/about.html（Founded in Germany in 1999 by CEO Stefan Rupp；Simpsonville, SC）+ linkedin（wantec, inc；524 S Main Street Simpsonville SC 29681；Founded 1999）+ industry-electronics.com（Wantec 3405 Industrial Fiber Ethernet Switch 4 port + 1 SFP；EAN 4250367734056）；2026-10-29",
+   "url": "http://www.wantec.com/about.html",
+   "number": "未取（SC SoS / 德国 HRB 未查）",
+   "status": "营业中（官网 + 经销在售）",
+   "incorporated": "1999（德国）",
+   "company_type": "Inc.（美国分销）+ 德国母体",
+   "sic": [
+    "门禁对讲 / 网络配件制造 + 自有品牌工业交换机"
+   ],
+   "address": "524 S Main Street, Simpsonville, SC 29681, US（德国研发生产地未取）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型 / 中型（LinkedIn 51–200 偏高）",
+   "officers": [
+    "Stefan Rupp — CEO / 创始人（官网 about；无公开邮箱）",
+    "Andre Costa — 表内联系人（andre.costa@wantec.com）= 收件人",
+    "（service@wantec.com 表内）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌工业交换机（已贴牌中国货）→ OEM 30%：一页纸一次（STI-154GP 4 PoE + 1 SFP 工业 / STI-054GP 同口型对标 Wantec 3405 + 丝印 MOQ + 付费样机；DE + US 两地口径）— 北美常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP（买方清关）；周三 08–10 当地**；回信即升"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（德美双地自有品牌）；部分坐实。",
+   "code": "SC-1230"
+  },
+  "SC-1297": {
+   "batch": 124,
+   "name": "Winncom Technologies Corp（winncom.com；**Tracxn 法人：WINNCOM TECHNOLOGIES CORP（Ohio，1999-12-31 注册，Active）；prospeo：28900 Fountain Parkway, Unit B, Solon, OH 44139；+1 888 946 6266；1996 年创立；101–200 人（Tracxn 160 / 2024 年报 69）；无线 / 宽带 / LTE / CBRS 分销 + 工程**）；表内「实力不错的分销商」；10 次跟进无回复",
+   "iso": "US",
+   "fetched": "2026-10-29",
+   "source": "US · 1 次检索：prospeo.io/c/winncom-technologies（Solon OH；101-200；Founded 1996）+ tracxn（WINNCOM TECHNOLOGIES CORP；Dec 31, 1999；Active；160 employees）+ signalhire（$1-10M 估；Alex Cernik Head of Strategic Programs & BD）；2026-10-29",
+   "url": "https://tracxn.com/d/companies/winncomtechnologies/__p_BJX1mRIETKDrtejaZ620uy7lAtkDlCWGp--RK8fIw",
+   "number": "Ohio corp（1999-12-31；号未取）",
+   "status": "Active",
+   "incorporated": "1996（公司注册 1999）",
+   "company_type": "Corporation",
+   "sic": [
+    "无线 / 宽带网络设备分销 + 工程（WISP / ISP 渠道）"
+   ],
+   "address": "28900 Fountain Parkway, Unit B, Solon, OH 44139, US",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（100–160）",
+   "officers": [
+    "Alex Cernik — Head of Strategic Programs & Business Development（SignalHire；无公开邮箱）",
+    "（sales@winncom.com 表内 = 收件人，请转产品线经理）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**WISP 渠道分销 → 分销 20%：一页纸一次（STI-280GE / STI-288GPM 工业 PoE + STC-424XGGPM-280W 10G 上联 一口价 + MOQ 1 + 付费样机；FCC）— 北美常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP（买方清关）；周三 08–10 当地**；再无回声 → 观察档"
+   ],
+   "notes": "分销 20%；P 池候选 ○（美国分销，体量中等）；坐实（州登记年份 + 地址）。",
+   "code": "SC-1297"
+  },
+  "SC-1450": {
+   "batch": 124,
+   "name": "MICROLINK NETWORKS LLC / NODEXON 品牌（microlinknet.com / nodexon.com；**公司简介 PDF：独立私营、总部 Houston；品牌 NODEXON（数据网络）、MICROAXS（自动化 2016）、iPARKPRO（智慧停车 2021）；「20+ distributors all over the globe」；nodexon.com 页脚「NODEXON is a brand of MICROLINK NETWORKS LLC, headquarter New York, offices Texas / Virginia」；ZoomInfo：70 E Sunrise Hwy, Valley Stream NY；(646) 851-2555；1994；51–200；$10M；CEO Yaseen Khalid**）；州登记号 1 查未得 → 部分坐实；表内：长飞 / 中科的工业 FS、商业 L3 核心、光配件多；info@ 曾退信但两域名正常",
+   "iso": "US",
+   "fetched": "2026-10-29",
+   "source": "US · 1 次检索：microlinknet.com/wp-content/uploads/2024/01/Microlink-Company-Profile.pdf（HQ Houston；NODEXON / MICROAXS / iPARKPRO；20+ distributors）+ nodexon.com（brand of MICROLINK NETWORKS LLC；HQ New York）+ zoominfo（70 E Sunrise Hwy Valley Stream NY；1994；51-200；$10M；Yaseen Khalid CEO）；2026-10-29",
+   "url": "https://nodexon.com/",
+   "number": "未取（TX / NY 登记 1 查未得）",
+   "status": "营业中（官网 2026）",
+   "incorporated": "1994",
+   "company_type": "LLC",
+   "sic": [
+    "自有品牌数据网络 / 布线 / 安防 / 自动化（NODEXON 交换机 = 贴牌）"
+   ],
+   "address": "70 E Sunrise Hwy, Valley Stream, NY（ZoomInfo）/ Houston, TX（简介）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（51–200；$10M）",
+   "officers": [
+    "Yaseen Khalid — CEO（ZoomInfo；无公开邮箱）",
+    "（info@nodexon.com / info@microlinknet.com 表内 = 收件人，请转产品负责人）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌 NODEXON（已贴牌中国货）→ OEM 30%：换地址一页纸一次（STC-4424GCPM L2+ / STC-424XGGPM-280W 10G 上联 + STI 工业线 贴牌 + 丝印 MOQ + 付费样机；L3 核心不供明说，CENTEC 仅提一句）— 北美常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP（买方清关）；周三 08–10 当地**；回信即升"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（美国品牌商 + 20 家分销网）；部分坐实。",
+   "code": "SC-1450"
+  },
+  "SC-2066": {
+   "batch": 124,
+   "name": "EthoSwitch LLC（ethoswitch.com；**官网：New Jersey 总部 2400 Belmar Blvd Unit B20, Wall Township, NJ 07719 + 加州 10401 Venice Blvd #502, Los Angeles；1-800-657-1902；2012 年起自有品牌加固工业交换机 / SFP / 串口服务器 / MC，5 年换新质保；「两个事业部：美国 / 台湾制造 + 中国制造」；BBB of New Jersey**）；NJ 登记号 1 查未得 → 部分坐实；表内：买过台湾 KONTEN 工业 FS「质量不错」（成单）；sales@ 曾退信但域名 MX 正常",
+   "iso": "US",
+   "fetched": "2026-10-29",
+   "source": "US · 1 次检索：ethoswitch.com（EthoSwitch LLC；NJ + CA 地址；since 2012；products manufactured in China 事业部）+ 产品页（Industrial Unmanaged / PoE+ switches, 5-year warranty）；2026-10-29",
+   "url": "https://www.ethoswitch.com/",
+   "number": "未取（NJ 登记 1 查未得）",
+   "status": "营业中（官网 2026）",
+   "incorporated": "2012",
+   "company_type": "LLC",
+   "sic": [
+    "自有品牌工业以太网交换机 / 光纤产品（部分中国制造）"
+   ],
+   "address": "2400 Belmar Blvd, Unit B20, Wall Township, NJ 07719, US（加州办事处 Los Angeles）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "（sales@ethoswitch.com 表内；具名 KP 未取 — 一页纸请转采购 / 产品负责人）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**品牌商 + 中国制造事业部 + 成单史 → OEM 30%：一页纸一次（STI-054GP / STI-154GP / STI-288GPM 加固工业线 贴牌 + 丝印 MOQ + 付费样机；KONTEN 不点名）— 北美常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP（买方清关）；周三 08–10 当地**；回信即升 A 候选"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（美国品牌商 + 成单）；部分坐实。",
+   "code": "SC-2066"
+  },
+  "SC-2598": {
+   "batch": 124,
+   "name": "Digital Watchdog（digital-watchdog.com；**Datanyze：5436 W Crenshaw St, Tampa, FL 33634；1987 年创立；80 人 / $38.9M（Zippia 125 人 / $11M；Adapt 100–250）；CEO HK Lee；President / COO Wade Thomas**）；FL 登记号 1 查未得 → 部分坐实；表内：大型安防品牌、商业 PoE 自有 logo；KP wade@ = President/COO、patrick@；20 次跟进无回复；Simon 曾判不行",
+   "iso": "US",
+   "fetched": "2026-10-29",
+   "source": "US · 1 次检索：datanyze（5436 W Crenshaw St Tampa FL 33634；$38.9M；80；1987）+ adapt.io（Wade Thomas President / COO；HK Lee CEO；100-250）+ zippia（125；$11M）；2026-10-29",
+   "url": "https://www.datanyze.com/companies/digital-watchdog/346701354",
+   "number": "未取（FL Sunbiz 1 查未得）",
+   "status": "营业中",
+   "incorporated": "1987",
+   "company_type": "Inc.（私营）",
+   "sic": [
+    "自有品牌视频监控（IP / HD over Coax）+ DW 牌 PoE 交换机"
+   ],
+   "address": "5436 W Crenshaw St, Tampa, FL 33634, US",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（80–125；$11–39M）",
+   "officers": [
+    "Wade Thomas — President / COO（Adapt；wade@digital-watchdog.com 表内）= 收件人",
+    "HK Lee — CEO（Adapt）",
+    "Patrick — patrick@digital-watchdog.com（表内）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**品牌商 → OEM 30%：对 COO 一页纸一次（DW 牌商业 PoE 同口型 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM 贴牌 + 丝印彩盒 MOQ + 付费样机；FCC）— 北美常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP（买方清关）；周三 08–10 当地**；Simon 可否决；回信即升"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（美国品牌商，体量偏大）；部分坐实；Simon 曾判不行。",
+   "code": "SC-2598"
+  },
+  "SC-292": {
+   "batch": 124,
+   "name": "Fiber Instrument Sales, Inc.（FIS；fiberinstrumentsales.com；**GovTribe / SAM.gov：UEI H7LXDNB9UAY8、CAGE 0CKD9、注册 2001-07-12、有效至 2026-12-30；161 Clear Rd, Oriskany, NY 13424；1985 年创立；51–250 人；$10M–$50M；NAICS 334220 / 335929；prospeo：$53M、101–200；Owner Frank Giotto / Kim Dipierro；Director Strategic Accounts James Fasano**）；表内：大型光纤工具 / 无源分销商、在卖 Signamax 交换机、自有 logo 无源 / MC / CWDM；19 次跟进无回复",
+   "iso": "US",
+   "fetched": "2026-10-29",
+   "source": "US · 1 次检索：govtribe.com/vendors/fiber-instrument-sales-inc-dot-0ckd9（UEI H7LXDNB9UAY8；CAGE 0CKD9；SAM Active through Dec 30, 2026；161 Clear Rd Oriskany NY；1985）+ prospeo（$53M；101-200；Frank Giotto Owner；James Fasano Director Strategic Accounts）；2026-10-29",
+   "url": "https://govtribe.com/vendors/fiber-instrument-sales-inc-dot-0ckd9",
+   "number": "UEI H7LXDNB9UAY8 / CAGE 0CKD9（NY 公司号未取）",
+   "status": "Active（SAM.gov 至 2026-12-30）",
+   "incorporated": "1985",
+   "company_type": "Inc.（私营）",
+   "sic": [
+    "光纤工具 / 无源 / 有源分销 + 自有标制造（FIS 品牌）"
+   ],
+   "address": "161 Clear Road, Oriskany, NY 13424, US",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（100–250；$10–53M）",
+   "officers": [
+    "Frank Giotto — Owner（prospeo；无公开邮箱）",
+    "James Fasano — Director, Strategic Accounts（prospeo；无公开邮箱）",
+    "（info@fiberinstrumentsales.com 表内 = 收件人，请转有源产品采购）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有标分销 → 分销 20% / 贴标 30% 二选一：一页纸一次（FIS 牌 MC 对标 STC-110XGE $65 + STC-228GP / STI-154GP 贴牌 + MOQ + 付费样机；Signamax 不点名）— 北美常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP（买方清关）；周三 08–10 当地**；再无回声 → 观察档"
+   ],
+   "notes": "分销 20%（可升贴标 30%）；P 池候选 ○（美国大型光纤分销）；坐实（SAM.gov）。",
+   "code": "SC-292"
   }
  }
 }

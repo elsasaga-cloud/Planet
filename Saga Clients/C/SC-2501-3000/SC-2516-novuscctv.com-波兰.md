@@ -2,7 +2,7 @@
 
 > **评级 C**　|　波兰　|　档案编号 `SC-2516`　|　优先级 —　|　状态：用户判定不行
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：波兰 AAT / Novus（波兰最大安防分销商之一，自有品牌 Novus 工业 FS / PoE 延长器 / SFP；KP Stiepan Sedrakian）→ 自有品牌体量 + 波兰；Simon 判不行 → 闸 2 查底数　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 品牌商 · OEM 30%：AAT Systemy Bezpieczeństwa sp. z o.o.（KRS 0000838329；Warszawa；1993 起；201–500 人；自有品牌 NOVUS / KADE / ZEUS / EVIX）坐实；KP Stiepan Sedrakian / Dariusz Rośniak 在表；对位 ✔ 波兰 ✔ 品牌商 ✔ 体量 ✔ → P 池候选（体量偏大）；Simon 曾判不行，可否决　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:PL、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-2516
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: -23
 country: 波兰
 region: 欧洲
@@ -39,6 +39,33 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STI-288DGGPM（工业 L2+ 8 PoE + 2×2.5G SFP）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `novuscctv.com` → Microsoft 365（MX：novuscctv-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+- `aat.pl` → Microsoft 365（MX：aat-pl.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 124 批（PL · 1 次检索：aplikuj.pl/pracodawca/19089（KRS 0000838329；sp. z o.o.；wpis 23.04.2020；201–500；marki własne NOVUS, KADE, ZEUS, EVIX）+ linkedin（AAT SYSTEMY BEZPIECZEŃSTWA sp. z o.o.；Warszawa；201-500；1993；Dariusz Mieszkowski Dyrektor Działu Sprzedaży Krajowej）；2026-10-29，2026-10-29 查；https://www.aplikuj.pl/pracodawca/19089/aat-systemy-bezpieczenstwa-sp-z-o-o/opinie）：**
+
+- 法定名 / 登记号：AAT SYSTEMY BEZPIECZEŃSTWA sp. z o.o.（aat.pl / novuscctv.com；**aplikuj：KRS 0000838329（注册 2020-04-23 新主体；业务 1993 年起）；Warszawa；201–500 人；安防系统批发领先者、自有品牌 NOVUS / KADE / ZEUS / EVIX；LinkedIn：Handel hurtowy、201–500、1993**）；表内：波兰最大安防分销之一、Novus 工业 FS / PoE 延长器 / SFP；KP Stiepan Sedrakian、Dariusz Rośniak、export@；Simon 曾判不行 · KRS 0000838329 · 状态 **营业中（KRS 2020 新主体存续）** · 成立 1993（现主体 2020-04-23） · sp. z o.o.
+- 行业码 / 经营范围：安防系统批发 + 自有品牌制造（NOVUS CCTV 等 4 品牌）
+- 注册地址：Warszawa, Mazowieckie（街道未取）
+- 规模档：大型（201–500）
+- 账目：未取；—
+- 高管：Stiepan Sedrakian — 表内 KP（stiepan.sedrakian@aat.pl）= 收件人
+- 高管：Dariusz Rośniak — 表内（dariusz.rosniak@aat.pl）
+- 高管：Dariusz Mieszkowski — Dyrektor Działu Sprzedaży Krajowej（LinkedIn；无公开邮箱）
+- 高管：（export@aat.pl 表内）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **4 个自有品牌 + 波兰最大批发 → OEM 30%：对 KP 一页纸一次（NOVUS 牌工业 FS / PoE 同口型 STI-154GP / STI-288GPM / STC-228GP 贴牌 + 丝印 MOQ + 付费样机；波兰语备注）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；Simon 可否决；回信即升
+- 备注：OEM 30%；P 池候选 ★（波兰品牌商，体量偏大）；坐实（KRS）；Simon 曾判不行。
 
 ## 基本事实（事实/推断/假设分层）
 

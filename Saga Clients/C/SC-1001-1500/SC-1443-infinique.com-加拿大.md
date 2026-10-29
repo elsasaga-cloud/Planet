@@ -2,7 +2,7 @@
 
 > **评级 C**　|　加拿大　|　档案编号 `SC-1443`　|　优先级 —　|　状态：已推送 16 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：加拿大 Infinique（几乎都是 ONV 的、刷了他们的 logo = 现成 OEM 买家）：北美主区 + 进口经验 + 自有品牌 OEM（30% 口径）；曾退信但域名正常、16 次跟进无回复 → 闸 2 查底数 + 找新地址　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 品牌商 · OEM 30%：Infinique（Mississauga ON；2002；11–50；自有品牌安防 + 布线 + 交换机 = ONV 贴牌；迪拜 / 印度分部）部分坐实；对位 ✔ 主区 ✔ OEM ✔ → P 池候选；先换地址　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 16 次（2024-05-11 → 2025-10-17）　|　**所在清单**：A优质名单(Canada)、AI评估(CA)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1443
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 10
 country: 加拿大
 region: 北美
@@ -39,6 +39,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `infinique.com` → 主机商 cPanel 类邮箱（MX：mx10.antispam.mailspamprotection.com、mx20.antispam.mailspamprotection.com、mx30.antispam.mailspamprotection.com）。主机商附带邮箱（主机商 cPanel 类邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 124 批（CA · 1 次检索：infinique.com/about-us（Since 2002；Founded in Ontario；switches and media converters；2026-09）+ crunchbase（Infinique Canada；Mississauga；11-50；Founded 2001）+ multinetfze（Dubai 2008 / India 2019）；2026-10-29，2026-10-29 查；https://infinique.com/about-us）：**
+
+- 法定名 / 登记号：Infinique（infinique.com；**官网 about：2002 年安大略创立（Crunchbase 2001-01-01，Mississauga，11–50）；自有品牌视频监控 + 铜缆 / 光纤布线 + 网络交换机 / MC；2008 迪拜区域办公室、2019 印度技术中心；官网 2026-09 在线**）；Ontario 公司号 1 查未得 → 部分坐实；表内：几乎都是 ONV 的、刷了他们的 logo；sales@ 曾退信但域名正常；16 次跟进无回复 · 未取（Ontario 登记 1 查未得） · 状态 **营业中（官网 2026-09）** · 成立 2002（Crunchbase 2001） · Inc.（推定）
+- 行业码 / 经营范围：自有品牌安防 + 布线 + 网络交换机（ONV 贴牌）
+- 注册地址：Mississauga, Ontario（街道未取）
+- 规模档：小型（11–50）
+- 账目：未取；—
+- 高管：（sales@ / info@infinique.com 表内；具名 KP 未取 — 一页纸请转采购 / 产品经理）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **已贴牌 ONV → OEM 30%：换地址一页纸一次（STC-028GP / STC-228GP / STI-154GP 贴牌 + 丝印 MOQ + 付费样机；FCC / IC 口径）— 北美常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP（买方清关）；周三 08–10 当地**；回信即升
+- 备注：OEM 30%；P 池候选 ★（北美现成 OEM 买家）；部分坐实。
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -3,9 +3,10 @@
   "updated": "2026-10-29",
   "rules": "docs/C池三闸筛选_方案_2026-10-29.md §2",
   "counts": {
-   "keep_C": 800,
+   "keep_C": 802,
    "pass_final": 188,
-   "candidate": 55
+   "pool_candidate": 19,
+   "candidate": 34
   },
   "n": 1043
  },
@@ -874,31 +875,40 @@
   ]
  },
  "SC-1009": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "土耳其 Aras Varel / Varel Alarm（工商业 FS，在卖 Utepo）：土耳其主区 + 已进口中国同类品牌 + 对位 ✔；arasvarel.com 无 MX 但 varelalarm.com 正常 → 闸 2 查底数 + 换地址",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "△ 观察档 · 集成商 25%：Varel Alarm Sistemleri Tic. A.Ş.（1990；Siemens Solution Partner；2012 并入荷兰 ARAS B.V.；约 14 人）部分坐实；对位 ✔ 主区 ✔ 坐实 ✔ 复购体量（项目型）△ → 入池观察档；先换 varelalarm.com 地址重发",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-05"
+  "batch": "G2-124",
+  "g1_batch": "G1-05",
+  "g1_reason": "土耳其 Aras Varel / Varel Alarm（工商业 FS，在卖 Utepo）：土耳其主区 + 已进口中国同类品牌 + 对位 ✔；arasvarel.com 无 MX 但 varelalarm.com 正常 → 闸 2 查底数 + 换地址"
  },
  "SC-1010": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "英国 Crony Trading Ltd（商业 PoE，用的洪瑞的；网站品类杂）：英国主区 + 已进口同款供应链产品 + 对位 ✔；曾退信但域名正常 → 闸 2 查底数（Companies House）再定",
+  "verdict": "keep_C",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "闸 2 查实微型：Crony Trading Ltd 05732999 一人公司、股本 £1、住宅注册地、登记主业纺织代理 + 退信 → 回 C 储备",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-05"
+  "batch": "G2-124",
+  "g1_batch": "G1-05",
+  "g1_reason": "英国 Crony Trading Ltd（商业 PoE，用的洪瑞的；网站品类杂）：英国主区 + 已进口同款供应链产品 + 对位 ✔；曾退信但域名正常 → 闸 2 查底数（Companies House）再定"
  },
  "SC-1013": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "德国 Gemaxx Network（ONV 工业 FS）：德国主区 + 已进口中国同类品牌 + 对位 ✔；曾退信但域名正常 → 闸 2 查底数 + 找新地址",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "△ 观察档 · OEM 30%：geMaxx 自有品牌（关联 GEMAXX Communications GmbH, Duisburg；11–50）；about 页 2022 + sales@ 退信 + 集团站「2001-2023」→ 存续待核；先用 info@gemaxx.net 一封试探，退信 / 无回声 → 回 C",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-05"
+  "batch": "G2-124",
+  "g1_batch": "G1-05",
+  "g1_reason": "德国 Gemaxx Network（ONV 工业 FS）：德国主区 + 已进口中国同类品牌 + 对位 ✔；曾退信但域名正常 → 闸 2 查底数 + 找新地址",
+  "tags": [
+   "oem_target"
+  ]
  },
  "SC-1014": {
   "verdict": "candidate",
@@ -2262,13 +2272,18 @@
   "batch": "G1-05"
  },
  "SC-1230": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "美国 Wantec（周边产品 + 宇航的工业 FS）：美国主区 + 已进口中国同类品牌 + 对位 ✔；18 次跟进无回复（冷）→ 闸 2 查底数",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 品牌商 · OEM 30%：wantec, inc（德国 1999 创立 CEO Stefan Rupp；美国分销 Simpsonville SC；自有品牌 Wantec 3405 工业 4+1 SFP = 贴牌，经销在售 €158）部分坐实；对位 ✔ 主区 ✔（DE+US）品牌 ✔ → P 池候选",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-05"
+  "batch": "G2-124",
+  "g1_batch": "G1-05",
+  "g1_reason": "美国 Wantec（周边产品 + 宇航的工业 FS）：美国主区 + 已进口中国同类品牌 + 对位 ✔；18 次跟进无回复（冷）→ 闸 2 查底数",
+  "tags": [
+   "oem_target"
+  ]
  },
  "SC-1232": {
   "verdict": "keep_C",
@@ -2436,13 +2451,15 @@
   "batch": "G1-05"
  },
  "SC-1297": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "美国 Winncom Technologies（「实力不错的分销商」，无线 / 网络分销）：美国主区 + 分销商主体 + 对位 ✔；体量偏大、10 次跟进无回复 → 闸 2 查底数，看是否有白牌 / 工业线入口",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 分销 20%：Winncom Technologies Corp（Ohio 1999 注册；Solon OH；1996 起；100–160 人；WISP / 宽带分销）坐实；对位 ✔ 主区 ✔ 坐实 ✔ 体量 ✔ → P 池候选（冷户，10 推 0 回；一页纸后观察）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-05"
+  "batch": "G2-124",
+  "g1_batch": "G1-05",
+  "g1_reason": "美国 Winncom Technologies（「实力不错的分销商」，无线 / 网络分销）：美国主区 + 分销商主体 + 对位 ✔；体量偏大、10 次跟进无回复 → 闸 2 查底数，看是否有白牌 / 工业线入口"
  },
  "SC-130": {
   "verdict": "pass_final",
@@ -2750,13 +2767,15 @@
   "batch": "G1-05"
  },
  "SC-1443": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "加拿大 Infinique（几乎都是 ONV 的、刷了他们的 logo = 现成 OEM 买家）：北美主区 + 进口经验 + 自有品牌 OEM（30% 口径）；曾退信但域名正常、16 次跟进无回复 → 闸 2 查底数 + 找新地址",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 品牌商 · OEM 30%：Infinique（Mississauga ON；2002；11–50；自有品牌安防 + 布线 + 交换机 = ONV 贴牌；迪拜 / 印度分部）部分坐实；对位 ✔ 主区 ✔ OEM ✔ → P 池候选；先换地址",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-05",
+  "batch": "G2-124",
+  "g1_batch": "G1-05",
+  "g1_reason": "加拿大 Infinique（几乎都是 ONV 的、刷了他们的 logo = 现成 OEM 买家）：北美主区 + 进口经验 + 自有品牌 OEM（30% 口径）；曾退信但域名正常、16 次跟进无回复 → 闸 2 查底数 + 找新地址",
   "tags": [
    "oem_target"
   ]
@@ -2792,15 +2811,18 @@
   "batch": "G1-02"
  },
  "SC-1450": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "美国 Nodexon / Microlink（长飞、中科的工业 FS，商业 L3 核心，光配件多）：美国主区 + 已进口中国同类品牌 + 对位 ✔；曾退信但两域名正常 → 闸 2 查底数",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 品牌商 · OEM 30%：MICROLINK NETWORKS LLC / NODEXON（1994；NY + Houston；51–200；$10M；CEO Yaseen Khalid；20+ 分销商）部分坐实；长飞 / 中科贴牌 → 对位 ✔ 主区 ✔ OEM ✔ 体量 ✔ → P 池候选；先换地址",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-05",
+  "batch": "G2-124",
+  "g1_batch": "G1-05",
+  "g1_reason": "美国 Nodexon / Microlink（长飞、中科的工业 FS，商业 L3 核心，光配件多）：美国主区 + 已进口中国同类品牌 + 对位 ✔；曾退信但两域名正常 → 闸 2 查底数",
   "tags": [
-   "dayjob_fit"
+   "dayjob_fit",
+   "oem_target"
   ]
  },
  "SC-146": {
@@ -3223,13 +3245,15 @@
   "batch": "G1-01"
  },
  "SC-161": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "德国 LogiLink（2direct GmbH 配件品牌，在卖宇航的工业 FS / optical switch = 自有品牌 OEM 买家）：德国主区 + 进口经验 + OEM（30% 口径）；Simon 曾判不行、15 次无回复 → 闸 2 查底数再定，Simon 可否决",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★★ 首选 · OEM 30%：2direct GmbH（LogiLink；2001；Schalksmühle；5,000+ SKU、14,000 经销商、12 国；OEM 方案为副业）部分坐实；KP grohnert@2direct.de = Geschäftsführer Wilfried Grohnert；在售宇航工业机 → 对位 ✔ 主区 ✔ 品牌商 ✔ KP 直达 ✔ → P 池候选；Simon 曾判不行，可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-06",
+  "batch": "G2-124",
+  "g1_batch": "G1-06",
+  "g1_reason": "德国 LogiLink（2direct GmbH 配件品牌，在卖宇航的工业 FS / optical switch = 自有品牌 OEM 买家）：德国主区 + 进口经验 + OEM（30% 口径）；Simon 曾判不行、15 次无回复 → 闸 2 查底数再定，Simon 可否决",
   "tags": [
    "oem_target",
    "dayjob_fit"
@@ -4255,13 +4279,15 @@
   ]
  },
  "SC-1855": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "土耳其 Kıraç Bilişim（跟澳视买、知道天地伟业，要求先发 email）：土耳其主区 + 已进口中国安防品牌；9 次跟进无回复 → 闸 2 查底数，低优先",
+  "verdict": "keep_C",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "闸 2 未坐实：1 查无命中（仅同业）+ 9 推 0 回 → 回 C 储备",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-06"
+  "batch": "G2-124",
+  "g1_batch": "G1-06",
+  "g1_reason": "土耳其 Kıraç Bilişim（跟澳视买、知道天地伟业，要求先发 email）：土耳其主区 + 已进口中国安防品牌；9 次跟进无回复 → 闸 2 查底数，低优先"
  },
  "SC-1856": {
   "verdict": "keep_C",
@@ -4677,13 +4703,15 @@
   "batch": "G1-06"
  },
  "SC-1935": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "德国 Leunig（工业 FS / MC / 串口，主要卖 Moxa）：德国主区 + 工业网络分销主体 + 对位 ✔；曾退信但域名正常 → 闸 2 查底数 + 找新地址",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 分销 20%：LEUNIG GmbH（HRB 1531 Siegburg；1980；Hennef；GF Hermann-J. Vester；KVM / 线缆 / 工业网络，Moxa 线）坐实；对位 ✔ 主区 ✔ 坐实 ✔ 体量 ✔（45 年批发）→ P 池候选；先换 sales@leunig.de 公开地址",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-06",
+  "batch": "G2-124",
+  "g1_batch": "G1-06",
+  "g1_reason": "德国 Leunig（工业 FS / MC / 串口，主要卖 Moxa）：德国主区 + 工业网络分销主体 + 对位 ✔；曾退信但域名正常 → 闸 2 查底数 + 找新地址",
   "tags": [
    "dayjob_fit"
   ]
@@ -4801,13 +4829,18 @@
   "batch": "G1-04"
  },
  "SC-1965": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "土耳其 Entegron Network（PON / 商业 PoE，有 E-wind 和 GXCOM 的产品）：土耳其主区 + 已进口中国同类品牌 + 对位 ✔；Simon 曾判不行、2 次无回复 → 闸 2 查底数再定，Simon 可否决",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 品牌商 · OEM 30%：Entegron Network 官网自有品牌「Entegron Switch」（BT 90W / 反向 PoE / 8 PoE+2 SFP 管理 = 贴牌中国货）；MERSIS 未取 → 部分坐实；对位 ✔ 主区 ✔ OEM ✔ → P 池候选；Simon 曾判不行，可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-06"
+  "batch": "G2-124",
+  "g1_batch": "G1-06",
+  "g1_reason": "土耳其 Entegron Network（PON / 商业 PoE，有 E-wind 和 GXCOM 的产品）：土耳其主区 + 已进口中国同类品牌 + 对位 ✔；Simon 曾判不行、2 次无回复 → 闸 2 查底数再定，Simon 可否决",
+  "tags": [
+   "oem_target"
+  ]
  },
  "SC-1975": {
   "verdict": "keep_C",
@@ -5128,13 +5161,18 @@
   "batch": "G1-04"
  },
  "SC-2066": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "美国 ethoswitch.com：买过台湾 KONTEN 工业 FS「质量不错」；退信但域名 MX 正常 → 北美主区 + 成单 + 对位 ✔ → 闸 2 找新 KP",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 品牌商 + 成单 · OEM 30%：EthoSwitch LLC（NJ + CA；2012 起自有品牌加固工业交换机；「中国制造事业部」）部分坐实；买过 KONTEN 工业 FS → 成单 ✔ 主区 ✔ 对位 ✔ OEM ✔ → P 池候选",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-01"
+  "batch": "G2-124",
+  "g1_batch": "G1-01",
+  "g1_reason": "美国 ethoswitch.com：买过台湾 KONTEN 工业 FS「质量不错」；退信但域名 MX 正常 → 北美主区 + 成单 + 对位 ✔ → 闸 2 找新 KP",
+  "tags": [
+   "oem_target"
+  ]
  },
  "SC-2069": {
   "verdict": "keep_C",
@@ -6367,13 +6405,15 @@
   ]
  },
  "SC-2372": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "英国 Eurosat / Oprema（大型安防分销商，在卖 Dahua PoE）→ 英国主区 + 分销体量；19 推 0 回；Simon 判不行 → 闸 2 查底数，入池需 §5 四条",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 分销 20%：Eurosat (Scotland) Limited SC204360（2000；Glasgow；Oprema 渠道；3 董事）坐实；KP graeme@ = Director Graeme Colin Miller；对位 ✔ 主区 ✔ 坐实 ✔ 体量 ✔（25 年分销）→ P 池候选；Simon 曾判不行，可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-02",
+  "batch": "G2-124",
+  "g1_batch": "G1-02",
+  "g1_reason": "英国 Eurosat / Oprema（大型安防分销商，在卖 Dahua PoE）→ 英国主区 + 分销体量；19 推 0 回；Simon 判不行 → 闸 2 查底数，入池需 §5 四条",
   "tags": [
    "oem_target"
   ]
@@ -6875,13 +6915,15 @@
   "batch": "G1-04"
  },
  "SC-2481": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "土耳其 Okisan（Gökhan，okisan.com）：已从深圳 HSGQ 进口（1V1D $30），用丰润达商业 PoE，要 catalog / relay converter → 土耳其主区 + 进口经验 + 对位 ✔；Simon 曾判不行 → 闸 2 查底数再定",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 进口商 · 分销 20%：Okisan Güvenlik Teknolojileri San. ve Tic. A.Ş.（1986；Şişli；Tiandy / Dahua 授权分销；11–50）部分坐实；进口经验 ✔（HSGQ）主区 ✔ 对位 ✔ KP Gökhan（WA 已加）→ P 池候选；Simon 曾判不行，可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-04",
+  "batch": "G2-124",
+  "g1_batch": "G1-04",
+  "g1_reason": "土耳其 Okisan（Gökhan，okisan.com）：已从深圳 HSGQ 进口（1V1D $30），用丰润达商业 PoE，要 catalog / relay converter → 土耳其主区 + 进口经验 + 对位 ✔；Simon 曾判不行 → 闸 2 查底数再定",
   "tags": [
    "oem_target"
   ]
@@ -6996,13 +7038,15 @@
   ]
  },
  "SC-2510": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "波兰 Eltrox / getfort（全国性安防分销 + 连锁门店，MikroTik Master；Planet 仓 PB-051 评 B）→ 波兰次主区 + 分销体量；Simon 判不行 → 闸 2 查底数（并线 PB-051）",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★★ 首选 · OEM 30%：ELTROX Sp. z o.o.（KRS 0000175807；NIP 6462490527；Częstochowa；2003 起；36 直营 + 52 合作门店；批发品牌 Hurton；自有品牌 KENIK / GetFort 含网络设备；进口商）坐实；对位 ✔ 波兰次主区 ✔ 品牌商 ✔ 进口商 ✔ 体量 ✔ → P 池候选（采购 KP 待取；与 Planet 仓 PB-051 并线）；Simon 曾判不行，可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-02",
+  "batch": "G2-124",
+  "g1_batch": "G1-02",
+  "g1_reason": "波兰 Eltrox / getfort（全国性安防分销 + 连锁门店，MikroTik Master；Planet 仓 PB-051 评 B）→ 波兰次主区 + 分销体量；Simon 判不行 → 闸 2 查底数（并线 PB-051）",
   "tags": [
    "oem_target"
   ]
@@ -7017,13 +7061,15 @@
   "batch": "G1-04"
  },
  "SC-2516": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "波兰 AAT / Novus（波兰最大安防分销商之一，自有品牌 Novus 工业 FS / PoE 延长器 / SFP；KP Stiepan Sedrakian）→ 自有品牌体量 + 波兰；Simon 判不行 → 闸 2 查底数",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 品牌商 · OEM 30%：AAT Systemy Bezpieczeństwa sp. z o.o.（KRS 0000838329；Warszawa；1993 起；201–500 人；自有品牌 NOVUS / KADE / ZEUS / EVIX）坐实；KP Stiepan Sedrakian / Dariusz Rośniak 在表；对位 ✔ 波兰 ✔ 品牌商 ✔ 体量 ✔ → P 池候选（体量偏大）；Simon 曾判不行，可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-02",
+  "batch": "G2-124",
+  "g1_batch": "G1-02",
+  "g1_reason": "波兰 AAT / Novus（波兰最大安防分销商之一，自有品牌 Novus 工业 FS / PoE 延长器 / SFP；KP Stiepan Sedrakian）→ 自有品牌体量 + 波兰；Simon 判不行 → 闸 2 查底数",
   "tags": [
    "oem_target"
   ]
@@ -7273,13 +7319,15 @@
   "batch": "G1-04"
  },
  "SC-259": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "土耳其 Sami Çeuik（ISAF）：用光网视交换机、政府项目、问 500 台 2 光 8 PoE 网管价、最后一天买了 1 台 2 光 10 电 PoE 样机 $100、Evelyn 加了微信 → 土耳其主区 + 成单 + 对位 ✔；表内无邮箱 → 闸 2 先查公司",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 成单户 · 回访（集成商 25%）：Sami Çeuik 展会买 1 台样机 $100 + 问 500 台 2 光 8 PoE 网管价 + 政府项目；无公司名 → 0 查；§5 有关系户 ≥2 条（成单 + 主区 + 对位）→ P 池候选；**请 Simon / Evelyn 补公司名**（微信）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-01"
+  "batch": "G2-124",
+  "g1_batch": "G1-01",
+  "g1_reason": "土耳其 Sami Çeuik（ISAF）：用光网视交换机、政府项目、问 500 台 2 光 8 PoE 网管价、最后一天买了 1 台 2 光 10 电 PoE 样机 $100、Evelyn 加了微信 → 土耳其主区 + 成单 + 对位 ✔；表内无邮箱 → 闸 2 先查公司"
  },
  "SC-2592": {
   "verdict": "keep_C",
@@ -7303,13 +7351,15 @@
   "batch": "G1-04"
  },
  "SC-2598": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "美国 Digital Watchdog（大型安防品牌，商业 PoE 自有 logo）→ 北美主区 + 品牌体量；20 推 0 回；Simon 判不行 → 闸 2 查底数，入池需 §5 四条",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 品牌商 · OEM 30%：Digital Watchdog（Tampa FL；1987；80–125 人；$11–39M；CEO HK Lee）部分坐实；KP wade@ = President / COO Wade Thomas；自有 logo 商业 PoE → 对位 ✔ 主区 ✔ 品牌 ✔ KP 直达 ✔ → P 池候选（体量偏大）；Simon 曾判不行，可否决",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-02",
+  "batch": "G2-124",
+  "g1_batch": "G1-02",
+  "g1_reason": "美国 Digital Watchdog（大型安防品牌，商业 PoE 自有 logo）→ 北美主区 + 品牌体量；20 推 0 回；Simon 判不行 → 闸 2 查底数，入池需 §5 四条",
   "tags": [
    "oem_target"
   ]
@@ -8274,13 +8324,15 @@
   "batch": "G1-04"
  },
  "SC-292": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "美国 Fiber Instrument Sales（FIS，大型光纤工具 / 无源分销商，在卖 Signamax 交换机，自有 logo 无源 / MC / CWDM）→ 北美主区 + 分销体量；19 推 0 回 → 闸 2",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "○ 分销 20%（可升贴标 30%）：Fiber Instrument Sales, Inc.（Oriskany NY；1985；UEI H7LXDNB9UAY8 / CAGE 0CKD9 SAM 有效；100–250 人；$10–53M；Owner Frank Giotto）坐实；自有标 MC / CWDM + 在卖 Signamax → 对位 ✔ 主区 ✔ 坐实 ✔ 体量 ✔ → P 池候选（冷户，19 推 0 回）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-02",
+  "batch": "G2-124",
+  "g1_batch": "G1-02",
+  "g1_reason": "美国 Fiber Instrument Sales（FIS，大型光纤工具 / 无源分销商，在卖 Signamax 交换机，自有 logo 无源 / MC / CWDM）→ 北美主区 + 分销体量；19 推 0 回 → 闸 2",
   "tags": [
    "oem_target",
    "dayjob_fit"
@@ -10259,13 +10311,18 @@
   "batch": "G1-04"
  },
  "SC-678": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "英国 QVIS（安防品牌，在华有摄像机工厂）：问过 fiber optics 想买样品、「有需要会直接联系」；从未邮件触达 → 英国主区 + 品牌商 → 闸 2 查底数再定",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 品牌商 · OEM 30%：Qvis（运营主体推定 Qvis Lighting & Security Ltd 08877091，Portsmouth，Energy & Safety Group 100%；另 2 壳公司）坐实；曾问 fiber optics 想买样品；对位 ✔ 主区 ✔ 自有品牌 ✔ → P 池候选（KP 待取）",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-01"
+  "batch": "G2-124",
+  "g1_batch": "G1-01",
+  "g1_reason": "英国 QVIS（安防品牌，在华有摄像机工厂）：问过 fiber optics 想买样品、「有需要会直接联系」；从未邮件触达 → 英国主区 + 品牌商 → 闸 2 查底数再定",
+  "tags": [
+   "oem_target"
+  ]
  },
  "SC-681": {
   "verdict": "keep_C",
@@ -10289,13 +10346,18 @@
   "batch": "G1-04"
  },
  "SC-683": {
-  "verdict": "candidate",
-  "gate": 1,
-  "rule": "G1",
-  "reason": "德国 VOYGAR SYSTEMS GmbH（Josef Klaus）：工业 1 光 4 电 **54 台**数量询盘；WA 发不过去但企业邮箱域正常 → 欧洲主区 + 对位 ✔ + 数量 → 闸 2 查底数",
+  "verdict": "pool_candidate",
+  "gate": 2,
+  "rule": "G2",
+  "reason": "★ 品牌商 · OEM 30%：VOYGAR SYSTEMS GmbH（Berlin Stresemannstr 23；自有品牌 SCS 布线 25 年质保 + 认证安装商体系；<$5M）部分坐实；Josef Klaus 54 台工业 1 光 4 电询盘 → 对位 ✔ 主区 ✔ 数量 ✔ 品牌 ✔ → P 池候选",
   "date": "2026-10-29",
   "manual": true,
-  "batch": "G1-04"
+  "batch": "G2-124",
+  "g1_batch": "G1-04",
+  "g1_reason": "德国 VOYGAR SYSTEMS GmbH（Josef Klaus）：工业 1 光 4 电 **54 台**数量询盘；WA 发不过去但企业邮箱域正常 → 欧洲主区 + 对位 ✔ + 数量 → 闸 2 查底数",
+  "tags": [
+   "oem_target"
+  ]
  },
  "SC-723": {
   "verdict": "keep_C",

@@ -1596,6 +1596,10 @@ def render_one(ent):
         b82 = fmt_batch82(ent, rs)
         if b82:
             lines.append(b82)
+    elif ent['code'] in SIEVE and SIEVE[ent['code']].get('gate', 0) >= 2:  # C 池闸 2 查过底数 → 渲染「公司底数」块（T29-U118）
+        b82 = fmt_batch82(ent, rs)
+        if b82:
+            lines.append(b82)
     lines.append('## 基本事实（事实/推断/假设分层）')
     lines.append('')
     lines.append('| 项 | 内容 | 层级 |')

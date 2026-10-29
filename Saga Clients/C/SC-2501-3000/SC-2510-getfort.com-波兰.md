@@ -3,7 +3,7 @@
 
 > **评级 C**　|　波兰　|　档案编号 `SC-2510`　|　优先级 —　|　状态：用户判定不行
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：波兰 Eltrox / getfort（全国性安防分销 + 连锁门店，MikroTik Master；Planet 仓 PB-051 评 B）→ 波兰次主区 + 分销体量；Simon 判不行 → 闸 2 查底数（并线 PB-051）　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★★ 首选 · OEM 30%：ELTROX Sp. z o.o.（KRS 0000175807；NIP 6462490527；Częstochowa；2003 起；36 直营 + 52 合作门店；批发品牌 Hurton；自有品牌 KENIK / GetFort 含网络设备；进口商）坐实；对位 ✔ 波兰次主区 ✔ 品牌商 ✔ 进口商 ✔ 体量 ✔ → P 池候选（采购 KP 待取；与 Planet 仓 PB-051 并线）；Simon 曾判不行，可否决　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:PL、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -11,7 +11,7 @@
 code: SC-2510
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 rating_research: C  # 用户判定不行/不相关（尊重用户表判断，保留 C）；Planet 渠道档案 PB-051 评 B 仅作参考
 name_official: "Eltrox (eltrox.pl)"
 score: -23
@@ -42,6 +42,31 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-28DGGPM（深挖对位：监控分销商主力场景为 8–16 路摄像头 PoE；FNSW-1600P 为 16 口 FE PoE 非管理（Saga 暂无 16 口商用 PoE/FE PoE，注明），以 8 口千兆 PoE 管理型 STC-28DGGPM 切入；分销商/网店 → 20%（沿用 Planet 档案 PB-051）；需求：）
 - **最大未知**：年走量与现供应商
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `getfort.com` → 同域名 MX → 托管在 home.pl（MX：getfort.com）。主机商附带邮箱（同域名 MX → 托管在 home.pl）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+- `eltrox.pl` → 波兰主机商邮箱（MX：e-commercepartners.home.pl）。主机商附带邮箱（波兰主机商邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 124 批（PL · 1 次检索：eltrox.pl/i/eltrox-strona-korporacyjna-324（ELTROX SP. Z O.O.；NIP 646 24 90 527；KRS 0000175807）+ aleo.com（REGON 276916481；Warszawska 74）+ pzpochrona.pl（2003；36 salonów + 52 partnerskie；marki własne KENIK, GetFort）；2026-10-29，2026-10-29 查；https://www.eltrox.pl/i/eltrox-strona-korporacyjna-324）：**
+
+- 法定名 / 登记号：ELTROX Sp. z o.o.（eltrox.pl / getfort.com；**官网页脚：ul. Warszawska 74, 42-208 Częstochowa；NIP 646 24 90 527；KRS 0000175807；GIOŚ E0008934WZ；aleo（KRS 数据）：REGON 276916481；PZP Ochrona：2003 年起波兰领先安防分销 + 进口商、零售品牌 Eltrox + 批发品牌 Hurton、36 家自营门店 + 52 家合作门店、自有品牌 KENIK / GetFort（摄像机、对讲、网络设备、IT）**）；表内：全国性安防分销、MikroTik Master；Planet 仓 PB-051 评 B（并线）；Simon 曾判不行 · KRS 0000175807；NIP 6462490527；REGON 276916481 · 状态 **营业中（KRS 存续；官网 2026）** · 成立 2003 · Sp. z o.o.
+- 行业码 / 经营范围：安防系统进口 + 分销（零售 Eltrox / 批发 Hurton）+ 自有品牌 KENIK / GetFort 制造
+- 注册地址：ul. Warszawska 74, 42-202 Częstochowa
+- 规模档：大型（36 直营 + 52 合作门店）
+- 账目：未取；—
+- 高管：（rodo@eltrox.pl 表内 = GDPR 信箱，不作收件人；总机 +48 34 387 29 92 官网；具名采购 KP 未取 → 先查 Hurton 批发采购）
+- 高管：Robert Kosiorek — PZP 联系人（pzpochrona；职务未取）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自有品牌 GetFort（网络设备）+ 进口商 → OEM 30%：找到采购 KP 后一页纸一次（GetFort 牌 PoE 同口型 STC-028GP / STC-228GP / STC-2224GP 贴牌 + 丝印彩盒 MOQ + 付费样机；MikroTik 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；Simon 可否决；与 Planet 仓 PB-051 并线
+- 备注：OEM 30%；P 池候选 ★★（波兰品牌商 + 进口商 + 门店网）；坐实（KRS）；Simon 曾判不行；并线 PB-051。
 
 ## 基本事实（事实/推断/假设分层）
 

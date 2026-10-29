@@ -2,7 +2,7 @@
 
 > **评级 C**　|　美国　|　档案编号 `SC-2066`　|　优先级 —　|　状态：成交过·维护
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：美国 ethoswitch.com：买过台湾 KONTEN 工业 FS「质量不错」；退信但域名 MX 正常 → 北美主区 + 成单 + 对位 ✔ → 闸 2 找新 KP
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 品牌商 + 成单 · OEM 30%：EthoSwitch LLC（NJ + CA；2012 起自有品牌加固工业交换机；「中国制造事业部」）部分坐实；买过 KONTEN 工业 FS → 成单 ✔ 主区 ✔ 对位 ✔ OEM ✔ → P 池候选　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：成交/下单过　|　**所在清单**：用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-2066
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: -4
 country: 美国
 region: 北美
@@ -39,6 +39,29 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STI-288DGGPM（工业 L2+ 8 PoE + 2×2.5G SFP）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `ethoswitch.com` → Zoho Mail（MX：mx.zoho.com、mx2.zoho.com、mx3.zoho.com）。中小企业云邮箱（Zoho Mail）：过滤中等、像素一般可用；这类公司邮箱通常老板或销售本人收，信要短、带型号和一口价
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 124 批（US · 1 次检索：ethoswitch.com（EthoSwitch LLC；NJ + CA 地址；since 2012；products manufactured in China 事业部）+ 产品页（Industrial Unmanaged / PoE+ switches, 5-year warranty）；2026-10-29，2026-10-29 查；https://www.ethoswitch.com/）：**
+
+- 法定名 / 登记号：EthoSwitch LLC（ethoswitch.com；**官网：New Jersey 总部 2400 Belmar Blvd Unit B20, Wall Township, NJ 07719 + 加州 10401 Venice Blvd #502, Los Angeles；1-800-657-1902；2012 年起自有品牌加固工业交换机 / SFP / 串口服务器 / MC，5 年换新质保；「两个事业部：美国 / 台湾制造 + 中国制造」；BBB of New Jersey**）；NJ 登记号 1 查未得 → 部分坐实；表内：买过台湾 KONTEN 工业 FS「质量不错」（成单）；sales@ 曾退信但域名 MX 正常 · 未取（NJ 登记 1 查未得） · 状态 **营业中（官网 2026）** · 成立 2012 · LLC
+- 行业码 / 经营范围：自有品牌工业以太网交换机 / 光纤产品（部分中国制造）
+- 注册地址：2400 Belmar Blvd, Unit B20, Wall Township, NJ 07719, US（加州办事处 Los Angeles）
+- 规模档：小型
+- 账目：未取；—
+- 高管：（sales@ethoswitch.com 表内；具名 KP 未取 — 一页纸请转采购 / 产品负责人）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **品牌商 + 中国制造事业部 + 成单史 → OEM 30%：一页纸一次（STI-054GP / STI-154GP / STI-288GPM 加固工业线 贴牌 + 丝印 MOQ + 付费样机；KONTEN 不点名）— 北美常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP（买方清关）；周三 08–10 当地**；回信即升 A 候选
+- 备注：OEM 30%；P 池候选 ★（美国品牌商 + 成单）；部分坐实。
 
 ## 基本事实（事实/推断/假设分层）
 

@@ -3,8 +3,8 @@
   "kind": "registry",
   "source": "Canada · Corporations Canada / Ontario 登记（OpenCorporates 摘要）",
   "created": "2026-10-27",
-  "updated": "2026-10-28",
-  "count": 32
+  "updated": "2026-10-29",
+  "count": 33
  },
  "rows": {
   "SA-087": {
@@ -1045,6 +1045,36 @@
    ],
    "notes": "未坐实（1 查即停）→ 不动。",
    "code": "SB-731"
+  },
+  "SC-1443": {
+   "batch": 124,
+   "name": "Infinique（infinique.com；**官网 about：2002 年安大略创立（Crunchbase 2001-01-01，Mississauga，11–50）；自有品牌视频监控 + 铜缆 / 光纤布线 + 网络交换机 / MC；2008 迪拜区域办公室、2019 印度技术中心；官网 2026-09 在线**）；Ontario 公司号 1 查未得 → 部分坐实；表内：几乎都是 ONV 的、刷了他们的 logo；sales@ 曾退信但域名正常；16 次跟进无回复",
+   "iso": "CA",
+   "fetched": "2026-10-29",
+   "source": "CA · 1 次检索：infinique.com/about-us（Since 2002；Founded in Ontario；switches and media converters；2026-09）+ crunchbase（Infinique Canada；Mississauga；11-50；Founded 2001）+ multinetfze（Dubai 2008 / India 2019）；2026-10-29",
+   "url": "https://infinique.com/about-us",
+   "number": "未取（Ontario 登记 1 查未得）",
+   "status": "营业中（官网 2026-09）",
+   "incorporated": "2002（Crunchbase 2001）",
+   "company_type": "Inc.（推定）",
+   "sic": [
+    "自有品牌安防 + 布线 + 网络交换机（ONV 贴牌）"
+   ],
+   "address": "Mississauga, Ontario（街道未取）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（11–50）",
+   "officers": [
+    "（sales@ / info@infinique.com 表内；具名 KP 未取 — 一页纸请转采购 / 产品经理）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**已贴牌 ONV → OEM 30%：换地址一页纸一次（STC-028GP / STC-228GP / STI-154GP 贴牌 + 丝印 MOQ + 付费样机；FCC / IC 口径）— 北美常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP（买方清关）；周三 08–10 当地**；回信即升"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（北美现成 OEM 买家）；部分坐实。",
+   "code": "SC-1443"
   }
  }
 }

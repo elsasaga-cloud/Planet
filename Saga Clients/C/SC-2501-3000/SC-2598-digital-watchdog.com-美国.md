@@ -2,7 +2,7 @@
 
 > **评级 C**　|　美国　|　档案编号 `SC-2598`　|　优先级 —　|　状态：已推送 20 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：美国 Digital Watchdog（大型安防品牌，商业 PoE 自有 logo）→ 北美主区 + 品牌体量；20 推 0 回；Simon 判不行 → 闸 2 查底数，入池需 §5 四条　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 品牌商 · OEM 30%：Digital Watchdog（Tampa FL；1987；80–125 人；$11–39M；CEO HK Lee）部分坐实；KP wade@ = President / COO Wade Thomas；自有 logo 商业 PoE → 对位 ✔ 主区 ✔ 品牌 ✔ KP 直达 ✔ → P 池候选（体量偏大）；Simon 曾判不行，可否决　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：推送 20 次（2024-03-27 → 2025-10-25）　|　**所在清单**：A优质名单(US)、AI评估(US)、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-2598
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: -28
 country: 美国
 region: 北美
@@ -39,6 +39,31 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-28DGGPM（8 口 PoE + 2 SFP L2+）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `digital-watchdog.com` → Microsoft 365（MX：digitalwatchdog-com01i.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 124 批（US · 1 次检索：datanyze（5436 W Crenshaw St Tampa FL 33634；$38.9M；80；1987）+ adapt.io（Wade Thomas President / COO；HK Lee CEO；100-250）+ zippia（125；$11M）；2026-10-29，2026-10-29 查；https://www.datanyze.com/companies/digital-watchdog/346701354）：**
+
+- 法定名 / 登记号：Digital Watchdog（digital-watchdog.com；**Datanyze：5436 W Crenshaw St, Tampa, FL 33634；1987 年创立；80 人 / $38.9M（Zippia 125 人 / $11M；Adapt 100–250）；CEO HK Lee；President / COO Wade Thomas**）；FL 登记号 1 查未得 → 部分坐实；表内：大型安防品牌、商业 PoE 自有 logo；KP wade@ = President/COO、patrick@；20 次跟进无回复；Simon 曾判不行 · 未取（FL Sunbiz 1 查未得） · 状态 **营业中** · 成立 1987 · Inc.（私营）
+- 行业码 / 经营范围：自有品牌视频监控（IP / HD over Coax）+ DW 牌 PoE 交换机
+- 注册地址：5436 W Crenshaw St, Tampa, FL 33634, US
+- 规模档：中型（80–125；$11–39M）
+- 账目：未取；—
+- 高管：Wade Thomas — President / COO（Adapt；wade@digital-watchdog.com 表内）= 收件人
+- 高管：HK Lee — CEO（Adapt）
+- 高管：Patrick — patrick@digital-watchdog.com（表内）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **品牌商 → OEM 30%：对 COO 一页纸一次（DW 牌商业 PoE 同口型 STC-028GP / STC-228GP / STC-2224GP / STC-4424GCPM 贴牌 + 丝印彩盒 MOQ + 付费样机；FCC）— 北美常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP（买方清关）；周三 08–10 当地**；Simon 可否决；回信即升
+- 备注：OEM 30%；P 池候选 ★（美国品牌商，体量偏大）；部分坐实；Simon 曾判不行。
 
 ## 基本事实（事实/推断/假设分层）
 

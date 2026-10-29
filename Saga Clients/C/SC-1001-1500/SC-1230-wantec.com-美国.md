@@ -2,7 +2,7 @@
 
 > **评级 C**　|　美国　|　档案编号 `SC-1230`　|　优先级 —　|　状态：已推送 18 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：美国 Wantec（周边产品 + 宇航的工业 FS）：美国主区 + 已进口中国同类品牌 + 对位 ✔；18 次跟进无回复（冷）→ 闸 2 查底数
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 品牌商 · OEM 30%：wantec, inc（德国 1999 创立 CEO Stefan Rupp；美国分销 Simpsonville SC；自有品牌 Wantec 3405 工业 4+1 SFP = 贴牌，经销在售 €158）部分坐实；对位 ✔ 主区 ✔（DE+US）品牌 ✔ → P 池候选　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 18 次（2024-05-09 → 2025-10-31）　|　**所在清单**：A优质名单(US)、AI评估(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-1230
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 13
 country: 美国
 region: 北美
@@ -39,6 +39,31 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STI-288DGGPM（工业 L2+ 8 PoE + 2×2.5G SFP）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `wantec.com` → 其他主机商邮箱（mx1.agenturserver.de）（MX：mx1.agenturserver.de、mx2.agenturserver.de、mx3.agenturserver.de、mx4.agenturserver.de）。主机商附带邮箱（mx1.agenturserver.de）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 124 批（US · 1 次检索：wantec.com/about.html（Founded in Germany in 1999 by CEO Stefan Rupp；Simpsonville, SC）+ linkedin（wantec, inc；524 S Main Street Simpsonville SC 29681；Founded 1999）+ industry-electronics.com（Wantec 3405 Industrial Fiber Ethernet Switch 4 port + 1 SFP；EAN 4250367734056）；2026-10-29，2026-10-29 查；http://www.wantec.com/about.html）：**
+
+- 法定名 / 登记号：wantec, inc（wantec.com；**官网 about：1999 年德国创立、CEO Stefan Rupp、7,000 sqft 研发生产；美国分销运营 524 S Main Street, Simpsonville, SC 29681（2019 新 5,000 sqft）；门禁对讲 / 2wIP 网络适配器 / wantecWire 跳线；自有品牌工业交换机 Wantec 3405（4 口 + 1 SFP DIN 导轨，EAN 4250367734056，Lieske 售 €158）= 宇航贴牌**）；LinkedIn 51–200（偏高）；表内：周边产品 + 宇航的工业 FS；18 次跟进无回复 · 未取（SC SoS / 德国 HRB 未查） · 状态 **营业中（官网 + 经销在售）** · 成立 1999（德国） · Inc.（美国分销）+ 德国母体
+- 行业码 / 经营范围：门禁对讲 / 网络配件制造 + 自有品牌工业交换机
+- 注册地址：524 S Main Street, Simpsonville, SC 29681, US（德国研发生产地未取）
+- 规模档：小型 / 中型（LinkedIn 51–200 偏高）
+- 账目：未取；—
+- 高管：Stefan Rupp — CEO / 创始人（官网 about；无公开邮箱）
+- 高管：Andre Costa — 表内联系人（andre.costa@wantec.com）= 收件人
+- 高管：（service@wantec.com 表内）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自有品牌工业交换机（已贴牌中国货）→ OEM 30%：一页纸一次（STI-154GP 4 PoE + 1 SFP 工业 / STI-054GP 同口型对标 Wantec 3405 + 丝印 MOQ + 付费样机；DE + US 两地口径）— 北美常规：英文稿、20 / 25 / 30 + T/T 50/50 + FOB 深圳 / DAP（买方清关）；周三 08–10 当地**；回信即升
+- 备注：OEM 30%；P 池候选 ★（德美双地自有品牌）；部分坐实。
 
 ## 基本事实（事实/推断/假设分层）
 

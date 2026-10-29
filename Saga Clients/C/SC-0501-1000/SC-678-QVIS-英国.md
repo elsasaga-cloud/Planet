@@ -2,7 +2,7 @@
 
 > **评级 C**　|　英国　|　档案编号 `SC-678`　|　优先级 —　|　状态：名单内·未触达
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：英国 QVIS（安防品牌，在华有摄像机工厂）：问过 fiber optics 想买样品、「有需要会直接联系」；从未邮件触达 → 英国主区 + 品牌商 → 闸 2 查底数再定
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：★ 品牌商 · OEM 30%：Qvis（运营主体推定 Qvis Lighting & Security Ltd 08877091，Portsmouth，Energy & Safety Group 100%；另 2 壳公司）坐实；曾问 fiber optics 想买样品；对位 ✔ 主区 ✔ 自有品牌 ✔ → P 池候选（KP 待取）　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：制造商（可能是同行或 OEM 客户）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(筛选后质量一般的_群发)、表:UK　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-678
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: 17
 country: 英国
 region: 欧洲
@@ -39,6 +39,30 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `qvis.co.uk` → Barracuda 网关（MX：d227523.a.ess.uk.barracudanetworks.com、d227523.b.ess.uk.barracudanetworks.com）。企业级邮件网关（Barracuda 网关）：链接重写 + 附件沙箱 → 像素失效、附件常被隔离，冷邮件到达率最低；这户靠回原线程 / LinkedIn / 对方来信，不靠新开线程群发
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 124 批（GB · 1 次检索：pomanda.com/company/08877091（Qvis Lighting & Security Limited；PO3 5FU；SIC 27400；Energy & Safety Group Ltd 100%）+ onlinefilings（Qvis Limited 07568582）+ companydatashop（Qvis CCTV Limited 08170128）；2026-10-29，2026-10-29 查；https://pomanda.com/company/08877091/qvis-lighting-&-security-limited）：**
+
+- 法定名 / 登记号：Qvis（qvis.co.uk；**运营主体推定 QVIS LIGHTING & SECURITY LIMITED 08877091：Live；成立 2014-02；4 Merlin Park, Airport Service Road, Portsmouth PO3 5FU；SIC 27400；100% 股东 ENERGY & SAFETY GROUP LTD 15078583；Pomanda「established, mid sized」；另有壳公司 QVIS LIMITED 07568582（2011）/ QVIS CCTV LIMITED 08170128（2012；净资产 £100；董事 Joanna Elizabeth Brown）**）；表内：安防品牌、在华有摄像机工厂、问过 fiber optics 想买样品、「有需要会直接联系」；从未邮件触达 · 08877091（运营主体推定；壳 07568582 / 08170128） · 状态 **Live / Active** · 成立 2014-02（品牌 2011 起） · Private limited（集团子公司）
+- 行业码 / 经营范围：27400 照明 + 安防设备制造 / 自有品牌 CCTV + PoE 交换机
+- 注册地址：4 Merlin Park, Airport Service Road, Portsmouth, Hampshire, PO3 5FU
+- 规模档：中型（集团子公司）
+- 账目：未取；—
+- 高管：（sales@qvis.co.uk 表内；具名 KP 未取 — 一页纸请转产品经理）
+- 高管：Joanna Elizabeth Brown — 壳公司董事（Companies House；非运营 KP）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **自有品牌 → OEM 30%：一页纸一次（Qvis 牌 PoE 同口型 STC-028GP / STC-228GP / STC-2224GP 贴牌 + 丝印 MOQ + 付费样机；UKCA；光纤 / SFP 不供明说）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；回信即升
+- 备注：OEM 30%；P 池候选 ★（英国品牌商）；坐实（主体映射推定）。
 
 ## 基本事实（事实/推断/假设分层）
 

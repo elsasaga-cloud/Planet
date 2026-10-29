@@ -2,7 +2,7 @@
 
 > **评级 C**　|　英国　|　档案编号 `SC-2372`　|　优先级 —　|　状态：已推送 19 次·未回复
 >
-> **C 池筛选：闸 2 候选**（闸 1 · 2026-10-29）：英国 Eurosat / Oprema（大型安防分销商，在卖 Dahua PoE）→ 英国主区 + 分销体量；19 推 0 回；Simon 判不行 → 闸 2 查底数，入池需 §5 四条　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+> **C 池筛选：P 池候选**（闸 2 · 2026-10-29）：○ 分销 20%：Eurosat (Scotland) Limited SC204360（2000；Glasgow；Oprema 渠道；3 董事）坐实；KP graeme@ = Director Graeme Colin Miller；对位 ✔ 主区 ✔ 坐实 ✔ 体量 ✔（25 年分销）→ P 池候选；Simon 曾判不行，可否决　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
 > **类型**：品牌商/贴牌需求（OEM/ODM）（推断）　|　**历史关系**：推送 19 次（2024-03-28 → 2025-10-27）　|　**所在清单**：A优质名单(UK)、AI评估(UK)·DONE、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
@@ -10,7 +10,7 @@
 code: SC-2372
 rating: C
 rating_auto: C
-sieve: candidate  # 闸 1 G1 2026-10-29
+sieve: pool_candidate  # 闸 2 G2 2026-10-29
 score: -16
 country: 英国
 region: 欧洲
@@ -39,6 +39,32 @@ updated: 2026-10-29
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-28DGGPM（8 口 PoE + 2 SFP L2+）
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `eurosatscotland.co.uk` → Microsoft 365（MX：eurosatscotland-co-uk.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+- `oprema.co.uk` → Microsoft 365（MX：oprema-co-uk.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让：** 下一步为「未排」，不排发信，略。
+
+**公司底数 · 第 124 批（GB · 1 次检索：find-and-update.company-information.service.gov.uk/company/SC204360 + companycheck（3 directors）+ mirror directory（0141 552 2111）；2026-10-29，2026-10-29 查；https://find-and-update.company-information.service.gov.uk/company/SC204360）：**
+
+- 法定名 / 登记号：EUROSAT (SCOTLAND) LIMITED（eurosatscotland.co.uk / 关联 oprema.co.uk；**Companies House SC204360：Active；成立 2000-02-28；30 Couper Street, Glasgow G4 0DL；SIC 46439 电视 / 电器批发；董事 Graeme Colin Miller（2017-04）、Martin Brian Mulhern（2017-04）、Colin Thomas Miller（2000-02）；0141 552 2111**）；表内：大型安防分销、在卖 Dahua PoE；KP graeme@ = 董事；19 次跟进无回复；Simon 曾判不行 · SC204360 · 状态 **Active（Accounts Filed）** · 成立 2000-02-28 · Private limited Company
+- 行业码 / 经营范围：46439 电视 / 卫星 / 电器批发（安防分销，Oprema 渠道）
+- 注册地址：30 Couper Street, Glasgow, G4 0DL
+- 规模档：中型（25 年；3 董事）
+- 账目：未取；—
+- 高管：Graeme Colin Miller — Director（Companies House 2017-04；graeme@eurosatscotland.co.uk 表内）= 收件人
+- 高管：Martin Brian Mulhern — Director（2017-04）
+- 高管：Colin Thomas Miller — Director（创始 2000）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **分销 20%：对董事一页纸一次（Dahua PoE 同口型对标 STC-028GP $28 / STC-228GP $33 / STC-2224GP $86 + MOQ 1 + 付费样机；UKCA）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；Simon 可否决
+- 备注：分销 20%；P 池候选 ○（英国分销 + 董事直达）；坐实；Simon 曾判不行。
 
 ## 基本事实（事实/推断/假设分层）
 

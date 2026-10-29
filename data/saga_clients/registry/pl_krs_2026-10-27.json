@@ -3,8 +3,8 @@
   "kind": "registry",
   "source": "Poland · KRS 官方 API（api-krs.ms.gov.pl）+ 财政部 VAT 白名单 API（wl-api.mf.gov.pl）",
   "created": "2026-10-27",
-  "updated": "2026-10-28",
-  "count": 51
+  "updated": "2026-10-29",
+  "count": 53
  },
  "rows": {
   "SA-023": {
@@ -1700,6 +1700,70 @@
    ],
    "notes": "分销 20%；KP = Prezes 本人；B BIG；加厚；升 A 候选；轨道守界。",
    "code": "SB-172"
+  },
+  "SC-2510": {
+   "batch": 124,
+   "name": "ELTROX Sp. z o.o.（eltrox.pl / getfort.com；**官网页脚：ul. Warszawska 74, 42-208 Częstochowa；NIP 646 24 90 527；KRS 0000175807；GIOŚ E0008934WZ；aleo（KRS 数据）：REGON 276916481；PZP Ochrona：2003 年起波兰领先安防分销 + 进口商、零售品牌 Eltrox + 批发品牌 Hurton、36 家自营门店 + 52 家合作门店、自有品牌 KENIK / GetFort（摄像机、对讲、网络设备、IT）**）；表内：全国性安防分销、MikroTik Master；Planet 仓 PB-051 评 B（并线）；Simon 曾判不行",
+   "iso": "PL",
+   "fetched": "2026-10-29",
+   "source": "PL · 1 次检索：eltrox.pl/i/eltrox-strona-korporacyjna-324（ELTROX SP. Z O.O.；NIP 646 24 90 527；KRS 0000175807）+ aleo.com（REGON 276916481；Warszawska 74）+ pzpochrona.pl（2003；36 salonów + 52 partnerskie；marki własne KENIK, GetFort）；2026-10-29",
+   "url": "https://www.eltrox.pl/i/eltrox-strona-korporacyjna-324",
+   "number": "KRS 0000175807；NIP 6462490527；REGON 276916481",
+   "status": "营业中（KRS 存续；官网 2026）",
+   "incorporated": "2003",
+   "company_type": "Sp. z o.o.",
+   "sic": [
+    "安防系统进口 + 分销（零售 Eltrox / 批发 Hurton）+ 自有品牌 KENIK / GetFort 制造"
+   ],
+   "address": "ul. Warszawska 74, 42-202 Częstochowa",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "大型（36 直营 + 52 合作门店）",
+   "officers": [
+    "（rodo@eltrox.pl 表内 = GDPR 信箱，不作收件人；总机 +48 34 387 29 92 官网；具名采购 KP 未取 → 先查 Hurton 批发采购）",
+    "Robert Kosiorek — PZP 联系人（pzpochrona；职务未取）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌 GetFort（网络设备）+ 进口商 → OEM 30%：找到采购 KP 后一页纸一次（GetFort 牌 PoE 同口型 STC-028GP / STC-228GP / STC-2224GP 贴牌 + 丝印彩盒 MOQ + 付费样机；MikroTik 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；Simon 可否决；与 Planet 仓 PB-051 并线"
+   ],
+   "notes": "OEM 30%；P 池候选 ★★（波兰品牌商 + 进口商 + 门店网）；坐实（KRS）；Simon 曾判不行；并线 PB-051。",
+   "code": "SC-2510"
+  },
+  "SC-2516": {
+   "batch": 124,
+   "name": "AAT SYSTEMY BEZPIECZEŃSTWA sp. z o.o.（aat.pl / novuscctv.com；**aplikuj：KRS 0000838329（注册 2020-04-23 新主体；业务 1993 年起）；Warszawa；201–500 人；安防系统批发领先者、自有品牌 NOVUS / KADE / ZEUS / EVIX；LinkedIn：Handel hurtowy、201–500、1993**）；表内：波兰最大安防分销之一、Novus 工业 FS / PoE 延长器 / SFP；KP Stiepan Sedrakian、Dariusz Rośniak、export@；Simon 曾判不行",
+   "iso": "PL",
+   "fetched": "2026-10-29",
+   "source": "PL · 1 次检索：aplikuj.pl/pracodawca/19089（KRS 0000838329；sp. z o.o.；wpis 23.04.2020；201–500；marki własne NOVUS, KADE, ZEUS, EVIX）+ linkedin（AAT SYSTEMY BEZPIECZEŃSTWA sp. z o.o.；Warszawa；201-500；1993；Dariusz Mieszkowski Dyrektor Działu Sprzedaży Krajowej）；2026-10-29",
+   "url": "https://www.aplikuj.pl/pracodawca/19089/aat-systemy-bezpieczenstwa-sp-z-o-o/opinie",
+   "number": "KRS 0000838329",
+   "status": "营业中（KRS 2020 新主体存续）",
+   "incorporated": "1993（现主体 2020-04-23）",
+   "company_type": "sp. z o.o.",
+   "sic": [
+    "安防系统批发 + 自有品牌制造（NOVUS CCTV 等 4 品牌）"
+   ],
+   "address": "Warszawa, Mazowieckie（街道未取）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "大型（201–500）",
+   "officers": [
+    "Stiepan Sedrakian — 表内 KP（stiepan.sedrakian@aat.pl）= 收件人",
+    "Dariusz Rośniak — 表内（dariusz.rosniak@aat.pl）",
+    "Dariusz Mieszkowski — Dyrektor Działu Sprzedaży Krajowej（LinkedIn；无公开邮箱）",
+    "（export@aat.pl 表内）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**4 个自有品牌 + 波兰最大批发 → OEM 30%：对 KP 一页纸一次（NOVUS 牌工业 FS / PoE 同口型 STI-154GP / STI-288GPM / STC-228GP 贴牌 + 丝印 MOQ + 付费样机；波兰语备注）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；Simon 可否决；回信即升"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（波兰品牌商，体量偏大）；坐实（KRS）；Simon 曾判不行。",
+   "code": "SC-2516"
   }
  }
 }

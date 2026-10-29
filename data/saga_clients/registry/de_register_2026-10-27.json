@@ -3,8 +3,8 @@
   "kind": "registry",
   "source": "Germany · Handelsregister / Northdata（登记摘要）",
   "created": "2026-10-27",
-  "updated": "2026-10-28",
-  "count": 71
+  "updated": "2026-10-29",
+  "count": 75
  },
  "rows": {
   "SA-008": {
@@ -2423,6 +2423,129 @@
    ],
    "notes": "A 维持；未坐实（域名无公开页）；Simon 侧发票抬头可补。",
    "code": "SA-004"
+  },
+  "SC-1013": {
+   "batch": 124,
+   "name": "Gemaxx Network / geMaxx 品牌（gemaxxnetwork.com；**官网 about：「geMaxx brand established by an experienced team… network projects」= 自有品牌网络产品（表内 ONV 贴牌）；关联 GEMAXX Communications GmbH（Duisburg；Crunchbase 11–50；+49 211 176 08 02；info@gemaxx.net）；gemaxx24.de 页脚「GEMAXX Communications GmbH (2001 - 2023)」**）；HRB 1 查未得；sales@ 退信 + about 页 2022 → 存续待核",
+   "iso": "DE",
+   "fetched": "2026-10-29",
+   "source": "DE · 1 次检索：gemaxxnetwork.com/about-us（geMaxx brand；2022-12）+ gemaxx24.de（GEMAXX Communications GmbH 2001-2023；Hotline +49 211 176 08 02；info@gemaxx.net）+ crunchbase（Duisburg；11-50；Legal Name GEMAXX Communications GmbH）；2026-10-29",
+   "url": "https://gemaxxnetwork.com/about-us/",
+   "number": "未取（HRB 1 查未得）",
+   "status": "存续待核（about 2022；sales@ 退信；集团站 2023）",
+   "incorporated": "2001（GEMAXX Communications）",
+   "company_type": "GmbH（关联主体）",
+   "sic": [
+    "电信（电话卡 / IVR / 呼叫中心）+ 自有品牌网络设备"
+   ],
+   "address": "Duisburg, Nordrhein-Westfalen（街道未取）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（11–50）",
+   "officers": [
+    "（info@gemaxx.net 集团站公开邮箱 = 试探收件人；sales@gemaxxnetwork.com 退信）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**自有品牌 → OEM 30%，但先确认存续：info@gemaxx.net 一封试探（一页纸：工业 / 商业 PoE 贴牌 + MOQ + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；无回声或退信 → 回 C（巡检 2 个月后复核官网）"
+   ],
+   "notes": "OEM 30%；P 池候选 △（观察档：存续待核）；部分坐实。",
+   "code": "SC-1013"
+  },
+  "SC-161": {
+   "batch": 124,
+   "name": "2direct GmbH（LogiLink 品牌；logilink.eu / 2direct.de；**lieferanten.de：Schalksmühle；2001 年 Lüdenscheid 创立；Geschäftsführer Wilfried Grohnert、Jan Alberts；5,000+ 产品、12 个欧洲核心市场、约 14,000 经销商客户；自有品牌 LogiLink / 2direct；「个性化 OEM 产品方案」为副业；RocketReach：Langenstück 5, 58579 Schalksmühle；$3M / 11 人（偏低）；LinkedIn 11–50**）；HRB 1 查未得 → 部分坐实；表内：在卖宇航的工业 FS / optical switch；KP grohnert@2direct.de = Geschäftsführer；Simon 曾判不行；15 次跟进无回复",
+   "iso": "DE",
+   "fetched": "2026-10-29",
+   "source": "DE · 1 次检索：lieferanten.de/lieferant-822-2direct-gmbh（Geschäftsführer Wilfried Grohnert, Jan Alberts；2001；über 50 Mitarbeiter；Eigenmarken LogiLink und 2direct；OEM-Produktlösungen）+ linkedin（Schalksmühle；11–50；2001）+ rocketreach（5 Langenstück 58579；Jan Alberts Geschäftsführer）；2026-10-29",
+   "url": "https://www.lieferanten.de/lieferant-822-2direct-gmbh.html",
+   "number": "未取（HRB 1 查未得）",
+   "status": "营业中（官网 + 名录 2026）",
+   "incorporated": "2001",
+   "company_type": "GmbH",
+   "sic": [
+    "计算机配件 / 网络技术批发 + 自有品牌制造（LogiLink）"
+   ],
+   "address": "Langenstück 5, 58579 Schalksmühle, Nordrhein-Westfalen",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（名录 50+；RocketReach 11 偏低）",
+   "officers": [
+    "Wilfried Grohnert — Geschäftsführer（lieferanten.de；grohnert@2direct.de 表内）= 收件人",
+    "Jan Alberts — Geschäftsführer（lieferanten.de / RocketReach；无公开邮箱）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**品牌商 + 14,000 经销网 → OEM 30%：对 GF 一页纸一次（LogiLink 牌工业 / 商业 PoE 贴牌：STI-054GP / STI-154GP / STC-028GP + 丝印彩盒 MOQ + 付费样机；在售宇航款不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；Simon 可否决；回信即升"
+   ],
+   "notes": "OEM 30%；P 池候选 ★★（德国品牌商 + GF 直达）；部分坐实；Simon 曾判不行。",
+   "code": "SC-161"
+  },
+  "SC-1935": {
+   "batch": 124,
+   "name": "LEUNIG GmbH（leunig.de；**firmendatenbanken.de：Sanddornweg 8b, D-53773 Hennef；HRB 1531 Siegburg；USt-ID DE123112391；Geschäftsführung Josef Hermann Vester（Hermann-J. Vester）；elektro-einkaufsfuehrer：1980 年创立；KVM / 延长器 / 远程电源 / 时间服务器 / 数据线缆；「欧洲、北美、远东战略伙伴」；Hersteller + Großhändler**）；表内：工业 FS / MC / 串口，主要卖 Moxa；sales@ 曾退信但域名正常",
+   "iso": "DE",
+   "fetched": "2026-10-29",
+   "source": "DE · 1 次检索：firmendatenbanken.de/unternehmen/detail/336211/leunig-gmbh（HRB 1531 Siegburg；DE123112391；GF Josef Hermann Vester）+ elektro-einkaufsfuehrer.de（Gründungsjahr 1980；sales@leunig.de；+49 2242 93389-0）；2026-10-29",
+   "url": "https://www.firmendatenbanken.de/unternehmen/detail/336211/leunig-gmbh.htm",
+   "number": "HRB 1531（Siegburg）；USt DE123112391",
+   "status": "营业中（名录 + 官网）",
+   "incorporated": "1980",
+   "company_type": "GmbH",
+   "sic": [
+    "KVM / 接口 / 数据线缆 + 工业网络（Moxa 分销）批发"
+   ],
+   "address": "Sanddornweg 8b, 53773 Hennef, Nordrhein-Westfalen",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型 / 中型",
+   "officers": [
+    "Hermann-J. (Josef Hermann) Vester — Geschäftsführer（名录；无公开邮箱）",
+    "（sales@leunig.de 官网公开邮箱 = 收件人）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**工业网络分销（Moxa 线）→ 分销 20%：一页纸一次（STI-154GP / STI-288GPM 工业管理 + STI-0240GE 一口价 + MOQ 1 + 付费样机；Moxa 不点名）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；回信即升"
+   ],
+   "notes": "分销 20%；P 池候选 ○（德国工业分销 + HRB 坐实）；坐实。",
+   "code": "SC-1935"
+  },
+  "SC-683": {
+   "batch": 124,
+   "name": "VOYGAR SYSTEMS GmbH（voygar.de；**官网 Imprint：Stresemannstr 23, 10963 Berlin；030 65774162；info@voygar.de；自有品牌 VOYGAR 结构化布线系统（SCS）25 年系统质保 + Certified VOYGAR Installer 认证体系（2017-10 起）；ZoomInfo 营收 <$5M、电信设备制造**）；HRB 1 查未得 → 部分坐实；表内：Josef Klaus 工业 1 光 4 电 **54 台**询盘；WA 发不过去",
+   "iso": "DE",
+   "fetched": "2026-10-29",
+   "source": "DE · 1 次检索：voygar.de/en/support-downloads/imprint（VOYGAR SYSTEMS GmbH, Stresemannstr 23, 10963 Berlin；030 65774162；info@voygar.de）+ warranty 页（25-year SCS warranty；Certified Installer）+ zoominfo（<$5M；+49 3065774162）；2026-10-29",
+   "url": "http://www.voygar.de/en/support-downloads/imprint",
+   "number": "未取（HRB 1 查未得）",
+   "status": "营业中（官网 2026）",
+   "incorporated": "未取（CVI 2017 起）",
+   "company_type": "GmbH",
+   "sic": [
+    "自有品牌结构化布线（铜缆 / 光纤 / 数据中心）+ 有源设备扩展"
+   ],
+   "address": "Stresemannstr. 23, 10963 Berlin",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（<$5M）",
+   "officers": [
+    "Josef Klaus — 表内联系人（josef.klaus@voygar.de；54 台询盘）= 收件人",
+    "（info@voygar.de 官网公开邮箱）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**布线品牌 + 54 台工业机口型 → OEM 30%：一页纸一次（STI-154GP 1 SFP + 4 PoE 工业 / STI-144GP 54 台阶梯价 + VOYGAR 丝印 MOQ + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；回信即升 A 候选"
+   ],
+   "notes": "OEM 30%；P 池候选 ★（数量询盘 + 自有品牌）；部分坐实。",
+   "code": "SC-683"
   }
  }
 }

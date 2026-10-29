@@ -211,7 +211,7 @@ def fmt_prices(ent):
 
 
 def fmt_batch82(ent, research):
-    if ent.get('grade') not in ('A', 'B'):
+    if ent.get('grade') not in ('A', 'B') and ent['code'] not in REG:  # C 池闸 2 查过底数的候选也渲染（T29-U118）
         return ''
     parts = []
     parts += fmt_mx(ent)
