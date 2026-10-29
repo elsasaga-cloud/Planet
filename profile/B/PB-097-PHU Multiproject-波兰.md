@@ -5,6 +5,8 @@
 > **类型**：格但斯克电子 / 安防批发商（CCTV / SSWiN / PPOŻ 弱电 + 网络配件，兼汽车 / 家用电子等全品类 B2B 电商）；PLANET 为其「Akcesoria sieciowe / informatyczne › Switche」类目在售品牌（工业 PoE IGS-624HPT 带完整波兰文 PLANET 描述）　|　**PLANET 关联**：multiproject.com.pl：IGS-624HPT 商品页 1 661,12 zł brutto / 1 350,50 zł netto「Chwilowo niedostępny」（完整波兰文 PLANET 描述，2026-10-20 fetch）；GSD-1002M 479,92 zł brutto / 390,18 zł netto（Numer katalogowy 17809）；GSW-4800 1 476,00 zł brutto / 1 200,00 zł netto「Chwilowo niedostępny」　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ℹ️ Mikrotik 仓库无同户（—（Mikrotik 仓无此户；本仓 grep 0））；Gmail 查重判定 **非首触**（Elsa 账号群发已触达该域，见邮件段）→ 本仓发第一封具名信，收件人 / 主题须避让。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（随 `SB-1058`）（闸 0 · DUP-AB · 2026-10-29）：与 SB-1058（Saga B 级，本轮不筛 A/B）同一公司（同域名 multiproject.com.pl）→ 随主档，不单独判；A/B 升级讨论时一并
 
 ```yaml structured_profile
 code: PB-097
@@ -16,7 +18,7 @@ p1: STI-244GP
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: —（Mikrotik 仓无此户；本仓 grep 0）
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -193,4 +195,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：W22 矿脉 ⑤ Elsa 群发 BCC 域反查批 3（CZ-PL-DE；DE-IT-PL-US 其余 ≈ 75 域探针全阴 / 弱 / OEM 型）　|　原始证据：batch/2026-10-20_W22_矿脉⑤BCC域反查批3_CZ-PL-DE.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：W22 矿脉 ⑤ Elsa 群发 BCC 域反查批 3（CZ-PL-DE；DE-IT-PL-US 其余 ≈ 75 域探针全阴 / 弱 / OEM 型）　|　原始证据：batch/2026-10-20_W22_矿脉⑤BCC域反查批3_CZ-PL-DE.json　|　渲染：scripts/render.py 2026-10-29*

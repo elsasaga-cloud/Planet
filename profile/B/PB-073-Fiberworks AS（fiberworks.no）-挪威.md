@@ -5,6 +5,8 @@
 > **类型**：分销/网店（光纤网络产品专业分销：收发器 / WDM / 光缆 / 仪表 + 有源设备；有源类目下「PLANET nettverksprodukter」独立类目 9 子类 + 「ORing Industrial Switches」类目；ISO 9001:2015 / 14001:2015；Org. nr. 959 977 046）　|　**PLANET 关联**：fiberworks.no 「PLANET nettverksprodukter」类目（筛选：PoE output (PSE) 17 件、For DIN-skinne 13 件、Industriell temp. 2 件）；商品页 IGS-510TF（Product nr MC-PLANET-IGS-510TF，2240 NOK）、SGS-6310-24T4X（L3 24×GE + 4×10G 可堆叠）、TSN-5225-4T2S、IGS-6325-4T2X、GS-5220-16S8CR、IGS-6325-20T4C4X、GSD-1022UP、「L2+ 8x GE RJ45 802.3at PoE+ 2x 2.5G SFP wall-mount Ind. Switch w/LCD」；并列「ORing Industrial Switches」类目　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ⚠️ **Mikrotik 仓库已有档案 B-517（Mikrotik 侧 B ★★★，ORing 名录导入，R49 补到 salg@fiberworks.no 由 C-191 回升）→ 并档，首触以 Mikrotik 仓库为准；本仓回填：PLANET 独立类目 9 子类 + 商品页 7 款（Mikrotik 侧信号仅「ORing」，PLANET 信号为本仓新增，建议其首推改为对位 PLANET 工业 PoE 的 STI-288GPM）（Q-06 同类，跨仓需用户手工）**：本档只补 PLANET 侧证据；联系策略以先建档案为准，勿重复首触。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（随 `SB-836`）（闸 0 · DUP-AB · 2026-10-29）：与 SB-836（Saga B 级，本轮不筛 A/B）同一公司（同域名 fiberworks.no）→ 随主档，不单独判；A/B 升级讨论时一并
 
 ```yaml structured_profile
 code: PB-073
@@ -16,7 +18,7 @@ p1: STI-288GPM
 price_tier: 20%
 stage: 10-已触达(S邮箱 去8·0回复)
 mikrotik_ref: B-517（Mikrotik 侧 B ★★★，ORing 名录导入，R49 补到 salg@fiberworks.no 由 C-191 回升）→ 并档，首触以 Mikrotik 仓库为准；本仓回填：PLANET 独立类目 9 子类 + 商品页 7 款（Mikrotik 侧信号仅「ORing」，PLANET 信号为本仓新增，建议其首推改为对位 PLANET 工业 PoE 的 STI-288GPM）（Q-06 同类，跨仓需用户手工）
-updated: 2026-10-22
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -173,4 +175,4 @@ updated: 2026-10-22
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：W17 矿脉 ①b：W06/W07 OR 组「假阴性」逐域复核（CZ-FR-NO-GR-ES）　|　原始证据：batch/2026-10-20_W17_OR组假阴性逐域复核_CZ-FR-NO-GR-ES.json　|　渲染：scripts/render.py 2026-10-22*
+*建档日期：2026-10-20　|　入库批次：W17 矿脉 ①b：W06/W07 OR 组「假阴性」逐域复核（CZ-FR-NO-GR-ES）　|　原始证据：batch/2026-10-20_W17_OR组假阴性逐域复核_CZ-FR-NO-GR-ES.json　|　渲染：scripts/render.py 2026-10-29*

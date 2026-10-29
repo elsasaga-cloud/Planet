@@ -5,6 +5,8 @@
 > **类型**：VoIP / 网络设备电商（2017 年注册；话机、电话系统、helpdesk 系统 + 网络交换机；PLANET 为其交换机主品牌，自有品牌页 /pl/producer/Planet/86 与自写博客「Zbuduj biuro IP z PLANET Technology」）　|　**PLANET 关联**：voip24sklep.pl：PLANET 生产商页 + SPRZET-IT/SWITCHE/ZARZADZALNE 类目：GS-4210-16P4C 2 254,25 zł 净价（2 772,73 zł 含税）「średnia ilość」（中等库存）、GS-4210-8P2T2S 1 404,00 zł 净价「brak towaru」、GS-4210-8P2S / GS-4210-48P4S / GS-5220-8UP2T2X 2 331 zł / GS-5220-24T4XVR 3 195,60 zł 净价 / XGS3-24242 6 353,40 zł 净价 / GSW-2401；商品页自写波兰语说明 + 自托管图片路径 /public/assets/Planet/Switche/…；博客「Zbuduj biuro IP z PLANET Technology」；搜索快照另见 SGS-6341-24T4X $650.66　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ℹ️ Mikrotik 仓库无同户（—（Mikrotik 仓无此户；本仓 grep 0））：首触由本仓发出。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：★ P 池 · 正式入池（档位 ○）**（闸 3 · G3 · 2026-10-29）：○ VoIP / 网络电商 20%：VOIP24SKLEP.PL Sp. z o.o.（Bydgoszcz；KRS 0000666618；NIP 9671387462；REGON 366697204；2017-03-02；资本 5,000 zł）坐实；PLANET 为交换机主品牌（生产商页 + 自写博客 + 库存）；董事兼大股东 Kryspin Maroszczyk 直邮 k.maroszczyk@ → 决策链最短；波兰；体量小但复购真实
 
 ```yaml structured_profile
 code: PA-016
@@ -16,7 +18,7 @@ p1: STC-28DGGPM
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: —（Mikrotik 仓无此户；本仓 grep 0）
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -219,4 +221,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：W19 矿脉 ③ 扩面：PLANET 常销型号 × 价格 / 语言词反查（UK-PL-BE-DE-US）　|　原始证据：batch/2026-10-20_W19_矿脉③型号比价扩面_UK-PL-BE-DE-US.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：W19 矿脉 ③ 扩面：PLANET 常销型号 × 价格 / 语言词反查（UK-PL-BE-DE-US）　|　原始证据：batch/2026-10-20_W19_矿脉③型号比价扩面_UK-PL-BE-DE-US.json　|　渲染：scripts/render.py 2026-10-29*

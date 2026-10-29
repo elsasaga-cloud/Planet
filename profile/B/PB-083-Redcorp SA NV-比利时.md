@@ -5,6 +5,8 @@
 > **类型**：B2B IT 硬件 / 软件供应商兼电商（1989 年成立；LinkedIn 11–50 人；自述「leading B2B supplier of hardware and software in Belgium」；多语站，PLANET 品牌页 /en/brand/7322/planet 下大量带价 SKU）　|　**PLANET 关联**：redcorp.com：PLANET 品牌页 + 商品页带价：IGS-504PT € 230.42（已 fetch）；同页推荐 IGS-604HPT-RJ € 575.63 / IGS-4215-4P4T € 435.65 / IGS-4215-8P2T2S € 501.69 / IGS-20160HPT € 1033.86 / GSW-2620HP € 321.05 / IGS-824UPT € 362.27 / IGS-5225-4UP1T2S € 603.65 / IGS-6325-16P4S € 1132.28 / IGS-510TF € 147.10 / IGS-5225-8P4S € 669.78；搜索快照：GSW-2401 € 160.49「InStock」、ISW-501T € 80.32、GSW-1601 € 86.24、GSD-1002M € 126.55、WGS-804HP € 186.61、IGS-801M € 242.71、SGS-6341-24T4X € 559.49　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ℹ️ Mikrotik 仓库无同户（—（Mikrotik 仓无此户；本仓 grep 0））；Gmail 查重判定 **非首触**（Elsa 账号群发已触达该域，见邮件段）→ 本仓发第一封具名信，收件人 / 主题须避让。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（随 `SB-1129`）（闸 0 · DUP-AB · 2026-10-29）：与 SB-1129（Saga B 级，本轮不筛 A/B）同一公司（同域名 redcorp.com）→ 随主档，不单独判；A/B 升级讨论时一并
 
 ```yaml structured_profile
 code: PB-083
@@ -16,7 +18,7 @@ p1: STI-288GPM
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: —（Mikrotik 仓无此户；本仓 grep 0）
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -215,4 +217,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：W19 矿脉 ③ 扩面：PLANET 常销型号 × 价格 / 语言词反查（UK-PL-BE-DE-US）　|　原始证据：batch/2026-10-20_W19_矿脉③型号比价扩面_UK-PL-BE-DE-US.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：W19 矿脉 ③ 扩面：PLANET 常销型号 × 价格 / 语言词反查（UK-PL-BE-DE-US）　|　原始证据：batch/2026-10-20_W19_矿脉③型号比价扩面_UK-PL-BE-DE-US.json　|　渲染：scripts/render.py 2026-10-29*

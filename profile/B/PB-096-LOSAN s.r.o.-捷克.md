@@ -5,6 +5,8 @@
 > **类型**：北波希米亚区域 IT 零售 + 电商（eshop.losan.cz）+ 学校 / 机构 IT 供应商（Chomutov 总部，Teplice / Ústí 门店）；PLANET 工业交换机在 e-shop 带 CZK 价、发货库存与 60 个月保修　|　**PLANET 关联**：eshop.losan.cz PLANET 商品页：IGS-10020MT 10 105 Kč（8 351 Kč bez DPH，K odeslání 5 ks，Záruka 60 měs.）、IGS-20040MT 19 229 Kč（15 891 bez DPH）、IGS-1020PTF-12V 10 596 Kč（8 757 bez DPH）、IGS-4215-4T2S 5 298 Kč（4 379 bez DPH，K odeslání 1 ks）；首次探针快照另见 IGS-4215-4P4T 10 438 Kč、IGS-1020PTF 8 024 Kč、GSD-1022UP、IGTP-815AT 3 403 Kč、「Bude skladem za 2 týdny」　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ℹ️ Mikrotik 仓库无同户（—（Mikrotik 仓无此户；本仓 grep 0））；Gmail 查重判定 **非首触**（Elsa 账号群发已触达该域，见邮件段）→ 本仓发第一封具名信，收件人 / 主题须避让。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（随 `SB-1128`）（闸 0 · DUP-AB · 2026-10-29）：与 SB-1128（Saga B 级，本轮不筛 A/B）同一公司（同域名 losan.cz）→ 随主档，不单独判；A/B 升级讨论时一并
 
 ```yaml structured_profile
 code: PB-096
@@ -16,7 +18,7 @@ p1: STI-280GM
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: —（Mikrotik 仓无此户；本仓 grep 0）
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -203,4 +205,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：W22 矿脉 ⑤ Elsa 群发 BCC 域反查批 3（CZ-PL-DE；DE-IT-PL-US 其余 ≈ 75 域探针全阴 / 弱 / OEM 型）　|　原始证据：batch/2026-10-20_W22_矿脉⑤BCC域反查批3_CZ-PL-DE.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：W22 矿脉 ⑤ Elsa 群发 BCC 域反查批 3（CZ-PL-DE；DE-IT-PL-US 其余 ≈ 75 域探针全阴 / 弱 / OEM 型）　|　原始证据：batch/2026-10-20_W22_矿脉⑤BCC域反查批3_CZ-PL-DE.json　|　渲染：scripts/render.py 2026-10-29*

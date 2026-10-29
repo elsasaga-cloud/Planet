@@ -5,6 +5,8 @@
 > **类型**：分销/电商（1997 年起布拉格综合 IT 电商 + 门店 + 自有仓/服务部；自述「více než 1 milion zákazníků / 3 miliony objednávek / 30 tisíc položek」、横幅「28 let na trhu」；Síťové prvky 类目含 PLANET 商用 + 工业交换机，自编码 NEPL0xx、Záruka 36 Měsíců；面向 Firmy / Státní organizace / Studenti）　|　**PLANET 关联**：softcom.cz 商品页：PLANET IGS-10020PT（Kód NEPL045，11 567.50 Kč bez DPH / 13 996.70 Kč s DPH，Záruka 36 Měsíců，Výrobce Planet）、ISW-504PT（NEPL047，4 584.50 Kč bez DPH）、ISW-500T（NEPL046，1 675.50 Kč bez DPH）、GS-4210-16T2S（NEPL041，4 284.50 Kč bez DPH）、FGSD-1022VHP（NEPL039，3 080.50 Kč bez DPH）；老款 FNSW-1601 / GSW-1601 与 8×PoE 802.3at 120W + 2×100TX 款仍在目录　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ℹ️ Mikrotik 仓库无同户（无（Mikrotik 仓库主表 grep「softcom」0 行）→ 本仓首触）：首触由本仓发出。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（闸 1 · G1 · 2026-10-29）：SOFTCOM GROUP（捷克 30,000 SKU 综合 IT 电商，PLANET 来自分销 feed）：目录 feed 型 → 留原档
 
 ```yaml structured_profile
 code: PB-075
@@ -16,7 +18,7 @@ p1: STI-288GPM
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: 无（Mikrotik 仓库主表 grep「softcom」0 行）→ 本仓首触
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -208,4 +210,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：W17 矿脉 ①b：W06/W07 OR 组「假阴性」逐域复核（CZ-FR-NO-GR-ES）　|　原始证据：batch/2026-10-20_W17_OR组假阴性逐域复核_CZ-FR-NO-GR-ES.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：W17 矿脉 ①b：W06/W07 OR 组「假阴性」逐域复核（CZ-FR-NO-GR-ES）　|　原始证据：batch/2026-10-20_W17_OR组假阴性逐域复核_CZ-FR-NO-GR-ES.json　|　渲染：scripts/render.py 2026-10-29*

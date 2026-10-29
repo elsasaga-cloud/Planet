@@ -5,6 +5,8 @@
 > **类型**：分销商（WISP/网络分销：Ubiquiti / MikroTik / Cambium / PLANET，1997 年起，2–10 人）+ 自有品牌 Lysora　|　**PLANET 关联**：在售 PLANET GS-4210-24P4C（$522）、IGS-5225-8P4S-12V（$809.60）、IGS-4215-8P2T2S；DigiKey 市场卖家　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ⚠️ **Mikrotik 仓库已有档案 A-532**：本档只补 PLANET 侧证据；联系策略以先建档案为准，勿重复首触。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（随 `SB-1013`）（闸 0 · DUP-AB · 2026-10-29）：与 SB-1013（Saga B 级，本轮不筛 A/B）同一公司（同域名 bizsyscon.com）→ 随主档，不单独判；A/B 升级讨论时一并
 
 ```yaml structured_profile
 code: PB-022
@@ -16,7 +18,7 @@ p1: STI-488DGGPM
 price_tier: 20%
 stage: 10-已触达(S邮箱 去1·0回复)
 mikrotik_ref: A-532
-updated: 2026-10-22
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -156,4 +158,4 @@ updated: 2026-10-22
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json　|　渲染：scripts/render.py 2026-10-22*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json　|　渲染：scripts/render.py 2026-10-29*

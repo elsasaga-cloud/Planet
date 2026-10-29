@@ -3,6 +3,8 @@
 > **评级 B**　|　英国 · Huddersfield　|　档案编号 `PB-011`　|　优先级 ★★☆　|　状态：00-未触达
 >
 > **类型**：分销商（VoIP/IP 电话分销，1999 年起，11–50 人）　|　**PLANET 关联**：官网专页「PLANET switches」：VoIP 分销新增交换机品类（now adding switches）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：★ P 池 · 正式入池（档位 ○）**（闸 3 · G3 · 2026-10-29）：○ VoIP / IP 电话分销 20%：ProVu Communications Ltd（Savile Mill, Huddersfield HD3 4PG；Companies House 03748320；1999-04-08 注册；5 董事；2025 现金 £1.04M）坐实；刚引入 PLANET 交换机专页（新品类窗口）；contact@，Sales Manager Joe Walberg 具名；主区 GB
 
 ```yaml structured_profile
 code: PB-011
@@ -14,7 +16,7 @@ p1: STC-424DGGPM-280W
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: none
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -172,4 +174,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json　|　渲染：scripts/render.py 2026-10-29*

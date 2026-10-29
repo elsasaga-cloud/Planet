@@ -3,6 +3,8 @@
 > **评级 B**　|　加拿大 · Montréal, QC　|　档案编号 `PB-029`　|　优先级 ★★☆　|　状态：00-未触达
 >
 > **类型**：安防集成/供应商（CCTV 视频监控系统供应与安装/租赁，2001 年起；<25 人、营收 <$5M）　|　**PLANET 关联**：planet-ca.com（PLANET 加拿大品牌站）分销商列表仅列 Microsam（info@microsam.ca）；Facebook 自述「l'un des principaux fournisseurs de systèmes de surveillance vidéo (CCTV) au Canada」　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（闸 1 · G1 · 2026-10-29）：Microsam（加拿大 CCTV 系统供应 <25 人；microsam.ca 域名 nxdomain，仅电话）：路径半死 → 留原档巡检，域名恢复再闸 2
 
 ```yaml structured_profile
 code: PB-029
@@ -14,7 +16,7 @@ p1: STC-424DGGPM-280W
 price_tier: 25%
 stage: 00-未触达
 mikrotik_ref: none
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -177,4 +179,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ　|　原始证据：batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ　|　原始证据：batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json　|　渲染：scripts/render.py 2026-10-29*

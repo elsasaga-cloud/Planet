@@ -3,6 +3,8 @@
 > **评级 B**　|　法国 · Lorient　|　档案编号 `PB-002`　|　优先级 ★★　|　状态：00-未触达
 >
 > **类型**：安防经销（视频监控/报警/门禁分销，B2B 电商）　|　**PLANET 关联**：自称 PLANET 官方分销（« W3CAM × PLANET - distributeur officiel »），在售 WGS-4215-8P2S、FGSW-2622VHP 等；同时 Axis/Hikvision/Dahua/Ajax/Hanwha/Bosch/Milestone/2N 授权经销　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：☆ P 池 · 观察档（档位 ☆）**（闸 3 · G3 · 2026-10-29）：☆ 观察：W3CAM SAS（Lorient；SIREN 483 019 345；NAF 46.43Z 批发；2005 起 SAS 资本 €25k；3–5 人）坐实但微型；PLANET 分销 + 本地库存 + 官方保修（brand/22-planet）；仅 contact@，Président Bertrand Ripoll 具名无直邮 → 试单 / 回访一次后转正或退回
 
 ```yaml structured_profile
 code: PB-002
@@ -14,7 +16,7 @@ p1: STC-424DGGPM-280W
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: none
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -191,4 +193,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json, batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-20_W09_安防矿脉收尾与海关延伸_TR-DE-UK.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json, batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-20_W09_安防矿脉收尾与海关延伸_TR-DE-UK.json　|　渲染：scripts/render.py 2026-10-29*

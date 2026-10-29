@@ -5,6 +5,8 @@
 > **类型**：工业自动化经销（工业 PC/网络 VAD）+ PLANET 官方分销（子站 planet.spectra.de）　|　**PLANET 关联**：自称 PLANET 官方分销商，运营 PLANET 专卖子站（LAN/PoE/路由/转换器/SFP），面向工业与基础设施　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ⚠️ **Mikrotik 仓库已有档案 C-026; C-149**：T06 ② 例外 —— 首触由本仓发出（仍只发一次），Mikrotik 侧勿再发；回复后两仓同步状态。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（随 `SB-683`）（闸 0 · DUP-AB · 2026-10-29）：与 SB-683（Saga B 级，本轮不筛 A/B）同一公司（同域名 spectra.de）→ 随主档，不单独判；A/B 升级讨论时一并
 
 ```yaml structured_profile
 code: PB-001
@@ -16,7 +18,7 @@ p1: STI-488DGGPM
 price_tier: 20%
 stage: 10-已触达(S邮箱 去5·0回复)
 mikrotik_ref: C-026; C-149
-updated: 2026-10-22
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -193,4 +195,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json, batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json, batch/2026-10-20_W12_B级老化回查与收官补挖_DE-US-FR-UK-ES-PT-北欧.json, batch/2026-10-20_W18_OR组与非OR剩余逐域复核及型号比价试探_CA-US.json　|　渲染：scripts/render.py 2026-10-22*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json, batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json, batch/2026-10-20_W12_B级老化回查与收官补挖_DE-US-FR-UK-ES-PT-北欧.json, batch/2026-10-20_W18_OR组与非OR剩余逐域复核及型号比价试探_CA-US.json　|　渲染：scripts/render.py 2026-10-29*

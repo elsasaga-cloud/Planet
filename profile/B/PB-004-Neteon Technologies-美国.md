@@ -3,6 +3,8 @@
 > **评级 B**　|　美国 · East Brunswick, NJ（仓库 Brea, CA）　|　档案编号 `PB-004`　|　优先级 ★★　|　状态：00-未触达
 >
 > **类型**：工业自动化经销（工业网络 VAD；Moxa Premier Distributor；PLANET 美国分销伙伴）　|　**PLANET 关联**：运营 ShopPlanet（planet.neteon.net）「official U.S. distributor of PLANET Technology」，2009 年起 PLANET 美国分销伙伴；Moxa 24 年合作　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（随 `SB-1059`）（闸 0 · DUP-AB · 2026-10-29）：与 SB-1059（Saga B 级，本轮不筛 A/B）同一公司（同域名 neteon.net）→ 随主档，不单独判；A/B 升级讨论时一并
 
 ```yaml structured_profile
 code: PB-004
@@ -14,7 +16,7 @@ p1: STI-488DGGPM
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: none
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -188,4 +190,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json, batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json, batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json　|　渲染：scripts/render.py 2026-10-29*

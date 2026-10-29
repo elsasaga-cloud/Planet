@@ -3,6 +3,8 @@
 > **评级 A**　|　西班牙 · San Sebastián de los Reyes (Madrid)　|　档案编号 `PA-002`　|　优先级 ★★★　|　状态：00-未触达
 >
 > **类型**：增值分销商（安防/通信/工业网络）+ PLANET 西班牙官方分销　|　**PLANET 关联**：PLANET Networking 西班牙官方分销；同时 Teltonika Networks、Hanwha Vision 分销；有装配车间（Nave de ensamblaje）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：★ P 池 · 正式入池（档位 ★）**（闸 3 · G3 · 2026-10-29）：★ 官方分销 / VAD 20%：Cartronic Memory S.A.（San Sebastián de los Reyes, Madrid；CIF A81347239；S.A. 1996-01-22 登记（集团自述 1989）；资本 €650,000；10–49 人 / 营收 €10–50M；CNAE 4652 电信元件批发；Administrador único Mario Agreda Ballesteros）坐实；PLANET 西班牙官方分销 + Teltonika / Hanwha VAD；具名 KP Director de marketing y operaciones jmcobo@cartronic.es
 
 ```yaml structured_profile
 code: PA-002
@@ -14,7 +16,7 @@ p1: STI-488DGGPM
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: none
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -205,4 +207,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json, batch/2026-10-20_W10_证据老化回查与安防收尾_IT-PL.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json, batch/2026-10-20_W10_证据老化回查与安防收尾_IT-PL.json　|　渲染：scripts/render.py 2026-10-29*

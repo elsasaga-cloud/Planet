@@ -5,6 +5,8 @@
 > **类型**：数码 / 网络设备网店（个体经营，2007-08 起；Sky-Shop 平台；PLANET 全线在售：工业交换机、L3 核心、VDSL 转换器、光纤视频套件、IP 摄像机；Ceneo 上 PLANET GS-4210-8P2S 6 家店最低价）　|　**PLANET 关联**：digiram.pl：Planet IGS-10020HPT 2199.00 zł、Planet ISW-514PTF、Planet GS-4210-8P2S（Ceneo 6 店最低价 703,56 zł，「ODBIÓR OSOBISTY w SZCZECINIE」）、Planet VC-231G 569 zł InStock、Planet VF-101G-KIT 1079 zł 库存 10 szt、Planet XGS-6350-16X8Y4C、Planet ICA-HM620-110 摄像机　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ℹ️ Mikrotik 仓库无同户（—（Mikrotik 仓无此户；本仓 grep 0））：首触由本仓发出。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（闸 1 · G1 · 2026-10-29）：DIGIRAM.PL Adam Tytoń（波兰个体网店，PLANET 全线在售、店主直邮 adam@）：个体微型 → 留原档巡检；复购体量出现再闸 2
 
 ```yaml structured_profile
 code: PB-091
@@ -16,7 +18,7 @@ p1: STI-288GPM
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: —（Mikrotik 仓无此户；本仓 grep 0）
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -208,4 +210,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：W20 矿脉 ⑤ Elsa 群发 BCC 域反查 + 矿脉 ③ 型号比价批 3/4（UK-DK-FI-PL）　|　原始证据：batch/2026-10-20_W20_矿脉⑤BCC域反查+③型号比价_UK-DK-FI-PL.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：W20 矿脉 ⑤ Elsa 群发 BCC 域反查 + 矿脉 ③ 型号比价批 3/4（UK-DK-FI-PL）　|　原始证据：batch/2026-10-20_W20_矿脉⑤BCC域反查+③型号比价_UK-DK-FI-PL.json　|　渲染：scripts/render.py 2026-10-29*

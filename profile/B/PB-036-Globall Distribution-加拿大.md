@@ -5,6 +5,8 @@
 > **类型**：分销商/进口商（2011 年起；数据网络、监控、光纤与电话产品进口分销，面向 B2B IT 经销商、集成商与零售；2–10 人；Yeastar/Milesight/Planet/EnGenius 等）　|　**PLANET 关联**：官网 PLANET 专区自述「Canadian Distributor of Planet Networking & Communication products … distributor of the entire product portfolio from Planet Technology」；Mikrotik 仓库 C-015 标「分销（PLANET 授权）」　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ⚠️ **Mikrotik 仓库已有档案 C-015**：T06 ② 例外 —— 首触由本仓发出（仍只发一次），Mikrotik 侧勿再发；回复后两仓同步状态。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（随 `SB-1125`）（闸 0 · DUP-AB · 2026-10-29）：与 SB-1125（Saga B 级，本轮不筛 A/B）同一公司（同域名 globall.ca）→ 随主档，不单独判；A/B 升级讨论时一并
 
 ```yaml structured_profile
 code: PB-036
@@ -16,7 +18,7 @@ p1: STC-424DGGPM-280W
 price_tier: 20%
 stage: 10-已触达(S邮箱 去1·0回复)
 mikrotik_ref: C-015
-updated: 2026-10-22
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -189,4 +191,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL　|　原始证据：batch/2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json, batch/2026-10-20_W12_B级老化回查与收官补挖_DE-US-FR-UK-ES-PT-北欧.json　|　渲染：scripts/render.py 2026-10-22*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL　|　原始证据：batch/2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json, batch/2026-10-20_W12_B级老化回查与收官补挖_DE-US-FR-UK-ES-PT-北欧.json　|　渲染：scripts/render.py 2026-10-29*

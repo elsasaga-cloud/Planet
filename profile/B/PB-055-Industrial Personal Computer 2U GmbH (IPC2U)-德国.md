@@ -5,6 +5,8 @@
 > **类型**：工业自动化经销/集成（工业 PC、工业通信：Antaira + Korenix 授权分销；PLANET 德国授权销售伙伴，自述合作 25 年+；德/法/波/捷四国办公室，兼做系统集成）　|　**PLANET 关联**：ipc2u.de/ueber-uns/vendors/planet：「Offizieller PLANET Technology Partner in Deutschland … autorisierter Vertriebspartner von PLANET Technology in Deutschland … Vollständiges PLANET-Produktportfolio … IPC2U kooperiert mit PLANET seit über 25 Jahren」；目录按 vendor-planet 分 Industrielle Ethernet Switches / Industrie Wireless / Serial Device Servers / Converter und Repeater　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ⚠️ **Mikrotik 仓库已有档案 A-482**：本档只补 PLANET 侧证据；联系策略以先建档案为准，勿重复首触。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（随 `SB-617`）（闸 0 · DUP-AB · 2026-10-29）：与 SB-617（Saga B 级，本轮不筛 A/B）同一公司（同域名 ipc2u.de）→ 随主档，不单独判；A/B 升级讨论时一并
 
 ```yaml structured_profile
 code: PB-055
@@ -16,7 +18,7 @@ p1: STI-488XGGPM
 price_tier: 20%
 stage: 10-已触达(S邮箱 去1·0回复)
 mikrotik_ref: A-482
-updated: 2026-10-22
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -149,4 +151,4 @@ updated: 2026-10-22
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：2026-10-20_W09_安防矿脉收尾与海关延伸_TR-DE-UK　|　原始证据：batch/2026-10-20_W09_安防矿脉收尾与海关延伸_TR-DE-UK.json, batch/2026-10-20_W12_B级老化回查与收官补挖_DE-US-FR-UK-ES-PT-北欧.json　|　渲染：scripts/render.py 2026-10-22*
+*建档日期：2026-10-20　|　入库批次：2026-10-20_W09_安防矿脉收尾与海关延伸_TR-DE-UK　|　原始证据：batch/2026-10-20_W09_安防矿脉收尾与海关延伸_TR-DE-UK.json, batch/2026-10-20_W12_B级老化回查与收官补挖_DE-US-FR-UK-ES-PT-北欧.json　|　渲染：scripts/render.py 2026-10-29*

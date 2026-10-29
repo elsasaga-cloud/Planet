@@ -5,6 +5,8 @@
 > **类型**：综合布线 / 电信工具与器材分销商（1918 年起家族企业；7,000+ 产品；客群为数据 / 电信 / CCTV / 有线电视布线安装商与光纤 altnet；PLANET 为其有源设备交换机线）　|　**PLANET 关联**：millsltd.com：Planet GS-4210-24T2S（C04-4774）、GSW-2401（In stock £166.99 / £139.16）、FNSW-2401（£115.14 / £95.95）、FGSD-1022VHP（£266.94 inc VAT）、GSD-503（£49.20 inc VAT）、GT-1205A 媒体转换器 —— Active Equipment 类目「Switches Managed / Unmanaged / PoE」全为 Planet　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ℹ️ Mikrotik 仓库无同户（—（Mikrotik 仓无此户；本仓 grep 0））：首触由本仓发出。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：★ P 池 · 正式入池（档位 ★）**（闸 3 · G3 · 2026-10-29）：★ 布线 / 电信器材分销 20%：Mills Limited（Companies House 00282704；VAT 227 0825 74；1918 年起家族企业；~60 人；7,000+ 产品；Uxbridge + Amble 两柜台；CityFibre 等 altnet 供应商）坐实；Active Equipment 类目 6 款 PLANET 带价现货 = 唯一交换机线；sales@ + 020 8833 2626，Sales Manager Dil Bhachu 具名
 
 ```yaml structured_profile
 code: PB-088
@@ -16,7 +18,7 @@ p1: STC-424DGGM
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: —（Mikrotik 仓无此户；本仓 grep 0）
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -210,4 +212,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：W20 矿脉 ⑤ Elsa 群发 BCC 域反查 + 矿脉 ③ 型号比价批 3/4（UK-DK-FI-PL）　|　原始证据：batch/2026-10-20_W20_矿脉⑤BCC域反查+③型号比价_UK-DK-FI-PL.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：W20 矿脉 ⑤ Elsa 群发 BCC 域反查 + 矿脉 ③ 型号比价批 3/4（UK-DK-FI-PL）　|　原始证据：batch/2026-10-20_W20_矿脉⑤BCC域反查+③型号比价_UK-DK-FI-PL.json　|　渲染：scripts/render.py 2026-10-29*

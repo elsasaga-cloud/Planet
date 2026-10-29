@@ -5,6 +5,8 @@
 > **类型**：专业分销商（2001 年起；IP 技术专业分销：IP 监控、IP 通信、IP 基础设施；面向 VAR/经销商/集成商；11–50 人；美国 + 加拿大 + 拉美）　|　**PLANET 关联**：官网「PLANET Industrial Switches」专页 + 「PLANET Switches」PoE 方案页；伙伴商店 vendors/planet 列 56 个 PLANET 产品；Mikrotik 仓库 C-067 标「分销（PLANET 授权）」　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ⚠️ **Mikrotik 仓库已有档案 C-067**：T06 ② 例外 —— 首触由本仓发出（仍只发一次），Mikrotik 侧勿再发；回复后两仓同步状态。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：随主档留 C**（随 `XC-M132`）（闸 0 · DUP · 2026-10-29）：与 XC-M132 同一公司（Mikrotik 旧编号 C-067）→ 随主档：keep_C（闸 1，渠道型主体但路径未建（分销（PLANET 授权）  B下放·无邮箱（群发触达不到）；官网 abptech.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱）→ 留 C 待巡检，补到邮箱再闸 2）
 
 ```yaml structured_profile
 code: PB-035
@@ -16,7 +18,7 @@ p1: STC-424DGGPM-280W
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: C-067
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -190,4 +192,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL　|　原始证据：batch/2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL　|　原始证据：batch/2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json　|　渲染：scripts/render.py 2026-10-29*

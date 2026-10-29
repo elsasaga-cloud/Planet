@@ -3,6 +3,8 @@
 > **评级 A**　|　匈牙利 · Budapest　|　档案编号 `PA-008`　|　优先级 ★★☆　|　状态：00-未触达
 >
 > **类型**：安防增值分销商（IP 安防 VAD：Axis / Milestone / Hanwha + PLANET 匈牙利分销）　|　**PLANET 关联**：2012 年起 PLANET 匈牙利分销（biztonsagpiac.hu 行业报道）；官网 PLANET 产品线（GS-4210-24P2S 等）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：★ P 池 · 正式入池（档位 ○）**（闸 3 · G3 · 2026-10-29）：○ IP 安防 VAD 20%：Aspectis Kft.（H-1158 Budapest Késmárk u. 11–13；Cégjegyzékszám 01-09-722853；Adószám 13106261-2-42；2003 年 Bata Miklós / Laczkó Gábor 创立，IP 视频系统分销先驱）坐实；Axis / Milestone / Hanwha + PLANET 匈牙利分销；总经理 Laczkó Gábor 直邮 gabor.laczko@aspectis.hu
 
 ```yaml structured_profile
 code: PA-008
@@ -14,7 +16,7 @@ p1: STC-424DGGPM-280W
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: none
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -186,4 +188,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-20_W11_A级老化回查收尾与法国集成商_FR-CZ-HU-SE-PL.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-20_W11_A级老化回查收尾与法国集成商_FR-CZ-HU-SE-PL.json　|　渲染：scripts/render.py 2026-10-29*

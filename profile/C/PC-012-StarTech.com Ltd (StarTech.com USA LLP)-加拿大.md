@@ -3,6 +3,8 @@
 > **评级 C**　|　加拿大 · London, ON（美国仓 Groveport, OH）　|　档案编号 `PC-012`　|　优先级 ★　|　状态：00-未触达
 >
 > **类型**：自有品牌 IT 连接/网络配件品牌商（1985 年起，≈500 人，营收 ≈$136M+；全球分销网络）　|　**PLANET 关联**：美国海关提单（ImportGenius / ImportYeti）：供应商 PLANET Technology Corp → 进口商 STARTECH.COM USA LLP 95–97 票（Media Converter / Port Gigabit PoE Extender / Unmanaged Gigabit Fiber Media Converter），最近 2026-09-24 → PLANET 为其 ODM 供应商　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（随 `XB-M177`）（闸 0 · DUP-AB · 2026-10-29）：与 XB-M177（External B 级，本轮不筛 A/B）同一公司（同域名 startech.com（External））→ 随主档，不单独判；A/B 升级讨论时一并
 
 ```yaml structured_profile
 code: PC-012
@@ -14,7 +16,7 @@ p1: STC-28DGGPM
 price_tier: 30%
 stage: 00-未触达
 mikrotik_ref: none
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -153,4 +155,4 @@ updated: 2026-10-20
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：2026-10-20_W08_安防分销与美国海关提单反查_US-CA　|　原始证据：batch/2026-10-20_W08_安防分销与美国海关提单反查_US-CA.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：2026-10-20_W08_安防分销与美国海关提单反查_US-CA　|　原始证据：batch/2026-10-20_W08_安防分销与美国海关提单反查_US-CA.json　|　渲染：scripts/render.py 2026-10-29*

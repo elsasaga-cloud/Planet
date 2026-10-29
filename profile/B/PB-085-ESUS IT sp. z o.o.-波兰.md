@@ -5,6 +5,8 @@
 > **类型**：IT 电商（2008 年起做内存 / SSD，公司 2023-01 重新注册；多国站 esus-it.pl / .com / .fr / .it / .de 等；SWITCH 类目含 PLANET / CISCO / ZYXEL / MIKROTIK / UBIQUITI；PLANET 商品页标欧盟责任人 Konsorcjum FEN → 货源为 FEN 分销 feed）　|　**PLANET 关联**：esus-it.fr：GS-4210-8T2S 178,82 € 含税 / 145,38 € 净「Temporairement indisponible … demandez la date de livraison (sales@esus-it.com)」，类目 SWITCH › PLANET；esus-it.com：XGS-6350-24X4C 1 562,89 € excl. VAT；搜索快照 esus-it.it 同售；页面欧盟责任人「Konsorcjum FEN Sp. z o.o., Czarnkowska 13, 60-415 Poznań, sales@fen.pl」　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ℹ️ Mikrotik 仓库无同户（—（Mikrotik 仓无此户；本仓 grep 0））：首触由本仓发出。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（闸 1 · G1 · 2026-10-29）：ESUS IT（波兰内存 / SSD 电商，交换机类目为 FEN feed）：feed 型 → 留原档（主档随 PB-003 FEN 渠道）
 
 ```yaml structured_profile
 code: PB-085
@@ -16,7 +18,7 @@ p1: STC-424DGGM
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: —（Mikrotik 仓无此户；本仓 grep 0）
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -191,4 +193,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：W19 矿脉 ③ 扩面：PLANET 常销型号 × 价格 / 语言词反查（UK-PL-BE-DE-US）　|　原始证据：batch/2026-10-20_W19_矿脉③型号比价扩面_UK-PL-BE-DE-US.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：W19 矿脉 ③ 扩面：PLANET 常销型号 × 价格 / 语言词反查（UK-PL-BE-DE-US）　|　原始证据：batch/2026-10-20_W19_矿脉③型号比价扩面_UK-PL-BE-DE-US.json　|　渲染：scripts/render.py 2026-10-29*

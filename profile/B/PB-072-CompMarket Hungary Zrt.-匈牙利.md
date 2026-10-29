@@ -5,6 +5,8 @@
 > **类型**：分销（2004 年起经营、2011 年设立 Zrt. 的匈牙利 IT 分销商；MikroTik Master + VAD；为零售商代运营网店 kisker.compmarket.hu；交换机品牌含 TP-Link 127 / ZyXEL 71 / Ubiquiti 49 / Tenda 34 / Reyee 15 / Planet 14 / Teltonika 8 等；近年新增安防线）　|　**PLANET 关联**：CompMarket 代运营零售网店（genesyscomputer.kisker.compmarket.hu / kovacstelefon.kisker.compmarket.hu）交换机类目品牌筛选「Planet (14)」，与 TP-Link (127) / ZyXEL (71) / Ubiquiti (49) / Tenda (34) / Reyee (15) / Teltonika (8) 同列 → 分销目录含 PLANET 交换机 14 款　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ⚠️ **Mikrotik 仓库已有档案 B-081（Mikrotik 侧 B ★★★，rakos.zoltan@compmarket.hu）→ 并档，首触以 Mikrotik 仓库为准；本仓回填：PLANET 交换机 14 款在目录（Mikrotik 侧「通用分销商信号」可据此加「PLANET 长尾」差异化切入）+ 2025 财报（€35M / 57 人）（Q-06 同类，跨仓需用户手工）**：本档只补 PLANET 侧证据；联系策略以先建档案为准，勿重复首触。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（随 `XA-M088`）（闸 0 · DUP-AB · 2026-10-29）：与 XA-M088（External A 级，本轮不筛 A/B）同一公司（Mikrotik 旧编号 B-081）→ 随主档，不单独判；A/B 升级讨论时一并
 
 ```yaml structured_profile
 code: PB-072
@@ -16,7 +18,7 @@ p1: STC-424DGGPM-280W
 price_tier: 20%
 stage: 10-已触达(S邮箱 去1·0回复)
 mikrotik_ref: B-081（Mikrotik 侧 B ★★★，rakos.zoltan@compmarket.hu）→ 并档，首触以 Mikrotik 仓库为准；本仓回填：PLANET 交换机 14 款在目录（Mikrotik 侧「通用分销商信号」可据此加「PLANET 长尾」差异化切入）+ 2025 财报（€35M / 57 人）（Q-06 同类，跨仓需用户手工）
-updated: 2026-10-22
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -174,4 +176,4 @@ updated: 2026-10-22
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：W16 目录型矿脉 ①（续）：Mikrotik 池域名 × site: planet switch（PL-CZ-SK-HU-GR）+ W06/W07 OR 组查询假阴性复核　|　原始证据：batch/2026-10-20_W16_目录型矿脉续_OR组假阴性复核_PL-CZ-HU.json　|　渲染：scripts/render.py 2026-10-22*
+*建档日期：2026-10-20　|　入库批次：W16 目录型矿脉 ①（续）：Mikrotik 池域名 × site: planet switch（PL-CZ-SK-HU-GR）+ W06/W07 OR 组查询假阴性复核　|　原始证据：batch/2026-10-20_W16_目录型矿脉续_OR组假阴性复核_PL-CZ-HU.json　|　渲染：scripts/render.py 2026-10-29*

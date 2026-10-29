@@ -5,6 +5,8 @@
 > **类型**：工业自动化经销（工业硬件分销：PLANET / Moxa / Neousys，1981 年起）+ PLANET 意大利官方分销　|　**PLANET 关联**：官网品牌页自称「Distributore ufficiale PLANET Technology per l'Italia」；同时分销 Moxa 工业交换机　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ⚠️ **Mikrotik 仓库已有档案 C-031**：T06 ② 例外 —— 首触由本仓发出（仍只发一次），Mikrotik 侧勿再发；回复后两仓同步状态。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：随主档留 C**（随 `XC-M096`）（闸 0 · DUP · 2026-10-29）：与 XC-M096 同一公司（Mikrotik 旧编号 C-031）→ 随主档：keep_C（闸 1，渠道型主体但路径未建（分销（Moxa 授权）  B下放·无邮箱（群发触达不到）；官网 jampel.it，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2）
 
 ```yaml structured_profile
 code: PA-005
@@ -16,7 +18,7 @@ p1: STI-488DGGPM
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: C-031
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -194,4 +196,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-20_W10_证据老化回查与安防收尾_IT-PL.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-20_W10_证据老化回查与安防收尾_IT-PL.json　|　渲染：scripts/render.py 2026-10-29*

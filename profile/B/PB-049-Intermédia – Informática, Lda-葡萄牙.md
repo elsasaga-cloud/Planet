@@ -3,6 +3,8 @@
 > **评级 B**　|　葡萄牙 · Coimbra　|　档案编号 `PB-049`　|　优先级 ★★　|　状态：00-未触达
 >
 > **类型**：经销商/网店（电信与网络设备经销；官网 PLANET 专页全系带价目录）　|　**PLANET 关联**：官网 PLANET 专页：GS-6311-24HP4X（582€）、SGS-6310-24P4X、IGS-6325-16T4X / 24UP4X / 16P4S 等带欧元价在售；页眉 info@ / compras@　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：☆ P 池 · 观察档（档位 ☆）**（闸 3 · G3 · 2026-10-29）：☆ 观察：Intermédia – Informática, Lda（Coimbra Rua Dom Ernesto Sena de Oliveira Lote 1；NIF 503329827；主营电信设备）坐实但微型（Lda，人数未公开）；官网 PLANET 专页全系带价（含 L3 PoE 与 IGS-6325 工业线）= 真实备货经销；info@ / compras@（采购信箱）→ 试单后转正
 
 ```yaml structured_profile
 code: PB-049
@@ -14,7 +16,7 @@ p1: STC-424XGGPM-280W
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: none
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -184,4 +186,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：2026-10-20_W06_Mikrotik工业品牌渠道行核验与葡萄牙补点_US-UK-PT　|　原始证据：batch/2026-10-20_W06_Mikrotik工业品牌渠道行核验与葡萄牙补点_US-UK-PT.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：2026-10-20_W06_Mikrotik工业品牌渠道行核验与葡萄牙补点_US-UK-PT　|　原始证据：batch/2026-10-20_W06_Mikrotik工业品牌渠道行核验与葡萄牙补点_US-UK-PT.json　|　渲染：scripts/render.py 2026-10-29*

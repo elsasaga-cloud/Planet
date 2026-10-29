@@ -1,0 +1,2709 @@
+{
+ "_meta": {
+  "date": "2026-10-29",
+  "time": "09:33Z",
+  "n": 159
+ },
+ "domains": {
+  "4power.it": {
+   "mx": [
+    [
+     10,
+     "mx.4power.it"
+    ]
+   ],
+   "a": [
+    "89.46.109.44"
+   ],
+   "status": "ok",
+   "cls": "同域名 MX → 托管在 aruba.it",
+   "checked": "2026-10-29",
+   "mx_ip": "62.149.128.163",
+   "mx_ptr": "mxd2.aruba.it"
+  },
+  "abptech.ca": {
+   "mx": [
+    [
+     10,
+     "ASPMX.L.GOOGLE.COM"
+    ],
+    [
+     20,
+     "ALT1.ASPMX.L.GOOGLE.COM"
+    ],
+    [
+     20,
+     "ALT2.ASPMX.L.GOOGLE.COM"
+    ],
+    [
+     30,
+     "ASPMX2.GOOGLEMAIL.COM"
+    ]
+   ],
+   "a": [
+    "52.4.177.150"
+   ],
+   "status": "ok",
+   "cls": "Google Workspace",
+   "checked": "2026-10-29"
+  },
+  "abptech.com": {
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "aspmx2.googlemail.com"
+    ]
+   ],
+   "a": [
+    "52.55.181.184"
+   ],
+   "status": "ok",
+   "cls": "Google Workspace",
+   "checked": "2026-10-29"
+  },
+  "absolon.cz": {
+   "mx": [
+    [
+     0,
+     "absolon-cz.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "83.167.234.116"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "acceed.com": {
+   "mx": [
+    [
+     10,
+     "mxext1.mailbox.org"
+    ],
+    [
+     10,
+     "mxext2.mailbox.org"
+    ],
+    [
+     20,
+     "mxext3.mailbox.org"
+    ]
+   ],
+   "a": [
+    "213.109.162.42"
+   ],
+   "status": "ok",
+   "cls": "德国主机商邮箱",
+   "checked": "2026-10-29"
+  },
+  "accesspoint.hu": {
+   "mx": [
+    [
+     0,
+     "accesspoint-hu.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "216.24.57.1"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "action.pl": {
+   "mx": [
+    [
+     5,
+     "mx1.action.pl"
+    ],
+    [
+     5,
+     "mx2.action.pl"
+    ]
+   ],
+   "a": [
+    "194.56.211.230"
+   ],
+   "status": "ok",
+   "cls": "自建 / 同域名邮件服务器",
+   "checked": "2026-10-29",
+   "mx_ip": "194.56.211.117",
+   "mx_ptr": "mx1.action.pl"
+  },
+  "aikomtech.com": {
+   "mx": [
+    [
+     1,
+     "ASPMX.L.GOOGLE.com"
+    ],
+    [
+     5,
+     "ALT1.ASPMX.L.GOOGLE.com"
+    ],
+    [
+     5,
+     "ALT2.ASPMX.L.GOOGLE.com"
+    ],
+    [
+     10,
+     "ALT3.ASPMX.L.GOOGLE.com"
+    ]
+   ],
+   "a": [
+    "51.38.247.198"
+   ],
+   "status": "ok",
+   "cls": "Google Workspace",
+   "checked": "2026-10-29"
+  },
+  "akcaba.com": {
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ]
+   ],
+   "a": [
+    "35.214.140.119"
+   ],
+   "status": "ok",
+   "cls": "Google Workspace",
+   "checked": "2026-10-29"
+  },
+  "alarmsysteemexpert.nl": {
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ]
+   ],
+   "a": [
+    "23.227.38.65"
+   ],
+   "status": "ok",
+   "cls": "Google Workspace",
+   "checked": "2026-10-29"
+  },
+  "alcadon.se": {
+   "mx": [
+    [
+     0,
+     "alcadon-se.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "194.103.194.168"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "anatronic.com": {
+   "mx": [
+    [
+     10,
+     "aspmx.l.google.com"
+    ],
+    [
+     20,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     20,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     30,
+     "aspmx2.googlemail.com"
+    ]
+   ],
+   "a": [
+    "51.254.16.36"
+   ],
+   "status": "ok",
+   "cls": "Google Workspace",
+   "checked": "2026-10-29"
+  },
+  "aplus-sa.com": {
+   "mx": [
+    [
+     5,
+     "aplussa-com01c.mail.eo.outlook.com"
+    ]
+   ],
+   "a": [
+    "5.135.23.164"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "aspectis.hu": {
+   "mx": [
+    [
+     0,
+     "aspectis-hu.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "80.77.123.98"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "avstek.fi": {
+   "mx": [
+    [
+     1,
+     "mx1.ovh.net"
+    ],
+    [
+     5,
+     "mx2.ovh.net"
+    ],
+    [
+     100,
+     "mxb.ovh.net"
+    ]
+   ],
+   "a": [
+    "188.165.143.16"
+   ],
+   "status": "ok",
+   "cls": "OVH 主机邮箱",
+   "checked": "2026-10-29"
+  },
+  "ballicom.co.uk": {
+   "mx": [
+    [
+     1,
+     "ballicom-co-uk.mail.protection.outlook.com"
+    ],
+    [
+     10,
+     "aspmx.l.google.com"
+    ],
+    [
+     20,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     20,
+     "alt2.aspmx.l.google.com"
+    ]
+   ],
+   "a": [
+    "104.20.31.235",
+    "172.66.173.104"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "bimel.com.tr": {
+   "mx": [
+    [
+     1,
+     "smtp.google.com"
+    ]
+   ],
+   "a": [
+    "176.58.111.243"
+   ],
+   "status": "ok",
+   "cls": "Google Workspace",
+   "checked": "2026-10-29"
+  },
+  "binarteknik.se": {
+   "mx": [
+    [
+     0,
+     "binarteknik.se.mx.one.com"
+    ]
+   ],
+   "a": [
+    "172.67.181.131",
+    "104.21.18.87"
+   ],
+   "status": "ok",
+   "cls": "北欧主机商邮箱",
+   "checked": "2026-10-29"
+  },
+  "bizsyscon.com": {
+   "mx": [
+    [
+     0,
+     "bizsyscon-com.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "23.227.38.65"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "bts-network.de": {
+   "mx": [
+    [
+     5,
+     "smtp.rzone.de"
+    ]
+   ],
+   "a": [
+    "81.169.131.21"
+   ],
+   "status": "ok",
+   "cls": "德国主机商邮箱",
+   "checked": "2026-10-29"
+  },
+  "cartronic.es": {
+   "mx": [
+    [
+     10,
+     "ASPMX.L.GOOGLE.COM"
+    ],
+    [
+     20,
+     "ALT1.ASPMX.L.GOOGLE.COM"
+    ],
+    [
+     20,
+     "ALT2.ASPMX.L.GOOGLE.COM"
+    ],
+    [
+     30,
+     "ALT3.ASPMX.L.GOOGLE.COM"
+    ]
+   ],
+   "a": [
+    "45.132.34.205"
+   ],
+   "status": "ok",
+   "cls": "Google Workspace",
+   "checked": "2026-10-29"
+  },
+  "cctv.net": {
+   "mx": [
+    [
+     10,
+     "mx.zoho.com"
+    ],
+    [
+     20,
+     "mx2.zoho.com"
+    ],
+    [
+     50,
+     "mx3.zoho.com"
+    ]
+   ],
+   "a": [
+    "142.93.67.109"
+   ],
+   "status": "ok",
+   "cls": "Zoho Mail",
+   "checked": "2026-10-29"
+  },
+  "ciudadwireless.com": {
+   "mx": [
+    [
+     10,
+     "correo.ciudadwireless.com"
+    ]
+   ],
+   "a": [
+    "104.21.49.197",
+    "172.67.166.204"
+   ],
+   "status": "ok",
+   "cls": "同域名 MX → 托管在 instantbyte.com",
+   "checked": "2026-10-29",
+   "mx_ip": "51.91.106.144",
+   "mx_ptr": "correo.instantbyte.com"
+  },
+  "cmsplc.com": {
+   "mx": [
+    [
+     10,
+     "cmsplc-com.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "192.124.249.108"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "coeldistribution.it": {
+   "mx": [
+    [
+     20,
+     "coeldistribution-it.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "89.46.227.10"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "compass-distribution.it": {
+   "mx": [
+    [
+     0,
+     "esva.spazio011.it"
+    ]
+   ],
+   "a": [
+    "135.181.170.82"
+   ],
+   "status": "ok",
+   "cls": "其他主机商邮箱（esva.spazio011.it）",
+   "checked": "2026-10-29"
+  },
+  "compmarket.hu": {
+   "mx": [
+    [
+     5,
+     "webmail.compmarket.hu"
+    ]
+   ],
+   "a": [
+    "185.80.48.117"
+   ],
+   "status": "ok",
+   "cls": "自建 / 同域名邮件服务器",
+   "checked": "2026-10-29",
+   "mx_ip": "79.139.62.162",
+   "mx_ptr": "webmail.compmarket.hu"
+  },
+  "connectdata.fr": {
+   "mx": [
+    [
+     0,
+     "connectdata-fr.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "217.160.0.208"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "connectec.uk": {
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ]
+   ],
+   "a": [
+    "104.20.41.2",
+    "172.66.166.104"
+   ],
+   "status": "ok",
+   "cls": "Google Workspace",
+   "checked": "2026-10-29"
+  },
+  "ctr.pl": {
+   "mx": [
+    [
+     10,
+     "ctr.home.pl"
+    ]
+   ],
+   "a": [
+    "217.154.205.136"
+   ],
+   "status": "ok",
+   "cls": "波兰主机商邮箱",
+   "checked": "2026-10-29"
+  },
+  "cyberbajt.pl": {
+   "mx": [
+    [
+     10,
+     "mail.cyberbajt.pl"
+    ]
+   ],
+   "a": [
+    "104.21.87.67",
+    "172.67.142.44"
+   ],
+   "status": "ok",
+   "cls": "自建 / 同域名邮件服务器",
+   "checked": "2026-10-29",
+   "mx_ip": "146.59.118.175",
+   "mx_ptr": "frodo2.cyberbajt.pl"
+  },
+  "danbit.dk": {
+   "mx": [
+    [
+     0,
+     "danbit.dk.mx.one.com"
+    ],
+    [
+     10,
+     "danbit.dk.mx.one.com"
+    ]
+   ],
+   "a": [
+    "172.67.210.50",
+    "104.21.91.44"
+   ],
+   "status": "ok",
+   "cls": "北欧主机商邮箱",
+   "checked": "2026-10-29"
+  },
+  "data-connect.com": {
+   "mx": [
+    [
+     0,
+     "dataconnect-com01b.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "15.197.225.128",
+    "3.33.251.168"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "data-network.eu": {
+   "mx": [
+    [
+     10,
+     "mail.data-network.eu"
+    ]
+   ],
+   "a": [
+    "5.181.161.80"
+   ],
+   "status": "ok",
+   "cls": "同域名 MX → 托管在 gts.sk",
+   "checked": "2026-10-29",
+   "mx_ip": "81.88.141.234",
+   "mx_ptr": "a42.interfinance.ba.cust.gts.sk"
+  },
+  "dceexpress.com": {
+   "mx": [
+    [
+     0,
+     "dceexpress.com"
+    ]
+   ],
+   "a": [
+    "69.16.238.59"
+   ],
+   "status": "ok",
+   "cls": "同域名 MX → 托管在 qth.com",
+   "checked": "2026-10-29",
+   "mx_ip": "69.16.238.59",
+   "mx_ptr": "www18.qth.com"
+  },
+  "digiram.pl": {
+   "mx": [
+    [
+     5,
+     "digiram.nq.pl"
+    ]
+   ],
+   "a": [
+    "188.68.234.162"
+   ],
+   "status": "ok",
+   "cls": "其他主机商邮箱（digiram.nq.pl）",
+   "checked": "2026-10-29"
+  },
+  "digitx.it": {
+   "mx": [
+    [
+     10,
+     "mx.digitx.it"
+    ]
+   ],
+   "a": [
+    "93.186.242.196"
+   ],
+   "status": "ok",
+   "cls": "同域名 MX → 托管在 aruba.it",
+   "checked": "2026-10-29",
+   "mx_ip": "62.149.128.72",
+   "mx_ptr": "mxd4.aruba.it"
+  },
+  "direktronik.se": {
+   "mx": [
+    [
+     10,
+     "direktronik-se.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "185.21.146.84"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "ditecom.com": {
+   "mx": [
+    [
+     10,
+     "mx.serviciodecorreo.es"
+    ]
+   ],
+   "a": [
+    "217.76.130.208"
+   ],
+   "status": "ok",
+   "cls": "其他主机商邮箱（mx.serviciodecorreo.es）",
+   "checked": "2026-10-29"
+  },
+  "dsl-warehouse.com": {
+   "mx": [
+    [
+     0,
+     "dslwarehouse-com0i.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "192.124.249.57"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "edox.com": {
+   "mx": [
+    [
+     0,
+     "edox-com.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "104.26.14.96",
+    "172.67.73.29",
+    "104.26.15.96"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "eetgroup.com": {
+   "mx": [
+    [
+     0,
+     "eetgroup-com.mail.protection.outlook.com"
+    ],
+    [
+     10,
+     "info-eetgroup-com.mail.protection.outlook.com"
+    ],
+    [
+     20,
+     "service-eetgroup-com.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "80.92.65.137"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "eltrox.pl": {
+   "mx": [
+    [
+     10,
+     "e-commercepartners.home.pl"
+    ]
+   ],
+   "a": [
+    "104.26.7.104",
+    "104.26.6.104",
+    "172.67.74.136"
+   ],
+   "status": "ok",
+   "cls": "波兰主机商邮箱",
+   "checked": "2026-10-29"
+  },
+  "epcom.net": {
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ]
+   ],
+   "a": [
+    "104.18.19.58",
+    "104.18.18.58"
+   ],
+   "status": "ok",
+   "cls": "Google Workspace",
+   "checked": "2026-10-29"
+  },
+  "ergenelektronik.com": {
+   "mx": [
+    [
+     10,
+     "mail.ergenelektronik.com"
+    ]
+   ],
+   "a": [
+    "31.145.79.150"
+   ],
+   "status": "ok",
+   "cls": "主机商 cPanel 类邮箱",
+   "checked": "2026-10-29"
+  },
+  "esus-it.com": {
+   "mx": [
+    [
+     0,
+     "esusit-com01b.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "5.149.162.172"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "esus-it.pl": {
+   "mx": [
+    [
+     0,
+     "esusit-pl01b.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "5.149.162.172"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "europ-computer.com": {
+   "mx": [
+    [
+     10,
+     "mail.europ-computer.com"
+    ]
+   ],
+   "a": [
+    "51.255.79.204"
+   ],
+   "status": "ok",
+   "cls": "主机商 cPanel 类邮箱",
+   "checked": "2026-10-29"
+  },
+  "exertis-connect.fr": {
+   "mx": [
+    [
+     10,
+     "exertisconnect-fr01i.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "172.66.175.246",
+    "104.20.34.106"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "fauche.com": {
+   "mx": [
+    [
+     10,
+     "de-smtp-inbound-1.mimecast.com"
+    ],
+    [
+     20,
+     "de-smtp-inbound-2.mimecast.com"
+    ],
+    [
+     30,
+     "fauche-com.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "54.37.225.187"
+   ],
+   "status": "ok",
+   "cls": "Mimecast 企业网关",
+   "checked": "2026-10-29"
+  },
+  "fen.pl": {
+   "mx": [
+    [
+     10,
+     "mx-01-eu-west-1.prod.hydra.sophos.com"
+    ],
+    [
+     20,
+     "mx-02-eu-west-1.prod.hydra.sophos.com"
+    ]
+   ],
+   "a": [
+    "89.161.250.169"
+   ],
+   "status": "ok",
+   "cls": "Sophos 网关",
+   "checked": "2026-10-29"
+  },
+  "fiber24.net": {
+   "mx": [
+    [
+     10,
+     "mail.fiber24.net"
+    ]
+   ],
+   "a": [
+    "104.21.11.93",
+    "172.67.165.182"
+   ],
+   "status": "ok",
+   "cls": "主机商 cPanel 类邮箱",
+   "checked": "2026-10-29"
+  },
+  "fiberworks.no": {
+   "mx": [
+    [
+     1,
+     "fiberworks-no.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "188.94.217.176"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "fonex.pl": {
+   "mx": [
+    [
+     10,
+     "mx-1.dpoczta.pl"
+    ],
+    [
+     10,
+     "mx-2.dpoczta.pl"
+    ]
+   ],
+   "a": [
+    "104.21.9.99",
+    "172.67.189.55"
+   ],
+   "status": "ok",
+   "cls": "其他主机商邮箱（mx-1.dpoczta.pl）",
+   "checked": "2026-10-29"
+  },
+  "gatewaycomunicaciones.es": {
+   "mx": [
+    [
+     10,
+     "mail.gatewaycomunicaciones.es"
+    ]
+   ],
+   "a": [
+    "91.146.99.78"
+   ],
+   "status": "ok",
+   "cls": "同域名 MX → 托管在 ipronode.es",
+   "checked": "2026-10-29",
+   "mx_ip": "91.146.99.78",
+   "mx_ptr": "server1.ipronode.es"
+  },
+  "gelecekbt.com": {
+   "mx": [
+    [
+     0,
+     "mail.gelecekbt.com"
+    ]
+   ],
+   "a": [
+    "195.201.213.28"
+   ],
+   "status": "ok",
+   "cls": "主机商 cPanel 类邮箱",
+   "checked": "2026-10-29"
+  },
+  "globall.ca": {
+   "mx": [
+    [
+     10,
+     "mx.spamexperts.com"
+    ],
+    [
+     20,
+     "fallbackmx.spamexperts.eu"
+    ],
+    [
+     30,
+     "astmx.spamexperts.net"
+    ]
+   ],
+   "a": [
+    "23.227.38.65"
+   ],
+   "status": "ok",
+   "cls": "SpamExperts 网关（主机商附带）",
+   "checked": "2026-10-29"
+  },
+  "inter-comp.pl": {
+   "mx": [
+    [
+     1,
+     "mx1.iq.pl"
+    ],
+    [
+     5,
+     "mail.iq.pl"
+    ]
+   ],
+   "a": [
+    "86.111.241.221"
+   ],
+   "status": "ok",
+   "cls": "其他主机商邮箱（mx1.iq.pl）",
+   "checked": "2026-10-29"
+  },
+  "intermedia.pt": {
+   "mx": [
+    [
+     10,
+     "mx1.intermedia.pt"
+    ]
+   ],
+   "a": [
+    "81.88.53.12"
+   ],
+   "status": "ok",
+   "cls": "同域名 MX → 托管在 register.it",
+   "checked": "2026-10-29",
+   "mx_ip": "81.88.48.101",
+   "mx_ptr": "massenet.register.it"
+  },
+  "ioctech.ca": {
+   "mx": [
+    [
+     0,
+     "mx.easymail.ca"
+    ]
+   ],
+   "a": [
+    "64.68.200.48"
+   ],
+   "status": "ok",
+   "cls": "其他主机商邮箱（mx.easymail.ca）",
+   "checked": "2026-10-29"
+  },
+  "ipc2u.com": {
+   "mx": [
+    [
+     10,
+     "mx4.antispam-post.ru"
+    ],
+    [
+     20,
+     "mx1.antispam-post.ru"
+    ]
+   ],
+   "a": [
+    "83.246.89.44"
+   ],
+   "status": "ok",
+   "cls": "其他主机商邮箱（mx4.antispam-post.ru）",
+   "checked": "2026-10-29"
+  },
+  "ipc2u.de": {
+   "mx": [
+    [
+     10,
+     "ex1.ipc2ugroup.com"
+    ],
+    [
+     20,
+     "ex1.ipc2ugroup.com"
+    ],
+    [
+     30,
+     "ex1.ipc2ugroup.com"
+    ]
+   ],
+   "a": [
+    "83.246.89.44"
+   ],
+   "status": "ok",
+   "cls": "其他主机商邮箱（ex1.ipc2ugroup.com）",
+   "checked": "2026-10-29"
+  },
+  "itamtech.com": {
+   "mx": [
+    [
+     0,
+     "itamtech-com.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "209.87.149.95"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "itm-components.co.uk": {
+   "mx": [
+    [
+     10,
+     "itmcomponents-co-uk0i.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "23.227.38.32"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "jampel.it": {
+   "mx": [
+    [
+     0,
+     "jampel-it.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "104.21.61.11",
+    "172.67.204.174"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "jlinks.com": {
+   "mx": [
+    [
+     10,
+     "mx1.biz.mail.yahoo.com"
+    ],
+    [
+     20,
+     "mx5.biz.mail.yahoo.com"
+    ]
+   ],
+   "a": [
+    "104.21.27.47",
+    "172.67.168.233"
+   ],
+   "status": "ok",
+   "cls": "Yahoo 小企业邮箱",
+   "checked": "2026-10-29"
+  },
+  "jpfidistribution.com": {
+   "mx": [
+    [
+     1,
+     "mx4.mail.ovh.net"
+    ],
+    [
+     10,
+     "mx3.mail.ovh.net"
+    ]
+   ],
+   "a": [
+    "104.21.45.244",
+    "172.67.221.37"
+   ],
+   "status": "ok",
+   "cls": "OVH 主机邮箱",
+   "checked": "2026-10-29"
+  },
+  "kamerovysvet.cz": {
+   "mx": [
+    [
+     10,
+     "mxavas.forpsi.com"
+    ]
+   ],
+   "a": [
+    "185.64.219.37"
+   ],
+   "status": "ok",
+   "cls": "捷克 / 斯洛伐克主机商邮箱",
+   "checked": "2026-10-29"
+  },
+  "kenex.cz": {
+   "mx": [
+    [
+     10,
+     "mx1.myshoptet.com"
+    ],
+    [
+     20,
+     "mx2.myshoptet.com"
+    ]
+   ],
+   "a": [
+    "185.64.219.37"
+   ],
+   "status": "ok",
+   "cls": "其他主机商邮箱（mx1.myshoptet.com）",
+   "checked": "2026-10-29"
+  },
+  "klinger.fi": {
+   "mx": [
+    [
+     10,
+     "Klinger-fi.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "194.137.84.93"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "kyma.it": {
+   "mx": [
+    [
+     10,
+     "mx.kyma.it"
+    ]
+   ],
+   "a": [
+    "176.110.111.27"
+   ],
+   "status": "ok",
+   "cls": "同域名 MX → 托管在 aruba.it",
+   "checked": "2026-10-29",
+   "mx_ip": "62.149.128.154",
+   "mx_ptr": "mxd7.aruba.it"
+  },
+  "lan.hu": {
+   "mx": [
+    [
+     0,
+     "lan-hu.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "34.254.44.104"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "lancomat.cz": {
+   "mx": [
+    [
+     0,
+     "lancomat-cz.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "46.243.48.60"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "lastmilegear.com": {
+   "mx": [
+    [
+     10,
+     "mx1-us1.ppe-hosted.com"
+    ],
+    [
+     20,
+     "mx2-us1.ppe-hosted.com"
+    ]
+   ],
+   "a": [
+    "104.21.36.34",
+    "172.67.184.89"
+   ],
+   "status": "ok",
+   "cls": "Proofpoint 企业网关",
+   "checked": "2026-10-29"
+  },
+  "legalmail.it": {
+   "mx": [
+    [
+     10,
+     "mx.cert.legalmail.it"
+    ]
+   ],
+   "a": [
+    "75.2.126.117"
+   ],
+   "status": "ok",
+   "cls": "自建 / 同域名邮件服务器",
+   "checked": "2026-10-29",
+   "mx_ip": "185.34.250.7",
+   "mx_ptr": "mx-az-nit001.cert.legalmail.it"
+  },
+  "leteng.no": {
+   "mx": [
+    [
+     0,
+     "leteng-no.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "185.83.193.110"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "linhaw.com": {
+   "mx": [
+    [
+     0,
+     "linhaw-com.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "104.21.51.83",
+    "172.67.177.148"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "linhawstore.com": {
+   "mx": [],
+   "a": [
+    "172.67.159.140",
+    "104.21.58.121"
+   ],
+   "status": "no_mx",
+   "cls": "",
+   "checked": "2026-10-29"
+  },
+  "linktechs.net": {
+   "mx": [
+    [
+     5,
+     "filter.linktechs.email"
+    ]
+   ],
+   "a": [
+    "139.60.210.8"
+   ],
+   "status": "ok",
+   "cls": "其他主机商邮箱（filter.linktechs.email）",
+   "checked": "2026-10-29"
+  },
+  "linktechs.net（商店": {
+   "mx": [],
+   "a": [],
+   "status": "nxdomain",
+   "cls": "",
+   "checked": "2026-10-29"
+  },
+  "linktechs.net（待补证）": {
+   "mx": [],
+   "a": [],
+   "status": "nxdomain",
+   "cls": "",
+   "checked": "2026-10-29"
+  },
+  "losan.cz": {
+   "mx": [
+    [
+     0,
+     "losan-cz.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "104.21.91.9",
+    "172.67.164.65"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "lwl-shop24.de": {
+   "mx": [
+    [
+     10,
+     "dedi6633.your-server.de"
+    ]
+   ],
+   "a": [
+    "104.26.8.209",
+    "104.26.9.209",
+    "172.67.71.35"
+   ],
+   "status": "ok",
+   "cls": "其他主机商邮箱（dedi6633.your-server.de）",
+   "checked": "2026-10-29"
+  },
+  "mader.cz": {
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "aspmx2.googlemail.com"
+    ]
+   ],
+   "a": [
+    "104.21.58.242",
+    "172.67.166.71"
+   ],
+   "status": "ok",
+   "cls": "Google Workspace",
+   "checked": "2026-10-29"
+  },
+  "marcomweb.it": {
+   "mx": [
+    [
+     10,
+     "aspmx.l.google.com"
+    ],
+    [
+     20,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     20,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     30,
+     "alt3.aspmx.l.google.com"
+    ]
+   ],
+   "a": [
+    "172.67.215.215",
+    "104.21.43.15"
+   ],
+   "status": "ok",
+   "cls": "Google Workspace",
+   "checked": "2026-10-29"
+  },
+  "marcomweb.it（商店": {
+   "mx": [],
+   "a": [],
+   "status": "nxdomain",
+   "cls": "",
+   "checked": "2026-10-29"
+  },
+  "marugged.com": {
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ]
+   ],
+   "a": [
+    "172.67.212.240",
+    "104.21.35.35"
+   ],
+   "status": "ok",
+   "cls": "Google Workspace",
+   "checked": "2026-10-29"
+  },
+  "media-konwertery.pl": {
+   "mx": [
+    [
+     1,
+     "mx1.iq.pl"
+    ],
+    [
+     5,
+     "mail.iq.pl"
+    ]
+   ],
+   "a": [
+    "86.111.241.221"
+   ],
+   "status": "ok",
+   "cls": "其他主机商邮箱（mx1.iq.pl）",
+   "checked": "2026-10-29"
+  },
+  "microdata.fi": {
+   "mx": [
+    [
+     10,
+     "mail.microdata.fi"
+    ]
+   ],
+   "a": [
+    "185.179.116.190"
+   ],
+   "status": "ok",
+   "cls": "同域名 MX → 托管在 planeettaweb.fi",
+   "checked": "2026-10-29",
+   "mx_ip": "185.179.116.190",
+   "mx_ptr": "panel16.planeettaweb.fi"
+  },
+  "microsam.ca": {
+   "mx": [],
+   "a": [],
+   "status": "nxdomain",
+   "cls": "",
+   "checked": "2026-10-29"
+  },
+  "millsltd.com": {
+   "mx": [
+    [
+     10,
+     "eu-smtp-inbound-1.mimecast.com"
+    ],
+    [
+     10,
+     "eu-smtp-inbound-2.mimecast.com"
+    ]
+   ],
+   "a": [
+    "188.166.137.235"
+   ],
+   "status": "ok",
+   "cls": "Mimecast 企业网关",
+   "checked": "2026-10-29"
+  },
+  "morele.net": {
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "aspmx2.googlemail.com"
+    ]
+   ],
+   "a": [
+    "104.18.10.64",
+    "104.18.11.64"
+   ],
+   "status": "ok",
+   "cls": "Google Workspace",
+   "checked": "2026-10-29"
+  },
+  "multiproject.com.pl": {
+   "mx": [
+    [
+     10,
+     "mail.multiproject.com.pl"
+    ]
+   ],
+   "a": [
+    "91.200.32.41"
+   ],
+   "status": "ok",
+   "cls": "同域名 MX → 托管在 easyisp.pl",
+   "checked": "2026-10-29",
+   "mx_ip": "91.200.32.41",
+   "mx_ptr": "wydra.easyisp.pl"
+  },
+  "nassaunationalcable.com": {
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "aspmx2.googlemail.com"
+    ]
+   ],
+   "a": [
+    "23.227.38.32"
+   ],
+   "status": "ok",
+   "cls": "Google Workspace",
+   "checked": "2026-10-29"
+  },
+  "neteon.net": {
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ]
+   ],
+   "a": [
+    "198.202.211.1"
+   ],
+   "status": "ok",
+   "cls": "Google Workspace",
+   "checked": "2026-10-29"
+  },
+  "netram.de": {
+   "mx": [
+    [
+     0,
+     "netram-de.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "192.124.249.25",
+    "92.205.171.53"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "netwalker.fr": {
+   "mx": [
+    [
+     10,
+     "vade-mx-fr01.hornetsecurity.com"
+    ],
+    [
+     10,
+     "vade-mx-fr02.hornetsecurity.com"
+    ],
+    [
+     20,
+     "vade-mx-eu-fallback01.hornetsecurity.com"
+    ],
+    [
+     20,
+     "vade-mx-eu-fallback02.hornetsecurity.com"
+    ]
+   ],
+   "a": [
+    "185.125.27.121"
+   ],
+   "status": "ok",
+   "cls": "Hornetsecurity 网关",
+   "checked": "2026-10-29"
+  },
+  "netwalkerstore.com": {
+   "mx": [
+    [
+     10,
+     "vade-mx-fr01.hornetsecurity.com"
+    ],
+    [
+     10,
+     "vade-mx-fr02.hornetsecurity.com"
+    ],
+    [
+     20,
+     "vade-mx-eu-fallback01.hornetsecurity.com"
+    ],
+    [
+     20,
+     "vade-mx-eu-fallback02.hornetsecurity.com"
+    ]
+   ],
+   "a": [
+    "89.106.200.1"
+   ],
+   "status": "ok",
+   "cls": "Hornetsecurity 网关",
+   "checked": "2026-10-29"
+  },
+  "networkcamerastore.com": {
+   "mx": [
+    [
+     0,
+     "networkcamerastore-com.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "23.227.38.32"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "noktaelektronik.net": {
+   "mx": [
+    [
+     10,
+     "mail.noktaelektronik.net"
+    ]
+   ],
+   "a": [
+    "185.48.180.244"
+   ],
+   "status": "ok",
+   "cls": "主机商 cPanel 类邮箱",
+   "checked": "2026-10-29"
+  },
+  "nsidistribution.com": {
+   "mx": [
+    [
+     0,
+     "nsidistribution-com.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "104.21.58.216",
+    "172.67.207.245"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "oksa.co.uk": {
+   "mx": [
+    [
+     10,
+     "mx.zoho.com"
+    ],
+    [
+     20,
+     "mx2.zoho.com"
+    ],
+    [
+     50,
+     "mx3.zoho.com"
+    ]
+   ],
+   "a": [
+    "160.153.0.63"
+   ],
+   "status": "ok",
+   "cls": "Zoho Mail",
+   "checked": "2026-10-29"
+  },
+  "oprema.co.uk": {
+   "mx": [
+    [
+     10,
+     "oprema-co-uk.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "80.92.65.137"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "optoplast.org": {
+   "mx": [
+    [
+     0,
+     "optoplast-org.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "80.88.87.223"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "paragonnetworks.co.uk": {
+   "mx": [
+    [
+     0,
+     "smtp-in.iomartmail.com"
+    ],
+    [
+     20,
+     "mta1.iomartmail.com"
+    ],
+    [
+     30,
+     "mta2.iomartmail.com"
+    ],
+    [
+     40,
+     "mta3.iomartmail.com"
+    ]
+   ],
+   "a": [
+    "51.104.229.147"
+   ],
+   "status": "ok",
+   "cls": "其他主机商邮箱（smtp-in.iomartmail.com）",
+   "checked": "2026-10-29"
+  },
+  "pcvcomp.cz": {
+   "mx": [
+    [
+     0,
+     "pcvcomp-cz.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "92.62.226.5"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "pec.marcomweb.it": {
+   "mx": [
+    [
+     10,
+     "mx.pec.aruba.it"
+    ]
+   ],
+   "a": [],
+   "status": "ok",
+   "cls": "意大利主机商邮箱（Aruba/Register.it）",
+   "checked": "2026-10-29"
+  },
+  "planet-germany.de": {
+   "mx": [
+    [
+     0,
+     "planetgermany-de01e.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "217.160.0.197"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "planet-shop.gr": {
+   "mx": [
+    [
+     0,
+     "mail.planet-shop.gr"
+    ]
+   ],
+   "a": [
+    "172.67.169.2",
+    "104.21.54.199"
+   ],
+   "status": "ok",
+   "cls": "同域名 MX → 托管在 nastas.gr",
+   "checked": "2026-10-29",
+   "mx_ip": "91.98.37.124",
+   "mx_ptr": "srv2.nastas.gr"
+  },
+  "planet-tech.cz": {
+   "mx": [
+    [
+     0,
+     "planettech-cz01e.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "81.19.8.49"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "planet-technology.cz": {
+   "mx": [],
+   "a": [
+    "81.19.8.49"
+   ],
+   "status": "no_mx",
+   "cls": "",
+   "checked": "2026-10-29"
+  },
+  "planet.fen.pl": {
+   "mx": [
+    [
+     10,
+     "fen.home.pl"
+    ]
+   ],
+   "a": [],
+   "status": "ok",
+   "cls": "波兰主机商邮箱",
+   "checked": "2026-10-29"
+  },
+  "planet.neteon.net": {
+   "mx": [],
+   "a": [
+    "192.200.160.17"
+   ],
+   "status": "no_mx",
+   "cls": "",
+   "checked": "2026-10-29"
+  },
+  "planet.pl": {
+   "mx": [],
+   "a": [],
+   "status": "dead",
+   "cls": "",
+   "checked": "2026-10-29"
+  },
+  "planet.spectra.de": {
+   "mx": [],
+   "a": [
+    "78.46.85.46"
+   ],
+   "status": "no_mx",
+   "cls": "",
+   "checked": "2026-10-29"
+  },
+  "planetechusa.com": {
+   "mx": [
+    [
+     0,
+     "planetechusa-com.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "104.21.79.248",
+    "172.67.150.84"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "platinummicro.com": {
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "aspmx2.googlemail.com"
+    ]
+   ],
+   "a": [
+    "23.227.38.65"
+   ],
+   "status": "ok",
+   "cls": "Google Workspace",
+   "checked": "2026-10-29"
+  },
+  "powerbizt.hu": {
+   "mx": [
+    [
+     0,
+     "powerbizt-hu.mail.protection.outlook.com"
+    ],
+    [
+     30,
+     "backup.powerbizt.hu"
+    ]
+   ],
+   "a": [
+    "185.187.73.242"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "proficomms.cz": {
+   "mx": [
+    [
+     1,
+     "relay.zoner.com"
+    ],
+    [
+     10,
+     "10mx.zoner.com"
+    ],
+    [
+     15,
+     "15mx.zoner.com"
+    ]
+   ],
+   "a": [
+    "46.243.49.9"
+   ],
+   "status": "ok",
+   "cls": "其他主机商邮箱（relay.zoner.com）",
+   "checked": "2026-10-29"
+  },
+  "provu.co.uk": {
+   "mx": [
+    [
+     0,
+     "provu-co-uk.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "46.235.225.189",
+    "93.93.129.174"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "pulsesupply.com": {
+   "mx": [
+    [
+     0,
+     "mail.pulsesupply.com"
+    ]
+   ],
+   "a": [
+    "192.124.249.118"
+   ],
+   "status": "ok",
+   "cls": "主机商 cPanel 类邮箱",
+   "checked": "2026-10-29"
+  },
+  "redcorp.com": {
+   "mx": [
+    [
+     10,
+     "aspmx.l.google.com"
+    ],
+    [
+     20,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     20,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     30,
+     "aspmx2.googlemail.com"
+    ]
+   ],
+   "a": [
+    "195.13.14.51"
+   ],
+   "status": "ok",
+   "cls": "Google Workspace",
+   "checked": "2026-10-29"
+  },
+  "rfog.pl": {
+   "mx": [
+    [
+     10,
+     "mail.rfog.pl"
+    ],
+    [
+     10,
+     "rfog.pl"
+    ]
+   ],
+   "a": [
+    "46.4.33.245"
+   ],
+   "status": "ok",
+   "cls": "同域名 MX → 托管在 net.pl",
+   "checked": "2026-10-29",
+   "mx_ip": "46.4.33.245",
+   "mx_ptr": "hd-081.stpl.net.pl"
+  },
+  "rimaelektronik.com": {
+   "mx": [
+    [
+     10,
+     "mx.zoho.eu"
+    ],
+    [
+     20,
+     "mx2.zoho.eu"
+    ],
+    [
+     30,
+     "mx3.zoho.eu"
+    ]
+   ],
+   "a": [
+    "135.181.91.44"
+   ],
+   "status": "ok",
+   "cls": "Zoho Mail",
+   "checked": "2026-10-29"
+  },
+  "saratota.com": {
+   "mx": [
+    [
+     0,
+     "saratota-com.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "79.170.44.103"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "screenmoove.com": {
+   "mx": [
+    [
+     0,
+     "screenmoove-com.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "104.21.77.84",
+    "172.67.205.190"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "senetic.be": {
+   "mx": [
+    [
+     10,
+     "senetic-be.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "104.18.5.232",
+    "104.18.4.232"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "senetic.pl": {
+   "mx": [
+    [
+     10,
+     "senetic-pl.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "104.18.24.89",
+    "104.18.25.89"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "shop.fiber24.net": {
+   "mx": [],
+   "a": [
+    "172.67.165.182",
+    "104.21.11.93"
+   ],
+   "status": "no_mx",
+   "cls": "",
+   "checked": "2026-10-29"
+  },
+  "shop.linktechs.net）": {
+   "mx": [],
+   "a": [],
+   "status": "nxdomain",
+   "cls": "",
+   "checked": "2026-10-29"
+  },
+  "shop.marcomweb.it）": {
+   "mx": [],
+   "a": [],
+   "status": "nxdomain",
+   "cls": "",
+   "checked": "2026-10-29"
+  },
+  "shop4power.nl": {
+   "mx": [
+    [
+     10,
+     "shop4power-nl.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "162.159.134.42"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "sirtel.it": {
+   "mx": [
+    [
+     10,
+     "mx1.ot-mail.it"
+    ],
+    [
+     20,
+     "mailbox15.omitech.it"
+    ]
+   ],
+   "a": [
+    "80.241.231.23"
+   ],
+   "status": "ok",
+   "cls": "其他主机商邮箱（mx1.ot-mail.it）",
+   "checked": "2026-10-29"
+  },
+  "sistel-networking.it": {
+   "mx": [
+    [
+     10,
+     "mx.sistel-networking.it"
+    ]
+   ],
+   "a": [
+    "89.46.109.52"
+   ],
+   "status": "ok",
+   "cls": "同域名 MX → 托管在 aruba.it",
+   "checked": "2026-10-29",
+   "mx_ip": "62.149.128.163",
+   "mx_ptr": "mxd2.aruba.it"
+  },
+  "softcom.cz": {
+   "mx": [
+    [
+     10,
+     "mail2.softcom.cz"
+    ],
+    [
+     20,
+     "mail1.softcom.cz"
+    ],
+    [
+     25,
+     "mail.softcom.cz"
+    ]
+   ],
+   "a": [
+    "178.17.1.243"
+   ],
+   "status": "ok",
+   "cls": "自建 / 同域名邮件服务器",
+   "checked": "2026-10-29",
+   "mx_ip": "178.17.1.244",
+   "mx_ptr": "mail2.softcom.cz"
+  },
+  "solimedia.net": {
+   "mx": [
+    [
+     0,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "aspmx2.googlemail.com"
+    ]
+   ],
+   "a": [
+    "104.26.0.223",
+    "172.67.75.175",
+    "104.26.1.223"
+   ],
+   "status": "ok",
+   "cls": "Google Workspace",
+   "checked": "2026-10-29"
+  },
+  "soundpeople.no": {
+   "mx": [
+    [
+     10,
+     "soundpeople-no.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "193.32.110.209"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "spectra.de": {
+   "mx": [
+    [
+     10,
+     "pmgw.smtpgate.net"
+    ]
+   ],
+   "a": [
+    "78.46.85.46"
+   ],
+   "status": "ok",
+   "cls": "其他主机商邮箱（pmgw.smtpgate.net）",
+   "checked": "2026-10-29"
+  },
+  "startech.com": {
+   "mx": [
+    [
+     10,
+     "startech-com.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "172.66.145.149",
+    "104.20.35.14"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "switchsfp.com": {
+   "mx": [
+    [
+     0,
+     "switchsfp-com.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "23.227.38.32"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "technicalreality.co.uk": {
+   "mx": [
+    [
+     10,
+     "technicalreality-co-uk.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "telecomcreations.com": {
+   "mx": [
+    [
+     10,
+     "telecomcreations-com.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "23.227.38.65"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "triotronik.com": {
+   "mx": [
+    [
+     0,
+     "triotronik-com.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "89.107.187.48"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "unifibre.it": {
+   "mx": [
+    [
+     10,
+     "mail.register.it"
+    ]
+   ],
+   "a": [
+    "85.234.130.222"
+   ],
+   "status": "ok",
+   "cls": "意大利主机商邮箱（Aruba/Register.it）",
+   "checked": "2026-10-29"
+  },
+  "ute.de": {
+   "mx": [
+    [
+     10,
+     "mx00.ionos.de"
+    ],
+    [
+     10,
+     "mx01.ionos.de"
+    ]
+   ],
+   "a": [
+    "217.160.0.195"
+   ],
+   "status": "ok",
+   "cls": "IONOS 主机邮箱",
+   "checked": "2026-10-29"
+  },
+  "vanco.cz": {
+   "mx": [
+    [
+     0,
+     "vanco-cz.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "80.250.17.17"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "vcssmarthomes.com": {
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "aspmx2.googlemail.com"
+    ]
+   ],
+   "a": [
+    "3.33.251.168",
+    "15.197.225.128"
+   ],
+   "status": "ok",
+   "cls": "Google Workspace",
+   "checked": "2026-10-29"
+  },
+  "versatek.com": {
+   "mx": [
+    [
+     0,
+     "versatek-com.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "64.23.150.22"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "versim.pl": {
+   "mx": [
+    [
+     0,
+     "versim-pl.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "85.128.223.8"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  },
+  "vise.it": {
+   "mx": [
+    [
+     10,
+     "aspmx.l.google.com"
+    ],
+    [
+     20,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     20,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     50,
+     "alt3.aspmx.l.google.com"
+    ]
+   ],
+   "a": [
+    "35.214.253.104"
+   ],
+   "status": "ok",
+   "cls": "Google Workspace",
+   "checked": "2026-10-29"
+  },
+  "visualcontrolsystems.co.uk": {
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt2.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ]
+   ],
+   "a": [
+    "141.193.213.10",
+    "141.193.213.11"
+   ],
+   "status": "ok",
+   "cls": "Google Workspace",
+   "checked": "2026-10-29"
+  },
+  "voip.world": {
+   "mx": [
+    [
+     10,
+     "mx01.mxgate.org"
+    ],
+    [
+     20,
+     "mx02.mxgate.org"
+    ]
+   ],
+   "a": [
+    "185.226.241.97"
+   ],
+   "status": "ok",
+   "cls": "其他主机商邮箱（mx01.mxgate.org）",
+   "checked": "2026-10-29"
+  },
+  "voip24sklep.pl": {
+   "mx": [
+    [
+     10,
+     "mail.voip24sklep.pl"
+    ]
+   ],
+   "a": [
+    "46.41.159.171",
+    "46.41.159.221"
+   ],
+   "status": "ok",
+   "cls": "同域名 MX → 托管在 cyber-folks.pl",
+   "checked": "2026-10-29",
+   "mx_ip": "195.78.67.60",
+   "mx_ptr": "s4.cyber-folks.pl"
+  },
+  "w3cam.fr": {
+   "mx": [
+    [
+     1,
+     "aspmx.l.google.com"
+    ],
+    [
+     5,
+     "alt1.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt3.aspmx.l.google.com"
+    ],
+    [
+     10,
+     "alt4.aspmx.l.google.com"
+    ]
+   ],
+   "a": [
+    "87.98.158.148"
+   ],
+   "status": "ok",
+   "cls": "Google Workspace",
+   "checked": "2026-10-29"
+  },
+  "wavonline.com": {
+   "mx": [
+    [
+     10,
+     "mx1-us1.ppe-hosted.com"
+    ],
+    [
+     20,
+     "mx2-us1.ppe-hosted.com"
+    ]
+   ],
+   "a": [
+    "23.59.88.240",
+    "23.59.88.232"
+   ],
+   "status": "ok",
+   "cls": "Proofpoint 企业网关",
+   "checked": "2026-10-29"
+  },
+  "wifi-shop.cz": {
+   "mx": [
+    [
+     10,
+     "server.nethouse.cz"
+    ]
+   ],
+   "a": [
+    "80.250.30.13"
+   ],
+   "status": "ok",
+   "cls": "其他主机商邮箱（server.nethouse.cz）",
+   "checked": "2026-10-29"
+  },
+  "wisp.pl": {
+   "mx": [
+    [
+     10,
+     "www.allnet.pl"
+    ]
+   ],
+   "a": [
+    "147.135.199.110"
+   ],
+   "status": "ok",
+   "cls": "其他主机商邮箱（www.allnet.pl）",
+   "checked": "2026-10-29"
+  },
+  "woodcomm.ie": {
+   "mx": [
+    [
+     0,
+     "hcs-ie-1.fortimailcloud.com"
+    ]
+   ],
+   "a": [
+    "148.230.121.136"
+   ],
+   "status": "ok",
+   "cls": "FortiMail 网关",
+   "checked": "2026-10-29"
+  },
+  "young.hu": {
+   "mx": [
+    [
+     10,
+     "young-hu.mail.protection.outlook.com"
+    ]
+   ],
+   "a": [
+    "195.228.75.242"
+   ],
+   "status": "ok",
+   "cls": "Microsoft 365",
+   "checked": "2026-10-29"
+  }
+ }
+}

@@ -5,6 +5,8 @@
 > **类型**：分销/电商 + ISP 网络工程服务（MikroTik Master Distributor；面向 WISP / 光纤 ISP / MSP 的网络工程、RouterOS 培训与设备商店；自有 PowerLink PoE 线）　|　**PLANET 关联**：linktechs.net 商店（productcart）PLANET 在售：GS-2240-24T4X $449.00、IGS-5225-20T4C2X $1,216.00、XGSW-28040 $772.00、GS-4210-8P2S $244.00（另见 Antaira 类 LNP-0802C-SFP）——商用 L2+ 万兆上联 + 工业 L2+/L3 两线　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ⚠️ **Mikrotik 仓库已有档案 C-227（Mikrotik 侧 C「太难」挂起未触达 → 本仓首触不与「只触达一次」规则冲突；按 Q-05 通则由 Planet 仓首触）**：T06 ② 例外 —— 首触由本仓发出（仍只发一次），Mikrotik 侧勿再发；回复后两仓同步状态。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：随主档留 C**（随 `XC-M292`）（闸 0 · DUP · 2026-10-29）：与 XC-M292 同一公司（Mikrotik 旧编号 C-227）→ 随主档：keep_C（闸 1，巨头 / 大集团 / 大 VAR 守界「大的搞不定」（分销（MikroTik 官方）  太难·规模过大/决策链长 超大集团 / 决策链太长（Saga 守界：大集团搞不定））→ 留 C 长线不 pass）
 
 ```yaml structured_profile
 code: PB-064
@@ -16,7 +18,7 @@ p1: STC-424XGGM
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: C-227（Mikrotik 侧 C「太难」挂起未触达 → 本仓首触不与「只触达一次」规则冲突；按 Q-05 通则由 Planet 仓首触）
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -193,4 +195,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：W15 目录型矿脉：Mikrotik 池域名 × site: planet switch（CZ-US-PL-FR-IT）　|　原始证据：batch/2026-10-20_W15_目录型矿脉_Mikrotik池反查_CZ-US-PL-FR-IT.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：W15 目录型矿脉：Mikrotik 池域名 × site: planet switch（CZ-US-PL-FR-IT）　|　原始证据：batch/2026-10-20_W15_目录型矿脉_Mikrotik池反查_CZ-US-PL-FR-IT.json　|　渲染：scripts/render.py 2026-10-29*

@@ -5,6 +5,8 @@
 > **类型**：工业自动化 / IIoT 分销商（2020-12 注册；远程 I/O、现场总线网关、智能电表、DAQ 板卡、工业 PC、KVM、工业以太网交换机；自述「UK-leading solutions provider and distributor」；PLANET 为其工业网络主品牌：类目「PLANET IGS Series (L2/L3 Managed Ring Switches)」+ 新闻页 + LinkedIn 推文）　|　**PLANET 关联**：oksa.co.uk：类目「PLANET IGS Series (L2/L3 Managed Ring Switches)」；商品页 IGS-801M（8×GE 工业管理）、ISW-514PTF £160.89、WGS-818HP £219.00、IGS-800T-PN £269.00、WGS-4215-8P2X、IGS-6325-5X1T、DCS-7342-32C2X £8,699.00；新闻页「Compact PROFINET Switch for Smarter Automation」（PLANET IGS-800T-PN）；LinkedIn 公司页多条「our range of PLANET Technology networking products and solutions」推文　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ℹ️ Mikrotik 仓库无同户（—（Mikrotik 仓无此户；本仓 grep 0，Mikrotik CSV 命中为「notebooksandmore」子串噪音））；Gmail 查重判定 **非首触**（Elsa 账号群发已触达该域，见邮件段）→ 本仓发第一封具名信，收件人 / 主题须避让。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（随 `SB-176`）（闸 0 · DUP-AB · 2026-10-29）：与 SB-176（Saga B 级，本轮不筛 A/B）同一公司（同域名 oksa.co.uk）→ 随主档，不单独判；A/B 升级讨论时一并
 
 ```yaml structured_profile
 code: PB-081
@@ -16,7 +18,7 @@ p1: STI-280GM
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: —（Mikrotik 仓无此户；本仓 grep 0，Mikrotik CSV 命中为「notebooksandmore」子串噪音）
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -210,4 +212,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：W19 矿脉 ③ 扩面：PLANET 常销型号 × 价格 / 语言词反查（UK-PL-BE-DE-US）　|　原始证据：batch/2026-10-20_W19_矿脉③型号比价扩面_UK-PL-BE-DE-US.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：W19 矿脉 ③ 扩面：PLANET 常销型号 × 价格 / 语言词反查（UK-PL-BE-DE-US）　|　原始证据：batch/2026-10-20_W19_矿脉③型号比价扩面_UK-PL-BE-DE-US.json　|　渲染：scripts/render.py 2026-10-29*

@@ -5,6 +5,8 @@
 > **类型**：分销商（Exertis/DCC 集团法国网络批发）　|　**PLANET 关联**：批发目录含 PLANET IGS-801T 等　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ⚠️ **Mikrotik 仓库已有档案 C-185**：C 级两仓均不首触，本档只保留对照与证据。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：随主档留 C**（随 `XC-M250`）（闸 0 · DUP · 2026-10-29）：与 XC-M250 同一公司（Mikrotik 旧编号 C-185）→ 随主档：keep_C（闸 1，巨头 / 大集团 / 大 VAR 守界「大的搞不定」（分销（ComNet 授权）  太难·规模过大/决策链长 超大集团 / 决策链太长（Saga 守界：大集团搞不定））→ 留 C 长线不 pass）
 
 ```yaml structured_profile
 code: PC-004
@@ -16,7 +18,7 @@ p1: STI-080GE
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: C-185
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -154,4 +156,4 @@ updated: 2026-10-20
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json, batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json, batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json　|　渲染：scripts/render.py 2026-10-29*

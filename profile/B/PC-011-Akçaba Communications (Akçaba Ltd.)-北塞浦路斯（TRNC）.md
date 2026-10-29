@@ -3,6 +3,8 @@
 > **评级 B**　|　北塞浦路斯（TRNC） · Lefkoşa / Nicosia　|　档案编号 `PC-011`　|　优先级 ★★☆　|　状态：00-未触达
 >
 > **类型**：集成商/经销（2005 年起；通信交钥匙方案：TDM/IP PBX、布线、网络与安防；网店以美元标价销售 PLANET；约 18 人、营收约 $5.2M）　|　**PLANET 关联**：网店 shop.akcaba.com 在售 PLANET PL-GS-4210-24P2S（$550）、IGS-6325-24P4S（$1,350）、IGS-12040MT、IGS-5225-8P4S、POE-2400G　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：★ P 池 · 正式入池（档位 ○）**（闸 3 · G3 · 2026-10-29）：○ 通信集成 + 经销 25%：Akçaba Communications（Lefkoşa Tuna Sok. 4；+90 392 229 15 15；ZoomInfo 11–50 人 / $5.2M；20+ 年光纤 / 布线 / 通信交钥匙，客户含政府 / 酒店 / 学校 / 医院）部分坐实（TRNC 无公开登记）；PLANET 商用 + 工业 PoE 美元标价有库存；info@，联合创始人 Faize Akçaba 具名；T06 随土耳其 → 预付 100% 起步
 
 ```yaml structured_profile
 code: PC-011
@@ -14,7 +16,7 @@ p1: STC-424DGGPM-280W
 price_tier: 25%
 stage: 00-未触达
 mikrotik_ref: none
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -187,4 +189,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL　|　原始证据：batch/2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL　|　原始证据：batch/2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json　|　渲染：scripts/render.py 2026-10-29*

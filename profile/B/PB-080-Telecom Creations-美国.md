@@ -5,6 +5,8 @@
 > **类型**：通信设备电商（1998 年起；近 50,000 件新品 / 原厂翻新 / 翻新通信产品：NEC / Mitel 话机、Adtran、Valcom、Bogen、ICC、Klein / Greenlee 工具；PLANET 专区 1 187 件挂售「NEW IN THE BOX」）　|　**PLANET 关联**：telecomcreations.com/collections/planet：「Showing 1 to 24 of 1187 products」；GS-4210-24T2S（Stock# PN-GS-4210-24T2S）In Stock $247.07、GSW-4800 In Stock $474.32、IGS-10020MT In Stock $454.96、GSW-1602SF In Stock $294.62、ISW-504PS In Stock $294.48、ISW-504PT $264.54（原 $402.38）、FSD-803 In Stock $27.10、FGSW-2612PVM、IGS-801T、SW-804；商品页 published_at 2018-05、vendor-unknown → 多为 PLANET 老款、疑为分销目录 feed　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ℹ️ Mikrotik 仓库无同户（—（Mikrotik 仓无此户））：首触由本仓发出。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（闸 1 · G1 · 2026-10-29）：Telecom Creations（美国 50,000 SKU 通信电商，PLANET 页 2018 年建、多停产款）：目录 feed 型 → 留原档
 
 ```yaml structured_profile
 code: PB-080
@@ -16,7 +18,7 @@ p1: STC-424DGGM
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: —（Mikrotik 仓无此户）
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -210,4 +212,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：W18 矿脉 ①b 收官：OR 组剩余（US/CA/TR）+ 非 OR 剩余逐域复核 + 矿脉 ③ 型号比价试探（CA-US）　|　原始证据：batch/2026-10-20_W18_OR组与非OR剩余逐域复核及型号比价试探_CA-US.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：W18 矿脉 ①b 收官：OR 组剩余（US/CA/TR）+ 非 OR 剩余逐域复核 + 矿脉 ③ 型号比价试探（CA-US）　|　原始证据：batch/2026-10-20_W18_OR组与非OR剩余逐域复核及型号比价试探_CA-US.json　|　渲染：scripts/render.py 2026-10-29*

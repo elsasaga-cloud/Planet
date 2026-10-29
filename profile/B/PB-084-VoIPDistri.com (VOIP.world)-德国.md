@@ -5,6 +5,8 @@
 > **类型**：VoIP / 网络设备分销网店（2003 年成立；「Voice over IP Distribution」：话机、电话系统、VoIP 与网络解决方案；Planet 品牌页 /Planet_1 在售 PoE 交换机 / 注入器 / VDSL 转换器，部分「Available immediately」）　|　**PLANET 关联**：voip.world/Planet_1（搜索快照）：POE-1200G 399,77 €、GS-4210-48T4S 585,48 €（Net 492,00）「Available immediately, Delivery time 2-3 Workdays」、HPOE-1200G 450,30 €、POE-162S、POE-2400G 665,21 €；VDSL 页 C-820M 639 €、VC-231 / VC-231G、MC-1500R；eBay 店「Voice-over-IP.world」同售　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ℹ️ Mikrotik 仓库无同户（—（Mikrotik 仓无此户；本仓 grep 0））：首触由本仓发出。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（闸 1 · G1 · 2026-10-29）：VoIPDistri.com（德国个体企业 VoIP 网店，交换机 1 款在库）：个体 + 边线 → 留原档
 
 ```yaml structured_profile
 code: PB-084
@@ -16,7 +18,7 @@ p1: STC-448DGGM
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: —（Mikrotik 仓无此户；本仓 grep 0）
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -196,4 +198,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：W19 矿脉 ③ 扩面：PLANET 常销型号 × 价格 / 语言词反查（UK-PL-BE-DE-US）　|　原始证据：batch/2026-10-20_W19_矿脉③型号比价扩面_UK-PL-BE-DE-US.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：W19 矿脉 ③ 扩面：PLANET 常销型号 × 价格 / 语言词反查（UK-PL-BE-DE-US）　|　原始证据：batch/2026-10-20_W19_矿脉③型号比价扩面_UK-PL-BE-DE-US.json　|　渲染：scripts/render.py 2026-10-29*

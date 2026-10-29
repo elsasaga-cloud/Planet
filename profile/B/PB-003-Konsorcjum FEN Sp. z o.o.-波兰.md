@@ -3,6 +3,8 @@
 > **评级 B**　|　波兰 · Poznań　|　档案编号 `PB-003`　|　优先级 ★★　|　状态：00-未触达
 >
 > **类型**：分销商（IT/电信分销，PLANET 波兰官方分销）　|　**PLANET 关联**：运营 planet.fen.pl「Oficjalny Polski Dystrybutor Planet」，有测试设备与售前售后支持　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：★ P 池 · 正式入池（档位 ★）**（闸 3 · G3 · 2026-10-29）：★ 官方分销 20%：Konsorcjum FEN Sp. z o.o.（Poznań ul. Czarnkowska 13；KRS 0000196881，官网页脚）坐实；「Oficjalny Polski Dystrybutor Planet」专站 planet.fen.pl，带测试设备与售前售后；具名 AM bartosz.banaszak@fen.pl + sales@；波兰
 
 ```yaml structured_profile
 code: PB-003
@@ -14,7 +16,7 @@ p1: STC-424XGGPM-280W
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: none
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -172,4 +174,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json　|　渲染：scripts/render.py 2026-10-29*

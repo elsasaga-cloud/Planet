@@ -5,6 +5,8 @@
 > **类型**：分销（WISP/ISP 无线宽带、LTE、网络与 Wi-Fi 设备全服务分销；MikroTik 授权分销 2022；Last Mile Gear 2019 收购、2023-01-01 全并入 WAV LLC）　|　**PLANET 关联**：lastmilegear.com 商城 PLANET 产品页（XGSW-28040HP、IGS-501T，分类 Planet / Switches，页面 2019）；Mikrotik 仓库 A-546 WAV（ORing 授权）与 A-096 Last Mile Gear（Netonix 渠道）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ⚠️ **Mikrotik 仓库已有档案 A-546; A-096**：本档只补 PLANET 侧证据；联系策略以先建档案为准，勿重复首触。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（随 `XA-C0013`）（闸 0 · DUP-AB · 2026-10-29）：与 XA-C0013（External A 级，本轮不筛 A/B）同一公司（同域名 wavonline.com（External））→ 随主档，不单独判；A/B 升级讨论时一并
 
 ```yaml structured_profile
 code: PB-047
@@ -16,7 +18,7 @@ p1: STC-424XGGPM-280W
 price_tier: 20%
 stage: 10-已触达(S邮箱 去2·0回复)
 mikrotik_ref: A-546; A-096
-updated: 2026-10-22
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -175,4 +177,4 @@ updated: 2026-10-22
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：2026-10-20_W06_Mikrotik工业品牌渠道行核验与葡萄牙补点_US-UK-PT　|　原始证据：batch/2026-10-20_W06_Mikrotik工业品牌渠道行核验与葡萄牙补点_US-UK-PT.json　|　渲染：scripts/render.py 2026-10-22*
+*建档日期：2026-10-20　|　入库批次：2026-10-20_W06_Mikrotik工业品牌渠道行核验与葡萄牙补点_US-UK-PT　|　原始证据：batch/2026-10-20_W06_Mikrotik工业品牌渠道行核验与葡萄牙补点_US-UK-PT.json　|　渲染：scripts/render.py 2026-10-29*

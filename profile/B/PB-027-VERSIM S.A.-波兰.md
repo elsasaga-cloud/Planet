@@ -3,6 +3,8 @@
 > **评级 B**　|　波兰 · Poznań　|　档案编号 `PB-027`　|　优先级 ★★☆　|　状态：00-未触达
 >
 > **类型**：增值分销商（VAD；Extreme Networks 波兰分销、Gigaset DECT、安全/NAC 等；2017 年签 PLANET 分销协议）　|　**PLANET 关联**：2017 年官网公告「VERSIM S.A. dystrybutorem Planet Technology!」（完整产品组合入列）；第三方名录仍列「współpracuje z … Extreme Networks czy Planet Technology」　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（闸 1 · G1 · 2026-10-29）：VERSIM S.A.（波兰上市 VAD，Extreme Networks 分销；PLANET 现状待核）：VAD 偏大 + PLANET 在售待核 → 留原档巡检
 
 ```yaml structured_profile
 code: PB-027
@@ -14,7 +16,7 @@ p1: STC-424DGGPM-280W
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: none
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -179,4 +181,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ　|　原始证据：batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ　|　原始证据：batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json　|　渲染：scripts/render.py 2026-10-29*

@@ -3,6 +3,8 @@
 > **评级 B**　|　斯洛伐克 · Bratislava（Tomášikova 19；注册地 Geologická 34）　|　档案编号 `PB-060`　|　优先级 ★　|　状态：00-未触达
 >
 > **类型**：IT 硬件经纪/经销（新品 + 翻新 Cisco / HPE / Juniper / Huawei / Dell 等 15+ 品牌，面向终端企业、经销商、租赁公司与 MSP；自述 PLANET 授权伙伴，提供硬件 + 安装 + 售后；退换货覆盖 AT/CZ/DE/HU/PL/SK）　|　**PLANET 关联**：data-network.eu/buy_planet 整页 PLANET 产品线（L2+/L3 管理型、L2/L4、工业 DIN 导轨 / 机架 / PoE、工业无线与 5G 网关、媒体转换器），自称 "As DATA Group, we're proud authorized PLANET partners"；首页品牌墙含 PLANET logo 链接　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（闸 1 · G1 · 2026-10-29）：DATA GROUP SK（斯洛伐克 2 人翻新大牌经纪，2022 年设）：PLANET 为边线、经纪型 → 留原档
 
 ```yaml structured_profile
 code: PB-060
@@ -14,7 +16,7 @@ p1: STC-424DGGPM-280W
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: none
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -199,4 +201,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：2026-10-20_W13_新矿脉补挖_SK-PL（T17 继续挖）　|　原始证据：batch/2026-10-20_W13_新矿脉补挖_SK-PL.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：2026-10-20_W13_新矿脉补挖_SK-PL（T17 继续挖）　|　原始证据：batch/2026-10-20_W13_新矿脉补挖_SK-PL.json　|　渲染：scripts/render.py 2026-10-29*

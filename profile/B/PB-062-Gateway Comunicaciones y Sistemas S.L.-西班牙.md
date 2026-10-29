@@ -3,6 +3,8 @@
 > **评级 B**　|　西班牙 · Las Palmas de Gran Canaria（加那利群岛，El Sebadal 工业区）　|　档案编号 `PB-062`　|　优先级 ★　|　状态：00-未触达
 >
 > **类型**：分销/电商（面向安装商与电工的电信·安防·网络物料网店：Ajax 报警、Hikvision/Dahua/Safire 视频、Ubiquiti/TP-Link/Aruba/HPE/D-Link/Reyee 网络、Corning/Fluke/Wago 布线与仪表、UNI-T 仪器、机柜、Fonestar 扩声；PLANET 工业 DIN 导轨线 9 款在售）　|　**PLANET 关联**：PrestaShop 品牌页 /brand/33-planet-technology 列 9 款 PLANET：IGS-620TF、IGS-801T、IGS-1020TF、IGS-1600T、ISW-801T（工业无管理）、IGS-10020MT（工业管理型）、IGT-805AT（工业媒体转换）、PWR-40-24 / PWR-60-24（DIN 电源）——全部为工业线、全部非 PoE　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（闸 1 · G1 · 2026-10-29）：Gateway Comunicaciones（西班牙 4 人安防物料网店，CIF B35679638）：微型 → 留原档巡检
 
 ```yaml structured_profile
 code: PB-062
@@ -14,7 +16,7 @@ p1: STI-280GE
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: none
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -213,4 +215,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：2026-10-20_W14_工具层矿脉_ES（T18 do your best）　|　原始证据：batch/2026-10-20_W14_工具层矿脉_ES.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：2026-10-20_W14_工具层矿脉_ES（T18 do your best）　|　原始证据：batch/2026-10-20_W14_工具层矿脉_ES.json　|　渲染：scripts/render.py 2026-10-29*

@@ -3,6 +3,8 @@
 > **评级 B**　|　波兰 · Częstochowa　|　档案编号 `PB-057`　|　优先级 ★★　|　状态：00-未触达
 >
 > **类型**：安防分销商/电商（1994 年起电子安防系统分销：CCTV、报警、对讲/可视对讲、门禁、消防/排烟、门控自动化、智能家居；SATEL 授权分销；B2B 安装商与批发合作计划）　|　**PLANET 关联**：fonex.pl PLANET 商品在售：GSD-2022P（16 PoE+ + 2 RJ45 + 2 SFP，871 zł，免运费、「Przewidywana dostawa: we wtorek」现货）、WGS-4215-8P2S（「Switch PoE przemysłowy」类目，8 PoE+ 2 SFP 工业壁挂管理型）；类目路径 Telewizja przemysłowa › Elementy sieci LAN/WAN › Switch › Switch PoE　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（随 `SB-1124`）（闸 0 · DUP-AB · 2026-10-29）：与 SB-1124（Saga B 级，本轮不筛 A/B）同一公司（同域名 fonex.pl）→ 随主档，不单独判；A/B 升级讨论时一并
 
 ```yaml structured_profile
 code: PB-057
@@ -14,7 +16,7 @@ p1: STI-288DGGPM
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: none
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -188,4 +190,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：2026-10-20_W10_证据老化回查与安防收尾_IT-PL　|　原始证据：batch/2026-10-20_W10_证据老化回查与安防收尾_IT-PL.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：2026-10-20_W10_证据老化回查与安防收尾_IT-PL　|　原始证据：batch/2026-10-20_W10_证据老化回查与安防收尾_IT-PL.json　|　渲染：scripts/render.py 2026-10-29*

@@ -5,6 +5,8 @@
 > **类型**：专业网店/经销（自述「Power Supply, Switches & Planet Ethernet Specialist」「De Power Specialist van Nederland & België」；UPS/电池 + PLANET 交换机 + E-Link 交换机；NL/BE 发货，多数现货）　|　**PLANET 关联**：官网自述「Shop4power levert Planet Ethernet en E-Link Switches voor al uw toepassingen」；PLANET 品牌区 + 产品页（IGS-5225-8P2S2X 现货、SGS-5240-20S4C4XR、FSD-2405）；Mikrotik 仓库 C-259 标「分销+自有品牌 PLANET + E-Link」　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ⚠️ **Mikrotik 仓库已有档案 C-259**：T06 ② 例外 —— 首触由本仓发出（仍只发一次），Mikrotik 侧勿再发；回复后两仓同步状态。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（随 `SB-779`）（闸 0 · DUP-AB · 2026-10-29）：与 SB-779（Saga B 级，本轮不筛 A/B）同一公司（同域名 shop4power.nl）→ 随主档，不单独判；A/B 升级讨论时一并
 
 ```yaml structured_profile
 code: PB-045
@@ -16,7 +18,7 @@ p1: STI-488XGGPM
 price_tier: 20%
 stage: 10-已触达(S邮箱 去7·0回复)
 mikrotik_ref: C-259
-updated: 2026-10-22
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -192,4 +194,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL　|　原始证据：batch/2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL.json, batch/2026-10-20_W06_Mikrotik工业品牌渠道行核验与葡萄牙补点_US-UK-PT.json　|　渲染：scripts/render.py 2026-10-22*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL　|　原始证据：batch/2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL.json, batch/2026-10-20_W06_Mikrotik工业品牌渠道行核验与葡萄牙补点_US-UK-PT.json　|　渲染：scripts/render.py 2026-10-29*

@@ -5,6 +5,8 @@
 > **类型**：安防/监控分销 + 连锁门店与网店（自称「lider systemów zabezpieczeń i monitoringu」；MikroTik Master；Ubiquiti 官方 reseller）　|　**PLANET 关联**：eltrox.pl 商品页：SWITCH PLANET FNSW-1600P POE（819 zł，状态「Niedostępny」）、REPEATER PLANET POE-E304（337 zł）→ PLANET 曾上架/在列，当前页面显示缺货；Mikrotik 仓库 B-274（MikroTik Master）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ⚠️ **Mikrotik 仓库已有档案 B-274**：本档只补 PLANET 侧证据；联系策略以先建档案为准，勿重复首触。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：★ P 池 · 正式入池**（随 `SC-2510`）（闸 0 · DUP · 2026-10-29）：与 SC-2510 同一公司（同域名 eltrox.pl）→ 随主档：pool（闸 3，★ P 池正式入池（档位 ★★）：★★ 首选 · OEM 30%：ELTROX Sp. z o.o.（KRS 0000175807；NIP 6462490527；Częstochowa；2003 起；36 直营 + 52 合作门店；批发品牌）
 
 ```yaml structured_profile
 code: PB-051
@@ -16,7 +18,7 @@ p1: STC-28DGGPM
 price_tier: 20%
 stage: 10-已触达(S邮箱 去11·0回复)
 mikrotik_ref: B-274
-updated: 2026-10-22
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -162,4 +164,4 @@ updated: 2026-10-22
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：2026-10-20_W07_Mikrotik分销行PLANET核验与多国分组查询_CZ-PL　|　原始证据：batch/2026-10-20_W07_Mikrotik分销行PLANET核验与多国分组查询_CZ-PL.json　|　渲染：scripts/render.py 2026-10-22*
+*建档日期：2026-10-20　|　入库批次：2026-10-20_W07_Mikrotik分销行PLANET核验与多国分组查询_CZ-PL　|　原始证据：batch/2026-10-20_W07_Mikrotik分销行PLANET核验与多国分组查询_CZ-PL.json　|　渲染：scripts/render.py 2026-10-29*

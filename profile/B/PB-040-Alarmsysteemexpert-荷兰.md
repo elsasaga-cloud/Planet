@@ -3,6 +3,8 @@
 > **评级 B**　|　荷兰 · Gorinchem　|　档案编号 `PB-040`　|　优先级 ★★☆　|　状态：00-未触达
 >
 > **类型**：安防电商/安装商（20+ 年；Ajax / Hikvision / Dahua 等品牌 + 展厅；B2B/B2C；自有/白牌「Movok VK-SWITCH」PoE 交换机系列）　|　**PLANET 关联**：网店「Switches and adapters」类目在售 PLANET POE-E201 PoE 延长器、POE-163 注入器，与「VK-SWITCH-2624POE-250-G / 1816POE-250-G / 1008POE-120-G / 0604POE-65」白牌 PoE 交换机并列　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：★ P 池 · 正式入池（档位 ○）**（闸 3 · G3 · 2026-10-29）：○ 安防电商 / 安装 20% + 白牌 OEM 30%：H&V Security B.V.（Gorinchem Edisonweg 12；KvK 69433550；bol.com 另记 KvK 57221073 / BTW NL852488282B01 —— 两实体同商号，待统一）坐实；20+ 年安防系统 + 展厅 + 自有支持工程师；自有白牌 PoE 交换机系列（Movok / VK）→ OEM 线索；info@ + WhatsApp 06-83823011
 
 ```yaml structured_profile
 code: PB-040
@@ -14,7 +16,7 @@ p1: STC-424DGGPM-280W
 price_tier: 30%
 stage: 00-未触达
 mikrotik_ref: none
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -178,4 +180,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL　|　原始证据：batch/2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL　|　原始证据：batch/2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json　|　渲染：scripts/render.py 2026-10-29*

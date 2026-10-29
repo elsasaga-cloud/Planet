@@ -5,6 +5,8 @@
 > **类型**：电商（大型 B2B IT 电商，多国站）　|　**PLANET 关联**：各国站点有 PLANET PoE 分类，库存 31–40 台级（senetic.be 抓取快照）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ⚠️ **Mikrotik 仓库已有档案 C-053（Eptimo S.A.，Senetic Holding 子公司；非同一法人，仅作集团参照）**：C 级两仓均不首触，本档只保留对照与证据。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：★ P 池 · 正式入池**（随 `XC-M118`）（闸 0 · DUP · 2026-10-29）：与 XC-M118 同一公司（Mikrotik 旧编号 C-053）→ 随主档：pool（闸 3，★ ISP / 无线渠道分销 20%：EPTIMO Spółka Akcyjna（Warszawa Plac Bankowy 2；KRS 0000640183；NIP 5472148020；REGON 243394597；2016-10-0）
 
 ```yaml structured_profile
 code: PC-002
@@ -16,7 +18,7 @@ p1: STC-424XGGPM-280W
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: C-053（Eptimo S.A.，Senetic Holding 子公司；非同一法人，仅作集团参照）
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -148,4 +150,4 @@ updated: 2026-10-20
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json　|　渲染：scripts/render.py 2026-10-29*

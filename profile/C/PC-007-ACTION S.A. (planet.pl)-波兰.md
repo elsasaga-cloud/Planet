@@ -3,6 +3,8 @@
 > **评级 C**　|　波兰 · Zamienie　|　档案编号 `PC-007`　|　优先级 ☆☆☆　|　状态：00-未触达
 >
 > **类型**：分销商（波兰上市 IT 分销巨头；planet.pl 自称 PLANET 波兰独家分销）　|　**PLANET 关联**：planet.pl「wyłączny dystrybutor」；支持邮箱 pomoc.sieci@action.pl　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：⛔ 已过筛 · 永久 pass**（闸 0 · G0-2 · 2026-10-29）：域名 planet.pl:dead 全死且无电话 —— 不再研究 / 不群发 / 不监控；撤销只在客户主动找上门时由 Simon 拍板
 
 ```yaml structured_profile
 code: PC-007
@@ -14,7 +16,7 @@ p1: STC-424DGGPM-280W
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: none
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -146,4 +148,4 @@ updated: 2026-10-20
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json　|　渲染：scripts/render.py 2026-10-29*

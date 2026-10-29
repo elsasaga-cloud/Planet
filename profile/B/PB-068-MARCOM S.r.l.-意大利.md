@@ -5,6 +5,8 @@
 > **类型**：分销 + 工业自动化集成（2002 年起「Digital Building & Digital Factory」：现场总线 / 4G-5G 路由 / LoRaWAN / 多协议网关；品牌 Moxa、ICP DAS、Teltonika、MikroTik、Hilscher、Metz Connect、RAKwireless、Ubiquiti；PLANET 工业交换机 + 串口服务器在售）　|　**PLANET 关联**：shop.marcomweb.it 厂商页 /manufacturer/planet 与产品页：IGS-10020MT €388（工业 8×GE + 2×SFP 管理）、IGS-4215-4T2S €193（工业 L2/L4 4×GE + 2×SFP 管理）、ISW-621 €118 / ISW-621TF €107–118（工业 4×FE + 2×FX）、ISW-800T €78–88、ISW-500T €68–78、IGS-1020TF €145（END OF LIFE 促销）、IPM-8221 €410、工业串口服务器——PLANET 在它这里全部是工业线，与 Moxa EDS、Teltonika TSW 同柜　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ⚠️ **Mikrotik 仓库已有档案 A-487（Mikrotik 侧 R53 人工 A，info@marcomweb.it，原 B-167）→ 并档，首触以 Mikrotik 仓库为准；本仓回填：Mikrotik 侧「工业线为零」与事实不符（PLANET 工业 ≥7 款 + Moxa EDS 在售）+ IGS-1020TF EOL 促销时点（Q-06 同类，跨仓需用户手工）**：本档只补 PLANET 侧证据；联系策略以先建档案为准，勿重复首触。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（随 `SB-1055`）（闸 0 · DUP-AB · 2026-10-29）：与 SB-1055（Saga B 级，本轮不筛 A/B）同一公司（同邮箱域 marcomweb.it）→ 随主档，不单独判；A/B 升级讨论时一并
 
 ```yaml structured_profile
 code: PB-068
@@ -16,7 +18,7 @@ p1: STI-280DGGM
 price_tier: 20%
 stage: 10-已触达(S邮箱 去1·0回复)
 mikrotik_ref: A-487（Mikrotik 侧 R53 人工 A，info@marcomweb.it，原 B-167）→ 并档，首触以 Mikrotik 仓库为准；本仓回填：Mikrotik 侧「工业线为零」与事实不符（PLANET 工业 ≥7 款 + Moxa EDS 在售）+ IGS-1020TF EOL 促销时点（Q-06 同类，跨仓需用户手工）
-updated: 2026-10-22
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -185,4 +187,4 @@ updated: 2026-10-22
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：W15 目录型矿脉：Mikrotik 池域名 × site: planet switch（CZ-US-PL-FR-IT）　|　原始证据：batch/2026-10-20_W15_目录型矿脉_Mikrotik池反查_CZ-US-PL-FR-IT.json　|　渲染：scripts/render.py 2026-10-22*
+*建档日期：2026-10-20　|　入库批次：W15 目录型矿脉：Mikrotik 池域名 × site: planet switch（CZ-US-PL-FR-IT）　|　原始证据：batch/2026-10-20_W15_目录型矿脉_Mikrotik池反查_CZ-US-PL-FR-IT.json　|　渲染：scripts/render.py 2026-10-29*

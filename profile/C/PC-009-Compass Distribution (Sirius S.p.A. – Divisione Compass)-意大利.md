@@ -5,6 +5,8 @@
 > **类型**：增值分销商（Sirius S.p.A. 旗下品牌；网络、安防、电信、布线分销；2011 年起；51–200 人；都灵总部 + 7 个分部/门店）　|　**PLANET 关联**：官网「Brand distribuiti」与品牌页列 PLANET Technology（ORCA Networking 并列）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ⚠️ **Mikrotik 仓库已有档案 C-028**：C 级两仓均不首触，本档只保留对照与证据。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：随主档留 C**（随 `XC-M093`）（闸 0 · DUP · 2026-10-29）：与 XC-M093 同一公司（Mikrotik 旧编号 C-028）→ 随主档：keep_C（闸 1，渠道型主体但路径未建（分销（ComNet 授权）  B下放·无邮箱（群发触达不到）；官网 compass-distribution.it，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2）
 
 ```yaml structured_profile
 code: PC-009
@@ -16,7 +18,7 @@ p1: STC-424DGGPM-280W
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: C-028
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -157,4 +159,4 @@ updated: 2026-10-20
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ　|　原始证据：batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ　|　原始证据：batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json　|　渲染：scripts/render.py 2026-10-29*

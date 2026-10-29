@@ -5,6 +5,8 @@
 > **类型**：分销（捷克 IT 分销商；MikroTik Master + VAD；站内「Síťové prvky › Switche › Planet」专类 28 款）　|　**PLANET 关联**：pcvcomp.cz 交换机类目品牌筛选「Planet 28」（与 Cisco 61 / Zyxel 90 / TP-link 144 / Ruijie 110 并列）；Planet 专类在售 GSW-2401（24 口千兆）、ISW-501T（工业 5 口 FE）、SW-804；Mikrotik 仓库 B-201（MikroTik Master+VAD）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ⚠️ **Mikrotik 仓库已有档案 B-201**：本档只补 PLANET 侧证据；联系策略以先建档案为准，勿重复首触。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（随 `XA-M153`）（闸 0 · DUP-AB · 2026-10-29）：与 XA-M153（External A 级，本轮不筛 A/B）同一公司（Mikrotik 旧编号 B-201）→ 随主档，不单独判；A/B 升级讨论时一并
 
 ```yaml structured_profile
 code: PB-050
@@ -16,7 +18,7 @@ p1: STC-424DGGM
 price_tier: 20%
 stage: 10-已触达(S邮箱 去1·0回复)
 mikrotik_ref: B-201
-updated: 2026-10-22
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -163,4 +165,4 @@ updated: 2026-10-22
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：2026-10-20_W07_Mikrotik分销行PLANET核验与多国分组查询_CZ-PL　|　原始证据：batch/2026-10-20_W07_Mikrotik分销行PLANET核验与多国分组查询_CZ-PL.json　|　渲染：scripts/render.py 2026-10-22*
+*建档日期：2026-10-20　|　入库批次：2026-10-20_W07_Mikrotik分销行PLANET核验与多国分组查询_CZ-PL　|　原始证据：batch/2026-10-20_W07_Mikrotik分销行PLANET核验与多国分组查询_CZ-PL.json　|　渲染：scripts/render.py 2026-10-29*

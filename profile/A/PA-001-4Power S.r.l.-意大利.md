@@ -3,6 +3,8 @@
 > **评级 A**　|　意大利 · Casandrino (NA)　|　档案编号 `PA-001`　|　优先级 ★★★　|　状态：00-未触达
 >
 > **类型**：方案商·品牌商（自有品牌 4Net / Eurogroup）+ PLANET 官方分销　|　**PLANET 关联**：PLANET 意大利官方分销商；自有网络品牌 4Net、UPS 品牌 Eurogroup；面向 rivenditori/installatori/system integrator 的 B2B　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（随 `SA-081`）（闸 0 · DUP-AB · 2026-10-29）：与 SA-081（Saga A 级，本轮不筛 A/B）同一公司（同域名 4power.it）→ 随主档，不单独判；A/B 升级讨论时一并
 
 ```yaml structured_profile
 code: PA-001
@@ -14,7 +16,7 @@ p1: STC-424DGGPM-280W
 price_tier: 25%
 stage: 00-未触达
 mikrotik_ref: none
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -197,4 +199,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json, batch/2026-10-20_W10_证据老化回查与安防收尾_IT-PL.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json, batch/2026-10-20_W10_证据老化回查与安防收尾_IT-PL.json　|　渲染：scripts/render.py 2026-10-29*

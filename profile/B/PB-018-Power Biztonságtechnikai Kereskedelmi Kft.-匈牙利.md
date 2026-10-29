@@ -3,6 +3,8 @@
 > **评级 B**　|　匈牙利 · Budapest　|　档案编号 `PB-018`　|　优先级 ★★☆　|　状态：00-未触达
 >
 > **类型**：安防分销商（仅面向安装商/经销商的安防批发）　|　**PLANET 关联**：在售 PLANET GS-4210-48P4S、IGS-10020HPT　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：★ P 池 · 正式入池（档位 ★）**（闸 3 · G3 · 2026-10-29）：★ 安防批发 20% + 自牌 OEM 30%：Power Biztonságtechnikai Kft.（1031 Budapest Kazal u. 64–66；Cégjegyzékszám 01-09-974579；Adószám 13678144-2-41；LEI 5299001BBFG4OUCAVZ44；2005 年起；2025 净营收 10,401,159 千 Ft ≈ €26M；MD Galambosi Ákos / Banai Miklós）坐实；仅面向安装商 / 经销商的安防批发，自有品牌 Techson；PLANET 48 口 PoE + 工业 PoE 在售；info@ / sales@
 
 ```yaml structured_profile
 code: PB-018
@@ -14,7 +16,7 @@ p1: STC-448DGGPM
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: none
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -186,4 +188,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-20_W09_安防矿脉收尾与海关延伸_TR-DE-UK.json, batch/2026-10-20_W11_A级老化回查收尾与法国集成商_FR-CZ-HU-SE-PL.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-20_W09_安防矿脉收尾与海关延伸_TR-DE-UK.json, batch/2026-10-20_W11_A级老化回查收尾与法国集成商_FR-CZ-HU-SE-PL.json　|　渲染：scripts/render.py 2026-10-29*

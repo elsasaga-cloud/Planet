@@ -5,6 +5,8 @@
 > **类型**：分销商（有源网络设备分销：企业/城域/电信网络与摄像系统；ComNet / Microsens / Transition Networks / Olycom / PLANET）　|　**PLANET 关联**：官网 PLANET 品牌页 + 产品页（IGS-801M、BSP-360）具名「product & sales manager – Planet Networks, ComNet, Microsens, Transition Networks, Olycom」David Matula matula@proficomms.cz　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ⚠️ **Mikrotik 仓库已有档案 A-497**：T06 ② 例外 —— 首触由本仓发出（仍只发一次），Mikrotik 侧勿再发；回复后两仓同步状态。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（随 `XA-M154`）（闸 0 · DUP-AB · 2026-10-29）：与 XA-M154（External A 级，本轮不筛 A/B）同一公司（Mikrotik 旧编号 A-497）→ 随主档，不单独判；A/B 升级讨论时一并
 
 ```yaml structured_profile
 code: PA-015
@@ -16,7 +18,7 @@ p1: STI-288DGGPM
 price_tier: 20%
 stage: 10-已触达(S邮箱 去1·0回复)
 mikrotik_ref: A-497
-updated: 2026-10-22
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -199,4 +201,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL　|　原始证据：batch/2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json, batch/2026-10-20_W11_A级老化回查收尾与法国集成商_FR-CZ-HU-SE-PL.json　|　渲染：scripts/render.py 2026-10-22*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL　|　原始证据：batch/2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json, batch/2026-10-20_W11_A级老化回查收尾与法国集成商_FR-CZ-HU-SE-PL.json　|　渲染：scripts/render.py 2026-10-29*

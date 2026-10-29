@@ -3,6 +3,8 @@
 > **评级 B**　|　芬兰 · Vantaa　|　档案编号 `PB-025`　|　优先级 ★★☆　|　状态：00-未触达
 >
 > **类型**：分销商（自称 tietoliikennetukkuri＝电信/网络批发商；面向经销商 jälleenmyyjä 的 B2B 批发）　|　**PLANET 关联**：网店在售 PLANET GS-4210-24P4C（28 口 SNMP 管理 PoE+ 220W）、IFT-802T 工业介质转换器等；厂商列表含 PLANET　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：☆ P 池 · 观察档（档位 ☆）**（闸 3 · G3 · 2026-10-29）：☆ 观察：Microdata Finland Oy（Vantaa Robert Huberin tie 2；Y-tunnus 2049377-0；2006-07-27；NACE 46510；2025 营收 €1.5M、5 人、营业利润率 15.7%；TJ Juha-Matti Joutkoski）坐实但微型；电信 / 网络批发面向经销商，PLANET PoE 在售；myynti@ + 具名 aki.jarvinen@ → 试单后转正
 
 ```yaml structured_profile
 code: PB-025
@@ -14,7 +16,7 @@ p1: STC-424DGGPM-280W
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: none
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -183,4 +185,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ　|　原始证据：batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ　|　原始证据：batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json　|　渲染：scripts/render.py 2026-10-29*

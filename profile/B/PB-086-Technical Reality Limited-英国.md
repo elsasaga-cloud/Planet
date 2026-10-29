@@ -5,6 +5,8 @@
 > **类型**：IT 硬件供应商 / 电商（2016 年注册；LinkedIn 11–50 人；「Leading supplier of IT hardware at all stages of the tech lifecycle; 100,000 products in stock」；新品 + 翻新 + 租赁 + 回收；PLANET 为其 Networking › Switch 品牌之一，商品页显示库存数）　|　**PLANET 关联**：technicalreality.co.uk：PLANET IGS-4215-8P2T2S「42 in stock Additional stock expected 21/09/26」、IGS-500T「44 in stock Additional stock expected 21/09/26」、MGB-TLA40 SFP；品牌路径 /product/Networking/Switch/PLANET-Technology/　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ℹ️ Mikrotik 仓库无同户（—（Mikrotik 仓无此户；本仓 grep 0））：首触由本仓发出。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（闸 1 · G1 · 2026-10-29）：Technical Reality（英国 100,000 SKU 通用 IT 供应商）：目录型 → 留原档巡检
 
 ```yaml structured_profile
 code: PB-086
@@ -16,7 +18,7 @@ p1: STI-288GPM
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: —（Mikrotik 仓无此户；本仓 grep 0）
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -197,4 +199,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：W19 矿脉 ③ 扩面：PLANET 常销型号 × 价格 / 语言词反查（UK-PL-BE-DE-US）　|　原始证据：batch/2026-10-20_W19_矿脉③型号比价扩面_UK-PL-BE-DE-US.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：W19 矿脉 ③ 扩面：PLANET 常销型号 × 价格 / 语言词反查（UK-PL-BE-DE-US）　|　原始证据：batch/2026-10-20_W19_矿脉③型号比价扩面_UK-PL-BE-DE-US.json　|　渲染：scripts/render.py 2026-10-29*

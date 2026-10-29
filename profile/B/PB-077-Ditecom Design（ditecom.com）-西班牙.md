@@ -5,6 +5,8 @@
 > **类型**：分销/电商（马德里测试测量 / 监控 / 数据采集仪表商店，「empresa española dedicada al diseño y la distribución de instrumentación electrónica … instrumentación basada en PC」；Networking 类目含工业交换机 1 款 ISW-801 + 串口/以太网转换器 EX-9xxx）　|　**PLANET 关联**：ditecom.com 工业交换机类目唯一在售「ISW-801 switch industrial de 8 puertos 10/100TX (-40º a 75º) 65,00€ +IVA」（Networking 类目计数「Switch industriales (1)」）；商品页标题 ISW-801T、「Disponible para reserva」、IP30 金属壳、DIN/壁挂、12–48 Vdc + 24 Vac、802.3az，发布 2024-07-10；型号与 PLANET ISW-801T 一致，页面快照未见品牌字样 → 弱信号　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ⚠️ **Mikrotik 仓库已有档案 A-381（Mikrotik 侧人工 A ★★★，info@ditecom.com；2026-09-28 B/C 复筛已核 ISW-801 60€+IVA 在售）→ 并档，首触以 Mikrotik 仓库为准；本仓回填：ISW-801 现价 65,00€ +IVA、「Disponible para reserva」、Networking 类目仅 1 款工业交换机、商品页标题 = PLANET 型号 ISW-801T 但无品牌字样（Q-06 同类，跨仓需用户手工）**：本档只补 PLANET 侧证据；联系策略以先建档案为准，勿重复首触。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（随 `XA-M279`）（闸 0 · DUP-AB · 2026-10-29）：与 XA-M279（External A 级，本轮不筛 A/B）同一公司（Mikrotik 旧编号 A-381）→ 随主档，不单独判；A/B 升级讨论时一并
 
 ```yaml structured_profile
 code: PB-077
@@ -16,7 +18,7 @@ p1: STI-080FE
 price_tier: 20%
 stage: 10-已触达(S邮箱 去1·0回复)
 mikrotik_ref: A-381（Mikrotik 侧人工 A ★★★，info@ditecom.com；2026-09-28 B/C 复筛已核 ISW-801 60€+IVA 在售）→ 并档，首触以 Mikrotik 仓库为准；本仓回填：ISW-801 现价 65,00€ +IVA、「Disponible para reserva」、Networking 类目仅 1 款工业交换机、商品页标题 = PLANET 型号 ISW-801T 但无品牌字样（Q-06 同类，跨仓需用户手工）
-updated: 2026-10-22
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -164,4 +166,4 @@ updated: 2026-10-22
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：W17 矿脉 ①b：W06/W07 OR 组「假阴性」逐域复核（CZ-FR-NO-GR-ES）　|　原始证据：batch/2026-10-20_W17_OR组假阴性逐域复核_CZ-FR-NO-GR-ES.json　|　渲染：scripts/render.py 2026-10-22*
+*建档日期：2026-10-20　|　入库批次：W17 矿脉 ①b：W06/W07 OR 组「假阴性」逐域复核（CZ-FR-NO-GR-ES）　|　原始证据：batch/2026-10-20_W17_OR组假阴性逐域复核_CZ-FR-NO-GR-ES.json　|　渲染：scripts/render.py 2026-10-29*

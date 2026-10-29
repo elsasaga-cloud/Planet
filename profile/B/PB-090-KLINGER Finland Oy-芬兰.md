@@ -5,6 +5,8 @@
 > **类型**：工业技术供应商（KLINGER 集团芬兰公司：阀门 / 密封 / 仪表 / 产品标识）附设 CCTV Systems 事业部（IP 摄像机系统、PoE 网络交换机与注入器、OT-Systems 工业交换机）；PLANET 工业交换机 + PoE 注入器为其「Planet kytkimet」类目　|　**PLANET 关联**：klinger.fi：类目「PoE Network switches and injectors › Planet kytkimet」= Planet IGS-20160HPT 16 port PoE switch + Planet IGS-10020HPT 8 port PoE switch；PoE 注入器 Planet POE-164 30W、POE-171A-60、POE-171A-95；菜单并列「Muut kytkimet / OT-Systems teollisuuskytkimet / Virtalähteet DIN kiskolle」；新站路径 /en/products/camera-surveillance/peripherals/planet-igs-10020hpt-8-port-poe-switch/　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ℹ️ Mikrotik 仓库无同户（—（Mikrotik 仓无此户；本仓 grep 0））；Gmail 查重判定 **非首触**（Elsa 账号群发已触达该域，见邮件段）→ 本仓发第一封具名信，收件人 / 主题须避让。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（随 `SB-1126`）（闸 0 · DUP-AB · 2026-10-29）：与 SB-1126（Saga B 级，本轮不筛 A/B）同一公司（同域名 klinger.fi）→ 随主档，不单独判；A/B 升级讨论时一并
 
 ```yaml structured_profile
 code: PB-090
@@ -16,7 +18,7 @@ p1: STI-288GPM
 price_tier: 25%
 stage: 00-未触达
 mikrotik_ref: —（Mikrotik 仓无此户；本仓 grep 0）
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -196,4 +198,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：W20 矿脉 ⑤ Elsa 群发 BCC 域反查 + 矿脉 ③ 型号比价批 3/4（UK-DK-FI-PL）　|　原始证据：batch/2026-10-20_W20_矿脉⑤BCC域反查+③型号比价_UK-DK-FI-PL.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：W20 矿脉 ⑤ Elsa 群发 BCC 域反查 + 矿脉 ③ 型号比价批 3/4（UK-DK-FI-PL）　|　原始证据：batch/2026-10-20_W20_矿脉⑤BCC域反查+③型号比价_UK-DK-FI-PL.json　|　渲染：scripts/render.py 2026-10-29*

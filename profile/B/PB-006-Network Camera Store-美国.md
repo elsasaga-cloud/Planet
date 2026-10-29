@@ -3,6 +3,8 @@
 > **评级 B**　|　美国 · Orlando, FL　|　档案编号 `PB-006`　|　优先级 ★★　|　状态：00-未触达
 >
 > **类型**：安防经销/电商（B2B 监控设备在线经销，带系统设计服务，无自有库存）　|　**PLANET 关联**：在售 PLANET GS-4210-8P2T2S、GS-4210-16UP4C、GS-4210-24P4C、GS-4210-24PL4C（标价 $522–$803）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（闸 1 · G1 · 2026-10-29）：Network Camera Store（美国，drop-ship 无库存网店，2–10 人；sales@）：无自有库存 = 无进货决策 → 留原档巡检
 
 ```yaml structured_profile
 code: PB-006
@@ -14,7 +16,7 @@ p1: STC-424DGGPM-280W
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: none
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -183,4 +185,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json　|　渲染：scripts/render.py 2026-10-29*

@@ -3,6 +3,8 @@
 > **评级 B**　|　英国 · Crawley, West Sussex（原 Farnborough）　|　档案编号 `PB-026`　|　优先级 ★★☆　|　状态：00-未触达
 >
 > **类型**：分销商（1993 年起；布线基础设施、网络、IP 物理安防与 AV 产品分销；约 15 人；现为 Norbain SD 旗下——「Norbain Holdings Ltd T/A CMSPLC」）　|　**PLANET 关联**：官网品牌页「PLANET TECHNOLOGY CORPORATION」在售 FNSW-2401 / FNSW-1601 / GSD-503 / FT-802；Switching & Networking 页品牌为 Allied Telesis / Antiference / Netgear / Planet　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（闸 1 · G1 · 2026-10-29）：CMS plc（英国 15 人，Norbain SD 旗下）：集团采购可能上收 → 留原档巡检
 
 ```yaml structured_profile
 code: PB-026
@@ -14,7 +16,7 @@ p1: STC-424DGGPM-280W
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: none
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -184,4 +186,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ　|　原始证据：batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ　|　原始证据：batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json　|　渲染：scripts/render.py 2026-10-29*

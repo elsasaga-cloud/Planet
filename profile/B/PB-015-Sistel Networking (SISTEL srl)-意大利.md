@@ -3,6 +3,8 @@
 > **评级 B**　|　意大利 · Suno (NO)　|　档案编号 `PB-015`　|　优先级 ★☆☆　|　状态：00-未触达
 >
 > **类型**：集成商/方案商（布线/机柜/UPS/工业交换机，面向专业安装商与 IT 经理；SISTEL srl 内部事业部，资本 €10k）　|　**PLANET 关联**：官网 PLANET 工业交换机专页（Industrial Ethernet Solution：IGS-620TF 等）；交换机线为 D-Link + PLANET　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（随 `SB-492`）（闸 0 · DUP-AB · 2026-10-29）：与 SB-492（Saga B 级，本轮不筛 A/B）同一公司（同域名 sistel-networking.it）→ 随主档，不单独判；A/B 升级讨论时一并
 
 ```yaml structured_profile
 code: PB-015
@@ -14,7 +16,7 @@ p1: STI-288DGGPM
 price_tier: 25%
 stage: 00-未触达
 mikrotik_ref: none
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -175,4 +177,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json　|　渲染：scripts/render.py 2026-10-29*

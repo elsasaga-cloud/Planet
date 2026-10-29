@@ -3,6 +3,8 @@
 > **评级 C**　|　捷克 · Praha 3　|　档案编号 `PC-010`　|　优先级 ☆☆☆　|　状态：00-未触达
 >
 > **类型**：电商/零售（2005 年起；卫星数字电视、摄像系统与配件的网店+实体店；≤5 人、营收 CZK 10–30M）　|　**PLANET 关联**：官网 PLANET 品牌页（info@kenex.cz）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：随主档留 C**（随 `SC-1854`）（闸 0 · DUP · 2026-10-29）：与 SC-1854 同一公司（同域名 kenex.cz）→ 随主档：keep_C（闸 1，捷克；表分 品类不符（VC/DWDM/CCTV ；兴趣：CCTV 大华的 → 需求 / 主业为 Saga 不供品类（光端机 / WDM / bypass / 无源 / 板级 / 软件 / 服务）；留 C）
 
 ```yaml structured_profile
 code: PC-010
@@ -14,7 +16,7 @@ p1: STC-28DGGPM
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: none
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -149,4 +151,4 @@ updated: 2026-10-20
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ　|　原始证据：batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ　|　原始证据：batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json　|　渲染：scripts/render.py 2026-10-29*

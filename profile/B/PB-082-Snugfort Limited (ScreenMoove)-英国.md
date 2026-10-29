@@ -5,6 +5,8 @@
 > **类型**：商用 AV / 数字标牌集成 + 电商（2019 年起；设计 / 供货 / 安装 / 支持；500+ 企业客户；Shopify 网店「Network Switches」类目 270 件，其中 Planet 220 件、MikroTik 22 件，Planet 标「Official Partner」并显示库存数量）　|　**PLANET 关联**：screenmoove.com/collections/network-switches：Brand 筛选 Planet (220) / MikroTik (22) / Netgear (5) / Ubiquiti (4) / Zyxel (3) …；In stock (137)；商品卡「Official Partner」+ 库存数：ISW-801T In stock (18)、IPOE-260 In stock (168)、IPOE-175 In stock (15)、IPOE-470 In stock (14)、IGS-4215-16P2T2S；搜索快照带价：GS-4210-24UP4X £545.44、WGS-804HPT £167.58、IKVM-210-16M £1,260.00、GSW-1601、GS-4210-24P2S、WGS-6325-8UP2X、FSD-803　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ℹ️ Mikrotik 仓库无同户（—（Mikrotik 仓无此户；本仓 grep 0））：首触由本仓发出。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：★ P 池 · 正式入池（档位 ○）**（闸 3 · G3 · 2026-10-29）：○ 商用 AV / 数字标牌集成 + 网店 25%：Snugfort Limited（England & Wales 12278368；VAT GB 396 2351 74；London EC2A 4NE；2019 起；500+ 企业客户）坐实；PLANET Official Partner，交换机类目 220/270 为 PLANET、IPOE-260 实时库存 168 件 → 真实周转；info@ + support@；主区 GB
 
 ```yaml structured_profile
 code: PB-082
@@ -16,7 +18,7 @@ p1: STC-424DGGPM-280W
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: —（Mikrotik 仓无此户；本仓 grep 0）
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -204,4 +206,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：W19 矿脉 ③ 扩面：PLANET 常销型号 × 价格 / 语言词反查（UK-PL-BE-DE-US）　|　原始证据：batch/2026-10-20_W19_矿脉③型号比价扩面_UK-PL-BE-DE-US.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：W19 矿脉 ③ 扩面：PLANET 常销型号 × 价格 / 语言词反查（UK-PL-BE-DE-US）　|　原始证据：batch/2026-10-20_W19_矿脉③型号比价扩面_UK-PL-BE-DE-US.json　|　渲染：scripts/render.py 2026-10-29*

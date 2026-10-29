@@ -3,6 +3,8 @@
 > **评级 C**　|　丹麦（泛欧） · Birkerød　|　档案编号 `PC-001`　|　优先级 —　|　状态：00-未触达
 >
 > **类型**：分销商（泛欧 IT/AV/安防分销巨头）　|　**PLANET 关联**：自称「paneuropejskim autoryzowanym dystrybutorem produktów i usług Planet」，各国站点均有 PLANET 品牌页　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：随主档留 C**（随 `SC-2599`）（闸 0 · DUP · 2026-10-29）：与 SC-2599 同一公司（同域名 eetgroup.com）→ 随主档：keep_C（闸 1，丹麦 EET Group（北欧 IT 分销巨头；Planet 设备很多、CWDM / SFP）→ 巨头不 pass；留 C）
 
 ```yaml structured_profile
 code: PC-001
@@ -14,7 +16,7 @@ p1: STC-424XGGPM-280W
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: none
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -143,4 +145,4 @@ updated: 2026-10-20
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json　|　渲染：scripts/render.py 2026-10-29*

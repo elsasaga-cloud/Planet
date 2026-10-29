@@ -5,6 +5,8 @@
 > **类型**：分销商/贸易柜台（面向安装商的消防、安防、网络与电气产品全国分销；展厅 + 贸易柜台；Top Brands：Hikvision / HiLook / Pyronix / Tenda / Planet）　|　**PLANET 关联**：官网品牌页自述「As an authorised Planet distributor Connectec stock a wide range of Planet products」；首页「Shop for Planet Business networking and communication products」；在售 IGS-5225-8P4S / IGS-801T / WGS-5225-8UP2SV / GS-4210-8HP2S；Mikrotik 仓库 C-107 标「分销（PLANET 授权）」　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ⚠️ **Mikrotik 仓库已有档案 C-107**：T06 ② 例外 —— 首触由本仓发出（仍只发一次），Mikrotik 侧勿再发；回复后两仓同步状态。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（随 `SB-1123`）（闸 0 · DUP-AB · 2026-10-29）：与 SB-1123（Saga B 级，本轮不筛 A/B）同一公司（同域名 connectec.uk）→ 随主档，不单独判；A/B 升级讨论时一并
 
 ```yaml structured_profile
 code: PB-042
@@ -16,7 +18,7 @@ p1: STI-488DGGPM
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: C-107
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -192,4 +194,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL　|　原始证据：batch/2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL　|　原始证据：batch/2026-10-19_W05_Mikrotik关联行核验与无邮箱C重评_TR-UK-ES-NL.json　|　渲染：scripts/render.py 2026-10-29*

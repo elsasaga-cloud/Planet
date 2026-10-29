@@ -3,6 +3,8 @@
 > **评级 A**　|　意大利 · Nogara (VR)　|　档案编号 `PA-012`　|　优先级 ★★★　|　状态：00-未触达
 >
 > **类型**：分销商（1991 年起；视频监控/门禁/电信产品分销，服务公共机构、企业与工业客户；PLANET 授权分销）　|　**PLANET 关联**：官网 partner 页列 PLANET；2026-01 发布「Aggiornamento Listino PLANET Q1 gennaio 2026」（PLANET 价目表季度更新 → 现役分销）；2012 起即自称「distributore autorizzato di Planet Networking」　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：★ P 池 · 正式入池（档位 ★）**（闸 3 · G3 · 2026-10-29）：★ 授权分销 20%：SIR.tel. S.r.l.（Verona 省；P.IVA 02565900236；1991 年起；营收 €6.67M（2023））坐实；PLANET 授权分销自 2012、价目表 2026 Q1 季更；采购经理 Gioia Mantoan 具名（经 sales@sirtel.it「Attn:」）
 
 ```yaml structured_profile
 code: PA-012
@@ -14,7 +16,7 @@ p1: STC-424DGGPM-280W
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: none
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -208,4 +210,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ　|　原始证据：batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json, batch/2026-10-20_W10_证据老化回查与安防收尾_IT-PL.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ　|　原始证据：batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json, batch/2026-10-20_W10_证据老化回查与安防收尾_IT-PL.json　|　渲染：scripts/render.py 2026-10-29*

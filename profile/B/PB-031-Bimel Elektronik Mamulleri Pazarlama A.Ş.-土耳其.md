@@ -3,6 +3,8 @@
 > **评级 B**　|　土耳其 · Ankara（分部 İstanbul ×2 / İzmir / Bursa）　|　档案编号 `PB-031`　|　优先级 ★★☆　|　状态：10-已触达(S邮箱 去5·0回复)
 >
 > **类型**：分销商（1984 年起；IT/网络/安防产品分销，15+ 品牌：Assmann、Aten、Beek、Netgear、Planet、Ruckus；约 80 人，5 个办公室）　|　**PLANET 关联**：官网 PLANET 产品树完整（PL-GS-4210 / PL-IGS-5225 / PL-WGS-5225 等，自有「PL-」前缀货号）；公司页列 Planet 为主要品牌　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（随 `SB-861`）（闸 0 · DUP-AB · 2026-10-29）：与 SB-861（Saga B 级，本轮不筛 A/B）同一公司（同域名 bimel.com.tr）→ 随主档，不单独判；A/B 升级讨论时一并
 
 ```yaml structured_profile
 code: PB-031
@@ -14,7 +16,7 @@ p1: STC-424DGGPM-280W
 price_tier: 20%
 stage: 10-已触达(S邮箱 去5·0回复)
 mikrotik_ref: none
-updated: 2026-10-22
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -186,4 +188,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL　|　原始证据：batch/2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json　|　渲染：scripts/render.py 2026-10-22*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL　|　原始证据：batch/2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json　|　渲染：scripts/render.py 2026-10-29*

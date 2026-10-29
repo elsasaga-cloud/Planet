@@ -3,6 +3,8 @@
 > **评级 C**　|　波兰 · Kraków　|　档案编号 `PC-003`　|　优先级 —　|　状态：00-未触达
 >
 > **类型**：电商（波兰大型消费/B2B 电商）　|　**PLANET 关联**：持「Autoryzowany Partner Planet Networking & Communication」证书，在售 POE-176-95 等　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：随主档留 C**（闸 0 · G0-giant · 2026-10-29）：无邮箱 / 电话路径，但为巨头 / 大集团 / 大电商（电商（波兰大型消费/B2B 电商））—— Simon 口径「巨头硬但不永久 pass」→ 留 C 长线不 pass（官网 morele.net）
 
 ```yaml structured_profile
 code: PC-003
@@ -14,7 +16,7 @@ p1: STC-424XGGPM-280W
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: none
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -143,4 +145,4 @@ updated: 2026-10-20
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US　|　原始证据：batch/2026-10-19_W01_官方分销与品牌页_DE-IT-FR-ES-PL-UK-US.json　|　渲染：scripts/render.py 2026-10-29*

@@ -5,6 +5,8 @@
 > **类型**：集成商/代理（结构化布线、电话系统、机柜、安防摄像/门禁、有源网络；约 20 个品牌；1996 年成立）　|　**PLANET 关联**：PLANET 产品经理具名直邮（官网联系页在列）；官网 PLANET 新闻页「KKV 用 PLANET switch 现货」；在售 GS-4210-24P4C；2018 年 securifocus 报道「Forgalmazó: Young B.T.S. Kft Gyártó: Planet Technology Corp.」（UNV 摄像机 + PLANET PoE 组合）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ⚠️ **Mikrotik 仓库已有档案 A-233**：T06 ② 例外 —— 首触由本仓发出（仍只发一次），Mikrotik 侧勿再发；回复后两仓同步状态。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（随 `XA-M491`）（闸 0 · DUP-AB · 2026-10-29）：与 XA-M491（External A 级，本轮不筛 A/B）同一公司（Mikrotik 旧编号 A-233）→ 随主档，不单独判；A/B 升级讨论时一并
 
 ```yaml structured_profile
 code: PA-011
@@ -16,7 +18,7 @@ p1: STC-424DGGPM-280W
 price_tier: 20%
 stage: 10-已触达(S邮箱 去1·0回复)
 mikrotik_ref: A-233
-updated: 2026-10-22
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -202,4 +204,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ　|　原始证据：batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json　|　渲染：scripts/render.py 2026-10-22*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ　|　原始证据：batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json　|　渲染：scripts/render.py 2026-10-29*

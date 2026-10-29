@@ -3,6 +3,8 @@
 > **评级 A**　|　挪威 · Oslo　|　档案编号 `PA-013`　|　优先级 ★★★　|　状态：00-未触达
 >
 > **类型**：分销商（AV/IT 增值分销，1984 年起；服务挪威系统集成商、安装公司与专业经销商；Lagercrantz 集团成员）　|　**PLANET 关联**：官网 produsenter（厂商）页列 PLANET；在售 ISW-504PT（NOK 2 544）；PLANET 为其网络线　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：★ P 池 · 正式入池（档位 ★）**（闸 3 · G3 · 2026-10-29）：★ AV / IT 增值分销 20%：Leteng AS（Org nr 952 002 872；1984 年起（注册 1995）；21 人（proff.no）；Lagercrantz Group 成员但独立运营、与 PA-009 Direktronik 同集团）坐实；PLANET 厂商页 + PoE 在售 + AV 安装渠道；总经理 Øyvind Jacobsen 直邮 oyvind@leteng.no、销售经理 borgar@
 
 ```yaml structured_profile
 code: PA-013
@@ -14,7 +16,7 @@ p1: STC-424DGGPM-280W
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: none
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -211,4 +213,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ　|　原始证据：batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json, batch/2026-10-20_W10_证据老化回查与安防收尾_IT-PL.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ　|　原始证据：batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json, batch/2026-10-20_W10_证据老化回查与安防收尾_IT-PL.json　|　渲染：scripts/render.py 2026-10-29*

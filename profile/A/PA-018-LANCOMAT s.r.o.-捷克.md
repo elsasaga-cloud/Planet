@@ -5,6 +5,8 @@
 > **类型**：结构化布线 / 光纤 / 机柜分销商兼电商（「vše pro strukturované kabeláže, optické sítě a rozvaděče」；另有 IP 对讲、有源设备、UPS、OEM 组件、租赁服务）；PLANET 为其工业 / 商用交换机在售品牌　|　**PLANET 关联**：lancomat.cz 商品页「Výrobce PLANET TECHNOLOGY」：IGS-1820TF 8 383 Kč（OutOfStock，36 měsíců）、IGS-12040MT 9 588 Kč bez DPH / 11 601 s DPH、IGS-624HPT、GSD-908HP（24 months）、IGS-5225-4T2S（60 months 保修）、IGS-10020PT（8×GE PoE 130 W managed）、IGS-6325-20T4C4X（L3 24 GLAN + 4 SFP）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ℹ️ Mikrotik 仓库无同户（—（Mikrotik 仓无此户；本仓 grep 0））；Gmail 查重判定 **非首触**（Elsa 账号群发已触达该域，见邮件段）→ 本仓发第一封具名信，收件人 / 主题须避让。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（随 `SA-089`）（闸 0 · DUP-AB · 2026-10-29）：与 SA-089（Saga A 级，本轮不筛 A/B）同一公司（同域名 lancomat.cz）→ 随主档，不单独判；A/B 升级讨论时一并
 
 ```yaml structured_profile
 code: PA-018
@@ -16,7 +18,7 @@ p1: STI-288GPM
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: —（Mikrotik 仓无此户；本仓 grep 0）
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -214,4 +216,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：W21 矿脉 ⑤ Elsa 群发 BCC 域反查批 2（CZ-DE-IT-HU-FI；PL/US/ES/BE 批探针全阴）　|　原始证据：batch/2026-10-20_W21_矿脉⑤BCC域反查批2_CZ-DE-IT-HU-FI.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：W21 矿脉 ⑤ Elsa 群发 BCC 域反查批 2（CZ-DE-IT-HU-FI；PL/US/ES/BE 批探针全阴）　|　原始证据：batch/2026-10-20_W21_矿脉⑤BCC域反查批2_CZ-DE-IT-HU-FI.json　|　渲染：scripts/render.py 2026-10-29*

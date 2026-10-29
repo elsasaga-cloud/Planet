@@ -5,6 +5,8 @@
 > **类型**：连接件 / Pro-AV / KVM 专业分销商（1991 年起；L-Com、NTI、Extron、Kramer、Aten、Gefen、EKS 等品牌分销；Shopify 商城；PLANET 交换机 / Long Reach PoE 为其网络类目主体）　|　**PLANET 关联**：itm-components.co.uk /collections/switch：Planet LRP-822CS / LRP-1622CS £2,937.20、FGSW-1822VHP £224.55、FGSW-2622VHP £398.80、FGSD-1022VHP £190.41、GS-4210-16UP4C、GS-4210-24PL4C（440W）、GSW-2620HP、GSD-604HP；/collections/switches-matrix-switches 同列 PLANET 款；商品页 PT-LRP-101C-KIT / PT-LRP-822CS（SKU 前缀 PT- = Planet）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ℹ️ Mikrotik 仓库无同户（—（Mikrotik 仓无此户；本仓 grep 0））；Gmail 查重判定 **非首触**（Elsa 账号群发已触达该域，见邮件段）→ 本仓发第一封具名信，收件人 / 主题须避让。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（随 `SB-1045`）（闸 0 · DUP-AB · 2026-10-29）：与 SB-1045（Saga B 级，本轮不筛 A/B）同一公司（同域名 itm-components.co.uk）→ 随主档，不单独判；A/B 升级讨论时一并
 
 ```yaml structured_profile
 code: PB-087
@@ -16,7 +18,7 @@ p1: STC-424DGGPM-280W
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: —（Mikrotik 仓无此户；本仓 grep 0）
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -211,4 +213,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：W20 矿脉 ⑤ Elsa 群发 BCC 域反查 + 矿脉 ③ 型号比价批 3/4（UK-DK-FI-PL）　|　原始证据：batch/2026-10-20_W20_矿脉⑤BCC域反查+③型号比价_UK-DK-FI-PL.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：W20 矿脉 ⑤ Elsa 群发 BCC 域反查 + 矿脉 ③ 型号比价批 3/4（UK-DK-FI-PL）　|　原始证据：batch/2026-10-20_W20_矿脉⑤BCC域反查+③型号比价_UK-DK-FI-PL.json　|　渲染：scripts/render.py 2026-10-29*

@@ -5,6 +5,8 @@
 > **类型**：电商/零售（捷克 IT 电商 + 实体门店，1996 年起；交换机类目以 PLANET 为主力品牌，多款「Skladem v eshopu」现货）　|　**PLANET 关联**：mader.cz 交换机类目 /switche20289401 与产品页：GS-4210-8P2C 5 853 Kč（skladem）、GS-4210-16P2S 6 644 Kč（skladem）、GS-4210-16P4C 11 272 Kč、GS-4210-48P4S 22 056 Kč（skladem）、GSD-1022UP 3 775 Kč（skladem）、GSD-1002M 3 194 Kč、IGS-10020MT 9 889 Kč（skladem）、WGS-4215-8HP2S、IGS-624HPT（nedostupné）、XGS3-24242——商用 PoE 管理型 + 工业管理型两条线都在卖且备货　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ⚠️ **Mikrotik 仓库已有档案 C-040（Mikrotik 侧 C「无邮箱」；本仓经企业名录补到 obchod@mader.cz + 具名 obchod 负责人 → 按 Q-05 通则由 Planet 仓首触；Mikrotik 侧可重评，跨仓需用户手工）**：T06 ② 例外 —— 首触由本仓发出（仍只发一次），Mikrotik 侧勿再发；回复后两仓同步状态。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：随主档留 C**（随 `XC-M105`）（闸 0 · DUP · 2026-10-29）：与 XC-M105 同一公司（Mikrotik 旧编号 C-040）→ 随主档：keep_C（闸 1，渠道型主体但路径未建（电商  B下放·无邮箱（群发触达不到）；官网 mader.cz，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2）
 
 ```yaml structured_profile
 code: PB-063
@@ -16,7 +18,7 @@ p1: STC-28DGGPM
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: C-040（Mikrotik 侧 C「无邮箱」；本仓经企业名录补到 obchod@mader.cz + 具名 obchod 负责人 → 按 Q-05 通则由 Planet 仓首触；Mikrotik 侧可重评，跨仓需用户手工）
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -211,4 +213,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：W15 目录型矿脉：Mikrotik 池域名 × site: planet switch（CZ-US-PL-FR-IT）　|　原始证据：batch/2026-10-20_W15_目录型矿脉_Mikrotik池反查_CZ-US-PL-FR-IT.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：W15 目录型矿脉：Mikrotik 池域名 × site: planet switch（CZ-US-PL-FR-IT）　|　原始证据：batch/2026-10-20_W15_目录型矿脉_Mikrotik池反查_CZ-US-PL-FR-IT.json　|　渲染：scripts/render.py 2026-10-29*

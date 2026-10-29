@@ -3,6 +3,8 @@
 > **评级 B**　|　意大利 · Reggio Emilia　|　档案编号 `PB-056`　|　优先级 ★★　|　状态：00-未触达
 >
 > **类型**：安防分销商（IP 视频监控与网络存储分销：Vivotek / Synology / QNAP 官方分销；面向安装商与经销商，全国；1999 年起；1–5 人；资本 €51k）　|　**PLANET 关联**：vise.it PLANET 三组专类：「Planet Networks」（NMS-500 等）、「PoE Solutions」（GS-4210-8P2S、FGSD-1022VHP、FGSW-2624HPS/HPS4、FGSW-1822VHP、GSD-1008HP、FGSD-2622VHP、FGSD-1011HP）、「Industrial Solutions」（IGS-5225-8P4S）；自编 SKU VSPL…；页面自称「Distributore Rivenditore Planet Networks Reggio Emilia」　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（闸 1 · G1 · 2026-10-29）：ViSe S.r.l.（意大利 1–5 人 IP 监控分销，P.IVA 01817610353）：坐实但微型 → 留原档巡检
 
 ```yaml structured_profile
 code: PB-056
@@ -14,7 +16,7 @@ p1: STC-28DGGPM
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: none
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -196,4 +198,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：2026-10-20_W10_证据老化回查与安防收尾_IT-PL　|　原始证据：batch/2026-10-20_W10_证据老化回查与安防收尾_IT-PL.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：2026-10-20_W10_证据老化回查与安防收尾_IT-PL　|　原始证据：batch/2026-10-20_W10_证据老化回查与安防收尾_IT-PL.json　|　渲染：scripts/render.py 2026-10-29*

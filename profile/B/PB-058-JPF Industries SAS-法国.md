@@ -3,6 +3,8 @@
 > **评级 B**　|　法国 · Quévert（Dinan，Côtes-d'Armor，布列塔尼）　|　档案编号 `PB-058`　|　优先级 ★★　|　状态：00-未触达
 >
 > **类型**：集成商/安装商 + 网络配件分销（Groupe Fauché 子公司：电气安装、信息网络与电话安装、定制线缆与电气柜制造；自营 B2B 网店 12,000 个 SKU）　|　**PLANET 关联**：jpfidistribution.com 在售 PLANET FSD-1008HP（8 口 PoE+ 百兆 10″ 机型，REF 411108）、PLANET GS4210-16T2S（16 口千兆 + 2 SFP 二层管理型）、PLANET LRP-101U（500 m PoE 延长套件）；REF 与 Exertis Connect/Azenn 货号一致 → PLANET 经 Exertis 二级采购　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：★ P 池 · 正式入池（档位 ○）**（闸 3 · G3 · 2026-10-29）：○ 安装商 + 网络配件分销 25%：JPF Industries SAS（22100 Quévert 8 Bd de Préval；SIREN 404 954 125；资本 €380k；1996 起（Groupe Fauché 收购 Ballant 更名）；88–100 人；营收 €11.1M）坐实（pappers）；电气 + 网络安装自有项目消耗 + 网店 PLANET 3 款在售；jpfid@fauche.com；主区 FR；集团子公司但网店自主运营
 
 ```yaml structured_profile
 code: PB-058
@@ -14,7 +16,7 @@ p1: STC-28DGGPM
 price_tier: 25%
 stage: 00-未触达
 mikrotik_ref: none
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -200,4 +202,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：2026-10-20_W11_A级老化回查收尾与法国集成商_FR-CZ-HU-SE-PL　|　原始证据：batch/2026-10-20_W11_A级老化回查收尾与法国集成商_FR-CZ-HU-SE-PL.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-20　|　入库批次：2026-10-20_W11_A级老化回查收尾与法国集成商_FR-CZ-HU-SE-PL　|　原始证据：batch/2026-10-20_W11_A级老化回查收尾与法国集成商_FR-CZ-HU-SE-PL.json　|　渲染：scripts/render.py 2026-10-29*

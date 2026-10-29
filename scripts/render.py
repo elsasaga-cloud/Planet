@@ -12,6 +12,19 @@ from common import read_csv, load_batches, load_prices, price_line, PROFILE_DIR,
 TODAY = datetime.date.today().isoformat()
 STRUCT_VER = "v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）"
 
+
+def load_sieve_planet():
+    # Planet 仓三闸筛选状态（scripts/sieve_p.py + sieve_batches_p/ → data/sieve_planet.json）
+    p = os.path.join(ROOT, "data", "sieve_planet.json")
+    d = json.load(open(p, encoding="utf-8")) if os.path.exists(p) else {}
+    return {k: v for k, v in d.items() if k != "_meta"}
+
+
+SP = load_sieve_planet()
+SP_LABEL = {"pass_final": "⛔ 已过筛 · 永久 pass", "keep": "留 Planet 仓原档（只巡检不入池）", "keep_C": "随主档留 C", "candidate": "闸 2 候选",
+            "pool": "★ P 池 · 正式入池", "pool_watch": "☆ P 池 · 观察档"}
+SP_PREFIX = {"pass_final": "⛔ ", "pool": "★ ", "pool_watch": "☆ ", "candidate": "☆ "}
+
 RED_LINES = """**通用红线（所有客户适用）**
 
 1. 包装、外观、说明书**全部中性**，不出现「Made in China」，贴客户自己的型号。
@@ -156,6 +169,13 @@ def render_one(row, by_saga, by_sb):
             L.append(f"> ⚠️ **Mikrotik 仓库已有档案 {_hdr_ref}**：C 级两仓均不首触，本档只保留对照与证据。")
         else:
             L.append(f"> ⚠️ **Mikrotik 仓库已有档案 {_hdr_ref}**：T06 ② 例外 —— 首触由本仓发出（仍只发一次），Mikrotik 侧勿再发；回复后两仓同步状态。")
+    sv = SP.get(code)
+    if sv:
+        _lab = SP_LABEL.get(sv.get("verdict"), sv.get("verdict"))
+        _tail = " —— 不再研究 / 不群发 / 不监控；撤销只在客户主动找上门时由 Simon 拍板" if sv.get("verdict") == "pass_final" else ""
+        _dup = f"（随 `{sv['dup_of']}`）" if sv.get("dup_of") else ""
+        L.append(f">")
+        L.append(f"> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：{_lab}{('（档位 ' + sv['star'] + '）') if sv.get('star') and sv.get('verdict') in ('pool', 'pool_watch') else ''}**{_dup}（闸 {sv.get('gate')} · {sv.get('rule')} · {sv.get('date')}）：{sv.get('reason')}{_tail}")
     L.append("")
     L.append("```yaml structured_profile")
     L.append(f"code: {code}\nrating: {grade}\ncountry: {row['国家']}\ntype: {row['类型']}\nplanet_models: {json.dumps(c.get('planet_models', []), ensure_ascii=False)}\n"
@@ -369,13 +389,18 @@ def main():
             f.write(render_one(r, by_saga, by_sb))
         n += 1
     # 索引
-    idx = ["# 客户档案索引（自动生成）\n", f"更新：{TODAY}\n", "| 编号 | 公司 | 国家 | 类型 | 评级 | 状态 | PLANET 关联 |", "|---|---|---|---|---|---|---|"]
+    _sc = {}
+    for _v in SP.values():
+        _sc[_v["verdict"]] = _sc.get(_v["verdict"], 0) + 1
+    idx = ["# 客户档案索引（自动生成）\n", f"更新：{TODAY}\n",
+           f"> 三闸筛选（2026-10-29，`data/sieve_planet.json`）：编号前缀 ★ = P 池正式入池、☆ = 观察档、⛔ = 永久 pass；无前缀 = 留原档 / 随 Saga·External 主档。计数：{_sc}\n",
+           "| 编号 | 公司 | 国家 | 类型 | 评级 | 状态 | PLANET 关联 |", "|---|---|---|---|---|---|---|"]
     for r in rows:
         if r["状态"].startswith("并入"):
             continue
         g = (r.get("人工定级") or r["评级"]).strip()[:1]
         fn = f"{r['档案编号']}-{safe_name(r['公司名'])}-{r['国家']}.md"
-        idx.append(f"| [{r['档案编号']}]({g}/{fn}) | {r['公司名']} | {r['国家']} | {r['类型']} | {r['评级']} | {r['状态']} | {r['信号（在卖什么品牌）'][:60]} |")
+        idx.append(f"| {SP_PREFIX.get((SP.get(r['档案编号']) or {}).get('verdict'), '')}[{r['档案编号']}]({g}/{fn}) | {r['公司名']} | {r['国家']} | {r['类型']} | {r['评级']} | {r['状态']} | {r['信号（在卖什么品牌）'][:60]} |")
     with open(os.path.join(PROFILE_DIR, "00-索引.md"), "w", encoding="utf-8") as f:
         f.write("\n".join(idx) + "\n")
     print(f"rendered {n} profiles")

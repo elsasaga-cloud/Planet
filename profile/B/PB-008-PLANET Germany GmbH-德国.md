@@ -3,6 +3,8 @@
 > **评级 B**　|　德国 · Essen　|　档案编号 `PB-008`　|　优先级 ★☆☆　|　状态：00-未触达
 >
 > **类型**：分销商（欧洲范围 IP 产品/网络组件分销，独立微型 GmbH）　|　**PLANET 关联**：自称 PLANET 德国分销；northdata：2014 年以 X VoiP UG 成立 → Planet Distribution UG → 2015 年 Planet Germany GmbH，资本 €25k，经营范围「europe-wide distribution of IP products」→ 独立微型公司，非台湾母公司子公司（W01 待核项已解决）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（闸 1 · G1 · 2026-10-29）：PLANET Germany GmbH（德国，名称绑定 PLANET 的微型分销 GmbH，资本 €25k）：PLANET 体系内实体，第二货源意愿存疑 → 视同原厂 / 同行，留原档不入池
 
 ```yaml structured_profile
 code: PB-008
@@ -14,7 +16,7 @@ p1: STC-424DGGPM-280W
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: none
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -177,4 +179,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json　|　渲染：scripts/render.py 2026-10-29*

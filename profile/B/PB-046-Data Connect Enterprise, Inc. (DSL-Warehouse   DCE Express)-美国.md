@@ -5,6 +5,8 @@
 > **类型**：VAD + 自有品牌制造商（Belden/Hirschmann 与 GarrettCom 主备货分销 + TAC；收购 Ctek/Relcomm/Synxcom/Telenetics 等产品线后自产商用/工业连接产品；DSL-Warehouse 为其 2009 年并入的电商部门）　|　**PLANET 关联**：官网厂商名录含 PLANET TECHNOLOGIES；DSL-Warehouse 设 PLANET 品牌页（LRE-101、LRP-422CST、LRP-104CET 工业延长器等带价在售）；DCE Express 厂商列表含 Planet Technology；Mikrotik 仓库 A-270（Hirschmann/GarrettCom 主备货分销）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
 >
 > ⚠️ **Mikrotik 仓库已有档案 A-270**：本档只补 PLANET 侧证据；联系策略以先建档案为准，勿重复首触。
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（随 `SA-059`）（闸 0 · DUP-AB · 2026-10-29）：与 SA-059（Saga A 级，本轮不筛 A/B）同一公司（同域名 data-connect.com）→ 随主档，不单独判；A/B 升级讨论时一并
 
 ```yaml structured_profile
 code: PB-046
@@ -16,7 +18,7 @@ p1: STI-288DGGPM
 price_tier: 30%
 stage: 10-已触达(S邮箱 去7·0回复)
 mikrotik_ref: A-270
-updated: 2026-10-22
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -182,4 +184,4 @@ updated: 2026-10-22
 
 ---
 
-*建档日期：2026-10-20　|　入库批次：2026-10-20_W06_Mikrotik工业品牌渠道行核验与葡萄牙补点_US-UK-PT　|　原始证据：batch/2026-10-20_W06_Mikrotik工业品牌渠道行核验与葡萄牙补点_US-UK-PT.json, batch/2026-10-20_W18_OR组与非OR剩余逐域复核及型号比价试探_CA-US.json　|　渲染：scripts/render.py 2026-10-22*
+*建档日期：2026-10-20　|　入库批次：2026-10-20_W06_Mikrotik工业品牌渠道行核验与葡萄牙补点_US-UK-PT　|　原始证据：batch/2026-10-20_W06_Mikrotik工业品牌渠道行核验与葡萄牙补点_US-UK-PT.json, batch/2026-10-20_W18_OR组与非OR剩余逐域复核及型号比价试探_CA-US.json　|　渲染：scripts/render.py 2026-10-29*

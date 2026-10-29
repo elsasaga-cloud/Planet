@@ -3,6 +3,8 @@
 > **评级 B**　|　德国 · Erftstadt　|　档案编号 `PB-009`　|　优先级 ★★☆　|　状态：00-未触达
 >
 > **类型**：分销商/电商 + 自有品牌制造（光纤网络技术专业商，1999 年起；自述 5000+ 客户：安装商/系统商/公用事业）　|　**PLANET 关联**：lwl-shop24.de 设 PLANET 分类；Impressum 自述「Fachhändler und Hersteller für Netzwerktechnik, Schwerpunkt Glasfaser」　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：★ P 池 · 正式入池（档位 ★）**（闸 3 · G3 · 2026-10-29）：★ 制造 + 批发 20% / 自牌 OEM 30%：BTS NETWORK GmbH（Erftstadt Albert-Einstein-Ring 2；HRB 45186 Köln；GmbH 2002-06-27（品牌 1999 起）；20+ 人；50,000 产品；光纤产品开发 / 生产 / 贸易，自有品牌；另运营 planet-technology.de 自称 PLANET 分销）坐实；主区 DE；anfrage@，GF 具名
 
 ```yaml structured_profile
 code: PB-009
@@ -14,7 +16,7 @@ p1: STC-28DGGPM
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: none
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -182,4 +184,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json, batch/2026-10-19_W03_品牌页反查与Mikrotik并档_HU-IT-NO-ES-FI-UK-PL-CA-FR-CZ.json　|　渲染：scripts/render.py 2026-10-29*

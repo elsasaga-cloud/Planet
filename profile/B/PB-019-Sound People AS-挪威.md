@@ -3,6 +3,8 @@
 > **评级 B**　|　挪威 · Drammen　|　档案编号 `PB-019`　|　优先级 ★☆☆　|　状态：00-未触达
 >
 > **类型**：集成商/AV 零售（AV 商店 1993/96 年起，5 人）+ PLANET 网络产品　|　**PLANET 关联**：在售 37 款 PLANET 网络商品（IGS-5225-8P2T2S、GS-5220、SGS-5220 等）+ Luxul　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：留 Planet 仓原档（只巡检不入池）**（闸 1 · G1 · 2026-10-29）：Sound People AS（挪威，5 人 AV 商店）：微型零售 → 留原档
 
 ```yaml structured_profile
 code: PB-019
@@ -14,7 +16,7 @@ p1: STC-424DGGPM-280W
 price_tier: 25%
 stage: 00-未触达
 mikrotik_ref: none
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -173,4 +175,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US　|　原始证据：batch/2026-10-19_W02_品牌页与型号反查_EU-UK-CZ-IT-HU-CA-US.json　|　渲染：scripts/render.py 2026-10-29*

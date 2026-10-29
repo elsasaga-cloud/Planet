@@ -1,0 +1,1767 @@
+{
+ "_meta": {
+  "updated": "2026-10-29",
+  "time": "09:39Z",
+  "n": 129,
+  "counts": {
+   "keep": 83,
+   "pool": 26,
+   "keep_C": 15,
+   "pool_watch": 4,
+   "pass_final": 1
+  },
+  "origin": "Planet",
+  "scheme": "docs/C池三闸筛选_方案_2026-10-29.md（Planet 仓同法）"
+ },
+ "PA-001": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SA-081",
+  "reason": "与 SA-081（Saga A 级，本轮不筛 A/B）同一公司（同域名 4power.it）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "A"
+ },
+ "PA-002": {
+  "verdict": "pool",
+  "gate": 3,
+  "rule": "G3",
+  "reason": "★ 官方分销 / VAD 20%：Cartronic Memory S.A.（San Sebastián de los Reyes, Madrid；CIF A81347239；S.A. 1996-01-22 登记（集团自述 1989）；资本 €650,000；10–49 人 / 营收 €10–50M；CNAE 4652 电信元件批发；Administrador único Mario Agreda Ballesteros）坐实；PLANET 西班牙官方分销 + Teltonika / Hanwha VAD；具名 KP Director de marketing y operaciones jmcobo@cartronic.es",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "A",
+  "batch": "P2-01",
+  "star": "★",
+  "facts": [
+   {
+    "what": "CIF A81347239 · S.A. · 1996-01-22 · Avenida Fuentenueva 12 · CNAE 4652 · 10–49 人 · €10–50M",
+    "url": "https://www.infoempresa.com/en-in/en/company/cartronic-memory-sa",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "资本 650,000 € · Administrador único Agreda Ballesteros Mario",
+    "url": "https://www.datoscif.es/empresa/cartronic-memory-sa",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "PLANET Networking 西班牙官方分销页",
+    "url": "https://cartronic.es/partners-planet-networking/",
+    "date": "2026-10-29"
+   }
+  ],
+  "tags": [
+   "official_dist"
+  ]
+ },
+ "PA-003": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SA-034",
+  "reason": "与 SA-034（Saga A 级，本轮不筛 A/B）同一公司（同域名 rfog.pl）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "A"
+ },
+ "PA-004": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SA-087",
+  "reason": "与 SA-087（Saga A 级，本轮不筛 A/B）同一公司（同域名 nsidistribution.com）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "A"
+ },
+ "PA-005": {
+  "verdict": "keep_C",
+  "gate": 0,
+  "rule": "DUP",
+  "dup_of": "XC-M096",
+  "reason": "与 XC-M096 同一公司（Mikrotik 旧编号 C-031）→ 随主档：keep_C（闸 1，渠道型主体但路径未建（分销（Moxa 授权）  B下放·无邮箱（群发触达不到）；官网 jampel.it，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2）",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "A"
+ },
+ "PA-006": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SA-083",
+  "reason": "与 SA-083（Saga A 级，本轮不筛 A/B）同一公司（同域名 kyma.it）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "A"
+ },
+ "PA-007": {
+  "verdict": "pool",
+  "gate": 3,
+  "rule": "G3",
+  "reason": "○ 安防批发 20%：ALARM ABSOLON, spol. s r.o.（Praha 8 Karlín Březinova 487/9；IČO 44796391；DIČ CZ44796391；1991-12-18 登记 C 6075；25–49 人）坐实；1989 年起捷克安防批发，目录有 PLANET 厂商页 + 多款 PoE；具名 tikovsky@ / kacenova@",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "A",
+  "batch": "P2-01",
+  "star": "○",
+  "facts": [
+   {
+    "what": "IČO 44796391 · Březinova 487/9 Praha-Karlín · 25–49 人（RES）",
+    "url": "https://rejstrik.penize.cz/ares/44796391-alarm-absolon-spol-s-r-o",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "Městský soud v Praze C 6075 · 1991-12-18 · 活跃",
+    "url": "https://firmy.euro.cz/subjekt-alarm-absolon-spol-s-r-o-44796391",
+    "date": "2026-10-29"
+   }
+  ],
+  "tags": [
+   "security_dist"
+  ]
+ },
+ "PA-008": {
+  "verdict": "pool",
+  "gate": 3,
+  "rule": "G3",
+  "reason": "○ IP 安防 VAD 20%：Aspectis Kft.（H-1158 Budapest Késmárk u. 11–13；Cégjegyzékszám 01-09-722853；Adószám 13106261-2-42；2003 年 Bata Miklós / Laczkó Gábor 创立，IP 视频系统分销先驱）坐实；Axis / Milestone / Hanwha + PLANET 匈牙利分销；总经理 Laczkó Gábor 直邮 gabor.laczko@aspectis.hu",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "A",
+  "batch": "P2-01",
+  "star": "○",
+  "facts": [
+   {
+    "what": "官网页脚：Cégjegyzékszám 01-09-722853 · Adószám 13106261-2-42 · 2003 年创立",
+    "url": "https://aspectis.hu/",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "Kapcsolat：ügyvezető Laczkó Gábor gabor.laczko@ · 财务 / 物流主管具名",
+    "url": "https://aspectis.hu/kapcsolat",
+    "date": "2026-10-29"
+   }
+  ],
+  "tags": [
+   "security_dist"
+  ]
+ },
+ "PA-009": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SA-043",
+  "reason": "与 SA-043（Saga A 级，本轮不筛 A/B）同一公司（同域名 direktronik.se）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "A"
+ },
+ "PA-010": {
+  "verdict": "pool_watch",
+  "gate": 3,
+  "rule": "G3",
+  "reason": "☆ 观察：iOC Tech Inc.（Markham ON；CBCA 公司号 8441189，BN 827795733RC0001，2013-02-20 注册，4 董事，Active；1–10 人）坐实但微型；工业以太网分销 + 定制线缆，自述 PLANET 加拿大授权分销（旧页 404，现 store.ioctech.ca）；sales@，Director Lloyd Raskina 具名；主区 CA → 试单后转正",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "A",
+  "batch": "P2-01",
+  "star": "☆",
+  "facts": [
+   {
+    "what": "Canada company registry：Corp No 8441189 · BN 827795733RC0001 · 2013-02-20 · Active · 4 directors",
+    "url": "https://www.canadacompanyregistry.com/companies/ioc-tech-inc/",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "Crunchbase：Markham · 1–10 人 · sales@ioctech.ca",
+    "url": "https://www.crunchbase.com/organization/ioc-tech",
+    "date": "2026-10-29"
+   }
+  ],
+  "tags": [
+   "micro"
+  ]
+ },
+ "PA-011": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "XA-M491",
+  "reason": "与 XA-M491（External A 级，本轮不筛 A/B）同一公司（Mikrotik 旧编号 A-233）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "A"
+ },
+ "PA-012": {
+  "verdict": "pool",
+  "gate": 3,
+  "rule": "G3",
+  "reason": "★ 授权分销 20%：SIR.tel. S.r.l.（Verona 省；P.IVA 02565900236；1991 年起；营收 €6.67M（2023））坐实；PLANET 授权分销自 2012、价目表 2026 Q1 季更；采购经理 Gioia Mantoan 具名（经 sales@sirtel.it「Attn:」）",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "A",
+  "batch": "P2-01",
+  "star": "★",
+  "facts": [
+   {
+    "what": "PLANET 价目表 2026 Q1 更新（现役分销）",
+    "url": "https://sirtel.it/notizie/aggiornamento-listino-planet-q1-gennaio-2026/",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "团队具名：CEO / 采购经理 / 技术产品经理 / 销售总监",
+    "url": "http://sirtel.it/team/",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "营收 €6.67M（2023）· 1991 · P.IVA 02565900236",
+    "url": "https://www.reportaziende.it/sirtel_srl_vr",
+    "date": "2026-10-29"
+   }
+  ],
+  "tags": [
+   "official_dist"
+  ]
+ },
+ "PA-013": {
+  "verdict": "pool",
+  "gate": 3,
+  "rule": "G3",
+  "reason": "★ AV / IT 增值分销 20%：Leteng AS（Org nr 952 002 872；1984 年起（注册 1995）；21 人（proff.no）；Lagercrantz Group 成员但独立运营、与 PA-009 Direktronik 同集团）坐实；PLANET 厂商页 + PoE 在售 + AV 安装渠道；总经理 Øyvind Jacobsen 直邮 oyvind@leteng.no、销售经理 borgar@",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "A",
+  "batch": "P2-01",
+  "star": "★",
+  "facts": [
+   {
+    "what": "batch W-facts：Org nr 952 002 872 · 1984 / 1995 · 21 人 · Lagercrantz Group（proff.no 口径，已记 batch/*.json）",
+    "url": "https://www.proff.no/",
+    "date": "2026-10-29"
+   }
+  ],
+  "tags": [
+   "group_member"
+  ]
+ },
+ "PA-014": {
+  "verdict": "keep_C",
+  "gate": 0,
+  "rule": "DUP",
+  "dup_of": "XC-M154",
+  "reason": "与 XC-M154 同一公司（Mikrotik 旧编号 C-089）→ 随主档：keep_C（闸 1，渠道型主体但路径未建（分销（PLANET 授权）  B下放·无邮箱（群发触达不到）；官网 pulsesupply.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱）→ 留 C 待巡检，补到邮箱再闸 2）",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "A"
+ },
+ "PA-015": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "XA-M154",
+  "reason": "与 XA-M154（External A 级，本轮不筛 A/B）同一公司（Mikrotik 旧编号 A-497）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "A"
+ },
+ "PA-016": {
+  "verdict": "pool",
+  "gate": 3,
+  "rule": "G3",
+  "reason": "○ VoIP / 网络电商 20%：VOIP24SKLEP.PL Sp. z o.o.（Bydgoszcz；KRS 0000666618；NIP 9671387462；REGON 366697204；2017-03-02；资本 5,000 zł）坐实；PLANET 为交换机主品牌（生产商页 + 自写博客 + 库存）；董事兼大股东 Kryspin Maroszczyk 直邮 k.maroszczyk@ → 决策链最短；波兰；体量小但复购真实",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "A",
+  "batch": "P2-01",
+  "star": "○",
+  "facts": [
+   {
+    "what": "官网 Contact-us：KRS 0000666618 · REGON 366697204 · 注册地址",
+    "url": "https://www.voip24sklep.pl/Contact-us",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "Nasza firma：董事具名直邮",
+    "url": "https://www.voip24sklep.pl/nasza-firma",
+    "date": "2026-10-29"
+   }
+  ]
+ },
+ "PA-017": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SA-088",
+  "reason": "与 SA-088（Saga A 级，本轮不筛 A/B）同一公司（同域名 ute.de）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "A"
+ },
+ "PA-018": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SA-089",
+  "reason": "与 SA-089（Saga A 级，本轮不筛 A/B）同一公司（同域名 lancomat.cz）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "A"
+ },
+ "PB-001": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SB-683",
+  "reason": "与 SB-683（Saga B 级，本轮不筛 A/B）同一公司（同域名 spectra.de）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-002": {
+  "verdict": "pool_watch",
+  "gate": 3,
+  "rule": "G3",
+  "reason": "☆ 观察：W3CAM SAS（Lorient；SIREN 483 019 345；NAF 46.43Z 批发；2005 起 SAS 资本 €25k；3–5 人）坐实但微型；PLANET 分销 + 本地库存 + 官方保修（brand/22-planet）；仅 contact@，Président Bertrand Ripoll 具名无直邮 → 试单 / 回访一次后转正或退回",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P2-01",
+  "star": "☆",
+  "facts": [
+   {
+    "what": "data.gouv 年鉴：SIREN 483019345 · NAF 46.43Z · Lorient 在营",
+    "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/w3cam-483019345",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "pappers：3–5 人 · 2005 · SAS",
+    "url": "https://www.pappers.fr/entreprise/w3cam-483019345",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "PLANET 品牌页：本地库存 + 官方保修",
+    "url": "https://www.w3cam.fr/brand/22-planet",
+    "date": "2026-10-29"
+   }
+  ],
+  "tags": [
+   "micro"
+  ]
+ },
+ "PB-003": {
+  "verdict": "pool",
+  "gate": 3,
+  "rule": "G3",
+  "reason": "★ 官方分销 20%：Konsorcjum FEN Sp. z o.o.（Poznań ul. Czarnkowska 13；KRS 0000196881，官网页脚）坐实；「Oficjalny Polski Dystrybutor Planet」专站 planet.fen.pl，带测试设备与售前售后；具名 AM bartosz.banaszak@fen.pl + sales@；波兰",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P2-01",
+  "star": "★",
+  "facts": [
+   {
+    "what": "planet.fen.pl：FEN to Oficjalny Polski Dystrybutor Planet",
+    "url": "https://planet.fen.pl/",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "法人登记 KRS 0000196881 + 具名 AM（官网 kontakt）",
+    "url": "https://fen.pl/kontakt/",
+    "date": "2026-10-29"
+   }
+  ],
+  "tags": [
+   "official_dist"
+  ]
+ },
+ "PB-004": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SB-1059",
+  "reason": "与 SB-1059（Saga B 级，本轮不筛 A/B）同一公司（同域名 neteon.net）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-005": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SB-1131",
+  "reason": "与 SB-1131（Saga B 级，本轮不筛 A/B）同一公司（同域名 marugged.com）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-006": {
+  "verdict": "keep",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "Network Camera Store（美国，drop-ship 无库存网店，2–10 人；sales@）：无自有库存 = 无进货决策 → 留原档巡检",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P1-01",
+  "tags": [
+   "micro"
+  ]
+ },
+ "PB-007": {
+  "verdict": "keep",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "Paragon Networks Ltd（英国，小型网络产品网店，PLANET 工业专区；enquiries@，无具名）：体量小、无 KP → 冷户不足 4 条，留原档巡检",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P1-01"
+ },
+ "PB-008": {
+  "verdict": "keep",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "PLANET Germany GmbH（德国，名称绑定 PLANET 的微型分销 GmbH，资本 €25k）：PLANET 体系内实体，第二货源意愿存疑 → 视同原厂 / 同行，留原档不入池",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P1-01",
+  "tags": [
+   "peer"
+  ]
+ },
+ "PB-009": {
+  "verdict": "pool",
+  "gate": 3,
+  "rule": "G3",
+  "reason": "★ 制造 + 批发 20% / 自牌 OEM 30%：BTS NETWORK GmbH（Erftstadt Albert-Einstein-Ring 2；HRB 45186 Köln；GmbH 2002-06-27（品牌 1999 起）；20+ 人；50,000 产品；光纤产品开发 / 生产 / 贸易，自有品牌；另运营 planet-technology.de 自称 PLANET 分销）坐实；主区 DE；anfrage@，GF 具名",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P2-01",
+  "star": "★",
+  "facts": [
+   {
+    "what": "HRB 45186 Amtsgericht Köln · Albert-Einstein-Ring 2, 50374 Erftstadt · 电信 / 电子元件批发",
+    "url": "https://firmeneintrag.creditreform.de/50374/5190612148/BTS_NETWORK_GMBH",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "1999 成立 · 20+ 员工 · 50,000 产品 · Hersteller + Großhändler（光纤）",
+    "url": "https://www.lieferanten.de/lieferant-25724-bts-network-gmbh-und-co-kg.html",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "planet-technology.de：「Ihr PLANET Distributor」（W03 补证）",
+    "url": "http://planet-technology.de/",
+    "date": "2026-10-29"
+   }
+  ],
+  "tags": [
+   "oem_target"
+  ]
+ },
+ "PB-010": {
+  "verdict": "keep",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "Ballicom Ltd（英国，综合 IT 网店 26 人，GS-4210-24P4C 库存 30 台；sales@）：目录型 IT 电商、无具名 KP → 长期复利弱，留原档巡检",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P1-01"
+ },
+ "PB-011": {
+  "verdict": "pool",
+  "gate": 3,
+  "rule": "G3",
+  "reason": "○ VoIP / IP 电话分销 20%：ProVu Communications Ltd（Savile Mill, Huddersfield HD3 4PG；Companies House 03748320；1999-04-08 注册；5 董事；2025 现金 £1.04M）坐实；刚引入 PLANET 交换机专页（新品类窗口）；contact@，Sales Manager Joe Walberg 具名；主区 GB",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P2-01",
+  "star": "○",
+  "facts": [
+   {
+    "what": "Company number 03748320 · 1999-04-08 · Active · 2025 cash £1,040,902",
+    "url": "https://www.companiesintheuk.co.uk/ltd/provu-communications",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "PLANET 交换机专页",
+    "url": "https://www.provu.co.uk/planet-switches.html",
+    "date": "2026-10-29"
+   }
+  ]
+ },
+ "PB-012": {
+  "verdict": "keep",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "Visual Control Systems（英国，4 人智能家居安装商）：微型安装商 → 留原档",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P1-01",
+  "tags": [
+   "micro"
+  ]
+ },
+ "PB-013": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SB-721",
+  "reason": "与 SB-721（Saga B 级，本轮不筛 A/B）同一公司（同域名 woodcomm.ie）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-014": {
+  "verdict": "keep",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "NetWalker EURL（法国，微型监控软件分销 + 网店；contact@）：微型、无具名 → 留原档",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P1-01",
+  "tags": [
+   "micro"
+  ]
+ },
+ "PB-015": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SB-492",
+  "reason": "与 SB-492（Saga B 级，本轮不筛 A/B）同一公司（同域名 sistel-networking.it）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-016": {
+  "verdict": "keep",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "LK enterprise / Kamerový Svět（捷克，2022 年成立安防网店 + 安装；obchod@）：新设微型 → 留原档巡检",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P1-01",
+  "tags": [
+   "micro"
+  ]
+ },
+ "PB-017": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SB-428",
+  "reason": "与 SB-428（Saga B 级，本轮不筛 A/B）同一公司（同域名 media-konwertery.pl）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-018": {
+  "verdict": "pool",
+  "gate": 3,
+  "rule": "G3",
+  "reason": "★ 安防批发 20% + 自牌 OEM 30%：Power Biztonságtechnikai Kft.（1031 Budapest Kazal u. 64–66；Cégjegyzékszám 01-09-974579；Adószám 13678144-2-41；LEI 5299001BBFG4OUCAVZ44；2005 年起；2025 净营收 10,401,159 千 Ft ≈ €26M；MD Galambosi Ákos / Banai Miklós）坐实；仅面向安装商 / 经销商的安防批发，自有品牌 Techson；PLANET 48 口 PoE + 工业 PoE 在售；info@ / sales@",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P2-01",
+  "star": "★",
+  "facts": [
+   {
+    "what": "Impresszum：Cégjegyzékszám 01-09-974579 · Adószám 13678144-2-41 · LEI · 两位 MD",
+    "url": "https://powerbizt.hu/impresszum",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "OPTEN：2005 · 净营收 10 401 159 ezer Ft（2025）· 注册资本 5–10 M Ft",
+    "url": "https://webshop.opten.hu/power-kft-c1309107053.html",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "Techson 自有品牌站（同一法人 / 税号）",
+    "url": "https://techson.hu/en/cookie-policy",
+    "date": "2026-10-29"
+   }
+  ],
+  "tags": [
+   "oem_target",
+   "security_dist"
+  ]
+ },
+ "PB-019": {
+  "verdict": "keep",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "Sound People AS（挪威，5 人 AV 商店）：微型零售 → 留原档",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P1-01",
+  "tags": [
+   "micro"
+  ]
+ },
+ "PB-020": {
+  "verdict": "pool",
+  "gate": 3,
+  "rule": "G3",
+  "reason": "○ 线缆制造 + 安防 / 网络分销 20%：Jlinks Technology Corp.（Richmond BC 328-13988 Cambie Road 总部 2002 起 + Montreal 分部 2010 起；S.A.E. Cable 独家分销；UL / cUL / CSA 线缆）官网 + 名录部分坐实（BC 公司号未查到 → 补证）；PLANET 多型号在售；sales@，Director Jack Chou 具名；主区 CA",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P2-01",
+  "star": "○",
+  "facts": [
+   {
+    "what": "About：2002 年起 Greater Vancouver · 2010 Montreal 分部 · S.A.E. Cable 独家分销 · 制造 + 分销",
+    "url": "https://jlinks.com/about/",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "Yelp：安防 / 线缆批发 · (604) 207-1662",
+    "url": "https://www.yelp.ca/biz/jlinks-technology-corp-richmond",
+    "date": "2026-10-29"
+   }
+  ],
+  "tags": [
+   "reg_pending"
+  ]
+ },
+ "PB-021": {
+  "verdict": "keep",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "Nassau National Cable（美国，1950 年起线缆分销 Inc 5000；PLANET 仅 1 款）：线缆为主、交换机边线 → 对位弱，留原档巡检",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P1-01"
+ },
+ "PB-022": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SB-1013",
+  "reason": "与 SB-1013（Saga B 级，本轮不筛 A/B）同一公司（同域名 bizsyscon.com）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-023": {
+  "verdict": "keep",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "Anatronic S.A.（西班牙 1982，PLANET 西 / 葡厂商代表；comercial@）：代表制与 PLANET 绑定、第二货源冲突 → 视同同行，留原档",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P1-01",
+  "tags": [
+   "peer"
+  ]
+ },
+ "PB-024": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SB-1018",
+  "reason": "与 SB-1018（Saga B 级，本轮不筛 A/B）同一公司（同域名 coeldistribution.it）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-025": {
+  "verdict": "pool_watch",
+  "gate": 3,
+  "rule": "G3",
+  "reason": "☆ 观察：Microdata Finland Oy（Vantaa Robert Huberin tie 2；Y-tunnus 2049377-0；2006-07-27；NACE 46510；2025 营收 €1.5M、5 人、营业利润率 15.7%；TJ Juha-Matti Joutkoski）坐实但微型；电信 / 网络批发面向经销商，PLANET PoE 在售；myynti@ + 具名 aki.jarvinen@ → 试单后转正",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P2-01",
+  "star": "☆",
+  "facts": [
+   {
+    "what": "proff.fi：Y-tunnus 2049377-0 · 营收 1,5 MEUR（2025）· 5 人 · TJ Joutkoski Juha-Matti",
+    "url": "https://www.proff.fi/yrityksen/microdata-finland-oy/vantaa/tietokoneet-tietokonelaitteet-ja-ohjelmistot-%E2%80%93-tukkukauppa/2049377-0I10ML",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "finder.fi：2006-07-27 · Osakeyhtiö · Vantaa",
+    "url": "https://www.finder.fi/Verkkoj%C3%A4rjestelm%C3%A4t+tietoliikennej%C3%A4rjestelm%C3%A4t/Microdata+Finland+Oy/Vantaa/yhteystiedot/962136",
+    "date": "2026-10-29"
+   }
+  ],
+  "tags": [
+   "micro"
+  ]
+ },
+ "PB-026": {
+  "verdict": "keep",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "CMS plc（英国 15 人，Norbain SD 旗下）：集团采购可能上收 → 留原档巡检",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P1-01"
+ },
+ "PB-027": {
+  "verdict": "keep",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "VERSIM S.A.（波兰上市 VAD，Extreme Networks 分销；PLANET 现状待核）：VAD 偏大 + PLANET 在售待核 → 留原档巡检",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P1-01"
+ },
+ "PB-028": {
+  "verdict": "pool",
+  "gate": 0,
+  "rule": "DUP",
+  "dup_of": "SC-2941",
+  "reason": "与 SC-2941 同一公司（同域名 digitx.it）→ 随主档：pool（闸 3，★ P 池正式入池（档位 ○）：○ 工业 B2B 电商 + 自有商标 · OEM 30%：Lastella Trade S.r.l. = digitX.it（Funo di Argelato BO；P.I. 03695681209 / RE）",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-029": {
+  "verdict": "keep",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "Microsam（加拿大 CCTV 系统供应 <25 人；microsam.ca 域名 nxdomain，仅电话）：路径半死 → 留原档巡检，域名恢复再闸 2",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P1-01"
+ },
+ "PB-030": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "XA-M496",
+  "reason": "与 XA-M496（External A 级，本轮不筛 A/B）同一公司（Mikrotik 旧编号 A-254）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-031": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SB-861",
+  "reason": "与 SB-861（Saga B 级，本轮不筛 A/B）同一公司（同域名 bimel.com.tr）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-032": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SB-286",
+  "reason": "与 SB-286（Saga B 级，本轮不筛 A/B）同一公司（同域名 rimaelektronik.com）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-033": {
+  "verdict": "pool",
+  "gate": 3,
+  "rule": "G3",
+  "reason": "○ 安防 / IT 区域分销 20%：Hasan Ergen – Ergen Elektronik（Antalya Muratpaşa；个体商号；EMIS 记 1994-07-18 设立，名录记 2002-08-13；Zanuo Türkiye 官方分销 + Dahua 在售有库存）部分坐实（个体商号无公司注册号；find.com.tr 页为占位数字不采信）；主区 TR；info@，负责人 Serhat Ergen 具名 → 预付 100% 起步",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P2-01",
+  "star": "○",
+  "facts": [
+   {
+    "what": "EMIS：Hasan Ergen Ergen Elektronik · Antalya · 1994-07-18",
+    "url": "https://www.emis.com/php/company-profile/TR/Hasan_Ergen_Ergen_Elektronik_en_4259975.html",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "官网：zanuo Türkiye – Resmi Distribütörü · Dahua 库存",
+    "url": "https://www.ergenelektronik.com/urun/32778/DAHUA//sitekural//sitekural/garanti",
+    "date": "2026-10-29"
+   }
+  ],
+  "tags": [
+   "prepay",
+   "sole_trader"
+  ]
+ },
+ "PB-034": {
+  "verdict": "keep_C",
+  "gate": 0,
+  "rule": "DUP",
+  "dup_of": "XC-M150",
+  "reason": "与 XC-M150 同一公司（Mikrotik 旧编号 C-085）→ 随主档：keep_C（闸 1，渠道型主体但路径未建（分销（PLANET 授权）  B下放·无邮箱（群发触达不到）；官网 platinummicro.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱）→ 留 C 待巡检，补到邮箱再闸 2）",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-035": {
+  "verdict": "keep_C",
+  "gate": 0,
+  "rule": "DUP",
+  "dup_of": "XC-M132",
+  "reason": "与 XC-M132 同一公司（Mikrotik 旧编号 C-067）→ 随主档：keep_C（闸 1，渠道型主体但路径未建（分销（PLANET 授权）  B下放·无邮箱（群发触达不到）；官网 abptech.com，无邮箱 / 电话 / WA；来源库标 无可用邮箱）→ 留 C 待巡检，补到邮箱再闸 2）",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-036": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SB-1125",
+  "reason": "与 SB-1125（Saga B 级，本轮不筛 A/B）同一公司（同域名 globall.ca）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-037": {
+  "verdict": "pool",
+  "gate": 0,
+  "rule": "DUP",
+  "dup_of": "SC-2488",
+  "reason": "与 SC-2488 同一公司（同邮箱域 fiber24.net）→ 随主档：pool（闸 3，★ P 池正式入池（档位 ○）：○ 分销 20%：Fiber24 GmbH（HRB 104376 Hamburg；2008；RIK Holding 控制；Planet 在售）坐实；分销 ✔ 主区 ✔ 坐实 ✔ 对位 ✔ = 冷户四条 → P）",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-038": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SB-1091",
+  "reason": "与 SB-1091（Saga B 级，本轮不筛 A/B）同一公司（同域名 triotronik.com）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-039": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "XA-M022",
+  "reason": "与 XA-M022（External A 级，本轮不筛 A/B）同一公司（Mikrotik 旧编号 A-032）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-040": {
+  "verdict": "pool",
+  "gate": 3,
+  "rule": "G3",
+  "reason": "○ 安防电商 / 安装 20% + 白牌 OEM 30%：H&V Security B.V.（Gorinchem Edisonweg 12；KvK 69433550；bol.com 另记 KvK 57221073 / BTW NL852488282B01 —— 两实体同商号，待统一）坐实；20+ 年安防系统 + 展厅 + 自有支持工程师；自有白牌 PoE 交换机系列（Movok / VK）→ OEM 线索；info@ + WhatsApp 06-83823011",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P2-01",
+  "star": "○",
+  "facts": [
+   {
+    "what": "About us：H&V Security B.V. · Edisonweg 12 4207 HG Gorinchem · KvK 69433550 · WhatsApp",
+    "url": "https://alarmsysteemexpert.nl/en/pages/about-us",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "bol.com 商家信息：KvK 57221073 · BTW NL852488282B01",
+    "url": "https://www.bol.com/nl/v/alarmsysteemexpert-nl/952936/",
+    "date": "2026-10-29"
+   }
+  ],
+  "tags": [
+   "oem_target"
+  ]
+ },
+ "PB-041": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SB-1119",
+  "reason": "与 SB-1119（Saga B 级，本轮不筛 A/B）同一公司（同域名 noktaelektronik.net）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-042": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SB-1123",
+  "reason": "与 SB-1123（Saga B 级，本轮不筛 A/B）同一公司（同域名 connectec.uk）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-043": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SB-679",
+  "reason": "与 SB-679（Saga B 级，本轮不筛 A/B）同一公司（同域名 saratota.com）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-044": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "XA-M275",
+  "reason": "与 XA-M275（External A 级，本轮不筛 A/B）同一公司（Mikrotik 旧编号 A-562）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-045": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SB-779",
+  "reason": "与 SB-779（Saga B 级，本轮不筛 A/B）同一公司（同域名 shop4power.nl）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-046": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SA-059",
+  "reason": "与 SA-059（Saga A 级，本轮不筛 A/B）同一公司（同域名 data-connect.com）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-047": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "XA-C0013",
+  "reason": "与 XA-C0013（External A 级，本轮不筛 A/B）同一公司（同域名 wavonline.com（External））→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-048": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "XA-M250",
+  "reason": "与 XA-M250（External A 级，本轮不筛 A/B）同一公司（Mikrotik 旧编号 A-553）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-049": {
+  "verdict": "pool_watch",
+  "gate": 3,
+  "rule": "G3",
+  "reason": "☆ 观察：Intermédia – Informática, Lda（Coimbra Rua Dom Ernesto Sena de Oliveira Lote 1；NIF 503329827；主营电信设备）坐实但微型（Lda，人数未公开）；官网 PLANET 专页全系带价（含 L3 PoE 与 IGS-6325 工业线）= 真实备货经销；info@ / compras@（采购信箱）→ 试单后转正",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P2-01",
+  "star": "☆",
+  "facts": [
+   {
+    "what": "iberinform：法人 / 地址 / 官网一致",
+    "url": "https://www.iberinform.pt/empresa/22087434/intermedia-informatica-lda",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "racius：主营电信设备",
+    "url": "https://www.racius.com/intermedia-informatica-lda/",
+    "date": "2026-10-29"
+   }
+  ],
+  "tags": [
+   "micro"
+  ]
+ },
+ "PB-050": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "XA-M153",
+  "reason": "与 XA-M153（External A 级，本轮不筛 A/B）同一公司（Mikrotik 旧编号 B-201）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-051": {
+  "verdict": "pool",
+  "gate": 0,
+  "rule": "DUP",
+  "dup_of": "SC-2510",
+  "reason": "与 SC-2510 同一公司（同域名 eltrox.pl）→ 随主档：pool（闸 3，★ P 池正式入池（档位 ★★）：★★ 首选 · OEM 30%：ELTROX Sp. z o.o.（KRS 0000175807；NIP 6462490527；Częstochowa；2003 起；36 直营 + 52 合作门店；批发品牌）",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-052": {
+  "verdict": "pool",
+  "gate": 3,
+  "rule": "G3",
+  "reason": "○ 独立安防分销 20%：STS Lab, Inc. dba CCTV.Net（16037 Arminta St, Van Nuys CA 91406；2001 年起；82 品牌 dealer-only；D&B 模型营收 $2.61M、principal Boris Bronstein；Cience 估 $10–25M → 体量口径不一）官网 + D&B 部分坐实（CA SoS 实体号未查到 → 补证）；PLANET 为在售交换机主线（1,028 件 + dealer 价目）；sales@ / info@；主区 US；注意 UL / ETL 问法",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P2-01",
+  "star": "○",
+  "facts": [
+   {
+    "what": "Privacy Policy：STS Lab, Inc. · 16037 Arminta St Van Nuys CA 91406 · info@cctv.net",
+    "url": "https://cctv.net/privacy-policy",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "D&B：dba CCTV.net · 营收 $2.61M（modelled）· principal BORIS BRONSTEIN",
+    "url": "https://www.dnb.com/business-directory/company-profiles.sts_lab_inc.4a1716e0df1ff52b48f6572be02066c4.html",
+    "date": "2026-10-29"
+   }
+  ],
+  "tags": [
+   "reg_pending",
+   "security_dist"
+  ]
+ },
+ "PB-053": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SB-1127",
+  "reason": "与 SB-1127（Saga B 级，本轮不筛 A/B）同一公司（同域名 linhawstore.com）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-054": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SB-275",
+  "reason": "与 SB-275（Saga B 级，本轮不筛 A/B）同一公司（同域名 gelecekbt.com）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-055": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SB-617",
+  "reason": "与 SB-617（Saga B 级，本轮不筛 A/B）同一公司（同域名 ipc2u.de）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-056": {
+  "verdict": "keep",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "ViSe S.r.l.（意大利 1–5 人 IP 监控分销，P.IVA 01817610353）：坐实但微型 → 留原档巡检",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P1-01",
+  "tags": [
+   "micro"
+  ]
+ },
+ "PB-057": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SB-1124",
+  "reason": "与 SB-1124（Saga B 级，本轮不筛 A/B）同一公司（同域名 fonex.pl）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-058": {
+  "verdict": "pool",
+  "gate": 3,
+  "rule": "G3",
+  "reason": "○ 安装商 + 网络配件分销 25%：JPF Industries SAS（22100 Quévert 8 Bd de Préval；SIREN 404 954 125；资本 €380k；1996 起（Groupe Fauché 收购 Ballant 更名）；88–100 人；营收 €11.1M）坐实（pappers）；电气 + 网络安装自有项目消耗 + 网店 PLANET 3 款在售；jpfid@fauche.com；主区 FR；集团子公司但网店自主运营",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P2-01",
+  "star": "○",
+  "facts": [
+   {
+    "what": "pappers：SIREN 404954125 · SAS · 88–100 人 · 行业代码（已记 batch/*.json）",
+    "url": "https://www.pappers.fr/entreprise/jpf-industries-404954125",
+    "date": "2026-10-29"
+   }
+  ],
+  "tags": [
+   "group_member"
+  ]
+ },
+ "PB-059": {
+  "verdict": "pool",
+  "gate": 3,
+  "rule": "G3",
+  "reason": "○ IT 进口 / 批发 20%：Europ Computer Performance SARL（93240 Stains ZA La Cerisaie 29 av. Jean Moulin；SIREN 402 225 098 RCS Bobigny；1995-09-10）坐实；自述「importation et distribution」5,000+ SKU / 5,000+ 经销商，官网 PLANET 品牌页自称批发分销；sales@ + +33 1 49 98 98 98；主区 FR；人数 / 营收待补",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P2-01",
+  "star": "○",
+  "facts": [
+   {
+    "what": "官网 À propos：进口 / 分销定位 · 1995 · 地址与公开邮箱",
+    "url": "https://www.europ-computer.com/content/1-a-propos",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "PagesJaunes：SARL · 注册号 402 225 098",
+    "url": "https://www.pagesjaunes.fr/pros/51310079",
+    "date": "2026-10-29"
+   }
+  ]
+ },
+ "PB-060": {
+  "verdict": "keep",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "DATA GROUP SK（斯洛伐克 2 人翻新大牌经纪，2022 年设）：PLANET 为边线、经纪型 → 留原档",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P1-01",
+  "tags": [
+   "micro"
+  ]
+ },
+ "PB-061": {
+  "verdict": "pool",
+  "gate": 3,
+  "rule": "G3",
+  "reason": "○ CCTV 批发 + 安装 20%：Elctron E-commerce Partners Sp. z o.o.（Warszawa Górczewska 129；KRS 0001031273；NIP 5273052174；2023-04-14 注册，品牌 CTR 自 2008；资本 5,000 zł；64 个合作点；Prezes Marek Andrzej Sołtys）坐实；PLANET 35 款现货 24 h 发货；info@ctr.pl + +48 504 500 007；波兰",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P2-01",
+  "star": "○",
+  "facts": [
+   {
+    "what": "krs-pobierz：KRS 0001031273 · 注册日 / 资本 / 主营",
+    "url": "https://krs-pobierz.pl/elctron-e-commerce-partners-spolka-z-ograniczona-odpowiedzialnoscia-i0001031273",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "官网 kontakt：法人 + CCTV 批发 + 安装 + 64 代表点",
+    "url": "https://ctr.pl/kontakt",
+    "date": "2026-10-29"
+   }
+  ],
+  "tags": [
+   "security_dist"
+  ]
+ },
+ "PB-062": {
+  "verdict": "keep",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "Gateway Comunicaciones（西班牙 4 人安防物料网店，CIF B35679638）：微型 → 留原档巡检",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P1-01",
+  "tags": [
+   "micro"
+  ]
+ },
+ "PB-063": {
+  "verdict": "keep_C",
+  "gate": 0,
+  "rule": "DUP",
+  "dup_of": "XC-M105",
+  "reason": "与 XC-M105 同一公司（Mikrotik 旧编号 C-040）→ 随主档：keep_C（闸 1，渠道型主体但路径未建（电商  B下放·无邮箱（群发触达不到）；官网 mader.cz，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2）",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-064": {
+  "verdict": "keep_C",
+  "gate": 0,
+  "rule": "DUP",
+  "dup_of": "XC-M292",
+  "reason": "与 XC-M292 同一公司（Mikrotik 旧编号 C-227）→ 随主档：keep_C（闸 1，巨头 / 大集团 / 大 VAR 守界「大的搞不定」（分销（MikroTik 官方）  太难·规模过大/决策链长 超大集团 / 决策链太长（Saga 守界：大集团搞不定））→ 留 C 长线不 pass）",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-065": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SB-178",
+  "reason": "与 SB-178（Saga B 级，本轮不筛 A/B）同一公司（同域名 wisp.pl）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-066": {
+  "verdict": "pool",
+  "gate": 0,
+  "rule": "DUP",
+  "dup_of": "SC-2429",
+  "reason": "与 SC-2429 同一公司（同域名 epcom.net）→ 随主档：pool（闸 3，★ P 池正式入池（档位 ★）：★ 中型分销 20%：El Paso Communication Systems, Inc. — EPCOM（1987；95 人；$23.7M；三仓；PLANET 双线在售；purchasing@ 在表）坐实）",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-067": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "XA-M172",
+  "reason": "与 XA-M172（External A 级，本轮不筛 A/B）同一公司（Mikrotik 旧编号 A-579）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-068": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SB-1055",
+  "reason": "与 SB-1055（Saga B 级，本轮不筛 A/B）同一公司（同邮箱域 marcomweb.it）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-069": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SB-1021",
+  "reason": "与 SB-1021（Saga B 级，本轮不筛 A/B）同一公司（同域名 cyberbajt.pl）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-070": {
+  "verdict": "keep_C",
+  "gate": 0,
+  "rule": "DUP",
+  "dup_of": "SC-994",
+  "reason": "与 SC-994 同一公司（同邮箱域 vanco.cz）→ 随主档：keep_C（闸 1，捷克；表分 群发冷名单无回应；兴趣：卖几个有名牌子的 → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备）",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-071": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "XA-M086",
+  "reason": "与 XA-M086（External A 级，本轮不筛 A/B）同一公司（Mikrotik 旧编号 A-452）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-072": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "XA-M088",
+  "reason": "与 XA-M088（External A 级，本轮不筛 A/B）同一公司（Mikrotik 旧编号 B-081）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-073": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SB-836",
+  "reason": "与 SB-836（Saga B 级，本轮不筛 A/B）同一公司（同域名 fiberworks.no）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-074": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "XA-M170",
+  "reason": "与 XA-M170（External A 级，本轮不筛 A/B）同一公司（Mikrotik 旧编号 B-522）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-075": {
+  "verdict": "keep",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "SOFTCOM GROUP（捷克 30,000 SKU 综合 IT 电商，PLANET 来自分销 feed）：目录 feed 型 → 留原档",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P1-01"
+ },
+ "PB-076": {
+  "verdict": "keep_C",
+  "gate": 0,
+  "rule": "DUP",
+  "dup_of": "XC-M088",
+  "reason": "与 XC-M088 同一公司（Mikrotik 旧编号 C-023）→ 随主档：keep_C（闸 1，渠道型主体但路径未建（分销（PLANET 授权）  B下放·无邮箱（群发触达不到）；官网 planet-shop.gr，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2）",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-077": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "XA-M279",
+  "reason": "与 XA-M279（External A 级，本轮不筛 A/B）同一公司（Mikrotik 旧编号 A-381）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-078": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SB-1078",
+  "reason": "与 SB-1078（Saga B 级，本轮不筛 A/B）同一公司（同域名 solimedia.net）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-079": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "XA-M222",
+  "reason": "与 XA-M222（External A 级，本轮不筛 A/B）同一公司（Mikrotik 旧编号 A-538）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-080": {
+  "verdict": "keep",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "Telecom Creations（美国 50,000 SKU 通信电商，PLANET 页 2018 年建、多停产款）：目录 feed 型 → 留原档",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P1-01"
+ },
+ "PB-081": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SB-176",
+  "reason": "与 SB-176（Saga B 级，本轮不筛 A/B）同一公司（同域名 oksa.co.uk）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-082": {
+  "verdict": "pool",
+  "gate": 3,
+  "rule": "G3",
+  "reason": "○ 商用 AV / 数字标牌集成 + 网店 25%：Snugfort Limited（England & Wales 12278368；VAT GB 396 2351 74；London EC2A 4NE；2019 起；500+ 企业客户）坐实；PLANET Official Partner，交换机类目 220/270 为 PLANET、IPOE-260 实时库存 168 件 → 真实周转；info@ + support@；主区 GB",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P2-01",
+  "star": "○",
+  "facts": [
+   {
+    "what": "About us：2019 起 · 500+ 企业客户 · Samsung / LG / iiyama 授权（Companies House 12278368 已记 batch/*.json）",
+    "url": "https://screenmoove.com/pages/about-us",
+    "date": "2026-10-29"
+   }
+  ]
+ },
+ "PB-083": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SB-1129",
+  "reason": "与 SB-1129（Saga B 级，本轮不筛 A/B）同一公司（同域名 redcorp.com）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-084": {
+  "verdict": "keep",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "VoIPDistri.com（德国个体企业 VoIP 网店，交换机 1 款在库）：个体 + 边线 → 留原档",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P1-01",
+  "tags": [
+   "micro"
+  ]
+ },
+ "PB-085": {
+  "verdict": "keep",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "ESUS IT（波兰内存 / SSD 电商，交换机类目为 FEN feed）：feed 型 → 留原档（主档随 PB-003 FEN 渠道）",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P1-01"
+ },
+ "PB-086": {
+  "verdict": "keep",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "Technical Reality（英国 100,000 SKU 通用 IT 供应商）：目录型 → 留原档巡检",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P1-01"
+ },
+ "PB-087": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SB-1045",
+  "reason": "与 SB-1045（Saga B 级，本轮不筛 A/B）同一公司（同域名 itm-components.co.uk）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-088": {
+  "verdict": "pool",
+  "gate": 3,
+  "rule": "G3",
+  "reason": "★ 布线 / 电信器材分销 20%：Mills Limited（Companies House 00282704；VAT 227 0825 74；1918 年起家族企业；~60 人；7,000+ 产品；Uxbridge + Amble 两柜台；CityFibre 等 altnet 供应商）坐实；Active Equipment 类目 6 款 PLANET 带价现货 = 唯一交换机线；sales@ + 020 8833 2626，Sales Manager Dil Bhachu 具名",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P2-01",
+  "star": "★",
+  "facts": [
+   {
+    "what": "batch W-facts：Companies House 00282704 · VAT 227 0825 74 · ~60 人 · 7,000+ 产品（已记 batch/*.json）",
+    "url": "https://www.millsltd.com/pages/about",
+    "date": "2026-10-29"
+   }
+  ]
+ },
+ "PB-089": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SB-1022",
+  "reason": "与 SB-1022（Saga B 级，本轮不筛 A/B）同一公司（同域名 danbit.dk）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-090": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SB-1126",
+  "reason": "与 SB-1126（Saga B 级，本轮不筛 A/B）同一公司（同域名 klinger.fi）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-091": {
+  "verdict": "keep",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "DIGIRAM.PL Adam Tytoń（波兰个体网店，PLANET 全线在售、店主直邮 adam@）：个体微型 → 留原档巡检；复购体量出现再闸 2",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P1-01",
+  "tags": [
+   "micro"
+  ]
+ },
+ "PB-092": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SB-1092",
+  "reason": "与 SB-1092（Saga B 级，本轮不筛 A/B）同一公司（同域名 unifibre.it）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-093": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SB-1052",
+  "reason": "与 SB-1052（Saga B 级，本轮不筛 A/B）同一公司（同域名 lan.hu）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-094": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SB-1008",
+  "reason": "与 SB-1008（Saga B 级，本轮不筛 A/B）同一公司（同域名 avstek.fi）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-095": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SB-1133",
+  "reason": "与 SB-1133（Saga B 级，本轮不筛 A/B）同一公司（同域名 netram.de）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-096": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SB-1128",
+  "reason": "与 SB-1128（Saga B 级，本轮不筛 A/B）同一公司（同域名 losan.cz）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-097": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SB-1058",
+  "reason": "与 SB-1058（Saga B 级，本轮不筛 A/B）同一公司（同域名 multiproject.com.pl）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PB-098": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "SB-932",
+  "reason": "与 SB-932（Saga B 级，本轮不筛 A/B）同一公司（同域名 acceed.com）→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "B"
+ },
+ "PC-001": {
+  "verdict": "keep_C",
+  "gate": 0,
+  "rule": "DUP",
+  "dup_of": "SC-2599",
+  "reason": "与 SC-2599 同一公司（同域名 eetgroup.com）→ 随主档：keep_C（闸 1，丹麦 EET Group（北欧 IT 分销巨头；Planet 设备很多、CWDM / SFP）→ 巨头不 pass；留 C）",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "C"
+ },
+ "PC-002": {
+  "verdict": "pool",
+  "gate": 0,
+  "rule": "DUP",
+  "dup_of": "XC-M118",
+  "reason": "与 XC-M118 同一公司（Mikrotik 旧编号 C-053）→ 随主档：pool（闸 3，★ ISP / 无线渠道分销 20%：EPTIMO Spółka Akcyjna（Warszawa Plac Bankowy 2；KRS 0000640183；NIP 5472148020；REGON 243394597；2016-10-0）",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "C"
+ },
+ "PC-003": {
+  "verdict": "keep_C",
+  "gate": 0,
+  "rule": "G0-giant",
+  "reason": "无邮箱 / 电话路径，但为巨头 / 大集团 / 大电商（电商（波兰大型消费/B2B 电商））—— Simon 口径「巨头硬但不永久 pass」→ 留 C 长线不 pass（官网 morele.net）",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "C"
+ },
+ "PC-004": {
+  "verdict": "keep_C",
+  "gate": 0,
+  "rule": "DUP",
+  "dup_of": "XC-M250",
+  "reason": "与 XC-M250 同一公司（Mikrotik 旧编号 C-185）→ 随主档：keep_C（闸 1，巨头 / 大集团 / 大 VAR 守界「大的搞不定」（分销（ComNet 授权）  太难·规模过大/决策链长 超大集团 / 决策链太长（Saga 守界：大集团搞不定））→ 留 C 长线不 pass）",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "C"
+ },
+ "PC-005": {
+  "verdict": "keep_C",
+  "gate": 0,
+  "rule": "DUP",
+  "dup_of": "SC-253",
+  "reason": "与 SC-253 同一公司（同域名 versatek.com）→ 随主档：keep_C（闸 1，Versa Technology（AETEK 美国伙伴）—— Simon T03 规则：Versa = C 不再回访；规则性留 C，不是永久 pass）",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "C"
+ },
+ "PC-006": {
+  "verdict": "keep",
+  "gate": 1,
+  "rule": "G1",
+  "reason": "100MEGA Distribution / ASM（捷克大型 IT 分销集团，planet-tech.cz no_mx；Mikrotik 仓两次建档均退信）：巨头守界 + 路径不稳 → 留原档不 pass",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "C",
+  "batch": "P1-01",
+  "tags": [
+   "giant"
+  ]
+ },
+ "PC-007": {
+  "verdict": "pass_final",
+  "gate": 0,
+  "rule": "G0-2",
+  "reason": "域名 planet.pl:dead 全死且无电话",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "C"
+ },
+ "PC-008": {
+  "verdict": "keep_C",
+  "gate": 0,
+  "rule": "G0-giant",
+  "reason": "无邮箱 / 电话路径，但为巨头 / 大集团 / 大电商（分销商（网络基础设施分销，Alcadon Group 上市集团，自有品牌 ECS）—— Simon 口径「巨头硬但不永久 pass」→ 留 C 长线不 pass（官网 alcadon.se）",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "C"
+ },
+ "PC-009": {
+  "verdict": "keep_C",
+  "gate": 0,
+  "rule": "DUP",
+  "dup_of": "XC-M093",
+  "reason": "与 XC-M093 同一公司（Mikrotik 旧编号 C-028）→ 随主档：keep_C（闸 1，渠道型主体但路径未建（分销（ComNet 授权）  B下放·无邮箱（群发触达不到）；官网 compass-distribution.it，无邮箱 / 电话 / WA；来源库标 无可用邮箱、来源C、缺联系）→ 留 C 待巡检，补到邮箱再闸 2）",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "C"
+ },
+ "PC-010": {
+  "verdict": "keep_C",
+  "gate": 0,
+  "rule": "DUP",
+  "dup_of": "SC-1854",
+  "reason": "与 SC-1854 同一公司（同域名 kenex.cz）→ 随主档：keep_C（闸 1，捷克；表分 品类不符（VC/DWDM/CCTV ；兴趣：CCTV 大华的 → 需求 / 主业为 Saga 不供品类（光端机 / WDM / bypass / 无源 / 板级 / 软件 / 服务）；留 C）",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "C"
+ },
+ "PC-011": {
+  "verdict": "pool",
+  "gate": 3,
+  "rule": "G3",
+  "reason": "○ 通信集成 + 经销 25%：Akçaba Communications（Lefkoşa Tuna Sok. 4；+90 392 229 15 15；ZoomInfo 11–50 人 / $5.2M；20+ 年光纤 / 布线 / 通信交钥匙，客户含政府 / 酒店 / 学校 / 医院）部分坐实（TRNC 无公开登记）；PLANET 商用 + 工业 PoE 美元标价有库存；info@，联合创始人 Faize Akçaba 具名；T06 随土耳其 → 预付 100% 起步",
+  "date": "2026-10-29",
+  "manual": true,
+  "origin": "Planet",
+  "grade": "B",
+  "batch": "P2-01",
+  "star": "○",
+  "facts": [
+   {
+    "what": "ZoomInfo：11–50 人 · $5.2M · 4 Tuna Sok. Lefkoşa · 光纤 / 布线 / 交钥匙",
+    "url": "https://www.zoominfo.com/c/akc%CC%A7aba-communications/456053781",
+    "date": "2026-10-29"
+   },
+   {
+    "what": "官网联系页（北塞浦路斯）",
+    "url": "https://akcaba.com/en/iletisim/",
+    "date": "2026-10-29"
+   }
+  ],
+  "tags": [
+   "prepay",
+   "reg_pending"
+  ]
+ },
+ "PC-012": {
+  "verdict": "keep",
+  "gate": 0,
+  "rule": "DUP-AB",
+  "dup_of": "XB-M177",
+  "reason": "与 XB-M177（External B 级，本轮不筛 A/B）同一公司（同域名 startech.com（External））→ 随主档，不单独判；A/B 升级讨论时一并",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "C"
+ },
+ "PC-013": {
+  "verdict": "pool",
+  "gate": 0,
+  "rule": "DUP",
+  "dup_of": "SC-2372",
+  "reason": "与 SC-2372 同一公司（同域名 oprema.co.uk）→ 随主档：pool（闸 3，★ P 池正式入池（档位 ○）：○ 分销 20%：Eurosat (Scotland) Limited SC204360（2000；Glasgow；Oprema 渠道；3 董事）坐实；KP graeme@ = Director Graeme）",
+  "date": "2026-10-29",
+  "origin": "Planet",
+  "grade": "C"
+ }
+}

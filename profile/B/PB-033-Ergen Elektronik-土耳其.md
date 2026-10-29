@@ -3,6 +3,8 @@
 > **评级 B**　|　土耳其 · Antalya（Muratpaşa）　|　档案编号 `PB-033`　|　优先级 ★★☆　|　状态：00-未触达
 >
 > **类型**：安防/IT 分销与经销（Dahua 与 Zanuo 土耳其官方分销口径；IT、安防与电子产品供应；安塔利亚酒店业客户）　|　**PLANET 关联**：官网品牌页「PLANET」（brands/737）　|　结构版本：v2（继承 Mikrotik R56 骨架 · Planet 仓库 2026-10-19 起）
+>
+> **C 池三闸筛选（Planet 仓同法，`data/sieve_planet.json`）：★ P 池 · 正式入池（档位 ○）**（闸 3 · G3 · 2026-10-29）：○ 安防 / IT 区域分销 20%：Hasan Ergen – Ergen Elektronik（Antalya Muratpaşa；个体商号；EMIS 记 1994-07-18 设立，名录记 2002-08-13；Zanuo Türkiye 官方分销 + Dahua 在售有库存）部分坐实（个体商号无公司注册号；find.com.tr 页为占位数字不采信）；主区 TR；info@，负责人 Serhat Ergen 具名 → 预付 100% 起步
 
 ```yaml structured_profile
 code: PB-033
@@ -14,7 +16,7 @@ p1: STC-424DGGPM-280W
 price_tier: 20%
 stage: 00-未触达
 mikrotik_ref: none
-updated: 2026-10-20
+updated: 2026-10-29
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -176,4 +178,4 @@ PoE / industrial switch OEM-ODM supplier (neutral packing available) · https://
 
 ---
 
-*建档日期：2026-10-19　|　入库批次：2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL　|　原始证据：batch/2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json　|　渲染：scripts/render.py 2026-10-20*
+*建档日期：2026-10-19　|　入库批次：2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL　|　原始证据：batch/2026-10-19_W04_土耳其与北美并档_TR-US-CA-CZ-DE-AT-IT-NL.json　|　渲染：scripts/render.py 2026-10-29*
