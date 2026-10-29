@@ -4,7 +4,7 @@
   "source": "其他国家官方 / 准官方登记",
   "created": "2026-10-27",
   "updated": "2026-10-29",
-  "count": 429
+  "count": 466
  },
  "rows": {
   "SA-061": {
@@ -13356,6 +13356,1123 @@
    ],
    "notes": "不动（Q-33 口径待定；同 SB-523 / SB-1102）；部分坐实（D&B 地址 + 进口记录；RFC 未取）。",
    "code": "SB-960"
+  },
+  "SB-016": {
+   "batch": 122,
+   "name": "坦桑尼亚 WhatsApp 买家 Richard Jackson（+255 768 043 267；**无邮箱 / 公司 → 0 查**）— 2023 主动要资料「说要下单」，2024-02 对 2 光 8 PoE 管理出货信息回「问了 catalog」；19 次推送 1 次实质回复",
+   "iso": "TZ",
+   "fetched": "2026-10-29",
+   "source": "0 查（无邮箱 / 公司）；2026-10-29",
+   "url": "",
+   "number": "0 查",
+   "status": "互动中（1 次）",
+   "incorporated": "—",
+   "company_type": "个人",
+   "sic": [
+    "未知（坦桑尼亚）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "个人",
+   "officers": [
+    "Richard Jackson — WA 联系人（研究档 KP；无邮箱）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**曾言「要下单」→ 集成商 25% B，WA 最后一次一页纸（STI-288DGGPM $137 2 光 8 PoE 管理 一口价 + MOQ 1）— 坦桑尼亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 达累斯萨拉姆（买方清关；TBS / TCRA 不声称）**；19×1 → 再无回声 → 不动"
+   ],
+   "notes": "集成商 25%；WA 最后一次一页纸（预付 100%）；0 查。",
+   "code": "SB-016"
+  },
+  "SB-122": {
+   "batch": 122,
+   "name": "Tera Technologies and Engineering Limited（teratech.co.tz / ttel.co.tz；**公司自述：2011-09-09 依 Companies Act 2002 注册，Certificate of Incorporation No. 85715（领英公司页）；官网 about：Mbezi Beach Africana, Plot No. 2283, Block H, Tarangire Street, Africana Drive, P.O. Box 31257, Dar es Salaam；Tel/Fax +255 22 270 1612；第二办公 Sinza Block A, Plot 173（devex）；CEO & Co-Founder Eng. Dr. Daudi Charles（ERB 注册工程师 2013 起）；约 10 名工程师；世行 / TMA 中标 3 项**）→ 坐实；CRB 一级承包商（电信 / ICT / 安防）；KP Ramadhani Ndijuye（gmail，2024–2025 问 5 电口价、确认千兆、工业 16/24 口「可能会用到」）",
+   "iso": "TZ",
+   "fetched": "2026-10-29",
+   "source": "TZ · 1 次检索：ttel.co.tz/about（Tera Technologies and Engineering Limited；Mbezi beach Africana, Plot No. 2283, Block H Tarangire Street, Africana Drive, P.O. Box 31257；+255222701612；Eng.Dr.Daudi Charles Chief Executive Office and Co-Founder）+ devex.com（World Bank / TradeMark Africa 合同；Sinza Block A, Plot No. 173）+ 研究档领英（Certificate of Incorporation No: 85715；2011-09-09）；2026-10-29",
+   "url": "https://ttel.co.tz/about",
+   "number": "Certificate of Incorporation No. 85715（公司自述；BRELA 未核）",
+   "status": "营业中（官网 + 中标记录）",
+   "incorporated": "2011-09-09",
+   "company_type": "Limited",
+   "sic": [
+    "电信 / ICT / 安防 / 电力承包（达累斯萨拉姆 + 多多马）"
+   ],
+   "address": "Plot No. 2283, Block H, Tarangire Street, Africana Drive, Mbezi Beach, P.O. Box 31257, Dar es Salaam, Tanzania",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（11–50）",
+   "officers": [
+    "Ramadhani Ndijuye — 联系人（研究档 KP；rndijuye@gmail.com）= 收件人",
+    "Eng. Dr. Daudi Charles — CEO & Co-Founder（官网 about 2026-10-29；info@teratech.co.tz）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**CRB 一级 ICT 承包商 + 多次问价 → 集成商 25% B，一页纸一次（STI-054GP / STI-154GP 5 口工业 + STI-288DGGPM $137 / STC-2216GP 16 口 一口价 + MOQ 1 + 付费样机；抄 CEO 公共箱）— 坦桑尼亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 达累斯萨拉姆（买方清关；TBS / TCRA 不声称）**；回信 → 加厚"
+   ],
+   "notes": "集成商 25%；一页纸一次（预付 100%）；坐实（证书号 + 官网地址 + CEO）。",
+   "code": "SB-122"
+  },
+  "SB-229": {
+   "batch": 122,
+   "name": "TESCOM Company Limited（tescom.co.tz；**官网：Kijitonyama, Dar es Salaam；+255 712 565 698 / +255 738 261 794；info@；两条线 = ICT & 电信工程（电子围栏 / 门禁 / CCTV / 电动门 / Wi-Fi）+ 注册专业供应商（安防设备供货）**）；BRELA 号 1 查未得 → 部分坐实；KP Mossad Masheu；需求 1 光 2 电千兆 MC（不供）；WA 1 次无实质回复",
+   "iso": "TZ",
+   "fetched": "2026-10-29",
+   "source": "TZ · 1 次检索：tescom.co.tz（TESCOM COMPANY LIMITED；locally owned ICT and Telecommunication；Kijitonyama, Dar-es-salaam；+255 712 565698；+255 738 261794；info@tescom.co.tz）；BRELA 未得；2026-10-29",
+   "url": "http://www.tescom.co.tz/",
+   "number": "未取（BRELA 号 1 查未得）",
+   "status": "营业中（官网在）",
+   "incorporated": "未取",
+   "company_type": "Limited",
+   "sic": [
+    "ICT / 电信工程 + 安防设备供应（达累斯萨拉姆）"
+   ],
+   "address": "Kijitonyama, Dar es Salaam, Tanzania",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "Mossad Masheu — 联系人（研究档 KP；samuisso@tescom.co.tz）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**安防工程 + 供货两条线 → 集成商 25% B，一页纸一次（STC-028GP $28 / STC-228GP $33 CCTV PoE 一口价 + MOQ 1；千兆 MC 仅 STC-110XGE $65 明说）— 坦桑尼亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 达累斯萨拉姆（买方清关；TBS / TCRA 不声称）**；再无回声 → 不动"
+   ],
+   "notes": "集成商 25%；一页纸一次（预付 100%）；部分坐实（官网地址 + 电话；BRELA 未取）。",
+   "code": "SB-229"
+  },
+  "SB-080": {
+   "batch": 122,
+   "name": "Cyber-Tec（cyber-tec.net，域名已失效；**1 查无命中 → 未坐实**）— 伊拉克卡尔巴拉小型 IT / 网络公司；KP Sarmad Alwakil（yahoo 备用，WA 已加）；兴趣 TA510-FE 百兆工业收发器（不供）；19 次推送 1 次实质回复",
+   "iso": "IQ",
+   "fetched": "2026-10-29",
+   "source": "IQ · 1 次检索：「Cyber-Tec Karbala Iraq Sarmad Alwakil」→ 无相关结果（仅 Erbil 同类公司 / 新闻）；2026-10-29",
+   "url": "",
+   "number": "未取（1 查无命中）",
+   "status": "域名失效（存续待核）",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "IT / 网络（卡尔巴拉）"
+   ],
+   "address": "未取（Karbala, Iraq）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（推定）",
+   "officers": [
+    "Sarmad Alwakil — 联系人（研究档 KP；sarmad@cyber-tec.net / yahoo）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**需求百兆工业 MC（不供）+ 域名失效 + 19×1 → 不动（B 保留；来询按集成商 25% 报 STI-054GP）**— 伊拉克常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方经迪拜 / 土耳其货代自提清关）"
+   ],
+   "notes": "不动（产品不对位 + 存续待核）；未坐实。",
+   "code": "SB-080"
+  },
+  "SB-588": {
+   "batch": 122,
+   "name": "WAN Company for Computer Network Design and Installation and Computer Trading Ltd.（DBA WAN Company for Networking Technology / WAN Networking Technology；wannt.co / wannt.krd；**D&B：1st Floor, Ali Namali Building, Salim Street, Sulaymaniyah；Managing Director Sarwar Ibrahim Saeed（= 研究档 KP ✓）；facebook / crunchbase：2005-01 创立，Teknim 品牌库区代理；在线商店 + WAN Academy + CCTV 展厅**）；登记号 1 查未得 → 部分坐实；表内 **PLANET 合作 10 年、Uniview 3 年**，需求千兆工业 PoE 4 / 8 / 16 口；WA 10 次无实质回复",
+   "iso": "IQ",
+   "fetched": "2026-10-29",
+   "source": "IQ · 1 次检索：dnb.com（WAN COMPANY FOR COMPUTER NETWORK DESIGN AND INSTALLATION AND COMPUTER TRADING LTD.；DBA WAN COMPANY FOR NETWORKING TECHNOLOGY；1st Floor, Ali Namali Building Salim Street Suleimani；Sarwar Ibrahim Saeed Managing Director）+ facebook.com/@WanCompany（founded in Jan 2005；info@wannt.co）+ crunchbase（Founded Jan 3, 2005；wannt.krd）；2026-10-29",
+   "url": "https://www.dnb.com/business-directory/company-profiles.wan_company_for_computer_network_design_and_installation_and_computer_trading_ltd.5822f9dba5a299855fa2907040632e17.html",
+   "number": "未取（库区公司登记号 1 查未得）",
+   "status": "营业中（官网 + 社媒 2025）",
+   "incorporated": "2005-01-03",
+   "company_type": "Ltd",
+   "sic": [
+    "ICT 设备分销 / 集成 + 培训（苏莱曼尼亚）"
+   ],
+   "address": "1st Floor, Ali Namali Building, Salim Street, Sulaymaniyah, Kurdistan Region, Iraq",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中小型",
+   "officers": [
+    "Sarwar Ibrahim Saeed — Managing Director / CEO（D&B 2026-10-29 吻合；研究档 KP sarwar.ibrahim@wannt.co）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**PLANET 十年伙伴 + 明确需求千兆工业 PoE 4 / 8 / 16 → 分销 20% B，一页纸一次（STI-054GP / STI-288GPM $78.9 / STI-288DGGPM $137 / STI-488DGGPM $147 一口价 + MOQ 1 + 付费样机；PLANET / Uniview 不点名）— 伊拉克常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方经迪拜 / 土耳其货代自提清关）**；回信 → 加厚"
+   ],
+   "notes": "分销 20%；一页纸一次（预付 100%）；部分坐实（D&B 法定名 + 地址 + MD；登记号未取）。",
+   "code": "SB-588"
+  },
+  "SB-671": {
+   "batch": 122,
+   "name": "MyTec（my-tec.co / mytec-iq.com，域名失效；**1 查仅韩 / 秘 / 美同名 → 未坐实**）— 伊拉克 IT 公司；KP Mushtaq Al Takhakh；表内「有过详细产品交谈」；WA 19 次无实质回复",
+   "iso": "IQ",
+   "fetched": "2026-10-29",
+   "source": "IQ · 1 次检索：「MyTec Iraq mytec-iq.com Mushtaq」→ dnb MYTEC CO.,LTD.（釜山）/ linkedin Mytec（秘鲁仪表）/ MYTecSoft（美国）均非本户；2026-10-29",
+   "url": "",
+   "number": "未取（1 查未命中本体）",
+   "status": "域名失效（存续待核）",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "IT（伊拉克）"
+   ],
+   "address": "未取（Iraq）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（推定）",
+   "officers": [
+    "Mushtaq Al Takhakh — 联系人（研究档 KP；mushtaq@mytec-iq.com）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**域名失效 + 19×0 + 未坐实 → 不动（B 保留）**— 伊拉克常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方经迪拜 / 土耳其货代自提清关）"
+   ],
+   "notes": "不动（存续待核 + 19×0）；未坐实。",
+   "code": "SB-671"
+  },
+  "SB-239": {
+   "batch": 122,
+   "name": "Empicstar（empicstar.com，域名失效；**gmail + 域名失效 → 0 查**）— 尼日利亚网络产品平台 / 转售（TP-Link / ONV 等牌）；2024-03 对商用 PoE 信息回「price」；18 次推送 1 次实质回复",
+   "iso": "NG",
+   "fetched": "2026-10-29",
+   "source": "0 查（gmail + 域名失效）；2026-10-29",
+   "url": "",
+   "number": "0 查",
+   "status": "域名失效（存续待核）",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "网络产品转售（尼日利亚）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（推定）",
+   "officers": [
+    "（未具名；empicstar2014@gmail.com；WA +234 803 428 6012）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**曾回「price」→ 分销 20% B，最后一次一页纸（STC-028GP $28 / STC-2216GP / STC-2224GP $86 一口价 + MOQ 1；在售品牌不点名）— 尼日利亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 拉各斯（买方清关；SON / NCC 不声称）**；18×1 → 再无回声 → 不动"
+   ],
+   "notes": "分销 20%；最后一次一页纸（预付 100%）；0 查。",
+   "code": "SB-239"
+  },
+  "SB-373": {
+   "batch": 122,
+   "name": "尼日利亚 WhatsApp 联系人（**无邮箱 / 姓名 / 公司 → 0 查**）— 2024–2025 五次回复（问芯片、要价目、问「啥是 2.5G」、「MCU processor」），技术理解有限",
+   "iso": "NG",
+   "fetched": "2026-10-29",
+   "source": "0 查（无邮箱 / 公司）；2026-10-29",
+   "url": "",
+   "number": "0 查",
+   "status": "互动中（5 次）",
+   "incorporated": "—",
+   "company_type": "未知",
+   "sic": [
+    "未知（尼日利亚）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "未知",
+   "officers": [
+    "（未具名；仅 WA）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**5 次回复 → 集成商 25% B，WA 一页纸一次（STC-028GP $28 / STC-228GP $33 一口价 + MOQ 1；2.5G 等 SB-263 口径不报）+ 一句话问公司名— 尼日利亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 拉各斯（买方清关；SON / NCC 不声称）**；再无回声 → 不动"
+   ],
+   "notes": "集成商 25%；WA 一页纸一次（预付 100%）；0 查。",
+   "code": "SB-373"
+  },
+  "SB-631": {
+   "batch": 122,
+   "name": "Gigaxysafe Technologies Ltd（gigaxysafe.com.ng；**businesslist.com.ng / spiceworks：Suite 28F Sabondale Shopping Complex, Obafemi Awolowo Way, Jabi, Abuja；+234 803 930 8003 / +234 702 500 1983；MD Kayode Oluwaseyi；2012 年成立；约 10 人；注册安防技术公司（通信 / 安防设备进出口、分销、安装）；网店卖 Cisco / PLANET / Ubiquiti / 2.5G 16 口 + 太阳能**）；RC 号 1 查未得 → 部分坐实；自站 RFQ「RUCKUS Cisco Switch」；无跟进",
+   "iso": "NG",
+   "fetched": "2026-10-29",
+   "source": "NG · 1 次检索：businesslist.com.ng/company/266231（Gigaxysafe Technologies Ltd；Suit 28F Sabondale Shopping Complex, Obafemi Awolowo Way, Jabi, Abuja；+234 803 930 8003；MD kayode.oluwaseyi@gigaxysafe.com.ng；info@gigaxysafe.com.ng）+ spiceworks（registered security technology company；Founded 2012；Employees 10；Incorporated）；RC 未得；2026-10-29",
+   "url": "https://www.businesslist.com.ng/company/266231/gigaxysafe-technologies-ltd",
+   "number": "未取（CAC RC 号 1 查未得）",
+   "status": "营业中（网店 2022+）",
+   "incorporated": "2012",
+   "company_type": "Ltd",
+   "sic": [
+    "安防 / 通信设备进口分销 + 网店（阿布贾）"
+   ],
+   "address": "Suite 28F, Sabondale Shopping Complex, Obafemi Awolowo Way, Jabi, Abuja, Nigeria",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（约 10 人）",
+   "officers": [
+    "Kayode Oluwaseyi — Managing Director（businesslist 2022 公开页；kayode.oluwaseyi@gigaxysafe.com.ng）= 收件人（抄 info@gigaxysafe.com.ng）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**进口分销 + 网店（在售 PLANET / 2.5G）→ 分销 20% B，一页纸一次（STC-028GP $28 / STC-2216GP / STC-2224GP $86 / STC-4424GCPM $165 一口价 + MOQ 1 + 付费样机；在售品牌不点名；2.5G 不报）— 尼日利亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 拉各斯（买方清关；SON / NCC 不声称）**；回信 → 加厚"
+   ],
+   "notes": "分销 20%；一页纸一次（预付 100%）；部分坐实（名录地址 + MD + 成立年；RC 未取）。",
+   "code": "SB-631"
+  },
+  "SB-332": {
+   "batch": 122,
+   "name": "自建站询盘人 Alex Malinovich（unpledged154@simplelogin.com = Proton 别名邮箱；**无公司 → 0 查**；WA 已加）— 询「2 光 8 PoE 管理 Vitesse」机型；无跟进",
+   "iso": "US",
+   "fetched": "2026-10-29",
+   "source": "0 查（别名邮箱 + 无公司）；2026-10-29",
+   "url": "",
+   "number": "0 查",
+   "status": "互动中（自建站询盘）",
+   "incorporated": "—",
+   "company_type": "个人",
+   "sic": [
+    "未知（美国）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "个人",
+   "officers": [
+    "Alex Malinovich — 自建站询盘人（研究档 KP；别名邮箱）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**明确机型需求 → 集成商 25% B，一页纸一次（STI-288DGGPM $137 2 SFP + 8 PoE L2 管理 一口价 + MOQ 1；芯片平台不声称）— 美国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP（买方清关；NDAA / TAA / UL 不声称）；周三 08–10 当地**；再无回声 → 不动"
+   ],
+   "notes": "集成商 25%；一页纸一次（预付 100%）；0 查（别名邮箱）。",
+   "code": "SB-332"
+  },
+  "SB-476": {
+   "batch": 122,
+   "name": "美国路易斯安那 Wayne（computerwayne@gmail.com；**个人邮箱 → 0 查**）— 需求工业 PoE 注入器（Red Lion 100-PoE 参照；不供）；1 次回复后 20 次跟进无果",
+   "iso": "US",
+   "fetched": "2026-10-29",
+   "source": "0 查（gmail + 无公司）；2026-10-29",
+   "url": "",
+   "number": "0 查",
+   "status": "互动中（1 次）",
+   "incorporated": "—",
+   "company_type": "个人",
+   "sic": [
+    "IT 服务（美国 +1 318）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "个人 / 微型",
+   "officers": [
+    "Wayne — 联系人（研究档；computerwayne@gmail.com）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**需求注入器（不供）+ 20×0 → 不动（B 保留）**— 美国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP（买方清关；NDAA / TAA / UL 不声称）；周三 08–10 当地"
+   ],
+   "notes": "不动（产品不对位 + 20×0）；0 查。",
+   "code": "SB-476"
+  },
+  "SB-701": {
+   "batch": 122,
+   "name": "美国亚特兰大 Chavan Koya（chk999@outlook.com；**个人邮箱 → 0 查**；2022 注册 Alibaba）— 需求「1 光 8 口工业 PoE 非管理」；1 次回复后 14 次跟进无果；WA 加不上",
+   "iso": "US",
+   "fetched": "2026-10-29",
+   "source": "0 查（outlook + 无公司）；2026-10-29",
+   "url": "",
+   "number": "0 查",
+   "status": "互动中（1 次）",
+   "incorporated": "—",
+   "company_type": "个人",
+   "sic": [
+    "未知（美国 +1 678）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "个人 / 微型",
+   "officers": [
+    "Chavan Koya — 来信署名人（研究档 KP；chk999@outlook.com）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**明确机型需求 → 集成商 25% B，最后一次一页纸（STI-288GPM $78.9 1 SFP + 8 PoE 非管理 一口价 + MOQ 1）— 美国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP（买方清关；NDAA / TAA / UL 不声称）；周三 08–10 当地**；14×0 → 再无回声 → 不动"
+   ],
+   "notes": "集成商 25%；最后一次一页纸（预付 100%）；0 查。",
+   "code": "SB-701"
+  },
+  "SB-340": {
+   "batch": 122,
+   "name": "ROCKBIOS Limited（**仅 WA 电话 +233 26 465 3169，无邮箱 / 域名 → 0 查**）— 加纳转售商，KP Abraham Sam；2023-12 要价目（已发商业 + 电源册），2024-02 对 24 光 combo 信息回「price」；19 次推送 1 次实质回复",
+   "iso": "GH",
+   "fetched": "2026-10-29",
+   "source": "0 查（无邮箱 / 域名）；2026-10-29",
+   "url": "",
+   "number": "0 查",
+   "status": "互动中（1 次）",
+   "incorporated": "—",
+   "company_type": "Limited（表内）",
+   "sic": [
+    "网络 / 安防产品转售（加纳）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（推定）",
+   "officers": [
+    "Abraham Sam — WA 联系人（研究档 KP；无邮箱）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**两次要价 → 分销 20% B，WA 最后一次一页纸（STC-028GP $28 / STC-2216GP / STC-2224GP $86 一口价 + MOQ 1；光端机不供明说）— 加纳常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 阿克拉（买方清关）**；19×1 → 再无回声 → 不动"
+   ],
+   "notes": "分销 20%；WA 最后一次一页纸（预付 100%）；0 查。",
+   "code": "SB-340"
+  },
+  "SB-587": {
+   "batch": 122,
+   "name": "Truetech Security Solutions（**仅 WA +233 20 497 9197，无邮箱 / 域名 → 0 查**；表内联系人「İbrahim Gürgüneş」疑串行录入）— 加纳安防公司；18 次 WA 1 次回复「在和 dja 合作」（已有供应商）",
+   "iso": "GH",
+   "fetched": "2026-10-29",
+   "source": "0 查（无邮箱 / 域名）；2026-10-29",
+   "url": "",
+   "number": "0 查",
+   "status": "互动中（1 次）",
+   "incorporated": "—",
+   "company_type": "未取",
+   "sic": [
+    "安防（加纳）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（推定）",
+   "officers": [
+    "（联系人姓名待核；仅 WA）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**已有供应商 + 18×1 + 无 KP → 不动（B 保留）**— 加纳常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 阿克拉（买方清关）"
+   ],
+   "notes": "不动（已有供应商 + 18×1）；0 查。",
+   "code": "SB-587"
+  },
+  "SB-817": {
+   "batch": 122,
+   "name": "MassTrack Technologies / Masstrack（masstracktech.com，账户停用；**ZoomInfo：B33/41 Opposite Trinity Presby Church, Kwashieman, Accra；+233 20 648 5957；David Akoto = Technical Manager（2013 起）；ghanayello 2021：车辆跟踪设备供应商**）；RGD 号 1 查未得 → 部分坐实；2024-08 对 4 / 8 口工业 PoE 回「154」；WA 19 次无实质回复",
+   "iso": "GH",
+   "fetched": "2026-10-29",
+   "source": "GH · 1 次检索：zoominfo.com/p/David-Akoto（Technical Manager at MassTrack Technologies；2013-present；B33/41 Opposite Trinity Presby Church Kwashieman, Accra；+233 206485957）+ ghanayello.com/question/31146（Masstrack Technologies 车辆跟踪问答 2021）；RGD 未得；2026-10-29",
+   "url": "https://www.zoominfo.com/p/David-Akoto/-2106421416",
+   "number": "未取（RGD 号 1 查未得）",
+   "status": "域名停用（名录在册）",
+   "incorporated": "未取（KP 2013 起）",
+   "company_type": "Limited（推定）",
+   "sic": [
+    "车队 / 车辆跟踪技术服务（阿克拉）"
+   ],
+   "address": "B33/41 Opposite Trinity Presby Church, Kwashieman, Accra, Ghana",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "David Opoku Akoto — Technical Manager（ZoomInfo 2026-10-29；研究档 KP info@masstracktech.com）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**曾点名「154」→ 集成商 25% B，WA 最后一次一页纸（STI-154GP 一口价 + STI-054GP + MOQ 1 + 付费样机）— 加纳常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 阿克拉（买方清关）**；域名停用 + 19×0 → 再无回声 → 不动"
+   ],
+   "notes": "集成商 25%；WA 最后一次一页纸（预付 100%）；部分坐实（ZoomInfo 地址 + 职务；RGD 未取）。",
+   "code": "SB-817"
+  },
+  "SB-563": {
+   "batch": 122,
+   "name": "ISAF 名片 Holil（+90 538 985 94 29，WA 已加；**无邮箱 / 公司 → 0 查**）— 要 PoE 交换机、拿了彩页；无跟进",
+   "iso": "TR",
+   "fetched": "2026-10-29",
+   "source": "0 查（无邮箱 / 公司）；2026-10-29",
+   "url": "",
+   "number": "0 查",
+   "status": "互动中（展会）",
+   "incorporated": "—",
+   "company_type": "未知",
+   "sic": [
+    "未知（土耳其）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "未知",
+   "officers": [
+    "Holil — ISAF 名片（研究档 KP；仅 WA）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**展会明确要 PoE 交换机 → 集成商 25% B，WA 一页纸一次（STC-028GP $28 / STC-2216GP / STC-2224GP $86 一口价 + MOQ 1）— 土耳其常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 伊斯坦布尔（买方清关）；周四 10–12 当地**；再无回声 → 不动"
+   ],
+   "notes": "集成商 25%；WA 一页纸一次（预付 100%）；0 查。",
+   "code": "SB-563"
+  },
+  "SB-727": {
+   "batch": 122,
+   "name": "ISAF 名片 Fadi（姓氏待核；WA 已加；**无邮箱 / 公司 → 0 查**）— 问了收发器（SFP 不供）和交换机，英文不是很好；无跟进",
+   "iso": "TR",
+   "fetched": "2026-10-29",
+   "source": "0 查（无邮箱 / 公司）；2026-10-29",
+   "url": "",
+   "number": "0 查",
+   "status": "互动中（展会）",
+   "incorporated": "—",
+   "company_type": "未知",
+   "sic": [
+    "未知（土耳其）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "未知",
+   "officers": [
+    "Fadi — ISAF 名片（研究档 KP；仅 WA）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**问过交换机 → 集成商 25% B，WA 一页纸一次（STC-028GP $28 / STC-228GP $33 一口价 + MOQ 1；SFP 不供明说；短句英文）— 土耳其常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 伊斯坦布尔（买方清关）；周四 10–12 当地**；再无回声 → 不动"
+   ],
+   "notes": "集成商 25%；WA 一页纸一次（预付 100%）；0 查。",
+   "code": "SB-727"
+  },
+  "SB-903": {
+   "batch": 122,
+   "name": "ISAF 名片 Necdet Şenkaya（bilecik@hotmail.com；**hotmail + 无公司 → 0 查**；疑比莱吉克省个体安装商）— 要工业级 PoE 交换机；无跟进",
+   "iso": "TR",
+   "fetched": "2026-10-29",
+   "source": "0 查（hotmail + 无公司）；2026-10-29",
+   "url": "",
+   "number": "0 查",
+   "status": "互动中（展会）",
+   "incorporated": "—",
+   "company_type": "个体（推定）",
+   "sic": [
+    "安装（土耳其，疑 Bilecik）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "个人",
+   "officers": [
+    "Necdet Şenkaya — ISAF 名片（研究档 KP；bilecik@hotmail.com）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**展会要工业 PoE → 集成商 25% B，一页纸一次（STI-288GPM $78.9 / STI-154GP / STI-054GP 一口价 + MOQ 1）— 土耳其常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 伊斯坦布尔（买方清关）；周四 10–12 当地**；再无回声 → 不动"
+   ],
+   "notes": "集成商 25%；一页纸一次（预付 100%）；0 查。",
+   "code": "SB-903"
+  },
+  "SB-608": {
+   "batch": 122,
+   "name": "Marlen Sadybekov（**仅 WA 电话 8 775 748 2644 = +7 775 哈萨克斯坦移动号段 → 表内「乌兹别克斯坦」疑误 → country_fix 哈萨克斯坦；无邮箱 / 公司 → 0 查**）— 兴趣「商业 FS」，2024-04 对 10G MC 回「有 PON 产品吗？」（不供）；20 次推送 1 次实质回复",
+   "iso": "KZ",
+   "fetched": "2026-10-29",
+   "source": "0 查（无邮箱 / 公司；号段 +7 775 = 哈萨克斯坦）；2026-10-29",
+   "url": "",
+   "number": "0 查",
+   "status": "互动中（1 次）",
+   "incorporated": "—",
+   "company_type": "个人",
+   "sic": [
+    "未知（哈萨克斯坦，按号段）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "个人",
+   "officers": [
+    "Marlen Sadybekov — WA 联系人（研究档 KP；无邮箱）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**需求 PON（不供）+ 20×1 + 无公司 → 不动（B 保留；来询按集成商 25% 报 STC-028GP）**— 哈萨克斯坦常规：英文稿（可附俄语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 阿拉木图（买方清关；EAC 不声称）"
+   ],
+   "notes": "不动（产品不对位 + 20×1）；0 查；country_fix 哈萨克斯坦（号段证据）。",
+   "code": "SB-608"
+  },
+  "SB-965": {
+   "batch": 122,
+   "name": "\"VIDCOM\" ООО / VIDCOM Ltd（vidcom.uz；**goldenpages.uz / pc.uz：100115 Ташкент, Чиланзарский район, ул. Арнасай, кв-л Чиланзар-2, 26；+998 90 900 77 30；info@vidcom.uz；ИНН 30548****（打码）；安防系统商（视频监控 / 门禁 / 消防报警；Dahua / Hikvision / Ajax）**）→ 部分坐实（ООО + 地址；ИНН 未全）；无具名 KP；表内无跟进",
+   "iso": "UZ",
+   "fetched": "2026-10-29",
+   "source": "UZ · 1 次检索：goldenpages.uz/en/company/?Id=97905（VIDCOM. LTD；TIN 30548****；100115, Tashkent, Chilanzar district, Street Arnasay, block Chilanzar-2, 26；(+99890) 9007730）+ pc.uz/company/124350-vidcom（\"VIDCOM\" ООО；Системы безопасности；info@vidcom.uz）；2026-10-29",
+   "url": "https://www.goldenpages.uz/en/company/?Id=97905",
+   "number": "ИНН 30548****（名录打码；未全）",
+   "status": "营业中（官网 + 名录 verified）",
+   "incorporated": "未取",
+   "company_type": "ООО（有限责任公司）",
+   "sic": [
+    "安防系统分销 / 安装（塔什干）"
+   ],
+   "address": "ул. Арнасай, кв-л Чиланзар-2, 26, Чиланзарский район, Ташкент 100115, Uzbekistan",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "（无具名 KP：info@vidcom.uz；Attn: Отдел закупок / Purchasing）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**安防分销（Dahua / Hikvision / Ajax）→ 分销 20% B，一页纸一次（STC-028GP $28 / STC-2216GP / STC-2224GP $86 CCTV PoE 一口价 + MOQ 1 + 付费样机；在售品牌不点名）— 乌兹别克斯坦常规：英文稿（可附俄语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 塔什干（买方清关；UzStandard 不声称）**；再无回声 → 不动"
+   ],
+   "notes": "分销 20%；一页纸一次（预付 100%）；部分坐实（名录地址 + ООО；ИНН 未全）。",
+   "code": "SB-965"
+  },
+  "SB-976": {
+   "batch": 122,
+   "name": "Dauren Boltayev（dauren.boltaev@mail.ru；+998 77 009 91 388；**个人贸易商，无公司 / 域名 → 0 查**）— 表内「成单客户」：通讯产品贸易，**成交 2 次**；WA 已加；27 次跟进无回复",
+   "iso": "UZ",
+   "fetched": "2026-10-29",
+   "source": "0 查（mail.ru + 无公司）；2026-10-29",
+   "url": "",
+   "number": "0 查",
+   "status": "互动中（已成单 2 次）",
+   "incorporated": "—",
+   "company_type": "个体贸易商",
+   "sic": [
+    "通讯产品贸易（乌兹别克斯坦）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "个体",
+   "officers": [
+    "Dauren Boltayev — 贸易商本人（研究档 KP；dauren.boltaev@mail.ru）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**★ 成交 2 次 → 复购最后一次一页纸（分销 20%：上次型号复购价 + STC-028GP $28 / STC-2216GP + MOQ 1；俄语备注）— 乌兹别克斯坦常规：英文稿（可附俄语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 塔什干（买方清关；UzStandard 不声称）**；27×0 → B 保留，回信即升 A 候选"
+   ],
+   "notes": "复购（分销 20%）；最后一次一页纸（预付 100%）；0 查；★ 回信即升。",
+   "code": "SB-976"
+  },
+  "SB-629": {
+   "batch": 122,
+   "name": "C-TECH（c-techeg.com；**官网：2017 年成立的系统集成商（网络 / 网络安全 / 数据中心 / ELV / AV / 楼宇自动化）；页脚 Cairo, Nasr City, Mohamed Maqrif 25；+20 102 858 0334；info@c-tech.com.eg；ZoomInfo / RocketReach：5 5th Settlement, New Cairo；<25–33 人；MD Hamdy Elbadeea**）；商业登记号 1 查未得 → 部分坐实；自站 RFQ「工业 1 光 1 电 PoE」；KP Ahmed Sonbol；未跟进",
+   "iso": "EG",
+   "fetched": "2026-10-29",
+   "source": "EG · 1 次检索：c-techeg.com（Founded in 2017, C-TECH is a leading systems integrator in Egypt；Cairo, Nasr City Mohamed Maqrif 25；01028580334；info@c-tech.com.eg）+ zoominfo（5 5th Settlement, New Cairo；<25）+ rocketreach（Founded 2017；Employees 33；Hamdy Elbadeea Managing Director）；登记号未得；2026-10-29",
+   "url": "https://c-techeg.com/",
+   "number": "未取（商业登记号 1 查未得）",
+   "status": "营业中（官网在）",
+   "incorporated": "2017",
+   "company_type": "LLC / S.A.E.（推定）",
+   "sic": [
+    "系统集成（开罗纳斯尔城 / 新开罗）"
+   ],
+   "address": "Mohamed Maqrif St. 25, Nasr City, Cairo, Egypt（另 5th Settlement, New Cairo）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（<25–33）",
+   "officers": [
+    "Ahmed Sonbol — 联系人（研究档 KP；ahmed.sonbol@c-techeg.com）= 收件人",
+    "Hamdy Elbadeea — Managing Director（RocketReach 2026-10-29；无公开邮箱）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**SI 自站 RFQ → 集成商 25% B，一页纸一次（STI-154GP 1 SFP + 1 GE + 4 PoE 对「1 光 1 电 PoE」+ STI-054GP 一口价 + MOQ 1 + 付费样机）— 埃及常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方清关；NTRA 不声称）**；再无回声 → 不动"
+   ],
+   "notes": "集成商 25%；一页纸一次（预付 100%）；部分坐实（官网地址 + 成立年 + MD；登记号未取）。",
+   "code": "SB-629"
+  },
+  "SB-971": {
+   "batch": 122,
+   "name": "IPS – Integrated Premium Solutions（integrated-ps.com；**官网 contacts / facebook：171 El Banafseg 7, First Settlement, New Cairo；+20 2 2307 8803 / +20 10 2121 2027；Info@；安防 + 证卡打印 / 跟踪系统方案商（Edikio / Agilia / BENTSAI）**）；登记号 1 查未得 → 部分坐实；自站询盘「4V1D 1080P」= 视频光端机（不供）；KP Ahmed；未跟进",
+   "iso": "EG",
+   "fetched": "2026-10-29",
+   "source": "EG · 1 次检索：integrated-ps.com/contacts（171 El Banfseg 7, New Cairo；+2 (02) 23 07 88 03；+2 (010) 21 21 20 27）+ facebook（IPS - Integrated premium solutions；171 El Banafseg 7, First Settlement, Cairo；Info@integrated-ps.com）；登记号未得；2026-10-29",
+   "url": "https://integrated-ps.com/contacts/",
+   "number": "未取（商业登记号 1 查未得）",
+   "status": "营业中（官网在）",
+   "incorporated": "未取",
+   "company_type": "LLC（推定）",
+   "sic": [
+    "安防 / 证卡打印 / 跟踪方案（新开罗）"
+   ],
+   "address": "171 El Banafseg 7, First Settlement, New Cairo, Egypt",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "Ahmed — 联系人（研究档 KP；ahmed@integrated-ps.com）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**询盘视频光端机（不供）+ 证卡打印为主 → 不动（B 保留；来询按集成商 25% 报 STC-028GP）**— 埃及常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方清关；NTRA 不声称）"
+   ],
+   "notes": "不动（产品不对位）；部分坐实（官网地址）。",
+   "code": "SB-971"
+  },
+  "SB-991": {
+   "batch": 122,
+   "name": "Egyptian Aluminium Tubes Company – Tubal Egypt（tubal-egypt.com；**D&B：9 El Zahaby Square, Roxi, Heliopolis, Cairo；Key Principal Fibi Bakhoum Toma；+202 2417 6301 / 2290 5751；trademo：HS 761210 铝管出口商；官网地址 18 Ashmoun St., Heliopolis 11341**）；登记号 1 查未得 → 部分坐实（制造商实体）；董事会成员 Daniel Adel Harvey 处理 PoE 新业务（2 光 10 电讲解在行、问告警口接 EMS、问 **SKD 分供便于清关** —— 我方已答可以）；1 次跟进无实质回复",
+   "iso": "EG",
+   "fetched": "2026-10-29",
+   "source": "EG · 1 次检索：dnb.com（EGYPTIAN ALUMINIUM TUBES COMPANY (TUBAL EGYPT)；9 El Zahaby Square, Roxi, Heliopolis Cairo；Key Principal Fibi Bakhoum Toma）+ trademo（HS 761210 egypt；18 ashmoun st heliopolis 11341）+ teg-designs 目录（(+202) 24176301）；登记号未得；2026-10-29",
+   "url": "https://www.dnb.com/business-directory/company-profiles.egyptian_aluminium_tubes_company_(tubal_egypt).a3feb8608b1be15e8ac0ce4ca87e6db8.html",
+   "number": "未取（商业登记号 1 查未得）",
+   "status": "营业中（官网 + 出口记录）",
+   "incorporated": "未取",
+   "company_type": "S.A.E.（推定）",
+   "sic": [
+    "铝管制造（赫利奥波利斯）+ PoE 进口新业务"
+   ],
+   "address": "18 Ashmoun St. / 9 El Zahaby Square, Heliopolis, Cairo 11341, Egypt",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "中型（制造）",
+   "officers": [
+    "Daniel Adel Harvey — Board Member（研究档 KP；info@tubal-egypt.com）= 收件人",
+    "Fibi Bakhoum Toma — Key Principal（D&B 2026-10-29；无公开邮箱）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**董事会成员亲自谈 PoE + SKD 清关需求（我方已答可以）→ 贴标 OEM 30% B，一页纸一次（STC-2216GP / STI-288DGGPM $137「2 光 10 电」对位 + SKD（整机拆箱分供，不做定制板）+ 贴标 MOQ + 付费样机；告警口 / EMS 按规格书答）— 埃及常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（买方清关；NTRA 不声称）**；回信 → 加厚"
+   ],
+   "notes": "贴标 OEM 30%（SKD）；一页纸一次（预付 100%）；部分坐实（D&B 地址 + 负责人 + 出口记录；登记号未取）。",
+   "code": "SB-991"
+  },
+  "SB-1139": {
+   "batch": 122,
+   "name": "Arnoldo Beltetón Mohr（arnoldomohr@gmail.com；Solution Architect 署名；**无公司 / 国别（姓氏 Beltetón 多见于危地马拉，待证）→ 0 查（1 次人名检索仅 facebook 同名 + 1980 年代同姓部长）**）— **A 邮箱 2025-04 起 8 轮群发后 2026-01-15 真回「CENTEC could be a great alternative in our market」，2026-03-10 带终端客户需求：Cisco C9300L-48P-4X 等价物（48×1G PoE+ + 4×10G SFP+，8 台堆叠 320 Gbps）** — 仓内唯一把 STH1G（CENTEC 48×1G PoE 堆叠线）谈到参数层面的客户",
+   "iso": "??",
+   "fetched": "2026-10-29",
+   "source": "0 查（gmail + 无公司；人名 1 查无命中）；2026-10-29",
+   "url": "",
+   "number": "0 查",
+   "status": "互动中（2026-01 / 03 两次真回）",
+   "incorporated": "—",
+   "company_type": "未知",
+   "sic": [
+    "方案架构（国别待核；疑危地马拉）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "未知",
+   "officers": [
+    "Arnoldo Beltetón Mohr — Solution Architect（研究档 KP；arnoldomohr@gmail.com）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**★ CENTEC 堆叠线真实需求 → 建议升 A（Simon 定）；集成商 25% B 先行：一页纸（STH1G 48×1G PoE+ + 4×10G SFP+ 堆叠 按主表报 + 堆叠带宽 / PoE 预算 / 交期如实 + 付费样机；FOB 深圳；国别一句话问清）**；回信即升"
+   ],
+   "notes": "集成商 25%（CENTEC STH1G）；一页纸 + 补答（预付 100%）；0 查；★ 建议升 A。",
+   "code": "SB-1139"
+  },
+  "SB-582": {
+   "batch": 122,
+   "name": "SmartIntercom（smartintercom.eu；**1 查仅 Akuvox 通用结果 → 未坐实**；.eu 域名，国别未填）— Akuvox 合作的高端门禁对讲分销商；表内「4 口工业级 PoE 交换机报价」；KP Ronald（roh@）；6 次跟进无回复",
+   "iso": "EU",
+   "fetched": "2026-10-29",
+   "source": "EU · 1 次检索：「SmartIntercom smartintercom.eu Akuvox distributor」→ 无本体命中（sourcesecurity / Akuvox 法务页）；2026-10-29",
+   "url": "",
+   "number": "未取（1 查无命中）",
+   "status": "营业中（研究档官网 ok）",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "门禁对讲分销（欧洲，国别待核）"
+   ],
+   "address": "未取（.eu）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（推定）",
+   "officers": [
+    "Ronald — 联系人（研究档 KP；roh@smartintercom.eu）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**主动要 4 口工业 PoE 报价（我方欠一页纸）→ 集成商 25% B，一页纸一次（STI-054GP 4 PoE + 1 GE / STI-154GP 一口价 + MOQ 1 + 付费样机；FOB 深圳 或 DAP 欧盟 买方清关；周四 12–14 当地）**；国别一句话问清；再无回声 → 不动"
+   ],
+   "notes": "集成商 25%；一页纸一次（预付 100%）；未坐实（国别待核）。",
+   "code": "SB-582"
+  },
+  "SB-973": {
+   "batch": 122,
+   "name": "Multi Technology System（info@multi-technology.com；**域名现为无关数字市场页（误配）+ 国别未填 → 0 查**）—「杂」表来源，对工业 PoE / 非 PoE 工业机有兴趣；无跟进",
+   "iso": "??",
+   "fetched": "2026-10-29",
+   "source": "0 查（域名误配 + 国别未知）；2026-10-29",
+   "url": "",
+   "number": "0 查",
+   "status": "存续待核（域名易主）",
+   "incorporated": "未取",
+   "company_type": "未取",
+   "sic": [
+    "未知"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "未知",
+   "officers": [
+    "（未具名；info@multi-technology.com）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**查无实体 + 国别未知 + 无 KP → 不动（B 保留）**"
+   ],
+   "notes": "不动（查无实体）；0 查。",
+   "code": "SB-973"
+  },
+  "SB-031": {
+   "batch": 122,
+   "name": "OM TELECOM S.R.L.（om-telecom.com；**SUNAT 镜像 universidadperu：RUC 20600792858；Activo / Habido；Fecha Inicio 2015-11-02；CIIU 64207 电信；Dirección Legal Av. Ramón Castilla 1120 Int. 503A, Santiago de Surco, Lima；RNP 政府供应商；connectamericas：7 人、2015、Bureau Veritas 认证；工业电信集成（能源自动化 / 矿业 / 油气：光网络、载波、远动保护、CCTV）**）→ 坐实；KP Clyver Ore M.（Sales Manager，WA 已加；2023-11 问「L3 工业」）/ Joel Ore（CFO）；2 次回复 / 18 次跟进",
+   "iso": "PE",
+   "fetched": "2026-10-29",
+   "source": "PE · 1 次检索：universidadperu.com/empresas/om-telecom.php（RUC 20600792858；OM TELECOM S.R.L.；Activo；02/Noviembre/2015；CIIU 64207；Av. Ramon Castilla Nro. 1120 Int. 503a, Santiago de Surco；Habido；RNP）+ connectamericas（7 funcionários；Fundado em 2015；Joel Ore CFO）；2026-10-29",
+   "url": "https://www.universidadperu.com/empresas/om-telecom.php",
+   "number": "RUC 20600792858",
+   "status": "Activo / Habido（SUNAT 镜像）",
+   "incorporated": "2015-11-02",
+   "company_type": "S.R.L.",
+   "sic": [
+    "工业电信集成（利马）"
+   ],
+   "address": "Av. Ramón Castilla 1120 Int. 503A, Santiago de Surco, Lima, Peru（办公 Calle Rocca de Vergallo 263 Of. 101, Magdalena）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（7 人）",
+   "officers": [
+    "Clyver Ore M. — Sales Manager（研究档 KP；clyver.ore@om-telecom.com；WA 已加）= 收件人",
+    "Joel Ore — CFO（connectamericas 2026-10-29 吻合；研究档 KP）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**工业电信集成（矿业 / 能源）+ 曾问 L3 工业 → 集成商 25% B，一页纸一次（工业 L2 管理 STI-288DGGPM $137 / STI-488DGGPM $147 + 机柜侧 STC-4424GCPM $165 L2+ 一口价 + STC-110XGE $65；工业 L3 不供如实说；西语备注）— 秘鲁常规：英文稿（可附西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 利马（买方清关）**；回信 → 加厚"
+   ],
+   "notes": "集成商 25%；一页纸一次（预付 100%）；坐实（RUC + 状态 + 成立日 + 法定地址）。",
+   "code": "SB-031"
+  },
+  "SB-051": {
+   "batch": 122,
+   "name": "Prestige Satellite Communications Inc.（prestigevsat.com；**Sunbiz：Florida Profit Corporation，Document No. P16000009000，FEI/EIN 81-1222208，Filed 2016-01-26，Status ACTIVE；2873 SW 14th Street, Fort Lauderdale, FL 33312；President / Registered Agent William Bye；ZoomInfo：Owner Howell Robert（= 表内 Rob ✓）、Director & Engineer William Bye、1–10 人；豪华游艇 VSAT / TVRO / IT 服务 → 表内「秘鲁 S.A.C.」误 → country_fix 美国**）→ 坐实；表内「买了 MC、PoE」= 老客户；0 次跟进",
+   "iso": "US",
+   "fetched": "2026-10-29",
+   "source": "US · 1 次检索：search.sunbiz.org（PRESTIGE SATELLITE COMMUNICATIONS INC；P16000009000；FEI/EIN 81-1222208；Date Filed 01/26/2016；ACTIVE；2873 SW 14th Street FORT LAUDERDALE, FL 33312；President BYE, WILLIAM）+ zoominfo（805 NE 18th Ave Apt 5, Fort Lauderdale；1-10；William Bye Director and Engineer；Howell Robert Owner）；2026-10-29",
+   "url": "https://search.sunbiz.org/Inquiry/corporationsearch/SearchResultDetail?inquirytype=EntityName&directionType=Initial&searchNameOrder=PRESTIGESATELLITECOMMUNICATION+P160000090000&aggregateId=domp-p16000009000-20d41eec-a083-4d54-9313-5c26da829222",
+   "number": "FL Document No. P16000009000；EIN 81-1222208",
+   "status": "ACTIVE（Sunbiz）",
+   "incorporated": "2016-01-26",
+   "company_type": "Florida Profit Corporation",
+   "sic": [
+    "游艇 VSAT / TVRO / IT 服务（劳德代尔堡）"
+   ],
+   "address": "2873 SW 14th Street, Fort Lauderdale, FL 33312, USA",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（1–10）",
+   "officers": [
+    "Rob = Robert Howell — Owner（ZoomInfo 2026-10-29；研究档 KP rob@prestigevsat.com）= 收件人",
+    "William Bye — President / Director & Engineer（Sunbiz 2026-10-29；无公开邮箱）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**★ 老客户（买过 MC + PoE）→ 回访一页纸一次（集成商 25%：STC-110XGE $65 + STC-228GP $33 / STC-2216GP 游艇机房一口价 + MOQ 1；船级 / 海事认证不声称）— 美国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳 或 DAP（买方清关；NDAA / TAA / UL / 船级不声称）；周三 08–10 当地**；回信即升 A 候选"
+   ],
+   "notes": "回访（集成商 25%）；一页纸一次（预付）；坐实（Sunbiz 文件号 + EIN + 状态 + 地址）；country_fix 美国；★ 回信即升。",
+   "code": "SB-051"
+  },
+  "SB-033": {
+   "batch": 122,
+   "name": "Marvel Business Consultants Co. W.L.L.（品牌 Marvel IT Solutions / Marvel ITCS；marvelitcs.com；**官网页脚：Office 0, Building 100, Road 56, Block 203, Muharraq, Bahrain；+973 3988 5090；sales@；自述 17 年；托管 IT + 安防 + 网络交换（名录类目）**）；CR 号 1 查未得 → 部分坐实；KP Nasir（info@；要「Cisco 同款型号」；2024-07 passive PoE 手册回 OK）；2 次回复 / 15 次跟进",
+   "iso": "BH",
+   "fetched": "2026-10-29",
+   "source": "BH · 1 次检索：marvelitcs.com（© Marvel Business Consultants Co. W.L.L；Office 0 Building 100 Road 56 Block 203, Muharraq；+973 39885090；sales@marvelitcs.com；17 YEARS）+ namibiayponline 名录（Marvel Business Consultants CO WLL；Network Switches / Access Control）；CR 未得；2026-10-29",
+   "url": "https://marvelitcs.com/",
+   "number": "未取（CR 号 1 查未得）",
+   "status": "营业中（官网 2026）",
+   "incorporated": "约 2008（自述 17 年）",
+   "company_type": "W.L.L.",
+   "sic": [
+    "托管 IT / 安防 / 网络（穆哈拉格）"
+   ],
+   "address": "Office 0, Building 100, Road 56, Block 203, Muharraq, Bahrain",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（<50 推定）",
+   "officers": [
+    "Nasir — 联系人（研究档 KP；info@marvelitcs.com）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**MSP 要 Cisco 对位 → 集成商 25% B，一页纸一次（CBS / SG 类对位表 → STC-2224GP $86 / STC-4424GCPM $165 L2+ / STC-2216GP 一口价 + MOQ 1 + 付费样机；在用品牌不点名）— 巴林常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 麦纳麦（买方清关；TRA 不声称）**；再无回声 → 不动"
+   ],
+   "notes": "集成商 25%；一页纸一次（预付 100%）；部分坐实（官网法定名 + 地址；CR 未取）。",
+   "code": "SB-033"
+  },
+  "SB-192": {
+   "batch": 122,
+   "name": "Core and Clad（**gmail + 无域名 → 0 查**；Intersec 2011 名片）— 巴林光纤领域贸易 / 工程商；KP Ebrahim Y. Alsada（采购）；**2011 年买过 2 次收发器** = 老客户；E 冷名单 1 次跟进 0 回复",
+   "iso": "BH",
+   "fetched": "2026-10-29",
+   "source": "0 查（gmail + 无域名）；2026-10-29",
+   "url": "",
+   "number": "0 查",
+   "status": "互动中（2011 成交 2 次）",
+   "incorporated": "—",
+   "company_type": "未取",
+   "sic": [
+    "光纤产品贸易 / 工程（巴林）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型（推定）",
+   "officers": [
+    "Ebrahim Y. Alsada — 采购（研究档 KP；core.and.clad@gmail.com）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老客户（2011 收发器 ×2）→ 回访一页纸一次（分销 20%：STC-110XGE $65 + STC-028GP $28 / STC-228GP $33 一口价 + MOQ 1）— 巴林常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 麦纳麦（买方清关；TRA 不声称）**；再无回声 → 不动"
+   ],
+   "notes": "回访（分销 20%）；一页纸一次（预付 100%）；0 查。",
+   "code": "SB-192"
+  },
+  "SB-049": {
+   "batch": 122,
+   "name": "Multi-Link (Pvt) Ltd = SECURICO 电子安防事业部（securico.co.zw；**公开资料：DDNS Security Operations (Pvt) Ltd 为控股公司（SECURICO / Canine / MULTI-LINK P/L），MD Divine Ndhlukula；SECURICO 1998 年创立，2008 年收购 Multi-Link，津巴布韦第二大电子安防系统商；Ebenezer House, 10 Millwood Road, Workington, Harare（研究档）；ISO 9001 / 45001 / 14001；4,300+ 员工**）；注册号 1 查未得 → 部分坐实（大型集团）；表内 **2011–2013 买过光端机（8V1D / 16V1D / 18 机架）+ 多种 FS** = 老客户；KP Samuel Kanoyangwa / Blessing Murondiwa（info@）",
+   "iso": "ZW",
+   "fetched": "2026-10-29",
+   "source": "ZW · 1 次检索：gravatar.com/newsletter160（SECURICO … acquiring … MultiLink (Pvt) Ltd … 2008 … Electronic Division … second largest electronic security systems provider in Zimbabwe）+ pindula.co.zw（Founded 1998；2008 acquired Multi-Link）+ divinesimbindhlukula.co.zw（Managing Director of DDNS Security Operations (Pvt) Ltd … holding company for SECURICO … MULTI-LINK P/L）；注册号未得；2026-10-29",
+   "url": "https://www.pindula.co.zw/Securico_Security_Services",
+   "number": "未取（津巴布韦公司注册号 1 查未得）",
+   "status": "营业中（集团官网 + 公开资料）",
+   "incorporated": "1998（SECURICO）/ Multi-Link 2008 并入",
+   "company_type": "(Pvt) Ltd（DDNS Security Operations 控股）",
+   "sic": [
+    "电子安防系统（哈拉雷）"
+   ],
+   "address": "Ebenezer House, 10 Millwood Road, Workington, Harare, Zimbabwe",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "大型（集团 4,300+）",
+   "officers": [
+    "Samuel Kanoyangwa / Blessing Murondiwa — 表内联系人（研究档 KP；info@securico.co.zw）= 收件人",
+    "Divine Ndhlukula — Managing Director, DDNS Security Operations（公开资料 2026-10-29；无公开邮箱）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**老客户（2011–2013 光端机 + FS）→ 回访一页纸一次（集成商 25%：FS 对位 STI-154GP / STI-288DGGPM $137 工业线 + STC-2216GP / STC-2224GP $86 一口价 + MOQ 1；光端机不供明说）— 津巴布韦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 哈拉雷（买方清关）**；再无回声 → 不动"
+   ],
+   "notes": "回访（集成商 25%）；一页纸一次（预付 100%）；部分坐实（集团公开资料 + 地址；注册号未取）。",
+   "code": "SB-049"
+  },
+  "SB-116": {
+   "batch": 122,
+   "name": "Pyramid Enterprises（pyramidenterprises3@gmail.com；**gmail + 无域名 → 0 查**）— 津巴布韦小型 IT 商 Cuthbert Mukumbi；需求 10G 850nm 光模块（不供）；2024–2025 对 MC / 工业 PoE / 2.5G / 16–24 口一律「暂时没需求」",
+   "iso": "ZW",
+   "fetched": "2026-10-29",
+   "source": "0 查（gmail + 无域名）；2026-10-29",
+   "url": "",
+   "number": "0 查",
+   "status": "互动中（多次「暂时没需求」）",
+   "incorporated": "—",
+   "company_type": "未取",
+   "sic": [
+    "IT 供应（津巴布韦）"
+   ],
+   "address": "未取",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型",
+   "officers": [
+    "Cuthbert Mukumbi — 联系人（研究档 KP；pyramidenterprises3@gmail.com）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**需求光模块（不供）+ 多次婉拒 → 不动（B 保留）**— 津巴布韦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 哈拉雷（买方清关）"
+   ],
+   "notes": "不动（产品不对位 + 婉拒）；0 查。",
+   "code": "SB-116"
+  },
+  "SB-1062": {
+   "batch": 122,
+   "name": "Al-Tamyeez Security Systems Co.（tamyeezsecurity.com；表内域名误记 odoo.com；**官网 / doha.directory / qbusinessgate：2012 年起卡塔尔公司；Al-Markhiya Complex, Al-Markhiya, Zone 33, P.O. Box 15394, Doha（另 Street 370, Bldg 252, Unit 81）；+974 4488 4600；info@；安防 + 网络方案（CCTV / 对讲 / 智能家居）**）；CR 号 1 查未得 → 部分坐实；表内「有 Utepo 的交换机」；无具名 KP；4 次跟进无回复",
+   "iso": "QA",
+   "fetched": "2026-10-29",
+   "source": "QA · 1 次检索：tamyeezsecurity.com（© 2012-2020 Al-Tamyeez Security Systems Co；Al-Markhiya Complex, Zone 33, P.O.Box 15394 Doha；+974 44884600；info@tamyeezsecurity.com）+ doha.directory（since 2012；Street No: 370, Building No: 252, Unit No: 81）+ qbusinessgate（since 2012）；CR 未得；2026-10-29",
+   "url": "https://www.doha.directory/al-tamyeez-security-systems/i/2157",
+   "number": "未取（CR 号 1 查未得）",
+   "status": "营业中（官网 + 名录 2025）",
+   "incorporated": "2012",
+   "company_type": "W.L.L.（推定）",
+   "sic": [
+    "安防 / 网络系统集成（多哈）"
+   ],
+   "address": "Al-Markhiya Complex, Zone 33, P.O. Box 15394, Doha, Qatar",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "（无具名 KP：info@tamyeezsecurity.com；Attn: Procurement Manager）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**安防 SI（在用 UTEPO 类 PoE）→ 集成商 25% B，一页纸一次（STC-028GP $28 / STC-2216GP / STC-2224GP $86 一口价 + MOQ 1 + 付费样机；在用品牌不点名）— 卡塔尔常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 多哈（买方清关；CRA 不声称）**；再无回声 → 不动"
+   ],
+   "notes": "集成商 25%；一页纸一次（预付 100%）；部分坐实（官网地址 + 成立年；CR 未取；域名更正 tamyeezsecurity.com）。",
+   "code": "SB-1062"
+  },
+  "SB-166": {
+   "batch": 122,
+   "name": "Crown Security Solutions W.L.L.（卡塔尔；Crown Group；**RocketReach：Mohamed Safeer = Chief Technology Officer（2018 起；2012–2018 Crown Group 技术支持）**；地址 / CR 1 查未得 → 部分坐实（KP 职务坐实）；Cudy 分销商；**提出 200 台工业 5 电口需求**，2025-02 要工业 16 / 24 口 datasheet，2025-10 CPSE 展会面谈；无邮箱（WA）",
+   "iso": "QA",
+   "fetched": "2026-10-29",
+   "source": "QA · 1 次检索：rocketreach.co/mohamed-safeer-email_25509741（Chief Technology Officer @ CROWN SECURITY SOLUTIONS LIMITED / Crown Security Solutions WLL；Qatar；2018 - now；Crown Group 2012–2018）；地址 / CR 未得；2026-10-29",
+   "url": "https://rocketreach.co/mohamed-safeer-email_25509741",
+   "number": "未取（CR 号 1 查未得）",
+   "status": "营业中（展会 2025-10 面谈）",
+   "incorporated": "未取",
+   "company_type": "W.L.L.",
+   "sic": [
+    "安防分销（多哈；Cudy 分销）"
+   ],
+   "address": "未取（Doha, Qatar）",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "小型",
+   "officers": [
+    "Mohamed Safeer — Chief Technology Officer（RocketReach 2026-10-29；研究档 KP；仅 WA）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**★ 200 台工业 5 电口需求 + 展会面谈 + CTO 为 KP → 分销 20% B，WA 一页纸（STI-054GP / STI-280GE $46.6 ×200 阶梯一口价 + 工业 16 / 24 口 STI-0240GE $130 规格书 + 付费样机；Cudy 不点名）— 卡塔尔常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 多哈（买方清关；CRA 不声称）**；回信即升 A 候选"
+   ],
+   "notes": "分销 20%；WA 一页纸 + 规格书（预付 100%）；部分坐实（KP 职务；地址 / CR 未取）；★ 回信即升。",
+   "code": "SB-166"
+  },
+  "SB-110": {
+   "batch": 122,
+   "name": "iTKATI UG Ltd（ITKati Corp.；itkati.com；**eastafricatenders：Registration Date 2018-07-25，Block 244 Plot 965, Kyadondo, Makindye, Kampala；yellow.ug：2009 年起、6–10 人、Company manager Sarah Basemera；+256 393 225 713 / +256 704 575 328；企业网络 / CCTV / Starlink / VoIP / 软件**）；URSB 号 1 查未得 → 部分坐实；KP Bob（technical@；WA 已加；价格 OK、要样、**要贴自有标**）",
+   "iso": "UG",
+   "fetched": "2026-10-29",
+   "source": "UG · 1 次检索：eastafricatenders.com/directory/itkati-ug-ltd（Registration Date Jul 25, 2018；Block 244 Plot 965 Kampala）+ yellow.ug/company/40803（established in 2009；Company manager sarah basemera；Employees 6-10）+ worldplaces（Makindye；+256704575328）；URSB 未得；2026-10-29",
+   "url": "https://eastafricatenders.com/directory/itkati-ug-ltd/",
+   "number": "未取（URSB 号 1 查未得；登记日 2018-07-25）",
+   "status": "营业中（官网 + 名录 2026-07 更新）",
+   "incorporated": "2009（登记 2018-07-25）",
+   "company_type": "Ltd",
+   "sic": [
+    "IT / 网络 / 安防集成（坎帕拉 Makindye）"
+   ],
+   "address": "Block 244, Plot 965, Kyadondo, Makindye, Kampala, Uganda",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型（6–10）",
+   "officers": [
+    "Bob — 技术 / 采购（研究档 KP；technical@itkati.com；WA 已加）= 收件人",
+    "Sarah Basemera — Company manager（yellow.ug 2026-10-29；无公开邮箱）"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**价格 OK + 要样 + 要自有标 → 贴标 OEM 30% B，一页纸一次（STC-028GP $28 / STC-228GP $33 / STC-2216GP 贴标 + 贴标 MOQ + 付费样机；小量先按集成商 25% 中性包装）— 乌干达常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 坎帕拉（买方清关；UCC 不声称）**；回信 → 加厚"
+   ],
+   "notes": "贴标 OEM 30%（小量 25%）；一页纸一次（预付 100%）；部分坐实（登记日 + 地址 + 人数；URSB 号未取）。",
+   "code": "SB-110"
+  },
+  "SB-183": {
+   "batch": 122,
+   "name": "Onyx Technology Solutions Ltd（onyxtechnologysolutionsltd.com；**官网：Room S.11 Nathur Building, Victoria Street, Masaka City, Uganda；+256 704 803 724 / +256 200 906 532；gmail；ISP / WISP + 电气 / ICT / 安防方案（马萨卡、姆巴拉拉）**）；URSB 号 1 查未得 → 部分坐实；KP Steven Ntengo；Cambium Force 用户，需求工业 PoE 注入器（不供）；2024 问工业机 / 48 口 / 228 价，对 154 有兴趣，要价目",
+   "iso": "UG",
+   "fetched": "2026-10-29",
+   "source": "UG · 1 次检索：onyxtechnologysolutionsltd.com（Onyx Technology Solutions Ltd；Room S.11 Nathur Building, Victoria Street Masaka City；+256-704-803-724；onyxtechnologysolutionsltd@gmail.com；ISP）；URSB 未得；2026-10-29",
+   "url": "https://onyxtechnologysolutionsltd.com/",
+   "number": "未取（URSB 号 1 查未得）",
+   "status": "营业中（官网 2025）",
+   "incorporated": "未取",
+   "company_type": "Ltd",
+   "sic": [
+    "WISP / ICT / 电气 / 安防（马萨卡）"
+   ],
+   "address": "Room S.11, Nathur Building, Victoria Street, Masaka City, Uganda",
+   "accounts": "未取",
+   "accounts_due": "—",
+   "size_band": "微型",
+   "officers": [
+    "Steven Ntengo — 联系人（研究档 KP；onyxtechnologysolutionsltd@gmail.com）= 收件人"
+   ],
+   "psc": "未取",
+   "charges": "",
+   "prev_names": [],
+   "lines": [
+    "**对 154 有兴趣 + 要价目 → 集成商 25% B，一页纸一次（STI-154GP / STI-054GP 塔站供电 + STC-228GP $33 一口价 + MOQ 1；注入器不供明说）— 乌干达常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 坎帕拉（买方清关；UCC 不声称）**；再无回声 → 不动"
+   ],
+   "notes": "集成商 25%；一页纸一次（预付 100%）；部分坐实（官网地址；URSB 号未取）。",
+   "code": "SB-183"
   }
  }
 }
