@@ -60,6 +60,8 @@ updated: 2026-10-30
 | 2026-03-31 | 去 | Alan | Yes, we OEM from a manufacturer. And they have been supporting us very well, based on our previous orders and after-sales questions from client side. | 如实 | `d63854cffb76b6d5` |
 | 2026-05-26 | 来 | robert@bsdnetworks.com | Hello, BSD Networks is pleased to extend a formal Invitation to Bid for the construction of a new twelve-storey, approximately 285,000 sq. ft. mixed-u | 来信原文（主题「You have a Bid Invitation from BSD 」；第 19 批从 gmail_a 回补，之前只有计数没有原话） | `96db4511c0c030f3` |
 | 2026-10-21 | 查 | Agent 官网快照 LT-T03 | BSD Networks – Driving Fiber Innovation | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
+| 2026-10-30 | 查 | Agent 网查 A-DEEP-01 | BSD Networks is a leading brand of Networking and Fiber Optic products sold in Canada and the USA for its parent company, BSD International Marketing · 520 Applewood Cres, Concord, ON · 905-669-6613 | A 落池核验：身份/角色/规模（网页公开信息） | `` |
+| 2026-10-30 | 查 | Agent 网查 A-DEEP-01 | BSD Networks · Manufacturing · Telecommunication Equipment · 11-50 Employees · Robert Lichtenstein Owner | A 落池核验：身份/角色/规模（网页公开信息） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -225,7 +227,7 @@ updated: 2026-10-30
 | ③ 需求证据 | 具体（型号/数量/项目/样品） | 2026-03-30 A: Good morning Alan, It was nice to hear from you. Could you please provide more information about Saga Telecom? Specifically, do you manufact |
 | ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2026-05-26（5 月前） |
 | ⑤ 规模 | ≥小型 | ≈19 人（ZoomInfo）（第 89 批 官方登记核实 2026-10-27） |
-| ⑥ 否决项 | 无 | 缺口：无 |
+| ⑥ 否决项 | 无 | 缺口：人工终判：BSD Networks（BSD International Marketing 旗下品牌；安大略 Concord/Thornhill；Owner Robert Lichtenstein；11–50 人；在加拿大/美国销售自有品牌网络与光纤产品）：2025 来信要更多资料——自有品牌网络产品商，OEM 30% 直接对位 |
 
 **故事线**：加拿大·OEM 品牌商；登记线索：CA · ZoomInfo / D&B（Key Principal、人数、1982 起）+ yellowpages（母公: BSD International 。往来 2024-07-02→2026-09-09：我方去信 26 封（A 19 / S 7），对方真人来信 1 封 + 表内/备注 0 条；对方问过：2026-03-30 A: Good morning Alan, It was nice to hear from you. Could you please provide more information about Saga Telecom? Specifically, do you manufact。我方报过：$170 / $280 / $6000。对位：STI-288GP；路径：企业邮箱 MX ok；最近来信 2026-05-26（5 月前）。
 
@@ -245,6 +247,9 @@ updated: 2026-10-30
 | 2026-08-05 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-08-18 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-09 | 去 | A | 16 Port Industrial PoE Switch |  |
+
+- 网查（2026-10-30）：BSD Networks is a leading brand of Networking and Fiber Optic products sold in Canada and the USA for its parent company, BSD International Marketing · 520 Applewood Cres, Concord, ON · 905-669-6613 — <https://www.yellowpages.ca/bus/Ontario/Concord/BSD-International-Marketing/3763995.html>
+- 网查（2026-10-30）：BSD Networks · Manufacturing · Telecommunication Equipment · 11-50 Employees · Robert Lichtenstein Owner — <https://www.zoominfo.com/c/bsd-networks/10489097>
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

@@ -143,6 +143,22 @@
     "quote": "Fiber Optic Cable Supplier, Distributor — Stocking distributor of fiber optic installation tools, bulk fiber cables, fiber patch cables, test equipment, cable management, fiber optic training and more.",
     "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
     "url": "https://www.fiberoptics4sale.com"
+   },
+   {
+    "date": "2026-10-30",
+    "dir": "查",
+    "who": "Agent 网查 A-DEEP-01",
+    "quote": "FOSCO Connect (Fiber Optics For Sale Co.) was founded in 2001 by fiber optic networking expert Colin Yao … one of the largest stocking distributors of fiber optic datacom and telecom networking products with multi-million dollar annual sales · 269 Mavis Drive Pleasanton, CA",
+    "why": "A 落池核验：身份/角色/规模（网页公开信息）",
+    "url": "https://www.fiberoptics4sale.com/pages/about-us"
+   },
+   {
+    "date": "2026-10-30",
+    "dir": "查",
+    "who": "Agent 网查 A-DEEP-01",
+    "quote": "Fiber Optics For Sale Co. · Computer Networking · 11-50 employees · Fremont, CA · Founded 2001",
+    "why": "A 落池核验：身份/角色/规模（网页公开信息）",
+    "url": "https://www.linkedin.com/company/fiber-optics-for-sale-co-"
    }
   ],
   "proof_gaps": [
@@ -250,7 +266,9 @@
   "size": "11–50（LinkedIn）/ 12（BBB）；自述「multi-million dollar annual sales」（第 90 批 官方登记核实 2026-10-27）",
   "size_lv": "个人/微型",
   "veto": [],
-  "gaps": [],
+  "gaps": [
+   "人工终判：FOSCO Connect / Fiber Optics For Sale Co.（加州 Pleasanton/Fremont；2001 年 Colin Yao 创立；光纤数据/电信网络产品备货分销商，年销数百万美元，11–50 人）：2025-07 来信要产品线 / 价格 / 网站——美国光纤分销商坐实，分销 20% 档"
+  ],
   "story": "美国·分销商；登记线索：US · 1 次检索：官网 about / help（2001 由 Colin Yao 创立；公司地址 269 Mavi: Fiber Optics For S。往来 2025-01-13→2025-11-19：我方去信 13 封（A 9 / S 1），对方真人来信 1 封 + 表内/备注 0 条；对方问过：2025-07-23 A: HI Alan, Please send me more info about your product line, pricing and your website. Thanks. On Wed, Jul 23, 2025 at 8:40 AM Alan from Saga 。我方报过：$280 / $300。对位：STI-0160GE；路径：企业邮箱 MX ok；最近来信 2025-07-23（15 月前）。",
   "n_out": 13,
   "n_in": 1,
@@ -398,7 +416,18 @@
     "k": "gmail_a 2dbe7b958999a21f / ccf3841f6f306580 / 917dae8064969d5d"
    }
   ],
-  "web_facts": [],
-  "manual": false
+  "web_facts": [
+   {
+    "url": "https://www.fiberoptics4sale.com/pages/about-us",
+    "quote": "FOSCO Connect (Fiber Optics For Sale Co.) was founded in 2001 by fiber optic networking expert Colin Yao … one of the largest stocking distributors of fiber optic datacom and telecom networking products with multi-million dollar annual sales · 269 Mavis Drive Pleasanton, CA",
+    "date": "2026-10-30"
+   },
+   {
+    "url": "https://www.linkedin.com/company/fiber-optics-for-sale-co-",
+    "quote": "Fiber Optics For Sale Co. · Computer Networking · 11-50 employees · Fremont, CA · Founded 2001",
+    "date": "2026-10-30"
+   }
+  ],
+  "manual": true
  }
 }

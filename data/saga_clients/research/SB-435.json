@@ -53,8 +53,8 @@
    "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：Saucon Technologies（宾州 Bethlehem；11–50 人；大巴车队远程信息 / 车载 Wi-Fi / 车载录像）：车载领域要 E-mark / M12（Saga 不做），只表内 1 次问价——品类不对位，下放 B",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -161,6 +161,14 @@
     "quote": "Saucon Technologies — Saucon's intelligent transportation management platform provides a full suite of cloud-based software, hardware, and analytics tools.",
     "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
     "url": "https://www.saucontds.com/"
+   },
+   {
+    "date": "2026-10-30",
+    "dir": "查",
+    "who": "Agent 网查 A-DEEP-01",
+    "quote": "Saucon Technologies … mobile resource management solutions … primary focus being in the motor coach sector … GPS tracking, engine telemetry … mobile Wi-Fi connectivity, on-board video recording · 2455 Baglyos Circle Bethlehem PA",
+    "why": "A 落池核验：身份/角色/规模（网页公开信息）",
+    "url": "https://www.saucontds.com/careers"
    }
   ],
   "proof_gaps": [],
@@ -187,6 +195,14 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "A-DEEP-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+   "reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：Saucon Technologies（宾州 Bethlehem；11–50 人；大巴车队远程信息 / 车载 Wi-Fi / 车载录像）：车载领域要 E-mark / M12（Saga 不做），只表内 1 次问价——品类不对位，下放 B"
   }
  ],
  "snap_thicken": {
@@ -228,7 +244,7 @@
  "a_deep": {
   "batch": "A-DEEP-01",
   "date": "2026-10-30",
-  "verdict": "留A",
+  "verdict": "下放B",
   "tier": "A2",
   "ident": [
    "登记线索",
@@ -256,7 +272,8 @@
   "size_lv": "≥小型",
   "veto": [],
   "gaps": [
-   "路径弱"
+   "路径弱",
+   "人工终判：Saucon Technologies（宾州 Bethlehem；11–50 人；大巴车队远程信息 / 车载 Wi-Fi / 车载录像）：车载领域要 E-mark / M12（Saga 不做），只表内 1 次问价——品类不对位，下放 B"
   ],
   "story": "美国·OEM 品牌商；登记线索：US · 1 次检索：Buzzfile（Saucon Technologies, Inc.；Year Founded 1: Saucon Technologie。往来 2022→2026-09-11：我方去信 23 封（A 21 / S 1），对方真人来信 0 封 + 表内/备注 1 条；对方问过：2022 表: Simon 备注/兴趣栏→问了一些技术问题。我方报过：$170 / $240 / $280 / $300。对位：STI-054GP；路径：企业邮箱；最近来信 无（仅表内/当面）。",
   "n_out": 23,
@@ -407,7 +424,13 @@
     "k": "gmail_digest"
    }
   ],
-  "web_facts": [],
-  "manual": false
+  "web_facts": [
+   {
+    "url": "https://www.saucontds.com/careers",
+    "quote": "Saucon Technologies … mobile resource management solutions … primary focus being in the motor coach sector … GPS tracking, engine telemetry … mobile Wi-Fi connectivity, on-board video recording · 2455 Baglyos Circle Bethlehem PA",
+    "date": "2026-10-30"
+   }
+  ],
+  "manual": true
  }
 }

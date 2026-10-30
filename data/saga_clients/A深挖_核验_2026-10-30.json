@@ -6245,13 +6245,25 @@
 "size_lv": "个人/微型",
 "veto": [],
 "gaps": [
-"路径弱"
+"路径弱",
+"人工终判：Eyescan Private Security Services Ltd（利马索尔；2001 年成立；D&B：董事 Erodotos Stylianou / Marinos Charalampous，1–24 人；官网：2015 年营业额达 $2M；设计/销售/安装/维护安防系统 + 报警接收中心）：Simon 备注要了工业价目、特别问 4 光 24 电 / 2 光 24 商业级——塞浦路斯安防集成商坐实"
 ],
 "verdict": "留A",
 "story": "塞浦路斯·OEM 品牌商/分销商；登记线索：塞浦路斯 · 公司注册处查询为 JS 交互，无镜像；本行为「无登记源」记录（据第 79 批研究档）: Eyescan Private Security Serv。往来 2023→2026-09-14：我方去信 16 封（A 16 / S 0），对方真人来信 0 封 + 表内/备注 1 条；对方问过：2023 表: Simon 备注/兴趣栏→工业品price list, 特别问了4光24电的价格，对于管理方式问的比较多，也问了2光24商业级PoE能否做管理的，说国家小，买了卖给别人，基本不咋做OEM。我方报过：$170 / $280 / $300 / $6000。对位：STC-424DGGPM-280W；路径：企业邮箱 + WA；最近来信 无（仅表内/当面）。",
-"web_facts": [],
+"web_facts": [
+{
+"url": "https://www.dnb.com/business-directory/company-profiles/eyescan-private-security-services-ltd.1ac629ee0e4fa28c2eb3603b85b97c55",
+"quote": "EYESCAN PRIVATE SECURITY SERVICES LTD · 65 Michail Zavou, Agios Athanasios, Limassol 4107 · Director Erodotos Stylianou · Director and Secretary Marinos Charalampous · 1-24 employees · +357-25333300",
+"date": "2026-10-30"
+},
+{
+"url": "https://eyescan.com.cy/about-us/",
+"quote": "2001 Company Formation · 2007 one of the major players in the Cyprus market · 2015 reached 2 million dollars in turnover · We design, sell, install, integrate, and maintain security systems",
+"date": "2026-10-30"
+}
+],
 "extra": {},
-"manual": false,
+"manual": true,
 "timeline": [
 {
 "date": "2023",
@@ -26519,13 +26531,20 @@
 "veto": [],
 "gaps": [
 "路径弱",
-"规模未知"
+"规模未知",
+"人工终判：Konak Güv.Sis.Dan.Hiz.Eğtm.Elktr.Kmp.Mlz.Teks.İnş.San.ve Ticaret Ltd. Şti.（Kahramanmaraş；安防系统经销 + 网店）：2024-06 来信问有无 AT-FS750-28 同规格产品——土耳其安防经销商，法定名已从官网会员协议取得"
 ],
 "verdict": "留A",
 "story": "土耳其·集成商/安装商；研究档法定名：Konak Güvenlik（konakguvenlik.com.tr；法定全称 / Ticaret Sicil 未定位）（第 88 批 官方登记核实 2026。往来 2024-06-14→2026-10-06：我方去信 23 封（A 12 / S 9），对方真人来信 1 封 + 表内/备注 0 条；对方问过：2024-06-26 S: Hello, Do you have a product with the features in the description? Thank you Erkut Sevin +905315637721 network-switches-AT-FS750-28-30 15:21。我方报过：$65 / $170 / $220 / $280 / $6000。对位：STC-28DGGPM；路径：企业邮箱；最近来信 2024-06-26（28 月前）。",
-"web_facts": [],
+"web_facts": [
+{
+"url": "https://www.konakguvenlik.com.tr/y/yeni-uye-kaydi.html",
+"quote": "Unvan: Konak Güv.Sis.Dan.Hiz.Eğtm.Elktr.Kmp.Mlz.Teks.İnş.San.VeTicaret Ltd. Şti. · Adres: Kahramanmaraş / Türkiye · satis@konakguvenlik.com.tr · +90 344 221 55 55",
+"date": "2026-10-30"
+}
+],
 "extra": {},
-"manual": false,
+"manual": true,
 "timeline": [
 {
 "date": "2024-06-14",
@@ -29458,12 +29477,25 @@
 "size": "11–50（LinkedIn）/ 12（BBB）；自述「multi-million dollar annual sales」（第 90 批 官方登记核实 2026-10-27）",
 "size_lv": "个人/微型",
 "veto": [],
-"gaps": [],
+"gaps": [
+"人工终判：FOSCO Connect / Fiber Optics For Sale Co.（加州 Pleasanton/Fremont；2001 年 Colin Yao 创立；光纤数据/电信网络产品备货分销商，年销数百万美元，11–50 人）：2025-07 来信要产品线 / 价格 / 网站——美国光纤分销商坐实，分销 20% 档"
+],
 "verdict": "留A",
 "story": "美国·分销商；登记线索：US · 1 次检索：官网 about / help（2001 由 Colin Yao 创立；公司地址 269 Mavi: Fiber Optics For S。往来 2025-01-13→2025-11-19：我方去信 13 封（A 9 / S 1），对方真人来信 1 封 + 表内/备注 0 条；对方问过：2025-07-23 A: HI Alan, Please send me more info about your product line, pricing and your website. Thanks. On Wed, Jul 23, 2025 at 8:40 AM Alan from Saga 。我方报过：$280 / $300。对位：STI-0160GE；路径：企业邮箱 MX ok；最近来信 2025-07-23（15 月前）。",
-"web_facts": [],
+"web_facts": [
+{
+"url": "https://www.fiberoptics4sale.com/pages/about-us",
+"quote": "FOSCO Connect (Fiber Optics For Sale Co.) was founded in 2001 by fiber optic networking expert Colin Yao … one of the largest stocking distributors of fiber optic datacom and telecom networking products with multi-million dollar annual sales · 269 Mavis Drive Pleasanton, CA",
+"date": "2026-10-30"
+},
+{
+"url": "https://www.linkedin.com/company/fiber-optics-for-sale-co-",
+"quote": "Fiber Optics For Sale Co. · Computer Networking · 11-50 employees · Fremont, CA · Founded 2001",
+"date": "2026-10-30"
+}
+],
 "extra": {},
-"manual": false,
+"manual": true,
 "timeline": [
 {
 "date": "2025-01-13",
@@ -32039,13 +32071,25 @@
 "veto": [],
 "gaps": [
 "路径弱",
-"规模未知"
+"规模未知",
+"人工终判：BONMAG INTERNATIONAL SRL（罗马尼亚 Dâmbovița，CUI 37299107，J15/334/2017；品牌 OMNI Security，Târgoviște 安防/视频监控安装商）：2024 两次回复（要便宜的 4/8 PoE+2 LAN；bypass 可能有用 要价）——微型安装商，欧洲主攻区，薄 A"
 ],
 "verdict": "留A",
 "story": "罗马尼亚·集成商/安装商；登记坐实：RO · 1 次检索：termene.ro（BONMAG INTERNATIONAL S.R.L.；CUI 372991: BONMAG INTERNATION。往来 2023-02-07→2026-09-03：我方去信 4 封（A 4 / S 0），对方真人来信 0 封 + 表内/备注 2 条；对方问过：92 表: bypass→可能有用 price。我方报过：$170 / $6000。对位：STC-28DGGPM；路径：企业邮箱 + WA；最近来信 2023-02-07（44 月前）。",
-"web_facts": [],
+"web_facts": [
+{
+"url": "https://www.romanian-companies.eu/bonmag-international-srl-37299107/",
+"quote": "BONMAG INTERNATIONAL SRL · Fiscal Code 37299107 · Registry No. J15/334/2017 · established 2017 · Sat Voinesti, Dambovita · Web omnisecurity",
+"date": "2026-10-30"
+},
+{
+"url": "https://www.facebook.com/Omnisec/",
+"quote": "OMNI Security, Targoviste — Firma care se ocupa cu instalarea sistemelor de securitate si supraveghere video · office@omnisecurity.ro",
+"date": "2026-10-30"
+}
+],
 "extra": {},
-"manual": false,
+"manual": true,
 "timeline": [
 {
 "date": "2023-02-07",
@@ -32776,12 +32820,25 @@
 "size": "≈19 人（ZoomInfo）（第 89 批 官方登记核实 2026-10-27）",
 "size_lv": "≥小型",
 "veto": [],
-"gaps": [],
+"gaps": [
+"人工终判：BSD Networks（BSD International Marketing 旗下品牌；安大略 Concord/Thornhill；Owner Robert Lichtenstein；11–50 人；在加拿大/美国销售自有品牌网络与光纤产品）：2025 来信要更多资料——自有品牌网络产品商，OEM 30% 直接对位"
+],
 "verdict": "留A",
 "story": "加拿大·OEM 品牌商；登记线索：CA · ZoomInfo / D&B（Key Principal、人数、1982 起）+ yellowpages（母公: BSD International 。往来 2024-07-02→2026-09-09：我方去信 26 封（A 19 / S 7），对方真人来信 1 封 + 表内/备注 0 条；对方问过：2026-03-30 A: Good morning Alan, It was nice to hear from you. Could you please provide more information about Saga Telecom? Specifically, do you manufact。我方报过：$170 / $280 / $6000。对位：STI-288GP；路径：企业邮箱 MX ok；最近来信 2026-05-26（5 月前）。",
-"web_facts": [],
+"web_facts": [
+{
+"url": "https://www.yellowpages.ca/bus/Ontario/Concord/BSD-International-Marketing/3763995.html",
+"quote": "BSD Networks is a leading brand of Networking and Fiber Optic products sold in Canada and the USA for its parent company, BSD International Marketing · 520 Applewood Cres, Concord, ON · 905-669-6613",
+"date": "2026-10-30"
+},
+{
+"url": "https://www.zoominfo.com/c/bsd-networks/10489097",
+"quote": "BSD Networks · Manufacturing · Telecommunication Equipment · 11-50 Employees · Robert Lichtenstein Owner",
+"date": "2026-10-30"
+}
+],
 "extra": {},
-"manual": false,
+"manual": true,
 "timeline": [
 {
 "date": "2024-07-02",
@@ -36334,13 +36391,25 @@
 "veto": [],
 "gaps": [
 "路径弱",
-"规模未知"
+"规模未知",
+"人工终判：EL.SI. S.r.l.（意大利 Crotone；P.IVA 01536710799；1985 年起；17 名员工、营收 €3.9M；面向安装商的安防/自动化/视频监控区域分销商，覆盖 Calabria / Basilicata / Puglia）：Simon 备注记录其问价——区域安防分销商坐实，分销 20% 档"
 ],
 "verdict": "留A",
 "story": "意大利·分销商；登记坐实：IT · 1 次检索：ufficiocamerale（EL.SI. S.R.L.；P.IVA 01536710799；L: EL.SI. S.R.L.（elsi。往来 2023→2026-09-16：我方去信 24 封（A 16 / S 7），对方真人来信 0 封 + 表内/备注 1 条；对方问过：2023 表: Simon 备注/兴趣栏→主要用国内univew这家的摄像头，处理CCTV security, 问了商业PoE的price list,给他介绍了2光10电，没太多意愿说会看的 ； 096。我方报过：$240 / $280 / $300。对位：STC-28DGGPM；路径：企业邮箱；最近来信 无（仅表内/当面）。",
-"web_facts": [],
+"web_facts": [
+{
+"url": "https://atoka.io/public/it/azienda/elsi-srl/0bb316a1912e",
+"quote": "El.si. Srl · Via Enzo Ferrari, Crotone (KR) · 17 dipendenti · fatturato 3.9 M € · piccola impresa · foundingDate 1985 · P.IVA 01536710799",
+"date": "2026-10-30"
+},
+{
+"url": "http://www.elsikr.it/chi-siamo.html",
+"quote": "Da 35 anni siamo leader in tutta la Calabria, Basilicata e Puglia, nella distribuzione di prodotti e servizi nei settori … Sicurezza (Antifurto, Videosorveglianza e Antincendio) … accompagnare installatori",
+"date": "2026-10-30"
+}
+],
 "extra": {},
-"manual": false,
+"manual": true,
 "timeline": [
 {
 "date": "2023",
@@ -37790,7 +37859,7 @@
 "iso": "IE",
 "region": "欧洲",
 "tier": "A2",
-"grade_now": "A",
+"grade_now": "B",
 "ident": [
 "未坐实",
 "无域名（仅表内信息）"
@@ -41963,13 +42032,20 @@
 "size_lv": "≥小型",
 "veto": [],
 "gaps": [
-"路径弱"
+"路径弱",
+"人工终判：Saucon Technologies（宾州 Bethlehem；11–50 人；大巴车队远程信息 / 车载 Wi-Fi / 车载录像）：车载领域要 E-mark / M12（Saga 不做），只表内 1 次问价——品类不对位，下放 B"
 ],
-"verdict": "留A",
+"verdict": "下放B",
 "story": "美国·OEM 品牌商；登记线索：US · 1 次检索：Buzzfile（Saucon Technologies, Inc.；Year Founded 1: Saucon Technologie。往来 2022→2026-09-11：我方去信 23 封（A 21 / S 1），对方真人来信 0 封 + 表内/备注 1 条；对方问过：2022 表: Simon 备注/兴趣栏→问了一些技术问题。我方报过：$170 / $240 / $280 / $300。对位：STI-054GP；路径：企业邮箱；最近来信 无（仅表内/当面）。",
-"web_facts": [],
+"web_facts": [
+{
+"url": "https://www.saucontds.com/careers",
+"quote": "Saucon Technologies … mobile resource management solutions … primary focus being in the motor coach sector … GPS tracking, engine telemetry … mobile Wi-Fi connectivity, on-board video recording · 2455 Baglyos Circle Bethlehem PA",
+"date": "2026-10-30"
+}
+],
 "extra": {},
-"manual": false,
+"manual": true,
 "timeline": [
 {
 "date": "2022",
@@ -49436,13 +49512,14 @@
 "veto": [],
 "gaps": [
 "路径弱",
-"规模未知"
+"规模未知",
+"人工终判：Hersnet Ltd（匈牙利）：无域名、网查无果（1 查未得即停），只表内一句「有兴趣 让发资料」——身份不可核，下放 B"
 ],
-"verdict": "留A",
+"verdict": "下放B",
 "story": "匈牙利·集成商/安装商；登记线索：HU · 1 次检索：companywall.hu Aura Trans Kft.（Rákóczi út 22 Buda: 「Hersnet Ltd」（匈牙利；。往来 2024-03-15→2024-03-15：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 1 条；对方问过：2024.3.15 表: 发了2光8商业POE管理信息→有兴趣 让发资料。我方报过：2025-12-31  $300.0；2026-07-19  $1500.0；2026-09-28  $180.0。对位：STI-110GE；路径：免费邮箱 + WA；最近来信 2024-03-15（31 月前）。",
 "web_facts": [],
 "extra": {},
-"manual": false,
+"manual": true,
 "timeline": [
 {
 "date": "2024-03-15",
@@ -50940,13 +51017,25 @@
 "size_lv": "未知",
 "veto": [],
 "gaps": [
-"规模未知"
+"规模未知",
+"人工终判：Olson Technology, Inc.（Antronix of California 分部；加州 Mi-Wuk Village；11–50 人；CATV / FTTH / L-Band 光纤传输设备制造商，承接 OEM 设计）：2025-08 Peter 回「interested in the pricing」「please send manual」——设备制造商 + Ethernet/FTTX 线，OEM 30% 对位"
 ],
 "verdict": "留A",
 "story": "美国·OEM 品牌商；登记线索：US · 1 次检索：官网 company.html（「Antronix of California, (Olson T: Olson Technology, 。往来 2025-01-23→2026-02-12：我方去信 15 封（A 14 / S 1），对方真人来信 2 封 + 表内/备注 0 条；对方问过：2025-08-08 A: Thanks.. I’d be interested in the pricing… Thanks Peter ‖ 2025-08-09 A: Thank you. Yes, please send manual as well...。我方报过：$225 / $240 / $280 / $310。对位：STI-110GE；路径：企业邮箱 MX ok；最近来信 2025-08-09（14 月前）。",
-"web_facts": [],
+"web_facts": [
+{
+"url": "http://www.olsontech.com/",
+"quote": "Antronix of California (Olson Technology Division) designs and manufactures electronic and fiber optic products for CATV, L-Band, FTTH, Headend Processing, CCTV … and OEM clients · 24926 Highway 108, Mi-Wuk Village, CA 95346 · sales@olsontech.com",
+"date": "2026-10-30"
+},
+{
+"url": "https://www.crunchbase.com/organization/olson-technology",
+"quote": "Olson Technology, Inc. · Mi Wuk Village, California · 11-50 · Active",
+"date": "2026-10-30"
+}
+],
 "extra": {},
-"manual": false,
+"manual": true,
 "timeline": [
 {
 "date": "2025-01-23",
@@ -56042,7 +56131,7 @@
 "iso": "LK",
 "region": "南亚",
 "tier": "A2",
-"grade_now": "A",
+"grade_now": "B",
 "ident": [
 "未坐实",
 "待快照"

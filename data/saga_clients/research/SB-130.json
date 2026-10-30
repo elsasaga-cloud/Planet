@@ -136,6 +136,22 @@
     "quote": "Omnisecurity • Romania — Omnisecurity este o companie ce furnizeaza servicii de supraveghere video si automatizari",
     "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
     "url": "https://omnisecurity.ro/"
+   },
+   {
+    "date": "2026-10-30",
+    "dir": "查",
+    "who": "Agent 网查 A-DEEP-01",
+    "quote": "BONMAG INTERNATIONAL SRL · Fiscal Code 37299107 · Registry No. J15/334/2017 · established 2017 · Sat Voinesti, Dambovita · Web omnisecurity",
+    "why": "A 落池核验：身份/角色/规模（网页公开信息）",
+    "url": "https://www.romanian-companies.eu/bonmag-international-srl-37299107/"
+   },
+   {
+    "date": "2026-10-30",
+    "dir": "查",
+    "who": "Agent 网查 A-DEEP-01",
+    "quote": "OMNI Security, Targoviste — Firma care se ocupa cu instalarea sistemelor de securitate si supraveghere video · office@omnisecurity.ro",
+    "why": "A 落池核验：身份/角色/规模（网页公开信息）",
+    "url": "https://www.facebook.com/Omnisec/"
    }
   ],
   "proof_gaps": [
@@ -235,7 +251,8 @@
   "veto": [],
   "gaps": [
    "路径弱",
-   "规模未知"
+   "规模未知",
+   "人工终判：BONMAG INTERNATIONAL SRL（罗马尼亚 Dâmbovița，CUI 37299107，J15/334/2017；品牌 OMNI Security，Târgoviște 安防/视频监控安装商）：2024 两次回复（要便宜的 4/8 PoE+2 LAN；bypass 可能有用 要价）——微型安装商，欧洲主攻区，薄 A"
   ],
   "story": "罗马尼亚·集成商/安装商；登记坐实：RO · 1 次检索：termene.ro（BONMAG INTERNATIONAL S.R.L.；CUI 372991: BONMAG INTERNATION。往来 2023-02-07→2026-09-03：我方去信 4 封（A 4 / S 0），对方真人来信 0 封 + 表内/备注 2 条；对方问过：92 表: bypass→可能有用 price。我方报过：$170 / $6000。对位：STC-28DGGPM；路径：企业邮箱 + WA；最近来信 2023-02-07（44 月前）。",
   "n_out": 4,
@@ -331,7 +348,18 @@
     "k": ""
    }
   ],
-  "web_facts": [],
-  "manual": false
+  "web_facts": [
+   {
+    "url": "https://www.romanian-companies.eu/bonmag-international-srl-37299107/",
+    "quote": "BONMAG INTERNATIONAL SRL · Fiscal Code 37299107 · Registry No. J15/334/2017 · established 2017 · Sat Voinesti, Dambovita · Web omnisecurity",
+    "date": "2026-10-30"
+   },
+   {
+    "url": "https://www.facebook.com/Omnisec/",
+    "quote": "OMNI Security, Targoviste — Firma care se ocupa cu instalarea sistemelor de securitate si supraveghere video · office@omnisecurity.ro",
+    "date": "2026-10-30"
+   }
+  ],
+  "manual": true
  }
 }

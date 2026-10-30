@@ -1,15 +1,15 @@
 # saucontech.com
 **官方名称（调研核实）**：Saucon Technologies, Inc.（Bethlehem, PA, USA；saucontds.com / saucontech.com）
 
-> **评级 A**　|　美国　|　档案编号 `SB-435`　|　优先级 ★★★　|　状态：已推送 9 次·未回复
+> **评级 B**　|　美国　|　档案编号 `SB-435`　|　优先级 ★★　|　状态：已推送 9 次·未回复
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 9 次（2025-02-25 → 2025-10-23）　|　**所在清单**：A优质名单(US)、AI评估(US)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-435
-rating: A
+rating: B
 rating_auto: B
-rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 
+rating_research: B  # A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：Saucon Technologies（宾州 Bethlehem；11–50
 name_official: "Saucon Technologies, Inc.（Bethlehem, PA, USA；saucontds.com / saucontech.com）"
 score: 42
 country: 美国
@@ -34,7 +34,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：美国宾州 Bethlehem 的客运巴士车载远程信息处理方案商（1997 年成立；11–50 / 42 人；营收 $15.4M 口径；GPS 车队追踪、车载视频监控、电子驾驶日志、乘客 WiFi、Cummins 远程诊断；北美与英国 500+ 客户、10,000+ 辆巴士）。展会记录：联系人 Bill French（bfrench@saucontech.com）问了技术问题；9 次跟进 0 回复。车载（巴士）IP 摄像/WiFi 需 DC 宽压小交换机 → STI 系列配套/OEM。（调研 2026-10-21；表内兴趣：问了一些技术问题）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→））；自动分级 B：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 9 次无任何回复（聋名单）
+- **为什么是 B 级**：**调研后定级 B**（A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：Saucon Technologies（宾州 Bethlehem；11–50 人；大巴车队远程信息 / 车载 Wi-Fi / 车载录像）：车载领域要 E-mark / M12（Saga 不做），只表内 1 次问价——品类不对位，下放 B）；自动分级 B：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 9 次无任何回复（聋名单）
 - **历史互动**：推送 9 次（2025-02-25 → 2025-10-23）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-054GP — OEM/配套 30% 档：STI-054GP（DIN 4 GE PoE + 1 GE，DC 44–57 V，−40~+75 ℃，$33.8）为车载摄像/AP 供电；非 PoE 迷你 STI-050GE（DC 12–36 V，$18.5）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-09 $300（48 Port PoE Managed Switch）、2025-09-05 $240（24 Port Fiber Switch）、2025-09-30 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Bill, picking up your technical questions: for onboard camera + WiFi kits we supply a DIN 4-port gigabit PoE switch (44–57 V DC, −40 to +75 °C, FCC) at $33.8 EXW with the Saucon label; what is the PoE budget per vehicle you design to?
@@ -60,6 +60,7 @@ updated: 2026-10-30
 | 2026-10-21 | 用户表 | Simon | 问了一些技术问题 | 表内备注 | `用户表` |
 | 2026-09-11 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 本日去信真实主题（邮箱索引 17eca1e56b29cd5a；信稿开头句引用此封；此前稿内写的「Managed Optical Bypass Switch」是线程列表首题，不是本封） | `17eca1e56b29cd5a` |
 | 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Saucon Technologies — Saucon's intelligent transportation management platform provides a full suite of cloud-based software, hardware, and analytics tools. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
+| 2026-10-30 | 查 | Agent 网查 A-DEEP-01 | Saucon Technologies … mobile resource management solutions … primary focus being in the motor coach sector … GPS tracking, engine telemetry … mobile Wi-Fi connectivity, on-board video recording · 2455 Baglyos Circle Bethlehem PA | A 落池核验：身份/角色/规模（网页公开信息） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -148,7 +149,7 @@ updated: 2026-10-30
   > 问了一些技术问题
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Bill French（CEO & Founder / President（1997 创办；Cummins 2023 新闻稿、Buzzfile、D&B 一致）= **拍板人本人 = 收件人**（第 99 批 官方登记核实 2026-10-28））bfrench@saucontech.com（用户表） +1 484-241-2515（公司）〔（本地 Clients/ 表格，无公开 URL）〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）
+- **调研后定级**：B（原自动 B）——A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：Saucon Technologies（宾州 Bethlehem；11–50 人；大巴车队远程信息 / 车载 Wi-Fi / 车载录像）：车载领域要 E-mark / M12（Saga 不做），只表内 1 次问价——品类不对位，下放 B
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -204,7 +205,7 @@ updated: 2026-10-30
 | ? | 87 | 24poe |  | A |  | US.xlsx#97 |
 | ? | 95 | 24fiber |  | A |  | US.xlsx#97 |
 
-## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**下放B**）
 
 > Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
 
@@ -215,7 +216,7 @@ updated: 2026-10-30
 | ③ 需求证据 | 泛（问价/要目录） | 2022 表: Simon 备注/兴趣栏→问了一些技术问题 |
 | ④ 路径 | 弱 | 企业邮箱；最近来信 无（仅表内/当面） |
 | ⑤ 规模 | ≥小型 | 28–42 人；$10–15M |
-| ⑥ 否决项 | 无 | 缺口：路径弱 |
+| ⑥ 否决项 | 无 | 缺口：路径弱；人工终判：Saucon Technologies（宾州 Bethlehem；11–50 人；大巴车队远程信息 / 车载 Wi-Fi / 车载录像）：车载领域要 E-mark / M12（Saga 不做），只表内 1 次问价——品类不对位，下放 B |
 
 **故事线**：美国·OEM 品牌商；登记线索：US · 1 次检索：Buzzfile（Saucon Technologies, Inc.；Year Founded 1: Saucon Technologie。往来 2022→2026-09-11：我方去信 23 封（A 21 / S 1），对方真人来信 0 封 + 表内/备注 1 条；对方问过：2022 表: Simon 备注/兴趣栏→问了一些技术问题。我方报过：$170 / $240 / $280 / $300。对位：STI-054GP；路径：企业邮箱；最近来信 无（仅表内/当面）。
 
@@ -235,6 +236,8 @@ updated: 2026-10-30
 | 2026-08-14 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-11 | 去 | A | 16 Port Industrial PoE Switch |  |
 | 2026-09-11 | 去 | R |  |  |
+
+- 网查（2026-10-30）：Saucon Technologies … mobile resource management solutions … primary focus being in the motor coach sector … GPS tracking, engine telemetry … mobile Wi-Fi connectivity, on-board video recording · 2455 Baglyos Circle Beth… — <https://www.saucontds.com/careers>
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
@@ -318,7 +321,7 @@ updated: 2026-10-30
 - **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-054GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
-- 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
+- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
@@ -345,7 +348,7 @@ updated: 2026-10-30
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
-| 商业资格结论 | **技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进** |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -381,11 +384,11 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 42）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 42）
 
 ---
 

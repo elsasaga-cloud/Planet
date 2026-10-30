@@ -63,6 +63,8 @@ updated: 2026-10-30
 | 2025-07-24 | 去 | Saga（Alan） | Hi, Grace, Please see attached download links for full info.（附 Download Link_Alan.pdf） | 断点：没有价、没有网站、没有型号清单 | `gmail_a a03d325cd72aad7c` |
 | 2025-11-19 | 去 | Saga（Alan，群发 → sales@foscoconnect.com） | （2025-08-26 Mini DIN / 09-19 光旁路 / 10-15 10G SFP / 11-19 四封群发，均无回） | 之后停发；本户在 2026 年的群发名单里已不在 | `gmail_a 2dbe7b958999a21f / ccf3841f6f306580 / 917dae8064969d5d` |
 | 2026-10-29 | 查 | Agent 官网快照 LT-T03 | Fiber Optic Cable Supplier, Distributor — Stocking distributor of fiber optic installation tools, bulk fiber cables, fiber patch cables, test equipment, cable management, fiber optic training and more. | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
+| 2026-10-30 | 查 | Agent 网查 A-DEEP-01 | FOSCO Connect (Fiber Optics For Sale Co.) was founded in 2001 by fiber optic networking expert Colin Yao … one of the largest stocking distributors of fiber optic datacom and telecom networking products with multi-million dollar annual sales · 269 Mavis Drive Pleasanton, CA | A 落池核验：身份/角色/规模（网页公开信息） | `` |
+| 2026-10-30 | 查 | Agent 网查 A-DEEP-01 | Fiber Optics For Sale Co. · Computer Networking · 11-50 employees · Fremont, CA · Founded 2001 | A 落池核验：身份/角色/规模（网页公开信息） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：官网未爬：公司所在地（表内 CA）、是否上架交换机；「国内公司搭建的国外网站」是表内猜测，未证实
 
@@ -199,7 +201,7 @@ updated: 2026-10-30
 | ③ 需求证据 | 泛（问价/要目录） | 2025-07-23 A: HI Alan, Please send me more info about your product line, pricing and your website. Thanks. On Wed, Jul 23, 2025 at 8:40 AM Alan from Saga  |
 | ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2025-07-23（15 月前） |
 | ⑤ 规模 | 个人/微型 | 11–50（LinkedIn）/ 12（BBB）；自述「multi-million dollar annual sales」（第 90 批 官方登记核实 2026-10-27） |
-| ⑥ 否决项 | 无 | 缺口：无 |
+| ⑥ 否决项 | 无 | 缺口：人工终判：FOSCO Connect / Fiber Optics For Sale Co.（加州 Pleasanton/Fremont；2001 年 Colin Yao 创立；光纤数据/电信网络产品备货分销商，年销数百万美元，11–50 人）：2025-07 来信要产品线 / 价格 / 网站——美国光纤分销商坐实，分销 20% 档 |
 
 **故事线**：美国·分销商；登记线索：US · 1 次检索：官网 about / help（2001 由 Colin Yao 创立；公司地址 269 Mavi: Fiber Optics For S。往来 2025-01-13→2025-11-19：我方去信 13 封（A 9 / S 1），对方真人来信 1 封 + 表内/备注 0 条；对方问过：2025-07-23 A: HI Alan, Please send me more info about your product line, pricing and your website. Thanks. On Wed, Jul 23, 2025 at 8:40 AM Alan from Saga 。我方报过：$280 / $300。对位：STI-0160GE；路径：企业邮箱 MX ok；最近来信 2025-07-23（15 月前）。
 
@@ -219,6 +221,9 @@ updated: 2026-10-30
 | 2025-10-15 | 去 | A | 10G Enterprise SFP Switch | $280 |
 | 2025-11-19 | 去 | A | Booster PoE Switch |  |
 | 2025-11-19 | 去 | R |  |  |
+
+- 网查（2026-10-30）：FOSCO Connect (Fiber Optics For Sale Co.) was founded in 2001 by fiber optic networking expert Colin Yao … one of the largest stocking distributors of fiber optic datacom and telecom networking products with multi-millio… — <https://www.fiberoptics4sale.com/pages/about-us>
+- 网查（2026-10-30）：Fiber Optics For Sale Co. · Computer Networking · 11-50 employees · Fremont, CA · Founded 2001 — <https://www.linkedin.com/company/fiber-optics-for-sale-co->
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

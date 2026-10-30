@@ -145,6 +145,14 @@
     "quote": "Anasayfa — Anasayfa -Güvenli E-Ticaret,Motif Kart,Sendika,MemurSen, Alışveriş,İndirim, Kupon, Ucuz, Kaliteli, Vakıf,Elektronik, İnşaat, Okul, Bilgisayar,Tablet, Sanat,Kamera.Alarm",
     "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
     "url": "https://www.konakguvenlik.com.tr/"
+   },
+   {
+    "date": "2026-10-30",
+    "dir": "查",
+    "who": "Agent 网查 A-DEEP-01",
+    "quote": "Unvan: Konak Güv.Sis.Dan.Hiz.Eğtm.Elktr.Kmp.Mlz.Teks.İnş.San.VeTicaret Ltd. Şti. · Adres: Kahramanmaraş / Türkiye · satis@konakguvenlik.com.tr · +90 344 221 55 55",
+    "why": "A 落池核验：身份/角色/规模（网页公开信息）",
+    "url": "https://www.konakguvenlik.com.tr/y/yeni-uye-kaydi.html"
    }
   ],
   "proof_gaps": [
@@ -246,7 +254,8 @@
   "veto": [],
   "gaps": [
    "路径弱",
-   "规模未知"
+   "规模未知",
+   "人工终判：Konak Güv.Sis.Dan.Hiz.Eğtm.Elktr.Kmp.Mlz.Teks.İnş.San.ve Ticaret Ltd. Şti.（Kahramanmaraş；安防系统经销 + 网店）：2024-06 来信问有无 AT-FS750-28 同规格产品——土耳其安防经销商，法定名已从官网会员协议取得"
   ],
   "story": "土耳其·集成商/安装商；研究档法定名：Konak Güvenlik（konakguvenlik.com.tr；法定全称 / Ticaret Sicil 未定位）（第 88 批 官方登记核实 2026。往来 2024-06-14→2026-10-06：我方去信 23 封（A 12 / S 9），对方真人来信 1 封 + 表内/备注 0 条；对方问过：2024-06-26 S: Hello, Do you have a product with the features in the description? Thank you Erkut Sevin +905315637721 network-switches-AT-FS750-28-30 15:21。我方报过：$65 / $170 / $220 / $280 / $6000。对位：STC-28DGGPM；路径：企业邮箱；最近来信 2024-06-26（28 月前）。",
   "n_out": 23,
@@ -402,7 +411,13 @@
     "k": "57252fda15e0ac9a"
    }
   ],
-  "web_facts": [],
-  "manual": false
+  "web_facts": [
+   {
+    "url": "https://www.konakguvenlik.com.tr/y/yeni-uye-kaydi.html",
+    "quote": "Unvan: Konak Güv.Sis.Dan.Hiz.Eğtm.Elktr.Kmp.Mlz.Teks.İnş.San.VeTicaret Ltd. Şti. · Adres: Kahramanmaraş / Türkiye · satis@konakguvenlik.com.tr · +90 344 221 55 55",
+    "date": "2026-10-30"
+   }
+  ],
+  "manual": true
  }
 }

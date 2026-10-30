@@ -56,6 +56,7 @@ updated: 2026-10-30
 | 2024-06-26 | 去 | Simon → Erkut Sevin（Re: L2 managed switch；附 STC-4424GCPM.pdf） | 对「Do you have a product with the features in the description? network-switches-AT-FS750-28」的回复：「We just have a similar model (difference: 24 port Gigabit Ethernet, With PoE, more ports). Please check the datasheet」→ 给的是 STC-4424GCPM（24 GE PoE + 4 Combo，L2 管理）；6-30 又推 24 口被动 PoE → 无回。 | Erkut 要的是 **Allied Telesis AT-FS750/28 的等价物**（24×FE + 2×GE Combo + 2×SFP，WebSmart，非 PoE，低价）——Simon 给了 PoE 千兆 L2 机，口径没对上（价位差一个量级）。土耳其安防集成商，重启时直接按「百兆 24 口 Web 管理非 PoE」给 STC-2216/2224 系列价而不是 4424GCPM；群发里他已见 448XGGM $220（2024-06-14） | `k=8c1d7c507bf9d631（S 邮箱 2024-06-26 09:14Z）` |
 | 2024-11-05 | 去 | Simon → Angora Networks（SA-077）附件 Turkey Client List.xlsx | 名单行：「90 5315637721 Commercial POE satis@konakguvenlik.com.tr https://www.konakguvenlik.com.tr/k/2539-.html」 | Saga 2024-11-05 把本户列入交给 Angora（安卡拉，Saga 提议的欧盟/土耳其分销伙伴）的 64 家起步名单；此后 Saga 仍直发本户。若 Angora 已接触过本户，Saga 直发会与自己提议的渠道打架 → Q-51（默认：直发继续，Angora 报了价的户 Saga 只做技术支持） | `gmail_s 2024-11-05 Re: Invoice_5pcs STC-424DGGPM-280W（附件）+ Drive PI 7_土耳其 Turkey_Client_List.xlsx` |
 | 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Anasayfa — Anasayfa -Güvenli E-Ticaret,Motif Kart,Sendika,MemurSen, Alışveriş,İndirim, Kupon, Ucuz, Kaliteli, Vakıf,Elektronik, İnşaat, Okul, Bilgisayar,Tablet, Sanat,Kamera.Alarm | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
+| 2026-10-30 | 查 | Agent 网查 A-DEEP-01 | Unvan: Konak Güv.Sis.Dan.Hiz.Eğtm.Elktr.Kmp.Mlz.Teks.İnş.San.VeTicaret Ltd. Şti. · Adres: Kahramanmaraş / Türkiye · satis@konakguvenlik.com.tr · +90 344 221 55 55 | A 落池核验：身份/角色/规模（网页公开信息） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：在 Saga 给 Angora 的 Turkey Client List（2024-11-05）里——Angora 是否接触过本户无记录（Q-51）
 
@@ -218,7 +219,7 @@ updated: 2026-10-30
 | ③ 需求证据 | 泛（问价/要目录） | 2024-06-26 S: Hello, Do you have a product with the features in the description? Thank you Erkut Sevin +905315637721 network-switches-AT-FS750-28-30 15:21 |
 | ④ 路径 | 弱 | 企业邮箱；最近来信 2024-06-26（28 月前） |
 | ⑤ 规模 | 未知 |  |
-| ⑥ 否决项 | 无 | 缺口：路径弱；规模未知 |
+| ⑥ 否决项 | 无 | 缺口：路径弱；规模未知；人工终判：Konak Güv.Sis.Dan.Hiz.Eğtm.Elktr.Kmp.Mlz.Teks.İnş.San.ve Ticaret Ltd. Şti.（Kahramanmaraş；安防系统经销 + 网店）：2024-06 来信问有无 AT-FS750-28 同规格产品——土耳其安防经销商，法定名已从官网会员协议取得 |
 
 **故事线**：土耳其·集成商/安装商；研究档法定名：Konak Güvenlik（konakguvenlik.com.tr；法定全称 / Ticaret Sicil 未定位）（第 88 批 官方登记核实 2026。往来 2024-06-14→2026-10-06：我方去信 23 封（A 12 / S 9），对方真人来信 1 封 + 表内/备注 0 条；对方问过：2024-06-26 S: Hello, Do you have a product with the features in the description? Thank you Erkut Sevin +905315637721 network-switches-AT-FS750-28-30 15:21。我方报过：$65 / $170 / $220 / $280 / $6000。对位：STC-28DGGPM；路径：企业邮箱；最近来信 2024-06-26（28 月前）。
 
@@ -238,6 +239,8 @@ updated: 2026-10-30
 | 2026-07-21 | 去 | A | Saga Q3 Product Links |  |
 | 2026-08-31 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-10-06 | 去 | A | Managed PoE Switches |  |
+
+- 网查（2026-10-30）：Unvan: Konak Güv.Sis.Dan.Hiz.Eğtm.Elktr.Kmp.Mlz.Teks.İnş.San.VeTicaret Ltd. Şti. · Adres: Kahramanmaraş / Türkiye · satis@konakguvenlik.com.tr · +90 344 221 55 55 — <https://www.konakguvenlik.com.tr/y/yeni-uye-kaydi.html>
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

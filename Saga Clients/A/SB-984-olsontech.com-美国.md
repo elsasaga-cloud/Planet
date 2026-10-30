@@ -55,6 +55,8 @@ updated: 2026-10-30
 | 2025-02-28 | out | Elsa → sales@olsontech.com | 16 Port PoE Managed Switch（Elsa 1:1 单发；To 仅本户，非 BCC 批次） | 本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无） | `elsa_1to1` |
 | 2025-08-09 | 去 | Saga（Alan） | Hi, Peter, Thanks for your interest. There are 2 versions for this model. 225usd/pc, L2+ managed 310usd/pc, L3 managed Please see attached datasheets and let me know if you need web/cli manual & software list. Thank you. On Sat, Aug 9, 2025 at 3:21 AM Peter Ta | 历史报价点（主题「Re: 24 Port Fiber Switch」；第 20 批从 gmail_a 回补）：225usd / 310usd | `7533abba594ebc6d` |
 | 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Home \| OlsonTech — This is the homepage of the website | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
+| 2026-10-30 | 查 | Agent 网查 A-DEEP-01 | Antronix of California (Olson Technology Division) designs and manufactures electronic and fiber optic products for CATV, L-Band, FTTH, Headend Processing, CCTV … and OEM clients · 24926 Highway 108, Mi-Wuk Village, CA 95346 · sales@olsontech.com | A 落池核验：身份/角色/规模（网页公开信息） | `` |
+| 2026-10-30 | 查 | Agent 网查 A-DEEP-01 | Olson Technology, Inc. · Mi Wuk Village, California · 11-50 · Active | A 落池核验：身份/角色/规模（网页公开信息） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -211,7 +213,7 @@ updated: 2026-10-30
 | ③ 需求证据 | 泛（问价/要目录） | 2025-08-08 A: Thanks.. I’d be interested in the pricing… Thanks Peter ‖ 2025-08-09 A: Thank you. Yes, please send manual as well... |
 | ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2025-08-09（14 月前） |
 | ⑤ 规模 | 未知 |  |
-| ⑥ 否决项 | 无 | 缺口：规模未知 |
+| ⑥ 否决项 | 无 | 缺口：规模未知；人工终判：Olson Technology, Inc.（Antronix of California 分部；加州 Mi-Wuk Village；11–50 人；CATV / FTTH / L-Band 光纤传输设备制造商，承接 OEM 设计）：2025-08 Peter 回「interested in the pricing」「please send manual」——设备制造商 + Ethernet/FTTX 线，OEM 30% 对位 |
 
 **故事线**：美国·OEM 品牌商；登记线索：US · 1 次检索：官网 company.html（「Antronix of California, (Olson T: Olson Technology, 。往来 2025-01-23→2026-02-12：我方去信 15 封（A 14 / S 1），对方真人来信 2 封 + 表内/备注 0 条；对方问过：2025-08-08 A: Thanks.. I’d be interested in the pricing… Thanks Peter ‖ 2025-08-09 A: Thank you. Yes, please send manual as well...。我方报过：$225 / $240 / $280 / $310。对位：STI-110GE；路径：企业邮箱 MX ok；最近来信 2025-08-09（14 月前）。
 
@@ -231,6 +233,9 @@ updated: 2026-10-30
 | 2025-12-26 | 去 | A | Marvell Industrial Alert System |  |
 | 2026-01-16 | 去 | A | OEM Core Switching Solution |  |
 | 2026-02-12 | 去 | A | Updated Ethernet Switches Links |  |
+
+- 网查（2026-10-30）：Antronix of California (Olson Technology Division) designs and manufactures electronic and fiber optic products for CATV, L-Band, FTTH, Headend Processing, CCTV … and OEM clients · 24926 Highway 108, Mi-Wuk Village, CA 9… — <http://www.olsontech.com/>
+- 网查（2026-10-30）：Olson Technology, Inc. · Mi Wuk Village, California · 11-50 · Active — <https://www.crunchbase.com/organization/olson-technology>
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

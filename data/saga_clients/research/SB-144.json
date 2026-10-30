@@ -132,6 +132,22 @@
     "quote": "BSD Networks – Driving Fiber Innovation",
     "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
     "url": "https://bsdnetworks.com/"
+   },
+   {
+    "date": "2026-10-30",
+    "dir": "查",
+    "who": "Agent 网查 A-DEEP-01",
+    "quote": "BSD Networks is a leading brand of Networking and Fiber Optic products sold in Canada and the USA for its parent company, BSD International Marketing · 520 Applewood Cres, Concord, ON · 905-669-6613",
+    "why": "A 落池核验：身份/角色/规模（网页公开信息）",
+    "url": "https://www.yellowpages.ca/bus/Ontario/Concord/BSD-International-Marketing/3763995.html"
+   },
+   {
+    "date": "2026-10-30",
+    "dir": "查",
+    "who": "Agent 网查 A-DEEP-01",
+    "quote": "BSD Networks · Manufacturing · Telecommunication Equipment · 11-50 Employees · Robert Lichtenstein Owner",
+    "why": "A 落池核验：身份/角色/规模（网页公开信息）",
+    "url": "https://www.zoominfo.com/c/bsd-networks/10489097"
    }
   ],
   "proof_gaps": [],
@@ -241,7 +257,9 @@
   "size": "≈19 人（ZoomInfo）（第 89 批 官方登记核实 2026-10-27）",
   "size_lv": "≥小型",
   "veto": [],
-  "gaps": [],
+  "gaps": [
+   "人工终判：BSD Networks（BSD International Marketing 旗下品牌；安大略 Concord/Thornhill；Owner Robert Lichtenstein；11–50 人；在加拿大/美国销售自有品牌网络与光纤产品）：2025 来信要更多资料——自有品牌网络产品商，OEM 30% 直接对位"
+  ],
   "story": "加拿大·OEM 品牌商；登记线索：CA · ZoomInfo / D&B（Key Principal、人数、1982 起）+ yellowpages（母公: BSD International 。往来 2024-07-02→2026-09-09：我方去信 26 封（A 19 / S 7），对方真人来信 1 封 + 表内/备注 0 条；对方问过：2026-03-30 A: Good morning Alan, It was nice to hear from you. Could you please provide more information about Saga Telecom? Specifically, do you manufact。我方报过：$170 / $280 / $6000。对位：STI-288GP；路径：企业邮箱 MX ok；最近来信 2026-05-26（5 月前）。",
   "n_out": 26,
   "n_in": 1,
@@ -394,7 +412,18 @@
     "k": "117c26f1ea366b6b"
    }
   ],
-  "web_facts": [],
-  "manual": false
+  "web_facts": [
+   {
+    "url": "https://www.yellowpages.ca/bus/Ontario/Concord/BSD-International-Marketing/3763995.html",
+    "quote": "BSD Networks is a leading brand of Networking and Fiber Optic products sold in Canada and the USA for its parent company, BSD International Marketing · 520 Applewood Cres, Concord, ON · 905-669-6613",
+    "date": "2026-10-30"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/bsd-networks/10489097",
+    "quote": "BSD Networks · Manufacturing · Telecommunication Equipment · 11-50 Employees · Robert Lichtenstein Owner",
+    "date": "2026-10-30"
+   }
+  ],
+  "manual": true
  }
 }

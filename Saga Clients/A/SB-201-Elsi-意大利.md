@@ -58,6 +58,8 @@ updated: 2026-10-30
 | 2026-09-16 | 去 | A/S 群发 | Marvell Industrial Alert System、Industrial PoE Switch | 23 封 / 1 次打开 / 0 回｜首封 2024-07-09 → 末封 2026-09-16（23 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | 主要用国内univew这家的摄像头，处理CCTV security, 问了商业PoE的price list,给他介绍了2光10电，没太多意愿 | 表内备注 | `用户表` |
 | 2026-10-21 | 查 | Agent 官网快照 LT-T03 | ELSI - Benvenuti | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
+| 2026-10-30 | 查 | Agent 网查 A-DEEP-01 | El.si. Srl · Via Enzo Ferrari, Crotone (KR) · 17 dipendenti · fatturato 3.9 M € · piccola impresa · foundingDate 1985 · P.IVA 01536710799 | A 落池核验：身份/角色/规模（网页公开信息） | `` |
+| 2026-10-30 | 查 | Agent 网查 A-DEEP-01 | Da 35 anni siamo leader in tutta la Calabria, Basilicata e Puglia, nella distribuzione di prodotti e servizi nei settori … Sicurezza (Antifurto, Videosorveglianza e Antincendio) … accompagnare installatori | A 落池核验：身份/角色/规模（网页公开信息） | `` |
 
 ## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
 
@@ -214,7 +216,7 @@ updated: 2026-10-30
 | ③ 需求证据 | 泛（问价/要目录） | 2023 表: Simon 备注/兴趣栏→主要用国内univew这家的摄像头，处理CCTV security, 问了商业PoE的price list,给他介绍了2光10电，没太多意愿说会看的 ； 096 |
 | ④ 路径 | 弱 | 企业邮箱；最近来信 无（仅表内/当面） |
 | ⑤ 规模 | 未知 |  |
-| ⑥ 否决项 | 无 | 缺口：路径弱；规模未知 |
+| ⑥ 否决项 | 无 | 缺口：路径弱；规模未知；人工终判：EL.SI. S.r.l.（意大利 Crotone；P.IVA 01536710799；1985 年起；17 名员工、营收 €3.9M；面向安装商的安防/自动化/视频监控区域分销商，覆盖 Calabria / Basilicata / Puglia）：Simon 备注记录其问价——区域安防分销商坐实，分销 20% 档 |
 
 **故事线**：意大利·分销商；登记坐实：IT · 1 次检索：ufficiocamerale（EL.SI. S.R.L.；P.IVA 01536710799；L: EL.SI. S.R.L.（elsi。往来 2023→2026-09-16：我方去信 24 封（A 16 / S 7），对方真人来信 0 封 + 表内/备注 1 条；对方问过：2023 表: Simon 备注/兴趣栏→主要用国内univew这家的摄像头，处理CCTV security, 问了商业PoE的price list,给他介绍了2光10电，没太多意愿说会看的 ； 096。我方报过：$240 / $280 / $300。对位：STC-28DGGPM；路径：企业邮箱；最近来信 无（仅表内/当面）。
 
@@ -234,6 +236,9 @@ updated: 2026-10-30
 | 2026-08-05 | 去 | A | WiFi 7 Ready Access Switch |  |
 | 2026-09-16 | 去 | A | 16 Port Industrial PoE Switch |  |
 | 2026-09-16 | 去 | R |  |  |
+
+- 网查（2026-10-30）：El.si. Srl · Via Enzo Ferrari, Crotone (KR) · 17 dipendenti · fatturato 3.9 M € · piccola impresa · foundingDate 1985 · P.IVA 01536710799 — <https://atoka.io/public/it/azienda/elsi-srl/0bb316a1912e>
+- 网查（2026-10-30）：Da 35 anni siamo leader in tutta la Calabria, Basilicata e Puglia, nella distribuzione di prodotti e servizi nei settori … Sicurezza (Antifurto, Videosorveglianza e Antincendio) … accompagnare installatori — <http://www.elsikr.it/chi-siamo.html>
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

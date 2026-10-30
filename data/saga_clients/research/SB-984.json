@@ -135,6 +135,22 @@
     "quote": "Home | OlsonTech — This is the homepage of the website",
     "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
     "url": "https://olsontech.com/"
+   },
+   {
+    "date": "2026-10-30",
+    "dir": "查",
+    "who": "Agent 网查 A-DEEP-01",
+    "quote": "Antronix of California (Olson Technology Division) designs and manufactures electronic and fiber optic products for CATV, L-Band, FTTH, Headend Processing, CCTV … and OEM clients · 24926 Highway 108, Mi-Wuk Village, CA 95346 · sales@olsontech.com",
+    "why": "A 落池核验：身份/角色/规模（网页公开信息）",
+    "url": "http://www.olsontech.com/"
+   },
+   {
+    "date": "2026-10-30",
+    "dir": "查",
+    "who": "Agent 网查 A-DEEP-01",
+    "quote": "Olson Technology, Inc. · Mi Wuk Village, California · 11-50 · Active",
+    "why": "A 落池核验：身份/角色/规模（网页公开信息）",
+    "url": "https://www.crunchbase.com/organization/olson-technology"
    }
   ],
   "proof_gaps": [],
@@ -236,7 +252,8 @@
   "size_lv": "未知",
   "veto": [],
   "gaps": [
-   "规模未知"
+   "规模未知",
+   "人工终判：Olson Technology, Inc.（Antronix of California 分部；加州 Mi-Wuk Village；11–50 人；CATV / FTTH / L-Band 光纤传输设备制造商，承接 OEM 设计）：2025-08 Peter 回「interested in the pricing」「please send manual」——设备制造商 + Ethernet/FTTX 线，OEM 30% 对位"
   ],
   "story": "美国·OEM 品牌商；登记线索：US · 1 次检索：官网 company.html（「Antronix of California, (Olson T: Olson Technology, 。往来 2025-01-23→2026-02-12：我方去信 15 封（A 14 / S 1），对方真人来信 2 封 + 表内/备注 0 条；对方问过：2025-08-08 A: Thanks.. I’d be interested in the pricing… Thanks Peter ‖ 2025-08-09 A: Thank you. Yes, please send manual as well...。我方报过：$225 / $240 / $280 / $310。对位：STI-110GE；路径：企业邮箱 MX ok；最近来信 2025-08-09（14 月前）。",
   "n_out": 15,
@@ -391,7 +408,18 @@
     "k": "4403254a37a344df"
    }
   ],
-  "web_facts": [],
-  "manual": false
+  "web_facts": [
+   {
+    "url": "http://www.olsontech.com/",
+    "quote": "Antronix of California (Olson Technology Division) designs and manufactures electronic and fiber optic products for CATV, L-Band, FTTH, Headend Processing, CCTV … and OEM clients · 24926 Highway 108, Mi-Wuk Village, CA 95346 · sales@olsontech.com",
+    "date": "2026-10-30"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/olson-technology",
+    "quote": "Olson Technology, Inc. · Mi Wuk Village, California · 11-50 · Active",
+    "date": "2026-10-30"
+   }
+  ],
+  "manual": true
  }
 }

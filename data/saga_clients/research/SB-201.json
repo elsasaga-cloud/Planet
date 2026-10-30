@@ -137,6 +137,22 @@
     "quote": "ELSI - Benvenuti",
     "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
     "url": "https://elsikr.it/"
+   },
+   {
+    "date": "2026-10-30",
+    "dir": "查",
+    "who": "Agent 网查 A-DEEP-01",
+    "quote": "El.si. Srl · Via Enzo Ferrari, Crotone (KR) · 17 dipendenti · fatturato 3.9 M € · piccola impresa · foundingDate 1985 · P.IVA 01536710799",
+    "why": "A 落池核验：身份/角色/规模（网页公开信息）",
+    "url": "https://atoka.io/public/it/azienda/elsi-srl/0bb316a1912e"
+   },
+   {
+    "date": "2026-10-30",
+    "dir": "查",
+    "who": "Agent 网查 A-DEEP-01",
+    "quote": "Da 35 anni siamo leader in tutta la Calabria, Basilicata e Puglia, nella distribuzione di prodotti e servizi nei settori … Sicurezza (Antifurto, Videosorveglianza e Antincendio) … accompagnare installatori",
+    "why": "A 落池核验：身份/角色/规模（网页公开信息）",
+    "url": "http://www.elsikr.it/chi-siamo.html"
    }
   ],
   "proof_gaps": [],
@@ -221,7 +237,8 @@
   "veto": [],
   "gaps": [
    "路径弱",
-   "规模未知"
+   "规模未知",
+   "人工终判：EL.SI. S.r.l.（意大利 Crotone；P.IVA 01536710799；1985 年起；17 名员工、营收 €3.9M；面向安装商的安防/自动化/视频监控区域分销商，覆盖 Calabria / Basilicata / Puglia）：Simon 备注记录其问价——区域安防分销商坐实，分销 20% 档"
   ],
   "story": "意大利·分销商；登记坐实：IT · 1 次检索：ufficiocamerale（EL.SI. S.R.L.；P.IVA 01536710799；L: EL.SI. S.R.L.（elsi。往来 2023→2026-09-16：我方去信 24 封（A 16 / S 7），对方真人来信 0 封 + 表内/备注 1 条；对方问过：2023 表: Simon 备注/兴趣栏→主要用国内univew这家的摄像头，处理CCTV security, 问了商业PoE的price list,给他介绍了2光10电，没太多意愿说会看的 ； 096。我方报过：$240 / $280 / $300。对位：STC-28DGGPM；路径：企业邮箱；最近来信 无（仅表内/当面）。",
   "n_out": 24,
@@ -369,7 +386,18 @@
     "k": "gmail_digest"
    }
   ],
-  "web_facts": [],
-  "manual": false
+  "web_facts": [
+   {
+    "url": "https://atoka.io/public/it/azienda/elsi-srl/0bb316a1912e",
+    "quote": "El.si. Srl · Via Enzo Ferrari, Crotone (KR) · 17 dipendenti · fatturato 3.9 M € · piccola impresa · foundingDate 1985 · P.IVA 01536710799",
+    "date": "2026-10-30"
+   },
+   {
+    "url": "http://www.elsikr.it/chi-siamo.html",
+    "quote": "Da 35 anni siamo leader in tutta la Calabria, Basilicata e Puglia, nella distribuzione di prodotti e servizi nei settori … Sicurezza (Antifurto, Videosorveglianza e Antincendio) … accompagnare installatori",
+    "date": "2026-10-30"
+   }
+  ],
+  "manual": true
  }
 }

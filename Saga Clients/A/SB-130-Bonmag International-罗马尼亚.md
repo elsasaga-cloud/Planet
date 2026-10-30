@@ -62,6 +62,8 @@ updated: 2026-10-30
 | 2026-09-03 | 去 | A 群发 | 24 Port PoE Managed Switch、10G L3 Managed Switch | 4 封 / 0 次打开 / 0 回｜首封 2026-05-19 → 末封 2026-09-03（4 去 / 0 来） | `gmail_digest` |
 | 2026-10-21 | 用户表 | Simon | （用户表字段） | 表内备注 | `用户表` |
 | 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Omnisecurity • Romania — Omnisecurity este o companie ce furnizeaza servicii de supraveghere video si automatizari | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
+| 2026-10-30 | 查 | Agent 网查 A-DEEP-01 | BONMAG INTERNATIONAL SRL · Fiscal Code 37299107 · Registry No. J15/334/2017 · established 2017 · Sat Voinesti, Dambovita · Web omnisecurity | A 落池核验：身份/角色/规模（网页公开信息） | `` |
+| 2026-10-30 | 查 | Agent 网查 A-DEEP-01 | OMNI Security, Targoviste — Firma care se ocupa cu instalarea sistemelor de securitate si supraveghere video · office@omnisecurity.ro | A 落池核验：身份/角色/规模（网页公开信息） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未触达」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
 
@@ -217,7 +219,7 @@ updated: 2026-10-30
 | ③ 需求证据 | 泛（问价/要目录） | 92 表: bypass→可能有用 price |
 | ④ 路径 | 弱 | 企业邮箱 + WA；最近来信 2023-02-07（44 月前） |
 | ⑤ 规模 | 未知 |  |
-| ⑥ 否决项 | 无 | 缺口：路径弱；规模未知 |
+| ⑥ 否决项 | 无 | 缺口：路径弱；规模未知；人工终判：BONMAG INTERNATIONAL SRL（罗马尼亚 Dâmbovița，CUI 37299107，J15/334/2017；品牌 OMNI Security，Târgoviște 安防/视频监控安装商）：2024 两次回复（要便宜的 4/8 PoE+2 LAN；bypass 可能有用 要价）——微型安装商，欧洲主攻区，薄 A |
 
 **故事线**：罗马尼亚·集成商/安装商；登记坐实：RO · 1 次检索：termene.ro（BONMAG INTERNATIONAL S.R.L.；CUI 372991: BONMAG INTERNATION。往来 2023-02-07→2026-09-03：我方去信 4 封（A 4 / S 0），对方真人来信 0 封 + 表内/备注 2 条；对方问过：92 表: bypass→可能有用 price。我方报过：$170 / $6000。对位：STC-28DGGPM；路径：企业邮箱 + WA；最近来信 2023-02-07（44 月前）。
 
@@ -232,6 +234,9 @@ updated: 2026-10-30
 | 2026-07-23 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-03 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 92 | 表 | 表 | bypass｜可能有用 price |  |
+
+- 网查（2026-10-30）：BONMAG INTERNATIONAL SRL · Fiscal Code 37299107 · Registry No. J15/334/2017 · established 2017 · Sat Voinesti, Dambovita · Web omnisecurity — <https://www.romanian-companies.eu/bonmag-international-srl-37299107/>
+- 网查（2026-10-30）：OMNI Security, Targoviste — Firma care se ocupa cu instalarea sistemelor de securitate si supraveghere video · office@omnisecurity.ro — <https://www.facebook.com/Omnisec/>
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

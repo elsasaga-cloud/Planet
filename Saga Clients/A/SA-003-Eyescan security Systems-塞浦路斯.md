@@ -62,6 +62,8 @@ updated: 2026-10-30
 | 2025-05-29 | 去 | Saga（群发） | 「Mini Industrial PoE Switch」被打开（Mailtrack Opened 标签） | 唯一的互动痕迹 | `66ef1c3d2c1a5e08` |
 | 2026-09-14 | 去 | A 箱（Alan） | 16 Port Industrial PoE Switch | 最近一封去信（邮箱索引；去信共 16 封） | `f6c64abd03bd5dab` |
 | 2026-10-21 | 查 | Agent 官网快照 LT-T03 | Home - Eyescan Private Security Services Ltd | 官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回） | `` |
+| 2026-10-30 | 查 | Agent 网查 A-DEEP-01 | EYESCAN PRIVATE SECURITY SERVICES LTD · 65 Michail Zavou, Agios Athanasios, Limassol 4107 · Director Erodotos Stylianou · Director and Secretary Marinos Charalampous · 1-24 employees · +357-25333300 | A 落池核验：身份/角色/规模（网页公开信息） | `` |
+| 2026-10-30 | 查 | Agent 网查 A-DEEP-01 | 2001 Company Formation · 2007 one of the major players in the Cyprus market · 2015 reached 2 million dollars in turnover · We design, sell, install, integrate, and maintain security systems | A 落池核验：身份/角色/规模（网页公开信息） | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：邮件 0 来信：用户表所称「回复」若存在，应在 WhatsApp/展会（Elsa 邮箱 第 74 批(p) 已逐户查：Elsa 从未去信、Replied 索引亦无此户），仓库未见原文
 
@@ -217,7 +219,7 @@ A 级确认：有具体型号问价（4 光 24 电 / 2 光 24），安防集成+
 | ③ 需求证据 | 具体（型号/数量/项目/样品） | 2023 表: Simon 备注/兴趣栏→工业品price list, 特别问了4光24电的价格，对于管理方式问的比较多，也问了2光24商业级PoE能否做管理的，说国家小，买了卖给别人，基本不咋做OEM |
 | ④ 路径 | 弱 | 企业邮箱 + WA；最近来信 无（仅表内/当面） |
 | ⑤ 规模 | 个人/微型 | 11–50（LinkedIn） |
-| ⑥ 否决项 | 无 | 缺口：路径弱 |
+| ⑥ 否决项 | 无 | 缺口：路径弱；人工终判：Eyescan Private Security Services Ltd（利马索尔；2001 年成立；D&B：董事 Erodotos Stylianou / Marinos Charalampous，1–24 人；官网：2015 年营业额达 $2M；设计/销售/安装/维护安防系统 + 报警接收中心）：Simon 备注要了工业价目、特别问 4 光 24 电 / 2 光 24 商业级——塞浦路斯安防集成商坐实 |
 
 **故事线**：塞浦路斯·OEM 品牌商/分销商；登记线索：塞浦路斯 · 公司注册处查询为 JS 交互，无镜像；本行为「无登记源」记录（据第 79 批研究档）: Eyescan Private Security Serv。往来 2023→2026-09-14：我方去信 16 封（A 16 / S 0），对方真人来信 0 封 + 表内/备注 1 条；对方问过：2023 表: Simon 备注/兴趣栏→工业品price list, 特别问了4光24电的价格，对于管理方式问的比较多，也问了2光24商业级PoE能否做管理的，说国家小，买了卖给别人，基本不咋做OEM。我方报过：$170 / $280 / $300 / $6000。对位：STC-424DGGPM-280W；路径：企业邮箱 + WA；最近来信 无（仅表内/当面）。
 
@@ -237,6 +239,9 @@ A 级确认：有具体型号问价（4 光 24 电 / 2 光 24），安防集成+
 | 2026-06-17 | 去 | A | 32 Port 400GB DC Switch | $6000 |
 | 2026-07-28 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-14 | 去 | A | 16 Port Industrial PoE Switch |  |
+
+- 网查（2026-10-30）：EYESCAN PRIVATE SECURITY SERVICES LTD · 65 Michail Zavou, Agios Athanasios, Limassol 4107 · Director Erodotos Stylianou · Director and Secretary Marinos Charalampous · 1-24 employees · +357-25333300 — <https://www.dnb.com/business-directory/company-profiles/eyescan-private-security-services-ltd.1ac629ee0e4fa28c2eb3603b85b97c55>
+- 网查（2026-10-30）：2001 Company Formation · 2007 one of the major players in the Cyprus market · 2015 reached 2 million dollars in turnover · We design, sell, install, integrate, and maintain security systems — <https://eyescan.com.cy/about-us/>
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
